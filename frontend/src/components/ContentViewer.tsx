@@ -17,23 +17,61 @@ const ContentViewer: React.FC<ContentViewerProps> = ({ content }) => {
     switch (section.type) {
       case 'getting-started':
         return <GettingStarted key={section.title} section={section} />;
-      case 'closer-look':
-        if (section.subsections) {
-          return section.subsections.map((sub: any) => {
-            if (sub.type === 'vocabulary') {
-              return <VocabularySection key={sub.title} section={sub} />;
-            }
-            if (sub.type === 'pronunciation') {
-              return <PronunciationSection key={sub.title} section={sub} />;
-            }
-            return null;
-          });
-        }
-        return null;
+        
+      case 'closer-look-1':
+        // This section typically has vocabulary and pronunciation subsections
+        return (
+          <Box key={section.title}>
+            <Box component="h2" sx={{ fontSize: '2rem', fontWeight: 600, mb: 3, mt: 4 }}>
+              {section.title}
+            </Box>
+            {section.subsections?.map((sub: any) => {
+              if (sub.type === 'vocabulary') {
+                return <VocabularySection key={sub.title} section={sub} />;
+              }
+              if (sub.type === 'pronunciation') {
+                return <PronunciationSection key={sub.title} section={sub} />;
+              }
+              return <ExerciseSection key={sub.title} section={sub} />;
+            })}
+            {section.content?.length > 0 && <ExerciseSection section={section} />}
+          </Box>
+        );
+        
+      case 'closer-look-2':
+        // Grammar section with exercises
+        return (
+          <Box key={section.title}>
+            <Box component="h2" sx={{ fontSize: '2rem', fontWeight: 600, mb: 3, mt: 4 }}>
+              {section.title}
+            </Box>
+            {section.subsections?.map((sub: any) => {
+              if (sub.type === 'grammar') {
+                return <ExerciseSection key={sub.title} section={sub} />;
+              }
+              return <ExerciseSection key={sub.title} section={sub} />;
+            })}
+            {!section.subsections && <ExerciseSection section={section} />}
+          </Box>
+        );
+        
       case 'communication':
         return <CommunicationSection key={section.title} section={section} />;
-      case 'skills':
+        
+      case 'skills-1':
+      case 'skills-2':
         return <SkillsSection key={section.title} section={section} />;
+        
+      case 'looking-back':
+        return (
+          <Box key={section.title}>
+            <Box component="h2" sx={{ fontSize: '2rem', fontWeight: 600, mb: 3, mt: 4 }}>
+              {section.title}
+            </Box>
+            <ExerciseSection section={section} />
+          </Box>
+        );
+        
       default:
         if (section.subsections?.some((sub: any) => sub.type === 'exercises')) {
           return <ExerciseSection key={section.title} section={section} />;

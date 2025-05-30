@@ -30,6 +30,17 @@ export interface Heading {
   level: number;
 }
 
+// Standard pedagogical section order
+const SECTION_ORDER = [
+  'GETTING STARTED',
+  'A CLOSER LOOK 1',
+  'A CLOSER LOOK 2',
+  'COMMUNICATION',
+  'SKILLS 1',
+  'SKILLS 2',
+  'LOOKING BACK'
+];
+
 export class MarkdownService {
   private markdownDir: string;
 
@@ -139,12 +150,36 @@ export class MarkdownService {
     return headings;
   }
 
+  private sortSections(sections: any[]): any[] {
+    return sections.sort((a, b) => {
+      const aIndex = SECTION_ORDER.findIndex(order => 
+        a.title.toUpperCase().includes(order)
+      );
+      const bIndex = SECTION_ORDER.findIndex(order => 
+        b.title.toUpperCase().includes(order)
+      );
+      
+      // If both found in order, sort by that
+      if (aIndex !== -1 && bIndex !== -1) {
+        return aIndex - bIndex;
+      }
+      
+      // If only one found, it comes first
+      if (aIndex !== -1) return -1;
+      if (bIndex !== -1) return 1;
+      
+      // Otherwise maintain original order
+      return a.originalIndex - b.originalIndex;
+    });
+  }
+
   private parseContent(content: string): any {
     const sections: any[] = [];
     const lines = content.split('\n');
     let currentSection: any = null;
     let currentSubsection: any = null;
     let currentContent: string[] = [];
+    let sectionIndex = 0;
 
     const flushContent = () => {
       if (currentContent.length > 0) {
@@ -183,7 +218,8 @@ export class MarkdownService {
         currentSubsection = {
           type: this.getSectionType(title),
           title,
-          content: []
+          content: [],
+          originalIndex: sectionIndex++
         };
         if (currentSection) {
           currentSection.sections.push(currentSubsection);
@@ -245,16 +281,35 @@ export class MarkdownService {
     });
 
     flushContent();
+    
+    // Sort sections in each unit according to pedagogical order
+    sections.forEach(unit => {
+      if (unit.sections && unit.sections.length > 0) {
+        unit.sections = this.sortSections(unit.sections);
+      }
+    });
+    
     return sections;
   }
 
   private getSectionType(title: string): string {
+    const upper = title.toUpperCase();
+    
+    if (upper.includes('GETTING STARTED')) return 'getting-started';
+    if (upper.includes('A CLOSER LOOK 1')) return 'closer-look-1';
+    if (upper.includes('A CLOSER LOOK 2')) return 'closer-look-2';
+    if (upper.includes('COMMUNICATION')) return 'communication';
+    if (upper.includes('SKILLS 1')) return 'skills-1';
+    if (upper.includes('SKILLS 2')) return 'skills-2';
+    if (upper.includes('LOOKING BACK')) return 'looking-back';
+    
+    // Fallback patterns
     const lower = title.toLowerCase();
-    if (lower.includes('getting started')) return 'getting-started';
-    if (lower.includes('closer look')) return 'closer-look';
-    if (lower.includes('communication')) return 'communication';
-    if (lower.includes('skills')) return 'skills';
-    if (lower.includes('looking back')) return 'looking-back';
+    if (lower.includes('closer look') && lower.includes('1')) return 'closer-look-1';
+    if (lower.includes('closer look') && lower.includes('2')) return 'closer-look-2';
+    if (lower.includes('skills') && lower.includes('1')) return 'skills-1';
+    if (lower.includes('skills') && lower.includes('2')) return 'skills-2';
+    
     return 'general';
   }
 

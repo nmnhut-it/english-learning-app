@@ -10,6 +10,9 @@ import {
   Box,
   Collapse,
   IconButton,
+  Drawer,
+  useMediaQuery,
+  useTheme,
 } from '@mui/material';
 import FolderIcon from '@mui/icons-material/Folder';
 import FolderOpenIcon from '@mui/icons-material/FolderOpen';
@@ -22,6 +25,8 @@ interface FileListProps {
   files: FileTreeNode | null;
   selectedFile: string | null;
   onFileSelect: (path: string) => void;
+  open?: boolean;
+  onToggle?: () => void;
 }
 
 interface TreeItemProps {
@@ -96,25 +101,56 @@ const TreeItem: React.FC<TreeItemProps> = ({ node, selectedFile, onFileSelect, l
   );
 };
 
-const FileList: React.FC<FileListProps> = ({ files, selectedFile, onFileSelect }) => {
-  if (!files) {
-    return (
-      <Paper
-        elevation={0}
-        sx={{
-          width: 280,
-          height: '100%',
-          borderRight: 1,
-          borderColor: 'divider',
-          overflow: 'auto',
-        }}
-      >
+const FileList: React.FC<FileListProps> = ({ files, selectedFile, onFileSelect, open = true, onToggle }) => {
+  const theme = useTheme();
+  const isMobile = useMediaQuery(theme.breakpoints.down('md'));
+  const drawerWidth = open ? 280 : 60;
+
+  const content = (
+    <>
+      <Box sx={{ p: 2, borderBottom: 1, borderColor: 'divider' }}>
+        <Typography variant="h6" sx={{ display: 'flex', alignItems: 'center', fontSize: open ? '1.25rem' : '0' }}>
+          <FolderIcon sx={{ mr: open ? 1 : 0 }} />
+          {open && (files?.name || 'Loading...')}
+        </Typography>
+      </Box>
+      {files ? (
+        <List>
+          {files.children?.map((child) => (
+            <TreeItem
+              key={child.path}
+              node={child}
+              selectedFile={selectedFile}
+              onFileSelect={onFileSelect}
+              level={0}
+            />
+          ))}
+        </List>
+      ) : (
         <Box sx={{ p: 2 }}>
           <Typography variant="body2" color="text.secondary">
             Loading files...
           </Typography>
         </Box>
-      </Paper>
+      )}
+    </>
+  );
+
+  if (isMobile) {
+    return (
+      <Drawer
+        variant="temporary"
+        open={open}
+        onClose={onToggle}
+        sx={{
+          '& .MuiDrawer-paper': {
+            width: 280,
+            boxSizing: 'border-box',
+          },
+        }}
+      >
+        {content}
+      </Drawer>
     );
   }
 
@@ -122,30 +158,18 @@ const FileList: React.FC<FileListProps> = ({ files, selectedFile, onFileSelect }
     <Paper
       elevation={0}
       sx={{
-        width: 280,
+        width: drawerWidth,
         height: '100%',
         borderRight: 1,
         borderColor: 'divider',
         overflow: 'auto',
+        transition: theme.transitions.create('width', {
+          easing: theme.transitions.easing.sharp,
+          duration: theme.transitions.duration.enteringScreen,
+        }),
       }}
     >
-      <Box sx={{ p: 2, borderBottom: 1, borderColor: 'divider' }}>
-        <Typography variant="h6" sx={{ display: 'flex', alignItems: 'center' }}>
-          <FolderIcon sx={{ mr: 1 }} />
-          {files.name}
-        </Typography>
-      </Box>
-      <List>
-        {files.children?.map((child) => (
-          <TreeItem
-            key={child.path}
-            node={child}
-            selectedFile={selectedFile}
-            onFileSelect={onFileSelect}
-            level={0}
-          />
-        ))}
-      </List>
+      {content}
     </Paper>
   );
 };

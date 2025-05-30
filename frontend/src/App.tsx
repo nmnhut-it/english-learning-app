@@ -47,6 +47,7 @@ function App() {
   const [content, setContent] = useState<any>(null);
   const [headings, setHeadings] = useState<Heading[]>([]);
   const [loading, setLoading] = useState(false);
+  const [sidebarOpen, setSidebarOpen] = useState(true);
 
   useEffect(() => {
     fetchFiles();
@@ -99,14 +100,24 @@ function App() {
   return (
     <ThemeProvider theme={theme}>
       <CssBaseline />
-      <Layout>
-        <Box sx={{ display: 'flex', height: '100%' }}>
+      <Layout onMenuClick={() => setSidebarOpen(!sidebarOpen)}>
+        <Box sx={{ display: 'flex', height: '100%', position: 'relative' }}>
           <FileList 
             files={files} 
             selectedFile={selectedFile} 
-            onFileSelect={handleFileSelect} 
+            onFileSelect={handleFileSelect}
+            open={sidebarOpen}
+            onToggle={() => setSidebarOpen(!sidebarOpen)}
           />
-          <Box sx={{ flex: 1, overflow: 'auto', p: 3 }}>
+          <Box sx={{ 
+            flex: 1, 
+            overflow: 'auto', 
+            px: { xs: 1, sm: 2, md: 3 }, // Responsive horizontal padding
+            py: { xs: 1, sm: 2 }, // Responsive vertical padding
+            maxWidth: { xs: '100%', sm: '100%', md: 1200, lg: 1400, xl: 1600 },
+            mx: 'auto',
+            width: '100%'
+          }}>
             {loading ? (
               <Box>Loading...</Box>
             ) : content ? (
