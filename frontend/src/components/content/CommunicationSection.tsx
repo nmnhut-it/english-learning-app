@@ -69,15 +69,42 @@ const CommunicationSection: React.FC<CommunicationSectionProps> = ({ section }) 
     const phrases: UsefulPhrase[] = [];
     const rolePlays: RolePlay[] = [];
 
-    // Sample parsed content (normally would parse from section.content)
-    dialogues.push(
-      { speaker: 'Tom', text: "Hey Sarah, what are you up to this weekend?", vietnamese: "Này Sarah, cuối tuần này bạn định làm gì?" },
-      { speaker: 'Sarah', text: "I'm thinking of trying that new rock climbing gym downtown.", vietnamese: "Tôi đang nghĩ đến việc thử phòng leo núi mới ở trung tâm thành phố." },
-      { speaker: 'Tom', text: "That sounds exciting! I've never been rock climbing before.", vietnamese: "Nghe thú vị đấy! Tôi chưa bao giờ leo núi trước đây." },
-      { speaker: 'Sarah', text: "You should join me! It's great exercise and really fun.", vietnamese: "Bạn nên đi cùng tôi! Đó là bài tập tuyệt vời và rất vui." },
-      { speaker: 'Tom', text: "I'd love to, but I'm a bit afraid of heights.", vietnamese: "Tôi rất muốn, nhưng tôi hơi sợ độ cao." },
-      { speaker: 'Sarah', text: "They have beginner walls that aren't too high. We can start there!", vietnamese: "Họ có những bức tường cho người mới bắt đầu không quá cao. Chúng ta có thể bắt đầu từ đó!" }
-    );
+    // Extract dialogues from section content
+    if (section.content) {
+      section.content.forEach((item: any) => {
+        if (item.type === 'dialogue') {
+          dialogues.push({
+            speaker: item.speaker,
+            text: item.text,
+            vietnamese: item.translation
+          });
+        }
+      });
+    }
+    
+    // Extract from subsections
+    if (section.subsections) {
+      section.subsections.forEach((subsection: any) => {
+        if (subsection.content) {
+          subsection.content.forEach((item: any) => {
+            if (item.type === 'dialogue') {
+              dialogues.push({
+                speaker: item.speaker,
+                text: item.text,
+                vietnamese: item.translation
+              });
+            } else if (item.type === 'vocabulary' && subsection.type === 'vocabulary') {
+              // Extract phrases from vocabulary items in communication sections
+              phrases.push({
+                english: item.english,
+                vietnamese: item.vietnamese,
+                context: item.partOfSpeech
+              });
+            }
+          });
+        }
+      });
+    }
 
     phrases.push(
       { english: "What are you up to?", vietnamese: "Bạn đang làm gì?", context: "Casual greeting asking about activities" },
@@ -371,10 +398,16 @@ const CommunicationSection: React.FC<CommunicationSectionProps> = ({ section }) 
   const Grid = Box; // Using Box as Grid is not imported
 
   return (
-    <Card sx={{ mb: 3 }}>
-      <CardContent>
-        <Box sx={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', mb: 2 }}>
-          <Typography variant="h5" component="h3" sx={{ fontWeight: 500 }}>
+    <Card sx={{ mb: 2, boxShadow: 1 }}>
+      <CardContent sx={{ 
+        p: { xs: 1.5, sm: 2 }, 
+        '&:last-child': { pb: 2 }
+      }}>
+        <Box sx={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', mb: 1 }}>
+          <Typography variant="h6" component="h3" sx={{ 
+            fontWeight: 500,
+            fontSize: { xs: '1.1rem', sm: '1.25rem' }
+          }}>
             💬 {section.title || 'Communication & Culture'}
           </Typography>
           <IconButton onClick={() => setExpanded(!expanded)}>
@@ -383,32 +416,32 @@ const CommunicationSection: React.FC<CommunicationSectionProps> = ({ section }) 
         </Box>
 
         <Collapse in={expanded}>
-          <Box sx={{ mb: 3 }}>
-            <ToggleButtonGroup
-              value={viewMode}
-              exclusive
-              onChange={(e, newMode) => newMode && setViewMode(newMode)}
-              fullWidth
-            >
-              <ToggleButton value="dialogue">
-                <GroupIcon sx={{ mr: 1 }} />
-                Dialogue
-              </ToggleButton>
-              <ToggleButton value="phrases">
-                <FormatQuoteIcon sx={{ mr: 1 }} />
-                Useful Phrases
-              </ToggleButton>
-              <ToggleButton value="roleplay">
-                <TheaterComedyIcon sx={{ mr: 1 }} />
-                Role Play
-              </ToggleButton>
-            </ToggleButtonGroup>
-          </Box>
+          {dialogues.length > 0 && (
+            <Box sx={{ mb: 3 }}>
+              <ToggleButtonGroup
+                value={viewMode}
+                exclusive
+                onChange={(e, newMode) => newMode && setViewMode(newMode)}
+                size="small"
+                sx={{ mb: 2 }}
+              >
+                <ToggleButton value="dialogue">
+                  <GroupIcon sx={{ mr: 0.5, fontSize: '1.2rem' }} />
+                  Dialogue
+                </ToggleButton>
+                {phrases.length > 0 && (
+                  <ToggleButton value="phrases">
+                    <FormatQuoteIcon sx={{ mr: 0.5, fontSize: '1.2rem' }} />
+                    Phrases
+                  </ToggleButton>
+                )}
+              </ToggleButtonGroup>
+            </Box>
+          )}
 
-          <Box sx={{ mt: 3 }}>
+          <Box>
             {viewMode === 'dialogue' && renderDialogue()}
-            {viewMode === 'phrases' && renderPhrases()}
-            {viewMode === 'roleplay' && renderRolePlay()}
+            {viewMode === 'phrases' && phrases.length > 0 && renderPhrases()}
           </Box>
         </Collapse>
       </CardContent>

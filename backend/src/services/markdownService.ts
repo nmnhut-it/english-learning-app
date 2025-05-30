@@ -176,6 +176,7 @@ export class MarkdownService {
   private parseContent(content: string): any {
     const sections: any[] = [];
     const lines = content.split('\n');
+    let currentUnit: any = null;
     let currentSection: any = null;
     let currentSubsection: any = null;
     let currentContent: string[] = [];
@@ -185,7 +186,7 @@ export class MarkdownService {
       if (currentContent.length > 0) {
         const contentStr = currentContent.join('\n').trim();
         if (contentStr) {
-          const target = currentSubsection || currentSection;
+          const target = currentSubsection || currentSection || currentUnit;
           if (target) {
             if (!target.content) target.content = [];
             target.content.push({
@@ -203,53 +204,62 @@ export class MarkdownService {
       if (line.match(/^#\s+/)) {
         flushContent();
         const title = line.replace(/^#\s+/, '').trim();
-        currentSection = {
+        currentUnit = {
           type: 'unit',
           title,
           sections: []
         };
-        sections.push(currentSection);
+        sections.push(currentUnit);
+        currentSection = null;
         currentSubsection = null;
       }
       // Section heading
       else if (line.match(/^##\s+/)) {
         flushContent();
         const title = line.replace(/^##\s+/, '').trim();
-        currentSubsection = {
+        currentSection = {
           type: this.getSectionType(title),
           title,
           content: [],
+          subsections: [],
           originalIndex: sectionIndex++
         };
-        if (currentSection) {
-          currentSection.sections.push(currentSubsection);
+        if (currentUnit) {
+          currentUnit.sections.push(currentSection);
         }
+        currentSubsection = null;
       }
       // Subsection heading
       else if (line.match(/^###\s+/)) {
         flushContent();
         const title = line.replace(/^###\s+/, '').trim();
-        const subsection = {
+        currentSubsection = {
           type: this.getSubsectionType(title),
           title,
           content: []
         };
-        if (currentSubsection) {
-          if (!currentSubsection.subsections) currentSubsection.subsections = [];
-          currentSubsection.subsections.push(subsection);
+        if (currentSection) {
+          if (!currentSection.subsections) currentSection.subsections = [];
+          currentSection.subsections.push(currentSubsection);
         }
       }
-      // Vocabulary items
-      else if (line.match(/^\d+\.\s+\*\*[^*]+\*\*\s*:/)) {
+      // Vocabulary items - both numbered and bullet formats
+      else if (line.match(/^(\d+\.|-)\s+\*\*[^*]+\*\*\s*:/)) {
         flushContent();
-        const match = line.match(/^(\d+)\.\s+\*\*([^*]+)\*\*\s*:\s*([^/]+)\/([^/]+)\//);
+        // Pattern 1: number. **word** : (type) meaning /pronunciation/
+        // Pattern 2: - **word** : (type) meaning /pronunciation/
+        const numberedMatch = line.match(/^(\d+)\.\s+\*\*([^*]+)\*\*\s*:\s*\(([^)]+)\)\s*([^/]+)\/([^/]+)\//);  
+        const bulletMatch = line.match(/^-\s+\*\*([^*]+)\*\*\s*:\s*\(([^)]+)\)\s*([^/]+)\/([^/]+)\//);  
+        
+        let match = numberedMatch || bulletMatch;
         if (match) {
           const vocab = {
             type: 'vocabulary',
-            number: match[1],
-            english: match[2].trim(),
-            vietnamese: match[3].trim(),
-            pronunciation: match[4].trim()
+            number: numberedMatch ? match[1] : '',
+            english: numberedMatch ? match[2].trim() : match[1].trim(),
+            partOfSpeech: numberedMatch ? match[3].trim() : match[2].trim(),
+            vietnamese: numberedMatch ? match[4].trim() : match[3].trim(),
+            pronunciation: numberedMatch ? match[5].trim() : match[4].trim()
           };
           const target = currentSubsection || currentSection;
           if (target) {
@@ -265,8 +275,19 @@ export class MarkdownService {
           const dialogue = {
             type: 'dialogue',
             speaker: match[1],
-            text: match[2]
+            text: match[2],
+            translation: ''
           };
+          
+          // Check if next line is an italicized translation
+          if (index + 1 < lines.length) {
+            const nextLine = lines[index + 1];
+            if (nextLine.startsWith('*') && nextLine.endsWith('*') && !nextLine.startsWith('**')) {
+              dialogue.translation = nextLine.slice(1, -1);
+              lines[index + 1] = ''; // Clear the translation line so it's not processed again
+            }
+          }
+          
           const target = currentSubsection || currentSection;
           if (target) {
             if (!target.content) target.content = [];
@@ -314,15 +335,27 @@ export class MarkdownService {
   }
 
   private getSubsectionType(title: string): string {
+    // Check for emoji indicators first
+    if (title.includes('📚') || title.includes('Vocabulary') || title.includes('Từ vựng')) return 'vocabulary';
+    if (title.includes('💬') || title.includes('Content') || title.includes('Nội dung')) return 'content';
+    if (title.includes('✍️') || title.includes('Exercise') || title.includes('Bài tập')) return 'exercises';
+    if (title.includes('🗣️') || title.includes('Pronunciation') || title.includes('Phát âm')) return 'pronunciation';
+    if (title.includes('📖') || title.includes('Grammar') || title.includes('Ngữ pháp')) return 'grammar';
+    if (title.includes('👂') || title.includes('Listening') || title.includes('Nghe')) return 'listening';
+    if (title.includes('Activities') || title.includes('Hoạt động')) return 'activities';
+    
+    // Fallback to text patterns
     const lower = title.toLowerCase();
     if (lower.includes('vocabulary')) return 'vocabulary';
+    if (lower.includes('content')) return 'content';
+    if (lower.includes('exercise') || lower.includes('bài')) return 'exercises';
     if (lower.includes('pronunciation')) return 'pronunciation';
     if (lower.includes('grammar')) return 'grammar';
-    if (lower.includes('exercise')) return 'exercises';
-    if (lower.includes('reading')) return 'reading';
     if (lower.includes('listening')) return 'listening';
+    if (lower.includes('reading')) return 'reading';
     if (lower.includes('speaking')) return 'speaking';
     if (lower.includes('writing')) return 'writing';
+    
     return 'general';
   }
 }

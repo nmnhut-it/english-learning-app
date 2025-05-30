@@ -16,6 +16,7 @@ export interface VocabularyItem {
   type: 'vocabulary';
   number: string;
   english: string;
+  partOfSpeech?: string;
   vietnamese: string;
   pronunciation: string;
 }
@@ -24,6 +25,7 @@ export interface DialogueItem {
   type: 'dialogue';
   speaker: string;
   text: string;
+  translation?: string;
 }
 
 export interface TextContent {

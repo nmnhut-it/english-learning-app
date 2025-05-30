@@ -15,6 +15,7 @@ import VolumeUpIcon from '@mui/icons-material/VolumeUp';
 import { DialogueItem } from '../../types';
 import useTextToSpeech from '../../hooks/useTextToSpeech';
 import VocabularySection from './VocabularySection';
+import ExerciseSection from './ExerciseSection';
 
 interface GettingStartedProps {
   section: any;
@@ -24,8 +25,25 @@ const GettingStarted: React.FC<GettingStartedProps> = ({ section }) => {
   const [expanded, setExpanded] = useState(true);
   const { speak } = useTextToSpeech();
 
-  const dialogues = section.content.filter((item: any) => item.type === 'dialogue');
+  // Extract dialogues from both content and subsections
+  const dialogues: DialogueItem[] = [];
+  
+  // From main content
+  section.content?.forEach((item: any) => {
+    if (item.type === 'dialogue') dialogues.push(item);
+  });
+  
+  // From subsections  
+  section.subsections?.forEach((sub: any) => {
+    if (sub.type === 'content' && sub.content) {
+      sub.content.forEach((item: any) => {
+        if (item.type === 'dialogue') dialogues.push(item);
+      });
+    }
+  });
+
   const vocabSubsection = section.subsections?.find((sub: any) => sub.type === 'vocabulary');
+  const exercisesSubsection = section.subsections?.find((sub: any) => sub.type === 'exercises');
 
   return (
     <Box sx={{ mb: 4 }}>
@@ -73,16 +91,23 @@ const GettingStarted: React.FC<GettingStartedProps> = ({ section }) => {
                         {dialogue.speaker}:
                       </Typography>
                       <Box sx={{ flex: 1, ml: 2 }}>
-                        <Typography variant="body1">
-                          {dialogue.text}
-                        </Typography>
-                        <IconButton
-                          size="small"
-                          onClick={() => speak(dialogue.text)}
-                          sx={{ mt: 0.5 }}
-                        >
-                          <VolumeUpIcon fontSize="small" />
-                        </IconButton>
+                        <Box sx={{ display: 'flex', alignItems: 'center' }}>
+                          <Typography variant="body1">
+                            {dialogue.text}
+                          </Typography>
+                          <IconButton
+                            size="small"
+                            onClick={() => speak(dialogue.text)}
+                            sx={{ ml: 1 }}
+                          >
+                            <VolumeUpIcon fontSize="small" />
+                          </IconButton>
+                        </Box>
+                        {dialogue.translation && (
+                          <Typography variant="body2" color="text.secondary" sx={{ mt: 0.5, fontStyle: 'italic' }}>
+                            {dialogue.translation}
+                          </Typography>
+                        )}
                       </Box>
                     </Box>
                   </Paper>
@@ -92,6 +117,17 @@ const GettingStarted: React.FC<GettingStartedProps> = ({ section }) => {
           </CardContent>
         </Card>
       )}
+      
+      {exercisesSubsection && <ExerciseSection section={exercisesSubsection} />}
+      
+      {/* Render any other subsections as text content */}
+      {section.subsections?.filter((sub: any) => 
+        sub.type !== 'vocabulary' && 
+        sub.type !== 'exercises' && 
+        sub.type !== 'content'
+      ).map((sub: any) => (
+        <ExerciseSection key={sub.title} section={sub} />
+      ))}
     </Box>
   );
 };

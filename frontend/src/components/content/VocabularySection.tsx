@@ -86,9 +86,19 @@ const VocabularySection: React.FC<VocabularySectionProps> = ({ section }) => {
                         <VolumeUpIcon sx={{ fontSize: 18 }} />
                       </IconButton>
                     </Box>
-                    <Typography variant="body2" color="text.secondary" sx={{ fontSize: '0.875rem' }}>
-                      {item.vietnamese}
-                    </Typography>
+                    <Box sx={{ display: 'flex', alignItems: 'center', gap: 0.5 }}>
+                      {item.partOfSpeech && (
+                        <Chip
+                          label={item.partOfSpeech}
+                          size="small"
+                          color="primary"
+                          sx={{ fontSize: '0.7rem', height: 20 }}
+                        />
+                      )}
+                      <Typography variant="body2" color="text.secondary" sx={{ fontSize: '0.875rem' }}>
+                        {item.vietnamese}
+                      </Typography>
+                    </Box>
                     <Chip
                       label={item.pronunciation}
                       size="small"
