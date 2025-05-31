@@ -330,6 +330,7 @@ export class MarkdownService {
     if (lower.includes('closer look') && lower.includes('2')) return 'closer-look-2';
     if (lower.includes('skills') && lower.includes('1')) return 'skills-1';
     if (lower.includes('skills') && lower.includes('2')) return 'skills-2';
+    if (lower.includes('looking back') || lower.includes('ôn tập')) return 'looking-back';
     
     return 'general';
   }

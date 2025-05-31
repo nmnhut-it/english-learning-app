@@ -1,11 +1,9 @@
 import React, { useState, useEffect } from 'react';
 import { ThemeProvider, createTheme } from '@mui/material/styles';
 import CssBaseline from '@mui/material/CssBaseline';
-import Box from '@mui/material/Box';
-import Layout from './components/Layout';
-import FileList from './components/FileList';
-import ContentViewer from './components/ContentViewer';
-import TableOfContents from './components/TableOfContents';
+import { Box, Typography } from '@mui/material';
+import PresentationLayout from './components/PresentationLayout';
+import ContentPresentation from './components/ContentPresentation';
 import { FileTreeNode, Heading } from './types';
 import axios from 'axios';
 
@@ -19,22 +17,40 @@ const theme = createTheme({
       main: '#dc004e',
     },
     background: {
-      default: '#f5f5f5',
+      default: '#ffffff',
+      paper: '#f8f9fa',
     },
   },
   typography: {
     fontFamily: '"Roboto", "Helvetica", "Arial", sans-serif',
+    // Larger base font sizes for presentation
     h1: {
+      fontSize: '3.5rem',
+      fontWeight: 700,
+    },
+    h2: {
+      fontSize: '3rem',
+      fontWeight: 600,
+    },
+    h3: {
       fontSize: '2.5rem',
       fontWeight: 600,
     },
-    h2: {
+    h4: {
       fontSize: '2rem',
       fontWeight: 500,
     },
-    h3: {
-      fontSize: '1.5rem',
+    h5: {
+      fontSize: '1.75rem',
       fontWeight: 500,
+    },
+    body1: {
+      fontSize: '1.5rem',
+      lineHeight: 1.6,
+    },
+    body2: {
+      fontSize: '1.25rem',
+      lineHeight: 1.6,
     },
   },
 });
@@ -47,11 +63,21 @@ function App() {
   const [content, setContent] = useState<any>(null);
   const [headings, setHeadings] = useState<Heading[]>([]);
   const [loading, setLoading] = useState(false);
-  const [sidebarOpen, setSidebarOpen] = useState(true);
+  const [currentSection, setCurrentSection] = useState<string>('');
+  const [sections, setSections] = useState<string[]>([]);
 
   useEffect(() => {
     fetchFiles();
   }, []);
+
+  useEffect(() => {
+    // Extract section titles when content changes
+    if (content && content.length > 0 && content[0].sections) {
+      const sectionTitles = content[0].sections.map((section: any) => section.title);
+      setSections(sectionTitles);
+      setCurrentSection(sectionTitles[0] || '');
+    }
+  }, [content]);
 
   const fetchFiles = async () => {
     try {
@@ -97,38 +123,38 @@ function App() {
     }
   };
 
+  const handleSectionChange = (direction: 'prev' | 'next') => {
+    const currentIndex = sections.findIndex(s => s === currentSection);
+    if (direction === 'next' && currentIndex < sections.length - 1) {
+      setCurrentSection(sections[currentIndex + 1]);
+    } else if (direction === 'prev' && currentIndex > 0) {
+      setCurrentSection(sections[currentIndex - 1]);
+    }
+  };
+
   return (
     <ThemeProvider theme={theme}>
       <CssBaseline />
-      <Layout onMenuClick={() => setSidebarOpen(!sidebarOpen)}>
-        <Box sx={{ display: 'flex', height: '100%', position: 'relative' }}>
-          <FileList 
-            files={files} 
-            selectedFile={selectedFile} 
-            onFileSelect={handleFileSelect}
-            open={sidebarOpen}
-            onToggle={() => setSidebarOpen(!sidebarOpen)}
-          />
-          <Box sx={{ 
-            flex: 1, 
-            overflow: 'auto', 
-            px: { xs: 1, sm: 2, md: 3 }, // Responsive horizontal padding
-            py: { xs: 1, sm: 2 }, // Responsive vertical padding
-            maxWidth: { xs: '100%', sm: '100%', md: 1200, lg: 1400, xl: 1600 },
-            mx: 'auto',
-            width: '100%'
-          }}>
-            {loading ? (
-              <Box>Loading...</Box>
-            ) : content ? (
-              <ContentViewer content={content} />
-            ) : (
-              <Box>Select a file to view</Box>
-            )}
+      <PresentationLayout
+        files={files}
+        currentFile={selectedFile}
+        onFileSelect={handleFileSelect}
+        currentSection={currentSection}
+        sections={sections}
+        onSectionChange={handleSectionChange}
+      >
+        {loading ? (
+          <Box sx={{ display: 'flex', justifyContent: 'center', alignItems: 'center', height: '100%' }}>
+            <Typography variant="h4">Loading...</Typography>
           </Box>
-          <TableOfContents headings={headings} />
-        </Box>
-      </Layout>
+        ) : content ? (
+          <ContentPresentation content={content} currentSection={currentSection} />
+        ) : (
+          <Box sx={{ display: 'flex', justifyContent: 'center', alignItems: 'center', height: '100%' }}>
+            <Typography variant="h4">Select a file to view</Typography>
+          </Box>
+        )}
+      </PresentationLayout>
     </ThemeProvider>
   );
 }

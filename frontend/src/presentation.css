@@ -1,0 +1,146 @@
+/* Global presentation styles */
+body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  font-family: 'Roboto', 'Helvetica', 'Arial', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Ensure proper line breaks in markdown content */
+.markdown-content p {
+  white-space: pre-wrap;
+}
+
+/* Table styling for presentation */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1.5rem 0;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 12px;
+  text-align: left;
+  font-size: 1.25rem;
+}
+
+th {
+  background-color: #f2f2f2;
+  font-weight: 600;
+}
+
+/* Hide scrollbars but keep functionality */
+*::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+*::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+*::-webkit-scrollbar-thumb {
+  background: rgba(0, 0, 0, 0.2);
+  border-radius: 4px;
+}
+
+*::-webkit-scrollbar-thumb:hover {
+  background: rgba(0, 0, 0, 0.3);
+}
+
+/* Fullscreen mode adjustments */
+:-webkit-full-screen {
+  background-color: white;
+}
+
+:-moz-full-screen {
+  background-color: white;
+}
+
+:fullscreen {
+  background-color: white;
+}
+
+/* Print styles for presentations */
+@media print {
+  body {
+    font-size: 12pt;
+  }
+  
+  .no-print {
+    display: none !important;
+  }
+  
+  /* Force page breaks between sections */
+  .section-break {
+    page-break-after: always;
+  }
+}
+
+/* Animation for answer reveals */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.answer-reveal {
+  animation: fadeIn 0.5s ease-in-out;
+}
+
+/* Presentation mode specific */
+.presentation-mode {
+  /* Disable text selection for cleaner presentation */
+  user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+}
+
+.presentation-mode .selectable {
+  /* Re-enable for specific content */
+  user-select: text;
+  -webkit-user-select: text;
+  -moz-user-select: text;
+  -ms-user-select: text;
+}
+
+/* Responsive font scaling */
+@media (max-width: 768px) {
+  body {
+    font-size: 14px;
+  }
+}
+
+@media (min-width: 1920px) {
+  body {
+    font-size: 18px;
+  }
+}
+
+/* Keyboard hints */
+.keyboard-hint {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background: rgba(0, 0, 0, 0.8);
+  color: white;
+  padding: 10px 15px;
+  border-radius: 5px;
+  font-size: 0.875rem;
+  opacity: 0;
+  transition: opacity 0.3s;
+  pointer-events: none;
+}
+
+.keyboard-hint.show {
+  opacity: 1;
+}
