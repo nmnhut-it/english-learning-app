@@ -31,7 +31,7 @@ This document tracks the progress of verifying and improving the English learnin
 - [ ] Unit 2
 - [x] Unit 3 - Verified and updated
 - [x] Unit 4 - Verified and updated
-- [ ] Unit 5
+- [x] Unit 5 - Verified and updated
 - [ ] Unit 6
 - [ ] Unit 7
 - [ ] Unit 8
@@ -173,6 +173,33 @@ This document tracks the progress of verifying and improving the English learnin
    
 5. All exercises verified against VietJack sources - no fabricated content found
 6. Vocabulary and pronunciations match ground truth requirements
+
+### Date: May 31, 2025 - Unit 5 Verification
+
+### Unit 5 Verification Summary
+- Compared markdown-files/global-success-7/unit-05.md with ground-truth/g7/g7_part_5.md
+- Cross-referenced with VietJack and LoiGiaiHay sources 
+- All content verified as authentic and follows official sources exactly
+- Integrated additional vocabulary from ground truth
+
+### Unit 5 Corrections Made:
+1. Added missing vocabulary items from ground truth:
+   - husband, wife, children
+   - also, some, could, try, please, soup, think, for
+   - turmeric, how many
+   
+2. Enhanced grammar sections:
+   - Added note that "some" and "a lot of/lots of" work with both countable and uncountable nouns
+   - Added explanation of countable vs uncountable nouns
+   - Added grammar note about units of measurement (number + unit + of + item)
+   
+3. Minor content updates:
+   - Verified all dialogues match VietJack sources word-for-word
+   - Checked all exercises against official sources
+   - Confirmed pronunciation guides are accurate
+   
+4. No fabricated content found - all exercises are authentic
+5. All vocabulary and answers align with official curriculum
 
 ---
 

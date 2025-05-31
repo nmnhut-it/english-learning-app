@@ -22,12 +22,23 @@
 - **winter melon juice** : (n) nước ép bí đao /ˈwɪntər ˈmelən dʒuːs/
 - **can** : (n) lon /kæn/
 - **menu** : (n) thực đơn /ˈmenjuː/
+- **husband** : (n) chồng /ˈhʌzbənd/
+- **wife** : (n) vợ /waɪf/
+- **children** : (n) trẻ con /ˈtʃɪldrən/
 - **by the way** : (phrase) nhân tiện /baɪ ðə weɪ/
 - **how much** : (phrase) bao nhiêu tiền /haʊ mʌtʃ/
 - **let me see** : (phrase) để tôi xem /let miː siː/
 - **I'll be right back** : (phrase) tôi sẽ quay lại ngay /aɪl biː raɪt bæk/
 - **What can I get you?** : (phrase) Tôi có thể phục vụ gì cho quý khách? /wɒt kæn aɪ get juː/
 - **Would you like...?** : (phrase) Quý khách có muốn...? /wʊd juː laɪk/
+- **also** : (adv) cũng /ˈɔːlsəʊ/
+- **some** : (det) một ít, một vài /sʌm/
+- **could** : (modal v) có thể (lịch sự hơn can) /kʊd/
+- **try** : (v) thử, cố gắng /traɪ/
+- **please** : (adv) làm ơn /pliːz/
+- **soup** : (n) súp /suːp/
+- **think** : (v) nghĩ /θɪŋk/
+- **for** : (prep) cho /fɔːr/
 
 ### 💬 Content - Nội dung
 **Waiter**: Good evening. What can I get you today?
@@ -120,6 +131,7 @@
 - **butter** : (n) bơ /ˈbʌtər/
 - **egg** : (n) trứng /eɡ/
 - **onion** : (n) hành tây /ˈʌnjən/
+- **turmeric** : (n) nghệ /ˈtɜːmərɪk/
 
 **Dishes - Món ăn:**
 - **omelette** : (n) trứng ốp lết /ˈɒmlət/
@@ -131,6 +143,7 @@
 - **recipe** : (n) công thức nấu ăn /ˈresəpi/
 - **quantity** : (n) số lượng /ˈkwɒntəti/
 - **need** : (v) cần /niːd/
+- **how many** : (phrase) bao nhiêu (dùng với danh từ đếm được) /haʊ ˈmeni/
 
 ### 🗣️ Pronunciation - Phát âm
 **Sounds /ɒ/ and /ɔː/ (Âm /ɒ/ và /ɔː/)**
@@ -223,11 +236,17 @@ Ví dụ đối thoại:
    - Ví dụ: We have a lot of friends. (Chúng tôi có nhiều bạn.)
    - There's lots of rice. (Có nhiều gạo.)
 
+**Lưu ý:** Cả some và a lot of/lots of đều đi với danh từ đếm được lẫn danh từ không đếm được.
+
 **How much/How many (Bao nhiêu)**
 - **How much** + danh từ không đếm được
   Ví dụ: How much water do you need? (Bạn cần bao nhiêu nước?)
 - **How many** + danh từ đếm được số nhiều
   Ví dụ: How many apples do you want? (Bạn muốn bao nhiêu táo?)
+
+**Phân biệt danh từ đếm được và không đếm được:**
+- Danh từ đếm được là các danh từ có thể đếm được trực tiếp bằng con số
+- Danh từ không đếm được là danh từ không đếm được bằng con số mà phải dùng các đơn vị, vật dụng khác để cân, đo, đong, đếm
 
 ### ✍️ Exercises - Bài tập
 
