@@ -3,18 +3,22 @@
 ## GETTING STARTED - BẮT ĐẦU
 
 ### 📚 Vocabulary - Từ vựng
+- **What are you doing** : Bạn đang làm gì /wɒt ə juː ˈduːɪŋ/
+- **pretty late** : khá muộn /ˈprɪti leɪt/
+- **I am doing a project on energy sources** : Tôi đang làm một dự án về các nguồn năng lượng /aɪ əm ˈduːɪŋ ə ˈprɒdʒekt ɒn ˈenədʒi ˈsɔːsɪz/
+- **I don't quite understand what energy is** : Tôi không hiểu rõ lắm năng lượng là gì /aɪ dəʊnt kwaɪt ˌʌndəˈstænd wɒt ˈenədʒi ɪz/
 - **energy** : (n) năng lượng /ˈenədʒi/
 - **source** : (n) nguồn /sɔːs/
 - **energy source** : (n) nguồn năng lượng /ˈenədʒi sɔːs/
 - **project** : (n) dự án /ˈprɒdʒekt/
-- **pretty late** : khá muộn /ˈprɪti leɪt/
 - **quite** : (adv) khá, tương đối /kwaɪt/
 - **understand** : (v) hiểu /ˌʌndəˈstænd/
 - **power** : (n) sức mạnh, năng lượng /ˈpaʊə(r)/
-- **provide** : (v) cung cấp /prəˈvaɪd/
+- **provide us with something** : cung cấp cho chúng ta cái gì đó /prəˈvaɪd ʌs wɪð ˈsʌmθɪŋ/
 - **light** : (n) ánh sáng /laɪt/
 - **heat** : (n) nhiệt /hiːt/
 - **electricity** : (n) điện /ɪˌlekˈtrɪsəti/
+- **where does it come from** : nó đến từ đâu /weə dʌz ɪt kʌm frɒm/
 - **coal** : (n) than đá /kəʊl/
 - **oil** : (n) dầu /ɔɪl/
 - **natural gas** : (n) khí đốt tự nhiên /ˈnætʃrəl ɡæs/
@@ -22,12 +26,14 @@
 - **non-renewable** : (adj) không thể tái tạo /nɒn-rɪˈnjuːəbl/
 - **easily** : (adv) dễ dàng /ˈiːzɪli/
 - **replace** : (v) thay thế /rɪˈpleɪs/
-- **run out** : (v) cạn kiệt, hết /rʌn aʊt/
-- **sun** : (n) mặt trời /sʌn/
+- **run out of** : (v) hết /rʌn aʊt əv/
+- **call** : (v) gọi /kɔːl/
+- **the sun** : (n) mặt trời /ðə sʌn/
 - **wind** : (n) gió /wɪnd/
 - **water** : (n) nước /ˈwɔːtə(r)/
 - **cheap** : (adj) rẻ /tʃiːp/
 - **expensive** : (adj) đắt /ɪkˈspensɪv/
+- **too** : (adv) cũng /tuː/
 
 ### 💬 Content - Nội dung
 
@@ -78,30 +84,34 @@ C. Energy sources
 **Bài 3: Read the conversation again and answer the following questions**
 Đọc lại đoạn hội thoại và trả lời các câu hỏi sau
 
-1. What is Lan doing? 
+1. What is Lan doing?
    → She's doing a project on energy sources.
    
 2. What does energy mean?
-   → It's the power that we use to provide us with light, heat or electricity.
+   → It's power that we use to provide us with light, heat or electricity.
    
 3. Where does energy come from?
-   → It comes from many sources like oil, coal, gas or even the sun and wind or water.
+   → It comes from many different sources like coal, oil, natural gas.
    
 4. What are renewable sources?
-   → They are sources that we cannot run out of. We can easily replace them.
+   → Renewable sources means the sources we cannot run out of them.
 
-**Bài 4: Match the words with their meanings**
-Nối các từ với nghĩa của chúng
+**Bài 4: Match the words/phrases in the box with the correct pictures**
+Nối các từ/cụm từ trong hộp với các hình ảnh chính xác
 
-1. run out of - a. có thể thay thế dễ dàng
-2. provide - b. năng lượng
-3. replace - c. cung cấp
-4. power - d. hết, cạn kiệt
+1. oil
+2. wind energy
+3. coal
+4. natural gas
 
-**Answers:** 1-d, 2-c, 3-a, 4-b
+**Answers:** 
+1. d (oil - dầu)
+2. a (wind energy - năng lượng gió)
+3. b (coal - than đá)
+4. c (natural gas - khí tự nhiên)
 
-**Bài 5: Complete the sentences**
-Hoàn thành các câu
+**Bài 5: Complete each of the sentences with the correct word from the conversation**
+Hoàn thành mỗi câu với từ đúng từ đoạn hội thoại
 
 1. Energy is _____ that we use to provide us with light, heat or electricity.
 2. When energy comes from the _____, wind and water, we call it renewable energy.
@@ -109,7 +119,7 @@ Hoàn thành các câu
 4. We cannot _____ out of renewable energy.
 5. Some types of energy are _____ and easy to use.
 
-**Answers:** 1. power, 2. sun, 3. wind, 4. run, 5. cheap
+**Answers:** 1. power, 2. sun, 3. renewable, 4. run, 5. cheap
 
 ## A CLOSER LOOK 1 - TÌM HIỂU THÊM 1
 
@@ -148,8 +158,8 @@ d. the sun
 
 **Answers:** 1-d, 2-c, 3-a, 4-b
 
-**Bài 2: Match the types of energy with the pictures**
-Nối các loại năng lượng với hình ảnh
+**Bài 2: Write the phrases to label the pictures**
+Viết các cụm từ để đặt tên cho các bức tranh
 
 **Answers:** 
 1. nuclear energy
@@ -157,16 +167,13 @@ Nối các loại năng lượng với hình ảnh
 3. solar energy
 4. wind energy
 
-**Bài 3: Complete the sentences with words from the box**
-Hoàn thành các câu với từ trong khung
+**Bài 3: Complete the sentences with the words and phrases from 1 or 2**
+Hoàn thành các câu với các từ và cụm từ từ bài 1 hoặc 2
 
-1. A _____ is a structure with blades that is moved by the wind to produce power.
-2. Solar panels are installed on the _____ of the house to catch the sun's energy.
-3. _____ can be used as an energy source, but it can be dangerous.
-4. Scientists are finding new sources of energy to replace coal because it is _____.
-5. Water power is _____ and safe to use.
-
-**Answers:** 1. wind turbine, 2. roof, 3. Nuclear energy, 4. limited, 5. available
+1. A good place to change _____ into energy is near the sea because of the sea breezes.
+2. They are putting _____ on the roof of the building to produce solar energy.
+3. When energy comes from water, we call it _____.
+4. They are reducing the use of _____ because it is not safe to produce.
 
 ### 🗣️ Pronunciation - Phát âm
 
@@ -237,38 +244,38 @@ Làm việc theo cặp. Nói cho bạn biết những người trong hình đang
 5. She is singing. (Cô ấy đang hát.)
 6. He is watering the flowers. (Ông ấy đang tưới hoa.)
 
-**Bài 2: Complete the sentences, using the present continuous form of the verbs**
-Hoàn thành các câu, sử dụng dạng hiện tại tiếp diễn của động từ
+**Bài 2: Complete the sentences, using the present continuous form of the verbs in brackets**
+Hoàn thành các câu, sử dụng dạng hiện tại tiếp diễn của các động từ trong ngoặc
 
-1. Mai (talk) _____ on the phone to her mother about her new school.
-2. (you/make) _____ banh chung?
-3. They (not speak) _____ to each other.
-4. (he/eat) _____ sticky rice?
-5. They (take) _____ part in the Mid-Autumn Festival.
+1. Mai (talk) _____ about types of energy sources now.
+2. We (use) _____ solar energy to replace energy from coal.
+3. Keep quiet! The students (take) _____ an English test.
+4. What package (you/develop) _____ to solve the problem?
+5. Right now, people (reduce) _____ the use of nuclear energy.
 
 **Answers:** 
 1. is talking
-2. Are you making
-3. are not speaking
-4. Is he eating
-5. are taking
+2. are using
+3. are taking
+4. are you developing
+5. are reducing
 
 **Bài 3: Circle the correct form of the verb in each sentence**
 Khoanh tròn dạng đúng của động từ trong mỗi câu
 
 1. Look! It (rains/is raining) heavily.
 2. Normally they (are having/have) breakfast at 7.30.
-3. I (am taking/take) a course this semester.
-4. He (drinks/is drinking) coffee every morning.
-5. He can't meet us now. He (works/is working).
+3. Where is Lan? She (works/is working) in the garden.
+4. What course (are you doing/you do) this term?
+5. I (leave/am leaving) now. See you later.
 
-**Answers:** 1. is raining, 2. have, 3. am taking, 4. drinks, 5. is working
+**Answers:** 1. is raining, 2. have, 3. is working, 4. are you doing, 5. am leaving
 
-**Bài 4: Write sentences about what the people are doing or not doing**
-Viết câu về những gì mọi người đang làm hoặc không làm
+**Bài 4: Write sentences about what the people are doing or not doing, using the present continuous**
+Viết câu về những gì mọi người đang làm hoặc không làm, sử dụng thì hiện tại tiếp diễn
 
 1. The students / do / project / now
-2. Mrs Lien / teach / us / solar energy / at the moment
+2. Mrs Lien / teach / us / about solar energy / at the moment
 3. They / learn / about energy / this month
 4. She / not swim / in the swimming pool / right now
 5. Nowadays / people in Iceland / not use / energy from coal
@@ -277,8 +284,8 @@ Viết câu về những gì mọi người đang làm hoặc không làm
 1. The students are doing the project now.
 2. Mrs Lien is teaching us about solar energy at the moment.
 3. They are learning about energy this month.
-4. She isn't swimming in the swimming pool right now.
-5. Nowadays, people in Iceland aren't using energy from coal.
+4. She is not swimming in the swimming pool right now.
+5. Nowadays, people in Iceland are not using energy from coal.
 
 **Bài 5: Work in pairs. Ask and answer the following questions**
 Làm việc theo cặp. Hỏi và trả lời các câu hỏi sau
@@ -328,33 +335,44 @@ Example:
 A: What does "solar energy" mean?
 B: Well, it's energy that comes from the sun.
 
-**Bài 3: Work in pairs. Ask your partner the following questions and tick his/her answers**
+**Bài 3: Work in pairs. Ask your partner the following questions and tick (✓) his/her answers**
 Làm việc theo cặp. Hỏi bạn các câu hỏi sau và đánh dấu câu trả lời
 
-1. Do you go to school on foot?
-2. Do you use public transport?
-3. Do you use low energy light bulbs at home?
-4. Do you use solar energy to warm water?
-5. Do you turn off the lights when going to bed?
-6. Do you turn off the TV when not watching it?
+| Questions | Yes | No |
+|-----------|-----|----|
+| 1. Do you go to school on foot? | | |
+| 2. Do you use public transport? | | |
+| 3. Do you use low energy light bulbs at home? | | |
+| 4. Do you use solar energy to warm water? | | |
+| 5. Do you turn off the lights when going to bed? | | |
+| 6. Do you turn off the TV when not watching it? | | |
 
 **Bài 4: Work in groups. Tell the group how well your partner saves energy**
 Làm việc theo nhóm. Nói cho nhóm biết bạn của bạn tiết kiệm năng lượng tốt như thế nào
 
 Example: My partner saves lots of energy. He walks to school every day. He always turns off the TV when not watching it and his family uses low energy light bulbs at home.
 
+Or: My partner doesn't save much energy. She goes to school by motorbike. She sometimes forgets to turn off the lights when going to bed.
+
 ## SKILLS 1 - KỸ NĂNG 1
 
 ### 📚 Vocabulary - Từ vựng
-- **lecture** : (n) bài giảng /ˈlektʃə(r)/
-- **fossil fuel** : (n) nhiên liệu hóa thạch /ˈfɒsl fjuːəl/
-- **greenhouse gas** : (n) khí nhà kính /ˈɡriːnhaʊs ɡæs/
-- **global warming** : (n) sự nóng lên toàn cầu /ˈɡləʊbl ˈwɔːmɪŋ/
+- **I'd like = would like** : muốn, mong muốn /wʊd laɪk/
+- **energy source** : (n) nguồn năng lượng /ˈenədʒi sɔːs/
+- **non-renewable source** : (n) nguồn không tái tạo /nɒn-rɪˈnjuːəbl sɔːs/
+- **renewable source** : (n) nguồn tái tạo /rɪˈnjuːəbl sɔːs/
+- **produce energy** : sản xuất năng lượng /prəˈdjuːs ˈenədʒi/
+- **cheap** : (adj) rẻ, giá thấp /tʃiːp/
+- **easy to use** : dễ sử dụng /ˈiːzi tuː juːz/
+- **limited** : (adj) hạn chế, có giới hạn /ˈlɪmɪtɪd/
+- **run out** : (v) cạn kiệt, hết /rʌn aʊt/
+- **available** : (adj) sẵn có, có sẵn /əˈveɪləbl/
+- **clean** : (adj) sạch /kliːn/
+- **safe** : (adj) an toàn /seɪf/
+- **expensive** : (adj) đắt tiền /ɪkˈspensɪv/
+- **rely on** : (v) phụ thuộc vào, dựa vào /rɪˈlaɪ ɒn/
+- **better** : (adj) tốt hơn /ˈbetə/
 - **environment** : (n) môi trường /ɪnˈvaɪrənmənt/
-- **harmful** : (adj) có hại /ˈhɑːmfl/
-- **rely on** : (v) dựa vào, phụ thuộc vào /rɪˈlaɪ ɒn/
-- **eventually** : (adv) cuối cùng /ɪˈventʃuəli/
-- **unfortunately** : (adv) không may /ʌnˈfɔːtʃənətli/
 
 ### 📖 Reading - Đọc
 
@@ -404,7 +422,7 @@ Làm việc theo cặp. Thảo luận các câu hỏi sau
 4. Renewable energy sources are better for _____.
    A. the environment   B. our cars   C. hydro energy
 
-**Answers:** 1-B, 2-A, 3-C, 4-A
+**Answers:** 1. B, 2. A, 3. C, 4. A
 
 **Bài 3: Read the text again and answer the questions**
 Đọc lại văn bản và trả lời câu hỏi
@@ -417,7 +435,7 @@ Làm việc theo cặp. Thảo luận các câu hỏi sau
 **Answers:**
 1. There are two energy sources. They are non-renewable sources and renewable sources.
 2. Non-renewable sources are coal, oil and natural gas.
-3. Renewable sources are available, clean and safe to use.
+3. Renewable sources are available, clean and safe to use. But they are expensive to produce.
 4. In the future, we will rely more on renewable energy sources.
 
 ### 🗣️ Speaking - Nói
@@ -446,14 +464,15 @@ B: It's limited and not good for the environment.
 ## SKILLS 2 - KỸ NĂNG 2
 
 ### 📚 Vocabulary - Từ vựng
-- **save energy** : (v) tiết kiệm năng lượng /seɪv ˈenədʒi/
+- **save energy** : tiết kiệm năng lượng /seɪv ˈenədʒi/
 - **turn off** : (v) tắt /tɜːn ɒf/
 - **turn on** : (v) bật /tɜːn ɒn/
 - **light bulb** : (n) bóng đèn /laɪt bʌlb/
 - **low energy light bulb** : (n) bóng đèn năng lượng thấp /ləʊ ˈenədʒi laɪt bʌlb/
 - **electrical appliance** : (n) thiết bị điện /ɪˈlektrɪkl əˈplaɪəns/
-- **solar panel** : (n) tấm pin năng lượng mặt trời /ˈsəʊlə ˈpænl/
-- **warm** : (v) làm ấm /wɔːm/
+- **solar panel** : (n) pin năng lượng mặt trời /ˈsəʊlə ˈpænl/
+- **warm** : (v) làm ấm, (adj) ấm /wɔːm/
+- **sound interesting** : nghe có vẻ thú vị /saʊnd ˈɪntrəstɪŋ/
 
 ### 👂 Listening - Nghe
 
@@ -477,25 +496,34 @@ Minh: Well, we use low energy light bulbs at my house. We always turn them off w
 
 Mr Lam: Sounds interesting.
 
-**Answer:** 1, 2, 4, 6 (save energy, turn off the lights, use low energy light bulbs, use solar panels)
+1. save energy
+2. turn off the lights
+3. turn off electrical appliances
+4. use low energy light bulbs
+5. use solar energy
+6. use solar panels
+
+**Answer:** 1, 2, 4, 6
 
 **Bài 3: Listen again and tick True or False**
 Nghe lại và đánh dấu Đúng hoặc Sai
 
-1. Linh turns off the lights when not using them. (T)
-2. Linh turns electrical appliances on when not using them. (F)
-3. Minh uses high energy light bulbs at his house. (F)
-4. Minh turns the lights off when leaving the room. (T)
-5. Minh uses coal to warm water. (F)
+1. Linh turns off the lights when not using them.
+2. Linh turns electrical appliances on when not using them.
+3. Minh uses high energy light bulbs at his house.
+4. Minh turns the lights off when leaving the room.
+5. Minh uses coal to warm water.
+
+**Answers:** 1. T, 2. F, 3. F, 4. T, 5. F
 
 ### ✍️ Writing - Viết
 
-**Bài 4: Complete the notes about saving energy. Use the words below**
-Hoàn thành ghi chú về tiết kiệm năng lượng. Sử dụng các từ dưới đây
+**Bài 4: Complete the notes about saving energy with the words below**
+Hoàn thành ghi chú về tiết kiệm năng lượng với các từ dưới đây
 
-Tips for saving energy:
+**Tips for saving energy:**
 • Use low energy light bulbs
-• Turn off the lights when leaving the room
+• Turn off the lights when leaving the room  
 • Use solar panels to warm water
 • Turn off electrical appliances when not using them
 
@@ -503,10 +531,10 @@ Tips for saving energy:
 Viết một đoạn văn (60-80 từ) về cách tiết kiệm năng lượng ở nhà
 
 **Sample answer:**
-We use a lot of energy at home and it costs us a lot. To save energy, we should use low energy light bulbs in all rooms. We need to turn off all electrical appliances when not using them, especially before going to bed. Remember to switch off lights when leaving a room. We should also use water carefully and turn off the tap immediately after use. These simple habits help reduce our bills and protect the environment.
+We use a lot of energy at home and it costs us a lot. To save energy, we should use low energy light bulbs in all rooms. We need to turn off all electrical devices when not using them, especially before going to bed. Remember to switch off lights when leaving a room. We should also use water carefully and turn off the stove immediately after cooking. These simple habits help reduce our bills and protect the environment.
 
 **Vietnamese translation:**
-Chúng tôi sử dụng rất nhiều năng lượng ở nhà và điều đó khiến chúng tôi tốn rất nhiều tiền. Để tiết kiệm năng lượng, chúng ta nên sử dụng bóng đèn năng lượng thấp trong tất cả các phòng. Chúng ta cần tắt tất cả các thiết bị điện khi không sử dụng, đặc biệt là trước khi đi ngủ. Hãy nhớ tắt đèn khi rời khỏi phòng. Chúng ta cũng nên sử dụng nước một cách cẩn thận và tắt vòi ngay sau khi sử dụng. Những thói quen đơn giản này giúp giảm hóa đơn và bảo vệ môi trường.
+Chúng tôi sử dụng rất nhiều năng lượng ở nhà và điều đó khiến chúng tôi tốn rất nhiều tiền. Để tiết kiệm năng lượng, chúng ta nên sử dụng bóng đèn năng lượng thấp trong tất cả các phòng. Chúng ta cần tắt tất cả các thiết bị điện khi không sử dụng, đặc biệt là trước khi đi ngủ. Hãy nhớ tắt đèn khi rời khỏi phòng. Chúng ta cũng nên sử dụng nước một cách cẩn thận và tắt bếp ngay sau khi nấu ăn. Những thói quen đơn giản này giúp giảm hóa đơn và bảo vệ môi trường.
 
 ## LOOKING BACK - ÔN TẬP
 
@@ -519,7 +547,12 @@ A: 1. solar, 2. hot, 3. electrical, 4. renewable, 5. low energy
 
 B: a. light bulbs, b. energy, c. water, d. appliances, e. sources
 
-**Answers:** 1-b (solar energy), 2-c (hot water), 3-d (electrical appliances), 4-e (renewable sources), 5-a (low energy light bulbs)
+**Answers:** 
+1. e (solar energy)
+2. a (hot water)  
+3. d (electrical appliances)
+4. b (renewable energy sources)
+5. c (low energy light bulbs)
 
 **Bài 2: Complete the sentences using the phrases in 1**
 Hoàn thành các câu sử dụng các cụm từ trong bài 1
@@ -532,55 +565,39 @@ Hoàn thành các câu sử dụng các cụm từ trong bài 1
 
 **Answers:** 
 1. low energy light bulbs
-2. electrical appliances  
+2. electrical appliances
 3. renewable energy sources
 4. solar energy
 5. hot water
 
 ### Grammar Review - Ôn tập ngữ pháp
 
-**Bài 3: Change the sentences into negative and question forms**
-Chuyển các câu thành dạng phủ định và câu hỏi
-
-1. We are reducing the use of nuclear energy nowadays.
-   (-) We are not reducing the use of nuclear energy nowadays.
-   (?) Are we reducing the use of nuclear energy nowadays?
-
-2. Mai is doing a project on energy sources.
-   (-) Mai is not doing a project on energy sources.
-   (?) Is Mai doing a project on energy sources?
-
-3. I am using solar energy to cook meals.
-   (-) I am not using solar energy to cook meals.
-   (?) Are you using solar energy to cook meals?
-
-4. The workers are putting solar panels on the roof.
-   (-) The workers are not putting solar panels on the roof.
-   (?) Are the workers putting solar panels on the roof?
-
-5. She is taking a course on environmental protection.
-   (-) She is not taking a course on environmental protection.
-   (?) Is she taking a course on environmental protection?
-
-**Bài 4: Complete the sentences using the correct form of the verbs**
-Hoàn thành các câu sử dụng dạng đúng của động từ
+**Bài 3: Complete the sentences by using the correct form of the present continuous or present simple of the verbs in brackets**
+Hoàn thành các câu bằng cách sử dụng dạng đúng của thì hiện tại tiếp diễn hoặc hiện tại đơn của các động từ trong ngoặc
 
 1. Look! It (rain) _____ heavily.
 2. Normally they (start) _____ school at eight o'clock in the morning.
-3. He can't meet us now. He (work) _____.
-4. We (do) _____ a project on energy sources this month.
-5. I (write) _____ an email to my friend now.
+3. He hasn't got a bike at the moment, so he (walk) _____ to school this week.
+4. He always (do) _____ his homework in the evening.
+5. I'm afraid I have no time to help just now. I (write) _____ an essay.
 
-**Answers:** 1. is raining, 2. start, 3. is working, 4. are doing, 5. am writing
+**Answers:** 1. is raining, 2. start, 3. is walking, 4. does, 5. am writing
 
-**Bài 5: Find and correct the mistakes**
-Tìm và sửa lỗi sai
+**Bài 4: Find ONE mistake in each sentence and correct it**
+Tìm MỘT lỗi sai trong mỗi câu và sửa nó
 
-1. We do a project on energy now. → are doing
-2. The teacher is explain how solar energy works. → is explaining
-3. The students is learning about wind power. → are
-4. We use solar energy at the moment. → are using
-5. They looks for information on the Internet. → are looking
+1. The students do the project in Unit 10 now.
+2. At the moment, the teacher is explain how solar energy works.
+3. Nowadays, people in Africa is not using energy from natural gas.
+4. They use wind energy instead of coal.
+5. We look for a cheap, clean and effective source of energy now.
+
+**Answers:** 
+1. do → are doing
+2. explain → explaining
+3. is → are
+4. use → are using
+5. look → are looking
 
 ## PROJECT - DỰ ÁN
 

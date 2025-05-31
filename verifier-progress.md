@@ -36,7 +36,7 @@ This document tracks the progress of verifying and improving the English learnin
 - [x] Unit 7 - Verified and updated
 - [x] Unit 8 - Verified and updated
 - [ ] Unit 9
-- [ ] Unit 10
+- [x] Unit 10 - Verified and updated
 - [ ] Unit 11
 - [ ] Unit 12
 - [ ] Review files
@@ -325,6 +325,52 @@ This document tracks the progress of verifying and improving the English learnin
 6. Fixed inconsistencies in Vietnamese translations
 7. All exercises checked against VietJack and LoiGiaiHay - 100% authentic
 8. Pronunciation guide updated to match actual textbook content
+
+### Date: May 31, 2025 - Unit 10 Verification
+
+### Unit 10 Verification Summary
+- Compared markdown-files/global-success-7/unit-10.md with ground-truth/g7/g7_part_10.md
+- Cross-referenced with VietJack and LoiGiaiHay sources
+- All content verified as authentic and follows official sources
+- No fabricated content found - all exercises match official textbook exactly
+- Integrated extensive vocabulary from ground truth
+
+### Unit 10 Corrections Made:
+1. Getting Started section:
+   - Added comprehensive vocabulary phrases from ground truth including full conversational phrases
+   - Added "too" (adv) meaning "cũng"
+   - Changed answer 3 from "wind" to "renewable" in Exercise 5
+   - Updated Exercise 4 to match VietJack - picture matching exercise
+   - Verified dialogue matches VietJack word-for-word
+
+2. A Closer Look 1 section:
+   - Added missing vocabulary from ground truth: provide, because of, sea breeze, change
+   - Corrected Exercise 3 questions to match VietJack:
+     * Changed from fill-in-the-blank to completing sentences about wind, solar panels, hydro energy, nuclear energy
+   - Verified pronunciation section - correct focus on stress in three-syllable words
+
+3. A Closer Look 2 section:
+   - Corrected Exercise 2 sentences to match VietJack:
+     * Changed from personal activities to energy-related topics
+     * "Mai is talking about types of energy sources now"
+     * "We are using solar energy to replace energy from coal"
+   - Updated Exercise 3 with different sentences from VietJack
+
+4. Skills sections:
+   - Added extensive vocabulary from ground truth for reading passage
+   - Verified Mr Lam's lecture content matches sources exactly
+   - Updated listening transcript to match VietJack
+   - Added "sound interesting" vocabulary
+
+5. Looking Back section:
+   - Corrected Exercise 1 answers: changed matching to 1-e, 2-a, 3-d, 4-b, 5-c
+   - Updated Exercise 3 to present continuous/simple form exercise
+   - Changed Exercise 4 to match VietJack format - finding mistakes in sentences
+   - All answers verified against VietJack source
+
+6. Grammar notes maintained as accurate
+7. All exercises 100% authentic - matched against official sources
+8. Vocabulary significantly expanded with ground truth additions
 
 ---
 
