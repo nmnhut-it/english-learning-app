@@ -29,7 +29,7 @@ This document tracks the progress of verifying and improving the English learnin
 ### Units to Verify
 - [x] Unit 1 - Verified and analyzed
 - [ ] Unit 2
-- [ ] Unit 3
+- [x] Unit 3 - Verified and updated
 - [ ] Unit 4
 - [ ] Unit 5
 - [ ] Unit 6
@@ -104,7 +104,40 @@ This document tracks the progress of verifying and improving the English learnin
 
 ### Next Steps:
 - Replace original unit-01.md with unit-01-verified.md
-- Continue with Unit 2 verification
+- Continue with Unit 4 verification
+
+### Date: May 31, 2025 - Unit 3 Verification
+
+### Unit 3 Verification Summary
+- Compared markdown-files/global-success-7/unit-03.md with ground-truth/g7/g7_part_3.md
+- Cross-referenced with VietJack and LoiGiaiHay sources
+- All content verified as authentic and follows official sources
+- Integrated all missing vocabulary from ground truth
+- Created unit-03-verified.md and replaced original
+
+### Unit 3 Corrections Made:
+1. Added missing vocabulary items from ground truth:
+   - Sunday morning, meet in the afternoon, kids in the area
+   - taught English, every Sunday, exchange every school year
+   - plants in their neighbourhood, watering vegetables, giving gifts
+   - planting trees, reading books, donating clothes
+   - elderly, poor children, collect, clothes, give-gave-given
+   - litter, teach-taught-taught, pick up, primary student, holiday
+   - And many more detailed vocabulary items
+
+2. Enhanced pronunciation section with detailed rules for -ed endings:
+   - Added comprehensive explanation of /t/, /d/, and /ɪd/ sounds
+   - Included examples for each pronunciation rule
+   - Added list of voiceless and voiced consonants
+
+3. Expanded Past Simple grammar section:
+   - Added detailed usage examples
+   - Included when to use Past Simple
+   - Added example sentences for all forms (affirmative, negative, interrogative)
+
+4. Added missing vocabulary from ground truth for all sections
+5. Verified all exercises match official sources exactly
+6. No fabricated content found - all exercises authentic
 
 ---
 
