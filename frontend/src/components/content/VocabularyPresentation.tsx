@@ -72,18 +72,18 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({ section
     if (!item) return null;
 
     return (
-      <Box sx={{ py: 0.5 }}>  {/* Reduced padding */}
+      <Box sx={{ py: 0.5 }}> {/* Reduced padding */}
         <Box sx={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', mb: 0.5 }}>  {/* Reduced margin */}
           <Typography variant="h5" sx={{ fontWeight: 700, fontSize: `${fontSize * 1.2}px`, display: 'flex', alignItems: 'center', gap: 1 }}>
           📖 {section.title}
           </Typography>
-          <Box sx={{ display: 'flex', gap: 0.5 }}>  {/* Reduced gap */}
+          <Box sx={{ display: 'flex', gap: 0.5 }}> {/* Reduced gap */}
             <Button
               variant="outlined"
               size="small"
               onClick={() => setShowVietnamese(!showVietnamese)}
               startIcon={showVietnamese ? <VisibilityIcon /> : <VisibilityOffIcon />}
-              sx={{ fontSize: `${fontSize * 0.7}px`, py: 0.5, px: 1.5 }}  {/* Smaller button */}
+              sx={{ fontSize: `${fontSize * 0.7}px`, py: 0.5, px: 1.5 }} // Smaller button
             >
               Vietnamese
             </Button>
@@ -91,7 +91,7 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({ section
               variant="contained"
               size="small"
               onClick={() => setShowAll(true)}
-              sx={{ fontSize: `${fontSize * 0.7}px`, py: 0.5, px: 1.5 }}  {/* Smaller button */}
+              sx={{ fontSize: `${fontSize * 0.7}px`, py: 0.5, px: 1.5 }} // Smaller button
             >
               Show All
             </Button>
@@ -223,18 +223,18 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({ section
 
   // List view - single line format
   return (
-    <Box sx={{ py: 0.5 }}>  {/* Reduced padding */}
+    <Box sx={{ py: 0.5 }}> {/* Reduced padding */}
     <Box sx={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', mb: 0.5 }}>  {/* Reduced margin */}
         <Typography variant="h4" sx={{ fontWeight: 700, fontSize: `${fontSize * 1.15}px`, display: 'flex', alignItems: 'center', gap: 0.5 }}>  {/* Smaller title */}
         📖 {section.title}
         </Typography>
-        <Box sx={{ display: 'flex', gap: 0.5 }}>  {/* Reduced gap */}
+        <Box sx={{ display: 'flex', gap: 0.5 }}> {/* Reduced gap */}
           <Button
             variant="outlined"
             size="small"
             onClick={() => setShowVietnamese(!showVietnamese)}
             startIcon={showVietnamese ? <VisibilityIcon /> : <VisibilityOffIcon />}
-            sx={{ fontSize: `${fontSize * 0.7}px`, py: 0.5, px: 1.5 }}  {/* Smaller button */}
+            sx={{ fontSize: `${fontSize * 0.7}px`, py: 0.5, px: 1.5 }} // Smaller button
           >
             Vietnamese
           </Button>
@@ -242,7 +242,7 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({ section
             variant="contained"
             size="small"
             onClick={() => setShowAll(false)}
-            sx={{ fontSize: `${fontSize * 0.7}px`, py: 0.5, px: 1.5 }}  {/* Smaller button */}
+            sx={{ fontSize: `${fontSize * 0.7}px`, py: 0.5, px: 1.5 }} // Smaller button
           >
             One by One
           </Button>

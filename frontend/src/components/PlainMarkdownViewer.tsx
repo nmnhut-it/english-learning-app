@@ -31,6 +31,7 @@ import CloseIcon from '@mui/icons-material/Close';
 import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
 import ExpandLessIcon from '@mui/icons-material/ExpandLess';
 import '../styles/print.css';
+import '../styles/plain-mode-enhancements.css';
 
 interface PlainMarkdownViewerProps {
   content: string;
@@ -398,7 +399,8 @@ const PlainMarkdownViewer: React.FC<PlainMarkdownViewerProps> = ({ content }) =>
 
       {/* Markdown Content */}
       <Box
-        ref={contentRef} 
+        ref={contentRef}
+        className="plain-mode-content" 
         sx={{ 
           height: '100%',
           overflow: 'auto',
@@ -410,20 +412,17 @@ const PlainMarkdownViewer: React.FC<PlainMarkdownViewerProps> = ({ content }) =>
           '& h1': {
             fontSize: `${fontSize * 2}px`,
             fontWeight: 700,
-            my: 4,
-            color: 'primary.main'
+            my: 4
           },
           '& h2': {
             fontSize: `${fontSize * 1.5}px`,
             fontWeight: 600,
-            my: 3,
-            color: 'primary.dark'
+            my: 3
           },
           '& h3': {
             fontSize: `${fontSize * 1.25}px`,
             fontWeight: 600,
-            my: 2,
-            color: 'text.primary'
+            my: 2
           },
           '& p': {
             fontSize: `${fontSize}px`,
@@ -436,8 +435,7 @@ const PlainMarkdownViewer: React.FC<PlainMarkdownViewerProps> = ({ content }) =>
             my: 1
           },
           '& strong': {
-            fontWeight: 600,
-            color: 'primary.main'
+            fontWeight: 600
           },
           '& em': {
             fontStyle: 'italic',
@@ -451,37 +449,22 @@ const PlainMarkdownViewer: React.FC<PlainMarkdownViewerProps> = ({ content }) =>
             fontSize: `${fontSize * 0.9}px`
           },
           '& th': {
-            backgroundColor: 'grey.100',
             p: 2,
-            borderBottom: '2px solid',
-            borderColor: 'divider',
             fontWeight: 600
           },
           '& td': {
-            p: 2,
-            borderBottom: '1px solid',
-            borderColor: 'divider'
+            p: 2
           },
           '& blockquote': {
-            borderLeft: '4px solid',
-            borderColor: 'primary.main',
-            pl: 2,
             ml: 0,
             my: 2,
             fontStyle: 'italic'
           },
           '& code': {
-            backgroundColor: 'grey.100',
-            px: 1,
-            py: 0.5,
-            borderRadius: 1,
             fontFamily: 'monospace',
             fontSize: `${fontSize * 0.85}px`
           },
           '& pre': {
-            backgroundColor: 'grey.100',
-            p: 2,
-            borderRadius: 1,
             overflow: 'auto',
             '& code': {
               backgroundColor: 'transparent',

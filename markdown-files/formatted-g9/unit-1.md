@@ -396,37 +396,43 @@ My favourite community helper is a firefighter. He usually wears special protect
 ## LOOKING BACK - ÔN TẬP
 
 ### 📚 Vocabulary Review - Ôn tập từ vựng
-Review all vocabulary from the unit
+Review all vocabulary from Unit 1
 
 ### ✍️ Exercises - Bài tập
 
 **Bài 1: Write a word or phrase for each description below.**
 (Viết một từ hoặc cụm từ cho mỗi mô tả dưới đây.)
 
-1. This person delivers goods to your house: delivery person
-2. This person stops fires from burning: firefighter
-3. People visit this place for pleasure usually while they are on holiday: tourist attraction
-4. People make these objects out of clay: pottery
-5. This person makes things with his/her hands: artisan
+1. This person delivers goods to your house. __________
+2. This person stops fires from burning. __________
+3. People visit this place for pleasure usually while they are on holiday. __________
+4. People make these objects out of clay. __________
+5. This person makes things with his/her hands. __________
+
+**Answers:**
+1. delivery person
+2. firefighter  
+3. tourist attraction
+4. pottery
+5. artisan
 
 **Bài 2: Circle the correct word or phrase to complete each sentence.**
 (Khoanh tròn từ hoặc cụm từ đúng để hoàn thành mỗi câu.)
 
-1. The villagers preserve / shorten their traditional weaving techniques.
-2. Com Lang Vong has a special fragrant / fragrance that attracts customers.
-3. Our (police officers/firefighters) help keep law and order in our community.
-4. The (electrician/delivery person) came to our house to fix the lights.
-5. Sydney, Australia, is a (tourist attraction/tourist attract).
+1. The villagers (preserve / shorten) their traditional weaving techniques.
+2. Com Lang Vong has a special (fragrant / fragrance), so it is very popular.
+3. Our (firefighters / police officers) help keep law and order in our community.
+4. The (electrician / delivery person) came to our house to fix the lights.
+5. Sydney, Australia, is a famous (tourist attraction / tourist attract).
 
 **Answers:**
 1. preserve
 2. fragrance
-3. police officers
+3. police officers  
 4. electrician
 5. tourist attraction
 
 **Bài 3: Choose the correct answer A, B, C, or D.**
-(Chọn câu trả lời đúng A, B, C hoặc D.)
 
 1. Could you tell me _____ to get to the market?
    A. where  B. what  C. how  D. when
@@ -443,20 +449,19 @@ Review all vocabulary from the unit
 3. D
 4. A
 
-**Bài 4: Complete each sentence with a phrasal verb in the box.**
-(Hoàn thành mỗi câu với một cụm động từ trong hộp.)
+ 
+**Bài 4: Rewrite each sentence so that it contains the phrasal verb in brackets. You may have to change the form of the verb.**
+(Viết lại mỗi câu sao cho có cụm động từ trong ngoặc. Bạn có thể phải thay đổi hình thức của động từ.)
 
-look around - come back - hand down - find out - take care of
-
-1. We need someone to _____ the children while we're away.
-2. They _____ tradition from generation to generation.
-3. Let's _____ the museum this afternoon.
-4. When will you _____ from your trip?
-5. We need to _____ more about our local history.
+1. In some villages, people reduce the number of steps to make the handicraft. (cut down on)
+2. My grandparents gave the skills to my parents. (hand down)
+3. In their community, the eldest child is usually responsible for his or her parents. (take care of)
+4. Before we go to a new place, we always get information about it. (find out)
+5. They have a good relationship with all neighbours. (get on with)
 
 **Answers:**
-1. take care of
-2. hand down
-3. look around
-4. come back
-5. find out
+1. In some villages, people cut down on the number of steps to make the handicraft.
+2. My grandparents handed down the skills to my parents.
+3. In their community, the eldest child usually takes care of his or her parents.
+4. Before we go to a new place, we always find out about it.
+5. They get on with all neighbours.
