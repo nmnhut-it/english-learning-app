@@ -51,45 +51,45 @@ const theme = createTheme({
   },
   typography: {
     fontFamily: '"Inter", "Roboto", "Helvetica", "Arial", sans-serif',
-    // Extra large sizes for classroom projection
+    // Balanced sizes for classroom projection - minimal size variation
     h1: {
-      fontSize: '6rem',      // Increased from 5.5rem
+      fontSize: '3rem',      // Reduced from 6rem
       fontWeight: 800,
       lineHeight: 1.2,
       color: '#000000',
     },
     h2: {
-      fontSize: '5rem',      // Increased from 4.5rem
+      fontSize: '2.5rem',    // Reduced from 5rem
       fontWeight: 700,
       lineHeight: 1.3,
       color: '#000000',
     },
     h3: {
-      fontSize: '4rem',      // Increased from 3.5rem
+      fontSize: '2.25rem',   // Reduced from 4rem
       fontWeight: 600,
       lineHeight: 1.3,
       color: '#000000',
     },
     h4: {
-      fontSize: '3.2rem',    // Increased from 2.8rem
+      fontSize: '2rem',      // Reduced from 3.2rem
       fontWeight: 600,
       lineHeight: 1.4,
       color: '#000000',
     },
     h5: {
-      fontSize: '2.5rem',    // Increased from 2.2rem
+      fontSize: '1.75rem',   // Reduced from 2.5rem
       fontWeight: 500,
       lineHeight: 1.4,
       color: '#000000',
     },
     body1: {
-      fontSize: '2.25rem',   // Increased from 2rem
+      fontSize: '2rem',      // Kept same - this is the base
       lineHeight: 1.8,
       fontWeight: 400,
       color: '#000000',
     },
     body2: {
-      fontSize: '2rem',      // Increased from 1.75rem
+      fontSize: '1.75rem',   // Slightly smaller
       lineHeight: 1.7,
       color: '#000000',
     },

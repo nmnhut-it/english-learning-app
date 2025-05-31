@@ -154,7 +154,7 @@ const ExercisePresentation: React.FC<ExercisePresentationProps> = ({ section, fo
   return (
     <Box sx={{ py: 1 }}>
       <Box sx={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', mb: 2 }}>
-        <Typography variant="h3" sx={{ fontWeight: 700, fontSize: `${fontSize * 2.25}px`, color: '#000000' }}>
+        <Typography variant="h3" sx={{ fontWeight: 700, fontSize: `${fontSize * 1.2}px`, color: '#000000' }}>
           {section.title}
         </Typography>
         {exercises.some(e => e.answer) && (
@@ -189,7 +189,7 @@ const ExercisePresentation: React.FC<ExercisePresentationProps> = ({ section, fo
               <Typography
               variant="h4"
               sx={{
-                fontSize: `${fontSize * 2}px`,  // Increased from 1.5x
+                fontSize: `${fontSize * 1.15}px`,  // Reduced from 2x
                 fontWeight: 700,
                 color: '#000000',
               }}
@@ -213,7 +213,7 @@ const ExercisePresentation: React.FC<ExercisePresentationProps> = ({ section, fo
               {/* Exercise Content */}
               <Box sx={{ p: 3 }}>
                 <Box sx={{ 
-                  fontSize: `${fontSize * 1.5}px`,  // Increased for exercise content
+                  fontSize: `${fontSize}px`,  // Same as content, not 1.5x
                   '& p': { mb: 2, fontSize: 'inherit' },
                   '& ol, & ul': { mb: 2, pl: 4, fontSize: 'inherit' },
                   '& li': { mb: 1, fontSize: 'inherit' },
@@ -262,7 +262,7 @@ const ExercisePresentation: React.FC<ExercisePresentationProps> = ({ section, fo
                         size="large"
                         onClick={() => toggleAnswer(index)}
                         startIcon={showAnswers[index] ? <VisibilityOffIcon /> : <VisibilityIcon />}
-                        sx={{ fontSize: `${fontSize * 1.25}px` }}  // Larger button text
+                        sx={{ fontSize: `${fontSize}px` }}  // Same as content
                       >
                         {showAnswers[index] ? 'Hide Answer' : 'Show Answer'}
                       </Button>
@@ -275,7 +275,7 @@ const ExercisePresentation: React.FC<ExercisePresentationProps> = ({ section, fo
                         backgroundColor: 'rgba(0, 208, 132, 0.05)',
                         borderRadius: 2,
                         border: '2px solid rgba(0, 208, 132, 0.2)',
-                        fontSize: `${fontSize * 1.4}px`,  // Larger answer text
+                        fontSize: `${fontSize}px`,  // Same as content
                         '& p': { mb: 1, fontSize: 'inherit' },
                         '& strong': {
                           color: '#000000',

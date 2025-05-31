@@ -149,24 +149,56 @@
   animation: leafFloat 20s infinite ease-in-out;
 }
 
-/* Vocabulary items with botanical style */
-.vocab-item-glass {
-  background: rgba(255, 255, 255, 0.7);
-  border: 1px solid rgba(0, 208, 132, 0.1);
+/* Heading backgrounds with transparency */
+.heading-glass {
+  background: rgba(255, 255, 255, 0.6);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
   border-radius: 20px;
+  border: 1px solid rgba(0, 208, 132, 0.15);
+  padding: 16px 24px;
+  display: inline-block;
   box-shadow: 
     0 4px 16px rgba(0, 208, 132, 0.05),
+    inset 0 0 20px rgba(255, 255, 255, 0.5);
+}
+
+/* Vocabulary items with botanical style - differentiated by style not size */
+.vocab-item-glass {
+  background: rgba(255, 255, 255, 0.8);
+  border: 2px solid rgba(0, 208, 132, 0.15);
+  border-radius: 20px;
+  box-shadow: 
+    0 4px 16px rgba(0, 208, 132, 0.08),
     inset 0 0 30px rgba(255, 255, 255, 0.5);
   transition: all 0.3s ease;
   position: relative;
 }
 
+.vocab-item-glass::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(
+    135deg,
+    rgba(0, 208, 132, 0.02) 0%,
+    rgba(16, 185, 129, 0.04) 50%,
+    transparent 100%
+  );
+  border-radius: 18px;
+  pointer-events: none;
+}
+
 .vocab-item-glass:hover {
-  background: rgba(255, 255, 255, 0.9);
+  background: rgba(255, 255, 255, 0.95);
   transform: translateX(12px) scale(1.02);
+  border-color: rgba(0, 208, 132, 0.25);
   box-shadow: 
-    0 8px 32px rgba(0, 208, 132, 0.12),
-    inset 0 0 40px rgba(16, 185, 129, 0.05);
+    0 8px 32px rgba(0, 208, 132, 0.15),
+    inset 0 0 40px rgba(16, 185, 129, 0.08);
 }
 
 /* Progress bar with nature shimmer */
