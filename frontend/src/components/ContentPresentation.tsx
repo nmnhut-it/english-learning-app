@@ -13,10 +13,13 @@ interface ContentPresentationProps {
 }
 
 const ContentPresentation: React.FC<ContentPresentationProps> = ({ content, currentSection }) => {
+  // If currentSection is empty or 'all', show all sections
+  const showAllSections = !currentSection || currentSection === 'all';
+  
   const renderSection = (section: any) => {
     // Check if this is the current section (for section navigation)
     const sectionId = section.title.toLowerCase().replace(/[^\w\s-]/g, '').replace(/\s+/g, '-');
-    const isCurrentSection = !currentSection || currentSection === section.title;
+    const isCurrentSection = showAllSections || currentSection === section.title;
     
     if (!isCurrentSection) return null;
 
@@ -145,8 +148,17 @@ const ContentPresentation: React.FC<ContentPresentationProps> = ({ content, curr
   };
 
   const renderSubsections = (section: any) => {
+    // First check if there are any subsections
+    const hasSubsections = section.subsections && section.subsections.length > 0;
+    const hasContent = section.content && section.content.length > 0;
+    
+    // If no subsections but has content, render it
+    if (!hasSubsections && hasContent) {
+      return renderGenericContent(section);
+    }
+    
     // First render any direct content
-    if (section.content && section.content.length > 0) {
+    if (hasContent) {
       const hasNonTextContent = section.content.some((item: any) => item.type !== 'text');
       
       if (hasNonTextContent) {

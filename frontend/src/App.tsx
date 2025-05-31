@@ -75,7 +75,10 @@ function App() {
     if (content && content.length > 0 && content[0].sections) {
       const sectionTitles = content[0].sections.map((section: any) => section.title);
       setSections(sectionTitles);
-      setCurrentSection(sectionTitles[0] || '');
+      // Only set first section if currentSection is empty
+      if (!currentSection && sectionTitles.length > 0) {
+        setCurrentSection(sectionTitles[0]);
+      }
     }
   }, [content]);
 
@@ -109,6 +112,7 @@ function App() {
 
   const handleFileSelect = async (path: string) => {
     setLoading(true);
+    setCurrentSection(''); // Reset section when changing files
     try {
       const response = await axios.get(`${API_URL}/markdown/content`, {
         params: { path }
@@ -132,6 +136,24 @@ function App() {
     }
   };
 
+  // Add keyboard navigation
+  useEffect(() => {
+    const handleKeyPress = (e: KeyboardEvent) => {
+      if (e.key === 'ArrowLeft') {
+        handleSectionChange('prev');
+      } else if (e.key === 'ArrowRight') {
+        handleSectionChange('next');
+      }
+    };
+
+    window.addEventListener('keydown', handleKeyPress);
+    return () => window.removeEventListener('keydown', handleKeyPress);
+  }, [currentSection, sections]);
+
+  const handleSectionSelect = (section: string) => {
+    setCurrentSection(section);
+  };
+
   return (
     <ThemeProvider theme={theme}>
       <CssBaseline />
@@ -142,6 +164,7 @@ function App() {
         currentSection={currentSection}
         sections={sections}
         onSectionChange={handleSectionChange}
+        onSectionSelect={handleSectionSelect}
       >
         {loading ? (
           <Box sx={{ display: 'flex', justifyContent: 'center', alignItems: 'center', height: '100%' }}>

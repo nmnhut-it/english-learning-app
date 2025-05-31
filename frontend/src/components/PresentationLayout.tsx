@@ -27,6 +27,7 @@ interface PresentationLayoutProps {
   currentSection?: string;
   sections?: string[];
   onSectionChange?: (direction: 'prev' | 'next') => void;
+  onSectionSelect?: (section: string) => void;
 }
 
 const PresentationLayout: React.FC<PresentationLayoutProps> = ({
@@ -37,6 +38,7 @@ const PresentationLayout: React.FC<PresentationLayoutProps> = ({
   currentSection,
   sections = [],
   onSectionChange,
+  onSectionSelect,
 }) => {
   const theme = useTheme();
   const [anchorEl, setAnchorEl] = useState<null | HTMLElement>(null);
@@ -119,10 +121,11 @@ const PresentationLayout: React.FC<PresentationLayoutProps> = ({
       {/* Minimal Header */}
       <AppBar 
         position="static" 
-        elevation={0}
+        elevation={1}
         sx={{ 
           backgroundColor: 'background.paper',
-          borderBottom: `1px solid ${theme.palette.divider}`,
+          borderBottom: `2px solid ${theme.palette.primary.main}`,
+          color: 'text.primary',
         }}
       >
         <Toolbar 
@@ -133,15 +136,18 @@ const PresentationLayout: React.FC<PresentationLayoutProps> = ({
           }}
         >
           {/* File Menu */}
-          <IconButton
-            edge="start"
-            color="inherit"
-            aria-label="menu"
+          <Button
+            variant="contained"
+            color="primary"
+            startIcon={<MenuIcon />}
             onClick={handleMenuOpen}
-            sx={{ mr: 1 }}
+            sx={{ 
+              mr: 2,
+              textTransform: 'none',
+            }}
           >
-            <MenuIcon />
-          </IconButton>
+            Files
+          </Button>
           
           {/* Breadcrumb Navigation */}
           <Breadcrumbs 
@@ -164,7 +170,22 @@ const PresentationLayout: React.FC<PresentationLayoutProps> = ({
             </Link>
             {currentFile && (
               <Typography color="text.primary" sx={{ fontSize: '0.9rem' }}>
-                {currentFile.replace(/\.md$/, '').replace(/[-_]/g, ' ')}
+                {(() => {
+                  // Find the file in the tree to get its title
+                  const findFileTitle = (node: FileTreeNode, path: string): string | null => {
+                    if (node.type === 'file' && node.path === path) {
+                      return node.title || node.name.replace(/\.md$/, '').replace(/[-_]/g, ' ');
+                    }
+                    if (node.children) {
+                      for (const child of node.children) {
+                        const title = findFileTitle(child, path);
+                        if (title) return title;
+                      }
+                    }
+                    return null;
+                  };
+                  return files ? findFileTitle(files, currentFile) || currentFile : currentFile;
+                })()}
               </Typography>
             )}
             {currentSection && (
@@ -205,12 +226,26 @@ const PresentationLayout: React.FC<PresentationLayoutProps> = ({
         PaperProps={{
           sx: {
             maxHeight: '80vh',
-            width: 300,
+            width: 350,
             mt: 1,
+            border: `1px solid ${theme.palette.divider}`,
+            boxShadow: theme.shadows[4],
           },
         }}
       >
+        <MenuItem disabled sx={{ borderBottom: `1px solid ${theme.palette.divider}`, mb: 1 }}>
+          <Typography variant="subtitle2" sx={{ fontWeight: 600 }}>
+            Select a file:
+          </Typography>
+        </MenuItem>
         {files && renderFileMenu(files)}
+        {!files && (
+          <MenuItem disabled>
+            <Typography variant="body2" color="text.secondary">
+              Loading files...
+            </Typography>
+          </MenuItem>
+        )}
       </Menu>
 
       {/* Main Content Area */}
@@ -287,10 +322,9 @@ const PresentationLayout: React.FC<PresentationLayoutProps> = ({
                 size="small"
                 variant={currentSection === section ? 'contained' : 'text'}
                 onClick={() => {
-                  const element = document.getElementById(
-                    section.toLowerCase().replace(/[^\w\s-]/g, '').replace(/\s+/g, '-')
-                  );
-                  element?.scrollIntoView({ behavior: 'smooth' });
+                  if (onSectionSelect) {
+                    onSectionSelect(section);
+                  }
                 }}
                 sx={{ 
                   minWidth: 'auto',
