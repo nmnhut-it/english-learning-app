@@ -281,27 +281,6 @@ const PresentationLayout: React.FC<PresentationLayoutProps> = ({
             '& *': {
               lineHeight: 1.6,
             },
-            '& p, & li': {
-              fontSize: { xs: '1.25rem', sm: '1.5rem', md: '1.75rem' },
-              mb: 1,
-            },
-            '& h1': {
-              fontSize: { xs: '2.5rem', sm: '3rem', md: '3.5rem' },
-              fontWeight: 600,
-              mb: 2,
-            },
-            '& h2': {
-              fontSize: { xs: '2rem', sm: '2.5rem', md: '3rem' },
-              fontWeight: 600,
-              mb: 1.5,
-              mt: 2,
-            },
-            '& h3': {
-              fontSize: { xs: '1.75rem', sm: '2rem', md: '2.5rem' },
-              fontWeight: 500,
-              mb: 1,
-              mt: 1.5,
-            },
           }}
         >
           {children}

@@ -1,9 +1,11 @@
 import React, { useState, useEffect, useCallback } from 'react';
 import { ThemeProvider, createTheme } from '@mui/material/styles';
 import CssBaseline from '@mui/material/CssBaseline';
-import { Box, Typography, ToggleButton, ToggleButtonGroup, Tooltip } from '@mui/material';
+import { Box, Typography, ToggleButton, ToggleButtonGroup, Tooltip, IconButton } from '@mui/material';
 import ViewModuleIcon from '@mui/icons-material/ViewModule';
 import ArticleIcon from '@mui/icons-material/Article';
+import AddIcon from '@mui/icons-material/Add';
+import RemoveIcon from '@mui/icons-material/Remove';
 import PresentationLayout from './components/PresentationLayout';
 import ContentPresentation from './components/ContentPresentation';
 import PlainMarkdownViewer from './components/PlainMarkdownViewer';
@@ -72,6 +74,7 @@ function App() {
   const [currentSection, setCurrentSection] = useState<string>('');
   const [sections, setSections] = useState<string[]>([]);
   const [viewMode, setViewMode] = useState<ViewMode>('structured');
+  const [structuredFontSize, setStructuredFontSize] = useState<number>(16); // Base font size in px
 
   useEffect(() => {
     fetchFiles();
@@ -159,7 +162,7 @@ function App() {
     }
   };
 
-  const handleSectionChange = (direction: 'prev' | 'next') => {
+  const handleSectionChange = useCallback((direction: 'prev' | 'next') => {
     if (viewMode === 'plain') return; // No section navigation in plain mode
     
     const currentIndex = sections.findIndex(s => s === currentSection);
@@ -168,14 +171,26 @@ function App() {
     } else if (direction === 'prev' && currentIndex > 0) {
       setCurrentSection(sections[currentIndex - 1]);
     }
-  };
+  }, [viewMode, sections, currentSection]);
 
-  // Add keyboard navigation
+  // Add keyboard navigation and font size controls
   useEffect(() => {
     const handleKeyPress = (e: KeyboardEvent) => {
       if (viewMode === 'plain') return;
       
-      if (e.key === 'ArrowLeft') {
+      if (e.ctrlKey || e.metaKey) {
+        switch (e.key) {
+          case '=':
+          case '+':
+            e.preventDefault();
+            setStructuredFontSize(prev => Math.min(24, prev + 2));
+            break;
+          case '-':
+            e.preventDefault();
+            setStructuredFontSize(prev => Math.max(12, prev - 2));
+            break;
+        }
+      } else if (e.key === 'ArrowLeft') {
         handleSectionChange('prev');
       } else if (e.key === 'ArrowRight') {
         handleSectionChange('next');
@@ -184,7 +199,7 @@ function App() {
 
     window.addEventListener('keydown', handleKeyPress);
     return () => window.removeEventListener('keydown', handleKeyPress);
-  }, [currentSection, sections, viewMode]);
+  }, [viewMode, handleSectionChange]);
 
   const handleSectionSelect = (section: string) => {
     setCurrentSection(section);
@@ -217,8 +232,8 @@ function App() {
       return <PlainMarkdownViewer content={rawContent} />;
     }
 
-    return <ContentPresentation content={content} currentSection={currentSection} />;
-  }, [loading, content, rawContent, viewMode, currentSection]);
+    return <ContentPresentation key={structuredFontSize} content={content} currentSection={currentSection} fontSize={structuredFontSize} />;
+  }, [loading, content, rawContent, viewMode, currentSection, structuredFontSize]);
 
   return (
     <ThemeProvider theme={theme}>
@@ -233,24 +248,51 @@ function App() {
         onSectionSelect={handleSectionSelect}
         showSectionControls={viewMode === 'structured'}
         extraControls={
-          <ToggleButtonGroup
-            value={viewMode}
-            exclusive
-            onChange={handleViewModeChange}
-            size="small"
-            sx={{ ml: 2 }}
-          >
-            <ToggleButton value="structured">
-              <Tooltip title="Structured View">
-                <ViewModuleIcon />
-              </Tooltip>
-            </ToggleButton>
-            <ToggleButton value="plain">
-              <Tooltip title="Plain Markdown">
-                <ArticleIcon />
-              </Tooltip>
-            </ToggleButton>
-          </ToggleButtonGroup>
+          <Box sx={{ display: 'flex', alignItems: 'center', gap: 1, ml: 2 }}>
+            <ToggleButtonGroup
+              value={viewMode}
+              exclusive
+              onChange={handleViewModeChange}
+              size="small"
+            >
+              <ToggleButton value="structured">
+                <Tooltip title="Structured View">
+                  <ViewModuleIcon />
+                </Tooltip>
+              </ToggleButton>
+              <ToggleButton value="plain">
+                <Tooltip title="Plain Markdown">
+                  <ArticleIcon />
+                </Tooltip>
+              </ToggleButton>
+            </ToggleButtonGroup>
+            
+            {viewMode === 'structured' && (
+              <Box sx={{ display: 'flex', alignItems: 'center', gap: 0.5, ml: 1 }}>
+                <Tooltip title="Decrease font size">
+                  <IconButton 
+                    size="small" 
+                    onClick={() => setStructuredFontSize(prev => Math.max(12, prev - 2))}
+                    disabled={structuredFontSize <= 12}
+                  >
+                    <RemoveIcon fontSize="small" />
+                  </IconButton>
+                </Tooltip>
+                <Typography variant="caption" sx={{ minWidth: 40, textAlign: 'center' }}>
+                  {structuredFontSize}px
+                </Typography>
+                <Tooltip title="Increase font size">
+                  <IconButton 
+                    size="small" 
+                    onClick={() => setStructuredFontSize(prev => Math.min(24, prev + 2))}
+                    disabled={structuredFontSize >= 24}
+                  >
+                    <AddIcon fontSize="small" />
+                  </IconButton>
+                </Tooltip>
+              </Box>
+            )}
+          </Box>
         }
       >
         {renderContent()}

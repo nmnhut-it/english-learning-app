@@ -10,9 +10,10 @@ import CommunicationSection from './content/CommunicationSection';
 interface ContentPresentationProps {
   content: Unit[];
   currentSection?: string;
+  fontSize?: number;
 }
 
-const ContentPresentation: React.FC<ContentPresentationProps> = ({ content, currentSection }) => {
+const ContentPresentation: React.FC<ContentPresentationProps> = ({ content, currentSection, fontSize = 16 }) => {
   // If currentSection is empty or 'all', show all sections
   const showAllSections = !currentSection || currentSection === 'all';
   
@@ -26,18 +27,18 @@ const ContentPresentation: React.FC<ContentPresentationProps> = ({ content, curr
     // Always show section title and render all its content
     return (
       <Box key={section.title} id={sectionId}>
-        <Typography variant="h2" sx={{ mb: 2, fontWeight: 600 }}>
+        <Typography variant="h2" sx={{ mb: 2, fontWeight: 600, fontSize: `${fontSize * 2}px` }}>
           {section.title}
         </Typography>
         
         {/* Add section-specific labels */}
         {section.type === 'skills-1' && (
-          <Typography variant="h4" sx={{ mb: 1, color: 'primary.main' }}>
+          <Typography variant="h4" sx={{ mb: 1, color: 'primary.main', fontSize: `${fontSize * 1.5}px` }}>
             📖 Reading & Speaking
           </Typography>
         )}
         {section.type === 'skills-2' && (
-          <Typography variant="h4" sx={{ mb: 1, color: 'primary.main' }}>
+          <Typography variant="h4" sx={{ mb: 1, color: 'primary.main', fontSize: `${fontSize * 1.5}px` }}>
             👂 Listening & Writing
           </Typography>
         )}
@@ -92,20 +93,26 @@ const ContentPresentation: React.FC<ContentPresentationProps> = ({ content, curr
       case 'vocabulary':
         return (
           <Box key={key} sx={{ mb: 2 }}>
-            <VocabularyPresentation section={{
-              title: subsection.title,
-              content: subsection.content
-            }} />
+            <VocabularyPresentation 
+              section={{
+                title: subsection.title,
+                content: subsection.content
+              }} 
+              fontSize={fontSize}
+            />
           </Box>
         );
         
       case 'exercises':
         return (
           <Box key={key} sx={{ mb: 2 }}>
-            <ExercisePresentation section={{
-              title: subsection.title,
-              content: subsection.content
-            }} />
+            <ExercisePresentation 
+              section={{
+                title: subsection.title,
+                content: subsection.content
+              }} 
+              fontSize={fontSize}
+            />
           </Box>
         );
         
@@ -119,7 +126,7 @@ const ContentPresentation: React.FC<ContentPresentationProps> = ({ content, curr
       case 'writing':
         return (
           <Box key={key} sx={{ mb: 2 }}>
-            <Typography variant="h3" sx={{ mb: 1.5, fontWeight: 600 }}>
+            <Typography variant="h3" sx={{ mb: 1.5, fontWeight: 600, fontSize: `${fontSize * 1.75}px` }}>
               {subsection.title}
             </Typography>
             <Box>
@@ -135,7 +142,7 @@ const ContentPresentation: React.FC<ContentPresentationProps> = ({ content, curr
         return (
           <Box key={key} sx={{ mb: 2 }}>
             {subsection.title && (
-              <Typography variant="h3" sx={{ mb: 1.5, fontWeight: 600 }}>
+              <Typography variant="h3" sx={{ mb: 1.5, fontWeight: 600, fontSize: `${fontSize * 1.75}px` }}>
                 {subsection.title}
               </Typography>
             )}
@@ -153,7 +160,7 @@ const ContentPresentation: React.FC<ContentPresentationProps> = ({ content, curr
     if (item.type === 'text') {
       return (
         <Box key={key} sx={{ 
-          fontSize: { xs: '1.25rem', sm: '1.5rem', md: '1.75rem' },
+          fontSize: `${fontSize}px`,
           '& p': { mb: 1 },
           '& ol, & ul': { mb: 1, pl: 3 },
           '& li': { mb: 0.5, fontSize: 'inherit' },
@@ -193,14 +200,14 @@ const ContentPresentation: React.FC<ContentPresentationProps> = ({ content, curr
     } else if (item.type === 'dialogue') {
       return (
         <Box key={key} sx={{ mb: 1.5, pl: 2, borderLeft: '3px solid', borderColor: 'primary.light' }}>
-          <Typography variant="body1" sx={{ fontWeight: 600, fontSize: 'inherit', mb: 0.25 }}>
+          <Typography variant="body1" sx={{ fontWeight: 600, fontSize: `${fontSize}px`, mb: 0.25 }}>
             {item.speaker}:
           </Typography>
-          <Typography variant="body1" sx={{ fontSize: 'inherit', mb: 0.5 }}>
+          <Typography variant="body1" sx={{ fontSize: `${fontSize}px`, mb: 0.5 }}>
             {item.text}
           </Typography>
           {item.translation && (
-            <Typography variant="body1" sx={{ fontStyle: 'italic', color: 'text.secondary', fontSize: '0.9em' }}>
+            <Typography variant="body1" sx={{ fontStyle: 'italic', color: 'text.secondary', fontSize: `${fontSize * 0.9}px` }}>
               {item.translation}
             </Typography>
           )}
@@ -214,7 +221,7 @@ const ContentPresentation: React.FC<ContentPresentationProps> = ({ content, curr
       // Inline vocabulary display
       return (
         <Box key={key} sx={{ mb: 0.5 }}>
-          <Typography variant="body1" sx={{ fontSize: { xs: '1.5rem', sm: '1.75rem', md: '2rem' } }}>
+          <Typography variant="body1" sx={{ fontSize: `${fontSize * 1.25}px` }}>
             {item.number && `${item.number}. `}
             <strong>{word}</strong>
             {item.partOfSpeech && ` (${item.partOfSpeech})`} - {meaning} - 
@@ -231,7 +238,7 @@ const ContentPresentation: React.FC<ContentPresentationProps> = ({ content, curr
 
     return (
       <Box sx={{ 
-        fontSize: { xs: '1.25rem', sm: '1.5rem', md: '1.75rem' },
+        fontSize: `${fontSize}px`,
         '& p': { mb: 1 },
         '& ol, & ul': { mb: 1, pl: 3 },
         '& li': { mb: 0.5, fontSize: 'inherit' },
@@ -293,14 +300,14 @@ const ContentPresentation: React.FC<ContentPresentationProps> = ({ content, curr
           } else if (item.type === 'dialogue') {
             return (
               <Box key={index} sx={{ mb: 1.5, pl: 2, borderLeft: '3px solid', borderColor: 'primary.light' }}>
-                <Typography variant="body1" sx={{ fontWeight: 600, fontSize: 'inherit', mb: 0.25 }}>
+                <Typography variant="body1" sx={{ fontWeight: 600, fontSize: `${fontSize}px`, mb: 0.25 }}>
                   {item.speaker}:
                 </Typography>
-                <Typography variant="body1" sx={{ fontSize: 'inherit', mb: 0.5 }}>
+                <Typography variant="body1" sx={{ fontSize: `${fontSize}px`, mb: 0.5 }}>
                   {item.text}
                 </Typography>
                 {item.translation && (
-                  <Typography variant="body1" sx={{ fontStyle: 'italic', color: 'text.secondary', fontSize: '0.9em' }}>
+                  <Typography variant="body1" sx={{ fontStyle: 'italic', color: 'text.secondary', fontSize: `${fontSize * 0.9}px` }}>
                     {item.translation}
                   </Typography>
                 )}
@@ -314,7 +321,7 @@ const ContentPresentation: React.FC<ContentPresentationProps> = ({ content, curr
             // Inline vocabulary in generic content
             return (
               <Box key={index} sx={{ mb: 0.5 }}>
-                <Typography variant="body1" sx={{ fontSize: 'inherit' }}>
+                <Typography variant="body1" sx={{ fontSize: `${fontSize * 1.25}px` }}>
                   {item.number && `${item.number}. `}
                   <strong>{word}</strong>
                   {item.partOfSpeech && ` (${item.partOfSpeech})`} - {meaning} - 
@@ -336,7 +343,7 @@ const ContentPresentation: React.FC<ContentPresentationProps> = ({ content, curr
           <Typography
             variant="h1"
             id={unit.title.toLowerCase().replace(/[^\w\s-]/g, '').replace(/\s+/g, '-')}
-            sx={{ mb: 2, fontWeight: 700 }}
+            sx={{ mb: 2, fontWeight: 700, fontSize: `${fontSize * 2.5}px` }}
           >
             {unit.title}
           </Typography>

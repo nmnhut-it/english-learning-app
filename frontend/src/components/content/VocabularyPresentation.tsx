@@ -17,9 +17,10 @@ import useTextToSpeech from '../../hooks/useTextToSpeech';
 
 interface VocabularyPresentationProps {
   section: any;
+  fontSize?: number;
 }
 
-const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({ section }) => {
+const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({ section, fontSize = 16 }) => {
   const [currentIndex, setCurrentIndex] = useState(0);
   const [showAll, setShowAll] = useState(true);
   const [showVietnamese, setShowVietnamese] = useState(true);
@@ -61,7 +62,7 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({ section
   React.useEffect(() => {
     window.addEventListener('keydown', handleKeyPress);
     return () => window.removeEventListener('keydown', handleKeyPress);
-  }, [currentIndex]);
+  }, [currentIndex, vocabItems.length, speak]);
 
   if (vocabItems.length === 0) return null;
 
@@ -73,7 +74,7 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({ section
     return (
       <Box sx={{ py: 1 }}>
         <Box sx={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', mb: 1 }}>
-          <Typography variant="h5" sx={{ fontWeight: 600 }}>
+          <Typography variant="h5" sx={{ fontWeight: 600, fontSize: `${fontSize * 1.5}px` }}>
             {section.title}
           </Typography>
           <Box sx={{ display: 'flex', gap: 1 }}>
@@ -145,7 +146,7 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({ section
               <Typography
                 variant="h1"
                 sx={{
-                  fontSize: { xs: '3rem', sm: '4rem', md: '5rem' },
+                  fontSize: `${fontSize * 3}px`,
                   fontWeight: 600,
                   color: 'primary.main',
                 }}
@@ -164,7 +165,7 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({ section
             <Typography
               variant="h2"
               sx={{
-                fontSize: { xs: '2rem', sm: '2.5rem', md: '3rem' },
+                fontSize: `${fontSize * 1.5}px`,
                 color: 'text.secondary',
               }}
             >
@@ -175,7 +176,7 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({ section
               <Typography
                 variant="h2"
                 sx={{
-                  fontSize: { xs: '2.5rem', sm: '3rem', md: '3.5rem' },
+                  fontSize: `${fontSize * 2.5}px`,
                   color: 'secondary.main',
                   fontWeight: 500,
                 }}
@@ -187,7 +188,7 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({ section
             <Typography
               variant="h3"
               sx={{
-                fontSize: { xs: '2rem', sm: '2.5rem', md: '3rem' },
+                fontSize: `${fontSize * 2}px`,
                 fontStyle: 'italic',
                 color: 'text.secondary',
               }}
@@ -217,7 +218,7 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({ section
   return (
     <Box sx={{ py: 1 }}>
       <Box sx={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', mb: 1 }}>
-        <Typography variant="h4" sx={{ fontWeight: 600 }}>
+        <Typography variant="h4" sx={{ fontWeight: 600, fontSize: `${fontSize * 1.75}px` }}>
           {section.title}
         </Typography>
         <Box sx={{ display: 'flex', gap: 1 }}>
@@ -313,7 +314,7 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({ section
               <Typography
                 variant="h4"
                 sx={{
-                  fontSize: '24pt',
+                  fontSize: `${fontSize * 1.25}px`,
                   color: 'text.secondary',
                   textAlign: 'right',
                   pr: 1
@@ -326,7 +327,7 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({ section
               <Typography
                 variant="h4"
                 sx={{
-                  fontSize: '32pt',
+                  fontSize: `${fontSize * 2}px`,
                   fontWeight: 600,
                   color: 'primary.main',
                   overflow: 'hidden',
@@ -342,7 +343,7 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({ section
               <Typography
                 variant="h4"
                 sx={{
-                  fontSize: '24pt',
+                  fontSize: `${fontSize * 1.5}px`,
                   color: 'text.secondary',
                   textAlign: 'center',
                 }}
@@ -355,7 +356,7 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({ section
                 <Typography
                   variant="h4"
                   sx={{
-                    fontSize: '32pt',
+                    fontSize: `${fontSize * 2}px`,
                     color: 'secondary.main',
                     fontWeight: 500,
                     overflow: 'hidden',
@@ -372,7 +373,7 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({ section
               <Typography
                 variant="h4"
                 sx={{
-                  fontSize: '24pt',
+                  fontSize: `${fontSize * 1.5}px`,
                   fontStyle: 'italic',
                   color: 'text.secondary',
                   overflow: 'hidden',

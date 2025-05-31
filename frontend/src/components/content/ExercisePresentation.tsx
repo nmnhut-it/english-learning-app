@@ -18,6 +18,7 @@ import remarkGfm from 'remark-gfm';
 
 interface ExercisePresentationProps {
   section: any;
+  fontSize?: number;
 }
 
 interface ParsedExercise {
@@ -26,7 +27,7 @@ interface ParsedExercise {
   answer?: string;
 }
 
-const ExercisePresentation: React.FC<ExercisePresentationProps> = ({ section }) => {
+const ExercisePresentation: React.FC<ExercisePresentationProps> = ({ section, fontSize = 16 }) => {
   const [showAnswers, setShowAnswers] = useState<Record<number, boolean>>({});
   const [expandedExercises, setExpandedExercises] = useState<Record<number, boolean>>({});
 
@@ -153,7 +154,7 @@ const ExercisePresentation: React.FC<ExercisePresentationProps> = ({ section }) 
   return (
     <Box sx={{ py: 1 }}>
       <Box sx={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', mb: 2 }}>
-        <Typography variant="h3" sx={{ fontWeight: 600 }}>
+        <Typography variant="h3" sx={{ fontWeight: 600, fontSize: `${fontSize * 1.75}px` }}>
           {section.title}
         </Typography>
         {exercises.some(e => e.answer) && (
@@ -186,12 +187,12 @@ const ExercisePresentation: React.FC<ExercisePresentationProps> = ({ section }) 
               onClick={() => toggleExpanded(index)}
             >
               <Typography
-                variant="h4"
-                sx={{
-                  fontSize: { xs: '1.75rem', sm: '2rem', md: '2.25rem' },
-                  fontWeight: 600,
-                  color: 'primary.main',
-                }}
+              variant="h4"
+              sx={{
+              fontSize: `${fontSize * 1.5}px`,
+              fontWeight: 600,
+              color: 'primary.main',
+              }}
               >
                 <ReactMarkdown
                   remarkPlugins={[remarkGfm]}
@@ -212,7 +213,7 @@ const ExercisePresentation: React.FC<ExercisePresentationProps> = ({ section }) 
               {/* Exercise Content */}
               <Box sx={{ p: 2 }}>
                 <Box sx={{ 
-                  fontSize: { xs: '1.25rem', sm: '1.5rem', md: '1.75rem' },
+                  fontSize: `${fontSize}px`,
                   '& p': { mb: 1 },
                   '& ol, & ul': { mb: 1, pl: 3 },
                   '& li': { mb: 0.5 },
@@ -272,7 +273,7 @@ const ExercisePresentation: React.FC<ExercisePresentationProps> = ({ section }) 
                         p: 1.5,
                         backgroundColor: 'success.50',
                         borderRadius: 2,
-                        fontSize: { xs: '1.25rem', sm: '1.5rem', md: '1.75rem' },
+                        fontSize: `${fontSize}px`,
                         '& p': { mb: 0.5 },
                         '& strong': {
                           color: 'success.main',
