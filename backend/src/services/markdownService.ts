@@ -500,7 +500,7 @@ else if (line.match(/^(\d+\.|-)\s*\*\*[^*]+\*\*\s*:/) || line.match(/^\([^)]+\)\
     flushExercise();
     
     // Sort sections in each unit according to pedagogical order
-    sections.forEach(unit => {
+    sections.forEach((unit: any) => {
       if (unit.sections && unit.sections.length > 0) {
         unit.sections = this.sortSections(unit.sections);
       }
@@ -508,12 +508,12 @@ else if (line.match(/^(\d+\.|-)\s*\*\*[^*]+\*\*\s*:/) || line.match(/^\([^)]+\)\
     
     console.log('\n=== PARSE CONTENT COMPLETE ===');
     console.log('Total units:', sections.length);
-    sections.forEach(unit => {
+    sections.forEach((unit: any) => {
       console.log(`\nUnit: ${unit.title}`);
-      unit.sections.forEach(section => {
+      unit.sections.forEach((section: any) => {
         console.log(`  Section: ${section.title}`);
         if (section.subsections) {
-          section.subsections.forEach(sub => {
+          section.subsections.forEach((sub: any) => {
             console.log(`    Subsection: ${sub.title} (${sub.content.length} items)`);
             const vocabCount = sub.content.filter((item: any) => item.type === 'vocabulary').length;
             if (vocabCount > 0) {
@@ -552,8 +552,8 @@ else if (line.match(/^(\d+\.|-)\s*\*\*[^*]+\*\*\s*:/) || line.match(/^\([^)]+\)\
     const newFormatMatch = line.match(/^\(([^)]+)\)\s*-\s*([^-]+)\s*-\s*(.+)$/);
     console.log('Testing new format regex:', newFormatMatch);
     if (newFormatMatch) {
-      const result = {
-        type: 'vocabulary',
+      const result: Vocabulary = {
+        type: 'vocabulary' as const,
         partOfSpeech: newFormatMatch[1].trim(),
         word: newFormatMatch[2].trim(),
         meaning: '', // No meaning in this format
@@ -572,8 +572,8 @@ else if (line.match(/^(\d+\.|-)\s*\*\*[^*]+\*\*\s*:/) || line.match(/^\([^)]+\)\
     const match = numberedMatch || bulletMatch;
     if (match) {
       if (numberedMatch) {
-        const result = {
-          type: 'vocabulary',
+        const result: Vocabulary = {
+          type: 'vocabulary' as const,
           number: match[1],
           word: match[2].trim(),
           partOfSpeech: match[3]?.trim(),
@@ -583,8 +583,8 @@ else if (line.match(/^(\d+\.|-)\s*\*\*[^*]+\*\*\s*:/) || line.match(/^\([^)]+\)\
         console.log('Matched numbered format:', result);
         return result;
       } else {
-        const result = {
-          type: 'vocabulary',
+        const result: Vocabulary = {
+          type: 'vocabulary' as const,
           word: match[1].trim(),
           partOfSpeech: match[2]?.trim(),
           meaning: match[3].trim(),
