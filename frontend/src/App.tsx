@@ -28,35 +28,6 @@ const theme = createTheme({
   },
   typography: {
     fontFamily: '"Roboto", "Helvetica", "Arial", sans-serif',
-    // Larger base font sizes for presentation
-    h1: {
-      fontSize: '3.5rem',
-      fontWeight: 700,
-    },
-    h2: {
-      fontSize: '3rem',
-      fontWeight: 600,
-    },
-    h3: {
-      fontSize: '2.5rem',
-      fontWeight: 600,
-    },
-    h4: {
-      fontSize: '2rem',
-      fontWeight: 500,
-    },
-    h5: {
-      fontSize: '1.75rem',
-      fontWeight: 500,
-    },
-    body1: {
-      fontSize: '1.5rem',
-      lineHeight: 1.6,
-    },
-    body2: {
-      fontSize: '1.25rem',
-      lineHeight: 1.6,
-    },
   },
 });
 
@@ -268,24 +239,46 @@ function App() {
             </ToggleButtonGroup>
             
             {viewMode === 'structured' && (
-              <Box sx={{ display: 'flex', alignItems: 'center', gap: 0.5, ml: 1 }}>
-                <Tooltip title="Decrease font size">
+              <Box sx={{ 
+                display: 'flex', 
+                alignItems: 'center', 
+                gap: 0.5, 
+                ml: 1,
+                border: '1px solid',
+                borderColor: 'divider',
+                borderRadius: 1,
+                px: 0.5,
+                backgroundColor: 'background.paper'
+              }}>
+                <Tooltip title="Decrease font size (Ctrl -)">
                   <IconButton 
                     size="small" 
                     onClick={() => setStructuredFontSize(prev => Math.max(12, prev - 2))}
                     disabled={structuredFontSize <= 12}
+                    sx={{ p: 0.5 }}
                   >
                     <RemoveIcon fontSize="small" />
                   </IconButton>
                 </Tooltip>
-                <Typography variant="caption" sx={{ minWidth: 40, textAlign: 'center' }}>
+                <Typography 
+                  variant="caption" 
+                  sx={{ 
+                    minWidth: 45, 
+                    textAlign: 'center',
+                    fontWeight: 600,
+                    color: 'primary.main',
+                    transition: 'all 0.2s ease',
+                    transform: structuredFontSize === 16 ? 'scale(1)' : 'scale(1.1)'
+                  }}
+                >
                   {structuredFontSize}px
                 </Typography>
-                <Tooltip title="Increase font size">
+                <Tooltip title="Increase font size (Ctrl +)">
                   <IconButton 
                     size="small" 
                     onClick={() => setStructuredFontSize(prev => Math.min(24, prev + 2))}
                     disabled={structuredFontSize >= 24}
+                    sx={{ p: 0.5 }}
                   >
                     <AddIcon fontSize="small" />
                   </IconButton>

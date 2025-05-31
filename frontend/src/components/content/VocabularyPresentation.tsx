@@ -74,8 +74,8 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({ section
     return (
       <Box sx={{ py: 1 }}>
         <Box sx={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', mb: 1 }}>
-          <Typography variant="h5" sx={{ fontWeight: 600, fontSize: `${fontSize * 1.5}px` }}>
-            {section.title}
+          <Typography variant="h5" sx={{ fontWeight: 600, fontSize: `${fontSize * 1.5}px`, display: 'flex', alignItems: 'center', gap: 1 }}>
+            📖 {section.title}
           </Typography>
           <Box sx={{ display: 'flex', gap: 1 }}>
             <Button
@@ -83,6 +83,7 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({ section
               size="small"
               onClick={() => setShowVietnamese(!showVietnamese)}
               startIcon={showVietnamese ? <VisibilityIcon /> : <VisibilityOffIcon />}
+              sx={{ fontSize: `${fontSize * 0.75}px` }}
             >
               Vietnamese
             </Button>
@@ -90,6 +91,7 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({ section
               variant="contained"
               size="small"
               onClick={() => setShowAll(true)}
+              sx={{ fontSize: `${fontSize * 0.75}px` }}
             >
               Show All
             </Button>
@@ -188,7 +190,7 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({ section
             <Typography
               variant="h3"
               sx={{
-                fontSize: `${fontSize * 2}px`,
+                fontSize: `${fontSize * 2.25}px`,
                 fontStyle: 'italic',
                 color: 'text.secondary',
               }}
@@ -219,8 +221,8 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({ section
   return (
     <Box sx={{ py: 1 }}>
       <Box sx={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', mb: 1 }}>
-        <Typography variant="h4" sx={{ fontWeight: 600, fontSize: `${fontSize * 1.75}px` }}>
-          {section.title}
+        <Typography variant="h4" sx={{ fontWeight: 600, fontSize: `${fontSize * 1.75}px`, display: 'flex', alignItems: 'center', gap: 1 }}>
+          📖 {section.title}
         </Typography>
         <Box sx={{ display: 'flex', gap: 1 }}>
           <Button
@@ -228,6 +230,7 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({ section
             size="small"
             onClick={() => setShowVietnamese(!showVietnamese)}
             startIcon={showVietnamese ? <VisibilityIcon /> : <VisibilityOffIcon />}
+            sx={{ fontSize: `${fontSize * 0.75}px` }}
           >
             Vietnamese
           </Button>
@@ -235,6 +238,7 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({ section
             variant="contained"
             size="small"
             onClick={() => setShowAll(false)}
+            sx={{ fontSize: `${fontSize * 0.75}px` }}
           >
             One by One
           </Button>
@@ -244,64 +248,25 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({ section
       <Box sx={{ 
         display: 'flex', 
         flexDirection: 'column', 
-        gap: 0.5,
+        gap: 1,
         overflow: 'hidden',
-        maxWidth: '100%',
-        position: 'relative',
-        '& > *:not(:first-child)': {
-          scrollMarginTop: '60px', // Ensure content scrolls below sticky header
-        }
+        maxWidth: '100%'
       }}>
-        {/* Column Headers */}
-        <Box sx={{ 
-          display: { xs: 'none', md: 'grid' }, 
-          gridTemplateColumns: '50px minmax(150px, 0.8fr) 80px minmax(150px, 1fr) minmax(120px, 0.7fr) 50px',
-          alignItems: 'center',
-          gap: 2,
-          px: 1.5,
-          py: 1,
-          mb: 0.5,
-          borderBottom: '2px solid',
-          borderColor: 'divider',
-          backgroundColor: 'grey.50',
-          position: 'sticky',
-          top: 48, // Reduced to avoid overlap
-          zIndex: 10,
-          borderRadius: '4px 4px 0 0',
-          boxShadow: '0 2px 4px rgba(0,0,0,0.1)'
-        }}>
-          <Typography variant="subtitle2" sx={{ textAlign: 'right', fontWeight: 600, color: 'text.secondary', fontSize: `${fontSize * 0.875}px` }}>
-            #
-          </Typography>
-          <Typography variant="subtitle1" sx={{ fontWeight: 600, fontSize: `${fontSize}px` }}>
-            English
-          </Typography>
-          <Typography variant="subtitle2" sx={{ textAlign: 'center', fontWeight: 600, color: 'text.secondary', fontSize: `${fontSize * 0.875}px` }}>
-            Type
-          </Typography>
-          <Typography variant="subtitle1" sx={{ fontWeight: 600, fontSize: `${fontSize}px` }}>
-            Vietnamese
-          </Typography>
-          <Typography variant="subtitle2" sx={{ fontWeight: 600, color: 'text.secondary', fontSize: `${fontSize * 0.875}px` }}>
-            Pronunciation
-          </Typography>
-          <Typography variant="subtitle2" sx={{ textAlign: 'center', fontWeight: 600, color: 'text.secondary', fontSize: `${fontSize * 0.875}px` }}>
-            🔊
-          </Typography>
-        </Box>
-        
         {vocabItems.map((item: VocabularyItem, index: number) => (
           <Card
             key={index}
             sx={{
-              p: fontSize >= 20 ? 2 : 1.5,
+              p: fontSize >= 20 ? 2.5 : fontSize >= 16 ? 2 : 1.5,
               cursor: 'pointer',
               transition: 'all 0.2s',
               backgroundColor: index % 2 === 0 ? 'background.paper' : 'grey.50',
+              borderLeft: '4px solid',
+              borderLeftColor: index % 2 === 0 ? 'primary.light' : 'primary.main',
               '&:hover': {
                 transform: 'translateX(8px)',
-                boxShadow: 2,
+                boxShadow: 3,
                 backgroundColor: 'primary.50',
+                borderLeftColor: 'primary.dark',
               },
             }}
             onClick={() => {
@@ -312,7 +277,7 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({ section
             {/* Desktop Layout */}
             <Box sx={{ 
               display: { xs: 'none', md: 'grid' }, 
-              gridTemplateColumns: '50px minmax(150px, 0.8fr) 80px minmax(150px, 1fr) minmax(120px, 0.7fr) 50px',
+              gridTemplateColumns: '50px minmax(150px, 0.7fr) 80px minmax(150px, 0.9fr) minmax(150px, 0.8fr) 50px',
               alignItems: 'center',
               gap: 2,
               width: '100%'
@@ -348,7 +313,7 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({ section
               <Typography
                 variant="h4"
                 sx={{
-                  fontSize: `${fontSize * 1.5}px`,
+                  fontSize: `${fontSize * 1.75}px`,
                   color: 'text.secondary',
                   textAlign: 'center',
                 }}
@@ -376,7 +341,7 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({ section
               <Typography
                 variant="h4"
                 sx={{
-                  fontSize: `${fontSize * 1.5}px`,
+                  fontSize: `${fontSize * 1.75}px`,
                   fontStyle: 'italic',
                   color: 'text.secondary',
                   wordBreak: 'break-word',
@@ -460,7 +425,7 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({ section
                 <Typography
                   variant="h4"
                   sx={{
-                    fontSize: { xs: '1.25rem', sm: '1.5rem' },
+                    fontSize: { xs: '1.5rem', sm: '1.75rem' },
                     fontStyle: 'italic',
                     color: 'text.secondary',
                   }}
