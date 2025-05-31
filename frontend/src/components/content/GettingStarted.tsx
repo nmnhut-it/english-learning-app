@@ -28,6 +28,15 @@ const GettingStarted: React.FC<GettingStartedProps> = ({ section }) => {
   const [expanded, setExpanded] = useState(true);
   const [showTranslations, setShowTranslations] = useState(true);
   const { speak } = useTextToSpeech();
+  
+  console.log('\n=== GettingStarted Component ===');
+  console.log('Section:', section);
+  console.log('Subsections:', section.subsections);
+  if (section.subsections) {
+    section.subsections.forEach((sub: any, i: number) => {
+      console.log(`  Subsection ${i}: type='${sub.type}', title='${sub.title}', content items=${sub.content?.length || 0}`);
+    });
+  }
 
   // Extract dialogues from both content and subsections
   const dialogues: DialogueItem[] = [];
@@ -48,6 +57,9 @@ const GettingStarted: React.FC<GettingStartedProps> = ({ section }) => {
 
   const vocabSubsection = section.subsections?.find((sub: any) => sub.type === 'vocabulary');
   const exercisesSubsection = section.subsections?.find((sub: any) => sub.type === 'exercises');
+  
+  console.log('Found vocabSubsection:', vocabSubsection);
+  console.log('Found exercisesSubsection:', exercisesSubsection);
 
   return (
     <Box sx={{ mb: 4 }}>

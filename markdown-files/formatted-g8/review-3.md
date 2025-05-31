@@ -172,10 +172,7 @@ Landslides are the mass movement of rocks or earth down a slope. Landslides occu
 (Làm việc theo cặp. Thay phiên nhau hỏi bạn cùng lớp câu hỏi sau)
 
 **Question:** Do you face any of the following disasters where you live?
-(Bạn đã từng đối mặt với thiên tai nào trong số sau đây ở nơi bạn sống chưa?)
-
-- volcanic eruptions (núi lửa phun trào)
-- earthquakes (động đất)
+- **volcanic eruptions (núi lửa phun trào)** : (Bạn đã từng đối mặt với thiên tai nào trong số sau đây ở nơi bạn sống chưa?) /earthquakes (động đất)/
 - droughts (hạn hán)
 - floods (lũ)
 - storms (bão)

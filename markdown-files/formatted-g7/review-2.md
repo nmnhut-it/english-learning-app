@@ -171,10 +171,7 @@ Bạn thích thể loại nhạc nào? Một số người thích đến các bu
 ### 🗣️ Speaking - Nói
 
 ### ✍️ Bài 2: Work in pairs. Imagine you have just visited a lower secondary school. Ask and answer the questions about your visit, using the following suggestions.
-(Làm việc theo cặp. Hãy tưởng tượng bạn vừa đến thăm một trường trung học cơ sở. Hỏi và trả lời các câu hỏi về chuyến thăm, sử dụng các gợi ý sau.)
-
-- Where the school is. (Trường học ở đâu.)
-- How many teachers and students there are. (Có bao nhiêu giáo viên và học sinh.)
+- **Where the school is. (Trường học ở đâu.)** : (Làm việc theo cặp. Hãy tưởng tượng bạn vừa đến thăm một trường trung học cơ sở. Hỏi và trả lời các câu hỏi về chuyến thăm, sử dụng các gợi ý sau.) /How many teachers and students there are. (Có bao nhiêu giáo viên và học sinh.)/
 - What school facilities are. (Cơ sở vật chất của trường là gì.)
 - What school outdoor activities students do. (Học sinh tham gia hoạt động ngoại khóa nào.)
 

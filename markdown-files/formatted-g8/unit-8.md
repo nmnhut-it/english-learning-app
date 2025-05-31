@@ -625,10 +625,7 @@ Tuy nhiên, mua sắm trực tuyến cũng có nhược điểm. Thứ nhất, s
 ### ✍️ Writing - Viết
 
 **Bài 4**: Work in pairs. Choose a type of shopping from the list. Discuss and take notes of its advantages and disadvantages.
-(Làm việc theo cặp. Chọn một loại hình mua sắm từ danh sách. Thảo luận và ghi chú về ưu điểm và nhược điểm của nó)
-
-- shopping at a supermarket
-- shopping at an open-air market
+- **shopping at a supermarket** : (Làm việc theo cặp. Chọn một loại hình mua sắm từ danh sách. Thảo luận và ghi chú về ưu điểm và nhược điểm của nó) /shopping at an open-air market/
 - shopping online
 
 **Example answer - Online shopping:**

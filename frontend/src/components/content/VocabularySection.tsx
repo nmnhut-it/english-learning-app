@@ -27,7 +27,16 @@ const VocabularySection: React.FC<VocabularySectionProps> = ({ section }) => {
   const [gameOpen, setGameOpen] = useState(false);
   const { speak } = useTextToSpeech();
 
+  console.log('\n=== VocabularySection Debug ===');
+  console.log('Full section object:', JSON.stringify(section, null, 2).substring(0, 500) + '...');
+  
   const vocabItems = section.content.filter((item: any) => item.type === 'vocabulary');
+  
+  console.log('VocabularySection render:');
+  console.log('  section:', section);
+  console.log('  section.content:', section.content);
+  console.log('  vocabItems after filter:', vocabItems);
+  console.log('  vocabItems length:', vocabItems.length);
 
   return (
     <>
@@ -62,9 +71,16 @@ const VocabularySection: React.FC<VocabularySectionProps> = ({ section }) => {
           <Collapse in={expanded}>
             <Grid container spacing={{ xs: 1, sm: 1.5, md: 2 }} sx={{ mt: 1 }}>
               {vocabItems.map((item: VocabularyItem, index: number) => {
+                console.log('Vocabulary item:', item); // Debug log
+                console.log('  item.word:', item.word);
+                console.log('  item.english:', item.english);
+                console.log('  item.meaning:', item.meaning);
+                console.log('  item.vietnamese:', item.vietnamese);
                 // Handle both old and new vocabulary formats
                 const word = item.english || item.word || '';
                 const meaning = item.vietnamese || item.meaning || '';
+                console.log('  Final word:', word);
+                console.log('  Final meaning:', meaning);
                 
                 return (
                   <Grid item xs={12} sm={6} md={4} lg={3} key={index}>

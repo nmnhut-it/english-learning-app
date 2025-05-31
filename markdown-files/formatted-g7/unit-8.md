@@ -556,10 +556,7 @@ I like watching comedy. Because comedies are a perfect source of relaxation and 
 **Answers:** 1-A, 2-C, 3-A, 4-A
 
 **Bài 4:** Make notes about one of your favourite films.
-(Ghi chú về một trong những bộ phim yêu thích của bạn)
-
-- Name of the film:
-- Type of the film:
+- **Name of the film:** : (Ghi chú về một trong những bộ phim yêu thích của bạn) /Type of the film:/
 - Its main actor(s)/actress(es) or director:
 - A short summary of the film:
 - Other features of the film:

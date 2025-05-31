@@ -183,6 +183,9 @@ export class MarkdownService {
       // Parse content into structured format
       const structuredContent = this.parseContent(content);
       
+      console.log('\n=== BEFORE JSON.stringify ===');
+      console.log('Sample vocabulary item:', JSON.stringify(structuredContent[0]?.sections?.[0]?.subsections?.[0]?.content?.[0], null, 2));
+      
       return {
         content: JSON.stringify(structuredContent),
         data,
@@ -441,7 +444,13 @@ else if (line.match(/^(\d+\.|-)\s*\*\*[^*]+\*\*\s*:/) || line.match(/^\([^)]+\)\
           if (target) {
             if (!target.content) target.content = [];
             target.content.push(vocab);
+            console.log(`Added vocabulary to ${target.title}:`, vocab);
+            console.log('Target content now has:', target.content.length, 'items');
+          } else {
+            console.log('WARNING: No target section for vocabulary!');
           }
+        } else {
+          console.log('WARNING: Failed to parse vocabulary line!');
         }
       }
       // Dialogue
@@ -476,6 +485,12 @@ else if (line.match(/^(\d+\.|-)\s*\*\*[^*]+\*\*\s*:/) || line.match(/^\([^)]+\)\
       else {
         // Skip empty lines that were cleared (translations)
         if (line !== '') {
+          // Log potential vocabulary lines that weren't caught
+          if (line.match(/^\([^)]+\)\s*-/) || line.includes(' - ') && line.includes('(')) {
+            console.log(`WARNING: Potential vocabulary line added as text content: "${line}"`);
+            console.log(`  Current section: ${currentSection?.title}`);
+            console.log(`  Current subsection: ${currentSubsection?.title}`);
+          }
           currentContent.push(line);
         }
       }
@@ -489,6 +504,24 @@ else if (line.match(/^(\d+\.|-)\s*\*\*[^*]+\*\*\s*:/) || line.match(/^\([^)]+\)\
       if (unit.sections && unit.sections.length > 0) {
         unit.sections = this.sortSections(unit.sections);
       }
+    });
+    
+    console.log('\n=== PARSE CONTENT COMPLETE ===');
+    console.log('Total units:', sections.length);
+    sections.forEach(unit => {
+      console.log(`\nUnit: ${unit.title}`);
+      unit.sections.forEach(section => {
+        console.log(`  Section: ${section.title}`);
+        if (section.subsections) {
+          section.subsections.forEach(sub => {
+            console.log(`    Subsection: ${sub.title} (${sub.content.length} items)`);
+            const vocabCount = sub.content.filter((item: any) => item.type === 'vocabulary').length;
+            if (vocabCount > 0) {
+              console.log(`      - Contains ${vocabCount} vocabulary items`);
+            }
+          });
+        }
+      });
     });
     
     return sections;

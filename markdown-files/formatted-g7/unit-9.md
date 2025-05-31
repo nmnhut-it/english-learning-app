@@ -599,10 +599,7 @@ Tôi muốn kể cho bạn nghe về Tết Nguyên đán, lễ hội quan trọn
 
 ## PROJECT - DỰ ÁN
 ### ✍️ Bài 1: Think of a new festival that you would like to celebrate. Discuss the following points:
-(Nghĩ về một lễ hội mới mà bạn muốn tổ chức. Thảo luận các điểm sau:)
-
-- What is it? (Đó là gì?)
-- When is it? (Khi nào?)
+- **What is it? (Đó là gì?)** : (Nghĩ về một lễ hội mới mà bạn muốn tổ chức. Thảo luận các điểm sau:) /When is it? (Khi nào?)/
 - Who can join? (Ai có thể tham gia?)
 - What can people do? (Mọi người có thể làm gì?)
 - Why do you want to have this festival? (Tại sao bạn muốn có lễ hội này?)

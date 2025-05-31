@@ -327,10 +327,7 @@ Và bạn thích cái nào hơn, nghệ thuật hiện đại hay nghệ thuật
 Tôi thích nghệ thuật hiện đại hơn.
 
 **Bài 2:** Work in pairs. Ask and answer questions about your preferences for:
-(Làm việc theo cặp. Hỏi và trả lời về sở thích của bạn)
-
-- painting and taking photos
-- singing and dancing
+- **painting and taking photos** : (Làm việc theo cặp. Hỏi và trả lời về sở thích của bạn) /singing and dancing/
 - films and music
 
 Example:
