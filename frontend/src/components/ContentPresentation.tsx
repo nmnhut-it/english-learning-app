@@ -23,192 +23,203 @@ const ContentPresentation: React.FC<ContentPresentationProps> = ({ content, curr
     
     if (!isCurrentSection) return null;
 
-    switch (section.type) {
-      case 'getting-started':
+    // Always show section title and render all its content
+    return (
+      <Box key={section.title} id={sectionId}>
+        <Typography variant="h2" sx={{ mb: 4, fontWeight: 600 }}>
+          {section.title}
+        </Typography>
+        
+        {/* Add section-specific labels */}
+        {section.type === 'skills-1' && (
+          <Typography variant="h4" sx={{ mb: 3, color: 'primary.main' }}>
+            📖 Reading & Speaking
+          </Typography>
+        )}
+        {section.type === 'skills-2' && (
+          <Typography variant="h4" sx={{ mb: 3, color: 'primary.main' }}>
+            👂 Listening & Writing
+          </Typography>
+        )}
+        
+        {/* Render all content in order */}
+        {renderSectionContent(section)}
+      </Box>
+    );
+  };
+
+  const renderSectionContent = (section: any) => {
+    const allContent: any[] = [];
+    
+    // First, add any direct content from the section
+    if (section.content && section.content.length > 0) {
+      section.content.forEach((item: any, index: number) => {
+        allContent.push({ ...item, source: 'direct', index });
+      });
+    }
+    
+    // Then, add content from subsections in order
+    if (section.subsections && section.subsections.length > 0) {
+      section.subsections.forEach((subsection: any) => {
+        // Add subsection as a content item
+        allContent.push({ 
+          type: 'subsection', 
+          subsectionType: subsection.type,
+          title: subsection.title,
+          content: subsection.content || [],
+          source: 'subsection'
+        });
+      });
+    }
+    
+    // Now render all content in order
+    return (
+      <Box>
+        {allContent.map((item, index) => {
+          if (item.type === 'subsection') {
+            return renderSubsectionContent(item, index);
+          } else {
+            return renderContentItem(item, index);
+          }
+        })}
+      </Box>
+    );
+  };
+
+  const renderSubsectionContent = (subsection: any, key: number) => {
+    // Special handling for specific subsection types
+    switch (subsection.subsectionType) {
+      case 'vocabulary':
         return (
-          <Box key={section.title} id={sectionId}>
-            <Typography variant="h2" sx={{ mb: 4, fontWeight: 600 }}>
-              {section.title}
-            </Typography>
-            {renderSubsections(section)}
+          <Box key={key} sx={{ mb: 4 }}>
+            <VocabularyPresentation section={{
+              title: subsection.title,
+              content: subsection.content
+            }} />
           </Box>
         );
-
-      case 'closer-look-1':
-      case 'closer-look-2':
+        
+      case 'exercises':
         return (
-          <Box key={section.title} id={sectionId}>
-            <Typography variant="h2" sx={{ mb: 4, fontWeight: 600 }}>
-              {section.title}
-            </Typography>
-            {renderSubsections(section)}
+          <Box key={key} sx={{ mb: 4 }}>
+            <ExercisePresentation section={{
+              title: subsection.title,
+              content: subsection.content
+            }} />
           </Box>
         );
-
-      case 'communication':
+        
+      case 'pronunciation':
+      case 'grammar':
+      case 'content':
+      case 'activities':
+      case 'listening':
+      case 'reading':
+      case 'speaking':
+      case 'writing':
         return (
-          <Box key={section.title} id={sectionId}>
-            <CommunicationSection section={section} />
+          <Box key={key} sx={{ mb: 4 }}>
+            <Typography variant="h3" sx={{ mb: 3, fontWeight: 600 }}>
+              {subsection.title}
+            </Typography>
+            <Box>
+              {subsection.content.map((item: any, idx: number) => 
+                renderContentItem(item, `${key}-${idx}`)
+              )}
+            </Box>
           </Box>
         );
-
-      case 'skills-1':
-        return (
-          <Box key={section.title} id={sectionId}>
-            <Typography variant="h2" sx={{ mb: 4, fontWeight: 600 }}>
-              {section.title}
-            </Typography>
-            <Typography variant="h4" sx={{ mb: 3, color: 'primary.main' }}>
-              📖 Reading & Speaking
-            </Typography>
-            {renderSubsections(section)}
-          </Box>
-        );
-
-      case 'skills-2':
-        return (
-          <Box key={section.title} id={sectionId}>
-            <Typography variant="h2" sx={{ mb: 4, fontWeight: 600 }}>
-              {section.title}
-            </Typography>
-            <Typography variant="h4" sx={{ mb: 3, color: 'primary.main' }}>
-              👂 Listening & Writing
-            </Typography>
-            {renderSubsections(section)}
-          </Box>
-        );
-
-      case 'looking-back':
-        return (
-          <Box key={section.title} id={sectionId}>
-            <Typography variant="h2" sx={{ mb: 4, fontWeight: 600 }}>
-              {section.title}
-            </Typography>
-            {/* Check if it has exercises subsection or render as markdown */}
-            {section.subsections?.some((sub: any) => sub.type === 'exercises') ? (
-              renderSubsections(section)
-            ) : (
-              <Box sx={{ 
-                fontSize: { xs: '1.25rem', sm: '1.5rem', md: '1.75rem' },
-                '& p': { mb: 2 },
-                '& ol, & ul': { mb: 2, pl: 4 },
-                '& li': { mb: 1.5, fontSize: 'inherit' },
-                '& table': { 
-                  width: '100%',
-                  borderCollapse: 'collapse',
-                  mb: 3,
-                },
-                '& th, & td': {
-                  border: '1px solid',
-                  borderColor: 'divider',
-                  p: 2,
-                  textAlign: 'left',
-                },
-                '& th': {
-                  backgroundColor: 'grey.100',
-                  fontWeight: 600,
-                },
-                '& strong': {
-                  color: 'primary.main',
-                },
-                '& h3': {
-                  fontSize: { xs: '1.75rem', sm: '2rem', md: '2.25rem' },
-                  fontWeight: 600,
-                  mt: 4,
-                  mb: 2,
-                },
-                '& pre': {
-                  backgroundColor: 'grey.100',
-                  p: 2,
-                  borderRadius: 1,
-                  overflow: 'auto',
-                  fontSize: '1.1rem',
-                },
-              }}>
-                <ReactMarkdown remarkPlugins={[remarkGfm]}>
-                  {section.content?.map((item: any) => 
-                    item.type === 'text' ? item.value : ''
-                  ).join('\n\n')}
-                </ReactMarkdown>
-              </Box>
-            )}
-          </Box>
-        );
-
+        
       default:
+        // Generic subsection rendering
         return (
-          <Box key={section.title} id={sectionId}>
-            <Typography variant="h2" sx={{ mb: 4, fontWeight: 600 }}>
-              {section.title}
-            </Typography>
-            {renderGenericContent(section)}
+          <Box key={key} sx={{ mb: 4 }}>
+            {subsection.title && (
+              <Typography variant="h3" sx={{ mb: 3, fontWeight: 600 }}>
+                {subsection.title}
+              </Typography>
+            )}
+            <Box>
+              {subsection.content.map((item: any, idx: number) => 
+                renderContentItem(item, `${key}-${idx}`)
+              )}
+            </Box>
           </Box>
         );
     }
   };
 
-  const renderSubsections = (section: any) => {
-    // First check if there are any subsections
-    const hasSubsections = section.subsections && section.subsections.length > 0;
-    const hasContent = section.content && section.content.length > 0;
-    
-    // If no subsections but has content, render it
-    if (!hasSubsections && hasContent) {
-      return renderGenericContent(section);
+  const renderContentItem = (item: any, key: any) => {
+    if (item.type === 'text') {
+      return (
+        <Box key={key} sx={{ 
+          fontSize: { xs: '1.25rem', sm: '1.5rem', md: '1.75rem' },
+          '& p': { mb: 2 },
+          '& ol, & ul': { mb: 2, pl: 4 },
+          '& li': { mb: 1.5, fontSize: 'inherit' },
+          '& table': { 
+            width: '100%',
+            borderCollapse: 'collapse',
+            mb: 3,
+          },
+          '& th, & td': {
+            border: '1px solid',
+            borderColor: 'divider',
+            p: 2,
+            textAlign: 'left',
+            fontSize: 'inherit',
+          },
+          '& th': {
+            backgroundColor: 'grey.100',
+            fontWeight: 600,
+          },
+          '& strong': {
+            color: 'primary.main',
+          },
+          '& em': {
+            color: 'text.secondary',
+            fontSize: '0.9em',
+          },
+          '& h1, & h2, & h3, & h4, & h5, & h6': {
+            mt: 3,
+            mb: 2,
+          },
+        }}>
+          <ReactMarkdown remarkPlugins={[remarkGfm]}>
+            {item.value}
+          </ReactMarkdown>
+        </Box>
+      );
+    } else if (item.type === 'dialogue') {
+      return (
+        <Box key={key} sx={{ mb: 3, pl: 2, borderLeft: '3px solid', borderColor: 'primary.light' }}>
+          <Typography variant="body1" sx={{ fontWeight: 600, fontSize: 'inherit', mb: 0.5 }}>
+            {item.speaker}:
+          </Typography>
+          <Typography variant="body1" sx={{ fontSize: 'inherit', mb: 1 }}>
+            {item.text}
+          </Typography>
+          {item.translation && (
+            <Typography variant="body1" sx={{ fontStyle: 'italic', color: 'text.secondary', fontSize: '0.9em' }}>
+              {item.translation}
+            </Typography>
+          )}
+        </Box>
+      );
+    } else if (item.type === 'vocabulary') {
+      // Inline vocabulary display
+      return (
+        <Box key={key} sx={{ mb: 2 }}>
+          <Typography variant="body1" sx={{ fontSize: { xs: '1.5rem', sm: '1.75rem', md: '2rem' } }}>
+            {item.number && `${item.number}. `}
+            <strong>{item.english}</strong>
+            {item.partOfSpeech && ` (${item.partOfSpeech})`} - {item.vietnamese} - 
+            <em> {item.pronunciation}</em>
+          </Typography>
+        </Box>
+      );
     }
-    
-    // First render any direct content
-    if (hasContent) {
-      const hasNonTextContent = section.content.some((item: any) => item.type !== 'text');
-      
-      if (hasNonTextContent) {
-        // Has vocabulary or dialogue items
-        if (section.content.some((item: any) => item.type === 'vocabulary')) {
-          return <VocabularyPresentation section={section} />;
-        }
-        // Render mixed content
-        return renderGenericContent(section);
-      }
-    }
-
-    // Then render subsections
-    return (
-      <>
-        {section.subsections?.map((subsection: any) => {
-          switch (subsection.type) {
-            case 'vocabulary':
-              return <VocabularyPresentation key={subsection.title} section={subsection} />;
-            
-            case 'exercises':
-              return <ExercisePresentation key={subsection.title} section={subsection} />;
-            
-            case 'pronunciation':
-            case 'grammar':
-            case 'content':
-            case 'activities':
-            case 'listening':
-            case 'reading':
-            case 'speaking':
-            case 'writing':
-              return (
-                <Box key={subsection.title} sx={{ mb: 4 }}>
-                  <Typography variant="h3" sx={{ mb: 3, fontWeight: 600 }}>
-                    {subsection.title}
-                  </Typography>
-                  {renderGenericContent(subsection)}
-                </Box>
-              );
-            
-            default:
-              return (
-                <Box key={subsection.title} sx={{ mb: 4 }}>
-                  {renderGenericContent(subsection)}
-                </Box>
-              );
-          }
-        })}
-      </>
-    );
+    return null;
   };
 
   const renderGenericContent = (section: any) => {
