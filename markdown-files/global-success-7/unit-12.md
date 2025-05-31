@@ -101,8 +101,8 @@ C. The tour to Phillip Island
 **Answers:**
 1. landscape
 2. penguin watching
-3. island
-4. sunset
+3. Island
+4. Sunset
 5. Australians
 
 **Bài 5:** Work in groups. Match the countries with their capitals. The first group to find all the correct answers wins. (Làm việc nhóm. Ghép các quốc gia với thủ đô của họ.)
@@ -132,6 +132,8 @@ C. The tour to Phillip Island
 14. **boat ride** : (n) chuyến đi thuyền /bəʊt raɪd/
 15. **tower** : (n) tháp, tòa tháp /ˈtaʊə/
 16. **historic** : (adj) có tính lịch sử /hɪˈstɒrɪk/
+17. **local** : (adj) địa phương /ˈləʊkl/
+18. **amazing** : (adj) tuyệt vời /əˈmeɪzɪŋ/
 
 ### 🗣️ Pronunciation - Phát âm
 
@@ -236,6 +238,11 @@ C. The tour to Phillip Island
   - Single islands: Tasmania
   - Languages: English, French
 
+**Lưu ý từ ground truth:**
+- The + tên công trình kiến trúc nổi tiếng: The White House, The Great Wall
+- The + tên dãy núi/dòng sông/nhóm hồ/đồng bằng/đại dương/sa mạc/quần đảo
+- Không dùng the với: tên núi lẻ/vũng vịnh/đầm phá/biển/đảo lẻ
+
 ### ✍️ Exercises - Bài tập
 
 **Bài 1:** Complete the sentences with a/an or the. (Hoàn thành các câu với a/an hoặc the)
@@ -319,7 +326,7 @@ C. The tour to Phillip Island
 **Bài 1:** Listen and read the conversations, paying attention to the highlighted parts. (Nghe và đọc các đoạn hội thoại, chú ý đến những phần được làm nổi bật.)
 
 **Mark:** Scottish men wear kilts, short skirts at their traditional festivals.
-Đàn ông Scotland mặc váy kilt tại các lễ hội truyền thống của họ.
+Đàn ông Scotland mặc váy kilt, váy ngắn tại các lễ hội truyền thống của họ.
 
 **Lan:** Wow...I didn't know that!
 Wow ... Tôi không biết điều đó!
@@ -350,7 +357,7 @@ B: Wow! Amazing!
 
 1. This country is famous for its kangaroos. → **Australia**
 2. This country has a large population, only smaller than China and India. → **The USA**
-3. This country is the world's largest producer of maple syrup. → **Canada**
+3. This country lies close to the North Pole and is very cold in winter. → **Canada**
 4. This country is famous for its royal family. → **The UK**
 5. This is a small island country in the Pacific Ocean. → **New Zealand**
 
@@ -386,7 +393,7 @@ B: This is new to me. Amazing!
 2. **beautiful nature** : (n) thiên nhiên tươi đẹp /ˈbjuːtɪfl ˈneɪtʃə/
 3. **modern cities** : (n) thành phố hiện đại /ˈmɒdən ˈsɪtiz/
 4. **natural landscapes** : (n) phong cảnh thiên nhiên /ˈnætʃrəl ˈlændskeɪps/
-5. **shining beaches** : (n) bãi biển soi bóng /ˈʃaɪnɪŋ biːtʃɪz/
+5. **shining beaches** : (n) bãi biển lấp lánh /ˈʃaɪnɪŋ biːtʃɪz/
 6. **high waterfalls** : (n) thác nước cao /haɪ ˈwɔːtəfɔːlz/
 7. **ancient forests** : (n) rừng cổ thụ /ˈeɪnʃənt ˈfɒrɪsts/
 8. **outdoor activities** : (n) hoạt động ngoài trời /ˈaʊtdɔː ækˈtɪvɪtiz/
@@ -404,7 +411,7 @@ New Zealand is an island country in the Pacific Ocean. It is one of the most int
 New Zealand is rich in culture. Most visitors to New Zealand love its unique Maori culture. The Maori are the native people of this country. They are famous for their unique tattoos and haka dance. A visit to this beautiful country will be an experience you will never forget.
 
 **Vietnamese translation:**
-New Zealand là một quốc đảo ở Thái Bình Dương. Nó là một trong những quốc gia thú vị nhất trên thế giới. Đi đến đâu bạn cũng có thể bắt gặp những cảnh quan thiên nhiên kỳ thú: núi xanh, bãi biển soi bóng, thác nước cao, rừng cổ thụ. Bạn có thể ghé thăm địa điểm tuyệt đẹp nơi họ quay phim Chúa tể của những chiếc nhẫn, hoặc Queenstown lịch sử. Đây cũng là một đất nước tuyệt vời cho những người yêu thích các hoạt động ngoài trời. Bạn luôn có thể tìm thấy điều gì đó để làm ở đây: trượt tuyết, chèo thuyền, đi bộ đường mòn.
+New Zealand là một quốc đảo ở Thái Bình Dương. Nó là một trong những quốc gia thú vị nhất trên thế giới. Đi đến đâu bạn cũng có thể bắt gặp những cảnh quan thiên nhiên kỳ thú: núi xanh, bãi biển lấp lánh, thác nước cao, rừng cổ thụ. Bạn có thể ghé thăm địa điểm tuyệt đẹp nơi họ quay phim Chúa tể của những chiếc nhẫn, hoặc Queenstown lịch sử. Đây cũng là một đất nước tuyệt vời cho những người yêu thích các hoạt động ngoài trời. Bạn luôn có thể tìm thấy điều gì đó để làm ở đây: trượt tuyết, chèo thuyền, đi bộ đường mòn.
 
 New Zealand rất giàu văn hóa. Hầu hết du khách đến New Zealand đều yêu thích nền văn hóa Maori độc đáo của nó. Người Maori là dân bản địa của đất nước này. Họ nổi tiếng với những hình xăm độc đáo và điệu nhảy haka. Một chuyến thăm đến đất nước xinh đẹp này sẽ là một trải nghiệm bạn không bao giờ quên.
 
@@ -416,12 +423,13 @@ New Zealand rất giàu văn hóa. Hầu hết du khách đến New Zealand đ�
 
 **Bài 1:** Work in pairs. Discuss and choose the correct answer A, B, or C. (Làm việc theo cặp. Thảo luận và chọn câu trả lời đúng A, B hoặc C.)
 
-New Zealand is famous for its _______.
-A. film industry
-B. beautiful nature
-C. modern cities
+1. New Zealand is near _____
+   A. Australia  B. the USA  C. the UK
 
-**Answer:** B. beautiful nature
+2. New Zealand is famous for its _______.
+   A. film industry  B. beautiful nature  C. modern cities
+
+**Answers:** 1. A - Australia; 2. B - beautiful nature
 
 **Bài 2:** Read the passage and match the words in bold from the passage (1-4) with their meanings (a-d). (Đọc đoạn văn và nối các từ in đậm trong đoạn văn với nghĩa của chúng)
 
@@ -438,26 +446,26 @@ C. modern cities
 
 **Bài 3:** Read the passage again and choose the correct answer A, B, or C. (Đọc lại đoạn văn và chọn câu trả lời đúng A, B hoặc C.)
 
-1. New Zealand is in the _______ Ocean.
-   A. Atlantic  B. Indian  C. Pacific
+1. New Zealand is a _______ country.
+   A. strange  B. rich  C. beautiful
 
 2. A natural attraction of New Zealand is its _______.
    A. Maori culture  B. shining beaches  C. outdoor activities
 
-3. New Zealand is a great place for those who love _______.
+3. New Zealanders love _______.
    A. haka dancing  B. sports and games  C. indoor activities
 
-4. The Maori's tattoos are _______.
-   A. special  B. normal  C. beautiful
+4. The haka dance is an example of _______.
+   A. the Maori culture  B. New Zealand's history  C. outdoor activities
 
 5. The writer mentioned _______ as one of New Zealand's attractions.
    A. traditional food  B. hard-working people  C. rich culture
 
 **Answers:**
-1. C - Pacific
+1. C - beautiful
 2. B - shining beaches
 3. B - sports and games
-4. A - special
+4. A - the Maori culture
 5. C - rich culture
 
 **Bài 4:** Work in pairs. Note two things you like about New Zealand. Share it with your partner. (Làm việc theo cặp. Viết ra hai điều bạn thích về New Zealand. Chia sẻ với bạn của bạn.)
@@ -517,18 +525,17 @@ E. Thames boat ride
 
 | Time | Activity |
 |------|----------|
-| (1) _____ | Buckingham Palace |
-| (2) _____ | Changing of the Guard |
-| (3) _____ | Lunch |
-| (4) _____ | Boat ride |
-| (5) _____ | Return to hotel |
+| 9:30 a.m. | Buckingham Palace |
+| (1) _____ | Changing of the Guard |
+| (2) _____ | Lunch |
+| (3) _____ | Boat ride |
+| (4) _____ | Return to hotel |
 
 **Answers:**
-1. 9:30 a.m.
-2. 11:30 a.m.
-3. 1 p.m.
-4. 3:15 p.m.
-5. 5 p.m.
+1. 11:30 a.m.
+2. 1 p.m.
+3. 3:15 p.m.
+4. 5 p.m.
 
 **Bài 3:** Listen again and complete each sentence with ONE word. (Nghe lại và hoàn thành mỗi câu với MỘT từ.)
 
@@ -540,7 +547,7 @@ E. Thames boat ride
 
 **Answers:**
 1. family
-2. collection
+2. collection (hoặc garden)
 3. tower
 4. photos
 5. attractions
@@ -581,64 +588,64 @@ Hôm nay tôi đã có một chuyến tham quan London tuyệt vời! Chúng tô
 **Bài 1:** Look at the pictures and write the correct words or phrases to complete the sentences. (Nhìn vào các bức tranh và viết các từ hoặc cụm từ chính xác để hoàn thành câu.)
 
 1. Both England and New Zealand are _______ countries.
-2. _______ is the biggest city in Scotland.
-3. A red telephone box is the _______ of Britain.
-4. A _______ ride on the Thames is a great way to see London.
-5. _______ is the art of decorating the body with patterns using ink.
+2. A great attraction of Scotland is the ancient _______.
+3. People can go sightseeing by taking a _______.
+4. Most Maori men have _______ on their arms.
+5. California is famous for its long sunny _______.
 
 **Answers:**
 1. island
-2. Edinburgh
-3. symbol
-4. boat
-5. Tattoo
+2. castles
+3. boat ride
+4. tattoos
+5. coastline
 
 **Bài 2:** Choose the best answer A, B, or C to complete each sentence. (Chọn câu trả lời đúng nhất A, B hoặc C để hoàn thành mỗi câu.)
 
-1. _______ are the native people of Canada.
+1. What do you call the people from Canada? - _______.
    A. Canadians  B. Canadian  C. Canada people
 
 2. Scotland, with its _______ landscapes, attracts millions of visitors every year.
-   A. warm  B. amazing  C. landscape
+   A. warm  B. amazing  C. local
 
-3. Niagara Falls is a great _______ on the border of the USA and Canada.
+3. - What is a _______ of London? - The red telephone box.
+   A. capital  B. symbol  C. landscape
+
+4. Niagara Falls is a great _______ on the border of the USA and Canada.
    A. forest  B. river  C. attraction
 
-4. Aborigines are the _______ people of Australia.
-   A. local  B. historical  C. native
-
-5. Canadians love _______, a winter sport.
-   A. ice hockey  B. football  C. basketball
+5. Aborigines are the _______ people of Australia.
+   A. native  B. historical  C. foreign
 
 **Answers:**
 1. A - Canadians
 2. B - amazing
-3. C - attraction
-4. C - native
-5. A - ice hockey
+3. B - symbol
+4. C - attraction
+5. A - native
 
 **Bài 3:** Complete the sentences with a/an or the. (Hoàn thành các câu với a/an hoặc the)
 
 1. Auckland is _______ biggest city on _______ North Island of New Zealand.
 2. _______ castle is _______ strong building with thick and high walls.
 3. Surrounding _______ UK is _______ Atlantic Ocean.
-4. _______ USA is _______ large country in North America.
-5. London has _______ population of about nine million.
+4. Hawaii is _______ state of _______ USA.
+5. _______ attraction is _______ interesting place for visitors.
 
 **Answers:**
 1. the, the
 2. A, a
 3. the, the
-4. The, a
-5. a
+4. a, the
+5. An, an
 
 **Bài 4:** Underline and correct the article mistakes in the sentences below. (Gạch chân và sửa lỗi mạo từ trong các câu dưới đây.)
 
-1. Ottawa is a capital of Canada. → **the**
-2. The Britain is an island country. → **Ø (no article)**
-3. The New Zealand is in the Pacific Ocean. → **Ø (no article)**
-4. My family took tour to Sydney Opera House. → **a**
-5. Canadians love the ice hockey. → **Ø (no article)**
+1. Ottawa is **a** capital of Canada. → **the**
+2. He's **the** Englishman. He lives in Oxford. → **an**
+3. When people travel, they use **an** map to find their way round. → **a**
+4. Can you see **a** Big Ben from where you are standing? → **the**
+5. Canadians love ice hockey, **the** winter sport. → **a**
 
 ## PROJECT - DỰ ÁN
 
@@ -690,4 +697,4 @@ Hôm nay tôi đã có một chuyến tham quan London tuyệt vời! Chúng tô
 4. Presenting information about places
 
 ---
-**Remember:** Practice makes perfect! Review these materials regularly and try to use the new vocabulary and grammar in your daily conversations.
+**Remember:** Practice makes perfect! Review these materials regularly and try to use the new vocabulary and grammar in your daily conversations
