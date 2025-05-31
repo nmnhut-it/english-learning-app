@@ -28,6 +28,8 @@ interface PresentationLayoutProps {
   sections?: string[];
   onSectionChange?: (direction: 'prev' | 'next') => void;
   onSectionSelect?: (section: string) => void;
+  showSectionControls?: boolean;
+  extraControls?: React.ReactNode;
 }
 
 const PresentationLayout: React.FC<PresentationLayoutProps> = ({
@@ -39,6 +41,8 @@ const PresentationLayout: React.FC<PresentationLayoutProps> = ({
   sections = [],
   onSectionChange,
   onSectionSelect,
+  showSectionControls = true,
+  extraControls,
 }) => {
   const theme = useTheme();
   const [anchorEl, setAnchorEl] = useState<null | HTMLElement>(null);
@@ -195,26 +199,31 @@ const PresentationLayout: React.FC<PresentationLayoutProps> = ({
             )}
           </Breadcrumbs>
 
+          {/* Extra Controls (View Mode Toggle) */}
+          {extraControls}
+
           {/* Section Navigation */}
-          <Box sx={{ display: 'flex', alignItems: 'center', gap: 1, ml: 2 }}>
-            <IconButton
-              size="small"
-              onClick={() => onSectionChange?.('prev')}
-              disabled={!canGoPrev}
-            >
-              <NavigateBeforeIcon />
-            </IconButton>
-            <Typography variant="body2" sx={{ minWidth: 60, textAlign: 'center' }}>
-              {getCurrentSectionIndex() + 1} / {sections.length}
-            </Typography>
-            <IconButton
-              size="small"
-              onClick={() => onSectionChange?.('next')}
-              disabled={!canGoNext}
-            >
-              <NavigateNextIcon />
-            </IconButton>
-          </Box>
+          {showSectionControls && (
+            <Box sx={{ display: 'flex', alignItems: 'center', gap: 1, ml: 2 }}>
+              <IconButton
+                size="small"
+                onClick={() => onSectionChange?.('prev')}
+                disabled={!canGoPrev}
+              >
+                <NavigateBeforeIcon />
+              </IconButton>
+              <Typography variant="body2" sx={{ minWidth: 60, textAlign: 'center' }}>
+                {getCurrentSectionIndex() + 1} / {sections.length}
+              </Typography>
+              <IconButton
+                size="small"
+                onClick={() => onSectionChange?.('next')}
+                disabled={!canGoNext}
+              >
+                <NavigateNextIcon />
+              </IconButton>
+            </Box>
+          )}
         </Toolbar>
       </AppBar>
 
@@ -315,28 +324,30 @@ const PresentationLayout: React.FC<PresentationLayoutProps> = ({
           alignItems: 'center',
         }}>
           {/* Quick Navigation */}
-          <Box sx={{ display: 'flex', gap: 1 }}>
-            {sections.slice(0, 7).map((section, index) => (
-              <Button
-                key={section}
-                size="small"
-                variant={currentSection === section ? 'contained' : 'text'}
-                onClick={() => {
-                  if (onSectionSelect) {
-                    onSectionSelect(section);
-                  }
-                }}
-                sx={{ 
-                  minWidth: 'auto',
-                  px: 1,
-                  py: 0.5,
-                  fontSize: '0.75rem',
-                }}
-              >
-                {index + 1}
-              </Button>
-            ))}
-          </Box>
+          {showSectionControls && (
+            <Box sx={{ display: 'flex', gap: 1 }}>
+              {sections.slice(0, 7).map((section, index) => (
+                <Button
+                  key={section}
+                  size="small"
+                  variant={currentSection === section ? 'contained' : 'text'}
+                  onClick={() => {
+                    if (onSectionSelect) {
+                      onSectionSelect(section);
+                    }
+                  }}
+                  sx={{ 
+                    minWidth: 'auto',
+                    px: 1,
+                    py: 0.5,
+                    fontSize: '0.75rem',
+                  }}
+                >
+                  {index + 1}
+                </Button>
+              ))}
+            </Box>
+          )}
 
           {/* Status */}
           <Typography variant="caption" color="text.secondary">
