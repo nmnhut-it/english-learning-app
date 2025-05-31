@@ -14,6 +14,7 @@
 - **try** : (v) thử /traɪ/
 - **tulip floats** : (n) xe hoa tulip diễu hành /ˈtjuːlɪp fləʊts/
 - **parade** : (n) cuộc diễu hành /pəˈreɪd/
+- **go** - went - gone : (v) đi /ɡəʊ - went - ɡɒn/
 
 ### 💬 Content - Nội dung
 **Mark and Trang:** Good afternoon, Ms Hoa.  
@@ -61,32 +62,38 @@
 (Viết một từ hoặc cụm từ trong ô dưới mỗi bức tranh.)
 
 **Answer:** 
-1. parade (diễu hành)
-2. costumes (trang phục)
-3. feast (tiệc)
-4. float (xe diễu hành)
-5. fireworks display (màn trình diễn pháo hoa)
-6. folk dance (múa dân gian)
+1. parade
+2. costumes
+3. feast
+4. float
+5. fireworks display
+6. folk dance
 
 ### ✍️ Bài 4: Fill in each blank with a word or phrase from 3. You may have to change the form of the word or phrase.
 (Điền vào mỗi chỗ trống một từ hoặc cụm từ trong bài tập 3. Bạn có thể phải thay đổi dạng của từ hoặc cụm từ.)
 
-1. The dancers performed **folk dances** at the Tulip Festival.
-2. On New Year's Eve, we went to Hoan Kiem Lake to watch the **fireworks display**.
-3. For Tet, we usually prepare a **feast** with special food.
-4. People hold flower **parades** in several countries to welcome the new season.
-5. The **float** carried the dancers in special **costumes**.
+1. The dancers performed _______ at the Tulip Festival.
+2. On New Year's Eve, we went to Hoan Kiem Lake to watch the _______.
+3. For Tet, we usually prepare a _______ with special food.
+4. People hold flower _______ in several countries to welcome the new season.
+5. The _______ carried the dancers in special _______.
 
-**Answers:** 1. folk dances, 2. fireworks display, 3. feast, 4. parades, 5. float, costumes
+**Answers:** 1. folk dances, 2. fireworks display, 3. feast, 4. parades, 5. float - costumes
 
 ### ✍️ Bài 5: QUIZ What festival is it? Match each description with a festival.
 (ĐỐ. Đó là lễ hội gì? Ghép mỗi mô tả với một lễ hội.)
 
-1. At this festival, people eat moon cakes. → **e. Mid-Autumn Festival**
-2. At this festival, people throw tomatoes. → **a. La Tomatina**
-3. People eat banh chung at this festival. → **d. Tet**
-4. People decorate pine trees and give each other gifts. → **c. Christmas**
-5. People chase after a wheel of cheese. → **b. Cheese rolling**
+1. At this festival, people eat moon cakes.
+2. At this festival, people throw tomatoes.
+3. People eat banh chung at this festival.
+4. People decorate pine trees and give each other gifts.
+5. People chase after a wheel of cheese.
+
+a. La Tomatina
+b. Cheese rolling
+c. Christmas
+d. Tet
+e. Mid-Autumn Festival
 
 **Answers:** 1-e, 2-a, 3-d, 4-c, 5-b
 
@@ -107,6 +114,9 @@
 - **candy apples** : (n) táo tẩm đường /ˈkændi ˈæplz/
 - **performing a lion dance** : (v) múa lân /pəˈfɔːmɪŋ ə ˈlaɪən dɑːns/
 - **activity** : (n) hoạt động /ækˈtɪvəti/
+- **firework display** : (n) màn trình diễn pháo hoa /ˈfaɪəwɜːk dɪˈspleɪ/
+- **feast** : (n) bữa tiệc, yến tiệc; (v) ăn uống thỏa thích /fiːst/
+- **float** : (n) xe hoa, xe diễu hành trang trí; (v) trôi nổi, lơ lững /fləʊt/
 
 ### ✍️ Bài 1: Write under each picture a festival name from the box.
 (Viết dưới mỗi bức tranh tên một lễ hội từ hộp.)
@@ -122,6 +132,8 @@
 ### ✍️ Bài 2: Complete the table below with the phrases from the box.
 (Hoàn thành bảng dưới đây với các cụm từ từ hộp.)
 
+**Box:** carving pumpkins, candy apples, chocolate eggs, painting eggs, turkey, performing a lion dance, moon cakes, have a feast
+
 | Festival | Activities |
 |----------|------------|
 | Halloween | carving pumpkins, candy apples |
@@ -133,30 +145,38 @@
 ### ✍️ Bài 3: Fill in each blank with a word or phrase from the box.
 (Điền vào mỗi chỗ trống một từ hoặc cụm từ từ hộp.)
 
-1. At Christmas, people give gifts to each other.
-2. My children love **painting eggs** at Easter.
-3. How many **candy apples** do you need for the Halloween party?
-4. At the Cannes Film Festival, there are many interesting films.
-5. **Performing lion dances** is one of the activities at the Mid-Autumn Festival.
-6. Bill's mum is cooking a **turkey** for Thanksgiving.
+**Box:** gifts, painting eggs, candy apples, films, Performing lion dances, turkey
+
+1. At Christmas, people give _______ to each other.
+2. My children love _______ at Easter.
+3. How many _______ do you need for the Halloween party?
+4. At the Cannes Film Festival, there are many interesting _______.
+5. _______ is one of the activities at the Mid-Autumn Festival.
+6. Bill's mum is cooking a _______ for Thanksgiving.
 
 **Answers:** 1. gifts, 2. painting eggs, 3. candy apples, 4. films, 5. Performing lion dances, 6. turkey
 
 ### 🗣️ Pronunciation - Phát âm
-**Trọng âm trong từ có hai âm tiết (Two-syllable words)**
+**Stress in two-syllable words**
 
-**Quy tắc:**
-- Danh từ và tính từ: trọng âm thường rơi vào âm tiết đầu
-- Động từ: trọng âm thường rơi vào âm tiết thứ hai
+**Trong từ có 2 âm tiết:**
+- Nếu là danh từ/tính từ thì dấu nhấn thường rơi vào vần 1
+- Nếu là động từ thì dấu nhấn thường rơi vào vần 2
 
 ### ✍️ Bài 4: Listen and repeat. Then underline the stressed syllable in each word.
 (Nghe và lặp lại. Sau đó gạch chân âm tiết được nhấn trong mỗi từ.)
+
+1. festival  2. costume  3. performance  4. parade  5. enjoy
 
 **Answers:**
 1. **fes**tival  2. **cos**tume  3. per**for**mance  4. **pa**rade  5. en**joy**
 
 ### ✍️ Bài 5: Listen and repeat the sentences. Underline the stressed syllables in the bold words.
 (Nghe và lặp lại các câu. Gạch chân các âm tiết được nhấn trong các từ in đậm.)
+
+1. There are many **activities** at the **festival**.
+2. They **prepare** a **special** feast.
+3. People **celebrate** with **traditional** **costumes**.
 
 **Answers:**
 1. There are many **ac**tivities at the **fes**tival.
@@ -192,24 +212,25 @@ Auxiliary verb/Modal verb + Subject + (main verb) + ...?
 ### ✍️ Bài 1: Fill in each blank with a correct auxiliary verb or modal verb.
 (Điền vào mỗi chỗ trống một trợ động từ hoặc động từ khuyết thiếu đúng.)
 
-1. **Do** you often celebrate festivals?
-2. **Did** she go to the festival yesterday?
-3. **Are** they preparing for Christmas?
-4. **Can** we join the parade?
-5. **Does** he like Halloween?
+1. _______ you often celebrate festivals?
+2. _______ she go to the festival yesterday?
+3. _______ they preparing for Christmas?
+4. _______ we join the parade?
+5. _______ he like Halloween?
 
 **Answers:** 1. Do, 2. Did, 3. Are, 4. Can, 5. Does
 
 ### ✍️ Bài 2: Change the sentences into Yes/No questions.
 (Chuyển các câu thành câu hỏi Yes/No.)
 
-1. Your mother can make a costume for you. → **Can your mother make a costume for you?**
-2. She will bake a birthday cake for him. → **Will she bake a birthday cake for him?**
-3. The dragon dances are interesting. → **Are the dragon dances interesting?**
-4. The Rio Carnival takes place every year in Brazil. → **Does the Rio Carnival take place every year in Brazil?**
-5. They saw a firework display on New Year's Eve. → **Did they see a firework display on New Year's Eve?**
+1. Your mother can make a costume for you.
+2. She will bake a birthday cake for him.
+3. The dragon dances are interesting.
+4. The Rio Carnival takes place every year in Brazil.
+5. They saw a firework display on New Year's Eve.
 
-**Answers:** 1. Can your mother make a costume for you?
+**Answers:** 
+1. Can your mother make a costume for you?
 2. Will she bake a birthday cake for him?
 3. Are the dragon dances interesting?
 4. Does the Rio Carnival take place every year in Brazil?
@@ -218,30 +239,41 @@ Auxiliary verb/Modal verb + Subject + (main verb) + ...?
 ### ✍️ Bài 3: Match the questions in column A with their answers in column B.
 (Ghép các câu hỏi ở cột A với câu trả lời ở cột B.)
 
-| A | B |
-|---|---|
-| 1. Do you enjoy the festival? | c. Yes, I do. |
-| 2. Did they have fireworks? | a. No, they didn't. |
-| 3. Are you going to the parade? | e. Yes, we are. |
-| 4. Can she dance? | b. Yes, she can. |
-| 5. Will you come to the party? | d. No, I won't. |
+**A**
+1. Do you enjoy the festival?
+2. Did they have fireworks?
+3. Are you going to the parade?
+4. Can she dance?
+5. Will you come to the party?
+
+**B**
+a. No, they didn't.
+b. Yes, she can.
+c. Yes, I do.
+d. No, I won't.
+e. Yes, we are.
 
 **Answers:** 1-c, 2-a, 3-e, 4-b, 5-d
 
 ### ✍️ Bài 4: Mark is talking to Trang about the Mid-Autumn Festival. Fill in the blanks with Trang's answers below.
 (Mark đang nói chuyện với Trang về Tết Trung thu. Điền vào chỗ trống với câu trả lời của Trang bên dưới.)
 
+a. Yes, we do.
+b. Yes, we eat them with tea.
+c. Yes, they do. It's a tradition.
+d. No, we don't. We have a small gathering.
+
 **Mark:** Do you celebrate the Mid-Autumn Festival in your family?
-**Trang:** a. Yes, we do.
+**Trang:** (1) _______
 
 **Mark:** Do you eat moon cakes?
-**Trang:** b. Yes, we eat them with tea.
+**Trang:** (2) _______
 
 **Mark:** Do children carry lanterns?
-**Trang:** c. Yes, they do. It's a tradition.
+**Trang:** (3) _______
 
 **Mark:** Does your family have a big party?
-**Trang:** d. No, we don't. We have a small gathering.
+**Trang:** (4) _______
 
 **Answers:** 1-a, 2-b, 3-c, 4-d
 
@@ -263,6 +295,10 @@ Work in groups. One student thinks of a festival he/she likes. Other students as
 - **disappointment** : (n) sự thất vọng /dɪsəˈpɔɪntmənt/
 - **decoration** : (n) đồ trang trí /ˌdekəˈreɪʃən/
 - **symbol** : (n) biểu tượng /ˈsɪmbəl/
+- **think** : (v) nghĩ /θɪŋk/
+- **meaning** : (n) ý nghĩa /ˈmiːnɪŋ/
+- **life** : (n) cuộc sống /laɪf/
+- **happiness** : (n) hạnh phúc /ˈhæpɪnəs/
 
 ### 🗣️ Expressing disappointment - Diễn đạt sự thất vọng
 - **It was disappointing.** (Thật đáng thất vọng.)
@@ -288,16 +324,16 @@ B: Almost all of the films were not interesting.
 **Situation 2:**
 A: Did you buy anything when you went to the market?
 B: Unfortunately, I could not choose anything as there is not a wide range of decorations for the Mid-Autumn Festival.
-A: That sounds disheartening!
+A: That sounds disappointing!
 
 ### ✍️ Bài 3: Listen to Mark talking about festival symbols. Fill in each blank with ONE word.
 (Nghe Mark nói về các biểu tượng lễ hội. Điền vào mỗi chỗ trống MỘT từ.)
 
 Christmas symbols and their meanings:
-1. Christmas trees represent eternal **life**.
-2. Bell represents the **birth** of Jesus.
-3. Santa Claus represents the spirit of **giving**.
-4. Candy canes represent the shape of a shepherd's **stick**.
+1. Christmas trees represent eternal _______.
+2. Bell represents the _______ of Jesus.
+3. Santa Claus represents the spirit of _______.
+4. Candy canes represent the shape of a shepherd's _______.
 
 **Answers:** 1. life, 2. birth, 3. giving, 4. stick
 
@@ -337,6 +373,10 @@ When Tet comes, we think of peach flowers, apricot flowers, and kumquat trees. T
 - **get sleepy** : (v) trở nên buồn ngủ /ɡet ˈsliːpi/
 - **thousands** : (n) hàng nghìn /ˈθaʊzəndz/
 - **exciting** : (adj) thú vị, hào hứng /ɪkˈsaɪtɪŋ/
+- **have** - had - had : (v) có /hæv - hæd - hæd/
+- **run** - ran - run : (v) chạy /rʌn - ræn - rʌn/
+- **in my opinion** : theo ý kiến của tôi /ɪn maɪ əˈpɪnjən/
+- **on the first weekend in August** : vào cuối tuần đầu tiên của tháng Tám /ɒn ðə fɜːst ˌwiːkˈend ɪn ˈɔːɡəst/
 
 ### ✍️ Bài 1: Work in pairs. Look at the pictures. Which events do you think happen at the Twins Day Festival?
 (Làm việc theo cặp. Nhìn vào những bức tranh. Bạn nghĩ sự kiện nào diễn ra tại Lễ hội Ngày sinh đôi?)
@@ -472,10 +512,10 @@ Lễ Tạ ơn (còn được gọi là Ngày Gà tây) là một ngày lễ theo
 ### ✍️ Bài 3: Listen again and decide if the statements are true (T) or false (F).
 (Nghe lại và quyết định xem các câu sau đúng (T) hay sai (F).)
 
-1. Thanksgiving is celebrated on the same day in the USA and Canada. → **F**
-2. Traditional Thanksgiving food includes turkey and sweet potatoes. → **T**
-3. After the feast, people only stay at home. → **F**
-4. Some people help others on Thanksgiving Day. → **T**
+1. Thanksgiving is celebrated on the same day in the USA and Canada.
+2. Traditional Thanksgiving food includes turkey and sweet potatoes.
+3. After the feast, people only stay at home.
+4. Some people help others on Thanksgiving Day.
 
 **Answers:** 1-F, 2-T, 3-F, 4-T
 
@@ -508,94 +548,65 @@ Tôi muốn kể cho bạn nghe về Tết Nguyên đán, lễ hội quan trọn
 *[Tên của bạn]*
 
 ## LOOKING BACK - ÔN TẬP
-### 📚 Vocabulary Review - Ôn tập từ vựng
-**Unit 9 Complete Vocabulary List:**
-
-1. **activity** : (n) hoạt động /ækˈtɪvəti/
-2. **among** : (prep) giữa /əˈmʌŋ/
-3. **arrive** : (v) đến /əˈraɪv/
-4. **auxiliary verb** : (n) trợ động từ /ɔːɡˈzɪljəri vɜːb/
-5. **board games** : (n) trò chơi trên bàn /bɔːd ɡeɪmz/
-6. **candy apples** : (n) táo tẩm đường /ˈkændi ˈæplz/
-7. **card games** : (n) trò chơi bài /kɑːd ɡeɪmz/
-8. **carving pumpkins** : (v) khắc bí ngô /ˈkɑːvɪŋ ˈpʌmpkɪnz/
-9. **chocolate eggs** : (n) trứng sô cô la /ˈtʃɒklət eɡz/
-10. **Christmas** : (n) Lễ Giáng sinh /ˈkrɪsməs/
-11. **costume** : (n) trang phục /ˈkɒstjuːm/
-12. **cozy** : (adj) ấm cúng /ˈkəʊzi/
-13. **cranberry sauce** : (n) nước sốt nam việt quất /ˈkrænbəri sɔːs/
-14. **dancer** : (n) vũ công /ˈdɑːnsə/
-15. **decoration** : (n) đồ trang trí /ˌdekəˈreɪʃən/
-16. **disappointing** : (adj) thất vọng /dɪsəˈpɔɪntɪŋ/
-17. **disappointment** : (n) sự thất vọng /dɪsəˈpɔɪntmənt/
-18. **Double Take Parade** : (n) Cuộc diễu hành Double Take /ˌdʌbəl ˈteɪk pəˈreɪd/
-19. **Dutch** : (adj) (thuộc) Hà Lan /dʌtʃ/
-20. **Easter** : (n) Lễ Phục sinh /ˈiːstə/
-21. **exciting** : (adj) thú vị /ɪkˈsaɪtɪŋ/
-22. **feast** : (n) bữa tiệc /fiːst/
-23. **feature** : (v) trình bày /ˈfiːtʃə/
-24. **fireworks display** : (n) màn trình diễn pháo hoa /ˈfaɪəwɜːk dɪˈspleɪ/
-25. **float** : (n) xe diễu hành /fləʊt/
-26. **folk dance** : (n) điệu múa dân gian /fəʊk dɑːns/
-27. **gathering** : (n) buổi tụ họp /ˈɡæðərɪŋ/
-28. **get sleepy** : (v) trở nên buồn ngủ /ɡet ˈsliːpi/
-29. **Halloween** : (n) Lễ hội Halloween /ˌhæləʊˈiːn/
-30. **harvest** : (n) vụ mùa /ˈhɑːvɪst/
-31. **have a feast** : (v) tổ chức tiệc /hæv ə fiːst/
-32. **have a lot of fun** : (v) có nhiều niềm vui /hæv ə lɒt əv fʌn/
-33. **hold** - held - held : (v) tổ chức /həʊld/
-34. **homeless** : (adj) vô gia cư /ˈhəʊmləs/
-35. **less fortunate** : (adj) kém may mắn /les ˈfɔːtʃənət/
-36. **mashed potatoes** : (n) khoai tây nghiền /mæʃt pəˈteɪtəʊz/
-37. **Mid-Autumn Festival** : (n) Tết Trung thu /mɪd ˈɔːtəm ˈfestɪvəl/
-38. **modal verb** : (n) động từ khuyết thiếu /ˈməʊdl vɜːb/
-39. **moon cakes** : (n) bánh trung thu /muːn keɪks/
-40. **needy** : (adj) nghèo khó /ˈniːdi/
-41. **opportunity** : (n) cơ hội /ˌɒpəˈtjuːnəti/
-42. **painting eggs** : (v) tô màu trứng /ˈpeɪntɪŋ eɡz/
-43. **parade** : (n) cuộc diễu hành /pəˈreɪd/
-44. **performance** : (n) buổi biểu diễn /pəˈfɔːməns/
-45. **performing a lion dance** : (v) múa lân /pəˈfɔːmɪŋ ə ˈlaɪən dɑːns/
-46. **preparation** : (n) sự chuẩn bị /ˌprepəˈreɪʃən/
-47. **seasonal** : (adj) theo mùa /ˈsiːzənəl/
-48. **successful** : (adj) thành công /səkˈsesfl/
-49. **sweet potatoes** : (n) khoai lang /swiːt pəˈteɪtəʊz/
-50. **symbol** : (n) biểu tượng /ˈsɪmbəl/
-51. **take naps** : (v) ngủ trưa /teɪk næps/
-52. **take photo** - took photo - taken photo : (v) chụp ảnh /teɪk ˈfəʊtəʊ/
-53. **Thanksgiving** : (n) Lễ Tạ ơn /ˌθæŋksˈɡɪvɪŋ/
-54. **thousands** : (n) hàng nghìn /ˈθaʊzəndz/
-55. **traditional** : (adj) truyền thống /trəˈdɪʃənəl/
-56. **try** : (v) thử /traɪ/
-57. **tulip** : (n) hoa tulip /ˈtjuːlɪp/
-58. **tulip floats** : (n) xe hoa tulip /ˈtjuːlɪp fləʊts/
-59. **turkey** : (n) gà tây /ˈtɜːki/
-60. **twin** : (n) sinh đôi /twɪn/
-61. **uniform** : (n) đồng phục /ˈjuːnɪfɔːm/
-62. **volunteer** : (v) tình nguyện /ˌvɒlənˈtɪə/
-63. **wear** - wore - worn : (v) mặc /weə - wɔː - wɔːn/
-
 ### ✍️ Bài 1: Circle the correct words or phrases in brackets.
 (Khoanh tròn các từ hoặc cụm từ đúng trong ngoặc.)
 
-1. People hold the festival to thank the Rice God (for/of) the crop.
-2. Why don't you take (up/part) in the festival?
-3. The festival (takes place/occurs) every year in October.
-4. (When/What time) did the festival begin?
-5. (How/Why) do people celebrate this festival?
+1. There wasn't a (light / fireworks) display on New Year's Eve last year.
+2. She was the best actress at the (Cannes Film Festival / music festival) last year.
+3. At Easter, children enjoy (painting / buying) Easter eggs.
+4. People prepare (moon cakes / candy apples) for Halloween.
+5. For (Thanksgiving / Tet), people have a feast with turkey, cornbread, and sweet potatoes.
 
-**Answers:** 1. for, 2. part, 3. takes place, 4. When, 5. Why
+**Answers:** 1. fireworks, 2. Cannes Film Festival, 3. painting, 4. candy apples, 5. Thanksgiving
 
 ### ✍️ Bài 2: Complete each sentence by filling in the blank with a word or phrase in the box.
 (Hoàn thành mỗi câu bằng cách điền vào chỗ trống một từ hoặc cụm từ trong hộp.)
 
-1. People throw tomatoes at each other at La Tomatina **festival**.
-2. The festival is held to thank the Rice God and **pray** for better crops.
-3. Mid-Autumn Festival is held when the moon is at its **fullest**.
-4. A lot of **visitors** go to Glastonbury Festival to listen to music.
-5. In many countries, people **gather** to watch fireworks on New Year's Eve.
+**Box:** lion dances, floats, costumes, Bunny, gathering
 
-**Answers:** 1. festival, 2. pray, 3. fullest, 4. visitors, 5. gather
+1. The best part of the Mid-Autumn Festival is the performance of _______.
+2. There are flower _______ in the Tulip Festival.
+3. We like to wear traditional _______ at Tet.
+4. One of the symbols of Easter is the Easter _______.
+5. The Twins Day Festival is the largest _______ for twins in the world.
+
+**Answers:** 1. lion dances, 2. floats, 3. costumes, 4. Bunny, 5. gathering
+
+### ✍️ Bài 3: Choose the correct question A or B.
+(Chọn câu hỏi đúng A hoặc B.)
+
+1. A. Did you go to the Lim Festival yesterday?
+   B. Are you go to the Lim Festival yesterday?
+   
+2. A. Do they always celebrate the festival in May?
+   B. Will they always celebrate the festival in May?
+   
+3. A. Will you wear a costume for Halloween?
+   B. Will you do wear a costume for Halloween?
+   
+4. A. Did he interested in joining the festival?
+   B. Is he interested in joining the festival?
+   
+5. A. Do people listen to traditional songs at Hoi Mua Festival last year?
+   B. Did people listen to traditional songs at Hoi Mua Festival last year?
+
+**Answers:** 1-A, 2-A, 3-A, 4-B, 5-B
+
+### ✍️ Bài 4: Answer the following questions about yourself.
+(Trả lời các câu hỏi sau về bản thân.)
+
+1. Are you interested in festivals?
+2. Do you eat banh chung at Tet?
+3. Can you cook any traditional food?
+4. Did you see a fireworks display last year?
+5. Does your family gather together at Tet?
+
+**Sample answers:**
+1. Yes, I am. I love festivals.
+2. Yes, I do. I eat banh chung every Tet.
+3. Yes, I can. I can make spring rolls.
+4. No, I didn't. There was no fireworks because of Covid-19.
+5. Yes, we do. My family always gathers together at Tet.
 
 ## PROJECT - DỰ ÁN
 ### ✍️ Bài 1: Think of a new festival that you would like to celebrate. Discuss the following points:
