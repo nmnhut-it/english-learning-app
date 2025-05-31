@@ -5,19 +5,19 @@
 ### 📚 Vocabulary - Từ vựng
 - **cinema** : (n) rạp chiếu phim /ˈsɪnəmə/
 - **good idea** : ý kiến hay /gʊd aɪˈdɪə/
-- **nightmare** : (n) cơn ác mộng /ˈnaɪtmeə/
-- **fantasy** : (n) phim giả tưởng, phim viễn tưởng /ˈfæntəsi/
-- **horror film** : (n) phim kinh dị /ˈhɒrə fɪlm/
+- **A Nightmare** : cơn ác mộng /ə ˈnaɪtmeə/
+- **fantasy** : (n) phim giả tưởng /ˈfæntəsi/
+- **horror film** : phim kinh dị /ˈhɒrə fɪlm/
 - **scary** : (adj) đáng sợ /ˈskeəri/
 - **documentary** : (n) phim tài liệu /ˌdɒkjuˈmentəri/
 - **boring** : (adj) chán, nhàm chán /ˈbɔːrɪŋ/
-- **what about** : còn về...thì sao? /wɒt əˈbaʊt/
+- **what about?** : còn về...thì sao? /wɒt əˈbaʊt/
 - **kind of film** : thể loại phim /kaɪnd əv fɪlm/
 - **comedy** : (n) phim hài /ˈkɒmədi/
 - **star** : (v) đóng vai chính /stɑː/
 - **woman - women** : (n) phụ nữ (số ít - số nhiều) /ˈwʊmən - ˈwɪmɪn/
 - **different countries** : các quốc gia khác nhau /ˈdɪfrənt ˈkʌntriz/
-- **decide to** : (v) quyết định làm gì /dɪˈsaɪd tuː/
+- **decide to V0** : quyết định làm gì /dɪˈsaɪd tuː/
 - **exchange house** : trao đổi nhà /ɪksˈtʃeɪndʒ haʊs/
 - **review** : (n) bài đánh giá /rɪˈvjuː/
 - **a bit silly** : hơi ngớ ngẩn /ə bɪt ˈsɪli/
@@ -55,12 +55,12 @@ Mình không thực sự thích phim tài liệu. Chúng thường nhàm chán. 
 Đó là một bộ phim hài.
 
 **Mi:** And who stars in it?
-Và ai đóng chính trong nó?
+Và ai đóng vai chính trong phim?
 
 **Mark:** Kate Harrison and Lily Collins.
 Kate Harrison và Lily Collins.
 
-**Mi:** They act quite well. What's it about?
+**Mi:** Um, they're pretty good. What's it about?
 Họ diễn khá tốt. Bộ phim nói về gì vậy?
 
 **Mark:** It's about two women living in different countries and they decide to exchange houses.
@@ -205,6 +205,21 @@ A: What film did you see recently?
 B: One Piece.
 A: What do you think of it?
 B: It's interesting/boring/dull/funny...
+
+**Bài 4:** Listen and repeat the words. Pay attention to the sounds /tʃ/ and /dʒ/.
+(Nghe và lặp lại các từ. Chú ý đến âm /tʃ/ và /dʒ/)
+
+/tʃ/: chair, cheap, watch, match
+/dʒ/: jam, gym, age, judge
+
+**Bài 5:** Listen and repeat, paying attention to the underlined words. Then practise the sentences.
+(Nghe và lặp lại, chú ý đến các từ được gạch chân. Sau đó luyện tập các câu)
+
+1. I'll **ch**oose a **ch**eap **ch**air.
+2. **J**ane **w**ants to be a **j**udge.
+3. **Ch**arles is **G**erman.
+4. The **ch**ildren are in the garden ri**gh**t now.
+5. **Ge**orge didn't see the bri**dge**.
 
 ## A CLOSER LOOK 2 - TÌM HIỂU THÊM 2
 

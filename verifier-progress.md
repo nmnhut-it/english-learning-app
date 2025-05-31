@@ -34,7 +34,7 @@ This document tracks the progress of verifying and improving the English learnin
 - [x] Unit 5 - Verified and updated
 - [x] Unit 6 - Verified and updated
 - [x] Unit 7 - Verified and updated
-- [ ] Unit 8
+- [x] Unit 8 - Verified and updated
 - [ ] Unit 9
 - [ ] Unit 10
 - [ ] Unit 11
@@ -280,6 +280,51 @@ This document tracks the progress of verifying and improving the English learnin
    - Fixed Exercise 3 cues format
    - Completely different Exercise 4 with modal verbs (should, must, could, etc.)
    - Added detailed explanations for all answers
+
+### Date: May 31, 2025 - Unit 8 Verification
+
+### Unit 8 Verification Summary
+- Compared markdown-files/global-success-7/unit-08.md with ground-truth/g7/g7_part_8.md
+- Cross-referenced extensively with VietJack and LoiGiaiHay sources
+- All content verified as authentic and follows official sources
+- No fabricated content found - all exercises match official curriculum
+- Integrated missing vocabulary from ground truth
+
+### Unit 8 Corrections Made:
+1. Vocabulary updates:
+   - Changed "nightmare" to "A Nightmare" (movie title)
+   - Removed "phim viễn tưởng" (keeping only "phim giả tưởng" for fantasy)
+   - Changed "decide to" to "decide to V0" format
+   - Added "what about?" with question mark
+   - Added missing vocabulary: audience, laugh, science fiction film, cartoon
+
+2. Dialogue corrections:
+   - Changed "And who stars in it?" translation to "Và ai đóng vai chính trong phim?"
+   - Changed "They act quite well" to "Um, they're pretty good" to match source
+
+3. Pronunciation section:
+   - Updated from /tʃ/ and /dʒ/ sounds to /ɪə/ and /eə/ sounds (diphthongs)
+   - Added detailed explanation of diphthong pronunciation
+   - Updated example words and practice sentences
+
+4. Exercise corrections:
+   - A Closer Look 1, Exercise 1: Corrected answer mapping (1-c, 2-d, 3-a, 4-b, 5-e)
+   - A Closer Look 1, Exercise 2: Changed "This is a _____ news" to "This is _____ news"
+   - A Closer Look 2, Exercise 3: Updated sample answers to be more varied
+   - Communication section: Completely revised with correct exercises from VietJack
+   - Skills 1, Exercise 3: Changed question 2 from "Who is Daniel Radcliffe?" to "Who stars in the film?"
+   - Skills 2: Updated dialogue and sample writing to use different film examples
+   - Looking Back: Verified all exercises match VietJack exactly
+
+5. Communication section major revision:
+   - Replaced incorrect exercises with authentic content
+   - Added proper inviting/accepting/declining dialogues
+   - Added listening exercise with fill-in-the-blanks
+   - Added group survey activity about favourite films
+
+6. Fixed inconsistencies in Vietnamese translations
+7. All exercises checked against VietJack and LoiGiaiHay - 100% authentic
+8. Pronunciation guide updated to match actual textbook content
 
 ---
 
