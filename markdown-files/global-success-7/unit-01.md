@@ -30,6 +30,12 @@
 24. **lesson** : (n) bài học, buổi học /ˈlesn/
 25. **learn** : (v) học /lɜːn/
 26. **how to** : (phrase) cách để /haʊ tuː/
+27. **your** : (pron) của bạn /jɔː(r)/
+28. **some** : (det) một chút, một vài /sʌm/
+29. **all** : (det) tất cả /ɔːl/
+30. **learn how to** : (phrase) học cách để /lɜːn haʊ tuː/
+31. **just** : (adv) chỉ /dʒʌst/
+32. **there is/are** : (phrase) có /ðeə(r) ɪz/ɑː(r)/
 
 ### 💬 Content - Nội dung
 
@@ -64,7 +70,7 @@
 *Mình muốn đi đến câu lạc bộ của bạn Chủ Nhật này. Mình muốn học cách cưỡi ngựa.*
 
 **Ann**: Sure. My lesson starts at 8 a.m.
-*Chắc chắn rồi. Lớp học của mình bắt đầu lúc 8 giờ sáng.*
+*Chắc chắn rồi. Bài học của mình bắt đầu lúc 8 giờ sáng.*
 
 ### ✍️ Exercises - Bài tập
 
@@ -105,6 +111,8 @@ C. Leisure time
 |-------------|---------------|-------------------|
 | Gardening | Building dollhouses | Collecting coins |
 | Horse riding | Making models | Collecting teddy bears |
+| Riding a bike | | Collecting stamps |
+| | | Collecting comics |
 
 **Bài 5: Work in groups. Ask your classmates which hobbies they like**
 *Làm việc theo nhóm. Hỏi bạn cùng lớp về sở thích của họ*
@@ -132,11 +140,35 @@ Example:
 12. **cousin** : (n) anh/chị/em họ /ˈkʌzn/
 13. **violin** : (n) đàn vĩ cầm /ˌvaɪəˈlɪn/
 
+### 📖 Grammar Note - Ghi chú ngữ pháp
+
 **Verbs of liking + V-ing**
+
 - **love** : (v) yêu thích /lʌv/
 - **like** : (v) thích /laɪk/
 - **enjoy** : (v) thích thú /ɪnˈdʒɔɪ/
 - **hate** : (v) ghét /heɪt/
+
+**"Like/love/hate/prefer" + V-ing vs. "Like/love/hate/prefer" + to V₀:**
+
+* **Like + V-ing**: Dùng khi muốn nói về sở thích chung chung, một hoạt động mà mình thường thích làm.
+  * Ví dụ: "I like swimming." (Tôi thích bơi lội - sở thích chung chung)
+* **Like + to V₀**: Dùng khi muốn nói về một sở thích hoặc thói quen cụ thể, hoặc khi muốn nhấn mạnh hành động sẽ làm vì lợi ích nào đó.
+  * Ví dụ: "I like to swim in the morning." (Tôi thích bơi vào buổi sáng - nhấn mạnh hành động cụ thể)
+
+**Các động từ thể hiện nghĩa "thích/ghét" chỉ đi kèm "to V₀" (Infinitive):**
+1. **Would like**: muốn - "I would like to go out tonight."
+2. **Would love**: rất muốn - "She would love to visit Paris."
+3. **Would prefer**: thích hơn - "He would prefer to stay home."
+4. **Would hate**: ghét - "I would hate to miss the concert."
+
+**Các động từ thể hiện nghĩa "thích/ghét" chỉ đi kèm "V-ing" (Gerund):**
+1. **Enjoy**: thích - "I enjoy reading books."
+2. **Dislike**: không thích - "She dislikes doing homework."
+3. **Mind**: phiền, ngại - "Do you mind opening the window?"
+4. **Detest**: ghét cay ghét đắng - "He detests waking up early."
+5. **Avoid**: tránh - "I avoid eating fast food."
+6. **Can't help**: không thể không - "She can't help laughing at his jokes."
 
 ### ✍️ Exercises - Bài tập
 
@@ -177,6 +209,9 @@ Example:
 | **a**bout | b**ir**d |
 | banan**a** | w**or**k |
 | doll**a**r | h**er** |
+| Vị trí lưỡi: Trung tâm, không quá cao hoặc quá thấp | Vị trí lưỡi: Trung tâm, không quá cao hoặc quá thấp |
+| Miệng mở nhẹ nhàng | Miệng mở nhẹ nhàng, kéo dài âm |
+| Xuất hiện trong các âm tiết không nhấn mạnh | Xuất hiện trong các từ có trọng âm chính |
 
 **Bài 4: Listen and repeat. Pay attention to the sounds /ə/ and /ɜː/**
 *Nghe và lặp lại. Chú ý đến âm /ə/ và /ɜː/*
@@ -200,6 +235,7 @@ Example:
 - Khẳng định: S + V(s/es) + ...
 - Phủ định: S + do/does + not + V + ...
 - Nghi vấn: Do/Does + S + V + ...?
+- Câu hỏi Wh-question: Wh-word + do/does + S + V + ...?
 
 **Cách dùng:**
 1. **Một sự thật hiển nhiên**
@@ -213,6 +249,10 @@ Example:
 3. **Lịch trình, kế hoạch**
    - The cooking lesson starts at 9 a.m.
    *Lớp học nấu ăn bắt đầu lúc 9 giờ sáng.*
+
+**Quy tắc thêm s/es:**
+- Bỏ y và thêm ies vào sau các động từ kết thúc bởi một phụ âm + y: study → studies
+- Động từ bất quy tắc: go → goes; do → does; have → has
 
 ### ✍️ Exercises - Bài tập
 
@@ -277,6 +317,18 @@ My family members have different hobbies. My dad (1) **enjoys** gardening. He (2
 Example:
 A: Do you like watching TV?
 B: Yes, I like it very much, especially romantic dramas.
+A: Do you like cooking?
+B: No, I don't, and I can't cook well.
+
+**Bài 3: Interview your partner about their hobbies**
+*Phỏng vấn bạn của bạn về sở thích của họ*
+
+| Amount of free time per day: | 3 hours |
+|------------------------------|---------|
+| Thing(s) you like doing everyday: | watching TV, reading books |
+| Thing(s) you don't like doing: | cooking |
+| Thing(s) you love doing in the summer: | going swimming |
+| Thing(s) you love doing in the winter: | staying at home |
 
 ## SKILLS 1 - KỸ NĂNG 1
 
@@ -299,6 +351,20 @@ B: Yes, I like it very much, especially romantic dramas.
 15. **valuable** : (adj) quý giá /ˈvæljʊəbl/
 16. **lesson** : (n) bài học /ˈlesn/
 17. **together** : (adv) cùng nhau /təˈɡeðər/
+18. **everyone** : (pron) mọi người /ˈevriˌwʌn/
+19. **child** : (n) trẻ em /tʃaɪld/
+20. **wait** : (v) chờ đợi /weɪt/
+21. **grow** : (v) lớn lên /ɡrəʊ/
+22. **die** : (v) chết /daɪ/
+23. **family** : (n) gia đình /ˈfæmɪli/
+24. **join** : (v) tham gia /dʒɔɪn/
+25. **mum** : (n) mẹ /mʌm/
+26. **usually** : (adv) thường xuyên /ˈjuːʒʊəli/
+27. **spend** : (v) dành /spend/
+28. **hour** : (n) giờ /ˈaʊər/
+29. **garden** : (n) khu vườn /ˈɡɑːdn/
+30. **happy** : (adj) hạnh phúc /ˈhæpi/
+31. **time** : (n) thời gian /taɪm/
 
 ### 📖 Reading - Đọc
 
@@ -315,11 +381,11 @@ Gardening is also good because everyone in the family can join in and do somethi
 **Bài 2: Match the words with their meanings**
 *Nối các từ với nghĩa của chúng*
 
-1. **outdoor** - b. happening outside
-2. **patient** - e. able to wait for a long time
-3. **responsibility** - c. the duty of taking care of something
-4. **maturity** - a. grown-up
-5. **valuable** - d. very helpful
+1. **outdoor** - b. happening outside (diễn ra bên ngoài)
+2. **patient** - e. able to wait for a long time (có thể đợi trong một thời gian dài)
+3. **responsibility** - c. the duty of taking care of something (trách nhiệm, nhiệm vụ chăm sóc một cái gì đó)
+4. **maturity** - a. grown-up (trưởng thành)
+5. **valuable** - d. very helpful (có giá trị, hữu ích)
 
 **Bài 3: Complete the sentences with words and phrases from the text**
 *Hoàn thành câu với từ và cụm từ từ bài đọc*
@@ -339,6 +405,12 @@ Gardening is also good because everyone in the family can join in and do somethi
 2. Horse riding → b. makes you stronger / c. reduces stress
 3. Making models → a. develops your creativity / c. reduces stress / e. helps your eyes and hands work together
 
+**Bài 5: Work in groups. Ask one another the following questions**
+*Làm việc theo nhóm. Hỏi nhau các câu hỏi sau*
+
+Example:
+My friend's favorite hobby is collecting teddy bears. It makes her more patient.
+
 ## SKILLS 2 - KỸ NĂNG 2
 
 ### 📚 Vocabulary - Từ vựng
@@ -351,6 +423,8 @@ Gardening is also good because everyone in the family can join in and do somethi
 6. **decorate** : (v) trang trí /ˈdekəreɪt/
 7. **benefit** : (n) lợi ích /ˈbenɪfɪt/
 8. **creative** : (adj) sáng tạo /kriˈeɪtɪv/
+9. **friend** : (n) bạn bè /frend/
+10. **cloth** : (n) vải /klɒθ/
 
 ### 👂 Listening - Nghe
 
