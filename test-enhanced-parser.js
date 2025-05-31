@@ -27,6 +27,12 @@ c) prefer
 **Bài 2: Match the hobbies with the descriptions**
 Match column A with column B.
 
+**Bài 3: Choose the correct answer**
+Select the best option for each question.
+
+**Exercise 4: Write about your hobbies**
+Write a short paragraph about your favorite hobby.
+
 1. Playing guitar
 2. Collecting stamps
 3. Photography

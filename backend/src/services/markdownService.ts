@@ -268,11 +268,12 @@ export class MarkdownService {
         }
       }
       // Check for exercise start
-      else if (line.match(/^\*\*(Bài|Exercise|Exc?\.?)\s*\d+[:.]/i)) {
+      else if (line.match(/^\*\*(Bài|Exercise|Exc?\.?)\s*\d+[:.]\s*/i)) {
         flushContent();
         flushExercise();
         
-        const match = line.match(/^\*\*(Bài|Exercise|Exc?\.?)?\s*(\d+)[:.\s]+(.+?)\*\*/i);
+        // Match pattern: **Bài 1: Title here** or **Exercise 2: Something**
+        const match = line.match(/^\*\*(Bài|Exercise|Exc?\.?)?\s*(\d+)[:.]\s*(.+?)\*\*/i);
         if (match) {
           currentExercise = {
             type: 'exercise',
@@ -298,7 +299,7 @@ export class MarkdownService {
         let j = index + 1;
         
         while (j < lines.length && 
-               !lines[j].match(/^\*\*(Bài|Exercise|Exc?\.?)\s*\d+[:.]/i) &&
+               !lines[j].match(/^\*\*(Bài|Exercise|Exc?\.?)\s*\d+[:.]\s*/i) &&
                !lines[j].match(/^#{1,3}\s/)) {
           answerLines.push(lines[j]);
           lines[j] = ''; // Clear processed lines
