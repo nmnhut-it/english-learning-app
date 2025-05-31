@@ -30,7 +30,7 @@ This document tracks the progress of verifying and improving the English learnin
 - [x] Unit 1 - Verified and analyzed
 - [ ] Unit 2
 - [x] Unit 3 - Verified and updated
-- [ ] Unit 4
+- [x] Unit 4 - Verified and updated
 - [ ] Unit 5
 - [ ] Unit 6
 - [ ] Unit 7
@@ -138,6 +138,41 @@ This document tracks the progress of verifying and improving the English learnin
 4. Added missing vocabulary from ground truth for all sections
 5. Verified all exercises match official sources exactly
 6. No fabricated content found - all exercises authentic
+
+### Date: May 31, 2025 - Unit 4 Verification
+
+### Unit 4 Verification Summary
+- Compared markdown-files/global-success-7/unit-04.md with ground-truth/g7/g7_part_4.md
+- Cross-referenced with VietJack and LoiGiaiHay sources
+- All content verified as authentic and follows official sources
+- Made corrections to match exact wording from official sources
+
+### Unit 4 Corrections Made:
+1. Getting Started section:
+   - Changed "Nick will go to" to "Nick wants to go to" in exercise 3
+   - Removed article "an" before "art gallery" in dialogue to match source
+   
+2. A Closer Look 1 section:
+   - Changed "Her drawing" to "The little girl's drawing" in exercise 3
+   - Changed "Van Cao is a great composer" to "Van Cao was a great Vietnamese composer"
+   - Added "He was also a painter and poet" to Van Cao description
+   - Changed "musician" to "musicians" in pronunciation exercise 5
+   - Added "performing yesterday" to complete sentence 5
+   
+3. Skills 1 section:
+   - Changed "bể bơi, vũng nước" to "hồ nước" for "pool" translation
+   - Updated exercise 2 matching words to match ground truth:
+     * arrived → came
+     * perfect → excellent
+     * fantastic → great
+     * pool → pond
+     * special → particular
+   
+4. Skills 2 section:
+   - Changed "Chau" to "Mai" in writing exercise 4 to match the letter content
+   
+5. All exercises verified against VietJack sources - no fabricated content found
+6. Vocabulary and pronunciations match ground truth requirements
 
 ---
 

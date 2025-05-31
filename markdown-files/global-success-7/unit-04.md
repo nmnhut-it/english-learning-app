@@ -80,7 +80,7 @@ C. Music and arts (Âm nhạc và nghệ thuật)
 
 Box: art gallery, photos, different from, like, musical instruments
 
-1. Nick will go to a(n) _____ next weekend.
+1. Nick wants to go to an _____ next weekend.
 2. You can use your smartphone to take _____.
 3. This photo is very bright. It is _____ that dark one.
 4. Nick and Trang agree that taking photos is not _____ painting.
@@ -188,8 +188,8 @@ For each question, you get two points if your answer is A, zero if your answer i
 **Bài 3:** Underline the correct word or phrase to complete each sentence.
 (Gạch chân từ hoặc cụm từ đúng để hoàn thành mỗi câu)
 
-1. Her **drawing** of her kitten shows a lot of talent.
-2. Văn Cao is a great **composer**. He also wrote Tien Quan Ca.
+1. The little girl's **drawing** of her kitten shows a lot of talent.
+2. Van Cao was a great Vietnamese **composer**. He was also a painter and poet.
 3. The Louvre in Paris is the world's largest **museum**.
 4. The orchestra will perform its final **concert** of the season tomorrow.
 5. Did you see the film Amazon Jungle on TV last night? The **photography** was excellent.
@@ -209,7 +209,7 @@ For each question, you get two points if your answer is A, zero if your answer i
 2. Did you watch the **talent show** on **television** last night?
 3. Let's **share** the **pictures** we took last week.
 4. She **usually** paints in her **leisure** time.
-5. It was a **pleasure** to **listen** to the **musician**.
+5. It was a **pleasure** to listen to the **musicians** performing yesterday.
 
 ## A CLOSER LOOK 2 - TÌM HIỂU THÊM 2
 
@@ -385,7 +385,7 @@ Example:
 4. **everything** : (pron) mọi thứ /ˈev.ri.θɪŋ/
 5. **perfect** : (adj) hoàn hảo /ˈpɜː.fɪkt/
 6. **fantastic** : (adj) tuyệt vời /fænˈtæs.tɪk/
-7. **pool** : (n) bể bơi, vũng nước /puːl/
+7. **pool** : (n) hồ nước /puːl/
 8. **string** : (n) sợi dây /strɪŋ/
 9. **behind a screen** : sau một màn hình /bɪˈhaɪnd ə skriːn/
 10. **under the water** : dưới nước /ˈʌn.dər ðə ˈwɔː.tər/
@@ -433,11 +433,11 @@ Answer: Photos show traditional activities of Vietnam such as puppet show and Qu
 **Bài 2:** Read the email and match the highlighted words with their meanings.
 (Đọc email và nối các từ được tô sáng với nghĩa của chúng)
 
-1. showed up → arrived (đến)
-2. taking place → happening (diễn ra)
-3. went to see → watched (xem)
-4. left → remaining (còn lại)
-5. fantastic → amazing (tuyệt vời)
+1. arrived → came (đến)
+2. perfect → excellent (hoàn hảo)
+3. fantastic → great (tuyệt vời)
+4. pool → pond (hồ nước)
+5. special → particular (đặc biệt)
 
 ### ✍️ Exercises - Bài tập
 
@@ -557,12 +557,12 @@ Looking forward to seeing you there.
 
 Mai
 
-1. This letter is from Chau to...
+1. This letter is from Mai to...
    A. a friend ✓
    B. a teacher
    C. an old person
 
-2. Chau writes this letter to...
+2. Mai writes this letter to...
    A. ask for help
    B. invite someone to see an exhibition ✓
    C. make a complaint
