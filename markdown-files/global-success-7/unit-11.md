@@ -7,14 +7,14 @@
 - **will** : (modal) sẽ /wɪl/
 - **how** : (adv) bằng cách nào, như thế nào /haʊ/
 - **it's a pity that...** : thật đáng tiếc rằng... /ɪts ə ˈpɪti ðæt/
-- **hyperloop** : (n) hệ thống giao thông tốc độ cao trong ống chân không /ˈhaɪpəluːp/
+- **hyperloop** : (n) hyperloop (hệ thống vận chuyển tốc độ cao trong ống chân không) /ˈhaɪpəluːp/
 - **amazing** : (adj) tuyệt vời, kinh ngạc /əˈmeɪzɪŋ/
 - **a system of tubes** : hệ thống ống /ə ˈsɪstəm əv tjuːbz/
 - **from one place to another** : từ nơi này đến nơi khác /frɒm wʌn pleɪs tə əˈnʌðə/
 - **in just minutes** : chỉ trong vài phút /ɪn dʒʌst ˈmɪnɪts/
 - **even** : (adv) thậm chí, ngay cả /ˈiːvən/
 - **event** : (n) sự kiện, biến cố /ɪˈvent/
-- **teleporter** : (n) máy dịch chuyển tức thời /ˈtelɪˌpɔːtə/
+- **teleporter** : (n) máy dịch chuyển tức thời, cổng dịch chuyển /ˈtelɪˌpɔːtə/
 - **different mode of travel** : phương thức di chuyển khác nhau /ˈdɪfrənt məʊd əv ˈtrævəl/
 - **soon** : (adv) sớm, chẳng bao lâu nữa /suːn/
 - **campsite** : (n) khu cắm trại /ˈkæmpsaɪt/
@@ -71,7 +71,7 @@ Nghe thật tuyệt! Tôi hy vọng chúng ta sẽ có chúng sớm.
 
 ### ✍️ Exercises - Bài tập
 
-**Bài 2**: What are Ann and Minh talking about? (Ann và Minh đang nói về cái gì?)
+**Bài 2**: What are Ann and Minh talking about? (Ann và Minh đang nói về điều gì?)
 A. Travelling by teleporter (Du lịch bằng máy dịch chuyển)
 B. Future modes of travel (Các phương thức di chuyển trong tương lai)
 C. Being in a traffic jam (Bị kẹt xe)
@@ -108,8 +108,9 @@ C. Being in a traffic jam (Bị kẹt xe)
 ### 📚 Vocabulary - Từ vựng
 - **flying car** : (n) xe hơi bay /ˈflaɪɪŋ kɑː/
 - **bamboo-copter** : (n) chong chóng tre /ˌbæmˈbuː ˈkɒptə/
-- **skyTran** : (n) hệ thống vận chuyển trên không /ˈskaɪtræn/
+- **skyTran** : (n) hệ thống vận chuyển trên không skyTran /ˈskaɪtræn/
 - **solar-powered ship** : (n) tàu chạy bằng năng lượng mặt trời /ˈsəʊlə ˈpaʊəd ʃɪp/
+- **eco-friendly** : (adj) thân thiện với môi trường /ˌiːkəʊ ˈfrendli/
 - **simple** : (adj) đơn giản /ˈsɪmpl/
 - **fly away** : (v) bay đi /flaɪ əˈweɪ/
 - **instead of** : (prep) thay vì /ɪnˈsted ɒv/
@@ -133,7 +134,7 @@ C. Being in a traffic jam (Bị kẹt xe)
 4. hyperloop (tàu cao tốc)
 5. skyTran (tàu trên cao)
 
-**Answers:** 1-d, 2-c, 3-a, 4-b
+**Answers:** 1-d, 2-c, 3-a, 4-b, 5-e
 
 **Bài 2**: Write words or phrases from 1 in the correct columns. (Viết các từ hoặc cụm từ từ bài 1 vào đúng cột.)
 
@@ -146,9 +147,11 @@ C. Being in a traffic jam (Bị kẹt xe)
 
 **Bài 3**: Complete the sentences, using the words or phrases from the box. (Hoàn thành câu, sử dụng các từ hoặc cụm từ trong hộp.)
 
+**bamboo-copter   fly   ride   hyperloop   eco-friendly**
+
 1. Travelling by **bamboo-copter** is simple. You just put it on and fly away.
-2. People will soon **ride** in flying cars instead of driving normal cars.
-3. It will be fun to **fly** a skyTran to work.
+2. People will soon **fly** in flying cars instead of driving normal cars.
+3. It will be fun to **ride** a skyTran to work.
 4. Travelling by **hyperloop** will be faster than by airplane.
 5. Solar-powered ships are **eco-friendly**. They will not cause pollution.
 
@@ -185,13 +188,14 @@ Trong tiếng Anh, một câu có cả từ được nhấn trọng âm và từ
 ### 📚 Vocabulary - Từ vựng
 - **charge** : (v) sạc /tʃɑːdʒ/
 - **battery** : (n) pin /ˈbætəri/
-- **popular** : (adj) phổ biến /ˈpɒpjələr/
+- **popular** : (adj) phổ biến, được nhiều người ưa thích /ˈpɒpjələr/
 - **planet** : (n) hành tinh /ˈplænɪt/
 - **holiday** : (n) kỳ nghỉ /ˈhɒlɪdeɪ/
 - **parking place** : (n) chỗ đậu xe /ˈpɑːkɪŋ pleɪs/
 - **disappear** : (v) biến mất /ˌdɪsəˈpɪə/
 - **appear** : (v) xuất hiện /əˈpɪə/
 - **certainly** : (adv) chắc chắn /ˈsɜːtnli/
+- **travel** : (v) di chuyển, đi /ˈtrævəl/
 
 ### 📖 Grammar - Ngữ pháp
 
@@ -262,8 +266,8 @@ Example answers:
 1. My motorbike runs on electricity. *Their motorbikes* don't. → **theirs**
 2. Her dream is to travel to Mars. *My dream* is to live on the Moon. → **Mine**
 3. We don't like travelling by bus. *His travel* is by train. → **His**
-4. *Your bus* was late. *Your bus* isn't. → **Yours**
-5. *Our car* is a driverless one. *Their car* isn't. → **Ours**
+4. *Your bus* was late. *Ours* isn't. → **Ours**
+5. *Our car* is a driverless one. *Their car* isn't. → **theirs**
 
 ## COMMUNICATION - GIAO TIẾP
 
@@ -281,6 +285,7 @@ Example answers:
 - **across oceans** : băng qua đại dương /əˈkrɒs ˈəʊʃnz/
 - **wing** : (n) cánh /wɪŋ/
 - **electricity** : (n) điện /ɪˌlekˈtrɪsəti/
+- **use** : (v) sử dụng /juːz/
 
 ### 🗣️ Activities - Hoạt động
 
@@ -350,7 +355,7 @@ John: I can't wait to get one.
 - **charge** : (v) sạc /tʃɑːdʒ/
 - **battery** : (n) pin /ˈbætri/
 - **gaming screen** : màn hình chơi game /ˈɡeɪmɪŋ skriːn/
-- **the largest and safest** : lớn nhất và an toàn nhất /ðə ˈlɑːdʒɪst ænd ˈseɪfɪst/
+- **the largest and safest electric car** : xe điện lớn nhất và an toàn nhất /ðə ˈlɑːdʒɪst ænd ˈseɪfɪst ɪˈlektrɪk kɑː/
 - **carry seven passengers** : chở bảy hành khách /ˈkæri ˈsevn ˈpæsɪndʒəz/
 - **economical** : (adj) tiết kiệm /ˌiːkəˈnɒmɪkl/
 - **autopilot function** : chức năng tự lái /ˈɔːtəʊpaɪlət ˈfʌŋkʃn/
@@ -497,11 +502,11 @@ Tôi nghĩ mọi người sẽ thích đi du lịch bằng tàu cao tốc trong 
 5. **Bullet trains** are faster and greener than normal trains.
 
 **Bài 3**: Find ONE mistake in each sentence and correct it. (Tìm MỘT lỗi trong mỗi câu và sửa lại.)
-1. **Her** is not. → **Hers** is not.
+1. My motorbike is an electric one. **Her** is not. → **Hers** is not.
 2. **Our** can carry seven passengers. → **Ours** can carry seven passengers.
 3. **My** is an electric one. → **Mine** is an electric one.
-4. This is my one. **Its** is not fast. → **It** is not fast. (hoặc **His/Hers** is not fast)
-5. Your flying car is red. **Yours** is green. → **Your** is green. (hoặc **Mine** is green)
+4. This is my one. **Its** is not fast. → **It** is not fast.
+5. Your flying car is red. **Your** is green. → **Mine** is green.
 
 **Bài 4**: Read the passage and put the verbs in brackets in the correct future form. (Đọc đoạn văn và đặt động từ trong ngoặc ở dạng tương lai đúng.)
 
