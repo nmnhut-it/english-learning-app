@@ -7,23 +7,109 @@ import {
   Alert,
   Collapse,
   IconButton,
+  Button,
+  Divider,
 } from '@mui/material';
 import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
 import ExpandLessIcon from '@mui/icons-material/ExpandLess';
+import VisibilityIcon from '@mui/icons-material/Visibility';
+import VisibilityOffIcon from '@mui/icons-material/VisibilityOff';
 
 interface ExerciseSectionProps {
   section: any;
 }
 
+interface ExercisePartProps {
+  part: any;
+  showAnswer?: boolean;
+}
+
+const ExercisePart: React.FC<ExercisePartProps> = ({ part, showAnswer }) => {
+  return (
+    <Box sx={{ ml: 2, mb: 1 }}>
+      <Typography variant="body1" sx={{ fontWeight: 500 }}>
+        {part.label})
+      </Typography>
+      <Typography variant="body1" sx={{ ml: 2, whiteSpace: 'pre-wrap' }}>
+        {part.content}
+      </Typography>
+      {part.answer && showAnswer && (
+        <Alert severity="info" sx={{ ml: 2, mt: 1 }}>
+          <Typography variant="body2">{part.answer}</Typography>
+        </Alert>
+      )}
+    </Box>
+  );
+};
+
 const ExerciseSection: React.FC<ExerciseSectionProps> = ({ section }) => {
   const [expanded, setExpanded] = useState(true);
+  const [showAnswers, setShowAnswers] = useState(false);
   
-  // Simple markdown-like rendering without complex parsing
   const renderContent = () => {
     if (!section.content) return null;
     
     return section.content.map((item: any, index: number) => {
-      if (item.type === 'text') {
+      // Handle exercise type
+      if (item.type === 'exercise') {
+        return (
+          <Box key={index} sx={{ mb: 3, p: 2, bgcolor: 'grey.50', borderRadius: 1 }}>
+            {/* Exercise Header */}
+            <Typography variant="h6" sx={{ fontWeight: 600, mb: 1 }}>
+              Bài {item.number}: {item.title}
+            </Typography>
+            
+            {/* Exercise Instruction */}
+            {item.instruction && (
+              <Typography variant="body1" sx={{ mb: 2, fontStyle: 'italic' }}>
+                {item.instruction}
+              </Typography>
+            )}
+            
+            {/* Exercise Parts */}
+            {item.parts && item.parts.length > 0 && (
+              <Box sx={{ mb: 2 }}>
+                {item.parts.map((part: any, partIndex: number) => (
+                  <ExercisePart 
+                    key={partIndex} 
+                    part={part} 
+                    showAnswer={showAnswers}
+                  />
+                ))}
+              </Box>
+            )}
+            
+            {/* Answer Section */}
+            {item.answer && (
+              <Box sx={{ mt: 2 }}>
+                <Divider sx={{ mb: 2 }} />
+                <Box sx={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
+                  <Typography variant="subtitle1" sx={{ fontWeight: 600 }}>
+                    Đáp án:
+                  </Typography>
+                  <Button
+                    size="small"
+                    startIcon={showAnswers ? <VisibilityOffIcon /> : <VisibilityIcon />}
+                    onClick={() => setShowAnswers(!showAnswers)}
+                  >
+                    {showAnswers ? 'Ẩn' : 'Hiện'} đáp án
+                  </Button>
+                </Box>
+                <Collapse in={showAnswers}>
+                  <Alert severity="success" sx={{ mt: 1 }}>
+                    <Typography variant="body2" sx={{ whiteSpace: 'pre-wrap' }}>
+                      {item.answer}
+                    </Typography>
+                  </Alert>
+                </Collapse>
+              </Box>
+            )}
+          </Box>
+        );
+      }
+      
+      // Handle text type (fallback for non-exercise content)
+      else if (item.type === 'text') {
         // Split text into lines for better formatting
         const lines = item.value.split('\n').filter((line: string) => line.trim());
         
@@ -39,7 +125,7 @@ const ExerciseSection: React.FC<ExerciseSectionProps> = ({ section }) => {
                   </Typography>
                 );
               } else if (line.match(/^\*\*[^:]+:\*\*/)) {
-                // Exercise title
+                // Exercise title (legacy format)
                 return (
                   <Typography key={lineIndex} variant="body1" sx={{ fontWeight: 600, mb: 0.5, mt: 2 }}>
                     {line.replace(/\*\*/g, '')}
@@ -76,15 +162,6 @@ const ExerciseSection: React.FC<ExerciseSectionProps> = ({ section }) => {
                   >
                     {line}
                   </Typography>
-                );
-              } else if (line.match(/^\*\*Answer[s]?:\*\*/) || line.match(/^Answer[s]?:/)) {
-                // Answer line
-                return (
-                  <Alert key={lineIndex} severity="info" sx={{ mt: 2, mb: 1 }}>
-                    <Typography variant="body2">
-                      {line.replace(/\*\*/g, '')}
-                    </Typography>
-                  </Alert>
                 );
               } else {
                 // Regular text

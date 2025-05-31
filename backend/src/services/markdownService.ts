@@ -181,6 +181,9 @@ export class MarkdownService {
     let currentSubsection: any = null;
     let currentContent: string[] = [];
     let sectionIndex = 0;
+    let currentExercise: any = null;
+    let currentExercisePart: any = null;
+    let exerciseBuffer: string[] = [];
 
     const flushContent = () => {
       if (currentContent.length > 0) {
@@ -199,10 +202,29 @@ export class MarkdownService {
       }
     };
 
+    const flushExercise = () => {
+      if (currentExercise) {
+        // Flush any remaining part
+        if (currentExercisePart && exerciseBuffer.length > 0) {
+          currentExercisePart.content = exerciseBuffer.join('\n').trim();
+          exerciseBuffer = [];
+        }
+        
+        const target = currentSubsection || currentSection;
+        if (target) {
+          if (!target.content) target.content = [];
+          target.content.push(currentExercise);
+        }
+        currentExercise = null;
+        currentExercisePart = null;
+      }
+    };
+
     lines.forEach((line, index) => {
       // Main heading
       if (line.match(/^#\s+/)) {
         flushContent();
+        flushExercise();
         const title = line.replace(/^#\s+/, '').trim();
         currentUnit = {
           type: 'unit',
@@ -216,6 +238,7 @@ export class MarkdownService {
       // Section heading
       else if (line.match(/^##\s+/)) {
         flushContent();
+        flushExercise();
         const title = line.replace(/^##\s+/, '').trim();
         currentSection = {
           type: this.getSectionType(title),
@@ -232,6 +255,7 @@ export class MarkdownService {
       // Subsection heading
       else if (line.match(/^###\s+/)) {
         flushContent();
+        flushExercise();
         const title = line.replace(/^###\s+/, '').trim();
         currentSubsection = {
           type: this.getSubsectionType(title),
@@ -241,6 +265,81 @@ export class MarkdownService {
         if (currentSection) {
           if (!currentSection.subsections) currentSection.subsections = [];
           currentSection.subsections.push(currentSubsection);
+        }
+      }
+      // Check for exercise start
+      else if (line.match(/^\*\*(Bài|Exercise|Exc?\.?)\s*\d+[:.]/i)) {
+        flushContent();
+        flushExercise();
+        
+        const match = line.match(/^\*\*(Bài|Exercise|Exc?\.?)?\s*(\d+)[:.\s]+(.+?)\*\*/i);
+        if (match) {
+          currentExercise = {
+            type: 'exercise',
+            number: match[2],
+            title: match[3].trim(),
+            parts: []
+          };
+        }
+      }
+      // Check for answer section
+      else if ((line.match(/^\*\*(Answer|Đáp án|Sample Answer|Key)s?:\*\*/i) || 
+                line.match(/^(Answer|Đáp án|Sample Answer|Key)s?:/i)) && currentExercise) {
+        // Flush current part if exists
+        if (currentExercisePart && exerciseBuffer.length > 0) {
+          currentExercisePart.content = exerciseBuffer.join('\n').trim();
+          exerciseBuffer = [];
+          currentExercisePart = null;
+        }
+        
+        // Start collecting answer
+        currentExercise.answer = '';
+        let answerLines: string[] = [];
+        let j = index + 1;
+        
+        while (j < lines.length && 
+               !lines[j].match(/^\*\*(Bài|Exercise|Exc?\.?)\s*\d+[:.]/i) &&
+               !lines[j].match(/^#{1,3}\s/)) {
+          answerLines.push(lines[j]);
+          lines[j] = ''; // Clear processed lines
+          j++;
+        }
+        
+        currentExercise.answer = answerLines.join('\n').trim();
+      }
+      // Check for exercise sub-part (a), b), c) or 1., 2., 3.)
+      else if (currentExercise && line.match(/^[a-z]\)|^\d+\./)) {
+        // Flush previous part if exists
+        if (currentExercisePart && exerciseBuffer.length > 0) {
+          currentExercisePart.content = exerciseBuffer.join('\n').trim();
+          exerciseBuffer = [];
+        }
+        
+        const subPartMatch = line.match(/^([a-z])\)|^(\d+)\./);
+        if (subPartMatch) {
+          currentExercisePart = {
+            label: subPartMatch[1] || subPartMatch[2],
+            content: ''
+          };
+          currentExercise.parts.push(currentExercisePart);
+          // Add the rest of the line to buffer
+          const restOfLine = line.substring(subPartMatch[0].length).trim();
+          if (restOfLine) {
+            exerciseBuffer.push(restOfLine);
+          }
+        }
+      }
+      // If we're in an exercise, collect content
+      else if (currentExercise && !line.match(/^\*\*[^:]+\*\*:/) && !line.match(/^(\d+\.|-\s+\*\*)/)) {
+        if (currentExercisePart) {
+          exerciseBuffer.push(line);
+        } else {
+          // This is instruction text before sub-parts
+          if (!currentExercise.instruction) {
+            currentExercise.instruction = line;
+          } else {
+            currentExercise.instruction += '\n' + line;
+          }
         }
       }
       // Vocabulary items - both numbered and bullet formats
@@ -269,7 +368,8 @@ export class MarkdownService {
         }
       }
       // Dialogue
-      else if (line.match(/^\*\*[^:]+\*\*:/)) {
+      else if (line.match(/^\*\*[^:]+\*\*:/) && !currentExercise) {
+        flushContent();
         const match = line.match(/^\*\*([^:]+)\*\*:\s*(.+)/);
         if (match) {
           const dialogue = {
@@ -282,8 +382,8 @@ export class MarkdownService {
           // Check if next line is an italicized translation
           if (index + 1 < lines.length) {
             const nextLine = lines[index + 1];
-            if (nextLine.startsWith('*') && nextLine.endsWith('*') && !nextLine.startsWith('**')) {
-              dialogue.translation = nextLine.slice(1, -1);
+            if (nextLine.trim().startsWith('*') && nextLine.trim().endsWith('*') && !nextLine.trim().startsWith('**')) {
+              dialogue.translation = nextLine.trim().slice(1, -1);
               lines[index + 1] = ''; // Clear the translation line so it's not processed again
             }
           }
@@ -297,11 +397,15 @@ export class MarkdownService {
       }
       // Regular content
       else {
-        currentContent.push(line);
+        // Skip empty lines that were cleared (translations)
+        if (line || line === '') {
+          currentContent.push(line);
+        }
       }
     });
 
     flushContent();
+    flushExercise();
     
     // Sort sections in each unit according to pedagogical order
     sections.forEach(unit => {

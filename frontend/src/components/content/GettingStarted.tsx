@@ -8,10 +8,13 @@ import {
   Collapse,
   Divider,
   Paper,
+  Button,
+  Stack,
 } from '@mui/material';
 import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
 import ExpandLessIcon from '@mui/icons-material/ExpandLess';
 import VolumeUpIcon from '@mui/icons-material/VolumeUp';
+import TranslateIcon from '@mui/icons-material/Translate';
 import { DialogueItem } from '../../types';
 import useTextToSpeech from '../../hooks/useTextToSpeech';
 import VocabularySection from './VocabularySection';
@@ -23,6 +26,7 @@ interface GettingStartedProps {
 
 const GettingStarted: React.FC<GettingStartedProps> = ({ section }) => {
   const [expanded, setExpanded] = useState(true);
+  const [showTranslations, setShowTranslations] = useState(true);
   const { speak } = useTextToSpeech();
 
   // Extract dialogues from both content and subsections
@@ -65,9 +69,19 @@ const GettingStarted: React.FC<GettingStartedProps> = ({ section }) => {
               <Typography variant="h5" component="h3" sx={{ fontWeight: 500 }}>
                 💬 Dialogue
               </Typography>
-              <IconButton onClick={() => setExpanded(!expanded)}>
-                {expanded ? <ExpandLessIcon /> : <ExpandMoreIcon />}
-              </IconButton>
+              <Stack direction="row" spacing={1}>
+                <Button
+                  size="small"
+                  startIcon={<TranslateIcon />}
+                  onClick={() => setShowTranslations(!showTranslations)}
+                  variant={showTranslations ? "contained" : "outlined"}
+                >
+                  {showTranslations ? 'Ẩn phiên dịch' : 'Hiện phiên dịch'}
+                </Button>
+                <IconButton onClick={() => setExpanded(!expanded)}>
+                  {expanded ? <ExpandLessIcon /> : <ExpandMoreIcon />}
+                </IconButton>
+              </Stack>
             </Box>
 
             <Collapse in={expanded}>
@@ -103,11 +117,15 @@ const GettingStarted: React.FC<GettingStartedProps> = ({ section }) => {
                             <VolumeUpIcon fontSize="small" />
                           </IconButton>
                         </Box>
-                        {dialogue.translation && (
-                          <Typography variant="body2" color="text.secondary" sx={{ mt: 0.5, fontStyle: 'italic' }}>
+                        <Collapse in={showTranslations && !!dialogue.translation}>
+                          <Typography 
+                            variant="body2" 
+                            color="text.secondary" 
+                            sx={{ mt: 0.5, fontStyle: 'italic' }}
+                          >
                             {dialogue.translation}
                           </Typography>
-                        )}
+                        </Collapse>
                       </Box>
                     </Box>
                   </Paper>

@@ -59,7 +59,7 @@ interface RolePlay {
 const CommunicationSection: React.FC<CommunicationSectionProps> = ({ section }) => {
   const [expanded, setExpanded] = useState(true);
   const [viewMode, setViewMode] = useState<'dialogue' | 'phrases' | 'roleplay'>('dialogue');
-  const [showTranslation, setShowTranslation] = useState(false);
+  const [showTranslation, setShowTranslation] = useState(true);
   const [selectedRole, setSelectedRole] = useState<string | null>(null);
   const { speak } = useTextToSpeech();
 
