@@ -26,18 +26,18 @@ const ContentPresentation: React.FC<ContentPresentationProps> = ({ content, curr
     // Always show section title and render all its content
     return (
       <Box key={section.title} id={sectionId}>
-        <Typography variant="h2" sx={{ mb: 4, fontWeight: 600 }}>
+        <Typography variant="h2" sx={{ mb: 2, fontWeight: 600 }}>
           {section.title}
         </Typography>
         
         {/* Add section-specific labels */}
         {section.type === 'skills-1' && (
-          <Typography variant="h4" sx={{ mb: 3, color: 'primary.main' }}>
+          <Typography variant="h4" sx={{ mb: 1, color: 'primary.main' }}>
             📖 Reading & Speaking
           </Typography>
         )}
         {section.type === 'skills-2' && (
-          <Typography variant="h4" sx={{ mb: 3, color: 'primary.main' }}>
+          <Typography variant="h4" sx={{ mb: 1, color: 'primary.main' }}>
             👂 Listening & Writing
           </Typography>
         )}
@@ -91,7 +91,7 @@ const ContentPresentation: React.FC<ContentPresentationProps> = ({ content, curr
     switch (subsection.subsectionType) {
       case 'vocabulary':
         return (
-          <Box key={key} sx={{ mb: 4 }}>
+          <Box key={key} sx={{ mb: 2 }}>
             <VocabularyPresentation section={{
               title: subsection.title,
               content: subsection.content
@@ -101,7 +101,7 @@ const ContentPresentation: React.FC<ContentPresentationProps> = ({ content, curr
         
       case 'exercises':
         return (
-          <Box key={key} sx={{ mb: 4 }}>
+          <Box key={key} sx={{ mb: 2 }}>
             <ExercisePresentation section={{
               title: subsection.title,
               content: subsection.content
@@ -118,8 +118,8 @@ const ContentPresentation: React.FC<ContentPresentationProps> = ({ content, curr
       case 'speaking':
       case 'writing':
         return (
-          <Box key={key} sx={{ mb: 4 }}>
-            <Typography variant="h3" sx={{ mb: 3, fontWeight: 600 }}>
+          <Box key={key} sx={{ mb: 2 }}>
+            <Typography variant="h3" sx={{ mb: 1.5, fontWeight: 600 }}>
               {subsection.title}
             </Typography>
             <Box>
@@ -133,9 +133,9 @@ const ContentPresentation: React.FC<ContentPresentationProps> = ({ content, curr
       default:
         // Generic subsection rendering
         return (
-          <Box key={key} sx={{ mb: 4 }}>
+          <Box key={key} sx={{ mb: 2 }}>
             {subsection.title && (
-              <Typography variant="h3" sx={{ mb: 3, fontWeight: 600 }}>
+              <Typography variant="h3" sx={{ mb: 1.5, fontWeight: 600 }}>
                 {subsection.title}
               </Typography>
             )}
@@ -154,9 +154,9 @@ const ContentPresentation: React.FC<ContentPresentationProps> = ({ content, curr
       return (
         <Box key={key} sx={{ 
           fontSize: { xs: '1.25rem', sm: '1.5rem', md: '1.75rem' },
-          '& p': { mb: 2 },
-          '& ol, & ul': { mb: 2, pl: 4 },
-          '& li': { mb: 1.5, fontSize: 'inherit' },
+          '& p': { mb: 1 },
+          '& ol, & ul': { mb: 1, pl: 3 },
+          '& li': { mb: 0.5, fontSize: 'inherit' },
           '& table': { 
             width: '100%',
             borderCollapse: 'collapse',
@@ -192,11 +192,11 @@ const ContentPresentation: React.FC<ContentPresentationProps> = ({ content, curr
       );
     } else if (item.type === 'dialogue') {
       return (
-        <Box key={key} sx={{ mb: 3, pl: 2, borderLeft: '3px solid', borderColor: 'primary.light' }}>
-          <Typography variant="body1" sx={{ fontWeight: 600, fontSize: 'inherit', mb: 0.5 }}>
+        <Box key={key} sx={{ mb: 1.5, pl: 2, borderLeft: '3px solid', borderColor: 'primary.light' }}>
+          <Typography variant="body1" sx={{ fontWeight: 600, fontSize: 'inherit', mb: 0.25 }}>
             {item.speaker}:
           </Typography>
-          <Typography variant="body1" sx={{ fontSize: 'inherit', mb: 1 }}>
+          <Typography variant="body1" sx={{ fontSize: 'inherit', mb: 0.5 }}>
             {item.text}
           </Typography>
           {item.translation && (
@@ -213,7 +213,7 @@ const ContentPresentation: React.FC<ContentPresentationProps> = ({ content, curr
       
       // Inline vocabulary display
       return (
-        <Box key={key} sx={{ mb: 2 }}>
+        <Box key={key} sx={{ mb: 0.5 }}>
           <Typography variant="body1" sx={{ fontSize: { xs: '1.5rem', sm: '1.75rem', md: '2rem' } }}>
             {item.number && `${item.number}. `}
             <strong>{word}</strong>
@@ -232,9 +232,9 @@ const ContentPresentation: React.FC<ContentPresentationProps> = ({ content, curr
     return (
       <Box sx={{ 
         fontSize: { xs: '1.25rem', sm: '1.5rem', md: '1.75rem' },
-        '& p': { mb: 2 },
-        '& ol, & ul': { mb: 2, pl: 4 },
-        '& li': { mb: 1.5, fontSize: 'inherit' },
+        '& p': { mb: 1 },
+        '& ol, & ul': { mb: 1, pl: 3 },
+        '& li': { mb: 0.5, fontSize: 'inherit' },
         '& table': { 
           width: '100%',
           borderCollapse: 'collapse',
@@ -292,11 +292,11 @@ const ContentPresentation: React.FC<ContentPresentationProps> = ({ content, curr
             );
           } else if (item.type === 'dialogue') {
             return (
-              <Box key={index} sx={{ mb: 3, pl: 2, borderLeft: '3px solid', borderColor: 'primary.light' }}>
-                <Typography variant="body1" sx={{ fontWeight: 600, fontSize: 'inherit', mb: 0.5 }}>
+              <Box key={index} sx={{ mb: 1.5, pl: 2, borderLeft: '3px solid', borderColor: 'primary.light' }}>
+                <Typography variant="body1" sx={{ fontWeight: 600, fontSize: 'inherit', mb: 0.25 }}>
                   {item.speaker}:
                 </Typography>
-                <Typography variant="body1" sx={{ fontSize: 'inherit', mb: 1 }}>
+                <Typography variant="body1" sx={{ fontSize: 'inherit', mb: 0.5 }}>
                   {item.text}
                 </Typography>
                 {item.translation && (
@@ -313,7 +313,7 @@ const ContentPresentation: React.FC<ContentPresentationProps> = ({ content, curr
             
             // Inline vocabulary in generic content
             return (
-              <Box key={index} sx={{ mb: 2 }}>
+              <Box key={index} sx={{ mb: 0.5 }}>
                 <Typography variant="body1" sx={{ fontSize: 'inherit' }}>
                   {item.number && `${item.number}. `}
                   <strong>{word}</strong>
@@ -336,7 +336,7 @@ const ContentPresentation: React.FC<ContentPresentationProps> = ({ content, curr
           <Typography
             variant="h1"
             id={unit.title.toLowerCase().replace(/[^\w\s-]/g, '').replace(/\s+/g, '-')}
-            sx={{ mb: 4, fontWeight: 700 }}
+            sx={{ mb: 2, fontWeight: 700 }}
           >
             {unit.title}
           </Typography>

@@ -151,8 +151,8 @@ const ExercisePresentation: React.FC<ExercisePresentationProps> = ({ section }) 
   }, [exercises.length]);
 
   return (
-    <Box sx={{ py: 4 }}>
-      <Box sx={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', mb: 4 }}>
+    <Box sx={{ py: 1 }}>
+      <Box sx={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', mb: 2 }}>
         <Typography variant="h3" sx={{ fontWeight: 600 }}>
           {section.title}
         </Typography>
@@ -170,13 +170,13 @@ const ExercisePresentation: React.FC<ExercisePresentationProps> = ({ section }) 
         )}
       </Box>
 
-      <Box sx={{ display: 'flex', flexDirection: 'column', gap: 3 }}>
+      <Box sx={{ display: 'flex', flexDirection: 'column', gap: 1.5 }}>
         {exercises.map((exercise, index) => (
           <Card key={index} sx={{ overflow: 'hidden' }}>
             {/* Exercise Header */}
             <Box
               sx={{
-                p: 3,
+                p: 1.5,
                 backgroundColor: 'primary.50',
                 display: 'flex',
                 justifyContent: 'space-between',
@@ -210,12 +210,12 @@ const ExercisePresentation: React.FC<ExercisePresentationProps> = ({ section }) 
 
             <Collapse in={expandedExercises[index]}>
               {/* Exercise Content */}
-              <Box sx={{ p: 4 }}>
+              <Box sx={{ p: 2 }}>
                 <Box sx={{ 
                   fontSize: { xs: '1.25rem', sm: '1.5rem', md: '1.75rem' },
-                  '& p': { mb: 2 },
-                  '& ol, & ul': { mb: 2, pl: 4 },
-                  '& li': { mb: 1 },
+                  '& p': { mb: 1 },
+                  '& ol, & ul': { mb: 1, pl: 3 },
+                  '& li': { mb: 0.5 },
                   '& table': { 
                     width: '100%',
                     borderCollapse: 'collapse',
@@ -253,8 +253,8 @@ const ExercisePresentation: React.FC<ExercisePresentationProps> = ({ section }) 
                 {/* Answer Section */}
                 {exercise.answer && (
                   <>
-                    <Divider sx={{ my: 3 }} />
-                    <Box sx={{ display: 'flex', justifyContent: 'center', mb: 2 }}>
+                    <Divider sx={{ my: 1.5 }} />
+                    <Box sx={{ display: 'flex', justifyContent: 'center', mb: 1 }}>
                       <Button
                         variant="contained"
                         size="large"
@@ -269,11 +269,11 @@ const ExercisePresentation: React.FC<ExercisePresentationProps> = ({ section }) 
                     <Fade in={showAnswers[index]} timeout={500}>
                       <Box sx={{ 
                         display: showAnswers[index] ? 'block' : 'none',
-                        p: 3,
+                        p: 1.5,
                         backgroundColor: 'success.50',
                         borderRadius: 2,
                         fontSize: { xs: '1.25rem', sm: '1.5rem', md: '1.75rem' },
-                        '& p': { mb: 1 },
+                        '& p': { mb: 0.5 },
                         '& strong': {
                           color: 'success.main',
                         },

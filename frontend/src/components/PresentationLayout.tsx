@@ -275,32 +275,32 @@ const PresentationLayout: React.FC<PresentationLayoutProps> = ({
             mx: 'auto',
             width: '100%',
             maxWidth: 1400,
-            px: { xs: 2, sm: 4, md: 6 },
-            py: { xs: 2, sm: 3, md: 4 },
+            px: { xs: 2, sm: 3, md: 4 },
+            py: { xs: 1, sm: 1.5, md: 2 },
             // Presentation-style typography
             '& *': {
               lineHeight: 1.6,
             },
             '& p, & li': {
               fontSize: { xs: '1.25rem', sm: '1.5rem', md: '1.75rem' },
-              mb: 2,
+              mb: 1,
             },
             '& h1': {
               fontSize: { xs: '2.5rem', sm: '3rem', md: '3.5rem' },
               fontWeight: 600,
-              mb: 4,
+              mb: 2,
             },
             '& h2': {
               fontSize: { xs: '2rem', sm: '2.5rem', md: '3rem' },
               fontWeight: 600,
-              mb: 3,
-              mt: 4,
+              mb: 1.5,
+              mt: 2,
             },
             '& h3': {
               fontSize: { xs: '1.75rem', sm: '2rem', md: '2.5rem' },
               fontWeight: 500,
-              mb: 2,
-              mt: 3,
+              mb: 1,
+              mt: 1.5,
             },
           }}
         >

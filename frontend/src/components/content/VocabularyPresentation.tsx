@@ -71,8 +71,8 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({ section
     if (!item) return null;
 
     return (
-      <Box sx={{ py: 4 }}>
-        <Box sx={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', mb: 3 }}>
+      <Box sx={{ py: 1 }}>
+        <Box sx={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', mb: 1 }}>
           <Typography variant="h5" sx={{ fontWeight: 600 }}>
             {section.title}
           </Typography>
@@ -97,9 +97,9 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({ section
 
         <Card
           sx={{
-            p: { xs: 4, md: 6 },
+            p: { xs: 2, md: 3 },
             textAlign: 'center',
-            minHeight: 300,
+            minHeight: 250,
             display: 'flex',
             flexDirection: 'column',
             justifyContent: 'center',
@@ -215,8 +215,8 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({ section
 
   // List view - single line format
   return (
-    <Box sx={{ py: 4 }}>
-      <Box sx={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', mb: 3 }}>
+    <Box sx={{ py: 1 }}>
+      <Box sx={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', mb: 1 }}>
         <Typography variant="h4" sx={{ fontWeight: 600 }}>
           {section.title}
         </Typography>
@@ -239,12 +239,12 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({ section
         </Box>
       </Box>
 
-      <Box sx={{ display: 'flex', flexDirection: 'column', gap: 2 }}>
+      <Box sx={{ display: 'flex', flexDirection: 'column', gap: 0.5 }}>
         {vocabItems.map((item: VocabularyItem, index: number) => (
           <Card
             key={index}
             sx={{
-              p: 3,
+              p: 1.5,
               cursor: 'pointer',
               transition: 'all 0.2s',
               '&:hover': {
@@ -257,7 +257,7 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({ section
               setShowAll(false);
             }}
           >
-            <Box sx={{ display: 'flex', alignItems: 'center', gap: 3 }}>
+            <Box sx={{ display: 'flex', alignItems: 'center', gap: 2 }}>
               <Typography
                 variant="h4"
                 sx={{
