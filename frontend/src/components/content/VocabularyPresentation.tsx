@@ -239,7 +239,13 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({ section
         </Box>
       </Box>
 
-      <Box sx={{ display: 'flex', flexDirection: 'column', gap: 0.5 }}>
+      <Box sx={{ 
+        display: 'flex', 
+        flexDirection: 'column', 
+        gap: 0.5,
+        overflow: 'hidden',
+        maxWidth: '100%'
+      }}>
         {/* Column Headers */}
         <Box sx={{ 
           display: { xs: 'none', md: 'grid' }, 
@@ -252,8 +258,9 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({ section
           borderColor: 'divider',
           backgroundColor: 'grey.50',
           position: 'sticky',
-          top: 0,
-          zIndex: 1
+          top: 64, // Account for app header
+          zIndex: 1,
+          borderRadius: '4px 4px 0 0'
         }}>
           <Typography variant="subtitle2" sx={{ textAlign: 'right', fontWeight: 600, color: 'text.secondary' }}>
             #
@@ -322,7 +329,11 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({ section
                   fontSize: '32pt',
                   fontWeight: 600,
                   color: 'primary.main',
+                  overflow: 'hidden',
+                  textOverflow: 'ellipsis',
+                  whiteSpace: 'nowrap',
                 }}
+                title={item.english}
               >
                 {item.english}
               </Typography>
@@ -347,7 +358,11 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({ section
                     fontSize: '32pt',
                     color: 'secondary.main',
                     fontWeight: 500,
+                    overflow: 'hidden',
+                    textOverflow: 'ellipsis',
+                    whiteSpace: 'nowrap',
                   }}
+                  title={item.vietnamese}
                 >
                   {showVietnamese ? item.vietnamese : '???'}
                 </Typography>
@@ -360,7 +375,11 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({ section
                   fontSize: '24pt',
                   fontStyle: 'italic',
                   color: 'text.secondary',
+                  overflow: 'hidden',
+                  textOverflow: 'ellipsis',
+                  whiteSpace: 'nowrap',
                 }}
+                title={item.pronunciation}
               >
                 {item.pronunciation}
               </Typography>
