@@ -11,23 +11,105 @@ import ContentPresentation from './components/ContentPresentation';
 import PlainMarkdownViewer from './components/PlainMarkdownViewer';
 import { FileTreeNode, Heading } from './types';
 import axios from 'axios';
+import './styles/holographic-theme.css';
+
+// Add parallax effect on mouse move
+if (typeof window !== 'undefined') {
+  document.addEventListener('mousemove', (e) => {
+    const orbs = document.querySelectorAll('.orb');
+    const x = e.clientX / window.innerWidth;
+    const y = e.clientY / window.innerHeight;
+    
+    orbs.forEach((orb, index) => {
+      const speed = (index + 1) * 20;
+      (orb as HTMLElement).style.transform = `translate(${x * speed}px, ${y * speed}px)`;
+    });
+  });
+}
 
 const theme = createTheme({
   palette: {
     mode: 'light',
     primary: {
-      main: '#1976d2',
+      main: '#00D084',  // Bio-tech green
+      light: '#4ADE80',  // Light green
+      dark: '#059669',   // Deep forest green
     },
     secondary: {
-      main: '#dc004e',
+      main: '#10B981',   // Emerald
+      light: '#86EFAC',  // Mint
+      dark: '#047857',   // Dark emerald
     },
     background: {
       default: '#ffffff',
-      paper: '#f8f9fa',
+      paper: 'rgba(255, 255, 255, 0.8)',
+    },
+    text: {
+      primary: '#000000',      // Pure black for maximum readability
+      secondary: 'rgba(0, 0, 0, 0.7)',  // Dark gray
     },
   },
   typography: {
-    fontFamily: '"Roboto", "Helvetica", "Arial", sans-serif',
+    fontFamily: '"Inter", "Roboto", "Helvetica", "Arial", sans-serif',
+    // Extra large sizes for classroom projection
+    h1: {
+      fontSize: '6rem',      // Increased from 5.5rem
+      fontWeight: 800,
+      lineHeight: 1.2,
+      color: '#000000',
+    },
+    h2: {
+      fontSize: '5rem',      // Increased from 4.5rem
+      fontWeight: 700,
+      lineHeight: 1.3,
+      color: '#000000',
+    },
+    h3: {
+      fontSize: '4rem',      // Increased from 3.5rem
+      fontWeight: 600,
+      lineHeight: 1.3,
+      color: '#000000',
+    },
+    h4: {
+      fontSize: '3.2rem',    // Increased from 2.8rem
+      fontWeight: 600,
+      lineHeight: 1.4,
+      color: '#000000',
+    },
+    h5: {
+      fontSize: '2.5rem',    // Increased from 2.2rem
+      fontWeight: 500,
+      lineHeight: 1.4,
+      color: '#000000',
+    },
+    body1: {
+      fontSize: '2.25rem',   // Increased from 2rem
+      lineHeight: 1.8,
+      fontWeight: 400,
+      color: '#000000',
+    },
+    body2: {
+      fontSize: '2rem',      // Increased from 1.75rem
+      lineHeight: 1.7,
+      color: '#000000',
+    },
+  },
+  components: {
+    MuiCssBaseline: {
+      styleOverrides: {
+        body: {
+          background: 'linear-gradient(135deg, #E6FFFA 0%, #D1FAE5 40%, #A7F3D0 100%)',
+          backgroundSize: '400% 400%',
+          animation: 'gradientShift 25s ease infinite',
+          minHeight: '100vh',
+        },
+        '@keyframes gradientShift': {
+          '0%': { backgroundPosition: '0% 50%' },
+          '50%': { backgroundPosition: '100% 50%' },
+          '100%': { backgroundPosition: '0% 50%' },
+        },
+      },
+    },
   },
 });
 
@@ -45,7 +127,7 @@ function App() {
   const [currentSection, setCurrentSection] = useState<string>('');
   const [sections, setSections] = useState<string[]>([]);
   const [viewMode, setViewMode] = useState<ViewMode>('structured');
-  const [structuredFontSize, setStructuredFontSize] = useState<number>(16); // Base font size in px
+  const [structuredFontSize, setStructuredFontSize] = useState<number>(20); // Base font size optimized for screen
 
   useEffect(() => {
     fetchFiles();
@@ -154,11 +236,11 @@ function App() {
           case '=':
           case '+':
             e.preventDefault();
-            setStructuredFontSize(prev => Math.min(24, prev + 2));
+            setStructuredFontSize(prev => Math.min(32, prev + 2));
             break;
           case '-':
             e.preventDefault();
-            setStructuredFontSize(prev => Math.max(12, prev - 2));
+            setStructuredFontSize(prev => Math.max(16, prev - 2));
             break;
         }
       } else if (e.key === 'ArrowLeft') {
@@ -209,6 +291,24 @@ function App() {
   return (
     <ThemeProvider theme={theme}>
       <CssBaseline />
+      {/* Floating orbs for organic depth */}
+      <div className="orb orb1" />
+      <div className="orb orb2" />
+      <div className="orb orb3" />
+      
+      {/* Floating leaves for garden effect */}
+      {[...Array(5)].map((_, i) => (
+        <div 
+          key={i} 
+          className="leaf" 
+          style={{ 
+            left: `${Math.random() * 100}%`, 
+            animationDelay: `${i * 3}s`,
+            animationDuration: `${15 + Math.random() * 10}s`
+          }} 
+        />
+      ))}
+      
       <PresentationLayout
         files={files}
         currentFile={selectedFile}
@@ -253,8 +353,8 @@ function App() {
                 <Tooltip title="Decrease font size (Ctrl -)">
                   <IconButton 
                     size="small" 
-                    onClick={() => setStructuredFontSize(prev => Math.max(12, prev - 2))}
-                    disabled={structuredFontSize <= 12}
+                    onClick={() => setStructuredFontSize(prev => Math.max(16, prev - 2))}
+                    disabled={structuredFontSize <= 16}
                     sx={{ p: 0.5 }}
                   >
                     <RemoveIcon fontSize="small" />
@@ -276,8 +376,8 @@ function App() {
                 <Tooltip title="Increase font size (Ctrl +)">
                   <IconButton 
                     size="small" 
-                    onClick={() => setStructuredFontSize(prev => Math.min(24, prev + 2))}
-                    disabled={structuredFontSize >= 24}
+                    onClick={() => setStructuredFontSize(prev => Math.min(32, prev + 2))}
+                    disabled={structuredFontSize >= 32}
                     sx={{ p: 0.5 }}
                   >
                     <AddIcon fontSize="small" />

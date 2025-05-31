@@ -13,7 +13,7 @@ interface ContentPresentationProps {
   fontSize?: number;
 }
 
-const ContentPresentation: React.FC<ContentPresentationProps> = ({ content, currentSection, fontSize = 16 }) => {
+const ContentPresentation: React.FC<ContentPresentationProps> = ({ content, currentSection, fontSize = 20 }) => {
   // If currentSection is empty or 'all', show all sections
   const showAllSections = !currentSection || currentSection === 'all';
   
@@ -26,19 +26,27 @@ const ContentPresentation: React.FC<ContentPresentationProps> = ({ content, curr
 
     // Always show section title and render all its content
     return (
-      <Box key={section.title} id={sectionId}>
-        <Typography variant="h2" sx={{ mb: 2, fontWeight: 600, fontSize: `${fontSize * 2}px` }}>
+      <Box key={section.title} id={sectionId} className="content-section" sx={{ mb: 6 }}>
+        <Typography 
+          variant="h2" 
+          sx={{ 
+            mb: 3, 
+            fontWeight: 700, 
+            fontSize: `${fontSize * 2.5}px`,
+            color: '#000000',
+          }}
+        >
           {section.title}
         </Typography>
         
         {/* Add section-specific labels */}
         {section.type === 'skills-1' && (
-          <Typography variant="h4" sx={{ mb: 1, color: 'primary.main', fontSize: `${fontSize * 1.5}px` }}>
+          <Typography variant="h4" sx={{ mb: 2, color: '#000000', fontSize: `${fontSize * 2}px`, fontWeight: 600 }}>
             📖 Reading & Speaking
           </Typography>
         )}
         {section.type === 'skills-2' && (
-          <Typography variant="h4" sx={{ mb: 1, color: 'primary.main', fontSize: `${fontSize * 1.5}px` }}>
+          <Typography variant="h4" sx={{ mb: 2, color: '#000000', fontSize: `${fontSize * 2}px`, fontWeight: 600 }}>
             👂 Listening & Writing
           </Typography>
         )}
@@ -181,10 +189,11 @@ const ContentPresentation: React.FC<ContentPresentationProps> = ({ content, curr
             fontWeight: 600,
           },
           '& strong': {
-            color: 'primary.main',
+            color: '#000000',
+            fontWeight: 700,
           },
           '& em': {
-            color: 'text.secondary',
+            color: 'rgba(0, 0, 0, 0.7)',
             fontSize: '0.9em',
           },
           '& h1, & h2, & h3, & h4, & h5, & h6': {
@@ -258,19 +267,20 @@ const ContentPresentation: React.FC<ContentPresentationProps> = ({ content, curr
           fontWeight: 600,
         },
         '& strong': {
-          color: 'primary.main',
+        color: '#000000',
+          fontWeight: 700,
         },
         '& em': {
-          color: 'text.secondary',
+        color: 'rgba(0, 0, 0, 0.7)',
           fontSize: '0.9em',
-        },
+          },
         '& blockquote': {
-          borderLeft: '4px solid',
-          borderColor: 'primary.main',
+          borderLeft: '4px solid rgba(0, 208, 132, 0.5)',
           pl: 3,
           ml: 0,
           my: 3,
           fontStyle: 'italic',
+          color: 'rgba(0, 0, 0, 0.8)',
         },
         '& code': {
           backgroundColor: 'grey.100',
@@ -343,7 +353,8 @@ const ContentPresentation: React.FC<ContentPresentationProps> = ({ content, curr
           <Typography
             variant="h1"
             id={unit.title.toLowerCase().replace(/[^\w\s-]/g, '').replace(/\s+/g, '-')}
-            sx={{ mb: 2, fontWeight: 700, fontSize: `${fontSize * 2.5}px` }}
+            className="holographic-text"
+            sx={{ mb: 4, fontWeight: 800, fontSize: `${fontSize * 3.5}px`, textAlign: 'center', color: '#000000' }}
           >
             {unit.title}
           </Typography>

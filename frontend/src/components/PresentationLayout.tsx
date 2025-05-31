@@ -125,10 +125,11 @@ const PresentationLayout: React.FC<PresentationLayoutProps> = ({
       {/* Minimal Header */}
       <AppBar 
         position="static" 
-        elevation={1}
+        elevation={0}
+        className="glass-nav"
         sx={{ 
-          backgroundColor: 'background.paper',
-          borderBottom: `2px solid ${theme.palette.primary.main}`,
+          backgroundColor: 'transparent !important',
+          borderBottom: `1px solid rgba(0, 0, 0, 0.08)`,
           color: 'text.primary',
         }}
       >
@@ -142,12 +143,17 @@ const PresentationLayout: React.FC<PresentationLayoutProps> = ({
           {/* File Menu */}
           <Button
             variant="contained"
-            color="primary"
             startIcon={<MenuIcon />}
             onClick={handleMenuOpen}
             sx={{ 
               mr: 2,
               textTransform: 'none',
+              background: 'linear-gradient(135deg, #00D084, #10B981)',
+              boxShadow: '0 4px 20px rgba(0, 208, 132, 0.3)',
+              '&:hover': {
+                background: 'linear-gradient(135deg, #10B981, #00D084)',
+                boxShadow: '0 6px 30px rgba(0, 208, 132, 0.4)',
+              },
             }}
           >
             Files
@@ -173,8 +179,8 @@ const PresentationLayout: React.FC<PresentationLayoutProps> = ({
               <HomeIcon sx={{ mr: 0.5, fontSize: 20 }} />
             </Link>
             {currentFile && (
-              <Typography color="text.primary" sx={{ fontSize: '0.9rem' }}>
-                {(() => {
+              <Typography color="text.primary" sx={{ fontSize: '1.1rem', fontWeight: 500, color: '#000000' }}>
+              {(() => {
                   // Find the file in the tree to get its title
                   const findFileTitle = (node: FileTreeNode, path: string): string | null => {
                     if (node.type === 'file' && node.path === path) {
@@ -193,7 +199,7 @@ const PresentationLayout: React.FC<PresentationLayoutProps> = ({
               </Typography>
             )}
             {currentSection && (
-              <Typography color="primary" sx={{ fontSize: '0.9rem', fontWeight: 500 }}>
+              <Typography color="primary" sx={{ fontSize: '1.1rem', fontWeight: 600, color: '#000000' }}>
                 {currentSection}
               </Typography>
             )}
@@ -239,6 +245,9 @@ const PresentationLayout: React.FC<PresentationLayoutProps> = ({
             mt: 1,
             border: `1px solid ${theme.palette.divider}`,
             boxShadow: theme.shadows[4],
+          '& .MuiMenuItem-root': {
+            color: '#000000',
+          },
           },
         }}
       >

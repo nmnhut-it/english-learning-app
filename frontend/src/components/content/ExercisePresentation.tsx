@@ -27,7 +27,7 @@ interface ParsedExercise {
   answer?: string;
 }
 
-const ExercisePresentation: React.FC<ExercisePresentationProps> = ({ section, fontSize = 16 }) => {
+const ExercisePresentation: React.FC<ExercisePresentationProps> = ({ section, fontSize = 20 }) => {
   const [showAnswers, setShowAnswers] = useState<Record<number, boolean>>({});
   const [expandedExercises, setExpandedExercises] = useState<Record<number, boolean>>({});
 
@@ -154,7 +154,7 @@ const ExercisePresentation: React.FC<ExercisePresentationProps> = ({ section, fo
   return (
     <Box sx={{ py: 1 }}>
       <Box sx={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', mb: 2 }}>
-        <Typography variant="h3" sx={{ fontWeight: 600, fontSize: `${fontSize * 1.75}px` }}>
+        <Typography variant="h3" sx={{ fontWeight: 700, fontSize: `${fontSize * 2.25}px`, color: '#000000' }}>
           {section.title}
         </Typography>
         {exercises.some(e => e.answer) && (
@@ -173,12 +173,12 @@ const ExercisePresentation: React.FC<ExercisePresentationProps> = ({ section, fo
 
       <Box sx={{ display: 'flex', flexDirection: 'column', gap: 1.5 }}>
         {exercises.map((exercise, index) => (
-          <Card key={index} sx={{ overflow: 'hidden' }}>
+          <Card key={index} className="glass-card" sx={{ overflow: 'hidden', mb: 2 }}>
             {/* Exercise Header */}
             <Box
               sx={{
-                p: 1.5,
-                backgroundColor: 'primary.50',
+                p: 2,
+                backgroundColor: 'rgba(0, 208, 132, 0.08)',
                 display: 'flex',
                 justifyContent: 'space-between',
                 alignItems: 'center',
@@ -189,9 +189,9 @@ const ExercisePresentation: React.FC<ExercisePresentationProps> = ({ section, fo
               <Typography
               variant="h4"
               sx={{
-              fontSize: `${fontSize * 1.5}px`,
-              fontWeight: 600,
-              color: 'primary.main',
+                fontSize: `${fontSize * 2}px`,  // Increased from 1.5x
+                fontWeight: 700,
+                color: '#000000',
               }}
               >
                 <ReactMarkdown
@@ -211,12 +211,12 @@ const ExercisePresentation: React.FC<ExercisePresentationProps> = ({ section, fo
 
             <Collapse in={expandedExercises[index]}>
               {/* Exercise Content */}
-              <Box sx={{ p: 2 }}>
+              <Box sx={{ p: 3 }}>
                 <Box sx={{ 
-                  fontSize: `${fontSize}px`,
-                  '& p': { mb: 1 },
-                  '& ol, & ul': { mb: 1, pl: 3 },
-                  '& li': { mb: 0.5 },
+                  fontSize: `${fontSize * 1.5}px`,  // Increased for exercise content
+                  '& p': { mb: 2, fontSize: 'inherit' },
+                  '& ol, & ul': { mb: 2, pl: 4, fontSize: 'inherit' },
+                  '& li': { mb: 1, fontSize: 'inherit' },
                   '& table': { 
                     width: '100%',
                     borderCollapse: 'collapse',
@@ -233,7 +233,8 @@ const ExercisePresentation: React.FC<ExercisePresentationProps> = ({ section, fo
                     fontWeight: 600,
                   },
                   '& strong': {
-                    color: 'primary.main',
+                    color: '#000000',
+                    fontWeight: 700,
                   },
                 }}>
                   <ReactMarkdown
@@ -254,14 +255,14 @@ const ExercisePresentation: React.FC<ExercisePresentationProps> = ({ section, fo
                 {/* Answer Section */}
                 {exercise.answer && (
                   <>
-                    <Divider sx={{ my: 1.5 }} />
+                    <Divider sx={{ my: 2 }} />
                     <Box sx={{ display: 'flex', justifyContent: 'center', mb: 1 }}>
                       <Button
                         variant="contained"
                         size="large"
                         onClick={() => toggleAnswer(index)}
                         startIcon={showAnswers[index] ? <VisibilityOffIcon /> : <VisibilityIcon />}
-                        sx={{ fontSize: '1.1rem' }}
+                        sx={{ fontSize: `${fontSize * 1.25}px` }}  // Larger button text
                       >
                         {showAnswers[index] ? 'Hide Answer' : 'Show Answer'}
                       </Button>
@@ -270,13 +271,15 @@ const ExercisePresentation: React.FC<ExercisePresentationProps> = ({ section, fo
                     <Fade in={showAnswers[index]} timeout={500}>
                       <Box sx={{ 
                         display: showAnswers[index] ? 'block' : 'none',
-                        p: 1.5,
-                        backgroundColor: 'success.50',
+                        p: 2,
+                        backgroundColor: 'rgba(0, 208, 132, 0.05)',
                         borderRadius: 2,
-                        fontSize: `${fontSize}px`,
-                        '& p': { mb: 0.5 },
+                        border: '2px solid rgba(0, 208, 132, 0.2)',
+                        fontSize: `${fontSize * 1.4}px`,  // Larger answer text
+                        '& p': { mb: 1, fontSize: 'inherit' },
                         '& strong': {
-                          color: 'success.main',
+                          color: '#000000',
+                          fontWeight: 700,
                         },
                       }}>
                         <ReactMarkdown

@@ -20,7 +20,7 @@ interface VocabularyPresentationProps {
   fontSize?: number;
 }
 
-const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({ section, fontSize = 16 }) => {
+const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({ section, fontSize = 20 }) => {
   const [currentIndex, setCurrentIndex] = useState(0);
   const [showAll, setShowAll] = useState(true);
   const [showVietnamese, setShowVietnamese] = useState(true);
@@ -74,8 +74,8 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({ section
     return (
       <Box sx={{ py: 1 }}>
         <Box sx={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', mb: 1 }}>
-          <Typography variant="h5" sx={{ fontWeight: 600, fontSize: `${fontSize * 1.5}px`, display: 'flex', alignItems: 'center', gap: 1 }}>
-            📖 {section.title}
+          <Typography variant="h5" sx={{ fontWeight: 700, fontSize: `${fontSize * 2}px`, display: 'flex', alignItems: 'center', gap: 1 }}>
+          📖 {section.title}
           </Typography>
           <Box sx={{ display: 'flex', gap: 1 }}>
             <Button
@@ -99,14 +99,18 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({ section
         </Box>
 
         <Card
+          className="glass-card"
           sx={{
-            p: { xs: 2, md: 3 },
+            p: { xs: 3, md: 4 },
             textAlign: 'center',
-            minHeight: fontSize >= 20 ? 300 : 250,
+            minHeight: fontSize >= 20 ? 400 : 300,
             display: 'flex',
             flexDirection: 'column',
             justifyContent: 'center',
             position: 'relative',
+            background: 'rgba(255, 255, 255, 0.7) !important',
+            backdropFilter: 'blur(10px)',
+            border: '1px solid rgba(0, 0, 0, 0.08)',
           }}
         >
           {/* Navigation */}
@@ -148,9 +152,9 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({ section
               <Typography
                 variant="h1"
                 sx={{
-                  fontSize: `${fontSize * 3}px`,
-                  fontWeight: 600,
-                  color: 'primary.main',
+                  fontSize: `${fontSize * 3.5}px`,  // Increased from 3x
+                  fontWeight: 700,
+                  color: '#000000',
                 }}
               >
                 {item.english}
@@ -167,8 +171,8 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({ section
             <Typography
               variant="h2"
               sx={{
-                fontSize: `${fontSize * 1.5}px`,
-                color: 'text.secondary',
+              fontSize: `${fontSize * 1.75}px`,  // Increased from 1.5x
+              color: 'rgba(0, 0, 0, 0.7)',
               }}
             >
               {item.partOfSpeech && `(${item.partOfSpeech})`}
@@ -178,9 +182,9 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({ section
               <Typography
                 variant="h2"
                 sx={{
-                  fontSize: `${fontSize * 2.5}px`,
-                  color: 'secondary.main',
-                  fontWeight: 500,
+                  fontSize: `${fontSize * 3}px`,  // Increased from 2.5x
+                  color: showVietnamese ? 'rgba(0, 0, 0, 0.8)' : 'rgba(0, 0, 0, 0.3)',
+                  fontWeight: 600,
                 }}
               >
                 {showVietnamese ? item.vietnamese : '???'}
@@ -190,9 +194,9 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({ section
             <Typography
               variant="h3"
               sx={{
-                fontSize: `${fontSize * 2.25}px`,
-                fontStyle: 'italic',
-                color: 'text.secondary',
+              fontSize: `${fontSize * 2.5}px`,  // Increased from 2.25x
+              fontStyle: 'italic',
+              color: 'rgba(0, 0, 0, 0.6)',
               }}
             >
               {item.pronunciation}
@@ -206,8 +210,8 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({ section
               position: 'absolute',
               bottom: 16,
               right: 24,
-              color: 'text.secondary',
-              fontSize: `${fontSize}px`
+              color: 'rgba(0, 0, 0, 0.6)',
+              fontSize: `${fontSize * 1.25}px`  // Increased
             }}
           >
             {currentIndex + 1} / {vocabItems.length}
@@ -221,7 +225,7 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({ section
   return (
     <Box sx={{ py: 1 }}>
       <Box sx={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', mb: 1 }}>
-        <Typography variant="h4" sx={{ fontWeight: 600, fontSize: `${fontSize * 1.75}px`, display: 'flex', alignItems: 'center', gap: 1 }}>
+        <Typography variant="h4" sx={{ fontWeight: 700, fontSize: `${fontSize * 2.25}px`, display: 'flex', alignItems: 'center', gap: 1 }}>
           📖 {section.title}
         </Typography>
         <Box sx={{ display: 'flex', gap: 1 }}>
@@ -255,17 +259,19 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({ section
         {vocabItems.map((item: VocabularyItem, index: number) => (
           <Card
             key={index}
+            className="vocab-item-glass"
             sx={{
-              p: fontSize >= 20 ? 2.5 : fontSize >= 16 ? 2 : 1.5,
+              p: fontSize >= 20 ? 3 : 2.5,
               cursor: 'pointer',
-              transition: 'all 0.2s',
-              backgroundColor: index % 2 === 0 ? 'background.paper' : 'grey.50',
-              borderLeft: '4px solid',
+              transition: 'all 0.3s ease',
+              backgroundColor: 'rgba(255, 255, 255, 0.5)',
+              borderLeft: '5px solid',
               borderLeftColor: index % 2 === 0 ? 'primary.light' : 'primary.main',
+              mb: 2,
               '&:hover': {
-                transform: 'translateX(8px)',
-                boxShadow: 3,
-                backgroundColor: 'primary.50',
+                transform: 'translateX(10px)',
+                boxShadow: '0 4px 20px rgba(102, 126, 234, 0.2)',
+                backgroundColor: 'rgba(255, 255, 255, 0.8)',
                 borderLeftColor: 'primary.dark',
               },
             }}
@@ -286,8 +292,8 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({ section
               <Typography
                 variant="h4"
                 sx={{
-                  fontSize: `${fontSize * 1.25}px`,
-                  color: 'text.secondary',
+                  fontSize: `${fontSize * 1.5}px`,  // Increased from 1.25x
+                  color: 'rgba(0, 0, 0, 0.7)',
                   textAlign: 'right',
                   pr: 1
                 }}
@@ -299,9 +305,9 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({ section
               <Typography
                 variant="h4"
                 sx={{
-                  fontSize: `${fontSize * 2}px`,
-                  fontWeight: 600,
-                  color: 'primary.main',
+                  fontSize: `${fontSize * 2.5}px`,  // Increased from 2x
+                  fontWeight: 700,
+                  color: '#000000',
                   wordBreak: 'break-word',
                   hyphens: 'auto',
                 }}
@@ -313,8 +319,8 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({ section
               <Typography
                 variant="h4"
                 sx={{
-                  fontSize: `${fontSize * 1.75}px`,
-                  color: 'text.secondary',
+                  fontSize: `${fontSize * 2}px`,  // Increased from 1.75x
+                  color: 'rgba(0, 0, 0, 0.7)',
                   textAlign: 'center',
                 }}
               >
@@ -326,9 +332,9 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({ section
                 <Typography
                   variant="h4"
                   sx={{
-                    fontSize: `${fontSize * 2}px`,
-                    color: 'secondary.main',
-                    fontWeight: 500,
+                    fontSize: `${fontSize * 2.5}px`,  // Increased from 2x
+                    color: showVietnamese ? 'rgba(0, 0, 0, 0.8)' : 'rgba(0, 0, 0, 0.3)',
+                    fontWeight: 600,
                     wordBreak: 'break-word',
                     hyphens: 'auto',
                   }}
@@ -341,9 +347,9 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({ section
               <Typography
                 variant="h4"
                 sx={{
-                  fontSize: `${fontSize * 1.75}px`,
+                  fontSize: `${fontSize * 2}px`,  // Increased from 1.75x
                   fontStyle: 'italic',
-                  color: 'text.secondary',
+                  color: 'rgba(0, 0, 0, 0.6)',
                   wordBreak: 'break-word',
                 }}
               >
