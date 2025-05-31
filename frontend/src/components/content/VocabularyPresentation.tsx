@@ -240,6 +240,41 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({ section
       </Box>
 
       <Box sx={{ display: 'flex', flexDirection: 'column', gap: 0.5 }}>
+        {/* Column Headers */}
+        <Box sx={{ 
+          display: { xs: 'none', md: 'grid' }, 
+          gridTemplateColumns: '50px minmax(200px, 0.8fr) 100px minmax(200px, 1fr) minmax(180px, 0.7fr) 60px',
+          alignItems: 'center',
+          gap: 2,
+          px: 1.5,
+          py: 1,
+          borderBottom: '2px solid',
+          borderColor: 'divider',
+          backgroundColor: 'grey.50',
+          position: 'sticky',
+          top: 0,
+          zIndex: 1
+        }}>
+          <Typography variant="subtitle2" sx={{ textAlign: 'right', fontWeight: 600, color: 'text.secondary' }}>
+            #
+          </Typography>
+          <Typography variant="subtitle1" sx={{ fontWeight: 600 }}>
+            English
+          </Typography>
+          <Typography variant="subtitle2" sx={{ textAlign: 'center', fontWeight: 600, color: 'text.secondary' }}>
+            Type
+          </Typography>
+          <Typography variant="subtitle1" sx={{ fontWeight: 600 }}>
+            Vietnamese
+          </Typography>
+          <Typography variant="subtitle2" sx={{ fontWeight: 600, color: 'text.secondary' }}>
+            Pronunciation
+          </Typography>
+          <Typography variant="subtitle2" sx={{ textAlign: 'center', fontWeight: 600, color: 'text.secondary' }}>
+            🔊
+          </Typography>
+        </Box>
+        
         {vocabItems.map((item: VocabularyItem, index: number) => (
           <Card
             key={index}
@@ -247,9 +282,11 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({ section
               p: 1.5,
               cursor: 'pointer',
               transition: 'all 0.2s',
+              backgroundColor: index % 2 === 0 ? 'background.paper' : 'grey.50',
               '&:hover': {
                 transform: 'translateX(8px)',
                 boxShadow: 2,
+                backgroundColor: 'primary.50',
               },
             }}
             onClick={() => {
@@ -257,85 +294,160 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({ section
               setShowAll(false);
             }}
           >
-            <Box sx={{ display: 'flex', alignItems: 'center', gap: 2 }}>
+            {/* Desktop Layout */}
+            <Box sx={{ 
+              display: { xs: 'none', md: 'grid' }, 
+              gridTemplateColumns: '50px minmax(200px, 0.8fr) 100px minmax(200px, 1fr) minmax(180px, 0.7fr) 60px',
+              alignItems: 'center',
+              gap: 2,
+              width: '100%'
+            }}>
+              {/* Number */}
               <Typography
                 variant="h4"
                 sx={{
-                  fontSize: { xs: '2rem', sm: '2.5rem', md: '32pt' },
+                  fontSize: '24pt',
+                  color: 'text.secondary',
+                  textAlign: 'right',
+                  pr: 1
+                }}
+              >
+                {index + 1}.
+              </Typography>
+              
+              {/* English Word */}
+              <Typography
+                variant="h4"
+                sx={{
+                  fontSize: '32pt',
                   fontWeight: 600,
                   color: 'primary.main',
-                  minWidth: 300,
                 }}
               >
                 {item.english}
               </Typography>
               
+              {/* Part of Speech */}
               <Typography
                 variant="h4"
                 sx={{
-                  fontSize: { xs: '1.75rem', sm: '2.25rem', md: '28pt' },
+                  fontSize: '24pt',
                   color: 'text.secondary',
+                  textAlign: 'center',
                 }}
               >
                 ({item.partOfSpeech})
               </Typography>
               
-              <Typography
-                variant="h4"
-                sx={{
-                  fontSize: { xs: '1.5rem', sm: '2rem', md: '24pt' },
-                  mx: 2,
-                }}
-              >
-                -
-              </Typography>
-              
+              {/* Vietnamese */}
               <Fade in={showVietnamese} timeout={300}>
                 <Typography
                   variant="h4"
                   sx={{
-                    fontSize: { xs: '2rem', sm: '2.5rem', md: '32pt' },
+                    fontSize: '32pt',
                     color: 'secondary.main',
                     fontWeight: 500,
-                    flex: 1,
                   }}
                 >
                   {showVietnamese ? item.vietnamese : '???'}
                 </Typography>
               </Fade>
               
+              {/* Pronunciation */}
               <Typography
                 variant="h4"
                 sx={{
-                  fontSize: { xs: '1.5rem', sm: '2rem', md: '24pt' },
-                  mx: 2,
-                }}
-              >
-                -
-              </Typography>
-              
-              <Typography
-                variant="h4"
-                sx={{
-                  fontSize: { xs: '1.75rem', sm: '2.25rem', md: '28pt' },
+                  fontSize: '24pt',
                   fontStyle: 'italic',
                   color: 'text.secondary',
-                  minWidth: 200,
                 }}
               >
                 {item.pronunciation}
               </Typography>
               
+              {/* Audio Button */}
               <IconButton
                 size="large"
                 onClick={(e) => {
                   e.stopPropagation();
                   speak(item.english);
                 }}
-                sx={{ ml: 2 }}
               >
-                <VolumeUpIcon sx={{ fontSize: 32 }} />
+                <VolumeUpIcon sx={{ fontSize: 28 }} />
               </IconButton>
+            </Box>
+            
+            {/* Mobile/Tablet Layout */}
+            <Box sx={{ 
+              display: { xs: 'flex', md: 'none' },
+              flexDirection: 'column',
+              gap: 0.5,
+              width: '100%'
+            }}>
+              <Box sx={{ display: 'flex', alignItems: 'center', gap: 2 }}>
+                <Typography
+                  variant="h4"
+                  sx={{
+                    fontSize: { xs: '1.5rem', sm: '1.75rem' },
+                    color: 'text.secondary',
+                  }}
+                >
+                  {index + 1}.
+                </Typography>
+                <Typography
+                  variant="h4"
+                  sx={{
+                    fontSize: { xs: '2rem', sm: '2.5rem' },
+                    fontWeight: 600,
+                    color: 'primary.main',
+                  }}
+                >
+                  {item.english}
+                </Typography>
+                <Typography
+                  variant="h4"
+                  sx={{
+                    fontSize: { xs: '1.25rem', sm: '1.5rem' },
+                    color: 'text.secondary',
+                  }}
+                >
+                  ({item.partOfSpeech})
+                </Typography>
+                <IconButton
+                  size="medium"
+                  onClick={(e) => {
+                    e.stopPropagation();
+                    speak(item.english);
+                  }}
+                  sx={{ ml: 'auto' }}
+                >
+                  <VolumeUpIcon sx={{ fontSize: 24 }} />
+                </IconButton>
+              </Box>
+              <Box sx={{ display: 'flex', flexDirection: 'column', gap: 0.25, pl: 5 }}>
+                <Fade in={showVietnamese} timeout={300}>
+                  <Typography
+                    variant="h4"
+                    sx={{
+                      fontSize: { xs: '1.75rem', sm: '2rem' },
+                      color: 'secondary.main',
+                      fontWeight: 500,
+                    }}
+                  >
+                    {showVietnamese ? item.vietnamese : '???'}
+                  </Typography>
+                </Fade>
+                <Typography
+                  variant="h4"
+                  sx={{
+                    fontSize: { xs: '1.25rem', sm: '1.5rem' },
+                    fontStyle: 'italic',
+                    color: 'text.secondary',
+                  }}
+                >
+                  {item.pronunciation}
+                </Typography>
+              </Box>
             </Box>
           </Card>
         ))}
