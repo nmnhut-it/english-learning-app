@@ -2,24 +2,31 @@
 
 ## GETTING STARTED - BẮT ĐẦU
 ### 📚 Vocabulary - Từ vựng
-- **prepare** : (v) chuẩn bị /prɪˈpeə(r)/
+- **prepare** : (v) chuẩn bị /prɪˈpeə/
 - **visit** : (n/v) chuyến thăm, thăm /ˈvɪzɪt/
-- **Lower Secondary School** : trường trung học cơ sở /ˈləʊə(r) ˈsekəndri skuːl/
+- **Lower Secondary School** : trường trung học cơ sở /ˈləʊə ˈsekəndri skuːl/
+- **well** : (adv) tốt; (n) cái giếng /wel/
+- **will** : (modal v) sẽ /wɪl/
+- **share** : (v) chia sẻ /ʃeə/
+- **see** : (v) thấy, gặp, nhìn /siː/
+- **meet** : (v) gặp /miːt/
 - **sound great** : nghe có vẻ tuyệt /saʊnd greɪt/
 - **neighbourhood** : (n) khu phố, hàng xóm /ˈneɪbəhʊd/
 - **classmate** : (n) bạn cùng lớp /ˈklɑːsmeɪt/
+- **there** : (adv) ở đó /ðeə/
 - **library** : (n) thư viện /ˈlaɪbrəri/
-- **computer room** : phòng máy tính /kəmˈpjuːtə(r) ruːm/
+- **computer room** : phòng máy tính /kəmˈpjuːtə ruːm/
 - **gym** : (n) phòng tập thể dục /dʒɪm/
-- **share** : (v) chia sẻ /ʃeə(r)/
 - **project** : (n) dự án /ˈprɒdʒekt/
-- **else** : (adv) khác, nữa /els/
+- **idea** : (n) ý tưởng /aɪˈdɪə/
+- **interesting** : (adj) thú vị /ˈɪntrəstɪŋ/
+- **what else** : còn gì nữa /wɒt els/
 - **Go Green Club** : Câu lạc bộ Xanh /gəʊ griːn klʌb/
-- **take photos** : chụp ảnh /teɪk ˈfəʊtəʊz/
+- **take photo** : chụp ảnh /teɪk ˈfəʊtəʊ/
 - **fantastic** : (adj) tuyệt vời /fænˈtæstɪk/
-- **forget** : (v) quên /fəˈget/
+- **forget - forgot - forgot** : (v) quên /fəˈget - fəˈgɒt - fəˈgɒt/
 - **camera** : (n) máy ảnh /ˈkæmərə/
-- **almost** : (adv) gần như, suýt /ˈɔːlməʊst/
+- **almost** : (adv) gần như /ˈɔːlməʊst/
 - **remind** : (v) nhắc nhở /rɪˈmaɪnd/
 
 ### 💬 Content - Nội dung
@@ -117,19 +124,25 @@ B: In his classroom, room 302.
 
 ## A CLOSER LOOK 1 - TÌM HIỂU THÊM 1
 ### 📚 Vocabulary - Từ vựng
-- **entrance examination** : kỳ thi tuyển sinh, kỳ thi đầu vào /ˈentrəns ɪgˌzæmɪˈneɪʃən/
-- **school facilities** : cơ sở vật chất trường học /skuːl fəˈsɪlɪtiz/
-- **outdoor activities** : các hoạt động ngoài trời /ˈaʊtdɔː(r) ækˈtɪvɪtiz/
-- **midterm test** : bài kiểm tra giữa kỳ /ˈmɪdtɜːm test/
-- **gifted students** : học sinh năng khiếu /ˈgɪftɪd ˈstjuːdənts/
+- **can** : (v) có thể /kæn/ hoặc /kən/ (dạng yếu)
 - **countryside** : (n) vùng nông thôn, miền quê /ˈkʌntrɪsaɪd/
-- **garden** : (n) vườn /ˈgɑːdən/
+- **garden** : (n) vườn /ˈgɑːdn/
 - **lab** : (n) phòng thí nghiệm /læb/
 - **magazine** : (n) tạp chí /ˌmægəˈziːn/
 - **meeting** : (n) cuộc họp, buổi gặp mặt /ˈmiːtɪŋ/
-- **noon** : (n) buổi trưa /nuːn/
+- **noon** : (n) buổi trưa, giữa trưa /nuːn/
+- **on** : (prep) trên, ở trên; về (thời gian, chủ đề) /ɒn/
 - **rain** : (v) mưa /reɪn/
-- **cover** : (v) bao phủ, bao gồm /ˈkʌvə(r)/
+- **entrance** : (n) lối vào, cổng vào; sự nhập học /ˈentrəns/
+- **examination** : (n) kỳ thi, sự kiểm tra /ɪgˌzæmɪˈneɪʃn/
+- **gifted** : (adj) có tài năng, có năng khiếu đặc biệt /ˈgɪftɪd/
+- **facility** : (n) cơ sở vật chất, thiết bị tiện nghi; khả năng /fəˈsɪləti/
+- **cover** : (v) che phủ, bao phủ; bao gồm /ˈkʌvə/
+- **entrance examination** : kỳ thi tuyển sinh, kỳ thi đầu vào /ˈentrəns ɪgˌzæmɪˈneɪʃən/
+- **school facilities** : cơ sở vật chất trường học /skuːl fəˈsɪlɪtiz/
+- **outdoor activities** : các hoạt động ngoài trời /ˈaʊtdɔː ækˈtɪvɪtiz/
+- **midterm test** : bài kiểm tra giữa kỳ /ˈmɪdtɜːm test/
+- **gifted students** : học sinh năng khiếu, học sinh xuất sắc /ˈgɪftɪd ˈstjuːdənts/
 
 ### 🗣️ Pronunciation - Phát âm
 Focus on sounds: **/tʃ/** and **/dʒ/**
@@ -200,6 +213,8 @@ A | B
 ### 📖 Grammar - Ngữ pháp
 **Prepositions of time and place - Giới từ chỉ thời gian và nơi chốn**
 
+**Giới từ in/at/on chỉ thời gian**
+
 **AT (thời điểm cụ thể):**
 - Giờ cụ thể: at 6 o'clock, at noon
 - Các thời điểm trong ngày: at night, at midnight
@@ -220,10 +235,14 @@ A | B
 - Buổi trong ngày: in the morning
 - Khoảng thời gian: in 2 hours
 
-**Giới từ chỉ nơi chốn:**
-- **at** + địa điểm cụ thể: at home, at school, at work
+**Giới từ in/at/on chỉ vị trí**
+
+- **at** + địa chỉ/điểm nhỏ: at home, at school, at work + địa chỉ, 1 điểm nhỏ
+  - I am at the university: Tôi đang ở trường đại học.
 - **in** + không gian: in the classroom, in the school garden
-- **on** + mặt phẳng: on the wall, on the table, on the second floor
+  - I am in the university: Tôi đang ở trong trường đại học
+  - I am at home but I am not in the house. Tôi đang ở nhà nhưng tôi đang đứng ở ngoài đường, trước nhà
+- **on** + mặt phẳng: on the wall (trên tường), on the table (trên bàn), on the second floor (trên lầu hai), on Earth (trên Trái Đất)
 
 ### ✍️ Exercises - Bài tập
 **Bài 1: Complete the sentences, using suitable prepositions of time.**
@@ -260,7 +279,7 @@ Example answers:
 4. The students are sitting _______ their desks.
 5. There's a big tree _______ front of my house. It's _______ the yard.
 
-**Answers:** 1. on, 2. in, 3. in, 4. at, 5. in - in
+**Answers:** 1. on, 2. at, 3. in, 4. at, 5. in - in
 
 **Bài 4: Work in pairs. Look at the pictures and answer the questions.**
 (Làm việc theo cặp. Nhìn vào các bức tranh và trả lời câu hỏi.)
@@ -283,15 +302,18 @@ Tom is a student (1) _______ a private school. He lives with his parents (2) ___
 
 **Answers:** 1. at, 2. in, 3. in, 4. On, 5. at, 6. at
 
+**Vietnamese translation:**
+Tom là học sinh tại một trường tư thục. Cậu ấy sống với bố mẹ trong một ngôi nhà nhỏ gần trường. Cậu ấy thường học ở trường vào các buổi sáng. Vào các buổi chiều thứ Hai và thứ Năm, cậu ấy tham gia các hoạt động ngoài trời khác nhau với các bạn cùng trường. Cậu ấy hát tại Câu lạc bộ Ong nhỏ vào thứ Ba và thứ Sáu. Cậu ấy đi xem phim với bạn bè vào cuối tuần. Cậu ấy thấy việc học và các hoạt động ngoài trời của mình rất thú vị.
+
 ## COMMUNICATION - GIAO TIẾP
 ### 📚 Vocabulary - Từ vựng
-- **Can you tell me more?** : Bạn có thể cho tôi biết thêm không?
-- **Can you tell me why?** : Bạn có thể cho tôi biết tại sao không?
-- **Can you tell me how?** : Bạn có thể cho tôi biết làm thế nào không?
+- **Can you tell me more?** : Bạn có thể cho tôi biết thêm không? /kæn juː tel miː mɔː/
+- **Can you tell me why?** : Bạn có thể cho tôi biết tại sao không? /kæn juː tel miː waɪ/
+- **Can you tell me how?** : Bạn có thể cho tôi biết làm thế nào không? /kæn juː tel miː haʊ/
 - **leave** : (v) rời đi /liːv/
 - **introduce** : (v) giới thiệu /ˌɪntrəˈdjuːs/
 - **show** : (v) cho xem, trình bày /ʃəʊ/
-- **Wilson School** : Trường Wilson /ˈwɪlsən skuːl/
+- **Wilson School** : Trường Wilson /ˈwɪlsn skuːl/
 - **primary school** : trường tiểu học /ˈpraɪməri skuːl/
 - **secondary school** : trường trung học /ˈsekəndri skuːl/
 
@@ -338,14 +360,16 @@ Wilson is the oldest school in the United States. It is for students from Year 7
 - **one of the** + plural noun : một trong những /wʌn əv ðə/
 - **on the bank of** : bên bờ /ɒn ðə bæŋk əv/
 - **used to** + V0 : đã từng /juːst tuː/
-- **rich** : (adj) giàu có /rɪtʃ/
-- **royal** : (adj) thuộc hoàng gia /ˈrɔɪəl/
-- **well-known** : (adj) nổi tiếng /ˌwel ˈnəʊn/
-- **such as** : (conj) chẳng hạn như /sʌtʃ æz/
+- **rich** : (adj) giàu có, phong phú /rɪtʃ/
+- **royal** : (adj) thuộc hoàng gia, hoàng tộc /ˈrɔɪəl/
+- **well-known** : (adj) nổi tiếng, được biết đến rộng rãi /ˌwel ˈnəʊn/
+- **gifted student** : học sinh có năng khiếu /ˈgɪftɪd ˈstjuːdnt/
+- **such as** : (conj) chẳng hạn như, ví dụ như /sʌtʃ æz/
 - **pass an entrance exam** : thi đỗ kỳ thi tuyển sinh /pɑːs ən ˈentrəns ɪgˈzæm/
-- **intelligent** : (adj) thông minh /ɪnˈtelɪdʒənt/
-- **projector** : (n) máy chiếu /prəˈdʒektə(r)/
-- **facilities** : (n) cơ sở vật chất /fəˈsɪlɪtiz/
+- **intelligent** : (adj) thông minh, sáng dạ /ɪnˈtelɪdʒənt/
+- **projector** : (n) máy chiếu /prəˈdʒektə/
+- **lab** : (n) phòng thí nghiệm /læb/
+- **facilities** : (n) cơ sở vật chất, trang thiết bị /fəˈsɪlətiz/
 
 ### 📖 Reading - Đọc
 **Quoc Hoc - Hue**
@@ -381,8 +405,8 @@ Hiện nay, trường dành cho những học sinh có năng khiếu. Các em r�
 4. How many English labs does it have?
 
 **Answers:**
-1. It is on the bank of the Huong River, in Hue.
-2. They were Ho Chi Minh, Vo Nguyen Giap, Xuan Dieu.
+1. It is on the bank of the Huong River, in Hue. (It is on the river bank of the Huong River, in Hue)
+2. They were Ho Chi Minh, Vo Nguyen Giap, Xuan Dieu. (They are Ho Chi Minh, Vo Nguyen Giap, Xuan Dieu)
 3. They are intelligent and study hard.
 4. It has two English labs.
 
@@ -422,8 +446,11 @@ Hiện nay, trường dành cho những học sinh có năng khiếu. Các em r�
 
 **Answer:** 1-C
 
+**File nghe (copy link dán vào trình duyệt để nghe) - Nghe 2 lần và chọn đáp án**
+https://img.loigiaihay.com/picture/2022/0713/042.mp3
+
 **Bài 3: Listen again and answer the questions.**
-(Nghe lại và trả lời câu hỏi.)
+(Nghe lại và trả lời câu hỏi. Nghe link trên 2 lần và chọn đáp án)
 
 1. When do Trang and her friends do the activities?
 2. How often do Phong and his classmates do the activities?
@@ -431,8 +458,12 @@ Hiện nay, trường dành cho những học sinh có năng khiếu. Các em r�
 
 **Answers:**
 1. They do the activities on Saturday afternoons.
-2. They do them once a month.
-3. They grow vegetables in the school garden.
+   - They encourage their classmates to recycle glass, cans, and paper.
+   - Thông tin: Trang: Well, our members clean streets on Saturday afternoons. We also encourage our classmates to recycle glass, cans, and paper.
+2. The reporter thinks their activities protect the environment.
+   - Thông tin: Reporter: Wonderful! I'm sure your activities help us protect our environment.
+3. They grow vegetables in the school garden after school.
+   - Thông tin: Phong: Well. I'm a member of the Green Garden Club. We grow vegetables in the school garden after school.
 
 ### ✍️ Writing - Viết
 **Bài 4: Work in pairs. Ask and answer questions about your school outdoor activities.**
@@ -445,13 +476,27 @@ Hiện nay, trường dành cho những học sinh có năng khiếu. Các em r�
 Example answers:
 1. I take part in many outdoor activities in my school like planting trees, picking up rubbish, sorting the garbage, recycling old paper.
 2. My favourite outdoor activity is planting trees.
+   - I like + động từ thêm -ing + most
+   - I like playing football most.
 3. Because it is good for the environment and makes me feel happy.
+   - Because + chủ từ + động từ +....
+   - Because planting trees is good for the environment
 
 **Bài 5: Write a paragraph of about 70 words about an outdoor activity at your school. You can use the information in 4.**
 (Viết một đoạn văn khoảng 70 từ về một hoạt động ngoài trời ở trường của bạn. Bạn có thể sử dụng thông tin trong bài 4.)
 
 Example:
 My school has many outdoor activities for students. Every Saturday afternoon, we join the Green Club activities. We plant trees in the school garden and pick up rubbish around the school. My favorite activity is planting trees because it makes our school greener and more beautiful. It also helps me learn about nature and protecting the environment. These activities make me feel happy and proud of my school.
+
+**Cấu trúc câu đơn**
+- Chủ từ + động từ + túc từ
+- Tâm wears a black T-shirt
+- Chủ từ + động từ + bổ ngữ
+- A is handsome
+- I like English because it is good.
+
+**Alternative example:**
+My school is in the countryside. We have a large garden next to it where we do many fun outdoor activities. I help plant trees and clean up trash. We also play sports like football and basketball. My favorite activity is planting trees because it helps me think better and care more about protecting nature. It's also good for our environment.
 
 (Trường của tôi có nhiều hoạt động ngoài trời cho học sinh. Mỗi chiều thứ Bảy, chúng tôi tham gia các hoạt động của Câu lạc bộ Xanh. Chúng tôi trồng cây trong vườn trường và nhặt rác xung quanh trường. Hoạt động yêu thích của tôi là trồng cây vì nó làm cho trường của chúng tôi xanh hơn và đẹp hơn. Nó cũng giúp tôi học về thiên nhiên và bảo vệ môi trường. Những hoạt động này khiến tôi cảm thấy vui vẻ và tự hào về trường của mình.)
 
@@ -529,6 +574,14 @@ Tom is a student (1) _______ a private school. He lives with his parents (2) ___
 4. On
 5. on
 6. at
+
+**Dấu hiệu:**
+(1) Trước địa chỉ "a private school" (trường tư) => at
+(2) Ở trong không gian "a small house" (ngôi nhà nhỏ) => in
+(3) Trước buổi trong ngày "the mornings" (buổi sáng) => in
+(4) Trước ngày trong tuần "Monday and Thursday" (thứ Hai và thứ Năm) => on
+(5) Ở địa chỉ "club" (câu lạc bộ) => at
+(6) Cụm từ "at the weekend" (vào cuối tuần)
 
 Vietnamese translation:
 Tom là học sinh tại một trường tư thục. Cậu ấy sống với bố mẹ trong một ngôi nhà nhỏ gần trường. Cậu ấy thường học ở trường vào các buổi sáng. Vào các buổi chiều thứ Hai và thứ Năm, cậu ấy tham gia các hoạt động ngoài trời khác nhau với các bạn cùng trường. Cậu ấy tham gia Câu lạc bộ Ong nhỏ vào thứ Ba và thứ Sáu. Cậu ấy đi xem phim với bạn bè vào cuối tuần. Cậu ấy thấy việc học và các hoạt động ngoài trời của mình rất thú vị.

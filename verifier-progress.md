@@ -32,7 +32,7 @@ This document tracks the progress of verifying and improving the English learnin
 - [x] Unit 3 - Verified and updated
 - [x] Unit 4 - Verified and updated
 - [x] Unit 5 - Verified and updated
-- [ ] Unit 6
+- [x] Unit 6 - Verified and updated
 - [ ] Unit 7
 - [ ] Unit 8
 - [ ] Unit 9
@@ -200,6 +200,47 @@ This document tracks the progress of verifying and improving the English learnin
    
 4. No fabricated content found - all exercises are authentic
 5. All vocabulary and answers align with official curriculum
+
+### Date: May 31, 2025 - Unit 6 Verification
+
+### Unit 6 Verification Summary
+- Compared markdown-files/global-success-7/unit-06.md with ground-truth/g7/g7_part_6.md
+- Cross-referenced with VietJack and LoiGiaiHay sources
+- All content verified as authentic and follows official sources
+- No fabricated content found - all exercises match official textbook exactly
+- Integrated additional vocabulary from ground truth
+
+### Unit 6 Corrections Made:
+1. Getting Started section:
+   - Added missing vocabulary from ground truth: well (adv/n), will, see, meet, there, idea, interesting, what else, forget-forgot-forgot forms
+   - Updated pronunciation notations to match ground truth
+   - All dialogue content verified against VietJack - matches exactly
+
+2. A Closer Look 1 section:
+   - Added base vocabulary: can, on (prep), entrance, examination, gifted, facility
+   - Reorganized vocabulary to match ground truth ordering
+   - All exercises verified authentic - no changes needed
+
+3. A Closer Look 2 section:
+   - Enhanced grammar explanations with ground truth notes
+   - Added detailed examples for at/in/on usage with locations
+   - Fixed answer for exercise 3, question 2: changed "in" to "at" (The car is at the garage)
+   - Added Vietnamese translation for Tom passage
+
+4. Skills sections:
+   - Added missing vocabulary items from ground truth
+   - Verified Quoc Hoc - Hue reading passage against sources
+   - Added file link for listening exercise
+   - Enhanced listening answer explanations with supporting information
+   - Added grammar notes for writing section
+
+5. Looking Back section:
+   - Added detailed "Dấu hiệu" (indicators) for preposition usage
+   - Maintained all original content as verified authentic
+
+6. All exercises checked against VietJack and LoiGiaiHay - 100% authentic
+7. No "cooked up" content found
+8. Vocabulary count increased from original with ground truth additions
 
 ---
 
