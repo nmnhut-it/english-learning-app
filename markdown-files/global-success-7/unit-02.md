@@ -4,39 +4,45 @@
 
 ### 📚 Vocabulary - Từ vựng
 1. **picture** : (n) bức tranh /ˈpɪktʃə/
-1. **boat** : (v) chèo thuyền /bəʊt/
-1. **park** : (n) công viên /pɑːk/
-1. **people** : (n) người /ˈpiːpl/
-1. **exercise** : (v) tập thể dục /ˈeksəsaɪz/
-1. **popular** : (adj) phổ biến /ˈpɒpjʊlə/
-1. **place** : (n) địa điểm /pleɪs/
-1. **neighbourhood** : (n) khu vực lân cận /ˈneɪbəhʊd/
-1. **outdoor** : (adj) ngoài trời /ˈaʊtdɔː/
-1. **activity** : (n) hoạt động /ækˈtɪvɪti/
-1. **good** : (adj) tốt /ɡʊd/
-1. **health** : (n) sức khỏe /helθ/
-1. **family** : (n) gia đình /ˈfæmɪli/
-1. **go cycling** : (v) đi xe đạp /ɡəʊ ˈsaɪklɪŋ/
-1. **countryside** : (n) nông thôn /ˈkʌntrɪsaɪd/
-1. **quiet** : (adj) yên tĩnh /ˈkwaɪət/
-1. **fresh** : (adj) trong lành /freʃ/
-1. **air** : (n) không khí /eə/
-1. **sound** : (v) nghe có vẻ /saʊnd/
-1. **interesting** : (adj) thú vị /ˈɪntrɪstɪŋ/
-1. **fun** : (n) niềm vui /fʌn/
-1. **bring** : (v) mang /brɪŋ/
-1. **fruit** : (n) trái cây /fruːt/
-1. **water** : (n) nước /ˈwɔːtə/
-1. **lunch box** : (n) hộp cơm trưa /lʌntʃ bɒks/
-1. **join** : (v) tham gia /dʒɔɪn/
-1. **time** : (n) thời gian /taɪm/
-1. **hat** : (n) mũ /hæt/
-1. **suncream** : (n) kem chống nắng /ˈsʌnkriːm/
-1. **hot** : (adj) nóng /hɒt/
-1. **sunny** : (adj) nắng /ˈsʌni/
-1. **noon** : (n) buổi trưa /nuːn/
-1. **get sunburn** : (v) bị cháy nắng /ɡet ˈsʌnbɜːn/
-1. **see** : (v) thấy /siː/
+2. **boat** : (v) chèo thuyền /bəʊt/
+3. **park** : (n) công viên /pɑːk/
+4. **people** : (n) người /ˈpiːpl/
+5. **exercise** : (v) tập thể dục /ˈeksəsaɪz/
+6. **popular** : (adj) phổ biến /ˈpɒpjʊlə/
+7. **place** : (n) địa điểm /pleɪs/
+8. **neighbourhood** : (n) khu vực lân cận /ˈneɪbəhʊd/
+9. **outdoor** : (adj) ngoài trời /ˈaʊtdɔː/
+10. **activity** : (n) hoạt động /ækˈtɪvɪti/
+11. **good** : (adj) tốt /ɡʊd/
+12. **health** : (n) sức khỏe /helθ/
+13. **family** : (n) gia đình /ˈfæmɪli/
+14. **go** : (v) đi /ɡəʊ/
+15. **cycle** : (v) đạp xe /ˈsaɪkl/
+16. **go cycling** : (v) đi xe đạp /ɡəʊ ˈsaɪklɪŋ/
+17. **countryside** : (n) nông thôn /ˈkʌntrɪsaɪd/
+18. **quiet** : (adj) yên tĩnh /ˈkwaɪət/
+19. **fresh** : (adj) trong lành /freʃ/
+20. **air** : (n) không khí /eə/
+21. **sound** : (v) nghe có vẻ /saʊnd/
+22. **interesting** : (adj) thú vị /ˈɪntrɪstɪŋ/
+23. **fun** : (n) niềm vui /fʌn/
+24. **bring** : (v) mang /brɪŋ/
+25. **fruit** : (n) trái cây /fruːt/
+26. **water** : (n) nước /ˈwɔːtə/
+27. **lunch** : (n) bữa trưa /lʌntʃ/
+28. **box** : (n) hộp /bɒks/
+29. **lunch box** : (n) hộp cơm trưa /lʌntʃ bɒks/
+30. **join** : (v) tham gia /dʒɔɪn/
+31. **time** : (n) thời gian /taɪm/
+32. **hat** : (n) mũ /hæt/
+33. **suncream** : (n) kem chống nắng /ˈsʌnkriːm/
+34. **hot** : (adj) nóng /hɒt/
+35. **sunny** : (adj) nắng /ˈsʌni/
+36. **noon** : (n) buổi trưa /nuːn/
+37. **get** : (v) bị /ɡet/
+38. **sunburn** : (n) cháy nắng /ˈsʌnbɜːn/
+39. **get sunburn** : (v) bị cháy nắng /ɡet ˈsʌnbɜːn/
+40. **see** : (v) thấy /siː/
 
 ### 💬 Content - Nội dung
 
@@ -126,19 +132,19 @@ Example:
 
 ### 📚 Vocabulary - Từ vựng
 1. **dim light** : (n) ánh sáng mờ /dɪm laɪt/
-1. **lip balm** : (n) son dưỡng môi /lɪp bɑːm/
-1. **chapped lips** : (n) môi nứt nẻ /tʃæpt lɪps/
-1. **coloured vegetables** : (n) rau củ có màu sắc /ˈkʌləd ˈvedʒtəblz/
-1. **red spots** : (n) đốm đỏ /red spɒts/
-1. **skin condition** : (n) tình trạng da /skɪn kənˈdɪʃən/
-1. **soft drinks** : (n) đồ uống có ga /sɒft drɪŋks/
-1. **sunburn** : (n) cháy nắng /ˈsʌnbɜːn/
-1. **fit** : (adj) khỏe mạnh /fɪt/
-1. **washing your hands often** : (v) rửa tay thường xuyên /ˈwɒʃɪŋ jɔː hændz ˈɒfən/
-1. **reading in dim light** : (v) đọc trong ánh sáng mờ /ˈriːdɪŋ ɪn dɪm laɪt/
-1. **eating tofu and coloured vegetables** : (v) ăn đậu phụ và rau củ có màu sắc /ˈiːtɪŋ ˈtəʊfuː ənd ˈkʌləd ˈvedʒtəblz/
-1. **brushing your teeth twice a day** : (v) đánh răng hai lần một ngày /ˈbrʌʃɪŋ jɔː tiːθ twaɪs ə deɪ/
-1. **touching your face with dirty hands** : (v) chạm vào mặt bằng tay bẩn /ˈtʌtʃɪŋ jɔː feɪs wɪð ˈdɜːti hændz/
+2. **lip balm** : (n) son dưỡng môi /lɪp bɑːm/
+3. **chapped lips** : (n) môi nứt nẻ /tʃæpt lɪps/
+4. **coloured vegetables** : (n) rau củ có màu sắc /ˈkʌləd ˈvedʒtəblz/
+5. **red spots** : (n) đốm đỏ /red spɒts/
+6. **skin condition** : (n) tình trạng da /skɪn kənˈdɪʃən/
+7. **soft drinks** : (n) đồ uống có ga /sɒft drɪŋks/
+8. **sunburn** : (n) cháy nắng /ˈsʌnbɜːn/
+9. **fit** : (adj) khỏe mạnh /fɪt/
+10. **washing your hands often** : (v) rửa tay thường xuyên /ˈwɒʃɪŋ jɔː hændz ˈɒfən/
+11. **reading in dim light** : (v) đọc trong ánh sáng mờ /ˈriːdɪŋ ɪn dɪm laɪt/
+12. **eating tofu and coloured vegetables** : (v) ăn đậu phụ và rau củ có màu sắc /ˈiːtɪŋ ˈtəʊfuː ənd ˈkʌləd ˈvedʒtəblz/
+13. **brushing your teeth twice a day** : (v) đánh răng hai lần một ngày /ˈbrʌʃɪŋ jɔː tiːθ twaɪs ə deɪ/
+14. **touching your face with dirty hands** : (v) chạm vào mặt bằng tay bẩn /ˈtʌtʃɪŋ jɔː feɪs wɪð ˈdɜːti hændz/
 
 ### ✍️ Exercises - Bài tập
 
@@ -208,20 +214,33 @@ Focus: /f/ and /v/ sounds
 
 ### 📚 Vocabulary - Từ vựng
 1. **Japanese** : (n) người Nhật /ˌdʒæpəˈniːz/
-1. **tofu** : (n) đậu phụ /ˈtəʊfuː/
-1. **lemonade** : (n) nước chanh /ˌleməˈneɪd/
-1. **fast food** : (n) đồ ăn nhanh /fɑːst fuːd/
-1. **acne** : (n) mụn /ˈækni/
-1. **breakfast** : (n) bữa sáng /ˈbrekfəst/
-1. **bread** : (n) bánh mì /bred/
-1. **egg** : (n) trứng /eɡ/
-1. **vitamin** : (n) vitamin /ˈvɪtəmɪn/
-1. **vegetarian** : (n) người ăn chay /ˌvedʒɪˈteəriən/
-1. **pimple** : (n) mụn nhọt /ˈpɪmpl/
-1. **community** : (n) cộng đồng /kəˈmjuːnɪti/
-1. **library** : (n) thư viện /ˈlaɪbrəri/
-1. **green tea** : (n) trà xanh /ɡriːn tiː/
-1. **winter** : (n) mùa đông /ˈwɪntə/
+2. **tofu** : (n) đậu phụ /ˈtəʊfuː/
+3. **lemonade** : (n) nước chanh /ˌleməˈneɪd/
+4. **fast food** : (n) đồ ăn nhanh /fɑːst fuːd/
+5. **soft drinks** : (n) đồ uống có ga /sɒft drɪŋks/
+6. **fish** : (n) cá /fɪʃ/
+7. **meat** : (n) thịt /miːt/
+8. **acne** : (n) mụn /ˈækni/
+9. **breakfast** : (n) bữa sáng /ˈbrekfəst/
+10. **bread** : (n) bánh mì /bred/
+11. **egg** : (n) trứng /eɡ/
+12. **vitamin** : (n) vitamin /ˈvɪtəmɪn/
+13. **fruit** : (n) trái cây /fruːt/
+14. **vegetable** : (n) rau củ /ˈvedʒtəbl/
+15. **vegetarian** : (n) người ăn chay /ˌvedʒɪˈteəriən/
+16. **pimple** : (n) mụn nhọt /ˈpɪmpl/
+17. **face** : (n) khuôn mặt /feɪs/
+18. **Saturday** : (n) thứ Bảy /ˈsætədeɪ/
+19. **exercise** : (v) tập thể dục /ˈeksəsaɪz/
+20. **sports centre** : (n) trung tâm thể thao /spɔːts ˈsentə/
+21. **cheesecake** : (n) bánh phô mai /ˈtʃiːzkeɪk/
+22. **community** : (n) cộng đồng /kəˈmjuːnɪti/
+23. **library** : (n) thư viện /ˈlaɪbrəri/
+24. **green tea** : (n) trà xanh /ɡriːn tiː/
+25. **suncream** : (n) kem chống nắng /ˈsʌnkriːm/
+26. **chapped lips** : (n) môi nứt nẻ /tʃæpt lɪps/
+27. **skin** : (n) da /skɪn/
+28. **winter** : (n) mùa đông /ˈwɪntə/
 
 ### 📖 Grammar - Ngữ pháp
 
@@ -325,29 +344,36 @@ Câu đơn là câu chỉ có một chủ ngữ và một (hoặc nhiều) độ
 
 ### 📚 Vocabulary - Từ vựng
 1. **should** : (modal v) nên /ʃʊd/
-1. **shouldn't** : (modal v) không nên /ˈʃʊdnt/
-1. **advice** : (n) lời khuyên /ədˈvaɪs/
-1. **tired** : (adj) mệt mỏi /ˈtaɪəd/
-1. **take a break** : (v) nghỉ ngơi /teɪk ə breɪk/
-1. **live** : (v) sống /lɪv/
-1. **long** : (adj) dài /lɒŋ/
-1. **life** : (n) cuộc sống /laɪf/
-1. **main** : (adj) chính /meɪn/
-1. **reason** : (n) lý do /ˈriːzn/
-1. **diet** : (n) chế độ ăn uống /ˈdaɪət/
-1. **eat** : (v) ăn /iːt/
-1. **fish** : (n) cá /fɪʃ/
-1. **vegetable** : (n) rau củ /ˈvedʒtəbl/
-1. **cook** : (v) nấu ăn /kʊk/
-1. **little** : (adj) ít /ˈlɪtl/
-1. **cooking oil** : (n) dầu ăn /ˈkʊkɪŋ ɔɪl/
-1. **protein** : (n) chất đạm /ˈprəʊtiːn/
-1. **vitamin B** : (n) vitamin B /ˈvɪtəmɪn biː/
-1. **fat** : (n) chất béo /fæt/
-1. **work** : (v) làm việc /wɜːk/
-1. **hard** : (adj) chăm chỉ /hɑːd/
-1. **help** : (v) giúp đỡ /help/
-1. **keep** : (v) giữ /kiːp/
+2. **shouldn't** : (modal v) không nên /ˈʃʊdnt/
+3. **advice** : (n) lời khuyên /ədˈvaɪs/
+4. **tired** : (adj) mệt mỏi /ˈtaɪəd/
+5. **take a break** : (v) nghỉ ngơi /teɪk ə breɪk/
+6. **Japanese** : (n) người Nhật /ˌdʒæpəˈniːz/
+7. **live** : (v) sống /lɪv/
+8. **long** : (adj) dài /lɒŋ/
+9. **life** : (n) cuộc sống /laɪf/
+10. **main** : (adj) chính /meɪn/
+11. **reason** : (n) lý do /ˈriːzn/
+12. **diet** : (n) chế độ ăn uống /ˈdaɪət/
+13. **eat** : (v) ăn /iːt/
+14. **fish** : (n) cá /fɪʃ/
+15. **vegetable** : (n) rau củ /ˈvedʒtəbl/
+16. **cook** : (v) nấu ăn /kʊk/
+17. **little** : (adj) ít /ˈlɪtl/
+18. **cooking oil** : (n) dầu ăn /ˈkʊkɪŋ ɔɪl/
+19. **tofu** : (n) đậu phụ /ˈtəʊfuː/
+20. **product** : (n) sản phẩm /ˈprɒdʌkt/
+21. **soybean** : (n) đậu nành /ˈsɔɪbiːn/
+22. **protein** : (n) chất đạm /ˈprəʊtiːn/
+23. **vitamin B** : (n) vitamin B /ˈvɪtəmɪn biː/
+24. **fat** : (n) chất béo /fæt/
+25. **work** : (v) làm việc /wɜːk/
+26. **hard** : (adj) chăm chỉ /hɑːd/
+27. **outdoor** : (adj) ngoài trời /ˈaʊtdɔː/
+28. **activity** : (n) hoạt động /ækˈtɪvɪti/
+29. **help** : (v) giúp đỡ /help/
+30. **keep** : (v) giữ /kiːp/
+31. **fit** : (adj) cân đối /fɪt/
 
 ### 🗣️ Activities - Hoạt động
 
@@ -392,22 +418,22 @@ Người Nhật sống lâu. Nguyên nhân chính là do chế độ ăn uống 
 
 ### 📚 Vocabulary - Từ vựng
 1. **skin condition** : (n) tình trạng da /skɪn kənˈdɪʃən/
-1. **red spots** : (n) đốm đỏ /red spɒts/
-1. **face and back** : (n) mặt và lưng /feɪs ənd bæk/
-1. **young people** : (n) người trẻ /jʌŋ ˈpiːpl/
-1. **serious disease** : (n) bệnh nghiêm trọng /ˈsɪəriəs dɪˈziːz/
-1. **avoid it** : (v) tránh nó /əˈvɔɪd ɪt/
-1. **taking care of skin** : (v) chăm sóc da /ˈteɪkɪŋ keə ɒv skɪn/
-1. **go to bed early** : (v) đi ngủ sớm /ɡəʊ tuː bed ˈɜːli/
-1. **get enough sleep** : (v) ngủ đủ giấc /ɡet ɪˈnʌf sliːp/
-1. **eat more fruit and vegetables** : (v) ăn nhiều trái cây và rau củ /iːt mɔː fruːt ənd ˈvedʒtəblz/
-1. **less fast food** : (n) ít đồ ăn nhanh /les fɑːst fuːd/
-1. **wash your face** : (v) rửa mặt /wɒʃ jɔː feɪs/
-1. **special soap for acne** : (n) xà phòng đặc biệt cho mụn /ˈspeʃəl səʊp fɔːr ˈækni/
-1. **more than twice a day** : (adv) hơn hai lần một ngày /mɔː ðæn twaɪs ə deɪ/
-1. **touch or pop spots** : (v) chạm hoặc nặn mụn /tʌtʃ ɔː pɒp spɒts/
-1. **hands are dirty** : (n) tay bẩn /hændz ɑː ˈdɜːti/
-1. **see a doctor** : (v) gặp bác sĩ /siː ə ˈdɒktə/
+2. **red spots** : (n) đốm đỏ /red spɒts/
+3. **face and back** : (n) mặt và lưng /feɪs ənd bæk/
+4. **young people** : (n) người trẻ /jʌŋ ˈpiːpl/
+5. **serious disease** : (n) bệnh nghiêm trọng /ˈsɪəriəs dɪˈziːz/
+6. **avoid it** : (v) tránh nó /əˈvɔɪd ɪt/
+7. **taking care of skin** : (v) chăm sóc da /ˈteɪkɪŋ keə ɒv skɪn/
+8. **go to bed early** : (v) đi ngủ sớm /ɡəʊ tuː bed ˈɜːli/
+9. **get enough sleep** : (v) ngủ đủ giấc /ɡet ɪˈnʌf sliːp/
+10. **eat more fruit and vegetables** : (v) ăn nhiều trái cây và rau củ /iːt mɔː fruːt ənd ˈvedʒtəblz/
+11. **less fast food** : (n) ít đồ ăn nhanh /les fɑːst fuːd/
+12. **wash your face** : (v) rửa mặt /wɒʃ jɔː feɪs/
+13. **special soap for acne** : (n) xà phòng đặc biệt cho mụn /ˈspeʃəl səʊp fɔːr ˈækni/
+14. **more than twice a day** : (adv) hơn hai lần một ngày /mɔː ðæn twaɪs ə deɪ/
+15. **touch or pop spots** : (v) chạm hoặc nặn mụn /tʌtʃ ɔː pɒp spɒts/
+16. **hands are dirty** : (n) tay bẩn /hændz ɑː ˈdɜːti/
+17. **see a doctor** : (v) gặp bác sĩ /siː ə ˈdɒktə/
 
 ### 📖 Reading - Đọc
 
@@ -492,19 +518,24 @@ d. small, red spots
 
 ### 📚 Vocabulary - Từ vựng
 1. **when** : (adv) khi nào /wen/
-1. **breakfast** : (n) bữa sáng /ˈbrekfəst/
-1. **lunch** : (n) bữa trưa /lʌntʃ/
-1. **dinner** : (n) bữa tối /ˈdɪnə/
-1. **meal** : (n) bữa ăn /miːl/
-1. **habit** : (n) thói quen /ˈhæbɪt/
-1. **mention** : (v) đề cập /ˈmenʃn/
-1. **avoid** : (v) tránh /əˈvɔɪd/
-1. **virus** : (n) vi-rút /ˈvaɪrəs/
-1. **germ** : (n) vi trùng /dʒɜːm/
-1. **mask** : (n) khẩu trang /mɑːsk/
-1. **crowd** : (n) đám đông /kraʊd/
-1. **soap** : (n) xà phòng /səʊp/
-1. **clean** : (adj) sạch /kliːn/
+2. **breakfast** : (n) bữa sáng /ˈbrekfəst/
+3. **lunch** : (n) bữa trưa /lʌntʃ/
+4. **dinner** : (n) bữa tối /ˈdɪnə/
+5. **meal** : (n) bữa ăn /miːl/
+6. **habit** : (n) thói quen /ˈhæbɪt/
+7. **mention** : (v) đề cập /ˈmenʃn/
+8. **avoid** : (v) tránh /əˈvɔɪd/
+9. **disease** : (n) bệnh /dɪˈziːz/
+10. **vitamin** : (n) vitamin /ˈvɪtəmɪn/
+11. **eight hours** : (n) tám giờ /eɪt ˈaʊəz/
+12. **tidy and clean** : (adj) gọn gàng và sạch sẽ /ˈtaɪdi ənd kliːn/
+13. **on fine day** : (adv) vào ngày đẹp trời /ɒn faɪn deɪ/
+14. **virus** : (n) vi-rút /ˈvaɪrəs/
+15. **germ** : (n) vi trùng /dʒɜːm/
+16. **mask** : (n) khẩu trang /mɑːsk/
+17. **crowd** : (n) đám đông /kraʊd/
+18. **soap** : (n) xà phòng /səʊp/
+19. **clean** : (adj) sạch /kliːn/
 
 ### 👂 Listening - Nghe
 
@@ -560,11 +591,31 @@ To stay safe from viruses, follow these steps. First, wear a mask to cover your 
 ### 📚 Vocabulary Review - Ôn tập từ vựng
 
 Complete vocabulary list for Unit 2:
-- healthy food, exercise regularly, skin condition, fast food, soft drinks
-- eating too much, going to bed late, harmful to our health
-- indoors and outdoors, always busy, good for your health
-- everything in order, in good shape, not clean
-- less fast food, eat less sweetened food, put on weight, stay fit
+1. **healthy food** : (n) thực phẩm lành mạnh /ˈhelθi fuːd/
+2. **exercise regularly** : (v) tập thể dục đều đặn /ˈeksəsaɪz ˈreɡjʊləli/
+3. **skin condition** : (n) tình trạng da /skɪn kənˈdɪʃən/
+4. **fast food** : (n) đồ ăn nhanh /fɑːst fuːd/
+5. **soft drinks** : (n) đồ uống có ga /sɒft drɪŋks/
+6. **eating too much** : (v) ăn quá nhiều /ˈiːtɪŋ tuː mʌtʃ/
+7. **going to bed late** : (v) đi ngủ muộn /ˈɡəʊɪŋ tuː bed leɪt/
+8. **harmful to our health** : (adj) có hại cho sức khỏe của chúng ta /ˈhɑːmfʊl tuː aʊə helθ/
+9. **indoors and outdoors** : (adv) trong nhà và ngoài trời /ˌɪnˈdɔːz ənd ˈaʊtdɔːz/
+10. **always busy** : (adj) luôn bận rộn /ˈɔːlweɪz ˈbɪzi/
+11. **good for your health** : (adj) tốt cho sức khỏe của bạn /ɡʊd fɔː jɔː helθ/
+12. **everything in order** : (adj) mọi thứ đều ngăn nắp /ˈevriθɪŋ ɪn ˈɔːdə/
+13. **in good shape** : (adj) trong tình trạng tốt /ɪn ɡʊd ʃeɪp/
+14. **not clean** : (adj) không sạch /nɒt kliːn/
+15. **less fast food** : (n) ít đồ ăn nhanh /les fɑːst fuːd/
+16. **eat less sweetened food** : (v) ăn ít đồ ăn ngọt hơn /iːt les ˈswiːtnd fuːd/
+17. **put on weight** : (v) tăng cân /pʊt ɒn weɪt/
+18. **stay fit** : (v) giữ dáng /steɪ fɪt/
+19. **change into simple ones** : (v) đổi thành những cái đơn giản /tʃeɪndʒ ˈɪntuː ˈsɪmpl wʌnz/
+20. **both A and B** : (n) cả A và B /bəʊθ eɪ ənd biː/
+21. **looks dark** : (adj) trông tối tăm /lʊks dɑːk/
+22. **looks untidy** : (adj) trông bừa bộn /lʊks ʌnˈtaɪdi/
+23. **exercise regularly** : (v) tập thể dục đều đặn /ˈeksəsaɪz ˈreɡjʊləli/
+24. **eats a lot of fruit** : (v) ăn nhiều trái cây /iːts ə lɒt ɒv fruːt/
+25. **eats a lot of vegetables** : (v) ăn nhiều rau /iːts ə lɒt ɒv ˈvedʒtəblz/
 
 ### ✍️ Exercises - Bài tập
 
@@ -604,7 +655,7 @@ Complete vocabulary list for Unit 2:
 
 1. Asians eat a lot of rice, but Europeans don't.
 2. Most children love fast food and soft drinks. ✓
-3. There is a lot of fresh air in the countryside.
+3. There is a lot of fresh air in the countryside. ✓
 4. Eat less sweetened food, and you won't put on weight.
 5. Hard-working people often stay fit. ✓
 
