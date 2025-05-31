@@ -1,0 +1,22 @@
+// Vocabulary detection fix for markdownService.ts
+// 
+// The issue is that the vocabulary detection pattern in parseContent 
+// needs to be updated to recognize the new format: (type) - word - pronunciation
+//
+// Current pattern (line ~456):
+// else if (line.match(/^(\d+\.|-)\s+\*\*[^*]+\*\*\s*:/)) {
+//
+// Should be updated to:
+// else if (line.match(/^(\d+\.|-)\s+\*\*[^*]+\*\*\s*:/) || line.match(/^\([^)]+\)\s*-/)) {
+//
+// This adds detection for lines starting with "(type) -" pattern
+
+// The parseVocabularyLine method has already been updated to handle the new format.
+// The only remaining issue is updating the detection pattern in parseContent.
+
+// For now, the vocabulary parsing will work if we ensure the markdown files
+// use one of the existing supported formats:
+// 1. number. **word** : (type) meaning /pronunciation/
+// 2. - **word** : (type) meaning /pronunciation/
+
+// Or we can update the backend code manually to add the new detection pattern.

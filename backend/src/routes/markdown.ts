@@ -24,4 +24,19 @@ router.get('/content', async (req, res) => {
   }
 });
 
+router.get('/raw', async (req, res) => {
+  const { path } = req.query;
+  if (!path || typeof path !== 'string') {
+    return res.status(400).json({ error: 'Path parameter is required' });
+  }
+  
+  const rawContent = await markdownService.getRawContent(path);
+  
+  if (rawContent !== null) {
+    res.type('text/plain').send(rawContent);
+  } else {
+    res.status(404).json({ error: 'File not found' });
+  }
+});
+
 export default router;

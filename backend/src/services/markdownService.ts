@@ -245,6 +245,9 @@ export class MarkdownService {
     let currentExercise: any = null;
     let currentExercisePart: any = null;
     let exerciseBuffer: string[] = [];
+    
+    console.log('\n=== STARTING CONTENT PARSING ===');
+    console.log(`Total lines to parse: ${lines.length}`);
 
     const flushContent = () => {
       if (currentContent.length > 0) {
@@ -281,6 +284,11 @@ export class MarkdownService {
     };
 
     lines.forEach((line, index) => {
+      // Debug logging for vocabulary section
+      if (currentSubsection?.type === 'vocabulary' || currentSection?.title?.toLowerCase().includes('vocabulary')) {
+        console.log(`\n[Line ${index}] Processing in vocabulary section: "${line.substring(0, 50)}${line.length > 50 ? '...' : ''}"`);
+      }
+      
       // Main heading
       if (line.match(/^#\s+/)) {
         flushContent();
@@ -425,9 +433,9 @@ export class MarkdownService {
         lines.splice(index + 1, table.endIndex - index);
       }
       // Vocabulary items - both numbered and bullet formats
-      else if (line.match(/^(\d+\.|-)\s+\*\*[^*]+\*\*\s*:/)) {
-        flushContent();
+else if (line.match(/^(\d+\.|-)\s*\*\*[^*]+\*\*\s*:/) || line.match(/^\([^)]+\)\s*-/)) {          flushContent();
         const vocab = this.parseVocabularyLine(line);
+        console.log('Parsed vocabulary:', vocab);
         if (vocab) {
           const target = currentSubsection || currentSection;
           if (target) {
@@ -486,17 +494,52 @@ export class MarkdownService {
     return sections;
   }
 
+  async getRawContent(relativePath: string): Promise<string | null> {
+    try {
+      const filePath = path.join(this.markdownDir, relativePath);
+      const fileContent = await fs.readFile(filePath, 'utf-8');
+      const { content } = matter(fileContent);
+      return content;
+    } catch (error) {
+      console.error('Error reading raw file:', error);
+      return null;
+    }
+  }
+
   private parseVocabularyLine(line: string): Vocabulary | null {
+    console.log('\n--- parseVocabularyLine called ---');
+    console.log(`Input line: "${line}"`);
+    
     // Pattern 1: number. **word** : (type) meaning /pronunciation/
     // Pattern 2: - **word** : (type) meaning /pronunciation/
     // Pattern 3: **word** : meaning (simpler format)
+    // Pattern 4: (type) - word - pronunciation (new format from screenshot)
+    
+    // Try the new format first: (adj) - word - pronunciation
+    const newFormatMatch = line.match(/^\(([^)]+)\)\s*-\s*([^-]+)\s*-\s*(.+)$/);
+    console.log('Testing new format regex:', newFormatMatch);
+    if (newFormatMatch) {
+      const result = {
+        type: 'vocabulary',
+        partOfSpeech: newFormatMatch[1].trim(),
+        word: newFormatMatch[2].trim(),
+        meaning: '', // No meaning in this format
+        pronunciation: newFormatMatch[3].trim()
+      };
+      console.log('Matched new format:', result);
+      return result;
+    }
+    
     const numberedMatch = line.match(/^(\d+)\.\s+\*\*([^*]+)\*\*\s*:\s*(?:\(([^)]+)\)\s*)?([^/]+)(?:\/([^/]+)\/)?/);
+    console.log('Testing numbered format regex:', numberedMatch);
+    
     const bulletMatch = line.match(/^-\s+\*\*([^*]+)\*\*\s*:\s*(?:\(([^)]+)\)\s*)?([^/]+)(?:\/([^/]+)\/)?/);
+    console.log('Testing bullet format regex:', bulletMatch);
     
     const match = numberedMatch || bulletMatch;
     if (match) {
       if (numberedMatch) {
-        return {
+        const result = {
           type: 'vocabulary',
           number: match[1],
           word: match[2].trim(),
@@ -504,17 +547,22 @@ export class MarkdownService {
           meaning: match[4].trim(),
           pronunciation: match[5]?.trim()
         };
+        console.log('Matched numbered format:', result);
+        return result;
       } else {
-        return {
+        const result = {
           type: 'vocabulary',
           word: match[1].trim(),
           partOfSpeech: match[2]?.trim(),
           meaning: match[3].trim(),
           pronunciation: match[4]?.trim()
         };
+        console.log('Matched bullet format:', result);
+        return result;
       }
     }
     
+    console.log('No vocabulary pattern matched');
     return null;
   }
 

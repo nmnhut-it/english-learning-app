@@ -1,0 +1,78 @@
+/* Print styles for Plain Markdown Viewer */
+
+@media print {
+  /* Hide UI elements during print */
+  .MuiPaper-root,
+  .MuiDrawer-root,
+  .MuiFab-root,
+  .MuiLinearProgress-root,
+  .MuiCollapse-root {
+    display: none !important;
+  }
+
+  /* Optimize content for printing */
+  body {
+    font-size: 12pt;
+    line-height: 1.5;
+    color: #000;
+    background: #fff;
+  }
+
+  /* Ensure proper page breaks */
+  h1, h2, h3 {
+    page-break-after: avoid;
+  }
+
+  h1 {
+    font-size: 24pt;
+  }
+
+  h2 {
+    font-size: 20pt;
+  }
+
+  h3 {
+    font-size: 16pt;
+  }
+
+  /* Prevent page breaks inside elements */
+  p, blockquote, ul, ol, table {
+    page-break-inside: avoid;
+  }
+
+  /* Tables */
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+  th, td {
+    border: 1px solid #333;
+    padding: 8px;
+  }
+
+  /* Code blocks */
+  pre, code {
+    font-family: monospace;
+    font-size: 10pt;
+    background: #f5f5f5;
+    border: 1px solid #ddd;
+  }
+
+  /* Links */
+  a {
+    color: #000;
+    text-decoration: underline;
+  }
+
+  /* Remove shadows and unnecessary styling */
+  * {
+    box-shadow: none !important;
+    text-shadow: none !important;
+  }
+
+  /* Page margins */
+  @page {
+    margin: 2cm;
+  }
+}
