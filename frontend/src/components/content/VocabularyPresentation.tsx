@@ -72,18 +72,18 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({ section
     if (!item) return null;
 
     return (
-      <Box sx={{ py: 1 }}>
-        <Box sx={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', mb: 1 }}>
+      <Box sx={{ py: 0.5 }}>  {/* Reduced padding */}
+        <Box sx={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', mb: 0.5 }}>  {/* Reduced margin */}
           <Typography variant="h5" sx={{ fontWeight: 700, fontSize: `${fontSize * 1.2}px`, display: 'flex', alignItems: 'center', gap: 1 }}>
           📖 {section.title}
           </Typography>
-          <Box sx={{ display: 'flex', gap: 1 }}>
+          <Box sx={{ display: 'flex', gap: 0.5 }}>  {/* Reduced gap */}
             <Button
               variant="outlined"
               size="small"
               onClick={() => setShowVietnamese(!showVietnamese)}
               startIcon={showVietnamese ? <VisibilityIcon /> : <VisibilityOffIcon />}
-              sx={{ fontSize: `${fontSize * 0.75}px` }}
+              sx={{ fontSize: `${fontSize * 0.7}px`, py: 0.5, px: 1.5 }}  {/* Smaller button */}
             >
               Vietnamese
             </Button>
@@ -91,7 +91,7 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({ section
               variant="contained"
               size="small"
               onClick={() => setShowAll(true)}
-              sx={{ fontSize: `${fontSize * 0.75}px` }}
+              sx={{ fontSize: `${fontSize * 0.7}px`, py: 0.5, px: 1.5 }}  {/* Smaller button */}
             >
               Show All
             </Button>
@@ -223,18 +223,18 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({ section
 
   // List view - single line format
   return (
-    <Box sx={{ py: 1 }}>
-      <Box sx={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', mb: 1 }}>
-        <Typography variant="h4" sx={{ fontWeight: 700, fontSize: `${fontSize * 1.2}px`, display: 'flex', alignItems: 'center', gap: 1 }}>
-          📖 {section.title}
+    <Box sx={{ py: 0.5 }}>  {/* Reduced padding */}
+    <Box sx={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', mb: 0.5 }}>  {/* Reduced margin */}
+        <Typography variant="h4" sx={{ fontWeight: 700, fontSize: `${fontSize * 1.15}px`, display: 'flex', alignItems: 'center', gap: 0.5 }}>  {/* Smaller title */}
+        📖 {section.title}
         </Typography>
-        <Box sx={{ display: 'flex', gap: 1 }}>
+        <Box sx={{ display: 'flex', gap: 0.5 }}>  {/* Reduced gap */}
           <Button
             variant="outlined"
             size="small"
             onClick={() => setShowVietnamese(!showVietnamese)}
             startIcon={showVietnamese ? <VisibilityIcon /> : <VisibilityOffIcon />}
-            sx={{ fontSize: `${fontSize * 0.75}px` }}
+            sx={{ fontSize: `${fontSize * 0.7}px`, py: 0.5, px: 1.5 }}  {/* Smaller button */}
           >
             Vietnamese
           </Button>
@@ -242,7 +242,7 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({ section
             variant="contained"
             size="small"
             onClick={() => setShowAll(false)}
-            sx={{ fontSize: `${fontSize * 0.75}px` }}
+            sx={{ fontSize: `${fontSize * 0.7}px`, py: 0.5, px: 1.5 }}  {/* Smaller button */}
           >
             One by One
           </Button>
@@ -252,7 +252,7 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({ section
       <Box sx={{ 
         display: 'flex', 
         flexDirection: 'column', 
-        gap: 1,
+        gap: 0.5,  // Reduced gap from 1
         overflow: 'hidden',
         maxWidth: '100%'
       }}>
@@ -261,13 +261,13 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({ section
             key={index}
             className="vocab-item-glass"
             sx={{
-              p: fontSize >= 20 ? 3 : 2.5,
+              p: fontSize >= 20 ? 1.5 : 1,  // Reduced padding from 3
               cursor: 'pointer',
               transition: 'all 0.3s ease',
               backgroundColor: 'rgba(255, 255, 255, 0.5)',
               borderLeft: '5px solid',
               borderLeftColor: index % 2 === 0 ? 'primary.light' : 'primary.main',
-              mb: 2,
+              mb: 0.75,  // Reduced margin from 2
               '&:hover': {
                 transform: 'translateX(10px)',
                 boxShadow: '0 4px 20px rgba(102, 126, 234, 0.2)',
@@ -280,19 +280,19 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({ section
               setShowAll(false);
             }}
           >
-            {/* Desktop Layout */}
+            {/* Desktop Layout - more compact */}
             <Box sx={{ 
               display: { xs: 'none', md: 'grid' }, 
-              gridTemplateColumns: '50px minmax(150px, 0.7fr) 80px minmax(150px, 0.9fr) minmax(150px, 0.8fr) 50px',
+              gridTemplateColumns: '40px minmax(120px, 0.6fr) 70px minmax(120px, 0.8fr) minmax(120px, 0.7fr) 40px',  // Adjusted columns
               alignItems: 'center',
-              gap: 2,
+              gap: 1.5,  // Reduced gap from 2
               width: '100%'
             }}>
               {/* Number */}
               <Typography
                 variant="h4"
                 sx={{
-                  fontSize: `${fontSize}px`,  // Same as content
+                  fontSize: `${fontSize * 0.9}px`,  // Reduced for compact display
                   color: 'rgba(0, 0, 0, 0.7)',
                   textAlign: 'right',
                   pr: 1
@@ -305,7 +305,7 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({ section
               <Typography
                 variant="h4"
                 sx={{
-                  fontSize: `${fontSize * 1.3}px`,  // Reduced from 2.5x
+                  fontSize: `${fontSize * 1.1}px`,  // Reduced from 1.2x
                   fontWeight: 700,
                   color: '#000000',
                   wordBreak: 'break-word',
@@ -319,7 +319,7 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({ section
               <Typography
                 variant="h4"
                 sx={{
-                  fontSize: `${fontSize}px`,  // Same as content
+                  fontSize: `${fontSize * 0.85}px`,  // Compact size
                   color: 'rgba(0, 0, 0, 0.7)',
                   textAlign: 'center',
                 }}
@@ -332,7 +332,7 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({ section
                 <Typography
                   variant="h4"
                   sx={{
-                    fontSize: `${fontSize * 1.2}px`,  // Reduced from 2.5x
+                    fontSize: `${fontSize}px`,  // Reduced from 1.1x
                     color: showVietnamese ? 'rgba(0, 0, 0, 0.8)' : 'rgba(0, 0, 0, 0.3)',
                     fontWeight: 600,
                     wordBreak: 'break-word',
@@ -347,7 +347,7 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({ section
               <Typography
                 variant="h4"
                 sx={{
-                  fontSize: `${fontSize}px`,  // Same as content
+                  fontSize: `${fontSize * 0.9}px`,  // Compact size
                   fontStyle: 'italic',
                   color: 'rgba(0, 0, 0, 0.6)',
                   wordBreak: 'break-word',
@@ -358,13 +358,13 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({ section
               
               {/* Audio Button */}
               <IconButton
-                size="large"
+                size="medium"  // Reduced from large
                 onClick={(e) => {
                   e.stopPropagation();
                   speak(item.english);
                 }}
               >
-                <VolumeUpIcon sx={{ fontSize: fontSize * 1.2 }} />  {/* Smaller icon */}
+                <VolumeUpIcon sx={{ fontSize: fontSize * 0.9 }} />  {/* Even smaller icon */}
               </IconButton>
             </Box>
             
@@ -415,7 +415,7 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({ section
                   <VolumeUpIcon sx={{ fontSize: 24 }} />
                 </IconButton>
               </Box>
-              <Box sx={{ display: 'flex', flexDirection: 'column', gap: 0.25, pl: 5 }}>
+              <Box sx={{ display: 'flex', flexDirection: 'column', gap: 0.25, pl: 3 }}>  {/* Reduced padding */}
                 <Fade in={showVietnamese} timeout={300}>
                   <Typography
                     variant="h4"

@@ -152,8 +152,8 @@ const ExercisePresentation: React.FC<ExercisePresentationProps> = ({ section, fo
   }, [exercises.length]);
 
   return (
-    <Box sx={{ py: 1 }}>
-      <Box sx={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', mb: 2 }}>
+    <Box sx={{ py: 0.5 }}>  {/* Reduced padding */}
+    <Box sx={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', mb: 1 }}>
         <Typography variant="h3" sx={{ fontWeight: 700, fontSize: `${fontSize * 1.2}px`, color: '#000000' }}>
           {section.title}
         </Typography>
@@ -171,13 +171,13 @@ const ExercisePresentation: React.FC<ExercisePresentationProps> = ({ section, fo
         )}
       </Box>
 
-      <Box sx={{ display: 'flex', flexDirection: 'column', gap: 1.5 }}>
+      <Box sx={{ display: 'flex', flexDirection: 'column', gap: 1 }}>  {/* Reduced gap */}
         {exercises.map((exercise, index) => (
-          <Card key={index} className="glass-card" sx={{ overflow: 'hidden', mb: 2 }}>
+          <Card key={index} className="glass-card" sx={{ overflow: 'hidden', mb: 1 }}>  {/* Reduced margin */}
             {/* Exercise Header */}
             <Box
               sx={{
-                p: 2,
+                p: 1.5,  // Reduced padding
                 backgroundColor: 'rgba(0, 208, 132, 0.08)',
                 display: 'flex',
                 justifyContent: 'space-between',
@@ -211,7 +211,7 @@ const ExercisePresentation: React.FC<ExercisePresentationProps> = ({ section, fo
 
             <Collapse in={expandedExercises[index]}>
               {/* Exercise Content */}
-              <Box sx={{ p: 3 }}>
+              <Box sx={{ p: 2 }}>  {/* Reduced padding */}
                 <Box sx={{ 
                   fontSize: `${fontSize}px`,  // Same as content, not 1.5x
                   '& p': { mb: 2, fontSize: 'inherit' },

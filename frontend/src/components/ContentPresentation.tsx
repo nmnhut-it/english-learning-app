@@ -26,10 +26,10 @@ const ContentPresentation: React.FC<ContentPresentationProps> = ({ content, curr
 
     // Always show section title and render all its content
     return (
-      <Box key={section.title} id={sectionId} className="content-section" sx={{ mb: 6 }}>
+      <Box key={section.title} id={sectionId} className="content-section" sx={{ mb: 3 }}>  {/* Reduced margin */}
         <Box 
           sx={{ 
-            mb: 3, 
+            mb: 2,  // Reduced margin
             p: 3,
             background: 'rgba(255, 255, 255, 0.6)',
             backdropFilter: 'blur(10px)',
@@ -54,12 +54,12 @@ const ContentPresentation: React.FC<ContentPresentationProps> = ({ content, curr
         
         {/* Add section-specific labels */}
         {section.type === 'skills-1' && (
-          <Typography variant="h4" sx={{ mb: 2, color: '#000000', fontSize: `${fontSize * 1.1}px`, fontWeight: 600 }}>
+          <Typography variant="h4" sx={{ mb: 1, color: '#000000', fontSize: `${fontSize * 1.1}px`, fontWeight: 600 }}>  {/* Reduced margin */}
             📖 Reading & Speaking
           </Typography>
         )}
         {section.type === 'skills-2' && (
-          <Typography variant="h4" sx={{ mb: 2, color: '#000000', fontSize: `${fontSize * 1.1}px`, fontWeight: 600 }}>
+          <Typography variant="h4" sx={{ mb: 1, color: '#000000', fontSize: `${fontSize * 1.1}px`, fontWeight: 600 }}>  {/* Reduced margin */}
             👂 Listening & Writing
           </Typography>
         )}
@@ -113,7 +113,7 @@ const ContentPresentation: React.FC<ContentPresentationProps> = ({ content, curr
     switch (subsection.subsectionType) {
       case 'vocabulary':
         return (
-          <Box key={key} sx={{ mb: 2 }}>
+          <Box key={key} sx={{ mb: 1 }}>  {/* Reduced margin */}
             <VocabularyPresentation 
               section={{
                 title: subsection.title,

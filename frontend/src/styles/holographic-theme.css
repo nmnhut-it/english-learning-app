@@ -119,14 +119,14 @@
   box-shadow: 0 4px 24px rgba(0, 208, 132, 0.05);
 }
 
-/* Content sections with organic depth */
+/* Content sections with organic depth - compact */
 .content-section {
   background: rgba(255, 255, 255, 0.75);
   backdrop-filter: blur(20px);
   -webkit-backdrop-filter: blur(20px);
   border-radius: 30px;
   border: 1px solid rgba(0, 208, 132, 0.12);
-  padding: 48px;
+  padding: 32px;  /* Reduced from 48px */
   box-shadow: 
     0 10px 40px rgba(0, 208, 132, 0.06),
     inset 0 0 60px rgba(255, 255, 255, 0.5);
@@ -163,11 +163,11 @@
     inset 0 0 20px rgba(255, 255, 255, 0.5);
 }
 
-/* Vocabulary items with botanical style - differentiated by style not size */
+/* Vocabulary items with botanical style - compact display */
 .vocab-item-glass {
   background: rgba(255, 255, 255, 0.8);
   border: 2px solid rgba(0, 208, 132, 0.15);
-  border-radius: 20px;
+  border-radius: 15px;  /* Smaller radius */
   box-shadow: 
     0 4px 16px rgba(0, 208, 132, 0.08),
     inset 0 0 30px rgba(255, 255, 255, 0.5);
@@ -194,7 +194,7 @@
 
 .vocab-item-glass:hover {
   background: rgba(255, 255, 255, 0.95);
-  transform: translateX(12px) scale(1.02);
+  transform: translateX(8px) scale(1.01);  /* Smaller movement */
   border-color: rgba(0, 208, 132, 0.25);
   box-shadow: 
     0 8px 32px rgba(0, 208, 132, 0.15),
