@@ -60,8 +60,15 @@ const VocabularyGame: React.FC<VocabularyGameProps> = ({ open, onClose, vocabula
 
   useEffect(() => {
     if (open && vocabularyItems.length > 0) {
-      // Shuffle items when dialog opens
-      const shuffled = [...vocabularyItems].sort(() => Math.random() - 0.5);
+      // Normalize and shuffle items when dialog opens
+      const normalized = vocabularyItems.map((item: any) => ({
+        ...item,
+        word: item.word || item.english || '',
+        english: item.english || item.word || '',
+        meaning: item.meaning || item.vietnamese || '',
+        vietnamese: item.vietnamese || item.meaning || ''
+      }));
+      const shuffled = [...normalized].sort(() => Math.random() - 0.5);
       setShuffledItems(shuffled);
       resetGame();
     }

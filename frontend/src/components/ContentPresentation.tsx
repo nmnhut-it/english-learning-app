@@ -207,13 +207,17 @@ const ContentPresentation: React.FC<ContentPresentationProps> = ({ content, curr
         </Box>
       );
     } else if (item.type === 'vocabulary') {
+      // Normalize vocabulary fields
+      const word = item.english || item.word || '';
+      const meaning = item.vietnamese || item.meaning || '';
+      
       // Inline vocabulary display
       return (
         <Box key={key} sx={{ mb: 2 }}>
           <Typography variant="body1" sx={{ fontSize: { xs: '1.5rem', sm: '1.75rem', md: '2rem' } }}>
             {item.number && `${item.number}. `}
-            <strong>{item.english}</strong>
-            {item.partOfSpeech && ` (${item.partOfSpeech})`} - {item.vietnamese} - 
+            <strong>{word}</strong>
+            {item.partOfSpeech && ` (${item.partOfSpeech})`} - {meaning} - 
             <em> {item.pronunciation}</em>
           </Typography>
         </Box>
@@ -303,13 +307,17 @@ const ContentPresentation: React.FC<ContentPresentationProps> = ({ content, curr
               </Box>
             );
           } else if (item.type === 'vocabulary') {
+            // Normalize vocabulary fields
+            const word = item.english || item.word || '';
+            const meaning = item.vietnamese || item.meaning || '';
+            
             // Inline vocabulary in generic content
             return (
               <Box key={index} sx={{ mb: 2 }}>
                 <Typography variant="body1" sx={{ fontSize: 'inherit' }}>
                   {item.number && `${item.number}. `}
-                  <strong>{item.english}</strong>
-                  {item.partOfSpeech && ` (${item.partOfSpeech})`} - {item.vietnamese} - 
+                  <strong>{word}</strong>
+                  {item.partOfSpeech && ` (${item.partOfSpeech})`} - {meaning} - 
                   <em> {item.pronunciation}</em>
                 </Typography>
               </Box>

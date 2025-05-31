@@ -30,7 +30,20 @@ const VocabularySection: React.FC<VocabularySectionProps> = ({ section }) => {
   console.log('\n=== VocabularySection Debug ===');
   console.log('Full section object:', JSON.stringify(section, null, 2).substring(0, 500) + '...');
   
-  const vocabItems = section.content.filter((item: any) => item.type === 'vocabulary');
+  // Normalize vocabulary items to ensure field compatibility
+  const vocabItems = section.content
+    .filter((item: any) => item.type === 'vocabulary')
+    .map((item: any) => {
+      // Create a normalized item with both field naming conventions
+      return {
+        ...item,
+        // Ensure both field names are available
+        word: item.word || item.english || '',
+        english: item.english || item.word || '',
+        meaning: item.meaning || item.vietnamese || '',
+        vietnamese: item.vietnamese || item.meaning || ''
+      };
+    });
   
   console.log('VocabularySection render:');
   console.log('  section:', section);
@@ -71,16 +84,14 @@ const VocabularySection: React.FC<VocabularySectionProps> = ({ section }) => {
           <Collapse in={expanded}>
             <Grid container spacing={{ xs: 1, sm: 1.5, md: 2 }} sx={{ mt: 1 }}>
               {vocabItems.map((item: VocabularyItem, index: number) => {
-                console.log('Vocabulary item:', item); // Debug log
-                console.log('  item.word:', item.word);
-                console.log('  item.english:', item.english);
-                console.log('  item.meaning:', item.meaning);
-                console.log('  item.vietnamese:', item.vietnamese);
-                // Handle both old and new vocabulary formats
-                const word = item.english || item.word || '';
-                const meaning = item.vietnamese || item.meaning || '';
-                console.log('  Final word:', word);
-                console.log('  Final meaning:', meaning);
+                // Debug logging (can be removed once working)
+                if (index === 0) {
+                  console.log('First normalized vocabulary item:', item);
+                }
+                
+                // Use the normalized fields
+                const word = item.word || '';
+                const meaning = item.meaning || '';
                 
                 return (
                   <Grid item xs={12} sm={6} md={4} lg={3} key={index}>

@@ -125,13 +125,31 @@ function App() {
         params: { path }
       });
       
+      console.log('\n=== API Response ===');
+      console.log('response.data:', response.data);
+      console.log('typeof response.data.content:', typeof response.data.content);
+      
+      const parsedContent = JSON.parse(response.data.content);
+      console.log('\n=== Parsed Content ===');
+      console.log('parsedContent:', parsedContent);
+      
+      // Check vocabulary in parsed content
+      if (parsedContent[0]?.sections?.[0]?.subsections) {
+        const vocabSubsection = parsedContent[0].sections[0].subsections.find((sub: any) => sub.type === 'vocabulary');
+        if (vocabSubsection) {
+          console.log('\n=== Vocabulary Subsection Found ===');
+          console.log('First vocab item:', vocabSubsection.content[0]);
+          console.log('Type of first item:', typeof vocabSubsection.content[0]);
+        }
+      }
+      
       // Also fetch raw content for plain view
       const rawResponse = await axios.get(`${API_URL}/markdown/raw`, {
         params: { path }
       });
       
       setSelectedFile(path);
-      setContent(JSON.parse(response.data.content));
+      setContent(parsedContent);
       setRawContent(rawResponse.data);
       setHeadings(response.data.headings);
     } catch (error) {

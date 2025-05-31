@@ -25,7 +25,19 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({ section
   const [showVietnamese, setShowVietnamese] = useState(true);
   const { speak } = useTextToSpeech();
 
-  const vocabItems = section.content?.filter((item: any) => item.type === 'vocabulary') || [];
+  // Normalize vocabulary items to ensure field compatibility
+  const vocabItems = (section.content?.filter((item: any) => item.type === 'vocabulary') || [])
+    .map((item: any) => {
+      // Create a normalized item with both field naming conventions
+      return {
+        ...item,
+        // Ensure both field names are available
+        word: item.word || item.english || '',
+        english: item.english || item.word || '',
+        meaning: item.meaning || item.vietnamese || '',
+        vietnamese: item.vietnamese || item.meaning || ''
+      };
+    });
 
   const handlePrevious = () => {
     setCurrentIndex(Math.max(0, currentIndex - 1));
