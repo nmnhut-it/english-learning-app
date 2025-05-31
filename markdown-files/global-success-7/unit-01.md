@@ -495,7 +495,7 @@ Each of my best friends has his or her own hobby. Mi (1) **loves** drawing. She 
    → This river **doesn't run** through my home town.
 
 2. **Does** your drawing class **start** at 8 a.m. every Sunday?
-   → My drawing class **starts** at 8 a.m. every Sunday.
+   → My drawing class **doesn't start** at 8 a.m. every Sunday.
 
 3. **Do** they **enjoy** collecting stamps?
    → They **don't enjoy** collecting stamps.
