@@ -61,53 +61,61 @@ const VocabularySection: React.FC<VocabularySectionProps> = ({ section }) => {
           
           <Collapse in={expanded}>
             <Grid container spacing={{ xs: 1, sm: 1.5, md: 2 }} sx={{ mt: 1 }}>
-              {vocabItems.map((item: VocabularyItem, index: number) => (
-                <Grid item xs={12} sm={6} md={4} lg={3} key={index}>
-                  <Card variant="outlined" sx={{ 
-                    p: 1.5, 
-                    height: '100%',
-                    display: 'flex',
-                    flexDirection: 'column',
-                    gap: 0.5
-                  }}>
-                    <Box sx={{ display: 'flex', alignItems: 'center', gap: 1 }}>
-                      <Typography variant="subtitle1" sx={{ 
-                        fontWeight: 600,
-                        fontSize: { xs: '0.95rem', sm: '1rem' },
-                        flex: 1
-                      }}>
-                        {item.english}
-                      </Typography>
-                      <IconButton 
-                        size="small" 
-                        onClick={() => speak(item.english)}
-                        sx={{ p: 0.5 }}
-                      >
-                        <VolumeUpIcon sx={{ fontSize: 18 }} />
-                      </IconButton>
-                    </Box>
-                    <Box sx={{ display: 'flex', alignItems: 'center', gap: 0.5 }}>
-                      {item.partOfSpeech && (
+              {vocabItems.map((item: VocabularyItem, index: number) => {
+                // Handle both old and new vocabulary formats
+                const word = item.english || item.word || '';
+                const meaning = item.vietnamese || item.meaning || '';
+                
+                return (
+                  <Grid item xs={12} sm={6} md={4} lg={3} key={index}>
+                    <Card variant="outlined" sx={{ 
+                      p: 1.5, 
+                      height: '100%',
+                      display: 'flex',
+                      flexDirection: 'column',
+                      gap: 0.5
+                    }}>
+                      <Box sx={{ display: 'flex', alignItems: 'center', gap: 1 }}>
+                        <Typography variant="subtitle1" sx={{ 
+                          fontWeight: 600,
+                          fontSize: { xs: '0.95rem', sm: '1rem' },
+                          flex: 1
+                        }}>
+                          {item.number && `${item.number}. `}{word}
+                        </Typography>
+                        <IconButton 
+                          size="small" 
+                          onClick={() => speak(word)}
+                          sx={{ p: 0.5 }}
+                        >
+                          <VolumeUpIcon sx={{ fontSize: 18 }} />
+                        </IconButton>
+                      </Box>
+                      <Box sx={{ display: 'flex', alignItems: 'center', gap: 0.5 }}>
+                        {item.partOfSpeech && (
+                          <Chip
+                            label={item.partOfSpeech}
+                            size="small"
+                            color="primary"
+                            sx={{ fontSize: '0.7rem', height: 20 }}
+                          />
+                        )}
+                        <Typography variant="body2" color="text.secondary" sx={{ fontSize: '0.875rem' }}>
+                          {meaning}
+                        </Typography>
+                      </Box>
+                      {item.pronunciation && (
                         <Chip
-                          label={item.partOfSpeech}
+                          label={`/${item.pronunciation}/`}
                           size="small"
-                          color="primary"
-                          sx={{ fontSize: '0.7rem', height: 20 }}
+                          variant="outlined"
+                          sx={{ fontSize: '0.75rem', height: 24, alignSelf: 'flex-start' }}
                         />
                       )}
-                      <Typography variant="body2" color="text.secondary" sx={{ fontSize: '0.875rem' }}>
-                        {item.vietnamese}
-                      </Typography>
-                    </Box>
-                    <Chip
-                      label={item.pronunciation}
-                      size="small"
-                      variant="outlined"
-                      sx={{ fontSize: '0.75rem', height: 24, alignSelf: 'flex-start' }}
-                    />
-                  </Card>
-                </Grid>
-              ))}
+                    </Card>
+                  </Grid>
+                );
+              })}
             </Grid>
           </Collapse>
         </CardContent>

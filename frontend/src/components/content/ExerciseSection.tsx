@@ -14,6 +14,7 @@ import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
 import ExpandLessIcon from '@mui/icons-material/ExpandLess';
 import VisibilityIcon from '@mui/icons-material/Visibility';
 import VisibilityOffIcon from '@mui/icons-material/VisibilityOff';
+import TableRenderer from './TableRenderer';
 
 interface ExerciseSectionProps {
   section: any;
@@ -27,11 +28,8 @@ interface ExercisePartProps {
 const ExercisePart: React.FC<ExercisePartProps> = ({ part, showAnswer }) => {
   return (
     <Box sx={{ ml: 2, mb: 1 }}>
-      <Typography variant="body1" sx={{ fontWeight: 500 }}>
-        {part.label})
-      </Typography>
-      <Typography variant="body1" sx={{ ml: 2, whiteSpace: 'pre-wrap' }}>
-        {part.content}
+      <Typography variant="body1" component="div">
+        <strong>{part.label})</strong> {part.content}
       </Typography>
       {part.answer && showAnswer && (
         <Alert severity="info" sx={{ ml: 2, mt: 1 }}>
@@ -44,7 +42,19 @@ const ExercisePart: React.FC<ExercisePartProps> = ({ part, showAnswer }) => {
 
 const ExerciseSection: React.FC<ExerciseSectionProps> = ({ section }) => {
   const [expanded, setExpanded] = useState(true);
-  const [showAnswers, setShowAnswers] = useState(false);
+  const [showAllAnswers, setShowAllAnswers] = useState(false);
+  const [individualAnswers, setIndividualAnswers] = useState<Record<number, boolean>>({});
+  
+  // Count total exercises
+  const exerciseCount = section.content?.filter((item: any) => item.type === 'exercise').length || 0;
+  const hasExercises = exerciseCount > 0;
+  
+  const toggleIndividualAnswer = (index: number) => {
+    setIndividualAnswers(prev => ({
+      ...prev,
+      [index]: !prev[index]
+    }));
+  };
   
   const renderContent = () => {
     if (!section.content) return null;
@@ -52,17 +62,19 @@ const ExerciseSection: React.FC<ExerciseSectionProps> = ({ section }) => {
     return section.content.map((item: any, index: number) => {
       // Handle exercise type
       if (item.type === 'exercise') {
+        const showAnswer = showAllAnswers || individualAnswers[index];
+        
         return (
           <Box key={index} sx={{ mb: 3, p: 2, bgcolor: 'grey.50', borderRadius: 1 }}>
             {/* Exercise Header */}
             <Typography variant="h6" sx={{ fontWeight: 600, mb: 1 }}>
-              Bài {item.number}: {item.title}
+              {item.number && `Bài ${item.number}: `}{item.title}
             </Typography>
             
-            {/* Exercise Instruction */}
-            {item.instruction && (
-              <Typography variant="body1" sx={{ mb: 2, fontStyle: 'italic' }}>
-                {item.instruction}
+            {/* Vietnamese Instruction */}
+            {item.instruction && item.instruction.trim() && (
+              <Typography variant="body2" sx={{ mb: 2, fontStyle: 'italic', color: 'text.secondary' }}>
+                ({item.instruction})
               </Typography>
             )}
             
@@ -73,30 +85,33 @@ const ExerciseSection: React.FC<ExerciseSectionProps> = ({ section }) => {
                   <ExercisePart 
                     key={partIndex} 
                     part={part} 
-                    showAnswer={showAnswers}
+                    showAnswer={showAnswer}
                   />
                 ))}
               </Box>
             )}
             
+            {/* Table if present */}
+            {item.table && <TableRenderer table={item.table} />}
+            
             {/* Answer Section */}
             {item.answer && (
               <Box sx={{ mt: 2 }}>
-                <Divider sx={{ mb: 2 }} />
-                <Box sx={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
-                  <Typography variant="subtitle1" sx={{ fontWeight: 600 }}>
-                    Đáp án:
-                  </Typography>
+                {!showAllAnswers && (
                   <Button
                     size="small"
-                    startIcon={showAnswers ? <VisibilityOffIcon /> : <VisibilityIcon />}
-                    onClick={() => setShowAnswers(!showAnswers)}
+                    startIcon={individualAnswers[index] ? <VisibilityOffIcon /> : <VisibilityIcon />}
+                    onClick={() => toggleIndividualAnswer(index)}
+                    sx={{ mb: 1 }}
                   >
-                    {showAnswers ? 'Ẩn' : 'Hiện'} đáp án
+                    {individualAnswers[index] ? 'ẨN' : 'HIỆN'} ĐÁP ÁN
                   </Button>
-                </Box>
-                <Collapse in={showAnswers}>
-                  <Alert severity="success" sx={{ mt: 1 }}>
+                )}
+                <Collapse in={showAnswer}>
+                  <Alert severity="success">
+                    <Typography variant="subtitle2" sx={{ fontWeight: 600, mb: 1 }}>
+                      {item.answerTitle || 'Đáp án'}:
+                    </Typography>
                     <Typography variant="body2" sx={{ whiteSpace: 'pre-wrap' }}>
                       {item.answer}
                     </Typography>
@@ -104,6 +119,15 @@ const ExerciseSection: React.FC<ExerciseSectionProps> = ({ section }) => {
                 </Collapse>
               </Box>
             )}
+          </Box>
+        );
+      }
+      
+      // Handle table type
+      else if (item.type === 'table') {
+        return (
+          <Box key={index} sx={{ mb: 2 }}>
+            <TableRenderer table={item} />
           </Box>
         );
       }
@@ -180,7 +204,11 @@ const ExerciseSection: React.FC<ExerciseSectionProps> = ({ section }) => {
           <Box key={index} sx={{ ml: 2, mb: 1 }}>
             <Typography variant="body1">
               {item.number && `${item.number}. `}
-              <strong>{item.english}</strong> - {item.vietnamese}
+              <strong>{item.word}</strong>
+              {item.partOfSpeech && ` (${item.partOfSpeech})`}
+              {' - '}
+              {item.meaning}
+              {item.pronunciation && ` /${item.pronunciation}/`}
             </Typography>
           </Box>
         );
@@ -200,11 +228,23 @@ const ExerciseSection: React.FC<ExerciseSectionProps> = ({ section }) => {
             fontWeight: 500,
             fontSize: { xs: '1.1rem', sm: '1.25rem' }
           }}>
-            ✍️ {section.title || 'Exercises'}
+            ✍️ {section.title || 'Exercises - Bài tập'}
           </Typography>
-          <IconButton onClick={() => setExpanded(!expanded)}>
-            {expanded ? <ExpandLessIcon /> : <ExpandMoreIcon />}
-          </IconButton>
+          <Box sx={{ display: 'flex', alignItems: 'center', gap: 1 }}>
+            {hasExercises && (
+              <Button
+                size="small"
+                variant="outlined"
+                startIcon={showAllAnswers ? <VisibilityOffIcon /> : <VisibilityIcon />}
+                onClick={() => setShowAllAnswers(!showAllAnswers)}
+              >
+                {showAllAnswers ? 'ẨN' : 'HIỆN'} TẤT CẢ ĐÁP ÁN
+              </Button>
+            )}
+            <IconButton onClick={() => setExpanded(!expanded)}>
+              {expanded ? <ExpandLessIcon /> : <ExpandMoreIcon />}
+            </IconButton>
+          </Box>
         </Box>
 
         <Collapse in={expanded}>

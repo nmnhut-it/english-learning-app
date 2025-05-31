@@ -30,6 +30,67 @@ export interface Heading {
   level: number;
 }
 
+// Enhanced content types
+export interface Exercise {
+  type: 'exercise';
+  number: string;
+  title: string;
+  instruction?: string;
+  parts?: ExercisePart[];
+  answer?: string;
+  answerTitle?: string;
+  options?: string[];
+  table?: TableData;
+  inAnswerSection?: boolean;
+}
+
+export interface ExercisePart {
+  label: string;
+  content: string;
+  subParts?: ExercisePart[];
+}
+
+export interface Dialogue {
+  type: 'dialogue';
+  speaker: string;
+  text: string;
+  translation?: string;
+}
+
+export interface Vocabulary {
+  type: 'vocabulary';
+  number?: string;
+  word: string;
+  partOfSpeech?: string;
+  meaning: string;
+  pronunciation?: string;
+}
+
+export interface Grammar {
+  type: 'grammar';
+  title: string;
+  structure?: string[];
+  usage?: GrammarUsage[];
+  examples?: Example[];
+}
+
+export interface TableData {
+  type: 'table';
+  headers: string[];
+  rows: string[][];
+}
+
+export interface GrammarUsage {
+  title: string;
+  explanation: string;
+  examples: Example[];
+}
+
+export interface Example {
+  english: string;
+  vietnamese?: string;
+}
+
 // Standard pedagogical section order
 const SECTION_ORDER = [
   'GETTING STARTED',
@@ -192,10 +253,9 @@ export class MarkdownService {
           const target = currentSubsection || currentSection || currentUnit;
           if (target) {
             if (!target.content) target.content = [];
-            target.content.push({
-              type: 'text',
-              value: contentStr
-            });
+            // Parse the content for various types
+            const parsedContent = this.parseTextContent(contentStr);
+            target.content.push(...parsedContent);
           }
         }
         currentContent = [];
@@ -279,88 +339,96 @@ export class MarkdownService {
             type: 'exercise',
             number: match[2],
             title: match[3].trim(),
-            parts: []
+            instruction: '',
+            parts: [],
+            answer: ''
           };
+          
+          // Check if next line is instruction in parentheses
+          if (index + 1 < lines.length && lines[index + 1].match(/^\(.+\)$/)) {
+            currentExercise.instruction = lines[index + 1].slice(1, -1);
+            lines[index + 1] = ''; // Clear the line
+          }
         }
       }
       // Check for answer section
-      else if ((line.match(/^\*\*(Answer|Đáp án|Sample Answer|Key)s?:\*\*/i) || 
-                line.match(/^(Answer|Đáp án|Sample Answer|Key)s?:/i)) && currentExercise) {
-        // Flush current part if exists
-        if (currentExercisePart && exerciseBuffer.length > 0) {
-          currentExercisePart.content = exerciseBuffer.join('\n').trim();
-          exerciseBuffer = [];
-          currentExercisePart = null;
+      else if (currentExercise) {
+        const answerMatch = line.match(/^\*\*(Answer|Answers|Đáp án|Sample Answer|Suggested Answer|Key|Solution|Gợi ý)s?:\*\*/i) ||
+                           line.match(/^(Answer|Answers|Đáp án|Sample Answer|Suggested Answer|Key|Solution|Gợi ý)s?:/i);
+        if (answerMatch) {
+          // Flush current part if exists
+          if (currentExercisePart && exerciseBuffer.length > 0) {
+            currentExercisePart.content = exerciseBuffer.join('\n').trim();
+            exerciseBuffer = [];
+            currentExercisePart = null;
+          }
+          
+          // Capture the answer section title
+          const answerTitle = answerMatch[1] + (answerMatch[0].includes('s:') ? 's' : '');
+          currentExercise.answerTitle = answerTitle;
+          
+          // Mark that we're in answer mode
+          currentExercise.inAnswerSection = true;
+          currentExercise.answer = '';
         }
-        
-        // Start collecting answer
-        currentExercise.answer = '';
-        let answerLines: string[] = [];
-        let j = index + 1;
-        
-        while (j < lines.length && 
-               !lines[j].match(/^\*\*(Bài|Exercise|Exc?\.?)\s*\d+[:.]\s*/i) &&
-               !lines[j].match(/^#{1,3}\s/)) {
-          answerLines.push(lines[j]);
-          lines[j] = ''; // Clear processed lines
-          j++;
-        }
-        
-        currentExercise.answer = answerLines.join('\n').trim();
-      }
-      // Check for exercise sub-part (a), b), c) or 1., 2., 3.)
-      else if (currentExercise && line.match(/^[a-z]\)|^\d+\./)) {
-        // Flush previous part if exists
-        if (currentExercisePart && exerciseBuffer.length > 0) {
-          currentExercisePart.content = exerciseBuffer.join('\n').trim();
-          exerciseBuffer = [];
-        }
-        
-        const subPartMatch = line.match(/^([a-z])\)|^(\d+)\./);
-        if (subPartMatch) {
-          currentExercisePart = {
-            label: subPartMatch[1] || subPartMatch[2],
-            content: ''
-          };
-          currentExercise.parts.push(currentExercisePart);
-          // Add the rest of the line to buffer
-          const restOfLine = line.substring(subPartMatch[0].length).trim();
-          if (restOfLine) {
-            exerciseBuffer.push(restOfLine);
+        // Check for exercise sub-part (a), b), c) or 1., 2., 3.)
+        else if (!currentExercise.inAnswerSection && line.match(/^[a-zA-Z][\).]|^\d+[\).]/)) {
+          // Flush previous part if exists
+          if (currentExercisePart && exerciseBuffer.length > 0) {
+            currentExercisePart.content = exerciseBuffer.join('\n').trim();
+            exerciseBuffer = [];
+          }
+          
+          const subPartMatch = line.match(/^([a-zA-Z])[\).](.*)/) || line.match(/^(\d+)[\).](.*)/);
+          if (subPartMatch) {
+            currentExercisePart = {
+              label: subPartMatch[1],
+              content: ''
+            };
+            currentExercise.parts.push(currentExercisePart);
+            // Add the rest of the line to buffer
+            const restOfLine = subPartMatch[2].trim();
+            if (restOfLine) {
+              exerciseBuffer.push(restOfLine);
+            }
           }
         }
-      }
-      // If we're in an exercise, collect content
-      else if (currentExercise && !line.match(/^\*\*[^:]+\*\*:/) && !line.match(/^(\d+\.|-\s+\*\*)/)) {
-        if (currentExercisePart) {
-          exerciseBuffer.push(line);
-        } else {
-          // This is instruction text before sub-parts
-          if (!currentExercise.instruction) {
-            currentExercise.instruction = line;
+        // If we're in an exercise, collect content
+        else if (!line.match(/^\*\*[^:]+\*\*:/) && !line.match(/^(\d+\.|-)\s+\*\*/)) {
+          if (currentExercise.inAnswerSection) {
+            // We're collecting answer content
+            currentExercise.answer += (currentExercise.answer ? '\n' : '') + line;
+          } else if (currentExercisePart) {
+            exerciseBuffer.push(line);
           } else {
-            currentExercise.instruction += '\n' + line;
+            // This is instruction text before sub-parts
+            if (line.trim()) {
+              currentExercise.instruction += (currentExercise.instruction ? '\n' : '') + line;
+            }
           }
+        } else {
+          // This might be the start of a new content type, flush exercise
+          flushExercise();
+          currentContent.push(line);
         }
+      }
+      // Table detection
+      else if (line.includes('|') && lines[index + 1]?.includes('---')) {
+        flushContent();
+        const table = this.parseTable(lines, index);
+        const target = currentSubsection || currentSection;
+        if (target) {
+          if (!target.content) target.content = [];
+          target.content.push(table.data);
+        }
+        // Skip the lines we've processed
+        lines.splice(index + 1, table.endIndex - index);
       }
       // Vocabulary items - both numbered and bullet formats
       else if (line.match(/^(\d+\.|-)\s+\*\*[^*]+\*\*\s*:/)) {
         flushContent();
-        // Pattern 1: number. **word** : (type) meaning /pronunciation/
-        // Pattern 2: - **word** : (type) meaning /pronunciation/
-        const numberedMatch = line.match(/^(\d+)\.\s+\*\*([^*]+)\*\*\s*:\s*\(([^)]+)\)\s*([^/]+)\/([^/]+)\//);  
-        const bulletMatch = line.match(/^-\s+\*\*([^*]+)\*\*\s*:\s*\(([^)]+)\)\s*([^/]+)\/([^/]+)\//);  
-        
-        let match = numberedMatch || bulletMatch;
-        if (match) {
-          const vocab = {
-            type: 'vocabulary',
-            number: numberedMatch ? match[1] : '',
-            english: numberedMatch ? match[2].trim() : match[1].trim(),
-            partOfSpeech: numberedMatch ? match[3].trim() : match[2].trim(),
-            vietnamese: numberedMatch ? match[4].trim() : match[3].trim(),
-            pronunciation: numberedMatch ? match[5].trim() : match[4].trim()
-          };
+        const vocab = this.parseVocabularyLine(line);
+        if (vocab) {
           const target = currentSubsection || currentSection;
           if (target) {
             if (!target.content) target.content = [];
@@ -373,7 +441,7 @@ export class MarkdownService {
         flushContent();
         const match = line.match(/^\*\*([^:]+)\*\*:\s*(.+)/);
         if (match) {
-          const dialogue = {
+          const dialogue: Dialogue = {
             type: 'dialogue',
             speaker: match[1],
             text: match[2],
@@ -399,7 +467,7 @@ export class MarkdownService {
       // Regular content
       else {
         // Skip empty lines that were cleared (translations)
-        if (line || line === '') {
+        if (line !== '') {
           currentContent.push(line);
         }
       }
@@ -416,6 +484,84 @@ export class MarkdownService {
     });
     
     return sections;
+  }
+
+  private parseVocabularyLine(line: string): Vocabulary | null {
+    // Pattern 1: number. **word** : (type) meaning /pronunciation/
+    // Pattern 2: - **word** : (type) meaning /pronunciation/
+    // Pattern 3: **word** : meaning (simpler format)
+    const numberedMatch = line.match(/^(\d+)\.\s+\*\*([^*]+)\*\*\s*:\s*(?:\(([^)]+)\)\s*)?([^/]+)(?:\/([^/]+)\/)?/);
+    const bulletMatch = line.match(/^-\s+\*\*([^*]+)\*\*\s*:\s*(?:\(([^)]+)\)\s*)?([^/]+)(?:\/([^/]+)\/)?/);
+    
+    const match = numberedMatch || bulletMatch;
+    if (match) {
+      if (numberedMatch) {
+        return {
+          type: 'vocabulary',
+          number: match[1],
+          word: match[2].trim(),
+          partOfSpeech: match[3]?.trim(),
+          meaning: match[4].trim(),
+          pronunciation: match[5]?.trim()
+        };
+      } else {
+        return {
+          type: 'vocabulary',
+          word: match[1].trim(),
+          partOfSpeech: match[2]?.trim(),
+          meaning: match[3].trim(),
+          pronunciation: match[4]?.trim()
+        };
+      }
+    }
+    
+    return null;
+  }
+
+  private parseTable(lines: string[], startIndex: number): { data: TableData, endIndex: number } {
+    const table: TableData = {
+      type: 'table',
+      headers: [],
+      rows: []
+    };
+    
+    let currentIndex = startIndex;
+    
+    // Parse headers
+    if (lines[currentIndex]?.includes('|')) {
+      table.headers = lines[currentIndex]
+        .split('|')
+        .map(h => h.trim())
+        .filter(h => h);
+      currentIndex++;
+    }
+    
+    // Skip separator line
+    if (lines[currentIndex]?.includes('---')) {
+      currentIndex++;
+    }
+    
+    // Parse rows
+    while (currentIndex < lines.length && lines[currentIndex]?.includes('|')) {
+      const row = lines[currentIndex]
+        .split('|')
+        .map(c => c.trim())
+        .filter(c => c);
+      table.rows.push(row);
+      currentIndex++;
+    }
+    
+    return { data: table, endIndex: currentIndex - 1 };
+  }
+
+  private parseTextContent(text: string): any[] {
+    // This method can be enhanced to detect and parse
+    // grammar structures, lists, and other content types
+    // within regular text blocks
+    return [{
+      type: 'text',
+      value: text
+    }];
   }
 
   private getSectionType(title: string): string {
@@ -463,5 +609,12 @@ export class MarkdownService {
     if (lower.includes('writing')) return 'writing';
     
     return 'general';
+  }
+
+  private isNewSection(line: string): boolean {
+    return !!(
+      line.match(/^#{1,3}\s/) ||
+      line.match(/^\*\*(Bài|Exercise|Exc?\.?)\s*\d+[:.]\s*/i)
+    );
   }
 }

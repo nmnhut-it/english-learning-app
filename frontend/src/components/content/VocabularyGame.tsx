@@ -86,24 +86,27 @@ const VocabularyGame: React.FC<VocabularyGameProps> = ({ open, onClose, vocabula
     if (shuffledItems.length === 0 || currentIndex >= shuffledItems.length) return null;
     
     const item = shuffledItems[currentIndex];
+    // Handle both old and new vocabulary formats
+    const word = item.english || item.word || '';
+    const meaning = item.vietnamese || item.meaning || '';
     
     switch (gameMode) {
       case 'ipa-to-word':
         return {
-          question: item.pronunciation,
-          answer: item.english,
+          question: item.pronunciation || 'No pronunciation available',
+          answer: word,
           hint: 'Enter the English word',
         };
       case 'meaning-to-word':
         return {
-          question: item.vietnamese,
-          answer: item.english,
+          question: meaning,
+          answer: word,
           hint: 'Enter the English word',
         };
       case 'word-to-meaning':
         return {
-          question: item.english,
-          answer: item.vietnamese,
+          question: word,
+          answer: meaning,
           hint: 'Enter the Vietnamese meaning',
         };
       default:
@@ -146,6 +149,11 @@ const VocabularyGame: React.FC<VocabularyGameProps> = ({ open, onClose, vocabula
   const question = getCurrentQuestion();
   const progress = (currentIndex / shuffledItems.length) * 100;
   const isGameComplete = currentIndex >= shuffledItems.length - 1 && showResult;
+
+  // Filter out items without pronunciation for IPA mode
+  const filteredItems = gameMode === 'ipa-to-word' 
+    ? vocabularyItems.filter(item => item.pronunciation)
+    : vocabularyItems;
 
   return (
     <Dialog 
@@ -190,6 +198,11 @@ const VocabularyGame: React.FC<VocabularyGameProps> = ({ open, onClose, vocabula
                 />
               ))}
             </RadioGroup>
+            {gameMode === 'ipa-to-word' && filteredItems.length === 0 && (
+              <Alert severity="warning" sx={{ mt: 2 }}>
+                No vocabulary items with pronunciation available for this mode.
+              </Alert>
+            )}
           </Box>
         ) : (
           <Box>
@@ -291,7 +304,7 @@ const VocabularyGame: React.FC<VocabularyGameProps> = ({ open, onClose, vocabula
             <Button 
               variant="contained" 
               onClick={startGame}
-              disabled={shuffledItems.length === 0}
+              disabled={filteredItems.length === 0}
             >
               Start Game
             </Button>
