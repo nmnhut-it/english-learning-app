@@ -8,14 +8,14 @@
 - **cycle round the lake** : đạp xe vòng quanh hồ /ˈsaɪkl raʊnd ðə leɪk/
 - **sometimes** : (adv) đôi khi, thỉnh thoảng /ˈsʌmtaɪmz/
 - **How far is it from...to...?** : Từ...đến...bao xa? /haʊ fɑː ɪz ɪt frɒm...tə.../
-- **take someone to somewhere** : đưa ai đó đến nơi nào đó /teɪk ˈsʌmwʌn tə ˈsʌmweə/
+- **take + ai đó + to + nơi chốn** : đưa ai đó đến một nơi nào đó /teɪk tə/
 - **traffic jam** : (n) tắc đường /ˈtræfɪk dʒæm/
 - **take longer** : mất nhiều thời gian hơn /teɪk ˈlɒŋɡə/
 - **especially** : (adv) đặc biệt là, nhất là /ɪˈspeʃəli/
 - **cross the road** : băng qua đường /krɒs ðə rəʊd/
 - **crowded** : (adj) đông đúc, chật ních /ˈkraʊdɪd/
-- **get + adjective** : trở nên /ɡet/
-- **really + adjective** : rất, thực sự /ˈrɪəli/
+- **get + tính từ** : trở nên /ɡet/
+- **really + tính từ** : rất, thực sự /ˈrɪəli/
 - **see you then** : hẹn gặp lại /siː juː ðen/
 
 ### 💬 Content - Nội dung
@@ -322,10 +322,10 @@ Example:
 ## COMMUNICATION - GIAO TIẾP
 
 ### 📚 Vocabulary - Từ vựng
-- **How do/does + S + go to...?** : Ai đó đi đến... bằng cách nào? /haʊ duː/dʌz...gəʊ tuː.../
-- **go by + means of transport** : đi bằng (phương tiện) /gəʊ baɪ/
+- **How do/does + ai đó + go to + nơi chốn?** : Ai đó đi đến địa điểm đó bằng cách nào? /haʊ duː/dʌz ... gəʊ tuː .../
+- **go by + phương tiện** : đi bằng (phương tiện) /gəʊ baɪ/
 - **go on foot** : đi bộ /gəʊ ɒn fʊt/
-- **be not allowed to** : không được phép /biː nɒt əˈlaʊd tuː/
+- **am/is/are not allowed to** : không được phép /æm/ɪz/ɑː nɒt əˈlaʊd tuː/
 - **roof** : (n) mái nhà /ruːf/
 - **Moscow** : (n) Mát-xcơ-va /ˈmɒskəʊ/
 - **South Africa** : (n) Nam Phi /ˌsaʊθ ˈæfrɪkə/
@@ -334,6 +334,7 @@ Example:
 - **drive a dirty car** : lái xe bẩn /draɪv ə ˈdɜːti kɑː/
 - **handlebars** : (n) tay lái (xe đạp, mô tô) /ˈhændlbɑːz/
 - **wash your car** : rửa xe /wɒʃ jɔː kɑː/
+- **let + ai đó + V0** : để cho ai đó làm gì /let ... V0/
 
 ### 🗣️ Activities - Hoạt động
 
@@ -355,6 +356,13 @@ Example:
 
 **Countries that drive on the left:** UK, Australia, Thailand, Japan, India
 **Countries that drive on the right:** USA, China, Vietnam, France, Germany
+
+**Sample answers:**
+1. UK: left
+2. USA: right
+3. Australia: left  
+4. Thailand: left
+5. China: right
 
 #### Bài 4: Listen and check your answers in 3. Then listen again and complete the sentence
 (Nghe và kiểm tra câu trả lời trong bài 3. Sau đó nghe lại và hoàn thành câu)
@@ -467,7 +475,7 @@ A. road signs
 B. road safety  
 C. traffic jams
 
-**Answer:** B
+**Answer:** B (road safety)
 
 #### Bài 3: Read the text again and answer the questions
 (Đọc lại đoạn văn và trả lời câu hỏi)
@@ -544,7 +552,7 @@ Examples:
 4. The _____ in Mumbai are narrow.
 5. Many road users do not _____ the traffic rules.
 
-**Answers:** 1. jams, 2. jams/problem, 3. twenty/20, 4. roads, 5. obey
+**Answers:** 1. jams, 2. problem, 3. twenty/20, 4. roads, 5. obey
 
 ### ✍️ Writing - Viết
 
@@ -572,72 +580,119 @@ Traffic is a big problem in my city. There are too many vehicles on the roads, e
 #### Bài 1: Label each sign
 (Dán nhãn cho mỗi biển báo)
 
-1. red light (đèn đỏ)
-2. school ahead (phía trước có trường học)
-3. hospital ahead (phía trước có bệnh viện)
-4. cycle lane (làn đường xe đạp)
-5. no left turn (cấm rẽ trái)
-6. no cycling (cấm xe đạp)
+Work in pairs. What does each sign tell us to do?
+(Làm việc theo cặp. Mỗi biển báo cho chúng ta biết phải làm gì?)
 
-Example sentences:
-1. A red light sign means you have to stop.
-2. A school ahead sign means there is a school ahead.
-3. A hospital ahead sign means there is a hospital ahead.
-4. A cycle lane sign means the lane is for cyclists.
-5. A no left turn sign means we must not turn left here.
-6. A no cycling sign means we are not allowed to cycle.
+**Example:**
+1. A "red light" sign means you have to stop.
+(Biển báo "đèn đỏ" có nghĩa là bạn phải dừng lại.)
+
+**Answers:**
+1. red light (đèn đỏ)
+   - A "red light" sign means you have to stop.
+   (Biển báo "đèn đỏ" có nghĩa là bạn phải dừng lại.)
+
+2. school ahead (trường học ở phía trước)
+   - A "school ahead" sign means there is a school ahead.
+   (Biển báo "trường học phía trước" có nghĩa là có một trường học phía trước.)
+
+3. hospital ahead (bệnh viện ở phía trước)
+   - A "hospital ahead" sign means there is a hospital ahead.
+   (Biển báo "bệnh viện phía trước" có nghĩa là có bệnh viện phía trước.)
+
+4. cycle lane (làn đường dành cho xe đạp)
+   - A "cycle lane" sign means the lane is for cyclists.
+   (Biển báo "làn đường dành cho xe đạp" có nghĩa là làn đường đó dành cho người đi xe đạp.)
+
+5. no left turn (cấm rẽ trái)
+   - A "no left turn" sign means we must not turn left here.
+   (Biển báo "cấm rẽ trái" có nghĩa là chúng ta không được rẽ trái ở đây.)
+
+6. no cycling (cấm đi xe đạp)
+   - A "no cycling" sign means we are not allowed to cycle.
+   (Biển báo "cấm đi xe đạp" có nghĩa là chúng ta không được phép đạp xe.)
 
 #### Bài 2: Fill in each gap with one word to complete the sentences
 (Điền vào mỗi chỗ trống một từ để hoàn thành câu)
 
-1. A road _____ is anyone who uses the road, such as pedestrians, cyclists and drivers.
+1. A road _____ is anyone who uses a road, such as a pedestrian, cyclist or motorist.
 2. Does your dad _____ his motorbike carefully?
-3. A _____ is a person who is travelling in a vehicle but is not driving.
-4. You can _____ a bicycle when you grow old enough to ride it safely.
-5. _____ is taught to young children to avoid road accidents.
+3. A _____ is a person travelling in a car, bus, train,... but not driving.
+4. My cousin wants to become a pilot. He is learning to _____ planes.
+5. We should be careful when the _____ light turns yellow.
 
-**Answers:** 1. user, 2. ride, 3. passenger, 4. ride, 5. Traffic safety
+**Answers:** 
+1. user (A road user is anyone who uses a road, such as a pedestrian, cyclist or motorist. - Người tham gia giao thông là bất kỳ ai trên đường, chẳng hạn như người đi bộ, người đi xe đạp hoặc người điều khiển xe máy.)
+2. ride (Does your dad ride his motorbike carefully? - Bố bạn có đi xe máy cẩn thận không?)
+3. passenger (A passenger is a person travelling in a car, bus, train,... but not driving. - Hành khách là người đi ô tô, xe khách, tàu hỏa,... nhưng không lái xe.)
+4. fly (My cousin wants to become a pilot. He is learning to fly planes. - Anh họ của mình muốn trở thành phi công. Anh ấy đang học lái máy bay.)
+5. traffic (We should be careful when the traffic light turns yellow. - Chúng ta nên cẩn thận khi đèn giao thông chuyển sang màu vàng.)
 
 ### ✍️ Grammar Review - Ôn tập ngữ pháp
 
 #### Bài 3: Write complete sentences using these cues
 (Viết câu hoàn chỉnh sử dụng các gợi ý này)
 
-1. It/over 100 km/my home town/Ho Chi Minh City
-2. It/about 25 km/here/my grandparents' house
-3. It/not very far/our school/city museum
-4. How far/it/your house/gym?
-5. It/a long distance/Ha Noi/Ban Gioc Waterfall?
+1. over 100 km / my home town / Ho Chi Minh City
+2. about 25 km / here / my grandparents' house
+3. not very far / our school / city museum
+4. how far / your house / the gym?
+5. it / a long distance / Ha Noi / Ban Gioc Waterfall?
 
 **Answers:**
 1. It is over 100 km from my home town to Ho Chi Minh City.
+   (Từ quê mình đến thành phố Hồ Chí Minh hơn 100 km.)
 2. It is about 25 km from here to my grandparents' house.
+   (Từ đây đến nhà ông bà ngoại khoảng 25km.)
 3. It is not very far from our school to the city museum.
+   (Từ trường chúng mình đến bảo tàng thành phố không xa lắm.)
 4. How far is it from your house to the gym?
+   (Từ nhà bạn đến phòng tập bao xa?)
 5. Is it a long distance from Ha Noi to Ban Gioc Waterfall?
+   (Từ Hà Nội đến thác Bản Giốc có xa không?)
 
 #### Bài 4: Choose A, B, or C to complete the sentences
 (Chọn A, B, hoặc C để hoàn thành câu)
 
-1. You _____ drive carefully. The street is very crowded now.
-   A. should  B. shouldn't  C. would
+1. You _____ put the rubbish in the waste bins over there.
+   A. should
+   B. would
+   C. shouldn't
 
-2. _____ you turn off the air-conditioner? - It's cold.
-   A. must  B. can  C. should
+2. You _____ be over eighteen to ride a motorbike.
+   A. would
+   B. must
+   C. could
 
-3. It takes me 15 minutes _____ from here to my school.
-   A. walk  B. walking  C. to walk
+3. Children _____ ride their bikes too fast.
+   A. mightn't
+   B. wouldn't
+   C. shouldn't
 
-4. _____ does your mother go to work? - By motorbike.
-   A. What  B. Which  C. How
+4. I am a bit lost. _____ you help me, please?
+   A. Could
+   B. Should
+   C. Might
 
-5. We _____ obey traffic rules for our safety.
-   A. shouldn't  B. should  C. can
+5. You _____ eat so many cookies. Too much sugar is bad for you.
+   A. couldn't
+   B. wouldn't
+   C. shouldn't
 
-6. You look tired. You _____ go to bed early.
-   A. can  B. must  C. should
+6. This is a big park. You _____ run or cycle here.
+   A. should
+   B. can
+   C. could
 
-**Answers:** 1-A, 2-B, 3-C, 4-C, 5-B, 6-C
+**Answers:** 1-A, 2-B, 3-C, 4-A, 5-C, 6-B
+
+**Giải thích:**
+1. A - You should put the rubbish in the waste bins over there. (Bạn nên cho rác vào thùng rác đằng kia.)
+2. B - You must be over eighteen to ride a motorbike. (Bạn phải hơn 18 tuổi mới được đi xe máy.)
+3. C - Children shouldn't ride their bikes too fast. (Trẻ em không nên đi xe đạp quá nhanh.)
+4. A - I am a bit lost. Could you help me, please? (Tôi bị lạc đường. Bạn có thể làm ơn giúp tôi được không?)
+5. C - You shouldn't eat so many cookies. Too much sugar is bad for you. (Bạn không nên ăn quá nhiều bánh quy. Quá nhiều đường không tốt cho bạn.)
+6. B - This is a big park. You can run or cycle here. (Đây là một công viên lớn. Bạn có thể chạy hoặc đạp xe ở đây.)
 
 ## PROJECT - DỰ ÁN
 
