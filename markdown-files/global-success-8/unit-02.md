@@ -14,7 +14,7 @@
 - **combine harvester** : (n) máy gặt đập liên hợp /ˈkɒmbaɪn ˈhɑːvɪstər/
 - **load the rice** : (v) chất lúa /ləʊd ðə raɪs/
 - **unload the rice** : (v) dỡ lúa /ʌnˈləʊd ðə raɪs/
-- **dry the rice** : (v) phơi lúa /draɪ ðə raɪs/
+- **dry the rice** : (v) phơi khô lúa /draɪ ðə raɪs/
 - **village children** : (n) trẻ em trong làng /ˈvɪlɪdʒ ˈtʃɪldrən/
 - **herd the buffaloes** : (v) chăn trâu /hɜːd ðə ˈbʌfələʊz/
 - **herd the cows** : (v) chăn bò /hɜːd ðə kaʊz/
@@ -82,10 +82,10 @@ Mọi thứ ở đó di chuyển chậm hơn ở thành phố của chúng ta, n
    B. At her uncle's house.
    C. At her grandparents' house.
 
-3. During harvest time, people harvest rice by using _____.
-   A. only their hands
-   B. a truck
-   C. a combine harvester
+3. During harvest time, people harvest rice by _____.
+   A. themselves
+   B. using a truck
+   C. using a combine harvester
 
 4. Mai thinks people in the countryside lead _____.
    A. a healthy life
@@ -122,15 +122,15 @@ combine harvester | load | herd | paddy field | harvest time
 ### 📚 Vocabulary - Từ vựng
 - **cattle** : (n) gia súc /ˈkætl/
 - **poultry** : (n) gia cầm /ˈpəʊltri/
-- **plant** : (v) trồng /plɑːnt/
+- **plant** : (n) cây /plɑːnt/
 - **fruit** : (n) trái cây /fruːt/
 - **orchard** : (n) vườn cây ăn quả /ˈɔːtʃəd/
-- **harvest** : (v) thu hoạch /ˈhɑːvɪst/
+- **harvest** : (n) thu hoạch /ˈhɑːvɪst/
 - **crops** : (n) nông sản, cây trồng /krɒps/
 - **load** : (v) chất /ləʊd/
 - **unload** : (v) dỡ /ʌnˈləʊd/
 - **catch** : (v) bắt /kætʃ/
-- **hold** : (v) giữ /həʊld/
+- **holding** : (v) giữ /ˈhəʊldɪŋ/
 - **lake** : (n) hồ /leɪk/
 - **pond** : (n) ao /pɒnd/
 - **vast** : (adj) rộng lớn /vɑːst/
@@ -138,6 +138,16 @@ combine harvester | load | herd | paddy field | harvest time
 - **well-trained** : (adj) được đào tạo tốt /wel treɪnd/
 - **surrounded** : (adj) bao quanh /səˈraʊndɪd/
 - **picturesque** : (adj) đẹp như tranh /ˌpɪktʃəˈresk/
+- **food** : (n) thức ăn /fuːd/
+- **kind** : (adj) tốt bụng /kaɪnd/
+- **workers** : (n) công nhân /ˈwɜːkəz/
+- **bottle** : (n) chai /ˈbɒtl/
+- **hard-working** : (adj) chăm chỉ /hɑːd-ˈwɜːkɪŋ/
+- **pick** : (v) hái /ˈpɪk/
+- **gather** : (v) tụ họp /ˈɡæðə/
+- **milk** : (n) sữa /mɪlk/
+- **pasta** : (n) mì ống /ˈpæstə/
+- **supermarket** : (n) siêu thị /ˈsuːpəmɑːkɪt/
 
 ### 🗣️ Pronunciation - Phát âm
 Focus: /ə/ and /ɪ/ sounds
@@ -148,6 +158,24 @@ Focus: /ə/ and /ɪ/ sounds
 Âm /ə/ là âm schwa, thường xuất hiện ở âm tiết không nhấn mạnh.
 Âm /ɪ/ là nguyên âm ngắn, môi hơi mở.
 
+**Bài 4 trang 20: Listen and repeat the words. Pay attention to the sounds /ə/ and /ɪ/.**
+
+| /ə/ | /ɪ/ |
+|---|---|
+| activity /ækˈtɪv.ə.ti/ | pick /pɪk/ |
+| hospitable /hɒsˈpɪt.ə.bəl/ | village /ˈvɪl.ɪdʒ/ |
+| garden /ˈɡɑː.dən/ | harvest /ˈhɑː.vɪst/ |
+| picturesque /ˌpɪk.tʃərˈesk/ | busy /ˈbɪz.i/ |
+| collect /kəˈlekt/ | cottage /ˈkɒt.ɪdʒ/ |
+
+**Bài 5 trang 20: Listen and practice the sentences. Underline the bold words with /ə/, and circle the bold words with /ɪ/.**
+
+1. There is a lot of **water** in the bottle.
+2. The **farmers** here are hard-work**ing**.
+3. They are p**i**ck**ing** fruits in the **orchard**.
+4. People in my v**i**llage usually **gather** at weekends.
+5. Please buy some m**i**lk and **pasta** at the supermarket.
+
 ### ✍️ Exercises - Bài tập
 
 **Bài 1 trang 20: Circle the correct words to complete the sentences.**
@@ -156,7 +184,7 @@ Focus: /ə/ and /ɪ/ sounds
 2. They are helping their parents pick **plants / fruit** in the orchard.
 3. At harvest time farmers are busy cutting and gathering **crops / plants**.
 4. The driver **loaded / unloaded** the rice from the back of the truck.
-5. After a long day of hard work, we sat down and enjoyed a hot dinner with some villagers / a villager.
+5. People here live by catching/holding fish from nearby lakes and ponds.
 
 **Answers:** 1-cattle, 2-fruit, 3-crops, 4-unloaded, 5-catching
 
@@ -168,7 +196,7 @@ Focus: /ə/ and /ɪ/ sounds
 4. surrounded - b. having something near or around
 5. picturesque - d. pretty, especially in a way that looks old-fashioned
 
-**Answers:** 1-c, 2-a, 3-e, 4-b, 5-d
+**Answers:** 1-c, 2-d, 3-e, 4-b, 5-a
 
 **Bài 3 trang 20: Complete the sentences with the words from 2.**
 
@@ -254,19 +282,19 @@ carefully | soundly | fast | quietly | early
    The red car can run _____ (fast).
 2. Nick can jump 1.5 m high while Tom can jump only 1.3 m.
    Nick can jump _____ (high).
-3. Mai's singing is beautiful. Her sister's singing is more beautiful.
-   Mai's sister sings _____ (beautifully).
+3. Mai and Hoa both did well on the exam. Hoa got 80% of the answers correct and Mai got 90%.
+   Mai did _____ (well).
 4. It usually takes me two hours to do my homework. Today it took me only one hour.
    Today I did my homework _____ (quickly).
-5. Yesterday the temperature was 25 degrees. Today it's 30 degrees.
-   It's _____ (hot) today than yesterday.
+5. My dad expected the workers to arrive at 7 a.m, but they arrived at 6:30 a.m.
+   The workers arrived _____ (early).
 
 **Answers:** 
 1. The red car can run faster than the black car.
 2. Nick can jump higher than Tom.
-3. Mai's sister sings more beautifully than Mai.
-4. Today I did my homework more quickly than usual.
-5. It's hotter today than yesterday.
+3. Mai did better on the exam than Hoa.
+4. The workers arrived earlier than my dad expected.
+5. The buses run more frequently than the trains.
 
 ## COMMUNICATION - GIAO TIẾP
 
@@ -282,6 +310,7 @@ carefully | soundly | fast | quietly | early
 - **observe** : (v) quan sát /əbˈzɜːv/
 - **locals** : (n) người dân địa phương /ˈləʊklz/
 - **specialties** : (n) đặc sản /ˈspeʃəltiz/
+- **try** : (v) thử /traɪ/
 - **island** : (n) đảo /ˈaɪlənd/
 - **Netherlands** : (n) Hà Lan /ˈneðələndz/
 - **historical** : (adj) lịch sử /hɪsˈtɒrɪkl/
@@ -505,6 +534,44 @@ I like living in the countryside because of some reasons. First, the air is fres
 ## LOOKING BACK - ÔN TẬP
 
 ### 📚 Vocabulary Review - Ôn tập từ vựng
+
+**Additional vocabulary:**
+- **unload** : (v) dỡ /ʌnˈləʊd/
+- **milk** : (v) vắt sữa /mɪlk/
+- **catch** : (v) bắt /kætʃ/
+- **plough** : (v) cày /plaʊ/
+- **feed** : (v) cho ăn /fiːd/
+- **dry** : (v) phơi khô /draɪ/
+- **rice** : (n) gạo /raɪs/
+- **cow** : (n) bò /kaʊ/
+- **fish** : (n) cá /fɪʃ/
+- **field** : (n) cánh đồng /fiːld/
+- **pig** : (n) lợn /pɪɡ/
+- **early** : (adj) sớm /ˈɜːli/
+- **fluent** : (adj) trôi chảy /ˈfluːənt/
+- **easy** : (adj) dễ dàng /ˈiːzi/
+- **heavy** : (adj) nặng /ˈhevi/
+- **hard** : (adj) chăm chỉ /hɑːd/
+- **well** : (adv) tốt /wel/
+- **development** : (n) phát triển /dɪˈveləpmənt/
+- **city** : (n) thành phố /ˈsɪti/
+- **destroy** : (v) phá hủy /dɪˈstrɔɪ/
+- **area** : (n) khu vực /ˈeəriə/
+- **countryside** : (n) vùng nông thôn /ˈkʌntriˌsaɪd/
+- **vast** : (adj) rộng lớn /vɑːst/
+- **much** : (adv) nhiều /mʌtʃ/
+- **stretch** : (v) kéo dài /stretʃ/
+- **worker** : (n) công nhân /ˈwɜːkə/
+- **factory** : (n) nhà máy /ˈfæktəri/
+- **kind** : (adj) tốt bụng /kaɪnd/
+- **well-trained** : (adj) được đào tạo tốt /wel treɪnd/
+- **landscape** : (n) phong cảnh /ˈlændskeɪp/
+- **picturesque** : (adj) đẹp như tranh /ˌpɪktʃəˈresk/
+- **boring** : (adj) buồn chán /ˈbɔːrɪŋ/
+- **dull** : (adj) tẻ nhạt /dʌl/
+- **surround** : (v) bao quanh /səˈraʊnd/
+- **funny** : (adj) hài hước /ˈfʌni/
+- **generous** : (adj) hào phóng /ˈdʒenərəs/
 
 **Complete vocabulary list:**
 - **bamboo dancing** : múa sạp /ˈbæmbuː ˈdɑːnsɪŋ/
