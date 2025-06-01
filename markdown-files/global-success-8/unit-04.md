@@ -3,25 +3,24 @@
 ## GETTING STARTED - BẮT ĐẦU
 
 ### 📚 Vocabulary - Từ vựng
-- **ethnic group** : (n) dân tộc, nhóm dân tộc /ˈeθnɪk ɡruːp/
-- **minority** : (n) thiểu số /maɪˈnɒrəti/
-- **ethnic minority** : (n) dân tộc thiểu số /ˈeθnɪk maɪˈnɒrəti/
-- **the Kinh** : (n) người Kinh /ðə kɪŋ/
-- **the Tay** : (n) người Tày /ðə taɪ/
-- **bamboo** : (n) tre, trúc /bæmˈbuː/
-- **travel brochure** : (n) tờ rơi du lịch /ˈtrævəl ˈbrəʊʃə/
-- **stilt house** : (n) nhà sàn /stɪlt haʊs/
+- **look** : (v) trông có vẻ /lʊk/
+- **hear - heard - heard** : (v) nghe /hɪər/ - /hɜːd/ - /hɜːd/
+- **ethnic group** : (n) nhóm dân tộc /ˈeθnɪk ɡruːp/
+- **only** : (adv) chỉ /ˈəʊnli/
+- **bamboo house** : (n) nhà tre /ˌbæmˈbuː haʊs/
 - **terraced fields** : (n) ruộng bậc thang /ˈterəst fiːldz/
-- **overlook** : (v) nhìn ra /ˌəʊvəˈlʊk/
-- **peaceful** : (adj) yên bình /ˈpiːsfəl/
-- **nature** : (n) thiên nhiên /ˈneɪtʃə/
-- **folk dance** : (n) múa dân gian /fəʊk dɑːns/
+- **awesome** : (adj) tuyệt vời /ˈɔːsəm/
+- **culture** : (n) văn hóa /ˈkʌltʃər/
+- **own** : (adj) của riêng /əʊn/
+- **folk dance** : (n) múa dân gian/dân vũ /fəʊk dæns/
 - **musical instrument** : (n) nhạc cụ /ˈmjuːzɪkəl ˈɪnstrəmənt/
-- **dan tinh** : (n) đàn tính /dæn tɪn/
-- **five-colour sticky rice** : (n) xôi ngũ sắc /faɪv ˈkʌlə ˈstɪki raɪs/
+- **five-colour sticky rice** : (n) xôi ngũ sắc /faɪv ˈkʌlər ˈstɪki raɪs/
+- **minority group** : (n) nhóm thiểu số /maɪˈnɒrəti ɡruːp/
+- **multi-storey home** : (n) nhà nhiều tầng /ˌmʌlti ˈstɔːri həʊm/
+- **mention** : (v) đề cập /ˈmenʃən/
 - **costume** : (n) trang phục /ˈkɒstjuːm/
-- **post** : (n) cột, trụ /pəʊst/
-- **multi-storey** : (adj) nhiều tầng /ˌmʌlti ˈstɔːri/
+- **stilt house** : (n) nhà sàn /stɪlt haʊs/
+- **post** : (n) cây cột /pəʊst/
 
 ### 💬 Dialogue - Hội thoại
 **Tom:** Hi, I'm Tom. You look new here.  
@@ -77,21 +76,23 @@
    B. popular festivals
    C. costumes
 
-**Answers:** 1-C, 2-B, 3-A
+**Answers:** 
+1. C (Life of the Tay people.)
+2. B (is on high posts)
+3. A (folk dances)
 
 **Bài 3 trang 41: Match the pictures with the words and phrases from the conversation.**
 (Nối các hình ảnh với từ và cụm từ trong đoạn hội thoại.)
 
-1. five-colour sticky rice - c
-2. folk dance - a  
-3. open-air market - e
-4. stilt house - b
-5. terraced fields - d
+1. stilt house
+2. terraced fields
+3. bamboo
+4. five-colour sticky rice
 
 **Bài 4 trang 41: Complete the sentences with the words and phrases from the box.**
 (Hoàn thành các câu với các từ và cụm từ trong hộp.)
 
-folk dance | overlooks | musical instrument | traditional | ethnic groups
+overlooks | traditional | folk dance | ethnic groups | musical instrument
 
 1. I love mua sap, a popular _________ of the Thai people.
 2. Their beautiful stilt house _________ a large rice field.
@@ -117,18 +118,17 @@ Nung | Hmong | Cham | Ede | Bahnar | Khmer
 ## A CLOSER LOOK 1 - TÌM HIỂU THÊM 1
 
 ### 📚 Vocabulary - Từ vựng
-- **wooden statue** : (n) tượng gỗ /ˈwʊdən ˈstætʃuː/
+- **wooden statue** : (n) tượng bằng gỗ /ˈwʊdən ˈstætʃuː/
 - **Rong house** : (n) nhà Rông /rɒŋ haʊs/
-- **weaving** : (n) dệt vải /ˈwiːvɪŋ/
-- **bamboo flute** : (n) sáo trúc /bæmˈbuː fluːt/
-- **gong** : (n) cồng chiêng /ɡɒŋ/
+- **weaving** : (n) việc dệt (vải) /ˈwiːvɪŋ/
+- **bamboo flute** : (n) sáo tre/trúc /ˌbæmˈbuː fluːt/
+- **gong** : (n) cồng /ɡɒŋ/
+- **terraced fields** : (n) ruộng bậc thang /ˈterəst fiːldz/
+- **livestock = cattle + poultry** : (n) vật nuôi = gia súc + gia cầm /ˈlaɪvstɒk/ = /ˈkætl/ + /ˈpəʊltri/
+- **communal house** : (n) nhà cộng đồng /ˈkɒmjənəl haʊs/
+- **weed** : (n, v) cỏ, nhổ cỏ /wiːd/
+- **unique features** : (n) đặc điểm độc đáo /juːˈniːk ˈfiːtʃəz/
 - **raise** : (v) nuôi, chăn nuôi /reɪz/
-- **cattle** : (n) gia súc /ˈkætl/
-- **poultry** : (n) gia cầm /ˈpəʊltri/
-- **communal house** : (n) nhà cộng đồng /ˈkɒmjʊnəl haʊs/
-- **unique** : (adj) độc đáo /juːˈniːk/
-- **feature** : (n) đặc điểm /ˈfiːtʃə/
-- **livestock** : (n) vật nuôi /ˈlaɪvstɒk/
 - **minority group** : (n) nhóm thiểu số /maɪˈnɒrəti ɡruːp/
 
 ### 🗣️ Pronunciation - Phát âm
@@ -149,22 +149,23 @@ Nung | Hmong | Cham | Ede | Bahnar | Khmer
 **Bài 1 trang 42: Write a word or phrase from the box under each picture.**
 (Viết một từ hoặc cụm từ từ hộp dưới mỗi hình ảnh.)
 
-1. wooden statue
-2. Rong house
-3. weaving
-4. bamboo flute
-5. gong
-6. terraced fields
+1. wooden statue (tượng gỗ)
+2. Rong house (nhà Rông)
+3. weaving (dệt vải)
+4. bamboo flute (sáo trúc)
+5. gong (cồng chiêng)
+6. terraced fields (ruộng bậc thang)
 
 **Bài 2 trang 42: Match the words and phrases with their meanings.**
 (Nối các từ và cụm từ với ý nghĩa của chúng.)
 
-1. unique features - c (những đặc điểm độc đáo)
-2. weaving - a (dệt vải)
-3. raise - e (nuôi, chăn nuôi)
-4. communal house - d (nhà cộng đồng)
-5. minority group - b (nhóm thiểu số)
-6. livestock - f (vật nuôi)
+1. minority group - c (a group smaller in size than other groups in the same country)
+2. livestock - a (the animals we keep on a farm like cows and sheep)
+3. gardening - e (work like growing, watering, weeding, and harvesting)
+4. gong - d (a traditional musical instrument)
+5. communal house - b (a large room for community activities)
+
+**Answers:** 1-c, 2-a, 3-e, 4-d, 5-b
 
 **Bài 3 trang 42: Complete the sentences with the words and phrases from the box.**
 (Hoàn thành các câu với từ và cụm từ từ hộp.)
@@ -172,46 +173,58 @@ Nung | Hmong | Cham | Ede | Bahnar | Khmer
 unique features | weaving | raise | communal house | minority group | livestock
 
 1. It's interesting to learn about the _________ of an ethnic group's traditional culture.
-2. Most mountain girls know how to do _________.
+2. Most mountain girls know how to _________ clothing.
 3. The Cham in Ninh Thuan _________ sheep and cows.
 4. A _________ is for community meetings and events.
 5. There are fewer Nung than Kinh, so they are an ethnic _________.
-6. Children in both the lowlands and highlands help their parents find food for their _________.
+6. Children in both the lowlands and highlands help raise their family's _________.
 
-**Answers:** 1. unique features, 2. weaving, 3. raise, 4. communal house, 5. minority group, 6. livestock
+**Answers:** 1. unique features, 2. weave, 3. raise, 4. communal house, 5. minority group, 6. livestock
 
 ## A CLOSER LOOK 2 - TÌM HIỂU THÊM 2
 
 ### 📖 Grammar - Ngữ pháp
 
-#### 1. Yes/No Questions - Câu hỏi Yes/No
-**Cấu trúc:**
-- Với động từ "be": **Be + S + adj/N?**
-  - Are you from an ethnic minority? (Bạn có phải là người dân tộc thiểu số không?)
-- Với động từ thường: **Do/Does/Did + S + V(nguyên thể)?**
-  - Do they live in stilt houses? (Họ có sống trong nhà sàn không?)
-- Với động từ khuyết thiếu: **Modal + S + V(nguyên thể)?**
-  - Can you speak the Tay language? (Bạn có thể nói tiếng Tày không?)
+#### Câu hỏi Yes/No và câu hỏi có từ để hỏi
 
-#### 2. Wh-Questions - Câu hỏi có từ để hỏi
-**Cấu trúc:**
-- Hỏi về chủ ngữ: **Who/What + V + ...?**
-  - Who lives in the Rong house? (Ai sống trong nhà Rông?)
-- Hỏi về tân ngữ: **What/Who(m) + trợ động từ + S + V + ...?**
-  - What do they eat at festivals? (Họ ăn gì trong lễ hội?)
-- Hỏi về trạng ngữ: **Where/When/Why/How + trợ động từ + S + V + ...?**
-  - Where do the Hmong people live? (Người Hmong sống ở đâu?)
+**Câu hỏi Yes/No:**
+Trợ động từ + chủ từ + V …. ?
 
-#### 3. Countable and Uncountable Nouns - Danh từ đếm được và không đếm được
-**Với danh từ đếm được:**
-- **a/an** + danh từ số ít
-- **many/a few** + danh từ số nhiều
+**Câu hỏi có từ để hỏi**
+- What/which + (N) + …. + trợ động từ + S + V
+- How + adj + (như trên)
+- When (như trên)
+- Why (như trên)
+- Where (như trên)
+- Who (như trên)
+- Whom (như trên)
 
-**Với danh từ không đếm được:**
-- **much/a little** + danh từ không đếm được
+**Trợ động từ gồm có:**
+- Động từ to be làm trợ động từ: am, is, are
+  - Are + you + a student …… ?
+- Động từ khiếm khuyết làm trợ động từ
+  - **will, would, can, could, shall, should, must, may, might, ought to**
+  - You can do it → Can you do it?
+- Động từ thường: Tùy thuộc vào thì
+  - Hiện tại đơn: do/does
+  - Quá khứ đơn: did
 
-**Với cả hai loại:**
-- **some/a lot of** + danh từ đếm được/không đếm được
+**Ví dụ:** I am a student. → Am I a student? Are you a student?
+I go to school. Do you go to school?
+
+#### Danh từ đếm được và danh từ không đếm được
+
+|  | Đi với đếm được | Đi với không đếm được |
+| :---- | :---- | :---- |
+| some: một vài, một ít | **x** | **x** |
+| a lot of: nhiều = lots of | **x** | **x** |
+| many  | **x** |  |
+| much |  | **x** |
+| a little: một chút |  | **x** |
+| a few: một chút | **x** |  |
+
+**Vocabulary:** 
+- ash: tro /æʃ/
 
 ### ✍️ Exercises - Bài tập
 
@@ -220,39 +233,61 @@ unique features | weaving | raise | communal house | minority group | livestock
 
 1. Women play an important role in a Jrai family.
 2. Mua sap is a popular folk dance of the Thai people.
-3. We had boarding schools for minority students in 1950.
+3. We didn't have boarding schools for minority students in 1950.
 4. I attended the Ban Flower Festival in Dien Bien last year.
-5. We will watch a documentary about the Khmer tomorrow.
+5. We will watch a documentary about the Khmer.
 
 **Answers:**
 1. Do women play an important role in a Jrai family?
 2. Is mua sap a popular folk dance of the Thai people?
-3. Did we have boarding schools for minority students in 1950?
+3. Did you have boarding schools for minority students in 1950?
 4. Did you attend the Ban Flower Festival in Dien Bien last year?
-5. Will we watch a documentary about the Khmer tomorrow?
+5. Will you watch a documentary about the Khmer?
 
 **Bài 2 trang 43: Choose the correct question word for each question below.**
 (Chọn từ để hỏi đúng cho mỗi câu hỏi bên dưới.)
 
-1. _________ does the Hoa Ban Festival take place? - In Dien Bien.
-2. _________ do the Thai hold the festival? - To pray for health and prosperity.
-3. _________ is the main food of the Kinh? - Rice.
-4. _________ are the Khmer? - About 1.3 million people.
-5. _________ does the Cow Racing Festival start? - At 9 a.m.
+1. A: _________ do you like best about Sa Pa?
+   B: I like its local markets best.
+   A. Why
+   B. What
 
-**Answers:** 1. Where, 2. Why, 3. What, 4. How many, 5. What time
+2. A: _________ can we find the most beautiful terraced fields?
+   B: In Mu Cang Chai.
+   A. When
+   B. Where
+
+3. A: _________ is the Ban Flower Festival?
+   B: It's in spring.
+   A. When
+   B. Why
+
+4. A: _________ tall is an average stilt house?
+   B: About 5 - 6 metres tall.
+   A. How
+   B. What
+
+5. A: _________ festival is more important for the Kinh: the Mid-Autumn or the Lunar New Year?
+   B: The Lunar New Year.
+   A. What
+   B. Which
+
+**Answers:** 1-B, 2-B, 3-A, 4-A, 5-B
 
 **Bài 3 trang 43: Write C (countable) or U (uncountable) for the underlined words.**
 (Viết C (đếm được) hoặc U (không đếm được) cho những từ gạch chân.)
 
-1. Farmers in my village grow different vegetables. _____
-2. They can make soap from wood ash. _____
-3. The Hmong have their own language. _____
-4. People in my village weave cloth from cotton. _____
-5. We always have water in our houses. _____
-6. The Kinh speak Vietnamese language. _____
+Some minority (1) groups are farmers. They do not have much (2) land and they use simple farming techniques. After finding an (3) area for a garden, the men cut the (4) trees down and burn them. The (5) ash they collect helps enrich the soil. They then grow a few (6) crops like rice and corn.
 
-**Answers:** 1-C, 2-U, 3-C, 4-C, 5-U, 6-C
+1. _____ 2. _____ 3. _____ 4. _____ 5. _____ 6. _____
+
+**Answers:** 
+1. C (groups - nhóm/dân tộc)
+2. U (land - đất)
+3. C (area - khu vực)
+4. C (trees - cây)
+5. U (ash - tro)
+6. C (crops - mùa vụ)
 
 **Bài 4 trang 43: Fill in each blank with a, much, many, a little, or a few.**
 (Điền vào mỗi chỗ trống với a, much, many, a little, hoặc a few.)
@@ -268,14 +303,7 @@ unique features | weaving | raise | communal house | minority group | livestock
 ## COMMUNICATION - GIAO TIẾP
 
 ### 📚 Vocabulary - Từ vựng
-- **population** : (n) dân số /ˌpɒpjuˈleɪʃn/
-- **mainly** : (adv) chủ yếu /ˈmeɪnli/
-- **province** : (n) tỉnh /ˈprɒvɪns/
-- **make a living** : (v) kiếm sống /meɪk ə ˈlɪvɪŋ/
-- **grow crops** : (v) trồng trọt /ɡrəʊ krɒps/
-- **raise animals** : (v) chăn nuôi /reɪz ˈænɪməlz/
-- **traditional culture** : (n) văn hóa truyền thống /trəˈdɪʃənəl ˈkʌltʃə/
-- **colourful costumes** : (n) trang phục nhiều màu sắc /ˈkʌləfəl ˈkɒstjuːmz/
+No specific vocabulary list provided in this section.
 
 ### 🗣️ Asking and Giving Opinions - Hỏi và Đưa ra Ý kiến
 
@@ -293,19 +321,25 @@ unique features | weaving | raise | communal house | minority group | livestock
 Work with a partner and choose the best answers.
 
 1. What is the population of the largest ethnic group?
-   A. About 74 million    B. Over 85 million
+   A. About 74 million    
+   B. Over 85 million
 
 2. Where do the Lao mostly live?
-   A. Lai Chau    B. Lao Cai
+   A. Lai Chau    
+   B. Lao Cai
 
 3. What colour is NOT typical of the Hmong's costumes?
-   A. Black    B. White    C. Orange
+   A. Black    
+   B. White    
+   C. Orange
 
 4. Where do the Coho live?
-   A. Lam Dong    B. Kon Tum
+   A. Lam Dong    
+   B. Kon Tum
 
 5. How many ethnic groups are there in Viet Nam?
-   A. 63    B. 54
+   A. 63    
+   B. 54
 
 **Answers:** 1-B, 2-A, 3-C, 4-A, 5-B
 
@@ -332,24 +366,17 @@ Work with a partner and choose the best answers.
 ## SKILLS 1 - KỸ NĂNG 1
 
 ### 📚 Vocabulary - Từ vựng
+- **stilt house** : nhà sàn
 - **popular** : (adj) phổ biến /ˈpɒpjʊlə/
-- **different** : (adj) khác nhau /ˈdɪfərənt/
-- **from...to...** : từ...đến... /frɒm...tuː.../
-- **northern highlands** : (n) vùng cao phía Bắc /ˈnɔːðən ˈhaɪləndz/
-- **Mekong Delta** : (n) Đồng bằng sông Cửu Long /meˈkɒŋ ˈdeltə/
-- **size** : (n) kích cỡ /saɪz/
-- **style** : (n) kiểu dáng /staɪl/
+- **highland** : (n) cao nguyên /ˈhaɪlənd/
+- **delta** : (n) đồng bằng /ˈdeltə/
+- **culture** : (n) văn hóa /ˈkʌltʃə/
 - **material** : (n) vật liệu /məˈtɪəriəl/
-- **natural** : (adj) tự nhiên /ˈnætʃrəl/
-- **stand on** : (v) đứng trên /stænd ɒn/
-- **strong** : (adj) chắc chắn /strɒŋ/
-- **safe from** : (adj) an toàn khỏi /seɪf frɒm/
-- **wild animals** : (n) thú hoang dã /waɪld ˈænɪməlz/
-- **staircase** : (n) cầu thang /ˈsteəkeɪs/
-- **kitchen** : (n) nhà bếp /ˈkɪtʃɪn/
-- **open fire** : (n) bếp lửa /ˈəʊpən ˈfaɪə/
-- **gathering** : (n) tụ họp /ˈɡæðərɪŋ/
-- **face** : (v) hướng về, đối diện /feɪs/
+- **post** : (n) cây cột /pəʊst/
+- **in the middle of** : ở giữa
+- **family gathering** : (n) đoàn tụ gia đình
+- **receive guests** : (v) tiếp khách
+- **overlook** : (v) nhìn ra /ˌəʊvəˈlʊk/
 
 ### 📖 Reading - Đọc
 
@@ -377,7 +404,11 @@ Nhà sàn của người Tày và Nùng thường nhìn ra cánh đồng. Nhà s
 3. Family gatherings take place by the open fire in the middle of the house. _____
 4. The Rong house serves as the center of an Ede village. _____
 
-**Answers:** 1-F, 2-F, 3-T, 4-T
+**Answers:** 
+1. F (Chỉ một vài nhóm thiểu số sống trong nhà sàn)
+2. F (Tất cả nhà sàn trông giống nhau)
+3. T (Tụ họp gia đình diễn ra gần bếp lửa ở giữa nhà)
+4. T (Nhà Rông phục vụ như là trung tâm của làng người Ê-đê)
 
 **Bài 3 trang 46: Read the passage again and fill in each blank with ONE word.**
 (Đọc lại đoạn văn và điền vào mỗi chỗ trống MỘT từ.)
@@ -387,7 +418,11 @@ Nhà sàn của người Tày và Nùng thường nhìn ra cánh đồng. Nhà s
 3. The Thai's stilt houses face _________ or a _________.
 4. The largest and highest building in an Ede village is the _________ house.
 
-**Answers:** 1. leaves, 2. field, 3. mountains, forest, 4. Rong/communal
+**Answers:** 
+1. leaves (traditional)
+2. field (a field)
+3. mountains ... forest (forest ... mountains)
+4. Rong/communal
 
 ### 🗣️ Speaking - Nói
 
@@ -405,21 +440,7 @@ I live in a detached house in the countryside. It is built out of brick and conc
 ## SKILLS 2 - KỸ NĂNG 2
 
 ### 📚 Vocabulary - Từ vựng
-- **ethnic minority children** : (n) trẻ em dân tộc thiểu số /ˈeθnɪk maɪˈnɒrəti ˈtʃɪldrən/
-- **help** : (v) giúp đỡ /help/
-- **inside** : (adv) bên trong /ˌɪnˈsaɪd/
-- **outside** : (adv) bên ngoài /ˌaʊtˈsaɪd/
-- **from an early age** : từ khi còn nhỏ /frɒm ən ˈɜːli eɪdʒ/
-- **look after** : (v) chăm sóc /lʊk ˈɑːftə/
-- **care for** : (v) chăm sóc /keə fɔː/
-- **weave clothing** : (v) dệt quần áo /wiːv ˈkləʊðɪŋ/
-- **prepare food** : (v) chuẩn bị thức ăn /prɪˈpeə fuːd/
-- **grow crops** : (v) trồng trọt /ɡrəʊ krɒps/
-- **raise livestock** : (v) chăn nuôi gia súc /reɪz ˈlaɪvstɒk/
-- **catch fish** : (v) bắt cá /kætʃ fɪʃ/
-- **gather round** : (v) quây quần /ˈɡæðə raʊnd/
-- **legend** : (n) truyền thuyết /ˈledʒənd/
-- **hero** : (n) anh hùng /ˈhɪərəʊ/
+No specific vocabulary list provided in this section.
 
 ### 👂 Listening - Nghe
 
@@ -433,15 +454,13 @@ Ethnic minority children might live the life different from that of most Kinh ch
 **Bài 2 trang 47: Listen and tick (✓) the activities that minority children do to help their families.**
 (Nghe và đánh dấu (✓) các hoạt động mà trẻ em dân tộc thiểu số làm để giúp gia đình.)
 
-Activities:
+**Answers:** 
 - look after the house ✓
-- herd cattle 
-- catch fish ✓
 - weave clothing ✓
 - prepare food ✓
-- build houses
 - grow crops ✓
 - raise livestock ✓
+- catch fish ✓
 
 **Bài 3 trang 47: Listen again and circle the correct answer A, B, or C.**
 (Nghe lại và khoanh tròn câu trả lời đúng A, B, hoặc C.)
@@ -469,40 +488,24 @@ Activities:
 (Viết một đoạn văn (80-100 từ) về những việc bạn làm để giúp đỡ gia đình.)
 
 **Sample answer:**
-I often help my family with various tasks. Every day, I help my mother prepare meals by washing vegetables and setting the table. After meals, I do the dishes and clean the kitchen. On weekends, I help with cleaning the house, sweeping the floor, and taking out the garbage. I also take care of my younger sister when my parents are busy. Sometimes, I go to the market with my mother to buy groceries. These activities not only help my family but also teach me responsibility and life skills. I feel happy when I can contribute to making our home comfortable and organized.
-
-(Tôi thường giúp gia đình làm nhiều việc khác nhau. Hàng ngày, tôi giúp mẹ chuẩn bị bữa ăn bằng cách rửa rau và dọn bàn. Sau bữa ăn, tôi rửa bát và dọn dẹp bếp. Cuối tuần, tôi giúp dọn dẹp nhà cửa, quét nhà và đổ rác. Tôi cũng chăm sóc em gái khi bố mẹ bận. Đôi khi, tôi đi chợ với mẹ để mua thực phẩm. Những hoạt động này không chỉ giúp gia đình mà còn dạy tôi về trách nhiệm và kỹ năng sống. Tôi cảm thấy vui khi có thể góp phần làm cho ngôi nhà thoải mái và ngăn nắp.)
+I usually help my family do things. Firstly, I prepare food and sometimes help my mother cook meals. Second, I usually take responsibility for doing the dishes after meals. I also do the laundry at weekends. Sometimes, I help with cleaning the house, too. Housework keeps our family close together.
 
 ## LOOKING BACK - ÔN TẬP
 
 ### 📚 Vocabulary Review - Ôn tập từ vựng
 
-**Complete vocabulary list for Unit 4:**
-- ethnic group - dân tộc
-- minority - thiểu số
-- stilt house - nhà sàn
-- terraced fields - ruộng bậc thang
-- folk dance - múa dân gian
-- musical instrument - nhạc cụ
-- communal house - nhà cộng đồng
-- weaving - dệt vải
-- gong - cồng chiêng
-- bamboo flute - sáo trúc
-- wooden statue - tượng gỗ
-- livestock - vật nuôi
-- raise - chăn nuôi
-- traditional culture - văn hóa truyền thống
+No specific vocabulary list provided in this section.
 
 ### ✍️ Exercises - Bài tập
 
 **Bài 1 trang 48: Match the words and phrases with the pictures.**
 (Nối các từ và cụm từ với hình ảnh.)
 
-1. weaving - c
-2. folk dance - a
-3. open fire - e
-4. fishing - b
-5. minority group - d
+1. weaving (dệt vải) - c
+2. folk dance (dân vũ) - a
+3. open fire (bếp lửa) - e
+4. fishing (đánh cá) - b
+5. minority group (nhóm thiểu số) - d
 
 **Bài 2 trang 48: Complete the sentences with the words and phrases from the box.**
 (Hoàn thành các câu với từ và cụm từ từ hộp.)
@@ -515,36 +518,41 @@ musical instrument | sticky rice | communal house | folk songs | staircase
 4. My grandmother taught me to sing many _________.
 5. The _________ of a Muong's stilt house has an odd number of steps: 5, 7, or 9.
 
-**Answers:** 1. musical instruments, 2. sticky rice, 3. communal house, 4. folk songs, 5. staircase
+**Answers:** 
+1. musical instruments (nhạc cụ)
+2. sticky rice (gạo dính = nếp)
+3. communal house (nhà cộng đồng)
+4. folk songs (dân ca)
+5. staircase (cầu thang)
 
 **Bài 3 trang 48: Write questions from the clues.**
 (Viết câu hỏi từ gợi ý.)
 
-1. you / attend / the Ban Flower Festival / in Dien Bien / last year?
+1. you / attend / the Khmer's Moon worship festival / last year?
 2. how many / ethnic minority groups / Viet Nam?
 3. where / the Hmong / live?
-4. what / you / do / the Ede's Harvest Festival / last October?
-5. how old / minority children / when / they / help / the family?
+4. what / you / do / the Ede' Harvest festival / last October?
+5. how old / minority children / when / they / start helping / the family?
 
 **Answers:**
-1. Did you attend the Ban Flower Festival in Dien Bien last year?
+1. Did you attend the Khmer's Moon worship festival last year?
 2. How many ethnic minority groups are there in Viet Nam?
 3. Where do the Hmong live?
-4. What did you do at the Ede's Harvest Festival last October?
-5. How old are minority children when they help the family?
+4. What did you do in the Ede' Harvest festival last October?
+5. How old are minority children when they start helping the family?
 
 **Bài 4 trang 48: There is one incorrect underlined word in each sentence. Circle and correct it.**
 (Có một từ gạch chân sai trong mỗi câu. Khoanh tròn và sửa lại.)
 
-1. A Hmong's house doesn't have much furnitures.
-2. Some ethnic minority women have much beautiful traditional costumes.
-3. Yesterday, I go to the Museum of Ethnology in Ha Noi.
-4. The Khmer have three main festivals in a year.
-5. Lan often goes to herd buffaloes with other boys in the village.
+1. A big stilt houses stands on posts.
+2. The Lahu build their houses from wood and wild banana leave.
+3. Much people in remote areas travel on foot.
+4. Most minority groups live in the mountain areas.
+5. The Viet have many tradition customs and craft.
 
 **Answers:**
-1. furnitures → furniture
-2. much → many
-3. go → went
+1. stands có s → houses bỏ s
+2. leaf: lá cây, số nhiều là leaves → thêm s thành leaves
+3. people đếm được → much đổi thành many
 4. ✓ (correct)
-5. ✓ (correct)
+5. tradition là danh từ, cần tính từ → traditional
