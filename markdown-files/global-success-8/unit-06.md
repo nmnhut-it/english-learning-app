@@ -22,14 +22,28 @@
 
 ### 💬 Content - Nội dung
 
+**Lifestyle differences** (Sự khác biệt về lối sống)
+
 **Nam:** Hello, Tom. How're things?
 **Nam:** Xin chào, Tom. Dạo này thế nào?
 
 **Tom:** Oh good. I like it here. The lifestyle is interesting and different from that in my country.
 **Tom:** Ồ, tốt. Tôi thích ở đây. Lối sống thật thú vị và khác so với ở nước tôi.
 
-**Nam:** Really? What do you find interesting?
-**Nam:** Thật sao? Anh thấy điều gì thú vị?
+**Nam:** Really?
+**Nam:** Thật sao?
+
+**Tom:** Sure. Students here call their teachers by their title "teacher", not by their names.
+**Tom:** Học sinh ở đây chỉ gọi giáo viên của họ bằng chức danh "thầy hoặc cô" thôi, không gọi tên.
+
+**Nam:** Right. How do you greet your teachers?
+**Nam:** Đúng rồi. Cậu chào giáo viên như thế nào?
+
+**Tom:** We usually say "Hello" or "Good morning" then Mr, Mrs, or Miss and their surnames, for example "Good morning, Mr Smith."
+**Tom:** Tụi mình thường nói "Xin chào" hoặc "Chào buổi sáng" sau đó là thầy hoặc cô và họ của người đó, ví dụ như là "Chào buổi sáng, thầy Smith."
+
+**Nam:** Are there other differences?
+**Nam:** Còn những khác biệt nào khác không?
 
 **Tom:** People buy and sell a lot of street food here. In my country, people usually buy food in a store or a restaurant.
 **Tom:** Mọi người mua và bán rất nhiều thức ăn đường phố ở đây. Ở nước tôi, mọi người thường mua thức ăn ở cửa hàng hoặc nhà hàng.
@@ -40,20 +54,11 @@
 **Tom:** And I've noticed that many people have breakfast on the street too! In my country, we typically have a light breakfast at home.
 **Tom:** Và tôi nhận thấy nhiều người ăn sáng trên đường phố nữa! Ở nước tôi, chúng tôi thường ăn sáng nhẹ ở nhà.
 
-**Nam:** I see. But here many adults are in the habit of having breakfast outside of their homes.
-**Nam:** Tôi hiểu rồi. Nhưng ở đây nhiều người lớn có thói quen ăn sáng bên ngoài nhà của họ.
+**Nam:** I see. But here many adults are in the habit of having breakfast outside of their homes. If they're not in a hurry, they'll even have a leisurely coffee there.
+**Nam:** Mình biết. Nhưng mà ở đây có nhiều người lớn có thói gian ăn sáng ở ngoài. Nếu họ không vội, họ sẽ thảnh thôi uống cà phê ở đó nữa.
 
-**Tom:** Another difference is the way you greet people in your country.
-**Tom:** Một sự khác biệt nữa là cách các bạn chào hỏi mọi người ở nước các bạn.
-
-**Nam:** What do you mean?
-**Nam:** Ý anh là gì?
-
-**Tom:** You often say just "Hello" or "Hi" when you meet someone. In my country, we usually greet others by saying "Good morning", "Good afternoon", or "Good evening".
-**Tom:** Các bạn thường chỉ nói "Xin chào" hoặc "Chào" khi gặp ai đó. Ở nước tôi, chúng tôi thường chào người khác bằng cách nói "Chào buổi sáng", "Chào buổi chiều", hoặc "Chào buổi tối".
-
-**Nam:** Well, I think every country has its own culture and lifestyle. And I find it fascinating to learn about them.
-**Nam:** À, tôi nghĩ mỗi quốc gia đều có văn hóa và lối sống riêng. Và tôi thấy thật hấp dẫn khi tìm hiểu về chúng.
+**Tom:** That's fascinating!
+**Tom:** Nghe thú vị đấy!
 
 ### ✍️ Exercises - Bài tập
 
@@ -64,43 +69,40 @@
 
 | In Nam's country | In Tom's country |
 |------------------|------------------|
-| - Students call their teachers by their **title** | - Students call teachers Mr, Mrs, Miss and their **surnames** |
-| - People have breakfast **outside/on the streets** | - People have breakfast at home |
-| - People buy and sell street food | - People usually buy food in a **restaurant** |
+| - Students greet teachers by their title | - Students refer to their teachers as Mr, Mrs, or Miss and their teachers' (1) _____ |
+| - People eat breakfast (2) _____ | - People eat breakfast at home |
+| - People buy and sell food on the roadside | - People often buy food in a (3) _____ |
 
 **Answers:** 
-- title
-- surnames  
-- outside/on the streets
-- restaurant
+1. surnames
+2. on the street  
+3. store or restaurant
 
 **Bài 3: Complete each sentence with a word or phrase from the box** (Hoàn thành mỗi câu với một từ hoặc cụm từ từ hộp)
 
-*lifestyle | greet | serve | common practice | habit*
+*greet | practice | serve | lifestyle | in the habit of*
 
 1. A balanced diet and exercise are important for a healthy _______.
 2. Handshaking, bowing, and hugging are some of the ways in which people _______ one another.
 3. Waiters and waitresses _______ food in restaurants.
-4. Going out for breakfast has become a _______ in this city.
-5. My mum is in the habit of keeping everything in the kitchen bright and clean.
+4. Going out for breakfast has become a common _______ in this city.
+5. My mum is _____ keeping everything in the kitchen bright and clean.
 
 **Answers:**
 1. lifestyle
 2. greet
 3. serve
-4. common practice
-5. habit
+4. practice
+5. in the habit of
 
 **Bài 4: Label each picture with a word or phrase from the box** (Dán nhãn cho mỗi bức tranh với một từ hoặc cụm từ từ hộp)
 
-*street food | food in restaurants | pizza | online learning | greeting*
-
 **Answers:**
-1. street food (thức ăn đường phố)
-2. food in restaurants (đồ ăn trong nhà hàng)
+1. street food (ẩm thực đường phố)
+2. food in the restaurant (đồ ăn trong nhà hàng)
 3. pizza (bánh pizza)
 4. online learning (học trực tuyến)
-5. greeting (chào hỏi)
+5. greet (chào)
 
 **Bài 5: GAME. Greetings around the world. Take the quiz** (TRÒ CHƠI. Lời chào trên khắp thế giới. Làm bài trắc nghiệm)
 
@@ -108,9 +110,9 @@
    A. Shaking hands
    B. Sticking out one's tongue
 
-2. In which country do people greet each other by touching noses?
-   A. The Philippines
-   B. New Zealand
+2. In the USA, people greet each other by _____.
+   A. shaking heads
+   B. saying "Hello"
 
 3. Thais greet their elders by saying "sawadee" and _______.
    A. shaking their heads
@@ -120,7 +122,11 @@
    A. kissing each other's cheek
    B. pressing their noses together
 
-**Answers:** 1-A, 2-B, 3-B, 4-B
+5. How do people in Japan normally greet each other?
+   A. They bow to each other.
+   B. They hug each other.
+
+**Answers:** 1-A, 2-B, 3-B, 4-B, 5-A
 
 ## A CLOSER LOOK 1 - TÌM HIỂU THÊM 1
 
@@ -146,18 +152,17 @@
 **Bài 1: Match the words and phrases with the pictures** (Nối các từ và cụm từ với hình ảnh)
 
 **Answers:**
-1. digital communication (giao tiếp kỹ thuật số)
-2. face recognition (nhận dạng khuôn mặt)
-3. eye-tracking (theo dõi mắt)
-4. experiment (thí nghiệm)
-5. fingerprint scanner (máy quét vân tay)
-6. video conferencing (hội nghị truyền hình)
+1. e - dogsled (xe trượt tuyết do chó kéo)
+2. d - making crafts (làm đồ thủ công)
+3. c - native art (tranh vẽ của người bản địa)
+4. a - weaving (dệt vải)
+5. b - tribal dance (vũ điệu của bộ tộc ít người)
 
 **Bài 2: Complete the sentences with the words and phrases from the box** (Hoàn thành các câu với các từ và cụm từ trong hộp)
 
-*weaving | tribal dances | native art | making crafts | dogsled*
+*tribal dances | weaving | dogsled | making crafts | native art*
 
-1. The traditional _______ of the villagers is _______ bamboo baskets.
+1. The traditional craft of the villagers is _______ bamboo baskets.
 2. We all joined in the _______ at the local festival.
 3. The gallery in the city centre has an excellent collection of _______.
 4. Hoa is very keen on _______. She loves to knit gloves after school.
@@ -173,38 +178,72 @@
 **Bài 3: Choose the correct answer A, B, or C to complete each sentence** (Chọn câu trả lời đúng A, B, hoặc C để hoàn thành mỗi câu)
 
 1. The tribal women know how to _______ these threads into beautiful clothes.
-   A. weave    B. make    C. cut
+   A. weave
+   B. make
+   C. cut
 
 2. She comes from Korea, so her _______ language is Korean.
-   A. modern    B. native    C. practical
+   A. modern
+   B. native
+   C. practical
 
 3. Sticking out one's tongue was a way of greeting in _______ Tibetan culture.
-   A. traditional    B. leisurely    C. simple
+   A. traditional
+   B. leisurely
+   C. simple
 
-4. How do people _______ New Year in your country, Jack?
-   A. practice    B. keep    C. celebrate
+4. How do people _______ New Years in your country, Jack?
+   A. practise
+   B. keep
+   C. celebrate
 
 5. We like that restaurant: it _______ very delicious food.
-   A. serves    B. cooks    C. takes
+   A. practices
+   B. serves
+   C. buys
 
-**Answers:** 1-A, 2-B, 3-A, 4-C, 5-A
+**Answers:** 1-A, 2-B, 3-A, 4-C, 5-B
 
 ### 🗣️ Pronunciation - Phát âm
 
 **Sounds /br/ and /pr/** (Âm /br/ và /pr/)
 
-- **/br/**: brother, breakfast, bring, brave, break
-- **/pr/**: present, practice, prince, prefer, prevent
-
 **Bài 4: Listen and repeat the words. Pay attention to the sounds /br/ and /pr/** (Nghe và lặp lại các từ. Chú ý đến âm /br/ và /pr/)
+
+| /br/ | /pr/ |
+|------|------|
+| bridge /brɪdʒ/: cây cầu | present /ˈpreznt/: món quà |
+| broccoli /ˈbrɒkəli/: bông cải | practise /ˈpræktɪs/: luyện tập |
+| breakfast /ˈbrekfəst/: bữa sáng | precious /ˈpreʃəs/: quý giá |
+| algebra /ˈældʒɪbrə/: đại số | programme /ˈprəʊɡræm/: chương trình |
+| celebrate /ˈselɪbreɪt/: ăn mừng | express /ɪkˈspres/: thể hiện |
 
 **Bài 5: Listen and practise the sentences. Underline the words with the sound /br/ and circle the words with the sound /pr/** (Nghe và luyện tập các câu. Gạch chân các từ có âm /br/ và khoanh tròn các từ có âm /pr/)
 
 1. My **brother** says online learning im(proves) our IT skills.
-2. Santa **Claus** (brings) a lot of (presents) to children.
-3. She'll (teach) us how to make **bread** and cheese.
-4. Is it a (problem) if I **borrow** your bike?
-5. The **principal** (promised) to (improve) school facilities.
+   (Anh tôi nói rằng học trực tuyến cải thiện kĩ năng tin học.)
+   - brother /ˈbrʌð.ər/
+   - improve /ɪmˈpruːv/
+
+2. Santa Claus **brings** a lot of (presents) to children.
+   (Ông già Noel mang rất nhiều món quà cho trẻ em.)
+   - bring /brɪŋ/
+   - present /ˈprez.ənt/
+
+3. She **briefly** introduced the new (programme).
+   (Cô ấy giới thiệu ngắn gọn về chương trình mới.)
+   - briefly /ˈbriːf.li/
+   - programme /ˈprəʊ.ɡræm/
+
+4. He spent a lot of time (preparing) for his al**gebra** test.
+   (Anh ấy dành rất nhiều thời gian chuẩn bị cho bài kiểm tra đại số.)
+   - prepare /prɪˈpeər/
+   - algebra /ˈæl.dʒə.brə/
+
+5. My mum (prays) at the temple before **breakfast** on Sundays.
+   (Mẹ tôi cầu nguyện ở đền trước bữa sáng vào mỗi Chủ nhật.)
+   - pray /preɪ/
+   - breakfast /ˈbrek.fəst/
 
 ## A CLOSER LOOK 2 - TÌM HIỂU THÊM 2
 
@@ -590,39 +629,77 @@ Online learning has several disadvantages. First, it is difficult to concentrate
 4. online lessons
 5. maintain
 
+**Giải thích:**
+- in the habit of: theo thói quen
+- greeted (v): chào
+- lifestyle (n): lối sống
+- online lessons (n): tiết học trực tuyến
+- maintain (v): duy trì
+
+**Hướng dẫn dịch:**
+1. Em gái tôi có thói quen nghe nhạc trong khi học bài.
+2. Người bản địa ở đây chào chúng tôi một cách ấm áp khi chúng tôi tới.
+3. Gần đây nhiều người đang cố gắng thực hiện một lối sống khỏe mạnh.
+4. Tôi cho rằng các bài học trực tuyến không thú vị bằng các lớp học trực tiếp.
+5. Khá khó để duy trì lối sống truyền thống ở nhiều ngôi làng.
+
 ### ✍️ Grammar Exercises - Bài tập ngữ pháp
 
 **Bài 3: Complete the sentences, using the correct tense of the verbs in brackets** (Hoàn thành các câu, sử dụng thì đúng của động từ trong ngoặc)
 
-1. The online shop (send) _______ us a confirmation email soon.
-2. I am not sure if I (be) _______ in time for dinner.
-3. We believe that he (become) _______ a top player in the future.
-4. If you (win) _______ the lottery, you will be a millionaire.
-5. (we/have) _______ an English test tomorrow?
+1. No worries. The organisers (send) _______ us an invitation soon.
+2. Unless they behave, those children (not be) _______ welcome here.
+3. Do you think online learning (become) _______ the new mode of education?
+4. If I (win) _______ the competition, I will donate half of the prize money to charity.
+5. ______ we (have to) _______ keep to the left when we drive in Singapore next week?
 
 **Answers:**
 1. will send
-2. will be
+2. won't be
 3. will become
 4. win
-5. Will we have
+5. Will we have to
+
+**Giải thích:**
+Cấu trúc thì tương lai đơn:
+- (+) S + will + V-inf + …
+- (−) S + won't + V-inf + …
+- (?) Will + S + V-inf + …?
+
+**Hướng dẫn dịch:**
+1. Đừng lo. Bên tổ chức sẽ gửi lời mời cho chúng ta sớm thôi.
+2. Trừ khi chúng biểu hiện tốt, đám trẻ đó sẽ không được chào đón ở đây.
+3. Cậu có nghĩ học trực tuyến sẽ trở thành hình thức giáo dục mới không?
+4. Nếu tôi thắng cuộc thi này, tôi sẽ quyên góp một nửa giải thưởng cho từ thiện.
+5. Liệu chúng ta sẽ phải đi bên trái khi chúng ta lái xe ở Singapore vào tuần sau không?
 
 **Bài 4: Rewrite the following sentences, so that their meaning stays the same** (Viết lại các câu sau, sao cho nghĩa của chúng không đổi)
 
-1. If you don't study harder, you won't pass the exams.
-   → Unless you study harder, you won't pass the exams.
+1. Don't play computer games for too long. You will harm your eyes.
+   If you play _______________________________.
 
-2. If you don't get up early, you will be late for school.
-   → Unless you get up early, you will be late for school.
+2. Be careful with your diet, or you will get overweight.
+   You will _________________________________.
 
-3. You won't get good grades if you don't try harder.
-   → Unless you try harder, you won't get good grades.
+3. We'll go to the beach unless it rains.
+   If ________________________________________.
 
-4. If we don't protect the environment, it will be polluted.
-   → Unless we protect the environment, it will be polluted.
+4. If you don't hurry up, you will be late.
+   Unless ____________________________________.
 
-5. If she doesn't practice more, she won't improve her English.
-   → Unless she practices more, she won't improve her English.
+5. Unless the teacher explains the lesson again, we won't understand it very well.
+   If ________________________________________.
+
+**Answers:**
+1. If you play computer games for long, you will harm your eyes.
+2. You will get overweight if you aren't careful with your diet.
+3. If it doesn't rain, we'll go to the beach.
+4. Unless you hurry up, you will be late.
+5. If the teacher doesn't explain the lesson again, we won't understand it very well.
+
+**Giải thích:**
+- Cấu trúc điều kiện loại I: If + Present Simple, Future Simple.
+- Unless = If … not … (trừ khi …)
 
 ## PROJECT - DỰ ÁN
 
