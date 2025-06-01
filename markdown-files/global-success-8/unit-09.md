@@ -26,37 +26,37 @@
 ### 💬 Content - Nội dung
 
 **Tom:** You look pretty sad, Mi. What's the matter?
-Tom: Bạn trông khá buồn đấy Mi. Có chuyện gì vậy?
+Tom: Trông cậu buồn quá Mi. Có chuyện gì thế?
 
 **Mi:** My uncle called us this morning. Our hometown has been affected by a flood. It's the second time this year.
-Mi: Chú tôi đã gọi cho chúng tôi sáng nay. Quê chúng tôi đã bị ảnh hưởng bởi một trận lụt. Đây là lần thứ hai trong năm nay.
+Mi: Bác mình mới gọi sáng nay. Quê mình mới bị ảnh hưởng bởi lũ. Đây là lần thứ hai trong năm rồi.
 
 **Tom:** I'm sorry to hear that. How are things there now?
-Tom: Tôi rất tiếc khi nghe điều đó. Mọi thứ ở đó bây giờ thế nào?
+Tom: Mình rất tiếc khi nghe điều đó. Mọi thứ bây giờ thế nào rồi?
 
 **Mi:** My uncle, his wife, and his children are all safe. They moved everything to the second floor of their house last night. Are there natural disasters in your hometown in the US?
-Mi: Chú tôi, vợ và các con của chú ấy đều an toàn. Họ đã chuyển mọi thứ lên tầng hai của ngôi nhà vào đêm qua. Có thiên tai ở thành phố quê hương của bạn ở Mỹ không?
+Mi: Bác mình, vợ bác và con của bác ấy, tất cả đều an toàn. Họ chuyển hết đồ đạc ở nhà họ lên tầng hai vào tối qua. Ở quê cậu ở Mỹ có xảy ra những thiên tai không?
 
 **Tom:** Yes, we sometimes have tornadoes.
-Tom: Có, đôi khi chúng tôi có lốc xoáy.
+Tom: Có chứ, đôi khi mình thấy lốc xoáy.
 
 **Mi:** Tornadoes? Sounds strange. What's a tornado?
-Mi: Lốc xoáy? Nghe lạ quá. Lốc xoáy là gì?
+Mi: Lốc xoáy? Nghe lạ quá. Lốc xoáy là gì thế?
 
 **Tom:** It's a violent storm that moves in a circle with very strong winds. I still remember the tornado we had last year.
-Tom: Đó là một cơn bão dữ dội di chuyển theo hình tròn với sức gió rất mạnh. Tôi vẫn nhớ trận lốc xoáy năm ngoái.
+Tom: Đó là một cơn bão rất dữ dội di chuyển theo hình tròn với gió rất mạnh. Mình vẫn nhớ đợt lốc xoáy năm ngoái.
 
 **Mi:** What happened?
-Mi: Chuyện gì đã xảy ra vậy?
+Mi: Chuyện gì đã xảy ra thế?
 
 **Tom:** One evening my parents and I were having dinner. Suddenly, we heard a very loud noise. When we looked out of the window, we saw a big funnel of wind moving towards us.
-Tom: Một buổi tối bố mẹ tôi và tôi đang ăn tối. Đột nhiên, chúng tôi nghe thấy một tiếng động rất lớn. Khi chúng tôi nhìn ra ngoài cửa sổ, chúng tôi thấy một luồng gió lớn đang di chuyển về phía chúng tôi.
+Tom: Một tối, gia đình mình đang ăn tối. Bất ngờ, mình nghe thấy một tiếng động rất lớn. Khi nhà mình nhìn ra ngoài cửa sổ, mình nhìn thấy một cái phễu gió lớn đang tiến về phía nhà mình.
 
 **Mi:** Did it cause any damage?
-Mi: Nó có gây thiệt hại gì không?
+Mi: Nó có gây ra thiệt hại gì không?
 
 **Tom:** Yes, a lot. It damaged the roof of our house and pulled up some trees in our yard. Fortunately, no one was hurt.
-Tom: Có, rất nhiều. Nó làm hỏng mái nhà của chúng tôi và nhổ bật một số cây cối trong sân của chúng tôi. May mắn thay, không có ai bị thương.
+Tom: Có, nhiều chứ. Nó làm hỏng mái nhà của nhà mình và nhổ bật một số cây cối trong sân nhà mình. May mắn là không có ai bị thương.
 
 ### ✍️ Exercises - Bài tập
 
@@ -70,8 +70,8 @@ Tom: Có, rất nhiều. Nó làm hỏng mái nhà của chúng tôi và nhổ b
 5. There was damage to Tom's family's property, but _____ was hurt.
 
 **Answer:**
-1. second
-2. storm
+1. second floor
+2. violent storm  
 3. were having
 4. pulled
 5. no one
@@ -92,15 +92,17 @@ Tom: Có, rất nhiều. Nó làm hỏng mái nhà của chúng tôi và nhổ b
 
 1. When there is a(n) earthquake / **volcanic eruption**, hot gases and liquid rock pour out from a mountain.
 2. Oh, the house is shaking! I think we're having a(n) **earthquake** / flood.
-3. We wanted to travel to Ha Giang, but there was a tornado / **landslide**.
-4. A lot of buildings were shaking violently when the earthquake / **storm** happened.
-5. Thousands of people are suffering from the recent **tornado** / flood in Haiti.
+3. We wanted to travel to Ha Giang, but there was a tornado / **landslide**.  
+   Some big rocks and mud came down the mountains.
+4. Every year more than ten floods / **storms** with strong winds and rain cause damage in our country.
+5. A **tornado** / storm looks like a huge funnel and causes a lot of damage.  
+   Its strong winds can reach 480 km per hour.
 
 **Answers:**
 1. volcanic eruption
 2. earthquake
 3. landslide
-4. earthquake
+4. storms
 5. tornado
 
 ## A CLOSER LOOK 1 - TÌM HIỂU THÊM 1
@@ -130,11 +132,43 @@ Tom: Có, rất nhiều. Nó làm hỏng mái nhà của chúng tôi và nhổ b
 
 Dấu nhấn thường rơi vào âm tiết đứng trước các đuôi -al hoặc -ous.
 
-**Ví dụ:**
-- musi**cal** /ˈmjuːzɪkl/
-- natu**ral** /ˈnætʃərəl/
-- danger**ous** /ˈdeɪndʒərəs/
-- disastr**ous** /dɪˈzɑːstrəs/
+**Bài 4 trang 94:** Listen and repeat the words. Pay attention to the word stress.
+(Lắng nghe và lặp lại các từ. Chú ý đến trọng âm của từ.)
+
+- **musical** /ˈmjuːzɪkəl/ : vở nhạc kịch
+- **dangerous** /ˈdeɪndʒərəs/ : nguy hiểm
+- **humorous** /ˈhjuːmərəs/ : tính hài hước
+- **national** /ˈnæʃənəl/ : thuộc về quốc gia
+- **practical** /ˈpræktɪkəl/ : thiết thực, có ích
+- **poisonous** /ˈpɔɪzənəs/ : có độc, độc hại
+- **personal** /ˈpɜːsənəl/ : dành cho cá nhân, riêng tư
+- **marvellous** /ˈmɑːvələs/ : tuyệt diệu, phi thường
+
+**Bài 5 trang 94:** Listen and repeat the sentences. Mark the stress in the underlined words.
+(Nghe và lặp lại các câu. Đánh dấu trọng âm trong các từ được gạch chân.)
+
+1. The flood victims are collecting their **personal** property.
+   (Những nạn nhân của trận lũ đang gom nhặt những tài sản cá nhân.)
+   **personal** /ˈpɜːsənəl/ => trọng âm 1
+
+2. Avoid **dangerous** places, such as windows or bookcases, during an earthquake.
+   (Tránh những nơi nguy hiểm trong lúc động đất, như cửa sổ hay giá sách.)
+   **dangerous** /ˈdeɪndʒərəs/ => trọng âm 1
+
+3. There are **numerous tropical** storms in this area every year.
+   (Có vô số cơn bão nhiệt đới ở khu vực này mỗi năm.)
+   **numerous** /ˈnjuːmərəs/ => trọng âm 1
+   **tropical** /ˈtrɒpɪkəl/ => trọng âm 1
+
+4. Some **natural** disasters, such as landslides, usually happen in **mountainous** areas.
+   (Vài thiên tai như sạt lở đất, thường xảy ra ở những vùng núi.)
+   **natural** /ˈnætʃərəl/ => trọng âm 1
+   **mountainous** /ˈmaʊntɪnəs/ => trọng âm 1
+
+5. She gave us **practical** tips about treating **poisonous** wastes.
+   (Cô ấy đã cho chúng tôi những lời khuyên thiết thực về việc xử lý chất thải độc hại.)
+   **practical** /ˈpræktɪkəl/ => trọng âm 1
+   **poisonous** /ˈpɔɪzənəs/ => trọng âm 1
 
 ### ✍️ Exercises - Bài tập
 
@@ -179,23 +213,25 @@ Dấu nhấn thường rơi vào âm tiết đứng trước các đuôi -al ho�
 ### 📖 Grammar - Ngữ pháp
 **Past Continuous Tense - Thì quá khứ tiếp diễn**
 
-**Form:**
+**Form - Cấu trúc:**
 - (+) S + was/were + V-ing
 - (-) S + was/were + not + V-ing
 - (?) Was/Were + S + V-ing?
 
 **Usage - Cách dùng:**
-1. Diễn tả hành động đang xảy ra tại một thời điểm cụ thể trong quá khứ.
-   - At 8 p.m. yesterday, I was watching TV.
-   - Lúc 8 giờ tối qua, tôi đang xem TV.
+Chúng ta sử dụng thì quá khứ tiếp diễn để miêu tả:
 
-2. Diễn tả hành động đang xảy ra thì có hành động khác xen vào (Past Simple).
-   - While I was sleeping, the phone rang.
-   - Khi tôi đang ngủ thì điện thoại reo.
+1. Một hành động đang xảy ra tại một thời điểm cụ thể trong quá khứ.
+   **Ví dụ:**
+   - I was having dinner at 6 p.m. yesterday.
+     (Tôi đang ăn tối lúc 6 giờ tối hôm qua.)
+   - Were you having dinner at 6 p.m. yesterday? – Yes, I was.
+     (Lúc 6 giờ tối qua bạn đang ăn tối à? – Đúng vậy.)
 
-**Note:**
-- Có thể dùng "when" hoặc "while" trước thì quá khứ tiếp diễn.
-- Chỉ dùng "when" trước thì quá khứ đơn.
+2. Một hành động đang diễn ra thì có một hành động khác chen ngang làm gián đoạn nó. Chúng ta sử dụng thì quá khứ đơn cho hành động chen ngang đó.
+   **Ví dụ:** 
+   - When/While we were watching TV, we felt the earthquake.
+     (Khi/Trong khi chúng tôi đang xem TV, chúng tôi cảm nhận được trận động đất.)
 
 ### ✍️ Exercises - Bài tập
 
@@ -220,19 +256,85 @@ Dấu nhấn thường rơi vào âm tiết đứng trước các đuôi -al ho�
 **Bài 2 trang 95:** Circle the correct answer to complete each sentence.
 (Khoanh tròn đáp án đúng để hoàn thành mỗi câu.)
 
-1. We donated / **were donating** money to help the earthquake victims last month.
-2. - What **were you doing** / did you do when the volcano erupted?
+1. We **donated** / were donating money to help the earthquake victims last month.
+2. - What did you do / **were you doing** when the volcano erupted?
    - I slept / **was sleeping** in my bed.
-3. While they **were camping** / camped near the river, the flood **came** / was coming suddenly.
+3. While they camped / **were camping** near the river, the flood was coming / **came** suddenly.
 4. After Tom **ran** / was running out of his house, he **moved** / was moving quickly to a safer place.
-5. I **wasn't reading** / didn't read a newspaper at 9 a.m. yesterday, but I **watched** / was watching the news about the tornado.
+5. I didn't read / **wasn't reading** a newspaper at 9 a.m. yesterday, but I **watched** / was watching the news about the tornado.
 
 **Answers:**
 1. donated
+   - *Giải thích:* Đây là một hành động xảy ra và kết thúc vào một thời điểm trong quá khứ, nên ta sẽ dùng thì quá khứ đơn.
 2. were you doing / was sleeping
+   - *Giải thích:* Một hành động đang xảy ra ở quá khứ thì bị hành động khác chen ngang vào, do đó chúng ta sẽ dùng thì quá khứ tiếp diễn.
 3. were camping / came
+   - *Giải thích:* Một hành động đang xảy ra ở quá khứ thì bị hành động khác chen ngang vào.
 4. ran / moved
+   - *Giải thích:* Những hành động liên tiếp xảy ra và kết thúc trong quá khứ, ta sẽ dùng thì quá khứ đơn.
 5. wasn't reading / watched
+   - *Giải thích:* Vế đầu tiên là một hành động đang xảy ra tại một thời điểm chính xác trong quá khứ, còn vế sau là một hành động xảy ra và kết thúc trong quá khứ.
+
+**Bài 3 trang 95:** Look at the picture and write what each person in Lan's family was doing when the earthquake happened. Use the given word and phrases from the box.
+(Nhìn vào bức tranh và viết những gì mọi người trong gia đình của Lan đã làm khi trận động đất xảy ra. Sử dụng từ và cụm từ đã cho trong hộp.)
+
+**watch TV     draw     read a book     drink tea     talk on the phone**
+
+**Sample answers:**
+1. Lan's mother was reading a book while Lan's grandparents **were watching** TV.
+   (Mẹ của Lan đang đọc một cuốn sách trong khi ông bà Lan xem TV.)
+
+2. Lan's father was drinking tea while he **was watching** TV.
+   (Bố Lan đang uống trà trong khi đang xem TV.)
+
+3. Lan's family was watching TV when she **was talking** on the phone.
+   (Gia đình Lan đang xem phim trên TV khi cô ấy nói chuyện trên điện thoại.)
+
+4. Lan's brother was drawing when she **was talking** on the phone.
+   (Em trai Lan đang vẽ tranh khi cô ấy nói chuyện trên điện thoại.)
+
+**Bài 4 trang 95:** Form questions using the past continuous. Then in pairs, ask and answer the questions.
+(Hình thành câu hỏi sử dụng thì quá khứ tiếp diễn. Sau đó theo cặp, hỏi và trả lời các câu hỏi.)
+
+**Example:**
+you / play / football / 5 o'clock yesterday afternoon?
+- Were you playing football at 5 o'clock yesterday afternoon?
+  (Có phải cậu đang chơi bóng vào 5 giờ chiều hôm qua không?)
+- Yes, I was. / No, I wasn't. I was doing my homework.
+  (Đúng rồi./ Không phải. Lúc đó mình đang làm bài tập.)
+
+1. you / have dinner / 7 o'clock yesterday evening?
+2. you / do / homework / 8 o'clock yesterday evening?
+3. you / watch / film / 9 o'clock yesterday evening?
+
+**Answers:**
+1. Were you having dinner at 7 o'clock yesterday evening?
+   (Có phải bạn đang ăn tối vào 7 giờ tối qua không?)
+   Yes, I was. / No, I wasn't. I was playing piano.
+   (Đúng rồi./ Không phải. Lúc đó tôi đang chơi đàn.)
+
+2. Were you doing homework at 8 o'clock yesterday evening?
+   (Có phải bạn đang làm bài tập vào 8 giờ tối qua không?)
+   Yes, I was. / No, I wasn't. I was watching TV.
+   (Đúng rồi./ Không phải. Lúc đó tôi đang xem TV.)
+
+3. Were you watching film at 9 o'clock yesterday evening?
+   (Có phải bạn đang xem phim vào 9 giờ tối qua không?)
+   Yes, I was. / No, I wasn't. I was sleeping.
+   (Đúng rồi./ Không phải. Lúc đó tôi đang ngủ.)
+
+**Bài 5 trang 95:** Memory challenge. Work in groups. Take turns to say a sentence that describes what each person in the picture was doing.
+(Thử thách trí nhớ. Làm việc nhóm. Thay phiên nhau nói một câu mô tả mỗi người trong tranh đang làm gì.)
+
+**Sample answers:**
+1. Ann and Lan were singing while Nam was cleaning the board.
+   (Ann và Lan đang hát trong khi Nam đang lau bảng.)
+
+2. Phong and Nick were playing chess while Mai was reading a book.
+   (Phong và Nick đang chơi cờ vua trong khi Mai đang đọc sách.)
+
+3. Ha and Mi were talking to each other.
+   (Hà và Mi đang nói chuyện với nhau.)
 
 ## COMMUNICATION - GIAO TIẾP
 
