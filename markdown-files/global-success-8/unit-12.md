@@ -22,6 +22,7 @@
 - **happy ending** : kết thúc có hậu /ˈhæpi ˈendɪŋ/
 - **attack** : (v) tấn công /əˈtæk/
 - **thrilling** : (adj) ly kỳ, gay cấn /ˈθrɪlɪŋ/
+- **imaginary** : (adj) tưởng tượng, không có thật /ɪˈmædʒɪnəri/
 
 ### 💬 Content - Nội dung
 
@@ -50,39 +51,41 @@
 #### Bài 2: Read the conversation again and tick (✓) T (True) or F (False)
 Đọc đoạn hội thoại lần nữa và đánh dấu (✓) T (Đúng) hoặc F (Sai)
 
-1. Soduka is a planet that is very different from Earth.
-2. Titu, Kaku, Hub, and Barb have to land on Earth because their spaceship breaks down.
-3. Tommy helps the four creatures make a new spaceship so that they can return to Soduka.
-4. The four creatures travel to Earth again to visit Tommy.
-5. The novel makes Nick and Mai think about the possibility that Earth might be attacked by aliens.
+|                                                                                                           | T | F |
+|-----------------------------------------------------------------------------------------------------------|---|---|
+| 1. Soduka is a planet that is very different from Earth.                                                 |   | ✓ |
+| 2. Titu, Kaku, Hub, and Barb have to land on Earth because their spaceship breaks down.                 | ✓ |   |
+| 3. Tommy helps the four creatures make a new spaceship so that they can return to Soduka.                |   | ✓ |
+| 4. The four creatures travel to Earth again to visit Tommy.                                              |   | ✓ |
+| 5. The novel makes Nick and Mai think about the possibility that Earth might be attacked by aliens.      | ✓ |   |
 
 **Answers:** 1-F, 2-T, 3-F, 4-F, 5-T
 
 #### Bài 3: Match the words (1-5) with their definitions (a-e)
 Nối các từ (1-5) với định nghĩa của chúng (a-e)
 
-1. possibility
-2. alien
-3. creature
-4. commander
-5. oppose
+1. oppose
+2. creatures
+3. commander
+4. aliens
+5. possibility
 
-a. a living thing real or imaginary
-b. against
-c. the fact that something might happen
-d. a person in control of a group, organization, or military
-e. a person or thing from a different planet
+a. real or imaginary living things
+b. living things from another world or planet
+c. to fight against
+d. the fact that something might exist or happen, but is not certain to
+e. an officer in charge of a particular group of soldiers
 
-**Answers:** 1-c, 2-e, 3-a, 4-d, 5-b
+**Answers:** 1-c, 2-a, 3-e, 4-b, 5-d
 
 #### Bài 4: Complete the sentences with the words in 3
 Hoàn thành các câu với các từ trong bài 3
 
 1. There is a _____ that we might visit Mars in the near future.
 2. The main character in the film is a boy who makes friends with some _____ from a planet.
-3. Dogs are more intelligent _____ than mice.
-4. The soldiers were given orders by their _____.
-5. Most people _____ the new policy of reducing holidays.
+3. Dogs are more social _____ than cats.
+4. These soldiers were punished because they didn't obey their _____.
+5. Some people _____ sending spaceships to explore other planets.
 
 **Answers:** 1-possibility, 2-aliens, 3-creatures, 4-commander, 5-oppose
 
@@ -139,13 +142,13 @@ Sau đây là tám hành tinh xoay quanh mặt trời. Sắp xếp chúng theo t
 #### Bài 2: Match the words (1-5) with the pictures (a-e)
 Nối các từ (1-5) với các hình ảnh (a-e)
 
-1. rocket
-2. galaxy
-3. crater
-4. satellite
-5. telescope
+1. telescope
+2. UFO
+3. rocket
+4. galaxy
+5. crater
 
-**Answers:** 1-e, 2-d, 3-a, 4-b, 5-c
+**Answers:** 1-e. telescope: kính viễn vọng; 2-d. UFO: vật thể không xác định ngoài hành tinh; 3-a. rocket: tên lửa; 4-b. galaxy: thiên hà; 5-c. crater: miệng núi lửa; hố
 
 #### Bài 3: Complete the following sentences with the words from the box
 Hoàn thành các câu sau với các từ trong hộp
@@ -200,13 +203,13 @@ Chúng ta thường sử dụng ask (hỏi), wonder (tự hỏi) và want to kno
 #### Bài 1: Underline the correct word or phrase for each sentence
 Gạch dưới từ hoặc cụm từ đúng cho mỗi câu
 
-1. I asked my teacher **when/where** there would be a mission to Mars.
-2. Jane wanted to know **if/who** humans could move to Mars.
-3. The scientist **wonders/wondered** whether they would find water on Mars.
-4. He asked **if/how** we would grow food on Mars.
-5. I wonder **when/what** the weather is like on Mars.
+1. He phoned to ask his mother what she was doing **now/then**.
+2. Ann wondered what plants Vietnamese people **grow/grew** for food.
+3. Peter phoned the shop to ask what specialities they are selling **there/here**.
+4. The student asked his professor what forms of life **can/could** exist on Mars.
+5. He wanted to know how many planets **there were/were there** in our solar system.
 
-**Answers:** 1-when, 2-if, 3-wondered, 4-how, 5-what
+**Answers:** 1-then, 2-grew, 3-there, 4-could, 5-there were
 
 #### Bài 2: Put the words and phrases in the correct order to make reported questions
 Sắp xếp các từ và cụm từ theo đúng thứ tự để tạo câu hỏi tường thuật
@@ -284,26 +287,55 @@ Nghe và đọc các đoạn hội thoại. Chú ý những câu được đánh
 **Ann**: **I doubt it**. Venus is too hot to support life.
 
 #### Bài 2: Work in pairs. Make similar conversations with the following situations
-Làm việc theo cặp. Tạo các cuộc hội thoại tương tự với các tình huống sau
+Làm việc theo cặp. Thực hiện hội thoại tương tự với các tình huống sau
 
-1. A: Do you think there may be water on Mars?
-   B: I doubt it. Scientists are trying to find water there.
+1. You are not sure about the possibility of water on Mars.
+2. You doubt that one of your friends will get a good mark on the English test.
+3. You are not sure if the weather will be fine tomorrow.
 
-2. A: Do you think Thinh will get a good mark on the English test?
-   B: I doubt it. He doesn't study hard enough.
+**Sample answers:**
 
-3. A: Do you think the weather will be fine tomorrow?
-   B: I am not sure about that.
+1. You are not sure about the possibility of water on Mars.
+   (Bạn không chắc về khả năng có nước trên Sao Hỏa.)
+   A: Do you think about the possibility of water on Mars?
+   (Bạn nghĩ sao về khả năng có nước trên Sao Hỏa?)
+   B: I'm not sure about it. Scientists are trying to find water there.
+   (Mình không chắc về điều đó nữa. Các nhà khoa học đang cố gắng tìm nước ở đó.)
+
+2. You doubt that one of your friends will get a good mark on the English test.
+   A: Do you think C will get a good mark on the English test?
+   (Cậu có nghĩ là C sẽ đạt điểm tốt trong bài kiểm tra Tiếng Anh không?)
+   B: I doubt it. He / She is not really good at English and he / she doesn't try.
+   (Mình nghi ngờ chuyện đó. Cậu ấy không giỏi Tiếng Anh lắm và cậu ấy cũng không cố gắng.)
+
+3. You are not sure if the weather will be fine tomorrow.
+   (Bạn không chắc liệu thời tiết ngày mai sẽ tốt hay không.)
+   A: Do you think the weather will be fine tomorrow?
+   (Bạn có nghĩ rằng thời tiết ngày mai có tốt không?)
+   B: I'm not sure about it. It looks so cloudy at the moment.
+   (Mình không chắc về điều đó nữa. Bây giờ trời nhiều mây lắm.)
 
 #### Bài 3: Read the information below and answer the questions that follow
 Đọc thông tin dưới đây và trả lời các câu hỏi sau
 
-**Facts about the planets:**
-- Mercury and Venus have no moons
-- Venus is nearly as big as Earth and is called the morning star
-- Mercury is the smallest and closest to the sun
-- Jupiter is the largest and stormiest planet
-- Mars has a similar day length to Earth (24.5 hours)
+**Mercury (Sao Thủy)**
+- smallest and closest to the sun with no moon
+  (nhỏ nhất và gần mặt trời nhất)
+- very hot in the daytime but very cold at night
+  (rất nóng vào ban ngày và rất lạnh vào ban đêm)
+- no atmosphere → no wind or weather on it
+  (không có bầu khí quyển → không có gió hay thời tiết.)
+
+**Jupiter (Sao Mộc)**
+- largest planet with about 63 moons (Hành tinh lớn nhất với 63 vệ tinh tự nhiên)
+- stormiest planet (hành tinh nhiều bão nhất)
+- third brightest object in the night sky (hành tinh sáng thứ 3 trên bầu trời đêm)
+
+**Venus (Sao Kim)**
+- hottest planet with no moon (hành tinh nóng nhất không có vệ tinh tự nhiên)
+- nearly as big as Earth (lớn gần bằng trái đất)
+- often very bright in the early morning → people call it the morning star.
+  (thường sáng nhất vào lúc sáng sớm → mọi người gọi nó là sao mai.)
 
 1. What planets have no moon?
    → Mercury and Venus have no moon.
@@ -320,10 +352,34 @@ Làm việc theo cặp. Tạo các cuộc hội thoại tương tự với các 
 5. What is the largest and stormiest planet?
    → Jupiter is the largest and stormiest planet.
 
+#### Bài 4: Work in pairs. Discuss and match the three planets in 3 with the pictures (1 - 3) below
+Làm việc theo cặp. Thảo luận và ghép 3 hành tinh trong 3 với các hình (1 - 3) bên dưới
+
+**Lời giải chi tiết:**
+(1) Mercury - Sao Thủy
+(2) Jupiter - Sao Mộc
+(3) Venus - Sao Kim
+
+#### Bài 5: Work in groups. Take turns to talk about one of the three planets in 3
+Làm việc nhóm. Thay phiên nhau nói về một trong ba hành tinh trong bài 3
+
+**Example:**
+I would like to tell you about Mercury. It is the smallest planet ...
+
+**Lời giải chi tiết:**
+1. I would like to tell you about Mercury. It is the smallest planet and closest to the sun with no moon. Mercury is very hot in the daytime but very cold at night. It has no atmosphere and no wind or weather on it.
+   (Mình muốn nói với các cậu về Sao Thủy. Nó là hành tinh nhỏ nhất và gần mặt trời nhất mà không có vệ tinh tự nhiên. Sao Thủy rất nóng vào ban ngày và lạnh vào ban đêm. Nó không có bầu khí quyển, gió hay thời tiết ở đó.)
+
+2. I would like to tell you about Jupiter, which is the largest planet with about 63 moons. It is known as the stormiest planet and the third brightest object in the night sky.
+   (Tôi muốn nói với các cậu về Sao Mộc, đó là hành tinh lớn nhất với 63 vệ tinh tự nhiên. Nó được biết đến là hành tinh nhiều bão nhất và là ngôi sao sáng thứ ba trên bầu trời đêm.)
+
+3. I would like to tell you about Venus. It is the hottest planet with no moon. Venus is also the planet nearly as big as Earth. People call it the morning star because it often very bright in the early morning.
+   (Tôi muốn nói với các bạn về Sao Kim. Nó là hành tinh nóng nhất mà không có vệ tinh tự nhiên. Sao Kim cũng là hành tinh lớn gần bằng Trái Đất. Mọi người gọi nó là sao mai vì nó thường rất sáng vào sáng sớm.)
+
 ## SKILLS 1 - KỸ NĂNG 1
 
 ### 📚 Vocabulary - Từ vựng
-- **wonder** : (v) tự hỏi, thắc mắc /ˈwʌndə/
+- **wonder** : (v) tự hỏi, thắc mắc; (n) kỳ quan, điều kỳ diệu /ˈwʌndə/
 - **meet three main conditions** : đáp ứng ba điều kiện chính /miːt θriː meɪn kənˈdɪʃnz/
 - **liquid water** : nước ở thể lỏng /ˈlɪkwɪd ˈwɔːtə/
 - **temperature** : (n) nhiệt độ /ˈtemprətʃə/
@@ -331,11 +387,24 @@ Làm việc theo cặp. Tạo các cuộc hội thoại tương tự với các 
 - **too low** : quá thấp /tuː ləʊ/
 - **gravity** : (n) trọng lực /ˈɡrævɪti/
 - **hold an atmosphere** : giữ bầu khí quyển /həʊld ən ˈætməsfɪə/
-- **habitable** : (adj) có thể cư trú được /ˈhæbɪtəbl/
-- **promising** : (adj) đầy hứa hẹn, triển vọng /ˈprɒmɪsɪŋ/
-- **trace** : (n) dấu vết /treɪs/
+- **hold too much air** : giữ quá nhiều không khí /həʊld tuː mʌtʃ eə/
+- **habitable** : (adj) có thể cư trú được, đáng ở /ˈhæbɪtəbl/
+- **promise** : (v) hứa, cam đoan; (n) lời hứa, cam kết /ˈprɒmɪs/
+- **promising** : (adj) đầy tính hứa hẹn, triển vọng /ˈprɒmɪsɪŋ/
+- **bore** : (v) làm chán, khoan, đục /bɔː/
+- **boring** : (adj) nhàm chán, tẻ nhạt /ˈbɔːrɪŋ/
+- **trace** : (n) dấu vết, vết tích; (v) truy tìm, vẽ theo /treɪs/
 - **climate** : (n) khí hậu /ˈklaɪmət/
-- **lack** : (v) thiếu /læk/
+- **lack** : (n) sự thiếu; (v) thiếu, không có /læk/
+- **show signs of** : cho thấy dấu hiệu của /ʃəʊ saɪnz ɒv/
+- **successful** : (adj) thành công, thắng lợi /səkˈsesfʊl/
+- **solid** : (adj) rắn, đặc, chắc chắn; (n) chất rắn /ˈsɒlɪd/
+- **gas** : (n) khí, chất khí /ɡæs/
+- **flow freely** : chảy tự do /fləʊ ˈfriːli/
+- **substance** : (n) chất, vật chất /ˈsʌbstəns/
+- **in the form of** : dưới dạng, theo hình thức /ɪn ðə fɔːm ɒv/
+- **exist** : (v) tồn tại, sinh sống /ɪɡˈzɪst/
+- **enough** : (adj) đủ; (adv) đủ, khá; (n) số lượng đủ /ɪˈnʌf/
 - **unsuitable** : (adj) không phù hợp /ʌnˈsuːtəbl/
 - **oxygen** : (n) oxy /ˈɒksɪdʒən/
 - **support human life** : hỗ trợ sự sống con người /səˈpɔːt ˈhjuːmən laɪf/
@@ -431,11 +500,21 @@ Có một số điều kiện mà các hành tinh phải có để hỗ trợ s�
 #### Bài 1: Work in pairs. Look at the picture and answer the following questions
 Làm việc theo cặp. Nhìn vào bức tranh và trả lời các câu hỏi sau
 
-1. What is it?
-   → It's an alien/a creature from another planet.
+1. Where do you think this creature is from?
+2. What do you think it can do?
 
-2. What planet do you think it's from?
-   → I think it's from Mars/a planet far from Earth.
+**Lời giải chi tiết:**
+
+1. Where do you think this creature is from?
+   (Bạn nghĩ sinh vật này là từ đâu ra?)
+   I think that creature is from other planet.
+   (Mình nghĩ là sinh vật này đến từ hành tinh khác.)
+
+2. What do you think it can do?
+   I think it can do a lot of things at the same time because it has four hands.
+   (Mình nghĩ là nó có thể làm nhiều thứ một lúc vì nó có bốn tay.)
+   For example: Four hands can wash the dishes faster than two hands.
+   (Ví dụ: Bốn tay có thể rửa bát nhanh hơn hai tay.)
 
 #### Bài 2: You will hear a student talking about an imaginary planet that supports life. Listen and choose the correct answer A, B, or C
 Bạn sẽ nghe một học sinh nói về một hành tinh tưởng tượng có sự sống. Nghe và chọn câu trả lời đúng A, B, hoặc C
@@ -465,48 +544,123 @@ Bạn sẽ nghe một học sinh nói về một hành tinh tưởng tượng c�
    B. three
    C. four
 
-**Answers:** 1-C, 2-A, 3-A, 4-A, 5-B
+**Lời giải chi tiết:**
+
+| 1. A | 2. C | 3. A | 4. A | 5. B |
+
+1. A
+Planet Hope is located __________.
+(Hành tinh Hy vọng tọa lạc ở _____.)
+A. in the Milky Way Galaxy
+(Dải Ngân Hà)
+B. in the Andromeda Galaxy
+(Thiên Hà Andromeda)
+C. close to the Milky Way Galaxy
+(gần với Dải Ngân Hà)
+Thông tin: Planet Hope is in the Milky Way Galaxy.
+(Hành tinh Hy vọng nằm trong Dải Ngân Hà.)
+
+2. C
+Planet Hope is ______________.
+(Hành tinh Hy vọng thì _____.)
+A. as big as Earth
+(lớn bằng Trái Đất)
+B. half the size of Earth
+(lớn bằng nửa Trái Đất)
+C. three times the size of Earth
+(gấp 3 lần kích cỡ Trái Đất)
+Thông tin: It is three times bigger than Earth.
+(Nó lớn gấp 3 lần Trái Đất.)
+
+3. A
+The climate on Planet Hope is ______________.
+(Khí hậu trên Hành tinh Hy vọng _____.)
+A. hot in the day but very cold at night
+(ngày nóng đêm lạnh)
+B. very hot all year around
+(nóng quanh năm)
+C. very cold all year round
+(lạnh quanh năm)
+Thông tin: ...so the weather is hot all year round...
+(...vậy nên thời tiết nóng quanh năm...)
+
+4. A
+Hopeans have thick skin to protect then from ____________.
+(Người dân ở hành tinh này có lớp da dày để bảo vệ họ khỏi _____.)
+A. the heat
+(cái nóng)
+B. the cold
+(cái lạnh)
+C. alien attacks
+(sự tấn công của người ngoài hành tinh)
+Thông tin: They have thick skin to protect them from the heat.
+(Họ có lớp da dày để bảo vệ họ khỏi cái nóng.)
+
+5. B
+Hopeans drink _______________.
+(Người dân ở hành tinh này uống _____.)
+A. liquid water from the sea
+(nước lỏng từ biển)
+B. petrol from under the ground
+(dầu từ dưới đất)
+C. almost nothing
+(không uống gì)
+Thông tin: ...they drink a type of petrol from under the ground.
+(... Họ uống một loại dầu từ dưới lòng đất.)
 
 #### Bài 3: Read the following information about Hopeans. Listen again and fill in each blank with ONE word or number that you hear
-Đọc thông tin sau về người Hope. Nghe lại và điền vào mỗi chỗ trống MỘT từ hoặc số mà bạn nghe được
+Đọc thông tin sau về Hopeans. Nghe lại và điền vào mỗi chỗ trống MỘT từ hoặc số mà bạn nghe được
 
-**HOPEANS**
-- Appearance: have a _____ head, _____ eyes, and _____ legs
-- Skin: _____ and _____ 
-- Drink: _____ from _____ underground
-- Favorite food: _____ rocks from the _____
-- Symbols on the _____ help Hopeans recognize others' _____.
+| Name | Hopeans |
+|------|------|
+| Living place | Planet Hope in the Milky Way Galaxy |
+| Appearance | Have a big head, (1) _____ eyes, two legs, and (2) ______ arms<br>Have thick skin to protect them from the heat |
+| Behaviour | Friendly and (3) _____<br>Only (4) _____ to people who try to attack them |
+| Lifestyle | Eat special (5) _____ and drink petrol from under the ground<br>Travel by (6) ______ at very high speeds |
 
-**Answers:**
-- Appearance: have a **large** head, **two** eyes, and **four** legs
-- Skin: **thick** and **dark**
-- Drink: **liquid** from **rocks** underground
-- Favorite food: **dried** rocks from the **mountains**
-- Symbols on the **head** help Hopeans recognize others' **feelings**.
+**Lời giải chi tiết:**
+
+| Name<br>(Tên) | Hopeans |
+|------|------|
+| Living place<br>(Nơi sống) | Planet Hope in the Milky Way Galaxy<br>(Hành tinh Hy vọng ở Dải Ngân Hà) |
+| Appearance<br>(Ngoại hình) | Have a big head, (1) **four** eyes, two legs, and (2) **four** arms<br>(Có đầu lớn, 4 mắt và 4 tay)<br>Have thick skin to protect them from the heat<br>(Có làn da dày để bảo vệ họ khỏi cái nóng) |
+| Behaviour<br>(Cách cư xử) | Friendly and (3) **hospitable**<br>(Thân thiện và hiếu khách)<br>Only (4) **dangerous** to people who try to attack them<br>(Chỉ nguy hiểm với những người cố gắng tấn công họ) |
+| Lifestyle<br>(Lối sống) | Eat special (5) **plants** and drink petrol from under the ground<br>(Ăn những loại cây đặc biêt và uống dầu từ trong lòng đất)<br>Travel by (6) **rockets** at very high speeds<br>(Di chuyển bằng tên lửa tốc độ cao) |
 
 ### ✍️ Writing - Viết
 
 #### Bài 4: Work in pairs. Use your imagination to make notes in the table below about what aliens living on another planet would be like
-Làm việc theo cặp. Sử dụng trí tưởng tượng của bạn để ghi chú vào bảng dưới đây về việc người ngoài hành tinh sống trên hành tinh khác sẽ như thế nào
+Làm việc theo cặp. Sử dụng trí tưởng tượng của bạn để ghi chú vào bảng dưới đây về người ngoài hành tinh sống trên hành tinh khác sẽ như thế nào
 
-| Category | Details |
-|----------|---------|
-| Planet name | Star Planet |
-| What they are called | Glowbeings |
-| Appearance | Three eyes, short body, four arms |
-| Skin | Green, smooth |
-| Behaviour | Friendly, shy, sleep during day |
-| Favourite food | Eat clouds, drink rain |
-| Special features | Can jump very high, talk to animals |
+**Lời giải chi tiết:**
 
-#### Bài 5: Write a paragraph (80-100 words) describing the aliens living on the planet you made notes about in 4
-Viết một đoạn văn (80-100 từ) mô tả người ngoài hành tinh sống trên hành tinh mà bạn đã ghi chú ở bài 4
+| Name<br>(Tên) | Enviamans |
+|------|------|
+| Living place<br>(Nơi sống) | Dreamy Planet in the Milky Way Galaxy<br>(Hành tinh Mộng mơ ở Dải Ngân Hà) |
+| Appearance<br>(Hình dạng) | Have a small head, big eyes, two legs, long arms and a short tail.<br>(Đầu nhỏ, mắt to, có 2 chân, cánh tay dài và đuôi ngắn)<br>They are blue, have thick skin to protect them from the heat.<br>(Họ có làn da xanh và dày để bảo vệ khỏi cái nóng.) |
+| Behaviour<br>(Tập tính) | Friendly (Thân thiện)<br>Only attack to people who try to attack them.<br>(Chỉ tấn công những ai cố gắng tấn công chúng.) |
+| Lifestyle<br>(Lối sống) | Eat rocks and drink water from the ocean.<br>(Ăn đá và uống nước từ đại dương.)<br>They can fly with high speeds.<br>(Có thể bay với tốc độ cao.) |
 
-**Sample answer:**
-Creatures living on Star Planet are called Glowbeings. They have three big eyes and a short, round body with four arms. Their skin is smooth and green, which helps them hide in the plants. Glowbeings are very friendly but a little shy when they meet new friends. They sleep all day and wake up at night when the stars come out. These aliens eat small pieces of clouds and drink rain water to stay healthy. Glowbeings can jump ten times higher than humans and have the special power to talk to animals. They live in small houses made of special stones that shine in the dark.
+#### Bài 5: Write a paragraph (80 - 100 words) describing aliens living on another planet. Use your notes in 4
+Viết đoạn văn (80 - 100 từ) tả người ngoài hành tinh sống ở hành tinh khác. Sử dụng ghi chú của bạn trong 4
 
-**Vietnamese translation:**
-Sinh vật sống trên Hành tinh Sao được gọi là Glowbeings. Chúng có ba con mắt to và thân hình tròn, ngắn với bốn cánh tay. Da của chúng mịn màng và xanh lá, giúp chúng ẩn mình trong cây cối. Glowbeings rất thân thiện nhưng hơi nhút nhát khi gặp bạn mới. Chúng ngủ cả ngày và thức dậy vào ban đêm khi các vì sao xuất hiện. Những người ngoài hành tinh này ăn những mảnh mây nhỏ và uống nước mưa để giữ sức khỏe. Glowbeings có thể nhảy cao gấp mười lần con người và có sức mạnh đặc biệt để nói chuyện với động vật. Chúng sống trong những ngôi nhà nhỏ làm từ đá đặc biệt phát sáng trong bóng tối.
+**Lời giải chi tiết:**
+
+Creatures living on Dreamy Planet are called Enviamans. They have a small head, big eyes, two legs, long arms and a short tail. They are blue, have a thick skin to protect them from the heat. Enviamans are friendly. They only attack to people who try to attack them. This creature also has a special lifestyle. They eat rocks and drink water from the ocean to survive. And they can fly with high speeds.
+
+(Sinh vật sống trên Hành tinh Mộng mơ được gọi là Enviamans. Chúng có một cái đầu nhỏ, mắt to, hai chân, tay dài và một cái đuôi ngăn. Chúng có làn da xanh và dày để bảo vệ khỏi cái nóng. Enviaman thân thiện. Chúng chỉ tấn công những ai cố gắng tấn công chúng. Sinh vật này cũng có một lối sống đặc biệt. Chúng ăn đá và uống nước từ đại dương để sống. Và chúng có thể bay với vận tốc lớn.)
+
+**Sample answer 2:**
+Creatures living on Zagy planet are called Zagians. These aliens have unique appearance with green, scaly skin, a long tail, and three eyes. They live in a vast network of caves deep underground. They are very friendly and hospitable. But they become very dangerous when they feel threatened. Zagians grow insects for their food. They do not drink liquid water; they drink special liquid from underground streams and lakes. Zagians build a system of tunnels to help them travel quickly through their underground world using skateboards. The discovery of these aliens could help us expand our understanding of the universe.
+
+**Tạm dịch:**
+Sinh vật sống trên hành tinh Zagy được gọi là Zagians. Những người ngoài hành tinh này có ngoại hình độc đáo với làn da xanh, có vảy, đuôi dài và ba mắt. Họ sống trong một mạng lưới hang động rộng lớn sâu dưới lòng đất. Họ rất thân thiện và hiếu khách. Nhưng họ trở nên rất nguy hiểm khi cảm thấy bị đe dọa. Người Zagians nuôi côn trùng để làm thức ăn. Họ không uống nước lỏng; họ uống chất lỏng đặc biệt từ các suối và hồ ngầm. Người Zagians xây dựng một hệ thống đường hầm để giúp họ di chuyển nhanh chóng qua thế giới ngầm của họ bằng ván trượt. Việc phát hiện ra những người ngoài hành tinh này có thể giúp chúng ta mở rộng hiểu biết về vũ trụ.
+
+**Sample answer 3:**
+Aliens live on a faraway planet called Zorlon. They are very tall and have green skin. Their eyes are big, and they have three fingers on each hand. The aliens can talk to each other without speaking because they use their minds. They live in big, round houses and fly in small spaceships. On Zorlon, the sky is always purple, and there are two suns. The aliens eat special plants that grow on their planet. They are friendly and like to learn about Earth. Maybe one day, they will visit us!
+
+**Tạm dịch:**
+Người ngoài hành tinh sống trên một hành tinh xa xôi tên là Zorlon. Họ rất cao và có làn da xanh. Mắt họ to và mỗi bàn tay có ba ngón. Người ngoài hành tinh có thể nói chuyện với nhau mà không cần nói vì họ sử dụng trí óc. Họ sống trong những ngôi nhà tròn lớn và bay trên những con tàu vũ trụ nhỏ. Trên Zorlon, bầu trời luôn có màu tím và có hai mặt trời. Người ngoài hành tinh ăn những loại cây đặc biệt mọc trên hành tinh của họ. Họ thân thiện và thích tìm hiểu về Trái Đất. Có thể một ngày nào đó, họ sẽ đến thăm chúng ta!
 
 ## LOOKING BACK - ÔN TẬP
 
@@ -540,78 +694,114 @@ Sinh vật sống trên Hành tinh Sao được gọi là Glowbeings. Chúng có
 ### ✍️ Exercises - Bài tập
 
 #### Bài 1: Write a word under each picture
-Viết một từ dưới mỗi bức ảnh
+Viết một từ dưới mỗi hình ảnh
 
-1. _____ (picture of a telescope)
-2. _____ (picture of a rocket)
-3. _____ (picture of craters)
-4. _____ (picture of an alien)
-5. _____ (picture of a galaxy)
-6. _____ (picture of a spaceship)
-
-**Answers:** 1-telescope, 2-rocket, 3-craters, 4-alien, 5-galaxy, 6-spaceship
+**Lời giải chi tiết:**
+1. crater - miệng núi lửa
+2. rocket - tên lửa
+3. UFO - vật thể bay không xác định
+4. alien - người ngoài hành tinh
+5. galaxy - thiên hà
+6. spaceship - tàu vũ trụ
 
 #### Bài 2: Circle the correct words to complete the sentences
-Khoanh tròn các từ đúng để hoàn thành câu
+Khoanh tròn từ đúng để hoàn thành câu
 
-1. In the near future, we will live/are living on the moon.
-2. My uncle asked me how many planets there were/are in the solar system.
-3. She wanted to know what the weather was/is like on Mars.
-4. They asked me when humans will/would travel to Mars.
-5. He wondered why we couldn't/can't live on Venus.
+1. UFOs / Rockets are spaceships from another planet.
+2. We have no possibility / condition of making our own spaceship.
+3. We can't find any living craters / creatures in the solar system except for us.
+4. Scientists are working to find a habitat / habitable planet.
+5. The gravity / atmosphere of the Earth makes things fall to the ground when we drop them.
 
-**Answers:** 1-will live, 2-were, 3-was, 4-would, 5-couldn't
+**Lời giải chi tiết:**
+1. **UFOS** are spaceships from another planet.
+   (Vật thể bay không xác định là những tàu không gian từ những hành tinh khác.)
+2. We have no **possibility** of making our own spaceship.
+   (Chúng ta không có khả năng tạo ra tàu vũ tru của riêng mình.)
+3. We can't find any living **creatures** in the solar system except for us.
+   (Chúng ta không thể tìm thấy những sinh vật sống trong hệ mặt trời ngoại trừ chúng ta.)
+4. Scientists are working to find a **habitable** planet.
+   (Các nhà khoa học đang làm việc để tìm kiếm một hành tinh sống được.)
+5. The **gravity** of the Earth makes things fall to the ground when we drop them.
+   (Trọng lực của Trái Đất khiến đồ vật rơi xuống đất khi chúng ta thả chúng.)
 
 #### Bài 3: Rewrite each sentence so that it is closest in meaning to the original one
 Viết lại mỗi câu sao cho gần nghĩa nhất với câu gốc
 
-1. "What is this novel about?" Mary said.
-   → Mary wanted to know what that novel was about.
-
-2. "Who is your favourite actor, Nick?" I said.
-   → I asked Nick who his favourite actor was.
-
-3. "When does the next train leave?" Mai asked me.
-   → Mai asked me when the next train left.
-
+1. "What is this novel about?" said Mary.
+   Mary wanted to know _________________.
+2. "Who's your favourite actor, Nick?" I said.
+   l asked Nick _________________________.
+3. "When does the next train leave?" Mai said to me.
+   Mai asked me _______________________.
 4. "How do the scientists observe the other planets?" the students asked.
-   → The students wondered how the scientists observed the other planets.
-
+   The students wondered ______________.
 5. Mai wondered, "Why can't humans live on Mars?"
-   → Mai wondered why humans couldn't live on Mars.
+   Mai wondered _______________________.
+
+**Lời giải chi tiết:**
+1. Mary wanted to know what that novel was about.
+   (Mary muốn biết cuốn tiểu thuyết này nói về gì.)
+2. I asked Nick who his favourite actor was.
+   (Tôi hỏi Nick ai là diễn viên ưa thích của cậu ấy.)
+3. Mai asked me what time the next train left.
+   (Mai hỏi tôi thời gian chuyến tàu tiếp theo rời đi.)
+4. The students wondered how the scientists observed the other planets.
+   (Những học sinh băn khoăn làm cách nào các nhà khoa học quan sát những hành tinh.)
+5. Mai wondered why humans couldn't live on Mars.
+   (Mai băn khoăn tại sao con người không thể sống trên Sao Hỏa.)
 
 #### Bài 4: Which of the underlined parts in each question is incorrect? Find and correct it
-Phần gạch chân nào trong mỗi câu hỏi là không đúng? Tìm và sửa lại
+Phần nào gạch chân trong mỗi câu hỏi là không chính xác? Tìm và sửa nó
 
-1. He said that Isaac Newton **discovers** gravity when an apple fell on him.
-2. Our teacher said that the World Wide Web **is** a free space for people to share knowledge.
-3. The man said that Nanolearning **will make** learning more interesting.
-4. Mike said that he **can design** a robot in the future.
-5. The headmaster said that his school **will use** face recognition **next year**.
+1. The teacher asked the pupils **what do they think** about life on Mars.
+2. **My father** asked me what I think **the future**.
+3. **Someone asked** the teacher what **how** **scientists** are exploring other planets.
+4. I asked my teacher what food **spacemen eat** when **travelling**.
+5. Scientists are still wondering **how many planets are** there in our galaxy.
 
-**Answers:**
-1. discovers → discovered
-2. is → was (or keep "is" if it's still true)
-3. will → would
-4. can → could
-5. next year → the following year
+**Lời giải chi tiết:**
+1. C
+   Giải thích: Trong câu trần thuật, ta chuyển động từ ở dạng hiện tại đơn sang dạng quá khứ đơn.
+   Sửa lại: The teacher asked the pupils what they were doing then.
+   (Giáo viên hỏi các học sinh họ đang làm gì.)
+
+2. A
+   Giải thích: Sử dụng sai từ tường thuật.
+   Sửa lại: My father asked me what I was going to do the following weekend.
+   (Bố hỏi tôi định làm gì vào cuối tuần sau.)
+
+3. B
+   Giải thích: Sử dụng sai từ để hỏi.
+   Sửa lại: My brother wanted to know how the scientists were exploring other planets.
+   (Em trai tôi muốn biết làm cách nào các nhà khoa học thám hiểm các hành tinh khác.)
+
+4. B
+   Giải thích: Trong câu trần thuật, ta chuyển động từ ở dạng hiện tại đơn sang dạng quá khứ đơn.
+   Sửa lại: I asked my teacher what food spacemen ate when they were travelling in a spacecraft.
+   (Tôi hỏi giáo viên của mình các phi hành gia ăn gì khi học du hành trong phi thuyền.)
+
+5. C
+   Giải thích: Trong câu trần thuật, không được đảo trợ động từ hay động từ tobe lên trước chủ ngữ.
+   Sửa lại: Scientists are still wondering how many planets there are in our galaxy.
+   (Các nhà khoa học vẫn băn khoăn liệu có bao nhiêu hành tinh trong thiên hà của chúng ta.)
 
 ## PROJECT - DỰ ÁN
 
-### Choose a planet in our solar system that you like and search for information about it
+### 1. Choose a planet in our solar system that you like and search for the information about it
 Chọn một hành tinh trong hệ mặt trời mà bạn thích và tìm kiếm thông tin về nó
 
-### Design a poster about that planet, including:
+### 2. Design a poster about that planet, including:
 Thiết kế một áp phích về hành tinh đó, bao gồm:
 
-1. **Name of the planet** - Tên hành tinh
-2. **Size** - Kích thước
-3. **Location in the solar system** - Vị trí trong hệ mặt trời
-4. **Number of moons** - Số lượng mặt trăng
-5. **Interesting facts** - Những sự thật thú vị
-6. **Pictures or drawings** - Hình ảnh hoặc bản vẽ
+- **Name of the planet** - Tên hành tinh
+- **Size** - Kích thước
+- **Location in the solar system** - Vị trí trong hệ mặt trời
+- **Number of moons** - Số lượng mặt trăng
+- **Interesting facts** - Những sự thật thú vị
+- **Pictures or drawings** - Hình ảnh hoặc bản vẽ
 
-### Present your poster to the class
+### 3. Present your poster to the class
 Trình bày áp phích của bạn trước lớp
 
 **Sample presentation:**
