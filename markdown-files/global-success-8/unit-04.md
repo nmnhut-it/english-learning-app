@@ -7,6 +7,7 @@
 - **hear - heard - heard** : (v) nghe /hɪər/ - /hɜːd/ - /hɜːd/
 - **ethnic group** : (n) nhóm dân tộc /ˈeθnɪk ɡruːp/
 - **only** : (adv) chỉ /ˈəʊnli/
+- **bamboo** : (n) tre, trúc /bæmˈbuː/
 - **bamboo house** : (n) nhà tre /ˌbæmˈbuː haʊs/
 - **terraced fields** : (n) ruộng bậc thang /ˈterəst fiːldz/
 - **awesome** : (adj) tuyệt vời /ˈɔːsəm/
@@ -14,13 +15,20 @@
 - **own** : (adj) của riêng /əʊn/
 - **folk dance** : (n) múa dân gian/dân vũ /fəʊk dæns/
 - **musical instrument** : (n) nhạc cụ /ˈmjuːzɪkəl ˈɪnstrəmənt/
+- **dan tinh** : (n) đàn tính /dæn tɪn/
 - **five-colour sticky rice** : (n) xôi ngũ sắc /faɪv ˈkʌlər ˈstɪki raɪs/
+- **minority** : (n) thiểu số /maɪˈnɒrəti/
 - **minority group** : (n) nhóm thiểu số /maɪˈnɒrəti ɡruːp/
 - **multi-storey home** : (n) nhà nhiều tầng /ˌmʌlti ˈstɔːri həʊm/
 - **mention** : (v) đề cập /ˈmenʃən/
 - **costume** : (n) trang phục /ˈkɒstjuːm/
 - **stilt house** : (n) nhà sàn /stɪlt haʊs/
 - **post** : (n) cây cột /pəʊst/
+- **peaceful** : (adj) yên bình /ˈpiːsfəl/
+- **nature** : (n) thiên nhiên /ˈneɪtʃər/
+- **village** : (n) làng /ˈvɪlɪdʒ/
+- **overlook** : (v) nhìn ra /ˌəʊvəˈlʊk/
+- **traditional** : (adj) truyền thống /trəˈdɪʃənəl/
 
 ### 💬 Dialogue - Hội thoại
 **Tom:** Hi, I'm Tom. You look new here.  
@@ -121,15 +129,22 @@ Nung | Hmong | Cham | Ede | Bahnar | Khmer
 - **wooden statue** : (n) tượng bằng gỗ /ˈwʊdən ˈstætʃuː/
 - **Rong house** : (n) nhà Rông /rɒŋ haʊs/
 - **weaving** : (n) việc dệt (vải) /ˈwiːvɪŋ/
+- **weave** : (v) dệt /wiːv/
 - **bamboo flute** : (n) sáo tre/trúc /ˌbæmˈbuː fluːt/
-- **gong** : (n) cồng /ɡɒŋ/
+- **gong** : (n) cồng, cồng chiêng /ɡɒŋ/
 - **terraced fields** : (n) ruộng bậc thang /ˈterəst fiːldz/
-- **livestock = cattle + poultry** : (n) vật nuôi = gia súc + gia cầm /ˈlaɪvstɒk/ = /ˈkætl/ + /ˈpəʊltri/
+- **livestock** : (n) vật nuôi /ˈlaɪvstɒk/
+- **cattle** : (n) gia súc /ˈkætl/
+- **poultry** : (n) gia cầm /ˈpəʊltri/
 - **communal house** : (n) nhà cộng đồng /ˈkɒmjənəl haʊs/
 - **weed** : (n, v) cỏ, nhổ cỏ /wiːd/
+- **unique** : (adj) độc đáo /juːˈniːk/
+- **feature** : (n) đặc điểm /ˈfiːtʃə/
 - **unique features** : (n) đặc điểm độc đáo /juːˈniːk ˈfiːtʃəz/
 - **raise** : (v) nuôi, chăn nuôi /reɪz/
 - **minority group** : (n) nhóm thiểu số /maɪˈnɒrəti ɡruːp/
+- **gardening** : (n) làm vườn /ˈɡɑːdnɪŋ/
+- **traditional** : (adj) truyền thống /trəˈdɪʃənəl/
 
 ### 🗣️ Pronunciation - Phát âm
 **Focus on /k/ and /g/ sounds**
@@ -303,7 +318,26 @@ Some minority (1) groups are farmers. They do not have much (2) land and they us
 ## COMMUNICATION - GIAO TIẾP
 
 ### 📚 Vocabulary - Từ vựng
-No specific vocabulary list provided in this section.
+- **population** : (n) dân số /ˌpɒpjuˈleɪʃn/
+- **mainly** : (adv) chủ yếu /ˈmeɪnli/
+- **province** : (n) tỉnh /ˈprɒvɪns/
+- **language** : (n) ngôn ngữ /ˈlæŋɡwɪdʒ/
+- **life** : (n) cuộc sống /laɪf/
+- **make a living** : (v) kiếm sống /meɪk ə ˈlɪvɪŋ/
+- **grow crops** : (v) trồng trọt /ɡrəʊ krɒps/
+- **make pottery** : (v) làm gốm /meɪk ˈpɒtəri/
+- **festival** : (n) lễ hội /ˈfestɪvəl/
+- **the Kinh** : (n) người Kinh /ðə kɪŋ/
+- **the Tay** : (n) người Tày /ðə taɪ/
+- **the Hmong** : (n) người H'mông /ðə mɒŋ/
+- **the Jrai** : (n) người Gia Rai /ðə dʒəˈraɪ/
+- **the Khmer** : (n) người Khơ-me /ðə kmɛə/
+- **the Ede** : (n) người Ê-đê /ðə ˈeɪdeɪ/
+- **the Bahnar** : (n) người Ba-na /ðə bəˈnɑː/
+- **the Lao** : (n) người Lào /ðə laʊ/
+- **the Nung** : (n) người Nùng /ðə nʊŋ/
+- **the Cham** : (n) người Chăm /ðə tʃæm/
+- **the Coho** : (n) người Cơ-ho /ðə kəˈhəʊ/
 
 ### 🗣️ Asking and Giving Opinions - Hỏi và Đưa ra Ý kiến
 
@@ -366,17 +400,37 @@ Work with a partner and choose the best answers.
 ## SKILLS 1 - KỸ NĂNG 1
 
 ### 📚 Vocabulary - Từ vựng
-- **stilt house** : nhà sàn
+- **stilt house** : (n) nhà sàn /stɪlt haʊs/
 - **popular** : (adj) phổ biến /ˈpɒpjʊlə/
+- **different** : (adj) khác nhau /ˈdɪfərənt/
 - **highland** : (n) cao nguyên /ˈhaɪlənd/
+- **northern highlands** : (n) vùng cao phía Bắc /ˈnɔːðən ˈhaɪləndz/
 - **delta** : (n) đồng bằng /ˈdeltə/
+- **Mekong Delta** : (n) Đồng bằng sông Cửu Long /meˈkɒŋ ˈdeltə/
+- **size** : (n) kích cỡ /saɪz/
+- **style** : (n) kiểu dáng /staɪl/
 - **culture** : (n) văn hóa /ˈkʌltʃə/
 - **material** : (n) vật liệu /məˈtɪəriəl/
+- **natural** : (adj) tự nhiên /ˈnætʃrəl/
+- **wood** : (n) gỗ /wʊd/
+- **bamboo** : (n) tre, trúc /bæmˈbuː/
+- **leaves** : (n) lá cây /liːvz/
 - **post** : (n) cây cột /pəʊst/
+- **strong** : (adj) chắc chắn /strɒŋ/
+- **safe from** : (adj) an toàn khỏi /seɪf frɒm/
+- **wild animals** : (n) thú hoang dã /waɪld ˈænɪməlz/
+- **staircase** : (n) cầu thang /ˈsteəkeɪs/
+- **kitchen** : (n) nhà bếp /ˈkɪtʃɪn/
+- **open fire** : (n) bếp lửa /ˈəʊpən ˈfaɪə/
 - **in the middle of** : ở giữa
-- **family gathering** : (n) đoàn tụ gia đình
-- **receive guests** : (v) tiếp khách
+- **family gathering** : (n) đoàn tụ gia đình /ˈfæməli ˈɡæðərɪŋ/
+- **receive guests** : (v) tiếp khách /rɪˈsiːv ɡests/
 - **overlook** : (v) nhìn ra /ˌəʊvəˈlʊk/
+- **face** : (v) hướng về /feɪs/
+- **field** : (n) cánh đồng /fiːld/
+- **forest** : (n) rừng /ˈfɒrɪst/
+- **mountain** : (n) núi /ˈmaʊntɪn/
+- **heart** : (n) trung tâm, trái tim /hɑːt/
 
 ### 📖 Reading - Đọc
 
@@ -440,7 +494,31 @@ I live in a detached house in the countryside. It is built out of brick and conc
 ## SKILLS 2 - KỸ NĂNG 2
 
 ### 📚 Vocabulary - Từ vựng
-No specific vocabulary list provided in this section.
+- **ethnic minority children** : (n) trẻ em dân tộc thiểu số /ˈeθnɪk maɪˈnɒrəti ˈtʃɪldrən/
+- **help** : (v) giúp đỡ /help/
+- **inside** : (adv) bên trong /ˌɪnˈsaɪd/
+- **outside** : (adv) bên ngoài /ˌaʊtˈsaɪd/
+- **from an early age** : từ khi còn nhỏ /frɒm ən ˈɜːli eɪdʒ/
+- **learn** : (v) học /lɜːn/
+- **work** : (v) làm việc /wɜːk/
+- **look after** : (v) chăm sóc /lʊk ˈɑːftə/
+- **care for** : (v) chăm sóc /keə fɔː/
+- **weave clothing** : (v) dệt quần áo /wiːv ˈkləʊðɪŋ/
+- **prepare food** : (v) chuẩn bị thức ăn /prɪˈpeə fuːd/
+- **grow crops** : (v) trồng trọt /ɡrəʊ krɒps/
+- **raise livestock** : (v) chăn nuôi gia súc /reɪz ˈlaɪvstɒk/
+- **catch fish** : (v) bắt cá /kætʃ fɪʃ/
+- **evening** : (n) buổi tối /ˈiːvnɪŋ/
+- **gather round** : (v) quây quần /ˈɡæðə raʊnd/
+- **story** : (n) câu chuyện /ˈstɔːri/
+- **legend** : (n) truyền thuyết /ˈledʒənd/
+- **hero** : (n) anh hùng /ˈhɪərəʊ/
+- **grandparents** : (n) ông bà /ˈɡrændpeərənts/
+- **nowadays** : (adv) ngày nay /ˈnaʊədeɪz/
+- **go to school** : (v) đi học /ɡəʊ tuː skuːl/
+- **meet** : (v) gặp /miːt/
+- **play games** : (v) chơi trò chơi /pleɪ ɡeɪmz/
+- **learn new things** : (v) học những điều mới /lɜːn njuː θɪŋz/
 
 ### 👂 Listening - Nghe
 
@@ -494,7 +572,35 @@ I usually help my family do things. Firstly, I prepare food and sometimes help m
 
 ### 📚 Vocabulary Review - Ôn tập từ vựng
 
-No specific vocabulary list provided in this section.
+**Complete vocabulary list for Unit 4:**
+- **ethnic group** : (n) dân tộc, nhóm dân tộc /ˈeθnɪk ɡruːp/
+- **minority** : (n) thiểu số /maɪˈnɒrəti/
+- **minority group** : (n) nhóm thiểu số /maɪˈnɒrəti ɡruːp/
+- **stilt house** : (n) nhà sàn /stɪlt haʊs/
+- **terraced fields** : (n) ruộng bậc thang /ˈterəst fiːldz/
+- **folk dance** : (n) múa dân gian /fəʊk dæns/
+- **musical instrument** : (n) nhạc cụ /ˈmjuːzɪkəl ˈɪnstrəmənt/
+- **communal house** : (n) nhà cộng đồng /ˈkɒmjənəl haʊs/
+- **Rong house** : (n) nhà Rông /rɒŋ haʊs/
+- **weaving** : (n) việc dệt vải /ˈwiːvɪŋ/
+- **weave** : (v) dệt /wiːv/
+- **gong** : (n) cồng chiêng /ɡɒŋ/
+- **bamboo flute** : (n) sáo trúc /ˌbæmˈbuː fluːt/
+- **wooden statue** : (n) tượng gỗ /ˈwʊdən ˈstætʃuː/
+- **livestock** : (n) vật nuôi /ˈlaɪvstɒk/
+- **cattle** : (n) gia súc /ˈkætl/
+- **poultry** : (n) gia cầm /ˈpəʊltri/
+- **raise** : (v) chăn nuôi /reɪz/
+- **traditional culture** : (n) văn hóa truyền thống /trəˈdɪʃənəl ˈkʌltʃə/
+- **costume** : (n) trang phục /ˈkɒstjuːm/
+- **open fire** : (n) bếp lửa /ˈəʊpən ˈfaɪə/
+- **sticky rice** : (n) gạo dính, nếp /ˈstɪki raɪs/
+- **folk songs** : (n) dân ca /fəʊk sɒŋz/
+- **staircase** : (n) cầu thang /ˈsteəkeɪs/
+- **fishing** : (n) đánh cá /ˈfɪʃɪŋ/
+- **unique features** : (n) đặc điểm độc đáo /juːˈniːk ˈfiːtʃəz/
+- **overlook** : (v) nhìn ra /ˌəʊvəˈlʊk/
+- **peaceful** : (adj) yên bình /ˈpiːsfəl/
 
 ### ✍️ Exercises - Bài tập
 
