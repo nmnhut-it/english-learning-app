@@ -4,12 +4,12 @@
 
 ### 📚 Vocabulary - Từ vựng
 
-1. **fair** : (n) hội chợ /feə(r)/
+1. **fair** : (n) hội chợ /feə/
 2. **awesome** : (adj) tuyệt vời /ˈɔːsəm/
 3. **open-air market** : chợ ngoài trời /ˈəʊpən eə(r) ˈmɑːkɪt/
 4. **what do you like about it** : bạn thích gì về nó /wɒt duː juː laɪk əˈbaʊt ɪt/
 5. **costume** : (n) trang phục /ˈkɒstjuːm/
-6. **wear** : (v) mặc /weə(r)/
+6. **wear** : (v) mặc /weə/
 7. **minority group** : nhóm dân tộc thiểu số /maɪˈnɒrəti ɡruːp/
 8. **sell - sold - sold** : (v) bán /sel - səʊld - səʊld/
 9. **home-grown** : (adj) tự trồng tại nhà /həʊm ɡrəʊn/
@@ -21,44 +21,42 @@
 15. **fixed price** : giá cố định /fɪkst praɪs/
 16. **price tag** : nhãn giá /praɪs tæɡ/
 17. **convenient** : (adj) thuận tiện /kənˈviːniənt/
-18. **convenience store** : cửa hàng tiện lợi /kənˈviːniəns stɔː(r)/
-19. **art lesson** : bài học mỹ thuật /ɑːt ˈlesn/
-20. **on the way** : trên đường đi /ɒn ðə weɪ/
+18. **convenience store** : cửa hàng tiện lợi /kənˈviːniəns stɔː/
 
 ### 💬 Content - Nội dung
 
 **Mai**: How was your trip to Bac Ha, Alice?
-Chuyến đi Bắc Hà của bạn thế nào, Alice?
+Aice, chuyến đi của cậu đến Bắc Hà như thế nào?
 
 **Alice**: It's awesome. I like Bac Ha Fair most. It's an open-air market in Lao Cai.
-Nó thật tuyệt. Mình thích Chợ Bắc Hà nhất. Đó là một khu chợ ngoài trời ở Lào Cai.
+Tuyệt vời. Mình thích Hội chợ Bắc Hà nhất. Nó là một khu chợ trời ở Lào Cai.
 
 **Mai**: What do you like about it?
-Bạn thích gì về nó?
+Cậu thích điều gì ở đó?
 
 **Alice**: Many things. The people at the market were wearing really colourful costumes.
-Nhiều thứ. Những người ở chợ đang mặc trang phục rất nhiều màu sắc.
+Nhiều thứ lắm. Mọi người ở khu chợ mặc rất nhiều bộ đồ đầy màu sắc.
 
-**Mai**: Yeah... They came from different minority groups.
-Ừ... Họ đến từ các nhóm dân tộc thiểu số khác nhau.
+**Mai**: Yeah ... They came from different minority groups.
+Đúng rồi ... Họ đến từ những dân tộc khác nhau.
 
 **Alice**: I think so, and most of the products sold at the market were home-grown and home-made. I love it.
-Mình nghĩ vậy, và hầu hết các sản phẩm bán ở chợ đều được trồng tại nhà và làm thủ công. Mình rất thích điều đó.
+Mình cũng thế, và hầu hết các sản phẩm ở chợ đều là tự trồng và tự làm lấy. Mình rất thích điều đó.
 
-**Mai**: Are there similar markets in New Zealand?
-Ở New Zealand có những khu chợ tương tự không?
+**Mai**: Do you have similar markets in New Zealand?
+Ở Niu Di-lân có khu chợ như thế không?
 
 **Alice**: Yes, we do. Back in my city, Auckland, we have a farmers' market every Saturday where farmers sell their products. My mother loves shopping there, and she rarely misses one.
-Có, chúng tôi có. Ở thành phố của tôi, Auckland, chúng tôi có một chợ nông sản mỗi thứ Bảy nơi nông dân bán sản phẩm của họ. Mẹ tôi rất thích mua sắm ở đó, và bà hiếm khi bỏ lỡ phiên chợ nào.
+Có chứ. Ở thành phố của mình, Auckland, tụi mình có một khu chợ nông sản nơi mà nông dân bán những sản phẩm của họ. Mẹ mình rất yêu thích mua sắm ở đó và bà ấy hiếm khi bỏ lỡ một lần nào.
 
 **Mai**: I prefer shopping at the supermarket. I can find almost everything I need there, and I don't have to bargain. All the items have fixed prices on their price tags.
-Mình thích mua sắm ở siêu thị hơn. Mình có thể tìm thấy hầu hết mọi thứ mình cần ở đó, và mình không phải mặc cả. Tất cả các món hàng đều có giá cố định trên nhãn giá của chúng.
+Mình thích mua sắm ở siêu thị. Mình có thể tìm thất hầu hết mọi thứ mình cần ở đây và mình không cần phải trả giá. Tất cả mọi mặt hàng đều có giá cố định trên nhãn giá.
 
 **Alice**: Right. It's more convenient.
-Đúng vậy. Nó thuận tiện hơn.
+Đúng rồi. Như vậy thì tiện lợi hơn.
 
-**Mai**: Yeah... Oh, I've got to go. My art lesson starts at one o'clock, and I want to go to a convenience store on the way. See you later.
-Ừ... Ồ, mình phải đi đây. Lớp học vẽ của mình bắt đầu lúc một giờ, và mình muốn ghé cửa hàng tiện lợi trên đường đi. Hẹn gặp lại sau.
+**Mai**: Yeah ... Oh, I've got to go. My art lesson starts at one o'clock, and I want to go to a convenience store on the way. See you later.
+Ừa… Ồ, đến lúc mình phải đi rồi. Tiết mỹ thuật của mình sẽ bắt đầu vào lúc một giờ và mình muốn đến cửa hàng tiện lợi trên đường đi. Hẹn gặp lại cậu.
 
 **Alice**: See you.
 Hẹn gặp lại.
@@ -68,28 +66,28 @@ Hẹn gặp lại.
 **Bài 1**: Listen and read
 (Nghe và đọc)
 
+**My favourite shopping place**
+(Nơi mua sắm yêu thích của tôi)
+
 **Bài 2**: Mai and Alice mentioned four places where they can buy things. Complete the list.
 (Mai và Alice đã đề cập đến bốn nơi mà họ có thể mua đồ. Hoàn thành danh sách)
 
 **Answer:**
-1. open-air market
-2. supermarket
-3. farmers' market
-4. convenience store
+1. open-air market (khu chợ trời)
+2. farmers' market (chợ nông sản)
+3. supermarket (siêu thị)
+4. convenience store (cửa hàng tiện lợi)
 
 **Bài 3**: Match the types of markets with the features.
 (Nối các loại chợ với các đặc điểm)
 
-Types of markets:
-1. Open-air market
-2. Supermarket
-
-Features:
-a. It's outdoor (Nó ở ngoài trời)
-b. The goods are displayed on shelves (Hàng hóa được trưng bày trên kệ)
-c. Shoppers can bargain (Người mua hàng có thể trả giá)
-d. All items have fixed prices (Tất cả món hàng có giá cố định)
-e. The weather doesn't affect shopping (Thời tiết không ảnh hưởng việc mua sắm)
+Types of markets | Features
+---|---
+1. Open-air market | a. It's outdoor (Ở ngoài trời)
+2. Supermarket | b. Goods are displayed on shelves (Hàng hóa được trưng bày trên kệ)
+ | c. Shoppers can bargain (Người mua có thể trả giá)
+ | d. All items have fixed prices (Tất cả các món đồ đều có giá cố định)
+ | e. The weather does not affect shopping (Thời tiết không ảnh hưởng đến việc mua sắm)
 
 **Answer:**
 1. Open-air market: a, c
@@ -98,30 +96,48 @@ e. The weather doesn't affect shopping (Thời tiết không ảnh hưởng vi�
 **Bài 4**: Complete the sentences with the words and phrases from the box.
 (Hoàn thành các câu với các từ và cụm từ trong hộp)
 
-bargain | convenience store | home-grown | price tag | home-made
+home-grown | bargain | home-made | price tag | convenience store
 
-1. What's a ....? - It's when buyers talk to the sellers to get a lower price.
-2. A .... is a small shop and is usually open 24/7.
-3. Try our .... salad. The vegetables are from our garden.
-4. How much is this T-shirt? I can't see the ....
-5. Try our .... bread, Mai. My mother made it this morning.
+1. - What is '_____'?
+   - It's when buyers talk to the sellers to get a lower price.
+2. A _____ is a small shop and is usually open 24/7.
+3. This salad is made of _____ vegetables.
+4. How much is this T-shirt? I cannot see the _____.
+5. Try our _____ bread, Mai. My mother made it this morning.
 
 **Answer:**
-1. bargain
-2. convenience store
-3. home-grown
-4. price tag
-5. home-made
+1. bargain (trả giá)
+2. convenience store (cửa hàng tiện lợi)
+3. home-grown (nhà trồng)
+4. price tag (nhãn giá)
+5. home-made (nhà làm)
 
 **Bài 5**: GAME. Listing. Work in groups. Quickly write down the names of some speciality shops. The group with the most correct answers wins.
 (TRÒ CHƠI. Liệt kê. Làm việc theo nhóm. Viết nhanh tên của một số cửa hàng chuyên dụng. Nhóm có nhiều câu trả lời đúng nhất sẽ thắng.)
 
+**Example: clothes shop, florist's, ...**
+(Ví dụ: cửa hàng quần áo, cửa hàng hoa,...)
+
 **Example answers:**
 - bakery (tiệm bánh)
-- florist's (cửa hàng hoa)
-- butcher's (cửa hàng thịt)
-- bookshop (cửa hàng sách)
-- pharmacy (hiệu thuốc)
+- barber (tiệm cắt tóc)
+- café (quán ăn)
+- bookshop (hiệu sách)
+- candy shop (cửa hàng kẹo)
+- clothes shop (cửa hàng quần áo)
+- pawn shop (hiệu cầm đồ)
+- boutique (cửa hàng quần áo)
+- computer shop (cửa hàng vi tính)
+- butcher's (cửa hàng thịt/ quầy bán thịt)
+- greengrocer's (cửa hàng rau củ tươi)
+- music shop (cửa hàng nhạc cụ)
+- newsagent's (cửa hàng bán báo/ quầy báo)
+- jewellery store (cửa hàng trang sức)
+- fishmonger's (cửa hàng bán cá/ quầy bán cá)
+- gift shop (cửa hàng quà tặng)
+- toy shop (cửa hàng đồ chơi)
+- pet shop (cửa hàng thú cưng)
+- shoe shop (cửa hàng giày dép)
 
 ## A CLOSER LOOK 1 - TÌM HIỂU THÊM 1
 
