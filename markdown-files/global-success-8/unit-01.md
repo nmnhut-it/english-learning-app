@@ -26,65 +26,113 @@
 20. **cooking** : (n) nấu ăn /ˈkʊkɪŋ/
 21. **messaging friends** : (v) nhắn tin với bạn bè /ˈmɛsɪdʒɪŋ frɛndz/
 
-### Listen and read
+### 1. Listen and read
 
-Tom: Chào, Trang. Ngạc nhiên khi thấy bạn. Điều gì đưa bạn đến đây?
+I'm keen on doing DIY (do-it-yourself).
+(Mình thích tự làm đồ dùng.)
 
-Trang: Ồ, chào Tom. Tôi đang tìm bộ dụng cụ đan len.
+Tom: Hi, Trang. Surprised to see you. What brings you here?
 
-Tom: Một bộ dụng cụ đan len? Tôi không biết bạn thích đan len.
+Trang: Oh, hello Tom. I'm looking for a knitting kit.
 
-Trang: Thực ra, tôi thích nhiều hoạt động tự làm. Trong thời gian rảnh, tôi thích đan len, xây dựng nhà búp bê, và làm hoa giấy.
+Tom: A knitting kit? I didn't know you like knitting.
 
-Tom: Tôi hiểu. Vậy, bạn thích dành thời gian một mình.
+Trang: Actually, I'm keen on many DIY activities. In my leisure time, I love knitting, building dollhouses, and making paper flowers.
 
-Trang: Đúng vậy. Bạn làm gì trong thời gian rảnh?
+Tom: I see. So, you like spending time on your own.
 
-Tom: Tôi hơi khác. Tôi thường đi chơi với bạn bè. Chúng tôi đi xem phim, đi xe đạp, hoặc chơi thể thao trong công viên.
+Trang: Yeah. What do you do in your free time?
 
-Trang: Bạn thích dành thời gian rảnh với người khác, đúng không?
+Tom: I'm a bit different. I usually hang out with my friends. We go to the cinema, go cycling, or play sport in the park.
 
-Tom: Đúng rồi. Nhân tiện, bạn có muốn đi xem phim với tôi và Mark vào Chủ Nhật này không? Có một bộ phim hài mới tại Rạp chiếu phim New World.
+Trang: You love spending free time with other people, don't you?
 
-Trang: Vâng, tôi rất muốn. Tôi có thể mời Mai tham gia cùng không?
+Tom: That's right. By the way, would you like to go to the cinema with me and Mark this Sunday? There's a new comedy at New World Cinema.
 
-Tom: Chắc chắn rồi. Gặp nhau ngoài rạp chiếu phim lúc 9 giờ sáng nhé.
+Trang: Yes, I'd love to. Can I ask Mai to join us?
 
-### Exercises
+Tom: Sure. Let's meet outside the cinema at 9 a.m.
 
-**2. Read the conversation again and complete the sentences.**
+**Tạm dịch:**
+
+Tom: Chào Trang. Thật bất ngờ khi thấy cậu. Ngọn gió nào đưa cậu đến đây thế?
+
+Trang: Ồ, chào Tom. Mình đang kiếm một bộ dụng cụ đan len.
+
+Tom: Một bộ dụng cụ đan len sao? Mình không biết là cậu thích đan đấy.
+
+Trang: Thực ra thì, mình thích những đồ dùng tự làm. Vào thời gian rảnh, mình thích đan len, xây nhà cho búp bê và làm hoa giấy.
+
+Tom: Mình hiểu rồi. Vậy cậu thích dành thời gian một mình.
+
+Trang: Ừ. Cậu thích làm gì vào thời gian rảnh?
+
+Tom: Mình có khác một chút. Mình thường đi chơi với bạn bè. Tụi mình đi xem phim, đi đạp xe hoặc chơi thể thao trong công viên.
+
+Trang: Cậu thích dành thời gian rảnh với mọi người đúng không?
+
+Tom: Đúng rồi đấy. Nhân tiện thì, cậu có muốn đi xem phim với mình và Mark vào Chủ nhật không? Có một vở hài kịch mới ở rạp Thế giới Mới.
+
+Trang: Đồng ý. Mình có thể rủ Mai theo không?
+
+Tom: Chắc chắn rồi. Hãy gặp nhau ngoài rạp vào 9 giờ sáng nhé.
+
+### 2. Read the conversation again and complete the sentences.
+
+1. Trang is looking for a _____.
+2. She likes doing DIY in her _____.
+3. Tom loves spending his free time with _____.
+4. Tom and his friends usually _____ together.
+5. Tom, Mark, Trang, and Mai are going to see a comedy this _____.
+
+**Answer key:**
 
 | 1. knitting kit | 2. leisure time | 3. other people | 4. hang out | 5. Sunday |
 | :---- | :---- | :---- | :---- | :---- |
 
-**3. Work in pairs. Write the activities from the box under the correct pictures.**
+### 3. Work in pairs. Write the activities from the box under the correct pictures.
+
+| doing DIY | cooking | doing puzzles |
+| :---- | :---- | :---- |
+| **playing sport** | **surfing the net** | **messaging friends** |
+
+**Answer key:**
 
 | 1. messaging friends | 2. cooking | 3. playing sport |
 | :---- | :---- | :---- |
 | 4. doing puzzles | 5. doing DIY | 6. surfing the net |
 
-**4. Work in pairs. Read the phrases, and guess which activities in 3 are described.**
+### 4. Work in pairs. Read the phrases, and guess which activities in 3 are described.
+
+1. improve memory, a mental exercise
+2. save money, increase creativity
+3. improve physical health, make friends
+4. keep in touch, be relaxed
+5. learn something about IT, computer skills
+
+**Answer key:**
 
 | 1. doing puzzles | 2. doing DIY | 3. playing sport |
 | :---- | :---- | :---- |
 | 4. messaging friends | 5. surfing the net |   |
 
-1. cải thiện trí nhớ, rèn luyện trí óc = giải câu đố
+### 5. Work in pairs. Ask one another the question below. Then report your friends' answers to the class.
 
-2. tiết kiệm tiền, tăng khả năng sáng tạo = tự làm đồ
+If you have some free time this weekend, what will you do?
+(Nếu bạn có thời gian rảnh cuối tuần này, bạn sẽ làm gì?)
 
-3. nâng cao sức khỏe thể chất, giao lưu kết bạn = playing sport
+**Sample answer:**
 
-4. giữ liên lạc, thư giãn = nhắn tin cho bạn bè
+If I have some time this weekend, I'll play badminton with my father in the morning. Then I'll hang out with my friends, and we'll go to the boba tea shop together. In the afternoon, I'll spend time doing DIY with my sister. In the evening, I'll message my friends and surf the net to learn some computer skills.
 
-5. học gì đó về CNTT, tin học = lướt mạng
+(Nếu mà mình có thời gian rảnh cuối tuần này, mình sẽ chơi cầu lông với bố mình vào buổi sáng. Sau đó mình sẽ đi chơi với bạn mình và tụi mình sẽ cùng nhau đi đến tiệm trà sữa. Mình sẽ dành thời gian làm đồ thủ công với em gái mình vào buổi chiều. Buổi tối, mình sẽ nhắn tin với bạn bè và lướt mạng để học một vài kĩ năng vi tính.)
 
 ## A CLOSER LOOK 1
 
 ### Vocabulary
 
 1. **be fond of** = yêu thích
-2. **be keen on** = quan tâm đến
+2. **be keen on** = say mê, thích thú
 3. **be interested in** = quan tâm đến
 4. **be crazy about** = phát cuồng vì
 5. **be into** = thích
