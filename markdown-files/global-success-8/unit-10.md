@@ -3,24 +3,24 @@
 ## GETTING STARTED - BẮT ĐẦU
 
 ### 📚 Vocabulary - Từ vựng
-- **have a video conference** : (v phr) có cuộc họp video /hæv ə ˈvɪdiəʊ ˈkɒnfərəns/
-- **technology club** : (n phr) câu lạc bộ công nghệ /tekˈnɒlədʒi klʌb/
+- **have a video conference** : có cuộc họp video /hæv ə ˈvɪdiəʊ ˈkɒnfərəns/
+- **technology club** : câu lạc bộ công nghệ /tekˈnɒlədʒi klʌb/
 - **exactly** : (adv) chính xác, đúng vậy /ɪɡˈzæktli/
-- **a bit worried** : (adj phr) hơi lo lắng /ə bɪt ˈwʌrid/
+- **a bit worried** : hơi lo lắng /ə bɪt ˈwʌrid/
 - **You're kidding** : Bạn đùa đấy à /jɔː ˈkɪdɪŋ/
-- **do a practice call** : (v phr) thực hiện cuộc gọi thử /duː ə ˈpræktɪs kɔːl/
+- **do a practice call** : thực hiện cuộc gọi thử /duː ə ˈpræktɪs kɔːl/
 - **It's a piece of cake** : Điều đó rất dễ dàng /ɪts ə piːs əv keɪk/
 - **tablet** : (n) máy tính bảng /ˈtæblət/
-- **focus on** : (v phr) tập trung vào /ˈfəʊkəs ɒn/
+- **focus on** : (v) tập trung vào /ˈfəʊkəs ɒn/
 - **forehead** : (n) trán /ˈfɔːhed/
 - **adjust** : (v) điều chỉnh /əˈdʒʌst/
 - **button** : (n) nút /ˈbʌtn/
-- **zoom in** : (v phr) phóng to /zuːm ɪn/
-- **zoom out** : (v phr) thu nhỏ /zuːm aʊt/
+- **zoom in** : phóng to /zuːm ɪn/
+- **zoom out** : thu nhỏ /zuːm aʊt/
 - **clearly** : (adv) rõ ràng /ˈklɪəli/
 - **of course** : dĩ nhiên, tất nhiên /əv kɔːs/
-- **go smoothly** : (v phr) diễn ra suôn sẻ /ɡəʊ ˈsmuːðli/
-- **high-speed Internet connection** : (n phr) kết nối Internet tốc độ cao /haɪ spiːd ˈɪntənet kəˈnekʃən/
+- **go smoothly** : diễn ra suôn sẻ /ɡəʊ ˈsmuːðli/
+- **high-speed Internet connection** : kết nối Internet tốc độ cao /haɪ spiːd ˈɪntənet kəˈnekʃən/
 - **carrier pigeon** : (n) bồ câu đưa thư /ˈkæriə ˈpɪdʒɪn/
 - **telephone** : (n) điện thoại /ˈtelɪfəʊn/
 - **mobile phone** : (n phr) điện thoại di động /ˈməʊbaɪl fəʊn/
@@ -28,44 +28,44 @@
 
 ### 💬 Content - Nội dung
 
-**Trang**: Mark, we're having a video conference with Tech Savvy next Thursday, but …
-Mark, chúng ta đang có một cuộc họp video với Tech Savvy thứ Năm tới, nhưng...
+**Trang**: Mark, we're having a video conference with Tech Savvy next Thursday, but ...
+(Mark, chúng ta sẽ có cuộc họp trực tuyến với Tech Savvy vào thứ Năm tuần tới, nhưng...)
 
 **Mark**: Hold on. Is that the technology club at the Japanese school?
-Chờ chút. Đó là câu lạc bộ công nghệ ở trường Nhật Bản phải không?
+(Chờ chút. Đó là câu lạc bộ công nghệ ở trường Nhật Bản phải không?)
 
 **Trang**: Exactly. But I'm a bit worried. I've never had a video conference call.
-Chính xác. Nhưng tôi hơi lo lắng. Tôi chưa bao giờ có một cuộc họp video trước đây.
+(Chính xác. Nhưng tôi hơi lo lắng. Tôi chưa bao giờ có cuộc họp trực tuyến trước đây.)
 
 **Mark**: You're kidding! Who doesn't know how to make a video call? Alright, let's do a practice call now.
-Bạn đang đùa à! Ai không biết cách làm cuộc gọi video? Được rồi, chúng ta hãy làm một cuộc gọi tập thử bây giờ.
+(Bạn đùa đấy à! Ai không biết cách gọi video chứ? Được rồi, bây giờ chúng ta hãy thực hành cuộc gọi thử.)
 
 **Trang**: Hmm, what do I need to do first?
-Hmm, tôi cần phải làm gì trước?
+(Hmm, tôi cần làm gì trước?)
 
-**Mark**: It's a piece of cake, Trang. Now, you sit in front of the computer. I'll connect with you via one of my tablets and...
-Chuyện đó thì dễ, Trang. Bây giờ, bạn ngồi trước máy tính. Tôi sẽ kết nối bạn với một trong những máy tính bảng của tôi và...
+**Mark**: It's a piece of cake, Trang. Now, you sit in front of the computer. I'll connect with you via one of my tablets and ...
+(Nó dễ như ăn bánh ấy mà, Trang. Bây giờ, bạn ngồi trước máy tính. Tôi sẽ kết nối với bạn qua một trong những chiếc máy tính bảng của tôi và...)
 
 **Trang**: Sorry, but how can I adjust this webcam? It's focusing on my forehead.
-Xin lỗi, nhưng tôi có thể chỉnh webcam này bằng cách nào? Nó đang tập trung vào trán của tôi.
+(Xin lỗi, nhưng tôi có thể điều chỉnh webcam này như thế nào? Nó đang hướng vào trán tôi.)
 
 **Mark**: Use this button to move it up or down, and this to zoom in or out.
-Sử dụng nút này để di chuyển nó lên hoặc xuống, và cái này để phóng to hoặc thu nhỏ.
+(Dùng nút này để di chuyển lên hoặc xuống, và nút này để phóng to hoặc thu nhỏ.)
 
 **Trang**: Thanks. And can you see me clearly on your tablet?
-Cảm ơn. Và bạn có thể thấy tôi rõ trong máy tính bảng của bạn không?
+(Cảm ơn. Và bạn có thể thấy tôi rõ ràng trên máy tính bảng không?)
 
 **Mark**: Yes, of course. We have a high-speed Internet connection here.
-Vâng, dĩ nhiên. Chúng ta có một kết nối Internet tốc độ cao ở đây.
+(Có chứ, tất nhiên rồi. Chúng ta có kết nối Internet tốc độ cao ở đây.)
 
-**Trang**: I hope the meeting goes smoothly.
-Tôi hi vọng cuộc họp diễn ra suôn sẻ.
+**Trang**: I hope the conference goes smoothly.
+(Tôi hy vọng buổi họp sẽ diễn ra suôn sẻ.)
 
-**Mark**: I'm sure it will. We should have more video conferences like this in the future.
-Tôi chắc chắn nó sẽ. Chúng ta nên tổ chức nhiều cuộc họp video hơn như thế này trong tương lai.
+**Mark**: I'm sure it will. We should hold more video conferences like this in the future.
+(Tôi chắc chắn rồi. Chúng ta nên tổ chức nhiều buổi họp trực tuyến như thế này trong tương lai.)
 
 **Trang**: That's exactly how I feel.
-Đó đúng là cách mà tôi cảm thấy.
+(Đó chính xác là điều tôi cảm thấy.)
 
 ### ✍️ Exercises - Bài tập
 
@@ -120,37 +120,53 @@ Tôi chắc chắn nó sẽ. Chúng ta nên tổ chức nhiều cuộc họp vid
 
 **Answers:** 1-A, 2-A, 3-B
 
-#### Bài 5: QUIZ. Work in groups. Complete the diagram of the history of communication technology
-(Làm việc nhóm. Hoàn thành sơ đồ về lịch sử của công nghệ truyền thông)
+#### Bài 5: QUIZ. Work in groups. Complete the diagram of the history of communication technology with the words and phrases from the box
+(Làm việc nhóm. Hoàn thành sơ đồ về lịch sử của công nghệ truyền thông với các từ và cụm từ trong hộp)
 
-1. carrier pigeon (bồ câu đưa thư)
-2. telephone (điện thoại)
-3. mobile phone (điện thoại di động)
-4. social network (mạng xã hội)
+- carrier pigeon (bồ câu đưa thư)
+- telephone (điện thoại)
+- mobile phone (điện thoại di động)
+- social network (mạng xã hội)
 
-**Answers:** 1-carrier pigeon, 2-telephone, 3-mobile phone, 4-social network
+5th century: (1) carrier pigeon
+(Thế kỉ thứ 5: bồ câu đưa thư)
+
+15th century: printed newspaper
+(Thế kỉ 15: báo giấy)
+
+19th century: (2) telephone
+(Thế kỉ 19: điện thoại bàn)
+
+1973: First (3) mobile phone
+(1973: điện thoại di động đầu tiên)
+
+1997: First (4) social network
+(1997: mạng xã hội đầu tiên)
 
 ## A CLOSER LOOK 1 - TÌM HIỂU THÊM 1
 
 ### 📚 Vocabulary - Từ vựng
-- **voice message** : (n phr) tin nhắn thoại /vɔɪs ˈmesɪdʒ/
-- **smartphone** : (n) điện thoại thông minh /ˈsmɑːtfəʊn/
-- **social network** : (n phr) mạng xã hội /ˈsəʊʃəl ˈnetwɜːk/
-- **emoji** : (n) biểu tượng cảm xúc /ɪˈməʊdʒi/
-- **group call** : (n phr) cuộc gọi nhóm /ɡruːp kɔːl/
+- **voice message** : tin nhắn thoại /vɔɪs ˈmesɪdʒ/
+- **smartphone** : điện thoại thông minh /ˈsmɑːtfəʊn/
+- **social network** : mạng xã hội /ˈsəʊʃəl ˈnetwɜːk/
+- **emoji** : biểu tượng cảm xúc /ɪˈməʊdʒi/
+- **group call** : cuộc gọi nhóm /ɡruːp kɔːl/
 - **holography** : (n) kỹ thuật ảnh ba chiều /həˈlɒɡrəfi/
-- **text message** : (n phr) tin nhắn văn bản /tekst ˈmesɪdʒ/
-- **express one's feeling** : (v phr) bày tỏ cảm xúc /ɪkˈspres wʌnz ˈfiːlɪŋ/
+- **text message** : tin nhắn văn bản /tekst ˈmesɪdʒ/
+- **express one's feeling** : bày tỏ cảm xúc /ɪkˈspres wʌnz ˈfiːlɪŋ/
 - **teenager** : (n) thanh thiếu niên /ˈtiːneɪdʒə/
-- **face to face** : (adv phr) trực tiếp, đối mặt /feɪs tə feɪs/
+- **face to face** : trực tiếp, đối mặt /feɪs tə feɪs/
 - **translation** : (n) bản dịch, sự phiên dịch /trænsˈleɪʃən/
 - **instantly** : (adv) ngay lập tức /ˈɪnstəntli/
-- **overcome language barrier** : (v phr) vượt qua rào cản ngôn ngữ /ˌəʊvəˈkʌm ˈlæŋɡwɪdʒ ˈbæriə/
-- **communicate in real time** : (v phr) giao tiếp theo thời gian thực /kəˈmjuːnɪkeɪt ɪn rɪəl taɪm/
-- **translation machine** : (n phr) máy phiên dịch /trænsˈleɪʃən məˈʃiːn/
+- **overcome language barrier** : vượt qua rào cản ngôn ngữ /ˌəʊvəˈkʌm ˈlæŋɡwɪdʒ ˈbæriə/
+- **communicate in real time** : giao tiếp theo thời gian thực /kəˈmjuːnɪkeɪt ɪn rɪəl taɪm/
+- **translation machine** : máy phiên dịch /trænsˈleɪʃən məˈʃiːn/
 - **respond** : (v) phản hồi, trả lời /rɪˈspɒnd/
 - **feel like + Ving** : cảm thấy thích làm gì đó
-- **type** : (n) loại; (v) đánh máy /taɪp/
+- **type** : (n) loại, (v) đánh máy /taɪp/
+- **private message** : tin nhắn riêng tư
+- **language barrier** : rào cản ngôn ngữ /ˈlæŋɡwɪdʒ ˈbæriə/
+- **in real time** : trong thời gian thực
 
 ### ✍️ Exercises - Bài tập
 
@@ -199,16 +215,18 @@ Tôi chắc chắn nó sẽ. Chúng ta nên tổ chức nhiều cuộc họp vid
 #### Bài 3: Complete the sentences with the words from the box
 (Hoàn thành các câu với các từ trong hộp)
 
-1. I prefer to have **private messages** with my friends by using chat applications.
-2. Thanks to **translation machines**, we are not worried about **language barriers** anymore.
+1. I prefer to have **private message** with my friends by using chat applications.
+2. Thanks to **translation machine**, we are not worried about **language barrier** anymore.
 3. Smartwatches can track your exercise efforts **in real time**.
 4. You can send and receive information **instantly** with a smartphone.
 
-**Answers:** 1-private message, 2-language barrier, 3-in real time, 4-translation machine, 5-instantly
+**Answers:** 1-private message, 2-translation machine, language barrier, 3-in real time, 4-instantly
 
 ### 🗣️ Pronunciation - Phát âm
 
-**Dấu nhấn với đuôi -ese và -ee**
+**Dấu nhấn**
+
+**Dấu nhấn rơi vào đuôi -ese và -ee, ngoại trừ coffee**
 
 Trọng âm thường rơi vào âm tiết cuối cùng với các từ có đuôi -ese và -ee
 - Vietnamese /ˌvjet.nəˈmiːz/
@@ -233,20 +251,19 @@ Trọng âm thường rơi vào âm tiết cuối cùng với các từ có đu�
 
 1. I'm learning **Vietna'mese**.
 2. The **trai'nee** interviewers are doing a good job.
-3. High **quali'ty** **guaran'tees** customer satisfaction.
-4. The Chinese and the Japanese are probably the best learners.
+3. High quality **guaran'tees** customer satisfaction.
+4. The **Chi'nese** and the **Japa'nese** are probably the best learners.
 5. This app is used worldwide by all **emplo'yees**.
 
 ## A CLOSER LOOK 2 - TÌM HIỂU THÊM 2
 
 ### 📚 Vocabulary - Từ vựng
-- **at** : (prep) ở (điểm cụ thể) /æt/
-- **in** : (prep) trong, ở trong /ɪn/
-- **on** : (prep) trên /ɒn/
-- **in front of** : (prep phr) ở phía trước /ɪn frʌnt əv/
-- **opposite** : (prep) đối diện /ˈɒpəzɪt/
-- **behind** : (prep) ở phía sau /bɪˈhaɪnd/
-- **under** : (prep) ở dưới /ˈʌndə/
+- **at + điểm nhỏ = in + vùng/không gian** : ở …
+- **on** : ở trên
+- **in front of** : ở phía trước
+- **opposite** : đối diện
+- **behind** : ở phía sau
+- **under** : ở dưới
 
 ### 📖 Grammar - Ngữ pháp
 
@@ -270,20 +287,25 @@ Trọng âm thường rơi vào âm tiết cuối cùng với các từ có đu�
 
 #### Giới từ chỉ thời gian (Prepositions of time)
 
-1. **in + khoảng thời gian**: trong vòng ... nữa
+1. **in + khoảng thời gian**: trong vòng … nữa
    - I will be back **in two days**: Tôi sẽ trở lại trong vòng hai ngày nữa
 
-2. **for + khoảng thời gian**: trong khoảng
-   - I have studied English **for two years**: Tôi đã học tiếng Anh được hai năm
+2. **for + khoảng thời gian**: tính tới … thì được
+   - I have studied English **for two years**: Tôi đã học tiếng Anh tính tới nay được hai năm
 
-3. **by + mốc thời gian**: trước/tính tới
-   - I will be back **by next Monday**: Tính tới thứ Hai tuần sau thì tôi đã trở lại
+3. **by + mốc thời gian**: trước/tính tới thì … đã xong
+   - I will be back **by next Monday**: Tính tới thứ hai tuần sau thì tôi chắc hẳn đã trở lại
 
 #### Đại từ sở hữu (Possessive pronouns)
 
-| Personal Pronoun | Possessive Pronoun |
-|-----------------|-------------------|
+**Đại từ sở hữu**
+
+Không đứng trước danh từ, dùng như 1 danh từ độc lập
+
+**Các đại từ sở hữu**
+
 | I | mine |
+|---|------|
 | you | yours |
 | he | his |
 | she | hers |
@@ -294,37 +316,48 @@ Trọng âm thường rơi vào âm tiết cuối cùng với các từ có đu�
 **Ví dụ:**
 - This is **my** book → This book is **mine**
 - He is one of **my** friends → He is a friend of **mine**
+- This is his book. Mine is black.
+- one of my friends → a friend of mine
+- two of **my** friends → two friends of **mine**
 
 ### ✍️ Exercises - Bài tập
 
 #### Bài 1: Complete the sentences with at, in, in front of, on, opposite, or under
 (Hoàn thành các câu với at, in, in front of, on, opposite, hoặc under)
 
-1. I will meet you **at** the end of this street.
-2. The bank is **opposite** the supermarket. They are **opposite** each other.
-3. I'll wait for you **in front of** the movie theater. I often put my shoes **under** the bed.
-4. Normally, pedestrians will walk **on** the pavement and vehicles will go **in** the street.
-5. Let's meet **in front of** the school gate at 2 p.m.
-
-**Answers:** 1-at, 2-opposite/opposite, 3-in front of/under, 4-on/in, 5-in front of
+1. Lily's house is **at** the end of this street.
+   (Nhà Lily ở phía cuối con đường.)
+2. Players always sit **opposite** each other in a chess game.
+   (Người chơi luôn ngồi đối diện nhau trong một ván cờ vua.)
+3. She looked **under** the table and finally found her smartwatch.
+   (Cô ấy tìm kiếm bên dưới cái bàn và cuối cùng cũng tìm ra đồng hồ thông minh.)
+4. Don't walk **on** the street. Walk **on** the pavement.
+   (Đừng đi trên đường. Hãy đi trên vỉa hè.)
+5. Ann stood **in front of** me in a line to get on the bus.
+   (Ann đứng trước mình trong một hàng để lên xe buýt.)
 
 #### Bài 2: Circle the correct preposition in each sentence
 (Khoanh tròn giới từ đúng trong mỗi câu)
 
-1. We will go camping **by** the lake this weekend.
-2. Can you finish your project **in** three days?
-3. We always have a family dinner **on** the second day of Tet.
-4. **For** many people, this is the best tourist attraction in our city.
-5. They have visited more than ten countries **in** the past five years.
+1. Let's get ready by / on / for 10 a.m. We are meeting Dr Saito at 10:15.
+2. The first camera phone appeared on / at / in May 1999 in Japan.
+3. We will be away on / for / by two weeks.
+4. In the UK, supermarkets always close early in / by / on Sundays.
+5. I think language barriers will disappear in / for / by 30 years.
 
-**Answers:** 1-by, 2-in, 3-on, 4-For, 5-in
+**Answers:** 1-by, 2-in, 3-for, 4-on, 5-in
 
-#### Bài 3: Complete the text with the prepositions from the box
-(Hoàn thành văn bản với các giới từ từ hộp)
+#### Bài 3: Complete the text with the prepositions from the box. Use each preposition only ONCE
+(Hoàn thành văn bản với các giới từ từ hộp. Chỉ sử dụng mỗi giới từ MỘT LẦN)
 
-I think smartphones will change a lot **in** the near future. They will be much thinner. **By** 2035, we might be able to roll a phone like a sheet of paper. They will become much smarter too. They will be able to charge their battery automatically when we are **at** home. They will check the latest news **on** the Internet. We won't have to wait long **for** these super smartphones.
+in   on   at   for   by
+
+I think smartphones will change a lot (1) _____ the near future. They will be much thinner. (2) _____ 2035, we might be able to roll a phone like a sheet of paper. They will become much smarter, too. They will be able to charge their battery automatically when we are (3) _____ home. They might check the latest news (4) _____ the Internet. We won't have to wait (5) _____ a long time for these super smartphones.
 
 **Answers:** 1-in, 2-By, 3-at, 4-on, 5-for
+
+**Translation:**
+Tôi nghĩ là điện thoại thông minh sẽ thay đổi rất nhiều trong tương lai gần. Chúng sẽ mỏng hơn nhiều. Đến năm 2035, chúng ta sẽ có thể cuộn một điện thoại lại như một tờ giấy. Chúng cũng sẽ trở nên thông minh hơn nữa. Chúng có thể tự sạc pin tự động khi chúng ta ở nhà. Chúng có thể sẽ cập nhật được những thông tin mới nhất trên mạng. Chúng ta không còn phải đợi lâu cho những chiếc điện thoại siêu thông minh này.
 
 #### Bài 4: Work in pairs. Tell each other whether you agree or disagree with the following ideas
 (Làm việc theo cặp. Nói cho nhau biết bạn đồng ý hay không đồng ý với các ý tưởng sau)
@@ -334,22 +367,20 @@ I think smartphones will change a lot **in** the near future. They will be much 
 #### Bài 5: Complete the second sentence so that it has the same meaning as the first sentence
 (Hoàn thành câu thứ hai sao cho có cùng nghĩa với câu đầu tiên)
 
-1. Jack is her cousin.
-   → Jack is a cousin of **hers**.
+1. Jack is one of her cousins.
+   Jack is a cousin of **hers**.
 
-2. Is this your tablet?
-   → Is this a tablet of **yours**?
+2. Is this one of his tablets?
+   Is this a tablet of **his**?
 
-3. Can I borrow a pencil from you?
-   → Can I borrow one of **your pencils**?
+3. Can I borrow a pencil of yours?
+   Can I borrow one of **your pencils**?
 
-4. Are they Tom and Mary's relatives?
-   → Are they relatives of **theirs**?
+4. You look like Nick and Peter. Are you one of their relatives?
+   You look like Nick and Peter. Are you a relative of **theirs**?
 
 5. Last year, two of our classmates won scholarships to the US.
-   → Last year, two classmates of **ours** won scholarships to the US.
-
-**Answers:** 1-hers, 2-yours, 3-your pencils, 4-theirs, 5-ours
+   Last year, two classmates of **ours** won scholarships to the US.
 
 ## COMMUNICATION - GIAO TIẾP
 
@@ -371,36 +402,45 @@ I think smartphones will change a lot **in** the near future. They will be much 
 #### Bài 1: Listen and read the conversations below. Pay attention to the highlighted parts
 (Nghe và đọc các đoạn hội thoại dưới đây. Chú ý đến các phần được tô đậm)
 
+**1.**
 **Mark**: Now, about the video conference... Everyone needs to be here by 9:30 a.m., and...
-Bây giờ, về cuộc họp video... Mọi người phải có mặt lúc 9:30 sáng, và...
+(Bây giờ, về cuộc họp video... Mọi người phải có mặt lúc 9:30 sáng, và...)
 
-**Trang**: Sorry for interrupting, but I think we should meet at 9:00 a.m. We need to check the devices.
-Xin lỗi vì ngắt lời, nhưng tôi nghĩ chúng ta nên gặp lúc 9:00 sáng. Chúng ta cần kiểm tra các thiết bị.
+**Trang**: **Sorry for interrupting**, but I think we should meet at 9:00 a.m. We need to check the devices.
+(**Xin lỗi vì ngắt lời**, nhưng tôi nghĩ chúng ta nên gặp lúc 9:00 sáng. Chúng ta cần kiểm tra các thiết bị.)
 
+**2.**
 **Nick**: This webcam is easy to use. You click these buttons to move it up and down and these to...
-Webcam này rất dễ sử dụng. Bạn nhấp các nút này để di chuyển nó lên xuống và những nút này để...
+(Webcam này rất dễ sử dụng. Bạn nhấp các nút này để di chuyển nó lên xuống và những nút này để...)
 
-**Lan**: Hold on. Can you repeat that, please?
-Khoan đã. Bạn có thể nhắc lại được không?
+**Lan**: **Hold on. Can you repeat that, please?**
+(**Khoan đã. Bạn có thể nhắc lại được không?**)
 
 #### Bài 2: Work in pairs. Make similar conversations with the following situations
 (Làm việc theo cặp. Tạo các cuộc hội thoại tương tự với các tình huống sau)
 
 *Practice dialogues as provided in textbook*
 
-#### Bài 3: Read Mark's prediction about a popular means of communication in the near future
-(Đọc dự đoán của Mark về một phương tiện giao tiếp phổ biến trong tương lai gần)
+#### Bài 3: Read Mark's prediction about a popular means of communication in the near future. Then answer the questions that follow
+(Đọc dự đoán của Mark về một phương tiện giao tiếp phổ biến trong tương lai gần. Sau đó trả lời các câu hỏi)
 
 **Mark**: In 20 years, people of all ages will be using emojis even more than now. Emojis help people communicate their emotions effectively regardless of the language they speak. For example, a smiley face expresses the same meaning everywhere. An emoji can replace words to a certain extent. One day, we might receive an email that contains only emojis!
 
-Mark: Trong 20 năm tới, mọi người ở mọi lứa tuổi sẽ sử dụng emoji còn nhiều hơn bây giờ. Emoji giúp mọi người truyền đạt cảm xúc của họ một cách hiệu quả bất kể ngôn ngữ họ nói. Ví dụ, một khuôn mặt cười biểu đạt cùng một ý nghĩa ở mọi nơi. Một emoji có thể thay thế từ ngữ ở một mức độ nhất định. Một ngày nào đó, chúng ta có thể nhận được một email chỉ chứa toàn emoji!
+(Trong 20 năm tới, mọi người ở mọi lứa tuổi sẽ sử dụng emoji còn nhiều hơn bây giờ. Emoji giúp mọi người truyền đạt cảm xúc của họ một cách hiệu quả bất kể ngôn ngữ họ nói. Ví dụ, một khuôn mặt cười biểu đạt cùng một ý nghĩa ở mọi nơi. Một emoji có thể thay thế từ ngữ ở một mức độ nhất định. Một ngày nào đó, chúng ta có thể nhận được một email chỉ chứa toàn emoji!)
 
 **Questions:**
-1. What is he talking about? - He is talking about emojis.
-2. When will it become more popular? - In 20 years
-3. Why does he think so? - Because emoji help people communicate their emotions effectively regardless of the language they speak.
+1. What is he talking about?
+2. When will it become more popular?
+3. Who will be using them?
+4. How will they help people communicate?
+5. Why does he think so?
 
-**Answers:** 1-emojis, 2-In 20 years, 3-people of all ages, 4-Emoji help people communicate their emotions effectively regardless of the language they speak, 5-Because Emoji help people communicate their emotions effectively regardless of the language they speak. They can replace words everywhere.
+**Answers:** 
+1. He is talking about emojis.
+2. In 20 years
+3. People of all ages
+4. Emojis help people communicate their emotions effectively regardless of the language they speak.
+5. Because emojis help people communicate their emotions effectively regardless of the language they speak. They can replace words to a certain extent.
 
 #### Bài 4: Work in pairs. Choose one means of communication below
 (Làm việc theo cặp. Chọn một phương tiện giao tiếp dưới đây)
@@ -652,59 +692,54 @@ Mạng xã hội giúp mọi người giao tiếp với nhau hiệu quả. Bạn
 
 **Answers:** 1-social network, 2-telepathy, 3-voice messages, 4-translation machine, 5-making a group call
 
-#### Bài 2: Choose the correct answer A, B, or C
-(Chọn câu trả lời đúng A, B, hoặc C)
+#### Bài 2: Circle the correct option to complete each sentence below
+(Khoanh tròn tùy chọn đúng để hoàn thành mỗi câu dưới đây)
 
-1. When you are in a foreign country, a _____ helps you to understand what other people are saying.
-   A. voice message
-   B. translation machine
-   C. dictionary
+1. My friends connect with each other by / for / on a social network called Friends-connect.
+2. Telepathy might / should / will be the most popular way to communicate by 2050.
+3. Sending voice messages is convenient / private / real because you don't have to type.
+4. In the future, everyone can carry a human translator / translation machine with them whenever they go abroad.
+5. If you have a high-speed Internet connection, making a group call / meeting face to face is a piece of cake.
 
-2. We took a _____ to get to the campsite, following the signs on the map.
-   A. road
-   B. language
-   C. way
-
-3. We sent a _____ message to the teacher when we were sick.
-   A. social
-   B. text
-   C. private
-
-4. The future of _____ communication is here. Smartphones can show 3D images.
-   A. social
-   B. real
-   C. private
-
-5. If _____ becomes popular in the future, it will save communicators a lot of travelling time and money.
-   A. private messaging
-   B. holography
-   C. language barrier
-
-**Answers:** 1-B, 2-C, 3-B, 4-B, 5-B
+**Answers:** 1-on, 2-might, 3-convenient, 4-translation machine, 5-group call
 
 ### ✍️ Exercises - Bài tập
 
-#### Bài 3: Complete the sentences with the prepositions from the box
-(Hoàn thành các câu với các giới từ từ hộp)
+#### Bài 3: Complete the sentences with the prepositions from the box. Tick ✓ the sentences which have prepositions of time
+(Hoàn thành các câu với các giới từ từ hộp. Đánh dấu ✓ vào các câu có giới từ chỉ thời gian)
 
-1. We'll go **on** a video conference call.
-2. The meeting will be held **at** a hotel in Paris.
-3. Can I send this email **for** you?
-4. My house is **opposite** the park.
-5. She should be here **by** 3 p.m. today.
+in    at    for    opposite    by
 
-**Answers:** 1-on, 2-at, 3-for, 4-opposite, 5-by
+1. Lily's house is **opposite** the park. Her family moved there **in** 2010. [✓]
+2. **By** 9 p.m. yesterday, my sister had finished all her homework. [✓]
+3. We'll hold a video conference **in** the next hour. [✓]
+4. He'll be here **at** 7.30 p.m. today. [✓]
+5. We have been pen pals **for** more than 10 years. [✓]
 
-#### Bài 4: Report what these people said
-(Tường thuật lại những gì những người này đã nói)
+#### Bài 4: Which of the underlined parts in each question is incorrect? Find and correct it
+(Phần nào được gạch chân trong mỗi câu hỏi là không chính xác? Tìm và sửa nó)
 
-1. 'Robots can do the housework.' → Mr. Lam said that robots could do the housework.
-2. 'I won't have time to finish the assignment.' → Minh told me that he wouldn't have time to finish the assignment.
-3. 'I'm learning a new language on an app.' → She said that she was learning a new language on an app.
-4. 'I plan to go on a summer camp.' → My brother told me that he planned to go on a summer camp.
-5. 'I'm not good at using emoji.' → Lan said that she wasn't good at using emoji.
+1. **A friend of my** cannot connect her phone to the Internet.
+   A          B                          C                    D
+   
+2. **He sent me** a message to ask for more information about the **technology club meeting** **yesterday**.
+   A           B                                            C                            D
+   
+3. Trang and Linda **will be** on television **this evening** to talk about **future** communication.
+   A                B               C                        D
+   
+4. **Telepathy** may **become** popular **in 30 years** **time**.
+   A            B         C             D
+   
+5. If you **want** to write to a friend in another country, **you can** **write** an email.
+   A                                          B        C     D
 
-**Answers:** As shown above
+**Answers:** 
+1. A - Sửa lại: A friend of mine
+2. D - Sửa lại: the day before/the previous day
+3. B - Sửa lại: are going to be
+4. D - Sửa lại: 30 years' time
+5. C - Sửa lại: should
 
 ### PROJECT - DỰ ÁN
 
