@@ -52,37 +52,37 @@
 *Ann: Tôi đồng ý. Chất lượng không khí và nước ngày càng trở nên tồi tệ.*
 
 **Club leader:** Any others?
-*Trưởng CLB: Còn cái nào khác không?*
+*Trưởng CLB: Còn gì nữa không?*
 
 **Ann:** Yes, I can think of some like global warming, endangered species loss,...
-*Ann: Có, tôi có thể nghĩ đến một số vấn đề như sự nóng lên toàn cầu, sự biến mất của các loài có nguy cơ tuyệt chủng,...*
+*Ann: Có, mình có thể nghĩ đến một số vấn đề như sự nóng lên toàn cầu hay những loài động vật quý hiếm bị tuyệt chủng,...*
 
 **Nam:** So what should we do to help protect our environment?
 *Nam: Vậy chúng ta nên làm gì để góp phần bảo vệ môi trường?*
 
 **Club leader:** We can reduce our carbon footprint even in our homes.
-*Trưởng CLB: Chúng ta có thể giảm lượng khí thải carbon ngay cả trong nhà của mình.*
+*Trưởng CLB: Chúng ta có thể giảm thiểu lượng dấu chân carbon kể cả ở nhà của chúng ta.*
 
-**Ann:** What do you mean by "carbon footprint"?
-*Ann: Bạn có ý nghĩa gì bởi "dấu chân carbon"?*
+**Ann:** What do you mean by 'carbon footprint'?
+*Ann: "Dấu chân carbon..." Ý của cậu là sao?*
 
 **Club leader:** It's the amount of carbon dioxide we release into the environment.
-*Trưởng CLB: Đó là lượng khí carbon dioxide mà chúng ta thải ra môi trường.*
+*Trưởng CLB: Nó là lượng CO2 chúng ta thải ra môi trường.*
 
 **Ann:** I see. So we can do things like turning off devices when we're not using them.
-*Ann: Tôi hiểu rồi. Vì vậy, chúng ta có thể thực hiện những việc như tắt thiết bị khi không sử dụng chúng.*
+*Ann: Mình hiểu rồi. Vậy chúng ta có thể làm những việc như là tắt các thiết bị điện khi không sử dụng.*
 
-**Club leader:** Right... And there are many more things we can do, such as practising the 3Rs.
-*Trưởng CLB: Đúng vậy... Và còn nhiều điều chúng ta có thể làm, chẳng hạn như thực hành 3R.*
+**Club leader:** Right... And there is much more we can do, like practising the 3Rs.
+*Trưởng CLB: Đúng rồi... Và có nhiều thứ chúng ta có thể làm nữa, như tiến hành 3R.*
 
-**Nam:** We can also plant more trees in our neighbourhood.
-*Nam: Chúng ta cũng có thể trồng nhiều cây hơn trong khu phố của mình.*
+**Nam:** We can plant more trees in our neighbourhood too.
+*Nam: Chúng ta cũng có thể trồng thêm cây ở nơi mình sống.*
 
 **Ann:** And try to avoid using single-use products, like plastic bags, and stop littering.
-*Ann: Và cố gắng tránh sử dụng các sản phẩm sử dụng một lần, như túi nhựa và ngừng xả rác.*
+*Ann: Và cố gắng tránh các sản phẩm sử dụng một lần, như túi ni-lông và ngưng xả rác.*
 
-**Club leader:** Yeah. And we can volunteer to join some local environmental programmes to save endangered species.
-*Trưởng CLB: Ừ. Và chúng ta có thể tình nguyện tham gia một số chương trình môi trường địa phương để cứu các loài có nguy cơ tuyệt chủng.*
+**Club leader:** Yeah. And we can volunteer at some local environment programmes to save endangered species.
+*Trưởng CLB: Đúng thế. Và chúng ta có thể đi tình nguyện ở những chương trình bảo vệ môi trường ở địa phương để cứu các loài động vật đang có nguy cơ bị tuyệt chủng.*
 
 ### ✍️ Exercises - Bài tập
 
@@ -101,10 +101,10 @@
 #### Bài 3: Complete each sentence with one word or phrase from the box
 *Hoàn thành mỗi câu với một từ hoặc cụm từ trong hộp*
 
-1. **pollution**
+1. **Pollution**
 2. **reduce**
 3. **single-use**
-4. **carbon footprint**
+4. **Carbon footprint**
 5. **environmental programme**
 
 #### Bài 4: Write a phrase from the box under each picture
@@ -119,20 +119,20 @@
 #### Bài 5: Environment Quiz. Do the following quiz
 *Bài kiểm tra môi trường. Làm bài kiểm tra sau*
 
-1. Which of the following will reduce your carbon footprint?
-   **Answer:** C (Riding a bicycle - Đi xe đạp)
+1. Which of the following is the greenest form of transport?
+   **Answer:** C. Bicycle (Xe đạp)
 
-2. Which is a renewable energy source?
-   **Answer:** B (Wind - Gió)
+2. Which of the following is a renewable source?
+   **Answer:** C. Wind (Gió)
 
 3. What causes the most pollution?
-   **Answer:** A (Factories - Các nhà máy)
+   **Answer:** A. Factories (Các nhà máy)
 
-4. The surroundings in which we live are our _______.
-   **Answer:** C (environment - môi trường)
+4. The surroundings in which we live are our _________.
+   **Answer:** A. habitat (môi trường sống)
 
 5. Which of these will reduce your carbon footprint?
-   **Answer:** B (Recycling paper products - Tái chế sản phẩm giấy)
+   **Answer:** B. Recycling paper products (Tái chế sản phẩm giấy)
 
 ## A CLOSER LOOK 1 - TÌM HIỂU THÊM 1
 
@@ -179,38 +179,45 @@
 #### Bài 1: Label each picture with a phrase from the list. Tick (✓) the actions above that protect the environment.
 *Gắn nhãn mỗi bức tranh với một cụm từ từ danh sách. Đánh dấu (✓) các hành động bảo vệ môi trường.*
 
-1. **picking up rubbish** ✓
-2. **protecting endangered species** ✓
-3. **cutting down trees**
-4. **saving water** ✓
-5. **building a campfire**
+✓ 1. c - **picking up rubbish** (nhặt rác)
+✓ 2. d - **protecting endangered species** (bảo vệ các loài động vật bị đe dọa)
+  3. b - **cutting down trees** (đốn cây)
+✓ 4. e - **saving water** (tiết kiệm nước)
+  5. a - **building a campfire** (đốt lửa trại)
 
 #### Bài 2: Match each word or phrase in column A with its meaning in column B
 *Nối mỗi từ hoặc cụm từ ở cột A với nghĩa của nó ở cột B*
 
-1. c - ecosystem: hệ sinh thái - where living and non-living things in an area interact
-2. a - pollution: ô nhiễm - the process of making water, air, soil, etc. dirty by adding harmful substances
-3. e - habitat: môi trường sống - the natural environment in which a plant or animal lives
-4. b - environmental protection: bảo vệ môi trường - the practice of protecting the natural environment
-5. d - endangered species: các loài có nguy cơ tuyệt chủng - animals facing a high risk of extinction in the wild
+1. e - ecosystem: the place where a type of plant or animal lives.
+   *hệ sinh thái – nơi mà một loài thực vật hay động vật sinh sống.*
+2. a - pollution: the process of making water, air, soil, etc. dirty by adding harmful substances.
+   *ô nhiễm – quá trình làm nước, không khí, đất đá bị nhiễm bẩn bằng cách thêm vào những chất có hại.*
+3. c - habitat: the way living and non-living things in a particular area are related to each other.
+   *môi trường sống – cách mà những sinh vật sống và không sống ở trong một khu vực nhất định liên quan đến nhau.*
+4. b - environmental protection: the practice of protecting the natural environment.
+   *bảo vệ môi trường – thói quen bảo vệ môi trường tự nhiên.*
+5. d - endangered species: animals facing a high risk of extinction in the wild.
+   *loài động vật bị đe dọa – các loại động vật đối mặt với nguy cơ tuyệt chủng cao ngoài hoang dã.*
 
 #### Bài 3: Complete each sentence with a word or phrase from the box
 *Hoàn thành mỗi câu với một từ hoặc cụm từ từ hộp*
 
-1. Natural disasters can cause serious **damage** to human life.
-   *Thảm họa thiên nhiên có thể gây ra thiệt hại nghiêm trọng tới cuộc sống con người.*
+**habitat    cutting down trees    ecosystem    endangered species    carbon dioxide**
 
-2. Local authorities gave a flood **warning** yesterday, so people are moving to safer places today.
-   *Chính quyền địa phương đưa ra cảnh báo lũ lụt hôm qua, vì vậy hôm nay mọi người đang di chuyển tới những nơi an toàn hơn.*
+1. People in my neighbourhood are doing a lot to save **endangered species**.
+   *Những người ở khu tôi sống đang làm rất nhiều việc để cứu các loài động vật bị đe dọa.*
 
-3. To prepare for a natural disaster, we should make an **emergency kit**.
-   *Để chuẩn bị cho một thảm họa thiên nhiên, chúng ta nên làm một bộ dụng cụ khẩn cấp.*
+2. Con Dao National Park provides a rich **habitat** for marine life.
+   *Vườn Quốc gia Côn Đảo cung cấp một môi trường sống phong phú cho các sinh vật biển.*
 
-4. It's hard to believe that we cannot **predict** when earthquakes will happen.
-   *Thật khó tin rằng chúng ta không thể dự đoán khi nào động đất sẽ diễn ra.*
+3. Forests help release oxygen and absorb **carbon dioxide**; they also provide homes for many species.
+   *Rừng giúp tạo ra O2 và hấp thụ CO2, chúng cũng tạo ra nơi ở cho nhiều loài vật.*
 
-5. They lost all their **property** because of the volcanic eruption.
-   *Họ mất tất cả tài sản của họ vì cơn núi lửa phun trào.*
+4. **Cutting down trees** is a serious environmental concern as it harms natural habitats.
+   *Chặt cây là một vấn đề môi trường nghiêm trọng vì nó gây hại đến môi trường tự nhiên.*
+
+5. An **ecosystem** maybe a whole forest, or a small pond, and it can be of any size.
+   *Một hệ sinh thái có thể là cả một khu rừng, hay một cái ao nhỏ hay nó có thể ở bất cứ quy mô nào.*
 
 ### 🗣️ Pronunciation - Phát âm
 
@@ -227,26 +234,47 @@ Dấu nhấn thường sẽ rơi cách vần so với vần chứa -al hoặc -o
 #### Bài 4: Listen and repeat the words. Pay attention to the sounds /bl/ and /kl/
 *Nghe và lặp lại các từ. Chú ý đến âm /bl/ và /kl/*
 
-**Words with /bl/:**
-- **bl**ue /bluː/
-- **bl**ack /blæk/
-- **bl**anket /ˈblæŋkɪt/
-- pro**bl**em /ˈprɒbləm/
+**/bl/**
+- block /blɒk/ (chặn)
+- blast /blɑːst/ (nổ - bom, mìn)
+- blanket /ˈblæŋ.kɪt/ (cái chăn)
+- black /blæk/ (màu đen)
+- problem /ˈprɒb.ləm/ (vấn đề)
 
-**Words with /kl/:**
-- **cl**ean /kliːn/
-- **cl**ear /klɪər/
-- **cl**imate /ˈklaɪmət/
-- re**cy**cle /ˌriːˈsaɪkəl/
+**/kl/**
+- clean /kliːn/ (sạch)
+- clown /klaʊn/ (chú hề)
+- club /klʌb/ (câu lạc bộ)
+- class /klɑːs/ (lớp học)
+- clear /klɪər/ (trong)
 
 #### Bài 5: Listen and practise the sentences. Underline the words with /bl/, and circle the words with /kl/
 *Nghe và luyện tập các câu. Gạch chân các từ có âm /bl/, và khoanh tròn các từ có âm /kl/*
 
-1. Look! There are **bl**ack (cl)ouds all over!
-2. A (cl)oud of **bl**ack smoke is **bl**owing towards us!
-3. Put on your jackets and **bl**ankets, children. It'll be cold tonight.
-4. The water is (cl)ear and **bl**ue in Phu Quoc Island.
-5. Too many people are cutting down trees and **bl**ocking them for money.
+1. Look! There are <u>black</u> (clouds) all over!
+   *Nhìn kìa! Có nhiều đám mây đen ở khắp nơi kìa.*
+   - black /blæk/
+   - cloud /klaʊd/
+
+2. A truck <u>blocked</u> the way to the (club).
+   *Một xe tải đã chặn đường đến câu lạc bộ.*
+   - block /blɒk/
+   - club /klʌb/
+
+3. The students painted the (classroom) <u>blue</u>.
+   *Các học sinh đã sơn lớp học thành màu xanh.*
+   - classroom /ˈklɑːs.ruːm/
+   - blue /bluː/
+
+4. The wind <u>blew</u> the (clock) down.
+   *Gió đã thổi rớt cái đồng hồ.*
+   - blew /bluː/
+   - clock /klɒk/
+
+5. We (cleaned) up the environment after the <u>blast</u>.
+   *Chúng tôi đã dọn dẹp môi trường ở đó sau vụ nổ.*
+   - clean /kliːn/
+   - blast /blɑːst/
 
 ## A CLOSER LOOK 2 - TÌM HIỂU THÊM 2
 
@@ -255,9 +283,9 @@ Dấu nhấn thường sẽ rơi cách vần so với vần chứa -al hoặc -o
 **Câu ghép với mệnh đề trạng ngữ chỉ thời gian**
 *Complex sentences with adverb clauses of time*
 
-- Một câu ghép chứa một mệnh đề độc lập và ít nhất một mệnh đề phụ thuộc
-- Mệnh đề độc lập: có thể đứng một mình và vẫn có nghĩa
-- Mệnh đề phụ thuộc: không thể đứng một mình, thường bắt đầu bằng liên từ thời gian
+Một câu ghép chứa một mệnh đề độc lập và ít nhất một mệnh đề phụ thuộc.
+- Mệnh đề độc lập (I.C): có thể đứng một mình và vẫn có nghĩa
+- Mệnh đề phụ thuộc (D.C): không thể đứng một mình, thường bắt đầu bằng liên từ thời gian
 
 **Các liên từ thời gian phổ biến:**
 - **before** : trước khi
@@ -279,10 +307,19 @@ Dấu nhấn thường sẽ rơi cách vần so với vần chứa -al hoặc -o
 *Đọc các câu và viết I.C nếu mệnh đề được gạch chân là mệnh đề độc lập hoặc D.C nếu đó là mệnh đề phụ thuộc*
 
 1. **I'll wait for you here** until you get back. → **I.C**
-2. **When the tide comes in**, the fish will move with it. → **D.C**
-3. My dad is cooking dinner **while my mum is watching the news**. → **I.C**
-4. **Before you leave**, you should clean up the kitchen. → **D.C**
+   *Mình sẽ đợi ở đây cho đến khi cậu quay lại.*
+
+2. Make sure you lock the door **when you go out**. → **D.C**
+   *Cậu nhớ phải khóa cửa khi ra ngoài.*
+
+3. You must get a permit **before you build a campfire at a national park**. → **I.C**
+   *Bạn phải được phép trước khi xây một lửa trại ở vườn quốc gia.*
+
+4. Don't use too much water **while you are having a shower**. → **D.C**
+   *Đừng xài quá nhiều nước khi tắm.*
+
 5. **As soon as my friends come**, we will pick up rubbish on the beach. → **D.C**
+   *Khi mà bạn mình tới thì chúng ta sẽ nhặt rác trên bãi biển.*
 
 #### Bài 2: Choose A, B, or C to complete each sentence
 *Chọn A, B, hoặc C để hoàn thành mỗi câu*
@@ -291,43 +328,52 @@ Dấu nhấn thường sẽ rơi cách vần so với vần chứa -al hoặc -o
    **Answer:** A. **when**
 
 2. We called the forest guard unit _____ we saw the bush fire.
-   **Answer:** B. **as soon as**
+   **Answer:** A. **as soon as**
 
-3. I will go to the library _____ I finish my homework.
-   **Answer:** A. **after**
+3. I went straight to the gym _____ I left home.
+   **Answer:** C. **after**
 
-4. The villagers won't have electricity _____ a new power station is built.
+4. You can stay with us _____ you find a suitable place to stay.
    **Answer:** C. **until**
 
-5. I'll be very happy _____ I go to Da Lat tomorrow.
-   **Answer:** A. **before**
+5. We cleaned up everything at the campsite _____ we left.
+   **Answer:** B. **before**
 
 #### Bài 3: Match the clauses in the two columns to form complex sentences
 *Nối các mệnh đề ở hai cột để tạo thành câu ghép*
 
-1. b - We will clean up the beach **as soon as it stops raining**
-   *Chúng tôi sẽ dọn bãi biển ngay khi trời ngừng mưa*
+1. b - We will clean up the beach **as soon as it stops raining**.
+   *Chúng ta sẽ dọn dẹp bãi biển ngay sau khi trời hết mưa.*
 
-2. d - Don't forget to turn off the lights **before you leave the room**
-   *Đừng quên tắt đèn trước khi bạn ra khỏi phòng*
+2. d - Don't forget to turn off the lights **before you go out**.
+   *Đừng quên tắt đèn trước khi ra ngoài.*
 
-3. e - You have to show your ticket **when you get on the train**
-   *Bạn phải cho xem vé khi bạn lên tàu*
+3. e - You have to show your ticket **when you get on the train**.
+   *Bạn phải trình vé khi lên tàu.*
 
 4. c - Can you help me lay the table **while I'm cooking the soup**?
-   *Bạn có thể giúp tôi dọn bàn trong khi tôi đang nấu súp không?*
+   *Bạn có thể giúp tôi dọn bàn ăn trong khi tôi đang nấu súp không?*
 
-5. a - Thomas Edison kept trying **until he made a successful light bulb**
-   *Thomas Edison tiếp tục thử nghiệm cho tới khi ông ấy làm ra một bóng đèn thành công*
+5. a - Thomas Edison kept trying **until he made a successful light bulb**.
+   *Thomas Edison tiếp tục thử nghiệm cho đến khi ông ấy làm thành công bóng đèn điện.*
 
 #### Bài 4: Combine each pair of sentences, using the conjunction in brackets
 *Nối hai câu sử dụng từ trong ngoặc*
 
 1. I will call you **as soon as** I arrive at the station.
-2. Many Vietnamese women wear conical hats **when** they work/are working in the field.
+   *Tôi sẽ gọi cho bạn ngay khi tôi đến ga.*
+
+2. Many Vietnamese women wear conical hats **when** they work in the field.
+   *Nhiều người phụ nữ Việt Nam đội nón lá khi họ làm việc trên đồng.*
+
 3. My father taught me how to use the computer **before** he bought one for me.
+   *Bố tôi dạy tôi cách sử dụng vi tính trước khi mua cho tôi một cái.*
+
 4. Nick is reading a novel **while** Jack is reading a cartoon.
-5. **After** the tornado hit, there were only a few houses left standing.
+   *Nick đang đọc tiểu thuyết trong khi Jack đang đọc truyện tranh.*
+
+5. There were only a few houses left standing **after** the tornado hit.
+   *Chỉ còn vài ngôi nhà trụ vững sau khi lốc xoáy cuốn qua.*
 
 ## COMMUNICATION - GIAO TIẾP
 
