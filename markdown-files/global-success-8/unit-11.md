@@ -213,14 +213,18 @@ Các câu có từ được nhấn (stressed) và không nhấn (unstressed). Ch
 - Did he **buy** a **new** **smart**phone yesterday?
 - **No**, he **did**n't.
 
-#### Bài 4: Listen and repeat the following words. Mark the stressed syllables in the words.
-*Nghe và lặp lại các từ sau. Đánh dấu các âm tiết được nhấn mạnh trong các từ.*
+**Ghi chú:**
+1. Từ được nhấn mạnh (stressed) thường là từ mang nhiều thông tin quan trọng nhất trong câu.
+2. Các từ chức năng như mạo từ (a, the), giới từ (in, on, at), liên từ (and, but) thường không được nhấn.
+3. Việc nhấn mạnh đúng từ giúp người nói truyền đạt ý nghĩa rõ ràng hơn và nghe tự nhiên hơn.
+4. Trong câu hỏi, từ nghi vấn (how, what, when, where) và từ chứa thông tin quan trọng thường được nhấn.
+5. Trong câu trả lời ngắn, "Yes"/"No" và trợ động từ (did, don't, can, etc.) thường được nhấn mạnh.
 
-#### Bài 5: Put the words from 4 in the right columns.
-*Đặt các từ từ bài 4 vào các cột đúng.*
+#### Bài 4: Listen and repeat the sentences. Pay attention to the bold syllables.
+*Nghe và lặp lại các câu. Chú ý đến các âm tiết được in đậm.*
 
-#### Bài 6: Fill the gaps with one of the words in 5. Listen and check, then read the sentences.
-*Điền vào chỗ trống bằng một trong những từ trong bài 5. Nghe và kiểm tra, sau đó đọc các câu.*
+#### Bài 5: Listen and repeat the sentences. How many stressed words are there in each sentence?
+*Nghe và lặp lại các câu. Có bao nhiêu từ được nhấn trong mỗi câu?*
 
 ## A CLOSER LOOK 2 - TÌM HIỂU THÊM 2
 
@@ -268,14 +272,17 @@ Subject + reporting verb (said/told/informed...) + (that) + clause with changes
 #### Bài 1: Look at part of the conversation in GETTING STARTED again. Then match Minh's uncle's direct speech with his reported speech.
 *Xem lại một phần cuộc trò chuyện trong phần Getting Started. Sau đó nối lời nói trực tiếp của chú Minh với lời nói tường thuật của ông ấy.*
 
-**Answer:**
-1 - B. The robot will be able to mark our work.
-→ My uncle said the robots would be able to mark our work.
-(Bác tôi nói rằng rô bốt sẽ có thể chấm bài.)
+**Direct speech:**
+1. "The robots will be able to mark our work."
+2. "The robots will be able to give us feedback too."
 
-2 - A. The robots will be able to give us feedback too.
-→ My uncle said the robots would be able to give us feedback too.
-(Bác tôi nói rô bốt cũng có thể đưa ra nhận xét.)
+**Reported speech:**
+A. My uncle said the robots would be able to give us feedback too.
+B. My uncle said the robots would be able to mark our work.
+
+**Answer:**
+1 - B (Bác tôi nói rằng rô bốt sẽ có thể chấm bài.)
+2 - A (Bác tôi nói rô bốt cũng có thể đưa ra nhận xét.)
 
 #### Bài 2: Complete the second sentences using the correct verb forms.
 *Hoàn thành các câu thứ hai bằng cách sử dụng các hình thức động từ đúng.*
@@ -400,12 +407,19 @@ Work in pairs. One student says a sentence and the other changes that sentence i
 4. **vending machine** : (n) máy bán hàng tự động /ˈvendɪŋ məˈʃiːn/
 5. **complain** : (v) phàn nàn, than phiền /kəmˈpleɪn/
 6. **poor connection** : (n) kết nối kém /pʊə(r) kəˈnekʃn/
-7. **convenient** : (adj) thuận tiện, tiện lợi /kənˈviːniənt/
-8. **independent** : (adj) độc lập, tự lập /ˌɪndɪˈpendənt/
-9. **share ideas** : (v) chia sẻ ý tưởng /ʃeə(r) aɪˈdɪəz/
-10. **avoid** : (v) tránh, tránh né /əˈvɔɪd/
+7. **video conferencing** : (n) hội nghị truyền hình /ˈvɪdiəʊ ˈkɒnfərənsɪŋ/
+8. **convenient** : (adj) thuận tiện, tiện lợi /kənˈviːniənt/
+9. **independent** : (adj) độc lập, tự lập /ˌɪndɪˈpendənt/
+10. **share ideas** : (v) chia sẻ ý tưởng /ʃeə(r) aɪˈdɪəz/
+11. **breakout room** : (n) phòng họp nhỏ (trong cuộc họp trực tuyến) /ˈbreɪkaʊt ruːm/
+12. **avoid** : (v) tránh, tránh né /əˈvɔɪd/
+13. **high security** : (n) an ninh cao /haɪ sɪˈkjʊərəti/
+14. **multi-functional** : (adj) đa chức năng /ˌmʌltiˈfʌŋkʃənl/
 
-### 💬 Dialogue - Đoạn hội thoại
+### 💬 Everyday English - Tiếng Anh hàng ngày
+
+#### Bài 1: Listen and read the conversation. Pay attention to the highlighted sentences.
+*Nghe và đọc đoạn hội thoại. Chú ý những câu được đánh dấu.*
 
 **Nick**: Great news for us. We'll have school clouds so we won't have to carry lots of books to school.
 *Tin tốt cho chúng ta đây. Chúng ta sẽ có lưu trữ đám mây của trường nên chúng ta sẽ không phải cầm nhiều sách đến trường.*
@@ -442,11 +456,11 @@ B: Great. Happy birthday to you, A.
 **Mi**: Our teacher uses Zoom for online teaching. But some students don't have computers or smartphones. Others complain about the poor connection. I also feel more stressed when learning online.
 *Giáo viên của chúng tôi dùng Zoom để dạy. Nhưng có vài học sinh không có máy tính hay điện thoại thông minh. Những người khác thì than phiền về kết nối yếu. Mình cũng cảm thấy áp lực hơn khi học trực tuyến.*
 
-**Tom**: Our teacher uses Google Meet for online teaching. It's quite convenient, and we don't have to get up early. But I still prefer having face-to-face classes. I want to meet my classmates.
+**Tom**: Our teacher uses Google Meet for video conferencing. It's quite convenient, and we don't have to get up early. Still, I prefer to study face to face. I want to see my classmates.
 *Giáo viên dùng Google Meet cho việc học trực tuyến. Nó khá tiện lợi, và chúng ta không cần dậy sớm. Nhưng mà mình vẫn thích học trực tiếp hơn. Mình muốn gặp các bạn cùng lớp.*
 
-**Phong**: We use Microsoft Teams. I don't like online learning. My eyes get tired. I can't concentrate. But online learning helps us become more independent learners.
-*Tụi mình dùng Microsoft Teams. Mình không thích học trực tuyến. Mắt mình mỏi. Mình không thể tập trung. Nhưng học trực tuyến giúp chúng ta trở nên độc lập hơn.*
+**Phong**: We use Microsoft Teams. I don't like online learning. My eyes get tired. I can't concentrate. But online learning helps us become more independent.
+*Tụi mình dùng Microsoft Teams. Mình không thích học trực tuyến. Mắt mình mỏi. Mình không thể tập trung. Nhưng học trực tuyến giúp chúng ta học tập độc lập hơn.*
 
 **Nick**: We use Zoom for discussions and share ideas. We interact in breakout rooms. It also helps us avoid traffic jams. But I'm not happy with the Internet connection sometimes.
 *Tụi mình dùng Zoom để thảo luận và chia sẻ ý tưởng. Tụi mình tương tác trong các phòng chia nhỏ. Nó cũng giúp tụi mình tránh kẹt xe. Nhưng mình nhiều lần không vui với kết nối mạng.*
@@ -455,8 +469,32 @@ B: Great. Happy birthday to you, A.
 |---|---|
 | 1. It's convenient. (Thuận tiện) | 1. Some students don't have computers or smartphones. (Vài học sinh không có máy tính hoặc điện thoại) |
 | 2. Don't have to get up early. (Không phải dậy sớm) | 2. The poor connection / Students feel more stressed. (Kết nối yếu/ Học sinh cảm thấy áp lực hơn) |
-| 3. Helps us become more independent. (Giúp chúng ta trở nên độc lập hơn) | 3. The eyes get tired / Students can't concentrate well. (Mỏi mắt/ Học sinh không tập trung) |
+| 3. Helps us become more independent. (Giúp chúng ta trở nên độc lập hơn) | 3. The eyes get tired / Students can't concentrate well. (Mỏi mắt/ Học sinh không bị tập trung) |
 | 4. Helps us avoid traffic jams. (Tránh kẹt xe) | 4. The Internet connection. (Kết nối mạng) |
+
+#### Bài 4: Work in groups. Talk about a platform you use for your online classes or one you know about. What are the benefits and problems of using it?
+*Làm việc nhóm. Nói về một nền tảng bạn sử dụng cho các lớp học trực tuyến hoặc một nền tảng bạn biết. Những lợi ích và vấn đề của việc sử dụng nó là gì?*
+
+**Example:**
+Flatform: Zoom meeting
+(Nền tảng: Zoom meeting)
+
+Benefits (lợi ích):
+1. user-friendly (thân thiện với người dùng)
+2. multi-functional (đa chức năng: screen sharing, room breaking...)
+3. high security (bảo mật cao)
+4. possible for large-sized class (khả dụng cho lớp học có sĩ số đông)
+
+Problems (vấn đề):
+1. limit time (giới hạn thời gian)
+2. chargeable (có tính phí)
+
+#### Bài 5: Report the answers of one of your group members to the class.
+*Báo cáo câu trả lời của một trong các thành viên trong nhóm của bạn trước lớp.*
+
+**Example:**
+Lan said that her extra class used Zoom. She said that one of its benefits is that it's easy to use. However, one problem reported is that the users have to pay fee to have meetings without the time limitation.
+(Lan nói rằng lớp học thêm của cô ấy học qua Zoom. Cô ấy nói rằng một trong những lợi ích của nó là dễ sử dụng. Tuy nhiên, một vấn đề được báo cáo lại chính là người dùng phải trả phí để có những buổi học không bị giới hạn về thời gian.)
 
 ## SKILLS 1 - KỸ NĂNG 1
 
@@ -486,6 +524,16 @@ B: Great. Happy birthday to you, A.
 22. **solution** : (n) giải pháp /səˈluːʃn/
 23. **a short period of time** : (n) một khoảng thời gian ngắn /ə ʃɔːt ˈpɪəriəd ɒv taɪm/
 24. **ability** : (n) khả năng /əˈbɪləti/
+
+### ✍️ Exercises - Bài tập
+
+#### Bài 1: Work in pairs. Name the technological applications in the pictures. Can they be used in schools?
+*Làm việc theo cặp. Kể tên các ứng dụng công nghệ trong tranh. Chúng có thể được sử dụng trong trường học không?*
+
+**Answers:**
+1. eye-tracking (theo dõi chuyển động của mắt)
+2. fingerprint scanner (máy quét vân tay)
+3. face recognition (nhận diện khuôn mặt)
 
 ### 📖 Reading - Đọc
 
@@ -676,7 +724,7 @@ In Finland, a robot called Ellas can speak (1) _____ languages. Students can pra
 |---|---|
 | 1. Robots can better remember things than teachers. (Rô bốt có thể nhớ mọi thứ tốt hơn giáo viên.) | 1. Robots can't understand students' emotions. (Rô bốt không thể hiểu được cảm xúc của học sinh.) |
 | 2. Robots provide a variety of educational methods including interactive ones. (Rô bốt có thể cung cấp đa dạng các phương pháp giáo dục, kể cả những phương pháp có tính tương tác.) | 2. Robots will be expensive compared to teachers giving lectures to students. (Chi phí cho rô bốt sẽ đắt đỏ hơn nếu so với giáo viên.) |
-| 3. If a robotic machine is the subject mentor of a classroom, pupils will be unafraid. (Nếu một người máy là cố vấn học tập trong một lớp, thì học sinh sẽ bớt e dè hơn.) | 3. Can't encourage students with particular strengths & interests in the subject to consider certain career paths. (Không thể hỗ trợ học sinh với những điểm mạnh và sở thích cụ thể trong các môn học để quyết định về con đường nghề nghiệp.) |
+| 3. If a robotic machine is the subject mentor of a classroom, pupils will be unafraid, and therefore give less seriousness in the study. (Nếu một người máy là cố vấn học tập trong một lớp, thì học sinh sẽ bớt e dè hơn và không khí học tập sẽ ít căng thẳng hơn.) | 3. Can't encourage students with particular strengths & interests in the subject to consider certain career paths. (Không thể hỗ trợ học sinh với những điểm mạnh và sở thích cụ thể trong các môn học để quyết định về con đường nghề nghiệp.) |
 
 #### Bài 5: Now write a paragraph (80 - 100 words) to express your opinion.
 *Bây giờ hãy viết một đoạn văn (80 - 100 từ) để bày tỏ ý kiến của mình.*
@@ -698,73 +746,87 @@ I disagree that robots will soon replace teachers at school. First, although rob
 #### Bài 1: Circle the option that goes with each verb.
 *Khoanh tròn lựa chọn phù hợp với mỗi động từ.*
 
-1. discover...
+1. create
+   A. an application
+   B. attendance
+
+2. invent
+   A. a painting
+   B. a telephone
+
+3. develop
+   A. an art
+   B. a technology
+
+4. discover
    A. a planet
-   B. a cure
+   B. a technology
 
-2. invent...
-   A. the telephone
-   B. the sun
-
-3. create...
-   A. a poem
-   B. the universe
-
-4. develop...
-   A. a technology
-   B. a mountain
-
-**Answers:** 1-A, 2-A, 3-A, 4-A
+**Answers:**
+1 - A: create an application (tạo ra một ứng dụng)
+2 - B: invent a telephone (phát minh ra điện thoại để bàn)
+3 - B: develop a technology (phát triển một loại công nghệ)
+4 - A: discover a planet (khám phá một hành tinh)
 
 #### Bài 2: Fill in each gap with a word or phrase from the box. You may have to change the form of the word or phrase.
 *Điền vào mỗi khoảng trống với một từ hoặc cụm từ trong hộp. Bạn có thể phải thay đổi hình thức của từ hoặc cụm từ.*
 
-**robot teacher | application | face recognition | eye-tracking | check attendance**
+**eye-tracking | application | check attendance | robot teacher | face recognition**
 
 1. They will develop more _____ to support human teachers at schools.
-2. Siri is a(n) _____ of biometric technology.
-3. Please look at this _____ screen.
-4. Teachers can ask students to wear _____ glasses to check if they understand a lesson.
+2. Siri, the voice recognition technology, is a(n) _____ of biometric technology.
+3. Please look at this _____ screen. It will check if you are a club member.
+4. Teachers can ask students to wear _____ glasses and check if they understand a lesson.
 5. Schools can _____ quickly and effectively using fingerprint scanners.
 
 **Answers:**
-1. robot teachers
-2. application
-3. face recognition
-4. eye-tracking
-5. check attendance
+1. robot teachers (Họ sẽ phát triển nhiều giáo viên người máy hơn để hỗ trợ giáo viên ở trường.)
+2. application (Siri, cùng với công nghệ nhận diện giọng nói, là một ứng dụng của công nghệ sinh trắc học.)
+3. face recognition (Hãy nhìn vào màn hình nhận diện gương mặt. Nó sẽ kiểm tra xem bạn có phải là thành viên câu lạc bộ.)
+4. eye-tracking (Giáo viên có thể yêu cầu học sinh đeo kính theo dõi chuyển động mắt và kiểm tra xem học sinh đã hiểu bài chưa.)
+5. check attendance (Các trường học có thể điểm danh nhanh chóng và hiệu quả nhờ vào máy quét dấu vân tay.)
 
 #### Bài 3: Which of the underlined parts in each question is incorrect? Find and correct it.
 *Phần gạch chân nào trong mỗi câu là sai? Tìm và sửa lại.*
 
 1. He said that Isaac Newton **discovers** gravity when an apple fell on him.
+   A                           B           C
 2. Our teacher said that the World Wide Web **is** a free space for people to share knowledge.
+                A                           B                        C
 3. The man said that Nanolearning **will** make students' learning more entertaining.
+              A                    B                                  C
 4. Mike said that he **can** design a robot in the future.
-5. The headmaster said our school **will use** voice recognition **next year**.
+         A           B                     C
+5. The headmaster said our school would use voice recognition **next year**.
+                  A               B                            C
 
 **Answers:**
-1. discovers → discovered
-2. is → was
-3. will → would
-4. can → could
-5. next year → the following year
+1. B: discovers → discovered
+2. A: is → was
+3. B: will → would
+4. B: can → could
+5. C: next year → the following year
 
 #### Bài 4: Rewrite the following sentences, using the words in BOLD.
 *Viết lại các câu sau, sử dụng các từ in đậm.*
 
 1. "We can't connect to the Internet to work online here," said Tom. **THERE**
 2. "Science is becoming a more important subject in schools now," Mr. Thompson said. **THEN**
-3. "The school will use a machine to check attendance next year," said the headmaster. **WOULD**
+3. "The school will use a machine to check students' attendance next year," said the headmaster. **WOULD**
 4. "We are having a science competition this week," said the monitor to the class. **THAT**
 5. "We don't like robot teachers at all," said the students. **DIDN'T**
 
 **Answers:**
-1. Tom said that they couldn't connect to the Internet to work online there.
-2. Mr. Thompson said that science was becoming a more important subject in schools then.
-3. The headmaster said the school would use a machine to check attendance the following year.
+1. Tom said that we couldn't connect to the Internet to work online there.
+(Tom nói rằng chúng ta không thể kết nối Internet để làm việc ở đó.)
+2. Mr Thompson said that science was becoming a more important subject in schools then.
+(Ông Thompson nói rằng khoa học đang trở thành một môn học quan trọng ở các trường.)
+3. The headmaster said that the school would use a machine to check students' attendance the following year.
+(Hiệu trưởng nói rằng trường sẽ dùng một cái máy để điểm danh học sinh vào năm sau.)
 4. The monitor said to the class that they were having a science competition that week.
+(Giáo viên chủ nhiệm nói với cả lớp rằng họ sẽ có một cuộc thi khoa học vào tuần này.)
 5. The students said that they didn't like robot teachers at all.
+(Học sinh không thích giáo viên người máy lắm.)
 
 ## PROJECT - DỰ ÁN
 
