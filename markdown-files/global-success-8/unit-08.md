@@ -179,35 +179,40 @@ price tag | shopaholic | on sale | browsing | Internet access
 **Bài 2**: Match the shopping places with their characteristics.
 (Nối các địa điểm mua sắm với đặc điểm của chúng)
 
-1. Specialty shops
-2. Discount shops
-3. Supermarkets
-4. Online shops
-5. Open-air markets
+1. a speciality shop
+2. a discount shop
+3. a supermarket
+4. an online shop
+5. an open-air market
 
-a. sell goods and services at a store or office
-b. sell foods and goods at lower prices
-c. sell a particular type of goods
-d. are outdoors
-e. offer lower prices on all products
+a. It offers lower prices on all products.
+b. It uses the internet to sell goods and services.
+c. It is often outdoor and offers a wide range of goods. Buyers can bargain.
+d. It is a large indoor shopping place with fixed prices for all the items offered.
+e. It offers one or two specific kinds of goods.
 
 **Answer:**
-1 - c
-2 - e
-3 - a
-4 - d
-5 - b
+1 - e: a speciality shop - It offers one or two specific kinds of goods.
+(cửa hàng chuyên doanh – Cung cấp một đến hai loại mặt hàng cụ thể.)
+2 - a: a discount shop - It offers lower prices on all products.
+(cửa hàng giảm giá – cung cấp giá thấp hơn cho tất cả các mặt hàng.)
+3 - d: a supermarket - It is a large indoor shopping place with fixed prices for all the items offered.
+(siêu thị - Một nơi mua sắm rộng lớn trong nhà với giá cố định cho tất cả các mặt hàng.)
+4 - b: an online shop - It uses the internet to sell goods and services.
+(cửa hàng trực tuyến – Nó dùng Internet để bán hàng hóa và dịch vụ.)
+5 - c: an open-air market - It is often outdoor and offers a wide range of goods. Buyers can bargain.
+(chợ trời – Thường ở ngoài trời và cung cấp rất nhiều loại mặt hàng. Người mua có thể trả giá.)
 
 **Bài 3**: Complete the sentences with the words and phrases from the box.
 (Hoàn thành các câu với các từ và cụm từ trong hộp)
 
-speciality shops | browsing | bargain | range of products | shopaholic
+shopaholic | bargain | speciality shops | browsing | range of products
 
-1. There are many .... in a shopping centre.
-2. I spent the whole morning just .... online for clothes, but I didn't buy anything.
-3. Alice doesn't know how to .... so she paid too much for her T-shirt.
-4. Both online and offline supermarkets offer a wide ....
-5. She's a .... She spends too much time and money shopping.
+1. There are many _____ in a shopping centre.
+2. I spent the whole morning just _____ online for clothes, but I didn't buy anything.
+3. Alice doesn't know how to _____ so she paid too much for her T-shirt.
+4. Both online and offline supermarkets offer a wide _____.
+5. She's a _____, she spends too much time and money shopping.
 
 **Answer:**
 1. speciality shops
@@ -220,29 +225,29 @@ speciality shops | browsing | bargain | range of products | shopaholic
 
 **Sounds /sp/ and /st/**
 
-- /sp/: **sp**ace, **sp**ort, **sp**ecial, **sp**eak
-- /st/: **st**ore, **st**art, **st**op, **st**and
-
-**Lưu ý:** 
-- Âm /sp/: môi mím nhẹ khi phát âm /p/
-- Âm /st/: đầu lưỡi chạm lợi hàm trên khi phát âm /t/
-
 **Bài 4**: Listen and repeat the words. Pay attention to the sounds /sp/ and /st/.
 (Nghe và nhắc lại các từ. Chú ý âm /sp/ và /st/)
 
-1. spend      5. stall
-2. special    6. assistant
-3. spring     7. customer
-4. mispend    8. restaurant
+/sp/ | /st/
+---|---
+spend | stall
+speciality | staff
+space | outstand
+respect | honest
+clasp | waste
+
+**Phát âm:**
+- /sp/: spend /spend/, speciality /ˌspef.iˈæl.ə.ti/, space /speɪs/, respect /rɪˈspekt/, clasp /klɑːsp/
+- /st/: stall /stɔːl/, staff /stɑːf/, outstand /ˌaʊtˈstænd/, honest /ˈɒn.ɪst/, waste /weɪst/
 
 **Bài 5**: Listen and repeat the sentences. Pay attention to the underlined words.
 (Nghe và nhắc lại các câu. Chú ý những từ được gạch chân)
 
-1. In the **sp**ring, the **sp**orts **st**ores are full of cu**st**omers.
-2. Di**sp**lay your **sp**ecial **st**one collection at the **st**udent fair.
-3. The **sp**acious room mi**st**akes for a re**st**aurant.
-4. The **st**aff di**sc**uss how to **sp**end money on **sp**ecial occa**s**ions.
-5. My mother re**sp**ects my grandpa for hi**s** out**st**anding career.
+1. There is a three-**st**orey **sp**orts centre in my neighbourhood.
+2. The a**ssi**stant at her shop always gives us **sp**ecial attention.
+3. The shop owner treats his cu**st**omers with a lot of re**sp**ect.
+4. The food at that re**st**aurant is too **sp**icy for me.
+5. Tom **sp**ent half of his savings in that music **st**ore.
 
 ## A CLOSER LOOK 2 - TÌM HIỂU THÊM 2
 
