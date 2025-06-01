@@ -479,108 +479,172 @@ I'm really into convenience stores. It's simply convenient. You can find them ev
 
 ### 📖 Reading - Đọc
 
-**Why do we go to shopping centres?**
+**Why We Go to Shopping Centres**
 
 Shopping centres attract a lot of customers, especially at the weekend, on holidays, or during sales. People go there to shop. Shopping centres offer a wide range of products to choose from. Customers can touch the products and try on clothes and shoes. This makes them feel more comfortable when they decide to buy something.
 
 However, people also go to shopping centres for many other reasons. Some people go there for entertainment. These centres often offer year-round free entertainment for customers of all ages such as live music and special performances. During holidays, shoppers can see decorations and join in the holiday excitement. It's a good way to relax. Some people go there just to hang out with friends. They go browsing and chat while wandering through the shopping malls. Others visit shopping centres to get exercise. They enjoy walking for one or two hours in clean and well-lit areas. Some people even go there to avoid the heat or cold outside. Shopping centres offer free air conditioning and heating.
 
-**Tại sao chúng ta đi tới các trung tâm mua sắm?**
+**Tại sao chúng ta đến trung tâm thương mại?**
 
-Các trung tâm mua sắm thu hút nhiều khách hàng, đặc biệt là vào cuối tuần, vào những ngày lễ, hoặc giữa những đợt giảm giá. Người ta đi tới đó để mua sắm. Các trung tâm mua sắm cung cấp một sự lựa chọn rộng rãi về hàng hóa. Những khách hàng có thể chạm vào sản phẩm và thử những quần áo và giày. Điều này làm cho họ cảm thấy thoải mái hơn khi họ quyết định mua cái gì đó.
+Trung tâm thương mại thu hút rất nhiều khách hàng, đặc biệt là vào cuối tuần, vào ngày nghỉ hoặc trong các đợt giảm giá. Mọi người đến đó để mua hàng. Trung tâm thương mại cung cấp đa dạng hàng hóa để lựa chọn. Khách hàng có thể cầm sản phẩm và thử quần áo hay giày dép. Chuyện này khiến họ thấy thoải mái hơn khi họ quyết định mua gì đó.
 
-Tuy nhiên, người ta cũng đi tới trung tâm thương mại vì những lý do khác. Một vài người đi tới đó cho việc giải trí. Những trung tâm mua sắm này cung cấp sự giải trí miễn phí quanh năm cho khách hàng thuộc mọi lứa tuổi cũng như nhạc sống và những buổi biểu diễn đặc biệt. Trong suốt ngày nghỉ, những người mua sắm có thể thấy những trang trí và tham gia vào sự hào hứng ngày lễ. Nó là một cách tốt để thư giãn. Một vài người đi tới đó chỉ để chơi với bạn bè. Họ đi dạo và tán gẫu trong khi lang thang qua các trung tâm mua sắm. Những người khác thăm các trung tâm mua sắm để tập thể dục. Họ thích đi bộ trong một hoặc hai tiếng trong những khu vực sạch sẽ và được chiếu sáng tốt. Một vài người thậm chí đi với đó để tránh nhiệt độ hoặc cái lạnh bên ngoài. Các trung tâm thương mại cung cấp điều hòa và sưởi ấm miễn phí.
+Tuy nhiên, người ta cũng đi đến trung tâm thương mại vì nhiều lí do khác. Nhiều người đến đó để giải trí. Những trung tâm này thường cung cấp những dịch vụ giải trí miễn phí quanh năm cho các khách hàng ở mọi độ tuổi như nhạc sống và những màn trình diễn đặc biệt. Trong những ngày lễ, khách mua hàng có thể thấy những vật trang trí và hòa mình vào niềm thích thú của những ngày lễ. Đó là một cách tốt để thư giãn. Vài người đến đó chỉ để đi chơi với bạn bè. Họ chỉ đi lướt qua và nói chuyện với nhau trong khi lang thang khắp trung tâm thương mai. Có những người đến trung tâm thương mại chỉ để tập thể dục. Họ thích đi dạo tầm một đến hai giờ đồng hồ trong những khu vực sạch sẽ và sáng đèn. Có vài người thậm chí còn đến đây để tránh cái nóng và cái lạnh ở bên ngoài. Trung tâm thương mại cung cấp sưởi ấm và làm mát miễn phí.
 
 ### ✍️ Exercises - Bài tập
 
 **Bài 1**: Read the list below and tick (✓) the most common reason(s) why you go shopping.
 (Đọc danh sách dưới đây và đánh dấu (✓) lý do phổ biến nhất khiến bạn đi mua sắm)
 
-- to shop for food and goods
-- to exercise
-- to hang out with friends
-- to relax
-- to avoid heat or cold
+- hanging out with friends (đi chơi với bạn bè)
+- reducing stress (giảm stress)
+- buying goods (mua hàng hóa)
+- exercising (tập thể dục)
+- browsing (xem lướt qua)
+
+**Example answer:**
+- ✓ hanging out with friends
+- ✓ reducing stress
+- buying goods
+- exercising
+- ✓ browsing
 
 **Bài 2**: Read the passage and choose the correct answer A, B or C.
-(Đọc đoạn văn và chọn câu trả lời đúng A, B hoặc C)
+(Đọc đoạn văn chọn câu trả lời đúng A, B hoặc C)
 
-1. Why do shopping centres attract a lot of customers?
-   A. to shop for food only
-   B. to shop for entertainment only
+1. People go to a shopping centre ___________________.
+   A. only for shopping
+   B. mainly to hang out
    C. for many reasons
 
-2. What can customers do at shopping centres?
+2. At shopping centres, customers can _________________.
    A. touch the products
    B. bargain to get lower prices
    C. pay to watch live performances
 
-3. What kind of entertainment do shopping centres offer?
-   A. fashion shows
+3. A kind of entertainment at a shopping centre is _____________.
+   A. fashion contests
    B. live music
    C. painting exhibitions
 
-4. Some people exercise at a shopping centre because they like its ____
+4. Some people exercise at a shopping centre because they like its ______________.
    A. crowds
    B. well-lit areas
    C. shops
 
-5. The word "year-round" in paragraph 2 is similar in meaning to ____
+5. The word "year-round" in paragraph 2 is similar in meaning to ______________.
    A. always
    B. sometimes
    C. rarely
 
 **Answer:**
-1. C
-2. A
-3. B
-4. B
-5. A
+1. C - for many reasons (vì nhiều lí do)
+2. A - touch the products (chạm vào sản phẩm)
+3. B - live music (nhạc sống)
+4. B - well-lit areas (khu vực có nhiều ánh sáng)
+5. A - always (luôn luôn)
 
 **Bài 3**: Fill in each blank with ONE word from the passage.
-(Điền vào mỗi chỗ trống MỘT từ từ đoạn văn)
+(Điền vào mỗi chỗ trống với MỘT từ trong đoạn văn)
 
-1. Shopping centres attract a lot of customers on ____ and during ____
-2. Customers can ____ clothes and shoes.
-3. Shopping centres offer ____ for customers of all ages.
-4. Customers can see ____ and enjoy the holiday excitement.
-5. Shopping centres usually offer ____ air conditioning and heating.
+Shopping centres
+1. attract a lot of customers during _____.
+2. allow customers to _____ on clothes and shoes.
+3. offer free _____ for customers of all ages.
+4. are full of _____ during holidays.
+5. offer _____ air conditioning and heating.
 
 **Answer:**
-1. holidays - sales
-2. try on
-3. entertainment
-4. decorations
-5. free
+1. sales (đợt giảm giá)
+2. try (thử)
+3. entertainment (loại hình giải trí)
+4. decorations (vật trang trí)
+5. free (miễn phí)
 
 ### 🗣️ Speaking - Nói
 
 **Bài 4**: Work in pairs. Ask and answer about a new shopping centre.
 (Làm việc theo cặp. Hỏi và trả lời về một trung tâm mua sắm mới)
 
-Example:
-A: Where is it?
-B: It's in the town centre.
+- Student A reads the suggestions for questions on card A.
+(Học sinh A đọc gợi ý câu hỏi trên thẻ A.)
+- Student B reads the information about the new shopping centre on card B (page 91).
+(Học sinh B đọc thông tin về trung tâm thương mại mới ở thẻ B (trang 91).)
 
-Questions:
-1. Where is it?
-2. How many shops does it have?
-3. What kind of entertainment does it have?
-4. What are its opening hours?
-5. What date does it open?
+**CARD A**
+Northwood Shopping Centre
+(Trung tâm mua sắm Northwood)
+1. Where / it? (Ở đâu?)
+2. How many / shops? (Bao nhiêu cửa hàng?)
+3. What / kind of entertainment? (Loại hình giải trí?)
+4. What / opening hours? (Giờ mở cửa?)
+5. What date / open? (Ngày mở cửa?)
 
-**Example answers:**
-1. It is in the center of the city.
-2. It has 100 shops.
-3. It has live music and an arcade center.
-4. It opens from 9 AM to 10 PM.
-5. It opens on 16th November 2024.
+**CARD B**
+Northwood Shopping Centre
+(Trung tâm mua sắm Northwood)
+Opens next month: 24 March (Mở cửa tháng sau: 24/3)
+In Northwood, 8 kilometres from city centre (Ở Northwood, 8km từ trung tâm thành phố)
+More than 60 shops, 4 restaurants, 2 cafes, a cinema, a playground for children (Hơn 60 cửa hàng, 4 nhà hàng, 2 quán cà phê, một rạp chiếu phim, 1 sân chơi cho trẻ con)
+Opening hours: 9:00 - 21:00 (Giờ mở cửa: 9 giờ sáng - 9 giờ tối)
+
+**Example dialogue:**
+A: Where is Northwood Shopping Centre?
+(Trung tâm thương mại Northwood ở đâu?)
+B: Northwood Shopping Centre is in Northwood, about 8 kilometres from city center.
+(Trung tâm thương mại Northwood ở Northwood, khoảng 8 ki-lô-mét từ trung tâm thành phố.)
+
+A: How many shops are there in Northwood Shopping Centre?
+(Có bao nhiêu cửa hàng ở trung tâm thương mại Northwood?)
+B: There are more than 60 shops in Northwood Shopping Centre.
+(Có hơn 60 cửa hàng ở trung tâm thương mại Northwood.)
+
+A: What kind of entertainment does Northwood Shopping Centre have?
+(Loại hình giải trí nào có ở trung tâm thương mại Northwood?)
+B: Northwood Shopping Centre has 4 restaurants, 2 cafes, a cinema and a playground for children.
+(Trung tâm thương mại Northwood có 4 nhà hàng, 2 quán ăn, một rạp chiếu phim và một khu vui chơi cho trẻ em.)
+
+A: What are its opening hours?
+(Giờ mở cửa của trung tâm thương mại?)
+B: It opens from 9 a.m to 9 p.m.
+(Nó mở cửa từ 9 giờ sáng đến 9 giờ tối.)
+
+A: What date does it open?
+(Nó mở cửa vào ngày nào?)
+B: Northwood Shopping Centre opens next month, on 24 March.
+(Trung tâm thương mại Northwood mở cửa vào tháng tới, ngày 24 tháng 3.)
 
 **Bài 5**: Work in pairs. Ask and answer about a shopping centre, a supermarket, or an open-air market in your area. Take notes of your partner's answers and report them to the class.
-(Làm việc theo cặp. Hỏi và trả lời về trung tâm mua sắm, siêu thị hoặc chợ ngoài trời trong khu vực của bạn. Ghi chú câu trả lời của bạn và báo cáo với lớp)
+(Làm việc theo cặp. Hỏi và trả lời về trung tâm mua sắm, siêu thị hoặc chợ ngoài trời trong khu vực của bạn. Ghi chú các câu trả lời của đối tác của bạn và báo cáo chúng trước lớp)
 
-Example report:
-My partner likes Big C Supermarket. It is located in Hanoi, about 10 kilometres from the city center. We can get there by any vehicles. We go to Big C Supermarket to buy goods with lower prices. My partner likes it because it has a wide range of products to choose from. However, he doesn't like it when it's crowded.
+You can use the suggestions below:
+(Bạn có thể sử dụng những gợi ý bên dưới)
+- where it is (nó ở đâu)
+- how you get there (bạn đến đây bằng phương tiện gì)
+- what its opening hours are (giờ mở cửa là mấy giờ)
+- what you do there (bạn làm gì ở đây)
+- what you like / don't like about it (bạn thích/ không thích gì về nó)
+
+**Example answer:**
+Go Supermarket (Siêu thị GO)
+
+Located in Binh Duong, about 2 kilometres from city center.
+(Tọa lạc ở Bình Dương, khoảng 2 ki-lô-mét từ trung tâm thành phố.)
+
+We can get there by any vehicles (bike, motorbike, car, bus, ...)
+(Chúng ta có thể đến đó bằng bất cứ phương tiện nào (xe đạp, xe máy, ô tô, xe buýt, …)
+
+Opening hours: Everyday 8:00 - 22:00
+(Giờ mở cửa: Hằng ngày từ 8 giờ đến 22 giờ.)
+
+We go to Go Supermarket to buy goods with lower prices.
+(Chúng tôi đến Siêu thị Go mua hàng với giá thấp hơn.)
+
+I like Go Supermarket because it has a wide range of products to choose from.
+(Tôi thích Siêu thị Go vì nó đa dạng hàng hóa để lựa.)
+
+I don't like Go Supermarket because it's always crowded.
+(Tôi không thích Siêu thị Go vì nó luôn đông đúc.)
 
 ## SKILLS 2 - KỸ NĂNG 2
 
@@ -706,7 +770,7 @@ Online shopping has become very popular because of its many advantages. First, i
 
 **Shopping activities:**
 - bargain: trả giá, mặc cả
-- browse: lướt xem, dạo xem
+- browse/browsing: lướt xem, dạo xem
 - purchase: mua
 - return: trả lại
 - shop online: mua sắm trực tuyến
@@ -715,85 +779,95 @@ Online shopping has become very popular because of its many advantages. First, i
 - price tag: nhãn giá
 - fixed price: giá cố định
 - on sale: đang giảm giá
+- during sales: trong thời gian giảm giá
 - shopaholic: người nghiện mua sắm
 - customer: khách hàng
 - credit card: thẻ tín dụng
 - shipping: vận chuyển
 - refund: hoàn tiền
+- home-grown: nhà trồng, tự trồng
+- home-made: nhà làm, tự làm
+- wide range of products: nhiều loại sản phẩm
+- Internet access: truy cập Internet
+- offline: ngoại tuyến, trực tiếp
 
 ### ✍️ Exercises - Bài tập
 
-**Bài 1**: Match the words and phrases (1-5) with the meanings (a-e).
-(Nối các từ và cụm từ (1-5) với nghĩa (a-e))
+**Bài 1**: Match the words and phrases (1 - 5) with the meanings (a - e).
+(Nối các từ và cụm từ (1 - 5) với nghĩa (a - e).)
 
-1. the act of using the Internet to order food or goods
-2. a time when many things in a shop are at lower prices than usual
-3. a person who is addicted to shopping
-4. to look at things in a shop without buying anything
-5. a large amount of goods
-
-a. a wide range of products
-b. during sales
-c. shopaholic
-d. online shopping
-e. browsing
+| 1. During sales | a. The action of using the Internet to order food or goods |
+| 2. Browsing | b. A time when many things in a shop are at lower prices than usual |
+| 3. Online shopping | c. A person who is addicted to shopping |
+| 4. Wide range of products | d. Going round and looking the things on display |
+| 5. Shopaholic | e. A great number of goods |
 
 **Answer:**
-1 - d
-2 - b
-3 - c
-4 - e
-5 - a
+1 - b: During sales - A time when many things in a shop are at lower prices than usual.
+(Trong thời gian giảm giá – Một thời điểm mà nhiều thứ trong một cửa hàng có giá thấp hơn bình thường.)
+
+2 - d: Browsing - Going round and looking the things on display.
+(Đi xem qua – đi vòng vòng và xem những thứ được trưng bày.)
+
+3 - a: Online shopping - The action of using the Internet to order food or goods.
+(Mua sắm trực tuyến – Hành động dùng Internet để đặt hàng hoặc đặt đồ ăn.)
+
+4 - e: Wide range of products - A great number of goods.
+(Hàng loạt các sản phẩm – một lượng lớn hàng hóa.)
+
+5 - c: Shopaholic - A person who is addicted to shopping.
+(Người nghiện mua sắm – Người mà nghiện mua sắm.)
 
 **Bài 2**: Complete the sentences with the words and phrases from the box.
-(Hoàn thành các câu với các từ và cụm từ trong hộp)
+(Hoàn thành các câu với các từ và cụm từ trong hộp.)
 
-on sale | bargain | Internet access | home-grown | offline
+Internet access | offline | home-grown | bargain | on sale
 
-1. The items at that shop are ____ this week. There is a 50% discount on all of them.
-2. Can I ____ over the price of this T-shirt?
-3. There is no ____ in the countryside. That's why I can't check my email.
-4. These tomatoes are ____. They are fresh from our garden.
-5. Why do you prefer ____ shopping?
+1. Look! These sports shoes are _____. They are 30% off.
+2. This item has a price tag, so you cannot _____.
+3. Do you have _____ here? I want to check my email.
+4. When you visit a farmers' market, you will find a lot of _____ fruit and vegetables.
+5. My mother always shops _____. She never shops online.
 
 **Answer:**
-1. on sale
-2. bargain
-3. Internet access
-4. home-grown
-5. offline
+1. on sale (Nhìn kìa. Những đôi giày thể thao này đang giảm giá. Giảm 30%.)
+2. bargain (Thứ này có nhãn giá rồi nên cậu không trả giá được đâu.)
+3. Internet access (Anh có điểm truy cập Internet ở đây không? Tôi muốn kiểm tra hòm thư điện tử.)
+4. home-grown (Khi mà bạn đến chợ nông sản, bạn sẽ tìm được rất nhiều rau quả nhà trồng.)
+5. offline (Mẹ mình luôn mua sắm trực tiếp. Bà ấy chưa bao giờ mua sắm trực tuyến.)
 
 **Bài 3**: Complete each sentence with a suitable adverb of frequency.
-(Hoàn thành mỗi câu với một trạng từ chỉ tần suất phù hợp)
+(Hoàn thành mỗi câu với trạng từ chỉ tần suất thích hợp)
 
-1. My sister ____ buys anything from dollar stores. Her favourite store is near our house.
-2. We ____ go to the supermarket - maybe once a week.
-3. Do you like shopping at the market? - Yes, I ____ go there. I prefer shopping online.
-4. My mother ____ shops at the market. She goes there every day.
-5. He ____ uses the Internet to buy things. He finds online shopping unsafe.
+1. My sister ________ watches the Junior Master Chef programme. She never misses an episode.
+2. My mum _________ shops at the supermarket. But I don't go there often.
+3. My father _________ goes to a dollar store. He says there's nothing worth buying there.
+4. We don't _________ go to the supermarket. It's far from our home.
+5. These brands are ___________ on sale, just once or twice a year.
 
 **Answer:**
-1. always
-2. often
-3. never
-4. usually
-5. rarely
+1. always (Em gái tôi luôn xem chương trình Vua Đầu Bếp nhí. Nó chưa bao giờ bỏ một tập nào.)
+2. always/ usually/ often (Mẹ tôi luôn/ thường mua sắm ở siêu thị. Nhưng tôi không thường hay tới đó lắm.)
+3. never (Bố mình chẳng bao giờ đến cửa hàng một đô. Ông ấy nói chẳng có gì đáng mua ở đó.)
+4. usually/ often (Chúng tôi không thường đến siêu thị. Nó cách xa nhà chúng tôi.)
+5. rarely (Những nhãn hàng này hiếm khi giảm giá, thường chỉ một hoặc hai lần một năm.)
 
 **Bài 4**: Use the correct tense and form of the verbs in brackets to complete the sentences.
-(Sử dụng thì và dạng đúng của động từ trong ngoặc để hoàn thành các câu)
+(Sử dụng thì và dạng đúng của động từ trong ngoặc để hoàn thành các câu.)
 
-1. The bus to the supermarket (leave) ____ at 7:00 tomorrow.
-2. The sale at the shopping center (be) ____ on for three more days.
-3. I like small shops because I (can use) ____ my credit card there.
-4. The sale (last) ____ for a whole week. We still have four days left.
-5. I (not have) ____ cash, so can I pay by credit card?
+1. The shuttle bus (leave) _____ every 15 minutes to take customers to the parking lot.
+2. - Mum, what time (be) _____ the show tonight?
+   - Let me check.
+3. We (can / use) _____ these vouchers for the next shopping.
+4. The announcement says that the sale (last) _____ for just two hours, from 17:00 to 19:00 tomorrow.
+5. We (not / have) _____ home economics next semester. We have music instead.
 
 **Answer:**
-1. leaves
-2. is
-3. can use
-4. lasts
-5. don't have
+1. leaves (Xe buýt đưa đón rời đi mỗi 15 phút để đưa khách hàng đến bãi đậu xe.)
+2. is (Mẹ ơi, tối nay buổi diễn bắt đầu lúc mấy giờ thế ạ? - Để mẹ xem)
+3. can use (Chúng ta có thể dùng những phiếu giảm giá này cho lần mua sắm tiếp theo.)
+4. lasts (Thông báo nói rằng đợt giảm giá sẽ diễn ra chỉ trong 2 giờ, từ 5 giờ đến 7 giờ tối mai.)
+5. don't have (Kì tới chúng ta sẽ không có môn kinh tế. Thay vào đó chúng ta sẽ có môn âm nhạc.)
 
 ## PROJECT - DỰ ÁN
 
