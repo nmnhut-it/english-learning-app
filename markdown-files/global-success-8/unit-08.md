@@ -259,7 +259,7 @@ clasp | waste
 
 **Các trạng từ tần suất phổ biến:**
 - **always** (100%): luôn luôn
-- **usually** (80%): thường xuyên
+- **usually** (80%): thường xuyên  
 - **often** (60%): thường
 - **sometimes** (40%): thỉnh thoảng
 - **rarely** (20%): hiếm khi
@@ -292,13 +292,13 @@ clasp | waste
 **Bài 1**: Complete the sentences with the adverbs of frequency from the box.
 (Hoàn thành các câu với các trạng từ chỉ tần suất trong hộp)
 
-always | rarely | never | often | sometimes
+always | often | sometimes | rarely | never
 
-1. My mother .... shops at the supermarket. She .... shops anywhere else.
-2. I .... buy things online, just once or twice a year. I prefer to shop at the shopping mall.
-3. You can .... bargain at a supermarket because the prices are fixed.
-4. How .... do you return things you buy online?
-5. I don't often buy things at the dollar store. My mother only .... takes me there.
+1. My mother _____ shops at the supermarket. She _____ shops anywhere else.
+2. I _____ buy things online, just once or twice a year. I prefer to shop at the shopping mall.
+3. You can _____ bargain at a supermarket because the prices are fixed.
+4. How _____ do you return things you buy online?
+5. I don't often buy things at the dollar store. My mother only takes me there _____.
 
 **Answer:**
 1. always - never
@@ -310,27 +310,33 @@ always | rarely | never | often | sometimes
 **Bài 2**: Read the schedule of the field trip for the grade 8 students tomorrow, and underline the verbs in the sentences. Then answer the questions.
 (Đọc lịch trình chuyến đi thực địa cho học sinh lớp 8 ngày mai, và gạch chân các động từ trong câu. Sau đó trả lời các câu hỏi)
 
-Field Trip Schedule:
-- 7:30 a.m.: Bus leaves school
-- 9:00 a.m.: Students arrive at Costco supermarket
-- 11:30 a.m.: Students leave for the mall
-- 2:00 p.m.: Students return to school
+**Field trip to the Double Dragon Chocolate Factory**
+30 February
 
-1. What time does the bus leave?
-2. What do the students do at 9:00 a.m.?
+| Time | Activity |
+|------|----------|
+| 9:00 | The bus **leaves**. |
+| 10:00 | Students **arrive** at the factory. |
+| 10:10 | Students **watch** a documentary introducing the factory. |
+| 10:30 | The tour of the factory **starts**. |
+| 12:00 | Students **return** to school to write the trip reports. |
+
+**Answer the questions:**
+1. What tense are the verbs in the sentences?
+2. Are the sentences about habits or future activities?
 
 **Answer:**
-1. The bus leaves at 7:30 a.m.
-2. The students arrive at Costco supermarket at 9:00 a.m.
+1. The verbs in the sentences are present simple tense.
+2. The sentences are about future activities.
 
 **Bài 3**: Write A next to a sentence if it refers to a timetable, schedule or plan, and B if it is an unplanned future action.
 (Viết A bên cạnh câu nếu nó đề cập đến thời gian biểu, lịch trình hoặc kế hoạch, và B nếu nó là hành động tương lai không có kế hoạch)
 
-1. We'll go to Costco to return this suitcase. ....
-2. Look! We have the whole afternoon for shopping on Monday in the tour. ....
-3. The summer sales end next Sunday. ....
-4. Listen to the announcement. The train doesn't leave till 12:00. Let's get something to drink. ....
-5. I'm too busy today, so we'll go shopping on Tuesday. ....
+1. We'll go to Costco to return this suitcase. _____
+2. Look! We have a whole afternoon for shopping on the second day of our tour. _____
+3. The summer sales end next Sunday. _____
+4. Listen to the announcement. The train doesn't leave till 12:00. Let's get something to drink. _____
+5. I'm too busy today, so we'll go shopping on Tuesday. _____
 
 **Answer:**
 1. B
@@ -342,11 +348,11 @@ Field Trip Schedule:
 **Bài 4**: Choose the correct option to complete each sentence.
 (Chọn phương án đúng để hoàn thành mỗi câu)
 
-1. The supermarket in my neighbourhood (open / opens) longer hours than the one in yours.
-2. Don't worry. I (will make / make) a shopping list, and you just give it to the shop owner.
-3. We (don't buy / won't buy) birthday cakes this year. We can bake one at home instead.
-4. The bus schedule says that there (is / are) a bus to Aeon at 10:05.
-5. Look at the advertisement. Does the big sale (started / start) next Friday?
+1. The supermarket in my neighbourhood (opens / will open) longer hours than the one in yours.
+2. Don't worry. I (make / will make) a shopping list, and you just give it to the shop owner.
+3. We (don't buy / won't buy) a birthday cake this year. We can bake one at home instead.
+4. The bus schedule says that there (is / will be) a bus to Aeon at 10:05.
+5. Look at the advertisement. (Does / Will) the big sale start next Friday?
 
 **Answer:**
 1. opens
@@ -358,33 +364,43 @@ Field Trip Schedule:
 **Bài 5**: Work in pairs. Ask and answer to check planned events for the community fair next month.
 (Làm việc theo cặp. Hỏi và trả lời để kiểm tra các sự kiện đã lên kế hoạch cho hội chợ cộng đồng tháng tới)
 
-A: What time do the food stalls open?
-B: They open at 10 a.m.
+**Community Fair**
+1 April
+
+| Date | Events |
+|------|--------|
+| 1 March | Preparing for the fair |
+| 3 March | Calling for volunteers |
+| 1 April | 8:30: Opening<br>11:00: Holding food competition |
+| 2 April | Cleaning up by volunteers |
+
+**Example:**
+A: When do we start preparing for the fair?
+B: We start on the first of March.
 
 ## COMMUNICATION - GIAO TIẾP
 
 ### 📚 Vocabulary - Từ vựng
 
 **Making complaints - Đưa ra lời phàn nàn:**
-1. **I'm calling to complain about...** : Tôi gọi để phàn nàn về... /aɪm ˈkɔːlɪŋ tə kəmˈpleɪn əˈbaʊt/
+1. **I'm calling to make a complaint about...** : Tôi gọi để phàn nàn về... /aɪm ˈkɔːlɪŋ tə meɪk ə kəmˈpleɪnt əˈbaʊt/
 2. **I'm not happy with...** : Tôi không hài lòng về... /aɪm nɒt ˈhæpi wɪð/
-3. **sorry for interrupting** : xin lỗi vì đã ngắt lời /ˈsɒri fɔː(r) ˌɪntəˈrʌptɪŋ/
-4. **hold on** : chờ một chút /həʊld ɒn/
-5. **repeat** : (v) lặp lại, nhắc lại /rɪˈpiːt/
+3. **Well... Let me check it** : À... Để tôi kiểm tra nó /wel... let miː tʃek ɪt/
+4. **I'm sorry about that** : Tôi xin lỗi về điều đó /aɪm ˈsɒri əˈbaʊt ðæt/
 
 ### 💬 Content - Nội dung
 
-**Tom**: I'm calling to complain about the SMART backpack I ordered from you last week. I got it this morning, and it's smaller than the one you advertised online.
-Tôi gọi để phàn nàn về chiếc ba lô SMART mà tôi đã đặt hàng từ bạn tuần trước. Tôi nhận được nó sáng nay, và nó nhỏ hơn cái bạn đã quảng cáo trên mạng.
+**Tom**: I'm calling to make a complaint about the SMART backpack I ordered from you last week. I got it this morning, and it's smaller than the one you advertised online.
+Tôi gọi để khiếu nại về chiếc ba lô SMART mà tôi đã đặt hàng từ bạn tuần trước. Tôi nhận được nó sáng nay, và nó nhỏ hơn cái bạn đã quảng cáo trên mạng.
 
 **Trang**: Well... Let me check it.
-À... để tôi kiểm tra nó.
+À... Để tôi kiểm tra đã.
 
-**Tom**: And I'm not happy with the colour either. In your picture it's dark brown, and this one is yellowish brown.
-Và tôi cũng không vui với màu sắc. Trong hình, nó là màu nâu đậm, và cái này là màu nâu vàng.
+**Tom**: And I'm not happy with the colour, either. In your picture it's dark brown, and this one is yellowish brown.
+Và tôi cũng không hài lòng với màu sắc. Trong hình của bạn nó có màu nâu sẫm, còn cái này có màu nâu vàng.
 
 **Trang**: I'm sorry about that. I'll send you another one.
-Tôi xin lỗi vì điều đó. Tôi sẽ gửi cho bạn một cái khác.
+Tôi xin lỗi về điều đó. Tôi sẽ gửi cho bạn một cái khác.
 
 ### ✍️ Exercises - Bài tập
 
@@ -394,35 +410,38 @@ Tôi xin lỗi vì điều đó. Tôi sẽ gửi cho bạn một cái khác.
 **Bài 2**: Work in pairs. In turn, make complaints about the situations below.
 (Làm việc theo cặp. Lần lượt đưa ra lời phàn nàn về các tình huống dưới đây)
 
-1. You bought a T-shirt online, but the one you got was too small.
-2. You bought a pair of trainers at a shoe shop, but the seller was not friendly.
+1. The cans of fish you bought at the shop expired five days ago.
+(Hộp cá bạn mua ở cửa hàng hết hạn 5 ngày trước.)
+
+2. An assistant at the shop was not very helpful.
+(Một nhân viên ở cửa hàng không nhiệt tình.)
 
 **Example answers:**
-1. A: I'm calling to complain about a T-shirt I bought from you online.
-   B: Well, let me check. What's wrong with it?
-   A: I'm not happy with the size. It's too small.
-   B: I'm really sorry about that. We'll send you another one.
+1. A: I'm calling to make a complaint about the can of fish I bought at the shop. It expired five days ago.
+   B: Well... Let me check it.
+   A: I'm waiting.
+   B: I'm sorry about that. I'll send you another one.
 
-2. A: I'm calling to complain about a shop assistant of yours.
-   B: Well, what happened?
-   A: He/She wasn't very helpful. I'm not happy with the service.
-   B: I'm really sorry about that.
+2. A: I'm calling to make a complaint about an assistant at the shop. She/He was not very helpful.
+   B: Well I'm so sorry about your bad experience... Can you tell me name of that assistant?
+   A: I don't know his/her name but she/he has long curly hair and wears glasses.
+   B: Oh. I got it. I am really sorry about that again.
 
 **Bài 3**: Listen to three people talking about their favourite shopping places and tick (✓) the place they mention.
 (Nghe ba người nói về địa điểm mua sắm yêu thích của họ và đánh dấu (✓) nơi họ đề cập)
 
-|               | Nam | Alice | Mai |
-|---------------|-----|-------|-----|
-| Bac Ha Fair   |     |   ✓   |     |
-| farmers' market|     |      |  ✓  |
-| convenience store| ✓  |      |     |
+|                  | Mai | Nam | Alice |
+|------------------|-----|-----|-------|
+| Open-air market  |  ✓  |     |       |
+| Discount shop    |     |     |   ✓   |
+| Convenience store|     |  ✓  |       |
 
 **Bài 4**: Work in pairs. Take turns to ask and answer what each person in 3 likes about their shopping place.
 (Làm việc theo cặp. Lần lượt hỏi và trả lời về điều mà mỗi người trong bài 3 thích về địa điểm mua sắm của họ)
 
 **Answer:**
 1. Mai: She likes homegrown and home-made products.
-2. Nam: It saves him time.
+2. Nam: It saves time.
 3. Alice: The goods are cheap.
 
 **Bài 5**: Work in groups. Share your favourite shopping place with your group.
@@ -431,6 +450,9 @@ Tôi xin lỗi vì điều đó. Tôi sẽ gửi cho bạn một cái khác.
 You can include:
 - the name of the place (tên của địa điểm)
 - the reason(s) why you like it (lý do tại sao bạn thích nó)
+
+**Example answer:**
+I'm really into convenience stores. It's simply convenient. You can find them everywhere you go. Convenience stores offer a smaller range of goods for you to buy. As there are not many goods, we don't waste time thinking about what to pick. Convenience stores can contribute to local business because they can sell what locals grow and make.
 
 ## SKILLS 1 - KỸ NĂNG 1
 
