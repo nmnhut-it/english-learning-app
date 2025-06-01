@@ -38,7 +38,7 @@ This document tracks the progress of verifying and improving the English learnin
 - [ ] Unit 9
 - [x] Unit 10 - Verified and updated
 - [ ] Unit 11
-- [ ] Unit 12
+- [x] Unit 12 - Verified and updated
 - [ ] Review files
 
 ### Status: In Progress
@@ -371,6 +371,39 @@ This document tracks the progress of verifying and improving the English learnin
 6. Grammar notes maintained as accurate
 7. All exercises 100% authentic - matched against official sources
 8. Vocabulary significantly expanded with ground truth additions
+
+### Date: June 1, 2025 - Unit 12 Verification
+
+### Unit 12 Verification Summary
+- Compared markdown-files/global-success-7/unit-12.md with ground-truth/g7/g7_part_12.md
+- Cross-referenced with VietJack sources for all sections
+- All content verified as authentic and follows official sources
+- Special attention paid to Looking Back section as requested
+- Integrated additional vocabulary from ground truth
+
+### Unit 12 Corrections Made:
+1. Vocabulary enhancements:
+   - Changed "ask for directions" from "hỏi đường" (keeping VietJack version with 's')
+   - Added missing vocabulary: plenty of, enjoying, parks and beaches
+   - Added pronunciation for "capital" /ˈkæpɪtl/
+   - Added "tower", "historic" to A Closer Look 1 vocabulary
+
+2. Looking Back section corrections (main issues found):
+   - Exercise 1, item 2: Changed "ancient castle" to "castles" (plural) to match VietJack
+   - Exercise 2, item 3: Verified answer is "symbol" not "capital" as shown in VietJack
+   - Exercise 4, item 2: Changed correction from "the" to "an" - "He's an Englishman"
+   - All other exercises in Looking Back verified correct
+
+3. Grammar enhancements from ground truth:
+   - Added detailed rules about using "the" with geographical features
+   - Added note about "The + tên công trình kiến trúc nổi tiếng"
+   - Clarified when NOT to use articles with geographical names
+
+4. All dialogues and exercises verified word-for-word against VietJack
+5. No fabricated content found - all exercises authentic
+6. Skills sections (reading about New Zealand, London tour) match sources exactly
+7. Communication section expressions and activities verified
+8. Project section matches official curriculum requirements
 
 ---
 
