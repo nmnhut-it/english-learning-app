@@ -349,7 +349,9 @@ you / play / football / 5 o'clock yesterday afternoon?
 
 ### 💬 Content - Nội dung
 
-**Dialogue:**
+**Bài 1 trang 96:** Listen and read the dialogue below. Pay attention to the highlighted sentences.
+(Nghe và đọc đoạn hội thoại dưới đây. Chú ý những câu được đánh dấu.)
+
 **Phong:** My grandparents called this morning. A flood destroyed their house.
 Phong: Ông bà tôi gọi sáng nay. Một trận lụt đã phá hủy ngôi nhà của họ.
 
@@ -367,20 +369,32 @@ Mark: Thật tồi tệ. Tôi hy vọng ông bà của bạn được an toàn.
 **Bài 2 trang 96:** Work in pairs. Practise giving and responding to bad news in the following situations.
 (Làm việc theo cặp. Thực hành đưa ra và đáp lại tin xấu trong các tình huống sau.)
 
-1. You have a friend in a mountainous area. A landslide destroyed his family's garden yesterday.
-   **A:** My friend called last night. A landslide destroyed his family's garden.
-   **B:** That's terrible! I hope everyone is safe.
+- You have a friend in a mountainous area. A landslide destroyed his family's garden yesterday. You share this news with your classmate.
+  (Bạn có một người bạn ở miền núi. Một trận lở đất đã phá hủy khu vườn của gia đình anh ngày hôm qua. Bạn chia sẻ tin tức này với bạn cùng lớp của bạn.)
 
-2. You hear that a big earthquake hit a city. Hundreds of people died.
-   **A:** Did you hear? A big earthquake hit the city. Hundreds of people died.
-   **B:** That's shocking! How awful for their families.
+- You hear that a big earthquake hit a city. You share this news with your classmate.
+  (Bạn nghe nói rằng một trận động đất lớn xảy ra ở một thành phố. Bạn chia sẻ tin tức này với bạn cùng lớp của bạn.)
+
+**Sample answers:**
+1. **A:** I have a friend who lives in a mountainous area. A landslide destroyed his family's garden yesterday.
+   **B:** I'm sorry to hear that. I hope his family are safe.
+
+2. **A:** Did you hear? A big earthquake hit a city.
+   **B:** Oh my god. That's awful. I hope everyone is fine.
+
+**Knowledge of natural disasters** (Kiến thức về thiên tai)
 
 **Bài 3 trang 96:** Read the short passages below. Decide which natural disaster each person below is talking about.
 (Đọc các đoạn văn ngắn dưới đây. Quyết định xem mỗi người dưới đây đang nói về thảm họa thiên nhiên nào.)
 
 **Nam:** We were travelling on the road near a mountain. Suddenly, a lot of rocks and mud came down the mountain.
+(Chúng tôi đang di chuyển trên con đường gần một ngọn núi. Đột nhiên, rất nhiều đá và bùn trượt xuống từ ngọn núi.)
+
 **Ann:** While I was working in the garden, I saw a big funnel of wind moving towards us very quickly.
+(Trong khi tôi đang làm việc trong vườn, tôi thấy một cái phễu gió lớn di chuyển về phía chúng tôi rất nhanh.)
+
 **Tom:** Suddenly, everything in our living room began to shake. My sister and I quickly hid under the table.
+(Đột nhiên, mọi thứ trong phòng khách của chúng tôi bắt đầu rung lắc. Em gái tôi và tôi nhanh chóng trốn dưới bàn.)
 
 **Answers:**
 - Nam: landslide (sạt lở đất)
@@ -395,7 +409,7 @@ Mark: Thật tồi tệ. Tôi hy vọng ông bà của bạn được an toàn.
    B. Wind
    C. Lightning
 
-2. Which of these activities can cause landslides?
+2. Which of these activities may cause landslides?
    A. Littering
    B. Cutting down trees
    C. Polluting the air
@@ -421,12 +435,15 @@ Mark: Thật tồi tệ. Tôi hy vọng ông bà của bạn được an toàn.
    C. In Viet Nam
 
 **Answers:**
-1. A
-2. B
-3. C
-4. B
-5. C
-6. A
+1. A (Heavy rain - Mưa lớn)
+2. B (Cutting down trees - Chặt cây)
+3. C (Richter scale - Thang đo Richter)
+4. B (A landslide - Sạt lở đất)
+5. C (A thunderstorm - Bão có sấm sét)
+6. A (In the USA - Ở Hoa Kỳ)
+
+**Bài 5 trang 97:** Work in pairs. Compare your answers. Then check your answers with the key on page 101. How many points did each of you get?
+(Làm việc theo cặp. So sánh câu trả lời của bạn. Sau đó kiểm tra câu trả lời của bạn bằng từ khóa ở trang 101. Mỗi bạn được bao nhiêu điểm?)
 
 ## SKILLS 1 - KỸ NĂNG 1
 
@@ -448,68 +465,120 @@ Mark: Thật tồi tệ. Tôi hy vọng ông bà của bạn được an toàn.
 
 ### 📖 Reading - Đọc
 
-**Text 1:**
-A volcano in the South Pacific erupted violently last Saturday. It hit Tonga, an island country in the area. The eruption sent a cloud of ash and gas into the air. People could see this cloud from 20 kilometres away. The eruption also caused a tsunami which flooded properties in Tonga's capital. Besides, it destroyed hundreds of homes on some small islands. More than twenty people on these islands are still missing. New Zealand sent two big ships to Tonga to help the victims yesterday.
+**Bài 1 trang 97:** Match the headlines (1 - 2) with the natural disasters (A - B).
+(Ghép các tiêu đề (1 - 2) với các thảm họa thiên nhiên (A - B).)
 
-Một ngọn núi lửa ở Nam Thái Bình Dương đã phun trào dữ dội vào thứ Bảy tuần trước. Nó đã ảnh hưởng đến Tonga, một quốc gia đảo trong khu vực. Vụ phun trào đã tạo ra một đám mây tro bụi và khí gas bay lên không trung. Người ta có thể nhìn thấy đám mây này từ khoảng cách 20 km. Vụ phun trào cũng gây ra một cơn sóng thần làm ngập lụt nhiều công trình ở thủ đô của Tonga. Ngoài ra, nó còn phá hủy hàng trăm ngôi nhà trên một số đảo nhỏ. Hơn hai mươi người trên các đảo này vẫn đang mất tích. New Zealand đã gửi hai tàu lớn đến Tonga để giúp đỡ các nạn nhân vào ngày hôm qua.
+1. 30 seconds of a slight shaking in Ha Noi
+2. A thick layer of ash covers Tonga
 
-**Text 2:**
-Residents in tall buildings in Ha Noi were frightened when they felt a slight shaking for about 30 seconds last night. "I was watching TV when my building started to shake. Books, lights and other things also moved," Ms Nguyen Ha, a resident of the Sunshine Building, shared. Many people living in the building ran out of their homes in fear. According to scientists, a strong earthquake in China caused this shaking. Luckily, there was no damage.
+A. volcanic eruption
+B. earthquake
 
-Cư dân sống trong các tòa nhà cao tầng ở Hà Nội đã hoảng sợ khi họ cảm thấy rung lắc nhẹ kéo dài khoảng 30 giây đêm qua. "Tôi đang xem TV thì tòa nhà bắt đầu rung chuyển. Sách vở, đèn và các vật dụng khác cũng di chuyển", chị Nguyễn Hà, một cư dân tại tòa nhà Sunshine chia sẻ. Nhiều người sống trong tòa nhà đã chạy ra khỏi nhà trong hoảng sợ. Theo các nhà khoa học, một trận động đất mạnh ở Trung Quốc đã gây ra cơn rung lắc này. May mắn là không có thiệt hại nào xảy ra.
-
-### ✍️ Exercises - Bài tập
+**Answers:**
+1 - B: 30 seconds of a slight shaking in Ha Noi — earthquake
+2 - A: A thick layer of ash covers Tonga — volcanic eruption
 
 **Bài 2 trang 97-98:** Read the two news articles. Match the highlighted words with their meanings.
 (Đọc hai bài báo. Nối các từ được đánh dấu với ý nghĩa của chúng.)
 
-1. violently - d. with a lot of force and energy
-2. sent - e. made something go
-3. capital - a. the most important city of a country
-4. missing - b. not able to be found
-5. shaking - c. a sudden strong movement
+A volcano in the South Pacific erupted violently last Saturday. It hit Tonga, an island country in the area. The eruption sent a cloud of ash and gas into the air. People could see this cloud from 20 kilometres away. The eruption also caused a tsunami which flooded properties in Tonga's capital. Besides, it destroyed hundreds of homes on some small islands. More than twenty people on these islands are still missing. New Zealand sent two big ships to Tonga to help the victims yesterday.
+
+Một ngọn núi lửa ở Nam Thái Bình Dương đã phun trào dữ dội vào thứ Bảy tuần trước. Nó đã ảnh hưởng đến Tonga, một quốc gia đảo trong khu vực. Vụ phun trào đã tạo ra một đám mây tro bụi và khí gas bay lên không trung. Người ta có thể nhìn thấy đám mây này từ khoảng cách 20 km. Vụ phun trào cũng gây ra một cơn sóng thần làm ngập lụt nhiều công trình ở thủ đô của Tonga. Ngoài ra, nó còn phá hủy hàng trăm ngôi nhà trên một số đảo nhỏ. Hơn hai mươi người trên các đảo này vẫn đang mất tích. New Zealand đã gửi hai tàu lớn đến Tonga để giúp đỡ các nạn nhân vào ngày hôm qua.
+
+Residents in tall buildings in Ha Noi were frightened when they felt a slight shaking for about 30 seconds last night. "I was watching TV when my building started to shake. Books, lights and other things also moved," Ms Nguyen Ha, a resident of the Sunshine Building, shared. Many people living in the building ran out of their homes in fear. According to scientists, a strong earthquake in China caused this shaking. Luckily, there was no damage.
+
+Cư dân sống trong các tòa nhà cao tầng ở Hà Nội đã hoảng sợ khi họ cảm thấy rung lắc nhẹ kéo dài khoảng 30 giây đêm qua. "Tôi đang xem TV thì tòa nhà bắt đầu rung chuyển. Sách vở, đèn và các vật dụng khác cũng di chuyển", chị Nguyễn Hà, một cư dân tại tòa nhà Sunshine chia sẻ. Nhiều người sống trong tòa nhà đã chạy ra khỏi nhà trong hoảng sợ. Theo các nhà khoa học, một trận động đất mạnh ở Trung Quốc đã gây ra cơn rung lắc này. May mắn là không có thiệt hại nào xảy ra.
+
+Match the highlighted words with their meanings.
+(Nối các từ được đánh dấu với ý nghĩa của chúng.)
+
+1. violently
+2. sent  
+3. capital
+4. missing
+5. shaking
+
+a. the most important city of a country
+b. not able to be found
+c. a sudden strong movement
+d. with a lot of force and energy
+e. made something go
+
+**Answers:**
+1. violently - d. with a lot of force and energy (dữ dội)
+2. sent - e. made something go (gửi đi)
+3. capital - a. the most important city of a country (thủ đô)
+4. missing - b. not able to be found (mất tích)
+5. shaking - c. a sudden strong movement (rung lắc)
+
+### ✍️ Exercises - Bài tập
 
 **Bài 3 trang 98:** Read the articles again and answer the questions.
 (Đọc lại bài viết và trả lời câu hỏi.)
 
 1. Where and when did the eruption happen?
+   (Vụ phun trào xảy ra ở đâu và khi nào?)
    **Answer:** The eruption occurred in the South Pacific last Saturday.
+   (Vụ phun trào xảy ra ở Nam Thái Bình Dương vào thứ Bảy tuần trước.)
 
 2. What did the eruption cause?
-   **Answer:** The eruption created a cloud of ash and gas that was visible from 20 kilometers away.
+   (Vụ phun trào đã gây ra điều gì?)
+   **Answer:** The eruption sent a cloud of ash and gas into the air.
+   (Vụ phun trào tạo ra một đám mây tro bụi và khí gas bay lên không trung.)
 
 3. What were the other effects of the eruption?
-   **Answer:** The eruption caused a tsunami that flooded properties in Tonga's capital, destroyed hundreds of homes on small islands, and more than twenty people were reported missing.
+   (Những tác động khác của vụ phun trào là gì?)
+   **Answer:** It caused a tsunami which flooded properties in Tonga's capital. Besides, it destroyed hundreds of homes on some small islands. More than twenty people on these islands are still missing.
+   (Nó gây ra sóng thần làm ngập lụt tài sản ở thủ đô Tonga. Ngoài ra, nó phá hủy hàng trăm ngôi nhà trên một số đảo nhỏ. Hơn hai mươi người trên các đảo này vẫn đang mất tích.)
 
 4. How long did the buildings shake?
+   (Các tòa nhà rung lắc trong bao lâu?)
    **Answer:** The buildings shook for about 30 seconds.
+   (Các tòa nhà rung lắc khoảng 30 giây.)
 
 5. What caused the shaking?
-   **Answer:** According to scientists, a strong earthquake in China caused the shaking.
+   (Điều gì gây ra cơn rung lắc?)
+   **Answer:** According to scientists, a strong earthquake in China caused this shaking.
+   (Theo các nhà khoa học, một trận động đất mạnh ở Trung Quốc đã gây ra cơn rung lắc này.)
 
 ### 🗣️ Speaking - Nói
 
 **Bài 4 trang 98:** Work in pairs. Match the questions with the answers.
 (Làm việc theo cặp. Ghép câu hỏi với câu trả lời.)
 
-Questions:
+**Questions:**
 1. What kind of natural disaster was it?
 2. When and where did it happen?
 3. What caused it?
 4. What were its effects?
 5. How did people help the victims?
 
-Answers:
+**Answers:**
 a. Five days of heavy rain caused it.
 b. Many houses were flooded, two villagers died, and five others were missing.
 c. It was a serious flood.
 d. Rescue workers searched for the missing people, and volunteers gave food and drinks to the victims.
 e. It happened in a village in Phu Yen last week.
 
-**Answers:** 1-c, 2-e, 3-a, 4-b, 5-d
+**Answers:** 
+1 - c: What kind of natural disaster was it? - It was a serious flood.
+   (Loại thiên tai nào? - Đó là một trận lũ lụt nghiêm trọng.)
+2 - e: When and where did it happen? - It happened in a village in Phu Yen last week.
+   (Nó xảy ra khi nào và ở đâu? - Nó xảy ra ở một ngôi làng ở Phú Yên vào tuần trước.)
+3 - a: What caused it? - Five days of heavy rain caused it.
+   (Điều gì gây ra nó? - Năm ngày mưa to gây ra nó.)
+4 - b: What were its effects? - Many houses were flooded, two villagers died, and five others were missing.
+   (Tác động của nó là gì? - Nhiều ngôi nhà bị ngập, hai người dân thiệt mạng và năm người khác mất tích.)
+5 - d: How did people help the victims? - Rescue workers searched for the missing people, and volunteers gave food and drinks to the victims.
+   (Mọi người đã giúp đỡ các nạn nhân như thế nào? - Nhân viên cứu hộ tìm kiếm những người mất tích và tình nguyện viên cung cấp thức ăn và nước uống cho các nạn nhân.)
 
-**Bài 5 trang 98:** Sample report:
-Five days of heavy rain caused a serious flood in a village in Phu Yen last week. Many houses were flooded in the disaster. Sadly, two villagers died, and five others were missing. Rescue workers came to look for the missing people. Meanwhile, volunteers helped by giving food and drinks to the victims. The local government is working to help people rebuild their homes after this disaster.
+**Bài 5 trang 98:** Work in groups. Prepare a short piece of news about the natural disaster in 4 or one you know of. Report the news to the class.
+(Làm việc nhóm. Soạn một đoạn tin ngắn về thảm họa thiên nhiên ở bài 4 hoặc một tin tức mà em biết. Báo cáo tin tức cho cả lớp.)
+
+**Sample report:**
+Five days of heavy rain caused a serious flood in a village in Phu Yen last week. Many houses were flooded, two villagers died, and five others were missing. Rescue workers looked for the missing people, and volunteers gave food and drinks to the victims.
+
+(Mưa lớn kéo dài 5 ngày khiến một làng quê ở Phú Yên bị ngập nặng. Nhiều ngôi nhà bị ngập, 2 người dân thiệt mạng và 5 người khác mất tích. Các nhân viên cứu hộ đã tìm kiếm những người mất tích, và các tình nguyện viên đã cung cấp thức ăn và nước uống cho các nạn nhân.)
 
 ## SKILLS 2 - KỸ NĂNG 2
 
@@ -567,7 +636,7 @@ Sau cơn bão, đừng rời khỏi nhà ngay lập tức. Lắng nghe những h
 - After a storm: 4
 
 **Bài 3 trang 99:** Listen again and tick T (True) or F (False) for each sentence.
-(Nghe lại và đánh dấu T (Đúng) hoặc F (Sai) cho mỗi câu.)
+(Nghe lại và đánh dấu T (True) hoặc F (Sai) cho mỗi câu.)
 
 1. The programme is on An Binh Commune Radio Station. _____
 2. You should bring flowerpots and rubbish bins into the house. _____
@@ -575,15 +644,15 @@ Sau cơn bão, đừng rời khỏi nhà ngay lập tức. Lắng nghe những h
 4. The local authorities may warn you about dangerous places. _____
 
 **Answers:**
-1. T
-2. T
-3. F
-4. T
+1. T (The programme is on An Binh Commune Radio Station.)
+2. T (Bring in outdoor things like flowerpots or rubbish bin...)
+3. F (After the storm, don't leave your house right away.)
+4. T (They may warn you about which parts of your area are dangerous...)
 
 ### ✍️ Writing - Viết
 
-**Bài 4 trang 99:** Work in pairs. Discuss what you should do before, during and after a flood.
-(Làm việc theo cặp. Thảo luận về những gì bạn nên làm trước, trong và sau lũ lụt.)
+**Bài 4 trang 99:** Work in pairs. Discuss what you should do before, during and after a flood. Write your ideas in the columns.
+(Làm việc theo cặp. Thảo luận về những gì bạn nên làm trước, trong và sau lũ lụt. Viết ý kiến của bạn vào các cột.)
 
 **Before a flood (Trước khi có lũ):**
 - Prepare an emergency kit (Chuẩn bị bộ dụng cụ khẩn cấp)
@@ -606,6 +675,8 @@ Sau cơn bão, đừng rời khỏi nhà ngay lập tức. Lắng nghe những h
 
 **Sample answer:**
 Here are things you should do before, during and after a flood. Before a flood, prepare an emergency kit with necessary items and listen to weather forecasts. Move your valuables to higher places and protect them in waterproof containers. During a flood, stay inside and move to the highest floor of your house. Never try to walk or drive through flood water. Follow evacuation routes if ordered by authorities. After a flood, wait for officials to say it's safe before returning home. Avoid moving water and stay away from damaged power lines. Check your house carefully before entering.
+
+(Dưới đây là những gì bạn nên làm trước, trong và sau lũ lụt. Trước khi có lũ, hãy chuẩn bị bộ dụng cụ khẩn cấp với các vật dụng cần thiết và nghe dự báo thời tiết. Di chuyển đồ quý giá lên nơi cao hơn và bảo vệ chúng trong các thùng chống nước. Trong khi có lũ, hãy ở trong nhà và di chuyển lên tầng cao nhất của ngôi nhà. Tuyệt đối không đi bộ hoặc lái xe qua nước lũ. Làm theo lộ trình sơ tán nếu được chính quyền yêu cầu. Sau lũ lụt, hãy chờ chính quyền thông báo an toàn trước khi về nhà. Tránh nước đang chảy và tránh xa đường dây điện bị hư. Kiểm tra nhà cẩn thận trước khi vào.)
 
 ## LOOKING BACK - ÔN TẬP
 
@@ -638,49 +709,128 @@ Here are things you should do before, during and after a flood. Before a flood, 
 **Bài 1 trang 100:** Write the name of a natural disaster in each blank.
 (Viết tên của một thiên tai vào mỗi chỗ trống.)
 
-1. A serious flood destroyed our village last week.
-2. A drought can happen when there's no rain for a long time.
-3. An earthquake is the shaking of the earth's surface.
-4. A landslide is the movement of rock and soil down a mountain.
-5. If heavy rain continues, a serious flood might happen.
+1. There was a(n) _____ in our area last month. A lot of water from the river covered the streets and houses.
+   (Đã có một _____ trong khu vực của chúng tôi tháng trước. Rất nhiều nước từ sông bao phủ đường phố và nhà cửa.)
+
+2. During a(n) _____, everything shook and people ran into the streets.
+   (Trong suốt một trận _____, mọi thứ rung lắc và mọi người chạy ra đường.)
+
+3. A(n) _____ looks like a huge funnel and causes a lot of damage.
+   (Một cơn _____ trông giống như một cái phễu khổng lồ và gây ra nhiều thiệt hại.)
+
+4. A(n) _____ can happen when there's an earthquake under the ocean.
+   (Một _____ có thể xảy ra khi có động đất dưới đại dương.)
+
+5. It was raining heavily, and mud and rocks came down the mountain. It was a _____.
+   (Trời mưa rất lớn, và bùn và đá trượt xuống từ núi. Đó là một trận _____.)
+
+**Answers:**
+1. flood (lũ lụt)
+2. earthquake (động đất)
+3. tornado (lốc xoáy)
+4. tsunami (sóng thần)
+5. landslide (sạt lở đất)
 
 **Bài 2 trang 100:** Fill in each blank with the correct form of the word in brackets.
 (Điền vào mỗi chỗ trống dạng đúng của từ trong ngoặc.)
 
-1. The tsunami in Tonga was very _____; hundreds of houses were swept away. (destroy)
-2. One _____ of shopping online is that you do not know exactly what you will get. (advantage)
-3. Endangered species are animals in the wild that face a high risk of _____. (extinct)
-4. _____ shopping is a form of behaviour that makes shoppers buy many items they don't need. (Addict)
-5. When a natural disaster happens, we must listen to _____ from local authorities. (instruct)
+1. The tsunami brought _________ to cities and towns near the sea. (destroy)
+2. The government has developed some systems to help make _________ about natural disasters. (predict)
+3. We are donating money and food to help the _____ of the landslide. (victim)
+4. The local authorities _________ the villagers about a landslide yesterday. (warning)
+5. Rescue _________ are trying hard to save people in the flooded area. (work)
 
 **Answers:**
-1. destructive
-2. disadvantage
-3. extinction
-4. Addictive
-5. instructions
+1. destruction (sự phá hủy)
+2. predictions (dự đoán)
+3. victims (nạn nhân)
+4. warned (cảnh báo)
+5. workers (nhân viên)
 
 **Bài 3 trang 100:** Put the verbs into the correct tense: the past simple or past continuous.
 (Chia động từ ở thì đúng: quá khứ đơn hoặc quá khứ tiếp diễn.)
 
-1. What _____ (do) when the earthquake _____ (happen)?
-2. A tornado _____ (destroy) hundreds of houses in its path.
-3. While Nick _____ (water) the flowers, it _____ (start) to rain.
-4. What _____ they _____ (talk) about when we _____ (come) in?
-5. _____ you _____ (listen) to music when I _____ (call) you yesterday?
+1. What _____ you (do) _____ at 8 o'clock yesterday morning?
+2. Last year, earthquakes (destroy) _____ a lot of houses in Japan.
+3. He (water) _____ the flowers in his garden when the tornado (come) _____.
+4. While they (call) _____ for help, the rescue workers (appear) _____.
+5. _____ you (listen) _____ to music at 9 o'clock yesterday evening?
 
 **Answers:**
-1. were (you) doing / happened
-2. destroyed
-3. was watering / started
-4. were / talking / came
-5. Were / listening / called
+1. were you doing (Bạn đang làm gì lúc 8 giờ sáng hôm qua?)
+2. destroyed (Các trận động đất đã phá hủy rất nhiều ngôi nhà ở Nhật Bản vào năm ngoái.)
+3. was watering / came (Anh ấy đang tưới hoa trong vườn khi lốc xoáy đến.)
+4. were calling / appeared (Khi họ đang kêu cứu thì các nhân viên cứu hộ xuất hiện.)
+5. Were you listening (Bạn có đang nghe nhạc lúc 9 giờ tối hôm qua không?)
 
 **Bài 4 trang 100:** Complete the sentences about you and your family members.
 (Hoàn thành các câu về bạn và các thành viên trong gia đình.)
 
-Sample answers:
-1. I learn English every day. Yesterday at 5 p.m., I was learning English.
-2. My dad often watches TV. At 8 p.m. yesterday, he was watching TV.
-3. My mum cooks dinner every day. Yesterday at 6 p.m., she was cooking dinner.
-4. My brother/sister plays games. Yesterday at 7 p.m., he/she was playing games.
+At 7 p.m. yesterday,
+1. I _____
+2. my mum _____
+3. my dad _____
+4. my brother/sister _____
+
+**Sample answers:**
+1. I was doing my homework. (Tôi đang làm bài tập về nhà.)
+2. my mum was cooking dinner. (mẹ tôi đang nấu bữa tối.)
+3. my dad was watching TV. (bố tôi đang xem TV.)
+4. my brother/sister was playing games. (anh/chị/em tôi đang chơi game.)
+
+## PROJECT - DỰ ÁN
+
+**Natural Disaster Report**
+(Báo cáo về thiên tai)
+
+**Bài 1 trang 101:** Choose a natural disaster you want to learn more about.
+(Chọn một thiên tai mà bạn muốn tìm hiểu thêm.)
+
+**Bài 2:** Research it. You can use these questions to guide you:
+(Nghiên cứu về nó. Bạn có thể sử dụng những câu hỏi này để hướng dẫn:)
+
+- What is it?
+- When and where does it usually happen?
+- What causes it?
+- What are its effects?
+- What should people do before, during, and after it happens?
+
+**Bài 3:** Create a poster about this natural disaster. Draw pictures or find suitable photos for it.
+(Tạo một tấm áp phích về thiên tai này. Vẽ tranh hoặc tìm hình ảnh phù hợp cho nó.)
+
+**Bài 4:** Present the poster to the class.
+(Trình bày tấm áp phích cho cả lớp.)
+
+**Sample project outline:**
+
+**Topic: Typhoons in Vietnam**
+
+1. **What is it?**
+   A typhoon is a tropical cyclone with very strong winds and heavy rain.
+   (Bão là một cơn bão nhiệt đới với gió rất mạnh và mưa lớn.)
+
+2. **When and where does it happen?**
+   - Usually occurs from June to November
+   - Affects coastal areas of Central and Northern Vietnam
+   (Thường xảy ra từ tháng 6 đến tháng 11, ảnh hưởng đến các vùng ven biển miền Trung và miền Bắc Việt Nam)
+
+3. **What causes it?**
+   - Warm ocean water
+   - Low air pressure
+   - Earth's rotation
+   (Nước biển ấm, áp suất không khí thấp, sự quay của Trái Đất)
+
+4. **Effects:**
+   - Flooding
+   - Damaged buildings and infrastructure
+   - Loss of life and property
+   - Disrupted transportation
+   (Lũ lụt, hư hại nhà cửa và cơ sở hạ tầng, mất mát về người và của, giao thông bị gián đoạn)
+
+5. **What to do:**
+   - Before: Prepare emergency kit, secure home, follow weather updates
+   - During: Stay indoors, avoid windows, move to safe areas
+   - After: Check for injuries, avoid flood water, wait for official clearance
+   (Trước: Chuẩn bị bộ dụng cụ khẩn cấp, gia cố nhà, theo dõi dự báo thời tiết
+   Trong: Ở trong nhà, tránh cửa sổ, di chuyển đến nơi an toàn
+   Sau: Kiểm tra thương tích, tránh nước lũ, chờ thông báo chính thức)
