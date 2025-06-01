@@ -180,13 +180,13 @@
 **Bài 3:** Complete the sentences with the words from the box.
 *(Hoàn thành các câu với các từ trong hộp)*
 
-|generation | marriage | wedding | anniversary | tradition |
+|custom | practise | keep | break | traditionally |
 
-1. Eating mooncakes during the Mid-Autumn Festival is a family **tradition**.
-2. We should teach young people to preserve their own culture and **tradition**.
-3. Giving and receiving lucky money are Vietnamese customs at Tet.
-4. Organising a **wedding** party is not as easy as it looks.
-5. The couple celebrated their 50th **anniversary**.
+1. This year, we will **break** with tradition and go on holiday instead of staying at home during Tet.
+2. **Traditionally**, children in the US go from house to house to ask for sweets on Halloween.
+3. Holding a party to wish our grandparents longevity is one of the customs we **practise** at Tet.
+4. Organising a folk song club is one way for us to **keep** our traditions alive.
+5. It's becoming a **custom** for young people to celebrate New Years in addition to Tet.
 
 ## A CLOSER LOOK 2 - TÌM HIỂU THÊM 2
 
@@ -232,25 +232,25 @@ Trong tiếng Anh, đôi khi chúng ta không dùng mạo từ (a/an/the) trư�
 **Bài 2:** Which of the underlined parts in each question is incorrect? Find and correct it.
 *(Phần gạch chân nào trong mỗi câu hỏi là sai? Tìm và sửa lại.)*
 
-1. In the UK, people **celebrate** → ✓ a Mother's Day in March.
-2. Most **of** → **Ø** children like fireworks.
-3. There **are** → ✓ the lantern festivals in many places in Vietnam.
-4. **The** → **Ø** cattle are often raised in the rural areas.
-5. They **are** → ✓ going to **get married** next month.
+1. The worshipping Kitchen Gods is a long-time tradition of the Vietnamese. - **A** → **Ø**
+2. People organise the worshipping ceremony at noon so that a Kitchen Gods can leave for Heaven at 12 o'clock. - **C** → **the**
+3. Most families in the Viet Nam prepare offerings for the Kitchen Gods. - **B** → **Ø**
+4. The offerings include a set of flowers and fruits, a paper clothes, and three carps. - **C** → **Ø**
+5. The Vietnamese people believe that the Kitchen Gods go to Heaven on carps. - **A** → **Ø**
 
 **Bài 3:** Complete the sentences with a, an, the or Ø (zero article).
 *(Hoàn thành các câu với a, an, the hoặc Ø (không dùng mạo từ).)*
 
-1. My aunt and uncle live in **Ø** Rome.
-2. Carol's father works as **an** electrician.
-3. At our school, we have to wear **Ø** uniform.
-4. Ben has **a** terrible headache.
-5. After this tour you'll have **Ø** opportunity to explore the city on your own.
+1. It is a custom in my family to have **Ø** breakfast at home on Sundays.
+2. When visiting a family home in some countries, you should bring **a** small gift with you.
+3. Our village festival is held on the 10th of **Ø** January.
+4. Ancient Egyptians worshipped **the** Sun.
+5. Many people think that hard work is **an** important Vietnamese value.
 
-**Bài 4:** Complete the text with a, an, the or Ø (zero article).
-*(Hoàn thành bài viết với a, an, the hoặc Ø (không dùng mạo từ).)*
+**Bài 4:** Complete the text with the or Ø (zero article).
+*(Hoàn thành bài viết với the hoặc Ø (không dùng mạo từ).)*
 
-It is a custom in my Vietnam that on **the** first day of **the** New Year, adults give lucky money to children. They say that **Ø** lucky money brings **Ø** good luck and prosperity. I think it's **a** good custom. Before Tet begins, my family usually goes to **the** market to buy fruits and flowers. Then we decorate **the** house with **Ø** colourful plants. On New Year's Eve, my mother cooks **Ø** special meal. It's **a** time for all **the** family to get together.
+A recent study in **(1) the** UK shows that family time traditions are good for **(2) Ø** teens. These traditions include family members playing card games, watching their favourite TV programmes, or performing **(3) Ø** karaoke shows at weekends with one another. These activities often lead to lots of laughter and **(4) Ø** fun conversations. By taking part in such activities, teens strengthen **(5) the** bonds with their family.
 
 ## COMMUNICATION - GIAO TIẾP
 
@@ -308,22 +308,21 @@ Most forms of shishi-mai have one or more performers. They wear a lion costume a
 
 **Shishi-mai**
 1. Japanese name: shishi-mai
-2. Occasions: New Year celebrations
+2. Occasions: New Year celebrations, business openings and weddings
 3. Number of performers: one or more
-4. Musical instrument: flutes and drums
+4. Musical instruments: flutes and drums
 5. Purposes: bring good luck and chase away bad spirits
 
 **Bài 4:** Work in groups. Read Mai's notes on the Vietnamese unicorn dance. Compare the Vietnamese unicorn dance with the Japanese lion dance.
 *(Làm việc theo nhóm. Đọc ghi chú của Mai về múa lân Việt Nam. So sánh múa lân Việt Nam với múa sư tử Nhật Bản.)*
 
-**Similarities:**
-- Both Mua lan and shishi-mai are performed during New Year celebrations
-- Both dances can have one or more performers
-- Both use drums as musical instruments
+**Example comparison:**
 
-**Differences:**
-- Mua lan is usually performed during Mid-Autumn festivals, while shishi-mai is not
-- Mua lan uses drums only, while shishi-mai uses both flutes and drums
+Mua lan is usually performed during Mid-Autumn festivals, while shishi-mai is not.
+
+Mua lan makes use of drum only, while shishi-mai uses both flutes and drums.
+
+Both Mua lan and shishi-mai can have one or more performers.
 
 ## SKILLS 1 - KỸ NĂNG 1
 
@@ -496,59 +495,85 @@ Best regards,
 
 ## LOOKING BACK - ÔN TẬP
 
-### 📚 Vocabulary Review - Ôn tập từ vựng
-
-Complete unit vocabulary list:
-- **admire** : (v) ngắm, ngưỡng mộ /ədˈmaɪər/
-- **ancestor** : (n) tổ tiên /ˈænsestər/
-- **anniversary** : (n) lễ kỷ niệm /ˌænɪˈvɜːsəri/
-- **bamboo pole** : (n) cây nêu /bæmˈbuː pəʊl/
-- **ceremony** : (n) nghi lễ /ˈserəməni/
-- **communal** : (adj) cộng đồng /ˈkɒmjʊnəl/
-- **custom** : (n) phong tục /ˈkʌstəm/
-- **decorative** : (adj) trang trí /ˈdekərətɪv/
-- **family reunion** : (n) đoàn tụ gia đình /ˈfæmɪli riːˈjuːniən/
-- **festival goers** : (n) người đi trẩy hội /ˈfestɪvəl ˈɡəʊəz/
-- **generation** : (n) thế hệ /ˌdʒenəˈreɪʃən/
-- **lantern** : (n) đèn lồng /ˈlæntən/
-- **martial arts** : (n) võ thuật /ˈmɑːʃəl ɑːts/
-- **offering** : (n) đồ cúng /ˈɒfərɪŋ/
-- **ornamental** : (adj) trang trí /ˌɔːnəˈmentəl/
-- **pray** : (v) cầu nguyện /preɪ/
-- **tradition** : (n) truyền thống /trəˈdɪʃən/
-- **wedding ceremony** : (n) lễ cưới /ˈwedɪŋ ˈserəməni/
-- **worship** : (v) thờ cúng /ˈwɜːʃɪp/
+### 📚 Vocabulary - Từ vựng
 
 ### ✍️ Exercises - Bài tập
 
 **Bài 1:** Choose the correct option to complete each sentence below.
 *(Chọn phương án đúng để hoàn thành mỗi câu dưới đây.)*
 
-1. There's **a** tradition in our family of having lunch together on Sundays.
-2. We should teach young people to preserve **the** tradition of respecting the elders.
-3. We had dinner at **a** Italian restaurant on my parents' **Ø** anniversary.
-4. Most students in my class are **Ø** hard-working. They **are** good at maths.
-5. We often go to our hometown by **Ø** coach.
+1. It is becoming a _____ for many families in Viet Nam to celebrate Women's Day and Family Day.
+   A. habit
+   B. custom
+
+2. _____, we hold the Spring Festival on the 15th of January in lunar calendar.
+   A. Traditionally
+   B. In the past
+
+3. Janet is from a family of doctors, but she broke with _____ when she went to an art college.
+   A. tradition
+   B. habit
+
+4. Having dinner at my grandparents' house on Saturdays is one of the customs our family _____.
+   A. does
+   B. practises
+
+5. Story telling is a great way to _____ the local tradition alive.
+   A. maintain
+   B. keep
+
+**Answer key:**
+1. **B** - custom *(Ăn mừng ngày Phụ nữ và ngày Gia đình đã trở thành một phong tục trong nhiều gia đình Việt Nam.)*
+2. **A** - Traditionally *(Theo truyền thống thì người ta tổ chức Lễ hội Mùa xuân vào ngày 15 tháng Giêng theo Âm lịch.)*
+3. **A** - tradition *(Janet đến từ một gia đình có truyền thống làm bác sĩ, nhưng cô ấy đã phá vỡ truyền thống khi cô ấy theo học cao đẳng nghệ thuật.)*
+4. **B** - practises *(Ăn tối ở nhà ông bà vào mỗi tối thứ Bảy là một trong những tập tục của gia đình chúng tôi.)*
+5. **B** - keep *(Kể chuyện là một cách tốt để giữ cho truyền thống địa phương tồn tại.)*
 
 **Bài 2:** Fill in each blank with the suitable form of the word given.
 *(Điền vào mỗi chỗ trống dạng thích hợp của từ cho sẵn.)*
 
-1. There will be a **reunion** of our family this weekend. (REUNITE)
-2. We have **food offerings** to the first ancestors. (OFFER)
-3. Tet is one of the most important **celebrations** for Vietnamese people. (CELEBRATE)
-4. It's a tradition for us to make jam from apricots. (TRADITION)
-5. The festival goers tried the **traditional** food of our area. (TRADITION)
+1. Kien was so tall that no one recognised him at the family _________ last summer. (union)
+2. My mum puts in a lot of effort to prepare _________ to worship our ancestors. (offer)
+3. The festival _________ gathered on the riverside to cheer the boat racers. (go)
+4. Dragon-snake (Rong ran len may) is a _________ Vietnamese game for children. It is very enjoyable. (tradition)
+5. We happened to see some locals _________ animals in their village temples. (worship)
+
+**Answer key:**
+1. **reunion** *(Kiên cao đến nỗi mà không ai nhận ra cậu ta ở buổi họp mặt gia đình vào hè năm ngoái.)*
+2. **offerings** *(Mẹ tôi đã đặt rất nhiều công sức để chuẩn bị đồ cúng để cầu nguyện cho tổ tiên của chúng ta.)*
+3. **goers** *(Những người đi hội tập trung ở bờ sông để cổ vũ cho cuộc đua thuyền.)*
+4. **traditional** *(Rồng rắn lên mây là một trò chơi truyền thống dành cho trẻ em ở Việt Nam. Nó rất là thú vị.)*
+5. **worshipping** *(Chúng ta tình cờ xem được người dân địa phương thờ các con vật trong đình làng của họ.)*
+
+### 📖 Grammar - Ngữ pháp
 
 **Bài 3:** Complete the sentences with a, an, the or Ø (zero article).
-*(Hoàn thành các câu với a, an, the hoặc Ø (không dùng mạo từ).)*
+*(Hoàn thành các câu với a, an, the hoặc Ø (không mạo từ).)*
 
-1. We usually have **Ø** lunch at school.
-2. His mother is **an** English teacher at our school.
-3. There are 28 students in my class and **the** students are very friendly.
-4. My grandpa grew up in **a** countryside.
-5. I have to go to **Ø** school six days a week.
+1. These days, many teenagers write ______ emails instead of letters.
+2. My dad bought ______ ornamental kumquat tree for Tet.
+3. I don't like that restaurant. ______ food there isn't very good.
+4. Don't wear ______ hat when you go into a temple or a pagoda.
+5. It's becoming a custom for us to stay out very late on ______ New Year's Eve.
+
+**Answer key:**
+1. **Ø** *(Ngày nay, nhiều thiếu niên viết thư điện tử thay vì thư giấy.)*
+2. **an** *(Bố tôi mua một cây quất trang trí cho Tết.)*
+3. **The** *(Tôi không thích nhà hàng đó. Đồ ăn ở đó không ngon.)*
+4. **a** *(Đừng đeo nón khi cậu đi vào đền hoặc chùa.)*
+5. **Ø** *(Thức rất khuya vào ngày mừng năm mới đã trở thành thói quen của chúng tôi.)*
 
 **Bài 4:** Complete the text with a, an, the or Ø (zero article).
-*(Hoàn thành bài viết với a, an, the hoặc Ø (không dùng mạo từ).)*
+*(Hoàn thành đoạn văn với a, an, the hoặc Ø (không mạo từ).)*
 
-In my family, we have **Ø** breakfast together every day. My mother makes **the** best phở in **the** world. We also have **a** tradition of gathering for dinner every Sunday. On special occasions like **Ø** Tet, we prepare **Ø** traditional foods. It's **an** important time for **the** whole family.
+Here are two easy ways to raise children's awareness of (1) _____ customs and traditions. First, it is (2) _____ good idea for parents to teach children to cook. By doing this, children can learn and preserve their family recipes. Second, parents can take children to (3) _____ local festivals. This helps them discover (4) _____ culture of their community and develop (5) _____ understanding of local traditions.
+
+**Answer key:**
+1. **Ø** - customs and traditions *(phong tục và truyền thống)*
+2. **a** - good idea *(một ý tưởng hay)*
+3. **the** - local festivals *(lễ hội địa phương)*
+4. **the** - culture *(văn hóa)*
+5. **the** - understanding *(sự hiểu biết)*
+
+**Dịch:**
+Đây là hai cách dễ dàng để nâng cao nhận thức của trẻ em về những phong tục và truyền thống. Đầu tiên thì việc cha mẹ dạy trẻ con nấu ăn là một ý tưởng hay. Bằng cách này, trẻ con có thể học và bảo vệ các công thức của gia đình. Thứ hai, bố mẹ có thể dẫn các con đến các lễ hội địa phương. Điều này giúp chúng khám phá được văn hóa trong cộng đồng và phát triển sự hiểu biết các truyền thống địa phương.
