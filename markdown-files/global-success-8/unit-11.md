@@ -4,25 +4,25 @@
 
 ### 📚 Vocabulary - Từ vựng
 
-1. **yesterday's lesson** : (n) bài học hôm qua /ˈjestədeɪz ˈlesn/
-2. **face-to-face classes** : (n) các lớp học trực tiếp /feɪs tə feɪs ˈklɑːsɪz/
+1. **yesterday's lesson** : bài học hôm qua /ˈjestədeɪz ˈlesn/
+2. **face-to-face classes** : các lớp học trực tiếp /feɪs tə feɪs ˈklɑːsɪz/
 3. **convenient** : (adj) thuận tiện, tiện lợi /kənˈviːniənt/
 4. **epidemics** : (n) dịch bệnh /ˌepɪˈdemɪks/
 5. **interact** : (v) tương tác /ˌɪntərˈækt/
-6. **breakout room** : (n) phòng thảo luận nhóm nhỏ /ˈbreɪkaʊt ruːm/
+6. **breakout room** : phòng thảo luận nhóm nhỏ /ˈbreɪkaʊt ruːm/
 7. **enough** : (adj/adv) đủ /ɪˈnʌf/
-8. **in front of** : (prep) trước mặt /ɪn frʌnt ɒv/
-9. **computer screen** : (n) màn hình máy tính /kəmˈpjuːtə skriːn/
-10. **I know what you mean** : (idiom) tôi hiểu ý bạn /aɪ nəʊ wɒt juː miːn/
-11. **great news for us** : (phrase) tin tốt cho chúng ta /ɡreɪt njuːz fɔːr ʌs/
-12. **3D contact lenses** : (n) kính áp tròng 3D /θriː diː ˈkɒntækt ˈlenzɪz/
+8. **in front of** : trước mặt /ɪn frʌnt ɒv/
+9. **computer screen** : màn hình máy tính /kəmˈpjuːtə skriːn/
+10. **I know what you mean** : tôi hiểu ý bạn /aɪ nəʊ wɒt juː miːn/
+11. **great news for us** : tin tốt cho chúng ta /ɡreɪt njuːz fɔːr ʌs/
+12. **3D contact lenses** : kính áp tròng 3D /θriː diː ˈkɒntækt ˈlenzɪz/
 13. **soon** : (adv) sớm, chẳng bao lâu nữa /suːn/
 14. **available** : (adj) có sẵn, khả dụng /əˈveɪləbl/
-15. **helpful invention** : (n) phát minh hữu ích /ˈhelpfʊl ɪnˈvenʃn/
-16. **get ill** : (v) bị ốm /ɡet ɪl/
-17. **be able to** : (v) có thể /bi ˈeɪbl tuː/
-18. **mark our work** : (v) chấm bài của chúng ta /mɑːk ˈaʊə wɜːk/
-19. **give us feedback** : (v) cho chúng ta phản hồi /ɡɪv ʌs ˈfiːdbæk/
+15. **helpful invention** : phát minh hữu ích /ˈhelpfʊl ɪnˈvenʃn/
+16. **get ill** : bị ốm /ɡet ɪl/
+17. **be able to** : có thể /bi ˈeɪbl tuː/
+18. **mark our work** : chấm bài của chúng ta /mɑːk ˈaʊə wɜːk/
+19. **give us feedback** : cho chúng ta phản hồi /ɡɪv ʌs ˈfiːdbæk/
 20. **fantastic** : (adj) tuyệt vời, tuyệt diệu /fænˈtæstɪk/
 
 ### 💬 Content - Nội dung
@@ -49,7 +49,7 @@
 *Một sáng chế hữu ích khác là giáo viên rô bốt. Chúng sẽ dạy chúng ta khi giáo viên thật của chúng ta không thể đến lớp hay bị ốm. Bác tôi nói rằng những con rô bốt đó có thể chấm điểm bài làm và đưa ra nhận xét luôn.*
 
 **Ann**: Fantastic! I can't wait.
-*Tuyệt vời! Tôi không thể đợi được nữa.*
+*Hay quá, tôi không thể đợi được nữa.*
 
 ### ✍️ Exercises - Bài tập
 
@@ -57,19 +57,24 @@
 *Đọc lại đoạn hội thoại và đánh dấu (✓) T (Đúng) hoặc F (Sai).*
 
 1. Ann and Minh had a face-to-face class yesterday. _____
-2. Ann likes online classes because she can interact with her classmates. _____
+2. Ann likes face-to-face classes because she can interact with her classmates. _____
 3. Minh finds online classes inconvenient. _____
 4. When students use 3D contact lenses, their eyes will not get tired. _____
 5. Robot teachers will be able to mark papers and comment on students' work. _____
 
-**Answers:** 1-F, 2-F, 3-F, 4-T, 5-T
+**Answers:** 
+1. F (Hôm qua Ann và Minh có lớp học trực tiếp.)
+2. T (Ann thích lớp học trực tuyến vì cô ấy có thể tương tác với các bạn cùng lớp.)
+3. F (Minh thấy các buổi học trực tuyến không tiện lợi.)
+4. T (Khi học sinh dùng kính áp tròng 3 chiều, mắt họ sẽ không bị mỏi.)
+5. T (Giáo viên rô bốt sẽ có thể chấm bài và nhận xét bài làm của học sinh.)
 
 #### Bài 3: Label each picture with a phrase from the box.
 *Dán nhãn cho mỗi bức tranh với một cụm từ từ hộp.*
 
 **Answers:**
 1. computer screen (màn hình máy tính)
-2. 3D contact lenses (kính áp tròng 3D)
+2. 3D contact lenses (kính áp tròng 3 chiều)
 3. online class (lớp học trực tuyến)
 4. robot teacher (giáo viên người máy)
 5. breakout rooms (phòng chia nhóm)
@@ -85,11 +90,11 @@
 5. Can I wear _____ and watch a movie too?
 
 **Answers:**
-1. computer screen
-2. breakout rooms
-3. robot teacher
-4. online class
-5. 3D contact lenses
+1. computer screen (Mình không thể xem được tài liệu này rõ ràng trên máy tính. Mình cần một màn hình lớn hơn.)
+2. breakout rooms (Trong giờ học, giáo viên đưa chúng tôi vào các phòng chia nhỏ để thảo luận nhóm.)
+3. robot teacher (Một giáo viên người máy dạy tiếng Anh cho các học sinh tiểu học.)
+4. online class (Mình có một buổi học trực tuyến với một giáo viên người Mỹ hôm qua.)
+5. 3D contact lenses (Mình có thể vừa đeo kính áp tròng 3 chiều và xem phim không?)
 
 #### Bài 5: QUIZ. Do you know what things were invented in these years? Work in pairs and find out.
 *BÀI ĐỐ. Bạn có biết những thứ gì đã được phát minh trong những năm này không? Làm việc theo cặp và tìm ra.*
@@ -129,9 +134,11 @@
 7. **discover - discovered - discovered** : (v) khám phá, phát hiện /dɪˈskʌvə/
 8. **invent - invented - invented** : (v) phát minh, sáng chế /ɪnˈvent/
 9. **create - created - created** : (v) tạo ra, sáng tạo /kriˈeɪt/
-10. **carry out - carried out - carried out** : (v) thực hiện, tiến hành /ˈkæri aʊt/
-11. **check attendance** : (v) điểm danh, kiểm tra sự có mặt /tʃek əˈtendəns/
-12. **a cure for cancer** : (n) thuốc chữa bệnh ung thư /ə kjʊə fɔː ˈkænsə/
+10. **experiment** : (n) thí nghiệm, cuộc thử nghiệm; (v) thực hiện thí nghiệm /ɪkˈsperɪmənt/
+11. **carry out - carried out - carried out** : (v) thực hiện, tiến hành /ˈkæri aʊt/
+12. **fingerprint scanner** : (n) máy quét vân tay /ˈfɪŋɡəprɪnt ˈskænə/
+13. **check attendance** : (v) điểm danh, kiểm tra sự có mặt /tʃek əˈtendəns/
+14. **a cure for cancer** : (n) thuốc chữa bệnh ung thư /ə kjʊə fɔː ˈkænsə/
 
 ### ✍️ Exercises - Bài tập
 
@@ -139,12 +146,12 @@
 *Viết một từ hoặc cụm từ từ hộp dưới mỗi bức tranh.*
 
 **Answers:**
-1. digital communication (giao tiếp kỹ thuật số)
-2. face recognition (nhận dạng khuôn mặt)
-3. eye-tracking (theo dõi mắt)
-4. experiment (thí nghiệm)
-5. fingerprint scanner (máy quét vân tay)
-6. video conferencing (hội nghị truyền hình)
+1. digital communication   
+2. face recognition   
+3. eye-tracking   
+4. experiment   
+5. fingerprint scanner   
+6. video conferencing
 
 #### Bài 2: Choose the option that best completes each phrase.
 *Chọn lựa chọn hoàn thành tốt nhất mỗi cụm từ.*
@@ -165,7 +172,11 @@
    A. a foreign land
    B. the light bulb
 
-**Answers:** 1-A, 2-B, 3-B, 4-B
+**Answers:** 
+1. A   
+2. B   
+3. A  
+4. B
 
 #### Bài 3: Complete the sentences with the words and phrase from the box.
 *Hoàn thành các câu với các từ và cụm từ từ hộp.*
@@ -174,16 +185,21 @@
 
 1. Marie Curie and Pierre Curie _____ radium and polonium.
 2. Thomas Edison _____ the light bulb in 1880.
-3. Sarah Gilbert is the _____ of a vaccine. She _____ it in 2020.
+3. Sarah Gilbert is the creator of a vaccine. She _____ it in 2020.
 4. Scientists have carried out many _____ to find a cure for cancer.
 5. Scan your finger on this _____ to check attendance, please.
 
 **Answers:**
 1. discovered
+(Marie Curie và Pierre Curie đã khám phá ra nguyên tố rađi và pô-lô-ni.)
 2. invented
-3. creator, created
+(Thomas Edison đã phát minh ra bóng đèn năm 1880.)
+3. created
+(Sarah Gilbert là người sáng tạo ra một loại vắc-xin. Cô ấy tạo ra nó vào năm 2020.)
 4. experiments
+(Những nhà khoa học đã tiến hành nhiều thí nghiệm để tìm cách chữa trị ung thư.)
 5. fingerprint scanner
+(Hãy quét ngón tay trên máy quét vân tay để điểm danh.)
 
 ### 🗣️ Pronunciation - Phát âm
 
@@ -197,13 +213,14 @@ Các câu có từ được nhấn (stressed) và không nhấn (unstressed). Ch
 - Did he **buy** a **new** **smart**phone yesterday?
 - **No**, he **did**n't.
 
-#### Bài 4: Listen and repeat the sentences. Pay attention to the bold syllables.
-*Nghe và lặp lại các câu. Chú ý các âm tiết in đậm.*
+#### Bài 4: Listen and repeat the following words. Mark the stressed syllables in the words.
+*Nghe và lặp lại các từ sau. Đánh dấu các âm tiết được nhấn mạnh trong các từ.*
 
-1. I **don't** have a **ro**bot **teach**er.
-2. **Where** is the **face** recognition **ma**chine?
-3. **How** **cool** is **that** **dig**ital **com**munication!
-4. Does the **fin**gerprint **scan**ner **check** at**ten**dance?
+#### Bài 5: Put the words from 4 in the right columns.
+*Đặt các từ từ bài 4 vào các cột đúng.*
+
+#### Bài 6: Fill the gaps with one of the words in 5. Listen and check, then read the sentences.
+*Điền vào chỗ trống bằng một trong những từ trong bài 5. Nghe và kiểm tra, sau đó đọc các câu.*
 
 ## A CLOSER LOOK 2 - TÌM HIỂU THÊM 2
 
@@ -211,7 +228,7 @@ Các câu có từ được nhấn (stressed) và không nhấn (unstressed). Ch
 
 #### Reported Speech (Statements) - Câu tường thuật (Câu kể)
 
-Câu tường thuật được sử dụng để tường thuật lại điều mà người khác đã nói.
+Câu tường thuật là cách chúng ta thuật lại lời nói của người khác. Khi chuyển từ lời nói trực tiếp sang lời nói gián tiếp, có một số thay đổi cần lưu ý:
 
 **Cấu trúc:**
 Subject + reporting verb (said/told/informed...) + (that) + clause with changes
@@ -248,72 +265,130 @@ Subject + reporting verb (said/told/informed...) + (that) + clause with changes
 
 ### ✍️ Exercises - Bài tập
 
-#### Bài 1: Choose the option that goes with the reporting verb.
-*Chọn lựa chọn phù hợp với động từ tường thuật.*
+#### Bài 1: Look at part of the conversation in GETTING STARTED again. Then match Minh's uncle's direct speech with his reported speech.
+*Xem lại một phần cuộc trò chuyện trong phần Getting Started. Sau đó nối lời nói trực tiếp của chú Minh với lời nói tường thuật của ông ấy.*
 
-Which option can be reported using the verb **said**?
+**Answer:**
+1 - B. The robot will be able to mark our work.
+→ My uncle said the robots would be able to mark our work.
+(Bác tôi nói rằng rô bốt sẽ có thể chấm bài.)
 
-A. The robots will be able to mark our work.
-B. The robots will be able to give us feedback too.
+2 - A. The robots will be able to give us feedback too.
+→ My uncle said the robots would be able to give us feedback too.
+(Bác tôi nói rô bốt cũng có thể đưa ra nhận xét.)
 
-**Answer:** Both A and B
+#### Bài 2: Complete the second sentences using the correct verb forms.
+*Hoàn thành các câu thứ hai bằng cách sử dụng các hình thức động từ đúng.*
 
-#### Bài 2: Rewrite the sentences in reported speech.
-*Viết lại các câu ở dạng tường thuật.*
+1. "I am a member of the IT club."
+Minh said that he _______ a member of the IT club.
 
-1. Minh: "I am a member of the IT club."
-2. Nam: "Mai will take an online course to improve her speaking."
-3. Tom: "I am talking to Phong on the phone."
-4. He: "They are going to send me an email."
-5. She: "I don't have an iPod to listen to music."
+2. "Mai will take an online course to improve her speaking."
+Nam said Mai _______ an online course to improve her speaking.
 
-**Answers:**
-1. Minh said that he was a member of the IT club.
-2. Nam said Mai would take an online course to improve her speaking.
-3. Tom said he was talking to Phong on the phone.
-4. He said they were going to send him an email.
-5. She said that she didn't have an iPod to listen to music.
+3. "I am talking to Phong on the phone."
+Tom said he __________ to Phong on the phone.
 
-#### Bài 3: Change the adverbs of time and place.
-*Thay đổi trạng từ chỉ thời gian và địa điểm.*
+4. "They are going to send me an email."
+He said they _________ to send him an email.
 
-1. tomorrow → _____
-2. now → _____
-3. today → _____
-4. this year → _____
-5. here → _____
+5. "I don't have an iPod to listen to music."
+She said that she _________ an iPod to listen to music.
 
 **Answers:**
-1. the next day
-2. then
-3. that day
-4. that year
-5. there
+1. was (Minh nói rằng anh ấy là một thành viên của câu lạc bộ tin học.)
+2. would take (Nam nói rằng Mai muốn học một khóa học trực tuyến để cải thiện kĩ năng nói.)
+3. was talking (Tom nói rằng cậu ấy đang nói chuyện với Phong trên điện thoại.)
+4. were going (Anh ấy nói rằng họ đang gửi cho anh ấy một bức thư điện tử.)
+5. didn't have (Cô ấy nói rằng cô ấy không có iPod để nghe nhạc.)
 
-#### Bài 4: Complete the sentences, using reported speech.
-*Hoàn thành các câu, sử dụng câu tường thuật.*
+#### Bài 3: Complete the second sentences with the words and phrases from the box.
+*Hoàn thành câu thứ hai với các từ và cụm từ trong hộp.*
 
-1. "They will live much longer in the future," said the scientist.
-   → The scientist said that _____.
+**there | that year | that day | then | the next day**
+
+1. "I'm having a science test tomorrow." Mary said.
+Mary said she was having a science test ____________.
+
+2. "The group is working on their project now," Tom said.
+Tom said the group was working on their project __________.
+
+3. "Mai is reading about Thomas Edison today," the teacher said.
+The teacher said that Mai was reading about Thomas Edison __________.
+
+4. "They will invent a smart cooker this year," my mum said.
+My mum said that they would invent a smart cooker __________.
+
+5. "My teacher will park her car here," said Mi.
+Mi said her teacher would park her car __________.
+
+**Answers:**
+1. the next day (Mary nói rằng cô ấy có một bài thi khoa học vào ngày tiếp theo.)
+2. then (Tom nói rằng nhóm hiện tại đang làm việc với dự án của họ.)
+3. that day (Giáo viên nói rằng Mai đang đọc về Thomas Edison vào ngày hôm đó.)
+4. that year (Mẹ tôi nói rằng họ sẽ sáng tạo ra một nồi nấu thông minh vào năm nay.)
+5. there (Mi nói rằng giáo viên của cô ấy muốn đậu xe ở đây.)
+
+#### Bài 4: Complete the second sentence in each pair so that it means the same as the first one.
+*Hoàn thành câu thứ hai trong mỗi cặp để nó có nghĩa giống như câu đầu tiên.*
+
+1. "We will live much longer in the future," said the scientist.
+The scientist said that ______________________________________.
 
 2. "Our school is going to have a new laboratory here," said our teacher.
-   → Our teacher said that _____.
+Our teacher said that _______________________________________.
 
-3. "They are developing technology to monitor students better," said my dad.
-   → My dad said that _____.
+3. "They are developing technology to monitor students better," my dad said.
+My dad said that ___________________________________________.
 
-4. "There are no classes tomorrow because our teacher is ill," said Tom.
-   → Tom said that _____.
+4. "There are no classes tomorrow because our teacher is ill," Tom said.
+Tom said that ______________________________________________.
 
-5. "I want some students to join the science club next semester," said the teacher.
-   → The teacher said that _____.
+5. "We want some students to join the science club next semester," the teacher said.
+The teacher said that ________________________________________.
 
 **Answers:**
 1. The scientist said that they would live much longer in the future.
+(Các nhà khoa học nói rằng chúng ta sẽ sống lâu hơn trong tương lai.)
+
 2. Our teacher said that our school was going to have a new laboratory there.
+(Giáo viên của chúng tôi nói rằng trường chúng tôi có một phòng thí nghiệm ở đây.)
+
 3. My dad said that they were developing technology to monitor students better.
+(Bố tôi nói rằng họ đang phát triển công nghệ để giám sát học sinh tốt hơn.)
+
 4. Tom said that there were no classes the next day because their teacher was ill.
+(Tom nói rằng sẽ không có tiết vào ngày mai vì giáo viên bị ốm.)
+
 5. The teacher said that she wanted some students to join the science club the following semester.
+(Giáo viên nói rằng cô ấy muốn có vài học sinh tham gia câu lạc bộ khoa học vào học kì tới.)
+
+#### Bài 5: GAME. He / She said that...
+*TRÒ CHƠI. Anh ấy/ Cô ấy nói…*
+
+Work in pairs. One student says a sentence and the other changes that sentence into reported speech. Then swap roles.
+*Làm việc theo cặp. Một học sinh nói một câu và học sinh kia chuyển câu đó thành câu tường thuật. Sau đó hoán đổi vai.*
+
+**Examples:**
+- 'I love the Toy Story films,' she said.
+→ She said she loved the Toy Story films.
+(Cô ấy nói cô ấy yêu phim Câu chuyện đồ chơi.)
+
+- 'I worked as a waiter before becoming a chef,' he said.
+→ He said he'd worked as a waiter before becoming a chef.
+(Anh ấy nói rằng anh ấy đã từng là một bồi bàn trước khi trở thành đầu bếp.)
+
+- 'I'll phone you tomorrow,' he said.
+→ He said he'd phone me the next day.
+(Anh ấy nói rằng anh ấy sẽ gọi cho tôi vào ngày mai.)
+
+- 'I enjoy working in my garden,' said Bob.
+→ Bob said that he enjoyed working in his garden.
+(Bob nói rằng anh ấy rất thích thú với việc làm vườn.)
+
+- 'We played tennis for our school,' said Alina.
+→ Alina told me they'd played tennis for their school.
+(Alina kể với tôi rằng họ đã chơi quần vợt cho trường của họ.)
 
 ## COMMUNICATION - GIAO TIẾP
 
