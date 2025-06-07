@@ -378,7 +378,27 @@ Hoạt động giải trí mà tôi thích nhất là làm các dự án DIY v�
 22. **interview** : (v) phỏng vấn /ˈɪntəvjuː/
 
 ### 👂 Listening - Nghe
+**Interviewer** When do you usually have free time?
 
+**Mark** I usually have free time at the weekend.
+
+**Interviewer** So how do you spend it?
+
+**Mark** I spend time to connect with my family on Saturdays. We do puzzles, play board games or go camping.
+
+**Interviewer** What about Sundays?
+
+**Mark** I usually spend Sundays with my friends. I have a group of friends and we do lots of things together.
+
+**Interviewer** For example?
+
+**Mark** Sometimes I invite them to my house. We cook our favourite food and watch a video. It's fun and better than going to the cinema.
+
+**Interviewer** Do you do outdoor activities together?
+
+**Mark** Yes, we love spending time outdoors. We go to the park to play volleyball or skateboard. It helps us stay in shape. Sometimes we go for a bike ride around our city. This gives us a chance to see different places in our city.
+
+**Interviewer** Thanks for letting us interview you. 
 **Bài 3 trang 15**
 
 | 1. video | 2. cinema | 3. park |
@@ -387,12 +407,17 @@ Hoạt động giải trí mà tôi thích nhất là làm các dự án DIY v�
 
 ### ✍️ Writing - Viết
 
-**Bài 4 trang 15**
+**Bài 4 trang 15** 
+
+**Answers**: 
 1. At weekends.
 
 2. We listen to music and dance.
 
 3. Because they're funny and relaxing.
+
+**Cụ thể: **
+
 
 1. Bạn thường có thời gian rảnh khi nào?
 

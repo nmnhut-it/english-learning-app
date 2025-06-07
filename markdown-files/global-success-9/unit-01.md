@@ -144,18 +144,18 @@ Chắc chắn rồi. Tôi thực sự yêu nơi tôi đang sống hiện tại.
 **Bài 2: Circle the correct word or phrase to complete each sentence.**
 (Khoanh tròn từ hoặc cụm từ đúng để hoàn thành mỗi câu.)
 
-1. The (speciality/fragrance) of the region is beefsteak.
-2. Police officers protect the (tourist attraction/community).
-3. Each of us should do our part to preserve the cultural (function/heritage) of our country.
-4. Skilled local (firefighters/artisans) made these beautiful flower vases.
-5. The electrical wires in our neighbourhood broke down yesterday, so we had to call a(n) (delivery person/electrician).
+1. The villagers (preserve / shorten) their traditional weaving techniques.
+2. Com Lang Vong has a special (fragrance / function), so it is very popular.
+3. Our (firefighters / police officers) help keep law and order in our community.
+4. Spring rolls are the (speciality food / fast food) I like best.
+5. My home town is famous for (handicrafts / objects), such as paper fans and lanterns.
 
 **Answers:**
-1. speciality
-2. community
-3. heritage
-4. artisans
-5. electrician
+1. preserve
+2. fragrance
+3. police officers
+4. speciality food
+5. handicrafts
 
 ## A CLOSER LOOK 2 - TÌM HIỂU THÊM 2
 
@@ -302,31 +302,88 @@ Denby is a village in the county of Derbyshire, England. It is the home of the f
 **Làng Denby (Derbyshire, Anh)**
 Denby là một ngôi làng ở hạt Derbyshire, Anh. Đây là quê hương của đồ gốm Denby nổi tiếng, được làm từ loại đất sét địa phương tốt nhất. Đi quanh làng, chúng ta có thể thấy các nghệ nhân làm thủ công các bộ sưu tập đồ gốm. Họ vẫn sử dụng một số kỹ thuật ban đầu được truyền qua nhiều thế hệ. Trong các sản phẩm của Denby, chúng ta có thể thấy vẻ đẹp và chức năng của chúng khiến chúng nổi tiếng thế giới. Ngày nay Denby cũng là một điểm thu hút khách du lịch. Du khách có thể làm đồ gốm tại xưởng hoặc tìm hiểu về lịch sử đồ gốm trong bảo tàng.
 
+#### ✍️ Exercises - Bài tập
+
+**Bài 2 trang 14**
+
+1. b. preserve: to keep something as it is
+
+(bảo tồn: giữ một cái gì đó như chính nó)
+
+2. c. shorten: to make something shorter
+
+(rút ngắn: làm cái gì đó ngắn lại)
+
+3. e. fragrance: a pleasant smell
+
+(mùi thơm: mùi dễ chịu)
+
+4. a. original: existing since the beginning
+
+(nguồn gốc: tồn tại từ đầu)
+
+5. d. function: a special purpose of a thing
+
+**Bài 3 trang 14** 
+
+1. Denby
+
+people make the speciality from local material
+(người ta làm đặc sản từ nguyên liệu địa phương)
+
+Thông tin: It is the home of the famous Denby Pottery, which is made from the finest local clay.
+(Đây là quê hương của đồ gốm Denby nổi tiếng, được làm từ loại đất sét tốt nhất của địa phương.)
+
+2. Vong
+
+people make the product from plants
+(người ta làm ra sản phẩm từ thực vật)
+
+Thông tin: Vong, a small village in Ha Noi, is famous for a speciality food: com (young sticky rice flakes).
+(Vòng, một ngôi làng nhỏ ở Hà Nội, nổi tiếng với món ăn đặc sản: cốm (bánh nếp non).)
+
+3. Denby
+
+people make the product with some traditional techniques
+(người ta làm ra sản phẩm bằng một số kỹ thuật truyền thống)
+
+Thông tin: They still use some of the original techniques passed down through generations.
+(Họ vẫn sử dụng một số kỹ thuật ban đầu được truyền qua nhiều thế hệ.)
+
+4. Denby
+
+the product is famous worldwide
+(sản phẩm nổi tiếng toàn cầu)
+
+Thông tin: In Denby products, we can see their beauty and function which make them world-famous.
+(Trong các sản phẩm của Denby, chúng ta có thể thấy vẻ đẹp và công dụng của chúng khiến chúng nổi tiếng thế giới.)
+
+5. Vong
+
+the product symbolises a season
+(sản phẩm tượng trưng cho một mùa)
+
+Thông tin: Com Lang Vong is well known in Viet Nam as a speciality of Ha Noi autumn.
+(Cốm Làng Vòng nổi tiếng ở Việt Nam như một đặc sản của mùa thu Hà Nội.)
+
+
+
 ### 🗣️ Speaking - Nói
 Discussion about local specialities
+#### ✍️ Exercises - Bài tập
 
-### ✍️ Exercises - Bài tập
+**Bài 4 trang 14**
 
-**Bài 1: Work in pairs. Answer the questions.**
-(Làm việc theo cặp. Trả lời các câu hỏi.)
+1.	It’s hu tieu My Tho (hủ tiếu Mỹ Tho) 
+2.	People make it from a kind of local rice. 
+3.	Yes, people still make in the traditional way, but they use machines for some steps. 
+4.	People can make delicious meals with it.  
+5.	It is well-known in my country. 
 
-**Bài 2: Read the brochure introducing different places with special products. Match each highlighted word with its definition.**
-(Đọc tờ rơi giới thiệu những địa điểm khác nhau có sản phẩm đặc biệt. Nối mỗi từ được đánh dấu với định nghĩa của nó.)
+**Bài 5 trang 14** 
 
-1. preserve - b. to keep something as it is
-2. shorten - d. to make something shorter
-3. fragrance - c. a pleasant smell
-4. artisan - e. a person who does skilled work, making things with their hands
-5. function - a. a special purpose of something
+I live in Tien Giang. My province is famous for hu tieu My Tho. It is made from a kind of local rice. People make flour from it, spread it into thin layers. After dried, the layers are cut into thin strips like noodles. In the past, hu tieu was made by hand, but today, people use machines in some steps to shorten the process. People can make delicious dishes with it, such as pork hu tieu (hu tieu noodles with pork and soup). The hu tieu noodles and the dishes are well-known in my country. 
 
-**Bài 3: Read the brochure again. Decide which place each detail below belongs to.**
-(Đọc lại tờ rơi. Quyết định xem mỗi chi tiết dưới đây thuộc về địa điểm nào.)
-
-1. the pottery is made from the finest local clay - Denby
-2. the product is famous with a special fragrance - Vong
-3. people make the product with some traditional techniques - Denby
-4. the product is famous worldwide - Denby
-5. the product symbolises a season - Vong
 
 ## SKILLS 2 - KỸ NĂNG 2
 

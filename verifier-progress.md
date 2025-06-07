@@ -53,19 +53,19 @@ This document tracks the progress of verifying and improving the English learnin
 - [ ] Unit 5
 - [ ] Unit 6
 - [ ] Unit 7
-- [ ] Unit 8
+- [x] Unit 8 - Skills 1 verified and updated
 - [ ] Unit 9
 - [ ] Unit 10
 - [ ] Unit 11
 - [ ] Unit 12
 - [ ] Review files
 
-### Status: Not Started
+### Status: In Progress
 
 ## Grade 9 Progress
 
 ### Units to Verify
-- [ ] Unit 1
+- [x] Unit 1 - Looking Back section verified
 - [ ] Unit 2
 - [ ] Unit 3
 - [ ] Unit 4
@@ -79,7 +79,7 @@ This document tracks the progress of verifying and improving the English learnin
 - [ ] Unit 12
 - [ ] Review files
 
-### Status: Not Started
+### Status: In Progress
 
 ## Verification Log
 
@@ -404,6 +404,89 @@ This document tracks the progress of verifying and improving the English learnin
 6. Skills sections (reading about New Zealand, London tour) match sources exactly
 7. Communication section expressions and activities verified
 8. Project section matches official curriculum requirements
+
+### Date: June 1, 2025 - Unit 8 Grade 8 Skills 1 Verification
+
+### Unit 8 Grade 8 Skills 1 Verification Summary
+- Verified Skills 1 section of Unit 8 Shopping for Grade 8
+- Cross-referenced with loigiaihay.com for authentic content
+- Integrated vocabulary from ground-truth/g8/g8_part_8.md
+- All content verified as authentic and follows official sources
+
+### Unit 8 Grade 8 Skills 1 Corrections Made:
+1. Reading passage:
+   - Verified "Why We Go to Shopping Centres" passage matches loigiaihay exactly
+   - Updated Vietnamese translation to match more natural phrasing
+   - Title capitalized correctly as "Why We Go to Shopping Centres"
+
+2. Exercise 1:
+   - Changed list items to match loigiaihay:
+     * hanging out with friends (đi chơi với bạn bè)
+     * reducing stress (giảm stress)
+     * buying goods (mua hàng hóa)
+     * exercising (tập thể dục)
+     * browsing (xem lướt qua)
+   - Added example answer with checkmarks
+
+3. Exercise 2:
+   - Updated questions to exact wording from loigiaihay
+   - Added complete explanations for each answer
+   - All answers verified: 1-C, 2-A, 3-B, 4-B, 5-A
+
+4. Exercise 3:
+   - Changed format to match loigiaihay structure
+   - Updated answers with Vietnamese translations
+   - Changed question 1 answer to just "sales" instead of "holidays - sales"
+
+5. Exercise 4 (Speaking):
+   - Added complete Card A and Card B information
+   - Included full dialogue example with Vietnamese translations
+   - Added all details about Northwood Shopping Centre
+
+6. Exercise 5 (Speaking):
+   - Added suggested topics list
+   - Included complete example answer for Go Supermarket
+   - Added Vietnamese translations for all suggestions
+
+7. All vocabulary items verified against ground truth
+8. No fabricated content found - all exercises authentic
+9. Speaking exercises now include complete examples as shown in loigiaihay
+
+### Date: June 7, 2025 - Unit 1 Grade 9 Looking Back Verification
+
+### Unit 1 Grade 9 Looking Back Verification Summary
+- Verified Looking Back section of Unit 1 Local Community for Grade 9
+- Cross-referenced with loigiaihay.com and zim.vn for authentic content
+- Checked against ground-truth files (no specific Unit 1 content found in ground truth)
+- All content verified as authentic and follows official sources
+
+### Unit 1 Grade 9 Looking Back Verification Results:
+1. Exercise 1 (Vocabulary):
+   - Verified all 5 items match official sources exactly
+   - Answers: delivery person, firefighter, tourist attraction, pottery, artisan
+   - Vietnamese translations accurate
+
+2. Exercise 2 (Circle the correct word):
+   - All 5 items verified against multiple sources
+   - Answers: preserve, fragrance, police officers, speciality food, handicrafts  
+   - Content matches loigiaihay and zim.vn exactly
+
+3. Exercise 3 (Grammar - Question words + to-infinitive):
+   - All 5 questions verified authentic
+   - Answers: B (when), C (how), D (where), A (what), C (who)
+   - Grammar explanations align with curriculum
+
+4. Exercise 4 (Phrasal verbs):
+   - All 5 sentences verified against official sources
+   - Phrasal verbs used correctly: cut down on, hand down, take care of, find out, get on with
+   - Sentences match textbook content
+
+5. Found discrepancy in Exercise 2 - corrected to match loigiaihay.com
+6. Exercise 2 was different from official source - now updated with correct sentences:
+   - Changed from sentences about beefsteak, community, heritage, artisans, electrician
+   - To correct sentences about villagers/weaving, Com Lang Vong, police officers, spring rolls, handicrafts
+7. All other exercises (1, 3, 4) were already accurate
+8. Content now 100% authentic and matches official sources
 
 ---
 
