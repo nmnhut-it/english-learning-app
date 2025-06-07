@@ -425,220 +425,287 @@ Example answers:
 
 ### 📚 Vocabulary - Từ vựng
 
+- **suburbs** : (n) ngoại ô /ˈsʌbɜːbz/
+- **convenient** : (adj) tiện lợi /kənˈviːniənt/
+- **bus line** : (n) tuyến xe buýt /bʌs laɪn/
+- **traffic jam** : (n) kẹt xe /ˈtræfɪk dʒæm/
+- **crowded** : (adj) đông đúc /ˈkraʊdɪd/
 - **rush hour** : (n) giờ cao điểm /rʌʃ ˈaʊə/
-- **tram** : (n) xe điện /træm/
-- **means of transport** : (n) phương tiện giao thông /miːnz əv ˈtrænspɔːt/
-- **in advance** : (adv) trước /ɪn ədˈvɑːns/
 - **on time** : (adv) đúng giờ /ɒn taɪm/
 - **discount** : (n) giảm giá /ˈdɪskaʊnt/
+- **tram** : (n) xe điện /træm/
+- **arrival** : (n) sự đến /əˈraɪvl/
+- **in advance** : (adv) trước /ɪn ədˈvɑːns/
+- **subway map** : (n) bản đồ tàu điện ngầm /ˈsʌbweɪ mæp/
+- **library smart card** : (n) thẻ thông minh thư viện /ˈlaɪbrəri smɑːt kɑːd/
 
-### 🗣️ Useful expressions - Cách diễn đạt hữu ích
+### 🗣️ Everyday English - Tiếng Anh hàng ngày
+
+**Offering help and responding (Đưa ra sự giúp đỡ và phản hồi)**
 
 **Offering help:**
 - I can show you... if you like.
+- I can take you to...
 - Would you like me to...?
 
 **Accepting help:**
-- Thanks. That's so kind of you.
-- Thank you very much!
-
-**Declining help:**
-- Thanks, but I'm good.
-- No, I'm okay. Thanks.
+- Thanks, Dad.
+- Thank you. That's so kind of you.
 
 ### ✍️ Exercises - Bài tập
 
 **Bài 1 trang 22: Listen and read the conversations below. Pay attention to the highlighted parts.**
+(Nghe và đọc đoạn hội thoại dưới đây. Hãy chú ý đến những phần được làm nổi bật.)
 
-Conversation 1:
-Tom: **I can show you** how to use the subway map **if you like**.
-Mai: **Thanks. That's so kind of you**.
+1.
+Duong's dad: I can take you to the airport if you like.
+(Bố có thể đưa con ra sân bay nếu con thích.)
+Duong: Thanks, Dad.
+(Cảm ơn bố.)
 
-Conversation 2:
-Tom: There's a live music concert on Saturday night. **Would you like me to** buy the tickets?
-Mai: **No, I'm good**. Thanks anyway.
+2.
+Minh: Would you like me to give you a ride home?
+(Bạn có muốn tôi chở bạn về nhà không?)
+Hoang: Thank you. That's so kind of you.
+(Cảm ơn bạn. Bạn thật là tốt bụng.)
 
 **Bài 2 trang 22: Work in pairs. Make similar conversations with the following situations.**
+(Làm việc theo cặp. Thực hiện các cuộc hội thoại tương tự với các tình huống sau.)
 
-1. A: You need to know how to use the library smart card.
-   B: Your friend offers to help.
-
-Example:
-A: I don't know how to use this library smart card.
-B: I can show you how to use the library smart card if you like.
-A: Thanks. That's so kind of you.
-
-2. A: You need to write a note for Ms Hoa.
-   B: Your friend offers to help.
+1. Your friend doesn't know how to use the library smart card. You offer to show him/her.
+(Bạn của bạn không biết cách sử dụng thẻ thông minh của thư viện. Bạn đề nghị với anh ấy/cô ấy.)
 
 Example:
-A: I need to write a note for Ms Hoa but I'm in a hurry.
-B: Would you like me to write a note for Ms Hoa?
-A: Thanks. That's so kind of you.
+You: I can show you how to use the library smart card if you want.
+(Tôi có thể hướng dẫn bạn cách sử dụng thẻ thông minh của thư viện nếu bạn muốn.)
+Your friend: That would be great, thanks!
+(Điều đó thật tuyệt vời, cảm ơn bạn!)
 
-**Bài 3 trang 22: Work in pairs. Read the descriptions of three teenagers about their favourite means of transport.**
+2. A teacher wants to talk to Ms Hoa, but she is not there. You offer to write a note for Ms Hoa.
+(Một thầy giáo muốn nói chuyện với cô Hoa nhưng cô không có ở đó. Bạn đề nghị viết một lời nhắn cho cô Hoa.)
 
-**Tom - likes coming to school by bicycle**
-- I live in the suburbs, which are far from the city centre
-- There are no sky trains or underground stations near my house
-- When I go downtown, I take the bus
-- It's not as fast, but it's cheap
-- I often get a discount on the bus fare
+Example:
+You: Would you like me to write a note for Ms Hoa?
+(Thầy có muốn em viết một lời nhắn cho cô Hoa không ạ?)
+Teacher: Thank you. That's so kind of you.
+(Cảm ơn em. Em thật là tốt bụng.)
 
-**Mai - likes the underground**
-- The underground is the most convenient for me
-- It's fast and goes to almost all areas in the city
-- It's not expensive
-- I can always get on time to wherever I'm going
-- I buy the monthly pass so it's even cheaper
+### Transport in the city - Giao thông vận tải trong thành phố
 
-**Minh - likes the sky train**
-- My house is near a sky train station, so it's very convenient
-- The sky train is fast and never gets stuck in traffic
-- I can see the city from above, which I really enjoy
-- The only problem is that it doesn't connect to all areas
+**Bài 3 trang 22: Work in pairs. Read the descriptions of three teenagers about their favourite means of transport. Then complete the table below.**
+(Làm việc theo cặp. Đọc mô tả của ba thiếu niên về phương tiện giao thông yêu thích của họ. Sau đó hoàn thành bảng dưới đây.)
 
-**Bài 4: Make notes about a means of transport you are using.**
-Students write about their own preferred means of transport.
+**Hoang:** I live in the suburbs of Ha Noi. I use my bike to get around. It's convenient because I can ride it to places where the bus line doesn't reach. Going by bike might be a bit slow, but I can avoid traffic jams.
 
-**Bài 5: Work in groups. Talk to your friends about the means of transport that you use.**
+**Cholada:** My favourite means of transport in Bangkok is the sky train. It's crowded at rush hour, but it's always on time. It doesn't get stuck in traffic jams, so I can save time travelling.
 
+**Kathy:** I love the tram in Melbourne. It offers a discount for students. Sometimes the tram is late, but it always updates its arrival on a smartphone app, so I know in advance and arrange my time easily.
+
+| Name | Means of transport | Advantages | Disadvantages |
+|------|-------------------|------------|---------------|
+| Hoang | bike | - can go to places where bus doesn't reach<br>- avoid (1) _______ | - a bit slow |
+| Cholada | (2) _______ | - always on time<br>- save time | - (3) _______ at rush hour |
+| Kathy | (4) _______ | - (5) _______ for students<br>- updates arrival on app | - sometimes late |
+
+**Answers:**
+1. traffic jams
+2. sky train
+3. crowded
+4. tram
+5. discount
+
+**Bài 4 trang 22: Make notes about a means of transport you are using.**
+(Ghi chú về phương tiện giao thông bạn đang sử dụng.)
+
+- Name of the means of transport (Tên của phương tiện giao thông)
+- Its advantage(s) and drawback(s) (Lợi ích và bất lợi của nó)
+- Why you choose to use it (Vì sao bạn chọn nó)
+
+**Bài 5 trang 22: Work in groups. Talk to your friends about the means of transport that you use. Use your notes in 4.**
+(Làm việc theo nhóm. Nói chuyện với bạn bè của bạn về phương tiện giao thông mà bạn sử dụng. Sử dụng ghi chú của bạn trong phần 4.)
+
+Sample answers:
+1. I live in Ha Noi. I use buses to get around. With extensive networks connecting, buses provide accessibility to a wide range of destinations within cities and towns. The cost-effectiveness and a discount for students of bus travel makes it an attractive option. However, during peak hours, buses can be late and become crowded, which may not align with urgent needs. I choose to use the bus because it helps reduce traffic congestion and lowers carbon footprints. Moreover, I can relax, study or read during the journey without the need to drive.
+
+2. My favourite means of transport is electric bike. Electric bikes offer an eco-friendly and cost-effective way to get around. They help reduce pollution, and are low-maintenance. However, drawbacks include the number of charging stations might be limited compared to traditional gas stations. I opt for an electric bike for its eco-friendly nature and the flexibility it provides.
 ## SKILLS 1 - KỸ NĂNG 1
 
 ### 📚 Vocabulary - Từ vựng
 
-- **throwaway** : (adj) dùng một lần rồi vứt /ˈθrəʊəweɪ/
-- **leftover** : (n) thức ăn thừa /ˈleftəʊvə/
+- **food waste** : (n) chất thải thực phẩm /fuːd weɪst/
+- **leftovers** : (n) thức ăn thừa /ˈleftəʊvəz/
+- **learning space** : (n) không gian học tập /ˈlɜːnɪŋ speɪs/
+- **cafeteria** : (n) quán cà phê, căng tin /ˌkæfəˈtɪəriə/
+- **annual** : (adj) hàng năm /ˈænjuəl/
+- **competition** : (n) cuộc thi /ˌkɒmpəˈtɪʃn/
+- **suggest** : (v) đề xuất /səˈdʒest/
+- **solution** : (n) giải pháp /səˈluːʃn/
+- **serious** : (adj) nghiêm trọng /ˈsɪəriəs/
+- **creatively** : (adv) sáng tạo /kriˈeɪtɪvli/
+- **partner** : (n) đối tác /ˈpɑːtnə/
+- **fund** : (n) quỹ /fʌnd/
+- **educate** : (v) giáo dục /ˈedʒukeɪt/
+- **carry out** : (phr v) thực hiện /ˈkæri aʊt/
+- **energy** : (n) năng lượng /ˈenədʒi/
 - **biogas** : (n) khí sinh học /ˈbaɪəʊɡæs/
-- **amenity** : (n) tiện nghi /əˈmiːnəti/
+- **public amenities** : (n) tiện ích công cộng /ˈpʌblɪk əˈmiːnətiz/
+- **particularly** : (adv) đặc biệt /pəˈtɪkjələli/
+- **attract** : (v) thu hút /əˈtrækt/
+- **lively** : (adj) sinh động /ˈlaɪvli/
 - **dessert** : (n) món tráng miệng /dɪˈzɜːt/
-- **cafeteria** : (n) căng tin, quán ăn tự phục vụ /ˌkæfəˈtɪəriə/
+- **vehicle** : (n) phương tiện /ˈviːəkl/
+- **school gates** : (n) cổng trường /skuːl ɡeɪts/
+- **unsafe** : (adj) không an toàn /ʌnˈseɪf/
+- **city authorities** : (n) chính quyền thành phố /ˈsɪti ɔːˈθɒrətiz/
 - **drop-off** : (n) điểm thả khách /drɒp ɒf/
 - **pick-up** : (n) điểm đón khách /pɪk ʌp/
+- **motorbike** : (n) xe máy /ˈməʊtəbaɪk/
 - **pavement** : (n) vỉa hè /ˈpeɪvmənt/
-- **vehicle** : (n) phương tiện giao thông /ˈviːəkl/
-- **authority** : (n) chính quyền /ɔːˈθɒrəti/
 
 ### 📖 Reading - Đọc
 
-**TEENOVATOR COMPETITION**
-
-Teenovator is an annual competition by the City Teen Council. We ask teens to find problems of the city and suggest solutions. Here are this year's winners.
-
-**Topic 1: The food-smart city**
-
-**Central School**
-
-Food waste is a serious problem in this city. Schools, restaurants, and households throw away thousands of tonnes of good food every year. Central School's team finds that parents and children do not know how to use leftovers creatively at home and do not understand how much food they are wasting. They want the city to work with schools to find a partner in the food industry. They would provide funds for schools to educate children about the serious problem of food waste. They see that the more developed a city is, the more food people throw away. They suggest carrying out a project which turns food waste into energy.
-
-**Topic 2: The teen-friendly city**
-
-**Bookworms Team**
-
-This team feels that many public amenities, particularly the city library, are not teen-friendly. They suggest a list of changes so that the library can attract more teens. Some of them include designing lively learning spaces for teens and having teens' favourite desserts in the cafeteria.
-
-**Topic 3: The street-safe city**
-
-**Helena Wilson**
-
-Helena realises that there are too many vehicles around school gates. This is unsafe for children who walk to school. She suggests that the city authorities not allow cars at school gates at drop-off and pick-up times. In addition, they should not let motorbikes park on the pavement near school gates.
-
-### 🗣️ Speaking - Nói
-
-Discussion about city problems and solutions
-
 ### ✍️ Exercises - Bài tập
 
-**Bài 1 trang 23: Work in pairs. Match the words/phrases with their pictures.**
-
-1. food waste
-2. leftovers
-3. rubbish
-4. drop-off
-5. cafeteria
-
-**Bài 2 trang 23: Read part of an announcement about the Teenovator competition. Match the topics in the competition with their winners. There is one extra topic.**
-
-List of topics:
-A. The street-safe city
-B. The teen-friendly city
-C. The food-smart city
-D. The waste-free city
-
-Winners:
-1. Central School
-2. Bookworms Team
-3. Helena Wilson
+**Bài 1 trang 23: Work in pairs. Match the words / phrases with their pictures.**
+(Làm việc theo cặp. Nối các từ/cụm từ với hình ảnh của chúng.)
 
 **Answers:**
-1. C (The food-smart city)
-2. B (The teen-friendly city)
-3. A (The street-safe city)
+1 - a. food waste (chất thải thực phẩm)
+2 - c. learning space (không gian học tập)
+3 - b. leftovers (thức ăn thừa)
+4 - d. cafeteria (quán cà phê)
+
+**Bài 2 trang 23: Read part of an announcement about the Teenovator competition. Match the topics in the competition with their winners. There is one extra topic.**
+(Đọc một phần thông báo về cuộc thi Teenovator. Hãy nối các chủ đề trong cuộc thi với người chiến thắng. Có một chủ đề thừa.)
+
+List of topics (Danh sách các chủ đề):
+A. The street-safe city (Thành phố với đường phố an toàn)
+B. The teen-friendly city (Thành phố thân thiện với thanh thiếu niên)
+C. The food-smart city (Thành phố thực phẩm thông minh)
+D. The waste-free city (Thành phố không rác thải)
+
+**TEENOVATOR COMPETITION**
+
+Teenovator is an annual competition by the City Teen Council. We ask teens to find problems of the city and suggest solutions. Here are this year's winners
+
+1. _________: Central School
+They see that the more developed a city is, the more food people throw away. They suggest carrying out a project which turns food waste into energy. Students would sort their leftovers at school canteens. A nearby farm would come to take the food waste and process it into biogas.
+
+2. _________: Bookworm Team
+This team feels that many public amenities, particularly the city library, are not teen-friendly. They suggest a list of changes so that the library can attract more teens. Some of them include designing lively learning spaces for teens and having teen's favourite desserts in the cafeteria.
+
+3. _________: Helena Wilson
+Helena realises that there are too many vehicles around school gates. This is unsafe for children who walk to school. She suggests that the city authorities not allow cars at school gates at drop-off and pick-up times. In addition, they should not let motorbikes park on the pavement near school gates.
+
+**Answers:**
+1 - C. The food-smart city
+2 - B. The teen-friendly city  
+3 - A. The street-safe city
 D is the extra topic
 
 **Bài 3 trang 24: Read the announcement again. Choose the correct answer.**
+(Đọc lại thông báo. Chọn câu trả lời đúng.)
 
 1. How often does the City Teen Council organise the Teenovator competition?
-   A. Once a year
-   B. Twice a year
-   C. Every two years
-   D. Every three years
+   A. Once a year.
+   B. Twice a year.
+   C. Every two years.
+   D. Every three years.
 
 2. Who would partner with Central School in Topic 1?
-   A. The city council
-   B. The university's canteen
-   C. A biogas factory
-   D. A food company
+   A. The city council.
+   B. The university's canteen.
+   C. A biogas factory.
+   D. A nearby farm.
 
 3. What does the word "them" in Topic 2 refer to?
-   A. Teen users
+   A. Teen users.
    B. Changes
    C. Learning spaces
-   D. Libraries
+   D. Libraries.
 
 4. Which topic has an individual winner?
-   A. Topic 1
+   A. Topic 1.
    B. Topic 2
-   C. Topic 3
-   D. All topics
+   C. Topic 3.
+   D. All topics.
+
+5. Which of the following is INCORRECT about Helena Wilson?
+   A. She suggests banning bikes at school gates
+   B. She wants the city authorities to take action.
+   C. She thinks cars moving near school gates can cause accidents to children.
+   D. Her concern is road safety around school for children.
 
 **Answers:**
 1. A
 2. D
 3. B
 4. C
+5. A
+
+### 🗣️ Speaking - Nói
 
 **Bài 4 trang 24: Make a list of city problems and some solutions to them.**
+(Lập danh sách các vấn đề của thành phố và một số giải pháp cho chúng.)
 
 Example:
-| Problems | Solutions |
-|----------|-----------|
-| Street littering | Put more rubbish bins on streets |
-| Air pollution | Encourage people to use public transport |
-| Lack of green spaces | Plant more trees |
-| Traffic congestion | Build more sky trains |
+| Problems (Vấn đề) | Solutions (Giải pháp) |
+|----------|-----------| 
+| Dirty streets (Đường phố bẩn) | Tell people to throw rubbish away properly (Khuyên người dân vứt rác đúng nơi quy định) |
+| Lack of green spaces (Thiếu không gian xanh) | Plant more trees (Trồng nhiều cây xanh) |
+| Traffic congestion (Tắc nghẽn giao thông) | Encourage people to use public transportation and cycling (Khuyến khích mọi người sử dụng phương tiện giao thông công cộng và đi xe đạp) |
+| Air pollution (Ô nhiễm không khí) | Implement tree-planting programs, create green spaces (Thực hiện các chương trình trồng cây, tạo không gian xanh) |
 
-**Bài 5 trang 24: Work in pairs. Talk to your friends about the city problems and suggest solutions to them.**
+**Bài 5 trang 24: Work in pairs. Talk to your friends about the city problems and suggest solutions to them. You can use the ideas in 4.**
+(Làm việc theo cặp. Nói chuyện với bạn bè của bạn về các vấn đề của thành phố và đề xuất giải pháp cho họ. Bạn có thể sử dụng các ý tưởng trong phần 4.)
 
-Example dialogue:
-A: I think street littering is a big problem in our city.
-B: I agree. What do you think we should do?
-A: We should put more rubbish bins on the streets and fine people who litter.
-B: That's a good idea. Another problem is air pollution.
-A: Yes, we can encourage people to use public transport instead of private cars.
+**Now report your discussion to the class.**
+(Bây giờ hãy báo cáo cuộc thảo luận của bạn trước lớp.)
+
+**You can use the structures below:**
+(Bạn có thể sử dụng các cấu trúc dưới đây)
+
+There are several problems in our city. First,... Second,... To solve these problems, the city can... Another solution is... By doing so, the city can be a more liveable place.
+(Có một số vấn đề trong thành phố của chúng tôi. Thứ nhất,... Thứ hai,... Để giải quyết những vấn đề này, thành phố có thể... Một giải pháp khác là... Bằng cách đó, thành phố có thể trở thành một nơi đáng sống hơn.)
+
+Sample answer:
+There are several problems in our city. First, traffic congestion is a big issue, leading to delays and frustration for commuters. Second, the lack of green spaces makes it challenging for residents to relax and enjoy outdoor activities. To solve these problems, the city can invest in robust public transportation systems, encourage people to use public transportation and cycling. Another solution is to implement tree-planting programs, and investing in creating more parks, community gardens, and urban green spaces. By doing so, the city can be a more liveable place.
 
 ## SKILLS 2 - KỸ NĂNG 2
 
 ### 📚 Vocabulary - Từ vựng
 
-- **public transport** : (n) giao thông công cộng /ˈpʌblɪk ˈtrænspɔːt/
-- **air-conditioned** : (adj) có máy lạnh /eə kənˈdɪʃnd/
+- **nice parks** : (n) công viên đẹp /naɪs pɑːks/
+- **modern cinemas** : (n) rạp chiếu phim hiện đại /ˈmɒdən ˈsɪnəməz/
+- **air-conditioned buses** : (n) xe buýt có máy lạnh /eə kənˈdɪʃnd ˈbʌsɪz/
+- **free sports facilities** : (n) cơ sở thể thao miễn phí /friː spɔːts fəˈsɪlətiz/
+- **convenient food stalls** : (n) quầy hàng thực phẩm tiện lợi /kənˈviːniənt fuːd stɔːlz/
+- **wide roads** : (n) đường rộng /waɪd rəʊdz/
+- **facilities** : (n) cơ sở vật chất /fəˈsɪlətiz/
+- **public use** : (n) sử dụng công cộng /ˈpʌblɪk juːs/
+- **entertainment** : (n) giải trí /ˌentəˈteɪnmənt/
+- **shopping mall** : (n) trung tâm mua sắm /ˈʃɒpɪŋ mɔːl/
+- **costly** : (adj) tốn kém /ˈkɒstli/
 - **physical activities** : (n) hoạt động thể chất /ˈfɪzɪkl ækˈtɪvətiz/
-- **sports facilities** : (n) cơ sở thể thao /spɔːts fəˈsɪlətiz/
-- **food stall** : (n) quầy bán đồ ăn /fuːd stɔːl/
-- **street corner** : (n) góc phố /striːt ˈkɔːnə/
+- **street corners** : (n) góc phố /striːt ˈkɔːnəz/
+- **street food** : (n) đồ ăn đường phố /striːt fuːd/
 - **hygiene risks** : (n) nguy cơ vệ sinh /ˈhaɪdʒiːn rɪsks/
 - **drawback** : (n) nhược điểm /ˈdrɔːbæk/
+- **widen** : (v) mở rộng /ˈwaɪdn/
+- **air-conditioned** : (adj) có máy lạnh /eə kənˈdɪʃnd/
+- **chat show** : (n) chương trình trò chuyện /tʃæt ʃəʊ/
+- **documentary** : (n) phim tài liệu /ˌdɒkjuˈmentri/
+- **daily news** : (n) tin tức hàng ngày /ˈdeɪli njuːz/
+- **modern sports centres** : (n) trung tâm thể thao hiện đại /ˈmɒdən spɔːts ˈsentəz/
+- **city council** : (n) hội đồng thành phố /ˈsɪti ˈkaʊnsl/
+- **heavy traffic** : (n) nhiều xe cộ lưu thông /ˈhevi ˈtræfɪk/
+- **good health service** : (n) dịch vụ y tế tốt /ɡʊd helθ ˈsɜːvɪs/
+- **high crime rate** : (n) tỷ lệ tội phạm cao /haɪ kraɪm reɪt/
+- **beautiful buildings** : (n) nhiều tòa nhà đẹp /ˈbjuːtɪfl ˈbɪldɪŋz/
+- **easy shopping** : (n) mua sắm dễ dàng /ˈiːzi ˈʃɒpɪŋ/
+- **air pollution** : (n) ô nhiễm không khí /eə pəˈluːʃn/
+- **green space** : (n) không gian xanh /ɡriːn speɪs/
+- **too much noise** : (n) quá nhiều tiếng ồn /tuː mʌtʃ nɔɪz/
 
 ### 👂 Listening - Nghe
 
@@ -760,43 +827,20 @@ Complete unit vocabulary list:
 ### ✍️ Exercises - Bài tập
 
 **Bài 1 trang 26: Choose the correct answer to complete each sentence below.**
+(Chọn đáp án đúng để hoàn thành mỗi câu dưới đây.)
 
-1. We need to find a _______ to the traffic problem in our city.
-   A. suburb
-   B. solution
-   C. underground
-   D. congestion
-
-2. The _______ is a popular means of transport in my city. It's very convenient.
-   A. concrete jungle
-   B. construction site
-   C. metro
-   D. sky train
-
-3. The town is _______ with tourists during the summer months.
-   A. packed
-   B. full
-   C. busy
-   D. noisy
-
-4. I live in a _______ and quiet neighbourhood on the outskirts of the city.
-   A. bustling
-   B. peaceful
-   C. crowded
-   D. modern
-
-5. The local government is _______ a plan to renovate the old buildings in our neighbourhood.
-   A. carrying out
-   B. getting around
-   C. coming down with
-   D. cutting down on
+1. It takes Jane 30 minutes to travel from her house in the suburbs / downtown to her office in the city centre.
+2. Minh prefers the metro / sky train. He finds it more comfortable to go underground than above the ground.
+3. The city centre is now packed with high buildings. It looks like an ugly public amenity / concrete jungle.
+4. He loves the nightlife of his city. He thinks that it is lively / noisy.
+5. Ho Chi Minh City is a slow / bustling city. It is always full of activities.
 
 **Answers:**
-1. B
-2. C
-3. A
-4. B
-5. A
+1. suburbs
+2. metro
+3. concrete jungle
+4. lively
+5. bustling
 
 **Bài 2 trang 26: Fill in each gap with a word from the box to complete the passage.**
 
@@ -812,23 +856,25 @@ Mia lives in a small town. In the past, there weren't many people living in the 
 5. liveable
 
 **Bài 3 trang 26: Complete the sentences with the particles in the box.**
+(Hoàn thành các câu với các trợ từ trong hộp.)
 
 Particles: away, out, on, out, down
 
 1. People are throwing _______ tons of food each year. This is such a waste!
 2. Shopping malls are a popular place for teens to hang _______ with one another these days.
-3. The city council wants to cut _______ construction noise by 20% in the next five years.
+3. The city council wants to cut _______ _______ construction noise by 20% in the next five years.
 4. The researchers carried _______ a study about people's attitudes towards their cities.
-5. Many people come _______ with the flu in winter.
+5. Many people come _______ _______ the flu in winter.
 
 **Answers:**
 1. away
 2. out
 3. down on
 4. out
-5. down
+5. down with
 
 **Bài 4 trang 26: Find a grammar mistake in each sentence and correct it.**
+(Tìm lỗi ngữ pháp trong mỗi câu và sửa lỗi.)
 
 1. She didn't know what to get around the city.
 2. The busier the street is, the more difficult it is for you to get around.
@@ -840,5 +886,5 @@ Particles: away, out, on, out, down
 1. what → how
 2. correct (no mistake)
 3. the convenient → the more convenient
-4. came up with → came down with (or: correct if talking about creating ideas)
+4. correct (came up with = thought of an idea)
 5. more slow → slower

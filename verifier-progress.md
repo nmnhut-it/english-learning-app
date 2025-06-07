@@ -28,7 +28,7 @@ This document tracks the progress of verifying and improving the English learnin
 
 ### Units to Verify
 - [x] Unit 1 - Verified and analyzed
-- [ ] Unit 2
+- [x] Unit 2 - Verified (Getting Started, A Closer Look 1, A Closer Look 2)
 - [x] Unit 3 - Verified and updated
 - [x] Unit 4 - Verified and updated
 - [x] Unit 5 - Verified and updated
@@ -66,7 +66,7 @@ This document tracks the progress of verifying and improving the English learnin
 
 ### Units to Verify
 - [x] Unit 1 - Looking Back section verified
-- [ ] Unit 2
+- [x] Unit 2 - Getting Started, A Closer Look 1, A Closer Look 2 verified
 - [ ] Unit 3
 - [ ] Unit 4
 - [ ] Unit 5
@@ -487,6 +487,41 @@ This document tracks the progress of verifying and improving the English learnin
    - To correct sentences about villagers/weaving, Com Lang Vong, police officers, spring rolls, handicrafts
 7. All other exercises (1, 3, 4) were already accurate
 8. Content now 100% authentic and matches official sources
+
+### Date: June 7, 2025 - Unit 2 Grade 9 Partial Verification
+
+### Unit 2 Grade 9 Verification Summary (Getting Started, A Closer Look 1, A Closer Look 2)
+- Verified Getting Started, A Closer Look 1, and A Closer Look 2 sections of Unit 2 City Life for Grade 9
+- Cross-referenced with loigiaihay.com for authentic content
+- All content verified as authentic and follows official sources exactly
+
+### Unit 2 Grade 9 Verification Results:
+1. Getting Started section:
+   - Dialogue between Trang and Ben verified word-for-word against loigiaihay.com
+   - All vocabulary items match official source
+   - Exercises 2-5 verified authentic with correct answers
+   - No fabricated content found
+
+2. A Closer Look 1 section:
+   - Vocabulary items (downtown, concrete jungle, sky train, metro, public amenities) verified
+   - All exercise content matches loigiaihay.com exactly
+   - Pronunciation section for /aʊ/, /əʊ/, and /eə/ sounds verified correct
+   - Exercise answers: 1-c, 2-b, 3-e, 4-a, 5-d confirmed
+
+3. A Closer Look 2 section:
+   - Double comparatives grammar explanation verified
+   - All exercise sentences match official source
+   - Phrasal verbs section (get around, carry out, come down with, hang out, cut down on) verified
+   - All answers confirmed against loigiaihay.com
+
+4. Still need to verify:
+   - Communication section
+   - Skills 1 section  
+   - Skills 2 section
+   - Looking Back section
+   - Project section
+
+5. No corrections needed - all content 100% authentic and matches official sources
 
 ---
 
