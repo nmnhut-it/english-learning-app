@@ -298,27 +298,38 @@ My family members have different hobbies. My dad (1) **enjoys** gardening. He (2
 4. **insect** : (n) côn trùng /ˈɪnsekt/
 5. **patient** : (adj) kiên nhẫn /ˈpeɪʃnt/
 6. **responsibility** : (n) trách nhiệm /rɪˌspɒnsɪˈbɪləti/
+7. Do you like + Ving: bạn có thích? 
+8. science: (n) khoa học 
+
 
 ### 🗣️ Activities - Hoạt động
 
 **Bài 1: Listen and read the dialogue below**
 *Nghe và đọc đoạn hội thoại dưới đây*
 
-**Mai**: I'm bored. Let's play a game.
-**Peter**: What game do you want to play?
-**Mai**: We can play "Twenty Questions".
-**Peter**: Sorry, I don't know how to play it. Can you tell me?
-**Mai**: It's a guessing game. One person thinks of an object and others have to guess what it is by asking Yes-No questions.
-**Peter**: Sounds interesting! Let's play it!
+**Mi**: Do you like reading books? 
+(Cậu có thích đọc sách không?)
+
+**Ann**: Yes, very much, especially books about science. 
+(Có, rất thích, đặc biệt là những cuốn sách về khoa học.)
+
+**Mi**: What about painting? Do you like it? 
+(Thế còn vẽ thì sao? Cậu có thích không?)
+
+**Ann**: No, I don't. I'm not interested in art. 
+(Không, tớ không thích, tớ không có hứng thú với nghệ thuật cho lắm.)
 
 **Bài 2: Work in pairs. Ask and answer about hobbies**
 *Làm việc theo cặp. Hỏi và trả lời về sở thích*
 
 Example:
-A: Do you like watching TV?
-B: Yes, I like it very much, especially romantic dramas.
-A: Do you like cooking?
-B: No, I don't, and I can't cook well.
+**A**: Do you like watching TV?
+
+**B**: Yes, I like it very much, especially romantic dramas.
+
+**A**: Do you like cooking?
+
+**B**: No, I don't, and I can't cook well.
 
 **Bài 3: Interview your partner about their hobbies**
 *Phỏng vấn bạn của bạn về sở thích của họ*
@@ -372,9 +383,17 @@ B: No, I don't, and I can't cook well.
 
 People divide hobbies into four big groups: doing things, making things, collecting things, and learning things. Gardening belongs to the most popular group - doing things.
 
-Gardening is one of the oldest outdoor activities. It has something for everyone, even for children. Gardening teaches children about flowers, fruits, and vegetables. They can also learn about insects and bugs. When gardening, children learn to be patient and take responsibility. They learn to wait for the plants to grow to maturity. And if they don't water their plants, the plants will die. This teaches them valuable lessons about responsibility.
+Gardening is one of the oldest outdoor activities. It has something for everyone, even for children. Gardening teaches children about flowers, fruits, and vegetables. They can also learn about insects and bugs. When gardening, children learn to be patient and take on responsibility. They learn to wait for the plants to grow to maturity. And if they don't water their plants, the plants will die. This teaches them valuable lessons about responsibility.
 
 Gardening is also good because everyone in the family can join in and do something together. My mum and I love gardening. We usually spend an hour a day in our garden. It really makes us happy, and we love spending time together.
+
+**Vietnamese translation**: 
+
+Mọi người chia sở thích thành bốn nhóm lớn: làm các việc, làm ra đồ vật, sưu tầm đồ vật, và học hỏi kiến thức. Làm vườn thuộc về nhóm phổ biến nhất - làm các việc.
+
+Làm vườn là một trong những hoạt động ngoài trời lâu đời nhất. Nó có điều gì đó dành cho tất cả mọi người, kể cả trẻ em. Làm vườn dạy trẻ em về hoa, trái cây, và rau củ. Chúng cũng có thể học về côn trùng và sâu bọ. Khi làm vườn, trẻ em học cách kiên nhẫn và có trách nhiệm. Chúng học cách chờ đợi cây cối lớn lên đến khi trưởng thành. Và nếu chúng không tưới nước cho cây, cây sẽ chết. Điều này dạy chúng những bài học quý giá về trách nhiệm.
+
+Làm vườn cũng tốt bởi vì mọi người trong gia đình có thể tham gia và làm điều gì đó cùng nhau. Mẹ tôi và tôi yêu thích làm vườn. Chúng tôi thường dành một giờ mỗi ngày trong vườn của chúng tôi. Nó thực sự làm chúng tôi vui vẻ, và chúng tôi yêu thích việc dành thời gian bên nhau.
 
 ### ✍️ Exercises - Bài tập
 

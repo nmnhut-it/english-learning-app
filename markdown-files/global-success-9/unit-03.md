@@ -138,56 +138,62 @@ Words: priority, well-balanced, physical, mental, counsellor
 - **several** : (adj) một vài /ˈsevrəl/
 
 ### 🗣️ Pronunciation - Phát âm
-Stress in words with suffixes -ion and -ity
-*Trọng âm trong từ có hậu tố -ion và -ity*
+**/h/ and /r/**
 
-Words ending in -ion and -ity have stress on the syllable immediately before the suffix.
-*Những từ kết thúc bằng -ion và -ity có trọng âm ở âm tiết ngay trước hậu tố.*
+**Bài 4:** Listen and repeat the words. Pay attention to the sounds /h/ and /r/.
+*Nghe và lặp lại các từ. Hãy chú ý đến âm /h/ và /r/.*
 
-Examples:
-- pro'motion (quảng cáo)
-- recog'nition (sự công nhận)
-- contri'bution (đóng góp)
-- obser'vation (quan sát)
-- preser'vation (bảo tồn)
-- occu'pation (nghề nghiệp)
-- pri'ority (ưu tiên)
-- responsi'bility (trách nhiệm)
+| /h/ | /r/ |
+|-----|-----|
+| healthy | regularly |
+| happiness | really |
+| habit | ready |
+| ahead | worrying |
+| perhaps | several |
+
+**Bài 5:** Listen and practise the sentences. Pay attention to the bold words with /h/ and /r/.
+*Nghe và thực hành các câu. Hãy chú ý đến những từ in đậm với /h/ và /r/.*
+
+1. Keep **healthy** by eating well and exercising **regularly**.
+2. **He** usually does **his** **homework** and then **reads** a good book.
+3. I'm **ready** to change my eating **habits**.
+4. I finished **several** days **ahead** of the due date.
+5. She's always **worrying** about **her** physical **health**.
 
 ### ✍️ Exercises - Bài tập
 
 **Bài 1:** Circle the correct word or phrase to complete each sentence.
 *Khoanh tròn từ hoặc cụm từ đúng để hoàn thành mỗi câu.*
 
-1. To most people, **give/manage** time means **divide/doing** more in less time.
-2. Ann is taking extra classes to **accomplish/get** her **goal/distraction**.
-3. My parents **focus/give** me advice on how to **manage/make** my time.
-4. **Managing/Making** a to-do list is a way to **give/manage** your time.
-5. We should **accomplish/have** a **well-balanced/well** life.
+1. It's always difficult for students to **give/make** priority to work, school, and family.
+2. David works out at his home gym to maintain his **mental/physical** health.
+3. **Well-balanced/Badly balanced** living is hard to achieve if you have many things to do.
+4. **Managing/Making** time means organising and planning how to divide your time between different activities.
+5. I tried to **accomplish/get** my goal of cycling five kilometres a day.
 
-**Answers:** 1-manage/doing, 2-accomplish/goal, 3-give/manage, 4-Making/manage, 5-have/well-balanced
+**Answers:** 1-give, 2-physical, 3-Well-balanced, 4-Managing, 5-accomplish
 
-**Bài 2:** Match the words with their definitions.
-*Nối các từ với định nghĩa của chúng.*
+**Bài 2:** Match the words and phrases with their definitions.
+*Nối các từ và cụm từ với định nghĩa của chúng.*
 
-1. accomplish - a. very worried
-2. delay - b. not to do something on time
-3. due date - c. succeed in doing something
-4. optimistic - d. believing that good things will happen  
-5. stressed out - e. a particular time when you must do something
+1. delay - a. the planned day and time that something is required to be completed
+2. due date - b. believing that good things will happen
+3. optimistic - c. too anxious and tired to be able to relax
+4. stressed out - d. things that stop you from paying attention to what you are doing
+5. distractions - e. not to do something until a later time
 
-**Answers:** 1-c, 2-b, 3-e, 4-d, 5-a
+**Answers:** 1-e, 2-a, 3-b, 4-c, 5-d
 
-**Bài 3:** Complete the sentences using the correct forms of the words in 2.
-*Hoàn thành các câu sử dụng dạng đúng của các từ trong bài 2.*
+**Bài 3:** Complete the sentences with the words and phrases from 2.
+*Hoàn thành câu với các từ và cụm từ ở phần 2.*
 
-1. I felt _______ before the exam.
-2. The project has a strict _______ of next Friday.
-3. Despite challenges, she remains _______ about success.
-4. Don't _______ your homework; finish it today.
-5. She wants to _______ all her goals this year.
+1. I want to know the _______ for my history assignment.
+2. I'm trying to go to bed earlier because I'm feeling _______ at the moment.
+3. He intended to _______ telling her the news, waiting for the right moment.
+4. I'm _______ about the result of the exam I took last week.
+5. I prefer to study in the school library because there are too many _______ at home.
 
-**Answers:** 1-stressed out, 2-due date, 3-optimistic, 4-delay, 5-accomplish
+**Answers:** 1-due date, 2-stressed out, 3-delay, 4-optimistic, 5-distractions
 
 ## A CLOSER LOOK 2 - TÌM HIỂU THÊM 2
 ### 📖 Grammar - Ngữ pháp
@@ -212,71 +218,65 @@ Examples:
 **Bài 1:** Write the correct form of each verb in brackets.
 *Viết dạng đúng của mỗi động từ trong ngoặc.*
 
-1. She (not want) _______ to gain weight, so she eats healthily.
-2. If you (feel) _______ unwell, you should see a doctor.
-3. If you (sleep) _______ eight hours a night, you will feel better.
-4. You might get the job if your CV (complete) _______ all requirements.
-5. If they (be) _______ on time, they won't miss the flight.
+1. If Mai (not want) _______ to gain weight, she shouldn't eat much fast food.
+2. If you stay up too late tonight, you might (feel) _______ tired tomorrow morning.
+3. You should (sleep) _______ eight hours a night if you want to be awake and fully alert.
+4. If Tom (complete) _______ his assignment on Friday, he can go out with his friends at the weekend.
+5. You must (be) _______ careful if you don't want to get burnt.
 
-**Answers:** 1-doesn't want, 2-feel, 3-sleep, 4-completes, 5-are
+**Answers:** 1-doesn't want, 2-feel, 3-sleep, 4-completes, 5-be
 
 **Bài 2:** Circle the correct modal verbs to complete the following sentences.
-*Khoanh tròn động từ khuyết thiếu đúng để hoàn thành các câu sau.*
+*Khoanh tròn các động từ khiếm khuyết đúng để hoàn thành các câu sau.*
 
-1. If you don't want to get lost, you **must/can** follow the directions.
-2. If the weather is good tomorrow, we **might/must** go for a picnic.
-3. If you want to become a doctor, you **can/must** study hard.
-4. If you feel stressed, you **shouldn't/can't** drink too much coffee.
-5. If she wants to pass the exam, she **should/might** review all the lessons.
+1. She **can/should** go home early if she finishes her work.
+2. If you train hard, you **might/shouldn't** win the first prize.
+3. If they don't want to be punished, they **must/may** follow the rules.
+4. If students have an upcoming exam, they **shouldn't/can't** wait to study until the day before it.
+5. If you're having a bad day, you **should/may** do your best to get through it.
 
-**Answers:** 1-must, 2-might, 3-must, 4-shouldn't, 5-should
+**Answers:** 1-can, 2-might, 3-must, 4-shouldn't, 5-should
 
 **Bài 3:** Match the first half of the sentence in A with the second half in B.
-*Nối nửa đầu câu ở cột A với nửa sau ở cột B.*
+*Nối nửa đầu câu ở A với nửa sau ở B.*
 
-A:
-1. If you spend too much time on social media,
-2. You should wear a coat
-3. If you have good time management,
-4. You must be 18 or over
-5. If you want to maintain good health,
+| A | B |
+|---|---|
+| 1. If you spend too much time on the computer, | a. you can make your favourite food at home. |
+| 2. If you put too much sugar in your coffee, | b. you should use a calendar to plan your work ahead. |
+| 3. If you want to manage your time effectively, | c. you may put on more weight. |
+| 4. If you want to have perfect white teeth, | d. you might get shoulder pains. |
+| 5. If you take a cooking class, | e. you must brush your teeth regularly. |
 
-B:
-a. you should exercise regularly.
-b. if you want to buy alcohol.
-c. if it's cold outside.
-d. your productivity may decrease.
-e. you can accomplish more tasks.
-
-**Answers:** 1-d, 2-c, 3-e, 4-b, 5-a
+**Answers:** 1-d, 2-c, 3-b, 4-e, 5-a
 
 **Bài 4:** What will you say in each situation below? Use first conditional sentences with modal verbs.
-*Bạn sẽ nói gì trong mỗi tình huống dưới đây? Sử dụng câu điều kiện loại 1 với động từ khuyết thiếu.*
+*Bạn sẽ nói gì trong mỗi tình huống dưới đây? Sử dụng câu điều kiện đầu tiên với động từ khiếm khuyết.*
 
-1. Your friend wants to lose weight.
-2. Your brother has a sore throat.
-3. Your sister wants to have good health.
-4. Your friend wants to go swimming but hasn't finished homework.
-5. You want to make a delicious pizza.
+1. Your friend wants to lose weight. You advise him/her to eat less high fat food and do more exercise.
+2. Your friend invites you out for an ice cream, but it's possible that you will have a sore throat.
+3. Your roommate often stays up late at night. You think it is necessary to get enough sleep every night; otherwise, his health will suffer.
+4. Your little brother wants to go for a swim. You agree but ask him to finish all his homework first.
+5. You're able to make a delicious pizza when you have all the needed ingredients.
 
 **Answers:**
 1. If you want to lose weight, you should eat less high-fat food and do more exercise.
-2. If you have a sore throat, you might want to drink warm water with honey.
-3. If you want to have good health, you must get 8 hours of sleep per night.
-4. You can go for a swim if you finish all your homework.
-5. If I have all needed ingredients, I can make a delicious pizza.
+2. If I eat an ice cream, I might/may/will have a sore throat.
+3. If you don't get enough sleep every night, your health will suffer.
+4. If you finish all your homework, you can go for a swim.
+5. If I have all the needed ingredients, I can make a delicious pizza.
 
 **Bài 5:** Complete the sentences with your own ideas using the modal verbs you have learnt.
-*Hoàn thành các câu với ý tưởng của riêng bạn sử dụng các động từ khuyết thiếu bạn đã học.*
+*Hoàn thành các câu với ý tưởng của riêng bạn bằng cách sử dụng các động từ khiếm khuyết bạn đã học.*
 
-1. If you spend too much time playing computer games, _______.
-2. If you want to get a good night's sleep, _______.
-3. If you don't feel well, _______.
+1. If you spend too much time playing computer games, ...
+2. If you want to get a good night's sleep, ...
+3. If you don't feel well, ...
 
 **Answers:**
-1. If you spend too much time playing computer games, your eyes may hurt.
-2. If you want to get a good night's sleep, you should sleep at least eight hours a day.
-3. If you don't feel well, you should relax on a sofa and enjoy a cup of hot tea.
+1. If you spend too much time playing computer games, you may feel tired and less energetic.
+2. If you want to get a good night's sleep, you should avoid caffeine and electronic devices before bedtime.
+3. If you don't feel well, you should see a doctor.
 
 ## COMMUNICATION - GIAO TIẾP
 ### 📚 Vocabulary - Từ vựng
