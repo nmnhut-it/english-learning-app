@@ -1,0 +1,163 @@
+/* Teacher Mode Optimized Styles - Lightweight and Fast */
+
+/* Remove heavy animations */
+* {
+  animation-duration: 0.2s !important;
+  transition-duration: 0.2s !important;
+}
+
+/* Disable background animations */
+body {
+  background: #f8f9fa !important;
+  animation: none !important;
+}
+
+/* Remove floating elements */
+.orb,
+.leaf {
+  display: none !important;
+}
+
+/* Pulse animation for auto-play indicator */
+@keyframes pulse {
+  0% { opacity: 0.6; }
+  50% { opacity: 1; }
+  100% { opacity: 0.6; }
+}
+
+/* Highlight animation for IPA during auto-play */
+@keyframes ipaHighlight {
+  0% { 
+    background-color: transparent;
+    padding: 0;
+  }
+  50% { 
+    background-color: rgba(16, 185, 129, 0.1);
+    padding: 0 12px;
+    border-radius: 8px;
+  }
+  100% { 
+    background-color: transparent;
+    padding: 0;
+  }
+}
+
+/* High contrast for projectors */
+.vocabulary-word {
+  text-shadow: 1px 1px 2px rgba(0,0,0,0.1);
+}
+
+/* Keyboard shortcut badges */
+kbd {
+  background-color: #f4f4f4;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  box-shadow: 0 1px 0 rgba(0,0,0,0.2);
+  display: inline-block;
+  font-family: monospace;
+  font-size: 0.85em;
+  line-height: 1;
+  padding: 2px 4px;
+  white-space: nowrap;
+}
+
+/* Focus states for keyboard navigation */
+.content-section:focus-within {
+  outline: 3px solid #00D084;
+  outline-offset: 4px;
+}
+
+/* Vocabulary cards in list view - optimized */
+.vocab-list-item {
+  will-change: transform;
+}
+
+/* Print styles for handouts */
+@media print {
+  .MuiAppBar-root,
+  .MuiDrawer-root,
+  button,
+  .control-panel {
+    display: none !important;
+  }
+  
+  body {
+    background: white !important;
+  }
+  
+  .vocabulary-word {
+    color: black !important;
+    text-shadow: none !important;
+  }
+}
+
+/* High contrast mode for better visibility */
+@media (prefers-contrast: high) {
+  * {
+    border-width: 2px !important;
+  }
+  
+  .vocabulary-word {
+    font-weight: 900 !important;
+  }
+}
+
+/* Reduced motion for accessibility */
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation: none !important;
+    transition: none !important;
+  }
+}
+
+/* Teacher presentation mode indicators */
+.teacher-mode-indicator {
+  position: fixed;
+  top: 10px;
+  right: 10px;
+  background: #00D084;
+  color: white;
+  padding: 4px 12px;
+  border-radius: 20px;
+  font-size: 12px;
+  font-weight: 600;
+  z-index: 9999;
+  pointer-events: none;
+}
+
+/* Vocabulary focus mode highlight */
+.vocabulary-focus-mode {
+  border: 3px solid #00D084;
+  background: rgba(0, 208, 132, 0.05);
+  padding: 8px;
+  border-radius: 8px;
+  margin: 4px 0;
+}
+
+/* Large cursor for presentation */
+.presentation-mode {
+  cursor: crosshair;
+}
+
+/* Optimized card shadows */
+.MuiCard-root {
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1) !important;
+}
+
+.MuiCard-root:hover {
+  box-shadow: 0 4px 8px rgba(0,0,0,0.15) !important;
+}
+
+/* Fast transitions */
+.MuiButton-root,
+.MuiIconButton-root,
+.MuiCard-root {
+  transition: all 0.15s ease-out !important;
+}
+
+/* Remove backdrop filters for performance */
+.glass-card,
+.glass-effect {
+  backdrop-filter: none !important;
+  background: rgba(255, 255, 255, 0.95) !important;
+}

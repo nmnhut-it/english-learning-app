@@ -1,5 +1,5 @@
-import React from 'react';
-import { Box, Typography } from '@mui/material';
+import React, { useEffect } from 'react';
+import { Box, Typography, Chip } from '@mui/material';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 import { Unit } from '../types';
@@ -11,60 +11,89 @@ interface ContentPresentationProps {
   content: Unit[];
   currentSection?: string;
   fontSize?: number;
+  contentFilter?: 'all' | 'vocabulary';
+  readAloudEnabled?: boolean;
 }
 
-const ContentPresentation: React.FC<ContentPresentationProps> = ({ content, currentSection, fontSize = 20 }) => {
-  // If currentSection is empty or 'all', show all sections
+const ContentPresentation: React.FC<ContentPresentationProps> = ({ 
+  content, 
+  currentSection, 
+  fontSize = 28,
+  contentFilter = 'all',
+  readAloudEnabled = false
+}) => {
   const showAllSections = !currentSection || currentSection === 'all';
   
+  // Auto read aloud for vocabulary mode
+  useEffect(() => {
+    if (readAloudEnabled && contentFilter === 'vocabulary') {
+      // Trigger read aloud for current vocabulary section
+      const vocabElements = document.querySelectorAll('.vocabulary-word');
+      if (vocabElements.length > 0) {
+        // Read first word after a short delay
+        setTimeout(() => {
+          const firstWord = vocabElements[0]?.textContent;
+          if (firstWord && window.speechSynthesis) {
+            const utterance = new SpeechSynthesisUtterance(firstWord);
+            utterance.lang = 'en-US';
+            utterance.rate = 0.9;
+            window.speechSynthesis.speak(utterance);
+          }
+        }, 500);
+      }
+    }
+  }, [currentSection, readAloudEnabled, contentFilter]);
+  
   const renderSection = (section: any) => {
-    // Check if this is the current section (for section navigation)
     const sectionId = section.title.toLowerCase().replace(/[^\w\s-]/g, '').replace(/\s+/g, '-');
     const isCurrentSection = showAllSections || currentSection === section.title;
     
     if (!isCurrentSection) return null;
 
-    // Always show section title and render all its content
+    // In vocabulary filter mode, check if section has vocabulary
+    if (contentFilter === 'vocabulary') {
+      const hasVocabulary = section.subsections?.some((sub: any) => 
+        sub.type === 'vocabulary' || sub.content?.some((item: any) => item.type === 'vocabulary')
+      ) || section.content?.some((item: any) => item.type === 'vocabulary');
+      
+      if (!hasVocabulary) return null;
+    }
+
     return (
-      <Box key={section.title} id={sectionId} className="content-section" sx={{ mb: 3 }}>  {/* Reduced margin */}
+      <Box key={section.title} id={sectionId} className="content-section" sx={{ mb: 2 }}>
         <Box 
           sx={{ 
-            mb: 2,  // Reduced margin
-            p: 3,
-            background: 'rgba(255, 255, 255, 0.6)',
-            backdropFilter: 'blur(10px)',
-            borderRadius: '20px',
-            border: '1px solid rgba(0, 208, 132, 0.15)',
+            mb: 2,
+            p: 2,
+            background: 'rgba(255, 255, 255, 0.9)',
+            borderRadius: '12px',
+            border: '2px solid rgba(0, 208, 132, 0.2)',
             display: 'inline-block',
+            boxShadow: '0 2px 8px rgba(0,0,0,0.05)',
           }}
         >
           <Typography 
             variant="h2" 
             sx={{ 
-              fontWeight: 800, 
-              fontSize: `${fontSize * 1.25}px`,  // Only 1.25x instead of 2.5x
+              fontWeight: 700, 
+              fontSize: `${fontSize * 1.2}px`,
               color: '#000000',
               textTransform: 'uppercase',
-              letterSpacing: '0.05em',
+              letterSpacing: '0.03em',
             }}
           >
             {section.title}
           </Typography>
+          {contentFilter === 'vocabulary' && (
+            <Chip 
+              label="Vocabulary Focus" 
+              color="primary" 
+              size="small" 
+              sx={{ mt: 1 }}
+            />
+          )}
         </Box>
         
-        {/* Add section-specific labels */}
-        {section.type === 'skills-1' && (
-          <Typography variant="h4" sx={{ mb: 1, color: '#000000', fontSize: `${fontSize * 1.1}px`, fontWeight: 600 }}>  {/* Reduced margin */}
-            📖 Reading & Speaking
-          </Typography>
-        )}
-        {section.type === 'skills-2' && (
-          <Typography variant="h4" sx={{ mb: 1, color: '#000000', fontSize: `${fontSize * 1.1}px`, fontWeight: 600 }}>  {/* Reduced margin */}
-            👂 Listening & Writing
-          </Typography>
-        )}
-        
-        {/* Render all content in order */}
         {renderSectionContent(section)}
       </Box>
     );
@@ -73,28 +102,63 @@ const ContentPresentation: React.FC<ContentPresentationProps> = ({ content, curr
   const renderSectionContent = (section: any) => {
     const allContent: any[] = [];
     
-    // First, add any direct content from the section
-    if (section.content && section.content.length > 0) {
-      section.content.forEach((item: any, index: number) => {
-        allContent.push({ ...item, source: 'direct', index });
-      });
-    }
-    
-    // Then, add content from subsections in order
-    if (section.subsections && section.subsections.length > 0) {
-      section.subsections.forEach((subsection: any) => {
-        // Add subsection as a content item
-        allContent.push({ 
-          type: 'subsection', 
-          subsectionType: subsection.type,
-          title: subsection.title,
-          content: subsection.content || [],
-          source: 'subsection'
+    // Collect content based on filter
+    if (contentFilter === 'vocabulary') {
+      // Only collect vocabulary content
+      if (section.content) {
+        section.content.forEach((item: any) => {
+          if (item.type === 'vocabulary') {
+            allContent.push(item);
+          }
         });
-      });
+      }
+      
+      if (section.subsections) {
+        section.subsections.forEach((subsection: any) => {
+          if (subsection.type === 'vocabulary') {
+            allContent.push({ 
+              type: 'subsection', 
+              subsectionType: 'vocabulary',
+              title: subsection.title,
+              content: subsection.content || [],
+              source: 'subsection'
+            });
+          } else if (subsection.content) {
+            // Check for vocabulary items in other subsections
+            const vocabItems = subsection.content.filter((item: any) => item.type === 'vocabulary');
+            if (vocabItems.length > 0) {
+              allContent.push({ 
+                type: 'subsection', 
+                subsectionType: 'vocabulary',
+                title: subsection.title,
+                content: vocabItems,
+                source: 'subsection'
+              });
+            }
+          }
+        });
+      }
+    } else {
+      // Show all content
+      if (section.content && section.content.length > 0) {
+        section.content.forEach((item: any, index: number) => {
+          allContent.push({ ...item, source: 'direct', index });
+        });
+      }
+      
+      if (section.subsections && section.subsections.length > 0) {
+        section.subsections.forEach((subsection: any) => {
+          allContent.push({ 
+            type: 'subsection', 
+            subsectionType: subsection.type,
+            title: subsection.title,
+            content: subsection.content || [],
+            source: 'subsection'
+          });
+        });
+      }
     }
     
-    // Now render all content in order
     return (
       <Box>
         {allContent.map((item, index) => {
@@ -109,22 +173,23 @@ const ContentPresentation: React.FC<ContentPresentationProps> = ({ content, curr
   };
 
   const renderSubsectionContent = (subsection: any, key: number) => {
-    // Special handling for specific subsection types
     switch (subsection.subsectionType) {
       case 'vocabulary':
         return (
-          <Box key={key} sx={{ mb: 1 }}>  {/* Reduced margin */}
+          <Box key={key} sx={{ mb: 1 }}>
             <VocabularyPresentation 
               section={{
                 title: subsection.title,
                 content: subsection.content
               }} 
               fontSize={fontSize}
+              readAloudEnabled={readAloudEnabled}
             />
           </Box>
         );
         
       case 'exercises':
+        if (contentFilter === 'vocabulary') return null;
         return (
           <Box key={key} sx={{ mb: 2 }}>
             <ExercisePresentation 
@@ -137,52 +202,21 @@ const ContentPresentation: React.FC<ContentPresentationProps> = ({ content, curr
           </Box>
         );
         
-      case 'pronunciation':
-      case 'grammar':
-      case 'content':
-      case 'activities':
-      case 'listening':
-      case 'reading':
-      case 'speaking':
-      case 'writing':
-        return (
-          <Box key={key} sx={{ mb: 2 }}>
-            <Box 
-              sx={{ 
-                mb: 2,
-                p: 2,
-                background: 'rgba(0, 208, 132, 0.05)',
-                borderRadius: '15px',
-                display: 'inline-block',
-              }}
-            >
-              <Typography variant="h3" sx={{ fontWeight: 700, fontSize: `${fontSize * 1.15}px` }}>
-                {subsection.title}
-              </Typography>
-            </Box>
-            <Box>
-              {subsection.content.map((item: any, idx: number) => 
-                renderContentItem(item, `${key}-${idx}`)
-              )}
-            </Box>
-          </Box>
-        );
-        
       default:
-        // Generic subsection rendering
+        if (contentFilter === 'vocabulary') return null;
         return (
           <Box key={key} sx={{ mb: 2 }}>
             {subsection.title && (
               <Box 
                 sx={{ 
-                  mb: 2,
-                  p: 2,
-                  background: 'rgba(0, 208, 132, 0.05)',
-                  borderRadius: '15px',
+                  mb: 1.5,
+                  p: 1.5,
+                  background: 'rgba(0, 208, 132, 0.08)',
+                  borderRadius: '8px',
                   display: 'inline-block',
                 }}
               >
-                <Typography variant="h3" sx={{ fontWeight: 700, fontSize: `${fontSize * 1.15}px` }}>
+                <Typography variant="h3" sx={{ fontWeight: 600, fontSize: `${fontSize * 1.1}px` }}>
                   {subsection.title}
                 </Typography>
               </Box>
@@ -198,28 +232,32 @@ const ContentPresentation: React.FC<ContentPresentationProps> = ({ content, curr
   };
 
   const renderContentItem = (item: any, key: any) => {
+    if (contentFilter === 'vocabulary' && item.type !== 'vocabulary') {
+      return null;
+    }
+
     if (item.type === 'text') {
       return (
         <Box key={key} sx={{ 
           fontSize: `${fontSize}px`,
-          '& p': { mb: 1 },
-          '& ol, & ul': { mb: 1, pl: 3 },
-          '& li': { mb: 0.5, fontSize: 'inherit' },
+          '& p': { mb: 1.5, lineHeight: 1.6 },
+          '& ol, & ul': { mb: 2, pl: 3 },
+          '& li': { mb: 1, fontSize: 'inherit', lineHeight: 1.6 },
           '& table': { 
             width: '100%',
             borderCollapse: 'collapse',
             mb: 3,
           },
           '& th, & td': {
-            border: '1px solid',
+            border: '2px solid',
             borderColor: 'divider',
             p: 2,
             textAlign: 'left',
             fontSize: 'inherit',
           },
           '& th': {
-            backgroundColor: 'grey.100',
-            fontWeight: 600,
+            backgroundColor: 'rgba(0, 208, 132, 0.1)',
+            fontWeight: 700,
           },
           '& strong': {
             color: '#000000',
@@ -229,10 +267,6 @@ const ContentPresentation: React.FC<ContentPresentationProps> = ({ content, curr
             color: 'rgba(0, 0, 0, 0.7)',
             fontSize: '0.9em',
           },
-          '& h1, & h2, & h3, & h4, & h5, & h6': {
-            mt: 3,
-            mb: 2,
-          },
         }}>
           <ReactMarkdown remarkPlugins={[remarkGfm]}>
             {item.value}
@@ -241,34 +275,36 @@ const ContentPresentation: React.FC<ContentPresentationProps> = ({ content, curr
       );
     } else if (item.type === 'dialogue') {
       return (
-        <Box key={key} sx={{ mb: 1.5, pl: 2, borderLeft: '3px solid', borderColor: 'primary.light' }}>
-          <Typography variant="body1" sx={{ fontWeight: 600, fontSize: `${fontSize}px`, mb: 0.25, color: '#000000' }}>
+        <Box key={key} sx={{ mb: 2, pl: 2, borderLeft: '4px solid', borderColor: 'primary.main' }}>
+          <Typography variant="body1" sx={{ fontWeight: 700, fontSize: `${fontSize}px`, mb: 0.5, color: '#000000' }}>
             {item.speaker}:
           </Typography>
-          <Typography variant="body1" sx={{ fontSize: `${fontSize}px`, mb: 0.5, color: '#000000' }}>
+          <Typography variant="body1" sx={{ fontSize: `${fontSize}px`, mb: 0.5, color: '#000000', lineHeight: 1.6 }}>
             {item.text}
           </Typography>
           {item.translation && (
-            <Typography variant="body1" sx={{ fontStyle: 'italic', color: 'rgba(0, 0, 0, 0.7)', fontSize: `${fontSize * 0.9}px` }}>
+            <Typography variant="body1" sx={{ fontStyle: 'italic', color: 'rgba(0, 0, 0, 0.7)', fontSize: `${fontSize * 0.85}px` }}>
               {item.translation}
             </Typography>
           )}
         </Box>
       );
     } else if (item.type === 'vocabulary') {
-      // Normalize vocabulary fields
       const word = item.english || item.word || '';
       const meaning = item.vietnamese || item.meaning || '';
       
-      // Inline vocabulary display with balanced sizing
       return (
-        <Box key={key} sx={{ mb: 0.5 }}>
-          <Typography variant="body1" sx={{ fontSize: `${fontSize}px` }}>
-            {item.number && `${item.number}. `}
-            <strong style={{ fontWeight: 700 }}>{word}</strong>
-            {item.partOfSpeech && ` (${item.partOfSpeech})`} - 
-            <span style={{ fontStyle: 'italic', color: 'rgba(0, 0, 0, 0.8)' }}>{meaning}</span> - 
-            <em style={{ color: 'rgba(0, 0, 0, 0.6)' }}>{item.pronunciation}</em>
+        <Box key={key} sx={{ mb: 1.5, p: 1, borderRadius: '4px', bgcolor: 'rgba(0, 208, 132, 0.05)' }}>
+          <Typography variant="body1" sx={{ fontSize: `${fontSize}px`, lineHeight: 1.6 }}>
+            {item.number && <strong>{item.number}. </strong>}
+            <strong className="vocabulary-word" style={{ fontWeight: 700, fontSize: `${fontSize * 1.1}px` }}>{word}</strong>
+            {item.partOfSpeech && <span style={{ color: 'rgba(0, 0, 0, 0.6)' }}> ({item.partOfSpeech})</span>} - 
+            <span style={{ fontStyle: 'italic', color: 'rgba(0, 0, 0, 0.8)', marginLeft: '8px' }}>{meaning}</span>
+            {item.pronunciation && (
+              <em style={{ color: 'rgba(0, 0, 0, 0.6)', marginLeft: '8px', fontSize: `${fontSize * 0.9}px` }}>
+                [{item.pronunciation}]
+              </em>
+            )}
           </Typography>
         </Box>
       );
@@ -276,120 +312,36 @@ const ContentPresentation: React.FC<ContentPresentationProps> = ({ content, curr
     return null;
   };
 
-  const renderGenericContent = (section: any) => {
-    if (!section.content) return null;
-
-    return (
-      <Box sx={{ 
-        fontSize: `${fontSize}px`,
-        '& p': { mb: 1 },
-        '& ol, & ul': { mb: 1, pl: 3 },
-        '& li': { mb: 0.5, fontSize: 'inherit' },
-        '& table': { 
-          width: '100%',
-          borderCollapse: 'collapse',
-          mb: 3,
-        },
-        '& th, & td': {
-          border: '1px solid',
-          borderColor: 'divider',
-          p: 2,
-          textAlign: 'left',
-        },
-        '& th': {
-          backgroundColor: 'grey.100',
-          fontWeight: 600,
-        },
-        '& strong': {
-        color: '#000000',
-          fontWeight: 700,
-        },
-        '& em': {
-        color: 'rgba(0, 0, 0, 0.7)',
-          fontSize: '0.9em',
-          },
-        '& blockquote': {
-          borderLeft: '4px solid rgba(0, 208, 132, 0.5)',
-          pl: 3,
-          ml: 0,
-          my: 3,
-          fontStyle: 'italic',
-          color: 'rgba(0, 0, 0, 0.8)',
-        },
-        '& code': {
-          backgroundColor: 'grey.100',
-          px: 1,
-          py: 0.5,
-          borderRadius: 0.5,
-          fontFamily: 'monospace',
-        },
-        '& pre': {
-          backgroundColor: 'grey.100',
-          p: 2,
-          borderRadius: 1,
-          overflow: 'auto',
-          '& code': {
-            backgroundColor: 'transparent',
-            p: 0,
-          },
-        },
-      }}>
-        {section.content.map((item: any, index: number) => {
-          if (item.type === 'text') {
-            return (
-              <ReactMarkdown key={index} remarkPlugins={[remarkGfm]}>
-                {item.value}
-              </ReactMarkdown>
-            );
-          } else if (item.type === 'dialogue') {
-            return (
-              <Box key={index} sx={{ mb: 1.5, pl: 2, borderLeft: '3px solid', borderColor: 'primary.light' }}>
-                <Typography variant="body1" sx={{ fontWeight: 600, fontSize: `${fontSize}px`, mb: 0.25, color: '#000000' }}>
-                  {item.speaker}:
-                </Typography>
-                <Typography variant="body1" sx={{ fontSize: `${fontSize}px`, mb: 0.5, color: '#000000' }}>
-                  {item.text}
-                </Typography>
-                {item.translation && (
-                  <Typography variant="body1" sx={{ fontStyle: 'italic', color: 'rgba(0, 0, 0, 0.7)', fontSize: `${fontSize * 0.9}px` }}>
-                    {item.translation}
-                  </Typography>
-                )}
-              </Box>
-            );
-          } else if (item.type === 'vocabulary') {
-            // Normalize vocabulary fields
-            const word = item.english || item.word || '';
-            const meaning = item.vietnamese || item.meaning || '';
-            
-            // Inline vocabulary in generic content with balanced sizing
-            return (
-              <Box key={index} sx={{ mb: 0.5 }}>
-                <Typography variant="body1" sx={{ fontSize: `${fontSize}px` }}>
-                  {item.number && `${item.number}. `}
-                  <strong style={{ fontWeight: 700 }}>{word}</strong>
-                  {item.partOfSpeech && ` (${item.partOfSpeech})`} - 
-                  <span style={{ fontStyle: 'italic', color: 'rgba(0, 0, 0, 0.8)' }}>{meaning}</span> - 
-                  <em style={{ color: 'rgba(0, 0, 0, 0.6)' }}>{item.pronunciation}</em>
-                </Typography>
-              </Box>
-            );
-          }
-          return null;
-        })}
-      </Box>
-    );
-  };
-
   return (
-    <Box>
+    <Box sx={{ px: 3, py: 2 }}>
+      {contentFilter === 'vocabulary' && (
+        <Box sx={{ mb: 3, p: 2, bgcolor: 'primary.main', color: 'white', borderRadius: 2, textAlign: 'center' }}>
+          <Typography variant="h4" sx={{ fontWeight: 700, fontSize: `${fontSize}px` }}>
+            📚 Vocabulary Focus Mode
+          </Typography>
+          <Typography variant="body2" sx={{ mt: 1, fontSize: `${fontSize * 0.7}px` }}>
+            Press V to toggle • Use arrow keys to navigate
+          </Typography>
+        </Box>
+      )}
+      
       {content.map((unit) => (
         <Box key={unit.title}>
           <Typography
             variant="h1"
             id={unit.title.toLowerCase().replace(/[^\w\s-]/g, '').replace(/\s+/g, '-')}
-            className="holographic-text"
-            sx={{ mb: 4, fontWeight: 800, fontSize: `${fontSize * 1.5}px`, textAlign: 'center', color: '#000000' }}
+            sx={{ 
+              mb: 3, 
+              fontWeight: 800, 
+              fontSize: `${fontSize * 1.3}px`, 
+              textAlign: 'center', 
+              color: '#000000',
+              textTransform: 'uppercase',
+              letterSpacing: '0.05em',
+              borderBottom: '3px solid',
+              borderColor: 'primary.main',
+              pb: 2,
+            }}
           >
             {unit.title}
           </Typography>

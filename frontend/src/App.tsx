@@ -1,95 +1,86 @@
 import React, { useState, useEffect, useCallback } from 'react';
 import { ThemeProvider, createTheme } from '@mui/material/styles';
 import CssBaseline from '@mui/material/CssBaseline';
-import { Box, Typography, ToggleButton, ToggleButtonGroup, Tooltip, IconButton } from '@mui/material';
+import { Box, Typography, ToggleButton, ToggleButtonGroup, Tooltip, IconButton, Chip, Divider } from '@mui/material';
 import ViewModuleIcon from '@mui/icons-material/ViewModule';
 import ArticleIcon from '@mui/icons-material/Article';
 import AddIcon from '@mui/icons-material/Add';
 import RemoveIcon from '@mui/icons-material/Remove';
+import MenuBookIcon from '@mui/icons-material/MenuBook';
+import SchoolIcon from '@mui/icons-material/School';
+import KeyboardIcon from '@mui/icons-material/Keyboard';
+import VolumeUpIcon from '@mui/icons-material/VolumeUp';
 import PresentationLayout from './components/PresentationLayout';
 import ContentPresentation from './components/ContentPresentation';
 import PlainMarkdownViewer from './components/PlainMarkdownViewer';
 import { FileTreeNode, Heading } from './types';
 import axios from 'axios';
-import './styles/holographic-theme.css';
+import './styles/teacher-mode.css';
 
-// Add parallax effect on mouse move
-if (typeof window !== 'undefined') {
-  document.addEventListener('mousemove', (e) => {
-    const orbs = document.querySelectorAll('.orb');
-    const x = e.clientX / window.innerWidth;
-    const y = e.clientY / window.innerHeight;
-    
-    orbs.forEach((orb, index) => {
-      const speed = (index + 1) * 20;
-      (orb as HTMLElement).style.transform = `translate(${x * speed}px, ${y * speed}px)`;
-    });
-  });
-}
-
+// Lightweight theme with reduced animations
 const theme = createTheme({
   palette: {
     mode: 'light',
     primary: {
-      main: '#00D084',  // Bio-tech green
-      light: '#4ADE80',  // Light green
-      dark: '#059669',   // Deep forest green
+      main: '#00D084',
+      light: '#4ADE80',
+      dark: '#059669',
     },
     secondary: {
-      main: '#10B981',   // Emerald
-      light: '#86EFAC',  // Mint
-      dark: '#047857',   // Dark emerald
+      main: '#10B981',
+      light: '#86EFAC',
+      dark: '#047857',
     },
     background: {
-      default: '#ffffff',
-      paper: 'rgba(255, 255, 255, 0.8)',
+      default: '#f8f9fa',
+      paper: 'rgba(255, 255, 255, 0.95)',
     },
     text: {
-      primary: '#000000',      // Pure black for maximum readability
-      secondary: 'rgba(0, 0, 0, 0.7)',  // Dark gray
+      primary: '#000000',
+      secondary: 'rgba(0, 0, 0, 0.7)',
     },
   },
   typography: {
     fontFamily: '"Inter", "Roboto", "Helvetica", "Arial", sans-serif',
-    // Balanced sizes for classroom projection - minimal size variation
+    // Teacher-optimized sizes - reduced hierarchy
     h1: {
-      fontSize: '3rem',      // Reduced from 6rem
+      fontSize: '2.5rem',
       fontWeight: 800,
       lineHeight: 1.2,
       color: '#000000',
     },
     h2: {
-      fontSize: '2.5rem',    // Reduced from 5rem
+      fontSize: '2.25rem',
       fontWeight: 700,
       lineHeight: 1.3,
       color: '#000000',
     },
     h3: {
-      fontSize: '2.25rem',   // Reduced from 4rem
+      fontSize: '2rem',
       fontWeight: 600,
       lineHeight: 1.3,
       color: '#000000',
     },
     h4: {
-      fontSize: '2rem',      // Reduced from 3.2rem
+      fontSize: '1.875rem',
       fontWeight: 600,
       lineHeight: 1.4,
       color: '#000000',
     },
     h5: {
-      fontSize: '1.75rem',   // Reduced from 2.5rem
+      fontSize: '1.75rem',
       fontWeight: 500,
       lineHeight: 1.4,
       color: '#000000',
     },
     body1: {
-      fontSize: '2rem',      // Kept same - this is the base
+      fontSize: '1.75rem',
       lineHeight: 1.8,
       fontWeight: 400,
       color: '#000000',
     },
     body2: {
-      fontSize: '1.75rem',   // Slightly smaller
+      fontSize: '1.625rem',
       lineHeight: 1.7,
       color: '#000000',
     },
@@ -98,15 +89,13 @@ const theme = createTheme({
     MuiCssBaseline: {
       styleOverrides: {
         body: {
-          background: 'linear-gradient(135deg, #E6FFFA 0%, #D1FAE5 40%, #A7F3D0 100%)',
-          backgroundSize: '400% 400%',
-          animation: 'gradientShift 25s ease infinite',
+          background: '#f8f9fa',
           minHeight: '100vh',
         },
-        '@keyframes gradientShift': {
-          '0%': { backgroundPosition: '0% 50%' },
-          '50%': { backgroundPosition: '100% 50%' },
-          '100%': { backgroundPosition: '0% 50%' },
+        // Remove animations for better performance
+        '*': {
+          animationDuration: '0.2s !important',
+          transitionDuration: '0.2s !important',
         },
       },
     },
@@ -116,6 +105,7 @@ const theme = createTheme({
 const API_URL = 'http://localhost:3001/api';
 
 type ViewMode = 'structured' | 'plain';
+type ContentFilter = 'all' | 'vocabulary';
 
 function App() {
   const [files, setFiles] = useState<FileTreeNode | null>(null);
@@ -127,7 +117,10 @@ function App() {
   const [currentSection, setCurrentSection] = useState<string>('');
   const [sections, setSections] = useState<string[]>([]);
   const [viewMode, setViewMode] = useState<ViewMode>('structured');
-  const [structuredFontSize, setStructuredFontSize] = useState<number>(20); // Base font size optimized for screen
+  const [contentFilter, setContentFilter] = useState<ContentFilter>('all');
+  const [structuredFontSize, setStructuredFontSize] = useState<number>(28); // Default 28px
+  const [readAloudEnabled, setReadAloudEnabled] = useState(false);
+  const [showHotkeys, setShowHotkeys] = useState(false);
 
   useEffect(() => {
     fetchFiles();
@@ -138,7 +131,6 @@ function App() {
     if (content && content.length > 0 && content[0].sections) {
       const sectionTitles = content[0].sections.map((section: any) => section.title);
       setSections(sectionTitles);
-      // Only set first section if currentSection is empty
       if (!currentSection && sectionTitles.length > 0) {
         setCurrentSection(sectionTitles[0]);
       }
@@ -150,7 +142,6 @@ function App() {
       const response = await axios.get(`${API_URL}/markdown/files`);
       setFiles(response.data);
       
-      // Auto-select first file if exists
       if (!selectedFile) {
         const firstFile = findFirstFile(response.data);
         if (firstFile) {
@@ -175,31 +166,14 @@ function App() {
 
   const handleFileSelect = async (path: string) => {
     setLoading(true);
-    setCurrentSection(''); // Reset section when changing files
+    setCurrentSection('');
     try {
       const response = await axios.get(`${API_URL}/markdown/content`, {
         params: { path }
       });
       
-      console.log('\n=== API Response ===');
-      console.log('response.data:', response.data);
-      console.log('typeof response.data.content:', typeof response.data.content);
-      
       const parsedContent = JSON.parse(response.data.content);
-      console.log('\n=== Parsed Content ===');
-      console.log('parsedContent:', parsedContent);
       
-      // Check vocabulary in parsed content
-      if (parsedContent[0]?.sections?.[0]?.subsections) {
-        const vocabSubsection = parsedContent[0].sections[0].subsections.find((sub: any) => sub.type === 'vocabulary');
-        if (vocabSubsection) {
-          console.log('\n=== Vocabulary Subsection Found ===');
-          console.log('First vocab item:', vocabSubsection.content[0]);
-          console.log('Type of first item:', typeof vocabSubsection.content[0]);
-        }
-      }
-      
-      // Also fetch raw content for plain view
       const rawResponse = await axios.get(`${API_URL}/markdown/raw`, {
         params: { path }
       });
@@ -216,7 +190,7 @@ function App() {
   };
 
   const handleSectionChange = useCallback((direction: 'prev' | 'next') => {
-    if (viewMode === 'plain') return; // No section navigation in plain mode
+    if (viewMode === 'plain') return;
     
     const currentIndex = sections.findIndex(s => s === currentSection);
     if (direction === 'next' && currentIndex < sections.length - 1) {
@@ -226,33 +200,92 @@ function App() {
     }
   }, [viewMode, sections, currentSection]);
 
-  // Add keyboard navigation and font size controls
+  // Enhanced keyboard navigation for teachers
   useEffect(() => {
     const handleKeyPress = (e: KeyboardEvent) => {
+      // Show/hide hotkey help
+      if (e.key === 'F1') {
+        e.preventDefault();
+        setShowHotkeys(!showHotkeys);
+        return;
+      }
+
       if (viewMode === 'plain') return;
       
+      // Font size controls
       if (e.ctrlKey || e.metaKey) {
         switch (e.key) {
           case '=':
           case '+':
             e.preventDefault();
-            setStructuredFontSize(prev => Math.min(32, prev + 2));
+            setStructuredFontSize(prev => Math.min(48, prev + 2));
             break;
           case '-':
             e.preventDefault();
             setStructuredFontSize(prev => Math.max(16, prev - 2));
             break;
+          case '0':
+            e.preventDefault();
+            setStructuredFontSize(28); // Reset to default
+            break;
         }
-      } else if (e.key === 'ArrowLeft') {
-        handleSectionChange('prev');
-      } else if (e.key === 'ArrowRight') {
-        handleSectionChange('next');
+        return;
+      }
+
+      // Single key navigation for teachers
+      switch (e.key) {
+        case 'ArrowLeft':
+          handleSectionChange('prev');
+          break;
+        case 'ArrowRight':
+          handleSectionChange('next');
+          break;
+        case 'v':
+        case 'V':
+          // Toggle vocabulary mode
+          setContentFilter(prev => prev === 'vocabulary' ? 'all' : 'vocabulary');
+          break;
+        case 'p':
+        case 'P':
+          // Toggle between plain and structured
+          setViewMode(prev => prev === 'plain' ? 'structured' : 'plain');
+          break;
+        case 'r':
+        case 'R':
+          // Toggle read aloud
+          setReadAloudEnabled(prev => !prev);
+          break;
+        case 'Home':
+          if (sections.length > 0) {
+            setCurrentSection(sections[0]);
+          }
+          break;
+        case 'End':
+          if (sections.length > 0) {
+            setCurrentSection(sections[sections.length - 1]);
+          }
+          break;
+        // Number keys for section navigation
+        case '1':
+        case '2':
+        case '3':
+        case '4':
+        case '5':
+        case '6':
+        case '7':
+        case '8':
+        case '9':
+          const sectionNum = parseInt(e.key) - 1;
+          if (sectionNum < sections.length) {
+            setCurrentSection(sections[sectionNum]);
+          }
+          break;
       }
     };
 
     window.addEventListener('keydown', handleKeyPress);
     return () => window.removeEventListener('keydown', handleKeyPress);
-  }, [viewMode, handleSectionChange]);
+  }, [viewMode, handleSectionChange, sections, showHotkeys]);
 
   const handleSectionSelect = (section: string) => {
     setCurrentSection(section);
@@ -285,29 +318,65 @@ function App() {
       return <PlainMarkdownViewer content={rawContent} />;
     }
 
-    return <ContentPresentation key={structuredFontSize} content={content} currentSection={currentSection} fontSize={structuredFontSize} />;
-  }, [loading, content, rawContent, viewMode, currentSection, structuredFontSize]);
+    return (
+      <ContentPresentation 
+        key={`${structuredFontSize}-${contentFilter}`} 
+        content={content} 
+        currentSection={currentSection} 
+        fontSize={structuredFontSize}
+        contentFilter={contentFilter}
+        readAloudEnabled={readAloudEnabled}
+      />
+    );
+  }, [loading, content, rawContent, viewMode, currentSection, structuredFontSize, contentFilter, readAloudEnabled]);
 
   return (
     <ThemeProvider theme={theme}>
       <CssBaseline />
-      {/* Floating orbs for organic depth */}
-      <div className="orb orb1" />
-      <div className="orb orb2" />
-      <div className="orb orb3" />
       
-      {/* Floating leaves for garden effect */}
-      {[...Array(5)].map((_, i) => (
-        <div 
-          key={i} 
-          className="leaf" 
-          style={{ 
-            left: `${Math.random() * 100}%`, 
-            animationDelay: `${i * 3}s`,
-            animationDuration: `${15 + Math.random() * 10}s`
-          }} 
-        />
-      ))}
+      {/* Hotkey Help Overlay */}
+      {showHotkeys && (
+        <Box
+          sx={{
+            position: 'fixed',
+            top: '50%',
+            left: '50%',
+            transform: 'translate(-50%, -50%)',
+            bgcolor: 'background.paper',
+            boxShadow: 24,
+            p: 4,
+            borderRadius: 2,
+            zIndex: 9999,
+            maxWidth: 500,
+          }}
+        >
+          <Typography variant="h5" sx={{ mb: 2, fontWeight: 700 }}>
+            🎯 Teacher Hotkeys
+          </Typography>
+          <Box sx={{ display: 'grid', gap: 1 }}>
+            <Typography><kbd>V</kbd> - Toggle Vocabulary Mode</Typography>
+            <Typography><kbd>P</kbd> - Switch Plain/Structured View</Typography>
+            <Typography><kbd>R</kbd> - Toggle Read Aloud</Typography>
+            <Typography><kbd>←/→</kbd> - Navigate Sections</Typography>
+            <Typography><kbd>1-9</kbd> - Jump to Section (by number)</Typography>
+            <Typography><kbd>Ctrl +/-</kbd> - Adjust Font Size</Typography>
+            <Typography><kbd>Ctrl 0</kbd> - Reset Font Size</Typography>
+            <Typography><kbd>Home/End</kbd> - First/Last Section</Typography>
+            <Typography><kbd>F1</kbd> - Toggle This Help</Typography>
+            <Divider sx={{ my: 1 }} />
+            <Typography variant="body2" sx={{ fontWeight: 600 }}>In Vocabulary Mode:</Typography>
+            <Typography><kbd>←→↑↓</kbd> or <kbd>,.</kbd> - Navigate Words</Typography>
+            <Typography><kbd>1-9</kbd> - Jump to Word (by number)</Typography>
+            <Typography><kbd>Space</kbd> - Speak Word</Typography>
+            <Typography><kbd>Enter</kbd> - Show/Hide Meaning</Typography>
+            <Typography><kbd>A</kbd> - Auto-play</Typography>
+            <Typography variant="body2" sx={{ mt: 1 }}>🖱️ Also supports mouse wheel & touch swipe!</Typography>
+          </Box>
+          <Typography sx={{ mt: 2, fontStyle: 'italic' }}>
+            Press F1 to close
+          </Typography>
+        </Box>
+      )}
       
       <PresentationLayout
         files={files}
@@ -320,6 +389,16 @@ function App() {
         showSectionControls={viewMode === 'structured'}
         extraControls={
           <Box sx={{ display: 'flex', alignItems: 'center', gap: 1, ml: 2 }}>
+            {/* Teacher Mode Indicator */}
+            <Chip
+              icon={<SchoolIcon />}
+              label="Teacher Mode"
+              color="primary"
+              size="small"
+              sx={{ mr: 1 }}
+            />
+            
+            {/* View Mode Toggle */}
             <ToggleButtonGroup
               value={viewMode}
               exclusive
@@ -327,17 +406,47 @@ function App() {
               size="small"
             >
               <ToggleButton value="structured">
-                <Tooltip title="Structured View">
+                <Tooltip title="Structured View (P)">
                   <ViewModuleIcon />
                 </Tooltip>
               </ToggleButton>
               <ToggleButton value="plain">
-                <Tooltip title="Plain Markdown">
+                <Tooltip title="Plain Markdown (P)">
                   <ArticleIcon />
                 </Tooltip>
               </ToggleButton>
             </ToggleButtonGroup>
             
+            {/* Vocabulary Filter - Only in structured mode */}
+            {viewMode === 'structured' && (
+              <ToggleButton
+                value="vocabulary"
+                selected={contentFilter === 'vocabulary'}
+                onChange={() => setContentFilter(prev => prev === 'vocabulary' ? 'all' : 'vocabulary')}
+                size="small"
+                sx={{ ml: 1 }}
+              >
+                <Tooltip title="Vocabulary Only (V)">
+                  <MenuBookIcon />
+                </Tooltip>
+              </ToggleButton>
+            )}
+            
+            {/* Read Aloud Toggle */}
+            {viewMode === 'structured' && (
+              <ToggleButton
+                value="readAloud"
+                selected={readAloudEnabled}
+                onChange={() => setReadAloudEnabled(!readAloudEnabled)}
+                size="small"
+              >
+                <Tooltip title="Read Aloud (R)">
+                  <VolumeUpIcon />
+                </Tooltip>
+              </ToggleButton>
+            )}
+            
+            {/* Font Size Controls */}
             {viewMode === 'structured' && (
               <Box sx={{ 
                 display: 'flex', 
@@ -367,8 +476,6 @@ function App() {
                     textAlign: 'center',
                     fontWeight: 600,
                     color: 'primary.main',
-                    transition: 'all 0.2s ease',
-                    transform: structuredFontSize === 16 ? 'scale(1)' : 'scale(1.1)'
                   }}
                 >
                   {structuredFontSize}px
@@ -376,8 +483,8 @@ function App() {
                 <Tooltip title="Increase font size (Ctrl +)">
                   <IconButton 
                     size="small" 
-                    onClick={() => setStructuredFontSize(prev => Math.min(32, prev + 2))}
-                    disabled={structuredFontSize >= 32}
+                    onClick={() => setStructuredFontSize(prev => Math.min(48, prev + 2))}
+                    disabled={structuredFontSize >= 48}
                     sx={{ p: 0.5 }}
                   >
                     <AddIcon fontSize="small" />
@@ -385,6 +492,17 @@ function App() {
                 </Tooltip>
               </Box>
             )}
+            
+            {/* Hotkey Help */}
+            <Tooltip title="Show Hotkeys (F1)">
+              <IconButton
+                size="small"
+                onClick={() => setShowHotkeys(!showHotkeys)}
+                sx={{ ml: 1 }}
+              >
+                <KeyboardIcon />
+              </IconButton>
+            </Tooltip>
           </Box>
         }
       >
