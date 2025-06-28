@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useRef } from 'react';
+import React, { useState, useEffect, useRef, useCallback } from 'react';
 import { Box, Button, Typography, Paper, LinearProgress, Chip } from '@mui/material';
 import SportsEsportsIcon from '@mui/icons-material/SportsEsports';
 import CloseIcon from '@mui/icons-material/Close';
@@ -29,7 +29,7 @@ interface VocabHootProps {
 
 const VocabHoot: React.FC<VocabHootProps> = ({ vocabulary, onClose, sectionTitle }) => {
   const [gameState, setGameState] = useState<'welcome' | 'playing' | 'results'>('welcome');
-  const [currentQuestion, setCurrentQuestion] = useState(0);
+  const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
   const [score, setScore] = useState(0);
   const [correctAnswers, setCorrectAnswers] = useState(0);
   const [streak, setStreak] = useState(0);
@@ -37,16 +37,43 @@ const VocabHoot: React.FC<VocabHootProps> = ({ vocabulary, onClose, sectionTitle
   const [timeLeft, setTimeLeft] = useState(7);
   const [isAnswered, setIsAnswered] = useState(false);
   const [selectedAnswer, setSelectedAnswer] = useState<string | null>(null);
+  const [currentQuestion, setCurrentQuestion] = useState<Question | null>(null);
+  const [usedWords, setUsedWords] = useState<Set<number>>(new Set());
+  
   const timerRef = useRef<NodeJS.Timeout | null>(null);
+  const transitionTimerRef = useRef<NodeJS.Timeout | null>(null);
 
   const QUESTION_TIME = 7; // seconds
-  const MAX_QUESTIONS = Math.min(vocabulary.length * 2, 20); // More questions with varied types
+  const TRANSITION_TIME = 2000; // milliseconds
+  const MAX_QUESTIONS = Math.min(vocabulary.length * 2, 20);
 
-  // Reset timer when question changes
+  // Clean up timers on unmount
+  useEffect(() => {
+    return () => {
+      if (timerRef.current) clearInterval(timerRef.current);
+      if (transitionTimerRef.current) clearTimeout(transitionTimerRef.current);
+    };
+  }, []);
+
+  // Generate question when index changes
   useEffect(() => {
     if (gameState === 'playing' && !isAnswered) {
+      generateNewQuestion();
+    }
+  }, [currentQuestionIndex, gameState]);
+
+  // Timer management
+  useEffect(() => {
+    if (gameState === 'playing' && !isAnswered && currentQuestion) {
+      // Clear any existing timer
+      if (timerRef.current) {
+        clearInterval(timerRef.current);
+      }
+
+      // Reset time
       setTimeLeft(QUESTION_TIME);
       
+      // Start new timer
       timerRef.current = setInterval(() => {
         setTimeLeft((prev) => {
           if (prev <= 1) {
@@ -57,76 +84,122 @@ const VocabHoot: React.FC<VocabHootProps> = ({ vocabulary, onClose, sectionTitle
         });
       }, 1000);
 
+      // Cleanup
       return () => {
-        if (timerRef.current) clearInterval(timerRef.current);
+        if (timerRef.current) {
+          clearInterval(timerRef.current);
+        }
       };
+    } else {
+      // Clear timer if answered or not playing
+      if (timerRef.current) {
+        clearInterval(timerRef.current);
+      }
     }
-  }, [currentQuestion, gameState, isAnswered]);
+  }, [gameState, isAnswered, currentQuestion]);
 
-  const handleTimeout = () => {
-    setIsAnswered(true);
-    setStreak(0);
-    if (timerRef.current) clearInterval(timerRef.current);
-    
-    setTimeout(() => {
-      nextQuestion();
-    }, 2000);
-  };
+  const handleTimeout = useCallback(() => {
+    if (!isAnswered) {
+      setIsAnswered(true);
+      setStreak(0);
+      
+      // Clear the interval timer
+      if (timerRef.current) {
+        clearInterval(timerRef.current);
+        timerRef.current = null;
+      }
+      
+      // Advance after delay
+      transitionTimerRef.current = setTimeout(() => {
+        moveToNextQuestion();
+      }, TRANSITION_TIME);
+    }
+  }, [isAnswered]);
 
-  // Enhanced question generator with multiple types
-  const generateQuestion = (): Question | null => {
-    if (!vocabulary || vocabulary.length === 0) return null;
+  const generateNewQuestion = () => {
+    if (!vocabulary || vocabulary.length === 0) return;
     
-    // Determine question type based on progress and performance
+    // Get a random word that hasn't been used too much
+    let wordIndex: number;
+    let attempts = 0;
+    
+    do {
+      wordIndex = Math.floor(Math.random() * vocabulary.length);
+      attempts++;
+    } while (usedWords.has(wordIndex) && attempts < 10 && usedWords.size < vocabulary.length);
+    
+    // If all words have been used, reset
+    if (usedWords.size >= vocabulary.length) {
+      setUsedWords(new Set());
+    } else {
+      setUsedWords(prev => new Set(prev).add(wordIndex));
+    }
+    
+    const word = vocabulary[wordIndex];
+    
+    // Determine question type based on progress
     const questionTypes = ['translation_en_vn', 'translation_vn_en'];
     
-    // Add more complex types after warming up
-    if (currentQuestion > 3) {
+    if (currentQuestionIndex > 3 && word.english.length > 3) {
       questionTypes.push('missing_letters');
-      if (currentQuestion > 6) {
-        questionTypes.push('context');
-      }
+    }
+    if (currentQuestionIndex > 6) {
+      questionTypes.push('context');
     }
     
     const type = questionTypes[Math.floor(Math.random() * questionTypes.length)] as Question['type'];
-    const wordIndex = currentQuestion % vocabulary.length;
-    const currentWord = vocabulary[wordIndex];
+    
+    let question: Question;
     
     switch (type) {
       case 'translation_en_vn':
-        return generateTranslationQuestion(currentWord, false);
-      
+        question = generateTranslationQuestion(word, false);
+        break;
       case 'translation_vn_en':
-        return generateTranslationQuestion(currentWord, true);
-      
+        question = generateTranslationQuestion(word, true);
+        break;
       case 'missing_letters':
-        return generateMissingLettersQuestion(currentWord);
-      
+        question = generateMissingLettersQuestion(word);
+        break;
       case 'context':
-        return generateContextQuestion(currentWord);
-      
+        question = generateContextQuestion(word);
+        break;
       default:
-        return generateTranslationQuestion(currentWord, false);
+        question = generateTranslationQuestion(word, false);
     }
+    
+    setCurrentQuestion(question);
   };
 
   const generateTranslationQuestion = (word: VocabularyItem, reverse: boolean): Question => {
     const question = reverse ? word.vietnamese : word.english;
     const correctAnswer = reverse ? word.english : word.vietnamese;
     
-    // Get wrong answers
+    // Get wrong answers - make sure they're unique
     const wrongAnswers = vocabulary
-      .filter(v => (reverse ? v.english : v.vietnamese) !== correctAnswer)
+      .filter(v => {
+        const answer = reverse ? v.english : v.vietnamese;
+        return answer !== correctAnswer;
+      })
       .sort(() => Math.random() - 0.5)
       .slice(0, 3)
       .map(v => reverse ? v.english : v.vietnamese);
     
-    const allAnswers = [correctAnswer, ...wrongAnswers].sort(() => Math.random() - 0.5);
+    // Ensure we have 4 unique options
+    const uniqueAnswers = Array.from(new Set([correctAnswer, ...wrongAnswers])).slice(0, 4);
+    
+    // If we don't have enough unique answers, add some dummy ones
+    while (uniqueAnswers.length < 4) {
+      uniqueAnswers.push(`Option ${uniqueAnswers.length + 1}`);
+    }
+    
+    // Shuffle the answers
+    const shuffledAnswers = uniqueAnswers.sort(() => Math.random() - 0.5);
     
     return {
       question,
       correctAnswer,
-      options: allAnswers,
+      options: shuffledAnswers,
       type: reverse ? 'translation_vn_en' : 'translation_en_vn',
       hint: word.partOfSpeech
     };
@@ -136,13 +209,26 @@ const VocabHoot: React.FC<VocabHootProps> = ({ vocabulary, onClose, sectionTitle
     const english = word.english;
     const vowels = 'aeiouAEIOU';
     
-    // Remove vowels or some letters
+    // Remove some vowels
     let maskedWord = '';
+    let removedCount = 0;
+    
     for (let i = 0; i < english.length; i++) {
-      if (vowels.includes(english[i]) && Math.random() > 0.3) {
+      if (vowels.includes(english[i]) && removedCount < 2 && Math.random() > 0.3) {
         maskedWord += '_';
+        removedCount++;
       } else {
         maskedWord += english[i];
+      }
+    }
+    
+    // If no vowels were removed, remove at least one
+    if (removedCount === 0) {
+      for (let i = 0; i < english.length; i++) {
+        if (vowels.includes(english[i])) {
+          maskedWord = maskedWord.substring(0, i) + '_' + maskedWord.substring(i + 1);
+          break;
+        }
       }
     }
     
@@ -153,7 +239,12 @@ const VocabHoot: React.FC<VocabHootProps> = ({ vocabulary, onClose, sectionTitle
       .slice(0, 3)
       .map(v => v.english);
     
-    const allAnswers = [english, ...distractors].sort(() => Math.random() - 0.5);
+    // Add dummy options if needed
+    while (distractors.length < 3) {
+      distractors.push(`${english.substring(0, 2)}${Math.random().toString(36).substring(2, 5)}`);
+    }
+    
+    const allAnswers = [english, ...distractors].slice(0, 4).sort(() => Math.random() - 0.5);
     
     return {
       question: `${maskedWord}\n(${word.vietnamese})`,
@@ -173,7 +264,10 @@ const VocabHoot: React.FC<VocabHootProps> = ({ vocabulary, onClose, sectionTitle
       'small': 'The mouse is a _____ creature.',
       'run': 'I like to _____ in the park every morning.',
       'walk': 'Let\'s _____ to the store instead of driving.',
-      // Add more contexts as needed
+      'eat': 'It\'s time to _____ lunch.',
+      'drink': 'I need to _____ some water.',
+      'read': 'I like to _____ books before bed.',
+      'write': 'Please _____ your name on the paper.'
     };
     
     const defaultContext = `The word "${word.vietnamese}" means _____ in English.`;
@@ -185,7 +279,7 @@ const VocabHoot: React.FC<VocabHootProps> = ({ vocabulary, onClose, sectionTitle
       .slice(0, 3)
       .map(v => v.english);
     
-    const allAnswers = [word.english, ...wrongAnswers].sort(() => Math.random() - 0.5);
+    const allAnswers = [word.english, ...wrongAnswers].slice(0, 4).sort(() => Math.random() - 0.5);
     
     return {
       question: context,
@@ -197,64 +291,71 @@ const VocabHoot: React.FC<VocabHootProps> = ({ vocabulary, onClose, sectionTitle
   };
 
   const handleAnswer = (answer: string) => {
-    if (isAnswered) return;
+    if (isAnswered || !currentQuestion) return;
     
+    // Mark as answered immediately to prevent double-clicks
     setIsAnswered(true);
     setSelectedAnswer(answer);
-    if (timerRef.current) clearInterval(timerRef.current);
     
-    const question = generateQuestion();
-    if (!question) return;
+    // Clear the countdown timer
+    if (timerRef.current) {
+      clearInterval(timerRef.current);
+      timerRef.current = null;
+    }
     
-    const isCorrect = answer === question.correctAnswer;
+    const isCorrect = answer === currentQuestion.correctAnswer;
     
     if (isCorrect) {
       // Calculate score based on time left
       const timeBonus = Math.round((timeLeft / QUESTION_TIME) * 100);
       const baseScore = 100;
-      setScore(score + baseScore + timeBonus);
-      setCorrectAnswers(correctAnswers + 1);
-      setStreak(streak + 1);
-      if (streak + 1 > bestStreak) {
-        setBestStreak(streak + 1);
-      }
+      setScore(prev => prev + baseScore + timeBonus);
+      setCorrectAnswers(prev => prev + 1);
+      setStreak(prev => {
+        const newStreak = prev + 1;
+        setBestStreak(current => Math.max(current, newStreak));
+        return newStreak;
+      });
     } else {
       setStreak(0);
     }
     
-    // Auto-advance after showing result
-    setTimeout(() => {
-      nextQuestion();
-    }, 2000);
+    // Move to next question after delay
+    transitionTimerRef.current = setTimeout(() => {
+      moveToNextQuestion();
+    }, TRANSITION_TIME);
   };
 
-  const nextQuestion = () => {
-    if (currentQuestion + 1 >= MAX_QUESTIONS) {
+  const moveToNextQuestion = () => {
+    if (currentQuestionIndex + 1 >= MAX_QUESTIONS) {
       setGameState('results');
     } else {
-      setCurrentQuestion(currentQuestion + 1);
+      setCurrentQuestionIndex(prev => prev + 1);
       setIsAnswered(false);
       setSelectedAnswer(null);
+      setTimeLeft(QUESTION_TIME);
     }
   };
 
   const startGame = () => {
+    // Reset all game state
     setGameState('playing');
-    setCurrentQuestion(0);
+    setCurrentQuestionIndex(0);
     setScore(0);
     setCorrectAnswers(0);
     setStreak(0);
     setBestStreak(0);
     setIsAnswered(false);
     setSelectedAnswer(null);
+    setUsedWords(new Set());
+    setTimeLeft(QUESTION_TIME);
+    setCurrentQuestion(null);
   };
-
-  const question = generateQuestion();
 
   // Keyboard shortcuts
   useEffect(() => {
     const handleKeyPress = (e: KeyboardEvent) => {
-      if (gameState !== 'playing' || !question || isAnswered) return;
+      if (gameState !== 'playing' || !currentQuestion || isAnswered) return;
       
       const keyMap: { [key: string]: number } = {
         'q': 0, 'w': 1, 'e': 2, 'r': 3,
@@ -262,14 +363,14 @@ const VocabHoot: React.FC<VocabHootProps> = ({ vocabulary, onClose, sectionTitle
       };
       
       const index = keyMap[e.key.toLowerCase()];
-      if (index !== undefined && index < question.options.length) {
-        handleAnswer(question.options[index]);
+      if (index !== undefined && index < currentQuestion.options.length) {
+        handleAnswer(currentQuestion.options[index]);
       }
     };
     
     window.addEventListener('keydown', handleKeyPress);
     return () => window.removeEventListener('keydown', handleKeyPress);
-  }, [gameState, question, isAnswered]);
+  }, [gameState, currentQuestion, isAnswered]);
 
   return (
     <Paper 
@@ -309,7 +410,7 @@ const VocabHoot: React.FC<VocabHootProps> = ({ vocabulary, onClose, sectionTitle
             Test your vocabulary from: {sectionTitle || 'Current Section'}
           </Typography>
           <Typography variant="body1" sx={{ mb: 3 }}>
-            {vocabulary.length} words • {MAX_QUESTIONS} questions • Multiple question types
+            {vocabulary.length} words • {MAX_QUESTIONS} questions • {QUESTION_TIME}s per question
           </Typography>
           <Box sx={{ mb: 3, display: 'flex', gap: 1, justifyContent: 'center', flexWrap: 'wrap' }}>
             <Chip label="Translations" color="primary" />
@@ -328,12 +429,12 @@ const VocabHoot: React.FC<VocabHootProps> = ({ vocabulary, onClose, sectionTitle
       )}
 
       {/* Playing Screen */}
-      {gameState === 'playing' && question && (
+      {gameState === 'playing' && currentQuestion && (
         <Box>
           {/* Header */}
           <Box sx={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', mb: 3 }}>
             <Typography variant="h6">
-              Question {currentQuestion + 1} of {MAX_QUESTIONS}
+              Question {currentQuestionIndex + 1} of {MAX_QUESTIONS}
             </Typography>
             <Box sx={{ display: 'flex', gap: 2, alignItems: 'center' }}>
               {streak > 0 && (
@@ -367,9 +468,9 @@ const VocabHoot: React.FC<VocabHootProps> = ({ vocabulary, onClose, sectionTitle
           <Box sx={{ mb: 4, textAlign: 'center' }}>
             <Chip 
               label={
-                question.type === 'missing_letters' ? 'Fill the gaps' :
-                question.type === 'context' ? 'Context' :
-                question.type === 'translation_vn_en' ? 'Vietnamese → English' :
+                currentQuestion.type === 'missing_letters' ? 'Fill the gaps' :
+                currentQuestion.type === 'context' ? 'Context' :
+                currentQuestion.type === 'translation_vn_en' ? 'Vietnamese → English' :
                 'English → Vietnamese'
               }
               sx={{ mb: 2 }}
@@ -381,28 +482,28 @@ const VocabHoot: React.FC<VocabHootProps> = ({ vocabulary, onClose, sectionTitle
               sx={{ 
                 mb: 1,
                 whiteSpace: 'pre-line',
-                fontWeight: question.type === 'missing_letters' ? 'mono' : 'normal'
+                fontFamily: currentQuestion.type === 'missing_letters' ? 'monospace' : 'inherit'
               }}
             >
-              {question.question}
+              {currentQuestion.question}
             </Typography>
-            {question.hint && (
+            {currentQuestion.hint && (
               <Typography variant="body2" color="text.secondary">
-                Hint: {question.hint}
+                Hint: {currentQuestion.hint}
               </Typography>
             )}
           </Box>
 
           {/* Answer Options */}
           <Box sx={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 2 }}>
-            {question.options.map((option, index) => {
+            {currentQuestion.options.map((option, index) => {
               const isSelected = selectedAnswer === option;
-              const isCorrect = option === question.correctAnswer;
+              const isCorrect = option === currentQuestion.correctAnswer;
               const showResult = isAnswered;
               
               return (
                 <Button
-                  key={index}
+                  key={`${currentQuestionIndex}-${index}`}
                   variant="contained"
                   size="large"
                   onClick={() => handleAnswer(option)}
