@@ -371,6 +371,27 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({
             >
               #{item.number}
             </Typography>
+            
+            {/* Progress indicator - top right */}
+            <Box sx={{ 
+              position: 'absolute',
+              top: 20,
+              right: 30,
+              px: 2,
+              py: 0.5,
+              borderRadius: 20,
+              bgcolor: 'rgba(0, 208, 132, 0.1)',
+              border: '2px solid',
+              borderColor: 'primary.main',
+            }}>
+              <Typography sx={{ 
+                fontSize: `${fontSize * 0.7}px`, 
+                fontWeight: 600,
+                color: 'primary.main' 
+              }}>
+                {currentIndex + 1} / {vocabItems.length}
+              </Typography>
+            </Box>
 
             <Box sx={{ display: 'flex', alignItems: 'center', gap: 2 }}>
               {showSpelling ? (
@@ -473,72 +494,6 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({
                 )}
               </Box>
             </Fade>
-          </Box>
-
-          {/* Mini Preview Strip */}
-          <Box sx={{ 
-            position: 'absolute',
-            bottom: 80,
-            left: 0,
-            right: 0,
-            display: 'flex',
-            justifyContent: 'center',
-            alignItems: 'center',
-            gap: 2,
-            px: 4,
-          }}>
-            {/* Previous word preview */}
-            {currentIndex > 0 && (
-              <Box 
-                onClick={handlePrevious}
-                sx={{ 
-                  cursor: 'pointer',
-                  opacity: 0.5,
-                  transition: 'all 0.2s',
-                  '&:hover': { opacity: 0.8 },
-                  textAlign: 'right',
-                  flex: 1,
-                }}
-              >
-                <Typography sx={{ fontSize: `${fontSize * 0.6}px`, color: 'text.secondary' }}>
-                  ← #{vocabItems[currentIndex - 1].number}. {vocabItems[currentIndex - 1].english}
-                </Typography>
-              </Box>
-            )}
-            
-            {/* Current position */}
-            <Box sx={{ 
-              px: 3,
-              py: 1,
-              borderRadius: 20,
-              bgcolor: 'primary.main',
-              color: 'white',
-              minWidth: 120,
-              textAlign: 'center',
-            }}>
-              <Typography sx={{ fontSize: `${fontSize * 0.6}px`, fontWeight: 700 }}>
-                {currentIndex + 1} / {vocabItems.length}
-              </Typography>
-            </Box>
-            
-            {/* Next word preview */}
-            {currentIndex < vocabItems.length - 1 && (
-              <Box 
-                onClick={handleNext}
-                sx={{ 
-                  cursor: 'pointer',
-                  opacity: 0.5,
-                  transition: 'all 0.2s',
-                  '&:hover': { opacity: 0.8 },
-                  textAlign: 'left',
-                  flex: 1,
-                }}
-              >
-                <Typography sx={{ fontSize: `${fontSize * 0.6}px`, color: 'text.secondary' }}>
-                  #{vocabItems[currentIndex + 1].number}. {vocabItems[currentIndex + 1].english} →
-                </Typography>
-              </Box>
-            )}
           </Box>
 
           {/* Progress and Controls */}
