@@ -17,8 +17,10 @@ import PlayArrowIcon from '@mui/icons-material/PlayArrow';
 import PauseIcon from '@mui/icons-material/Pause';
 import TranslateIcon from '@mui/icons-material/Translate';
 import SpellcheckIcon from '@mui/icons-material/Spellcheck';
+import SportsEsportsIcon from '@mui/icons-material/SportsEsports';
 import { VocabularyItem } from '../../types';
 import useTextToSpeech from '../../hooks/useTextToSpeech';
+import VocabHoot from './vocabhoot/VocabHoot';
 
 // Lightweight pulse animation for IPA
 const pulseAnimation = keyframes`
@@ -48,6 +50,7 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({
   const [touchEnd, setTouchEnd] = useState<number | null>(null);
   const [voicesLoaded, setVoicesLoaded] = useState(false);
   const [hasVietnameseVoice, setHasVietnameseVoice] = useState(false);
+  const [showVocabHoot, setShowVocabHoot] = useState(false);
   const { speak } = useTextToSpeech();
 
   // Load voices and check for Vietnamese
@@ -571,6 +574,21 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({
         </Typography>
         <Box sx={{ display: 'flex', gap: 1 }}>
           <Button
+            variant="contained"
+            size="small"
+            onClick={() => setShowVocabHoot(true)}
+            startIcon={<SportsEsportsIcon />}
+            sx={{ 
+              fontSize: `${fontSize * 0.6}px`,
+              bgcolor: 'secondary.main',
+              '&:hover': {
+                bgcolor: 'secondary.dark',
+              }
+            }}
+          >
+            Play Game
+          </Button>
+          <Button
             variant="outlined"
             size="small"
             onClick={() => setShowSpelling(!showSpelling)}
@@ -767,6 +785,20 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({
           </Box>
         ))}
       </Box>
+      
+      {/* VocabHoot Game Modal */}
+      {showVocabHoot && (
+        <VocabHoot
+          vocabulary={vocabItems.map((item: any) => ({
+            english: item.english,
+            vietnamese: item.vietnamese,
+            partOfSpeech: item.partOfSpeech,
+            pronunciation: item.pronunciation
+          }))}
+          onClose={() => setShowVocabHoot(false)}
+          sectionTitle={section.title}
+        />
+      )}
     </Box>
   );
 };
