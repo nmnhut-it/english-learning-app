@@ -47,14 +47,18 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({
   const [touchStart, setTouchStart] = useState<number | null>(null);
   const [touchEnd, setTouchEnd] = useState<number | null>(null);
   const [voicesLoaded, setVoicesLoaded] = useState(false);
+  const [hasVietnameseVoice, setHasVietnameseVoice] = useState(false);
   const { speak } = useTextToSpeech();
 
-  // Load voices
+  // Load voices and check for Vietnamese
   useEffect(() => {
     const loadVoices = () => {
       const voices = window.speechSynthesis.getVoices();
       if (voices.length > 0) {
         setVoicesLoaded(true);
+        // Check if Vietnamese voice is available
+        const vnVoice = voices.find(voice => voice.lang.startsWith('vi'));
+        setHasVietnameseVoice(!!vnVoice);
       }
     };
     
@@ -107,8 +111,8 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({
       // Show and read Vietnamese after 2.5 seconds
       const vietnameseTimer = setTimeout(() => {
         setAutoPlayShowVietnamese(true);
-        // Read Vietnamese meaning
-        if (currentItem && currentItem.vietnamese) {
+        // Read Vietnamese meaning only if voice is available
+        if (currentItem && currentItem.vietnamese && hasVietnameseVoice) {
           speakVietnamese(currentItem.vietnamese);
         }
       }, 2500);
@@ -130,7 +134,7 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({
         window.speechSynthesis.cancel();
       };
     }
-  }, [autoPlay, currentIndex, vocabItems.length, showAll, speak]);
+  }, [autoPlay, currentIndex, vocabItems.length, showAll, speak, hasVietnameseVoice]);
 
   // Read aloud when changing words
   useEffect(() => {
@@ -454,7 +458,7 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({
                 >
                   {(showVietnamese || autoPlayShowVietnamese) ? item.vietnamese : '• • •'}
                 </Typography>
-                {(showVietnamese || autoPlayShowVietnamese) && item.vietnamese && (
+                {(showVietnamese || autoPlayShowVietnamese) && item.vietnamese && hasVietnameseVoice && (
                   <IconButton
                     size="medium"
                     onClick={() => speakVietnamese(item.vietnamese)}
@@ -596,7 +600,7 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({
             💡 Navigation: ←→↑↓ or ,. = Next/Prev • 1-9 = Jump to word • Space = Speak English • Enter = Show/Hide Meaning • S = Show/Hide Spelling
           </Typography>
           <Typography variant="caption" sx={{ fontSize: `${fontSize * 0.5}px`, color: 'text.secondary', display: 'block', textAlign: 'center', mt: 0.5 }}>
-            🔊 Auto-play: Reads English → waits 2.5s → shows & reads Vietnamese meaning → next word after 5s total
+            🔊 Auto-play: Reads English → waits 2.5s → shows {hasVietnameseVoice ? '& reads' : ''} Vietnamese meaning → next word after 5s total
           </Typography>
         </Box>
       </Box>
@@ -768,7 +772,7 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({
             
             {/* Audio Buttons */}
             <Box sx={{ display: 'flex', gap: 0.5, ml: 'auto' }}>
-              {showVietnamese && item.vietnamese && (
+              {showVietnamese && item.vietnamese && hasVietnameseVoice && (
                 <IconButton
                   size="small"
                   onClick={(e) => {
