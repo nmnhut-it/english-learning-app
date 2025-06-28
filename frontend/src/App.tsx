@@ -357,6 +357,7 @@ function App() {
             <Typography><kbd>V</kbd> - Toggle Vocabulary Mode</Typography>
             <Typography><kbd>P</kbd> - Switch Plain/Structured View</Typography>
             <Typography><kbd>R</kbd> - Toggle Read Aloud</Typography>
+            <Typography><kbd>H</kbd> - Show/Hide Header & Footer</Typography>
             <Typography><kbd>←/→</kbd> - Navigate Sections</Typography>
             <Typography><kbd>1-9</kbd> - Jump to Section (by number)</Typography>
             <Typography><kbd>Ctrl +/-</kbd> - Adjust Font Size</Typography>
@@ -369,6 +370,7 @@ function App() {
             <Typography><kbd>1-9</kbd> - Jump to Word (by number)</Typography>
             <Typography><kbd>Space</kbd> - Speak Word</Typography>
             <Typography><kbd>Enter</kbd> - Show/Hide Meaning</Typography>
+            <Typography><kbd>S</kbd> - Show/Hide Spelling</Typography>
             <Typography><kbd>A</kbd> - Auto-play</Typography>
             <Typography variant="body2" sx={{ mt: 1 }}>🖱️ Also supports mouse wheel & touch swipe!</Typography>
           </Box>

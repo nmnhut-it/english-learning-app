@@ -12,11 +12,15 @@ import {
   useTheme,
   Breadcrumbs,
   Link,
+  Collapse,
+  Fab,
 } from '@mui/material';
 import MenuIcon from '@mui/icons-material/Menu';
 import NavigateBeforeIcon from '@mui/icons-material/NavigateBefore';
 import NavigateNextIcon from '@mui/icons-material/NavigateNext';
 import HomeIcon from '@mui/icons-material/Home';
+import KeyboardArrowDownIcon from '@mui/icons-material/KeyboardArrowDown';
+import KeyboardArrowUpIcon from '@mui/icons-material/KeyboardArrowUp';
 import { FileTreeNode } from '../types';
 
 interface PresentationLayoutProps {
@@ -46,6 +50,7 @@ const PresentationLayout: React.FC<PresentationLayoutProps> = ({
 }) => {
   const theme = useTheme();
   const [anchorEl, setAnchorEl] = useState<null | HTMLElement>(null);
+  const [headerVisible, setHeaderVisible] = useState(false); // Hidden by default
 
   const handleMenuOpen = (event: React.MouseEvent<HTMLElement>) => {
     setAnchorEl(event.currentTarget);
@@ -115,6 +120,18 @@ const PresentationLayout: React.FC<PresentationLayoutProps> = ({
   const canGoNext = getCurrentSectionIndex() < sections.length - 1;
   const canGoPrev = getCurrentSectionIndex() > 0;
 
+  // Add keyboard shortcut for header toggle
+  React.useEffect(() => {
+    const handleKeyPress = (e: KeyboardEvent) => {
+      if (e.key === 'h' || e.key === 'H') {
+        setHeaderVisible(prev => !prev);
+      }
+    };
+
+    window.addEventListener('keydown', handleKeyPress);
+    return () => window.removeEventListener('keydown', handleKeyPress);
+  }, []);
+
   return (
     <Box sx={{ 
       display: 'flex', 
@@ -122,66 +139,178 @@ const PresentationLayout: React.FC<PresentationLayoutProps> = ({
       height: '100vh',
       backgroundColor: 'background.default',
     }}>
-      {/* Minimal Header */}
-      <AppBar 
-        position="static" 
-        elevation={0}
-        className="glass-nav"
-        sx={{ 
-          backgroundColor: 'transparent !important',
-          borderBottom: `1px solid rgba(0, 0, 0, 0.08)`,
-          color: 'text.primary',
-        }}
-      >
-        <Toolbar 
-          variant="dense" 
+      {/* Collapsible Header */}
+      <Collapse in={headerVisible}>
+        <AppBar 
+          position="static" 
+          elevation={0}
+          className="glass-nav"
           sx={{ 
-            minHeight: 48,
-            px: { xs: 1, sm: 2 },
+            backgroundColor: 'transparent !important',
+            borderBottom: `1px solid rgba(0, 0, 0, 0.08)`,
+            color: 'text.primary',
           }}
         >
-          {/* File Menu */}
-          <Button
-            variant="contained"
-            startIcon={<MenuIcon />}
-            onClick={handleMenuOpen}
+          <Toolbar 
+            variant="dense" 
             sx={{ 
-              mr: 2,
-              textTransform: 'none',
-              background: 'linear-gradient(135deg, #00D084, #10B981)',
-              boxShadow: '0 4px 20px rgba(0, 208, 132, 0.3)',
-              '&:hover': {
-                background: 'linear-gradient(135deg, #10B981, #00D084)',
-                boxShadow: '0 6px 30px rgba(0, 208, 132, 0.4)',
-              },
+              minHeight: 48,
+              px: { xs: 1, sm: 2 },
             }}
           >
-            Files
-          </Button>
-          
-          {/* Breadcrumb Navigation */}
-          <Breadcrumbs 
-            separator="›" 
-            sx={{ 
-              flexGrow: 1,
-              '& .MuiBreadcrumbs-separator': { mx: 1 },
-            }}
-          >
-            <Link
-              color="inherit"
-              href="#"
-              onClick={(e) => {
-                e.preventDefault();
-                // Could navigate to home or file list
+            {/* File Menu */}
+            <Button
+              variant="contained"
+              startIcon={<MenuIcon />}
+              onClick={handleMenuOpen}
+              sx={{ 
+                mr: 2,
+                textTransform: 'none',
+                background: 'linear-gradient(135deg, #00D084, #10B981)',
+                boxShadow: '0 4px 20px rgba(0, 208, 132, 0.3)',
+                '&:hover': {
+                  background: 'linear-gradient(135deg, #10B981, #00D084)',
+                  boxShadow: '0 6px 30px rgba(0, 208, 132, 0.4)',
+                },
               }}
-              sx={{ display: 'flex', alignItems: 'center' }}
             >
-              <HomeIcon sx={{ mr: 0.5, fontSize: 20 }} />
-            </Link>
-            {currentFile && (
-              <Typography color="text.primary" sx={{ fontSize: '1.1rem', fontWeight: 500, color: '#000000' }}>
-              {(() => {
-                  // Find the file in the tree to get its title
+              Files
+            </Button>
+            
+            {/* Breadcrumb Navigation */}
+            <Breadcrumbs 
+              separator="›" 
+              sx={{ 
+                flexGrow: 1,
+                '& .MuiBreadcrumbs-separator': { mx: 1 },
+              }}
+            >
+              <Link
+                color="inherit"
+                href="#"
+                onClick={(e) => {
+                  e.preventDefault();
+                  // Could navigate to home or file list
+                }}
+                sx={{ display: 'flex', alignItems: 'center' }}
+              >
+                <HomeIcon sx={{ mr: 0.5, fontSize: 20 }} />
+              </Link>
+              {currentFile && (
+                <Typography color="text.primary" sx={{ fontSize: '1.1rem', fontWeight: 500, color: '#000000' }}>
+                {(() => {
+                    // Find the file in the tree to get its title
+                    const findFileTitle = (node: FileTreeNode, path: string): string | null => {
+                      if (node.type === 'file' && node.path === path) {
+                        return node.title || node.name.replace(/\.md$/, '').replace(/[-_]/g, ' ');
+                      }
+                      if (node.children) {
+                        for (const child of node.children) {
+                          const title = findFileTitle(child, path);
+                          if (title) return title;
+                        }
+                      }
+                      return null;
+                    };
+                    return files ? findFileTitle(files, currentFile) || currentFile : currentFile;
+                  })()}
+                </Typography>
+              )}
+              {currentSection && (
+                <Typography color="primary" sx={{ fontSize: '1.1rem', fontWeight: 600, color: '#000000' }}>
+                  {currentSection}
+                </Typography>
+              )}
+            </Breadcrumbs>
+
+            {/* Extra Controls (View Mode Toggle) */}
+            {extraControls}
+
+            {/* Section Navigation */}
+            {showSectionControls && (
+              <Box sx={{ display: 'flex', alignItems: 'center', gap: 1, ml: 2 }}>
+                <IconButton
+                  size="small"
+                  onClick={() => onSectionChange?.('prev')}
+                  disabled={!canGoPrev}
+                >
+                  <NavigateBeforeIcon />
+                </IconButton>
+                <Typography variant="body2" sx={{ minWidth: 60, textAlign: 'center' }}>
+                  {getCurrentSectionIndex() + 1} / {sections.length}
+                </Typography>
+                <IconButton
+                  size="small"
+                  onClick={() => onSectionChange?.('next')}
+                  disabled={!canGoNext}
+                >
+                  <NavigateNextIcon />
+                </IconButton>
+              </Box>
+            )}
+          </Toolbar>
+        </AppBar>
+      </Collapse>
+
+      {/* Header Toggle Button */}
+      <Box sx={{ 
+        position: 'fixed', 
+        top: headerVisible ? 56 : 8, 
+        left: '50%', 
+        transform: 'translateX(-50%)',
+        zIndex: 1100,
+        transition: 'top 0.3s ease',
+      }}>
+        <Fab
+          size="small"
+          color="primary"
+          onClick={() => setHeaderVisible(!headerVisible)}
+          sx={{ 
+            width: 36,
+            height: 20,
+            borderRadius: '20px',
+            minHeight: 'auto',
+            '& .MuiSvgIcon-root': {
+              fontSize: 16,
+            }
+          }}
+        >
+          {headerVisible ? <KeyboardArrowUpIcon /> : <KeyboardArrowDownIcon />}
+        </Fab>
+      </Box>
+
+      {/* Minimal floating controls when header is hidden */}
+      {!headerVisible && (
+        <Box sx={{ 
+          position: 'fixed', 
+          top: 8, 
+          left: 8, 
+          zIndex: 1100,
+          display: 'flex',
+          gap: 1,
+          alignItems: 'center',
+        }}>
+          {/* Compact File Menu Button */}
+          <Fab
+            size="small"
+            color="primary"
+            onClick={handleMenuOpen}
+            sx={{ width: 40, height: 40 }}
+          >
+            <MenuIcon />
+          </Fab>
+          
+          {/* Current file indicator */}
+          {currentFile && (
+            <Box sx={{ 
+              bgcolor: 'background.paper', 
+              px: 2, 
+              py: 0.5, 
+              borderRadius: 20,
+              boxShadow: 1,
+            }}>
+              <Typography variant="caption" sx={{ fontWeight: 600 }}>
+                {(() => {
                   const findFileTitle = (node: FileTreeNode, path: string): string | null => {
                     if (node.type === 'file' && node.path === path) {
                       return node.title || node.name.replace(/\.md$/, '').replace(/[-_]/g, ' ');
@@ -194,44 +323,14 @@ const PresentationLayout: React.FC<PresentationLayoutProps> = ({
                     }
                     return null;
                   };
-                  return files ? findFileTitle(files, currentFile) || currentFile : currentFile;
+                  const title = files ? findFileTitle(files, currentFile) || currentFile : currentFile;
+                  return title.length > 30 ? title.substring(0, 30) + '...' : title;
                 })()}
               </Typography>
-            )}
-            {currentSection && (
-              <Typography color="primary" sx={{ fontSize: '1.1rem', fontWeight: 600, color: '#000000' }}>
-                {currentSection}
-              </Typography>
-            )}
-          </Breadcrumbs>
-
-          {/* Extra Controls (View Mode Toggle) */}
-          {extraControls}
-
-          {/* Section Navigation */}
-          {showSectionControls && (
-            <Box sx={{ display: 'flex', alignItems: 'center', gap: 1, ml: 2 }}>
-              <IconButton
-                size="small"
-                onClick={() => onSectionChange?.('prev')}
-                disabled={!canGoPrev}
-              >
-                <NavigateBeforeIcon />
-              </IconButton>
-              <Typography variant="body2" sx={{ minWidth: 60, textAlign: 'center' }}>
-                {getCurrentSectionIndex() + 1} / {sections.length}
-              </Typography>
-              <IconButton
-                size="small"
-                onClick={() => onSectionChange?.('next')}
-                disabled={!canGoNext}
-              >
-                <NavigateNextIcon />
-              </IconButton>
             </Box>
           )}
-        </Toolbar>
-      </AppBar>
+        </Box>
+      )}
 
       {/* File Menu Dropdown */}
       <Menu
@@ -275,6 +374,7 @@ const PresentationLayout: React.FC<PresentationLayoutProps> = ({
           display: 'flex',
           flexDirection: 'column',
           backgroundColor: 'background.default',
+          pt: headerVisible ? 0 : 6, // Add padding when header is hidden
         }}
       >
         {/* Content Container with Presentation Styling */}
@@ -296,53 +396,55 @@ const PresentationLayout: React.FC<PresentationLayoutProps> = ({
         </Box>
       </Box>
 
-      {/* Minimal Footer */}
-      <Box
-        component="footer"
-        sx={{
-          borderTop: `1px solid ${theme.palette.divider}`,
-          backgroundColor: 'background.paper',
-          px: { xs: 2, sm: 4 },
-          py: 1,
-        }}
-      >
-        <Box sx={{ 
-          display: 'flex', 
-          justifyContent: 'space-between',
-          alignItems: 'center',
-        }}>
-          {/* Quick Navigation */}
-          {showSectionControls && (
-            <Box sx={{ display: 'flex', gap: 1 }}>
-              {sections.slice(0, 7).map((section, index) => (
-                <Button
-                  key={section}
-                  size="small"
-                  variant={currentSection === section ? 'contained' : 'text'}
-                  onClick={() => {
-                    if (onSectionSelect) {
-                      onSectionSelect(section);
-                    }
-                  }}
-                  sx={{ 
-                    minWidth: 'auto',
-                    px: 1,
-                    py: 0.5,
-                    fontSize: '0.75rem',
-                  }}
-                >
-                  {index + 1}
-                </Button>
-              ))}
-            </Box>
-          )}
+      {/* Minimal Footer - Also hide when header is hidden */}
+      <Collapse in={headerVisible}>
+        <Box
+          component="footer"
+          sx={{
+            borderTop: `1px solid ${theme.palette.divider}`,
+            backgroundColor: 'background.paper',
+            px: { xs: 2, sm: 4 },
+            py: 1,
+          }}
+        >
+          <Box sx={{ 
+            display: 'flex', 
+            justifyContent: 'space-between',
+            alignItems: 'center',
+          }}>
+            {/* Quick Navigation */}
+            {showSectionControls && (
+              <Box sx={{ display: 'flex', gap: 1 }}>
+                {sections.slice(0, 7).map((section, index) => (
+                  <Button
+                    key={section}
+                    size="small"
+                    variant={currentSection === section ? 'contained' : 'text'}
+                    onClick={() => {
+                      if (onSectionSelect) {
+                        onSectionSelect(section);
+                      }
+                    }}
+                    sx={{ 
+                      minWidth: 'auto',
+                      px: 1,
+                      py: 0.5,
+                      fontSize: '0.75rem',
+                    }}
+                  >
+                    {index + 1}
+                  </Button>
+                ))}
+              </Box>
+            )}
 
-          {/* Status */}
-          <Typography variant="caption" color="text.secondary">
-            Press F11 for fullscreen
-          </Typography>
+            {/* Status */}
+            <Typography variant="caption" color="text.secondary">
+              Press F11 for fullscreen • H to toggle header
+            </Typography>
+          </Box>
         </Box>
-      </Box>
+      </Collapse>
     </Box>
   );
 };

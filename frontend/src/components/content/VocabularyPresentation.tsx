@@ -16,6 +16,7 @@ import VisibilityOffIcon from '@mui/icons-material/VisibilityOff';
 import PlayArrowIcon from '@mui/icons-material/PlayArrow';
 import PauseIcon from '@mui/icons-material/Pause';
 import TranslateIcon from '@mui/icons-material/Translate';
+import SpellcheckIcon from '@mui/icons-material/Spellcheck';
 import { VocabularyItem } from '../../types';
 import useTextToSpeech from '../../hooks/useTextToSpeech';
 
@@ -40,6 +41,7 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({
   const [currentIndex, setCurrentIndex] = useState(0);
   const [showAll, setShowAll] = useState(true); // Default to list view
   const [showVietnamese, setShowVietnamese] = useState(true);
+  const [showSpelling, setShowSpelling] = useState(true); // New state for spelling
   const [autoPlay, setAutoPlay] = useState(false);
   const [autoPlayShowVietnamese, setAutoPlayShowVietnamese] = useState(false);
   const [touchStart, setTouchStart] = useState<number | null>(null);
@@ -209,6 +211,11 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({
         e.preventDefault();
         setShowVietnamese(!showVietnamese);
         break;
+      case 's':
+      case 'S':
+        e.preventDefault();
+        setShowSpelling(!showSpelling);
+        break;
       case 'a':
       case 'A':
         setAutoPlay(!autoPlay);
@@ -273,6 +280,15 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({
               sx={{ fontSize: `${fontSize * 0.6}px` }}
             >
               {autoPlay ? 'Pause' : 'Auto'}
+            </Button>
+            <Button
+              variant="outlined"
+              size="small"
+              onClick={() => setShowSpelling(!showSpelling)}
+              startIcon={showSpelling ? <SpellcheckIcon /> : <VisibilityOffIcon />}
+              sx={{ fontSize: `${fontSize * 0.6}px` }}
+            >
+              Spelling
             </Button>
             <Button
               variant="outlined"
@@ -353,18 +369,34 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({
             </Typography>
 
             <Box sx={{ display: 'flex', alignItems: 'center', gap: 2 }}>
-              <Typography
-                variant="h1"
-                className="vocabulary-word"
-                sx={{
-                  fontSize: `${fontSize * 2.2}px`,
-                  fontWeight: 800,
-                  color: 'primary.main',
-                  letterSpacing: '0.02em',
-                }}
-              >
-                {item.english}
-              </Typography>
+              {showSpelling ? (
+                <Typography
+                  variant="h1"
+                  className="vocabulary-word"
+                  sx={{
+                    fontSize: `${fontSize * 2.2}px`,
+                    fontWeight: 800,
+                    color: 'primary.main',
+                    letterSpacing: '0.02em',
+                  }}
+                >
+                  {item.english}
+                </Typography>
+              ) : (
+                <Typography
+                  variant="h1"
+                  sx={{
+                    fontSize: `${fontSize * 2.2}px`,
+                    fontWeight: 800,
+                    color: 'transparent',
+                    textShadow: '0 0 15px rgba(0,208,132,0.6)',
+                    userSelect: 'none',
+                    letterSpacing: '0.1em',
+                  }}
+                >
+                  {'•'.repeat(Math.min(item.english.length, 12))}
+                </Typography>
+              )}
               <IconButton
                 size="large"
                 onClick={() => speak(item.english)}
@@ -561,7 +593,7 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({
         {/* Teacher Tips */}
         <Box sx={{ mt: 2, p: 2, bgcolor: 'grey.100', borderRadius: 1 }}>
           <Typography variant="caption" sx={{ fontSize: `${fontSize * 0.5}px`, color: 'text.secondary', display: 'block', textAlign: 'center' }}>
-            💡 Navigation: ←→↑↓ or ,. = Next/Prev • 1-9 = Jump to word • Space = Speak English • Enter = Show/Hide Meaning
+            💡 Navigation: ←→↑↓ or ,. = Next/Prev • 1-9 = Jump to word • Space = Speak English • Enter = Show/Hide Meaning • S = Show/Hide Spelling
           </Typography>
           <Typography variant="caption" sx={{ fontSize: `${fontSize * 0.5}px`, color: 'text.secondary', display: 'block', textAlign: 'center', mt: 0.5 }}>
             🔊 Auto-play: Reads English → waits 2.5s → shows & reads Vietnamese meaning → next word after 5s total
@@ -579,6 +611,15 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({
           📖 {section.title}
         </Typography>
         <Box sx={{ display: 'flex', gap: 1 }}>
+          <Button
+            variant="outlined"
+            size="small"
+            onClick={() => setShowSpelling(!showSpelling)}
+            startIcon={showSpelling ? <SpellcheckIcon /> : <VisibilityOffIcon />}
+            sx={{ fontSize: `${fontSize * 0.6}px` }}
+          >
+            Spelling
+          </Button>
           <Button
             variant="outlined"
             size="small"
@@ -641,28 +682,60 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({
             
             {/* English word with part of speech */}
             <Box sx={{ minWidth: '30%' }}>
-              <Typography
-                component="span"
-                sx={{
-                  fontSize: `${fontSize}px`,
-                  fontWeight: 700,
-                  color: 'black',
-                }}
-              >
-                {item.english}
-              </Typography>
-              {item.partOfSpeech && (
-                <Typography
-                  component="span"
-                  sx={{
-                    fontSize: `${fontSize * 0.7}px`,
-                    color: 'text.secondary',
-                    fontStyle: 'italic',
-                    ml: 1,
-                  }}
-                >
-                  ({item.partOfSpeech})
-                </Typography>
+              {showSpelling ? (
+                <>
+                  <Typography
+                    component="span"
+                    sx={{
+                      fontSize: `${fontSize}px`,
+                      fontWeight: 700,
+                      color: 'black',
+                    }}
+                  >
+                    {item.english}
+                  </Typography>
+                  {item.partOfSpeech && (
+                    <Typography
+                      component="span"
+                      sx={{
+                        fontSize: `${fontSize * 0.7}px`,
+                        color: 'text.secondary',
+                        fontStyle: 'italic',
+                        ml: 1,
+                      }}
+                    >
+                      ({item.partOfSpeech})
+                    </Typography>
+                  )}
+                </>
+              ) : (
+                <>
+                  <Typography
+                    component="span"
+                    sx={{
+                      fontSize: `${fontSize}px`,
+                      fontWeight: 700,
+                      color: 'transparent',
+                      textShadow: '0 0 8px rgba(0,0,0,0.5)',
+                      userSelect: 'none',
+                    }}
+                  >
+                    {'•'.repeat(item.english.length)}
+                  </Typography>
+                  {item.partOfSpeech && (
+                    <Typography
+                      component="span"
+                      sx={{
+                        fontSize: `${fontSize * 0.7}px`,
+                        color: 'text.secondary',
+                        fontStyle: 'italic',
+                        ml: 1,
+                      }}
+                    >
+                      ({item.partOfSpeech})
+                    </Typography>
+                  )}
+                </>
               )}
             </Box>
 
