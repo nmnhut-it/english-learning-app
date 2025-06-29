@@ -8,6 +8,16 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+/* Headings in red theme */
+h1, h2, h3, h4, h5, h6 {
+  color: #FF5722 !important;
+}
+
+/* Bold text in red */
+strong, b {
+  color: #FF5722 !important;
+}
+
 /* Ensure proper line breaks in markdown content */
 .markdown-content p {
   white-space: pre-wrap;

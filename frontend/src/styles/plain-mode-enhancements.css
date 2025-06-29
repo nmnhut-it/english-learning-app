@@ -12,7 +12,7 @@
   border-left: 6px solid #FF5722 !important;
   border-radius: 8px !important;
   padding: 16px 32px !important;
-  color: #000000 !important;
+  color: #FF5722 !important;
 }
 
 .plain-mode-content h2 {
@@ -20,7 +20,7 @@
   border-left: 5px solid #FF5722 !important;
   border-radius: 6px !important;
   padding: 12px 24px !important;
-  color: #000000 !important;
+  color: #FF5722 !important;
 }
 
 .plain-mode-content h3 {
@@ -28,7 +28,19 @@
   border-left: 4px solid #FF6E40 !important;
   border-radius: 4px !important;
   padding: 8px 16px !important;
-  color: #000000 !important;
+  color: #FF5722 !important;
+}
+
+.plain-mode-content h4 {
+  color: #FF5722 !important;
+}
+
+.plain-mode-content h5 {
+  color: #FF5722 !important;
+}
+
+.plain-mode-content h6 {
+  color: #FF5722 !important;
 }
 
 /* Bold text - Simple highlight with red color */

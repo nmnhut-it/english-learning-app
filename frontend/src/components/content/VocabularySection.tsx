@@ -106,7 +106,8 @@ const VocabularySection: React.FC<VocabularySectionProps> = ({ section }) => {
                         <Typography variant="subtitle1" sx={{ 
                           fontWeight: 600,
                           fontSize: { xs: '0.95rem', sm: '1rem' },
-                          flex: 1
+                          flex: 1,
+                          color: '#FF5722'
                         }}>
                           {item.number && `${item.number}. `}{word}
                         </Typography>
@@ -123,8 +124,15 @@ const VocabularySection: React.FC<VocabularySectionProps> = ({ section }) => {
                           <Chip
                             label={item.partOfSpeech}
                             size="small"
-                            color="primary"
-                            sx={{ fontSize: '0.7rem', height: 20 }}
+                            sx={{ 
+                              fontSize: '0.85rem', 
+                              height: 24,
+                              backgroundColor: 'transparent',
+                              color: '#000000',
+                              fontWeight: 500,
+                              fontStyle: 'italic',
+                              border: '1px solid #000000',
+                            }}
                           />
                         )}
                         <Typography variant="body2" color="text.secondary" sx={{ fontSize: '0.875rem' }}>
@@ -136,7 +144,15 @@ const VocabularySection: React.FC<VocabularySectionProps> = ({ section }) => {
                           label={`/${item.pronunciation}/`}
                           size="small"
                           variant="outlined"
-                          sx={{ fontSize: '0.75rem', height: 24, alignSelf: 'flex-start' }}
+                          sx={{ 
+                            fontSize: '0.8rem', 
+                            height: 26, 
+                            alignSelf: 'flex-start',
+                            color: '#4CAF50',
+                            borderColor: '#4CAF50',
+                            fontWeight: 500,
+                            fontStyle: 'italic',
+                          }}
                         />
                       )}
                     </Card>

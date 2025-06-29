@@ -404,7 +404,7 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({
                   sx={{
                     fontSize: `${fontSize * 2.2}px`,
                     fontWeight: 800,
-                    color: 'primary.main',
+                    color: '#FF5722',
                     letterSpacing: '0.02em',
                   }}
                 >
@@ -442,9 +442,10 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({
               <Typography
                 variant="h2"
                 sx={{
-                  fontSize: `${fontSize}px`,
-                  color: 'text.secondary',
+                  fontSize: `${fontSize * 1.3}px`,
+                  color: '#000000',
                   fontStyle: 'italic',
+                  fontWeight: 500,
                 }}
               >
                 ({item.partOfSpeech})
@@ -457,7 +458,7 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({
                 sx={{
                   fontSize: `${fontSize * 1.2}px`,
                   fontStyle: 'italic',
-                  color: 'secondary.main',
+                  color: '#4CAF50',
                   fontWeight: 600,
                   animation: autoPlay ? `${pulseAnimation} 2s infinite` : 'none',
                 }}
@@ -666,7 +667,7 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({
                     sx={{
                       fontSize: `${fontSize}px`,
                       fontWeight: 700,
-                      color: 'black',
+                      color: '#FF5722',
                     }}
                   >
                     {item.english}
@@ -675,10 +676,11 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({
                     <Typography
                       component="span"
                       sx={{
-                        fontSize: `${fontSize * 0.7}px`,
-                        color: 'text.secondary',
+                        fontSize: `${fontSize * 0.85}px`,
+                        color: '#000000',
                         fontStyle: 'italic',
                         ml: 1,
+                        fontWeight: 500,
                       }}
                     >
                       ({item.partOfSpeech})
@@ -701,16 +703,17 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({
                   </Typography>
                   {item.partOfSpeech && (
                     <Typography
-                      component="span"
-                      sx={{
-                        fontSize: `${fontSize * 0.7}px`,
-                        color: 'text.secondary',
-                        fontStyle: 'italic',
-                        ml: 1,
+                    component="span"
+                    sx={{
+                    fontSize: `${fontSize * 0.85}px`,
+                    color: '#000000',
+                    fontStyle: 'italic',
+                    ml: 1,
+                      fontWeight: 500,
                       }}
                     >
                       ({item.partOfSpeech})
-                    </Typography>
+                  </Typography>
                   )}
                 </>
               )}
@@ -721,9 +724,10 @@ const VocabularyPresentation: React.FC<VocabularyPresentationProps> = ({
               <Typography
                 sx={{
                   fontSize: `${fontSize * 0.8}px`,
-                  color: 'secondary.main',
+                  color: '#4CAF50',
                   fontStyle: 'italic',
                   minWidth: '20%',
+                  fontWeight: 500,
                 }}
               >
                 /{item.pronunciation}/

@@ -254,34 +254,75 @@ const PlainMarkdownViewer: React.FC<PlainMarkdownViewerProps> = ({ content, hasH
     h1: ({children}: any) => {
       const text = String(children);
       const id = text.toLowerCase().replace(/[^\w\s-]/g, '').replace(/\s+/g, '-');
-      return <h1 id={id} style={{ fontSize: `${fontSize * 2}px`, fontWeight: 700, margin: '32px 0 24px' }}>{children}</h1>;
+      return <h1 id={id} style={{ fontSize: `${fontSize * 2}px`, fontWeight: 700, margin: '32px 0 24px', color: '#FF5722' }}>{children}</h1>;
     },
     h2: ({children}: any) => {
       const text = String(children);
       const id = text.toLowerCase().replace(/[^\w\s-]/g, '').replace(/\s+/g, '-');
-      return <h2 id={id} style={{ fontSize: `${fontSize * 1.75}px`, fontWeight: 600, margin: '28px 0 20px' }}>{children}</h2>;
+      return <h2 id={id} style={{ fontSize: `${fontSize * 1.75}px`, fontWeight: 600, margin: '28px 0 20px', color: '#FF5722' }}>{children}</h2>;
     },
     h3: ({children}: any) => {
       const text = String(children);
       const id = text.toLowerCase().replace(/[^\w\s-]/g, '').replace(/\s+/g, '-');
-      return <h3 id={id} style={{ fontSize: `${fontSize * 1.5}px`, fontWeight: 600, margin: '24px 0 16px' }}>{children}</h3>;
+      return <h3 id={id} style={{ fontSize: `${fontSize * 1.5}px`, fontWeight: 600, margin: '24px 0 16px', color: '#FF5722' }}>{children}</h3>;
     },
     h4: ({children}: any) => {
       const text = String(children);
       const id = text.toLowerCase().replace(/[^\w\s-]/g, '').replace(/\s+/g, '-');
-      return <h4 id={id} style={{ fontSize: `${fontSize * 1.25}px`, fontWeight: 600, margin: '20px 0 12px' }}>{children}</h4>;
+      return <h4 id={id} style={{ fontSize: `${fontSize * 1.25}px`, fontWeight: 600, margin: '20px 0 12px', color: '#FF5722' }}>{children}</h4>;
     },
     h5: ({children}: any) => {
       const text = String(children);
       const id = text.toLowerCase().replace(/[^\w\s-]/g, '').replace(/\s+/g, '-');
-      return <h5 id={id} style={{ fontSize: `${fontSize * 1.1}px`, fontWeight: 600, margin: '16px 0 8px' }}>{children}</h5>;
+      return <h5 id={id} style={{ fontSize: `${fontSize * 1.1}px`, fontWeight: 600, margin: '16px 0 8px', color: '#FF5722' }}>{children}</h5>;
     },
     h6: ({children}: any) => {
       const text = String(children);
       const id = text.toLowerCase().replace(/[^\w\s-]/g, '').replace(/\s+/g, '-');
-      return <h6 id={id} style={{ fontSize: `${fontSize}px`, fontWeight: 600, margin: '16px 0 8px' }}>{children}</h6>;
+      return <h6 id={id} style={{ fontSize: `${fontSize}px`, fontWeight: 600, margin: '16px 0 8px', color: '#FF5722' }}>{children}</h6>;
     },
     p: ({children}: any) => {
+      // Function to recursively process children and style IPA and part of speech
+      const processChildren = (children: any): any => {
+        if (typeof children === 'string') {
+          // Pattern to match IPA pronunciation: /.../ 
+          const ipaPattern = /(\/[^/]+\/)/g;
+          // Pattern to match part of speech: (v), (n), (adj), etc.
+          const posPattern = /(\([a-z]+\))/g;
+          
+          // Split and process the text
+          let parts = children.split(/(\([a-z]+\)|\/[^/]+\/)/g);
+          
+          return parts.map((part, index) => {
+            if (part.match(ipaPattern)) {
+              return <span key={index} style={{ color: '#4CAF50', fontStyle: 'italic', fontWeight: 500 }}>{part}</span>;
+            } else if (part.match(posPattern)) {
+              return <span key={index} style={{ color: '#000000', fontStyle: 'italic', fontWeight: 500, fontSize: `${fontSize * 1.1}px` }}>{part}</span>;
+            }
+            return part;
+          });
+        }
+        
+        if (Array.isArray(children)) {
+          return children.map((child, index) => {
+            if (React.isValidElement(child)) {
+              return React.cloneElement(child as React.ReactElement<any>, { key: index });
+            }
+            return processChildren(child);
+          });
+        }
+        
+        if (React.isValidElement(children) && children.props.children) {
+          return React.cloneElement(children as React.ReactElement<any>, {
+            children: processChildren(children.props.children)
+          });
+        }
+        
+        return children;
+      };
+      
+      const processedChildren = processChildren(children);
+      
       // Extract text content from React children
       const extractTextFromChildren = (children: any): string => {
         if (typeof children === 'string') return children;
@@ -311,7 +352,7 @@ const PlainMarkdownViewer: React.FC<PlainMarkdownViewerProps> = ({ content, hasH
           }}
           onClick={() => speakText(word)}
           >
-            <span style={{ flex: 1 }}>{children}</span>
+            <span style={{ flex: 1 }}>{processedChildren}</span>
             <span style={{ 
               fontSize: `${fontSize * 0.6}px`,
               color: speaking === word ? '#FF5722' : '#666',
@@ -325,9 +366,50 @@ const PlainMarkdownViewer: React.FC<PlainMarkdownViewerProps> = ({ content, hasH
         );
       }
       
-      return <p style={{ fontSize: `${fontSize}px`, lineHeight: 1.8, margin: '16px 0' }}>{children}</p>;
+      return <p style={{ fontSize: `${fontSize}px`, lineHeight: 1.8, margin: '16px 0' }}>{processedChildren}</p>;
     },
     li: ({children}: any) => {
+      // Function to recursively process children and style IPA and part of speech
+      const processChildren = (children: any): any => {
+        if (typeof children === 'string') {
+          // Pattern to match IPA pronunciation: /.../ 
+          const ipaPattern = /(\/[^/]+\/)/g;
+          // Pattern to match part of speech: (v), (n), (adj), etc.
+          const posPattern = /(\([a-z]+\))/g;
+          
+          // Split and process the text
+          let parts = children.split(/(\([a-z]+\)|\/[^/]+\/)/g);
+          
+          return parts.map((part, index) => {
+            if (part.match(ipaPattern)) {
+              return <span key={index} style={{ color: '#4CAF50', fontStyle: 'italic', fontWeight: 500 }}>{part}</span>;
+            } else if (part.match(posPattern)) {
+              return <span key={index} style={{ color: '#000000', fontStyle: 'italic', fontWeight: 500, fontSize: `${fontSize * 1.1}px` }}>{part}</span>;
+            }
+            return part;
+          });
+        }
+        
+        if (Array.isArray(children)) {
+          return children.map((child, index) => {
+            if (React.isValidElement(child)) {
+              return React.cloneElement(child as React.ReactElement<any>, { key: index });
+            }
+            return processChildren(child);
+          });
+        }
+        
+        if (React.isValidElement(children) && children.props.children) {
+          return React.cloneElement(children as React.ReactElement<any>, {
+            children: processChildren(children.props.children)
+          });
+        }
+        
+        return children;
+      };
+      
+      const processedChildren = processChildren(children);
+      
       // Extract text content from React children
       const extractTextFromChildren = (children: any): string => {
         if (typeof children === 'string') return children;
@@ -360,7 +442,7 @@ const PlainMarkdownViewer: React.FC<PlainMarkdownViewerProps> = ({ content, hasH
               gap: '8px',
               width: '100%'
             }}>
-              <span style={{ flex: 1 }}>{children}</span>
+              <span style={{ flex: 1 }}>{processedChildren}</span>
               <span style={{ 
                 fontSize: `${fontSize * 0.6}px`,
                 color: speaking === word ? '#FF5722' : '#666',
@@ -376,7 +458,7 @@ const PlainMarkdownViewer: React.FC<PlainMarkdownViewerProps> = ({ content, hasH
         );
       }
       
-      return <li style={{ fontSize: `${fontSize}px`, lineHeight: 1.8, margin: '8px 0' }}>{children}</li>;
+      return <li style={{ fontSize: `${fontSize}px`, lineHeight: 1.8, margin: '8px 0' }}>{processedChildren}</li>;
     },
     ul: ({children}: any) => <ul style={{ fontSize: `${fontSize}px`, paddingLeft: '32px', margin: '16px 0' }}>{children}</ul>,
     ol: ({children}: any) => <ol style={{ fontSize: `${fontSize}px`, paddingLeft: '32px', margin: '16px 0' }}>{children}</ol>,
@@ -387,7 +469,7 @@ const PlainMarkdownViewer: React.FC<PlainMarkdownViewerProps> = ({ content, hasH
     code: ({children}: any) => <code style={{ fontSize: `${Math.max(fontSize * 0.9, 28)}px`, padding: '2px 6px' }}>{children}</code>,
     pre: ({children}: any) => <pre style={{ fontSize: `${Math.max(fontSize * 0.9, 28)}px`, padding: '20px', margin: '24px 0', overflow: 'auto' }}>{children}</pre>,
     em: ({children}: any) => <em style={{ fontSize: 'inherit', fontStyle: 'italic', display: showTranslations ? 'inline' : 'none' }}>{children}</em>,
-    strong: ({children}: any) => <strong style={{ fontSize: 'inherit', fontWeight: 700 }}>{children}</strong>,
+    strong: ({children}: any) => <strong style={{ fontSize: 'inherit', fontWeight: 700, color: '#FF5722' }}>{children}</strong>,
     a: ({children, href}: any) => <a href={href} style={{ fontSize: 'inherit', color: '#FF5722' }}>{children}</a>,
   }), [fontSize, showTranslations, viewMode, isVocabularyLine, extractVocabularyWord, speakText, speaking]);
 
