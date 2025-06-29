@@ -313,7 +313,7 @@ const PlainMarkdownViewer: React.FC<PlainMarkdownViewerProps> = ({ content }) =>
             <span style={{ flex: 1 }}>{children}</span>
             <span style={{ 
               fontSize: `${fontSize * 0.6}px`,
-              color: speaking === word ? '#00D084' : '#666',
+              color: speaking === word ? '#FF5722' : '#666',
               fontStyle: 'italic',
               whiteSpace: 'nowrap',
               userSelect: 'none'
@@ -362,7 +362,7 @@ const PlainMarkdownViewer: React.FC<PlainMarkdownViewerProps> = ({ content }) =>
               <span style={{ flex: 1 }}>{children}</span>
               <span style={{ 
                 fontSize: `${fontSize * 0.6}px`,
-                color: speaking === word ? '#00D084' : '#666',
+                color: speaking === word ? '#FF5722' : '#666',
                 fontStyle: 'italic',
                 whiteSpace: 'nowrap',
                 userSelect: 'none',
@@ -387,7 +387,7 @@ const PlainMarkdownViewer: React.FC<PlainMarkdownViewerProps> = ({ content }) =>
     pre: ({children}: any) => <pre style={{ fontSize: `${Math.max(fontSize * 0.9, 28)}px`, padding: '20px', margin: '24px 0', overflow: 'auto' }}>{children}</pre>,
     em: ({children}: any) => <em style={{ fontSize: 'inherit', fontStyle: 'italic', display: showTranslations ? 'inline' : 'none' }}>{children}</em>,
     strong: ({children}: any) => <strong style={{ fontSize: 'inherit', fontWeight: 700 }}>{children}</strong>,
-    a: ({children, href}: any) => <a href={href} style={{ fontSize: 'inherit', color: '#00D084' }}>{children}</a>,
+    a: ({children, href}: any) => <a href={href} style={{ fontSize: 'inherit', color: '#FF5722' }}>{children}</a>,
   }), [fontSize, showTranslations, viewMode, isVocabularyLine, extractVocabularyWord, speakText, speaking]);
 
   // Scroll tracking

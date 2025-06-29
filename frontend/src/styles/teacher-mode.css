@@ -1,4 +1,4 @@
-/* Teacher Mode Optimized Styles - Lightweight and Fast */
+/* Teacher Mode Optimized Styles - Red/Orange Theme */
 
 /* Remove heavy animations */
 * {
@@ -8,7 +8,7 @@
 
 /* Disable background animations */
 body {
-  background: #f8f9fa !important;
+  background: #FFF3E0 !important;
   animation: none !important;
 }
 
@@ -32,7 +32,7 @@ body {
     padding: 0;
   }
   50% { 
-    background-color: rgba(16, 185, 129, 0.1);
+    background-color: rgba(255, 87, 34, 0.1);
     padding: 0 12px;
     border-radius: 8px;
   }
@@ -63,7 +63,7 @@ kbd {
 
 /* Focus states for keyboard navigation */
 .content-section:focus-within {
-  outline: 3px solid #00D084;
+  outline: 3px solid #FF5722;
   outline-offset: 4px;
 }
 
@@ -115,7 +115,7 @@ kbd {
   position: fixed;
   top: 10px;
   right: 10px;
-  background: #00D084;
+  background: #FF5722;
   color: white;
   padding: 4px 12px;
   border-radius: 20px;
@@ -127,8 +127,8 @@ kbd {
 
 /* Vocabulary focus mode highlight */
 .vocabulary-focus-mode {
-  border: 3px solid #00D084;
-  background: rgba(0, 208, 132, 0.05);
+  border: 3px solid #FF5722;
+  background: rgba(255, 87, 34, 0.05);
   padding: 8px;
   border-radius: 8px;
   margin: 4px 0;
@@ -160,4 +160,9 @@ kbd {
 .glass-effect {
   backdrop-filter: none !important;
   background: rgba(255, 255, 255, 0.95) !important;
+}
+
+/* Bold text in red theme */
+strong, b {
+  color: #FF5722 !important;
 }

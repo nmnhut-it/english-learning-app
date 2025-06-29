@@ -1,6 +1,6 @@
 **UNIT 1: MY NEW SCHOOL** 
 
-# **GETTING STARTED** 
+**GETTING STARTED** 
 
 *(Loud knock)*
 
@@ -145,7 +145,7 @@ phục của chúng ta.
 *5\. Rubber*  
 *6\. Pencil case*
 
-# **A CLOSER LOOK 1 (tập bài học)** 
+**A CLOSER LOOK 1 (tập bài học)** 
 
 1. **school lunch:** (n) bữa trưa ở trường /skuːl lʌntʃ/  
 2. **English:** (n) tiếng Anh /ˈɪŋ.ɡlɪʃ/  

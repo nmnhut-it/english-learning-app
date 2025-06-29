@@ -1,4 +1,4 @@
-/* Optimized Plain Mode Enhancements - Lightweight & Large Text */
+/* Optimized Plain Mode Enhancements - Red/Orange Theme */
 /* Minimal GPU/CPU usage with simplified effects */
 
 /* Force large text sizes throughout */
@@ -8,43 +8,43 @@
 
 /* Headings - Simple styling without heavy effects */
 .plain-mode-content h1 {
-  background: rgba(240, 255, 244, 0.5) !important;
-  border-left: 6px solid #00D084 !important;
+  background: rgba(255, 243, 224, 0.5) !important;
+  border-left: 6px solid #FF5722 !important;
   border-radius: 8px !important;
   padding: 16px 32px !important;
   color: #000000 !important;
 }
 
 .plain-mode-content h2 {
-  background: rgba(240, 255, 244, 0.3) !important;
-  border-left: 5px solid #00D084 !important;
+  background: rgba(255, 243, 224, 0.3) !important;
+  border-left: 5px solid #FF5722 !important;
   border-radius: 6px !important;
   padding: 12px 24px !important;
   color: #000000 !important;
 }
 
 .plain-mode-content h3 {
-  background: rgba(240, 255, 244, 0.2) !important;
-  border-left: 4px solid #00D084 !important;
+  background: rgba(255, 243, 224, 0.2) !important;
+  border-left: 4px solid #FF6E40 !important;
   border-radius: 4px !important;
   padding: 8px 16px !important;
   color: #000000 !important;
 }
 
-/* Bold text - Simple highlight */
+/* Bold text - Simple highlight with red color */
 .plain-mode-content strong,
 .plain-mode-content b {
-  background: rgba(0, 208, 132, 0.1) !important;
+  background: rgba(255, 87, 34, 0.1) !important;
   padding: 2px 6px !important;
   border-radius: 4px !important;
   font-weight: 700 !important;
-  color: #000000 !important;
+  color: #FF5722 !important; /* Red color for bold text */
 }
 
 /* Tables - Simplified */
 .plain-mode-content table {
   background: #ffffff !important;
-  border: 2px solid #00D084 !important;
+  border: 2px solid #FF5722 !important;
   border-radius: 8px !important;
   overflow: hidden !important;
   margin: 32px 0 !important;
@@ -54,15 +54,15 @@
 }
 
 .plain-mode-content th {
-  background: rgba(0, 208, 132, 0.1) !important;
+  background: rgba(255, 87, 34, 0.1) !important;
   font-weight: 700 !important;
   text-align: left !important;
-  border-bottom: 2px solid #00D084 !important;
+  border-bottom: 2px solid #FF5722 !important;
   color: #000000 !important;
 }
 
 .plain-mode-content td {
-  border-bottom: 1px solid rgba(0, 208, 132, 0.2) !important;
+  border-bottom: 1px solid rgba(255, 87, 34, 0.2) !important;
   color: #000000 !important;
 }
 
@@ -71,13 +71,13 @@
 }
 
 .plain-mode-content tbody tr:hover {
-  background: rgba(0, 208, 132, 0.05) !important;
+  background: rgba(255, 87, 34, 0.05) !important;
 }
 
 /* Blockquotes - Simple style */
 .plain-mode-content blockquote {
-  background: rgba(240, 255, 244, 0.5) !important;
-  border-left: 5px solid #00D084 !important;
+  background: rgba(255, 243, 224, 0.5) !important;
+  border-left: 5px solid #FF5722 !important;
   border-radius: 8px !important;
   font-style: italic !important;
   color: #000000 !important;
@@ -86,14 +86,14 @@
 /* Code blocks - Minimal styling */
 .plain-mode-content pre {
   background: #f8f8f8 !important;
-  border: 2px solid rgba(0, 208, 132, 0.3) !important;
+  border: 2px solid rgba(255, 87, 34, 0.3) !important;
   border-radius: 8px !important;
   overflow-x: auto !important;
 }
 
 .plain-mode-content code:not(pre code) {
-  background: rgba(0, 208, 132, 0.1) !important;
-  border: 1px solid rgba(0, 208, 132, 0.3) !important;
+  background: rgba(255, 87, 34, 0.1) !important;
+  border: 1px solid rgba(255, 87, 34, 0.3) !important;
   border-radius: 4px !important;
   font-family: 'Consolas', 'Monaco', 'Courier New', monospace !important;
   color: #000000 !important;
@@ -101,12 +101,12 @@
 
 /* Lists */
 .plain-mode-content ul li::marker {
-  color: #00D084 !important;
+  color: #FF5722 !important;
 }
 
 /* Links */
 .plain-mode-content a {
-  color: #00D084 !important;
+  color: #FF5722 !important;
   text-decoration: underline !important;
   text-decoration-thickness: 2px !important;
   text-underline-offset: 4px !important;
@@ -114,14 +114,14 @@
 
 .plain-mode-content a:hover {
   text-decoration-thickness: 3px !important;
-  background: rgba(0, 208, 132, 0.05) !important;
+  background: rgba(255, 87, 34, 0.05) !important;
 }
 
 /* Horizontal rules */
 .plain-mode-content hr {
   border: none !important;
   height: 2px !important;
-  background: #00D084 !important;
+  background: #FF5722 !important;
   margin: 32px 0 !important;
   opacity: 0.3 !important;
 }
@@ -134,8 +134,8 @@
 
 /* Vocabulary list items - Simple enhancement */
 .plain-mode-content ul:has(li strong:first-child) li {
-  background: rgba(240, 255, 244, 0.3) !important;
-  border-left: 3px solid #00D084 !important;
+  background: rgba(255, 243, 224, 0.3) !important;
+  border-left: 3px solid #FF5722 !important;
   border-radius: 4px !important;
   padding: 8px 16px !important;
   margin: 8px 0 !important;
@@ -145,14 +145,14 @@
 /* Aided mode vocabulary items */
 .plain-mode-content p[style*="cursor: pointer"]:hover,
 .plain-mode-content li[style*="cursor: pointer"]:hover {
-  background: rgba(0, 208, 132, 0.05) !important;
+  background: rgba(255, 87, 34, 0.05) !important;
   border-radius: 4px !important;
   transition: background-color 0.2s ease !important;
 }
 
 .plain-mode-content p[style*="cursor: pointer"]:hover span:last-child,
 .plain-mode-content li[style*="cursor: pointer"]:hover span:last-child {
-  color: #00D084 !important;
+  color: #FF5722 !important;
   transition: color 0.2s ease !important;
 }
 
@@ -175,7 +175,7 @@
 
 /* Focus states for accessibility */
 .plain-mode-content *:focus {
-  outline: 3px solid #00D084 !important;
+  outline: 3px solid #FF5722 !important;
   outline-offset: 2px !important;
 }
 

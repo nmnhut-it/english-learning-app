@@ -22,22 +22,28 @@ const theme = createTheme({
   palette: {
     mode: 'light',
     primary: {
-      main: '#00D084',
-      light: '#4ADE80',
-      dark: '#059669',
+      main: '#FF5722', // Deep Orange
+      light: '#FF8A65',
+      dark: '#E64A19',
     },
     secondary: {
-      main: '#10B981',
-      light: '#86EFAC',
-      dark: '#047857',
+      main: '#FF6E40', // Orange
+      light: '#FFAB91',
+      dark: '#FF3D00',
     },
     background: {
-      default: '#f8f9fa',
+      default: '#FFF3E0', // Very light orange tint
       paper: 'rgba(255, 255, 255, 0.95)',
     },
     text: {
       primary: '#000000',
       secondary: 'rgba(0, 0, 0, 0.7)',
+    },
+    error: {
+      main: '#D32F2F',
+    },
+    success: {
+      main: '#FF6E40', // Using orange for success to maintain theme
     },
   },
   typography: {

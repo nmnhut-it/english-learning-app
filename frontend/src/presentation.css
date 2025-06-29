@@ -1,4 +1,4 @@
-/* Global presentation styles */
+/* Global presentation styles - Red/Orange Theme */
 body {
   margin: 0;
   padding: 0;
@@ -21,15 +21,16 @@ table {
 }
 
 th, td {
-  border: 1px solid #ddd;
+  border: 1px solid #FFCCBC;
   padding: 12px;
   text-align: left;
   font-size: 1.25rem;
 }
 
 th {
-  background-color: #f2f2f2;
+  background-color: #FFF3E0;
   font-weight: 600;
+  color: #FF5722;
 }
 
 /* Hide scrollbars but keep functionality */
@@ -43,12 +44,12 @@ th {
 }
 
 *::-webkit-scrollbar-thumb {
-  background: rgba(0, 0, 0, 0.2);
+  background: rgba(255, 87, 34, 0.3);
   border-radius: 4px;
 }
 
 *::-webkit-scrollbar-thumb:hover {
-  background: rgba(0, 0, 0, 0.3);
+  background: rgba(255, 87, 34, 0.5);
 }
 
 /* Fullscreen mode adjustments */
@@ -131,7 +132,7 @@ th {
   position: fixed;
   bottom: 20px;
   right: 20px;
-  background: rgba(0, 0, 0, 0.8);
+  background: rgba(255, 87, 34, 0.9);
   color: white;
   padding: 10px 15px;
   border-radius: 5px;
