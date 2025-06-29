@@ -251,20 +251,21 @@ const PlainMarkdownViewer: React.FC<PlainMarkdownViewerProps> = ({ content }) =>
             margin: '16px 0',
             display: 'flex',
             alignItems: 'center',
-            gap: '8px'
-          }}>
+            gap: '8px',
+            cursor: 'pointer'
+          }}
+          onClick={() => speakText(word)}
+          >
             <span style={{ flex: 1 }}>{children}</span>
-            <IconButton
-              onClick={() => speakText(word)}
-              size="small"
-              sx={{ 
-                ml: 1,
-                color: speaking === word ? 'primary.main' : 'text.secondary',
-                '&:hover': { color: 'primary.main' }
-              }}
-            >
-              <VolumeUpIcon sx={{ fontSize: `${fontSize * 0.8}px` }} />
-            </IconButton>
+            <span style={{ 
+              fontSize: `${fontSize * 0.6}px`,
+              color: speaking === word ? '#00D084' : '#666',
+              fontStyle: 'italic',
+              whiteSpace: 'nowrap',
+              userSelect: 'none'
+            }}>
+              {speaking === word ? 'speaking...' : 'click to pronounce'}
+            </span>
           </p>
         );
       }
@@ -282,22 +283,28 @@ const PlainMarkdownViewer: React.FC<PlainMarkdownViewerProps> = ({ content }) =>
             fontSize: `${fontSize}px`, 
             lineHeight: 1.8, 
             margin: '8px 0',
-            display: 'flex',
-            alignItems: 'flex-start',
-            gap: '8px'
-          }}>
-            <span style={{ flex: 1 }}>{children}</span>
-            <IconButton
-              onClick={() => speakText(word)}
-              size="small"
-              sx={{ 
-                mt: '-4px',
-                color: speaking === word ? 'primary.main' : 'text.secondary',
-                '&:hover': { color: 'primary.main' }
-              }}
-            >
-              <VolumeUpIcon sx={{ fontSize: `${fontSize * 0.8}px` }} />
-            </IconButton>
+            cursor: 'pointer'
+          }}
+          onClick={() => speakText(word)}
+          >
+            <div style={{
+              display: 'flex',
+              alignItems: 'flex-start',
+              gap: '8px',
+              width: '100%'
+            }}>
+              <span style={{ flex: 1 }}>{children}</span>
+              <span style={{ 
+                fontSize: `${fontSize * 0.6}px`,
+                color: speaking === word ? '#00D084' : '#666',
+                fontStyle: 'italic',
+                whiteSpace: 'nowrap',
+                userSelect: 'none',
+                marginTop: '2px'
+              }}>
+                {speaking === word ? 'speaking...' : 'click to pronounce'}
+              </span>
+            </div>
           </li>
         );
       }
