@@ -1,6 +1,6 @@
-**UNIT 7: TELEVISION** 
+# UNIT 7: TELEVISION
 
-**GETTING STARTED**  
+## GETTING STARTED  
 **Vocabulary:** 
 
 1. The Voice Kid: giọng hát Việt nhí   

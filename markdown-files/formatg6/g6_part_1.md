@@ -1,6 +1,6 @@
-**UNIT 1: MY NEW SCHOOL** 
+# UNIT 1: MY NEW SCHOOL
 
-**GETTING STARTED** 
+## GETTING STARTED 
 
 *(Loud knock)*
 

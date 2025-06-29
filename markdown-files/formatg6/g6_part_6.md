@@ -1,5 +1,6 @@
-**UNIT 6: OUR TET HOLIDAY**   
-**GETTING STARTED**   
+# UNIT 6: OUR TET HOLIDAY
+
+## GETTING STARTED   
 **Vocabulary** 
 
 1. advice: (n) lời khuyên, lời góp ý /ədˈvaɪs/  

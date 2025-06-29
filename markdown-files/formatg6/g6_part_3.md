@@ -1,6 +1,6 @@
-**UNIT 3: MY FRIENDS**
+# UNIT 3: MY FRIENDS
 
-# **GETTING STARTED**
+## GETTING STARTED
 
 1. **that:** (pron) cái đó /ðæt/  
 2. **was:** (v) đã là /wʌz/  

@@ -1,6 +1,6 @@
-**UNIT 2: MY HOUSE** 
+# UNIT 2: MY HOUSE
 
-# **GETTING STARTED**
+## GETTING STARTED
 
 1. your: (pron) của bạn /jʊr/  
 2. room: (n) phòng /ruːm/  

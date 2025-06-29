@@ -148,8 +148,25 @@ export class MarkdownService {
         const { data } = matter(content);
         
         // Extract title from content if not in frontmatter
-        const titleMatch = content.match(/^#\s+(.+)$/m);
-        const title = data.title || (titleMatch ? titleMatch[1] : item.replace('.md', ''));
+        // Look for the first # heading (main title) at the start of the content
+        const lines = content.split('\n');
+        let title = data.title;
+        
+        if (!title) {
+          // Find the first non-empty line that starts with #
+          for (const line of lines) {
+            const match = line.match(/^#\s+(.+)$/);
+            if (match) {
+              title = match[1].trim();
+              break;
+            }
+          }
+        }
+        
+        // Fallback to filename if no title found
+        if (!title) {
+          title = item.replace('.md', '').replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase());
+        }
         
         node.children!.push({
           name: item,
