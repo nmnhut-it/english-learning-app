@@ -127,6 +127,43 @@ const PlainMarkdownViewer: React.FC<PlainMarkdownViewerProps> = ({ content }) =>
     speechSynthesis.current.pitch = 1;
     speechSynthesis.current.volume = 1;
     
+    // Get available voices and prioritize Google male voice
+    const setVoice = () => {
+      const voices = window.speechSynthesis.getVoices();
+      
+      // Priority order for voice selection
+      const voicePreferences = [
+        // Google voices (male)
+        voice => voice.name.includes('Google') && voice.name.includes('Male'),
+        voice => voice.name.includes('Google US English Male'),
+        voice => voice.name.includes('Google') && voice.lang === 'en-US' && !voice.name.includes('Female'),
+        // Any Google English voice
+        voice => voice.name.includes('Google') && voice.lang.startsWith('en'),
+        // Microsoft male voices
+        voice => voice.name.includes('Microsoft') && voice.name.includes('Male') && voice.lang === 'en-US',
+        // Any male voice
+        voice => voice.name.includes('Male') && voice.lang === 'en-US',
+        // Fallback to any US English voice
+        voice => voice.lang === 'en-US'
+      ];
+      
+      // Try each preference in order
+      for (const preference of voicePreferences) {
+        const preferredVoice = voices.find(preference);
+        if (preferredVoice) {
+          speechSynthesis.current.voice = preferredVoice;
+          break;
+        }
+      }
+    };
+    
+    // Set voice immediately if available, or wait for voices to load
+    if (window.speechSynthesis.getVoices().length > 0) {
+      setVoice();
+    } else {
+      window.speechSynthesis.onvoiceschanged = setVoice;
+    }
+    
     speechSynthesis.current.onstart = () => setSpeaking(text);
     speechSynthesis.current.onend = () => setSpeaking(null);
     speechSynthesis.current.onerror = () => setSpeaking(null);
@@ -340,6 +377,23 @@ const PlainMarkdownViewer: React.FC<PlainMarkdownViewerProps> = ({ content }) =>
       container.addEventListener('scroll', handleScroll);
       return () => container.removeEventListener('scroll', handleScroll);
     }
+  }, []);
+
+  // Preload voices on mount
+  useEffect(() => {
+    // Force load voices
+    window.speechSynthesis.getVoices();
+    
+    // Some browsers need this event to load voices
+    const handleVoicesChanged = () => {
+      window.speechSynthesis.getVoices();
+    };
+    
+    window.speechSynthesis.onvoiceschanged = handleVoicesChanged;
+    
+    return () => {
+      window.speechSynthesis.onvoiceschanged = null;
+    };
   }, []);
 
   // Cleanup speech on unmount
