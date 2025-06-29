@@ -176,11 +176,11 @@ const PresentationLayout: React.FC<PresentationLayoutProps> = ({
               sx={{ 
                 mr: 2,
                 textTransform: 'none',
-                background: 'linear-gradient(135deg, #00D084, #10B981)',
-                boxShadow: '0 4px 20px rgba(0, 208, 132, 0.3)',
+                background: 'linear-gradient(135deg, #FF5722, #FF6E40)',
+                boxShadow: '0 4px 20px rgba(255, 87, 34, 0.3)',
                 '&:hover': {
-                  background: 'linear-gradient(135deg, #10B981, #00D084)',
-                  boxShadow: '0 6px 30px rgba(0, 208, 132, 0.4)',
+                  background: 'linear-gradient(135deg, #FF6E40, #FF5722)',
+                  boxShadow: '0 6px 30px rgba(255, 87, 34, 0.4)',
                 },
               }}
             >
