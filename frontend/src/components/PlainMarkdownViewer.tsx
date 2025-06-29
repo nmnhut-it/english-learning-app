@@ -211,6 +211,11 @@ const PlainMarkdownViewer: React.FC<PlainMarkdownViewerProps> = ({ content }) =>
     const boldMatch = text.match(/\*\*([^*]+)\*\*/);
     if (boldMatch) return boldMatch[1];
     
+    // Pattern for format: "word/phrase : (part) translation /pronunciation/"
+    // This handles multi-word phrases like "come back", "Sunday morning", "Green School Club"
+    const colonFormatMatch = text.match(/^([A-Za-z][A-Za-z\s]*?)\s*:\s*\(/);
+    if (colonFormatMatch) return colonFormatMatch[1].trim();
+    
     // Pattern for numbered list format: "1. build : (v) xây dựng /bɪld/"
     const numberedMatch = text.match(/^\d+\.\s*([A-Za-z][A-Za-z\s]*?)\s*:/);
     if (numberedMatch) return numberedMatch[1].trim();
@@ -236,7 +241,7 @@ const PlainMarkdownViewer: React.FC<PlainMarkdownViewerProps> = ({ content }) =>
     if (tabMatch) return tabMatch[1].trim();
     
     // Return the first word(s) that look like English
-    const firstWordMatch = text.match(/^[-•●◦▪▸\d.\s]*([A-Za-z][A-Za-z\s]{0,20}?)(?:[^A-Za-z\s]|$)/);
+    const firstWordMatch = text.match(/^[-•●◦▪▸\d.\s]*([A-Za-z][A-Za-z\s]{0,30}?)(?:[^A-Za-z\s]|$)/);
     if (firstWordMatch) return firstWordMatch[1].trim();
     
     // Fallback: clean up and return
@@ -276,7 +281,19 @@ const PlainMarkdownViewer: React.FC<PlainMarkdownViewerProps> = ({ content }) =>
       return <h6 id={id} style={{ fontSize: `${fontSize}px`, fontWeight: 600, margin: '16px 0 8px' }}>{children}</h6>;
     },
     p: ({children}: any) => {
-      const text = React.Children.toArray(children).join('');
+      // Extract text content from React children
+      const extractTextFromChildren = (children: any): string => {
+        if (typeof children === 'string') return children;
+        if (Array.isArray(children)) {
+          return children.map(child => extractTextFromChildren(child)).join('');
+        }
+        if (children?.props?.children) {
+          return extractTextFromChildren(children.props.children);
+        }
+        return String(children || '');
+      };
+      
+      const text = extractTextFromChildren(children);
       const shouldShowSpeaker = viewMode === 'aided' && isVocabularyLine(text);
       
       if (shouldShowSpeaker) {
@@ -310,7 +327,19 @@ const PlainMarkdownViewer: React.FC<PlainMarkdownViewerProps> = ({ content }) =>
       return <p style={{ fontSize: `${fontSize}px`, lineHeight: 1.8, margin: '16px 0' }}>{children}</p>;
     },
     li: ({children}: any) => {
-      const text = React.Children.toArray(children).join('');
+      // Extract text content from React children
+      const extractTextFromChildren = (children: any): string => {
+        if (typeof children === 'string') return children;
+        if (Array.isArray(children)) {
+          return children.map(child => extractTextFromChildren(child)).join('');
+        }
+        if (children?.props?.children) {
+          return extractTextFromChildren(children.props.children);
+        }
+        return String(children || '');
+      };
+      
+      const text = extractTextFromChildren(children);
       const shouldShowSpeaker = viewMode === 'aided' && isVocabularyLine(text);
       
       if (shouldShowSpeaker) {
