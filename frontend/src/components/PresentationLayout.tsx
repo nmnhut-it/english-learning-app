@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import {
   Box,
   AppBar,
@@ -34,6 +34,7 @@ interface PresentationLayoutProps {
   onSectionSelect?: (section: string) => void;
   showSectionControls?: boolean;
   extraControls?: React.ReactNode;
+  onHeaderVisibilityChange?: (visible: boolean) => void;
 }
 
 const PresentationLayout: React.FC<PresentationLayoutProps> = ({
@@ -47,10 +48,16 @@ const PresentationLayout: React.FC<PresentationLayoutProps> = ({
   onSectionSelect,
   showSectionControls = true,
   extraControls,
+  onHeaderVisibilityChange,
 }) => {
   const theme = useTheme();
   const [anchorEl, setAnchorEl] = useState<null | HTMLElement>(null);
   const [headerVisible, setHeaderVisible] = useState(false); // Hidden by default
+
+  // Notify parent when header visibility changes
+  useEffect(() => {
+    onHeaderVisibilityChange?.(headerVisible);
+  }, [headerVisible, onHeaderVisibilityChange]);
 
   const handleMenuOpen = (event: React.MouseEvent<HTMLElement>) => {
     setAnchorEl(event.currentTarget);
@@ -140,22 +147,25 @@ const PresentationLayout: React.FC<PresentationLayoutProps> = ({
       backgroundColor: 'background.default',
     }}>
       {/* Collapsible Header */}
-      <Collapse in={headerVisible}>
+      <Collapse in={headerVisible} sx={{ position: 'relative', zIndex: 1200 }}>
         <AppBar 
           position="static" 
           elevation={0}
           className="glass-nav"
           sx={{ 
-            backgroundColor: 'transparent !important',
+            backgroundColor: 'background.paper',
             borderBottom: `1px solid rgba(0, 0, 0, 0.08)`,
             color: 'text.primary',
+            position: 'relative',
+            zIndex: 1200, // Ensure header is above content
           }}
         >
           <Toolbar 
-            variant="dense" 
             sx={{ 
-              minHeight: 48,
+              minHeight: 64,
               px: { xs: 1, sm: 2 },
+              gap: 2,
+              flexWrap: 'wrap',
             }}
           >
             {/* File Menu */}
@@ -178,57 +188,101 @@ const PresentationLayout: React.FC<PresentationLayoutProps> = ({
             </Button>
             
             {/* Breadcrumb Navigation */}
-            <Breadcrumbs 
-              separator="›" 
-              sx={{ 
-                flexGrow: 1,
-                '& .MuiBreadcrumbs-separator': { mx: 1 },
-              }}
-            >
-              <Link
-                color="inherit"
-                href="#"
-                onClick={(e) => {
-                  e.preventDefault();
-                  // Could navigate to home or file list
+            <Box sx={{ 
+              flexGrow: 1,
+              display: 'flex',
+              alignItems: 'center',
+              minWidth: 0,
+              overflow: 'hidden'
+            }}>
+              <Breadcrumbs 
+                separator="›" 
+                sx={{ 
+                  '& .MuiBreadcrumbs-separator': { mx: 1 },
+                  '& .MuiBreadcrumbs-ol': {
+                    flexWrap: 'nowrap',
+                  },
+                  maxWidth: '100%',
                 }}
-                sx={{ display: 'flex', alignItems: 'center' }}
               >
-                <HomeIcon sx={{ mr: 0.5, fontSize: 20 }} />
-              </Link>
-              {currentFile && (
-                <Typography color="text.primary" sx={{ fontSize: '1.1rem', fontWeight: 500, color: '#000000' }}>
-                {(() => {
-                    // Find the file in the tree to get its title
-                    const findFileTitle = (node: FileTreeNode, path: string): string | null => {
-                      if (node.type === 'file' && node.path === path) {
-                        return node.title || node.name.replace(/\.md$/, '').replace(/[-_]/g, ' ');
-                      }
-                      if (node.children) {
-                        for (const child of node.children) {
-                          const title = findFileTitle(child, path);
-                          if (title) return title;
+                <Link
+                  color="inherit"
+                  href="#"
+                  onClick={(e) => {
+                    e.preventDefault();
+                    // Could navigate to home or file list
+                  }}
+                  sx={{ display: 'flex', alignItems: 'center', flexShrink: 0 }}
+                >
+                  <HomeIcon sx={{ mr: 0.5, fontSize: 20 }} />
+                </Link>
+                {currentFile && (
+                  <Typography 
+                    color="text.primary" 
+                    sx={{ 
+                      fontSize: '1rem', 
+                      fontWeight: 500, 
+                      color: '#000000',
+                      overflow: 'hidden',
+                      textOverflow: 'ellipsis',
+                      whiteSpace: 'nowrap',
+                      maxWidth: '300px'
+                    }}
+                  >
+                  {(() => {
+                      // Find the file in the tree to get its title
+                      const findFileTitle = (node: FileTreeNode, path: string): string | null => {
+                        if (node.type === 'file' && node.path === path) {
+                          return node.title || node.name.replace(/\.md$/, '').replace(/[-_]/g, ' ');
                         }
-                      }
-                      return null;
-                    };
-                    return files ? findFileTitle(files, currentFile) || currentFile : currentFile;
-                  })()}
-                </Typography>
-              )}
-              {currentSection && (
-                <Typography color="primary" sx={{ fontSize: '1.1rem', fontWeight: 600, color: '#000000' }}>
-                  {currentSection}
-                </Typography>
-              )}
-            </Breadcrumbs>
+                        if (node.children) {
+                          for (const child of node.children) {
+                            const title = findFileTitle(child, path);
+                            if (title) return title;
+                          }
+                        }
+                        return null;
+                      };
+                      return files ? findFileTitle(files, currentFile) || currentFile : currentFile;
+                    })()}
+                  </Typography>
+                )}
+                {currentSection && (
+                  <Typography 
+                    color="primary" 
+                    sx={{ 
+                      fontSize: '1rem', 
+                      fontWeight: 600, 
+                      color: '#000000',
+                      overflow: 'hidden',
+                      textOverflow: 'ellipsis',
+                      whiteSpace: 'nowrap',
+                      maxWidth: '200px'
+                    }}
+                  >
+                    {currentSection}
+                  </Typography>
+                )}
+              </Breadcrumbs>
+            </Box>
 
             {/* Extra Controls (View Mode Toggle) */}
-            {extraControls}
+            <Box sx={{ 
+              display: 'flex', 
+              alignItems: 'center',
+              flexShrink: 0,
+            }}>
+              {extraControls}
+            </Box>
 
             {/* Section Navigation */}
-            {showSectionControls && (
-              <Box sx={{ display: 'flex', alignItems: 'center', gap: 1, ml: 2 }}>
+            {showSectionControls && sections.length > 0 && (
+              <Box sx={{ 
+                display: 'flex', 
+                alignItems: 'center', 
+                gap: 1, 
+                flexShrink: 0,
+              }}>
                 <IconButton
                   size="small"
                   onClick={() => onSectionChange?.('prev')}
@@ -236,7 +290,7 @@ const PresentationLayout: React.FC<PresentationLayoutProps> = ({
                 >
                   <NavigateBeforeIcon />
                 </IconButton>
-                <Typography variant="body2" sx={{ minWidth: 60, textAlign: 'center' }}>
+                <Typography variant="body2" sx={{ minWidth: 60, textAlign: 'center', fontSize: '0.875rem' }}>
                   {getCurrentSectionIndex() + 1} / {sections.length}
                 </Typography>
                 <IconButton
@@ -255,10 +309,10 @@ const PresentationLayout: React.FC<PresentationLayoutProps> = ({
       {/* Header Toggle Button */}
       <Box sx={{ 
         position: 'fixed', 
-        top: headerVisible ? 56 : 8, 
+        top: headerVisible ? 70 : 8, 
         left: '50%', 
         transform: 'translateX(-50%)',
-        zIndex: 1100,
+        zIndex: 1300, // Above everything
         transition: 'top 0.3s ease',
       }}>
         <Fab
@@ -285,7 +339,7 @@ const PresentationLayout: React.FC<PresentationLayoutProps> = ({
           position: 'fixed', 
           top: 8, 
           left: 8, 
-          zIndex: 1100,
+          zIndex: 1200, // Same as header
           display: 'flex',
           gap: 1,
           alignItems: 'center',
@@ -344,9 +398,10 @@ const PresentationLayout: React.FC<PresentationLayoutProps> = ({
             mt: 1,
             border: `1px solid ${theme.palette.divider}`,
             boxShadow: theme.shadows[4],
-          '& .MuiMenuItem-root': {
-            color: '#000000',
-          },
+            zIndex: 1300, // Above everything
+            '& .MuiMenuItem-root': {
+              color: '#000000',
+            },
           },
         }}
       >

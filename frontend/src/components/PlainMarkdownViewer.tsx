@@ -38,6 +38,7 @@ import '../styles/plain-mode-enhancements.css';
 
 interface PlainMarkdownViewerProps {
   content: string;
+  hasHeader?: boolean;
 }
 
 interface TOCItem {
@@ -53,7 +54,7 @@ const MIN_FONT_SIZE = 28;
 const DEFAULT_FONT_SIZE = 32;
 const MAX_FONT_SIZE = 48;
 
-const PlainMarkdownViewer: React.FC<PlainMarkdownViewerProps> = ({ content }) => {
+const PlainMarkdownViewer: React.FC<PlainMarkdownViewerProps> = ({ content, hasHeader = true }) => {
   const [fontSize, setFontSize] = useState(DEFAULT_FONT_SIZE);
   const [showTranslations, setShowTranslations] = useState(true);
   const [tocOpen, setTocOpen] = useState(false);
@@ -528,7 +529,7 @@ const PlainMarkdownViewer: React.FC<PlainMarkdownViewerProps> = ({ content }) =>
           left: 0,
           right: 0,
           height: 3,
-          zIndex: 1100
+          zIndex: 900, // Lower than header
         }}
       />
 
@@ -541,7 +542,7 @@ const PlainMarkdownViewer: React.FC<PlainMarkdownViewerProps> = ({ content }) =>
             left: '50%',
             transform: 'translateX(-50%)',
             p: 1,
-            zIndex: 1200,
+            zIndex: 950, // Lower than header controls
             minWidth: 400,
             boxShadow: 4
           }}
@@ -589,14 +590,18 @@ const PlainMarkdownViewer: React.FC<PlainMarkdownViewerProps> = ({ content }) =>
       <Paper 
         sx={{ 
           position: 'fixed',
-          top: 80,
+          top: hasHeader ? 80 : 20,
           right: 20,
           p: 1,
           display: 'flex',
           flexDirection: 'column',
           gap: 1,
-          zIndex: 1000,
-          boxShadow: 3
+          zIndex: 900, // Lower than header
+          boxShadow: 3,
+          bgcolor: 'background.paper',
+          border: '1px solid',
+          borderColor: 'divider',
+          transition: 'top 0.3s ease',
         }}
       >
         {/* View Mode Toggle */}
@@ -711,7 +716,7 @@ const PlainMarkdownViewer: React.FC<PlainMarkdownViewerProps> = ({ content }) =>
             position: 'fixed',
             bottom: 20,
             right: 20,
-            zIndex: 1000
+            zIndex: 900, // Lower than header
           }}
         >
           <KeyboardArrowUpIcon fontSize="large" />

@@ -22,28 +22,22 @@ const theme = createTheme({
   palette: {
     mode: 'light',
     primary: {
-      main: '#FF5722', // Deep Orange
-      light: '#FF8A65',
-      dark: '#E64A19',
+      main: '#00D084',
+      light: '#4ADE80',
+      dark: '#059669',
     },
     secondary: {
-      main: '#FF6E40', // Orange
-      light: '#FFAB91',
-      dark: '#FF3D00',
+      main: '#10B981',
+      light: '#86EFAC',
+      dark: '#047857',
     },
     background: {
-      default: '#FFF3E0', // Very light orange tint
+      default: '#f8f9fa',
       paper: 'rgba(255, 255, 255, 0.95)',
     },
     text: {
       primary: '#000000',
       secondary: 'rgba(0, 0, 0, 0.7)',
-    },
-    error: {
-      main: '#D32F2F',
-    },
-    success: {
-      main: '#FF6E40', // Using orange for success to maintain theme
     },
   },
   typography: {
@@ -127,6 +121,7 @@ function App() {
   const [structuredFontSize, setStructuredFontSize] = useState<number>(28); // Default 28px
   const [readAloudEnabled, setReadAloudEnabled] = useState(false);
   const [showHotkeys, setShowHotkeys] = useState(false);
+  const [headerVisible, setHeaderVisible] = useState(false);
 
   useEffect(() => {
     fetchFiles();
@@ -321,7 +316,7 @@ function App() {
     }
 
     if (viewMode === 'plain') {
-      return <PlainMarkdownViewer content={rawContent} />;
+      return <PlainMarkdownViewer content={rawContent} hasHeader={headerVisible} />;
     }
 
     return (
@@ -395,6 +390,7 @@ function App() {
         onSectionChange={handleSectionChange}
         onSectionSelect={handleSectionSelect}
         showSectionControls={viewMode === 'structured'}
+        onHeaderVisibilityChange={setHeaderVisible}
         extraControls={
           <Box sx={{ display: 'flex', alignItems: 'center', gap: 1, ml: 2 }}>
             {/* Teacher Mode Indicator */}
