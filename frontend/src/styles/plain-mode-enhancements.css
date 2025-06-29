@@ -1,648 +1,242 @@
-/* Plain Mode Enhancements for English Learning App */
-/* Futuristic Garden Theme with Glass Morphism */
+/* Optimized Plain Mode Enhancements - Lightweight & Large Text */
+/* Minimal GPU/CPU usage with simplified effects */
 
-/* Headings with Glass Background (H1-H6) */
-.plain-mode-content h1,
-.plain-mode-content h2,
-.plain-mode-content h3,
-.plain-mode-content h4,
-.plain-mode-content h5,
-.plain-mode-content h6 {
-  display: inline-block !important;
-  background: linear-gradient(135deg, 
-    rgba(255, 255, 255, 0.9) 0%, 
-    rgba(255, 255, 255, 0.7) 50%, 
-    rgba(240, 255, 244, 0.8) 100%) !important;
-  backdrop-filter: blur(20px) saturate(180%) !important;
-  -webkit-backdrop-filter: blur(20px) saturate(180%) !important;
-  border: 2px solid rgba(0, 208, 132, 0.3) !important;
-  border-radius: 30px !important;
+/* Force large text sizes throughout */
+.plain-mode-content {
+  min-height: 100%;
+}
+
+/* Headings - Simple styling without heavy effects */
+.plain-mode-content h1 {
+  background: rgba(240, 255, 244, 0.5) !important;
+  border-left: 6px solid #00D084 !important;
+  border-radius: 8px !important;
   padding: 16px 32px !important;
-  margin-top: 2.5rem !important;
-  margin-bottom: 2rem !important;
-  box-shadow: 
-    0 8px 32px rgba(0, 208, 132, 0.15),
-    0 0 80px rgba(0, 208, 132, 0.1),
-    inset 0 0 40px rgba(255, 255, 255, 0.8) !important;
-  transition: all 0.3s ease !important;
-  position: relative !important;
-  transform: translateZ(0) !important;
+  color: #000000 !important;
 }
 
-/* Hover effect for headings */
-.plain-mode-content h1:hover,
-.plain-mode-content h2:hover,
-.plain-mode-content h3:hover,
-.plain-mode-content h4:hover,
-.plain-mode-content h5:hover,
-.plain-mode-content h6:hover {
-  background: linear-gradient(135deg, 
-    rgba(255, 255, 255, 0.95) 0%, 
-    rgba(240, 255, 244, 0.9) 100%) !important;
-  transform: translateY(-4px) scale(1.02) !important;
-  border-color: rgba(0, 208, 132, 0.5) !important;
-  box-shadow: 
-    0 12px 48px rgba(0, 208, 132, 0.25),
-    0 0 120px rgba(0, 208, 132, 0.15),
-    inset 0 0 60px rgba(134, 239, 172, 0.3) !important;
+.plain-mode-content h2 {
+  background: rgba(240, 255, 244, 0.3) !important;
+  border-left: 5px solid #00D084 !important;
+  border-radius: 6px !important;
+  padding: 12px 24px !important;
+  color: #000000 !important;
 }
 
-/* Bold Text Highlighting */
+.plain-mode-content h3 {
+  background: rgba(240, 255, 244, 0.2) !important;
+  border-left: 4px solid #00D084 !important;
+  border-radius: 4px !important;
+  padding: 8px 16px !important;
+  color: #000000 !important;
+}
+
+/* Bold text - Simple highlight */
 .plain-mode-content strong,
 .plain-mode-content b {
-  background: linear-gradient(90deg, 
-    rgba(0, 208, 132, 0.15) 0%, 
-    rgba(16, 185, 129, 0.1) 100%) !important;
-  padding: 4px 10px !important;
-  border-radius: 8px !important;
-  display: inline !important;
-  transition: all 0.2s ease !important;
-  position: relative !important;
-  border: 1px solid rgba(0, 208, 132, 0.2) !important;
-  box-shadow: 0 2px 8px rgba(0, 208, 132, 0.1) !important;
+  background: rgba(0, 208, 132, 0.1) !important;
+  padding: 2px 6px !important;
+  border-radius: 4px !important;
   font-weight: 700 !important;
+  color: #000000 !important;
 }
 
-.plain-mode-content strong:hover,
-.plain-mode-content b:hover {
-  background: linear-gradient(90deg, 
-    rgba(0, 208, 132, 0.25) 0%, 
-    rgba(16, 185, 129, 0.2) 100%) !important;
-  box-shadow: 0 4px 16px rgba(0, 208, 132, 0.2) !important;
-  transform: translateY(-1px) !important;
-  border-color: rgba(0, 208, 132, 0.4) !important;
-}
-
-/* Tables with Glass Effect */
+/* Tables - Simplified */
 .plain-mode-content table {
-  background: linear-gradient(135deg,
-    rgba(255, 255, 255, 0.95) 0%,
-    rgba(240, 255, 244, 0.9) 100%) !important;
-  backdrop-filter: blur(25px) saturate(200%) !important;
-  -webkit-backdrop-filter: blur(25px) saturate(200%) !important;
-  border: 2px solid rgba(0, 208, 132, 0.25) !important;
-  border-radius: 24px !important;
+  background: #ffffff !important;
+  border: 2px solid #00D084 !important;
+  border-radius: 8px !important;
   overflow: hidden !important;
-  box-shadow: 
-    0 12px 48px rgba(0, 208, 132, 0.15),
-    0 0 100px rgba(0, 208, 132, 0.1),
-    inset 0 0 60px rgba(255, 255, 255, 0.8) !important;
-  margin: 3rem 0 !important;
-  transform: translateZ(0) !important;
+  margin: 32px 0 !important;
+  width: 100% !important;
+  border-collapse: separate !important;
+  border-spacing: 0 !important;
 }
 
-/* Table Headers with Green Tint */
 .plain-mode-content th {
-  background: linear-gradient(90deg,
-    rgba(0, 208, 132, 0.15) 0%,
-    rgba(16, 185, 129, 0.12) 50%,
-    rgba(74, 222, 128, 0.1) 100%) !important;
-  backdrop-filter: blur(15px) !important;
-  -webkit-backdrop-filter: blur(15px) !important;
-  padding: 20px !important;
+  background: rgba(0, 208, 132, 0.1) !important;
   font-weight: 700 !important;
-  border-bottom: 3px solid rgba(0, 208, 132, 0.3) !important;
-  position: relative !important;
-  text-transform: uppercase !important;
-  letter-spacing: 0.5px !important;
-  font-size: 0.95em !important;
-}
-
-/* Table Rows with Hover Effect */
-.plain-mode-content tr {
-  transition: all 0.3s ease !important;
-}
-
-.plain-mode-content tbody tr:hover {
-  background: rgba(0, 208, 132, 0.08) !important;
-  transform: scale(1.02) translateX(5px) !important;
-  box-shadow: 0 4px 20px rgba(0, 208, 132, 0.15) !important;
+  text-align: left !important;
+  border-bottom: 2px solid #00D084 !important;
+  color: #000000 !important;
 }
 
 .plain-mode-content td {
-  padding: 14px 16px !important;
-  border-bottom: 1px solid rgba(0, 208, 132, 0.1) !important;
+  border-bottom: 1px solid rgba(0, 208, 132, 0.2) !important;
+  color: #000000 !important;
 }
 
-/* Remove border from last row */
 .plain-mode-content tbody tr:last-child td {
   border-bottom: none !important;
 }
 
-/* Blockquotes with Glass Background */
+.plain-mode-content tbody tr:hover {
+  background: rgba(0, 208, 132, 0.05) !important;
+}
+
+/* Blockquotes - Simple style */
 .plain-mode-content blockquote {
-  background: linear-gradient(135deg,
-    rgba(255, 255, 255, 0.9) 0%,
-    rgba(240, 255, 244, 0.85) 100%) !important;
-  backdrop-filter: blur(20px) saturate(150%) !important;
-  -webkit-backdrop-filter: blur(20px) saturate(150%) !important;
-  border-left: 6px solid rgba(0, 208, 132, 0.8) !important;
-  border-radius: 16px !important;
-  padding: 28px 32px !important;
-  margin: 3rem 0 !important;
-  box-shadow: 
-    0 10px 40px rgba(0, 208, 132, 0.12),
-    0 0 80px rgba(0, 208, 132, 0.08),
-    inset 0 0 50px rgba(255, 255, 255, 0.7) !important;
-  position: relative !important;
-  overflow: hidden !important;
-  transform: translateZ(0) !important;
+  background: rgba(240, 255, 244, 0.5) !important;
+  border-left: 5px solid #00D084 !important;
+  border-radius: 8px !important;
+  font-style: italic !important;
+  color: #000000 !important;
 }
 
-/* Shimmer effect for blockquotes */
-.plain-mode-content blockquote::before {
-  content: '';
-  position: absolute;
-  top: 0;
-  left: -100%;
-  width: 100%;
-  height: 100%;
-  background: linear-gradient(
-    90deg,
-    transparent,
-    rgba(134, 239, 172, 0.2),
-    transparent
-  );
-  animation: shimmer 3s infinite;
-}
-
-/* Code Blocks with Glass Effect */
+/* Code blocks - Minimal styling */
 .plain-mode-content pre {
-  background: linear-gradient(135deg,
-    rgba(255, 255, 255, 0.92) 0%,
-    rgba(245, 255, 248, 0.88) 100%) !important;
-  backdrop-filter: blur(18px) saturate(160%) !important;
-  -webkit-backdrop-filter: blur(18px) saturate(160%) !important;
+  background: #f8f8f8 !important;
   border: 2px solid rgba(0, 208, 132, 0.3) !important;
-  border-radius: 20px !important;
-  padding: 28px !important;
-  margin: 2.5rem 0 !important;
-  box-shadow: 
-    0 10px 40px rgba(0, 208, 132, 0.1),
-    0 0 60px rgba(0, 208, 132, 0.06),
-    inset 0 0 40px rgba(255, 255, 255, 0.8) !important;
+  border-radius: 8px !important;
   overflow-x: auto !important;
-  position: relative !important;
-  transform: translateZ(0) !important;
 }
 
-/* Inline code with subtle background */
 .plain-mode-content code:not(pre code) {
-  background: linear-gradient(90deg,
-    rgba(0, 208, 132, 0.12) 0%,
-    rgba(16, 185, 129, 0.08) 100%) !important;
-  border: 1px solid rgba(0, 208, 132, 0.25) !important;
-  border-radius: 6px !important;
-  padding: 3px 8px !important;
+  background: rgba(0, 208, 132, 0.1) !important;
+  border: 1px solid rgba(0, 208, 132, 0.3) !important;
+  border-radius: 4px !important;
   font-family: 'Consolas', 'Monaco', 'Courier New', monospace !important;
-  font-size: 0.9em !important;
-  font-weight: 600 !important;
-  box-shadow: 0 2px 6px rgba(0, 208, 132, 0.08) !important;
+  color: #000000 !important;
 }
 
-/* Lists with subtle styling */
-.plain-mode-content ul,
-.plain-mode-content ol {
-  margin: 1.5rem 0 !important;
-  padding-left: 2rem !important;
-}
-
-.plain-mode-content li {
-  margin: 0.5rem 0 !important;
-  line-height: 1.8 !important;
-  position: relative !important;
-}
-
-/* Custom bullet points */
+/* Lists */
 .plain-mode-content ul li::marker {
-  color: rgba(0, 208, 132, 0.8) !important;
+  color: #00D084 !important;
 }
 
-/* Horizontal Rules with Green Gradient */
+/* Links */
+.plain-mode-content a {
+  color: #00D084 !important;
+  text-decoration: underline !important;
+  text-decoration-thickness: 2px !important;
+  text-underline-offset: 4px !important;
+}
+
+.plain-mode-content a:hover {
+  text-decoration-thickness: 3px !important;
+  background: rgba(0, 208, 132, 0.05) !important;
+}
+
+/* Horizontal rules */
 .plain-mode-content hr {
   border: none !important;
   height: 2px !important;
-  background: linear-gradient(
-    90deg,
-    transparent,
-    rgba(0, 208, 132, 0.4),
-    rgba(16, 185, 129, 0.4),
-    transparent
-  ) !important;
-  margin: 3rem 0 !important;
-  position: relative !important;
+  background: #00D084 !important;
+  margin: 32px 0 !important;
+  opacity: 0.3 !important;
 }
 
-/* Links with green accent */
-.plain-mode-content a {
-  color: #00D084 !important;
-  text-decoration: none !important;
-  border-bottom: 1px solid transparent !important;
-  transition: all 0.3s ease !important;
-}
-
-.plain-mode-content a:hover {
-  border-bottom-color: #00D084 !important;
-  filter: brightness(1.1) !important;
-}
-
-/* Ensure text contrast remains high */
-.plain-mode-content,
-.plain-mode-content * {
-  color: #000000 !important;
-}
-
-/* Keep translations in secondary color */
+/* Emphasis (translations) */
 .plain-mode-content em {
-  color: rgba(0, 0, 0, 0.7) !important;
+  color: #666666 !important;
   font-style: italic !important;
 }
 
-/* Smooth transitions for all interactive elements */
-.plain-mode-content * {
-  transition: transform 0.3s ease, box-shadow 0.3s ease, background 0.3s ease;
+/* Vocabulary list items - Simple enhancement */
+.plain-mode-content ul:has(li strong:first-child) li {
+  background: rgba(240, 255, 244, 0.3) !important;
+  border-left: 3px solid #00D084 !important;
+  border-radius: 4px !important;
+  padding: 8px 16px !important;
+  margin: 8px 0 !important;
+  list-style: none !important;
 }
 
-/* Print styles - remove glass effects for better printing */
+/* Disable all animations and transitions for performance */
+.plain-mode-content * {
+  animation: none !important;
+  transition: none !important;
+  transform: none !important;
+  box-shadow: none !important;
+  text-shadow: none !important;
+  filter: none !important;
+  backdrop-filter: none !important;
+  -webkit-backdrop-filter: none !important;
+}
+
+/* Hover states - minimal */
+.plain-mode-content *:hover {
+  transition: background-color 0.2s ease !important;
+}
+
+/* Focus states for accessibility */
+.plain-mode-content *:focus {
+  outline: 3px solid #00D084 !important;
+  outline-offset: 2px !important;
+}
+
+/* Print styles */
 @media print {
-  .plain-mode-content h1,
-  .plain-mode-content h2,
-  .plain-mode-content h3,
-  .plain-mode-content h4,
-  .plain-mode-content h5,
-  .plain-mode-content h6,
-  .plain-mode-content blockquote,
-  .plain-mode-content pre,
-  .plain-mode-content table {
+  .plain-mode-content * {
     background: white !important;
-    backdrop-filter: none !important;
-    -webkit-backdrop-filter: none !important;
+    color: black !important;
     box-shadow: none !important;
   }
   
-  .plain-mode-content strong,
-  .plain-mode-content b,
-  .plain-mode-content code:not(pre code) {
-    background: #f0f0f0 !important;
-  }
-}
-
-/* Responsive adjustments */
-@media (max-width: 768px) {
   .plain-mode-content h1,
   .plain-mode-content h2,
   .plain-mode-content h3 {
-    padding: 8px 16px !important;
-    border-radius: 12px !important;
+    border-left-color: black !important;
   }
   
-  .plain-mode-content table {
-    font-size: 0.9em !important;
-  }
-  
-  .plain-mode-content blockquote {
-    padding: 16px 20px !important;
+  .plain-mode-content a {
+    color: black !important;
+    text-decoration: underline !important;
   }
 }
 
-/* Animation keyframes */
-@keyframes shimmer {
-  0% { transform: translateX(-100%); }
-  100% { transform: translateX(200%); }
+/* Performance optimizations */
+.plain-mode-content {
+  will-change: scroll-position;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeSpeed;
 }
 
-/* Extra prominent styles for maximum visibility */
-
-/* Make headings stand out more */
-.plain-mode-content h1 {
-  font-size: 1.15em !important;
-  letter-spacing: 1px !important;
-  text-transform: uppercase !important;
-  background: linear-gradient(135deg,
-    rgba(255, 255, 255, 0.98) 0%,
-    rgba(240, 255, 244, 0.95) 25%,
-    rgba(230, 255, 240, 0.98) 50%,
-    rgba(240, 255, 244, 0.95) 75%,
-    rgba(255, 255, 255, 0.98) 100%) !important;
-  background-size: 200% 200% !important;
-  animation: shimmerBackground 3s ease infinite !important;
+/* Virtual scrolling container */
+.plain-mode-content > div {
+  contain: layout style paint;
 }
 
-@keyframes shimmerBackground {
-  0% { background-position: 0% 50%; }
-  50% { background-position: 100% 50%; }
-  100% { background-position: 0% 50%; }
+/* Reduce repaints for fixed elements */
+.MuiPaper-root,
+.MuiFab-root,
+.MuiDrawer-paper {
+  will-change: transform;
+  transform: translateZ(0);
 }
 
-/* Double border effect for emphasis */
-.plain-mode-content h1,
-.plain-mode-content h2,
-.plain-mode-content h3 {
-  outline: 1px solid rgba(0, 208, 132, 0.1) !important;
-  outline-offset: 4px !important;
-}
-
-/* Enhanced shadow depth */
-.plain-mode-content h1,
-.plain-mode-content h2,
-.plain-mode-content h3,
-.plain-mode-content table,
-.plain-mode-content blockquote,
-.plain-mode-content pre {
-  filter: drop-shadow(0 0 20px rgba(0, 208, 132, 0.15)) !important;
-}
-
-/* Keep h1 text black for readability */
-.plain-mode-content h1 {
-  color: #000000 !important;
-  position: relative !important;
-  z-index: 1 !important;
-}
-
-/* Add extra visual pop with shadow */
-.plain-mode-content h1 {
-  text-shadow: 
-    2px 2px 4px rgba(0, 208, 132, 0.1),
-    0 0 40px rgba(0, 208, 132, 0.05) !important;
-}
-
-/* Make all interactive elements more responsive */
-.plain-mode-content *:hover {
-  transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1) !important;
-}
-
-/* Enhanced focus states */
-.plain-mode-content *:focus {
-  outline: 3px solid rgba(0, 208, 132, 0.5) !important;
-  outline-offset: 4px !important;
-}
-
-/* Breathing animation for important elements */
-@keyframes breathe {
-  0%, 100% { transform: scale(1); }
-  50% { transform: scale(1.02); }
-}
-
-.plain-mode-content blockquote,
-.plain-mode-content pre {
-  animation: breathe 4s ease-in-out infinite !important;
-}
-
-/* Extra glow for tables */
-.plain-mode-content table::before {
-  content: '';
-  position: absolute;
-  top: -20px;
-  left: -20px;
-  right: -20px;
-  bottom: -20px;
-  background: radial-gradient(circle,
-    rgba(0, 208, 132, 0.1) 0%,
-    transparent 60%);
-  z-index: -1;
-  animation: pulse 3s infinite;
-}
-
-/* Make vocabulary items pop */
-.plain-mode-content ul:has(li strong:first-child) {
-  position: relative;
-  padding: 20px !important;
-  background: rgba(0, 208, 132, 0.02) !important;
-  border-radius: 20px !important;
-  margin: 2rem 0 !important;
-}
-
-/* Rainbow border animation for special sections */
-@keyframes rainbow {
-  0% { border-color: rgba(0, 208, 132, 0.3); }
-  33% { border-color: rgba(16, 185, 129, 0.3); }
-  66% { border-color: rgba(74, 222, 128, 0.3); }
-  100% { border-color: rgba(0, 208, 132, 0.3); }
-}
-
-.plain-mode-content h1,
-.plain-mode-content h2 {
-  animation: rainbow 4s linear infinite !important;
-}
-
-/* Special styling for vocabulary sections */
-.plain-mode-content h3:has(+ ul) {
-  margin-bottom: 1.5rem !important;
-}
-
-.plain-mode-content ul:has(li strong:first-child) li {
-  background: linear-gradient(135deg,
-    rgba(255, 255, 255, 0.85) 0%,
-    rgba(240, 255, 244, 0.8) 100%) !important;
-  backdrop-filter: blur(15px) saturate(150%) !important;
-  -webkit-backdrop-filter: blur(15px) saturate(150%) !important;
-  border: 2px solid rgba(0, 208, 132, 0.2) !important;
-  border-radius: 12px !important;
-  padding: 12px 18px !important;
-  margin: 12px 0 !important;
-  list-style: none !important;
-  box-shadow: 
-    0 4px 16px rgba(0, 208, 132, 0.1),
-    inset 0 0 20px rgba(255, 255, 255, 0.5) !important;
-  transition: all 0.3s ease !important;
-  transform: translateZ(0) !important;
-}
-
-.plain-mode-content ul:has(li strong:first-child) li:hover {
-  background: linear-gradient(135deg,
-    rgba(255, 255, 255, 0.95) 0%,
-    rgba(240, 255, 244, 0.9) 100%) !important;
-  transform: translateX(10px) scale(1.02) !important;
-  border-color: rgba(0, 208, 132, 0.4) !important;
-  box-shadow: 
-    0 8px 32px rgba(0, 208, 132, 0.2),
-    0 0 40px rgba(0, 208, 132, 0.1),
-    inset 0 0 30px rgba(134, 239, 172, 0.2) !important;
-}
-
-/* Add subtle animation to page load */
-.plain-mode-content > * {
-  animation: fadeInUp 0.6s ease-out forwards;
-  opacity: 0;
-}
-
-.plain-mode-content > *:nth-child(1) { animation-delay: 0.1s; }
-.plain-mode-content > *:nth-child(2) { animation-delay: 0.2s; }
-.plain-mode-content > *:nth-child(3) { animation-delay: 0.3s; }
-.plain-mode-content > *:nth-child(4) { animation-delay: 0.4s; }
-.plain-mode-content > *:nth-child(5) { animation-delay: 0.5s; }
-.plain-mode-content > *:nth-child(n+6) { 
-  animation-delay: 0.6s;
-  opacity: 1;
-}
-
-@keyframes fadeInUp {
-  from {
-    opacity: 0;
-    transform: translateY(20px);
-  }
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
-}
-
-/* Glowing effect for headings */
-.plain-mode-content h1::after,
-.plain-mode-content h2::after {
-  content: '';
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  width: 100%;
-  height: 100%;
-  background: radial-gradient(circle,
-    rgba(0, 208, 132, 0.2) 0%,
-    transparent 70%);
-  border-radius: inherit;
-  opacity: 0;
-  transition: opacity 0.3s ease;
-  pointer-events: none;
-  z-index: -1;
-}
-
-.plain-mode-content h1:hover::after,
-.plain-mode-content h2:hover::after {
-  opacity: 1;
-  animation: pulse 2s infinite;
+/* Simple loading state */
+.plain-mode-content .loading {
+  background: #f0f0f0;
+  border-radius: 4px;
+  animation: pulse 1.5s ease-in-out infinite;
 }
 
 @keyframes pulse {
-  0%, 100% { transform: translate(-50%, -50%) scale(1); opacity: 0.5; }
-  50% { transform: translate(-50%, -50%) scale(1.1); opacity: 0.3; }
+  0%, 100% { opacity: 0.6; }
+  50% { opacity: 1; }
 }
 
-/* Enhanced list items */
-.plain-mode-content li {
-  position: relative;
-  padding-left: 1.5rem !important;
+/* Ensure minimum clickable areas for touch */
+.plain-mode-content button,
+.plain-mode-content a,
+.MuiIconButton-root,
+.MuiFab-root {
+  min-width: 48px !important;
+  min-height: 48px !important;
 }
 
-.plain-mode-content ul li::before {
-  content: '▸';
-  position: absolute;
-  left: 0;
-  color: #00D084;
-  font-weight: bold;
-  font-size: 1.2em;
-  animation: bounce 2s infinite;
-}
-
-@keyframes bounce {
-  0%, 100% { transform: translateY(0); }
-  50% { transform: translateY(-3px); }
-}
-
-/* Gradient overlay for sections */
-.plain-mode-content section,
-.plain-mode-content > div {
-  position: relative;
-}
-
-.plain-mode-content section::before,
-.plain-mode-content > div::before {
-  content: '';
-  position: absolute;
-  top: -50px;
-  left: -50px;
-  right: -50px;
-  bottom: -50px;
-  background: radial-gradient(circle at top right,
-    rgba(0, 208, 132, 0.05) 0%,
-    transparent 50%);
-  pointer-events: none;
-  z-index: -1;
-}
-
-/* Enhanced emphasis for important elements */
-.plain-mode-content em strong,
-.plain-mode-content strong em {
-  background: linear-gradient(135deg,
-    rgba(0, 208, 132, 0.3) 0%,
-    rgba(16, 185, 129, 0.2) 100%) !important;
-  padding: 6px 14px !important;
-  border-radius: 10px !important;
-  border: 2px solid rgba(0, 208, 132, 0.4) !important;
-  box-shadow: 
-    0 4px 20px rgba(0, 208, 132, 0.25),
-    inset 0 0 20px rgba(255, 255, 255, 0.5) !important;
-  display: inline-block !important;
-  transform: scale(1.05) !important;
-  font-weight: 800 !important;
-}
-
-/* Remove duplicate h1 styles - already defined above */
-
-/* Floating particles effect */
-@keyframes float-particle {
-  0%, 100% { transform: translateY(0) translateX(0) rotate(0deg); opacity: 0.3; }
-  25% { transform: translateY(-20px) translateX(10px) rotate(90deg); opacity: 0.6; }
-  50% { transform: translateY(-40px) translateX(-10px) rotate(180deg); opacity: 0.3; }
-  75% { transform: translateY(-20px) translateX(5px) rotate(270deg); opacity: 0.6; }
-}
-
-.plain-mode-content h1::before,
-.plain-mode-content h2::before {
-  content: '✦';
-  position: absolute;
-  top: -10px;
-  right: 20px;
-  color: #00D084;
-  font-size: 20px;
-  animation: float-particle 4s infinite ease-in-out;
-}
-
-/* Enhanced table cells */
-.plain-mode-content td {
-  position: relative;
-  overflow: hidden;
-}
-
-.plain-mode-content td::after {
-  content: '';
-  position: absolute;
-  top: 0;
-  left: -100%;
-  width: 100%;
-  height: 100%;
-  background: linear-gradient(90deg,
-    transparent,
-    rgba(0, 208, 132, 0.1),
-    transparent);
-  transition: left 0.5s ease;
-}
-
-.plain-mode-content tr:hover td::after {
-  left: 100%;
-}
-
-/* 3D effect for code blocks */
-.plain-mode-content pre {
-  position: relative;
-  transform-style: preserve-3d;
-  transform: perspective(1000px) rotateX(2deg) !important;
-  transition: transform 0.3s ease !important;
-}
-
-.plain-mode-content pre:hover {
-  transform: perspective(1000px) rotateX(0deg) scale(1.02) !important;
-}
-
-/* Neon glow for links */
-.plain-mode-content a {
-  position: relative;
-  text-shadow: 0 0 10px rgba(0, 208, 132, 0.5) !important;
-}
-
-.plain-mode-content a:hover {
-  text-shadow: 
-    0 0 20px rgba(0, 208, 132, 0.8),
-    0 0 40px rgba(0, 208, 132, 0.6),
-    0 0 60px rgba(0, 208, 132, 0.4) !important;
+/* High contrast mode support */
+@media (prefers-contrast: high) {
+  .plain-mode-content * {
+    border-width: 2px !important;
+  }
+  
+  .plain-mode-content h1,
+  .plain-mode-content h2,
+  .plain-mode-content h3 {
+    background: transparent !important;
+    border: 2px solid !important;
+  }
 }

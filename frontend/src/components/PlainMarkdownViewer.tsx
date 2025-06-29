@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useRef, useCallback } from 'react';
+import React, { useState, useEffect, useRef, useCallback, useMemo } from 'react';
 import { 
   Box, 
   Typography, 
@@ -7,7 +7,6 @@ import {
   Tooltip,
   Drawer,
   List,
-  ListItem,
   ListItemButton,
   ListItemText,
   TextField,
@@ -16,7 +15,8 @@ import {
   LinearProgress,
   Fab,
   Collapse,
-  Chip
+  Chip,
+  Skeleton
 } from '@mui/material';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
@@ -28,8 +28,11 @@ import SearchIcon from '@mui/icons-material/Search';
 import PrintIcon from '@mui/icons-material/Print';
 import KeyboardArrowUpIcon from '@mui/icons-material/KeyboardArrowUp';
 import CloseIcon from '@mui/icons-material/Close';
-import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
-import ExpandLessIcon from '@mui/icons-material/ExpandLess';
+import VolumeUpIcon from '@mui/icons-material/VolumeUp';
+import ArticleIcon from '@mui/icons-material/Article';
+import RecordVoiceOverIcon from '@mui/icons-material/RecordVoiceOver';
+import ToggleButton from '@mui/material/ToggleButton';
+import ToggleButtonGroup from '@mui/material/ToggleButtonGroup';
 import '../styles/print.css';
 import '../styles/plain-mode-enhancements.css';
 
@@ -43,41 +46,52 @@ interface TOCItem {
   level: number;
 }
 
+type ViewMode = 'plain' | 'aided';
+
+// Constants
+const MIN_FONT_SIZE = 28;
+const DEFAULT_FONT_SIZE = 32;
+const MAX_FONT_SIZE = 48;
+
 const PlainMarkdownViewer: React.FC<PlainMarkdownViewerProps> = ({ content }) => {
-  const [fontSize, setFontSize] = useState(18);
+  const [fontSize, setFontSize] = useState(DEFAULT_FONT_SIZE);
   const [showTranslations, setShowTranslations] = useState(true);
   const [tocOpen, setTocOpen] = useState(false);
   const [searchOpen, setSearchOpen] = useState(false);
   const [searchQuery, setSearchQuery] = useState('');
   const [searchResults, setSearchResults] = useState<number>(0);
-  const [currentMatch, setCurrentMatch] = useState<number>(0);
   const [scrollProgress, setScrollProgress] = useState(0);
   const [showScrollTop, setShowScrollTop] = useState(false);
-  const [expandedSections, setExpandedSections] = useState<Set<string>>(new Set());
+  const [viewMode, setViewMode] = useState<ViewMode>('aided');
+  const [speaking, setSpeaking] = useState<string | null>(null);
   
   const contentRef = useRef<HTMLDivElement>(null);
   const searchRef = useRef<HTMLInputElement>(null);
+  const speechSynthesis = useRef<SpeechSynthesisUtterance | null>(null);
   
   // Extract table of contents
-  const toc = React.useMemo((): TOCItem[] => {
+  const toc = useMemo((): TOCItem[] => {
     const headings: TOCItem[] = [];
     const lines = content.split('\n');
     
-    lines.forEach(line => {
-      const match = line.match(/^(#{1,6})\s+(.+)$/);
-      if (match) {
-        const level = match[1].length;
-        const text = match[2];
-        const id = text.toLowerCase().replace(/[^\w\s-]/g, '').replace(/\s+/g, '-');
-        headings.push({ id, text, level });
+    for (let i = 0; i < lines.length; i++) {
+      const line = lines[i];
+      if (line.startsWith('#')) {
+        const match = line.match(/^(#{1,6})\s+(.+)$/);
+        if (match) {
+          const level = match[1].length;
+          const text = match[2];
+          const id = text.toLowerCase().replace(/[^\w\s-]/g, '').replace(/\s+/g, '-');
+          headings.push({ id, text, level });
+        }
       }
-    });
+    }
     
     return headings;
   }, [content]);
   
   // Process content to optionally hide translations
-  const processedContent = React.useMemo(() => {
+  const processedContent = useMemo(() => {
     if (showTranslations) return content;
     
     // Remove italicized Vietnamese translations
@@ -87,7 +101,223 @@ const PlainMarkdownViewer: React.FC<PlainMarkdownViewerProps> = ({ content }) =>
       .join('\n');
   }, [content, showTranslations]);
 
-  // Scroll progress tracking
+  // Speak text using Web Speech API
+  const speakText = useCallback((text: string) => {
+    // Cancel any ongoing speech
+    window.speechSynthesis.cancel();
+    
+    // Clean the text to ensure we only speak the English word
+    let cleanText = text
+      .replace(/\[.*?\]/g, '') // Remove pronunciation guides in brackets
+      .replace(/\/[^/]+\//g, '') // Remove IPA pronunciations in slashes
+      .replace(/\*.*?\*/g, '') // Remove italicized translations
+      .replace(/\([^)]*\)/g, '') // Remove parenthetical notes
+      .replace(/[\u0100-\u017F\u1E00-\u1EFF]/g, '') // Remove Latin extended characters (Vietnamese)
+      .replace(/[^A-Za-z\s'-]/g, '') // Keep only English letters, spaces, hyphens, and apostrophes
+      .trim();
+    
+    // Handle compound words and phrases
+    cleanText = cleanText.replace(/\s+/g, ' '); // Normalize spaces
+    
+    if (!cleanText) return;
+    
+    speechSynthesis.current = new SpeechSynthesisUtterance(cleanText);
+    speechSynthesis.current.lang = 'en-US';
+    speechSynthesis.current.rate = 0.9;
+    speechSynthesis.current.pitch = 1;
+    speechSynthesis.current.volume = 1;
+    
+    speechSynthesis.current.onstart = () => setSpeaking(text);
+    speechSynthesis.current.onend = () => setSpeaking(null);
+    speechSynthesis.current.onerror = () => setSpeaking(null);
+    
+    window.speechSynthesis.speak(speechSynthesis.current);
+  }, []);
+
+  // Check if a line is a vocabulary item
+  const isVocabularyLine = useCallback((text: string) => {
+    // Pattern 1: Starts with bold text (e.g., **word** - definition)
+    if (text.match(/^\*\*[^*]+\*\*/)) return true;
+    
+    // Pattern 2: Contains bold text followed by definition/translation
+    if (text.includes('**') && (text.includes(' - ') || text.includes(': '))) return true;
+    
+    // Pattern 3: Line that contains English word followed by pronunciation or translation
+    if (text.match(/^[A-Za-z\s]+\s*[\[\(]/)) return true;
+    
+    // Pattern 4: Numbered list with word : (part of speech) translation /pronunciation/
+    // e.g., "1. build : (v) xây dựng /bɪld/"
+    if (text.match(/^\d+\.\s*[A-Za-z][A-Za-z\s]*\s*:/)) return true;
+    
+    // Pattern 5: Word followed by colon and parentheses (part of speech)
+    // e.g., "build : (v)" or "happy : (adj)"
+    if (text.match(/^[A-Za-z][A-Za-z\s]*\s*:\s*\([a-z]+\)/)) return true;
+    
+    // Pattern 6: Bullet point followed by word and colon
+    // e.g., "- build : xây dựng" or "• happy : vui vẻ"
+    if (text.match(/^[-•●◦▪▸]\s*[A-Za-z][A-Za-z\s]*\s*:/)) return true;
+    
+    // Pattern 7: Word with phonetic transcription in slashes
+    // e.g., "build /bɪld/" or "happy /ˈhæpi/"
+    if (text.match(/[A-Za-z]+.*\/[^/]+\//)) return true;
+    
+    // Pattern 8: Tab or space separated vocabulary (common in vocabulary lists)
+    // e.g., "build    xây dựng    /bɪld/"
+    if (text.match(/^[A-Za-z][A-Za-z\s]*\s{2,}|\t/)) return true;
+    
+    return false;
+  }, []);
+
+  // Extract vocabulary word from a line
+  const extractVocabularyWord = useCallback((text: string) => {
+    // Try to extract bold text first
+    const boldMatch = text.match(/\*\*([^*]+)\*\*/);
+    if (boldMatch) return boldMatch[1];
+    
+    // Pattern for numbered list format: "1. build : (v) xây dựng /bɪld/"
+    const numberedMatch = text.match(/^\d+\.\s*([A-Za-z][A-Za-z\s]*?)\s*:/);
+    if (numberedMatch) return numberedMatch[1].trim();
+    
+    // Pattern for word with part of speech: "build : (v)"
+    const posMatch = text.match(/^([A-Za-z][A-Za-z\s]*?)\s*:\s*\([a-z]+\)/);
+    if (posMatch) return posMatch[1].trim();
+    
+    // Pattern for bullet points: "- build : meaning"
+    const bulletMatch = text.match(/^[-•●◦▪▸]\s*([A-Za-z][A-Za-z\s]*?)\s*:/);
+    if (bulletMatch) return bulletMatch[1].trim();
+    
+    // Try to extract text before common delimiters
+    const wordMatch = text.match(/^[-•●◦▪▸\d.\s]*([A-Za-z][A-Za-z\s]*?)\s*[:\[\(\-–—]/);
+    if (wordMatch) return wordMatch[1].trim();
+    
+    // Extract word before phonetic transcription
+    const phoneticMatch = text.match(/^[-•●◦▪▸\d.\s]*([A-Za-z][A-Za-z\s]*?)\s*\/[^/]+\//);
+    if (phoneticMatch) return phoneticMatch[1].trim();
+    
+    // Extract word from tab/space separated format
+    const tabMatch = text.match(/^([A-Za-z][A-Za-z\s]*?)(?:\s{2,}|\t)/);
+    if (tabMatch) return tabMatch[1].trim();
+    
+    // Return the first word(s) that look like English
+    const firstWordMatch = text.match(/^[-•●◦▪▸\d.\s]*([A-Za-z][A-Za-z\s]{0,20}?)(?:[^A-Za-z\s]|$)/);
+    if (firstWordMatch) return firstWordMatch[1].trim();
+    
+    // Fallback: clean up and return
+    return text.replace(/^[-•●◦▪▸\d.\s]*/, '').split(/[:\[\(\-–—]/)[0].trim();
+  }, []);
+
+  // Custom markdown components with forced font sizes
+  const markdownComponents = useMemo(() => ({
+    h1: ({children}: any) => {
+      const text = String(children);
+      const id = text.toLowerCase().replace(/[^\w\s-]/g, '').replace(/\s+/g, '-');
+      return <h1 id={id} style={{ fontSize: `${fontSize * 2}px`, fontWeight: 700, margin: '32px 0 24px' }}>{children}</h1>;
+    },
+    h2: ({children}: any) => {
+      const text = String(children);
+      const id = text.toLowerCase().replace(/[^\w\s-]/g, '').replace(/\s+/g, '-');
+      return <h2 id={id} style={{ fontSize: `${fontSize * 1.75}px`, fontWeight: 600, margin: '28px 0 20px' }}>{children}</h2>;
+    },
+    h3: ({children}: any) => {
+      const text = String(children);
+      const id = text.toLowerCase().replace(/[^\w\s-]/g, '').replace(/\s+/g, '-');
+      return <h3 id={id} style={{ fontSize: `${fontSize * 1.5}px`, fontWeight: 600, margin: '24px 0 16px' }}>{children}</h3>;
+    },
+    h4: ({children}: any) => {
+      const text = String(children);
+      const id = text.toLowerCase().replace(/[^\w\s-]/g, '').replace(/\s+/g, '-');
+      return <h4 id={id} style={{ fontSize: `${fontSize * 1.25}px`, fontWeight: 600, margin: '20px 0 12px' }}>{children}</h4>;
+    },
+    h5: ({children}: any) => {
+      const text = String(children);
+      const id = text.toLowerCase().replace(/[^\w\s-]/g, '').replace(/\s+/g, '-');
+      return <h5 id={id} style={{ fontSize: `${fontSize * 1.1}px`, fontWeight: 600, margin: '16px 0 8px' }}>{children}</h5>;
+    },
+    h6: ({children}: any) => {
+      const text = String(children);
+      const id = text.toLowerCase().replace(/[^\w\s-]/g, '').replace(/\s+/g, '-');
+      return <h6 id={id} style={{ fontSize: `${fontSize}px`, fontWeight: 600, margin: '16px 0 8px' }}>{children}</h6>;
+    },
+    p: ({children}: any) => {
+      const text = React.Children.toArray(children).join('');
+      const shouldShowSpeaker = viewMode === 'aided' && isVocabularyLine(text);
+      
+      if (shouldShowSpeaker) {
+        const word = extractVocabularyWord(text);
+        return (
+          <p style={{ 
+            fontSize: `${fontSize}px`, 
+            lineHeight: 1.8, 
+            margin: '16px 0',
+            display: 'flex',
+            alignItems: 'center',
+            gap: '8px'
+          }}>
+            <span style={{ flex: 1 }}>{children}</span>
+            <IconButton
+              onClick={() => speakText(word)}
+              size="small"
+              sx={{ 
+                ml: 1,
+                color: speaking === word ? 'primary.main' : 'text.secondary',
+                '&:hover': { color: 'primary.main' }
+              }}
+            >
+              <VolumeUpIcon sx={{ fontSize: `${fontSize * 0.8}px` }} />
+            </IconButton>
+          </p>
+        );
+      }
+      
+      return <p style={{ fontSize: `${fontSize}px`, lineHeight: 1.8, margin: '16px 0' }}>{children}</p>;
+    },
+    li: ({children}: any) => {
+      const text = React.Children.toArray(children).join('');
+      const shouldShowSpeaker = viewMode === 'aided' && isVocabularyLine(text);
+      
+      if (shouldShowSpeaker) {
+        const word = extractVocabularyWord(text);
+        return (
+          <li style={{ 
+            fontSize: `${fontSize}px`, 
+            lineHeight: 1.8, 
+            margin: '8px 0',
+            display: 'flex',
+            alignItems: 'flex-start',
+            gap: '8px'
+          }}>
+            <span style={{ flex: 1 }}>{children}</span>
+            <IconButton
+              onClick={() => speakText(word)}
+              size="small"
+              sx={{ 
+                mt: '-4px',
+                color: speaking === word ? 'primary.main' : 'text.secondary',
+                '&:hover': { color: 'primary.main' }
+              }}
+            >
+              <VolumeUpIcon sx={{ fontSize: `${fontSize * 0.8}px` }} />
+            </IconButton>
+          </li>
+        );
+      }
+      
+      return <li style={{ fontSize: `${fontSize}px`, lineHeight: 1.8, margin: '8px 0' }}>{children}</li>;
+    },
+    ul: ({children}: any) => <ul style={{ fontSize: `${fontSize}px`, paddingLeft: '32px', margin: '16px 0' }}>{children}</ul>,
+    ol: ({children}: any) => <ol style={{ fontSize: `${fontSize}px`, paddingLeft: '32px', margin: '16px 0' }}>{children}</ol>,
+    blockquote: ({children}: any) => <blockquote style={{ fontSize: `${fontSize}px`, margin: '24px 0', paddingLeft: '24px' }}>{children}</blockquote>,
+    table: ({children}: any) => <table style={{ fontSize: `${fontSize}px`, width: '100%', margin: '24px 0' }}>{children}</table>,
+    th: ({children}: any) => <th style={{ fontSize: `${Math.max(fontSize * 0.95, 28)}px`, padding: '12px' }}>{children}</th>,
+    td: ({children}: any) => <td style={{ fontSize: `${Math.max(fontSize * 0.95, 28)}px`, padding: '12px' }}>{children}</td>,
+    code: ({children}: any) => <code style={{ fontSize: `${Math.max(fontSize * 0.9, 28)}px`, padding: '2px 6px' }}>{children}</code>,
+    pre: ({children}: any) => <pre style={{ fontSize: `${Math.max(fontSize * 0.9, 28)}px`, padding: '20px', margin: '24px 0', overflow: 'auto' }}>{children}</pre>,
+    em: ({children}: any) => <em style={{ fontSize: 'inherit', fontStyle: 'italic', display: showTranslations ? 'inline' : 'none' }}>{children}</em>,
+    strong: ({children}: any) => <strong style={{ fontSize: 'inherit', fontWeight: 700 }}>{children}</strong>,
+    a: ({children, href}: any) => <a href={href} style={{ fontSize: 'inherit', color: '#00D084' }}>{children}</a>,
+  }), [fontSize, showTranslations, viewMode, isVocabularyLine, extractVocabularyWord, speakText, speaking]);
+
+  // Scroll tracking
   useEffect(() => {
     const handleScroll = () => {
       if (contentRef.current) {
@@ -103,6 +333,13 @@ const PlainMarkdownViewer: React.FC<PlainMarkdownViewerProps> = ({ content }) =>
       container.addEventListener('scroll', handleScroll);
       return () => container.removeEventListener('scroll', handleScroll);
     }
+  }, []);
+
+  // Cleanup speech on unmount
+  useEffect(() => {
+    return () => {
+      window.speechSynthesis.cancel();
+    };
   }, []);
 
   // Keyboard shortcuts
@@ -134,19 +371,23 @@ const PlainMarkdownViewer: React.FC<PlainMarkdownViewerProps> = ({ content }) =>
           setSearchOpen(false);
           setSearchQuery('');
         }
+        if (speaking) {
+          window.speechSynthesis.cancel();
+          setSpeaking(null);
+        }
       }
     };
 
     window.addEventListener('keydown', handleKeyPress);
     return () => window.removeEventListener('keydown', handleKeyPress);
-  }, [searchOpen]);
+  }, [searchOpen, speaking]);
 
   const increaseFontSize = () => {
-    setFontSize(prev => Math.min(prev + 2, 32));
+    setFontSize(prev => Math.min(prev + 2, MAX_FONT_SIZE));
   };
 
   const decreaseFontSize = () => {
-    setFontSize(prev => Math.max(prev - 2, 12));
+    setFontSize(prev => Math.max(prev - 2, MIN_FONT_SIZE));
   };
 
   const handlePrint = () => {
@@ -174,23 +415,10 @@ const PlainMarkdownViewer: React.FC<PlainMarkdownViewerProps> = ({ content }) =>
     }
   };
 
-  const toggleSection = (id: string) => {
-    setExpandedSections(prev => {
-      const newSet = new Set(prev);
-      if (newSet.has(id)) {
-        newSet.delete(id);
-      } else {
-        newSet.add(id);
-      }
-      return newSet;
-    });
-  };
-
   // Search functionality
   const handleSearch = useCallback((query: string) => {
     setSearchQuery(query);
     if (query.trim()) {
-      // Simple search implementation - can be enhanced
       const matches = processedContent.toLowerCase().includes(query.toLowerCase());
       setSearchResults(matches ? 1 : 0);
     } else {
@@ -236,6 +464,7 @@ const PlainMarkdownViewer: React.FC<PlainMarkdownViewerProps> = ({ content }) =>
             value={searchQuery}
             onChange={(e) => handleSearch(e.target.value)}
             InputProps={{
+              sx: { fontSize: `${MIN_FONT_SIZE}px` },
               startAdornment: (
                 <InputAdornment position="start">
                   <SearchIcon />
@@ -246,8 +475,8 @@ const PlainMarkdownViewer: React.FC<PlainMarkdownViewerProps> = ({ content }) =>
                   {searchResults > 0 && (
                     <Chip 
                       size="small" 
-                      label={`${searchResults} found`}
-                      sx={{ mr: 1 }}
+                      label={`Found`}
+                      sx={{ mr: 1, fontSize: `${MIN_FONT_SIZE * 0.8}px` }}
                     />
                   )}
                   <IconButton 
@@ -280,40 +509,63 @@ const PlainMarkdownViewer: React.FC<PlainMarkdownViewerProps> = ({ content }) =>
           boxShadow: 3
         }}
       >
-        <Tooltip title="Table of Contents (Ctrl+M)">
-          <IconButton onClick={() => setTocOpen(!tocOpen)} size="small">
-            <MenuIcon />
+        {/* View Mode Toggle */}
+        <ToggleButtonGroup
+          value={viewMode}
+          exclusive
+          onChange={(e, newMode) => newMode && setViewMode(newMode)}
+          orientation="vertical"
+          size="small"
+        >
+          <ToggleButton value="plain">
+            <Tooltip title="Plain View">
+              <ArticleIcon />
+            </Tooltip>
+          </ToggleButton>
+          <ToggleButton value="aided">
+            <Tooltip title="Aided View (with pronunciation)">
+              <RecordVoiceOverIcon />
+            </Tooltip>
+          </ToggleButton>
+        </ToggleButtonGroup>
+        <Divider />
+        <Tooltip title="Table of Contents">
+          <IconButton onClick={() => setTocOpen(!tocOpen)} size="large">
+            <MenuIcon fontSize="large" />
           </IconButton>
         </Tooltip>
         <Divider />
         <Tooltip title="Search (Ctrl+F)">
-          <IconButton onClick={() => setSearchOpen(!searchOpen)} size="small">
-            <SearchIcon />
+          <IconButton onClick={() => setSearchOpen(!searchOpen)} size="large">
+            <SearchIcon fontSize="large" />
           </IconButton>
         </Tooltip>
         <Tooltip title="Print (Ctrl+P)">
-          <IconButton onClick={handlePrint} size="small">
-            <PrintIcon />
+          <IconButton onClick={handlePrint} size="large">
+            <PrintIcon fontSize="large" />
           </IconButton>
         </Tooltip>
         <Divider />
         <Tooltip title="Increase font size (Ctrl++)">
-          <IconButton onClick={increaseFontSize} size="small">
-            <TextIncreaseIcon />
+          <IconButton onClick={increaseFontSize} size="large">
+            <TextIncreaseIcon fontSize="large" />
           </IconButton>
         </Tooltip>
+        <Typography align="center" sx={{ fontSize: `${MIN_FONT_SIZE * 0.8}px`, fontWeight: 'bold' }}>
+          {fontSize}px
+        </Typography>
         <Tooltip title="Decrease font size (Ctrl+-)">
-          <IconButton onClick={decreaseFontSize} size="small">
-            <TextDecreaseIcon />
+          <IconButton onClick={decreaseFontSize} size="large">
+            <TextDecreaseIcon fontSize="large" />
           </IconButton>
         </Tooltip>
         <Tooltip title={showTranslations ? "Hide translations" : "Show translations"}>
           <IconButton 
             onClick={() => setShowTranslations(!showTranslations)} 
-            size="small"
+            size="large"
             color={showTranslations ? "primary" : "default"}
           >
-            <SwapVertIcon />
+            <SwapVertIcon fontSize="large" />
           </IconButton>
         </Tooltip>
       </Paper>
@@ -325,57 +577,36 @@ const PlainMarkdownViewer: React.FC<PlainMarkdownViewerProps> = ({ content }) =>
         onClose={() => setTocOpen(false)}
         sx={{
           '& .MuiDrawer-paper': {
-            width: 300,
+            width: 350,
             top: 64,
             height: 'calc(100% - 64px)'
           }
         }}
       >
         <Box sx={{ p: 2 }}>
-          <Typography variant="h6" gutterBottom>
+          <Typography variant="h5" gutterBottom sx={{ fontSize: `${fontSize}px` }}>
             Table of Contents
           </Typography>
           <Divider sx={{ mb: 2 }} />
           <List>
-            {toc.map((item, index) => {
-              const isSection = item.level <= 2;
-              const hasChildren = index < toc.length - 1 && toc[index + 1].level > item.level;
-              
-              return (
-                <React.Fragment key={item.id}>
-                  <ListItemButton 
-                    onClick={() => {
-                      scrollToHeading(item.id);
-                      if (hasChildren && isSection) {
-                        toggleSection(item.id);
-                      }
-                    }}
-                    sx={{ 
-                      pl: (item.level - 1) * 2,
-                      py: 0.5
-                    }}
-                  >
-                    <ListItemText 
-                      primary={item.text}
-                      primaryTypographyProps={{
-                        fontSize: item.level <= 2 ? '1rem' : '0.875rem',
-                        fontWeight: item.level === 1 ? 600 : item.level === 2 ? 500 : 400
-                      }}
-                    />
-                    {hasChildren && isSection && (
-                      expandedSections.has(item.id) ? 
-                        <ExpandLessIcon fontSize="small" /> : 
-                        <ExpandMoreIcon fontSize="small" />
-                    )}
-                  </ListItemButton>
-                  {hasChildren && isSection && (
-                    <Collapse in={!expandedSections.has(item.id)} timeout="auto" unmountOnExit>
-                      {/* Children will be rendered in subsequent iterations */}
-                    </Collapse>
-                  )}
-                </React.Fragment>
-              );
-            })}
+            {toc.map((item) => (
+              <ListItemButton 
+                key={item.id}
+                onClick={() => scrollToHeading(item.id)}
+                sx={{ 
+                  pl: (item.level - 1) * 2,
+                  py: 1
+                }}
+              >
+                <ListItemText 
+                  primary={item.text}
+                  primaryTypographyProps={{
+                    fontSize: item.level <= 2 ? `${fontSize * 0.9}px` : `${fontSize * 0.8}px`,
+                    fontWeight: item.level === 1 ? 600 : item.level === 2 ? 500 : 400
+                  }}
+                />
+              </ListItemButton>
+            ))}
           </List>
         </Box>
       </Drawer>
@@ -383,7 +614,7 @@ const PlainMarkdownViewer: React.FC<PlainMarkdownViewerProps> = ({ content }) =>
       {/* Scroll to Top Button */}
       {showScrollTop && (
         <Fab
-          size="small"
+          size="large"
           color="primary"
           onClick={scrollToTop}
           sx={{
@@ -393,150 +624,29 @@ const PlainMarkdownViewer: React.FC<PlainMarkdownViewerProps> = ({ content }) =>
             zIndex: 1000
           }}
         >
-          <KeyboardArrowUpIcon />
+          <KeyboardArrowUpIcon fontSize="large" />
         </Fab>
       )}
 
-      {/* Markdown Content */}
+      {/* Markdown Content - Simple scrollable container */}
       <Box
         ref={contentRef}
         className="plain-mode-content" 
         sx={{ 
           height: '100%',
           overflow: 'auto',
+          fontSize: `${fontSize}px`,
           '& > div': {
-            maxWidth: 1200, 
+            maxWidth: 1400, 
             mx: 'auto', 
             p: { xs: 2, sm: 4 },
-          },
-          '& h1': {
-            fontSize: `${fontSize * 2}px`,
-            fontWeight: 700,
-            my: 4
-          },
-          '& h2': {
-            fontSize: `${fontSize * 1.5}px`,
-            fontWeight: 600,
-            my: 3
-          },
-          '& h3': {
-            fontSize: `${fontSize * 1.25}px`,
-            fontWeight: 600,
-            my: 2
-          },
-          '& p': {
-            fontSize: `${fontSize}px`,
-            lineHeight: 1.8,
-            my: 2
-          },
-          '& li': {
-            fontSize: `${fontSize}px`,
-            lineHeight: 1.8,
-            my: 1
-          },
-          '& strong': {
-            fontWeight: 600
-          },
-          '& em': {
-            fontStyle: 'italic',
-            color: 'text.secondary',
-            display: showTranslations ? 'inline' : 'none'
-          },
-          '& table': {
-            width: '100%',
-            borderCollapse: 'collapse',
-            my: 3,
-            fontSize: `${fontSize * 0.9}px`
-          },
-          '& th': {
-            p: 2,
-            fontWeight: 600
-          },
-          '& td': {
-            p: 2
-          },
-          '& blockquote': {
-            ml: 0,
-            my: 2,
-            fontStyle: 'italic'
-          },
-          '& code': {
-            fontFamily: 'monospace',
-            fontSize: `${fontSize * 0.85}px`
-          },
-          '& pre': {
-            overflow: 'auto',
-            '& code': {
-              backgroundColor: 'transparent',
-              p: 0
-            }
-          },
-          '& hr': {
-            my: 4,
-            borderColor: 'divider'
           }
         }}
       >
-        <div>
+        <div style={{ fontSize: `${fontSize}px` }}>
           <ReactMarkdown 
             remarkPlugins={[remarkGfm]}
-            components={{
-              // Custom renderers for better typography and navigation
-              h1: ({children}) => {
-                const text = String(children);
-                const id = text.toLowerCase().replace(/[^\w\s-]/g, '').replace(/\s+/g, '-');
-                return (
-                  <Typography variant="h1" component="h1" id={id} gutterBottom>
-                    {children}
-                  </Typography>
-                );
-              },
-              h2: ({children}) => {
-                const text = String(children);
-                const id = text.toLowerCase().replace(/[^\w\s-]/g, '').replace(/\s+/g, '-');
-                return (
-                  <Typography variant="h2" component="h2" id={id} gutterBottom>
-                    {children}
-                  </Typography>
-                );
-              },
-              h3: ({children}) => {
-                const text = String(children);
-                const id = text.toLowerCase().replace(/[^\w\s-]/g, '').replace(/\s+/g, '-');
-                return (
-                  <Typography variant="h3" component="h3" id={id} gutterBottom>
-                    {children}
-                  </Typography>
-                );
-              },
-              h4: ({children}) => {
-                const text = String(children);
-                const id = text.toLowerCase().replace(/[^\w\s-]/g, '').replace(/\s+/g, '-');
-                return (
-                  <Typography variant="h4" component="h4" id={id} gutterBottom>
-                    {children}
-                  </Typography>
-                );
-              },
-              h5: ({children}) => {
-                const text = String(children);
-                const id = text.toLowerCase().replace(/[^\w\s-]/g, '').replace(/\s+/g, '-');
-                return (
-                  <Typography variant="h5" component="h5" id={id} gutterBottom>
-                    {children}
-                  </Typography>
-                );
-              },
-              h6: ({children}) => {
-                const text = String(children);
-                const id = text.toLowerCase().replace(/[^\w\s-]/g, '').replace(/\s+/g, '-');
-                return (
-                  <Typography variant="h6" component="h6" id={id} gutterBottom>
-                    {children}
-                  </Typography>
-                );
-              },
-            }}
+            components={markdownComponents}
           >
             {processedContent}
           </ReactMarkdown>
