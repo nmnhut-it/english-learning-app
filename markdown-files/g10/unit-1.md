@@ -32,41 +32,72 @@
 
 
 ### 💬 Dialogue/Content
-**Mark**: Hi, Nam!
-**Nam**: Hi, Mark! Long time no see. How are you?
 
-**Mark**: Chào, Nam!
-**Nam**: Chào Mark! Lâu rồi không gặp. Bạn khỏe không?
+**Nam**: Hello, Minh.
 
-**Mark**: I'm fine, thanks, but you look so fit and healthy! Have you started working out again?
-**Nam**: Yes, I have. I've also stopped eating fast food and given up bad habits, such as staying up late.
+**Minh**: Hi, Nam. How are you? I'm going to play football at our school stadium with a few friends this evening. Are you free to join us?
 
-**Mark**: Tôi khỏe, cảm ơn, nhưng trông bạn rất cân đối và khỏe mạnh! Bạn đã bắt đầu tập luyện trở lại chưa?
-**Nam**: Vâng, tôi có. Tôi cũng ngừng ăn đồ ăn nhanh và từ bỏ những thói quen xấu, chẳng hạn như thức khuya.
+**Nam**: I'd love to, but I'm afraid I can't. I'm preparing dinner.
 
-**Mark**: I can't believe it! I thought you can't live without burgers and chips!
-**Nam**: I know. I ate a lot of fast food, but now I prefer fresh fruits and vegetables.
+**Minh**: Really? Doesn't your mum cook?
 
-**Mark**: Tôi không thể tin được! Tôi nghĩ bạn không thể sống thiếu bánh mì kẹp thịt và khoai tây chiên!
-**Nam**: Tôi biết. Tôi đã ăn rất nhiều thức ăn nhanh, nhưng bây giờ tôi thích trái cây và rau quả tươi hơn.
+**Nam**: Oh, yes. My mum usually does the cooking, but she's working late today.
 
-**Mark**: So what happened?
-**Nam**: Well, it was my grandfather. I visited him during my last summer holiday and have learnt a lot of important life lessons from him.
+**Minh**: How about your sister, Lan? Does she help with the housework?
 
-**Mark**: Vậy chuyện gì đã xảy ra?
-**Nam**: À, đó là ông của tôi. Tôi đã đến thăm ông trong kỳ nghỉ hè vừa qua và đã học được rất nhiều bài học quan trọng trong cuộc sống từ ông.
+**Nam**: Yes. She often helps with the cooking. But she can't help today. She's studying for her exams.
 
-**Mark**: Really?
-**Nam**: Yes. He's a wonderful person. He has just had his 90th birthday, but he's still full of energy!
+**Minh**: I see. I never do the cooking. It's my mother's job.
 
-**Mark**: Thật sao?
-**Nam**: Vâng. Ông ấy là một người tuyệt vời. Ông vừa đón sinh nhật lần thứ 90 nhưng vẫn tràn đầy năng lượng!
+**Nam**: Really? So how do you divide the household chores in your family?
 
-**Mark**: Amazing! How does he stay so active?
-**Nam**: Well, he does exercise every morning, goes to bed early, and eats a lot of vegetables. We spent a lot of time together cooking, working in his garden, and walking in the parks. I've learnt from him that taking regular exercise and eating a balanced diet are the key to a long and healthy life.
+**Minh**: Mum is the homemaker, so she does the chores. My dad is the breadwinner, he earns money. And we, the kids, study.
 
-**Mark**: Tuyệt vời! Làm thế nào để ông ấy luôn năng động như vậy?
-**Nam**: À, ông ấy tập thể dục mỗi sáng, đi ngủ sớm và ăn nhiều rau. Chúng tôi dành nhiều thời gian cùng nhau nấu ăn, làm việc trong vườn của ông và đi dạo trong công viên. Tôi đã học được từ ông rằng tập thể dục thường xuyên và ăn một chế độ ăn uống cân bằng là chìa khóa để có một cuộc sống lâu dài và khỏe mạnh.
+**Nam**: Well, in my family, we divide the housework equally - Mum usually cooks and shops for groceries**: Dad cleans the house and does the heavy lifting.
+
+**Minh**: What about you and your sister?
+
+**Nam**: My sister does the laundry. I do the washing-up and put out the rubbish. We also help with the cooking when our mum is busy.
+
+**Minh**: That sounds fair! Anyway, I have to go now. See you later.
+
+**Nam**: Bye. Have fun.
+
+
+**Nam**: Xin chào, Minh.
+
+
+### Bài dịch:
+
+
+**Minh**: Chào Nam. Bạn khỏe không? Tôi sẽ đi đá bóng ở sân vận động trường mình với một vài người bạn tối nay. Bạn có rảnh để tham gia cùng chúng tôi không?
+
+**Nam**: Tôi rất muốn, nhưng tôi e là không thể. Tôi đang chuẩn bị bữa tối.
+
+**Minh**: Thật à? Mẹ bạn không nấu ăn sao?
+
+**Nam**: Ồ, có chứ. Mẹ tôi thường nấu ăn, nhưng hôm nay mẹ phải làm việc muộn.
+
+**Minh**: Còn chị gái bạn, Lan thì sao? Chị ấy có giúp việc nhà không?
+
+**Nam**: Có. Chị ấy thường giúp nấu ăn. Nhưng hôm nay chị ấy không thể giúp được. Chị ấy đang học cho kỳ thi của chị ấy.
+
+**Minh**: Tôi hiểu rồi. Tôi không bao giờ nấu ăn cả. Đó là việc của mẹ tôi.
+
+**Nam**: Thật à? Vậy gia đình bạn phân chia việc nhà như thế nào?
+
+**Minh**: Mẹ là người nội trợ, nên mẹ làm các việc nhà. Bố tôi là trụ cột gia đình, bố kiếm tiền. Còn chúng tôi, lũ trẻ con, thì học hành.
+
+**Nam**: À, trong gia đình tôi, chúng tôi chia việc nhà đều nhau - Mẹ thường nấu ăn và đi chợ mua thực phẩm. Bố dọn dẹp nhà cửa và làm những việc nặng nhọc.
+
+**Minh**: Còn bạn và chị gái bạn thì sao?
+
+**Nam**: Chị tôi giặt quần áo. Tôi rửa bát và đổ rác. Chúng tôi cũng giúp nấu ăn khi mẹ chúng tôi bận.
+
+**Minh**: Nghe có vẻ công bằng đấy! Dù sao thì giờ tôi phải đi rồi. Gặp bạn sau nhé.
+
+**Nam**: Tạm biệt. Chúc bạn vui vẻ.
+
 
 ### ✍️ Exercises
 **Exercise 1**: Listen and read the dialogue.
