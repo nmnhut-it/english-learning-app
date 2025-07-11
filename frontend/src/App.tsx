@@ -107,6 +107,54 @@ const API_URL = 'http://localhost:3001/api';
 type ViewMode = 'structured' | 'plain';
 type ContentFilter = 'all' | 'vocabulary';
 
+// Helper function to parse URL parameters
+function getUrlParams() {
+  const params = new URLSearchParams(window.location.search);
+  return {
+    file: params.get('file') || null,
+    section: params.get('section') || null,
+    mode: params.get('mode') as ViewMode || 'structured',
+    filter: params.get('filter') as ContentFilter || 'all',
+    fontSize: parseInt(params.get('fontSize') || '28'),
+  };
+}
+
+// Helper function to update URL without page reload
+function updateUrl(params: {
+  file?: string | null;
+  section?: string | null;
+  mode?: ViewMode;
+  filter?: ContentFilter;
+  fontSize?: number;
+}) {
+  const currentParams = getUrlParams();
+  const newParams = new URLSearchParams();
+  
+  if (params.file !== undefined) {
+    if (params.file) newParams.set('file', params.file);
+  } else if (currentParams.file) {
+    newParams.set('file', currentParams.file);
+  }
+  
+  if (params.section !== undefined) {
+    if (params.section) newParams.set('section', params.section);
+  } else if (currentParams.section) {
+    newParams.set('section', currentParams.section);
+  }
+  
+  const mode = params.mode !== undefined ? params.mode : currentParams.mode;
+  if (mode !== 'structured') newParams.set('mode', mode);
+  
+  const filter = params.filter !== undefined ? params.filter : currentParams.filter;
+  if (filter !== 'all') newParams.set('filter', filter);
+  
+  const fontSize = params.fontSize !== undefined ? params.fontSize : currentParams.fontSize;
+  if (fontSize !== 28) newParams.set('fontSize', fontSize.toString());
+  
+  const url = newParams.toString() ? `?${newParams.toString()}` : window.location.pathname;
+  window.history.replaceState({}, '', url);
+}
+
 function App() {
   const [files, setFiles] = useState<FileTreeNode | null>(null);
   const [selectedFile, setSelectedFile] = useState<string | null>(null);
@@ -118,21 +166,69 @@ function App() {
   const [sections, setSections] = useState<string[]>([]);
   const [viewMode, setViewMode] = useState<ViewMode>('structured');
   const [contentFilter, setContentFilter] = useState<ContentFilter>('all');
-  const [structuredFontSize, setStructuredFontSize] = useState<number>(28); // Default 28px
+  const [structuredFontSize, setStructuredFontSize] = useState<number>(28);
   const [readAloudEnabled, setReadAloudEnabled] = useState(false);
   const [showHotkeys, setShowHotkeys] = useState(false);
   const [headerVisible, setHeaderVisible] = useState(false);
+  const [urlInitialized, setUrlInitialized] = useState(false);
+
+  // Initialize from URL parameters
+  useEffect(() => {
+    const params = getUrlParams();
+    setViewMode(params.mode);
+    setContentFilter(params.filter);
+    setStructuredFontSize(params.fontSize);
+    if (params.section) {
+      setCurrentSection(params.section);
+    }
+    setUrlInitialized(true);
+  }, []);
 
   useEffect(() => {
     fetchFiles();
   }, []);
+
+  // Handle URL-based file selection
+  useEffect(() => {
+    if (files && urlInitialized) {
+      const urlParams = getUrlParams();
+      if (urlParams.file && urlParams.file !== selectedFile) {
+        handleFileSelect(urlParams.file, false);
+      } else if (!urlParams.file && !selectedFile) {
+        // No file in URL, select first available file
+        const firstFile = findFirstFile(files);
+        if (firstFile) {
+          handleFileSelect(firstFile.path, true);
+        }
+      }
+    }
+  }, [files, urlInitialized]);
+
+  // Update URL when section changes
+  useEffect(() => {
+    if (urlInitialized && currentSection) {
+      updateUrl({ section: currentSection });
+    }
+  }, [currentSection, urlInitialized]);
+
+  // Update URL when view settings change
+  useEffect(() => {
+    if (urlInitialized) {
+      updateUrl({ mode: viewMode, filter: contentFilter, fontSize: structuredFontSize });
+    }
+  }, [viewMode, contentFilter, structuredFontSize, urlInitialized]);
 
   useEffect(() => {
     // Extract section titles when content changes
     if (content && content.length > 0 && content[0].sections) {
       const sectionTitles = content[0].sections.map((section: any) => section.title);
       setSections(sectionTitles);
-      if (!currentSection && sectionTitles.length > 0) {
+      
+      // Check if URL has a section parameter
+      const urlParams = getUrlParams();
+      if (urlParams.section && sectionTitles.includes(urlParams.section)) {
+        setCurrentSection(urlParams.section);
+      } else if (!currentSection && sectionTitles.length > 0) {
         setCurrentSection(sectionTitles[0]);
       }
     }
@@ -142,13 +238,6 @@ function App() {
     try {
       const response = await axios.get(`${API_URL}/markdown/files`);
       setFiles(response.data);
-      
-      if (!selectedFile) {
-        const firstFile = findFirstFile(response.data);
-        if (firstFile) {
-          handleFileSelect(firstFile.path);
-        }
-      }
     } catch (error) {
       console.error('Error fetching files:', error);
     }
@@ -165,7 +254,7 @@ function App() {
     return null;
   };
 
-  const handleFileSelect = async (path: string) => {
+  const handleFileSelect = async (path: string, updateUrlParam: boolean = true) => {
     setLoading(true);
     setCurrentSection('');
     try {
@@ -183,6 +272,10 @@ function App() {
       setContent(parsedContent);
       setRawContent(rawResponse.data);
       setHeadings(response.data.headings);
+      
+      if (updateUrlParam) {
+        updateUrl({ file: path, section: null });
+      }
     } catch (error) {
       console.error('Error fetching content:', error);
     } finally {
@@ -298,6 +391,28 @@ function App() {
     }
   };
 
+  // Handle browser back/forward buttons
+  useEffect(() => {
+    const handlePopState = () => {
+      const params = getUrlParams();
+      
+      if (params.file && params.file !== selectedFile) {
+        handleFileSelect(params.file, false);
+      }
+      
+      if (params.section && sections.includes(params.section)) {
+        setCurrentSection(params.section);
+      }
+      
+      setViewMode(params.mode);
+      setContentFilter(params.filter);
+      setStructuredFontSize(params.fontSize);
+    };
+
+    window.addEventListener('popstate', handlePopState);
+    return () => window.removeEventListener('popstate', handlePopState);
+  }, [selectedFile, sections]);
+
   const renderContent = useCallback(() => {
     if (loading) {
       return (
@@ -329,7 +444,7 @@ function App() {
         readAloudEnabled={readAloudEnabled}
       />
     );
-  }, [loading, content, rawContent, viewMode, currentSection, structuredFontSize, contentFilter, readAloudEnabled]);
+  }, [loading, content, rawContent, viewMode, currentSection, structuredFontSize, contentFilter, readAloudEnabled, headerVisible]);
 
   return (
     <ThemeProvider theme={theme}>
@@ -384,7 +499,7 @@ function App() {
       <PresentationLayout
         files={files}
         currentFile={selectedFile}
-        onFileSelect={handleFileSelect}
+        onFileSelect={(path) => handleFileSelect(path, true)}
         currentSection={currentSection}
         sections={sections}
         onSectionChange={handleSectionChange}

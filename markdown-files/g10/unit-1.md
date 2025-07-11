@@ -99,380 +99,606 @@
 **Nam**: Tạm biệt. Chúc bạn vui vẻ.
 
 
+### Chi tiết:
+ 
+#### Câu 1: "Hello, Minh."
+```
+Hello: xin chào /həˈləʊ/
+Minh: Minh (tên riêng) /mɪn/
+--> Hello, Minh: Xin chào, Minh
+```
+
+#### Câu 2: "Hi, Nam. How are you?"
+```
+
+Hi: chào /haɪ/
+Nam: Nam (tên riêng) /næm/
+How: thế nào /haʊ/
+are: là /ɑː(r)/
+you: bạn /juː/
+--> How are you: Bạn khỏe không
+--> Hi, Nam. How are you?: Chào Nam. Bạn khỏe không?
+```
+
+#### Câu 3: "I'm going to play football at our school stadium with a few friends this evening."
+```
+
+I'm: tôi đang /aɪm/
+going: đi /ˈɡəʊɪŋ/
+to: để /tuː/
+play: chơi /pleɪ/
+football: bóng đá /ˈfʊtbɔːl/
+at: ở /æt/
+our: của chúng ta /ˈaʊə(r)/
+school: trường /skuːl/
+stadium: sân vận động /ˈsteɪdiəm/
+with: với /wɪð/
+a: một /ə/
+few: vài /fjuː/
+friends: người bạn /frendz/
+this: này /ðɪs/
+evening: tối /ˈiːvnɪŋ/
+--> going to play: sẽ đi chơi
+--> play football: đá bóng
+--> our school stadium: sân vận động trường mình
+--> a few friends: một vài người bạn
+--> this evening: tối nay
+--> I'm going to play football at our school stadium with a few friends this evening: Tôi sẽ đi đá bóng ở sân vận động trường mình với một vài người bạn tối nay
+```
+
+#### Câu 4: "Are you free to join us?"
+```
+
+Are: có /ɑː(r)/
+you: bạn /juː/
+free: rảnh /friː/
+to: để /tuː/
+join: tham gia /dʒɔɪn/
+us: chúng tôi /ʌs/
+--> Are you free: Bạn có rảnh
+--> to join us: để tham gia cùng chúng tôi
+--> Are you free to join us?: Bạn có rảnh để tham gia cùng chúng tôi không?
+```
+
+#### Câu 5: "I'd love to, but I'm afraid I can't."
+```
+
+I'd: tôi sẽ /aɪd/
+love: thích /lʌv/
+to: (không dịch) /tuː/
+but: nhưng /bʌt/
+I'm: tôi /aɪm/
+afraid: e là /əˈfreɪd/
+I: tôi /aɪ/
+can't: không thể /kɑːnt/
+--> I'd love to: Tôi rất muốn
+--> I'm afraid: tôi e là
+--> I can't: tôi không thể
+--> I'd love to, but I'm afraid I can't: Tôi rất muốn, nhưng tôi e là không thể
+```
+
+#### Câu 6: "I'm preparing dinner."
+```
+
+I'm: tôi đang /aɪm/
+preparing: chuẩn bị /prɪˈpeərɪŋ/
+dinner: bữa tối /ˈdɪnə(r)/
+--> I'm preparing dinner: Tôi đang chuẩn bị bữa tối
+```
+
+#### Câu 7: "Really? Doesn't your mum cook?"
+```
+
+Really: thật à /ˈriːəli/
+Doesn't: không /ˈdʌznt/
+your: của bạn /jɔː(r)/
+mum: mẹ /mʌm/
+cook: nấu ăn /kʊk/
+--> your mum: mẹ bạn
+--> Doesn't your mum cook?: Mẹ bạn không nấu ăn sao?
+--> Really? Doesn't your mum cook?: Thật à? Mẹ bạn không nấu ăn sao?
+```
+
+#### Câu 8: "Oh, yes. My mum usually does the cooking, but she's working late today."
+```
+
+Oh: ồ /əʊ/
+yes: có chứ /jes/
+My: của tôi /maɪ/
+mum: mẹ /mʌm/
+usually: thường /ˈjuːʒuəli/
+does: làm /dʌz/
+the: (mạo từ) /ðə/
+cooking: việc nấu ăn /ˈkʊkɪŋ/
+but: nhưng /bʌt/
+she's: mẹ đang /ʃiːz/
+working: làm việc /ˈwɜːkɪŋ/
+late: muộn /leɪt/
+today: hôm nay /təˈdeɪ/
+--> My mum: Mẹ tôi
+--> does the cooking: nấu ăn
+--> working late: làm việc muộn
+--> Oh, yes. My mum usually does the cooking, but she's working late today: Ồ, có chứ. Mẹ tôi thường nấu ăn, nhưng hôm nay mẹ phải làm việc muộn
+```
+
+#### Câu 9: "How about your sister, Lan? Does she help with the housework?"
+```
+
+How: thế /haʊ/
+about: còn /əˈbaʊt/
+your: của bạn /jɔː(r)/
+sister: chị gái /ˈsɪstə(r)/
+Lan: Lan (tên riêng) /læn/
+Does: có /dʌz/
+she: chị ấy /ʃiː/
+help: giúp /help/
+with: với /wɪð/
+the: (mạo từ) /ðə/
+housework: việc nhà /ˈhaʊswɜːk/
+--> How about: Còn... thì sao
+--> your sister: chị gái bạn
+--> help with the housework: giúp việc nhà
+--> How about your sister, Lan? Does she help with the housework?: Còn chị gái bạn, Lan thì sao? Chị ấy có giúp việc nhà không?
+```
+
+#### Câu 10: "Yes. She often helps with the cooking. But she can't help today. She's studying for her exams."
+```
+
+Yes: có /jes/
+She: chị ấy /ʃiː/
+often: thường /ˈɒfn/
+helps: giúp /helps/
+with: với /wɪð/
+the: (mạo từ) /ðə/
+cooking: việc nấu ăn /ˈkʊkɪŋ/
+But: nhưng /bʌt/
+she: chị ấy /ʃiː/
+can't: không thể /kɑːnt/
+help: giúp /help/
+today: hôm nay /təˈdeɪ/
+She's: chị ấy đang /ʃiːz/
+studying: học /ˈstʌdiɪŋ/
+for: cho /fɔː(r)/
+her: của chị ấy /hɜː(r)/
+exams: kỳ thi /ɪɡˈzæmz/
+--> helps with the cooking: giúp nấu ăn
+--> can't help: không thể giúp
+--> studying for her exams: học cho kỳ thi của chị ấy
+--> Yes. She often helps with the cooking. But she can't help today. She's studying for her exams: Có. Chị ấy thường giúp nấu ăn. Nhưng hôm nay chị ấy không thể giúp được. Chị ấy đang học cho kỳ thi của chị ấy
+```
+
+#### Câu 11: "I see. I never do the cooking. It's my mother's job."
+```
+
+I: tôi /aɪ/
+see: hiểu rồi /siː/
+I: tôi /aɪ/
+never: không bao giờ /ˈnevə(r)/
+do: làm /duː/
+the: (mạo từ) /ðə/
+cooking: việc nấu ăn /ˈkʊkɪŋ/
+It's: đó là /ɪts/
+my: của tôi /maɪ/
+mother's: của mẹ /ˈmʌðəz/
+job: việc /dʒɒb/
+--> I see: Tôi hiểu rồi
+--> do the cooking: nấu ăn
+--> my mother's job: việc của mẹ tôi
+--> I see. I never do the cooking. It's my mother's job: Tôi hiểu rồi. Tôi không bao giờ nấu ăn cả. Đó là việc của mẹ tôi
+```
+
+#### Câu 12: "Really? So how do you divide the household chores in your family?"
+```
+
+Really: thật à /ˈriːəli/
+So: vậy /səʊ/
+how: như thế nào /haʊ/
+do: (trợ động từ) /duː/
+you: bạn /juː/
+divide: phân chia /dɪˈvaɪd/
+the: (mạo từ) /ðə/
+household: gia đình /ˈhaʊshəʊld/
+chores: việc nhà /tʃɔːz/
+in: trong /ɪn/
+your: của bạn /jɔː(r)/
+family: gia đình /ˈfæməli/
+--> household chores: việc nhà
+--> in your family: trong gia đình bạn
+--> Really? So how do you divide the household chores in your family?: Thật à? Vậy gia đình bạn phân chia việc nhà như thế nào?
+```
+
+#### Câu 13: "Mum is the homemaker, so she does the chores."
+```
+
+Mum: mẹ /mʌm/
+is: là /ɪz/
+the: (mạo từ) /ðə/
+homemaker: người nội trợ /ˈhəʊmmeɪkə(r)/
+so: nên /səʊ/
+she: mẹ /ʃiː/
+does: làm /dʌz/
+the: (mạo từ) /ðə/
+chores: việc nhà /tʃɔːz/
+--> the homemaker: người nội trợ
+--> does the chores: làm các việc nhà
+--> Mum is the homemaker, so she does the chores: Mẹ là người nội trợ, nên mẹ làm các việc nhà
+```
+
+#### Câu 14: "My dad is the breadwinner, he earns money."
+```
+
+My: của tôi /maɪ/
+dad: bố /dæd/
+is: là /ɪz/
+the: (mạo từ) /ðə/
+breadwinner: trụ cột gia đình /ˈbredwɪnə(r)/
+he: bố /hiː/
+earns: kiếm /ɜːnz/
+money: tiền /ˈmʌni/
+--> My dad: Bố tôi
+--> the breadwinner: trụ cột gia đình
+--> earns money: kiếm tiền
+--> My dad is the breadwinner, he earns money: Bố tôi là trụ cột gia đình, bố kiếm tiền
+```
+
+#### Câu 15: "And we, the kids, study."
+```
+
+And: còn /ænd/
+we: chúng tôi /wiː/
+the: (mạo từ) /ðə/
+kids: lũ trẻ con /kɪdz/
+study: học hành /ˈstʌdi/
+--> the kids: lũ trẻ con
+--> And we, the kids, study: Còn chúng tôi, lũ trẻ con, thì học hành
+```
+
+#### Câu 16: "Well, in my family, we divide the housework equally"
+```
+
+Well: à /wel/
+in: trong /ɪn/
+my: của tôi /maɪ/
+family: gia đình /ˈfæməli/
+we: chúng tôi /wiː/
+divide: chia /dɪˈvaɪd/
+the: (mạo từ) /ðə/
+housework: việc nhà /ˈhaʊswɜːk/
+equally: đều nhau /ˈiːkwəli/
+--> my family: gia đình tôi
+--> divide the housework equally: chia việc nhà đều nhau
+--> Well, in my family, we divide the housework equally: À, trong gia đình tôi, chúng tôi chia việc nhà đều nhau
+```
+
+#### Câu 17: "Mum usually cooks and shops for groceries"
+```
+
+Mum: mẹ /mʌm/
+usually: thường /ˈjuːʒuəli/
+cooks: nấu ăn /kʊks/
+and: và /ænd/
+shops: đi chợ /ʃɒps/
+for: mua /fɔː(r)/
+groceries: thực phẩm /ˈɡrəʊsəriz/
+--> shops for groceries: đi chợ mua thực phẩm
+--> Mum usually cooks and shops for groceries: Mẹ thường nấu ăn và đi chợ mua thực phẩm
+```
+
+#### Câu 18: "Dad cleans the house and does the heavy lifting."
+```
+
+Dad: bố /dæd/
+cleans: dọn dẹp /kliːnz/
+the: (mạo từ) /ðə/
+house: nhà cửa /haʊs/
+and: và /ænd/
+does: làm /dʌz/
+the: (mạo từ) /ðə/
+heavy: nặng /ˈhevi/
+lifting: việc nâng /ˈlɪftɪŋ/
+--> cleans the house: dọn dẹp nhà cửa
+--> heavy lifting: việc nặng nhọc
+--> Dad cleans the house and does the heavy lifting: Bố dọn dẹp nhà cửa và làm những việc nặng nhọc
+```
+
+#### Câu 19: "What about you and your sister?"
+```
+
+What: gì /wɒt/
+about: còn /əˈbaʊt/
+you: bạn /juː/
+and: và /ænd/
+your: của bạn /jɔː(r)/
+sister: chị gái /ˈsɪstə(r)/
+--> What about: Còn... thì sao
+--> you and your sister: bạn và chị gái bạn
+--> What about you and your sister?: Còn bạn và chị gái bạn thì sao?
+```
+
+#### Câu 20: "My sister does the laundry."
+```
+
+My: của tôi /maɪ/
+sister: chị /ˈsɪstə(r)/
+does: giặt /dʌz/
+the: (mạo từ) /ðə/
+laundry: quần áo /ˈlɔːndri/
+--> My sister: Chị tôi
+--> does the laundry: giặt quần áo
+--> My sister does the laundry: Chị tôi giặt quần áo
+```
+
+#### Câu 21: "I do the washing-up and put out the rubbish."
+```
+
+I: tôi /aɪ/
+do: làm /duː/
+the: (mạo từ) /ðə/
+washing-up: việc rửa bát /ˈwɒʃɪŋ ʌp/
+and: và /ænd/
+put: đổ /pʊt/
+out: ra /aʊt/
+the: (mạo từ) /ðə/
+rubbish: rác /ˈrʌbɪʃ/
+--> do the washing-up: rửa bát
+--> put out the rubbish: đổ rác
+--> I do the washing-up and put out the rubbish: Tôi rửa bát và đổ rác
+```
+
+#### Câu 22: "We also help with the cooking when our mum is busy."
+```
+
+We: chúng tôi /wiː/
+also: cũng /ˈɔːlsəʊ/
+help: giúp /help/
+with: với /wɪð/
+the: (mạo từ) /ðə/
+cooking: việc nấu ăn /ˈkʊkɪŋ/
+when: khi /wen/
+our: của chúng tôi /ˈaʊə(r)/
+mum: mẹ /mʌm/
+is: (động từ to be) /ɪz/
+busy: bận /ˈbɪzi/
+--> help with the cooking: giúp nấu ăn
+--> our mum: mẹ chúng tôi
+--> when our mum is busy: khi mẹ chúng tôi bận
+--> We also help with the cooking when our mum is busy: Chúng tôi cũng giúp nấu ăn khi mẹ chúng tôi bận
+```
+
+#### Câu 23: "That sounds fair!"
+```
+
+That: điều đó /ðæt/
+sounds: nghe /saʊndz/
+fair: công bằng /feə(r)/
+--> That sounds fair: Nghe có vẻ công bằng
+--> That sounds fair!: Nghe có vẻ công bằng đấy!
+```
+
+#### Câu 24: "Anyway, I have to go now."
+```
+
+Anyway: dù sao thì /ˈeniweɪ/
+I: tôi /aɪ/
+have: phải /hæv/
+to: (động từ nguyên mẫu) /tuː/
+go: đi /ɡəʊ/
+now: giờ /naʊ/
+--> have to go: phải đi
+--> Anyway, I have to go now: Dù sao thì giờ tôi phải đi rồi
+```
+
+#### Câu 25: "See you later."
+```
+
+See: gặp /siː/
+you: bạn /juː/
+later: sau /ˈleɪtə(r)/
+--> See you later: Gặp bạn sau
+--> See you later: Gặp bạn sau nhé
+```
+
+#### Câu 26: "Bye. Have fun."
+```
+
+Bye: tạm biệt /baɪ/
+Have: chúc /hæv/
+fun: vui vẻ /fʌn/
+--> Have fun: Chúc vui vẻ
+--> Bye. Have fun: Tạm biệt. Chúc bạn vui vẻ
+```
+
 ### ✍️ Exercises
-**Exercise 1**: Listen and read the dialogue.
-Nghe và đọc đoạn hội thoại.
-
-**Exercise 2**: Read the conversation again and decide whether the following statements are true (T) or false (F).
-Đọc đoạn hội thoại một lần nữa và quyết định xem những câu sau đây là đúng (T) hay sai (F).
-
-1. Nam has always had healthy habits. _____
-2. He has learnt the importance of exercise and healthy food. _____
-3. Nam's grandfather goes to sleep early, exercises every day, and eats healthily. _____
-
-**Answers:** 1-F, 2-T, 3-T
-
-**Exercise 3**: Fill in the blanks to make phrases from the dialogue with the following meanings.
-Điền vào chỗ trống để tạo thành các cụm từ từ đoạn hội thoại với các nghĩa sau.
-
-1. full of _____ : having the strength and enthusiasm we need for physical or mental activity
-2. bad _____ : things we often do that are not good for our health  
-3. _____ regular exercise : physical or mental activity that we do frequently to stay healthy
-4. _____ diet : the right types and amounts of food that we need to stay healthy
-
-**Answers:** 1-energy, 2-habits, 3-taking, 4-a balanced
-
-**Exercise 4**: Complete the text based on the conversation. Use the correct forms of the verbs in brackets.
-Hoàn thành văn bản dựa trên đoạn hội thoại. Sử dụng dạng đúng của động từ trong ngoặc.
 
-In the past, Nam (1. eat) _____ fast food and often stayed up late. But he (2. start) _____ eating healthy food and (3. give) _____ up bad habits. He has changed his lifestyle since he (4. visit) _____ his grandfather, who (5. just, celebrate) _____ his 90th birthday.
+#### Bài 2. Read the conversation again and decide whether the following statements are true (T) or false (F).
 
-**Answers:** 1-ate, 2-started, 3-gave, 4-visited, 5-has just celebrated
+(Đọc lại bài hội thoại và quyết định xem liệu những câu sau là đúng (T) hay sai (F).)
 
-## II. LANGUAGE (Trang 9-11)
-### 📚 Vocabulary
-- **life expectancy** : (n) tuổi thọ /laɪf ɪkˈspektənsi/
-- **ingredient** : (n) thành phần /ɪnˈɡriːdiənt/
-- **nutrient** : (n) chất dinh dưỡng /ˈnjuːtriənt/
-- **vitamin** : (n) vitamin /ˈvɪtəmɪn/
-- **mineral** : (n) khoáng chất /ˈmɪnərəl/
-- **avoid** : (v) tránh /əˈvɔɪd/
-- **salt** : (n) muối /sɔːlt/
-- **sugar** : (n) đường /ˈʃʊɡə(r)/
-- **furthermore** : (adv) hơn nữa /ˌfɜːðəˈmɔː(r)/
-- **diet** : (n) chế độ ăn /ˈdaɪət/
-- **breakfast** : (n) bữa sáng /ˈbrekfəst/
-- **dinner** : (n) bữa tối /ˈdɪnə(r)/
+1. Nam's mother is cooking now.
+2. Everybody in Nam's family does some of the housework.
+3. The children in Minh's family don't have to do any housework.
 
-### 🔤 Pronunciation
-**Strong and weak forms of auxiliary verbs**
-Dạng mạnh và yếu của động từ khuyết thiếu
+**Lời giải chi tiết:**
 
-- Strong forms are used when auxiliary verbs are:
-  + At the end of sentences: Yes, I **have**.
-  + Used for emphasis: I **have** started working out.
-  + In negative forms: I **haven't** given up.
+1. **F**
+2. **T**
+3. **T**
 
-- Weak forms are used in normal speech:
-  + I've /aɪv/ started working out.
-  + He's /hiz/ still full of energy.
-  + We've /wiv/ spent a lot of time together.
-
-### 📖 Grammar
-**Present Perfect**
-Thì hiện tại hoàn thành
-
-**Structure:**
-- Positive: S + have/has + V3/ed
-- Negative: S + have/has + not + V3/ed  
-- Question: Have/Has + S + V3/ed?
-
-**Usage:**
-1. Actions that started in the past and continue to the present
-   - I have lived here for 10 years.
-   - Tôi đã sống ở đây 10 năm rồi.
-
-2. Actions completed in the past with results in the present
-   - I have stopped eating fast food.
-   - Tôi đã ngừng ăn đồ ăn nhanh.
-
-3. Life experiences
-   - I have learnt a lot from my grandfather.
-   - Tôi đã học được nhiều điều từ ông tôi.
-
-**Common time expressions:** just, already, yet, ever, never, for, since, recently
-
-### ✍️ Exercises
-**Exercise 1**: Choose the correct verb form.
-Chọn dạng động từ đúng.
-
-1. I (eat/have eaten) _____ a lot of vegetables recently.
-2. She (started/has started) _____ doing yoga last month.
-3. They (didn't finish/haven't finished) _____ their homework yet.
-
-**Answers:** 1-have eaten, 2-started, 3-haven't finished
-
-## III. READING (Trang 11-12)
-### 📚 Pre-reading Vocabulary
-- **develop** : (v) phát triển /dɪˈveləp/
-- **lifestyle** : (n) lối sống /ˈlaɪfstaɪl/
-- **habit** : (n) thói quen /ˈhæbɪt/
-- **pay attention to** : (v) chú ý đến /peɪ əˈtenʃn tuː/
-- **label** : (n) nhãn /ˈleɪbl/
-- **prevent** : (v) ngăn ngừa /prɪˈvent/
-- **disease** : (n) bệnh tật /dɪˈziːz/
-- **stress** : (n) căng thẳng /stres/
-- **reduce** : (v) giảm /rɪˈdjuːs/
-
-### 📖 Reading Text
-**HOW TO LIVE A LONG AND HEALTHY LIFE**
-
-Life expectancy has generally increased over the past few decades, and some people enjoy a longer and healthier life than others. One possible explanation is that they have healthy lifestyle habits. So how can you develop these habits?
-
-Tuổi thọ nhìn chung đã tăng lên trong vài thập kỷ qua, và một số người tận hưởng cuộc sống lâu hơn và khỏe mạnh hơn những người khác. Một lời giải thích có thể là họ có những thói quen lối sống lành mạnh. Vậy làm thế nào bạn có thể phát triển những thói quen này?
-
-**A. Eat better**
-Start by looking at food labels, paying attention to ingredients and nutrients, such as vitamins and minerals. Avoid having food with too much salt or sugar, such as fast food. Furthermore, add more fresh fruits and vegetables to your diet, and remember to eat a big breakfast and a small dinner.
-
-**A. Ăn uống tốt hơn**
-Bắt đầu bằng cách xem nhãn thực phẩm, chú ý đến thành phần và chất dinh dưỡng, như vitamin và khoáng chất. Tránh ăn thực phẩm có quá nhiều muối hoặc đường, như thức ăn nhanh. Hơn nữa, thêm nhiều trái cây và rau củ tươi vào chế độ ăn của bạn, và nhớ ăn bữa sáng thật no và bữa tối nhẹ nhàng.
-
-**B. Exercise regularly**
-Regular physical activity is essential for maintaining good health. Aim for at least 30 minutes of moderate exercise most days of the week. This can include walking, swimming, cycling, or any activity that gets your heart rate up.
-
-**B. Tập thể dục thường xuyên**
-Hoạt động thể chất thường xuyên là cần thiết để duy trì sức khỏe tốt. Hãy đặt mục tiêu ít nhất 30 phút tập thể dục vừa phải hầu hết các ngày trong tuần. Điều này có thể bao gồm đi bộ, bơi lội, đạp xe, hoặc bất kỳ hoạt động nào làm tăng nhịp tim của bạn.
-
-**C. Manage stress**
-Chronic stress can have negative effects on both physical and mental health. Find healthy ways to manage stress, such as meditation, deep breathing exercises, or spending time in nature.
-
-**C. Quản lý căng thẳng**
-Căng thẳng mãn tính có thể có tác động tiêu cực đến cả sức khỏe thể chất và tinh thần. Tìm những cách lành mạnh để quản lý căng thẳng, như thiền định, bài tập thở sâu, hoặc dành thời gian trong thiên nhiên.
-
-### ✍️ Exercises
-**Exercise 1**: Match the headings with the paragraphs.
-Nối tiêu đề với các đoạn văn.
+**1. F**
 
-1. Eat better
-2. Exercise regularly  
-3. Manage stress
+Nam's mother is cooking now.  
+(Mẹ Nam đang nấu ăn.)
 
-**Answers:** A-1, B-2, C-3
+**Thông tin:** I'm preparing dinner….My mum usually does the cooking, but she's working late today.  
+(Tôi đang chuẩn bị bữa tối… Mẹ tôi thường nấu ăn, nhưng hôm nay bà ấy đi làm muộn.)
 
-**Exercise 2**: Answer the questions.
-Trả lời các câu hỏi.
+**2. T**
 
-1. What should you pay attention to when looking at food labels?
-2. How much exercise should you aim for?
-3. What are some ways to manage stress?
-
-**Answers:** 
-1. Ingredients and nutrients, such as vitamins and minerals
-2. At least 30 minutes most days of the week
-3. Meditation, deep breathing exercises, spending time in nature
-
-## IV. SPEAKING (Trang 12-13)
-### 📚 Functional Language
-- **In my opinion...** : Theo ý kiến của tôi...
-- **I think/believe that...** : Tôi nghĩ/tin rằng...
-- **From my point of view...** : Từ quan điểm của tôi...
-- **I agree/disagree with...** : Tôi đồng ý/không đồng ý với...
-- **That's a good point.** : Đó là một ý hay.
-- **You're right about that.** : Bạn đúng về điều đó.
-- **I see what you mean.** : Tôi hiểu ý bạn.
+Everybody in Nam's family does some of the housework.  
+(Mọi người trong gia đình Nam làm một số công việc nhà.)
 
-### 🗣️ Activities
-**Discussing healthy habits**
-Thảo luận về thói quen lành mạnh
+**Thông tin:** Well, in my family, we divide the housework equally - Mum usually cooks and shops for groceries: Dad cleans the house and does the heavy lifting. … My sister does the laundry. I do the washing-up and put out the rubbish. We also help with the cooking when our mum is busy.  
+(Trong gia đình, chúng tôi chia đều việc nhà - Mẹ thường nấu ăn và mua thực phẩm: Bố dọn dẹp nhà cửa và làm các công việc nặng nhọc. … Em gái tôi giặt giũ. Tôi rửa và đổ rác. Chúng tôi cũng giúp nấu ăn khi mẹ chúng tôi bận.)
 
-**Model dialogue:**
-A: What do you think is the most important healthy habit?
-B: In my opinion, regular exercise is the most important. What about you?
-A: I believe that eating a balanced diet is more important because...
+**3. T**
 
-### ✍️ Exercises
-**Exercise 1**: Work in pairs. Discuss which healthy habits are most important for teenagers.
-Làm việc theo cặp. Thảo luận thói quen lành mạnh nào quan trọng nhất đối với thanh thiếu niên.
+The children in Minh's family don't have to do any housework.  
+(Các con trong gia đình Minh không phải làm bất cứ việc nhà nào.)
 
-**Sample answer:** 
-In my opinion, getting enough sleep is the most important healthy habit for teenagers because it helps with concentration and growth. I also think avoiding too much screen time is important for eye health and social skills.
+**Thông tin:** Mum is the homemaker, so she does the chores. My dad is the breadwinner, he earns money. And we, the kids, study.  
+(Mẹ là người nội trợ nên mẹ làm việc nhà. Bố tôi là trụ cột gia đình, ông ấy kiếm tiền. Và chúng tôi, những đứa trẻ, học tập.)
 
-## V. LISTENING (Trang 13-14)
-### 📚 Pre-listening Vocabulary
-- **meditation** : (n) thiền định /ˌmedɪˈteɪʃn/
-- **yoga** : (n) yoga /ˈjəʊɡə/
-- **jogging** : (n) chạy bộ /ˈdʒɒɡɪŋ/
-- **routine** : (n) thói quen /ruːˈtiːn/
-- **benefit** : (n) lợi ích /ˈbenɪfɪt/
-- **mental health** : (n) sức khỏe tinh thần /ˈmentl helθ/
-- **physical health** : (n) sức khỏe thể chất /ˈfɪzɪkl helθ/
-
-### 👂 Listening Tasks
-**Task 1**: Listen to a conversation about healthy morning routines.
-Nghe đoạn hội thoại về thói quen buổi sáng lành mạnh.
-
-**Task 2**: Listen again and complete the notes.
-Nghe lại và hoàn thành ghi chú.
-
-**Transcript:**
-Host: Today we're talking about healthy morning routines. What's your morning routine like, Sarah?
-Sarah: Well, I always start my day with meditation. Just 10 minutes helps me feel calm and focused.
-Host: That sounds great. And what about exercise?
-Sarah: After meditation, I do 20 minutes of yoga. It's gentle but effective for waking up my body.
-Host: Do you have breakfast right away?
-Sarah: No, I usually wait about 30 minutes after yoga. I have a healthy breakfast with whole grains, fruits, and protein.
-
-### ✍️ Exercises
-**Exercise 1**: True or False?
-1. Sarah meditates for 20 minutes. _____
-2. She does yoga after meditation. _____
-3. She eats breakfast immediately after yoga. _____
-
-**Answers:** 1-F, 2-T, 3-F
-
-## VI. WRITING (Trang 14-15)
-### 📚 Writing Vocabulary
-- **firstly/secondly/finally** : thứ nhất/thứ hai/cuối cùng
-- **in addition** : thêm vào đó
-- **moreover** : hơn nữa
-- **as a result** : kết quả là
-- **in conclusion** : tóm lại
-- **daily routine** : thói quen hàng ngày
-- **healthy lifestyle** : lối sống lành mạnh
-
-### ✏️ Writing Model
-**My Healthy Lifestyle Plan**
-
-To maintain a healthy lifestyle, I have created a daily routine that includes three main elements.
-
-Firstly, I start each day with a nutritious breakfast consisting of whole grains, fruits, and protein. This gives me energy for the day ahead.
-
-Secondly, I make sure to exercise for at least 30 minutes every day. I alternate between jogging, swimming, and cycling to keep it interesting.
-
-Finally, I practice good sleep hygiene by going to bed at the same time each night and avoiding screens before bedtime.
-
-In conclusion, these simple habits have helped me feel more energetic and maintain good health.
-
-### ✍️ Exercises
-**Exercise 1**: Write a paragraph (120-150 words) about your ideal healthy daily routine.
-Viết một đoạn văn (120-150 từ) về thói quen hàng ngày lành mạnh lý tưởng của bạn.
-
-**Sample answer provided in Writing Model above**
-
-## VII. COMMUNICATION AND CULTURE / CLIL (Trang 15-16)
-### 📚 Cultural Vocabulary
-- **longevity** : (n) tuổi thọ /lɒnˈdʒevəti/
-- **centenarian** : (n) người sống trên 100 tuổi /ˌsentɪˈneəriən/
-- **blue zone** : (n) vùng xanh (nơi người dân sống thọ) /bluː zəʊn/
-- **traditional** : (adj) truyền thống /trəˈdɪʃənl/
-- **community** : (n) cộng đồng /kəˈmjuːnəti/
-- **social connection** : (n) kết nối xã hội /ˈsəʊʃl kəˈnekʃn/
-
-### 🌍 Content
-**Blue Zones: Secrets of Longevity**
-
-Blue Zones are regions where people live much longer than average. These include Okinawa (Japan), Sardinia (Italy), and Nicoya (Costa Rica). Researchers have found common factors in these areas:
-
-1. **Diet**: People eat mostly plant-based foods, with small amounts of meat.
-2. **Physical activity**: Daily movement is built into their lifestyle.
-3. **Social connections**: Strong family and community bonds.
-4. **Purpose**: Having a reason to wake up every morning.
-5. **Stress reduction**: Regular practices to reduce stress.
-
-**Vùng xanh: Bí mật của tuổi thọ**
-
-Vùng xanh là những khu vực nơi mọi người sống lâu hơn mức trung bình rất nhiều. Những nơi này bao gồm Okinawa (Nhật Bản), Sardinia (Ý), và Nicoya (Costa Rica). Các nhà nghiên cứu đã tìm thấy những yếu tố chung ở những khu vực này:
-
-1. **Chế độ ăn**: Mọi người chủ yếu ăn thực phẩm từ thực vật, với lượng thịt nhỏ.
-2. **Hoạt động thể chất**: Vận động hàng ngày được xây dựng vào lối sống của họ.
-3. **Kết nối xã hội**: Mối quan hệ gia đình và cộng đồng bền chặt.
-4. **Mục đích**: Có lý do để thức dậy mỗi buổi sáng.
-5. **Giảm căng thẳng**: Thực hành thường xuyên để giảm căng thẳng.
-
-### ✍️ Exercises
-**Exercise 1**: Compare lifestyle habits in Blue Zones with those in your country.
-So sánh thói quen lối sống ở Vùng xanh với ở đất nước của bạn.
-
-**Sample answer:** 
-In Blue Zones, people eat mostly plant-based foods, while in my country, we consume more meat. However, like Blue Zone residents, we also value strong family connections and community support.
-
-## VIII. LOOKING BACK (Trang 16-17)
-### 📚 Review Vocabulary
-Complete list of unit vocabulary:
-- **active** : năng động
-- **balanced diet** : chế độ ăn cân bằng
-- **benefit** : lợi ích
-- **centenarian** : người sống trên 100 tuổi
-- **community** : cộng đồng
-- **develop** : phát triển
-- **disease** : bệnh tật
-- **exercise** : tập thể dục
-- **fast food** : thức ăn nhanh
-- **fit** : cân đối, khỏe mạnh
-- **fresh** : tươi
-- **give up** : từ bỏ
-- **habit** : thói quen
-- **healthy** : lành mạnh
-- **ingredient** : thành phần
-- **life expectancy** : tuổi thọ
-- **lifestyle** : lối sống
-- **longevity** : tuổi thọ
-- **meditation** : thiền định
-- **mental health** : sức khỏe tinh thần
-- **mineral** : khoáng chất
-- **nutrient** : chất dinh dưỡng
-- **physical health** : sức khỏe thể chất
-- **prevent** : ngăn ngừa
-- **reduce** : giảm
-- **routine** : thói quen
-- **social connection** : kết nối xã hội
-- **stay up late** : thức khuya
-- **stress** : căng thẳng
-- **traditional** : truyền thống
-- **vitamin** : vitamin
-- **work out** : tập thể dục
-- **yoga** : yoga
-
-### 📖 Grammar Review
-**Present Perfect Summary**
-
-Uses:
-1. Unfinished actions: I have lived here for 10 years.
-2. Life experiences: I have visited Japan twice.
-3. Recent actions with present results: I have just finished my homework.
-
-Time expressions: for, since, just, already, yet, ever, never, recently
-
-### ✍️ Exercises
-**Exercise 1**: Complete the sentences with the correct form of the verbs.
-Hoàn thành câu với dạng đúng của động từ.
-
-1. She _____ (start) eating healthier food last month.
-2. They _____ (exercise) regularly for two years now.
-3. I _____ (never/try) meditation before.
-4. He _____ (give up) smoking recently.
-
-**Answers:** 1-started, 2-have exercised, 3-have never tried, 4-has given up
-
-**Exercise 2**: Rewrite the sentences using the present perfect.
-Viết lại câu sử dụng thì hiện tại hoàn thành.
-
-1. I started learning yoga in 2020. (since)
-2. She last ate fast food two months ago. (for)
-3. They began their healthy lifestyle last year. (since)
-
-**Answers:** 
-1. I have learned yoga since 2020.
-2. She hasn't eaten fast food for two months.
-3. They have had a healthy lifestyle since last year.
-
-## IX. PROJECT (Trang 17)
-### 📋 Project Description
-**Create a Healthy Lifestyle Guide**
-Tạo Hướng dẫn Lối sống Lành mạnh
-
-**Requirements:**
-1. Research healthy lifestyle habits from different cultures
-2. Create a poster or digital presentation
-3. Include at least 5 healthy habits with explanations
-4. Add visual elements (photos, drawings, charts)
-5. Present to the class (3-5 minutes)
-
-**Yêu cầu:**
-1. Nghiên cứu thói quen lối sống lành mạnh từ các nền văn hóa khác nhau
-2. Tạo poster hoặc bài thuyết trình kỹ thuật số
-3. Bao gồm ít nhất 5 thói quen lành mạnh với giải thích
-4. Thêm các yếu tố trực quan (ảnh, bản vẽ, biểu đồ)
-5. Thuyết trình trước lớp (3-5 phút)
-
-**Assessment criteria:**
-- Content accuracy and relevance
-- Visual appeal and organization
-- Oral presentation skills
-- Use of unit vocabulary and grammar
-
-**Tiêu chí đánh giá:**
-- Độ chính xác và phù hợp của nội dung
-- Tính hấp dẫn và tổ chức trực quan
-- Kỹ năng thuyết trình
-- Sử dụng từ vựng và ngữ pháp của bài học
+---
+
+#### Bài 3
+
+**3. Write the verbs or phrasal verbs that are used with the nouns or noun phrases in the conversation.**
+
+(Viết các động từ hoặc cụm động từ được sử dụng với danh từ hoặc cụm danh từ trong bài hội thoại.)
+
+| Verbs / Phrasal verbs | Nouns / Noun phrases |
+|-----------------------|---------------------|
+| 1. put out           | the rubbish         |
+| 2.                   | the laundry         |
+| 3.                   | groceries           |
+| 4.                   | the heavy lifting   |
+| 5.                   | the washing up      |
+
+**Phương pháp giải:**
+- the rubbish: rác
+- the laundry: công việc giặt giũ
+- groceries: thực phẩm
+- the heavy lifting: việc mang vác nặng
+- the washing up: việc rửa chén / bát
+
+**Lời giải chi tiết:** 
+
+1. **put out** – the rubbish: vứt rác
+2. **do** – the laundry: làm công việc giặt giũ
+3. **shop for** – groceries: mua thực phẩm
+4. **do** – the heavy lifting: làm việc mang vác nặng
+5. **do** – the washing up: rửa chén/ bát
+
+---
+
+#### Bài 4
+
+**4. Complete the sentences from the conversation with the correct forms of the verbs in brackets.**
+
+(Hoàn thành các câu từ bài hội thoại với hình thức đúng của động từ trong ngoặc.)
+
+1. I'd love to, but I'm afraid I can't. I (prepare) __________ dinner.
+2. My mum usually (do) __________ the cooking but she (work) __________ late today.
+
+**Lời giải chi tiết:**
+
+1. **am preparing**
+2. **does** – **is working**
+
+1. I'd love to, but I'm afraid I can't. I **am preparing** dinner.  
+   (Tôi rất thích, nhưng tôi e rằng tôi không thể. Tôi đang chuẩn bị bữa tối.)
+
+2. My mum usually **does** the cooking but she **is working** late today.  
+   (Mẹ tôi thường nấu ăn nhưng hôm nay mẹ đi làm muộn.)
+
+Dưới đây là nội dung được viết lại theo định dạng Markdown:
+
+## Language
+
+## Pronunciation
+
+### 1. Consonant blends /br/, /kr/, and /tr/
+
+#### Lý thuyết:
+
+Consonant blends (phụ âm kép) là sự kết hợp của hai hoặc nhiều phụ âm được phát âm liên tiếp nhưng vẫn giữ được âm riêng biệt của từng phụ âm.
+
+Khi phát âm, cần phát âm rõ ràng cả hai phụ âm, không được bỏ qua phụ âm nào.
+
+Cách phát âm:
+
+- /br/: Môi mím lại phát âm /b/, sau đó nhanh chóng chuyển sang /r/
+- /kr/: Phát âm /k/ ở cổ họng, sau đó chuyển sang /r/
+- /tr/: Đặt lưỡi chạm răng trên phát âm /t/, sau đó chuyển sang /r/
+
+**Listen and repeat. Pay attention to the consonant blends /br/, /kr/, and /tr/.**
+
+| /br/ | /kr/ | /tr/ |
+|------|------|------|
+| breadwinner /ˈbredwɪnə(r)/ | crash /kræʃ/ | track /træk/ |
+| breakfast /ˈbrekfəst/ | crane /kreɪn/ | tree /triː/ |
+| brown /braʊn/ | cream /kriːm/ | train /treɪn/ |
+
+### 2. Listen to the sentences and circle the words you hear
+
+**Bài nghe:**
+1. I'm worried he's going to crash his car.
+2. The train is moving fast.
+3. I usually have bread for breakfast.
+
+**Đáp án:**
+1. b (crash)
+2. c (train)
+3. a (bread)
+
+## Vocabulary: Family life
+
+### 1. Match the words with their meanings
+
+| Words | Meanings |
+|-------|----------|
+| 1. breadwinner | b. someone who earns the money to support their family |
+| 2. housework | d. work around the house such as cooking, cleaning or washing clothes |
+| 3. groceries | e. food and other goods sold at a shop or a supermarket |
+| 4. homemaker | a. a person who manages a home and often raises children instead of earning money |
+| 5. heavy lifting | c. picking up and carrying heavy objects |
+
+### 2. Complete the sentences using the words in Exercise 1
+
+1. My mother is a **homemaker**. She doesn't go to work but stays at home to look after the family.
+2. When I lived in this city, I used to shop for **groceries** at this supermarket.
+3. My eldest son is strong enough to do the **heavy lifting** for the family.
+4. Hanna hates doing **housework** except cooking.
+5. Mr Lewis is the **breadwinner** of the family, but he still helps his wife with the housework whenever he has time.
+
+## Grammar: Present simple vs. present continuous
+
+### Quy tắc:
+- **Present simple**: dùng cho thói quen hoặc những việc làm thường xuyên
+  - Cấu trúc: S + V(s/es)
+  - Ví dụ: My mother cooks every day.
+
+- **Present continuous**: dùng cho sự việc đang xảy ra tại thời điểm nói
+  - Cấu trúc: S + am/is/are + V-ing
+  - Ví dụ: My mother isn't cooking now. She's working in her office.
+
+**Lưu ý:** Không dùng hiện tại tiếp diễn với động từ tình thái như: like, love, need, want, know, agree, etc.
+
+### 1. Choose the correct form of the verb in each sentence
+
+1. Mrs Lan usually **does** the cooking in her family.
+2. I'm afraid he can't answer the phone now. He **is putting out** the rubbish.
+3. He **cleans** the house every day.
+4. My sister can't do any housework today. She **is studying** for her exams.
+5. My mother **does** the laundry twice a week.
+
+### 2. Read the text and put the verbs in brackets in the present simple or present continuous
+
+Mrs Lam is a housewife. Every day, she **(1) does** most of the house work. She cooks, washes the clothes, and cleans the house. But today is Mother's Day. So Mrs Lam **(2) isn't doing** any housework. At the moment, she **(3) is watching** her favourite TV programme. Her children **(4) are doing** the cooking and her husband **(5) is tidying up** the house. Everybody **(6) is trying** hard to make it a special day for Mrs Lam.
+
+## Từ vựng tổng hợp
+
+1. **homemaker** /ˈhəʊmmeɪkə(r)/ (n): nội trợ
+   - My mother is a perfect homemaker.
+
+2. **breadwinner** /ˈbredwɪnə(r)/ (n): trụ cột tài chính
+   - My father is the breadwinner in my family.
+
+3. **grocery** /ˈɡrəʊsəri/ (n): thực phẩm
+   - Mom wanted me to get the groceries.
+
+4. **heavy-lifting** /ˌhevi ˈlɪftɪŋ/ (n): công việc mang vác nặng
+   - Children should avoid doing heavy-lifting.
+
+5. **housework** /ˈhaʊswɜːk/ (n): việc nhà
+   - I have to employ someone twice a week to help me with the general housework.
