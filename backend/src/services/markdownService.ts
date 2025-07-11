@@ -452,8 +452,9 @@ export class MarkdownService {
         // Skip the lines we've processed
         lines.splice(index + 1, table.endIndex - index);
       }
-      // Vocabulary items - both numbered and bullet formats
-else if (line.match(/^(\d+\.|-)\s*\*\*[^*]+\*\*\s*:/) || line.match(/^\([^)]+\)\s*-/)) {          flushContent();
+      // Vocabulary items - support multiple formats
+      else if (this.isVocabularyLine(line)) {
+        flushContent();
         const vocab = this.parseVocabularyLine(line);
         console.log('Parsed vocabulary:', vocab);
         if (vocab) {
@@ -502,12 +503,6 @@ else if (line.match(/^(\d+\.|-)\s*\*\*[^*]+\*\*\s*:/) || line.match(/^\([^)]+\)\
       else {
         // Skip empty lines that were cleared (translations)
         if (line !== '') {
-          // Log potential vocabulary lines that weren't caught
-          if (line.match(/^\([^)]+\)\s*-/) || line.includes(' - ') && line.includes('(')) {
-            console.log(`WARNING: Potential vocabulary line added as text content: "${line}"`);
-            console.log(`  Current section: ${currentSection?.title}`);
-            console.log(`  Current subsection: ${currentSubsection?.title}`);
-          }
           currentContent.push(line);
         }
       }
@@ -556,60 +551,79 @@ else if (line.match(/^(\d+\.|-)\s*\*\*[^*]+\*\*\s*:/) || line.match(/^\([^)]+\)\
     }
   }
 
+  private isVocabularyLine(line: string): boolean {
+    // Check for various vocabulary patterns
+    return !!(
+      line.match(/^(\d+\.|-)\s*\*\*[^*]+\*\*\s*:/) || // Numbered or bullet with bold
+      line.match(/^\d+\.\s+\w+:\s*\([^)]+\)/) || // New format: 1. word: (type) meaning /pron/
+      line.match(/^\([^)]+\)\s*-\s*[^-]+\s*-/) // Format: (type) - word - pronunciation
+    );
+  }
+
   private parseVocabularyLine(line: string): Vocabulary | null {
     console.log('\n--- parseVocabularyLine called ---');
     console.log(`Input line: "${line}"`);
     
-    // Pattern 1: number. **word** : (type) meaning /pronunciation/
-    // Pattern 2: - **word** : (type) meaning /pronunciation/
-    // Pattern 3: **word** : meaning (simpler format)
-    // Pattern 4: (type) - word - pronunciation (new format from screenshot)
-    
-    // Try the new format first: (adj) - word - pronunciation
-    const newFormatMatch = line.match(/^\(([^)]+)\)\s*-\s*([^-]+)\s*-\s*(.+)$/);
-    console.log('Testing new format regex:', newFormatMatch);
-    if (newFormatMatch) {
+    // Pattern 1: New format from g6_part_2.md: "1. word: (type) meaning /pronunciation/"
+    const newNumberedMatch = line.match(/^(\d+)\.\s+([^:]+):\s*\(([^)]+)\)\s*([^/]+?)(?:\s*\/([^/]+)\/)?$/);
+    console.log('Testing new numbered format regex:', newNumberedMatch);
+    if (newNumberedMatch) {
       const result: Vocabulary = {
         type: 'vocabulary' as const,
-        partOfSpeech: newFormatMatch[1].trim(),
-        word: newFormatMatch[2].trim(),
-        meaning: '', // No meaning in this format
-        pronunciation: newFormatMatch[3].trim()
+        number: newNumberedMatch[1],
+        word: newNumberedMatch[2].trim(),
+        partOfSpeech: newNumberedMatch[3].trim(),
+        meaning: newNumberedMatch[4].trim(),
+        pronunciation: newNumberedMatch[5]?.trim()
       };
-      console.log('Matched new format:', result);
+      console.log('Matched new numbered format:', result);
       return result;
     }
     
-    const numberedMatch = line.match(/^(\d+)\.\s+\*\*([^*]+)\*\*\s*:\s*(?:\(([^)]+)\)\s*)?([^/]+)(?:\/([^/]+)\/)?/);
-    console.log('Testing numbered format regex:', numberedMatch);
+    // Pattern 2: Old numbered format with bold: "1. **word** : (type) meaning /pronunciation/"
+    const numberedBoldMatch = line.match(/^(\d+)\.\s+\*\*([^*]+)\*\*\s*:\s*(?:\(([^)]+)\)\s*)?([^/]+)(?:\/([^/]+)\/)?/);
+    console.log('Testing numbered bold format regex:', numberedBoldMatch);
+    if (numberedBoldMatch) {
+      const result: Vocabulary = {
+        type: 'vocabulary' as const,
+        number: numberedBoldMatch[1],
+        word: numberedBoldMatch[2].trim(),
+        partOfSpeech: numberedBoldMatch[3]?.trim(),
+        meaning: numberedBoldMatch[4].trim(),
+        pronunciation: numberedBoldMatch[5]?.trim()
+      };
+      console.log('Matched numbered bold format:', result);
+      return result;
+    }
     
+    // Pattern 3: Bullet format with bold: "- **word** : (type) meaning /pronunciation/"
     const bulletMatch = line.match(/^-\s+\*\*([^*]+)\*\*\s*:\s*(?:\(([^)]+)\)\s*)?([^/]+)(?:\/([^/]+)\/)?/);
     console.log('Testing bullet format regex:', bulletMatch);
+    if (bulletMatch) {
+      const result: Vocabulary = {
+        type: 'vocabulary' as const,
+        word: bulletMatch[1].trim(),
+        partOfSpeech: bulletMatch[2]?.trim(),
+        meaning: bulletMatch[3].trim(),
+        pronunciation: bulletMatch[4]?.trim()
+      };
+      console.log('Matched bullet format:', result);
+      return result;
+    }
     
-    const match = numberedMatch || bulletMatch;
-    if (match) {
-      if (numberedMatch) {
-        const result: Vocabulary = {
-          type: 'vocabulary' as const,
-          number: match[1],
-          word: match[2].trim(),
-          partOfSpeech: match[3]?.trim(),
-          meaning: match[4].trim(),
-          pronunciation: match[5]?.trim()
-        };
-        console.log('Matched numbered format:', result);
-        return result;
-      } else {
-        const result: Vocabulary = {
-          type: 'vocabulary' as const,
-          word: match[1].trim(),
-          partOfSpeech: match[2]?.trim(),
-          meaning: match[3].trim(),
-          pronunciation: match[4]?.trim()
-        };
-        console.log('Matched bullet format:', result);
-        return result;
-      }
+    // Pattern 4: Alternative format: "(type) - word - pronunciation"
+    const altFormatMatch = line.match(/^\(([^)]+)\)\s*-\s*([^-]+)\s*-\s*(.+)$/);
+    console.log('Testing alternative format regex:', altFormatMatch);
+    if (altFormatMatch) {
+      const result: Vocabulary = {
+        type: 'vocabulary' as const,
+        partOfSpeech: altFormatMatch[1].trim(),
+        word: altFormatMatch[2].trim(),
+        meaning: '', // No meaning in this format
+        pronunciation: altFormatMatch[3].trim()
+      };
+      console.log('Matched alternative format:', result);
+      return result;
     }
     
     console.log('No vocabulary pattern matched');
