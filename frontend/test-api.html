@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>API Test</title>
+</head>
+<body>
+    <h1>English Learning App API Test</h1>
+    <button onclick="testAPI()">Test File List API</button>
+    <div id="result"></div>
+    
+    <script>
+        async function testAPI() {
+            const resultDiv = document.getElementById('result');
+            try {
+                resultDiv.innerHTML = '<p>Testing API...</p>';
+                
+                // Test the files endpoint
+                const response = await fetch('http://localhost:3001/api/markdown/files');
+                const data = await response.json();
+                
+                resultDiv.innerHTML = `
+                    <h2>✓ API is working!</h2>
+                    <p>Files endpoint returned:</p>
+                    <pre>${JSON.stringify(data, null, 2)}</pre>
+                `;
+            } catch (error) {
+                resultDiv.innerHTML = `
+                    <h2>✗ API Error</h2>
+                    <p>Make sure the backend is running on port 3001</p>
+                    <pre>${error.message}</pre>
+                `;
+            }
+        }
+    </script>
+</body>
+</html>

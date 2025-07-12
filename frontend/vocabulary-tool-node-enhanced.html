@@ -1,0 +1,345 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vocabulary Tool - Enhanced Version</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: #f5f5f5;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: white;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        
+        h1 {
+            color: #333;
+            margin-bottom: 24px;
+            font-size: 24px;
+            font-weight: 600;
+        }
+        
+        .form-group {
+            margin-bottom: 20px;
+        }
+        
+        label {
+            display: block;
+            margin-bottom: 6px;
+            color: #555;
+            font-size: 14px;
+            font-weight: 500;
+        }
+        
+        input, textarea, select {
+            width: 100%;
+            padding: 10px 12px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            font-size: 14px;
+            font-family: inherit;
+            transition: border-color 0.2s;
+        }
+        
+        input:focus, textarea:focus, select:focus {
+            outline: none;
+            border-color: #4CAF50;
+        }
+        
+        textarea {
+            min-height: 120px;
+            resize: vertical;
+        }
+        
+        .row {
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr;
+            gap: 15px;
+        }
+        
+        .checkbox-group {
+            margin-top: 10px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        
+        .checkbox-group input[type="checkbox"] {
+            width: auto;
+            cursor: pointer;
+        }
+        
+        .checkbox-group label {
+            margin-bottom: 0;
+            cursor: pointer;
+            user-select: none;
+        }
+        
+        button {
+            background: #4CAF50;
+            color: white;
+            border: none;
+            padding: 12px 24px;
+            border-radius: 4px;
+            font-size: 16px;
+            font-weight: 500;
+            cursor: pointer;
+            transition: background 0.2s;
+            width: 100%;
+        }
+        
+        button:hover {
+            background: #45a049;
+        }
+        
+        button:disabled {
+            background: #ccc;
+            cursor: not-allowed;
+        }
+        
+        #result {
+            margin-top: 24px;
+            padding: 16px;
+            background: #f8f9fa;
+            border-radius: 4px;
+            display: none;
+        }
+        
+        #result.show {
+            display: block;
+        }
+        
+        .success {
+            color: #4CAF50;
+            margin-bottom: 12px;
+            font-weight: 500;
+        }
+        
+        .error {
+            color: #f44336;
+            margin-bottom: 12px;
+            font-weight: 500;
+        }
+        
+        .file-info {
+            font-size: 12px;
+            color: #666;
+            margin-top: 8px;
+            padding: 8px;
+            background: #e8f0fe;
+            border-radius: 4px;
+        }
+        
+        pre {
+            background: white;
+            padding: 12px;
+            border-radius: 4px;
+            overflow-x: auto;
+            white-space: pre-wrap;
+            word-wrap: break-word;
+            font-size: 14px;
+            line-height: 1.5;
+            margin-top: 12px;
+            border: 1px solid #ddd;
+        }
+        
+        .loading {
+            text-align: center;
+            color: #666;
+        }
+        
+        .help-text {
+            font-size: 12px;
+            color: #666;
+            margin-top: 4px;
+        }
+        
+        .context-input {
+            background: #f8f9fa;
+            border: 1px solid #e0e0e0;
+        }
+        
+        .context-input:focus {
+            background: white;
+        }
+        
+        .divider {
+            height: 1px;
+            background: #e0e0e0;
+            margin: 24px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Enhanced Vocabulary Processing Tool</h1>
+        
+        <form id="vocabularyForm">
+            <div class="form-group">
+                <label for="apiKey">Gemini API Key:</label>
+                <input 
+                    type="password" 
+                    id="apiKey" 
+                    required
+                    placeholder="Enter your API key"
+                >
+            </div>
+            
+            <div class="form-group">
+                <label for="words">Words/Phrases (one per line):</label>
+                <textarea 
+                    id="words" 
+                    required
+                    placeholder="get&#10;beautiful&#10;take care of&#10;run out of"
+                ></textarea>
+            </div>
+            
+            <div class="form-group">
+                <label for="context">Context (optional):</label>
+                <textarea 
+                    id="context" 
+                    class="context-input"
+                    placeholder="e.g., Unit theme, lesson topic, or any relevant context for these vocabulary items"
+                ></textarea>
+                <p class="help-text">This context will be included in the markdown file to provide background information</p>
+            </div>
+            
+            <div class="divider"></div>
+            
+            <div class="row">
+                <div class="form-group">
+                    <label for="grade">Grade:</label>
+                    <select id="grade" required>
+                        <option value="">Select grade</option>
+                        <option value="g6">Grade 6</option>
+                        <option value="g7">Grade 7</option>
+                        <option value="g9">Grade 9</option>
+                        <option value="g10">Grade 10</option>
+                    </select>
+                </div>
+                
+                <div class="form-group">
+                    <label for="unit">Unit:</label>
+                    <input 
+                        type="number" 
+                        id="unit" 
+                        min="1" 
+                        max="20" 
+                        required
+                        placeholder="e.g., 1"
+                    >
+                </div>
+                
+                <div class="form-group">
+                    <label for="unitTitle">Unit Title (optional):</label>
+                    <input 
+                        type="text" 
+                        id="unitTitle" 
+                        placeholder="e.g., Hobbies"
+                    >
+                </div>
+            </div>
+            
+            <div class="checkbox-group">
+                <input type="checkbox" id="includeExamples" checked>
+                <label for="includeExamples">Include example sentences for each word</label>
+            </div>
+            
+            <div class="divider"></div>
+            
+            <button type="submit">Process Vocabulary</button>
+        </form>
+        
+        <div id="result"></div>
+    </div>
+
+    <script>
+        const API_URL = 'http://localhost:3001/api/vocabulary/process-enhanced';
+        
+        document.getElementById('vocabularyForm').addEventListener('submit', async (e) => {
+            e.preventDefault();
+            
+            const submitButton = e.target.querySelector('button[type="submit"]');
+            const resultDiv = document.getElementById('result');
+            
+            // Get form data
+            const formData = {
+                apiKey: document.getElementById('apiKey').value.trim(),
+                words: document.getElementById('words').value.trim(),
+                context: document.getElementById('context').value.trim(),
+                grade: document.getElementById('grade').value,
+                unit: document.getElementById('unit').value,
+                unitTitle: document.getElementById('unitTitle').value.trim(),
+                includeExamples: document.getElementById('includeExamples').checked
+            };
+            
+            // Validate
+            if (!formData.apiKey || !formData.words || !formData.grade || !formData.unit) {
+                resultDiv.innerHTML = '<div class="error">Please fill in all required fields</div>';
+                resultDiv.classList.add('show');
+                return;
+            }
+            
+            // Show loading
+            submitButton.disabled = true;
+            submitButton.textContent = 'Processing...';
+            resultDiv.innerHTML = '<div class="loading">Processing vocabulary with context...</div>';
+            resultDiv.classList.add('show');
+            
+            try {
+                const response = await fetch(API_URL, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify(formData)
+                });
+                
+                const data = await response.json();
+                
+                if (!response.ok) {
+                    throw new Error(data.error || 'Failed to process vocabulary');
+                }
+                
+                // Display success
+                resultDiv.innerHTML = `
+                    <div class="success">✓ Vocabulary processed successfully!</div>
+                    <div class="file-info">
+                        <strong>File saved to:</strong> ${data.filePath}<br>
+                        <strong>Filename:</strong> ${data.fileName}
+                    </div>
+                    <pre>${data.vocabulary}</pre>
+                `;
+                
+            } catch (error) {
+                resultDiv.innerHTML = `<div class="error">Error: ${error.message}</div>`;
+            } finally {
+                submitButton.disabled = false;
+                submitButton.textContent = 'Process Vocabulary';
+            }
+        });
+        
+        // Save API key to localStorage
+        const apiKeyInput = document.getElementById('apiKey');
+        apiKeyInput.value = localStorage.getItem('geminiApiKey') || '';
+        apiKeyInput.addEventListener('change', (e) => {
+            localStorage.setItem('geminiApiKey', e.target.value);
+        });
+    </script>
+</body>
+</html>

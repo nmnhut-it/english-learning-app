@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vocabulary Tools</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: #f5f5f5;
+            padding: 40px;
+            margin: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        h1 {
+            color: #333;
+            margin-bottom: 30px;
+            text-align: center;
+        }
+        .tools-grid {
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 20px;
+        }
+        .tool-card {
+            background: white;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        .tool-card h2 {
+            color: #333;
+            margin-bottom: 15px;
+        }
+        .tool-card p {
+            color: #666;
+            margin-bottom: 20px;
+            line-height: 1.6;
+        }
+        .tool-card a {
+            display: inline-block;
+            background: #4CAF50;
+            color: white;
+            padding: 12px 24px;
+            border-radius: 4px;
+            text-decoration: none;
+            font-weight: 500;
+            transition: background 0.2s;
+        }
+        .tool-card a:hover {
+            background: #45a049;
+        }
+        .recommended {
+            border: 2px solid #4CAF50;
+        }
+        .badge {
+            background: #4CAF50;
+            color: white;
+            padding: 4px 8px;
+            border-radius: 4px;
+            font-size: 12px;
+            margin-left: 8px;
+        }
+        .info {
+            margin-top: 40px;
+            text-align: center;
+            color: #666;
+        }
+        code {
+            background: #e8e8e8;
+            padding: 2px 6px;
+            border-radius: 3px;
+            font-family: monospace;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Vocabulary Processing Tools</h1>
+        
+        <div class="tools-grid">
+            <div class="tool-card recommended">
+                <h2>Streamlined Tool <span class="badge">RECOMMENDED</span></h2>
+                <p><strong>Features:</strong></p>
+                <ul>
+                    <li>Clean format: <code>**word**: (type) meaning /pronunciation/</code></li>
+                    <li>Saves both .md and .json files</li>
+                    <li>Supports grades 1-12</li>
+                    <li>Markdown preview with marked.js</li>
+                    <li>No examples or notes (saves tokens)</li>
+                </ul>
+                <a href="vocabulary-tool-streamlined.html">Open Streamlined Tool</a>
+            </div>
+            
+            <div class="tool-card">
+                <h2>Original Tool</h2>
+                <p>Simple vocabulary processor with Vietnamese meanings and IPA pronunciation. The classic clean format you're familiar with.</p>
+                <a href="gemini-vocabulary-tool.html">Open Original Tool</a>
+            </div>
+            
+            <div class="tool-card">
+                <h2>Node.js Integrated Tools</h2>
+                <p>These require the backend server to be running:</p>
+                <ul>
+                    <li><a href="vocabulary-tool-node.html">Basic Node Tool</a></li>
+                    <li><a href="vocabulary-tool-node-enhanced.html">Enhanced Node Tool</a></li>
+                </ul>
+            </div>
+        </div>
+        
+        <div class="info">
+            <p><strong>API Endpoint:</strong> <code>http://localhost:3001/api/vocabulary/process-streamlined</code></p>
+            <p><strong>Files saved to:</strong> <code>markdown-files/[book]-[grade]/vocabulary/</code></p>
+        </div>
+    </div>
+</body>
+</html>

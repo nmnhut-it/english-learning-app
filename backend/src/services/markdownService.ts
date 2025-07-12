@@ -106,7 +106,9 @@ export class MarkdownService {
   private markdownDir: string;
 
   constructor() {
-    this.markdownDir = path.join(process.cwd(), '..', 'markdown-files');
+    // The markdown-files directory is at the project root, same level as backend/frontend
+    this.markdownDir = path.join(__dirname, '../../../markdown-files');
+    console.log('Looking for markdown files at:', this.markdownDir);
   }
 
   async listFiles(): Promise<FileTreeNode> {

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "grade": 7,
+    "unit": 1,
+    "book": "global-success",
+    "context": "Unit 1: Hobbies",
+    "createdAt": "2024-01-20T10:30:45.123Z",
+    "totalWords": 4
+  },
+  "vocabulary": [
+    {
+      "word": "hobby",
+      "type": "n",
+      "meaning": "sở thích",
+      "pronunciation": "ˈhɒbi",
+      "irregular": false
+    },
+    {
+      "word": "beautiful",
+      "type": "adj",
+      "meaning": "đẹp",
+      "pronunciation": "ˈbjuːtɪfʊl",
+      "irregular": false
+    },
+    {
+      "word": "take care of",
+      "type": "phrase",
+      "meaning": "chăm sóc",
+      "pronunciation": "teɪk keə(r) ɒv",
+      "irregular": false
+    },
+    {
+      "word": "run",
+      "v2": "ran",
+      "v3": "run",
+      "type": "v",
+      "meaning": "chạy",
+      "pronunciation": "rʌn",
+      "pronunciationV2": "ræn",
+      "pronunciationV3": "rʌn",
+      "irregular": true
+    }
+  ]
+}
