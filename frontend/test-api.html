@@ -15,7 +15,7 @@
                 resultDiv.innerHTML = '<p>Testing API...</p>';
                 
                 // Test the files endpoint
-                const response = await fetch('http://0.0.0.0:3001/api/markdown/files');
+                const response = await fetch('http://localhost:3001/api/markdown/files');
                 const data = await response.json();
                 
                 resultDiv.innerHTML = `
