@@ -405,6 +405,33 @@
             border: 1px solid #ef444433;
         }
         
+        .file-info {
+            background: var(--gray-50);
+            padding: 1rem;
+            border-radius: 0.5rem;
+            margin-bottom: 1rem;
+            font-size: 0.875rem;
+        }
+        
+        .file-info-item {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 0.5rem;
+        }
+        
+        .file-info-item:last-child {
+            margin-bottom: 0;
+        }
+        
+        .file-info-label {
+            color: var(--gray-600);
+        }
+        
+        .file-info-value {
+            color: var(--gray-900);
+            font-weight: 500;
+        }
+        
         /* Markdown Preview */
         .markdown-preview {
             background: var(--gray-50);
@@ -580,41 +607,6 @@
             font-size: 0.875rem;
             font-style: italic;
         }
-        
-        /* Watermark */
-        .watermark {
-            position: fixed;
-            bottom: 20px;
-            right: 20px;
-            background: rgba(255, 255, 255, 0.95);
-            border: 1px solid var(--gray-300);
-            border-radius: 0.5rem;
-            padding: 0.75rem 1rem;
-            box-shadow: var(--shadow-md);
-            font-size: 0.875rem;
-            z-index: 100;
-            backdrop-filter: blur(10px);
-        }
-        
-        .watermark-author {
-            font-weight: 600;
-            color: var(--gray-900);
-            margin-bottom: 0.25rem;
-        }
-        
-        .watermark-price {
-            color: var(--primary);
-            font-weight: 500;
-        }
-        
-        @media (max-width: 640px) {
-            .watermark {
-                bottom: 10px;
-                right: 10px;
-                font-size: 0.75rem;
-                padding: 0.5rem 0.75rem;
-            }
-        }
     </style>
 </head>
 <body>
@@ -630,6 +622,38 @@
 
     <!-- Main Content -->
     <main class="container">
+        <!-- Welcome Section -->
+        <div class="welcome-card animate__animated animate__fadeIn">
+            <h1 class="welcome-title">Chào mừng bạn! 👋</h1>
+            <p class="welcome-text">
+                Công cụ này giúp bạn tạo từ vựng tiếng Anh với nghĩa tiếng Việt, phiên âm và ví dụ một cách nhanh chóng.
+            </p>
+            
+            <div class="steps">
+                <div class="step">
+                    <div class="step-number">1</div>
+                    <div class="step-content">
+                        <h3>Nhập API Key</h3>
+                        <p>Nhập Gemini API key của bạn (được lưu tự động cho lần sau)</p>
+                    </div>
+                </div>
+                <div class="step">
+                    <div class="step-number">2</div>
+                    <div class="step-content">
+                        <h3>Nhập từ vựng</h3>
+                        <p>Mỗi từ hoặc cụm từ trên một dòng</p>
+                    </div>
+                </div>
+                <div class="step">
+                    <div class="step-number">3</div>
+                    <div class="step-content">
+                        <h3>Chọn thông tin</h3>
+                        <p>Chọn lớp, unit và sách giáo khoa</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
         <!-- Form Section -->
         <div class="form-card animate__animated animate__fadeIn">
             <h2 class="form-title">
@@ -686,21 +710,19 @@ get up early"
                 <!-- Context -->
                 <div class="form-group">
                     <label for="context" class="form-label">
-                        Ngữ cảnh (không bắt buộc)
+                        Chủ đề (không bắt buộc)
                     </label>
-                    <textarea 
+                    <input 
+                        type="text" 
                         id="context" 
-                        class="form-textarea"
-                        placeholder="Ví dụ: Unit 1: Hobbies and Activities
-
-Bạn có thể thêm nội dung dài, ghi chú, hoặc ngữ cảnh chi tiết cho bài từ vựng ở đây..."
-                        rows="4"
-                    ></textarea>
+                        class="form-input"
+                        placeholder="Ví dụ: Unit 1: Hobbies and Activities"
+                    >
                     <div class="help-text">
                         <svg class="help-icon" width="14" height="14" viewBox="0 0 20 20" fill="currentColor">
                             <path fill-rule="evenodd" d="M3 5a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 10a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 15a1 1 0 011-1h6a1 1 0 110 2H4a1 1 0 01-1-1z" clip-rule="evenodd"/>
                         </svg>
-                        <span>Thêm nội dung, tiêu đề, hoặc ngữ cảnh chi tiết cho bài từ vựng (có thể viết nhiều dòng)</span>
+                        <span>Thêm tiêu đề hoặc chủ đề cho bài từ vựng</span>
                     </div>
                 </div>
 
@@ -772,12 +794,6 @@ Bạn có thể thêm nội dung dài, ghi chú, hoặc ngữ cảnh chi tiết 
             <div id="resultContent"></div>
         </div>
     </main>
-    
-    <!-- Watermark -->
-    <div class="watermark">
-        <div class="watermark-author">Viết bởi Nguyễn Minh Nhựt</div>
-        <div class="watermark-price">Usage: 5,000 VND/lượt</div>
-    </div>
 
     <script>
         // Configuration
@@ -903,7 +919,7 @@ Bạn có thể thêm nội dung dài, ghi chú, hoặc ngữ cảnh chi tiết 
                         <svg width="24" height="24" viewBox="0 0 20 20" fill="currentColor" style="color: var(--success);">
                             <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"/>
                         </svg>
-                        Tạo từ vựng thành công! (${data.vocabularyCount} từ)
+                        Tạo từ vựng thành công!
                     </h3>
                     <div class="result-actions">
                         <button class="icon-button tooltip" onclick="copyToClipboard('${escapeHtml(data.vocabulary)}', this)">
@@ -919,6 +935,21 @@ Bạn có thể thêm nội dung dài, ghi chú, hoặc ngữ cảnh chi tiết 
                             </svg>
                             <span class="tooltip-text">Tải file</span>
                         </button>
+                    </div>
+                </div>
+                
+                <div class="file-info">
+                    <div class="file-info-item">
+                        <span class="file-info-label">📄 File Markdown:</span>
+                        <span class="file-info-value">${data.markdownPath.split('/').pop()}</span>
+                    </div>
+                    <div class="file-info-item">
+                        <span class="file-info-label">📊 File JSON:</span>
+                        <span class="file-info-value">${data.jsonPath.split('/').pop()}</span>
+                    </div>
+                    <div class="file-info-item">
+                        <span class="file-info-label">📚 Số từ vựng:</span>
+                        <span class="file-info-value">${data.vocabularyCount} từ</span>
                     </div>
                 </div>
                 
