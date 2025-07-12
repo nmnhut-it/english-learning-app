@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vocabulary Processing Tool</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/12.0.0/marked.min.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: #f5f5f5;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        
+        .container {
+            max-width: 700px;
+            margin: 0 auto;
+            background: white;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        
+        h1 {
+            color: #333;
+            margin-bottom: 24px;
+            font-size: 24px;
+            font-weight: 600;
+        }
+        
+        .form-group {
+            margin-bottom: 20px;
+        }
+        
+        label {
+            display: block;
+            margin-bottom: 6px;
+            color: #555;
+            font-size: 14px;
+            font-weight: 500;
+        }
+        
+        input, textarea, select {
+            width: 100%;
+            padding: 10px 12px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            font-size: 14px;
+            font-family: inherit;
+            transition: border-color 0.2s;
+        }
+        
+        input:focus, textarea:focus, select:focus {
+            outline: none;
+            border-color: #4CAF50;
+        }
+        
+        textarea {
+            min-height: 120px;
+            resize: vertical;
+        }
+        
+        .row {
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr;
+            gap: 15px;
+        }
+        
+        button {
+            background: #4CAF50;
+            color: white;
+            border: none;
+            padding: 12px 24px;
+            border-radius: 4px;
+            font-size: 16px;
+            font-weight: 500;
+            cursor: pointer;
+            transition: background 0.2s;
+            width: 100%;
+        }
+        
+        button:hover {
+            background: #45a049;
+        }
+        
+        button:disabled {
+            background: #ccc;
+            cursor: not-allowed;
+        }
+        
+        #result {
+            margin-top: 24px;
+            display: none;
+        }
+        
+        #result.show {
+            display: block;
+        }
+        
+        .success {
+            color: #4CAF50;
+            margin-bottom: 12px;
+            font-weight: 500;
+        }
+        
+        .error {
+            color: #f44336;
+            margin-bottom: 12px;
+            font-weight: 500;
+        }
+        
+        .file-info {
+            font-size: 12px;
+            color: #666;
+            padding: 8px;
+            background: #e8f0fe;
+            border-radius: 4px;
+            margin-bottom: 12px;
+        }
+        
+        .markdown-preview {
+            background: #f8f9fa;
+            padding: 16px;
+            border-radius: 4px;
+            border: 1px solid #e0e0e0;
+        }
+        
+        .markdown-preview h1 {
+            font-size: 1.8em;
+            color: #333;
+            margin-bottom: 16px;
+        }
+        
+        .markdown-preview h2 {
+            font-size: 1.4em;
+            color: #555;
+            margin-top: 20px;
+            margin-bottom: 12px;
+        }
+        
+        .markdown-preview p {
+            margin-bottom: 12px;
+        }
+        
+        .markdown-preview strong {
+            color: #333;
+        }
+        
+        .markdown-preview hr {
+            border: none;
+            border-top: 1px solid #e0e0e0;
+            margin: 20px 0;
+        }
+        
+        .loading {
+            text-align: center;
+            color: #666;
+        }
+        
+        .help-text {
+            font-size: 12px;
+            color: #666;
+            margin-top: 4px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Vocabulary Processing Tool</h1>
+        
+        <form id="vocabularyForm">
+            <div class="form-group">
+                <label for="apiKey">Gemini API Key:</label>
+                <input 
+                    type="password" 
+                    id="apiKey" 
+                    required
+                    placeholder="Enter your API key"
+                >
+            </div>
+            
+            <div class="form-group">
+                <label for="words">Words/Phrases (one per line):</label>
+                <textarea 
+                    id="words" 
+                    required
+                    placeholder="get&#10;beautiful&#10;take care of&#10;run out of"
+                ></textarea>
+            </div>
+            
+            <div class="form-group">
+                <label for="context">Context (optional):</label>
+                <input 
+                    type="text" 
+                    id="context" 
+                    placeholder="e.g., Unit 1: Hobbies"
+                >
+                <p class="help-text">This context will be included as a heading in the markdown file</p>
+            </div>
+            
+            <div class="row">
+                <div class="form-group">
+                    <label for="grade">Grade:</label>
+                    <select id="grade" required>
+                        <option value="">Select grade</option>
+                        <option value="1">Grade 1</option>
+                        <option value="2">Grade 2</option>
+                        <option value="3">Grade 3</option>
+                        <option value="4">Grade 4</option>
+                        <option value="5">Grade 5</option>
+                        <option value="6">Grade 6</option>
+                        <option value="7">Grade 7</option>
+                        <option value="8">Grade 8</option>
+                        <option value="9">Grade 9</option>
+                        <option value="10">Grade 10</option>
+                        <option value="11">Grade 11</option>
+                        <option value="12">Grade 12</option>
+                    </select>
+                </div>
+                
+                <div class="form-group">
+                    <label for="unit">Unit:</label>
+                    <input 
+                        type="number" 
+                        id="unit" 
+                        min="1" 
+                        max="20" 
+                        required
+                        placeholder="e.g., 1"
+                    >
+                </div>
+                
+                <div class="form-group">
+                    <label for="book">Book:</label>
+                    <select id="book">
+                        <option value="global-success">Global Success</option>
+                        <option value="english">English</option>
+                        <option value="other">Other</option>
+                    </select>
+                </div>
+            </div>
+            
+            <button type="submit">Process Vocabulary</button>
+        </form>
+        
+        <div id="result"></div>
+    </div>
+
+    <script>
+        const API_URL = 'http://localhost:3001/api/vocabulary/process';
+        
+        document.getElementById('vocabularyForm').addEventListener('submit', async (e) => {
+            e.preventDefault();
+            
+            const submitButton = e.target.querySelector('button[type="submit"]');
+            const resultDiv = document.getElementById('result');
+            
+            // Get form data
+            const formData = {
+                apiKey: document.getElementById('apiKey').value.trim(),
+                words: document.getElementById('words').value.trim(),
+                context: document.getElementById('context').value.trim(),
+                grade: document.getElementById('grade').value,
+                unit: document.getElementById('unit').value,
+                book: document.getElementById('book').value || 'global-success'
+            };
+            
+            // Validate
+            if (!formData.apiKey || !formData.words || !formData.grade || !formData.unit) {
+                resultDiv.innerHTML = '<div class="error">Please fill in all required fields</div>';
+                resultDiv.classList.add('show');
+                return;
+            }
+            
+            // Show loading
+            submitButton.disabled = true;
+            submitButton.textContent = 'Processing...';
+            resultDiv.innerHTML = '<div class="loading">Processing vocabulary...</div>';
+            resultDiv.classList.add('show');
+            
+            try {
+                const response = await fetch(API_URL, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify(formData)
+                });
+                
+                const data = await response.json();
+                
+                if (!response.ok) {
+                    throw new Error(data.error || 'Failed to process vocabulary');
+                }
+                
+                // Render markdown using marked
+                const renderedHTML = marked.parse(data.vocabulary);
+                
+                // Display success
+                resultDiv.innerHTML = `
+                    <div class="success">✓ Vocabulary processed successfully!</div>
+                    <div class="file-info">
+                        <strong>Files saved:</strong><br>
+                        Markdown: ${data.markdownPath}<br>
+                        JSON: ${data.jsonPath}<br>
+                        Total words: ${data.vocabularyCount}
+                    </div>
+                    <div class="markdown-preview">${renderedHTML}</div>
+                `;
+                
+            } catch (error) {
+                resultDiv.innerHTML = `<div class="error">Error: ${error.message}</div>`;
+            } finally {
+                submitButton.disabled = false;
+                submitButton.textContent = 'Process Vocabulary';
+            }
+        });
+        
+        // Save API key to localStorage
+        const apiKeyInput = document.getElementById('apiKey');
+        apiKeyInput.value = localStorage.getItem('geminiApiKey') || '';
+        apiKeyInput.addEventListener('change', (e) => {
+            localStorage.setItem('geminiApiKey', e.target.value);
+        });
+        
+        // Configure marked
+        marked.setOptions({
+            breaks: true,
+            gfm: true
+        });
+    </script>
+</body>
+</html>
