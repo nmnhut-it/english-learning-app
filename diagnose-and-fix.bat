@@ -15,7 +15,7 @@ if %errorlevel% equ 0 (
 
 echo.
 echo 2. Testing backend API...
-curl -s http://localhost:3001/api > nul 2>&1
+curl -s http://0.0.0.0:3001/api > nul 2>&1
 if %errorlevel% equ 0 (
     echo    ✓ Backend API is responding
 ) else (

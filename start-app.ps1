@@ -41,7 +41,7 @@ function Test-Port {
     param($Port)
     $connection = New-Object System.Net.Sockets.TcpClient
     try {
-        $connection.Connect("localhost", $Port)
+        $connection.Connect("0.0.0.0", $Port)
         $connection.Close()
         return $true
     } catch {
@@ -112,12 +112,12 @@ Write-Host "Both servers are starting up..." -ForegroundColor Green
 Write-Host "========================================" -ForegroundColor Green
 Write-Host ""
 Write-Host "Backend API: " -NoNewline
-Write-Host "http://localhost:3001/api" -ForegroundColor Cyan
+Write-Host "http://0.0.0.0:3001/api" -ForegroundColor Cyan
 Write-Host "Frontend App: " -NoNewline
-Write-Host "http://localhost:3000" -ForegroundColor Cyan
+Write-Host "http://0.0.0.0:3000" -ForegroundColor Cyan
 Write-Host ""
 Write-Host "The application should open automatically in your browser."
-Write-Host "If not, navigate to http://localhost:3000"
+Write-Host "If not, navigate to http://0.0.0.0:3000"
 Write-Host ""
 Write-Host "To stop the servers:" -ForegroundColor Yellow
 Write-Host "1. Close both PowerShell windows, OR"
@@ -132,7 +132,7 @@ Write-Host ""
 
 # Optionally open browser after a delay
 Start-Sleep -Seconds 5
-Start-Process "http://localhost:3000"
+Start-Process "http://0.0.0.0:3000"
 
 Write-Host "Press any key to close this window (servers will continue running)..."
 $null = $Host.UI.RawUI.ReadKey("NoEcho,IncludeKeyDown")

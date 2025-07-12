@@ -61,8 +61,8 @@ start "Frontend Server" cmd /k "cd /d frontend && npm run dev"
 
 echo.
 echo Servers are starting...
-echo Backend: http://localhost:3001
-echo Frontend: http://localhost:3000
+echo Backend: http://0.0.0.0:3001
+echo Frontend: http://0.0.0.0:3000
 echo.
 pause
 goto MENU
@@ -72,7 +72,7 @@ cls
 echo Starting backend server only...
 start "Backend Server" cmd /k "cd /d backend && npm run dev"
 echo.
-echo Backend server started on http://localhost:3001
+echo Backend server started on http://0.0.0.0:3001
 pause
 goto MENU
 
@@ -81,7 +81,7 @@ cls
 echo Starting frontend server only...
 start "Frontend Server" cmd /k "cd /d frontend && npm run dev"
 echo.
-echo Frontend server started on http://localhost:3000
+echo Frontend server started on http://0.0.0.0:3000
 pause
 goto MENU
 

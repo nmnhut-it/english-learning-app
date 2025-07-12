@@ -3,7 +3,7 @@ echo Checking English Learning App Backend Status...
 echo.
 
 echo 1. Checking if backend is running on port 3001...
-curl -s http://localhost:3001 > nul 2>&1
+curl -s http://0.0.0.0:3001 > nul 2>&1
 if %errorlevel% equ 0 (
     echo    ✓ Backend is responding
 ) else (
@@ -18,15 +18,15 @@ echo.
 echo 2. Testing API endpoints...
 
 echo    Testing root endpoint...
-curl -s http://localhost:3001/api
+curl -s http://0.0.0.0:3001/api
 echo.
 
 echo.
 echo    Testing markdown files endpoint...
-curl -s http://localhost:3001/api/markdown/files | findstr /C:"{" > nul
+curl -s http://0.0.0.0:3001/api/markdown/files | findstr /C:"{" > nul
 if %errorlevel% equ 0 (
     echo    ✓ Files API is working
-    curl -s http://localhost:3001/api/markdown/files
+    curl -s http://0.0.0.0:3001/api/markdown/files
 ) else (
     echo    ✗ Files API is not responding
 )
