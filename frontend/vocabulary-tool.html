@@ -579,46 +579,41 @@
             scroll-behavior: smooth;
         }
         
+        .header-info {
+            display: flex;
+            flex-direction: column;
+            align-items: flex-end;
+            font-size: 0.75rem;
+            color: var(--gray-600);
+            gap: 0.125rem;
+        }
+        
+        .header-author {
+            font-weight: 500;
+        }
+        
+        .header-price {
+            color: var(--primary);
+            font-weight: 600;
+        }
+        
+        @media (max-width: 640px) {
+            .header-content {
+                flex-direction: column;
+                gap: 0.75rem;
+            }
+            
+            .header-info {
+                align-items: center;
+                font-size: 0.7rem;
+            }
+        }
+        
         /* Placeholder examples */
         .example-text {
             color: var(--gray-500);
             font-size: 0.875rem;
             font-style: italic;
-        }
-        
-        /* Watermark */
-        .watermark {
-            position: fixed;
-            bottom: 20px;
-            right: 20px;
-            background: rgba(255, 255, 255, 0.95);
-            border: 1px solid var(--gray-300);
-            border-radius: 0.5rem;
-            padding: 0.75rem 1rem;
-            box-shadow: var(--shadow-md);
-            font-size: 0.875rem;
-            z-index: 100;
-            backdrop-filter: blur(10px);
-        }
-        
-        .watermark-author {
-            font-weight: 600;
-            color: var(--gray-900);
-            margin-bottom: 0.25rem;
-        }
-        
-        .watermark-price {
-            color: var(--primary);
-            font-weight: 500;
-        }
-        
-        @media (max-width: 640px) {
-            .watermark {
-                bottom: 10px;
-                right: 10px;
-                font-size: 0.75rem;
-                padding: 0.5rem 0.75rem;
-            }
         }
     </style>
 </head>
@@ -629,6 +624,10 @@
             <div class="logo">
                 <div class="logo-icon">📚</div>
                 <span>English Vocabulary Helper</span>
+            </div>
+            <div class="header-info">
+                <div class="header-author">Viết bởi Nguyễn Minh Nhựt</div>
+                <div class="header-price">5,000 VND/lượt/10 từ</div>
             </div>
         </div>
     </header>
@@ -795,12 +794,6 @@ Bạn có thể thêm nội dung dài, ghi chú, hoặc ngữ cảnh chi tiết 
             <div id="resultContent"></div>
         </div>
     </main>
-    
-    <!-- Watermark -->
-    <div class="watermark">
-        <div class="watermark-author">Viết bởi Nguyễn Minh Nhựt</div>
-        <div class="watermark-price">Usage: 5,000 VND/lượt</div>
-    </div>
 
     <script>
         // Configuration
