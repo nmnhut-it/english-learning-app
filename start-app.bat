@@ -74,40 +74,47 @@ if not exist "frontend\node_modules" (
 
 :: Start the servers
 echo ========================================
-echo Starting servers...
-echo ========================================
-echo.
-echo Backend will run on: http://localhost:3001
-echo Frontend will run on: http://localhost:3000
-echo.
-echo Press Ctrl+C in both windows to stop the servers
+echo Starting all services...
 echo ========================================
 echo.
 
-:: Start backend server in a new window
-start "English Learning Backend" cmd /k "cd /d backend && echo Starting Backend Server... && npm run dev"
+:: Start backend server (includes vocabulary tool)
+echo Starting Backend Server (with Vocabulary Tool)...
+start "English Learning Backend" cmd /k "cd /d backend && npm run dev"
 
 :: Wait a moment for backend to initialize
 timeout /t 3 /nobreak >nul
 
-:: Start frontend server in a new window
-start "English Learning Frontend" cmd /k "cd /d frontend && echo Starting Frontend Server... && npm run dev"
+:: Start frontend server
+echo Starting Frontend Server...
+start "English Learning Frontend" cmd /k "cd /d frontend && npm run dev"
 
-:: Keep this window open with instructions
+:: Wait for servers to fully start
+timeout /t 5 /nobreak >nul
+
+:: Open both applications in browser
+echo.
+echo Opening applications in browser...
+start http://localhost:3000
+timeout /t 2 /nobreak >nul
+start http://localhost:3001/vocabulary-tool
+
+:: Display final information
 echo.
 echo ========================================
-echo Both servers are starting up...
+echo All services are running!
 echo ========================================
 echo.
+echo Main Application: http://localhost:3000
+echo Vocabulary Tool: http://localhost:3001/vocabulary-tool
 echo Backend API: http://localhost:3001/api
-echo Frontend App: http://localhost:3000
 echo.
-echo The application should open automatically in your browser.
-echo If not, navigate to http://localhost:3000
+echo Vocabulary files will be saved to:
+echo   markdown-files\global-success-[grade]\vocabulary\
 echo.
-echo To stop the servers:
-echo 1. Close both command windows, OR
-echo 2. Press Ctrl+C in each window
+echo To stop all servers:
+echo   1. Close all command windows, OR
+echo   2. Press Ctrl+C in each window
 echo.
 echo This window can be closed safely.
 echo ========================================
