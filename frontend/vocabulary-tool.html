@@ -254,6 +254,10 @@
         }
         
         @media (min-width: 640px) {
+            .form-grid-2 {
+                grid-template-columns: repeat(2, 1fr);
+            }
+            
             .form-grid-3 {
                 grid-template-columns: repeat(3, 1fr);
             }
@@ -506,6 +510,7 @@
                 padding: 0.75rem;
             }
             
+            .form-grid-2,
             .form-grid-3 {
                 grid-template-columns: 1fr;
             }
@@ -705,7 +710,7 @@ Bạn có thể thêm nội dung dài, ghi chú, hoặc ngữ cảnh chi tiết 
                 </div>
 
                 <!-- Grid Fields -->
-                <div class="form-grid form-grid-3">
+                <div class="form-grid form-grid-2">
                     <!-- Grade -->
                     <div class="form-group">
                         <label for="grade" class="form-label">
@@ -742,6 +747,24 @@ Bạn có thể thêm nội dung dài, ghi chú, hoặc ngữ cảnh chi tiết 
                             required
                             placeholder="1"
                         >
+                    </div>
+
+                    <!-- Lesson -->
+                    <div class="form-group">
+                        <label for="lesson" class="form-label">
+                            Tên bài <span class="required">*</span>
+                        </label>
+                        <select id="lesson" class="form-select" required>
+                            <option value="">Chọn bài học</option>
+                            <option value="getting-started">Getting Started</option>
+                            <option value="a-closer-look-1">A Closer Look 1</option>
+                            <option value="a-closer-look-2">A Closer Look 2</option>
+                            <option value="communication">Communication</option>
+                            <option value="skills-1">Skills 1</option>
+                            <option value="skills-2">Skills 2</option>
+                            <option value="looking-back">Looking Back</option>
+                            <option value="project">Project</option>
+                        </select>
                     </div>
 
                     <!-- Book -->
@@ -790,6 +813,36 @@ Bạn có thể thêm nội dung dài, ghi chú, hoặc ngữ cảnh chi tiết 
         const resultContent = document.getElementById('resultContent');
         const apiKeyInput = document.getElementById('apiKey');
         
+        // Lesson options for different grade levels
+        const lessonOptions = {
+            primary: [ // Grades 1-5
+                { value: 'lesson-1', text: 'Lesson 1' },
+                { value: 'lesson-2', text: 'Lesson 2' },
+                { value: 'lesson-3', text: 'Lesson 3' },
+                { value: 'review', text: 'Review' }
+            ],
+            thcs: [ // Grades 6-9 (Global Success)
+                { value: 'getting-started', text: 'Getting Started' },
+                { value: 'a-closer-look-1', text: 'A Closer Look 1' },
+                { value: 'a-closer-look-2', text: 'A Closer Look 2' },
+                { value: 'communication', text: 'Communication' },
+                { value: 'skills-1', text: 'Skills 1' },
+                { value: 'skills-2', text: 'Skills 2' },
+                { value: 'looking-back', text: 'Looking Back' },
+                { value: 'project', text: 'Project' }
+            ],
+            thpt: [ // Grades 10-12 (Global Success)
+                { value: 'getting-started', text: 'Getting Started' },
+                { value: 'language', text: 'Language' },
+                { value: 'reading', text: 'Reading' },
+                { value: 'speaking', text: 'Speaking' },
+                { value: 'listening', text: 'Listening' },
+                { value: 'writing', text: 'Writing' },
+                { value: 'communication-culture', text: 'Communication and Culture' },
+                { value: 'looking-back-project', text: 'Looking Back and Project' }
+            ]
+        };
+        
         // Initialize
         document.addEventListener('DOMContentLoaded', () => {
             // Load saved API key
@@ -805,11 +858,51 @@ Bạn có thể thêm nội dung dài, ghi chú, hoặc ngữ cảnh chi tiết 
                 headerIds: false,
                 mangle: false
             });
+            
+            // Load saved grade and trigger lesson update
+            const savedGrade = localStorage.getItem('vocabularyGrade');
+            if (savedGrade) {
+                gradeSelect.value = savedGrade;
+                gradeSelect.dispatchEvent(new Event('change'));
+            }
         });
         
         // Save API key on change
         apiKeyInput.addEventListener('change', (e) => {
             localStorage.setItem('geminiApiKey', e.target.value.trim());
+        });
+        
+        // Update lesson options based on grade
+        const gradeSelect = document.getElementById('grade');
+        const lessonSelect = document.getElementById('lesson');
+        
+        gradeSelect.addEventListener('change', (e) => {
+            const grade = parseInt(e.target.value);
+            if (!grade) return;
+            
+            // Save grade preference
+            localStorage.setItem('vocabularyGrade', grade);
+            
+            // Clear current options
+            lessonSelect.innerHTML = '<option value="">Chọn bài học</option>';
+            
+            // Determine which lesson set to use
+            let lessons;
+            if (grade >= 1 && grade <= 5) {
+                lessons = lessonOptions.primary;
+            } else if (grade >= 6 && grade <= 9) {
+                lessons = lessonOptions.thcs;
+            } else {
+                lessons = lessonOptions.thpt;
+            }
+            
+            // Add new options
+            lessons.forEach(lesson => {
+                const option = document.createElement('option');
+                option.value = lesson.value;
+                option.textContent = lesson.text;
+                lessonSelect.appendChild(option);
+            });
         });
         
         // Form submission
@@ -823,11 +916,12 @@ Bạn có thể thêm nội dung dài, ghi chú, hoặc ngữ cảnh chi tiết 
                 context: document.getElementById('context').value.trim(),
                 grade: document.getElementById('grade').value,
                 unit: document.getElementById('unit').value,
+                lesson: document.getElementById('lesson').value,
                 book: document.getElementById('book').value || 'global-success'
             };
             
             // Validate
-            if (!formData.apiKey || !formData.words || !formData.grade || !formData.unit) {
+            if (!formData.apiKey || !formData.words || !formData.grade || !formData.unit || !formData.lesson) {
                 showError('Vui lòng điền đầy đủ các thông tin bắt buộc');
                 return;
             }
@@ -851,7 +945,7 @@ Bạn có thể thêm nội dung dài, ghi chú, hoặc ngữ cảnh chi tiết 
                 }
                 
                 // Show success result
-                showSuccess(data, formData.grade, formData.unit);
+                showSuccess(data, formData.grade, formData.unit, formData.lesson);
                 
             } catch (error) {
                 showError(error.message);
@@ -893,7 +987,7 @@ Bạn có thể thêm nội dung dài, ghi chú, hoặc ngữ cảnh chi tiết 
             resultCard.scrollIntoView({ behavior: 'smooth', block: 'start' });
         }
         
-        function showSuccess(data, grade, unit) {
+        function showSuccess(data, grade, unit, lesson) {
             // Sanitize and render markdown
             const sanitizedHTML = DOMPurify.sanitize(marked.parse(data.vocabulary));
             
@@ -913,7 +1007,7 @@ Bạn có thể thêm nội dung dài, ghi chú, hoặc ngữ cảnh chi tiết 
                             </svg>
                             <span class="tooltip-text">Copy markdown</span>
                         </button>
-                        <button class="icon-button tooltip" onclick="downloadMarkdown('vocabulary-grade-${grade}-unit-${String(unit).padStart(2, '0')}.md', '${escapeHtml(data.vocabulary)}')">
+                        <button class="icon-button tooltip" onclick="downloadMarkdown('vocabulary-grade-${grade}-unit-${String(unit).padStart(2, '0')}-${lesson}.md', '${escapeHtml(data.vocabulary)}')">
                             <svg width="16" height="16" viewBox="0 0 20 20" fill="currentColor">
                                 <path fill-rule="evenodd" d="M3 17a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zm3.293-7.707a1 1 0 011.414 0L9 10.586V3a1 1 0 112 0v7.586l1.293-1.293a1 1 0 111.414 1.414l-3 3a1 1 0 01-1.414 0l-3-3a1 1 0 010-1.414z" clip-rule="evenodd"/>
                             </svg>

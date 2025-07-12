@@ -11,12 +11,12 @@ const GEMINI_API_URL = 'https://generativelanguage.googleapis.com/v1beta/models/
 // Process vocabulary with context
 router.post('/process', async (req, res) => {
     try {
-        const { words, apiKey, grade, unit, book, context } = req.body;
+        const { words, apiKey, grade, unit, lesson, book, context } = req.body;
 
         // Validate inputs
-        if (!words || !apiKey || !grade || !unit) {
+        if (!words || !apiKey || !grade || !unit || !lesson) {
             return res.status(400).json({ 
-                error: 'Missing required fields: words, apiKey, grade, unit' 
+                error: 'Missing required fields: words, apiKey, grade, unit, lesson' 
             });
         }
 
@@ -139,7 +139,7 @@ Các từ/cụm từ cần xử lý:\n`;
         const bookFolder = book || 'global-success';
         const gradeFolder = `${bookFolder}-${grade}`;
         const timestamp = new Date().toISOString().replace(/[:.]/g, '-').slice(0, -5);
-        const fileName = `unit-${unit.padStart(2, '0')}-vocab-${timestamp}`;
+        const fileName = `unit-${unit.padStart(2, '0')}-${lesson}-vocab-${timestamp}`;
         
         const folderPath = path.join(__dirname, '../../../markdown-files', gradeFolder, 'vocabulary');
         const markdownPath = path.join(folderPath, `${fileName}.md`);
@@ -156,6 +156,7 @@ Các từ/cụm từ cần xử lý:\n`;
             metadata: {
                 grade: parseInt(grade),
                 unit: parseInt(unit),
+                lesson: lesson,
                 book: book,
                 context: context || null,
                 createdAt: new Date().toISOString(),
