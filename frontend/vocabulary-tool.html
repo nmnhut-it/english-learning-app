@@ -851,7 +851,7 @@ Bạn có thể thêm nội dung dài, ghi chú, hoặc ngữ cảnh chi tiết 
                 }
                 
                 // Show success result
-                showSuccess(data);
+                showSuccess(data, formData.grade, formData.unit);
                 
             } catch (error) {
                 showError(error.message);
@@ -893,7 +893,7 @@ Bạn có thể thêm nội dung dài, ghi chú, hoặc ngữ cảnh chi tiết 
             resultCard.scrollIntoView({ behavior: 'smooth', block: 'start' });
         }
         
-        function showSuccess(data) {
+        function showSuccess(data, grade, unit) {
             // Sanitize and render markdown
             const sanitizedHTML = DOMPurify.sanitize(marked.parse(data.vocabulary));
             
@@ -913,7 +913,7 @@ Bạn có thể thêm nội dung dài, ghi chú, hoặc ngữ cảnh chi tiết 
                             </svg>
                             <span class="tooltip-text">Copy markdown</span>
                         </button>
-                        <button class="icon-button tooltip" onclick="downloadMarkdown('${data.markdownPath}', '${escapeHtml(data.vocabulary)}')">
+                        <button class="icon-button tooltip" onclick="downloadMarkdown('vocabulary-grade-${grade}-unit-${String(unit).padStart(2, '0')}.md', '${escapeHtml(data.vocabulary)}')">
                             <svg width="16" height="16" viewBox="0 0 20 20" fill="currentColor">
                                 <path fill-rule="evenodd" d="M3 17a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zm3.293-7.707a1 1 0 011.414 0L9 10.586V3a1 1 0 112 0v7.586l1.293-1.293a1 1 0 111.414 1.414l-3 3a1 1 0 01-1.414 0l-3-3a1 1 0 010-1.414z" clip-rule="evenodd"/>
                             </svg>
@@ -965,7 +965,7 @@ Bạn có thể thêm nội dung dài, ghi chú, hoặc ngữ cảnh chi tiết 
             const url = URL.createObjectURL(blob);
             const a = document.createElement('a');
             a.href = url;
-            a.download = filename.split('/').pop();
+            a.download = filename;
             document.body.appendChild(a);
             a.click();
             document.body.removeChild(a);
