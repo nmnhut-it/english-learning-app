@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Vocabulary Quiz - Gemini Enhanced</title>
+    <title>TV Vocabulary Quiz - Gemini Enhanced</title>
     <style>
         * {
             margin: 0;
@@ -12,319 +12,159 @@
         }
 
         body {
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            color: #333;
-            min-height: 100vh;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            padding: 10px;
+            font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+            background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+            color: #2c3e50;
+            height: 100vh;
+            overflow: hidden;
         }
 
-        .container {
-            background: white;
-            border-radius: 20px;
-            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
-            padding: 30px;
-            width: 100%;
-            max-width: 800px;
-            max-height: 90vh;
-            overflow-y: auto;
-        }
-
-        h1 {
-            color: #5a67d8;
-            text-align: center;
-            margin-bottom: 20px;
-            font-size: 2rem;
-        }
-
-        .step-indicator {
-            display: flex;
-            justify-content: center;
-            margin-bottom: 30px;
-            gap: 10px;
-        }
-
-        .step {
-            display: flex;
-            align-items: center;
-            gap: 10px;
-        }
-
-        .step-circle {
-            width: 30px;
-            height: 30px;
-            border-radius: 50%;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-weight: bold;
-            background: #e2e8f0;
-            color: #64748b;
-            transition: all 0.3s;
-        }
-
-        .step.active .step-circle {
-            background: #5a67d8;
-            color: white;
-        }
-
-        .step.completed .step-circle {
-            background: #10b981;
-            color: white;
-        }
-
-        .step-label {
-            font-size: 0.9rem;
-            color: #64748b;
-        }
-
-        .step.active .step-label {
-            color: #5a67d8;
-            font-weight: 600;
-        }
-
-        .input-group {
-            margin-bottom: 20px;
-        }
-
-        label {
-            display: block;
-            margin-bottom: 8px;
-            font-weight: 500;
-            color: #4a5568;
-        }
-
-        input[type="text"], textarea {
-            width: 100%;
-            padding: 12px;
-            border: 2px solid #e2e8f0;
-            border-radius: 10px;
-            font-size: 1rem;
-            transition: border-color 0.3s;
-        }
-
-        input[type="text"]:focus, textarea:focus {
-            outline: none;
-            border-color: #5a67d8;
-        }
-
-        textarea {
-            min-height: 150px;
-            resize: vertical;
-            font-family: inherit;
-        }
-
-        .api-key-status {
-            display: flex;
-            align-items: center;
-            gap: 8px;
-            margin-top: 5px;
-            font-size: 0.9rem;
-        }
-
-        .api-key-status.saved {
-            color: #10b981;
-        }
-
-        .api-key-status.missing {
-            color: #ef4444;
-        }
-
-        .button-group {
-            display: flex;
-            gap: 10px;
-            margin-top: 20px;
-            flex-wrap: wrap;
-        }
-
-        button {
-            flex: 1;
-            min-width: 150px;
-            padding: 12px 20px;
-            border: none;
-            border-radius: 10px;
-            font-size: 1rem;
-            font-weight: 600;
-            cursor: pointer;
-            transition: all 0.3s;
-            color: white;
-        }
-
-        .btn-primary {
-            background: #5a67d8;
-        }
-
-        .btn-primary:hover {
-            background: #4c51bf;
-            transform: translateY(-2px);
-            box-shadow: 0 5px 15px rgba(90, 103, 216, 0.3);
-        }
-
-        .btn-secondary {
-            background: #64748b;
-        }
-
-        .btn-secondary:hover {
-            background: #475569;
-        }
-
-        .btn-success {
-            background: #10b981;
-        }
-
-        .btn-success:hover {
-            background: #059669;
-        }
-
-        .btn-warning {
-            background: #f59e0b;
-        }
-
-        .btn-warning:hover {
-            background: #d97706;
-        }
-
-        /* Preview Section */
-        .preview-section {
-            display: none;
-        }
-
-        .preview-container {
-            background: #f8fafc;
-            border: 2px solid #e2e8f0;
-            border-radius: 10px;
-            padding: 20px;
-            margin: 20px 0;
-            max-height: 400px;
-            overflow-y: auto;
-        }
-
-        .preview-header {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            margin-bottom: 15px;
-        }
-
-        .preview-title {
-            font-size: 1.1rem;
-            font-weight: 600;
-            color: #4a5568;
-        }
-
-        .word-count {
-            background: #5a67d8;
-            color: white;
-            padding: 4px 12px;
-            border-radius: 20px;
-            font-size: 0.9rem;
-        }
-
-        .vocabulary-item {
-            background: white;
-            border: 1px solid #e2e8f0;
-            border-radius: 8px;
-            padding: 15px;
-            margin-bottom: 10px;
-        }
-
-        .vocabulary-word {
-            font-size: 1.2rem;
-            font-weight: 600;
-            color: #2d3748;
-            margin-bottom: 5px;
-        }
-
-        .vocabulary-ipa {
-            color: #5a67d8;
-            font-style: italic;
-            margin-bottom: 5px;
-        }
-
-        .vocabulary-meaning {
-            color: #4a5568;
-        }
-
-        /* Quiz Section */
-        .quiz-section {
-            display: none;
-        }
-
-        .quiz-container {
-            text-align: center;
-            padding: 40px;
-            min-height: 400px;
+        /* Setup Screen */
+        .setup-screen {
             display: flex;
             flex-direction: column;
             justify-content: center;
+            align-items: center;
+            height: 100vh;
+            padding: 30px;
+            text-align: center;
         }
 
-        .quiz-card {
-            background: #f8fafc;
-            border: 3px solid #e2e8f0;
+        .setup-screen h1 {
+            font-size: 3.5rem;
+            margin-bottom: 10px;
+            color: #34495e;
+            font-weight: 800;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.1);
+        }
+
+        .setup-screen p {
+            font-size: 1.3rem;
+            color: #7f8c8d;
+            margin-bottom: 30px;
+            font-weight: 500;
+        }
+
+        .setup-box {
+            background: rgba(255, 255, 255, 0.95);
+            padding: 35px;
             border-radius: 20px;
-            padding: 40px;
-            margin: 20px 0;
-            transition: all 0.3s;
+            box-shadow: 0 15px 35px rgba(0,0,0,0.1);
+            width: 100%;
+            max-width: 700px;
+            backdrop-filter: blur(10px);
         }
 
-        .quiz-progress {
+        .api-key-group {
             margin-bottom: 20px;
+            text-align: left;
+        }
+
+        .api-key-label {
             font-size: 1.1rem;
-            color: #64748b;
+            font-weight: 600;
+            margin-bottom: 8px;
+            color: #34495e;
         }
 
-        .quiz-question {
-            font-size: 2rem;
+        #apiKey {
+            width: 100%;
+            padding: 12px;
+            border: 2px solid #e8f4fd;
+            border-radius: 10px;
+            font-size: 1rem;
+            margin-bottom: 5px;
+            background: #fafbfc;
+            transition: border-color 0.3s;
+        }
+
+        #apiKey:focus {
+            outline: none;
+            border-color: #3498db;
+        }
+
+        .api-key-status {
+            font-size: 0.9rem;
+            margin-bottom: 15px;
+        }
+
+        .api-key-status.saved {
+            color: #27ae60;
+        }
+
+        .api-key-status.missing {
+            color: #e74c3c;
+        }
+
+        #textInput {
+            width: 100%;
+            height: 160px;
+            padding: 20px;
+            border: 2px solid #e8f4fd;
+            border-radius: 12px;
+            font-size: 0.9rem;
+            font-family: 'Courier New', monospace;
             margin-bottom: 20px;
-            color: #2d3748;
-            line-height: 1.4;
+            resize: none;
+            background: #fafbfc;
+            transition: border-color 0.3s;
         }
 
-        .quiz-answer {
-            font-size: 1.5rem;
-            color: #5a67d8;
-            margin-top: 20px;
-            opacity: 0;
-            transition: opacity 0.3s;
+        #textInput:focus {
+            outline: none;
+            border-color: #3498db;
         }
 
-        .quiz-answer.show {
-            opacity: 1;
+        .setup-btn {
+            padding: 15px 30px;
+            border: none;
+            border-radius: 10px;
+            font-size: 1.1rem;
+            font-weight: 700;
+            cursor: pointer;
+            margin: 8px;
+            transition: all 0.3s;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
         }
 
-        .quiz-controls {
-            display: flex;
-            justify-content: center;
-            gap: 15px;
-            margin-top: 30px;
+        .setup-btn:hover { 
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(0,0,0,0.2);
         }
 
-        .hidden {
+        .btn-primary { background: #3498db; color: white; }
+        .btn-secondary { background: #e74c3c; color: white; }
+        .btn-success { background: #27ae60; color: white; }
+
+        /* Processing Screen */
+        .processing-screen {
             display: none;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            padding: 30px;
+            text-align: center;
         }
 
-        .error-message {
-            background: #fee;
-            border: 1px solid #fcc;
-            color: #c33;
-            padding: 15px;
-            border-radius: 8px;
-            margin: 20px 0;
+        .processing-box {
+            background: rgba(255, 255, 255, 0.95);
+            padding: 40px;
+            border-radius: 20px;
+            box-shadow: 0 15px 35px rgba(0,0,0,0.1);
+            max-width: 600px;
         }
 
         .loading {
             display: inline-block;
-            width: 20px;
-            height: 20px;
-            border: 3px solid #f3f3f3;
-            border-top: 3px solid #5a67d8;
+            width: 50px;
+            height: 50px;
+            border: 5px solid #f3f3f3;
+            border-top: 5px solid #3498db;
             border-radius: 50%;
             animation: spin 1s linear infinite;
-            margin-right: 10px;
+            margin-bottom: 20px;
         }
 
         @keyframes spin {
@@ -332,131 +172,548 @@
             100% { transform: rotate(360deg); }
         }
 
-        .processing-message {
-            text-align: center;
-            padding: 20px;
-            color: #5a67d8;
+        .processing-text {
+            font-size: 1.3rem;
+            color: #34495e;
+        }
+
+        /* Preview Screen */
+        .preview-screen {
+            display: none;
+            flex-direction: column;
+            height: 100vh;
+            background: #f8fafe;
+        }
+
+        .preview-screen.active { display: flex; }
+
+        /* Header for preview */
+        .preview-header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 15px 30px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+
+        .preview-title {
+            font-size: 2rem;
+            font-weight: 800;
+            text-shadow: 1px 1px 2px rgba(0,0,0,0.2);
+        }
+
+        .preview-controls {
+            display: flex;
+            gap: 15px;
+        }
+
+        .header-btn {
+            padding: 8px 16px;
+            border: none;
+            border-radius: 8px;
+            font-size: 1rem;
+            font-weight: 600;
+            cursor: pointer;
+            background: rgba(255,255,255,0.2);
+            color: white;
+            transition: all 0.3s;
+        }
+
+        .header-btn:hover {
+            background: rgba(255,255,255,0.3);
+            transform: translateY(-1px);
+        }
+
+        .word-count {
+            background: rgba(255,255,255,0.9);
+            color: #2c3e50;
+            padding: 8px 16px;
+            border-radius: 8px;
+            font-weight: 700;
             font-size: 1.1rem;
+        }
+
+        /* Preview content */
+        .preview-content {
+            flex: 1;
+            padding: 20px;
+            overflow-y: auto;
+            background: #f8fafe;
+        }
+
+        .preview-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 15px;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .preview-item {
+            background: white;
+            border-radius: 10px;
+            padding: 15px;
+            border-left: 4px solid #5a67d8;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.08);
+        }
+
+        .preview-word {
+            font-size: 1.2rem;
+            font-weight: 700;
+            color: #2c3e50;
+            margin-bottom: 5px;
+        }
+
+        .preview-ipa {
+            font-size: 1rem;
+            color: #5a67d8;
+            font-style: italic;
+            margin-bottom: 5px;
+        }
+
+        .preview-meaning {
+            font-size: 1rem;
+            color: #27ae60;
+        }
+
+        /* Preview bottom controls */
+        .preview-controls-bottom {
+            background: white;
+            padding: 15px 30px;
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            border-top: 1px solid #e9ecef;
+            box-shadow: 0 -2px 4px rgba(0,0,0,0.05);
+        }
+
+        /* Quiz Screen */
+        .quiz-screen {
+            display: none;
+            height: 100vh;
+            flex-direction: column;
+            background: #f8fafe;
+        }
+
+        .quiz-screen.active { display: flex; }
+
+        /* Header */
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 15px 30px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+
+        .title {
+            font-size: 2rem;
+            font-weight: 800;
+            text-shadow: 1px 1px 2px rgba(0,0,0,0.2);
+        }
+
+        .controls {
+            display: flex;
+            gap: 15px;
+            align-items: center;
+        }
+
+        .count-display {
+            background: rgba(255,255,255,0.9);
+            color: #2c3e50;
+            padding: 8px 16px;
+            border-radius: 8px;
+            font-weight: 700;
+            font-size: 1.1rem;
+        }
+
+        /* Main Content Area */
+        .content-area {
+            flex: 1;
+            padding: 20px;
+            overflow-y: auto;
+        }
+
+        /* Questions Grid - 2 cards per row */
+        .questions-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 15px;
+            max-width: 1600px;
+            margin: 0 auto;
+        }
+
+        .vocab-card {
+            background: white;
+            border-radius: 15px;
+            padding: 18px;
+            box-shadow: 0 3px 10px rgba(0,0,0,0.08);
+            transition: all 0.3s;
+            border-left: 5px solid #e3f2fd;
+            position: relative;
+            display: flex;
+            flex-direction: column;
+            min-height: 120px;
+            justify-content: space-between;
+        }
+
+        .vocab-card:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 6px 20px rgba(0,0,0,0.12);
+            border-left-color: #3498db;
+        }
+
+        .card-number {
+            position: absolute;
+            top: -8px;
+            left: 15px;
+            background: linear-gradient(135deg, #3498db, #2980b9);
+            color: white;
+            width: 30px;
+            height: 30px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: 800;
+            font-size: 0.9rem;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+            z-index: 10;
+        }
+
+        .vocab-content {
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+            margin-top: 8px;
+            flex: 1;
+        }
+
+        .vocab-row {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            flex-wrap: wrap;
+            min-height: 32px;
+        }
+
+        .vocab-label {
+            font-size: 0.9rem;
+            font-weight: 600;
+            color: #7f8c8d;
+            min-width: 60px;
+            flex-shrink: 0;
+        }
+
+        .vocab-value {
+            flex: 1;
+            font-size: 1.3rem;
+            font-weight: 700;
+            line-height: 1.4;
+            word-wrap: break-word;
+            overflow-wrap: break-word;
+        }
+
+        .word-text {
+            color: #2c3e50;
+        }
+
+        .meaning-text {
+            color: #27ae60;
+        }
+
+        .ipa-row {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            margin-top: auto;
+        }
+
+        .ipa-label {
+            font-size: 0.8rem;
+            font-weight: 600;
+            color: #95a5a6;
+            min-width: 35px;
+        }
+
+        .ipa-text {
+            font-size: 1.1rem;
+            color: #7f8c8d;
+            font-style: italic;
+            font-weight: 500;
+            font-family: 'Courier New', monospace;
+        }
+
+        .blank-space {
+            display: flex;
+            align-items: center;
+            min-height: 32px;
+            border-bottom: 3px dashed #bdc3c7;
+            min-width: 150px;
+            padding: 4px 8px;
+            position: relative;
+            transition: all 0.3s;
+            background: #f8f9fa;
+            border-radius: 4px;
+            flex: 1;
+        }
+
+        .blank-space.revealed {
+            border-bottom-color: transparent;
+            background: transparent;
+        }
+
+        .blank-placeholder {
+            color: #bdc3c7;
+            font-style: italic;
+            font-size: 1rem;
+        }
+
+        .answer-text {
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            display: flex;
+            align-items: center;
+            padding: 4px 8px;
+            opacity: 0;
+            transition: opacity 0.3s;
+            font-weight: 700;
+            font-size: 1.3rem;
+            background: rgba(255,255,255,0.95);
+            border-radius: 4px;
+            word-wrap: break-word;
+            overflow-wrap: break-word;
+        }
+
+        .answer-text.show {
+            opacity: 1;
+        }
+
+        .answer-text.word-answer {
+            color: #2c3e50;
+        }
+
+        .answer-text.meaning-answer {
+            color: #27ae60;
+        }
+
+        /* Bottom Controls */
+        .bottom-controls {
+            background: white;
+            padding: 15px 30px;
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            border-top: 1px solid #e9ecef;
+            box-shadow: 0 -2px 4px rgba(0,0,0,0.05);
+        }
+
+        .control-btn {
+            padding: 12px 25px;
+            border: none;
+            border-radius: 10px;
+            font-size: 1.1rem;
+            font-weight: 700;
+            cursor: pointer;
+            transition: all 0.3s;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .control-btn:hover { 
+            transform: scale(1.05);
+        }
+
+        .reveal-btn { 
+            background: linear-gradient(135deg, #f39c12, #e67e22); 
+            color: white; 
+        }
+
+        .hide-btn { 
+            background: linear-gradient(135deg, #95a5a6, #7f8c8d); 
+            color: white; 
+        }
+
+        .reset-btn { 
+            background: linear-gradient(135deg, #3498db, #2980b9); 
+            color: white; 
+        }
+
+        /* Keyboard hints */
+        .shortcuts {
+            position: fixed;
+            top: 80px;
+            right: 20px;
+            background: rgba(44, 62, 80, 0.9);
+            color: white;
+            padding: 12px;
+            border-radius: 8px;
+            font-size: 0.8rem;
+            opacity: 0.8;
+            backdrop-filter: blur(5px);
+        }
+
+        /* Error message */
+        .error-message {
+            background: #fee;
+            border: 1px solid #fcc;
+            color: #c33;
+            padding: 15px;
+            border-radius: 8px;
+            margin: 20px 0;
+            text-align: center;
+        }
+
+        /* Responsive adjustments */
+        @media (max-width: 1000px) {
+            .questions-grid {
+                grid-template-columns: 1fr;
+                gap: 12px;
+            }
+            
+            .vocab-value {
+                font-size: 1.1rem;
+            }
+            
+            .vocab-row {
+                flex-direction: column;
+                align-items: flex-start;
+                gap: 4px;
+            }
+            
+            .vocab-label {
+                font-size: 0.8rem;
+            }
+            
+            .blank-space {
+                min-width: 100%;
+            }
+        }
+
+        @media (min-width: 1400px) {
+            .vocab-value {
+                font-size: 1.4rem;
+            }
+            
+            .questions-grid {
+                gap: 20px;
+            }
+            
+            .vocab-card {
+                min-height: 140px;
+            }
+        }
+
+        @media (min-width: 1800px) {
+            .vocab-value {
+                font-size: 1.5rem;
+            }
+            
+            .vocab-card {
+                min-height: 160px;
+                padding: 22px;
+            }
         }
     </style>
 </head>
 <body>
-    <div class="container">
-        <h1>🎯 Vocabulary Quiz - Gemini Enhanced</h1>
+    <!-- Setup Screen -->
+    <div id="setupScreen" class="setup-screen">
+        <h1>📚 Vocabulary Cards</h1>
+        <p>Clean • Intuitive • TV Optimized • Gemini Enhanced</p>
         
-        <!-- Step Indicator -->
-        <div class="step-indicator">
-            <div class="step active" id="step1">
-                <div class="step-circle">1</div>
-                <div class="step-label">Setup</div>
-            </div>
-            <div class="step" id="step2">
-                <div class="step-circle">2</div>
-                <div class="step-label">Preview</div>
-            </div>
-            <div class="step" id="step3">
-                <div class="step-circle">3</div>
-                <div class="step-label">Quiz</div>
-            </div>
-        </div>
-
-        <!-- Setup Section -->
-        <div class="setup-section" id="setupSection">
-            <div class="input-group">
-                <label for="apiKey">Gemini API Key:</label>
+        <div class="setup-box">
+            <div class="api-key-group">
+                <div class="api-key-label">🔑 Gemini API Key:</div>
                 <input type="text" id="apiKey" placeholder="Enter your Gemini API key">
                 <div class="api-key-status" id="apiKeyStatus"></div>
-                <small style="color: #64748b;">Get your key from <a href="https://makersuite.google.com/app/apikey" target="_blank">Google AI Studio</a></small>
+                <small style="color: #7f8c8d;">Get your key from <a href="https://makersuite.google.com/app/apikey" target="_blank">Google AI Studio</a></small>
             </div>
 
-            <div class="input-group">
-                <label for="vocabularyInput">Paste your vocabulary here (any format):</label>
-                <textarea id="vocabularyInput" placeholder="Example:
-apple - quả táo
-banana : quả chuối
-orange, quả cam
-
-or
-
-dog
-/dɔːɡ/
-con chó
-
-or any other format..."></textarea>
-            </div>
-
-            <div class="button-group">
-                <button class="btn-primary" onclick="processVocabulary()">
-                    Process with Gemini
-                </button>
-            </div>
-        </div>
-
-        <!-- Preview Section -->
-        <div class="preview-section" id="previewSection">
-            <div class="preview-header">
-                <div class="preview-title">📝 Gemini Processed Result</div>
-                <div class="word-count" id="wordCount">0 words</div>
-            </div>
+            <textarea id="textInput" placeholder="Paste your vocabulary here (any format)..."></textarea>
             
-            <div class="preview-container" id="previewContainer">
-                <!-- Processed vocabulary will appear here -->
-            </div>
-
-            <div class="button-group">
-                <button class="btn-secondary" onclick="goBackToSetup()">
-                    ← Back to Edit
-                </button>
-                <button class="btn-success" onclick="startQuiz(1)">
-                    Start Quiz: Meaning → Word
-                </button>
-                <button class="btn-warning" onclick="startQuiz(2)">
-                    Start Quiz: Word → Meaning
-                </button>
-                <button class="btn-primary" onclick="startQuiz(3)">
-                    Start Quiz: Mixed Mode
-                </button>
-            </div>
-        </div>
-
-        <!-- Quiz Section -->
-        <div class="quiz-section" id="quizSection">
-            <div class="quiz-progress" id="quizProgress">
-                Question 1 of 10
-            </div>
-            
-            <div class="quiz-card">
-                <div class="quiz-question" id="quizQuestion">
-                    <!-- Question will appear here -->
-                </div>
-                <div class="quiz-answer" id="quizAnswer">
-                    <!-- Answer will appear here -->
-                </div>
-            </div>
-
-            <div class="quiz-controls">
-                <button class="btn-secondary" onclick="previousCard()">
-                    ← Previous
-                </button>
-                <button class="btn-primary" onclick="toggleAnswer()">
-                    Show/Hide Answer (Space)
-                </button>
-                <button class="btn-secondary" onclick="nextCard()">
-                    Next →
-                </button>
-                <button class="btn-warning" onclick="exitQuiz()">
-                    Exit Quiz (Esc)
-                </button>
+            <div>
+                <button class="setup-btn btn-primary" onclick="processAndStart('type1')">📝 Meaning → Word</button>
+                <button class="setup-btn btn-secondary" onclick="processAndStart('type2')">🔤 Word → Meaning</button>
+                <button class="setup-btn btn-success" onclick="processAndStart('mixed')">🎲 Mixed Quiz</button>
             </div>
         </div>
     </div>
 
+    <!-- Processing Screen -->
+    <div id="processingScreen" class="processing-screen">
+        <div class="processing-box">
+            <div class="loading"></div>
+            <div class="processing-text">Processing with Gemini AI...</div>
+        </div>
+    </div>
+
+    <!-- Preview Screen -->
+    <div id="previewScreen" class="preview-screen">
+        <div class="preview-header">
+            <div class="preview-title">📝 Gemini Processed Vocabulary</div>
+            <div class="preview-controls">
+                <div class="word-count" id="wordCount">0 words</div>
+                <button class="header-btn" onclick="backToSetup()">← Back to Edit</button>
+            </div>
+        </div>
+
+        <div class="preview-content">
+            <div class="preview-grid" id="previewGrid">
+                <!-- Preview items will be generated here -->
+            </div>
+        </div>
+
+        <div class="preview-controls-bottom">
+            <button class="control-btn btn-primary" onclick="confirmAndStartQuiz('type1')">📝 Start: Meaning → Word</button>
+            <button class="control-btn btn-secondary" onclick="confirmAndStartQuiz('type2')">🔤 Start: Word → Meaning</button>
+            <button class="control-btn btn-success" onclick="confirmAndStartQuiz('mixed')">🎲 Start: Mixed Quiz</button>
+        </div>
+    </div>
+
+    <!-- Quiz Screen -->
+    <div id="quizScreen" class="quiz-screen">
+        <div class="header">
+            <div class="title" id="quizTitle">Vocabulary Quiz</div>
+            <div class="controls">
+                <div class="count-display"><span id="total">0</span> Cards</div>
+                <button class="header-btn" onclick="toggleFullscreen()">⛶ Fullscreen</button>
+                <button class="header-btn" onclick="backToPreview()">← Back</button>
+            </div>
+        </div>
+
+        <div class="content-area">
+            <div class="questions-grid" id="questionsGrid">
+                <!-- Questions will be generated here -->
+            </div>
+        </div>
+
+        <div class="bottom-controls">
+            <button class="control-btn reveal-btn" id="toggleBtn" onclick="toggleAnswers()">👁 Show Answers</button>
+            <button class="control-btn reset-btn" onclick="backToPreview()">🔄 New Quiz</button>
+        </div>
+
+        <div class="shortcuts">
+            <strong>Teacher Controls:</strong><br>
+            SPACEBAR: Toggle answers<br>
+            ESC: Back to preview<br>
+            F: Toggle fullscreen
+        </div>
+    </div>
+
     <script>
-        // Global variables
-        let vocabularyData = [];
-        let currentCardIndex = 0;
-        let quizMode = 1;
-        let processedText = '';
+        let vocabulary = [];
+        let currentQuestions = [];
+        let quizType = '';
+        let answersVisible = false;
+        let pendingQuizType = '';
 
         // Check for saved API key on load
         window.onload = function() {
@@ -492,10 +749,9 @@ or any other format..."></textarea>
             }
         });
 
-        // Process vocabulary with Gemini
-        async function processVocabulary() {
+        async function processAndStart(type) {
             const apiKey = document.getElementById('apiKey').value.trim();
-            const text = document.getElementById('vocabularyInput').value.trim();
+            const text = document.getElementById('textInput').value.trim();
 
             if (!apiKey) {
                 alert('Please enter your Gemini API key');
@@ -503,35 +759,35 @@ or any other format..."></textarea>
             }
 
             if (!text) {
-                alert('Please paste your vocabulary');
+                alert('Please paste your vocabulary!');
                 return;
             }
 
-            // Show loading state
-            const setupSection = document.getElementById('setupSection');
-            setupSection.innerHTML += '<div class="processing-message"><span class="loading"></span>Processing with Gemini AI...</div>';
+            pendingQuizType = type;
+            
+            // Show processing screen
+            document.getElementById('setupScreen').style.display = 'none';
+            document.getElementById('processingScreen').style.display = 'flex';
 
             try {
-                processedText = await processWithGemini(text, apiKey);
-                const parsed = parseGeminiOutput(processedText);
+                const processedText = await processWithGemini(text, apiKey);
+                vocabulary = parseGeminiOutput(processedText);
                 
-                if (parsed.length === 0) {
-                    throw new Error('Failed to parse Gemini output');
+                if (vocabulary.length === 0) {
+                    throw new Error('No vocabulary found in Gemini output');
                 }
 
-                vocabularyData = parsed;
                 showPreview();
             } catch (error) {
-                console.error('Gemini processing error:', error);
+                console.error('Processing error:', error);
                 alert('Error processing with Gemini: ' + error.message);
                 
-                // Remove loading message
-                const loadingMsg = setupSection.querySelector('.processing-message');
-                if (loadingMsg) loadingMsg.remove();
+                // Go back to setup
+                document.getElementById('processingScreen').style.display = 'none';
+                document.getElementById('setupScreen').style.display = 'flex';
             }
         }
 
-        // Process text with Gemini API
         async function processWithGemini(text, apiKey) {
             const prompt = `Convert the following vocabulary list into a standardized 3-line format. Each vocabulary entry should be formatted as:
 word/phrase
@@ -540,7 +796,7 @@ Vietnamese meaning
 
 Important rules:
 - Each entry must be exactly 3 lines
-- Line 1: The English word or phrase
+- Line 1: The English word or phrase (remove any part of speech like (n), (v), (adj))
 - Line 2: IPA pronunciation in forward slashes (if not provided, write //)
 - Line 3: Vietnamese meaning
 - Leave a blank line between entries
@@ -581,10 +837,9 @@ Output only the formatted vocabulary, nothing else:`;
             return processedText;
         }
 
-        // Parse Gemini output into vocabulary array
         function parseGeminiOutput(text) {
             const entries = text.trim().split(/\n\s*\n/);
-            const vocabulary = [];
+            const parsed = [];
 
             for (const entry of entries) {
                 const lines = entry.trim().split('\n').filter(line => line.trim());
@@ -595,193 +850,213 @@ Output only the formatted vocabulary, nothing else:`;
                     let meaning = '';
 
                     if (lines.length === 3) {
-                        // Standard 3-line format
                         ipa = lines[1].trim();
                         meaning = lines[2].trim();
                     } else if (lines.length === 2) {
-                        // 2-line format (no IPA)
                         meaning = lines[1].trim();
                     }
 
-                    // Clean up IPA formatting
-                    if (ipa && !ipa.startsWith('/')) {
-                        ipa = '/' + ipa;
-                    }
-                    if (ipa && !ipa.endsWith('/')) {
-                        ipa = ipa + '/';
+                    // Clean up IPA
+                    if (ipa && ipa !== '//') {
+                        if (!ipa.startsWith('/')) ipa = '/' + ipa;
+                        if (!ipa.endsWith('/')) ipa = ipa + '/';
+                    } else {
+                        ipa = '';
                     }
 
-                    vocabulary.push({ word, ipa, meaning });
+                    parsed.push({ word, ipa, meaning });
                 }
             }
 
-            console.log('Parsed vocabulary:', vocabulary);
-            return vocabulary;
+            return parsed;
         }
 
-        // Show preview of processed vocabulary
         function showPreview() {
-            // Update step indicator
-            document.getElementById('step1').classList.remove('active');
-            document.getElementById('step1').classList.add('completed');
-            document.getElementById('step2').classList.add('active');
+            document.getElementById('processingScreen').style.display = 'none';
+            document.getElementById('previewScreen').classList.add('active');
+            
+            document.getElementById('wordCount').textContent = `${vocabulary.length} words`;
+            
+            const grid = document.getElementById('previewGrid');
+            grid.innerHTML = vocabulary.map((item, index) => `
+                <div class="preview-item">
+                    <div class="preview-word">${index + 1}. ${item.word}</div>
+                    ${item.ipa ? `<div class="preview-ipa">${item.ipa}</div>` : ''}
+                    <div class="preview-meaning">${item.meaning}</div>
+                </div>
+            `).join('');
+        }
 
-            // Hide setup, show preview
-            document.getElementById('setupSection').style.display = 'none';
-            document.getElementById('previewSection').style.display = 'block';
+        function confirmAndStartQuiz(type) {
+            quizType = type;
+            generateQuiz();
+            showQuizScreen();
+        }
 
-            // Update word count
-            document.getElementById('wordCount').textContent = `${vocabularyData.length} words`;
-
-            // Display vocabulary items
-            const container = document.getElementById('previewContainer');
-            container.innerHTML = '';
-
-            vocabularyData.forEach((item, index) => {
-                const itemDiv = document.createElement('div');
-                itemDiv.className = 'vocabulary-item';
-                itemDiv.innerHTML = `
-                    <div class="vocabulary-word">${index + 1}. ${item.word}</div>
-                    ${item.ipa ? `<div class="vocabulary-ipa">${item.ipa}</div>` : ''}
-                    <div class="vocabulary-meaning">${item.meaning}</div>
-                `;
-                container.appendChild(itemDiv);
+        function generateQuiz() {
+            currentQuestions = [];
+            const shuffled = [...vocabulary].sort(() => Math.random() - 0.5);
+            
+            shuffled.forEach((item, index) => {
+                let questionType = quizType;
+                if (quizType === 'mixed') {
+                    questionType = Math.random() > 0.5 ? 'type1' : 'type2';
+                }
+                
+                currentQuestions.push({
+                    id: index,
+                    type: questionType,
+                    word: item.word,
+                    meaning: item.meaning,
+                    ipa: item.ipa || ''
+                });
             });
         }
 
-        // Go back to setup
-        function goBackToSetup() {
-            document.getElementById('step2').classList.remove('active');
-            document.getElementById('step1').classList.remove('completed');
-            document.getElementById('step1').classList.add('active');
-
-            document.getElementById('previewSection').style.display = 'none';
-            document.getElementById('setupSection').style.display = 'block';
-
-            // Remove any loading message
-            const loadingMsg = document.querySelector('.processing-message');
-            if (loadingMsg) loadingMsg.remove();
+        function showQuizScreen() {
+            document.getElementById('previewScreen').classList.remove('active');
+            document.getElementById('quizScreen').classList.add('active');
+            
+            const typeNames = {
+                'type1': '📝 Fill in the Word',
+                'type2': '🔤 Fill in the Meaning',
+                'mixed': '🎲 Mixed Quiz'
+            };
+            
+            document.getElementById('quizTitle').textContent = typeNames[quizType];
+            document.getElementById('total').textContent = currentQuestions.length;
+            
+            displayQuestions();
         }
 
-        // Start quiz with selected mode
-        function startQuiz(mode) {
-            if (vocabularyData.length === 0) {
-                alert('No vocabulary data available');
-                return;
-            }
-
-            quizMode = mode;
-            currentCardIndex = 0;
-
-            // Update step indicator
-            document.getElementById('step2').classList.remove('active');
-            document.getElementById('step2').classList.add('completed');
-            document.getElementById('step3').classList.add('active');
-
-            // Hide preview, show quiz
-            document.getElementById('previewSection').style.display = 'none';
-            document.getElementById('quizSection').style.display = 'block';
-
-            // Shuffle vocabulary for random order
-            vocabularyData = shuffleArray([...vocabularyData]);
-
-            // Show first card
-            showCard();
-        }
-
-        // Shuffle array
-        function shuffleArray(array) {
-            for (let i = array.length - 1; i > 0; i--) {
-                const j = Math.floor(Math.random() * (i + 1));
-                [array[i], array[j]] = [array[j], array[i]];
-            }
-            return array;
-        }
-
-        // Show current card
-        function showCard() {
-            const card = vocabularyData[currentCardIndex];
-            const progress = document.getElementById('quizProgress');
-            const question = document.getElementById('quizQuestion');
-            const answer = document.getElementById('quizAnswer');
-
-            progress.textContent = `Question ${currentCardIndex + 1} of ${vocabularyData.length}`;
-            answer.classList.remove('show');
-
-            let currentMode = quizMode;
-            if (quizMode === 3) {
-                // Mixed mode - randomly choose
-                currentMode = Math.random() < 0.5 ? 1 : 2;
-            }
-
-            if (currentMode === 1) {
-                // Meaning → Word
-                question.innerHTML = card.meaning;
-                answer.innerHTML = `${card.word}${card.ipa ? '<br>' + card.ipa : ''}`;
-            } else {
-                // Word → Meaning
-                question.innerHTML = `${card.word}${card.ipa ? '<br><span style="font-size: 0.8em; color: #5a67d8;">' + card.ipa + '</span>' : ''}`;
-                answer.innerHTML = card.meaning;
-            }
-        }
-
-        // Toggle answer visibility
-        function toggleAnswer() {
-            document.getElementById('quizAnswer').classList.toggle('show');
-        }
-
-        // Next card
-        function nextCard() {
-            if (currentCardIndex < vocabularyData.length - 1) {
-                currentCardIndex++;
-                showCard();
-            } else {
-                if (confirm('You\'ve completed all cards! Start over?')) {
-                    currentCardIndex = 0;
-                    vocabularyData = shuffleArray([...vocabularyData]);
-                    showCard();
+        function displayQuestions() {
+            const grid = document.getElementById('questionsGrid');
+            grid.innerHTML = currentQuestions.map(q => {
+                if (q.type === 'type1') {
+                    // Show meaning, hide word
+                    return `
+                        <div class="vocab-card">
+                            <div class="card-number">${q.id + 1}</div>
+                            <div class="vocab-content">
+                                <div class="vocab-row">
+                                    <span class="vocab-label">Word:</span>
+                                    <div class="blank-space" id="blank-${q.id}">
+                                        <span class="blank-placeholder">___________</span>
+                                        <div class="answer-text word-answer" id="answer-${q.id}">${q.word}</div>
+                                    </div>
+                                </div>
+                                <div class="vocab-row">
+                                    <span class="vocab-label">Meaning:</span>
+                                    <div class="vocab-value meaning-text">${q.meaning}</div>
+                                </div>
+                                ${q.ipa ? `
+                                <div class="ipa-row">
+                                    <span class="ipa-label">IPA:</span>
+                                    <div class="ipa-text">${q.ipa}</div>
+                                </div>
+                                ` : ''}
+                            </div>
+                        </div>
+                    `;
+                } else {
+                    // Show word, hide meaning
+                    return `
+                        <div class="vocab-card">
+                            <div class="card-number">${q.id + 1}</div>
+                            <div class="vocab-content">
+                                <div class="vocab-row">
+                                    <span class="vocab-label">Word:</span>
+                                    <div class="vocab-value word-text">${q.word}</div>
+                                </div>
+                                <div class="vocab-row">
+                                    <span class="vocab-label">Meaning:</span>
+                                    <div class="blank-space" id="blank-${q.id}">
+                                        <span class="blank-placeholder">___________</span>
+                                        <div class="answer-text meaning-answer" id="answer-${q.id}">${q.meaning}</div>
+                                    </div>
+                                </div>
+                                ${q.ipa ? `
+                                <div class="ipa-row">
+                                    <span class="ipa-label">IPA:</span>
+                                    <div class="ipa-text">${q.ipa}</div>
+                                </div>
+                                ` : ''}
+                            </div>
+                        </div>
+                    `;
                 }
+            }).join('');
+            
+            answersVisible = false;
+            updateToggleButton();
+        }
+
+        function toggleAnswers() {
+            answersVisible = !answersVisible;
+            
+            currentQuestions.forEach(q => {
+                const answerEl = document.getElementById(`answer-${q.id}`);
+                const blankEl = document.getElementById(`blank-${q.id}`);
+                const placeholderEl = blankEl.querySelector('.blank-placeholder');
+                
+                if (answersVisible) {
+                    answerEl.classList.add('show');
+                    blankEl.classList.add('revealed');
+                    placeholderEl.style.opacity = '0';
+                } else {
+                    answerEl.classList.remove('show');
+                    blankEl.classList.remove('revealed');
+                    placeholderEl.style.opacity = '1';
+                }
+            });
+            
+            updateToggleButton();
+        }
+
+        function updateToggleButton() {
+            const btn = document.getElementById('toggleBtn');
+            if (answersVisible) {
+                btn.textContent = '🙈 Hide Answers';
+                btn.className = 'control-btn hide-btn';
+            } else {
+                btn.textContent = '👁 Show Answers';
+                btn.className = 'control-btn reveal-btn';
             }
         }
 
-        // Previous card
-        function previousCard() {
-            if (currentCardIndex > 0) {
-                currentCardIndex--;
-                showCard();
-            }
+        function backToSetup() {
+            document.getElementById('previewScreen').classList.remove('active');
+            document.getElementById('setupScreen').style.display = 'flex';
         }
 
-        // Exit quiz
-        function exitQuiz() {
-            if (confirm('Exit quiz and return to preview?')) {
-                // Reset step indicator
-                document.getElementById('step3').classList.remove('active');
-                document.getElementById('step2').classList.remove('completed');
-                document.getElementById('step2').classList.add('active');
+        function backToPreview() {
+            document.getElementById('quizScreen').classList.remove('active');
+            document.getElementById('previewScreen').classList.add('active');
+            answersVisible = false;
+        }
 
-                // Show preview
-                document.getElementById('quizSection').style.display = 'none';
-                document.getElementById('previewSection').style.display = 'block';
+        function toggleFullscreen() {
+            if (!document.fullscreenElement) {
+                document.documentElement.requestFullscreen();
+            } else {
+                document.exitFullscreen();
             }
         }
 
         // Keyboard shortcuts
-        document.addEventListener('keydown', function(e) {
-            if (document.getElementById('quizSection').style.display === 'block') {
+        document.addEventListener('keydown', (e) => {
+            if (document.getElementById('quizScreen').classList.contains('active')) {
                 switch(e.key) {
                     case ' ':
                         e.preventDefault();
-                        toggleAnswer();
-                        break;
-                    case 'ArrowRight':
-                        nextCard();
-                        break;
-                    case 'ArrowLeft':
-                        previousCard();
+                        toggleAnswers();
                         break;
                     case 'Escape':
-                        exitQuiz();
+                        backToPreview();
+                        break;
+                    case 'f':
+                    case 'F':
+                        toggleFullscreen();
                         break;
                 }
             }
