@@ -22,7 +22,7 @@
         }
         .tools-grid {
             display: grid;
-            grid-template-columns: 1fr 1fr;
+            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
             gap: 20px;
         }
         .tool-card {
@@ -78,20 +78,33 @@
         
         <div class="tools-grid">
             <div class="tool-card">
+                <h2>Streamlined Tool <span class="badge">RECOMMENDED</span></h2>
+                <p>Clean format vocabulary processor with markdown preview. Saves both .md and .json files. Best for most use cases.</p>
+                <a href="/vocabulary-tool-streamlined">Open Streamlined Tool</a>
+            </div>
+            
+            <div class="tool-card">
                 <h2>Original Tool</h2>
                 <p>Simple vocabulary processor with Vietnamese meanings and IPA pronunciation. Keeps the existing clean format.</p>
                 <a href="/vocabulary-tool">Open Original Tool</a>
             </div>
             
             <div class="tool-card enhanced">
-                <h2>Enhanced Tool <span class="badge">NEW</span></h2>
+                <h2>Enhanced Tool</h2>
                 <p>Advanced processor with context support, unit titles, and optional example sentences. Perfect for comprehensive vocabulary lists.</p>
                 <a href="/vocabulary-tool-enhanced">Open Enhanced Tool</a>
+            </div>
+            
+            <div class="tool-card" style="border: 2px solid #e74c3c;">
+                <h2>Vocabulary Quiz <span class="badge" style="background: #e74c3c;">TV OPTIMIZED</span></h2>
+                <p>Interactive 2-card TV quiz tool for vocabulary practice. Supports multiple formats: multi-line, tab-separated, comma-separated, and more.</p>
+                <a href="/vocabulary-quiz" style="background: #e74c3c;">Open Quiz Tool</a>
             </div>
         </div>
         
         <div style="margin-top: 40px; text-align: center; color: #666;">
-            <p>Both tools automatically save to: <code>markdown-files/global-success-[grade]/vocabulary/</code></p>
+            <p>Processing tools save to: <code>markdown-files/global-success-[grade]/vocabulary/</code></p>
+            <p style="margin-top: 10px;">The Quiz tool is for display only and doesn't save files.</p>
         </div>
     </div>
 </body>

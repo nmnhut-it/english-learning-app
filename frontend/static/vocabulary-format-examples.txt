@@ -1,0 +1,48 @@
+# Vocabulary Format Examples
+
+## Multi-line Format
+```
+bustling (adj)
+/ˈbʌslɪŋ/
+hối hả, nhộn nhịp, náo nhiệt
+carry out
+/ˈkæri aʊt/
+tiến hành (nghiên cứu, nhiệm vụ)
+```
+
+## Tab-separated Format
+```
+bustling (adj)	hối hả, nhộn nhịp, náo nhiệt
+carry out	/ˈkæri aʊt/	tiến hành (nghiên cứu, nhiệm vụ)
+come down with	bị ốm (vì bệnh gì)
+```
+
+## Comma-separated Format
+```
+bustling (adj), hối hả, nhộn nhịp, náo nhiệt
+carry out, /ˈkæri aʊt/, tiến hành (nghiên cứu, nhiệm vụ)
+come down with, bị ốm (vì bệnh gì)
+```
+
+## Dash-separated Format
+```
+bustling (adj) - hối hả, nhộn nhịp, náo nhiệt
+carry out - tiến hành (nghiên cứu, nhiệm vụ)
+come down with - bị ốm (vì bệnh gì)
+```
+
+## Colon-separated Format
+```
+bustling (adj) : hối hả, nhộn nhịp, náo nhiệt
+carry out : tiến hành (nghiên cứu, nhiệm vụ)
+come down with : bị ốm (vì bệnh gì)
+```
+
+## Semicolon-separated Format
+```
+bustling (adj); hối hả, nhộn nhịp, náo nhiệt
+carry out; /ˈkæri aʊt/; tiến hành (nghiên cứu, nhiệm vụ)
+come down with; bị ốm (vì bệnh gì)
+```
+
+All these formats are automatically detected and parsed by the vocabulary quiz tool.
