@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TV Vocabulary Quiz - Gemini Enhanced</title>
+    <title>TV Vocabulary Quiz Hub - Gemini Enhanced</title>
     <style>
         * {
             margin: 0;
@@ -177,18 +177,18 @@
             color: #34495e;
         }
 
-        /* Preview Screen */
-        .preview-screen {
+        /* Hub Screen (formerly Preview) */
+        .hub-screen {
             display: none;
             flex-direction: column;
             height: 100vh;
             background: #f8fafe;
         }
 
-        .preview-screen.active { display: flex; }
+        .hub-screen.active { display: flex !important; }
 
-        /* Header for preview */
-        .preview-header {
+        /* Header for hub */
+        .hub-header {
             background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
             color: white;
             padding: 15px 30px;
@@ -198,13 +198,13 @@
             box-shadow: 0 4px 6px rgba(0,0,0,0.1);
         }
 
-        .preview-title {
+        .hub-title {
             font-size: 2rem;
             font-weight: 800;
             text-shadow: 1px 1px 2px rgba(0,0,0,0.2);
         }
 
-        .preview-controls {
+        .hub-controls {
             display: flex;
             gap: 15px;
         }
@@ -235,58 +235,327 @@
             font-size: 1.1rem;
         }
 
-        /* Preview content */
-        .preview-content {
+        /* Hub content */
+        .hub-content {
             flex: 1;
-            padding: 20px;
+            padding: 30px;
             overflow-y: auto;
             background: #f8fafe;
         }
 
-        .preview-grid {
+        .mode-grid {
             display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-            gap: 15px;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 20px;
             max-width: 1200px;
             margin: 0 auto;
         }
 
-        .preview-item {
+        .mode-card {
             background: white;
-            border-radius: 10px;
-            padding: 15px;
-            border-left: 4px solid #5a67d8;
-            box-shadow: 0 2px 5px rgba(0,0,0,0.08);
+            border-radius: 15px;
+            padding: 30px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.08);
+            transition: all 0.3s;
+            cursor: pointer;
+            border: 3px solid transparent;
+            text-align: center;
         }
 
-        .preview-word {
-            font-size: 1.2rem;
+        .mode-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 25px rgba(0,0,0,0.15);
+            border-color: #5a67d8;
+        }
+
+        .mode-icon {
+            font-size: 3rem;
+            margin-bottom: 15px;
+        }
+
+        .mode-title {
+            font-size: 1.5rem;
             font-weight: 700;
             color: #2c3e50;
-            margin-bottom: 5px;
+            margin-bottom: 10px;
         }
 
-        .preview-ipa {
-            font-size: 1rem;
+        .mode-description {
+            color: #7f8c8d;
+            line-height: 1.5;
+        }
+
+        /* Save status */
+        .save-status {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            background: #27ae60;
+            color: white;
+            padding: 15px 20px;
+            border-radius: 10px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+            display: none;
+            animation: slideUp 0.5s ease-out;
+        }
+
+        @keyframes slideUp {
+            from { transform: translateY(100px); opacity: 0; }
+            to { transform: translateY(0); opacity: 1; }
+        }
+
+        /* Vocabulary Table View */
+        .table-view {
+            display: none;
+            flex-direction: column;
+            height: 100vh;
+            background: #f8fafe;
+        }
+
+        .table-view.active { display: flex !important; }
+
+        .table-container {
+            flex: 1;
+            padding: 20px;
+            overflow-y: auto;
+        }
+
+        .vocab-table {
+            width: 100%;
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.08);
+        }
+
+        .vocab-table table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        .vocab-table th {
+            background: #5a67d8;
+            color: white;
+            padding: 15px;
+            text-align: left;
+            font-weight: 600;
+            font-size: 1.1rem;
+        }
+
+        .vocab-table td {
+            padding: 15px;
+            border-bottom: 1px solid #e2e8f0;
+            font-size: 1.05rem;
+        }
+
+        .vocab-table tr:hover {
+            background: #f7fafc;
+        }
+
+        .vocab-table .word-cell {
+            font-weight: 600;
+            color: #2c3e50;
+        }
+
+        .vocab-table .ipa-cell {
             color: #5a67d8;
+            font-family: 'Courier New', monospace;
             font-style: italic;
-            margin-bottom: 5px;
         }
 
-        .preview-meaning {
-            font-size: 1rem;
+        .vocab-table .meaning-cell {
             color: #27ae60;
         }
 
-        /* Preview bottom controls */
-        .preview-controls-bottom {
+        /* Flashcard View */
+        .flashcard-view {
+            display: none;
+            flex-direction: column;
+            height: 100vh;
+            background: #f8fafe;
+        }
+
+        .flashcard-view.active { display: flex !important; }
+
+        .flashcard-container {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+        }
+
+        .flashcard {
             background: white;
-            padding: 15px 30px;
+            width: 90%;
+            max-width: 600px;
+            height: 400px;
+            border-radius: 20px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.15);
+            cursor: pointer;
+            position: relative;
+            transform-style: preserve-3d;
+            transition: transform 0.6s;
+        }
+
+        .flashcard.flipped {
+            transform: rotateY(180deg);
+        }
+
+        .flashcard-face {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            backface-visibility: hidden;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            padding: 40px;
+            text-align: center;
+            border-radius: 20px;
+        }
+
+        .flashcard-front {
+            background: white;
+        }
+
+        .flashcard-back {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            transform: rotateY(180deg);
+        }
+
+        .flashcard-text {
+            font-size: 2.5rem;
+            font-weight: 700;
+            line-height: 1.3;
+        }
+
+        .flashcard-ipa {
+            font-size: 1.5rem;
+            color: #7f8c8d;
+            margin-top: 20px;
+            font-style: italic;
+        }
+
+        .flashcard-controls {
+            display: flex;
+            gap: 20px;
+            margin-top: 30px;
+        }
+
+        .flashcard-btn {
+            padding: 12px 30px;
+            border: none;
+            border-radius: 10px;
+            font-size: 1.1rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+
+        .flashcard-progress {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            background: rgba(0,0,0,0.1);
+            padding: 10px 20px;
+            border-radius: 20px;
+            font-weight: 600;
+        }
+
+        /* VocabHoot Game */
+        .hoot-view {
+            display: none;
+            flex-direction: column;
+            height: 100vh;
+            background: #f8fafe;
+        }
+
+        .hoot-view.active { display: flex !important; }
+
+        .hoot-container {
+            flex: 1;
             display: flex;
             justify-content: center;
-            gap: 20px;
-            border-top: 1px solid #e9ecef;
-            box-shadow: 0 -2px 4px rgba(0,0,0,0.05);
+            align-items: center;
+            padding: 20px;
+        }
+
+        .hoot-card {
+            background: white;
+            padding: 40px;
+            border-radius: 20px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.15);
+            text-align: center;
+            max-width: 800px;
+            width: 100%;
+        }
+
+        .hoot-question {
+            font-size: 2rem;
+            margin-bottom: 30px;
+            color: #2c3e50;
+        }
+
+        .hoot-options {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 15px;
+            margin-bottom: 30px;
+        }
+
+        .hoot-option {
+            padding: 20px;
+            border: 2px solid #e2e8f0;
+            border-radius: 10px;
+            cursor: pointer;
+            transition: all 0.3s;
+            font-size: 1.2rem;
+            font-weight: 600;
+        }
+
+        .hoot-option:hover {
+            background: #f0f4f8;
+            border-color: #5a67d8;
+            transform: scale(1.02);
+        }
+
+        .hoot-option.correct {
+            background: #27ae60;
+            color: white;
+            border-color: #27ae60;
+        }
+
+        .hoot-option.wrong {
+            background: #e74c3c;
+            color: white;
+            border-color: #e74c3c;
+        }
+
+        .hoot-timer {
+            width: 100%;
+            height: 10px;
+            background: #e2e8f0;
+            border-radius: 5px;
+            margin-bottom: 30px;
+            overflow: hidden;
+        }
+
+        .hoot-timer-bar {
+            height: 100%;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            transition: width 0.1s linear;
+        }
+
+        .hoot-score {
+            font-size: 1.3rem;
+            font-weight: 700;
+            color: #5a67d8;
         }
 
         /* Quiz Screen */
@@ -297,7 +566,7 @@
             background: #f8fafe;
         }
 
-        .quiz-screen.active { display: flex; }
+        .quiz-screen.active { display: flex !important; }
 
         /* Header */
         .header {
@@ -595,6 +864,10 @@
             .blank-space {
                 min-width: 100%;
             }
+
+            .mode-grid {
+                grid-template-columns: 1fr;
+            }
         }
 
         @media (min-width: 1400px) {
@@ -626,8 +899,8 @@
 <body>
     <!-- Setup Screen -->
     <div id="setupScreen" class="setup-screen">
-        <h1>📚 Vocabulary Cards</h1>
-        <p>Clean • Intuitive • TV Optimized • Gemini Enhanced</p>
+        <h1>📚 Vocabulary Quiz Hub</h1>
+        <p>Clean • Intuitive • TV Optimized • Multiple Modes</p>
         
         <div class="setup-box">
             <div class="api-key-group">
@@ -639,10 +912,14 @@
 
             <textarea id="textInput" placeholder="Paste your vocabulary here (any format)..."></textarea>
             
+            <div style="margin: 20px 0; text-align: center;">
+                <div style="color: #7f8c8d; margin-bottom: 10px;">— OR —</div>
+                <input type="file" id="fileInput" accept=".json" style="display: none;" onchange="loadVocabularyFile(event)">
+                <button class="setup-btn btn-secondary" onclick="document.getElementById('fileInput').click()">📁 Load Saved Vocabulary</button>
+            </div>
+            
             <div>
-                <button class="setup-btn btn-primary" onclick="processAndStart('type1')">📝 Meaning → Word</button>
-                <button class="setup-btn btn-secondary" onclick="processAndStart('type2')">🔤 Word → Meaning</button>
-                <button class="setup-btn btn-success" onclick="processAndStart('mixed')">🎲 Mixed Quiz</button>
+                <button class="setup-btn btn-primary" onclick="processVocabulary()">🚀 Process with Gemini</button>
             </div>
         </div>
     </div>
@@ -655,26 +932,134 @@
         </div>
     </div>
 
-    <!-- Preview Screen -->
-    <div id="previewScreen" class="preview-screen">
-        <div class="preview-header">
-            <div class="preview-title">📝 Gemini Processed Vocabulary</div>
-            <div class="preview-controls">
+    <!-- Hub Screen -->
+    <div id="hubScreen" class="hub-screen">
+        <div class="hub-header">
+            <div class="hub-title">📚 Vocabulary Hub</div>
+            <div class="hub-controls">
                 <div class="word-count" id="wordCount">0 words</div>
                 <button class="header-btn" onclick="backToSetup()">← Back to Edit</button>
             </div>
         </div>
 
-        <div class="preview-content">
-            <div class="preview-grid" id="previewGrid">
-                <!-- Preview items will be generated here -->
+        <div class="hub-content">
+            <div class="mode-grid">
+                <div class="mode-card" onclick="showTableView()">
+                    <div class="mode-icon">📊</div>
+                    <div class="mode-title">Table View</div>
+                    <div class="mode-description">View all vocabulary in a clean table format</div>
+                </div>
+                
+                <div class="mode-card" onclick="showFlashcards()">
+                    <div class="mode-icon">🎴</div>
+                    <div class="mode-title">Flashcards</div>
+                    <div class="mode-description">Study with interactive flashcards</div>
+                </div>
+                
+                <div class="mode-card" onclick="startVocabHoot()">
+                    <div class="mode-icon">🎮</div>
+                    <div class="mode-title">VocabHoot</div>
+                    <div class="mode-description">Fast-paced game with timer</div>
+                </div>
+                
+                <div class="mode-card" onclick="startQuiz('type1')">
+                    <div class="mode-icon">📝</div>
+                    <div class="mode-title">Quiz: Meaning → Word</div>
+                    <div class="mode-description">Test your vocabulary knowledge</div>
+                </div>
+                
+                <div class="mode-card" onclick="startQuiz('type2')">
+                    <div class="mode-icon">🔤</div>
+                    <div class="mode-title">Quiz: Word → Meaning</div>
+                    <div class="mode-description">Match words to their meanings</div>
+                </div>
+                
+                <div class="mode-card" onclick="startQuiz('mixed')">
+                    <div class="mode-icon">🎲</div>
+                    <div class="mode-title">Mixed Quiz</div>
+                    <div class="mode-description">Random mix of both quiz types</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Table View -->
+    <div id="tableView" class="table-view">
+        <div class="hub-header">
+            <div class="hub-title">📊 Vocabulary Table</div>
+            <div class="hub-controls">
+                <div class="word-count" id="tableWordCount">0 words</div>
+                <button class="header-btn" onclick="backToHub()">← Back to Hub</button>
             </div>
         </div>
 
-        <div class="preview-controls-bottom">
-            <button class="control-btn btn-primary" onclick="confirmAndStartQuiz('type1')">📝 Start: Meaning → Word</button>
-            <button class="control-btn btn-secondary" onclick="confirmAndStartQuiz('type2')">🔤 Start: Word → Meaning</button>
-            <button class="control-btn btn-success" onclick="confirmAndStartQuiz('mixed')">🎲 Start: Mixed Quiz</button>
+        <div class="table-container">
+            <div class="vocab-table">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>#</th>
+                            <th>Word</th>
+                            <th>IPA</th>
+                            <th>Meaning</th>
+                        </tr>
+                    </thead>
+                    <tbody id="vocabTableBody">
+                        <!-- Table rows will be generated here -->
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <!-- Flashcard View -->
+    <div id="flashcardView" class="flashcard-view">
+        <div class="hub-header">
+            <div class="hub-title">🎴 Flashcards</div>
+            <div class="hub-controls">
+                <div class="flashcard-progress" id="flashcardProgress">1 / 10</div>
+                <button class="header-btn" onclick="backToHub()">← Back to Hub</button>
+            </div>
+        </div>
+
+        <div class="flashcard-container">
+            <div class="flashcard" id="flashcard" onclick="flipCard()">
+                <div class="flashcard-face flashcard-front">
+                    <div class="flashcard-text" id="flashcardFront">Word</div>
+                    <div class="flashcard-ipa" id="flashcardIPA">/pronunciation/</div>
+                </div>
+                <div class="flashcard-face flashcard-back">
+                    <div class="flashcard-text" id="flashcardBack">Meaning</div>
+                </div>
+            </div>
+            
+            <div class="flashcard-controls">
+                <button class="flashcard-btn btn-secondary" onclick="previousCard()">← Previous</button>
+                <button class="flashcard-btn btn-primary" onclick="nextCard()">Next →</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- VocabHoot View -->
+    <div id="hootView" class="hoot-view">
+        <div class="hub-header">
+            <div class="hub-title">🎮 VocabHoot</div>
+            <div class="hub-controls">
+                <div class="hoot-score" id="hootScore">Score: 0</div>
+                <button class="header-btn" onclick="backToHub()">← Exit Game</button>
+            </div>
+        </div>
+
+        <div class="hoot-container">
+            <div class="hoot-card">
+                <div class="hoot-timer">
+                    <div class="hoot-timer-bar" id="hootTimerBar"></div>
+                </div>
+                <div class="hoot-question" id="hootQuestion">Get Ready!</div>
+                <div class="hoot-options" id="hootOptions">
+                    <!-- Options will be generated here -->
+                </div>
+            </div>
         </div>
     </div>
 
@@ -685,7 +1070,7 @@
             <div class="controls">
                 <div class="count-display"><span id="total">0</span> Cards</div>
                 <button class="header-btn" onclick="toggleFullscreen()">⛶ Fullscreen</button>
-                <button class="header-btn" onclick="backToPreview()">← Back</button>
+                <button class="header-btn" onclick="backToHub()">← Back</button>
             </div>
         </div>
 
@@ -697,23 +1082,33 @@
 
         <div class="bottom-controls">
             <button class="control-btn reveal-btn" id="toggleBtn" onclick="toggleAnswers()">👁 Show Answers</button>
-            <button class="control-btn reset-btn" onclick="backToPreview()">🔄 New Quiz</button>
+            <button class="control-btn reset-btn" onclick="backToHub()">🔄 New Quiz</button>
         </div>
 
         <div class="shortcuts">
             <strong>Teacher Controls:</strong><br>
             SPACEBAR: Toggle answers<br>
-            ESC: Back to preview<br>
+            ESC: Back to hub<br>
             F: Toggle fullscreen
         </div>
     </div>
 
+    <!-- Save Status -->
+    <div id="saveStatus" class="save-status">
+        ✅ Vocabulary saved successfully!
+    </div>
+
     <script>
+        // Global variables
         let vocabulary = [];
         let currentQuestions = [];
         let quizType = '';
         let answersVisible = false;
-        let pendingQuizType = '';
+        let flashcardIndex = 0;
+        let hootQuestionIndex = 0;
+        let hootScore = 0;
+        let hootTimer = null;
+        let hootTimeLeft = 7;
 
         // Check for saved API key on load
         window.onload = function() {
@@ -725,6 +1120,42 @@
                 updateApiKeyStatus(false);
             }
         };
+
+        // Load vocabulary from file
+        async function loadVocabularyFile(event) {
+            const file = event.target.files[0];
+            if (!file) return;
+
+            try {
+                const text = await file.text();
+                const data = JSON.parse(text);
+                
+                if (data.vocabulary && Array.isArray(data.vocabulary)) {
+                    vocabulary = data.vocabulary;
+                    console.log('Loaded vocabulary from file:', vocabulary.length, 'words');
+                    
+                    if (vocabulary.length === 0) {
+                        alert('The vocabulary file is empty');
+                        return;
+                    }
+                    
+                    // Skip processing and go directly to hub
+                    document.getElementById('setupScreen').style.display = 'none';
+                    showHub();
+                    
+                    // Show notification
+                    showSaveStatus('✅ Vocabulary loaded from file!');
+                } else {
+                    alert('Invalid vocabulary file format');
+                }
+            } catch (error) {
+                console.error('Error loading file:', error);
+                alert('Error loading vocabulary file: ' + error.message);
+            }
+            
+            // Reset file input
+            event.target.value = '';
+        }
 
         // Update API key status indicator
         function updateApiKeyStatus(saved) {
@@ -749,7 +1180,7 @@
             }
         });
 
-        async function processAndStart(type) {
+        async function processVocabulary() {
             const apiKey = document.getElementById('apiKey').value.trim();
             const text = document.getElementById('textInput').value.trim();
 
@@ -762,8 +1193,6 @@
                 alert('Please paste your vocabulary!');
                 return;
             }
-
-            pendingQuizType = type;
             
             // Show processing screen
             document.getElementById('setupScreen').style.display = 'none';
@@ -777,7 +1206,10 @@
                     throw new Error('No vocabulary found in Gemini output');
                 }
 
-                showPreview();
+                // Auto-save vocabulary
+                await saveVocabulary();
+                
+                showHub();
             } catch (error) {
                 console.error('Processing error:', error);
                 alert('Error processing with Gemini: ' + error.message);
@@ -871,23 +1303,282 @@ Output only the formatted vocabulary, nothing else:`;
             return parsed;
         }
 
-        function showPreview() {
+        async function saveVocabulary() {
+            try {
+                const response = await fetch('http://localhost:3001/api/vocabulary/save-quiz', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({
+                        vocabulary: vocabulary,
+                        source: 'Gemini Enhanced Quiz'
+                    })
+                });
+
+                if (!response.ok) {
+                    throw new Error('Failed to save vocabulary');
+                }
+
+                const result = await response.json();
+                console.log('Vocabulary saved:', result);
+                
+                // Show save status
+                showSaveStatus();
+            } catch (error) {
+                console.error('Error saving vocabulary:', error);
+                // Don't block the user from using the app even if save fails
+            }
+        }
+
+        function showSaveStatus(message) {
+            const status = document.getElementById('saveStatus');
+            if (message) {
+                status.textContent = message;
+            } else {
+                status.textContent = '✅ Vocabulary saved successfully!';
+            }
+            status.style.display = 'block';
+            
+            setTimeout(() => {
+                status.style.display = 'none';
+            }, 3000);
+        }
+
+        function showHub() {
             document.getElementById('processingScreen').style.display = 'none';
-            document.getElementById('previewScreen').classList.add('active');
+            hideAllViews();
+            const hubScreen = document.getElementById('hubScreen');
+            hubScreen.style.display = 'flex';
+            hubScreen.classList.add('active');
             
             document.getElementById('wordCount').textContent = `${vocabulary.length} words`;
+        }
+
+        function backToSetup() {
+            hideAllViews();
+            document.getElementById('setupScreen').style.display = 'flex';
+        }
+
+        function backToHub() {
+            hideAllViews();
+            const hubScreen = document.getElementById('hubScreen');
+            hubScreen.style.display = 'flex';
+            hubScreen.classList.add('active');
+        }
+
+        function hideAllViews() {
+            // Hide all view screens
+            const views = ['hubScreen', 'tableView', 'flashcardView', 'hootView', 'quizScreen'];
+            views.forEach(id => {
+                const element = document.getElementById(id);
+                if (element) {
+                    element.classList.remove('active');
+                    element.style.display = 'none';
+                }
+            });
+        }
+
+        // Table View
+        function showTableView() {
+            hideAllViews();
+            const tableView = document.getElementById('tableView');
+            tableView.style.display = 'flex';
+            tableView.classList.add('active');
+            document.getElementById('tableWordCount').textContent = `${vocabulary.length} words`;
             
-            const grid = document.getElementById('previewGrid');
-            grid.innerHTML = vocabulary.map((item, index) => `
-                <div class="preview-item">
-                    <div class="preview-word">${index + 1}. ${item.word}</div>
-                    ${item.ipa ? `<div class="preview-ipa">${item.ipa}</div>` : ''}
-                    <div class="preview-meaning">${item.meaning}</div>
-                </div>
+            const tbody = document.getElementById('vocabTableBody');
+            tbody.innerHTML = vocabulary.map((item, index) => `
+                <tr>
+                    <td>${index + 1}</td>
+                    <td class="word-cell">${item.word}</td>
+                    <td class="ipa-cell">${item.ipa || '-'}</td>
+                    <td class="meaning-cell">${item.meaning}</td>
+                </tr>
             `).join('');
         }
 
-        function confirmAndStartQuiz(type) {
+        // Flashcards
+        function showFlashcards() {
+            hideAllViews();
+            const flashcardView = document.getElementById('flashcardView');
+            flashcardView.style.display = 'flex';
+            flashcardView.classList.add('active');
+            flashcardIndex = 0;
+            showFlashcard();
+        }
+
+        function showFlashcard() {
+            if (!vocabulary || vocabulary.length === 0) return;
+            
+            const card = vocabulary[flashcardIndex];
+            document.getElementById('flashcardFront').textContent = card.word;
+            document.getElementById('flashcardIPA').textContent = card.ipa || '';
+            document.getElementById('flashcardBack').textContent = card.meaning;
+            document.getElementById('flashcardProgress').textContent = `${flashcardIndex + 1} / ${vocabulary.length}`;
+            
+            // Reset flip
+            document.getElementById('flashcard').classList.remove('flipped');
+        }
+
+        function flipCard() {
+            document.getElementById('flashcard').classList.toggle('flipped');
+        }
+
+        function nextCard() {
+            if (flashcardIndex < vocabulary.length - 1) {
+                flashcardIndex++;
+                showFlashcard();
+            } else {
+                flashcardIndex = 0;
+                showFlashcard();
+            }
+        }
+
+        function previousCard() {
+            if (flashcardIndex > 0) {
+                flashcardIndex--;
+                showFlashcard();
+            } else {
+                flashcardIndex = vocabulary.length - 1;
+                showFlashcard();
+            }
+        }
+
+        // VocabHoot Game
+        function startVocabHoot() {
+            hideAllViews();
+            const hootView = document.getElementById('hootView');
+            hootView.style.display = 'flex';
+            hootView.classList.add('active');
+            hootQuestionIndex = 0;
+            hootScore = 0;
+            document.getElementById('hootScore').textContent = 'Score: 0';
+            
+            // Start after a delay
+            document.getElementById('hootQuestion').textContent = 'Get Ready!';
+            document.getElementById('hootOptions').innerHTML = '';
+            
+            setTimeout(() => {
+                showHootQuestion();
+            }, 1500);
+        }
+
+        function showHootQuestion() {
+            if (!vocabulary || vocabulary.length === 0 || hootQuestionIndex >= Math.min(vocabulary.length * 2, 20)) {
+                endHootGame();
+                return;
+            }
+
+            const correctIndex = Math.floor(Math.random() * vocabulary.length);
+            const correct = vocabulary[correctIndex];
+            
+            // Random question type
+            const questionType = Math.random() < 0.5 ? 'word' : 'meaning';
+            
+            if (questionType === 'word') {
+                document.getElementById('hootQuestion').textContent = correct.word;
+            } else {
+                document.getElementById('hootQuestion').textContent = correct.meaning;
+            }
+
+            // Generate options
+            const options = [correct];
+            const usedIndices = [correctIndex];
+            
+            while (options.length < 4 && options.length < vocabulary.length) {
+                const randomIndex = Math.floor(Math.random() * vocabulary.length);
+                if (!usedIndices.includes(randomIndex)) {
+                    options.push(vocabulary[randomIndex]);
+                    usedIndices.push(randomIndex);
+                }
+            }
+
+            // Shuffle options
+            options.sort(() => Math.random() - 0.5);
+
+            // Display options
+            const optionsContainer = document.getElementById('hootOptions');
+            optionsContainer.innerHTML = '';
+            
+            options.forEach((option, index) => {
+                const text = questionType === 'word' ? option.meaning : option.word;
+                const optDiv = document.createElement('div');
+                optDiv.className = 'hoot-option';
+                optDiv.textContent = text;
+                optDiv.onclick = () => checkHootAnswer(option.word, correct.word);
+                optionsContainer.appendChild(optDiv);
+            });
+
+            // Start timer
+            hootTimeLeft = 7;
+            startHootTimer();
+        }
+
+        function startHootTimer() {
+            const timerBar = document.getElementById('hootTimerBar');
+            timerBar.style.width = '100%';
+            
+            if (hootTimer) clearInterval(hootTimer);
+            
+            hootTimer = setInterval(() => {
+                hootTimeLeft -= 0.1;
+                timerBar.style.width = `${(hootTimeLeft / 7) * 100}%`;
+                
+                if (hootTimeLeft <= 0) {
+                    clearInterval(hootTimer);
+                    timeOutHoot();
+                }
+            }, 100);
+        }
+
+        function checkHootAnswer(selected, correct) {
+            clearInterval(hootTimer);
+            
+            const options = document.querySelectorAll('.hoot-option');
+            const correctItem = vocabulary.find(v => v.word === correct);
+            const selectedItem = vocabulary.find(v => v.word === selected);
+            
+            options.forEach(option => {
+                option.onclick = null;
+                if (correctItem && (option.textContent === correctItem.meaning || option.textContent === correct)) {
+                    option.classList.add('correct');
+                } else if (selectedItem && selected !== correct && 
+                          (option.textContent === selectedItem.meaning || option.textContent === selected)) {
+                    option.classList.add('wrong');
+                }
+            });
+
+            if (selected === correct) {
+                hootScore += Math.round((hootTimeLeft / 7) * 100) + 100;
+                document.getElementById('hootScore').textContent = `Score: ${hootScore}`;
+            }
+
+            setTimeout(() => {
+                hootQuestionIndex++;
+                showHootQuestion();
+            }, 1500);
+        }
+
+        function timeOutHoot() {
+            const options = document.querySelectorAll('.hoot-option');
+            options.forEach(option => {
+                option.onclick = null;
+            });
+
+            setTimeout(() => {
+                hootQuestionIndex++;
+                showHootQuestion();
+            }, 1500);
+        }
+
+        function endHootGame() {
+            document.getElementById('hootQuestion').textContent = `Game Over! Final Score: ${hootScore}`;
+            document.getElementById('hootOptions').innerHTML = '<button class="control-btn btn-primary" onclick="startVocabHoot()">Play Again</button>';
+        }
+
+        // Quiz functions
+        function startQuiz(type) {
             quizType = type;
             generateQuiz();
             showQuizScreen();
@@ -914,8 +1605,10 @@ Output only the formatted vocabulary, nothing else:`;
         }
 
         function showQuizScreen() {
-            document.getElementById('previewScreen').classList.remove('active');
-            document.getElementById('quizScreen').classList.add('active');
+            hideAllViews();
+            const quizScreen = document.getElementById('quizScreen');
+            quizScreen.style.display = 'flex';
+            quizScreen.classList.add('active');
             
             const typeNames = {
                 'type1': '📝 Fill in the Word',
@@ -1024,17 +1717,6 @@ Output only the formatted vocabulary, nothing else:`;
             }
         }
 
-        function backToSetup() {
-            document.getElementById('previewScreen').classList.remove('active');
-            document.getElementById('setupScreen').style.display = 'flex';
-        }
-
-        function backToPreview() {
-            document.getElementById('quizScreen').classList.remove('active');
-            document.getElementById('previewScreen').classList.add('active');
-            answersVisible = false;
-        }
-
         function toggleFullscreen() {
             if (!document.fullscreenElement) {
                 document.documentElement.requestFullscreen();
@@ -1052,11 +1734,24 @@ Output only the formatted vocabulary, nothing else:`;
                         toggleAnswers();
                         break;
                     case 'Escape':
-                        backToPreview();
+                        backToHub();
                         break;
                     case 'f':
                     case 'F':
                         toggleFullscreen();
+                        break;
+                }
+            } else if (document.getElementById('flashcardView').classList.contains('active')) {
+                switch(e.key) {
+                    case ' ':
+                        e.preventDefault();
+                        flipCard();
+                        break;
+                    case 'ArrowRight':
+                        nextCard();
+                        break;
+                    case 'ArrowLeft':
+                        previousCard();
                         break;
                 }
             }

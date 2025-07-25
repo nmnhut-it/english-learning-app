@@ -185,4 +185,76 @@ Các từ/cụm từ cần xử lý:\n`;
     }
 });
 
+// Save quiz vocabulary
+router.post('/save-quiz', async (req, res) => {
+    try {
+        const { vocabulary, source } = req.body;
+
+        if (!vocabulary || !Array.isArray(vocabulary) || vocabulary.length === 0) {
+            return res.status(400).json({ 
+                error: 'Invalid vocabulary data' 
+            });
+        }
+
+        // Generate filename with date
+        const date = new Date();
+        const dateStr = date.toISOString().split('T')[0];
+        const timestamp = date.getTime();
+        const fileName = `quiz-vocab-${dateStr}-${timestamp}`;
+        
+        // Create folder path
+        const folderPath = path.join(__dirname, '../../../markdown-files/vocabquiz', dateStr);
+        
+        // Ensure directory exists
+        await fs.mkdir(folderPath, { recursive: true });
+        
+        // Create markdown content
+        let markdownContent = `# Vocabulary Quiz - ${dateStr}\n\n`;
+        markdownContent += `Source: ${source || 'Manual Input'}\n\n`;
+        markdownContent += `Total Words: ${vocabulary.length}\n\n`;
+        markdownContent += `---\n\n`;
+        
+        vocabulary.forEach((item, index) => {
+            markdownContent += `## ${index + 1}. ${item.word}\n\n`;
+            if (item.ipa) {
+                markdownContent += `**IPA**: ${item.ipa}\n\n`;
+            }
+            markdownContent += `**Meaning**: ${item.meaning}\n\n`;
+            markdownContent += `---\n\n`;
+        });
+        
+        // Save markdown file
+        const markdownPath = path.join(folderPath, `${fileName}.md`);
+        await fs.writeFile(markdownPath, markdownContent, 'utf8');
+        
+        // Create JSON file
+        const jsonData = {
+            metadata: {
+                date: dateStr,
+                timestamp: timestamp,
+                source: source || 'Manual Input',
+                totalWords: vocabulary.length,
+                createdAt: new Date().toISOString()
+            },
+            vocabulary: vocabulary
+        };
+        
+        const jsonPath = path.join(folderPath, `${fileName}.json`);
+        await fs.writeFile(jsonPath, JSON.stringify(jsonData, null, 2), 'utf8');
+        
+        res.json({
+            success: true,
+            markdownPath: path.relative(path.join(__dirname, '../../..'), markdownPath),
+            jsonPath: path.relative(path.join(__dirname, '../../..'), jsonPath),
+            message: `Vocabulary saved: ${vocabulary.length} words`
+        });
+        
+    } catch (error: any) {
+        console.error('Error saving quiz vocabulary:', error);
+        res.status(500).json({ 
+            error: error.message || 'Failed to save vocabulary' 
+        });
+    }
+});
+
 export default router;

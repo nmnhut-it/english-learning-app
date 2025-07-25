@@ -702,3 +702,222 @@ Mrs Lam is a housewife. Every day, she **(1) does** most of the house work. She 
 
 5. **housework** /ˈhaʊswɜːk/ (n): việc nhà
    - I have to employ someone twice a week to help me with the general housework.
+
+ 
+## I. Pronunciation - Phát âm
+
+### Consonant blends /br/, /kr/, and /tr/
+
+**Lý thuyết:**
+- **Consonant blends** (phụ âm kép) là sự kết hợp của hai hoặc nhiều phụ âm được phát âm liên tiếp nhưng vẫn giữ được âm riêng biệt của từng phụ âm.
+- Khi phát âm, cần phát âm rõ ràng cả hai phụ âm, không được bỏ qua phụ âm nào.
+
+**Cách phát âm:**
+- **/br/**: Môi mím lại phát âm /b/, sau đó nhanh chóng chuyển sang /r/
+- **/kr/**: Phát âm /k/ ở cổ họng, sau đó chuyển sang /r/
+- **/tr/**: Đặt lưỡi chạm răng trên phát âm /t/, sau đó chuyển sang /r/
+
+**Từ vựng mở rộng:**
+
+| /br/ | /kr/ | /tr/ |
+|------|------|------|
+| bride (cô dâu) | crown (vương miện) | trust (tin tưởng) |
+| bridge (cầu) | cross (băng qua) | truth (sự thật) |
+| brave (dũng cảm) | crispy (giòn) | travel (du lịch) |
+| branch (cành cây) | create (tạo ra) | treasure (kho báu) |
+| brilliant (xuất sắc) | critical (quan trọng) | tradition (truyền thống) |
+
+## II. Vocabulary - Từ vựng
+
+### A. Family members (Thành viên gia đình)
+
+1. **extended family** (n): gia đình đa thế hệ
+2. **nuclear family** (n): gia đình hạt nhân (bố mẹ và con cái)
+3. **single-parent family** (n): gia đình đơn thân
+4. **stepfamily** (n): gia đình có cha/mẹ kế
+5. **foster family** (n): gia đình nhận nuôi tạm thời
+6. **adoptive family** (n): gia đình nhận con nuôi
+
+### B. Family roles (Vai trò trong gia đình)
+
+1. **breadwinner** /ˈbredwɪnə(r)/ (n): trụ cột tài chính
+   - *The breadwinner is responsible for earning money.*
+
+2. **homemaker** /ˈhəʊmmeɪkə(r)/ (n): người nội trợ
+   - *A homemaker manages household affairs.*
+
+3. **caregiver** (n): người chăm sóc
+   - *Grandparents often become caregivers for grandchildren.*
+
+4. **provider** (n): người chu cấp
+   - *Parents are providers for their children.*
+
+### C. Household chores (Công việc nhà)
+
+**Daily chores (Việc nhà hàng ngày):**
+1. **do the dishes** = **wash up**: rửa bát đĩa
+2. **make the bed**: dọn giường
+3. **sweep the floor**: quét nhà
+4. **mop the floor**: lau nhà
+5. **dust the furniture**: phủi bụi đồ đạc
+6. **vacuum the carpet**: hút bụi thảm
+7. **take out the rubbish/garbage**: đổ rác
+8. **water the plants**: tưới cây
+
+**Weekly chores (Việc nhà hàng tuần):**
+1. **do the laundry**: giặt quần áo
+2. **iron clothes**: ủi quần áo
+3. **clean the bathroom**: dọn phòng tắm
+4. **change the bedsheets**: thay ga giường
+5. **do the grocery shopping**: đi chợ/mua sắm thực phẩm
+
+**Cooking-related (Liên quan đến nấu ăn):**
+1. **prepare meals**: chuẩn bị bữa ăn
+2. **cook dinner**: nấu bữa tối
+3. **set the table**: dọn bàn ăn
+4. **clear the table**: dọn dẹp bàn ăn sau khi ăn
+
+### D. Family activities (Hoạt động gia đình)
+
+1. **spend quality time together**: dành thời gian chất lượng bên nhau
+2. **have family meals**: ăn cơm gia đình
+3. **share household responsibilities**: chia sẻ trách nhiệm việc nhà
+4. **bond with family members**: gắn kết với thành viên gia đình
+5. **maintain family traditions**: duy trì truyền thống gia đình
+
+## III. Grammar - Ngữ pháp
+
+### Present Simple (Thì hiện tại đơn)
+
+**Công thức:**
+- Khẳng định: S + V(s/es) + O
+- Phủ định: S + do/does + not + V + O
+- Nghi vấn: Do/Does + S + V + O?
+
+**Cách dùng:**
+1. **Thói quen, hành động lặp đi lặp lại**
+   - *I always wake up at 6 AM.*
+   - *She does yoga every morning.*
+
+2. **Sự thật hiển nhiên, chân lý**
+   - *The sun rises in the east.*
+   - *Water boils at 100°C.*
+
+3. **Lịch trình, thời gian biểu**
+   - *The train leaves at 9 PM.*
+   - *School starts at 7:30 AM.*
+
+4. **Trạng thái, cảm xúc**
+   - *I love my family.*
+   - *She believes in hard work.*
+
+**Dấu hiệu nhận biết:**
+- always, usually, often, sometimes, rarely, never
+- every (day/week/month/year)
+- once/twice/three times a (day/week/month)
+- on Mondays, in the morning, at night
+
+### Present Continuous (Thì hiện tại tiếp diễn)
+
+**Công thức:**
+- Khẳng định: S + am/is/are + V-ing + O
+- Phủ định: S + am/is/are + not + V-ing + O
+- Nghi vấn: Am/Is/Are + S + V-ing + O?
+
+**Cách dùng:**
+1. **Hành động đang xảy ra tại thời điểm nói**
+   - *She is cooking dinner right now.*
+   - *They are watching TV at the moment.*
+
+2. **Hành động tạm thời**
+   - *I'm living with my parents this month.*
+   - *He's working from home this week.*
+
+3. **Kế hoạch, dự định trong tương lai gần**
+   - *We're having dinner with grandparents tonight.*
+   - *She's visiting her sister tomorrow.*
+
+4. **Xu hướng, sự thay đổi**
+   - *More fathers are becoming stay-at-home dads.*
+   - *Family structures are changing rapidly.*
+
+**Dấu hiệu nhận biết:**
+- now, right now, at the moment, at present
+- Look! Listen! Be quiet!
+- today, this week/month/year
+- currently, temporarily
+
+### So sánh Present Simple vs Present Continuous
+
+| Present Simple | Present Continuous |
+|----------------|-------------------|
+| Thói quen: *She cooks every day.* | Đang xảy ra: *She is cooking now.* |
+| Lịch trình: *The class starts at 8.* | Kế hoạch: *We're starting early tomorrow.* |
+| Tình trạng cố định: *He works as a doctor.* | Tình trạng tạm thời: *He's working overtime this week.* |
+
+### Động từ không dùng ở thì tiếp diễn (Stative verbs)
+
+**Nhóm 1: Cảm xúc**
+- love, like, hate, prefer, want, need, wish
+
+**Nhóm 2: Suy nghĩ**
+- know, understand, believe, think (= có ý kiến), remember, forget
+
+**Nhóm 3: Giác quan**
+- see, hear, smell, taste, feel (khi chỉ trạng thái)
+
+**Nhóm 4: Sở hữu**
+- have (= sở hữu), own, possess, belong
+
+**Nhóm 5: Khác**
+- be, exist, seem, appear, cost, weigh, measure
+
+**Ví dụ:**
+- ✓ *I love my family.* (KHÔNG: I am loving my family)
+- ✓ *This belongs to me.* (KHÔNG: This is belonging to me)
+
+## IV. Useful expressions (Cụm từ hữu ích)
+
+### Talking about family responsibilities
+
+1. **be responsible for + V-ing**: chịu trách nhiệm về việc gì
+   - *My father is responsible for paying the bills.*
+
+2. **take turns + V-ing**: thay phiên nhau làm gì
+   - *We take turns doing the dishes.*
+
+3. **share the housework**: chia sẻ việc nhà
+   - *Modern couples often share the housework equally.*
+
+4. **lend a hand**: giúp đỡ
+   - *Can you lend a hand with the cooking?*
+
+5. **pitch in**: chung tay, góp sức
+   - *Everyone should pitch in to keep the house clean.*
+
+### Expressing frequency
+
+1. **hardly ever**: hầu như không bao giờ
+2. **once in a while**: thỉnh thoảng
+3. **every other day**: cách ngày
+4. **on a daily/weekly basis**: hàng ngày/hàng tuần
+5. **from time to time**: đôi khi
+
+## V. Common collocations (Cụm từ thường gặp)
+
+1. **do** + the housework/dishes/laundry/shopping/cooking
+2. **make** + the bed/breakfast/lunch/dinner/a mess
+3. **take** + out the rubbish/care of/responsibility for
+4. **clean** + the house/room/windows/floor
+5. **household** + chores/duties/expenses/items/budget
+
+## VI. Phrasal verbs for household activities
+
+1. **clean up**: dọn dẹp
+2. **tidy up**: sắp xếp gọn gàng
+3. **put away**: cất đi
+4. **throw out/away**: vứt đi
+5. **pick up**: nhặt lên, dọn dẹp
+6. **wipe down**: lau chùi
+7. **hang out** (clothes): phơi quần áo
+8. **take in** (clothes): thu quần áo
