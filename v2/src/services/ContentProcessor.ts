@@ -1,12 +1,15 @@
 import { contentChecker } from './ContentChecker';
 import { aiVocabularyProcessor } from './AIVocabularyProcessor';
+import { aiService } from './AIService';
 import type { 
       Unit, 
   VocabularyItem, 
   ProcessingResult,
   ContentMetadata,
   BatchProcessingItem,
-  BatchProcessingResult 
+  BatchProcessingResult,
+  Lesson,
+  LessonType
 } from '@/types';
 
 /**
@@ -120,6 +123,263 @@ export class ContentProcessor {
     } finally {
           this.activeProcessing.delete(processKey);
     }
+  }
+
+  /**
+   * Process content for a specific lesson
+   */
+  public async processLessonContent(
+    content: string,
+    grade: number,
+    unit: number,
+    lessonType: LessonType,
+    unitTitle: string,
+    saveRaw: boolean = true
+  ): Promise<ProcessingResult> {
+    const processingKey = `${grade}-${unit}-${lessonType}`;
+    
+    // Check if already processing
+    if (this.activeProcessing.has(processingKey)) {
+      console.log(`Already processing ${processingKey}`);
+      return {
+        success: false,
+        fromCache: false,
+        message: 'Already processing this lesson'
+      };
+    }
+
+    try {
+      this.activeProcessing.add(processingKey);
+
+      // Save raw content first (for reprocessing later)
+      if (saveRaw) {
+        const rawKey = `raw_content_${grade}_${unit}_${lessonType}`;
+        localStorage.setItem(rawKey, JSON.stringify({
+          content,
+          timestamp: Date.now(),
+          grade,
+          unit,
+          lessonType,
+          unitTitle
+        }));
+      }
+
+      // Try to process with AI if configured
+      let processedData;
+      if (aiService.isConfigured()) {
+        try {
+          processedData = await aiService.processContent(content, grade, unit, lessonType);
+        } catch (error) {
+          console.warn('AI processing failed, using fallback:', error);
+          processedData = await this.fallbackProcessing(content, lessonType);
+        }
+      } else {
+        processedData = await this.fallbackProcessing(content, lessonType);
+      }
+
+      // Create lesson structure
+      const lesson: Lesson = {
+        id: lessonType,
+        type: lessonType,
+        title: this.getLessonTitle(lessonType),
+        order: this.getLessonOrder(lessonType),
+        duration: 45,
+        vocabulary_bank: processedData.vocabulary || [],
+        exercises: processedData.exercises || [],
+        metadata: {
+          estimated_duration: 45,
+          skills_focus: this.getSkillsFocus(lessonType),
+          grammar_points: processedData.grammar_points || [],
+          vocabulary_topics: processedData.vocabulary_topics || []
+        }
+      };
+
+      // Save processed lesson
+      const processedKey = `content/grade-${grade}/unit-${unit.toString().padStart(2, '0')}/${lessonType}`;
+      localStorage.setItem(processedKey, JSON.stringify(lesson));
+
+      return {
+        success: true,
+        fromCache: false,
+        processingTime: Date.now(),
+        data: lesson
+      };
+
+    } finally {
+      this.activeProcessing.delete(processingKey);
+    }
+  }
+
+  /**
+   * Fallback processing without AI
+   */
+  private async fallbackProcessing(content: string, lessonType: LessonType): Promise<any> {
+    // Simple extraction based on lesson type
+    const vocabulary = this.extractVocabularySimple(content);
+    const exercises = this.extractExercisesSimple(content);
+    
+    return {
+      vocabulary,
+      exercises,
+      grammar_points: [],
+      vocabulary_topics: []
+    };
+  }
+
+  /**
+   * Simple vocabulary extraction
+   */
+  private extractVocabularySimple(content: string): VocabularyItem[] {
+    const vocabulary: VocabularyItem[] = [];
+    
+    // Look for bold words as potential vocabulary
+    const boldPattern = /\*\*([\w\s]+)\*\*/g;
+    const matches = content.matchAll(boldPattern);
+    
+    for (const match of matches) {
+      vocabulary.push({
+        id: match[1].toLowerCase().replace(/\s+/g, '-'),
+        word: match[1],
+        pronunciation: {
+          ipa: '',
+          audio_files: []
+        },
+        definition: '',
+        translation: '',
+        examples: [],
+        collocations: [],
+        synonyms: [],
+        word_family: [],
+        usage_notes: [],
+        frequency: 'medium',
+        cefr: 'A2',
+        part_of_speech: 'noun'
+      });
+    }
+    
+    return vocabulary;
+  }
+
+  /**
+   * Simple exercise extraction
+   */
+  private extractExercisesSimple(content: string): any[] {
+    const exercises = [];
+    
+    // Look for numbered questions
+    const questionPattern = /(\d+)\.\s+([^\n]+)/g;
+    const matches = content.matchAll(questionPattern);
+    
+    let index = 0;
+    for (const match of matches) {
+      exercises.push({
+        id: `ex-${index++}`,
+        type: 'short_answer',
+        question: {
+          text: match[2],
+          translation: ''
+        },
+        difficulty: 2
+      });
+    }
+    
+    return exercises;
+  }
+
+  /**
+   * Get lesson title
+   */
+  private getLessonTitle(lessonType: string): string {
+    const titles: Record<string, string> = {
+      'getting_started': 'Getting Started',
+      'closer_look_1': 'A Closer Look 1',
+      'closer_look_2': 'A Closer Look 2',
+      'communication': 'Communication',
+      'skills_1': 'Skills 1',
+      'skills_2': 'Skills 2',
+      'looking_back': 'Looking Back',
+      'language': 'Language',
+      'reading': 'Reading',
+      'listening': 'Listening',
+      'speaking': 'Speaking',
+      'writing': 'Writing',
+      'communication_culture': 'Communication & Culture'
+    };
+    return titles[lessonType] || lessonType;
+  }
+
+  /**
+   * Get lesson order
+   */
+  private getLessonOrder(lessonType: string): number {
+    const order: Record<string, number> = {
+      'getting_started': 1,
+      'closer_look_1': 2,
+      'closer_look_2': 3,
+      'communication': 4,
+      'skills_1': 5,
+      'skills_2': 6,
+      'looking_back': 7,
+      'language': 2,
+      'reading': 3,
+      'listening': 4,
+      'speaking': 5,
+      'writing': 6,
+      'communication_culture': 7
+    };
+    return order[lessonType] || 999;
+  }
+
+  /**
+   * Get skills focus
+   */
+  private getSkillsFocus(lessonType: string): string[] {
+    const skillsMap: Record<string, string[]> = {
+      'getting_started': ['listening', 'speaking', 'vocabulary'],
+      'closer_look_1': ['vocabulary', 'pronunciation'],
+      'closer_look_2': ['grammar'],
+      'communication': ['speaking', 'listening'],
+      'skills_1': ['reading', 'speaking'],
+      'skills_2': ['listening', 'writing'],
+      'looking_back': ['review', 'consolidation'],
+      'language': ['grammar', 'vocabulary'],
+      'reading': ['reading'],
+      'listening': ['listening'],
+      'speaking': ['speaking'],
+      'writing': ['writing'],
+      'communication_culture': ['communication', 'culture']
+    };
+    return skillsMap[lessonType] || [];
+  }
+
+  /**
+   * Reprocess raw content
+   */
+  public async reprocessRawContent(
+    grade: number,
+    unit: number,
+    lessonType: string
+  ): Promise<ProcessingResult> {
+    const rawKey = `raw_content_${grade}_${unit}_${lessonType}`;
+    const rawData = localStorage.getItem(rawKey);
+    
+    if (!rawData) {
+      return {
+        success: false,
+        fromCache: false,
+        message: 'No raw content found for reprocessing'
+      };
+    }
+    
+    const { content, unitTitle } = JSON.parse(rawData);
+    return this.processLessonContent(
+      content,
+      grade,
+      unit,
+      lessonType as LessonType,
+      unitTitle,
+      false // Don't save raw again
+    );
   }
 
   /**

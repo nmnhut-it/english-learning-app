@@ -1,0 +1,449 @@
+/* ContentAdder Component Styles */
+
+.content-adder-modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: var(--z-modal);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  visibility: hidden;
+  transition: all 0.3s ease;
+}
+
+.content-adder-modal.open {
+  opacity: 1;
+  visibility: visible;
+}
+
+.content-adder-modal.closing {
+  opacity: 0;
+}
+
+.content-adder-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5);
+  backdrop-filter: blur(4px);
+}
+
+.content-adder {
+  position: relative;
+  background: var(--card-background);
+  border-radius: var(--border-radius-lg);
+  box-shadow: var(--shadow-2xl);
+  width: 90%;
+  max-width: 800px;
+  max-height: 90vh;
+  display: flex;
+  flex-direction: column;
+  transform: scale(0.95);
+  transition: transform 0.3s ease;
+}
+
+.content-adder-modal.open .content-adder {
+  transform: scale(1);
+}
+
+/* Header */
+.content-adder__header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1.5rem;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.content-adder__title {
+  font-size: 1.5rem;
+  font-weight: var(--font-weight-bold);
+  color: var(--text-primary);
+  margin: 0;
+}
+
+.content-adder__close {
+  width: 2rem;
+  height: 2rem;
+  border: none;
+  background: none;
+  font-size: 1.5rem;
+  color: var(--text-secondary);
+  cursor: pointer;
+  border-radius: var(--border-radius-sm);
+  transition: all 0.2s ease;
+}
+
+.content-adder__close:hover {
+  background: var(--hover-background);
+  color: var(--text-primary);
+}
+
+/* Body */
+.content-adder__body {
+  flex: 1;
+  padding: 1.5rem;
+  overflow-y: auto;
+  max-height: 60vh;
+}
+
+.form-section {
+  margin-bottom: 2rem;
+}
+
+.form-section__title {
+  font-size: 1.125rem;
+  font-weight: var(--font-weight-semibold);
+  color: var(--text-primary);
+  margin: 0 0 1rem 0;
+}
+
+/* Grade Selector */
+.grade-selector {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.grade-option {
+  position: relative;
+}
+
+.grade-option input[type="radio"] {
+  position: absolute;
+  opacity: 0;
+}
+
+.grade-label {
+  display: block;
+  padding: 0.5rem 1rem;
+  background: var(--gray-100);
+  border: 2px solid var(--border-color);
+  border-radius: var(--border-radius-sm);
+  cursor: pointer;
+  transition: all 0.2s ease;
+  font-weight: var(--font-weight-medium);
+}
+
+.grade-option input[type="radio"]:checked + .grade-label {
+  background: var(--primary-color);
+  color: white;
+  border-color: var(--primary-color);
+}
+
+.grade-option input[type="radio"]:hover + .grade-label {
+  border-color: var(--primary-color);
+  background: var(--primary-light);
+}
+
+/* Form Fields */
+.form-row {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: 1rem;
+}
+
+.form-field {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.form-field label {
+  font-weight: var(--font-weight-medium);
+  color: var(--text-primary);
+  font-size: 0.875rem;
+}
+
+.form-field input[type="number"],
+.form-field input[type="text"] {
+  padding: 0.5rem 0.75rem;
+  border: 1px solid var(--border-color);
+  border-radius: var(--border-radius-sm);
+  font-size: 1rem;
+  transition: all 0.2s ease;
+}
+
+.form-field input:focus {
+  outline: none;
+  border-color: var(--primary-color);
+  box-shadow: 0 0 0 2px var(--focus-ring);
+}
+
+/* Lesson Selector */
+.lesson-selector {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 0.75rem;
+}
+
+.lesson-option {
+  position: relative;
+  display: block;
+}
+
+.lesson-option input[type="radio"] {
+  position: absolute;
+  opacity: 0;
+}
+
+.lesson-option span {
+  display: block;
+  padding: 0.75rem 1rem;
+  background: var(--card-background);
+  border: 2px solid var(--border-color);
+  border-radius: var(--border-radius-sm);
+  cursor: pointer;
+  transition: all 0.2s ease;
+  font-size: 0.875rem;
+}
+
+.lesson-option input[type="radio"]:checked + span {
+  background: var(--success-light);
+  border-color: var(--success-color);
+  color: var(--success-dark);
+  font-weight: var(--font-weight-medium);
+}
+
+.lesson-option:hover span {
+  border-color: var(--success-color);
+}
+
+/* Source Selector */
+.source-selector {
+  display: flex;
+  gap: 1rem;
+}
+
+.source-option {
+  position: relative;
+  flex: 1;
+}
+
+.source-option input[type="radio"] {
+  position: absolute;
+  opacity: 0;
+}
+
+.source-option span {
+  display: block;
+  padding: 0.75rem;
+  text-align: center;
+  background: var(--card-background);
+  border: 2px solid var(--border-color);
+  border-radius: var(--border-radius-sm);
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.source-option input[type="radio"]:checked + span {
+  background: var(--info-light);
+  border-color: var(--info-color);
+  color: var(--info-dark);
+  font-weight: var(--font-weight-medium);
+}
+
+/* Content Textarea */
+.content-textarea {
+  width: 100%;
+  padding: 1rem;
+  border: 1px solid var(--border-color);
+  border-radius: var(--border-radius-sm);
+  font-family: var(--font-family-mono);
+  font-size: 0.875rem;
+  resize: vertical;
+  min-height: 200px;
+  transition: all 0.2s ease;
+}
+
+.content-textarea:focus {
+  outline: none;
+  border-color: var(--primary-color);
+  box-shadow: 0 0 0 2px var(--focus-ring);
+}
+
+/* Checkboxes */
+.checkbox-option {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 0.75rem;
+  cursor: pointer;
+}
+
+.checkbox-option input[type="checkbox"] {
+  width: 1.25rem;
+  height: 1.25rem;
+  cursor: pointer;
+}
+
+.checkbox-option span {
+  color: var(--text-primary);
+  font-size: 0.875rem;
+}
+
+/* Footer */
+.content-adder__footer {
+  display: flex;
+  justify-content: flex-end;
+  gap: 1rem;
+  padding: 1.5rem;
+  border-top: 1px solid var(--border-color);
+}
+
+/* Buttons */
+.btn {
+  padding: 0.75rem 1.5rem;
+  border: none;
+  border-radius: var(--border-radius-sm);
+  font-weight: var(--font-weight-medium);
+  font-size: 1rem;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.btn--secondary {
+  background: var(--gray-100);
+  color: var(--text-primary);
+}
+
+.btn--secondary:hover {
+  background: var(--gray-200);
+}
+
+.btn--primary {
+  background: var(--primary-color);
+  color: white;
+}
+
+.btn--primary:hover {
+  background: var(--primary-dark);
+  transform: translateY(-1px);
+}
+
+.btn--success {
+  background: var(--success-color);
+  color: white;
+  min-width: 150px;
+  justify-content: center;
+}
+
+.btn--success:hover {
+  background: var(--success-dark);
+  transform: translateY(-1px);
+}
+
+.btn.disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+  transform: none !important;
+}
+
+.processing-spinner {
+  animation: spin 1s linear infinite;
+}
+
+/* Notification */
+.notification {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  padding: 0.75rem 1rem;
+  border-radius: var(--border-radius-sm);
+  font-size: 0.875rem;
+  font-weight: var(--font-weight-medium);
+  animation: slideInRight 0.3s ease;
+  z-index: 100;
+}
+
+.notification--success {
+  background: var(--success-color);
+  color: white;
+}
+
+.notification--error {
+  background: var(--error-color);
+  color: white;
+}
+
+@keyframes slideInRight {
+  from {
+    transform: translateX(100%);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .content-adder {
+    width: 95%;
+    max-height: 95vh;
+  }
+  
+  .form-row {
+    grid-template-columns: 1fr;
+  }
+  
+  .lesson-selector {
+    grid-template-columns: 1fr;
+  }
+  
+  .source-selector {
+    flex-direction: column;
+  }
+  
+  .grade-selector {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+  }
+  
+  .content-adder__footer {
+    flex-direction: column-reverse;
+  }
+  
+  .btn {
+    width: 100%;
+    justify-content: center;
+  }
+}
+
+@media (max-width: 480px) {
+  .content-adder__body {
+    padding: 1rem;
+  }
+  
+  .grade-selector {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+/* Dark Mode Support */
+@media (prefers-color-scheme: dark) {
+  .content-textarea {
+    background: var(--gray-800);
+    color: var(--text-primary);
+  }
+  
+  .form-field input {
+    background: var(--gray-800);
+    color: var(--text-primary);
+  }
+}

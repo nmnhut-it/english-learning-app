@@ -6,6 +6,8 @@
 /* Import component styles */
 @import '../components/MarkdownViewer/MarkdownViewer.css';
 @import '../components/VocabularyCard/VocabularyCard.css';
+@import '../components/ContentAdder/ContentAdder.css';
+@import './dashboard.css';
 
 /* Global Reset and Base Styles */
 *,

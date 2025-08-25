@@ -49,6 +49,30 @@ export enum ExerciseType {
   WORD_SEARCH = 'word_search',
 }
 
+// Lesson types for different grade levels
+export enum LessonType {
+  // Grades 6-9
+  GETTING_STARTED = 'getting_started',
+  CLOSER_LOOK_1 = 'closer_look_1',
+  CLOSER_LOOK_2 = 'closer_look_2',
+  COMMUNICATION = 'communication',
+  SKILLS_1 = 'skills_1',
+  SKILLS_2 = 'skills_2',
+  LOOKING_BACK = 'looking_back',
+  
+  // Grades 10-12 additional
+  LANGUAGE = 'language',
+  READING = 'reading',
+  LISTENING = 'listening',
+  SPEAKING = 'speaking',
+  WRITING = 'writing',
+  COMMUNICATION_CULTURE = 'communication_culture',
+  
+  // Review lessons
+  LANGUAGE_REVIEW = 'language_review',
+  SKILLS_REVIEW = 'skills_review'
+}
+
 export enum DifficultyLevel {
   BEGINNER = 1,        // A1 level
   ELEMENTARY = 2,      // A2 level
@@ -98,8 +122,10 @@ export interface Unit {
   order: number;
   metadata: UnitMetadata;
   vocabulary_bank: VocabularyItem[];
-  sections: Section[];
+  lessons: Lesson[]; // New: structured lessons
+  sections?: Section[]; // Kept for backward compatibility
   assessments: Assessment[];
+  review?: ReviewUnit; // Review after every 3 units
 }
 
 export interface UnitMetadata {
@@ -166,7 +192,38 @@ export interface RelatedWord {
   cefr: CEFRLevel;
 }
 
-// Section and Content Structure
+// Lesson Structure (New)
+export interface Lesson {
+  id: string;
+  type: LessonType;
+  title: string;
+  order: number;
+  duration: number; // in minutes
+  vocabulary_bank: VocabularyItem[];
+  exercises: Exercise[];
+  metadata: LessonMetadata;
+  completed?: boolean;
+  progress?: number;
+}
+
+export interface LessonMetadata {
+  skills_focus?: string[];
+  grammar_points?: string[];
+  vocabulary_topics?: string[];
+  materials_needed?: string;
+  estimated_duration: number;
+}
+
+// Review unit structure
+export interface ReviewUnit {
+  id: string;
+  title: string;
+  appears_after_units: number[];
+  language_review: Lesson;
+  skills_review: Lesson;
+}
+
+// Section and Content Structure (Kept for backward compatibility)
 export interface Section {
   id: string;
   title: string;
@@ -516,6 +573,22 @@ export interface AudioPlayerProps extends ComponentProps {
 export interface RecentLessonsProps extends ComponentProps {
   recentLessons: RecentLesson[];
   onLessonSelect: (lesson: RecentLesson) => void;
+}
+
+// Content Adder Form Interface
+export interface ContentAdderForm {
+  grade: number; // 6-12
+  unit: number; // 1-12
+  unitTitle: string;
+  lesson: LessonType;
+  content: string;
+  source: 'loigiahay' | 'manual' | 'textbook';
+  autoProcess: boolean;
+}
+
+export interface ContentAdderProps extends ComponentProps {
+  onContentSave: (content: ContentAdderForm) => void;
+  onCancel: () => void;
 }
 
 export interface RecentLesson {

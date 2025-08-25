@@ -2,29 +2,32 @@ import { Component } from '@components/core/Component';
 import { MarkdownViewer } from '@components/MarkdownViewer/MarkdownViewer';
 import { VocabularyCard } from '@components/VocabularyCard/VocabularyCard';
 import { QuizGenerator } from '@components/QuizGenerator/QuizGenerator';
+import { ContentAdder } from '@components/ContentAdder/ContentAdder';
 import { contentService } from '@services/ContentService';
+import { contentProcessor } from '@services/ContentProcessor';
 import { audioService } from '@services/AudioService';
-import type { Unit, VocabularyItem, Exercise, ComponentProps } from '@/types';
+import { aiService } from '@services/AIService';
+import type { Unit, VocabularyItem, Exercise, ComponentProps, Lesson, LessonType } from '@/types';
 
 /**
- * Main Application Component
+ * Main Application Component - Teacher Dashboard
  * Framework-less vanilla TypeScript implementation
  */
 export class App extends Component<ComponentProps> {
-      private currentUnit: Unit | null = null;
+  private currentView: 'dashboard' | 'lesson' | 'quiz' | 'settings' = 'dashboard';
+  private currentLesson: Lesson | null = null;
   private selectedVocabulary: Set<VocabularyItem> = new Set();
-  private currentView: 'content' | 'vocabulary' | 'quiz' | 'recent' = 'content';
-  private markdownViewer: MarkdownViewer | null = null;
-  private vocabularyCards: VocabularyCard[] = [];
-  private quizGenerator: QuizGenerator | null = null;
+  private contentAdder: ContentAdder | null = null;
+  private recentActivity: any[] = [];
 
   constructor() {
-        super({});
-    this.loadDefaultContent();
+    super({});
+    this.loadRecentActivity();
+    this.loadContentIndex();
   }
 
   protected createElement(): HTMLElement {
-        const app = document.createElement('div');
+    const app = document.createElement('div');
     app.className = 'app';
     app.id = 'main-content';
     
@@ -33,644 +36,550 @@ export class App extends Component<ComponentProps> {
         <div class="app-header__content">
           <div class="app-logo">
             <span class="app-logo__icon">📚</span>
-            <h1 class="app-logo__text">English Learning V2</h1>
+            <h1 class="app-logo__text">English Learning Dashboard</h1>
           </div>
           
-          <nav class="app-nav">
-            <button class="nav-btn nav-btn--content active" data-view="content" type="button">
-              <span class="nav-btn__icon">📖</span>
-              <span class="nav-btn__text">Content</span>
-            </button>
-            <button class="nav-btn nav-btn--vocabulary" data-view="vocabulary" type="button">
-              <span class="nav-btn__icon">📝</span>
-              <span class="nav-btn__text">Vocabulary</span>
-              <span class="nav-btn__badge">${this.selectedVocabulary.size}</span>
-            </button>
-            <button class="nav-btn nav-btn--quiz" data-view="quiz" type="button">
-              <span class="nav-btn__icon">🎯</span>
-              <span class="nav-btn__text">Quiz</span>
-            </button>
-            <button class="nav-btn nav-btn--recent" data-view="recent" type="button">
-              <span class="nav-btn__icon">⏱️</span>
-              <span class="nav-btn__text">Recent</span>
-            </button>
-          </nav>
-          
           <div class="app-actions">
-            <button class="action-btn search-btn" type="button" aria-label="Search">
-              <span class="action-btn__icon">🔍</span>
+            <button class="action-btn add-content-btn" type="button" aria-label="Add Content">
+              <span>➕ Add Content</span>
+            </button>
+            <button class="action-btn create-quiz-btn" type="button" aria-label="Create Quiz">
+              <span>📝 Create Quiz</span>
             </button>
             <button class="action-btn settings-btn" type="button" aria-label="Settings">
-              <span class="action-btn__icon">⚙️</span>
+              <span>⚙️</span>
             </button>
           </div>
         </div>
       </header>
       
       <main class="app-main">
-        <div class="app-content">
-          <div class="content-view" data-view="content">
-            <div class="content-header">
-              <div class="unit-selector">
-                <select class="unit-select" aria-label="Select unit">
-                  <option value="">Select a unit...</option>
-                  <option value="7-unit-01">Grade 7 - Unit 1: Hobbies</option>
-                  <option value="7-unit-02">Grade 7 - Unit 2: Healthy Living</option>
-                  <option value="8-unit-01">Grade 8 - Unit 1: Leisure Activities</option>
-                </select>
-                <button class="load-btn" type="button">Load Unit</button>
-              </div>
-              
-              <div class="content-status">
-                <span class="status-text">Ready</span>
-                <div class="loading-indicator hidden">
-                  <span class="loading-spinner"></span>
-                  <span class="loading-text">Loading...</span>
-                </div>
-              </div>
+        <!-- Dashboard View -->
+        <div class="dashboard-view" data-view="dashboard">
+          <!-- Grades and Units Grid -->
+          <section class="grades-section">
+            <h2 class="section-title">📖 Grades & Units</h2>
+            <div class="grades-grid">
+              ${this.renderGradesGrid()}
             </div>
-            
-            <div class="markdown-container">
-              <!-- MarkdownViewer will be rendered here -->
-            </div>
-          </div>
+          </section>
           
-          <div class="vocabulary-view hidden" data-view="vocabulary">
-            <div class="vocabulary-header">
-              <h2 class="vocabulary-title">
-                Selected Vocabulary 
-                <span class="vocabulary-count">(${this.selectedVocabulary.size})</span>
-              </h2>
-              <div class="vocabulary-actions">
-                <button class="vocab-action-btn play-all-btn" type="button">
-                  <span class="btn-icon">🔊</span>
-                  Play All
-                </button>
-                <button class="vocab-action-btn clear-btn" type="button">
-                  <span class="btn-icon">🗑️</span>
-                  Clear All
-                </button>
-                <button class="vocab-action-btn export-btn" type="button">
-                  <span class="btn-icon">💾</span>
-                  Export
-                </button>
-              </div>
+          <!-- Active Quizzes -->
+          <section class="quizzes-section">
+            <h2 class="section-title">🎯 Active Quizzes (Trả Bài)</h2>
+            <div class="active-quizzes">
+              ${this.renderActiveQuizzes()}
             </div>
-            
-            <div class="vocabulary-grid">
-              <!-- VocabularyCards will be rendered here -->
-            </div>
-            
-            <div class="vocabulary-empty ${this.selectedVocabulary.size > 0 ? 'hidden' : ''}">
-              <div class="empty-state">
-                <span class="empty-icon">📝</span>
-                <h3 class="empty-title">No Vocabulary Selected</h3>
-                <p class="empty-text">Click on vocabulary words in the content to add them here.</p>
-              </div>
-            </div>
-          </div>
+          </section>
           
-          <div class="quiz-view hidden" data-view="quiz">
-            <div class="quiz-header">
-              <h2 class="quiz-title">Create Quiz</h2>
-              <div class="quiz-options">
-                <label class="quiz-option">
-                  <span class="option-label">Max Questions:</span>
-                  <input type="number" class="option-input max-questions" value="10" min="1" max="50">
+          <!-- Recent Vocabulary by Grade -->
+          <section class="vocabulary-section">
+            <h2 class="section-title">📝 Recent Vocabulary</h2>
+            <div class="recent-vocabulary">
+              ${this.renderRecentVocabulary()}
+            </div>
+          </section>
+          
+          <!-- Recent Activity -->
+          <section class="activity-section">
+            <h2 class="section-title">⏱️ Recent Activity</h2>
+            <div class="recent-activity">
+              ${this.renderRecentActivity()}
+            </div>
+          </section>
+        </div>
+        
+        <!-- Lesson View (hidden by default) -->
+        <div class="lesson-view hidden" data-view="lesson">
+          <div class="lesson-header">
+            <button class="back-btn" type="button">← Back to Dashboard</button>
+            <h2 class="lesson-title"></h2>
+          </div>
+          <div class="lesson-content"></div>
+        </div>
+        
+        <!-- Quiz View (hidden by default) -->
+        <div class="quiz-view hidden" data-view="quiz">
+          <div class="quiz-header">
+            <button class="back-btn" type="button">← Back to Dashboard</button>
+            <h2 class="quiz-title">Create Quiz</h2>
+          </div>
+          <div class="quiz-content"></div>
+        </div>
+        
+        <!-- Settings View (hidden by default) -->
+        <div class="settings-view hidden" data-view="settings">
+          <div class="settings-header">
+            <button class="back-btn" type="button">← Back to Dashboard</button>
+            <h2 class="settings-title">Settings</h2>
+          </div>
+          <div class="settings-content">
+            <div class="setting-group">
+              <h3>AI Configuration</h3>
+              <div class="ai-settings">
+                <label>
+                  <span>AI Provider:</span>
+                  <select class="ai-provider">
+                    <option value="none">None</option>
+                    <option value="claude">Claude (Anthropic)</option>
+                    <option value="gemini">Gemini (Google)</option>
+                  </select>
                 </label>
-                <label class="quiz-option">
-                  <span class="option-label">Time Limit (minutes):</span>
-                  <input type="number" class="option-input time-limit" value="15" min="5" max="120">
+                <label>
+                  <span>API Key:</span>
+                  <input type="password" class="ai-api-key" placeholder="Enter your API key">
                 </label>
-                <button class="quiz-start-btn" type="button">Start Quiz</button>
-              </div>
-            </div>
-            
-            <div class="quiz-container">
-              <!-- QuizGenerator will be rendered here -->
-            </div>
-            
-            <div class="quiz-empty ${this.currentUnit ? 'hidden' : ''}">
-              <div class="empty-state">
-                <span class="empty-icon">🎯</span>
-                <h3 class="empty-title">No Content Loaded</h3>
-                <p class="empty-text">Load a unit first to create quizzes.</p>
-              </div>
-            </div>
-          </div>
-          
-          <div class="recent-view hidden" data-view="recent">
-            <div class="recent-header">
-              <h2 class="recent-title">Recent Lessons</h2>
-              <button class="clear-history-btn" type="button">Clear History</button>
-            </div>
-            
-            <div class="recent-list">
-              <!-- Recent lessons will be rendered here -->
-            </div>
-            
-            <div class="recent-empty">
-              <div class="empty-state">
-                <span class="empty-icon">⏱️</span>
-                <h3 class="empty-title">No Recent Activity</h3>
-                <p class="empty-text">Your recently viewed lessons will appear here.</p>
+                <button class="save-ai-settings">Save AI Settings</button>
               </div>
             </div>
           </div>
         </div>
       </main>
-      
-      <footer class="app-footer">
-        <div class="app-footer__content">
-          <p class="footer-text">
-            English Learning App V2 - Framework-free vanilla TypeScript
-          </p>
-          <div class="footer-links">
-            <a href="#" class="footer-link">Help</a>
-            <a href="#" class="footer-link">About</a>
-          </div>
-        </div>
-      </footer>
     `;
 
     return app;
   }
 
   protected bindEvents(): void {
-        // Navigation
-    const navButtons = this.querySelectorAll('.nav-btn');
-    navButtons.forEach(btn => {
-          btn.addEventListener('click', () => {
-            const view = btn.getAttribute('data-view') as typeof this.currentView;
-        if (view) {
-              this.switchView(view);
-        }
-      });
+    // Add Content button
+    const addContentBtn = this.querySelector('.add-content-btn');
+    addContentBtn?.addEventListener('click', () => this.openContentAdder());
+
+    // Create Quiz button
+    const createQuizBtn = this.querySelector('.create-quiz-btn');
+    createQuizBtn?.addEventListener('click', () => this.openQuizCreator());
+
+    // Settings button
+    const settingsBtn = this.querySelector('.settings-btn');
+    settingsBtn?.addEventListener('click', () => this.openSettings());
+
+    // Back buttons
+    const backBtns = this.querySelectorAll('.back-btn');
+    backBtns.forEach(btn => {
+      btn.addEventListener('click', () => this.switchView('dashboard'));
     });
 
-    // Unit loading
-    const unitSelect = this.querySelector('.unit-select') as HTMLSelectElement;
-    const loadBtn = this.querySelector('.load-btn');
-    
-    loadBtn?.addEventListener('click', () => {
-          if (unitSelect.value) {
-            this.loadUnit(unitSelect.value);
-      }
-    });
+    // Bind grade/unit/lesson clicks
+    this.bindLessonClicks();
 
-    unitSelect?.addEventListener('change', () => {
-          if (unitSelect.value) {
-            this.loadUnit(unitSelect.value);
-      }
-    });
-
-    // Vocabulary actions
-    const playAllBtn = this.querySelector('.play-all-btn');
-    const clearBtn = this.querySelector('.clear-btn');
-    const exportBtn = this.querySelector('.export-btn');
-
-    playAllBtn?.addEventListener('click', () => this.playAllVocabulary());
-    clearBtn?.addEventListener('click', () => this.clearVocabulary());
-    exportBtn?.addEventListener('click', () => this.exportVocabulary());
-
-    // Quiz actions
-    const quizStartBtn = this.querySelector('.quiz-start-btn');
-    quizStartBtn?.addEventListener('click', () => this.startQuiz());
-
-    // Search functionality
-    const searchBtn = this.querySelector('.search-btn');
-    searchBtn?.addEventListener('click', () => this.openSearch());
-
-    // Global event listeners
-    this.eventBus.on('vocabulary-click', (vocab) => {
-          this.addVocabulary(vocab);
-    });
-
-    this.eventBus.on('quiz-complete', (results) => {
-          this.handleQuizComplete(results);
-    });
-
-    // Keyboard shortcuts
-    this.addEventListener('keydown', (e) => {
-          if (e.ctrlKey || e.metaKey) {
-            switch (e.key) {
-              case '1': this.switchView('content'); break;
-          case '2': this.switchView('vocabulary'); break;
-          case '3': this.switchView('quiz'); break;
-          case '4': this.switchView('recent'); break;
-        }
-      }
-    });
+    // AI Settings
+    const saveAIBtn = this.querySelector('.save-ai-settings');
+    saveAIBtn?.addEventListener('click', () => this.saveAISettings());
   }
 
   /**
-   * Switch between different views
+   * Render grades grid
+   */
+  private renderGradesGrid(): string {
+    const grades = [6, 7, 8, 9, 10, 11, 12];
+    const contentIndex = contentService.getContentIndex();
+    
+    return grades.map(grade => {
+      const units = contentIndex[grade] || {};
+      const unitCount = Object.keys(units).length;
+      
+      return `
+        <div class="grade-card" data-grade="${grade}">
+          <h3 class="grade-title">Grade ${grade}</h3>
+          <div class="units-list">
+            ${this.renderUnitsForGrade(grade, units)}
+          </div>
+          <div class="grade-stats">
+            <span>${unitCount} units</span>
+          </div>
+        </div>
+      `;
+    }).join('');
+  }
+
+  /**
+   * Render units for a specific grade
+   */
+  private renderUnitsForGrade(grade: number, units: any): string {
+    const maxUnits = 12;
+    const unitsList = [];
+    
+    for (let i = 1; i <= maxUnits; i++) {
+      const lessons = units[i] || [];
+      const lessonCount = lessons.length;
+      const isComplete = this.checkIfUnitComplete(grade, i);
+      
+      unitsList.push(`
+        <div class="unit-item ${lessonCount > 0 ? 'has-content' : ''} ${isComplete ? 'complete' : ''}" 
+             data-grade="${grade}" data-unit="${i}">
+          <div class="unit-header">
+            <span class="unit-name">Unit ${i}</span>
+            ${lessonCount > 0 ? `<span class="lesson-count">${lessonCount} lessons</span>` : ''}
+          </div>
+          ${lessonCount > 0 ? this.renderLessonsForUnit(grade, i, lessons) : '<div class="no-content">No content yet</div>'}
+        </div>
+      `);
+    }
+    
+    return unitsList.join('');
+  }
+
+  /**
+   * Render lessons for a unit
+   */
+  private renderLessonsForUnit(grade: number, unit: number, lessons: string[]): string {
+    const lessonTypes = grade >= 10 ? 
+      ['getting_started', 'language', 'reading', 'listening', 'speaking', 'writing', 'communication_culture', 'looking_back'] :
+      ['getting_started', 'closer_look_1', 'closer_look_2', 'communication', 'skills_1', 'skills_2', 'looking_back'];
+    
+    return `
+      <div class="lessons-grid">
+        ${lessonTypes.map(type => {
+          const hasContent = lessons.includes(type);
+          const title = this.getLessonTitle(type);
+          
+          return `
+            <div class="lesson-item ${hasContent ? 'has-content' : 'empty'}" 
+                 data-grade="${grade}" data-unit="${unit}" data-lesson="${type}">
+              <span class="lesson-icon">${hasContent ? '✓' : '○'}</span>
+              <span class="lesson-name">${title}</span>
+            </div>
+          `;
+        }).join('')}
+      </div>
+    `;
+  }
+
+  /**
+   * Get lesson title
+   */
+  private getLessonTitle(type: string): string {
+    const titles: Record<string, string> = {
+      'getting_started': 'Getting Started',
+      'closer_look_1': 'A Closer Look 1',
+      'closer_look_2': 'A Closer Look 2',
+      'communication': 'Communication',
+      'skills_1': 'Skills 1',
+      'skills_2': 'Skills 2',
+      'looking_back': 'Looking Back',
+      'language': 'Language',
+      'reading': 'Reading',
+      'listening': 'Listening',
+      'speaking': 'Speaking',
+      'writing': 'Writing',
+      'communication_culture': 'Comm & Culture'
+    };
+    return titles[type] || type;
+  }
+
+  /**
+   * Check if unit is complete
+   */
+  private checkIfUnitComplete(grade: number, unit: number): boolean {
+    const contentIndex = contentService.getContentIndex();
+    const lessons = contentIndex[grade]?.[unit] || [];
+    const requiredLessons = grade >= 10 ? 8 : 7;
+    return lessons.length >= requiredLessons;
+  }
+
+  /**
+   * Render active quizzes
+   */
+  private renderActiveQuizzes(): string {
+    const quizzes = this.getActiveQuizzes();
+    
+    if (quizzes.length === 0) {
+      return '<div class="empty-state">No active quizzes. Create one to start!</div>';
+    }
+    
+    return quizzes.map(quiz => `
+      <div class="quiz-card">
+        <h4>${quiz.title}</h4>
+        <div class="quiz-stats">
+          <span>${quiz.submitted}/${quiz.total} submitted</span>
+          <span>Due: ${quiz.dueDate}</span>
+        </div>
+        <div class="quiz-actions">
+          <button class="view-results-btn" data-quiz-id="${quiz.id}">View Results</button>
+          <button class="download-btn" data-quiz-id="${quiz.id}">Download</button>
+        </div>
+      </div>
+    `).join('');
+  }
+
+  /**
+   * Render recent vocabulary
+   */
+  private renderRecentVocabulary(): string {
+    const recentVocab = this.getRecentVocabulary();
+    
+    return `
+      <div class="vocab-by-grade">
+        ${recentVocab.map(gradeVocab => `
+          <div class="grade-vocab">
+            <h4>Grade ${gradeVocab.grade}</h4>
+            <div class="vocab-list">
+              ${gradeVocab.words.map(word => `
+                <span class="vocab-word" data-word="${word}">${word}</span>
+              `).join(', ')}
+            </div>
+            <button class="play-all-btn" data-grade="${gradeVocab.grade}">🔊 Play All</button>
+          </div>
+        `).join('')}
+      </div>
+    `;
+  }
+
+  /**
+   * Render recent activity
+   */
+  private renderRecentActivity(): string {
+    if (this.recentActivity.length === 0) {
+      return '<div class="empty-state">No recent activity</div>';
+    }
+    
+    return `
+      <div class="activity-list">
+        ${this.recentActivity.map(activity => `
+          <div class="activity-item">
+            <span class="activity-icon">${activity.icon}</span>
+            <span class="activity-text">${activity.text}</span>
+            <span class="activity-time">${activity.time}</span>
+          </div>
+        `).join('')}
+      </div>
+    `;
+  }
+
+  /**
+   * Open content adder modal
+   */
+  private openContentAdder(): void {
+    if (!this.contentAdder) {
+      this.contentAdder = new ContentAdder({
+        onContentSave: (content) => {
+          this.handleContentSave(content);
+        },
+        onCancel: () => {
+          this.contentAdder = null;
+        }
+      });
+    }
+    
+    document.body.appendChild(this.contentAdder.element);
+    this.contentAdder.open();
+  }
+
+  /**
+   * Handle content save
+   */
+  private handleContentSave(content: any): void {
+    // Refresh the dashboard
+    this.loadContentIndex();
+    this.refreshDashboard();
+    
+    // Add to recent activity
+    this.addActivity({
+      icon: '✅',
+      text: `Added content: Grade ${content.grade}, Unit ${content.unit}, ${content.lesson}`,
+      time: 'Just now'
+    });
+    
+    this.contentAdder = null;
+  }
+
+  /**
+   * Open quiz creator
+   */
+  private openQuizCreator(): void {
+    this.switchView('quiz');
+    // Initialize quiz creator
+  }
+
+  /**
+   * Open settings
+   */
+  private openSettings(): void {
+    this.switchView('settings');
+    this.loadAISettings();
+  }
+
+  /**
+   * Load AI settings
+   */
+  private loadAISettings(): void {
+    const config = JSON.parse(localStorage.getItem('ai_config') || '{"provider":"none"}');
+    const providerSelect = this.querySelector('.ai-provider') as HTMLSelectElement;
+    const apiKeyInput = this.querySelector('.ai-api-key') as HTMLInputElement;
+    
+    if (providerSelect) providerSelect.value = config.provider;
+    if (apiKeyInput) apiKeyInput.value = config.apiKey || '';
+  }
+
+  /**
+   * Save AI settings
+   */
+  private saveAISettings(): void {
+    const providerSelect = this.querySelector('.ai-provider') as HTMLSelectElement;
+    const apiKeyInput = this.querySelector('.ai-api-key') as HTMLInputElement;
+    
+    const config = {
+      provider: providerSelect.value as 'claude' | 'gemini' | 'none',
+      apiKey: apiKeyInput.value
+    };
+    
+    aiService.saveConfig(config);
+    alert('AI settings saved successfully!');
+  }
+
+  /**
+   * Switch between views
    */
   private switchView(view: typeof this.currentView): void {
-        this.currentView = view;
+    this.currentView = view;
     
-    // Update navigation
-    const navButtons = this.querySelectorAll('.nav-btn');
-    navButtons.forEach(btn => {
-          btn.classList.toggle('active', btn.getAttribute('data-view') === view);
-    });
-    
-    // Update content visibility
-    const viewElements = this.querySelectorAll('[data-view]');
-    viewElements.forEach(el => {
-          const element = el as HTMLElement;
+    const views = this.querySelectorAll('[data-view]');
+    views.forEach(el => {
+      const element = el as HTMLElement;
       element.classList.toggle('hidden', element.getAttribute('data-view') !== view);
     });
-    
-    // Update vocabulary badge
-    this.updateVocabularyBadge();
   }
 
   /**
-   * Load a unit by ID
+   * Bind lesson click events
    */
-  private async loadUnit(unitId: string): Promise<void> {
-        const [grade, unit] = unitId.split('-');
-    const loadingIndicator = this.querySelector('.loading-indicator');
-    const statusText = this.querySelector('.status-text');
-    
-    try {
-          // Show loading
-      loadingIndicator?.classList.remove('hidden');
-      if (statusText) statusText.textContent = 'Loading...';
-      
-      // Load unit data
-      const unitData = await contentService.loadUnit(parseInt(grade), unit);
-      this.currentUnit = unitData;
-      
-      // Create sample markdown content
-      const markdownContent = this.generateMarkdownFromUnit(unitData);
-      
-      // Initialize or update markdown viewer
-      if (this.markdownViewer) {
-            this.markdownViewer.updateProps({ 
-              content: markdownContent,
-          currentUnit: unitData 
-        });
-      } else {
-            this.createMarkdownViewer(markdownContent, unitData);
-      }
-      
-      // Update status
-      if (statusText) statusText.textContent = `Loaded: ${unitData.title}`;
-      
-      // Update quiz empty state
-      const quizEmpty = this.querySelector('.quiz-empty');
-      quizEmpty?.classList.add('hidden');
-      
-    } catch (error) {
-          console.error('Failed to load unit:', error);
-      if (statusText) statusText.textContent = 'Error loading unit';
-      
-      // Show error message
-      this.showErrorMessage('Failed to load unit. Please try again.');
-      
-    } finally {
-          loadingIndicator?.classList.add('hidden');
-    }
-  }
-
-  /**
-   * Create markdown viewer component
-   */
-  private createMarkdownViewer(content: string, unit: Unit): void {
-        const container = this.querySelector('.markdown-container');
-    if (!container) return;
-
-    this.markdownViewer = new MarkdownViewer({
-          content,
-      currentUnit: unit,
-      highlightVocabulary: true,
-      onVocabularyClick: (vocab) => {
-            this.addVocabulary(vocab);
-      }
-    });
-
-    container.innerHTML = '';
-    this.markdownViewer.render(container);
-  }
-
-  /**
-   * Add vocabulary to selection
-   */
-  private addVocabulary(vocab: VocabularyItem): void {
-        if (!this.selectedVocabulary.has(vocab)) {
-          this.selectedVocabulary.add(vocab);
-      this.updateVocabularyView();
-      this.updateVocabularyBadge();
-      
-      // Show notification
-      this.showNotification(`Added "${vocab.word}" to vocabulary list`);
-    }
-  }
-
-  /**
-   * Update vocabulary view
-   */
-  private updateVocabularyView(): void {
-        const vocabularyGrid = this.querySelector('.vocabulary-grid');
-    const vocabularyEmpty = this.querySelector('.vocabulary-empty');
-    const vocabularyCount = this.querySelector('.vocabulary-count');
-    
-    if (!vocabularyGrid) return;
-
-    // Clear existing cards
-    this.vocabularyCards.forEach(card => card.destroy());
-    this.vocabularyCards = [];
-    vocabularyGrid.innerHTML = '';
-
-    // Update count
-    if (vocabularyCount) {
-          vocabularyCount.textContent = `(${this.selectedVocabulary.size})`;
-    }
-
-    if (this.selectedVocabulary.size === 0) {
-          vocabularyEmpty?.classList.remove('hidden');
-      return;
-    }
-
-    vocabularyEmpty?.classList.add('hidden');
-
-    // Create cards for selected vocabulary
-    this.selectedVocabulary.forEach(vocab => {
-          const card = new VocabularyCard({
-            word: vocab,
-        showTranslation: true,
-        selected: true,
-        onPronounce: (audioUrl) => {
-              console.log('Playing pronunciation:', audioUrl);
-        },
-        onSelect: (word) => {
-              this.selectedVocabulary.delete(word);
-          this.updateVocabularyView();
-          this.updateVocabularyBadge();
-        }
-      });
-
-      card.render(vocabularyGrid);
-      this.vocabularyCards.push(card);
-    });
-  }
-
-  /**
-   * Update vocabulary badge count
-   */
-  private updateVocabularyBadge(): void {
-        const badge = this.querySelector('.nav-btn--vocabulary .nav-btn__badge');
-    if (badge) {
-          badge.textContent = this.selectedVocabulary.size.toString();
-      badge.classList.toggle('hidden', this.selectedVocabulary.size === 0);
-    }
-  }
-
-  /**
-   * Play all vocabulary pronunciations
-   */
-  private async playAllVocabulary(): Promise<void> {
-        const vocabularyArray = Array.from(this.selectedVocabulary);
-    
-    for (let i = 0; i < vocabularyArray.length; i++) {
-          const vocab = vocabularyArray[i];
-      try {
-            await audioService.playPronunciation(
-              vocab.word, 
-          vocab.pronunciation.audio_files,
-          true
-        );
+  private bindLessonClicks(): void {
+    const lessonItems = this.querySelectorAll('.lesson-item.has-content');
+    lessonItems.forEach(item => {
+      item.addEventListener('click', async (e) => {
+        const target = e.currentTarget as HTMLElement;
+        const grade = parseInt(target.dataset.grade!);
+        const unit = parseInt(target.dataset.unit!);
+        const lesson = target.dataset.lesson!;
         
-        // Pause between words
-        if (i < vocabularyArray.length - 1) {
-              await new Promise(resolve => setTimeout(resolve, 1000));
-        }
-      } catch (error) {
-            console.error('Failed to play pronunciation:', error);
-      }
-    }
-  }
-
-  /**
-   * Clear all vocabulary
-   */
-  private clearVocabulary(): void {
-        if (this.selectedVocabulary.size > 0) {
-          const confirmed = confirm(`Clear all ${this.selectedVocabulary.size} vocabulary words?`);
-      if (confirmed) {
-            this.selectedVocabulary.clear();
-        this.updateVocabularyView();
-        this.updateVocabularyBadge();
-        this.showNotification('Vocabulary list cleared');
-      }
-    }
-  }
-
-  /**
-   * Export vocabulary
-   */
-  private exportVocabulary(): void {
-        if (this.selectedVocabulary.size === 0) {
-          this.showNotification('No vocabulary to export');
-      return;
-    }
-
-    const vocabularyData = Array.from(this.selectedVocabulary).map(vocab => ({
-          word: vocab.word,
-      pronunciation: vocab.pronunciation.ipa,
-      definition: vocab.definition,
-      translation: vocab.translation,
-      examples: vocab.examples.map(ex => ({
-            text: ex.text,
-        translation: ex.translation
-      }))
-    }));
-
-    const dataStr = JSON.stringify(vocabularyData, null, 2);
-    const blob = new Blob([dataStr], { type: 'application/json' });
-    const url = URL.createObjectURL(blob);
-    
-    const link = document.createElement('a');
-    link.href = url;
-    link.download = `vocabulary-${new Date().toISOString().split('T')[0]}.json`;
-    link.click();
-    
-    URL.revokeObjectURL(url);
-    this.showNotification('Vocabulary exported successfully');
-  }
-
-  /**
-   * Start quiz
-   */
-  private startQuiz(): void {
-        if (!this.currentUnit) {
-          this.showNotification('Please load a unit first');
-      return;
-    }
-
-    const maxQuestions = (this.querySelector('.max-questions') as HTMLInputElement)?.value;
-    const timeLimit = (this.querySelector('.time-limit') as HTMLInputElement)?.value;
-    
-    // Collect exercises from current unit
-    const exercises: Exercise[] = [];
-    this.currentUnit.sections.forEach(section => {
-          exercises.push(...section.exercises);
+        await this.loadLesson(grade, unit, lesson);
+      });
     });
-
-    if (exercises.length === 0) {
-          this.showNotification('No exercises available in this unit');
-      return;
-    }
-
-    // Create quiz
-    const quizContainer = this.querySelector('.quiz-container');
-    if (quizContainer) {
-          this.quizGenerator = new QuizGenerator({
-            exercises,
-        maxQuestions: parseInt(maxQuestions) || 10,
-        timeLimit: parseInt(timeLimit) || 15,
-        onQuizComplete: (results) => {
-              this.handleQuizComplete(results);
-        }
-      });
-
-      quizContainer.innerHTML = '';
-      this.quizGenerator.render(quizContainer);
-    }
   }
 
   /**
-   * Handle quiz completion
+   * Load a specific lesson
    */
-  private handleQuizComplete(results: any): void {
-        const message = `Quiz completed!\
-Score: ${results.score}/${results.maxScore} (${results.percentage}%)\
-Time: ${Math.round(results.timeSpent / 1000)}s`;
-    
-    alert(message);
-    
-    // Switch to results view or content view
-    this.switchView('content');
-  }
-
-  /**
-   * Open search functionality
-   */
-  private openSearch(): void {
-        // Implementation for search modal/dropdown
-    console.log('Search functionality not implemented yet');
-  }
-
-  /**
-   * Load default content on app start
-   */
-  private async loadDefaultContent(): Promise<void> {
-        // Load sample unit by default
-    setTimeout(() => {
-          const unitSelect = this.querySelector('.unit-select') as HTMLSelectElement;
-      if (unitSelect) {
-            unitSelect.value = '7-unit-01';
-        this.loadUnit('7-unit-01');
-      }
-    }, 1000);
-  }
-
-  /**
-   * Generate markdown content from unit data
-   */
-  private generateMarkdownFromUnit(unit: Unit): string {
-        let markdown = `# ${unit.title}\
-\
-`;
-    markdown += `${unit.metadata.description}\
-\
-`;
-    
-    // Add vocabulary section
-    if (unit.vocabulary_bank.length > 0) {
-          markdown += `## 📚 Vocabulary\
-\
-`;
-      unit.vocabulary_bank.forEach(vocab => {
-            markdown += `**${vocab.word}** /${vocab.pronunciation.ipa}/ - ${vocab.definition} (${vocab.translation})\
-\
-`;
-      });
-    }
-    
-    // Add sections
-    unit.sections.forEach(section => {
-          markdown += `## ${section.title}\
-\
-`;
-      markdown += `${section.metadata.estimated_duration} minutes\
-\
-`;
+  private async loadLesson(grade: number, unit: number, lessonType: string): Promise<void> {
+    try {
+      const lesson = await contentService.loadLesson(
+        grade,
+        `unit-${unit.toString().padStart(2, '0')}`,
+        lessonType
+      );
       
-      // Add exercises
-      if (section.exercises.length > 0) {
-            markdown += `### Exercises\
-\
-`;
-        section.exercises.forEach((exercise, index) => {
-              markdown += `${index + 1}. ${exercise.question.text}\
-`;
-          markdown += `   *${exercise.question.translation}*\
-\
-`;
-        });
+      this.currentLesson = lesson;
+      this.switchView('lesson');
+      
+      // Display lesson content
+      const lessonTitle = this.querySelector('.lesson-title');
+      const lessonContent = this.querySelector('.lesson-content');
+      
+      if (lessonTitle) {
+        lessonTitle.textContent = `Grade ${grade} - Unit ${unit} - ${lesson.title}`;
       }
-    });
+      
+      if (lessonContent) {
+        // Create markdown viewer for lesson
+        const viewer = new MarkdownViewer({
+          content: this.generateLessonMarkdown(lesson),
+          currentUnit: null,
+          highlightVocabulary: true,
+          onVocabularyClick: (vocab) => {
+            this.selectedVocabulary.add(vocab);
+          }
+        });
+        
+        lessonContent.innerHTML = '';
+        viewer.render(lessonContent);
+      }
+    } catch (error) {
+      console.error('Failed to load lesson:', error);
+      alert('Failed to load lesson content');
+    }
+  }
+
+  /**
+   * Generate markdown from lesson
+   */
+  private generateLessonMarkdown(lesson: Lesson): string {
+    let markdown = `# ${lesson.title}\n\n`;
+    
+    if (lesson.vocabulary_bank.length > 0) {
+      markdown += `## Vocabulary\n\n`;
+      lesson.vocabulary_bank.forEach(vocab => {
+        markdown += `**${vocab.word}** - ${vocab.definition}\n\n`;
+      });
+    }
+    
+    if (lesson.exercises.length > 0) {
+      markdown += `## Exercises\n\n`;
+      lesson.exercises.forEach((ex, i) => {
+        markdown += `${i + 1}. ${ex.question.text}\n\n`;
+      });
+    }
     
     return markdown;
   }
 
   /**
-   * Show notification message
+   * Load content index
    */
-  private showNotification(message: string): void {
-        // Simple notification implementation
-    const notification = document.createElement('div');
-    notification.className = 'notification';
-    notification.textContent = message;
-    notification.style.cssText = `
-      position: fixed;
-      top: 20px;
-      right: 20px;
-      background: #2563eb;
-      color: white;
-      padding: 12px 24px;
-      border-radius: 8px;
-      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
-      z-index: 1000;
-      animation: slideIn 0.3s ease;
-    `;
-    
-    document.body.appendChild(notification);
-    
-    setTimeout(() => {
-          notification.style.animation = 'slideOut 0.3s ease forwards';
-      setTimeout(() => notification.remove(), 300);
-    }, 3000);
+  private loadContentIndex(): void {
+    // Content index is loaded from localStorage via contentService
+    console.log('Content index loaded');
   }
 
   /**
-   * Show error message
+   * Load recent activity
    */
-  private showErrorMessage(message: string): void {
-        // Simple error message implementation
-    console.error(message);
-    alert(message); // In production, would use a proper modal
+  private loadRecentActivity(): void {
+    const saved = localStorage.getItem('recent_activity');
+    this.recentActivity = saved ? JSON.parse(saved) : [];
   }
 
   /**
-   * Cleanup on destroy
+   * Add activity
    */
-  protected onDestroy(): void {
-        this.markdownViewer?.destroy();
-    this.vocabularyCards.forEach(card => card.destroy());
-    this.quizGenerator?.destroy();
+  private addActivity(activity: any): void {
+    this.recentActivity.unshift(activity);
+    this.recentActivity = this.recentActivity.slice(0, 10); // Keep last 10
+    localStorage.setItem('recent_activity', JSON.stringify(this.recentActivity));
+    this.refreshDashboard();
+  }
+
+  /**
+   * Refresh dashboard
+   */
+  private refreshDashboard(): void {
+    const gradesSection = this.querySelector('.grades-grid');
+    const activitySection = this.querySelector('.recent-activity');
+    
+    if (gradesSection) {
+      gradesSection.innerHTML = this.renderGradesGrid();
+    }
+    
+    if (activitySection) {
+      activitySection.innerHTML = this.renderRecentActivity();
+    }
+    
+    this.bindLessonClicks();
+  }
+
+  /**
+   * Get active quizzes (mock data for now)
+   */
+  private getActiveQuizzes(): any[] {
+    return [];
+  }
+
+  /**
+   * Get recent vocabulary (mock data for now)
+   */
+  private getRecentVocabulary(): any[] {
+    return [
+      { grade: 7, words: ['hobby', 'unusual', 'creativity', 'collection'] },
+      { grade: 8, words: ['leisure', 'activity', 'sport', 'entertainment'] }
+    ];
   }
 }

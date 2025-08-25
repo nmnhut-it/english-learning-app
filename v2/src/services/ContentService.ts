@@ -5,7 +5,10 @@ import type {
   VocabularyItem, 
   Exercise, 
   ContentLoadResponse,
-  APIResponse 
+  APIResponse,
+  Lesson,
+  LessonType,
+  ContentAdderForm
 } from '@/types';
 
 /**
@@ -88,6 +91,286 @@ export class ContentService {
       console.error(`Failed to load grade ${gradeLevel}:`, error);
       throw error;
     }
+  }
+
+  /**
+   * Load specific lesson data
+   */
+  public async loadLesson(
+    gradeLevel: number, 
+    unitId: string, 
+    lessonId: string
+  ): Promise<Lesson> {
+    const cacheKey = `lesson-${gradeLevel}-${unitId}-${lessonId}`;
+    const cached = this.getFromCache<Lesson>(cacheKey);
+    if (cached) return cached;
+
+    try {
+      // Try localStorage first
+      const localKey = `content/grade-${gradeLevel}/unit-${unitId}/${lessonId}`;
+      const localData = localStorage.getItem(localKey);
+      
+      if (localData) {
+        const lesson = JSON.parse(localData) as Lesson;
+        this.setCache(cacheKey, lesson);
+        return lesson;
+      }
+
+      // Fallback to fetching from server
+      const response = await fetch(
+        `${this.baseDataPath}/grade-${gradeLevel}/unit-${unitId}/${lessonId}.xml`
+      );
+      
+      if (!response.ok) {
+        throw new Error(`Failed to load lesson ${lessonId}: ${response.statusText}`);
+      }
+
+      const xmlText = await response.text();
+      const xmlDoc = this.parser.parseFromString(xmlText, 'text/xml');
+      
+      const lesson = this.parseLesson(xmlDoc);
+      this.setCache(cacheKey, lesson);
+      
+      return lesson;
+    } catch (error) {
+      console.error(`Failed to load lesson ${lessonId}:`, error);
+      throw error;
+    }
+  }
+
+  /**
+   * Load unit with all lessons
+   */
+  public async loadUnitWithLessons(
+    gradeLevel: number, 
+    unitId: string
+  ): Promise<Unit> {
+    const unit = await this.loadUnit(gradeLevel, unitId);
+    
+    // Load all lessons for this unit
+    const lessonTypes = this.getLessonTypesForGrade(gradeLevel);
+    const lessons: Lesson[] = [];
+    
+    for (const lessonType of lessonTypes) {
+      try {
+        const lesson = await this.loadLesson(gradeLevel, unitId, lessonType);
+        lessons.push(lesson);
+      } catch (error) {
+        console.warn(`Lesson ${lessonType} not found for unit ${unitId}`);
+      }
+    }
+    
+    return { ...unit, lessons };
+  }
+
+  /**
+   * Save processed content for a lesson
+   */
+  public async saveProcessedContent(
+    gradeLevel: number,
+    unitNumber: number,
+    lessonType: string,
+    content: any
+  ): Promise<void> {
+    const key = `content/grade-${gradeLevel}/unit-${unitNumber.toString().padStart(2, '0')}/${lessonType}`;
+    
+    // Save to localStorage
+    localStorage.setItem(key, JSON.stringify(content));
+    
+    // Update index
+    this.updateContentIndex(gradeLevel, unitNumber, lessonType);
+    
+    // Clear cache for this lesson
+    const cacheKey = `lesson-${gradeLevel}-unit-${unitNumber.toString().padStart(2, '0')}-${lessonType}`;
+    this.contentCache.delete(cacheKey);
+  }
+
+  /**
+   * Save raw content form data
+   */
+  public async saveRawContent(
+    gradeLevel: number,
+    unitNumber: number,
+    lessonType: string,
+    formData: ContentAdderForm
+  ): Promise<void> {
+    const lesson: Lesson = {
+      id: lessonType,
+      type: lessonType as LessonType,
+      title: this.getLessonTitle(lessonType),
+      order: this.getLessonOrder(lessonType),
+      duration: 45,
+      vocabulary_bank: [],
+      exercises: [],
+      metadata: {
+        estimated_duration: 45,
+        skills_focus: this.getSkillsFocus(lessonType),
+        grammar_points: [],
+        vocabulary_topics: []
+      },
+      completed: false,
+      progress: 0
+    };
+    
+    const key = `content/grade-${gradeLevel}/unit-${unitNumber.toString().padStart(2, '0')}/${lessonType}`;
+    localStorage.setItem(key, JSON.stringify(lesson));
+    
+    // Save raw content separately
+    const rawKey = `${key}_raw`;
+    localStorage.setItem(rawKey, formData.content);
+    
+    this.updateContentIndex(gradeLevel, unitNumber, lessonType);
+  }
+
+  /**
+   * Get all saved content index
+   */
+  public getContentIndex(): any {
+    const index = localStorage.getItem('content_index');
+    return index ? JSON.parse(index) : {};
+  }
+
+  /**
+   * Update content index
+   */
+  private updateContentIndex(
+    gradeLevel: number, 
+    unitNumber: number, 
+    lessonType: string
+  ): void {
+    const index = this.getContentIndex();
+    
+    if (!index[gradeLevel]) {
+      index[gradeLevel] = {};
+    }
+    
+    if (!index[gradeLevel][unitNumber]) {
+      index[gradeLevel][unitNumber] = [];
+    }
+    
+    if (!index[gradeLevel][unitNumber].includes(lessonType)) {
+      index[gradeLevel][unitNumber].push(lessonType);
+    }
+    
+    localStorage.setItem('content_index', JSON.stringify(index));
+  }
+
+  /**
+   * Get lesson types for a specific grade
+   */
+  private getLessonTypesForGrade(gradeLevel: number): string[] {
+    if (gradeLevel >= 10) {
+      return [
+        'getting_started',
+        'language',
+        'reading',
+        'listening',
+        'speaking',
+        'writing',
+        'communication_culture',
+        'looking_back'
+      ];
+    }
+    
+    return [
+      'getting_started',
+      'closer_look_1',
+      'closer_look_2',
+      'communication',
+      'skills_1',
+      'skills_2',
+      'looking_back'
+    ];
+  }
+
+  /**
+   * Get lesson title from type
+   */
+  private getLessonTitle(lessonType: string): string {
+    const titles: Record<string, string> = {
+      'getting_started': 'Getting Started',
+      'closer_look_1': 'A Closer Look 1',
+      'closer_look_2': 'A Closer Look 2',
+      'communication': 'Communication',
+      'skills_1': 'Skills 1',
+      'skills_2': 'Skills 2',
+      'looking_back': 'Looking Back',
+      'language': 'Language',
+      'reading': 'Reading',
+      'listening': 'Listening',
+      'speaking': 'Speaking',
+      'writing': 'Writing',
+      'communication_culture': 'Communication & Culture'
+    };
+    
+    return titles[lessonType] || lessonType;
+  }
+
+  /**
+   * Get lesson order
+   */
+  private getLessonOrder(lessonType: string): number {
+    const order: Record<string, number> = {
+      'getting_started': 1,
+      'closer_look_1': 2,
+      'closer_look_2': 3,
+      'communication': 4,
+      'skills_1': 5,
+      'skills_2': 6,
+      'looking_back': 7,
+      'language': 2,
+      'reading': 3,
+      'listening': 4,
+      'speaking': 5,
+      'writing': 6,
+      'communication_culture': 7
+    };
+    
+    return order[lessonType] || 999;
+  }
+
+  /**
+   * Get skills focus for lesson type
+   */
+  private getSkillsFocus(lessonType: string): string[] {
+    const skillsMap: Record<string, string[]> = {
+      'getting_started': ['listening', 'speaking', 'vocabulary'],
+      'closer_look_1': ['vocabulary', 'pronunciation'],
+      'closer_look_2': ['grammar'],
+      'communication': ['speaking', 'listening'],
+      'skills_1': ['reading', 'speaking'],
+      'skills_2': ['listening', 'writing'],
+      'looking_back': ['review', 'consolidation'],
+      'language': ['grammar', 'vocabulary'],
+      'reading': ['reading'],
+      'listening': ['listening'],
+      'speaking': ['speaking'],
+      'writing': ['writing'],
+      'communication_culture': ['communication', 'culture']
+    };
+    
+    return skillsMap[lessonType] || [];
+  }
+
+  /**
+   * Parse lesson from XML
+   */
+  private parseLesson(xmlDoc: Document): Lesson {
+    const root = xmlDoc.documentElement;
+    
+    return {
+      id: root.getAttribute('id') || '',
+      type: root.getAttribute('type') as LessonType,
+      title: root.getAttribute('title') || '',
+      order: parseInt(root.getAttribute('order') || '1'),
+      duration: parseInt(root.getAttribute('duration') || '45'),
+      vocabulary_bank: this.parseVocabularyBank(root),
+      exercises: this.parseExercises(root),
+      metadata: {
+        estimated_duration: parseInt(root.getAttribute('duration') || '45'),
+        skills_focus: this.getTextContent(root, 'metadata > skills_focus')?.split(',') || []
+      }
+    };
   }
 
   /**
