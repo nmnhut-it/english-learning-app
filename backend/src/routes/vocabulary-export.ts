@@ -31,14 +31,14 @@ router.get('/last-week', async (req: Request, res: Response) => {
     const allVocab: any[] = [];
     const lessonInfo: any[] = [];
     
-    vocabulary.forEach(export => {
-      allVocab.push(...export.vocabulary);
+    vocabulary.forEach(vocabExport => {
+      allVocab.push(...vocabExport.vocabulary);
       lessonInfo.push({
-        date: export.metadata.date,
-        grade: export.metadata.grade,
-        unit: export.metadata.unit,
-        lesson: export.metadata.lesson,
-        count: export.vocabulary.length
+        date: vocabExport.metadata.date,
+        grade: vocabExport.metadata.grade,
+        unit: vocabExport.metadata.unit,
+        lesson: vocabExport.metadata.lesson,
+        count: vocabExport.vocabulary.length
       });
     });
 
@@ -133,8 +133,8 @@ router.get('/date/:date/grade/:grade', async (req: Request, res: Response) => {
     
     // Combine all vocabulary items
     const allVocab: any[] = [];
-    vocabulary.forEach(export => {
-      allVocab.push(...export.vocabulary);
+    vocabulary.forEach(vocabExport => {
+      allVocab.push(...vocabExport.vocabulary);
     });
 
     res.json({
@@ -164,9 +164,9 @@ router.get('/this-week/grade/:grade', async (req: Request, res: Response) => {
     const allVocab: any[] = [];
     const lessons = new Set<string>();
     
-    vocabulary.forEach(export => {
-      allVocab.push(...export.vocabulary);
-      lessons.add(`Unit ${export.metadata.unit} - ${export.metadata.lesson}`);
+    vocabulary.forEach(vocabExport => {
+      allVocab.push(...vocabExport.vocabulary);
+      lessons.add(`Unit ${vocabExport.metadata.unit} - ${vocabExport.metadata.lesson}`);
     });
 
     res.json({
@@ -196,9 +196,9 @@ router.get('/this-month/grade/:grade', async (req: Request, res: Response) => {
     const allVocab: any[] = [];
     const lessons = new Set<string>();
     
-    vocabulary.forEach(export => {
-      allVocab.push(...export.vocabulary);
-      lessons.add(`Unit ${export.metadata.unit} - ${export.metadata.lesson}`);
+    vocabulary.forEach(vocabExport => {
+      allVocab.push(...vocabExport.vocabulary);
+      lessons.add(`Unit ${vocabExport.metadata.unit} - ${vocabExport.metadata.lesson}`);
     });
 
     res.json({
@@ -238,8 +238,8 @@ router.post('/range', async (req: Request, res: Response) => {
     
     // Combine all vocabulary items
     const allVocab: any[] = [];
-    vocabulary.forEach(export => {
-      allVocab.push(...export.vocabulary);
+    vocabulary.forEach(vocabExport => {
+      allVocab.push(...vocabExport.vocabulary);
     });
 
     res.json({

@@ -5,9 +5,10 @@ import markdownRoutes from './routes/markdown';
 import vocabularyRoutes from './routes/vocabulary';
 import translationRoutes from './routes/translation';
 import vocabularyExportRoutes from './routes/vocabulary-export';
+import quizRoutes from './routes/quiz';
 
 const app = express();
-const PORT = process.env.PORT || 3001;
+const PORT = process.env.PORT || 10001;
 
 app.use(cors());
 app.use(express.json());
@@ -17,6 +18,7 @@ app.use('/api/markdown', markdownRoutes);
 app.use('/api/vocabulary', vocabularyRoutes);
 app.use('/api/translations', translationRoutes);
 app.use('/api/vocabulary-export', vocabularyExportRoutes);
+app.use('/api/quiz', quizRoutes);
 
 // Serve static files from the static directory
 app.use('/static', express.static(path.join(__dirname, '../../frontend/static')));
@@ -82,4 +84,5 @@ app.listen(PORT, () => {
   console.log(`Format Data: http://localhost:${PORT}/api/vocabulary/format-data`);
   console.log(`Translation API: http://localhost:${PORT}/api/translations/*`);
   console.log(`Vocabulary Export API: http://localhost:${PORT}/api/vocabulary-export/*`);
+  console.log(`Quiz API: http://localhost:${PORT}/api/quiz/*`);
 });

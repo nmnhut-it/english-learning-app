@@ -479,6 +479,55 @@
                     <button id="thisMonthGradeBtn" class="btn btn-secondary">📆 This Month (By Grade)</button>
                 </div>
 
+                <div class="section-title" style="margin-top: 30px;">🚀 Quick Quiz Launch</div>
+                <p style="font-size: 0.9em; color: #666; margin-bottom: 15px;">Create instant vocabulary quizzes</p>
+                
+                <!-- Quick Quiz Buttons -->
+                <div class="btn-group" style="flex-direction: column;">
+                    <button id="quizTodayBtn" class="btn btn-quiz" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white;">
+                        📝 Quiz: Today's Vocabulary
+                    </button>
+                    
+                    <!-- Grade-specific quick quiz buttons -->
+                    <div class="form-group" style="margin-top: 15px;">
+                        <label for="quickQuizGrade">Select Grade for Quiz</label>
+                        <select id="quickQuizGrade">
+                            <option value="6" selected>Grade 6</option>
+                            <option value="1">Grade 1</option>
+                            <option value="2">Grade 2</option>
+                            <option value="3">Grade 3</option>
+                            <option value="4">Grade 4</option>
+                            <option value="5">Grade 5</option>
+                            <option value="7">Grade 7</option>
+                            <option value="8">Grade 8</option>
+                            <option value="9">Grade 9</option>
+                            <option value="10">Grade 10</option>
+                            <option value="11">Grade 11</option>
+                            <option value="12">Grade 12</option>
+                        </select>
+                    </div>
+                    
+                    <button id="quizThisWeekBtn" class="btn btn-quiz" style="background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); color: white;">
+                        📚 Quiz: This Week
+                    </button>
+                    
+                    <button id="quizLastWeekBtn" class="btn btn-quiz" style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); color: white;">
+                        📖 Quiz: Last Week
+                    </button>
+                    
+                    <button id="quizThisMonthBtn" class="btn btn-quiz" style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); color: white;">
+                        📅 Quiz: This Month
+                    </button>
+                </div>
+                
+                <!-- Recent Quiz Sessions -->
+                <div style="margin-top: 20px;">
+                    <p style="font-size: 0.9em; color: #666; margin-bottom: 10px;">Recent Quiz Sessions</p>
+                    <div id="recentQuizSessions" style="max-height: 150px; overflow-y: auto;">
+                        <p style="font-size: 0.8em; color: #999;">Loading...</p>
+                    </div>
+                </div>
+
                 <div class="export-section">
                     <div class="section-title">📥 Export</div>
                     <button id="exportBtn" class="btn">Export All Data</button>
@@ -512,7 +561,7 @@
     </div>
 
     <script>
-        const BACKEND_URL = 'http://localhost:3001';
+        const BACKEND_URL = 'http://localhost:10001';
         let allTranslations = [];
         let currentFilter = {};
 
@@ -920,7 +969,7 @@
         }
 
         async function getThisMonthByGrade() {
-            const grade = document.getElementById('vocabGrade').value);
+            const grade = document.getElementById('vocabGrade').value;
             
             if (!grade) {
                 alert('Please select a grade first');
@@ -1017,8 +1066,138 @@
             }
         });
 
+        // Quiz Launch Functions
+        async function launchQuiz(period, grade, event) {
+            try {
+                const gradeValue = grade === 'selected' ? document.getElementById('quickQuizGrade').value : grade;
+                
+                // Show loading indicator
+                const btn = event ? event.target : this;
+                const originalText = btn.textContent;
+                btn.disabled = true;
+                btn.textContent = '⏳ Preparing quiz...';
+                
+                // Prepare quiz session
+                const response = await fetch(`${BACKEND_URL}/api/quiz/prepare`, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({
+                        grade: gradeValue ? parseInt(gradeValue) : undefined,
+                        period: period
+                    })
+                });
+                
+                const result = await response.json();
+                
+                if (result.success) {
+                    // Open quiz in new tab with session ID
+                    const quizUrl = `${BACKEND_URL}/vocabulary-quiz-enhanced?session=${result.sessionId}`;
+                    window.open(quizUrl, '_blank');
+                    
+                    // Update button
+                    btn.textContent = `✅ ${result.vocabCount} words ready!`;
+                    setTimeout(() => {
+                        btn.textContent = originalText;
+                        btn.disabled = false;
+                    }, 3000);
+                    
+                    // Refresh recent sessions
+                    loadRecentQuizSessions();
+                } else {
+                    throw new Error(result.error || 'Failed to prepare quiz');
+                }
+            } catch (error) {
+                console.error('Error launching quiz:', error);
+                alert('Failed to launch quiz: ' + error.message);
+                
+                // Reset button
+                const btn = event ? event.target : this;
+                if (btn) {
+                    btn.disabled = false;
+                    btn.textContent = btn.textContent.replace('⏳ Preparing quiz...', btn.textContent);
+                }
+            }
+        }
+        
+        // Load recent quiz sessions
+        async function loadRecentQuizSessions() {
+            try {
+                const response = await fetch(`${BACKEND_URL}/api/quiz/recent?limit=5`);
+                const result = await response.json();
+                
+                if (result.success) {
+                    const container = document.getElementById('recentQuizSessions');
+                    if (result.data.length === 0) {
+                        container.innerHTML = '<p style="font-size: 0.8em; color: #999;">No recent sessions</p>';
+                    } else {
+                        container.innerHTML = result.data.map(session => {
+                            const date = new Date(session.createdAt);
+                            const timeAgo = getTimeAgo(date);
+                            return `
+                                <div style="padding: 8px; border-bottom: 1px solid #eee; cursor: pointer;" 
+                                     onclick="window.open('${BACKEND_URL}/vocabulary-quiz-enhanced?session=${session.id}', '_blank')">
+                                    <div style="font-size: 0.85em; font-weight: 600; color: #333;">
+                                        ${session.source}
+                                    </div>
+                                    <div style="font-size: 0.75em; color: #666;">
+                                        ${session.vocabCount} words • ${timeAgo}
+                                        ${session.resultsCount > 0 ? ` • ${session.resultsCount} attempts` : ''}
+                                    </div>
+                                </div>
+                            `;
+                        }).join('');
+                    }
+                }
+            } catch (error) {
+                console.error('Error loading recent sessions:', error);
+                document.getElementById('recentQuizSessions').innerHTML = 
+                    '<p style="font-size: 0.8em; color: #999;">Failed to load sessions</p>';
+            }
+        }
+        
+        // Helper function to get time ago
+        function getTimeAgo(date) {
+            const seconds = Math.floor((new Date() - date) / 1000);
+            const intervals = {
+                year: 31536000,
+                month: 2592000,
+                week: 604800,
+                day: 86400,
+                hour: 3600,
+                minute: 60
+            };
+            
+            for (const [unit, secondsInUnit] of Object.entries(intervals)) {
+                const interval = Math.floor(seconds / secondsInUnit);
+                if (interval >= 1) {
+                    return interval === 1 ? `1 ${unit} ago` : `${interval} ${unit}s ago`;
+                }
+            }
+            return 'just now';
+        }
+        
+        // Quiz button event listeners
+        document.getElementById('quizTodayBtn').addEventListener('click', function(e) {
+            launchQuiz.call(this, 'today', null, e);
+        });
+        
+        document.getElementById('quizThisWeekBtn').addEventListener('click', function(e) {
+            launchQuiz.call(this, 'this-week', 'selected', e);
+        });
+        
+        document.getElementById('quizLastWeekBtn').addEventListener('click', function(e) {
+            launchQuiz.call(this, 'last-week', 'selected', e);
+        });
+        
+        document.getElementById('quizThisMonthBtn').addEventListener('click', function(e) {
+            launchQuiz.call(this, 'this-month', 'selected', e);
+        });
+
         // Initialize on load
         init();
+        loadRecentQuizSessions();
     </script>
 </body>
 </html>

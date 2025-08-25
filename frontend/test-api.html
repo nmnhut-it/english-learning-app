@@ -15,7 +15,7 @@
                 resultDiv.innerHTML = '<p>Testing API...</p>';
                 
                 // Test the files endpoint
-                const response = await fetch('http://localhost:3001/api/markdown/files');
+                const response = await fetch('http://localhost:10001/api/markdown/files');
                 const data = await response.json();
                 
                 resultDiv.innerHTML = `
@@ -26,7 +26,7 @@
             } catch (error) {
                 resultDiv.innerHTML = `
                     <h2>✗ API Error</h2>
-                    <p>Make sure the backend is running on port 3001</p>
+                    <p>Make sure the backend is running on port 10001</p>
                     <pre>${error.message}</pre>
                 `;
             }

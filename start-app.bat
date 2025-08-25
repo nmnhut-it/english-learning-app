@@ -47,12 +47,12 @@ if not exist "frontend" (
 
 :: Kill any existing processes on our ports
 echo Checking for existing processes on ports...
-for /f "tokens=5" %%a in ('netstat -aon ^| findstr :3001') do (
-    echo Killing existing process on port 3001...
+for /f "tokens=5" %%a in ('netstat -aon ^| findstr :10001') do (
+    echo Killing existing process on port 10001...
     taskkill /PID %%a /F 2>nul
 )
-for /f "tokens=5" %%a in ('netstat -aon ^| findstr :3000') do (
-    echo Killing existing process on port 3000...
+for /f "tokens=5" %%a in ('netstat -aon ^| findstr :10000') do (
+    echo Killing existing process on port 10000...
     taskkill /PID %%a /F 2>nul
 )
 
@@ -114,20 +114,20 @@ echo All services are running!
 echo ========================================
 echo.
 echo === Main Services ===
-echo Main Application: http://localhost:3000
-echo Backend API: http://localhost:3001/api
+echo Main Application: http://localhost:10000
+echo Backend API: http://localhost:10001/api
 echo.
 echo === Translation System (NEW) ===
-echo Translation Helper: http://localhost:3001/translation-helper
-echo Teacher Dashboard: http://localhost:3001/teacher-dashboard
+echo Translation Helper: http://localhost:10001/translation-helper
+echo Teacher Dashboard: http://localhost:10001/teacher-dashboard
 echo.
 echo === Vocabulary Tools ===
-echo Vocabulary Tool: http://localhost:3001/vocabulary
-echo Vocabulary Quiz: http://localhost:3001/vocabulary-quiz
-echo Vocabulary Quiz Enhanced: http://localhost:3001/vocabulary-quiz-enhanced
+echo Vocabulary Tool: http://localhost:10001/vocabulary
+echo Vocabulary Quiz: http://localhost:10001/vocabulary-quiz
+echo Vocabulary Quiz Enhanced: http://localhost:10001/vocabulary-quiz-enhanced
 echo.
 echo === Data Management ===
-echo Formatted Data Viewer: http://localhost:3001/formatted-data-viewer
+echo Formatted Data Viewer: http://localhost:10001/formatted-data-viewer
 echo.
 echo === File Storage ===
 echo Vocabulary files: markdown-files\global-success-[grade]\vocabulary\

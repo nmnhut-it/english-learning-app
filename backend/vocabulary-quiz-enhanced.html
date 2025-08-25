@@ -1117,16 +1117,80 @@
         let hootTimer = null;
         let hootTimeLeft = 7;
 
-        // Check for saved API key on load
-        window.onload = function() {
-            const savedKey = localStorage.getItem('gemini_api_key');
-            if (savedKey) {
-                document.getElementById('apiKey').value = savedKey;
-                updateApiKeyStatus(true);
+        // Check for saved API key and session parameter on load
+        window.onload = async function() {
+            // Check for session parameter in URL
+            const urlParams = new URLSearchParams(window.location.search);
+            const sessionId = urlParams.get('session');
+            
+            if (sessionId) {
+                // Load vocabulary from backend session
+                await loadVocabularyFromSession(sessionId);
             } else {
-                updateApiKeyStatus(false);
+                // Normal setup flow
+                const savedKey = localStorage.getItem('gemini_api_key');
+                if (savedKey) {
+                    document.getElementById('apiKey').value = savedKey;
+                    updateApiKeyStatus(true);
+                } else {
+                    updateApiKeyStatus(false);
+                }
             }
         };
+        
+        // Load vocabulary from backend session
+        async function loadVocabularyFromSession(sessionId) {
+            try {
+                // Show loading screen
+                document.getElementById('setupScreen').style.display = 'none';
+                document.getElementById('processingScreen').style.display = 'flex';
+                document.querySelector('#processingScreen h2').textContent = 'Loading Quiz Session';
+                document.querySelector('#processingScreen p').textContent = 'Fetching vocabulary from server...';
+                
+                // Fetch session data
+                const response = await fetch(`http://localhost:10001/api/quiz/session/${sessionId}`);
+                const result = await response.json();
+                
+                if (result.success && result.data) {
+                    vocabulary = result.data.vocabulary;
+                    
+                    if (vocabulary.length === 0) {
+                        throw new Error('No vocabulary found in session');
+                    }
+                    
+                    console.log(`Loaded ${vocabulary.length} words from session ${sessionId}`);
+                    
+                    // Update processing message
+                    document.querySelector('#processingScreen p').textContent = 
+                        `Loaded ${vocabulary.length} words from ${result.data.metadata.source}`;
+                    
+                    // Go to hub after short delay
+                    setTimeout(() => {
+                        document.getElementById('processingScreen').style.display = 'none';
+                        showHub();
+                        showSaveStatus(`✅ Quiz ready: ${result.data.metadata.source}`);
+                    }, 1000);
+                } else {
+                    throw new Error(result.error || 'Failed to load session');
+                }
+            } catch (error) {
+                console.error('Error loading session:', error);
+                alert('Failed to load quiz session: ' + error.message);
+                
+                // Go back to setup
+                document.getElementById('processingScreen').style.display = 'none';
+                document.getElementById('setupScreen').style.display = 'flex';
+                
+                // Still check for API key
+                const savedKey = localStorage.getItem('gemini_api_key');
+                if (savedKey) {
+                    document.getElementById('apiKey').value = savedKey;
+                    updateApiKeyStatus(true);
+                } else {
+                    updateApiKeyStatus(false);
+                }
+            }
+        }
 
         // Load vocabulary from file
         async function loadVocabularyFile(event) {
@@ -1350,7 +1414,7 @@ Output only the formatted vocabulary, nothing else:`;
 
         async function saveVocabulary(fileName) {
             try {
-                const response = await fetch('http://localhost:3001/api/vocabulary/save-quiz', {
+                const response = await fetch('http://localhost:10001/api/vocabulary/save-quiz', {
                     method: 'POST',
                     headers: {
                         'Content-Type': 'application/json',

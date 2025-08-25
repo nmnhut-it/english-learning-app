@@ -84,8 +84,7 @@ word; /IPA/; meaning
 ## Access
 
 The quiz tool is available at:
-- Port 3001: `http://localhost:3001/vocabulary-quiz`
-- Port 3002: `http://localhost:3002/vocabulary-quiz`
+- Backend Port: `http://localhost:10001/vocabulary-quiz`
 
 ## Usage
 

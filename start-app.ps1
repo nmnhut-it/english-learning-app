@@ -53,20 +53,20 @@ function Test-Port {
 Write-Host ""
 Write-Host "Checking ports..." -ForegroundColor Yellow
 
-if (Test-Port 3000) {
-    Write-Host "WARNING: Port 3000 is already in use!" -ForegroundColor Red
+if (Test-Port 10000) {
+    Write-Host "WARNING: Port 10000 is already in use!" -ForegroundColor Red
     $continue = Read-Host "Continue anyway? (Y/N)"
     if ($continue -ne "Y") { exit 0 }
 } else {
-    Write-Host "Port 3000 is available" -ForegroundColor Green
+    Write-Host "Port 10000 is available" -ForegroundColor Green
 }
 
-if (Test-Port 3001) {
-    Write-Host "WARNING: Port 3001 is already in use!" -ForegroundColor Red
+if (Test-Port 10001) {
+    Write-Host "WARNING: Port 10001 is already in use!" -ForegroundColor Red
     $continue = Read-Host "Continue anyway? (Y/N)"
     if ($continue -ne "Y") { exit 0 }
 } else {
-    Write-Host "Port 3001 is available" -ForegroundColor Green
+    Write-Host "Port 10001 is available" -ForegroundColor Green
 }
 
 # Install dependencies if needed
@@ -112,12 +112,12 @@ Write-Host "Both servers are starting up..." -ForegroundColor Green
 Write-Host "========================================" -ForegroundColor Green
 Write-Host ""
 Write-Host "Backend API: " -NoNewline
-Write-Host "http://localhost:3001/api" -ForegroundColor Cyan
+Write-Host "http://localhost:10001/api" -ForegroundColor Cyan
 Write-Host "Frontend App: " -NoNewline
-Write-Host "http://localhost:3000" -ForegroundColor Cyan
+Write-Host "http://localhost:10000" -ForegroundColor Cyan
 Write-Host ""
 Write-Host "The application should open automatically in your browser."
-Write-Host "If not, navigate to http://localhost:3000"
+Write-Host "If not, navigate to http://localhost:10000"
 Write-Host ""
 Write-Host "To stop the servers:" -ForegroundColor Yellow
 Write-Host "1. Close both PowerShell windows, OR"
@@ -132,7 +132,7 @@ Write-Host ""
 
 # Optionally open browser after a delay
 Start-Sleep -Seconds 5
-Start-Process "http://localhost:3000"
+Start-Process "http://localhost:10000"
 
 Write-Host "Press any key to close this window (servers will continue running)..."
 $null = $Host.UI.RawUI.ReadKey("NoEcho,IncludeKeyDown")

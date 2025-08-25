@@ -921,7 +921,7 @@ Output only the formatted vocabulary, nothing else:`;
 
         async function saveVocabulary(fileName) {
             try {
-                const response = await fetch('http://localhost:3001/api/vocabulary/save-quiz', {
+                const response = await fetch('http://localhost:10001/api/vocabulary/save-quiz', {
                     method: 'POST',
                     headers: {
                         'Content-Type': 'application/json',

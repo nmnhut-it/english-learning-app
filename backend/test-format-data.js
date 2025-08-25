@@ -23,7 +23,7 @@ Answer: B
 `;
 
     try {
-        const response = await axios.post('http://localhost:3001/api/vocabulary/format-data', {
+        const response = await axios.post('http://localhost:10001/api/vocabulary/format-data', {
             content: testContent,
             apiKey: process.argv[2], // Pass API key as command line argument
             source: 'Test',
