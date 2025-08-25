@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit xmlns="http://english-learning-app.com/schema/v2" 
+      id="unit-01" 
+      title="Hobbies" 
+      order="1">
+  
+  <metadata>
+    <description>Introduction to hobbies and leisure activities vocabulary and grammar</description>
+    <learning_objectives>
+      <objective id="obj1" type="vocabulary">Identify and describe personal hobbies</objective>
+      <objective id="obj2" type="grammar">Use present simple for habits and routines</objective>
+      <objective id="obj3" type="communication">Express preferences and opinions about activities</objective>
+    </learning_objectives>
+    <estimated_duration>450</estimated_duration>
+    <difficulty_progression>1-3</difficulty_progression>
+    <vocabulary_count>4</vocabulary_count>
+  </metadata>
+  
+  <vocabulary_bank>
+    <vocabulary_item id="hobby" frequency="high" cefr="A1" part_of_speech="noun">
+      <word>hobby</word>
+      <pronunciation>
+        <ipa>/ˈhɒbi/</ipa>
+        <audio_files>
+          <audio accent="british" file="audio/vocab/hobby_uk.mp3" duration="1.2"/>
+          <audio accent="american" file="audio/vocab/hobby_us.mp3" duration="1.1"/>
+        </audio_files>
+      </pronunciation>
+      <definition>an activity that you do for pleasure when you are not working</definition>
+      <translation lang="vi">sở thích</translation>
+      <examples>
+        <example difficulty="1">
+          <text>My hobby is reading books.</text>
+          <translation>Sở thích của tôi là đọc sách.</translation>
+        </example>
+        <example difficulty="2">
+          <text>Building dollhouses is her favorite hobby.</text>
+          <translation>Xây nhà búp bê là sở thích yêu thích của cô ấy.</translation>
+        </example>
+      </examples>
+      <collocations>
+        <collocation frequency="high">take up a hobby</collocation>
+        <collocation frequency="medium">pursue a hobby</collocation>
+      </collocations>
+      <synonyms>
+        <synonym cefr="A2">interest</synonym>
+        <synonym cefr="B1">pastime</synonym>
+      </synonyms>
+      <word_family>
+        <related word="hobbyist" pos="noun" cefr="B1"/>
+      </word_family>
+      <usage_notes>
+        <note>Countable noun - can use 'a hobby' or 'hobbies'</note>
+        <note>Often followed by gerund: 'My hobby is swimming'</note>
+      </usage_notes>
+    </vocabulary_item>
+    
+    <vocabulary_item id="dollhouse" frequency="medium" cefr="A2" part_of_speech="noun">
+      <word>dollhouse</word>
+      <pronunciation>
+        <ipa>/ˈdɒlhaʊs/</ipa>
+        <audio_files>
+          <audio accent="british" file="audio/vocab/dollhouse_uk.mp3" duration="1.4"/>
+          <audio accent="american" file="audio/vocab/dollhouse_us.mp3" duration="1.3"/>
+        </audio_files>
+      </pronunciation>
+      <definition>a small model house used as a toy</definition>
+      <translation lang="vi">nhà búp bê</translation>
+      <examples>
+        <example difficulty="1">
+          <text>She has a beautiful dollhouse.</text>
+          <translation>Cô ấy có một ngôi nhà búp bê đẹp.</translation>
+        </example>
+      </examples>
+      <collocations>
+        <collocation frequency="high">build a dollhouse</collocation>
+      </collocations>
+      <synonyms>
+        <synonym cefr="B1">miniature house</synonym>
+      </synonyms>
+      <word_family>
+        <related word="doll" pos="noun" cefr="A1"/>
+        <related word="house" pos="noun" cefr="A1"/>
+      </word_family>
+      <usage_notes>
+        <note>American English: dollhouse; British English: doll's house</note>
+      </usage_notes>
+    </vocabulary_item>
+    
+    <vocabulary_item id="creativity" frequency="high" cefr="B1" part_of_speech="noun">
+      <word>creativity</word>
+      <pronunciation>
+        <ipa>/ˌkriːeɪˈtɪvɪti/</ipa>
+        <audio_files>
+          <audio accent="british" file="audio/vocab/creativity_uk.mp3" duration="1.8"/>
+          <audio accent="american" file="audio/vocab/creativity_us.mp3" duration="1.7"/>
+        </audio_files>
+      </pronunciation>
+      <definition>the ability to produce original ideas or to make something new</definition>
+      <translation lang="vi">sự sáng tạo</translation>
+      <examples>
+        <example difficulty="2">
+          <text>Art requires creativity and imagination.</text>
+          <translation>Nghệ thuật đòi hỏi sự sáng tạo và trí tưởng tượng.</translation>
+        </example>
+      </examples>
+      <collocations>
+        <collocation frequency="high">creative thinking</collocation>
+      </collocations>
+      <synonyms>
+        <synonym cefr="B2">innovation</synonym>
+      </synonyms>
+      <word_family>
+        <related word="creative" pos="adjective" cefr="B1"/>
+        <related word="create" pos="verb" cefr="A2"/>
+      </word_family>
+      <usage_notes>
+        <note>Uncountable noun</note>
+      </usage_notes>
+    </vocabulary_item>
+    
+    <vocabulary_item id="unusual" frequency="high" cefr="B1" part_of_speech="adjective">
+      <word>unusual</word>
+      <pronunciation>
+        <ipa>/ʌnˈjuːʒʊəl/</ipa>
+        <audio_files>
+          <audio accent="british" file="audio/vocab/unusual_uk.mp3" duration="1.5"/>
+          <audio accent="american" file="audio/vocab/unusual_us.mp3" duration="1.4"/>
+        </audio_files>
+      </pronunciation>
+      <definition>not common, typical, or expected; different from what is normal</definition>
+      <translation lang="vi">không thường gặp, khác thường</translation>
+      <examples>
+        <example difficulty="2">
+          <text>That's an unusual hobby for someone your age.</text>
+          <translation>Đó là một sở thích khác thường cho người ở tuổi của bạn.</translation>
+        </example>
+      </examples>
+      <collocations>
+        <collocation frequency="high">unusual situation</collocation>
+      </collocations>
+      <synonyms>
+        <synonym cefr="B1">strange</synonym>
+        <synonym cefr="B2">exceptional</synonym>
+      </synonyms>
+      <word_family>
+        <related word="usual" pos="adjective" cefr="A2"/>
+        <related word="unusually" pos="adverb" cefr="B1"/>
+      </word_family>
+      <usage_notes>
+        <note>Can be followed by 'for': unusual for someone</note>
+      </usage_notes>
+    </vocabulary_item>
+  </vocabulary_bank>
+  
+  <sections>
+    <section id="getting-started" title="Getting Started" order="1" type="introduction">
+      <metadata>
+        <estimated_duration>45</estimated_duration>
+        <skills_focus>listening,speaking,vocabulary</skills_focus>
+        <materials_needed>audio_player,vocabulary_cards</materials_needed>
+      </metadata>
+      
+      <learning_content>
+        <dialogues>
+          <dialogue id="dialogue-01" type="casual_conversation">
+            <metadata>
+              <title>Discussing Hobbies</title>
+              <context>Two friends talking about their hobbies at home</context>
+              <setting>informal</setting>
+              <characters>
+                <character name="Ann" role="visitor" age_group="teenager"/>
+                <character name="Trang" role="host" age_group="teenager"/>
+              </characters>
+              <audio_file>audio/dialogues/unit01/conversation01.mp3</audio_file>
+              <duration>90</duration>
+            </metadata>
+            
+            <exchanges>
+              <exchange id="ex1" speaker="Ann" timestamp="0.0">
+                <text>Your house is very nice, Trang.</text>
+                <translation>Nhà của bạn rất đẹp, Trang.</translation>
+                <vocabulary_refs>
+                  <ref id="house"/>
+                  <ref id="nice"/>
+                </vocabulary_refs>
+              </exchange>
+              
+              <exchange id="ex2" speaker="Trang" timestamp="3.2">
+                <text>Thanks! Let me show you my room.</text>
+                <translation>Cảm ơn! Để tôi cho bạn xem phòng của tôi.</translation>
+                <vocabulary_refs>
+                  <ref id="show"/>
+                  <ref id="room"/>
+                </vocabulary_refs>
+              </exchange>
+            </exchanges>
+          </dialogue>
+        </dialogues>
+      </learning_content>
+      
+      <exercises>
+        <exercise id="ex001" type="multiple_choice" difficulty="2" estimated_time="3" points="10">
+          <metadata>
+            <title>Dialogue Comprehension</title>
+            <instructions>
+              <text>Listen to the dialogue and choose the correct answer</text>
+              <translation>Nghe đoạn hội thoại và chọn câu trả lời đúng</translation>
+            </instructions>
+          </metadata>
+          
+          <question>
+            <text>What are Trang and Ann talking about?</text>
+            <translation>Trang và Ann đang nói về điều gì?</translation>
+          </question>
+          
+          <options>
+            <option id="a" correct="true">Hobbies</option>
+            <option id="b" correct="false">School subjects</option>
+            <option id="c" correct="false">Leisure time</option>
+          </options>
+          
+          <feedback>
+            <correct>Excellent! The conversation focuses on hobbies.</correct>
+            <incorrect>Review the dialogue again.</incorrect>
+          </feedback>
+        </exercise>
+      </exercises>
+      
+      <vocabulary_focus>
+        <ref id="hobby"/>
+        <ref id="dollhouse"/>
+        <ref id="creativity"/>
+        <ref id="unusual"/>
+      </vocabulary_focus>
+    </section>
+  </sections>
+  
+</unit>
