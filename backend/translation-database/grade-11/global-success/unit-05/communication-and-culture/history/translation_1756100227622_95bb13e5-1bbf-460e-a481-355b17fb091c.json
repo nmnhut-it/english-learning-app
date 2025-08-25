@@ -1,0 +1,1455 @@
+{
+  "metadata": {
+    "timestamp": "2025-08-25T05:35:33.672Z",
+    "book": "Global Success",
+    "grade": 11,
+    "unit": 5,
+    "lesson": "Communication and Culture",
+    "context": "",
+    "totalSentences": 17
+  },
+  "originalText": "REDUCING THE ENVIRONMENTAL IMPACT OF FARMING\n\nFarming provides us with the food that we eat every day. But farming activities also have a strong warming impact on the global temperature. The good news is that experts have already started thinking about how to reduce it.\n\nRaising farm animals like cows, goats, and sheep makes the planet hotter. There are billions of them and they release methane, a greenhouse gas that is much more dangerous than carbon dioxide. That is why scientists are developing methane-catching face masks for cows. They are intended to reduce methane emissions by up to 50 per cent per cow.\n\nAnother farming activity that heats the atmosphere is growing rice. According to research, emissions from rice farms have the same warming effect as about 600 coal plants. Flooded rice fields also make it easier for soil bacteria to produce greenhouse gases. New farming methods have allowed rice to grow well in drier fields, limit the amount of greenhouse gases, use less water, and produce better crops.\n\nIn addition, land-use increases the global temperature. Plants and trees use CO2 to grow and store large amounts of carbon underground. Cutting down or burning forests to create farm fields and land for feeding animals releases tonnes of carbon dioxide and other greenhouse gases into the atmosphere every year. Luckily, many countries and world leaders have agreed to protect the forests and end deforestation.\n\nIn short, there are some positive signs that farmers can meet the environmental challenges. However, although the impact of farming on the global temperature has been reduced, there is still much to do.",
+  "analysis": [
+    {
+      "index": 1,
+      "original": "Farming provides us with the food that we eat every day.",
+      "words": [
+        {
+          "word": "Farming",
+          "meaning": "Nghề nông",
+          "ipa": "/ˈfɑːmɪŋ/"
+        },
+        {
+          "word": "provides",
+          "meaning": "cung cấp",
+          "ipa": "/prəˈvaɪdz/"
+        },
+        {
+          "word": "us",
+          "meaning": "cho chúng ta",
+          "ipa": "/ʌs/"
+        },
+        {
+          "word": "with",
+          "meaning": "với",
+          "ipa": "/wɪθ/"
+        },
+        {
+          "word": "the",
+          "meaning": "cái",
+          "ipa": "/ðə/"
+        },
+        {
+          "word": "food",
+          "meaning": "thức ăn",
+          "ipa": "/fuːd/"
+        },
+        {
+          "word": "that",
+          "meaning": "mà",
+          "ipa": "/ðæt/"
+        },
+        {
+          "word": "we",
+          "meaning": "chúng ta",
+          "ipa": "/wiː/"
+        },
+        {
+          "word": "eat",
+          "meaning": "ăn",
+          "ipa": "/iːt/"
+        },
+        {
+          "word": "every",
+          "meaning": "mỗi",
+          "ipa": "/ˈevri/"
+        },
+        {
+          "word": "day",
+          "meaning": "ngày",
+          "ipa": "/deɪ/"
+        }
+      ],
+      "phrases": [],
+      "translation": "Nghề nông cung cấp cho chúng ta thức ăn mà chúng ta ăn hàng ngày."
+    },
+    {
+      "index": 2,
+      "original": "But farming activities also have a strong warming impact on the global temperature.",
+      "words": [
+        {
+          "word": "But",
+          "meaning": "Nhưng",
+          "ipa": "/bʌt/"
+        },
+        {
+          "word": "farming",
+          "meaning": "nông nghiệp",
+          "ipa": "/ˈfɑːmɪŋ/"
+        },
+        {
+          "word": "activities",
+          "meaning": "hoạt động",
+          "ipa": "/ækˈtɪvətiz/"
+        },
+        {
+          "word": "also",
+          "meaning": "cũng",
+          "ipa": "/ˈɔːlsəʊ/"
+        },
+        {
+          "word": "have",
+          "meaning": "có",
+          "ipa": "/hæv/"
+        },
+        {
+          "word": "a",
+          "meaning": "một",
+          "ipa": "/ə/"
+        },
+        {
+          "word": "strong",
+          "meaning": "mạnh",
+          "ipa": "/strɒŋ/"
+        },
+        {
+          "word": "warming",
+          "meaning": "sự nóng lên",
+          "ipa": "/ˈwɔːmɪŋ/"
+        },
+        {
+          "word": "impact",
+          "meaning": "tác động",
+          "ipa": "/ˈɪmpækt/"
+        },
+        {
+          "word": "on",
+          "meaning": "trên",
+          "ipa": "/ɒn/"
+        },
+        {
+          "word": "the",
+          "meaning": "cái",
+          "ipa": "/ðə/"
+        },
+        {
+          "word": "global",
+          "meaning": "toàn cầu",
+          "ipa": "/ˈɡləʊbəl/"
+        },
+        {
+          "word": "temperature",
+          "meaning": "nhiệt độ",
+          "ipa": "/ˈtempərətʃə/"
+        }
+      ],
+      "phrases": [],
+      "translation": "Nhưng các hoạt động nông nghiệp cũng có tác động mạnh mẽ đến sự nóng lên của nhiệt độ toàn cầu."
+    },
+    {
+      "index": 3,
+      "original": "The good news is that experts have already started thinking about how to reduce it.",
+      "words": [
+        {
+          "word": "The",
+          "meaning": "Tin",
+          "ipa": "/ðə/"
+        },
+        {
+          "word": "good",
+          "meaning": "tốt",
+          "ipa": "/ɡʊd/"
+        },
+        {
+          "word": "news",
+          "meaning": "lành",
+          "ipa": "/njuːz/"
+        },
+        {
+          "word": "is",
+          "meaning": "là",
+          "ipa": "/ɪz/"
+        },
+        {
+          "word": "that",
+          "meaning": "rằng",
+          "ipa": "/ðæt/"
+        },
+        {
+          "word": "experts",
+          "meaning": "chuyên gia",
+          "ipa": "/ˈekspɜːts/"
+        },
+        {
+          "word": "have",
+          "meaning": "đã",
+          "ipa": "/hæv/"
+        },
+        {
+          "word": "already",
+          "meaning": "đã",
+          "ipa": "/ɔːlˈredi/"
+        },
+        {
+          "word": "started",
+          "meaning": "bắt đầu",
+          "ipa": "/ˈstɑːtɪd/"
+        },
+        {
+          "word": "thinking",
+          "meaning": "suy nghĩ",
+          "ipa": "/ˈθɪŋkɪŋ/"
+        },
+        {
+          "word": "about",
+          "meaning": "về",
+          "ipa": "/əˈbaʊt/"
+        },
+        {
+          "word": "how",
+          "meaning": "làm thế nào",
+          "ipa": "/haʊ/"
+        },
+        {
+          "word": "to",
+          "meaning": "để",
+          "ipa": "/tuː/"
+        },
+        {
+          "word": "reduce",
+          "meaning": "giảm",
+          "ipa": "/rɪˈdjuːs/"
+        },
+        {
+          "word": "it",
+          "meaning": "nó",
+          "ipa": "/ɪt/"
+        }
+      ],
+      "phrases": [],
+      "translation": "Tin tốt là các chuyên gia đã bắt đầu suy nghĩ về cách giảm thiểu nó."
+    },
+    {
+      "index": 4,
+      "original": "Raising farm animals like cows, goats, and sheep makes the planet hotter.",
+      "words": [
+        {
+          "word": "Raising",
+          "meaning": "Nuôi",
+          "ipa": "/ˈreɪzɪŋ/"
+        },
+        {
+          "word": "farm",
+          "meaning": "trang trại",
+          "ipa": "/fɑːm/"
+        },
+        {
+          "word": "animals",
+          "meaning": "động vật",
+          "ipa": "/ˈænɪməlz/"
+        },
+        {
+          "word": "like",
+          "meaning": "như",
+          "ipa": "/laɪk/"
+        },
+        {
+          "word": "cows",
+          "meaning": "bò",
+          "ipa": "/kaʊz/"
+        },
+        {
+          "word": "goats",
+          "meaning": "dê",
+          "ipa": "/ɡəʊts/"
+        },
+        {
+          "word": "and",
+          "meaning": "và",
+          "ipa": "/ænd/"
+        },
+        {
+          "word": "sheep",
+          "meaning": "cừu",
+          "ipa": "/ʃiːp/"
+        },
+        {
+          "word": "makes",
+          "meaning": "làm cho",
+          "ipa": "/meɪks/"
+        },
+        {
+          "word": "the",
+          "meaning": "hành tinh",
+          "ipa": "/ðə/"
+        },
+        {
+          "word": "planet",
+          "meaning": "nóng hơn",
+          "ipa": "/ˈplænɪt/"
+        },
+        {
+          "word": "hotter",
+          "meaning": "nóng hơn",
+          "ipa": "/ˈhɒtə/"
+        }
+      ],
+      "phrases": [],
+      "translation": "Việc nuôi gia súc như bò, dê và cừu làm cho hành tinh nóng hơn."
+    },
+    {
+      "index": 5,
+      "original": "There are billions of them and they release methane, a greenhouse gas that is much more dangerous than carbon dioxide.",
+      "words": [
+        {
+          "word": "There",
+          "meaning": "Có",
+          "ipa": "/ðeər/"
+        },
+        {
+          "word": "are",
+          "meaning": "có",
+          "ipa": "/ɑːr/"
+        },
+        {
+          "word": "billions",
+          "meaning": "tỷ",
+          "ipa": "/ˈbɪljənz/"
+        },
+        {
+          "word": "of",
+          "meaning": "của",
+          "ipa": "/ɒv/"
+        },
+        {
+          "word": "them",
+          "meaning": "chúng",
+          "ipa": "/ðəm/"
+        },
+        {
+          "word": "and",
+          "meaning": "và",
+          "ipa": "/ænd/"
+        },
+        {
+          "word": "they",
+          "meaning": "chúng",
+          "ipa": "/ðeɪ/"
+        },
+        {
+          "word": "release",
+          "meaning": "thải ra",
+          "ipa": "/rɪˈliːs/"
+        },
+        {
+          "word": "methane",
+          "meaning": "khí mê-tan",
+          "ipa": "/ˈmeθeɪn/"
+        },
+        {
+          "word": "a",
+          "meaning": "một",
+          "ipa": "/ə/"
+        },
+        {
+          "word": "greenhouse",
+          "meaning": "nhà kính",
+          "ipa": "/ˈɡriːnhaʊs/"
+        },
+        {
+          "word": "gas",
+          "meaning": "khí",
+          "ipa": "/ɡæs/"
+        },
+        {
+          "word": "that",
+          "meaning": "mà",
+          "ipa": "/ðæt/"
+        },
+        {
+          "word": "is",
+          "meaning": "thì",
+          "ipa": "/ɪz/"
+        },
+        {
+          "word": "much",
+          "meaning": "hơn",
+          "ipa": "/mʌtʃ/"
+        },
+        {
+          "word": "more",
+          "meaning": "nhiều",
+          "ipa": "/mɔːr/"
+        },
+        {
+          "word": "dangerous",
+          "meaning": "nguy hiểm",
+          "ipa": "/ˈdeɪndʒərəs/"
+        },
+        {
+          "word": "than",
+          "meaning": "hơn",
+          "ipa": "/ðæn/"
+        },
+        {
+          "word": "carbon",
+          "meaning": "carbon",
+          "ipa": "/ˈkɑːbən/"
+        },
+        {
+          "word": "dioxide",
+          "meaning": "đi-ô-xít",
+          "ipa": "/daɪˈɒksaɪd/"
+        }
+      ],
+      "phrases": [],
+      "translation": "Có hàng tỷ con và chúng thải ra khí mê-tan, một loại khí nhà kính nguy hiểm hơn nhiều so với carbon dioxide."
+    },
+    {
+      "index": 6,
+      "original": "That is why scientists are developing methane-catching face masks for cows.",
+      "words": [
+        {
+          "word": "That",
+          "meaning": "Đó",
+          "ipa": "/ðæt/"
+        },
+        {
+          "word": "is",
+          "meaning": "là",
+          "ipa": "/ɪz/"
+        },
+        {
+          "word": "why",
+          "meaning": "tại sao",
+          "ipa": "/waɪ/"
+        },
+        {
+          "word": "scientists",
+          "meaning": "các nhà khoa học",
+          "ipa": "/ˈsaɪəntɪsts/"
+        },
+        {
+          "word": "are",
+          "meaning": "đang",
+          "ipa": "/ɑːr/"
+        },
+        {
+          "word": "developing",
+          "meaning": "phát triển",
+          "ipa": "/dɪˈveləpɪŋ/"
+        },
+        {
+          "word": "methane-catching",
+          "meaning": "bắt khí mê-tan",
+          "ipa": "/ˈmeθeɪn ˈkætʃɪŋ/"
+        },
+        {
+          "word": "face",
+          "meaning": "khẩu trang",
+          "ipa": "/feɪs/"
+        },
+        {
+          "word": "masks",
+          "meaning": "cho",
+          "ipa": "/mɑːsks/"
+        },
+        {
+          "word": "for",
+          "meaning": "bò",
+          "ipa": "/fɔːr/"
+        },
+        {
+          "word": "cows",
+          "meaning": "bò",
+          "ipa": "/kaʊz/"
+        }
+      ],
+      "phrases": [],
+      "translation": "Đó là lý do tại sao các nhà khoa học đang phát triển khẩu trang bắt khí mê-tan cho bò."
+    },
+    {
+      "index": 7,
+      "original": "They are intended to reduce methane emissions by up to 50 per cent per cow.",
+      "words": [
+        {
+          "word": "They",
+          "meaning": "Chúng",
+          "ipa": "/ðeɪ/"
+        },
+        {
+          "word": "are",
+          "meaning": "thì",
+          "ipa": "/ɑːr/"
+        },
+        {
+          "word": "intended",
+          "meaning": "dự định",
+          "ipa": "/ɪnˈtendɪd/"
+        },
+        {
+          "word": "to",
+          "meaning": "để",
+          "ipa": "/tuː/"
+        },
+        {
+          "word": "reduce",
+          "meaning": "giảm",
+          "ipa": "/rɪˈdjuːs/"
+        },
+        {
+          "word": "methane",
+          "meaning": "khí mê-tan",
+          "ipa": "/ˈmeθeɪn/"
+        },
+        {
+          "word": "emissions",
+          "meaning": "thải ra",
+          "ipa": "/ɪˈmɪʃnz/"
+        },
+        {
+          "word": "by",
+          "meaning": "bằng",
+          "ipa": "/baɪ/"
+        },
+        {
+          "word": "up",
+          "meaning": "lên",
+          "ipa": "/ʌp/"
+        },
+        {
+          "word": "to",
+          "meaning": "đến",
+          "ipa": "/tuː/"
+        },
+        {
+          "word": "50",
+          "meaning": "50",
+          "ipa": "/fɪfti/"
+        },
+        {
+          "word": "per",
+          "meaning": "trên",
+          "ipa": "/pɜːr/"
+        },
+        {
+          "word": "cent",
+          "meaning": "trăm",
+          "ipa": "/sent/"
+        },
+        {
+          "word": "per",
+          "meaning": "trên",
+          "ipa": "/pɜːr/"
+        },
+        {
+          "word": "cow",
+          "meaning": "con bò",
+          "ipa": "/kaʊ/"
+        }
+      ],
+      "phrases": [],
+      "translation": "Chúng dự định giảm lượng khí thải mê-tan lên đến 50% trên mỗi con bò."
+    },
+    {
+      "index": 8,
+      "original": "Another farming activity that heats the atmosphere is growing rice.",
+      "words": [
+        {
+          "word": "Another",
+          "meaning": "Một",
+          "ipa": "/əˈnʌðər/"
+        },
+        {
+          "word": "farming",
+          "meaning": "nông nghiệp",
+          "ipa": "/ˈfɑːmɪŋ/"
+        },
+        {
+          "word": "activity",
+          "meaning": "hoạt động",
+          "ipa": "/ækˈtɪvəti/"
+        },
+        {
+          "word": "that",
+          "meaning": "mà",
+          "ipa": "/ðæt/"
+        },
+        {
+          "word": "heats",
+          "meaning": "làm nóng",
+          "ipa": "/hiːts/"
+        },
+        {
+          "word": "the",
+          "meaning": "khí quyển",
+          "ipa": "/ðə/"
+        },
+        {
+          "word": "atmosphere",
+          "meaning": "khí quyển",
+          "ipa": "/ˈætməsfɪər/"
+        },
+        {
+          "word": "is",
+          "meaning": "là",
+          "ipa": "/ɪz/"
+        },
+        {
+          "word": "growing",
+          "meaning": "trồng",
+          "ipa": "/ˈɡrəʊɪŋ/"
+        },
+        {
+          "word": "rice",
+          "meaning": "lúa",
+          "ipa": "/raɪs/"
+        }
+      ],
+      "phrases": [],
+      "translation": "Một hoạt động nông nghiệp khác làm nóng khí quyển là trồng lúa."
+    },
+    {
+      "index": 9,
+      "original": "According to research, emissions from rice farms have the same warming effect as about 600 coal plants.",
+      "words": [
+        {
+          "word": "According",
+          "meaning": "Theo",
+          "ipa": "/əˈkɔːrdɪŋ/"
+        },
+        {
+          "word": "to",
+          "meaning": "với",
+          "ipa": "/tuː/"
+        },
+        {
+          "word": "research",
+          "meaning": "nghiên cứu",
+          "ipa": "/rɪˈsɜːrtʃ/"
+        },
+        {
+          "word": "emissions",
+          "meaning": "thải ra",
+          "ipa": "/ɪˈmɪʃnz/"
+        },
+        {
+          "word": "from",
+          "meaning": "từ",
+          "ipa": "/frɒm/"
+        },
+        {
+          "word": "rice",
+          "meaning": "lúa",
+          "ipa": "/raɪs/"
+        },
+        {
+          "word": "farms",
+          "meaning": "trang trại",
+          "ipa": "/fɑːmz/"
+        },
+        {
+          "word": "have",
+          "meaning": "có",
+          "ipa": "/hæv/"
+        },
+        {
+          "word": "the",
+          "meaning": "cùng",
+          "ipa": "/ðə/"
+        },
+        {
+          "word": "same",
+          "meaning": "cùng",
+          "ipa": "/seɪm/"
+        },
+        {
+          "word": "warming",
+          "meaning": "nóng lên",
+          "ipa": "/ˈwɔːmɪŋ/"
+        },
+        {
+          "word": "effect",
+          "meaning": "tác động",
+          "ipa": "/ɪˈfekt/"
+        },
+        {
+          "word": "as",
+          "meaning": "như",
+          "ipa": "/æz/"
+        },
+        {
+          "word": "about",
+          "meaning": "khoảng",
+          "ipa": "/əˈbaʊt/"
+        },
+        {
+          "word": "600",
+          "meaning": "600",
+          "ipa": "/sɪks ˈhʌndrəd/"
+        },
+        {
+          "word": "coal",
+          "meaning": "than",
+          "ipa": "/kəʊl/"
+        },
+        {
+          "word": "plants",
+          "meaning": "nhà máy",
+          "ipa": "/plɑːnts/"
+        }
+      ],
+      "phrases": [],
+      "translation": "Theo nghiên cứu, lượng khí thải từ các trang trại lúa có tác động nóng lên tương đương với khoảng 600 nhà máy than."
+    },
+    {
+      "index": 10,
+      "original": "Flooded rice fields also make it easier for soil bacteria to produce greenhouse gases.",
+      "words": [
+        {
+          "word": "Flooded",
+          "meaning": "Ngập",
+          "ipa": "/ˈflʌdɪd/"
+        },
+        {
+          "word": "rice",
+          "meaning": "lúa",
+          "ipa": "/raɪs/"
+        },
+        {
+          "word": "fields",
+          "meaning": "ruộng",
+          "ipa": "/fiːldz/"
+        },
+        {
+          "word": "also",
+          "meaning": "cũng",
+          "ipa": "/ˈɔːlsəʊ/"
+        },
+        {
+          "word": "make",
+          "meaning": "làm",
+          "ipa": "/meɪk/"
+        },
+        {
+          "word": "it",
+          "meaning": "nó",
+          "ipa": "/ɪt/"
+        },
+        {
+          "word": "easier",
+          "meaning": "dễ hơn",
+          "ipa": "/ˈiːziər/"
+        },
+        {
+          "word": "for",
+          "meaning": "cho",
+          "ipa": "/fɔːr/"
+        },
+        {
+          "word": "soil",
+          "meaning": "đất",
+          "ipa": "/sɔɪl/"
+        },
+        {
+          "word": "bacteria",
+          "meaning": "vi khuẩn",
+          "ipa": "/bækˈtɪəriə/"
+        },
+        {
+          "word": "to",
+          "meaning": "để",
+          "ipa": "/tuː/"
+        },
+        {
+          "word": "produce",
+          "meaning": "sản xuất",
+          "ipa": "/prəˈdjuːs/"
+        },
+        {
+          "word": "greenhouse",
+          "meaning": "nhà kính",
+          "ipa": "/ˈɡriːnhaʊs/"
+        },
+        {
+          "word": "gases",
+          "meaning": "khí",
+          "ipa": "/ˈɡæsɪz/"
+        }
+      ],
+      "phrases": [],
+      "translation": "Ruộng lúa ngập nước cũng tạo điều kiện dễ dàng hơn cho vi khuẩn đất sản xuất khí nhà kính."
+    },
+    {
+      "index": 11,
+      "original": "New farming methods have allowed rice to grow well in drier fields, limit the amount of greenhouse gases, use less water, and produce better crops.",
+      "words": [
+        {
+          "word": "New",
+          "meaning": "Mới",
+          "ipa": "/njuː/"
+        },
+        {
+          "word": "farming",
+          "meaning": "nông nghiệp",
+          "ipa": "/ˈfɑːmɪŋ/"
+        },
+        {
+          "word": "methods",
+          "meaning": "phương pháp",
+          "ipa": "/ˈmeθədz/"
+        },
+        {
+          "word": "have",
+          "meaning": "đã",
+          "ipa": "/hæv/"
+        },
+        {
+          "word": "allowed",
+          "meaning": "cho phép",
+          "ipa": "/əˈlaʊd/"
+        },
+        {
+          "word": "rice",
+          "meaning": "lúa",
+          "ipa": "/raɪs/"
+        },
+        {
+          "word": "to",
+          "meaning": "để",
+          "ipa": "/tuː/"
+        },
+        {
+          "word": "grow",
+          "meaning": "trồng",
+          "ipa": "/ɡrəʊ/"
+        },
+        {
+          "word": "well",
+          "meaning": "tốt",
+          "ipa": "/wel/"
+        },
+        {
+          "word": "in",
+          "meaning": "trong",
+          "ipa": "/ɪn/"
+        },
+        {
+          "word": "drier",
+          "meaning": "khô hơn",
+          "ipa": "/ˈdraɪər/"
+        },
+        {
+          "word": "fields",
+          "meaning": "ruộng",
+          "ipa": "/fiːldz/"
+        },
+        {
+          "word": "limit",
+          "meaning": "giới hạn",
+          "ipa": "/ˈlɪmɪt/"
+        },
+        {
+          "word": "the",
+          "meaning": "lượng",
+          "ipa": "/ðə/"
+        },
+        {
+          "word": "amount",
+          "meaning": "lượng",
+          "ipa": "/əˈmaʊnt/"
+        },
+        {
+          "word": "of",
+          "meaning": "của",
+          "ipa": "/ɒv/"
+        },
+        {
+          "word": "greenhouse",
+          "meaning": "nhà kính",
+          "ipa": "/ˈɡriːnhaʊs/"
+        },
+        {
+          "word": "gases",
+          "meaning": "khí",
+          "ipa": "/ˈɡæsɪz/"
+        },
+        {
+          "word": "use",
+          "meaning": "sử dụng",
+          "ipa": "/juːz/"
+        },
+        {
+          "word": "less",
+          "meaning": "ít hơn",
+          "ipa": "/les/"
+        },
+        {
+          "word": "water",
+          "meaning": "nước",
+          "ipa": "/ˈwɔːtər/"
+        },
+        {
+          "word": "and",
+          "meaning": "và",
+          "ipa": "/ænd/"
+        },
+        {
+          "word": "produce",
+          "meaning": "sản xuất",
+          "ipa": "/prəˈdjuːs/"
+        },
+        {
+          "word": "better",
+          "meaning": "tốt hơn",
+          "ipa": "/ˈbetər/"
+        },
+        {
+          "word": "crops",
+          "meaning": "cây trồng",
+          "ipa": "/krɒps/"
+        }
+      ],
+      "phrases": [],
+      "translation": "Các phương pháp canh tác mới đã cho phép lúa phát triển tốt hơn ở những ruộng khô hơn, hạn chế lượng khí nhà kính, sử dụng ít nước hơn và tạo ra các loại cây trồng tốt hơn."
+    },
+    {
+      "index": 12,
+      "original": "In addition, land-use increases the global temperature.",
+      "words": [
+        {
+          "word": "In",
+          "meaning": "Ngoài ra",
+          "ipa": "/ɪn/"
+        },
+        {
+          "word": "addition",
+          "meaning": "ra",
+          "ipa": "/əˈdɪʃn/"
+        },
+        {
+          "word": "land-use",
+          "meaning": "sử dụng đất",
+          "ipa": "/ˈlænd juːs/"
+        },
+        {
+          "word": "increases",
+          "meaning": "làm tăng",
+          "ipa": "/ɪnˈkriːsɪz/"
+        },
+        {
+          "word": "the",
+          "meaning": "nhiệt độ",
+          "ipa": "/ðə/"
+        },
+        {
+          "word": "global",
+          "meaning": "toàn cầu",
+          "ipa": "/ˈɡləʊbəl/"
+        },
+        {
+          "word": "temperature",
+          "meaning": "nhiệt độ",
+          "ipa": "/ˈtempərətʃə/"
+        }
+      ],
+      "phrases": [],
+      "translation": "Ngoài ra, việc sử dụng đất làm tăng nhiệt độ toàn cầu."
+    },
+    {
+      "index": 13,
+      "original": "Plants and trees use CO2 to grow and store large amounts of carbon underground.",
+      "words": [
+        {
+          "word": "Plants",
+          "meaning": "Cây",
+          "ipa": "/plɑːnts/"
+        },
+        {
+          "word": "and",
+          "meaning": "và",
+          "ipa": "/ænd/"
+        },
+        {
+          "word": "trees",
+          "meaning": "cây cối",
+          "ipa": "/triːz/"
+        },
+        {
+          "word": "use",
+          "meaning": "sử dụng",
+          "ipa": "/juːz/"
+        },
+        {
+          "word": "CO2",
+          "meaning": "CO2",
+          "ipa": "/ˌsiːˈəʊ tuː/"
+        },
+        {
+          "word": "to",
+          "meaning": "để",
+          "ipa": "/tuː/"
+        },
+        {
+          "word": "grow",
+          "meaning": "phát triển",
+          "ipa": "/ɡrəʊ/"
+        },
+        {
+          "word": "and",
+          "meaning": "và",
+          "ipa": "/ænd/"
+        },
+        {
+          "word": "store",
+          "meaning": "lưu trữ",
+          "ipa": "/stɔːr/"
+        },
+        {
+          "word": "large",
+          "meaning": "lớn",
+          "ipa": "/lɑːrdʒ/"
+        },
+        {
+          "word": "amounts",
+          "meaning": "lượng",
+          "ipa": "/əˈmaʊnts/"
+        },
+        {
+          "word": "of",
+          "meaning": "của",
+          "ipa": "/ɒv/"
+        },
+        {
+          "word": "carbon",
+          "meaning": "carbon",
+          "ipa": "/ˈkɑːbən/"
+        },
+        {
+          "word": "underground",
+          "meaning": "dưới lòng đất",
+          "ipa": "/ˌʌndərˈɡraʊnd/"
+        }
+      ],
+      "phrases": [],
+      "translation": "Cây cối sử dụng CO2 để phát triển và lưu trữ một lượng lớn carbon dưới lòng đất."
+    },
+    {
+      "index": 14,
+      "original": "Cutting down or burning forests to create farm fields and land for feeding animals releases tonnes of carbon dioxide and other greenhouse gases into the atmosphere every year.",
+      "words": [
+        {
+          "word": "Cutting",
+          "meaning": "Chặt",
+          "ipa": "/ˈkʌtɪŋ/"
+        },
+        {
+          "word": "down",
+          "meaning": "xuống",
+          "ipa": "/daʊn/"
+        },
+        {
+          "word": "or",
+          "meaning": "hoặc",
+          "ipa": "/ɔːr/"
+        },
+        {
+          "word": "burning",
+          "meaning": "đốt",
+          "ipa": "/ˈbɜːrnɪŋ/"
+        },
+        {
+          "word": "forests",
+          "meaning": "rừng",
+          "ipa": "/ˈfɒrɪsts/"
+        },
+        {
+          "word": "to",
+          "meaning": "để",
+          "ipa": "/tuː/"
+        },
+        {
+          "word": "create",
+          "meaning": "tạo ra",
+          "ipa": "/kriˈeɪt/"
+        },
+        {
+          "word": "farm",
+          "meaning": "trang trại",
+          "ipa": "/fɑːm/"
+        },
+        {
+          "word": "fields",
+          "meaning": "ruộng",
+          "ipa": "/fiːldz/"
+        },
+        {
+          "word": "and",
+          "meaning": "và",
+          "ipa": "/ænd/"
+        },
+        {
+          "word": "land",
+          "meaning": "đất",
+          "ipa": "/lænd/"
+        },
+        {
+          "word": "for",
+          "meaning": "cho",
+          "ipa": "/fɔːr/"
+        },
+        {
+          "word": "feeding",
+          "meaning": "cho ăn",
+          "ipa": "/ˈfiːdɪŋ/"
+        },
+        {
+          "word": "animals",
+          "meaning": "động vật",
+          "ipa": "/ˈænɪməlz/"
+        },
+        {
+          "word": "releases",
+          "meaning": "thải ra",
+          "ipa": "/rɪˈliːsɪz/"
+        },
+        {
+          "word": "tonnes",
+          "meaning": "tấn",
+          "ipa": "/tʌnz/"
+        },
+        {
+          "word": "of",
+          "meaning": "của",
+          "ipa": "/ɒv/"
+        },
+        {
+          "word": "carbon",
+          "meaning": "carbon",
+          "ipa": "/ˈkɑːbən/"
+        },
+        {
+          "word": "dioxide",
+          "meaning": "đi-ô-xít",
+          "ipa": "/daɪˈɒksaɪd/"
+        },
+        {
+          "word": "and",
+          "meaning": "và",
+          "ipa": "/ænd/"
+        },
+        {
+          "word": "other",
+          "meaning": "khác",
+          "ipa": "/ˈʌðər/"
+        },
+        {
+          "word": "greenhouse",
+          "meaning": "nhà kính",
+          "ipa": "/ˈɡriːnhaʊs/"
+        },
+        {
+          "word": "gases",
+          "meaning": "khí",
+          "ipa": "/ˈɡæsɪz/"
+        },
+        {
+          "word": "into",
+          "meaning": "vào",
+          "ipa": "/ˈɪntuː/"
+        },
+        {
+          "word": "the",
+          "meaning": "khí quyển",
+          "ipa": "/ðə/"
+        },
+        {
+          "word": "atmosphere",
+          "meaning": "khí quyển",
+          "ipa": "/ˈætməsfɪər/"
+        },
+        {
+          "word": "every",
+          "meaning": "mỗi",
+          "ipa": "/ˈevri/"
+        },
+        {
+          "word": "year",
+          "meaning": "năm",
+          "ipa": "/jɪər/"
+        }
+      ],
+      "phrases": [],
+      "translation": "Việc chặt phá hoặc đốt rừng để tạo ra các cánh đồng và đất cho việc chăn nuôi động vật thải ra hàng tấn carbon dioxide và các loại khí nhà kính khác vào khí quyển mỗi năm."
+    },
+    {
+      "index": 15,
+      "original": "Luckily, many countries and world leaders have agreed to protect the forests and end deforestation.",
+      "words": [
+        {
+          "word": "Luckily",
+          "meaning": "May mắn",
+          "ipa": "/ˈlʌkɪli/"
+        },
+        {
+          "word": "many",
+          "meaning": "nhiều",
+          "ipa": "/ˈmeni/"
+        },
+        {
+          "word": "countries",
+          "meaning": "quốc gia",
+          "ipa": "/ˈkʌntriz/"
+        },
+        {
+          "word": "and",
+          "meaning": "và",
+          "ipa": "/ænd/"
+        },
+        {
+          "word": "world",
+          "meaning": "thế giới",
+          "ipa": "/wɜːrld/"
+        },
+        {
+          "word": "leaders",
+          "meaning": "lãnh đạo",
+          "ipa": "/ˈliːdərz/"
+        },
+        {
+          "word": "have",
+          "meaning": "đã",
+          "ipa": "/hæv/"
+        },
+        {
+          "word": "agreed",
+          "meaning": "đồng ý",
+          "ipa": "/əˈɡriːd/"
+        },
+        {
+          "word": "to",
+          "meaning": "để",
+          "ipa": "/tuː/"
+        },
+        {
+          "word": "protect",
+          "meaning": "bảo vệ",
+          "ipa": "/prəˈtekt/"
+        },
+        {
+          "word": "the",
+          "meaning": "rừng",
+          "ipa": "/ðə/"
+        },
+        {
+          "word": "forests",
+          "meaning": "rừng",
+          "ipa": "/ˈfɒrɪsts/"
+        },
+        {
+          "word": "and",
+          "meaning": "và",
+          "ipa": "/ænd/"
+        },
+        {
+          "word": "end",
+          "meaning": "chấm dứt",
+          "ipa": "/end/"
+        },
+        {
+          "word": "deforestation",
+          "meaning": "phá rừng",
+          "ipa": "/ˌdiːfɒrɪˈsteɪʃn/"
+        }
+      ],
+      "phrases": [],
+      "translation": "May mắn thay, nhiều quốc gia và các nhà lãnh đạo thế giới đã đồng ý bảo vệ rừng và chấm dứt nạn phá rừng."
+    },
+    {
+      "index": 16,
+      "original": "In short, there are some positive signs that farmers can meet the environmental challenges.",
+      "words": [
+        {
+          "word": "In",
+          "meaning": "Tóm lại",
+          "ipa": "/ɪn/"
+        },
+        {
+          "word": "short",
+          "meaning": "lại",
+          "ipa": "/ʃɔːrt/"
+        },
+        {
+          "word": "there",
+          "meaning": "có",
+          "ipa": "/ðeər/"
+        },
+        {
+          "word": "are",
+          "meaning": "có",
+          "ipa": "/ɑːr/"
+        },
+        {
+          "word": "some",
+          "meaning": "một vài",
+          "ipa": "/sʌm/"
+        },
+        {
+          "word": "positive",
+          "meaning": "tích cực",
+          "ipa": "/ˈpɒzətɪv/"
+        },
+        {
+          "word": "signs",
+          "meaning": "dấu hiệu",
+          "ipa": "/saɪnz/"
+        },
+        {
+          "word": "that",
+          "meaning": "rằng",
+          "ipa": "/ðæt/"
+        },
+        {
+          "word": "farmers",
+          "meaning": "nông dân",
+          "ipa": "/ˈfɑːmərz/"
+        },
+        {
+          "word": "can",
+          "meaning": "có thể",
+          "ipa": "/kæn/"
+        },
+        {
+          "word": "meet",
+          "meaning": "đáp ứng",
+          "ipa": "/miːt/"
+        },
+        {
+          "word": "the",
+          "meaning": "những",
+          "ipa": "/ðə/"
+        },
+        {
+          "word": "environmental",
+          "meaning": "môi trường",
+          "ipa": "/ɪnˌvaɪrənˈmentəl/"
+        },
+        {
+          "word": "challenges",
+          "meaning": "thách thức",
+          "ipa": "/ˈtʃælɪndʒɪz/"
+        }
+      ],
+      "phrases": [],
+      "translation": "Tóm lại, có một số dấu hiệu tích cực cho thấy nông dân có thể đáp ứng những thách thức về môi trường."
+    },
+    {
+      "index": 17,
+      "original": "However, although the impact of farming on the global temperature has been reduced, there is still much to do.",
+      "words": [
+        {
+          "word": "However",
+          "meaning": "Tuy nhiên",
+          "ipa": "/ˈhaʊevər/"
+        },
+        {
+          "word": "although",
+          "meaning": "mặc dù",
+          "ipa": "/ɔːlˈðəʊ/"
+        },
+        {
+          "word": "the",
+          "meaning": "tác động",
+          "ipa": "/ðə/"
+        },
+        {
+          "word": "impact",
+          "meaning": "tác động",
+          "ipa": "/ˈɪmpækt/"
+        },
+        {
+          "word": "of",
+          "meaning": "của",
+          "ipa": "/ɒv/"
+        },
+        {
+          "word": "farming",
+          "meaning": "nông nghiệp",
+          "ipa": "/ˈfɑːmɪŋ/"
+        },
+        {
+          "word": "on",
+          "meaning": "trên",
+          "ipa": "/ɒn/"
+        },
+        {
+          "word": "the",
+          "meaning": "toàn cầu",
+          "ipa": "/ðə/"
+        },
+        {
+          "word": "global",
+          "meaning": "toàn cầu",
+          "ipa": "/ˈɡləʊbəl/"
+        },
+        {
+          "word": "temperature",
+          "meaning": "nhiệt độ",
+          "ipa": "/ˈtempərətʃə/"
+        },
+        {
+          "word": "has",
+          "meaning": "đã",
+          "ipa": "/hæz/"
+        },
+        {
+          "word": "been",
+          "meaning": "được",
+          "ipa": "/biːn/"
+        },
+        {
+          "word": "reduced",
+          "meaning": "giảm",
+          "ipa": "/rɪˈdjuːst/"
+        },
+        {
+          "word": "there",
+          "meaning": "vẫn",
+          "ipa": "/ðeər/"
+        },
+        {
+          "word": "is",
+          "meaning": "còn",
+          "ipa": "/ɪz/"
+        },
+        {
+          "word": "still",
+          "meaning": "nhiều",
+          "ipa": "/stɪl/"
+        },
+        {
+          "word": "much",
+          "meaning": "việc",
+          "ipa": "/mʌtʃ/"
+        },
+        {
+          "word": "to",
+          "meaning": "phải",
+          "ipa": "/tuː/"
+        },
+        {
+          "word": "do",
+          "meaning": "làm",
+          "ipa": "/duː/"
+        }
+      ],
+      "phrases": [],
+      "translation": "Tuy nhiên, mặc dù tác động của ngành nông nghiệp đến nhiệt độ toàn cầu đã giảm, nhưng vẫn còn nhiều việc phải làm."
+    }
+  ],
+  "teacherNotes": "",
+  "tags": [],
+  "id": "95bb13e5-1bbf-460e-a481-355b17fb091c",
+  "usageCount": 0,
+  "lastAccessed": "2025-08-25T05:37:07.619Z"
+}

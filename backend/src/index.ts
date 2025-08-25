@@ -3,6 +3,7 @@ import cors from 'cors';
 import path from 'path';
 import markdownRoutes from './routes/markdown';
 import vocabularyRoutes from './routes/vocabulary';
+import translationRoutes from './routes/translation';
 
 const app = express();
 const PORT = process.env.PORT || 3001;
@@ -13,6 +14,7 @@ app.use(express.json());
 // API Routes
 app.use('/api/markdown', markdownRoutes);
 app.use('/api/vocabulary', vocabularyRoutes);
+app.use('/api/translations', translationRoutes);
 
 // Serve static files from the static directory
 app.use('/static', express.static(path.join(__dirname, '../../frontend/static')));
@@ -47,6 +49,16 @@ app.get('/format-data-test-simple', (req, res) => {
   res.sendFile(path.join(__dirname, '../format-data-test-simple.html'));
 });
 
+// Serve the translation helper
+app.get('/translation-helper', (req, res) => {
+  res.sendFile(path.join(__dirname, '../../frontend/translation-helper.html'));
+});
+
+// Serve the teacher dashboard
+app.get('/teacher-dashboard', (req, res) => {
+  res.sendFile(path.join(__dirname, '../../frontend/teacher-dashboard.html'));
+});
+
 app.listen(PORT, () => {
   console.log(`Server running on port ${PORT}`);
   console.log(`\nAvailable Routes:`);
@@ -55,7 +67,10 @@ app.listen(PORT, () => {
   console.log(`Vocabulary Quiz Enhanced: http://localhost:${PORT}/vocabulary-quiz-enhanced`);
   console.log(`Formatted Data Viewer: http://localhost:${PORT}/formatted-data-viewer`);
   console.log(`Format Data Test: http://localhost:${PORT}/format-data-test`);
+  console.log(`Translation Helper: http://localhost:${PORT}/translation-helper`);
+  console.log(`Teacher Dashboard: http://localhost:${PORT}/teacher-dashboard`);
   console.log(`\nAPI Endpoints:`);
   console.log(`Process Vocabulary: http://localhost:${PORT}/api/vocabulary/process`);
   console.log(`Format Data: http://localhost:${PORT}/api/vocabulary/format-data`);
+  console.log(`Translation API: http://localhost:${PORT}/api/translations/*`);
 });

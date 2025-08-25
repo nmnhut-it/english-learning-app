@@ -45,6 +45,17 @@ if not exist "frontend" (
     exit /b 1
 )
 
+:: Kill any existing processes on our ports
+echo Checking for existing processes on ports...
+for /f "tokens=5" %%a in ('netstat -aon ^| findstr :3001') do (
+    echo Killing existing process on port 3001...
+    taskkill /PID %%a /F 2>nul
+)
+for /f "tokens=5" %%a in ('netstat -aon ^| findstr :3000') do (
+    echo Killing existing process on port 3000...
+    taskkill /PID %%a /F 2>nul
+)
+
 :: Install dependencies if node_modules don't exist
 echo Checking backend dependencies...
 if not exist "backend\node_modules" (
@@ -56,6 +67,10 @@ if not exist "backend\node_modules" (
     echo.
 ) else (
     echo Backend dependencies already installed
+    :: Update dependencies in case new ones were added
+    cd backend
+    call npm install --silent
+    cd ..
     echo.
 )
 
@@ -92,29 +107,36 @@ start "English Learning Frontend" cmd /k "cd /d frontend && npm run dev"
 :: Wait for servers to fully start
 timeout /t 5 /nobreak >nul
 
-:: Open both applications in browser
-echo.
-echo Opening applications in browser...
-start http://localhost:3000
-timeout /t 2 /nobreak >nul
-start http://localhost:3001/vocabulary-tool
-
 :: Display final information
 echo.
 echo ========================================
 echo All services are running!
 echo ========================================
 echo.
+echo === Main Services ===
 echo Main Application: http://localhost:3000
-echo Vocabulary Tool: http://localhost:3001/vocabulary-tool
 echo Backend API: http://localhost:3001/api
 echo.
-echo Vocabulary files will be saved to:
-echo   markdown-files\global-success-[grade]\vocabulary\
+echo === Translation System (NEW) ===
+echo Translation Helper: http://localhost:3001/translation-helper
+echo Teacher Dashboard: http://localhost:3001/teacher-dashboard
+echo.
+echo === Vocabulary Tools ===
+echo Vocabulary Tool: http://localhost:3001/vocabulary
+echo Vocabulary Quiz: http://localhost:3001/vocabulary-quiz
+echo Vocabulary Quiz Enhanced: http://localhost:3001/vocabulary-quiz-enhanced
+echo.
+echo === Data Management ===
+echo Formatted Data Viewer: http://localhost:3001/formatted-data-viewer
+echo.
+echo === File Storage ===
+echo Vocabulary files: markdown-files\global-success-[grade]\vocabulary\
+echo Translation database: translation-database\
 echo.
 echo To stop all servers:
-echo   1. Close all command windows, OR
-echo   2. Press Ctrl+C in each window
+echo   1. Run stop-app.bat, OR
+echo   2. Close all command windows, OR
+echo   3. Press Ctrl+C in each window
 echo.
 echo This window can be closed safely.
 echo ========================================

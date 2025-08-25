@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "timestamp": "2024-01-01T10:00:00Z",
+    "book": "Global Success",
+    "grade": 10,
+    "unit": 1,
+    "lesson": "Reading",
+    "context": "Test context",
+    "totalSentences": 1
+  },
+  "originalText": "Hello world",
+  "analysis": [
+    {
+      "index": 1,
+      "original": "Hello world",
+      "words": [
+        {
+          "word": "Hello",
+          "meaning": "Xin ch�o",
+          "ipa": "/h?'l??/"
+        },
+        {
+          "word": "world",
+          "meaning": "th? gi?i",
+          "ipa": "/w??ld/"
+        }
+      ],
+      "phrases": [],
+      "translation": "Xin ch�o th? gi?i"
+    }
+  ],
+  "id": "5a0a9526-3439-4011-b90d-51371094b881",
+  "usageCount": 0,
+  "lastAccessed": "2025-08-25T05:30:27.992Z"
+}

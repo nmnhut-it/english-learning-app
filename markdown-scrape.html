@@ -1,0 +1,645 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web to Markdown Converter</title>
+    
+    <!-- Libraries for content extraction and markdown conversion -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/turndown/7.1.2/turndown.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/dompurify/3.0.6/purify.min.js"></script>
+    <script src="https://unpkg.com/@mozilla/readability@0.4.4/Readability.js"></script>
+    
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+        }
+
+        .container {
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+            max-width: 1000px;
+            width: 100%;
+            padding: 40px;
+        }
+
+        h1 {
+            color: #333;
+            margin-bottom: 10px;
+            font-size: 2.5em;
+            text-align: center;
+        }
+
+        .subtitle {
+            text-align: center;
+            color: #666;
+            margin-bottom: 20px;
+        }
+
+        .tabs {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 30px;
+            border-bottom: 2px solid #e0e0e0;
+        }
+
+        .tab {
+            padding: 10px 20px;
+            background: none;
+            border: none;
+            color: #666;
+            cursor: pointer;
+            font-size: 16px;
+            border-bottom: 3px solid transparent;
+            transition: all 0.3s;
+        }
+
+        .tab.active {
+            color: #667eea;
+            border-bottom-color: #667eea;
+        }
+
+        .tab-content {
+            display: none;
+        }
+
+        .tab-content.active {
+            display: block;
+        }
+
+        .input-group {
+            margin-bottom: 20px;
+        }
+
+        label {
+            display: block;
+            margin-bottom: 8px;
+            color: #555;
+            font-weight: 500;
+        }
+
+        input[type="text"],
+        input[type="password"],
+        textarea {
+            width: 100%;
+            padding: 12px 15px;
+            border: 2px solid #e0e0e0;
+            border-radius: 10px;
+            font-size: 16px;
+            transition: border-color 0.3s;
+            font-family: inherit;
+        }
+
+        textarea {
+            min-height: 150px;
+            resize: vertical;
+        }
+
+        input:focus,
+        textarea:focus {
+            outline: none;
+            border-color: #667eea;
+        }
+
+        .button-group {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 30px;
+        }
+
+        button {
+            flex: 1;
+            padding: 12px 25px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border: none;
+            border-radius: 10px;
+            font-size: 16px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+
+        button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 20px rgba(102, 126, 234, 0.4);
+        }
+
+        button:disabled {
+            background: #ccc;
+            cursor: not-allowed;
+            transform: none;
+        }
+
+        button.secondary {
+            background: #6c757d;
+        }
+
+        .output-section {
+            margin-top: 30px;
+        }
+
+        .output-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 10px;
+        }
+
+        .output-header h3 {
+            color: #333;
+        }
+
+        .copy-btn {
+            padding: 8px 15px;
+            background: #28a745;
+            color: white;
+            border: none;
+            border-radius: 6px;
+            font-size: 14px;
+            cursor: pointer;
+            transition: background 0.3s;
+        }
+
+        .copy-btn:hover {
+            background: #218838;
+        }
+
+        #output {
+            width: 100%;
+            min-height: 300px;
+            max-height: 500px;
+            padding: 15px;
+            border: 2px solid #e0e0e0;
+            border-radius: 10px;
+            font-family: 'Courier New', monospace;
+            font-size: 14px;
+            background: #f8f9fa;
+            white-space: pre-wrap;
+            word-wrap: break-word;
+            overflow-y: auto;
+        }
+
+        .status {
+            padding: 10px 15px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            display: none;
+        }
+
+        .status.info {
+            background: #d1ecf1;
+            color: #0c5460;
+            border: 1px solid #bee5eb;
+        }
+
+        .status.success {
+            background: #d4edda;
+            color: #155724;
+            border: 1px solid #c3e6cb;
+        }
+
+        .status.error {
+            background: #f8d7da;
+            color: #721c24;
+            border: 1px solid #f5c6cb;
+        }
+
+        .info-box {
+            background: #f0f8ff;
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            border-left: 4px solid #667eea;
+        }
+
+        .info-box h4 {
+            color: #333;
+            margin-bottom: 10px;
+        }
+
+        .info-box ul {
+            margin-left: 20px;
+            color: #666;
+        }
+
+        .info-box li {
+            margin: 5px 0;
+        }
+
+        .loader {
+            display: none;
+            text-align: center;
+            margin: 20px 0;
+        }
+
+        .loader.active {
+            display: block;
+        }
+
+        .spinner {
+            border: 4px solid #f3f3f3;
+            border-top: 4px solid #667eea;
+            border-radius: 50%;
+            width: 40px;
+            height: 40px;
+            animation: spin 1s linear infinite;
+            margin: 0 auto;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        .method-badge {
+            display: inline-block;
+            padding: 4px 8px;
+            border-radius: 4px;
+            font-size: 12px;
+            font-weight: 600;
+            margin-left: 10px;
+        }
+
+        .method-badge.client {
+            background: #d4edda;
+            color: #155724;
+        }
+
+        .method-badge.gemini {
+            background: #fff3cd;
+            color: #856404;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🌐 Web to Markdown Converter</h1>
+        <p class="subtitle">Extract and convert web content to clean Markdown</p>
+
+        <div class="tabs">
+            <button class="tab active" onclick="switchTab('client')">
+                Client-Side Extraction
+                <span class="method-badge client">Fast & Private</span>
+            </button>
+            <button class="tab" onclick="switchTab('gemini')">
+                Gemini AI Enhancement
+                <span class="method-badge gemini">AI-Powered</span>
+            </button>
+        </div>
+
+        <div id="status" class="status"></div>
+
+        <!-- Client-side tab -->
+        <div id="client-tab" class="tab-content active">
+            <div class="info-box">
+                <h4>📚 Using Libraries:</h4>
+                <ul>
+                    <li><strong>Readability.js</strong> - Mozilla's library for extracting readable content</li>
+                    <li><strong>Turndown</strong> - Converts HTML to Markdown</li>
+                    <li><strong>DOMPurify</strong> - Sanitizes HTML for security</li>
+                </ul>
+            </div>
+
+            <div class="input-group">
+                <label for="url-client">Website URL</label>
+                <input type="text" id="url-client" placeholder="https://example.com/article">
+            </div>
+
+            <div class="input-group">
+                <label for="html-input">Or Paste HTML Content Directly (Optional)</label>
+                <textarea id="html-input" placeholder="Paste HTML content here if you have it..."></textarea>
+            </div>
+
+            <div class="button-group">
+                <button onclick="convertWithLibraries()">Convert to Markdown</button>
+                <button class="secondary" onclick="clearAll()">Clear</button>
+            </div>
+        </div>
+
+        <!-- Gemini tab -->
+        <div id="gemini-tab" class="tab-content">
+            <div class="info-box">
+                <h4>🤖 Enhanced with Gemini AI:</h4>
+                <ul>
+                    <li>Better formatting and structure</li>
+                    <li>Intelligent content cleanup</li>
+                    <li>Preserves all important information</li>
+                </ul>
+            </div>
+
+            <div class="input-group">
+                <label for="apiKey">Gemini API Key</label>
+                <input type="password" id="apiKey" placeholder="Enter your Gemini API key">
+                <div style="margin-top: 10px; font-size: 14px; color: #666;">
+                    Get your API key from <a href="https://makersuite.google.com/app/apikey" target="_blank" style="color: #667eea;">Google AI Studio</a>
+                </div>
+            </div>
+
+            <div class="input-group">
+                <label for="url-gemini">Website URL</label>
+                <input type="text" id="url-gemini" placeholder="https://example.com/article">
+            </div>
+
+            <div class="button-group">
+                <button onclick="convertWithGemini()">Convert with Gemini</button>
+                <button class="secondary" onclick="clearAll()">Clear</button>
+            </div>
+        </div>
+
+        <div class="loader" id="loader">
+            <div class="spinner"></div>
+            <p style="margin-top: 10px; color: #666;">Processing content...</p>
+        </div>
+
+        <div class="output-section" id="outputSection" style="display: none;">
+            <div class="output-header">
+                <h3>📝 Markdown Output</h3>
+                <button class="copy-btn" onclick="copyToClipboard()">Copy to Clipboard</button>
+            </div>
+            <textarea id="output" readonly></textarea>
+        </div>
+    </div>
+
+    <script>
+        // Initialize Turndown service with options
+        const turndownService = new TurndownService({
+            headingStyle: 'atx',
+            codeBlockStyle: 'fenced',
+            bulletListMarker: '-',
+            strongDelimiter: '**',
+            linkStyle: 'inlined'
+        });
+
+        // Add custom rules for better conversion
+        turndownService.addRule('strikethrough', {
+            filter: ['del', 's', 'strike'],
+            replacement: function (content) {
+                return '~~' + content + '~~';
+            }
+        });
+
+        function switchTab(tab) {
+            // Update tab buttons
+            document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+            event.target.classList.add('active');
+            
+            // Update tab content
+            document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
+            document.getElementById(`${tab}-tab`).classList.add('active');
+            
+            // Clear status
+            document.getElementById('status').style.display = 'none';
+        }
+
+        async function convertWithLibraries() {
+            const url = document.getElementById('url-client').value.trim();
+            const htmlInput = document.getElementById('html-input').value.trim();
+            const loader = document.getElementById('loader');
+            const outputSection = document.getElementById('outputSection');
+            const output = document.getElementById('output');
+
+            if (!url && !htmlInput) {
+                showStatus('Please enter a URL or paste HTML content', 'error');
+                return;
+            }
+
+            loader.classList.add('active');
+            outputSection.style.display = 'none';
+
+            try {
+                let htmlContent = htmlInput;
+
+                if (!htmlContent && url) {
+                    // Fetch the webpage using CORS proxy
+                    showStatus('Fetching webpage content...', 'info');
+                    const proxyUrl = `https://corsproxy.io/?${encodeURIComponent(url)}`;
+                    const response = await fetch(proxyUrl);
+                    
+                    if (!response.ok) {
+                        throw new Error('Failed to fetch webpage. Try pasting the HTML directly.');
+                    }
+                    
+                    htmlContent = await response.text();
+                }
+
+                // Sanitize HTML for security
+                showStatus('Sanitizing HTML...', 'info');
+                const cleanHtml = DOMPurify.sanitize(htmlContent);
+
+                // Parse HTML
+                const parser = new DOMParser();
+                const doc = parser.parseFromString(cleanHtml, 'text/html');
+
+                // Use Readability to extract main content
+                showStatus('Extracting main content with Readability...', 'info');
+                
+                // Clone the document for Readability
+                const documentClone = doc.cloneNode(true);
+                const article = new Readability(documentClone, {
+                    debug: false,
+                    maxElemsToParse: 0, // No limit
+                    nbTopCandidates: 5,
+                    charThreshold: 500
+                }).parse();
+
+                if (!article || !article.content) {
+                    // Fallback: If Readability fails, use the whole body
+                    showStatus('Readability couldn\'t extract content, using fallback...', 'info');
+                    const bodyContent = doc.body ? doc.body.innerHTML : cleanHtml;
+                    const markdown = turndownService.turndown(bodyContent);
+                    output.value = `# ${doc.title || 'Untitled'}\n\n${markdown}`;
+                } else {
+                    // Convert to Markdown using Turndown
+                    showStatus('Converting to Markdown with Turndown...', 'info');
+                    let markdown = turndownService.turndown(article.content);
+                    
+                    // Add metadata if available
+                    let finalOutput = '';
+                    if (article.title) {
+                        finalOutput += `# ${article.title}\n\n`;
+                    }
+                    if (article.byline) {
+                        finalOutput += `**Author:** ${article.byline}\n\n`;
+                    }
+                    if (article.excerpt) {
+                        finalOutput += `> ${article.excerpt}\n\n`;
+                    }
+                    finalOutput += markdown;
+                    
+                    output.value = finalOutput;
+                }
+
+                outputSection.style.display = 'block';
+                showStatus('Successfully converted to Markdown!', 'success');
+
+            } catch (error) {
+                console.error('Error:', error);
+                showStatus(`Error: ${error.message}`, 'error');
+            } finally {
+                loader.classList.remove('active');
+            }
+        }
+
+        async function convertWithGemini() {
+            const apiKey = document.getElementById('apiKey').value.trim();
+            const url = document.getElementById('url-gemini').value.trim();
+            const loader = document.getElementById('loader');
+            const outputSection = document.getElementById('outputSection');
+            const output = document.getElementById('output');
+
+            if (!apiKey) {
+                showStatus('Please enter your Gemini API key', 'error');
+                return;
+            }
+
+            if (!url) {
+                showStatus('Please enter a URL', 'error');
+                return;
+            }
+
+            loader.classList.add('active');
+            outputSection.style.display = 'none';
+
+            try {
+                // First, fetch and extract with libraries
+                showStatus('Fetching and extracting content...', 'info');
+                const proxyUrl = `https://corsproxy.io/?${encodeURIComponent(url)}`;
+                const response = await fetch(proxyUrl);
+                
+                if (!response.ok) {
+                    throw new Error('Failed to fetch webpage');
+                }
+                
+                const htmlContent = await response.text();
+                const cleanHtml = DOMPurify.sanitize(htmlContent);
+                const parser = new DOMParser();
+                const doc = parser.parseFromString(cleanHtml, 'text/html');
+                
+                // Extract with Readability first
+                const documentClone = doc.cloneNode(true);
+                const article = new Readability(documentClone).parse();
+                
+                const textContent = article ? article.textContent : doc.body.innerText;
+
+                // Use Gemini to enhance the markdown
+                showStatus('Enhancing with Gemini AI...', 'info');
+                
+                const prompt = `Convert the following webpage content to clean, well-structured Markdown. 
+                IMPORTANT: Preserve the EXACT text content - do not summarize, paraphrase, or omit any information.
+                
+                Requirements:
+                - Keep ALL the original text content intact
+                - Use proper Markdown headers (# ## ###) for titles and sections
+                - Format lists properly
+                - Preserve links if present
+                - Keep code blocks formatted with proper syntax highlighting
+                - Make the content readable and well-organized
+                - Do NOT summarize or shorten the actual content
+                - Maintain the original meaning and information
+                
+                Webpage content:
+                ${textContent}`;
+
+                const geminiResponse = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${apiKey}`, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({
+                        contents: [{
+                            parts: [{
+                                text: prompt
+                            }]
+                        }],
+                        generationConfig: {
+                            temperature: 0.3,
+                            maxOutputTokens: 8192,
+                        }
+                    })
+                });
+
+                if (!geminiResponse.ok) {
+                    const error = await geminiResponse.json();
+                    throw new Error(error.error?.message || 'Gemini API request failed');
+                }
+
+                const geminiData = await geminiResponse.json();
+                const markdown = geminiData.candidates[0]?.content?.parts[0]?.text;
+
+                if (!markdown) {
+                    throw new Error('No response from Gemini');
+                }
+
+                output.value = markdown;
+                outputSection.style.display = 'block';
+                showStatus('Successfully enhanced with Gemini AI!', 'success');
+
+            } catch (error) {
+                console.error('Error:', error);
+                showStatus(`Error: ${error.message}`, 'error');
+            } finally {
+                loader.classList.remove('active');
+            }
+        }
+
+        function showStatus(message, type) {
+            const status = document.getElementById('status');
+            status.textContent = message;
+            status.className = `status ${type}`;
+            status.style.display = 'block';
+        }
+
+        function copyToClipboard() {
+            const output = document.getElementById('output');
+            const copyBtn = document.querySelector('.copy-btn');
+            
+            output.select();
+            document.execCommand('copy');
+            
+            const originalText = copyBtn.textContent;
+            copyBtn.textContent = 'Copied!';
+            copyBtn.style.background = '#17a2b8';
+            
+            setTimeout(() => {
+                copyBtn.textContent = originalText;
+                copyBtn.style.background = '#28a745';
+            }, 2000);
+        }
+
+        function clearAll() {
+            document.getElementById('url-client').value = '';
+            document.getElementById('url-gemini').value = '';
+            document.getElementById('html-input').value = '';
+            document.getElementById('output').value = '';
+            document.getElementById('outputSection').style.display = 'none';
+            document.getElementById('status').style.display = 'none';
+        }
+
+        // Allow Enter key to trigger conversion
+        document.addEventListener('keypress', function(e) {
+            if (e.key === 'Enter' && e.target.tagName === 'INPUT') {
+                const activeTab = document.querySelector('.tab-content.active').id;
+                if (activeTab === 'client-tab') {
+                    convertWithLibraries();
+                } else {
+                    convertWithGemini();
+                }
+            }
+        });
+    </script>
+</body>
+</html>
