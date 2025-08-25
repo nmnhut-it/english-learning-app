@@ -291,6 +291,16 @@
             margin-top: 20px;
         }
 
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(-20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        @keyframes fadeOut {
+            from { opacity: 1; transform: translateY(0); }
+            to { opacity: 0; transform: translateY(-20px); }
+        }
+
         @media (max-width: 768px) {
             .header h1 {
                 font-size: 1.8em;
@@ -413,7 +423,10 @@
                 
                 <!-- Teacher Notes Section -->
                 <div class="teacher-notes-section">
-                    <div class="section-title">📝 Teacher Notes</div>
+                    <div class="section-title">📝 Teacher Notes (Optional)</div>
+                    <p style="font-size: 0.9em; color: #666; margin-bottom: 15px;">
+                        ✅ Translation auto-saved! Add notes below if needed.
+                    </p>
                     <div class="form-group">
                         <label for="teacherNotes">Add notes for future reference</label>
                         <textarea id="teacherNotes" placeholder="Add teaching tips, common mistakes, or additional explanations..."></textarea>
@@ -422,7 +435,7 @@
                         <label for="tags">Tags (comma-separated)</label>
                         <input type="text" id="tags" placeholder="grammar, vocabulary, speaking, etc.">
                     </div>
-                    <button id="saveToBackendBtn" class="btn btn-success">💾 Save to Database</button>
+                    <button id="saveToBackendBtn" class="btn btn-success">💾 Update with Notes</button>
                 </div>
             </div>
         </div>
@@ -545,6 +558,9 @@
 
                 displayResults(parsedData);
 
+                // AUTO-SAVE after Gemini response is rendered
+                autoSaveTranslation();
+
             } catch (error) {
                 console.error('Translation error:', error);
                 resultContent.innerHTML = `
@@ -552,6 +568,49 @@
                         <strong>Error:</strong> ${error.message}
                     </div>
                 `;
+            }
+        }
+
+        // Auto-save function (called automatically after translation)
+        async function autoSaveTranslation() {
+            if (!currentTranslation) return;
+
+            const backendUrl = document.getElementById('backendUrl').value;
+            
+            try {
+                const response = await fetch(`${backendUrl}/api/translations/save`, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify(currentTranslation)
+                });
+
+                if (!response.ok) {
+                    console.error('Auto-save failed:', response.status);
+                    return;
+                }
+
+                const result = await response.json();
+                
+                // Show auto-save indicator
+                const indicator = document.createElement('div');
+                indicator.style.cssText = 'position: fixed; top: 20px; right: 20px; background: #4caf50; color: white; padding: 10px 20px; border-radius: 5px; z-index: 1000; animation: fadeIn 0.5s;';
+                indicator.innerHTML = '✅ Auto-saved & Vocabulary exported';
+                document.body.appendChild(indicator);
+                
+                // Remove indicator after 3 seconds
+                setTimeout(() => {
+                    indicator.style.animation = 'fadeOut 0.5s';
+                    setTimeout(() => indicator.remove(), 500);
+                }, 3000);
+
+                console.log(`✅ Auto-saved translation with ${result.data.analysis.length} sentences`);
+                console.log(`✅ Vocabulary auto-exported to: ${new Date().toISOString().split('T')[0]}/grade-${currentTranslation.metadata.grade}-unit-${currentTranslation.metadata.unit}-${currentTranslation.metadata.lesson.toLowerCase().replace(/\s+/g, '-')}.json`);
+
+            } catch (error) {
+                console.error('Auto-save error:', error);
+                // Don't show error to user - auto-save is silent
             }
         }
 
