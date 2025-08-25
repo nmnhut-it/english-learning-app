@@ -1,0 +1,533 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Vocabulary Review - Mobile Friendly</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 10px;
+        }
+
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 15px;
+            overflow: hidden;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+        }
+
+        .header {
+            background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%);
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+
+        .header h1 {
+            font-size: 1.8em;
+            margin-bottom: 5px;
+        }
+
+        .header p {
+            font-size: 0.95em;
+            opacity: 0.95;
+        }
+
+        .info-bar {
+            background: #f8f9fa;
+            padding: 15px;
+            border-bottom: 2px solid #e0e0e0;
+            font-size: 0.9em;
+        }
+
+        .info-bar strong {
+            color: #667eea;
+        }
+
+        .content {
+            padding: 15px;
+        }
+
+        .section {
+            margin-bottom: 25px;
+        }
+
+        .section-title {
+            font-size: 1.2em;
+            color: #333;
+            margin-bottom: 15px;
+            padding-bottom: 8px;
+            border-bottom: 2px solid #667eea;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .word-count {
+            font-size: 0.9em;
+            color: #666;
+            font-weight: normal;
+        }
+
+        .vocabulary-list {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+
+        .vocab-item {
+            background: #f8f9fa;
+            padding: 12px;
+            border-radius: 8px;
+            border-left: 4px solid #667eea;
+            transition: all 0.2s;
+        }
+
+        .vocab-item:active {
+            transform: scale(0.98);
+            background: #e3f2fd;
+        }
+
+        .vocab-word {
+            font-size: 1.1em;
+            font-weight: 600;
+            color: #2c3e50;
+            margin-bottom: 5px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .vocab-type {
+            font-size: 0.75em;
+            padding: 2px 6px;
+            background: #667eea;
+            color: white;
+            border-radius: 4px;
+            font-weight: normal;
+        }
+
+        .vocab-meaning {
+            color: #555;
+            font-size: 0.95em;
+            margin-bottom: 3px;
+        }
+
+        .vocab-pronunciation {
+            color: #888;
+            font-size: 0.85em;
+            font-style: italic;
+        }
+
+        .phrase-item {
+            background: #fff3e0;
+            border-left-color: #ff9800;
+        }
+
+        .phrase-item .vocab-type {
+            background: #ff9800;
+        }
+
+        .no-data {
+            text-align: center;
+            padding: 40px;
+            color: #999;
+        }
+
+        .action-buttons {
+            position: sticky;
+            bottom: 0;
+            background: white;
+            padding: 15px;
+            border-top: 2px solid #e0e0e0;
+            display: flex;
+            gap: 10px;
+        }
+
+        .btn {
+            flex: 1;
+            padding: 12px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border: none;
+            border-radius: 8px;
+            font-size: 1em;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .btn:active {
+            transform: scale(0.95);
+        }
+
+        .btn-secondary {
+            background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+        }
+
+        .summary-stats {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+
+        .stat-card {
+            background: #f8f9fa;
+            padding: 15px;
+            border-radius: 8px;
+            text-align: center;
+        }
+
+        .stat-number {
+            font-size: 1.5em;
+            font-weight: bold;
+            color: #667eea;
+        }
+
+        .stat-label {
+            font-size: 0.85em;
+            color: #666;
+            margin-top: 5px;
+        }
+
+        @media (max-width: 480px) {
+            .header h1 {
+                font-size: 1.5em;
+            }
+
+            .vocab-word {
+                font-size: 1em;
+            }
+
+            .summary-stats {
+                grid-template-columns: repeat(2, 1fr);
+            }
+        }
+
+        .loading {
+            text-align: center;
+            padding: 40px;
+        }
+
+        .spinner {
+            border: 4px solid #f3f3f3;
+            border-top: 4px solid #667eea;
+            border-radius: 50%;
+            width: 40px;
+            height: 40px;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 20px;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>📚 Vocabulary Review</h1>
+            <p id="headerInfo">Loading...</p>
+        </div>
+
+        <div class="info-bar" id="infoBar">
+            <!-- Dynamic info will be inserted here -->
+        </div>
+
+        <div class="content" id="content">
+            <div class="loading">
+                <div class="spinner"></div>
+                <p>Loading vocabulary...</p>
+            </div>
+        </div>
+
+        <div class="action-buttons">
+            <button class="btn" onclick="exportForQuiz()">📝 Export for Quiz</button>
+            <button class="btn btn-secondary" onclick="shareVocabulary()">📤 Share</button>
+        </div>
+    </div>
+
+    <script>
+        let vocabularyData = null;
+
+        // Load vocabulary data from localStorage
+        function loadVocabularyData() {
+            try {
+                const stored = localStorage.getItem('vocabularyData');
+                if (stored) {
+                    vocabularyData = JSON.parse(stored);
+                    displayVocabulary();
+                } else {
+                    showNoData();
+                }
+            } catch (error) {
+                console.error('Error loading vocabulary:', error);
+                showNoData();
+            }
+        }
+
+        function displayVocabulary() {
+            if (!vocabularyData) return;
+
+            // Update header
+            const headerInfo = document.getElementById('headerInfo');
+            if (vocabularyData.date) {
+                headerInfo.textContent = `Date: ${vocabularyData.date}`;
+            } else if (vocabularyData.period === 'last-week') {
+                headerInfo.textContent = 'Last Week\'s Vocabulary';
+            } else {
+                headerInfo.textContent = 'Vocabulary Collection';
+            }
+
+            // Update info bar
+            const infoBar = document.getElementById('infoBar');
+            let infoHtml = '';
+
+            if (vocabularyData.lessons) {
+                // Multiple lessons (last week view)
+                const totalWords = vocabularyData.totalWords || 0;
+                const lessonCount = vocabularyData.lessons.length;
+                infoHtml = `
+                    <strong>Period:</strong> Last 7 days<br>
+                    <strong>Lessons:</strong> ${lessonCount}<br>
+                    <strong>Total Words:</strong> ${totalWords}
+                `;
+            } else if (vocabularyData.data && vocabularyData.data.length > 0) {
+                // Single or multiple lessons for a day
+                const firstData = vocabularyData.data[0];
+                if (firstData.metadata) {
+                    infoHtml = `
+                        <strong>Grade:</strong> ${firstData.metadata.grade} | 
+                        <strong>Book:</strong> ${firstData.metadata.book}<br>
+                        <strong>Lessons:</strong> ${vocabularyData.data.length}
+                    `;
+                }
+            }
+
+            infoBar.innerHTML = infoHtml;
+
+            // Display vocabulary content
+            const content = document.getElementById('content');
+            let html = '';
+
+            // Summary statistics
+            const allVocab = [];
+            const allPhrases = [];
+
+            if (vocabularyData.data) {
+                vocabularyData.data.forEach(lessonData => {
+                    if (lessonData.vocabulary) {
+                        lessonData.vocabulary.forEach(item => {
+                            if (item.type === 'phrase') {
+                                allPhrases.push(item);
+                            } else {
+                                allVocab.push(item);
+                            }
+                        });
+                    }
+                });
+            }
+
+            html += `
+                <div class="summary-stats">
+                    <div class="stat-card">
+                        <div class="stat-number">${allVocab.length}</div>
+                        <div class="stat-label">Words</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-number">${allPhrases.length}</div>
+                        <div class="stat-label">Phrases</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-number">${allVocab.length + allPhrases.length}</div>
+                        <div class="stat-label">Total</div>
+                    </div>
+                </div>
+            `;
+
+            // Display vocabulary by lesson
+            if (vocabularyData.data && vocabularyData.data.length > 0) {
+                vocabularyData.data.forEach((lessonData, index) => {
+                    if (lessonData.vocabulary && lessonData.vocabulary.length > 0) {
+                        const words = lessonData.vocabulary.filter(v => v.type !== 'phrase');
+                        const phrases = lessonData.vocabulary.filter(v => v.type === 'phrase');
+
+                        if (lessonData.metadata) {
+                            html += `
+                                <div class="section">
+                                    <div class="section-title">
+                                        Unit ${lessonData.metadata.unit} - ${lessonData.metadata.lesson}
+                                        <span class="word-count">${lessonData.metadata.date}</span>
+                                    </div>
+                            `;
+                        } else {
+                            html += '<div class="section">';
+                        }
+
+                        // Words section
+                        if (words.length > 0) {
+                            html += `
+                                <div class="section-title">
+                                    📝 Words
+                                    <span class="word-count">(${words.length})</span>
+                                </div>
+                                <div class="vocabulary-list">
+                            `;
+
+                            words.forEach(word => {
+                                html += `
+                                    <div class="vocab-item">
+                                        <div class="vocab-word">
+                                            ${word.word}
+                                            <span class="vocab-type">${word.type || 'n'}</span>
+                                        </div>
+                                        <div class="vocab-meaning">${word.meaning}</div>
+                                        ${word.pronunciation ? `<div class="vocab-pronunciation">/${word.pronunciation}/</div>` : ''}
+                                    </div>
+                                `;
+                            });
+
+                            html += '</div>';
+                        }
+
+                        // Phrases section
+                        if (phrases.length > 0) {
+                            html += `
+                                <div class="section-title">
+                                    🔗 Phrases
+                                    <span class="word-count">(${phrases.length})</span>
+                                </div>
+                                <div class="vocabulary-list">
+                            `;
+
+                            phrases.forEach(phrase => {
+                                html += `
+                                    <div class="vocab-item phrase-item">
+                                        <div class="vocab-word">
+                                            ${phrase.word}
+                                            <span class="vocab-type">phrase</span>
+                                        </div>
+                                        <div class="vocab-meaning">${phrase.meaning}</div>
+                                    </div>
+                                `;
+                            });
+
+                            html += '</div>';
+                        }
+
+                        html += '</div>';
+                    }
+                });
+            }
+
+            content.innerHTML = html;
+        }
+
+        function showNoData() {
+            const content = document.getElementById('content');
+            content.innerHTML = `
+                <div class="no-data">
+                    <h3>No vocabulary data found</h3>
+                    <p>Please select vocabulary from the Teacher Dashboard</p>
+                </div>
+            `;
+        }
+
+        function exportForQuiz() {
+            if (!vocabularyData || !vocabularyData.data) {
+                alert('No vocabulary data to export');
+                return;
+            }
+
+            // Combine all vocabulary for quiz format
+            const allVocab = [];
+            vocabularyData.data.forEach(lessonData => {
+                if (lessonData.vocabulary) {
+                    allVocab.push(...lessonData.vocabulary);
+                }
+            });
+
+            const quizData = {
+                metadata: {
+                    exportDate: new Date().toISOString(),
+                    totalWords: allVocab.length
+                },
+                vocabulary: allVocab
+            };
+
+            // Download as JSON
+            const dataStr = JSON.stringify(quizData, null, 2);
+            const dataUri = 'data:application/json;charset=utf-8,' + encodeURIComponent(dataStr);
+            const filename = `vocabulary_quiz_${new Date().toISOString().split('T')[0]}.json`;
+
+            const linkElement = document.createElement('a');
+            linkElement.setAttribute('href', dataUri);
+            linkElement.setAttribute('download', filename);
+            linkElement.click();
+        }
+
+        function shareVocabulary() {
+            if (!vocabularyData) {
+                alert('No vocabulary data to share');
+                return;
+            }
+
+            // Create shareable text
+            let shareText = '📚 Vocabulary List\n\n';
+
+            if (vocabularyData.data) {
+                vocabularyData.data.forEach(lessonData => {
+                    if (lessonData.metadata) {
+                        shareText += `📖 Unit ${lessonData.metadata.unit} - ${lessonData.metadata.lesson}\n`;
+                    }
+
+                    if (lessonData.vocabulary) {
+                        lessonData.vocabulary.forEach(item => {
+                            shareText += `• ${item.word}: ${item.meaning}\n`;
+                        });
+                    }
+                    shareText += '\n';
+                });
+            }
+
+            // Copy to clipboard
+            navigator.clipboard.writeText(shareText).then(() => {
+                alert('Vocabulary copied to clipboard! You can now paste it anywhere.');
+            }).catch(err => {
+                console.error('Error copying to clipboard:', err);
+                // Fallback: show in a textarea
+                const textarea = document.createElement('textarea');
+                textarea.value = shareText;
+                textarea.style.position = 'fixed';
+                textarea.style.top = '50%';
+                textarea.style.left = '50%';
+                textarea.style.transform = 'translate(-50%, -50%)';
+                textarea.style.width = '80%';
+                textarea.style.height = '200px';
+                document.body.appendChild(textarea);
+                textarea.select();
+                document.execCommand('copy');
+                document.body.removeChild(textarea);
+                alert('Vocabulary copied to clipboard!');
+            });
+        }
+
+        // Initialize on load
+        loadVocabularyData();
+    </script>
+</body>
+</html>

@@ -4,6 +4,7 @@ import path from 'path';
 import markdownRoutes from './routes/markdown';
 import vocabularyRoutes from './routes/vocabulary';
 import translationRoutes from './routes/translation';
+import vocabularyExportRoutes from './routes/vocabulary-export';
 
 const app = express();
 const PORT = process.env.PORT || 3001;
@@ -15,6 +16,7 @@ app.use(express.json());
 app.use('/api/markdown', markdownRoutes);
 app.use('/api/vocabulary', vocabularyRoutes);
 app.use('/api/translations', translationRoutes);
+app.use('/api/vocabulary-export', vocabularyExportRoutes);
 
 // Serve static files from the static directory
 app.use('/static', express.static(path.join(__dirname, '../../frontend/static')));
@@ -59,6 +61,11 @@ app.get('/teacher-dashboard', (req, res) => {
   res.sendFile(path.join(__dirname, '../../frontend/teacher-dashboard.html'));
 });
 
+// Serve the vocabulary review page
+app.get('/vocabulary-review', (req, res) => {
+  res.sendFile(path.join(__dirname, '../../frontend/vocabulary-review.html'));
+});
+
 app.listen(PORT, () => {
   console.log(`Server running on port ${PORT}`);
   console.log(`\nAvailable Routes:`);
@@ -69,8 +76,10 @@ app.listen(PORT, () => {
   console.log(`Format Data Test: http://localhost:${PORT}/format-data-test`);
   console.log(`Translation Helper: http://localhost:${PORT}/translation-helper`);
   console.log(`Teacher Dashboard: http://localhost:${PORT}/teacher-dashboard`);
+  console.log(`Vocabulary Review: http://localhost:${PORT}/vocabulary-review`);
   console.log(`\nAPI Endpoints:`);
   console.log(`Process Vocabulary: http://localhost:${PORT}/api/vocabulary/process`);
   console.log(`Format Data: http://localhost:${PORT}/api/vocabulary/format-data`);
   console.log(`Translation API: http://localhost:${PORT}/api/translations/*`);
+  console.log(`Vocabulary Export API: http://localhost:${PORT}/api/vocabulary-export/*`);
 });

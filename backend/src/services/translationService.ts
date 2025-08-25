@@ -6,11 +6,33 @@ interface TranslationWord {
   word: string;
   meaning: string;
   ipa: string;
+  type?: string; // n, v, adj, etc for vocab quiz
 }
 
 interface TranslationPhrase {
   phrase: string;
   meaning: string;
+  type?: string; // phrase type for vocab quiz
+}
+
+interface VocabularyItem {
+  word: string;
+  type: string;
+  meaning: string;
+  pronunciation: string;
+  irregular?: boolean;
+}
+
+interface VocabularyExport {
+  metadata: {
+    date: string;
+    grade: number;
+    book: string;
+    unit: number;
+    lesson: string;
+    totalWords: number;
+  };
+  vocabulary: VocabularyItem[];
 }
 
 interface TranslationSentence {
@@ -111,6 +133,116 @@ export class TranslationService {
     fs.writeFileSync(filePath, JSON.stringify(translations, null, 2), 'utf-8');
   }
 
+  private extractVocabulary(translation: TranslationAnalysis): VocabularyExport {
+    const vocabulary: VocabularyItem[] = [];
+    const seenWords = new Set<string>();
+
+    // Extract words from all sentences
+    translation.analysis.forEach(sentence => {
+      // Add individual words
+      sentence.words.forEach(word => {
+        const key = word.word.toLowerCase();
+        if (!seenWords.has(key)) {
+          seenWords.add(key);
+          vocabulary.push({
+            word: word.word,
+            type: word.type || 'n',
+            meaning: word.meaning,
+            pronunciation: word.ipa.replace(/\//g, ''),
+            irregular: false
+          });
+        }
+      });
+
+      // Add phrases as vocabulary items
+      sentence.phrases.forEach(phrase => {
+        const key = phrase.phrase.toLowerCase();
+        if (!seenWords.has(key)) {
+          seenWords.add(key);
+          vocabulary.push({
+            word: phrase.phrase,
+            type: phrase.type || 'phrase',
+            meaning: phrase.meaning,
+            pronunciation: '',
+            irregular: false
+          });
+        }
+      });
+    });
+
+    return {
+      metadata: {
+        date: new Date().toISOString().split('T')[0],
+        grade: translation.metadata.grade,
+        book: translation.metadata.book,
+        unit: translation.metadata.unit,
+        lesson: translation.metadata.lesson,
+        totalWords: vocabulary.length
+      },
+      vocabulary
+    };
+  }
+
+  private saveVocabularyExport(vocabExport: VocabularyExport): void {
+    const { date, grade, book, unit, lesson } = vocabExport.metadata;
+    
+    // Save by date
+    const datePath = path.join(
+      this.dbPath,
+      'vocabulary-exports',
+      date
+    );
+    this.ensurePath(datePath);
+    
+    const dateFilename = `grade-${grade}-unit-${unit}-${lesson.toLowerCase().replace(/\s+/g, '-')}.json`;
+    const dateFilePath = path.join(datePath, dateFilename);
+    fs.writeFileSync(dateFilePath, JSON.stringify(vocabExport, null, 2), 'utf-8');
+
+    // Also save/update combined vocabulary for the lesson
+    const lessonPath = path.join(
+      this.dbPath,
+      'vocabulary-exports',
+      'by-lesson',
+      `grade-${grade}`,
+      book.toLowerCase().replace(/\s+/g, '-'),
+      `unit-${String(unit).padStart(2, '0')}`
+    );
+    this.ensurePath(lessonPath);
+    
+    const lessonFilename = `${lesson.toLowerCase().replace(/\s+/g, '-')}-vocabulary.json`;
+    const lessonFilePath = path.join(lessonPath, lessonFilename);
+    
+    // Merge with existing vocabulary if file exists
+    let combinedVocab: VocabularyItem[] = vocabExport.vocabulary;
+    if (fs.existsSync(lessonFilePath)) {
+      try {
+        const existing = JSON.parse(fs.readFileSync(lessonFilePath, 'utf-8'));
+        const existingWords = new Set(existing.vocabulary.map((v: VocabularyItem) => v.word.toLowerCase()));
+        
+        // Add new words that don't exist
+        vocabExport.vocabulary.forEach(item => {
+          if (!existingWords.has(item.word.toLowerCase())) {
+            existing.vocabulary.push(item);
+          }
+        });
+        combinedVocab = existing.vocabulary;
+      } catch (e) {
+        console.error('Error merging vocabulary:', e);
+      }
+    }
+
+    const combinedExport = {
+      ...vocabExport,
+      vocabulary: combinedVocab,
+      metadata: {
+        ...vocabExport.metadata,
+        lastUpdated: new Date().toISOString()
+      }
+    };
+    
+    fs.writeFileSync(lessonFilePath, JSON.stringify(combinedExport, null, 2), 'utf-8');
+  }
+
   async saveTranslation(translation: TranslationAnalysis): Promise<SavedTranslation> {
     const { grade, book, unit, lesson } = translation.metadata;
     const filePath = this.getTranslationsFile(grade, book, unit, lesson);
@@ -137,6 +269,11 @@ export class TranslationService {
       `translation_${Date.now()}_${savedTranslation.id}.json`
     );
     fs.writeFileSync(historyFile, JSON.stringify(savedTranslation, null, 2), 'utf-8');
+
+    // AUTO-EXTRACT AND SAVE VOCABULARY
+    const vocabularyExport = this.extractVocabulary(translation);
+    this.saveVocabularyExport(vocabularyExport);
+    console.log(`✅ Auto-exported ${vocabularyExport.vocabulary.length} vocabulary items`);
 
     return savedTranslation;
   }
@@ -341,6 +478,160 @@ export class TranslationService {
 
     this.writeTranslations(filePath, filteredTranslations);
     return true;
+  }
+
+  async getVocabularyByDate(date: string): Promise<VocabularyExport[]> {
+    const datePath = path.join(this.dbPath, 'vocabulary-exports', date);
+    
+    if (!fs.existsSync(datePath)) {
+      return [];
+    }
+
+    const files = fs.readdirSync(datePath);
+    const vocabularyExports: VocabularyExport[] = [];
+
+    files.forEach(file => {
+      if (file.endsWith('.json')) {
+        try {
+          const content = fs.readFileSync(path.join(datePath, file), 'utf-8');
+          vocabularyExports.push(JSON.parse(content));
+        } catch (e) {
+          console.error(`Error reading vocabulary file ${file}:`, e);
+        }
+      }
+    });
+
+    return vocabularyExports;
+  }
+
+  async getVocabularyToday(): Promise<VocabularyExport[]> {
+    const today = new Date().toISOString().split('T')[0];
+    return this.getVocabularyByDate(today);
+  }
+
+  async getVocabularyLastWeek(): Promise<VocabularyExport[]> {
+    const vocabularyExports: VocabularyExport[] = [];
+    const today = new Date();
+    
+    // Get vocabulary from last 7 days
+    for (let i = 1; i <= 7; i++) {
+      const date = new Date(today);
+      date.setDate(date.getDate() - i);
+      const dateStr = date.toISOString().split('T')[0];
+      const dayVocab = await this.getVocabularyByDate(dateStr);
+      vocabularyExports.push(...dayVocab);
+    }
+
+    return vocabularyExports;
+  }
+
+  async getVocabularyByDateAndGrade(date: string, grade: number): Promise<VocabularyExport[]> {
+    const datePath = path.join(this.dbPath, 'vocabulary-exports', date);
+    
+    if (!fs.existsSync(datePath)) {
+      return [];
+    }
+
+    const files = fs.readdirSync(datePath);
+    const vocabularyExports: VocabularyExport[] = [];
+
+    files.forEach(file => {
+      if (file.endsWith('.json') && file.includes(`grade-${grade}-`)) {
+        try {
+          const content = fs.readFileSync(path.join(datePath, file), 'utf-8');
+          const vocabData = JSON.parse(content);
+          // Double check the grade matches
+          if (vocabData.metadata && vocabData.metadata.grade === grade) {
+            vocabularyExports.push(vocabData);
+          }
+        } catch (e) {
+          console.error(`Error reading vocabulary file ${file}:`, e);
+        }
+      }
+    });
+
+    return vocabularyExports;
+  }
+
+  async getVocabularyThisWeekByGrade(grade: number): Promise<VocabularyExport[]> {
+    const vocabularyExports: VocabularyExport[] = [];
+    const today = new Date();
+    
+    // Get vocabulary from last 7 days for specific grade
+    for (let i = 0; i < 7; i++) {
+      const date = new Date(today);
+      date.setDate(date.getDate() - i);
+      const dateStr = date.toISOString().split('T')[0];
+      const dayVocab = await this.getVocabularyByDateAndGrade(dateStr, grade);
+      vocabularyExports.push(...dayVocab);
+    }
+
+    return vocabularyExports;
+  }
+
+  async getVocabularyThisMonthByGrade(grade: number): Promise<VocabularyExport[]> {
+    const vocabularyExports: VocabularyExport[] = [];
+    const today = new Date();
+    const year = today.getFullYear();
+    const month = today.getMonth();
+    
+    // Get all days in current month
+    const daysInMonth = new Date(year, month + 1, 0).getDate();
+    
+    for (let day = 1; day <= daysInMonth; day++) {
+      const date = new Date(year, month, day);
+      if (date <= today) {
+        const dateStr = date.toISOString().split('T')[0];
+        const dayVocab = await this.getVocabularyByDateAndGrade(dateStr, grade);
+        vocabularyExports.push(...dayVocab);
+      }
+    }
+
+    return vocabularyExports;
+  }
+
+  async getVocabularyByDateRange(startDate: string, endDate: string, grade?: number): Promise<VocabularyExport[]> {
+    const vocabularyExports: VocabularyExport[] = [];
+    const start = new Date(startDate);
+    const end = new Date(endDate);
+    
+    for (let date = new Date(start); date <= end; date.setDate(date.getDate() + 1)) {
+      const dateStr = date.toISOString().split('T')[0];
+      
+      if (grade) {
+        const dayVocab = await this.getVocabularyByDateAndGrade(dateStr, grade);
+        vocabularyExports.push(...dayVocab);
+      } else {
+        const dayVocab = await this.getVocabularyByDate(dateStr);
+        vocabularyExports.push(...dayVocab);
+      }
+    }
+
+    return vocabularyExports;
+  }
+
+  async getVocabularyByLesson(grade: number, book: string, unit: number, lesson: string): Promise<VocabularyExport | null> {
+    const lessonPath = path.join(
+      this.dbPath,
+      'vocabulary-exports',
+      'by-lesson',
+      `grade-${grade}`,
+      book.toLowerCase().replace(/\s+/g, '-'),
+      `unit-${String(unit).padStart(2, '0')}`,
+      `${lesson.toLowerCase().replace(/\s+/g, '-')}-vocabulary.json`
+    );
+
+    if (!fs.existsSync(lessonPath)) {
+      return null;
+    }
+
+    try {
+      const content = fs.readFileSync(lessonPath, 'utf-8');
+      return JSON.parse(content);
+    } catch (e) {
+      console.error('Error reading lesson vocabulary:', e);
+      return null;
+    }
   }
 
   async getStatistics(): Promise<any> {
