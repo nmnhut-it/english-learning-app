@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Test App</title>
+  <style>
+    .error { color: red; padding: 20px; border: 1px solid red; margin: 10px; }
+    .success { color: green; padding: 20px; border: 1px solid green; margin: 10px; }
+  </style>
+</head>
+<body>
+  <h1>App Test</h1>
+  <div id="test-results"></div>
+  <div id="app" class="app-container"></div>
+  
+  <script type="module">
+    window.addEventListener('error', (e) => {
+      const errorDiv = document.createElement('div');
+      errorDiv.className = 'error';
+      errorDiv.innerHTML = `<strong>Error:</strong> ${e.message}<br><strong>File:</strong> ${e.filename}<br><strong>Line:</strong> ${e.lineno}`;
+      document.getElementById('test-results').appendChild(errorDiv);
+    });
+
+    try {
+      console.log('Starting test...');
+      const response = await fetch('/src/App.ts');
+      if (response.ok) {
+        const successDiv = document.createElement('div');
+        successDiv.className = 'success';
+        successDiv.textContent = '✅ App.ts loads correctly';
+        document.getElementById('test-results').appendChild(successDiv);
+      }
+      
+      // Test localStorage
+      localStorage.setItem('test', 'value');
+      const testValue = localStorage.getItem('test');
+      if (testValue === 'value') {
+        const successDiv = document.createElement('div');
+        successDiv.className = 'success';
+        successDiv.textContent = '✅ localStorage works';
+        document.getElementById('test-results').appendChild(successDiv);
+      }
+      
+    } catch (error) {
+      const errorDiv = document.createElement('div');
+      errorDiv.className = 'error';
+      errorDiv.textContent = `❌ Test failed: ${error.message}`;
+      document.getElementById('test-results').appendChild(errorDiv);
+    }
+  </script>
+</body>
+</html>

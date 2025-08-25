@@ -22,6 +22,8 @@ export class App extends Component<ComponentProps> {
 
   constructor() {
     super({});
+    // Initialize arrays to prevent undefined errors
+    this.recentActivity = [];
     this.loadRecentActivity();
     this.loadContentIndex();
   }
@@ -281,7 +283,7 @@ export class App extends Component<ComponentProps> {
    * Render active quizzes
    */
   private renderActiveQuizzes(): string {
-    const quizzes = this.getActiveQuizzes();
+    const quizzes = this.getActiveQuizzes() || [];
     
     if (quizzes.length === 0) {
       return '<div class="empty-state">No active quizzes. Create one to start!</div>';
@@ -306,7 +308,11 @@ export class App extends Component<ComponentProps> {
    * Render recent vocabulary
    */
   private renderRecentVocabulary(): string {
-    const recentVocab = this.getRecentVocabulary();
+    const recentVocab = this.getRecentVocabulary() || [];
+    
+    if (recentVocab.length === 0) {
+      return '<div class="empty-state">No recent vocabulary</div>';
+    }
     
     return `
       <div class="vocab-by-grade">
@@ -329,7 +335,8 @@ export class App extends Component<ComponentProps> {
    * Render recent activity
    */
   private renderRecentActivity(): string {
-    if (this.recentActivity.length === 0) {
+    console.log('renderRecentActivity called, recentActivity:', this.recentActivity);
+    if (!this.recentActivity || this.recentActivity.length === 0) {
       return '<div class="empty-state">No recent activity</div>';
     }
     
@@ -534,8 +541,15 @@ export class App extends Component<ComponentProps> {
    * Load recent activity
    */
   private loadRecentActivity(): void {
-    const saved = localStorage.getItem('recent_activity');
-    this.recentActivity = saved ? JSON.parse(saved) : [];
+    console.log('loadRecentActivity called');
+    try {
+      const saved = localStorage.getItem('recent_activity');
+      this.recentActivity = saved ? JSON.parse(saved) : [];
+      console.log('recentActivity loaded:', this.recentActivity);
+    } catch (error) {
+      console.error('Error loading recent activity:', error);
+      this.recentActivity = [];
+    }
   }
 
   /**
