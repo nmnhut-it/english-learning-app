@@ -29,165 +29,165 @@ export class App extends Component<ComponentProps> {
     app.id = 'main-content';
     
     app.innerHTML = `
-      <header class=\"app-header\">
-        <div class=\"app-header__content\">
-          <div class=\"app-logo\">
-            <span class=\"app-logo__icon\">📚</span>
-            <h1 class=\"app-logo__text\">English Learning V2</h1>
+      <header class="app-header">
+        <div class="app-header__content">
+          <div class="app-logo">
+            <span class="app-logo__icon">📚</span>
+            <h1 class="app-logo__text">English Learning V2</h1>
           </div>
           
-          <nav class=\"app-nav\">
-            <button class=\"nav-btn nav-btn--content active\" data-view=\"content\" type=\"button\">
-              <span class=\"nav-btn__icon\">📖</span>
-              <span class=\"nav-btn__text\">Content</span>
+          <nav class="app-nav">
+            <button class="nav-btn nav-btn--content active" data-view="content" type="button">
+              <span class="nav-btn__icon">📖</span>
+              <span class="nav-btn__text">Content</span>
             </button>
-            <button class=\"nav-btn nav-btn--vocabulary\" data-view=\"vocabulary\" type=\"button\">
-              <span class=\"nav-btn__icon\">📝</span>
-              <span class=\"nav-btn__text\">Vocabulary</span>
-              <span class=\"nav-btn__badge\">${this.selectedVocabulary.size}</span>
+            <button class="nav-btn nav-btn--vocabulary" data-view="vocabulary" type="button">
+              <span class="nav-btn__icon">📝</span>
+              <span class="nav-btn__text">Vocabulary</span>
+              <span class="nav-btn__badge">${this.selectedVocabulary.size}</span>
             </button>
-            <button class=\"nav-btn nav-btn--quiz\" data-view=\"quiz\" type=\"button\">
-              <span class=\"nav-btn__icon\">🎯</span>
-              <span class=\"nav-btn__text\">Quiz</span>
+            <button class="nav-btn nav-btn--quiz" data-view="quiz" type="button">
+              <span class="nav-btn__icon">🎯</span>
+              <span class="nav-btn__text">Quiz</span>
             </button>
-            <button class=\"nav-btn nav-btn--recent\" data-view=\"recent\" type=\"button\">
-              <span class=\"nav-btn__icon\">⏱️</span>
-              <span class=\"nav-btn__text\">Recent</span>
+            <button class="nav-btn nav-btn--recent" data-view="recent" type="button">
+              <span class="nav-btn__icon">⏱️</span>
+              <span class="nav-btn__text">Recent</span>
             </button>
           </nav>
           
-          <div class=\"app-actions\">
-            <button class=\"action-btn search-btn\" type=\"button\" aria-label=\"Search\">
-              <span class=\"action-btn__icon\">🔍</span>
+          <div class="app-actions">
+            <button class="action-btn search-btn" type="button" aria-label="Search">
+              <span class="action-btn__icon">🔍</span>
             </button>
-            <button class=\"action-btn settings-btn\" type=\"button\" aria-label=\"Settings\">
-              <span class=\"action-btn__icon\">⚙️</span>
+            <button class="action-btn settings-btn" type="button" aria-label="Settings">
+              <span class="action-btn__icon">⚙️</span>
             </button>
           </div>
         </div>
       </header>
       
-      <main class=\"app-main\">
-        <div class=\"app-content\">
-          <div class=\"content-view\" data-view=\"content\">
-            <div class=\"content-header\">
-              <div class=\"unit-selector\">
-                <select class=\"unit-select\" aria-label=\"Select unit\">
-                  <option value=\"\">Select a unit...</option>
-                  <option value=\"7-unit-01\">Grade 7 - Unit 1: Hobbies</option>
-                  <option value=\"7-unit-02\">Grade 7 - Unit 2: Healthy Living</option>
-                  <option value=\"8-unit-01\">Grade 8 - Unit 1: Leisure Activities</option>
+      <main class="app-main">
+        <div class="app-content">
+          <div class="content-view" data-view="content">
+            <div class="content-header">
+              <div class="unit-selector">
+                <select class="unit-select" aria-label="Select unit">
+                  <option value="">Select a unit...</option>
+                  <option value="7-unit-01">Grade 7 - Unit 1: Hobbies</option>
+                  <option value="7-unit-02">Grade 7 - Unit 2: Healthy Living</option>
+                  <option value="8-unit-01">Grade 8 - Unit 1: Leisure Activities</option>
                 </select>
-                <button class=\"load-btn\" type=\"button\">Load Unit</button>
+                <button class="load-btn" type="button">Load Unit</button>
               </div>
               
-              <div class=\"content-status\">
-                <span class=\"status-text\">Ready</span>
-                <div class=\"loading-indicator hidden\">
-                  <span class=\"loading-spinner\"></span>
-                  <span class=\"loading-text\">Loading...</span>
+              <div class="content-status">
+                <span class="status-text">Ready</span>
+                <div class="loading-indicator hidden">
+                  <span class="loading-spinner"></span>
+                  <span class="loading-text">Loading...</span>
                 </div>
               </div>
             </div>
             
-            <div class=\"markdown-container\">
+            <div class="markdown-container">
               <!-- MarkdownViewer will be rendered here -->
             </div>
           </div>
           
-          <div class=\"vocabulary-view hidden\" data-view=\"vocabulary\">
-            <div class=\"vocabulary-header\">
-              <h2 class=\"vocabulary-title\">
+          <div class="vocabulary-view hidden" data-view="vocabulary">
+            <div class="vocabulary-header">
+              <h2 class="vocabulary-title">
                 Selected Vocabulary 
-                <span class=\"vocabulary-count\">(${this.selectedVocabulary.size})</span>
+                <span class="vocabulary-count">(${this.selectedVocabulary.size})</span>
               </h2>
-              <div class=\"vocabulary-actions\">
-                <button class=\"vocab-action-btn play-all-btn\" type=\"button\">
-                  <span class=\"btn-icon\">🔊</span>
+              <div class="vocabulary-actions">
+                <button class="vocab-action-btn play-all-btn" type="button">
+                  <span class="btn-icon">🔊</span>
                   Play All
                 </button>
-                <button class=\"vocab-action-btn clear-btn\" type=\"button\">
-                  <span class=\"btn-icon\">🗑️</span>
+                <button class="vocab-action-btn clear-btn" type="button">
+                  <span class="btn-icon">🗑️</span>
                   Clear All
                 </button>
-                <button class=\"vocab-action-btn export-btn\" type=\"button\">
-                  <span class=\"btn-icon\">💾</span>
+                <button class="vocab-action-btn export-btn" type="button">
+                  <span class="btn-icon">💾</span>
                   Export
                 </button>
               </div>
             </div>
             
-            <div class=\"vocabulary-grid\">
+            <div class="vocabulary-grid">
               <!-- VocabularyCards will be rendered here -->
             </div>
             
-            <div class=\"vocabulary-empty ${this.selectedVocabulary.size > 0 ? 'hidden' : ''}\">
-              <div class=\"empty-state\">
-                <span class=\"empty-icon\">📝</span>
-                <h3 class=\"empty-title\">No Vocabulary Selected</h3>
-                <p class=\"empty-text\">Click on vocabulary words in the content to add them here.</p>
+            <div class="vocabulary-empty ${this.selectedVocabulary.size > 0 ? 'hidden' : ''}">
+              <div class="empty-state">
+                <span class="empty-icon">📝</span>
+                <h3 class="empty-title">No Vocabulary Selected</h3>
+                <p class="empty-text">Click on vocabulary words in the content to add them here.</p>
               </div>
             </div>
           </div>
           
-          <div class=\"quiz-view hidden\" data-view=\"quiz\">
-            <div class=\"quiz-header\">
-              <h2 class=\"quiz-title\">Create Quiz</h2>
-              <div class=\"quiz-options\">
-                <label class=\"quiz-option\">
-                  <span class=\"option-label\">Max Questions:</span>
-                  <input type=\"number\" class=\"option-input max-questions\" value=\"10\" min=\"1\" max=\"50\">
+          <div class="quiz-view hidden" data-view="quiz">
+            <div class="quiz-header">
+              <h2 class="quiz-title">Create Quiz</h2>
+              <div class="quiz-options">
+                <label class="quiz-option">
+                  <span class="option-label">Max Questions:</span>
+                  <input type="number" class="option-input max-questions" value="10" min="1" max="50">
                 </label>
-                <label class=\"quiz-option\">
-                  <span class=\"option-label\">Time Limit (minutes):</span>
-                  <input type=\"number\" class=\"option-input time-limit\" value=\"15\" min=\"5\" max=\"120\">
+                <label class="quiz-option">
+                  <span class="option-label">Time Limit (minutes):</span>
+                  <input type="number" class="option-input time-limit" value="15" min="5" max="120">
                 </label>
-                <button class=\"quiz-start-btn\" type=\"button\">Start Quiz</button>
+                <button class="quiz-start-btn" type="button">Start Quiz</button>
               </div>
             </div>
             
-            <div class=\"quiz-container\">
+            <div class="quiz-container">
               <!-- QuizGenerator will be rendered here -->
             </div>
             
-            <div class=\"quiz-empty ${this.currentUnit ? 'hidden' : ''}\">
-              <div class=\"empty-state\">
-                <span class=\"empty-icon\">🎯</span>
-                <h3 class=\"empty-title\">No Content Loaded</h3>
-                <p class=\"empty-text\">Load a unit first to create quizzes.</p>
+            <div class="quiz-empty ${this.currentUnit ? 'hidden' : ''}">
+              <div class="empty-state">
+                <span class="empty-icon">🎯</span>
+                <h3 class="empty-title">No Content Loaded</h3>
+                <p class="empty-text">Load a unit first to create quizzes.</p>
               </div>
             </div>
           </div>
           
-          <div class=\"recent-view hidden\" data-view=\"recent\">
-            <div class=\"recent-header\">
-              <h2 class=\"recent-title\">Recent Lessons</h2>
-              <button class=\"clear-history-btn\" type=\"button\">Clear History</button>
+          <div class="recent-view hidden" data-view="recent">
+            <div class="recent-header">
+              <h2 class="recent-title">Recent Lessons</h2>
+              <button class="clear-history-btn" type="button">Clear History</button>
             </div>
             
-            <div class=\"recent-list\">
+            <div class="recent-list">
               <!-- Recent lessons will be rendered here -->
             </div>
             
-            <div class=\"recent-empty\">
-              <div class=\"empty-state\">
-                <span class=\"empty-icon\">⏱️</span>
-                <h3 class=\"empty-title\">No Recent Activity</h3>
-                <p class=\"empty-text\">Your recently viewed lessons will appear here.</p>
+            <div class="recent-empty">
+              <div class="empty-state">
+                <span class="empty-icon">⏱️</span>
+                <h3 class="empty-title">No Recent Activity</h3>
+                <p class="empty-text">Your recently viewed lessons will appear here.</p>
               </div>
             </div>
           </div>
         </div>
       </main>
       
-      <footer class=\"app-footer\">
-        <div class=\"app-footer__content\">
-          <p class=\"footer-text\">
+      <footer class="app-footer">
+        <div class="app-footer__content">
+          <p class="footer-text">
             English Learning App V2 - Framework-free vanilla TypeScript
           </p>
-          <div class=\"footer-links\">
-            <a href=\"#\" class=\"footer-link\">Help</a>
-            <a href=\"#\" class=\"footer-link\">About</a>
+          <div class="footer-links">
+            <a href="#" class="footer-link">Help</a>
+            <a href="#" class="footer-link">About</a>
           </div>
         </div>
       </footer>
@@ -365,7 +365,7 @@ export class App extends Component<ComponentProps> {
       this.updateVocabularyBadge();
       
       // Show notification
-      this.showNotification(`Added \"${vocab.word}\" to vocabulary list`);
+      this.showNotification(`Added "${vocab.word}" to vocabulary list`);
     }
   }
 

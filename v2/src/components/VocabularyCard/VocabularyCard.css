@@ -1,1 +1,536 @@
-/* VocabularyCard Component Styles */\n\n.vocabulary-card {\n  background: var(--card-background);\n  border: 1px solid var(--border-color);\n  border-radius: var(--border-radius);\n  padding: 1.5rem;\n  margin-bottom: 1rem;\n  transition: all 0.3s ease;\n  cursor: pointer;\n  position: relative;\n  overflow: hidden;\n}\n\n.vocabulary-card:hover {\n  transform: translateY(-2px);\n  box-shadow: var(--shadow-lg);\n  border-color: var(--primary-color);\n}\n\n.vocabulary-card:focus {\n  outline: none;\n  box-shadow: 0 0 0 2px var(--focus-ring);\n  border-color: var(--primary-color);\n}\n\n.vocabulary-card.selected {\n  border-color: var(--success-color);\n  background: var(--success-light);\n  box-shadow: var(--shadow-md);\n}\n\n.vocabulary-card.selected::before {\n  content: '';\n  position: absolute;\n  top: 0;\n  left: 0;\n  width: 4px;\n  height: 100%;\n  background: var(--success-color);\n}\n\n.vocabulary-card.playing-audio {\n  border-color: var(--primary-color);\n  background: var(--primary-light);\n  animation: pulse-border 1s ease-in-out;\n}\n\n.vocabulary-card.audio-error {\n  border-color: var(--error-color);\n  background: var(--error-light);\n  animation: shake 0.5s ease-in-out;\n}\n\n/* Header */\n.vocabulary-card__header {\n  display: flex;\n  justify-content: space-between;\n  align-items: flex-start;\n  margin-bottom: 1rem;\n}\n\n.vocabulary-card__word-info {\n  flex: 1;\n}\n\n.vocabulary-card__word {\n  font-size: 1.75rem;\n  font-weight: 700;\n  color: var(--primary-color);\n  margin: 0 0 0.5rem 0;\n  line-height: 1.2;\n}\n\n.vocabulary-card__pronunciation {\n  font-family: 'Consolas', 'Monaco', 'Courier New', monospace;\n  font-size: 1rem;\n  color: var(--text-secondary);\n  background: var(--code-background);\n  padding: 0.25rem 0.5rem;\n  border-radius: var(--border-radius-sm);\n  margin-right: 0.5rem;\n  display: inline-block;\n}\n\n.vocabulary-card__pos {\n  background: var(--secondary-color);\n  color: white;\n  padding: 0.25rem 0.5rem;\n  border-radius: var(--border-radius-sm);\n  font-size: 0.75rem;\n  font-weight: 500;\n  text-transform: uppercase;\n  margin-right: 0.5rem;\n  display: inline-block;\n}\n\n.vocabulary-card__cefr {\n  background: var(--info-color);\n  color: white;\n  padding: 0.25rem 0.5rem;\n  border-radius: var(--border-radius-sm);\n  font-size: 0.75rem;\n  font-weight: 500;\n  display: inline-block;\n}\n\n/* Controls */\n.vocabulary-card__controls {\n  display: flex;\n  gap: 0.5rem;\n  flex-shrink: 0;\n}\n\n.pronunciation-btn,\n.select-btn {\n  width: 2.5rem;\n  height: 2.5rem;\n  border: 1px solid var(--border-color);\n  border-radius: 50%;\n  background: var(--card-background);\n  cursor: pointer;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  transition: all 0.2s ease;\n  font-size: 1.125rem;\n}\n\n.pronunciation-btn:hover {\n  background: var(--primary-color);\n  color: white;\n  border-color: var(--primary-color);\n  transform: scale(1.1);\n}\n\n.pronunciation-btn.playing {\n  background: var(--primary-color);\n  color: white;\n  animation: pulse-button 0.6s ease-in-out;\n}\n\n.select-btn:hover {\n  background: var(--success-color);\n  color: white;\n  border-color: var(--success-color);\n  transform: scale(1.1);\n}\n\n.select-btn.active {\n  background: var(--success-color);\n  color: white;\n  border-color: var(--success-color);\n}\n\n.select-btn__icon {\n  transition: transform 0.2s ease;\n}\n\n.select-btn.active .select-btn__icon {\n  transform: scale(1.2);\n}\n\n/* Content */\n.vocabulary-card__content {\n  margin-bottom: 1rem;\n}\n\n.vocabulary-card__definition {\n  font-size: 1.125rem;\n  color: var(--text-primary);\n  margin-bottom: 1rem;\n  line-height: 1.6;\n}\n\n.vocabulary-card__translation {\n  font-size: 1rem;\n  color: var(--text-secondary);\n  font-style: italic;\n  margin-bottom: 1rem;\n  opacity: 1;\n  transition: all 0.3s ease;\n  max-height: 2rem;\n  overflow: hidden;\n}\n\n.vocabulary-card__translation.hidden {\n  opacity: 0;\n  max-height: 0;\n  margin-bottom: 0;\n}\n\n.vocabulary-card__translation.visible {\n  opacity: 1;\n  max-height: 2rem;\n}\n\n.vocabulary-card__examples {\n  margin-bottom: 1rem;\n}\n\n.examples-list {\n  list-style: none;\n  padding: 0;\n  margin: 0.5rem 0 0 0;\n}\n\n.example-item {\n  padding: 0.75rem;\n  background: var(--background);\n  border-radius: var(--border-radius-sm);\n  margin-bottom: 0.5rem;\n  border-left: 3px solid var(--primary-color);\n}\n\n.example-text {\n  font-size: 1rem;\n  color: var(--text-primary);\n  margin-bottom: 0.25rem;\n  font-weight: 500;\n}\n\n.example-translation {\n  font-size: 0.875rem;\n  color: var(--text-secondary);\n  font-style: italic;\n}\n\n.example-text.highlighted {\n  background: var(--vocabulary-highlight);\n  padding: 0.25rem;\n  border-radius: var(--border-radius-sm);\n  animation: highlight-flash 2s ease-in-out;\n}\n\n/* Collocations */\n.vocabulary-card__collocations {\n  margin-bottom: 1rem;\n}\n\n.collocations-list {\n  display: flex;\n  flex-wrap: wrap;\n  gap: 0.5rem;\n  margin-top: 0.5rem;\n}\n\n.collocation-item {\n  background: var(--primary-light);\n  color: var(--primary-dark);\n  padding: 0.25rem 0.5rem;\n  border-radius: var(--border-radius-sm);\n  font-size: 0.875rem;\n  border: 1px solid var(--primary-color);\n  cursor: pointer;\n  transition: all 0.2s ease;\n}\n\n.collocation-item:hover {\n  background: var(--primary-color);\n  color: white;\n}\n\n.collocation-item.highlighted {\n  background: var(--vocabulary-highlight);\n  animation: highlight-flash 2s ease-in-out;\n}\n\n/* Synonyms */\n.vocabulary-card__synonyms {\n  margin-bottom: 1rem;\n}\n\n.synonyms-list {\n  display: flex;\n  flex-wrap: wrap;\n  gap: 0.5rem;\n  margin-top: 0.5rem;\n}\n\n.synonym-item {\n  background: var(--info-light);\n  color: var(--info-dark);\n  padding: 0.25rem 0.5rem;\n  border-radius: var(--border-radius-sm);\n  font-size: 0.875rem;\n  border: 1px solid var(--info-color);\n}\n\n.synonym-item small {\n  opacity: 0.7;\n  font-size: 0.75rem;\n}\n\n/* Footer */\n.vocabulary-card__footer {\n  display: flex;\n  justify-content: space-between;\n  align-items: center;\n  padding-top: 1rem;\n  border-top: 1px solid var(--border-color);\n  font-size: 0.875rem;\n}\n\n.frequency-indicator {\n  display: flex;\n  align-items: center;\n  gap: 0.5rem;\n}\n\n.frequency-label {\n  color: var(--text-secondary);\n}\n\n.frequency-value {\n  padding: 0.25rem 0.5rem;\n  border-radius: var(--border-radius-sm);\n  font-weight: 500;\n  text-transform: capitalize;\n}\n\n.frequency--high {\n  background: var(--success-light);\n  color: var(--success-dark);\n  border: 1px solid var(--success-color);\n}\n\n.frequency--medium {\n  background: var(--warning-light);\n  color: var(--warning-dark);\n  border: 1px solid var(--warning-color);\n}\n\n.frequency--low {\n  background: var(--error-light);\n  color: var(--error-dark);\n  border: 1px solid var(--error-color);\n}\n\n.audio-indicators {\n  display: flex;\n  gap: 0.25rem;\n}\n\n.accent-indicator {\n  width: 1.5rem;\n  height: 1.5rem;\n  border-radius: 50%;\n  font-size: 0.625rem;\n  font-weight: 600;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  color: white;\n}\n\n.accent--british {\n  background: var(--accent-british);\n}\n\n.accent--american {\n  background: var(--accent-american);\n}\n\n.accent--australian {\n  background: var(--accent-australian);\n}\n\n.accent--canadian {\n  background: var(--accent-canadian);\n}\n\n/* Animations */\n@keyframes pulse-border {\n  0% { border-color: var(--primary-color); }\n  50% { border-color: var(--primary-light); }\n  100% { border-color: var(--primary-color); }\n}\n\n@keyframes pulse-button {\n  0% { transform: scale(1); }\n  50% { transform: scale(1.2); }\n  100% { transform: scale(1); }\n}\n\n@keyframes shake {\n  0%, 100% { transform: translateX(0); }\n  25% { transform: translateX(-3px); }\n  75% { transform: translateX(3px); }\n}\n\n@keyframes highlight-flash {\n  0% { background-color: var(--vocabulary-highlight); }\n  50% { background-color: var(--primary-color); color: white; }\n  100% { background-color: var(--vocabulary-highlight); }\n}\n\n.pulse-pronunciation {\n  animation: pulse-pronunciation 0.6s ease-in-out;\n}\n\n@keyframes pulse-pronunciation {\n  0% { transform: scale(1); }\n  50% { transform: scale(1.02); box-shadow: var(--shadow-lg); }\n  100% { transform: scale(1); }\n}\n\n.select-in {\n  animation: select-in 0.3s ease-in-out;\n}\n\n@keyframes select-in {\n  0% { transform: scale(1); }\n  50% { transform: scale(1.03); }\n  100% { transform: scale(1); }\n}\n\n.select-out {\n  animation: select-out 0.3s ease-in-out;\n}\n\n@keyframes select-out {\n  0% { transform: scale(1); }\n  50% { transform: scale(0.97); }\n  100% { transform: scale(1); }\n}\n\n/* Responsive Design */\n@media (max-width: 768px) {\n  .vocabulary-card {\n    padding: 1rem;\n  }\n  \n  .vocabulary-card__header {\n    flex-direction: column;\n    gap: 1rem;\n  }\n  \n  .vocabulary-card__controls {\n    align-self: flex-end;\n  }\n  \n  .vocabulary-card__word {\n    font-size: 1.5rem;\n  }\n  \n  .collocations-list,\n  .synonyms-list {\n    justify-content: flex-start;\n  }\n}\n\n@media (max-width: 480px) {\n  .vocabulary-card {\n    padding: 0.75rem;\n  }\n  \n  .vocabulary-card__word {\n    font-size: 1.25rem;\n  }\n  \n  .pronunciation-btn,\n  .select-btn {\n    width: 2rem;\n    height: 2rem;\n    font-size: 1rem;\n  }\n  \n  .vocabulary-card__footer {\n    flex-direction: column;\n    gap: 0.5rem;\n    align-items: flex-start;\n  }\n}\n\n/* High Contrast Mode */\n@media (prefers-contrast: high) {\n  .vocabulary-card {\n    border-width: 2px;\n  }\n  \n  .vocabulary-card.selected {\n    border-width: 3px;\n  }\n  \n  .vocabulary-card__pos,\n  .vocabulary-card__cefr,\n  .frequency-value {\n    border: 1px solid currentColor;\n  }\n}\n\n/* Reduced Motion */\n@media (prefers-reduced-motion: reduce) {\n  .vocabulary-card,\n  .pronunciation-btn,\n  .select-btn,\n  .vocabulary-card__translation {\n    transition: none;\n  }\n  \n  .vocabulary-card:hover {\n    transform: none;\n  }\n  \n  .pronunciation-btn:hover,\n  .select-btn:hover {\n    transform: none;\n  }\n  \n  .vocabulary-card.playing-audio,\n  .vocabulary-card.audio-error,\n  .example-text.highlighted,\n  .collocation-item.highlighted {\n    animation: none;\n  }\n}\n\n/* Print Styles */\n@media print {\n  .vocabulary-card__controls {\n    display: none;\n  }\n  \n  .vocabulary-card {\n    break-inside: avoid;\n    box-shadow: none;\n    border: 1px solid #000;\n  }\n  \n  .vocabulary-card__translation.hidden {\n    opacity: 1;\n    max-height: none;\n    margin-bottom: 1rem;\n  }\n}"
+/* VocabularyCard Component Styles */
+
+.vocabulary-card {
+  background: var(--card-background);
+  border: 1px solid var(--border-color);
+  border-radius: var(--border-radius);
+  padding: 1.5rem;
+  margin-bottom: 1rem;
+  transition: all 0.3s ease;
+  cursor: pointer;
+  position: relative;
+  overflow: hidden;
+}
+
+.vocabulary-card:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-lg);
+  border-color: var(--primary-color);
+}
+
+.vocabulary-card:focus {
+  outline: none;
+  box-shadow: 0 0 0 2px var(--focus-ring);
+  border-color: var(--primary-color);
+}
+
+.vocabulary-card.selected {
+  border-color: var(--success-color);
+  background: var(--success-light);
+  box-shadow: var(--shadow-md);
+}
+
+.vocabulary-card.selected::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 4px;
+  height: 100%;
+  background: var(--success-color);
+}
+
+.vocabulary-card.playing-audio {
+  border-color: var(--primary-color);
+  background: var(--primary-light);
+  animation: pulse-border 1s ease-in-out;
+}
+
+.vocabulary-card.audio-error {
+  border-color: var(--error-color);
+  background: var(--error-light);
+  animation: shake 0.5s ease-in-out;
+}
+
+/* Header */
+.vocabulary-card__header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 1rem;
+}
+
+.vocabulary-card__word-info {
+  flex: 1;
+}
+
+.vocabulary-card__word {
+  font-size: 1.75rem;
+  font-weight: 700;
+  color: var(--primary-color);
+  margin: 0 0 0.5rem 0;
+  line-height: 1.2;
+}
+
+.vocabulary-card__pronunciation {
+  font-family: 'Consolas', 'Monaco', 'Courier New', monospace;
+  font-size: 1rem;
+  color: var(--text-secondary);
+  background: var(--code-background);
+  padding: 0.25rem 0.5rem;
+  border-radius: var(--border-radius-sm);
+  margin-right: 0.5rem;
+  display: inline-block;
+}
+
+.vocabulary-card__pos {
+  background: var(--secondary-color);
+  color: white;
+  padding: 0.25rem 0.5rem;
+  border-radius: var(--border-radius-sm);
+  font-size: 0.75rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  margin-right: 0.5rem;
+  display: inline-block;
+}
+
+.vocabulary-card__cefr {
+  background: var(--info-color);
+  color: white;
+  padding: 0.25rem 0.5rem;
+  border-radius: var(--border-radius-sm);
+  font-size: 0.75rem;
+  font-weight: 500;
+  display: inline-block;
+}
+
+/* Controls */
+.vocabulary-card__controls {
+  display: flex;
+  gap: 0.5rem;
+  flex-shrink: 0;
+}
+
+.pronunciation-btn,
+.select-btn {
+  width: 2.5rem;
+  height: 2.5rem;
+  border: 1px solid var(--border-color);
+  border-radius: 50%;
+  background: var(--card-background);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s ease;
+  font-size: 1.125rem;
+}
+
+.pronunciation-btn:hover {
+  background: var(--primary-color);
+  color: white;
+  border-color: var(--primary-color);
+  transform: scale(1.1);
+}
+
+.pronunciation-btn.playing {
+  background: var(--primary-color);
+  color: white;
+  animation: pulse-button 0.6s ease-in-out;
+}
+
+.select-btn:hover {
+  background: var(--success-color);
+  color: white;
+  border-color: var(--success-color);
+  transform: scale(1.1);
+}
+
+.select-btn.active {
+  background: var(--success-color);
+  color: white;
+  border-color: var(--success-color);
+}
+
+.select-btn__icon {
+  transition: transform 0.2s ease;
+}
+
+.select-btn.active .select-btn__icon {
+  transform: scale(1.2);
+}
+
+/* Content */
+.vocabulary-card__content {
+  margin-bottom: 1rem;
+}
+
+.vocabulary-card__definition {
+  font-size: 1.125rem;
+  color: var(--text-primary);
+  margin-bottom: 1rem;
+  line-height: 1.6;
+}
+
+.vocabulary-card__translation {
+  font-size: 1rem;
+  color: var(--text-secondary);
+  font-style: italic;
+  margin-bottom: 1rem;
+  opacity: 1;
+  transition: all 0.3s ease;
+  max-height: 2rem;
+  overflow: hidden;
+}
+
+.vocabulary-card__translation.hidden {
+  opacity: 0;
+  max-height: 0;
+  margin-bottom: 0;
+}
+
+.vocabulary-card__translation.visible {
+  opacity: 1;
+  max-height: 2rem;
+}
+
+.vocabulary-card__examples {
+  margin-bottom: 1rem;
+}
+
+.examples-list {
+  list-style: none;
+  padding: 0;
+  margin: 0.5rem 0 0 0;
+}
+
+.example-item {
+  padding: 0.75rem;
+  background: var(--background);
+  border-radius: var(--border-radius-sm);
+  margin-bottom: 0.5rem;
+  border-left: 3px solid var(--primary-color);
+}
+
+.example-text {
+  font-size: 1rem;
+  color: var(--text-primary);
+  margin-bottom: 0.25rem;
+  font-weight: 500;
+}
+
+.example-translation {
+  font-size: 0.875rem;
+  color: var(--text-secondary);
+  font-style: italic;
+}
+
+.example-text.highlighted {
+  background: var(--vocabulary-highlight);
+  padding: 0.25rem;
+  border-radius: var(--border-radius-sm);
+  animation: highlight-flash 2s ease-in-out;
+}
+
+/* Collocations */
+.vocabulary-card__collocations {
+  margin-bottom: 1rem;
+}
+
+.collocations-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 0.5rem;
+}
+
+.collocation-item {
+  background: var(--primary-light);
+  color: var(--primary-dark);
+  padding: 0.25rem 0.5rem;
+  border-radius: var(--border-radius-sm);
+  font-size: 0.875rem;
+  border: 1px solid var(--primary-color);
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.collocation-item:hover {
+  background: var(--primary-color);
+  color: white;
+}
+
+.collocation-item.highlighted {
+  background: var(--vocabulary-highlight);
+  animation: highlight-flash 2s ease-in-out;
+}
+
+/* Synonyms */
+.vocabulary-card__synonyms {
+  margin-bottom: 1rem;
+}
+
+.synonyms-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 0.5rem;
+}
+
+.synonym-item {
+  background: var(--info-light);
+  color: var(--info-dark);
+  padding: 0.25rem 0.5rem;
+  border-radius: var(--border-radius-sm);
+  font-size: 0.875rem;
+  border: 1px solid var(--info-color);
+}
+
+.synonym-item small {
+  opacity: 0.7;
+  font-size: 0.75rem;
+}
+
+/* Footer */
+.vocabulary-card__footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 1rem;
+  border-top: 1px solid var(--border-color);
+  font-size: 0.875rem;
+}
+
+.frequency-indicator {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.frequency-label {
+  color: var(--text-secondary);
+}
+
+.frequency-value {
+  padding: 0.25rem 0.5rem;
+  border-radius: var(--border-radius-sm);
+  font-weight: 500;
+  text-transform: capitalize;
+}
+
+.frequency--high {
+  background: var(--success-light);
+  color: var(--success-dark);
+  border: 1px solid var(--success-color);
+}
+
+.frequency--medium {
+  background: var(--warning-light);
+  color: var(--warning-dark);
+  border: 1px solid var(--warning-color);
+}
+
+.frequency--low {
+  background: var(--error-light);
+  color: var(--error-dark);
+  border: 1px solid var(--error-color);
+}
+
+.audio-indicators {
+  display: flex;
+  gap: 0.25rem;
+}
+
+.accent-indicator {
+  width: 1.5rem;
+  height: 1.5rem;
+  border-radius: 50%;
+  font-size: 0.625rem;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+
+.accent--british {
+  background: var(--accent-british);
+}
+
+.accent--american {
+  background: var(--accent-american);
+}
+
+.accent--australian {
+  background: var(--accent-australian);
+}
+
+.accent--canadian {
+  background: var(--accent-canadian);
+}
+
+/* Animations */
+@keyframes pulse-border {
+  0% { border-color: var(--primary-color); }
+  50% { border-color: var(--primary-light); }
+  100% { border-color: var(--primary-color); }
+}
+
+@keyframes pulse-button {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.2); }
+  100% { transform: scale(1); }
+}
+
+@keyframes shake {
+  0%, 100% { transform: translateX(0); }
+  25% { transform: translateX(-3px); }
+  75% { transform: translateX(3px); }
+}
+
+@keyframes highlight-flash {
+  0% { background-color: var(--vocabulary-highlight); }
+  50% { background-color: var(--primary-color); color: white; }
+  100% { background-color: var(--vocabulary-highlight); }
+}
+
+.pulse-pronunciation {
+  animation: pulse-pronunciation 0.6s ease-in-out;
+}
+
+@keyframes pulse-pronunciation {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.02); box-shadow: var(--shadow-lg); }
+  100% { transform: scale(1); }
+}
+
+.select-in {
+  animation: select-in 0.3s ease-in-out;
+}
+
+@keyframes select-in {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.03); }
+  100% { transform: scale(1); }
+}
+
+.select-out {
+  animation: select-out 0.3s ease-in-out;
+}
+
+@keyframes select-out {
+  0% { transform: scale(1); }
+  50% { transform: scale(0.97); }
+  100% { transform: scale(1); }
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .vocabulary-card {
+    padding: 1rem;
+  }
+  
+  .vocabulary-card__header {
+    flex-direction: column;
+    gap: 1rem;
+  }
+  
+  .vocabulary-card__controls {
+    align-self: flex-end;
+  }
+  
+  .vocabulary-card__word {
+    font-size: 1.5rem;
+  }
+  
+  .collocations-list,
+  .synonyms-list {
+    justify-content: flex-start;
+  }
+}
+
+@media (max-width: 480px) {
+  .vocabulary-card {
+    padding: 0.75rem;
+  }
+  
+  .vocabulary-card__word {
+    font-size: 1.25rem;
+  }
+  
+  .pronunciation-btn,
+  .select-btn {
+    width: 2rem;
+    height: 2rem;
+    font-size: 1rem;
+  }
+  
+  .vocabulary-card__footer {
+    flex-direction: column;
+    gap: 0.5rem;
+    align-items: flex-start;
+  }
+}
+
+/* High Contrast Mode */
+@media (prefers-contrast: high) {
+  .vocabulary-card {
+    border-width: 2px;
+  }
+  
+  .vocabulary-card.selected {
+    border-width: 3px;
+  }
+  
+  .vocabulary-card__pos,
+  .vocabulary-card__cefr,
+  .frequency-value {
+    border: 1px solid currentColor;
+  }
+}
+
+/* Reduced Motion */
+@media (prefers-reduced-motion: reduce) {
+  .vocabulary-card,
+  .pronunciation-btn,
+  .select-btn,
+  .vocabulary-card__translation {
+    transition: none;
+  }
+  
+  .vocabulary-card:hover {
+    transform: none;
+  }
+  
+  .pronunciation-btn:hover,
+  .select-btn:hover {
+    transform: none;
+  }
+  
+  .vocabulary-card.playing-audio,
+  .vocabulary-card.audio-error,
+  .example-text.highlighted,
+  .collocation-item.highlighted {
+    animation: none;
+  }
+}
+
+/* Print Styles */
+@media print {
+  .vocabulary-card__controls {
+    display: none;
+  }
+  
+  .vocabulary-card {
+    break-inside: avoid;
+    box-shadow: none;
+    border: 1px solid #000;
+  }
+  
+  .vocabulary-card__translation.hidden {
+    opacity: 1;
+    max-height: none;
+    margin-bottom: 1rem;
+  }
+}

@@ -2,9 +2,10 @@ import type { VocabularyItem, Unit, Exercise } from '@/types';
 import { contentChecker } from './ContentChecker';
 
 /**
- * AI Vocabulary Processor
- * Extracts and structures vocabulary using Claude/Gemini APIs
- * Focuses on vocabulary extraction - doesn't recreate existing content
+ * AI Content Processor  
+ * Processes complete educational content using Claude/Gemini APIs
+ * Structures content according to V2 XML schema - vocabulary, exercises, dialogues
+ * References docs/xml-schema.md and docs/exercise-types.md for structure
  */
 export class AIVocabularyProcessor {
       private static instance: AIVocabularyProcessor;
@@ -202,22 +203,22 @@ REQUIREMENTS:
 4. Output as valid JSON array:
 [
       {
-        \"id\": \"hobby\",
-    \"word\": \"hobby\",
-    \"part_of_speech\": \"noun\",
-    \"definition\": \"an activity that you do for pleasure when you are not working\",
-    \"translation\": \"sở thích\",
-    \"pronunciation\": {
-          \"ipa\": \"/ˈhɒbi/\",
-      \"audio_files\": []
+        "id": "hobby",
+    "word": "hobby",
+    "part_of_speech": "noun",
+    "definition": "an activity that you do for pleasure when you are not working",
+    "translation": "sở thích",
+    "pronunciation": {
+          "ipa": "/ˈhɒbi/",
+      "audio_files": []
     },
-    \"cefr\": \"A1\",
-    \"frequency\": \"high\",
-    \"examples\": [
+    "cefr": "A1",
+    "frequency": "high",
+    "examples": [
           {
-            \"text\": \"My hobby is reading books.\",
-        \"translation\": \"Sở thích của tôi là đọc sách.\",
-        \"difficulty\": 1
+            "text": "My hobby is reading books.",
+        "translation": "Sở thích của tôi là đọc sách.",
+        "difficulty": 1
       }
     ]
   }
@@ -262,8 +263,7 @@ EXTRACT VOCABULARY ONLY. Do not create exercises, dialogues, or other content.
    * Parse existing markdown structure
    */
   private parseExistingMarkdown(content: string): ExistingStructure {
-        const lines = content.split('\
-');
+        const lines = content.split('\n');
     let title = '';
     let description = '';
     const sections: any[] = [];
@@ -271,7 +271,7 @@ EXTRACT VOCABULARY ONLY. Do not create exercises, dialogues, or other content.
     
     // Extract title (first # heading)
     for (const line of lines) {
-          const titleMatch = line.match(/^#\\s+(.+)$/);
+          const titleMatch = line.match(/^#\s+(.+)$/);
       if (titleMatch) {
             title = titleMatch[1].trim();
         break;
@@ -282,7 +282,7 @@ EXTRACT VOCABULARY ONLY. Do not create exercises, dialogues, or other content.
     let currentSection: any = null;
     
     lines.forEach((line, index) => {
-          const sectionMatch = line.match(/^##\\s+(.+)$/);
+          const sectionMatch = line.match(/^##\s+(.+)$/);
       if (sectionMatch) {
             if (currentSection) {
               sections.push(currentSection);
@@ -327,22 +327,22 @@ EXTRACT VOCABULARY ONLY. Do not create exercises, dialogues, or other content.
    */
   private generateUnitXML(unit: Unit): string {
         const vocabularyXML = unit.vocabulary_bank.map(vocab => `
-    <vocabulary_item id=\"${vocab.id}\" frequency=\"${vocab.frequency}\" cefr=\"${vocab.cefr}\" part_of_speech=\"${vocab.part_of_speech}\">
+    <vocabulary_item id="${vocab.id}" frequency="${vocab.frequency}" cefr="${vocab.cefr}" part_of_speech="${vocab.part_of_speech}">
       <word>${this.escapeXML(vocab.word)}</word>
       <pronunciation>
         <ipa>${this.escapeXML(vocab.pronunciation.ipa)}</ipa>
         <audio_files>
           ${vocab.pronunciation.audio_files.map(audio => 
-            `<audio accent=\"${audio.accent}\" file=\"${audio.file}\" duration=\"${audio.duration || 0}\"/>`
+            `<audio accent="${audio.accent}" file="${audio.file}" duration="${audio.duration || 0}"/>`
           ).join('\
           ')}
         </audio_files>
       </pronunciation>
       <definition>${this.escapeXML(vocab.definition)}</definition>
-      <translation lang=\"vi\">${this.escapeXML(vocab.translation)}</translation>
+      <translation lang="vi">${this.escapeXML(vocab.translation)}</translation>
       <examples>
         ${vocab.examples.map(example => `
-        <example difficulty=\"${example.difficulty}\">
+        <example difficulty="${example.difficulty}">
           <text>${this.escapeXML(example.text)}</text>
           <translation>${this.escapeXML(example.translation)}</translation>
         </example>`).join('')}
@@ -350,7 +350,7 @@ EXTRACT VOCABULARY ONLY. Do not create exercises, dialogues, or other content.
     </vocabulary_item>`).join('');
     
     const sectionsXML = unit.sections.map(section => `
-    <section id=\"${section.id}\" title=\"${this.escapeXML(section.title)}\" order=\"${section.order}\" type=\"${section.type}\">
+    <section id="${section.id}" title="${this.escapeXML(section.title)}" order="${section.order}" type="${section.type}">
       <metadata>
         <estimated_duration>${section.metadata.estimated_duration}</estimated_duration>
         <skills_focus>${this.escapeXML(section.metadata.skills_focus)}</skills_focus>
@@ -367,17 +367,17 @@ EXTRACT VOCABULARY ONLY. Do not create exercises, dialogues, or other content.
       </vocabulary_focus>
     </section>`).join('');
 
-    return `<?xml version=\"1.0\" encoding=\"UTF-8\"?>
-<unit xmlns=\"http://english-learning-app.com/schema/v2\" 
-      id=\"${unit.id}\" 
-      title=\"${this.escapeXML(unit.title)}\" 
-      order=\"${unit.order}\">
+    return `<?xml version="1.0" encoding="UTF-8"?>
+<unit xmlns="http://english-learning-app.com/schema/v2" 
+      id="${unit.id}" 
+      title="${this.escapeXML(unit.title)}" 
+      order="${unit.order}">
   
   <metadata>
     <description>${this.escapeXML(unit.metadata.description)}</description>
     <learning_objectives>
       ${unit.metadata.learning_objectives.map(obj => 
-        `<objective id=\"${obj.id}\" type=\"${obj.type}\">${this.escapeXML(obj.text)}</objective>`
+        `<objective id="${obj.id}" type="${obj.type}">${this.escapeXML(obj.text)}</objective>`
       ).join('\
       ')}
     </learning_objectives>
@@ -523,8 +523,8 @@ EXTRACT VOCABULARY ONLY. Do not create exercises, dialogues, or other content.
   private generateSectionId(title: string): string {
         return title
       .toLowerCase()
-      .replace(/[^a-z0-9\\s]/g, '')
-      .replace(/\\s+/g, '-')
+      .replace(/[^a-z0-9\s]/g, '')
+      .replace(/\s+/g, '-')
       .substring(0, 50);
   }
   
@@ -546,7 +546,7 @@ EXTRACT VOCABULARY ONLY. Do not create exercises, dialogues, or other content.
       .replace(/&/g, '&amp;')
       .replace(/</g, '&lt;')
       .replace(/>/g, '&gt;')
-      .replace(/\"/g, '&quot;')
+      .replace(/"/g, '&quot;')
       .replace(/'/g, '&apos;');
   }
 }

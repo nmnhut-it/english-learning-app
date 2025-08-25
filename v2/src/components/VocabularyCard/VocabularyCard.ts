@@ -1,1 +1,379 @@
-import { Component } from '@components/core/Component';\nimport { audioService } from '@services/AudioService';\nimport type { VocabularyCardProps, VocabularyItem } from '@/types';\n\n/**\n * VocabularyCard Component\n * Interactive vocabulary display with pronunciation and selection\n */\nexport class VocabularyCard extends Component<VocabularyCardProps> {\n  private isPlaying = false;\n  private isSelected = false;\n\n  constructor(props: VocabularyCardProps) {\n    super(props);\n    this.isSelected = props.selected || false;\n  }\n\n  protected createElement(): HTMLElement {\n    const card = document.createElement('div');\n    card.className = 'vocabulary-card';\n    \n    const word = this.props.word;\n    card.innerHTML = `\n      <div class=\"vocabulary-card__header\">\n        <div class=\"vocabulary-card__word-info\">\n          <h3 class=\"vocabulary-card__word\">${word.word}</h3>\n          <span class=\"vocabulary-card__pronunciation\">${word.pronunciation.ipa}</span>\n          <span class=\"vocabulary-card__pos\">${word.part_of_speech}</span>\n          <span class=\"vocabulary-card__cefr\">${word.cefr}</span>\n        </div>\n        <div class=\"vocabulary-card__controls\">\n          <button class=\"pronunciation-btn\" type=\"button\" aria-label=\"Play pronunciation\">\n            <span class=\"pronunciation-btn__icon\">🔊</span>\n          </button>\n          <button class=\"select-btn\" type=\"button\" aria-label=\"Select for quiz\">\n            <span class=\"select-btn__icon\">✓</span>\n          </button>\n        </div>\n      </div>\n      \n      <div class=\"vocabulary-card__content\">\n        <div class=\"vocabulary-card__definition\">\n          <strong>Definition:</strong> ${word.definition}\n        </div>\n        \n        <div class=\"vocabulary-card__translation ${this.props.showTranslation ? 'visible' : 'hidden'}\">\n          <strong>Vietnamese:</strong> ${word.translation}\n        </div>\n        \n        <div class=\"vocabulary-card__examples\">\n          <strong>Examples:</strong>\n          <ul class=\"examples-list\">\n            ${word.examples.map(example => `\n              <li class=\"example-item\">\n                <div class=\"example-text\">${example.text}</div>\n                <div class=\"example-translation\">${example.translation}</div>\n              </li>\n            `).join('')}\n          </ul>\n        </div>\n        \n        ${word.collocations.length > 0 ? `\n          <div class=\"vocabulary-card__collocations\">\n            <strong>Common phrases:</strong>\n            <div class=\"collocations-list\">\n              ${word.collocations.map(coll => `\n                <span class=\"collocation-item\">${coll.phrase}</span>\n              `).join('')}\n            </div>\n          </div>\n        ` : ''}\n        \n        ${word.synonyms.length > 0 ? `\n          <div class=\"vocabulary-card__synonyms\">\n            <strong>Synonyms:</strong>\n            <div class=\"synonyms-list\">\n              ${word.synonyms.map(syn => `\n                <span class=\"synonym-item\">${syn.word} <small>(${syn.cefr})</small></span>\n              `).join('')}\n            </div>\n          </div>\n        ` : ''}\n      </div>\n      \n      <div class=\"vocabulary-card__footer\">\n        <div class=\"frequency-indicator\">\n          <span class=\"frequency-label\">Frequency:</span>\n          <span class=\"frequency-value frequency--${word.frequency}\">${word.frequency}</span>\n        </div>\n        <div class=\"audio-indicators\">\n          ${word.pronunciation.audio_files.map(audio => `\n            <span class=\"accent-indicator accent--${audio.accent}\" title=\"${audio.accent} accent available\">\n              ${audio.accent.substring(0, 2).toUpperCase()}\n            </span>\n          `).join('')}\n        </div>\n      </div>\n    `;\n\n    this.updateSelectedState();\n    return card;\n  }\n\n  protected bindEvents(): void {\n    const pronunciationBtn = this.querySelector('.pronunciation-btn');\n    const selectBtn = this.querySelector('.select-btn');\n    const card = this.element;\n\n    // Pronunciation button click\n    pronunciationBtn?.addEventListener('click', async (e) => {\n      e.stopPropagation();\n      await this.playPronunciation();\n    });\n\n    // Selection button click\n    selectBtn?.addEventListener('click', (e) => {\n      e.stopPropagation();\n      this.toggleSelection();\n    });\n\n    // Card click for pronunciation (double-click prevention)\n    let clickTimer: NodeJS.Timeout | null = null;\n    card.addEventListener('click', () => {\n      if (clickTimer) {\n        clearTimeout(clickTimer);\n        clickTimer = null;\n        return; // This is a double-click, ignore\n      }\n      \n      clickTimer = setTimeout(async () => {\n        await this.playPronunciation();\n        clickTimer = null;\n      }, 300);\n    });\n\n    // Double-click for selection\n    card.addEventListener('dblclick', () => {\n      this.toggleSelection();\n    });\n\n    // Keyboard navigation\n    card.addEventListener('keydown', async (e) => {\n      switch (e.key) {\n        case 'Enter':\n        case ' ':\n          e.preventDefault();\n          await this.playPronunciation();\n          break;\n        case 's':\n        case 'S':\n          e.preventDefault();\n          this.toggleSelection();\n          break;\n        case 't':\n        case 'T':\n          e.preventDefault();\n          this.toggleTranslation();\n          break;\n      }\n    });\n\n    // Hover effects for accessibility\n    card.addEventListener('mouseenter', () => {\n      if (!this.isPlaying) {\n        card.classList.add('hovered');\n      }\n    });\n\n    card.addEventListener('mouseleave', () => {\n      card.classList.remove('hovered');\n    });\n  }\n\n  /**\n   * Play pronunciation audio\n   */\n  private async playPronunciation(): Promise<void> {\n    if (this.isPlaying) return;\n\n    const pronunciationBtn = this.querySelector('.pronunciation-btn');\n    const word = this.props.word;\n\n    try {\n      this.isPlaying = true;\n      pronunciationBtn?.classList.add('playing');\n      this.element.classList.add('playing-audio');\n\n      await audioService.playPronunciation(\n        word.word,\n        word.pronunciation.audio_files,\n        true\n      );\n\n      // Call parent callback\n      this.props.onPronounce?.(word.pronunciation.audio_files[0]?.file || '');\n\n      // Emit event\n      this.eventBus.emit('pronunciation-play', word.word);\n\n      // Visual feedback animation\n      this.animate('pulse-pronunciation', 600);\n\n    } catch (error) {\n      console.error('Failed to play pronunciation:', error);\n      this.element.classList.add('audio-error');\n      setTimeout(() => {\n        this.element.classList.remove('audio-error');\n      }, 1000);\n    } finally {\n      this.isPlaying = false;\n      pronunciationBtn?.classList.remove('playing');\n      this.element.classList.remove('playing-audio');\n    }\n  }\n\n  /**\n   * Toggle selection state\n   */\n  private toggleSelection(): void {\n    this.isSelected = !this.isSelected;\n    this.updateSelectedState();\n    \n    // Call parent callback\n    this.props.onSelect?.(this.props.word);\n    \n    // Visual feedback\n    this.animate(this.isSelected ? 'select-in' : 'select-out', 300);\n  }\n\n  /**\n   * Update visual selection state\n   */\n  private updateSelectedState(): void {\n    const selectBtn = this.querySelector('.select-btn');\n    \n    this.element.classList.toggle('selected', this.isSelected);\n    this.element.setAttribute('aria-selected', this.isSelected.toString());\n    \n    if (selectBtn) {\n      selectBtn.classList.toggle('active', this.isSelected);\n      const icon = selectBtn.querySelector('.select-btn__icon');\n      if (icon) {\n        icon.textContent = this.isSelected ? '✓' : '+';\n      }\n    }\n  }\n\n  /**\n   * Toggle translation visibility\n   */\n  private toggleTranslation(): void {\n    const translationEl = this.querySelector('.vocabulary-card__translation');\n    if (translationEl) {\n      const isVisible = translationEl.classList.contains('visible');\n      translationEl.classList.toggle('visible', !isVisible);\n      translationEl.classList.toggle('hidden', isVisible);\n      \n      this.updateProps({ showTranslation: !isVisible });\n    }\n  }\n\n  /**\n   * Set focus on the card\n   */\n  public focus(): void {\n    this.element.focus();\n    this.element.classList.add('focused');\n  }\n\n  /**\n   * Remove focus from the card\n   */\n  public blur(): void {\n    this.element.blur();\n    this.element.classList.remove('focused');\n  }\n\n  /**\n   * Get selection state\n   */\n  public isCardSelected(): boolean {\n    return this.isSelected;\n  }\n\n  /**\n   * Set selection state programmatically\n   */\n  public setSelected(selected: boolean): void {\n    if (this.isSelected !== selected) {\n      this.isSelected = selected;\n      this.updateSelectedState();\n    }\n  }\n\n  /**\n   * Get vocabulary word\n   */\n  public getVocabulary(): VocabularyItem {\n    return this.props.word;\n  }\n\n  /**\n   * Update card content when props change\n   */\n  protected onPropsUpdate(): void {\n    const hasWordChanged = this.props.word.id !== this.props.word.id;\n    const hasSelectionChanged = this.props.selected !== this.isSelected;\n    \n    if (hasSelectionChanged) {\n      this.isSelected = this.props.selected || false;\n      this.updateSelectedState();\n    }\n    \n    if (hasWordChanged) {\n      // Re-create the element with new word data\n      const newElement = this.createElement();\n      this.element.replaceWith(newElement);\n      this.element = newElement;\n      this.bindEvents();\n    }\n  }\n\n  /**\n   * Start pronunciation automatically\n   */\n  public async autoPlay(): Promise<void> {\n    await this.playPronunciation();\n  }\n\n  /**\n   * Highlight specific example or collocation\n   */\n  public highlightUsage(text: string): void {\n    const examples = this.querySelectorAll('.example-text, .collocation-item');\n    examples.forEach(el => {\n      const element = el as HTMLElement;\n      if (element.textContent?.toLowerCase().includes(text.toLowerCase())) {\n        element.classList.add('highlighted');\n        setTimeout(() => {\n          element.classList.remove('highlighted');\n        }, 2000);\n      }\n    });\n  }\n\n  /**\n   * Get card metrics for analytics\n   */\n  public getAnalytics(): VocabularyCardAnalytics {\n    return {\n      wordId: this.props.word.id,\n      word: this.props.word.word,\n      pronunciationPlays: 0, // Would track this in a real implementation\n      timeSpent: 0, // Would track this in a real implementation\n      selected: this.isSelected,\n      translationViewed: this.props.showTranslation\n    };\n  }\n\n  /**\n   * Cleanup on destroy\n   */\n  protected onDestroy(): void {\n    // Stop any ongoing audio\n    if (this.isPlaying) {\n      audioService.stopPlayback();\n    }\n  }\n}\n\n// Supporting interfaces\ninterface VocabularyCardAnalytics {\n  wordId: string;\n  word: string;\n  pronunciationPlays: number;\n  timeSpent: number;\n  selected: boolean;\n  translationViewed: boolean;\n}"
+import { Component } from '@components/core/Component';
+import { audioService } from '@services/AudioService';
+import type { VocabularyCardProps, VocabularyItem } from '@/types';
+
+/**
+ * VocabularyCard Component
+ * Interactive vocabulary display with pronunciation and selection
+ */
+export class VocabularyCard extends Component<VocabularyCardProps> {
+  private isPlaying = false;
+  private isSelected = false;
+
+  constructor(props: VocabularyCardProps) {
+    super(props);
+    this.isSelected = props.selected || false;
+  }
+
+  protected createElement(): HTMLElement {
+    const card = document.createElement('div');
+    card.className = 'vocabulary-card';
+    
+    const word = this.props.word;
+    card.innerHTML = `
+      <div class="vocabulary-card__header">
+        <div class="vocabulary-card__word-info">
+          <h3 class="vocabulary-card__word">${word.word}</h3>
+          <span class="vocabulary-card__pronunciation">${word.pronunciation.ipa}</span>
+          <span class="vocabulary-card__pos">${word.part_of_speech}</span>
+          <span class="vocabulary-card__cefr">${word.cefr}</span>
+        </div>
+        <div class="vocabulary-card__controls">
+          <button class="pronunciation-btn" type="button" aria-label="Play pronunciation">
+            <span class="pronunciation-btn__icon">🔊</span>
+          </button>
+          <button class="select-btn" type="button" aria-label="Select for quiz">
+            <span class="select-btn__icon">✓</span>
+          </button>
+        </div>
+      </div>
+      
+      <div class="vocabulary-card__content">
+        <div class="vocabulary-card__definition">
+          <strong>Definition:</strong> ${word.definition}
+        </div>
+        
+        <div class="vocabulary-card__translation ${this.props.showTranslation ? 'visible' : 'hidden'}">
+          <strong>Vietnamese:</strong> ${word.translation}
+        </div>
+        
+        <div class="vocabulary-card__examples">
+          <strong>Examples:</strong>
+          <ul class="examples-list">
+            ${word.examples.map(example => `
+              <li class="example-item">
+                <div class="example-text">${example.text}</div>
+                <div class="example-translation">${example.translation}</div>
+              </li>
+            `).join('')}
+          </ul>
+        </div>
+        
+        ${word.collocations.length > 0 ? `
+          <div class="vocabulary-card__collocations">
+            <strong>Common phrases:</strong>
+            <div class="collocations-list">
+              ${word.collocations.map(coll => `
+                <span class="collocation-item">${coll.phrase}</span>
+              `).join('')}
+            </div>
+          </div>
+        ` : ''}
+        
+        ${word.synonyms.length > 0 ? `
+          <div class="vocabulary-card__synonyms">
+            <strong>Synonyms:</strong>
+            <div class="synonyms-list">
+              ${word.synonyms.map(syn => `
+                <span class="synonym-item">${syn.word} <small>(${syn.cefr})</small></span>
+              `).join('')}
+            </div>
+          </div>
+        ` : ''}
+      </div>
+      
+      <div class="vocabulary-card__footer">
+        <div class="frequency-indicator">
+          <span class="frequency-label">Frequency:</span>
+          <span class="frequency-value frequency--${word.frequency}">${word.frequency}</span>
+        </div>
+        <div class="audio-indicators">
+          ${word.pronunciation.audio_files.map(audio => `
+            <span class="accent-indicator accent--${audio.accent}" title="${audio.accent} accent available">
+              ${audio.accent.substring(0, 2).toUpperCase()}
+            </span>
+          `).join('')}
+        </div>
+      </div>
+    `;
+
+    this.updateSelectedState();
+    return card;
+  }
+
+  protected bindEvents(): void {
+    const pronunciationBtn = this.querySelector('.pronunciation-btn');
+    const selectBtn = this.querySelector('.select-btn');
+    const card = this.element;
+
+    // Pronunciation button click
+    pronunciationBtn?.addEventListener('click', async (e) => {
+      e.stopPropagation();
+      await this.playPronunciation();
+    });
+
+    // Selection button click
+    selectBtn?.addEventListener('click', (e) => {
+      e.stopPropagation();
+      this.toggleSelection();
+    });
+
+    // Card click for pronunciation (double-click prevention)
+    let clickTimer: NodeJS.Timeout | null = null;
+    card.addEventListener('click', () => {
+      if (clickTimer) {
+        clearTimeout(clickTimer);
+        clickTimer = null;
+        return; // This is a double-click, ignore
+      }
+      
+      clickTimer = setTimeout(async () => {
+        await this.playPronunciation();
+        clickTimer = null;
+      }, 300);
+    });
+
+    // Double-click for selection
+    card.addEventListener('dblclick', () => {
+      this.toggleSelection();
+    });
+
+    // Keyboard navigation
+    card.addEventListener('keydown', async (e) => {
+      switch (e.key) {
+        case 'Enter':
+        case ' ':
+          e.preventDefault();
+          await this.playPronunciation();
+          break;
+        case 's':
+        case 'S':
+          e.preventDefault();
+          this.toggleSelection();
+          break;
+        case 't':
+        case 'T':
+          e.preventDefault();
+          this.toggleTranslation();
+          break;
+      }
+    });
+
+    // Hover effects for accessibility
+    card.addEventListener('mouseenter', () => {
+      if (!this.isPlaying) {
+        card.classList.add('hovered');
+      }
+    });
+
+    card.addEventListener('mouseleave', () => {
+      card.classList.remove('hovered');
+    });
+  }
+
+  /**
+   * Play pronunciation audio
+   */
+  private async playPronunciation(): Promise<void> {
+    if (this.isPlaying) return;
+
+    const pronunciationBtn = this.querySelector('.pronunciation-btn');
+    const word = this.props.word;
+
+    try {
+      this.isPlaying = true;
+      pronunciationBtn?.classList.add('playing');
+      this.element.classList.add('playing-audio');
+
+      await audioService.playPronunciation(
+        word.word,
+        word.pronunciation.audio_files,
+        true
+      );
+
+      // Call parent callback
+      this.props.onPronounce?.(word.pronunciation.audio_files[0]?.file || '');
+
+      // Emit event
+      this.eventBus.emit('pronunciation-play', word.word);
+
+      // Visual feedback animation
+      this.animate('pulse-pronunciation', 600);
+
+    } catch (error) {
+      console.error('Failed to play pronunciation:', error);
+      this.element.classList.add('audio-error');
+      setTimeout(() => {
+        this.element.classList.remove('audio-error');
+      }, 1000);
+    } finally {
+      this.isPlaying = false;
+      pronunciationBtn?.classList.remove('playing');
+      this.element.classList.remove('playing-audio');
+    }
+  }
+
+  /**
+   * Toggle selection state
+   */
+  private toggleSelection(): void {
+    this.isSelected = !this.isSelected;
+    this.updateSelectedState();
+    
+    // Call parent callback
+    this.props.onSelect?.(this.props.word);
+    
+    // Visual feedback
+    this.animate(this.isSelected ? 'select-in' : 'select-out', 300);
+  }
+
+  /**
+   * Update visual selection state
+   */
+  private updateSelectedState(): void {
+    const selectBtn = this.querySelector('.select-btn');
+    
+    this.element.classList.toggle('selected', this.isSelected);
+    this.element.setAttribute('aria-selected', this.isSelected.toString());
+    
+    if (selectBtn) {
+      selectBtn.classList.toggle('active', this.isSelected);
+      const icon = selectBtn.querySelector('.select-btn__icon');
+      if (icon) {
+        icon.textContent = this.isSelected ? '✓' : '+';
+      }
+    }
+  }
+
+  /**
+   * Toggle translation visibility
+   */
+  private toggleTranslation(): void {
+    const translationEl = this.querySelector('.vocabulary-card__translation');
+    if (translationEl) {
+      const isVisible = translationEl.classList.contains('visible');
+      translationEl.classList.toggle('visible', !isVisible);
+      translationEl.classList.toggle('hidden', isVisible);
+      
+      this.updateProps({ showTranslation: !isVisible });
+    }
+  }
+
+  /**
+   * Set focus on the card
+   */
+  public focus(): void {
+    this.element.focus();
+    this.element.classList.add('focused');
+  }
+
+  /**
+   * Remove focus from the card
+   */
+  public blur(): void {
+    this.element.blur();
+    this.element.classList.remove('focused');
+  }
+
+  /**
+   * Get selection state
+   */
+  public isCardSelected(): boolean {
+    return this.isSelected;
+  }
+
+  /**
+   * Set selection state programmatically
+   */
+  public setSelected(selected: boolean): void {
+    if (this.isSelected !== selected) {
+      this.isSelected = selected;
+      this.updateSelectedState();
+    }
+  }
+
+  /**
+   * Get vocabulary word
+   */
+  public getVocabulary(): VocabularyItem {
+    return this.props.word;
+  }
+
+  /**
+   * Update card content when props change
+   */
+  protected onPropsUpdate(): void {
+    const hasWordChanged = this.props.word.id !== this.props.word.id;
+    const hasSelectionChanged = this.props.selected !== this.isSelected;
+    
+    if (hasSelectionChanged) {
+      this.isSelected = this.props.selected || false;
+      this.updateSelectedState();
+    }
+    
+    if (hasWordChanged) {
+      // Re-create the element with new word data
+      const newElement = this.createElement();
+      this.element.replaceWith(newElement);
+      this.element = newElement;
+      this.bindEvents();
+    }
+  }
+
+  /**
+   * Start pronunciation automatically
+   */
+  public async autoPlay(): Promise<void> {
+    await this.playPronunciation();
+  }
+
+  /**
+   * Highlight specific example or collocation
+   */
+  public highlightUsage(text: string): void {
+    const examples = this.querySelectorAll('.example-text, .collocation-item');
+    examples.forEach(el => {
+      const element = el as HTMLElement;
+      if (element.textContent?.toLowerCase().includes(text.toLowerCase())) {
+        element.classList.add('highlighted');
+        setTimeout(() => {
+          element.classList.remove('highlighted');
+        }, 2000);
+      }
+    });
+  }
+
+  /**
+   * Get card metrics for analytics
+   */
+  public getAnalytics(): VocabularyCardAnalytics {
+    return {
+      wordId: this.props.word.id,
+      word: this.props.word.word,
+      pronunciationPlays: 0, // Would track this in a real implementation
+      timeSpent: 0, // Would track this in a real implementation
+      selected: this.isSelected,
+      translationViewed: this.props.showTranslation
+    };
+  }
+
+  /**
+   * Cleanup on destroy
+   */
+  protected onDestroy(): void {
+    // Stop any ongoing audio
+    if (this.isPlaying) {
+      audioService.stopPlayback();
+    }
+  }
+}
+
+// Supporting interfaces
+interface VocabularyCardAnalytics {
+  wordId: string;
+  word: string;
+  pronunciationPlays: number;
+  timeSpent: number;
+  selected: boolean;
+  translationViewed: boolean;
+}

@@ -47,15 +47,15 @@ async function initializeApp(): Promise<void> {
           loadingScreen.style.display = 'none';
       errorBoundary.style.display = 'flex';
       errorBoundary.innerHTML = `
-        <div style=\"text-align: center; padding: 2rem; max-width: 500px;\">
-          <h2 style=\"color: #dc2626; margin-bottom: 1rem;\">🚫 Failed to Load App</h2>
-          <p style=\"color: #6b7280; margin-bottom: 1.5rem;\">There was an error loading the English Learning App V2.</p>
-          <details style=\"margin-bottom: 1.5rem; text-align: left;\">
-            <summary style=\"cursor: pointer; color: #2563eb; font-weight: 600;\">Error Details</summary>
-            <pre style=\"background: #f3f4f6; padding: 1rem; border-radius: 0.5rem; margin-top: 0.5rem; overflow-x: auto; font-size: 0.875rem;\">${error instanceof Error ? error.stack || error.message : String(error)}</pre>
+        <div style="text-align: center; padding: 2rem; max-width: 500px;">
+          <h2 style="color: #dc2626; margin-bottom: 1rem;">🚫 Failed to Load App</h2>
+          <p style="color: #6b7280; margin-bottom: 1.5rem;">There was an error loading the English Learning App V2.</p>
+          <details style="margin-bottom: 1.5rem; text-align: left;">
+            <summary style="cursor: pointer; color: #2563eb; font-weight: 600;">Error Details</summary>
+            <pre style="background: #f3f4f6; padding: 1rem; border-radius: 0.5rem; margin-top: 0.5rem; overflow-x: auto; font-size: 0.875rem;">${error instanceof Error ? error.stack || error.message : String(error)}</pre>
           </details>
-          <button onclick=\"window.location.reload()\" 
-                  style=\"background: #2563eb; color: white; border: none; padding: 0.75rem 1.5rem; border-radius: 0.5rem; cursor: pointer; font-weight: 600; font-size: 1rem;\">
+          <button onclick="window.location.reload()" 
+                  style="background: #2563eb; color: white; border: none; padding: 0.75rem 1.5rem; border-radius: 0.5rem; cursor: pointer; font-weight: 600; font-size: 1rem;">
             🔄 Reload App
           </button>
         </div>
@@ -164,7 +164,7 @@ function setupGlobalKeyboardShortcuts(): void {
     // Global navigation
     if (event.key === 'Escape') {
           // Close modals, dropdowns, etc.
-      const activeModal = document.querySelector('[data-modal][data-active=\"true\"]');
+      const activeModal = document.querySelector('[data-modal][data-active="true"]');
       if (activeModal) {
             activeModal.setAttribute('data-active', 'false');
       }
@@ -210,7 +210,7 @@ function setupAccessibilityEnhancements(): void {
   
   const updateFocusableElements = () => {
         focusableElements = document.querySelectorAll(
-          'button, [href], input, select, textarea, [tabindex]:not([tabindex=\"-1\"])'
+          'button, [href], input, select, textarea, [tabindex]:not([tabindex="-1"])'
     );
   };
   

@@ -277,4 +277,216 @@
 }
 
 @keyframes shake {
-  0%, 100% { transform: translateX(0); }\n  25% { transform: translateX(-2px); }\n  75% { transform: translateX(2px); }\n}\n\n/* Vocabulary Preview Tooltip */\n\n.vocabulary-preview {\n  position: fixed;\n  background: var(--card-background);\n  border: 1px solid var(--border-color);\n  border-radius: var(--border-radius);\n  box-shadow: var(--shadow-lg);\n  padding: 0;\n  z-index: 1000;\n  max-width: 320px;\n  opacity: 0;\n  transform: translateY(-10px);\n  transition: all 0.2s ease;\n  pointer-events: none;\n}\n\n.vocabulary-preview.visible {\n  opacity: 1;\n  transform: translateY(0);\n}\n\n.vocabulary-preview__content {\n  padding: 1rem;\n}\n\n.vocabulary-preview__pronunciation {\n  font-family: 'Consolas', 'Monaco', 'Courier New', monospace;\n  font-size: 0.875rem;\n  color: var(--primary-color);\n  font-weight: 500;\n  margin-bottom: 0.5rem;\n}\n\n.vocabulary-preview__definition {\n  font-size: 1rem;\n  color: var(--text-primary);\n  margin-bottom: 0.5rem;\n  font-weight: 500;\n}\n\n.vocabulary-preview__translation {\n  font-size: 0.875rem;\n  color: var(--text-secondary);\n  font-style: italic;\n  margin-bottom: 0.75rem;\n}\n\n.vocabulary-preview__hint {\n  font-size: 0.75rem;\n  color: var(--text-tertiary);\n  text-align: center;\n  padding: 0.5rem;\n  background: var(--background);\n  border-radius: 0 0 var(--border-radius) var(--border-radius);\n  margin: 0 -1rem -1rem -1rem;\n  border-top: 1px solid var(--border-color);\n}\n\n/* Error Message */\n\n.error-message {\n  text-align: center;\n  padding: 3rem 2rem;\n  color: var(--text-secondary);\n}\n\n.error-message h3 {\n  color: var(--error-color);\n  margin-bottom: 1rem;\n}\n\n.error-message p {\n  margin: 0;\n}\n\n/* Loading State */\n\n.markdown-viewer.loading {\n  pointer-events: none;\n}\n\n.markdown-viewer.loading .markdown-viewer__content {\n  opacity: 0.5;\n  position: relative;\n}\n\n.markdown-viewer.loading .markdown-viewer__content::after {\n  content: '';\n  position: absolute;\n  top: 50%;\n  left: 50%;\n  width: 32px;\n  height: 32px;\n  border: 3px solid var(--border-color);\n  border-top: 3px solid var(--primary-color);\n  border-radius: 50%;\n  animation: spin 1s linear infinite;\n  transform: translate(-50%, -50%);\n}\n\n/* Responsive Design */\n\n@media (max-width: 768px) {\n  .markdown-viewer__content {\n    padding: 1rem;\n    font-size: 1rem;\n  }\n  \n  .markdown-viewer__content h1 {\n    font-size: 2rem;\n  }\n  \n  .markdown-viewer__content h2 {\n    font-size: 1.75rem;\n  }\n  \n  .markdown-viewer__content h3 {\n    font-size: 1.5rem;\n  }\n  \n  .markdown-viewer__controls {\n    flex-direction: column;\n    gap: 0.75rem;\n    align-items: stretch;\n  }\n  \n  .vocab-toggle {\n    justify-content: center;\n  }\n  \n  .vocabulary-preview {\n    max-width: 280px;\n    left: 1rem !important;\n    right: 1rem;\n    width: calc(100% - 2rem);\n  }\n}\n\n@media (max-width: 480px) {\n  .markdown-viewer__content {\n    padding: 0.75rem;\n    font-size: 0.95rem;\n  }\n  \n  .vocabulary-word {\n    padding: 0.1rem 0.2rem;\n  }\n  \n  .vocabulary-preview {\n    max-width: none;\n    left: 0.5rem !important;\n    right: 0.5rem;\n    width: calc(100% - 1rem);\n  }\n}\n\n/* High Contrast Mode */\n\n@media (prefers-contrast: high) {\n  .vocabulary-word {\n    background: var(--text-primary);\n    color: var(--card-background);\n    border: 2px solid var(--primary-color);\n  }\n  \n  .vocabulary-word:hover,\n  .vocabulary-word:focus {\n    background: var(--primary-color);\n    color: white;\n  }\n}\n\n/* Reduced Motion */\n\n@media (prefers-reduced-motion: reduce) {\n  .vocabulary-word,\n  .vocab-toggle,\n  .vocabulary-preview {\n    transition: none;\n  }\n  \n  .vocabulary-word.clicking {\n    transform: none;\n  }\n  \n  .vocabulary-word.error {\n    animation: none;\n  }\n}\n\n/* Print Styles */\n\n@media print {\n  .markdown-viewer__controls {\n    display: none;\n  }\n  \n  .vocabulary-word {\n    background: none;\n    text-decoration: underline;\n    color: inherit;\n  }\n  \n  .vocabulary-preview {\n    display: none;\n  }\n}"
+  0%, 100% { transform: translateX(0); }
+  25% { transform: translateX(-2px); }
+  75% { transform: translateX(2px); }
+}
+
+/* Vocabulary Preview Tooltip */
+
+.vocabulary-preview {
+  position: fixed;
+  background: var(--card-background);
+  border: 1px solid var(--border-color);
+  border-radius: var(--border-radius);
+  box-shadow: var(--shadow-lg);
+  padding: 0;
+  z-index: 1000;
+  max-width: 320px;
+  opacity: 0;
+  transform: translateY(-10px);
+  transition: all 0.2s ease;
+  pointer-events: none;
+}
+
+.vocabulary-preview.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.vocabulary-preview__content {
+  padding: 1rem;
+}
+
+.vocabulary-preview__pronunciation {
+  font-family: 'Consolas', 'Monaco', 'Courier New', monospace;
+  font-size: 0.875rem;
+  color: var(--primary-color);
+  font-weight: 500;
+  margin-bottom: 0.5rem;
+}
+
+.vocabulary-preview__definition {
+  font-size: 1rem;
+  color: var(--text-primary);
+  margin-bottom: 0.5rem;
+  font-weight: 500;
+}
+
+.vocabulary-preview__translation {
+  font-size: 0.875rem;
+  color: var(--text-secondary);
+  font-style: italic;
+  margin-bottom: 0.75rem;
+}
+
+.vocabulary-preview__hint {
+  font-size: 0.75rem;
+  color: var(--text-tertiary);
+  text-align: center;
+  padding: 0.5rem;
+  background: var(--background);
+  border-radius: 0 0 var(--border-radius) var(--border-radius);
+  margin: 0 -1rem -1rem -1rem;
+  border-top: 1px solid var(--border-color);
+}
+
+/* Error Message */
+
+.error-message {
+  text-align: center;
+  padding: 3rem 2rem;
+  color: var(--text-secondary);
+}
+
+.error-message h3 {
+  color: var(--error-color);
+  margin-bottom: 1rem;
+}
+
+.error-message p {
+  margin: 0;
+}
+
+/* Loading State */
+
+.markdown-viewer.loading {
+  pointer-events: none;
+}
+
+.markdown-viewer.loading .markdown-viewer__content {
+  opacity: 0.5;
+  position: relative;
+}
+
+.markdown-viewer.loading .markdown-viewer__content::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 32px;
+  height: 32px;
+  border: 3px solid var(--border-color);
+  border-top: 3px solid var(--primary-color);
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+  transform: translate(-50%, -50%);
+}
+
+/* Responsive Design */
+
+@media (max-width: 768px) {
+  .markdown-viewer__content {
+    padding: 1rem;
+    font-size: 1rem;
+  }
+  
+  .markdown-viewer__content h1 {
+    font-size: 2rem;
+  }
+  
+  .markdown-viewer__content h2 {
+    font-size: 1.75rem;
+  }
+  
+  .markdown-viewer__content h3 {
+    font-size: 1.5rem;
+  }
+  
+  .markdown-viewer__controls {
+    flex-direction: column;
+    gap: 0.75rem;
+    align-items: stretch;
+  }
+  
+  .vocab-toggle {
+    justify-content: center;
+  }
+  
+  .vocabulary-preview {
+    max-width: 280px;
+    left: 1rem !important;
+    right: 1rem;
+    width: calc(100% - 2rem);
+  }
+}
+
+@media (max-width: 480px) {
+  .markdown-viewer__content {
+    padding: 0.75rem;
+    font-size: 0.95rem;
+  }
+  
+  .vocabulary-word {
+    padding: 0.1rem 0.2rem;
+  }
+  
+  .vocabulary-preview {
+    max-width: none;
+    left: 0.5rem !important;
+    right: 0.5rem;
+    width: calc(100% - 1rem);
+  }
+}
+
+/* High Contrast Mode */
+
+@media (prefers-contrast: high) {
+  .vocabulary-word {
+    background: var(--text-primary);
+    color: var(--card-background);
+    border: 2px solid var(--primary-color);
+  }
+  
+  .vocabulary-word:hover,
+  .vocabulary-word:focus {
+    background: var(--primary-color);
+    color: white;
+  }
+}
+
+/* Reduced Motion */
+
+@media (prefers-reduced-motion: reduce) {
+  .vocabulary-word,
+  .vocab-toggle,
+  .vocabulary-preview {
+    transition: none;
+  }
+  
+  .vocabulary-word.clicking {
+    transform: none;
+  }
+  
+  .vocabulary-word.error {
+    animation: none;
+  }
+}
+
+/* Print Styles */
+
+@media print {
+  .markdown-viewer__controls {
+    display: none;
+  }
+  
+  .vocabulary-word {
+    background: none;
+    text-decoration: underline;
+    color: inherit;
+  }
+  
+  .vocabulary-preview {
+    display: none;
+  }
+}

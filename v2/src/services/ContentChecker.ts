@@ -160,10 +160,8 @@ export class ContentChecker {
   public async generateContentHash(content: string): Promise<string> {
         // Clean content for consistent hashing
     const cleanContent = content
-      .replace(/\\r\
-/g, '\
-') // Normalize line endings
-      .replace(/\\s+$/gm, '') // Remove trailing whitespace
+      .replace(/\r\n/g, '\n') // Normalize line endings
+      .replace(/\s+$/gm, '') // Remove trailing whitespace
       .trim();
     
     // Use Web Crypto API for hashing
