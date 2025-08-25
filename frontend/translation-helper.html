@@ -1,0 +1,983 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>English Translation Helper - Phân tích từng từ và dịch câu</title>
+    
+    <!-- Libraries -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/dompurify@3.0.8/dist/purify.min.js"></script>
+    
+    <style>
+        :root {
+            --primary: #1976d2;
+            --primary-dark: #1565c0;
+            --success: #2e7d32;
+            --error: #d32f2f;
+            --warning: #f57c00;
+            --gray-50: #fafafa;
+            --gray-100: #f5f5f5;
+            --gray-200: #eeeeee;
+            --gray-300: #e0e0e0;
+            --gray-400: #bdbdbd;
+            --gray-500: #9e9e9e;
+            --gray-600: #757575;
+            --gray-700: #616161;
+            --gray-800: #424242;
+            --gray-900: #212121;
+            --shadow-sm: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+            --shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+            --shadow-lg: 0 10px 30px rgba(0,0,0,0.19), 0 6px 10px rgba(0,0,0,0.23);
+            --radius: 8px;
+        }
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: var(--gray-100);
+            color: var(--gray-900);
+            line-height: 1.6;
+            min-height: 100vh;
+        }
+        
+        /* Header */
+        .header {
+            background: white;
+            box-shadow: var(--shadow-sm);
+            padding: 1rem;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+        
+        .header-content {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+        }
+        
+        .logo {
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+            font-size: 1.5rem;
+            font-weight: 600;
+            color: var(--primary);
+        }
+        
+        .logo-icon {
+            width: 48px;
+            height: 48px;
+            background: var(--primary);
+            border-radius: var(--radius);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-size: 1.5rem;
+        }
+        
+        /* Container */
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 2rem 1rem;
+        }
+        
+        /* Form Styles */
+        .form-section {
+            background: white;
+            border-radius: var(--radius);
+            box-shadow: var(--shadow);
+            padding: 2rem;
+            margin-bottom: 2rem;
+        }
+        
+        .required-section {
+            background: #e3f2fd;
+            border: 2px solid var(--primary);
+        }
+        
+        .section-title {
+            font-size: 1.25rem;
+            font-weight: 600;
+            margin-bottom: 1.5rem;
+            color: var(--gray-800);
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+        
+        .form-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1rem;
+            margin-bottom: 1.5rem;
+        }
+        
+        .form-group {
+            margin-bottom: 1.5rem;
+        }
+        
+        .form-label {
+            display: block;
+            font-weight: 600;
+            margin-bottom: 0.5rem;
+            color: var(--gray-700);
+        }
+        
+        .required {
+            color: var(--error);
+        }
+        
+        .form-input,
+        .form-select,
+        .form-textarea {
+            width: 100%;
+            padding: 0.75rem;
+            border: 2px solid var(--gray-300);
+            border-radius: var(--radius);
+            font-size: 1rem;
+            transition: border-color 0.3s, box-shadow 0.3s;
+            background: white;
+        }
+        
+        .form-input:focus,
+        .form-select:focus,
+        .form-textarea:focus {
+            outline: none;
+            border-color: var(--primary);
+            box-shadow: 0 0 0 3px rgba(25, 118, 210, 0.1);
+        }
+        
+        .form-textarea {
+            resize: vertical;
+            min-height: 120px;
+        }
+        
+        .filename-preview {
+            margin-top: 0.5rem;
+            padding: 0.75rem;
+            background: var(--gray-50);
+            border-radius: var(--radius);
+            border-left: 4px solid var(--primary);
+            font-size: 0.9rem;
+        }
+        
+        .filename-preview.valid {
+            border-left-color: var(--success);
+            color: var(--success);
+        }
+        
+        .filename-preview.warning {
+            border-left-color: var(--warning);
+            color: var(--warning);
+        }
+        
+        /* Button Styles */
+        .btn {
+            padding: 0.75rem 1.5rem;
+            border: none;
+            border-radius: var(--radius);
+            font-size: 1rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s;
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            text-decoration: none;
+        }
+        
+        .btn-primary {
+            background: var(--primary);
+            color: white;
+        }
+        
+        .btn-primary:hover {
+            background: var(--primary-dark);
+            transform: translateY(-1px);
+            box-shadow: var(--shadow);
+        }
+        
+        .btn-primary:disabled {
+            background: var(--gray-400);
+            cursor: not-allowed;
+            transform: none;
+        }
+        
+        .btn-large {
+            padding: 1rem 2rem;
+            font-size: 1.1rem;
+        }
+        
+        /* Loading State */
+        .loading {
+            display: inline-block;
+            width: 20px;
+            height: 20px;
+            border: 2px solid rgba(255,255,255,0.3);
+            border-top: 2px solid white;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+        }
+        
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        
+        /* Results Section */
+        .results-section {
+            background: white;
+            border-radius: var(--radius);
+            box-shadow: var(--shadow);
+            padding: 2rem;
+            margin-bottom: 2rem;
+            display: none;
+        }
+        
+        .results-section.show {
+            display: block;
+        }
+        
+        .result-content {
+            font-size: 1rem;
+            line-height: 1.8;
+        }
+        
+        .result-content h2 {
+            color: var(--primary);
+            margin: 1.5rem 0 1rem 0;
+            padding-bottom: 0.5rem;
+            border-bottom: 2px solid var(--gray-200);
+        }
+        
+        .result-content h3 {
+            color: var(--gray-800);
+            margin: 1rem 0 0.5rem 0;
+        }
+        
+        .result-content ul {
+            margin-left: 1.5rem;
+            margin-bottom: 1rem;
+        }
+        
+        .result-content li {
+            margin-bottom: 0.5rem;
+        }
+        
+        .result-content strong {
+            color: var(--primary);
+        }
+        
+        .result-content code {
+            background: var(--gray-100);
+            padding: 0.25rem 0.5rem;
+            border-radius: 4px;
+            font-family: 'Courier New', monospace;
+        }
+        
+        /* Download Section */
+        .download-section {
+            background: var(--gray-50);
+            border-radius: var(--radius);
+            padding: 1.5rem;
+            margin-top: 2rem;
+            border: 2px dashed var(--gray-300);
+            text-align: center;
+            display: none;
+        }
+        
+        .download-section.show {
+            display: block;
+        }
+        
+        .download-buttons {
+            display: flex;
+            gap: 1rem;
+            justify-content: center;
+            flex-wrap: wrap;
+            margin-top: 1rem;
+        }
+        
+        /* Error States */
+        .error-message {
+            background: #ffebee;
+            color: var(--error);
+            padding: 1rem;
+            border-radius: var(--radius);
+            border-left: 4px solid var(--error);
+            margin: 1rem 0;
+        }
+        
+        .success-message {
+            background: #e8f5e8;
+            color: var(--success);
+            padding: 1rem;
+            border-radius: var(--radius);
+            border-left: 4px solid var(--success);
+            margin: 1rem 0;
+        }
+        
+        /* Examples */
+        .examples-section {
+            background: white;
+            border-radius: var(--radius);
+            box-shadow: var(--shadow);
+            padding: 2rem;
+            margin-bottom: 2rem;
+        }
+        
+        .example-item {
+            background: var(--gray-50);
+            padding: 1rem;
+            border-radius: var(--radius);
+            margin-bottom: 1rem;
+            cursor: pointer;
+            border: 2px solid transparent;
+            transition: all 0.3s;
+        }
+        
+        .example-item:hover {
+            border-color: var(--primary);
+            background: white;
+            box-shadow: var(--shadow-sm);
+        }
+        
+        .example-meta {
+            font-size: 0.9rem;
+            color: var(--gray-600);
+            margin-bottom: 0.5rem;
+        }
+        
+        .example-text {
+            font-style: italic;
+            color: var(--gray-800);
+        }
+        
+        /* Responsive */
+        @media (max-width: 768px) {
+            .container {
+                padding: 1rem;
+            }
+            
+            .form-section {
+                padding: 1.5rem;
+            }
+            
+            .form-grid {
+                grid-template-columns: 1fr;
+            }
+            
+            .download-buttons {
+                flex-direction: column;
+            }
+            
+            .header-content {
+                flex-direction: column;
+                text-align: center;
+            }
+            
+            .logo {
+                font-size: 1.25rem;
+            }
+        }
+        
+        /* API Key Toggle */
+        .api-toggle {
+            cursor: pointer;
+            padding: 0.5rem;
+            background: var(--gray-100);
+            border-radius: var(--radius);
+            margin-bottom: 1rem;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            user-select: none;
+        }
+        
+        .api-toggle:hover {
+            background: var(--gray-200);
+        }
+        
+        .api-content {
+            display: none;
+            margin-top: 1rem;
+        }
+        
+        .api-content.show {
+            display: block;
+        }
+        
+        /* Status indicators */
+        .status-indicator {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.25rem;
+            font-size: 0.85rem;
+            margin-top: 0.5rem;
+        }
+        
+        .status-dot {
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+        }
+        
+        .status-success .status-dot {
+            background: var(--success);
+        }
+        
+        .status-error .status-dot {
+            background: var(--error);
+        }
+        
+        .status-warning .status-dot {
+            background: var(--warning);
+        }
+    </style>
+</head>
+<body>
+    <!-- Header -->
+    <div class="header">
+        <div class="header-content">
+            <div class="logo">
+                <div class="logo-icon">📚</div>
+                <div>
+                    <div>English Translation Helper</div>
+                    <div style="font-size: 0.8rem; font-weight: normal; color: var(--gray-600);">
+                        Phân tích từng từ và dịch câu tiếng Anh
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+        <!-- API Key Section -->
+        <div class="form-section">
+            <div class="api-toggle" onclick="toggleApiSection()">
+                <span>🔑 Cài đặt API Key</span>
+                <span id="apiToggleIcon">▼</span>
+            </div>
+            <div class="api-content" id="apiContent">
+                <div class="form-group">
+                    <label for="apiKey" class="form-label">Gemini API Key</label>
+                    <input 
+                        type="password" 
+                        id="apiKey" 
+                        class="form-input"
+                        placeholder="AIzaSy... (để trống để dùng key mặc định)"
+                    >
+                    <div class="status-indicator" id="apiKeyStatus">
+                        <div class="status-dot"></div>
+                        <span>Nhập API key hoặc để trống dùng mặc định</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Required Lesson Info -->
+        <div class="form-section required-section">
+            <div class="section-title">
+                📘 Thông tin bài học <span class="required">*</span>
+            </div>
+            
+            <div class="form-grid">
+                <div class="form-group">
+                    <label for="grade" class="form-label">
+                        🎓 Lớp <span class="required">*</span>
+                    </label>
+                    <select id="grade" class="form-select" required>
+                        <option value="">Chọn lớp</option>
+                        <option value="1">Lớp 1</option>
+                        <option value="2">Lớp 2</option>
+                        <option value="3">Lớp 3</option>
+                        <option value="4">Lớp 4</option>
+                        <option value="5">Lớp 5</option>
+                        <option value="6">Lớp 6</option>
+                        <option value="7">Lớp 7</option>
+                        <option value="8">Lớp 8</option>
+                        <option value="9">Lớp 9</option>
+                        <option value="10" selected>Lớp 10</option>
+                        <option value="11">Lớp 11</option>
+                        <option value="12">Lớp 12</option>
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label for="unit" class="form-label">
+                        📕 Unit <span class="required">*</span>
+                    </label>
+                    <input 
+                        type="number" 
+                        id="unit" 
+                        class="form-input"
+                        min="1" 
+                        max="20" 
+                        value="1"
+                        required
+                        placeholder="1"
+                    >
+                </div>
+
+                <div class="form-group">
+                    <label for="lesson" class="form-label">
+                        📄 Bài học <span class="required">*</span>
+                    </label>
+                    <select id="lesson" class="form-select" required>
+                        <option value="">Chọn bài học</option>
+                        <!-- Will be populated by JavaScript -->
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label for="book" class="form-label">
+                        📚 Sách giáo khoa
+                    </label>
+                    <select id="book" class="form-select">
+                        <option value="Global Success" selected>Global Success</option>
+                        <option value="English">English</option>
+                        <option value="i-Learn Smart World">i-Learn Smart World</option>
+                        <option value="Friends Plus">Friends Plus</option>
+                        <option value="Khác">Khác</option>
+                    </select>
+                </div>
+            </div>
+
+            <!-- Custom Filename -->
+            <div class="form-group">
+                <label for="customFileName" class="form-label">
+                    📝 Tên file tùy chỉnh <span class="required">*</span>
+                </label>
+                <input 
+                    type="text" 
+                    id="customFileName" 
+                    class="form-input"
+                    required
+                    placeholder="ví dụ: unit-01-reading-analysis"
+                >
+                <div class="filename-preview" id="fileNamePreview">
+                    💡 File sẽ được lưu với timestamp tự động thêm vào
+                </div>
+            </div>
+        </div>
+
+        <!-- Input Section -->
+        <div class="form-section">
+            <div class="section-title">
+                📝 Văn bản cần phân tích
+            </div>
+            
+            <div class="form-group">
+                <label for="textInput" class="form-label">
+                    Văn bản tiếng Anh <span class="required">*</span>
+                </label>
+                <textarea 
+                    id="textInput" 
+                    class="form-textarea"
+                    rows="6"
+                    required
+                    placeholder="Nhập hoặc dán văn bản tiếng Anh cần phân tích và dịch..."
+                ></textarea>
+            </div>
+
+            <div class="form-group">
+                <label for="contextInput" class="form-label">
+                    📖 Ngữ cảnh bổ sung (tùy chọn)
+                </label>
+                <input 
+                    type="text" 
+                    id="contextInput" 
+                    class="form-input"
+                    placeholder="Ví dụ: Bài về môi trường, công nghệ, xã hội..."
+                >
+            </div>
+
+            <button type="button" class="btn btn-primary btn-large" id="analyzeBtn">
+                🔍 Phân tích và dịch
+            </button>
+        </div>
+
+        <!-- Examples Section -->
+        <div class="examples-section">
+            <div class="section-title">
+                📌 Ví dụ
+            </div>
+            
+            <div class="example-item" onclick="loadExample(1)">
+                <div class="example-meta">Lớp 10 - Unit 1 - Reading - Global Success</div>
+                <div class="example-text">
+                    "The Internet has revolutionized the way we communicate and access information."
+                </div>
+            </div>
+            
+            <div class="example-item" onclick="loadExample(2)">
+                <div class="example-meta">Lớp 8 - Unit 3 - Skills 1 - Global Success</div>
+                <div class="example-text">
+                    "We must protect our environment for future generations."
+                </div>
+            </div>
+        </div>
+
+        <!-- Results Section -->
+        <div class="results-section" id="resultsSection">
+            <div class="section-title">
+                📊 Kết quả phân tích
+            </div>
+            <div class="result-content" id="resultContent">
+                <!-- Results will be displayed here -->
+            </div>
+            
+            <!-- Download Section -->
+            <div class="download-section" id="downloadSection">
+                <div class="section-title">
+                    💾 Tải xuống kết quả
+                </div>
+                <div class="download-buttons">
+                    <button class="btn btn-primary" id="downloadMdBtn">
+                        📄 Tải Markdown
+                    </button>
+                    <button class="btn btn-primary" id="downloadJsonBtn">
+                        📊 Tải JSON
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Configuration
+        const API_URL = 'http://localhost:3001/api/translation/analyze';
+        const DEFAULT_API_KEY = 'AIzaSyB-UDl_l6FGu4d1KkRG2QE2ZC2Tlx8w0MY';
+        
+        // Global variables
+        let currentAnalysis = null;
+        let currentFilename = '';
+        
+        // Lesson options for different grades
+        const lessonOptions = {
+            primary: [ // Grades 1-5
+                { value: 'lesson-1', text: 'Lesson 1' },
+                { value: 'lesson-2', text: 'Lesson 2' },
+                { value: 'lesson-3', text: 'Lesson 3' },
+                { value: 'review', text: 'Review' }
+            ],
+            thcs: [ // Grades 6-9
+                { value: 'getting-started', text: 'Getting Started' },
+                { value: 'a-closer-look-1', text: 'A Closer Look 1' },
+                { value: 'a-closer-look-2', text: 'A Closer Look 2' },
+                { value: 'communication', text: 'Communication' },
+                { value: 'skills-1-reading', text: 'Skills 1 - Reading' },
+                { value: 'skills-1-speaking', text: 'Skills 1 - Speaking' },
+                { value: 'skills-2-listening', text: 'Skills 2 - Listening' },
+                { value: 'skills-2-writing', text: 'Skills 2 - Writing' },
+                { value: 'looking-back', text: 'Looking Back' },
+                { value: 'project', text: 'Project' }
+            ],
+            thpt: [ // Grades 10-12
+                { value: 'getting-started', text: 'Getting Started' },
+                { value: 'language', text: 'Language' },
+                { value: 'reading', text: 'Reading' },
+                { value: 'speaking', text: 'Speaking' },
+                { value: 'listening', text: 'Listening' },
+                { value: 'writing', text: 'Writing' },
+                { value: 'communication-culture', text: 'Communication and Culture' },
+                { value: 'looking-back-project', text: 'Looking Back and Project' }
+            ]
+        };
+
+        // DOM elements
+        const elements = {
+            apiKey: document.getElementById('apiKey'),
+            grade: document.getElementById('grade'),
+            unit: document.getElementById('unit'),
+            lesson: document.getElementById('lesson'),
+            book: document.getElementById('book'),
+            customFileName: document.getElementById('customFileName'),
+            textInput: document.getElementById('textInput'),
+            contextInput: document.getElementById('contextInput'),
+            analyzeBtn: document.getElementById('analyzeBtn'),
+            resultsSection: document.getElementById('resultsSection'),
+            resultContent: document.getElementById('resultContent'),
+            downloadSection: document.getElementById('downloadSection'),
+            downloadMdBtn: document.getElementById('downloadMdBtn'),
+            downloadJsonBtn: document.getElementById('downloadJsonBtn'),
+            fileNamePreview: document.getElementById('fileNamePreview'),
+            apiKeyStatus: document.getElementById('apiKeyStatus')
+        };
+
+        // Initialize
+        document.addEventListener('DOMContentLoaded', function() {
+            updateLessons();
+            updateFileNamePreview();
+            
+            // Check for saved API key
+            const savedKey = localStorage.getItem('translation_api_key');
+            if (savedKey) {
+                elements.apiKey.value = savedKey;
+                updateApiKeyStatus(true);
+            }
+            
+            // Event listeners
+            elements.grade.addEventListener('change', updateLessons);
+            elements.customFileName.addEventListener('input', updateFileNamePreview);
+            elements.apiKey.addEventListener('input', handleApiKeyChange);
+            elements.analyzeBtn.addEventListener('click', analyzeText);
+            elements.downloadMdBtn.addEventListener('click', downloadMarkdown);
+            elements.downloadJsonBtn.addEventListener('click', downloadJson);
+        });
+
+        // Utility functions
+        function toggleApiSection() {
+            const content = document.getElementById('apiContent');
+            const icon = document.getElementById('apiToggleIcon');
+            
+            if (content.classList.contains('show')) {
+                content.classList.remove('show');
+                icon.textContent = '▼';
+            } else {
+                content.classList.add('show');
+                icon.textContent = '▲';
+            }
+        }
+
+        function getLessonChoices(grade) {
+            const gradeNum = parseInt(grade);
+            if (gradeNum >= 1 && gradeNum <= 5) {
+                return lessonOptions.primary;
+            } else if (gradeNum >= 6 && gradeNum <= 9) {
+                return lessonOptions.thcs;
+            } else {
+                return lessonOptions.thpt;
+            }
+        }
+
+        function updateLessons() {
+            const grade = elements.grade.value;
+            const lessons = getLessonChoices(grade);
+            
+            elements.lesson.innerHTML = '<option value="">Chọn bài học</option>';
+            lessons.forEach(lesson => {
+                const option = document.createElement('option');
+                option.value = lesson.value;
+                option.textContent = lesson.text;
+                elements.lesson.appendChild(option);
+            });
+            
+            // Select default for grade 10
+            if (grade === '10') {
+                elements.lesson.value = 'reading';
+            }
+        }
+
+        function sanitizeFileName(fileName) {
+            return fileName
+                .trim()
+                .replace(/[^a-zA-Z0-9\-_]/g, '-')
+                .replace(/--+/g, '-')
+                .replace(/^-|-$/g, '')
+                .toLowerCase();
+        }
+
+        function updateFileNamePreview() {
+            const fileName = elements.customFileName.value.trim();
+            const preview = elements.fileNamePreview;
+            
+            if (fileName) {
+                const sanitized = sanitizeFileName(fileName);
+                const timestamp = new Date().toISOString().replace(/[:.]/g, '-').slice(0, -5);
+                const finalName = `${sanitized}-${timestamp}`;
+                
+                if (sanitized !== fileName) {
+                    preview.innerHTML = `⚠️ Sẽ được lưu thành: <strong>${finalName}.md</strong> <em>(đã điều chỉnh tên file)</em>`;
+                    preview.className = 'filename-preview warning';
+                } else {
+                    preview.innerHTML = `✅ Sẽ được lưu thành: <strong>${finalName}.md</strong>`;
+                    preview.className = 'filename-preview valid';
+                }
+                currentFilename = finalName;
+            } else {
+                preview.innerHTML = '💡 File sẽ được lưu với timestamp tự động thêm vào';
+                preview.className = 'filename-preview';
+                currentFilename = '';
+            }
+        }
+
+        function handleApiKeyChange() {
+            const apiKey = elements.apiKey.value.trim();
+            if (apiKey) {
+                localStorage.setItem('translation_api_key', apiKey);
+                updateApiKeyStatus(true);
+            } else {
+                localStorage.removeItem('translation_api_key');
+                updateApiKeyStatus(false);
+            }
+        }
+
+        function updateApiKeyStatus(saved) {
+            const status = elements.apiKeyStatus;
+            if (saved) {
+                status.innerHTML = '<div class="status-dot"></div><span>API key đã lưu</span>';
+                status.className = 'status-indicator status-success';
+            } else {
+                status.innerHTML = '<div class="status-dot"></div><span>Sử dụng API key mặc định</span>';
+                status.className = 'status-indicator status-warning';
+            }
+        }
+
+        function loadExample(exampleNum) {
+            if (exampleNum === 1) {
+                elements.grade.value = '10';
+                elements.unit.value = '1';
+                updateLessons();
+                setTimeout(() => {
+                    elements.lesson.value = 'reading';
+                    elements.book.value = 'Global Success';
+                    elements.customFileName.value = 'unit-01-reading-technology';
+                    elements.textInput.value = 'The Internet has revolutionized the way we communicate and access information.';
+                    elements.contextInput.value = 'Công nghệ';
+                    updateFileNamePreview();
+                }, 100);
+            } else if (exampleNum === 2) {
+                elements.grade.value = '8';
+                elements.unit.value = '3';
+                updateLessons();
+                setTimeout(() => {
+                    elements.lesson.value = 'skills-1-reading';
+                    elements.book.value = 'Global Success';
+                    elements.customFileName.value = 'unit-03-environment-protection';
+                    elements.textInput.value = 'We must protect our environment for future generations.';
+                    elements.contextInput.value = 'Môi trường';
+                    updateFileNamePreview();
+                }, 100);
+            }
+        }
+
+        function showError(message) {
+            elements.resultContent.innerHTML = `
+                <div class="error-message">
+                    ⚠️ ${message}
+                </div>
+            `;
+            elements.resultsSection.classList.add('show');
+            elements.downloadSection.classList.remove('show');
+        }
+
+        function showSuccess(message) {
+            const successDiv = document.createElement('div');
+            successDiv.className = 'success-message';
+            successDiv.innerHTML = `✅ ${message}`;
+            elements.resultContent.insertBefore(successDiv, elements.resultContent.firstChild);
+        }
+
+        async function analyzeText() {
+            // Get form data
+            const formData = {
+                apiKey: elements.apiKey.value.trim() || DEFAULT_API_KEY,
+                text: elements.textInput.value.trim(),
+                grade: parseInt(elements.grade.value),
+                unit: parseInt(elements.unit.value),
+                lesson: elements.lesson.value,
+                book: elements.book.value,
+                context: elements.contextInput.value.trim(),
+                customFileName: elements.customFileName.value.trim()
+            };
+
+            // Validate
+            if (!formData.text) {
+                showError('Vui lòng nhập văn bản cần dịch');
+                return;
+            }
+
+            if (!formData.grade || !formData.unit || !formData.lesson) {
+                showError('Vui lòng điền đầy đủ thông tin bài học');
+                return;
+            }
+
+            if (!formData.customFileName) {
+                showError('Vui lòng nhập tên file');
+                return;
+            }
+
+            // Show loading
+            elements.analyzeBtn.disabled = true;
+            elements.analyzeBtn.innerHTML = '<div class="loading"></div> Đang phân tích...';
+            elements.resultsSection.classList.remove('show');
+
+            try {
+                const response = await fetch(API_URL, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify(formData)
+                });
+
+                const data = await response.json();
+
+                if (!response.ok) {
+                    throw new Error(data.error || 'Không thể phân tích văn bản');
+                }
+
+                // Store current analysis
+                currentAnalysis = data;
+
+                // Display results
+                elements.resultContent.innerHTML = marked.parse(data.analysis);
+                elements.resultsSection.classList.add('show');
+                elements.downloadSection.classList.add('show');
+
+                showSuccess(`Phân tích hoàn thành! File đã được lưu: ${data.fileName}.md`);
+
+            } catch (error) {
+                console.error('Analysis error:', error);
+                showError('Lỗi: ' + error.message);
+            } finally {
+                // Reset button
+                elements.analyzeBtn.disabled = false;
+                elements.analyzeBtn.innerHTML = '🔍 Phân tích và dịch';
+            }
+        }
+
+        function downloadMarkdown() {
+            if (!currentAnalysis) return;
+
+            const content = currentAnalysis.fullMarkdown;
+            const blob = new Blob([content], { type: 'text/markdown;charset=utf-8' });
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = `${currentFilename}.md`;
+            document.body.appendChild(a);
+            a.click();
+            document.body.removeChild(a);
+            URL.revokeObjectURL(url);
+        }
+
+        function downloadJson() {
+            if (!currentAnalysis) return;
+
+            const content = JSON.stringify(currentAnalysis.jsonData, null, 2);
+            const blob = new Blob([content], { type: 'application/json;charset=utf-8' });
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = `${currentFilename}.json`;
+            document.body.appendChild(a);
+            a.click();
+            document.body.removeChild(a);
+            URL.revokeObjectURL(url);
+        }
+    </script>
+</body>
+</html>

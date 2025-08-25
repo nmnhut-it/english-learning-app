@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple Format Data Test</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        textarea {
+            width: 100%;
+            min-height: 100px;
+            margin: 10px 0;
+        }
+        input {
+            width: 100%;
+            padding: 5px;
+            margin: 5px 0;
+        }
+        button {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            cursor: pointer;
+            margin: 5px;
+        }
+        button:hover {
+            background-color: #45a049;
+        }
+        .result {
+            margin-top: 20px;
+            padding: 10px;
+            border: 1px solid #ddd;
+            background-color: #f9f9f9;
+        }
+        .error {
+            color: red;
+        }
+        .success {
+            color: green;
+        }
+    </style>
+</head>
+<body>
+    <h1>Simple Format Data Test</h1>
+    
+    <h2>Test with Simple Vocabulary</h2>
+    <textarea id="simpleContent" placeholder="Paste simple content here...">
+**famous**: /ˈfeɪməs/ (adj): nổi tiếng
+**traditional**: /trəˈdɪʃənl/ (adj): truyền thống
+**talented**: /ˈtæləntɪd/ (adj): tài năng</textarea>
+    
+    <input type="text" id="apiKey" placeholder="Enter your Gemini API key" />
+    
+    <button onclick="testSimple()">Test Simple Format</button>
+    <button onclick="testExercise()">Test Exercise Format</button>
+    
+    <div id="result" class="result"></div>
+
+    <script>
+        async function testSimple() {
+            const content = document.getElementById('simpleContent').value;
+            const apiKey = document.getElementById('apiKey').value;
+            const resultDiv = document.getElementById('result');
+            
+            if (!apiKey) {
+                resultDiv.innerHTML = '<div class="error">Please enter API key</div>';
+                return;
+            }
+            
+            resultDiv.innerHTML = 'Processing...';
+            
+            try {
+                const response = await fetch('/api/vocabulary/format-data', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({
+                        content,
+                        apiKey,
+                        source: 'Test',
+                        sourceUrl: 'http://test.com'
+                    })
+                });
+                
+                const data = await response.json();
+                
+                if (response.status === 429) {
+                    resultDiv.innerHTML = `<div class="error">Rate limit hit. Please wait ${data.retryAfter || 60} seconds and try again.</div>`;
+                } else if (data.success) {
+                    resultDiv.innerHTML = `
+                        <div class="success">Success!</div>
+                        <p>Type: ${data.detectedType}</p>
+                        <p>File: ${data.markdownPath}</p>
+                        <pre>${data.preview}</pre>
+                    `;
+                } else {
+                    resultDiv.innerHTML = `<div class="error">Error: ${data.error}</div>`;
+                }
+            } catch (error) {
+                resultDiv.innerHTML = `<div class="error">Error: ${error.message}</div>`;
+            }
+        }
+        
+        async function testExercise() {
+            const exerciseContent = `
+Speaking - Unit 1: Family life
+
+1. Complete the conversations by circling the best answers.
+
+1. Lan: Nam, do you think family routines are necessary?
+   Nam: Yes. _________ each family should have some routines to help build strong family bonds.
+   A. I'm not sure that
+   B. I strongly believe that
+   C. I agree that
+   D. I hope that
+
+Answer: B
+`;
+            
+            document.getElementById('simpleContent').value = exerciseContent;
+            await testSimple();
+        }
+    </script>
+</body>
+</html>

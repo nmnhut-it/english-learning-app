@@ -1,0 +1,395 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formatted Data Viewer</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f5f5f5;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        header {
+            background-color: #2c3e50;
+            color: white;
+            padding: 1rem 0;
+            margin-bottom: 2rem;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+
+        header h1 {
+            text-align: center;
+            font-size: 2rem;
+        }
+
+        .sidebar {
+            position: fixed;
+            left: 0;
+            top: 80px;
+            width: 250px;
+            height: calc(100vh - 80px);
+            background-color: white;
+            padding: 20px;
+            overflow-y: auto;
+            box-shadow: 2px 0 5px rgba(0,0,0,0.1);
+        }
+
+        .content {
+            margin-left: 270px;
+            background-color: white;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+
+        .file-list {
+            list-style: none;
+        }
+
+        .file-list h3 {
+            font-size: 1rem;
+            margin-bottom: 10px;
+            color: #2c3e50;
+            border-bottom: 2px solid #ecf0f1;
+            padding-bottom: 5px;
+        }
+
+        .file-item {
+            padding: 8px 12px;
+            margin: 5px 0;
+            cursor: pointer;
+            border-radius: 4px;
+            transition: all 0.3s ease;
+            font-size: 0.9rem;
+        }
+
+        .file-item:hover {
+            background-color: #3498db;
+            color: white;
+        }
+
+        .file-item.active {
+            background-color: #2980b9;
+            color: white;
+        }
+
+        .file-type {
+            display: inline-block;
+            padding: 2px 6px;
+            border-radius: 3px;
+            font-size: 0.75rem;
+            margin-right: 5px;
+        }
+
+        .type-vocabulary { background-color: #e74c3c; color: white; }
+        .type-reading_passage { background-color: #3498db; color: white; }
+        .type-grammar { background-color: #2ecc71; color: white; }
+        .type-dialogue { background-color: #9b59b6; color: white; }
+        .type-idioms { background-color: #f39c12; color: white; }
+        .type-exercise { background-color: #34495e; color: white; }
+        .type-study_unit { background-color: #16a085; color: white; }
+        .type-mixed_content { background-color: #95a5a6; color: white; }
+
+        /* Markdown content styling */
+        .markdown-content h1 {
+            font-size: 2rem;
+            margin-bottom: 1rem;
+            color: #2c3e50;
+            border-bottom: 2px solid #ecf0f1;
+            padding-bottom: 0.5rem;
+        }
+
+        .markdown-content h2 {
+            font-size: 1.5rem;
+            margin: 1.5rem 0 1rem;
+            color: #34495e;
+        }
+
+        .markdown-content h3 {
+            font-size: 1.25rem;
+            margin: 1rem 0 0.5rem;
+            color: #34495e;
+        }
+
+        .markdown-content p {
+            margin: 0.5rem 0;
+        }
+
+        .markdown-content strong {
+            color: #2c3e50;
+        }
+
+        .markdown-content ul, .markdown-content ol {
+            margin: 0.5rem 0 0.5rem 2rem;
+        }
+
+        .markdown-content li {
+            margin: 0.25rem 0;
+        }
+
+        .markdown-content blockquote {
+            border-left: 4px solid #3498db;
+            padding-left: 1rem;
+            margin: 1rem 0;
+            background-color: #f8f9fa;
+        }
+
+        .markdown-content code {
+            background-color: #f8f9fa;
+            padding: 2px 4px;
+            border-radius: 3px;
+            font-family: 'Courier New', monospace;
+        }
+
+        .markdown-content pre {
+            background-color: #f8f9fa;
+            padding: 1rem;
+            border-radius: 5px;
+            overflow-x: auto;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 50px;
+            font-size: 1.2rem;
+            color: #7f8c8d;
+        }
+
+        .error {
+            background-color: #fee;
+            color: #c33;
+            padding: 15px;
+            border-radius: 5px;
+            margin: 20px 0;
+        }
+
+        .search-box {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 15px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            font-size: 0.9rem;
+        }
+
+        /* Metadata styling */
+        .metadata {
+            background-color: #ecf0f1;
+            padding: 15px;
+            border-radius: 5px;
+            margin-bottom: 20px;
+        }
+
+        .metadata p {
+            margin: 5px 0;
+            font-size: 0.9rem;
+        }
+
+        @media (max-width: 768px) {
+            .sidebar {
+                position: static;
+                width: 100%;
+                height: auto;
+                margin-bottom: 20px;
+            }
+
+            .content {
+                margin-left: 0;
+            }
+        }
+    </style>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Formatted Data Viewer</h1>
+        </div>
+    </header>
+
+    <div class="sidebar">
+        <input type="text" class="search-box" placeholder="Search files..." id="searchBox">
+        <div class="file-list" id="fileList">
+            <div class="loading">Loading files...</div>
+        </div>
+    </div>
+
+    <div class="content" id="content">
+        <div class="loading">Select a file to view</div>
+    </div>
+
+    <script>
+        let allFiles = [];
+        let currentFile = null;
+
+        // Load file list from API
+        async function loadFileList() {
+            try {
+                const response = await fetch('/api/vocabulary/list-formatted-data');
+                const data = await response.json();
+                
+                if (data.success) {
+                    allFiles = data.files;
+                    displayFileList(allFiles);
+                } else {
+                    document.getElementById('fileList').innerHTML = '<div class="error">Failed to load files</div>';
+                }
+            } catch (error) {
+                console.error('Error loading files:', error);
+                document.getElementById('fileList').innerHTML = '<div class="error">Error loading files</div>';
+            }
+        }
+
+        // Display file list grouped by date
+        function displayFileList(files) {
+            const fileListEl = document.getElementById('fileList');
+            const groupedFiles = {};
+
+            // Group files by date
+            files.forEach(file => {
+                if (!groupedFiles[file.date]) {
+                    groupedFiles[file.date] = [];
+                }
+                groupedFiles[file.date].push(file);
+            });
+
+            // Sort dates in descending order
+            const sortedDates = Object.keys(groupedFiles).sort((a, b) => b.localeCompare(a));
+
+            let html = '';
+            sortedDates.forEach(date => {
+                html += `<h3>${formatDate(date)}</h3>`;
+                groupedFiles[date].forEach(file => {
+                    html += `
+                        <div class="file-item" onclick="loadFile('${file.path}')">
+                            <span class="file-type type-${file.type}">${file.type}</span>
+                            ${file.name}
+                        </div>
+                    `;
+                });
+            });
+
+            fileListEl.innerHTML = html;
+        }
+
+        // Format date for display
+        function formatDate(dateStr) {
+            const date = new Date(dateStr);
+            return date.toLocaleDateString('en-US', { 
+                weekday: 'short', 
+                year: 'numeric', 
+                month: 'short', 
+                day: 'numeric' 
+            });
+        }
+
+        // Load and display file content
+        async function loadFile(filePath) {
+            try {
+                // Update active state
+                document.querySelectorAll('.file-item').forEach(item => {
+                    item.classList.remove('active');
+                });
+                event.target.closest('.file-item').classList.add('active');
+
+                // Load file content
+                const response = await fetch('/api/vocabulary/get-formatted-data', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({ filePath })
+                });
+
+                const data = await response.json();
+                
+                if (data.success) {
+                    currentFile = data.content;
+                    displayContent(data.content);
+                } else {
+                    document.getElementById('content').innerHTML = '<div class="error">Failed to load file</div>';
+                }
+            } catch (error) {
+                console.error('Error loading file:', error);
+                document.getElementById('content').innerHTML = '<div class="error">Error loading file</div>';
+            }
+        }
+
+        // Display markdown content
+        function displayContent(markdownContent) {
+            const contentEl = document.getElementById('content');
+            
+            // Extract metadata from the beginning of the markdown
+            const lines = markdownContent.split('\n');
+            let metadataHtml = '<div class="metadata">';
+            let contentStartIndex = 0;
+            
+            // Look for metadata lines (starting with **)
+            for (let i = 0; i < lines.length; i++) {
+                const line = lines[i].trim();
+                if (line.startsWith('**') && line.includes(':')) {
+                    const match = line.match(/\*\*(.+?)\*\*:\s*(.+)/);
+                    if (match) {
+                        metadataHtml += `<p><strong>${match[1]}:</strong> `;
+                        
+                        // Make URLs clickable
+                        if (match[1].toLowerCase() === 'url' && match[2].startsWith('http')) {
+                            metadataHtml += `<a href="${match[2]}" target="_blank">${match[2]}</a>`;
+                        } else {
+                            metadataHtml += match[2];
+                        }
+                        metadataHtml += '</p>';
+                    }
+                } else if (line === '' && i > 0) {
+                    // Empty line after metadata
+                    contentStartIndex = i + 1;
+                    break;
+                } else if (line.startsWith('#')) {
+                    // Hit the first heading, metadata is done
+                    contentStartIndex = i;
+                    break;
+                }
+            }
+            
+            metadataHtml += '</div>';
+            
+            // Get the rest of the content
+            const mainContent = lines.slice(contentStartIndex).join('\n');
+            
+            // Parse markdown to HTML
+            const htmlContent = marked.parse(mainContent);
+            
+            // Combine metadata and content
+            contentEl.innerHTML = metadataHtml + '<div class="markdown-content">' + htmlContent + '</div>';
+        }
+
+        // Search functionality
+        document.getElementById('searchBox').addEventListener('input', (e) => {
+            const searchTerm = e.target.value.toLowerCase();
+            const filteredFiles = allFiles.filter(file => 
+                file.name.toLowerCase().includes(searchTerm) ||
+                file.type.toLowerCase().includes(searchTerm)
+            );
+            displayFileList(filteredFiles);
+        });
+
+        // Load files on page load
+        loadFileList();
+    </script>
+</body>
+</html>

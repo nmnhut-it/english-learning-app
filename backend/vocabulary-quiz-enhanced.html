@@ -910,6 +910,13 @@
                 <small style="color: #7f8c8d;">Get your key from <a href="https://makersuite.google.com/app/apikey" target="_blank">Google AI Studio</a></small>
             </div>
 
+            <div class="api-key-group">
+                <div class="api-key-label">📝 File name to save <span style="color: #e74c3c;">*</span>:</div>
+                <input type="text" id="fileName" placeholder="Enter filename (e.g., unit-01-vocabulary)" required>
+                <div class="api-key-status" id="fileNameStatus"></div>
+                <small style="color: #7f8c8d;">File will be saved as .md in vocabquiz folder</small>
+            </div>
+
             <textarea id="textInput" placeholder="Paste your vocabulary here (any format)..."></textarea>
             
             <div style="margin: 20px 0; text-align: center;">
@@ -1180,12 +1187,50 @@
             }
         });
 
+        // Validate filename when it changes
+        document.getElementById('fileName').addEventListener('input', function(e) {
+            updateFileNameStatus(e.target.value.trim());
+        });
+
+        function updateFileNameStatus(fileName) {
+            const status = document.getElementById('fileNameStatus');
+            if (fileName) {
+                // Basic filename validation
+                const sanitized = sanitizeFileName(fileName);
+                if (sanitized !== fileName) {
+                    status.className = 'api-key-status missing';
+                    status.innerHTML = '⚠ Invalid characters will be removed';
+                } else {
+                    status.className = 'api-key-status saved';
+                    status.innerHTML = '✓ Valid filename';
+                }
+            } else {
+                status.className = 'api-key-status missing';
+                status.innerHTML = '⚠ Filename is required';
+            }
+        }
+
+        function sanitizeFileName(fileName) {
+            return fileName
+                .replace(/[^a-zA-Z0-9\-_]/g, '-')
+                .replace(/--+/g, '-')
+                .replace(/^-|-$/g, '')
+                .toLowerCase();
+        }
+
         async function processVocabulary() {
             const apiKey = document.getElementById('apiKey').value.trim();
             const text = document.getElementById('textInput').value.trim();
+            const fileName = document.getElementById('fileName').value.trim();
 
             if (!apiKey) {
                 alert('Please enter your Gemini API key');
+                return;
+            }
+
+            if (!fileName) {
+                alert('Please enter a filename to save the vocabulary');
+                document.getElementById('fileName').focus();
                 return;
             }
 
@@ -1207,7 +1252,7 @@
                 }
 
                 // Auto-save vocabulary
-                await saveVocabulary();
+                await saveVocabulary(sanitizeFileName(fileName));
                 
                 showHub();
             } catch (error) {
@@ -1303,7 +1348,7 @@ Output only the formatted vocabulary, nothing else:`;
             return parsed;
         }
 
-        async function saveVocabulary() {
+        async function saveVocabulary(fileName) {
             try {
                 const response = await fetch('http://localhost:3001/api/vocabulary/save-quiz', {
                     method: 'POST',
@@ -1312,7 +1357,8 @@ Output only the formatted vocabulary, nothing else:`;
                     },
                     body: JSON.stringify({
                         vocabulary: vocabulary,
-                        source: 'Gemini Enhanced Quiz'
+                        source: 'Gemini Enhanced Quiz',
+                        fileName: fileName
                     })
                 });
 

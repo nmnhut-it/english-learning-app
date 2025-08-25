@@ -417,7 +417,7 @@ This is the dinosaur room. It is called the dinosaur room because there is a big
 **Bài 3 trang 23** 
 
 1. Bạn sống ở đâu?  
-   → I live in Dang Hung Phuoc   
+   → I live in Tan Thuan Binh.
 2. Có bao nhiêu phòng trong nhà của bạn? Chúng là gì?  
    → There are seven rooms in my house: a living room, three bedrooms, two bathrooms and a kitchen   
 3. Bạn thích phòng nào nhất? Tại sao ?  

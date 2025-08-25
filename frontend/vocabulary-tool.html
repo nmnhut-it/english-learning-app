@@ -779,6 +779,26 @@ Bạn có thể thêm nội dung dài, ghi chú, hoặc ngữ cảnh chi tiết 
                     </div>
                 </div>
 
+                <!-- Custom Filename -->
+                <div class="form-group">
+                    <label for="customFileName" class="form-label">
+                        Tên file tùy chỉnh <span class="required">*</span>
+                    </label>
+                    <input 
+                        type="text" 
+                        id="customFileName" 
+                        class="form-input"
+                        required
+                        placeholder="ví dụ: unit-01-getting-started-vocab"
+                    >
+                    <div class="help-text" id="fileNamePreview">
+                        <svg class="help-icon" width="14" height="14" viewBox="0 0 20 20" fill="currentColor">
+                            <path fill-rule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-7-4a1 1 0 11-2 0 1 1 0 012 0zM9 9a1 1 0 000 2v3a1 1 0 001 1h1a1 1 0 100-2v-3a1 1 0 00-1-1H9z" clip-rule="evenodd"/>
+                        </svg>
+                        <span>File sẽ được lưu với timestamp tự động thêm vào</span>
+                    </div>
+                </div>
+
                 <!-- Submit Button -->
                 <button type="submit" class="submit-button" id="submitButton">
                     <svg width="20" height="20" viewBox="0 0 20 20" fill="currentColor">
@@ -910,11 +930,12 @@ Bạn có thể thêm nội dung dài, ghi chú, hoặc ngữ cảnh chi tiết 
                 grade: document.getElementById('grade').value,
                 unit: document.getElementById('unit').value,
                 lesson: document.getElementById('lesson').value,
-                book: document.getElementById('book').value || 'global-success'
+                book: document.getElementById('book').value || 'global-success',
+                customFileName: document.getElementById('customFileName').value.trim()
             };
             
             // Validate
-            if (!formData.apiKey || !formData.words || !formData.grade || !formData.unit || !formData.lesson) {
+            if (!formData.apiKey || !formData.words || !formData.grade || !formData.unit || !formData.lesson || !formData.customFileName) {
                 showError('Vui lòng điền đầy đủ các thông tin bắt buộc');
                 return;
             }
@@ -1070,6 +1091,43 @@ get up early
 homework
 weekend`;
             }
+        });
+
+        // Filename validation and sanitization
+        function sanitizeFileName(fileName) {
+            return fileName
+                .trim()
+                .replace(/[^a-zA-Z0-9\-_]/g, '-')
+                .replace(/--+/g, '-')
+                .replace(/^-|-$/g, '')
+                .toLowerCase();
+        }
+
+        function updateFileNamePreview(fileName) {
+            const preview = document.getElementById('fileNamePreview');
+            const span = preview.querySelector('span');
+            
+            if (fileName) {
+                const sanitized = sanitizeFileName(fileName);
+                const timestamp = new Date().toISOString().replace(/[:.]/g, '-').slice(0, -5);
+                const finalName = `${sanitized}-${timestamp}.md`;
+                
+                if (sanitized !== fileName) {
+                    span.innerHTML = `Sẽ được lưu thành: <strong>${finalName}</strong> <em>(đã điều chỉnh tên file)</em>`;
+                    span.style.color = '#f59e0b'; // amber
+                } else {
+                    span.innerHTML = `Sẽ được lưu thành: <strong>${finalName}</strong>`;
+                    span.style.color = '#10b981'; // green
+                }
+            } else {
+                span.innerHTML = 'File sẽ được lưu với timestamp tự động thêm vào';
+                span.style.color = '#6b7280'; // gray
+            }
+        }
+
+        // Add filename validation event listener
+        document.getElementById('customFileName').addEventListener('input', function(e) {
+            updateFileNamePreview(e.target.value);
         });
     </script>
 </body>
