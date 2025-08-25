@@ -21,26 +21,30 @@ export class ContentAdder extends Component<ContentAdderProps> {
   private isProcessing = false;
 
   // Lesson options for different grade levels
-  private readonly lessonsGrade6to9 = [
-    { value: 'getting_started', label: 'Getting Started' },
-    { value: 'closer_look_1', label: 'A Closer Look 1 (Vocabulary)' },
-    { value: 'closer_look_2', label: 'A Closer Look 2 (Grammar)' },
-    { value: 'communication', label: 'Communication' },
-    { value: 'skills_1', label: 'Skills 1 (Reading & Speaking)' },
-    { value: 'skills_2', label: 'Skills 2 (Listening & Writing)' },
-    { value: 'looking_back', label: 'Looking Back' }
-  ];
+  private getLessonsGrade6to9() {
+    return [
+      { value: 'getting_started', label: 'Getting Started' },
+      { value: 'closer_look_1', label: 'A Closer Look 1 (Vocabulary)' },
+      { value: 'closer_look_2', label: 'A Closer Look 2 (Grammar)' },
+      { value: 'communication', label: 'Communication' },
+      { value: 'skills_1', label: 'Skills 1 (Reading & Speaking)' },
+      { value: 'skills_2', label: 'Skills 2 (Listening & Writing)' },
+      { value: 'looking_back', label: 'Looking Back' }
+    ];
+  }
 
-  private readonly lessonsGrade10to12 = [
-    { value: 'getting_started', label: 'Getting Started' },
-    { value: 'language', label: 'Language' },
-    { value: 'reading', label: 'Reading' },
-    { value: 'listening', label: 'Listening' },
-    { value: 'speaking', label: 'Speaking' },
-    { value: 'writing', label: 'Writing' },
-    { value: 'communication_culture', label: 'Communication & Culture' },
-    { value: 'looking_back', label: 'Looking Back' }
-  ];
+  private getLessonsGrade10to12() {
+    return [
+      { value: 'getting_started', label: 'Getting Started' },
+      { value: 'language', label: 'Language' },
+      { value: 'reading', label: 'Reading' },
+      { value: 'listening', label: 'Listening' },
+      { value: 'speaking', label: 'Speaking' },
+      { value: 'writing', label: 'Writing' },
+      { value: 'communication_culture', label: 'Communication & Culture' },
+      { value: 'looking_back', label: 'Looking Back' }
+    ];
+  }
 
   protected createElement(): HTMLElement {
     const modal = document.createElement('div');
@@ -213,7 +217,12 @@ export class ContentAdder extends Component<ContentAdderProps> {
   }
 
   private getLessonOptions(grade: number): string {
-    const lessons = grade >= 10 ? this.lessonsGrade10to12 : this.lessonsGrade6to9;
+    const lessons = grade >= 10 ? this.getLessonsGrade10to12() : this.getLessonsGrade6to9();
+    
+    if (!lessons || !Array.isArray(lessons)) {
+      console.error('Lesson options not found for grade:', grade);
+      return '<div class="error">Unable to load lesson options</div>';
+    }
     
     return lessons.map(lesson => `
       <label class="lesson-option">

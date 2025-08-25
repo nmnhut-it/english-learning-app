@@ -16,7 +16,7 @@ import type {
  * Renders different exercise types and manages quiz flow
  */
 export class QuizGenerator extends Component<QuizGeneratorProps> {
-  private currentExerciseIndex = 0;
+  private currentExerciseIndex: number = 0;
   private exerciseResults: ExerciseResult[] = [];
   private startTime = Date.now();
   private currentExerciseStartTime = Date.now();
@@ -26,6 +26,7 @@ export class QuizGenerator extends Component<QuizGeneratorProps> {
 
   constructor(props: QuizGeneratorProps) {
     super(props);
+    this.currentExerciseIndex = 0; // Ensure it's explicitly set to 0
     this.remainingTime = (props.timeLimit || 0) * 60 * 1000; // Convert minutes to milliseconds
   }
 
@@ -64,7 +65,6 @@ export class QuizGenerator extends Component<QuizGeneratorProps> {
       
       <div class="quiz-generator__controls">
         <button class="quiz-btn quiz-btn--secondary prev-btn" 
-                ${this.currentExerciseIndex === 0 ? 'disabled' : ''}
                 type="button">
           ← Previous
         </button>
@@ -79,18 +79,24 @@ export class QuizGenerator extends Component<QuizGeneratorProps> {
         </div>
         
         <button class="quiz-btn quiz-btn--primary next-btn" type="button">
-          ${this.currentExerciseIndex === exercises.length - 1 ? 'Submit Quiz' : 'Next →'}
+          Next →
         </button>
       </div>
     `;
 
-    this.renderCurrentExercise();
-    this.startTimer();
-    
     return container;
   }
 
   protected bindEvents(): void {
+    // Initialize after element is created - ensure properties are properly set
+    this.currentExerciseIndex = 0; // Explicitly initialize properties
+    this.exerciseResults = [];
+    this.isSubmitted = false;
+    
+    this.updateNavigationButtons(); // Update buttons first
+    this.renderCurrentExercise();   // Then render exercise (which also calls updateProgressBar)
+    this.startTimer();              // Finally start timer
+    
     const prevBtn = this.querySelector('.prev-btn');
     const nextBtn = this.querySelector('.next-btn');
     const hintBtn = this.querySelector('.hint-btn');
