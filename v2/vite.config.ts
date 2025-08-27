@@ -45,7 +45,8 @@ export default defineConfig({
       '@services': resolve(__dirname, 'src/services'),
       '@utils': resolve(__dirname, 'src/utils'),
       '@types': resolve(__dirname, 'src/types'),
-      '@styles': resolve(__dirname, 'src/styles')
+      '@styles': resolve(__dirname, 'src/styles'),
+      '@pages': resolve(__dirname, 'src/pages')
     }
   },
   define: {

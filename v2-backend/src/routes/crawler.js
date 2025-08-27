@@ -1,6 +1,7 @@
 import express from 'express';
 import { webCrawlerService } from '../services/WebCrawlerService.js';
-import { googleCrawlerService } from '../services/GoogleCrawlerService.js';
+import { googleSearchAPIService } from '../services/GoogleSearchAPIService.js';
+import { urlPatternService } from '../services/URLPatternService.js';
 import { contentProcessingService } from '../services/ContentProcessingService.js';
 import { geminiService } from '../services/GeminiService.js';
 import fs from 'fs/promises';
@@ -9,7 +10,7 @@ const router = express.Router();
 
 /**
  * POST /api/crawler/search
- * Search Google for loigiahay URLs
+ * Search for loigiahay URLs using multiple strategies
  */
 router.post('/search', async (req, res) => {
   try {
@@ -22,14 +23,34 @@ router.post('/search', async (req, res) => {
       });
     }
     
-    const url = await googleCrawlerService.searchGoogle(grade, unit, lessonType);
+    let url = null;
+    let source = null;
+    
+    // Try Google Search API first
+    if (googleSearchAPIService.getStats().configured) {
+      try {
+        url = await googleSearchAPIService.findLoigiahayUrl(grade, unit, lessonType);
+        if (url) source = 'google_api';
+      } catch (error) {
+        console.warn('Google Search API error:', error.message);
+      }
+    }
+    
+    // Fall back to URL pattern database
+    if (!url) {
+      url = await urlPatternService.findUrl(grade, unit, lessonType);
+      if (url) source = 'pattern_database';
+    }
     
     res.json({
       success: !!url,
       url,
+      source,
       grade,
       unit,
-      lessonType
+      lessonType,
+      apiConfigured: googleSearchAPIService.getStats().configured,
+      suggestion: !url ? 'Configure Google Search API or add URL manually' : null
     });
     
   } catch (error) {
@@ -221,20 +242,36 @@ router.post('/unit', async (req, res) => {
 
 /**
  * GET /api/crawler/stats
- * Get crawler statistics
+ * Get crawler statistics and service status
  */
 router.get('/stats', (req, res) => {
   const crawlerStats = webCrawlerService.getStats();
-  const searchStats = googleCrawlerService.getCacheStats();
+  const googleSearchStats = googleSearchAPIService.getStats();
+  const patternStats = urlPatternService.getStats();
   
   res.json({
     crawler: crawlerStats,
-    search: {
-      cacheSize: searchStats.size,
-      cachedSearches: searchStats.entries.length
+    googleSearchAPI: {
+      configured: googleSearchStats.configured,
+      cacheSize: googleSearchStats.cacheSize,
+      quotaUsed: googleSearchStats.quotaUsed,
+      quotaRemaining: googleSearchStats.quotaRemaining,
+      quotaResetDate: googleSearchStats.quotaResetDate
+    },
+    patternDatabase: {
+      totalPatterns: patternStats.totalPatterns,
+      byGrade: patternStats.byGrade,
+      verified: patternStats.verified,
+      unverified: patternStats.unverified
     },
     gemini: {
       available: geminiService.isAvailable()
+    },
+    configuration: {
+      googleAPIConfigured: googleSearchStats.configured,
+      suggestion: !googleSearchStats.configured ? 
+        'Set GOOGLE_SEARCH_API_KEY and GOOGLE_SEARCH_ENGINE_ID for search functionality' : 
+        null
     }
   });
 });
@@ -259,6 +296,87 @@ router.post('/delay', (req, res) => {
     success: true,
     message: `Crawl delay set to ${minutes} minutes`
   });
+});
+
+/**
+ * POST /api/crawler/pattern
+ * Add a URL pattern manually
+ */
+router.post('/pattern', async (req, res) => {
+  try {
+    const { grade, unit, lessonType, url } = req.body;
+    
+    if (!grade || !unit || !lessonType || !url) {
+      return res.status(400).json({
+        success: false,
+        error: 'Missing required fields: grade, unit, lessonType, url'
+      });
+    }
+    
+    const success = await urlPatternService.addPattern(grade, unit, lessonType, url, false);
+    
+    res.json({
+      success,
+      message: success ? 'Pattern added successfully' : 'Invalid URL format (missing article ID)'
+    });
+    
+  } catch (error) {
+    console.error('Failed to add pattern:', error);
+    res.status(500).json({
+      success: false,
+      error: error.message
+    });
+  }
+});
+
+/**
+ * GET /api/crawler/patterns
+ * Get all URL patterns
+ */
+router.get('/patterns', (req, res) => {
+  const stats = urlPatternService.getStats();
+  
+  res.json({
+    success: true,
+    stats,
+    patterns: Object.fromEntries(urlPatternService.patternDatabase)
+  });
+});
+
+/**
+ * POST /api/crawler/initialize-google
+ * Initialize Google Search API (check configuration)
+ */
+router.post('/initialize-google', async (req, res) => {
+  const initialized = await googleSearchAPIService.initialize();
+  
+  res.json({
+    success: initialized,
+    message: initialized ? 
+      'Google Search API initialized successfully' : 
+      'Google Search API not configured - check environment variables',
+    stats: googleSearchAPIService.getStats()
+  });
+});
+
+/**
+ * DELETE /api/crawler/cache
+ * Clear search cache
+ */
+router.delete('/cache', async (req, res) => {
+  try {
+    await googleSearchAPIService.clearCache();
+    
+    res.json({
+      success: true,
+      message: 'Search cache cleared'
+    });
+  } catch (error) {
+    res.status(500).json({
+      success: false,
+      error: error.message
+    });
+  }
 });
 
 export default router;

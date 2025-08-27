@@ -96,7 +96,9 @@ export const PromptLibrary = {
     const lessonConfig = this.lessonTypes[lessonType] || this.lessonTypes.getting_started;
     const gradeGroup = grade <= 9 ? "6-9" : "10-12";
     
-    return `You are a precise content extraction tool. Your ONLY job is to extract and structure content that ALREADY EXISTS in the provided text.
+    return `You are a precise content extraction and classification tool. Your job is to:
+1. IDENTIFY what grade, unit, and lesson type this content represents
+2. EXTRACT and structure content that ALREADY EXISTS in the provided text
 
 CRITICAL RULES - VIOLATION OF THESE RULES IS NOT ACCEPTABLE:
 1. ONLY extract text that appears VERBATIM in the content
@@ -109,39 +111,89 @@ CRITICAL RULES - VIOLATION OF THESE RULES IS NOT ACCEPTABLE:
 8. Copy text EXACTLY with original punctuation and spelling
 9. Preserve original formatting and line breaks in dialogues
 10. Empty XML tags are preferred over invented content
+11. PRESERVE Vietnamese characters exactly (ă, â, ê, ô, ơ, ư, đ with all tone marks)
+12. Extract complete phrases from expression lists, not partial words
+13. Include ALL speakers in dialogue participant lists
+
+CONTENT CLASSIFICATION (Do this FIRST):
+Analyze the content and identify:
+
+GRADE IDENTIFICATION:
+Look for explicit indicators:
+- "Grade 7", "Lớp 7", "Tiếng Anh 7" → Grade 7
+- "Grade 11", "Lớp 11", "Tiếng Anh 11" → Grade 11
+- Grade-specific topics:
+  * Grades 6-9: Basic topics (hobbies, family, school, food)
+  * Grades 10-12: Advanced topics (global warming, ASEAN, social issues, ecosystem)
+
+UNIT IDENTIFICATION:
+Look for:
+- "Unit 1:", "Unit 6:", etc.
+- Unit titles like "Hobbies", "Preserving our heritage", "Generation gap"
+- Vietnamese unit titles: "Sở thích", "Bảo tồn di sản"
+
+LESSON TYPE IDENTIFICATION:
+Look for lesson type indicators:
+- "Getting Started" → getting_started
+- "Language", "A Closer Look 1" → language  
+- "Reading", "Skills 1" → reading
+- "Speaking", "Skills 2" → speaking
+- "Listening" → listening
+- "Writing" → writing
+- "Communication and Culture", "CLIL" → communication_culture
+- "Looking back" → looking_back
 
 CONTEXT INFORMATION:
-- Grade Level: ${grade} (${gradeGroup === "6-9" ? "Basic-Intermediate" : "Intermediate-Advanced"})
-- Unit Title: ${unitTitle}
-- Lesson Type: ${lessonType}
-- Expected Content: ${lessonConfig.expectedContent.join(', ')}
+- Expected Grade: ${grade} (verify if content matches)
+- Expected Unit: ${unitTitle} (verify if content matches)
+- Expected Lesson: ${lessonType} (verify if content matches)
 
 EXTRACTION INSTRUCTIONS:
 
 1. VOCABULARY EXTRACTION:
    Look for vocabulary in these specific places:
    - Words explicitly in bold (**word**)
-   - Words in vocabulary lists or tables
+   - Words in vocabulary lists or tables  
    - Words with definitions provided (word: definition)
    - Words in exercise instructions
+   - Key terms in reading passages and dialogues
+   - Technical terms in CLIL sections
+   - Expressions and phrases used in conversations
    
    For each word, ONLY include:
-   - The exact word as written
+   - The exact word as written (including phrases like "work out", "food poisoning")
    - Definition IF provided in text (copy exactly)
-   - Vietnamese translation IF provided (usually after "Tạm dịch:" or in parentheses)
+   - Vietnamese translation IF provided (check "Tạm dịch:", parentheses, or bilingual lists)
    - Examples IF they appear in the text (copy exactly)
+   - Pronunciation IF provided (copy phonetic symbols exactly)
    
 2. DIALOGUE EXTRACTION:
    Look for conversations marked by:
    - Speaker names followed by colon (Name:)
    - Direct speech in the text
+   - Character interactions (A:, B:, Trainer:, Ms Hoa:, etc.)
    
    Extract:
-   - Speaker names EXACTLY as written
+   - Speaker names EXACTLY as written  
    - Dialogue text VERBATIM (including punctuation)
    - Vietnamese translations ONLY if under "Tạm dịch:" or "Phương pháp giải:"
+   - Complete conversation threads with all turns
 
-3. EXERCISE EXTRACTION:
+3. EXPRESSIONS & PHRASES EXTRACTION:
+   Look for useful expressions in:
+   - "Useful expressions" sections
+   - Phrase lists with categories like "Offering help", "Responding to offers"  
+   - Conversation patterns shown as examples
+   - Lists under headings like "Expressing agreement", "Making suggestions", etc.
+   
+   Extract each phrase EXACTLY as written:
+   - Complete phrases (not individual words): "Can I give you a hand?"
+   - Category names EXACTLY as labeled: "Offering help", "Responding to offers"
+   - Vietnamese translations in parentheses: "(Tôi có thể giúp bạn một tay không?)"
+   
+   IMPORTANT: Treat each complete phrase as a single vocabulary item
+
+4. EXERCISE EXTRACTION:
    Look for exercises marked by:
    - "Bài 1", "Bài 2", etc.
    - Numbered questions (1., 2., 3.)
@@ -160,13 +212,22 @@ EXTRACTION INSTRUCTIONS:
      * "Phương pháp giải:"
      * "Explanation:"
 
-4. GRAMMAR EXTRACTION:
+5. GRAMMAR EXTRACTION:
    Look for grammar in:
    - Sections titled "Grammar" or "Ngữ pháp"
    - Rule statements with formulas (S + V + O)
    - Example sentences showing grammar usage
    
    Extract ONLY explicitly stated rules and examples
+
+6. VIETNAMESE TRANSLATION EXTRACTION:
+   Look for Vietnamese translations in:
+   - Sections starting with "Tạm dịch:" (usually complete dialogue translations)
+   - "Phương pháp giải:" sections (often contain translations)
+   - Content in parentheses after English text (word-level translations)
+   - Bilingual vocabulary lists
+   
+   Always preserve the exact Vietnamese text as written
 
 VERIFICATION CHECKLIST:
 Before including any content, verify:
@@ -188,18 +249,39 @@ Return ONLY valid XML. Use empty tags for missing content. Never invent content 
     <source_length>${cleanedContent.length}</source_length>
   </metadata>
   
+  <content_classification>
+    <detected_grade>[Actual grade found in content or "unknown"]</detected_grade>
+    <detected_unit>[Actual unit number found or "unknown"]</detected_unit>
+    <detected_unit_title>[Actual unit title found or "unknown"]</detected_unit_title>
+    <detected_lesson_type>[Actual lesson type found or "unknown"]</detected_lesson_type>
+    <confidence>[high/medium/low based on clarity of indicators]</confidence>
+    <classification_notes>[Brief note about classification evidence]</classification_notes>
+  </content_classification>
+  
   <vocabulary_bank>
     <!-- Only vocabulary found in the source -->
     <vocabulary_item id="[word-lowercase-hyphenated]">
       <word>[EXACT word from text]</word>
       <definition>[EXACT definition if provided, empty if not]</definition>
+      <pronunciation>[EXACT pronunciation if provided, empty if not]</pronunciation>
       <translation lang="vi">[EXACT translation if provided, empty if not]</translation>
       <examples>
         <example>[EXACT example sentence if provided]</example>
       </examples>
-      <source_location>[Where found: dialogue/exercise/text]</source_location>
+      <source_location>[Where found: dialogue/exercise/text/clil]</source_location>
     </vocabulary_item>
   </vocabulary_bank>
+  
+  <expressions_bank>
+    <!-- Useful phrases and expressions from the lesson -->
+    <expression_category name="[EXACT category name if provided]">
+      <expression>
+        <phrase>[EXACT phrase from text]</phrase>
+        <function>[Function/purpose if stated]</function>
+        <translation lang="vi">[EXACT translation if provided]</translation>
+      </expression>
+    </expression_category>
+  </expressions_bank>
   
   <dialogues>
     <dialogue id="dialogue-1">

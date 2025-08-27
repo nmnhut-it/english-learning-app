@@ -1,13 +1,5 @@
-// Load environment variables FIRST
-import dotenv from 'dotenv';
-import path from 'path';
-import { fileURLToPath } from 'url';
-
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
-dotenv.config({ path: path.join(__dirname, '..', '.env') });
-
-// Now import everything else
+// Environment variables loaded via --env-file flag
+// Now import everything
 import express from 'express';
 import cors from 'cors';
 

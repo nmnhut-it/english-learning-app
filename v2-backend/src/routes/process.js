@@ -5,6 +5,67 @@ import { geminiService } from '../services/GeminiService.js';
 const router = express.Router();
 
 /**
+ * POST /api/process/classify-and-extract
+ * Auto-classify content and then extract - for manual paste workflows
+ */
+router.post('/classify-and-extract', async (req, res) => {
+  try {
+    const { sourceContent } = req.body;
+    
+    if (!sourceContent) {
+      return res.status(400).json({
+        success: false,
+        error: {
+          message: 'Missing required field: sourceContent',
+          code: 'MISSING_FIELDS'
+        }
+      });
+    }
+    
+    console.log(`🔍 Auto-classifying and extracting content (${sourceContent.length} chars)`);
+    const startTime = Date.now();
+    
+    // Process with AI using unknown metadata - let Gemini classify
+    const processedData = await geminiService.processContentWithGemini(sourceContent, {
+      grade: 'unknown', // Let Gemini detect
+      unit: 'unknown',   // Let Gemini detect
+      unitTitle: 'unknown', // Let Gemini detect
+      lessonType: 'unknown', // Let Gemini detect
+      contentSource: 'manual'
+    });
+    
+    if (!processedData.success) {
+      throw new Error(processedData.error || 'AI processing failed');
+    }
+    
+    const processingTime = Date.now() - startTime;
+    
+    res.json({
+      success: true,
+      action: 'classified_and_extracted',
+      message: 'Content auto-classified and extracted successfully',
+      data: {
+        ...processedData,
+        processingTime,
+        autoClassified: true,
+        fromCache: false
+      }
+    });
+    
+  } catch (error) {
+    console.error('❌ Auto-classification failed:', error);
+    res.status(500).json({
+      success: false,
+      error: {
+        message: error.message,
+        code: 'PROCESSING_ERROR',
+        timestamp: new Date().toISOString()
+      }
+    });
+  }
+});
+
+/**
  * POST /api/process/complete
  * Complete processing workflow: Check-before-process + AI + Save to disk
  */
