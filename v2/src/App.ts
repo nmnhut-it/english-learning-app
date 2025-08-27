@@ -2,11 +2,11 @@ import { Component } from '@components/core/Component';
 import { MarkdownViewer } from '@components/MarkdownViewer/MarkdownViewer';
 import { VocabularyCard } from '@components/VocabularyCard/VocabularyCard';
 import { QuizGenerator } from '@components/QuizGenerator/QuizGenerator';
-import { ContentAdder } from '@components/ContentAdder/ContentAdder';
 import { contentService } from '@services/ContentService';
 import { contentProcessor } from '@services/ContentProcessor';
 import { audioService } from '@services/AudioService';
 import { aiService } from '@services/AIService';
+import { router } from '@utils/Router';
 import type { Unit, VocabularyItem, Exercise, ComponentProps, Lesson, LessonType } from '@/types';
 
 /**
@@ -17,7 +17,6 @@ export class App extends Component<ComponentProps> {
   private currentView: 'dashboard' | 'lesson' | 'quiz' | 'settings' = 'dashboard';
   private currentLesson: Lesson | null = null;
   private selectedVocabulary: Set<VocabularyItem> = new Set();
-  private contentAdder: ContentAdder | null = null;
   private recentActivity: any[] = [];
 
   constructor() {
@@ -42,9 +41,9 @@ export class App extends Component<ComponentProps> {
           </div>
           
           <div class="app-actions">
-            <button class="action-btn add-content-btn" type="button" aria-label="Add Content">
+            <a href="/add-content" class="action-btn add-content-btn" aria-label="Add Content">
               <span>➕ Add Content</span>
-            </button>
+            </a>
             <button class="action-btn create-quiz-btn" type="button" aria-label="Create Quiz">
               <span>📝 Create Quiz</span>
             </button>
@@ -143,9 +142,6 @@ export class App extends Component<ComponentProps> {
   }
 
   protected bindEvents(): void {
-    // Add Content button
-    const addContentBtn = this.querySelector('.add-content-btn');
-    addContentBtn?.addEventListener('click', () => this.openContentAdder());
 
     // Create Quiz button
     const createQuizBtn = this.querySelector('.create-quiz-btn');
@@ -353,42 +349,6 @@ export class App extends Component<ComponentProps> {
     `;
   }
 
-  /**
-   * Open content adder modal
-   */
-  private openContentAdder(): void {
-    if (!this.contentAdder) {
-      this.contentAdder = new ContentAdder({
-        onContentSave: (content) => {
-          this.handleContentSave(content);
-        },
-        onCancel: () => {
-          this.contentAdder = null;
-        }
-      });
-    }
-    
-    document.body.appendChild(this.contentAdder.element);
-    this.contentAdder.open();
-  }
-
-  /**
-   * Handle content save
-   */
-  private handleContentSave(content: any): void {
-    // Refresh the dashboard
-    this.loadContentIndex();
-    this.refreshDashboard();
-    
-    // Add to recent activity
-    this.addActivity({
-      icon: '✅',
-      text: `Added content: Grade ${content.grade}, Unit ${content.unit}, ${content.lesson}`,
-      time: 'Just now'
-    });
-    
-    this.contentAdder = null;
-  }
 
   /**
    * Open quiz creator
@@ -563,9 +523,9 @@ export class App extends Component<ComponentProps> {
   }
 
   /**
-   * Refresh dashboard
+   * Refresh dashboard - called when returning from add content page
    */
-  private refreshDashboard(): void {
+  public refreshDashboard(): void {
     const gradesSection = this.querySelector('.grades-grid');
     const activitySection = this.querySelector('.recent-activity');
     

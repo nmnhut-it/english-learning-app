@@ -2,8 +2,88 @@
 
 import './styles/main.css';
 import { App } from './App';
+import { AddContentPage } from '@pages/AddContentPage';
 import { audioService } from '@services/AudioService';
 import { contentService } from '@services/ContentService';
+import { router } from '@utils/Router';
+
+// Global app instance
+let appInstance: App | null = null;
+let currentPageInstance: any = null;
+
+/**
+ * Initialize routing
+ */
+function initializeRouting(): void {
+  const appContainer = document.getElementById('app');
+  
+  if (!appContainer) {
+    throw new Error('App container not found');
+  }
+
+  // Dashboard route
+  router.route('/', () => {
+    // Clean up current page if exists
+    if (currentPageInstance && currentPageInstance !== appInstance) {
+      currentPageInstance.destroy?.();
+      currentPageInstance = null;
+    }
+    
+    // Show the main app
+    if (!appInstance) {
+      appInstance = new App();
+    }
+    
+    appContainer.innerHTML = '';
+    appInstance.render(appContainer);
+    appInstance.refreshDashboard();
+    currentPageInstance = appInstance;
+  }, 'Dashboard');
+
+  // Add Content route
+  router.route('/add-content', () => {
+    // Clean up current page if exists
+    if (currentPageInstance) {
+      currentPageInstance.destroy?.();
+    }
+    
+    // Create and render Add Content page
+    currentPageInstance = new AddContentPage({});
+    appContainer.innerHTML = '';
+    currentPageInstance.render(appContainer);
+  }, 'Add Content');
+
+  // Settings route (using existing App view switching)
+  router.route('/settings', () => {
+    if (!appInstance) {
+      appInstance = new App();
+    }
+    appContainer.innerHTML = '';
+    appInstance.render(appContainer);
+    // TODO: Add method to switch to settings view
+  }, 'Settings');
+
+  // Quiz route (using existing App view switching)
+  router.route('/quiz', () => {
+    if (!appInstance) {
+      appInstance = new App();
+    }
+    appContainer.innerHTML = '';
+    appInstance.render(appContainer);
+    // TODO: Add method to switch to quiz view
+  }, 'Create Quiz');
+
+  // 404 handler
+  router.notFound(() => {
+    appContainer.innerHTML = `
+      <div style="text-align: center; padding: 4rem;">
+        <h1 style="color: #dc2626; margin-bottom: 1rem;">404 - Page Not Found</h1>
+        <p style="color: #6b7280; margin-bottom: 2rem;">The page you're looking for doesn't exist.</p>
+        <a href="/" style="color: #2563eb; text-decoration: underline;">Go back to Dashboard</a>
+      </div>
+    `;
+  });
+}
 
 /**
  * Initialize and start the V2 English Learning App
@@ -23,12 +103,13 @@ async function initializeApp(): Promise<void> {
     console.log('📚 Initializing ContentService...');
     // ContentService is ready - no initialization needed
     
-    console.log('🎨 Creating App instance...');
-    const app = new App();
+    console.log('🌐 Initializing Router...');
+    initializeRouting();
     
-    console.log('📱 Rendering application...');
+    console.log('📱 Starting application...');
     if (appContainer) {
-          app.render(appContainer);
+          // Initialize router with current path
+      router.init();
       
       // Show app, hide loading
       appContainer.classList.add('loaded');

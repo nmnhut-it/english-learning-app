@@ -8,6 +8,7 @@
 @import '../components/VocabularyCard/VocabularyCard.css';
 @import '../components/ContentAdder/ContentAdder.css';
 @import './dashboard.css';
+@import '../pages/AddContentPage.css';
 
 /* Global Reset and Base Styles */
 *,
@@ -16,6 +17,11 @@
       margin: 0;
   padding: 0;
   box-sizing: border-box;
+}
+
+/* Utility Classes */
+.hidden {
+  display: none !important;
 }
 
 html {
@@ -203,14 +209,20 @@ body {
 .content-view,
 .vocabulary-view,
 .quiz-view,
-.recent-view {
+.recent-view,
+.dashboard-view,
+.lesson-view,
+.settings-view {
       animation: fadeIn 0.3s ease;
 }
 
 .content-view.hidden,
 .vocabulary-view.hidden,
 .quiz-view.hidden,
-.recent-view.hidden {
+.recent-view.hidden,
+.dashboard-view.hidden,
+.lesson-view.hidden,
+.settings-view.hidden {
       display: none;
 }
 

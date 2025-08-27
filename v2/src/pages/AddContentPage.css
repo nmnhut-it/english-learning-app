@@ -1,0 +1,386 @@
+/* Add Content Page Styles */
+
+.add-content-page {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+/* Page Header */
+.page-header {
+  margin-bottom: 2rem;
+}
+
+.breadcrumb {
+  display: flex;
+  align-items: center;
+  font-size: 0.875rem;
+  color: var(--text-secondary);
+  margin-bottom: 1rem;
+}
+
+.breadcrumb-link {
+  color: var(--primary-color);
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+.breadcrumb-link:hover {
+  color: var(--primary-dark);
+  text-decoration: underline;
+}
+
+.breadcrumb-separator {
+  margin: 0 0.5rem;
+  color: var(--text-muted);
+}
+
+.breadcrumb-current {
+  color: var(--text-primary);
+  font-weight: 500;
+}
+
+.page-title {
+  font-size: 2rem;
+  font-weight: 700;
+  color: var(--text-primary);
+}
+
+/* Content Form */
+.content-form {
+  background: white;
+  border-radius: 12px;
+  box-shadow: var(--shadow-md);
+  padding: 2rem;
+}
+
+.form-section {
+  margin-bottom: 2rem;
+  padding-bottom: 2rem;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.form-section:last-of-type {
+  border-bottom: none;
+}
+
+.form-section__title {
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: var(--text-primary);
+  margin-bottom: 1rem;
+}
+
+.required {
+  color: var(--error-color);
+  margin-left: 0.25rem;
+}
+
+/* Grade Selector */
+.grade-selector {
+  display: flex;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+}
+
+.grade-option {
+  position: relative;
+  cursor: pointer;
+}
+
+.grade-option input[type="radio"] {
+  position: absolute;
+  opacity: 0;
+}
+
+.grade-option .grade-label {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  background: var(--gray-100);
+  border: 2px solid transparent;
+  border-radius: 8px;
+  font-weight: 500;
+  transition: all 0.2s;
+}
+
+.grade-option input[type="radio"]:checked + .grade-label {
+  background: var(--primary-light);
+  border-color: var(--primary-color);
+  color: var(--primary-dark);
+}
+
+.grade-option:hover .grade-label {
+  background: var(--gray-200);
+}
+
+/* Form Row */
+.form-row {
+  display: grid;
+  grid-template-columns: 150px 1fr;
+  gap: 1.5rem;
+}
+
+@media (max-width: 768px) {
+  .form-row {
+    grid-template-columns: 1fr;
+  }
+}
+
+.form-field {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-field label {
+  font-weight: 500;
+  margin-bottom: 0.5rem;
+  color: var(--text-primary);
+}
+
+.form-field input[type="text"],
+.form-field input[type="number"] {
+  padding: 0.75rem;
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  font-size: 1rem;
+  transition: border-color 0.2s;
+}
+
+.form-field input:focus {
+  border-color: var(--primary-color);
+  outline: none;
+  box-shadow: 0 0 0 3px var(--primary-light);
+}
+
+/* Lesson Selector */
+.lesson-selector {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 0.75rem;
+}
+
+.lesson-option {
+  position: relative;
+  cursor: pointer;
+  display: block;
+}
+
+.lesson-option input[type="radio"] {
+  position: absolute;
+  opacity: 0;
+}
+
+.lesson-option span {
+  display: block;
+  padding: 0.75rem 1rem;
+  background: var(--gray-50);
+  border: 2px solid var(--gray-200);
+  border-radius: 8px;
+  transition: all 0.2s;
+}
+
+.lesson-option input[type="radio"]:checked + span {
+  background: var(--primary-light);
+  border-color: var(--primary-color);
+  font-weight: 500;
+}
+
+.lesson-option:hover span {
+  background: var(--gray-100);
+}
+
+/* Source Selector */
+.source-selector {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.source-option {
+  position: relative;
+  cursor: pointer;
+}
+
+.source-option input[type="radio"] {
+  position: absolute;
+  opacity: 0;
+}
+
+.source-option span {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  background: var(--gray-50);
+  border: 2px solid var(--gray-200);
+  border-radius: 8px;
+  transition: all 0.2s;
+}
+
+.source-option input[type="radio"]:checked + span {
+  background: var(--primary-light);
+  border-color: var(--primary-color);
+  font-weight: 500;
+}
+
+/* Content Textarea */
+.content-textarea {
+  width: 100%;
+  padding: 1rem;
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  font-family: var(--font-family-mono);
+  font-size: 0.9rem;
+  line-height: 1.5;
+  resize: vertical;
+  min-height: 300px;
+}
+
+.content-textarea:focus {
+  border-color: var(--primary-color);
+  outline: none;
+  box-shadow: 0 0 0 3px var(--primary-light);
+}
+
+.character-count {
+  margin-top: 0.5rem;
+  text-align: right;
+  font-size: 0.875rem;
+  color: var(--text-muted);
+}
+
+/* Processing Options */
+.processing-options {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.checkbox-option {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.checkbox-option input[type="checkbox"] {
+  margin-right: 0.75rem;
+  width: 18px;
+  height: 18px;
+  cursor: pointer;
+}
+
+.checkbox-option span {
+  font-size: 1rem;
+}
+
+/* Form Actions */
+.form-actions {
+  display: flex;
+  gap: 1rem;
+  justify-content: flex-end;
+  padding-top: 2rem;
+  border-top: 1px solid var(--border-color);
+}
+
+.btn {
+  padding: 0.75rem 1.5rem;
+  border: none;
+  border-radius: 8px;
+  font-size: 1rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.2s;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.btn--secondary {
+  background: var(--gray-200);
+  color: var(--text-primary);
+}
+
+.btn--secondary:hover {
+  background: var(--gray-300);
+}
+
+.btn--primary {
+  background: var(--primary-color);
+  color: white;
+}
+
+.btn--primary:hover {
+  background: var(--primary-dark);
+}
+
+.btn--success {
+  background: var(--success-color);
+  color: white;
+}
+
+.btn--success:hover {
+  background: var(--success-dark);
+}
+
+.btn.disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.processing-spinner {
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+/* Status Message */
+.status-message {
+  margin-top: 1rem;
+  padding: 1rem;
+  border-radius: 8px;
+  font-size: 0.95rem;
+  text-align: center;
+}
+
+.status-message--info {
+  background: var(--info-light);
+  color: var(--info-dark);
+  border: 1px solid var(--info-color);
+}
+
+.status-message--success {
+  background: var(--success-light);
+  color: var(--success-dark);
+  border: 1px solid var(--success-color);
+}
+
+.status-message--error {
+  background: var(--error-light);
+  color: var(--error-dark);
+  border: 1px solid var(--error-color);
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .add-content-page {
+    padding: 1rem;
+  }
+
+  .content-form {
+    padding: 1rem;
+  }
+
+  .form-actions {
+    flex-direction: column;
+  }
+
+  .btn {
+    width: 100%;
+    justify-content: center;
+  }
+
+  .lesson-selector {
+    grid-template-columns: 1fr;
+  }
+}

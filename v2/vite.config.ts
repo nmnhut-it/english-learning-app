@@ -27,8 +27,16 @@ export default defineConfig({
     chunkSizeWarningLimit: 1000
   },
   server: {
-    port: 3000,
-    open: true
+    port: 3003,
+    open: true,
+    proxy: {
+      '/api': {
+        target: 'http://localhost:5002',
+        changeOrigin: true,
+        secure: false,
+        ws: true
+      }
+    }
   },
   resolve: {
     alias: {

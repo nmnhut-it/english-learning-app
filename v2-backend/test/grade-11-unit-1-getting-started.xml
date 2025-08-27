@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lesson_content type="getting_started" grade="11" extraction_mode="strict_verbatim">
+  <metadata>
+    <extraction_timestamp>2025-08-27T05:24:57.057Z</extraction_timestamp>
+    <source_length>215</source_length>
+  </metadata>
+  
+  <vocabulary_bank>
+    <vocabulary_item id=""/>
+      <word></word>
+      <definition></definition>
+      <translation lang="vi"></translation>
+      <examples>
+        <example></example>
+      </examples>
+      <source_location></source_location>
+    </vocabulary_item>
+  </vocabulary_bank>
+  
+  <dialogues>
+    <dialogue id="">
+      <participants></participants>
+      <transcript>
+        <turn speaker=""></turn>
+      </transcript>
+      <translation lang="vi" available="false">
+        <turn speaker=""></turn>
+      </translation>
+    </dialogue>
+  </dialogues>
+  
+  <exercises>
+    <exercise id="" type="">
+      <instruction></instruction>
+      <instruction_vi></instruction_vi>
+      
+      <questions>
+        <question number="">
+          <prompt></prompt>
+          <options provided="false">
+            <option letter=""></option>
+          </options>
+          <answer status="not_provided"></answer>
+          <explanation provided="false"></explanation>
+        </question>
+      </questions>
+    </exercise>
+  </exercises>
+  
+  <grammar_points>
+    <point>
+      <rule></rule>
+      <formula></formula>
+      <examples>
+        <example></example>
+      </examples>
+    </point>
+  </grammar_points>
+  
+  <extraction_summary>
+    <dialogues_found>false</dialogues_found>
+    <exercises_found>false</exercises_found>
+    <answers_found>false</answers_found>
+    <vocabulary_count>0</vocabulary_count>
+  </extraction_summary>
+</lesson_content>

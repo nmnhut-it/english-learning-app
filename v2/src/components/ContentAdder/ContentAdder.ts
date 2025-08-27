@@ -1,6 +1,6 @@
 import { Component } from '@components/core/Component';
 import { contentService } from '@services/ContentService';
-import { contentProcessor } from '@services/ContentProcessor';
+import { aiService } from '@services/AIService';
 import type { ContentAdderProps, ContentAdderForm, LessonType } from '@/types';
 
 /**
@@ -150,10 +150,30 @@ export class ContentAdder extends Component<ContentAdderProps> {
     const closeBtn = this.querySelector('.content-adder__close');
     const cancelBtn = this.querySelector('.cancel-btn');
     const overlay = this.querySelector('.content-adder-overlay');
+    const modal = this.querySelector('.content-adder');
 
-    closeBtn?.addEventListener('click', () => this.close());
-    cancelBtn?.addEventListener('click', () => this.close());
-    overlay?.addEventListener('click', () => this.close());
+    closeBtn?.addEventListener('click', (e) => {
+      e.preventDefault();
+      e.stopPropagation();
+      this.close();
+    });
+    
+    cancelBtn?.addEventListener('click', (e) => {
+      e.preventDefault();
+      e.stopPropagation();
+      this.close();
+    });
+    
+    overlay?.addEventListener('click', (e) => {
+      e.preventDefault();
+      e.stopPropagation();
+      this.close();
+    });
+    
+    // Prevent modal content clicks from closing modal
+    modal?.addEventListener('click', (e) => {
+      e.stopPropagation();
+    });
 
     // Grade selection
     const gradeInputs = this.querySelectorAll('input[name="grade"]');
@@ -205,8 +225,17 @@ export class ContentAdder extends Component<ContentAdderProps> {
     const saveDraftBtn = this.querySelector('.save-draft-btn');
     const processSaveBtn = this.querySelector('.process-save-btn');
 
-    saveDraftBtn?.addEventListener('click', () => this.saveDraft());
-    processSaveBtn?.addEventListener('click', () => this.processAndSave());
+    saveDraftBtn?.addEventListener('click', (e) => {
+      e.preventDefault();
+      e.stopPropagation();
+      this.saveDraft();
+    });
+    
+    processSaveBtn?.addEventListener('click', (e) => {
+      e.preventDefault();
+      e.stopPropagation();
+      this.processAndSave();
+    });
 
     // Keyboard shortcuts
     this.addEventListener('keydown', (e) => {
@@ -275,27 +304,28 @@ export class ContentAdder extends Component<ContentAdderProps> {
       this.updateProcessingState(true);
 
       if (this.formData.autoProcess) {
-        // Process with AI
-        const result = await contentProcessor.processLessonContent(
+        // Process with AI through backend
+        const result = await aiService.processContent(
           this.formData.content,
           this.formData.grade,
           this.formData.unit,
           this.formData.lesson,
           this.formData.unitTitle,
-          true // Save raw content
+          this.formData.source
         );
 
         if (!result.success) {
           throw new Error(result.message || 'Processing failed');
         }
+        
+        console.log('✅ Content processed and saved:', result.data);
       } else {
-        // Save raw content
-        await contentService.saveRawContent(
-          this.formData.grade,
-          this.formData.unit,
-          this.formData.lesson,
-          this.formData
-        );
+        // Save raw content to localStorage as draft
+        const draftKey = `raw_content_${this.formData.grade}_${this.formData.unit}_${this.formData.lesson}`;
+        localStorage.setItem(draftKey, JSON.stringify({
+          ...this.formData,
+          savedAt: new Date().toISOString()
+        }));
       }
 
       this.showNotification('Content saved successfully');
@@ -314,11 +344,20 @@ export class ContentAdder extends Component<ContentAdderProps> {
   private validateForm(): boolean {
     const errors: string[] = [];
 
-    if (!this.formData.unitTitle) {
+    // Collect current form values
+    const unitTitleInput = this.querySelector('.unit-title-input') as HTMLInputElement;
+    const contentTextarea = this.querySelector('.content-textarea') as HTMLTextAreaElement;
+    const unitNumberInput = this.querySelector('.unit-number-input') as HTMLInputElement;
+    
+    this.formData.unitTitle = unitTitleInput?.value || '';
+    this.formData.content = contentTextarea?.value || '';
+    this.formData.unit = parseInt(unitNumberInput?.value || '1');
+
+    if (!this.formData.unitTitle.trim()) {
       errors.push('Unit title is required');
     }
 
-    if (!this.formData.content) {
+    if (!this.formData.content.trim()) {
       errors.push('Content is required');
     }
 
@@ -327,10 +366,12 @@ export class ContentAdder extends Component<ContentAdderProps> {
     }
 
     if (errors.length > 0) {
-      this.showNotification(errors.join(', '), 'error');
+      console.log('❌ Form validation failed:', errors);
+      this.showNotification(`Validation failed: ${errors.join(', ')}`, 'error');
       return false;
     }
 
+    console.log('✅ Form validation passed:', this.formData);
     return true;
   }
 

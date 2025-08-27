@@ -1,20 +1,23 @@
 /**
- * Simple AI Service supporting both Claude and Gemini APIs
- * Handles vocabulary extraction and content processing
+ * AI Service for V2 - Backend API integration
+ * Handles content processing through V2 backend
  */
 
 interface AIConfig {
-  provider: 'claude' | 'gemini' | 'none';
+  provider: 'gemini' | 'none';
   apiKey?: string;
   model?: string;
 }
 
 export class AIService {
   private config: AIConfig;
+  private baseURL = '/api'; // Proxied to backend
+  private isBackendConnected = false;
 
   constructor() {
     // Load config from localStorage
     this.config = this.loadConfig();
+    this.testBackendConnection();
   }
 
   /**
@@ -37,210 +40,105 @@ export class AIService {
   }
 
   /**
-   * Check if AI is configured
+   * Test backend connection
    */
-  public isConfigured(): boolean {
-    return this.config.provider !== 'none' && !!this.config.apiKey;
+  private async testBackendConnection(): Promise<void> {
+    try {
+      const response = await fetch(`${this.baseURL}/status/health`);
+      const data = await response.json();
+      this.isBackendConnected = data.success;
+      
+      if (this.isBackendConnected) {
+        console.log('✅ Backend connection established');
+      }
+    } catch (error) {
+      console.warn('⚠️ Backend not available:', error.message);
+      this.isBackendConnected = false;
+    }
   }
 
   /**
-   * Process content with AI (Claude or Gemini)
+   * Check if AI is configured and backend is available
+   */
+  public isConfigured(): boolean {
+    return this.isBackendConnected;
+  }
+
+  /**
+   * Process content through backend API
    */
   public async processContent(
     content: string,
     grade: number,
     unit: number,
-    lesson: string
+    lessonType: string,
+    unitTitle: string,
+    contentSource: string = 'manual'
   ): Promise<any> {
-    if (!this.isConfigured()) {
-      throw new Error('AI not configured. Please add API key in settings.');
+    if (!this.isBackendConnected) {
+      throw new Error('Backend not available. Please check server connection.');
     }
 
-    const prompt = this.buildPrompt(content, grade, unit, lesson);
-
-    switch (this.config.provider) {
-      case 'claude':
-        return this.processWithClaude(prompt);
-      case 'gemini':
-        return this.processWithGemini(prompt);
-      default:
-        throw new Error('Invalid AI provider');
-    }
-  }
-
-  /**
-   * Build prompt for AI processing
-   */
-  private buildPrompt(
-    content: string,
-    grade: number,
-    unit: number,
-    lesson: string
-  ): string {
-    return `Extract vocabulary and exercises from this English learning content.
-    Grade: ${grade}
-    Unit: ${unit}
-    Lesson: ${lesson}
-    
-    Content:
-    ${content}
-    
-    Return JSON with:
-    {
-      "vocabulary": [
-        {
-          "word": "word",
-          "pronunciation": "/pronunciation/",
-          "definition": "definition",
-          "translation": "Vietnamese translation",
-          "part_of_speech": "noun/verb/etc",
-          "examples": ["example 1", "example 2"]
-        }
-      ],
-      "exercises": [
-        {
-          "type": "multiple_choice",
-          "question": "question text",
-          "options": ["A", "B", "C", "D"],
-          "correct": "A",
-          "explanation": "why this is correct"
-        }
-      ]
-    }`;
-  }
-
-  /**
-   * Process with Claude API
-   */
-  private async processWithClaude(prompt: string): Promise<any> {
     try {
-      const response = await fetch('https://api.anthropic.com/v1/messages', {
+      console.log(`🤖 Processing content via backend: Grade ${grade}, Unit ${unit}`);
+      
+      const response = await fetch(`${this.baseURL}/process/complete`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
-          'x-api-key': this.config.apiKey!,
-          'anthropic-version': '2023-06-01'
         },
         body: JSON.stringify({
-          model: this.config.model || 'claude-3-haiku-20240307',
-          max_tokens: 4096,
-          messages: [
-            {
-              role: 'user',
-              content: prompt
-            }
-          ]
+          sourceContent: content,
+          grade,
+          unit,
+          unitTitle,
+          lessonType,
+          contentSource,
+          aiProvider: 'gemini'
         })
       });
 
       if (!response.ok) {
-        throw new Error(`Claude API error: ${response.statusText}`);
+        const errorData = await response.json();
+        throw new Error(errorData.error?.message || `Backend error: ${response.statusText}`);
       }
 
-      const data = await response.json();
-      const content = data.content[0].text;
+      const result = await response.json();
+      console.log(`✅ Content processed successfully:`, result);
       
-      // Try to parse JSON from response
-      try {
-        return JSON.parse(content);
-      } catch {
-        // If not valid JSON, return raw content
-        return { raw: content, processed: false };
-      }
+      return result;
     } catch (error) {
-      console.error('Claude API error:', error);
+      console.error('Backend processing error:', error);
       throw error;
     }
   }
 
   /**
-   * Process with Gemini API
+   * Get backend processing status
    */
-  private async processWithGemini(prompt: string): Promise<any> {
+  public async getProcessingStatus(): Promise<any> {
     try {
-      const response = await fetch(
-        `https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key=${this.config.apiKey}`,
-        {
-          method: 'POST',
-          headers: {
-            'Content-Type': 'application/json'
-          },
-          body: JSON.stringify({
-            contents: [
-              {
-                parts: [
-                  {
-                    text: prompt
-                  }
-                ]
-              }
-            ]
-          })
-        }
-      );
-
-      if (!response.ok) {
-        throw new Error(`Gemini API error: ${response.statusText}`);
-      }
-
+      const response = await fetch(`${this.baseURL}/status/processing`);
       const data = await response.json();
-      const content = data.candidates[0].content.parts[0].text;
-      
-      // Try to parse JSON from response
-      try {
-        return JSON.parse(content);
-      } catch {
-        // If not valid JSON, return raw content
-        return { raw: content, processed: false };
-      }
+      return data;
     } catch (error) {
-      console.error('Gemini API error:', error);
-      throw error;
+      console.error('Failed to get processing status:', error);
+      return null;
     }
   }
 
   /**
-   * Extract vocabulary only (simpler processing)
+   * Get content overview
    */
-  public async extractVocabulary(content: string): Promise<any[]> {
-    if (!this.isConfigured()) {
-      // Fallback to simple extraction without AI
-      return this.simpleVocabularyExtraction(content);
-    }
-
-    const prompt = `Extract vocabulary words from this content. 
-    Return only a JSON array of vocabulary items.
-    Content: ${content}`;
-
+  public async getContentOverview(): Promise<any> {
     try {
-      const result = await this.processContent(prompt, 0, 0, '');
-      return Array.isArray(result) ? result : result.vocabulary || [];
+      const response = await fetch(`${this.baseURL}/status/overview`);
+      const data = await response.json();
+      return data;
     } catch (error) {
-      console.error('AI extraction failed, using simple extraction:', error);
-      return this.simpleVocabularyExtraction(content);
+      console.error('Failed to get content overview:', error);
+      return null;
     }
-  }
-
-  /**
-   * Simple vocabulary extraction without AI
-   */
-  private simpleVocabularyExtraction(content: string): any[] {
-    // Basic pattern matching for vocabulary
-    const vocabPattern = /\*\*([\w\s]+)\*\*\s*\/([^\/]+)\//g;
-    const matches = content.matchAll(vocabPattern);
-    const vocabulary = [];
-
-    for (const match of matches) {
-      vocabulary.push({
-        word: match[1].trim(),
-        pronunciation: match[2].trim(),
-        definition: '',
-        translation: '',
-        part_of_speech: 'unknown'
-      });
-    }
-
-    return vocabulary;
   }
 }
 

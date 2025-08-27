@@ -333,6 +333,7 @@
   gap: 0.75rem;
 }
 
+a.action-btn,
 .action-btn {
   display: flex;
   align-items: center;
@@ -345,6 +346,7 @@
   cursor: pointer;
   font-weight: var(--font-weight-medium);
   transition: all 0.2s ease;
+  text-decoration: none;
 }
 
 .action-btn:hover {

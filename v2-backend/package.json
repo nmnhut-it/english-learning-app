@@ -1,0 +1,40 @@
+{
+  "name": "english-learning-v2-backend",
+  "version": "1.0.0",
+  "description": "Lightweight backend for English Learning App V2",
+  "main": "src/server.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/server.js",
+    "start": "node src/server.js",
+    "build": "echo 'No build step needed for Node.js'",
+    "test": "vitest"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.1.3",
+    "axios": "^1.11.0",
+    "cheerio": "^1.1.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "google-it": "^1.6.4",
+    "google-search-results-nodejs": "^2.1.0",
+    "node-fetch": "^2.7.0",
+    "puppeteer": "^24.17.0",
+    "serpapi": "^2.2.1",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1",
+    "vitest": "^1.0.4"
+  },
+  "keywords": [
+    "english-learning",
+    "education",
+    "api",
+    "ai-processing",
+    "content-management"
+  ],
+  "author": "English Learning App Team",
+  "license": "MIT"
+}

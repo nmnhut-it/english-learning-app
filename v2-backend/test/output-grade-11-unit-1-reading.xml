@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lesson_content type="reading" grade="11" extraction_mode="strict_verbatim">
+  <metadata>
+    <extraction_timestamp>2025-08-27T04:33:14.270Z</extraction_timestamp>
+    <source_length>16594</source_length>
+  </metadata>
+  
+  <vocabulary_bank>
+    <vocabulary_item id="life-expectancy">
+      <word>life expectancy</word>
+      <definition>the number of years that a person is likely to live</definition>
+      <translation lang="vi">tuổi thọ</translation>
+      <examples></examples>
+      <source_location>Exercise 2</source_location>
+    </vocabulary_item>
+    <vocabulary_item id="ingredients">
+      <word>ingredients</word>
+      <definition>the things from which something is made</definition>
+      <translation lang="vi">nguyên liệu</translation>
+      <examples></examples>
+      <source_location>Exercise 2</source_location>
+    </vocabulary_item>
+    <vocabulary_item id="nutrients">
+      <word>nutrients</word>
+      <definition>things to keep a living thing alive and help it grow</definition>
+      <translation lang="vi">dưỡng chất</translation>
+      <examples></examples>
+      <source_location>Exercise 2</source_location>
+    </vocabulary_item>
+    <vocabulary_item id="work-out">
+      <word>work out</word>
+      <definition>do physical exercise</definition>
+      <translation lang="vi">tập luyện</translation>
+      <examples></examples>
+      <source_location>Exercise 2</source_location>
+    </vocabulary_item>
+  </vocabulary_bank>
+  
+  <dialogues>
+    <dialogue id="dialogue-1">
+      <participants></participants>
+      <transcript>
+      </transcript>
+      <translation lang="vi" available="false">
+      </translation>
+    </dialogue>
+  </dialogues>
+  
+  <exercises>
+    <exercise id="bai-1" type="discussion">
+      <instruction>Work in pairs. Look at the photos and discuss the questions.</instruction>
+      <instruction_vi>Làm việc nhóm. Nhìn vào những bức tranh và thảo luận về các câu hỏi.</instruction_vi>
+      <questions>
+        <question number="1">
+          <prompt>Which photos show healthy habits?</prompt>
+          <options provided="false">
+          </options>
+          <answer status="provided">Picture a shows a healthy habit, because eating vegetables are good for our health. They help us to maintain a healthy weight and have a healthy heart and skin.
+Picture c shows a healthy habit, because working out regularly helps you to keep fit, maintain a healthy weight, develop muscles, etc.</answer>
+          <explanation provided="false"></explanation>
+        </question>
+        <question number="2">
+          <prompt>Which ones show unhealthy habits?</prompt>
+          <options provided="false">
+          </options>
+          <answer status="provided">Picture b shows an unhealthy habit, because sleeping late, or having your laptop on while sleeping has a bad effect on the quality of your sleep, which in turn may damage your health in the long run.
+Picture d shows an unhealthy habit because eating fast food or eating too much of it is not good for your health. Fast food is not good for our heart and digestive system. It can lead to obesity/being overweight, or heart diseases.</answer>
+          <explanation provided="false"></explanation>
+        </question>
+        <question number="3">
+          <prompt>Why?</prompt>
+          <options provided="false">
+          </options>
+          <answer status="provided">Picture a shows a healthy habit, because eating vegetables are good for our health. They help us to maintain a healthy weight and have a healthy heart and skin.
+
+Picture b shows an unhealthy habit, because sleeping late, or having your laptop on while sleeping has a bad effect on the quality of your sleep, which in turn may damage your health in the long run.
+
+Picture c shows a healthy habit, because working out regularly helps you to keep fit, maintain a healthy weight, develop muscles, etc.
+
+Picture d shows an unhealthy habit because eating fast food or eating too much of it is not good for your health. Fast food is not good for our heart and digestive system. It can lead to obesity/being overweight, or heart diseases.</answer>
+          <explanation provided="false"></explanation>
+        </question>
+      </questions>
+    </exercise>
+    <exercise id="bai-2" type="crossword">
+      <instruction>Read the article. Solve the crossword with words and phrases from it.</instruction>
+      <instruction_vi>Đọc bài viết. Giải ô chữ với các từ và cụm từ từ nó.</instruction_vi>
+      <questions>
+        <question number="1">
+          <prompt>DOWN
+1. (Section A, noun) the things from which something is made</prompt>
+          <options provided="false">
+          </options>
+          <answer status="provided">ingredients</answer>
+          <explanation provided="false"></explanation>
+        </question>
+        <question number="2">
+          <prompt>ACROSS
+2. (First paragraph before Section A, noun phrase) the number of years that a person is likely to live</prompt>
+          <options provided="false">
+          </options>
+          <answer status="provided">life expectancy</answer>
+          <explanation provided="false"></explanation>
+        </question>
+        <question number="3">
+          <prompt>3. (Section A, noun) things to keep a living thing alive and help it grow</prompt>
+          <options provided="false">
+          </options>
+          <answer status="provided">nutrients</answer>
+          <explanation provided="false"></explanation>
+        </question>
+        <question number="4">
+          <prompt>4. (Section B, phrasal verb) do physical exercise</prompt>
+          <options provided="false">
+          </options>
+          <answer status="provided">work out</answer>
+          <explanation provided="false"></explanation>
+        </question>
+      </questions>
+    </exercise>
+    <exercise id="bai-3" type="matching">
+      <instruction>Read the article again. Match the sections (A-C) with the headings (1-5) below. There are TWO extra headings.</instruction>
+      <instruction_vi>Đọc bài báo một lần nữa. Nối các phần (A-C) với tiêu đề (1-5) bên dưới. Có hai tiêu đề thừa.</instruction_vi>
+      <questions>
+        <question number="A">
+          <prompt>A</prompt>
+          <options provided="true">
+            <option letter="1">Eat better</option>
+            <option letter="2">Exercise regularly</option>
+            <option letter="3">Go to bed earlier</option>
+            <option letter="4">Develop healthy habits</option>
+            <option letter="5">Sleep well</option>
+          </options>
+          <answer status="provided">1</answer>
+          <explanation provided="false"></explanation>
+        </question>
+        <question number="B">
+          <prompt>B</prompt>
+          <options provided="true">
+            <option letter="1">Eat better</option>
+            <option letter="2">Exercise regularly</option>
+            <option letter="3">Go to bed earlier</option>
+            <option letter="4">Develop healthy habits</option>
+            <option letter="5">Sleep well</option>
+          </options>
+          <answer status="provided">2</answer>
+          <explanation provided="false"></explanation>
+        </question>
+        <question number="C">
+          <prompt>C</prompt>
+          <options provided="true">
+            <option letter="1">Eat better</option>
+            <option letter="2">Exercise regularly</option>
+            <option letter="3">Go to bed earlier</option>
+            <option letter="4">Develop healthy habits</option>
+            <option letter="5">Sleep well</option>
+          </options>
+          <answer status="provided">5</answer>
+          <explanation provided="false"></explanation>
+        </question>
+      </questions>
+    </exercise>
+    <exercise id="bai-4" type="gap-fill">
+      <instruction>Read the article again. Complete the diagrams with information from the text. Use no more than TWO words for each gap.</instruction>
+      <instruction_vi>Đọc lại bài viết. Hoàn thành các sơ đồ với thông tin từ văn bản. Sử dụng không quá HAI từ cho mỗi chỗ trống.</instruction_vi>
+      <questions>
+        <question number="1">
+          <prompt>Eat a big (1) breakfast.</prompt>
+          <options provided="false">
+          </options>
+          <answer status="provided">breakfast</answer>
+          <explanation provided="false"></explanation>
+        </question>
+        <question number="2">
+          <prompt>Choose (2) suitable exercise</prompt>
+          <options provided="false">
+          </options>
+          <answer status="provided">suitable</answer>
+          <explanation provided="false"></explanation>
+        </question>
+        <question number="3">
+          <prompt>exercise (3) regularly.</prompt>
+          <options provided="false">
+          </options>
+          <answer status="provided">regularly</answer>
+          <explanation provided="false"></explanation>
+        </question>
+        <question number="4">
+          <prompt>Avoid having coffee or (4) </prompt>
+          <options provided="false">
+          </options>
+          <answer status="provided">energy drinks/exercising</answer>
+          <explanation provided="false"></explanation>
+        </question>
+        <question number="5">
+          <prompt>Turn off (5) </prompt>
+          <options provided="false">
+          </options>
+          <answer status="provided">electronic devices</answer>
+          <explanation provided="false"></explanation>
+        </question>
+      </questions>
+    </exercise>
+    <exercise id="bai-5" type="discussion">
+      <instruction>Work in pairs. Discuss the following questions.</instruction>
+      <instruction_vi>Làm việc theo nhóm. Thảo luận các câu hỏi dưới đây.</instruction_vi>
+      <questions>
+        <question number="1">
+          <prompt>Do you find the advice in the article useful? Have you tried following any of the suggestions in 4?</prompt>
+          <options provided="false">
+          </options>
+          <answer status="provided">I find the advice about healthy eating very useful. I usually avoid eating food with too much salt or sugar, and try to eat more fruit and vegetables. But I don't pay much attention to food labels. I think I'll try to read them from now on before I buy any food items.
+
+The last piece of advice is most useful for me. I avoid having coffee or tea before bed, but I keep reading messages and posts on my phone in bed, and then find it hard to fall asleep. I think this is an unhealthy habit. I'll try to turn off my phone before I go to bed in the future.</answer>
+          <explanation provided="false"></explanation>
+        </question>
+      </questions>
+    </exercise>
+  </exercises>
+  
+  <grammar_points>
+    <point>
+      <rule></rule>
+      <formula></formula>
+      <examples>
+      </examples>
+    </point>
+  </grammar_points>
+  
+  <extraction_summary>
+    <dialogues_found>false</dialogues_found>
+    <exercises_found>true</exercises_found>
+    <answers_found>true</answers_found>
+    <vocabulary_count>4</vocabulary_count>
+  </extraction_summary>
+</lesson_content>

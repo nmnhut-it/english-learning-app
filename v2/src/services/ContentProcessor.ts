@@ -94,6 +94,23 @@ export class ContentProcessor {
       console.log('🤖 Starting AI vocabulary processing...');
       
       const aiResult = await aiVocabularyProcessor.processContent(sourceContent, metadata);
+      
+      // STEP 4: Verify extracted content (strict extraction validation)
+      if (aiResult.xmlContent) {
+        const verificationResult = await this.verifyExtractedContent(
+          sourceContent, 
+          aiResult.xmlContent
+        );
+        
+        if (!verificationResult.isValid) {
+          console.warn('⚠️ Extracted content verification failed:', verificationResult.errors);
+          // Log but don't fail - let teacher review
+          aiResult.extractionWarnings = verificationResult.errors;
+        } else {
+          console.log('✅ Extracted content verified - strict extraction successful');
+        }
+      }
+      
       const processingTime = Date.now() - startTime;
       
       return {
@@ -104,7 +121,8 @@ export class ContentProcessor {
         processingTime,
         fromCache: false,
         vocabularyCount: aiResult.vocabularyCount || 0,
-        metadata
+        metadata,
+        extractionWarnings: aiResult.extractionWarnings
       };
       
     } catch (error) {
@@ -122,6 +140,60 @@ export class ContentProcessor {
       };
     } finally {
           this.activeProcessing.delete(processKey);
+    }
+  }
+
+  /**
+   * Verify extracted content matches source (strict extraction validation)
+   */
+  private async verifyExtractedContent(
+    sourceContent: string,
+    xmlContent: string
+  ): Promise<{isValid: boolean; errors: string[]}> {
+    const errors: string[] = [];
+    
+    try {
+      // Parse XML to extract text content
+      const parser = new DOMParser();
+      const xmlDoc = parser.parseFromString(xmlContent, 'text/xml');
+      
+      // Check vocabulary items
+      const vocabularyItems = xmlDoc.querySelectorAll('vocabulary_item word');
+      vocabularyItems.forEach(item => {
+        const word = item.textContent;
+        if (word && !sourceContent.includes(word)) {
+          errors.push(`Vocabulary word "${word}" not found in source`);
+        }
+      });
+      
+      // Check dialogue content
+      const dialogueTurns = xmlDoc.querySelectorAll('turn');
+      dialogueTurns.forEach(turn => {
+        const text = turn.textContent;
+        if (text && text.length > 10 && !sourceContent.includes(text)) {
+          errors.push(`Dialogue text not found verbatim in source`);
+        }
+      });
+      
+      // Check exercise questions
+      const questions = xmlDoc.querySelectorAll('question prompt, instruction');
+      questions.forEach(q => {
+        const text = q.textContent;
+        if (text && text.length > 15 && !sourceContent.includes(text)) {
+          errors.push(`Question/instruction not found verbatim in source`);
+        }
+      });
+      
+      return {
+        isValid: errors.length === 0,
+        errors
+      };
+    } catch (error) {
+      console.error('XML verification error:', error);
+      return {
+        isValid: false,
+        errors: ['Failed to parse XML for verification']
+      };
     }
   }
 
@@ -637,6 +709,7 @@ export class ContentProcessor {
 export interface ContentProcessingResult extends ProcessingResult {
       action: 'loaded_from_disk' | 'processed_with_ai' | 'failed';
   metadata: ContentMetadata;
+  extractionWarnings?: string[];
 }
 
 export interface GradeContentInput {

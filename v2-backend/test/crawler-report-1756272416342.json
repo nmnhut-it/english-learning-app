@@ -1,0 +1,21 @@
+[
+  {
+    "grade": 11,
+    "unit": 1,
+    "lessonType": "getting_started",
+    "searchSuccess": true,
+    "crawlSuccess": true,
+    "processSuccess": true,
+    "verificationSuccess": true,
+    "url": "https://loigiaihay.com/tieng-anh-11-unit-1-getting-started.html",
+    "crawledFile": "grade-11-unit-1-getting-started.txt",
+    "contentLength": 175,
+    "stats": {
+      "vocabulary": 1,
+      "dialogues": 3,
+      "exercises": 3,
+      "answers": false
+    },
+    "verificationIssues": 0
+  }
+]

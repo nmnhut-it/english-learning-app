@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lesson_content type="language" grade="11" extraction_mode="strict_verbatim">
+  <metadata>
+    <extraction_timestamp>2025-08-27T04:29:57.508Z</extraction_timestamp>
+    <source_length>12059</source_length>
+  </metadata>
+  
+  <vocabulary_bank>
+    <vocabulary_item id="treatment">
+      <word>treatment</word>
+      <definition>something that helps to cure an illness or injury</definition>
+      <translation lang="vi">sự điều trị, phương pháp trị liệu</translation>
+      <examples>
+        <example>1 - b: treatment (n) = something that helps to cure an illness or injury</example>
+        <example>He is receiving ________ for his health problem.</example>
+        <example>2. He is receiving treatment for his health problem.</example>
+      </examples>
+      <source_location>Vocabulary 1</source_location>
+    </vocabulary_item>
+    <vocabulary_item id="strength">
+      <word>strength</word>
+      <definition>the quality of being physically strong</definition>
+      <translation lang="vi">sức mạnh</translation>
+      <examples>
+        <example>2 - c: strength (n) = the quality of being physically strong</example>
+        <example>Regular exercise can help you improve your muscle _________.</example>
+        <example>3. Regular exercise can help you improve your muscle strength.</example>
+      </examples>
+      <source_location>Vocabulary 1</source_location>
+    </vocabulary_item>
+    <vocabulary_item id="muscles">
+      <word>muscles</word>
+      <definition>pieces of flesh in our body that allow the movement of our arms, legs, etc.</definition>
+      <translation lang="vi">cơ bắp</translation>
+      <examples>
+        <example>3 - a: muscles (n) = pieces of flesh in our body that allow the movement of our arms, legs, etc.</example>
+        <example>To build your __________ you can try lifting weights.</example>
+        <example>4. To build your muscles you can try lifting weights.</example>
+      </examples>
+      <source_location>Vocabulary 1</source_location>
+    </vocabulary_item>
+    <vocabulary_item id="suffer">
+      <word>suffer</word>
+      <definition>to have a health problem</definition>
+      <translation lang="vi">chịu đựng</translation>
+      <examples>
+        <example>4 - d: suffer (from) (v) = to have a health problem</example>
+        <example>Nam can't sleep well. He is ______________ stress.</example>
+        <example>5. Nam can't sleep well. He is suffering from stress.</example>
+      </examples>
+      <source_location>Vocabulary 1</source_location>
+    </vocabulary_item>
+    <vocabulary_item id="examine">
+      <word>examine</word>
+      <definition>to look at someone's body carefully to find out if there is a health problem</definition>
+      <translation lang="vi">kiểm tra</translation>
+      <examples>
+        <example>5 - e: examine (v) = to look at someone's body carefully to find out if there is a health problem</example>
+        <example>1.The doctor _______ her carefully, but could not find anything wrong.</example>
+        <example>1. The doctor examined her carefully, but could not find anything wrong.</example>
+      </examples>
+      <source_location>Vocabulary 1</source_location>
+    </vocabulary_item>
+  </vocabulary_bank>
+  
+  <dialogues>
+    <dialogue id="dialogue-1">
+      <participants>Mark, Nam</participants>
+      <transcript>
+        <turn speaker="Mark">Have you started working out again?</turn>
+        <turn speaker="Nam">Yes, I have.</turn>
+        <turn speaker="Mark">Was it your grandfather who taught you?</turn>
+        <turn speaker="Nam">Yes, it was.</turn>
+      </transcript>
+      <translation lang="vi" available="true">
+        <turn speaker="Mark">Bạn lại bắt đầu làm việc bên ngoài à?</turn>
+        <turn speaker="Nam">Vâng, đúng vậy.</turn>
+        <turn speaker="Mark">Là ông đã dạy cho bạn à?</turn>
+        <turn speaker="Nam">Vâng, đúng vậy.</turn>
+      </translation>
+    </dialogue>
+  </dialogues>
+  
+  <exercises>
+    <exercise id="bai-1" type="vocabulary">
+      <instruction>Match each word (1-5) with its meanings (a-e).</instruction>
+      <instruction_vi>Nối mỗi từ (1-5) với nghĩa của nó (a-e).</instruction_vi>
+      <questions>
+        <question number="1">
+          <prompt>The doctor _______ her carefully, but could not find anything wrong.</prompt>
+          <options provided="false"/>
+          <answer status="provided">examined</answer>
+          <explanation provided="true">The doctor examined her carefully, but could not find anything wrong. (Bác sĩ kiểm tra cô ấy một cách cẩn thận, nhưng đã không thể tìm ra bất kỳ bệnh nào.)</explanation>
+        </question>
+        <question number="2">
+          <prompt>He is receiving ________ for his health problem.</prompt>
+          <options provided="false"/>
+          <answer status="provided">treatment</answer>
+          <explanation provided="true">He is receiving treatment for his health problem. (Anh ấy đang nhận sự điều trị cho vấn đề sức khỏe của anh ấy.)</explanation>
+        </question>
+        <question number="3">
+          <prompt>Regular exercise can help you improve your muscle _________.</prompt>
+          <options provided="false"/>
+          <answer status="provided">strength</answer>
+          <explanation provided="true">Regular exercise can help you improve your muscle strength. (Tập thể dục thường xuyên có thể giúp bạn cải thiện sức mạnh của cơ.)</explanation>
+        </question>
+        <question number="4">
+          <prompt>To build your __________ you can try lifting weights.</prompt>
+          <options provided="false"/>
+          <answer status="provided">muscles</answer>
+          <explanation provided="true">To build your muscles you can try lifting weights. (Để tạo cơ bắp của bạn, bạn có thể thử nâng vật nặng.)</explanation>
+        </question>
+        <question number="5">
+          <prompt>Nam can't sleep well. He is ______________ stress.</prompt>
+          <options provided="false"/>
+          <answer status="provided">suffering from</answer>
+          <explanation provided="true">Nam can't sleep well. He is suffering from stress. (Nam không thể ngủ tốt. Anh đang trải qua căng thẳng.)</explanation>
+        </question>
+      </questions>
+    </exercise>
+    <exercise id="ex-1" type="grammar">
+      <instruction>Put the verbs in brackets in either the past simple or the present perfect.</instruction>
+      <questions>
+        <question number="1">
+          <prompt>He (see)______ the doctor yesterday.</prompt>
+          <options provided="false"/>
+          <answer status="provided">saw</answer>
+          <explanation provided="true">Dấu hiệu nhận biết quá khứ đơn "yesterday" => see (v) - saw (V2)</explanation>
+        </question>
+        <question number="2">
+          <prompt>She (suffer)________ from a serious headache, but after treatment, she felt better.</prompt>
+          <options provided="false"/>
+          <answer status="provided">suffered</answer>
+          <explanation provided="true">Động từ ở mệnh đề phía sau chia thì quá khứ đơn "felt" nên chỗ trống cũng chia thì quá khứ đơn => suffer (v) - suffered (Ved)</explanation>
+        </question>
+        <question number="3">
+          <prompt>Our living conditions (improve)______ over the last few decades. Now people live much better.</prompt>
+          <options provided="false"/>
+          <answer status="provided">has improved</answer>
+          <explanation provided="true">Dấu hiệu nhận biết thì hiện tại hoàn thành "over the last few decades".</explanation>
+        </question>
+        <question number="4">
+          <prompt>The doctor (just, examine) __________ her. Fortunately, the treatment is working.</prompt>
+          <options provided="false"/>
+          <answer status="provided">has just examined</answer>
+          <explanation provided="true">Dấu hiệu nhận biết hiện tại hoàn thành "just" => S(số ít) + has just + Ved/V3.</explanation>
+        </question>
+      </questions>
+    </exercise>
+  </exercises>
+  
+  <grammar_points>
+    <point>
+      <rule>Thì quá khứ đơn với động từ thường:</rule>
+      <formula>(+) S + Ved/2
+(-) S + did + not (= didn’t) + V
+(?) Did + S + V</formula>
+      <examples/>
+    </point>
+    <point>
+      <rule>Thì hiện tại hoàn thành</rule>
+      <formula>(+) S + has/have +Ved/V3
+(-) S + have/ has + not (haven’t/hasn’t) + Ved/3
+(?) Have/Has + S + Ved/3?</formula>
+      <examples/>
+    </point>
+  </grammar_points>
+  
+  <extraction_summary>
+    <dialogues_found>true</dialogues_found>
+    <exercises_found>true</exercises_found>
+    <answers_found>true</answers_found>
+    <vocabulary_count>5</vocabulary_count>
+  </extraction_summary>
+</lesson_content>
