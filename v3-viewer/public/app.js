@@ -158,9 +158,60 @@ class SearchManager {
 const historyManager = new HistoryManager();
 const searchManager = new SearchManager();
 
+// Sidebar toggle functionality
+class SidebarManager {
+    constructor() {
+        this.storageKey = 'v3-sidebar-hidden';
+        this.isHidden = this.getSidebarState();
+        this.initializeSidebar();
+    }
+    
+    getSidebarState() {
+        try {
+            return localStorage.getItem(this.storageKey) === 'true';
+        } catch {
+            return false;
+        }
+    }
+    
+    setSidebarState(hidden) {
+        this.isHidden = hidden;
+        localStorage.setItem(this.storageKey, hidden.toString());
+        this.applySidebarState();
+    }
+    
+    initializeSidebar() {
+        this.applySidebarState();
+    }
+    
+    applySidebarState() {
+        const sidebar = document.querySelector('.sidebar');
+        const container = document.querySelector('.container');
+        
+        if (this.isHidden) {
+            sidebar.classList.add('sidebar-hidden');
+            container.classList.add('sidebar-collapsed');
+        } else {
+            sidebar.classList.remove('sidebar-hidden');
+            container.classList.remove('sidebar-collapsed');
+        }
+    }
+    
+    toggleSidebar() {
+        this.setSidebarState(!this.isHidden);
+    }
+}
+
+// Initialize sidebar manager
+const sidebarManager = new SidebarManager();
+
 // Global functions
 function trackFileAccess(filepath, title) {
     historyManager.setFileAccess(filepath, title);
+}
+
+function toggleSidebar() {
+    sidebarManager.toggleSidebar();
 }
 
 function openFile(filepath) {
@@ -291,10 +342,22 @@ document.addEventListener('input', function(e) {
 
 // Keyboard shortcuts
 document.addEventListener('keydown', function(e) {
+    // Ignore if user is typing in an input field
+    if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') {
+        return;
+    }
+    
     // Search shortcut (/)
     if (e.key === '/' && !e.ctrlKey && !e.altKey) {
         e.preventDefault();
         showSearch();
+        return;
+    }
+    
+    // Sidebar toggle shortcut (s)
+    if (e.key === 's' && !e.ctrlKey && !e.altKey) {
+        e.preventDefault();
+        sidebarManager.toggleSidebar();
         return;
     }
     
@@ -324,6 +387,8 @@ document.addEventListener('keydown', function(e) {
 document.addEventListener('click', function(e) {
     if (e.target.id === 'search-btn') {
         showSearch();
+    } else if (e.target.id === 'sidebar-toggle') {
+        sidebarManager.toggleSidebar();
     } else if (e.target.id === 'close-search') {
         closeSearch();
     } else if (e.target.id === 'toggle-view') {
