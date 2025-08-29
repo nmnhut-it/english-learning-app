@@ -102,13 +102,13 @@ body {
   margin: 0 auto;
 }
 
-/* When header is hidden, simply adjust spacing */
-body.header-hidden .main {
+/* When header is hidden, adjust main container */
+.header-hidden + .main {
   margin-top: 0;
   height: 100vh;
 }
 
-body.header-hidden .container {
+.header-hidden + .main .container {
   height: 100vh;
 }
 
@@ -123,16 +123,21 @@ body.header-hidden .container {
 }
 
 .sidebar-hidden {
-  transform: translateX(-100%);
-  width: 0;
-  border-right: none;
+  display: none;
 }
 
-/* When sidebar is hidden, content area expands */
+/* When sidebar is hidden, content uses full width */
 .container.sidebar-collapsed .content-area {
   width: 100%;
   max-width: none;
   margin-left: 0;
+}
+
+.container.sidebar-collapsed .markdown-content {
+  width: 100%;
+  max-width: none;
+  padding: 2rem 3rem;
+  margin: 0;
 }
 
 .sidebar-header {
