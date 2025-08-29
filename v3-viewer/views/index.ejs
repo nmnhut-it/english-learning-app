@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>V3 Markdown Viewer</title>
+    <link rel="stylesheet" href="/styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="header">
+        <div class="header-content">
+            <h1 class="logo">
+                <a href="/">📚 V3 Markdown Viewer</a>
+            </h1>
+            <nav class="nav">
+                <button id="search-btn" class="nav-btn" title="Search (/)">🔍</button>
+            </nav>
+        </div>
+    </header>
+    
+    <main class="main">
+        <div class="container">
+            <aside class="sidebar">
+                <div class="sidebar-header">
+                    <h2>📂 Lesson Files</h2>
+                    <div class="stats" id="folder-stats">
+                        <span class="stat-item">
+                            <span id="total-files">0</span> files
+                        </span>
+                        <span class="stat-item">
+                            <span id="total-folders">0</span> folders
+                        </span>
+                    </div>
+                </div>
+                
+                <div class="file-tree" id="file-tree">
+                    <% function renderNode(node, level = 0) { %>
+                        <% if (node.type === 'folder') { %>
+                            <div class="folder-item" data-level="<%= level %>" data-path="<%= node.path %>">
+                                <div class="folder-header" onclick="toggleFolder(this)">
+                                    <span class="folder-icon">📁</span>
+                                    <span class="folder-name"><%= node.name %></span>
+                                    <span class="folder-count">(<%= node.files.length %> files)</span>
+                                </div>
+                                
+                                <div class="folder-preview" id="preview-<%= node.path.replace(/[^\w]/g, '_') %>">
+                                    <!-- Last accessed file will be injected here by JavaScript -->
+                                </div>
+                                
+                                <div class="folder-content" style="display: none;">
+                                    <% if (node.files.length > 0) { %>
+                                        <% node.files.forEach(file => { %>
+                                            <div class="file-item" onclick="openFile('<%= file.path %>')">
+                                                <span class="file-icon">📄</span>
+                                                <div class="file-info">
+                                                    <span class="file-name"><%= file.name %></span>
+                                                    <span class="file-title"><%= file.title %></span>
+                                                </div>
+                                            </div>
+                                        <% }) %>
+                                    <% } %>
+                                    
+                                    <% node.children.forEach(child => { %>
+                                        <%- renderNode(child, level + 1) %>
+                                    <% }) %>
+                                </div>
+                            </div>
+                        <% } %>
+                    <% } %>
+                    
+                    <%- renderNode(fileTree) %>
+                </div>
+            </aside>
+            
+            <main class="content-area">
+                <div class="welcome-screen">
+                    <div class="welcome-content">
+                        <h2>🎓 English Learning Materials</h2>
+                        <p>Browse through lesson files organized by grade levels (6-11).</p>
+                        
+                        <div class="quick-stats">
+                            <div class="stat-card">
+                                <h3>Recent Activity</h3>
+                                <div id="recent-files" class="recent-files">
+                                    <!-- Recent files will be loaded by JavaScript -->
+                                </div>
+                            </div>
+                            
+                            <div class="stat-card">
+                                <h3>Quick Actions</h3>
+                                <div class="actions">
+                                    <button onclick="showSearch()" class="action-btn">
+                                        🔍 Search Files
+                                    </button>
+                                    <button onclick="clearHistory()" class="action-btn secondary">
+                                        🗑️ Clear History
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="instructions">
+                            <h3>💡 How to Use</h3>
+                            <ul>
+                                <li><strong>Browse:</strong> Click folders to expand and see files</li>
+                                <li><strong>Quick Access:</strong> Each folder shows your last accessed file</li>
+                                <li><strong>Toggle Views:</strong> Press 'r' for raw markdown, 'v' for rendered HTML</li>
+                                <li><strong>Search:</strong> Press '/' to quickly find any file</li>
+                                <li><strong>Direct Links:</strong> URLs are shareable for specific lessons</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </main>
+        </div>
+    </main>
+    
+    <div id="search-modal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3>Search Files</h3>
+                <button id="close-search" class="close-btn">&times;</button>
+            </div>
+            <input type="text" id="search-input" placeholder="Type to search files..." autofocus>
+            <div id="search-results" class="search-results"></div>
+        </div>
+    </div>
+    
+    <script>
+    // File tree data for JavaScript
+    window.fileTreeData = <%- JSON.stringify(fileTree) %>;
+    </script>
+    <script src="/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title><%= title %> - V3 Viewer</title>
+    <link rel="stylesheet" href="/styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="header">
+        <div class="header-content">
+            <h1 class="logo">
+                <a href="/">📚 V3 Markdown Viewer</a>
+            </h1>
+            <nav class="nav">
+                <button id="search-btn" class="nav-btn" title="Search (/)">🔍</button>
+                <button id="toggle-view" class="nav-btn" title="Toggle View (r)">🔄</button>
+            </nav>
+        </div>
+    </header>
+    
+    <main class="main">
+        <div class="container viewer-container">
+            <aside class="sidebar">
+                <div class="sidebar-header">
+                    <h2>📂 Navigation</h2>
+                    <button onclick="window.location.href='/'" class="back-btn">
+                        ← Back to Files
+                    </button>
+                </div>
+                
+                <div class="current-file">
+                    <div class="breadcrumb">
+                        <% const pathParts = filepath.split('/'); %>
+                        <% pathParts.forEach((part, index) => { %>
+                            <span class="breadcrumb-item">
+                                <% if (index === pathParts.length - 1) { %>
+                                    📄 <%= part %>
+                                <% } else { %>
+                                    📁 <%= part %>
+                                <% } %>
+                            </span>
+                            <% if (index < pathParts.length - 1) { %>
+                                <span class="breadcrumb-separator">/</span>
+                            <% } %>
+                        <% }) %>
+                    </div>
+                    
+                    <div class="file-meta">
+                        <h3><%= title %></h3>
+                        <div class="file-actions">
+                            <button id="view-raw" class="action-btn" title="Raw Markdown (r)">
+                                📝 Raw
+                            </button>
+                            <button id="view-rendered" class="action-btn active" title="Rendered HTML (v)">
+                                🎨 Rendered
+                            </button>
+                        </div>
+                    </div>
+                </div>
+                
+                <div id="table-of-contents" class="toc">
+                    <h4>📑 Table of Contents</h4>
+                    <div id="toc-list" class="toc-list">
+                        <!-- Will be populated by JavaScript -->
+                    </div>
+                </div>
+            </aside>
+            
+            <main class="content-area">
+                <article class="markdown-content">
+                    <div id="rendered-content" class="rendered-view">
+                        <%- htmlContent %>
+                    </div>
+                    
+                    <div id="raw-content" class="raw-view" style="display: none;">
+                        <pre><code><%= rawContent %></code></pre>
+                    </div>
+                </article>
+            </main>
+        </div>
+    </main>
+    
+    <div id="search-modal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3>Search Files</h3>
+                <button id="close-search" class="close-btn">&times;</button>
+            </div>
+            <input type="text" id="search-input" placeholder="Type to search files..." autofocus>
+            <div id="search-results" class="search-results"></div>
+        </div>
+    </div>
+    
+    <script>
+    // File data for JavaScript
+    window.currentFile = {
+        filepath: '<%= filepath %>',
+        title: '<%= title %>',
+        rawContent: `<%= rawContent.replace(/`/g, '\\`').replace(/\$/g, '\\$') %>`,
+        frontmatter: <%- JSON.stringify(frontmatter) %>
+    };
+
+    // Track file access
+    trackFileAccess('<%= filepath %>', '<%= title %>');
+    </script>
+    <script src="/app.js"></script>
+</body>
+</html>
