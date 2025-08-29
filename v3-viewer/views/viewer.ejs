@@ -104,10 +104,13 @@
         rawContent: `<%= rawContent.replace(/`/g, '\\`').replace(/\$/g, '\\$') %>`,
         frontmatter: <%- JSON.stringify(frontmatter) %>
     };
-
-    // Track file access
-    trackFileAccess('<%= filepath %>', '<%= title %>');
     </script>
     <script src="/app.js"></script>
+    <script>
+    // Track file access after app.js loads
+    document.addEventListener('DOMContentLoaded', function() {
+        trackFileAccess('<%= filepath %>', '<%= title %>');
+    });
+    </script>
 </body>
 </html>

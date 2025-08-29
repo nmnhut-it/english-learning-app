@@ -187,13 +187,22 @@ class SidebarManager {
     applySidebarState() {
         const sidebar = document.querySelector('.sidebar');
         const container = document.querySelector('.container');
+        const header = document.querySelector('.header');
+        
+        console.log('=== APPLYING SIDEBAR STATE ===');
+        console.log('isHidden:', this.isHidden);
         
         if (this.isHidden) {
-            sidebar.classList.add('sidebar-hidden');
-            container.classList.add('sidebar-collapsed');
+            console.log('HIDING header and sidebar only...');
+            sidebar?.classList.add('sidebar-hidden');
+            container?.classList.add('sidebar-collapsed');
+            header?.classList.add('header-hidden');
+            // DO NOT add header-hidden to body - that's causing the issue
         } else {
-            sidebar.classList.remove('sidebar-hidden');
-            container.classList.remove('sidebar-collapsed');
+            console.log('SHOWING elements...');
+            sidebar?.classList.remove('sidebar-hidden');
+            container?.classList.remove('sidebar-collapsed');
+            header?.classList.remove('header-hidden');
         }
     }
     
@@ -357,7 +366,10 @@ document.addEventListener('keydown', function(e) {
     // Sidebar toggle shortcut (s)
     if (e.key === 's' && !e.ctrlKey && !e.altKey) {
         e.preventDefault();
+        console.log('>>> S KEY PRESSED <<<');
+        console.log('Before toggle - isHidden:', sidebarManager.isHidden);
         sidebarManager.toggleSidebar();
+        console.log('After toggle - isHidden:', sidebarManager.isHidden);
         return;
     }
     
