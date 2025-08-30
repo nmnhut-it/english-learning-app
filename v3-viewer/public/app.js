@@ -1,4 +1,356 @@
 // V3 Markdown Viewer JavaScript
+
+// Translation Manager
+class TranslationManager {
+    constructor() {
+        this.isTranslating = false;
+        this.selectedText = '';
+        this.translationFiles = [];
+        this.originalFiles = [];
+        this.isTranslationFile = false;
+    }
+
+    getSelectedText() {
+        const selection = window.getSelection();
+        const text = selection.toString().trim();
+        
+        if (text && text.length > 10) { // Only translate meaningful text
+            return text;
+        }
+        return null;
+    }
+
+    showTranslationProgress() {
+        // Remove any existing progress indicator
+        this.hideTranslationProgress();
+
+        const progressDiv = document.createElement('div');
+        progressDiv.id = 'translation-progress';
+        progressDiv.style.cssText = `
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            background: #667eea;
+            color: white;
+            padding: 15px 25px;
+            border-radius: 8px;
+            z-index: 1000;
+            box-shadow: 0 4px 12px rgba(102, 126, 234, 0.4);
+            font-size: 14px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        `;
+
+        const spinner = document.createElement('div');
+        spinner.style.cssText = `
+            width: 16px;
+            height: 16px;
+            border: 2px solid rgba(255,255,255,0.3);
+            border-top: 2px solid white;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+        `;
+
+        progressDiv.appendChild(spinner);
+        progressDiv.appendChild(document.createTextNode('🔄 Translating...'));
+        document.body.appendChild(progressDiv);
+    }
+
+    hideTranslationProgress() {
+        const existing = document.getElementById('translation-progress');
+        if (existing) {
+            existing.remove();
+        }
+    }
+
+    showTranslationResult(result) {
+        this.hideTranslationProgress();
+
+        const resultDiv = document.createElement('div');
+        resultDiv.id = 'translation-result';
+        resultDiv.style.cssText = `
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            background: #4caf50;
+            color: white;
+            padding: 15px 25px;
+            border-radius: 8px;
+            z-index: 1000;
+            box-shadow: 0 4px 12px rgba(76, 175, 80, 0.4);
+            font-size: 14px;
+            max-width: 320px;
+        `;
+
+        resultDiv.innerHTML = `
+            <div style="font-weight: bold; margin-bottom: 8px;">✅ Translation Complete!</div>
+            <div style="font-size: 12px; opacity: 0.9; margin-bottom: 8px;">
+                Saved as: ${result.translationFile}
+            </div>
+            <div style="display: flex; gap: 8px;">
+                <button id="view-translation" style="
+                    background: rgba(255,255,255,0.2); 
+                    border: 1px solid rgba(255,255,255,0.3); 
+                    color: white; 
+                    padding: 4px 8px; 
+                    border-radius: 4px; 
+                    font-size: 11px; 
+                    cursor: pointer;
+                ">📄 View</button>
+                <button id="open-translation-new-tab" style="
+                    background: rgba(255,255,255,0.2); 
+                    border: 1px solid rgba(255,255,255,0.3); 
+                    color: white; 
+                    padding: 4px 8px; 
+                    border-radius: 4px; 
+                    font-size: 11px; 
+                    cursor: pointer;
+                ">🔗 New Tab</button>
+            </div>
+        `;
+
+        // Add event listeners for buttons
+        resultDiv.querySelector('#view-translation').addEventListener('click', () => {
+            window.location.href = `/view/${result.translationFile}`;
+        });
+
+        resultDiv.querySelector('#open-translation-new-tab').addEventListener('click', () => {
+            window.open(`/view/${result.translationFile}`, '_blank');
+        });
+
+        document.body.appendChild(resultDiv);
+
+        // Auto-hide after 7 seconds
+        setTimeout(() => {
+            resultDiv.style.opacity = '0';
+            resultDiv.style.transform = 'translateX(100%)';
+            resultDiv.style.transition = 'all 0.5s ease';
+            setTimeout(() => resultDiv.remove(), 500);
+        }, 7000);
+    }
+
+    showTranslationError(error) {
+        this.hideTranslationProgress();
+
+        const errorDiv = document.createElement('div');
+        errorDiv.style.cssText = `
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            background: #f44336;
+            color: white;
+            padding: 15px 25px;
+            border-radius: 8px;
+            z-index: 1000;
+            box-shadow: 0 4px 12px rgba(244, 67, 54, 0.4);
+            font-size: 14px;
+            max-width: 300px;
+            cursor: pointer;
+        `;
+
+        errorDiv.innerHTML = `
+            <div style="font-weight: bold; margin-bottom: 5px;">❌ Translation Failed</div>
+            <div style="font-size: 12px; opacity: 0.9;">
+                ${error.message || error}
+            </div>
+            <div style="font-size: 11px; margin-top: 5px; opacity: 0.8;">
+                Click to dismiss
+            </div>
+        `;
+
+        errorDiv.addEventListener('click', () => errorDiv.remove());
+        document.body.appendChild(errorDiv);
+
+        // Auto-hide after 7 seconds
+        setTimeout(() => errorDiv.remove(), 7000);
+    }
+
+    async translateSelectedText() {
+        if (this.isTranslating) return;
+
+        const selectedText = this.getSelectedText();
+        if (!selectedText) {
+            this.showTranslationError('Please select some text to translate (minimum 10 characters)');
+            return;
+        }
+
+        // Get current file path
+        const currentFile = window.currentFile?.filepath;
+        if (!currentFile) {
+            this.showTranslationError('Cannot detect current file');
+            return;
+        }
+
+        this.isTranslating = true;
+        this.showTranslationProgress();
+
+        try {
+            const response = await fetch('/api/translate', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({
+                    text: selectedText,
+                    sourceFile: currentFile,
+                    metadata: {
+                        // Extract from URL or file path
+                        context: 'Selected text from lesson'
+                    }
+                })
+            });
+
+            const result = await response.json();
+
+            if (result.success) {
+                this.showTranslationResult(result);
+                // Refresh translation files after successful translation
+                this.loadTranslationFiles();
+            } else {
+                this.showTranslationError(result.error || 'Translation failed');
+            }
+
+        } catch (error) {
+            console.error('Translation error:', error);
+            this.showTranslationError(error.message || 'Network error');
+        } finally {
+            this.isTranslating = false;
+        }
+    }
+
+    async loadTranslationFiles() {
+        const currentFile = window.currentFile?.filepath;
+        if (!currentFile) return;
+
+        try {
+            const response = await fetch(`/api/translation-files/${currentFile}`);
+            
+            if (!response.ok) {
+                throw new Error(`API request failed: ${response.status} ${response.statusText}`);
+            }
+            
+            const data = await response.json();
+            
+            this.isTranslationFile = data.isTranslationFile;
+            this.translationFiles = data.translationFiles || [];
+            this.originalFiles = data.originalFiles || [];
+            
+            this.updateTranslationFilesSidebar();
+        } catch (error) {
+            console.error('Failed to load translation files:', error);
+            this.showTranslationFilesError(`Failed to load translation files: ${error.message}`);
+        }
+    }
+
+    updateTranslationFilesSidebar() {
+        const container = document.getElementById('translation-files-list');
+        if (!container) return;
+
+        let html = '';
+
+        if (this.isTranslationFile && this.originalFiles.length > 0) {
+            html += '<div class="translation-section">';
+            html += '<div class="section-title">📄 Original Files</div>';
+            this.originalFiles.forEach(file => {
+                html += `
+                    <div class="translation-file-item" data-file="${file.file}">
+                        <div class="file-info">
+                            <span class="file-name">${file.title}</span>
+                        </div>
+                        <div class="file-actions">
+                            <button onclick="window.location.href='/view/${file.file}'" class="action-btn-sm" title="View">📄</button>
+                            <button onclick="window.open('/view/${file.file}', '_blank')" class="action-btn-sm" title="Open in new tab">🔗</button>
+                        </div>
+                    </div>
+                `;
+            });
+            html += '</div>';
+            
+            // Add hotkey hints
+            html += '<div class="translation-hotkeys">';
+            html += '<div class="hotkey-item"><kbd>Shift+T</kbd> Jump to original</div>';
+            html += '<div class="hotkey-item"><kbd>Ctrl+T</kbd> Open in new tab</div>';
+            html += '</div>';
+
+        } else if (!this.isTranslationFile && this.translationFiles.length > 0) {
+            html += '<div class="translation-section">';
+            html += '<div class="section-title">🔤 Available Translations</div>';
+            this.translationFiles.forEach(file => {
+                const timeAgo = this.getTimeAgo(new Date(file.modified));
+                html += `
+                    <div class="translation-file-item" data-file="${file.file}">
+                        <div class="file-info">
+                            <span class="file-name">${file.title}</span>
+                            <span class="file-time">${timeAgo}</span>
+                        </div>
+                        <div class="file-actions">
+                            <button onclick="window.location.href='/view/${file.file}'" class="action-btn-sm" title="View">🔤</button>
+                            <button onclick="window.open('/view/${file.file}', '_blank')" class="action-btn-sm" title="Open in new tab">🔗</button>
+                        </div>
+                    </div>
+                `;
+            });
+            html += '</div>';
+            
+            // Add hotkey hints
+            html += '<div class="translation-hotkeys">';
+            html += '<div class="hotkey-item"><kbd>Shift+T</kbd> Jump to translation</div>';
+            html += '<div class="hotkey-item"><kbd>Ctrl+T</kbd> Open in new tab</div>';
+            html += '</div>';
+
+        } else {
+            html = '<div class="no-translation">No translation files found</div>';
+        }
+
+        container.innerHTML = html;
+    }
+
+    showTranslationFilesError(message) {
+        const container = document.getElementById('translation-files-list');
+        if (!container) return;
+        
+        container.innerHTML = `<div class="translation-error">${message}</div>`;
+    }
+
+    getTimeAgo(date) {
+        const now = new Date();
+        const diff = now - date;
+        const minutes = Math.floor(diff / 60000);
+        const hours = Math.floor(minutes / 60);
+        const days = Math.floor(hours / 24);
+        
+        if (days > 0) return `${days}d ago`;
+        if (hours > 0) return `${hours}h ago`;
+        if (minutes > 0) return `${minutes}m ago`;
+        return 'Just now';
+    }
+
+    jumpToTranslation() {
+        if (this.isTranslationFile && this.originalFiles.length > 0) {
+            // Jump to original file
+            window.location.href = `/view/${this.originalFiles[0].file}`;
+        } else if (!this.isTranslationFile && this.translationFiles.length > 0) {
+            // Jump to first translation file
+            window.location.href = `/view/${this.translationFiles[0].file}`;
+        } else {
+            this.showTranslationError('No related translation files found. Try refreshing the page.');
+        }
+    }
+
+    openTranslationInNewTab() {
+        if (this.isTranslationFile && this.originalFiles.length > 0) {
+            // Open original file in new tab
+            window.open(`/view/${this.originalFiles[0].file}`, '_blank');
+        } else if (!this.isTranslationFile && this.translationFiles.length > 0) {
+            // Open first translation file in new tab
+            window.open(`/view/${this.translationFiles[0].file}`, '_blank');
+        } else {
+            this.showTranslationError('No related translation files found');
+        }
+    }
+}
+
 class HistoryManager {
     constructor() {
         this.storageKey = 'v3-markdown-history';
@@ -157,6 +509,7 @@ class SearchManager {
 // Initialize managers
 const historyManager = new HistoryManager();
 const searchManager = new SearchManager();
+const translationManager = new TranslationManager();
 
 // Sidebar toggle functionality
 class SidebarManager {
@@ -333,6 +686,11 @@ document.addEventListener('DOMContentLoaded', function() {
     // Generate TOC for viewer pages
     generateTOC();
     
+    // Load translation files for current page
+    if (window.currentFile) {
+        translationManager.loadTranslationFiles();
+    }
+    
     // Check URL for view parameter
     const urlParams = new URLSearchParams(window.location.search);
     if (urlParams.get('view') === 'raw') {
@@ -370,6 +728,27 @@ document.addEventListener('keydown', function(e) {
         console.log('Before toggle - isHidden:', sidebarManager.isHidden);
         sidebarManager.toggleSidebar();
         console.log('After toggle - isHidden:', sidebarManager.isHidden);
+        return;
+    }
+    
+    // Translation shortcut (t)
+    if (e.key === 't' && !e.ctrlKey && !e.altKey && !e.shiftKey) {
+        e.preventDefault();
+        translationManager.translateSelectedText();
+        return;
+    }
+    
+    // Jump to/from translation (Shift+T)
+    if (e.key === 'T' && e.shiftKey && !e.ctrlKey && !e.altKey) {
+        e.preventDefault();
+        translationManager.jumpToTranslation();
+        return;
+    }
+    
+    // Open translation in new tab (Ctrl+T)
+    if (e.key === 't' && e.ctrlKey && !e.altKey && !e.shiftKey) {
+        e.preventDefault();
+        translationManager.openTranslationInNewTab();
         return;
     }
     
