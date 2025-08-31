@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <title>English Learning - Mobile</title>
+    <link rel="stylesheet" href="/styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <meta name="theme-color" content="#2563eb">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="default">
+</head>
+<body class="mobile-body">
+    <!-- Mobile Header -->
+    <header class="mobile-header">
+        <div class="mobile-header-content">
+            <h1 class="mobile-logo">📚 English Lessons</h1>
+            <div class="mobile-nav">
+                <button id="mobile-search-btn" class="mobile-nav-btn">🔍</button>
+                <a href="<%= switchUrl %>" class="mobile-switch-btn">🖥️</a>
+            </div>
+        </div>
+        
+        <!-- Search Bar -->
+        <div class="mobile-search-container">
+            <input type="text" id="mobile-search" placeholder="🔍 Search lessons..." class="mobile-search-input">
+            <button id="mobile-search-clear" class="mobile-search-clear" style="display: none;">✕</button>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="mobile-main">
+        <!-- Quick Stats -->
+        <div class="mobile-stats">
+            <div class="mobile-stat-item">
+                <span id="mobile-total-files">0</span> lessons
+            </div>
+            <div class="mobile-stat-item">
+                <span id="mobile-translation-count">0</span> translations
+            </div>
+        </div>
+
+        <!-- Recent Files -->
+        <section class="mobile-section" id="mobile-recent" style="display: none;">
+            <h3 class="mobile-section-title">📖 Recent Lessons</h3>
+            <div id="mobile-recent-list" class="mobile-file-grid">
+                <!-- Recent files will be populated by JavaScript -->
+            </div>
+        </section>
+
+        <!-- Files by Grade -->
+        <section class="mobile-section">
+            <h3 class="mobile-section-title">📚 Lessons by Grade</h3>
+            <div id="mobile-grade-list" class="mobile-grade-list">
+                <% 
+                // Group files by grade
+                const filesByGrade = {};
+                let totalFiles = 0;
+                let translationCount = 0;
+                
+                flattenedFiles.forEach(file => {
+                    if (!filesByGrade[file.grade]) {
+                        filesByGrade[file.grade] = [];
+                    }
+                    filesByGrade[file.grade].push(file);
+                    totalFiles++;
+                    if (file.hasTranslation || file.isTranslation) {
+                        translationCount++;
+                    }
+                });
+                
+                // Sort grades
+                const sortedGrades = Object.keys(filesByGrade).sort((a, b) => {
+                    const gradeA = parseInt(a.replace(/\D/g, '')) || 0;
+                    const gradeB = parseInt(b.replace(/\D/g, '')) || 0;
+                    return gradeB - gradeA; // Descending order
+                });
+                %>
+                
+                <% sortedGrades.forEach(grade => { %>
+                    <div class="mobile-grade-section">
+                        <div class="mobile-grade-header" onclick="toggleGradeSection(this)">
+                            <span class="mobile-grade-icon">📚</span>
+                            <span class="mobile-grade-name">Grade <%= grade.replace(/[^\d]/g, '') %></span>
+                            <span class="mobile-grade-count">(<%= filesByGrade[grade].length %> lessons)</span>
+                            <span class="mobile-grade-toggle">▼</span>
+                        </div>
+                        
+                        <div class="mobile-grade-content" style="display: none;">
+                            <div class="mobile-file-grid">
+                                <% filesByGrade[grade].forEach(file => { %>
+                                    <div class="mobile-file-card" data-path="<%= file.path %>" onclick="openMobileFile('<%= file.path %>')">
+                                        <div class="mobile-file-header">
+                                            <span class="mobile-file-icon">
+                                                <% if (file.isTranslation) { %>🔤<% } else { %>📄<% } %>
+                                            </span>
+                                            <div class="mobile-file-meta">
+                                                <% if (file.hasTranslation && !file.isTranslation) { %>
+                                                    <span class="mobile-translation-indicator">🔤</span>
+                                                <% } %>
+                                            </div>
+                                        </div>
+                                        
+                                        <div class="mobile-file-info">
+                                            <h4 class="mobile-file-title"><%= file.title %></h4>
+                                            <p class="mobile-file-name"><%= file.name %></p>
+                                            <% if (file.folder && file.folder !== 'Unknown') { %>
+                                                <p class="mobile-file-path"><%= file.folder %></p>
+                                            <% } %>
+                                        </div>
+                                        
+                                        <div class="mobile-file-actions">
+                                            <button class="mobile-action-btn" onclick="event.stopPropagation(); openMobileFile('<%= file.path %>')">View</button>
+                                            <% if (file.hasTranslation && !file.isTranslation) { %>
+                                                <button class="mobile-action-btn secondary" onclick="event.stopPropagation(); showTranslations('<%= file.path %>')">Translations</button>
+                                            <% } %>
+                                        </div>
+                                    </div>
+                                <% }) %>
+                            </div>
+                        </div>
+                    </div>
+                <% }) %>
+            </div>
+        </section>
+
+        <!-- No Results Message -->
+        <div id="mobile-no-results" class="mobile-no-results" style="display: none;">
+            <div class="mobile-no-results-content">
+                <span class="mobile-no-results-icon">🔍</span>
+                <h3>No lessons found</h3>
+                <p>Try adjusting your search terms</p>
+                <button onclick="clearMobileSearch()" class="mobile-action-btn">Clear Search</button>
+            </div>
+        </div>
+    </main>
+
+    <!-- Floating Action Button -->
+    <div id="mobile-fab" class="mobile-fab" style="display: none;">
+        <button id="mobile-fab-btn" class="mobile-fab-btn" title="Quick Actions">⚡</button>
+    </div>
+
+    <!-- Translation Context Menu -->
+    <div id="mobile-context-menu" class="mobile-context-menu" style="display: none;">
+        <div class="mobile-context-content">
+            <div class="mobile-context-header">
+                <h4 id="mobile-context-title">Actions</h4>
+                <button id="mobile-context-close" class="mobile-context-close">✕</button>
+            </div>
+            <div class="mobile-context-actions">
+                <button class="mobile-context-action" data-action="view">📄 View Original</button>
+                <button class="mobile-context-action" data-action="translate">➕ New Translation</button>
+                <button class="mobile-context-action" data-action="translations">🔤 View Translations</button>
+                <button class="mobile-context-action" data-action="share">📋 Copy Link</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Scripts -->
+    <script>
+    // Mobile-specific data
+    window.isMobile = true;
+    window.fileTreeData = <%- JSON.stringify(fileTree) %>;
+    window.flattenedFiles = <%- JSON.stringify(flattenedFiles) %>;
+    
+    // Update stats
+    document.getElementById('mobile-total-files').textContent = '<%= totalFiles %>';
+    document.getElementById('mobile-translation-count').textContent = '<%= translationCount %>';
+    </script>
+    <script src="/app.js"></script>
+    <script src="/mobile.js"></script>
+</body>
+</html>

@@ -20,6 +20,152 @@ app.use(express.json());
 // Markdown files directory
 const MARKDOWN_DIR = path.join(__dirname, '../markdown-files');
 
+// Mobile device detection helper
+function isMobileDevice(userAgent) {
+  if (!userAgent) return false;
+  
+  const mobileRegex = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini|Mobile|mobile|CriOS/i;
+  return mobileRegex.test(userAgent);
+}
+
+// Mobile detection middleware
+function detectMobile(req, res, next) {
+  req.isMobile = isMobileDevice(req.headers['user-agent']);
+  req.forceDesktop = req.query.desktop === '1';
+  req.forceMobile = req.query.mobile === '1';
+  next();
+}
+
+// Enhanced translation prompt for auto-detection of lesson content
+function createAutoTranslationPrompt(content, sourceFile, metadata) {
+  const timestamp = new Date().toISOString();
+  const fileName = sourceFile.split('/').pop().replace('.md', '');
+  
+  return `Bạn là một chuyên gia dạy tiếng Anh. Hãy phân tích toàn bộ nội dung bài học và tự động phát hiện các phần cần dịch sang tiếng Việt.
+
+THÔNG TIN BÀI HỌC:
+- File: ${sourceFile}
+- Tên bài: ${fileName}
+${metadata?.context ? `- Ngữ cảnh: ${metadata.context}` : ''}
+
+NỘI DUNG BÀI HỌC HOÀN CHỈNH:
+${content}
+
+YÊU CẦU PHÂN TÍCH VÀ DỊCH TỰ ĐỘNG:
+
+1. **Tự động phát hiện** các phần quan trọng cần dịch:
+   - Đối thoại và hội thoại (Dialogues)
+   - Đoạn văn đọc hiểu (Reading passages) 
+   - Hướng dẫn bài tập (Exercise instructions)
+   - Định nghĩa từ vựng (Vocabulary definitions)
+   - Giải thích ngữ pháp (Grammar explanations)
+   - Câu hỏi và đáp án (Questions and answers)
+
+2. **Bỏ qua** các phần không cần dịch:
+   - Tiêu đề metadata (headers, navigation)
+   - Số thứ tự bài tập đơn thuần
+   - Tên riêng và địa danh
+   - Mã số bài tập
+
+3. **Định dạng output** theo markdown với cấu trúc GIỐNG HỆT PC VERSION:
+
+# Đọc hiểu: ${fileName}
+
+*Generated: ${timestamp}*
+
+*Detected Section: auto-complete*
+
+## Original Text
+
+[Tất cả nội dung tiếng Anh đã phát hiện cần dịch]
+
+<details>
+<summary>📝 Word-by-Word Analysis</summary>
+
+\`\`\`
+1. word1: (part of speech) meaning1 /ipa1/ [root: base_form if needed]
+2. word2: (part of speech) meaning2 /ipa2/ [root: base_form if needed]
+3. word3: (part of speech) meaning3 /ipa3/
+\`\`\`
+
+</details>
+
+<details>
+<summary>🇻🇳 Vietnamese Translation</summary>
+
+**1.** [Câu dịch 1]
+
+**2.** [Câu dịch 2]
+
+</details>
+
+<details>
+<summary>📖 Sentence-by-Sentence Breakdown</summary>
+
+### Sentence 1
+
+**English:** [Câu tiếng Anh]
+
+**Vietnamese:** [Câu dịch tiếng Việt]
+
+**Word-by-Word Breakdown:**
+1. **từ1:** (part of speech) nghĩa1 /phiên-âm/ [root: base_form if needed]
+2. **từ2:** (part of speech) nghĩa2 /phiên-âm/ [root: base_form if needed]
+
+**Phrase Analysis:**
+1. **cụm từ1:** nghĩa của cụm từ1
+2. **cụm từ2:** nghĩa của cụm từ2
+
+**Progressive Translation:**
+1. **từ1:** dịch từ1
+2. **từ1 từ2:** dịch từ1 từ2
+3. **Full sentence:** câu dịch hoàn chỉnh
+
+**Phân tích ngữ pháp:**
+[Phân tích chi tiết cấu trúc ngữ pháp bằng tiếng Việt]
+
+---
+
+### Sentence 2
+[Tiếp tục cùng format...]
+
+</details>
+
+HƯỚNG DẪN CHI TIẾT:
+
+1. **Phát hiện thông minh**: Tự động nhận biết loại nội dung (đối thoại, đọc hiểu, bài tập...)
+2. **Dịch có ngữ cảnh**: Dịch phù hợp với trình độ học sinh
+3. **Giữ cấu trúc**: Duy trì tổ chức logic của bài học
+4. **Từ vựng IPA**: Phiên âm chuẩn British English
+5. **Ngữ pháp**: Giải thích các điểm ngữ pháp quan trọng
+6. **Định dạng markdown**: Chính xác với details/summary
+
+CHỈ trả về markdown hoàn chỉnh, không thêm text giải thích nào khác.`;
+}
+
+// Helper function to flatten file tree for mobile view
+function flattenFileTree(node, files = [], currentPath = []) {
+  if (node.files) {
+    node.files.forEach(file => {
+      files.push({
+        ...file,
+        grade: currentPath[0] || 'Unknown',
+        folder: currentPath.join(' / '),
+        fullPath: currentPath.length > 0 ? currentPath.join('/') + '/' + file.path : file.path
+      });
+    });
+  }
+  
+  if (node.children) {
+    node.children.forEach(child => {
+      const newPath = currentPath.concat([child.name]);
+      flattenFileTree(child, files, newPath);
+    });
+  }
+  
+  return files;
+}
+
 // Translation helper functions
 async function callGeminiAPI(prompt) {
   try {
@@ -122,15 +268,40 @@ VÍ DỤ FORMAT TỪ VỰNG:
 
 **Vietnamese:** [Câu dịch tiếng Việt]
 
-**Key Words:**
-- **từ1** /phiên-âm/: nghĩa1
-- **từ2** /phiên-âm/: nghĩa2
+**Word-by-Word Breakdown:**
+1. **từ1:** (part of speech) nghĩa1 /phiên-âm/ [root: base_form if needed]
+2. **từ2:** (part of speech) nghĩa2 /phiên-âm/ [root: base_form if needed]
+3. **từ3:** (part of speech) nghĩa3 /phiên-âm/ [root: base_form if needed]
+
+**Phrase Analysis:**
+1. **cụm từ1:** nghĩa của cụm từ1
+2. **cụm từ2:** nghĩa của cụm từ2  
+3. **cụm từ3:** nghĩa của cụm từ3
+
+**Progressive Translation:**
+1. **từ1:** dịch từ1
+2. **từ1 từ2:** dịch từ1 từ2
+3. **từ1 từ2 từ3:** dịch từ1 từ2 từ3
+4. **Full sentence:** câu dịch hoàn chỉnh
+
+**Phân tích ngữ pháp:**
+Phân tích chi tiết cấu trúc ngữ pháp của câu bằng tiếng Việt, bao gồm nhưng không giới hạn:
+- Chủ ngữ, vị ngữ, tân ngữ
+- Mệnh đề quan hệ, mệnh đề phụ
+- Tính từ bổ nghĩa cho danh từ nào
+- Trạng từ bổ nghĩa cho động từ nào  
+- Thì của động từ, cấu trúc đặc biệt
+- Bất kỳ điểm ngữ pháp quan trọng nào khác
 
 ---
 
 ### Sentence 2
 
-[Tiếp tục với các câu khác...]
+**English:** [Next English sentence]
+
+**Vietnamese:** [Next Vietnamese translation]
+
+[Continue same detailed pattern...]
 
 </details>
 
@@ -400,6 +571,157 @@ app.get('/api/translation-files/:filepath(*)', async (req, res) => {
   }
 });
 
+// Auto-translation API endpoint for full lesson content
+app.post('/api/translate-auto', async (req, res) => {
+  try {
+    const { sourceFile, metadata } = req.body;
+    
+    if (!sourceFile) {
+      return res.status(400).json({ error: 'Source file is required' });
+    }
+
+    // Read the entire file content
+    let fileContent = '';
+    try {
+      const fullPath = path.join(MARKDOWN_DIR, sourceFile);
+      const rawContent = await fs.readFile(fullPath, 'utf-8');
+      const { content } = matter(rawContent);
+      fileContent = content;
+    } catch (error) {
+      return res.status(400).json({ error: 'Could not read source file' });
+    }
+
+    if (!fileContent.trim()) {
+      return res.status(400).json({ error: 'Source file is empty' });
+    }
+
+    console.log(`🤖 Auto-translating entire lesson: ${sourceFile}`);
+
+    // Call Gemini API with auto-detection prompt
+    const prompt = createAutoTranslationPrompt(fileContent, sourceFile, metadata);
+    const geminiResponse = await callGeminiAPI(prompt);
+    
+    // Parse response - should be direct markdown
+    const parsedData = {
+      detectedSection: 'auto-complete',
+      sectionTitle: 'Bản dịch tự động',
+      markdownContent: geminiResponse.trim()
+    };
+    
+    // For mobile, don't save to file - just return the translation content
+    const markdownContent = generateTranslationMarkdown('', parsedData, sourceFile);
+    
+    console.log(`✅ Auto-translation completed for mobile: ${sourceFile}`);
+    
+    res.json({ 
+      success: true,
+      translationContent: markdownContent,
+      detectedSection: parsedData.detectedSection,
+      sectionTitle: parsedData.sectionTitle,
+      message: `Auto-translation completed`,
+      isMobileResponse: true,
+      debug: {
+        sourceFile: sourceFile,
+        contentLength: fileContent.length,
+        responseLength: markdownContent.length
+      }
+    });
+
+  } catch (error) {
+    console.error('Auto-translation API error:', error);
+    res.status(500).json({ 
+      error: 'Auto-translation failed',
+      details: error.message 
+    });
+  }
+});
+
+// Single sentence translation API endpoint for mobile
+app.post('/api/translate-sentence', async (req, res) => {
+  try {
+    const { sentence, sourceFile, metadata } = req.body;
+    
+    if (!sentence || !sentence.trim()) {
+      return res.status(400).json({ error: 'Sentence is required' });
+    }
+
+    console.log(`🔤 Translating single sentence: "${sentence.substring(0, 50)}..."`);
+
+    // Create sentence-specific prompt for detailed breakdown
+    const prompt = `Hãy phân tích chi tiết câu tiếng Anh này và dịch sang tiếng Việt với đầy đủ breakdown.
+
+CÂU CẦN PHÂN TÍCH:
+${sentence.trim()}
+
+YÊU CẦU PHÂN TÍCH CHI TIẾT:
+1. Phân tích từng từ với từ loại, nghĩa, và phiên âm IPA
+2. Nhận diện các cụm từ và nghĩa
+3. Dịch dần theo từng bước để hiểu cách ghép nghĩa
+4. Phân tích ngữ pháp chi tiết bằng tiếng Việt
+
+ĐỊNH DẠNG OUTPUT (JSON):
+{
+  "sentence": "${sentence.trim()}",
+  "translation": "Câu dịch hoàn chỉnh",
+  "words": [
+    {"word": "từ1", "pos": "noun", "meaning": "nghĩa1", "ipa": "/phiên-âm/", "root": "base_form nếu khác"},
+    {"word": "từ2", "pos": "verb", "meaning": "nghĩa2", "ipa": "/phiên-âm/"}
+  ],
+  "phrases": [
+    {"phrase": "cụm từ 1", "meaning": "nghĩa cụm từ"},
+    {"phrase": "cụm từ 2", "meaning": "nghĩa cụm từ"}
+  ],
+  "progressive": [
+    {"english": "từ1", "vietnamese": "dịch từ1"},
+    {"english": "từ1 từ2", "vietnamese": "dịch từ1 từ2"},
+    {"english": "full sentence", "vietnamese": "câu dịch hoàn chỉnh"}
+  ],
+  "grammar": "Phân tích chi tiết cấu trúc ngữ pháp của câu bằng tiếng Việt, bao gồm chủ ngữ, vị ngữ, tân ngữ, mệnh đề quan hệ, v.v."
+}
+
+CHỈ trả về JSON object, không thêm text nào khác.`;
+
+    // Call Gemini API
+    const geminiResponse = await callGeminiAPI(prompt);
+    
+    // Parse JSON response
+    let parsedResult;
+    try {
+      const jsonMatch = geminiResponse.match(/\{[\s\S]*\}/);
+      if (jsonMatch) {
+        parsedResult = JSON.parse(jsonMatch[0]);
+      } else {
+        throw new Error('No JSON found in response');
+      }
+    } catch (error) {
+      console.error('Failed to parse sentence translation:', error);
+      return res.status(500).json({ 
+        error: 'Failed to parse translation response',
+        details: error.message 
+      });
+    }
+    
+    console.log(`✅ Sentence translation completed`);
+    
+    res.json({ 
+      success: true,
+      ...parsedResult,
+      isMobileResponse: true,
+      debug: {
+        sourceFile: sourceFile,
+        sentenceLength: sentence.length
+      }
+    });
+
+  } catch (error) {
+    console.error('Sentence translation API error:', error);
+    res.status(500).json({ 
+      error: 'Sentence translation failed',
+      details: error.message 
+    });
+  }
+});
+
 // Translation API endpoint
 app.post('/api/translate', async (req, res) => {
   try {
@@ -521,12 +843,44 @@ app.post('/api/translate', async (req, res) => {
 });
 
 // Routes
-app.get('/', async (req, res) => {
+app.get('/', detectMobile, async (req, res) => {
   try {
+    // Redirect mobile devices to mobile version unless desktop is forced
+    if (req.isMobile && !req.forceDesktop) {
+      return res.redirect('/mobile');
+    }
+    
     const fileTree = await scanDirectory(MARKDOWN_DIR);
-    res.render('index', { fileTree });
+    res.render('index', { 
+      fileTree,
+      isMobile: false,
+      switchUrl: '/mobile'
+    });
   } catch (error) {
     console.error('Error loading file tree:', error);
+    res.status(500).send('Error loading file tree');
+  }
+});
+
+// Mobile route
+app.get('/mobile', detectMobile, async (req, res) => {
+  try {
+    // Redirect desktop devices to desktop version unless mobile is forced
+    if (!req.isMobile && !req.forceMobile) {
+      return res.redirect('/?desktop=1');
+    }
+    
+    const fileTree = await scanDirectory(MARKDOWN_DIR);
+    const flattenedFiles = flattenFileTree(fileTree);
+    
+    res.render('mobile', { 
+      fileTree,
+      flattenedFiles,
+      isMobile: true,
+      switchUrl: '/?desktop=1'
+    });
+  } catch (error) {
+    console.error('Error loading mobile file tree:', error);
     res.status(500).send('Error loading file tree');
   }
 });
@@ -541,7 +895,7 @@ app.get('/api/files', async (req, res) => {
   }
 });
 
-app.get('/view/:filepath(*)', async (req, res) => {
+app.get('/view/:filepath(*)', detectMobile, async (req, res) => {
   try {
     const filepath = req.params.filepath;
     const fullPath = path.join(MARKDOWN_DIR, filepath);
@@ -563,12 +917,20 @@ app.get('/view/:filepath(*)', async (req, res) => {
                   markdownContent.split('\n').find(line => line.match(/^#\s+(.+)$/))?.replace(/^#\s+/, '') ||
                   path.basename(filepath, '.md').replace(/_/g, ' ');
     
-    res.render('viewer', {
+    // Determine if mobile view should be used
+    const useMobile = (req.isMobile && !req.forceDesktop) || req.query.mobile === '1';
+    const templateName = useMobile ? 'mobile-viewer' : 'viewer';
+    
+    res.render(templateName, {
       title,
       filepath,
       rawContent: markdownContent,
       htmlContent,
-      frontmatter: data
+      frontmatter: data,
+      isMobile: useMobile,
+      switchUrl: useMobile ? 
+        `/view/${filepath}?desktop=1` : 
+        `/view/${filepath}?mobile=1`
     });
   } catch (error) {
     console.error('Error loading file:', error);

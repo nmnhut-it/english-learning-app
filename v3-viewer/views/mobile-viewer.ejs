@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <title><%= title %> - Mobile</title>
+    <link rel="stylesheet" href="/styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <meta name="theme-color" content="#2563eb">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+</head>
+<body class="mobile-body mobile-viewer-body">
+    <!-- Mobile Header -->
+    <header class="mobile-viewer-header">
+        <div class="mobile-viewer-nav">
+            <button id="mobile-back-btn" class="mobile-nav-btn" onclick="history.back()">←</button>
+            <div class="mobile-viewer-title">
+                <h1><%= title %></h1>
+                <p class="mobile-viewer-path"><%= filepath %></p>
+            </div>
+            <div class="mobile-viewer-actions">
+                <button id="mobile-view-toggle" class="mobile-nav-btn" title="Toggle View">🔄</button>
+                <a href="<%= switchUrl %>" class="mobile-nav-btn">🖥️</a>
+            </div>
+        </div>
+        
+        <!-- Mobile Translation Controls -->
+        <div class="mobile-translation-bar">
+            <div class="mobile-translation-status" id="mobile-translation-status">
+                Ready to translate entire lesson
+            </div>
+            <button id="mobile-translate-lesson-btn" class="mobile-translate-btn">
+                🔤 Translate Lesson
+            </button>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="mobile-viewer-main">
+        <div class="mobile-content-wrapper">
+            <!-- Rendered View -->
+            <article id="mobile-rendered-content" class="mobile-markdown-content">
+                <%- htmlContent %>
+            </article>
+            
+            <!-- Raw View -->
+            <article id="mobile-raw-content" class="mobile-raw-content" style="display: none;">
+                <pre><code><%= rawContent %></code></pre>
+            </article>
+        </div>
+    </main>
+
+
+    <!-- Translation FAB -->
+    <div class="mobile-translation-fab">
+        <button id="mobile-translation-fab-btn" class="mobile-fab-btn" style="display: none;">
+            🔤
+        </button>
+    </div>
+
+    <!-- Translation Progress Modal -->
+    <div id="mobile-translation-modal" class="mobile-modal" style="display: none;">
+        <div class="mobile-modal-content">
+            <div class="mobile-modal-header">
+                <h3>Translating Lesson</h3>
+            </div>
+            <div class="mobile-modal-body">
+                <div class="mobile-progress">
+                    <div class="mobile-progress-spinner"></div>
+                    <p>AI is analyzing and translating the lesson content...</p>
+                    <p class="mobile-progress-detail">This may take 1-2 minutes</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Translation Result Modal -->
+    <div id="mobile-result-modal" class="mobile-modal" style="display: none;">
+        <div class="mobile-modal-content">
+            <div class="mobile-modal-header">
+                <h3>Translation Complete!</h3>
+                <button id="mobile-result-close" class="mobile-modal-close">✕</button>
+            </div>
+            <div class="mobile-modal-body">
+                <div class="mobile-result-actions">
+                    <button id="mobile-view-translation" class="mobile-action-btn primary">
+                        📄 View Translation
+                    </button>
+                    <button id="mobile-open-translation-tab" class="mobile-action-btn">
+                        🔗 Open in New Tab
+                    </button>
+                    <button id="mobile-share-translation" class="mobile-action-btn">
+                        📋 Share
+                    </button>
+                </div>
+                <div class="mobile-translation-info" id="mobile-translation-info">
+                    <!-- Translation details will be populated here -->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Mobile Navigation Panel -->
+    <div id="mobile-nav-panel" class="mobile-nav-panel" style="display: none;">
+        <div class="mobile-nav-content">
+            <div class="mobile-nav-header">
+                <h3>📄 Current File</h3>
+                <button id="mobile-nav-close" class="mobile-nav-close">✕</button>
+            </div>
+            
+            <!-- Translation Files -->
+            <div class="mobile-nav-section">
+                <h4>🔤 Translations</h4>
+                <div id="mobile-translation-files" class="mobile-translation-files">
+                    Loading...
+                </div>
+            </div>
+            
+            <!-- Quick Actions -->
+            <div class="mobile-nav-section">
+                <h4>⚡ Quick Actions</h4>
+                <div class="mobile-quick-actions">
+                    <button onclick="history.back()" class="mobile-action-btn">← Back to List</button>
+                    <button id="mobile-toggle-raw" class="mobile-action-btn">📝 Raw View</button>
+                    <button id="mobile-copy-link" class="mobile-action-btn">🔗 Copy Link</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Scripts -->
+    <script>
+    // Mobile viewer data
+    window.isMobile = true;
+    window.currentFile = {
+        filepath: '<%= filepath %>',
+        title: '<%= title %>',
+        rawContent: `<%= rawContent.replace(/`/g, '\\`').replace(/\$/g, '\\$') %>`,
+        frontmatter: <%- JSON.stringify(frontmatter) %>
+    };
+    
+    console.log('Mobile viewer loaded, currentFile:', window.currentFile);
+    
+    // Mobile-specific initialization
+    document.addEventListener('DOMContentLoaded', function() {
+        console.log('Mobile DOM ready');
+        
+        // Initialize mobile translation manager
+        if (window.translationManager) {
+            window.translationManager.loadTranslationFiles();
+        }
+        
+        // Track file access
+        if (typeof trackFileAccess === 'function') {
+            trackFileAccess('<%= filepath %>', '<%= title %>');
+        }
+        
+        // Test API connectivity
+        console.log('Testing mobile API...');
+    });
+    </script>
+    <script src="/app.js"></script>
+    <script src="/mobile-viewer-simple.js"></script>
+</body>
+</html>
