@@ -157,6 +157,12 @@ class SimpleMobileTranslationManager {
             const result = await response.json();
 
             if (result.success) {
+                // Show if result came from cache or fresh API call
+                if (result.fromCache) {
+                    this.showToast(`⚡ Instant result from cache (used ${result.debug.usageCount} times)`, 'info', 2000);
+                } else {
+                    this.showToast('🤖 Fresh translation from AI', 'info', 2000);
+                }
                 this.displaySentenceBreakdown(result);
             } else {
                 this.showTranslationError(result.error || 'Translation failed');

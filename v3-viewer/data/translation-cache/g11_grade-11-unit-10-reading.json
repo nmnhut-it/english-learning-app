@@ -1,0 +1,436 @@
+{
+  "sentences": {
+    "c77dc845e34a9aa792905cca11d78641": {
+      "sentence": "U Minh Thuong National Park is located in An Bien, An Minh, and Vinh Thuan districts of Kien Giang Province, about 60 km south of Rach Gia city centre.",
+      "translation": "Vườn Quốc gia U Minh Thượng nằm ở các huyện An Biên, An Minh và Vĩnh Thuận của tỉnh Kiên Giang, cách trung tâm thành phố Rạch Giá khoảng 60 km về phía nam.",
+      "words": [
+        {
+          "word": "U Minh Thuong",
+          "pos": "proper noun",
+          "meaning": "U Minh Thượng (tên riêng)",
+          "ipa": "/ˌuː mɪn θuːˈɒŋ/",
+          "root": null
+        },
+        {
+          "word": "National",
+          "pos": "adjective",
+          "meaning": "quốc gia",
+          "ipa": "/ˈnæʃənəl/",
+          "root": "nation"
+        },
+        {
+          "word": "Park",
+          "pos": "noun",
+          "meaning": "vườn, công viên",
+          "ipa": "/pɑːrk/",
+          "root": null
+        },
+        {
+          "word": "is",
+          "pos": "verb",
+          "meaning": "thì, là",
+          "ipa": "/ɪz/",
+          "root": "be"
+        },
+        {
+          "word": "located",
+          "pos": "verb",
+          "meaning": "nằm, tọa lạc",
+          "ipa": "/ləʊˈkeɪtɪd/",
+          "root": "locate"
+        },
+        {
+          "word": "in",
+          "pos": "preposition",
+          "meaning": "ở, tại",
+          "ipa": "/ɪn/",
+          "root": null
+        },
+        {
+          "word": "An Bien",
+          "pos": "proper noun",
+          "meaning": "An Biên (tên riêng)",
+          "ipa": "/æn biːˈɛn/",
+          "root": null
+        },
+        {
+          "word": ",",
+          "pos": "punctuation",
+          "meaning": ",",
+          "ipa": "/",
+          "root": null
+        },
+        {
+          "word": "An Minh",
+          "pos": "proper noun",
+          "meaning": "An Minh (tên riêng)",
+          "ipa": "/æn mɪn/",
+          "root": null
+        },
+        {
+          "word": "and",
+          "pos": "conjunction",
+          "meaning": "và",
+          "ipa": "/ænd/",
+          "root": null
+        },
+        {
+          "word": "Vinh Thuan",
+          "pos": "proper noun",
+          "meaning": "Vĩnh Thuận (tên riêng)",
+          "ipa": "/vɪn tʊˈɒn/",
+          "root": null
+        },
+        {
+          "word": "districts",
+          "pos": "noun",
+          "meaning": "các huyện",
+          "ipa": "/ˈdɪstrɪkts/",
+          "root": "district"
+        },
+        {
+          "word": "of",
+          "pos": "preposition",
+          "meaning": "của",
+          "ipa": "/əv/",
+          "root": null
+        },
+        {
+          "word": "Kien Giang",
+          "pos": "proper noun",
+          "meaning": "Kiên Giang (tên riêng)",
+          "ipa": "/kiːɛn dʒiːˈæŋ/",
+          "root": null
+        },
+        {
+          "word": "Province",
+          "pos": "noun",
+          "meaning": "tỉnh",
+          "ipa": "/ˈprɒvɪns/",
+          "root": null
+        },
+        {
+          "word": ",",
+          "pos": "punctuation",
+          "meaning": ",",
+          "ipa": "/",
+          "root": null
+        },
+        {
+          "word": "about",
+          "pos": "adverb",
+          "meaning": "khoảng",
+          "ipa": "/əˈbaʊt/",
+          "root": null
+        },
+        {
+          "word": "60",
+          "pos": "number",
+          "meaning": "60",
+          "ipa": "/ˈsɪksti/",
+          "root": null
+        },
+        {
+          "word": "km",
+          "pos": "abbreviation",
+          "meaning": "kilometers (km)",
+          "ipa": "/ˌkiːˈlɒmɪtərz/",
+          "root": null
+        },
+        {
+          "word": "south",
+          "pos": "adjective",
+          "meaning": "phía nam",
+          "ipa": "/saʊθ/",
+          "root": null
+        },
+        {
+          "word": "of",
+          "pos": "preposition",
+          "meaning": "của",
+          "ipa": "/əv/",
+          "root": null
+        },
+        {
+          "word": "Rach Gia",
+          "pos": "proper noun",
+          "meaning": "Rạch Giá (tên riêng)",
+          "ipa": "/rɑːk ʒɑː/",
+          "root": null
+        },
+        {
+          "word": "city",
+          "pos": "noun",
+          "meaning": "thành phố",
+          "ipa": "/ˈsɪti/",
+          "root": null
+        },
+        {
+          "word": "centre",
+          "pos": "noun",
+          "meaning": "trung tâm",
+          "ipa": "/ˈsentər/",
+          "root": null
+        }
+      ],
+      "phrases": [
+        {
+          "phrase": "U Minh Thuong National Park",
+          "meaning": "Vườn Quốc gia U Minh Thượng"
+        },
+        {
+          "phrase": "in An Bien, An Minh, and Vinh Thuan districts",
+          "meaning": "ở các huyện An Biên, An Minh và Vĩnh Thuận"
+        },
+        {
+          "phrase": "of Kien Giang Province",
+          "meaning": "của tỉnh Kiên Giang"
+        },
+        {
+          "phrase": "about 60 km south",
+          "meaning": "khoảng 60 km về phía nam"
+        },
+        {
+          "phrase": "of Rach Gia city centre",
+          "meaning": "của trung tâm thành phố Rạch Giá"
+        }
+      ],
+      "progressive": [
+        {
+          "english": "U Minh Thuong National Park",
+          "vietnamese": "Vườn Quốc gia U Minh Thượng"
+        },
+        {
+          "english": "U Minh Thuong National Park is",
+          "vietnamese": "Vườn Quốc gia U Minh Thượng thì/là"
+        },
+        {
+          "english": "U Minh Thuong National Park is located",
+          "vietnamese": "Vườn Quốc gia U Minh Thượng nằm"
+        },
+        {
+          "english": "U Minh Thuong National Park is located in An Bien, An Minh, and Vinh Thuan districts",
+          "vietnamese": "Vườn Quốc gia U Minh Thượng nằm ở các huyện An Biên, An Minh và Vĩnh Thuận"
+        },
+        {
+          "english": "U Minh Thuong National Park is located in An Bien, An Minh, and Vinh Thuan districts of Kien Giang Province",
+          "vietnamese": "Vườn Quốc gia U Minh Thượng nằm ở các huyện An Biên, An Minh và Vĩnh Thuận của tỉnh Kiên Giang"
+        },
+        {
+          "english": "U Minh Thuong National Park is located in An Bien, An Minh, and Vinh Thuan districts of Kien Giang Province, about 60 km south",
+          "vietnamese": "Vườn Quốc gia U Minh Thượng nằm ở các huyện An Biên, An Minh và Vĩnh Thuận của tỉnh Kiên Giang, khoảng 60 km về phía nam"
+        },
+        {
+          "english": "U Minh Thuong National Park is located in An Bien, An Minh, and Vinh Thuan districts of Kien Giang Province, about 60 km south of Rach Gia city centre.",
+          "vietnamese": "Vườn Quốc gia U Minh Thượng nằm ở các huyện An Biên, An Minh và Vĩnh Thuận của tỉnh Kiên Giang, cách trung tâm thành phố Rạch Giá khoảng 60 km về phía nam."
+        }
+      ],
+      "grammar": "Câu này có cấu trúc chủ ngữ - vị ngữ - trạng ngữ. \n*   **Chủ ngữ:** U Minh Thuong National Park (Vườn Quốc gia U Minh Thượng)\n*   **Vị ngữ:** is located (thì nằm/tọa lạc)\n*   **Trạng ngữ:** in An Bien, An Minh, and Vinh Thuan districts of Kien Giang Province, about 60 km south of Rach Gia city centre. (ở các huyện An Biên, An Minh và Vĩnh Thuận của tỉnh Kiên Giang, cách trung tâm thành phố Rạch Giá khoảng 60 km về phía nam.)\n\nTrạng ngữ này bao gồm nhiều cụm giới từ chỉ địa điểm và khoảng cách. Cụm 'of Kien Giang Province' bổ nghĩa cho 'districts'. Cụm 'about 60 km south of Rach Gia city centre' là một cụm trạng ngữ chỉ khoảng cách và hướng.",
+      "metadata": {
+        "sourceFile": "g11/grade-11-unit-10-reading.md",
+        "timestamp": "2025-08-31T00:50:41.373Z",
+        "usageCount": 2,
+        "lastUsed": "2025-08-31T00:51:51.125Z"
+      }
+    },
+    "01030c93e16381fd1c4d64e7e47b68e9": {
+      "sentence": "This place is considered one of the most important sites for ecosystem conservation in the Mekong River Delta.",
+      "translation": "Nơi này được xem là một trong những địa điểm quan trọng nhất để bảo tồn hệ sinh thái ở Đồng bằng sông Cửu Long.",
+      "words": [
+        {
+          "word": "This",
+          "pos": "determiner",
+          "meaning": "này, đây",
+          "ipa": "/ðɪs/"
+        },
+        {
+          "word": "place",
+          "pos": "noun",
+          "meaning": "nơi, địa điểm",
+          "ipa": "/pleɪs/"
+        },
+        {
+          "word": "is",
+          "pos": "verb",
+          "meaning": "thì, là, ở (động từ to be)",
+          "ipa": "/ɪz/"
+        },
+        {
+          "word": "considered",
+          "pos": "verb",
+          "meaning": "được xem là, được coi là",
+          "ipa": "/kənˈsɪdərd/",
+          "root": "consider"
+        },
+        {
+          "word": "one",
+          "pos": "determiner/pronoun",
+          "meaning": "một",
+          "ipa": "/wʌn/"
+        },
+        {
+          "word": "of",
+          "pos": "preposition",
+          "meaning": "của, trong số",
+          "ipa": "/əv/"
+        },
+        {
+          "word": "the",
+          "pos": "determiner",
+          "meaning": "the (xác định)",
+          "ipa": "/ðə/"
+        },
+        {
+          "word": "most",
+          "pos": "adverb",
+          "meaning": "nhất",
+          "ipa": "/moʊst/"
+        },
+        {
+          "word": "important",
+          "pos": "adjective",
+          "meaning": "quan trọng",
+          "ipa": "/ɪmˈpɔːrtənt/"
+        },
+        {
+          "word": "sites",
+          "pos": "noun",
+          "meaning": "địa điểm, khu vực",
+          "ipa": "/saɪts/",
+          "root": "site"
+        },
+        {
+          "word": "for",
+          "pos": "preposition",
+          "meaning": "cho, để",
+          "ipa": "/fɔːr/"
+        },
+        {
+          "word": "ecosystem",
+          "pos": "noun",
+          "meaning": "hệ sinh thái",
+          "ipa": "/ˈiːkoʊˌsɪstəm/"
+        },
+        {
+          "word": "conservation",
+          "pos": "noun",
+          "meaning": "sự bảo tồn",
+          "ipa": "/ˌkɑːnsərˈveɪʃən/"
+        },
+        {
+          "word": "in",
+          "pos": "preposition",
+          "meaning": "ở, trong",
+          "ipa": "/ɪn/"
+        },
+        {
+          "word": "the",
+          "pos": "determiner",
+          "meaning": "the (xác định)",
+          "ipa": "/ðə/"
+        },
+        {
+          "word": "Mekong",
+          "pos": "proper noun",
+          "meaning": "Mê Kông",
+          "ipa": "/məˈkɔːŋ/"
+        },
+        {
+          "word": "River",
+          "pos": "proper noun",
+          "meaning": "sông",
+          "ipa": "/ˈrɪvər/"
+        },
+        {
+          "word": "Delta",
+          "pos": "proper noun",
+          "meaning": "Đồng bằng",
+          "ipa": "/ˈdeltə/"
+        }
+      ],
+      "phrases": [
+        {
+          "phrase": "This place",
+          "meaning": "Nơi này"
+        },
+        {
+          "phrase": "is considered",
+          "meaning": "được xem là"
+        },
+        {
+          "phrase": "one of the most important sites",
+          "meaning": "một trong những địa điểm quan trọng nhất"
+        },
+        {
+          "phrase": "for ecosystem conservation",
+          "meaning": "để bảo tồn hệ sinh thái"
+        },
+        {
+          "phrase": "in the Mekong River Delta",
+          "meaning": "ở Đồng bằng sông Cửu Long"
+        }
+      ],
+      "progressive": [
+        {
+          "english": "This",
+          "vietnamese": "Này"
+        },
+        {
+          "english": "This place",
+          "vietnamese": "Nơi này"
+        },
+        {
+          "english": "This place is",
+          "vietnamese": "Nơi này là"
+        },
+        {
+          "english": "This place is considered",
+          "vietnamese": "Nơi này được xem là"
+        },
+        {
+          "english": "This place is considered one",
+          "vietnamese": "Nơi này được xem là một"
+        },
+        {
+          "english": "This place is considered one of",
+          "vietnamese": "Nơi này được xem là một trong"
+        },
+        {
+          "english": "This place is considered one of the most important sites",
+          "vietnamese": "Nơi này được xem là một trong những địa điểm quan trọng nhất"
+        },
+        {
+          "english": "This place is considered one of the most important sites for",
+          "vietnamese": "Nơi này được xem là một trong những địa điểm quan trọng nhất để"
+        },
+        {
+          "english": "This place is considered one of the most important sites for ecosystem",
+          "vietnamese": "Nơi này được xem là một trong những địa điểm quan trọng nhất để hệ sinh thái"
+        },
+        {
+          "english": "This place is considered one of the most important sites for ecosystem conservation",
+          "vietnamese": "Nơi này được xem là một trong những địa điểm quan trọng nhất để bảo tồn hệ sinh thái"
+        },
+        {
+          "english": "This place is considered one of the most important sites for ecosystem conservation in",
+          "vietnamese": "Nơi này được xem là một trong những địa điểm quan trọng nhất để bảo tồn hệ sinh thái ở"
+        },
+        {
+          "english": "This place is considered one of the most important sites for ecosystem conservation in the Mekong River Delta",
+          "vietnamese": "Nơi này được xem là một trong những địa điểm quan trọng nhất để bảo tồn hệ sinh thái ở Đồng bằng sông Cửu Long."
+        }
+      ],
+      "grammar": "Câu này có cấu trúc chủ ngữ - vị ngữ - tân ngữ. \n*   **Chủ ngữ:** This place (Nơi này)\n*   **Vị ngữ:** is considered (được xem là)\n*   **Tân ngữ:** one of the most important sites for ecosystem conservation in the Mekong River Delta (một trong những địa điểm quan trọng nhất để bảo tồn hệ sinh thái ở Đồng bằng sông Cửu Long).\n\nTrong tân ngữ, có các cụm giới từ bổ nghĩa: \n*   of the most important sites (bổ nghĩa cho one)\n*   for ecosystem conservation (bổ nghĩa cho sites)\n*   in the Mekong River Delta (bổ nghĩa cho conservation)",
+      "metadata": {
+        "sourceFile": "g11/grade-11-unit-10-reading.md",
+        "timestamp": "2025-08-31T00:51:04.503Z",
+        "usageCount": 1,
+        "lastUsed": "2025-08-31T00:51:04.503Z"
+      }
+    }
+  },
+  "metadata": {
+    "createdAt": "2025-08-31T00:50:41.373Z",
+    "updatedAt": "2025-08-31T00:51:51.126Z"
+  }
+}

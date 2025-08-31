@@ -3,6 +3,7 @@ const fs = require('fs').promises;
 const path = require('path');
 const { marked } = require('marked');
 const matter = require('gray-matter');
+const crypto = require('crypto');
 
 const app = express();
 const PORT = process.env.PORT || 3005;
@@ -19,6 +20,124 @@ app.use(express.json());
 
 // Markdown files directory
 const MARKDOWN_DIR = path.join(__dirname, '../markdown-files');
+
+// Translation cache directory 
+const CACHE_DIR = path.join(__dirname, 'data', 'translation-cache');
+
+// File-Based Translation Cache Management
+async function ensureCacheDirectory() {
+  try {
+    await fs.mkdir(CACHE_DIR, { recursive: true });
+  } catch (error) {
+    console.error('Failed to create cache directory:', error);
+  }
+}
+
+function getFileCachePath(sourceFile) {
+  // Convert file path to cache filename: g11/unit-10.md → g11_unit-10.json
+  const cacheFilename = sourceFile.replace(/[\/\\]/g, '_').replace('.md', '.json');
+  return path.join(CACHE_DIR, cacheFilename);
+}
+
+async function loadFileCache(sourceFile) {
+  try {
+    await ensureCacheDirectory();
+    const cacheFilePath = getFileCachePath(sourceFile);
+    const cacheData = await fs.readFile(cacheFilePath, 'utf-8');
+    return JSON.parse(cacheData);
+  } catch (error) {
+    // Cache file doesn't exist, return empty cache for this file
+    return { sentences: {}, metadata: { createdAt: new Date().toISOString() } };
+  }
+}
+
+async function saveFileCache(sourceFile, cache) {
+  try {
+    await ensureCacheDirectory();
+    const cacheFilePath = getFileCachePath(sourceFile);
+    cache.metadata.updatedAt = new Date().toISOString();
+    await fs.writeFile(cacheFilePath, JSON.stringify(cache, null, 2), 'utf-8');
+  } catch (error) {
+    console.error('Failed to save file cache:', error);
+  }
+}
+
+function hashSentence(sentence) {
+  // Create consistent hash for sentence (normalized)
+  const normalized = sentence.trim().toLowerCase().replace(/\s+/g, ' ');
+  return crypto.createHash('md5').update(normalized).digest('hex');
+}
+
+async function getCachedTranslation(sentence, sourceFile) {
+  const fileCache = await loadFileCache(sourceFile);
+  const hash = hashSentence(sentence);
+  
+  if (fileCache.sentences[hash]) {
+    // Update usage count
+    fileCache.sentences[hash].metadata.usageCount = (fileCache.sentences[hash].metadata.usageCount || 0) + 1;
+    fileCache.sentences[hash].metadata.lastUsed = new Date().toISOString();
+    await saveFileCache(sourceFile, fileCache);
+    
+    console.log(`📋 Cache hit in ${sourceFile}: "${sentence.substring(0, 30)}..." (used ${fileCache.sentences[hash].metadata.usageCount} times)`);
+    return fileCache.sentences[hash];
+  }
+  
+  return null;
+}
+
+async function cacheTranslation(sentence, translationData, sourceFile) {
+  const fileCache = await loadFileCache(sourceFile);
+  const hash = hashSentence(sentence);
+  
+  fileCache.sentences[hash] = {
+    ...translationData,
+    metadata: {
+      sourceFile: sourceFile,
+      timestamp: new Date().toISOString(),
+      usageCount: 1,
+      lastUsed: new Date().toISOString()
+    }
+  };
+  
+  await saveFileCache(sourceFile, fileCache);
+  console.log(`💾 Cached translation in ${sourceFile}: "${sentence.substring(0, 30)}..."`);
+}
+
+async function getCacheStats() {
+  try {
+    await ensureCacheDirectory();
+    const cacheFiles = await fs.readdir(CACHE_DIR);
+    
+    let totalSentences = 0;
+    let totalUsage = 0;
+    let totalFiles = 0;
+    
+    for (const cacheFileName of cacheFiles) {
+      if (cacheFileName.endsWith('.json')) {
+        try {
+          const cacheFilePath = path.join(CACHE_DIR, cacheFileName);
+          const fileCache = JSON.parse(await fs.readFile(cacheFilePath, 'utf-8'));
+          
+          const sentences = Object.values(fileCache.sentences || {});
+          totalSentences += sentences.length;
+          totalUsage += sentences.reduce((sum, entry) => sum + (entry.metadata.usageCount || 0), 0);
+          totalFiles++;
+        } catch (error) {
+          console.error(`Error reading cache file ${cacheFileName}:`, error);
+        }
+      }
+    }
+    
+    return {
+      totalFiles: totalFiles,
+      totalSentences: totalSentences,
+      totalUsage: totalUsage,
+      averageSentencesPerFile: totalFiles > 0 ? Math.round(totalSentences / totalFiles) : 0
+    };
+  } catch (error) {
+    return { totalFiles: 0, totalSentences: 0, totalUsage: 0, averageSentencesPerFile: 0 };
+  }
+}
 
 // Mobile device detection helper
 function isMobileDevice(userAgent) {
@@ -636,7 +755,7 @@ app.post('/api/translate-auto', async (req, res) => {
   }
 });
 
-// Single sentence translation API endpoint for mobile
+// Single sentence translation API endpoint for mobile with caching
 app.post('/api/translate-sentence', async (req, res) => {
   try {
     const { sentence, sourceFile, metadata } = req.body;
@@ -645,13 +764,35 @@ app.post('/api/translate-sentence', async (req, res) => {
       return res.status(400).json({ error: 'Sentence is required' });
     }
 
-    console.log(`🔤 Translating single sentence: "${sentence.substring(0, 50)}..."`);
+    const trimmedSentence = sentence.trim();
+    console.log(`🔤 Processing sentence: "${trimmedSentence.substring(0, 50)}..."`);
 
-    // Create sentence-specific prompt for detailed breakdown
+    // Check file-specific cache first
+    const cachedResult = await getCachedTranslation(trimmedSentence, sourceFile);
+    if (cachedResult) {
+      console.log(`⚡ Returning cached translation from ${sourceFile} (used ${cachedResult.metadata.usageCount} times)`);
+      return res.json({ 
+        success: true,
+        ...cachedResult,
+        isMobileResponse: true,
+        fromCache: true,
+        debug: {
+          sourceFile: sourceFile,
+          sentenceLength: trimmedSentence.length,
+          cacheHit: true,
+          usageCount: cachedResult.metadata.usageCount,
+          cacheFile: getFileCachePath(sourceFile)
+        }
+      });
+    }
+
+    // Cache miss - call Gemini API
+    console.log(`🤖 Cache miss - calling Gemini API`);
+
     const prompt = `Hãy phân tích chi tiết câu tiếng Anh này và dịch sang tiếng Việt với đầy đủ breakdown.
 
 CÂU CẦN PHÂN TÍCH:
-${sentence.trim()}
+${trimmedSentence}
 
 YÊU CẦU PHÂN TÍCH CHI TIẾT:
 1. Phân tích từng từ với từ loại, nghĩa, và phiên âm IPA
@@ -661,7 +802,7 @@ YÊU CẦU PHÂN TÍCH CHI TIẾT:
 
 ĐỊNH DẠNG OUTPUT (JSON):
 {
-  "sentence": "${sentence.trim()}",
+  "sentence": "${trimmedSentence}",
   "translation": "Câu dịch hoàn chỉnh",
   "words": [
     {"word": "từ1", "pos": "noun", "meaning": "nghĩa1", "ipa": "/phiên-âm/", "root": "base_form nếu khác"},
@@ -701,15 +842,20 @@ CHỈ trả về JSON object, không thêm text nào khác.`;
       });
     }
     
-    console.log(`✅ Sentence translation completed`);
+    // Cache the result for future use
+    await cacheTranslation(trimmedSentence, parsedResult, sourceFile);
+    
+    console.log(`✅ Fresh translation completed and cached`);
     
     res.json({ 
       success: true,
       ...parsedResult,
       isMobileResponse: true,
+      fromCache: false,
       debug: {
         sourceFile: sourceFile,
-        sentenceLength: sentence.length
+        sentenceLength: trimmedSentence.length,
+        cacheHit: false
       }
     });
 
@@ -839,6 +985,101 @@ app.post('/api/translate', async (req, res) => {
       error: 'Translation failed',
       details: error.message 
     });
+  }
+});
+
+// Cache management endpoints
+app.get('/api/cache/stats', async (req, res) => {
+  try {
+    const stats = await getCacheStats();
+    res.json(stats);
+  } catch (error) {
+    console.error('Cache stats error:', error);
+    res.status(500).json({ error: 'Failed to get cache stats' });
+  }
+});
+
+app.delete('/api/cache/clear', async (req, res) => {
+  try {
+    await ensureCacheDirectory();
+    const cacheFiles = await fs.readdir(CACHE_DIR);
+    
+    // Clear all cache files
+    for (const cacheFile of cacheFiles) {
+      if (cacheFile.endsWith('.json')) {
+        await fs.unlink(path.join(CACHE_DIR, cacheFile));
+      }
+    }
+    
+    console.log('🗑️ All file-based translation caches cleared');
+    res.json({ success: true, message: 'All caches cleared successfully' });
+  } catch (error) {
+    console.error('Cache clear error:', error);
+    res.status(500).json({ error: 'Failed to clear cache' });
+  }
+});
+
+app.get('/api/cache/file/:filepath(*)', async (req, res) => {
+  try {
+    const sourceFile = req.params.filepath;
+    const fileCache = await loadFileCache(sourceFile);
+    
+    const sentences = Object.values(fileCache.sentences || {});
+    const stats = {
+      sourceFile: sourceFile,
+      totalSentences: sentences.length,
+      totalUsage: sentences.reduce((sum, entry) => sum + (entry.metadata.usageCount || 0), 0),
+      createdAt: fileCache.metadata.createdAt,
+      updatedAt: fileCache.metadata.updatedAt,
+      cacheFile: getFileCachePath(sourceFile)
+    };
+    
+    res.json({ stats, sentences: sentences.slice(0, 10) }); // Return first 10 for preview
+  } catch (error) {
+    console.error('File cache error:', error);
+    res.status(500).json({ error: 'Failed to get file cache' });
+  }
+});
+
+app.get('/api/cache/popular', async (req, res) => {
+  try {
+    await ensureCacheDirectory();
+    const cacheFiles = await fs.readdir(CACHE_DIR);
+    
+    const allSentences = [];
+    
+    for (const cacheFileName of cacheFiles) {
+      if (cacheFileName.endsWith('.json')) {
+        try {
+          const cacheFilePath = path.join(CACHE_DIR, cacheFileName);
+          const fileCache = JSON.parse(await fs.readFile(cacheFilePath, 'utf-8'));
+          const sourceFile = cacheFileName.replace(/\.json$/, '').replace(/_/g, '/') + '.md';
+          
+          const sentences = Object.values(fileCache.sentences || {});
+          sentences.forEach(entry => {
+            allSentences.push({
+              sentence: entry.sentence,
+              translation: entry.translation,
+              usageCount: entry.metadata.usageCount || 0,
+              sourceFile: sourceFile,
+              lastUsed: entry.metadata.lastUsed
+            });
+          });
+        } catch (error) {
+          console.error(`Error reading cache file ${cacheFileName}:`, error);
+        }
+      }
+    }
+    
+    // Get most popular translations across all files
+    const popular = allSentences
+      .sort((a, b) => b.usageCount - a.usageCount)
+      .slice(0, 20);
+    
+    res.json({ popular });
+  } catch (error) {
+    console.error('Popular cache error:', error);
+    res.status(500).json({ error: 'Failed to get popular translations' });
   }
 });
 
