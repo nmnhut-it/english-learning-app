@@ -1,0 +1,215 @@
+{
+  "sentences": {
+    "be98654757896fd58db386553307da13": {
+      "sentence": "Stop burning waste",
+      "translation": "Ngừng đốt rác",
+      "words": [
+        {
+          "word": "Stop",
+          "pos": "verb",
+          "meaning": "Dừng lại, ngưng",
+          "ipa": "/stɒp/",
+          "root": "stop"
+        },
+        {
+          "word": "burning",
+          "pos": "verb (gerund)",
+          "meaning": "Đốt, đang đốt",
+          "ipa": "/ˈbɜːrnɪŋ/",
+          "root": "burn"
+        },
+        {
+          "word": "waste",
+          "pos": "noun",
+          "meaning": "Rác thải, chất thải",
+          "ipa": "/weɪst/",
+          "root": "waste"
+        }
+      ],
+      "phrases": [
+        {
+          "phrase": "burning waste",
+          "meaning": "đốt rác"
+        },
+        {
+          "phrase": "Stop burning waste",
+          "meaning": "Ngừng đốt rác"
+        }
+      ],
+      "progressive": [
+        {
+          "english": "Stop",
+          "vietnamese": "Dừng lại"
+        },
+        {
+          "english": "Stop burning",
+          "vietnamese": "Dừng đốt"
+        },
+        {
+          "english": "Stop burning waste",
+          "vietnamese": "Ngừng đốt rác"
+        }
+      ],
+      "grammar": "Câu này là một câu mệnh lệnh. \n\n*   **Stop:** Động từ chính, ở dạng nguyên thể (imperative) vì là mệnh lệnh. Chủ ngữ (you) bị lược bỏ (ngầm hiểu là 'bạn').\n*   **burning:** Động từ ở dạng V-ing (gerund) đóng vai trò như một danh từ, chỉ hành động 'đốt'.\n*   **waste:** Danh từ, tân ngữ của động từ 'burning', chỉ đối tượng bị đốt.",
+      "metadata": {
+        "sourceFile": "g11/grade-11-unit-5-writing.md",
+        "timestamp": "2025-08-31T04:17:19.466Z",
+        "usageCount": 1,
+        "lastUsed": "2025-08-31T04:17:19.466Z"
+      }
+    },
+    "ac5327c0115b54577d7a5366d2841a70": {
+      "sentence": "Stop using solid fuels at home",
+      "translation": "Hãy ngừng sử dụng nhiên liệu rắn tại nhà.",
+      "words": [
+        {
+          "word": "Stop",
+          "pos": "verb",
+          "meaning": "Dừng lại, ngừng",
+          "ipa": "/stɒp/",
+          "root": "stop"
+        },
+        {
+          "word": "using",
+          "pos": "verb",
+          "meaning": "Sử dụng",
+          "ipa": "/ˈjuːzɪŋ/",
+          "root": "use"
+        },
+        {
+          "word": "solid",
+          "pos": "adjective",
+          "meaning": "Rắn",
+          "ipa": "/ˈsɒlɪd/",
+          "root": "solid"
+        },
+        {
+          "word": "fuels",
+          "pos": "noun",
+          "meaning": "Nhiên liệu",
+          "ipa": "/ˈfjuːəlz/",
+          "root": "fuel"
+        },
+        {
+          "word": "at",
+          "pos": "preposition",
+          "meaning": "Tại, ở",
+          "ipa": "/æt/",
+          "root": "at"
+        },
+        {
+          "word": "home",
+          "pos": "noun",
+          "meaning": "Nhà",
+          "ipa": "/həʊm/",
+          "root": "home"
+        }
+      ],
+      "phrases": [
+        {
+          "phrase": "using solid fuels",
+          "meaning": "sử dụng nhiên liệu rắn"
+        },
+        {
+          "phrase": "at home",
+          "meaning": "tại nhà"
+        }
+      ],
+      "progressive": [
+        {
+          "english": "Stop",
+          "vietnamese": "Hãy dừng"
+        },
+        {
+          "english": "Stop using",
+          "vietnamese": "Hãy ngừng sử dụng"
+        },
+        {
+          "english": "Stop using solid fuels",
+          "vietnamese": "Hãy ngừng sử dụng nhiên liệu rắn"
+        },
+        {
+          "english": "Stop using solid fuels at home",
+          "vietnamese": "Hãy ngừng sử dụng nhiên liệu rắn tại nhà"
+        }
+      ],
+      "grammar": "Câu này là một câu mệnh lệnh. \n\n*   **Stop**: Động từ chính, ở dạng nguyên mẫu (không có chủ ngữ). Chủ ngữ ngầm định là 'you' (bạn).\n*   **using solid fuels**: Cụm động từ, đóng vai trò tân ngữ của động từ 'stop'. 'using' là động từ ở dạng V-ing, diễn tả hành động đang diễn ra hoặc hành động chung chung. 'solid fuels' là tân ngữ của 'using'.\n*   **at home**: Cụm giới từ, bổ nghĩa cho hành động 'using solid fuels', chỉ địa điểm.",
+      "metadata": {
+        "sourceFile": "g11/grade-11-unit-5-writing.md",
+        "timestamp": "2025-08-31T04:17:28.266Z",
+        "usageCount": 1,
+        "lastUsed": "2025-08-31T04:17:28.266Z"
+      }
+    },
+    "f826d75e3a8e692455232bb5f6e796d7": {
+      "sentence": "Switch to renewable energy\n(Chuyển sang năng lượng tái tạo)",
+      "translation": "Chuyển sang năng lượng tái tạo.",
+      "words": [
+        {
+          "word": "Switch",
+          "pos": "verb",
+          "meaning": "Chuyển, đổi",
+          "ipa": "/swɪtʃ/"
+        },
+        {
+          "word": "to",
+          "pos": "preposition",
+          "meaning": "Đến, sang",
+          "ipa": "/tuː/"
+        },
+        {
+          "word": "renewable",
+          "pos": "adjective",
+          "meaning": "Tái tạo",
+          "ipa": "/rɪˈnjuːəbl/",
+          "root": "renew"
+        },
+        {
+          "word": "energy",
+          "pos": "noun",
+          "meaning": "Năng lượng",
+          "ipa": "/ˈenərdʒi/"
+        }
+      ],
+      "phrases": [
+        {
+          "phrase": "renewable energy",
+          "meaning": "năng lượng tái tạo"
+        },
+        {
+          "phrase": "Switch to",
+          "meaning": "Chuyển sang"
+        }
+      ],
+      "progressive": [
+        {
+          "english": "Switch",
+          "vietnamese": "Chuyển"
+        },
+        {
+          "english": "Switch to",
+          "vietnamese": "Chuyển sang"
+        },
+        {
+          "english": "Switch to renewable",
+          "vietnamese": "Chuyển sang tái tạo"
+        },
+        {
+          "english": "Switch to renewable energy",
+          "vietnamese": "Chuyển sang năng lượng tái tạo"
+        }
+      ],
+      "grammar": "Câu này là một câu mệnh lệnh (imperative sentence), thể hiện một lời khuyên hoặc đề nghị. Chủ ngữ (you) được ngầm hiểu. Vị ngữ là 'Switch to renewable energy'. 'Switch' là động từ chính. 'to renewable energy' là cụm giới từ đóng vai trò bổ ngữ cho động từ 'Switch', chỉ hướng đến hành động chuyển đổi. 'renewable' là tính từ bổ nghĩa cho danh từ 'energy'.",
+      "metadata": {
+        "sourceFile": "g11/grade-11-unit-5-writing.md",
+        "timestamp": "2025-08-31T04:17:43.011Z",
+        "usageCount": 1,
+        "lastUsed": "2025-08-31T04:17:43.011Z"
+      }
+    }
+  },
+  "metadata": {
+    "createdAt": "2025-08-31T04:17:19.466Z",
+    "updatedAt": "2025-08-31T04:17:43.011Z"
+  }
+}

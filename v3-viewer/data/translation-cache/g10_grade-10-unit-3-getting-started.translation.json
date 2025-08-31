@@ -1,0 +1,321 @@
+{
+  "sentences": {
+    "a7db0f09a935df2c3ecdf189db6b1407": {
+      "sentence": "Many fans say that his beautiful songs have helped bring more love into their lives.",
+      "translation": "Nhiều người hâm mộ nói rằng những bài hát hay của anh ấy đã giúp mang thêm tình yêu vào cuộc sống của họ.",
+      "words": [
+        {
+          "word": "Many",
+          "pos": "determiner",
+          "meaning": "nhiều",
+          "ipa": "/ˈmeni/"
+        },
+        {
+          "word": "fans",
+          "pos": "noun",
+          "meaning": "người hâm mộ",
+          "ipa": "/fænz/",
+          "root": "fan"
+        },
+        {
+          "word": "say",
+          "pos": "verb",
+          "meaning": "nói",
+          "ipa": "/seɪ/"
+        },
+        {
+          "word": "that",
+          "pos": "conjunction",
+          "meaning": "rằng",
+          "ipa": "/ðæt/"
+        },
+        {
+          "word": "his",
+          "pos": "pronoun",
+          "meaning": "của anh ấy",
+          "ipa": "/hɪz/"
+        },
+        {
+          "word": "beautiful",
+          "pos": "adjective",
+          "meaning": "hay, đẹp",
+          "ipa": "/ˈbjuːtɪfl/"
+        },
+        {
+          "word": "songs",
+          "pos": "noun",
+          "meaning": "bài hát",
+          "ipa": "/sɒŋz/",
+          "root": "song"
+        },
+        {
+          "word": "have",
+          "pos": "auxiliary verb",
+          "meaning": "đã (trợ động từ)",
+          "ipa": "/hæv/"
+        },
+        {
+          "word": "helped",
+          "pos": "verb",
+          "meaning": "giúp đỡ",
+          "ipa": "/helpt/",
+          "root": "help"
+        },
+        {
+          "word": "bring",
+          "pos": "verb",
+          "meaning": "mang đến",
+          "ipa": "/brɪŋ/"
+        },
+        {
+          "word": "more",
+          "pos": "determiner",
+          "meaning": "thêm",
+          "ipa": "/mɔːr/"
+        },
+        {
+          "word": "love",
+          "pos": "noun",
+          "meaning": "tình yêu",
+          "ipa": "/lʌv/"
+        },
+        {
+          "word": "into",
+          "pos": "preposition",
+          "meaning": "vào",
+          "ipa": "/ˈɪntuː/"
+        },
+        {
+          "word": "their",
+          "pos": "pronoun",
+          "meaning": "của họ",
+          "ipa": "/ðeər/"
+        },
+        {
+          "word": "lives",
+          "pos": "noun",
+          "meaning": "cuộc sống",
+          "ipa": "/laɪvz/",
+          "root": "life"
+        }
+      ],
+      "phrases": [
+        {
+          "phrase": "Many fans",
+          "meaning": "Nhiều người hâm mộ"
+        },
+        {
+          "phrase": "say that",
+          "meaning": "nói rằng"
+        },
+        {
+          "phrase": "his beautiful songs",
+          "meaning": "những bài hát hay của anh ấy"
+        },
+        {
+          "phrase": "have helped bring",
+          "meaning": "đã giúp mang đến"
+        },
+        {
+          "phrase": "more love",
+          "meaning": "thêm tình yêu"
+        },
+        {
+          "phrase": "into their lives",
+          "meaning": "vào cuộc sống của họ"
+        }
+      ],
+      "progressive": [
+        {
+          "english": "Many",
+          "vietnamese": "Nhiều"
+        },
+        {
+          "english": "Many fans",
+          "vietnamese": "Nhiều người hâm mộ"
+        },
+        {
+          "english": "Many fans say",
+          "vietnamese": "Nhiều người hâm mộ nói"
+        },
+        {
+          "english": "Many fans say that",
+          "vietnamese": "Nhiều người hâm mộ nói rằng"
+        },
+        {
+          "english": "Many fans say that his",
+          "vietnamese": "Nhiều người hâm mộ nói rằng của anh ấy"
+        },
+        {
+          "english": "Many fans say that his beautiful",
+          "vietnamese": "Nhiều người hâm mộ nói rằng những bài hát hay của anh ấy"
+        },
+        {
+          "english": "Many fans say that his beautiful songs",
+          "vietnamese": "Nhiều người hâm mộ nói rằng những bài hát hay của anh ấy"
+        },
+        {
+          "english": "Many fans say that his beautiful songs have",
+          "vietnamese": "Nhiều người hâm mộ nói rằng những bài hát hay của anh ấy đã"
+        },
+        {
+          "english": "Many fans say that his beautiful songs have helped",
+          "vietnamese": "Nhiều người hâm mộ nói rằng những bài hát hay của anh ấy đã giúp"
+        },
+        {
+          "english": "Many fans say that his beautiful songs have helped bring",
+          "vietnamese": "Nhiều người hâm mộ nói rằng những bài hát hay của anh ấy đã giúp mang đến"
+        },
+        {
+          "english": "Many fans say that his beautiful songs have helped bring more",
+          "vietnamese": "Nhiều người hâm mộ nói rằng những bài hát hay của anh ấy đã giúp mang đến thêm"
+        },
+        {
+          "english": "Many fans say that his beautiful songs have helped bring more love",
+          "vietnamese": "Nhiều người hâm mộ nói rằng những bài hát hay của anh ấy đã giúp mang đến thêm tình yêu"
+        },
+        {
+          "english": "Many fans say that his beautiful songs have helped bring more love into",
+          "vietnamese": "Nhiều người hâm mộ nói rằng những bài hát hay của anh ấy đã giúp mang đến thêm tình yêu vào"
+        },
+        {
+          "english": "Many fans say that his beautiful songs have helped bring more love into their",
+          "vietnamese": "Nhiều người hâm mộ nói rằng những bài hát hay của anh ấy đã giúp mang đến thêm tình yêu vào của họ"
+        },
+        {
+          "english": "Many fans say that his beautiful songs have helped bring more love into their lives",
+          "vietnamese": "Nhiều người hâm mộ nói rằng những bài hát hay của anh ấy đã giúp mang thêm tình yêu vào cuộc sống của họ."
+        }
+      ],
+      "grammar": "Câu này là một câu phức (complex sentence) với cấu trúc chính: SVO + that + SVO.\n\n*   **Chủ ngữ (Subject):** Many fans (Nhiều người hâm mộ)\n*   **Vị ngữ (Predicate):** say that his beautiful songs have helped bring more love into their lives (nói rằng những bài hát hay của anh ấy đã giúp mang thêm tình yêu vào cuộc sống của họ)\n*   **Tân ngữ (Object):** that his beautiful songs have helped bring more love into their lives (mệnh đề danh từ, đóng vai trò tân ngữ cho động từ 'say')\n    *   **Chủ ngữ (trong mệnh đề):** his beautiful songs (những bài hát hay của anh ấy)\n    *   **Vị ngữ (trong mệnh đề):** have helped bring more love into their lives (đã giúp mang thêm tình yêu vào cuộc sống của họ)\n        *   **Động từ (trong mệnh đề):** have helped bring (đã giúp mang đến)\n        *   **Tân ngữ (trong mệnh đề):** more love (thêm tình yêu)\n        *   **Giới từ (trong mệnh đề):** into their lives (vào cuộc sống của họ)\n            *   **Tân ngữ (trong mệnh đề):** their lives (cuộc sống của họ)\n\nCâu này sử dụng thì hiện tại đơn (present simple) cho động từ 'say' và thì hiện tại hoàn thành (present perfect) cho cụm động từ 'have helped'. Mệnh đề 'that' là một mệnh đề danh từ (noun clause) đóng vai trò tân ngữ cho động từ 'say'. Cấu trúc 'have helped bring' thể hiện hành động giúp đỡ đã xảy ra trong quá khứ và vẫn còn liên quan đến hiện tại.",
+      "uuid": "05832aba-88dd-4fcb-8f27-d3d0cad5dbe7",
+      "shortDesc": "Fans say beautiful",
+      "metadata": {
+        "sourceFile": "g10/grade-10-unit-3-getting-started.translation.md",
+        "timestamp": "2025-08-31T06:05:04.018Z",
+        "usageCount": 1,
+        "lastUsed": "2025-08-31T06:05:04.018Z",
+        "shareableLink": "/translation/05832aba-88dd-4fcb-8f27-d3d0cad5dbe7"
+      }
+    },
+    "34ab2fb66da797d04ebbe8cd1f63c6f3": {
+      "sentence": "learnt: (verb) đã học /lɜːnt/ [root: learn] \n35.",
+      "translation": "learnt: (động từ) đã học /lɜːnt/ [gốc: learn]\n35.",
+      "words": [
+        {
+          "word": "learnt",
+          "pos": "verb",
+          "meaning": "đã học",
+          "ipa": "/lɜːnt/",
+          "root": "learn"
+        },
+        {
+          "word": ":",
+          "pos": "punctuation",
+          "meaning": "dấu hai chấm",
+          "ipa": null,
+          "root": null
+        },
+        {
+          "word": "(verb)",
+          "pos": "abbreviation",
+          "meaning": "(động từ)",
+          "ipa": null,
+          "root": null
+        },
+        {
+          "word": "đã",
+          "pos": "auxiliary verb",
+          "meaning": "đã (thể hiện thì quá khứ)",
+          "ipa": null,
+          "root": null
+        },
+        {
+          "word": "học",
+          "pos": "verb",
+          "meaning": "học",
+          "ipa": null,
+          "root": null
+        },
+        {
+          "word": "/lɜːnt/",
+          "pos": "phonetic transcription",
+          "meaning": "phiên âm",
+          "ipa": "/lɜːnt/",
+          "root": null
+        },
+        {
+          "word": "[root:",
+          "pos": "information",
+          "meaning": "[gốc:",
+          "ipa": null,
+          "root": null
+        },
+        {
+          "word": "learn]",
+          "pos": "information",
+          "meaning": "learn]",
+          "ipa": null,
+          "root": "learn"
+        },
+        {
+          "word": "35.",
+          "pos": "number",
+          "meaning": "35",
+          "ipa": null,
+          "root": null
+        }
+      ],
+      "phrases": [
+        {
+          "phrase": "learnt: (verb)",
+          "meaning": "learnt: (động từ)"
+        },
+        {
+          "phrase": "/lɜːnt/",
+          "meaning": "phiên âm /lɜːnt/"
+        },
+        {
+          "phrase": "[root: learn]",
+          "meaning": "[gốc: learn]"
+        }
+      ],
+      "progressive": [
+        {
+          "english": "learnt",
+          "vietnamese": "đã học"
+        },
+        {
+          "english": "learnt: (verb)",
+          "vietnamese": "đã học: (động từ)"
+        },
+        {
+          "english": "learnt: (verb) /lɜːnt/",
+          "vietnamese": "đã học: (động từ) /lɜːnt/"
+        },
+        {
+          "english": "learnt: (verb) /lɜːnt/ [root: learn]",
+          "vietnamese": "đã học: (động từ) /lɜːnt/ [gốc: learn]"
+        },
+        {
+          "english": "learnt: (verb) /lɜːnt/ [root: learn] \n35.",
+          "vietnamese": "learnt: (động từ) /lɜːnt/ [gốc: learn]\n35."
+        }
+      ],
+      "grammar": "Câu này không phải là một câu hoàn chỉnh mà là một mục từ điển. Nó cung cấp thông tin về từ 'learnt'.\n- 'learnt': từ chính, dạng quá khứ phân từ của động từ 'learn'.\n- ': (verb)': giải thích từ 'learnt' là một động từ.\n- '/lɜːnt/': phiên âm của từ 'learnt'.\n- '[root: learn]': cho biết dạng gốc của từ là 'learn'.\n- '35.': có thể là số thứ tự của mục từ điển.",
+      "uuid": "1f179100-7969-4925-a3a8-9d740316c073",
+      "shortDesc": "Learnt học",
+      "metadata": {
+        "sourceFile": "g10/grade-10-unit-3-getting-started.translation.md",
+        "timestamp": "2025-08-31T06:07:03.014Z",
+        "usageCount": 1,
+        "lastUsed": "2025-08-31T06:07:03.014Z",
+        "shareableLink": "/translation/1f179100-7969-4925-a3a8-9d740316c073"
+      }
+    }
+  },
+  "metadata": {
+    "createdAt": "2025-08-31T06:05:04.016Z",
+    "updatedAt": "2025-08-31T06:07:03.015Z"
+  }
+}

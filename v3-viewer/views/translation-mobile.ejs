@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <title><%= title %> - Translation</title>
+    <link rel="stylesheet" href="/styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <meta name="theme-color" content="#2563eb">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+</head>
+<body class="mobile-body">
+    <!-- Mobile Header -->
+    <header class="mobile-header">
+        <div class="mobile-header-content">
+            <h1 class="mobile-logo">🔤 Translation</h1>
+            <div class="mobile-nav">
+                <button onclick="history.back()" class="mobile-nav-btn">←</button>
+                <a href="<%= switchUrl %>" class="mobile-switch-btn">🖥️</a>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="mobile-main">
+        <div class="mobile-translation-display">
+            <!-- Translation Header -->
+            <div class="mobile-translation-header">
+                <h2><%= translation.shortDesc %></h2>
+                <p class="mobile-translation-meta">
+                    From: <%= translation.sourceFile %> • 
+                    Used: <%= translation.metadata.usageCount %> times •
+                    <span class="mobile-translation-uuid">ID: <%= uuid.substring(0, 8) %></span>
+                </p>
+            </div>
+
+            <!-- Translation Content -->
+            <div class="mobile-translation-content">
+                <!-- English Section -->
+                <div class="mobile-section">
+                    <h3>📝 English 
+                        <button class="mobile-pronounce-btn" onclick="mobileAudioManager.speak('<%= translation.sentence.replace(/'/g, "\\'") %>', 'en')" title="Pronounce English">
+                            🔊
+                        </button>
+                    </h3>
+                    <p class="mobile-original-text"><%= translation.sentence %></p>
+                </div>
+
+                <!-- Vietnamese Section -->
+                <div class="mobile-section">
+                    <h3>🇻🇳 Vietnamese 
+                        <button class="mobile-pronounce-btn" onclick="mobileAudioManager.speak('<%= translation.translation.replace(/'/g, "\\'") %>', 'vi')" title="Pronounce Vietnamese">
+                            🔊
+                        </button>
+                    </h3>
+                    <p class="mobile-translation-text"><%= translation.translation %></p>
+                </div>
+
+                <!-- Expandable Sections -->
+                <div class="mobile-breakdown-section collapsible">
+                    <h4 onclick="this.classList.toggle('expanded')">
+                        📚 Word Analysis <span class="toggle-arrow">▼</span>
+                    </h4>
+                    <div class="mobile-breakdown-content">
+                        <% translation.words.forEach((word, index) => { %>
+                            <div class="mobile-word-item">
+                                <span class="word-number"><%= index + 1 %>.</span>
+                                <span class="word-text"><%= word.word %>:</span>
+                                <button class="mobile-word-pronounce-btn" onclick="mobileAudioManager.speak('<%= word.word.replace(/'/g, "\\'") %>', 'en')" title="Pronounce word">
+                                    🔊
+                                </button>
+                                <span class="word-pos">(<%= word.pos %>)</span>
+                                <span class="word-meaning"><%= word.meaning %></span>
+                                <span class="word-ipa"><%= word.ipa %></span>
+                                <% if (word.root) { %>
+                                    <span class="word-root">[root: <%= word.root %>]</span>
+                                <% } %>
+                            </div>
+                        <% }) %>
+                    </div>
+                </div>
+
+                <div class="mobile-breakdown-section collapsible">
+                    <h4 onclick="this.classList.toggle('expanded')">
+                        🔗 Phrase Analysis <span class="toggle-arrow">▼</span>
+                    </h4>
+                    <div class="mobile-breakdown-content">
+                        <% translation.phrases.forEach((phrase, index) => { %>
+                            <div class="mobile-phrase-item">
+                                <span class="phrase-number"><%= index + 1 %>.</span>
+                                <span class="phrase-text"><%= phrase.phrase %>:</span>
+                                <span class="phrase-meaning"><%= phrase.meaning %></span>
+                            </div>
+                        <% }) %>
+                    </div>
+                </div>
+
+                <div class="mobile-breakdown-section collapsible">
+                    <h4 onclick="this.classList.toggle('expanded')">
+                        ⚡ Progressive Translation <span class="toggle-arrow">▼</span>
+                    </h4>
+                    <div class="mobile-breakdown-content">
+                        <% translation.progressive.forEach((step, index) => { %>
+                            <div class="mobile-progressive-item">
+                                <span class="prog-number"><%= index + 1 %>.</span>
+                                <span class="prog-english"><%= step.english %>:</span>
+                                <button class="mobile-word-pronounce-btn" onclick="mobileAudioManager.speak('<%= step.english.replace(/'/g, "\\'") %>', 'en')" title="Pronounce English">
+                                    🔊
+                                </button>
+                                <span class="prog-vietnamese"><%= step.vietnamese %></span>
+                                <button class="mobile-word-pronounce-btn" onclick="mobileAudioManager.speak('<%= step.vietnamese.replace(/'/g, "\\'") %>', 'vi')" title="Pronounce Vietnamese">
+                                    🔊
+                                </button>
+                            </div>
+                        <% }) %>
+                    </div>
+                </div>
+
+                <div class="mobile-breakdown-section collapsible">
+                    <h4 onclick="this.classList.toggle('expanded')">
+                        📚 Grammar Analysis <span class="toggle-arrow">▼</span>
+                    </h4>
+                    <div class="mobile-breakdown-content">
+                        <div class="mobile-grammar-text"><%= translation.grammar %></div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Lesson Context -->
+            <div class="mobile-lesson-context">
+                <h3>📚 From Lesson</h3>
+                <div class="mobile-lesson-info">
+                    <p><strong><%= translation.metadata.sourceFile %></strong></p>
+                    <div class="mobile-lesson-actions">
+                        <a href="/view/<%= translation.metadata.sourceFile %>?mobile=1" class="mobile-action-btn">
+                            📄 View Original Lesson
+                        </a>
+                        <button onclick="copyOriginalLessonLink()" class="mobile-action-btn secondary">
+                            📋 Copy Lesson Link
+                        </button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Share Actions -->
+            <div class="mobile-share-actions">
+                <button onclick="shareCurrentTranslation()" class="mobile-action-btn">
+                    📤 Share This Translation
+                </button>
+                <button onclick="copyTranslationId()" class="mobile-action-btn secondary">
+                    🆔 Copy ID
+                </button>
+                <a href="/mobile" class="mobile-action-btn secondary">
+                    📚 Back to Files
+                </a>
+                <a href="/translations?mobile=1" class="mobile-action-btn secondary">
+                    🔤 Browse Translations
+                </a>
+            </div>
+        </div>
+    </main>
+
+    <!-- Scripts -->
+    <script>
+    // Translation data
+    window.translation = <%- JSON.stringify(translation) %>;
+    window.translationUUID = '<%= uuid %>';
+    window.isMobile = true;
+    
+    // Initialize audio manager
+    const mobileAudioManager = new (class {
+        constructor() {
+            this.synth = window.speechSynthesis;
+            this.isSupported = 'speechSynthesis' in window;
+        }
+        
+        speak(text, language = 'en') {
+            if (!this.isSupported) return;
+            
+            this.synth.cancel(); // Stop any current speech
+            
+            const utterance = new SpeechSynthesisUtterance(text);
+            utterance.rate = 0.8;
+            utterance.lang = language === 'en' ? 'en-GB' : 'vi-VN';
+            
+            this.synth.speak(utterance);
+        }
+    })();
+    
+    // Global functions
+    function shareCurrentTranslation() {
+        const url = window.location.href;
+        const title = 'Translation: <%= translation.shortDesc %>';
+        
+        if (navigator.share) {
+            navigator.share({
+                title: title,
+                text: 'Check out this English sentence translation',
+                url: url
+            }).catch(console.error);
+        } else {
+            navigator.clipboard.writeText(url).then(() => {
+                alert('Link copied to clipboard!');
+            }).catch(() => {
+                prompt('Copy this link:', url);
+            });
+        }
+    }
+    
+    function copyTranslationId() {
+        const id = '<%= uuid %>';
+        if (navigator.clipboard) {
+            navigator.clipboard.writeText(id).then(() => {
+                alert('Translation ID copied!');
+            }).catch(() => {
+                prompt('Translation ID:', id);
+            });
+        } else {
+            prompt('Translation ID:', id);
+        }
+    }
+    
+    async function copyOriginalLessonLink() {
+        try {
+            const response = await fetch('/api/network-info');
+            const networkInfo = await response.json();
+            
+            const lessonPath = '<%= translation.metadata.sourceFile %>';
+            const networkUrl = `${networkInfo.serverURL}/view/${lessonPath}?mobile=1`;
+            
+            if (navigator.clipboard) {
+                await navigator.clipboard.writeText(networkUrl);
+                alert(`📋 Lesson link copied!\n${networkInfo.localIP}:${networkInfo.port}`);
+            } else {
+                prompt('Original Lesson Network Link:', networkUrl);
+            }
+        } catch (error) {
+            console.error('Failed to copy lesson link:', error);
+            alert('Failed to copy lesson link');
+        }
+    }
+    
+    // Setup collapsible sections
+    document.addEventListener('DOMContentLoaded', () => {
+        document.querySelectorAll('.mobile-breakdown-section h4').forEach(header => {
+            header.addEventListener('click', () => {
+                header.parentElement.classList.toggle('expanded');
+            });
+        });
+    });
+    </script>
+</body>
+</html>

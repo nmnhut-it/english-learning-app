@@ -1,0 +1,1031 @@
+{
+  "sentences": {
+    "1bfecc8f597a9ce1ce78d254f0d7521f": {
+      "sentence": "When burnt, fossil fuels release greenhouse gases, trapping heat in the atmosphere.",
+      "translation": "Khi bị đốt, nhiên liệu hóa thạch thải ra các khí nhà kính, giữ nhiệt trong khí quyển.",
+      "words": [
+        {
+          "word": "When",
+          "pos": "conjunction",
+          "meaning": "Khi",
+          "ipa": "/wen/"
+        },
+        {
+          "word": "burnt",
+          "pos": "verb (past participle)",
+          "meaning": "bị đốt",
+          "ipa": "/bɜːrnt/",
+          "root": "burn"
+        },
+        {
+          "word": "fossil",
+          "pos": "adjective",
+          "meaning": "hóa thạch",
+          "ipa": "/ˈfɒsl/",
+          "root": "fossil"
+        },
+        {
+          "word": "fuels",
+          "pos": "noun",
+          "meaning": "nhiên liệu",
+          "ipa": "/ˈfjuːəlz/",
+          "root": "fuel"
+        },
+        {
+          "word": "release",
+          "pos": "verb",
+          "meaning": "thải ra",
+          "ipa": "/rɪˈliːs/",
+          "root": "release"
+        },
+        {
+          "word": "greenhouse",
+          "pos": "adjective",
+          "meaning": "nhà kính",
+          "ipa": "/ˈɡriːnhaʊs/",
+          "root": "greenhouse"
+        },
+        {
+          "word": "gases",
+          "pos": "noun",
+          "meaning": "khí",
+          "ipa": "/ˈɡæsɪz/",
+          "root": "gas"
+        },
+        {
+          "word": "trapping",
+          "pos": "verb (gerund/present participle)",
+          "meaning": "giữ",
+          "ipa": "/ˈtræpɪŋ/",
+          "root": "trap"
+        },
+        {
+          "word": "heat",
+          "pos": "noun",
+          "meaning": "nhiệt",
+          "ipa": "/hiːt/",
+          "root": "heat"
+        },
+        {
+          "word": "in",
+          "pos": "preposition",
+          "meaning": "trong",
+          "ipa": "/ɪn/"
+        },
+        {
+          "word": "the",
+          "pos": "determiner",
+          "meaning": "the",
+          "ipa": "/ðə/"
+        },
+        {
+          "word": "atmosphere",
+          "pos": "noun",
+          "meaning": "khí quyển",
+          "ipa": "/ˈætməsfɪər/",
+          "root": "atmosphere"
+        }
+      ],
+      "phrases": [
+        {
+          "phrase": "When burnt",
+          "meaning": "Khi bị đốt"
+        },
+        {
+          "phrase": "fossil fuels",
+          "meaning": "nhiên liệu hóa thạch"
+        },
+        {
+          "phrase": "release greenhouse gases",
+          "meaning": "thải ra các khí nhà kính"
+        },
+        {
+          "phrase": "trapping heat",
+          "meaning": "giữ nhiệt"
+        },
+        {
+          "phrase": "in the atmosphere",
+          "meaning": "trong khí quyển"
+        }
+      ],
+      "progressive": [
+        {
+          "english": "When",
+          "vietnamese": "Khi"
+        },
+        {
+          "english": "When burnt",
+          "vietnamese": "Khi bị đốt"
+        },
+        {
+          "english": "fossil fuels",
+          "vietnamese": "nhiên liệu hóa thạch"
+        },
+        {
+          "english": "fossil fuels release",
+          "vietnamese": "nhiên liệu hóa thạch thải ra"
+        },
+        {
+          "english": "fossil fuels release greenhouse gases",
+          "vietnamese": "nhiên liệu hóa thạch thải ra các khí nhà kính"
+        },
+        {
+          "english": "trapping heat",
+          "vietnamese": "giữ nhiệt"
+        },
+        {
+          "english": "trapping heat in the atmosphere",
+          "vietnamese": "giữ nhiệt trong khí quyển"
+        },
+        {
+          "english": "When burnt, fossil fuels release greenhouse gases, trapping heat in the atmosphere.",
+          "vietnamese": "Khi bị đốt, nhiên liệu hóa thạch thải ra các khí nhà kính, giữ nhiệt trong khí quyển."
+        }
+      ],
+      "grammar": "Câu này là một câu ghép. Mệnh đề chính là \"fossil fuels release greenhouse gases, trapping heat in the atmosphere.\" và mệnh đề trạng ngữ chỉ thời gian là \"When burnt\".\n\n*   **Mệnh đề trạng ngữ:** \"When burnt\" (rút gọn của mệnh đề trạng ngữ \"When they are burnt\"). Chủ ngữ \"they\" (tức fossil fuels) bị lược bỏ vì trùng với chủ ngữ của mệnh đề chính. Động từ \"are\" (trong \"are burnt\") bị lược bỏ, chỉ còn lại phân từ quá khứ \"burnt\".\n*   **Mệnh đề chính:** \"fossil fuels release greenhouse gases, trapping heat in the atmosphere.\" Chủ ngữ là \"fossil fuels\". Vị ngữ bao gồm động từ \"release\" và tân ngữ \"greenhouse gases\". Phần \"trapping heat in the atmosphere\" là một mệnh đề rút gọn, đóng vai trò bổ ngữ cho mệnh đề chính, diễn tả kết quả của hành động \"release greenhouse gases\". Chủ ngữ của mệnh đề này là \"fossil fuels\" (được ngầm hiểu). Động từ \"trap\" ở dạng V-ing (hiện tại phân từ) để diễn tả hành động xảy ra đồng thời với hành động \"release\". Tân ngữ của \"trapping\" là \"heat\", và cụm giới từ \"in the atmosphere\" bổ nghĩa cho \"heat\", chỉ ra vị trí của nhiệt.",
+      "metadata": {
+        "sourceFile": "g11/grade-11-unit-5-speaking.md",
+        "timestamp": "2025-08-31T03:33:32.800Z",
+        "usageCount": 3,
+        "lastUsed": "2025-08-31T03:52:04.359Z"
+      }
+    },
+    "fc8925ec690866595c5c8b525a43cb2d": {
+      "sentence": "Trees use CO2 to grow, so when they are cut down or burnt, the CO2 in the air increase.",
+      "translation": "Cây cối sử dụng CO2 để sinh trưởng, vì vậy khi chúng bị chặt hạ hoặc đốt cháy, lượng CO2 trong không khí tăng lên.",
+      "words": [
+        {
+          "word": "Trees",
+          "pos": "noun",
+          "meaning": "Cây cối",
+          "ipa": "/triːz/",
+          "root": "tree"
+        },
+        {
+          "word": "use",
+          "pos": "verb",
+          "meaning": "sử dụng",
+          "ipa": "/juːz/"
+        },
+        {
+          "word": "CO2",
+          "pos": "noun",
+          "meaning": "Carbon Dioxide (Khí CO2)",
+          "ipa": "/ˌsiːˈəʊ tuː/"
+        },
+        {
+          "word": "to",
+          "pos": "preposition",
+          "meaning": "để",
+          "ipa": "/tuː/"
+        },
+        {
+          "word": "grow",
+          "pos": "verb",
+          "meaning": "sinh trưởng, lớn lên",
+          "ipa": "/ɡroʊ/"
+        },
+        {
+          "word": "so",
+          "pos": "conjunction",
+          "meaning": "vì vậy",
+          "ipa": "/soʊ/"
+        },
+        {
+          "word": "when",
+          "pos": "conjunction",
+          "meaning": "khi",
+          "ipa": "/wɛn/"
+        },
+        {
+          "word": "they",
+          "pos": "pronoun",
+          "meaning": "chúng",
+          "ipa": "/ðeɪ/"
+        },
+        {
+          "word": "are",
+          "pos": "verb",
+          "meaning": "thì, là (dạng của 'to be')",
+          "ipa": "/ɑːr/"
+        },
+        {
+          "word": "cut",
+          "pos": "verb",
+          "meaning": "chặt, đốn",
+          "ipa": "/kʌt/",
+          "root": "cut"
+        },
+        {
+          "word": "down",
+          "pos": "adverb/preposition",
+          "meaning": "xuống, hạ",
+          "ipa": "/daʊn/"
+        },
+        {
+          "word": "or",
+          "pos": "conjunction",
+          "meaning": "hoặc",
+          "ipa": "/ɔːr/"
+        },
+        {
+          "word": "burnt",
+          "pos": "verb",
+          "meaning": "bị đốt cháy",
+          "ipa": "/bɜːrnt/",
+          "root": "burn"
+        },
+        {
+          "word": "the",
+          "pos": "determiner",
+          "meaning": "các, những",
+          "ipa": "/ðə/"
+        },
+        {
+          "word": "air",
+          "pos": "noun",
+          "meaning": "không khí",
+          "ipa": "/ɛər/"
+        },
+        {
+          "word": "increase",
+          "pos": "verb",
+          "meaning": "tăng lên",
+          "ipa": "/ɪnˈkriːs/"
+        }
+      ],
+      "phrases": [
+        {
+          "phrase": "use CO2",
+          "meaning": "sử dụng CO2"
+        },
+        {
+          "phrase": "to grow",
+          "meaning": "để sinh trưởng"
+        },
+        {
+          "phrase": "cut down",
+          "meaning": "chặt hạ"
+        },
+        {
+          "phrase": "burnt",
+          "meaning": "bị đốt cháy"
+        },
+        {
+          "phrase": "in the air",
+          "meaning": "trong không khí"
+        }
+      ],
+      "progressive": [
+        {
+          "english": "Trees",
+          "vietnamese": "Cây cối"
+        },
+        {
+          "english": "Trees use",
+          "vietnamese": "Cây cối sử dụng"
+        },
+        {
+          "english": "Trees use CO2",
+          "vietnamese": "Cây cối sử dụng CO2"
+        },
+        {
+          "english": "Trees use CO2 to grow",
+          "vietnamese": "Cây cối sử dụng CO2 để sinh trưởng"
+        },
+        {
+          "english": "Trees use CO2 to grow, so",
+          "vietnamese": "Cây cối sử dụng CO2 để sinh trưởng, vì vậy"
+        },
+        {
+          "english": "Trees use CO2 to grow, so when they are cut down or burnt",
+          "vietnamese": "Cây cối sử dụng CO2 để sinh trưởng, vì vậy khi chúng bị chặt hạ hoặc đốt cháy"
+        },
+        {
+          "english": "Trees use CO2 to grow, so when they are cut down or burnt, the CO2",
+          "vietnamese": "Cây cối sử dụng CO2 để sinh trưởng, vì vậy khi chúng bị chặt hạ hoặc đốt cháy, lượng CO2"
+        },
+        {
+          "english": "Trees use CO2 to grow, so when they are cut down or burnt, the CO2 in the air",
+          "vietnamese": "Cây cối sử dụng CO2 để sinh trưởng, vì vậy khi chúng bị chặt hạ hoặc đốt cháy, lượng CO2 trong không khí"
+        },
+        {
+          "english": "Trees use CO2 to grow, so when they are cut down or burnt, the CO2 in the air increase.",
+          "vietnamese": "Cây cối sử dụng CO2 để sinh trưởng, vì vậy khi chúng bị chặt hạ hoặc đốt cháy, lượng CO2 trong không khí tăng lên."
+        }
+      ],
+      "grammar": "Câu này là một câu ghép, gồm hai mệnh đề độc lập được nối với nhau bằng liên từ 'so'.\n\n*   **Mệnh đề 1:** Trees use CO2 to grow (Cây cối sử dụng CO2 để sinh trưởng).\n    *   Chủ ngữ: Trees (Cây cối)\n    *   Vị ngữ: use CO2 to grow (sử dụng CO2 để sinh trưởng)\n    *   Cụm động từ: use (sử dụng)\n    *   Tân ngữ: CO2 (CO2)\n    *   Bổ ngữ chỉ mục đích: to grow (để sinh trưởng)\n*   **Mệnh đề 2:** when they are cut down or burnt, the CO2 in the air increase (khi chúng bị chặt hạ hoặc đốt cháy, lượng CO2 trong không khí tăng lên).\n    *   Mệnh đề trạng ngữ chỉ thời gian: when they are cut down or burnt (khi chúng bị chặt hạ hoặc đốt cháy)\n        *   Chủ ngữ: they (chúng)\n        *   Vị ngữ: are cut down or burnt (bị chặt hạ hoặc đốt cháy)\n        *   Cấu trúc bị động: are cut down (bị chặt hạ), burnt (bị đốt cháy)\n    *   Mệnh đề chính:\n        *   Chủ ngữ: the CO2 (lượng CO2)\n        *   Bổ ngữ chỉ nơi chốn: in the air (trong không khí)\n        *   Vị ngữ: increase (tăng lên)",
+      "metadata": {
+        "sourceFile": "g11/grade-11-unit-5-speaking.md",
+        "timestamp": "2025-08-31T03:34:02.487Z",
+        "usageCount": 2,
+        "lastUsed": "2025-08-31T03:52:13.355Z"
+      }
+    },
+    "aaac8a2a3641d60a9c4d0863a688e927": {
+      "sentence": "This gas is responsible for nearly one-third of current global warming.",
+      "translation": "Khí này chịu trách nhiệm cho gần một phần ba sự nóng lên toàn cầu hiện tại.",
+      "words": [
+        {
+          "word": "This",
+          "pos": "determiner",
+          "meaning": "này, đây",
+          "ipa": "/ðɪs/"
+        },
+        {
+          "word": "gas",
+          "pos": "noun",
+          "meaning": "khí",
+          "ipa": "/ɡæs/"
+        },
+        {
+          "word": "is",
+          "pos": "verb",
+          "meaning": "thì, là, ở",
+          "ipa": "/ɪz/",
+          "root": "be"
+        },
+        {
+          "word": "responsible",
+          "pos": "adjective",
+          "meaning": "chịu trách nhiệm",
+          "ipa": "/rɪˈspɒnsəbl/",
+          "root": "responsible"
+        },
+        {
+          "word": "for",
+          "pos": "preposition",
+          "meaning": "cho, vì",
+          "ipa": "/fɔːr/"
+        },
+        {
+          "word": "nearly",
+          "pos": "adverb",
+          "meaning": "gần như",
+          "ipa": "/ˈnɪərli/"
+        },
+        {
+          "word": "one-third",
+          "pos": "noun",
+          "meaning": "một phần ba",
+          "ipa": "/wʌn θɜːrd/"
+        },
+        {
+          "word": "of",
+          "pos": "preposition",
+          "meaning": "của",
+          "ipa": "/ɒv/"
+        },
+        {
+          "word": "current",
+          "pos": "adjective",
+          "meaning": "hiện tại",
+          "ipa": "/ˈkʌrənt/"
+        },
+        {
+          "word": "global",
+          "pos": "adjective",
+          "meaning": "toàn cầu",
+          "ipa": "/ˈɡləʊbl/"
+        },
+        {
+          "word": "warming",
+          "pos": "noun",
+          "meaning": "sự nóng lên",
+          "ipa": "/ˈwɔːrmɪŋ/",
+          "root": "warm"
+        }
+      ],
+      "phrases": [
+        {
+          "phrase": "This gas",
+          "meaning": "khí này"
+        },
+        {
+          "phrase": "is responsible for",
+          "meaning": "chịu trách nhiệm cho"
+        },
+        {
+          "phrase": "nearly one-third",
+          "meaning": "gần một phần ba"
+        },
+        {
+          "phrase": "of current global warming",
+          "meaning": "của sự nóng lên toàn cầu hiện tại"
+        }
+      ],
+      "progressive": [
+        {
+          "english": "This",
+          "vietnamese": "Này"
+        },
+        {
+          "english": "This gas",
+          "vietnamese": "Khí này"
+        },
+        {
+          "english": "This gas is",
+          "vietnamese": "Khí này thì/là"
+        },
+        {
+          "english": "This gas is responsible",
+          "vietnamese": "Khí này chịu trách nhiệm"
+        },
+        {
+          "english": "This gas is responsible for",
+          "vietnamese": "Khí này chịu trách nhiệm cho"
+        },
+        {
+          "english": "This gas is responsible for nearly",
+          "vietnamese": "Khí này chịu trách nhiệm cho gần như"
+        },
+        {
+          "english": "This gas is responsible for nearly one-third",
+          "vietnamese": "Khí này chịu trách nhiệm cho gần một phần ba"
+        },
+        {
+          "english": "This gas is responsible for nearly one-third of",
+          "vietnamese": "Khí này chịu trách nhiệm cho gần một phần ba của"
+        },
+        {
+          "english": "This gas is responsible for nearly one-third of current",
+          "vietnamese": "Khí này chịu trách nhiệm cho gần một phần ba của hiện tại"
+        },
+        {
+          "english": "This gas is responsible for nearly one-third of current global",
+          "vietnamese": "Khí này chịu trách nhiệm cho gần một phần ba của sự nóng lên toàn cầu"
+        },
+        {
+          "english": "This gas is responsible for nearly one-third of current global warming",
+          "vietnamese": "Khí này chịu trách nhiệm cho gần một phần ba sự nóng lên toàn cầu hiện tại."
+        }
+      ],
+      "grammar": "Câu này là một câu đơn giản. \n*   **Chủ ngữ:** This gas (khí này)\n*   **Vị ngữ:** is responsible for nearly one-third of current global warming (chịu trách nhiệm cho gần một phần ba sự nóng lên toàn cầu hiện tại).\n*   **Động từ chính:** is (thì/là)\n*   **Cụm giới từ:** for nearly one-third of current global warming (cho gần một phần ba sự nóng lên toàn cầu hiện tại) đóng vai trò bổ ngữ cho động từ responsible.\n*   **Cụm danh từ:** one-third (một phần ba) là tân ngữ của giới từ for.\n*   **Tính từ:** current (hiện tại) và global (toàn cầu) bổ nghĩa cho danh từ warming (sự nóng lên).",
+      "metadata": {
+        "sourceFile": "g11/grade-11-unit-5-speaking.md",
+        "timestamp": "2025-08-31T03:34:28.907Z",
+        "usageCount": 1,
+        "lastUsed": "2025-08-31T03:34:28.907Z"
+      }
+    },
+    "f07d4fdbed5dc76d3036c9c6d75ee9b8": {
+      "sentence": "Burning coal, oil, and gas",
+      "translation": "Than, dầu và khí đốt đang cháy",
+      "words": [
+        {
+          "word": "Burning",
+          "pos": "verb-gerund/adjective",
+          "meaning": "đang cháy/cháy",
+          "ipa": "/ˈbɜːrnɪŋ/",
+          "root": "burn"
+        },
+        {
+          "word": "coal",
+          "pos": "noun",
+          "meaning": "than",
+          "ipa": "/koʊl/"
+        },
+        {
+          "word": "oil",
+          "pos": "noun",
+          "meaning": "dầu",
+          "ipa": "/ɔɪl/"
+        },
+        {
+          "word": "and",
+          "pos": "conjunction",
+          "meaning": "và",
+          "ipa": "/ænd/"
+        },
+        {
+          "word": "gas",
+          "pos": "noun",
+          "meaning": "khí đốt",
+          "ipa": "/ɡæs/"
+        }
+      ],
+      "phrases": [
+        {
+          "phrase": "Burning coal",
+          "meaning": "than đang cháy/than cháy"
+        },
+        {
+          "phrase": "oil and gas",
+          "meaning": "dầu và khí đốt"
+        }
+      ],
+      "progressive": [
+        {
+          "english": "Burning",
+          "vietnamese": "Đang cháy"
+        },
+        {
+          "english": "Burning coal",
+          "vietnamese": "Than đang cháy"
+        },
+        {
+          "english": "Burning coal, oil",
+          "vietnamese": "Than, dầu đang cháy"
+        },
+        {
+          "english": "Burning coal, oil, and gas",
+          "vietnamese": "Than, dầu và khí đốt đang cháy"
+        }
+      ],
+      "grammar": "Câu này là một cụm danh từ, không có chủ ngữ và vị ngữ chính. 'Burning' đóng vai trò là một tính từ (dạng V-ing) bổ nghĩa cho các danh từ 'coal', 'oil', và 'gas'. Cấu trúc liệt kê sử dụng dấu phẩy và liên từ 'and' để nối các danh từ. Có thể hiểu ngầm là 'which are' hoặc 'that are' đang cháy, nhưng trong ngữ cảnh này, nó được rút gọn để diễn đạt ngắn gọn và hiệu quả.",
+      "metadata": {
+        "sourceFile": "g11/grade-11-unit-5-speaking.md",
+        "timestamp": "2025-08-31T03:35:14.476Z",
+        "usageCount": 1,
+        "lastUsed": "2025-08-31T03:35:14.476Z"
+      }
+    },
+    "b9602bc7749d768300a04f551e8a6f3f": {
+      "sentence": "Possible effects: \na.",
+      "translation": "Những ảnh hưởng có thể xảy ra: \na.",
+      "words": [
+        {
+          "word": "Possible",
+          "pos": "adjective",
+          "meaning": "có thể, có khả năng",
+          "ipa": "/ˈpɒsɪbəl/",
+          "root": "possible"
+        },
+        {
+          "word": "effects",
+          "pos": "noun",
+          "meaning": "ảnh hưởng, tác động",
+          "ipa": "/ɪˈfekts/",
+          "root": "effect"
+        },
+        {
+          "word": ":",
+          "pos": "punctuation",
+          "meaning": "dấu hai chấm",
+          "ipa": "/ˈkəʊlən/"
+        },
+        {
+          "word": "a",
+          "pos": "letter",
+          "meaning": "a (chữ cái)",
+          "ipa": "/eɪ/"
+        }
+      ],
+      "phrases": [
+        {
+          "phrase": "Possible effects",
+          "meaning": "Những ảnh hưởng có thể xảy ra"
+        }
+      ],
+      "progressive": [
+        {
+          "english": "Possible",
+          "vietnamese": "Có thể"
+        },
+        {
+          "english": "Possible effects",
+          "vietnamese": "Những ảnh hưởng"
+        },
+        {
+          "english": "Possible effects:",
+          "vietnamese": "Những ảnh hưởng có thể xảy ra:"
+        },
+        {
+          "english": "Possible effects: \na.",
+          "vietnamese": "Những ảnh hưởng có thể xảy ra: \na."
+        }
+      ],
+      "grammar": "Câu này là một tiêu đề hoặc một phần của một danh sách. Cấu trúc ngữ pháp bao gồm:\n- **Chủ ngữ (ngầm hiểu):** Câu này không có chủ ngữ rõ ràng. Nó thường được dùng để giới thiệu một danh sách các ảnh hưởng.\n- **Vị ngữ (ngầm hiểu):** Vị ngữ là 'are' (là) hoặc 'include' (bao gồm), nhưng không được viết ra.\n- **Dấu hai chấm:** Dấu hai chấm được dùng để giới thiệu một danh sách.\n- **'a':** Chữ 'a' ở đây là một phần tử trong danh sách, thường được dùng để đánh dấu các mục trong danh sách.",
+      "metadata": {
+        "sourceFile": "g11/grade-11-unit-5-speaking.md",
+        "timestamp": "2025-08-31T03:36:01.580Z",
+        "usageCount": 1,
+        "lastUsed": "2025-08-31T03:36:01.580Z"
+      }
+    },
+    "121b0c1b0a33ac045c34ee9fa08c21a8": {
+      "sentence": "When eating, these animals produce a lot of methane.",
+      "translation": "Khi ăn, những động vật này thải ra rất nhiều khí methane.",
+      "words": [
+        {
+          "word": "When",
+          "pos": "conjunction",
+          "meaning": "Khi",
+          "ipa": "/wen/"
+        },
+        {
+          "word": "eating",
+          "pos": "verb (gerund)",
+          "meaning": "ăn",
+          "ipa": "/ˈiːtɪŋ/",
+          "root": "eat"
+        },
+        {
+          "word": ",",
+          "pos": "punctuation",
+          "meaning": ",",
+          "ipa": "/,/"
+        },
+        {
+          "word": "these",
+          "pos": "determiner",
+          "meaning": "những",
+          "ipa": "/ðiːz/"
+        },
+        {
+          "word": "animals",
+          "pos": "noun",
+          "meaning": "động vật",
+          "ipa": "/ˈænɪməlz/",
+          "root": "animal"
+        },
+        {
+          "word": "produce",
+          "pos": "verb",
+          "meaning": "thải ra, sản xuất",
+          "ipa": "/prəˈdjuːs/"
+        },
+        {
+          "word": "a",
+          "pos": "determiner",
+          "meaning": "một",
+          "ipa": "/ə/"
+        },
+        {
+          "word": "lot",
+          "pos": "noun",
+          "meaning": "nhiều",
+          "ipa": "/lɒt/"
+        },
+        {
+          "word": "of",
+          "pos": "preposition",
+          "meaning": "của",
+          "ipa": "/ɒv/"
+        },
+        {
+          "word": "methane",
+          "pos": "noun",
+          "meaning": "khí methane",
+          "ipa": "/ˈmeθeɪn/"
+        }
+      ],
+      "phrases": [
+        {
+          "phrase": "When eating",
+          "meaning": "Khi ăn"
+        },
+        {
+          "phrase": "these animals",
+          "meaning": "những động vật này"
+        },
+        {
+          "phrase": "produce a lot of methane",
+          "meaning": "thải ra rất nhiều khí methane"
+        },
+        {
+          "phrase": "a lot of methane",
+          "meaning": "rất nhiều khí methane"
+        }
+      ],
+      "progressive": [
+        {
+          "english": "When",
+          "vietnamese": "Khi"
+        },
+        {
+          "english": "When eating",
+          "vietnamese": "Khi ăn"
+        },
+        {
+          "english": "When eating, these animals",
+          "vietnamese": "Khi ăn, những động vật này"
+        },
+        {
+          "english": "When eating, these animals produce",
+          "vietnamese": "Khi ăn, những động vật này thải ra"
+        },
+        {
+          "english": "When eating, these animals produce a lot of",
+          "vietnamese": "Khi ăn, những động vật này thải ra rất nhiều"
+        },
+        {
+          "english": "When eating, these animals produce a lot of methane.",
+          "vietnamese": "Khi ăn, những động vật này thải ra rất nhiều khí methane."
+        }
+      ],
+      "grammar": "Câu này là một câu ghép, bao gồm một mệnh đề trạng ngữ chỉ thời gian (When eating) và một mệnh đề chính (these animals produce a lot of methane). \n\n*   **Mệnh đề trạng ngữ:** 'When eating' - Đây là một mệnh đề trạng ngữ rút gọn, thể hiện hành động xảy ra đồng thời với hành động trong mệnh đề chính. Chủ ngữ của mệnh đề này (ngầm hiểu là 'these animals') giống với chủ ngữ của mệnh đề chính. Động từ 'eating' ở dạng V-ing (gerund) vì chủ ngữ đã được xác định.\n*   **Mệnh đề chính:** 'these animals produce a lot of methane' - Chủ ngữ là 'these animals' (những động vật này). Vị ngữ là 'produce a lot of methane' (thải ra rất nhiều khí methane). 'Produce' là động từ chính. 'A lot of methane' là cụm danh từ đóng vai trò tân ngữ, chỉ lượng khí methane được thải ra.",
+      "metadata": {
+        "sourceFile": "g11/grade-11-unit-5-speaking.md",
+        "timestamp": "2025-08-31T03:36:11.821Z",
+        "usageCount": 2,
+        "lastUsed": "2025-08-31T03:52:07.934Z"
+      }
+    },
+    "06ab62098971ca408d6d07b6f4aa4770": {
+      "sentence": "Carbon from fossil fuels combines with oxygen in the air to form large amounts of CO2.",
+      "translation": "Carbon từ nhiên liệu hóa thạch kết hợp với oxy trong không khí để tạo thành một lượng lớn CO2.",
+      "words": [
+        {
+          "word": "Carbon",
+          "pos": "noun",
+          "meaning": "Carbon",
+          "ipa": "/ˈkɑːrbən/",
+          "root": "carbon"
+        },
+        {
+          "word": "from",
+          "pos": "preposition",
+          "meaning": "từ",
+          "ipa": "/frʌm/"
+        },
+        {
+          "word": "fossil",
+          "pos": "adjective",
+          "meaning": "hóa thạch",
+          "ipa": "/ˈfɒsl/",
+          "root": "fossil"
+        },
+        {
+          "word": "fuels",
+          "pos": "noun",
+          "meaning": "nhiên liệu",
+          "ipa": "/ˈfjuːəlz/",
+          "root": "fuel"
+        },
+        {
+          "word": "combines",
+          "pos": "verb",
+          "meaning": "kết hợp",
+          "ipa": "/kəmˈbaɪnz/",
+          "root": "combine"
+        },
+        {
+          "word": "with",
+          "pos": "preposition",
+          "meaning": "với",
+          "ipa": "/wɪθ/"
+        },
+        {
+          "word": "oxygen",
+          "pos": "noun",
+          "meaning": "oxy",
+          "ipa": "/ˈɒksɪdʒən/",
+          "root": "oxygen"
+        },
+        {
+          "word": "in",
+          "pos": "preposition",
+          "meaning": "trong",
+          "ipa": "/ɪn/"
+        },
+        {
+          "word": "the",
+          "pos": "determiner",
+          "meaning": "the",
+          "ipa": "/ðə/"
+        },
+        {
+          "word": "air",
+          "pos": "noun",
+          "meaning": "không khí",
+          "ipa": "/eər/",
+          "root": "air"
+        },
+        {
+          "word": "to",
+          "pos": "preposition",
+          "meaning": "để",
+          "ipa": "/tuː/"
+        },
+        {
+          "word": "form",
+          "pos": "verb",
+          "meaning": "tạo thành",
+          "ipa": "/fɔːrm/",
+          "root": "form"
+        },
+        {
+          "word": "large",
+          "pos": "adjective",
+          "meaning": "lớn",
+          "ipa": "/lɑːrdʒ/",
+          "root": "large"
+        },
+        {
+          "word": "amounts",
+          "pos": "noun",
+          "meaning": "lượng",
+          "ipa": "/əˈmaʊnts/",
+          "root": "amount"
+        },
+        {
+          "word": "of",
+          "pos": "preposition",
+          "meaning": "của",
+          "ipa": "/əv/"
+        },
+        {
+          "word": "CO2",
+          "pos": "noun",
+          "meaning": "CO2",
+          "ipa": "/ˌsiːˈəʊ tuː/"
+        }
+      ],
+      "phrases": [
+        {
+          "phrase": "from fossil fuels",
+          "meaning": "từ nhiên liệu hóa thạch"
+        },
+        {
+          "phrase": "combines with oxygen",
+          "meaning": "kết hợp với oxy"
+        },
+        {
+          "phrase": "in the air",
+          "meaning": "trong không khí"
+        },
+        {
+          "phrase": "to form large amounts of CO2",
+          "meaning": "để tạo thành một lượng lớn CO2"
+        }
+      ],
+      "progressive": [
+        {
+          "english": "Carbon",
+          "vietnamese": "Carbon"
+        },
+        {
+          "english": "Carbon from fossil fuels",
+          "vietnamese": "Carbon từ nhiên liệu hóa thạch"
+        },
+        {
+          "english": "Carbon from fossil fuels combines",
+          "vietnamese": "Carbon từ nhiên liệu hóa thạch kết hợp"
+        },
+        {
+          "english": "Carbon from fossil fuels combines with oxygen",
+          "vietnamese": "Carbon từ nhiên liệu hóa thạch kết hợp với oxy"
+        },
+        {
+          "english": "Carbon from fossil fuels combines with oxygen in the air",
+          "vietnamese": "Carbon từ nhiên liệu hóa thạch kết hợp với oxy trong không khí"
+        },
+        {
+          "english": "Carbon from fossil fuels combines with oxygen in the air to form",
+          "vietnamese": "Carbon từ nhiên liệu hóa thạch kết hợp với oxy trong không khí để tạo thành"
+        },
+        {
+          "english": "Carbon from fossil fuels combines with oxygen in the air to form large amounts",
+          "vietnamese": "Carbon từ nhiên liệu hóa thạch kết hợp với oxy trong không khí để tạo thành một lượng lớn"
+        },
+        {
+          "english": "Carbon from fossil fuels combines with oxygen in the air to form large amounts of CO2",
+          "vietnamese": "Carbon từ nhiên liệu hóa thạch kết hợp với oxy trong không khí để tạo thành một lượng lớn CO2"
+        }
+      ],
+      "grammar": "Câu này có cấu trúc chủ ngữ - vị ngữ - tân ngữ. \n*   **Chủ ngữ:** Carbon (Carbon)\n*   **Vị ngữ:** combines (kết hợp)\n*   **Cụm giới từ bổ nghĩa cho chủ ngữ:** from fossil fuels (từ nhiên liệu hóa thạch)\n*   **Tân ngữ:** oxygen (oxy)\n*   **Cụm giới từ bổ nghĩa cho vị ngữ:** with oxygen (với oxy)\n*   **Cụm giới từ bổ nghĩa cho oxygen:** in the air (trong không khí)\n*   **Mệnh đề trạng ngữ chỉ mục đích:** to form large amounts of CO2 (để tạo thành một lượng lớn CO2). 'to form' là động từ nguyên mẫu chỉ mục đích.",
+      "metadata": {
+        "sourceFile": "g11/grade-11-unit-5-speaking.md",
+        "timestamp": "2025-08-31T03:52:26.363Z",
+        "usageCount": 2,
+        "lastUsed": "2025-08-31T04:24:02.126Z"
+      }
+    },
+    "07623a75d8952962af631f6be333b6d1": {
+      "sentence": "Forests are cut down to make space for farm animals.",
+      "translation": "Rừng bị chặt phá để tạo không gian cho vật nuôi.",
+      "words": [
+        {
+          "word": "Forests",
+          "pos": "noun",
+          "meaning": "Rừng",
+          "ipa": "/ˈfɒrɪsts/",
+          "root": "forest"
+        },
+        {
+          "word": "are",
+          "pos": "verb",
+          "meaning": "thì, là, bị (trợ động từ của thể bị động)",
+          "ipa": "/ɑːr/"
+        },
+        {
+          "word": "cut",
+          "pos": "verb",
+          "meaning": "chặt, đốn",
+          "ipa": "/kʌt/",
+          "root": "cut"
+        },
+        {
+          "word": "down",
+          "pos": "adverb",
+          "meaning": "xuống, đổ",
+          "ipa": "/daʊn/"
+        },
+        {
+          "word": "to",
+          "pos": "preposition",
+          "meaning": "để, cho",
+          "ipa": "/tuː/"
+        },
+        {
+          "word": "make",
+          "pos": "verb",
+          "meaning": "làm, tạo",
+          "ipa": "/meɪk/",
+          "root": "make"
+        },
+        {
+          "word": "space",
+          "pos": "noun",
+          "meaning": "không gian",
+          "ipa": "/speɪs/",
+          "root": "space"
+        },
+        {
+          "word": "for",
+          "pos": "preposition",
+          "meaning": "cho",
+          "ipa": "/fɔːr/"
+        },
+        {
+          "word": "farm",
+          "pos": "adjective",
+          "meaning": "thuộc về nông trại",
+          "ipa": "/fɑːrm/",
+          "root": "farm"
+        },
+        {
+          "word": "animals",
+          "pos": "noun",
+          "meaning": "động vật",
+          "ipa": "/ˈænɪməlz/",
+          "root": "animal"
+        }
+      ],
+      "phrases": [
+        {
+          "phrase": "cut down",
+          "meaning": "chặt phá, đốn hạ"
+        },
+        {
+          "phrase": "to make space",
+          "meaning": "để tạo không gian"
+        },
+        {
+          "phrase": "for farm animals",
+          "meaning": "cho vật nuôi"
+        }
+      ],
+      "progressive": [
+        {
+          "english": "Forests",
+          "vietnamese": "Rừng"
+        },
+        {
+          "english": "Forests are",
+          "vietnamese": "Rừng bị"
+        },
+        {
+          "english": "Forests are cut",
+          "vietnamese": "Rừng bị chặt"
+        },
+        {
+          "english": "Forests are cut down",
+          "vietnamese": "Rừng bị chặt phá"
+        },
+        {
+          "english": "Forests are cut down to",
+          "vietnamese": "Rừng bị chặt phá để"
+        },
+        {
+          "english": "Forests are cut down to make",
+          "vietnamese": "Rừng bị chặt phá để tạo"
+        },
+        {
+          "english": "Forests are cut down to make space",
+          "vietnamese": "Rừng bị chặt phá để tạo không gian"
+        },
+        {
+          "english": "Forests are cut down to make space for",
+          "vietnamese": "Rừng bị chặt phá để tạo không gian cho"
+        },
+        {
+          "english": "Forests are cut down to make space for farm animals",
+          "vietnamese": "Rừng bị chặt phá để tạo không gian cho vật nuôi"
+        }
+      ],
+      "grammar": "Câu này là một câu ghép, trong đó mệnh đề chính là \"Forests are cut down\" (Rừng bị chặt phá). Đây là một câu ở thể bị động (passive voice) vì chủ ngữ \"Forests\" (rừng) chịu tác động của hành động \"cut down\" (chặt phá). Cụm từ \"to make space for farm animals\" (để tạo không gian cho vật nuôi) là một cụm từ chỉ mục đích, giải thích lý do tại sao rừng bị chặt phá. Cấu trúc ngữ pháp chi tiết:\n\n*   **Chủ ngữ:** Forests (danh từ số nhiều)\n*   **Vị ngữ:** are cut down (động từ ở thể bị động)\n    *   are: trợ động từ của thì hiện tại đơn, thể bị động\n    *   cut down: động từ chính (quá khứ phân từ của cut + giới từ down)\n*   **Trạng ngữ chỉ mục đích:** to make space for farm animals\n    *   to make: động từ nguyên mẫu có \"to\", chỉ mục đích\n    *   space: tân ngữ của make\n    *   for farm animals: cụm giới từ, bổ nghĩa cho space, chỉ đối tượng được tạo không gian cho",
+      "metadata": {
+        "sourceFile": "g11/grade-11-unit-5-speaking.md",
+        "timestamp": "2025-08-31T04:24:11.853Z",
+        "usageCount": 1,
+        "lastUsed": "2025-08-31T04:24:11.853Z"
+      }
+    }
+  },
+  "metadata": {
+    "createdAt": "2025-08-31T03:33:32.800Z",
+    "updatedAt": "2025-08-31T04:24:11.854Z"
+  }
+}

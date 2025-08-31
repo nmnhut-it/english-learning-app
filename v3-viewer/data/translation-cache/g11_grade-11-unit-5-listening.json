@@ -1,0 +1,218 @@
+{
+  "sentences": {
+    "44b93f911660f15487ed2b9961227235": {
+      "sentence": "Thông tin: In addition, when black carbon falls onto ice or snow, it warms the surface and increases the speed of melting.",
+      "translation": "Ngoài ra, khi muội than rơi xuống băng hoặc tuyết, nó làm ấm bề mặt và làm tăng tốc độ tan chảy.",
+      "words": [
+        {
+          "word": "In",
+          "pos": "preposition",
+          "meaning": "Trong, ở",
+          "ipa": "/ɪn/"
+        },
+        {
+          "word": "addition",
+          "pos": "noun",
+          "meaning": "Sự thêm vào, sự bổ sung",
+          "ipa": "/əˈdɪʃn/",
+          "root": "add"
+        },
+        {
+          "word": "when",
+          "pos": "conjunction",
+          "meaning": "Khi",
+          "ipa": "/wɛn/"
+        },
+        {
+          "word": "black",
+          "pos": "adjective",
+          "meaning": "Đen",
+          "ipa": "/blæk/"
+        },
+        {
+          "word": "carbon",
+          "pos": "noun",
+          "meaning": "Muội than, các bon",
+          "ipa": "/ˈkɑːrbən/"
+        },
+        {
+          "word": "falls",
+          "pos": "verb",
+          "meaning": "Rơi",
+          "ipa": "/fɔːlz/",
+          "root": "fall"
+        },
+        {
+          "word": "onto",
+          "pos": "preposition",
+          "meaning": "Lên trên, vào",
+          "ipa": "/ˈɒntuː/"
+        },
+        {
+          "word": "ice",
+          "pos": "noun",
+          "meaning": "Băng",
+          "ipa": "/aɪs/"
+        },
+        {
+          "word": "or",
+          "pos": "conjunction",
+          "meaning": "Hoặc",
+          "ipa": "/ɔːr/"
+        },
+        {
+          "word": "snow",
+          "pos": "noun",
+          "meaning": "Tuyết",
+          "ipa": "/snoʊ/"
+        },
+        {
+          "word": "it",
+          "pos": "pronoun",
+          "meaning": "Nó",
+          "ipa": "/ɪt/"
+        },
+        {
+          "word": "warms",
+          "pos": "verb",
+          "meaning": "Làm ấm",
+          "ipa": "/wɔːrmz/",
+          "root": "warm"
+        },
+        {
+          "word": "the",
+          "pos": "determiner",
+          "meaning": "Cái, những",
+          "ipa": "/ðə/"
+        },
+        {
+          "word": "surface",
+          "pos": "noun",
+          "meaning": "Bề mặt",
+          "ipa": "/ˈsɜːrfɪs/"
+        },
+        {
+          "word": "and",
+          "pos": "conjunction",
+          "meaning": "Và",
+          "ipa": "/ænd/"
+        },
+        {
+          "word": "increases",
+          "pos": "verb",
+          "meaning": "Tăng lên",
+          "ipa": "/ɪnˈkriːsɪz/",
+          "root": "increase"
+        },
+        {
+          "word": "the",
+          "pos": "determiner",
+          "meaning": "Cái, những",
+          "ipa": "/ðə/"
+        },
+        {
+          "word": "speed",
+          "pos": "noun",
+          "meaning": "Tốc độ",
+          "ipa": "/spiːd/"
+        },
+        {
+          "word": "of",
+          "pos": "preposition",
+          "meaning": "Của",
+          "ipa": "/əv/"
+        },
+        {
+          "word": "melting",
+          "pos": "noun",
+          "meaning": "Sự tan chảy",
+          "ipa": "/ˈmɛltɪŋ/",
+          "root": "melt"
+        }
+      ],
+      "phrases": [
+        {
+          "phrase": "In addition",
+          "meaning": "Ngoài ra"
+        },
+        {
+          "phrase": "black carbon",
+          "meaning": "Muội than"
+        },
+        {
+          "phrase": "falls onto ice or snow",
+          "meaning": "rơi xuống băng hoặc tuyết"
+        },
+        {
+          "phrase": "warms the surface",
+          "meaning": "làm ấm bề mặt"
+        },
+        {
+          "phrase": "increases the speed of melting",
+          "meaning": "làm tăng tốc độ tan chảy"
+        }
+      ],
+      "progressive": [
+        {
+          "english": "In",
+          "vietnamese": "Trong, ở"
+        },
+        {
+          "english": "In addition",
+          "vietnamese": "Ngoài ra"
+        },
+        {
+          "english": "In addition, when",
+          "vietnamese": "Ngoài ra, khi"
+        },
+        {
+          "english": "In addition, when black carbon",
+          "vietnamese": "Ngoài ra, khi muội than"
+        },
+        {
+          "english": "In addition, when black carbon falls",
+          "vietnamese": "Ngoài ra, khi muội than rơi"
+        },
+        {
+          "english": "In addition, when black carbon falls onto ice or snow",
+          "vietnamese": "Ngoài ra, khi muội than rơi xuống băng hoặc tuyết"
+        },
+        {
+          "english": "In addition, when black carbon falls onto ice or snow, it",
+          "vietnamese": "Ngoài ra, khi muội than rơi xuống băng hoặc tuyết, nó"
+        },
+        {
+          "english": "In addition, when black carbon falls onto ice or snow, it warms",
+          "vietnamese": "Ngoài ra, khi muội than rơi xuống băng hoặc tuyết, nó làm ấm"
+        },
+        {
+          "english": "In addition, when black carbon falls onto ice or snow, it warms the surface",
+          "vietnamese": "Ngoài ra, khi muội than rơi xuống băng hoặc tuyết, nó làm ấm bề mặt"
+        },
+        {
+          "english": "In addition, when black carbon falls onto ice or snow, it warms the surface and",
+          "vietnamese": "Ngoài ra, khi muội than rơi xuống băng hoặc tuyết, nó làm ấm bề mặt và"
+        },
+        {
+          "english": "In addition, when black carbon falls onto ice or snow, it warms the surface and increases",
+          "vietnamese": "Ngoài ra, khi muội than rơi xuống băng hoặc tuyết, nó làm ấm bề mặt và làm tăng"
+        },
+        {
+          "english": "In addition, when black carbon falls onto ice or snow, it warms the surface and increases the speed of melting",
+          "vietnamese": "Ngoài ra, khi muội than rơi xuống băng hoặc tuyết, nó làm ấm bề mặt và làm tăng tốc độ tan chảy"
+        }
+      ],
+      "grammar": "Câu này là một câu ghép, gồm hai mệnh đề chính được nối với nhau bằng liên từ 'and'. Mệnh đề thứ nhất là 'In addition, it warms the surface'. Mệnh đề thứ hai là 'it increases the speed of melting'. Mệnh đề 'when black carbon falls onto ice or snow' là một mệnh đề trạng ngữ chỉ thời gian, bổ nghĩa cho mệnh đề chính. Chủ ngữ của cả hai mệnh đề chính là 'it' (đại diện cho 'black carbon'). Động từ chính trong mệnh đề thứ nhất là 'warms', trong mệnh đề thứ hai là 'increases'. Tân ngữ của 'warms' là 'the surface', và tân ngữ của 'increases' là 'the speed of melting'. Cấu trúc câu tuân theo công thức: Trạng ngữ chỉ thời gian + Chủ ngữ + Động từ + Tân ngữ + Liên từ + Chủ ngữ + Động từ + Tân ngữ.",
+      "metadata": {
+        "sourceFile": "g11/grade-11-unit-5-listening.md",
+        "timestamp": "2025-08-31T04:15:10.025Z",
+        "usageCount": 1,
+        "lastUsed": "2025-08-31T04:15:10.025Z"
+      }
+    }
+  },
+  "metadata": {
+    "createdAt": "2025-08-31T04:15:10.025Z",
+    "updatedAt": "2025-08-31T04:15:10.025Z"
+  }
+}

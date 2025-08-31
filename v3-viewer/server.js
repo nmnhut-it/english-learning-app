@@ -4,6 +4,7 @@ const path = require('path');
 const { marked } = require('marked');
 const matter = require('gray-matter');
 const crypto = require('crypto');
+const os = require('os');
 
 const app = express();
 const PORT = process.env.PORT || 3005;
@@ -23,6 +24,36 @@ const MARKDOWN_DIR = path.join(__dirname, '../markdown-files');
 
 // Translation cache directory 
 const CACHE_DIR = path.join(__dirname, 'data', 'translation-cache');
+
+// Network IP detection
+function getLocalNetworkIP() {
+  const networkInterfaces = os.networkInterfaces();
+  
+  for (const interfaceName in networkInterfaces) {
+    const addresses = networkInterfaces[interfaceName];
+    
+    for (const address of addresses) {
+      // Skip loopback, non-IPv4, and internal addresses
+      if (!address.internal && address.family === 'IPv4') {
+        // Prefer 192.168.x.x or 10.x.x.x networks
+        if (address.address.startsWith('192.168.') || 
+            address.address.startsWith('10.') ||
+            address.address.startsWith('172.')) {
+          return address.address;
+        }
+      }
+    }
+  }
+  
+  // Fallback to localhost
+  return 'localhost';
+}
+
+// Global network info
+const LOCAL_IP = getLocalNetworkIP();
+const SERVER_URL = `http://${LOCAL_IP}:${PORT}`;
+
+console.log(`📡 Server will be accessible at: ${SERVER_URL}`);
 
 // File-Based Translation Cache Management
 async function ensureCacheDirectory() {
@@ -68,6 +99,83 @@ function hashSentence(sentence) {
   return crypto.createHash('md5').update(normalized).digest('hex');
 }
 
+function generateUUID() {
+  return crypto.randomUUID();
+}
+
+function generateShortDescription(sentence, translationData) {
+  // Generate a concise description based on sentence content
+  const words = sentence.trim().split(' ');
+  
+  // Extract key words (nouns, verbs, adjectives) if available from translationData
+  let keyWords = [];
+  if (translationData.words) {
+    keyWords = translationData.words
+      .filter(word => ['noun', 'verb', 'adjective'].includes(word.pos?.toLowerCase()))
+      .map(word => word.word)
+      .slice(0, 3); // Take first 3 key words
+  }
+  
+  // Fallback to first few words if no key words detected
+  if (keyWords.length === 0) {
+    keyWords = words.slice(0, 3);
+  }
+  
+  // Create description
+  const description = keyWords.join(' ');
+  
+  // Add context based on sentence structure
+  if (sentence.includes('?')) {
+    return `Question: ${description}`;
+  } else if (sentence.includes('!')) {
+    return `Exclamation: ${description}`;
+  } else if (translationData.grammar && translationData.grammar.includes('mệnh đề quan hệ')) {
+    return `Relative clause: ${description}`;
+  } else if (translationData.grammar && translationData.grammar.includes('đối thoại')) {
+    return `Dialogue: ${description}`;
+  } else {
+    return description.charAt(0).toUpperCase() + description.slice(1);
+  }
+}
+
+// Global UUID to translation mapping for quick lookup
+let uuidToTranslationMap = new Map();
+
+async function loadUUIDMap() {
+  try {
+    await ensureCacheDirectory();
+    const cacheFiles = await fs.readdir(CACHE_DIR);
+    
+    uuidToTranslationMap.clear();
+    
+    for (const cacheFileName of cacheFiles) {
+      if (cacheFileName.endsWith('.json')) {
+        try {
+          const cacheFilePath = path.join(CACHE_DIR, cacheFileName);
+          const fileCache = JSON.parse(await fs.readFile(cacheFilePath, 'utf-8'));
+          const sourceFile = cacheFileName.replace(/\.json$/, '').replace(/_/g, '/') + '.md';
+          
+          Object.entries(fileCache.sentences || {}).forEach(([hash, translation]) => {
+            if (translation.uuid) {
+              uuidToTranslationMap.set(translation.uuid, {
+                ...translation,
+                sourceFile: sourceFile,
+                hash: hash
+              });
+            }
+          });
+        } catch (error) {
+          console.error(`Error loading UUID map from ${cacheFileName}:`, error);
+        }
+      }
+    }
+    
+    console.log(`📋 Loaded ${uuidToTranslationMap.size} translations into UUID map`);
+  } catch (error) {
+    console.error('Failed to load UUID map:', error);
+  }
+}
+
 async function getCachedTranslation(sentence, sourceFile) {
   const fileCache = await loadFileCache(sourceFile);
   const hash = hashSentence(sentence);
@@ -89,18 +197,35 @@ async function cacheTranslation(sentence, translationData, sourceFile) {
   const fileCache = await loadFileCache(sourceFile);
   const hash = hashSentence(sentence);
   
+  // Generate UUID and description for this translation
+  const uuid = generateUUID();
+  const shortDesc = generateShortDescription(sentence, translationData);
+  
   fileCache.sentences[hash] = {
     ...translationData,
+    uuid: uuid,
+    shortDesc: shortDesc,
     metadata: {
       sourceFile: sourceFile,
       timestamp: new Date().toISOString(),
       usageCount: 1,
-      lastUsed: new Date().toISOString()
+      lastUsed: new Date().toISOString(),
+      shareableLink: `/translation/${uuid}`
     }
   };
   
   await saveFileCache(sourceFile, fileCache);
-  console.log(`💾 Cached translation in ${sourceFile}: "${sentence.substring(0, 30)}..."`);
+  
+  // Update UUID map
+  uuidToTranslationMap.set(uuid, {
+    ...fileCache.sentences[hash],
+    sourceFile: sourceFile,
+    hash: hash
+  });
+  
+  console.log(`💾 Cached translation in ${sourceFile}: "${sentence.substring(0, 30)}..." (UUID: ${uuid.substring(0, 8)})`);
+  
+  return { uuid, shortDesc, shareableLink: `/translation/${uuid}` };
 }
 
 async function getCacheStats() {
@@ -774,6 +899,7 @@ app.post('/api/translate-sentence', async (req, res) => {
       return res.json({ 
         success: true,
         ...cachedResult,
+        shareableLink: cachedResult.metadata.shareableLink || `/translation/${cachedResult.uuid}`,
         isMobileResponse: true,
         fromCache: true,
         debug: {
@@ -781,7 +907,8 @@ app.post('/api/translate-sentence', async (req, res) => {
           sentenceLength: trimmedSentence.length,
           cacheHit: true,
           usageCount: cachedResult.metadata.usageCount,
-          cacheFile: getFileCachePath(sourceFile)
+          cacheFile: getFileCachePath(sourceFile),
+          uuid: cachedResult.uuid
         }
       });
     }
@@ -843,19 +970,23 @@ CHỈ trả về JSON object, không thêm text nào khác.`;
     }
     
     // Cache the result for future use
-    await cacheTranslation(trimmedSentence, parsedResult, sourceFile);
+    const cacheInfo = await cacheTranslation(trimmedSentence, parsedResult, sourceFile);
     
     console.log(`✅ Fresh translation completed and cached`);
     
     res.json({ 
       success: true,
       ...parsedResult,
+      uuid: cacheInfo.uuid,
+      shortDesc: cacheInfo.shortDesc,
+      shareableLink: cacheInfo.shareableLink,
       isMobileResponse: true,
       fromCache: false,
       debug: {
         sourceFile: sourceFile,
         sentenceLength: trimmedSentence.length,
-        cacheHit: false
+        cacheHit: false,
+        uuid: cacheInfo.uuid
       }
     });
 
@@ -1080,6 +1211,134 @@ app.get('/api/cache/popular', async (req, res) => {
   } catch (error) {
     console.error('Popular cache error:', error);
     res.status(500).json({ error: 'Failed to get popular translations' });
+  }
+});
+
+// Network info endpoint
+app.get('/api/network-info', (req, res) => {
+  res.json({
+    localIP: LOCAL_IP,
+    serverURL: SERVER_URL,
+    port: PORT,
+    hostname: os.hostname()
+  });
+});
+
+// Initialize UUID map on startup
+loadUUIDMap();
+
+// Shareable translation endpoint
+app.get('/translation/:uuid', detectMobile, async (req, res) => {
+  try {
+    const uuid = req.params.uuid;
+    
+    // Refresh UUID map if empty
+    if (uuidToTranslationMap.size === 0) {
+      await loadUUIDMap();
+    }
+    
+    const translation = uuidToTranslationMap.get(uuid);
+    if (!translation) {
+      return res.status(404).send('Translation not found');
+    }
+
+    // Determine if mobile view should be used
+    const useMobile = (req.isMobile && !req.forceDesktop) || req.query.mobile === '1';
+    const templateName = useMobile ? 'translation-mobile' : 'translation-desktop';
+    
+    res.render(templateName, {
+      translation: translation,
+      title: `Translation: ${translation.shortDesc}`,
+      uuid: uuid,
+      isMobile: useMobile,
+      switchUrl: useMobile ? 
+        `/translation/${uuid}?desktop=1` : 
+        `/translation/${uuid}?mobile=1`
+    });
+  } catch (error) {
+    console.error('Translation view error:', error);
+    res.status(500).send('Error loading translation');
+  }
+});
+
+// Translation API endpoint for UUID
+app.get('/api/translation/:uuid', async (req, res) => {
+  try {
+    const uuid = req.params.uuid;
+    
+    // Refresh UUID map if empty
+    if (uuidToTranslationMap.size === 0) {
+      await loadUUIDMap();
+    }
+    
+    const translation = uuidToTranslationMap.get(uuid);
+    if (!translation) {
+      return res.status(404).json({ error: 'Translation not found' });
+    }
+
+    res.json({ 
+      success: true,
+      ...translation,
+      uuid: uuid
+    });
+  } catch (error) {
+    console.error('Translation API error:', error);
+    res.status(500).json({ error: 'Failed to get translation' });
+  }
+});
+
+// Translations browser endpoint
+app.get('/translations', detectMobile, async (req, res) => {
+  try {
+    // Refresh UUID map
+    await loadUUIDMap();
+    
+    const translations = Array.from(uuidToTranslationMap.values())
+      .sort((a, b) => new Date(b.metadata.lastUsed) - new Date(a.metadata.lastUsed));
+
+    // Determine if mobile view should be used
+    const useMobile = (req.isMobile && !req.forceDesktop) || req.query.mobile === '1';
+    const templateName = useMobile ? 'translations-mobile' : 'translations-desktop';
+    
+    res.render(templateName, {
+      translations: translations,
+      totalTranslations: translations.length,
+      isMobile: useMobile,
+      switchUrl: useMobile ? '/translations?desktop=1' : '/translations?mobile=1'
+    });
+  } catch (error) {
+    console.error('Translations browser error:', error);
+    res.status(500).send('Error loading translations');
+  }
+});
+
+// Browse translations API
+app.get('/api/translations/browse', async (req, res) => {
+  try {
+    // Refresh UUID map
+    await loadUUIDMap();
+    
+    const translations = Array.from(uuidToTranslationMap.values())
+      .map(t => ({
+        uuid: t.uuid,
+        shortDesc: t.shortDesc,
+        sentence: t.sentence.substring(0, 100) + (t.sentence.length > 100 ? '...' : ''),
+        translation: t.translation.substring(0, 100) + (t.translation.length > 100 ? '...' : ''),
+        sourceFile: t.sourceFile,
+        usageCount: t.metadata.usageCount,
+        lastUsed: t.metadata.lastUsed,
+        shareableLink: `/translation/${t.uuid}`
+      }))
+      .sort((a, b) => new Date(b.lastUsed) - new Date(a.lastUsed));
+
+    res.json({ 
+      success: true,
+      translations: translations,
+      total: translations.length
+    });
+  } catch (error) {
+    console.error('Browse translations API error:', error);
+    res.status(500).json({ error: 'Failed to browse translations' });
   }
 });
 
