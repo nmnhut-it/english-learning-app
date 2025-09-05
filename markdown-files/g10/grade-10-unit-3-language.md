@@ -123,6 +123,12 @@
 
 ### Compound sentences (Câu ghép)
 
+Câu ghép gồm 2 hoặc nhiều mệnh đề không phụ thuộc được ghép lại bởi một liên từ kết hợp:
+- **and**: và
+- **or**: hoặc
+- **but**: nhưng
+- **so**: vì vậy
+
 Make compound sentences using the correct conjunctions in brackets.
 (Tạo câu ghép bằng cách sử dụng các liên từ đúng trong ngoặc.)
 
@@ -138,12 +144,6 @@ Make compound sentences using the correct conjunctions in brackets.
 4. The concert didn't happen. We stayed at home. (or / so)
    (Buổi hòa nhạc đã không diễn ra. Chúng tôi đã ở nhà.)
 
-**Phương pháp giải:**
-Câu ghép gồm 2 hoặc nhiều mệnh đề không phụ thuộc được ghép lại bởi một liên từ kết hợp:
-- **and**: và
-- **or**: hoặc
-- **but**: nhưng
-- **so**: vì vậy
 
 **Lời giải chi tiết:**
 1. **and** - I am a jazz fan, and my favourite style is from the late 1960s.
@@ -158,9 +158,15 @@ Câu ghép gồm 2 hoặc nhiều mệnh đề không phụ thuộc được gh�
 4. **so** - The concert didn't happen, so we stayed at home.
    (Buổi hòa nhạc đã không diễn ra, vì vậy chúng tôi ở nhà.)
 
-### To-infinitives and bare infinitives (Nguyên mẫu có To và nguyên mẫu)
+### To-infinitives and bare infinitives (Nguyên mẫu có To và nguyên mẫu không to)
 
-Complete the following sentences using the to-infinitive or bare infinitive of the verbs in brackets.
+- Một số động từ được theo sau bởi nguyên mẫu có to, như: decide, expect, plan, want, promise, agree, hope, hesitate, ask,...
+Ví dụ: He wants **to go** to school
+
+- Một số động từ được theo sau bởi nguyên mẫu (không to), như: make, let, hear, notice,...
+Ví dụ: He lets me **wait** here. 
+
+**Complete the following sentences using the to-infinitive or bare infinitive of the verbs in brackets.**
 (Hoàn thành các câu sau bằng cách sử dụng nguyên mẫu có to hoặc nguyên mẫu của các động từ trong ngoặc.)
 
 1. Her fans planned (send) _______ her a surprise present on her birthday.
@@ -168,9 +174,6 @@ Complete the following sentences using the to-infinitive or bare infinitive of t
 3. Due to the bad weather, the band decided (delay) _______ their live concert.
 4. Her parents won't let her (watch) _______ such TV shows.
 
-**Phương pháp giải:**
-- Một số động từ được theo sau bởi nguyên mẫu có to, như: decide, expect, plan, want, promise, agree, hope, hesitate, ask,...
-- Một số động từ được theo sau bởi nguyên mẫu (không to), như: make, let, hear, notice,...
 
 **Lời giải chi tiết:**
 1. **to send** - Her fans planned to send her a surprise present on her birthday.

@@ -292,101 +292,74 @@ class SimpleMobileTranslationManager {
         const modal = document.getElementById('mobile-translation-modal');
         if (!modal) return;
 
-        // Create detailed breakdown display
+        // Create compact breakdown display
         modal.querySelector('h3').textContent = '🔤 Sentence Translation';
         modal.querySelector('.mobile-modal-body').innerHTML = `
             <div class="mobile-sentence-breakdown">
-                <div class="mobile-breakdown-section">
-                    <h4>📝 English 
-                        <button class="mobile-pronounce-btn" onclick="simpleMobileTranslationManager.pronounce('${result.sentence.replace(/'/g, "\\'")}', 'en')" title="Pronounce English">
-                            🔊
-                        </button>
-                    </h4>
-                    <p class="mobile-original-text">${result.sentence}</p>
+                <!-- Main Translation -->
+                <div class="mobile-breakdown-section compact-main">
+                    <div class="compact-translation-pair">
+                        <div class="compact-english">
+                            <span class="compact-flag">📝</span>
+                            <span class="compact-text">${result.sentence}</span>
+                            <button class="compact-pronounce-btn" onclick="simpleMobileTranslationManager.pronounce('${result.sentence.replace(/'/g, "\\'")}', 'en')" title="🔊 Pronounce English">
+                                🔊
+                            </button>
+                        </div>
+                        <div class="compact-vietnamese">
+                            <span class="compact-flag">🇻🇳</span>
+                            <span class="compact-text">${result.translation}</span>
+                            <button class="compact-pronounce-btn" onclick="simpleMobileTranslationManager.pronounce('${result.translation.replace(/'/g, "\\'")}', 'vi')" title="🔊 Pronounce Vietnamese">
+                                🔊
+                            </button>
+                        </div>
+                    </div>
                 </div>
 
-                <div class="mobile-breakdown-section">
-                    <h4>🇻🇳 Vietnamese 
-                        <button class="mobile-pronounce-btn" onclick="simpleMobileTranslationManager.pronounce('${result.translation.replace(/'/g, "\\'")}', 'vi')" title="Pronounce Vietnamese">
-                            🔊
-                        </button>
-                    </h4>
-                    <p class="mobile-translation-text">${result.translation}</p>
-                </div>
-
-                <div class="mobile-breakdown-section collapsible">
-                    <h4 onclick="this.parentElement.classList.toggle('expanded')">
-                        📚 Word Analysis <span class="toggle-arrow">▼</span>
-                    </h4>
-                    <div class="mobile-breakdown-content">
+                <!-- Compact Word Analysis -->
+                <div class="mobile-breakdown-section compact-words expanded">
+                    <h4>📚 Key Words</h4>
+                    <div class="compact-words-grid">
                         ${result.words.map((word, index) => `
-                            <div class="mobile-word-item">
-                                <span class="word-number">${index + 1}.</span>
-                                <span class="word-text">${word.word}:</span>
-                                <button class="mobile-word-pronounce-btn" onclick="simpleMobileTranslationManager.pronounce('${word.word.replace(/'/g, "\\'")}', 'en')" title="Pronounce word">
-                                    🔊
-                                </button>
-                                <span class="word-pos">(${word.pos})</span>
-                                <span class="word-meaning">${word.meaning}</span>
-                                <span class="word-ipa">${word.ipa}</span>
-                                ${word.root ? `<span class="word-root">[root: ${word.root}]</span>` : ''}
+                            <div class="compact-word-item">
+                                <div class="compact-word-header">
+                                    <strong class="compact-word-text">${word.word}</strong>
+                                    <span class="compact-word-pos">(${word.pos})</span>
+                                    <button class="compact-word-speak" onclick="simpleMobileTranslationManager.pronounce('${word.word.replace(/'/g, "\\'")}', 'en')">🔊</button>
+                                </div>
+                                <div class="compact-word-details">
+                                    <span class="compact-word-meaning">${word.meaning}</span>
+                                    <span class="compact-word-ipa">${word.ipa}</span>
+                                </div>
                             </div>
                         `).join('')}
                     </div>
                 </div>
 
-                <div class="mobile-breakdown-section collapsible">
+                <!-- Meaning Chunks Analysis -->
+                ${result.chunks && result.chunks.length > 0 ? `
+                <div class="mobile-breakdown-section compact-chunks">
                     <h4 onclick="this.parentElement.classList.toggle('expanded')">
-                        🔗 Phrase Analysis <span class="toggle-arrow">▼</span>
+                        🧩 Meaning Chunks <span class="toggle-arrow">▼</span>
                     </h4>
                     <div class="mobile-breakdown-content">
-                        ${result.phrases.map((phrase, index) => `
-                            <div class="mobile-phrase-item">
-                                <span class="phrase-number">${index + 1}.</span>
-                                <span class="phrase-text">${phrase.phrase}:</span>
-                                <span class="phrase-meaning">${phrase.meaning}</span>
+                        ${result.chunks.map((chunk, index) => `
+                            <div class="compact-chunk-item">
+                                <span class="compact-chunk-text">"${chunk.chunk}"</span>
+                                <span class="compact-chunk-meaning">→ ${chunk.meaning}</span>
                             </div>
                         `).join('')}
                     </div>
                 </div>
-
-                <div class="mobile-breakdown-section collapsible">
-                    <h4 onclick="this.parentElement.classList.toggle('expanded')">
-                        ⚡ Progressive Translation <span class="toggle-arrow">▼</span>
-                    </h4>
-                    <div class="mobile-breakdown-content">
-                        ${result.progressive.map((step, index) => `
-                            <div class="mobile-progressive-item">
-                                <span class="prog-number">${index + 1}.</span>
-                                <span class="prog-english">${step.english}:</span>
-                                <button class="mobile-word-pronounce-btn" onclick="simpleMobileTranslationManager.pronounce('${step.english.replace(/'/g, "\\'")}', 'en')" title="Pronounce English">
-                                    🔊
-                                </button>
-                                <span class="prog-vietnamese">${step.vietnamese}</span>
-                                <button class="mobile-word-pronounce-btn" onclick="simpleMobileTranslationManager.pronounce('${step.vietnamese.replace(/'/g, "\\'")}', 'vi')" title="Pronounce Vietnamese">
-                                    🔊
-                                </button>
-                            </div>
-                        `).join('')}
-                    </div>
-                </div>
-
-                <div class="mobile-breakdown-section collapsible">
-                    <h4 onclick="this.parentElement.classList.toggle('expanded')">
-                        📚 Grammar Analysis <span class="toggle-arrow">▼</span>
-                    </h4>
-                    <div class="mobile-breakdown-content">
-                        <div class="mobile-grammar-text">${result.grammar}</div>
-                    </div>
-                </div>
+                ` : ''}
             </div>
 
             <div class="mobile-breakdown-actions">
-                <button onclick="simpleMobileTranslationManager.shareTranslation('${result.uuid}', '${result.shortDesc}')" class="mobile-action-btn">
-                    📤 Share Translation
+                <button onclick="simpleMobileTranslationManager.shareTranslation('${result.uuid}', '${result.shortDesc}')" class="mobile-action-btn primary">
+                    📤 Share
                 </button>
                 <button onclick="simpleMobileTranslationManager.copyNetworkLink('${result.uuid}', '${result.shortDesc}')" class="mobile-action-btn secondary">
-                    📋 Copy Network Link
+                    📋 Network Link
                 </button>
                 <button onclick="simpleMobileTranslationManager.hideSentenceBreakdown()" class="mobile-action-btn secondary">
                     Close

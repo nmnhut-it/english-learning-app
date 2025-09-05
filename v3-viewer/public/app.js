@@ -1,5 +1,136 @@
 // V3 Markdown Viewer JavaScript
 
+// Network Sharing Manager for PC
+class NetworkSharingManager {
+    constructor() {
+        this.networkInfo = null;
+        this.init();
+    }
+
+    async init() {
+        await this.loadNetworkInfo();
+        this.setupNetworkCopyButton();
+    }
+
+    async loadNetworkInfo() {
+        try {
+            const response = await fetch('/api/network-info');
+            this.networkInfo = await response.json();
+            console.log('Network info loaded for PC:', this.networkInfo);
+        } catch (error) {
+            console.error('Failed to load network info:', error);
+        }
+    }
+
+    setupNetworkCopyButton() {
+        const copyBtn = document.getElementById('copy-network-link');
+        if (copyBtn) {
+            copyBtn.addEventListener('click', () => {
+                this.copyCurrentLessonNetworkLink();
+            });
+        }
+    }
+
+    async copyCurrentLessonNetworkLink() {
+        if (!this.networkInfo) {
+            await this.loadNetworkInfo();
+        }
+
+        if (!this.networkInfo) {
+            this.showNotification('Network info not available', 'error');
+            return;
+        }
+
+        const currentPath = window.currentFile?.filepath || '';
+        const networkUrl = `${this.networkInfo.serverURL}/view/${currentPath}`;
+        const lessonTitle = window.currentFile?.title || 'English Lesson';
+
+        try {
+            if (navigator.clipboard) {
+                await navigator.clipboard.writeText(networkUrl);
+                this.showNotification(`📋 Network link copied! Share: ${this.networkInfo.localIP}:${this.networkInfo.port}`, 'success');
+            } else {
+                this.promptNetworkLink(networkUrl, lessonTitle);
+            }
+        } catch (error) {
+            console.error('Clipboard error:', error);
+            this.promptNetworkLink(networkUrl, lessonTitle);
+        }
+    }
+
+    promptNetworkLink(url, title) {
+        const message = `Lesson: ${title}\n\nNetwork Link:\n${url}\n\nShare this link with devices on your local network.`;
+        prompt(message, url);
+    }
+
+    showNotification(message, type = 'info', duration = 4000) {
+        // Create PC-style notification
+        const notification = document.createElement('div');
+        notification.className = `pc-notification pc-notification-${type}`;
+        notification.textContent = message;
+        
+        // Position at top-right
+        notification.style.cssText = `
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            background: ${type === 'success' ? '#10b981' : type === 'error' ? '#ef4444' : '#2563eb'};
+            color: white;
+            padding: 12px 20px;
+            border-radius: 8px;
+            z-index: 1000;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+            font-size: 14px;
+            max-width: 300px;
+            word-wrap: break-word;
+            opacity: 0;
+            transform: translateX(100%);
+            transition: all 0.3s ease;
+        `;
+
+        document.body.appendChild(notification);
+
+        // Animate in
+        setTimeout(() => {
+            notification.style.opacity = '1';
+            notification.style.transform = 'translateX(0)';
+        }, 100);
+
+        // Auto-hide
+        setTimeout(() => {
+            notification.style.opacity = '0';
+            notification.style.transform = 'translateX(100%)';
+            setTimeout(() => notification.remove(), 300);
+        }, duration);
+    }
+
+    async copyTranslationFileLink(filePath) {
+        if (!this.networkInfo) {
+            await this.loadNetworkInfo();
+        }
+
+        if (!this.networkInfo) {
+            this.showNotification('Network info not available', 'error');
+            return;
+        }
+
+        const networkUrl = `${this.networkInfo.serverURL}/view/${filePath}`;
+        const fileName = filePath.split('/').pop().replace('.md', '');
+
+        try {
+            if (navigator.clipboard) {
+                await navigator.clipboard.writeText(networkUrl);
+                this.showNotification(`📋 Translation file link copied! ${fileName}`, 'success');
+            } else {
+                prompt(`Translation file network link:\n${fileName}`, networkUrl);
+            }
+        } catch (error) {
+            console.error('Clipboard error:', error);
+            prompt(`Translation file network link:\n${fileName}`, networkUrl);
+        }
+    }
+}
+
 // Translation Manager
 class TranslationManager {
     constructor() {
@@ -261,6 +392,7 @@ class TranslationManager {
                         <div class="file-actions">
                             <button onclick="window.location.href='/view/${file.file}'" class="action-btn-sm" title="View">📄</button>
                             <button onclick="window.open('/view/${file.file}', '_blank')" class="action-btn-sm" title="Open in new tab">🔗</button>
+                            <button onclick="networkSharingManager.copyTranslationFileLink('${file.file}')" class="action-btn-sm" title="Copy network link">📋</button>
                         </div>
                     </div>
                 `;
@@ -287,6 +419,7 @@ class TranslationManager {
                         <div class="file-actions">
                             <button onclick="window.location.href='/view/${file.file}'" class="action-btn-sm" title="View">🔤</button>
                             <button onclick="window.open('/view/${file.file}', '_blank')" class="action-btn-sm" title="Open in new tab">🔗</button>
+                            <button onclick="networkSharingManager.copyTranslationFileLink('${file.file}')" class="action-btn-sm" title="Copy network link">📋</button>
                         </div>
                     </div>
                 `;
@@ -510,6 +643,7 @@ class SearchManager {
 const historyManager = new HistoryManager();
 const searchManager = new SearchManager();
 const translationManager = new TranslationManager();
+const networkSharingManager = new NetworkSharingManager();
 
 // Sidebar toggle functionality
 class SidebarManager {
@@ -749,6 +883,13 @@ document.addEventListener('keydown', function(e) {
     if (e.key === 't' && e.ctrlKey && !e.altKey && !e.shiftKey) {
         e.preventDefault();
         translationManager.openTranslationInNewTab();
+        return;
+    }
+    
+    // Copy network link (c)
+    if (e.key === 'c' && !e.ctrlKey && !e.altKey && !e.shiftKey) {
+        e.preventDefault();
+        networkSharingManager.copyCurrentLessonNetworkLink();
         return;
     }
     

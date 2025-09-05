@@ -25,9 +25,12 @@ const MARKDOWN_DIR = path.join(__dirname, '../markdown-files');
 // Translation cache directory 
 const CACHE_DIR = path.join(__dirname, 'data', 'translation-cache');
 
-// Network IP detection
+// Network IP detection with WiFi priority
 function getLocalNetworkIP() {
   const networkInterfaces = os.networkInterfaces();
+  
+  // Collect all valid IP addresses with priority scoring
+  const validIPs = [];
   
   for (const interfaceName in networkInterfaces) {
     const addresses = networkInterfaces[interfaceName];
@@ -35,17 +38,51 @@ function getLocalNetworkIP() {
     for (const address of addresses) {
       // Skip loopback, non-IPv4, and internal addresses
       if (!address.internal && address.family === 'IPv4') {
-        // Prefer 192.168.x.x or 10.x.x.x networks
-        if (address.address.startsWith('192.168.') || 
-            address.address.startsWith('10.') ||
-            address.address.startsWith('172.')) {
-          return address.address;
+        let priority = 0;
+        
+        // Highest priority: 192.168.x.x (typical home/office WiFi)
+        if (address.address.startsWith('192.168.')) {
+          priority = 100;
+          // Extra priority for common WiFi interface names
+          if (interfaceName.toLowerCase().includes('wi-fi') || 
+              interfaceName.toLowerCase().includes('wireless') ||
+              interfaceName.toLowerCase().includes('wlan')) {
+            priority = 150;
+          }
+        }
+        // Medium priority: 10.x.x.x networks
+        else if (address.address.startsWith('10.')) {
+          priority = 50;
+        }
+        // Lower priority: 172.16-31.x.x networks  
+        else if (address.address.match(/^172\.(1[6-9]|2[0-9]|3[0-1])\./)) {
+          priority = 30;
+        }
+        // Lowest priority: other private ranges
+        else if (!address.address.startsWith('169.254.')) { // Skip link-local
+          priority = 10;
+        }
+        
+        if (priority > 0) {
+          validIPs.push({
+            address: address.address,
+            interface: interfaceName,
+            priority: priority
+          });
         }
       }
     }
   }
   
-  // Fallback to localhost
+  // Sort by priority (highest first) and return best IP
+  if (validIPs.length > 0) {
+    validIPs.sort((a, b) => b.priority - a.priority);
+    const bestIP = validIPs[0];
+    console.log(`🌐 Selected IP: ${bestIP.address} (${bestIP.interface}, priority: ${bestIP.priority})`);
+    return bestIP.address;
+  }
+  
+  console.log('⚠️ No network IP found, using localhost');
   return 'localhost';
 }
 
@@ -107,32 +144,32 @@ function generateShortDescription(sentence, translationData) {
   // Generate a concise description based on sentence content
   const words = sentence.trim().split(' ');
   
-  // Extract key words (nouns, verbs, adjectives) if available from translationData
+  // Extract key words from our compact format
   let keyWords = [];
-  if (translationData.words) {
+  if (translationData.words && translationData.words.length > 0) {
     keyWords = translationData.words
-      .filter(word => ['noun', 'verb', 'adjective'].includes(word.pos?.toLowerCase()))
+      .filter(word => ['noun', 'verb', 'adj', 'adjective'].includes(word.pos?.toLowerCase()))
       .map(word => word.word)
       .slice(0, 3); // Take first 3 key words
   }
   
-  // Fallback to first few words if no key words detected
+  // Fallback to first chunk or first few words
   if (keyWords.length === 0) {
-    keyWords = words.slice(0, 3);
+    if (translationData.chunks && translationData.chunks.length > 0) {
+      keyWords = translationData.chunks[0].chunk.split(' ').slice(0, 3);
+    } else {
+      keyWords = words.slice(0, 3);
+    }
   }
   
   // Create description
   const description = keyWords.join(' ');
   
-  // Add context based on sentence structure
+  // Simple context based on sentence structure
   if (sentence.includes('?')) {
     return `Question: ${description}`;
   } else if (sentence.includes('!')) {
     return `Exclamation: ${description}`;
-  } else if (translationData.grammar && translationData.grammar.includes('mệnh đề quan hệ')) {
-    return `Relative clause: ${description}`;
-  } else if (translationData.grammar && translationData.grammar.includes('đối thoại')) {
-    return `Dialogue: ${description}`;
   } else {
     return description.charAt(0).toUpperCase() + description.slice(1);
   }
@@ -327,9 +364,9 @@ YÊU CẦU PHÂN TÍCH VÀ DỊCH TỰ ĐỘNG:
 <summary>📝 Word-by-Word Analysis</summary>
 
 \`\`\`
-1. word1: (part of speech) meaning1 /ipa1/ [root: base_form if needed]
-2. word2: (part of speech) meaning2 /ipa2/ [root: base_form if needed]
-3. word3: (part of speech) meaning3 /ipa3/
+1. word1: (pos) Vietnamese meaning /IPA/
+2. word2: (pos) Vietnamese meaning /IPA/
+3. word3: (pos) Vietnamese meaning /IPA/
 \`\`\`
 
 </details>
@@ -352,21 +389,13 @@ YÊU CẦU PHÂN TÍCH VÀ DỊCH TỰ ĐỘNG:
 
 **Vietnamese:** [Câu dịch tiếng Việt]
 
-**Word-by-Word Breakdown:**
-1. **từ1:** (part of speech) nghĩa1 /phiên-âm/ [root: base_form if needed]
-2. **từ2:** (part of speech) nghĩa2 /phiên-âm/ [root: base_form if needed]
+**Key Words:**
+1. **word1:** (pos) Vietnamese meaning /IPA/
+2. **word2:** (pos) Vietnamese meaning /IPA/
 
-**Phrase Analysis:**
-1. **cụm từ1:** nghĩa của cụm từ1
-2. **cụm từ2:** nghĩa của cụm từ2
-
-**Progressive Translation:**
-1. **từ1:** dịch từ1
-2. **từ1 từ2:** dịch từ1 từ2
-3. **Full sentence:** câu dịch hoàn chỉnh
-
-**Phân tích ngữ pháp:**
-[Phân tích chi tiết cấu trúc ngữ pháp bằng tiếng Việt]
+**Meaning Chunks:** (word groups that form meaningful units)
+1. **chunk1:** nghĩa chunk1
+2. **chunk2:** nghĩa chunk2
 
 ---
 
@@ -375,16 +404,7 @@ YÊU CẦU PHÂN TÍCH VÀ DỊCH TỰ ĐỘNG:
 
 </details>
 
-HƯỚNG DẪN CHI TIẾT:
-
-1. **Phát hiện thông minh**: Tự động nhận biết loại nội dung (đối thoại, đọc hiểu, bài tập...)
-2. **Dịch có ngữ cảnh**: Dịch phù hợp với trình độ học sinh
-3. **Giữ cấu trúc**: Duy trì tổ chức logic của bài học
-4. **Từ vựng IPA**: Phiên âm chuẩn British English
-5. **Ngữ pháp**: Giải thích các điểm ngữ pháp quan trọng
-6. **Định dạng markdown**: Chính xác với details/summary
-
-CHỈ trả về markdown hoàn chỉnh, không thêm text giải thích nào khác.`;
+RULES: Auto-detect content, British IPA, meaning chunks = word groups that form meaningful units (e.g., "talented musicians" = subject chunk, "performing music" = action chunk), markdown format only.`;
 }
 
 // Helper function to flatten file tree for mobile view
@@ -410,6 +430,49 @@ function flattenFileTree(node, files = [], currentPath = []) {
   return files;
 }
 
+// Text processing helper functions
+function parseTextIntoSentences(text) {
+  // Split text into sentences while preserving structure
+  // Use regex to find sentence boundaries but keep track of position and context
+  const sentences = [];
+  
+  // Enhanced regex to match sentences ending with . ! ? followed by space or end
+  const sentenceRegex = /[^.!?]*[.!?]+(?=\s|$)/g;
+  let match;
+  let lastIndex = 0;
+  
+  while ((match = sentenceRegex.exec(text)) !== null) {
+    const sentence = match[0].trim();
+    if (sentence.length > 10) { // Only process meaningful sentences
+      sentences.push({
+        original: sentence,
+        startIndex: match.index,
+        endIndex: sentenceRegex.lastIndex,
+        fullMatch: match[0] // Include original spacing
+      });
+    }
+    lastIndex = sentenceRegex.lastIndex;
+  }
+  
+  return sentences;
+}
+
+function replaceTextWithTranslations(originalText, translationMap) {
+  // Replace sentences with their translations while preserving document structure
+  let processedText = originalText;
+  
+  // Sort by position (reverse order to avoid index shifting issues)
+  const sortedEntries = Object.entries(translationMap)
+    .sort(([,a], [,b]) => b.startIndex - a.startIndex);
+  
+  sortedEntries.forEach(([originalSentence, translationData]) => {
+    // Replace the original sentence with translation, preserving surrounding whitespace
+    processedText = processedText.replace(originalSentence, translationData.translation);
+  });
+  
+  return processedText;
+}
+
 // Translation helper functions
 async function callGeminiAPI(prompt) {
   try {
@@ -428,7 +491,7 @@ async function callGeminiAPI(prompt) {
           temperature: 0.3,
           topK: 1,
           topP: 0.95,
-          maxOutputTokens: 8192
+          maxOutputTokens: 32768
         }
       })
     });
@@ -480,17 +543,15 @@ ${text}
 <summary>📝 Word-by-Word Analysis</summary>
 
 \`\`\`
-1. word1: (part of speech) meaning1 /ipa1/ [root: base_form if different]
-2. word2: (part of speech) meaning2 /ipa2/ [root: base_form if different]  
-3. word3: (part of speech) meaning3 /ipa3/
-... (tất cả từ vựng quan trọng)
+1. word1: (pos) Vietnamese meaning /IPA/
+2. word2: (pos) Vietnamese meaning /IPA/
+3. word3: (pos) Vietnamese meaning /IPA/
 \`\`\`
 
-VÍ DỤ FORMAT TỪ VỰNG:
-1. districts: (noun) các huyện /ˈdɪstrɪkts/ [root: district]
-2. running: (verb) đang chạy /ˈrʌnɪŋ/ [root: run]  
-3. beautiful: (adjective) đẹp /ˈbjuːtɪfəl/
-4. quickly: (adverb) nhanh chóng /ˈkwɪkli/ [root: quick]
+EXAMPLES:
+1. talented: (adj) tài năng /ˈtæləntɪd/
+2. musicians: (noun) nhạc sĩ /mjuːˈzɪʃənz/
+3. performing: (verb) biểu diễn /pəˈfɔːmɪŋ/
 
 </details>
 
@@ -512,30 +573,14 @@ VÍ DỤ FORMAT TỪ VỰNG:
 
 **Vietnamese:** [Câu dịch tiếng Việt]
 
-**Word-by-Word Breakdown:**
-1. **từ1:** (part of speech) nghĩa1 /phiên-âm/ [root: base_form if needed]
-2. **từ2:** (part of speech) nghĩa2 /phiên-âm/ [root: base_form if needed]
-3. **từ3:** (part of speech) nghĩa3 /phiên-âm/ [root: base_form if needed]
+**Key Words:**
+1. **word1:** (pos) Vietnamese meaning /IPA/
+2. **word2:** (pos) Vietnamese meaning /IPA/
+3. **word3:** (pos) Vietnamese meaning /IPA/
 
-**Phrase Analysis:**
-1. **cụm từ1:** nghĩa của cụm từ1
-2. **cụm từ2:** nghĩa của cụm từ2  
-3. **cụm từ3:** nghĩa của cụm từ3
-
-**Progressive Translation:**
-1. **từ1:** dịch từ1
-2. **từ1 từ2:** dịch từ1 từ2
-3. **từ1 từ2 từ3:** dịch từ1 từ2 từ3
-4. **Full sentence:** câu dịch hoàn chỉnh
-
-**Phân tích ngữ pháp:**
-Phân tích chi tiết cấu trúc ngữ pháp của câu bằng tiếng Việt, bao gồm nhưng không giới hạn:
-- Chủ ngữ, vị ngữ, tân ngữ
-- Mệnh đề quan hệ, mệnh đề phụ
-- Tính từ bổ nghĩa cho danh từ nào
-- Trạng từ bổ nghĩa cho động từ nào  
-- Thì của động từ, cấu trúc đặc biệt
-- Bất kỳ điểm ngữ pháp quan trọng nào khác
+**Meaning Chunks:** (word groups that form meaningful units)
+1. **chunk1:** nghĩa chunk1
+2. **chunk2:** nghĩa chunk2
 
 ---
 
@@ -549,25 +594,7 @@ Phân tích chi tiết cấu trúc ngữ pháp của câu bằng tiếng Việt,
 
 </details>
 
-HƯỚNG DẪN XÁC ĐỊNH PHẦN:
-- "getting-started": Đối thoại khởi động, giới thiệu từ vựng
-- "reading": Bài đọc hiểu, đoạn văn dài
-- "speaking": Hoạt động nói, đối thoại thực hành
-- "listening": Bài nghe hiểu, hội thoại
-- "writing": Bài viết, luyện tập viết
-- "language": Ngữ pháp, từ vựng, phát âm
-- "communication-culture": Văn hóa giao tiếp
-- "looking-back": Ôn tập, tổng kết
-- "skills": Kỹ năng tổng hợp
-- "vocabulary": Từ vựng chuyên biệt
-- "grammar": Ngữ pháp riêng biệt
-
-LƯU Ý:
-1. Phiên âm IPA chuẩn British English
-2. Dịch tự nhiên, phù hợp học sinh lớp ${grade}
-3. Giữ nguyên tên riêng
-4. CHỈ trả về markdown hoàn chỉnh, không thêm text giải thích nào khác
-5. Đảm bảo format markdown chính xác, đặc biệt các thẻ details/summary`;
+RULES: British IPA, meaning chunks = word groups that form meaningful units (e.g., "talented musicians" = subject chunk, "performing music" = action chunk), markdown format only.`;
 }
 
 function parseTranslationResponse(markdownText) {
@@ -841,33 +868,82 @@ app.post('/api/translate-auto', async (req, res) => {
 
     console.log(`🤖 Auto-translating entire lesson: ${sourceFile}`);
 
-    // Call Gemini API with auto-detection prompt
-    const prompt = createAutoTranslationPrompt(fileContent, sourceFile, metadata);
-    const geminiResponse = await callGeminiAPI(prompt);
+    // Parse content into sentences
+    const sentences = parseTextIntoSentences(fileContent);
+    console.log(`📝 Found ${sentences.length} sentences to translate`);
     
-    // Parse response - should be direct markdown
-    const parsedData = {
-      detectedSection: 'auto-complete',
-      sectionTitle: 'Bản dịch tự động',
-      markdownContent: geminiResponse.trim()
-    };
+    if (sentences.length === 0) {
+      return res.status(400).json({ error: 'No translatable sentences found' });
+    }
+
+    // Translate each sentence using compact JSON format
+    const translationMap = {};
+    let completedSentences = 0;
     
-    // For mobile, don't save to file - just return the translation content
-    const markdownContent = generateTranslationMarkdown('', parsedData, sourceFile);
+    for (const sentenceData of sentences) {
+      try {
+        // Use the compact sentence translation prompt
+        const prompt = `Translate and analyze: ${sentenceData.original}
+
+JSON:
+{
+  "sentence": "${sentenceData.original}",
+  "translation": "Vietnamese",
+  "words": [{"word": "word", "pos": "pos", "meaning": "nghĩa", "ipa": "/IPA/"}],
+  "chunks": [{"chunk": "meaning chunk", "meaning": "nghĩa của chunk"}]
+}
+
+Rules:
+- Skip: the, a, is, are, was, were, have, has, do, did, will, can, this, that, my, your, in, on, at, for, and, or, but, very, some, all, not, only, also, there, here, when, what, who
+- Include: content words (nouns, verbs, adjectives, adverbs)
+- Max 5 words, 3-4 fine chunks (2-4 words each)
+- British IPA
+- Fine chunks examples:
+  GOOD: "at that time" (when), "many movies" (what), "TV series" (what), "no reality competitions" (what not), "on TV" (where)
+  BAD: "at that time there were many movies and TV series" (entire clause)
+- Each chunk = one concept (who/what/when/where/how)
+
+JSON only:`;
+
+        const geminiResponse = await callGeminiAPI(prompt);
+        
+        // Parse JSON response
+        const jsonMatch = geminiResponse.match(/\{[\s\S]*\}/);
+        if (jsonMatch) {
+          const translationResult = JSON.parse(jsonMatch[0]);
+          translationMap[sentenceData.original] = {
+            ...translationResult,
+            startIndex: sentenceData.startIndex,
+            endIndex: sentenceData.endIndex
+          };
+          completedSentences++;
+          console.log(`✅ Translated ${completedSentences}/${sentences.length}: "${sentenceData.original.substring(0, 50)}..."`);
+        }
+      } catch (error) {
+        console.error(`❌ Failed to translate sentence: "${sentenceData.original.substring(0, 50)}..."`, error);
+        // Continue with other sentences even if one fails
+      }
+    }
     
-    console.log(`✅ Auto-translation completed for mobile: ${sourceFile}`);
+    // Replace original sentences with translations while preserving structure
+    const translatedContent = replaceTextWithTranslations(fileContent, translationMap);
+    
+    console.log(`✅ Auto-translation completed: ${completedSentences}/${sentences.length} sentences translated`);
     
     res.json({ 
       success: true,
-      translationContent: markdownContent,
-      detectedSection: parsedData.detectedSection,
-      sectionTitle: parsedData.sectionTitle,
-      message: `Auto-translation completed`,
+      translationContent: translatedContent,
+      detectedSection: 'auto-complete',
+      sectionTitle: 'Bản dịch tự động',
+      message: `Auto-translation completed: ${completedSentences}/${sentences.length} sentences`,
       isMobileResponse: true,
       debug: {
         sourceFile: sourceFile,
-        contentLength: fileContent.length,
-        responseLength: markdownContent.length
+        originalLength: fileContent.length,
+        translatedLength: translatedContent.length,
+        sentencesFound: sentences.length,
+        sentencesTranslated: completedSentences,
+        translationMap: Object.keys(translationMap).length
       }
     });
 
@@ -916,38 +992,27 @@ app.post('/api/translate-sentence', async (req, res) => {
     // Cache miss - call Gemini API
     console.log(`🤖 Cache miss - calling Gemini API`);
 
-    const prompt = `Hãy phân tích chi tiết câu tiếng Anh này và dịch sang tiếng Việt với đầy đủ breakdown.
+    const prompt = `Translate and analyze: ${trimmedSentence}
 
-CÂU CẦN PHÂN TÍCH:
-${trimmedSentence}
-
-YÊU CẦU PHÂN TÍCH CHI TIẾT:
-1. Phân tích từng từ với từ loại, nghĩa, và phiên âm IPA
-2. Nhận diện các cụm từ và nghĩa
-3. Dịch dần theo từng bước để hiểu cách ghép nghĩa
-4. Phân tích ngữ pháp chi tiết bằng tiếng Việt
-
-ĐỊNH DẠNG OUTPUT (JSON):
+JSON:
 {
   "sentence": "${trimmedSentence}",
-  "translation": "Câu dịch hoàn chỉnh",
-  "words": [
-    {"word": "từ1", "pos": "noun", "meaning": "nghĩa1", "ipa": "/phiên-âm/", "root": "base_form nếu khác"},
-    {"word": "từ2", "pos": "verb", "meaning": "nghĩa2", "ipa": "/phiên-âm/"}
-  ],
-  "phrases": [
-    {"phrase": "cụm từ 1", "meaning": "nghĩa cụm từ"},
-    {"phrase": "cụm từ 2", "meaning": "nghĩa cụm từ"}
-  ],
-  "progressive": [
-    {"english": "từ1", "vietnamese": "dịch từ1"},
-    {"english": "từ1 từ2", "vietnamese": "dịch từ1 từ2"},
-    {"english": "full sentence", "vietnamese": "câu dịch hoàn chỉnh"}
-  ],
-  "grammar": "Phân tích chi tiết cấu trúc ngữ pháp của câu bằng tiếng Việt, bao gồm chủ ngữ, vị ngữ, tân ngữ, mệnh đề quan hệ, v.v."
+  "translation": "Vietnamese",
+  "words": [{"word": "word", "pos": "pos", "meaning": "nghĩa", "ipa": "/IPA/"}],
+  "chunks": [{"chunk": "meaning chunk", "meaning": "nghĩa của chunk"}]
 }
 
-CHỈ trả về JSON object, không thêm text nào khác.`;
+Rules:
+- Skip: the, a, is, are, was, were, have, has, do, did, will, can, this, that, my, your, in, on, at, for, and, or, but, very, some, all, not, only, also, there, here, when, what, who
+- Include: content words (nouns, verbs, adjectives, adverbs)
+- Max 5 words, 3-4 fine chunks (2-4 words each)
+- British IPA
+- Fine chunks examples:
+  GOOD: "talented musicians" (who), "are performing" (action), "beautiful music" (what), "tonight" (when)
+  BAD: "talented musicians are performing beautiful music tonight" (entire sentence)
+- Each chunk = one concept (who/what/when/where/how)
+
+JSON only:`;
 
     // Call Gemini API
     const geminiResponse = await callGeminiAPI(prompt);

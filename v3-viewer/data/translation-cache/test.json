@@ -1,0 +1,135 @@
+{
+  "sentences": {
+    "0233caa474b651b34f87d82354126dae": {
+      "sentence": "The talented musicians are performing beautiful classical music tonight.",
+      "translation": "Những nhạc công tài năng đang biểu diễn nhạc cổ điển tuyệt đẹp tối nay.",
+      "words": [
+        {
+          "word": "The",
+          "pos": "determiner",
+          "meaning": "the",
+          "ipa": "/ðə/",
+          "root": null
+        },
+        {
+          "word": "talented",
+          "pos": "adjective",
+          "meaning": "tài năng",
+          "ipa": "/ˈtæl.ən.tɪd/",
+          "root": "talent"
+        },
+        {
+          "word": "musicians",
+          "pos": "noun",
+          "meaning": "nhạc công",
+          "ipa": "/mjuːˈzɪʃ.ənz/",
+          "root": "musician"
+        },
+        {
+          "word": "are",
+          "pos": "verb",
+          "meaning": "thì, là, ở (động từ to be)",
+          "ipa": "/ɑːr/",
+          "root": "be"
+        },
+        {
+          "word": "performing",
+          "pos": "verb",
+          "meaning": "biểu diễn",
+          "ipa": "/pəˈfɔːrmɪŋ/",
+          "root": "perform"
+        },
+        {
+          "word": "beautiful",
+          "pos": "adjective",
+          "meaning": "tuyệt đẹp",
+          "ipa": "/ˈbjuː.tɪ.fəl/",
+          "root": "beauty"
+        },
+        {
+          "word": "classical",
+          "pos": "adjective",
+          "meaning": "cổ điển",
+          "ipa": "/ˈklæs.ɪ.kəl/",
+          "root": "classic"
+        },
+        {
+          "word": "music",
+          "pos": "noun",
+          "meaning": "nhạc",
+          "ipa": "/ˈmjuː.zɪk/",
+          "root": null
+        },
+        {
+          "word": "tonight",
+          "pos": "adverb",
+          "meaning": "tối nay",
+          "ipa": "/təˈnaɪt/",
+          "root": null
+        }
+      ],
+      "phrases": [
+        {
+          "phrase": "The talented musicians",
+          "meaning": "Những nhạc công tài năng"
+        },
+        {
+          "phrase": "are performing",
+          "meaning": "đang biểu diễn"
+        },
+        {
+          "phrase": "beautiful classical music",
+          "meaning": "nhạc cổ điển tuyệt đẹp"
+        }
+      ],
+      "progressive": [
+        {
+          "english": "The",
+          "vietnamese": "Những"
+        },
+        {
+          "english": "The talented musicians",
+          "vietnamese": "Những nhạc công tài năng"
+        },
+        {
+          "english": "The talented musicians are",
+          "vietnamese": "Những nhạc công tài năng đang"
+        },
+        {
+          "english": "The talented musicians are performing",
+          "vietnamese": "Những nhạc công tài năng đang biểu diễn"
+        },
+        {
+          "english": "The talented musicians are performing beautiful",
+          "vietnamese": "Những nhạc công tài năng đang biểu diễn tuyệt đẹp"
+        },
+        {
+          "english": "The talented musicians are performing beautiful classical",
+          "vietnamese": "Những nhạc công tài năng đang biểu diễn nhạc cổ điển tuyệt đẹp"
+        },
+        {
+          "english": "The talented musicians are performing beautiful classical music",
+          "vietnamese": "Những nhạc công tài năng đang biểu diễn nhạc cổ điển tuyệt đẹp"
+        },
+        {
+          "english": "The talented musicians are performing beautiful classical music tonight",
+          "vietnamese": "Những nhạc công tài năng đang biểu diễn nhạc cổ điển tuyệt đẹp tối nay."
+        }
+      ],
+      "grammar": "Câu này là một câu đơn giản, sử dụng thì hiện tại tiếp diễn (are performing) để diễn tả hành động đang diễn ra tại thời điểm nói. \n\n*   **Chủ ngữ:** The talented musicians (Những nhạc công tài năng)\n*   **Vị ngữ:** are performing beautiful classical music tonight (đang biểu diễn nhạc cổ điển tuyệt đẹp tối nay)\n    *   **Động từ:** are performing (đang biểu diễn)\n    *   **Tân ngữ:** beautiful classical music (nhạc cổ điển tuyệt đẹp)\n        *   **Tính từ:** beautiful, classical (tuyệt đẹp, cổ điển)\n        *   **Danh từ:** music (nhạc)\n    *   **Trạng từ chỉ thời gian:** tonight (tối nay)",
+      "uuid": "ae91524c-f13f-4101-ab7c-9ed152b1e01f",
+      "shortDesc": "Talented musicians are",
+      "metadata": {
+        "sourceFile": "test.md",
+        "timestamp": "2025-09-05T13:50:59.835Z",
+        "usageCount": 1,
+        "lastUsed": "2025-09-05T13:50:59.835Z",
+        "shareableLink": "/translation/ae91524c-f13f-4101-ab7c-9ed152b1e01f"
+      }
+    }
+  },
+  "metadata": {
+    "createdAt": "2025-09-05T13:50:59.834Z",
+    "updatedAt": "2025-09-05T13:50:59.835Z"
+  }
+}

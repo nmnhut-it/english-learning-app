@@ -1,5 +1,16 @@
 # Unit 3: Music - Reading
 
+## New words: 
+
+1. **identify with**: (v) đồng cảm với /aɪˈdentɪfaɪ wɪð/
+2. **participants**: (n) người tham gia /pɑːˈtɪsɪpənts/
+3. **ordinary**: (adj) bình thường /ˈɔːdənəri/
+4. **identify**: (v) nhận ra, xác định /aɪˈdentɪfaɪ/
+5. **eliminated**: (v) loại bỏ /ɪˈlɪmɪneɪtɪd/
+6. **eliminate - eliminated - eliminated**: (v) loại bỏ /ɪˈlɪmɪneɪt - ɪˈlɪmɪneɪtɪd - ɪˈlɪmɪneɪtɪd/
+7. **semi-final onwards**: (adv) từ bán kết trở đi
+8. **argument**: (n) lập luận /ˈɑːɡjumənt/
+
 ## American Idol
 
 ### Exercise 1: Work in pairs. Look at the pictures and discuss the following questions.
