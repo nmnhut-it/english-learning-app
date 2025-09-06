@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vocabulary Learning Tool</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 2rem 1rem;
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .hero {
+            text-align: center;
+            margin-bottom: 3rem;
+        }
+
+        .hero-title {
+            font-size: 3rem;
+            font-weight: 700;
+            margin-bottom: 1rem;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+
+        .hero-subtitle {
+            font-size: 1.3rem;
+            opacity: 0.9;
+            margin-bottom: 2rem;
+        }
+
+        .features {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 2rem;
+            margin: 3rem 0;
+        }
+
+        .feature {
+            background: rgba(255,255,255,0.1);
+            backdrop-filter: blur(10px);
+            padding: 2rem;
+            border-radius: 16px;
+            text-align: center;
+            transition: transform 0.3s ease;
+        }
+
+        .feature:hover {
+            transform: translateY(-5px);
+        }
+
+        .feature-icon {
+            font-size: 3rem;
+            margin-bottom: 1rem;
+            display: block;
+        }
+
+        .feature-title {
+            font-size: 1.2rem;
+            font-weight: 600;
+            margin-bottom: 0.5rem;
+        }
+
+        .feature-description {
+            opacity: 0.9;
+            line-height: 1.6;
+        }
+
+        .cta-section {
+            text-align: center;
+            margin: 3rem 0;
+        }
+
+        .cta-buttons {
+            display: flex;
+            gap: 1rem;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+
+        .btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            padding: 1rem 2rem;
+            background: white;
+            color: #667eea;
+            text-decoration: none;
+            border-radius: 12px;
+            font-weight: 600;
+            font-size: 1.1rem;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+        }
+
+        .btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 25px rgba(0,0,0,0.15);
+        }
+
+        .btn-primary {
+            background: #4299e1;
+            color: white;
+        }
+
+        .btn-primary:hover {
+            background: #3182ce;
+        }
+
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 1.5rem;
+            margin: 3rem 0;
+            text-align: center;
+        }
+
+        .stat {
+            background: rgba(255,255,255,0.1);
+            backdrop-filter: blur(10px);
+            padding: 1.5rem;
+            border-radius: 12px;
+        }
+
+        .stat-value {
+            font-size: 2rem;
+            font-weight: 700;
+            margin-bottom: 0.5rem;
+        }
+
+        .stat-label {
+            opacity: 0.9;
+            font-size: 0.9rem;
+        }
+
+        .loading {
+            display: inline-block;
+            width: 20px;
+            height: 20px;
+            border: 2px solid rgba(255,255,255,0.3);
+            border-top-color: white;
+            border-radius: 50%;
+            animation: spin 0.8s linear infinite;
+        }
+
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+
+        .footer {
+            text-align: center;
+            padding: 2rem;
+            opacity: 0.8;
+        }
+
+        .health-status {
+            background: rgba(255,255,255,0.1);
+            padding: 1rem;
+            border-radius: 8px;
+            margin: 1rem 0;
+            font-size: 0.9rem;
+        }
+
+        .status-healthy {
+            color: #c6f6d5;
+        }
+
+        .status-degraded {
+            color: #fed7aa;
+        }
+
+        .status-error {
+            color: #fed7d7;
+        }
+
+        @media (max-width: 768px) {
+            .hero-title {
+                font-size: 2rem;
+            }
+
+            .hero-subtitle {
+                font-size: 1.1rem;
+            }
+
+            .cta-buttons {
+                flex-direction: column;
+                align-items: center;
+            }
+
+            .features {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <section class="hero">
+            <h1 class="hero-title">📚 Vocabulary Learning Tool</h1>
+            <p class="hero-subtitle">
+                Interactive vocabulary practice with AI-powered definitions, pronunciations, and contextual learning
+            </p>
+        </section>
+
+        <section class="features">
+            <div class="feature">
+                <span class="feature-icon">👨‍🏫</span>
+                <h3 class="feature-title">For Teachers</h3>
+                <p class="feature-description">
+                    Create lessons by pasting content. Get shareable links for students. Track vocabulary usage and analytics.
+                </p>
+            </div>
+
+            <div class="feature">
+                <span class="feature-icon">🎯</span>
+                <h3 class="feature-title">Context-Aware Learning</h3>
+                <p class="feature-description">
+                    Students click words from lesson content to get definitions relevant to the specific context.
+                </p>
+            </div>
+
+            <div class="feature">
+                <span class="feature-icon">🤖</span>
+                <h3 class="feature-title">AI-Powered</h3>
+                <p class="feature-description">
+                    Get accurate definitions, IPA pronunciations, parts of speech, and Vietnamese translations.
+                </p>
+            </div>
+
+            <div class="feature">
+                <span class="feature-icon">📊</span>
+                <h3 class="feature-title">Analytics & Export</h3>
+                <p class="feature-description">
+                    Monitor student progress, popular words, and export vocabulary data for lesson planning.
+                </p>
+            </div>
+        </section>
+
+        <section class="stats" id="statsSection">
+            <div class="stat">
+                <div class="stat-value" id="totalLessons"><div class="loading"></div></div>
+                <div class="stat-label">Total Lessons</div>
+            </div>
+            <div class="stat">
+                <div class="stat-value" id="totalVocabulary"><div class="loading"></div></div>
+                <div class="stat-label">Vocabulary Entries</div>
+            </div>
+            <div class="stat">
+                <div class="stat-value" id="totalStudents"><div class="loading"></div></div>
+                <div class="stat-label">Students Served</div>
+            </div>
+            <div class="stat">
+                <div class="stat-value" id="totalSelections"><div class="loading"></div></div>
+                <div class="stat-label">Word Selections</div>
+            </div>
+        </section>
+
+        <section class="cta-section">
+            <h2 style="margin-bottom: 1.5rem; font-size: 1.8rem;">Get Started</h2>
+            <div class="cta-buttons">
+                <a href="/teacher" class="btn btn-primary">
+                    👨‍🏫 Teacher Dashboard
+                </a>
+                <a href="/dashboard" class="btn">
+                    📊 View Analytics
+                </a>
+            </div>
+        </section>
+
+        <div class="health-status" id="healthStatus">
+            <div style="display: flex; align-items: center; justify-content: center; gap: 0.5rem;">
+                <div class="loading"></div>
+                Checking system status...
+            </div>
+        </div>
+    </div>
+
+    <footer class="footer">
+        <p>Built with ❤️ for English language learning</p>
+        <p style="font-size: 0.8rem; margin-top: 0.5rem;">
+            Powered by Gemini AI • Context-aware vocabulary learning
+        </p>
+    </footer>
+
+    <script>
+        // Load statistics on page load
+        document.addEventListener('DOMContentLoaded', function() {
+            loadStats();
+            checkHealth();
+        });
+
+        async function loadStats() {
+            try {
+                const response = await fetch('/api/stats/overview');
+                const data = await response.json();
+
+                if (data.success) {
+                    document.getElementById('totalLessons').textContent = data.overview.totalLessons || 0;
+                    document.getElementById('totalVocabulary').textContent = data.overview.totalVocabulary || 0;
+                    document.getElementById('totalStudents').textContent = data.overview.totalStudents || 0;
+                    document.getElementById('totalSelections').textContent = data.overview.totalSelections || 0;
+                } else {
+                    // Show zeros if stats fail to load
+                    document.getElementById('totalLessons').textContent = '0';
+                    document.getElementById('totalVocabulary').textContent = '0';
+                    document.getElementById('totalStudents').textContent = '0';
+                    document.getElementById('totalSelections').textContent = '0';
+                }
+            } catch (error) {
+                // Show zeros if network error
+                document.getElementById('totalLessons').textContent = '0';
+                document.getElementById('totalVocabulary').textContent = '0';
+                document.getElementById('totalStudents').textContent = '0';
+                document.getElementById('totalSelections').textContent = '0';
+            }
+        }
+
+        async function checkHealth() {
+            try {
+                const response = await fetch('/api/health');
+                const health = await response.json();
+
+                let statusClass = 'status-healthy';
+                let statusText = '✅ System is healthy';
+                let statusIcon = '✅';
+
+                if (health.status === 'degraded') {
+                    statusClass = 'status-degraded';
+                    statusText = '⚠️ System is partially available';
+                    statusIcon = '⚠️';
+                } else if (health.status !== 'healthy') {
+                    statusClass = 'status-error';
+                    statusText = '❌ System issues detected';
+                    statusIcon = '❌';
+                }
+
+                // Additional details about services
+                let details = '';
+                if (health.services) {
+                    if (health.services.database?.status !== 'healthy') {
+                        details += ' Database issues.';
+                    }
+                    if (health.services.gemini?.status === 'error') {
+                        details += ' AI service unavailable.';
+                    }
+                }
+
+                document.getElementById('healthStatus').innerHTML = `
+                    <div class="${statusClass}">
+                        ${statusIcon} ${statusText}${details}
+                    </div>
+                `;
+            } catch (error) {
+                document.getElementById('healthStatus').innerHTML = `
+                    <div class="status-error">
+                        ❌ Unable to check system status
+                    </div>
+                `;
+            }
+        }
+    </script>
+</body>
+</html>

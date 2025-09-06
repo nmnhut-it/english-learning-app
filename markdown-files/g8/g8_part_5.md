@@ -1,4 +1,4 @@
-UNIT 5: OUR CUSTOMS AND TRADITIONS** 
+**UNIT 5: OUR CUSTOMS AND TRADITIONS** 
 
 **GETTING STARTED** 
 
@@ -32,6 +32,26 @@ UNIT 5: OUR CUSTOMS AND TRADITIONS**
 26. luck (n) \- vận may rủi \- /lʌk/  
 27. pray (v) \- cầu nguyện \- /preɪ/  
 28. lucky (adj) \- may mắn \- /ˈlʌk.i/
+
+**Elena**: Wow, this girl looks so cute.
+
+**Trang**: Yeah ... She’s my cousin. She's at Sa Dec Flower Village. Tet is coming soon, so many people visit flower villages to take pictures with the blooming flowers.
+
+**Elena**: Oh, I'm fond of admiring the flowers. Does your family visit places like this too? 
+
+**Trang**: Yes, we do. We usually visit Nhat Tan Village to buy kumquat trees and peach blossoms.
+
+**Elena**: I see flowers and ornamental trees everywhere these days. What are they for? 
+
+**Trang**: We, Vietnamese, use plants and flowers for decorations and for offerings. They are an important part of our Tet tradition.
+
+**Elena**: And what's that tall tree in the photo?
+
+**Trang**: Well, it's actually a bamboo pole. People place it in the yard of the communal house. They hang decorative items like small bells and lanterns on it. They want to chase away bad luck and pray for a lucky new year.
+
+**Elena**: Interesting! I didn’t know that.
+
+
 
 **Bài 2 trang 51** 
 
@@ -68,12 +88,12 @@ UNIT 5: OUR CUSTOMS AND TRADITIONS**
 
 **Bài 1 trang 52**
 
-1. family reunion: đoàn tụ gia đình   
-2. wedding ceremony: đám cưới   
-3. food offerings: đồ ăn cúng   
-4. whale worship: thờ cá voi   
-5. martial arts: võ thuật   
-6. festival goers: người đi trẩy hội. 
+1. **family reunion**: (n) đoàn tụ gia đình /ˈfæməli riˈjuːnjən/
+2. **wedding ceremony**: (n) đám cưới /ˈwedɪŋ ˈserɪməni/
+3. **food offerings**: (n) đồ ăn cúng /fuːd ˈɒfərɪŋz/
+4. **whale worship**: (n) thờ cá voi /weɪl ˈwɜːʃɪp/
+5. **martial arts**: (n) võ thuật /ˈmɑːʃəl ɑːts/
+6. **festival goers**: (n) người đi trẩy hội /ˈfestɪvəl ˈɡəʊəz/
 
 **Bài 2 trang 52** 
 

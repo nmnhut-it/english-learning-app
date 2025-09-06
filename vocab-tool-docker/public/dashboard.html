@@ -1,0 +1,637 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard - Vocabulary Tool</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: #f5f7fa;
+            color: #2d3748;
+            line-height: 1.6;
+        }
+
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 1rem 0;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+
+        .header-content {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 1rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .logo {
+            font-size: 1.5rem;
+            font-weight: 600;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .nav-links {
+            display: flex;
+            gap: 1rem;
+        }
+
+        .nav-links a {
+            color: white;
+            text-decoration: none;
+            padding: 0.5rem 1rem;
+            border-radius: 4px;
+            transition: background-color 0.2s;
+        }
+
+        .nav-links a:hover, .nav-links a.active {
+            background-color: rgba(255,255,255,0.1);
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 2rem 1rem;
+        }
+
+        .page-title {
+            font-size: 2rem;
+            font-weight: 600;
+            margin-bottom: 0.5rem;
+            color: #2d3748;
+        }
+
+        .page-subtitle {
+            color: #718096;
+            margin-bottom: 2rem;
+        }
+
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 1.5rem;
+            margin-bottom: 2rem;
+        }
+
+        .stat-card {
+            background: white;
+            padding: 1.5rem;
+            border-radius: 12px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.07);
+            border-left: 4px solid #667eea;
+        }
+
+        .stat-value {
+            font-size: 2rem;
+            font-weight: 700;
+            color: #2d3748;
+            margin-bottom: 0.25rem;
+        }
+
+        .stat-label {
+            color: #718096;
+            font-size: 0.9rem;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .card {
+            background: white;
+            border-radius: 12px;
+            padding: 1.5rem;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.07);
+            margin-bottom: 2rem;
+        }
+
+        .card-title {
+            font-size: 1.3rem;
+            font-weight: 600;
+            margin-bottom: 1rem;
+            color: #2d3748;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .lessons-grid {
+            display: grid;
+            gap: 1rem;
+        }
+
+        .lesson-item {
+            padding: 1rem;
+            border: 1px solid #e2e8f0;
+            border-radius: 8px;
+            transition: all 0.2s;
+            cursor: pointer;
+        }
+
+        .lesson-item:hover {
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+            transform: translateY(-1px);
+        }
+
+        .lesson-item.selected {
+            border-color: #667eea;
+            background: #f7fafc;
+        }
+
+        .lesson-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            margin-bottom: 0.5rem;
+        }
+
+        .lesson-title {
+            font-weight: 600;
+            color: #2d3748;
+        }
+
+        .lesson-meta {
+            font-size: 0.875rem;
+            color: #718096;
+        }
+
+        .lesson-stats {
+            display: flex;
+            gap: 1rem;
+            margin-top: 0.5rem;
+            font-size: 0.875rem;
+        }
+
+        .stat {
+            background: #f7fafc;
+            padding: 0.25rem 0.5rem;
+            border-radius: 4px;
+            color: #4a5568;
+        }
+
+        .chart-container {
+            height: 300px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: #f7fafc;
+            border-radius: 8px;
+            color: #718096;
+        }
+
+        .popular-words {
+            display: grid;
+            gap: 0.5rem;
+        }
+
+        .word-stat {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 0.5rem;
+            background: #f7fafc;
+            border-radius: 6px;
+        }
+
+        .word-name {
+            font-weight: 500;
+        }
+
+        .word-count {
+            background: #667eea;
+            color: white;
+            padding: 0.25rem 0.5rem;
+            border-radius: 12px;
+            font-size: 0.8rem;
+        }
+
+        .export-section {
+            display: flex;
+            gap: 1rem;
+            margin-top: 1rem;
+            flex-wrap: wrap;
+        }
+
+        .btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            padding: 0.75rem 1rem;
+            border: none;
+            border-radius: 6px;
+            font-size: 0.9rem;
+            font-weight: 500;
+            cursor: pointer;
+            transition: all 0.2s;
+            text-decoration: none;
+        }
+
+        .btn-primary {
+            background: #667eea;
+            color: white;
+        }
+
+        .btn-primary:hover {
+            background: #5a67d8;
+        }
+
+        .btn-secondary {
+            background: #e2e8f0;
+            color: #4a5568;
+        }
+
+        .btn-secondary:hover {
+            background: #cbd5e0;
+        }
+
+        .loading {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 3rem;
+            color: #718096;
+        }
+
+        .spinner {
+            display: inline-block;
+            width: 24px;
+            height: 24px;
+            border: 2px solid #e2e8f0;
+            border-top-color: #667eea;
+            border-radius: 50%;
+            animation: spin 0.8s linear infinite;
+            margin-right: 1rem;
+        }
+
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+
+        .alert {
+            padding: 1rem;
+            border-radius: 8px;
+            margin-bottom: 1rem;
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+        }
+
+        .alert-info {
+            background: #ebf8ff;
+            color: #2a4365;
+            border: 1px solid #63b3ed;
+        }
+
+        @media (max-width: 768px) {
+            .stats-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+            
+            .export-section {
+                flex-direction: column;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header class="header">
+        <div class="header-content">
+            <div class="logo">
+                📊 Dashboard
+            </div>
+            <nav class="nav-links">
+                <a href="/teacher">Teacher</a>
+                <a href="/dashboard" class="active">Dashboard</a>
+            </nav>
+        </div>
+    </header>
+
+    <div class="container">
+        <h1 class="page-title">Analytics Dashboard</h1>
+        <p class="page-subtitle">Monitor vocabulary learning progress and usage statistics</p>
+
+        <!-- Overview Stats -->
+        <div class="stats-grid" id="overviewStats">
+            <div class="loading">
+                <div class="spinner"></div>
+                Loading statistics...
+            </div>
+        </div>
+
+        <!-- Lesson Selection -->
+        <div class="card">
+            <h2 class="card-title">📚 Select Lesson for Detailed Analysis</h2>
+            <div id="lessonsContainer">
+                <div class="loading">
+                    <div class="spinner"></div>
+                    Loading lessons...
+                </div>
+            </div>
+        </div>
+
+        <!-- Detailed Stats (shown when lesson selected) -->
+        <div id="detailedStats" style="display: none;">
+            <div class="card">
+                <h2 class="card-title" id="selectedLessonTitle">📊 Lesson Statistics</h2>
+                <div id="lessonStatsContent"></div>
+            </div>
+
+            <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; margin-bottom: 2rem;">
+                <div class="card">
+                    <h3 class="card-title">🔥 Most Selected Words</h3>
+                    <div id="popularWords"></div>
+                </div>
+
+                <div class="card">
+                    <h3 class="card-title">📈 Usage Over Time</h3>
+                    <div class="chart-container">
+                        Chart visualization coming soon
+                    </div>
+                </div>
+            </div>
+
+            <div class="card">
+                <h3 class="card-title">💾 Export Options</h3>
+                <div class="export-section">
+                    <button class="btn btn-primary" onclick="exportLesson('json')">
+                        📄 Export as JSON
+                    </button>
+                    <button class="btn btn-primary" onclick="exportLesson('markdown')">
+                        📝 Export as Markdown
+                    </button>
+                    <button class="btn btn-primary" onclick="exportLesson('csv')">
+                        📊 Export as CSV
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let selectedLessonId = null;
+        let lessons = [];
+
+        // Load data on page load
+        document.addEventListener('DOMContentLoaded', function() {
+            loadOverviewStats();
+            loadLessons();
+            
+            // Check if specific lesson requested via URL
+            const params = new URLSearchParams(window.location.search);
+            const requestedLessonId = params.get('lesson');
+            if (requestedLessonId) {
+                selectedLessonId = requestedLessonId;
+                setTimeout(() => selectLesson(requestedLessonId), 1000);
+            }
+        });
+
+        async function loadOverviewStats() {
+            try {
+                const response = await fetch('/api/stats/overview');
+                const data = await response.json();
+
+                if (data.success) {
+                    displayOverviewStats(data.overview);
+                } else {
+                    document.getElementById('overviewStats').innerHTML = 
+                        '<div style="color: #e53e3e;">Failed to load statistics</div>';
+                }
+            } catch (error) {
+                document.getElementById('overviewStats').innerHTML = 
+                    '<div style="color: #e53e3e;">Error loading statistics: ' + error.message + '</div>';
+            }
+        }
+
+        function displayOverviewStats(stats) {
+            const statsHtml = `
+                <div class="stat-card">
+                    <div class="stat-value">${stats.totalLessons || 0}</div>
+                    <div class="stat-label">Total Lessons</div>
+                </div>
+                <div class="stat-card" style="border-left-color: #38a169;">
+                    <div class="stat-value">${stats.totalVocabulary || 0}</div>
+                    <div class="stat-label">Vocabulary Entries</div>
+                </div>
+                <div class="stat-card" style="border-left-color: #3182ce;">
+                    <div class="stat-value">${stats.totalStudents || 0}</div>
+                    <div class="stat-label">Unique Students</div>
+                </div>
+                <div class="stat-card" style="border-left-color: #e53e3e;">
+                    <div class="stat-value">${stats.totalSelections || 0}</div>
+                    <div class="stat-label">Word Selections</div>
+                </div>
+            `;
+            document.getElementById('overviewStats').innerHTML = statsHtml;
+        }
+
+        async function loadLessons() {
+            try {
+                const response = await fetch('/api/lessons');
+                const data = await response.json();
+
+                if (data.success) {
+                    lessons = data.lessons;
+                    displayLessons(lessons);
+                } else {
+                    document.getElementById('lessonsContainer').innerHTML = 
+                        '<div style="color: #718096; text-align: center;">No lessons found</div>';
+                }
+            } catch (error) {
+                document.getElementById('lessonsContainer').innerHTML = 
+                    '<div style="color: #e53e3e; text-align: center;">Error loading lessons: ' + error.message + '</div>';
+            }
+        }
+
+        function displayLessons(lessons) {
+            if (lessons.length === 0) {
+                document.getElementById('lessonsContainer').innerHTML = 
+                    '<div style="color: #718096; text-align: center;">No lessons created yet</div>';
+                return;
+            }
+
+            const lessonsHtml = lessons.map(lesson => {
+                const stats = lesson.stats || {};
+                const createdDate = new Date(lesson.created_at).toLocaleDateString();
+                const isSelected = selectedLessonId === lesson.id;
+                
+                return `
+                    <div class="lesson-item ${isSelected ? 'selected' : ''}" onclick="selectLesson('${lesson.id}')">
+                        <div class="lesson-header">
+                            <div>
+                                <div class="lesson-title">${lesson.title}</div>
+                                <div class="lesson-meta">
+                                    ${lesson.grade ? `Grade ${lesson.grade}` : ''} 
+                                    ${lesson.unit ? `• Unit ${lesson.unit}` : ''} 
+                                    • Created ${createdDate}
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="lesson-stats">
+                            <span class="stat">📊 ${stats.vocabulary_count || 0} vocabulary</span>
+                            <span class="stat">👥 ${stats.unique_students || 0} students</span>
+                            <span class="stat">✏️ ${stats.total_selections || 0} selections</span>
+                            <span class="stat">🔄 ${stats.processing_sessions || 0} sessions</span>
+                        </div>
+                    </div>
+                `;
+            }).join('');
+
+            document.getElementById('lessonsContainer').innerHTML = `<div class="lessons-grid">${lessonsHtml}</div>`;
+        }
+
+        async function selectLesson(lessonId) {
+            selectedLessonId = lessonId;
+            
+            // Update visual selection
+            document.querySelectorAll('.lesson-item').forEach(item => {
+                item.classList.remove('selected');
+            });
+            event.target.closest('.lesson-item').classList.add('selected');
+            
+            // Find lesson data
+            const lesson = lessons.find(l => l.id === lessonId);
+            if (!lesson) return;
+            
+            document.getElementById('selectedLessonTitle').textContent = `📊 ${lesson.title} - Statistics`;
+            document.getElementById('detailedStats').style.display = 'block';
+            
+            // Load detailed stats
+            await loadLessonStats(lessonId);
+            
+            // Smooth scroll to detailed stats
+            document.getElementById('detailedStats').scrollIntoView({ behavior: 'smooth' });
+        }
+
+        async function loadLessonStats(lessonId) {
+            try {
+                document.getElementById('lessonStatsContent').innerHTML = 
+                    '<div class="loading"><div class="spinner"></div>Loading detailed statistics...</div>';
+                document.getElementById('popularWords').innerHTML = 
+                    '<div class="loading"><div class="spinner"></div>Loading word statistics...</div>';
+
+                const response = await fetch(`/api/lessons/${lessonId}/stats`);
+                const data = await response.json();
+
+                if (data.success) {
+                    displayLessonStats(data.stats);
+                    displayPopularWords(data.stats.wordSelections || []);
+                } else {
+                    document.getElementById('lessonStatsContent').innerHTML = 
+                        '<div style="color: #e53e3e;">Failed to load lesson statistics</div>';
+                }
+            } catch (error) {
+                document.getElementById('lessonStatsContent').innerHTML = 
+                    '<div style="color: #e53e3e;">Error loading statistics: ' + error.message + '</div>';
+            }
+        }
+
+        function displayLessonStats(stats) {
+            const statsHtml = `
+                <div class="stats-grid">
+                    <div class="stat-card">
+                        <div class="stat-value">${stats.vocabulary_count || 0}</div>
+                        <div class="stat-label">Vocabulary Entries</div>
+                    </div>
+                    <div class="stat-card" style="border-left-color: #38a169;">
+                        <div class="stat-value">${stats.unique_students || 0}</div>
+                        <div class="stat-label">Unique Students</div>
+                    </div>
+                    <div class="stat-card" style="border-left-color: #3182ce;">
+                        <div class="stat-value">${stats.total_selections || 0}</div>
+                        <div class="stat-label">Word Selections</div>
+                    </div>
+                    <div class="stat-card" style="border-left-color: #e53e3e;">
+                        <div class="stat-value">${stats.processing_sessions || 0}</div>
+                        <div class="stat-label">AI Sessions</div>
+                    </div>
+                </div>
+                
+                ${stats.total_selections > 0 ? 
+                    `<div class="alert alert-info" style="margin-top: 1rem;">
+                        <span>ℹ️</span>
+                        <span>Students have selected words ${stats.total_selections} times from this lesson. Average: ${Math.round(stats.total_selections / Math.max(stats.unique_students, 1))} selections per student.</span>
+                    </div>` 
+                    : 
+                    '<div class="alert alert-info" style="margin-top: 1rem;"><span>ℹ️</span><span>No student activity yet for this lesson.</span></div>'
+                }
+            `;
+            document.getElementById('lessonStatsContent').innerHTML = statsHtml;
+        }
+
+        function displayPopularWords(wordSelections) {
+            if (wordSelections.length === 0) {
+                document.getElementById('popularWords').innerHTML = 
+                    '<div style="color: #718096; text-align: center; padding: 2rem;">No word selections yet</div>';
+                return;
+            }
+
+            const wordsHtml = wordSelections.slice(0, 10).map((word, index) => `
+                <div class="word-stat">
+                    <div class="word-name">${index + 1}. ${word.word}</div>
+                    <div class="word-count">${word.selection_count}</div>
+                </div>
+            `).join('');
+
+            document.getElementById('popularWords').innerHTML = `<div class="popular-words">${wordsHtml}</div>`;
+        }
+
+        async function exportLesson(format) {
+            if (!selectedLessonId) {
+                alert('Please select a lesson first');
+                return;
+            }
+
+            try {
+                const response = await fetch(`/api/export/${selectedLessonId}/${format}`);
+                
+                if (response.ok) {
+                    // Get filename from Content-Disposition header or create default
+                    const contentDisposition = response.headers.get('content-disposition');
+                    let filename = `lesson-vocabulary.${format}`;
+                    
+                    if (contentDisposition) {
+                        const filenameMatch = contentDisposition.match(/filename="?(.+)"?/);
+                        if (filenameMatch) {
+                            filename = filenameMatch[1];
+                        }
+                    }
+
+                    // Handle different response types
+                    let blob;
+                    if (format === 'json') {
+                        const data = await response.json();
+                        blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
+                    } else {
+                        blob = await response.blob();
+                    }
+
+                    // Download file
+                    const url = URL.createObjectURL(blob);
+                    const a = document.createElement('a');
+                    a.href = url;
+                    a.download = filename;
+                    document.body.appendChild(a);
+                    a.click();
+                    document.body.removeChild(a);
+                    URL.revokeObjectURL(url);
+                } else {
+                    const errorData = await response.json();
+                    alert('Export failed: ' + errorData.message);
+                }
+            } catch (error) {
+                alert('Export error: ' + error.message);
+            }
+        }
+    </script>
+</body>
+</html>
