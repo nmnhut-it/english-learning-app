@@ -173,20 +173,6 @@ Phong & Nam: Tạm biệt.
 20. **cycle:** (v) đạp xe /ˈsaɪ.kəl/  
 21. **best:** (adj) tốt nhất /bɛst/
 
-**Thì hiện tại tiếp diễn: Ai đó đang làm gì**   
-**Công thức**  
-**(+) Chủ từ \+ am/is/are \+ V-ing ….**  
-Ví dụ: I am learning English. He is learning English. They are learning English.   
-**(-)** **Chủ từ \+ am/is/are \+ not \+ V-ing ….**  
-**Lưu ý**  
-are not \= aren’t   
-is not \= isn’t   
-**(?) …. \+ am/is/are \+ chủ từ \+ V-ing \+ …?**   
-**→ Yes, chủ từ \+ am/is/are**   
-**No, chủ từ \+ am not/isn’t/aren’t**  
-**Dấu hiệu nhận biết**   
-Câu có “now”, “at the moment”, “at present” \= bây giờ 
-
 22. **friend:** (n) bạn bè /frɛnd/  
 23. **not:** (adv) không /nɒt/  
 24. **walk:** (v) đi bộ /wɔːk/  
@@ -212,6 +198,38 @@ Câu có “now”, “at the moment”, “at present” \= bây giờ
 44. **now:** (adv) bây giờ /naʊ/  
 45. **homework:** (n) bài tập về nhà /ˈhoʊm.wɝːk/  
 46. **read:** (v) đọc /riːd/
+
+
+**Thì hiện tại tiếp diễn: Ai đó đang làm gì**   
+**Công thức**  
+**(+) Chủ từ \+ am/is/are \+ V-ing ….**  
+Ví dụ: I am learning English. He is learning English. They are learning English.   
+**(-)** **Chủ từ \+ am/is/are \+ not \+ V-ing ….**  
+**Lưu ý**  
+are not \= aren’t   
+is not \= isn’t   
+**(?) …. \+ am/is/are \+ chủ từ \+ V-ing \+ …?**   
+**→ Yes, chủ từ \+ am/is/are**   
+**No, chủ từ \+ am not/isn’t/aren’t**  
+**Dấu hiệu nhận biết**   
+Câu có “now”, “at the moment”, “at present” \= bây giờ 
+
+----
+**Nhắc lại cách chia am/is/are** 
+
+Bước 1: Xác định chủ từ. (người/vật thực hiện hành động)
+
+Bước 2: Phân tích: 
+
+Chủ từ là I --> am 
+
+Chủ từ là He/she/it/1 người/1 vật --> is
+
+Chủ từ là You/we/they/nhiều người/ nhiều vật --> are
+
+-----
+
+
 
 **Bài 1 trang 29** 
 
@@ -246,11 +264,37 @@ Câu có “now”, “at the moment”, “at present” \= bây giờ
 
 1. Câu 1: có “every” → htđ → doesn’t walk   
    Câu 2: có “sometimes” → htđ → cycles.   
-2. Có “Look\!” (từ thu hút sự chú ý) → httd → is …. playing.   
+2. Có “Look\!” (từ thu hút sự chú ý, hành động phải đang xảy ra thì mới thu hút được sự chú ý) → httd → is …. playing.   
 3. Có “every” → htđ → Do  ….. study …?   
 4. Có “now” → httd → am writing   
 5. Có “now” → httd → is not doing \= isn’t doing   
    is reading.  
+
+----
+
+1. My best friend doesn't walk to school every day. Sometimes she cycles.
+
+(Bạn thân nhất của tôi không đi bộ đến trường mỗi ngày. Đôi khi cô ấy đi xe đạp.)
+
+2. Look! What is he playing?
+
+(Xem kìa! Anh ta đang chơi trò gì vậy?)
+
+3. Do your friends  study in the library every afternoon?
+
+(Bạn bè của bạn có học trong thư viện vào mỗi buổi chiều không?)
+
+4. I am writing an email to my friend now.
+
+(Bây giờ tôi đang viết một email cho bạn của tôi.)
+
+5. He isn't doing his homework now. He is reading.
+
+(Bây giờ anh ấy không làm bài tập về nhà. Anh ấy đang đọc sách.) 
+
+
+----
+
 
 **COMMUNICATION**
 

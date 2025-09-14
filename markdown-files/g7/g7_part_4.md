@@ -187,6 +187,39 @@ Tam is not as fat as Hoang.
 
 **Bài 2 trang 43** 
 
+1. Rock is very exciting. It is not like country music.
+
+(Rock là rất thú vị. Nó không giống như nhạc đồng quê.)
+
+=> Rock is very _______ country music.
+
+2. Composer Hoang Long wrote many good songs for children. Composer Pham Tuyen also wrote many good songs for children. 
+
+(Nhạc sĩ Hoàng Long đã viết rất nhiều bài hát hay cho thiếu nhi. Nhạc sĩ Phạm Tuyên cũng viết nhiều ca khúc hay cho thiếu nhi.)
+
+=> Composer Hoang Long _______ Pham Tuyen, wrote many good songs for children.
+
+3. The Vatican Museum has excellent works of art. The Louvre Museum has excellent works of art too.
+
+(Bảo tàng Vatican có những tác phẩm nghệ thuật đặc sắc. Bảo tàng Louvre cũng có những tác phẩm nghệ thuật xuất sắc.)
+
+=> The Vatican Museum's works of art are _______ excellent _______ the Louvre Museum's works of art.
+
+4. A vacation on the beach is relaxing, while a vacation in a big city may not be.
+
+(Một kỳ nghỉ trên bãi biển là thư giãn, trong khi một kỳ nghỉ ở một thành phố lớn có thể không.)
+
+=> A vacation on the beach is _______ a vacation in a big city.
+
+5. City life is busy, but country life is peaceful. 
+
+(Cuộc sống thành phố bận rộn, nhưng cuộc sống thôn quê yên bình.)
+
+=> City life is not _______ peaceful ________ country life. 
+
+
+**Đáp án**
+
 1\. different from
 
 2\. like
@@ -197,15 +230,32 @@ Tam is not as fat as Hoang.
 
 5\. as…as
 
-1\. Nhạc rock thì rất khác nhạc đồng quê
 
-2\. Nhạc sĩ Hoàng Long, giống như Phạm Tuyên đã viết rất nhiều bài hát hay cho trẻ em
+----
+1. Rock is very different from country music.
 
-3\. Các tác phẩm nghệ thuật ở bảo tàng Vatican thì tuyệt vời như ở bảo tàng Louvre
+(Nhạc Rock rất khác với nhạc đồng quê.)
 
-4\. Kì nghỉ ở biển khác với kì nghỉ ở thành phố
+2. Composer Hoang Long as Pham Tuyen, wrote many good songs for children.
 
-5\. Cuộc sống ở thành phố thì không yên bình bằng cuộc sống ở nông thôn
+(Nhạc sĩ Hoàng Long cũng như nhạc sĩ Phạm Tuyên, viết nhiều bài hát hay cho thiếu nhi.)
+
+3. The Vatican Museum's works of art are as excellent as the Louvre Museum's works of art.
+
+(Các tác phẩm nghệ thuật của Bảo tàng Vatican cũng xuất sắc như các tác phẩm nghệ thuật của Bảo tàng Louvre.)
+
+4. A vacation on the beach is different from a vacation in a big city.
+
+(Một kỳ nghỉ trên bãi biển khác với một kỳ nghỉ ở một thành phố lớn.)
+
+5. City life is not as peaceful as country life. 
+
+(Cuộc sống thành phố không yên bình bằng cuộc sống nông thôn.) 
+
+
+
+
+----
 
 **Bài 3 trang 44**
 
@@ -233,19 +283,91 @@ Tam is not as fat as Hoang.
 
 1. **prefer A to B**: thích A hơn B /prɪˈfɜːr eɪ tə biː/  
 2. **like A better than B**: thích A hơn B /laɪk eɪ ˈbet.ər ðən biː/  
-3. **water puppetry** (n): múa rối nước /ˈwɔː.tər ˈpʌp.ɪ.tri/  
-4. **puppet** (n): con rối /ˈpʌp.ɪt/  
-5. **originate** (v): bắt nguồn /əˈrɪdʒ.ɪ.neɪt/  
-6. **famous for**: nổi tiếng vì /ˈfeɪ.məs fə/  
-7. **compose** (v): sáng tác /kəmˈpəʊz/  
-8. **singer** (n): ca sĩ /ˈsɪŋ.ər/  
-9. **forms of art** (n): hình thức nghệ thuật /fɔːmz əv ɑːt/  
-10. **optional** (adj): tự chọn /ˈɒp.ʃən.əl/  
-11. **choose** (v): chọn /tʃuːz/  
-12. **compulsory** (adj): bắt buộc /kəmˈpʌl.sər.i/  
-13. **choir** (n): dàn đồng ca /kwaɪər/
 
-Xin chào. Tên tôi là Suise. Tôi đến từ nước Úc. Tôi thì ở khối 7\. Trường của tôi dạy nghệ thuật và âm nhạc tới tất cả các học sinh. một vài hình thức nghệ thuật như là vẽ tranh hoặc kịch thì tùy chọn: bạn có thể chọn học chúng nếu bạn muốn. Âm nhạc và nhảy múa là bắt buộc: tất cả chúng tôi phải học chúng mỗi tuần. Ngôi trường thậm chí có một dàn đồng ca, và họ biểu diễn mỗi tháng. Cũng có những câu lạc bộ nghệ thuật khác nhau, và bạn có thể tham gia bất cứ cái nào trong số chúng. 
+
+**Bài 2 trang 45** 
+
+A: Which do you prefer, painting or taking photos?
+
+B: I prefer painting. I like working with water color. 
+
+A: Which do you like better, singing or dancing? 
+
+A: I like singing better. Mum says I have a good voice.
+
+**Bài 3 trang 45**
+
+3. Quiz. What do you know? Work in groups and choose the correct answer to each question.
+
+(Bạn có biết? Làm việc theo nhóm và chọn câu trả lời đúng cho mỗi câu hỏi.)
+
+1. Who is the composer of Viet Nam's national anthem "Tien Quan Ca"?
+
+(Ai là người sáng tác quốc ca “Tiến Quân ca” của Việt Nam?)
+
+A. Pham Tuyen. (Nhạc sĩ Phạm Tuyên.)
+
+B. Van Cao. (Nhạc sĩ Văn Cao.)
+
+C. An Thuyen. (Nhạc sĩ An Thuyên.)
+
+2. Where in Viet Nam did water puppetry originate?              
+
+(Múa rối nước bắt nguồn từ đâu ở Việt Nam?)
+
+A. In the North. (Ở phía Bắc.)
+
+B. In the central region. (Ở miền Trung.)
+
+C. In the South. (Ở miền Nam.)
+
+3. What is Bac Ninh famous for?
+
+(Bắc Ninh nổi tiếng vì?)
+
+A. Quan Ho singing. (Hát quan họ.)
+
+B. Vi Dam singing. (Hát Ví dặm.)
+
+C. Cal Wong opera. (Hát tuồng.)
+
+4. Mozart is one of the world's greatest _______.
+
+(Mozart là một trong những ______ vĩ đại nhất thế giới.)
+
+A. singers (ca sĩ)
+
+B. composers (nhà soạn nhạc)
+
+C. poets (nhà thơ)
+
+Lời giải chi tiết:
+
+1. B
+2. A
+3. A
+4. B
+
+---
+
+
+1. B - Who is the composer of Viet Nam's national anthem "Tien Quan Ca"? => B. Van Cao. 
+(Ai là người sáng tác quốc ca “Tiến Quân ca” của Việt Nam? - Nhạc sĩ Văn Cao.)
+
+2. A - Where in Viet Nam did water puppetry originate?=> A. In the North.
+(Múa rối nước bắt nguồn từ đâu ở Việt Nam? - Ở phía Bắc.)
+
+3. What is Bac Ninh famous for? => A. Quan Ho singing.
+(Bắc Ninh nổi tiếng vì? - Hát quan họ.)
+
+4. Mozart is one of the world's greatest composers.
+(Mozart là một trong những nhà soạn nhạc vĩ đại nhất thế giới.) 
+
+
+**Bài 4 trang 45**
+
+
+Xin chào. Tên tôi là Suise. Tôi đến từ nước Úc. Tôi thì ở khối 7. Trường của tôi dạy nghệ thuật và âm nhạc tới tất cả các học sinh. một vài hình thức nghệ thuật như là vẽ tranh hoặc kịch thì tùy chọn: bạn có thể chọn học chúng nếu bạn muốn. Âm nhạc và nhảy múa là bắt buộc: tất cả chúng tôi phải học chúng mỗi tuần. Ngôi trường thậm chí có một dàn đồng ca, và họ biểu diễn mỗi tháng. Cũng có những câu lạc bộ nghệ thuật khác nhau, và bạn có thể tham gia bất cứ cái nào trong số chúng. 
 
 **SKILLS 1** 
 

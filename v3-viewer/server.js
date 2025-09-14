@@ -1279,6 +1279,626 @@ app.get('/api/cache/popular', async (req, res) => {
   }
 });
 
+// V3 Vocabulary endpoint - cloned from vocab-tool-docker
+app.get('/v3-vocab', (req, res) => {
+  const html = `
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Teacher Dashboard - Vocabulary Tool</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: #f5f7fa;
+            color: #2d3748;
+            line-height: 1.6;
+        }
+
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 1rem 0;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+
+        .header-content {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 1rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .logo {
+            font-size: 1.5rem;
+            font-weight: 600;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .nav-links {
+            display: flex;
+            gap: 1rem;
+        }
+
+        .nav-links a {
+            color: white;
+            text-decoration: none;
+            padding: 0.5rem 1rem;
+            border-radius: 4px;
+            transition: background-color 0.2s;
+        }
+
+        .nav-links a:hover {
+            background-color: rgba(255,255,255,0.1);
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 2rem 1rem;
+        }
+
+        .page-title {
+            font-size: 2rem;
+            font-weight: 600;
+            margin-bottom: 0.5rem;
+            color: #2d3748;
+        }
+
+        .page-subtitle {
+            color: #718096;
+            margin-bottom: 2rem;
+        }
+
+        .card {
+            background: white;
+            border-radius: 8px;
+            padding: 1.5rem;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            margin-bottom: 2rem;
+        }
+
+        .form-group {
+            margin-bottom: 1.5rem;
+        }
+
+        .form-label {
+            display: block;
+            font-weight: 500;
+            margin-bottom: 0.5rem;
+            color: #4a5568;
+        }
+
+        .form-input, .form-textarea, .form-select {
+            width: 100%;
+            padding: 0.75rem;
+            border: 2px solid #e2e8f0;
+            border-radius: 6px;
+            font-size: 1rem;
+            transition: border-color 0.2s;
+        }
+
+        .form-input:focus, .form-textarea:focus, .form-select:focus {
+            outline: none;
+            border-color: #667eea;
+            box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+        }
+
+        .form-textarea {
+            min-height: 200px;
+            resize: vertical;
+            font-family: inherit;
+        }
+
+        .form-row {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1rem;
+        }
+
+        .btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            padding: 0.75rem 1.5rem;
+            border: none;
+            border-radius: 6px;
+            font-size: 1rem;
+            font-weight: 500;
+            cursor: pointer;
+            transition: all 0.2s;
+            text-decoration: none;
+        }
+
+        .btn-primary {
+            background: #667eea;
+            color: white;
+        }
+
+        .btn-primary:hover {
+            background: #5a67d8;
+            transform: translateY(-1px);
+        }
+
+        .btn-secondary {
+            background: #e2e8f0;
+            color: #4a5568;
+        }
+
+        .btn-secondary:hover {
+            background: #cbd5e0;
+        }
+
+        .btn:disabled {
+            opacity: 0.6;
+            cursor: not-allowed;
+            transform: none;
+        }
+
+        .alert {
+            padding: 1rem;
+            border-radius: 6px;
+            margin-bottom: 1rem;
+            display: flex;
+            align-items: flex-start;
+            gap: 0.75rem;
+        }
+
+        .alert-success {
+            background: #f0fff4;
+            color: #22543d;
+            border: 1px solid #68d391;
+        }
+
+        .alert-error {
+            background: #fed7d7;
+            color: #742a2a;
+            border: 1px solid #fc8181;
+        }
+
+        .alert-info {
+            background: #ebf8ff;
+            color: #2a4365;
+            border: 1px solid #63b3ed;
+        }
+
+        .lessons-grid {
+            display: grid;
+            gap: 1rem;
+        }
+
+        .lesson-card {
+            background: white;
+            border: 1px solid #e2e8f0;
+            border-radius: 8px;
+            padding: 1rem;
+            transition: all 0.2s;
+        }
+
+        .lesson-card:hover {
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+            transform: translateY(-1px);
+        }
+
+        .lesson-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            margin-bottom: 0.5rem;
+        }
+
+        .lesson-title {
+            font-weight: 600;
+            color: #2d3748;
+            margin-bottom: 0.25rem;
+        }
+
+        .lesson-meta {
+            font-size: 0.875rem;
+            color: #718096;
+        }
+
+        .lesson-stats {
+            display: flex;
+            gap: 1rem;
+            margin-top: 0.5rem;
+            font-size: 0.875rem;
+        }
+
+        .stat {
+            background: #f7fafc;
+            padding: 0.25rem 0.5rem;
+            border-radius: 4px;
+            color: #4a5568;
+        }
+
+        .student-url {
+            background: #e6fffa;
+            border: 1px dashed #38b2ac;
+            border-radius: 6px;
+            padding: 1rem;
+            margin-top: 1rem;
+        }
+
+        .student-url-header {
+            font-weight: 500;
+            color: #2d3748;
+            margin-bottom: 0.5rem;
+        }
+
+        .url-display {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            font-family: monospace;
+            background: white;
+            padding: 0.5rem;
+            border-radius: 4px;
+            border: 1px solid #bee3f8;
+        }
+
+        .url-text {
+            flex: 1;
+            color: #2b6cb0;
+            word-break: break-all;
+        }
+
+        .copy-btn {
+            padding: 0.25rem 0.5rem;
+            font-size: 0.75rem;
+            min-width: auto;
+        }
+
+        .loading {
+            display: inline-block;
+            width: 20px;
+            height: 20px;
+            border: 2px solid #e2e8f0;
+            border-top-color: #667eea;
+            border-radius: 50%;
+            animation: spin 0.8s linear infinite;
+        }
+
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+
+        .hidden {
+            display: none;
+        }
+
+        @media (max-width: 768px) {
+            .form-row {
+                grid-template-columns: 1fr;
+            }
+
+            .lesson-header {
+                flex-direction: column;
+                align-items: flex-start;
+            }
+
+            .lesson-stats {
+                flex-wrap: wrap;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header class="header">
+        <div class="header-content">
+            <div class="logo">
+                📚 Vocabulary Tool V3
+            </div>
+            <nav class="nav-links">
+                <a href="/">Home</a>
+                <a href="/mobile">Mobile</a>
+                <a href="/translations">Translations</a>
+            </nav>
+        </div>
+    </header>
+
+    <div class="container">
+        <h1 class="page-title">Teacher Dashboard</h1>
+        <p class="page-subtitle">Create lessons for students to practice vocabulary in context (V3 Integration)</p>
+
+        <!-- Create Lesson Form -->
+        <div class="card">
+            <h2 style="margin-bottom: 1rem;">Create New Lesson</h2>
+
+            <form id="lessonForm">
+                <div class="form-group">
+                    <label class="form-label">Lesson Title *</label>
+                    <input type="text" id="title" class="form-input" placeholder="e.g., Unit 3: Hobbies and Interests" required>
+                </div>
+
+                <div class="form-row">
+                    <div class="form-group">
+                        <label class="form-label">Grade</label>
+                        <select id="grade" class="form-select">
+                            <option value="">Auto-detect</option>
+                            <option value="6">Grade 6</option>
+                            <option value="7">Grade 7</option>
+                            <option value="8">Grade 8</option>
+                            <option value="9">Grade 9</option>
+                            <option value="10">Grade 10</option>
+                            <option value="11">Grade 11</option>
+                            <option value="12">Grade 12</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label class="form-label">Unit Number</label>
+                        <input type="number" id="unit" class="form-input" placeholder="3" min="1" max="20">
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label class="form-label">Lesson Content *</label>
+                    <textarea id="content" class="form-textarea" placeholder="Paste your lesson content here (dialogues, reading passages, vocabulary lists, etc.)
+
+Example:
+A: What do you like to do in your free time?
+B: I enjoy playing guitar and reading books. What about you?
+A: I'm into photography and hiking. Do you have any hobbies?
+B: Yes, I collect stamps and coins from different countries.
+
+[You can add vocabulary lists, reading passages, or any content students should learn from]" required></textarea>
+                </div>
+
+                <button type="submit" class="btn btn-primary" id="createBtn">
+                    <span id="createBtnText">Create Lesson</span>
+                    <span id="createBtnLoading" class="loading hidden"></span>
+                </button>
+            </form>
+        </div>
+
+        <!-- Alert Messages -->
+        <div id="alertContainer"></div>
+
+        <!-- Student URL Display -->
+        <div id="studentUrlCard" class="student-url hidden">
+            <div class="student-url-header">✅ Lesson Created! Share this link with students:</div>
+            <div class="url-display">
+                <span class="url-text" id="studentUrl"></span>
+                <button type="button" class="btn btn-secondary copy-btn" onclick="copyUrl()">Copy</button>
+            </div>
+        </div>
+
+        <!-- Recent Lessons -->
+        <div class="card">
+            <h2 style="margin-bottom: 1rem;">Available Markdown Files</h2>
+            <div id="lessonsContainer">
+                <div class="loading" style="margin: 2rem auto; display: block;"></div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let currentStudentUrl = '';
+        let fileTree = {};
+        let flattenedFiles = [];
+
+        // Load files on page load
+        document.addEventListener('DOMContentLoaded', function() {
+            loadFiles();
+        });
+
+        // Create lesson form submission (adapted for V3)
+        document.getElementById('lessonForm').addEventListener('submit', async function(e) {
+            e.preventDefault();
+
+            const title = document.getElementById('title').value.trim();
+            const grade = document.getElementById('grade').value;
+            const unit = document.getElementById('unit').value;
+            const content = document.getElementById('content').value.trim();
+
+            if (!title || !content) {
+                showAlert('Please fill in all required fields', 'error');
+                return;
+            }
+
+            setLoading(true);
+            clearAlerts();
+
+            try {
+                // Since this is V3 integration, we'll just show success message
+                // Real implementation would integrate with actual V3 backend
+                showAlert('Lesson content prepared! (V3 Integration - would save to markdown-files)', 'info');
+
+                // Generate a mock student URL for demo
+                const mockId = Math.random().toString(36).substr(2, 9);
+                const fullUrl = window.location.origin + '/view/generated-' + mockId + '.md';
+                currentStudentUrl = fullUrl;
+                document.getElementById('studentUrl').textContent = fullUrl;
+                document.getElementById('studentUrlCard').classList.remove('hidden');
+
+                // Clear form
+                document.getElementById('lessonForm').reset();
+
+            } catch (error) {
+                showAlert('Error: ' + error.message, 'error');
+            } finally {
+                setLoading(false);
+            }
+        });
+
+        async function loadFiles() {
+            try {
+                const response = await fetch('/api/files');
+                const data = await response.json();
+
+                if (data.success) {
+                    fileTree = data.fileTree;
+                    flattenedFiles = flattenFileTree(fileTree);
+                    displayFiles();
+                } else {
+                    document.getElementById('lessonsContainer').innerHTML =
+                        '<p style="color: #718096; text-align: center;">No files found</p>';
+                }
+            } catch (error) {
+                document.getElementById('lessonsContainer').innerHTML =
+                    '<p style="color: #e53e3e; text-align: center;">Error loading files: ' + error.message + '</p>';
+            }
+        }
+
+        function flattenFileTree(tree) {
+            let files = [];
+
+            function traverse(node, path = '') {
+                if (node.type === 'file' && node.name.endsWith('.md')) {
+                    files.push({
+                        name: node.name,
+                        path: path + node.name,
+                        fullPath: node.fullPath || (path + node.name)
+                    });
+                } else if (node.type === 'directory' && node.children) {
+                    const newPath = path + node.name + '/';
+                    node.children.forEach(child => traverse(child, newPath));
+                }
+            }
+
+            if (Array.isArray(tree)) {
+                tree.forEach(item => traverse(item));
+            } else {
+                traverse(tree);
+            }
+
+            return files;
+        }
+
+        function displayFiles() {
+            const container = document.getElementById('lessonsContainer');
+
+            if (flattenedFiles.length === 0) {
+                container.innerHTML = '<p style="color: #718096; text-align: center;">No markdown files found</p>';
+                return;
+            }
+
+            const filesHtml = flattenedFiles.slice(0, 10).map(file => {
+                const fileName = file.name.replace('.md', '');
+                const filePath = file.path;
+
+                return \`
+                    <div class="lesson-card">
+                        <div class="lesson-header">
+                            <div>
+                                <div class="lesson-title">\${fileName}</div>
+                                <div class="lesson-meta">Path: \${filePath}</div>
+                            </div>
+                        </div>
+
+                        <div class="lesson-stats">
+                            <span class="stat">📄 Markdown File</span>
+                            <span class="stat">📚 V3 Compatible</span>
+                        </div>
+
+                        <div style="margin-top: 1rem; display: flex; gap: 0.5rem; flex-wrap: wrap;">
+                            <a href="/view/\${file.fullPath}" target="_blank" class="btn btn-primary" style="font-size: 0.875rem;">
+                                👁️ View
+                            </a>
+                            <button onclick="copyToClipboard('/view/\${file.fullPath}')" class="btn btn-secondary" style="font-size: 0.875rem;">
+                                📋 Copy Link
+                            </button>
+                            <button onclick="useAsTemplate('\${file.fullPath}')" class="btn btn-secondary" style="font-size: 0.875rem;">
+                                📝 Use as Template
+                            </button>
+                        </div>
+                    </div>
+                \`;
+            }).join('');
+
+            container.innerHTML = \`<div class="lessons-grid">\${filesHtml}</div>\`;
+        }
+
+        async function useAsTemplate(filePath) {
+            try {
+                const response = await fetch(\`/raw/\${filePath}\`);
+                const content = await response.text();
+
+                // Extract title from file name
+                const fileName = filePath.split('/').pop().replace('.md', '');
+
+                document.getElementById('title').value = fileName;
+                document.getElementById('content').value = content;
+
+                showAlert('Template loaded! Modify as needed and create lesson.', 'success');
+
+            } catch (error) {
+                showAlert('Error loading template: ' + error.message, 'error');
+            }
+        }
+
+        function showAlert(message, type) {
+            const alertContainer = document.getElementById('alertContainer');
+            const alert = document.createElement('div');
+            alert.className = \`alert alert-\${type}\`;
+            alert.innerHTML = \`
+                <span>\${getAlertIcon(type)}</span>
+                <span>\${message}</span>
+            \`;
+            alertContainer.appendChild(alert);
+
+            // Auto-remove after 5 seconds
+            setTimeout(() => {
+                if (alert.parentNode) {
+                    alert.parentNode.removeChild(alert);
+                }
+            }, 5000);
+        }
+
+        function getAlertIcon(type) {
+            switch (type) {
+                case 'success': return '✅';
+                case 'error': return '❌';
+                case 'info': return 'ℹ️';
+                default: return '📝';
+            }
+        }
+
+        function clearAlerts() {
+            document.getElementById('alertContainer').innerHTML = '';
+        }
+
+        function setLoading(loading) {
+            const btn = document.getElementById('createBtn');
+            const text = document.getElementById('createBtnText');
+            const spinner = document.getElementById('createBtnLoading');
+
+            btn.disabled = loading;
+            text.style.display = loading ? 'none' : 'inline';
+            spinner.classList.toggle('hidden', !loading);
+        }
+
+        function copyUrl() {
+            copyToClipboard(currentStudentUrl);
+        }
+
+        function copyToClipboard(text) {
+            const fullUrl = window.location.origin + text;
+            navigator.clipboard.writeText(fullUrl).then(() => {
+                showAlert('Link copied to clipboard!', 'success');
+            }).catch(() => {
+                showAlert('Failed to copy link', 'error');
+            });
+        }
+    </script>
+</body>
+</html>
+  `;
+
+  res.send(html);
+});
+
 // Network info endpoint
 app.get('/api/network-info', (req, res) => {
   res.json({
