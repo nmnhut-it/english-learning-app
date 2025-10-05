@@ -1,5 +1,27 @@
 # Unit 6: Preserving Our Heritage - Speaking
 
+## Vocabulary: 
+
+1. **way**: (n) cách, phương pháp /weɪ/
+1. **widely**: (adv) rộng rãi, phổ biến /ˈwaɪdli/
+1. **practice**: (n) thực hành, luyện tập; (v) thực hành, luyện tập /ˈpræktɪs/
+1. **practise**: (v) thực hành, luyện tập /ˈpræktɪs/
+1. **interested**: (adj) quan tâm, hứng thú /ˈɪntrəstɪd/
+1. **ecosystem**: (n) hệ sinh thái /ˈiːkəʊˌsɪstəm/
+1. **fact**: (n) sự thật, sự kiện /fækt/
+1. **30,000 years**: ba mươi nghìn năm /ˈθɜːti ˈθaʊzənd jɪəz/
+1. **architecture**: (n) kiến trúc /ˈɑːkɪtektʃə/
+1. **teenager**: (n) thanh thiếu niên (13-19 tuổi) /ˈtiːneɪdʒə/
+1. **involve**: (v) liên quan, tham gia /ɪnˈvɒlv/
+1. **absolutely**: (adv) hoàn toàn, tuyệt đối /ˈæbsəluːtli/
+1. **curriculum**: (n) chương trình giảng dạy /kəˈrɪkjələm/
+1. **heritage**: (n) di sản /ˈherɪtɪdʒ/
+1. **promote**: (v) quảng bá, thúc đẩy /prəˈməʊt/
+1. **organise**: (v) tổ chức, sắp xếp /ˈɔːɡənaɪz/
+1. **competition**: (n) cuộc thi, sự cạnh tranh /ˌkɒmpəˈtɪʃən/
+1. **preserve**: (v) bảo tồn, giữ gìn /prɪˈzɜːv/
+1. **encourage**: (v) khuyến khích, động viên /ɪnˈkʌrɪdʒ/
+
 ## Preserving cultural heritage (Giữ gìn di sản văn hóa)
 
 ### Exercise 1

@@ -1,5 +1,103 @@
 # Unit 6: Preserving our heritage - Language
 
+## Vocabulary: 
+
+1. **describe**: (v) mô tả, miêu tả /dɪˈskraɪb/
+1. **intonation**: (n) ngữ điệu /ˌɪntəˈneɪʃən/
+1. **fall - fell - fallen**: (v) rơi, giảm xuống /fɔːl - fel - ˈfɔːlən/
+1. **statement**: (n) câu trần thuật, lời phát biểu /ˈsteɪtmənt/
+1. **command**: (n) mệnh lệnh; (v) ra lệnh /kəˈmɑːnd/
+1. **certainty**: (n) sự chắc chắn /ˈsɜːtənti/
+1. **certain**: (adj) chắc chắn /ˈsɜːtən/
+1. **slightly**: (adv) hơi, một chút /ˈslaɪtli/
+1. **slight**: (adj) nhẹ, ít /slaɪt/
+1. **valley**: (n) thung lũng /ˈvæli/
+1. **heritage site**: di sản /ˈherɪtɪdʒ saɪt/
+1. **heritage**: (n) di sản /ˈherɪtɪdʒ/
+1. **pedestrian**: (n) người đi bộ; (adj) dành cho người đi bộ /pəˈdestriən/
+1. **restore**: (v) khôi phục, phục hồi /rɪˈstɔː/
+1. **preserve**: (v) bảo tồn, giữ gìn /prɪˈzɜːv/
+1. **folk**: (adj) dân gian, thuộc về dân tộc /fəʊk/
+1. **authority**: (n) chính quyền, cơ quan có thẩm quyền /ɔːˈθɒrəti/
+1. **ordinary**: (adj) bình thường, thông thường /ˈɔːdənəri/
+
+---
+
+# UNIT 6: PRESERVING OUR HERITAGE - LÝ THUYẾT
+
+## I. NGỮ ĐIỆU (INTONATION)
+
+### 1. Ngữ điệu giảm (Falling Intonation) ↘
+
+**Giọng đi xuống ở cuối câu**
+
+**Dùng cho:**
+- **Câu trần thuật:** 
+  - I live in Hanoi. ↘
+  - She is a teacher. ↘
+
+- **Câu mệnh lệnh:**
+  - Close the door! ↘
+  - Be quiet! ↘
+
+- **Câu hỏi Wh-:**
+  - What's your name? ↘
+  - Where do you live? ↘
+
+### 2. Ngữ điệu tăng (Rising Intonation) ↗
+
+**Giọng đi lên ở cuối từ/câu**
+
+**Dùng cho:**
+- **Liệt kê (trừ mục cuối):**
+  - I need apples ↗, oranges ↗, and bananas ↘
+  - We visited temples ↗, pagodas ↗, and monuments ↘
+
+- **Câu hỏi Yes/No:**
+  - Are you ready? ↗
+  - Do you like coffee? ↗
+
+---
+
+## II. MỆNH ĐỀ TO-INFINITIVE 
+
+### Công thức: **S + V + TO + V (nguyên mẫu)**
+
+### Chức năng: Diễn tả **MỤC ĐÍCH** (purpose)
+
+**Trả lời câu hỏi:** What for? (Để làm gì?) / Why? (Tại sao?)
+
+### Ví dụ:
+
+1. **I went to the library** + **I wanted to borrow books**
+   → I went to the library **to borrow books**.
+   (Tôi đến thư viện để mượn sách)
+
+2. **She studies hard** + **She wants to pass the exam**  
+   → She studies hard **to pass the exam**.
+   (Cô ấy học chăm để đỗ kỳ thi)
+
+3. **They visit Hue** + **They want to see the Imperial City**
+   → They visit Hue **to see the Imperial City**.
+   (Họ đến Huế để xem Hoàng thành)
+
+### Cách hỏi và trả lời:
+
+**Q:** What do tourists go to Ha Long Bay for?
+**A:** They go there **to enjoy** the beautiful scenery.
+      (Hoặc ngắn gọn: **To enjoy** the beautiful scenery.)
+
+**Q:** Why did you create this website?  
+**A:** I created it **to share** information about local culture.
+      (Hoặc ngắn gọn: **To share** information about local culture.)
+
+### Lưu ý:
+- To-infinitive clause thường đứng **cuối câu**
+- Có thể bỏ phần đầu khi trả lời câu hỏi
+- Không chia động từ sau "to"
+
+---
+
 ## Pronunciation
 
 ### Intonation on statements, commands, and lists

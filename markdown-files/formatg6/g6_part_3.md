@@ -365,6 +365,23 @@ X is beautiful. She is tall and thin. She has long hair. She has big round eyes.
 25. **us**: chúng tôi /ə.z/   
 26. **in**: ở, trong, bằng 
 
+-----
+Hi Mum and Dad,
+
+Here I am at the Superb Summer Camp. Mr Black asked us to write emails in English! Wow, everything here is in English!
+
+I have some new friends: Jimmy, Phong, and Nhung. They're in the photo. Jimmy has blonde hair and blue eyes. He's clever and creative. He likes taking photos. Phong is the tall boy. He's sporty and plays basketball very well. Nhung has curly black hair. She's kind. She shared her lunch with me today.
+
+We're having fun. Jimmy's taking photos of me. Phong’s reading a comic book, and Nhung’s playing the violin. I must go now.
+
+Please write soon.
+
+Love,
+
+Nam  
+
+-----
+
 Chào cha và mẹ, 
 
 Ở đây con thì ở Trại hè siêu phàm. Ông Black đã yêu cầu chúng con viết thư điện tử bằng tiếng Anh\! Wow, mọi thứ ở đây thì bằng tiếng Anh. 

@@ -46,7 +46,9 @@ Work in pairs. Talk about your favourite singer or musician. Use the expressions
 - (During his/ her life), he/ she has received (many/ some…) awards, including …
 
 **Sample Answer:**
-My favourite singer is Lisa. She is a Thai rapper, singer and dancer based in South Korea. She is also a member of the South Korean girl group Black Pink formed by YG Entertainment. Her first and most famous single is Lalisa. Upon release, the music video for "Lalisa" became the most-viewed video by a soloist in 24 hours with 73.6 million views, breaking the record held by Taylor Swift's "Me!" featuring Brendon Urie. During her life, she and her Black Pink have received many awards, including APAN Music Awards (Best Music Video), Asian Pop Music Awards (Best Album (Overseas)), Melon Music Awards (Best Dance – Female), etc.
+1. My favourite singer is Lisa. She is a Thai rapper, singer and dancer based in South Korea. She is also a member of the South Korean girl group Black Pink formed by YG Entertainment. Her first and most famous single is Lalisa. Upon release, the music video for "Lalisa" became the most-viewed video by a soloist in 24 hours with 73.6 million views, breaking the record held by Taylor Swift's "Me!" featuring Brendon Urie. During her life, she and her Black Pink have received many awards, including APAN Music Awards (Best Music Video), Asian Pop Music Awards (Best Album (Overseas)), Melon Music Awards (Best Dance – Female), etc.
+2. My favourite singer is Son Tung M-TP. He is a Vietnamese singer, songwriter and producer. He is also the founder of M-TP Entertainment. His breakthrough hit was "Cơn mưa ngang qua" which made him famous. Upon release, his music video "Lạc Trôi" became the first Vietnamese MV to reach 100 million views on YouTube, breaking many records. During his career, he has received many prestigious awards, including MTV Europe Music Awards (Best Southeast Asia Act), Mnet Asian Music Awards (Best Asian Artist - Vietnam), and Zing Music Awards (Artist of the Year). 
+
 
 ## III. Reading
 

@@ -92,16 +92,16 @@ Words and phrases to categorize:
 
 #### Lời giải chi tiết:
 
-I had a chance to go to a music event under the MADE tour in Seoul by my Korean idol BIGBANG. It was one of the most wonderful concerts that my friends and I have ever attended. This tour in Seoul was their last one so it was the most impressive and amazing concert ever. They not only performed their big hits but also talked and played games with fans, which made the atmosphere friendly and wonderful.
+I got to go to a music show in Seoul by my favorite Korean band BIGBANG. It was part of their MADE tour. It was one of the best concerts my friends and I have ever been to. This was their last show in Seoul, so it was extra special and amazing. They didn't just sing their popular songs - they also talked to fans and played games with us. This made everyone feel happy and close to them.
 
-The concert took place in an indoor stadium, Putra, so we didn't have to worry about the snow or rain. Besides, Putra was one of the biggest stadiums in Seoul, so there was plenty of space for us to enjoy the music and relax. We all felt excited when going to this event because we could make new friends and enjoy the exciting atmosphere.
+The concert was inside a big building called Putra stadium, so we didn't have to worry about bad weather like snow or rain. Putra was one of the biggest places for concerts in Seoul, so there was lots of room for everyone to enjoy the music and feel comfortable. We were all very excited to go because we could meet new people and have a great time together.
 
-#### Tạm dịch:
+##### Shorter version: 
 
-Tôi đã có cơ hội tham dự một sự kiện âm nhạc trong chuyến lưu diễn MADE tại Seoul của thần tượng Hàn Quốc BIGBANG của tôi. Đó là một trong những buổi hòa nhạc tuyệt vời nhất mà tôi và bạn bè từng tham dự. Chuyến lưu diễn ở Seoul này là chuyến cuối cùng của họ nên đây là buổi biểu diễn ấn tượng và tuyệt vời nhất từ trước đến nay. Họ không chỉ biểu diễn những bản hit lớn của mình mà còn trò chuyện và chơi trò chơi với người hâm mộ, tạo nên bầu không khí thân thiện và tuyệt vời.
+I went to a BIGBANG concert in Seoul with my friends. It was their last show there, so it was really special. They sang their hit songs and talked with fans, which made it fun and friendly.
 
-Buổi hòa nhạc diễn ra tại một sân vận động trong nhà, Putra, vì vậy chúng tôi không phải lo lắng về tuyết hoặc mưa. Bên cạnh đó, Putra là một trong những sân vận động lớn nhất ở Seoul, vì vậy có rất nhiều không gian để chúng tôi thưởng thức âm nhạc và thư giãn. Tất cả chúng tôi đều cảm thấy hào hứng khi tham gia sự kiện này vì có thể kết bạn mới và tận hưởng không khí sôi động.
-
+The concert was inside Putra stadium, so we didn't worry about bad weather. It was a big place with lots of room. We were excited because we could meet new people and have a great time.
+ 
 ## Từ vựng
 
 1. **share** /ʃeə(r)/ (v): chia sẻ

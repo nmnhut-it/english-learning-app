@@ -19,6 +19,7 @@ UNIT 6: VIETNAMESE LIFESTYLE: THEN AND NOW**
 15. **generation** (n) \- thế hệ /ˌdʒen.əˈreɪ.ʃən/  
 16. **opportunity** (n) \- cơ hội /ˌɒp.əˈtjuː.nə.ti/  
 17. **living condition** (n) \- điều kiện sống /ˈlɪv.ɪŋ kənˈdɪʃ.ən/
+18. **mostly** (n) \- chủ yếu /məʊstlɪ/ 
 
 **Bài 2 trang 61**  
 1\. C  

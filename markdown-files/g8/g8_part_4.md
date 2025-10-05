@@ -176,6 +176,8 @@ I go to school. Do you go to school?
 
 **COMMUNICATION** 
 
+
+
 **Bài 4 trang 44** 
 
 1. What is the population of the Jrai?  

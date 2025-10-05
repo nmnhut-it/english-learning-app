@@ -4,42 +4,76 @@
 
 **Vocabulary** 
 
-1. **waiter** (n) người phục vụ /ˈweɪ.tər/  
-2. **pork** (n) thịt lợn /pɔːk/  
-3. **fish sauce** (n) nước mắm /fɪʃ sɔːs/  
-4. **order** (n) đơn đặt hàng, món gọi /ˈɔː.dər/  
-5. **roast chicken** (n) gà quay /rəʊst ˈtʃɪk.ɪn/  
-6. **fried vegetables** (n) rau chiên /fraɪd ˈvedʒ.tə.bəlz/  
-7. **tofu** (n) đậu phụ /ˈtəʊ.fuː/  
-8. **shrimp** (n) tôm /ʃrɪmp/  
-9. **kind** (n) loại /kaɪnd/  
-10. **spring roll** (n) chả giò /sprɪŋ rəʊl/  
-11. **fried** (adj) chiên /fraɪd/  
-12. **lemonade** (n) nước chanh /ˌlem.əˈneɪd/  
-13. **juice** (n) nước ép /dʒuːs/  
-14. **green tea** (n) trà xanh /ɡriːn tiː/  
-15. **mineral water** (n) nước khoáng /ˈmɪn.ər.əl ˈwɔː.tər/  
-16. **husband** (n) chồng /ˈhʌz.bənd/  
-17. **wife** (n) vợ /waɪf/  
-18. **children** (n) trẻ con /ˈtʃɪl.drən/  
+1. **waiter**: (n) người phục vụ /ˈweɪ.tər/  
+2. **pork**: (n) thịt lợn /pɔːk/  
+3. **fish sauce**: (n) nước mắm /fɪʃ sɔːs/  
+4. **order**: (n) đơn đặt hàng, món gọi /ˈɔː.dər/  
+5. **roast chicken**: (n) gà quay /rəʊst ˈtʃɪk.ɪn/  
+6. **fried vegetables**: (n) rau chiên /fraɪd ˈvedʒ.tə.bəlz/  
+7. **tofu**: (n) đậu phụ /ˈtəʊ.fuː/  
+8. **shrimp**: (n) tôm /ʃrɪmp/  
+9. **kind**: (n) loại /kaɪnd/  
+10. **spring roll**: (n) chả giò /sprɪŋ rəʊl/  
+11. **fried**: (adj) chiên /fraɪd/  
+12. **lemonade**: (n) nước chanh /ˌlem.əˈneɪd/  
+13. **juice**: (n) nước ép /dʒuːs/  
+14. **green tea**: (n) trà xanh /ɡriːn tiː/  
+15. **mineral water**: (n) nước khoáng /ˈmɪn.ər.əl ˈwɔː.tər/  
+16. **husband**: (n) chồng /ˈhʌz.bənd/  
+17. **wife**: (n) vợ /waɪf/  
+18. **children**: (n) trẻ con /ˈtʃɪl.drən/  
 19. **let me see** để tôi xem /lɛt miː siː/  
-20. **can** (n) chai, lon /kæn/  
+20. **can**: (n) chai, lon /kæn/  
 21. **by the way** nhân tiện /baɪ ðə weɪ/  
 22. **how much** bao nhiêu tiền /haʊ mʌtʃ/  
-23. **melon juice** (n) nước ép dưa /ˈmɛl.ən dʒuːs/  
-24. **I’ll be right back with your order** tôi sẽ quay lại ngay với món bạn gọi /aɪl biː raɪt bæk wɪð jɔːr ˈɔː.dər/  
-25. **menu** (n) thực đơn /ˈmen.juː/  
-26. What can I get you: Tôi có thể lấy gì cho bạn?   
-27. also: cũng   
-28. some: một ít, một vài   
-29. could \= can: có thể   
-30. would you like: bạn có muốn   
-31. try: thử, cố gắng   
-32. please: làm ơn /pli:z/   
-33. soup: súp  
-34. think: nghĩ   
-35. for: cho
+23. **melon juice**: (n) nước ép dưa /ˈmɛl.ən dʒuːs/  
+24. **I’ll be right back with your order**: tôi sẽ quay lại ngay với món bạn gọi /aɪl biː raɪt bæk wɪð jɔːr ˈɔː.dər/  
+25. **menu**: (n) thực đơn /ˈmen.juː/  
+26. **What can I get you**: Tôi có thể lấy gì cho bạn?   
+27. **also**: cũng   
+28. **some**: một ít, một vài   
+29. **could \= can**: có thể   
+30. **would you like**: bạn có muốn   
+31. **try**: thử, cố gắng   
+32. **please**: làm ơn /pli:z/   
+33. **soup**: súp  
+34. **think**: nghĩ   
+35. **for**: cho
 
+
+----
+
+Waiter: Good evening. What can I get you today?
+
+Mark's mum: We'd like rice with some pork cooked in fish sauce. Oh, could we also have an order of roast chicken and fried vegetables?
+
+Mark: And I'd like some fried tofu and spring rolls too.
+
+Waiter: OK. Would you like any canh chua? It's a kind of Vietnamese soup. We often have it with rice.
+
+Mark's dad: Let me see ... I think we'll try some canh chua.
+
+Waiter: With shrimp or fish?
+
+Mark's dad: With shrimp, please.
+
+Waiter: Would you like anything to drink? We have a lot of drinks: juice, lemonade, green tea, mineral water, ...
+
+Mark's mum: Mineral water for me, green tea for my husband, and juice for my children. 
+
+Waiter: What kind of juice would you like?
+
+Mark's sister: Do you have winter melon juice?
+
+Waiter: Let me see. Er, yes. How many cans would you like?
+
+Mark's sister: One ... No, wait, two please. By the way, how much is a can of winter melon juice?
+
+Mark: The menu says it's 10,000 dong.
+
+Waiter: That's right. I'll be right back with your order. 
+
+----
 **Waiter**: Chào buổi tối. Tôi có thể phục vụ gì cho bạn hôm nay?
 
 **Mẹ của Mark**: Chúng tôi muốn cơm với một ít thịt lợn nấu với nước mắm. À, chúng tôi có thể gọi thêm một phần gà quay và rau củ chiên không?
@@ -171,7 +205,15 @@ B: We need 300g of sugar
 
 A: How much water do we need?
 
-B: We need 120ml of water
+B: We need 120ml of water 
+
+A: How much milk do we need?   
+
+B: We need 300 ml of milk.   
+ 
+A: How much flour do we need?   
+
+B: We need 500 grams.   
 
 **Pronunciation: Phát âm o ngắn và o dài**
 
@@ -391,7 +433,14 @@ Ví dụ: How much are five apples? → They are 20000 Viet Nam Dong.
 29. area: khu vực /ˈeəriə/  
 30. find \+ cái gì đó \+ tính từ: cảm thấy \<cái gì đó\> \<thế nào\>  
     I find him annoying: tôi cảm thấy anh ta phiền quá.   
-    
+
+---    
+
+Pho is a special kind of traditional Vietnamese dish. Its main ingredients are rice noodles and slices of beef or chicken. It is one of the most common dishes you will find in Viet Nam. People enjoy pho at all times of the day, even for a late-night snack. Pho has a very special taste. The rice noodles are made from the best kind of rice. There are two main kinds of pho: pho bo (beef noodle soup) and pho ga (chicken noodle soup). The broth for pho is made by stewing beef or chicken bones for a long time in a big pot. The meat (beef and chicken) served with pho is boneless and cut into thin slices ... It's really delicious! Tell me about a popular dish in your area!
+
+
+---
+
 
 Phở là một loại món ăn truyền thống đặc biệt Việt Nam. Những thành phần chính của nó là bánh phở và những lát thịt bò hoặc gà. Nó là một trong những món ăn phổ biến nhất bạn sẽ tìm thấy ở Việt Nam. Người ta thưởng thức phở ở tất cả thời điểm của ngày, thậm chí cho một bữa ăn khuya. Phở có một hương vị rất đặc biệt. Bánh phở được làm từ loại gạo tốt nhất. Có hai loại chính của phở: phở bò (súp mì thịt bò) và phở gà (súp mì thịt gà). Nước dùng cho phở được làm bằng cách hầm xương bò hoặc gà trong một thời gian dài trong một nồi lớn. Thịt (bò và gà) được phục vụ với phở là không xương và cắt thành những lát mỏng... Nó thực sự ngon\! Hãy kể cho tôi về một món ăn phổ biến trong khu vực của bạn\! Đăng bởi Phong vào ngày 22 tháng 2 lúc 5:30 chiều.
 

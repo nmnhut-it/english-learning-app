@@ -218,7 +218,38 @@ Thì hiện tại hoàn thành thường được nhận biết qua các từ sa
 4\. Mai hasn’t taken a photo of the forest.  
 5\. Mai has gone on an eco-tour.
 
-**COMMUNICATOIN**   
+**COMMUNICATION**   
+
+
+**Vocabulary**
+1. **submit**: (v) nộp, đệ trình /səbˈmɪt/
+2. **promise** - **promised**: (v) hứa /ˈprɒmɪs - ˈprɒmɪst/
+3. **terrible**: (adj) khủng khiếp, tồi tệ /ˈterəbl/
+4. **slip** - **slipped**: (v) trượt, tuột /slɪp - slɪpt/
+5. **lend** - **lent** - **lent**: (v) cho vay, cho mượn /lend - lent - lent/
+6. **helplessness**: (n) sự bất lực, không thể tự giúp mình /ˈhelpləsnəs/
+7. **forgettable**: (adj) có thể quên được, dễ quên /fəˈɡetəbl/
+8. **unforgettable**: (adj) không thể quên, đáng nhớ /ˌʌnfəˈɡetəbl/
+9. **brilliant**: (adj) xuất sắc, rực rỡ, thông minh /ˈbrɪljənt/
+10. **instructor**: (n) người hướng dẫn, giảng viên /ɪnˈstrʌktə/
+11. **snorkelling**: (n) lặn với ống thở /ˈsnɔːkəlɪŋ/
+12. **exhilarating**: (adj) phấn khích, hứng khởi /ɪɡˈzɪləreɪtɪŋ/
+13. **coral reef**: rạn san hô /ˈkɒrəl riːf/
+14. **experience**: (n) kinh nghiệm, trải nghiệm; (v) trải nghiệm /ɪkˈspɪəriəns/
+15. **online**: (adj/adv) trực tuyến /ˈɒnlaɪn/ 
+17. **colourful**: (adj) đầy màu sắc, sặc sỡ /ˈkʌləfl/
+18. **submarine**: (n) tàu ngầm /ˌsʌbməˈriːn/
+19. **mistake**: (n) lỗi, sai lầm /mɪˈsteɪk/
+20. **font**: (n) phông chữ, kiểu chữ /fɒnt/
+21. **jar**: (n) lọ, bình /dʒɑː/
+22. **bar**: (n) quán bar, thanh /bɑː/
+23. **plant**: (n) cây cối; (v) trồng /plɑːnt/
+24. **silent**: (adj) im lặng, yên lặng /ˈsaɪlənt/ 
+26. **pepper**: (n) hạt tiêu, ớt /ˈpepə/
+27. **paper**: (n) giấy /ˈpeɪpə/ 
+29. **have joined a tour**: đã tham gia một tour /hæv dʒɔɪnd ə tʊə/
+
+
 **Bài 2**   
 A: I’m really sorry. I was late for the project/I missed the deadline  
 Professor: That’s okay, Linh/ (Shame on you)
@@ -267,6 +298,20 @@ Mother: Oh, that’s right. But come home now.
 13. **experience** (n) \- trải nghiệm /ɪkˈspɪə.ri.əns/  
 14. **below** (adv) \- bên dưới /bɪˈləʊ/
 
+
+Duong:
+
+I had a hard 10-day course in an army camp in Son Tay last summer. Everything was different from my life at home. We had to wake up at 5 a.m and attended classes which were like training courses for soldiers. In the evening, we read books or worked in teams. The team leaders walked us through many exciting activities. We also joined a performance that had the theme: environment protection. We could only call our parents once a day.
+
+We also had touching moments when we received letters from our parents. I have never attended  such a strict but exciting course like this.
+
+Akiko:
+
+I have been on an unforgettable summer course in America. I stayed in Thornwood campus on the outskirts of New York City for three weeks. We had an enjoyable campus tour, attended English classes, and joined team activities. We all tried to communicate in English. In the evening, we played board games and billiards. The most special experience was my visit to the top of Rockefeller Centre. From there, I could view the whole city below.
+
+That was the first time I travelled without my parents, so I felt like I grew up a lot after the trip.
+
+
 **Dương:** Tôi đã có một khóa học khó khăn kéo dài 10 ngày trong một trại quân sự ở Sơn Tây vào mùa hè năm ngoái. Mọi thứ đều khác biệt so với cuộc sống ở nhà. Chúng tôi phải thức dậy lúc 5 giờ sáng và tham dự các lớp học giống như khóa huấn luyện dành cho binh lính. Buổi tối, chúng tôi đọc sách hoặc làm việc theo nhóm. Các trưởng nhóm đã dẫn dắt chúng tôi qua nhiều hoạt động thú vị. Chúng tôi cũng tham gia một buổi biểu diễn với chủ đề: bảo vệ môi trường. Chúng tôi chỉ được gọi điện cho bố mẹ một lần mỗi ngày. Chúng tôi cũng có những khoảnh khắc cảm động khi nhận được thư từ bố mẹ. Tôi chưa bao giờ tham dự một khóa học nào nghiêm khắc nhưng thú vị như vậy.
 
 **Akiko:** Tôi đã tham gia một khóa học mùa hè không thể quên ở Mỹ. Tôi ở trong khuôn viên Thornwood ở vùng ngoại ô của thành phố New York trong ba tuần. Chúng tôi đã có một chuyến tham quan khuôn viên thú vị, tham dự các lớp học tiếng Anh và tham gia các hoạt động nhóm. Tất cả chúng tôi đều cố gắng giao tiếp bằng tiếng Anh. Buổi tối, chúng tôi chơi các trò chơi cờ và bi-a. Trải nghiệm đặc biệt nhất của tôi là chuyến thăm đỉnh Trung tâm Rockefeller. Từ đó, tôi có thể nhìn toàn cảnh thành phố bên dưới. Đó là lần đầu tiên tôi đi du lịch mà không có bố mẹ, vì vậy tôi cảm thấy mình đã trưởng thành rất nhiều sau chuyến đi này.
@@ -311,6 +356,10 @@ Mother: Oh, that’s right. But come home now.
 | :---- | :---- | :---- | :---- | :---- |
 
 **Bài 5 trang 56** 
+
+
+I attended a memorable summer camp last year. I learnt how to put up tents and work in group. I made a lot of new friends. In the evening, I joined a music performance for dance and shared my stories with friends. I felt that I grew up a bit after that summer camp.
+
 
 **SKILLS 2**
 

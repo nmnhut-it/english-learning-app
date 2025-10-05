@@ -1184,6 +1184,427 @@ app.post('/api/translate', async (req, res) => {
   }
 });
 
+// Vocabulary Processing API endpoint
+app.post('/api/vocabulary/process', async (req, res) => {
+  try {
+    const { selectedText, grade, context, filepath } = req.body;
+
+    console.log('🧠 Processing vocabulary for:', {
+      textLength: selectedText?.length || 0,
+      grade,
+      context,
+      filepath
+    });
+
+    // Validate input
+    if (!selectedText || selectedText.trim().length < 10) {
+      return res.status(400).json({
+        success: false,
+        message: 'Selected text must be at least 10 characters long'
+      });
+    }
+
+    // Prepare data for Gemini processing
+    const prompt = `
+Extract vocabulary from the following text and create educational content suitable for Grade ${grade || 'appropriate level'} students.
+
+Context: ${context || 'General English learning'}
+Source file: ${filepath || 'Unknown'}
+
+Text to analyze:
+"${selectedText.trim()}"
+
+Instructions:
+1. Identify 5-15 key vocabulary words from the text
+2. Focus on words that are educationally valuable for the grade level
+3. Include pronunciation (IPA), definition, part of speech, and Vietnamese translation
+4. Create contextual examples using the words
+5. Prioritize words that appear in the selected text
+
+Format your response as a JSON object with this structure:
+{
+  "vocabularyEntries": [
+    {
+      "word": "example",
+      "pronunciation": "/ɪɡˈzæmpəl/",
+      "partOfSpeech": "noun",
+      "definition": "a thing characteristic of its kind or illustrating a general rule",
+      "vietnameseTranslation": "ví dụ",
+      "contextSentence": "This is an example sentence using the word.",
+      "difficulty": "beginner|intermediate|advanced"
+    }
+  ],
+  "lesson": {
+    "title": "Vocabulary from: [brief description]",
+    "grade": ${grade || 'null'},
+    "context": "${context || ''}",
+    "summary": "Brief summary of vocabulary focus"
+  }
+}
+
+Respond only with valid JSON.
+`;
+
+    // Call Gemini API
+    const geminiResponse = await fetch(`${GEMINI_API_URL}?key=${GEMINI_API_KEY}`, {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify({
+        contents: [{
+          parts: [{
+            text: prompt
+          }]
+        }],
+        generationConfig: {
+          temperature: 0.3,
+          topK: 1,
+          topP: 0.95,
+          maxOutputTokens: 32768
+        }
+      })
+    });
+
+    if (!geminiResponse.ok) {
+      const errorData = await geminiResponse.text();
+      console.error('Gemini API error:', errorData);
+      throw new Error(`Gemini API error: ${geminiResponse.status}`);
+    }
+
+    const geminiData = await geminiResponse.json();
+
+    if (!geminiData.candidates || !geminiData.candidates[0]) {
+      throw new Error('No response from Gemini API');
+    }
+
+    const responseText = geminiData.candidates[0].content.parts[0].text;
+
+    // Parse JSON response
+    let vocabularyData;
+    try {
+      // Clean the response text (remove markdown code blocks if present)
+      const cleanedText = responseText.replace(/```json\n?|\n?```/g, '').trim();
+      vocabularyData = JSON.parse(cleanedText);
+    } catch (parseError) {
+      console.error('Failed to parse Gemini response:', responseText);
+      throw new Error('Invalid response format from AI');
+    }
+
+    // Generate a unique ID for this vocabulary session
+    const sessionId = crypto.randomUUID();
+
+    // Generate student URL (mock for now - in real implementation would save to database)
+    const studentUrl = `/v3-vocab?session=${sessionId}`;
+
+    // Log success
+    console.log('✅ Vocabulary processing successful:', {
+      vocabularyCount: vocabularyData.vocabularyEntries?.length || 0,
+      sessionId,
+      lesson: vocabularyData.lesson
+    });
+
+    res.json({
+      success: true,
+      vocabularyEntries: vocabularyData.vocabularyEntries || [],
+      lesson: vocabularyData.lesson || {
+        title: 'Vocabulary Extraction',
+        grade: grade || null,
+        context: context || '',
+        summary: `Extracted ${vocabularyData.vocabularyEntries?.length || 0} vocabulary terms`
+      },
+      sessionId,
+      studentUrl,
+      processedAt: new Date().toISOString(),
+      metadata: {
+        sourceText: selectedText.substring(0, 100) + (selectedText.length > 100 ? '...' : ''),
+        filepath,
+        detectedGrade: grade,
+        detectedContext: context
+      }
+    });
+
+  } catch (error) {
+    console.error('❌ Vocabulary processing error:', error);
+
+    // Handle specific error types
+    if (error.message.includes('Rate limit')) {
+      return res.status(429).json({
+        success: false,
+        message: 'Rate limit exceeded. Please wait a moment before processing more vocabulary.',
+        retryAfter: 60
+      });
+    }
+
+    if (error.message.includes('Gemini API')) {
+      return res.status(503).json({
+        success: false,
+        message: 'AI service temporarily unavailable. Please try again later.'
+      });
+    }
+
+    res.status(500).json({
+      success: false,
+      message: 'Failed to process vocabulary',
+      error: error.message
+    });
+  }
+});
+
+// Lessons Creation API endpoint
+app.post('/api/lessons/create', async (req, res) => {
+  try {
+    const { title, grade, unit, content } = req.body;
+
+    console.log('📚 Creating vocabulary lesson:', {
+      title: title?.substring(0, 50) + '...',
+      grade,
+      unit,
+      contentLength: content?.length || 0
+    });
+
+    // Validate input
+    if (!title || !content) {
+      return res.status(400).json({
+        success: false,
+        message: 'Title and content are required'
+      });
+    }
+
+    if (content.trim().length < 10) {
+      return res.status(400).json({
+        success: false,
+        message: 'Content must be at least 10 characters long'
+      });
+    }
+
+    // Process vocabulary using existing Gemini integration
+    const vocabularyResult = await processVocabularyForLesson(content, grade, title);
+
+    // Generate filename
+    const timestamp = new Date().toISOString().split('T')[0];
+    const titleSlug = title.toLowerCase()
+      .replace(/[^a-z0-9\s-]/g, '')
+      .replace(/\s+/g, '-')
+      .substring(0, 30);
+
+    const filename = `vocab-lesson-${titleSlug}-${timestamp}.md`;
+
+    // Create generated directory if it doesn't exist
+    const generatedDir = path.join(MARKDOWN_DIR, 'generated');
+    try {
+      await fs.access(generatedDir);
+    } catch {
+      await fs.mkdir(generatedDir, { recursive: true });
+    }
+
+    // Generate structured markdown content
+    const markdownContent = generateLessonMarkdown({
+      title,
+      grade,
+      unit,
+      content,
+      vocabularyEntries: vocabularyResult.vocabularyEntries || [],
+      timestamp: new Date().toISOString()
+    });
+
+    // Save file
+    const filePath = path.join(generatedDir, filename);
+    await fs.writeFile(filePath, markdownContent, 'utf8');
+
+    // Generate student URL
+    const studentUrl = `/view/generated/${filename}`;
+
+    console.log('✅ Vocabulary lesson created:', {
+      filename,
+      vocabularyCount: vocabularyResult.vocabularyEntries?.length || 0,
+      filePath: `generated/${filename}`
+    });
+
+    res.json({
+      success: true,
+      lesson: {
+        title,
+        grade: grade || null,
+        unit: unit || null,
+        filename,
+        studentUrl,
+        vocabularyCount: vocabularyResult.vocabularyEntries?.length || 0
+      },
+      message: 'Vocabulary lesson created successfully!'
+    });
+
+  } catch (error) {
+    console.error('❌ Lesson creation error:', error);
+
+    // Handle specific error types
+    if (error.message.includes('vocabulary processing')) {
+      return res.status(503).json({
+        success: false,
+        message: 'Vocabulary processing failed. Please try again.',
+        error: error.message
+      });
+    }
+
+    res.status(500).json({
+      success: false,
+      message: 'Failed to create lesson',
+      error: error.message
+    });
+  }
+});
+
+// Helper function to process vocabulary for lesson creation
+async function processVocabularyForLesson(content, grade, context) {
+  try {
+    // Prepare prompt for Gemini
+    const prompt = `
+Extract vocabulary from the following educational content and create vocabulary entries suitable for Grade ${grade || 'appropriate level'} students.
+
+Context: ${context || 'English learning lesson'}
+
+Content to analyze:
+"${content.trim()}"
+
+Instructions:
+1. Identify 8-15 key vocabulary words from the content
+2. Focus on educationally valuable words for the specified grade level
+3. Include pronunciation (IPA), definition, part of speech, and Vietnamese translation
+4. Create contextual examples using the words
+5. Prioritize words that appear in the content
+
+Format your response as a JSON object with this structure:
+{
+  "vocabularyEntries": [
+    {
+      "word": "example",
+      "pronunciation": "/ɪɡˈzæmpəl/",
+      "partOfSpeech": "noun",
+      "definition": "a thing characteristic of its kind or illustrating a general rule",
+      "vietnameseTranslation": "ví dụ",
+      "contextSentence": "This is an example sentence using the word.",
+      "difficulty": "beginner|intermediate|advanced"
+    }
+  ]
+}
+
+Respond only with valid JSON.
+`;
+
+    // Call Gemini API
+    const geminiResponse = await fetch(`${GEMINI_API_URL}?key=${GEMINI_API_KEY}`, {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify({
+        contents: [{
+          parts: [{
+            text: prompt
+          }]
+        }],
+        generationConfig: {
+          temperature: 0.3,
+          topK: 1,
+          topP: 0.95,
+          maxOutputTokens: 32768
+        }
+      })
+    });
+
+    if (!geminiResponse.ok) {
+      throw new Error(`Gemini API error: ${geminiResponse.status}`);
+    }
+
+    const geminiData = await geminiResponse.json();
+
+    if (!geminiData.candidates || !geminiData.candidates[0]) {
+      throw new Error('No response from Gemini API');
+    }
+
+    const responseText = geminiData.candidates[0].content.parts[0].text;
+
+    // Parse JSON response
+    let vocabularyData;
+    try {
+      const cleanedText = responseText.replace(/```json\n?|\n?```/g, '').trim();
+      vocabularyData = JSON.parse(cleanedText);
+    } catch (parseError) {
+      console.error('Failed to parse Gemini response:', responseText);
+      // Return empty vocabulary list if parsing fails
+      return { vocabularyEntries: [] };
+    }
+
+    return vocabularyData;
+
+  } catch (error) {
+    console.error('Vocabulary processing error:', error);
+    throw new Error(`vocabulary processing failed: ${error.message}`);
+  }
+}
+
+// Helper function to generate structured markdown
+function generateLessonMarkdown({ title, grade, unit, content, vocabularyEntries, timestamp }) {
+  const date = new Date(timestamp).toLocaleDateString();
+  const gradeText = grade ? `Grade ${grade}` : 'Auto-detect';
+  const unitText = unit ? `Unit ${unit}` : 'N/A';
+
+  let markdown = `# ${title}
+
+**Lesson Details:**
+- **Grade:** ${gradeText}
+- **Unit:** ${unitText}
+- **Created:** ${date}
+- **Type:** Vocabulary Lesson
+
+---
+
+## Original Content
+
+${content}
+
+---
+
+## Vocabulary
+
+`;
+
+  if (vocabularyEntries && vocabularyEntries.length > 0) {
+    vocabularyEntries.forEach((entry, index) => {
+      markdown += `### ${index + 1}. ${entry.word}
+
+- **Pronunciation:** ${entry.pronunciation || 'N/A'}
+- **Part of Speech:** ${entry.partOfSpeech || 'N/A'}
+- **Definition:** ${entry.definition || 'N/A'}
+- **Vietnamese:** ${entry.vietnameseTranslation || 'N/A'}
+- **Example:** ${entry.contextSentence || 'N/A'}
+- **Level:** ${entry.difficulty || 'N/A'}
+
+`;
+    });
+  } else {
+    markdown += `*No vocabulary entries were generated. This may be due to processing limitations.*
+
+**Manual Vocabulary Section:**
+Teachers can add vocabulary words here manually.
+
+`;
+  }
+
+  markdown += `---
+
+## Teaching Notes
+
+*Space for teacher notes and additional activities*
+
+---
+
+*Generated by English Learning App V3 - Vocabulary Tool*
+`;
+
+  return markdown;
+}
+
 // Cache management endpoints
 app.get('/api/cache/stats', async (req, res) => {
   try {
@@ -1688,12 +2109,87 @@ B: Yes, I collect stamps and coins from different countries.
         let fileTree = {};
         let flattenedFiles = [];
 
-        // Load files on page load
+        // Load files on page load and populate from URL parameters
         document.addEventListener('DOMContentLoaded', function() {
             loadFiles();
+            populateFromUrlParameters();
         });
 
-        // Create lesson form submission (adapted for V3)
+        // Populate form from URL parameters
+        function populateFromUrlParameters() {
+            const urlParams = new URLSearchParams(window.location.search);
+
+            // Get parameters from URL
+            const selectedText = urlParams.get('text');
+            const grade = urlParams.get('grade');
+            const context = urlParams.get('context');
+            const source = urlParams.get('source');
+
+            // Auto-populate title from context or source
+            const titleField = document.getElementById('title');
+            if (titleField) {
+                if (context) {
+                    // Use detected context as title
+                    titleField.value = context;
+                } else if (source) {
+                    // Extract meaningful title from source path
+                    const filename = source.split('/').pop().replace('.md', '');
+                    titleField.value = filename.replace(/[-_]/g, ' ');
+                } else {
+                    // Default title
+                    titleField.value = 'Vocabulary Lesson';
+                }
+            }
+
+            // Auto-populate grade
+            const gradeField = document.getElementById('grade');
+            if (gradeField && grade) {
+                gradeField.value = grade;
+            }
+
+            // Auto-populate content with selected text
+            const contentField = document.getElementById('content');
+            if (contentField && selectedText) {
+                const prefix = context ? '# ' + context + '\\n\\n' : '';
+                const sourceNote = source ? '<!-- Source: ' + source + ' -->\\n\\n' : '';
+                contentField.value = prefix + sourceNote + selectedText;
+            }
+
+            // Show information about auto-populated fields
+            if (selectedText) {
+                showAutoPopulateInfo(grade, context, source);
+            }
+        }
+
+        // Show info about auto-populated fields
+        function showAutoPopulateInfo(grade, context, source) {
+            const infoDiv = document.createElement('div');
+            infoDiv.className = 'alert alert-info';
+            infoDiv.style.marginBottom = '1rem';
+
+            const gradeText = grade ? 'Grade ' + grade : 'Auto-detect grade';
+            const contextText = context ? 'Context: ' + context : 'No context detected';
+            const sourceText = source ? 'Source: ' + source.split('/').pop() : '';
+
+            infoDiv.innerHTML =
+                '<span>ℹ️</span>' +
+                '<div>' +
+                    '<div style="font-weight: 500;">Auto-populated from selected text</div>' +
+                    '<div style="font-size: 0.875rem; margin-top: 4px;">' +
+                        gradeText + ' • ' + contextText +
+                        (sourceText ? ' • ' + sourceText : '') +
+                    '</div>' +
+                '</div>';
+
+            // Insert before the form
+            const form = document.getElementById('lessonForm');
+            form.parentNode.insertBefore(infoDiv, form);
+
+            // Auto-remove after 10 seconds
+            setTimeout(() => infoDiv.remove(), 10000);
+        }
+
+        // Create lesson form submission (V3 - Real Implementation)
         document.getElementById('lessonForm').addEventListener('submit', async function(e) {
             e.preventDefault();
 
@@ -1711,26 +2207,83 @@ B: Yes, I collect stamps and coins from different countries.
             clearAlerts();
 
             try {
-                // Since this is V3 integration, we'll just show success message
-                // Real implementation would integrate with actual V3 backend
-                showAlert('Lesson content prepared! (V3 Integration - would save to markdown-files)', 'info');
+                // Call real API endpoint
+                const response = await fetch('/api/lessons/create', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({
+                        title,
+                        grade: grade ? parseInt(grade) : undefined,
+                        unit: unit ? parseInt(unit) : undefined,
+                        content
+                    })
+                });
 
-                // Generate a mock student URL for demo
-                const mockId = Math.random().toString(36).substr(2, 9);
-                const fullUrl = window.location.origin + '/view/generated-' + mockId + '.md';
-                currentStudentUrl = fullUrl;
-                document.getElementById('studentUrl').textContent = fullUrl;
-                document.getElementById('studentUrlCard').classList.remove('hidden');
+                const data = await response.json();
 
-                // Clear form
-                document.getElementById('lessonForm').reset();
+                if (data.success) {
+                    // Show success message
+                    const vocabularyInfo = data.lesson.vocabularyCount > 0
+                        ? 'Generated ' + data.lesson.vocabularyCount + ' vocabulary entries'
+                        : 'Lesson created (vocabulary processing may have been limited)';
+
+                    showAlert('✅ ' + data.message + ' - ' + vocabularyInfo, 'success');
+
+                    // Show working student URL
+                    const fullUrl = window.location.origin + data.lesson.studentUrl;
+                    currentStudentUrl = fullUrl;
+                    document.getElementById('studentUrl').textContent = fullUrl;
+                    document.getElementById('studentUrlCard').classList.remove('hidden');
+
+                    // Show lesson details
+                    showLessonDetails(data.lesson);
+
+                    // Clear form
+                    document.getElementById('lessonForm').reset();
+
+                    // Refresh file list to show new lesson
+                    setTimeout(() => loadFiles(), 1000);
+
+                } else {
+                    showAlert('❌ ' + (data.message || 'Failed to create lesson'), 'error');
+                }
 
             } catch (error) {
-                showAlert('Error: ' + error.message, 'error');
+                console.error('Lesson creation error:', error);
+                showAlert('❌ Network error: ' + error.message, 'error');
             } finally {
                 setLoading(false);
             }
         });
+
+        // Show lesson creation details
+        function showLessonDetails(lesson) {
+            const detailsDiv = document.createElement('div');
+            detailsDiv.className = 'alert alert-info';
+            detailsDiv.style.marginTop = '1rem';
+
+            const gradeText = lesson.grade ? 'Grade ' + lesson.grade : 'Auto-detect';
+            const unitText = lesson.unit ? 'Unit ' + lesson.unit : 'N/A';
+
+            detailsDiv.innerHTML =
+                '<span>📋</span>' +
+                '<div>' +
+                    '<div style="font-weight: 500;">Lesson Created Successfully</div>' +
+                    '<div style="font-size: 0.875rem; margin-top: 4px;">' +
+                        'File: ' + lesson.filename + '<br>' +
+                        gradeText + ' • ' + unitText + ' • ' + lesson.vocabularyCount + ' vocab entries' +
+                    '</div>' +
+                '</div>';
+
+            // Insert after student URL card
+            const urlCard = document.getElementById('studentUrlCard');
+            urlCard.parentNode.insertBefore(detailsDiv, urlCard.nextSibling);
+
+            // Auto-remove after 10 seconds
+            setTimeout(() => detailsDiv.remove(), 10000);
+        }
 
         async function loadFiles() {
             try {

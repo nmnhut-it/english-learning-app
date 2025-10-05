@@ -484,6 +484,565 @@ class TranslationManager {
     }
 }
 
+// Vocabulary Manager
+class VocabularyManager {
+    constructor() {
+        this.isProcessing = false;
+        this.selectedText = '';
+        this.detectedGrade = null;
+        this.detectedContext = null;
+    }
+
+    getSelectedText() {
+        const selection = window.getSelection();
+        const text = selection.toString().trim();
+
+        if (text && text.length > 10) { // Only process meaningful text
+            return text;
+        }
+        return null;
+    }
+
+    detectGradeFromPath() {
+        // First try to detect from document content (most accurate)
+        const gradeFromContent = this.detectGradeFromContent();
+        if (gradeFromContent) return gradeFromContent;
+
+        // Fallback to path-based detection
+        const currentFile = window.currentFile?.filepath;
+        if (!currentFile) return null;
+
+        const path = currentFile.toLowerCase();
+
+        // Check for grade patterns in path
+        if (path.includes('/g6/') || path.includes('formatg6')) return 6;
+        if (path.includes('/g7/') || path.includes('global-success-7')) return 7;
+        if (path.includes('/g8/') || path.includes('global-success-8')) return 8;
+        if (path.includes('/g9/') || path.includes('global-success-9')) return 9;
+        if (path.includes('/g10/') || path.includes('global-success-10')) return 10;
+        if (path.includes('/g11/') || path.includes('global-success-11')) return 11;
+        if (path.includes('/g12/') || path.includes('global-success-12')) return 12;
+
+        return null;
+    }
+
+    detectGradeFromContent() {
+        const selection = window.getSelection();
+        if (!selection.rangeCount) return null;
+
+        const range = selection.getRangeAt(0);
+        const selectedElement = range.commonAncestorContainer;
+
+        // Get the document text up to the selection point
+        const walker = document.createTreeWalker(
+            document.body,
+            NodeFilter.SHOW_TEXT,
+            null,
+            false
+        );
+
+        let textContent = '';
+        let node;
+        let reachedSelection = false;
+
+        // Walk through all text nodes until we reach the selection
+        while (node = walker.nextNode()) {
+            if (!reachedSelection) {
+                textContent += node.textContent + ' ';
+
+                // Check if we've reached the selection point
+                if (node === selectedElement ||
+                    selectedElement.contains && selectedElement.contains(node) ||
+                    node.contains && node.contains(selectedElement)) {
+                    reachedSelection = true;
+                }
+            }
+        }
+
+        // Search for grade patterns in the text before selection
+        const gradePatterns = [
+            /grade\s*(\d{1,2})/gi,
+            /lớp\s*(\d{1,2})/gi,
+            /g(\d{1,2})\b/gi,
+            /class\s*(\d{1,2})/gi,
+            /(\d{1,2})th\s*grade/gi,
+            /khối\s*(\d{1,2})/gi
+        ];
+
+        let lastFoundGrade = null;
+        let lastFoundPosition = -1;
+
+        // Find the most recent (nearest to selection) grade mention
+        for (const pattern of gradePatterns) {
+            let match;
+            pattern.lastIndex = 0; // Reset regex
+
+            while ((match = pattern.exec(textContent)) !== null) {
+                const grade = parseInt(match[1]);
+                if (grade >= 6 && grade <= 12) {
+                    // This is a more recent occurrence
+                    if (match.index > lastFoundPosition) {
+                        lastFoundGrade = grade;
+                        lastFoundPosition = match.index;
+                    }
+                }
+            }
+        }
+
+        return lastFoundGrade;
+    }
+
+    detectContextFromDocument() {
+        const selection = window.getSelection();
+        if (!selection.rangeCount) return null;
+
+        // First try to detect from document content (most accurate)
+        const contextFromContent = this.detectContextFromContent();
+        if (contextFromContent) return contextFromContent;
+
+        // Fallback to heading-based detection
+        return this.detectContextFromHeadings();
+    }
+
+    detectContextFromContent() {
+        const selection = window.getSelection();
+        if (!selection.rangeCount) return null;
+
+        const range = selection.getRangeAt(0);
+        const selectedElement = range.commonAncestorContainer;
+
+        // Get the document text up to the selection point
+        const walker = document.createTreeWalker(
+            document.body,
+            NodeFilter.SHOW_TEXT,
+            null,
+            false
+        );
+
+        let textContent = '';
+        let node;
+        let reachedSelection = false;
+
+        // Walk through all text nodes until we reach the selection
+        while (node = walker.nextNode()) {
+            if (!reachedSelection) {
+                textContent += node.textContent + ' ';
+
+                // Check if we've reached the selection point
+                if (node === selectedElement ||
+                    selectedElement.contains && selectedElement.contains(node) ||
+                    node.contains && node.contains(selectedElement)) {
+                    reachedSelection = true;
+                }
+            }
+        }
+
+        // Search for unit and context patterns in the text before selection
+        const unitPatterns = [
+            /UNIT\s*(\d+)\s*:\s*([^\\n]+)/gi,
+            /unit\s*(\d+)\s*:\s*([^\\n]+)/gi,
+            /Unit\s*(\d+)\s*:\s*([^\\n]+)/gi,
+            /UNIT\s*(\d+)\s*-\s*([^\\n]+)/gi,
+            /unit\s*(\d+)\s*-\s*([^\\n]+)/gi
+        ];
+
+        const sessionPatterns = [
+            /GETTING\s*STARTED/gi,
+            /A\s*CLOSER\s*LOOK/gi,
+            /COMMUNICATION\s*AND\s*CULTURE/gi,
+            /SKILLS/gi,
+            /LOOKING\s*BACK/gi,
+            /PROJECT/gi,
+            /REVIEW/gi,
+            /getting\s*started/gi,
+            /a\s*closer\s*look/gi,
+            /communication\s*and\s*culture/gi,
+            /looking\s*back/gi,
+            /vocabulary/gi,
+            /practice/gi,
+            /lesson/gi
+        ];
+
+        let lastFoundUnit = null;
+        let lastFoundSession = null;
+        let lastUnitPosition = -1;
+        let lastSessionPosition = -1;
+
+        // Find the most recent unit mention
+        for (const pattern of unitPatterns) {
+            let match;
+            pattern.lastIndex = 0; // Reset regex
+
+            while ((match = pattern.exec(textContent)) !== null) {
+                const unitNumber = parseInt(match[1]);
+                const unitTitle = match[2].trim();
+
+                if (unitNumber >= 1 && unitNumber <= 20) {
+                    // This is a more recent occurrence
+                    if (match.index > lastUnitPosition) {
+                        lastFoundUnit = {
+                            number: unitNumber,
+                            title: unitTitle,
+                            fullText: match[0].trim()
+                        };
+                        lastUnitPosition = match.index;
+                    }
+                }
+            }
+        }
+
+        // Find the most recent session mention
+        for (const pattern of sessionPatterns) {
+            let match;
+            pattern.lastIndex = 0; // Reset regex
+
+            while ((match = pattern.exec(textContent)) !== null) {
+                // This is a more recent occurrence
+                if (match.index > lastSessionPosition) {
+                    lastFoundSession = match[0].trim();
+                    lastSessionPosition = match.index;
+                }
+            }
+        }
+
+        // Build context from what we found
+        if (lastFoundUnit && lastFoundSession) {
+            // Check which one is more recent
+            if (lastUnitPosition > lastSessionPosition) {
+                // Unit is more recent, session might be part of previous context
+                return lastFoundUnit.fullText;
+            } else {
+                // Session is more recent than unit
+                if (lastFoundUnit) {
+                    return `Unit ${lastFoundUnit.number}: ${lastFoundSession}`;
+                } else {
+                    return lastFoundSession;
+                }
+            }
+        } else if (lastFoundUnit) {
+            return lastFoundUnit.fullText;
+        } else if (lastFoundSession) {
+            return lastFoundSession;
+        }
+
+        return null;
+    }
+
+    detectContextFromHeadings() {
+        const selection = window.getSelection();
+        if (!selection.rangeCount) return null;
+
+        const range = selection.getRangeAt(0);
+        const selectedElement = range.commonAncestorContainer;
+
+        // Find the closest heading before the selection
+        let currentElement = selectedElement.nodeType === Node.TEXT_NODE
+            ? selectedElement.parentElement
+            : selectedElement;
+
+        const foundHeadings = [];
+
+        // Search upward and through previous siblings for headings
+        while (currentElement && currentElement !== document.body) {
+            // Check previous siblings for headings
+            let sibling = currentElement.previousElementSibling;
+            while (sibling) {
+                if (sibling.tagName && /^H[1-6]$/.test(sibling.tagName)) {
+                    const headingText = sibling.textContent.trim();
+                    foundHeadings.push({ text: headingText, level: parseInt(sibling.tagName[1]) });
+                }
+                sibling = sibling.previousElementSibling;
+            }
+
+            // Check current element if it's a heading
+            if (currentElement.tagName && /^H[1-6]$/.test(currentElement.tagName)) {
+                const headingText = currentElement.textContent.trim();
+                foundHeadings.push({ text: headingText, level: parseInt(currentElement.tagName[1]) });
+            }
+
+            currentElement = currentElement.parentElement;
+        }
+
+        // Sort headings by level (H1 first, then H2, etc.) to find hierarchy
+        foundHeadings.sort((a, b) => a.level - b.level);
+
+        // Return the most relevant heading
+        if (foundHeadings.length > 0) {
+            return foundHeadings[0].text;
+        }
+
+        // Fallback: check filename for context
+        const currentFile = window.currentFile?.filepath;
+        if (currentFile) {
+            const filename = currentFile.toLowerCase();
+
+            // Extract unit from filename
+            const unitMatch = filename.match(/unit[-_]?(\d+)/i);
+            if (unitMatch) {
+                return `Unit ${unitMatch[1]}`;
+            }
+        }
+
+        return null;
+    }
+
+    showVocabularyProgress() {
+        // Remove any existing progress indicator
+        this.hideVocabularyProgress();
+
+        const progressDiv = document.createElement('div');
+        progressDiv.id = 'vocabulary-progress';
+        progressDiv.innerHTML = `
+            <div style="position: fixed; top: 20px; right: 20px; z-index: 10000;
+                        background: white; border: 2px solid #3b82f6; border-radius: 8px;
+                        padding: 16px; box-shadow: 0 8px 25px rgba(0,0,0,0.15);">
+                <div style="display: flex; align-items: center; gap: 12px;">
+                    <div style="width: 24px; height: 24px; border: 3px solid #e5e7eb;
+                                border-top-color: #3b82f6; border-radius: 50%; animation: spin 0.8s linear infinite;"></div>
+                    <div>
+                        <div style="font-weight: 600; color: #1f2937; margin-bottom: 4px;">Processing Vocabulary</div>
+                        <div style="font-size: 13px; color: #6b7280;">Analyzing selected text...</div>
+                    </div>
+                </div>
+            </div>
+        `;
+
+        document.body.appendChild(progressDiv);
+    }
+
+    hideVocabularyProgress() {
+        const progressDiv = document.getElementById('vocabulary-progress');
+        if (progressDiv) {
+            progressDiv.remove();
+        }
+    }
+
+    showVocabularyError(message) {
+        const errorDiv = document.createElement('div');
+        errorDiv.innerHTML = `
+            <div style="position: fixed; top: 20px; right: 20px; z-index: 10000;
+                        background: #fef2f2; border: 2px solid #fca5a5; border-radius: 8px;
+                        padding: 16px; box-shadow: 0 8px 25px rgba(0,0,0,0.15); max-width: 350px; cursor: pointer;">
+                <div style="display: flex; align-items: flex-start; gap: 12px;">
+                    <div style="color: #dc2626; font-size: 18px;">⚠️</div>
+                    <div>
+                        <div style="font-weight: 600; color: #7f1d1d; margin-bottom: 6px;">Vocabulary Processing Error</div>
+                        <div style="font-size: 13px; color: #991b1b; line-height: 1.4;">
+                            ${message}
+                        </div>
+                    </div>
+                </div>
+                <div style="font-size: 11px; margin-top: 5px; opacity: 0.8;">
+                    Click to dismiss
+                </div>
+            </div>
+        `;
+
+        errorDiv.addEventListener('click', () => errorDiv.remove());
+        document.body.appendChild(errorDiv);
+
+        // Auto-hide after 7 seconds
+        setTimeout(() => errorDiv.remove(), 7000);
+    }
+
+    showVocabularyModal(selectedText, grade, context) {
+        // Remove existing modal if any
+        const existingModal = document.getElementById('vocabulary-modal');
+        if (existingModal) existingModal.remove();
+
+        const modal = document.createElement('div');
+        modal.id = 'vocabulary-modal';
+        modal.innerHTML = `
+            <div style="position: fixed; inset: 0; background: rgba(0,0,0,0.5); z-index: 10000;
+                        display: flex; align-items: center; justify-content: center; padding: 20px;">
+                <div style="background: white; border-radius: 12px; padding: 24px;
+                            max-width: 600px; width: 100%; max-height: 80vh; overflow-y: auto;">
+                    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
+                        <h2 style="font-size: 20px; font-weight: 600; color: #1f2937;">Process Vocabulary</h2>
+                        <button onclick="document.getElementById('vocabulary-modal').remove()"
+                                style="background: none; border: none; font-size: 24px; cursor: pointer;
+                                       color: #6b7280; padding: 4px;">×</button>
+                    </div>
+
+                    <div style="margin-bottom: 16px;">
+                        <label style="display: block; font-weight: 500; margin-bottom: 8px; color: #374151;">Selected Text:</label>
+                        <div style="background: #f3f4f6; border: 1px solid #d1d5db; border-radius: 6px;
+                                    padding: 12px; font-size: 14px; max-height: 120px; overflow-y: auto;">
+                            ${selectedText.replace(/\n/g, '<br>')}
+                        </div>
+                    </div>
+
+                    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-bottom: 20px;">
+                        <div>
+                            <label style="display: block; font-weight: 500; margin-bottom: 8px; color: #374151;">Grade:</label>
+                            <select id="vocab-grade" style="width: 100%; padding: 8px; border: 1px solid #d1d5db;
+                                                           border-radius: 6px; font-size: 14px;">
+                                <option value="">Auto-detect</option>
+                                <option value="6" ${grade === 6 ? 'selected' : ''}>Grade 6</option>
+                                <option value="7" ${grade === 7 ? 'selected' : ''}>Grade 7</option>
+                                <option value="8" ${grade === 8 ? 'selected' : ''}>Grade 8</option>
+                                <option value="9" ${grade === 9 ? 'selected' : ''}>Grade 9</option>
+                                <option value="10" ${grade === 10 ? 'selected' : ''}>Grade 10</option>
+                                <option value="11" ${grade === 11 ? 'selected' : ''}>Grade 11</option>
+                                <option value="12" ${grade === 12 ? 'selected' : ''}>Grade 12</option>
+                            </select>
+                        </div>
+
+                        <div>
+                            <label style="display: block; font-weight: 500; margin-bottom: 8px; color: #374151;">Context:</label>
+                            <input type="text" id="vocab-context" value="${context || ''}" placeholder="e.g., Unit 3: Getting Started"
+                                   style="width: 100%; padding: 8px; border: 1px solid #d1d5db; border-radius: 6px; font-size: 14px;">
+                        </div>
+                    </div>
+
+                    <div style="display: flex; gap: 12px; justify-content: flex-end;">
+                        <button onclick="document.getElementById('vocabulary-modal').remove()"
+                                style="padding: 10px 20px; border: 1px solid #d1d5db; background: white;
+                                       color: #374151; border-radius: 6px; cursor: pointer; font-size: 14px;">
+                            Cancel
+                        </button>
+                        <button onclick="vocabularyManager.processVocabulary()"
+                                style="padding: 10px 20px; background: #3b82f6; color: white; border: none;
+                                       border-radius: 6px; cursor: pointer; font-size: 14px; font-weight: 500;">
+                            Process Vocabulary
+                        </button>
+                    </div>
+                </div>
+            </div>
+        `;
+
+        document.body.appendChild(modal);
+    }
+
+    async processVocabulary() {
+        const selectedText = this.selectedText;
+        const grade = document.getElementById('vocab-grade')?.value || '';
+        const context = document.getElementById('vocab-context')?.value || '';
+
+        // Close modal
+        document.getElementById('vocabulary-modal')?.remove();
+
+        this.showVocabularyProgress();
+
+        try {
+            const currentFile = window.currentFile?.filepath || '';
+
+            const response = await fetch('/api/vocabulary/process', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({
+                    selectedText,
+                    grade: grade ? parseInt(grade) : undefined,
+                    context,
+                    filepath: currentFile
+                })
+            });
+
+            const data = await response.json();
+
+            if (data.success) {
+                this.showVocabularySuccess(data);
+            } else {
+                throw new Error(data.message || 'Processing failed');
+            }
+
+        } catch (error) {
+            this.showVocabularyError('Failed to process vocabulary: ' + error.message);
+        } finally {
+            this.hideVocabularyProgress();
+            this.isProcessing = false;
+        }
+    }
+
+    showVocabularySuccess(data) {
+        const successDiv = document.createElement('div');
+
+        const message = data.message || `Generated ${data.vocabularyEntries?.length || 0} vocabulary entries`;
+        const gradeText = data.detectedGrade ? `Grade: ${data.detectedGrade}` : '';
+        const contextText = data.detectedContext ? `Context: ${data.detectedContext}` : '';
+
+        successDiv.innerHTML = `
+            <div style="position: fixed; top: 20px; right: 20px; z-index: 10000;
+                        background: #f0fdf4; border: 2px solid #86efac; border-radius: 8px;
+                        padding: 16px; box-shadow: 0 8px 25px rgba(0,0,0,0.15); max-width: 400px; cursor: pointer;">
+                <div style="display: flex; align-items: flex-start; gap: 12px;">
+                    <div style="color: #16a34a; font-size: 18px;">📚</div>
+                    <div>
+                        <div style="font-weight: 600; color: #14532d; margin-bottom: 6px;">Vocabulary Dashboard</div>
+                        <div style="font-size: 13px; color: #166534; line-height: 1.4; margin-bottom: 8px;">
+                            ${message}
+                        </div>
+                        ${gradeText || contextText ? `
+                            <div style="font-size: 11px; color: #15803d; line-height: 1.3;">
+                                ${gradeText ? `<div>${gradeText}</div>` : ''}
+                                ${contextText ? `<div>${contextText}</div>` : ''}
+                            </div>
+                        ` : ''}
+                        ${data.studentUrl ? `
+                            <div style="font-size: 11px; color: #15803d; background: white;
+                                        padding: 6px; border-radius: 4px; margin-top: 8px;
+                                        word-break: break-all; font-family: monospace;">
+                                ${data.studentUrl}
+                            </div>
+                        ` : ''}
+                    </div>
+                </div>
+                <div style="font-size: 11px; margin-top: 5px; opacity: 0.8;">
+                    Click to dismiss
+                </div>
+            </div>
+        `;
+
+        successDiv.addEventListener('click', () => successDiv.remove());
+        document.body.appendChild(successDiv);
+
+        // Auto-hide after 5 seconds (shorter for redirect feedback)
+        setTimeout(() => successDiv.remove(), 5000);
+    }
+
+    async processSelectedVocabulary() {
+        if (this.isProcessing) return;
+
+        const selectedText = this.getSelectedText();
+        if (!selectedText) {
+            this.showVocabularyError('Please select some text to process vocabulary (minimum 10 characters)');
+            return;
+        }
+
+        this.selectedText = selectedText;
+        this.detectedGrade = this.detectGradeFromPath();
+        this.detectedContext = this.detectContextFromDocument();
+
+        // Build URL parameters for the vocabulary dashboard
+        const params = new URLSearchParams();
+        params.set('text', selectedText);
+        if (this.detectedGrade) {
+            params.set('grade', this.detectedGrade.toString());
+        }
+        if (this.detectedContext) {
+            params.set('context', this.detectedContext);
+        }
+
+        // Add current file path for reference
+        if (window.currentFile?.filepath) {
+            params.set('source', window.currentFile.filepath);
+        }
+
+        // Open vocabulary teaching dashboard in new tab
+        const dashboardUrl = `/v3-vocab?${params.toString()}`;
+        window.open(dashboardUrl, '_blank');
+
+        // Show brief feedback
+        this.showVocabularySuccess({
+            message: 'Opening vocabulary teaching dashboard...',
+            detectedGrade: this.detectedGrade,
+            detectedContext: this.detectedContext
+        });
+    }
+}
+
 class HistoryManager {
     constructor() {
         this.storageKey = 'v3-markdown-history';
@@ -643,6 +1202,7 @@ class SearchManager {
 const historyManager = new HistoryManager();
 const searchManager = new SearchManager();
 const translationManager = new TranslationManager();
+const vocabularyManager = new VocabularyManager();
 const networkSharingManager = new NetworkSharingManager();
 
 // Sidebar toggle functionality
@@ -885,7 +1445,14 @@ document.addEventListener('keydown', function(e) {
         translationManager.openTranslationInNewTab();
         return;
     }
-    
+
+    // Vocabulary processing shortcut (v)
+    if (e.key === 'v' && !e.ctrlKey && !e.altKey && !e.shiftKey) {
+        e.preventDefault();
+        vocabularyManager.processSelectedVocabulary();
+        return;
+    }
+
     // Copy network link (c)
     if (e.key === 'c' && !e.ctrlKey && !e.altKey && !e.shiftKey) {
         e.preventDefault();

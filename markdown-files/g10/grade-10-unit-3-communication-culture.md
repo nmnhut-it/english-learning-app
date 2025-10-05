@@ -1,5 +1,27 @@
 # Unit 3: Music - Communication and Culture / CLIL
 
+## New words: 
+
+
+1. **ancient**: (adj) cổ xưa, cổ đại /ˈeɪnʃənt/
+1. **combine**: (v) kết hợp /kəmˈbaɪn/
+1. **performance art**: nghệ thuật biểu diễn /pəˈfɔːməns ɑːt/
+1. **spread - spread - spread**: (v) lan rộng, truyền bá /spred - spred - spred/
+1. **praise**: (v) ca ngợi, tán dương /preɪz/
+1. **worship**: (n) sự thờ cúng, tôn thờ; (v) thờ phượng /ˈwɜːʃɪp/
+1. **chant**: (v) tụng kinh, hát ru; (n) bài tụng /tʃɑːnt/
+1. **psychic**: (n) người có khả năng ngoại cảm /ˈsaɪkɪk/
+1. **moon-shaped lute**: đàn nguyệt /muːn ʃeɪpt luːt/
+1. **bamboo clapper**: phách tre /bæmˈbuː ˈklæpə/
+1. **gong**: (n) cồng chiêng /ɡɒŋ/
+1. **costume**: (n) trang phục biểu diễn /ˈkɒstjuːm/
+1. **rank**: (n) cấp bậc, địa vị /ræŋk/
+1. **saint**: (n) vị thánh /seɪnt/
+1. **performer**: (n) người biểu diễn /pəˈfɔːmə/
+1. **recognize**: (v) công nhận /ˈrekəɡnaɪz/
+1. **physics**: (n) vật lý học /ˈfɪzɪks/
+1. **national hero**: anh hùng dân tộc /ˈnæʃənəl ˈhɪərəʊ/
+
 ## Everyday English
 
 ### Making and responding to suggestions
@@ -119,8 +141,9 @@ Là một loại hình nghệ thuật diễn xướng truyền thống, hát ch�
 Work in pairs. Tell your partner what you find most interesting about chau van singing.
 
 **Sample Answer:**
-The thing I find most interesting about chau van singing is its costumes. The clothes, hats and belts somehow make me have goosebumps every time I look at them. Besides, the costumes of chau van are so unique that they become a signature of our Vietnamese culture.
-(Điều tôi thấy thú vị nhất ở hát chầu văn là trang phục. Quần áo, mũ và thắt lưng không hiểu sao mỗi lần nhìn vào đều khiến tôi nổi da gà. Bên cạnh đó, những bộ trang phục của chầu văn rất độc đáo đến mức trở thành dấu ấn của văn hóa Việt Nam chúng ta.)
+
+What I love most about chau van singing is the clothes. The colorful outfits, hats, and belts always amaze me. These special costumes show off Vietnamese culture.
+
 
 ## Vocabulary
 

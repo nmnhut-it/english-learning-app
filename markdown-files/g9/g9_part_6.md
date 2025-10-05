@@ -458,6 +458,21 @@ hesitate: cân nhắc
 
 There is a …  It is called Ha Long Bay. It is known for its many islands, beautiful landscapes and sandy beaches. Tourists can enjoy a boating tour with great seafood, as well as explore mysterious caves. To protect it, we can  establish national park and develop sustainable tourism. 
 
+----
+
+**Bài 4 trang 79**
+
+- Tên của kì quan thiên nhiên/cảnh đẹp: Vinh Trang Pagoda
+- Địa chỉ: My Tho city, Tien Giang Province
+- Đặc trưng: beautiful architecture combining Asian and European styles, peaceful gardens with ancient trees and colorful flowers
+- Hoạt động: explore the architecture, admire Buddha statues, pray at the main hall, take photos in the gardens
+- Cách bảo tồn: preserve historic architecture, maintain gardens, educate tourists about respectful behavior, prevent littering
+
+**Bài 5** 
+
+There is a beautiful landscape near my home. It is called Vinh Trang Pagoda. It is known for its stunning architecture combining Asian and European styles, with peaceful gardens and colorful flowers. Tourists can explore the magnificent pagoda, admire the three impressive Buddha statues, and take photos in the scenic gardens. To protect it, we can preserve the historic architecture and educate tourists about respectful behavior at religious sites.
+
+----
 **LOOKING BACK** 
 
 **Bài 1 trang 80** 

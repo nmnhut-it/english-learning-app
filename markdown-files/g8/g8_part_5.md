@@ -138,6 +138,7 @@ Mạo từ có hai loại phổ biến:
 
 **COMMUNICATION** 
 
+
 A: I’m about to have a holiday on Sapa. Could you tell me what to bring ?
 
 B: It’s winter. You definitely should bring warm clothes. 
@@ -229,6 +230,17 @@ Both A and B can have one or more performers
 19. **freedom** (n) \- tự do /ˈfriː.dəm/  
 20. **valuable prize** (n) \- giải thưởng có giá trị /ˈvæl.jʊ.ə.bəl praɪz/
 
+
+A village festival day
+
+I live in a small village in northern Viet Nam. Every year, people in my village look forward to the third day of Tet. It is one of our most important festival days.
+
+In the morning, we gather along the riverside to watch some competitions. First, there is a special boat race. Some team members cook rice on the boat while others row the boat as fast as they can. The fastest team with well-cooked rice wins the race. Then, the referee releases a duck into the middle of the river. Contestants jump into the river to catch it. The atmosphere becomes loud with the sound of drums and cheers of festival goers.
+
+At noon, there is a village party at the communal house for the elders. Each family also holds a home party. We cook traditional dishes like sticky rice and steamed chicken. Sometimes, we include food that children love, such as bun cha or even pizzas!
+
+The village festival helps us maintain our traditions, connect with other people, and strengthen our family bonds.
+
 **Bài 2** 
 
 1. A  
@@ -309,6 +321,21 @@ First, you should. It is advised to . ….
 However, you shouldn’t ……. 
 
 Hope you will have a great time at the festival. 
+
+---
+
+Dear Tom,
+
+I'm glad to hear that you are going to attend the Ooc-om-bok festival. Here are the dos and don'ts for you.
+
+First, you should dress up nicely for the Moon God offering ceremony. It is advised to show respect to the monks and elders and keep quiet when they are talking.
+
+However, you shouldn't climb on the animal statues in the temple ground or refuse young rice when the elders offer it to you. Also, don't litter the temple ground.
+
+Hope you will have a great time at the festival.
+
+
+---
 
 **LOOKING BACK**
 
