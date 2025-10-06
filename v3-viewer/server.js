@@ -361,17 +361,6 @@ YÊU CẦU PHÂN TÍCH VÀ DỊCH TỰ ĐỘNG:
 [Tất cả nội dung tiếng Anh đã phát hiện cần dịch]
 
 <details>
-<summary>📝 Word-by-Word Analysis</summary>
-
-\`\`\`
-1. word1: (pos) Vietnamese meaning /IPA/
-2. word2: (pos) Vietnamese meaning /IPA/
-3. word3: (pos) Vietnamese meaning /IPA/
-\`\`\`
-
-</details>
-
-<details>
 <summary>🇻🇳 Vietnamese Translation</summary>
 
 **1.** [Câu dịch 1]
@@ -393,9 +382,20 @@ YÊU CẦU PHÂN TÍCH VÀ DỊCH TỰ ĐỘNG:
 1. **word1:** (pos) Vietnamese meaning /IPA/
 2. **word2:** (pos) Vietnamese meaning /IPA/
 
-**Meaning Chunks:** (word groups that form meaningful units)
-1. **chunk1:** nghĩa chunk1
-2. **chunk2:** nghĩa chunk2
+**Meaning Chunks:** (grammatical phrases 2-3 words)
+
+Break by phrase types:
+- Noun Phrases (NP): determiner + adjective + noun
+- Verb Phrases (VP): auxiliary/modal + verb
+- Prepositional Phrases (PP): preposition + object
+- Collocations: KEEP INTACT ("interested in", "depend on", "take care of")
+
+Examples:
+1. **"in the morning":** vào buổi sáng (PP-time)
+2. **"are studying":** đang học (VP-continuous)
+3. **"the new teacher":** giáo viên mới (NP)
+4. **"is interested in":** quan tâm đến (VP+PP collocation - keep intact)
+5. **"at that time":** vào thời điểm đó (PP-time)
 
 ---
 
@@ -404,7 +404,7 @@ YÊU CẦU PHÂN TÍCH VÀ DỊCH TỰ ĐỘNG:
 
 </details>
 
-RULES: Auto-detect content, British IPA, meaning chunks = word groups that form meaningful units (e.g., "talented musicians" = subject chunk, "performing music" = action chunk), markdown format only.`;
+RULES: Auto-detect content, British IPA, chunk by grammatical phrases (NP/VP/PP), keep collocations intact, markdown format only.`;
 }
 
 // Helper function to flatten file tree for mobile view
@@ -540,22 +540,6 @@ Trả về markdown hoàn chỉnh theo cấu trúc sau:
 ${text}
 
 <details>
-<summary>📝 Word-by-Word Analysis</summary>
-
-\`\`\`
-1. word1: (pos) Vietnamese meaning /IPA/
-2. word2: (pos) Vietnamese meaning /IPA/
-3. word3: (pos) Vietnamese meaning /IPA/
-\`\`\`
-
-EXAMPLES:
-1. talented: (adj) tài năng /ˈtæləntɪd/
-2. musicians: (noun) nhạc sĩ /mjuːˈzɪʃənz/
-3. performing: (verb) biểu diễn /pəˈfɔːmɪŋ/
-
-</details>
-
-<details>
 <summary>🇻🇳 Vietnamese Translation</summary>
 
 **1.** [Câu dịch 1]
@@ -578,9 +562,20 @@ EXAMPLES:
 2. **word2:** (pos) Vietnamese meaning /IPA/
 3. **word3:** (pos) Vietnamese meaning /IPA/
 
-**Meaning Chunks:** (word groups that form meaningful units)
-1. **chunk1:** nghĩa chunk1
-2. **chunk2:** nghĩa chunk2
+**Meaning Chunks:** (grammatical phrases 2-3 words)
+
+Break by phrase types:
+- Noun Phrases (NP): determiner + adjective + noun
+- Verb Phrases (VP): auxiliary/modal + verb
+- Prepositional Phrases (PP): preposition + object
+- Collocations: KEEP INTACT ("interested in", "depend on", "take care of")
+
+Examples:
+1. **"in the morning":** vào buổi sáng (PP-time)
+2. **"are studying":** đang học (VP-continuous)
+3. **"the new teacher":** giáo viên mới (NP)
+4. **"is interested in":** quan tâm đến (VP+PP collocation - keep intact)
+5. **"at that time":** vào thời điểm đó (PP-time)
 
 ---
 
@@ -594,7 +589,7 @@ EXAMPLES:
 
 </details>
 
-RULES: British IPA, meaning chunks = word groups that form meaningful units (e.g., "talented musicians" = subject chunk, "performing music" = action chunk), markdown format only.`;
+RULES: British IPA, chunk by grammatical phrases (NP/VP/PP), keep collocations intact, markdown format only.`;
 }
 
 function parseTranslationResponse(markdownText) {
@@ -894,14 +889,32 @@ JSON:
 }
 
 Rules:
-- Skip: the, a, is, are, was, were, have, has, do, did, will, can, this, that, my, your, in, on, at, for, and, or, but, very, some, all, not, only, also, there, here, when, what, who
+- Skip function words: the, a, is, are, was, were, have, has, do, did, will, can, this, that, my, your, in, on, at, for, and, or, but, very, some, all, not, only, also, there, here, when, what, who
 - Include: content words (nouns, verbs, adjectives, adverbs)
-- Max 5 words, 3-4 fine chunks (2-4 words each)
+- Max 5 words, 3-4 chunks (2-3 words each)
 - British IPA
-- Fine chunks examples:
-  GOOD: "at that time" (when), "many movies" (what), "TV series" (what), "no reality competitions" (what not), "on TV" (where)
-  BAD: "at that time there were many movies and TV series" (entire clause)
-- Each chunk = one concept (who/what/when/where/how)
+
+CHUNK BY GRAMMATICAL PHRASES (2-3 words):
+• Noun Phrases (NP): "the new student", "beautiful flowers", "my best friend"
+• Verb Phrases (VP): "is studying", "have been working", "will arrive"
+• Prepositional Phrases (PP): "in the morning", "at school", "with friends", "on TV"
+• Adjective Phrases: "very important", "extremely difficult"
+• Collocations - KEEP INTACT: "interested in", "depend on", "take care of", "looking forward to", "at that time"
+
+Examples by phrase structure:
+1. "She is interested in learning English"
+   ✓ GOOD: "is interested in" (VP+PP collocation), "learning English" (gerund phrase)
+   ✗ BAD: "She is interested" (breaks collocation)
+
+2. "The talented musicians are performing beautiful music at the concert"
+   ✓ GOOD: "talented musicians" (NP), "are performing" (VP), "beautiful music" (NP), "at the concert" (PP)
+   ✗ BAD: "talented musicians are" (breaks VP boundary)
+
+3. "At that time there were many movies and TV series on TV"
+   ✓ GOOD: "at that time" (PP-time), "many movies" (NP), "TV series" (NP), "on TV" (PP-location)
+   ✗ BAD: "there were many" (meaningless fragment)
+
+Priority: Keep phrases intact, respect collocation boundaries
 
 JSON only:`;
 
@@ -1003,14 +1016,32 @@ JSON:
 }
 
 Rules:
-- Skip: the, a, is, are, was, were, have, has, do, did, will, can, this, that, my, your, in, on, at, for, and, or, but, very, some, all, not, only, also, there, here, when, what, who
+- Skip function words: the, a, is, are, was, were, have, has, do, did, will, can, this, that, my, your, in, on, at, for, and, or, but, very, some, all, not, only, also, there, here, when, what, who
 - Include: content words (nouns, verbs, adjectives, adverbs)
-- Max 5 words, 3-4 fine chunks (2-4 words each)
+- Max 5 words, 3-4 chunks (2-3 words each)
 - British IPA
-- Fine chunks examples:
-  GOOD: "talented musicians" (who), "are performing" (action), "beautiful music" (what), "tonight" (when)
-  BAD: "talented musicians are performing beautiful music tonight" (entire sentence)
-- Each chunk = one concept (who/what/when/where/how)
+
+CHUNK BY GRAMMATICAL PHRASES (2-3 words):
+• Noun Phrases (NP): "the new student", "beautiful flowers", "my best friend"
+• Verb Phrases (VP): "is studying", "have been working", "will arrive"
+• Prepositional Phrases (PP): "in the morning", "at school", "with friends", "on TV"
+• Adjective Phrases: "very important", "extremely difficult"
+• Collocations - KEEP INTACT: "interested in", "depend on", "take care of", "looking forward to", "at that time"
+
+Examples by phrase structure:
+1. "She is interested in learning English"
+   ✓ GOOD: "is interested in" (VP+PP collocation), "learning English" (gerund phrase)
+   ✗ BAD: "She is interested" (breaks collocation)
+
+2. "The talented musicians are performing beautiful music at the concert"
+   ✓ GOOD: "talented musicians" (NP), "are performing" (VP), "beautiful music" (NP), "at the concert" (PP)
+   ✗ BAD: "talented musicians are" (breaks VP boundary)
+
+3. "At that time there were many movies and TV series on TV"
+   ✓ GOOD: "at that time" (PP-time), "many movies" (NP), "TV series" (NP), "on TV" (PP-location)
+   ✗ BAD: "there were many" (meaningless fragment)
+
+Priority: Keep phrases intact, respect collocation boundaries
 
 JSON only:`;
 
