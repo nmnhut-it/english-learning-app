@@ -53,11 +53,13 @@
 
 #### Sample Answer (Lời giải chi tiết):
 
-Hello everyone. Now I'm going to present the benefits of volunteering activities. First of all, doing volunteering gives us a chance of coming into contact with other teenagers with similar interests. In a club, we can share common interests and values, which strengthens our friendship. Besides, making more friends makes us more confident. Second, volunteering activities help us improve essential life skills such as time management skills, communication skills, teamwork skills. For example, we learn how to make a plan and manage time effectively; communicate with others and work in a group. Finally, a volunteer can gain a lot of life experiences. After volunteering activities, we learn how to deal with problems and situations by observing each other. Thus, we realise our strengths and weaknesses, which helps us decide our career path and orientation.
+Hey everyone! I want to share why volunteering is so great.
 
-**Tạm dịch:**
+First, it's an awesome way to meet other teens who care about the same things you do. When you're in a volunteer club together, you naturally bond over shared interests and values – and having more friends definitely boosts your confidence.
 
-Chào mọi người. Bây giờ tôi sẽ trình bày những lợi ích của các hoạt động tình nguyện. Trước hết, hoạt động tình nguyện giúp chúng ta có cơ hội tiếp xúc với những thanh thiếu niên khác có cùng sở thích. Trong một câu lạc bộ, chúng ta có thể chia sẻ những sở thích và giá trị chung, điều này củng cố tình bạn của chúng tôi. Bên cạnh đó, kết bạn nhiều hơn khiến chúng ta tự tin hơn. Thứ hai, hoạt động tình nguyện giúp chúng ta nâng cao các kỹ năng sống cần thiết như kỹ năng quản lý thời gian, kỹ năng giao tiếp, kỹ năng làm việc nhóm. Ví dụ, chúng ta học cách lập kế hoạch và quản lý thời gian hiệu quả; giao tiếp với những người khác và làm việc trong một nhóm. Cuối cùng, một tình nguyện viên có thể thu được nhiều kinh nghiệm sống. Sau các hoạt động tình nguyện, chúng ta học cách xử lí với các vấn đề và tình huống bằng cách quan sát, học hỏi lẫn nhau. Nhờ đó, chúng tôi nhận ra điểm mạnh và điểm yếu của mình, từ đó giúp chúng ta xác định con đường và định hướng nghề nghiệp của mình.
+Second, you pick up really useful life skills without even realizing it. You get better at managing your time, communicating with different people, and working as a team. Like, you learn how to plan things out, actually stick to a schedule, and collaborate with others on projects.
+
+Finally, volunteering gives you real-world experience you can't get anywhere else. You see how other people handle tough situations, which teaches you a lot about problem-solving. Plus, you discover what you're good at and what you need to work on – super helpful when you're trying to figure out your future career.
 
 ## Vocabulary (Từ vựng)
 

@@ -2,6 +2,14 @@
 
 ## I. Getting Started - Inventions for education
 
+### Vocabulary: 
+
+1. **invention**: (n) sự phát minh, phát minh /ɪnˈvenʃən/
+1. **valuable**: (adj) có giá trị, quý giá /ˈvæljʊəbəl/
+1. **completely**: (adv) hoàn toàn, trọn vẹn /kəmˈpliːtli/
+1. **suitable**: (adj) phù hợp, thích hợp /ˈsuːtəbəl/
+1. **perhaps**: (adv) có lẽ, có thể /pəˈhæps/
+
 ### Dialogue
 
 **Phong:** Dad, I've saved some money since Tet holiday. I think I'll buy something new for my studies.

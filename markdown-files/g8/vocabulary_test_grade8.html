@@ -1,0 +1,941 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kiểm tra từ vựng Tiếng Anh 8 - Global Success</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            padding: 30px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+        }
+
+        h1 {
+            color: #764ba2;
+            text-align: center;
+            margin-bottom: 10px;
+            font-size: 2em;
+        }
+
+        .subtitle {
+            text-align: center;
+            color: #666;
+            margin-bottom: 30px;
+            font-size: 1.1em;
+        }
+
+        .menu {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+            margin-bottom: 30px;
+        }
+
+        .menu-btn {
+            padding: 15px;
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            color: white;
+            border: none;
+            border-radius: 10px;
+            cursor: pointer;
+            font-size: 16px;
+            font-weight: bold;
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+
+        .menu-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(118, 75, 162, 0.4);
+        }
+
+        .menu-btn.active {
+            background: linear-gradient(135deg, #f093fb, #f5576c);
+        }
+
+        .exercise-area {
+            min-height: 400px;
+            padding: 20px;
+            background: #f8f9fa;
+            border-radius: 10px;
+            margin-bottom: 20px;
+        }
+
+        .question {
+            font-size: 1.2em;
+            margin-bottom: 20px;
+            color: #333;
+            padding: 15px;
+            background: white;
+            border-radius: 8px;
+            border-left: 4px solid #667eea;
+        }
+
+        .options {
+            display: grid;
+            gap: 10px;
+        }
+
+        .option {
+            padding: 15px;
+            background: white;
+            border: 2px solid #e0e0e0;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: all 0.3s;
+            font-size: 1em;
+        }
+
+        .option:hover {
+            background: #f0f4ff;
+            border-color: #667eea;
+            transform: translateX(5px);
+        }
+
+        .option.selected {
+            background: #667eea;
+            color: white;
+            border-color: #667eea;
+        }
+
+        .option.correct {
+            background: #4caf50;
+            color: white;
+            border-color: #4caf50;
+        }
+
+        .option.incorrect {
+            background: #f44336;
+            color: white;
+            border-color: #f44336;
+        }
+
+        .input-answer {
+            width: 100%;
+            padding: 15px;
+            font-size: 1.1em;
+            border: 2px solid #e0e0e0;
+            border-radius: 8px;
+            margin-bottom: 15px;
+            transition: border-color 0.3s;
+        }
+
+        .input-answer:focus {
+            outline: none;
+            border-color: #667eea;
+        }
+
+        .btn-group {
+            display: flex;
+            gap: 10px;
+            justify-content: center;
+            margin-top: 20px;
+        }
+
+        .btn {
+            padding: 12px 30px;
+            background: #667eea;
+            color: white;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 16px;
+            font-weight: bold;
+            transition: background 0.3s;
+        }
+
+        .btn:hover {
+            background: #5a67d8;
+        }
+
+        .btn-next {
+            background: #4caf50;
+        }
+
+        .btn-next:hover {
+            background: #45a049;
+        }
+
+        .score-board {
+            text-align: center;
+            padding: 20px;
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            color: white;
+            border-radius: 10px;
+            margin-bottom: 20px;
+        }
+
+        .score-board h2 {
+            font-size: 1.5em;
+            margin-bottom: 10px;
+        }
+
+        .score-details {
+            display: flex;
+            justify-content: space-around;
+            margin-top: 15px;
+        }
+
+        .score-item {
+            text-align: center;
+        }
+
+        .score-number {
+            font-size: 2em;
+            font-weight: bold;
+        }
+
+        .score-label {
+            font-size: 0.9em;
+            opacity: 0.9;
+        }
+
+        .progress-bar {
+            height: 8px;
+            background: #e0e0e0;
+            border-radius: 4px;
+            margin: 20px 0;
+            overflow: hidden;
+        }
+
+        .progress-fill {
+            height: 100%;
+            background: linear-gradient(90deg, #667eea, #764ba2);
+            transition: width 0.3s;
+        }
+
+        .feedback {
+            padding: 15px;
+            border-radius: 8px;
+            margin: 15px 0;
+            font-weight: bold;
+            text-align: center;
+            animation: slideIn 0.3s;
+        }
+
+        .feedback.correct {
+            background: #e8f5e9;
+            color: #2e7d32;
+            border: 2px solid #4caf50;
+        }
+
+        .feedback.incorrect {
+            background: #ffebee;
+            color: #c62828;
+            border: 2px solid #f44336;
+        }
+
+        @keyframes slideIn {
+            from {
+                opacity: 0;
+                transform: translateY(-10px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .matching-container {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 30px;
+            margin-top: 20px;
+        }
+
+        .matching-column h3 {
+            text-align: center;
+            color: #764ba2;
+            margin-bottom: 15px;
+        }
+
+        .matching-item {
+            padding: 12px;
+            background: white;
+            border: 2px solid #e0e0e0;
+            border-radius: 8px;
+            margin-bottom: 10px;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+
+        .matching-item:hover {
+            background: #f0f4ff;
+            border-color: #667eea;
+        }
+
+        .matching-item.selected {
+            background: #667eea;
+            color: white;
+            border-color: #667eea;
+        }
+
+        .matching-item.matched {
+            background: #4caf50;
+            color: white;
+            border-color: #4caf50;
+            cursor: not-allowed;
+        }
+
+        .word-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+            gap: 10px;
+            margin: 20px 0;
+        }
+
+        .word-card {
+            padding: 12px;
+            background: white;
+            border: 2px solid #e0e0e0;
+            border-radius: 8px;
+            text-align: center;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+
+        .word-card:hover {
+            background: #f0f4ff;
+            border-color: #667eea;
+        }
+
+        .word-card.selected {
+            background: #667eea;
+            color: white;
+            border-color: #667eea;
+        }
+
+        .category-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+            margin: 20px 0;
+        }
+
+        .category-box {
+            padding: 15px;
+            background: white;
+            border: 2px dashed #667eea;
+            border-radius: 8px;
+            min-height: 150px;
+        }
+
+        .category-title {
+            text-align: center;
+            color: #764ba2;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+
+        .category-items {
+            min-height: 100px;
+            padding: 10px;
+            background: #f8f9fa;
+            border-radius: 5px;
+        }
+
+        .dropped-word {
+            display: inline-block;
+            padding: 5px 10px;
+            margin: 3px;
+            background: #667eea;
+            color: white;
+            border-radius: 5px;
+            font-size: 0.9em;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🎯 Kiểm Tra Từ Vựng Tiếng Anh 8</h1>
+        <p class="subtitle">Global Success - Units 1-3</p>
+        
+        <div class="menu">
+            <button class="menu-btn" onclick="startExercise('multipleChoice')">Trắc nghiệm</button>
+            <button class="menu-btn" onclick="startExercise('fillBlank')">Điền từ</button>
+            <button class="menu-btn" onclick="startExercise('matching')">Nối từ</button>
+            <button class="menu-btn" onclick="startExercise('wordFamilies')">Nhóm từ</button>
+            <button class="menu-btn" onclick="startExercise('contextual')">Từ trong ngữ cảnh</button>
+            <button class="menu-btn" onclick="startExercise('synonyms')">Từ đồng nghĩa</button>
+        </div>
+
+        <div id="scoreBoard" style="display: none;">
+            <div class="score-board">
+                <h2>📊 Điểm số</h2>
+                <div class="score-details">
+                    <div class="score-item">
+                        <div class="score-number" id="correctCount">0</div>
+                        <div class="score-label">Đúng</div>
+                    </div>
+                    <div class="score-item">
+                        <div class="score-number" id="totalCount">0</div>
+                        <div class="score-label">Tổng số</div>
+                    </div>
+                    <div class="score-item">
+                        <div class="score-number" id="percentage">0%</div>
+                        <div class="score-label">Tỷ lệ</div>
+                    </div>
+                </div>
+            </div>
+            <div class="progress-bar">
+                <div class="progress-fill" id="progressFill" style="width: 0%;"></div>
+            </div>
+        </div>
+
+        <div class="exercise-area" id="exerciseArea">
+            <div style="text-align: center; padding: 50px;">
+                <h2 style="color: #764ba2; margin-bottom: 20px;">👋 Chào mừng bạn!</h2>
+                <p style="color: #666; font-size: 1.1em;">Chọn một dạng bài tập ở trên để bắt đầu kiểm tra từ vựng.</p>
+                <p style="color: #999; margin-top: 10px;">Bài tập bao gồm từ vựng từ Units 1-3: Leisure time, Life in the countryside, Teenagers</p>
+            </div>
+        </div>
+
+        <div id="feedbackArea"></div>
+
+        <div class="btn-group" id="controlButtons" style="display: none;">
+            <button class="btn" onclick="checkAnswer()">Kiểm tra</button>
+            <button class="btn btn-next" onclick="nextQuestion()">Câu tiếp theo</button>
+            <button class="btn" onclick="resetExercise()">Làm lại</button>
+        </div>
+    </div>
+
+    <script>
+        // Vocabulary database
+        const vocabulary = {
+            leisureActivities: {
+                words: [
+                    { en: 'doing puzzles', vi: 'giải ô chữ', context: 'leisure' },
+                    { en: 'messaging friends', vi: 'nhắn tin cho bạn bè', context: 'leisure' },
+                    { en: 'surfing the internet', vi: 'lướt web', context: 'leisure' },
+                    { en: 'doing DIY', vi: 'làm đồ thủ công', context: 'leisure' },
+                    { en: 'going shopping', vi: 'đi mua sắm', context: 'leisure' },
+                    { en: 'playing board games', vi: 'chơi board game', context: 'leisure' },
+                    { en: 'cooking', vi: 'nấu ăn', context: 'leisure' },
+                    { en: 'gardening', vi: 'làm vườn', context: 'leisure' }
+                ]
+            },
+            countryside: {
+                words: [
+                    { en: 'paddy field', vi: 'cánh đồng lúa', context: 'countryside' },
+                    { en: 'harvest time', vi: 'mùa thu hoạch', context: 'countryside' },
+                    { en: 'herd', vi: 'chăn (gia súc)', context: 'countryside' },
+                    { en: 'buffalo', vi: 'con trâu', context: 'countryside' },
+                    { en: 'village well', vi: 'giếng làng', context: 'countryside' },
+                    { en: 'plough', vi: 'cày', context: 'countryside' },
+                    { en: 'pick', vi: 'hái', context: 'countryside' },
+                    { en: 'load', vi: 'chất, tải', context: 'countryside' },
+                    { en: 'unload', vi: 'dỡ hàng', context: 'countryside' },
+                    { en: 'vast', vi: 'rộng lớn', context: 'countryside' }
+                ]
+            },
+            teenagers: {
+                words: [
+                    { en: 'peer pressure', vi: 'áp lực từ bạn bè', context: 'teenagers' },
+                    { en: 'stressed', vi: 'căng thẳng', context: 'teenagers' },
+                    { en: 'bully', vi: 'bắt nạt', context: 'teenagers' },
+                    { en: 'confident', vi: 'tự tin', context: 'teenagers' },
+                    { en: 'participate', vi: 'tham gia', context: 'teenagers' },
+                    { en: 'competition', vi: 'cuộc thi', context: 'teenagers' },
+                    { en: 'club activities', vi: 'hoạt động câu lạc bộ', context: 'teenagers' },
+                    { en: 'counselor', vi: 'cố vấn', context: 'teenagers' },
+                    { en: 'deal with', vi: 'đối phó với', context: 'teenagers' },
+                    { en: 'fit in', vi: 'hòa nhập', context: 'teenagers' }
+                ]
+            },
+            preferences: {
+                words: [
+                    { en: 'keen on', vi: 'thích', context: 'preferences' },
+                    { en: 'fond of', vi: 'yêu thích', context: 'preferences' },
+                    { en: 'interested in', vi: 'quan tâm đến', context: 'preferences' },
+                    { en: 'crazy about', vi: 'say mê', context: 'preferences' },
+                    { en: 'into', vi: 'thích', context: 'preferences' },
+                    { en: 'detest', vi: 'ghét', context: 'preferences' },
+                    { en: 'prefer', vi: 'thích hơn', context: 'preferences' },
+                    { en: 'can\'t stand', vi: 'không thể chịu được', context: 'preferences' }
+                ]
+            }
+        };
+
+        // Get all words
+        const allWords = [
+            ...vocabulary.leisureActivities.words,
+            ...vocabulary.countryside.words,
+            ...vocabulary.teenagers.words,
+            ...vocabulary.preferences.words
+        ];
+
+        let currentExercise = null;
+        let currentQuestionIndex = 0;
+        let score = 0;
+        let totalQuestions = 0;
+        let exerciseData = [];
+        let userAnswer = null;
+
+        function startExercise(type) {
+            currentExercise = type;
+            currentQuestionIndex = 0;
+            score = 0;
+            totalQuestions = 10; // 10 questions per exercise
+            
+            // Highlight active button
+            document.querySelectorAll('.menu-btn').forEach(btn => btn.classList.remove('active'));
+            event.target.classList.add('active');
+            
+            // Show controls
+            document.getElementById('controlButtons').style.display = 'flex';
+            document.getElementById('scoreBoard').style.display = 'block';
+            
+            // Generate exercise data
+            switch(type) {
+                case 'multipleChoice':
+                    generateMultipleChoice();
+                    break;
+                case 'fillBlank':
+                    generateFillBlank();
+                    break;
+                case 'matching':
+                    generateMatching();
+                    break;
+                case 'wordFamilies':
+                    generateWordFamilies();
+                    break;
+                case 'contextual':
+                    generateContextual();
+                    break;
+                case 'synonyms':
+                    generateSynonyms();
+                    break;
+            }
+            
+            updateScore();
+            displayQuestion();
+        }
+
+        function generateMultipleChoice() {
+            exerciseData = [];
+            const shuffled = [...allWords].sort(() => Math.random() - 0.5);
+            
+            for (let i = 0; i < totalQuestions; i++) {
+                const correct = shuffled[i];
+                const options = [correct];
+                
+                // Add 3 wrong options
+                const otherWords = allWords.filter(w => w.en !== correct.en);
+                for (let j = 0; j < 3; j++) {
+                    const randomWord = otherWords[Math.floor(Math.random() * otherWords.length)];
+                    if (!options.find(o => o.en === randomWord.en)) {
+                        options.push(randomWord);
+                    }
+                }
+                
+                exerciseData.push({
+                    question: `"${correct.en}" có nghĩa là gì?`,
+                    correctAnswer: correct.vi,
+                    options: options.map(o => o.vi).sort(() => Math.random() - 0.5)
+                });
+            }
+        }
+
+        function generateFillBlank() {
+            exerciseData = [];
+            const sentences = [
+                { text: 'My sister loves ___ in her free time.', answer: 'doing puzzles', options: ['doing puzzles', 'do puzzles', 'to do puzzles'] },
+                { text: 'Teenagers often feel ___ from their peers.', answer: 'pressure', options: ['pressure', 'stressed', 'confident'] },
+                { text: 'Farmers ___ buffaloes in the field.', answer: 'herd', options: ['herd', 'pick', 'load'] },
+                { text: 'I am ___ playing board games.', answer: 'keen on', options: ['keen on', 'keen in', 'keen at'] },
+                { text: 'We collect water from the ___.', answer: 'village well', options: ['village well', 'paddy field', 'harvest time'] },
+                { text: 'She ___ getting up early.', answer: 'detests', options: ['detests', 'detest', 'detesting'] },
+                { text: 'Students should ___ in club activities.', answer: 'participate', options: ['participate', 'participates', 'participating'] },
+                { text: 'Life in the countryside is more ___ than in the city.', answer: 'peaceful', options: ['peaceful', 'peacefully', 'peace'] },
+                { text: 'They are ___ about Korean dramas.', answer: 'crazy', options: ['crazy', 'fond', 'interested'] },
+                { text: 'It\'s important to ___ stress effectively.', answer: 'deal with', options: ['deal with', 'deal in', 'deal at'] }
+            ];
+            
+            exerciseData = sentences.map(s => ({
+                question: s.text,
+                correctAnswer: s.answer,
+                options: s.options
+            }));
+        }
+
+        function generateMatching() {
+            // This will be displayed differently
+            const words = allWords.slice(0, 5).sort(() => Math.random() - 0.5);
+            exerciseData = [{
+                type: 'matching',
+                leftColumn: words.map(w => w.en),
+                rightColumn: words.map(w => w.vi).sort(() => Math.random() - 0.5),
+                pairs: words.map(w => ({ left: w.en, right: w.vi }))
+            }];
+            totalQuestions = 1;
+        }
+
+        function generateWordFamilies() {
+            exerciseData = [{
+                type: 'categorize',
+                words: [
+                    'doing puzzles', 'paddy field', 'peer pressure',
+                    'messaging friends', 'buffalo', 'stressed',
+                    'surfing the internet', 'harvest time', 'confident',
+                    'village well', 'participate', 'cooking'
+                ].sort(() => Math.random() - 0.5),
+                categories: {
+                    'Leisure Activities': ['doing puzzles', 'messaging friends', 'surfing the internet', 'cooking'],
+                    'Countryside': ['paddy field', 'buffalo', 'harvest time', 'village well'],
+                    'Teenagers': ['peer pressure', 'stressed', 'confident', 'participate']
+                }
+            }];
+            totalQuestions = 1;
+        }
+
+        function generateContextual() {
+            exerciseData = [];
+            const contexts = [
+                {
+                    text: 'After school, many students join different ___. They can learn new skills and make friends.',
+                    answer: 'club activities',
+                    options: ['club activities', 'peer pressure', 'harvest time', 'paddy field']
+                },
+                {
+                    text: 'During ___, farmers work very hard to collect their crops.',
+                    answer: 'harvest time',
+                    options: ['harvest time', 'club activities', 'free time', 'peer pressure']
+                },
+                {
+                    text: 'Many teenagers feel ___ when they have too many exams.',
+                    answer: 'stressed',
+                    options: ['stressed', 'confident', 'peaceful', 'vast']
+                },
+                {
+                    text: 'In rural areas, people often ___ water from wells.',
+                    answer: 'collect',
+                    options: ['collect', 'surf', 'message', 'participate']
+                },
+                {
+                    text: 'My grandmother is ___ gardening. She spends hours taking care of her plants.',
+                    answer: 'fond of',
+                    options: ['fond of', 'stressed about', 'confident in', 'vast in']
+                }
+            ];
+            
+            // Take first 10 or all available
+            exerciseData = contexts.concat(contexts).slice(0, 10).map(c => ({
+                question: c.text,
+                correctAnswer: c.answer,
+                options: c.options.sort(() => Math.random() - 0.5)
+            }));
+        }
+
+        function generateSynonyms() {
+            const synonymPairs = [
+                { word: 'keen on', synonyms: ['interested in', 'fond of', 'into'], wrong: ['detest', 'hate'] },
+                { word: 'detest', synonyms: ['hate', 'can\'t stand'], wrong: ['love', 'enjoy', 'keen on'] },
+                { word: 'participate', synonyms: ['join', 'take part in'], wrong: ['avoid', 'skip'] },
+                { word: 'stressed', synonyms: ['anxious', 'worried', 'tense'], wrong: ['relaxed', 'calm'] },
+                { word: 'confident', synonyms: ['self-assured', 'sure'], wrong: ['nervous', 'anxious'] }
+            ];
+            
+            exerciseData = [];
+            for (let i = 0; i < totalQuestions && i < synonymPairs.length * 2; i++) {
+                const pair = synonymPairs[i % synonymPairs.length];
+                const correctSynonym = pair.synonyms[Math.floor(Math.random() * pair.synonyms.length)];
+                const options = [correctSynonym];
+                
+                // Add wrong options
+                pair.wrong.forEach(w => {
+                    if (options.length < 4) options.push(w);
+                });
+                
+                // Add more random wrong options if needed
+                while (options.length < 4) {
+                    const randomWrong = synonymPairs[Math.floor(Math.random() * synonymPairs.length)].wrong[0];
+                    if (!options.includes(randomWrong)) {
+                        options.push(randomWrong);
+                    }
+                }
+                
+                exerciseData.push({
+                    question: `Từ nào đồng nghĩa với "${pair.word}"?`,
+                    correctAnswer: correctSynonym,
+                    options: options.sort(() => Math.random() - 0.5)
+                });
+            }
+        }
+
+        function displayQuestion() {
+            const exerciseArea = document.getElementById('exerciseArea');
+            const question = exerciseData[currentQuestionIndex];
+            
+            if (!question) {
+                showFinalScore();
+                return;
+            }
+            
+            let html = '';
+            
+            if (question.type === 'matching') {
+                html = `
+                    <div class="question">Nối từ tiếng Anh với nghĩa tiếng Việt tương ứng</div>
+                    <div class="matching-container">
+                        <div class="matching-column">
+                            <h3>Tiếng Anh</h3>
+                            ${question.leftColumn.map((word, i) => 
+                                `<div class="matching-item" data-left="${i}" onclick="selectMatchingItem(this, 'left')">${word}</div>`
+                            ).join('')}
+                        </div>
+                        <div class="matching-column">
+                            <h3>Tiếng Việt</h3>
+                            ${question.rightColumn.map((word, i) => 
+                                `<div class="matching-item" data-right="${i}" onclick="selectMatchingItem(this, 'right')">${word}</div>`
+                            ).join('')}
+                        </div>
+                    </div>
+                `;
+            } else if (question.type === 'categorize') {
+                html = `
+                    <div class="question">Phân loại các từ vào nhóm phù hợp</div>
+                    <div class="word-grid">
+                        ${question.words.map(word => 
+                            `<div class="word-card" onclick="selectWord(this)" data-word="${word}">${word}</div>`
+                        ).join('')}
+                    </div>
+                    <div class="category-container">
+                        ${Object.keys(question.categories).map(cat => `
+                            <div class="category-box" data-category="${cat}">
+                                <div class="category-title">${cat}</div>
+                                <div class="category-items" id="cat-${cat.replace(/\s/g, '-')}"></div>
+                            </div>
+                        `).join('')}
+                    </div>
+                `;
+            } else {
+                html = `
+                    <div class="question">Câu ${currentQuestionIndex + 1}: ${question.question}</div>
+                    <div class="options">
+                        ${question.options.map((option, i) => 
+                            `<div class="option" onclick="selectOption(this)" data-value="${option}">${option}</div>`
+                        ).join('')}
+                    </div>
+                `;
+            }
+            
+            exerciseArea.innerHTML = html;
+            document.getElementById('feedbackArea').innerHTML = '';
+        }
+
+        function selectOption(element) {
+            document.querySelectorAll('.option').forEach(opt => opt.classList.remove('selected'));
+            element.classList.add('selected');
+            userAnswer = element.dataset.value;
+        }
+
+        function selectMatchingItem(element, side) {
+            // Implementation for matching exercise
+            if (!window.matchingSelection) window.matchingSelection = {};
+            
+            if (side === 'left') {
+                document.querySelectorAll('[data-left]').forEach(el => el.classList.remove('selected'));
+                element.classList.add('selected');
+                window.matchingSelection.left = element.textContent;
+            } else {
+                document.querySelectorAll('[data-right]').forEach(el => el.classList.remove('selected'));
+                element.classList.add('selected');
+                window.matchingSelection.right = element.textContent;
+            }
+            
+            // Check if both selected
+            if (window.matchingSelection.left && window.matchingSelection.right) {
+                checkMatching();
+            }
+        }
+
+        function checkMatching() {
+            const question = exerciseData[currentQuestionIndex];
+            const pair = question.pairs.find(p => p.left === window.matchingSelection.left);
+            
+            if (pair && pair.right === window.matchingSelection.right) {
+                // Correct match
+                document.querySelectorAll('.matching-item.selected').forEach(el => {
+                    el.classList.remove('selected');
+                    el.classList.add('matched');
+                    el.onclick = null;
+                });
+                
+                score++;
+                showFeedback(true, `Đúng! ${window.matchingSelection.left} = ${window.matchingSelection.right}`);
+                
+                // Check if all matched
+                if (document.querySelectorAll('.matched').length === question.pairs.length * 2) {
+                    setTimeout(nextQuestion, 1500);
+                }
+            } else {
+                showFeedback(false, 'Không đúng, thử lại!');
+                document.querySelectorAll('.matching-item.selected').forEach(el => {
+                    el.classList.remove('selected');
+                });
+            }
+            
+            window.matchingSelection = {};
+            updateScore();
+        }
+
+        function selectWord(element) {
+            element.classList.toggle('selected');
+        }
+
+        function checkAnswer() {
+            const question = exerciseData[currentQuestionIndex];
+            
+            if (question.type === 'categorize') {
+                checkCategorization();
+                return;
+            }
+            
+            if (!userAnswer) {
+                showFeedback(false, 'Vui lòng chọn một đáp án!');
+                return;
+            }
+            
+            const isCorrect = userAnswer === question.correctAnswer;
+            
+            if (isCorrect) {
+                score++;
+                showFeedback(true, 'Chính xác! 🎉');
+                document.querySelector(`.option[data-value="${userAnswer}"]`).classList.add('correct');
+            } else {
+                showFeedback(false, `Sai rồi! Đáp án đúng là: ${question.correctAnswer}`);
+                document.querySelector(`.option[data-value="${userAnswer}"]`).classList.add('incorrect');
+                document.querySelector(`.option[data-value="${question.correctAnswer}"]`).classList.add('correct');
+            }
+            
+            updateScore();
+            
+            // Disable options after checking
+            document.querySelectorAll('.option').forEach(opt => {
+                opt.onclick = null;
+                opt.style.cursor = 'not-allowed';
+            });
+        }
+
+        function checkCategorization() {
+            const question = exerciseData[currentQuestionIndex];
+            let allCorrect = true;
+            let correctCount = 0;
+            const totalWords = question.words.length;
+            
+            Object.keys(question.categories).forEach(cat => {
+                const catElement = document.getElementById(`cat-${cat.replace(/\s/g, '-')}`);
+                const droppedWords = Array.from(document.querySelectorAll(`.word-card.selected[data-word]`))
+                    .filter(card => {
+                        // Simulate dropping into category
+                        const word = card.dataset.word;
+                        if (question.categories[cat].includes(word)) {
+                            card.style.display = 'none';
+                            catElement.innerHTML += `<span class="dropped-word">${word}</span>`;
+                            correctCount++;
+                            return true;
+                        }
+                        return false;
+                    });
+            });
+            
+            if (correctCount === 0) {
+                showFeedback(false, 'Vui lòng chọn và phân loại các từ!');
+            } else if (correctCount === totalWords) {
+                score++;
+                showFeedback(true, 'Xuất sắc! Bạn đã phân loại đúng tất cả! 🎉');
+                setTimeout(nextQuestion, 2000);
+            } else {
+                showFeedback(false, `Bạn đã phân loại đúng ${correctCount}/${totalWords} từ. Thử lại!`);
+            }
+            
+            updateScore();
+        }
+
+        function showFeedback(isCorrect, message) {
+            const feedbackArea = document.getElementById('feedbackArea');
+            feedbackArea.innerHTML = `
+                <div class="feedback ${isCorrect ? 'correct' : 'incorrect'}">
+                    ${message}
+                </div>
+            `;
+        }
+
+        function nextQuestion() {
+            currentQuestionIndex++;
+            userAnswer = null;
+            
+            if (currentQuestionIndex >= exerciseData.length) {
+                showFinalScore();
+            } else {
+                displayQuestion();
+            }
+        }
+
+        function updateScore() {
+            document.getElementById('correctCount').textContent = score;
+            document.getElementById('totalCount').textContent = totalQuestions;
+            const percentage = totalQuestions > 0 ? Math.round((score / totalQuestions) * 100) : 0;
+            document.getElementById('percentage').textContent = percentage + '%';
+            document.getElementById('progressFill').style.width = 
+                ((currentQuestionIndex + 1) / totalQuestions * 100) + '%';
+        }
+
+        function showFinalScore() {
+            const percentage = Math.round((score / totalQuestions) * 100);
+            let message = '';
+            let emoji = '';
+            
+            if (percentage >= 90) {
+                message = 'Xuất sắc! Bạn nắm vững từ vựng rồi!';
+                emoji = '🏆';
+            } else if (percentage >= 70) {
+                message = 'Tốt lắm! Cố gắng thêm một chút nữa!';
+                emoji = '👏';
+            } else if (percentage >= 50) {
+                message = 'Khá tốt! Hãy ôn tập thêm nhé!';
+                emoji = '💪';
+            } else {
+                message = 'Cần ôn tập thêm! Đừng bỏ cuộc!';
+                emoji = '📚';
+            }
+            
+            document.getElementById('exerciseArea').innerHTML = `
+                <div style="text-align: center; padding: 40px;">
+                    <div style="font-size: 4em; margin-bottom: 20px;">${emoji}</div>
+                    <h2 style="color: #764ba2; margin-bottom: 20px;">Hoàn thành!</h2>
+                    <p style="font-size: 1.5em; color: #667eea; margin-bottom: 15px;">
+                        Điểm của bạn: ${score}/${totalQuestions}
+                    </p>
+                    <p style="font-size: 1.2em; color: #666; margin-bottom: 30px;">${message}</p>
+                    <button class="btn" onclick="location.reload()">Làm bài khác</button>
+                </div>
+            `;
+            
+            document.getElementById('controlButtons').style.display = 'none';
+        }
+
+        function resetExercise() {
+            if (currentExercise) {
+                startExercise(currentExercise);
+            }
+        }
+    </script>
+</body>
+</html>

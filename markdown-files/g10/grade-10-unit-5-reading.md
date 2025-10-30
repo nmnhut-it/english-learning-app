@@ -2,6 +2,17 @@
 
 ## Artificial Intelligence (Trí tuệ nhân tạo)
 
+1. **measure**: (v) đo lường, đo đạc /ˈmeʒə(r)/
+1. **furniture**: (n) đồ nội thất, đồ đạc /ˈfɜːnɪtʃə(r)/
+1. **route**: (n) tuyến đường, lộ trình /ruːt/
+1. **vacuum cleaner**: máy hút bụi /ˈvækjuːm ˈkliːnə(r)/
+1. **recognise**: (v) nhận ra, nhận biết /ˈrekəɡnaɪz/
+1. **book flights**: đặt vé máy bay /bʊk flaɪts/
+1. **copy human intelligence**: sao chép trí thông minh của con người /ˈkɒpi ˈhjuːmən ɪnˈtelɪdʒəns/
+1. **express emotions**: bày tỏ cảm xúc /ɪkˈspres ɪˈməʊʃnz/
+1. **human language**: ngôn ngữ của con người /ˈhjuːmən ˈlæŋɡwɪdʒ/
+1. **communicate**: (v) giao tiếp, truyền đạt /kəˈmjuːnɪkeɪt/
+
 ### Bài 1
 **Look at the pictures of Asimo and Sophia and discuss the questions below in pairs.**
 (Nhìn vào hình ảnh của Asimo và Sophia và thảo luận theo cặp các câu hỏi bên dưới.)
