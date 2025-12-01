@@ -1,5 +1,28 @@
 # Unit 5: Inventions - Communication and Culture/CLIL
 
+## Vocabulary
+
+1. **hardware**: (n) phần cứng /ˈhɑːdweə(r)/
+1. **software**: (n) phần mềm /ˈsɒftweə(r)/
+1. **processor**: (n) bộ xử lý /ˈprəʊsesə(r)/
+1. **control**: (v) điều khiển, kiểm soát /kənˈtrəʊl/
+1. **activity**: (n) hoạt động /ækˈtɪvəti/
+1. **processor speed**: tốc độ xử lý /ˈprəʊsesə spiːd/
+1. **gigahertz**: (n) gigahertz (đơn vị đo tần số) /ˈɡɪɡəhɜːts/
+1. **Random Access Memory (RAM)** : bộ nhớ truy cập ngẫu nhiên /ˈrændəm ˈækses ˈmeməri/
+1. **display**: (v) hiển thị /dɪˈspleɪ/
+1. **gigabyte**: (n) gigabyte (đơn vị đo dung lượng) /ˈɡɪɡəbaɪt/
+1. **powerful**: (adj) mạnh mẽ /ˈpaʊəfl/
+1. **task**: (n) nhiệm vụ, tác vụ /tɑːsk/
+1. **storage space** : dung lượng lưu trữ /ˈstɔːrɪdʒ speɪs/
+1. **store**: (v) lưu trữ /stɔː(r)/
+1. **document**: (n) tài liệu /ˈdɒkjumənt/
+1. **screen size**: kích thước màn hình /skriːn saɪz/
+1. **battery**: (n) pin /ˈbætəri/
+1. **weight**: (n) trọng lượng /weɪt/
+1. **suitable**: (adj) phù hợp /ˈsuːtəbl/
+1. **basic**: (adj) cơ bản /ˈbeɪsɪk/
+
 ## Everyday English
 
 ### Making and responding to requests

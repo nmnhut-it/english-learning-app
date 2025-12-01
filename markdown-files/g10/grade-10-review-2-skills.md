@@ -2,6 +2,15 @@
 
 ## I. Listening
 
+### Vocabulary: 
+
+1. **imagine**: (v) tưởng tượng /ɪˈmædʒɪn/
+1. **immediately**: (adv) ngay lập tức, tức thì /ɪˈmiːdiətli/
+1. **informed**: (adj/v) được thông báo; thông báo /ɪnˈfɔːmd/
+1. **alarm**: (n) báo động, chuông báo /əˈlɑːm/
+1. **ring**: (v) rung chuông, kêu /rɪŋ/
+1. **break into**: (phrasal verb) đột nhập vào /breɪk ˈɪntu/
+
 ### Exercise 1: Listen and choose the best title for the talk
 Listen and choose the best title for the talk.
 

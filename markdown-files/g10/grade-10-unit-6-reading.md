@@ -2,6 +2,40 @@
 
 ## For an equal world (Cho một thế giới bình đẳng)
 
+### Vocabulary: 
+ # Vocabulary List
+
+1. **gender equality**: (n phr) bình đẳng giới /ˈdʒendər ɪˈkwɒləti/
+2. **promote**: (v) thúc đẩy, xúc tiến /prəˈməʊt/
+3. **challenge**: (n) thách thức /ˈtʃælɪndʒ/
+4. **forced**: (adj) bị ép buộc /fɔːst/
+5. **protect sb from sth**: (v phr) bảo vệ ai khỏi điều gì /prəˈtekt ... frɒm/
+6. **victim**: (n) nạn nhân /ˈvɪktɪm/
+7. **violence**: (n) bạo lực /ˈvaɪələns/
+8. **domestic**: (adj) thuộc về gia đình, trong nước /dəˈmestɪk/
+9. **domestic violence**: (n phr) bạo lực gia đình /dəˈmestɪk ˈvaɪələns/
+10. **carry risks**: (v phr) mang theo rủi ro /ˈkæri rɪsks/
+11. **physically developed**: (adj phr) phát triển về thể chất /ˈfɪzɪkli dɪˈveləpt/
+12. **give birth**: (v phr) sinh con /ɡɪv bɜːθ/
+13. **uneducated**: (adj) không được học hành, thất học /ʌnˈedʒukeɪtɪd/
+14. **receive an education**: (v phr) được hưởng nền giáo dục /rɪˈsiːv ən ˌedʒuˈkeɪʃən/
+15. **be likely to do sth**: (v phr) có khả năng làm gì /bi ˈlaɪkli tə/
+16. **salary**: (n) tiền lương /ˈsæləri/
+17. **earn higher salaries**: (v phr) kiếm được mức lương cao hơn /ɜːn ˈhaɪə ˈsæləriz/
+18. **give back to**: (v phr) đóng góp lại cho /ɡɪv bæk tə/
+19. **community**: (n) cộng đồng /kəˈmjuːnəti/
+20. **in other words**: (adv phr) nói cách khác /ɪn ˈʌðə wɜːdz/
+21. **low-paying**: (adj) lương thấp /ləʊ ˈpeɪɪŋ/
+22. **career choice**: (n phr) sự lựa chọn nghề nghiệp /kəˈrɪə tʃɔɪs/
+23. **tend to do sth**: (v phr) có xu hướng làm gì /tend tə/
+24. **secretary**: (n) thư ký /ˈsekrətri/
+25. **surgeon**: (n) bác sĩ phẫu thuật /ˈsɜːdʒən/
+26. **equal to**: (adj phr) bình đẳng với /ˈiːkwəl tə/
+27. **achieve**: (v) đạt được /əˈtʃiːv/
+28. **organisation**: (n) tổ chức /ˌɔːɡənaɪˈzeɪʃən/
+29. **individual**: (n) cá nhân /ˌɪndɪˈvɪdʒuəl/
+
+
 ### Bài 1: Match the sentences with the pictures
 Match the sentences with the pictures.
 (Nối các câu với những hình ảnh.)

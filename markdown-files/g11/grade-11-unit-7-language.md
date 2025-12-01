@@ -1,6 +1,21 @@
 # Unit 7: Education options for school-leavers - Language
 
+## Vocabulary
+
+1. **qualification**: (n) bằng cấp, trình độ chuyên môn /ˌkwɒlɪfɪˈkeɪʃən/
+2. **pursue**: (v) theo đuổi /pəˈsjuː/
+3. **school leaver**: (n) người mới tốt nghiệp phổ thông /skuːl ˈliːvə/
+4. **course**: (n) khóa học /kɔːs/
+5. **graduation**: (n) tốt nghiệp /ˌɡrædʒuˈeɪʃən/
+6. **falcon**: (n) chim ưng /ˈfɔːlkən/
+7. **nice**: (adj) tốt, dễ chịu /naɪs/
+8. **practical**: (adj) thực tế, thực hành /ˈpræktɪkəl/
+9. **immediately**: (adv) ngay lập tức /ɪˈmiːdiətli/
+
 ## Pronunciation
+
+Cuối câu hỏi yes no --> lên giọng 
+Cuối câu hỏi Wh- --> xuống giọng 
 
 ### Exercise 1: Listen and repeat
 Listen and repeat. Pay attention to the falling or rising intonation in each of the following questions.

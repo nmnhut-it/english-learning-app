@@ -27,6 +27,8 @@
 1. **methane-catching**: (adj) bắt giữ mê-tan
 1. **intend**: (v) dự định /ɪnˈtend/
 
+
+
 ## I. Everyday English - Giving and Responding to Warnings
 
 ### Exercise 1: Listen and Complete the Conversation

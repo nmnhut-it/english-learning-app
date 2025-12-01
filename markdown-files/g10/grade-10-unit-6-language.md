@@ -1,5 +1,18 @@
 # Unit 6: Gender Equality - Language
 
+### New words: 
+
+1. **gender**: (n) giới tính /ˈdʒendə/
+2. **toward**: (prep) về phía, hướng tới /təˈwɔːd/
+3. **operation**: (n) hoạt động, ca phẫu thuật, chiến dịch /ˌɒpəˈreɪʃən/
+4. **influenced**: (adj/v) bị ảnh hưởng /ˈɪnfluənst/
+5. **air force**: (n phr) không quân /eə fɔːs/
+6. **fighter pilot**: (n phr) phi công chiến đấu /ˈfaɪtə ˈpaɪlət/
+7. **ought to**: (modal v phr) nên, phải /ɔːt tuː/
+8. **female**: (n/adj) nữ, phụ nữ /ˈfiːmeɪl/
+9. **behave**: (v) cư xử, hành xử /bɪˈheɪv/
+10. **fact**: (n) sự thật, thực tế /fækt/
+
 ## Pronunciation: Stress in Three-syllable Adjectives and Verbs
 
 ### Exercise 1: Listen and repeat. Pay attention to the stressed syllable in each word.

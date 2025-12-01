@@ -2,6 +2,31 @@
 
 ## I. Getting Started - Planning our education
 
+### Vocabulary
+1. **education fair**: (n) hội chợ giáo dục /ˌedʒuˈkeɪʃən feə/
+2. **glad**: (adj) vui mừng, hài lòng /ɡlæd/
+3. **useful**: (adj) hữu ích /ˈjuːsfəl/
+4. **education options**: (n) lựa chọn giáo dục /ˌedʒuˈkeɪʃən ˈɒpʃənz/
+5. **mainly**: (adv) chủ yếu /ˈmeɪnli/
+6. **get into university**: (v phr) vào được đại học /ɡet ˈɪntuː ˌjuːnɪˈvɜːsəti/
+7. **grades**: (n) điểm số /ɡreɪdz/
+8. **earn high grades**: (v phr) đạt điểm cao /ɜːn haɪ ɡreɪdz/
+9. **entrance**: (n) lối vào; sự gia nhập /ˈentrəns/
+10. **university entrance exam**: (n) kỳ thi tuyển sinh đại học /ˌjuːnɪˈvɜːsəti ˈentrəns ɪɡˈzæm/
+11. **academic**: (adj) học thuật /ˌækəˈdemɪk/
+12. **academic education**: (n) giáo dục học thuật /ˌækəˈdemɪk ˌedʒuˈkeɪʃən/
+13. **vocational school**: (n) trường dạy nghề /vəʊˈkeɪʃənəl skuːl/
+14. **particular**: (adj) cụ thể, đặc biệt /pəˈtɪkjələ/
+15. **biology competitions**: (n) cuộc thi sinh học /baɪˈɒlədʒi ˌkɒmpəˈtɪʃənz/
+16. **scientist**: (n) nhà khoa học /ˈsaɪəntɪst/
+17. **follow your dream**: (v phr) theo đuổi ước mơ /ˈfɒləʊ jɔː driːm/
+18. **regret**: (v) hối tiếc /rɪˈɡret/
+20. **proud of**: (adj phr) tự hào về /praʊd ɒv/
+21. **car mechanic**: (n) thợ sửa xe ô tô /kɑː məˈkænɪk/
+22. **car repair shop**: (n) cửa hàng sửa chữa xe ô tô /kɑː rɪˈpeə ʃɒp/
+23. **sensible**: (adj) hợp lý, khôn ngoan /ˈsensəbəl/
+24. **grow his business**: (v phr) phát triển công việc kinh doanh /ɡrəʊ hɪz ˈbɪznəs/
+
 ### Dialogue
 
 **Ms Hoa:** Good morning, class. There was an education fair last weekend. Did anyone go?
