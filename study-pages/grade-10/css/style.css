@@ -662,6 +662,99 @@ body {
   border: 1px solid var(--secondary);
 }
 
+/* ===== Detailed Explanation Feedback ===== */
+.feedback-header {
+  display: flex;
+  align-items: center;
+  gap: var(--space-sm);
+  margin-bottom: var(--space-sm);
+}
+
+.feedback-icon {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.feedback-status {
+  font-weight: 600;
+  font-size: 1.1rem;
+}
+
+.feedback-points {
+  background: var(--warning);
+  color: white;
+  padding: 2px 8px;
+  border-radius: var(--radius-full);
+  font-size: 0.85rem;
+  margin-left: auto;
+}
+
+.feedback-bonuses {
+  font-size: 0.9rem;
+  color: var(--warning);
+  margin-bottom: var(--space-sm);
+}
+
+.feedback-correct {
+  padding: var(--space-sm);
+  background: rgba(255,255,255,0.5);
+  border-radius: var(--radius-sm);
+  margin-bottom: var(--space-sm);
+}
+
+.feedback-explanation {
+  margin-top: var(--space-md);
+  padding: var(--space-md);
+  background: rgba(255,255,255,0.7);
+  border-radius: var(--radius-md);
+  border-left: 3px solid var(--secondary);
+}
+
+.feedback-explanation p {
+  margin-top: var(--space-xs);
+  line-height: 1.6;
+}
+
+.feedback-grammar {
+  margin-top: var(--space-sm);
+  padding: var(--space-sm) var(--space-md);
+  background: var(--purple-light);
+  border-radius: var(--radius-sm);
+  font-family: monospace;
+  font-size: 0.95rem;
+}
+
+.feedback-tip {
+  margin-top: var(--space-sm);
+  padding: var(--space-sm) var(--space-md);
+  background: var(--warning-light);
+  border-radius: var(--radius-sm);
+  font-size: 0.9rem;
+}
+
+/* ===== Vietnamese Translation Styles ===== */
+.exercise-question-vi {
+  font-style: italic;
+  color: var(--text-secondary);
+  font-size: 0.95rem;
+  margin-top: var(--space-xs);
+  margin-bottom: var(--space-md);
+}
+
+.vocab-example {
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+  margin-top: var(--space-xs);
+  padding-top: var(--space-xs);
+  border-top: 1px dashed var(--border);
+}
+
+.vocab-example-vi {
+  font-style: italic;
+  color: var(--text-muted);
+  font-size: 0.85rem;
+}
+
 /* ===== Animations ===== */
 @keyframes pulse {
   0%, 100% { transform: scale(1); }

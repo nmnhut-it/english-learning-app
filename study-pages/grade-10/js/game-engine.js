@@ -174,7 +174,7 @@ const GameEngine = {
   },
 
   /**
-   * Render vocabulary cards
+   * Render vocabulary cards with examples for self-learners
    */
   renderVocabulary(vocabulary) {
     const container = document.getElementById('vocab-container');
@@ -191,8 +191,14 @@ const GameEngine = {
             </svg>
           </button>
         </div>
-        <div class="vocab-pronunciation">${item.pronunciation || ''}</div>
+        <div class="vocab-pronunciation">/${item.pronunciation || ''}/</div>
         <div class="vocab-meaning">${item.meaning}</div>
+        ${item.example ? `
+          <div class="vocab-example">
+            <div class="vocab-example-en">${item.example}</div>
+            ${item.exampleVi ? `<div class="vocab-example-vi">${item.exampleVi}</div>` : ''}
+          </div>
+        ` : ''}
       </div>
     `).join('');
   },
@@ -299,17 +305,21 @@ const GameEngine = {
   },
 
   /**
-   * Multiple Choice Exercise
+   * Multiple Choice Exercise - With detailed explanations for self-learners
    */
   renderMultipleChoice(exercise, index) {
     return `
-      <div class="exercise-container fade-in" data-index="${index}" data-type="multiple-choice">
+      <div class="exercise-container fade-in" data-index="${index}" data-type="multiple-choice"
+           data-explanation="${this.escapeHtml(exercise.explanation || '')}"
+           data-grammar-rule="${this.escapeHtml(exercise.grammarRule || '')}"
+           data-tip="${this.escapeHtml(exercise.tip || '')}">
         <div class="exercise-header">
-          <span class="exercise-title">Question ${index + 1}</span>
+          <span class="exercise-title">Câu ${index + 1} / Question ${index + 1}</span>
           <span class="exercise-progress">${index + 1}/${this.totalQuestions}</span>
         </div>
         ${exercise.instruction ? `<p class="exercise-instruction">${exercise.instruction}</p>` : ''}
         <p class="exercise-question">${exercise.question}</p>
+        ${exercise.questionVi ? `<p class="exercise-question-vi">${exercise.questionVi}</p>` : ''}
         <div class="options-container">
           ${exercise.options.map((opt, i) => `
             <button class="option-btn" data-answer="${opt}" onclick="GameEngine.checkAnswer(${index}, '${opt.replace(/'/g, "\\'")}', '${exercise.correct.replace(/'/g, "\\'")}')">
@@ -324,7 +334,15 @@ const GameEngine = {
   },
 
   /**
-   * Fill in the Blank Exercise
+   * Escape HTML for data attributes
+   */
+  escapeHtml(text) {
+    if (!text) return '';
+    return text.replace(/"/g, '&quot;').replace(/'/g, '&#39;');
+  },
+
+  /**
+   * Fill in the Blank Exercise - With detailed explanations
    */
   renderFillBlank(exercise, index) {
     const questionHtml = exercise.sentence.replace('_____',
@@ -332,39 +350,47 @@ const GameEngine = {
     );
 
     return `
-      <div class="exercise-container fade-in" data-index="${index}" data-type="fill-blank">
+      <div class="exercise-container fade-in" data-index="${index}" data-type="fill-blank"
+           data-explanation="${this.escapeHtml(exercise.explanation || '')}"
+           data-grammar-rule="${this.escapeHtml(exercise.grammarRule || '')}"
+           data-tip="${this.escapeHtml(exercise.tip || '')}">
         <div class="exercise-header">
-          <span class="exercise-title">Question ${index + 1}</span>
+          <span class="exercise-title">Câu ${index + 1} / Question ${index + 1}</span>
           <span class="exercise-progress">${index + 1}/${this.totalQuestions}</span>
         </div>
         ${exercise.instruction ? `<p class="exercise-instruction">${exercise.instruction}</p>` : ''}
         <p class="exercise-question">${questionHtml}</p>
-        <button class="btn btn-primary" onclick="GameEngine.checkFillBlank(${index})">Check Answer</button>
+        ${exercise.sentenceVi ? `<p class="exercise-question-vi">${exercise.sentenceVi}</p>` : ''}
+        <button class="btn btn-primary" onclick="GameEngine.checkFillBlank(${index})">Kiểm tra / Check</button>
         <div class="feedback-container"></div>
       </div>
     `;
   },
 
   /**
-   * True/False Exercise
+   * True/False Exercise - With detailed explanations
    */
   renderTrueFalse(exercise, index) {
     return `
-      <div class="exercise-container fade-in" data-index="${index}" data-type="true-false">
+      <div class="exercise-container fade-in" data-index="${index}" data-type="true-false"
+           data-explanation="${this.escapeHtml(exercise.explanation || '')}"
+           data-grammar-rule="${this.escapeHtml(exercise.grammarRule || '')}"
+           data-tip="${this.escapeHtml(exercise.tip || '')}">
         <div class="exercise-header">
-          <span class="exercise-title">Question ${index + 1}</span>
+          <span class="exercise-title">Câu ${index + 1} / Question ${index + 1}</span>
           <span class="exercise-progress">${index + 1}/${this.totalQuestions}</span>
         </div>
         ${exercise.instruction ? `<p class="exercise-instruction">${exercise.instruction}</p>` : ''}
         <p class="exercise-question">${exercise.statement}</p>
+        ${exercise.statementVi ? `<p class="exercise-question-vi">${exercise.statementVi}</p>` : ''}
         <div class="options-container" style="flex-direction: row; gap: 1rem;">
           <button class="option-btn" style="flex: 1;" onclick="GameEngine.checkAnswer(${index}, 'true', '${exercise.correct}')">
             <span class="option-label">T</span>
-            <span>True</span>
+            <span>True / Đúng</span>
           </button>
           <button class="option-btn" style="flex: 1;" onclick="GameEngine.checkAnswer(${index}, 'false', '${exercise.correct}')">
             <span class="option-label">F</span>
-            <span>False</span>
+            <span>False / Sai</span>
           </button>
         </div>
         <div class="feedback-container"></div>
@@ -373,21 +399,25 @@ const GameEngine = {
   },
 
   /**
-   * Sentence Rewrite Exercise
+   * Sentence Rewrite Exercise - With detailed explanations
    */
   renderSentenceRewrite(exercise, index) {
     return `
-      <div class="exercise-container fade-in" data-index="${index}" data-type="sentence-rewrite">
+      <div class="exercise-container fade-in" data-index="${index}" data-type="sentence-rewrite"
+           data-explanation="${this.escapeHtml(exercise.explanation || '')}"
+           data-grammar-rule="${this.escapeHtml(exercise.grammarRule || '')}"
+           data-tip="${this.escapeHtml(exercise.tip || '')}">
         <div class="exercise-header">
-          <span class="exercise-title">Question ${index + 1}</span>
+          <span class="exercise-title">Câu ${index + 1} / Question ${index + 1}</span>
           <span class="exercise-progress">${index + 1}/${this.totalQuestions}</span>
         </div>
-        <p class="exercise-instruction">${exercise.instruction || 'Rewrite the sentence:'}</p>
+        <p class="exercise-instruction">${exercise.instruction || 'Viết lại câu / Rewrite the sentence:'}</p>
         <p class="exercise-question">${exercise.original}</p>
-        ${exercise.prompt ? `<p><strong>Start with:</strong> ${exercise.prompt}</p>` : ''}
+        ${exercise.originalVi ? `<p class="exercise-question-vi">${exercise.originalVi}</p>` : ''}
+        ${exercise.prompt ? `<p><strong>Bắt đầu bằng:</strong> ${exercise.prompt}</p>` : ''}
         <textarea class="fill-blank-input" style="width: 100%; min-height: 80px; resize: vertical;"
-          data-correct="${exercise.correct}" placeholder="Write your answer here..."></textarea>
-        <button class="btn btn-primary" onclick="GameEngine.checkRewrite(${index})">Check Answer</button>
+          data-correct="${exercise.correct}" placeholder="Viết câu trả lời của bạn..."></textarea>
+        <button class="btn btn-primary" onclick="GameEngine.checkRewrite(${index})">Kiểm tra / Check</button>
         <div class="feedback-container"></div>
       </div>
     `;
@@ -600,13 +630,40 @@ const GameEngine = {
       points
     });
 
-    // Show feedback
+    // Get explanation data from container
+    const explanation = container.dataset.explanation || '';
+    const grammarRule = container.dataset.grammarRule || '';
+    const tip = container.dataset.tip || '';
+
+    // Show detailed feedback for self-learners
     feedbackContainer.innerHTML = `
       <div class="feedback ${isCorrect ? 'success' : 'error'}">
-        <span>${isCorrect ? '✓ Correct!' : '✗ Incorrect'}</span>
-        ${isCorrect && points > 0 ? `<span>+${points} points</span>` : ''}
-        ${bonuses.length > 0 ? `<span>${bonuses.join(' ')}</span>` : ''}
-        ${!isCorrect ? `<span>Correct answer: ${correctAnswer}</span>` : ''}
+        <div class="feedback-header">
+          <span class="feedback-icon">${isCorrect ? '✓' : '✗'}</span>
+          <span class="feedback-status">${isCorrect ? 'Chính xác! / Correct!' : 'Chưa đúng / Incorrect'}</span>
+          ${isCorrect && points > 0 ? `<span class="feedback-points">+${points} điểm</span>` : ''}
+        </div>
+        ${bonuses.length > 0 ? `<div class="feedback-bonuses">${bonuses.join(' ')}</div>` : ''}
+        ${!isCorrect ? `<div class="feedback-correct"><strong>Đáp án đúng:</strong> ${correctAnswer}</div>` : ''}
+
+        ${explanation ? `
+          <div class="feedback-explanation">
+            <strong>📝 Giải thích:</strong>
+            <p>${explanation}</p>
+          </div>
+        ` : ''}
+
+        ${grammarRule ? `
+          <div class="feedback-grammar">
+            <strong>📚 Công thức:</strong> ${grammarRule}
+          </div>
+        ` : ''}
+
+        ${tip ? `
+          <div class="feedback-tip">
+            <strong>💡 Mẹo nhớ:</strong> ${tip}
+          </div>
+        ` : ''}
       </div>
     `;
 
