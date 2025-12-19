@@ -110,6 +110,7 @@ window.UNIT_DATA = {
         correct: "breadwinner",
         acceptableAnswers: ["breadwinner", "bread winner"],
         explanation: "'Breadwinner' (n) nghĩa là trụ cột gia đình - người kiếm tiền chính nuôi sống gia đình. 'Bread' = bánh mì (tượng trưng cho thức ăn), 'winner' = người giành được.",
+        grammarRule: "Vocabulary: breadwinner (n) = trụ cột gia đình",
         tip: "Từ vựng quan trọng về gia đình"
       },
       {
@@ -127,6 +128,7 @@ window.UNIT_DATA = {
         statementVi: "Trong các gia đình hiện đại, chỉ có mẹ mới nên làm việc nhà.",
         correct: "false",
         explanation: "SAI. Trong các gia đình hiện đại, tất cả thành viên đều nên chia sẻ việc nhà một cách công bằng. Cả bố, mẹ và con cái đều có thể đóng góp.",
+        grammarRule: "Reading comprehension: Chú ý từ 'only' thường tạo câu sai",
         tip: "Đọc kỹ từ 'only' (chỉ) - từ này thường làm câu trở nên sai"
       },
       {
@@ -232,6 +234,7 @@ window.UNIT_DATA = {
         sentenceVi: "Chúng ta nên áp dụng lối sống _____ để bảo vệ môi trường.",
         correct: "green",
         explanation: "'Green lifestyle' = lối sống xanh, thân thiện với môi trường. Đây là cụm từ cố định (collocation).",
+        grammarRule: "Collocation: green lifestyle = lối sống xanh",
         tip: "Green = xanh, cũng có nghĩa là thân thiện với môi trường"
       },
       {
@@ -240,6 +243,7 @@ window.UNIT_DATA = {
         statementVi: "Các nguồn năng lượng tái tạo bao gồm năng lượng mặt trời và năng lượng gió.",
         correct: "true",
         explanation: "ĐÚNG. Năng lượng tái tạo (renewable energy) là năng lượng từ các nguồn tự nhiên có thể tái tạo được như: mặt trời (solar), gió (wind), nước (hydro).",
+        grammarRule: "Vocabulary: renewable energy = năng lượng tái tạo (solar, wind, hydro)",
         tip: "Renewable = có thể tái tạo, làm mới"
       },
       {
@@ -249,6 +253,7 @@ window.UNIT_DATA = {
         options: ["Recycling paper", "Using plastic bags", "Planting trees", "Saving water"],
         correct: "Using plastic bags",
         explanation: "Sử dụng túi nhựa KHÔNG thân thiện với môi trường vì túi nhựa mất hàng trăm năm để phân hủy và gây ô nhiễm. Các hành động khác đều có lợi cho môi trường.",
+        grammarRule: "Vocabulary: eco-friendly = thân thiện với môi trường ≠ plastic",
         tip: "Eco-friendly = thân thiện môi trường. Nhựa = plastic = gây ô nhiễm"
       }
     ]
@@ -335,6 +340,7 @@ window.UNIT_DATA = {
         statementVi: "Trong American Idol, các giám khảo quyết định người thắng cuộc chung cuộc.",
         correct: "false",
         explanation: "SAI. Trong American Idol, KHÁN GIẢ bình chọn (vote) để quyết định người chiến thắng ở vòng chung kết, không phải giám khảo. Giám khảo chỉ cho nhận xét và chọn ở vòng đầu.",
+        grammarRule: "Reading comprehension: Chú ý phân biệt vai trò của judges vs audience",
         tip: "Đọc kỹ bài đọc: 'people can vote for their preferred singers'"
       },
       {
@@ -343,6 +349,7 @@ window.UNIT_DATA = {
         sentenceVi: "Chương trình truyền hình thu hút _____ hơn 5 triệu người.",
         correct: "audience",
         explanation: "'Audience' (n) = khán giả. Lưu ý: audience là danh từ tập hợp, có thể dùng với 'an' khi chỉ một nhóm khán giả. Collocation: attract an audience = thu hút khán giả.",
+        grammarRule: "Vocabulary: audience (n) = khán giả; Collocation: attract an audience",
         tip: "attract + audience = thu hút khán giả (cụm từ cố định)"
       }
     ]
@@ -407,6 +414,7 @@ window.UNIT_DATA = {
         sentenceVi: "Anh ấy rất _____. Anh ấy luôn cho tiền từ thiện.",
         correct: "generous",
         explanation: "'Generous' (adj) = hào phóng, rộng lượng. Người hào phóng là người sẵn sàng cho tiền, quà hoặc thời gian để giúp đỡ người khác.",
+        grammarRule: "Vocabulary: generous (adj) = hào phóng, rộng lượng",
         tip: "generous = hào phóng ≠ stingy = keo kiệt"
       },
       {
@@ -416,6 +424,7 @@ window.UNIT_DATA = {
         options: ["remote", "benefit", "donate", "essential"],
         correct: "remote",
         explanation: "'Remote' (adj) = xa xôi, hẻo lánh. Mô tả nơi ở xa, khó tiếp cận. 'Benefit' = lợi ích, 'donate' = quyên góp, 'essential' = cần thiết - không phù hợp ngữ cảnh.",
+        grammarRule: "Vocabulary: remote (adj) = xa xôi, hẻo lánh; Collocation: remote area",
         tip: "remote area = vùng hẻo lánh (collocation phổ biến)"
       },
       {
@@ -434,6 +443,7 @@ window.UNIT_DATA = {
         statementVi: "Làm tình nguyện chỉ mang lại lợi ích cho những người được giúp đỡ.",
         correct: "false",
         explanation: "SAI. Làm tình nguyện mang lại lợi ích cho CẢ người được giúp VÀ người làm tình nguyện. Tình nguyện viên có thể: học kỹ năng mới, kết bạn, tìm thấy mục đích sống.",
+        grammarRule: "Reading comprehension: Chú ý từ 'only' thường tạo câu sai",
         tip: "Chú ý từ 'only' (chỉ) - thường làm câu trở nên sai"
       }
     ]
@@ -518,6 +528,7 @@ window.UNIT_DATA = {
         statementVi: "AI là một trong những phát minh quan trọng nhất của thế kỷ 20.",
         correct: "false",
         explanation: "SAI. AI là phát minh quan trọng của THẾ KỶ 21 (21st century), không phải thế kỷ 20. AI phát triển mạnh từ những năm 2000 trở đi.",
+        grammarRule: "Reading comprehension: 20th century (1900s) vs 21st century (2000s)",
         tip: "Đọc kỹ: 20th century vs 21st century. Chúng ta đang ở thế kỷ 21."
       },
       {
