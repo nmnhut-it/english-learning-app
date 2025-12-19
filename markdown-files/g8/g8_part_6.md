@@ -306,6 +306,42 @@ I like Italian food because the pizza is great/delicious/fantastic.
 8. **experience** (v): trải nghiệm /ɪkˈspɪə.ri.əns/  
 9. **compete for** (v): tranh tài (lấy ….) /kəmˈpiːt fɔː/  
 10. **cash** (n): tiền mặt /kæʃ/ 
+1. **carving**: (n) nghệ thuật chạm khắc /ˈkɑːvɪŋ/
+2. **special**: (adj) đặc biệt /ˈspeʃəl/
+3. **well**: (adv) tốt, giỏi /wel/
+4. **unique**: (adj) độc đáo, duy nhất /juːˈniːk/
+5. **tribal**: (adj) thuộc bộ lạc /ˈtraɪbəl/
+6. **drumming**: (n) việc đánh trống /ˈdrʌmɪŋ/
+7. **visitors**: (n) du khách, người tham quan /ˈvɪzɪtəz/
+8. **experience**: (n) trải nghiệm /ɪkˈspɪəriəns/
+9. **culture**: (n) văn hóa /ˈkʌltʃə/
+10. **performances**: (n) buổi biểu diễn /pəˈfɔːmənsɪz/
+11. **native**: (adj) bản địa, bản xứ /ˈneɪtɪv/
+12. **galleries**: (n) phòng trưng bày /ˈɡæləriz/
+13. **unusual**: (adj) khác thường, bất thường /ʌnˈjuːʒuəl/
+14. **method**: (n) phương pháp /ˈmeθəd/
+15. **transport**: (n) phương tiện vận chuyển /ˈtrænspɔːt/
+16. **sledding**: (n) môn trượt xe trượt tuyết /ˈsledɪŋ/
+17. **mushing**: (n) môn đua xe chó kéo /ˈmʌʃɪŋ/
+18. **true**: (adj) thật, đúng /truː/
+19. **means**: (n) phương tiện /miːnz/
+20. **best-known**: (adj) nổi tiếng nhất /ˌbestˈnəʊn/
+21. **race**: (n) cuộc đua /reɪs/
+22. **Nome**: (n) Nome (thành phố ở Alaska) /nəʊm/
+23. **mushers**: (n) người điều khiển xe chó kéo /ˈmʌʃəz/
+24. **come**: (v) đến /kʌm/
+25. **each**: (det) mỗi /iːtʃ/
+26. **March**: (n) tháng Ba /mɑːtʃ/
+27. **compete**: (v) thi đấu, cạnh tranh /kəmˈpiːt/
+28. **cash**: (n) tiền mặt /kæʃ/
+29. **prizes**: (n) giải thưởng /ˈpraɪzɪz/
+30. **still**: (adv) vẫn còn /stɪl/
+31. **alive**: (adj) còn sống, tồn tại /əˈlaɪv/
+32. **Anchorage**: (n) Anchorage (thành phố ở Alaska) /ˈæŋkərɪdʒ/
+33. **Iditarod Trail Sled Dog Race**: (n phr) Cuộc đua chó kéo xe Iditarod Trail /aɪˈdɪtərɒd treɪl sled dɒɡ reɪs/
+34. **museums**: (n) bảo tàng /mjuːˈziːəmz/
+35. **dogsled**: (n) xe chó kéo /ˈdɒɡsled/
+
 
 Nếu bạn đến tiểu bang Alaska của Mỹ, bạn có thể thấy lối sống truyền thống ở đó rất thú vị. Mặc dù Alaska khá lớn, với gần 1,7 triệu km², nhưng dân số lại khá ít, khoảng 730.000 người.
 

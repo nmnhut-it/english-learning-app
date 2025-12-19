@@ -102,6 +102,30 @@ The surgeon's job is traditionally done by men because women often can't work lo
 Kindergarten teaching jobs are traditionally done by women than men as women are often kind, gentle and caring. Besides, they usually have good communication skills.
 (Công việc dạy học mầm non theo truyền thống là nữ giới làm hơn là nam giới vì phụ nữ thường tốt bụng, dịu dàng và chu đáo. Bên cạnh đó, họ thường có kỹ năng giao tiếp tốt.)
 
+**1. Surgeons (Bác sĩ phẫu thuật) - Men**
+- I believe that the surgeon's job is traditionally done by men because it requires **the ability to work long hours** and **the ability to work well under pressure**. Women often need **more time to take care of their families**.
+
+**2. Shop assistants (Nhân viên bán hàng) - Women**
+- I think that shop assistant jobs are traditionally done by women because they require **good communication skills** and **good persuasion skills** to interact with customers. They also often have **flexible working schedules**.
+
+**3. Nurses (Y tá) - Women**
+- I believe that nursing jobs are traditionally done by women because they require **being kind, gentle and caring** when taking care of patients. Women also have **good communication skills**.
+
+**4. Airline pilots (Phi công) - Men**
+- I think that the airline pilot's job is traditionally done by men because it requires **good physical strength**, **the ability to work long hours**, and **the ability to work well under pressure** in emergency situations.
+
+**5. Firefighters (Lính cứu hỏa) - Men**
+- I believe that the firefighter's job is traditionally done by men because it requires **good physical strength** to rescue people and **the ability to work well under pressure** in dangerous situations.
+
+**6. Kindergarten teachers (Giáo viên mầm non) - Women**
+- I think that kindergarten teaching jobs are traditionally done by women because they require **being kind, gentle and caring** with young children. Women also usually have **good communication skills** and **flexible working schedules** that allow **more time to take care of their families**.
+
+**7. Engineers (Kỹ sư) - Men**
+- I believe that engineering jobs are traditionally done by men because they require **the ability to work long hours** on complex projects and **the ability to work well under pressure** to meet deadlines.
+
+**8. Secretaries (Thư ký) - Women**
+- I think that secretary jobs are traditionally done by women because they require **good communication skills** and often offer **flexible working schedules** that allow **more time to take care of their families**.
+
 ### Bài 3
 
 **Work in groups of three. Talk about your career choice(s).**

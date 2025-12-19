@@ -1,5 +1,12 @@
 # Unit 6: Gender Equality - Listening
 
+
+1. **skydiving**: (n) nhảy dù (môn thể thao) /ˈskaɪˌdaɪvɪŋ/
+2. **parachutist**: (n) người nhảy dù /ˈpærəʃuːtɪst/
+3. **intensive**: (adj) chuyên sâu, tập trung cao độ /ɪnˈtensɪv/
+4. **cosmonaut**: (n) phi hành gia (Nga) /ˈkɒzmənɔːt/
+5. **instructor**: (n) người hướng dẫn, giảng viên /ɪnˈstrʌktə/
+
 ## The first woman in space
 (Người phụ nữ đầu tiên trong không gian)
 

@@ -2,6 +2,43 @@
 
 ## III. Reading
 
+### Vocabulary
+
+1. **school-leaver**: (n) học sinh mới rời ghế nhà trường /skuːl ˈliːvə/
+2. **gap year**: (n phr) năm nghỉ phép (trước khi vào đại học) /ɡæp jɪə/
+3. **workforce**: (n) lực lượng lao động /ˈwɜːkfɔːs/
+4. **vocational school**: (n phr) trường dạy nghề /vəʊˈkeɪʃənəl skuːl/
+5. **trade school**: (n phr) trường dạy nghề /treɪd skuːl/
+6. **apprenticeship**: (n) thời gian học nghề /əˈprentɪsʃɪp/
+7. **internship**: (n) thời gian thực tập /ˈɪntɜːnʃɪp/
+8. **magazine**: (n) tạp chí /ˌmæɡəˈziːn/
+9. **letter**: (n) thư /ˈletə/
+10. **formal**: (adj) chính thức, chính quy /ˈfɔːməl/
+11. **formal learning**: (n phr) học tập chính quy /ˈfɔːməl ˈlɜːnɪŋ/
+12. **academic degree**: (n phr) bằng cấp học thuật /ˌækəˈdemɪk dɪˈɡriː/
+13. **related**: (adj) liên quan /rɪˈleɪtɪd/
+14. **live independently**: (v phr) sống độc lập /lɪv ˌɪndɪˈpendəntli/
+15. **manage**: (v) xoay sở, quản lý /ˈmænɪdʒ/
+16. **part-time**: (adj) bán thời gian /ˌpɑːt ˈtaɪm/
+17. **broader**: (adj) rộng hơn, đa dạng hơn /ˈbrɔːdə/
+18. **career option**: (n phr) lựa chọn nghề nghiệp /kəˈrɪər ˈɒpʃən/
+19. **job market**: (n phr) thị trường việc làm /dʒɒb ˈmɑːkɪt/
+20. **trade**: (n) ngành nghề, lĩnh vực /treɪd/
+21. **hands-on experience**: (n phr) kinh nghiệm thực hành /ˌhændz ɒn ɪkˈspɪəriəns/
+22. **wage**: (n) tiền công, tiền lương /weɪdʒ/
+23. **living cost**: (n phr) chi phí sinh hoạt /ˈlɪvɪŋ kɒst/
+24. **qualification**: (n) bằng cấp, trình độ chuyên môn /ˌkwɒlɪfɪˈkeɪʃən/
+25. **graduate**: (n) sinh viên tốt nghiệp /ˈɡrædʒuət/
+26. **institution**: (n) tổ chức, cơ sở (giáo dục) /ˌɪnstɪˈtjuːʃən/
+27. **higher education**: (n phr) giáo dục đại học /ˌhaɪər ˌedʒuˈkeɪʃən/
+28. **pursue**: (v) theo đuổi /pəˈsjuː/
+29. **transferable skill**: (n phr) kỹ năng chuyển nhượng /trænsˈfɜːrəbəl skɪl/
+30. **critical thinking**: (n phr) tư duy phản biện /ˌkrɪtɪkəl ˈθɪŋkɪŋ/
+31. **career counselor**: (n phr) cố vấn nghề nghiệp /kəˈrɪə ˈkaʊnsələ/
+32. **informed decision**: (n phr) quyết định sáng suốt /ɪnˈfɔːmd dɪˈsɪʒən/
+33. **enroll in**: (v phr) đăng ký vào /ɪnˈrəʊl ɪn/
+34. **work experience**: (n phr) kinh nghiệm làm việc /wɜːk ɪkˈspɪəriəns/
+
 ### Bài 1: Work in pairs
 
 **Question:** Work in pairs. Which of the two options for school-leavers is more common in your town? Can you think of other options?

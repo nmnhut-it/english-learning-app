@@ -2,6 +2,47 @@
 
 ## I. Getting Started
 
+### Vocabulary 
+
+1. **The United Nations**: (n phr) Liên Hợp Quốc /ðə juːˌnaɪtɪd ˈneɪʃənz/
+2. **organisation**: (n) tổ chức /ˌɔːɡənaɪˈzeɪʃən/
+3. **peace**: (n) hòa bình /piːs/
+4. **poverty**: (n) nghèo đói, sự nghèo khổ /ˈpɒvəti/
+5. **reduce**: (v) giảm, làm giảm /rɪˈdjuːs/
+6. **improve**: (v) cải thiện, cải tiến /ɪmˈpruːv/
+7. **join**: (v) gia nhập, tham gia /dʒɔɪn/
+8. **active**: (adj) tích cực, năng động /ˈæktɪv/
+9. **participate**: (v) tham gia /pɑːˈtɪsɪpeɪt/
+10. **peacekeeping**: (n) gìn giữ hòa bình /ˈpiːsˌkiːpɪŋ/
+11. **goal**: (n) mục tiêu /ɡəʊl/
+12. **main goal**: (n phr) mục tiêu chính /meɪn ɡəʊl/
+13. **UNICEF**: (n) Quỹ Nhi đồng Liên Hợp Quốc /ˈjuːnɪsef/
+14. **form**: (v) thành lập, hình thành /fɔːm/
+15. **health**: (n) sức khỏe /helθ/
+16. **education**: (n) giáo dục /ˌedʒuˈkeɪʃən/
+17. **particularly**: (adv) đặc biệt là /pəˈtɪkjələli/
+18. **aim**: (n) mục đích, mục tiêu /eɪm/
+19. **support**: (v) hỗ trợ, ủng hộ /səˈpɔːt/
+20. **disadvantaged**: (adj) thiệt thòi, có hoàn cảnh khó khăn /ˌdɪsədˈvɑːntɪdʒd/
+21. **protect**: (v) bảo vệ /prəˈtekt/
+22. **harm**: (n) tổn hại, nguy hại /hɑːm/
+23. **UNDP**: (n) Chương trình Phát triển Liên Hợp Quốc /ˌjuːendiːˈpiː/
+24. **technical**: (adj) kỹ thuật /ˈteknɪkəl/
+25. **technical support**: (n phr) hỗ trợ kỹ thuật /ˈteknɪkəl səˈpɔːt/
+26. **expert advice**: (n phr) lời khuyên chuyên gia /ˈekspɜːt ədˈvaɪs/
+27. **training**: (n) đào tạo, huấn luyện /ˈtreɪnɪŋ/
+28. **developing country**: (n phr) nước đang phát triển /dɪˈveləpɪŋ ˈkʌntri/
+29. **work closely with**: (v phr) hợp tác chặt chẽ với /wɜːk ˈkləʊsli wɪð/
+30. **government**: (n) chính phủ /ˈɡʌvənmənt/
+31. **WTO**: (n) Tổ chức Thương mại Thế giới /ˌdʌbəljuːtiːˈəʊ/
+32. **international**: (adj) quốc tế /ˌɪntəˈnæʃənəl/
+33. **economic**: (adj) kinh tế /ˌiːkəˈnɒmɪk/
+34. **economy**: (n) nền kinh tế /ɪˈkɒnəmi/
+35. **achieve**: (v) đạt được /əˈtʃiːv/
+36. **growth**: (n) sự tăng trưởng /ɡrəʊθ/
+37. **attractive**: (adj) hấp dẫn, thu hút /əˈtræktɪv/
+38. **foreign investor**: (n phr) nhà đầu tư nước ngoài /ˈfɒrən ɪnˈvestə/
+
 ### Listen and read
 
 #### DO YOU KNOW…?

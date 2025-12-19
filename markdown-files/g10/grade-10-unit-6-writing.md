@@ -1,5 +1,49 @@
 # Unit 6: Gender Equality - Writing
 
+
+## Vocabulary: 
+
+1. **surgeon**: (n) bác sĩ phẫu thuật /ˈsɜːdʒən/
+2. **perform operations**: (v phr) thực hiện phẫu thuật /pəˈfɔːm ˌɒpəˈreɪʃənz/
+3. **responsibility**: (n) trách nhiệm /rɪˌspɒnsəˈbɪləti/
+4. **main responsibilities**: (n phr) trách nhiệm chính /meɪn rɪˌspɒnsəˈbɪlətiz/
+5. **quality**: (n) phẩm chất /ˈkwɒləti/
+6. **medical knowledge**: (n phr) kiến thức y học /ˈmedɪkəl ˈnɒlɪdʒ/
+7. **physical strength**: (n phr) thể lực /ˈfɪzɪkəl streŋθ/
+8. **mental strength**: (n phr) trí lực /ˈmentəl streŋθ/
+9. **persuasion skills**: (n phr) kỹ năng thuyết phục /pəˈsweɪʒən skɪlz/
+10. **excellent eyesight**: (n phr) thị lực tuyệt vời /ˈeksələnt ˈaɪsaɪt/
+11. **skillful hands**: (n phr) đôi tay khéo léo /ˈskɪlfəl hændz/
+12. **teamwork skills**: (n phr) kỹ năng làm việc nhóm /ˈtiːmwɜːk skɪlz/
+13. **communication skills**: (n phr) kỹ năng giao tiếp /kəˌmjuːnɪˈkeɪʃən skɪlz/
+14. **make important decisions**: (v phr) đưa ra quyết định quan trọng /meɪk ɪmˈpɔːtənt dɪˈsɪʒənz/
+15. **health and safety**: (n phr) sức khỏe và an toàn /helθ ənd ˈseɪfti/
+16. **mentally strong**: (adj phr) mạnh mẽ về tinh thần /ˈmentəli strɒŋ/
+17. **tiring operation**: (n phr) ca mổ mệt mỏi /ˈtaɪərɪŋ ˌɒpəˈreɪʃən/
+18. **benefit from**: (v phr) được lợi từ /ˈbenɪfɪt frɒm/
+19. **gynecological examination**: (n phr) khám phụ khoa /ˌɡaɪnɪkəˈlɒdʒɪkəl ɪɡˌzæmɪˈneɪʃən/
+20. **traditionally**: (adv) theo truyền thống /trəˈdɪʃənəli/
+21. **shop assistant**: (n phr) nhân viên bán hàng /ʃɒp əˈsɪstənt/
+22. **medical school**: (n phr) trường y /ˈmedɪkəl skuːl/
+23. **disagree**: (v) không đồng ý /ˌdɪsəˈɡriː/
+24. **absolutely**: (adv) chắc chắn rồi /ˈæbsəluːtli/
+25. **take place**: (v phr) diễn ra /teɪk pleɪs/
+26. **recorded match**: (n phr) trận đấu được ghi lại /rɪˈkɔːdɪd mætʃ/
+27. **suitable for**: (adj phr) phù hợp với /ˈsuːtəbəl fɔː/
+28. **ban**: (n) lệnh cấm /bæn/
+29. **lift a ban**: (v phr) dỡ bỏ lệnh cấm /lɪft ə bæn/
+30. **official match**: (n phr) trận đấu chính thức /əˈfɪʃəl mætʃ/
+31. **international match**: (n phr) trận đấu quốc tế /ˌɪntəˈnæʃənəl mætʃ/
+32. **competition**: (n) cuộc thi /ˌkɒmpəˈtɪʃən/
+33. **significantly**: (adv) đáng kể /sɪɡˈnɪfɪkəntli/
+34. **draw interest**: (v phr) thu hút sự quan tâm /drɔː ˈɪntrəst/
+35. **worldwide**: (adj) toàn thế giới /ˌwɜːldˈwaɪd/
+36. **establishment**: (n) sự thành lập /ɪˈstæblɪʃmənt/
+37. **gold medal**: (n phr) huy chương vàng /ɡəʊld ˈmedəl/
+38. **championship**: (n) giải vô địch /ˈtʃæmpiənʃɪp/
+39. **I'm afraid**: (phrase) tôi e rằng /aɪm əˈfreɪd/
+40. **I couldn't agree more**: (phrase) tôi hoàn toàn đồng ý /aɪ ˈkʊdənt əˈɡriː mɔː/
+
 ## Writing about jobs for men and women
 (Viết về những công việc cho nam giới và phụ nữ)
 
