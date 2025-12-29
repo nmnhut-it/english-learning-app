@@ -55,6 +55,17 @@
 
 **D.** The WTO was formed in 1995. It is the world's largest international economic organisation. Viet Nam became a WTO member in 2007. Since then, our economy has achieved a high growth level. Viet Nam has also become more attractive to foreign investors.
 
+**Dịch**
+
+
+A. Liên Hợp Quốc (UN) đã được tạo ra vào năm 1945. Nó là một tổ chức của hầu hết các quốc gia của thế giới. Mục tiêu chính của nó là hòa bình thế giới. Nó cũng làm việc để giảm nghèo đói và cải thiện cuộc sống của người dân theo những cách khác. Việt Nam đã gia nhập tổ chức vào năm 1977. Kể từ đó, đất nước của chúng ta đã trở nên tích cực hơn và đã tham gia vào nhiều hoạt động của UN bao gồm gìn giữ hòa bình.
+
+B. UNICEF đã được thành lập vào năm 1946. Nó làm việc tại hơn 190 quốc gia để giúp cải thiện sức khỏe và giáo dục của trẻ em. Nó đặc biệt nhằm mục đích hỗ trợ những trẻ em thiệt thòi nhất trên khắp thế giới. Mục đích của UNICEF tại Việt Nam là bảo vệ trẻ em và đảm bảo chắc chắn rằng chúng khỏe mạnh, được giáo dục và an toàn khỏi sự tổn hại.
+
+C. UNDP đã được thành lập vào năm 1965 như là một phần của UN. Nó cung cấp hỗ trợ kỹ thuật, lời khuyên chuyên gia và đào tạo để giúp người dân ở các quốc gia đang phát triển có một cuộc sống tốt hơn. Tại Việt Nam, UNDP làm việc chặt chẽ với chính phủ để giảm nghèo đói và cải thiện cuộc sống của người dân.
+
+D. WTO đã được thành lập vào năm 1995. Nó là tổ chức kinh tế quốc tế lớn nhất của thế giới. Việt Nam đã trở thành một thành viên WTO vào năm 2007. Kể từ đó, nền kinh tế của chúng ta đã đạt được một mức tăng trưởng cao. Việt Nam cũng đã trở nên hấp dẫn hơn đối với các nhà đầu tư nước ngoài.
+
 ### Bài 1: Listen and read
 *(Nghe và đọc.)*
 

@@ -163,8 +163,16 @@
 
   <!-- Scripts -->
   <script src="js/game-engine.js"></script>
-  <script src="data/units-data.js"></script>
+  <!-- Modular unit loading -->
+  <script src="data/units/unit-1.js"></script>
+  <script src="data/units/unit-2.js"></script>
+  <script src="data/units/unit-3.js"></script>
+  <script src="data/units/unit-4.js"></script>
+  <script src="data/units/unit-5.js"></script>
   <script>
+    // Combine UNITS into UNIT_DATA for backward compatibility
+    window.UNIT_DATA = window.UNITS || {};
+
     // Load saved settings
     document.addEventListener('DOMContentLoaded', () => {
       const config = JSON.parse(localStorage.getItem('telegramConfig') || '{}');
@@ -173,7 +181,7 @@
       if (config.chatId) document.getElementById('chat-id').value = config.chatId;
 
       // Load Unit 1 by default
-      if (window.UNIT_DATA) {
+      if (window.UNIT_DATA && window.UNIT_DATA[1]) {
         GameEngine.renderUnit(window.UNIT_DATA[1]);
       }
     });

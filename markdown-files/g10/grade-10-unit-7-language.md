@@ -2,6 +2,53 @@
 
 ## II. Language
 
+### Vocabulary 
+1. **application**: (n) sự ứng dụng, đơn xin /ˌæplɪˈkeɪʃn/
+1. **communication**: (n) sự giao tiếp /kəˌmjuːnɪˈkeɪʃn/
+1. **economic**: (adj) thuộc về kinh tế /ˌiːkəˈnɒmɪk/
+1. **explanation**: (n) lời giải thích /ˌekspləˈneɪʃn/
+1. **population**: (n) dân số /ˌpɒpjuˈleɪʃn/
+1. **independent**: (adj) độc lập /ˌɪndɪˈpendənt/
+1. **possibility**: (n) khả năng, sự khả thi /ˌpɒsəˈbɪləti/
+1. **participation**: (n) sự tham gia /pɑːˌtɪsɪˈpeɪʃn/
+1. **international**: (adj) quốc tế /ˌɪntəˈnæʃnəl/
+1. **organisation**: (n) tổ chức /ˌɔːɡənaɪˈzeɪʃn/
+1. **responsibility**: (n) trách nhiệm /rɪˌspɒnsəˈbɪləti/
+1. **disadvantaged**: (adj) thiệt thòi, có hoàn cảnh khó khăn /ˌdɪsədˈvɑːntɪdʒd/
+1. **environmental**: (adj) liên quan đến môi trường /ɪnˌvaɪrənˈmentl/
+1. **educational**: (adj) liên quan đến giáo dục /ˌedʒuˈkeɪʃənl/
+1. **opportunity**: (n) cơ hội /ˌɒpəˈtjuːnəti/
+1. **enter**: (v) thâm nhập, đi vào /ˈentə/
+1. **promote**: (v) thúc đẩy, quảng bá /prəˈməʊt/
+1. **aim**: (v) nhằm mục đích /eɪm/
+1. **commit**: (v) cam kết /kəˈmɪt/
+1. **welcome**: (v) hoan nghênh, chào đón /ˈwelkəm/
+1. **intend**: (v) định làm gì, có ý định /ɪnˈtend/
+1. **encourage**: (v) khuyến khích /ɪnˈkʌrɪdʒ/
+1. **promise**: (v) hứa /ˈprɒmɪs/
+1. **create**: (v) tạo ra /kriˈeɪt/ 
+1. **disadvantaged children**: (n phr) trẻ em có hoàn cảnh khó khăn /ˌdɪsədˈvɑːntɪdʒd ˈtʃɪldrən/
+1. **environmental protection**: (n phr) bảo vệ môi trường /ɪnˌvaɪrənˈmentl prəˈtekʃn/
+1. **educational opportunities**: (n phr) cơ hội giáo dục /ˌedʒuˈkeɪʃənl ˌɒpəˈtjuːnətiz/
+1. **international organisation**: (n phr) tổ chức quốc tế /ˌɪntəˈnæʃnəl ˌɔːɡənaɪˈzeɪʃn/
+1. **economic growth**: (n phr) tăng trưởng kinh tế /ˌiːkəˈnɒmɪk ɡrəʊθ/
+1. **foreign investors**: (n phr) nhà đầu tư nước ngoài /ˈfɒrən ɪnˈvestəz/
+1. **sign an agreement**: (v phr) ký một thỏa thuận /saɪn ən əˈɡriːmənt/
+1. **technical support**: (n phr) hỗ trợ kỹ thuật /ˈteknɪkl səˈpɔːt/
+1. **enter new markets**: (v phr) thâm nhập thị trường mới /ˈentə njuː ˈmɑːkɪts/
+1. **imported goods**: (n phr) hàng nhập khẩu /ɪmˈpɔːtɪd ɡʊdz/
+1. **locally produced goods**: (n phr) hàng sản xuất trong nước /ˈləʊkəli prəˈdjuːst ɡʊdz/ 
+1. **customs**: (n) phong tục /ˈkʌstəmz/
+1. **donation**: (n) sự quyên góp /dəʊˈneɪʃn/
+1. **packaging**: (n) bao bì /ˈpækɪdʒɪŋ/
+1. **destination**: (n) điểm đến /ˌdestɪˈneɪʃn/
+1. **competitive**: (adj) cạnh tranh /kəmˈpetətɪv/
+1. **attractive**: (adj) hấp dẫn /əˈtræktɪv/
+1. **invest**: (v) đầu tư /ɪnˈvest/
+1. **goods and services**: (n phr) hàng hóa và dịch vụ /ɡʊdz ənd ˈsɜːvɪsɪz/
+1. **member country**: (n phr) nước thành viên /ˈmembə ˈkʌntri/
+1. **on the international stage**: (prep phr) trên trường quốc tế /ɒn ðə ˌɪntəˈnæʃnəl steɪdʒ/
+
 ### Pronunciation: Stress in words with more than three syllables
 
 #### Exercise 1: Listen and repeat. Pay attention to the syllable with primary stress.

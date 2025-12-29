@@ -204,7 +204,7 @@ const GameEngine = {
   },
 
   /**
-   * Render grammar section
+   * Render grammar section - handles both string and object examples
    */
   renderGrammar(grammar) {
     const container = document.getElementById('grammar-container');
@@ -213,12 +213,22 @@ const GameEngine = {
     container.innerHTML = `
       <div class="grammar-box">
         <h3>${grammar.title}</h3>
+        ${grammar.titleVi ? `<p class="grammar-title-vi">${grammar.titleVi}</p>` : ''}
         ${grammar.rules.map(rule => `
           <div class="grammar-rule">
-            <strong>${rule.name}:</strong> ${rule.formula}
+            <strong>${rule.name}:</strong> <code>${rule.formula}</code>
+            ${rule.usage ? `<p class="grammar-usage">${rule.usage}</p>` : ''}
+            ${rule.signalWords ? `<p class="grammar-signals"><strong>Dấu hiệu:</strong> ${rule.signalWords.join(', ')}</p>` : ''}
             ${rule.examples ? `
               <div class="grammar-example">
-                ${rule.examples.map(ex => `<p>• ${ex}</p>`).join('')}
+                ${rule.examples.map(ex => {
+                  if (typeof ex === 'string') {
+                    return `<p>• ${ex}</p>`;
+                  } else if (ex.en) {
+                    return `<p>• ${ex.en}${ex.vi ? `<br><span class="example-vi">→ ${ex.vi}</span>` : ''}</p>`;
+                  }
+                  return '';
+                }).join('')}
               </div>
             ` : ''}
           </div>
@@ -228,7 +238,7 @@ const GameEngine = {
   },
 
   /**
-   * Render reading section
+   * Render reading section - handles both string and object paragraphs
    */
   renderReading(reading) {
     const container = document.getElementById('reading-container');
@@ -237,13 +247,26 @@ const GameEngine = {
     container.innerHTML = `
       <div class="reading-passage">
         <h3>${reading.title}</h3>
-        ${reading.paragraphs.map(p => `<p>${p}</p>`).join('')}
+        ${reading.titleVi ? `<p class="reading-title-vi">${reading.titleVi}</p>` : ''}
+        ${reading.paragraphs.map(p => {
+          if (typeof p === 'string') {
+            return `<p>${p}</p>`;
+          } else if (p.en) {
+            return `
+              <div class="reading-para">
+                <p class="reading-en">${p.en}</p>
+                ${p.vi ? `<p class="reading-vi">${p.vi}</p>` : ''}
+              </div>
+            `;
+          }
+          return '';
+        }).join('')}
       </div>
     `;
   },
 
   /**
-   * Render speaking section
+   * Render speaking section with useful expressions
    */
   renderSpeaking(speaking) {
     const container = document.getElementById('speaking-container');
@@ -252,6 +275,26 @@ const GameEngine = {
     container.innerHTML = `
       <div class="dialogue-container">
         <h3>${speaking.title}</h3>
+        ${speaking.titleVi ? `<p class="speaking-title-vi">${speaking.titleVi}</p>` : ''}
+
+        ${speaking.usefulExpressions ? `
+          <div class="useful-expressions">
+            <h4>🗣️ Useful Expressions / Mẫu câu hữu ích:</h4>
+            ${speaking.usefulExpressions.map(exp => {
+              if (typeof exp === 'string') {
+                return `<p>• ${exp}</p>`;
+              } else if (exp.en) {
+                return `<div class="expression-item">
+                  <span class="expression-en">• ${exp.en}</span>
+                  ${exp.vi ? `<span class="expression-vi">→ ${exp.vi}</span>` : ''}
+                </div>`;
+              }
+              return '';
+            }).join('')}
+          </div>
+        ` : ''}
+
+        <h4>💬 Dialogue / Hội thoại:</h4>
         ${speaking.dialogue.map(line => `
           <div class="dialogue-line">
             <span class="dialogue-speaker">${line.speaker}:</span>
