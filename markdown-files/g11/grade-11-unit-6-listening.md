@@ -1,5 +1,28 @@
 # Unit 6: Preserving our heritage - Listening
 
+## Vocabulary
+
+1. **heritage**: (n) di sản /ˈherɪtɪdʒ/
+2. **World Heritage Site**: (n) Di sản Thế giới /wɜːld ˈherɪtɪdʒ saɪt/
+3. **scenic landscape**: (n) cảnh quan /ˈsiːnɪk ˈlændskeɪp/
+4. **limestone karst**: (n) núi đá vôi /ˈlaɪmstəʊn kɑːst/
+5. **cave**: (n) hang động /keɪv/
+6. **rice paddy**: (n) ruộng lúa /raɪs ˈpædi/
+7. **dynasty**: (n) triều đại /ˈdɪnəsti/
+8. **temple**: (n) đền /ˈtempl/
+9. **pagoda**: (n) chùa /pəˈɡəʊdə/
+10. **biodiversity**: (n) đa dạng sinh học /ˌbaɪəʊdaɪˈvɜːsəti/
+11. **ecotourism**: (n) du lịch sinh thái /ˈiːkəʊˌtʊərɪzəm/
+12. **endangered species**: (n) loài có nguy cơ tuyệt chủng /ɪnˈdeɪndʒəd ˈspiːʃiːz/
+13. **langur**: (n) voọc /ˈlæŋɡə/
+14. **preservation**: (n) sự bảo tồn /ˌprezəˈveɪʃn/
+15. **ancient capital**: (n) cố đô /ˈeɪnʃənt ˈkæpɪtl/
+16. **primary forest**: (n) rừng nguyên sinh /ˈpraɪməri ˈfɒrɪst/
+17. **valley**: (n) thung lũng /ˈvæli/
+18. **natural state**: (n) trạng thái tự nhiên /ˈnætʃrəl steɪt/
+19. **architecture**: (n) kiến trúc /ˈɑːkɪtektʃə/
+
+
 ## A trip to Trang An Scenic Landscape Complex
 (Một chuyến đi đến Quần thể danh thắng Tràng An)
 

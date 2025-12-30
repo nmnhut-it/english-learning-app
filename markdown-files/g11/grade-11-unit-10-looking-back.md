@@ -1,5 +1,23 @@
 # Unit 10: The ecosystem - Looking back
 
+## Vocabulary
+
+1. **flora and fauna**: (n) hệ động thực vật /ˈflɔːrə ənd ˈfɔːnə/
+2. **species**: (n) loài /ˈspiːʃiːz/
+3. **region**: (n) vùng, khu vực /ˈriːdʒən/
+4. **biodiversity**: (n) đa dạng sinh học /ˌbaɪəʊdaɪˈvɜːsəti/
+5. **conservation**: (n) sự bảo tồn /ˌkɒnsəˈveɪʃn/
+6. **marine ecosystem**: (n) hệ sinh thái biển /məˈriːn ˈiːkəʊˌsɪstəm/
+7. **natural resources**: (n) tài nguyên thiên nhiên /ˈnætʃrəl rɪˈzɔːsɪz/
+8. **bus stop**: (n) trạm xe buýt /bʌs stɒp/
+9. **sunset**: (n) hoàng hôn /ˈsʌnset/
+10. **sightseeing**: (n) ngắm cảnh, tham quan /ˈsaɪtˌsiːɪŋ/
+11. **wildlife**: (n) động vật hoang dã /ˈwaɪldlaɪf/
+12. **question tag**: (n) câu hỏi đuôi /ˈkwestʃən tæɡ/
+13. **intonation**: (n) ngữ điệu /ˌɪntəˈneɪʃn/
+14. **compound noun**: (n) danh từ ghép /ˈkɒmpaʊnd naʊn/
+
+
 ## Pronunciation
 
 ### Exercise: Mark the intonation in the question tags. Then listen and check. Practise saying the sentences in pairs.

@@ -1,5 +1,27 @@
 # Unit 8: Becoming Independent - Reading
 
+## Vocabulary
+
+1. **independent**: (adj) độc lập, tự lập /ˌɪndɪˈpendənt/
+2. **independence**: (n) sự độc lập /ˌɪndɪˈpendəns/
+3. **self-assessment**: (n) tự đánh giá /self əˈsesmənt/
+4. **decision-making**: (n) việc ra quyết định /dɪˈsɪʒn ˈmeɪkɪŋ/
+5. **time-management**: (n) quản lý thời gian /taɪm ˈmænɪdʒmənt/
+6. **life skills**: (n) kỹ năng sống /laɪf skɪlz/
+7. **get around**: (phr v) đi lại, di chuyển /ɡet əˈraʊnd/
+8. **come up with**: (phr v) nghĩ ra, đưa ra /kʌm ʌp wɪð/
+9. **carry out**: (phr v) thực hiện, tiến hành /ˈkæri aʊt/
+10. **get into the habit of**: (phr) tạo thói quen /ɡet ˈɪntə ðə ˈhæbɪt əv/
+11. **make use of**: (phr) tận dụng /meɪk juːs əv/
+12. **public transport**: (n) phương tiện giao thông công cộng /ˈpʌblɪk ˈtrænspɔːt/
+13. **household chores**: (n) việc nhà /ˈhaʊshəʊld tʃɔːz/
+14. **laundry**: (n) giặt giũ /ˈlɔːndri/
+15. **to-do list**: (n) danh sách việc cần làm /tə duː lɪst/
+16. **brain development**: (n) sự phát triển não bộ /breɪn dɪˈveləpmənt/
+17. **pocket money**: (n) tiền tiêu vặt /ˈpɒkɪt ˈmʌni/
+18. **communicate**: (v) giao tiếp /kəˈmjuːnɪkeɪt/
+
+
 ## How to become independent
 (Cách để trở nên tự lập)
 

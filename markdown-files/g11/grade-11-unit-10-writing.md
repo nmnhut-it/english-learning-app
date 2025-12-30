@@ -1,5 +1,27 @@
 # Unit 10: The Ecosystem - Writing
 
+## Vocabulary
+
+1. **opinion essay**: (n) bài luận ý kiến /əˈpɪnjən ˈeseɪ/
+2. **point of view**: (n) quan điểm /pɔɪnt əv vjuː/
+3. **invest (in)**: (v) đầu tư /ɪnˈvest/
+4. **healthcare**: (n) chăm sóc sức khỏe /ˈhelθkeə/
+5. **unemployment**: (n) thất nghiệp /ˌʌnɪmˈplɔɪmənt/
+6. **poverty**: (n) nghèo đói /ˈpɒvəti/
+7. **flood**: (n) lũ lụt /flʌd/
+8. **deforestation**: (n) phá rừng /diːˌfɒrɪˈsteɪʃn/
+9. **soil erosion**: (n) xói mòn đất /sɔɪl ɪˈrəʊʒn/
+10. **extinction**: (n) sự tuyệt chủng /ɪkˈstɪŋkʃn/
+11. **livelihood**: (n) sinh kế /ˈlaɪvlihʊd/
+12. **reverse**: (v) đảo ngược /rɪˈvɜːs/
+13. **preserve**: (v) bảo tồn, gìn giữ /prɪˈzɜːv/
+14. **prioritize**: (v) ưu tiên /praɪˈɒrətaɪz/
+15. **crucial**: (adj) quan trọng, then chốt /ˈkruːʃl/
+16. **scarcity**: (n) sự khan hiếm /ˈskeəsəti/
+17. **neglect**: (v) bỏ bê, xao nhãng /nɪˈɡlekt/
+18. **sustainable future**: (n) tương lai bền vững /səˈsteɪnəbl ˈfjuːtʃə/
+
+
 ## An opinion essay about spending more money on restoring local ecosystems
 *(Một bài luận ý kiến về việc tiêu tiền cho việc giữ gìn hệ sinh thái địa phương)*
 

@@ -1,5 +1,44 @@
 # Unit 10: The Ecosystem - Reading
 
+## Vocabulary
+
+1. **ecosystem**: (n) hệ sinh thái /ˈiːkəʊˌsɪstəm/
+2. **biodiversity**: (n) sự đa dạng sinh học /ˌbaɪəʊdaɪˈvɜːsəti/
+3. **conservation**: (n) sự bảo tồn /ˌkɒnsəˈveɪʃn/
+4. **wetland**: (n) vùng đất ngập nước /ˈwetlənd/
+5. **mangrove forest**: (n) rừng ngập mặn /ˈmæŋɡrəʊv ˈfɒrɪst/
+6. **habitat**: (n) môi trường sống /ˈhæbɪtæt/
+7. **flora and fauna**: (n) hệ động thực vật /ˈflɔːrə ənd ˈfɔːnə/
+8. **mammal**: (n) động vật có vú /ˈmæml/
+9. **species**: (n) loài /ˈspiːʃiːz/
+10. **endangered**: (adj) có nguy cơ tuyệt chủng /ɪnˈdeɪndʒəd/
+11. **rare**: (adj) hiếm, quý hiếm /reə/
+12. **wildlife**: (n) động vật hoang dã /ˈwaɪldlaɪf/
+13. **native (to)**: (adj) bản địa, bản xứ /ˈneɪtɪv/
+14. **scenery**: (n) cảnh quan, phong cảnh /ˈsiːnəri/
+15. **waterway**: (n) đường thủy /ˈwɔːtəweɪ/
+16. **unique**: (adj) độc đáo, duy nhất /juːˈniːk/
+17. **otter**: (n) rái cá /ˈɒtə/
+18. **pangolin**: (n) tê tê /pæŋˈɡəʊlɪn/
+19. **bat**: (n) con dơi /bæt/
+20. **spotted eagle**: (n) đại bàng đốm /ˈspɒtɪd ˈiːɡl/
+21. **floating water season**: (n) mùa nước nổi /ˈfləʊtɪŋ ˈwɔːtə ˈsiːzn/
+22. **explore**: (v) khám phá /ɪkˈsplɔː/
+23. **attract**: (v) thu hút /əˈtrækt/
+24. **destruction**: (n) sự phá hủy /dɪˈstrʌkʃn/
+25. **impact**: (n) tác động, ảnh hưởng /ˈɪmpækt/
+26. **breed**: (v) sinh sản /briːd/
+27. **threatened**: (adj) bị đe dọa /ˈθretnd/
+28. **endemic**: (adj) đặc hữu (chỉ có ở một vùng) /enˈdemɪk/
+29. **awareness**: (n) sự nhận thức /əˈweənəs/
+30. **regulation**: (n) quy định /ˌreɡjuˈleɪʃn/
+31. **enforce**: (v) thực thi /ɪnˈfɔːs/
+32. **logging**: (n) khai thác gỗ /ˈlɒɡɪŋ/
+33. **mining**: (n) khai thác mỏ /ˈmaɪnɪŋ/
+34. **adequate**: (adj) đầy đủ, thích đáng /ˈædɪkwət/
+35. **trail**: (n) đường mòn, lối đi /treɪl/
+
+
 ## U Minh Thuong - A unique national park
 (U Minh Thượng – Vườn quốc gia độc đáo)
 

@@ -1,5 +1,27 @@
 # Unit 5: Global Warming - Listening
 
+## Vocabulary
+
+1. **soot**: (n) bồ hóng /sʊt/
+2. **melt**: (v) tan chảy /melt/
+3. **crop**: (n) cây trồng, mùa vụ /krɒp/
+4. **soil**: (n) đất /sɔɪl/
+5. **black carbon**: (n) carbon đen /blæk ˈkɑːbən/
+6. **fossil fuel**: (n) nhiên liệu hóa thạch /ˈfɒsl fjuːəl/
+7. **crop waste**: (n) chất thải cây trồng /krɒp weɪst/
+8. **wildfire**: (n) cháy rừng /ˈwaɪldfaɪə/
+9. **atmosphere**: (n) bầu khí quyển /ˈætməsfɪə/
+10. **global warming**: (n) sự nóng lên toàn cầu /ˈɡləʊbl ˈwɔːmɪŋ/
+11. **emission**: (n) sự phát thải, khí thải /ɪˈmɪʃn/
+12. **organism**: (n) sinh vật /ˈɔːɡənɪzəm/
+13. **trap**: (v) giữ lại, bẫy /træp/
+14. **release**: (v) thải ra, giải phóng /rɪˈliːs/
+15. **incomplete combustion**: (n) quá trình đốt không hoàn toàn /ˌɪnkəmˈpliːt kəmˈbʌstʃən/
+16. **biomass**: (n) sinh khối /ˈbaɪəʊmæs/
+17. **biofuel**: (n) nhiên liệu sinh học /ˈbaɪəʊfjuːəl/
+18. **pollutant**: (n) chất gây ô nhiễm /pəˈluːtənt/
+
+
 ## Black carbon and global temperature
 (Cacbon đen và nhiệt độ toàn cầu)
 

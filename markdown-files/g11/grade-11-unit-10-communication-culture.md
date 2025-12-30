@@ -1,5 +1,30 @@
 # Unit 10: The ecosystem - Communication and Culture/CLIL
 
+## Vocabulary
+
+1. **elephant ride**: (n) cưỡi voi /ˈelɪfənt raɪd/
+2. **creature**: (n) sinh vật /ˈkriːtʃə/
+3. **animal cruelty**: (n) sự tàn ác với động vật /ˈænɪml ˈkruːəlti/
+4. **bird-watching**: (n) ngắm chim /bɜːd ˈwɒtʃɪŋ/
+5. **hiking**: (n) đi bộ đường dài /ˈhaɪkɪŋ/
+6. **camping**: (n) cắm trại /ˈkæmpɪŋ/
+7. **eco-friendly**: (adj) thân thiện với môi trường /ˌiːkəʊ ˈfrendli/
+8. **reusable**: (adj) có thể tái sử dụng /riːˈjuːzəbl/
+9. **potluck**: (n) tiệc mỗi người mang một món /ˈpɒtlʌk/
+10. **decoration**: (n) đồ trang trí /ˌdekəˈreɪʃn/
+11. **hectare**: (n) héc ta /ˈhekteə/
+12. **carbon dioxide**: (n) khí carbon dioxide /ˌkɑːbən daɪˈɒksaɪd/
+13. **food security**: (n) an ninh lương thực /fuːd sɪˈkjʊərəti/
+14. **barrier reef**: (n) rạn san hô chắn /ˈbæriə riːf/
+15. **scuba diving**: (n) lặn có bình dưỡng khí /ˈskuːbə ˈdaɪvɪŋ/
+16. **snorkelling**: (n) lặn ống thở /ˈsnɔːkəlɪŋ/
+17. **oil drilling**: (n) khoan dầu /ɔɪl ˈdrɪlɪŋ/
+18. **no-take zone**: (n) khu vực cấm khai thác /nəʊ teɪk zəʊn/
+19. **marine reserve**: (n) khu bảo tồn biển /məˈriːn rɪˈzɜːv/
+20. **degraded land**: (n) đất bị suy thoái /dɪˈɡreɪdɪd lænd/
+21. **mangrove forest**: (n) rừng ngập mặn /ˈmæŋɡrəʊv ˈfɒrɪst/
+
+
 ## Everyday English
 
 ### Expressing likes and dislikes

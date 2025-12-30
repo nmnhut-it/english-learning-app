@@ -1,0 +1,127 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --primary: #6366f1;
+  --secondary: #8b5cf6;
+  --bg-dark: #1a1a2e;
+  --bg-card: #16213e;
+  --text: #e2e8f0;
+  --text-muted: #94a3b8;
+  --correct: #10b981;
+  --incorrect: #ef4444;
+
+  /* Safe area for mobile notch */
+  --safe-area-top: env(safe-area-inset-top, 0px);
+  --safe-area-bottom: env(safe-area-inset-bottom, 0px);
+}
+
+html, body {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background-color: var(--bg-dark);
+  font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+  color: var(--text);
+
+  /* Prevent pull-to-refresh and overscroll */
+  overscroll-behavior: none;
+  touch-action: manipulation;
+
+  /* Support for iOS safe areas */
+  padding-top: var(--safe-area-top);
+  padding-bottom: var(--safe-area-bottom);
+}
+
+#app {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+#game-container {
+  max-width: 800px;
+  width: 100%;
+  aspect-ratio: 4/3;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);
+}
+
+#game-container canvas {
+  border-radius: 12px;
+  /* Prevent canvas blur on retina displays */
+  image-rendering: crisp-edges;
+}
+
+/* Mobile optimization */
+@media (max-width: 850px) {
+  #game-container {
+    border-radius: 0;
+    max-width: 100%;
+    height: 100%;
+    aspect-ratio: auto;
+  }
+
+  #game-container canvas {
+    border-radius: 0;
+  }
+}
+
+/* Landscape mobile - ensure full height */
+@media (max-height: 500px) and (orientation: landscape) {
+  html, body {
+    height: 100vh;
+    height: 100dvh; /* Dynamic viewport height */
+  }
+
+  #game-container {
+    height: 100%;
+  }
+}
+
+/* Touch feedback */
+@media (hover: none) {
+  * {
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  /* Larger touch targets for mobile */
+  button,
+  [role="button"],
+  .interactive {
+    min-height: 44px;
+    min-width: 44px;
+  }
+}
+
+/* Hide scrollbars */
+::-webkit-scrollbar {
+  display: none;
+}
+
+/* Selection color */
+::selection {
+  background-color: var(--primary);
+  color: var(--text);
+}
+
+/* Focus states for keyboard navigation */
+:focus-visible {
+  outline: 2px solid var(--primary);
+  outline-offset: 2px;
+}
+
+/* Prefers reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}

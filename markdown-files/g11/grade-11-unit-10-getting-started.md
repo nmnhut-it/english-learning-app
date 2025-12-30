@@ -1,5 +1,27 @@
 # Unit 10: The ecosystem
 
+## Vocabulary
+
+1. **ecosystem**: (n) hệ sinh thái /ˈiːkəʊˌsɪstəm/
+2. **flora**: (n) hệ thực vật /ˈflɔːrə/
+3. **fauna**: (n) hệ động vật /ˈfɔːnə/
+4. **organism**: (n) sinh vật /ˈɔːɡənɪzəm/
+5. **bacteria**: (n) vi khuẩn /bækˈtɪəriə/
+6. **biodiversity**: (n) đa dạng sinh học /ˌbaɪəʊdaɪˈvɜːsəti/
+7. **climate change**: (n) biến đổi khí hậu /ˈklaɪmət tʃeɪndʒ/
+8. **natural resources**: (n) tài nguyên thiên nhiên /ˈnætʃrəl rɪˈzɔːsɪz/
+9. **national park**: (n) vườn quốc gia /ˈnæʃnəl pɑːk/
+10. **raw materials**: (n) nguyên liệu thô /rɔː məˈtɪəriəlz/
+11. **overuse**: (v) sử dụng quá mức /ˌəʊvəˈjuːz/
+12. **generation**: (n) thế hệ /ˌdʒenəˈreɪʃn/
+13. **essential**: (adj) thiết yếu, cần thiết /ɪˈsenʃl/
+14. **survival**: (n) sự sống sót, sự tồn tại /səˈvaɪvl/
+15. **community**: (n) cộng đồng /kəˈmjuːnəti/
+16. **insect**: (n) côn trùng /ˈɪnsekt/
+17. **butterfly**: (n) con bướm /ˈbʌtəflaɪ/
+18. **ancient**: (adj) cổ xưa /ˈeɪnʃənt/
+
+
 ## I. Getting Started - Ecosystems and humans
 
 ### 1. Listen and read

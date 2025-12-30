@@ -1,0 +1,49 @@
+/**
+ * Game Configuration
+ */
+
+const GAME_WIDTH = 800;
+const GAME_HEIGHT = 600;
+
+const COLORS = {
+  PRIMARY: 0x6366f1,
+  SECONDARY: 0x8b5cf6,
+  CORRECT: 0x10b981,
+  INCORRECT: 0xef4444,
+  WARNING: 0xf59e0b,
+  BG_DARK: 0x1a1a2e,
+  BG_CARD: 0x16213e,
+  BG_LIGHT: 0x0f3460,
+  TEXT: 0xe2e8f0,
+  TEXT_MUTED: 0x94a3b8,
+  GOLD: 0xfbbf24,
+  STREAK: 0xf97316,
+};
+
+const COLOR_STRINGS = {
+  PRIMARY: '#6366f1',
+  SECONDARY: '#8b5cf6',
+  CORRECT: '#10b981',
+  INCORRECT: '#ef4444',
+  WARNING: '#f59e0b',
+  BG_DARK: '#1a1a2e',
+  BG_CARD: '#16213e',
+  TEXT: '#e2e8f0',
+  TEXT_MUTED: '#94a3b8',
+  GOLD: '#fbbf24',
+  STREAK: '#f97316',
+};
+
+const POINTS = {
+  CORRECT_ANSWER: 10,
+  CORRECT_FIRST_TRY: 15,
+  FAST_ANSWER_BONUS: 5,
+  STREAK_MULTIPLIER: 1.5,
+  COMPLETE_LESSON: 50,
+  PERFECT_LESSON: 100,
+};
+
+const TIMING = {
+  FAST_ANSWER_THRESHOLD: 3000,
+  ANSWER_FEEDBACK_DURATION: 1000,
+};

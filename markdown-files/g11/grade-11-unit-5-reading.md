@@ -1,5 +1,27 @@
 # Unit 5: Global Warming - Reading
 
+## Vocabulary
+
+1. **climate change**: (n) biến đổi khí hậu /ˈklaɪmət tʃeɪndʒ/
+2. **COP (Conference of Parties)**: (n) Hội nghị các bên /kɒp/
+3. **emission**: (n) sự phát thải /ɪˈmɪʃn/
+4. **greenhouse gas**: (n) khí nhà kính /ˈɡriːnhaʊs ɡæs/
+5. **carbon**: (n) cacbon /ˈkɑːbən/
+6. **methane**: (n) khí mê-tan /ˈmiːθeɪn/
+7. **balance**: (n) sự cân bằng /ˈbæləns/
+8. **coal**: (n) than đá /kəʊl/
+9. **deforestation**: (n) phá rừng /diːˌfɒrɪˈsteɪʃn/
+10. **landfill**: (n) bãi chôn lấp rác /ˈlændfɪl/
+11. **renewable energy**: (n) năng lượng tái tạo /rɪˈnjuːəbl ˈenədʒi/
+12. **solar energy**: (n) năng lượng mặt trời /ˈsəʊlə ˈenədʒi/
+13. **wind power**: (n) năng lượng gió /wɪnd ˈpaʊə/
+14. **hydropower**: (n) thủy điện /ˈhaɪdrəʊpaʊə/
+15. **energy-efficient**: (adj) tiết kiệm năng lượng /ˈenədʒi ɪˈfɪʃnt/
+16. **recycle**: (v) tái chế /ˌriːˈsaɪkl/
+17. **conserve**: (v) bảo tồn /kənˈsɜːv/
+18. **climate-friendly**: (adj) thân thiện với khí hậu /ˈklaɪmət ˈfrendli/
+
+
 ## The UN Climate Change Conference
 
 ### Bài 1: Work in pairs. Look at the pictures and discuss the environmental problems you see.
