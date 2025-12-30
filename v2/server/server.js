@@ -693,25 +693,32 @@ app.get('/api/dashboard', (req, res) => {
   }
 });
 
-// Start server
-app.listen(PORT, () => {
-  console.log('========================================');
-  console.log(' 📚 Vocabulary Game Server');
-  console.log('========================================');
-  console.log(`Server running on http://localhost:${PORT}`);
-  console.log('');
-  console.log('API Endpoints:');
-  console.log('  GET  /health              - Health check');
-  console.log('  GET  /api/classes         - List all classes');
-  console.log('  GET  /api/classes/:id     - Get class details');
-  console.log('  POST /api/classes/:id     - Create/update class');
-  console.log('  DEL  /api/classes/:id     - Delete class');
-  console.log('  POST /api/results         - Save battle result');
-  console.log('  GET  /api/results/:classId - Get class results');
-  console.log('  GET  /api/tracking/:classId - Get vocabulary tracking');
-  console.log('  GET  /api/review/:classId/:student - Get review words');
-  console.log('  GET  /api/stats/:classId  - Get class statistics');
-  console.log('  GET  /api/review-quiz/:classId - Generate review quiz');
-  console.log('  GET  /api/dashboard       - Teacher dashboard');
-  console.log('========================================');
-});
+// Export for testing
+module.exports = { app, DATA_DIR, LEADERBOARD_DIR, CLASSES_DIR, RESULTS_DIR, REVIEWS_DIR };
+
+// Start server if run directly
+if (require.main === module) {
+  app.listen(PORT, () => {
+    console.log('========================================');
+    console.log(' 📚 Vocabulary Game Server');
+    console.log('========================================');
+    console.log(`Server running on http://localhost:${PORT}`);
+    console.log('');
+    console.log('API Endpoints:');
+    console.log('  GET  /health              - Health check');
+    console.log('  GET  /api/classes         - List all classes');
+    console.log('  GET  /api/classes/:id     - Get class details');
+    console.log('  POST /api/classes/:id     - Create/update class');
+    console.log('  DEL  /api/classes/:id     - Delete class');
+    console.log('  POST /api/results         - Save battle result');
+    console.log('  GET  /api/results/:classId - Get class results');
+    console.log('  GET  /api/tracking/:classId - Get vocabulary tracking');
+    console.log('  GET  /api/review/:classId/:student - Get review words');
+    console.log('  GET  /api/stats/:classId  - Get class statistics');
+    console.log('  GET  /api/review-quiz/:classId - Generate review quiz');
+    console.log('  GET  /api/leaderboard/:classId - Get leaderboard');
+    console.log('  POST /api/leaderboard/:classId/points - Update points');
+    console.log('  GET  /api/dashboard       - Teacher dashboard');
+    console.log('========================================');
+  });
+}
