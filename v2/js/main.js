@@ -6,11 +6,15 @@
 document.addEventListener('DOMContentLoaded', () => {
   // Game configuration
   const config = {
-    type: Phaser.AUTO,
+    type: Phaser.CANVAS, // Use Canvas for better compatibility
     width: GAME_WIDTH,
     height: GAME_HEIGHT,
     parent: 'game-container',
     backgroundColor: COLORS.BACKGROUND,
+    render: {
+      pixelArt: false,
+      antialias: true,
+    },
     scale: {
       mode: Phaser.Scale.FIT,
       autoCenter: Phaser.Scale.CENTER_BOTH,
