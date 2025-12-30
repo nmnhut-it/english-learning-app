@@ -2,26 +2,25 @@
 
 ## Vocabulary
 
-| Word | IPA | Part of Speech | Meaning |
-|------|-----|----------------|---------|
-| ecosystem | /ˈiːkəʊˌsɪstəm/ | n | hệ sinh thái |
-| flora | /ˈflɔːrə/ | n | hệ thực vật |
-| fauna | /ˈfɔːnə/ | n | hệ động vật |
-| organism | /ˈɔːɡənɪzəm/ | n | sinh vật |
-| bacteria | /bækˈtɪəriə/ | n | vi khuẩn |
-| biodiversity | /ˌbaɪəʊdaɪˈvɜːsəti/ | n | đa dạng sinh học |
-| climate change | /ˈklaɪmət tʃeɪndʒ/ | n | biến đổi khí hậu |
-| natural resources | /ˈnætʃrəl rɪˈzɔːsɪz/ | n | tài nguyên thiên nhiên |
-| national park | /ˈnæʃnəl pɑːk/ | n | vườn quốc gia |
-| raw materials | /rɔː məˈtɪəriəlz/ | n | nguyên liệu thô |
-| overuse | /ˌəʊvəˈjuːz/ | v | sử dụng quá mức |
-| generation | /ˌdʒenəˈreɪʃn/ | n | thế hệ |
-| essential | /ɪˈsenʃl/ | adj | thiết yếu, cần thiết |
-| survival | /səˈvaɪvl/ | n | sự sống sót, sự tồn tại |
-| community | /kəˈmjuːnəti/ | n | cộng đồng |
-| insect | /ˈɪnsekt/ | n | côn trùng |
-| butterfly | /ˈbʌtəflaɪ/ | n | con bướm |
-| ancient | /ˈeɪnʃənt/ | adj | cổ xưa |
+1. **ecosystem**: (n) hệ sinh thái /ˈiːkəʊˌsɪstəm/
+2. **flora**: (n) hệ thực vật /ˈflɔːrə/
+3. **fauna**: (n) hệ động vật /ˈfɔːnə/
+4. **organism**: (n) sinh vật /ˈɔːɡənɪzəm/
+5. **bacteria**: (n) vi khuẩn /bækˈtɪəriə/
+6. **biodiversity**: (n) đa dạng sinh học /ˌbaɪəʊdaɪˈvɜːsəti/
+7. **climate change**: (n) biến đổi khí hậu /ˈklaɪmət tʃeɪndʒ/
+8. **natural resources**: (n) tài nguyên thiên nhiên /ˈnætʃrəl rɪˈzɔːsɪz/
+9. **national park**: (n) vườn quốc gia /ˈnæʃnəl pɑːk/
+10. **raw materials**: (n) nguyên liệu thô /rɔː məˈtɪəriəlz/
+11. **overuse**: (v) sử dụng quá mức /ˌəʊvəˈjuːz/
+12. **generation**: (n) thế hệ /ˌdʒenəˈreɪʃn/
+13. **essential**: (adj) thiết yếu, cần thiết /ɪˈsenʃl/
+14. **survival**: (n) sự sống sót, sự tồn tại /səˈvaɪvl/
+15. **community**: (n) cộng đồng /kəˈmjuːnəti/
+16. **insect**: (n) côn trùng /ˈɪnsekt/
+17. **butterfly**: (n) con bướm /ˈbʌtəflaɪ/
+18. **ancient**: (adj) cổ xưa /ˈeɪnʃənt/
+
 
 ## I. Getting Started - Ecosystems and humans
 

@@ -2,26 +2,25 @@
 
 ## Vocabulary
 
-| Word | IPA | Part of Speech | Meaning |
-|------|-----|----------------|---------|
-| opinion essay | /əˈpɪnjən ˈeseɪ/ | n | bài luận ý kiến |
-| point of view | /pɔɪnt əv vjuː/ | n | quan điểm |
-| invest (in) | /ɪnˈvest/ | v | đầu tư |
-| healthcare | /ˈhelθkeə/ | n | chăm sóc sức khỏe |
-| unemployment | /ˌʌnɪmˈplɔɪmənt/ | n | thất nghiệp |
-| poverty | /ˈpɒvəti/ | n | nghèo đói |
-| flood | /flʌd/ | n | lũ lụt |
-| deforestation | /diːˌfɒrɪˈsteɪʃn/ | n | phá rừng |
-| soil erosion | /sɔɪl ɪˈrəʊʒn/ | n | xói mòn đất |
-| extinction | /ɪkˈstɪŋkʃn/ | n | sự tuyệt chủng |
-| livelihood | /ˈlaɪvlihʊd/ | n | sinh kế |
-| reverse | /rɪˈvɜːs/ | v | đảo ngược |
-| preserve | /prɪˈzɜːv/ | v | bảo tồn, gìn giữ |
-| prioritize | /praɪˈɒrətaɪz/ | v | ưu tiên |
-| crucial | /ˈkruːʃl/ | adj | quan trọng, then chốt |
-| scarcity | /ˈskeəsəti/ | n | sự khan hiếm |
-| neglect | /nɪˈɡlekt/ | v | bỏ bê, xao nhãng |
-| sustainable future | /səˈsteɪnəbl ˈfjuːtʃə/ | n | tương lai bền vững |
+1. **opinion essay**: (n) bài luận ý kiến /əˈpɪnjən ˈeseɪ/
+2. **point of view**: (n) quan điểm /pɔɪnt əv vjuː/
+3. **invest (in)**: (v) đầu tư /ɪnˈvest/
+4. **healthcare**: (n) chăm sóc sức khỏe /ˈhelθkeə/
+5. **unemployment**: (n) thất nghiệp /ˌʌnɪmˈplɔɪmənt/
+6. **poverty**: (n) nghèo đói /ˈpɒvəti/
+7. **flood**: (n) lũ lụt /flʌd/
+8. **deforestation**: (n) phá rừng /diːˌfɒrɪˈsteɪʃn/
+9. **soil erosion**: (n) xói mòn đất /sɔɪl ɪˈrəʊʒn/
+10. **extinction**: (n) sự tuyệt chủng /ɪkˈstɪŋkʃn/
+11. **livelihood**: (n) sinh kế /ˈlaɪvlihʊd/
+12. **reverse**: (v) đảo ngược /rɪˈvɜːs/
+13. **preserve**: (v) bảo tồn, gìn giữ /prɪˈzɜːv/
+14. **prioritize**: (v) ưu tiên /praɪˈɒrətaɪz/
+15. **crucial**: (adj) quan trọng, then chốt /ˈkruːʃl/
+16. **scarcity**: (n) sự khan hiếm /ˈskeəsəti/
+17. **neglect**: (v) bỏ bê, xao nhãng /nɪˈɡlekt/
+18. **sustainable future**: (n) tương lai bền vững /səˈsteɪnəbl ˈfjuːtʃə/
+
 
 ## An opinion essay about spending more money on restoring local ecosystems
 *(Một bài luận ý kiến về việc tiêu tiền cho việc giữ gìn hệ sinh thái địa phương)*

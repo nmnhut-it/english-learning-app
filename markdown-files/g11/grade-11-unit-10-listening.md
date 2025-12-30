@@ -2,32 +2,31 @@
 
 ## Vocabulary
 
-| Word | IPA | Part of Speech | Meaning |
-|------|-----|----------------|---------|
-| coral reef | /ˈkɒrəl riːf/ | n | rạn san hô |
-| food chain | /fuːd tʃeɪn/ | n | chuỗi thức ăn |
-| run out (of) | /rʌn aʊt/ | phr v | cạn kiệt, hết |
-| break down | /breɪk daʊn/ | phr v | hỏng, ngừng hoạt động |
-| biodiversity conservation | /ˌbaɪəʊdaɪˈvɜːsəti ˌkɒnsəˈveɪʃn/ | n | bảo tồn đa dạng sinh học |
-| climate change | /ˈklaɪmət tʃeɪndʒ/ | n | biến đổi khí hậu |
-| pollution | /pəˈluːʃn/ | n | sự ô nhiễm |
-| greenhouse gas | /ˈɡriːnhaʊs ɡæs/ | n | khí nhà kính |
-| renewable energy | /rɪˈnjuːəbl ˈenədʒi/ | n | năng lượng tái tạo |
-| pollutant | /pəˈluːtənt/ | n | chất gây ô nhiễm |
-| sustainable | /səˈsteɪnəbl/ | adj | bền vững |
-| agriculture | /ˈæɡrɪkʌltʃə/ | n | nông nghiệp |
-| fertilizer | /ˈfɜːtəlaɪzə/ | n | phân bón |
-| crop rotation | /krɒp rəʊˈteɪʃn/ | n | luân canh cây trồng |
-| pesticide | /ˈpestɪsaɪd/ | n | thuốc trừ sâu |
-| herbicide | /ˈhɜːbɪsaɪd/ | n | thuốc diệt cỏ |
-| carbon dioxide | /ˌkɑːbən daɪˈɒksaɪd/ | n | khí carbon dioxide (CO2) |
-| oxygen | /ˈɒksɪdʒən/ | n | oxy |
-| absorb | /əbˈzɔːb/ | v | hấp thụ |
-| emission | /ɪˈmɪʃn/ | n | sự phát thải |
-| restore | /rɪˈstɔː/ | v | phục hồi, khôi phục |
-| natural disaster | /ˈnætʃrəl dɪˈzɑːstə/ | n | thiên tai |
-| balance | /ˈbæləns/ | n | sự cân bằng |
-| survive | /səˈvaɪv/ | v | sống sót |
+1. **coral reef**: (n) rạn san hô /ˈkɒrəl riːf/
+2. **food chain**: (n) chuỗi thức ăn /fuːd tʃeɪn/
+3. **run out (of)**: (phr v) cạn kiệt, hết /rʌn aʊt/
+4. **break down**: (phr v) hỏng, ngừng hoạt động /breɪk daʊn/
+5. **biodiversity conservation**: (n) bảo tồn đa dạng sinh học /ˌbaɪəʊdaɪˈvɜːsəti ˌkɒnsəˈveɪʃn/
+6. **climate change**: (n) biến đổi khí hậu /ˈklaɪmət tʃeɪndʒ/
+7. **pollution**: (n) sự ô nhiễm /pəˈluːʃn/
+8. **greenhouse gas**: (n) khí nhà kính /ˈɡriːnhaʊs ɡæs/
+9. **renewable energy**: (n) năng lượng tái tạo /rɪˈnjuːəbl ˈenədʒi/
+10. **pollutant**: (n) chất gây ô nhiễm /pəˈluːtənt/
+11. **sustainable**: (adj) bền vững /səˈsteɪnəbl/
+12. **agriculture**: (n) nông nghiệp /ˈæɡrɪkʌltʃə/
+13. **fertilizer**: (n) phân bón /ˈfɜːtəlaɪzə/
+14. **crop rotation**: (n) luân canh cây trồng /krɒp rəʊˈteɪʃn/
+15. **pesticide**: (n) thuốc trừ sâu /ˈpestɪsaɪd/
+16. **herbicide**: (n) thuốc diệt cỏ /ˈhɜːbɪsaɪd/
+17. **carbon dioxide**: (n) khí carbon dioxide (CO2) /ˌkɑːbən daɪˈɒksaɪd/
+18. **oxygen**: (n) oxy /ˈɒksɪdʒən/
+19. **absorb**: (v) hấp thụ /əbˈzɔːb/
+20. **emission**: (n) sự phát thải /ɪˈmɪʃn/
+21. **restore**: (v) phục hồi, khôi phục /rɪˈstɔː/
+22. **natural disaster**: (n) thiên tai /ˈnætʃrəl dɪˈzɑːstə/
+23. **balance**: (n) sự cân bằng /ˈbæləns/
+24. **survive**: (v) sống sót /səˈvaɪv/
+
 
 ## Human impact on ecosystems
 (Ảnh hưởng của con người lên hệ sinh thái)

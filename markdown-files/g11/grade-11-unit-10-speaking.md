@@ -2,30 +2,29 @@
 
 ## Vocabulary
 
-| Word | IPA | Part of Speech | Meaning |
-|------|-----|----------------|---------|
-| ban | /bæn/ | v | cấm |
-| hunting | /ˈhʌntɪŋ/ | n | sự săn bắn |
-| mass tourism | /mæs ˈtʊərɪzəm/ | n | du lịch đại chúng |
-| carbon footprint | /ˈkɑːbən ˈfʊtprɪnt/ | n | lượng khí thải carbon |
-| protected area | /prəˈtektɪd ˈeəriə/ | n | khu bảo tồn |
-| conservation effort | /ˌkɒnsəˈveɪʃn ˈefət/ | n | nỗ lực bảo tồn |
-| depletion | /dɪˈpliːʃn/ | n | sự cạn kiệt |
-| disrupt | /dɪsˈrʌpt/ | v | phá vỡ, làm gián đoạn |
-| cascading effect | /kæsˈkeɪdɪŋ ɪˈfekt/ | n | tác động dây chuyền |
-| poaching | /ˈpəʊtʃɪŋ/ | n | săn trộm |
-| thrive | /θraɪv/ | v | phát triển mạnh |
-| shelter | /ˈʃeltə/ | n | nơi trú ẩn |
-| native plant | /ˈneɪtɪv plɑːnt/ | n | cây bản địa |
-| field trip | /fiːld trɪp/ | n | chuyến đi thực tế |
-| rubbish | /ˈrʌbɪʃ/ | n | rác |
-| dispose of | /dɪˈspəʊz əv/ | phr v | vứt bỏ, xử lý |
-| fire hazard | /ˈfaɪə ˈhæzəd/ | n | nguy cơ hỏa hoạn |
-| fire pit | /ˈfaɪə pɪt/ | n | hố lửa |
-| portable stove | /ˈpɔːtəbl stəʊv/ | n | bếp di động |
-| overcrowding | /ˌəʊvəˈkraʊdɪŋ/ | n | tình trạng quá tải |
-| aggressive | /əˈɡresɪv/ | adj | hung dữ |
-| dependent (on) | /dɪˈpendənt/ | adj | phụ thuộc vào |
+1. **ban**: (v) cấm /bæn/
+2. **hunting**: (n) sự săn bắn /ˈhʌntɪŋ/
+3. **mass tourism**: (n) du lịch đại chúng /mæs ˈtʊərɪzəm/
+4. **carbon footprint**: (n) lượng khí thải carbon /ˈkɑːbən ˈfʊtprɪnt/
+5. **protected area**: (n) khu bảo tồn /prəˈtektɪd ˈeəriə/
+6. **conservation effort**: (n) nỗ lực bảo tồn /ˌkɒnsəˈveɪʃn ˈefət/
+7. **depletion**: (n) sự cạn kiệt /dɪˈpliːʃn/
+8. **disrupt**: (v) phá vỡ, làm gián đoạn /dɪsˈrʌpt/
+9. **cascading effect**: (n) tác động dây chuyền /kæsˈkeɪdɪŋ ɪˈfekt/
+10. **poaching**: (n) săn trộm /ˈpəʊtʃɪŋ/
+11. **thrive**: (v) phát triển mạnh /θraɪv/
+12. **shelter**: (n) nơi trú ẩn /ˈʃeltə/
+13. **native plant**: (n) cây bản địa /ˈneɪtɪv plɑːnt/
+14. **field trip**: (n) chuyến đi thực tế /fiːld trɪp/
+15. **rubbish**: (n) rác /ˈrʌbɪʃ/
+16. **dispose of**: (phr v) vứt bỏ, xử lý /dɪˈspəʊz əv/
+17. **fire hazard**: (n) nguy cơ hỏa hoạn /ˈfaɪə ˈhæzəd/
+18. **fire pit**: (n) hố lửa /ˈfaɪə pɪt/
+19. **portable stove**: (n) bếp di động /ˈpɔːtəbl stəʊv/
+20. **overcrowding**: (n) tình trạng quá tải /ˌəʊvəˈkraʊdɪŋ/
+21. **aggressive**: (adj) hung dữ /əˈɡresɪv/
+22. **dependent (on)**: (adj) phụ thuộc vào /dɪˈpendənt/
+
 
 ## Ways to protect local biodiversity
 (Các biện pháp bảo vệ đa dạng sinh học)

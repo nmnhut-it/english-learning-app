@@ -2,26 +2,25 @@
 
 ## Vocabulary
 
-| Word | IPA | Part of Speech | Meaning |
-|------|-----|----------------|---------|
-| peer pressure | /pɪə ˈpreʃə/ | n | áp lực đồng trang lứa |
-| hang out | /hæŋ aʊt/ | phr v | đi chơi, dành thời gian |
-| depression | /dɪˈpreʃn/ | n | trầm cảm |
-| self-confidence | /self ˈkɒnfɪdəns/ | n | sự tự tin |
-| influence | /ˈɪnfluəns/ | n, v | ảnh hưởng |
-| be accepted | /biː əkˈseptɪd/ | v | được chấp nhận |
-| bullied | /ˈbʊlid/ | v | bị bắt nạt |
-| the odd one out | /ði ɒd wʌn aʊt/ | n phr | người khác biệt, lạc lõng |
-| stand up to | /stænd ʌp tə/ | phr v | đối đầu với |
-| hesitate | /ˈhezɪteɪt/ | v | do dự, ngập ngừng |
-| school performance | /skuːl pəˈfɔːməns/ | n | thành tích học tập |
-| rebellious | /rɪˈbeljəs/ | adj | nổi loạn |
-| appearance | /əˈpɪərəns/ | n | ngoại hình |
-| approve (of) | /əˈpruːv/ | v | chấp thuận |
-| behaviour | /bɪˈheɪvjə/ | n | hành vi |
-| overprotective | /ˌəʊvəprəˈtektɪv/ | adj | bảo bọc quá mức |
-| perspective | /pəˈspektɪv/ | n | quan điểm |
-| empathy | /ˈempəθi/ | n | sự đồng cảm |
+1. **peer pressure**: (n) áp lực đồng trang lứa /pɪə ˈpreʃə/
+2. **hang out**: (phr v) đi chơi, dành thời gian /hæŋ aʊt/
+3. **depression**: (n) trầm cảm /dɪˈpreʃn/
+4. **self-confidence**: (n) sự tự tin /self ˈkɒnfɪdəns/
+5. **influence**: (n, v) ảnh hưởng /ˈɪnfluəns/
+6. **be accepted**: (v) được chấp nhận /biː əkˈseptɪd/
+7. **bullied**: (v) bị bắt nạt /ˈbʊlid/
+8. **the odd one out**: (n phr) người khác biệt, lạc lõng /ði ɒd wʌn aʊt/
+9. **stand up to**: (phr v) đối đầu với /stænd ʌp tə/
+10. **hesitate**: (v) do dự, ngập ngừng /ˈhezɪteɪt/
+11. **school performance**: (n) thành tích học tập /skuːl pəˈfɔːməns/
+12. **rebellious**: (adj) nổi loạn /rɪˈbeljəs/
+13. **appearance**: (n) ngoại hình /əˈpɪərəns/
+14. **approve (of)**: (v) chấp thuận /əˈpruːv/
+15. **behaviour**: (n) hành vi /bɪˈheɪvjə/
+16. **overprotective**: (adj) bảo bọc quá mức /ˌəʊvəprəˈtektɪv/
+17. **perspective**: (n) quan điểm /pəˈspektɪv/
+18. **empathy**: (n) sự đồng cảm /ˈempəθi/
+
 
 ## Peer pressure (Áp lực đồng trang lứa)
 

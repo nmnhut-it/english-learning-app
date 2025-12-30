@@ -2,26 +2,25 @@
 
 ## Vocabulary
 
-| Word | IPA | Part of Speech | Meaning |
-|------|-----|----------------|---------|
-| independent | /ˌɪndɪˈpendənt/ | adj | độc lập, tự lập |
-| independence | /ˌɪndɪˈpendəns/ | n | sự độc lập |
-| self-assessment | /self əˈsesmənt/ | n | tự đánh giá |
-| decision-making | /dɪˈsɪʒn ˈmeɪkɪŋ/ | n | việc ra quyết định |
-| time-management | /taɪm ˈmænɪdʒmənt/ | n | quản lý thời gian |
-| life skills | /laɪf skɪlz/ | n | kỹ năng sống |
-| get around | /ɡet əˈraʊnd/ | phr v | đi lại, di chuyển |
-| come up with | /kʌm ʌp wɪð/ | phr v | nghĩ ra, đưa ra |
-| carry out | /ˈkæri aʊt/ | phr v | thực hiện, tiến hành |
-| get into the habit of | /ɡet ˈɪntə ðə ˈhæbɪt əv/ | phr | tạo thói quen |
-| make use of | /meɪk juːs əv/ | phr | tận dụng |
-| public transport | /ˈpʌblɪk ˈtrænspɔːt/ | n | phương tiện giao thông công cộng |
-| household chores | /ˈhaʊshəʊld tʃɔːz/ | n | việc nhà |
-| laundry | /ˈlɔːndri/ | n | giặt giũ |
-| to-do list | /tə duː lɪst/ | n | danh sách việc cần làm |
-| brain development | /breɪn dɪˈveləpmənt/ | n | sự phát triển não bộ |
-| pocket money | /ˈpɒkɪt ˈmʌni/ | n | tiền tiêu vặt |
-| communicate | /kəˈmjuːnɪkeɪt/ | v | giao tiếp |
+1. **independent**: (adj) độc lập, tự lập /ˌɪndɪˈpendənt/
+2. **independence**: (n) sự độc lập /ˌɪndɪˈpendəns/
+3. **self-assessment**: (n) tự đánh giá /self əˈsesmənt/
+4. **decision-making**: (n) việc ra quyết định /dɪˈsɪʒn ˈmeɪkɪŋ/
+5. **time-management**: (n) quản lý thời gian /taɪm ˈmænɪdʒmənt/
+6. **life skills**: (n) kỹ năng sống /laɪf skɪlz/
+7. **get around**: (phr v) đi lại, di chuyển /ɡet əˈraʊnd/
+8. **come up with**: (phr v) nghĩ ra, đưa ra /kʌm ʌp wɪð/
+9. **carry out**: (phr v) thực hiện, tiến hành /ˈkæri aʊt/
+10. **get into the habit of**: (phr) tạo thói quen /ɡet ˈɪntə ðə ˈhæbɪt əv/
+11. **make use of**: (phr) tận dụng /meɪk juːs əv/
+12. **public transport**: (n) phương tiện giao thông công cộng /ˈpʌblɪk ˈtrænspɔːt/
+13. **household chores**: (n) việc nhà /ˈhaʊshəʊld tʃɔːz/
+14. **laundry**: (n) giặt giũ /ˈlɔːndri/
+15. **to-do list**: (n) danh sách việc cần làm /tə duː lɪst/
+16. **brain development**: (n) sự phát triển não bộ /breɪn dɪˈveləpmənt/
+17. **pocket money**: (n) tiền tiêu vặt /ˈpɒkɪt ˈmʌni/
+18. **communicate**: (v) giao tiếp /kəˈmjuːnɪkeɪt/
+
 
 ## How to become independent
 (Cách để trở nên tự lập)

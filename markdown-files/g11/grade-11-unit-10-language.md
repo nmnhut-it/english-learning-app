@@ -2,28 +2,27 @@
 
 ## Vocabulary
 
-| Word | IPA | Part of Speech | Meaning |
-|------|-----|----------------|---------|
-| native | /ˈneɪtɪv/ | adj | bản địa |
-| tropical forest | /ˈtrɒpɪkl ˈfɒrɪst/ | n | rừng nhiệt đới |
-| species | /ˈspiːʃiːz/ | n | loài |
-| conservation | /ˌkɒnsəˈveɪʃn/ | n | sự bảo tồn |
-| mammal | /ˈmæml/ | n | động vật có vú |
-| endangered species | /ɪnˈdeɪndʒəd ˈspiːʃiːz/ | n | loài có nguy cơ tuyệt chủng |
-| nature reserve | /ˈneɪtʃə rɪˈzɜːv/ | n | khu bảo tồn thiên nhiên |
-| life expectancy | /laɪf ɪkˈspektənsi/ | n | tuổi thọ |
-| rainforest | /ˈreɪnˌfɒrɪst/ | n | rừng mưa |
-| vocational school | /vəʊˈkeɪʃənl skuːl/ | n | trường dạy nghề |
-| wildlife | /ˈwaɪldlaɪf/ | n | động vật hoang dã |
-| swimming pool | /ˈswɪmɪŋ puːl/ | n | bể bơi |
-| sea level | /siː ˈlevl/ | n | mực nước biển |
-| mobile phone | /ˈməʊbaɪl fəʊn/ | n | điện thoại di động |
-| global warming | /ˈɡləʊbl ˈwɔːmɪŋ/ | n | sự nóng lên toàn cầu |
-| compound noun | /ˈkɒmpaʊnd naʊn/ | n | danh từ ghép |
-| question tag | /ˈkwestʃən tæɡ/ | n | câu hỏi đuôi |
-| intonation | /ˌɪntəˈneɪʃn/ | n | ngữ điệu |
-| fossil fuel | /ˈfɒsl fjuːəl/ | n | nhiên liệu hóa thạch |
-| alternative energy | /ɔːlˈtɜːnətɪv ˈenədʒi/ | n | năng lượng thay thế |
+1. **native**: (adj) bản địa /ˈneɪtɪv/
+2. **tropical forest**: (n) rừng nhiệt đới /ˈtrɒpɪkl ˈfɒrɪst/
+3. **species**: (n) loài /ˈspiːʃiːz/
+4. **conservation**: (n) sự bảo tồn /ˌkɒnsəˈveɪʃn/
+5. **mammal**: (n) động vật có vú /ˈmæml/
+6. **endangered species**: (n) loài có nguy cơ tuyệt chủng /ɪnˈdeɪndʒəd ˈspiːʃiːz/
+7. **nature reserve**: (n) khu bảo tồn thiên nhiên /ˈneɪtʃə rɪˈzɜːv/
+8. **life expectancy**: (n) tuổi thọ /laɪf ɪkˈspektənsi/
+9. **rainforest**: (n) rừng mưa /ˈreɪnˌfɒrɪst/
+10. **vocational school**: (n) trường dạy nghề /vəʊˈkeɪʃənl skuːl/
+11. **wildlife**: (n) động vật hoang dã /ˈwaɪldlaɪf/
+12. **swimming pool**: (n) bể bơi /ˈswɪmɪŋ puːl/
+13. **sea level**: (n) mực nước biển /siː ˈlevl/
+14. **mobile phone**: (n) điện thoại di động /ˈməʊbaɪl fəʊn/
+15. **global warming**: (n) sự nóng lên toàn cầu /ˈɡləʊbl ˈwɔːmɪŋ/
+16. **compound noun**: (n) danh từ ghép /ˈkɒmpaʊnd naʊn/
+17. **question tag**: (n) câu hỏi đuôi /ˈkwestʃən tæɡ/
+18. **intonation**: (n) ngữ điệu /ˌɪntəˈneɪʃn/
+19. **fossil fuel**: (n) nhiên liệu hóa thạch /ˈfɒsl fjuːəl/
+20. **alternative energy**: (n) năng lượng thay thế /ɔːlˈtɜːnətɪv ˈenədʒi/
+
 
 ## Pronunciation
 
