@@ -42,8 +42,8 @@ echo 🚀 Starting servers...
 echo.
 
 :: Kill existing processes on our ports
-for /f "tokens=5" %%a in ('netstat -aon ^| findstr :8080 ^| findstr LISTENING') do (
-    echo Stopping existing process on port 8080...
+for /f "tokens=5" %%a in ('netstat -aon ^| findstr :3006 ^| findstr LISTENING') do (
+    echo Stopping existing process on port 3006...
     taskkill /PID %%a /F 2>nul
 )
 for /f "tokens=5" %%a in ('netstat -aon ^| findstr :3005 ^| findstr LISTENING') do (
@@ -55,11 +55,11 @@ timeout /t 1 /nobreak >nul
 
 :: Start V2 Game Server
 echo.
-echo 📚 Starting Vocabulary Game (port 8080)...
+echo 📚 Starting Vocabulary Game (port 3006)...
 if defined USE_NODE (
-    start "Vocabulary Game" cmd /k "cd /d v2 && npx serve -l 8080"
+    start "Vocabulary Game" cmd /k "cd /d v2 && npx serve -l 3006"
 ) else (
-    start "Vocabulary Game" cmd /k "cd /d v2 && %PYTHON_CMD% -m http.server 8080"
+    start "Vocabulary Game" cmd /k "cd /d v2 && %PYTHON_CMD% -m http.server 3006"
 )
 
 :: Wait for game server to start
@@ -88,7 +88,7 @@ echo  ✅ All services started!
 echo ========================================
 echo.
 echo  🎮 Vocabulary Game:
-echo     http://localhost:8080
+echo     http://localhost:3006
 echo.
 if exist "v3-viewer\server.js" (
     echo  📖 Markdown Viewer:
@@ -112,7 +112,7 @@ echo.
 
 :: Open browser
 echo Opening browser...
-start "" "http://localhost:8080"
+start "" "http://localhost:3006"
 
 echo.
 echo This window can be closed safely.

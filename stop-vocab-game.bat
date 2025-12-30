@@ -5,9 +5,9 @@ echo  🛑 Stopping Vocabulary Game Servers
 echo ========================================
 echo.
 
-:: Kill processes on port 8080 (Game)
-echo Stopping Vocabulary Game (port 8080)...
-for /f "tokens=5" %%a in ('netstat -aon ^| findstr :8080 ^| findstr LISTENING') do (
+:: Kill processes on port 3006 (Game)
+echo Stopping Vocabulary Game (port 3006)...
+for /f "tokens=5" %%a in ('netstat -aon ^| findstr :3006 ^| findstr LISTENING') do (
     taskkill /PID %%a /F 2>nul
 )
 
