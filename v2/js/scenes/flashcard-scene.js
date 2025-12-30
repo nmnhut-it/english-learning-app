@@ -1,5 +1,5 @@
 /**
- * Flashcard Scene - Learn vocabulary with interactive flashcards
+ * Flashcard Scene - Learn vocabulary with interactive flashcards (Vietnamese)
  */
 
 class FlashcardScene extends Phaser.Scene {
@@ -22,7 +22,7 @@ class FlashcardScene extends Phaser.Scene {
     this.createTopBar();
 
     // Instructions
-    this.add.text(GAME_WIDTH / 2, 90, 'Swipe or tap to flip. Learn vocabulary!', {
+    this.add.text(GAME_WIDTH / 2, 90, LANG.tapToFlip, {
       fontSize: '14px',
       fontFamily: 'Segoe UI, system-ui',
       color: COLOR_STRINGS.TEXT_MUTED,
@@ -34,15 +34,53 @@ class FlashcardScene extends Phaser.Scene {
     // Create buttons
     this.createActionButtons();
 
+    // Keyboard hints
+    this.add.text(GAME_WIDTH / 2, GAME_HEIGHT - 60,
+      `${LANG.keyboardHints.space} | ${LANG.keyboardHints.enter} | ${LANG.keyboardHints.backspace}`, {
+      fontSize: '11px',
+      fontFamily: 'Segoe UI, system-ui',
+      color: COLOR_STRINGS.TEXT_MUTED,
+    }).setOrigin(0.5);
+
+    // Setup keyboard controls
+    this.setupKeyboard();
+
     // Show first card
     this.showCard();
+  }
+
+  setupKeyboard() {
+    // Space to flip
+    this.input.keyboard.on('keydown-SPACE', () => this.flipCard());
+
+    // Enter for know
+    this.input.keyboard.on('keydown-ENTER', () => this.handleKnow());
+
+    // Backspace for learn
+    this.input.keyboard.on('keydown-BACKSPACE', () => this.handleLearn());
+
+    // Left/Right arrows for navigation (optional)
+    this.input.keyboard.on('keydown-RIGHT', () => this.handleKnow());
+    this.input.keyboard.on('keydown-LEFT', () => this.handleLearn());
+
+    // P to play pronunciation
+    this.input.keyboard.on('keydown-P', () => {
+      const word = this.words[this.currentIndex];
+      if (word) AudioManager.playWord(word.word);
+    });
+
+    // ESC to go back
+    this.input.keyboard.on('keydown-ESC', () => {
+      AudioManager.playEffect('click');
+      this.scene.start('MenuScene');
+    });
   }
 
   createTopBar() {
     this.add.rectangle(GAME_WIDTH / 2, 30, GAME_WIDTH, 60, COLORS.BG_CARD);
 
     // Back button
-    const backBtn = this.add.text(30, 30, '← Back', {
+    const backBtn = this.add.text(30, 30, LANG.back, {
       fontSize: '16px',
       fontFamily: 'Segoe UI, system-ui',
       color: COLOR_STRINGS.TEXT,
@@ -54,7 +92,7 @@ class FlashcardScene extends Phaser.Scene {
     });
 
     // Title
-    this.add.text(GAME_WIDTH / 2, 30, '📚 Learn Vocabulary', {
+    this.add.text(GAME_WIDTH / 2, 30, LANG.modes.flashcard.title, {
       fontSize: '20px',
       fontFamily: 'Segoe UI, system-ui',
       color: COLOR_STRINGS.TEXT,
@@ -93,20 +131,20 @@ class FlashcardScene extends Phaser.Scene {
   }
 
   createActionButtons() {
-    const y = GAME_HEIGHT - 90;
+    const y = GAME_HEIGHT - 100;
 
-    // Know button
-    this.createButton(GAME_WIDTH / 2 - 150, y, '✓ Know', COLORS.CORRECT, () => {
+    // Know button (Enter)
+    this.createButton(GAME_WIDTH / 2 - 150, y, LANG.know, COLORS.CORRECT, () => {
       this.handleKnow();
     });
 
-    // Flip button
-    this.createButton(GAME_WIDTH / 2, y, '↻ Flip', COLORS.SECONDARY, () => {
+    // Flip button (Space)
+    this.createButton(GAME_WIDTH / 2, y, LANG.flip, COLORS.SECONDARY, () => {
       this.flipCard();
     });
 
-    // Learn button
-    this.createButton(GAME_WIDTH / 2 + 150, y, '📚 Learn', COLORS.WARNING, () => {
+    // Learn button (Backspace)
+    this.createButton(GAME_WIDTH / 2 + 150, y, LANG.learn, COLORS.WARNING, () => {
       this.handleLearn();
     });
   }
@@ -189,7 +227,7 @@ class FlashcardScene extends Phaser.Scene {
       AudioManager.playWord(word.word);
     });
 
-    const tapHint = this.add.text(0, 100, 'Tap to see meaning', {
+    const tapHint = this.add.text(0, 100, LANG.tapToFlip, {
       fontSize: '14px',
       fontFamily: 'Segoe UI, system-ui',
       color: COLOR_STRINGS.TEXT_MUTED,
@@ -317,26 +355,26 @@ class FlashcardScene extends Phaser.Scene {
     // Show completion screen
     const overlay = this.add.rectangle(GAME_WIDTH / 2, GAME_HEIGHT / 2, GAME_WIDTH, GAME_HEIGHT, 0x000000, 0.8);
 
-    this.add.text(GAME_WIDTH / 2, GAME_HEIGHT / 2 - 80, '🎉 Complete!', {
+    this.add.text(GAME_WIDTH / 2, GAME_HEIGHT / 2 - 80, LANG.complete, {
       fontSize: '36px',
       fontFamily: 'Segoe UI, system-ui',
       color: COLOR_STRINGS.TEXT,
       fontStyle: 'bold',
     }).setOrigin(0.5);
 
-    this.add.text(GAME_WIDTH / 2, GAME_HEIGHT / 2, `Score: ${this.score}`, {
+    this.add.text(GAME_WIDTH / 2, GAME_HEIGHT / 2, `${LANG.score}: ${this.score}`, {
       fontSize: '24px',
       fontFamily: 'Segoe UI, system-ui',
       color: COLOR_STRINGS.GOLD,
     }).setOrigin(0.5);
 
-    this.add.text(GAME_WIDTH / 2, GAME_HEIGHT / 2 + 40, `Words studied: ${this.words.length}`, {
+    this.add.text(GAME_WIDTH / 2, GAME_HEIGHT / 2 + 40, `${LANG.wordsStudied}: ${this.words.length}`, {
       fontSize: '18px',
       fontFamily: 'Segoe UI, system-ui',
       color: COLOR_STRINGS.TEXT_MUTED,
     }).setOrigin(0.5);
 
-    this.createButton(GAME_WIDTH / 2, GAME_HEIGHT / 2 + 120, 'Continue', COLORS.PRIMARY, () => {
+    this.createButton(GAME_WIDTH / 2, GAME_HEIGHT / 2 + 120, LANG.continue, COLORS.PRIMARY, () => {
       this.scene.start('MenuScene');
     });
   }

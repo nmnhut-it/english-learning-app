@@ -18,10 +18,12 @@ document.addEventListener('DOMContentLoaded', () => {
     scene: [
       BootScene,
       MenuScene,
+      LessonSelectScene,
       FlashcardScene,
       MeaningMatchScene,
       PronunciationScene,
       WordBlitzScene,
+      DailyChallengeScene,
     ],
   };
 

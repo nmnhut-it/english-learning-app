@@ -1,5 +1,5 @@
 /**
- * Menu Scene - Game mode selection
+ * Menu Scene - Game mode selection (Vietnamese)
  */
 
 class MenuScene extends Phaser.Scene {
@@ -14,42 +14,46 @@ class MenuScene extends Phaser.Scene {
     this.createBackground();
 
     // Title
-    this.add.text(GAME_WIDTH / 2, 50, '📖 Vocabulary Games', {
-      fontSize: '32px',
+    this.add.text(GAME_WIDTH / 2, 40, '📖 ' + LANG.appTitle, {
+      fontSize: '28px',
       fontFamily: 'Segoe UI, system-ui',
       color: COLOR_STRINGS.TEXT,
       fontStyle: 'bold',
     }).setOrigin(0.5);
 
-    // Vocabulary set selector
-    this.createVocabSelector(vocabSet);
+    // Current vocab set display
+    this.createVocabDisplay(vocabSet);
 
     // Stats
     const stats = ProgressTracker.getStats();
-    this.add.text(GAME_WIDTH / 2, 130, `⭐ ${stats.totalPoints} pts | 🔥 ${stats.currentStreak} streak | 📚 ${stats.totalWordsLearned} words`, {
-      fontSize: '14px',
+    this.add.text(GAME_WIDTH / 2, 115, `⭐ ${stats.totalPoints} ${LANG.points} | 🔥 ${stats.currentStreak} ${LANG.streak} | 📚 ${stats.totalWordsLearned} ${LANG.words}`, {
+      fontSize: '13px',
       fontFamily: 'Segoe UI, system-ui',
       color: COLOR_STRINGS.TEXT_MUTED,
     }).setOrigin(0.5);
 
     // Game mode cards
     const modes = [
-      { key: 'FlashcardScene', title: '📚 Learn', desc: 'Study with flashcards', color: COLORS.PRIMARY },
-      { key: 'MeaningMatchScene', title: '🎯 Meaning Match', desc: 'Match words to meanings', color: COLORS.SECONDARY },
-      { key: 'PronunciationScene', title: '🔊 Listen & Select', desc: 'Hear and identify words', color: 0x06b6d4 },
-      { key: 'WordBlitzScene', title: '⚡ Word Blitz', desc: 'Timed matching game', color: COLORS.WARNING },
+      { key: 'FlashcardScene', title: LANG.modes.flashcard.title, desc: LANG.modes.flashcard.desc, color: COLORS.PRIMARY, hotkey: '1' },
+      { key: 'MeaningMatchScene', title: LANG.modes.meaningMatch.title, desc: LANG.modes.meaningMatch.desc, color: COLORS.SECONDARY, hotkey: '2' },
+      { key: 'PronunciationScene', title: LANG.modes.pronunciation.title, desc: LANG.modes.pronunciation.desc, color: 0x06b6d4, hotkey: '3' },
+      { key: 'WordBlitzScene', title: LANG.modes.wordBlitz.title, desc: LANG.modes.wordBlitz.desc, color: COLORS.WARNING, hotkey: '4' },
+      { key: 'DailyChallengeScene', title: LANG.modes.dailyChallenge.title, desc: LANG.modes.dailyChallenge.desc, color: COLORS.STREAK, hotkey: '5' },
     ];
 
     modes.forEach((mode, i) => {
-      this.createModeCard(GAME_WIDTH / 2, 200 + i * 95, mode);
+      this.createModeCard(GAME_WIDTH / 2, 165 + i * 80, mode);
     });
 
-    // Footer
-    this.add.text(GAME_WIDTH / 2, GAME_HEIGHT - 30, 'Chạm vào game mode để bắt đầu! 🎮', {
-      fontSize: '14px',
+    // Footer with keyboard hints
+    this.add.text(GAME_WIDTH / 2, GAME_HEIGHT - 30, '1-5: Chọn mode | L: Đổi bài | ' + LANG.footer, {
+      fontSize: '12px',
       fontFamily: 'Segoe UI, system-ui',
       color: COLOR_STRINGS.TEXT_MUTED,
     }).setOrigin(0.5);
+
+    // Keyboard shortcuts
+    this.setupKeyboard(modes);
 
     // Update streak
     ProgressTracker.updateStreak();
@@ -66,84 +70,89 @@ class MenuScene extends Phaser.Scene {
     }
   }
 
-  createVocabSelector(vocabSet) {
-    const sets = getAllVocabSets();
-    const y = 90;
+  createVocabDisplay(vocabSet) {
+    const y = 78;
 
-    // Current set display
+    // Current set display - clickable to change lesson
     const setDisplay = this.add.container(GAME_WIDTH / 2, y);
 
-    const bg = this.add.rectangle(0, 0, 400, 35, COLORS.BG_CARD)
+    const bg = this.add.rectangle(0, 0, 500, 32, COLORS.BG_CARD)
       .setStrokeStyle(2, COLORS.SECONDARY);
 
-    const text = this.add.text(0, 0, `${vocabSet.title} (${vocabSet.items.length} words)`, {
-      fontSize: '16px',
+    const text = this.add.text(0, 0, `📘 ${vocabSet.title} (${vocabSet.items.length} từ)`, {
+      fontSize: '15px',
       fontFamily: 'Segoe UI, system-ui',
       color: COLOR_STRINGS.SECONDARY,
     }).setOrigin(0.5);
 
-    // Arrows
-    const leftArrow = this.add.text(-180, 0, '◀', {
-      fontSize: '20px',
+    const changeBtn = this.add.text(220, 0, '[Đổi bài]', {
+      fontSize: '12px',
+      fontFamily: 'Segoe UI, system-ui',
       color: COLOR_STRINGS.TEXT_MUTED,
-    }).setOrigin(0.5).setInteractive({ useHandCursor: true });
+    }).setOrigin(0, 0.5).setInteractive({ useHandCursor: true });
 
-    const rightArrow = this.add.text(180, 0, '▶', {
-      fontSize: '20px',
-      color: COLOR_STRINGS.TEXT_MUTED,
-    }).setOrigin(0.5).setInteractive({ useHandCursor: true });
+    setDisplay.add([bg, text, changeBtn]);
+    setDisplay.setSize(500, 32);
+    setDisplay.setInteractive({ useHandCursor: true });
 
-    setDisplay.add([bg, text, leftArrow, rightArrow]);
-
-    // Navigation
-    let currentIndex = sets.findIndex(s => s.id === vocabSet.id);
-
-    const updateDisplay = () => {
-      const set = sets[currentIndex];
-      setCurrentVocabSet(set.id);
-      text.setText(`${set.title} (${set.items.length} words)`);
-    };
-
-    leftArrow.on('pointerdown', () => {
-      currentIndex = (currentIndex - 1 + sets.length) % sets.length;
-      updateDisplay();
+    // Click to open lesson selector
+    setDisplay.on('pointerdown', () => {
       AudioManager.playEffect('click');
+      this.scene.start('LessonSelectScene');
     });
 
-    rightArrow.on('pointerdown', () => {
-      currentIndex = (currentIndex + 1) % sets.length;
-      updateDisplay();
+    changeBtn.on('pointerover', () => changeBtn.setColor(COLOR_STRINGS.SECONDARY));
+    changeBtn.on('pointerout', () => changeBtn.setColor(COLOR_STRINGS.TEXT_MUTED));
+  }
+
+  setupKeyboard(modes) {
+    // Number keys 1-5 for game modes
+    modes.forEach((mode, i) => {
+      this.input.keyboard.on(`keydown-${mode.hotkey}`, () => {
+        AudioManager.playEffect('click');
+        this.scene.start(mode.key);
+      });
+    });
+
+    // L key to open lesson selector
+    this.input.keyboard.on('keydown-L', () => {
       AudioManager.playEffect('click');
+      this.scene.start('LessonSelectScene');
     });
   }
 
   createModeCard(x, y, mode) {
     const container = this.add.container(x, y);
     const width = 650;
-    const height = 80;
+    const height = 68;
 
     const bg = this.add.rectangle(0, 0, width, height, COLORS.BG_CARD)
       .setStrokeStyle(2, mode.color);
 
-    const title = this.add.text(-width / 2 + 30, -12, mode.title, {
-      fontSize: '22px',
+    const title = this.add.text(-width / 2 + 30, -10, mode.title, {
+      fontSize: '20px',
       fontFamily: 'Segoe UI, system-ui',
       color: COLOR_STRINGS.TEXT,
       fontStyle: 'bold',
     }).setOrigin(0, 0.5);
 
-    const desc = this.add.text(-width / 2 + 30, 15, mode.desc, {
-      fontSize: '14px',
+    const desc = this.add.text(-width / 2 + 30, 14, mode.desc, {
+      fontSize: '13px',
       fontFamily: 'Segoe UI, system-ui',
       color: COLOR_STRINGS.TEXT_MUTED,
     }).setOrigin(0, 0.5);
 
-    const arrow = this.add.text(width / 2 - 30, 0, '▶', {
-      fontSize: '24px',
-      color: COLOR_STRINGS.TEXT_MUTED,
+    // Hotkey indicator
+    const hotkeyBg = this.add.rectangle(width / 2 - 40, 0, 36, 36, mode.color, 0.3)
+      .setStrokeStyle(1, mode.color);
+    const hotkeyText = this.add.text(width / 2 - 40, 0, mode.hotkey, {
+      fontSize: '18px',
+      fontFamily: 'Segoe UI, system-ui',
+      color: COLOR_STRINGS.TEXT,
+      fontStyle: 'bold',
     }).setOrigin(0.5);
 
-    container.add([bg, title, desc, arrow]);
+    container.add([bg, title, desc, hotkeyBg, hotkeyText]);
     container.setSize(width, height);
     container.setInteractive({ useHandCursor: true });
 

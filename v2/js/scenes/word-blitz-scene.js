@@ -1,5 +1,5 @@
 /**
- * Word Blitz Scene - Timed matching game
+ * Word Blitz Scene - Timed matching game (Vietnamese)
  */
 
 class WordBlitzScene extends Phaser.Scene {
@@ -29,6 +29,17 @@ class WordBlitzScene extends Phaser.Scene {
     // Timer bar
     this.createTimerBar();
 
+    // Keyboard hints
+    this.add.text(GAME_WIDTH / 2, GAME_HEIGHT - 20,
+      '1-4: Chọn đáp án | ESC: Quay lại', {
+      fontSize: '11px',
+      fontFamily: 'Segoe UI, system-ui',
+      color: COLOR_STRINGS.TEXT_MUTED,
+    }).setOrigin(0.5);
+
+    // Setup keyboard
+    this.setupKeyboard();
+
     // Start countdown
     this.timer = this.time.addEvent({
       delay: 1000,
@@ -41,11 +52,32 @@ class WordBlitzScene extends Phaser.Scene {
     this.showWord();
   }
 
+  setupKeyboard() {
+    // 1-4 for options
+    ['ONE', 'TWO', 'THREE', 'FOUR'].forEach((key, i) => {
+      this.input.keyboard.on(`keydown-${key}`, () => this.selectOptionByIndex(i));
+    });
+
+    // ESC to go back
+    this.input.keyboard.on('keydown-ESC', () => {
+      AudioManager.playEffect('click');
+      if (this.timer) this.timer.remove();
+      this.scene.start('MenuScene');
+    });
+  }
+
+  selectOptionByIndex(index) {
+    if (this.optionButtons && this.optionButtons[index] && !this.isGameOver) {
+      const btn = this.optionButtons[index];
+      this.handleAnswer(btn.isCorrect, btn, btn.optionBg);
+    }
+  }
+
   createTopBar() {
     this.add.rectangle(GAME_WIDTH / 2, 30, GAME_WIDTH, 60, COLORS.BG_CARD);
 
     // Back button
-    const backBtn = this.add.text(30, 30, '← Back', {
+    const backBtn = this.add.text(30, 30, LANG.back, {
       fontSize: '16px',
       fontFamily: 'Segoe UI, system-ui',
       color: COLOR_STRINGS.TEXT,
@@ -58,7 +90,7 @@ class WordBlitzScene extends Phaser.Scene {
     });
 
     // Title
-    this.add.text(GAME_WIDTH / 2, 30, '⚡ Word Blitz', {
+    this.add.text(GAME_WIDTH / 2, 30, LANG.modes.wordBlitz.title, {
       fontSize: '20px',
       fontFamily: 'Segoe UI, system-ui',
       color: COLOR_STRINGS.TEXT,
@@ -157,9 +189,11 @@ class WordBlitzScene extends Phaser.Scene {
     const options = this.generateOptions(this.currentWord);
 
     // Option buttons
+    this.optionButtons = [];
     options.forEach((option, i) => {
       const y = 280 + i * 70;
-      const btn = this.createOptionButton(GAME_WIDTH / 2, y, option, option === this.currentWord.meaning);
+      const btn = this.createOptionButton(GAME_WIDTH / 2, y, option, option === this.currentWord.meaning, i);
+      this.optionButtons.push(btn);
       this.wordContainer.add(btn);
     });
 
@@ -167,7 +201,7 @@ class WordBlitzScene extends Phaser.Scene {
     AudioManager.playWord(this.currentWord.word);
   }
 
-  createOptionButton(x, y, meaning, isCorrect) {
+  createOptionButton(x, y, meaning, isCorrect, index) {
     const container = this.add.container(x, y);
     const width = 500;
     const height = 55;
@@ -175,17 +209,30 @@ class WordBlitzScene extends Phaser.Scene {
     const bg = this.add.rectangle(0, 0, width, height, COLORS.BG_CARD)
       .setStrokeStyle(2, COLORS.SECONDARY);
 
-    const text = this.add.text(0, 0, meaning, {
-      fontSize: '16px',
+    // Hotkey indicator
+    const hotkeyBg = this.add.rectangle(-width/2 + 25, 0, 30, 30, COLORS.SECONDARY, 0.3);
+    const hotkeyText = this.add.text(-width/2 + 25, 0, String(index + 1), {
+      fontSize: '14px',
       fontFamily: 'Segoe UI, system-ui',
       color: COLOR_STRINGS.TEXT,
-      wordWrap: { width: width - 30 },
+      fontStyle: 'bold',
+    }).setOrigin(0.5);
+
+    const text = this.add.text(15, 0, meaning, {
+      fontSize: '15px',
+      fontFamily: 'Segoe UI, system-ui',
+      color: COLOR_STRINGS.TEXT,
+      wordWrap: { width: width - 80 },
       align: 'center',
     }).setOrigin(0.5);
 
-    container.add([bg, text]);
+    container.add([bg, hotkeyBg, hotkeyText, text]);
     container.setSize(width, height);
     container.setInteractive({ useHandCursor: true });
+
+    // Store references for keyboard selection
+    container.isCorrect = isCorrect;
+    container.optionBg = bg;
 
     container.on('pointerover', () => {
       bg.setFillStyle(COLORS.BG_LIGHT);
@@ -293,26 +340,26 @@ class WordBlitzScene extends Phaser.Scene {
 
     const overlay = this.add.rectangle(GAME_WIDTH / 2, GAME_HEIGHT / 2, GAME_WIDTH, GAME_HEIGHT, 0x000000, 0.8);
 
-    this.add.text(GAME_WIDTH / 2, GAME_HEIGHT / 2 - 100, '⚡ Time\'s Up!', {
+    this.add.text(GAME_WIDTH / 2, GAME_HEIGHT / 2 - 100, '⚡ Hết giờ!', {
       fontSize: '36px',
       fontFamily: 'Segoe UI, system-ui',
       color: COLOR_STRINGS.TEXT,
       fontStyle: 'bold',
     }).setOrigin(0.5);
 
-    this.add.text(GAME_WIDTH / 2, GAME_HEIGHT / 2 - 30, `Score: ${this.score}`, {
+    this.add.text(GAME_WIDTH / 2, GAME_HEIGHT / 2 - 30, `${LANG.score}: ${this.score}`, {
       fontSize: '28px',
       fontFamily: 'Segoe UI, system-ui',
       color: COLOR_STRINGS.GOLD,
     }).setOrigin(0.5);
 
-    this.add.text(GAME_WIDTH / 2, GAME_HEIGHT / 2 + 20, `Words answered: ${this.wordIndex}`, {
+    this.add.text(GAME_WIDTH / 2, GAME_HEIGHT / 2 + 20, `Số từ đã trả lời: ${this.wordIndex}`, {
       fontSize: '18px',
       fontFamily: 'Segoe UI, system-ui',
       color: COLOR_STRINGS.TEXT_MUTED,
     }).setOrigin(0.5);
 
-    this.add.text(GAME_WIDTH / 2, GAME_HEIGHT / 2 + 50, `Max streak: 🔥 ${this.maxStreak}`, {
+    this.add.text(GAME_WIDTH / 2, GAME_HEIGHT / 2 + 50, `Chuỗi dài nhất: 🔥 ${this.maxStreak}`, {
       fontSize: '18px',
       fontFamily: 'Segoe UI, system-ui',
       color: COLOR_STRINGS.SECONDARY,
@@ -321,7 +368,7 @@ class WordBlitzScene extends Phaser.Scene {
     // Continue button
     const btn = this.add.container(GAME_WIDTH / 2, GAME_HEIGHT / 2 + 130);
     const btnBg = this.add.rectangle(0, 0, 150, 50, COLORS.PRIMARY).setStrokeStyle(2, 0xffffff, 0.2);
-    const btnText = this.add.text(0, 0, 'Continue', {
+    const btnText = this.add.text(0, 0, LANG.continue, {
       fontSize: '18px',
       fontFamily: 'Segoe UI, system-ui',
       color: '#ffffff',

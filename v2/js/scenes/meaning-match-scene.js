@@ -1,5 +1,5 @@
 /**
- * Meaning Match Scene - Match words to their meanings
+ * Meaning Match Scene - Match words to their meanings (Vietnamese)
  */
 
 class MeaningMatchScene extends Phaser.Scene {
@@ -13,6 +13,8 @@ class MeaningMatchScene extends Phaser.Scene {
     this.selectedWord = null;
     this.selectedMeaning = null;
     this.matchedPairs = new Set();
+    this.selectedWordIndex = -1;
+    this.selectedMeaningIndex = -1;
   }
 
   create() {
@@ -27,21 +29,62 @@ class MeaningMatchScene extends Phaser.Scene {
     this.createTopBar();
 
     // Instructions
-    this.add.text(GAME_WIDTH / 2, 85, 'Match words with their meanings!', {
+    this.add.text(GAME_WIDTH / 2, 85, LANG.modes.meaningMatch.desc, {
       fontSize: '14px',
       fontFamily: 'Segoe UI, system-ui',
       color: COLOR_STRINGS.TEXT_MUTED,
     }).setOrigin(0.5);
 
+    // Keyboard hints
+    this.add.text(GAME_WIDTH / 2, GAME_HEIGHT - 50,
+      '1-4: Chọn từ trái | Q-R: Chọn nghĩa phải | ESC: Quay lại', {
+      fontSize: '11px',
+      fontFamily: 'Segoe UI, system-ui',
+      color: COLOR_STRINGS.TEXT_MUTED,
+    }).setOrigin(0.5);
+
+    // Setup keyboard
+    this.setupKeyboard();
+
     // Show first round
     this.showRound();
+  }
+
+  setupKeyboard() {
+    // 1-4 for left column (words)
+    ['ONE', 'TWO', 'THREE', 'FOUR'].forEach((key, i) => {
+      this.input.keyboard.on(`keydown-${key}`, () => this.selectWordByIndex(i));
+    });
+
+    // Q, W, E, R for right column (meanings)
+    ['Q', 'W', 'E', 'R'].forEach((key, i) => {
+      this.input.keyboard.on(`keydown-${key}`, () => this.selectMeaningByIndex(i));
+    });
+
+    // ESC to go back
+    this.input.keyboard.on('keydown-ESC', () => {
+      AudioManager.playEffect('click');
+      this.scene.start('MenuScene');
+    });
+  }
+
+  selectWordByIndex(index) {
+    if (this.wordCards && this.wordCards[index] && !this.wordCards[index].isMatched) {
+      this.handleCardClick(this.wordCards[index]);
+    }
+  }
+
+  selectMeaningByIndex(index) {
+    if (this.meaningCards && this.meaningCards[index] && !this.meaningCards[index].isMatched) {
+      this.handleCardClick(this.meaningCards[index]);
+    }
   }
 
   createTopBar() {
     this.add.rectangle(GAME_WIDTH / 2, 30, GAME_WIDTH, 60, COLORS.BG_CARD);
 
     // Back button
-    const backBtn = this.add.text(30, 30, '← Back', {
+    const backBtn = this.add.text(30, 30, LANG.back, {
       fontSize: '16px',
       fontFamily: 'Segoe UI, system-ui',
       color: COLOR_STRINGS.TEXT,
@@ -53,7 +96,7 @@ class MeaningMatchScene extends Phaser.Scene {
     });
 
     // Title
-    this.add.text(GAME_WIDTH / 2, 30, '🎯 Meaning Match', {
+    this.add.text(GAME_WIDTH / 2, 30, LANG.modes.meaningMatch.title, {
       fontSize: '20px',
       fontFamily: 'Segoe UI, system-ui',
       color: COLOR_STRINGS.TEXT,
@@ -291,20 +334,20 @@ class MeaningMatchScene extends Phaser.Scene {
     const overlay = this.add.rectangle(GAME_WIDTH / 2, GAME_HEIGHT / 2, GAME_WIDTH, GAME_HEIGHT, 0x000000, 0.8);
 
     const isWin = this.lives > 0;
-    this.add.text(GAME_WIDTH / 2, GAME_HEIGHT / 2 - 80, isWin ? '🎉 Complete!' : '💔 Game Over', {
+    this.add.text(GAME_WIDTH / 2, GAME_HEIGHT / 2 - 80, isWin ? LANG.complete : '💔 Hết mạng!', {
       fontSize: '36px',
       fontFamily: 'Segoe UI, system-ui',
       color: COLOR_STRINGS.TEXT,
       fontStyle: 'bold',
     }).setOrigin(0.5);
 
-    this.add.text(GAME_WIDTH / 2, GAME_HEIGHT / 2, `Score: ${this.score}`, {
+    this.add.text(GAME_WIDTH / 2, GAME_HEIGHT / 2, `${LANG.score}: ${this.score}`, {
       fontSize: '24px',
       fontFamily: 'Segoe UI, system-ui',
       color: COLOR_STRINGS.GOLD,
     }).setOrigin(0.5);
 
-    this.add.text(GAME_WIDTH / 2, GAME_HEIGHT / 2 + 40, `Rounds completed: ${this.currentRound}/${this.totalRounds}`, {
+    this.add.text(GAME_WIDTH / 2, GAME_HEIGHT / 2 + 40, `Vòng hoàn thành: ${this.currentRound}/${this.totalRounds}`, {
       fontSize: '18px',
       fontFamily: 'Segoe UI, system-ui',
       color: COLOR_STRINGS.TEXT_MUTED,
@@ -313,7 +356,7 @@ class MeaningMatchScene extends Phaser.Scene {
     // Continue button
     const btn = this.add.container(GAME_WIDTH / 2, GAME_HEIGHT / 2 + 120);
     const btnBg = this.add.rectangle(0, 0, 150, 50, COLORS.PRIMARY).setStrokeStyle(2, 0xffffff, 0.2);
-    const btnText = this.add.text(0, 0, 'Continue', {
+    const btnText = this.add.text(0, 0, LANG.continue, {
       fontSize: '18px',
       fontFamily: 'Segoe UI, system-ui',
       color: '#ffffff',

@@ -1,5 +1,5 @@
 /**
- * Pronunciation Scene - Listen and select the correct word
+ * Pronunciation Scene - Listen and select the correct word (Vietnamese)
  */
 
 class PronunciationScene extends Phaser.Scene {
@@ -23,21 +23,57 @@ class PronunciationScene extends Phaser.Scene {
     this.createTopBar();
 
     // Instructions
-    this.add.text(GAME_WIDTH / 2, 85, 'Listen and select the correct word!', {
+    this.add.text(GAME_WIDTH / 2, 85, LANG.modes.pronunciation.desc, {
       fontSize: '14px',
       fontFamily: 'Segoe UI, system-ui',
       color: COLOR_STRINGS.TEXT_MUTED,
     }).setOrigin(0.5);
 
+    // Keyboard hints
+    this.add.text(GAME_WIDTH / 2, GAME_HEIGHT - 30,
+      '1-4: Chọn đáp án | SPACE: Nghe lại | ESC: Quay lại', {
+      fontSize: '11px',
+      fontFamily: 'Segoe UI, system-ui',
+      color: COLOR_STRINGS.TEXT_MUTED,
+    }).setOrigin(0.5);
+
+    // Setup keyboard
+    this.setupKeyboard();
+
     // Show first question
     this.showQuestion();
+  }
+
+  setupKeyboard() {
+    // 1-4 for options
+    ['ONE', 'TWO', 'THREE', 'FOUR'].forEach((key, i) => {
+      this.input.keyboard.on(`keydown-${key}`, () => this.selectOptionByIndex(i));
+    });
+
+    // Space to replay audio
+    this.input.keyboard.on('keydown-SPACE', () => {
+      const currentWord = this.words[this.currentIndex];
+      if (currentWord) AudioManager.playWord(currentWord.word);
+    });
+
+    // ESC to go back
+    this.input.keyboard.on('keydown-ESC', () => {
+      AudioManager.playEffect('click');
+      this.scene.start('MenuScene');
+    });
+  }
+
+  selectOptionByIndex(index) {
+    if (this.optionButtons && this.optionButtons[index] && !this.hasAnswered) {
+      this.handleAnswer(this.optionButtons[index]);
+    }
   }
 
   createTopBar() {
     this.add.rectangle(GAME_WIDTH / 2, 30, GAME_WIDTH, 60, COLORS.BG_CARD);
 
     // Back button
-    const backBtn = this.add.text(30, 30, '← Back', {
+    const backBtn = this.add.text(30, 30, LANG.back, {
       fontSize: '16px',
       fontFamily: 'Segoe UI, system-ui',
       color: COLOR_STRINGS.TEXT,
@@ -49,7 +85,7 @@ class PronunciationScene extends Phaser.Scene {
     });
 
     // Title
-    this.add.text(GAME_WIDTH / 2, 30, '🔊 Listen & Select', {
+    this.add.text(GAME_WIDTH / 2, 30, LANG.modes.pronunciation.title, {
       fontSize: '20px',
       fontFamily: 'Segoe UI, system-ui',
       color: COLOR_STRINGS.TEXT,
@@ -111,7 +147,7 @@ class PronunciationScene extends Phaser.Scene {
     this.questionContainer.add(audioBtn);
 
     // Hint text
-    const hintText = this.add.text(GAME_WIDTH / 2, 290, 'Tap to hear the word', {
+    const hintText = this.add.text(GAME_WIDTH / 2, 290, 'Chạm để nghe phát âm', {
       fontSize: '14px',
       fontFamily: 'Segoe UI, system-ui',
       color: COLOR_STRINGS.TEXT_MUTED,
@@ -293,20 +329,20 @@ class PronunciationScene extends Phaser.Scene {
     const overlay = this.add.rectangle(GAME_WIDTH / 2, GAME_HEIGHT / 2, GAME_WIDTH, GAME_HEIGHT, 0x000000, 0.8);
 
     const isWin = this.lives > 0;
-    this.add.text(GAME_WIDTH / 2, GAME_HEIGHT / 2 - 80, isWin ? '🎉 Complete!' : '💔 Game Over', {
+    this.add.text(GAME_WIDTH / 2, GAME_HEIGHT / 2 - 80, isWin ? LANG.complete : '💔 Hết mạng!', {
       fontSize: '36px',
       fontFamily: 'Segoe UI, system-ui',
       color: COLOR_STRINGS.TEXT,
       fontStyle: 'bold',
     }).setOrigin(0.5);
 
-    this.add.text(GAME_WIDTH / 2, GAME_HEIGHT / 2, `Score: ${this.score}`, {
+    this.add.text(GAME_WIDTH / 2, GAME_HEIGHT / 2, `${LANG.score}: ${this.score}`, {
       fontSize: '24px',
       fontFamily: 'Segoe UI, system-ui',
       color: COLOR_STRINGS.GOLD,
     }).setOrigin(0.5);
 
-    this.add.text(GAME_WIDTH / 2, GAME_HEIGHT / 2 + 40, `Words identified: ${this.currentIndex}/${this.words.length}`, {
+    this.add.text(GAME_WIDTH / 2, GAME_HEIGHT / 2 + 40, `Số từ nhận diện: ${this.currentIndex}/${this.words.length}`, {
       fontSize: '18px',
       fontFamily: 'Segoe UI, system-ui',
       color: COLOR_STRINGS.TEXT_MUTED,
@@ -315,7 +351,7 @@ class PronunciationScene extends Phaser.Scene {
     // Continue button
     const btn = this.add.container(GAME_WIDTH / 2, GAME_HEIGHT / 2 + 120);
     const btnBg = this.add.rectangle(0, 0, 150, 50, COLORS.PRIMARY).setStrokeStyle(2, 0xffffff, 0.2);
-    const btnText = this.add.text(0, 0, 'Continue', {
+    const btnText = this.add.text(0, 0, LANG.continue, {
       fontSize: '18px',
       fontFamily: 'Segoe UI, system-ui',
       color: '#ffffff',
