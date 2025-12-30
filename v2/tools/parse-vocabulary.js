@@ -268,6 +268,11 @@ class VocabularyParser {
       // Extract grade, unit, lesson from filename
       const fileInfo = this.extractFileInfo(filePath);
 
+      // If unit not found from filename, try content header
+      if (!fileInfo.unit) {
+        fileInfo.unit = this.extractUnitFromContent(content);
+      }
+
       const vocabItems = this.parseContent(content, fileInfo);
 
       this.stats.filesProcessed++;
@@ -307,9 +312,18 @@ class VocabularyParser {
       grade = parseInt(gradeMatch[1], 10);
     }
 
+    // Try multiple unit patterns
     const unitMatch = filename.match(/(?:unit-?|u)(\d+)/i);
     if (unitMatch) {
       unit = parseInt(unitMatch[1], 10);
+    }
+
+    // Also check for "part_X" pattern (common in g6-g9 files)
+    if (!unit) {
+      const partMatch = filename.match(/part[_-]?(\d+)/i);
+      if (partMatch) {
+        unit = parseInt(partMatch[1], 10);
+      }
     }
 
     // Extract lesson type
@@ -322,6 +336,17 @@ class VocabularyParser {
     }
 
     return { filename, grade, unit, lesson };
+  }
+
+  /**
+   * Extract unit from content header (e.g., "UNIT 1: LEISURE TIME")
+   */
+  extractUnitFromContent(content) {
+    const unitHeaderMatch = content.match(/^\s*\*?\*?UNIT\s*(\d+)\s*[:\-]/im);
+    if (unitHeaderMatch) {
+      return parseInt(unitHeaderMatch[1], 10);
+    }
+    return null;
   }
 
   /**
