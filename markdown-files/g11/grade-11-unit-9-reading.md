@@ -1,5 +1,28 @@
 # Unit 9: Social Issues - Reading
 
+## Vocabulary
+
+| Word | IPA | Part of Speech | Meaning |
+|------|-----|----------------|---------|
+| peer pressure | /pɪə ˈpreʃə/ | n | áp lực đồng trang lứa |
+| hang out | /hæŋ aʊt/ | phr v | đi chơi, dành thời gian |
+| depression | /dɪˈpreʃn/ | n | trầm cảm |
+| self-confidence | /self ˈkɒnfɪdəns/ | n | sự tự tin |
+| influence | /ˈɪnfluəns/ | n, v | ảnh hưởng |
+| be accepted | /biː əkˈseptɪd/ | v | được chấp nhận |
+| bullied | /ˈbʊlid/ | v | bị bắt nạt |
+| the odd one out | /ði ɒd wʌn aʊt/ | n phr | người khác biệt, lạc lõng |
+| stand up to | /stænd ʌp tə/ | phr v | đối đầu với |
+| hesitate | /ˈhezɪteɪt/ | v | do dự, ngập ngừng |
+| school performance | /skuːl pəˈfɔːməns/ | n | thành tích học tập |
+| rebellious | /rɪˈbeljəs/ | adj | nổi loạn |
+| appearance | /əˈpɪərəns/ | n | ngoại hình |
+| approve (of) | /əˈpruːv/ | v | chấp thuận |
+| behaviour | /bɪˈheɪvjə/ | n | hành vi |
+| overprotective | /ˌəʊvəprəˈtektɪv/ | adj | bảo bọc quá mức |
+| perspective | /pəˈspektɪv/ | n | quan điểm |
+| empathy | /ˈempəθi/ | n | sự đồng cảm |
+
 ## Peer pressure (Áp lực đồng trang lứa)
 
 ### Exercise 1: Work in pairs. Discuss the question.

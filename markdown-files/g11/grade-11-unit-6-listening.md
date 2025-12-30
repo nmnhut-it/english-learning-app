@@ -1,5 +1,29 @@
 # Unit 6: Preserving our heritage - Listening
 
+## Vocabulary
+
+| Word | IPA | Part of Speech | Meaning |
+|------|-----|----------------|---------|
+| heritage | /ˈherɪtɪdʒ/ | n | di sản |
+| World Heritage Site | /wɜːld ˈherɪtɪdʒ saɪt/ | n | Di sản Thế giới |
+| scenic landscape | /ˈsiːnɪk ˈlændskeɪp/ | n | cảnh quan |
+| limestone karst | /ˈlaɪmstəʊn kɑːst/ | n | núi đá vôi |
+| cave | /keɪv/ | n | hang động |
+| rice paddy | /raɪs ˈpædi/ | n | ruộng lúa |
+| dynasty | /ˈdɪnəsti/ | n | triều đại |
+| temple | /ˈtempl/ | n | đền |
+| pagoda | /pəˈɡəʊdə/ | n | chùa |
+| biodiversity | /ˌbaɪəʊdaɪˈvɜːsəti/ | n | đa dạng sinh học |
+| ecotourism | /ˈiːkəʊˌtʊərɪzəm/ | n | du lịch sinh thái |
+| endangered species | /ɪnˈdeɪndʒəd ˈspiːʃiːz/ | n | loài có nguy cơ tuyệt chủng |
+| langur | /ˈlæŋɡə/ | n | voọc |
+| preservation | /ˌprezəˈveɪʃn/ | n | sự bảo tồn |
+| ancient capital | /ˈeɪnʃənt ˈkæpɪtl/ | n | cố đô |
+| primary forest | /ˈpraɪməri ˈfɒrɪst/ | n | rừng nguyên sinh |
+| valley | /ˈvæli/ | n | thung lũng |
+| natural state | /ˈnætʃrəl steɪt/ | n | trạng thái tự nhiên |
+| architecture | /ˈɑːkɪtektʃə/ | n | kiến trúc |
+
 ## A trip to Trang An Scenic Landscape Complex
 (Một chuyến đi đến Quần thể danh thắng Tràng An)
 

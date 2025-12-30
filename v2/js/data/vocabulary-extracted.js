@@ -1,6 +1,6 @@
 /**
  * Extracted Vocabulary Data
- * Generated: 2025-12-30T07:37:49.560Z
+ * Generated: 2025-12-30T07:46:29.058Z
  * Files processed: 599
  * Total words: 14928
  * After deduplication: 8232

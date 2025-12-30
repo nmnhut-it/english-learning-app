@@ -1,5 +1,28 @@
 # Unit 10: The Ecosystem - Writing
 
+## Vocabulary
+
+| Word | IPA | Part of Speech | Meaning |
+|------|-----|----------------|---------|
+| opinion essay | /əˈpɪnjən ˈeseɪ/ | n | bài luận ý kiến |
+| point of view | /pɔɪnt əv vjuː/ | n | quan điểm |
+| invest (in) | /ɪnˈvest/ | v | đầu tư |
+| healthcare | /ˈhelθkeə/ | n | chăm sóc sức khỏe |
+| unemployment | /ˌʌnɪmˈplɔɪmənt/ | n | thất nghiệp |
+| poverty | /ˈpɒvəti/ | n | nghèo đói |
+| flood | /flʌd/ | n | lũ lụt |
+| deforestation | /diːˌfɒrɪˈsteɪʃn/ | n | phá rừng |
+| soil erosion | /sɔɪl ɪˈrəʊʒn/ | n | xói mòn đất |
+| extinction | /ɪkˈstɪŋkʃn/ | n | sự tuyệt chủng |
+| livelihood | /ˈlaɪvlihʊd/ | n | sinh kế |
+| reverse | /rɪˈvɜːs/ | v | đảo ngược |
+| preserve | /prɪˈzɜːv/ | v | bảo tồn, gìn giữ |
+| prioritize | /praɪˈɒrətaɪz/ | v | ưu tiên |
+| crucial | /ˈkruːʃl/ | adj | quan trọng, then chốt |
+| scarcity | /ˈskeəsəti/ | n | sự khan hiếm |
+| neglect | /nɪˈɡlekt/ | v | bỏ bê, xao nhãng |
+| sustainable future | /səˈsteɪnəbl ˈfjuːtʃə/ | n | tương lai bền vững |
+
 ## An opinion essay about spending more money on restoring local ecosystems
 *(Một bài luận ý kiến về việc tiêu tiền cho việc giữ gìn hệ sinh thái địa phương)*
 

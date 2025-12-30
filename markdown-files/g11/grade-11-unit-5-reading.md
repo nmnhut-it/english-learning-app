@@ -1,5 +1,28 @@
 # Unit 5: Global Warming - Reading
 
+## Vocabulary
+
+| Word | IPA | Part of Speech | Meaning |
+|------|-----|----------------|---------|
+| climate change | /ˈklaɪmət tʃeɪndʒ/ | n | biến đổi khí hậu |
+| COP (Conference of Parties) | /kɒp/ | n | Hội nghị các bên |
+| emission | /ɪˈmɪʃn/ | n | sự phát thải |
+| greenhouse gas | /ˈɡriːnhaʊs ɡæs/ | n | khí nhà kính |
+| carbon | /ˈkɑːbən/ | n | cacbon |
+| methane | /ˈmiːθeɪn/ | n | khí mê-tan |
+| balance | /ˈbæləns/ | n | sự cân bằng |
+| coal | /kəʊl/ | n | than đá |
+| deforestation | /diːˌfɒrɪˈsteɪʃn/ | n | phá rừng |
+| landfill | /ˈlændfɪl/ | n | bãi chôn lấp rác |
+| renewable energy | /rɪˈnjuːəbl ˈenədʒi/ | n | năng lượng tái tạo |
+| solar energy | /ˈsəʊlə ˈenədʒi/ | n | năng lượng mặt trời |
+| wind power | /wɪnd ˈpaʊə/ | n | năng lượng gió |
+| hydropower | /ˈhaɪdrəʊpaʊə/ | n | thủy điện |
+| energy-efficient | /ˈenədʒi ɪˈfɪʃnt/ | adj | tiết kiệm năng lượng |
+| recycle | /ˌriːˈsaɪkl/ | v | tái chế |
+| conserve | /kənˈsɜːv/ | v | bảo tồn |
+| climate-friendly | /ˈklaɪmət ˈfrendli/ | adj | thân thiện với khí hậu |
+
 ## The UN Climate Change Conference
 
 ### Bài 1: Work in pairs. Look at the pictures and discuss the environmental problems you see.

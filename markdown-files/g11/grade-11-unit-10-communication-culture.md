@@ -1,5 +1,31 @@
 # Unit 10: The ecosystem - Communication and Culture/CLIL
 
+## Vocabulary
+
+| Word | IPA | Part of Speech | Meaning |
+|------|-----|----------------|---------|
+| elephant ride | /ˈelɪfənt raɪd/ | n | cưỡi voi |
+| creature | /ˈkriːtʃə/ | n | sinh vật |
+| animal cruelty | /ˈænɪml ˈkruːəlti/ | n | sự tàn ác với động vật |
+| bird-watching | /bɜːd ˈwɒtʃɪŋ/ | n | ngắm chim |
+| hiking | /ˈhaɪkɪŋ/ | n | đi bộ đường dài |
+| camping | /ˈkæmpɪŋ/ | n | cắm trại |
+| eco-friendly | /ˌiːkəʊ ˈfrendli/ | adj | thân thiện với môi trường |
+| reusable | /riːˈjuːzəbl/ | adj | có thể tái sử dụng |
+| potluck | /ˈpɒtlʌk/ | n | tiệc mỗi người mang một món |
+| decoration | /ˌdekəˈreɪʃn/ | n | đồ trang trí |
+| hectare | /ˈhekteə/ | n | héc ta |
+| carbon dioxide | /ˌkɑːbən daɪˈɒksaɪd/ | n | khí carbon dioxide |
+| food security | /fuːd sɪˈkjʊərəti/ | n | an ninh lương thực |
+| barrier reef | /ˈbæriə riːf/ | n | rạn san hô chắn |
+| scuba diving | /ˈskuːbə ˈdaɪvɪŋ/ | n | lặn có bình dưỡng khí |
+| snorkelling | /ˈsnɔːkəlɪŋ/ | n | lặn ống thở |
+| oil drilling | /ɔɪl ˈdrɪlɪŋ/ | n | khoan dầu |
+| no-take zone | /nəʊ teɪk zəʊn/ | n | khu vực cấm khai thác |
+| marine reserve | /məˈriːn rɪˈzɜːv/ | n | khu bảo tồn biển |
+| degraded land | /dɪˈɡreɪdɪd lænd/ | n | đất bị suy thoái |
+| mangrove forest | /ˈmæŋɡrəʊv ˈfɒrɪst/ | n | rừng ngập mặn |
+
 ## Everyday English
 
 ### Expressing likes and dislikes

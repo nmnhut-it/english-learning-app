@@ -1,5 +1,30 @@
 # Unit 10: The ecosystem - Language
 
+## Vocabulary
+
+| Word | IPA | Part of Speech | Meaning |
+|------|-----|----------------|---------|
+| native | /ˈneɪtɪv/ | adj | bản địa |
+| tropical forest | /ˈtrɒpɪkl ˈfɒrɪst/ | n | rừng nhiệt đới |
+| species | /ˈspiːʃiːz/ | n | loài |
+| conservation | /ˌkɒnsəˈveɪʃn/ | n | sự bảo tồn |
+| mammal | /ˈmæml/ | n | động vật có vú |
+| endangered species | /ɪnˈdeɪndʒəd ˈspiːʃiːz/ | n | loài có nguy cơ tuyệt chủng |
+| nature reserve | /ˈneɪtʃə rɪˈzɜːv/ | n | khu bảo tồn thiên nhiên |
+| life expectancy | /laɪf ɪkˈspektənsi/ | n | tuổi thọ |
+| rainforest | /ˈreɪnˌfɒrɪst/ | n | rừng mưa |
+| vocational school | /vəʊˈkeɪʃənl skuːl/ | n | trường dạy nghề |
+| wildlife | /ˈwaɪldlaɪf/ | n | động vật hoang dã |
+| swimming pool | /ˈswɪmɪŋ puːl/ | n | bể bơi |
+| sea level | /siː ˈlevl/ | n | mực nước biển |
+| mobile phone | /ˈməʊbaɪl fəʊn/ | n | điện thoại di động |
+| global warming | /ˈɡləʊbl ˈwɔːmɪŋ/ | n | sự nóng lên toàn cầu |
+| compound noun | /ˈkɒmpaʊnd naʊn/ | n | danh từ ghép |
+| question tag | /ˈkwestʃən tæɡ/ | n | câu hỏi đuôi |
+| intonation | /ˌɪntəˈneɪʃn/ | n | ngữ điệu |
+| fossil fuel | /ˈfɒsl fjuːəl/ | n | nhiên liệu hóa thạch |
+| alternative energy | /ɔːlˈtɜːnətɪv ˈenədʒi/ | n | năng lượng thay thế |
+
 ## Pronunciation
 
 ### Exercise 1: Listen to these conversations

@@ -1,5 +1,45 @@
 # Unit 10: The Ecosystem - Reading
 
+## Vocabulary
+
+| Word | IPA | Part of Speech | Meaning |
+|------|-----|----------------|---------|
+| ecosystem | /ˈiːkəʊˌsɪstəm/ | n | hệ sinh thái |
+| biodiversity | /ˌbaɪəʊdaɪˈvɜːsəti/ | n | sự đa dạng sinh học |
+| conservation | /ˌkɒnsəˈveɪʃn/ | n | sự bảo tồn |
+| wetland | /ˈwetlənd/ | n | vùng đất ngập nước |
+| mangrove forest | /ˈmæŋɡrəʊv ˈfɒrɪst/ | n | rừng ngập mặn |
+| habitat | /ˈhæbɪtæt/ | n | môi trường sống |
+| flora and fauna | /ˈflɔːrə ənd ˈfɔːnə/ | n | hệ động thực vật |
+| mammal | /ˈmæml/ | n | động vật có vú |
+| species | /ˈspiːʃiːz/ | n | loài |
+| endangered | /ɪnˈdeɪndʒəd/ | adj | có nguy cơ tuyệt chủng |
+| rare | /reə/ | adj | hiếm, quý hiếm |
+| wildlife | /ˈwaɪldlaɪf/ | n | động vật hoang dã |
+| native (to) | /ˈneɪtɪv/ | adj | bản địa, bản xứ |
+| scenery | /ˈsiːnəri/ | n | cảnh quan, phong cảnh |
+| waterway | /ˈwɔːtəweɪ/ | n | đường thủy |
+| unique | /juːˈniːk/ | adj | độc đáo, duy nhất |
+| otter | /ˈɒtə/ | n | rái cá |
+| pangolin | /pæŋˈɡəʊlɪn/ | n | tê tê |
+| bat | /bæt/ | n | con dơi |
+| spotted eagle | /ˈspɒtɪd ˈiːɡl/ | n | đại bàng đốm |
+| floating water season | /ˈfləʊtɪŋ ˈwɔːtə ˈsiːzn/ | n | mùa nước nổi |
+| explore | /ɪkˈsplɔː/ | v | khám phá |
+| attract | /əˈtrækt/ | v | thu hút |
+| destruction | /dɪˈstrʌkʃn/ | n | sự phá hủy |
+| impact | /ˈɪmpækt/ | n | tác động, ảnh hưởng |
+| breed | /briːd/ | v | sinh sản |
+| threatened | /ˈθretnd/ | adj | bị đe dọa |
+| endemic | /enˈdemɪk/ | adj | đặc hữu (chỉ có ở một vùng) |
+| awareness | /əˈweənəs/ | n | sự nhận thức |
+| regulation | /ˌreɡjuˈleɪʃn/ | n | quy định |
+| enforce | /ɪnˈfɔːs/ | v | thực thi |
+| logging | /ˈlɒɡɪŋ/ | n | khai thác gỗ |
+| mining | /ˈmaɪnɪŋ/ | n | khai thác mỏ |
+| adequate | /ˈædɪkwət/ | adj | đầy đủ, thích đáng |
+| trail | /treɪl/ | n | đường mòn, lối đi |
+
 ## U Minh Thuong - A unique national park
 (U Minh Thượng – Vườn quốc gia độc đáo)
 

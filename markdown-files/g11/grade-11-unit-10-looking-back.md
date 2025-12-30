@@ -1,5 +1,24 @@
 # Unit 10: The ecosystem - Looking back
 
+## Vocabulary
+
+| Word | IPA | Part of Speech | Meaning |
+|------|-----|----------------|---------|
+| flora and fauna | /ˈflɔːrə ənd ˈfɔːnə/ | n | hệ động thực vật |
+| species | /ˈspiːʃiːz/ | n | loài |
+| region | /ˈriːdʒən/ | n | vùng, khu vực |
+| biodiversity | /ˌbaɪəʊdaɪˈvɜːsəti/ | n | đa dạng sinh học |
+| conservation | /ˌkɒnsəˈveɪʃn/ | n | sự bảo tồn |
+| marine ecosystem | /məˈriːn ˈiːkəʊˌsɪstəm/ | n | hệ sinh thái biển |
+| natural resources | /ˈnætʃrəl rɪˈzɔːsɪz/ | n | tài nguyên thiên nhiên |
+| bus stop | /bʌs stɒp/ | n | trạm xe buýt |
+| sunset | /ˈsʌnset/ | n | hoàng hôn |
+| sightseeing | /ˈsaɪtˌsiːɪŋ/ | n | ngắm cảnh, tham quan |
+| wildlife | /ˈwaɪldlaɪf/ | n | động vật hoang dã |
+| question tag | /ˈkwestʃən tæɡ/ | n | câu hỏi đuôi |
+| intonation | /ˌɪntəˈneɪʃn/ | n | ngữ điệu |
+| compound noun | /ˈkɒmpaʊnd naʊn/ | n | danh từ ghép |
+
 ## Pronunciation
 
 ### Exercise: Mark the intonation in the question tags. Then listen and check. Practise saying the sentences in pairs.

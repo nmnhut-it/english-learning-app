@@ -1,5 +1,28 @@
 # Unit 10: The ecosystem
 
+## Vocabulary
+
+| Word | IPA | Part of Speech | Meaning |
+|------|-----|----------------|---------|
+| ecosystem | /ˈiːkəʊˌsɪstəm/ | n | hệ sinh thái |
+| flora | /ˈflɔːrə/ | n | hệ thực vật |
+| fauna | /ˈfɔːnə/ | n | hệ động vật |
+| organism | /ˈɔːɡənɪzəm/ | n | sinh vật |
+| bacteria | /bækˈtɪəriə/ | n | vi khuẩn |
+| biodiversity | /ˌbaɪəʊdaɪˈvɜːsəti/ | n | đa dạng sinh học |
+| climate change | /ˈklaɪmət tʃeɪndʒ/ | n | biến đổi khí hậu |
+| natural resources | /ˈnætʃrəl rɪˈzɔːsɪz/ | n | tài nguyên thiên nhiên |
+| national park | /ˈnæʃnəl pɑːk/ | n | vườn quốc gia |
+| raw materials | /rɔː məˈtɪəriəlz/ | n | nguyên liệu thô |
+| overuse | /ˌəʊvəˈjuːz/ | v | sử dụng quá mức |
+| generation | /ˌdʒenəˈreɪʃn/ | n | thế hệ |
+| essential | /ɪˈsenʃl/ | adj | thiết yếu, cần thiết |
+| survival | /səˈvaɪvl/ | n | sự sống sót, sự tồn tại |
+| community | /kəˈmjuːnəti/ | n | cộng đồng |
+| insect | /ˈɪnsekt/ | n | côn trùng |
+| butterfly | /ˈbʌtəflaɪ/ | n | con bướm |
+| ancient | /ˈeɪnʃənt/ | adj | cổ xưa |
+
 ## I. Getting Started - Ecosystems and humans
 
 ### 1. Listen and read

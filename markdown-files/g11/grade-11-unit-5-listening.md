@@ -1,5 +1,28 @@
 # Unit 5: Global Warming - Listening
 
+## Vocabulary
+
+| Word | IPA | Part of Speech | Meaning |
+|------|-----|----------------|---------|
+| soot | /sʊt/ | n | bồ hóng |
+| melt | /melt/ | v | tan chảy |
+| crop | /krɒp/ | n | cây trồng, mùa vụ |
+| soil | /sɔɪl/ | n | đất |
+| black carbon | /blæk ˈkɑːbən/ | n | carbon đen |
+| fossil fuel | /ˈfɒsl fjuːəl/ | n | nhiên liệu hóa thạch |
+| crop waste | /krɒp weɪst/ | n | chất thải cây trồng |
+| wildfire | /ˈwaɪldfaɪə/ | n | cháy rừng |
+| atmosphere | /ˈætməsfɪə/ | n | bầu khí quyển |
+| global warming | /ˈɡləʊbl ˈwɔːmɪŋ/ | n | sự nóng lên toàn cầu |
+| emission | /ɪˈmɪʃn/ | n | sự phát thải, khí thải |
+| organism | /ˈɔːɡənɪzəm/ | n | sinh vật |
+| trap | /træp/ | v | giữ lại, bẫy |
+| release | /rɪˈliːs/ | v | thải ra, giải phóng |
+| incomplete combustion | /ˌɪnkəmˈpliːt kəmˈbʌstʃən/ | n | quá trình đốt không hoàn toàn |
+| biomass | /ˈbaɪəʊmæs/ | n | sinh khối |
+| biofuel | /ˈbaɪəʊfjuːəl/ | n | nhiên liệu sinh học |
+| pollutant | /pəˈluːtənt/ | n | chất gây ô nhiễm |
+
 ## Black carbon and global temperature
 (Cacbon đen và nhiệt độ toàn cầu)
 

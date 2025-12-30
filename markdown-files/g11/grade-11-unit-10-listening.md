@@ -1,5 +1,34 @@
 # Unit 10: The Ecosystem - Listening
 
+## Vocabulary
+
+| Word | IPA | Part of Speech | Meaning |
+|------|-----|----------------|---------|
+| coral reef | /ˈkɒrəl riːf/ | n | rạn san hô |
+| food chain | /fuːd tʃeɪn/ | n | chuỗi thức ăn |
+| run out (of) | /rʌn aʊt/ | phr v | cạn kiệt, hết |
+| break down | /breɪk daʊn/ | phr v | hỏng, ngừng hoạt động |
+| biodiversity conservation | /ˌbaɪəʊdaɪˈvɜːsəti ˌkɒnsəˈveɪʃn/ | n | bảo tồn đa dạng sinh học |
+| climate change | /ˈklaɪmət tʃeɪndʒ/ | n | biến đổi khí hậu |
+| pollution | /pəˈluːʃn/ | n | sự ô nhiễm |
+| greenhouse gas | /ˈɡriːnhaʊs ɡæs/ | n | khí nhà kính |
+| renewable energy | /rɪˈnjuːəbl ˈenədʒi/ | n | năng lượng tái tạo |
+| pollutant | /pəˈluːtənt/ | n | chất gây ô nhiễm |
+| sustainable | /səˈsteɪnəbl/ | adj | bền vững |
+| agriculture | /ˈæɡrɪkʌltʃə/ | n | nông nghiệp |
+| fertilizer | /ˈfɜːtəlaɪzə/ | n | phân bón |
+| crop rotation | /krɒp rəʊˈteɪʃn/ | n | luân canh cây trồng |
+| pesticide | /ˈpestɪsaɪd/ | n | thuốc trừ sâu |
+| herbicide | /ˈhɜːbɪsaɪd/ | n | thuốc diệt cỏ |
+| carbon dioxide | /ˌkɑːbən daɪˈɒksaɪd/ | n | khí carbon dioxide (CO2) |
+| oxygen | /ˈɒksɪdʒən/ | n | oxy |
+| absorb | /əbˈzɔːb/ | v | hấp thụ |
+| emission | /ɪˈmɪʃn/ | n | sự phát thải |
+| restore | /rɪˈstɔː/ | v | phục hồi, khôi phục |
+| natural disaster | /ˈnætʃrəl dɪˈzɑːstə/ | n | thiên tai |
+| balance | /ˈbæləns/ | n | sự cân bằng |
+| survive | /səˈvaɪv/ | v | sống sót |
+
 ## Human impact on ecosystems
 (Ảnh hưởng của con người lên hệ sinh thái)
 

@@ -1,5 +1,28 @@
 # Unit 8: Becoming Independent - Reading
 
+## Vocabulary
+
+| Word | IPA | Part of Speech | Meaning |
+|------|-----|----------------|---------|
+| independent | /ˌɪndɪˈpendənt/ | adj | độc lập, tự lập |
+| independence | /ˌɪndɪˈpendəns/ | n | sự độc lập |
+| self-assessment | /self əˈsesmənt/ | n | tự đánh giá |
+| decision-making | /dɪˈsɪʒn ˈmeɪkɪŋ/ | n | việc ra quyết định |
+| time-management | /taɪm ˈmænɪdʒmənt/ | n | quản lý thời gian |
+| life skills | /laɪf skɪlz/ | n | kỹ năng sống |
+| get around | /ɡet əˈraʊnd/ | phr v | đi lại, di chuyển |
+| come up with | /kʌm ʌp wɪð/ | phr v | nghĩ ra, đưa ra |
+| carry out | /ˈkæri aʊt/ | phr v | thực hiện, tiến hành |
+| get into the habit of | /ɡet ˈɪntə ðə ˈhæbɪt əv/ | phr | tạo thói quen |
+| make use of | /meɪk juːs əv/ | phr | tận dụng |
+| public transport | /ˈpʌblɪk ˈtrænspɔːt/ | n | phương tiện giao thông công cộng |
+| household chores | /ˈhaʊshəʊld tʃɔːz/ | n | việc nhà |
+| laundry | /ˈlɔːndri/ | n | giặt giũ |
+| to-do list | /tə duː lɪst/ | n | danh sách việc cần làm |
+| brain development | /breɪn dɪˈveləpmənt/ | n | sự phát triển não bộ |
+| pocket money | /ˈpɒkɪt ˈmʌni/ | n | tiền tiêu vặt |
+| communicate | /kəˈmjuːnɪkeɪt/ | v | giao tiếp |
+
 ## How to become independent
 (Cách để trở nên tự lập)
 

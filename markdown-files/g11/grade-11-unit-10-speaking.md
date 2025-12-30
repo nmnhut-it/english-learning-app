@@ -1,5 +1,32 @@
 # Unit 10: The Ecosystem - Speaking
 
+## Vocabulary
+
+| Word | IPA | Part of Speech | Meaning |
+|------|-----|----------------|---------|
+| ban | /bæn/ | v | cấm |
+| hunting | /ˈhʌntɪŋ/ | n | sự săn bắn |
+| mass tourism | /mæs ˈtʊərɪzəm/ | n | du lịch đại chúng |
+| carbon footprint | /ˈkɑːbən ˈfʊtprɪnt/ | n | lượng khí thải carbon |
+| protected area | /prəˈtektɪd ˈeəriə/ | n | khu bảo tồn |
+| conservation effort | /ˌkɒnsəˈveɪʃn ˈefət/ | n | nỗ lực bảo tồn |
+| depletion | /dɪˈpliːʃn/ | n | sự cạn kiệt |
+| disrupt | /dɪsˈrʌpt/ | v | phá vỡ, làm gián đoạn |
+| cascading effect | /kæsˈkeɪdɪŋ ɪˈfekt/ | n | tác động dây chuyền |
+| poaching | /ˈpəʊtʃɪŋ/ | n | săn trộm |
+| thrive | /θraɪv/ | v | phát triển mạnh |
+| shelter | /ˈʃeltə/ | n | nơi trú ẩn |
+| native plant | /ˈneɪtɪv plɑːnt/ | n | cây bản địa |
+| field trip | /fiːld trɪp/ | n | chuyến đi thực tế |
+| rubbish | /ˈrʌbɪʃ/ | n | rác |
+| dispose of | /dɪˈspəʊz əv/ | phr v | vứt bỏ, xử lý |
+| fire hazard | /ˈfaɪə ˈhæzəd/ | n | nguy cơ hỏa hoạn |
+| fire pit | /ˈfaɪə pɪt/ | n | hố lửa |
+| portable stove | /ˈpɔːtəbl stəʊv/ | n | bếp di động |
+| overcrowding | /ˌəʊvəˈkraʊdɪŋ/ | n | tình trạng quá tải |
+| aggressive | /əˈɡresɪv/ | adj | hung dữ |
+| dependent (on) | /dɪˈpendənt/ | adj | phụ thuộc vào |
+
 ## Ways to protect local biodiversity
 (Các biện pháp bảo vệ đa dạng sinh học)
 
