@@ -3,6 +3,8 @@
  * Students pass a keyboard around to compete
  */
 
+const CLASS_STORAGE_KEY = 'classroom_rosters';
+
 class ClassroomBattleScene extends Phaser.Scene {
   constructor() {
     super('ClassroomBattleScene');
@@ -14,13 +16,52 @@ class ClassroomBattleScene extends Phaser.Scene {
     this.currentRound = 0;
     this.words = [];
     this.gameState = 'setup'; // setup, playing, passing, complete
+    this.currentClassName = '';
   }
+
+  // ========== Class Roster Management ==========
+
+  getSavedClasses() {
+    try {
+      return JSON.parse(localStorage.getItem(CLASS_STORAGE_KEY) || '{}');
+    } catch {
+      return {};
+    }
+  }
+
+  saveClass(className, students) {
+    const classes = this.getSavedClasses();
+    classes[className] = {
+      students,
+      updatedAt: Date.now()
+    };
+    localStorage.setItem(CLASS_STORAGE_KEY, JSON.stringify(classes));
+  }
+
+  deleteClass(className) {
+    const classes = this.getSavedClasses();
+    delete classes[className];
+    localStorage.setItem(CLASS_STORAGE_KEY, JSON.stringify(classes));
+  }
+
+  loadClass(className) {
+    const classes = this.getSavedClasses();
+    if (classes[className]) {
+      this.players = [...classes[className].students];
+      this.currentClassName = className;
+      return true;
+    }
+    return false;
+  }
+
+  // ========== Scene Setup ==========
 
   create() {
     this.gameState = 'setup';
     this.players = [];
     this.currentPlayerIndex = 0;
     this.currentRound = 0;
+    this.currentClassName = '';
 
     // Background
     this.add.rectangle(GAME_WIDTH / 2, GAME_HEIGHT / 2, GAME_WIDTH, GAME_HEIGHT, COLORS.BG_DARK);
@@ -32,43 +73,12 @@ class ClassroomBattleScene extends Phaser.Scene {
     this.setupContainer = this.add.container(0, 0);
 
     // Title
-    this.add.text(GAME_WIDTH / 2, 40, '🏆 Thi Đấu Lớp Học', {
-      fontSize: '32px',
+    this.add.text(GAME_WIDTH / 2, 30, '🏆 Thi Đấu Lớp Học', {
+      fontSize: '28px',
       fontFamily: 'Segoe UI, system-ui',
       color: COLOR_STRINGS.GOLD,
       fontStyle: 'bold',
     }).setOrigin(0.5);
-
-    // Instructions
-    this.add.text(GAME_WIDTH / 2, 85, 'Nhập tên học sinh (Enter để thêm, mỗi dòng 1 tên)', {
-      fontSize: '14px',
-      fontFamily: 'Segoe UI, system-ui',
-      color: COLOR_STRINGS.TEXT_MUTED,
-    }).setOrigin(0.5);
-
-    // Player list display
-    this.playerListText = this.add.text(100, 130, 'Chưa có học sinh nào...', {
-      fontSize: '16px',
-      fontFamily: 'Segoe UI, system-ui',
-      color: COLOR_STRINGS.TEXT,
-      lineSpacing: 8,
-    });
-
-    // Quick add buttons
-    this.createQuickAddButtons();
-
-    // Settings
-    this.createSettings();
-
-    // Start button (disabled initially)
-    this.startBtn = this.createButton(
-      GAME_WIDTH / 2, GAME_HEIGHT - 80,
-      250, 50,
-      '▶ BẮT ĐẦU THI ĐẤU',
-      COLORS.CORRECT,
-      () => this.startGame()
-    );
-    this.startBtn.setAlpha(0.5);
 
     // Back button
     const backBtn = this.add.text(30, 30, LANG.back, {
@@ -82,24 +92,133 @@ class ClassroomBattleScene extends Phaser.Scene {
       this.scene.start('MenuScene');
     });
 
-    // Keyboard input for adding players
+    // Left panel: Saved classes
+    this.createSavedClassesPanel();
+
+    // Right panel: Current class
+    this.createCurrentClassPanel();
+
+    // Bottom: Settings & Start
+    this.createBottomPanel();
+
+    // Keyboard input
     this.setupPlayerInput();
   }
 
-  createQuickAddButtons() {
-    const y = 120;
+  createSavedClassesPanel() {
+    const x = 160;
+    const y = 70;
 
-    // Add numbered students
-    const addNumbered = this.createSmallButton(500, y, 'Thêm HS 1-5', () => {
+    // Panel title
+    this.add.text(x, y, '📁 Lớp đã lưu', {
+      fontSize: '16px',
+      fontFamily: 'Segoe UI, system-ui',
+      color: COLOR_STRINGS.SECONDARY,
+      fontStyle: 'bold',
+    }).setOrigin(0.5);
+
+    // Saved classes list
+    const classes = this.getSavedClasses();
+    const classNames = Object.keys(classes).sort();
+
+    if (classNames.length === 0) {
+      this.add.text(x, y + 50, '(Chưa có lớp nào)', {
+        fontSize: '13px',
+        fontFamily: 'Segoe UI, system-ui',
+        color: COLOR_STRINGS.TEXT_MUTED,
+      }).setOrigin(0.5);
+    } else {
+      classNames.forEach((name, i) => {
+        if (i >= 8) return; // Max 8 classes shown
+        const classData = classes[name];
+        const btnY = y + 35 + i * 40;
+
+        // Class button
+        const btn = this.add.container(x, btnY);
+        const bg = this.add.rectangle(0, 0, 250, 34, COLORS.BG_CARD)
+          .setStrokeStyle(1, COLORS.SECONDARY);
+        const text = this.add.text(-100, 0, `${name} (${classData.students.length} HS)`, {
+          fontSize: '14px',
+          fontFamily: 'Segoe UI, system-ui',
+          color: COLOR_STRINGS.TEXT,
+        }).setOrigin(0, 0.5);
+
+        // Delete button
+        const delBtn = this.add.text(110, 0, '✕', {
+          fontSize: '14px',
+          fontFamily: 'Segoe UI, system-ui',
+          color: COLOR_STRINGS.INCORRECT,
+        }).setOrigin(0.5).setInteractive({ useHandCursor: true });
+
+        delBtn.on('pointerdown', (p) => {
+          p.stopPropagation();
+          this.deleteClass(name);
+          this.scene.restart();
+        });
+
+        btn.add([bg, text, delBtn]);
+        btn.setSize(250, 34);
+        btn.setInteractive({ useHandCursor: true });
+
+        btn.on('pointerover', () => bg.setFillStyle(COLORS.BG_LIGHT));
+        btn.on('pointerout', () => bg.setFillStyle(COLORS.BG_CARD));
+        btn.on('pointerdown', () => {
+          AudioManager.playEffect('click');
+          this.loadClass(name);
+          this.updatePlayerList();
+          this.updateClassNameDisplay();
+        });
+      });
+    }
+  }
+
+  createCurrentClassPanel() {
+    const x = 520;
+    const y = 70;
+
+    // Panel title with class name input hint
+    this.add.text(x, y, '👥 Danh sách học sinh', {
+      fontSize: '16px',
+      fontFamily: 'Segoe UI, system-ui',
+      color: COLOR_STRINGS.SECONDARY,
+      fontStyle: 'bold',
+    }).setOrigin(0.5);
+
+    // Class name display/input
+    this.classNameText = this.add.text(x, y + 25, 'Gõ tên lớp...', {
+      fontSize: '13px',
+      fontFamily: 'Segoe UI, system-ui',
+      color: COLOR_STRINGS.TEXT_MUTED,
+    }).setOrigin(0.5);
+
+    // Player list
+    this.playerListText = this.add.text(340, y + 50, '', {
+      fontSize: '14px',
+      fontFamily: 'Segoe UI, system-ui',
+      color: COLOR_STRINGS.TEXT,
+      lineSpacing: 4,
+    });
+
+    // Quick add buttons
+    this.createQuickAddButtons(x, y + 25);
+
+    this.updatePlayerList();
+  }
+
+  createQuickAddButtons(x, baseY) {
+    const y = 380;
+
+    this.createSmallButton(x - 130, y, '+ HS 1-5', () => {
       for (let i = 1; i <= 5; i++) {
-        if (!this.players.includes(`Học sinh ${i}`)) {
-          this.players.push(`Học sinh ${i}`);
+        const name = `Học sinh ${i}`;
+        if (!this.players.includes(name)) {
+          this.players.push(name);
         }
       }
       this.updatePlayerList();
     });
 
-    const addMore = this.createSmallButton(620, y, '+5 HS', () => {
+    this.createSmallButton(x - 40, y, '+5 HS', () => {
       const start = this.players.length + 1;
       for (let i = start; i < start + 5; i++) {
         this.players.push(`Học sinh ${i}`);
@@ -107,10 +226,85 @@ class ClassroomBattleScene extends Phaser.Scene {
       this.updatePlayerList();
     });
 
-    const clearAll = this.createSmallButton(720, y, 'Xóa hết', () => {
+    this.createSmallButton(x + 50, y, 'Xóa hết', () => {
       this.players = [];
+      this.currentClassName = '';
       this.updatePlayerList();
+      this.updateClassNameDisplay();
     });
+
+    this.createSmallButton(x + 140, y, '💾 Lưu lớp', () => {
+      if (this.players.length > 0 && this.currentClassName) {
+        this.saveClass(this.currentClassName, this.players);
+        AudioManager.playEffect('correct');
+        this.scene.restart();
+      } else if (this.players.length > 0) {
+        // Need class name
+        AudioManager.playEffect('incorrect');
+      }
+    });
+  }
+
+  createBottomPanel() {
+    const y = GAME_HEIGHT - 100;
+
+    // Vocab set info
+    const vocabSet = getCurrentVocabSet();
+    this.add.text(GAME_WIDTH / 2, y - 50, `📚 ${vocabSet.title} (${vocabSet.items.length} từ)`, {
+      fontSize: '13px',
+      fontFamily: 'Segoe UI, system-ui',
+      color: COLOR_STRINGS.SECONDARY,
+    }).setOrigin(0.5);
+
+    // Questions per turn
+    this.add.text(GAME_WIDTH / 2 - 100, y - 20, 'Số câu/lượt:', {
+      fontSize: '13px',
+      fontFamily: 'Segoe UI, system-ui',
+      color: COLOR_STRINGS.TEXT_MUTED,
+    }).setOrigin(0, 0.5);
+
+    [1, 3, 5].forEach((num, i) => {
+      const btn = this.add.text(GAME_WIDTH / 2 + 20 + i * 45, y - 20, String(num), {
+        fontSize: '15px',
+        fontFamily: 'Segoe UI, system-ui',
+        color: num === this.questionsPerPlayer ? COLOR_STRINGS.GOLD : COLOR_STRINGS.TEXT_MUTED,
+        backgroundColor: num === this.questionsPerPlayer ? '#6366f1' : '#16213e',
+        padding: { x: 10, y: 5 },
+      }).setOrigin(0.5).setInteractive({ useHandCursor: true });
+
+      btn.on('pointerdown', () => {
+        this.questionsPerPlayer = num;
+        this.scene.restart();
+      });
+    });
+
+    // Start button
+    this.startBtn = this.createButton(
+      GAME_WIDTH / 2, y + 30,
+      280, 50,
+      '▶ BẮT ĐẦU THI ĐẤU',
+      COLORS.CORRECT,
+      () => this.startGame()
+    );
+    this.startBtn.setAlpha(0.5);
+
+    // Instructions
+    this.add.text(GAME_WIDTH / 2, GAME_HEIGHT - 25,
+      'Gõ tên HS + Enter | Gõ "lớp:" + tên để đặt tên lớp', {
+      fontSize: '11px',
+      fontFamily: 'Segoe UI, system-ui',
+      color: COLOR_STRINGS.TEXT_MUTED,
+    }).setOrigin(0.5);
+  }
+
+  updateClassNameDisplay() {
+    if (this.currentClassName) {
+      this.classNameText.setText(`📝 ${this.currentClassName}`);
+      this.classNameText.setColor(COLOR_STRINGS.GOLD);
+    } else {
+      this.classNameText.setText('Gõ "lớp:7A" để đặt tên');
+      this.classNameText.setColor(COLOR_STRINGS.TEXT_MUTED);
+    }
   }
 
   createSmallButton(x, y, text, onClick) {
@@ -132,54 +326,30 @@ class ClassroomBattleScene extends Phaser.Scene {
     return btn;
   }
 
-  createSettings() {
-    const y = GAME_HEIGHT - 180;
-
-    // Vocab set
-    const vocabSet = getCurrentVocabSet();
-    this.add.text(GAME_WIDTH / 2, y, `📚 Bài: ${vocabSet.title} (${vocabSet.items.length} từ)`, {
-      fontSize: '14px',
-      fontFamily: 'Segoe UI, system-ui',
-      color: COLOR_STRINGS.SECONDARY,
-    }).setOrigin(0.5);
-
-    // Questions per turn
-    this.add.text(GAME_WIDTH / 2 - 150, y + 35, 'Số câu/lượt:', {
-      fontSize: '14px',
-      fontFamily: 'Segoe UI, system-ui',
-      color: COLOR_STRINGS.TEXT_MUTED,
-    }).setOrigin(0, 0.5);
-
-    [1, 3, 5].forEach((num, i) => {
-      const btn = this.add.text(GAME_WIDTH / 2 + 20 + i * 50, y + 35, String(num), {
-        fontSize: '16px',
-        fontFamily: 'Segoe UI, system-ui',
-        color: num === this.questionsPerPlayer ? COLOR_STRINGS.GOLD : COLOR_STRINGS.TEXT_MUTED,
-        backgroundColor: num === this.questionsPerPlayer ? '#6366f1' : '#16213e',
-        padding: { x: 12, y: 6 },
-      }).setOrigin(0.5).setInteractive({ useHandCursor: true });
-
-      btn.on('pointerdown', () => {
-        this.questionsPerPlayer = num;
-        this.scene.restart();
-      });
-    });
-  }
-
   setupPlayerInput() {
-    // Create invisible DOM input for text entry
     this.inputText = '';
 
     this.input.keyboard.on('keydown', (event) => {
       if (this.gameState !== 'setup') return;
 
       if (event.key === 'Enter' && this.inputText.trim()) {
-        // Add player
-        const name = this.inputText.trim();
-        if (!this.players.includes(name)) {
-          this.players.push(name);
-          this.updatePlayerList();
-          AudioManager.playEffect('correct');
+        const input = this.inputText.trim();
+
+        // Check for class name command: "lớp:7A" or "class:7A"
+        if (input.toLowerCase().startsWith('lớp:') || input.toLowerCase().startsWith('class:')) {
+          const className = input.split(':')[1].trim();
+          if (className) {
+            this.currentClassName = className;
+            this.updateClassNameDisplay();
+            AudioManager.playEffect('correct');
+          }
+        } else {
+          // Add player
+          if (!this.players.includes(input)) {
+            this.players.push(input);
+            this.updatePlayerList();
+            AudioManager.playEffect('click');
+          }
         }
         this.inputText = '';
       } else if (event.key === 'Backspace') {
@@ -200,10 +370,19 @@ class ClassroomBattleScene extends Phaser.Scene {
 
   updatePlayerList() {
     if (this.players.length === 0) {
-      this.playerListText.setText('Chưa có học sinh nào...\n\n💡 Gõ tên + Enter để thêm\nhoặc dùng nút "Thêm HS 1-5"');
+      this.playerListText.setText('Chưa có học sinh...\n\n💡 Gõ tên + Enter\nhoặc chọn lớp bên trái');
     } else {
-      const list = this.players.map((p, i) => `${i + 1}. ${p}`).join('\n');
-      this.playerListText.setText(list);
+      // Show in 2 columns if more than 10
+      if (this.players.length <= 10) {
+        const list = this.players.map((p, i) => `${i + 1}. ${p}`).join('\n');
+        this.playerListText.setText(list);
+      } else {
+        const mid = Math.ceil(this.players.length / 2);
+        const col1 = this.players.slice(0, mid).map((p, i) => `${i + 1}. ${p}`);
+        const col2 = this.players.slice(mid).map((p, i) => `${mid + i + 1}. ${p}`);
+        const combined = col1.map((c1, i) => c1.padEnd(20) + (col2[i] || '')).join('\n');
+        this.playerListText.setText(combined);
+      }
     }
 
     // Enable/disable start button
