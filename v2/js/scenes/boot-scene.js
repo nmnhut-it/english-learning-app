@@ -135,6 +135,8 @@ class BootScene extends Phaser.Scene {
       'pronunciation': 'PronunciationScene',
       'blitz': 'WordBlitzScene',
       'daily': 'DailyChallengeScene',
+      'leaderboard': 'LeaderboardScene',
+      'ranking': 'LeaderboardScene',
     };
 
     return modeMap[mode] || 'MenuScene';

@@ -410,6 +410,236 @@ app.get('/api/review-quiz/:classId', (req, res) => {
 });
 
 // ============================================
+// API: Leaderboard (Points & Rankings)
+// ============================================
+
+const LEADERBOARD_DIR = path.join(DATA_DIR, 'leaderboards');
+if (!fs.existsSync(LEADERBOARD_DIR)) {
+  fs.mkdirSync(LEADERBOARD_DIR, { recursive: true });
+}
+
+// Get leaderboard for a class
+app.get('/api/leaderboard/:classId', (req, res) => {
+  try {
+    const { classId } = req.params;
+    const filePath = path.join(LEADERBOARD_DIR, `${classId}.json`);
+    const data = readJsonFile(filePath, {
+      classId,
+      students: {},
+      sessions: [],
+      currentSession: null,
+      createdAt: new Date().toISOString()
+    });
+    res.json(data);
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+});
+
+// Update student points
+app.post('/api/leaderboard/:classId/points', (req, res) => {
+  try {
+    const { classId } = req.params;
+    const { studentName, points, reason } = req.body;
+
+    if (!studentName || points === undefined) {
+      return res.status(400).json({ error: 'Missing studentName or points' });
+    }
+
+    const filePath = path.join(LEADERBOARD_DIR, `${classId}.json`);
+    const data = readJsonFile(filePath, {
+      classId,
+      students: {},
+      sessions: [],
+      currentSession: null,
+      createdAt: new Date().toISOString()
+    });
+
+    // Initialize student if not exists
+    if (!data.students[studentName]) {
+      data.students[studentName] = {
+        totalPoints: 0,
+        sessionPoints: 0,
+        history: []
+      };
+    }
+
+    const student = data.students[studentName];
+    const pointChange = parseInt(points);
+
+    // Add to history
+    student.history.push({
+      points: pointChange,
+      reason: reason || 'Manual adjustment',
+      timestamp: new Date().toISOString(),
+      session: data.currentSession
+    });
+
+    // Update totals
+    student.totalPoints += pointChange;
+    student.sessionPoints += pointChange;
+
+    data.updatedAt = new Date().toISOString();
+    writeJsonFile(filePath, data);
+
+    res.json({
+      studentName,
+      newTotal: student.totalPoints,
+      sessionPoints: student.sessionPoints,
+      change: pointChange
+    });
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+});
+
+// Start new session
+app.post('/api/leaderboard/:classId/session', (req, res) => {
+  try {
+    const { classId } = req.params;
+    const { sessionName, resetPoints } = req.body;
+
+    const filePath = path.join(LEADERBOARD_DIR, `${classId}.json`);
+    const data = readJsonFile(filePath, {
+      classId,
+      students: {},
+      sessions: [],
+      currentSession: null,
+      createdAt: new Date().toISOString()
+    });
+
+    // Save current session if exists
+    if (data.currentSession) {
+      data.sessions.push({
+        name: data.currentSession,
+        endedAt: new Date().toISOString(),
+        rankings: Object.entries(data.students)
+          .map(([name, s]) => ({ name, points: s.sessionPoints }))
+          .sort((a, b) => b.points - a.points)
+      });
+    }
+
+    // Start new session
+    data.currentSession = sessionName || `Session ${data.sessions.length + 1}`;
+
+    // Reset session points (optionally reset total too)
+    Object.values(data.students).forEach(student => {
+      student.sessionPoints = 0;
+      if (resetPoints) {
+        student.totalPoints = 0;
+        student.history = [];
+      }
+    });
+
+    data.updatedAt = new Date().toISOString();
+    writeJsonFile(filePath, data);
+
+    res.json({
+      currentSession: data.currentSession,
+      previousSessions: data.sessions.length
+    });
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+});
+
+// Add students to leaderboard
+app.post('/api/leaderboard/:classId/students', (req, res) => {
+  try {
+    const { classId } = req.params;
+    const { students } = req.body;
+
+    if (!students || !Array.isArray(students)) {
+      return res.status(400).json({ error: 'Missing students array' });
+    }
+
+    const filePath = path.join(LEADERBOARD_DIR, `${classId}.json`);
+    const data = readJsonFile(filePath, {
+      classId,
+      students: {},
+      sessions: [],
+      currentSession: null,
+      createdAt: new Date().toISOString()
+    });
+
+    students.forEach(name => {
+      if (!data.students[name]) {
+        data.students[name] = {
+          totalPoints: 0,
+          sessionPoints: 0,
+          history: []
+        };
+      }
+    });
+
+    data.updatedAt = new Date().toISOString();
+    writeJsonFile(filePath, data);
+
+    res.json({
+      totalStudents: Object.keys(data.students).length,
+      added: students.length
+    });
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+});
+
+// Lucky wheel spin result
+app.post('/api/leaderboard/:classId/spin', (req, res) => {
+  try {
+    const { classId } = req.params;
+    const { studentName, prize } = req.body;
+
+    if (!studentName || !prize) {
+      return res.status(400).json({ error: 'Missing studentName or prize' });
+    }
+
+    const filePath = path.join(LEADERBOARD_DIR, `${classId}.json`);
+    const data = readJsonFile(filePath, {
+      classId,
+      students: {},
+      sessions: [],
+      currentSession: null,
+      createdAt: new Date().toISOString()
+    });
+
+    if (!data.students[studentName]) {
+      data.students[studentName] = {
+        totalPoints: 0,
+        sessionPoints: 0,
+        history: []
+      };
+    }
+
+    const student = data.students[studentName];
+
+    // Add spin to history
+    student.history.push({
+      points: prize.points,
+      reason: `🎡 Lucky Wheel: ${prize.label}`,
+      timestamp: new Date().toISOString(),
+      session: data.currentSession,
+      type: 'spin'
+    });
+
+    student.totalPoints += prize.points;
+    student.sessionPoints += prize.points;
+
+    data.updatedAt = new Date().toISOString();
+    writeJsonFile(filePath, data);
+
+    res.json({
+      studentName,
+      prize,
+      newTotal: student.totalPoints,
+      sessionPoints: student.sessionPoints
+    });
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+});
+
+// ============================================
 // API: Teacher Dashboard Summary
 // ============================================
 
