@@ -171,3 +171,39 @@
 | distraction | /dɪˈstrækʃn/ | n | sự xao nhãng |
 | outweigh | /ˌaʊtˈweɪ/ | v | lớn hơn, vượt trội |
 | significant | /sɪɡˈnɪfɪkənt/ | adj | đáng kể |
+| at one's own pace | /ət wʌnz əʊn peɪs/ | adv.phr | theo tốc độ của riêng mình |
+| Internet connection | /ˈɪntənet kəˈnekʃn/ | n.phr | kết nối Internet |
+| study schedule | /ˈstʌdi ˈʃedjuːl/ | n.phr | lịch học |
+| sit in front of | /sɪt ɪn frʌnt əv/ | v.phr | ngồi trước |
+| face to face | /feɪs tə feɪs/ | adv.phr | mặt đối mặt |
+| save time | /seɪv taɪm/ | v.phr | tiết kiệm thời gian |
+| travel long distances | /ˈtrævl lɒŋ ˈdɪstənsɪz/ | v.phr | đi xa |
+| attend lessons | /əˈtend ˈlesnz/ | v.phr | tham dự bài học |
+| follow the teacher's lesson | /ˈfɒləʊ ðə ˈtiːtʃəz ˈlesn/ | v.phr | theo dõi bài giảng của giáo viên |
+| submit homework | /səbˈmɪt ˈhəʊmwɜːk/ | v.phr | nộp bài tập về nhà |
+| communicate effectively | /kəˈmjuːnɪkeɪt ɪˈfektɪvli/ | v.phr | giao tiếp hiệu quả |
+| facial expression | /ˈfeɪʃl ɪkˈspreʃn/ | n.phr | nét mặt |
+| body language | /ˈbɒdi ˈlæŋɡwɪdʒ/ | n.phr | ngôn ngữ cơ thể |
+| chat with friends | /tʃæt wɪð frendz/ | v.phr | trò chuyện với bạn bè |
+
+---
+
+## Cấu trúc thảo luận tranh luận
+
+### 1. Đưa ra quan điểm
+- **I think...** - Tôi nghĩ...
+- **In my opinion...** - Theo ý kiến của tôi...
+- **From my point of view...** - Theo quan điểm của tôi...
+- **I believe...** - Tôi tin rằng...
+
+### 2. Đưa ra lý do
+- **The main reason is that...** - Lý do chính là...
+- **First/Firstly, ...** - Đầu tiên...
+- **Second/Secondly, ...** - Thứ hai...
+- **For example, ...** - Ví dụ...
+
+### 3. Phản bác ý kiến
+- **I don't agree with you.** - Tôi không đồng ý với bạn.
+- **I don't think so.** - Tôi không nghĩ vậy.
+- **However, ...** - Tuy nhiên...
+- **On the other hand, ...** - Mặt khác...

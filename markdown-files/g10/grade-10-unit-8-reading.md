@@ -176,3 +176,40 @@ Tôi nghĩ học trực tuyến tốt hơn vì nó linh hoạt hơn. Tôi có th
 | comment | /ˈkɒment/ | n | nhận xét |
 | connection | /kəˈnekʃn/ | n | kết nối |
 | flexible | /ˈfleksəbl/ | adj | linh hoạt |
+| ask for help | /ɑːsk fɔː help/ | v.phr | xin giúp đỡ |
+| wait for | /weɪt fɔː/ | v.phr | chờ đợi |
+| reply | /rɪˈplaɪ/ | n, v | trả lời |
+| keep sb focused | /kiːp ˈfəʊkəst/ | v.phr | giữ ai tập trung |
+| miss a lesson | /mɪs ə ˈlesn/ | v.phr | bỏ lỡ bài học |
+| at any time | /ət ˈeni taɪm/ | adv.phr | bất cứ lúc nào |
+| fast Internet connection | /fɑːst ˈɪntənet kəˈnekʃn/ | n.phr | kết nối Internet nhanh |
+| change from...to | /tʃeɪndʒ frəm...tuː/ | v.phr | thay đổi từ...sang |
+| traditional classroom | /trəˈdɪʃənl ˈklɑːsruːm/ | n.phr | lớp học truyền thống |
+| online class | /ˌɒnˈlaɪn klɑːs/ | n.phr | lớp học trực tuyến |
+
+---
+
+## Cụm từ và cấu trúc quan trọng
+
+### 1. So sánh hơn/kém
+- **better than** - tốt hơn
+  - *Face-to-face learning is better than online learning.*
+- **fewer...than** - ít hơn
+  - *Traditional classroom has fewer distractions than online learning.*
+- **more...than** - nhiều hơn
+  - *Online learning has more advantages than disadvantages.*
+
+### 2. Cấu trúc quan trọng
+- **I think...because...** - Tôi nghĩ...bởi vì...
+  - *I think face-to-face learning is better because I can communicate directly.*
+- **This helps me + V** - Điều này giúp tôi...
+  - *This helps me understand the lessons better.*
+- **I can't do this in...** - Tôi không thể làm điều này trong...
+  - *I can't do this in online classes.*
+
+### 3. Liên từ và trạng từ liên kết
+- **furthermore** - hơn nữa
+- **however** - tuy nhiên
+- **because** - bởi vì
+- **so** - vì vậy
+- **but** - nhưng

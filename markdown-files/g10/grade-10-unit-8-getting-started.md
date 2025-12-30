@@ -190,3 +190,42 @@
 | control | /kənˈtrəʊl/ | n, v | kiểm soát |
 | traditional | /trəˈdɪʃənl/ | adj | truyền thống |
 | method | /ˈmeθəd/ | n | phương pháp |
+| work in groups | /wɜːk ɪn ɡruːps/ | v.phr | làm việc theo nhóm |
+| search for | /sɜːtʃ fɔː/ | v.phr | tìm kiếm |
+| way of learning | /weɪ əv ˈlɜːnɪŋ/ | n.phr | cách học |
+| give sb a chance | /ɡɪv ə tʃɑːns/ | v.phr | cho ai cơ hội |
+| have control over | /həv kənˈtrəʊl ˈəʊvə/ | v.phr | kiểm soát được |
+| useful | /ˈjuːsfl/ | adj | hữu ích |
+| lucky | /ˈlʌki/ | adj | may mắn |
+| wish | /wɪʃ/ | v | ước |
+| activity | /ækˈtɪvəti/ | n | hoạt động |
+| homework | /ˈhəʊmwɜːk/ | n | bài tập về nhà |
+| classmate | /ˈklɑːsmeɪt/ | n | bạn cùng lớp |
+| understand | /ˌʌndəˈstænd/ | v | hiểu |
+| lesson | /ˈlesn/ | n | bài học |
+
+---
+
+## Cụm từ và cấu trúc quan trọng
+
+### 1. Cụm động từ (Phrasal verbs)
+- **upload on** - tải lên (một nền tảng)
+  - *My teacher uploaded the video on Eclass.*
+- **search for** - tìm kiếm
+  - *You can search for more information at home.*
+- **work in groups** - làm việc theo nhóm
+  - *We'll work in groups and discuss the topic.*
+
+### 2. Cấu trúc câu quan trọng
+- **It gives me a chance to + V** - Nó cho tôi cơ hội để...
+  - *It gives me a chance to discuss with my classmates.*
+- **This way of + V-ing** - Cách... này
+  - *This way of studying is quite useful.*
+- **I wish I could + V** - Tôi ước tôi có thể...
+  - *I wish I could try these new learning activities.*
+
+### 3. Mệnh đề quan hệ trong bài
+- **...the video that my teacher uploaded** (mệnh đề xác định)
+- **...classmates, who may have original ideas** (mệnh đề không xác định)
+- **...projects that help us understand** (mệnh đề xác định)
+- **...which gives us more control** (mệnh đề không xác định)

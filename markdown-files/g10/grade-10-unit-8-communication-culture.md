@@ -190,17 +190,94 @@ Theo tôi, trường học của chúng ta là một trường học hiện đ�
 | install | /ɪnˈstɔːl/ | v | cài đặt |
 | app | /æp/ | n | ứng dụng |
 | search box | /sɜːtʃ bɒks/ | n.phr | ô tìm kiếm |
+| search button | /sɜːtʃ ˈbʌtn/ | n.phr | nút tìm kiếm |
+| search results | /sɜːtʃ rɪˈzʌlts/ | n.phr | kết quả tìm kiếm |
 | icon | /ˈaɪkɒn/ | n | biểu tượng |
 | download | /ˌdaʊnˈləʊd/ | v | tải xuống |
+| smartphone | /ˈsmɑːtfəʊn/ | n | điện thoại thông minh |
+| screen | /skriːn/ | n | màn hình |
+| video call | /ˈvɪdiəʊ kɔːl/ | n.phr | cuộc gọi video |
+| text | /tekst/ | v | nhắn tin |
+| complete | /kəmˈpliːt/ | adj, v | hoàn thành |
 | modern | /ˈmɒdn/ | adj | hiện đại |
+| design | /dɪˈzaɪn/ | v, n | thiết kế |
 | lifelong learning | /ˌlaɪflɒŋ ˈlɜːnɪŋ/ | n.phr | học tập suốt đời |
 | responsible | /rɪˈspɒnsəbl/ | adj | có trách nhiệm |
 | confident | /ˈkɒnfɪdənt/ | adj | tự tin |
+| individual | /ˌɪndɪˈvɪdʒuəl/ | n | cá nhân |
 | feature | /ˈfiːtʃə/ | n | đặc điểm |
 | express | /ɪkˈspres/ | v | bày tỏ |
+| class discussion | /klɑːs dɪˈskʌʃn/ | n.phr | thảo luận trong lớp |
+| personal opinion | /ˈpɜːsənl əˈpɪnjən/ | n.phr | ý kiến cá nhân |
+| group learning | /ɡruːp ˈlɜːnɪŋ/ | n.phr | học theo nhóm |
+| project task | /ˈprɒdʒekt tɑːsk/ | n.phr | nhiệm vụ dự án |
 | digital learning resources | /ˈdɪdʒɪtl ˈlɜːnɪŋ rɪˈsɔːsɪz/ | n.phr | tài nguyên học tập số |
 | audio-visual materials | /ˌɔːdiəʊ ˈvɪʒuəl məˈtɪəriəlz/ | n.phr | tài liệu nghe nhìn |
+| support | /səˈpɔːt/ | v | hỗ trợ |
+| participate in | /pɑːˈtɪsɪpeɪt ɪn/ | v.phr | tham gia vào |
 | field trip | /fiːld trɪp/ | n.phr | chuyến đi thực tế |
 | landmark | /ˈlændmɑːk/ | n | địa danh |
+| museum | /mjuːˈziːəm/ | n | bảo tàng |
+| hospital | /ˈhɒspɪtl/ | n | bệnh viện |
+| industry location | /ˈɪndəstri ləʊˈkeɪʃn/ | n.phr | địa điểm công nghiệp |
 | real-world experiences | /ˌrɪəl wɜːld ɪkˈspɪəriənsɪz/ | n.phr | trải nghiệm thực tế |
 | school camp | /skuːl kæmp/ | n.phr | trại trường |
+| make friends with | /meɪk frendz wɪð/ | v.phr | kết bạn với |
+| develop life skills | /dɪˈveləp laɪf skɪlz/ | v.phr | phát triển kỹ năng sống |
+| unfamiliar environment | /ˌʌnfəˈmɪliə ɪnˈvaɪrənmənt/ | n.phr | môi trường xa lạ |
+| encourage | /ɪnˈkʌrɪdʒ/ | v | khuyến khích |
+| challenge | /ˈtʃælɪndʒ/ | v, n | thử thách |
+| successful | /səkˈsesfl/ | adj | thành công |
+| guide | /ɡaɪd/ | n, v | người hướng dẫn, dẫn dắt |
+| projector | /prəˈdʒektə/ | n | máy chiếu |
+| facilitate | /fəˈsɪlɪteɪt/ | v | tạo điều kiện |
+
+---
+
+## Cụm từ và cấu trúc quan trọng
+
+### 1. Cấu trúc đưa ra hướng dẫn (Giving instructions)
+
+| Cấu trúc | Nghĩa | Ví dụ |
+|----------|-------|-------|
+| **First, ...** | Đầu tiên, ... | *First, go to the App Store.* |
+| **Second, ...** | Thứ hai, ... | *Second, type 'I-Speak' in the search box.* |
+| **Then, ...** | Sau đó, ... | *Then, click the 'Search' button.* |
+| **Now, ...** | Bây giờ, ... | *Now, click 'Get' next to the icon.* |
+| **...until...** | ...cho đến khi... | *Wait until the download is complete.* |
+
+### 2. Cấu trúc hỏi hướng dẫn (Asking for instructions)
+
+| Cấu trúc | Nghĩa |
+|----------|-------|
+| **Can you show me how to...?** | Bạn có thể chỉ cho tôi cách...? |
+| **What do I do next?** | Tôi làm gì tiếp theo? |
+| **How do I...?** | Làm thế nào để tôi...? |
+| **Let me try.** | Để tôi thử. |
+
+### 3. Cụm động từ công nghệ (Technology phrasal verbs)
+
+| Cụm từ | Nghĩa | Ví dụ |
+|--------|-------|-------|
+| **go to** | truy cập vào | *Go to the App Store.* |
+| **type in** | nhập vào | *Type 'Zalo' in the search box.* |
+| **click on** | nhấp vào | *Click on the 'Search' button.* |
+| **log in/log on** | đăng nhập | *Log in to your account.* |
+| **set up** | cài đặt, thiết lập | *Set up your profile.* |
+
+### 4. Vai trò trong trường học hiện đại
+
+| Cấu trúc | Nghĩa |
+|----------|-------|
+| **play the role of** | đóng vai trò là |
+| **prepare sb for** | chuẩn bị ai cho |
+| **encourage sb to + V** | khuyến khích ai làm gì |
+| **challenge sb to + V** | thử thách ai làm gì |
+| **be expected to + V** | được kỳ vọng làm gì |
+
+### 5. Cấu trúc bị động với tính từ
+
+- **be designed to + V** - được thiết kế để...
+  - *Modern schools are designed to help each student.*
+- **be expected to + V** - được kỳ vọng để...
+  - *Students are expected to take part in discussions.*

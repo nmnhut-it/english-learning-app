@@ -257,6 +257,117 @@ Các từ chức năng (function words) thường không được nhấn:
 
 ---
 
+## BÀI TẬP BỔ SUNG: Relative clauses
+
+### Bài tập 1: Chọn đáp án đúng (who, which, that, whose)
+
+1. The teacher _______ teaches us English is from Australia.
+2. The laptop _______ I bought last week is very fast.
+3. Students _______ study hard usually get good grades.
+4. This is the app _______ helps me learn vocabulary.
+5. The girl _______ father is a doctor wants to be a nurse.
+6. My school, _______ was built in 1990, is very old.
+7. The students _______ names are on the list will join the competition.
+8. The book _______ you recommended is very interesting.
+
+#### Đáp án:
+
+| Câu | Đáp án | Giải thích |
+|-----|--------|------------|
+| 1 | who/that | thay thế cho "the teacher" (người) |
+| 2 | which/that | thay thế cho "the laptop" (vật) |
+| 3 | who/that | thay thế cho "students" (người) |
+| 4 | which/that | thay thế cho "the app" (vật) |
+| 5 | whose | chỉ sở hữu (cha của cô gái) |
+| 6 | which | mệnh đề không xác định (có dấu phẩy), không dùng "that" |
+| 7 | whose | chỉ sở hữu (tên của học sinh) |
+| 8 | which/that | thay thế cho "the book" (vật) |
+
+---
+
+### Bài tập 2: Nối hai câu thành một câu sử dụng mệnh đề quan hệ
+
+1. I have a friend. She speaks three languages.
+2. The movie was boring. We watched it last night.
+3. The man is my uncle. His car is parked outside.
+4. London is a big city. It is the capital of England.
+5. The teacher gave us homework. The homework was very difficult.
+6. I met a woman. Her daughter is a famous singer.
+
+#### Đáp án:
+
+1. **I have a friend who speaks three languages.**
+   *(Tôi có một người bạn nói được ba ngôn ngữ.)*
+
+2. **The movie which/that we watched last night was boring.**
+   *(Bộ phim mà chúng tôi xem tối qua rất nhàm chán.)*
+
+3. **The man whose car is parked outside is my uncle.**
+   *(Người đàn ông có xe đậu bên ngoài là chú tôi.)*
+
+4. **London, which is the capital of England, is a big city.**
+   *(London, thủ đô của nước Anh, là một thành phố lớn.)*
+
+5. **The homework which/that the teacher gave us was very difficult.**
+   *(Bài tập về nhà mà giáo viên giao cho chúng tôi rất khó.)*
+
+6. **I met a woman whose daughter is a famous singer.**
+   *(Tôi gặp một người phụ nữ có con gái là ca sĩ nổi tiếng.)*
+
+---
+
+### Bài tập 3: Sửa lỗi sai trong các câu sau
+
+1. The girl which is standing over there is my sister.
+2. I bought a phone who has a good camera.
+3. My father, that works in a bank, is very busy.
+4. The students which passed the exam are very happy.
+5. This is the house whose roof is red.
+
+#### Đáp án:
+
+1. **which → who/that** - "The girl" là người, phải dùng "who/that"
+   → The girl **who/that** is standing over there is my sister.
+
+2. **who → which/that** - "a phone" là vật, phải dùng "which/that"
+   → I bought a phone **which/that** has a good camera.
+
+3. **that → who** - Mệnh đề không xác định (có dấu phẩy) không dùng "that"
+   → My father, **who** works in a bank, is very busy.
+
+4. **which → who/that** - "The students" là người, phải dùng "who/that"
+   → The students **who/that** passed the exam are very happy.
+
+5. **Câu này đúng** - "whose" chỉ sở hữu cho cả người và vật
+
+---
+
+### Bài tập 4: Điền đại từ quan hệ thích hợp vào chỗ trống
+
+1. This is the website _______ I use to learn English online.
+2. The woman _______ is talking to the principal is my mother.
+3. He showed me the video _______ his teacher uploaded on the platform.
+4. The students, _______ had prepared well, answered all the questions correctly.
+5. That is the boy _______ presentation won the first prize.
+6. The online course _______ I'm taking is very helpful.
+7. My laptop, _______ I bought two years ago, still works well.
+8. People _______ exercise regularly are usually healthier.
+
+#### Đáp án:
+
+| Câu | Đáp án | Giải thích |
+|-----|--------|------------|
+| 1 | which/that | thay thế cho "the website" (vật) |
+| 2 | who/that | thay thế cho "the woman" (người) |
+| 3 | which/that | thay thế cho "the video" (vật) |
+| 4 | who | mệnh đề không xác định (có dấu phẩy) |
+| 5 | whose | chỉ sở hữu (bài thuyết trình của cậu bé) |
+| 6 | which/that | thay thế cho "the online course" (vật) |
+| 7 | which | mệnh đề không xác định (có dấu phẩy) |
+| 8 | who/that | thay thế cho "people" (người) |
+
+---
+
 ## Từ vựng tổng hợp
 
 | Từ vựng | Phiên âm | Loại từ | Nghĩa |
@@ -274,3 +385,16 @@ Các từ chức năng (function words) thường không được nhấn:
 | relative clause | /ˈrelətɪv klɔːz/ | n.phr | mệnh đề quan hệ |
 | defining | /dɪˈfaɪnɪŋ/ | adj | xác định |
 | non-defining | /nɒn dɪˈfaɪnɪŋ/ | adj | không xác định |
+| specific | /spəˈsɪfɪk/ | adj | cụ thể, đặc biệt |
+| communicate | /kəˈmjuːnɪkeɪt/ | v | giao tiếp |
+| allow | /əˈlaʊ/ | v | cho phép |
+| benefit | /ˈbenɪfɪt/ | n | lợi ích |
+| anytime | /ˈenitaɪm/ | adv | bất cứ lúc nào |
+| anywhere | /ˈeniweə/ | adv | bất cứ đâu |
+| impressive | /ɪmˈpresɪv/ | adj | ấn tượng |
+| instruction book | /ɪnˈstrʌkʃn bʊk/ | n.phr | sách hướng dẫn |
+| voice recorder | /vɔɪs rɪˈkɔːdə/ | n.phr | máy ghi âm |
+| workshop | /ˈwɜːkʃɒp/ | n | hội thảo |
+| presentation | /ˌpreznˈteɪʃn/ | n | bài thuyết trình |
+| invention | /ɪnˈvenʃn/ | n | phát minh |
+| pronunciation | /prəˌnʌnsiˈeɪʃn/ | n | cách phát âm |

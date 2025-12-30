@@ -224,7 +224,9 @@ Các từ chức năng (function words) thường không được nhấn:
 | blended learning | /ˈblendɪd ˈlɜːnɪŋ/ | n.phr | học kết hợp |
 | traditional | /trəˈdɪʃənl/ | adj | truyền thống |
 | connection | /kəˈnekʃn/ | n | kết nối |
+| Internet connection | /ˈɪntənet kəˈnekʃn/ | n.phr | kết nối Internet |
 | teamwork | /ˈtiːmwɜːk/ | n | làm việc nhóm |
+| teamwork skills | /ˈtiːmwɜːk skɪlz/ | n.phr | kỹ năng làm việc nhóm |
 | upload | /ˌʌpˈləʊd/ | v | tải lên |
 | download | /ˌdaʊnˈləʊd/ | v | tải xuống |
 | install | /ɪnˈstɔːl/ | v | cài đặt |
@@ -239,3 +241,106 @@ Các từ chức năng (function words) thường không được nhấn:
 | digital | /ˈdɪdʒɪtl/ | adj | kỹ thuật số |
 | field trip | /fiːld trɪp/ | n.phr | chuyến đi thực tế |
 | lifelong learning | /ˌlaɪflɒŋ ˈlɜːnɪŋ/ | n.phr | học tập suốt đời |
+| smartphone | /ˈsmɑːtfəʊn/ | n | điện thoại thông minh |
+| technology | /tekˈnɒlədʒi/ | n | công nghệ |
+| presentation | /ˌpreznˈteɪʃn/ | n | bài thuyết trình |
+| award | /əˈwɔːd/ | n | giải thưởng |
+| excellent | /ˈeksələnt/ | adj | xuất sắc |
+| talk show | /ˈtɔːk ʃəʊ/ | n.phr | chương trình trò chuyện |
+| teenager | /ˈtiːneɪdʒə/ | n | thanh thiếu niên |
+| cousin | /ˈkʌzn/ | n | anh/chị/em họ |
+| art teacher | /ɑːt ˈtiːtʃə/ | n.phr | giáo viên mỹ thuật |
+| self-disciplined | /ˌself ˈdɪsəplɪnd/ | adj | tự kỷ luật |
+| self-motivated | /ˌself ˈməʊtɪveɪtɪd/ | adj | tự tạo động lực |
+| flipped classroom | /flɪpt ˈklɑːsruːm/ | n.phr | lớp học đảo ngược |
+| gamification | /ˌɡeɪmɪfɪˈkeɪʃn/ | n | học qua trò chơi |
+| mobile learning | /ˈməʊbaɪl ˈlɜːnɪŋ/ | n.phr | học qua thiết bị di động |
+| virtual reality | /ˈvɜːtʃuəl riˈæləti/ | n.phr | thực tế ảo |
+| microlearning | /ˈmaɪkrəʊˌlɜːnɪŋ/ | n | học vi mô |
+| individual attention | /ˌɪndɪˈvɪdʒuəl əˈtenʃn/ | n.phr | sự quan tâm cá nhân |
+| video lecture | /ˈvɪdiəʊ ˈlektʃə/ | n.phr | bài giảng video |
+
+---
+
+## Cụm từ và cấu trúc quan trọng
+
+### 1. Các loại hình học tập
+
+| Cụm từ | Nghĩa | Ví dụ |
+|--------|-------|-------|
+| **online learning** | học trực tuyến | *I don't like online learning.* |
+| **face-to-face learning** | học trực tiếp | *Face-to-face learning is traditional.* |
+| **blended learning** | học kết hợp | *With blended learning, we have both types.* |
+| **traditional learning** | học truyền thống | *Traditional schools use textbooks.* |
+
+### 2. Cụm từ với "learning"
+
+| Cụm từ | Nghĩa |
+|--------|-------|
+| **lifelong learning** | học tập suốt đời |
+| **self-paced learning** | học theo tốc độ riêng |
+| **group learning** | học theo nhóm |
+| **digital learning** | học tập số |
+
+### 3. Cấu trúc với mệnh đề quan hệ
+
+| Cấu trúc | Ví dụ |
+|----------|-------|
+| **N + who + V** (người) | *The teacher who teaches us...* |
+| **N + which + V** (vật) | *The app which helps me learn...* |
+| **N + that + V** (người/vật) | *The students that work hard...* |
+| **N + whose + N** (sở hữu) | *The students whose names are...* |
+| **N, + which + V** (không xác định) | *Their school, which offers classes...* |
+| **N, + who + V** (không xác định) | *My cousin John, who lives in Da Nang...* |
+
+### 4. Phân biệt "that" và "which/who"
+
+| Trường hợp | Dùng | Không dùng |
+|------------|------|------------|
+| Mệnh đề xác định | that, which, who | - |
+| Mệnh đề không xác định (có dấu phẩy) | which, who | that |
+| Sau "all, everything, nothing" | that | which |
+| Sau so sánh nhất | that | which |
+
+### 5. Từ nối trong câu ghép
+
+| Từ nối | Nghĩa | Ví dụ |
+|--------|-------|-------|
+| **because** | bởi vì | *I like online learning because it's flexible.* |
+| **so** | vì vậy | *I need a fast Internet connection so I can study.* |
+| **but** | nhưng | *I can't talk to teachers, but I can email them.* |
+| **if** | nếu | *If students don't understand, they can ask questions.* |
+
+---
+
+## Tổng kết ngữ pháp Unit 8
+
+### Mệnh đề quan hệ (Relative Clauses)
+
+#### 1. Mệnh đề quan hệ xác định (Defining)
+- Cần thiết để hiểu nghĩa câu
+- Không có dấu phẩy
+- Có thể dùng "that" thay "who/which"
+
+**Ví dụ:**
+- *The students **who study hard** will succeed.*
+- *The book **that I read** is interesting.*
+
+#### 2. Mệnh đề quan hệ không xác định (Non-defining)
+- Chỉ thêm thông tin phụ
+- Có dấu phẩy
+- KHÔNG dùng "that"
+
+**Ví dụ:**
+- *My brother, **who is 20**, is a student.*
+- *Their school, **which is in the city center**, is famous.*
+
+#### 3. Đại từ quan hệ
+
+| Đại từ | Dùng cho | Vai trò |
+|--------|----------|---------|
+| **who** | người | chủ ngữ/tân ngữ |
+| **which** | vật | chủ ngữ/tân ngữ |
+| **that** | người/vật | chủ ngữ/tân ngữ (mệnh đề xác định) |
+| **whose** | người/vật | sở hữu |
+| **whom** | người | tân ngữ (trang trọng) |

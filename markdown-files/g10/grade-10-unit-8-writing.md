@@ -161,3 +161,35 @@ Học kết hợp là một cách học một môn học, kết hợp học qua 
 | group work | /ɡruːp wɜːk/ | n.phr | làm việc nhóm |
 | engaged | /ɪnˈɡeɪdʒd/ | adj | tham gia, gắn kết |
 | social media | /ˈsəʊʃl ˈmiːdiə/ | n.phr | mạng xã hội |
+| have more control over | /həv mɔː kənˈtrəʊl ˈəʊvə/ | v.phr | kiểm soát tốt hơn |
+| get access to | /ɡet ˈækses tuː/ | v.phr | truy cập được vào |
+| at any time | /ət ˈeni taɪm/ | adv.phr | bất cứ lúc nào |
+| review lessons | /rɪˈvjuː ˈlesnz/ | v.phr | xem lại bài học |
+| be absent from school | /bi ˈæbsənt frəm skuːl/ | v.phr | nghỉ học |
+| miss a lesson | /mɪs ə ˈlesn/ | v.phr | bỏ lỡ bài học |
+| assign for homework | /əˈsaɪn fɔː ˈhəʊmwɜːk/ | v.phr | giao làm bài tập về nhà |
+| unlike | /ˌʌnˈlaɪk/ | prep | không giống như |
+| text message | /tekst ˈmesɪdʒ/ | n.phr | tin nhắn văn bản |
+| keep sb engaged | /kiːp ɪnˈɡeɪdʒd/ | v.phr | giữ ai tham gia |
+| useful skills | /ˈjuːsfl skɪlz/ | n.phr | kỹ năng hữu ích |
+| benefit | /ˈbenɪfɪt/ | n | lợi ích |
+| provide sb with sth | /prəˈvaɪd wɪð/ | v.phr | cung cấp cho ai cái gì |
+
+---
+
+## Cấu trúc viết đoạn văn
+
+### 1. Mở bài (Topic sentence)
+- **...is a way of studying..., which combines...and...**
+  - *Blended learning is a way of studying, which combines online learning and face-to-face learning.*
+
+### 2. Thân bài (Supporting sentences)
+- **Firstly/First, ...** - Thứ nhất...
+- **Secondly/Second, ...** - Thứ hai...
+- **This means/allows/helps...** - Điều này có nghĩa là/cho phép/giúp...
+- **For example, ...** - Ví dụ...
+- **Unlike..., ...** - Không giống như..., ...
+
+### 3. Kết bài (Concluding sentence)
+- **In conclusion, ...** - Tóm lại...
+- **I think we should...because...** - Tôi nghĩ chúng ta nên...bởi vì...

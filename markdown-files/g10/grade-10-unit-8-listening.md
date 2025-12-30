@@ -154,3 +154,36 @@ Theo quan điểm của tôi, học tập kết hợp hiệu quả hơn cách h�
 | self-paced | /ˌself ˈpeɪst/ | adj | theo tốc độ của bản thân |
 | authentic | /ɔːˈθentɪk/ | adj | đích thực |
 | maximize | /ˈmæksɪmaɪz/ | v | tối đa hóa |
+| complete | /kəmˈpliːt/ | v | hoàn thành |
+| population map | /ˌpɒpjuˈleɪʃn mæp/ | n.phr | bản đồ dân số |
+| click | /klɪk/ | v | nhấp chuột |
+| present the main ideas | /prɪˈzent ðə meɪn aɪˈdɪəz/ | v.phr | trình bày ý chính |
+| suitable | /ˈsuːtəbl/ | adj | phù hợp |
+| newspaper article | /ˈnjuːspeɪpər ˈɑːtɪkl/ | n.phr | bài báo |
+| search the Internet | /sɜːtʃ ði ˈɪntənet/ | v.phr | tìm kiếm trên Internet |
+| write down | /raɪt daʊn/ | phr.v | viết ra, ghi lại |
+| live session | /laɪv ˈseʃn/ | n.phr | buổi học trực tiếp |
+| unique needs | /juːˈniːk niːdz/ | n.phr | nhu cầu riêng biệt |
+
+---
+
+## Cụm từ và cấu trúc quan trọng
+
+### 1. Cụm động từ (Phrasal verbs)
+- **log in to** - đăng nhập vào
+  - *You should log in to your account on Eclass.*
+- **click on** - nhấp vào
+  - *Click on the Homework folder.*
+- **write down** - ghi lại
+  - *Write down what you've discovered.*
+
+### 2. Mệnh lệnh thức (Imperatives)
+- *To prepare for next week's class, you should...*
+- *Read the materials, watch the videos and take notes...*
+- *Work in groups of four...*
+- *Email me if you have any questions.*
+
+### 3. Cấu trúc câu hỏi gián tiếp
+- **Can we...?** - Chúng ta có thể...?
+- **Where can we...?** - Chúng ta có thể...ở đâu?
+- **Do we need to...?** - Chúng ta có cần...không?
