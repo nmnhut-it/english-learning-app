@@ -1459,7 +1459,25 @@ document.addEventListener('keydown', function(e) {
         networkSharingManager.copyCurrentLessonNetworkLink();
         return;
     }
-    
+
+    // Open vocabulary game (g)
+    if (e.key === 'g' && !e.ctrlKey && !e.altKey && !e.shiftKey) {
+        e.preventDefault();
+        if (typeof gameLauncher !== 'undefined') {
+            gameLauncher.openGame();
+        }
+        return;
+    }
+
+    // Open classroom battle (Shift+G)
+    if (e.key === 'G' && e.shiftKey && !e.ctrlKey && !e.altKey) {
+        e.preventDefault();
+        if (typeof gameLauncher !== 'undefined') {
+            gameLauncher.openGame('classroom');
+        }
+        return;
+    }
+
     // Escape to close modals
     if (e.key === 'Escape') {
         closeSearch();
@@ -1511,3 +1529,289 @@ document.addEventListener('click', function(e) {
         closeSearch();
     }
 });
+
+// ============================================
+// Game Launcher - Open vocabulary game from viewer
+// ============================================
+
+class GameLauncher {
+    constructor() {
+        this.gameBaseUrl = 'http://localhost:3006';
+        this.setupGameButton();
+    }
+
+    /**
+     * Parse filepath to extract grade and unit
+     * Examples:
+     *   "g11/grade-11-unit-5-getting-started.md" -> { grade: 11, unit: 5 }
+     *   "global-success-7/unit-01.md" -> { grade: 7, unit: 1 }
+     */
+    parseLesson(filepath) {
+        if (!filepath) return null;
+
+        const result = { grade: null, unit: null, lesson: null };
+
+        // Try to extract grade
+        // Pattern: g11, grade-11, global-success-11, etc.
+        const gradeMatch = filepath.match(/(?:g|grade[- ]?|global[- ]?success[- ]?)(\d+)/i);
+        if (gradeMatch) {
+            result.grade = parseInt(gradeMatch[1]);
+        }
+
+        // Try to extract unit
+        // Pattern: unit-5, unit-05, unit5, etc.
+        const unitMatch = filepath.match(/unit[- ]?0?(\d+)/i);
+        if (unitMatch) {
+            result.unit = parseInt(unitMatch[1]);
+        }
+
+        // Try to extract lesson type
+        // Pattern: getting-started, reading, speaking, listening, writing, etc.
+        const lessonTypes = ['getting-started', 'reading', 'speaking', 'listening', 'writing', 'looking-back', 'project'];
+        for (const type of lessonTypes) {
+            if (filepath.toLowerCase().includes(type)) {
+                result.lesson = type;
+                break;
+            }
+        }
+
+        return result;
+    }
+
+    /**
+     * Build vocabulary set key from lesson info
+     */
+    buildVocabSetKey(lessonInfo) {
+        if (!lessonInfo || !lessonInfo.grade || !lessonInfo.unit) {
+            return null;
+        }
+
+        // Format: g11-unit-5 or g11-unit-5-reading
+        let key = `g${lessonInfo.grade}-unit-${lessonInfo.unit}`;
+        if (lessonInfo.lesson) {
+            key += `-${lessonInfo.lesson}`;
+        }
+        return key;
+    }
+
+    /**
+     * Open vocabulary game with current lesson
+     */
+    openGame(mode = 'menu') {
+        if (!window.currentFile) {
+            this.showNotification('Không có file đang mở', 'error');
+            return;
+        }
+
+        const filepath = window.currentFile.filepath;
+        const lessonInfo = this.parseLesson(filepath);
+        const vocabSetKey = this.buildVocabSetKey(lessonInfo);
+
+        // Build game URL with parameters
+        let gameUrl = this.gameBaseUrl;
+        const params = new URLSearchParams();
+
+        if (lessonInfo.grade) params.set('grade', lessonInfo.grade);
+        if (lessonInfo.unit) params.set('unit', lessonInfo.unit);
+        if (lessonInfo.lesson) params.set('lesson', lessonInfo.lesson);
+        if (vocabSetKey) params.set('vocabSet', vocabSetKey);
+        if (mode !== 'menu') params.set('mode', mode);
+
+        if (params.toString()) {
+            gameUrl += '?' + params.toString();
+        }
+
+        // Open in new tab
+        window.open(gameUrl, '_blank');
+
+        this.showNotification(`🎮 Đang mở game - Lớp ${lessonInfo.grade || '?'} Unit ${lessonInfo.unit || '?'}`, 'success');
+    }
+
+    /**
+     * Open game for classroom battle (teacher mode)
+     */
+    openClassroomBattle() {
+        this.openGame('classroom');
+    }
+
+    /**
+     * Open game for review/quiz
+     */
+    openReview() {
+        this.openGame('review');
+    }
+
+    /**
+     * Setup game button in the viewer UI
+     */
+    setupGameButton() {
+        // Will be called when DOM is ready
+        document.addEventListener('DOMContentLoaded', () => {
+            this.addGameButtonToUI();
+        });
+
+        // If DOM already loaded
+        if (document.readyState !== 'loading') {
+            this.addGameButtonToUI();
+        }
+    }
+
+    addGameButtonToUI() {
+        const fileActions = document.querySelector('.file-actions');
+        if (!fileActions) return;
+
+        // Check if button already exists
+        if (document.getElementById('open-game')) return;
+
+        // Create game button
+        const gameBtn = document.createElement('button');
+        gameBtn.id = 'open-game';
+        gameBtn.className = 'action-btn game-btn';
+        gameBtn.title = 'Open Vocabulary Game (G)';
+        gameBtn.innerHTML = '🎮 Game';
+        gameBtn.onclick = () => this.openGame();
+
+        // Create dropdown for game modes
+        const dropdown = document.createElement('div');
+        dropdown.className = 'game-dropdown';
+        dropdown.innerHTML = `
+            <button class="action-btn game-btn-main" title="Vocabulary Game (G)">🎮 Game</button>
+            <div class="game-dropdown-content">
+                <button data-mode="menu">📚 Tự học</button>
+                <button data-mode="classroom">🏆 Thi đấu lớp</button>
+                <button data-mode="review">📊 Ôn tập</button>
+            </div>
+        `;
+
+        // Add styles for dropdown
+        this.addDropdownStyles();
+
+        // Add click handlers
+        dropdown.querySelector('.game-btn-main').onclick = (e) => {
+            e.preventDefault();
+            dropdown.classList.toggle('open');
+        };
+
+        dropdown.querySelectorAll('.game-dropdown-content button').forEach(btn => {
+            btn.onclick = (e) => {
+                e.preventDefault();
+                const mode = btn.dataset.mode;
+                dropdown.classList.remove('open');
+                this.openGame(mode);
+            };
+        });
+
+        // Close dropdown when clicking outside
+        document.addEventListener('click', (e) => {
+            if (!dropdown.contains(e.target)) {
+                dropdown.classList.remove('open');
+            }
+        });
+
+        fileActions.appendChild(dropdown);
+
+        // Also add hint below translation hint
+        const translationHint = document.querySelector('.translation-hint');
+        if (translationHint) {
+            const gameHint = document.createElement('div');
+            gameHint.className = 'translation-hint game-hint';
+            gameHint.innerHTML = '🎮 <strong>Vocabulary Game:</strong> Press <kbd>G</kbd> to open game';
+            translationHint.parentNode.insertBefore(gameHint, translationHint.nextSibling);
+        }
+    }
+
+    addDropdownStyles() {
+        if (document.getElementById('game-dropdown-styles')) return;
+
+        const style = document.createElement('style');
+        style.id = 'game-dropdown-styles';
+        style.textContent = `
+            .game-dropdown {
+                position: relative;
+                display: inline-block;
+            }
+            .game-dropdown-content {
+                display: none;
+                position: absolute;
+                right: 0;
+                top: 100%;
+                background: #1e293b;
+                border: 1px solid #334155;
+                border-radius: 8px;
+                min-width: 150px;
+                box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+                z-index: 100;
+                overflow: hidden;
+            }
+            .game-dropdown.open .game-dropdown-content {
+                display: block;
+            }
+            .game-dropdown-content button {
+                display: block;
+                width: 100%;
+                padding: 10px 15px;
+                border: none;
+                background: transparent;
+                color: #e2e8f0;
+                text-align: left;
+                cursor: pointer;
+                font-size: 14px;
+                transition: background 0.2s;
+            }
+            .game-dropdown-content button:hover {
+                background: #334155;
+            }
+            .game-btn-main {
+                background: linear-gradient(135deg, #8b5cf6 0%, #6366f1 100%) !important;
+                border-color: #8b5cf6 !important;
+            }
+            .game-btn-main:hover {
+                background: linear-gradient(135deg, #7c3aed 0%, #4f46e5 100%) !important;
+            }
+            .game-hint {
+                margin-top: 8px;
+                color: #a78bfa;
+            }
+            .game-hint kbd {
+                background: #6366f1;
+                color: white;
+            }
+        `;
+        document.head.appendChild(style);
+    }
+
+    showNotification(message, type = 'info') {
+        const notification = document.createElement('div');
+        notification.style.cssText = `
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            background: ${type === 'success' ? '#10b981' : type === 'error' ? '#ef4444' : '#6366f1'};
+            color: white;
+            padding: 12px 20px;
+            border-radius: 8px;
+            z-index: 1000;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+            font-size: 14px;
+            opacity: 0;
+            transform: translateX(100%);
+            transition: all 0.3s ease;
+        `;
+        notification.textContent = message;
+        document.body.appendChild(notification);
+
+        setTimeout(() => {
+            notification.style.opacity = '1';
+            notification.style.transform = 'translateX(0)';
+        }, 100);
+
+        setTimeout(() => {
+            notification.style.opacity = '0';
+            notification.style.transform = 'translateX(100%)';
+            setTimeout(() => notification.remove(), 300);
+        }, 3000);
+    }
+}
+
+// Initialize Game Launcher
+const gameLauncher = new GameLauncher();
