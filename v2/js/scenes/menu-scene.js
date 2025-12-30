@@ -39,14 +39,15 @@ class MenuScene extends Phaser.Scene {
       { key: 'PronunciationScene', title: LANG.modes.pronunciation.title, desc: LANG.modes.pronunciation.desc, color: 0x06b6d4, hotkey: '3' },
       { key: 'WordBlitzScene', title: LANG.modes.wordBlitz.title, desc: LANG.modes.wordBlitz.desc, color: COLORS.WARNING, hotkey: '4' },
       { key: 'DailyChallengeScene', title: LANG.modes.dailyChallenge.title, desc: LANG.modes.dailyChallenge.desc, color: COLORS.STREAK, hotkey: '5' },
+      { key: 'ClassroomBattleScene', title: '🏆 Thi Đấu Lớp Học', desc: 'Chơi theo nhóm, chuyền bàn phím', color: COLORS.GOLD, hotkey: '6' },
     ];
 
     modes.forEach((mode, i) => {
-      this.createModeCard(GAME_WIDTH / 2, 165 + i * 80, mode);
+      this.createModeCard(GAME_WIDTH / 2, 150 + i * 70, mode);
     });
 
     // Footer with keyboard hints
-    this.add.text(GAME_WIDTH / 2, GAME_HEIGHT - 30, '1-5: Chọn mode | L: Đổi bài | ' + LANG.footer, {
+    this.add.text(GAME_WIDTH / 2, GAME_HEIGHT - 25, '1-6: Chọn mode | L: Đổi bài | ' + LANG.footer, {
       fontSize: '12px',
       fontFamily: 'Segoe UI, system-ui',
       color: COLOR_STRINGS.TEXT_MUTED,
@@ -124,7 +125,7 @@ class MenuScene extends Phaser.Scene {
   createModeCard(x, y, mode) {
     const container = this.add.container(x, y);
     const width = 650;
-    const height = 68;
+    const height = 62;
 
     const bg = this.add.rectangle(0, 0, width, height, COLORS.BG_CARD)
       .setStrokeStyle(2, mode.color);
