@@ -25,6 +25,8 @@ document.addEventListener('DOMContentLoaded', () => {
       WordBlitzScene,
       DailyChallengeScene,
       ClassroomBattleScene,
+      TeacherDashboardScene,
+      VocabReviewScene,
     ],
   };
 

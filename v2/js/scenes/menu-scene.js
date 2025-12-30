@@ -40,6 +40,7 @@ class MenuScene extends Phaser.Scene {
       { key: 'WordBlitzScene', title: LANG.modes.wordBlitz.title, desc: LANG.modes.wordBlitz.desc, color: COLORS.WARNING, hotkey: '4' },
       { key: 'DailyChallengeScene', title: LANG.modes.dailyChallenge.title, desc: LANG.modes.dailyChallenge.desc, color: COLORS.STREAK, hotkey: '5' },
       { key: 'ClassroomBattleScene', title: '🏆 Thi Đấu Lớp Học', desc: 'Chơi theo nhóm, chuyền bàn phím', color: COLORS.GOLD, hotkey: '6' },
+      { key: 'TeacherDashboardScene', title: '📊 Theo Dõi Tiến Độ', desc: 'Xem thống kê học sinh, ôn từ khó', color: 0x8b5cf6, hotkey: '7' },
     ];
 
     modes.forEach((mode, i) => {
@@ -47,7 +48,7 @@ class MenuScene extends Phaser.Scene {
     });
 
     // Footer with keyboard hints
-    this.add.text(GAME_WIDTH / 2, GAME_HEIGHT - 25, '1-6: Chọn mode | L: Đổi bài | ' + LANG.footer, {
+    this.add.text(GAME_WIDTH / 2, GAME_HEIGHT - 25, '1-7: Chọn mode | L: Đổi bài | ' + LANG.footer, {
       fontSize: '12px',
       fontFamily: 'Segoe UI, system-ui',
       color: COLOR_STRINGS.TEXT_MUTED,

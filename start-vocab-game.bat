@@ -50,6 +50,10 @@ for /f "tokens=5" %%a in ('netstat -aon ^| findstr :3005 ^| findstr LISTENING') 
     echo Stopping existing process on port 3005...
     taskkill /PID %%a /F 2>nul
 )
+for /f "tokens=5" %%a in ('netstat -aon ^| findstr :3007 ^| findstr LISTENING') do (
+    echo Stopping existing process on port 3007...
+    taskkill /PID %%a /F 2>nul
+)
 
 timeout /t 1 /nobreak >nul
 
@@ -79,6 +83,20 @@ if exist "v3-viewer\server.js" (
     echo ⚠ Markdown Viewer not found, skipping...
 )
 
+:: Start Game Backend Server for tracking
+if exist "v2\server\server.js" (
+    echo 📊 Starting Game Backend (port 3007)...
+    if not exist "v2\server\node_modules" (
+        echo    Installing dependencies...
+        cd v2\server
+        call npm install
+        cd ..\..
+    )
+    start "Game Backend" cmd /k "cd /d v2\server && node server.js"
+) else (
+    echo ⚠ Game Backend not found, skipping tracking features...
+)
+
 :: Wait and show info
 timeout /t 3 /nobreak >nul
 
@@ -95,9 +113,14 @@ if exist "v3-viewer\server.js" (
     echo     http://localhost:3005
     echo.
 )
+if exist "v2\server\server.js" (
+    echo  📊 Game Backend (Tracking):
+    echo     http://localhost:3007
+    echo.
+)
 echo ----------------------------------------
 echo  Keyboard Shortcuts (Game):
-echo    1-5    : Select game mode
+echo    1-7    : Select game mode
 echo    L      : Change lesson
 echo    SPACE  : Flip card / Replay audio
 echo    ENTER  : Know

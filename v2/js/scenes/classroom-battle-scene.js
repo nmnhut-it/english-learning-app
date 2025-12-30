@@ -1,9 +1,11 @@
 /**
  * Classroom Battle Scene - Hot Seat multiplayer mode
  * Students pass a keyboard around to compete
+ * Now with server integration for tracking vocabulary progress
  */
 
 const CLASS_STORAGE_KEY = 'classroom_rosters';
+const GAME_SERVER_URL = 'http://localhost:3007';
 
 class ClassroomBattleScene extends Phaser.Scene {
   constructor() {
@@ -17,6 +19,71 @@ class ClassroomBattleScene extends Phaser.Scene {
     this.words = [];
     this.gameState = 'setup'; // setup, playing, passing, complete
     this.currentClassName = '';
+    this.currentGrade = null;
+    this.wordHistory = {}; // Track word results per player: { playerName: [{ word, correct }] }
+    this.serverAvailable = false;
+  }
+
+  // ========== Server Communication ==========
+
+  async checkServer() {
+    try {
+      const response = await fetch(`${GAME_SERVER_URL}/health`);
+      this.serverAvailable = response.ok;
+    } catch {
+      this.serverAvailable = false;
+    }
+    return this.serverAvailable;
+  }
+
+  async saveClassToServer(className, students, grade) {
+    if (!this.serverAvailable) return false;
+    try {
+      const response = await fetch(`${GAME_SERVER_URL}/api/classes/${encodeURIComponent(className)}`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ students, grade })
+      });
+      return response.ok;
+    } catch {
+      return false;
+    }
+  }
+
+  async loadClassesFromServer() {
+    if (!this.serverAvailable) return null;
+    try {
+      const response = await fetch(`${GAME_SERVER_URL}/api/classes`);
+      if (response.ok) {
+        return await response.json();
+      }
+    } catch {}
+    return null;
+  }
+
+  async saveResultsToServer(classId, players) {
+    if (!this.serverAvailable || !classId) return false;
+    try {
+      const vocabSet = getCurrentVocabSet();
+      const response = await fetch(`${GAME_SERVER_URL}/api/results`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          classId,
+          lessonId: vocabSet.key || vocabSet.title,
+          players: players.map(name => ({
+            name,
+            score: this.playerScores[name],
+            wordHistory: this.wordHistory[name] || []
+          })),
+          mode: 'classroom_battle',
+          timestamp: new Date().toISOString()
+        })
+      });
+      return response.ok;
+    } catch {
+      return false;
+    }
   }
 
   // ========== Class Roster Management ==========
@@ -62,11 +129,30 @@ class ClassroomBattleScene extends Phaser.Scene {
     this.currentPlayerIndex = 0;
     this.currentRound = 0;
     this.currentClassName = '';
+    this.currentGrade = null;
+    this.wordHistory = {};
 
     // Background
     this.add.rectangle(GAME_WIDTH / 2, GAME_HEIGHT / 2, GAME_WIDTH, GAME_HEIGHT, COLORS.BG_DARK);
 
+    // Check server availability
+    this.checkServer().then(available => {
+      if (available) {
+        console.log('📡 Server connected');
+      } else {
+        console.log('📵 Server offline - using localStorage');
+      }
+      this.updateServerStatus();
+    });
+
     this.showSetupScreen();
+  }
+
+  updateServerStatus() {
+    if (this.serverStatusText) {
+      this.serverStatusText.setText(this.serverAvailable ? '🟢 Server' : '🔴 Offline');
+      this.serverStatusText.setColor(this.serverAvailable ? '#22c55e' : '#ef4444');
+    }
   }
 
   showSetupScreen() {
@@ -91,6 +177,14 @@ class ClassroomBattleScene extends Phaser.Scene {
       AudioManager.playEffect('click');
       this.scene.start('MenuScene');
     });
+
+    // Server status indicator
+    this.serverStatusText = this.add.text(GAME_WIDTH - 30, 30, '🔄 ...', {
+      fontSize: '12px',
+      fontFamily: 'Segoe UI, system-ui',
+      color: COLOR_STRINGS.TEXT_MUTED,
+    }).setOrigin(1, 0.5);
+    this.updateServerStatus();
 
     // Left panel: Saved classes
     this.createSavedClassesPanel();
@@ -233,9 +327,16 @@ class ClassroomBattleScene extends Phaser.Scene {
       this.updateClassNameDisplay();
     });
 
-    this.createSmallButton(x + 140, y, '💾 Lưu lớp', () => {
+    this.createSmallButton(x + 140, y, '💾 Lưu lớp', async () => {
       if (this.players.length > 0 && this.currentClassName) {
+        // Save to localStorage
         this.saveClass(this.currentClassName, this.players);
+
+        // Also save to server if available
+        if (this.serverAvailable) {
+          await this.saveClassToServer(this.currentClassName, this.players, this.currentGrade);
+        }
+
         AudioManager.playEffect('correct');
         this.scene.restart();
       } else if (this.players.length > 0) {
@@ -401,14 +502,19 @@ class ClassroomBattleScene extends Phaser.Scene {
 
     AudioManager.playEffect('click');
 
-    // Initialize scores
+    // Initialize scores and word history
     this.playerScores = {};
-    this.players.forEach(p => this.playerScores[p] = 0);
+    this.wordHistory = {};
+    this.players.forEach(p => {
+      this.playerScores[p] = 0;
+      this.wordHistory[p] = [];
+    });
 
     // Get vocabulary
     const vocabSet = getCurrentVocabSet();
     this.words = this.shuffleArray([...vocabSet.items]);
     this.wordIndex = 0;
+    this.currentLessonId = vocabSet.key || vocabSet.title;
 
     this.currentPlayerIndex = 0;
     this.currentQuestionIndex = 0;
@@ -580,11 +686,21 @@ class ClassroomBattleScene extends Phaser.Scene {
   handleAnswer(button) {
     this.hasAnswered = true;
     const player = this.players[this.currentPlayerIndex];
+    const isCorrect = button.isCorrect;
+
+    // Track word history for server
+    if (this.wordHistory[player]) {
+      this.wordHistory[player].push({
+        word: this.currentWord.word,
+        meaning: this.currentWord.meaning,
+        correct: isCorrect
+      });
+    }
 
     // Disable all buttons
     this.optionButtons.forEach(btn => btn.disableInteractive());
 
-    if (button.isCorrect) {
+    if (isCorrect) {
       AudioManager.playEffect('correct');
       button.optionBg.setFillStyle(COLORS.CORRECT);
       button.optionBg.setStrokeStyle(3, COLORS.CORRECT);
@@ -728,6 +844,16 @@ class ClassroomBattleScene extends Phaser.Scene {
 
     AudioManager.playEffect('complete');
 
+    // Save results to server
+    if (this.serverAvailable && this.currentClassName) {
+      this.saveResultsToServer(this.currentClassName, this.players)
+        .then(saved => {
+          if (saved) {
+            console.log('✅ Results saved to server');
+          }
+        });
+    }
+
     // Background
     this.add.rectangle(GAME_WIDTH / 2, GAME_HEIGHT / 2, GAME_WIDTH, GAME_HEIGHT, COLORS.BG_DARK);
 
@@ -738,6 +864,15 @@ class ClassroomBattleScene extends Phaser.Scene {
       color: COLOR_STRINGS.GOLD,
       fontStyle: 'bold',
     }).setOrigin(0.5);
+
+    // Server save indicator
+    if (this.serverAvailable && this.currentClassName) {
+      this.add.text(GAME_WIDTH / 2, 85, '✓ Đã lưu lên server', {
+        fontSize: '12px',
+        fontFamily: 'Segoe UI, system-ui',
+        color: '#22c55e',
+      }).setOrigin(0.5);
+    }
 
     // Sort players by score
     const sorted = Object.entries(this.playerScores)

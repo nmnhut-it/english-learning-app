@@ -17,6 +17,12 @@ for /f "tokens=5" %%a in ('netstat -aon ^| findstr :3005 ^| findstr LISTENING') 
     taskkill /PID %%a /F 2>nul
 )
 
+:: Kill processes on port 3007 (Game Backend)
+echo Stopping Game Backend (port 3007)...
+for /f "tokens=5" %%a in ('netstat -aon ^| findstr :3007 ^| findstr LISTENING') do (
+    taskkill /PID %%a /F 2>nul
+)
+
 echo.
 echo ✅ All servers stopped!
 echo ========================================
