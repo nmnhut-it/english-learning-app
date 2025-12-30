@@ -9,33 +9,34 @@ echo.
 :: Change to script directory
 cd /d "%~dp0"
 
-:: Determine which server to use
-set "USE_NODE=0"
-set "PYTHON_CMD="
-
-where python >nul 2>nul
+:: Check if npx is available (prefer Node.js)
+where npx >nul 2>nul
 if !ERRORLEVEL! EQU 0 (
-    set "PYTHON_CMD=python"
-) else (
-    where python3 >nul 2>nul
-    if !ERRORLEVEL! EQU 0 (
-        set "PYTHON_CMD=python3"
-    )
-)
-
-if "!PYTHON_CMD!"=="" (
-    where npx >nul 2>nul
-    if !ERRORLEVEL! NEQ 0 (
-        echo ERROR: Neither Python nor Node.js found!
-        echo Please install one of them:
-        echo   - Python: https://python.org/
-        echo   - Node.js: https://nodejs.org/
-        pause
-        exit /b 1
-    )
     set "USE_NODE=1"
+    goto :start_servers
 )
 
+:: Try Python as fallback
+python --version >nul 2>nul
+if !ERRORLEVEL! EQU 0 (
+    set "USE_NODE=0"
+    set "PYTHON_CMD=python"
+    goto :start_servers
+)
+
+python3 --version >nul 2>nul
+if !ERRORLEVEL! EQU 0 (
+    set "USE_NODE=0"
+    set "PYTHON_CMD=python3"
+    goto :start_servers
+)
+
+echo ERROR: Neither Node.js nor Python found!
+echo Please install Node.js: https://nodejs.org/
+pause
+exit /b 1
+
+:start_servers
 echo Starting servers...
 echo.
 
@@ -59,9 +60,9 @@ timeout /t 1 /nobreak >nul
 echo.
 echo Starting Vocabulary Game (port 3006)...
 if "!USE_NODE!"=="1" (
-    start "Vocabulary Game" cmd /k "cd /d "%~dp0v2" && npx serve -l 3006"
+    start "Vocabulary Game" cmd /k "cd /d %~dp0v2 && npx serve -l 3006"
 ) else (
-    start "Vocabulary Game" cmd /k "cd /d "%~dp0v2" && !PYTHON_CMD! -m http.server 3006"
+    start "Vocabulary Game" cmd /k "cd /d %~dp0v2 && !PYTHON_CMD! -m http.server 3006"
 )
 
 :: Wait for game server to start
@@ -76,7 +77,7 @@ if exist "%~dp0v3-viewer\server.js" (
         call npm install
         popd
     )
-    start "Markdown Viewer" cmd /k "cd /d "%~dp0v3-viewer" && node server.js"
+    start "Markdown Viewer" cmd /k "cd /d %~dp0v3-viewer && node server.js"
 ) else (
     echo Markdown Viewer not found, skipping...
 )
@@ -90,7 +91,7 @@ if exist "%~dp0v2\server\server.js" (
         call npm install
         popd
     )
-    start "Game Backend" cmd /k "cd /d "%~dp0v2\server" && node server.js"
+    start "Game Backend" cmd /k "cd /d %~dp0v2\server && node server.js"
 ) else (
     echo Game Backend not found, skipping tracking features...
 )
