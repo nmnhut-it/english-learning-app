@@ -3,14 +3,18 @@
 ## Discussing advantages and disadvantages of online learning
 *(Thảo luận về ưu điểm và nhược điểm của việc học trực tuyến)*
 
-### Vocabulary
+### New words
 
-1. **advantage** /ədˈvɑːntɪdʒ/ (n): ưu điểm, lợi thế
-2. **disadvantage** /ˌdɪsədˈvɑːntɪdʒ/ (n): nhược điểm, bất lợi
-3. **pace** /peɪs/ (n): tốc độ
-4. **technical problem** /ˈteknɪkl ˈprɒbləm/ (n.phr): vấn đề kỹ thuật
-5. **schedule** /ˈʃedjuːl/ (n): lịch trình
-6. **organise** /ˈɔːɡənaɪz/ (v): tổ chức, sắp xếp
+1. advantage: (n) ưu điểm, lợi thế /ədˈvɑːntɪdʒ/
+2. disadvantage: (n) nhược điểm, bất lợi /ˌdɪsədˈvɑːntɪdʒ/
+3. pace: (n) tốc độ /peɪs/
+4. technical problem: (n.phr) vấn đề kỹ thuật /ˈteknɪkl ˈprɒbləm/
+5. schedule: (n) lịch trình /ˈʃedjuːl/
+6. organise: (v) tổ chức, sắp xếp /ˈɔːɡənaɪz/
+7. at one's own pace: (phr) theo tốc độ riêng /æt wʌnz əʊn peɪs/
+8. anytime: (adv) bất cứ lúc nào /ˈeniˌtaɪm/
+9. anywhere: (adv) bất cứ đâu /ˈeniˌweə/
+10. face to face: (adv) trực tiếp, mặt đối mặt /ˌfeɪs tə ˈfeɪs/
 
 ---
 
@@ -154,56 +158,21 @@
 
 ---
 
-## Từ vựng tổng hợp
+## Vocabulary (Từ vựng)
 
-| Từ vựng | Phiên âm | Loại từ | Nghĩa |
-|---------|----------|---------|-------|
-| advantage | /ədˈvɑːntɪdʒ/ | n | ưu điểm, lợi thế |
-| disadvantage | /ˌdɪsədˈvɑːntɪdʒ/ | n | nhược điểm, bất lợi |
-| pace | /peɪs/ | n | tốc độ |
-| technical problem | /ˈteknɪkl ˈprɒbləm/ | n.phr | vấn đề kỹ thuật |
-| schedule | /ˈʃedjuːl/ | n | lịch trình |
-| organise | /ˈɔːɡənaɪz/ | v | tổ chức, sắp xếp |
-| assignment | /əˈsaɪnmənt/ | n | bài tập |
-| harm | /hɑːm/ | v | gây hại |
-| short-sightedness | /ˌʃɔːt ˈsaɪtɪdnəs/ | n | cận thị |
-| backache | /ˈbækeɪk/ | n | đau lưng |
-| distraction | /dɪˈstrækʃn/ | n | sự xao nhãng |
-| outweigh | /ˌaʊtˈweɪ/ | v | lớn hơn, vượt trội |
-| significant | /sɪɡˈnɪfɪkənt/ | adj | đáng kể |
-| at one's own pace | /ət wʌnz əʊn peɪs/ | adv.phr | theo tốc độ của riêng mình |
-| Internet connection | /ˈɪntənet kəˈnekʃn/ | n.phr | kết nối Internet |
-| study schedule | /ˈstʌdi ˈʃedjuːl/ | n.phr | lịch học |
-| sit in front of | /sɪt ɪn frʌnt əv/ | v.phr | ngồi trước |
-| face to face | /feɪs tə feɪs/ | adv.phr | mặt đối mặt |
-| save time | /seɪv taɪm/ | v.phr | tiết kiệm thời gian |
-| travel long distances | /ˈtrævl lɒŋ ˈdɪstənsɪz/ | v.phr | đi xa |
-| attend lessons | /əˈtend ˈlesnz/ | v.phr | tham dự bài học |
-| follow the teacher's lesson | /ˈfɒləʊ ðə ˈtiːtʃəz ˈlesn/ | v.phr | theo dõi bài giảng của giáo viên |
-| submit homework | /səbˈmɪt ˈhəʊmwɜːk/ | v.phr | nộp bài tập về nhà |
-| communicate effectively | /kəˈmjuːnɪkeɪt ɪˈfektɪvli/ | v.phr | giao tiếp hiệu quả |
-| facial expression | /ˈfeɪʃl ɪkˈspreʃn/ | n.phr | nét mặt |
-| body language | /ˈbɒdi ˈlæŋɡwɪdʒ/ | n.phr | ngôn ngữ cơ thể |
-| chat with friends | /tʃæt wɪð frendz/ | v.phr | trò chuyện với bạn bè |
-
----
-
-## Cấu trúc thảo luận tranh luận
-
-### 1. Đưa ra quan điểm
-- **I think...** - Tôi nghĩ...
-- **In my opinion...** - Theo ý kiến của tôi...
-- **From my point of view...** - Theo quan điểm của tôi...
-- **I believe...** - Tôi tin rằng...
-
-### 2. Đưa ra lý do
-- **The main reason is that...** - Lý do chính là...
-- **First/Firstly, ...** - Đầu tiên...
-- **Second/Secondly, ...** - Thứ hai...
-- **For example, ...** - Ví dụ...
-
-### 3. Phản bác ý kiến
-- **I don't agree with you.** - Tôi không đồng ý với bạn.
-- **I don't think so.** - Tôi không nghĩ vậy.
-- **However, ...** - Tuy nhiên...
-- **On the other hand, ...** - Mặt khác...
+1. advantage: (n) ưu điểm, lợi thế /ədˈvɑːntɪdʒ/
+2. disadvantage: (n) nhược điểm, bất lợi /ˌdɪsədˈvɑːntɪdʒ/
+3. pace: (n) tốc độ /peɪs/
+4. technical problem: (n.phr) vấn đề kỹ thuật /ˈteknɪkl ˈprɒbləm/
+5. schedule: (n) lịch trình /ˈʃedjuːl/
+6. organise: (v) tổ chức, sắp xếp /ˈɔːɡənaɪz/
+7. assignment: (n) bài tập /əˈsaɪnmənt/
+8. distraction: (n) sự xao nhãng /dɪˈstrækʃn/
+9. outweigh: (v) lớn hơn, vượt trội /ˌaʊtˈweɪ/
+10. significant: (adj) đáng kể /sɪɡˈnɪfɪkənt/
+11. at one's own pace: (adv.phr) theo tốc độ của riêng mình /ət wʌnz əʊn peɪs/
+12. Internet connection: (n.phr) kết nối Internet /ˈɪntənet kəˈnekʃn/
+13. face to face: (adv.phr) mặt đối mặt /feɪs tə feɪs/
+14. attend lessons: (v.phr) tham dự bài học /əˈtend ˈlesnz/
+15. facial expression: (n.phr) nét mặt /ˈfeɪʃl ɪkˈspreʃn/
+16. body language: (n.phr) ngôn ngữ cơ thể /ˈbɒdi ˈlæŋɡwɪdʒ/

@@ -3,18 +3,20 @@
 ## Preparing for lessons
 *(Chuẩn bị cho bài học)*
 
-### Vocabulary
+### New words
 
-1. **population** /ˌpɒpjuˈleɪʃn/ (n): dân số
-2. **log in** /lɒɡ ɪn/ (phr.v): đăng nhập
-3. **account** /əˈkaʊnt/ (n): tài khoản
-4. **folder** /ˈfəʊldə/ (n): thư mục
-5. **reading passage** /ˈriːdɪŋ ˈpæsɪdʒ/ (n.phr): bài đọc
-6. **slide** /slaɪd/ (n): slide (trang trình chiếu)
-7. **mindmap** /ˈmaɪndmæp/ (n): sơ đồ tư duy
-8. **impact** /ˈɪmpækt/ (n): tác động
-9. **environment** /ɪnˈvaɪrənmənt/ (n): môi trường
-10. **discover** /dɪˈskʌvə/ (v): khám phá
+1. population: (n) dân số /ˌpɒpjuˈleɪʃn/
+2. log in: (phr.v) đăng nhập /lɒɡ ɪn/
+3. account: (n) tài khoản /əˈkaʊnt/
+4. folder: (n) thư mục /ˈfəʊldə/
+5. reading passage: (n.phr) bài đọc /ˈriːdɪŋ ˈpæsɪdʒ/
+6. slide: (n) slide, trang trình chiếu /slaɪd/
+7. mindmap: (n) sơ đồ tư duy /ˈmaɪndmæp/
+8. impact: (n) tác động /ˈɪmpækt/
+9. environment: (n) môi trường /ɪnˈvaɪrənmənt/
+10. discover: (v) khám phá /dɪˈskʌvə/
+11. review: (v) ôn lại, xem lại /rɪˈvjuː/
+12. related to: (adj) liên quan đến /rɪˈleɪtɪd tuː/
 
 ---
 
@@ -134,56 +136,23 @@ Theo quan điểm của tôi, học tập kết hợp hiệu quả hơn cách h�
 
 ---
 
-## Từ vựng tổng hợp
+## Vocabulary (Từ vựng)
 
-| Từ vựng | Phiên âm | Loại từ | Nghĩa |
-|---------|----------|---------|-------|
-| population | /ˌpɒpjuˈleɪʃn/ | n | dân số |
-| population growth | /ˌpɒpjuˈleɪʃn ɡrəʊθ/ | n.phr | sự gia tăng dân số |
-| log in | /lɒɡ ɪn/ | phr.v | đăng nhập |
-| account | /əˈkaʊnt/ | n | tài khoản |
-| folder | /ˈfəʊldə/ | n | thư mục |
-| reading passage | /ˈriːdɪŋ ˈpæsɪdʒ/ | n.phr | bài đọc |
-| slide | /slaɪd/ | n | slide (trang trình chiếu) |
-| take notes | /teɪk nəʊts/ | v.phr | ghi chú |
-| mindmap | /ˈmaɪndmæp/ | n | sơ đồ tư duy |
-| impact | /ˈɪmpækt/ | n | tác động |
-| environment | /ɪnˈvaɪrənmənt/ | n | môi trường |
-| discover | /dɪˈskʌvə/ | v | khám phá |
-| effective | /ɪˈfektɪv/ | adj | hiệu quả |
-| self-paced | /ˌself ˈpeɪst/ | adj | theo tốc độ của bản thân |
-| authentic | /ɔːˈθentɪk/ | adj | đích thực |
-| maximize | /ˈmæksɪmaɪz/ | v | tối đa hóa |
-| complete | /kəmˈpliːt/ | v | hoàn thành |
-| population map | /ˌpɒpjuˈleɪʃn mæp/ | n.phr | bản đồ dân số |
-| click | /klɪk/ | v | nhấp chuột |
-| present the main ideas | /prɪˈzent ðə meɪn aɪˈdɪəz/ | v.phr | trình bày ý chính |
-| suitable | /ˈsuːtəbl/ | adj | phù hợp |
-| newspaper article | /ˈnjuːspeɪpər ˈɑːtɪkl/ | n.phr | bài báo |
-| search the Internet | /sɜːtʃ ði ˈɪntənet/ | v.phr | tìm kiếm trên Internet |
-| write down | /raɪt daʊn/ | phr.v | viết ra, ghi lại |
-| live session | /laɪv ˈseʃn/ | n.phr | buổi học trực tiếp |
-| unique needs | /juːˈniːk niːdz/ | n.phr | nhu cầu riêng biệt |
-
----
-
-## Cụm từ và cấu trúc quan trọng
-
-### 1. Cụm động từ (Phrasal verbs)
-- **log in to** - đăng nhập vào
-  - *You should log in to your account on Eclass.*
-- **click on** - nhấp vào
-  - *Click on the Homework folder.*
-- **write down** - ghi lại
-  - *Write down what you've discovered.*
-
-### 2. Mệnh lệnh thức (Imperatives)
-- *To prepare for next week's class, you should...*
-- *Read the materials, watch the videos and take notes...*
-- *Work in groups of four...*
-- *Email me if you have any questions.*
-
-### 3. Cấu trúc câu hỏi gián tiếp
-- **Can we...?** - Chúng ta có thể...?
-- **Where can we...?** - Chúng ta có thể...ở đâu?
-- **Do we need to...?** - Chúng ta có cần...không?
+1. population: (n) dân số /ˌpɒpjuˈleɪʃn/
+2. population growth: (n.phr) sự gia tăng dân số /ˌpɒpjuˈleɪʃn ɡrəʊθ/
+3. log in: (phr.v) đăng nhập /lɒɡ ɪn/
+4. account: (n) tài khoản /əˈkaʊnt/
+5. folder: (n) thư mục /ˈfəʊldə/
+6. reading passage: (n.phr) bài đọc /ˈriːdɪŋ ˈpæsɪdʒ/
+7. slide: (n) slide, trang trình chiếu /slaɪd/
+8. take notes: (v.phr) ghi chú /teɪk nəʊts/
+9. mindmap: (n) sơ đồ tư duy /ˈmaɪndmæp/
+10. impact: (n) tác động /ˈɪmpækt/
+11. environment: (n) môi trường /ɪnˈvaɪrənmənt/
+12. discover: (v) khám phá /dɪˈskʌvə/
+13. effective: (adj) hiệu quả /ɪˈfektɪv/
+14. self-paced: (adj) theo tốc độ của bản thân /ˌself ˈpeɪst/
+15. click: (v) nhấp chuột /klɪk/
+16. suitable: (adj) phù hợp /ˈsuːtəbl/
+17. write down: (phr.v) viết ra, ghi lại /raɪt daʊn/
+18. live session: (n.phr) buổi học trực tiếp /laɪv ˈseʃn/

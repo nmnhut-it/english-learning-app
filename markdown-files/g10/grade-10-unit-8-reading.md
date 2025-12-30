@@ -3,18 +3,23 @@
 ## Online learning vs face-to-face learning
 *(Học trực tuyến và học trực tiếp)*
 
-### Vocabulary
+### New words
 
-1. **communicate** /kəˈmjuːnɪkeɪt/ (v): giao tiếp
-2. **immediately** /ɪˈmiːdiətli/ (adv): ngay lập tức
-3. **directly** /dəˈrektli/ (adv): trực tiếp
-4. **distraction** /dɪˈstrækʃn/ (n): sự xao nhãng
-5. **focused** /ˈfəʊkəst/ (adj): tập trung
-6. **advantage** /ədˈvɑːntɪdʒ/ (n): lợi thế
-7. **disadvantage** /ˌdɪsədˈvɑːntɪdʒ/ (n): bất lợi
-8. **discussion board** /dɪˈskʌʃn bɔːd/ (n.phr): bảng thảo luận
-9. **exchange** /ɪksˈtʃeɪndʒ/ (v): trao đổi
-10. **connection** /kəˈnekʃn/ (n): kết nối
+1. communicate: (v) giao tiếp /kəˈmjuːnɪkeɪt/
+2. immediately: (adv) ngay lập tức /ɪˈmiːdiətli/
+3. directly: (adv) trực tiếp /dəˈrektli/
+4. distraction: (n) sự xao nhãng /dɪˈstrækʃn/
+5. focused: (adj) tập trung /ˈfəʊkəst/
+6. advantage: (n) lợi thế, ưu điểm /ədˈvɑːntɪdʒ/
+7. disadvantage: (n) bất lợi, nhược điểm /ˌdɪsədˈvɑːntɪdʒ/
+8. discussion board: (n.phr) bảng thảo luận /dɪˈskʌʃn bɔːd/
+9. exchange: (v) trao đổi /ɪksˈtʃeɪndʒ/
+10. connection: (n) kết nối /kəˈnekʃn/
+11. blended learning: (n.phr) học kết hợp /ˈblendɪd ˈlɜːnɪŋ/
+12. online learning: (n.phr) học trực tuyến /ˌɒnˈlaɪn ˈlɜːnɪŋ/
+13. face-to-face learning: (n.phr) học trực tiếp /ˌfeɪs tə ˈfeɪs ˈlɜːnɪŋ/
+14. strategy: (n) chiến lược /ˈstrætədʒi/
+15. reply: (n, v) câu trả lời, trả lời /rɪˈplaɪ/
 
 ---
 
@@ -157,59 +162,23 @@ Tôi nghĩ học trực tuyến tốt hơn vì nó linh hoạt hơn. Tôi có th
 
 ---
 
-## Từ vựng tổng hợp
+## Vocabulary (Từ vựng)
 
-| Từ vựng | Phiên âm | Loại từ | Nghĩa |
-|---------|----------|---------|-------|
-| communicate | /kəˈmjuːnɪkeɪt/ | v | giao tiếp |
-| immediately | /ɪˈmiːdiətli/ | adv | ngay lập tức |
-| directly | /dəˈrektli/ | adv | trực tiếp |
-| distraction | /dɪˈstrækʃn/ | n | sự xao nhãng |
-| focused | /ˈfəʊkəst/ | adj | tập trung |
-| strategy | /ˈstrætədʒi/ | n | chiến lược |
-| advantage | /ədˈvɑːntɪdʒ/ | n | lợi thế, ưu điểm |
-| disadvantage | /ˌdɪsədˈvɑːntɪdʒ/ | n | bất lợi, nhược điểm |
-| blended learning | /ˈblendɪd ˈlɜːnɪŋ/ | n.phr | học kết hợp |
-| furthermore | /ˌfɜːðəˈmɔː/ | adv | hơn nữa |
-| discussion board | /dɪˈskʌʃn bɔːd/ | n.phr | bảng thảo luận |
-| exchange | /ɪksˈtʃeɪndʒ/ | v | trao đổi |
-| comment | /ˈkɒment/ | n | nhận xét |
-| connection | /kəˈnekʃn/ | n | kết nối |
-| flexible | /ˈfleksəbl/ | adj | linh hoạt |
-| ask for help | /ɑːsk fɔː help/ | v.phr | xin giúp đỡ |
-| wait for | /weɪt fɔː/ | v.phr | chờ đợi |
-| reply | /rɪˈplaɪ/ | n, v | trả lời |
-| keep sb focused | /kiːp ˈfəʊkəst/ | v.phr | giữ ai tập trung |
-| miss a lesson | /mɪs ə ˈlesn/ | v.phr | bỏ lỡ bài học |
-| at any time | /ət ˈeni taɪm/ | adv.phr | bất cứ lúc nào |
-| fast Internet connection | /fɑːst ˈɪntənet kəˈnekʃn/ | n.phr | kết nối Internet nhanh |
-| change from...to | /tʃeɪndʒ frəm...tuː/ | v.phr | thay đổi từ...sang |
-| traditional classroom | /trəˈdɪʃənl ˈklɑːsruːm/ | n.phr | lớp học truyền thống |
-| online class | /ˌɒnˈlaɪn klɑːs/ | n.phr | lớp học trực tuyến |
-
----
-
-## Cụm từ và cấu trúc quan trọng
-
-### 1. So sánh hơn/kém
-- **better than** - tốt hơn
-  - *Face-to-face learning is better than online learning.*
-- **fewer...than** - ít hơn
-  - *Traditional classroom has fewer distractions than online learning.*
-- **more...than** - nhiều hơn
-  - *Online learning has more advantages than disadvantages.*
-
-### 2. Cấu trúc quan trọng
-- **I think...because...** - Tôi nghĩ...bởi vì...
-  - *I think face-to-face learning is better because I can communicate directly.*
-- **This helps me + V** - Điều này giúp tôi...
-  - *This helps me understand the lessons better.*
-- **I can't do this in...** - Tôi không thể làm điều này trong...
-  - *I can't do this in online classes.*
-
-### 3. Liên từ và trạng từ liên kết
-- **furthermore** - hơn nữa
-- **however** - tuy nhiên
-- **because** - bởi vì
-- **so** - vì vậy
-- **but** - nhưng
+1. communicate: (v) giao tiếp /kəˈmjuːnɪkeɪt/
+2. immediately: (adv) ngay lập tức /ɪˈmiːdiətli/
+3. directly: (adv) trực tiếp /dəˈrektli/
+4. distraction: (n) sự xao nhãng /dɪˈstrækʃn/
+5. focused: (adj) tập trung /ˈfəʊkəst/
+6. strategy: (n) chiến lược /ˈstrætədʒi/
+7. advantage: (n) lợi thế, ưu điểm /ədˈvɑːntɪdʒ/
+8. disadvantage: (n) bất lợi, nhược điểm /ˌdɪsədˈvɑːntɪdʒ/
+9. blended learning: (n.phr) học kết hợp /ˈblendɪd ˈlɜːnɪŋ/
+10. furthermore: (adv) hơn nữa /ˌfɜːðəˈmɔː/
+11. discussion board: (n.phr) bảng thảo luận /dɪˈskʌʃn bɔːd/
+12. exchange: (v) trao đổi /ɪksˈtʃeɪndʒ/
+13. comment: (n) nhận xét /ˈkɒment/
+14. connection: (n) kết nối /kəˈnekʃn/
+15. flexible: (adj) linh hoạt /ˈfleksəbl/
+16. reply: (n, v) trả lời /rɪˈplaɪ/
+17. traditional classroom: (n.phr) lớp học truyền thống /trəˈdɪʃənl ˈklɑːsruːm/
+18. online class: (n.phr) lớp học trực tuyến /ˌɒnˈlaɪn klɑːs/

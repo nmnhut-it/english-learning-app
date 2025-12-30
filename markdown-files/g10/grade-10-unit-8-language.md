@@ -368,33 +368,25 @@ Các từ chức năng (function words) thường không được nhấn:
 
 ---
 
-## Từ vựng tổng hợp
+## Vocabulary (Từ vựng)
 
-| Từ vựng | Phiên âm | Loại từ | Nghĩa |
-|---------|----------|---------|-------|
-| face-to-face | /ˌfeɪs tə ˈfeɪs/ | adj | mặt đối mặt, trực tiếp |
-| prepare (for) | /prɪˈpeə/ | v | chuẩn bị (cho) |
-| strategy | /ˈstrætədʒi/ | n | chiến lược |
-| online learning | /ˌɒnˈlaɪn ˈlɜːnɪŋ/ | n.phr | học trực tuyến |
-| blended learning | /ˈblendɪd ˈlɜːnɪŋ/ | n.phr | học kết hợp |
-| immediately | /ɪˈmiːdiətli/ | adv | ngay lập tức |
-| directly | /dəˈrektli/ | adv | trực tiếp |
-| encourage | /ɪnˈkʌrɪdʒ/ | v | khuyến khích |
-| improve | /ɪmˈpruːv/ | v | cải thiện |
-| combine | /kəmˈbaɪn/ | v | kết hợp |
-| relative clause | /ˈrelətɪv klɔːz/ | n.phr | mệnh đề quan hệ |
-| defining | /dɪˈfaɪnɪŋ/ | adj | xác định |
-| non-defining | /nɒn dɪˈfaɪnɪŋ/ | adj | không xác định |
-| specific | /spəˈsɪfɪk/ | adj | cụ thể, đặc biệt |
-| communicate | /kəˈmjuːnɪkeɪt/ | v | giao tiếp |
-| allow | /əˈlaʊ/ | v | cho phép |
-| benefit | /ˈbenɪfɪt/ | n | lợi ích |
-| anytime | /ˈenitaɪm/ | adv | bất cứ lúc nào |
-| anywhere | /ˈeniweə/ | adv | bất cứ đâu |
-| impressive | /ɪmˈpresɪv/ | adj | ấn tượng |
-| instruction book | /ɪnˈstrʌkʃn bʊk/ | n.phr | sách hướng dẫn |
-| voice recorder | /vɔɪs rɪˈkɔːdə/ | n.phr | máy ghi âm |
-| workshop | /ˈwɜːkʃɒp/ | n | hội thảo |
-| presentation | /ˌpreznˈteɪʃn/ | n | bài thuyết trình |
-| invention | /ɪnˈvenʃn/ | n | phát minh |
-| pronunciation | /prəˌnʌnsiˈeɪʃn/ | n | cách phát âm |
+1. face-to-face: (adj) mặt đối mặt, trực tiếp /ˌfeɪs tə ˈfeɪs/
+2. prepare (for): (v) chuẩn bị (cho) /prɪˈpeə/
+3. strategy: (n) chiến lược /ˈstrætədʒi/
+4. online learning: (n.phr) học trực tuyến /ˌɒnˈlaɪn ˈlɜːnɪŋ/
+5. blended learning: (n.phr) học kết hợp /ˈblendɪd ˈlɜːnɪŋ/
+6. immediately: (adv) ngay lập tức /ɪˈmiːdiətli/
+7. directly: (adv) trực tiếp /dəˈrektli/
+8. encourage: (v) khuyến khích /ɪnˈkʌrɪdʒ/
+9. improve: (v) cải thiện /ɪmˈpruːv/
+10. combine: (v) kết hợp /kəmˈbaɪn/
+11. relative clause: (n.phr) mệnh đề quan hệ /ˈrelətɪv klɔːz/
+12. communicate: (v) giao tiếp /kəˈmjuːnɪkeɪt/
+13. allow: (v) cho phép /əˈlaʊ/
+14. benefit: (n) lợi ích /ˈbenɪfɪt/
+15. impressive: (adj) ấn tượng /ɪmˈpresɪv/
+16. instruction book: (n.phr) sách hướng dẫn /ɪnˈstrʌkʃn bʊk/
+17. workshop: (n) hội thảo /ˈwɜːkʃɒp/
+18. presentation: (n) bài thuyết trình /ˌpreznˈteɪʃn/
+19. invention: (n) phát minh /ɪnˈvenʃn/
+20. pronunciation: (n) cách phát âm /prəˌnʌnsiˈeɪʃn/

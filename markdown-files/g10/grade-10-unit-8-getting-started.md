@@ -3,16 +3,23 @@
 ## New learning activities
 *(Những hoạt động học tập mới)*
 
-### Vocabulary
+### New words
 
-1. **upload** /ˌʌpˈləʊd/ (v): tải lên
-2. **global warming** /ˈɡləʊbl ˈwɔːmɪŋ/ (n.phr): sự nóng lên toàn cầu
-3. **take notes** /teɪk nəʊts/ (v.phr): ghi chú
-4. **original** /əˈrɪdʒənl/ (adj): ban đầu, sáng tạo
-5. **prepare** /prɪˈpeə/ (v): chuẩn bị
-6. **material** /məˈtɪəriəl/ (n): tài liệu
-7. **control** /kənˈtrəʊl/ (n, v): kiểm soát
-8. **traditional** /trəˈdɪʃənl/ (adj): truyền thống
+1. upload: (v) tải lên /ˌʌpˈləʊd/
+2. global warming: (n.phr) sự nóng lên toàn cầu /ˈɡləʊbl ˈwɔːmɪŋ/
+3. take notes: (v.phr) ghi chú /teɪk nəʊts/
+4. original: (adj) ban đầu, sáng tạo /əˈrɪdʒənl/
+5. prepare: (v) chuẩn bị /prɪˈpeə/
+6. material: (n) tài liệu /məˈtɪəriəl/
+7. control: (n, v) kiểm soát /kənˈtrəʊl/
+8. traditional: (adj) truyền thống /trəˈdɪʃənl/
+9. geography: (n) địa lý /dʒiˈɒɡrəfi/
+10. discuss: (v) thảo luận /dɪˈskʌs/
+11. topic: (n) chủ đề /ˈtɒpɪk/
+12. prefer: (v) thích hơn /prɪˈfɜː/
+13. project: (n) dự án /ˈprɒdʒekt/
+14. method: (n) phương pháp /ˈmeθəd/
+15. useful: (adj) hữu ích /ˈjuːsfl/
 
 ---
 
@@ -172,60 +179,30 @@
 
 ---
 
-## Từ vựng tổng hợp
+## Vocabulary (Từ vựng)
 
-| Từ vựng | Phiên âm | Loại từ | Nghĩa |
-|---------|----------|---------|-------|
-| upload | /ˌʌpˈləʊd/ | v | tải lên |
-| geography | /dʒiˈɒɡrəfi/ | n | địa lý |
-| global warming | /ˈɡləʊbl ˈwɔːmɪŋ/ | n.phr | sự nóng lên toàn cầu |
-| topic | /ˈtɒpɪk/ | n | chủ đề |
-| discuss | /dɪˈskʌs/ | v | thảo luận |
-| take notes | /teɪk nəʊts/ | v.phr | ghi chú |
-| prefer | /prɪˈfɜː/ | v | thích hơn |
-| original | /əˈrɪdʒənl/ | adj | ban đầu, sáng tạo |
-| prepare | /prɪˈpeə/ | v | chuẩn bị |
-| material | /məˈtɪəriəl/ | n | tài liệu |
-| project | /ˈprɒdʒekt/ | n | dự án |
-| control | /kənˈtrəʊl/ | n, v | kiểm soát |
-| traditional | /trəˈdɪʃənl/ | adj | truyền thống |
-| method | /ˈmeθəd/ | n | phương pháp |
-| work in groups | /wɜːk ɪn ɡruːps/ | v.phr | làm việc theo nhóm |
-| search for | /sɜːtʃ fɔː/ | v.phr | tìm kiếm |
-| way of learning | /weɪ əv ˈlɜːnɪŋ/ | n.phr | cách học |
-| give sb a chance | /ɡɪv ə tʃɑːns/ | v.phr | cho ai cơ hội |
-| have control over | /həv kənˈtrəʊl ˈəʊvə/ | v.phr | kiểm soát được |
-| useful | /ˈjuːsfl/ | adj | hữu ích |
-| lucky | /ˈlʌki/ | adj | may mắn |
-| wish | /wɪʃ/ | v | ước |
-| activity | /ækˈtɪvəti/ | n | hoạt động |
-| homework | /ˈhəʊmwɜːk/ | n | bài tập về nhà |
-| classmate | /ˈklɑːsmeɪt/ | n | bạn cùng lớp |
-| understand | /ˌʌndəˈstænd/ | v | hiểu |
-| lesson | /ˈlesn/ | n | bài học |
-
----
-
-## Cụm từ và cấu trúc quan trọng
-
-### 1. Cụm động từ (Phrasal verbs)
-- **upload on** - tải lên (một nền tảng)
-  - *My teacher uploaded the video on Eclass.*
-- **search for** - tìm kiếm
-  - *You can search for more information at home.*
-- **work in groups** - làm việc theo nhóm
-  - *We'll work in groups and discuss the topic.*
-
-### 2. Cấu trúc câu quan trọng
-- **It gives me a chance to + V** - Nó cho tôi cơ hội để...
-  - *It gives me a chance to discuss with my classmates.*
-- **This way of + V-ing** - Cách... này
-  - *This way of studying is quite useful.*
-- **I wish I could + V** - Tôi ước tôi có thể...
-  - *I wish I could try these new learning activities.*
-
-### 3. Mệnh đề quan hệ trong bài
-- **...the video that my teacher uploaded** (mệnh đề xác định)
-- **...classmates, who may have original ideas** (mệnh đề không xác định)
-- **...projects that help us understand** (mệnh đề xác định)
-- **...which gives us more control** (mệnh đề không xác định)
+1. upload: (v) tải lên /ˌʌpˈləʊd/
+2. geography: (n) địa lý /dʒiˈɒɡrəfi/
+3. global warming: (n.phr) sự nóng lên toàn cầu /ˈɡləʊbl ˈwɔːmɪŋ/
+4. topic: (n) chủ đề /ˈtɒpɪk/
+5. discuss: (v) thảo luận /dɪˈskʌs/
+6. take notes: (v.phr) ghi chú /teɪk nəʊts/
+7. prefer: (v) thích hơn /prɪˈfɜː/
+8. original: (adj) ban đầu, sáng tạo /əˈrɪdʒənl/
+9. prepare: (v) chuẩn bị /prɪˈpeə/
+10. material: (n) tài liệu /məˈtɪəriəl/
+11. project: (n) dự án /ˈprɒdʒekt/
+12. control: (n, v) kiểm soát /kənˈtrəʊl/
+13. traditional: (adj) truyền thống /trəˈdɪʃənl/
+14. method: (n) phương pháp /ˈmeθəd/
+15. work in groups: (v.phr) làm việc theo nhóm /wɜːk ɪn ɡruːps/
+16. search for: (v.phr) tìm kiếm /sɜːtʃ fɔː/
+17. way of learning: (n.phr) cách học /weɪ əv ˈlɜːnɪŋ/
+18. useful: (adj) hữu ích /ˈjuːsfl/
+19. lucky: (adj) may mắn /ˈlʌki/
+20. wish: (v) ước /wɪʃ/
+21. activity: (n) hoạt động /ækˈtɪvəti/
+22. homework: (n) bài tập về nhà /ˈhəʊmwɜːk/
+23. classmate: (n) bạn cùng lớp /ˈklɑːsmeɪt/
+24. understand: (v) hiểu /ˌʌndəˈstænd/
+25. lesson: (n) bài học /ˈlesn/

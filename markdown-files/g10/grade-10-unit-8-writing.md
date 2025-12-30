@@ -3,15 +3,18 @@
 ## Writing about the benefits of blended learning
 *(Viết về lợi ích của việc học kết hợp)*
 
-### Vocabulary
+### New words
 
-1. **blended learning** /ˈblendɪd ˈlɜːnɪŋ/ (n.phr): học kết hợp
-2. **control** /kənˈtrəʊl/ (n, v): kiểm soát
-3. **access** /ˈækses/ (n, v): truy cập
-4. **lesson materials** /ˈlesn məˈtɪəriəlz/ (n.phr): tài liệu bài học
-5. **communication skills** /kəˌmjuːnɪˈkeɪʃn skɪlz/ (n.phr): kỹ năng giao tiếp
-6. **teamwork skills** /ˈtiːmwɜːk skɪlz/ (n.phr): kỹ năng làm việc nhóm
-7. **engaged** /ɪnˈɡeɪdʒd/ (adj): tham gia, gắn kết
+1. blended learning: (n.phr) học kết hợp /ˈblendɪd ˈlɜːnɪŋ/
+2. control: (n, v) kiểm soát /kənˈtrəʊl/
+3. access: (n, v) truy cập /ˈækses/
+4. lesson materials: (n.phr) tài liệu bài học /ˈlesn məˈtɪəriəlz/
+5. communication skills: (n.phr) kỹ năng giao tiếp /kəˌmjuːnɪˈkeɪʃn skɪlz/
+6. teamwork skills: (n.phr) kỹ năng làm việc nhóm /ˈtiːmwɜːk skɪlz/
+7. engaged: (adj) tham gia, gắn kết /ɪnˈɡeɪdʒd/
+8. benefit: (n) lợi ích /ˈbenɪfɪt/
+9. suitable: (adj) phù hợp /ˈsuːtəbl/
+10. provide: (v) cung cấp /prəˈvaɪd/
 
 ---
 
@@ -146,50 +149,19 @@ Học kết hợp là một cách học một môn học, kết hợp học qua 
 
 ---
 
-## Từ vựng tổng hợp
+## Vocabulary (Từ vựng)
 
-| Từ vựng | Phiên âm | Loại từ | Nghĩa |
-|---------|----------|---------|-------|
-| blended learning | /ˈblendɪd ˈlɜːnɪŋ/ | n.phr | học kết hợp |
-| control | /kənˈtrəʊl/ | n, v | kiểm soát |
-| access | /ˈækses/ | n, v | truy cập |
-| lesson materials | /ˈlesn məˈtɪəriəlz/ | n.phr | tài liệu bài học |
-| video lecture | /ˈvɪdiəʊ ˈlektʃə/ | n.phr | bài giảng video |
-| communication skills | /kəˌmjuːnɪˈkeɪʃn skɪlz/ | n.phr | kỹ năng giao tiếp |
-| teamwork skills | /ˈtiːmwɜːk skɪlz/ | n.phr | kỹ năng làm việc nhóm |
-| pair work | /peə wɜːk/ | n.phr | làm việc theo cặp |
-| group work | /ɡruːp wɜːk/ | n.phr | làm việc nhóm |
-| engaged | /ɪnˈɡeɪdʒd/ | adj | tham gia, gắn kết |
-| social media | /ˈsəʊʃl ˈmiːdiə/ | n.phr | mạng xã hội |
-| have more control over | /həv mɔː kənˈtrəʊl ˈəʊvə/ | v.phr | kiểm soát tốt hơn |
-| get access to | /ɡet ˈækses tuː/ | v.phr | truy cập được vào |
-| at any time | /ət ˈeni taɪm/ | adv.phr | bất cứ lúc nào |
-| review lessons | /rɪˈvjuː ˈlesnz/ | v.phr | xem lại bài học |
-| be absent from school | /bi ˈæbsənt frəm skuːl/ | v.phr | nghỉ học |
-| miss a lesson | /mɪs ə ˈlesn/ | v.phr | bỏ lỡ bài học |
-| assign for homework | /əˈsaɪn fɔː ˈhəʊmwɜːk/ | v.phr | giao làm bài tập về nhà |
-| unlike | /ˌʌnˈlaɪk/ | prep | không giống như |
-| text message | /tekst ˈmesɪdʒ/ | n.phr | tin nhắn văn bản |
-| keep sb engaged | /kiːp ɪnˈɡeɪdʒd/ | v.phr | giữ ai tham gia |
-| useful skills | /ˈjuːsfl skɪlz/ | n.phr | kỹ năng hữu ích |
-| benefit | /ˈbenɪfɪt/ | n | lợi ích |
-| provide sb with sth | /prəˈvaɪd wɪð/ | v.phr | cung cấp cho ai cái gì |
-
----
-
-## Cấu trúc viết đoạn văn
-
-### 1. Mở bài (Topic sentence)
-- **...is a way of studying..., which combines...and...**
-  - *Blended learning is a way of studying, which combines online learning and face-to-face learning.*
-
-### 2. Thân bài (Supporting sentences)
-- **Firstly/First, ...** - Thứ nhất...
-- **Secondly/Second, ...** - Thứ hai...
-- **This means/allows/helps...** - Điều này có nghĩa là/cho phép/giúp...
-- **For example, ...** - Ví dụ...
-- **Unlike..., ...** - Không giống như..., ...
-
-### 3. Kết bài (Concluding sentence)
-- **In conclusion, ...** - Tóm lại...
-- **I think we should...because...** - Tôi nghĩ chúng ta nên...bởi vì...
+1. blended learning: (n.phr) học kết hợp /ˈblendɪd ˈlɜːnɪŋ/
+2. control: (n, v) kiểm soát /kənˈtrəʊl/
+3. access: (n, v) truy cập /ˈækses/
+4. lesson materials: (n.phr) tài liệu bài học /ˈlesn məˈtɪəriəlz/
+5. video lecture: (n.phr) bài giảng video /ˈvɪdiəʊ ˈlektʃə/
+6. communication skills: (n.phr) kỹ năng giao tiếp /kəˌmjuːnɪˈkeɪʃn skɪlz/
+7. teamwork skills: (n.phr) kỹ năng làm việc nhóm /ˈtiːmwɜːk skɪlz/
+8. pair work: (n.phr) làm việc theo cặp /peə wɜːk/
+9. group work: (n.phr) làm việc nhóm /ɡruːp wɜːk/
+10. engaged: (adj) tham gia, gắn kết /ɪnˈɡeɪdʒd/
+11. social media: (n.phr) mạng xã hội /ˈsəʊʃl ˈmiːdiə/
+12. benefit: (n) lợi ích /ˈbenɪfɪt/
+13. unlike: (prep) không giống như /ˌʌnˈlaɪk/
+14. text message: (n.phr) tin nhắn văn bản /tekst ˈmesɪdʒ/
