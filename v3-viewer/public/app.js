@@ -1815,3 +1815,498 @@ class GameLauncher {
 
 // Initialize Game Launcher
 const gameLauncher = new GameLauncher();
+
+// ============================================
+// Classroom Timer Widget
+// ============================================
+
+class ClassroomTimer {
+    constructor() {
+        this.isRunning = false;
+        this.timeRemaining = 0;
+        this.totalTime = 0;
+        this.interval = null;
+        this.widget = null;
+        this.audioContext = null;
+        this.presets = [
+            { label: '1 phút', seconds: 60 },
+            { label: '2 phút', seconds: 120 },
+            { label: '3 phút', seconds: 180 },
+            { label: '5 phút', seconds: 300 },
+            { label: '10 phút', seconds: 600 },
+        ];
+        this.init();
+    }
+
+    init() {
+        this.createWidget();
+        this.setupKeyboardShortcut();
+    }
+
+    getAudioContext() {
+        if (!this.audioContext) {
+            this.audioContext = new (window.AudioContext || window.webkitAudioContext)();
+        }
+        return this.audioContext;
+    }
+
+    createWidget() {
+        // Create floating timer widget
+        this.widget = document.createElement('div');
+        this.widget.id = 'classroom-timer';
+        this.widget.innerHTML = `
+            <div class="timer-header">
+                <span class="timer-title">⏱️ Timer</span>
+                <button class="timer-toggle-btn" title="Thu nhỏ">−</button>
+            </div>
+            <div class="timer-body">
+                <div class="timer-display">
+                    <span class="timer-time">00:00</span>
+                </div>
+                <div class="timer-progress">
+                    <div class="timer-progress-bar"></div>
+                </div>
+                <div class="timer-presets">
+                    ${this.presets.map(p => `<button data-seconds="${p.seconds}">${p.label}</button>`).join('')}
+                </div>
+                <div class="timer-custom">
+                    <input type="number" class="timer-custom-input" min="1" max="60" value="5" placeholder="Phút">
+                    <button class="timer-custom-btn">Đặt</button>
+                </div>
+                <div class="timer-controls">
+                    <button class="timer-start">▶ Bắt đầu</button>
+                    <button class="timer-pause" style="display:none">⏸ Tạm dừng</button>
+                    <button class="timer-reset">↺ Reset</button>
+                </div>
+            </div>
+        `;
+
+        this.addWidgetStyles();
+        document.body.appendChild(this.widget);
+
+        // Event listeners
+        this.setupEventListeners();
+
+        // Start minimized
+        this.widget.classList.add('minimized');
+    }
+
+    addWidgetStyles() {
+        if (document.getElementById('timer-widget-styles')) return;
+
+        const style = document.createElement('style');
+        style.id = 'timer-widget-styles';
+        style.textContent = `
+            #classroom-timer {
+                position: fixed;
+                bottom: 20px;
+                right: 20px;
+                background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%);
+                border: 2px solid #6366f1;
+                border-radius: 16px;
+                box-shadow: 0 8px 32px rgba(99, 102, 241, 0.3);
+                z-index: 9999;
+                font-family: 'Segoe UI', system-ui, sans-serif;
+                color: #e2e8f0;
+                min-width: 200px;
+                transition: all 0.3s ease;
+                overflow: hidden;
+            }
+            #classroom-timer.minimized .timer-body {
+                display: none;
+            }
+            #classroom-timer.minimized {
+                min-width: 120px;
+            }
+            #classroom-timer.warning {
+                border-color: #f59e0b;
+                animation: timer-pulse 0.5s ease-in-out infinite alternate;
+            }
+            #classroom-timer.danger {
+                border-color: #ef4444;
+                animation: timer-pulse 0.3s ease-in-out infinite alternate;
+            }
+            @keyframes timer-pulse {
+                from { box-shadow: 0 8px 32px rgba(239, 68, 68, 0.3); }
+                to { box-shadow: 0 8px 48px rgba(239, 68, 68, 0.6); }
+            }
+            .timer-header {
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                padding: 10px 15px;
+                background: rgba(99, 102, 241, 0.2);
+                cursor: move;
+            }
+            .timer-title {
+                font-weight: 600;
+                font-size: 14px;
+            }
+            .timer-toggle-btn {
+                background: none;
+                border: none;
+                color: #94a3b8;
+                font-size: 18px;
+                cursor: pointer;
+                padding: 0 5px;
+            }
+            .timer-toggle-btn:hover {
+                color: #e2e8f0;
+            }
+            .timer-body {
+                padding: 15px;
+            }
+            .timer-display {
+                text-align: center;
+                margin-bottom: 10px;
+            }
+            .timer-time {
+                font-size: 48px;
+                font-weight: 700;
+                font-family: 'Courier New', monospace;
+                color: #fff;
+                text-shadow: 0 0 20px rgba(99, 102, 241, 0.5);
+            }
+            #classroom-timer.warning .timer-time {
+                color: #f59e0b;
+            }
+            #classroom-timer.danger .timer-time {
+                color: #ef4444;
+            }
+            .timer-progress {
+                height: 6px;
+                background: #334155;
+                border-radius: 3px;
+                margin-bottom: 15px;
+                overflow: hidden;
+            }
+            .timer-progress-bar {
+                height: 100%;
+                background: linear-gradient(90deg, #6366f1, #8b5cf6);
+                border-radius: 3px;
+                width: 100%;
+                transition: width 0.5s linear;
+            }
+            #classroom-timer.warning .timer-progress-bar {
+                background: linear-gradient(90deg, #f59e0b, #fbbf24);
+            }
+            #classroom-timer.danger .timer-progress-bar {
+                background: linear-gradient(90deg, #ef4444, #f87171);
+            }
+            .timer-presets {
+                display: flex;
+                flex-wrap: wrap;
+                gap: 5px;
+                margin-bottom: 10px;
+            }
+            .timer-presets button {
+                flex: 1;
+                min-width: 60px;
+                padding: 6px 10px;
+                background: #334155;
+                border: 1px solid #475569;
+                border-radius: 6px;
+                color: #e2e8f0;
+                font-size: 12px;
+                cursor: pointer;
+                transition: all 0.2s;
+            }
+            .timer-presets button:hover {
+                background: #475569;
+                border-color: #6366f1;
+            }
+            .timer-presets button.active {
+                background: #6366f1;
+                border-color: #6366f1;
+            }
+            .timer-custom {
+                display: flex;
+                gap: 5px;
+                margin-bottom: 10px;
+            }
+            .timer-custom-input {
+                flex: 1;
+                padding: 6px 10px;
+                background: #1e293b;
+                border: 1px solid #475569;
+                border-radius: 6px;
+                color: #e2e8f0;
+                font-size: 14px;
+                text-align: center;
+            }
+            .timer-custom-btn {
+                padding: 6px 15px;
+                background: #475569;
+                border: 1px solid #6366f1;
+                border-radius: 6px;
+                color: #e2e8f0;
+                font-size: 12px;
+                cursor: pointer;
+            }
+            .timer-custom-btn:hover {
+                background: #6366f1;
+            }
+            .timer-controls {
+                display: flex;
+                gap: 8px;
+            }
+            .timer-controls button {
+                flex: 1;
+                padding: 10px;
+                border: none;
+                border-radius: 8px;
+                font-size: 13px;
+                font-weight: 600;
+                cursor: pointer;
+                transition: all 0.2s;
+            }
+            .timer-start {
+                background: linear-gradient(135deg, #10b981 0%, #059669 100%);
+                color: white;
+            }
+            .timer-start:hover {
+                transform: translateY(-1px);
+                box-shadow: 0 4px 12px rgba(16, 185, 129, 0.4);
+            }
+            .timer-pause {
+                background: linear-gradient(135deg, #f59e0b 0%, #d97706 100%);
+                color: white;
+            }
+            .timer-reset {
+                background: #475569;
+                color: #e2e8f0;
+            }
+            .timer-reset:hover {
+                background: #64748b;
+            }
+            /* Fullscreen mode for classroom display */
+            #classroom-timer.fullscreen {
+                position: fixed;
+                top: 0;
+                left: 0;
+                right: 0;
+                bottom: 0;
+                border-radius: 0;
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+                min-width: 100%;
+            }
+            #classroom-timer.fullscreen .timer-time {
+                font-size: 200px;
+            }
+            #classroom-timer.fullscreen .timer-body {
+                width: 100%;
+                max-width: 600px;
+            }
+        `;
+        document.head.appendChild(style);
+    }
+
+    setupEventListeners() {
+        // Toggle minimize
+        this.widget.querySelector('.timer-toggle-btn').onclick = () => {
+            this.widget.classList.toggle('minimized');
+            const btn = this.widget.querySelector('.timer-toggle-btn');
+            btn.textContent = this.widget.classList.contains('minimized') ? '+' : '−';
+        };
+
+        // Preset buttons
+        this.widget.querySelectorAll('.timer-presets button').forEach(btn => {
+            btn.onclick = () => {
+                const seconds = parseInt(btn.dataset.seconds);
+                this.setTime(seconds);
+                this.widget.querySelectorAll('.timer-presets button').forEach(b => b.classList.remove('active'));
+                btn.classList.add('active');
+            };
+        });
+
+        // Custom time
+        this.widget.querySelector('.timer-custom-btn').onclick = () => {
+            const input = this.widget.querySelector('.timer-custom-input');
+            const minutes = parseInt(input.value) || 5;
+            this.setTime(minutes * 60);
+        };
+
+        // Start/Pause
+        this.widget.querySelector('.timer-start').onclick = () => this.start();
+        this.widget.querySelector('.timer-pause').onclick = () => this.pause();
+        this.widget.querySelector('.timer-reset').onclick = () => this.reset();
+
+        // Make draggable
+        this.makeDraggable();
+
+        // Double-click header for fullscreen
+        this.widget.querySelector('.timer-header').ondblclick = () => {
+            this.widget.classList.toggle('fullscreen');
+        };
+    }
+
+    setupKeyboardShortcut() {
+        document.addEventListener('keydown', (e) => {
+            if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') return;
+
+            // T key (with Alt) to toggle timer
+            if (e.key === 't' && e.altKey) {
+                e.preventDefault();
+                this.widget.classList.toggle('minimized');
+                const btn = this.widget.querySelector('.timer-toggle-btn');
+                btn.textContent = this.widget.classList.contains('minimized') ? '+' : '−';
+            }
+        });
+    }
+
+    makeDraggable() {
+        const header = this.widget.querySelector('.timer-header');
+        let isDragging = false;
+        let offsetX, offsetY;
+
+        header.onmousedown = (e) => {
+            if (this.widget.classList.contains('fullscreen')) return;
+            isDragging = true;
+            offsetX = e.clientX - this.widget.offsetLeft;
+            offsetY = e.clientY - this.widget.offsetTop;
+            this.widget.style.transition = 'none';
+        };
+
+        document.onmousemove = (e) => {
+            if (!isDragging) return;
+            const x = Math.max(0, Math.min(window.innerWidth - this.widget.offsetWidth, e.clientX - offsetX));
+            const y = Math.max(0, Math.min(window.innerHeight - this.widget.offsetHeight, e.clientY - offsetY));
+            this.widget.style.left = x + 'px';
+            this.widget.style.right = 'auto';
+            this.widget.style.top = y + 'px';
+            this.widget.style.bottom = 'auto';
+        };
+
+        document.onmouseup = () => {
+            isDragging = false;
+            this.widget.style.transition = 'all 0.3s ease';
+        };
+    }
+
+    setTime(seconds) {
+        this.totalTime = seconds;
+        this.timeRemaining = seconds;
+        this.updateDisplay();
+        this.widget.classList.remove('warning', 'danger');
+    }
+
+    start() {
+        if (this.timeRemaining <= 0) return;
+
+        this.isRunning = true;
+        this.widget.querySelector('.timer-start').style.display = 'none';
+        this.widget.querySelector('.timer-pause').style.display = 'block';
+        this.widget.classList.remove('minimized');
+
+        // Play start sound
+        this.playSound('start');
+
+        this.interval = setInterval(() => {
+            this.timeRemaining--;
+            this.updateDisplay();
+
+            // Warning at 30 seconds
+            if (this.timeRemaining === 30) {
+                this.widget.classList.add('warning');
+                this.playSound('warning');
+            }
+
+            // Danger at 10 seconds
+            if (this.timeRemaining === 10) {
+                this.widget.classList.remove('warning');
+                this.widget.classList.add('danger');
+            }
+
+            // Last 5 seconds tick
+            if (this.timeRemaining <= 5 && this.timeRemaining > 0) {
+                this.playSound('tick');
+            }
+
+            // Time's up
+            if (this.timeRemaining <= 0) {
+                this.stop();
+                this.playSound('timesUp');
+            }
+        }, 1000);
+    }
+
+    pause() {
+        this.isRunning = false;
+        clearInterval(this.interval);
+        this.widget.querySelector('.timer-start').style.display = 'block';
+        this.widget.querySelector('.timer-pause').style.display = 'none';
+    }
+
+    stop() {
+        this.pause();
+        this.widget.classList.remove('warning', 'danger');
+    }
+
+    reset() {
+        this.stop();
+        this.timeRemaining = this.totalTime;
+        this.updateDisplay();
+    }
+
+    updateDisplay() {
+        const minutes = Math.floor(this.timeRemaining / 60);
+        const seconds = this.timeRemaining % 60;
+        const display = `${minutes.toString().padStart(2, '0')}:${seconds.toString().padStart(2, '0')}`;
+        this.widget.querySelector('.timer-time').textContent = display;
+
+        // Update progress bar
+        const progress = this.totalTime > 0 ? (this.timeRemaining / this.totalTime) * 100 : 100;
+        this.widget.querySelector('.timer-progress-bar').style.width = progress + '%';
+    }
+
+    playSound(type) {
+        try {
+            const ctx = this.getAudioContext();
+            const osc = ctx.createOscillator();
+            const gain = ctx.createGain();
+            osc.connect(gain);
+            gain.connect(ctx.destination);
+
+            const sounds = {
+                start: { freq: 800, duration: 0.2, wave: 'sine' },
+                tick: { freq: 1000, duration: 0.05, wave: 'square' },
+                warning: { freq: 600, duration: 0.3, wave: 'triangle' },
+                timesUp: { freq: 440, duration: 0.5, wave: 'sawtooth' },
+            };
+
+            const sound = sounds[type] || sounds.tick;
+            osc.frequency.value = sound.freq;
+            osc.type = sound.wave;
+            gain.gain.setValueAtTime(0.3, ctx.currentTime);
+            gain.gain.exponentialRampToValueAtTime(0.01, ctx.currentTime + sound.duration);
+            osc.start();
+            osc.stop(ctx.currentTime + sound.duration);
+
+            // For time's up, play multiple beeps
+            if (type === 'timesUp') {
+                for (let i = 1; i < 4; i++) {
+                    setTimeout(() => {
+                        const o = ctx.createOscillator();
+                        const g = ctx.createGain();
+                        o.connect(g);
+                        g.connect(ctx.destination);
+                        o.frequency.value = 880;
+                        o.type = 'square';
+                        g.gain.setValueAtTime(0.3, ctx.currentTime);
+                        g.gain.exponentialRampToValueAtTime(0.01, ctx.currentTime + 0.15);
+                        o.start();
+                        o.stop(ctx.currentTime + 0.15);
+                    }, i * 200);
+                }
+            }
+        } catch (e) {
+            console.warn('Could not play timer sound:', e);
+        }
+    }
+}
+
+// Initialize Timer Widget
+const classroomTimer = new ClassroomTimer();
