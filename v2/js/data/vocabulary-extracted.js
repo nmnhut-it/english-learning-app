@@ -1,6 +1,6 @@
 /**
  * Extracted Vocabulary Data
- * Generated: 2025-12-30T07:12:54.869Z
+ * Generated: 2025-12-30T07:25:57.025Z
  * Files processed: 599
  * Total words: 14928
  * After deduplication: 8232
@@ -795,50 +795,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "Chủ từ",
-        "pos": "",
-        "meaning": "Duy",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g6_part_1",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "Chủ từ",
-        "pos": "",
-        "meaning": "My new school",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g6_part_1",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "Chủ từ",
-        "pos": "",
-        "meaning": "you",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g6_part_1",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "Chủ từ",
-        "pos": "",
-        "meaning": "she",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g6_part_1",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "from",
         "pos": "prep",
         "meaning": "từ",
@@ -854,17 +810,6 @@ const EXTRACTED_VOCABULARY = {
         "pos": "prep",
         "meaning": "xung quanh",
         "ipa": "/əˈraʊnd/",
-        "format": "grade6",
-        "source": "g6_part_1",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "here",
-        "pos": "adv",
-        "meaning": "ở đây",
-        "ipa": "/hɪr/",
         "format": "grade6",
         "source": "g6_part_1",
         "grade": 6,
@@ -993,17 +938,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "school",
-        "pos": "n",
-        "meaning": "trường học",
-        "ipa": "/skuːl/",
-        "format": "grade6",
-        "source": "g6_part_1",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "hungry",
         "pos": "adj",
         "meaning": "đói",
@@ -1030,17 +964,6 @@ const EXTRACTED_VOCABULARY = {
         "pos": "n",
         "meaning": "bóng đá",
         "ipa": "/ˈfʊt.bɔːl/",
-        "format": "grade6",
-        "source": "g6_part_1",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "to",
-        "pos": "prep",
-        "meaning": "đến",
-        "ipa": "/tuː/",
         "format": "grade6",
         "source": "g6_part_1",
         "grade": 6,
@@ -1238,17 +1161,6 @@ const EXTRACTED_VOCABULARY = {
         "word": "they",
         "pos": "pron",
         "meaning": "họ",
-        "ipa": "",
-        "format": "grade9-escaped",
-        "source": "g6_part_1",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "like",
-        "pos": "prep",
-        "meaning": "như",
         "ipa": "",
         "format": "grade9-escaped",
         "source": "g6_part_1",
@@ -1620,17 +1532,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "do",
-        "pos": "v",
-        "meaning": "làm, có",
-        "ipa": "",
-        "format": "grade9-escaped",
-        "source": "g6_part_1",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "paintings",
         "pos": "n",
         "meaning": "bức tranh",
@@ -1779,28 +1680,6 @@ const EXTRACTED_VOCABULARY = {
         "meaning": "bao nhiêu",
         "ipa": "",
         "format": "grade7-8-no-ipa",
-        "source": "g6_part_1",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "what",
-        "pos": "",
-        "meaning": "gì",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g6_part_1",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "calculator",
-        "pos": "",
-        "meaning": "Bạn có thể cho tôi mượn máy tính bỏ túi một chút không?",
-        "ipa": "",
-        "format": "grade9-escaped",
         "source": "g6_part_1",
         "grade": 6,
         "unit": null,
@@ -2280,17 +2159,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "garden",
-        "pos": "n",
-        "meaning": "khu vườn",
-        "ipa": "/ˈɡɑːdn/",
-        "format": "grade6",
-        "source": "g6_part_10",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "has a park view",
         "pos": "",
         "meaning": "có góc nhìn ra công viên /hæz ə pɑːk vjuː/",
@@ -2338,17 +2206,6 @@ const EXTRACTED_VOCABULARY = {
         "word": "robots",
         "pos": "",
         "meaning": "look after the house",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g6_part_10",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "washing machine",
-        "pos": "",
-        "meaning": "wash clothes",
         "ipa": "",
         "format": "grade7-8-no-ipa",
         "source": "g6_part_10",
@@ -2720,72 +2577,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "rubbish",
-        "pos": "",
-        "meaning": "rác",
-        "ipa": "",
-        "format": "grade9-escaped",
-        "source": "g6_part_11",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "plastic bag",
-        "pos": "",
-        "meaning": "túi nhựa",
-        "ipa": "",
-        "format": "grade9-escaped",
-        "source": "g6_part_11",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "glass",
-        "pos": "",
-        "meaning": "thủy tinh",
-        "ipa": "",
-        "format": "grade9-escaped",
-        "source": "g6_part_11",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "plastic bottle",
-        "pos": "",
-        "meaning": "chai nhựa",
-        "ipa": "",
-        "format": "grade9-escaped",
-        "source": "g6_part_11",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "noise",
-        "pos": "",
-        "meaning": "tiếng ồn",
-        "ipa": "",
-        "format": "grade9-escaped",
-        "source": "g6_part_11",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "paper",
-        "pos": "",
-        "meaning": "giấy",
-        "ipa": "",
-        "format": "grade9-escaped",
-        "source": "g6_part_11",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "Don't do that",
         "pos": "",
         "meaning": "không làm điều đó /dəʊnt duː ðæt/",
@@ -2812,17 +2603,6 @@ const EXTRACTED_VOCABULARY = {
         "pos": "n",
         "meaning": "cuộc khảo sát, điều tra",
         "ipa": "/ˈsɜːveɪ/",
-        "format": "grade6",
-        "source": "g6_part_11",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "survey",
-        "pos": "v",
-        "meaning": "khảo sát, điều tra",
-        "ipa": "/səˈveɪ/",
         "format": "grade6",
         "source": "g6_part_11",
         "grade": 6,
@@ -3072,17 +2852,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "a",
-        "pos": "",
-        "meaning": "tặng cái gì đó cho ai đó để nhận lại cái gì đó từ anh ấy/cô ấy",
-        "ipa": "",
-        "format": "grade9-escaped",
-        "source": "g6_part_11",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "b",
         "pos": "",
         "meaning": "reusable: có thể sử dụng lại",
@@ -3108,50 +2877,6 @@ const EXTRACTED_VOCABULARY = {
         "word": "**Câu hỏi",
         "pos": "",
         "meaning": "** What is the interview about?",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g6_part_11",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "**Câu hỏi",
-        "pos": "",
-        "meaning": "** What will they put in every classroom?",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g6_part_11",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "**Câu hỏi",
-        "pos": "",
-        "meaning": "** What can they do with their old uniforms?",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g6_part_11",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "**Câu hỏi",
-        "pos": "",
-        "meaning": "** What will they do instead of buying new books?",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g6_part_11",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "**Câu hỏi",
-        "pos": "",
-        "meaning": "** What type of bottles do they bring to school?",
         "ipa": "",
         "format": "grade7-8-no-ipa",
         "source": "g6_part_11",
@@ -3251,39 +2976,6 @@ const EXTRACTED_VOCABULARY = {
         "word": "uniform fair",
         "pos": "",
         "meaning": "hội chợ đồng phục /ˈjuːnɪfɔːm feə/",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g6_part_11",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "reduce",
-        "pos": "",
-        "meaning": "plastic bag, clothes, plastic bottles, water",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g6_part_11",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "Reuse",
-        "pos": "",
-        "meaning": "glass, paper, clothes",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g6_part_11",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "Recycle",
-        "pos": "",
-        "meaning": "plastic bottles, paper",
         "ipa": "",
         "format": "grade7-8-no-ipa",
         "source": "g6_part_11",
@@ -3606,17 +3298,6 @@ const EXTRACTED_VOCABULARY = {
         "ipa": "",
         "format": "grade7-8-no-ipa",
         "source": "g6_part_12",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "look",
-        "pos": "v",
-        "meaning": "trông",
-        "ipa": "/lʊks/",
-        "format": "grade6",
-        "source": "g6_part_2",
         "grade": 6,
         "unit": null,
         "lesson": null
@@ -4315,17 +3996,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "**house",
-        "pos": "",
-        "meaning": "** (n) nhà /haʊs/",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g6_part_2",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "**Hanoi",
         "pos": "",
         "meaning": "** (n) Hà Nội (thủ đô của Việt Nam) /həˈnɔɪ/",
@@ -4417,17 +4087,6 @@ const EXTRACTED_VOCABULARY = {
         "word": "**two",
         "pos": "",
         "meaning": "** (num) hai /tuː/",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g6_part_2",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "**bedrooms",
-        "pos": "",
-        "meaning": "** (n) phòng ngủ /ˈbɛdruːmz/",
         "ipa": "",
         "format": "grade7-8-no-ipa",
         "source": "g6_part_2",
@@ -4678,17 +4337,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "**family",
-        "pos": "",
-        "meaning": "** (n) gia đình /ˈfæm.ɪ.li/",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g6_part_2",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "**photos",
         "pos": "",
         "meaning": "** (n) bức ảnh /ˈfoʊ.toʊz/",
@@ -4890,17 +4538,6 @@ const EXTRACTED_VOCABULARY = {
         "word": "**because",
         "pos": "",
         "meaning": "** (conj) bởi vì /bɪˈkəz/",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g6_part_2",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "**big",
-        "pos": "",
-        "meaning": "** (adj) to lớn /bɪɡ/",
         "ipa": "",
         "format": "grade7-8-no-ipa",
         "source": "g6_part_2",
@@ -5176,17 +4813,6 @@ const EXTRACTED_VOCABULARY = {
         "word": "**sure",
         "pos": "",
         "meaning": "** (adv) chắc chắn /ʃʊr/",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g6_part_3",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "**here",
-        "pos": "",
-        "meaning": "** (adv) ở đây /hɪr/",
         "ipa": "",
         "format": "grade7-8-no-ipa",
         "source": "g6_part_3",
@@ -5569,17 +5195,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "**to",
-        "pos": "",
-        "meaning": "** (prep) đến /tuː/",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g6_part_3",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "**bookshop",
         "pos": "",
         "meaning": "** (n) hiệu sách /ˈbʊk.ʃɑːp/",
@@ -5855,31 +5470,9 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "**new",
-        "pos": "",
-        "meaning": "** (adj) mới /njuː/",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g6_part_3",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "**help",
         "pos": "",
         "meaning": "** (v) giúp đỡ /ˈhɛlp/",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g6_part_3",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "**meet",
-        "pos": "",
-        "meaning": "** (v) gặp gỡ /ˈmiːt/",
         "ipa": "",
         "format": "grade7-8-no-ipa",
         "source": "g6_part_3",
@@ -6119,17 +5712,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "**learn",
-        "pos": "",
-        "meaning": "** (v) học /lɜrn/",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g6_part_3",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "**cycle",
         "pos": "",
         "meaning": "** (v) đạp xe /ˈsaɪ.kəl/",
@@ -6218,17 +5800,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "**what",
-        "pos": "",
-        "meaning": "** (pron) cái gì /wɒt/",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g6_part_3",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "**he",
         "pos": "",
         "meaning": "** (pron) anh ấy /hiː/",
@@ -6295,17 +5866,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "**homework",
-        "pos": "",
-        "meaning": "** (n) bài tập về nhà /ˈhoʊm.wɝːk/",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g6_part_3",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "**read",
         "pos": "",
         "meaning": "** (v) đọc /riːd/",
@@ -6353,17 +5913,6 @@ const EXTRACTED_VOCABULARY = {
         "word": "**in**",
         "pos": "",
         "meaning": "ở, trong, bằng",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g6_part_3",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "chủ từ",
-        "pos": "",
-        "meaning": "you (số nhiều)",
         "ipa": "",
         "format": "grade7-8-no-ipa",
         "source": "g6_part_3",
@@ -6486,17 +6035,6 @@ const EXTRACTED_VOCABULARY = {
         "pos": "adj",
         "meaning": "lạc đường",
         "ipa": "/lɒst/",
-        "format": "grade6",
-        "source": "g6_part_4",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "look",
-        "pos": "interj",
-        "meaning": "nhìn kìa",
-        "ipa": "/lʊk/",
         "format": "grade6",
         "source": "g6_part_4",
         "grade": 6,
@@ -6933,39 +6471,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "market",
-        "pos": "n",
-        "meaning": "chợ, thị trường",
-        "ipa": "/ˈmɑːkɪt/",
-        "format": "grade6",
-        "source": "g6_part_4",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "also",
-        "pos": "",
-        "meaning": "cũng /ˈɔːlsəʊ/",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g6_part_4",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "art gallery",
-        "pos": "",
-        "meaning": "phòng trưng bày nghệ thuật /ɑːt ˈɡæləri/",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g6_part_4",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "wide",
         "pos": "adj",
         "meaning": "rộng, bề ngang",
@@ -7015,28 +6520,6 @@ const EXTRACTED_VOCABULARY = {
         "meaning": "hẹp, chật",
         "ipa": "/ˈnærəʊ/",
         "format": "grade6",
-        "source": "g6_part_4",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "temple",
-        "pos": "",
-        "meaning": "ngôi đền",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g6_part_4",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "art gallery",
-        "pos": "",
-        "meaning": "triển lãm nghệ thuật",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
         "source": "g6_part_4",
         "grade": 6,
         "unit": null,
@@ -7175,17 +6658,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "look",
-        "pos": "v",
-        "meaning": "nhìn, trông có vẻ",
-        "ipa": "/lʊk/",
-        "format": "grade6",
-        "source": "g6_part_5",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "amazing",
         "pos": "adj",
         "meaning": "tuyệt vời, kinh ngạc",
@@ -7307,32 +6779,10 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "scenery",
-        "pos": "n",
-        "meaning": "phong cảnh, cảnh quan",
-        "ipa": "/ˈsiːnəri/",
-        "format": "grade6",
-        "source": "g6_part_5",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "start",
         "pos": "v",
         "meaning": "bắt đầu",
         "ipa": "/stɑːt/",
-        "format": "grade6",
-        "source": "g6_part_5",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "there",
-        "pos": "adv",
-        "meaning": "ở đó, tại đó",
-        "ipa": "/ðeə(r)/",
         "format": "grade6",
         "source": "g6_part_5",
         "grade": 6,
@@ -7410,17 +6860,6 @@ const EXTRACTED_VOCABULARY = {
         "pos": "n",
         "meaning": "rừng",
         "ipa": "/ˈfɒrɪst/",
-        "format": "grade6",
-        "source": "g6_part_5",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "in",
-        "pos": "prep",
-        "meaning": "trong, ở trong",
-        "ipa": "/ɪn/",
         "format": "grade6",
         "source": "g6_part_5",
         "grade": 6,
@@ -7510,39 +6949,6 @@ const EXTRACTED_VOCABULARY = {
         "meaning": "một nghìn",
         "ipa": "/ˈθaʊznd/",
         "format": "grade6",
-        "source": "g6_part_5",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "desert",
-        "pos": "",
-        "meaning": "sa mạc",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g6_part_5",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "island",
-        "pos": "",
-        "meaning": "đảo",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g6_part_5",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "cave",
-        "pos": "",
-        "meaning": "hang động",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
         "source": "g6_part_5",
         "grade": 6,
         "unit": null,
@@ -7692,28 +7098,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "some",
-        "pos": "det",
-        "meaning": "một số, một vài",
-        "ipa": "/sʌm/",
-        "format": "grade6",
-        "source": "g6_part_5",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "thing",
-        "pos": "n",
-        "meaning": "vật, đồ vật",
-        "ipa": "/θɪŋ/",
-        "format": "grade6",
-        "source": "g6_part_5",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "useful",
         "pos": "adj",
         "meaning": "hữu ích",
@@ -7730,17 +7114,6 @@ const EXTRACTED_VOCABULARY = {
         "meaning": "sự hữu ích",
         "ipa": "/ˈjuːsfʊlnəs/",
         "format": "grade6",
-        "source": "g6_part_5",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "plaster",
-        "pos": "",
-        "meaning": "băng keo cá nhân",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
         "source": "g6_part_5",
         "grade": 6,
         "unit": null,
@@ -7769,43 +7142,10 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "scissors",
-        "pos": "",
-        "meaning": "kéo",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g6_part_5",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "compass",
-        "pos": "",
-        "meaning": "la bàn",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g6_part_5",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "add",
         "pos": "v",
         "meaning": "thêm vào, cộng thêm",
         "ipa": "/æd/",
-        "format": "grade6",
-        "source": "g6_part_5",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "all",
-        "pos": "det",
-        "meaning": "tất cả, toàn bộ",
-        "ipa": "/ɔːl/",
         "format": "grade6",
         "source": "g6_part_5",
         "grade": 6,
@@ -7872,17 +7212,6 @@ const EXTRACTED_VOCABULARY = {
         "pos": "n",
         "meaning": "phong cảnh, cảnh quan",
         "ipa": "/ˈlændskeɪp/",
-        "format": "grade6",
-        "source": "g6_part_5",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "large",
-        "pos": "adj",
-        "meaning": "to, lớn",
-        "ipa": "/lɑːdʒ/",
         "format": "grade6",
         "source": "g6_part_5",
         "grade": 6,
@@ -8099,17 +7428,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "temple",
-        "pos": "n",
-        "meaning": "đền, miếu",
-        "ipa": "/ˈtempl/",
-        "format": "grade6",
-        "source": "g6_part_5",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "national park",
         "pos": "",
         "meaning": "công viên quốc gia /ˌnæʃənəl ˈpɑːk/",
@@ -8275,28 +7593,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "get",
-        "pos": "v",
-        "meaning": "có được, nhận được, đạt được",
-        "ipa": "/ɡet/",
-        "format": "grade6",
-        "source": "g6_part_6",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "good",
-        "pos": "adj",
-        "meaning": "tốt, hay, giỏi",
-        "ipa": "/ɡʊd/",
-        "format": "grade6",
-        "source": "g6_part_6",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "include",
         "pos": "v",
         "meaning": "bao gồm, chứa đựng",
@@ -8312,17 +7608,6 @@ const EXTRACTED_VOCABULARY = {
         "pos": "adj",
         "meaning": "may mắn, gặp may",
         "ipa": "/ˈlʌki/",
-        "format": "grade6",
-        "source": "g6_part_6",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "money",
-        "pos": "n",
-        "meaning": "tiền, tiền bạc",
-        "ipa": "/ˈmʌni/",
         "format": "grade6",
         "source": "g6_part_6",
         "grade": 6,
@@ -8356,39 +7641,6 @@ const EXTRACTED_VOCABULARY = {
         "pos": "modal v",
         "meaning": "nên",
         "ipa": "/ʃʊd/",
-        "format": "grade6",
-        "source": "g6_part_6",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "start",
-        "pos": "v",
-        "meaning": "bắt đầu, khởi động",
-        "ipa": "/stɑːt/",
-        "format": "grade6",
-        "source": "g6_part_6",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "they",
-        "pos": "pron",
-        "meaning": "họ, chúng, những cái đó",
-        "ipa": "/ðeɪ/",
-        "format": "grade6",
-        "source": "g6_part_6",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "thing",
-        "pos": "n",
-        "meaning": "vật, đồ vật, sự việc",
-        "ipa": "/θɪŋ/",
         "format": "grade6",
         "source": "g6_part_6",
         "grade": 6,
@@ -8462,17 +7714,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "cheek",
-        "pos": "n",
-        "meaning": "má, gò má",
-        "ipa": "/tʃiːk/",
-        "format": "grade6",
-        "source": "g6_part_6",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "come \\- came \\- come",
         "pos": "v",
         "meaning": "đến, tới",
@@ -8510,17 +7751,6 @@ const EXTRACTED_VOCABULARY = {
         "pos": "v",
         "meaning": "giúp đỡ, trợ giúp; (n) sự giúp đỡ",
         "ipa": "/help/",
-        "format": "grade6",
-        "source": "g6_part_6",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "look",
-        "pos": "v",
-        "meaning": "nhìn, xem; (n) cái nhìn",
-        "ipa": "/lʊk/",
         "format": "grade6",
         "source": "g6_part_6",
         "grade": 6,
@@ -8663,28 +7893,6 @@ const EXTRACTED_VOCABULARY = {
         "word": "special food",
         "pos": "",
         "meaning": "thức ăn đặc biệt",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g6_part_6",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "fun",
-        "pos": "",
-        "meaning": "vui /phân/",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g6_part_6",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "wish",
-        "pos": "",
-        "meaning": "ước",
         "ipa": "",
         "format": "grade7-8-no-ipa",
         "source": "g6_part_6",
@@ -9133,32 +8341,10 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "firework",
-        "pos": "n",
-        "meaning": "pháo hoa",
-        "ipa": "/ˈfaɪəwɜːk/",
-        "format": "grade6",
-        "source": "g6_part_6",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "food",
         "pos": "n",
         "meaning": "thức ăn",
         "ipa": "/fuːd/",
-        "format": "grade6",
-        "source": "g6_part_6",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "fun",
-        "pos": "n",
-        "meaning": "niềm vui",
-        "ipa": "/fʌn/",
         "format": "grade6",
         "source": "g6_part_6",
         "grade": 6,
@@ -9254,17 +8440,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "house",
-        "pos": "n",
-        "meaning": "nhà",
-        "ipa": "/haʊs/",
-        "format": "grade6",
-        "source": "g6_part_6",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "light",
         "pos": "v",
         "meaning": "thắp sáng",
@@ -9279,28 +8454,6 @@ const EXTRACTED_VOCABULARY = {
         "word": "light up",
         "pos": "",
         "meaning": "thắp sáng lên",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g6_part_6",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "lucky",
-        "pos": "adj",
-        "meaning": "may mắn",
-        "ipa": "/ˈlʌki/",
-        "format": "grade6",
-        "source": "g6_part_6",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "lucky money",
-        "pos": "",
-        "meaning": "tiền mừng tuổi",
         "ipa": "",
         "format": "grade7-8-no-ipa",
         "source": "g6_part_6",
@@ -9335,17 +8488,6 @@ const EXTRACTED_VOCABULARY = {
         "pos": "n",
         "meaning": "người, mọi người",
         "ipa": "/ˈpiːpl/",
-        "format": "grade6",
-        "source": "g6_part_6",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "relative",
-        "pos": "n",
-        "meaning": "họ hàng",
-        "ipa": "/ˈrelətɪv/",
         "format": "grade6",
         "source": "g6_part_6",
         "grade": 6,
@@ -9402,28 +8544,6 @@ const EXTRACTED_VOCABULARY = {
         "meaning": "nghe giống như",
         "ipa": "",
         "format": "grade7-8-no-ipa",
-        "source": "g6_part_6",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "welcome",
-        "pos": "v",
-        "meaning": "chào đón",
-        "ipa": "/ˈwelkəm/",
-        "format": "grade6",
-        "source": "g6_part_6",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "wish",
-        "pos": "v",
-        "meaning": "chúc, ước",
-        "ipa": "/wɪʃ/",
-        "format": "grade6",
         "source": "g6_part_6",
         "grade": 6,
         "unit": null,
@@ -9576,17 +8696,6 @@ const EXTRACTED_VOCABULARY = {
         "word": "low",
         "pos": "",
         "meaning": "thấp",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g6_part_6",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "C",
-        "pos": "",
-        "meaning": "phải",
         "ipa": "",
         "format": "grade7-8-no-ipa",
         "source": "g6_part_6",
@@ -9793,17 +8902,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "wonderful",
-        "pos": "adj",
-        "meaning": "tuyệt vời, tuyệt diệu",
-        "ipa": "/ˈwʌndəfl/",
-        "format": "grade6",
-        "source": "g6_part_7",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "prefer A to B",
         "pos": "",
         "meaning": "thích A hơn B /prɪˈfɜː ... tə .../",
@@ -9947,32 +9045,10 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "popular",
-        "pos": "adj",
-        "meaning": "phổ biến, được yêu thích",
-        "ipa": "/ˈpɒpjʊlə/",
-        "format": "grade6",
-        "source": "g6_part_7",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "cute",
         "pos": "adj",
         "meaning": "dễ thương, đáng yêu",
         "ipa": "/kjuːt/",
-        "format": "grade6",
-        "source": "g6_part_7",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "boring",
-        "pos": "adj",
-        "meaning": "nhàm chán, tẻ nhạt",
-        "ipa": "/ˈbɔːrɪŋ/",
         "format": "grade6",
         "source": "g6_part_7",
         "grade": 6,
@@ -10002,17 +9078,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "when",
-        "pos": "adv",
-        "meaning": "khi nào",
-        "ipa": "/wen/",
-        "format": "grade6",
-        "source": "g6_part_7",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "why",
         "pos": "adv",
         "meaning": "tại sao",
@@ -10027,17 +9092,6 @@ const EXTRACTED_VOCABULARY = {
         "word": "how often",
         "pos": "",
         "meaning": "bao lâu một lần /haʊ ˈɒfn/",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g6_part_7",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "how many",
-        "pos": "",
-        "meaning": "bao nhiêu /haʊ ˈmeni/",
         "ipa": "",
         "format": "grade7-8-no-ipa",
         "source": "g6_part_7",
@@ -10090,39 +9144,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "so",
-        "pos": "conj",
-        "meaning": "vì thế, do đó, vì vậy",
-        "ipa": "/səʊ/",
-        "format": "grade6",
-        "source": "g6_part_7",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "but",
-        "pos": "conj",
-        "meaning": "nhưng, tuy nhiên, mà",
-        "ipa": "/bʌt/",
-        "format": "grade6",
-        "source": "g6_part_7",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "and",
-        "pos": "conj",
-        "meaning": "và, với, cùng",
-        "ipa": "/ænd/",
-        "format": "grade6",
-        "source": "g6_part_7",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "or",
         "pos": "conj",
         "meaning": "hoặc, hay là, hay",
@@ -10167,44 +9188,11 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "international",
-        "pos": "adj",
-        "meaning": "quốc tế, thuộc về quốc tế",
-        "ipa": "/ˌɪntəˈnæʃənəl/",
-        "format": "grade6",
-        "source": "g6_part_7",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "cartoon",
-        "pos": "n",
-        "meaning": "phim hoạt hình; (v) vẽ tranh biếm họa",
-        "ipa": "/kɑːˈtuːn/",
-        "format": "grade6",
-        "source": "g6_part_7",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "a clever fox",
         "pos": "",
         "meaning": "một chú cáo thông minh /ə ˈklevə fɒks/",
         "ipa": "",
         "format": "grade7-8-no-ipa",
-        "source": "g6_part_7",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "see",
-        "pos": "v",
-        "meaning": "nhìn thấy, xem, gặp",
-        "ipa": "/xi:/",
-        "format": "grade6",
         "source": "g6_part_7",
         "grade": 6,
         "unit": null,
@@ -10310,17 +9298,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "animal",
-        "pos": "n",
-        "meaning": "động vật",
-        "ipa": "/ˈænɪməl/",
-        "format": "grade6",
-        "source": "g6_part_7",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "have a lot of fun",
         "pos": "",
         "meaning": "có nhiều niềm vui /hæv ə lɒt əv fʌn/",
@@ -10398,44 +9375,11 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "interesting",
-        "pos": "adj",
-        "meaning": "thú vị, hấp dẫn",
-        "ipa": "/ˈɪntrəstɪŋ/",
-        "format": "grade6",
-        "source": "g6_part_7",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "music programme",
         "pos": "",
         "meaning": "chương trình âm nhạc /ˈmjuːzɪk ˈprəʊɡræm/",
         "ipa": "",
         "format": "grade7-8-no-ipa",
-        "source": "g6_part_7",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "channel",
-        "pos": "n",
-        "meaning": "kênh (truyền hình)",
-        "ipa": "/ˈtʃænəl/",
-        "format": "grade6",
-        "source": "g6_part_7",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "watch",
-        "pos": "v",
-        "meaning": "xem",
-        "ipa": "/wɒtʃ/",
-        "format": "grade6",
         "source": "g6_part_7",
         "grade": 6,
         "unit": null,
@@ -10497,28 +9441,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "funny",
-        "pos": "",
-        "meaning": "hài hước",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g6_part_7",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "educational",
-        "pos": "",
-        "meaning": "mang tính giáo dục",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g6_part_7",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "gym",
         "pos": "n",
         "meaning": "phòng tập thể dục",
@@ -10545,17 +9467,6 @@ const EXTRACTED_VOCABULARY = {
         "pos": "n",
         "meaning": "thiết bị, dụng cụ",
         "ipa": "/ɪˈkwɪpmənt/",
-        "format": "grade6",
-        "source": "g6_part_8",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "great",
-        "pos": "adj",
-        "meaning": "tuyệt vời, xuất sắc",
-        "ipa": "/ɡreɪt/",
         "format": "grade6",
         "source": "g6_part_8",
         "grade": 6,
@@ -10739,17 +9650,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "cycling",
-        "pos": "n",
-        "meaning": "đạp xe",
-        "ipa": "/ˈsaɪklɪŋ/",
-        "format": "grade6",
-        "source": "g6_part_8",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "volleyball",
         "pos": "n",
         "meaning": "bóng chuyền",
@@ -10816,17 +9716,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "boating",
-        "pos": "n",
-        "meaning": "chèo thuyền",
-        "ipa": "/ˈbəʊtɪŋ/",
-        "format": "grade6",
-        "source": "g6_part_8",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "ball games",
         "pos": "",
         "meaning": "các môn thể thao có bóng /bɔːl ɡeɪmz/",
@@ -10853,17 +9742,6 @@ const EXTRACTED_VOCABULARY = {
         "pos": "n",
         "meaning": "nhà vô địch",
         "ipa": "/ˈtʃæmpiən/",
-        "format": "grade6",
-        "source": "g6_part_8",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "competition",
-        "pos": "n",
-        "meaning": "cuộc thi đấu, sự cạnh tranh",
-        "ipa": "/ˌkɒmpəˈtɪʃn/",
         "format": "grade6",
         "source": "g6_part_8",
         "grade": 6,
@@ -11146,17 +10024,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "competition",
-        "pos": "n",
-        "meaning": "cuộc thi",
-        "ipa": "/ˌkɒmpəˈtɪʃn/",
-        "format": "grade6",
-        "source": "g6_part_8",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "medal",
         "pos": "n",
         "meaning": "huy chương",
@@ -11278,17 +10145,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "from",
-        "pos": "prep",
-        "meaning": "từ, từ đâu",
-        "ipa": "/frɒm/",
-        "format": "grade6",
-        "source": "g6_part_9",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "What's it like?",
         "pos": "",
         "meaning": "Nó như thế nào? /wɒts ɪt laɪk/",
@@ -11333,17 +10189,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "wonderful",
-        "pos": "adj",
-        "meaning": "tuyệt vời",
-        "ipa": "/ˈwʌndəfʊl/",
-        "format": "grade6",
-        "source": "g6_part_9",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "What bad weather\\!",
         "pos": "",
         "meaning": "Thời tiết thật tệ\\! /wɒt bæd ˈweðə/",
@@ -11355,33 +10200,11 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "rain",
-        "pos": "n",
-        "meaning": "cơn mưa, (v) mưa",
-        "ipa": "/reɪn/",
-        "format": "grade6",
-        "source": "g6_part_9",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "the River Thames",
         "pos": "",
         "meaning": "sông Thames /ðə ˈrɪvə temz/",
         "ipa": "",
         "format": "grade7-8-no-ipa",
-        "source": "g6_part_9",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "interesting",
-        "pos": "adj",
-        "meaning": "thú vị, hấp dloiẫn",
-        "ipa": "/ˈɪntrəstɪŋ/",
-        "format": "grade6",
         "source": "g6_part_9",
         "grade": 6,
         "unit": null,
@@ -11402,17 +10225,6 @@ const EXTRACTED_VOCABULARY = {
         "word": "some photos of mine",
         "pos": "",
         "meaning": "một số ảnh của tôi /sʌm ˈfəʊtəʊz əv maɪn/",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g6_part_9",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "Sydney",
-        "pos": "",
-        "meaning": "exciting, beautiful",
         "ipa": "",
         "format": "grade7-8-no-ipa",
         "source": "g6_part_9",
@@ -11465,17 +10277,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "friendly",
-        "pos": "adj",
-        "meaning": "thân thiện, thân thiết",
-        "ipa": "/ˈfrendli/",
-        "format": "grade6",
-        "source": "g6_part_9",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "tasty",
         "pos": "adj",
         "meaning": "ngon miệng",
@@ -11491,17 +10292,6 @@ const EXTRACTED_VOCABULARY = {
         "pos": "adj",
         "meaning": "cũ, già",
         "ipa": "/əʊld/",
-        "format": "grade6",
-        "source": "g6_part_9",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "helpful",
-        "pos": "adj",
-        "meaning": "hữu ích, giúp đỡ",
-        "ipa": "/ˈhelpfʊl/",
         "format": "grade6",
         "source": "g6_part_9",
         "grade": 6,
@@ -11542,43 +10332,10 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "food",
-        "pos": "n",
-        "meaning": "thức ăn, đồ ăn",
-        "ipa": "/fuːd/",
-        "format": "grade6",
-        "source": "g6_part_9",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "people",
-        "pos": "n",
-        "meaning": "người, dân",
-        "ipa": "/ˈpiːpl/",
-        "format": "grade6",
-        "source": "g6_part_9",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "weather",
         "pos": "n",
         "meaning": "thời tiết",
         "ipa": "/ˈweðə/",
-        "format": "grade6",
-        "source": "g6_part_9",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "famous",
-        "pos": "adj",
-        "meaning": "nổi tiếng, danh tiếng",
-        "ipa": "/ˈfeɪməs/",
         "format": "grade6",
         "source": "g6_part_9",
         "grade": 6,
@@ -11700,17 +10457,6 @@ const EXTRACTED_VOCABULARY = {
         "pos": "adj",
         "meaning": "hoàn hảo, tuyệt vời",
         "ipa": "/ˈpɜːfɪkt/",
-        "format": "grade6",
-        "source": "g6_part_9",
-        "grade": 6,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "sunny",
-        "pos": "adj",
-        "meaning": "nắng, đầy nắng",
-        "ipa": "/ˈsʌni/",
         "format": "grade6",
         "source": "g6_part_9",
         "grade": 6,
@@ -13110,17 +11856,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "unusual",
-        "pos": "",
-        "meaning": "(adj) khác thường /ʌnˈjuːʒuəl/",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "review-3",
-        "grade": null,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "tomato",
         "pos": "",
         "meaning": "(n) cà chua /təˈmɑːtəʊ/",
@@ -13498,17 +12233,6 @@ const EXTRACTED_VOCABULARY = {
         "word": "limited",
         "pos": "",
         "meaning": "(adj) hạn chế, có giới hạn /ˈlɪmɪtɪd/",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "review-4",
-        "grade": null,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "eco-friendly",
-        "pos": "",
-        "meaning": "(adj) thân thiện với môi trường /ˌiːkəʊ ˈfrendli/",
         "ipa": "",
         "format": "grade11-summary",
         "source": "review-4",
@@ -14265,39 +12989,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "fresh air",
-        "pos": "",
-        "meaning": "(n) không khí trong lành /freʃ eər/",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "review-1",
-        "grade": null,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "entertainment",
-        "pos": "",
-        "meaning": "(n) giải trí /ˌen.təˈteɪn.mənt/",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "review-1",
-        "grade": null,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "convenient",
-        "pos": "",
-        "meaning": "(adj) thuận tiện /kənˈviː.ni.ənt/",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "review-1",
-        "grade": null,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "public transport",
         "pos": "",
         "meaning": "(n) phương tiện công cộng /ˈpʌb.lɪk ˈtræn.spɔːt/",
@@ -14499,17 +13190,6 @@ const EXTRACTED_VOCABULARY = {
         "word": "destructive",
         "pos": "",
         "meaning": "(adj) phá hủy, gây hại /dɪˈstrʌktɪv/",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "review-3",
-        "grade": null,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "air pollution",
-        "pos": "",
-        "meaning": "(n) ô nhiễm không khí /eər pəˈluːʃən/",
         "ipa": "",
         "format": "grade11-summary",
         "source": "review-3",
@@ -15333,185 +14013,9 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "Q",
-        "pos": "",
-        "meaning": "Was she studying when the phone rang? A: Yes, she was. / No, she wasn't.",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "Unit_4_The_world_around_us",
-        "grade": null,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "Q",
-        "pos": "",
-        "meaning": "Were you driving when the accident happened? A: Yes, I was. / No, I wasn't.",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "Unit_4_The_world_around_us",
-        "grade": null,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "Q",
-        "pos": "",
-        "meaning": "Was it raining when you left home? A: Yes, it was. / No, it wasn't.",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "Unit_4_The_world_around_us",
-        "grade": null,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "Q",
-        "pos": "",
-        "meaning": "Was he working when his boss called? A: Yes, he was. / No, he wasn't.",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "Unit_4_The_world_around_us",
-        "grade": null,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "A",
-        "pos": "",
-        "meaning": "What __________ you __________ (do) this weekend?",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "Unit_5_The_environment",
-        "grade": null,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "A",
-        "pos": "",
-        "meaning": "Do you think it __________ (be) sunny tomorrow?",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "Unit_5_The_environment",
-        "grade": null,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "A",
-        "pos": "",
-        "meaning": "__________ you __________ (come) to my party next Saturday?",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "Unit_5_The_environment",
-        "grade": null,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "A",
-        "pos": "",
-        "meaning": "I'm hungry.",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "Unit_5_The_environment",
-        "grade": null,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "A",
-        "pos": "",
-        "meaning": "We don't have any milk.",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "Unit_5_The_environment",
-        "grade": null,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "A",
-        "pos": "",
-        "meaning": "What __________ Sarah __________ (do) this evening?",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "Unit_5_The_environment",
-        "grade": null,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "A",
-        "pos": "",
-        "meaning": "The phone's ringing!",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "Unit_6_Day_trip",
-        "grade": null,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "Situation",
         "pos": "",
         "meaning": "Your friend didn't study for the exam.",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "Unit_6_Day_trip",
-        "grade": null,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "Situation",
-        "pos": "",
-        "meaning": "The football team is winning 5-0 with 2 minutes left.",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "Unit_6_Day_trip",
-        "grade": null,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "Situation",
-        "pos": "",
-        "meaning": "Someone is carrying too many bags and they're falling.",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "Unit_6_Day_trip",
-        "grade": null,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "Situation",
-        "pos": "",
-        "meaning": "The train is at the platform and people are getting on.",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "Unit_6_Day_trip",
-        "grade": null,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "Situation",
-        "pos": "",
-        "meaning": "Your brother has been saving money for months.",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "Unit_6_Day_trip",
-        "grade": null,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "Situation",
-        "pos": "",
-        "meaning": "Dark clouds are coming and the wind is getting stronger.",
         "ipa": "",
         "format": "grade7-8-no-ipa",
         "source": "Unit_6_Day_trip",
@@ -16601,17 +15105,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "bloom",
-        "pos": "v",
-        "meaning": "nở hoa",
-        "ipa": "/bluːm/",
-        "format": "grade6",
-        "source": "t2-1",
-        "grade": null,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "Category",
         "pos": "",
         "meaning": "Technology / Society",
@@ -16689,89 +15182,12 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "Category",
-        "pos": "",
-        "meaning": "Environment / Government & Policy",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "t2-4",
-        "grade": null,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "Task Achievement (Band 8-9)",
         "pos": "",
         "meaning": "Clear position with nuanced discussion, fully developed arguments",
         "ipa": "",
         "format": "grade11-summary",
         "source": "t2-4",
-        "grade": null,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "Coherence and Cohesion (Band 8)",
-        "pos": "",
-        "meaning": "Excellent progression and paragraph organization",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "t2-4",
-        "grade": null,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "Grammatical Range and Accuracy (Band 8)",
-        "pos": "",
-        "meaning": "Complex structures with varied sentence patterns",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "t2-4",
-        "grade": null,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "Category",
-        "pos": "",
-        "meaning": "Education / Technology",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "t2-5",
-        "grade": null,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "Question Type",
-        "pos": "",
-        "meaning": "Positive/Negative Development (Direct Question)",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "t2-5",
-        "grade": null,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "Task Achievement (Band 8-9)",
-        "pos": "",
-        "meaning": "Clear position maintained throughout, fully extended arguments with specific examples",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "t2-5",
-        "grade": null,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "Coherence and Cohesion (Band 8)",
-        "pos": "",
-        "meaning": "Logical flow with sophisticated transitions and clear progression",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "t2-5",
         "grade": null,
         "unit": null,
         "lesson": null
@@ -17163,28 +15579,6 @@ const EXTRACTED_VOCABULARY = {
         "word": "Thì quá khứ đơn",
         "pos": "",
         "meaning": "last + thời gian ở quá khứ, yesterday, ago",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "grade-10-review-1-language",
-        "grade": 10,
-        "unit": null,
-        "lesson": "language"
-      },
-      {
-        "word": "Thì hiện tại đơn",
-        "pos": "",
-        "meaning": "S + am/is/are + V-pp (+ by O)",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "grade-10-review-1-language",
-        "grade": 10,
-        "unit": null,
-        "lesson": "language"
-      },
-      {
-        "word": "Thì quá khứ đơn",
-        "pos": "",
-        "meaning": "S + was/were + V-pp (+ by O)",
         "ipa": "",
         "format": "grade11-summary",
         "source": "grade-10-review-1-language",
@@ -17761,17 +16155,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": "language"
       },
       {
-        "word": "biodiversity",
-        "pos": "n",
-        "meaning": "đa dạng sinh học",
-        "ipa": "/ˌbaɪəʊdaɪˈvɜːsəti/",
-        "format": "grade6",
-        "source": "grade-10-review-4-language",
-        "grade": 10,
-        "unit": null,
-        "lesson": "language"
-      },
-      {
         "word": "deforestation",
         "pos": "n",
         "meaning": "nạn phá rừng",
@@ -18256,28 +16639,6 @@ const EXTRACTED_VOCABULARY = {
         "word": "**Thông tin",
         "pos": "",
         "meaning": "** Ms Hoa nói: \"Going on an eco-friendly fieldtrip means we'll enjoy, explore and learn about the place, but in a way that will not damage it.\" (Có một chuyến dã ngoại thân thiện với môi trường có nghĩa là chúng ta sẽ tận hưởng, khám phá và tìm hiểu về địa điểm, nhưng theo cách không làm hư hại nó.)",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "grade-10-unit-10-getting-started",
-        "grade": 10,
-        "unit": 10,
-        "lesson": null
-      },
-      {
-        "word": "**Thông tin",
-        "pos": "",
-        "meaning": "** Nam nói: \"I won't even touch them, I promise.\" (Em thậm chí sẽ không chạm vào chúng, em hứa.)",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "grade-10-unit-10-getting-started",
-        "grade": 10,
-        "unit": 10,
-        "lesson": null
-      },
-      {
-        "word": "**Thông tin",
-        "pos": "",
-        "meaning": "** Mai nói: \"I'll also try to bring snacks with less packaging.\" (Em cũng sẽ cố gắng mang theo đồ ăn vặt với ít bao bì hơn.)",
         "ipa": "",
         "format": "grade7-8-no-ipa",
         "source": "grade-10-unit-10-getting-started",
@@ -20499,138 +18860,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": "speaking"
       },
       {
-        "word": "Name",
-        "pos": "",
-        "meaning": "**I know your face**",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "grade-10-unit-3-speaking",
-        "grade": 10,
-        "unit": 3,
-        "lesson": "speaking"
-      },
-      {
-        "word": "People who give their scores",
-        "pos": "",
-        "meaning": "**two main judges and a guest artist**",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "grade-10-unit-3-speaking",
-        "grade": 10,
-        "unit": 3,
-        "lesson": "speaking"
-      },
-      {
-        "word": "Number of participants",
-        "pos": "",
-        "meaning": "**six**",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "grade-10-unit-3-speaking",
-        "grade": 10,
-        "unit": 3,
-        "lesson": "speaking"
-      },
-      {
-        "word": "What participants have to do",
-        "pos": "",
-        "meaning": "**dress up and perform as famous international or local artists in a live show**",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "grade-10-unit-3-speaking",
-        "grade": 10,
-        "unit": 3,
-        "lesson": "speaking"
-      },
-      {
-        "word": "How participants win the show",
-        "pos": "",
-        "meaning": "**TV audiences vote for and decide on the winner**",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "grade-10-unit-3-speaking",
-        "grade": 10,
-        "unit": 3,
-        "lesson": "speaking"
-      },
-      {
-        "word": "Prize(s)",
-        "pos": "",
-        "meaning": "**cash**",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "grade-10-unit-3-speaking",
-        "grade": 10,
-        "unit": 3,
-        "lesson": "speaking"
-      },
-      {
-        "word": "Name",
-        "pos": "",
-        "meaning": "**I've got the rhythm**",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "grade-10-unit-3-speaking",
-        "grade": 10,
-        "unit": 3,
-        "lesson": "speaking"
-      },
-      {
-        "word": "People who give their scores",
-        "pos": "",
-        "meaning": "**3 main judges and a famous local artist**",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "grade-10-unit-3-speaking",
-        "grade": 10,
-        "unit": 3,
-        "lesson": "speaking"
-      },
-      {
-        "word": "Number of participants",
-        "pos": "",
-        "meaning": "**5**",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "grade-10-unit-3-speaking",
-        "grade": 10,
-        "unit": 3,
-        "lesson": "speaking"
-      },
-      {
-        "word": "What participants have to do",
-        "pos": "",
-        "meaning": "**take turns to sing a song whose rhythm is changed from the original one**",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "grade-10-unit-3-speaking",
-        "grade": 10,
-        "unit": 3,
-        "lesson": "speaking"
-      },
-      {
-        "word": "How participants win the show",
-        "pos": "",
-        "meaning": "**sing correctly and the most beautifully**",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "grade-10-unit-3-speaking",
-        "grade": 10,
-        "unit": 3,
-        "lesson": "speaking"
-      },
-      {
-        "word": "Prize(s)",
-        "pos": "",
-        "meaning": "**cash and a trip to America**",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "grade-10-unit-3-speaking",
-        "grade": 10,
-        "unit": 3,
-        "lesson": "speaking"
-      },
-      {
         "word": "dress up",
         "ipa": "/drɛs ʌp/",
         "pos": "phr.v",
@@ -21167,18 +19396,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": "listening"
       },
       {
-        "word": "**B**",
-        "pos": "",
-        "meaning": "They organise job training courses for teenagers.",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "example": "Thông tin: Thanks to many generous donations, we are building houses for poor people, organising job training courses for teenagers...",
-        "source": "grade-10-unit-4-listening",
-        "grade": 10,
-        "unit": 4,
-        "lesson": "listening"
-      },
-      {
         "word": "**C**",
         "pos": "",
         "meaning": "They are looking for teenagers who can volunteer at the weekend.",
@@ -21197,18 +19414,6 @@ const EXTRACTED_VOCABULARY = {
         "ipa": "",
         "format": "grade7-8-no-ipa",
         "example": "Thông tin: You will also be trained by our experienced volunteers.",
-        "source": "grade-10-unit-4-listening",
-        "grade": 10,
-        "unit": 4,
-        "lesson": "listening"
-      },
-      {
-        "word": "**C**",
-        "pos": "",
-        "meaning": "Volunteers will have a chance to meet teenagers with similar interests.",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "example": "Thông tin: If you are interested in helping the community and want to meet teenagers with similar interests...",
         "source": "grade-10-unit-4-listening",
         "grade": 10,
         "unit": 4,
@@ -22190,17 +20395,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "**suitable**",
-        "pos": "adj",
-        "meaning": "phù hợp, thích hợp",
-        "ipa": "/ˈsuːtəbəl/",
-        "format": "grade6",
-        "source": "grade-10-unit-5-getting-started",
-        "grade": 10,
-        "unit": 5,
-        "lesson": null
-      },
-      {
         "word": "**perhaps**",
         "pos": "adv",
         "meaning": "có lẽ, có thể",
@@ -22738,18 +20932,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": "listening"
       },
       {
-        "word": "stain",
-        "ipa": "/steɪn/",
-        "pos": "n",
-        "meaning": "vết bẩn",
-        "format": "grade10+",
-        "example": "There is a dirty stain on your smartphone.",
-        "source": "grade-10-unit-5-listening",
-        "grade": 10,
-        "unit": 5,
-        "lesson": "listening"
-      },
-      {
         "word": "press",
         "ipa": "/pres/",
         "pos": "v",
@@ -22821,17 +21003,6 @@ const EXTRACTED_VOCABULARY = {
         "ipa": "/ˈbenɪfɪt/",
         "pos": "n",
         "meaning": "lợi ích",
-        "format": "grade10+",
-        "source": "grade-10-unit-5-looking-back",
-        "grade": 10,
-        "unit": 5,
-        "lesson": null
-      },
-      {
-        "word": "invention",
-        "ipa": "/ɪnˈvenʃn/",
-        "pos": "n",
-        "meaning": "phát minh",
         "format": "grade10+",
         "source": "grade-10-unit-5-looking-back",
         "grade": 10,
@@ -23363,18 +21534,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "adorable",
-        "ipa": "/əˈdɔːrəbl/",
-        "pos": "adj",
-        "meaning": "đáng yêu",
-        "format": "grade10+",
-        "example": "The kids were adorable and the teachers were great.",
-        "source": "grade-10-unit-6-getting-started",
-        "grade": 10,
-        "unit": 6,
-        "lesson": null
-      },
-      {
         "word": "airline pilot",
         "ipa": "/ˈeəlaɪn ˈpaɪlət/",
         "pos": "n",
@@ -23441,18 +21600,6 @@ const EXTRACTED_VOCABULARY = {
         "meaning": "được giữ ở nhà",
         "format": "grade10+",
         "example": "Girls mustn't be kept home in today's world.",
-        "source": "grade-10-unit-6-getting-started",
-        "grade": 10,
-        "unit": 6,
-        "lesson": null
-      },
-      {
-        "word": "treat",
-        "ipa": "/triːt/",
-        "pos": "v",
-        "meaning": "đối xử",
-        "format": "grade10+",
-        "example": "Boys and girls should be treated equally and given the same job opportunities.",
         "source": "grade-10-unit-6-getting-started",
         "grade": 10,
         "unit": 6,
@@ -23839,18 +21986,6 @@ const EXTRACTED_VOCABULARY = {
         "meaning": "tiếp tục",
         "ipa": "",
         "format": "bullet-pos",
-        "source": "grade-10-unit-6-looking-back",
-        "grade": 10,
-        "unit": 6,
-        "lesson": null
-      },
-      {
-        "word": "kindergarten",
-        "pos": "n",
-        "meaning": "mầm non, mẫu giáo",
-        "ipa": "",
-        "format": "bullet-pos",
-        "example": "gender (n): giới tính",
         "source": "grade-10-unit-6-looking-back",
         "grade": 10,
         "unit": 6,
@@ -24296,28 +22431,6 @@ const EXTRACTED_VOCABULARY = {
         "word": "1 - a",
         "pos": "",
         "meaning": "be forced = be made to do something unwanted",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "grade-10-unit-6-reading",
-        "grade": 10,
-        "unit": 6,
-        "lesson": "reading"
-      },
-      {
-        "word": "2 - b",
-        "pos": "",
-        "meaning": "domestic violence = behaviour intended to hurt someone you live with",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "grade-10-unit-6-reading",
-        "grade": 10,
-        "unit": 6,
-        "lesson": "reading"
-      },
-      {
-        "word": "3 - a",
-        "pos": "",
-        "meaning": "uneducated = having little or no formal education at school",
         "ipa": "",
         "format": "grade11-summary",
         "source": "grade-10-unit-6-reading",
@@ -25855,18 +23968,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "poverty",
-        "ipa": "/ˈpɒvəti/",
-        "pos": "n",
-        "meaning": "sự nghèo nàn",
-        "format": "grade10+",
-        "example": "It also works to reduce poverty and improve people's lives in other ways.",
-        "source": "grade-10-unit-7-getting-started",
-        "grade": 10,
-        "unit": 7,
-        "lesson": null
-      },
-      {
         "word": "join",
         "ipa": "/dʒɔɪn/",
         "pos": "v",
@@ -26493,17 +24594,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": "listening"
       },
       {
-        "word": "aim",
-        "pos": "v",
-        "meaning": "nhằm, mục đích",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "grade-10-unit-7-looking-back",
-        "grade": 10,
-        "unit": 7,
-        "lesson": null
-      },
-      {
         "word": "enter",
         "pos": "v",
         "meaning": "bước vào, tham gia vào",
@@ -26758,18 +24848,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": "writing"
       },
       {
-        "word": "promote",
-        "ipa": "/prəˈməʊt/",
-        "pos": "v",
-        "meaning": "quảng bá, thúc đẩy",
-        "format": "grade10+",
-        "example": "It is easier for Viet Nam to promote its culture.",
-        "source": "grade-10-unit-7-writing",
-        "grade": 10,
-        "unit": 7,
-        "lesson": "writing"
-      },
-      {
         "word": "convenient",
         "ipa": "/kənˈviːniənt/",
         "pos": "adj",
@@ -26788,18 +24866,6 @@ const EXTRACTED_VOCABULARY = {
         "meaning": "ở nước ngoài",
         "format": "grade10+",
         "example": "More opportunities abroad are open to Vietnamese students.",
-        "source": "grade-10-unit-7-writing",
-        "grade": 10,
-        "unit": 7,
-        "lesson": "writing"
-      },
-      {
-        "word": "accept",
-        "ipa": "/əkˈsept/",
-        "pos": "v",
-        "meaning": "chấp nhận, tiếp nhận",
-        "format": "grade10+",
-        "example": "Vietnamese universities can accept international students.",
         "source": "grade-10-unit-7-writing",
         "grade": 10,
         "unit": 7,
@@ -27114,17 +25180,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": "communication"
       },
       {
-        "word": "app",
-        "pos": "n",
-        "meaning": "ứng dụng",
-        "ipa": "/æp/",
-        "format": "grade6",
-        "source": "grade-10-unit-8-communication-culture",
-        "grade": 10,
-        "unit": 8,
-        "lesson": "communication"
-      },
-      {
         "word": "successful",
         "pos": "adj",
         "meaning": "thành công",
@@ -27293,17 +25348,6 @@ const EXTRACTED_VOCABULARY = {
         "word": "**F** - Thông tin",
         "pos": "",
         "meaning": "\"I'm not good at taking notes in class, you know.\"",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "grade-10-unit-8-getting-started",
-        "grade": 10,
-        "unit": 8,
-        "lesson": null
-      },
-      {
-        "word": "**T** - Thông tin",
-        "pos": "",
-        "meaning": "\"We're doing a lot of projects that help us understand the lessons better.\"",
         "ipa": "",
         "format": "grade7-8-no-ipa",
         "source": "grade-10-unit-8-getting-started",
@@ -27752,50 +25796,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": "listening"
       },
       {
-        "word": "Danh từ",
-        "pos": "nouns",
-        "meaning": "students, smartphones, video",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "grade-10-unit-8-looking-back",
-        "grade": 10,
-        "unit": 8,
-        "lesson": null
-      },
-      {
-        "word": "Động từ chính",
-        "pos": "main verbs",
-        "meaning": "bring, download, learn",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "grade-10-unit-8-looking-back",
-        "grade": 10,
-        "unit": 8,
-        "lesson": null
-      },
-      {
-        "word": "Tính từ",
-        "pos": "adjectives",
-        "meaning": "new, useful, online",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "grade-10-unit-8-looking-back",
-        "grade": 10,
-        "unit": 8,
-        "lesson": null
-      },
-      {
-        "word": "Trạng từ",
-        "pos": "adverbs",
-        "meaning": "anywhere, tomorrow",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "grade-10-unit-8-looking-back",
-        "grade": 10,
-        "unit": 8,
-        "lesson": null
-      },
-      {
         "word": "blended",
         "pos": "adj",
         "meaning": "pha trộn, kết hợp",
@@ -27844,28 +25844,6 @@ const EXTRACTED_VOCABULARY = {
         "pos": "n.phr",
         "meaning": "học trực tiếp",
         "ipa": "/ˌfeɪs tə ˈfeɪs ˈlɜːnɪŋ/",
-        "format": "grade6",
-        "source": "grade-10-unit-8-looking-back",
-        "grade": 10,
-        "unit": 8,
-        "lesson": null
-      },
-      {
-        "word": "connection",
-        "pos": "n",
-        "meaning": "kết nối",
-        "ipa": "/kəˈnekʃn/",
-        "format": "grade6",
-        "source": "grade-10-unit-8-looking-back",
-        "grade": 10,
-        "unit": 8,
-        "lesson": null
-      },
-      {
-        "word": "teamwork",
-        "pos": "n",
-        "meaning": "làm việc nhóm",
-        "ipa": "/ˈtiːmwɜːk/",
         "format": "grade6",
         "source": "grade-10-unit-8-looking-back",
         "grade": 10,
@@ -27972,28 +25950,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "advantage",
-        "pos": "n",
-        "meaning": "lợi thế, ưu điểm",
-        "ipa": "/ədˈvɑːntɪdʒ/",
-        "format": "grade6",
-        "source": "grade-10-unit-8-reading",
-        "grade": 10,
-        "unit": 8,
-        "lesson": "reading"
-      },
-      {
-        "word": "disadvantage",
-        "pos": "n",
-        "meaning": "bất lợi, nhược điểm",
-        "ipa": "/ˌdɪsədˈvɑːntɪdʒ/",
-        "format": "grade6",
-        "source": "grade-10-unit-8-reading",
-        "grade": 10,
-        "unit": 8,
-        "lesson": "reading"
-      },
-      {
         "word": "discussion board",
         "pos": "n.phr",
         "meaning": "bảng thảo luận",
@@ -28061,50 +26017,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": "reading"
       },
       {
-        "word": "**Kim** - Thông tin",
-        "pos": "",
-        "meaning": "\"In class, I can work in groups and discuss with friends... When I have a problem, I can ask for answers or help immediately.\"",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "grade-10-unit-8-reading",
-        "grade": 10,
-        "unit": 8,
-        "lesson": "reading"
-      },
-      {
-        "word": "**Laura** - Thông tin",
-        "pos": "",
-        "meaning": "\"I can't talk to my teacher and classmates, but I can email them at any time.\"",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "grade-10-unit-8-reading",
-        "grade": 10,
-        "unit": 8,
-        "lesson": "reading"
-      },
-      {
-        "word": "**Kim** - Thông tin",
-        "pos": "",
-        "meaning": "\"Learning in a traditional classroom also has fewer distractions than learning online.\"",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "grade-10-unit-8-reading",
-        "grade": 10,
-        "unit": 8,
-        "lesson": "reading"
-      },
-      {
-        "word": "**Laura** - Thông tin",
-        "pos": "",
-        "meaning": "\"The only disadvantage is I really need to have a fast Internet connection.\"",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "grade-10-unit-8-reading",
-        "grade": 10,
-        "unit": 8,
-        "lesson": "reading"
-      },
-      {
         "word": "furthermore",
         "pos": "adv",
         "meaning": "hơn nữa",
@@ -28138,17 +26050,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": "reading"
       },
       {
-        "word": "reply",
-        "pos": "n, v",
-        "meaning": "trả lời",
-        "ipa": "/rɪˈplaɪ/",
-        "format": "grade6",
-        "source": "grade-10-unit-8-reading",
-        "grade": 10,
-        "unit": 8,
-        "lesson": "reading"
-      },
-      {
         "word": "traditional classroom",
         "pos": "n.phr",
         "meaning": "lớp học truyền thống",
@@ -28169,28 +26070,6 @@ const EXTRACTED_VOCABULARY = {
         "grade": 10,
         "unit": 8,
         "lesson": "reading"
-      },
-      {
-        "word": "advantage",
-        "pos": "n",
-        "meaning": "ưu điểm, lợi thế",
-        "ipa": "/ədˈvɑːntɪdʒ/",
-        "format": "grade6",
-        "source": "grade-10-unit-8-speaking",
-        "grade": 10,
-        "unit": 8,
-        "lesson": "speaking"
-      },
-      {
-        "word": "disadvantage",
-        "pos": "n",
-        "meaning": "nhược điểm, bất lợi",
-        "ipa": "/ˌdɪsədˈvɑːntɪdʒ/",
-        "format": "grade6",
-        "source": "grade-10-unit-8-speaking",
-        "grade": 10,
-        "unit": 8,
-        "lesson": "speaking"
       },
       {
         "word": "pace",
@@ -28314,32 +26193,10 @@ const EXTRACTED_VOCABULARY = {
         "lesson": "speaking"
       },
       {
-        "word": "at one's own pace",
-        "pos": "adv.phr",
-        "meaning": "theo tốc độ của riêng mình",
-        "ipa": "/ət wʌnz əʊn peɪs/",
-        "format": "grade6",
-        "source": "grade-10-unit-8-speaking",
-        "grade": 10,
-        "unit": 8,
-        "lesson": "speaking"
-      },
-      {
         "word": "Internet connection",
         "pos": "n.phr",
         "meaning": "kết nối Internet",
         "ipa": "/ˈɪntənet kəˈnekʃn/",
-        "format": "grade6",
-        "source": "grade-10-unit-8-speaking",
-        "grade": 10,
-        "unit": 8,
-        "lesson": "speaking"
-      },
-      {
-        "word": "face to face",
-        "pos": "adv.phr",
-        "meaning": "mặt đối mặt",
-        "ipa": "/feɪs tə feɪs/",
         "format": "grade6",
         "source": "grade-10-unit-8-speaking",
         "grade": 10,
@@ -29015,31 +26872,9 @@ const EXTRACTED_VOCABULARY = {
         "lesson": "language"
       },
       {
-        "word": "habitat",
-        "pos": "",
-        "meaning": "môi trường sống - môi trường tự nhiên nơi một loài thực vật hoặc động vật sinh sống",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "grade-10-unit-9-language",
-        "grade": 10,
-        "unit": 9,
-        "lesson": "language"
-      },
-      {
         "word": "biodiversity",
         "pos": "",
         "meaning": "đa dạng sinh học - sự đa dạng của thực vật và động vật trong một khu vực cụ thể",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "grade-10-unit-9-language",
-        "grade": 10,
-        "unit": 9,
-        "lesson": "language"
-      },
-      {
-        "word": "climate change",
-        "pos": "",
-        "meaning": "biến đổi khí hậu - những thay đổi trong thời tiết của thế giới, đặc biệt là sự gia tăng nhiệt độ",
         "ipa": "",
         "format": "grade11-summary",
         "source": "grade-10-unit-9-language",
@@ -30621,30 +28456,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "homemaker",
-        "ipa": "/ˈhəʊmmeɪkə(r)/",
-        "pos": "n",
-        "meaning": "nội trợ",
-        "format": "grade10+",
-        "example": "My mother is a perfect homemaker.",
-        "source": "unit-1",
-        "grade": 10,
-        "unit": 1,
-        "lesson": null
-      },
-      {
-        "word": "breadwinner",
-        "ipa": "/ˈbredwɪnə(r)/",
-        "pos": "n",
-        "meaning": "trụ cột tài chính",
-        "format": "grade10+",
-        "example": "My father is the breadwinner in my family.",
-        "source": "unit-1",
-        "grade": 10,
-        "unit": 1,
-        "lesson": null
-      },
-      {
         "word": "grocery",
         "ipa": "/ˈɡrəʊsəri/",
         "pos": "n",
@@ -30774,17 +28585,6 @@ const EXTRACTED_VOCABULARY = {
         "meaning": "gia đình nhận con nuôi",
         "ipa": "",
         "format": "grade7-8-no-ipa",
-        "source": "unit-1",
-        "grade": 10,
-        "unit": 1,
-        "lesson": null
-      },
-      {
-        "word": "homemaker",
-        "ipa": "/ˈhəʊmmeɪkə(r)/",
-        "pos": "n",
-        "meaning": "người nội trợ",
-        "format": "grade10+",
         "source": "unit-1",
         "grade": 10,
         "unit": 1,
@@ -31508,50 +29308,6 @@ const EXTRACTED_VOCABULARY = {
         "grade": 11,
         "unit": null,
         "lesson": "skills"
-      },
-      {
-        "word": "**F** - *Explanation",
-        "pos": "",
-        "meaning": "* \"Most of the musicians and singers are not professionally trained; they are just music lovers performing with all their heart.\"",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "grade-11-review-3-skills",
-        "grade": 11,
-        "unit": null,
-        "lesson": "skills"
-      },
-      {
-        "word": "**T** - *Explanation",
-        "pos": "",
-        "meaning": "* \"They usually perform at events such as weddings and traditional festivals, and the melodies express different moods and feelings.\"",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "grade-11-review-3-skills",
-        "grade": 11,
-        "unit": null,
-        "lesson": "skills"
-      },
-      {
-        "word": "**T** - *Explanation",
-        "pos": "",
-        "meaning": "* \"Such performances help preserve the art form and allow artists to reach a wider audience, including people from around the world.\"",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "grade-11-review-3-skills",
-        "grade": 11,
-        "unit": null,
-        "lesson": "skills"
-      },
-      {
-        "word": "vocational",
-        "pos": "adj",
-        "meaning": "thuộc về nghề nghiệp => vocational school: trường dạy nghề",
-        "ipa": "",
-        "format": "bullet-pos",
-        "source": "grade-11-review-4-language",
-        "grade": 11,
-        "unit": null,
-        "lesson": "language"
       }
     ]
   },
@@ -31668,152 +29424,9 @@ const EXTRACTED_VOCABULARY = {
         "lesson": "language"
       },
       {
-        "word": "A",
-        "pos": "",
-        "meaning": "You'll take the books back to the library, won't you? ↗",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "grade-11-unit-10-language",
-        "grade": 11,
-        "unit": 10,
-        "lesson": "language"
-      },
-      {
-        "word": "A",
-        "pos": "",
-        "meaning": "We don't want our planet to lose biodiversity, do we? ↘",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "grade-11-unit-10-language",
-        "grade": 11,
-        "unit": 10,
-        "lesson": "language"
-      },
-      {
-        "word": "A",
-        "pos": "",
-        "meaning": "An ecosystem is a community of living things, isn't it? ↗",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "grade-11-unit-10-language",
-        "grade": 11,
-        "unit": 10,
-        "lesson": "language"
-      },
-      {
-        "word": "A",
-        "pos": "",
-        "meaning": "You went to Cuc Phuong National Park last weekend, didn't you? ↘",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "grade-11-unit-10-language",
-        "grade": 11,
-        "unit": 10,
-        "lesson": "language"
-      },
-      {
-        "word": "A",
-        "pos": "",
-        "meaning": "Sorry, I didn't hear my alarm this morning.",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "grade-11-unit-10-language",
-        "grade": 11,
-        "unit": 10,
-        "lesson": "language"
-      },
-      {
-        "word": "A",
-        "pos": "",
-        "meaning": "I couldn't watch the match last night. We won, didn't we?",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "grade-11-unit-10-language",
-        "grade": 11,
-        "unit": 10,
-        "lesson": "language"
-      },
-      {
-        "word": "A",
-        "pos": "",
-        "meaning": "There are several ecosystems that can be found in Viet Nam.",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "grade-11-unit-10-language",
-        "grade": 11,
-        "unit": 10,
-        "lesson": "language"
-      },
-      {
-        "word": "A",
-        "pos": "",
-        "meaning": "We are running out of fossil fuels, aren't we?",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "grade-11-unit-10-language",
-        "grade": 11,
-        "unit": 10,
-        "lesson": "language"
-      },
-      {
-        "word": "A",
-        "pos": "",
-        "meaning": "People should stop damaging the environment, shouldn't they?",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "grade-11-unit-10-language",
-        "grade": 11,
-        "unit": 10,
-        "lesson": "language"
-      },
-      {
         "word": "B",
         "pos": "",
         "meaning": "So, you were late again, weren't you? ↘",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "grade-11-unit-10-language",
-        "grade": 11,
-        "unit": 10,
-        "lesson": "language"
-      },
-      {
-        "word": "A",
-        "pos": "",
-        "meaning": "We won, didn't we? ↗",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "grade-11-unit-10-language",
-        "grade": 11,
-        "unit": 10,
-        "lesson": "language"
-      },
-      {
-        "word": "B",
-        "pos": "",
-        "meaning": "Viet Nam is biologically diverse, isn't it? ↗",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "grade-11-unit-10-language",
-        "grade": 11,
-        "unit": 10,
-        "lesson": "language"
-      },
-      {
-        "word": "A",
-        "pos": "",
-        "meaning": "We are running out of fossil fuels, aren't we? ↘",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "grade-11-unit-10-language",
-        "grade": 11,
-        "unit": 10,
-        "lesson": "language"
-      },
-      {
-        "word": "A",
-        "pos": "",
-        "meaning": "People should stop damaging the environment, shouldn't they? ↘",
         "ipa": "",
         "format": "grade7-8-no-ipa",
         "source": "grade-11-unit-10-language",
@@ -33598,17 +31211,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": "language"
       },
       {
-        "word": "A",
-        "pos": "",
-        "meaning": "Is it your dad who mows the lawn?",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "grade-11-unit-8-language",
-        "grade": 11,
-        "unit": 8,
-        "lesson": "language"
-      },
-      {
         "word": "**Self-motivated**",
         "pos": "",
         "meaning": "Independent learners are motivated by their own interests and goals, not just external rewards or pressures.",
@@ -33914,17 +31516,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": "reading"
       },
       {
-        "word": "3 - b",
-        "pos": "",
-        "meaning": "carry out: to perform and complete something (tiến hành: để thực hiện và hoàn thành một cái gì đó)",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "grade-11-unit-8-reading",
-        "grade": 11,
-        "unit": 8,
-        "lesson": "reading"
-      },
-      {
         "word": "4 - a",
         "pos": "",
         "meaning": "get into the habit of: to start doing something regularly so that it becomes a habit (có thói quen: bắt đầu làm điều gì đó thường xuyên để nó trở thành thói quen)",
@@ -34060,28 +31651,6 @@ const EXTRACTED_VOCABULARY = {
         "word": "___________ (n)",
         "pos": "",
         "meaning": "the state of being poor",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "grade-11-unit-9-language",
-        "grade": 11,
-        "unit": 9,
-        "lesson": "language"
-      },
-      {
-        "word": "___________ (n)",
-        "pos": "",
-        "meaning": "drinks such as beer and wine that can make people drunk",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "grade-11-unit-9-language",
-        "grade": 11,
-        "unit": 9,
-        "lesson": "language"
-      },
-      {
-        "word": "___________ (n)",
-        "pos": "",
-        "meaning": "planned activities to achieve social or political aims",
         "ipa": "",
         "format": "grade7-8-no-ipa",
         "source": "grade-11-unit-9-language",
@@ -34233,17 +31802,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": "reading"
       },
       {
-        "word": "4 - A",
-        "pos": "",
-        "meaning": "The possible problems facing teens if they do not follow their peers",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "grade-11-unit-9-reading",
-        "grade": 11,
-        "unit": 9,
-        "lesson": "reading"
-      },
-      {
         "word": "1 - C",
         "pos": "",
         "meaning": "Their parents do not approve of their behaviour.",
@@ -34258,17 +31816,6 @@ const EXTRACTED_VOCABULARY = {
         "word": "2 - A",
         "pos": "",
         "meaning": "Encouraging someone to fight.",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "grade-11-unit-9-reading",
-        "grade": 11,
-        "unit": 9,
-        "lesson": "reading"
-      },
-      {
-        "word": "3 - C",
-        "pos": "",
-        "meaning": "More than two-thirds of teen smokers started the habit under the influence of their friends.",
         "ipa": "",
         "format": "grade11-summary",
         "source": "grade-11-unit-9-reading",
@@ -35033,66 +32580,11 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "outdoor",
-        "pos": "",
-        "meaning": "diễn ra bên ngoài",
-        "ipa": "",
-        "format": "grade9-escaped",
-        "source": "g7_part_1",
-        "grade": 7,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "patient",
-        "pos": "",
-        "meaning": "có thể đợi trong một thời gian dài",
-        "ipa": "",
-        "format": "grade9-escaped",
-        "source": "g7_part_1",
-        "grade": 7,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "responsibility",
         "pos": "",
         "meaning": "trách nhiệm, nhiệm vụ chăm sóc một cái gì",
         "ipa": "",
         "format": "grade9-escaped",
-        "source": "g7_part_1",
-        "grade": 7,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "maturity",
-        "pos": "",
-        "meaning": "trưởng thành",
-        "ipa": "",
-        "format": "grade9-escaped",
-        "source": "g7_part_1",
-        "grade": 7,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "valuable",
-        "pos": "",
-        "meaning": "có giá trị, hữu ích",
-        "ipa": "",
-        "format": "grade9-escaped",
-        "source": "g7_part_1",
-        "grade": 7,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "unusual",
-        "pos": "adj",
-        "meaning": "không thường",
-        "ipa": "/ʌnˈjuːʒʊəl/",
-        "format": "grade6",
         "source": "g7_part_1",
         "grade": 7,
         "unit": null,
@@ -35649,28 +33141,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "oil",
-        "pos": "n",
-        "meaning": "dầu mỏ",
-        "ipa": "/ɔɪl/",
-        "format": "grade6",
-        "source": "g7_part_10",
-        "grade": 7,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "natural gas",
-        "pos": "n",
-        "meaning": "khí tự nhiên",
-        "ipa": "/ˈnætʃrəl gæs/",
-        "format": "grade6",
-        "source": "g7_part_10",
-        "grade": 7,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "produce energy",
         "pos": "",
         "meaning": "sản xuất năng lượng /prəˈdjuːs ˈenədʒi/",
@@ -36078,61 +33548,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "solar-powered ship",
-        "pos": "",
-        "meaning": "tàu chạy bằng năng lượng mặt trời",
-        "ipa": "",
-        "format": "grade9-escaped",
-        "source": "g7_part_11",
-        "grade": 7,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "flying car",
-        "pos": "",
-        "meaning": "ô tô bay",
-        "ipa": "",
-        "format": "grade9-escaped",
-        "source": "g7_part_11",
-        "grade": 7,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "bamboo-copter",
-        "pos": "",
-        "meaning": "trực thăng chong chóng tre",
-        "ipa": "",
-        "format": "grade9-escaped",
-        "source": "g7_part_11",
-        "grade": 7,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "hyperloop",
-        "pos": "",
-        "meaning": "siêu vòng lặp",
-        "ipa": "",
-        "format": "grade9-escaped",
-        "source": "g7_part_11",
-        "grade": 7,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "skyTran",
-        "pos": "",
-        "meaning": "tàu cao tốc trên cao",
-        "ipa": "",
-        "format": "grade9-escaped",
-        "source": "g7_part_11",
-        "grade": 7,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "Do you think we will ... ?",
         "pos": "",
         "meaning": "Bạn có nghĩ chúng ta sẽ ... không? /duː juː θɪŋk wiː wɪl/",
@@ -36430,17 +33845,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "economical",
-        "pos": "adj",
-        "meaning": "tiết kiệm, kinh tế",
-        "ipa": "/ˌiːkəˈnɒmɪkl/",
-        "format": "grade6",
-        "source": "g7_part_11",
-        "grade": 7,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "run on petrol",
         "pos": "",
         "meaning": "chạy bằng xăng /rʌn ɒn ˈpetrəl/",
@@ -36488,28 +33892,6 @@ const EXTRACTED_VOCABULARY = {
         "word": "avoid traffic accident",
         "pos": "",
         "meaning": "tránh tai nạn giao thông /əˈvɔɪd ˈtræfɪk ˈæksɪdənt/",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g7_part_11",
-        "grade": 7,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "hyperloop",
-        "pos": "",
-        "meaning": "fast, green, carrying many passengers",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g7_part_11",
-        "grade": 7,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "flying car",
-        "pos": "",
-        "meaning": "fast, convenient, autopilot function",
         "ipa": "",
         "format": "grade7-8-no-ipa",
         "source": "g7_part_11",
@@ -36793,17 +34175,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "capital",
-        "pos": "",
-        "meaning": "thủ đô",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g7_part_12",
-        "grade": 7,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "picture",
         "pos": "n",
         "meaning": "bức tranh",
@@ -36863,17 +34234,6 @@ const EXTRACTED_VOCABULARY = {
         "pos": "n",
         "meaning": "khu vực lân cận",
         "ipa": "/ˈneɪbəhʊd/",
-        "format": "grade6",
-        "source": "g7_part_2",
-        "grade": 7,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "health",
-        "pos": "n",
-        "meaning": "sức khỏe",
-        "ipa": "/hɛlθ/",
         "format": "grade6",
         "source": "g7_part_2",
         "grade": 7,
@@ -37541,17 +34901,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "hard",
-        "pos": "adj",
-        "meaning": "chăm chỉ",
-        "ipa": "/hɑːd/",
-        "format": "grade6",
-        "source": "g7_part_2",
-        "grade": 7,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "help",
         "pos": "v",
         "meaning": "giúp đỡ",
@@ -37567,17 +34916,6 @@ const EXTRACTED_VOCABULARY = {
         "pos": "v",
         "meaning": "giữ",
         "ipa": "/kiːp/",
-        "format": "grade6",
-        "source": "g7_part_2",
-        "grade": 7,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "fit",
-        "pos": "adj",
-        "meaning": "cân đối",
-        "ipa": "/fɪt/",
         "format": "grade6",
         "source": "g7_part_2",
         "grade": 7,
@@ -38960,39 +36298,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "Động từ bất quy tắc",
-        "pos": "",
-        "meaning": "sell \\=\\> sold: bán",
-        "ipa": "",
-        "format": "grade9-escaped",
-        "source": "g7_part_3",
-        "grade": 7,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "Động từ có quy tắc",
-        "pos": "",
-        "meaning": "donate \\=\\> donated: quyên góp",
-        "ipa": "",
-        "format": "grade9-escaped",
-        "source": "g7_part_3",
-        "grade": 7,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "Động từ bất quy tắc",
-        "pos": "",
-        "meaning": "go \\=\\> went: đi",
-        "ipa": "",
-        "format": "grade9-escaped",
-        "source": "g7_part_3",
-        "grade": 7,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "fully",
         "pos": "",
         "meaning": "toàn vẹn",
@@ -39807,28 +37112,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "Cách phát âm",
-        "pos": "",
-        "meaning": "Âm này dài, phát âm bằng cách tròn môi và mở rộng miệng hơn so với /ɒ/. Lưỡi nằm thấp và lùi xa về phía sau hơn.",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "g7_part_5",
-        "grade": 7,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "Độ dài",
-        "pos": "",
-        "meaning": "Âm dài, kéo dài khi phát âm.",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "g7_part_5",
-        "grade": 7,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "bowl",
         "pos": "n",
         "meaning": "tô",
@@ -40016,28 +37299,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "even",
-        "pos": "",
-        "meaning": "thậm chí /ˈiːvn/",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g7_part_5",
-        "grade": 7,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "event",
-        "pos": "",
-        "meaning": "sự kiện /ɪˈvent/",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g7_part_5",
-        "grade": 7,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "at all times of the day",
         "pos": "",
         "meaning": "vào mọi thời điểm trong ngày /æt ɔːl taɪmz əv ðə deɪ/",
@@ -40076,17 +37337,6 @@ const EXTRACTED_VOCABULARY = {
         "meaning": "nồi, chậu",
         "ipa": "/pɒt/",
         "format": "grade6",
-        "source": "g7_part_5",
-        "grade": 7,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "meat",
-        "pos": "",
-        "meaning": "thịt /miːt/",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
         "source": "g7_part_5",
         "grade": 7,
         "unit": null,
@@ -40214,39 +37464,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "well",
-        "pos": "n",
-        "meaning": "cái giếng",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g7_part_6",
-        "grade": 7,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "will",
-        "pos": "",
-        "meaning": "sẽ  share: chia sẻ",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g7_part_6",
-        "grade": 7,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "see",
-        "pos": "",
-        "meaning": "thấy, gặp, nhìn",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g7_part_6",
-        "grade": 7,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "sound great",
         "pos": "",
         "meaning": "nghe có vẻ tuyệt /saʊnd ɡreɪt/",
@@ -40350,17 +37567,6 @@ const EXTRACTED_VOCABULARY = {
         "pos": "n",
         "meaning": "cuộc họp, buổi gặp mặt",
         "ipa": "/ˈmiːtɪŋ/",
-        "format": "grade6",
-        "source": "g7_part_6",
-        "grade": 7,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "noon",
-        "pos": "n",
-        "meaning": "buổi trưa, giữa trưa",
-        "ipa": "/nuːn/",
         "format": "grade6",
         "source": "g7_part_6",
         "grade": 7,
@@ -40654,17 +37860,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "need",
-        "pos": "v",
-        "meaning": "cần, đòi hỏi; (n) nhu cầu, sự cần thiết",
-        "ipa": "/niːd/",
-        "format": "grade6",
-        "source": "g7_part_6",
-        "grade": 7,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "recipe",
         "pos": "n",
         "meaning": "công thức nấu ăn, công thức chế biến",
@@ -40680,17 +37875,6 @@ const EXTRACTED_VOCABULARY = {
         "pos": "v",
         "meaning": "bước vào, đi vào, tham gia",
         "ipa": "/ˈentə/",
-        "format": "grade6",
-        "source": "g7_part_6",
-        "grade": 7,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "some",
-        "pos": "adj",
-        "meaning": "một vài, một số, một ít",
-        "ipa": "/sʌm/",
         "format": "grade6",
         "source": "g7_part_6",
         "grade": 7,
@@ -40753,17 +37937,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "portrait",
-        "pos": "n",
-        "meaning": "chân dung",
-        "ipa": "/ˈpɔːtrət/",
-        "format": "grade6",
-        "source": "g7_part_6",
-        "grade": 7,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "concert",
         "pos": "n",
         "meaning": "buổi hòa nhạc",
@@ -40786,43 +37959,10 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "gifted",
-        "pos": "adj",
-        "meaning": "có năng khiếu, có tài năng thiên bẩm",
-        "ipa": "/ˈɡɪftɪd/",
-        "format": "grade6",
-        "source": "g7_part_6",
-        "grade": 7,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "entrance",
-        "pos": "n",
-        "meaning": "lối vào, cửa vào; sự đi vào",
-        "ipa": "/ˈentrəns/",
-        "format": "grade6",
-        "source": "g7_part_6",
-        "grade": 7,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "final",
         "pos": "adj",
         "meaning": "cuối cùng; (n) kỳ thi cuối kỳ",
         "ipa": "/ˈfaɪnəl/",
-        "format": "grade6",
-        "source": "g7_part_6",
-        "grade": 7,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "enjoy",
-        "pos": "v",
-        "meaning": "thích, thưởng thức, vui hưởng",
-        "ipa": "/ɪnˈdʒɔɪ/",
         "format": "grade6",
         "source": "g7_part_6",
         "grade": 7,
@@ -41000,17 +38140,6 @@ const EXTRACTED_VOCABULARY = {
         "meaning": "đưa ai đó đến một nơi nào đó /teɪk tə/",
         "ipa": "",
         "format": "grade7-8-no-ipa",
-        "source": "g7_part_7",
-        "grade": 7,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "traffic jam",
-        "pos": "n",
-        "meaning": "tắc đường",
-        "ipa": "/ˈtræfɪk dʒæm/",
-        "format": "grade6",
         "source": "g7_part_7",
         "grade": 7,
         "unit": null,
@@ -41361,17 +38490,6 @@ const EXTRACTED_VOCABULARY = {
         "word": "go by \\+ phương tiện",
         "pos": "",
         "meaning": "đi bằng (phương tiện) /gəʊ baɪ/",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g7_part_7",
-        "grade": 7,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "go on foot",
-        "pos": "",
-        "meaning": "đi bộ /gəʊ ɒn fʊt/",
         "ipa": "",
         "format": "grade7-8-no-ipa",
         "source": "g7_part_7",
@@ -42117,17 +39235,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "comedy",
-        "pos": "n",
-        "meaning": "hài hước",
-        "ipa": "/ˈkɒmədi/",
-        "format": "grade6",
-        "source": "g7_part_8",
-        "grade": 7,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "cartoon",
         "pos": "n",
         "meaning": "hoạt hình",
@@ -42198,28 +39305,6 @@ const EXTRACTED_VOCABULARY = {
         "pos": "n",
         "meaning": "sự tưởng tượng",
         "ipa": "/ɪˌmædʒɪˈneɪʃən/",
-        "format": "grade6",
-        "source": "g7_part_8",
-        "grade": 7,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "event",
-        "pos": "n",
-        "meaning": "sự kiện",
-        "ipa": "/ɪˈvent/",
-        "format": "grade6",
-        "source": "g7_part_8",
-        "grade": 7,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "even",
-        "pos": "adv",
-        "meaning": "thậm chí",
-        "ipa": "/ˈiːvən/",
         "format": "grade6",
         "source": "g7_part_8",
         "grade": 7,
@@ -42392,17 +39477,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "believe",
-        "pos": "v",
-        "meaning": "tin tưởng",
-        "ipa": "/bɪˈliːv/",
-        "format": "grade6",
-        "source": "g7_part_8",
-        "grade": 7,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "Harry Potter and the Sorcerer's Stone",
         "pos": "",
         "meaning": "Harry Potter và Hòn đá phù thủy /ˈhæri ˈpɒtər ænd ðə ˈsɔːsərəz stəʊn/",
@@ -42568,28 +39642,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "director",
-        "pos": "n",
-        "meaning": "đạo diễn /dəˈrektə/",
-        "ipa": "",
-        "format": "grade9-escaped",
-        "source": "g7_part_8",
-        "grade": 7,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "star",
-        "pos": "v",
-        "meaning": "đóng chính, đóng vai chính, (n) ngôi sao, diễn viên chính",
-        "ipa": "",
-        "format": "grade9-escaped",
-        "source": "g7_part_8",
-        "grade": 7,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "actress",
         "pos": "n",
         "meaning": "nữ diễn viên",
@@ -42634,64 +39686,9 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "moving",
-        "pos": "adj",
-        "meaning": "cảm động, lay động",
-        "ipa": "",
-        "format": "grade9-escaped",
-        "source": "g7_part_8",
-        "grade": 7,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "comedy",
-        "pos": "",
-        "meaning": "Mr. Bean",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g7_part_8",
-        "grade": 7,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "documentary",
         "pos": "",
         "meaning": "Điện Biên Phủ",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g7_part_8",
-        "grade": 7,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "fantasy",
-        "pos": "",
-        "meaning": "Harry Potter",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g7_part_8",
-        "grade": 7,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "horror film",
-        "pos": "",
-        "meaning": "Ma Da",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g7_part_8",
-        "grade": 7,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "science fiction film",
-        "pos": "",
-        "meaning": "Star Wars",
         "ipa": "",
         "format": "grade7-8-no-ipa",
         "source": "g7_part_8",
@@ -43492,17 +40489,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "some",
-        "pos": "",
-        "meaning": "một ít, một vài",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g7_part_5",
-        "grade": 7,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "could \\= can",
         "pos": "",
         "meaning": "có thể",
@@ -43517,17 +40503,6 @@ const EXTRACTED_VOCABULARY = {
         "word": "would you like",
         "pos": "",
         "meaning": "bạn có muốn",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g7_part_5",
-        "grade": 7,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "try",
-        "pos": "",
-        "meaning": "thử, cố gắng",
         "ipa": "",
         "format": "grade7-8-no-ipa",
         "source": "g7_part_5",
@@ -44274,17 +41249,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "leisure activities",
-        "pos": "n",
-        "meaning": "các hoạt động giải trí",
-        "ipa": "/ˈlɛʒər ækˈtɪvɪtiz/",
-        "format": "grade6",
-        "source": "g8_part_1",
-        "grade": 8,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "family members",
         "pos": "n",
         "meaning": "các thành viên trong gia đình",
@@ -44901,17 +41865,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "social network",
-        "pos": "",
-        "meaning": "mạng xã hội /ˈsəʊʃəl ˈnetwɜːk/",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g8_part_10",
-        "grade": 8,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "emoji",
         "pos": "",
         "meaning": "biểu tượng cảm xúc /ɪˈməʊdʒi/",
@@ -45099,17 +42052,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "translation machine",
-        "pos": "",
-        "meaning": "máy dịch",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g8_part_10",
-        "grade": 8,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "at \\+ điểm nhỏ \\= in \\+ vùng/không gian",
         "pos": "",
         "meaning": "ở …",
@@ -45220,17 +42162,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "in front of",
-        "pos": "",
-        "meaning": "phía trước",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g8_part_10",
-        "grade": 8,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "conference",
         "pos": "n",
         "meaning": "hội nghị, cuộc họp",
@@ -45269,17 +42200,6 @@ const EXTRACTED_VOCABULARY = {
         "meaning": "thuộc mọi lứa tuổi /əv ɔːl ˈeɪdʒɪz/",
         "ipa": "",
         "format": "grade7-8-no-ipa",
-        "source": "g8_part_10",
-        "grade": 8,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "emoji",
-        "pos": "n",
-        "meaning": "biểu tượng cảm xúc",
-        "ipa": "/ɪˈməʊdʒi/",
-        "format": "grade6",
         "source": "g8_part_10",
         "grade": 8,
         "unit": null,
@@ -45344,17 +42264,6 @@ const EXTRACTED_VOCABULARY = {
         "word": "to a certain extent",
         "pos": "",
         "meaning": "đến một mức độ nhất định /tə ə ˈsɜːtn ɪkˈstent/",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g8_part_10",
-        "grade": 8,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "language barrier",
-        "pos": "",
-        "meaning": "rào cản ngôn ngữ /ˈlæŋɡwɪdʒ ˌbæriə/",
         "ipa": "",
         "format": "grade7-8-no-ipa",
         "source": "g8_part_10",
@@ -45484,31 +42393,9 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "carrier pigeon",
-        "pos": "",
-        "meaning": "bồ câu đưa thư /ˈkæriə ˈpɪdʒɪn/",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g8_part_10",
-        "grade": 8,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "smartwatch",
         "pos": "",
         "meaning": "đồng hồ thông minh /smɑːtˈwɒtʃ/",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g8_part_10",
-        "grade": 8,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "translation machine",
-        "pos": "",
-        "meaning": "máy dịch /trænsˈleɪʃn məˈʃiːn/",
         "ipa": "",
         "format": "grade7-8-no-ipa",
         "source": "g8_part_10",
@@ -45638,17 +42525,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "in front of",
-        "pos": "",
-        "meaning": "trước mặt /ɪn frʌnt ɒv/",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g8_part_11",
-        "grade": 8,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "computer screen",
         "pos": "",
         "meaning": "màn hình máy tính /kəmˈpjuːtə skriːn/",
@@ -45764,28 +42640,6 @@ const EXTRACTED_VOCABULARY = {
         "meaning": "tuyệt vời, tuyệt diệu",
         "ipa": "/fænˈtæstɪk/",
         "format": "grade6",
-        "source": "g8_part_11",
-        "grade": 8,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "computer screen",
-        "pos": "",
-        "meaning": "màn hình máy tính",
-        "ipa": "",
-        "format": "grade9-escaped",
-        "source": "g8_part_11",
-        "grade": 8,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "3D contact lenses",
-        "pos": "",
-        "meaning": "kính áp tròng 3 chiều",
-        "ipa": "",
-        "format": "grade9-escaped",
         "source": "g8_part_11",
         "grade": 8,
         "unit": null,
@@ -46023,28 +42877,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "Cấu trúc",
-        "pos": "",
-        "meaning": "Subject \\+ asked/wondered/inquired \\+ if/whether \\+ clause with changes",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "g8_part_11",
-        "grade": 8,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "Cấu trúc",
-        "pos": "",
-        "meaning": "Subject \\+ asked/wondered/inquired \\+ question word (what, where, why...) \\+ clause with changes",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "g8_part_11",
-        "grade": 8,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "Cấu trúc dạng khẳng định",
         "pos": "",
         "meaning": "Subject \\+ told/asked/ordered/commanded \\+ object \\+ to \\+ verb",
@@ -46061,17 +42893,6 @@ const EXTRACTED_VOCABULARY = {
         "meaning": "Subject \\+ told/asked/ordered/commanded \\+ object \\+ not to \\+ verb",
         "ipa": "",
         "format": "grade11-summary",
-        "source": "g8_part_11",
-        "grade": 8,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "great news for us",
-        "pos": "",
-        "meaning": "tin tuyệt vời cho chúng ta /ɡreɪt njuːz fɔː(r) ʌs/",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
         "source": "g8_part_11",
         "grade": 8,
         "unit": null,
@@ -46155,17 +42976,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "breakout room",
-        "pos": "",
-        "meaning": "phòng họp nhỏ (trong cuộc họp trực tuyến) /ˈbreɪkaʊt ruːm/",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g8_part_11",
-        "grade": 8,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "avoid",
         "pos": "v",
         "meaning": "tránh, tránh né",
@@ -46192,39 +43002,6 @@ const EXTRACTED_VOCABULARY = {
         "pos": "adj",
         "meaning": "đa chức năng",
         "ipa": "/ˌmʌltiˈfʌŋkʃənl/",
-        "format": "grade6",
-        "source": "g8_part_11",
-        "grade": 8,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "eye-tracking",
-        "pos": "n",
-        "meaning": "theo dõi chuyển động mắt",
-        "ipa": "/ˈaɪ ˌtrækɪŋ/",
-        "format": "grade6",
-        "source": "g8_part_11",
-        "grade": 8,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "fingerprint scanner",
-        "pos": "n",
-        "meaning": "máy quét vân tay",
-        "ipa": "/ˈfɪŋɡəprɪnt ˈskænə(r)/",
-        "format": "grade6",
-        "source": "g8_part_11",
-        "grade": 8,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "face recognition",
-        "pos": "n",
-        "meaning": "nhận diện khuôn mặt",
-        "ipa": "/feɪs ˌrekəɡˈnɪʃn/",
         "format": "grade6",
         "source": "g8_part_11",
         "grade": 8,
@@ -46281,17 +43058,6 @@ const EXTRACTED_VOCABULARY = {
         "meaning": "nhận diện giọng nói",
         "ipa": "/vɔɪs ˌrekəɡˈnɪʃn/",
         "format": "grade6",
-        "source": "g8_part_11",
-        "grade": 8,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "check attendance",
-        "pos": "",
-        "meaning": "điểm danh /tʃek əˈtendəns/",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
         "source": "g8_part_11",
         "grade": 8,
         "unit": null,
@@ -47189,17 +43955,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "surface",
-        "pos": "n",
-        "meaning": "bề mặt",
-        "ipa": "/ˈsɜːfɪs/",
-        "format": "grade6",
-        "source": "g8_part_12",
-        "grade": 8,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "dry",
         "pos": "adj",
         "meaning": "khô",
@@ -47215,17 +43970,6 @@ const EXTRACTED_VOCABULARY = {
         "pos": "n",
         "meaning": "da dày",
         "ipa": "/ˌθɪk ˈskɪn/",
-        "format": "grade6",
-        "source": "g8_part_12",
-        "grade": 8,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "liquid water",
-        "pos": "n",
-        "meaning": "nước ở thể lỏng",
-        "ipa": "/ˌlɪkwɪd ˈwɔːtə/",
         "format": "grade6",
         "source": "g8_part_12",
         "grade": 8,
@@ -48322,17 +45066,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "milk",
-        "pos": "v",
-        "meaning": "vắt sữa",
-        "ipa": "/mɪlk/",
-        "format": "grade6",
-        "source": "g8_part_2",
-        "grade": 8,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "plough",
         "pos": "v",
         "meaning": "cày",
@@ -48348,17 +45081,6 @@ const EXTRACTED_VOCABULARY = {
         "pos": "v",
         "meaning": "cho ăn",
         "ipa": "/fiːd/",
-        "format": "grade6",
-        "source": "g8_part_2",
-        "grade": 8,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "dry",
-        "pos": "v",
-        "meaning": "phơi khô",
-        "ipa": "/draɪ/",
         "format": "grade6",
         "source": "g8_part_2",
         "grade": 8,
@@ -50478,17 +47200,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "substance",
-        "pos": "n",
-        "meaning": "hợp chất, chất",
-        "ipa": "/ˈsʌbstəns/",
-        "format": "grade6",
-        "source": "g8_part_7",
-        "grade": 8,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "practice",
         "pos": "n",
         "meaning": "việc thực hiện",
@@ -50504,17 +47215,6 @@ const EXTRACTED_VOCABULARY = {
         "pos": "adj",
         "meaning": "đặc biệt, cụ thể … nào đó",
         "ipa": "/pəˈtɪkjələ/",
-        "format": "grade6",
-        "source": "g8_part_7",
-        "grade": 8,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "area",
-        "pos": "n",
-        "meaning": "khu vực, lĩnh vực",
-        "ipa": "/ˈeəriə/",
         "format": "grade6",
         "source": "g8_part_7",
         "grade": 8,
@@ -50658,17 +47358,6 @@ const EXTRACTED_VOCABULARY = {
         "pos": "n",
         "meaning": "mối quan ngại, mối lo, nỗi lo",
         "ipa": "/kənˈsɜːn/",
-        "format": "grade6",
-        "source": "g8_part_7",
-        "grade": 8,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "pond",
-        "pos": "n",
-        "meaning": "cái ao",
-        "ipa": "/pɒnd/",
         "format": "grade6",
         "source": "g8_part_7",
         "grade": 8,
@@ -50984,17 +47673,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "substance",
-        "pos": "n",
-        "meaning": "chất",
-        "ipa": "/ˈsʌbstəns/",
-        "format": "grade6",
-        "source": "g8_part_7",
-        "grade": 8,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "man-made",
         "pos": "adj",
         "meaning": "nhân tạo",
@@ -51226,28 +47904,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "open-air market",
-        "pos": "",
-        "meaning": "a, c",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g8_part_8",
-        "grade": 8,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "supermarket",
-        "pos": "",
-        "meaning": "b,d, e",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g8_part_8",
-        "grade": 8,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "Một ….. là một cửa hàng nhỏ và thường mở 24/7 → convenience store",
         "pos": "",
         "meaning": "cửa hàng tiện lợi",
@@ -51416,17 +48072,6 @@ const EXTRACTED_VOCABULARY = {
         "word": "online shop",
         "pos": "",
         "meaning": "cửa hàng trực tuyến /ˈɒnlaɪn ʃɒp/",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g8_part_8",
-        "grade": 8,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "open-air market",
-        "pos": "",
-        "meaning": "chợ ngoài trời /ˌəʊpən ˈeə ˈmɑːkɪt/",
         "ipa": "",
         "format": "grade7-8-no-ipa",
         "source": "g8_part_8",
@@ -51622,17 +48267,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "of all ages",
-        "pos": "",
-        "meaning": "thuộc mọi lứa tuổi /ɒv ɔːl eɪdʒɪz/",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g8_part_8",
-        "grade": 8,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "live music",
         "pos": "n",
         "meaning": "nhạc sống, nhạc trực tiếp",
@@ -51647,17 +48281,6 @@ const EXTRACTED_VOCABULARY = {
         "word": "holiday excitement",
         "pos": "",
         "meaning": "không khí lễ hội sôi động /ˈhɒlədeɪ ɪkˈsaɪtmənt/",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g8_part_8",
-        "grade": 8,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "hang out with friends",
-        "pos": "",
-        "meaning": "đi chơi với bạn bè /hæŋ aʊt wɪð frendz/",
         "ipa": "",
         "format": "grade7-8-no-ipa",
         "source": "g8_part_8",
@@ -52128,17 +48751,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "damage",
-        "pos": "n",
-        "meaning": "thiệt hại (v) gây thiệt hại",
-        "ipa": "/ˈdæmɪdʒ/",
-        "format": "grade6",
-        "source": "g8_part_9",
-        "grade": 8,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "emergency kit",
         "pos": "",
         "meaning": "bộ dụng cụ khẩn cấp /ɪˈmɜːdʒənsi kɪt/",
@@ -52219,17 +48831,6 @@ const EXTRACTED_VOCABULARY = {
         "word": "that \\+ adj",
         "pos": "",
         "meaning": "... tới nỗi như vậy /ðæt/",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g8_part_9",
-        "grade": 8,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "landslide",
-        "pos": "n",
-        "meaning": "lở đất, sạt lở;",
         "ipa": "",
         "format": "grade7-8-no-ipa",
         "source": "g8_part_9",
@@ -52326,17 +48927,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "erupt",
-        "pos": "v",
-        "meaning": "phun trào, bùng nổ",
-        "ipa": "/ɪˈrʌpt/",
-        "format": "grade6",
-        "source": "g8_part_9",
-        "grade": 8,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "island country",
         "pos": "",
         "meaning": "quốc gia đảo /ˈaɪlənd ˈkʌntri/",
@@ -52385,28 +48975,6 @@ const EXTRACTED_VOCABULARY = {
         "pos": "prep",
         "meaning": "ngoài ra, bên cạnh, (adv) hơn nữa, ngoài ra",
         "ipa": "/bɪˈsaɪdz/",
-        "format": "grade6",
-        "source": "g8_part_9",
-        "grade": 8,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "resident",
-        "pos": "n",
-        "meaning": "cư dân, người dân",
-        "ipa": "/ˈrezɪdənt/",
-        "format": "grade6",
-        "source": "g8_part_9",
-        "grade": 8,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "president",
-        "pos": "n",
-        "meaning": "tổng thống, chủ tịch",
-        "ipa": "/ˈprezɪdənt/",
         "format": "grade6",
         "source": "g8_part_9",
         "grade": 8,
@@ -52507,17 +49075,6 @@ const EXTRACTED_VOCABULARY = {
         "meaning": "chương trình đặc biệt /ˈspeʃl ˈprəʊɡræm/",
         "ipa": "",
         "format": "grade7-8-no-ipa",
-        "source": "g8_part_9",
-        "grade": 8,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "storm",
-        "pos": "n",
-        "meaning": "cơn bão",
-        "ipa": "/stɔːm/",
-        "format": "grade6",
         "source": "g8_part_9",
         "grade": 8,
         "unit": null,
@@ -53071,53 +49628,9 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "downtown",
-        "pos": "",
-        "meaning": "c. trung tâm của một thành phố, đặc biệt là khu vực kinh doanh chính",
-        "ipa": "",
-        "format": "grade9-escaped",
-        "source": "g9_part_1",
-        "grade": 9,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "concrete jungle",
         "pos": "",
         "meaning": "b. một thành phố hoặc một phần của thành phố với nhiều tòa nhà kế bên nhau",
-        "ipa": "",
-        "format": "grade9-escaped",
-        "source": "g9_part_1",
-        "grade": 9,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "sky train",
-        "pos": "",
-        "meaning": "e. một loại tàu chạy trên đường rây cao phía trên mặt đất",
-        "ipa": "",
-        "format": "grade9-escaped",
-        "source": "g9_part_1",
-        "grade": 9,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "metro",
-        "pos": "",
-        "meaning": "a. một hệ thống tàu điện ngầm dưới lòng đất",
-        "ipa": "",
-        "format": "grade9-escaped",
-        "source": "g9_part_1",
-        "grade": 9,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "public amenities",
-        "pos": "",
-        "meaning": "d. những thứ trong khu phố mà làm cho cuộc sống thoải mái hơn như là công viên và trung tâm thương mại",
         "ipa": "",
         "format": "grade9-escaped",
         "source": "g9_part_1",
@@ -53456,17 +49969,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "public amenity",
-        "pos": "",
-        "meaning": "tiện ích công cộng",
-        "ipa": "",
-        "format": "grade9-escaped",
-        "source": "g9_part_1",
-        "grade": 9,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "slow",
         "pos": "",
         "meaning": "chậm",
@@ -53526,17 +50028,6 @@ const EXTRACTED_VOCABULARY = {
         "pos": "adj",
         "meaning": "di động, xách tay được",
         "ipa": "/ˈpɔːtəbl/",
-        "format": "grade6",
-        "source": "g9_part_10",
-        "grade": 9,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "suggest",
-        "pos": "v",
-        "meaning": "đề nghị, gợi ý",
-        "ipa": "/səˈdʒest/",
         "format": "grade6",
         "source": "g9_part_10",
         "grade": 9,
@@ -54127,17 +50618,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "camcorder",
-        "pos": "n",
-        "meaning": "máy quay phim",
-        "ipa": "/ˈkæmkɔːdə/",
-        "format": "grade6",
-        "source": "g9_part_10",
-        "grade": 9,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "record",
         "pos": "v",
         "meaning": "ghi lại, thu âm",
@@ -54186,17 +50666,6 @@ const EXTRACTED_VOCABULARY = {
         "pos": "prep",
         "meaning": "thông qua, xuyên qua",
         "ipa": "/θruː/",
-        "format": "grade6",
-        "source": "g9_part_10",
-        "grade": 9,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "portable",
-        "pos": "adj",
-        "meaning": "có thể mang theo, di động",
-        "ipa": "/ˈpɔːtəbl/",
         "format": "grade6",
         "source": "g9_part_10",
         "grade": 9,
@@ -55293,28 +51762,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "rewarding",
-        "pos": "",
-        "meaning": "bổ ích, đáng công sức bỏ ra",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g9_part_11",
-        "grade": 9,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "career",
-        "pos": "",
-        "meaning": "sự nghiệp",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g9_part_11",
-        "grade": 9,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "such",
         "pos": "",
         "meaning": "quá … tới nỗi mà",
@@ -55876,17 +52323,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "well-balanced",
-        "pos": "adj",
-        "meaning": "cân bằng tốt",
-        "ipa": "/wɛl ˈbælənst/",
-        "format": "grade6",
-        "source": "g9_part_2",
-        "grade": 9,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "organize",
         "pos": "v",
         "meaning": "tổ chức",
@@ -56144,17 +52580,6 @@ const EXTRACTED_VOCABULARY = {
         "pos": "adv",
         "meaning": "đúng cách",
         "ipa": "/ˈprɒpəli/",
-        "format": "grade6",
-        "source": "g9_part_2",
-        "grade": 9,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "plan",
-        "pos": "v",
-        "meaning": "lập kế hoạch",
-        "ipa": "/plæn/",
         "format": "grade6",
         "source": "g9_part_2",
         "grade": 9,
@@ -56536,17 +52961,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "accomplish",
-        "pos": "",
-        "meaning": "hoàn thành /əˈkɒmplɪʃ/",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g9_part_2",
-        "grade": 9,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "daily routine",
         "pos": "",
         "meaning": "thói quen hàng ngày /ˈdeɪli ruːˈtiːn/",
@@ -56624,17 +53038,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "remember",
-        "pos": "",
-        "meaning": "nhớ /rɪˈmɛmbə/",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g9_part_2",
-        "grade": 9,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "Cần phải quyết định xem chúng ta nên ưu tiên việc nào",
         "pos": "",
         "meaning": "công việc hay học tập.",
@@ -56660,17 +53063,6 @@ const EXTRACTED_VOCABULARY = {
         "word": "electrician",
         "pos": "",
         "meaning": "thợ điện",
-        "ipa": "",
-        "format": "grade9-escaped",
-        "source": "g9_part_2",
-        "grade": 9,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "distract",
-        "pos": "",
-        "meaning": "đánh lạc hướng",
         "ipa": "",
         "format": "grade9-escaped",
         "source": "g9_part_2",
@@ -57537,17 +53929,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "support",
-        "pos": "v",
-        "meaning": "ủng hộ",
-        "ipa": "/səˈpɔːt/",
-        "format": "grade6",
-        "source": "g9_part_6",
-        "grade": 9,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "complex",
         "pos": "n",
         "meaning": "quần thể",
@@ -57691,17 +54072,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "reach",
-        "pos": "v",
-        "meaning": "đạt tới, với tới",
-        "ipa": "/riːtʃ/",
-        "format": "grade6",
-        "source": "g9_part_6",
-        "grade": 9,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "a range of many things",
         "pos": "",
         "meaning": "một loạt nhiều thứ /ə reɪndʒ əv ˈmeni θɪŋz/",
@@ -57729,72 +54099,6 @@ const EXTRACTED_VOCABULARY = {
         "meaning": "hoàn hảo",
         "ipa": "/ˈpɜːfɪkt/",
         "format": "grade6",
-        "source": "g9_part_6",
-        "grade": 9,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "permit",
-        "pos": "",
-        "meaning": "cho phép hoặc làm cho một cái gì đó có thể",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g9_part_6",
-        "grade": 9,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "paradise",
-        "pos": "",
-        "meaning": "một nơi cực kỳ đẹp và có vẻ hoàn hảo",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g9_part_6",
-        "grade": 9,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "annual",
-        "pos": "",
-        "meaning": "xảy ra mỗi năm một lần",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g9_part_6",
-        "grade": 9,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "diversity",
-        "pos": "",
-        "meaning": "một loạt nhiều thứ rất khác nhau",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g9_part_6",
-        "grade": 9,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "access",
-        "pos": "",
-        "meaning": "một cách đi vào hoặc tiếp cận một địa điểm",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g9_part_6",
-        "grade": 9,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "urgent",
-        "pos": "",
-        "meaning": "việc đó cần phải được thực hiện hoặc xảy ra ngay lập tức",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
         "source": "g9_part_6",
         "grade": 9,
         "unit": null,
@@ -57848,28 +54152,6 @@ const EXTRACTED_VOCABULARY = {
         "word": "located",
         "pos": "v-ed",
         "meaning": "nằm tại, đặt tại",
-        "ipa": "",
-        "format": "bullet-pos",
-        "source": "g9_part_6",
-        "grade": 9,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "hesitation",
-        "pos": "n",
-        "meaning": "sự do dự",
-        "ipa": "",
-        "format": "bullet-pos",
-        "source": "g9_part_6",
-        "grade": 9,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "urgent",
-        "pos": "adj",
-        "meaning": "cấp thiết",
         "ipa": "",
         "format": "bullet-pos",
         "source": "g9_part_6",
@@ -58175,42 +54457,9 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "charming",
-        "pos": "",
-        "meaning": "thu hút",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g9_part_6",
-        "grade": 9,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "located",
-        "pos": "",
-        "meaning": "tọa lạc",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g9_part_6",
-        "grade": 9,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "explorer",
         "pos": "",
         "meaning": "nhà thám hiểm",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g9_part_6",
-        "grade": 9,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "permission",
-        "pos": "",
-        "meaning": "giấy phép, quyền",
         "ipa": "",
         "format": "grade7-8-no-ipa",
         "source": "g9_part_6",
@@ -58296,17 +54545,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "especially",
-        "pos": "adv",
-        "meaning": "đặc biệt, nhất là",
-        "ipa": "/ɪˈspeʃəli/",
-        "format": "grade6",
-        "source": "g9_part_7",
-        "grade": 9,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "terraced fields",
         "pos": "",
         "meaning": "ruộng bậc thang /ˈterəst fiːldz/",
@@ -58367,28 +54605,6 @@ const EXTRACTED_VOCABULARY = {
         "meaning": "nội địa, trong nước; thuộc về gia đình",
         "ipa": "/dəˈmestɪk/",
         "format": "grade6",
-        "source": "g9_part_7",
-        "grade": 9,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "perfect",
-        "pos": "adj",
-        "meaning": "hoàn hảo, hoàn chỉnh; (v) hoàn thiện",
-        "ipa": "/ˈpɜːfɪkt/",
-        "format": "grade6",
-        "source": "g9_part_7",
-        "grade": 9,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "domestic",
-        "pos": "",
-        "meaning": "quốc nội \\- trong nước",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
         "source": "g9_part_7",
         "grade": 9,
         "unit": null,
@@ -58509,17 +54725,6 @@ const EXTRACTED_VOCABULARY = {
         "pos": "n",
         "meaning": "nhà ở trong chương trình du học",
         "ipa": "/ˈhəʊmsteɪ/",
-        "format": "grade6",
-        "source": "g9_part_7",
-        "grade": 9,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "plan",
-        "pos": "n",
-        "meaning": "kế hoạch",
-        "ipa": "/plæn/",
         "format": "grade6",
         "source": "g9_part_7",
         "grade": 9,
@@ -58857,17 +55062,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "possession",
-        "pos": "n",
-        "meaning": "sở hữu",
-        "ipa": "/pəˈzeʃn/",
-        "format": "grade6",
-        "source": "g9_part_7",
-        "grade": 9,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "pronoun",
         "pos": "n",
         "meaning": "đại từ",
@@ -59125,17 +55319,6 @@ const EXTRACTED_VOCABULARY = {
         "pos": "adj",
         "meaning": "gần đây, mới đây",
         "ipa": "/ˈriːsnt/",
-        "format": "grade6",
-        "source": "g9_part_7",
-        "grade": 9,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "schedule",
-        "pos": "n",
-        "meaning": "lịch trình, thời gian biểu",
-        "ipa": "/ˈʃedjuːl/",
         "format": "grade6",
         "source": "g9_part_7",
         "grade": 9,
@@ -59979,17 +56162,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "official language",
-        "pos": "",
-        "meaning": "ngôn ngữ chính thức /əˈfɪʃl ˈlæŋɡwɪdʒ/",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g9_part_8",
-        "grade": 9,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "establish \\- established \\- established",
         "pos": "v",
         "meaning": "thiết lập, thành lập",
@@ -60155,17 +56327,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "translate",
-        "pos": "",
-        "meaning": "dịch",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g9_part_8",
-        "grade": 9,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "pick up \\+ từ/kiến thức",
         "pos": "",
         "meaning": "học lóm được …",
@@ -60180,28 +56341,6 @@ const EXTRACTED_VOCABULARY = {
         "word": "be located \\+ in/at/on \\+ vị trí",
         "pos": "",
         "meaning": "tọa lạc ở vị trí …",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g9_part_8",
-        "grade": 9,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "magnificent",
-        "pos": "",
-        "meaning": "tráng lệ",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "g9_part_8",
-        "grade": 9,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "itinerary",
-        "pos": "",
-        "meaning": "lịch trình",
         "ipa": "",
         "format": "grade7-8-no-ipa",
         "source": "g9_part_8",
@@ -60342,17 +56481,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "look forward to \\+ Ving",
-        "pos": "v",
-        "meaning": "trông mong, mong đợi",
-        "ipa": "/lʊk ˈfɔːwəd tuː/",
-        "format": "grade6",
-        "source": "g9_part_9",
-        "grade": 9,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "the Solar System",
         "pos": "n",
         "meaning": "Hệ Mặt Trời",
@@ -60452,33 +56580,11 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "preserve",
-        "pos": "v",
-        "meaning": "bảo tồn, gìn giữ",
-        "ipa": "/prɪˈzɜːv/",
-        "format": "grade6",
-        "source": "g9_part_9",
-        "grade": 9,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "habitat",
         "pos": "n",
         "meaning": "môi trường sống, nơi cư trú",
         "ipa": "/ˈhæbɪtæt/",
         "format": "grade6",
-        "source": "g9_part_9",
-        "grade": 9,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "flora and fauna",
-        "pos": "",
-        "meaning": "hệ động thực vật /ˈflɔːrə ænd ˈfɔːnə/",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
         "source": "g9_part_9",
         "grade": 9,
         "unit": null,
@@ -60699,17 +56805,6 @@ const EXTRACTED_VOCABULARY = {
         "meaning": "bạn cảm thấy thế nào về việc \\+ Ving /haʊ duː juː fiːl əˈbaʊt/",
         "ipa": "",
         "format": "grade7-8-no-ipa",
-        "source": "g9_part_9",
-        "grade": 9,
-        "unit": null,
-        "lesson": null
-      },
-      {
-        "word": "North Pole",
-        "pos": "",
-        "meaning": "Cực Bắc",
-        "ipa": "",
-        "format": "grade9-escaped",
         "source": "g9_part_9",
         "grade": 9,
         "unit": null,
@@ -61750,17 +57845,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "**preference**",
-        "pos": "n",
-        "meaning": "sở thích, ưu tiên",
-        "ipa": "/ˈprefərəns/",
-        "format": "grade6",
-        "source": "review-2",
-        "grade": 9,
-        "unit": null,
-        "lesson": null
-      },
-      {
         "word": "**without delay**",
         "pos": "prep phr",
         "meaning": "không chậm trễ",
@@ -61882,39 +57966,6 @@ const EXTRACTED_VOCABULARY = {
         "word": "A",
         "pos": "",
         "meaning": "_______________________________? (Ha Noi/spring)",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "unit16_worksheet",
-        "grade": null,
-        "unit": 16,
-        "lesson": null
-      },
-      {
-        "word": "A",
-        "pos": "",
-        "meaning": "_______________________________? (winter)",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "unit16_worksheet",
-        "grade": null,
-        "unit": 16,
-        "lesson": null
-      },
-      {
-        "word": "A",
-        "pos": "",
-        "meaning": "How's the weather in Sydney in summer?",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "unit16_worksheet",
-        "grade": null,
-        "unit": 16,
-        "lesson": null
-      },
-      {
-        "word": "A",
-        "pos": "",
-        "meaning": "What do you usually wear in autumn?",
         "ipa": "",
         "format": "grade7-8-no-ipa",
         "source": "unit16_worksheet",
@@ -62804,17 +58855,6 @@ const EXTRACTED_VOCABULARY = {
         "pos": "adj",
         "meaning": "quý giá",
         "ipa": "/ˈvæljʊəbl/",
-        "format": "grade6",
-        "source": "unit-01",
-        "grade": null,
-        "unit": 1,
-        "lesson": null
-      },
-      {
-        "word": "**lesson**",
-        "pos": "n",
-        "meaning": "bài học",
-        "ipa": "/ˈlesn/",
         "format": "grade6",
         "source": "unit-01",
         "grade": null,
@@ -63933,17 +59973,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "**interview**",
-        "pos": "v",
-        "meaning": "phỏng vấn",
-        "ipa": "/ˈɪntəvjuː/",
-        "format": "grade6",
-        "source": "unit-01",
-        "grade": null,
-        "unit": 1,
-        "lesson": null
-      },
-      {
         "word": "suburb",
         "pos": "",
         "meaning": "(n) ngoại ô /ˈsʌbɜːb/",
@@ -64266,50 +60295,6 @@ const EXTRACTED_VOCABULARY = {
         "word": "look around",
         "pos": "",
         "meaning": "(phr.v) nhìn xung quanh /lʊk əˈraʊnd/",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "unit-01",
-        "grade": null,
-        "unit": 1,
-        "lesson": null
-      },
-      {
-        "word": "hand down",
-        "pos": "",
-        "meaning": "truyền lại (từ thế hệ này sang thế hệ khác)",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "unit-01",
-        "grade": null,
-        "unit": 1,
-        "lesson": null
-      },
-      {
-        "word": "come back",
-        "pos": "",
-        "meaning": "trở lại",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "unit-01",
-        "grade": null,
-        "unit": 1,
-        "lesson": null
-      },
-      {
-        "word": "find out",
-        "pos": "",
-        "meaning": "tìm ra, khám phá",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "unit-01",
-        "grade": null,
-        "unit": 1,
-        "lesson": null
-      },
-      {
-        "word": "look around",
-        "pos": "",
-        "meaning": "nhìn xung quanh",
         "ipa": "",
         "format": "grade11-summary",
         "source": "unit-01",
@@ -64835,28 +60820,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "**friend**",
-        "pos": "n",
-        "meaning": "bạn",
-        "ipa": "/frend/",
-        "format": "grade6",
-        "source": "unit-1",
-        "grade": null,
-        "unit": 1,
-        "lesson": null
-      },
-      {
-        "word": "**nice**",
-        "pos": "adj",
-        "meaning": "tốt",
-        "ipa": "/naɪs/",
-        "format": "grade6",
-        "source": "unit-1",
-        "grade": null,
-        "unit": 1,
-        "lesson": null
-      },
-      {
         "word": "**to**",
         "pos": "prep",
         "meaning": "đến, để",
@@ -64949,17 +60912,6 @@ const EXTRACTED_VOCABULARY = {
         "pos": "adj",
         "meaning": "giống nhau",
         "ipa": "/seɪm/",
-        "format": "grade6",
-        "source": "unit-1",
-        "grade": null,
-        "unit": 1,
-        "lesson": null
-      },
-      {
-        "word": "**school**",
-        "pos": "n",
-        "meaning": "trường",
-        "ipa": "/skuːl/",
         "format": "grade6",
         "source": "unit-1",
         "grade": null,
@@ -66255,17 +62207,6 @@ const EXTRACTED_VOCABULARY = {
         "pos": "v",
         "meaning": "giữ",
         "ipa": "/kiːp/",
-        "format": "grade6",
-        "source": "unit-02",
-        "grade": null,
-        "unit": 2,
-        "lesson": null
-      },
-      {
-        "word": "**fit**",
-        "pos": "adj",
-        "meaning": "cân đối",
-        "ipa": "/fɪt/",
         "format": "grade6",
         "source": "unit-02",
         "grade": null,
@@ -67857,17 +63798,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "surrounded",
-        "pos": "",
-        "meaning": "(adj) được bao quanh /səˈraʊndɪd/",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "unit-02",
-        "grade": null,
-        "unit": 2,
-        "lesson": null
-      },
-      {
         "word": "canal",
         "pos": "",
         "meaning": "(n) kênh /kəˈnæl/",
@@ -68374,17 +64304,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "stretch",
-        "pos": "",
-        "meaning": "(v) kéo dài /stretʃ/",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "unit-02",
-        "grade": null,
-        "unit": 2,
-        "lesson": null
-      },
-      {
         "word": "worker",
         "pos": "",
         "meaning": "(n) công nhân /ˈwɜːkə/",
@@ -68451,218 +64370,9 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "bamboo dancing",
-        "pos": "",
-        "meaning": "múa sạp /ˈbæmbuː ˈdɑːnsɪŋ/",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "unit-02",
-        "grade": null,
-        "unit": 2,
-        "lesson": null
-      },
-      {
-        "word": "canal",
-        "pos": "",
-        "meaning": "kênh /kəˈnæl/",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "unit-02",
-        "grade": null,
-        "unit": 2,
-        "lesson": null
-      },
-      {
-        "word": "cattle",
-        "pos": "",
-        "meaning": "gia súc /ˈkætl/",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "unit-02",
-        "grade": null,
-        "unit": 2,
-        "lesson": null
-      },
-      {
-        "word": "combine harvester",
-        "pos": "",
-        "meaning": "máy gặt đập liên hợp /ˈkɒmbaɪn ˈhɑːvɪstər/",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "unit-02",
-        "grade": null,
-        "unit": 2,
-        "lesson": null
-      },
-      {
-        "word": "countryside",
-        "pos": "",
-        "meaning": "nông thôn /ˈkʌntrisaɪd/",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "unit-02",
-        "grade": null,
-        "unit": 2,
-        "lesson": null
-      },
-      {
-        "word": "crops",
-        "pos": "",
-        "meaning": "nông sản /krɒps/",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "unit-02",
-        "grade": null,
-        "unit": 2,
-        "lesson": null
-      },
-      {
-        "word": "cultivate",
-        "pos": "",
-        "meaning": "trồng trọt /ˈkʌltɪveɪt/",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "unit-02",
-        "grade": null,
-        "unit": 2,
-        "lesson": null
-      },
-      {
-        "word": "harvest time",
-        "pos": "",
-        "meaning": "mùa gặt /ˈhɑːvɪst taɪm/",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "unit-02",
-        "grade": null,
-        "unit": 2,
-        "lesson": null
-      },
-      {
-        "word": "herd",
-        "pos": "",
-        "meaning": "chăn /hɜːd/",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "unit-02",
-        "grade": null,
-        "unit": 2,
-        "lesson": null
-      },
-      {
-        "word": "hospitable",
-        "pos": "",
-        "meaning": "hiếu khách /ˈhɒspɪtəbl/",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "unit-02",
-        "grade": null,
-        "unit": 2,
-        "lesson": null
-      },
-      {
-        "word": "load",
-        "pos": "",
-        "meaning": "chất /ləʊd/",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "unit-02",
-        "grade": null,
-        "unit": 2,
-        "lesson": null
-      },
-      {
-        "word": "orchard",
-        "pos": "",
-        "meaning": "vườn cây ăn quả /ˈɔːtʃəd/",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "unit-02",
-        "grade": null,
-        "unit": 2,
-        "lesson": null
-      },
-      {
         "word": "paddy field",
         "pos": "",
         "meaning": "cánh đồng lúa /ˈpædi fiːld/",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "unit-02",
-        "grade": null,
-        "unit": 2,
-        "lesson": null
-      },
-      {
-        "word": "peaceful",
-        "pos": "",
-        "meaning": "yên bình /ˈpiːsfl/",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "unit-02",
-        "grade": null,
-        "unit": 2,
-        "lesson": null
-      },
-      {
-        "word": "picturesque",
-        "pos": "",
-        "meaning": "đẹp như tranh /ˌpɪktʃəˈresk/",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "unit-02",
-        "grade": null,
-        "unit": 2,
-        "lesson": null
-      },
-      {
-        "word": "poultry",
-        "pos": "",
-        "meaning": "gia cầm /ˈpəʊltri/",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "unit-02",
-        "grade": null,
-        "unit": 2,
-        "lesson": null
-      },
-      {
-        "word": "surrounded",
-        "pos": "",
-        "meaning": "bao quanh /səˈraʊndɪd/",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "unit-02",
-        "grade": null,
-        "unit": 2,
-        "lesson": null
-      },
-      {
-        "word": "unload",
-        "pos": "",
-        "meaning": "dỡ /ʌnˈləʊd/",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "unit-02",
-        "grade": null,
-        "unit": 2,
-        "lesson": null
-      },
-      {
-        "word": "vast",
-        "pos": "",
-        "meaning": "rộng lớn /vɑːst/",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "unit-02",
-        "grade": null,
-        "unit": 2,
-        "lesson": null
-      },
-      {
-        "word": "well-trained",
-        "pos": "",
-        "meaning": "được đào tạo tốt /wel treɪnd/",
         "ipa": "",
         "format": "grade11-summary",
         "source": "unit-02",
@@ -68949,28 +64659,6 @@ const EXTRACTED_VOCABULARY = {
         "word": "_________",
         "pos": "",
         "meaning": "Central School",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "unit-02-skills1",
-        "grade": null,
-        "unit": 2,
-        "lesson": "skills"
-      },
-      {
-        "word": "_________",
-        "pos": "",
-        "meaning": "Bookworm Team",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "unit-02-skills1",
-        "grade": null,
-        "unit": 2,
-        "lesson": "skills"
-      },
-      {
-        "word": "_________",
-        "pos": "",
-        "meaning": "Helena Wilson",
         "ipa": "",
         "format": "grade7-8-no-ipa",
         "source": "unit-02-skills1",
@@ -69378,61 +65066,6 @@ const EXTRACTED_VOCABULARY = {
         "word": "cut down on",
         "pos": "",
         "meaning": "(phr v) cắt giảm /kʌt daʊn ɒn/",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "unit-02",
-        "grade": null,
-        "unit": 2,
-        "lesson": null
-      },
-      {
-        "word": "carry out",
-        "pos": "",
-        "meaning": "thực hiện (carry out a project)",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "unit-02",
-        "grade": null,
-        "unit": 2,
-        "lesson": null
-      },
-      {
-        "word": "get around",
-        "pos": "",
-        "meaning": "đi lại (get around the city)",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "unit-02",
-        "grade": null,
-        "unit": 2,
-        "lesson": null
-      },
-      {
-        "word": "come down with",
-        "pos": "",
-        "meaning": "mắc bệnh (come down with the flu)",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "unit-02",
-        "grade": null,
-        "unit": 2,
-        "lesson": null
-      },
-      {
-        "word": "hang out",
-        "pos": "",
-        "meaning": "đi chơi (hang out with friends)",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "unit-02",
-        "grade": null,
-        "unit": 2,
-        "lesson": null
-      },
-      {
-        "word": "cut down on",
-        "pos": "",
-        "meaning": "cắt giảm (cut down on noise pollution)",
         "ipa": "",
         "format": "grade11-summary",
         "source": "unit-02",
@@ -70090,53 +65723,9 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "Vị trí lưỡi",
-        "pos": "",
-        "meaning": "Giống như âm /s/ - đầu lưỡi gần chạm vào lợi trên",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "unit-2",
-        "grade": null,
-        "unit": 2,
-        "lesson": null
-      },
-      {
-        "word": "Luồng hơi",
-        "pos": "",
-        "meaning": "Thổi hơi nhẹ hơn âm /s/",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "unit-2",
-        "grade": null,
-        "unit": 2,
-        "lesson": null
-      },
-      {
-        "word": "Dây thanh",
-        "pos": "",
-        "meaning": "Có rung (âm hữu thanh)",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "unit-2",
-        "grade": null,
-        "unit": 2,
-        "lesson": null
-      },
-      {
         "word": "Khi nào phát âm /z/",
         "pos": "",
         "meaning": "Sau nguyên âm và phụ âm hữu thanh (b, d, g, l, m, n, r, v)",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "unit-2",
-        "grade": null,
-        "unit": 2,
-        "lesson": null
-      },
-      {
-        "word": "Ví dụ",
-        "pos": "",
-        "meaning": "rooms, cupboards, sofas",
         "ipa": "",
         "format": "grade11-summary",
         "source": "unit-2",
@@ -70739,17 +66328,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "**desk**",
-        "pos": "n",
-        "meaning": "bàn",
-        "ipa": "/desk/",
-        "format": "grade6",
-        "source": "unit-2",
-        "grade": null,
-        "unit": 2,
-        "lesson": null
-      },
-      {
         "word": "**great**",
         "pos": "adj",
         "meaning": "tuyệt vời",
@@ -70897,17 +66475,6 @@ const EXTRACTED_VOCABULARY = {
         "pos": "n",
         "meaning": "câu chuyện",
         "ipa": "/ˈstɔːri/",
-        "format": "grade6",
-        "source": "unit-2",
-        "grade": null,
-        "unit": 2,
-        "lesson": null
-      },
-      {
-        "word": "**bookshelf**",
-        "pos": "n",
-        "meaning": "giá",
-        "ipa": "/kệ sách/",
         "format": "grade6",
         "source": "unit-2",
         "grade": null,
@@ -72234,17 +67801,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "benefit",
-        "pos": "",
-        "meaning": "(v) hưởng lợi /ˈbenɪfɪt/",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "unit-03",
-        "grade": null,
-        "unit": 3,
-        "lesson": null
-      },
-      {
         "word": "pick up paper and bottles",
         "pos": "",
         "meaning": "(v) nhặt giấy và chai lọ /pɪk ʌp ˈpeɪpə ənd ˈbɒtlz/",
@@ -73269,18 +68825,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "bully",
-        "pos": "n",
-        "meaning": "kẻ hay bắt nạt người khác",
-        "ipa": "",
-        "format": "bullet-pos",
-        "example": "connect (v): kết nối",
-        "source": "unit-03",
-        "grade": null,
-        "unit": 3,
-        "lesson": null
-      },
-      {
         "word": "tip",
         "pos": "",
         "meaning": "(n) mẹo /tɪp/",
@@ -73295,17 +68839,6 @@ const EXTRACTED_VOCABULARY = {
         "word": "mental",
         "pos": "",
         "meaning": "(adj) tinh thần /ˈmentəl/",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "unit-03",
-        "grade": null,
-        "unit": 3,
-        "lesson": null
-      },
-      {
-        "word": "health",
-        "pos": "",
-        "meaning": "(n) sức khỏe /helθ/",
         "ipa": "",
         "format": "grade11-summary",
         "source": "unit-03",
@@ -73952,17 +69485,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "plan",
-        "pos": "",
-        "meaning": "(v) lập kế hoạch /plæn/",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "unit-03",
-        "grade": null,
-        "unit": 3,
-        "lesson": null
-      },
-      {
         "word": "weekly",
         "pos": "",
         "meaning": "(adj) hàng tuần /ˈwiːkli/",
@@ -74098,17 +69620,6 @@ const EXTRACTED_VOCABULARY = {
         "word": "calendar",
         "pos": "",
         "meaning": "(n) lịch /ˈkælɪndər/",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "unit-03",
-        "grade": null,
-        "unit": 3,
-        "lesson": null
-      },
-      {
-        "word": "plan",
-        "pos": "",
-        "meaning": "(v) lên kế hoạch /plæn/",
         "ipa": "",
         "format": "grade11-summary",
         "source": "unit-03",
@@ -74274,17 +69785,6 @@ const EXTRACTED_VOCABULARY = {
         "word": "plan ahead",
         "pos": "",
         "meaning": "lên kế hoạch trước /plæn əˈhed/",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "unit-03",
-        "grade": null,
-        "unit": 3,
-        "lesson": null
-      },
-      {
-        "word": "remember",
-        "pos": "",
-        "meaning": "nhớ /rɪˈmembər/",
         "ipa": "",
         "format": "grade11-summary",
         "source": "unit-03",
@@ -75578,61 +71078,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "A",
-        "pos": "",
-        "meaning": "_________ do you like best about Sa Pa?",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "unit-04",
-        "grade": null,
-        "unit": 4,
-        "lesson": null
-      },
-      {
-        "word": "A",
-        "pos": "",
-        "meaning": "_________ can we find the most beautiful terraced fields?",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "unit-04",
-        "grade": null,
-        "unit": 4,
-        "lesson": null
-      },
-      {
-        "word": "A",
-        "pos": "",
-        "meaning": "_________ is the Ban Flower Festival?",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "unit-04",
-        "grade": null,
-        "unit": 4,
-        "lesson": null
-      },
-      {
-        "word": "A",
-        "pos": "",
-        "meaning": "_________ tall is an average stilt house?",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "unit-04",
-        "grade": null,
-        "unit": 4,
-        "lesson": null
-      },
-      {
-        "word": "A",
-        "pos": "",
-        "meaning": "_________ festival is more important for the Kinh: the Mid-Autumn or the Lunar New Year?",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "unit-04",
-        "grade": null,
-        "unit": 4,
-        "lesson": null
-      },
-      {
         "word": "population",
         "pos": "",
         "meaning": "(n) dân số /ˌpɒpjuˈleɪʃn/",
@@ -75911,17 +71356,6 @@ const EXTRACTED_VOCABULARY = {
         "word": "style",
         "pos": "",
         "meaning": "(n) kiểu dáng /staɪl/",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "unit-04",
-        "grade": null,
-        "unit": 4,
-        "lesson": null
-      },
-      {
-        "word": "culture",
-        "pos": "",
-        "meaning": "(n) văn hóa /ˈkʌltʃə/",
         "ipa": "",
         "format": "grade11-summary",
         "source": "unit-04",
@@ -76340,83 +71774,6 @@ const EXTRACTED_VOCABULARY = {
         "word": "learn new things",
         "pos": "",
         "meaning": "(v) học những điều mới /lɜːn njuː θɪŋz/",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "unit-04",
-        "grade": null,
-        "unit": 4,
-        "lesson": null
-      },
-      {
-        "word": "ethnic group",
-        "pos": "",
-        "meaning": "(n) dân tộc, nhóm dân tộc /ˈeθnɪk ɡruːp/",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "unit-04",
-        "grade": null,
-        "unit": 4,
-        "lesson": null
-      },
-      {
-        "word": "folk dance",
-        "pos": "",
-        "meaning": "(n) múa dân gian /fəʊk dæns/",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "unit-04",
-        "grade": null,
-        "unit": 4,
-        "lesson": null
-      },
-      {
-        "word": "weaving",
-        "pos": "",
-        "meaning": "(n) việc dệt vải /ˈwiːvɪŋ/",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "unit-04",
-        "grade": null,
-        "unit": 4,
-        "lesson": null
-      },
-      {
-        "word": "gong",
-        "pos": "",
-        "meaning": "(n) cồng chiêng /ɡɒŋ/",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "unit-04",
-        "grade": null,
-        "unit": 4,
-        "lesson": null
-      },
-      {
-        "word": "bamboo flute",
-        "pos": "",
-        "meaning": "(n) sáo trúc /ˌbæmˈbuː fluːt/",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "unit-04",
-        "grade": null,
-        "unit": 4,
-        "lesson": null
-      },
-      {
-        "word": "wooden statue",
-        "pos": "",
-        "meaning": "(n) tượng gỗ /ˈwʊdən ˈstætʃuː/",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "unit-04",
-        "grade": null,
-        "unit": 4,
-        "lesson": null
-      },
-      {
-        "word": "raise",
-        "pos": "",
-        "meaning": "(v) chăn nuôi /reɪz/",
         "ipa": "",
         "format": "grade11-summary",
         "source": "unit-04",
@@ -77140,17 +72497,6 @@ const EXTRACTED_VOCABULARY = {
         "word": "Examples",
         "pos": "Ví dụ",
         "meaning": "hot, lot, not, fond, doctor",
-        "ipa": "",
-        "format": "bullet-pos",
-        "source": "unit-05",
-        "grade": null,
-        "unit": 5,
-        "lesson": null
-      },
-      {
-        "word": "Examples",
-        "pos": "Ví dụ",
-        "meaning": "short, call, water, sauce, pork, fork",
         "ipa": "",
         "format": "bullet-pos",
         "source": "unit-05",
@@ -79410,17 +74756,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "brilliant",
-        "pos": "",
-        "meaning": "(adj) xuất sắc /ˈbrɪliənt/",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "unit-05",
-        "grade": null,
-        "unit": 5,
-        "lesson": null
-      },
-      {
         "word": "instructor",
         "pos": "",
         "meaning": "(n) người hướng dẫn /ɪnˈstrʌktər/",
@@ -79435,17 +74770,6 @@ const EXTRACTED_VOCABULARY = {
         "word": "snorkel",
         "pos": "",
         "meaning": "(n) ống thở /ˈsnɔːkəl/",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "unit-05",
-        "grade": null,
-        "unit": 5,
-        "lesson": null
-      },
-      {
-        "word": "exhilarating",
-        "pos": "",
-        "meaning": "(adj) phấn khích /ɪɡˈzɪləreɪtɪŋ/",
         "ipa": "",
         "format": "grade11-summary",
         "source": "unit-05",
@@ -79479,17 +74803,6 @@ const EXTRACTED_VOCABULARY = {
         "word": "A",
         "pos": "",
         "meaning": "I'm really sorry to hear that you hurt your back. How did it happen?",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "unit-05",
-        "grade": null,
-        "unit": 5,
-        "lesson": null
-      },
-      {
-        "word": "A",
-        "pos": "",
-        "meaning": "I heard you felt airsick on your flight. How was it?",
         "ipa": "",
         "format": "grade7-8-no-ipa",
         "source": "unit-05",
@@ -79586,17 +74899,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "unforgettable",
-        "pos": "",
-        "meaning": "(adj) không thể quên được /ˌʌnfəˈɡetəbl/",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "unit-05",
-        "grade": null,
-        "unit": 5,
-        "lesson": null
-      },
-      {
         "word": "campus",
         "pos": "",
         "meaning": "(n) khuôn viên /ˈkæmpəs/",
@@ -79611,17 +74913,6 @@ const EXTRACTED_VOCABULARY = {
         "word": "outskirts",
         "pos": "",
         "meaning": "(n) vùng ngoại ô /ˈaʊtskɜːts/",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "unit-05",
-        "grade": null,
-        "unit": 5,
-        "lesson": null
-      },
-      {
-        "word": "experience",
-        "pos": "",
-        "meaning": "(n) trải nghiệm /ɪkˈspɪəriəns/",
         "ipa": "",
         "format": "grade11-summary",
         "source": "unit-05",
@@ -80235,17 +75526,6 @@ const EXTRACTED_VOCABULARY = {
         "word": "in",
         "pos": "",
         "meaning": "(prep) trong, vào /ɪn/",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "unit-06",
-        "grade": null,
-        "unit": 6,
-        "lesson": null
-      },
-      {
-        "word": "on",
-        "pos": "",
-        "meaning": "(prep) trên, vào (ngày) /ɒn/",
         "ipa": "",
         "format": "grade11-summary",
         "source": "unit-06",
@@ -80903,17 +76183,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "well-known",
-        "pos": "",
-        "meaning": "(adj) nổi tiếng /ˌwelˈnəʊn/",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "unit-06",
-        "grade": null,
-        "unit": 6,
-        "lesson": null
-      },
-      {
         "word": "pizza",
         "pos": "",
         "meaning": "(n) bánh pizza /ˈpiːt.sə/",
@@ -81272,18 +76541,6 @@ const EXTRACTED_VOCABULARY = {
         "ipa": "",
         "format": "bullet-pos",
         "example": "lifestyle (n): lối sống",
-        "source": "unit-06",
-        "grade": null,
-        "unit": 6,
-        "lesson": null
-      },
-      {
-        "word": "lifestyle",
-        "pos": "n",
-        "meaning": "lối sống",
-        "ipa": "",
-        "format": "bullet-pos",
-        "example": "online lessons (n): tiết học trực tuyến",
         "source": "unit-06",
         "grade": null,
         "unit": 6,
@@ -82631,17 +77888,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "**endangered species**",
-        "pos": "",
-        "meaning": "loài có nguy cơ tuyệt chủng /ɪnˈdeɪndʒəd ˈspiːʃiːz/",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "unit-07",
-        "grade": null,
-        "unit": 7,
-        "lesson": null
-      },
-      {
         "word": "**environmental**",
         "pos": "adj",
         "meaning": "liên quan tới môi trường",
@@ -82818,17 +78064,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "**carbon dioxide**",
-        "pos": "",
-        "meaning": "khí cacbonic /ˈkɑːbən daɪˈɒksaɪd/",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "unit-07",
-        "grade": null,
-        "unit": 7,
-        "lesson": null
-      },
-      {
         "word": "**neighbourhood**",
         "pos": "n",
         "meaning": "khu phố, hàng xóm",
@@ -82867,17 +78102,6 @@ const EXTRACTED_VOCABULARY = {
         "meaning": "cung cấp A cho B /prəˈvaɪd ... wɪð/",
         "ipa": "",
         "format": "grade7-8-no-ipa",
-        "source": "unit-07",
-        "grade": null,
-        "unit": 7,
-        "lesson": null
-      },
-      {
-        "word": "**release**",
-        "pos": "v",
-        "meaning": "thả ra, phóng thích",
-        "ipa": "/rɪˈliːs/",
-        "format": "grade6",
         "source": "unit-07",
         "grade": null,
         "unit": 7,
@@ -83336,17 +78560,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "**substance**",
-        "pos": "n",
-        "meaning": "chất",
-        "ipa": "/ˈsʌbstəns/",
-        "format": "grade6",
-        "source": "unit-07",
-        "grade": null,
-        "unit": 7,
-        "lesson": null
-      },
-      {
         "word": "**man-made**",
         "pos": "adj",
         "meaning": "nhân tạo",
@@ -83391,17 +78604,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "**harmful**",
-        "pos": "adj",
-        "meaning": "có hại",
-        "ipa": "/ˈhɑːmfl/",
-        "format": "grade6",
-        "source": "unit-07",
-        "grade": null,
-        "unit": 7,
-        "lesson": null
-      },
-      {
         "word": "**effect**",
         "pos": "n",
         "meaning": "ảnh hưởng",
@@ -83428,17 +78630,6 @@ const EXTRACTED_VOCABULARY = {
         "pos": "v",
         "meaning": "xử lý",
         "ipa": "/triːt/",
-        "format": "grade6",
-        "source": "unit-07",
-        "grade": null,
-        "unit": 7,
-        "lesson": null
-      },
-      {
-        "word": "**litter**",
-        "pos": "v",
-        "meaning": "xả rác",
-        "ipa": "/ˈlɪtər/",
         "format": "grade6",
         "source": "unit-07",
         "grade": null,
@@ -83949,28 +79140,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "director",
-        "pos": "",
-        "meaning": "(n) đạo diễn /dəˈrektə/",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "unit-08",
-        "grade": null,
-        "unit": 8,
-        "lesson": null
-      },
-      {
-        "word": "star",
-        "pos": "",
-        "meaning": "(v) đóng chính /stɑː/",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "unit-08",
-        "grade": null,
-        "unit": 8,
-        "lesson": null
-      },
-      {
         "word": "well-known",
         "pos": "",
         "meaning": "(adj) nổi tiếng /ˌwel ˈnəʊn/",
@@ -84007,17 +79176,6 @@ const EXTRACTED_VOCABULARY = {
         "word": "marriage",
         "pos": "",
         "meaning": "(n) hôn nhân /ˈmærɪdʒ/",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "unit-08",
-        "grade": null,
-        "unit": 8,
-        "lesson": null
-      },
-      {
-        "word": "receive good reviews",
-        "pos": "",
-        "meaning": "nhận được đánh giá tốt /rɪˌsiːv gʊd rɪˈvjuːz/",
         "ipa": "",
         "format": "grade11-summary",
         "source": "unit-08",
@@ -84412,33 +79570,11 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "**open-air market**",
-        "pos": "",
-        "meaning": "chợ ngoài trời /ˌəʊpən ˈeə(r) ˈmɑːkɪt/",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "unit-08",
-        "grade": null,
-        "unit": 8,
-        "lesson": null
-      },
-      {
         "word": "**wide range of goods**",
         "pos": "",
         "meaning": "phạm vi rộng các mặt hàng /waɪd reɪndʒ əv ɡʊdz/",
         "ipa": "",
         "format": "grade7-8-no-ipa",
-        "source": "unit-08",
-        "grade": null,
-        "unit": 8,
-        "lesson": null
-      },
-      {
-        "word": "**bargain**",
-        "pos": "n",
-        "meaning": "món hời, giá hời",
-        "ipa": "/ˈbɑːɡɪn/",
-        "format": "grade6",
         "source": "unit-08",
         "grade": null,
         "unit": 8,
@@ -84583,17 +79719,6 @@ const EXTRACTED_VOCABULARY = {
         "word": "A",
         "pos": "",
         "meaning": "I'm calling to make a complaint about the can of fish I bought at the shop. It expired five days ago.",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "unit-08",
-        "grade": null,
-        "unit": 8,
-        "lesson": null
-      },
-      {
-        "word": "A",
-        "pos": "",
-        "meaning": "I'm calling to make a complaint about an assistant at the shop. She/He was not very helpful.",
         "ipa": "",
         "format": "grade7-8-no-ipa",
         "source": "unit-08",
@@ -85491,17 +80616,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "feast",
-        "pos": "",
-        "meaning": "(n) bữa tiệc /fiːst/",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "unit-09",
-        "grade": null,
-        "unit": 9,
-        "lesson": null
-      },
-      {
         "word": "preparation",
         "pos": "",
         "meaning": "(n) sự chuẩn bị /ˌprepəˈreɪʃən/",
@@ -85899,17 +81013,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "damage",
-        "pos": "",
-        "meaning": "(n) thiệt hại; (v) gây thiệt hại /ˈdæmɪdʒ/",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "unit-09",
-        "grade": null,
-        "unit": 9,
-        "lesson": null
-      },
-      {
         "word": "emergency kit",
         "pos": "",
         "meaning": "(n) bộ dụng cụ khẩn cấp /ɪˈmɜːdʒənsi kɪt/",
@@ -86056,17 +81159,6 @@ const EXTRACTED_VOCABULARY = {
         "word": "**A",
         "pos": "",
         "meaning": "** I have a friend who lives in a mountainous area. A landslide destroyed his family's garden yesterday.",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "unit-09",
-        "grade": null,
-        "unit": 9,
-        "lesson": null
-      },
-      {
-        "word": "**A",
-        "pos": "",
-        "meaning": "** Did you hear? A big earthquake hit a city.",
         "ipa": "",
         "format": "grade7-8-no-ipa",
         "source": "unit-09",
@@ -86789,28 +81881,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "available",
-        "pos": "",
-        "meaning": "(adj) sẵn có, có sẵn /əˈveɪləbl/",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "unit-10",
-        "grade": null,
-        "unit": 10,
-        "lesson": null
-      },
-      {
-        "word": "expensive",
-        "pos": "",
-        "meaning": "(adj) đắt tiền /ɪkˈspensɪv/",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "unit-10",
-        "grade": null,
-        "unit": 10,
-        "lesson": null
-      },
-      {
         "word": "rely on",
         "pos": "",
         "meaning": "(v) phụ thuộc vào, dựa vào /rɪˈlaɪ ɒn/",
@@ -87277,31 +82347,9 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "replace",
-        "pos": "",
-        "meaning": "(v) thay thế, thay đổi /rɪˈpleɪs/",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "unit-10",
-        "grade": null,
-        "unit": 10,
-        "lesson": null
-      },
-      {
         "word": "to a certain extent",
         "pos": "",
         "meaning": "(phr) đến một mức độ nhất định /tə ə ˈsɜːtn ɪkˈstent/",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "unit-10",
-        "grade": null,
-        "unit": 10,
-        "lesson": null
-      },
-      {
-        "word": "language barrier",
-        "pos": "",
-        "meaning": "(n phr) rào cản ngôn ngữ /ˈlæŋɡwɪdʒ ˌbæriə/",
         "ipa": "",
         "format": "grade11-summary",
         "source": "unit-10",
@@ -87654,17 +82702,6 @@ const EXTRACTED_VOCABULARY = {
         "word": "B - Sửa lại",
         "pos": "",
         "meaning": "are going to be",
-        "ipa": "",
-        "format": "grade7-8-no-ipa",
-        "source": "unit-10",
-        "grade": null,
-        "unit": 10,
-        "lesson": null
-      },
-      {
-        "word": "D - Sửa lại",
-        "pos": "",
-        "meaning": "30 years' time",
         "ipa": "",
         "format": "grade7-8-no-ipa",
         "source": "unit-10",
@@ -88330,28 +83367,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "travel",
-        "pos": "",
-        "meaning": "(v) đi, di chuyển /ˈtrævl/",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "unit-11",
-        "grade": null,
-        "unit": 11,
-        "lesson": null
-      },
-      {
-        "word": "battery",
-        "pos": "",
-        "meaning": "(n) pin /ˈbætri/",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "unit-11",
-        "grade": null,
-        "unit": 11,
-        "lesson": null
-      },
-      {
         "word": "economical",
         "pos": "",
         "meaning": "(adj) tiết kiệm /ˌiːkəˈnɒmɪkl/",
@@ -88432,17 +83447,6 @@ const EXTRACTED_VOCABULARY = {
         "word": "comfortable",
         "pos": "",
         "meaning": "(adj) thoải mái /ˈkʌmfətəbl/",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "unit-11",
-        "grade": null,
-        "unit": 11,
-        "lesson": null
-      },
-      {
-        "word": "economical",
-        "pos": "",
-        "meaning": "(adj) tiết kiệm, kinh tế /ˌiːkəˈnɒmɪkl/",
         "ipa": "",
         "format": "grade11-summary",
         "source": "unit-11",
@@ -88938,17 +83942,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "**great news for us**",
-        "pos": "phrase",
-        "meaning": "tin tuyệt vời cho chúng ta",
-        "ipa": "/ɡreɪt njuːz fɔː(r) ʌs/",
-        "format": "grade6",
-        "source": "unit-11",
-        "grade": null,
-        "unit": 11,
-        "lesson": null
-      },
-      {
         "word": "**great**",
         "pos": "adj",
         "meaning": "tuyệt vời, to lớn, vĩ đại",
@@ -89026,17 +84019,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "**breakout room**",
-        "pos": "n",
-        "meaning": "phòng họp nhỏ (trong cuộc họp trực tuyến)",
-        "ipa": "/ˈbreɪkaʊt ruːm/",
-        "format": "grade6",
-        "source": "unit-11",
-        "grade": null,
-        "unit": 11,
-        "lesson": null
-      },
-      {
         "word": "**avoid**",
         "pos": "v",
         "meaning": "tránh, tránh né",
@@ -89075,28 +84057,6 @@ const EXTRACTED_VOCABULARY = {
         "meaning": "screen sharing, room breaking...)",
         "ipa": "",
         "format": "grade7-8-no-ipa",
-        "source": "unit-11",
-        "grade": null,
-        "unit": 11,
-        "lesson": null
-      },
-      {
-        "word": "**eye-tracking**",
-        "pos": "n",
-        "meaning": "theo dõi chuyển động mắt",
-        "ipa": "/ˈaɪ ˌtrækɪŋ/",
-        "format": "grade6",
-        "source": "unit-11",
-        "grade": null,
-        "unit": 11,
-        "lesson": null
-      },
-      {
-        "word": "**face recognition**",
-        "pos": "n",
-        "meaning": "nhận diện khuôn mặt",
-        "ipa": "/feɪs ˌrekəɡˈnɪʃn/",
-        "format": "grade6",
         "source": "unit-11",
         "grade": null,
         "unit": 11,
@@ -89162,17 +84122,6 @@ const EXTRACTED_VOCABULARY = {
         "pos": "n",
         "meaning": "công nghệ",
         "ipa": "/tekˈnɒlədʒi/",
-        "format": "grade6",
-        "source": "unit-11",
-        "grade": null,
-        "unit": 11,
-        "lesson": null
-      },
-      {
-        "word": "**check attendance**",
-        "pos": "v",
-        "meaning": "điểm danh",
-        "ipa": "/tʃek əˈtendəns/",
         "format": "grade6",
         "source": "unit-11",
         "grade": null,
@@ -90697,31 +85646,9 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "atmosphere",
-        "pos": "",
-        "meaning": "(n) khí quyển, bầu không khí /ˈætməsfɪə/",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "unit-12",
-        "grade": null,
-        "unit": 12,
-        "lesson": null
-      },
-      {
         "word": "similar",
         "pos": "",
         "meaning": "(adj) giống nhau, tương tự /ˈsɪmɪlə/",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "unit-12",
-        "grade": null,
-        "unit": 12,
-        "lesson": null
-      },
-      {
-        "word": "wonder",
-        "pos": "",
-        "meaning": "(v) tự hỏi, thắc mắc; (n) kỳ quan, điều kỳ diệu /ˈwʌndə/",
         "ipa": "",
         "format": "grade11-summary",
         "source": "unit-12",
@@ -90961,53 +85888,6 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "imaginary",
-        "pos": "",
-        "meaning": "(adj) tưởng tượng /ɪˈmædʒɪnəri/",
-        "ipa": "",
-        "format": "grade11-summary",
-        "source": "unit-12",
-        "grade": null,
-        "unit": 12,
-        "lesson": null
-      },
-      {
-        "word": "alien",
-        "pos": "n",
-        "meaning": "người ngoài hành tinh",
-        "ipa": "",
-        "format": "bullet-pos",
-        "example": "atmosphere (n): khí quyển",
-        "source": "unit-12",
-        "grade": null,
-        "unit": 12,
-        "lesson": null
-      },
-      {
-        "word": "atmosphere",
-        "pos": "n",
-        "meaning": "khí quyển",
-        "ipa": "",
-        "format": "bullet-pos",
-        "example": "commander (n): chỉ huy",
-        "source": "unit-12",
-        "grade": null,
-        "unit": 12,
-        "lesson": null
-      },
-      {
-        "word": "commander",
-        "pos": "n",
-        "meaning": "chỉ huy",
-        "ipa": "",
-        "format": "bullet-pos",
-        "example": "crater (n): miệng núi lửa",
-        "source": "unit-12",
-        "grade": null,
-        "unit": 12,
-        "lesson": null
-      },
-      {
         "word": "crater",
         "pos": "n",
         "meaning": "miệng núi lửa",
@@ -91020,179 +85900,12 @@ const EXTRACTED_VOCABULARY = {
         "lesson": null
       },
       {
-        "word": "creature",
-        "pos": "n",
-        "meaning": "sinh vật",
-        "ipa": "",
-        "format": "bullet-pos",
-        "example": "galaxy (n): thiên hà",
-        "source": "unit-12",
-        "grade": null,
-        "unit": 12,
-        "lesson": null
-      },
-      {
-        "word": "galaxy",
-        "pos": "n",
-        "meaning": "thiên hà",
-        "ipa": "",
-        "format": "bullet-pos",
-        "example": "gravity (n): trọng lực",
-        "source": "unit-12",
-        "grade": null,
-        "unit": 12,
-        "lesson": null
-      },
-      {
-        "word": "habitable",
-        "pos": "adj",
-        "meaning": "có thể ở được",
-        "ipa": "",
-        "format": "bullet-pos",
-        "example": "liquid water (n): nước lỏng",
-        "source": "unit-12",
-        "grade": null,
-        "unit": 12,
-        "lesson": null
-      },
-      {
-        "word": "liquid water",
-        "pos": "n",
-        "meaning": "nước lỏng",
-        "ipa": "",
-        "format": "bullet-pos",
-        "example": "oppose (v): phản đối",
-        "source": "unit-12",
-        "grade": null,
-        "unit": 12,
-        "lesson": null
-      },
-      {
-        "word": "oppose",
-        "pos": "v",
-        "meaning": "phản đối",
-        "ipa": "",
-        "format": "bullet-pos",
-        "example": "orbit (v/n): quỹ đạo",
-        "source": "unit-12",
-        "grade": null,
-        "unit": 12,
-        "lesson": null
-      },
-      {
-        "word": "orbit",
-        "pos": "v/n",
-        "meaning": "quỹ đạo",
-        "ipa": "",
-        "format": "bullet-pos",
-        "example": "oxygen (n): oxy",
-        "source": "unit-12",
-        "grade": null,
-        "unit": 12,
-        "lesson": null
-      },
-      {
-        "word": "oxygen",
-        "pos": "n",
-        "meaning": "oxy",
-        "ipa": "",
-        "format": "bullet-pos",
-        "example": "planet (n): hành tinh",
-        "source": "unit-12",
-        "grade": null,
-        "unit": 12,
-        "lesson": null
-      },
-      {
         "word": "planet",
         "pos": "n",
         "meaning": "hành tinh",
         "ipa": "",
         "format": "bullet-pos",
         "example": "possibility (n): khả năng",
-        "source": "unit-12",
-        "grade": null,
-        "unit": 12,
-        "lesson": null
-      },
-      {
-        "word": "possibility",
-        "pos": "n",
-        "meaning": "khả năng",
-        "ipa": "",
-        "format": "bullet-pos",
-        "example": "promising (adj): đầy hứa hẹn",
-        "source": "unit-12",
-        "grade": null,
-        "unit": 12,
-        "lesson": null
-      },
-      {
-        "word": "promising",
-        "pos": "adj",
-        "meaning": "đầy hứa hẹn",
-        "ipa": "",
-        "format": "bullet-pos",
-        "example": "repair (v): sửa chữa",
-        "source": "unit-12",
-        "grade": null,
-        "unit": 12,
-        "lesson": null
-      },
-      {
-        "word": "repair",
-        "pos": "v",
-        "meaning": "sửa chữa",
-        "ipa": "",
-        "format": "bullet-pos",
-        "example": "rocket (n): tên lửa",
-        "source": "unit-12",
-        "grade": null,
-        "unit": 12,
-        "lesson": null
-      },
-      {
-        "word": "rocket",
-        "pos": "n",
-        "meaning": "tên lửa",
-        "ipa": "",
-        "format": "bullet-pos",
-        "example": "solar system (n): hệ mặt trời",
-        "source": "unit-12",
-        "grade": null,
-        "unit": 12,
-        "lesson": null
-      },
-      {
-        "word": "solar system",
-        "pos": "n",
-        "meaning": "hệ mặt trời",
-        "ipa": "",
-        "format": "bullet-pos",
-        "example": "spaceship (n): tàu vũ trụ",
-        "source": "unit-12",
-        "grade": null,
-        "unit": 12,
-        "lesson": null
-      },
-      {
-        "word": "telescope",
-        "pos": "n",
-        "meaning": "kính viễn vọng",
-        "ipa": "",
-        "format": "bullet-pos",
-        "example": "temperature (n): nhiệt độ",
-        "source": "unit-12",
-        "grade": null,
-        "unit": 12,
-        "lesson": null
-      },
-      {
-        "word": "trace",
-        "pos": "n",
-        "meaning": "dấu vết",
-        "ipa": "",
-        "format": "bullet-pos",
         "source": "unit-12",
         "grade": null,
         "unit": 12,

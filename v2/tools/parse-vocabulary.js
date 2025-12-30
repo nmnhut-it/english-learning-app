@@ -383,9 +383,21 @@ class VocabularyParser {
           unit: item.unit,
           title: `Grade ${item.grade} - Unit ${item.unit}`,
           items: [],
+          _seen: new Set(), // Track seen words within group
         };
       }
-      grouped[key].items.push(item);
+
+      // Deduplicate within group by word (case-insensitive)
+      const wordKey = item.word.toLowerCase().trim();
+      if (!grouped[key]._seen.has(wordKey)) {
+        grouped[key].items.push(item);
+        grouped[key]._seen.add(wordKey);
+      }
+    }
+
+    // Remove internal tracking set
+    for (const set of Object.values(grouped)) {
+      delete set._seen;
     }
 
     return grouped;
