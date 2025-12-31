@@ -1,0 +1,120 @@
+{
+  "id": "g8-u04-a-closer-look-2",
+  "grade": 8,
+  "unit": 4,
+  "unitTitle": "Ethnic Groups of Viet Nam",
+  "section": "a_closer_look_2",
+  "sectionTitle": "A Closer Look 2",
+  "sourceFile": "markdown-files/g8/unit-04/g8_u04_a-closer-look-2.md",
+  "processedAt": "2024-12-31T15:55:00Z",
+  "estimatedDuration": 25,
+
+  "blocks": [
+    {
+      "type": "grammar",
+      "topic": "Yes/No Questions and Wh-Questions",
+      "topicVi": "Câu hỏi Yes/No và câu hỏi có từ để hỏi",
+      "formula": {
+        "yesNo": "Auxiliary + Subject + Verb...?",
+        "whQuestion": "Wh-word + Auxiliary + Subject + Verb...?",
+        "whWords": ["What", "Which", "How", "When", "Why", "Where", "Who", "Whom"],
+        "auxiliaries": ["am/is/are", "do/does/did", "will/would/can/could/shall/should/must/may/might"]
+      },
+      "usage": [
+        {
+          "type": "Yes/No question",
+          "example": "Do women play an important role in Jrai family?",
+          "exampleVi": "Phụ nữ có đóng vai trò quan trọng trong gia đình người Jrai không?"
+        },
+        {
+          "type": "Wh-question",
+          "example": "Where do the Hmong live?",
+          "exampleVi": "Người Hmong sống ở đâu?"
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "topic": "Countable and Uncountable Nouns with Quantifiers",
+      "topicVi": "Danh từ đếm được và không đếm được với lượng từ",
+      "formula": {
+        "both": ["some", "a lot of", "lots of"],
+        "countableOnly": ["many", "a few"],
+        "uncountableOnly": ["much", "a little"]
+      }
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "sentence_transformation",
+      "exerciseNumber": "Bài 1 trang 43",
+      "instruction": "Change the statements into Yes/No questions",
+      "instructionVi": "Đổi các câu khẳng định thành câu hỏi Yes/No",
+      "questions": [
+        {"id": 1, "correctAnswer": "Do women play an important role in Jrai family?"},
+        {"id": 2, "correctAnswer": "Is mua sap a popular dance?"},
+        {"id": 3, "correctAnswer": "Did you have boarding schools for minority students in 1950?"},
+        {"id": 4, "correctAnswer": "Did you attend the Ban Flower Festival in Dien Bien last year?"},
+        {"id": 5, "correctAnswer": "Will you watch a documentary about the Khmer?"}
+      ],
+      "points": 50
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "multiple_choice",
+      "exerciseNumber": "Bài 2 trang 43",
+      "instruction": "Choose the correct question word",
+      "instructionVi": "Chọn từ để hỏi đúng",
+      "questions": [
+        {"id": 1, "correctAnswer": "B"},
+        {"id": 2, "correctAnswer": "B"},
+        {"id": 3, "correctAnswer": "A"},
+        {"id": 4, "correctAnswer": "A"},
+        {"id": 5, "correctAnswer": "B"}
+      ],
+      "points": 50
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "categorize",
+      "exerciseNumber": "Bài 3 trang 43",
+      "instruction": "Label C for countable and U for uncountable nouns",
+      "instructionVi": "Ghi C cho danh từ đếm được và U cho danh từ không đếm được",
+      "questions": [
+        {"id": 1, "noun": "house", "correctAnswer": "C"},
+        {"id": 2, "noun": "rice", "correctAnswer": "U"},
+        {"id": 3, "noun": "costume", "correctAnswer": "C"},
+        {"id": 4, "noun": "village", "correctAnswer": "C"},
+        {"id": 5, "noun": "water", "correctAnswer": "U"},
+        {"id": 6, "noun": "festival", "correctAnswer": "C"}
+      ],
+      "points": 30
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "fill_blank",
+      "exerciseNumber": "Bài 4 trang 43",
+      "instruction": "Complete with a, many, much, a few, or a little",
+      "instructionVi": "Điền a, many, much, a few, hoặc a little",
+      "questions": [
+        {"id": 1, "correctAnswer": "a"},
+        {"id": 2, "correctAnswer": "many"},
+        {"id": 3, "correctAnswer": "a few"},
+        {"id": 4, "correctAnswer": "a little"},
+        {"id": 5, "correctAnswer": "much"}
+      ],
+      "points": 50
+    }
+  ],
+
+  "stats": {
+    "vocabularyCount": 0,
+    "exerciseCount": 4,
+    "dialogueLines": 0,
+    "hasGrammar": true
+  },
+
+  "rewards": {
+    "xpTotal": 180,
+    "badges": ["grammar_pro"]
+  }
+}

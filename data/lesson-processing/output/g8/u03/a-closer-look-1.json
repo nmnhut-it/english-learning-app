@@ -1,0 +1,105 @@
+{
+  "id": "g8-u03-a-closer-look-1",
+  "grade": 8,
+  "unit": 3,
+  "unitTitle": "Teenagers",
+  "section": "a_closer_look_1",
+  "sectionTitle": "A Closer Look 1",
+  "sourceFile": "markdown-files/g8/unit-03/g8_u03_a-closer-look-1.md",
+  "processedAt": "2024-12-31T15:15:00Z",
+  "estimatedDuration": 20,
+
+  "blocks": [
+    {
+      "type": "vocabulary",
+      "context": "Online activities and teen problems",
+      "items": [
+        {"word": "upload", "partOfSpeech": "v", "pronunciation": "/ˈʌpləʊd/", "meaning": "tải lên"},
+        {"word": "browse", "partOfSpeech": "v", "pronunciation": "/braʊz/", "meaning": "duyệt qua"},
+        {"word": "check", "partOfSpeech": "v", "pronunciation": "/ʧɛk/", "meaning": "kiểm tra"},
+        {"word": "log on", "partOfSpeech": "v", "pronunciation": "/lɒɡ ɒn/", "meaning": "đăng nhập"},
+        {"word": "connect", "partOfSpeech": "v", "pronunciation": "/kəˈnɛkt/", "meaning": "kết nối"},
+        {"word": "website", "partOfSpeech": "n", "pronunciation": "/ˈwɛbˌsaɪt/", "meaning": "trang web"},
+        {"word": "notification", "partOfSpeech": "n", "pronunciation": "/ˌnəʊtɪfɪˈkeɪʃən/", "meaning": "thông báo"},
+        {"word": "account", "partOfSpeech": "n", "pronunciation": "/əˈkaʊnt/", "meaning": "tài khoản"},
+        {"word": "expectation", "partOfSpeech": "n", "pronunciation": "/ˌɛkspɛkˈteɪʃən/", "meaning": "sự mong đợi"},
+        {"word": "bully", "partOfSpeech": "n", "pronunciation": "/ˈbʊli/", "meaning": "kẻ bắt nạt"},
+        {"word": "concentrate", "partOfSpeech": "v", "pronunciation": "/ˈkɒnsəntreɪt/", "meaning": "tập trung"},
+        {"word": "pressure", "partOfSpeech": "n", "pronunciation": "/ˈprɛʃə/", "meaning": "áp lực"}
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "matching",
+      "exerciseNumber": "Bài 1 trang 30",
+      "instruction": "Match the verbs with the phrases",
+      "instructionVi": "Nối động từ với các cụm từ",
+      "questions": [
+        {"id": 1, "verb": "upload", "phrase": "a picture", "phraseVi": "tải ảnh lên", "correctAnswer": "A"},
+        {"id": 2, "verb": "browse", "phrase": "a website", "phraseVi": "duyệt một trang web", "correctAnswer": "A"},
+        {"id": 3, "verb": "check", "phrase": "notifications", "phraseVi": "kiểm tra thông báo", "correctAnswer": "B"},
+        {"id": 4, "verb": "log on to", "phrase": "an account", "phraseVi": "đăng nhập vào một tài khoản", "correctAnswer": "B"},
+        {"id": 5, "verb": "connect with", "phrase": "friends", "phraseVi": "kết nối với bạn bè", "correctAnswer": "B"}
+      ],
+      "points": 25
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "fill_blank",
+      "exerciseNumber": "Bài 2 trang 30",
+      "instruction": "Complete the sentences with the correct verbs",
+      "instructionVi": "Hoàn thành các câu với động từ đúng",
+      "questions": [
+        {"id": 1, "sentence": "I _____ the school website and found pictures about school activities.", "correctAnswer": "browsed"},
+        {"id": 2, "sentence": "Our teacher _____ a video to the forum for everyone to watch.", "correctAnswer": "uploaded"},
+        {"id": 3, "sentence": "She _____ with some old friends at the English club.", "correctAnswer": "connected"},
+        {"id": 4, "sentence": "Tom _____ the notifications and found some new posts.", "correctAnswer": "checked"},
+        {"id": 5, "sentence": "Mi often _____ on to her Instagram account to chat with friends.", "correctAnswer": "logs"}
+      ],
+      "points": 50
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "multiple_choice",
+      "exerciseNumber": "Bài 3 trang 30",
+      "instruction": "Choose the correct answer",
+      "instructionVi": "Chọn đáp án đúng",
+      "questions": [
+        {"id": 1, "correctAnswer": "B", "explanation": "Our class has a forum and we often post questions on it for discussion."},
+        {"id": 2, "correctAnswer": "C", "explanation": "We try to meet our parents' expectations but it's hard."},
+        {"id": 3, "correctAnswer": "A", "explanation": "He is a bully and makes weaker classmates feel scared."},
+        {"id": 4, "correctAnswer": "A", "explanation": "She is chatting with friends so she can't concentrate on the lesson."},
+        {"id": 5, "correctAnswer": "B", "explanation": "We have pressure from exams, friends and parents."}
+      ],
+      "points": 50
+    },
+    {
+      "type": "pronunciation",
+      "topic": "Diphthongs: /ʊə/ and /ɔɪ/",
+      "topicVi": "Nguyên âm đôi: /ʊə/ và /ɔɪ/",
+      "sounds": [
+        {
+          "sound": "/ʊə/",
+          "examples": ["tourist", "ensure", "sure", "tournament"]
+        },
+        {
+          "sound": "/ɔɪ/",
+          "examples": ["boy", "toy", "avoid", "choice"]
+        }
+      ],
+      "exerciseNumber": "Bài 4 trang 30"
+    }
+  ],
+
+  "stats": {
+    "vocabularyCount": 12,
+    "exerciseCount": 3,
+    "dialogueLines": 0,
+    "hasPronunciation": true
+  },
+
+  "rewards": {
+    "xpTotal": 145,
+    "badges": ["digital_native"]
+  }
+}

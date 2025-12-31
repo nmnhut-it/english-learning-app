@@ -1,0 +1,118 @@
+{
+  "id": "g8-u02-skills-2",
+  "grade": 8,
+  "unit": 2,
+  "unitTitle": "Life in the Countryside",
+  "section": "skills_2",
+  "sectionTitle": "Skills 2",
+  "sourceFile": "markdown-files/g8/unit-02/g8_u02_skills-2.md",
+  "processedAt": "2024-12-31T15:00:00Z",
+  "estimatedDuration": 25,
+
+  "blocks": [
+    {
+      "type": "vocabulary",
+      "context": "Listening vocabulary",
+      "items": [
+        {"word": "sense", "partOfSpeech": "n", "pronunciation": "/sɛns/", "meaning": "cảm giác"},
+        {"word": "community", "partOfSpeech": "n", "pronunciation": "/kəˈmjuːnɪti/", "meaning": "cộng đồng"},
+        {"word": "welcome", "partOfSpeech": "v", "pronunciation": "/ˈwɛlkəm/", "meaning": "chào đón"},
+        {"word": "neighbour", "partOfSpeech": "n", "pronunciation": "/ˈneɪbər/", "meaning": "hàng xóm"},
+        {"word": "willing", "partOfSpeech": "adj", "pronunciation": "/ˈwɪlɪŋ/", "meaning": "sẵn lòng"},
+        {"word": "share", "partOfSpeech": "v", "pronunciation": "/ʃeə/", "meaning": "chia sẻ"},
+        {"word": "boring", "partOfSpeech": "adj", "pronunciation": "/ˈbɔːrɪŋ/", "meaning": "buồn chán"},
+        {"word": "entertainment", "partOfSpeech": "n", "pronunciation": "/ˌɛntəˈteɪnmənt/", "meaning": "giải trí"},
+        {"word": "theatre", "partOfSpeech": "n", "pronunciation": "/ˈθɪətə/", "meaning": "nhà hát"},
+        {"word": "transportation", "partOfSpeech": "n", "pronunciation": "/ˌtrænspɔːˈteɪʃən/", "meaning": "vận chuyển"},
+        {"word": "public transport", "partOfSpeech": "n", "pronunciation": "/ˈpʌblɪk ˈtrænspɔːt/", "meaning": "giao thông công cộng"},
+        {"word": "improve", "partOfSpeech": "v", "pronunciation": "/ɪmˈpruːv/", "meaning": "cải thiện"},
+        {"word": "spacious", "partOfSpeech": "adj", "pronunciation": "/ˈspeɪʃəs/", "meaning": "rộng rãi"}
+      ]
+    },
+    {
+      "type": "listening",
+      "title": "Interview about life in the countryside",
+      "description": "Listen to an interview about likes and dislikes of countryside life"
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "multiple_choice",
+      "exerciseNumber": "Bài 2 trang 25",
+      "instruction": "Listen and choose the correct answer",
+      "instructionVi": "Nghe và chọn đáp án đúng",
+      "questions": [
+        {"id": 1, "correctAnswer": "B"},
+        {"id": 2, "correctAnswer": "A"},
+        {"id": 3, "correctAnswer": "C"}
+      ],
+      "points": 30
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "multiple_choice",
+      "exerciseNumber": "Bài 3 trang 25",
+      "instruction": "Listen again and choose the correct answer",
+      "instructionVi": "Nghe lại và chọn đáp án đúng",
+      "questions": [
+        {"id": 1, "correctAnswer": "C"},
+        {"id": 2, "correctAnswer": "A"},
+        {"id": 3, "correctAnswer": "C"},
+        {"id": 4, "correctAnswer": "A"},
+        {"id": 5, "correctAnswer": "B"}
+      ],
+      "points": 50
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "categorize",
+      "exerciseNumber": "Bài 4 trang 25",
+      "instruction": "List things you like and dislike about countryside life",
+      "instructionVi": "Liệt kê những điều em thích và không thích về cuộc sống nông thôn",
+      "categories": {
+        "like": [
+          "low cost of living",
+          "many cheap things",
+          "fresh air",
+          "friendly people",
+          "quiet environment",
+          "beautiful nature",
+          "space for activities",
+          "fresh food"
+        ],
+        "dislike": [
+          "not many entertainment places, such as theatres, cinemas, etc.",
+          "poor means of transport",
+          "limited job opportunities",
+          "slow internet",
+          "few shopping options",
+          "fewer medical facilities"
+        ]
+      },
+      "points": 40
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "writing",
+      "exerciseNumber": "Bài 5 trang 25",
+      "instruction": "Write a paragraph about things you like about life in the countryside (60-80 words)",
+      "instructionVi": "Viết một đoạn văn về những điều em thích về cuộc sống nông thôn (60-80 từ)",
+      "sampleAnswer": {
+        "text": "There are some things I like about life in the countryside. First, the cost of living is low, which means I can save money. Second, the air is fresh and clean, making it a healthy place to live. The people are friendly and always willing to help each other. The environment is quiet and peaceful, perfect for relaxing. I enjoy the beautiful nature, with lots of trees and fields. There is also plenty of space for outdoor activities like playing sports or having picnics. Overall, the countryside is a great place to live.",
+        "textVi": "Có một số điều tôi thích về cuộc sống ở nông thôn. Đầu tiên, chi phí sinh hoạt thấp, có nghĩa là tôi có thể tiết kiệm tiền. Thứ hai, không khí trong lành và sạch sẽ, làm cho nó trở thành nơi sống lành mạnh. Mọi người thân thiện và luôn sẵn sàng giúp đỡ nhau. Môi trường yên tĩnh và thanh bình, hoàn hảo để thư giãn. Tôi thích thiên nhiên tươi đẹp, với nhiều cây cối và cánh đồng. Cũng có nhiều không gian cho các hoạt động ngoài trời như chơi thể thao hoặc đi dã ngoại. Nhìn chung, nông thôn là một nơi tuyệt vời để sống."
+      },
+      "points": 50
+    }
+  ],
+
+  "stats": {
+    "vocabularyCount": 13,
+    "exerciseCount": 4,
+    "dialogueLines": 0,
+    "hasListening": true
+  },
+
+  "rewards": {
+    "xpTotal": 170,
+    "badges": ["listening_pro", "writing_star"]
+  }
+}

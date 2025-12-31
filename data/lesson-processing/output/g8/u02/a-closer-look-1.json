@@ -1,0 +1,110 @@
+{
+  "id": "g8-u02-a-closer-look-1",
+  "grade": 8,
+  "unit": 2,
+  "unitTitle": "Life in the Countryside",
+  "section": "a_closer_look_1",
+  "sectionTitle": "A Closer Look 1",
+  "sourceFile": "markdown-files/g8/unit-02/g8_u02_a-closer-look-1.md",
+  "processedAt": "2024-12-31T14:40:00Z",
+  "estimatedDuration": 20,
+
+  "blocks": [
+    {
+      "type": "vocabulary",
+      "context": "Countryside vocabulary",
+      "items": [
+        {"word": "cattle", "partOfSpeech": "n", "pronunciation": "/ˈkætəl/", "meaning": "gia súc"},
+        {"word": "poultry", "partOfSpeech": "n", "pronunciation": "/ˈpəʊltri/", "meaning": "gia cầm"},
+        {"word": "orchard", "partOfSpeech": "n", "pronunciation": "/ˈɔːʧəd/", "meaning": "vườn cây ăn quả"},
+        {"word": "harvest", "partOfSpeech": "n", "pronunciation": "/ˈhɑːvɪst/", "meaning": "thu hoạch"},
+        {"word": "crops", "partOfSpeech": "n", "pronunciation": "/krɒps/", "meaning": "cây trồng"},
+        {"word": "load", "partOfSpeech": "v", "pronunciation": "/ˈləʊd/", "meaning": "chất"},
+        {"word": "unload", "partOfSpeech": "v", "pronunciation": "/ʌnˈləʊd/", "meaning": "dỡ"},
+        {"word": "catch", "partOfSpeech": "v", "pronunciation": "/ˈkæʧ/", "meaning": "bắt"},
+        {"word": "lake", "partOfSpeech": "n", "pronunciation": "/leɪk/", "meaning": "hồ"},
+        {"word": "pond", "partOfSpeech": "n", "pronunciation": "/pɒnd/", "meaning": "ao"},
+        {"word": "vast", "partOfSpeech": "adj", "pronunciation": "/vɑːst/", "meaning": "rộng lớn"},
+        {"word": "hospitable", "partOfSpeech": "adj", "pronunciation": "/ˈhɒspɪtəbl/", "meaning": "hiếu khách"},
+        {"word": "well-trained", "partOfSpeech": "adj", "pronunciation": "/wɛl treɪnd/", "meaning": "được đào tạo tốt"},
+        {"word": "surrounded", "partOfSpeech": "adj", "pronunciation": "/səˈraʊndɪd/", "meaning": "bao quanh"},
+        {"word": "picturesque", "partOfSpeech": "adj", "pronunciation": "/ˌpɪkʧəˈrɛsk/", "meaning": "đẹp như tranh"},
+        {"word": "hard-working", "partOfSpeech": "adj", "pronunciation": "/hɑːd-ˈwɜːkɪŋ/", "meaning": "chăm chỉ"},
+        {"word": "pick", "partOfSpeech": "v", "pronunciation": "/ˈpɪk/", "meaning": "hái"},
+        {"word": "gather", "partOfSpeech": "v", "pronunciation": "/ˈɡæðə/", "meaning": "tụ họp"}
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "fill_blank",
+      "exerciseNumber": "Bài 1 trang 20",
+      "instruction": "Complete the sentences with the correct words",
+      "instructionVi": "Hoàn thành các câu với từ đúng",
+      "questions": [
+        {"id": 1, "sentence": "Farmers raise _____ like cows and buffaloes.", "correctAnswer": "cattle"},
+        {"id": 2, "sentence": "We can pick fresh _____ in the orchard.", "correctAnswer": "fruit"},
+        {"id": 3, "sentence": "Farmers grow many types of _____.", "correctAnswer": "crops"},
+        {"id": 4, "sentence": "They _____ the rice from the trucks.", "correctAnswer": "unloaded"},
+        {"id": 5, "sentence": "They are _____ fish in the pond.", "correctAnswer": "catching"}
+      ],
+      "points": 50
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "matching",
+      "exerciseNumber": "Bài 2 trang 20",
+      "instruction": "Match the words with their definitions",
+      "instructionVi": "Nối từ với nghĩa của chúng",
+      "questions": [
+        {"id": 1, "correctAnswer": "c"},
+        {"id": 2, "correctAnswer": "d"},
+        {"id": 3, "correctAnswer": "e"},
+        {"id": 4, "correctAnswer": "b"},
+        {"id": 5, "correctAnswer": "a"}
+      ],
+      "points": 25
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "fill_blank",
+      "exerciseNumber": "Bài 3 trang 20",
+      "instruction": "Complete the sentences with the correct adjectives",
+      "instructionVi": "Hoàn thành các câu với tính từ đúng",
+      "questions": [
+        {"id": 1, "sentence": "The villagers are _____; they always welcome visitors.", "correctAnswer": "hospitable"},
+        {"id": 2, "sentence": "The workers are _____; they know their jobs well.", "correctAnswer": "well-trained"},
+        {"id": 3, "sentence": "The landscape is _____; it looks beautiful like a painting.", "correctAnswer": "picturesque"},
+        {"id": 4, "sentence": "The rice fields are _____; they stretch for miles.", "correctAnswer": "vast"},
+        {"id": 5, "sentence": "The houses are _____ by green trees.", "correctAnswer": "surrounded"}
+      ],
+      "points": 50
+    },
+    {
+      "type": "pronunciation",
+      "topic": "Clusters: /bl/ and /cl/",
+      "topicVi": "Cụm phụ âm: /bl/ và /cl/",
+      "sounds": [
+        {
+          "cluster": "/bl/",
+          "examples": ["black", "blue", "bless", "blend", "blood"]
+        },
+        {
+          "cluster": "/cl/",
+          "examples": ["clean", "clear", "class", "climb", "clock"]
+        }
+      ]
+    }
+  ],
+
+  "stats": {
+    "vocabularyCount": 18,
+    "exerciseCount": 3,
+    "dialogueLines": 0,
+    "hasPronunciation": true
+  },
+
+  "rewards": {
+    "xpTotal": 145,
+    "badges": ["vocabulary_builder"]
+  }
+}

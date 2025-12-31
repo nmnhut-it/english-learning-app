@@ -1,0 +1,96 @@
+{
+  "id": "g8-u01-skills-1",
+  "grade": 8,
+  "unit": 1,
+  "unitTitle": "Leisure Time",
+  "section": "skills_1",
+  "sectionTitle": "Skills 1",
+  "sourceFile": "markdown-files/g8/unit-01/g8_u01_skills-1.md",
+  "processedAt": "2024-12-31T14:20:00Z",
+  "estimatedDuration": 25,
+
+  "blocks": [
+    {
+      "type": "vocabulary",
+      "context": "Reading vocabulary",
+      "items": [
+        {"word": "spending free time", "partOfSpeech": "v", "pronunciation": "/ˈspɛndɪŋ friː taɪm/", "meaning": "dành thời gian rảnh"},
+        {"word": "leisure activities", "partOfSpeech": "n", "pronunciation": "/ˈlɛʒər ækˈtɪvɪtiz/", "meaning": "các hoạt động giải trí"},
+        {"word": "family members", "partOfSpeech": "n", "pronunciation": "/ˈfæmɪli ˈmɛmbəz/", "meaning": "các thành viên trong gia đình"},
+        {"word": "connect with", "partOfSpeech": "v", "pronunciation": "/kəˈnɛkt wɪð/", "meaning": "kết nối với"},
+        {"word": "bike ride", "partOfSpeech": "n", "pronunciation": "/baɪk raɪd/", "meaning": "đi xe đạp"},
+        {"word": "nearby villages", "partOfSpeech": "n", "pronunciation": "/ˈnɪəbaɪ ˈvɪlɪʤɪz/", "meaning": "các làng lân cận"},
+        {"word": "fresh air", "partOfSpeech": "n", "pronunciation": "/frɛʃ ɛə/", "meaning": "không khí trong lành"},
+        {"word": "take photos", "partOfSpeech": "v", "pronunciation": "/teɪk ˈfəʊtəʊz/", "meaning": "chụp ảnh"},
+        {"word": "into cooking", "partOfSpeech": "adj", "pronunciation": "/ˈɪntuː ˈkʊkɪŋ/", "meaning": "thích nấu ăn"},
+        {"word": "easy recipes", "partOfSpeech": "n", "pronunciation": "/ˈiːzi ˈrɛsɪpiz/", "meaning": "công thức nấu ăn đơn giản"},
+        {"word": "prepare the ingredients", "partOfSpeech": "v", "pronunciation": "/prɪˈpeə ði ɪnˈɡriːdiənts/", "meaning": "chuẩn bị nguyên liệu"},
+        {"word": "DIY projects", "partOfSpeech": "n", "pronunciation": "/ˌdiː.aɪˈwaɪ ˈprɒʤɛkts/", "meaning": "dự án tự làm"},
+        {"word": "make dresses", "partOfSpeech": "v", "pronunciation": "/meɪk ˈdrɛsɪz/", "meaning": "làm váy"},
+        {"word": "special occasions", "partOfSpeech": "n", "pronunciation": "/ˈspɛʃəl əˈkeɪʒənz/", "meaning": "các dịp đặc biệt"},
+        {"word": "costume contest", "partOfSpeech": "n", "pronunciation": "/ˈkɒstjuːm ˈkɒntɛst/", "meaning": "cuộc thi trang phục"},
+        {"word": "first prize", "partOfSpeech": "n", "pronunciation": "/fɜːst praɪz/", "meaning": "giải nhất"}
+      ]
+    },
+    {
+      "type": "reading",
+      "title": "Leisure Time with Family",
+      "text": "Some teenagers like spending their free time with their friends. Others prefer doing leisure activities with their family members. I like spending time with my family because it's a great way to connect with them.\n\nAt weekends, we usually go for a bike ride. We cycle to some nearby villages to enjoy the fresh air. We take photos and look at them later. My brother and I are also into cooking. My brother searches for easy recipes. Then, we prepare the ingredients and cook. Sometimes the food is delicious, but sometimes it isn't; however, we love whatever we cook. The leisure activity I like the most is doing DIY projects with my mum. She teaches me to make my own dresses and doll clothes. On special occasions, we make special dresses together. Once I won the first prize in a costume contest at my school.",
+      "textVi": "Một số thanh thiếu niên thích dành thời gian rảnh rỗi với bạn bè của họ. Những người khác thích làm các hoạt động giải trí với các thành viên gia đình của họ. Tôi thích dành thời gian cho gia đình vì đó là cách tuyệt vời để kết nối với họ.\n\nVào cuối tuần, chúng tôi thường đi xe đạp. Chúng tôi đạp xe đến một số ngôi làng gần đó để tận hưởng không khí trong lành. Chúng tôi chụp ảnh và xem xét chúng sau. Anh trai tôi và tôi cũng thích nấu ăn. Anh trai tôi tìm kiếm công thức nấu ăn dễ dàng. Sau đó, chúng tôi chuẩn bị nguyên liệu và nấu ăn. Đôi khi thức ăn ngon, nhưng đôi khi không; tuy nhiên, chúng tôi yêu bất cứ thứ gì chúng tôi nấu. Hoạt động giải trí mà tôi thích nhất là làm các dự án DIY với mẹ tôi. Cô ấy dạy tôi tự may váy và quần áo búp bê. Vào những dịp đặc biệt, chúng tôi cùng nhau may những bộ váy đặc biệt. Một lần tôi đoạt giải nhất trong một cuộc thi hóa trang ở trường tôi."
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "multiple_choice",
+      "exerciseNumber": "Bài 2 trang 14",
+      "instruction": "Choose the best answer",
+      "instructionVi": "Chọn đáp án đúng nhất",
+      "questions": [
+        {"id": 1, "correctAnswer": "C"},
+        {"id": 2, "correctAnswer": "A"}
+      ],
+      "points": 20
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "short_answer",
+      "exerciseNumber": "Bài 3 trang 14",
+      "instruction": "Answer the questions",
+      "instructionVi": "Trả lời các câu hỏi",
+      "questions": [
+        {"id": 1, "question": "What do they usually do at weekends?", "correctAnswer": "They usually go for a bike ride."},
+        {"id": 2, "question": "Who searches for easy recipes?", "correctAnswer": "Her brother."},
+        {"id": 3, "question": "Is the food they cook always delicious?", "correctAnswer": "No, it isn't."},
+        {"id": 4, "question": "What is the leisure activity she likes the most?", "correctAnswer": "Doing DIY."},
+        {"id": 5, "question": "What does her mum teach her?", "correctAnswer": "Her mum teaches her to make her own dresses and doll clothes."},
+        {"id": 6, "question": "What did she win at a costume contest?", "correctAnswer": "She won the first prize in a costume contest at her school."}
+      ],
+      "points": 60
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "speaking",
+      "exerciseNumber": "Bài 4 trang 14",
+      "instruction": "Answer the questions about your leisure activities",
+      "instructionVi": "Trả lời các câu hỏi về hoạt động giải trí của em",
+      "questions": [
+        {"id": 1, "question": "What do you usually do in your free time?", "sampleAnswer": "We usually play badminton."},
+        {"id": 2, "question": "What is the leisure activity you like the most? Why?", "sampleAnswer": "The leisure activity I like the most is riding bike because it's good for my health."},
+        {"id": 3, "question": "How do you feel when you do leisure activities?", "sampleAnswer": "I feel happy."}
+      ],
+      "points": 30
+    }
+  ],
+
+  "stats": {
+    "vocabularyCount": 16,
+    "exerciseCount": 3,
+    "dialogueLines": 0,
+    "hasReading": true,
+    "hasListening": false
+  },
+
+  "rewards": {
+    "xpTotal": 160,
+    "badges": ["reading_star"]
+  }
+}

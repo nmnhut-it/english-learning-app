@@ -1,0 +1,116 @@
+{
+  "id": "g8-u02-getting-started",
+  "grade": 8,
+  "unit": 2,
+  "unitTitle": "Life in the Countryside",
+  "section": "getting_started",
+  "sectionTitle": "Getting Started",
+  "sourceFile": "markdown-files/g8/unit-02/g8_u02_getting-started.md",
+  "processedAt": "2024-12-31T14:35:00Z",
+  "estimatedDuration": 25,
+
+  "blocks": [
+    {
+      "type": "vocabulary",
+      "context": "Countryside activities vocabulary",
+      "items": [
+        {"word": "tan", "partOfSpeech": "n", "pronunciation": "/tæn/", "meaning": "làn da rám nắng"},
+        {"word": "enjoyable", "partOfSpeech": "adj", "pronunciation": "/ɪnˈʤɔɪəbl/", "meaning": "thú vị"},
+        {"word": "summer holiday", "partOfSpeech": "n", "pronunciation": "/ˈsʌmə ˈhɒlɪdeɪ/", "meaning": "kỳ nghỉ hè"},
+        {"word": "province", "partOfSpeech": "n", "pronunciation": "/ˈprɒvɪns/", "meaning": "tỉnh"},
+        {"word": "harvest time", "partOfSpeech": "n", "pronunciation": "/ˈhɑːvɪst taɪm/", "meaning": "mùa gặt"},
+        {"word": "harvesting rice", "partOfSpeech": "v", "pronunciation": "/ˈhɑːvɪstɪŋ raɪs/", "meaning": "thu hoạch lúa"},
+        {"word": "combine harvester", "partOfSpeech": "n", "pronunciation": "/ˈkɒmbaɪn ˈhɑːvɪstə/", "meaning": "máy gặt đập liên hợp"},
+        {"word": "load the rice", "partOfSpeech": "v", "pronunciation": "/ləʊd ðə raɪs/", "meaning": "chất lúa"},
+        {"word": "unload the rice", "partOfSpeech": "v", "pronunciation": "/ʌnˈləʊd ðə raɪs/", "meaning": "dỡ lúa"},
+        {"word": "dry the rice", "partOfSpeech": "v", "pronunciation": "/draɪ ðə raɪs/", "meaning": "phơi khô lúa"},
+        {"word": "herd the buffaloes", "partOfSpeech": "v", "pronunciation": "/hɜːd ðə ˈbʌfələʊz/", "meaning": "chăn trâu"},
+        {"word": "herd the cows", "partOfSpeech": "v", "pronunciation": "/hɜːd ðə kaʊz/", "meaning": "chăn bò"},
+        {"word": "paddy fields", "partOfSpeech": "n", "pronunciation": "/ˈpædi fiːldz/", "meaning": "cánh đồng lúa"},
+        {"word": "fly kites", "partOfSpeech": "v", "pronunciation": "/flaɪ kaɪts/", "meaning": "thả diều"},
+        {"word": "traditional games", "partOfSpeech": "n", "pronunciation": "/trəˈdɪʃənl ɡeɪmz/", "meaning": "trò chơi truyền thống"},
+        {"word": "bamboo dancing", "partOfSpeech": "n", "pronunciation": "/ˈbæmbuː ˈdɑːnsɪŋ/", "meaning": "múa sạp"},
+        {"word": "dragon-snake", "partOfSpeech": "n", "pronunciation": "/ˈdræɡən sneɪk/", "meaning": "rồng rắn lên mây"},
+        {"word": "move slowly", "partOfSpeech": "v", "pronunciation": "/muːv ˈsləʊli/", "meaning": "di chuyển chậm"},
+        {"word": "healthier life", "partOfSpeech": "n", "pronunciation": "/ˈhɛlθɪə laɪf/", "meaning": "cuộc sống lành mạnh hơn"}
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "Nick and Mai talk about countryside vacation",
+      "context": "At school after summer holiday",
+      "lines": [
+        {"speaker": "Nick", "text": "You look great with that tan, Mai!", "textVi": "Bạn trông thật tuyệt với làn da rám nắng, Mai!"},
+        {"speaker": "Mai", "text": "Thank you. I've just come back from a very enjoyable summer holiday.", "textVi": "Cảm ơn bạn. Tôi vừa trở về từ một kỳ nghỉ hè rất thú vị."},
+        {"speaker": "Nick", "text": "Really? Where were you?", "textVi": "Thật sao? Bạn đã ở đâu?"},
+        {"speaker": "Mai", "text": "I stayed at my uncle's house in a small village in Bac Giang Province.", "textVi": "Tôi ở nhà chú tôi tại một ngôi làng nhỏ ở tỉnh Bắc Giang."},
+        {"speaker": "Nick", "text": "What did you do there?", "textVi": "Bạn đã làm gì ở đó?"},
+        {"speaker": "Mai", "text": "A lot of things. It was harvest time. People were harvesting rice with combine harvesters. I helped them load the rice onto the trucks. Then we unloaded it and dried it.", "textVi": "Rất nhiều thứ. Đó là thời điểm thu hoạch. Người dân đang thu hoạch lúa bằng máy gặt đập liên hợp. Tôi giúp họ chất gạo lên xe tải. Sau đó chúng tôi dỡ gạo ra và phơi khô."},
+        {"speaker": "Nick", "text": "That sounds great!", "textVi": "Nghe thật tuyệt!"},
+        {"speaker": "Mai", "text": "And sometimes I went to herd the buffaloes and cows with the village children. I made friends with them on my first day.", "textVi": "Và đôi khi tôi đi chăn trâu và bò với lũ trẻ trong làng. Tôi đã kết bạn với họ vào ngày đầu tiên của tôi."},
+        {"speaker": "Nick", "text": "Were they friendly?", "textVi": "Họ có thân thiện không?"},
+        {"speaker": "Mai", "text": "Yes. They took me to the paddy fields to fly kites. And in the evening, we played traditional games like bamboo dancing and dragon-snake.", "textVi": "Có. Họ đưa tôi ra cánh đồng để thả diều. Và vào buổi tối, chúng tôi chơi các trò chơi truyền thống như múa sạp và rồng rắn."},
+        {"speaker": "Nick", "text": "Oh, I envy you!", "textVi": "Ồ, tôi ghen tị với bạn đấy!"},
+        {"speaker": "Mai", "text": "Things there move more slowly than in our city, but people seem to have a healthier life.", "textVi": "Mọi thứ ở đó di chuyển chậm hơn ở thành phố của chúng tôi, nhưng mọi người dường như có một cuộc sống lành mạnh hơn."}
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "multiple_choice",
+      "exerciseNumber": "Bài 2 trang 19",
+      "instruction": "Choose the correct answer",
+      "instructionVi": "Chọn đáp án đúng",
+      "questions": [
+        {"id": 1, "correctAnswer": "A"},
+        {"id": 2, "correctAnswer": "B"},
+        {"id": 3, "correctAnswer": "C"},
+        {"id": 4, "correctAnswer": "A"}
+      ],
+      "points": 40
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "fill_blank",
+      "exerciseNumber": "Bài 3 trang 19",
+      "instruction": "Complete the sentences with the correct words",
+      "instructionVi": "Hoàn thành các câu với từ đúng",
+      "questions": [
+        {"id": 1, "sentence": "We helped _____ the rice onto trucks.", "correctAnswer": "load"},
+        {"id": 2, "sentence": "They use a _____ to harvest the rice.", "correctAnswer": "combine harvester"},
+        {"id": 3, "sentence": "Mai went to _____ the buffaloes.", "correctAnswer": "herd"},
+        {"id": 4, "sentence": "They flew kites in the _____.", "correctAnswer": "paddy field"},
+        {"id": 5, "sentence": "It was _____ and farmers were very busy.", "correctAnswer": "harvest time"}
+      ],
+      "points": 50
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "matching",
+      "exerciseNumber": "Bài 4 trang 19",
+      "instruction": "Match the activities with the descriptions",
+      "instructionVi": "Nối các hoạt động với mô tả",
+      "questions": [
+        {"id": 1, "correctAnswer": "d"},
+        {"id": 2, "correctAnswer": "a"},
+        {"id": 3, "correctAnswer": "f"},
+        {"id": 4, "correctAnswer": "e"},
+        {"id": 5, "correctAnswer": "b"},
+        {"id": 6, "correctAnswer": "c"}
+      ],
+      "points": 30
+    }
+  ],
+
+  "stats": {
+    "vocabularyCount": 19,
+    "exerciseCount": 3,
+    "dialogueLines": 12,
+    "hasReading": false,
+    "hasListening": false
+  },
+
+  "rewards": {
+    "xpTotal": 170,
+    "badges": ["countryside_explorer"]
+  }
+}

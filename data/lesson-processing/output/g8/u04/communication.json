@@ -1,0 +1,41 @@
+{
+  "id": "g8-u04-communication",
+  "grade": 8,
+  "unit": 4,
+  "unitTitle": "Ethnic Groups of Viet Nam",
+  "section": "communication",
+  "sectionTitle": "Communication",
+  "sourceFile": "markdown-files/g8/unit-04/g8_u04_communication.md",
+  "processedAt": "2024-12-31T16:00:00Z",
+  "estimatedDuration": 15,
+
+  "blocks": [
+    {
+      "type": "exercise",
+      "exerciseType": "speaking",
+      "exerciseNumber": "Bài 4 trang 44",
+      "instruction": "Practice asking and answering about ethnic groups",
+      "instructionVi": "Thực hành hỏi và trả lời về các nhóm dân tộc",
+      "questions": [
+        {"id": 1, "question": "What is the population of the Jrai?", "questionVi": "Dân số người Jrai là bao nhiêu?"},
+        {"id": 2, "question": "Where do they mainly live?", "questionVi": "Họ chủ yếu sống ở đâu?"},
+        {"id": 3, "question": "What do they do for a living?", "questionVi": "Họ làm gì để kiếm sống?"},
+        {"id": 4, "question": "How is their traditional culture?", "questionVi": "Văn hóa truyền thống của họ như thế nào?"}
+      ],
+      "points": 40
+    }
+  ],
+
+  "stats": {
+    "vocabularyCount": 0,
+    "exerciseCount": 1,
+    "dialogueLines": 0
+  },
+
+  "rewards": {
+    "xpTotal": 40,
+    "badges": []
+  },
+
+  "note": "This section has limited content in the source file"
+}

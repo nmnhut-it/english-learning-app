@@ -1,0 +1,89 @@
+{
+  "id": "g8-u03-skills-2",
+  "grade": 8,
+  "unit": 3,
+  "unitTitle": "Teenagers",
+  "section": "skills_2",
+  "sectionTitle": "Skills 2",
+  "sourceFile": "markdown-files/g8/unit-03/g8_u03_skills-2.md",
+  "processedAt": "2024-12-31T15:35:00Z",
+  "estimatedDuration": 25,
+
+  "blocks": [
+    {
+      "type": "vocabulary",
+      "context": "Teen stress vocabulary",
+      "items": [
+        {"word": "stress", "partOfSpeech": "n", "pronunciation": "/strɛs/", "meaning": "căng thẳng"},
+        {"word": "tired", "partOfSpeech": "adj", "pronunciation": "/ˈtaɪəd/", "meaning": "mệt mỏi"},
+        {"word": "expectations", "partOfSpeech": "n", "pronunciation": "/ˌɛkspɛkˈteɪʃənz/", "meaning": "kỳ vọng"},
+        {"word": "interests", "partOfSpeech": "n", "pronunciation": "/ˈɪntrɪsts/", "meaning": "sở thích"},
+        {"word": "abilities", "partOfSpeech": "n", "pronunciation": "/əˈbɪlɪtiz/", "meaning": "khả năng"},
+        {"word": "focus", "partOfSpeech": "v", "pronunciation": "/ˈfəʊkəs/", "meaning": "tập trung"},
+        {"word": "lose weight", "partOfSpeech": "v", "pronunciation": "/luːz weɪt/", "meaning": "giảm cân"},
+        {"word": "fit", "partOfSpeech": "adj", "pronunciation": "/fɪt/", "meaning": "cân đối"},
+        {"word": "jealous", "partOfSpeech": "adj", "pronunciation": "/ˈdʒɛləs/", "meaning": "ghen tỵ"},
+        {"word": "arguments", "partOfSpeech": "n", "pronunciation": "/ˈɑːɡjʊmənts/", "meaning": "tranh cãi"}
+      ]
+    },
+    {
+      "type": "listening",
+      "title": "Teenagers discussing their stress",
+      "description": "Listen to teenagers talking about their problems in a forum"
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "fill_blank",
+      "exerciseNumber": "Bài 2 trang 35",
+      "instruction": "Listen and fill in the blanks",
+      "instructionVi": "Nghe và điền vào chỗ trống",
+      "questions": [
+        {"id": 1, "sentence": "I'm tired of trying to meet my _____' expectations.", "correctAnswer": "parents"},
+        {"id": 2, "sentence": "They don't understand my interests and _____.", "correctAnswer": "abilities"},
+        {"id": 3, "sentence": "I want to lose weight and have a fit _____.", "correctAnswer": "body / weight"},
+        {"id": 4, "sentence": "Am I not _____ enough?", "correctAnswer": "good"},
+        {"id": 5, "sentence": "My _____ is jealous of me.", "correctAnswer": "sister"},
+        {"id": 6, "sentence": "We should _____ to our parents about our problems.", "correctAnswer": "talk"}
+      ],
+      "points": 60
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "multiple_choice",
+      "exerciseNumber": "Bài 3 trang 35",
+      "instruction": "Choose the correct answer",
+      "instructionVi": "Chọn đáp án đúng",
+      "questions": [
+        {"id": 1, "correctAnswer": "B"},
+        {"id": 2, "correctAnswer": "B, D"},
+        {"id": 3, "correctAnswer": "C"},
+        {"id": 4, "correctAnswer": "A, D"}
+      ],
+      "points": 40
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "writing",
+      "exerciseNumber": "Bài 4 trang 35",
+      "instruction": "Write a paragraph about your stress and how you deal with it (60-80 words)",
+      "instructionVi": "Viết một đoạn văn về căng thẳng của em và cách em đối phó với nó (60-80 từ)",
+      "sampleAnswer": {
+        "text": "I often feel stressed because of too much schoolwork and spending too much time on social media. When I have a lot of homework, I feel overwhelmed and tired. Also, using my phone too much makes it hard to relax and sleep well. Here are the ways I deal with my stress. First, I try to stay calm and relaxed by taking deep breaths and meditating. Second, I turn off my smartphone for a few hours each day to focus on other activities like reading or going for a walk. These solutions help me feel better and manage my stress.",
+        "textVi": "Tôi thường cảm thấy căng thẳng vì quá nhiều bài tập và dành quá nhiều thời gian trên mạng xã hội. Khi tôi có nhiều bài tập về nhà, tôi cảm thấy quá tải và mệt mỏi. Ngoài ra, sử dụng điện thoại quá nhiều khiến tôi khó thư giãn và ngủ ngon. Đây là những cách tôi đối phó với căng thẳng của mình. Đầu tiên, tôi cố gắng giữ bình tĩnh và thư giãn bằng cách hít thở sâu và thiền định. Thứ hai, tôi tắt điện thoại thông minh vài giờ mỗi ngày để tập trung vào các hoạt động khác như đọc sách hoặc đi dạo. Những giải pháp này giúp tôi cảm thấy tốt hơn và quản lý căng thẳng của mình."
+      },
+      "points": 50
+    }
+  ],
+
+  "stats": {
+    "vocabularyCount": 10,
+    "exerciseCount": 3,
+    "dialogueLines": 0,
+    "hasListening": true
+  },
+
+  "rewards": {
+    "xpTotal": 150,
+    "badges": ["stress_manager"]
+  }
+}

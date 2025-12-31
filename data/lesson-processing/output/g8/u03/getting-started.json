@@ -1,0 +1,107 @@
+{
+  "id": "g8-u03-getting-started",
+  "grade": 8,
+  "unit": 3,
+  "unitTitle": "Teenagers",
+  "section": "getting_started",
+  "sectionTitle": "Getting Started",
+  "sourceFile": "markdown-files/g8/unit-03/g8_u03_getting-started.md",
+  "processedAt": "2024-12-31T15:10:00Z",
+  "estimatedDuration": 25,
+
+  "blocks": [
+    {
+      "type": "vocabulary",
+      "context": "Teen life vocabulary",
+      "items": [
+        {"word": "forum", "partOfSpeech": "n", "pronunciation": "/ˈfɔːrəm/", "meaning": "diễn đàn"},
+        {"word": "club activity", "partOfSpeech": "n", "pronunciation": "/klʌb ækˈtɪvɪti/", "meaning": "hoạt động câu lạc bộ"},
+        {"word": "midterm test", "partOfSpeech": "n", "pronunciation": "/ˈmɪdˌtɜːm tɛst/", "meaning": "bài kiểm tra giữa kỳ"},
+        {"word": "stress", "partOfSpeech": "n", "pronunciation": "/strɛs/", "meaning": "căng thẳng"},
+        {"word": "pressure", "partOfSpeech": "n", "pronunciation": "/ˈprɛʃə/", "meaning": "áp lực"},
+        {"word": "user-friendly", "partOfSpeech": "adj", "pronunciation": "/ˈjuːzə ˈfrɛndli/", "meaning": "thân thiện với người dùng"},
+        {"word": "arts and crafts", "partOfSpeech": "n", "pronunciation": "/ɑːts ənd krɑːfts/", "meaning": "nghệ thuật và thủ công"},
+        {"word": "leader", "partOfSpeech": "n", "pronunciation": "/ˈliːdə/", "meaning": "người lãnh đạo"},
+        {"word": "variety", "partOfSpeech": "n", "pronunciation": "/vəˈraɪəti/", "meaning": "sự đa dạng"},
+        {"word": "interest", "partOfSpeech": "n", "pronunciation": "/ˈɪntrɪst/", "meaning": "sở thích"},
+        {"word": "competition", "partOfSpeech": "n", "pronunciation": "/ˌkɒmpɪˈtɪʃən/", "meaning": "cuộc thi"},
+        {"word": "awesome", "partOfSpeech": "adj", "pronunciation": "/ˈɔːsəm/", "meaning": "tuyệt vời"}
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "Teacher and students talk about school activities",
+      "context": "In the classroom",
+      "lines": [
+        {"speaker": "Teacher", "text": "Nice to see you again, class! What's going on?", "textVi": "Rất vui được gặp lại các em, cả lớp! Chuyện gì đang xảy ra vậy?"},
+        {"speaker": "Minh", "text": "We've decided to use Facebook for our class forum and we've joined some school club activities. We're also preparing for midterm tests. It's really stressful.", "textVi": "Chúng em đã quyết định sử dụng Facebook cho diễn đàn của lớp và chúng em đã tham gia một số hoạt động câu lạc bộ của trường. Chúng em cũng đang chuẩn bị cho các bài kiểm tra giữa kỳ. Nó thực sự rất căng thẳng."},
+        {"speaker": "Teacher", "text": "I'm sorry to hear that. I know exams can give you a lot of stress. But stay calm and work hard. What other pressures do you have?", "textVi": "Cô rất tiếc khi nghe điều đó. Cô biết các kỳ thi có thể mang lại cho các em rất nhiều căng thẳng. Nhưng hãy bình tĩnh và làm việc chăm chỉ. Các em có những áp lực nào khác?"},
+        {"speaker": "Minh", "text": "Well, we also have pressure from parents and friends.", "textVi": "À, chúng em cũng có áp lực từ bố mẹ và bạn bè."},
+        {"speaker": "Teacher", "text": "Are you okay? Discuss these problems in your new Facebook group. By the way, why did you choose Facebook?", "textVi": "Em có sao không? Hãy thảo luận về những vấn đề này trong nhóm Facebook mới của em. Nhân tiện, tại sao em lại chọn Facebook?"},
+        {"speaker": "Ann", "text": "Because it's user-friendly.", "textVi": "Bởi vì nó thân thiện với người dùng."},
+        {"speaker": "Teacher", "text": "Good! What about club activities? Do you find them enjoyable?", "textVi": "Tốt! Còn hoạt động câu lạc bộ thì sao? Em có thấy chúng thú vị không?"},
+        {"speaker": "Ann", "text": "Yes. This year there are some new clubs like arts and crafts, and music. The club leaders will provide us with a variety of activities to suit different interests. And there will be competitions as usual.", "textVi": "Có ạ. Năm nay có một số câu lạc bộ mới như nghệ thuật và thủ công, và âm nhạc. Các lãnh đạo câu lạc bộ sẽ cung cấp cho chúng em nhiều hoạt động phù hợp với các sở thích khác nhau. Và cũng sẽ có các cuộc thi như thường lệ."},
+        {"speaker": "Teacher", "text": "Awesome! I hope all of you can join the clubs you like.", "textVi": "Tuyệt vời! Cô hy vọng tất cả các em có thể tham gia các câu lạc bộ mà các em thích."}
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "true_false",
+      "exerciseNumber": "Bài 2 trang 29",
+      "instruction": "Read and decide True or False",
+      "instructionVi": "Đọc và quyết định Đúng hay Sai",
+      "questions": [
+        {"id": 1, "statement": "The students have finished their midterm tests.", "correctAnswer": "F"},
+        {"id": 2, "statement": "Minh mentions different types of pressure they are facing.", "correctAnswer": "T"},
+        {"id": 3, "statement": "The teacher asks them to stay calm and strict.", "correctAnswer": "T"},
+        {"id": 4, "statement": "The class will discuss their problems offline.", "correctAnswer": "F"},
+        {"id": 5, "statement": "The school has different clubs for students.", "correctAnswer": "T"}
+      ],
+      "points": 50
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "matching",
+      "exerciseNumber": "Bài 3 trang 29",
+      "instruction": "Match the pictures with the words",
+      "instructionVi": "Nối tranh với các từ",
+      "questions": [
+        {"id": 1, "correctAnswer": "language club", "correctAnswerVi": "câu lạc bộ ngôn ngữ"},
+        {"id": 2, "correctAnswer": "pressure", "correctAnswerVi": "áp lực"},
+        {"id": 3, "correctAnswer": "arts and crafts club", "correctAnswerVi": "câu lạc bộ thủ công mỹ nghệ"},
+        {"id": 4, "correctAnswer": "forum", "correctAnswerVi": "diễn đàn"},
+        {"id": 5, "correctAnswer": "sports club", "correctAnswerVi": "câu lạc bộ thể thao"},
+        {"id": 6, "correctAnswer": "chess club", "correctAnswerVi": "câu lạc bộ cờ vua"}
+      ],
+      "points": 30
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "fill_blank",
+      "exerciseNumber": "Bài 4 trang 29",
+      "instruction": "Complete the sentences with the correct words",
+      "instructionVi": "Hoàn thành các câu với từ đúng",
+      "questions": [
+        {"id": 1, "sentence": "Minh is a member of our _____. His greeting cards are really creative.", "correctAnswer": "arts and crafts club"},
+        {"id": 2, "sentence": "Students can discuss their problems in the class _____.", "correctAnswer": "forum"},
+        {"id": 3, "sentence": "We share essays and stories we write in English in our _____.", "correctAnswer": "language club"},
+        {"id": 4, "sentence": "She felt unwell this weekend because of all the _____ from her studies.", "correctAnswer": "pressure"},
+        {"id": 5, "sentence": "Our _____ coach asked us to drink a lot of water during training sessions.", "correctAnswer": "sports club"}
+      ],
+      "points": 50
+    }
+  ],
+
+  "stats": {
+    "vocabularyCount": 12,
+    "exerciseCount": 3,
+    "dialogueLines": 9,
+    "hasReading": false,
+    "hasListening": false
+  },
+
+  "rewards": {
+    "xpTotal": 160,
+    "badges": ["teen_life"]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "id": "g8-u04-looking-back",
+  "grade": 8,
+  "unit": 4,
+  "unitTitle": "Ethnic Groups of Viet Nam",
+  "section": "looking_back",
+  "sectionTitle": "Looking Back",
+  "sourceFile": "markdown-files/g8/unit-04/g8_u04_looking-back.md",
+  "processedAt": "2024-12-31T16:10:00Z",
+  "estimatedDuration": 20,
+
+  "blocks": [
+    {
+      "type": "vocabulary",
+      "context": "Review vocabulary",
+      "items": [
+        {"word": "weaving", "partOfSpeech": "n", "pronunciation": "/ˈwiː.vɪŋ/", "meaning": "dệt vải"},
+        {"word": "musical instrument", "partOfSpeech": "n", "pronunciation": "/ˈmjuː.zɪ.kəl ˈɪn.strə.mənt/", "meaning": "nhạc cụ"},
+        {"word": "sticky rice", "partOfSpeech": "n", "pronunciation": "/ˈstɪk.i raɪs/", "meaning": "gạo nếp"},
+        {"word": "communal house", "partOfSpeech": "n", "pronunciation": "/ˈkɒm.jə.nəl haʊs/", "meaning": "nhà cộng đồng"},
+        {"word": "folk songs", "partOfSpeech": "n", "pronunciation": "/fəʊk sɒŋz/", "meaning": "dân ca"},
+        {"word": "staircase", "partOfSpeech": "n", "pronunciation": "/ˈsteə.keɪs/", "meaning": "cầu thang"}
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "matching",
+      "exerciseNumber": "Bài 1 trang 46",
+      "instruction": "Match the words with the pictures",
+      "instructionVi": "Nối từ với tranh",
+      "questions": [
+        {"id": 1, "word": "weaving", "correctAnswer": "c"},
+        {"id": 2, "word": "folk dance", "correctAnswer": "a"},
+        {"id": 3, "word": "open fire", "correctAnswer": "e"},
+        {"id": 4, "word": "fishing", "correctAnswer": "b"},
+        {"id": 5, "word": "minority group", "correctAnswer": "d"}
+      ],
+      "points": 25
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "fill_blank",
+      "exerciseNumber": "Bài 2 trang 46",
+      "instruction": "Complete the sentences with the correct words",
+      "instructionVi": "Hoàn thành các câu với từ đúng",
+      "questions": [
+        {"id": 1, "sentence": "The _____ is made of bamboo.", "correctAnswer": "musical instrument"},
+        {"id": 2, "sentence": "They use _____ to make banh chung.", "correctAnswer": "sticky rice"},
+        {"id": 3, "sentence": "The _____ is the center of the village.", "correctAnswer": "communal house"},
+        {"id": 4, "sentence": "They often sing _____ at festivals.", "correctAnswer": "folk songs"},
+        {"id": 5, "sentence": "We climb the _____ to enter the house.", "correctAnswer": "staircase"}
+      ],
+      "points": 50
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "sentence_transformation",
+      "exerciseNumber": "Bài 3 trang 46",
+      "instruction": "Write questions for the underlined words",
+      "instructionVi": "Viết câu hỏi cho các từ được gạch chân",
+      "questions": [
+        {"id": 1, "correctAnswer": "Did you attend the Khmer's Moon worship festival last year?"},
+        {"id": 2, "correctAnswer": "How many ethnic minority groups are there in Viet Nam?"},
+        {"id": 3, "correctAnswer": "Where do the Hmong live?"},
+        {"id": 4, "correctAnswer": "What did you do in the Ede's Harvest festival last October?"},
+        {"id": 5, "correctAnswer": "How old are minority children when they start helping the family?"}
+      ],
+      "points": 50
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "error_correction",
+      "exerciseNumber": "Bài 4 trang 46",
+      "instruction": "Find and correct the mistakes",
+      "instructionVi": "Tìm và sửa lỗi sai",
+      "questions": [
+        {"id": 1, "sentence": "The house stands on strong posts.", "error": "houses", "correction": "house (singular)"},
+        {"id": 2, "sentence": "The roof is made of leaf.", "error": "leaf", "correction": "leaves"},
+        {"id": 3, "sentence": "Much people live in stilt houses.", "error": "Much", "correction": "Many"},
+        {"id": 4, "sentence": "There is a lot of houseworks to do.", "error": "houseworks", "correction": "housework"},
+        {"id": 5, "sentence": "They have many land.", "error": "many", "correction": "much"}
+      ],
+      "points": 50
+    }
+  ],
+
+  "stats": {
+    "vocabularyCount": 6,
+    "exerciseCount": 4,
+    "dialogueLines": 0,
+    "hasGrammar": true
+  },
+
+  "rewards": {
+    "xpTotal": 175,
+    "badges": ["unit_complete"]
+  },
+
+  "note": "Unit 4 is missing skills-2.md file"
+}

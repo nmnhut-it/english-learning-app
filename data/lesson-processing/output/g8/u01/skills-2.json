@@ -1,0 +1,97 @@
+{
+  "id": "g8-u01-skills-2",
+  "grade": 8,
+  "unit": 1,
+  "unitTitle": "Leisure Time",
+  "section": "skills_2",
+  "sectionTitle": "Skills 2",
+  "sourceFile": "markdown-files/g8/unit-01/g8_u01_skills-2.md",
+  "processedAt": "2024-12-31T14:25:00Z",
+  "estimatedDuration": 25,
+
+  "blocks": [
+    {
+      "type": "vocabulary",
+      "context": "Listening vocabulary",
+      "items": [
+        {"word": "have free time", "partOfSpeech": "v", "pronunciation": "/hæv friː taɪm/", "meaning": "có thời gian rảnh"},
+        {"word": "at the weekend", "partOfSpeech": "adv", "pronunciation": "/æt ðə ˈwiːkˌɛnd/", "meaning": "vào cuối tuần"},
+        {"word": "connect with family", "partOfSpeech": "v", "pronunciation": "/kəˈnɛkt wɪð ˈfæmɪli/", "meaning": "kết nối với gia đình"},
+        {"word": "do puzzles", "partOfSpeech": "v", "pronunciation": "/duː ˈpʌzlz/", "meaning": "giải câu đố"},
+        {"word": "play board games", "partOfSpeech": "v", "pronunciation": "/pleɪ bɔːd ɡeɪmz/", "meaning": "chơi trò chơi cờ bàn"},
+        {"word": "go camping", "partOfSpeech": "v", "pronunciation": "/ɡəʊ ˈkæmpɪŋ/", "meaning": "đi cắm trại"},
+        {"word": "group of friends", "partOfSpeech": "n", "pronunciation": "/ɡruːp əv frɛndz/", "meaning": "nhóm bạn"},
+        {"word": "invite to my house", "partOfSpeech": "v", "pronunciation": "/ɪnˈvaɪt tuː maɪ haʊs/", "meaning": "mời đến nhà tôi"},
+        {"word": "cook favourite food", "partOfSpeech": "v", "pronunciation": "/kʊk ˈfeɪvərɪt fuːd/", "meaning": "nấu món ăn yêu thích"},
+        {"word": "watch a video", "partOfSpeech": "v", "pronunciation": "/wɒʧ ə ˈvɪdɪəʊ/", "meaning": "xem video"},
+        {"word": "better than cinema", "partOfSpeech": "adj", "pronunciation": "/ˈbɛtə ðæn ˈsɪnɪmə/", "meaning": "tốt hơn xem phim"},
+        {"word": "do outdoor activities", "partOfSpeech": "v", "pronunciation": "/duː ˈaʊtdɔːr ækˈtɪvɪtiz/", "meaning": "làm các hoạt động ngoài trời"},
+        {"word": "go to the park", "partOfSpeech": "v", "pronunciation": "/ɡəʊ tuː ðə pɑːk/", "meaning": "đi đến công viên"},
+        {"word": "play volleyball", "partOfSpeech": "v", "pronunciation": "/pleɪ ˈvɒlibɔːl/", "meaning": "chơi bóng chuyền"},
+        {"word": "skateboard", "partOfSpeech": "v", "pronunciation": "/ˈskeɪtbɔːd/", "meaning": "trượt ván"},
+        {"word": "stay in shape", "partOfSpeech": "v", "pronunciation": "/steɪ ɪn ʃeɪp/", "meaning": "giữ dáng"},
+        {"word": "bike ride around city", "partOfSpeech": "n", "pronunciation": "/baɪk raɪd əˈraʊnd ˈsɪti/", "meaning": "đi xe đạp quanh thành phố"},
+        {"word": "see different places", "partOfSpeech": "v", "pronunciation": "/siː ˈdɪfrənt ˈpleɪsɪz/", "meaning": "thấy những nơi khác nhau"}
+      ]
+    },
+    {
+      "type": "listening",
+      "title": "Interview about leisure activities",
+      "description": "Listen to an interview and complete the notes"
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "fill_blank",
+      "exerciseNumber": "Bài 3 trang 15",
+      "instruction": "Listen and fill in the blanks",
+      "instructionVi": "Nghe và điền vào chỗ trống",
+      "questions": [
+        {"id": 1, "sentence": "I invite my friends to my house. We cook and watch a _____.", "correctAnswer": "video"},
+        {"id": 2, "sentence": "It's better than the _____.", "correctAnswer": "cinema"},
+        {"id": 3, "sentence": "We go to the _____ and play volleyball or skateboard.", "correctAnswer": "park"},
+        {"id": 4, "sentence": "It helps me stay in _____.", "correctAnswer": "shape"},
+        {"id": 5, "sentence": "We go for a _____ around the city.", "correctAnswer": "bike ride"},
+        {"id": 6, "sentence": "We see different _____ in the city.", "correctAnswer": "places"}
+      ],
+      "points": 60
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "short_answer",
+      "exerciseNumber": "Bài 4 trang 15",
+      "instruction": "Answer the questions",
+      "instructionVi": "Trả lời các câu hỏi",
+      "questions": [
+        {"id": 1, "question": "When do you usually have free time?", "questionVi": "Bạn thường có thời gian rảnh khi nào?", "sampleAnswer": "At weekends."},
+        {"id": 2, "question": "What do you usually do with your friends in your free time?", "questionVi": "Bạn thường làm gì với bạn bè vào thời gian rảnh rỗi?", "sampleAnswer": "We listen to music and dance."},
+        {"id": 3, "question": "Why do you do these activities?", "questionVi": "Tại sao bạn làm những hoạt động này?", "sampleAnswer": "Because they're funny and relaxing."}
+      ],
+      "points": 30
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "writing",
+      "exerciseNumber": "Bài 5 trang 15",
+      "instruction": "Write an email to your friend about your leisure activities (60-80 words)",
+      "instructionVi": "Viết email cho bạn về các hoạt động giải trí của em (60-80 từ)",
+      "sampleAnswer": {
+        "text": "Hi Nam,\n\nIt's nice to hear from you again.\n\nLet me tell you about my leisure activities. At weekends, I usually listen to music and dance with my close friends. Our favorite songs are Love Story and You belong with me, sometimes we also enjoy other US-UK songs. Last week, we joined a dance club near our school. It's funny and relaxing to do that.\n\nBye for now,\nMy",
+        "textVi": "Chào Nam,\n\nRất vui được nghe tin từ bạn.\n\nĐể mình kể cho bạn về các hoạt động giải trí của mình. Vào cuối tuần, mình thường nghe nhạc và nhảy với bạn thân. Những bài hát yêu thích của chúng mình là Love Story và You belong with me, đôi khi chúng mình cũng thích các bài hát US-UK khác. Tuần trước, chúng mình tham gia câu lạc bộ nhảy gần trường. Thật vui và thư giãn.\n\nTạm biệt,\nMy"
+      },
+      "points": 50
+    }
+  ],
+
+  "stats": {
+    "vocabularyCount": 18,
+    "exerciseCount": 3,
+    "dialogueLines": 0,
+    "hasReading": false,
+    "hasListening": true
+  },
+
+  "rewards": {
+    "xpTotal": 180,
+    "badges": ["listening_ace", "writing_pro"]
+  }
+}

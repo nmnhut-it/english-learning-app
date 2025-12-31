@@ -1,0 +1,113 @@
+{
+  "id": "g8-u02-looking-back",
+  "grade": 8,
+  "unit": 2,
+  "unitTitle": "Life in the Countryside",
+  "section": "looking_back",
+  "sectionTitle": "Looking Back",
+  "sourceFile": "markdown-files/g8/unit-02/g8_u02_looking-back.md",
+  "processedAt": "2024-12-31T15:05:00Z",
+  "estimatedDuration": 20,
+
+  "blocks": [
+    {
+      "type": "vocabulary",
+      "context": "Review vocabulary",
+      "items": [
+        {"word": "unload", "partOfSpeech": "v", "pronunciation": "/ʌnˈləʊd/", "meaning": "dỡ"},
+        {"word": "milk", "partOfSpeech": "v", "pronunciation": "/mɪlk/", "meaning": "vắt sữa"},
+        {"word": "catch", "partOfSpeech": "v", "pronunciation": "/kæʧ/", "meaning": "bắt"},
+        {"word": "plough", "partOfSpeech": "v", "pronunciation": "/plaʊ/", "meaning": "cày"},
+        {"word": "feed", "partOfSpeech": "v", "pronunciation": "/fiːd/", "meaning": "cho ăn"},
+        {"word": "dry", "partOfSpeech": "v", "pronunciation": "/draɪ/", "meaning": "phơi khô"},
+        {"word": "vast", "partOfSpeech": "adj", "pronunciation": "/vɑːst/", "meaning": "rộng lớn"},
+        {"word": "hospitable", "partOfSpeech": "adj", "pronunciation": "/ˈhɒspɪtəbl/", "meaning": "hiếu khách"},
+        {"word": "well-trained", "partOfSpeech": "adj", "pronunciation": "/wɛl treɪnd/", "meaning": "được đào tạo tốt"},
+        {"word": "picturesque", "partOfSpeech": "adj", "pronunciation": "/ˌpɪkʧəˈrɛsk/", "meaning": "đẹp như tranh"},
+        {"word": "generous", "partOfSpeech": "adj", "pronunciation": "/ˈʤɛnərəs/", "meaning": "hào phóng"}
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "matching",
+      "exerciseNumber": "Bài 1 trang 26",
+      "instruction": "Match the activities with the pictures",
+      "instructionVi": "Nối các hoạt động với tranh",
+      "questions": [
+        {"id": 1, "activity": "ploughing fields", "activityVi": "cày ruộng"},
+        {"id": 2, "activity": "catching fish", "activityVi": "bắt cá"},
+        {"id": 3, "activity": "drying rice", "activityVi": "phơi lúa"},
+        {"id": 4, "activity": "unloading rice", "activityVi": "bốc xếp gạo"},
+        {"id": 5, "activity": "feeding pigs", "activityVi": "cho lợn ăn"},
+        {"id": 6, "activity": "milking cows", "activityVi": "vắt sữa bò"}
+      ],
+      "points": 30
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "multiple_choice",
+      "exerciseNumber": "Bài 2 trang 26",
+      "instruction": "Choose the correct word to complete the sentences",
+      "instructionVi": "Chọn từ đúng để hoàn thành câu",
+      "questions": [
+        {"id": 1, "correctAnswer": "C", "explanation": "Có một đám mây khổng lồ bao la ngút tầm mắt."},
+        {"id": 2, "correctAnswer": "C", "explanation": "Người dân làng tôi rất hiếu khách; họ luôn hào phóng và thân thiện với du khách."},
+        {"id": 3, "correctAnswer": "C", "explanation": "Sự phát triển của các thành phố phá hủy các vùng nông thôn trải dài."},
+        {"id": 4, "correctAnswer": "C", "explanation": "Các công nhân trong nhà máy của chúng tôi được đào tạo rất tốt vì họ đã tham gia rất nhiều khóa đào tạo tốt."},
+        {"id": 5, "correctAnswer": "A", "explanation": "Khu vực xung quanh ngôi làng nổi tiếng với phong cảnh đẹp như tranh vẽ."}
+      ],
+      "points": 50
+    },
+    {
+      "type": "grammar",
+      "topic": "Review: Comparative Adverbs",
+      "topicVi": "Ôn tập: So sánh hơn với trạng từ",
+      "formula": {
+        "shortAdverbs": "adverb + -er + than",
+        "longAdverbs": "more + adverb + than"
+      }
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "fill_blank",
+      "exerciseNumber": "Bài 3 trang 26",
+      "instruction": "Complete the sentences with the comparative form of the adverbs",
+      "instructionVi": "Hoàn thành các câu với dạng so sánh hơn của trạng từ",
+      "questions": [
+        {"id": 1, "sentence": "Nick gets up _____ (early) than his sister.", "correctAnswer": "earlier", "sentenceVi": "Mỗi sáng Nick dậy sớm hơn em gái anh ấy 10 phút."},
+        {"id": 2, "sentence": "I speak French _____ (fluently) than last year.", "correctAnswer": "more fluently", "sentenceVi": "Bây giờ tôi nói tiếng Pháp lưu loát hơn so với năm ngoái."},
+        {"id": 3, "sentence": "You will find your way _____ (easily) if you have a map.", "correctAnswer": "easier", "sentenceVi": "Bạn sẽ tìm đường quanh làng dễ dàng hơn nếu bạn có một tấm bản đồ tốt."},
+        {"id": 4, "sentence": "It rains _____ (heavily) today than yesterday.", "correctAnswer": "heavier", "sentenceVi": "Hôm nay trời mưa to hơn hôm qua."},
+        {"id": 5, "sentence": "If you work _____ (hard), you will do _____ (well) on the test.", "correctAnswer": "harder, better", "sentenceVi": "Nếu bạn chăm chỉ hơn, bạn sẽ làm bài kiểm tra tốt hơn."}
+      ],
+      "points": 50
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "error_correction",
+      "exerciseNumber": "Bài 4 trang 26",
+      "instruction": "Find and correct the mistakes",
+      "instructionVi": "Tìm và sửa lỗi sai",
+      "questions": [
+        {"id": 1, "sentence": "I run fast as my brother.", "error": "as", "correction": "than", "sentenceVi": "Tôi chạy nhanh hơn anh trai tôi."},
+        {"id": 2, "sentence": "City people seem to react quicklier to changes.", "error": "quicklier", "correction": "more quickly / quicker", "sentenceVi": "Người dân thành phố dường như phản ứng nhanh hơn với những thay đổi so với người dân ở nông thôn."},
+        {"id": 3, "sentence": "We need to work more hardly during exam time.", "error": "more hardly", "correction": "harder", "sentenceVi": "Chúng ta cần phải làm việc chăm chỉ hơn, đặc biệt là trong thời gian thi cử."},
+        {"id": 4, "sentence": "You must finish harvesting the earlier this year.", "error": "the earlier", "correction": "earlier", "sentenceVi": "Bạn phải hoàn thành việc thu hoạch lúa năm nay sớm hơn so với năm ngoái."},
+        {"id": 5, "sentence": "The air becomes more highly as they climb.", "error": "more highly", "correction": "higher", "sentenceVi": "Khi họ càng lên cao trên núi, không khí trở nên mát mẻ hơn."}
+      ],
+      "points": 50
+    }
+  ],
+
+  "stats": {
+    "vocabularyCount": 11,
+    "exerciseCount": 4,
+    "dialogueLines": 0,
+    "hasGrammar": true
+  },
+
+  "rewards": {
+    "xpTotal": 200,
+    "badges": ["unit_complete"]
+  }
+}

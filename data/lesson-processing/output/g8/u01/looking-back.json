@@ -1,0 +1,104 @@
+{
+  "id": "g8-u01-looking-back",
+  "grade": 8,
+  "unit": 1,
+  "unitTitle": "Leisure Time",
+  "section": "looking_back",
+  "sectionTitle": "Looking Back",
+  "sourceFile": "markdown-files/g8/unit-01/g8_u01_looking-back.md",
+  "processedAt": "2024-12-31T14:30:00Z",
+  "estimatedDuration": 20,
+
+  "blocks": [
+    {
+      "type": "exercise",
+      "exerciseType": "matching",
+      "exerciseNumber": "Bài 1 trang 16",
+      "instruction": "Match the pictures with the leisure activities",
+      "instructionVi": "Nối tranh với các hoạt động giải trí",
+      "questions": [
+        {"id": 1, "correctAnswer": "doing puzzles"},
+        {"id": 2, "correctAnswer": "doing DIY"},
+        {"id": 3, "correctAnswer": "messaging friends"},
+        {"id": 4, "correctAnswer": "playing sports"},
+        {"id": 5, "correctAnswer": "surfing the net"}
+      ],
+      "points": 25
+    },
+    {
+      "type": "grammar",
+      "topic": "Review: Phrases of Liking",
+      "topicVi": "Ôn tập: Cụm từ chỉ sự yêu thích",
+      "formula": {
+        "phrases": ["be fond of", "be keen on", "be interested in", "be crazy about", "be into"],
+        "structure": "Subject + be + phrase + V-ing"
+      }
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "fill_blank",
+      "exerciseNumber": "Bài 2 trang 16",
+      "instruction": "Complete the sentences with the correct phrases",
+      "instructionVi": "Hoàn thành các câu với cụm từ đúng",
+      "questions": [
+        {"id": 1, "sentence": "My cousin is _____ surfing the net and playing computer games.", "correctAnswer": "crazy about"},
+        {"id": 2, "sentence": "Are they _____ playing badminton after school?", "correctAnswer": "interested in"},
+        {"id": 3, "sentence": "I'm not _____ making models because I'm not patient.", "correctAnswer": "fond of"},
+        {"id": 4, "sentence": "Why are you not _____ cooking? - Because I often burn myself.", "correctAnswer": "into"},
+        {"id": 5, "sentence": "My friends are _____ doing judo and they go to judo club every Sunday.", "correctAnswer": "keen on"}
+      ],
+      "points": 50
+    },
+    {
+      "type": "grammar",
+      "topic": "Review: Gerunds and To-Infinitives",
+      "topicVi": "Ôn tập: V-ing và To V",
+      "formula": {
+        "gerundsOnly": ["detest", "fancy", "dislike", "enjoy"],
+        "bothForms": ["love", "like", "hate", "prefer"]
+      }
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "fill_blank",
+      "exerciseNumber": "Bài 3 trang 16",
+      "instruction": "Complete the sentences with the correct form of the verbs",
+      "instructionVi": "Hoàn thành các câu với dạng đúng của động từ",
+      "questions": [
+        {"id": 1, "sentence": "My dad loves _____ (cycle).", "correctAnswer": "cycling"},
+        {"id": 2, "sentence": "Do you like _____ (read)?", "correctAnswer": "reading / to read"},
+        {"id": 3, "sentence": "We enjoy _____ (play) chess.", "correctAnswer": "playing"},
+        {"id": 4, "sentence": "She hates _____ (chat) online.", "correctAnswer": "chatting / to chat"},
+        {"id": 5, "sentence": "They prefer _____ (do) puzzles.", "correctAnswer": "doing / to do"}
+      ],
+      "points": 50
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "fill_blank",
+      "exerciseNumber": "Bài 4 trang 16",
+      "instruction": "Complete the table with leisure activities",
+      "instructionVi": "Hoàn thành bảng với các hoạt động giải trí",
+      "questions": [
+        {"id": 2, "correctAnswer": "reading / to read books"},
+        {"id": 3, "correctAnswer": "messaging (friends)"},
+        {"id": 4, "correctAnswer": "making / to make flowers"},
+        {"id": 5, "correctAnswer": "knitting / to knit"},
+        {"id": 6, "correctAnswer": "playing badminton"}
+      ],
+      "points": 25
+    }
+  ],
+
+  "stats": {
+    "vocabularyCount": 0,
+    "exerciseCount": 4,
+    "dialogueLines": 0,
+    "hasGrammar": true
+  },
+
+  "rewards": {
+    "xpTotal": 200,
+    "badges": ["unit_complete"]
+  }
+}

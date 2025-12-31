@@ -1,0 +1,117 @@
+{
+  "id": "g8-u01-a-closer-look-2",
+  "grade": 8,
+  "unit": 1,
+  "unitTitle": "Leisure Time",
+  "section": "a_closer_look_2",
+  "sectionTitle": "A Closer Look 2",
+  "sourceFile": "markdown-files/g8/unit-01/g8_u01_a-closer-look-2.md",
+  "processedAt": "2024-12-31T14:10:00Z",
+  "estimatedDuration": 20,
+
+  "blocks": [
+    {
+      "type": "grammar",
+      "topic": "Verbs Followed by Gerunds and To-Infinitives",
+      "topicVi": "Động từ theo sau bởi V-ing và To V",
+      "formula": {
+        "gerundsOnly": ["detest", "fancy", "dislike", "enjoy"],
+        "bothForms": ["love", "like", "hate", "prefer"]
+      },
+      "usage": [
+        {
+          "category": "Gerunds only (V-ing)",
+          "categoryVi": "Chỉ dùng V-ing",
+          "verbs": ["detest", "fancy", "dislike", "enjoy"],
+          "example": "I enjoy playing football.",
+          "exampleTranslation": "Tôi thích chơi bóng đá."
+        },
+        {
+          "category": "Both Gerunds and To-Infinitives",
+          "categoryVi": "Dùng cả V-ing và To V",
+          "verbs": ["love", "like", "hate", "prefer"],
+          "example": "She likes swimming / to swim.",
+          "exampleTranslation": "Cô ấy thích bơi."
+        }
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "categorize",
+      "exerciseNumber": "Bài 1 trang 11",
+      "instruction": "Put the verbs in the correct column",
+      "instructionVi": "Đặt các động từ vào cột đúng",
+      "questions": [
+        {
+          "category": "Verbs followed by gerunds only",
+          "categoryVi": "Động từ chỉ dùng V-ing",
+          "correctAnswers": ["detest", "fancy", "dislike", "enjoy"]
+        },
+        {
+          "category": "Verbs followed by both gerunds and to-infinitives",
+          "categoryVi": "Động từ dùng cả V-ing và To V",
+          "correctAnswers": ["love", "like", "hate", "prefer"]
+        }
+      ],
+      "points": 40
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "multiple_choice",
+      "exerciseNumber": "Bài 2 trang 11",
+      "instruction": "Choose the correct form of the verb",
+      "instructionVi": "Chọn dạng đúng của động từ",
+      "questions": [
+        {"id": 1, "correctAnswer": "A, C"},
+        {"id": 2, "correctAnswer": "A"},
+        {"id": 3, "correctAnswer": "A, C"},
+        {"id": 4, "correctAnswer": "B"},
+        {"id": 5, "correctAnswer": "A"}
+      ],
+      "points": 50
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "fill_blank",
+      "exerciseNumber": "Bài 3 trang 11",
+      "instruction": "Complete the sentences with the correct form of the verbs",
+      "instructionVi": "Hoàn thành các câu với dạng đúng của động từ",
+      "questions": [
+        {"id": 1, "sentence": "My brother _____ surfing / to surf the net.", "verb": "like", "correctAnswer": "likes surfing / to surf"},
+        {"id": 2, "sentence": "They _____ doing DIY.", "verb": "enjoy", "correctAnswer": "enjoy doing"},
+        {"id": 3, "sentence": "She _____ cooking.", "verb": "dislike", "correctAnswer": "dislikes cooking"},
+        {"id": 4, "sentence": "I _____ going / to go shopping.", "verb": "hate", "correctAnswer": "hate going / to go"},
+        {"id": 5, "sentence": "We _____ doing / to do puzzles.", "verb": "prefer", "correctAnswer": "prefer doing / to do"}
+      ],
+      "points": 50
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "speaking",
+      "exerciseNumber": "Bài 4 trang 12",
+      "instruction": "Talk about your likes and dislikes using the verbs learned",
+      "instructionVi": "Nói về sở thích của em sử dụng các động từ đã học",
+      "examples": [
+        {"text": "I like cooking.", "textVi": "Tôi thích nấu ăn."},
+        {"text": "I prefer doing puzzles.", "textVi": "Tôi thích giải câu đố hơn."},
+        {"text": "I love reading books.", "textVi": "Tôi yêu đọc sách."},
+        {"text": "I dislike painting.", "textVi": "Tôi không thích vẽ."},
+        {"text": "I hate doing DIY.", "textVi": "Tôi ghét làm đồ tự làm."},
+        {"text": "I detest surfing the net.", "textVi": "Tôi ghét cay ghét đắng lướt web."}
+      ],
+      "points": 30
+    }
+  ],
+
+  "stats": {
+    "vocabularyCount": 0,
+    "exerciseCount": 4,
+    "dialogueLines": 0,
+    "hasGrammar": true
+  },
+
+  "rewards": {
+    "xpTotal": 170,
+    "badges": ["grammar_explorer"]
+  }
+}

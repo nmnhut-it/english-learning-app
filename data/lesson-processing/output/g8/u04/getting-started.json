@@ -1,0 +1,85 @@
+{
+  "id": "g8-u04-getting-started",
+  "grade": 8,
+  "unit": 4,
+  "unitTitle": "Ethnic Groups of Viet Nam",
+  "section": "getting_started",
+  "sectionTitle": "Getting Started",
+  "sourceFile": "markdown-files/g8/unit-04/g8_u04_getting-started.md",
+  "processedAt": "2024-12-31T15:45:00Z",
+  "estimatedDuration": 25,
+
+  "blocks": [
+    {
+      "type": "vocabulary",
+      "context": "Ethnic groups vocabulary",
+      "items": [
+        {"word": "ethnic group", "partOfSpeech": "n", "pronunciation": "/ˈeθ.nɪk ɡruːp/", "meaning": "nhóm dân tộc"},
+        {"word": "bamboo house", "partOfSpeech": "n", "pronunciation": "/ˌbæmˈbuː haʊs/", "meaning": "nhà tre"},
+        {"word": "terraced fields", "partOfSpeech": "n", "pronunciation": "/ˈter.əst fiːldz/", "meaning": "ruộng bậc thang"},
+        {"word": "culture", "partOfSpeech": "n", "pronunciation": "/ˈkʌl.tʃər/", "meaning": "văn hóa"},
+        {"word": "folk dance", "partOfSpeech": "n", "pronunciation": "/fəʊk dæns/", "meaning": "múa dân gian"},
+        {"word": "musical instrument", "partOfSpeech": "n", "pronunciation": "/ˈmjuː.zɪ.kəl ˈɪn.strə.mənt/", "meaning": "nhạc cụ"},
+        {"word": "five-colour sticky rice", "partOfSpeech": "n", "pronunciation": "/faɪv ˈkʌl.ər ˈstɪk.i raɪs/", "meaning": "xôi ngũ sắc"},
+        {"word": "minority group", "partOfSpeech": "n", "pronunciation": "/maɪˈnɒr.ə.ti ɡruːp/", "meaning": "nhóm thiểu số"},
+        {"word": "stilt house", "partOfSpeech": "n", "pronunciation": "/stɪlt haʊs/", "meaning": "nhà sàn"},
+        {"word": "costume", "partOfSpeech": "n", "pronunciation": "/ˈkɒs.tjuːm/", "meaning": "trang phục"}
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "multiple_choice",
+      "exerciseNumber": "Bài 2 trang 41",
+      "instruction": "Choose the correct answer",
+      "instructionVi": "Chọn đáp án đúng",
+      "questions": [
+        {"id": 1, "correctAnswer": "C"},
+        {"id": 2, "correctAnswer": "B"},
+        {"id": 3, "correctAnswer": "A"}
+      ],
+      "points": 30
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "matching",
+      "exerciseNumber": "Bài 3 trang 41",
+      "instruction": "Match the pictures with the words",
+      "instructionVi": "Nối tranh với các từ",
+      "questions": [
+        {"id": 1, "correctAnswer": "c"},
+        {"id": 2, "correctAnswer": "a"},
+        {"id": 3, "correctAnswer": "d"},
+        {"id": 4, "correctAnswer": "b"}
+      ],
+      "points": 20
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "fill_blank",
+      "exerciseNumber": "Bài 4 trang 41",
+      "instruction": "Complete the sentences with the correct words",
+      "instructionVi": "Hoàn thành các câu với từ đúng",
+      "questions": [
+        {"id": 1, "sentence": "I like bamboo dancing, a popular dance of the Thai people.", "correctAnswer": "folk dance"},
+        {"id": 2, "sentence": "Their beautiful stilt house _____ a large paddy field.", "correctAnswer": "overlook"},
+        {"id": 3, "sentence": "What is the name of a popular _____ of the Tay people?", "correctAnswer": "musical instrument"},
+        {"id": 4, "sentence": "Each ethnic group has its own _____ culture.", "correctAnswer": "traditional"},
+        {"id": 5, "sentence": "Among 54 _____, the Kinh is the largest.", "correctAnswer": "ethnic groups"}
+      ],
+      "points": 50
+    }
+  ],
+
+  "stats": {
+    "vocabularyCount": 10,
+    "exerciseCount": 3,
+    "dialogueLines": 0,
+    "hasReading": false,
+    "hasListening": false
+  },
+
+  "rewards": {
+    "xpTotal": 130,
+    "badges": ["ethnic_explorer"]
+  }
+}

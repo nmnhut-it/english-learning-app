@@ -1,0 +1,98 @@
+{
+  "id": "g8-u03-looking-back",
+  "grade": 8,
+  "unit": 3,
+  "unitTitle": "Teenagers",
+  "section": "looking_back",
+  "sectionTitle": "Looking Back",
+  "sourceFile": "markdown-files/g8/unit-03/g8_u03_looking-back.md",
+  "processedAt": "2024-12-31T15:40:00Z",
+  "estimatedDuration": 20,
+
+  "blocks": [
+    {
+      "type": "exercise",
+      "exerciseType": "categorize",
+      "exerciseNumber": "Bài 1 trang 36",
+      "instruction": "Put the words/phrases into the correct categories",
+      "instructionVi": "Đặt các từ/cụm từ vào đúng nhóm",
+      "categories": {
+        "Activities on social media": ["uploading a picture", "browsing a website", "checking notifications", "connecting with friends"],
+        "Causes of teen stress": ["peer pressure", "too much schoolwork", "spending too much time on social media", "bullying"]
+      },
+      "points": 40
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "fill_blank",
+      "exerciseNumber": "Bài 2 trang 36",
+      "instruction": "Complete the paragraph with the correct words",
+      "instructionVi": "Hoàn thành đoạn văn với từ đúng",
+      "passage": "Mike has a busy and active life. He does well at school and (1)_____ in many clubs like basketball and chess. He is also a member of the school's community projects, where he (2)_____ with other teenagers and learns new (3)_____. He has many classes, but he can still manage his studies well. Mike is also an active member in his class forum. He and his friends (4)_____ pictures and videos about their class activities. They also discuss their homework, their problems, and how to deal with pressure from parents, friends, and schoolwork. The most common problem they discuss is how to deal with (5)_____.",
+      "questions": [
+        {"id": 1, "correctAnswer": "participates"},
+        {"id": 2, "correctAnswer": "connects"},
+        {"id": 3, "correctAnswer": "skills"},
+        {"id": 4, "correctAnswer": "upload"},
+        {"id": 5, "correctAnswer": "bullies"}
+      ],
+      "points": 50
+    },
+    {
+      "type": "grammar",
+      "topic": "Review: Compound Sentences with Conjunctions",
+      "topicVi": "Ôn tập: Câu ghép với liên từ",
+      "formula": {
+        "conjunctions": {
+          "so": "vì thế",
+          "but": "nhưng",
+          "however": "tuy nhiên",
+          "otherwise": "nếu không thì",
+          "therefore": "vì vậy"
+        }
+      }
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "fill_blank",
+      "exerciseNumber": "Bài 3 trang 36",
+      "instruction": "Complete the sentences with the correct conjunctions",
+      "instructionVi": "Hoàn thành các câu với liên từ đúng",
+      "questions": [
+        {"id": 1, "sentence": "Mai is the head of the music club _____ she knows the members very well.", "correctAnswer": "so"},
+        {"id": 2, "sentence": "Lan wanted to go to the party _____ she had too much homework.", "correctAnswer": "but"},
+        {"id": 3, "sentence": "Tom felt stressed; _____, he tried to finish his homework.", "correctAnswer": "however"},
+        {"id": 4, "sentence": "He isn't a member of the chess club; _____, he won't join the chess competition.", "correctAnswer": "therefore"},
+        {"id": 5, "sentence": "We will have a short holiday; _____, we will feel very stressed.", "correctAnswer": "otherwise"}
+      ],
+      "points": 50
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "sentence_writing",
+      "exerciseNumber": "Bài 4 trang 36",
+      "instruction": "Combine the sentences using the given conjunctions",
+      "instructionVi": "Nối các câu sử dụng liên từ cho sẵn",
+      "questions": [
+        {"id": 1, "correctAnswer": "Teens need to have good health, so parents want them to join sports club."},
+        {"id": 2, "correctAnswer": "His parents have high expectations of him, but he did the exams not very well."},
+        {"id": 3, "correctAnswer": "Teenagers should develop social skills; otherwise they will be left behind."},
+        {"id": 4, "correctAnswer": "We sometimes feel lonely and sad; therefore, we should always stay positive and find some hobbies."},
+        {"id": 5, "correctAnswer": "He does very well at school; however, he is not a good son at home."}
+      ],
+      "points": 50
+    }
+  ],
+
+  "stats": {
+    "vocabularyCount": 0,
+    "exerciseCount": 4,
+    "dialogueLines": 0,
+    "hasGrammar": true
+  },
+
+  "rewards": {
+    "xpTotal": 200,
+    "badges": ["unit_complete"]
+  }
+}

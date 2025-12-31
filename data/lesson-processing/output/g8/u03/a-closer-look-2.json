@@ -1,0 +1,120 @@
+{
+  "id": "g8-u03-a-closer-look-2",
+  "grade": 8,
+  "unit": 3,
+  "unitTitle": "Teenagers",
+  "section": "a_closer_look_2",
+  "sectionTitle": "A Closer Look 2",
+  "sourceFile": "markdown-files/g8/unit-03/g8_u03_a-closer-look-2.md",
+  "processedAt": "2024-12-31T15:20:00Z",
+  "estimatedDuration": 20,
+
+  "blocks": [
+    {
+      "type": "grammar",
+      "topic": "Simple and Compound Sentences",
+      "topicVi": "Câu đơn và câu ghép",
+      "formula": {
+        "simpleSentence": "One independent clause",
+        "compoundSentence": "Two or more independent clauses joined by conjunctions",
+        "conjunctions": {
+          "coordinating": ["and", "but", "or", "so", "for"],
+          "conjunctiveAdverbs": ["however", "therefore", "otherwise"]
+        }
+      },
+      "usage": [
+        {
+          "type": "Simple sentence",
+          "typeVi": "Câu đơn",
+          "example": "Teenagers are often very active and talkative.",
+          "exampleVi": "Thanh thiếu niên thường rất năng động và nói nhiều."
+        },
+        {
+          "type": "Compound with 'and'",
+          "typeVi": "Câu ghép với 'and'",
+          "example": "She is a smart student, and she is an active member of our club.",
+          "exampleVi": "Cô ấy là một học sinh thông minh, và cô ấy là một thành viên tích cực trong câu lạc bộ của chúng tôi."
+        },
+        {
+          "type": "Compound with 'but'",
+          "typeVi": "Câu ghép với 'but'",
+          "example": "He is a club member, but he has never participated in any activity.",
+          "exampleVi": "Anh ấy là thành viên câu lạc bộ, nhưng anh ấy chưa bao giờ tham gia bất kỳ hoạt động nào."
+        }
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "categorize",
+      "exerciseNumber": "Bài 1 trang 31",
+      "instruction": "Identify which sentences are simple sentences",
+      "instructionVi": "Xác định câu nào là câu đơn",
+      "questions": [
+        {"id": 1, "sentence": "We work together on different projects.", "isSimple": true},
+        {"id": 2, "sentence": "Teenagers need good friends and tolerant teachers at school.", "isSimple": true},
+        {"id": 3, "sentence": "She plays chess very well, and she won the first prize last year.", "isSimple": false},
+        {"id": 4, "sentence": "Sports activities at school help me relax.", "isSimple": true},
+        {"id": 5, "sentence": "Teenagers should learn to work in groups and they should also have communication skills.", "isSimple": false}
+      ],
+      "correctAnswers": [1, 2, 4],
+      "points": 25
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "categorize",
+      "exerciseNumber": "Bài 2 trang 31",
+      "instruction": "Label S for simple sentence and C for compound sentence",
+      "instructionVi": "Ghi S cho câu đơn và C cho câu ghép",
+      "questions": [
+        {"id": 1, "sentence": "Teenagers are often very active and talkative.", "correctAnswer": "S"},
+        {"id": 2, "sentence": "He often chats with friends on Facebook Messenger.", "correctAnswer": "S"},
+        {"id": 3, "sentence": "She is a smart student, and she is an active member in our club.", "correctAnswer": "C"},
+        {"id": 4, "sentence": "My friends and I participated in a sports competition last year.", "correctAnswer": "S"},
+        {"id": 5, "sentence": "He is a club member, but he has never participated in any activity.", "correctAnswer": "C"}
+      ],
+      "points": 25
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "multiple_choice",
+      "exerciseNumber": "Bài 3 trang 31",
+      "instruction": "Choose the correct conjunction to complete each sentence",
+      "instructionVi": "Chọn liên từ đúng để hoàn thành mỗi câu",
+      "questions": [
+        {"id": 1, "sentence": "Parents should give their children some freedom, _____ they should also set limits.", "correctAnswer": "C (but)"},
+        {"id": 2, "sentence": "We don't cheat in exams, _____ it is wrong to do so.", "correctAnswer": "B (for)"},
+        {"id": 3, "sentence": "Lan wants to join the school music club; _____, she can't sing or play any instruments.", "correctAnswer": "A (however)"},
+        {"id": 4, "sentence": "Schoolwork gives teenagers a lot of pressure _____ they also feel pressure from parents.", "correctAnswer": "A (and)"},
+        {"id": 5, "sentence": "She wanted to prepare for the exam; _____ she turned off her mobile phone.", "correctAnswer": "C (therefore)"}
+      ],
+      "points": 50
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "sentence_writing",
+      "exerciseNumber": "Bài 4 trang 32",
+      "instruction": "Combine the sentences using the given conjunctions",
+      "instructionVi": "Nối các câu sử dụng liên từ cho sẵn",
+      "questions": [
+        {"id": 1, "correctAnswer": "Phong has to study harder; otherwise, he may fail the exam."},
+        {"id": 2, "correctAnswer": "She is very sensitive; therefore, don't comment on her new hairstyle."},
+        {"id": 3, "correctAnswer": "Mi wants to have more friends but she doesn't connect well with others."},
+        {"id": 4, "correctAnswer": "Students can work in groups or students can work in pairs."},
+        {"id": 5, "correctAnswer": "My friend likes showing off her new things so she often posts pictures on social media."}
+      ],
+      "points": 50
+    }
+  ],
+
+  "stats": {
+    "vocabularyCount": 0,
+    "exerciseCount": 4,
+    "dialogueLines": 0,
+    "hasGrammar": true
+  },
+
+  "rewards": {
+    "xpTotal": 150,
+    "badges": ["grammar_builder"]
+  }
+}

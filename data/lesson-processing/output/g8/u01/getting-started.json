@@ -1,0 +1,114 @@
+{
+  "id": "g8-u01-getting-started",
+  "grade": 8,
+  "unit": 1,
+  "unitTitle": "Leisure Time",
+  "section": "getting_started",
+  "sectionTitle": "Getting Started",
+  "sourceFile": "markdown-files/g8/unit-01/g8_u01_getting-started.md",
+  "processedAt": "2024-12-31T14:00:00Z",
+  "estimatedDuration": 25,
+
+  "blocks": [
+    {
+      "type": "vocabulary",
+      "context": "Leisure activities vocabulary",
+      "items": [
+        {"word": "surprised", "partOfSpeech": "adj", "pronunciation": "/səˈpraɪzd/", "meaning": "ngạc nhiên"},
+        {"word": "knitting kit", "partOfSpeech": "n", "pronunciation": "/ˈnɪtɪŋ kɪt/", "meaning": "bộ đan len"},
+        {"word": "keen on", "partOfSpeech": "adj", "pronunciation": "/kiːn ɒn/", "meaning": "thích"},
+        {"word": "DIY activities", "partOfSpeech": "n", "pronunciation": "/ˌdiː.aɪˈwaɪ ækˈtɪvɪtiz/", "meaning": "các hoạt động tự làm"},
+        {"word": "leisure time", "partOfSpeech": "n", "pronunciation": "/ˈlɛʒə taɪm/", "meaning": "thời gian rảnh"},
+        {"word": "make paper flowers", "partOfSpeech": "v", "pronunciation": "/meɪk ˈpeɪpə ˈflaʊəz/", "meaning": "làm hoa giấy"},
+        {"word": "spending time on your own", "partOfSpeech": "v", "pronunciation": "/ˈspɛndɪŋ taɪm ɒn jɔː əʊn/", "meaning": "dành thời gian một mình"},
+        {"word": "free time", "partOfSpeech": "n", "pronunciation": "/friː taɪm/", "meaning": "thời gian rảnh"},
+        {"word": "hang out with friends", "partOfSpeech": "v", "pronunciation": "/hæŋ aʊt wɪð frɛndz/", "meaning": "đi chơi với bạn bè"},
+        {"word": "go to the cinema", "partOfSpeech": "v", "pronunciation": "/ɡəʊ tuː ðə ˈsɪnɪmə/", "meaning": "đi xem phim"},
+        {"word": "go cycling", "partOfSpeech": "v", "pronunciation": "/ɡəʊ ˈsaɪklɪŋ/", "meaning": "đi xe đạp"},
+        {"word": "play sport", "partOfSpeech": "v", "pronunciation": "/pleɪ spɔːt/", "meaning": "chơi thể thao"},
+        {"word": "new comedy", "partOfSpeech": "n", "pronunciation": "/njuː ˈkɒmədi/", "meaning": "phim hài mới"},
+        {"word": "doing puzzles", "partOfSpeech": "n", "pronunciation": "/ˈduːɪŋ ˈpʌzlz/", "meaning": "giải câu đố"},
+        {"word": "surfing the net", "partOfSpeech": "n", "pronunciation": "/ˈsɜːfɪŋ ðə nɛt/", "meaning": "lướt web"},
+        {"word": "cooking", "partOfSpeech": "n", "pronunciation": "/ˈkʊkɪŋ/", "meaning": "nấu ăn"},
+        {"word": "messaging friends", "partOfSpeech": "v", "pronunciation": "/ˈmɛsɪdʒɪŋ frɛndz/", "meaning": "nhắn tin với bạn bè"}
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "Tom and Trang talk about leisure activities",
+      "context": "At a shop",
+      "lines": [
+        {"speaker": "Tom", "text": "Hi, Trang. Surprised to see you. What brings you here?", "textVi": "Chào, Trang. Ngạc nhiên khi thấy bạn. Điều gì đưa bạn đến đây?"},
+        {"speaker": "Trang", "text": "Oh, hi Tom. I'm looking for a knitting kit.", "textVi": "Ồ, chào Tom. Tôi đang tìm bộ dụng cụ đan len."},
+        {"speaker": "Tom", "text": "A knitting kit? I didn't know you were keen on knitting.", "textVi": "Một bộ dụng cụ đan len? Tôi không biết bạn thích đan len."},
+        {"speaker": "Trang", "text": "Actually, I'm keen on many DIY activities. In my leisure time, I enjoy knitting, building dollhouses, and making paper flowers.", "textVi": "Thực ra, tôi thích nhiều hoạt động tự làm. Trong thời gian rảnh, tôi thích đan len, xây dựng nhà búp bê, và làm hoa giấy."},
+        {"speaker": "Tom", "text": "I see. So, you like spending time on your own.", "textVi": "Tôi hiểu. Vậy, bạn thích dành thời gian một mình."},
+        {"speaker": "Trang", "text": "That's right. What do you do in your free time?", "textVi": "Đúng vậy. Bạn làm gì trong thời gian rảnh?"},
+        {"speaker": "Tom", "text": "I'm a bit different. I usually hang out with my friends. We go to the cinema, go cycling, or play sport in the park.", "textVi": "Tôi hơi khác. Tôi thường đi chơi với bạn bè. Chúng tôi đi xem phim, đi xe đạp, hoặc chơi thể thao trong công viên."},
+        {"speaker": "Trang", "text": "You like spending your free time with other people, right?", "textVi": "Bạn thích dành thời gian rảnh với người khác, đúng không?"},
+        {"speaker": "Tom", "text": "Exactly. By the way, would you like to go to the cinema with me and Mark this Sunday? There's a new comedy at New World Cinema.", "textVi": "Đúng rồi. Nhân tiện, bạn có muốn đi xem phim với tôi và Mark vào Chủ Nhật này không? Có một bộ phim hài mới tại Rạp chiếu phim New World."},
+        {"speaker": "Trang", "text": "Yes, I'd love to. Can I invite Mai to join us?", "textVi": "Vâng, tôi rất muốn. Tôi có thể mời Mai tham gia cùng không?"},
+        {"speaker": "Tom", "text": "Of course. Let's meet outside the cinema at 9 a.m.", "textVi": "Chắc chắn rồi. Gặp nhau ngoài rạp chiếu phim lúc 9 giờ sáng nhé."}
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "fill_blank",
+      "exerciseNumber": "Bài 2 trang 9",
+      "instruction": "Complete the sentences based on the dialogue",
+      "instructionVi": "Hoàn thành các câu dựa vào đoạn hội thoại",
+      "questions": [
+        {"id": 1, "sentence": "Trang is looking for a _____.", "correctAnswer": "knitting kit"},
+        {"id": 2, "sentence": "Trang is keen on many DIY activities in her _____.", "correctAnswer": "leisure time"},
+        {"id": 3, "sentence": "Tom usually spends his free time with _____.", "correctAnswer": "other people"},
+        {"id": 4, "sentence": "Tom usually _____ with his friends.", "correctAnswer": "hang out"},
+        {"id": 5, "sentence": "They will meet on _____.", "correctAnswer": "Sunday"}
+      ],
+      "points": 50
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "matching",
+      "exerciseNumber": "Bài 3 trang 9",
+      "instruction": "Match the pictures with the leisure activities",
+      "instructionVi": "Nối tranh với các hoạt động giải trí",
+      "questions": [
+        {"id": 1, "correctAnswer": "messaging friends"},
+        {"id": 2, "correctAnswer": "cooking"},
+        {"id": 3, "correctAnswer": "playing sport"},
+        {"id": 4, "correctAnswer": "doing puzzles"},
+        {"id": 5, "correctAnswer": "doing DIY"},
+        {"id": 6, "correctAnswer": "surfing the net"}
+      ],
+      "points": 30
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "matching",
+      "exerciseNumber": "Bài 4 trang 9",
+      "instruction": "Match the leisure activities with their benefits",
+      "instructionVi": "Nối các hoạt động giải trí với lợi ích của chúng",
+      "questions": [
+        {"id": 1, "benefit": "improve memory, train the brain", "benefitVi": "cải thiện trí nhớ, rèn luyện trí óc", "correctAnswer": "doing puzzles"},
+        {"id": 2, "benefit": "save money, increase creativity", "benefitVi": "tiết kiệm tiền, tăng khả năng sáng tạo", "correctAnswer": "doing DIY"},
+        {"id": 3, "benefit": "improve physical health, make friends", "benefitVi": "nâng cao sức khỏe thể chất, giao lưu kết bạn", "correctAnswer": "playing sport"},
+        {"id": 4, "benefit": "keep in touch, relax", "benefitVi": "giữ liên lạc, thư giãn", "correctAnswer": "messaging friends"},
+        {"id": 5, "benefit": "learn about IT", "benefitVi": "học gì đó về CNTT, tin học", "correctAnswer": "surfing the net"}
+      ],
+      "points": 25
+    }
+  ],
+
+  "stats": {
+    "vocabularyCount": 17,
+    "exerciseCount": 3,
+    "dialogueLines": 11,
+    "hasReading": false,
+    "hasListening": false
+  },
+
+  "rewards": {
+    "xpTotal": 150,
+    "badges": ["conversation_starter"]
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "id": "g8-u04-skills-1",
+  "grade": 8,
+  "unit": 4,
+  "unitTitle": "Ethnic Groups of Viet Nam",
+  "section": "skills_1",
+  "sectionTitle": "Skills 1",
+  "sourceFile": "markdown-files/g8/unit-04/g8_u04_skills-1.md",
+  "processedAt": "2024-12-31T16:05:00Z",
+  "estimatedDuration": 30,
+
+  "blocks": [
+    {
+      "type": "vocabulary",
+      "context": "Stilt houses vocabulary",
+      "items": [
+        {"word": "stilt house", "partOfSpeech": "n", "pronunciation": "/stɪlt haʊs/", "meaning": "nhà sàn"},
+        {"word": "highland", "partOfSpeech": "n", "pronunciation": "/ˈhaɪ.lənd/", "meaning": "cao nguyên"},
+        {"word": "delta", "partOfSpeech": "n", "pronunciation": "/ˈdel.tə/", "meaning": "đồng bằng"},
+        {"word": "material", "partOfSpeech": "n", "pronunciation": "/məˈtɪə.ri.əl/", "meaning": "vật liệu"},
+        {"word": "post", "partOfSpeech": "n", "pronunciation": "/pəʊst/", "meaning": "cây cột"},
+        {"word": "family gathering", "partOfSpeech": "n", "pronunciation": "/ˈfæm.ə.li ˈɡæð.ər.ɪŋ/", "meaning": "đoàn tụ gia đình"},
+        {"word": "receive guests", "partOfSpeech": "v", "pronunciation": "/rɪˈsiːv ɡests/", "meaning": "tiếp khách"},
+        {"word": "overlook", "partOfSpeech": "v", "pronunciation": "/ˌəʊ.vəˈlʊk/", "meaning": "nhìn ra"}
+      ]
+    },
+    {
+      "type": "reading",
+      "title": "Stilt Houses",
+      "text": "Stilt houses are popular among different ethnic minority groups, from the Thai in the Northern Highlands to the Khmer in the Mekong Delta. The houses have different shapes and sizes, and show the traditional culture of their owners.\n\nStilt houses are made from natural materials like wood, bamboo, and leaves. They stand on strong posts, about two or three metres above the ground. This allows them to keep people safe from wild animals. People climb a staircase of seven or nine steps to enter the house. The most important part of the house is the kitchen. It has an open fire in the middle of the house. It is the place for family gatherings and receiving guests.\n\nThe stilt houses of the Tay and Nung often overlook a field. The stilt houses of the Thai, however, face the mountains or a forest. The Bahnar and Ede have a communal house (called a Rong house) as the heart of their village. These communal houses are the biggest and tallest in the village.",
+      "textVi": "Nhà sàn thì phổ biến trong những nhóm dân tộc thiểu số khác nhau, từ người Thái ở Cao Nguyên phía Bắc tới người Khmer ở đồng bằng sông Mê-kông. Những ngôi nhà có hình dáng và kích thước khác nhau, và cho thấy văn hóa truyền thống của những chủ nhân của nó.\n\nNhững ngôi nhà sàn được làm từ vật liệu tự nhiên như gỗ, tre và lá cây. Chúng đứng trên những cây cột mạnh, khoảng hai hoặc ba mét trên mặt đất. Việc này cho phép chúng giữ người ta an toàn khỏi động vật hoang dã. Người ta leo một bậc thang bảy hoặc chín bước để vào nhà. Phần quan trọng nhất trong ngồi nhà là bếp. Nó có một ngọn lửa mở ở giữa ngôi nhà. Nó là nơi cho việc tụ họp gia đình và đón khách.\n\nNhững ngôi nhà sàn của người Tày và Nùng thường nhìn ra một cánh đồng. Những nhà sàn của người Thái, tuy nhiên, đối mặt các ngọn núi hoặc một khu rừng. Người Ba-na và Ê-đê có một ngôi nhà cộng đồng (gọi là một nhà Rông) như là trái tim của ngôi làng của họ."
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "true_false",
+      "exerciseNumber": "Bài 2 trang 45",
+      "instruction": "Read and decide True or False",
+      "instructionVi": "Đọc và quyết định Đúng hay Sai",
+      "questions": [
+        {"id": 1, "statement": "Only a few minority groups live in stilt houses.", "correctAnswer": "F"},
+        {"id": 2, "statement": "All stilt houses look the same.", "correctAnswer": "F"},
+        {"id": 3, "statement": "Family gatherings take place near the fire in the middle of the house.", "correctAnswer": "T"},
+        {"id": 4, "statement": "The Rong house serves as the center of the Ede village.", "correctAnswer": "T"}
+      ],
+      "points": 40
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "fill_blank",
+      "exerciseNumber": "Bài 3 trang 45",
+      "instruction": "Complete the sentences based on the reading",
+      "instructionVi": "Hoàn thành các câu dựa vào bài đọc",
+      "questions": [
+        {"id": 1, "sentence": "The houses show the _____ culture of their owners.", "correctAnswer": "traditional"},
+        {"id": 2, "sentence": "The stilt houses of the Tay and Nung often overlook _____.", "correctAnswer": "a field"},
+        {"id": 3, "sentence": "The Thai stilt houses face the _____ or _____.", "correctAnswer": "forest, mountains"},
+        {"id": 4, "sentence": "The _____ house is the heart of the Bahnar village.", "correctAnswer": "Rong/communal"}
+      ],
+      "points": 40
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "speaking",
+      "exerciseNumber": "Bài 4 trang 45",
+      "instruction": "Answer questions about your house",
+      "instructionVi": "Trả lời các câu hỏi về ngôi nhà của em",
+      "questions": [
+        {"id": 1, "question": "What type of house do you live in?", "sampleAnswer": "I live in a detached house/brickhouse in the city."},
+        {"id": 2, "question": "What is it made/built from?", "sampleAnswer": "It is built out of brick."},
+        {"id": 3, "question": "What is the most important part?", "sampleAnswer": "The most important part is the living room. It is where my family gather and enjoy peaceful moments together."}
+      ],
+      "points": 30
+    },
+    {
+      "type": "listening",
+      "title": "Listening about ethnic groups",
+      "exerciseNumber": "Bài 2-3 trang 45",
+      "description": "Listen and answer questions"
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "multiple_choice",
+      "exerciseNumber": "Bài 3 trang 45",
+      "instruction": "Listen and choose the correct answer",
+      "instructionVi": "Nghe và chọn đáp án đúng",
+      "questions": [
+        {"id": 1, "correctAnswer": "C"},
+        {"id": 2, "correctAnswer": "A"},
+        {"id": 3, "correctAnswer": "B"},
+        {"id": 4, "correctAnswer": "C"},
+        {"id": 5, "correctAnswer": "A"}
+      ],
+      "points": 50
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "writing",
+      "exerciseNumber": "Bài 5 trang 45",
+      "instruction": "Write about five things you do to help your family",
+      "instructionVi": "Viết về năm việc em làm để giúp gia đình",
+      "sampleAnswer": {
+        "text": "I usually help my family do things. Firstly, I prepare food and sometimes help my mother cook meals. Second, I usually take responsibility for doing the dishes after meals. I also do the laundry at weekends. Sometimes, I help with cleaning the house, too. Housework keeps our family close together.",
+        "textVi": "Tôi thường giúp gia đình làm việc nhà. Đầu tiên, tôi chuẩn bị thức ăn và đôi khi giúp mẹ nấu ăn. Thứ hai, tôi thường chịu trách nhiệm rửa bát sau bữa ăn. Tôi cũng giặt đồ vào cuối tuần. Đôi khi, tôi cũng giúp dọn dẹp nhà cửa. Công việc nhà giúp gia đình chúng tôi gắn kết với nhau."
+      },
+      "points": 50
+    }
+  ],
+
+  "stats": {
+    "vocabularyCount": 8,
+    "exerciseCount": 5,
+    "dialogueLines": 0,
+    "hasReading": true,
+    "hasListening": true
+  },
+
+  "rewards": {
+    "xpTotal": 210,
+    "badges": ["reading_star", "listening_star"]
+  }
+}

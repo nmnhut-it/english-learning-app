@@ -1,0 +1,103 @@
+{
+  "id": "g8-u02-communication",
+  "grade": 8,
+  "unit": 2,
+  "unitTitle": "Life in the Countryside",
+  "section": "communication",
+  "sectionTitle": "Communication",
+  "sourceFile": "markdown-files/g8/unit-02/g8_u02_communication.md",
+  "processedAt": "2024-12-31T14:50:00Z",
+  "estimatedDuration": 25,
+
+  "blocks": [
+    {
+      "type": "grammar",
+      "topic": "Exclamatory Sentences",
+      "topicVi": "Câu cảm thán",
+      "formula": {
+        "structure": "What + (a/an) + adj + N + (S + V)!",
+        "response": "Thanks. I'm glad you like it."
+      },
+      "usage": [
+        {
+          "example": "What a beautiful village!",
+          "exampleVi": "Ngôi làng đẹp làm sao!",
+          "response": "Thanks. I'm glad you like it."
+        },
+        {
+          "example": "What an amazing view!",
+          "exampleVi": "Khung cảnh tuyệt vời làm sao!",
+          "response": "Thanks. I'm glad you like it."
+        }
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "context": "Ancient villages vocabulary",
+      "items": [
+        {"word": "ancient", "partOfSpeech": "adj", "pronunciation": "/ˈeɪnʃənt/", "meaning": "cổ kính"},
+        {"word": "situated", "partOfSpeech": "v", "pronunciation": "/ˈsɪtʃueɪtɪd/", "meaning": "nằm ở"},
+        {"word": "pagoda", "partOfSpeech": "n", "pronunciation": "/pəˈɡəʊdə/", "meaning": "chùa"},
+        {"word": "temple", "partOfSpeech": "n", "pronunciation": "/ˈtɛmpl/", "meaning": "đền"},
+        {"word": "observe", "partOfSpeech": "v", "pronunciation": "/əbˈzɜːv/", "meaning": "quan sát"},
+        {"word": "locals", "partOfSpeech": "n", "pronunciation": "/ˈləʊkəlz/", "meaning": "người dân địa phương"},
+        {"word": "specialties", "partOfSpeech": "n", "pronunciation": "/ˈspɛʃəltiz/", "meaning": "đặc sản"},
+        {"word": "island", "partOfSpeech": "n", "pronunciation": "/ˈaɪlənd/", "meaning": "đảo"},
+        {"word": "historical", "partOfSpeech": "adj", "pronunciation": "/hɪsˈtɒrɪkəl/", "meaning": "lịch sử"},
+        {"word": "cultural", "partOfSpeech": "adj", "pronunciation": "/ˈkʌltʃərəl/", "meaning": "văn hóa"},
+        {"word": "museum", "partOfSpeech": "n", "pronunciation": "/mjuːˈzɪəm/", "meaning": "bảo tàng"},
+        {"word": "church", "partOfSpeech": "n", "pronunciation": "/ʧɜːʧ/", "meaning": "nhà thờ"},
+        {"word": "lighthouse", "partOfSpeech": "n", "pronunciation": "/ˈlaɪthaʊs/", "meaning": "ngọn hải đăng"},
+        {"word": "sightseeing", "partOfSpeech": "n", "pronunciation": "/ˈsaɪtsiːɪŋ/", "meaning": "tham quan"},
+        {"word": "kite-flying", "partOfSpeech": "n", "pronunciation": "/kaɪt-ˈflaɪɪŋ/", "meaning": "thả diều"},
+        {"word": "surfing", "partOfSpeech": "n", "pronunciation": "/ˈsɜːfɪŋ/", "meaning": "lướt sóng"},
+        {"word": "ferry", "partOfSpeech": "n", "pronunciation": "/ˈfɛri/", "meaning": "phà"}
+      ]
+    },
+    {
+      "type": "reading",
+      "title": "Two Ancient Villages",
+      "passages": [
+        {
+          "title": "Duong Lam Village",
+          "titleVi": "Làng Đường Lâm",
+          "text": "Duong Lam, one of the oldest villages in Ha Noi, is situated in Son Tay. Visitors can get there from central Ha Noi by car, bus, or even bicycle. It is famous for its ancient pagoda, traditional houses, and temples. Besides, visitors can observe the locals making specialties, such as keo doi, che lam, etc. and then try them.",
+          "textVi": "Đường Lâm, một trong những ngôi làng cổ nhất ở Hà Nội, nằm ở Sơn Tây. Du khách có thể đến đó từ trung tâm Hà Nội bằng ô tô, xe buýt hoặc thậm chí bằng xe đạp. Nó nổi tiếng với ngôi chùa cổ, những ngôi nhà truyền thống và những ngôi đền. Bên cạnh đó, du khách có thể quan sát người dân địa phương làm đặc sản, chẳng hạn như kẹo dồi, chè lam, v.v và sau đó thử chúng."
+        },
+        {
+          "title": "Hollum Village",
+          "titleVi": "Làng Hollum",
+          "text": "Hollum is one of the old villages on Ameland Island, Netherlands. Many visitors come to the village for its historical and cultural values. The place is full of attractive sights such as traditional houses, museums, churches, a lighthouse, etc. Besides sightseeing, visitors can take part in sports like kite-flying, surfing, etc. Visitors can go to the village by air or ferry.",
+          "textVi": "Hollum là một trong những ngôi làng cổ trên đảo Ameland, Hà Lan. Nhiều du khách đến làng vì giá trị lịch sử và văn hóa của nó. Nơi đây có đầy đủ các điểm tham quan hấp dẫn như nhà truyền thống, bảo tàng, nhà thờ, ngọn hải đăng, v.v. Ngoài tham quan, du khách còn có thể tham gia các môn thể thao như thả diều, lướt sóng, v.v. Du khách có thể đến làng bằng đường hàng không hoặc phà."
+        }
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "categorize",
+      "exerciseNumber": "Bài 3 trang 23",
+      "instruction": "Decide which village each statement refers to",
+      "instructionVi": "Xác định câu nói về làng nào",
+      "questions": [
+        {"id": 1, "statement": "It has traditional houses.", "correctAnswer": "Both"},
+        {"id": 2, "statement": "Visitors can try local food.", "correctAnswer": "Duong Lam"},
+        {"id": 3, "statement": "It has a lighthouse.", "correctAnswer": "Hollum"},
+        {"id": 4, "statement": "Visitors can go by bicycle.", "correctAnswer": "Duong Lam"},
+        {"id": 5, "statement": "Visitors can do water sports.", "correctAnswer": "Hollum"}
+      ],
+      "points": 50
+    }
+  ],
+
+  "stats": {
+    "vocabularyCount": 17,
+    "exerciseCount": 1,
+    "dialogueLines": 0,
+    "hasReading": true
+  },
+
+  "rewards": {
+    "xpTotal": 130,
+    "badges": ["culture_explorer"]
+  }
+}

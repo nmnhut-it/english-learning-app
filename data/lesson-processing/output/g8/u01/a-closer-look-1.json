@@ -1,0 +1,129 @@
+{
+  "id": "g8-u01-a-closer-look-1",
+  "grade": 8,
+  "unit": 1,
+  "unitTitle": "Leisure Time",
+  "section": "a_closer_look_1",
+  "sectionTitle": "A Closer Look 1",
+  "sourceFile": "markdown-files/g8/unit-01/g8_u01_a-closer-look-1.md",
+  "processedAt": "2024-12-31T14:05:00Z",
+  "estimatedDuration": 20,
+
+  "blocks": [
+    {
+      "type": "grammar",
+      "topic": "Phrases of Liking",
+      "topicVi": "Cụm từ chỉ sự yêu thích",
+      "formula": {
+        "structure": "be + phrase + Ving",
+        "phrases": ["be fond of", "be keen on", "be interested in", "be crazy about", "be into"]
+      },
+      "usage": [
+        {
+          "phrase": "be fond of",
+          "meaning": "yêu thích",
+          "example": "I am fond of reading books.",
+          "exampleTranslation": "Tôi yêu thích đọc sách."
+        },
+        {
+          "phrase": "be keen on",
+          "meaning": "quan tâm đến, thích",
+          "example": "She is keen on cooking.",
+          "exampleTranslation": "Cô ấy thích nấu ăn."
+        },
+        {
+          "phrase": "be interested in",
+          "meaning": "quan tâm đến",
+          "example": "He is interested in learning languages.",
+          "exampleTranslation": "Anh ấy quan tâm đến việc học ngôn ngữ."
+        },
+        {
+          "phrase": "be crazy about",
+          "meaning": "phát cuồng vì",
+          "example": "They are crazy about playing football.",
+          "exampleTranslation": "Họ phát cuồng vì chơi bóng đá."
+        },
+        {
+          "phrase": "be into",
+          "meaning": "thích",
+          "example": "We are into surfing the net.",
+          "exampleTranslation": "Chúng tôi thích lướt web."
+        }
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "matching",
+      "exerciseNumber": "Bài 1 trang 10",
+      "instruction": "Match the phrases of liking with their meanings",
+      "instructionVi": "Nối các cụm từ chỉ sự yêu thích với nghĩa của chúng",
+      "questions": [
+        {"id": 1, "phrase": "be fond of", "correctAnswer": "yêu thích"},
+        {"id": 2, "phrase": "be keen on", "correctAnswer": "quan tâm đến"},
+        {"id": 3, "phrase": "be interested in", "correctAnswer": "quan tâm đến"},
+        {"id": 4, "phrase": "be crazy about", "correctAnswer": "phát cuồng vì"},
+        {"id": 5, "phrase": "be into", "correctAnswer": "thích"}
+      ],
+      "points": 25
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "fill_blank",
+      "exerciseNumber": "Bài 2 trang 10",
+      "instruction": "Complete the sentences with the correct words",
+      "instructionVi": "Hoàn thành các câu với từ đúng",
+      "questions": [
+        {"id": 1, "sentence": "I'm _____ of collecting stamps.", "correctAnswer": "fond"},
+        {"id": 2, "sentence": "Are you _____ in photography?", "correctAnswer": "interested"},
+        {"id": 3, "sentence": "She's really _____ on gardening.", "correctAnswer": "keen"},
+        {"id": 4, "sentence": "He's _____ video games these days.", "correctAnswer": "into"},
+        {"id": 5, "sentence": "They're crazy _____ dancing.", "correctAnswer": "about"}
+      ],
+      "points": 50
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "matching",
+      "exerciseNumber": "Bài 3 trang 10",
+      "instruction": "Match the pictures with the activities",
+      "instructionVi": "Nối tranh với các hoạt động",
+      "questions": [
+        {"id": 1, "correctAnswer": "doing puzzles"},
+        {"id": 2, "correctAnswer": "cooking"},
+        {"id": 3, "correctAnswer": "playing sports"},
+        {"id": 4, "correctAnswer": "messaging friends"},
+        {"id": 5, "correctAnswer": "surfing the net"}
+      ],
+      "points": 25
+    },
+    {
+      "type": "pronunciation",
+      "topic": "Clusters: /br/ and /pr/",
+      "topicVi": "Cụm phụ âm: /br/ và /pr/",
+      "sounds": [
+        {
+          "cluster": "/br/",
+          "examples": ["bring", "breakfast", "brother", "break", "brown"]
+        },
+        {
+          "cluster": "/pr/",
+          "examples": ["practice", "present", "prefer", "prepare", "problem"]
+        }
+      ],
+      "exerciseNumber": "Bài 5 trang 10"
+    }
+  ],
+
+  "stats": {
+    "vocabularyCount": 5,
+    "exerciseCount": 3,
+    "dialogueLines": 0,
+    "hasGrammar": true,
+    "hasPronunciation": true
+  },
+
+  "rewards": {
+    "xpTotal": 120,
+    "badges": ["phrase_master"]
+  }
+}

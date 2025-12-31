@@ -1,0 +1,104 @@
+{
+  "id": "g8-u03-skills-1",
+  "grade": 8,
+  "unit": 3,
+  "unitTitle": "Teenagers",
+  "section": "skills_1",
+  "sectionTitle": "Skills 1",
+  "sourceFile": "markdown-files/g8/unit-03/g8_u03_skills-1.md",
+  "processedAt": "2024-12-31T15:30:00Z",
+  "estimatedDuration": 25,
+
+  "blocks": [
+    {
+      "type": "vocabulary",
+      "context": "School clubs vocabulary",
+      "items": [
+        {"word": "badminton", "partOfSpeech": "n", "pronunciation": "/ˈbædmɪntən/", "meaning": "cầu lông"},
+        {"word": "chess", "partOfSpeech": "n", "pronunciation": "/tʃɛs/", "meaning": "cờ vua"},
+        {"word": "relaxing", "partOfSpeech": "adj", "pronunciation": "/rɪˈlæksɪŋ/", "meaning": "thư giãn"},
+        {"word": "fit", "partOfSpeech": "adj", "pronunciation": "/fɪt/", "meaning": "khỏe mạnh"},
+        {"word": "beforehand", "partOfSpeech": "adv", "pronunciation": "/bɪˈfɔːhænd/", "meaning": "trước đó"},
+        {"word": "concentrate", "partOfSpeech": "v", "pronunciation": "/ˈkɒnsəntreɪt/", "meaning": "tập trung"},
+        {"word": "focused", "partOfSpeech": "adj", "pronunciation": "/ˈfəʊkəst/", "meaning": "tập trung"},
+        {"word": "arts and crafts", "partOfSpeech": "n", "pronunciation": "/ɑːts ənd krɑːfts/", "meaning": "nghệ thuật và thủ công"},
+        {"word": "community service", "partOfSpeech": "n", "pronunciation": "/kəˈmjuːnɪti ˈsɜːvɪs/", "meaning": "dịch vụ cộng đồng"},
+        {"word": "practical", "partOfSpeech": "adj", "pronunciation": "/ˈpræktɪkəl/", "meaning": "thực tế"},
+        {"word": "teamwork", "partOfSpeech": "n", "pronunciation": "/ˈtiːmwɜːk/", "meaning": "làm việc nhóm"},
+        {"word": "coach", "partOfSpeech": "v", "pronunciation": "/kəʊtʃ/", "meaning": "huấn luyện"}
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "Mai and Tom discuss school clubs",
+      "context": "At school",
+      "lines": [
+        {"speaker": "Mai", "text": "Tom, so which club do you want to join?", "textVi": "Tom, vậy bạn muốn tham gia câu lạc bộ nào?"},
+        {"speaker": "Tom", "text": "I'm interested in two clubs: badminton and chess.", "textVi": "Tôi quan tâm đến hai câu lạc bộ: cầu lông và cờ vua."},
+        {"speaker": "Mai", "text": "I like badminton, too. It's relaxing.", "textVi": "Tôi cũng thích cầu lông. Thật thư giãn."},
+        {"speaker": "Tom", "text": "Yes, I play it to keep fit. So, let's join that club together.", "textVi": "Vâng, tôi chơi nó để giữ dáng. Vì vậy, hãy cùng nhau tham gia câu lạc bộ đó."},
+        {"speaker": "Mai", "text": "OK. It's on Tuesdays and Fridays from 5:00 p.m. to 6:30 p.m. It starts 30 minutes after school, so we have enough time for a snack beforehand. I know you like chess. Will you join the chess club?", "textVi": "Được. Đó là vào Thứ Ba và Thứ Sáu từ 5:00 chiều đến 6:30 chiều. Nó bắt đầu sau giờ học 30 phút, vì vậy chúng tôi có đủ thời gian để ăn nhẹ trước. Tôi biết bạn thích cờ vua. Bạn sẽ tham gia câu lạc bộ cờ vua chứ?"},
+        {"speaker": "Tom", "text": "Well, I started playing it 5 years ago. First, my mum sent me to a chess club because she wanted me to be more focused. Now I find that I can concentrate better. Do you like chess? Let's join the chess club, too.", "textVi": "Chà, tôi bắt đầu chơi nó cách đây 5 năm. Đầu tiên, mẹ tôi gửi tôi đến một câu lạc bộ cờ vua vì bà muốn tôi tập trung hơn. Bây giờ tôi thấy rằng tôi có thể tập trung tốt hơn. Bạn có thích cờ vua không? Hãy tham gia câu lạc bộ cờ vua nữa."},
+        {"speaker": "Mai", "text": "Actually, this year there's a new arts and crafts club, and I want to join it. I hear that members will work together on small community service projects. Members can do art projects and also improve practical and teamwork skills.", "textVi": "Thật ra, năm nay có một câu lạc bộ nghệ thuật và thủ công mới, và tôi muốn tham gia. Tôi nghe nói rằng các thành viên sẽ làm việc cùng nhau trong các dự án phục vụ cộng đồng nhỏ. Các thành viên có thể thực hiện các dự án nghệ thuật và cũng cải thiện kỹ năng thực hành cũng như kỹ năng làm việc nhóm."},
+        {"speaker": "Tom", "text": "Awesome, Mai. Who will coach that club?", "textVi": "Tuyệt vời, Mai. Ai sẽ huấn luyện câu lạc bộ đó?"},
+        {"speaker": "Mai", "text": "Ms Hoa, the art teacher. She will help us connect with the community.", "textVi": "Cô Hoa, giáo viên mỹ thuật. Cô ấy sẽ giúp chúng tôi kết nối với cộng đồng."}
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "true_false",
+      "exerciseNumber": "Bài 2 trang 34",
+      "instruction": "Read and decide True or False",
+      "instructionVi": "Đọc và quyết định Đúng hay Sai",
+      "questions": [
+        {"id": 1, "statement": "The school has badminton, chess, and arts and crafts clubs.", "correctAnswer": "T"},
+        {"id": 2, "statement": "The badminton club meets after school.", "correctAnswer": "T"},
+        {"id": 3, "statement": "Tom started playing chess when he was 5 years old.", "correctAnswer": "F"},
+        {"id": 4, "statement": "Arts and crafts club members do community activities.", "correctAnswer": "T"}
+      ],
+      "points": 40
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "multiple_choice",
+      "exerciseNumber": "Bài 3 trang 34",
+      "instruction": "Choose the correct answer",
+      "instructionVi": "Chọn đáp án đúng",
+      "questions": [
+        {"id": 1, "question": "Tom and Mai are discussing...", "correctAnswer": "B", "explanation": "their school club activities"},
+        {"id": 2, "question": "Tom started playing chess because...", "correctAnswer": "C", "explanation": "his mum wanted him to play"},
+        {"id": 3, "question": "Playing chess helps Tom...", "correctAnswer": "B", "explanation": "concentrate better"},
+        {"id": 4, "question": "The word 'it' refers to...", "correctAnswer": "B", "explanation": "the arts and crafts club"},
+        {"id": 5, "question": "Mai will join the arts and crafts club to...", "correctAnswer": "C", "explanation": "do art projects"}
+      ],
+      "points": 50
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "speaking",
+      "exerciseNumber": "Bài 4 trang 34",
+      "instruction": "Practice asking and answering about school clubs",
+      "instructionVi": "Thực hành hỏi và trả lời về các câu lạc bộ trong trường",
+      "sampleDialogues": [
+        {"question": "What is the contact number for the guitar club?", "answer": "The contact number is 0084 623486."},
+        {"question": "Who is the coach for the guitar club?", "answer": "The coach is Mr Quang, a professional guitarist."},
+        {"question": "What are the benefits of joining the guitar club?", "answer": "The benefits are enjoying music and making new friends."},
+        {"question": "What time does the painting club meet?", "answer": "It meets on Saturdays, from 9:00 a.m. to 10:30 a.m."},
+        {"question": "Where does the painting club meet?", "answer": "It meets in the School Hall, on the first floor."}
+      ],
+      "points": 30
+    }
+  ],
+
+  "stats": {
+    "vocabularyCount": 12,
+    "exerciseCount": 3,
+    "dialogueLines": 9,
+    "hasReading": true
+  },
+
+  "rewards": {
+    "xpTotal": 170,
+    "badges": ["club_enthusiast"]
+  }
+}

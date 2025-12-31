@@ -1,0 +1,71 @@
+{
+  "id": "g8-u04-a-closer-look-1",
+  "grade": 8,
+  "unit": 4,
+  "unitTitle": "Ethnic Groups of Viet Nam",
+  "section": "a_closer_look_1",
+  "sectionTitle": "A Closer Look 1",
+  "sourceFile": "markdown-files/g8/unit-04/g8_u04_a-closer-look-1.md",
+  "processedAt": "2024-12-31T15:50:00Z",
+  "estimatedDuration": 20,
+
+  "blocks": [
+    {
+      "type": "vocabulary",
+      "context": "Traditional items vocabulary",
+      "items": [
+        {"word": "wooden statue", "partOfSpeech": "n", "pronunciation": "/ˈwʊd.ən ˈstætʃ.uː/", "meaning": "tượng bằng gỗ"},
+        {"word": "Rong house", "partOfSpeech": "n", "pronunciation": "/rɒŋ haʊs/", "meaning": "nhà Rông"},
+        {"word": "weaving", "partOfSpeech": "n", "pronunciation": "/ˈwiː.vɪŋ/", "meaning": "việc dệt vải"},
+        {"word": "bamboo flute", "partOfSpeech": "n", "pronunciation": "/ˌbæmˈbuː fluːt/", "meaning": "sáo tre/trúc"},
+        {"word": "gong", "partOfSpeech": "n", "pronunciation": "/ɡɒŋ/", "meaning": "cồng"},
+        {"word": "terraced fields", "partOfSpeech": "n", "pronunciation": "/ˈter.əst fiːldz/", "meaning": "ruộng bậc thang"},
+        {"word": "livestock", "partOfSpeech": "n", "pronunciation": "/ˈlaɪv.stɒk/", "meaning": "vật nuôi"},
+        {"word": "communal house", "partOfSpeech": "n", "pronunciation": "/ˈkɒm.jə.nəl haʊs/", "meaning": "nhà cộng đồng"},
+        {"word": "weed", "partOfSpeech": "n/v", "pronunciation": "/wiːd/", "meaning": "cỏ, nhổ cỏ"}
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "matching",
+      "exerciseNumber": "Bài 2 trang 42",
+      "instruction": "Match the words with their definitions",
+      "instructionVi": "Nối từ với định nghĩa",
+      "questions": [
+        {"id": 1, "correctAnswer": "c"},
+        {"id": 2, "correctAnswer": "a"},
+        {"id": 3, "correctAnswer": "e"},
+        {"id": 4, "correctAnswer": "d"},
+        {"id": 5, "correctAnswer": "b"}
+      ],
+      "points": 25
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "fill_blank",
+      "exerciseNumber": "Bài 3 trang 42",
+      "instruction": "Complete the sentences with the correct words",
+      "instructionVi": "Hoàn thành các câu với từ đúng",
+      "questions": [
+        {"id": 1, "sentence": "Each ethnic group has its own _____.", "correctAnswer": "unique features"},
+        {"id": 2, "sentence": "_____ is a traditional craft of many ethnic groups.", "correctAnswer": "weaving"},
+        {"id": 3, "sentence": "Farmers _____ cattle and poultry.", "correctAnswer": "raise"},
+        {"id": 4, "sentence": "The _____ is the center of the village.", "correctAnswer": "communal house"},
+        {"id": 5, "sentence": "The Ede is a _____ in the Central Highlands.", "correctAnswer": "minority group"},
+        {"id": 6, "sentence": "They raise _____ like buffaloes and chickens.", "correctAnswer": "livestock"}
+      ],
+      "points": 60
+    }
+  ],
+
+  "stats": {
+    "vocabularyCount": 9,
+    "exerciseCount": 2,
+    "dialogueLines": 0
+  },
+
+  "rewards": {
+    "xpTotal": 105,
+    "badges": ["culture_learner"]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "id": "g8-u02-a-closer-look-2",
+  "grade": 8,
+  "unit": 2,
+  "unitTitle": "Life in the Countryside",
+  "section": "a_closer_look_2",
+  "sectionTitle": "A Closer Look 2",
+  "sourceFile": "markdown-files/g8/unit-02/g8_u02_a-closer-look-2.md",
+  "processedAt": "2024-12-31T14:45:00Z",
+  "estimatedDuration": 20,
+
+  "blocks": [
+    {
+      "type": "grammar",
+      "topic": "Comparative Forms of Adverbs",
+      "topicVi": "Dạng so sánh hơn của trạng từ",
+      "formula": {
+        "shortAdverbs": "adverb + -er + than",
+        "longAdverbs": "more + adverb + than",
+        "specialRules": [
+          "Adverbs ending in -ly that have same form as adjective (early): add -er → earlier",
+          "Adverbs ending in -ly that differ from adjective: add more (happily → more happily)"
+        ]
+      },
+      "usage": [
+        {
+          "type": "Short adverbs",
+          "typeVi": "Trạng từ ngắn",
+          "examples": ["fast → faster", "hard → harder", "early → earlier"],
+          "sentence": "The red car runs faster than the black car.",
+          "sentenceVi": "Xe đỏ chạy nhanh hơn xe đen."
+        },
+        {
+          "type": "Long adverbs",
+          "typeVi": "Trạng từ dài",
+          "examples": ["beautifully → more beautifully", "carefully → more carefully", "quietly → more quietly"],
+          "sentence": "She sings more beautifully than her sister.",
+          "sentenceVi": "Cô ấy hát hay hơn chị gái."
+        }
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "fill_blank",
+      "exerciseNumber": "Bài 2 trang 21",
+      "instruction": "Complete the sentences with the comparative form of the adverbs",
+      "instructionVi": "Hoàn thành các câu với dạng so sánh hơn của trạng từ",
+      "questions": [
+        {"id": 1, "adverb": "beautifully", "correctAnswer": "more beautifully"},
+        {"id": 2, "adverb": "clearly", "correctAnswer": "more clearly"},
+        {"id": 3, "adverb": "fast", "correctAnswer": "faster"},
+        {"id": 4, "adverb": "hard", "correctAnswer": "harder"},
+        {"id": 5, "adverb": "heavily", "correctAnswer": "more heavily"}
+      ],
+      "points": 50
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "fill_blank",
+      "exerciseNumber": "Bài 3 trang 21",
+      "instruction": "Complete the sentences with the comparative form of the adverbs",
+      "instructionVi": "Hoàn thành các câu với dạng so sánh hơn của trạng từ",
+      "questions": [
+        {"id": 1, "adverb": "carefully", "correctAnswer": "more carefully"},
+        {"id": 2, "adverb": "fast", "correctAnswer": "faster"},
+        {"id": 3, "adverb": "quietly", "correctAnswer": "more quietly"},
+        {"id": 4, "adverb": "soundly", "correctAnswer": "more soundly"},
+        {"id": 5, "adverb": "early", "correctAnswer": "earlier"}
+      ],
+      "points": 50
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "sentence_writing",
+      "exerciseNumber": "Bài 4 trang 22",
+      "instruction": "Write sentences using the comparative form of adverbs",
+      "instructionVi": "Viết câu sử dụng dạng so sánh hơn của trạng từ",
+      "questions": [
+        {"id": 1, "correctAnswer": "The red car can run faster than the black car."},
+        {"id": 2, "correctAnswer": "Nick can jump higher than Tom."},
+        {"id": 3, "correctAnswer": "Mai did better on the exam than Hoa."},
+        {"id": 4, "correctAnswer": "The workers arrived earlier than my dad expected."},
+        {"id": 5, "correctAnswer": "The buses run more frequently than the trains."}
+      ],
+      "points": 50
+    }
+  ],
+
+  "stats": {
+    "vocabularyCount": 0,
+    "exerciseCount": 3,
+    "dialogueLines": 0,
+    "hasGrammar": true
+  },
+
+  "rewards": {
+    "xpTotal": 150,
+    "badges": ["grammar_master"]
+  }
+}

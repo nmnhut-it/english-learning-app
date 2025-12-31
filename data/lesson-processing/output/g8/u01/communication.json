@@ -1,0 +1,119 @@
+{
+  "id": "g8-u01-communication",
+  "grade": 8,
+  "unit": 1,
+  "unitTitle": "Leisure Time",
+  "section": "communication",
+  "sectionTitle": "Communication",
+  "sourceFile": "markdown-files/g8/unit-01/g8_u01_communication.md",
+  "processedAt": "2024-12-31T14:15:00Z",
+  "estimatedDuration": 25,
+
+  "blocks": [
+    {
+      "type": "grammar",
+      "topic": "Making and Responding to Invitations",
+      "topicVi": "Đưa ra và trả lời lời mời",
+      "formula": {
+        "invitations": ["Would you like + to V?", "Do you fancy + Ving?"],
+        "responses": ["I'd love to. Thanks.", "That's great. Thanks."]
+      },
+      "usage": [
+        {
+          "pattern": "Would you like to V?",
+          "response": "I'd love to. Thanks.",
+          "example": "Would you like to go to the cinema?",
+          "exampleResponse": "I'd love to. Thanks."
+        },
+        {
+          "pattern": "Do you fancy Ving?",
+          "response": "That's great. Thanks.",
+          "example": "Do you fancy playing tennis?",
+          "exampleResponse": "That's great. Thanks."
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "Making invitations",
+      "exerciseNumber": "Bài 2 trang 12",
+      "lines": [
+        {"speaker": "Giang", "text": "Would you like to play badminton with me this afternoon?", "textVi": "Bạn có muốn chơi cầu lông với mình chiều nay không?"},
+        {"speaker": "Linh", "text": "I'd love to. Thanks.", "textVi": "Mình rất muốn. Cảm ơn."},
+        {"speaker": "Tom", "text": "Do you fancy making paper flowers with me?", "textVi": "Bạn có muốn làm hoa giấy với mình không?"},
+        {"speaker": "Linh", "text": "That's great. Thanks.", "textVi": "Tuyệt vời. Cảm ơn."},
+        {"speaker": "Giang", "text": "Would you like to try my home-made pizza?", "textVi": "Bạn có muốn thử pizza tự làm của mình không?"},
+        {"speaker": "Linh", "text": "I'd love to. Thanks.", "textVi": "Mình rất muốn. Cảm ơn."}
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "matching",
+      "exerciseNumber": "Bài 3 trang 13",
+      "instruction": "Match the pictures with the activities",
+      "instructionVi": "Nối tranh với các hoạt động",
+      "questions": [
+        {"id": "a", "correctAnswer": "paper folding", "correctAnswerVi": "gấp giấy"},
+        {"id": "b", "correctAnswer": "playing badminton", "correctAnswerVi": "chơi cầu lông"},
+        {"id": "c", "correctAnswer": "snowboarding", "correctAnswerVi": "trượt tuyết"}
+      ],
+      "points": 15
+    },
+    {
+      "type": "vocabulary",
+      "context": "Leisure activities from around the world",
+      "exerciseNumber": "Bài 4 trang 13",
+      "items": [
+        {"word": "origami", "partOfSpeech": "n", "pronunciation": "/ˌɒrɪˈɡɑːmi/", "meaning": "nghệ thuật gấp giấy"},
+        {"word": "paper folding", "partOfSpeech": "n", "pronunciation": "/ˈpeɪpə ˈfəʊldɪŋ/", "meaning": "gấp giấy"},
+        {"word": "on my own", "partOfSpeech": "phr", "pronunciation": "/ɒn maɪ əʊn/", "meaning": "một mình"},
+        {"word": "sheets of paper", "partOfSpeech": "n", "pronunciation": "/ʃiːts əv ˈpeɪpə/", "meaning": "tờ giấy"},
+        {"word": "helps me to relax", "partOfSpeech": "v", "pronunciation": "/hɛlps miː tuː rɪˈlæks/", "meaning": "giúp tôi thư giãn"},
+        {"word": "ski resorts", "partOfSpeech": "n", "pronunciation": "/skiː rɪˈzɔːts/", "meaning": "khu nghỉ dưỡng trượt tuyết"},
+        {"word": "snowboarding", "partOfSpeech": "v", "pronunciation": "/ˈsnəʊˌbɔːdɪŋ/", "meaning": "trượt tuyết bằng ván"},
+        {"word": "overall health", "partOfSpeech": "n", "pronunciation": "/ˈəʊvərɔːl hɛlθ/", "meaning": "sức khỏe tổng thể"},
+        {"word": "balance", "partOfSpeech": "n", "pronunciation": "/ˈbæləns/", "meaning": "cân bằng"},
+        {"word": "best friend", "partOfSpeech": "n", "pronunciation": "/bɛst frɛnd/", "meaning": "bạn thân"},
+        {"word": "lives next door", "partOfSpeech": "v", "pronunciation": "/lɪvz nɛkst dɔː/", "meaning": "sống cạnh nhà"},
+        {"word": "muscle strength", "partOfSpeech": "n", "pronunciation": "/ˈmʌsl strɛŋθ/", "meaning": "sức mạnh cơ bắp"},
+        {"word": "helps reduce stress", "partOfSpeech": "v", "pronunciation": "/hɛlps rɪˈdjuːs strɛs/", "meaning": "giúp giảm căng thẳng"}
+      ]
+    },
+    {
+      "type": "reading",
+      "title": "Leisure Activities Around the World",
+      "passages": [
+        {
+          "speaker": "Sakura",
+          "location": "Kyoto, Japan",
+          "text": "Origami is the art of paper folding. I like doing it on my own in my free time. With only a few sheets of paper, I can create almost anything: flowers, birds, or fans. Doing origami helps me to relax.",
+          "textVi": "Origami là nghệ thuật gấp giấy. Tôi thích làm điều đó một mình trong thời gian rảnh rỗi. Chỉ với vài tờ giấy, tôi có thể tạo ra hầu hết mọi thứ: hoa, chim hoặc quạt. Làm origami giúp tôi thư giãn."
+        },
+        {
+          "speaker": "Eric",
+          "location": "St. Gallen, Switzerland",
+          "text": "My hometown has some famous ski resorts. I'm into snowboarding and often go to a nearby ski resort with my parents at weekends. Snowboarding improves my overall health and balance.",
+          "textVi": "Quê hương tôi có một số khu trượt tuyết nổi tiếng. Tôi thích trượt tuyết và thường đến một khu nghỉ mát trượt tuyết gần đó với bố mẹ vào cuối tuần. Trượt ván trên tuyết cải thiện sức khỏe tổng thể và sự cân bằng của tôi."
+        },
+        {
+          "speaker": "Lan",
+          "location": "Quang Binh, Vietnam",
+          "text": "I'm crazy about playing sport, especially badminton. My best friend lives next door, so we play badminton almost every afternoon. It's an easy sport, and it also improves my muscle strength and helps reduce stress.",
+          "textVi": "Em rất thích chơi thể thao, đặc biệt là môn cầu lông. Người bạn thân nhất của tôi sống cạnh nhà, vì vậy hầu như chiều nào chúng tôi cũng chơi cầu lông. Đó là một môn thể thao dễ dàng, và nó cũng cải thiện sức mạnh cơ bắp của tôi và giúp giảm căng thẳng."
+        }
+      ]
+    }
+  ],
+
+  "stats": {
+    "vocabularyCount": 13,
+    "exerciseCount": 2,
+    "dialogueLines": 6,
+    "hasReading": true
+  },
+
+  "rewards": {
+    "xpTotal": 140,
+    "badges": ["world_explorer"]
+  }
+}

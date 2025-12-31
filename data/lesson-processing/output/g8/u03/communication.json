@@ -1,0 +1,75 @@
+{
+  "id": "g8-u03-communication",
+  "grade": 8,
+  "unit": 3,
+  "unitTitle": "Teenagers",
+  "section": "communication",
+  "sectionTitle": "Communication",
+  "sourceFile": "markdown-files/g8/unit-03/g8_u03_communication.md",
+  "processedAt": "2024-12-31T15:25:00Z",
+  "estimatedDuration": 20,
+
+  "blocks": [
+    {
+      "type": "vocabulary",
+      "context": "Social media vocabulary",
+      "items": [
+        {"word": "discuss", "partOfSpeech": "v", "pronunciation": "/dɪˈskʌs/", "meaning": "thảo luận"},
+        {"word": "notification", "partOfSpeech": "n", "pronunciation": "/ˌnəʊtɪfɪˈkeɪʃn/", "meaning": "thông báo"}
+      ]
+    },
+    {
+      "type": "reading",
+      "title": "Social Media Preferences",
+      "passages": [
+        {
+          "speaker": "Ann",
+          "text": "I think YouTube is the most popular social media site. I log on to it every day. I upload videos and watch other people's videos.",
+          "textVi": "Tôi nghĩ YouTube là trang mạng xã hội phổ biến nhất. Tôi đăng nhập vào nó hàng ngày. Tôi tải video lên và xem video của người khác."
+        },
+        {
+          "speaker": "Tom",
+          "text": "I use Facebook to connect with friends, post photos, and share other people's posts. I use it daily. It's user-friendly.",
+          "textVi": "Tôi sử dụng Facebook để kết nối với bạn bè, đăng ảnh và chia sẻ bài đăng của người khác. Tôi sử dụng nó hàng ngày. Nó thân thiện với người dùng."
+        },
+        {
+          "speaker": "Trang",
+          "text": "I love Instagram. It's really fun and easy to browse. People like my photos, so I feel happy. That's why I often check my notifications.",
+          "textVi": "Tôi yêu Instagram. Nó thực sự thú vị và dễ duyệt. Mọi người thích ảnh của tôi, vì vậy tôi cảm thấy hạnh phúc. Đó là lý do tại sao tôi thường kiểm tra thông báo của mình."
+        },
+        {
+          "speaker": "Nam",
+          "text": "I have a Facebook page. I don't often update it, but I usually use Messenger to discuss schoolwork with classmates.",
+          "textVi": "Tôi có một trang Facebook. Tôi không thường xuyên cập nhật nó, nhưng tôi thường sử dụng Messenger để thảo luận về việc học với các bạn cùng lớp."
+        }
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "matching",
+      "exerciseNumber": "Bài 3 trang 32-33",
+      "instruction": "Match the person with the activity",
+      "instructionVi": "Nối người với hoạt động",
+      "questions": [
+        {"id": 1, "activity": "checks notifications frequently", "correctAnswer": "Trang"},
+        {"id": 2, "activity": "watches videos on YouTube", "correctAnswer": "Ann"},
+        {"id": 3, "activity": "uses Facebook Messenger to discuss schoolwork", "correctAnswer": "Nam"},
+        {"id": 4, "activity": "thinks Facebook is user-friendly", "correctAnswer": "Tom"},
+        {"id": 5, "activity": "connects with friends on Facebook", "correctAnswer": "Tom"}
+      ],
+      "points": 50
+    }
+  ],
+
+  "stats": {
+    "vocabularyCount": 2,
+    "exerciseCount": 1,
+    "dialogueLines": 0,
+    "hasReading": true
+  },
+
+  "rewards": {
+    "xpTotal": 80,
+    "badges": ["social_media_savvy"]
+  }
+}
