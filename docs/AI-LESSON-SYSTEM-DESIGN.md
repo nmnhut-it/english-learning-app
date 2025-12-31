@@ -1,0 +1,705 @@
+# AI Lesson System - Thiết kế Hệ thống Bài giảng Điện tử Tự động
+
+## 🎯 Mục tiêu Dự án
+
+Biến các file markdown thành **bài giảng điện tử tự động** với:
+- **AI Teacher** dẫn dắt bằng giọng nói
+- **Gamification** để tăng tương tác
+- **Học sinh tự học** qua màn hình TV (không cần giáo viên chuyên môn)
+- **Tapescript đầy đủ** cho mọi nội dung audio
+
+---
+
+## 🏗️ Kiến trúc Tổng quan
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│                        AI LESSON PLAYER                             │
+│  (Web app chạy trên TV/Browser - Giống Coursera/Khan Academy)       │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│  ┌─────────────┐  ┌─────────────┐  ┌─────────────┐  ┌────────────┐  │
+│  │   Avatar    │  │   Lesson    │  │  Exercise   │  │ Gamification│  │
+│  │  AI Teacher │  │   Content   │  │  Interactive │  │   System   │  │
+│  │  (TTS/Video)│  │  (Slides)   │  │   Zone      │  │  (XP/Badges)│  │
+│  └─────────────┘  └─────────────┘  └─────────────┘  └────────────┘  │
+│                                                                      │
+├─────────────────────────────────────────────────────────────────────┤
+│                       LESSON SCRIPT ENGINE                           │
+│  ┌──────────────────────────────────────────────────────────────┐   │
+│  │  Markdown → Lesson Script (JSON) → TTS Audio + Visual Slides  │   │
+│  └──────────────────────────────────────────────────────────────┘   │
+└─────────────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────────────┐
+│                    CONTENT PROCESSING PIPELINE                       │
+├─────────────────────────────────────────────────────────────────────┤
+│  1. Markdown Files (Grade 6-12)                                     │
+│       ↓                                                              │
+│  2. AI Processing (Gemini API)                                      │
+│       - Tạo script giảng bài                                        │
+│       - Tạo câu hỏi tương tác                                       │
+│       - Tạo tapescript cho TTS                                      │
+│       ↓                                                              │
+│  3. Lesson Package (JSON + Audio + Assets)                          │
+│       ↓                                                              │
+│  4. Cached & Ready to Play                                          │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 📚 Cấu trúc Lesson Package
+
+### Mỗi bài học được đóng gói thành JSON:
+
+```typescript
+interface LessonPackage {
+  id: string;                    // "grade7-unit1-getting-started"
+  grade: number;
+  unit: number;
+  section: string;               // "getting-started" | "a-closer-look-1" | ...
+  title: string;
+  duration: number;              // Ước tính thời gian (phút)
+
+  // Script bài giảng - QUAN TRỌNG NHẤT
+  script: LessonScript;
+
+  // Vocabulary
+  vocabulary: VocabularyItem[];
+
+  // Exercises cho tương tác
+  exercises: Exercise[];
+
+  // Gamification
+  rewards: LessonRewards;
+}
+
+interface LessonScript {
+  // Danh sách các "cảnh" trong bài giảng
+  scenes: Scene[];
+}
+
+interface Scene {
+  id: string;
+  type: SceneType;
+
+  // Nội dung hiển thị (slides)
+  visual: VisualContent;
+
+  // Script để đọc (TTS)
+  narration: Narration;
+
+  // Thời điểm pause để tương tác
+  interactionPoint?: InteractionPoint;
+
+  // Thời lượng (giây)
+  duration: number;
+}
+
+type SceneType =
+  | 'intro'              // Giới thiệu bài học
+  | 'vocabulary_intro'   // Giới thiệu từ vựng
+  | 'vocabulary_practice'// Luyện phát âm từ vựng
+  | 'dialogue'           // Hội thoại mẫu
+  | 'grammar_explain'    // Giải thích ngữ pháp
+  | 'exercise'           // Bài tập tương tác
+  | 'game'               // Mini-game
+  | 'summary'            // Tổng kết
+  | 'reward';            // Thưởng điểm/badges
+
+interface Narration {
+  // Script tiếng Việt (AI teacher nói)
+  vietnamese: string;
+
+  // Script tiếng Anh (khi cần đọc mẫu)
+  english?: string;
+
+  // Audio file path (pre-generated)
+  audioUrl?: string;
+
+  // TTS config
+  ttsConfig: {
+    voice: 'vi-VN-female' | 'vi-VN-male' | 'en-US-female' | 'en-GB-male';
+    speed: number;      // 0.8 - 1.2
+    pitch: number;
+  };
+}
+
+interface VisualContent {
+  // Layout của slide
+  layout: 'full-text' | 'split' | 'vocabulary-card' | 'dialogue' | 'exercise';
+
+  // Nội dung chính
+  mainContent: string | VocabularyItem | DialogueLine[];
+
+  // Hình ảnh minh họa
+  images?: string[];
+
+  // Animation type
+  animation?: 'fade' | 'slide' | 'bounce' | 'highlight';
+
+  // Highlighted text (từ vựng cần nhấn mạnh)
+  highlights?: {word: string, color: string}[];
+}
+```
+
+---
+
+## 🎬 Lesson Flow - Quy trình một bài học
+
+### Ví dụ: Grade 7 - Unit 1 - Getting Started
+
+```
+┌────────────────────────────────────────────────────────────────────┐
+│  SCENE 1: INTRO (30s)                                              │
+│  ───────────────────                                               │
+│  Visual: Unit title "HOBBIES" với hình ảnh các hoạt động           │
+│  AI Teacher: "Chào các em! Hôm nay chúng ta sẽ học về chủ đề       │
+│              Hobbies - Sở thích. Các em có sở thích gì không?"     │
+│                                                                     │
+│  🎮 Gamification: +10 XP cho việc bắt đầu bài học                   │
+└────────────────────────────────────────────────────────────────────┘
+                                  ↓
+┌────────────────────────────────────────────────────────────────────┐
+│  SCENE 2-11: VOCABULARY INTRODUCTION (5 min)                       │
+│  ────────────────────────────────────────────                       │
+│  Mỗi từ vựng = 1 scene (30s/từ × 10 từ)                            │
+│                                                                     │
+│  Visual: Vocabulary Card với hình ảnh                               │
+│  ┌─────────────────────────────────────┐                           │
+│  │  🖼️ [Hình người đang vẽ]             │                           │
+│  │                                     │                           │
+│  │  DRAWING                            │                           │
+│  │  /ˈdrɔːɪŋ/                          │                           │
+│  │  (n) vẽ tranh                       │                           │
+│  │                                     │                           │
+│  │  🔊 [Phát âm]  ⭐ [Thêm yêu thích]   │                           │
+│  └─────────────────────────────────────┘                           │
+│                                                                     │
+│  AI Teacher: "Từ tiếp theo là DRAWING - có nghĩa là vẽ tranh.      │
+│              Các em nghe cô phát âm nhé: DRAWING. Đọc theo cô nào!" │
+│                                                                     │
+│  🎮 Interaction: Học sinh nhấn nút để nghe lại, đọc theo           │
+│  🎮 +5 XP mỗi từ hoàn thành                                        │
+└────────────────────────────────────────────────────────────────────┘
+                                  ↓
+┌────────────────────────────────────────────────────────────────────┐
+│  SCENE 12: VOCABULARY GAME (2 min)                                 │
+│  ─────────────────────────────────                                  │
+│  Visual: Matching Game                                              │
+│  ┌─────────────────────────────────────┐                           │
+│  │  Nối từ với nghĩa đúng:              │                           │
+│  │                                     │                           │
+│  │  [drawing]        [sưu tầm tem]     │                           │
+│  │  [gardening]      [vẽ tranh]        │                           │
+│  │  [stamp]          [làm vườn]        │                           │
+│  │  [collecting]                       │                           │
+│  │                                     │                           │
+│  │  ⏱️ 60 giây   🎯 4/4                │                           │
+│  └─────────────────────────────────────┘                           │
+│                                                                     │
+│  AI Teacher: "Bây giờ, các em hãy nối từ với nghĩa đúng nhé!       │
+│              Các em có 60 giây. Bắt đầu!"                          │
+│                                                                     │
+│  🎮 +20 XP nếu đúng hết, +5 XP bonus nếu < 30s                     │
+└────────────────────────────────────────────────────────────────────┘
+                                  ↓
+┌────────────────────────────────────────────────────────────────────┐
+│  SCENE 13-15: DIALOGUE (3 min)                                     │
+│  ─────────────────────────────                                      │
+│  Visual: Conversation với 2 nhân vật                               │
+│  ┌─────────────────────────────────────┐                           │
+│  │  👧 Trang              👩 Ann        │                           │
+│  │                                     │                           │
+│  │  💬 "What's your hobby, Ann?"       │                           │
+│  │     (Sở thích của bạn là gì, Ann?)  │                           │
+│  │                                     │                           │
+│  │         💬 "I like drawing."        │                           │
+│  │            (Mình thích vẽ tranh.)   │                           │
+│  └─────────────────────────────────────┘                           │
+│                                                                     │
+│  AI Teacher: "Bây giờ chúng ta nghe đoạn hội thoại giữa Trang     │
+│              và Ann. Các em chú ý cách họ hỏi về sở thích nhé."    │
+│                                                                     │
+│  Audio: Phát dialogue với giọng native                             │
+│  🎮 +10 XP hoàn thành nghe                                         │
+└────────────────────────────────────────────────────────────────────┘
+                                  ↓
+┌────────────────────────────────────────────────────────────────────┐
+│  SCENE 16-18: EXERCISES (3 min)                                    │
+│  ──────────────────────────────                                     │
+│  True/False Questions                                               │
+│  ┌─────────────────────────────────────┐                           │
+│  │  "Trang likes building dollhouses"  │                           │
+│  │                                     │                           │
+│  │     [TRUE]        [FALSE]           │                           │
+│  │                                     │                           │
+│  │  Tiến độ: ██████░░░░ 3/5            │                           │
+│  └─────────────────────────────────────┘                           │
+│                                                                     │
+│  AI Teacher: "Câu 1: Trang thích làm nhà búp bê - Đúng hay Sai?"   │
+│                                                                     │
+│  🎮 +10 XP mỗi câu đúng                                            │
+│  🎮 Streak bonus: 3 câu liên tiếp = +15 XP                         │
+└────────────────────────────────────────────────────────────────────┘
+                                  ↓
+┌────────────────────────────────────────────────────────────────────┐
+│  SCENE 19: SUMMARY & REWARDS (1 min)                               │
+│  ───────────────────────────────────                                │
+│  Visual: Progress Summary                                           │
+│  ┌─────────────────────────────────────┐                           │
+│  │  🎉 HOÀN THÀNH BÀI HỌC!              │                           │
+│  │                                     │                           │
+│  │  📚 Từ vựng mới: 10 từ              │                           │
+│  │  ✅ Bài tập: 5/5 (100%)              │                           │
+│  │  ⭐ XP kiếm được: 125 điểm           │                           │
+│  │                                     │                           │
+│  │  🏆 Badge mới: "Vocabulary Master"  │                           │
+│  │                                     │                           │
+│  │  [TIẾP TỤC] [XEM LẠI] [VỀ MENU]    │                           │
+│  └─────────────────────────────────────┘                           │
+│                                                                     │
+│  AI Teacher: "Tuyệt vời! Các em đã hoàn thành bài học. Hôm nay    │
+│              các em học được 10 từ vựng mới về sở thích. Hẹn gặp   │
+│              lại các em trong bài học tiếp theo!"                   │
+└────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 🎮 Gamification System
+
+### XP & Levels
+```typescript
+interface GamificationSystem {
+  // Experience Points
+  xp: {
+    lessonComplete: 50,
+    vocabularyLearned: 5,      // Per word
+    exerciseCorrect: 10,
+    streakBonus: 15,           // 3+ correct in a row
+    speedBonus: 5,             // Complete quickly
+    perfectScore: 25,          // 100% accuracy
+  };
+
+  // Levels
+  levels: [
+    { level: 1, xpRequired: 0, title: "Người mới bắt đầu" },
+    { level: 2, xpRequired: 100, title: "Học sinh siêng năng" },
+    { level: 3, xpRequired: 300, title: "Nhà vô địch từ vựng" },
+    { level: 4, xpRequired: 600, title: "Thạc sĩ tiếng Anh" },
+    { level: 5, xpRequired: 1000, title: "Giáo sư ngôn ngữ" },
+    // ...
+  ];
+
+  // Daily Streaks
+  streaks: {
+    dailyGoal: 1,              // 1 lesson/day
+    streakBonus: 20,           // XP per day in streak
+    weeklyBonus: 100,          // 7-day streak
+  };
+
+  // Badges/Achievements
+  badges: [
+    { id: "first_lesson", name: "Bước đầu tiên", condition: "Complete first lesson" },
+    { id: "vocab_10", name: "Vocabulary Starter", condition: "Learn 10 words" },
+    { id: "vocab_100", name: "Vocabulary Master", condition: "Learn 100 words" },
+    { id: "perfect_5", name: "Hoàn hảo", condition: "5 perfect scores in a row" },
+    { id: "speed_demon", name: "Nhanh như chớp", condition: "Complete exercise in < 30s" },
+    { id: "unit_complete", name: "Unit Champion", condition: "Complete entire unit" },
+    // ...
+  ];
+}
+```
+
+### Leaderboard (Optional - Class Competition)
+```typescript
+interface Leaderboard {
+  // Có thể dùng cho lớp học
+  classId: string;
+  students: {
+    name: string;
+    avatar: string;
+    xp: number;
+    level: number;
+    streak: number;
+  }[];
+}
+```
+
+---
+
+## 🔊 Text-to-Speech Integration
+
+### Google Cloud TTS / Gemini API
+
+```typescript
+interface TTSService {
+  // Voices available
+  voices: {
+    // Vietnamese teacher
+    teacher_vi: {
+      languageCode: "vi-VN",
+      name: "vi-VN-Standard-A",  // Female
+      ssmlGender: "FEMALE",
+    },
+
+    // English native speakers
+    native_uk: {
+      languageCode: "en-GB",
+      name: "en-GB-Standard-A",
+      ssmlGender: "FEMALE",
+    },
+    native_us: {
+      languageCode: "en-US",
+      name: "en-US-Standard-B",
+      ssmlGender: "MALE",
+    },
+
+    // Student voices for dialogue
+    student_1: {
+      languageCode: "en-GB",
+      name: "en-GB-Standard-C",  // Young female
+    },
+    student_2: {
+      languageCode: "en-GB",
+      name: "en-GB-Standard-D",  // Young male
+    },
+  };
+
+  // Generate audio
+  async generateAudio(text: string, voice: VoiceConfig): Promise<AudioBuffer>;
+
+  // Generate entire lesson audio
+  async generateLessonAudio(script: LessonScript): Promise<AudioPackage>;
+}
+```
+
+### Tapescript Structure
+```typescript
+interface Tapescript {
+  lessonId: string;
+
+  // Full text của mọi thứ được nói
+  segments: {
+    sceneId: string;
+    timestamp: number;        // Start time in seconds
+    speaker: 'teacher' | 'native' | 'student1' | 'student2';
+    language: 'vi' | 'en';
+    text: string;
+    duration: number;
+  }[];
+
+  // Total duration
+  totalDuration: number;
+
+  // Generated audio files
+  audioFiles: {
+    combined: string;         // Full lesson audio
+    byScene: {[sceneId: string]: string};  // Individual scene audio
+  };
+}
+```
+
+---
+
+## 🖥️ UI Components
+
+### Main Lesson Player
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│  ┌─────────────────────────────────────────────────────────────┐   │
+│  │                                                             │   │
+│  │                    MAIN CONTENT AREA                        │   │
+│  │              (Slides, Vocabulary, Exercises)                │   │
+│  │                                                             │   │
+│  │                         70% height                          │   │
+│  │                                                             │   │
+│  └─────────────────────────────────────────────────────────────┘   │
+│                                                                     │
+│  ┌─────────────────────────────────────────────────────────────┐   │
+│  │  ⏮️  ⏸️  ⏭️   ████████████░░░░░░░░ 3:45 / 10:00            │   │
+│  │                    PLAYBACK CONTROLS                        │   │
+│  └─────────────────────────────────────────────────────────────┘   │
+│                                                                     │
+│  ┌─────────────────┐  ┌─────────────────┐  ┌─────────────────┐    │
+│  │  📚 Vocabulary  │  │  ⭐ XP: 125     │  │  🔥 Streak: 3   │    │
+│  │     10/10       │  │  Level 2        │  │                 │    │
+│  └─────────────────┘  └─────────────────┘  └─────────────────┘    │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+### TV Mode (Optimized for Large Screen)
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│                                                                     │
+│  ┌──────────────────────────────────────────────────────────────┐  │
+│  │                                                              │  │
+│  │                                                              │  │
+│  │                    LARGE CONTENT                             │  │
+│  │                  (Easy to read from far)                     │  │
+│  │                                                              │  │
+│  │                    Font size: 32px+                          │  │
+│  │                    High contrast colors                      │  │
+│  │                                                              │  │
+│  │                                                              │  │
+│  └──────────────────────────────────────────────────────────────┘  │
+│                                                                     │
+│  ┌────────────────────────────────────────────────────────────┐    │
+│  │   [A] Play/Pause    [B] Repeat    [C] Next    [D] Menu     │    │
+│  │                  REMOTE CONTROL HINTS                       │    │
+│  └────────────────────────────────────────────────────────────┘    │
+│                                                                     │
+│  🔥 Streak: 5 days  │  ⭐ XP: 1,250  │  🏆 Level 3: Vocabulary Pro  │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 🔄 Content Processing Pipeline
+
+### Step 1: AI Lesson Generation
+
+```typescript
+interface LessonGenerationRequest {
+  markdownContent: string;
+  grade: number;
+  unit: number;
+  section: string;
+  targetAudience: 'elementary' | 'middle' | 'high';
+}
+
+// Prompt cho Gemini/Claude
+const LESSON_GENERATION_PROMPT = `
+Bạn là một giáo viên tiếng Anh giỏi, thân thiện với học sinh.
+Dựa trên nội dung markdown sau, hãy tạo script bài giảng với:
+
+1. INTRO (30s): Chào học sinh, giới thiệu chủ đề
+2. VOCABULARY: Giải thích từng từ vựng một cách dễ hiểu
+   - Nói nghĩa tiếng Việt
+   - Cho ví dụ dễ hiểu
+   - Nhắc học sinh đọc theo
+3. DIALOGUE: Giải thích ngữ cảnh hội thoại
+4. EXERCISES: Hướng dẫn làm bài tập
+5. SUMMARY: Tổng kết bài học
+
+Output format: JSON theo LessonScript schema
+
+Nội dung markdown:
+{content}
+`;
+
+async function generateLessonScript(
+  request: LessonGenerationRequest
+): Promise<LessonScript> {
+  const response = await geminiAPI.generateContent({
+    model: "gemini-1.5-pro",
+    prompt: LESSON_GENERATION_PROMPT.replace('{content}', request.markdownContent),
+    responseFormat: { type: "json_object" }
+  });
+
+  return JSON.parse(response.text);
+}
+```
+
+### Step 2: Audio Generation
+
+```typescript
+async function generateLessonAudio(script: LessonScript): Promise<AudioPackage> {
+  const audioSegments: AudioSegment[] = [];
+
+  for (const scene of script.scenes) {
+    // Generate Vietnamese teacher narration
+    if (scene.narration.vietnamese) {
+      const audio = await ttsService.generateAudio(
+        scene.narration.vietnamese,
+        TTSVoices.teacher_vi
+      );
+      audioSegments.push({
+        sceneId: scene.id,
+        type: 'narration',
+        audio
+      });
+    }
+
+    // Generate English pronunciation
+    if (scene.narration.english) {
+      const audio = await ttsService.generateAudio(
+        scene.narration.english,
+        TTSVoices.native_uk
+      );
+      audioSegments.push({
+        sceneId: scene.id,
+        type: 'pronunciation',
+        audio
+      });
+    }
+  }
+
+  return combineAudioSegments(audioSegments);
+}
+```
+
+### Step 3: Package & Cache
+
+```typescript
+interface LessonPackageManager {
+  // Check if lesson already processed
+  async checkExists(lessonId: string): Promise<boolean>;
+
+  // Get cached lesson
+  async getLesson(lessonId: string): Promise<LessonPackage>;
+
+  // Process and save new lesson
+  async processAndSave(markdown: string, metadata: LessonMetadata): Promise<LessonPackage>;
+
+  // Storage locations
+  storage: {
+    scripts: '/data/lessons/{grade}/{unit}/{section}/script.json',
+    audio: '/data/lessons/{grade}/{unit}/{section}/audio/',
+    tapescript: '/data/lessons/{grade}/{unit}/{section}/tapescript.txt',
+  };
+}
+```
+
+---
+
+## 📁 Proposed Directory Structure
+
+```
+v2/
+├── src/
+│   ├── components/
+│   │   ├── LessonPlayer/           # Main lesson playback
+│   │   │   ├── LessonPlayer.ts
+│   │   │   ├── SceneRenderer.ts
+│   │   │   ├── PlaybackControls.ts
+│   │   │   └── styles.css
+│   │   ├── VocabularyScene/        # Vocabulary card display
+│   │   ├── DialogueScene/          # Dialogue playback
+│   │   ├── ExerciseScene/          # Interactive exercises
+│   │   ├── GameScene/              # Mini-games
+│   │   │   ├── MatchingGame.ts
+│   │   │   ├── FillBlankGame.ts
+│   │   │   └── PronunciationGame.ts
+│   │   └── Gamification/           # XP, badges, progress
+│   │       ├── XPCounter.ts
+│   │       ├── BadgePopup.ts
+│   │       ├── StreakTracker.ts
+│   │       └── LevelProgress.ts
+│   │
+│   ├── services/
+│   │   ├── LessonService.ts        # Lesson management
+│   │   ├── AIScriptGenerator.ts    # Gemini integration
+│   │   ├── TTSService.ts           # Text-to-speech
+│   │   ├── AudioService.ts         # Audio playback
+│   │   ├── GamificationService.ts  # XP, levels, badges
+│   │   └── ProgressService.ts      # Student progress
+│   │
+│   ├── types/
+│   │   ├── Lesson.ts
+│   │   ├── Scene.ts
+│   │   ├── Gamification.ts
+│   │   └── Progress.ts
+│   │
+│   └── pages/
+│       ├── Home.ts                 # Grade/Unit selection
+│       ├── LessonView.ts           # Lesson playback
+│       └── Progress.ts             # Student dashboard
+│
+├── data/
+│   └── lessons/                    # Generated lesson packages
+│       ├── grade-7/
+│       │   ├── unit-01/
+│       │   │   ├── getting-started/
+│       │   │   │   ├── script.json
+│       │   │   │   ├── audio/
+│       │   │   │   │   ├── combined.mp3
+│       │   │   │   │   ├── scene-01.mp3
+│       │   │   │   │   └── ...
+│       │   │   │   └── tapescript.txt
+│       │   │   ├── a-closer-look-1/
+│       │   │   └── ...
+│       │   └── ...
+│       └── ...
+│
+└── tools/
+    └── lesson-generator/           # CLI tool để generate lessons
+        ├── generate.ts
+        └── batch-process.ts
+```
+
+---
+
+## 🚀 Implementation Phases
+
+### Phase 1: Foundation (Week 1-2)
+- [ ] Lesson Player component với scene navigation
+- [ ] Basic scene types (intro, vocabulary, summary)
+- [ ] Audio playback service
+- [ ] Local storage for progress
+
+### Phase 2: AI Integration (Week 2-3)
+- [ ] Gemini API integration for script generation
+- [ ] Google Cloud TTS integration
+- [ ] Lesson package generation pipeline
+- [ ] Tapescript generation
+
+### Phase 3: Interactive Content (Week 3-4)
+- [ ] Exercise scenes (True/False, Multiple Choice)
+- [ ] Vocabulary games (Matching, Fill-blank)
+- [ ] Pronunciation practice with feedback
+- [ ] Dialogue playback with highlighting
+
+### Phase 4: Gamification (Week 4-5)
+- [ ] XP and level system
+- [ ] Badges and achievements
+- [ ] Streak tracking
+- [ ] Progress dashboard
+
+### Phase 5: TV Mode & Polish (Week 5-6)
+- [ ] Large screen optimization
+- [ ] Remote control support
+- [ ] Offline capability
+- [ ] Performance optimization
+
+---
+
+## 💰 API Costs Estimation
+
+### Google Cloud TTS
+- ~$16 per 1 million characters
+- Average lesson: ~3,000 characters = ~$0.05/lesson
+- 258 lessons × $0.05 = ~$13 total for all content
+
+### Gemini API
+- Input: $0.0025 per 1K tokens
+- Output: $0.01 per 1K tokens
+- Average lesson generation: ~2K tokens = ~$0.025/lesson
+- 258 lessons × $0.025 = ~$6.50 total
+
+### Total estimated cost: ~$20-30 one-time for all content
+
+---
+
+## 🎯 Key Success Metrics
+
+1. **Engagement**: Average session duration > 10 minutes
+2. **Completion**: > 70% lesson completion rate
+3. **Retention**: Daily active users / Weekly active users > 40%
+4. **Learning**: Pre/post vocabulary test improvement > 30%
+
+---
+
+## 📝 Next Steps
+
+1. **Confirm design** - Bạn review và cho feedback
+2. **Create prototype** - Build basic lesson player
+3. **Test with 1 lesson** - Grade 7 Unit 1 Getting Started
+4. **Iterate** - Improve based on testing
+5. **Scale** - Process all lessons
+
+---
+
+Bạn muốn tôi bắt đầu implement phase nào trước?
