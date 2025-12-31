@@ -173,17 +173,17 @@
       text-align: center;
     }
 
-    /* Examples Grid */
-    .examples-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-      gap: 1rem;
+    /* Examples List - Linear */
+    .examples-list {
+      display: flex;
+      flex-direction: column;
+      gap: 0.75rem;
       margin-top: 1rem;
     }
 
-    .example-card {
+    .example-item {
       background: #f8f9fa;
-      padding: 1rem;
+      padding: 0.75rem 1rem;
       border-radius: 8px;
       border-left: 4px solid #667eea;
     }
@@ -191,80 +191,78 @@
     .example-en {
       font-size: 1.1rem;
       color: #333;
-      margin-bottom: 0.25rem;
     }
 
     .example-vi {
       font-size: 0.95rem;
       color: #888;
+      margin-top: 0.25rem;
     }
 
-    /* Wrong vs Right */
-    .compare-grid {
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-      gap: 1rem;
+    /* Wrong vs Right - Linear */
+    .compare-list {
+      display: flex;
+      flex-direction: column;
+      gap: 0.75rem;
       margin-top: 1rem;
     }
 
+    .compare-item {
+      display: flex;
+      gap: 1rem;
+      align-items: stretch;
+    }
+
     .compare-wrong {
+      flex: 1;
       background: #fff5f5;
       border: 1px solid #feb2b2;
-      padding: 1rem;
+      padding: 0.75rem 1rem;
       border-radius: 8px;
     }
 
     .compare-wrong::before {
-      content: '✗ Sai';
-      display: block;
+      content: '✗ ';
       color: #e53e3e;
       font-weight: 600;
-      margin-bottom: 0.5rem;
     }
 
     .compare-right {
+      flex: 1;
       background: #f0fff4;
       border: 1px solid #9ae6b4;
-      padding: 1rem;
+      padding: 0.75rem 1rem;
       border-radius: 8px;
     }
 
     .compare-right::before {
-      content: '✓ Đúng';
-      display: block;
+      content: '✓ ';
       color: #38a169;
       font-weight: 600;
-      margin-bottom: 0.5rem;
     }
 
-    /* Vocabulary Grid */
-    .vocab-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-      gap: 1rem;
-    }
-
-    .vocab-card {
-      background: #f8f9fa;
-      padding: 1rem;
-      border-radius: 10px;
+    /* Vocabulary List - Linear */
+    .vocab-list {
       display: flex;
       flex-direction: column;
-      gap: 0.25rem;
+      gap: 0.75rem;
+    }
+
+    .vocab-item {
+      display: flex;
+      align-items: baseline;
+      gap: 1rem;
+      padding: 0.75rem 1rem;
+      background: #f8f9fa;
+      border-radius: 8px;
+      border-left: 4px solid #667eea;
     }
 
     .vocab-word {
-      font-size: 1.3rem;
+      font-size: 1.25rem;
       color: #667eea;
       font-weight: 600;
-    }
-
-    .vocab-info {
-      display: flex;
-      gap: 0.5rem;
-      align-items: center;
-      color: #888;
-      font-size: 0.9rem;
+      min-width: 140px;
     }
 
     .vocab-pos {
@@ -273,11 +271,19 @@
       padding: 0.1rem 0.4rem;
       border-radius: 3px;
       font-size: 0.75rem;
+      flex-shrink: 0;
+    }
+
+    .vocab-pron {
+      color: #888;
+      font-size: 0.9rem;
+      min-width: 120px;
     }
 
     .vocab-meaning {
       font-size: 1.1rem;
       color: #333;
+      flex: 1;
     }
 
     /* Dialogue */
@@ -317,28 +323,34 @@
       color: #888;
     }
 
-    /* Exercise */
+    /* Exercise - Linear */
+    .exercise-block {
+      margin-bottom: 1.5rem;
+    }
+
     .exercise-question {
-      font-size: 1.2rem;
+      font-size: 1.15rem;
       color: #333;
-      margin-bottom: 1rem;
-      padding: 1rem;
+      margin-bottom: 0.75rem;
+      padding: 0.75rem 1rem;
       background: #f8f9fa;
       border-radius: 8px;
+      border-left: 4px solid #667eea;
     }
 
     .exercise-options {
-      display: grid;
-      grid-template-columns: repeat(2, 1fr);
-      gap: 0.75rem;
+      display: flex;
+      flex-direction: column;
+      gap: 0.5rem;
+      margin-left: 1rem;
     }
 
     .option-btn {
-      padding: 0.75rem 1rem;
+      padding: 0.6rem 1rem;
       font-size: 1rem;
       background: #fff;
-      border: 2px solid #e0e0e0;
-      border-radius: 8px;
+      border: 1px solid #e0e0e0;
+      border-radius: 6px;
       cursor: pointer;
       text-align: left;
       transition: all 0.2s;
@@ -347,11 +359,6 @@
     .option-btn:hover {
       border-color: #667eea;
       background: #f8f9ff;
-    }
-
-    .option-btn.selected {
-      border-color: #667eea;
-      background: #f0f4ff;
     }
 
     .option-btn.correct {
@@ -380,19 +387,11 @@
       font-size: 1.1rem;
     }
 
-    /* Reading */
+    /* Reading - Linear */
     .reading-text {
       font-size: 1.15rem;
       line-height: 1.8;
       color: #444;
-      column-count: 2;
-      column-gap: 2rem;
-    }
-
-    @media (max-width: 800px) {
-      .reading-text {
-        column-count: 1;
-      }
     }
 
     /* Tip Box */
@@ -725,10 +724,10 @@
         html += `<div class="formula-box">${b.formula}</div>`;
       }
       if (b.examples?.length) {
-        html += '<div class="examples-grid">';
+        html += '<div class="examples-list">';
         b.examples.forEach(ex => {
           html += `
-            <div class="example-card">
+            <div class="example-item">
               <div class="example-en">${ex.english}</div>
               <div class="example-vi">${ex.vietnamese}</div>
             </div>
@@ -748,11 +747,13 @@
         <div class="teacher-content">${formatScript(b.script)}</div>
       `;
       if (b.wrongVsRight?.length) {
-        html += '<div class="compare-grid">';
+        html += '<div class="compare-list">';
         b.wrongVsRight.forEach(item => {
           html += `
-            <div class="compare-wrong">${item.wrong}</div>
-            <div class="compare-right">${item.right}</div>
+            <div class="compare-item">
+              <div class="compare-wrong">${item.wrong}</div>
+              <div class="compare-right">${item.right}</div>
+            </div>
           `;
         });
         html += '</div>';
@@ -810,17 +811,15 @@
           <span class="slide-title">Từ vựng</span>
           <span class="slide-subtitle">${b.context || ''}</span>
         </div>
-        <div class="vocab-grid">
+        <div class="vocab-list">
       `;
       items.forEach(v => {
         html += `
-          <div class="vocab-card">
-            <div class="vocab-word">${v.word}</div>
-            <div class="vocab-info">
-              ${v.partOfSpeech ? `<span class="vocab-pos">${v.partOfSpeech}</span>` : ''}
-              <span>${v.pronunciation || ''}</span>
-            </div>
-            <div class="vocab-meaning">${v.meaning}</div>
+          <div class="vocab-item">
+            <span class="vocab-word">${v.word}</span>
+            ${v.partOfSpeech ? `<span class="vocab-pos">${v.partOfSpeech}</span>` : ''}
+            <span class="vocab-pron">${v.pronunciation || ''}</span>
+            <span class="vocab-meaning">${v.meaning}</span>
           </div>
         `;
       });
@@ -873,10 +872,10 @@
         }
       }
       if (b.usage?.length) {
-        html += '<div class="examples-grid">';
+        html += '<div class="examples-list">';
         b.usage.forEach(u => {
           html += `
-            <div class="example-card">
+            <div class="example-item">
               <div class="example-en">${u.example}</div>
               <div class="example-vi">${u.exampleTranslation || u.descriptionVi}</div>
             </div>
@@ -907,6 +906,7 @@
         </div>
       `;
       qs.forEach((q, i) => {
+        html += '<div class="exercise-block">';
         html += `<div class="exercise-question">${q.id || i+1}. ${q.questionText || q.question || q.sentence || ''}</div>`;
         if (q.options) {
           html += '<div class="exercise-options">';
@@ -917,6 +917,7 @@
           });
           html += '</div>';
         }
+        html += '</div>';
       });
       return html;
     }
