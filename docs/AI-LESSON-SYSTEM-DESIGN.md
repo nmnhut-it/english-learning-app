@@ -10,6 +10,322 @@ Biến các file markdown thành **bài giảng điện tử tự động** vớ
 
 ---
 
+## 📊 Phân tích Cấu trúc Nội dung (QUAN TRỌNG)
+
+### Có 3 cấu trúc markdown hoàn toàn khác nhau:
+
+### 1. Lớp 6-9 (THCS) - Cấu trúc A
+
+```
+unit-XX/
+├── getting-started.md      # Dialogue + Vocabulary + Bài tập hiểu
+├── a-closer-look-1.md      # Vocabulary chuyên sâu + Grammar cơ bản
+├── a-closer-look-2.md      # Grammar nâng cao + Bài tập
+├── communication.md        # Mẫu câu giao tiếp
+├── skills-1.md             # Reading + Listening
+├── skills-2.md             # Speaking + Writing
+└── looking-back.md         # Ôn tập tổng hợp
+```
+
+**Đặc điểm:**
+- Dialogue được dịch hoàn toàn sang tiếng Việt
+- Grammar có giải thích chi tiết: Công thức → Ví dụ → Dấu hiệu nhận biết
+- Vocabulary format: `word : (part_of_speech) nghĩa_việt /IPA/`
+- Bài đọc ngắn (100-200 từ)
+- KHÔNG có listening transcript
+
+### 2. Lớp 10-11 (THPT) - Cấu trúc B
+
+```
+unit-XX/
+├── getting-started.md           # Dialogue + Vocabulary
+├── language.md                  # Pronunciation + Vocabulary + Grammar
+├── reading.md                   # Bài đọc dài + Exercises
+├── speaking.md                  # Speaking practice
+├── listening.md                 # Listening với TRANSCRIPT đầy đủ
+├── writing.md                   # Writing tasks
+├── communication-culture.md     # Culture + Everyday English
+└── looking-back.md              # Review
+```
+
+**Đặc điểm:**
+- CÓ listening transcript đầy đủ
+- Dialogue song ngữ (English + Vietnamese dưới mỗi câu)
+- Bài đọc dài (300-500 từ)
+- Có icons: 💬 📚 ✍️ 🎧 🌍
+- Pronunciation section riêng (linking sounds, stress, etc.)
+
+### 3. File nguyên Unit (global-success-X/) - Cấu trúc C
+
+```
+global-success-7/
+├── unit-01.md    # Toàn bộ unit trong 1 file
+├── unit-02.md
+└── ...
+```
+
+**Đặc điểm:**
+- Tất cả sections trong 1 file duy nhất
+- Dễ đọc tổng quan
+- Phù hợp để tạo lesson plan
+
+### Bảng So sánh Chi tiết
+
+| Đặc điểm | Lớp 6-7 | Lớp 8-9 | Lớp 10-11 |
+|----------|---------|---------|-----------|
+| **Sections/unit** | 7 | 7 | 8 |
+| **Dialogue** | VN dịch đầy đủ | VN dịch đầy đủ | Song ngữ EN-VI |
+| **Grammar explain** | Chi tiết (Công thức, VD) | Chi tiết + Rules | Tích hợp Language |
+| **Vocabulary/section** | 10-20 từ | 15-25 từ | 20-40 từ |
+| **Reading length** | 100-150 từ | 150-200 từ | 300-500 từ |
+| **Listening** | Không transcript | Không transcript | CÓ transcript |
+| **Pronunciation** | Trong A Closer Look | Trong A Closer Look | Section riêng |
+| **Culture** | Không có | Không có | CÓ section riêng |
+
+---
+
+## 📝 25 Dạng Bài tập Được Phát hiện
+
+### Nhóm 1: Comprehension (Hiểu bài)
+| # | Dạng | Mô tả | Ví dụ |
+|---|------|-------|-------|
+| 1 | **True/False** | Câu đúng/sai | `1-T, 2-F, 3-T` |
+| 2 | **Multiple Choice** | Chọn A/B/C/D | `1. C, 2. A, 3. B` |
+| 3 | **Short Answer** | Trả lời ngắn | `1. They usually go for a bike ride.` |
+| 4 | **Matching (1-a)** | Nối cột | `1-c, 2-a, 3-d` |
+
+### Nhóm 2: Vocabulary (Từ vựng)
+| # | Dạng | Mô tả | Ví dụ |
+|---|------|-------|-------|
+| 5 | **Definition Matching** | Nối từ-nghĩa | `weaving : dệt vải - c` |
+| 6 | **Fill Blank with Hints** | Điền từ có gợi ý | `folk dance, overlook` |
+| 7 | **Word Bank** | Chọn từ trong hộp | `current issues, greenhouse gas` |
+| 8 | **Table Classification** | Phân loại vào bảng | `Doing things / Making things` |
+| 9 | **Missing Letters** | Điền chữ thiếu | `emiss_on → emission` |
+| 10 | **Synonym Matching** | Nối từ đồng nghĩa | `full of = packed with` |
+
+### Nhóm 3: Grammar (Ngữ pháp)
+| # | Dạng | Mô tả | Ví dụ |
+|---|------|-------|-------|
+| 11 | **Verb Form** | Chia động từ | `cycling, reading, playing` |
+| 12 | **Error Correction** | Sửa lỗi sai | `stands → stand, leaf → leaves` |
+| 13 | **Question Formation** | Đặt câu hỏi | `Do women play...?` |
+| 14 | **Sentence Translation** | Dịch câu | `EN → VN hoặc VN → EN` |
+| 15 | **Countable/Uncountable** | Phân loại C/U | `water - U, book - C` |
+| 16 | **Adverbs of Frequency** | Trạng từ tần suất | `always, rarely, never` |
+
+### Nhóm 4: Pronunciation (Phát âm)
+| # | Dạng | Mô tả | Ví dụ |
+|---|------|-------|-------|
+| 17 | **Sound Classification** | Phân loại âm | `/ə/ vs /ɜː/` |
+| 18 | **Stress Identification** | Xác định trọng âm | `**earth**, **warmer**` |
+| 19 | **Elision/Linking** | Âm nuốt/nối | `diff(e)rent, cam(e)ras` |
+
+### Nhóm 5: Production (Sản sinh ngôn ngữ)
+| # | Dạng | Mô tả | Ví dụ |
+|---|------|-------|-------|
+| 20 | **Dialogue Completion** | Hoàn thành hội thoại | `A: Where is it? B: ___` |
+| 21 | **Speaking Practice** | Luyện nói | Q&A templates |
+| 22 | **Written Response** | Viết đoạn văn | `Hi Nam, Let me tell you...` |
+| 23 | **Multiple Answer** | Chọn nhiều đáp án | `1. d,c  2. b,c` |
+
+### Nhóm 6: Listening (Nghe - CẦN BỔ SUNG AUDIO)
+| # | Dạng | Mô tả | Trạng thái |
+|---|------|-------|------------|
+| 24 | **Listen & Complete** | Nghe điền từ | ⚠️ Cần file audio |
+| 25 | **Listen & Choose** | Nghe chọn đáp án | ⚠️ Cần file audio |
+
+### ⚠️ Vấn đề cần giải quyết: AUDIO FILES
+
+```
+HIỆN TẠI:
+- Listening exercises có trong markdown
+- NHƯNG không có file audio thực tế
+- Chỉ có transcript (lớp 10-11)
+
+GIẢI PHÁP:
+1. Tạo audio bằng TTS (Google Cloud / Gemini)
+2. Dùng voice native speaker (en-GB, en-US)
+3. Lưu cache để không phải tạo lại
+```
+
+---
+
+## 🧩 Thiết kế Module theo Section Type
+
+### Mỗi Section = 1 Lesson riêng biệt
+
+```
+Unit 1: Hobbies
+├── Lesson 1: Getting Started     (~15 phút)
+├── Lesson 2: A Closer Look 1     (~20 phút)
+├── Lesson 3: A Closer Look 2     (~20 phút)
+├── Lesson 4: Communication       (~10 phút)
+├── Lesson 5: Skills 1            (~25 phút)
+├── Lesson 6: Skills 2            (~25 phút)
+└── Lesson 7: Looking Back        (~15 phút)
+                                  ≈ 2 tiếng/unit
+```
+
+### Section Templates (Mỗi loại có flow riêng)
+
+#### 1. GETTING STARTED Template
+```
+┌─────────────────────────────────────────────┐
+│ Scene 1: INTRO (1 min)                      │
+│ - Giới thiệu chủ đề unit                    │
+│ - AI Teacher chào, nêu mục tiêu bài học    │
+├─────────────────────────────────────────────┤
+│ Scene 2-6: VOCABULARY (5 min)               │
+│ - Từng từ vựng với hình ảnh                 │
+│ - Phát âm + Giải thích nghĩa               │
+│ - +5 XP mỗi từ                              │
+├─────────────────────────────────────────────┤
+│ Scene 7: DIALOGUE (3 min)                   │
+│ - Phát dialogue với highlight từ vựng      │
+│ - Dịch từng câu (pause để học sinh đọc)    │
+├─────────────────────────────────────────────┤
+│ Scene 8-10: COMPREHENSION EXERCISES (5 min) │
+│ - True/False                                │
+│ - Multiple Choice                           │
+│ - Matching                                  │
+│ - +10 XP mỗi câu đúng                       │
+├─────────────────────────────────────────────┤
+│ Scene 11: SUMMARY + REWARD (1 min)          │
+│ - Tổng kết từ vựng đã học                  │
+│ - Badge nếu đạt                             │
+└─────────────────────────────────────────────┘
+```
+
+#### 2. A CLOSER LOOK 1 Template (Vocabulary Focus)
+```
+┌─────────────────────────────────────────────┐
+│ Scene 1: REVIEW (2 min)                     │
+│ - Ôn lại từ Getting Started                 │
+│ - Quick quiz 3 câu                          │
+├─────────────────────────────────────────────┤
+│ Scene 2-8: VOCABULARY DEEP DIVE (8 min)     │
+│ - Từ vựng mở rộng theo chủ đề              │
+│ - Word families, collocations               │
+│ - Pronunciation practice                    │
+├─────────────────────────────────────────────┤
+│ Scene 9-12: VOCABULARY GAMES (7 min)        │
+│ - Matching Game                             │
+│ - Fill-in-the-blank                         │
+│ - Classification Table                      │
+├─────────────────────────────────────────────┤
+│ Scene 13: PRONUNCIATION (3 min)             │
+│ - Âm đặc biệt trong bài                    │
+│ - Listen & Repeat                           │
+└─────────────────────────────────────────────┘
+```
+
+#### 3. A CLOSER LOOK 2 Template (Grammar Focus)
+```
+┌─────────────────────────────────────────────┐
+│ Scene 1: GRAMMAR INTRO (3 min)              │
+│ - Giới thiệu điểm ngữ pháp                 │
+│ - Công thức + Ví dụ                         │
+├─────────────────────────────────────────────┤
+│ Scene 2-4: GRAMMAR EXPLANATION (5 min)      │
+│ - Giải thích chi tiết bằng tiếng Việt      │
+│ - Dấu hiệu nhận biết                        │
+│ - Các trường hợp đặc biệt                  │
+├─────────────────────────────────────────────┤
+│ Scene 5-10: GRAMMAR EXERCISES (10 min)      │
+│ - Verb form exercises                       │
+│ - Error correction                          │
+│ - Sentence transformation                   │
+│ - Question formation                        │
+├─────────────────────────────────────────────┤
+│ Scene 11: PRACTICE SUMMARY (2 min)          │
+│ - Tổng hợp quy tắc                         │
+│ - Tips ghi nhớ                              │
+└─────────────────────────────────────────────┘
+```
+
+#### 4. SKILLS 1 Template (Reading + Listening)
+```
+┌─────────────────────────────────────────────┐
+│ Scene 1: PRE-READING (2 min)                │
+│ - Vocabulary preview                        │
+│ - Prediction questions                      │
+├─────────────────────────────────────────────┤
+│ Scene 2-4: READING (8 min)                  │
+│ - Đọc bài với highlight từ khó            │
+│ - AI Teacher giải thích từng đoạn         │
+│ - Pause để học sinh đọc theo               │
+├─────────────────────────────────────────────┤
+│ Scene 5-7: READING EXERCISES (5 min)        │
+│ - True/False                                │
+│ - Multiple Choice                           │
+│ - Short Answer                              │
+├─────────────────────────────────────────────┤
+│ Scene 8: LISTENING PREP (2 min)             │
+│ - Vocabulary cho listening                  │
+│ - Prediction                                │
+├─────────────────────────────────────────────┤
+│ Scene 9-10: LISTENING (5 min)               │
+│ ⚠️ AUDIO GENERATED BY TTS                   │
+│ - Play audio (native voice)                 │
+│ - Replay option                             │
+├─────────────────────────────────────────────┤
+│ Scene 11-12: LISTENING EXERCISES (3 min)    │
+│ - Listen & Complete                         │
+│ - Listen & Choose                           │
+└─────────────────────────────────────────────┘
+```
+
+#### 5. SKILLS 2 Template (Speaking + Writing)
+```
+┌─────────────────────────────────────────────┐
+│ Scene 1-3: SPEAKING MODEL (5 min)           │
+│ - Model dialogue/questions                  │
+│ - AI Teacher demo                           │
+│ - Pause cho học sinh luyện                 │
+├─────────────────────────────────────────────┤
+│ Scene 4-6: SPEAKING PRACTICE (8 min)        │
+│ - Q&A interactive                           │
+│ - Record & playback (optional)              │
+│ - Feedback từ AI                           │
+├─────────────────────────────────────────────┤
+│ Scene 7: WRITING INTRO (3 min)              │
+│ - Writing task explanation                  │
+│ - Useful phrases                            │
+├─────────────────────────────────────────────┤
+│ Scene 8-10: WRITING PRACTICE (9 min)        │
+│ - Step-by-step guide                        │
+│ - Template với blanks                       │
+│ - Sample answer để tham khảo               │
+└─────────────────────────────────────────────┘
+```
+
+#### 6. LOOKING BACK Template (Review)
+```
+┌─────────────────────────────────────────────┐
+│ Scene 1: VOCABULARY REVIEW (5 min)          │
+│ - All vocabulary from unit                  │
+│ - Flashcard game                            │
+│ - Speed quiz                                │
+├─────────────────────────────────────────────┤
+│ Scene 2-4: GRAMMAR REVIEW (5 min)           │
+│ - Key grammar points                        │
+│ - Mixed exercises                           │
+├─────────────────────────────────────────────┤
+│ Scene 5: FINAL QUIZ (5 min)                 │
+│ - 10 câu hỏi tổng hợp                      │
+│ - Thời gian giới hạn                       │
+│ - Bonus XP cho perfect score               │
+├─────────────────────────────────────────────┤
+│ Scene 6: UNIT COMPLETE (2 min)              │
+│ - Certificate/Badge                         │
+│ - Stats: Từ vựng, Grammar, Score           │
+│ - Recommend next unit                       │
+└─────────────────────────────────────────────┘
+```
+
+---
+
 ## 🏗️ Kiến trúc Tổng quan
 
 ```
