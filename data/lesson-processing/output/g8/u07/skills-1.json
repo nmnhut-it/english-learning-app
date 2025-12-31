@@ -1,0 +1,257 @@
+{
+  "id": "g8-u07-skills-1",
+  "grade": 8,
+  "unit": 7,
+  "unitTitle": "Environmental Protection",
+  "section": "skills_1",
+  "sectionTitle": "Skills 1",
+  "sourceFile": "markdown-files/g8/unit-07/g8_u07_skills-1.md",
+  "processedAt": "2024-12-31T12:20:00Z",
+  "estimatedDuration": 35,
+
+  "blocks": [
+    {
+      "type": "instruction",
+      "content": "In this lesson, we'll practice reading about national parks and listening about water pollution.",
+      "contentVi": "Trong bài học này, chúng ta sẽ luyện đọc về các vườn quốc gia và nghe về ô nhiễm nước.",
+      "duration": 10
+    },
+    {
+      "type": "vocabulary",
+      "context": "Reading - National Parks",
+      "items": [
+        {"word": "all over the world", "partOfSpeech": "phrase", "pronunciation": "/ɔːl ˈəʊvə ðə wɜːld/", "meaning": "khắp thế giới"},
+        {"word": "rise", "partOfSpeech": "v", "pronunciation": "/raɪz/", "meaning": "tăng"},
+        {"word": "wildlife", "partOfSpeech": "n", "pronunciation": "/ˈwaɪldlaɪf/", "meaning": "hoang dã, đời sống hoang dã"},
+        {"word": "district", "partOfSpeech": "n", "pronunciation": "/ˈdɪstrɪkt/", "meaning": "quận, huyện"},
+        {"word": "contain", "partOfSpeech": "v", "pronunciation": "/kənˈteɪn/", "meaning": "bao gồm, chứa"},
+        {"word": "turtle", "partOfSpeech": "n", "pronunciation": "/ˈtɜːtl/", "meaning": "rùa biển"},
+        {"word": "dugong", "partOfSpeech": "n", "pronunciation": "/ˈdjuːgɒŋ/", "meaning": "con bò biển"},
+        {"word": "heritage", "partOfSpeech": "n", "pronunciation": "/ˈherɪtɪdʒ/", "meaning": "di sản"},
+        {"word": "valuable", "partOfSpeech": "adj", "pronunciation": "/ˈvæljuəbl/", "meaning": "có giá trị"},
+        {"word": "also", "partOfSpeech": "adv", "pronunciation": "/ˈɔːlsəʊ/", "meaning": "cũng"},
+        {"word": "be home to", "partOfSpeech": "phrase", "pronunciation": "/bi həʊm tuː/", "meaning": "là nhà của"},
+        {"word": "medicinal", "partOfSpeech": "adj", "pronunciation": "/məˈdɪsɪnl/", "meaning": "làm thuốc được"},
+        {"word": "play a key role", "partOfSpeech": "phrase", "pronunciation": "/pleɪ ə kiː rəʊl/", "meaning": "đóng vai trò chủ chốt"},
+        {"word": "raise the awareness", "partOfSpeech": "phrase", "pronunciation": "/reɪz ði əˈweənəs/", "meaning": "tăng sự ý thức"},
+        {"word": "resident", "partOfSpeech": "n", "pronunciation": "/ˈrezɪdənt/", "meaning": "cư dân"},
+        {"word": "president", "partOfSpeech": "n", "pronunciation": "/ˈprezɪdənt/", "meaning": "tổng thống"},
+        {"word": "importance", "partOfSpeech": "n", "pronunciation": "/ɪmˈpɔːtns/", "meaning": "sự quan trọng"}
+      ]
+    },
+    {
+      "type": "reading",
+      "title": "National Parks",
+      "exerciseNumber": "Bài 2 trang 77",
+      "content": "Today, there are national parks all over the world, and the number is always rising. A national park is a special area for the protection of the environment and wildlife.\n\nIn Viet Nam, there are now 34 national parks. Con Dao National Park is one of them. It became a national park in 1993. The park is in Con Dao District, Ba Ria - Vung Tau Province. It contains 15 islands covering 20,000 hectares. The ecosystem here is very diverse with thousands of species, including marine animals. Many coral species as well as endangered sea turtles, dolphins and dugongs also live here. The park is also home to many kinds of valuable wood and medicinal plants. Three old trees in the park are named \"Heritage Trees of Viet Nam\".\n\nCon Dao National Park, like other national parks, plays a key role in protecting endangered species as well as protecting the environment and natural resources. It also helps raise the awareness of local residents about the importance of nature.",
+      "translation": "Ngày nay, có những công viên quốc gia khắp thế giới, và con số thì lúc nào cũng đang tăng. Một công viên quốc gia là một khu vực đặc biệt cho việc bảo vệ môi trường và đời sống hoang dã.\n\nỞ Việt Nam, bây giờ có 34 công viên quốc gia. Công viên quốc gia Côn Đảo là một trong số chúng. Nó đã trở thành một công viên quốc gia vào năm 1993. Công viên thì ở huyện Côn Đảo, tỉnh Bà Rịa - Vũng Tàu. Nó chứa 15 đảo nhỏ bao phủ 20,000 héc-ta. Hệ sinh thái ở đây thì rất đa dạng với hàng nghìn loại, bao gồm các động vật biển. Nhiều loài san hô cũng như là rùa biển, cá heo và những con bò biển bị nguy hại cũng sống ở đây. Công viên thì cũng là nhà của nhiều loại gỗ và cây thuốc có giá trị. Ba loại cây cổ trong công viên được đặt tên là \"Những cây di sản của Việt Nam\".\n\nVườn quốc gia Côn Đảo, giống như những vườn quốc gia khác, đóng một vai trò quan trọng trong việc bảo vệ những loài bị đe dọa cũng như bảo vệ môi trường và các nguồn tài nguyên thiên nhiên. Nó cũng giúp tăng ý thức của người dân địa phương về tầm quan trọng của thiên nhiên.",
+      "wordCount": 180,
+      "difficulty": "medium"
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "fill_blank",
+      "exerciseNumber": "Bài 2 trang 77",
+      "instruction": "Read the passage and fill in the blanks with the correct words",
+      "instructionVi": "Đọc bài văn và điền từ đúng vào chỗ trống",
+      "questions": [
+        {"id": 1, "sentence": "There are 34 _____ in Viet Nam now.", "correctAnswer": "national parks"},
+        {"id": 2, "sentence": "The _____ in Con Dao is very diverse.", "correctAnswer": "ecosystem"},
+        {"id": 3, "sentence": "The dugong is an _____ animal.", "correctAnswer": "endangered"},
+        {"id": 4, "sentence": "National parks play a key role in protecting the _____.", "correctAnswer": "environment"}
+      ],
+      "points": 40
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "multiple_choice",
+      "exerciseNumber": "Bài 3 trang 77",
+      "instruction": "Choose the correct answer based on the reading passage",
+      "instructionVi": "Chọn câu trả lời đúng dựa trên bài đọc",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What is the best title for the passage?",
+          "questionVi": "Tiêu đề tốt nhất cho bài văn là gì?",
+          "options": ["A. Con Dao Island", "B. National Parks", "C. Wildlife in Viet Nam"],
+          "correctAnswer": "B"
+        },
+        {
+          "id": 2,
+          "question": "National parks are areas for...",
+          "questionVi": "Công viên quốc gia là các khu vực cho...",
+          "options": ["A. the protection of the environment", "B. the management of marine life", "C. trading animal products"],
+          "correctAnswer": "A"
+        },
+        {
+          "id": 3,
+          "question": "What is the area of Con Dao National Park?",
+          "questionVi": "Diện tích của vườn quốc gia Côn Đảo là gì?",
+          "options": ["A. 15 hectares", "B. 34 hectares", "C. 20,000 hectares"],
+          "correctAnswer": "C"
+        },
+        {
+          "id": 4,
+          "question": "Con Dao National Park has many...",
+          "questionVi": "Vườn quốc gia Côn Đảo có nhiều...",
+          "options": ["A. valuable plant species", "B. zoos", "C. factories"],
+          "correctAnswer": "A"
+        },
+        {
+          "id": 5,
+          "question": "Which of the following is NOT true according to the passage?",
+          "questionVi": "Cái nào sau đây không đúng theo bài văn?",
+          "options": [
+            "A. There are more and more national parks in the world.",
+            "B. Con Dao National Park is rich in animal species.",
+            "C. The mission of Con Dao National Park is to help other national parks."
+          ],
+          "correctAnswer": "C",
+          "explanation": "Bài văn không đề cập việc sứ mệnh của Côn Đảo là giúp các vườn quốc gia khác."
+        }
+      ],
+      "points": 50
+    },
+    {
+      "type": "dialogue",
+      "title": "Asking about Vu Quang National Park",
+      "exerciseNumber": "Bài 4 trang 78",
+      "context": "Speaking practice - Asking for information about national parks",
+      "lines": [
+        {"speaker": "A", "text": "Where is Vu Quang National Park?", "translation": "Vườn quốc gia Vũ Quang ở đâu?"},
+        {"speaker": "B", "text": "It's in Vu Quang District, Ha Tinh Province.", "translation": "Nó ở huyện Vũ Quang, tỉnh Hà Tĩnh."},
+        {"speaker": "A", "text": "When was Vu Quang National Park opened?", "translation": "Vườn quốc gia Vũ Quang được mở khi nào?"},
+        {"speaker": "B", "text": "It was opened in 2002.", "translation": "Nó được mở vào năm 2002."},
+        {"speaker": "A", "text": "What is the area of Vu Quang National Park?", "translation": "Diện tích của vườn quốc gia Vũ Quang là bao nhiêu?"},
+        {"speaker": "B", "text": "About 55,000 hectares.", "translation": "Khoảng 55,000 héc-ta."},
+        {"speaker": "A", "text": "What kind of species does Vu Quang National Park have?", "translation": "Vườn quốc gia Vũ Quang có những loài nào?"},
+        {"speaker": "B", "text": "It has saolas, 'black deer' and also valuable plants, woods, medicinal plants.", "translation": "Nó có sao la, 'hươu đen' và cũng có các loại cây quý, gỗ, cây thuốc."}
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "speaking",
+      "exerciseNumber": "Bài 5 trang 78",
+      "instruction": "Use the dialogue above as a model to talk about Vu Quang National Park",
+      "instructionVi": "Sử dụng đoạn hội thoại trên làm mẫu để nói về Vườn quốc gia Vũ Quang",
+      "sampleAnswer": "Vu Quang National Park is in Vu Quang district, Ha Tinh Province. It was opened in 2002. It has an area of about 55,000 hectares. The park is home to many kinds of species such as saolas, 'black deer' and also valuable woods and medicinal plants.",
+      "points": 30
+    },
+    {
+      "type": "vocabulary",
+      "context": "Listening - Water Pollution",
+      "items": [
+        {"word": "water pollution", "partOfSpeech": "n", "pronunciation": "/ˈwɔːtə pəˈluːʃn/", "meaning": "ô nhiễm nước"},
+        {"word": "serious", "partOfSpeech": "adj", "pronunciation": "/ˈsɪəriəs/", "meaning": "nghiêm trọng"},
+        {"word": "problem", "partOfSpeech": "n", "pronunciation": "/ˈprɒbləm/", "meaning": "vấn đề"},
+        {"word": "unsafe", "partOfSpeech": "adj", "pronunciation": "/ʌnˈseɪf/", "meaning": "không an toàn"},
+        {"word": "other uses", "partOfSpeech": "phrase", "pronunciation": "/ˈʌðə ˈjuːsɪz/", "meaning": "các công dụng khác"},
+        {"word": "happen", "partOfSpeech": "v", "pronunciation": "/ˈhæpən/", "meaning": "xảy ra"},
+        {"word": "waste", "partOfSpeech": "n", "pronunciation": "/weɪst/", "meaning": "chất thải"},
+        {"word": "toxic", "partOfSpeech": "adj", "pronunciation": "/ˈtɒksɪk/", "meaning": "độc hại"},
+        {"word": "substance", "partOfSpeech": "n", "pronunciation": "/ˈsʌbstəns/", "meaning": "chất"},
+        {"word": "man-made", "partOfSpeech": "adj", "pronunciation": "/mæn meɪd/", "meaning": "nhân tạo"},
+        {"word": "natural", "partOfSpeech": "adj", "pronunciation": "/ˈnætʃrəl/", "meaning": "tự nhiên"},
+        {"word": "flow", "partOfSpeech": "v", "pronunciation": "/fləʊ/", "meaning": "chảy"},
+        {"word": "factory", "partOfSpeech": "n", "pronunciation": "/ˈfæktri/", "meaning": "nhà máy"},
+        {"word": "harmful", "partOfSpeech": "adj", "pronunciation": "/ˈhɑːmfl/", "meaning": "có hại"},
+        {"word": "effect", "partOfSpeech": "n", "pronunciation": "/ɪˈfekt/", "meaning": "ảnh hưởng"},
+        {"word": "household", "partOfSpeech": "n", "pronunciation": "/ˈhaʊshəʊld/", "meaning": "hộ gia đình"},
+        {"word": "treat", "partOfSpeech": "v", "pronunciation": "/triːt/", "meaning": "xử lý"},
+        {"word": "litter", "partOfSpeech": "v", "pronunciation": "/ˈlɪtə/", "meaning": "xả rác"},
+        {"word": "single-use product", "partOfSpeech": "n", "pronunciation": "/ˈsɪŋɡl juːs ˈprɒdʌkt/", "meaning": "sản phẩm dùng một lần"},
+        {"word": "plastic bag", "partOfSpeech": "n", "pronunciation": "/ˈplæstɪk bæɡ/", "meaning": "túi nhựa"}
+      ]
+    },
+    {
+      "type": "listening",
+      "title": "Water Pollution",
+      "exerciseNumber": "Bài 1 trang 78",
+      "audioFile": "g8_u07_skills1_listening.mp3",
+      "audioStatus": "pending",
+      "transcript": "Water pollution is a serious environmental problem. It makes water unsafe for drinking and other uses. Water pollution happens when waste and toxic substances from factories and households flow into rivers and lakes without being treated. This has a harmful effect on the environment and people's health. To reduce water pollution, we shouldn't litter. We should also use green products instead of single-use products like plastic bags.",
+      "transcriptVi": "Ô nhiễm nước là một vấn đề môi trường nghiêm trọng. Nó làm cho nước không an toàn để uống và các công dụng khác. Ô nhiễm nước xảy ra khi chất thải và các chất độc hại từ nhà máy và hộ gia đình chảy vào sông và hồ mà không được xử lý. Điều này có ảnh hưởng có hại đến môi trường và sức khỏe con người. Để giảm ô nhiễm nước, chúng ta không nên xả rác. Chúng ta cũng nên sử dụng các sản phẩm xanh thay vì các sản phẩm dùng một lần như túi nhựa."
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "fill_blank",
+      "exerciseNumber": "Bài 1 trang 78",
+      "instruction": "Listen and fill in the blanks",
+      "instructionVi": "Nghe và điền vào chỗ trống",
+      "questions": [
+        {"id": 1, "sentence": "It makes water unsafe for _____ and other uses.", "correctAnswer": "drinking"},
+        {"id": 2, "sentence": "Waste from _____ and households flow into rivers.", "correctAnswer": "factories"},
+        {"id": 3, "sentence": "This has a _____ effect on the environment.", "correctAnswer": "harmful"},
+        {"id": 4, "sentence": "We _____ litter.", "correctAnswer": "shouldn't"}
+      ],
+      "points": 40
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "short_answer",
+      "exerciseNumber": "Bài 2 trang 79",
+      "instruction": "Listen again and answer the questions",
+      "instructionVi": "Nghe lại và trả lời các câu hỏi",
+      "questions": [
+        {"id": 1, "question": "What is the topic of the listening?", "correctAnswer": "water pollution"},
+        {"id": 2, "question": "How many causes of water pollution are mentioned?", "correctAnswer": "two"},
+        {"id": 3, "question": "Where does the polluted water flow into?", "correctAnswer": "rivers and lakes"},
+        {"id": 4, "question": "What does water pollution have on the environment?", "correctAnswer": "harmful effect"},
+        {"id": 5, "question": "What should we use instead of single-use products?", "correctAnswer": "green products"}
+      ],
+      "points": 50
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "matching",
+      "exerciseNumber": "Bài 4 trang 79",
+      "instruction": "Match the parts to make a complete notice",
+      "instructionVi": "Nối các phần để tạo thành một thông báo hoàn chỉnh",
+      "context": "Writing - Notice format",
+      "questions": [
+        {
+          "id": 1,
+          "leftItems": ["1. Go Green Club", "2. 12 January, 2025", "3. Lecture on Water Pollution", "4. Time and Place", "5. Contact information"],
+          "rightItems": [
+            "a. The heading/organization name",
+            "b. The date of the notice",
+            "c. The title/topic",
+            "d. Details of the event",
+            "e. How to get more information"
+          ],
+          "correctPairs": [[1, "a"], [2, "b"], [3, "c"], [4, "d"], [5, "e"]]
+        }
+      ],
+      "points": 25
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "writing",
+      "exerciseNumber": "Bài 5 trang 80",
+      "instruction": "Write a notice for a lecture on Water Pollution",
+      "instructionVi": "Viết một thông báo cho buổi thuyết trình về Ô nhiễm nước",
+      "sampleAnswer": "Go Green Club\n\nNOTICE\n\n12 January, 2025\n\nLecture on Water Pollution\n\nGo Green Club is organising a lecture on Water Pollution. Students from all the classes can participate. Interested students should contact the club by 20 February, 2025.\n\nLecture details:\nTime: 2 p.m - 4 p.m., 6 March\nPlace: School Grand Hall\nTopic: Water Pollution\n\nIf you have any questions, please contact us at 031 - 823 - 1231 or email abs@fmail.com\n\nClub Leader,\nNguyen Hong Mai",
+      "points": 40
+    },
+    {
+      "type": "instruction",
+      "content": "Excellent work! You've practiced reading about national parks and listening about water pollution.",
+      "contentVi": "Làm tốt lắm! Bạn đã luyện đọc về các vườn quốc gia và nghe về ô nhiễm nước.",
+      "duration": 10
+    }
+  ],
+
+  "stats": {
+    "vocabularyCount": 37,
+    "exerciseCount": 7,
+    "dialogueLines": 8,
+    "hasGrammar": false,
+    "hasReading": true,
+    "hasListening": true
+  },
+
+  "rewards": {
+    "xpTotal": 275,
+    "badges": ["nature_explorer", "listener"]
+  }
+}

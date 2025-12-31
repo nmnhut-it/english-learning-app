@@ -1,0 +1,224 @@
+{
+  "id": "g8-u07-a-closer-look-2",
+  "grade": 8,
+  "unit": 7,
+  "unitTitle": "Environmental Protection",
+  "section": "a_closer_look_2",
+  "sectionTitle": "A Closer Look 2",
+  "sourceFile": "markdown-files/g8/unit-07/g8_u07_a-closer-look-2.md",
+  "processedAt": "2024-12-31T12:10:00Z",
+  "estimatedDuration": 25,
+
+  "blocks": [
+    {
+      "type": "instruction",
+      "content": "In this lesson, we'll learn about complex sentences with adverbial clauses of time.",
+      "contentVi": "Trong bài học này, chúng ta sẽ học về câu ghép với mệnh đề trạng ngữ chỉ thời gian.",
+      "duration": 15
+    },
+    {
+      "type": "grammar",
+      "topic": "Complex Sentences with Adverbial Clauses of Time",
+      "topicVi": "Câu ghép với mệnh đề trạng ngữ chỉ thời gian",
+      "formula": {
+        "structure": "Main clause + Subordinate clause (time clause)",
+        "timeConjunctions": ["before", "after", "when", "while", "till/until", "as soon as"]
+      },
+      "usage": [
+        {
+          "conjunction": "before",
+          "description": "Something happens before another action",
+          "descriptionVi": "Điều gì đó xảy ra trước một hành động khác",
+          "example": "Turn off the lights before you go out.",
+          "exampleTranslation": "Tắt đèn trước khi bạn ra ngoài."
+        },
+        {
+          "conjunction": "after",
+          "description": "Something happens after another action",
+          "descriptionVi": "Điều gì đó xảy ra sau một hành động khác",
+          "example": "After the tornado hit, there were only a few houses left standing.",
+          "exampleTranslation": "Sau khi cơn lốc xoáy ập đến, chỉ còn lại một vài ngôi nhà đứng vững."
+        },
+        {
+          "conjunction": "when",
+          "description": "At the time that something happens",
+          "descriptionVi": "Vào thời điểm điều gì đó xảy ra",
+          "example": "You must show your ticket when you get on the train.",
+          "exampleTranslation": "Bạn phải cho xem vé khi bạn lên tàu."
+        },
+        {
+          "conjunction": "while",
+          "description": "During the time that something is happening",
+          "descriptionVi": "Trong khi điều gì đó đang xảy ra",
+          "example": "Can you help me lay the table while I'm cooking the soup?",
+          "exampleTranslation": "Bạn có thể giúp tôi dọn bàn trong khi tôi đang nấu súp không?"
+        },
+        {
+          "conjunction": "until/till",
+          "description": "Up to the point in time that",
+          "descriptionVi": "Cho đến khi",
+          "example": "Thomas Edison kept experimenting until he made a successful light bulb.",
+          "exampleTranslation": "Thomas Edison thử nghiệm không ngừng cho tới khi ông ấy làm ra một bóng đèn thành công."
+        },
+        {
+          "conjunction": "as soon as",
+          "description": "Immediately when something happens",
+          "descriptionVi": "Ngay khi điều gì đó xảy ra",
+          "example": "We will clean the beach as soon as it stops raining.",
+          "exampleTranslation": "Chúng tôi sẽ dọn bãi biển ngay khi trời ngừng mưa."
+        }
+      ],
+      "notes": [
+        {
+          "rule": "A complex sentence contains one independent clause and at least one dependent clause",
+          "ruleVi": "Một câu ghép chứa một mệnh đề độc lập và ít nhất một mệnh đề phụ thuộc"
+        },
+        {
+          "rule": "Adverbial clauses of time are a type of dependent clause",
+          "ruleVi": "Mệnh đề trạng ngữ chỉ thời gian là dạng mệnh đề phụ thuộc"
+        }
+      ],
+      "examples": [
+        {
+          "english": "The roads were slippery when it rained.",
+          "vietnamese": "Đường trơn trượt khi trời mưa.",
+          "analysis": {
+            "independentClause": "The roads were slippery",
+            "dependentClause": "when it rained"
+          }
+        }
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "multiple_choice",
+      "exerciseNumber": "Bài 1 trang 75",
+      "instruction": "Identify if the underlined clause is Independent Clause (IC) or Dependent Clause (DC)",
+      "instructionVi": "Xác định mệnh đề được gạch chân là Mệnh đề độc lập (IC) hay Mệnh đề phụ thuộc (DC)",
+      "questions": [
+        {"id": 1, "correctAnswer": "IC"},
+        {"id": 2, "correctAnswer": "DC"},
+        {"id": 3, "correctAnswer": "IC"},
+        {"id": 4, "correctAnswer": "DC"},
+        {"id": 5, "correctAnswer": "DC"}
+      ],
+      "points": 50
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "fill_blank_hints",
+      "exerciseNumber": "Bài 2 trang 75",
+      "instruction": "Complete the sentences with the correct time conjunctions",
+      "instructionVi": "Hoàn thành các câu với liên từ chỉ thời gian đúng",
+      "wordBank": ["when", "as soon as", "after", "until", "before"],
+      "questions": [
+        {"id": 1, "sentence": "I will call you _____ I see him.", "correctAnswer": "when"},
+        {"id": 2, "sentence": "We will go _____ he comes.", "correctAnswer": "as soon as"},
+        {"id": 3, "sentence": "She had dinner _____ she finished her homework.", "correctAnswer": "after"},
+        {"id": 4, "sentence": "Wait here _____ I come back.", "correctAnswer": "until"},
+        {"id": 5, "sentence": "Don't forget to lock the door _____ you leave.", "correctAnswer": "before"}
+      ],
+      "points": 50
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "matching",
+      "exerciseNumber": "Bài 3 trang 75",
+      "instruction": "Match the sentence halves",
+      "instructionVi": "Nối các nửa câu với nhau",
+      "questions": [
+        {
+          "id": 1,
+          "leftItems": [
+            "1. We will clean the beach",
+            "2. Don't forget to turn off the lights",
+            "3. You must show your ticket",
+            "4. Can you help me lay the table",
+            "5. Thomas Edison kept experimenting"
+          ],
+          "rightItems": [
+            "a. until he made a successful light bulb",
+            "b. as soon as it stops raining",
+            "c. while I'm cooking the soup",
+            "d. before you go out",
+            "e. when you get on the train"
+          ],
+          "correctPairs": [[1, "b"], [2, "d"], [3, "e"], [4, "c"], [5, "a"]],
+          "translations": {
+            "1b": "Chúng tôi sẽ dọn bãi biển ngay khi trời ngừng mưa",
+            "2d": "Đừng quên tắt đèn trước khi bạn ra ngoài",
+            "3e": "Bạn phải cho xem cái vé của bạn khi bạn bước lên tàu",
+            "4c": "Bạn có thể giúp tôi dọn bàn trong khi tôi đang nấu súp không?",
+            "5a": "Thomas Edison thử nghiệm không ngừng cho tới khi ông ấy làm ra một bóng đèn thành công"
+          }
+        }
+      ],
+      "points": 50
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "sentence_combining",
+      "exerciseNumber": "Bài 4 trang 76",
+      "instruction": "Combine the two sentences using the word in brackets",
+      "instructionVi": "Nối hai câu sử dụng từ trong ngoặc",
+      "questions": [
+        {
+          "id": 1,
+          "sentence1": "I will call you.",
+          "sentence2": "I arrive at the station.",
+          "conjunction": "as soon as",
+          "correctAnswer": "I will call you as soon as I arrive at the station."
+        },
+        {
+          "id": 2,
+          "sentence1": "Many Vietnamese women wear conical hats.",
+          "sentence2": "They work in the field.",
+          "conjunction": "when",
+          "correctAnswer": "Many Vietnamese women wear conical hats when they work/are working in the field."
+        },
+        {
+          "id": 3,
+          "sentence1": "My father taught me how to use the computer.",
+          "sentence2": "He bought one for me.",
+          "conjunction": "before",
+          "correctAnswer": "My father taught me how to use the computer before he bought one for me."
+        },
+        {
+          "id": 4,
+          "sentence1": "Nick is reading a novel.",
+          "sentence2": "Jack is reading a cartoon.",
+          "conjunction": "while",
+          "correctAnswer": "Nick is reading a novel while Jack is reading a cartoon."
+        },
+        {
+          "id": 5,
+          "sentence1": "The tornado hit.",
+          "sentence2": "There were only a few houses left standing.",
+          "conjunction": "after",
+          "correctAnswer": "After the tornado hit, there were only a few houses left standing."
+        }
+      ],
+      "points": 50
+    },
+    {
+      "type": "instruction",
+      "content": "Well done! You've learned how to use time conjunctions: before, after, when, while, until, and as soon as.",
+      "contentVi": "Làm tốt lắm! Bạn đã học cách sử dụng các liên từ chỉ thời gian: before, after, when, while, until, và as soon as.",
+      "duration": 10
+    }
+  ],
+
+  "stats": {
+    "vocabularyCount": 0,
+    "exerciseCount": 4,
+    "dialogueLines": 0,
+    "hasGrammar": true,
+    "hasReading": false,
+    "hasListening": false
+  },
+
+  "rewards": {
+    "xpTotal": 200,
+    "badges": ["grammar_master"]
+  }
+}

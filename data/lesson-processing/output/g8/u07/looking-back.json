@@ -1,0 +1,208 @@
+{
+  "id": "g8-u07-looking-back",
+  "grade": 8,
+  "unit": 7,
+  "unitTitle": "Environmental Protection",
+  "section": "looking_back",
+  "sectionTitle": "Looking Back",
+  "sourceFile": "markdown-files/g8/unit-07/g8_u07_looking-back.md",
+  "processedAt": "2024-12-31T12:25:00Z",
+  "estimatedDuration": 20,
+
+  "blocks": [
+    {
+      "type": "instruction",
+      "content": "Let's review what we've learned in this unit about environmental protection!",
+      "contentVi": "Hãy ôn tập những gì chúng ta đã học trong bài này về bảo vệ môi trường!",
+      "duration": 10
+    },
+    {
+      "type": "vocabulary",
+      "context": "Review vocabulary",
+      "items": [
+        {"word": "ecosystem", "partOfSpeech": "n", "pronunciation": "/ˈiːkəʊsɪstəm/", "meaning": "hệ sinh thái"},
+        {"word": "consumption", "partOfSpeech": "n", "pronunciation": "/kənˈsʌmpʃn/", "meaning": "sự tiêu thụ"},
+        {"word": "littering", "partOfSpeech": "n", "pronunciation": "/ˈlɪtərɪŋ/", "meaning": "xả rác"},
+        {"word": "carbon footprint", "partOfSpeech": "n", "pronunciation": "/ˈkɑːbən ˈfʊtprɪnt/", "meaning": "dấu chân carbon"},
+        {"word": "picking up rubbish", "partOfSpeech": "phrase", "pronunciation": "/ˈpɪkɪŋ ʌp ˈrʌbɪʃ/", "meaning": "nhặt rác"},
+        {"word": "habitats", "partOfSpeech": "n", "pronunciation": "/ˈhæbɪtæts/", "meaning": "môi trường sống"},
+        {"word": "endangered species", "partOfSpeech": "n", "pronunciation": "/ɪnˈdeɪndʒəd ˈspiːʃiːz/", "meaning": "các loài có nguy cơ tuyệt chủng"}
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "multiple_choice",
+      "exerciseNumber": "Bài 1 trang 80",
+      "instruction": "Choose the correct answer",
+      "instructionVi": "Chọn đáp án đúng",
+      "questions": [
+        {"id": 1, "correctAnswer": "A"},
+        {"id": 2, "correctAnswer": "C"},
+        {"id": 3, "correctAnswer": "B"},
+        {"id": 4, "correctAnswer": "A"},
+        {"id": 5, "correctAnswer": "C"}
+      ],
+      "points": 50
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "fill_blank",
+      "exerciseNumber": "Bài 2 trang 80",
+      "instruction": "Complete the sentences with the correct words",
+      "instructionVi": "Hoàn thành các câu với từ đúng",
+      "questions": [
+        {"id": 1, "sentence": "Don't throw rubbish in the street. That's called _____.", "correctAnswer": "littering"},
+        {"id": 2, "sentence": "Your _____ is the total amount of CO2 you produce.", "correctAnswer": "carbon footprint"},
+        {"id": 3, "sentence": "We can help the environment by _____ in the park.", "correctAnswer": "picking up rubbish"},
+        {"id": 4, "sentence": "National parks protect the _____ of many animals.", "correctAnswer": "habitats"},
+        {"id": 5, "sentence": "Pandas and tigers are _____.", "correctAnswer": "endangered species"}
+      ],
+      "points": 50
+    },
+    {
+      "type": "grammar",
+      "topic": "Review: Complex Sentences with Adverbial Clauses of Time",
+      "topicVi": "Ôn tập: Câu ghép với mệnh đề trạng ngữ chỉ thời gian",
+      "formula": {
+        "timeConjunctions": ["before", "after", "when", "while", "until", "as soon as"]
+      },
+      "usage": [
+        {
+          "conjunction": "until",
+          "example": "We should wait here until he gets back.",
+          "exampleTranslation": "Chúng ta nên đợi ở đây cho đến khi anh ấy quay lại."
+        },
+        {
+          "conjunction": "as soon as",
+          "example": "As soon as I arrived, I called him.",
+          "exampleTranslation": "Ngay khi tôi đến, tôi đã gọi cho anh ấy."
+        },
+        {
+          "conjunction": "before",
+          "example": "Remember to lock the door before you go out.",
+          "exampleTranslation": "Hãy nhớ khóa cửa trước khi bạn ra ngoài."
+        },
+        {
+          "conjunction": "after",
+          "example": "There were not many animals on the mountain after they destroyed the forest.",
+          "exampleTranslation": "Không còn nhiều động vật trên núi sau khi họ phá rừng."
+        },
+        {
+          "conjunction": "when",
+          "example": "When we finished our picnic, we picked up all the rubbish.",
+          "exampleTranslation": "Khi chúng tôi kết thúc buổi dã ngoại, chúng tôi nhặt hết rác."
+        }
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "sentence_combining",
+      "exerciseNumber": "Bài 3 trang 80",
+      "instruction": "Combine the sentences using the words in brackets",
+      "instructionVi": "Nối các câu sử dụng từ trong ngoặc",
+      "questions": [
+        {
+          "id": 1,
+          "sentence1": "We should wait here.",
+          "sentence2": "He gets back.",
+          "conjunction": "until",
+          "correctAnswer": "We should wait here until he gets back."
+        },
+        {
+          "id": 2,
+          "sentence1": "I arrived.",
+          "sentence2": "I called him.",
+          "conjunction": "as soon as",
+          "correctAnswer": "As soon as I arrived, I called him."
+        },
+        {
+          "id": 3,
+          "sentence1": "Remember to lock the door.",
+          "sentence2": "You go out.",
+          "conjunction": "before",
+          "correctAnswer": "Remember to lock the door before you go out."
+        },
+        {
+          "id": 4,
+          "sentence1": "They destroyed the forest.",
+          "sentence2": "There were not many animals on the mountain.",
+          "conjunction": "after",
+          "correctAnswer": "There were not many animals on the mountain after they destroyed the forest."
+        },
+        {
+          "id": 5,
+          "sentence1": "We finished our picnic.",
+          "sentence2": "We picked up all the rubbish.",
+          "conjunction": "when",
+          "correctAnswer": "When we finished our picnic, we picked up all the rubbish."
+        }
+      ],
+      "points": 50
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "error_correction",
+      "exerciseNumber": "Bài 4 trang 81",
+      "instruction": "Find and correct the mistakes in the following sentences",
+      "instructionVi": "Tìm và sửa lỗi sai trong các câu sau",
+      "questions": [
+        {
+          "id": 1,
+          "sentence": "I will call you as soon as I see him.",
+          "error": "as soon as",
+          "correction": "because",
+          "explanation": "Ngữ cảnh yêu cầu lý do (because) thay vì thời gian (as soon as)"
+        },
+        {
+          "id": 2,
+          "sentence": "Wait here until I come back.",
+          "error": "until",
+          "correction": "when",
+          "explanation": "Cần dùng 'when' để chỉ thời điểm cụ thể"
+        },
+        {
+          "id": 3,
+          "sentence": "I will go before you will finish.",
+          "error": "will finish",
+          "correction": "finish",
+          "explanation": "Mệnh đề sau 'before' không được chia thì tương lai"
+        },
+        {
+          "id": 4,
+          "sentence": "Don't talk while you are eating.",
+          "error": "while",
+          "correction": "when/if",
+          "explanation": "Ngữ cảnh phù hợp hơn với 'when' hoặc 'if'"
+        },
+        {
+          "id": 5,
+          "sentence": "Did you celebrate Earth Hour this year? - Yes, I do.",
+          "error": "do",
+          "correction": "did",
+          "explanation": "Câu hỏi ở quá khứ (Did) nên trả lời cũng phải ở quá khứ (did)"
+        }
+      ],
+      "points": 50
+    },
+    {
+      "type": "instruction",
+      "content": "Congratulations! You've completed Unit 7: Environmental Protection. Keep protecting our planet!",
+      "contentVi": "Chúc mừng! Bạn đã hoàn thành Bài 7: Bảo vệ môi trường. Hãy tiếp tục bảo vệ hành tinh của chúng ta!",
+      "duration": 10
+    }
+  ],
+
+  "stats": {
+    "vocabularyCount": 7,
+    "exerciseCount": 4,
+    "dialogueLines": 0,
+    "hasGrammar": true,
+    "hasReading": false,
+    "hasListening": false
+  },
+
+  "rewards": {
+    "xpTotal": 200,
+    "badges": ["unit_complete", "grammar_master"]
+  }
+}

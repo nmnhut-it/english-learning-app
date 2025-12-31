@@ -1,19 +1,113 @@
 {
   "meta": {
-    "lastUpdated": "2024-12-31T00:00:00Z",
-    "totalLessons": 0,
-    "processedLessons": 0,
+    "lastUpdated": "2024-12-31T12:30:00Z",
+    "totalLessons": 6,
+    "processedLessons": 6,
     "pendingLessons": 0,
     "failedLessons": 0
   },
   "grades": {
     "6": { "status": "pending", "units": {} },
     "7": { "status": "pending", "units": {} },
-    "8": { "status": "pending", "units": {} },
+    "8": {
+      "status": "in_progress",
+      "units": {
+        "7": {
+          "title": "Environmental Protection",
+          "status": "completed",
+          "sections": {
+            "getting-started": {
+              "status": "completed",
+              "sourceFile": "markdown-files/g8/unit-07/g8_u07_getting-started.md",
+              "outputFile": "data/lesson-processing/output/g8/u07/getting-started.json",
+              "processedAt": "2024-12-31T12:00:00Z",
+              "stats": {
+                "vocabularyCount": 29,
+                "exerciseCount": 4,
+                "dialogueLines": 14
+              }
+            },
+            "a-closer-look-1": {
+              "status": "completed",
+              "sourceFile": "markdown-files/g8/unit-07/g8_u07_a-closer-look-1.md",
+              "outputFile": "data/lesson-processing/output/g8/u07/a-closer-look-1.json",
+              "processedAt": "2024-12-31T12:05:00Z",
+              "stats": {
+                "vocabularyCount": 32,
+                "exerciseCount": 3,
+                "dialogueLines": 0
+              }
+            },
+            "a-closer-look-2": {
+              "status": "completed",
+              "sourceFile": "markdown-files/g8/unit-07/g8_u07_a-closer-look-2.md",
+              "outputFile": "data/lesson-processing/output/g8/u07/a-closer-look-2.json",
+              "processedAt": "2024-12-31T12:10:00Z",
+              "stats": {
+                "vocabularyCount": 0,
+                "exerciseCount": 4,
+                "dialogueLines": 0,
+                "hasGrammar": true
+              }
+            },
+            "communication": {
+              "status": "completed",
+              "sourceFile": "markdown-files/g8/unit-07/g8_u07_communication.md",
+              "outputFile": "data/lesson-processing/output/g8/u07/communication.json",
+              "processedAt": "2024-12-31T12:15:00Z",
+              "stats": {
+                "vocabularyCount": 8,
+                "exerciseCount": 2,
+                "dialogueLines": 5
+              }
+            },
+            "skills-1": {
+              "status": "completed",
+              "sourceFile": "markdown-files/g8/unit-07/g8_u07_skills-1.md",
+              "outputFile": "data/lesson-processing/output/g8/u07/skills-1.json",
+              "processedAt": "2024-12-31T12:20:00Z",
+              "stats": {
+                "vocabularyCount": 37,
+                "exerciseCount": 7,
+                "dialogueLines": 8,
+                "hasReading": true,
+                "hasListening": true
+              }
+            },
+            "looking-back": {
+              "status": "completed",
+              "sourceFile": "markdown-files/g8/unit-07/g8_u07_looking-back.md",
+              "outputFile": "data/lesson-processing/output/g8/u07/looking-back.json",
+              "processedAt": "2024-12-31T12:25:00Z",
+              "stats": {
+                "vocabularyCount": 7,
+                "exerciseCount": 4,
+                "dialogueLines": 0,
+                "hasGrammar": true
+              }
+            }
+          }
+        }
+      }
+    },
     "9": { "status": "pending", "units": {} },
     "10": { "status": "pending", "units": {} },
     "11": { "status": "pending", "units": {} }
   },
   "processingQueue": [],
-  "history": []
+  "history": [
+    {
+      "timestamp": "2024-12-31T12:30:00Z",
+      "action": "batch_process",
+      "details": "Processed Grade 8 Unit 7: Environmental Protection (6 sections)",
+      "lessons": [
+        "g8-u07-getting-started",
+        "g8-u07-a-closer-look-1",
+        "g8-u07-a-closer-look-2",
+        "g8-u07-communication",
+        "g8-u07-skills-1",
+        "g8-u07-looking-back"
+      ]
+    }
+  ]
 }

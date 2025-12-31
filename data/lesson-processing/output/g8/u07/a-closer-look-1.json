@@ -1,0 +1,142 @@
+{
+  "id": "g8-u07-a-closer-look-1",
+  "grade": 8,
+  "unit": 7,
+  "unitTitle": "Environmental Protection",
+  "section": "a_closer_look_1",
+  "sectionTitle": "A Closer Look 1",
+  "sourceFile": "markdown-files/g8/unit-07/g8_u07_a-closer-look-1.md",
+  "processedAt": "2024-12-31T12:05:00Z",
+  "estimatedDuration": 20,
+
+  "blocks": [
+    {
+      "type": "instruction",
+      "content": "In this lesson, we'll learn more vocabulary about environmental protection and practice matching words with definitions.",
+      "contentVi": "Trong bài học này, chúng ta sẽ học thêm từ vựng về bảo vệ môi trường và luyện tập nối từ với định nghĩa.",
+      "duration": 15
+    },
+    {
+      "type": "vocabulary",
+      "items": [
+        {"word": "campfire", "partOfSpeech": "n", "pronunciation": "/ˈkæmpfaɪə/", "meaning": "lửa trại"},
+        {"word": "cut down trees", "partOfSpeech": "phrase", "pronunciation": "/kʌt daʊn triːz/", "meaning": "chặt cây"},
+        {"word": "pick up rubbish", "partOfSpeech": "phrase", "pronunciation": "/pɪk ʌp ˈrʌbɪʃ/", "meaning": "nhặt rác"},
+        {"word": "endangered species", "partOfSpeech": "n", "pronunciation": "/ɪnˈdeɪndʒəd ˈspiːʃiːz/", "meaning": "loài có nguy cơ tuyệt chủng"},
+        {"word": "ecosystem", "partOfSpeech": "n", "pronunciation": "/ˈiːkəʊsɪstəm/", "meaning": "hệ sinh thái"},
+        {"word": "pollution", "partOfSpeech": "n", "pronunciation": "/pəˈluːʃn/", "meaning": "ô nhiễm"},
+        {"word": "habitat", "partOfSpeech": "n", "pronunciation": "/ˈhæbɪtæt/", "meaning": "môi trường sống"},
+        {"word": "environmental", "partOfSpeech": "adj", "pronunciation": "/ɪnˌvaɪrənˈmentl/", "meaning": "liên quan tới môi trường"},
+        {"word": "protection", "partOfSpeech": "n", "pronunciation": "/prəˈtekʃn/", "meaning": "sự bảo vệ"},
+        {"word": "process", "partOfSpeech": "n", "pronunciation": "/ˈprəʊses/", "meaning": "quy trình, quá trình"},
+        {"word": "soil", "partOfSpeech": "n", "pronunciation": "/sɔɪl/", "meaning": "đất"},
+        {"word": "dirty", "partOfSpeech": "adj", "pronunciation": "/ˈdɜːti/", "meaning": "dơ, bẩn"},
+        {"word": "harmful", "partOfSpeech": "adj", "pronunciation": "/ˈhɑːmfl/", "meaning": "có hại, gây hại"},
+        {"word": "substance", "partOfSpeech": "n", "pronunciation": "/ˈsʌbstəns/", "meaning": "hợp chất, chất"},
+        {"word": "particular", "partOfSpeech": "adj", "pronunciation": "/pəˈtɪkjələ/", "meaning": "đặc biệt, cụ thể"},
+        {"word": "area", "partOfSpeech": "n", "pronunciation": "/ˈeəriə/", "meaning": "khu vực, lĩnh vực"},
+        {"word": "related to", "partOfSpeech": "phrase", "pronunciation": "/rɪˈleɪtɪd tuː/", "meaning": "liên quan tới"},
+        {"word": "risk", "partOfSpeech": "n", "pronunciation": "/rɪsk/", "meaning": "nguy cơ"},
+        {"word": "extinct", "partOfSpeech": "adj", "pronunciation": "/ɪkˈstɪŋkt/", "meaning": "tuyệt chủng"},
+        {"word": "extinction", "partOfSpeech": "n", "pronunciation": "/ɪkˈstɪŋkʃn/", "meaning": "sự tuyệt chủng"},
+        {"word": "face", "partOfSpeech": "v", "pronunciation": "/feɪs/", "meaning": "đối mặt"},
+        {"word": "carbon dioxide", "partOfSpeech": "n", "pronunciation": "/ˈkɑːbən daɪˈɒksaɪd/", "meaning": "khí cacbonic"},
+        {"word": "neighbourhood", "partOfSpeech": "n", "pronunciation": "/ˈneɪbəhʊd/", "meaning": "khu phố, hàng xóm"},
+        {"word": "National Park", "partOfSpeech": "n", "pronunciation": "/ˈnæʃnəl pɑːk/", "meaning": "Công viên Quốc gia"},
+        {"word": "provide", "partOfSpeech": "v", "pronunciation": "/prəˈvaɪd/", "meaning": "cung cấp"},
+        {"word": "release", "partOfSpeech": "v", "pronunciation": "/rɪˈliːs/", "meaning": "thả ra, phóng thích"},
+        {"word": "absorb", "partOfSpeech": "v", "pronunciation": "/əbˈzɔːb/", "meaning": "hấp thu"},
+        {"word": "species", "partOfSpeech": "n", "pronunciation": "/ˈspiːʃiːz/", "meaning": "loài"},
+        {"word": "serious", "partOfSpeech": "adj", "pronunciation": "/ˈsɪəriəs/", "meaning": "nghiêm trọng"},
+        {"word": "concern", "partOfSpeech": "n", "pronunciation": "/kənˈsɜːn/", "meaning": "mối quan ngại, mối lo"},
+        {"word": "pond", "partOfSpeech": "n", "pronunciation": "/pɒnd/", "meaning": "cái ao"},
+        {"word": "whole", "partOfSpeech": "adj", "pronunciation": "/həʊl/", "meaning": "toàn bộ"}
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "matching",
+      "exerciseNumber": "Bài 1",
+      "instruction": "Match the pictures with the correct phrases",
+      "instructionVi": "Nối hình ảnh với cụm từ đúng",
+      "questions": [
+        {
+          "id": 1,
+          "items": [
+            {"id": 1, "answer": "picking up rubbish", "meaning": "nhặt rác"},
+            {"id": 2, "answer": "protecting endangered species", "meaning": "bảo vệ các loài có nguy cơ tuyệt chủng"},
+            {"id": 3, "answer": "cutting down trees", "meaning": "chặt cây"},
+            {"id": 4, "answer": "saving water", "meaning": "tiết kiệm nước"},
+            {"id": 5, "answer": "building a campfire", "meaning": "đốt lửa trại"}
+          ]
+        }
+      ],
+      "points": 50
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "definition_matching",
+      "exerciseNumber": "Bài 2",
+      "instruction": "Match the words with their definitions",
+      "instructionVi": "Nối từ với định nghĩa của chúng",
+      "questions": [
+        {
+          "id": 1,
+          "leftItems": ["1. ecosystem", "2. pollution", "3. habitat", "4. environmental protection", "5. endangered species"],
+          "rightItems": [
+            "a. the process of making water, air, soil, etc. dirty by adding harmful substances",
+            "b. animals facing a high risk of extinction in the wild",
+            "c. the natural home of a plant or animal",
+            "d. the practice of protecting the natural environment",
+            "e. how living and non-living things in a particular area are related to each other"
+          ],
+          "correctPairs": [[1, "e"], [2, "a"], [3, "c"], [4, "d"], [5, "b"]],
+          "explanations": {
+            "ecosystem": "hệ sinh thái - cách các sinh vật sống và không sống trong một khu vực cụ thể có liên quan với nhau",
+            "pollution": "ô nhiễm - quá trình làm bẩn nước, không khí, đất bằng cách thêm các chất có hại",
+            "habitat": "môi trường sống - nơi sinh sống tự nhiên của thực vật hoặc động vật",
+            "environmental protection": "bảo vệ môi trường - thực hành bảo vệ môi trường tự nhiên",
+            "endangered species": "các loài có nguy cơ tuyệt chủng - động vật đối mặt với nguy cơ tuyệt chủng cao trong tự nhiên"
+          }
+        }
+      ],
+      "points": 50
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "fill_blank_hints",
+      "exerciseNumber": "Bài 3",
+      "instruction": "Complete the sentences with the correct words from the box",
+      "instructionVi": "Hoàn thành các câu với từ đúng từ trong hộp",
+      "wordBank": ["endangered species", "habitat", "carbon dioxide", "cutting down trees", "ecosystem"],
+      "questions": [
+        {"id": 1, "sentence": "Many animals are becoming _____ because of habitat loss.", "correctAnswer": "endangered species"},
+        {"id": 2, "sentence": "The forest is the natural _____ of many wild animals.", "correctAnswer": "habitat"},
+        {"id": 3, "sentence": "Trees absorb _____ and release oxygen.", "correctAnswer": "carbon dioxide"},
+        {"id": 4, "sentence": "_____ destroys animal habitats.", "correctAnswer": "cutting down trees"},
+        {"id": 5, "sentence": "The _____ in this area is very diverse.", "correctAnswer": "ecosystem"}
+      ],
+      "points": 50
+    },
+    {
+      "type": "instruction",
+      "content": "Excellent! You've learned important vocabulary about ecosystems, pollution, and environmental protection.",
+      "contentVi": "Xuất sắc! Bạn đã học được các từ vựng quan trọng về hệ sinh thái, ô nhiễm và bảo vệ môi trường.",
+      "duration": 10
+    }
+  ],
+
+  "stats": {
+    "vocabularyCount": 32,
+    "exerciseCount": 3,
+    "dialogueLines": 0,
+    "hasGrammar": false,
+    "hasReading": false,
+    "hasListening": false
+  },
+
+  "rewards": {
+    "xpTotal": 310,
+    "badges": ["vocabulary_master"]
+  }
+}

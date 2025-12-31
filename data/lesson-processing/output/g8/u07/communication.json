@@ -1,0 +1,150 @@
+{
+  "id": "g8-u07-communication",
+  "grade": 8,
+  "unit": 7,
+  "unitTitle": "Environmental Protection",
+  "section": "communication",
+  "sectionTitle": "Communication",
+  "sourceFile": "markdown-files/g8/unit-07/g8_u07_communication.md",
+  "processedAt": "2024-12-31T12:15:00Z",
+  "estimatedDuration": 15,
+
+  "blocks": [
+    {
+      "type": "instruction",
+      "content": "In this lesson, we'll learn how to ask for clarification about environmental terms.",
+      "contentVi": "Trong bài học này, chúng ta sẽ học cách hỏi để làm rõ về các thuật ngữ môi trường.",
+      "duration": 10
+    },
+    {
+      "type": "grammar",
+      "topic": "Asking for Clarification",
+      "topicVi": "Hỏi để làm rõ",
+      "formula": {
+        "patterns": [
+          "What does + [phrase] + mean?",
+          "What do you mean by + '[phrase]'?"
+        ]
+      },
+      "usage": [
+        {
+          "pattern": "What does [phrase] mean?",
+          "description": "Ask for the meaning of a word or phrase",
+          "descriptionVi": "Hỏi nghĩa của một từ hoặc cụm từ",
+          "example": "What does 'carbon footprint' mean?",
+          "exampleTranslation": "'Carbon footprint' có nghĩa là gì?"
+        },
+        {
+          "pattern": "What do you mean by '[phrase]'?",
+          "description": "Ask someone to explain what they said",
+          "descriptionVi": "Hỏi ai đó giải thích điều họ đã nói",
+          "example": "What do you mean by 'single-use products'?",
+          "exampleTranslation": "Bạn muốn nói gì qua 'sản phẩm dùng một lần'?"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "Asking about Environmental Terms",
+      "exerciseNumber": "Bài 2 trang 76",
+      "lines": [
+        {"speaker": "A", "text": "What does it mean / what do you mean by 'single-use products'?", "translation": "'Sản phẩm dùng một lần' nghĩa là gì / Bạn muốn nói gì qua 'sản phẩm dùng một lần'?"},
+        {"speaker": "B", "text": "'Single-use products' are products made to be used once only.", "translation": "'Sản phẩm dùng một lần' là sản phẩm được làm để sử dụng một lần duy nhất."},
+        {"speaker": "A", "text": "And what does it mean / what do you mean by 'global warming'?", "translation": "Và 'sự nóng lên toàn cầu' nghĩa là gì?"},
+        {"speaker": "B", "text": "It is the increase in the atmosphere's temperatures caused by the rise of gases, especially carbon dioxide.", "translation": "Đó là sự gia tăng nhiệt độ trong khí quyển do sự gia tăng của các loại khí, đặc biệt là khí carbon dioxide."},
+        {"speaker": "A", "text": "Oh, thank you.", "translation": "Ồ, cảm ơn bạn."}
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "items": [
+        {"word": "celebrate", "partOfSpeech": "v", "pronunciation": "/ˈselɪbreɪt/", "meaning": "tổ chức, ăn mừng"},
+        {"word": "billion", "partOfSpeech": "n", "pronunciation": "/ˈbɪljən/", "meaning": "tỉ"},
+        {"word": "million", "partOfSpeech": "n", "pronunciation": "/ˈmɪljən/", "meaning": "triệu"},
+        {"word": "thousand", "partOfSpeech": "n", "pronunciation": "/ˈθaʊznd/", "meaning": "nghìn"},
+        {"word": "participate in", "partOfSpeech": "v", "pronunciation": "/pɑːˈtɪsɪpeɪt ɪn/", "meaning": "tham gia vào"},
+        {"word": "take part in", "partOfSpeech": "v", "pronunciation": "/teɪk pɑːt ɪn/", "meaning": "tham gia vào"},
+        {"word": "at the same time", "partOfSpeech": "phrase", "pronunciation": "/æt ðə seɪm taɪm/", "meaning": "cùng lúc"},
+        {"word": "continue", "partOfSpeech": "v", "pronunciation": "/kənˈtɪnjuː/", "meaning": "tiếp tục"}
+      ]
+    },
+    {
+      "type": "reading",
+      "title": "Earth Day",
+      "exerciseNumber": "Bài 3 trang 76",
+      "content": "Every year on April 22, more than 190 countries celebrate Earth Day to protect the planet. The first Earth Day started in 1970 in the USA. Today, more than 1 billion people participate in Earth Day activities every year, making it one of the biggest movements. By taking part in activities such as picking up rubbish and planting trees, you can help protect nature and the environment. You can also do things like buying green products and practising the reduce, reuse and recycle. We can celebrate Earth Day and protect the earth at the same time. Moreover, we should continue doing things to save the earth every day of the year.",
+      "translation": "Hàng năm vào ngày 22 tháng 4, hơn 190 quốc gia kỷ niệm Ngày Trái đất để bảo vệ hành tinh. Ngày Trái đất đầu tiên bắt đầu vào năm 1970 tại Mỹ. Ngày nay, hơn 1 tỷ người tham gia các hoạt động của Ngày Trái đất mỗi năm, khiến nó trở thành một trong những phong trào lớn nhất. Bằng cách tham gia vào các hoạt động như nhặt rác và trồng cây, bạn có thể góp phần bảo vệ thiên nhiên và môi trường. Bạn cũng có thể làm những việc như mua các sản phẩm xanh và thực hành giảm thiểu, tái sử dụng và tái chế. Chúng ta có thể kỷ niệm Ngày Trái đất và bảo vệ trái đất cùng một lúc. Hơn nữa, chúng ta nên tiếp tục làm những việc để cứu trái đất mỗi ngày trong năm.",
+      "wordCount": 150,
+      "difficulty": "medium"
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "multiple_choice",
+      "exerciseNumber": "Bài 3 trang 76",
+      "instruction": "What do people do on Earth Day? Choose the correct activities.",
+      "instructionVi": "Người ta làm gì vào ngày Trái đất? Chọn các hoạt động đúng.",
+      "questions": [
+        {
+          "id": 1,
+          "options": [
+            "1. nhặt rác",
+            "2. bảo vệ động vật bị đe dọa",
+            "3. trồng cây",
+            "4. mua sản phẩm xanh",
+            "5. giúp hàng xóm"
+          ],
+          "correctAnswer": ["1", "3", "4"],
+          "explanation": "Theo bài đọc, các hoạt động trong Ngày Trái Đất bao gồm: nhặt rác, trồng cây, và mua sản phẩm xanh."
+        }
+      ],
+      "points": 30
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "matching",
+      "exerciseNumber": "Bài 4 trang 77",
+      "instruction": "Match the activities with their benefits",
+      "instructionVi": "Nối các hoạt động với lợi ích của chúng",
+      "questions": [
+        {
+          "id": 1,
+          "leftItems": ["1. Plant trees", "2. Buy green products", "3. Pick up rubbish", "4. Save electricity"],
+          "rightItems": [
+            "a. Make our environment clean, reduce pollution",
+            "b. Reduce pollution, improve health",
+            "c. Save natural resources",
+            "d. Improve health, reduce pollution"
+          ],
+          "correctPairs": [[1, "b"], [2, "d"], [3, "a"], [4, "c"]],
+          "translations": {
+            "1b": "trồng cây - giảm ô nhiễm, cải thiện sức khỏe",
+            "2d": "mua sản phẩm xanh - cải thiện sức khỏe, giảm ô nhiễm",
+            "3a": "nhặt rác - làm cho môi trường sạch, giảm ô nhiễm",
+            "4c": "tiết kiệm điện - tiết kiệm tài nguyên thiên nhiên"
+          }
+        }
+      ],
+      "points": 40
+    },
+    {
+      "type": "instruction",
+      "content": "Great! Remember to celebrate Earth Day every day by taking care of our planet!",
+      "contentVi": "Tuyệt vời! Hãy nhớ kỷ niệm Ngày Trái Đất mỗi ngày bằng cách chăm sóc hành tinh của chúng ta!",
+      "duration": 10
+    }
+  ],
+
+  "stats": {
+    "vocabularyCount": 8,
+    "exerciseCount": 2,
+    "dialogueLines": 5,
+    "hasGrammar": true,
+    "hasReading": true,
+    "hasListening": false
+  },
+
+  "rewards": {
+    "xpTotal": 140,
+    "badges": ["earth_protector"]
+  }
+}

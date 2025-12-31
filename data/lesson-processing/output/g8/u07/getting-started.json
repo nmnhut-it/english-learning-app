@@ -1,0 +1,181 @@
+{
+  "id": "g8-u07-getting-started",
+  "grade": 8,
+  "unit": 7,
+  "unitTitle": "Environmental Protection",
+  "section": "getting_started",
+  "sectionTitle": "Getting Started",
+  "sourceFile": "markdown-files/g8/unit-07/g8_u07_getting-started.md",
+  "processedAt": "2024-12-31T12:00:00Z",
+  "estimatedDuration": 20,
+
+  "blocks": [
+    {
+      "type": "instruction",
+      "content": "Welcome to Unit 7: Environmental Protection! Today we'll learn about environmental problems and how to protect our planet.",
+      "contentVi": "Chào mừng đến với Bài 7: Bảo vệ Môi trường! Hôm nay chúng ta sẽ học về các vấn đề môi trường và cách bảo vệ hành tinh của chúng ta.",
+      "duration": 30
+    },
+    {
+      "type": "vocabulary",
+      "items": [
+        {"word": "discuss", "partOfSpeech": "v", "pronunciation": "/dɪˈskʌs/", "meaning": "thảo luận"},
+        {"word": "environmental problems", "partOfSpeech": "n", "pronunciation": "/ɪnˌvaɪ.rənˈmen.təl ˈprɒb.ləmz/", "meaning": "các vấn đề môi trường"},
+        {"word": "environmental protection", "partOfSpeech": "n", "pronunciation": "/ɪnˌvaɪ.rənˈmen.təl prəˈtek.ʃən/", "meaning": "bảo vệ môi trường"},
+        {"word": "serious", "partOfSpeech": "adj", "pronunciation": "/ˈsɪə.ri.əs/", "meaning": "nghiêm trọng"},
+        {"word": "pollution", "partOfSpeech": "n", "pronunciation": "/pəˈluː.ʃən/", "meaning": "ô nhiễm"},
+        {"word": "habitat", "partOfSpeech": "n", "pronunciation": "/ˈhæb.ɪ.tæt/", "meaning": "môi trường sống"},
+        {"word": "habitat loss", "partOfSpeech": "n", "pronunciation": "/ˈhæb.ɪ.tæt lɒs/", "meaning": "mất môi trường sống"},
+        {"word": "worse and worse", "partOfSpeech": "adv", "pronunciation": "/wɜːs ənd wɜːs/", "meaning": "ngày càng tệ hơn"},
+        {"word": "quality", "partOfSpeech": "n", "pronunciation": "/ˈkwɒl.ɪ.ti/", "meaning": "chất lượng"},
+        {"word": "global warming", "partOfSpeech": "n", "pronunciation": "/ˌɡləʊ.bəl ˈwɔː.mɪŋ/", "meaning": "sự nóng lên toàn cầu"},
+        {"word": "endangered species", "partOfSpeech": "n", "pronunciation": "/ɪnˈdeɪn.dʒəd ˈspiː.ʃiːz/", "meaning": "các loài có nguy cơ tuyệt chủng"},
+        {"word": "protect", "partOfSpeech": "v", "pronunciation": "/prəˈtekt/", "meaning": "bảo vệ"},
+        {"word": "reduce", "partOfSpeech": "v", "pronunciation": "/rɪˈdjuːs/", "meaning": "giảm"},
+        {"word": "carbon footprint", "partOfSpeech": "n", "pronunciation": "/ˈkɑː.bən ˈfʊt.prɪnt/", "meaning": "lượng khí thải carbon"},
+        {"word": "carbon dioxide", "partOfSpeech": "n", "pronunciation": "/ˌkɑː.bən daɪˈɒk.saɪd/", "meaning": "khí carbon dioxide"},
+        {"word": "release", "partOfSpeech": "v", "pronunciation": "/rɪˈliːs/", "meaning": "thải ra"},
+        {"word": "device", "partOfSpeech": "n", "pronunciation": "/dɪˈvaɪs/", "meaning": "thiết bị"},
+        {"word": "practise", "partOfSpeech": "v", "pronunciation": "/ˈpræk.tɪs/", "meaning": "thực hành"},
+        {"word": "avoid", "partOfSpeech": "v", "pronunciation": "/əˈvɔɪd/", "meaning": "tránh"},
+        {"word": "litter", "partOfSpeech": "n/v", "pronunciation": "/ˈlɪt.ər/", "meaning": "rác / xả rác"},
+        {"word": "volunteer", "partOfSpeech": "n/v", "pronunciation": "/ˌvɒl.ənˈtɪər/", "meaning": "tình nguyện viên / tình nguyện"},
+        {"word": "species", "partOfSpeech": "n", "pronunciation": "/ˈspiː.ʃiːz/", "meaning": "loài"},
+        {"word": "reuse", "partOfSpeech": "v", "pronunciation": "/ˌriːˈjuːz/", "meaning": "tái sử dụng"},
+        {"word": "recycle", "partOfSpeech": "v", "pronunciation": "/ˌriːˈsaɪ.kəl/", "meaning": "tái chế"},
+        {"word": "single-use", "partOfSpeech": "adj", "pronunciation": "/ˌsɪŋ.ɡəlˈjuːs/", "meaning": "dùng một lần"},
+        {"word": "product", "partOfSpeech": "n", "pronunciation": "/ˈprɒd.ʌkt/", "meaning": "sản phẩm"},
+        {"word": "dump", "partOfSpeech": "v", "pronunciation": "/dʌmp/", "meaning": "thả, xả"},
+        {"word": "waste", "partOfSpeech": "n", "pronunciation": "/weɪst/", "meaning": "chất thải"},
+        {"word": "rubbish", "partOfSpeech": "n", "pronunciation": "/ˈrʌb.ɪʃ/", "meaning": "rác"}
+      ]
+    },
+    {
+      "type": "instruction",
+      "content": "Now let's listen to a conversation at an environmental club meeting.",
+      "contentVi": "Bây giờ chúng ta hãy nghe một cuộc trò chuyện tại buổi họp câu lạc bộ môi trường.",
+      "duration": 10
+    },
+    {
+      "type": "dialogue",
+      "title": "Environmental Club Meeting",
+      "context": "At an environmental club meeting, members discuss environmental problems and solutions",
+      "lines": [
+        {"speaker": "Club Leader", "text": "Hello. Welcome back. Today we're discussing environmental problems and protection. What are our serious environmental problems now?", "translation": "Xin chào. Chào mừng trở lại. Hôm nay chúng ta đang thảo luận về vấn đề môi trường và bảo vệ môi trường. Các vấn đề môi trường nghiêm trọng của chúng ta hiện nay là gì?"},
+        {"speaker": "Nam", "text": "Pollution and habitat loss, I think.", "translation": "Ô nhiễm và mất môi trường sống, tôi nghĩ vậy."},
+        {"speaker": "Ann", "text": "I agree. Air and water quality is getting worse and worse.", "translation": "Tôi đồng ý. Chất lượng không khí và nước ngày càng trở nên tồi tệ."},
+        {"speaker": "Club Leader", "text": "Any others?", "translation": "Còn ai nữa không?"},
+        {"speaker": "Ann", "text": "Yes, I can think of some like global warming, the loss of endangered species, ...", "translation": "Có, tôi có thể nghĩ đến một số vấn đề như sự nóng lên toàn cầu, sự biến mất của các loài có nguy cơ tuyệt chủng, …"},
+        {"speaker": "Nam", "text": "So what should we do to help protect the environment?", "translation": "Vậy chúng ta nên làm gì để góp phần bảo vệ môi trường?"},
+        {"speaker": "Club Leader", "text": "We can reduce our carbon footprint even in our homes.", "translation": "Chúng ta có thể giảm lượng khí thải carbon ngay cả trong nhà của mình."},
+        {"speaker": "Ann", "text": "What do you mean by 'carbon footprint'?", "translation": "Bạn có ý nghĩa gì bởi 'dấu chân carbon'?"},
+        {"speaker": "Club Leader", "text": "It's the amount of carbon dioxide we release into the environment.", "translation": "Đó là lượng khí carbon dioxide mà chúng ta thải ra môi trường."},
+        {"speaker": "Ann", "text": "I see. So we can do things like turning off devices when we're not using them.", "translation": "Tôi hiểu rồi. Vì vậy, chúng ta có thể thực hiện những việc như tắt thiết bị khi không sử dụng chúng."},
+        {"speaker": "Club Leader", "text": "Exactly... And there's more we can do, such as practising the 3Rs.", "translation": "Đúng vậy… Và còn nhiều điều chúng ta có thể làm, chẳng hạn như thực hành 3R."},
+        {"speaker": "Nam", "text": "We can also plant more trees in our neighbourhood.", "translation": "Chúng ta cũng có thể trồng nhiều cây hơn trong khu phố của mình."},
+        {"speaker": "Ann", "text": "And try to avoid using single-use products, like plastic bags, and stop littering.", "translation": "Và cố gắng tránh sử dụng các sản phẩm sử dụng một lần, như túi nhựa và ngừng xả rác."},
+        {"speaker": "Club Leader", "text": "Yeah. And we can volunteer for some local environmental programmes to save endangered species.", "translation": "Ừ. Và chúng ta có thể tình nguyện tham gia một số chương trình môi trường địa phương để cứu các loài có nguy cơ tuyệt chủng."}
+      ],
+      "vocabularyHighlights": ["pollution", "habitat loss", "global warming", "endangered species", "carbon footprint", "carbon dioxide", "3Rs", "single-use products", "littering"]
+    },
+    {
+      "type": "instruction",
+      "content": "Now let's do some exercises to check your understanding!",
+      "contentVi": "Bây giờ chúng ta hãy làm một số bài tập để kiểm tra sự hiểu biết của bạn!",
+      "duration": 10
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "matching",
+      "exerciseNumber": "Bài 2 trang 73",
+      "instruction": "Match the environmental actions with their meanings",
+      "instructionVi": "Nối các hành động bảo vệ môi trường với nghĩa của chúng",
+      "questions": [
+        {
+          "id": 1,
+          "leftItems": [
+            "1. reduce our carbon footprint",
+            "2. turn off devices when we're not using them",
+            "3. plant more trees in our neighbourhood",
+            "4. avoid using single-use products",
+            "5. stop littering"
+          ],
+          "rightItems": [
+            "A. tránh sử dụng sản phẩm dùng một lần",
+            "B. ngừng xả rác",
+            "C. giảm lượng khí thải carbon của chúng ta",
+            "D. tắt thiết bị khi không sử dụng",
+            "E. trồng thêm cây xanh trong khu phố của chúng ta"
+          ],
+          "correctPairs": [[1, "C"], [2, "D"], [3, "E"], [4, "A"], [5, "B"]]
+        }
+      ],
+      "points": 50
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "fill_blank_hints",
+      "exerciseNumber": "Bài 3 trang 73",
+      "instruction": "Complete the sentences with the correct words",
+      "instructionVi": "Hoàn thành các câu với từ đúng",
+      "questions": [
+        {"id": 1, "sentence": "Air and water _____ is a serious problem.", "blanks": ["pollution"], "correctAnswer": "pollution"},
+        {"id": 2, "sentence": "We need to _____ our carbon footprint.", "blanks": ["reduce"], "correctAnswer": "reduce"},
+        {"id": 3, "sentence": "Try to avoid using _____ products like plastic bags.", "blanks": ["single-use"], "correctAnswer": "single-use"},
+        {"id": 4, "sentence": "The amount of CO2 we release is called our _____.", "blanks": ["carbon footprint"], "correctAnswer": "carbon footprint"},
+        {"id": 5, "sentence": "We can volunteer for local _____ to help protect nature.", "blanks": ["environment programme"], "correctAnswer": "environment programme"}
+      ],
+      "points": 50
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "word_bank",
+      "exerciseNumber": "Bài 4 trang 73",
+      "instruction": "Match the pictures with the correct phrases",
+      "instructionVi": "Nối hình ảnh với cụm từ đúng",
+      "questions": [
+        {"id": 1, "correctAnswer": "3Rs"},
+        {"id": 2, "correctAnswer": "water pollution"},
+        {"id": 3, "correctAnswer": "endangered species"},
+        {"id": 4, "correctAnswer": "plastic rubbish"},
+        {"id": 5, "correctAnswer": "single-use products"}
+      ],
+      "points": 50
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "multiple_choice",
+      "exerciseNumber": "Bài 5 trang 73",
+      "instruction": "Choose the correct answer",
+      "instructionVi": "Chọn đáp án đúng",
+      "questions": [
+        {"id": 1, "questionText": "What are the serious environmental problems mentioned?", "options": ["A. Only pollution", "B. Only global warming", "C. Pollution, habitat loss, global warming, endangered species"], "correctAnswer": "C"},
+        {"id": 2, "questionText": "What is 'carbon footprint'?", "options": ["A. A type of shoe", "B. A walking exercise", "C. The amount of CO2 we release"], "correctAnswer": "C"},
+        {"id": 3, "questionText": "What can we do at home to help the environment?", "options": ["A. Turn off devices when not using", "B. Use more plastic", "C. Throw rubbish everywhere"], "correctAnswer": "A"},
+        {"id": 4, "questionText": "What does '3Rs' stand for?", "options": ["A. Run, Rest, Repeat", "B. Read, Relax, Remember", "C. Reduce, Reuse, Recycle"], "correctAnswer": "C"},
+        {"id": 5, "questionText": "What should we avoid using?", "options": ["A. Reusable bags", "B. Single-use products", "C. Trees"], "correctAnswer": "B"}
+      ],
+      "points": 50
+    },
+    {
+      "type": "instruction",
+      "content": "Great job! You've learned about environmental problems and ways to protect our planet. Remember: Reduce, Reuse, Recycle!",
+      "contentVi": "Làm tốt lắm! Bạn đã học về các vấn đề môi trường và cách bảo vệ hành tinh của chúng ta. Hãy nhớ: Giảm thiểu, Tái sử dụng, Tái chế!",
+      "duration": 15
+    }
+  ],
+
+  "stats": {
+    "vocabularyCount": 29,
+    "exerciseCount": 4,
+    "dialogueLines": 14,
+    "hasGrammar": false,
+    "hasReading": false,
+    "hasListening": false
+  },
+
+  "rewards": {
+    "xpTotal": 345,
+    "badges": ["environment_starter"]
+  }
+}
