@@ -326,6 +326,532 @@ Unit 1: Hobbies
 
 ---
 
+## 🔧 UNIVERSAL CONTENT BLOCKS (Quan trọng nhất!)
+
+### Triết lý: AI đọc markdown → Output JSON có cấu trúc
+
+```
+┌──────────────────────────────────────────────────────────────────┐
+│  MARKDOWN (Không chuẩn hóa)     →    STRUCTURED JSON (Chuẩn hóa) │
+│                                                                   │
+│  - Mỗi file có format khác      │    - Universal blocks          │
+│  - Lớp 6 ≠ Lớp 10              │    - Consistent schema         │
+│  - Section khác nhau            │    - Ready for rendering       │
+│                                                                   │
+│  AI PROCESSOR (Gemini/Claude) làm cầu nối                        │
+└──────────────────────────────────────────────────────────────────┘
+```
+
+### 8 Content Block Types (Phổ quát cho mọi bài)
+
+```typescript
+// Tất cả content được chia thành 8 loại block cơ bản
+type ContentBlock =
+  | VocabularyBlock      // Từ vựng
+  | DialogueBlock        // Hội thoại
+  | ExerciseBlock        // Bài tập (25 loại con)
+  | GrammarBlock         // Ngữ pháp
+  | ReadingBlock         // Bài đọc
+  | ListeningBlock       // Bài nghe
+  | PronunciationBlock   // Phát âm
+  | InstructionBlock;    // Hướng dẫn/Giải thích
+```
+
+---
+
+### Block 1: VOCABULARY BLOCK
+
+```typescript
+interface VocabularyBlock {
+  type: 'vocabulary';
+  items: VocabularyItem[];
+}
+
+interface VocabularyItem {
+  word: string;              // "hobby"
+  partOfSpeech: string;      // "n" | "v" | "adj" | "adv" | "phrase"
+  pronunciation: string;     // "/ˈhɒbi/"
+  meaning: string;           // "sở thích"
+  example?: string;          // "My hobby is reading."
+  exampleTranslation?: string; // "Sở thích của tôi là đọc sách."
+  image?: string;            // URL hoặc placeholder cho AI generate
+  audioUrl?: string;         // TTS generated
+}
+
+// Ví dụ output từ AI:
+{
+  "type": "vocabulary",
+  "items": [
+    {
+      "word": "hobby",
+      "partOfSpeech": "n",
+      "pronunciation": "/ˈhɒbi/",
+      "meaning": "sở thích",
+      "example": "My hobby is reading books.",
+      "exampleTranslation": "Sở thích của tôi là đọc sách."
+    },
+    {
+      "word": "amazing",
+      "partOfSpeech": "adj",
+      "pronunciation": "/əˈmeɪzɪŋ/",
+      "meaning": "tuyệt vời",
+      "example": "The view is amazing!",
+      "exampleTranslation": "Khung cảnh thật tuyệt vời!"
+    }
+  ]
+}
+```
+
+---
+
+### Block 2: DIALOGUE BLOCK
+
+```typescript
+interface DialogueBlock {
+  type: 'dialogue';
+  title?: string;            // "Conversation between Ann and Trang"
+  context?: string;          // "At Trang's house"
+  lines: DialogueLine[];
+  vocabularyHighlights?: string[];  // Từ cần highlight
+}
+
+interface DialogueLine {
+  speaker: string;           // "Ann" | "Trang" | "Teacher"
+  text: string;              // "Your house is very nice, Trang."
+  translation?: string;      // "Nhà của bạn rất đẹp, Trang."
+  audioUrl?: string;         // TTS generated
+  emotion?: string;          // "happy" | "surprised" | "questioning"
+}
+
+// Ví dụ:
+{
+  "type": "dialogue",
+  "title": "Talking about hobbies",
+  "context": "Ann visits Trang's house",
+  "lines": [
+    {
+      "speaker": "Ann",
+      "text": "Your house is very nice, Trang.",
+      "translation": "Nhà của bạn rất đẹp, Trang."
+    },
+    {
+      "speaker": "Trang",
+      "text": "Thanks! Let's go upstairs. I'll show you my room.",
+      "translation": "Cảm ơn! Hãy đi lên lầu. Mình sẽ cho bạn xem phòng của mình."
+    }
+  ],
+  "vocabularyHighlights": ["nice", "upstairs", "room"]
+}
+```
+
+---
+
+### Block 3: EXERCISE BLOCK (25 sub-types)
+
+```typescript
+interface ExerciseBlock {
+  type: 'exercise';
+  exerciseType: ExerciseType;  // 1 trong 25 loại
+  instruction: string;         // "Read and write T or F"
+  instructionVi?: string;      // "Đọc và viết Đúng hoặc Sai"
+  questions: Question[];
+  timeLimit?: number;          // Giây (optional)
+  points?: number;             // XP cho bài này
+}
+
+// 25 Exercise Types
+type ExerciseType =
+  // Comprehension
+  | 'true_false'
+  | 'multiple_choice'
+  | 'short_answer'
+  | 'matching'
+  // Vocabulary
+  | 'definition_matching'
+  | 'fill_blank_hints'
+  | 'word_bank'
+  | 'table_classification'
+  | 'missing_letters'
+  | 'synonym_matching'
+  // Grammar
+  | 'verb_form'
+  | 'error_correction'
+  | 'question_formation'
+  | 'sentence_translation'
+  | 'countable_uncountable'
+  | 'adverbs_frequency'
+  | 'sentence_reorder'
+  // Pronunciation
+  | 'sound_classification'
+  | 'stress_identification'
+  | 'elision_linking'
+  // Production
+  | 'dialogue_completion'
+  | 'speaking_practice'
+  | 'written_response'
+  | 'multiple_answer'
+  // Listening
+  | 'listen_complete'
+  | 'listen_choose';
+
+// Question structure varies by type
+interface Question {
+  id: number;
+  // For true_false, multiple_choice
+  questionText?: string;
+  questionTextVi?: string;
+  options?: Option[];
+  correctAnswer: string | string[] | boolean;
+
+  // For matching
+  leftItems?: string[];
+  rightItems?: string[];
+  correctPairs?: [number, string][];  // [[1, 'a'], [2, 'c']]
+
+  // For fill_blank
+  sentence?: string;
+  blanks?: string[];  // Đáp án cho các chỗ trống
+
+  // For table_classification
+  categories?: string[];
+  itemsToClassify?: string[];
+  correctClassification?: {[category: string]: string[]};
+
+  explanation?: string;  // Giải thích đáp án (cho grammar)
+  explanationVi?: string;
+}
+
+// Ví dụ TRUE/FALSE:
+{
+  "type": "exercise",
+  "exerciseType": "true_false",
+  "instruction": "Read the conversation and write T (True) or F (False)",
+  "instructionVi": "Đọc bài hội thoại và viết Đúng (T) hoặc Sai (F)",
+  "questions": [
+    {
+      "id": 1,
+      "questionText": "Trang needs help with building dollhouses.",
+      "questionTextVi": "Trang cần sự giúp đỡ để làm nhà búp bê.",
+      "correctAnswer": false
+    },
+    {
+      "id": 2,
+      "questionText": "Trang uses glue and cardboard to build her dollhouse.",
+      "correctAnswer": true
+    }
+  ],
+  "points": 50
+}
+
+// Ví dụ MATCHING:
+{
+  "type": "exercise",
+  "exerciseType": "matching",
+  "instruction": "Match the words with their meanings",
+  "questions": [
+    {
+      "id": 1,
+      "leftItems": ["hobby", "amazing", "build", "cardboard"],
+      "rightItems": ["a. tuyệt vời", "b. xây dựng", "c. sở thích", "d. bìa cứng"],
+      "correctPairs": [[1, "c"], [2, "a"], [3, "b"], [4, "d"]]
+    }
+  ]
+}
+
+// Ví dụ TABLE CLASSIFICATION:
+{
+  "type": "exercise",
+  "exerciseType": "table_classification",
+  "instruction": "Put the hobbies in the correct categories",
+  "questions": [
+    {
+      "id": 1,
+      "categories": ["Doing things", "Making things", "Collecting things"],
+      "itemsToClassify": ["gardening", "building dollhouses", "collecting stamps", "riding a bike", "making models"],
+      "correctClassification": {
+        "Doing things": ["gardening", "riding a bike"],
+        "Making things": ["building dollhouses", "making models"],
+        "Collecting things": ["collecting stamps"]
+      }
+    }
+  ]
+}
+
+// Ví dụ VERB FORM (Grammar):
+{
+  "type": "exercise",
+  "exerciseType": "verb_form",
+  "instruction": "Complete the sentences with the correct form of the verbs",
+  "questions": [
+    {
+      "id": 1,
+      "sentence": "I enjoy (read) _____ books in my free time.",
+      "blanks": ["reading"],
+      "explanation": "Sau 'enjoy' dùng V-ing",
+      "explanationVi": "Sau động từ 'enjoy' phải dùng động từ dạng V-ing"
+    }
+  ]
+}
+```
+
+---
+
+### Block 4: GRAMMAR BLOCK
+
+```typescript
+interface GrammarBlock {
+  type: 'grammar';
+  topic: string;               // "Present Simple Tense"
+  topicVi: string;             // "Thì hiện tại đơn"
+
+  // Công thức
+  formula: {
+    affirmative: string;       // "S + V(s/es) + O"
+    negative: string;          // "S + do/does + not + V + O"
+    question: string;          // "Do/Does + S + V + O?"
+  };
+
+  // Cách dùng
+  usage: UsagePoint[];
+
+  // Dấu hiệu nhận biết
+  signalWords: string[];       // ["always", "usually", "every day"]
+
+  // Ví dụ
+  examples: GrammarExample[];
+
+  // Tips ghi nhớ
+  tips?: string[];
+}
+
+interface UsagePoint {
+  description: string;         // "Diễn tả thói quen, hành động lặp lại"
+  descriptionVi: string;       // "Dùng để diễn tả thói quen..."
+  example: string;
+  exampleTranslation: string;
+}
+
+interface GrammarExample {
+  english: string;
+  vietnamese: string;
+  highlight?: string[];        // Phần cần highlight
+}
+
+// Ví dụ:
+{
+  "type": "grammar",
+  "topic": "Present Simple Tense",
+  "topicVi": "Thì hiện tại đơn",
+  "formula": {
+    "affirmative": "S + V(s/es) + O",
+    "negative": "S + do/does + not + V(nguyên thể) + O",
+    "question": "Do/Does + S + V(nguyên thể) + O?"
+  },
+  "usage": [
+    {
+      "description": "Express habits and repeated actions",
+      "descriptionVi": "Diễn tả thói quen, hành động lặp lại thường xuyên",
+      "example": "I go to school every day.",
+      "exampleTranslation": "Tôi đi học mỗi ngày."
+    },
+    {
+      "description": "Express general truths",
+      "descriptionVi": "Diễn tả sự thật hiển nhiên, chân lý",
+      "example": "The sun rises in the east.",
+      "exampleTranslation": "Mặt trời mọc ở hướng đông."
+    }
+  ],
+  "signalWords": ["always", "usually", "often", "sometimes", "rarely", "never", "every day", "every week"],
+  "examples": [
+    {
+      "english": "She plays tennis every Sunday.",
+      "vietnamese": "Cô ấy chơi tennis mỗi Chủ nhật.",
+      "highlight": ["plays", "every Sunday"]
+    }
+  ],
+  "tips": [
+    "He/She/It + V-s/es",
+    "Động từ tận cùng -o, -s, -x, -ch, -sh → thêm -es"
+  ]
+}
+```
+
+---
+
+### Block 5: READING BLOCK
+
+```typescript
+interface ReadingBlock {
+  type: 'reading';
+  title?: string;
+  content: string;             // Full text
+  contentWithHighlights?: HighlightedText[];  // Text với từ được highlight
+  vocabularyPreview?: VocabularyItem[];       // Từ vựng trước khi đọc
+  translation?: string;        // Bản dịch (optional)
+  wordCount: number;
+  difficulty: 'easy' | 'medium' | 'hard';
+}
+
+interface HighlightedText {
+  text: string;
+  isHighlighted: boolean;
+  vocabularyRef?: string;      // Reference to vocabulary item
+}
+```
+
+---
+
+### Block 6: LISTENING BLOCK
+
+```typescript
+interface ListeningBlock {
+  type: 'listening';
+  title?: string;
+  transcript: string;          // Full transcript
+  transcriptLines?: TranscriptLine[];  // Chia theo speaker
+  audioUrl?: string;           // TTS generated
+  duration?: number;           // Seconds
+  vocabularyPreview?: VocabularyItem[];
+  difficulty: 'easy' | 'medium' | 'hard';
+}
+
+interface TranscriptLine {
+  speaker?: string;
+  text: string;
+  startTime?: number;          // For sync with audio
+  endTime?: number;
+}
+
+// ⚠️ QUAN TRỌNG: Audio sẽ được generate từ transcript bằng TTS
+```
+
+---
+
+### Block 7: PRONUNCIATION BLOCK
+
+```typescript
+interface PronunciationBlock {
+  type: 'pronunciation';
+  focus: string;               // "Linking sounds" | "Word stress" | "/ə/ vs /ɜː/"
+  focusVi: string;
+  explanation: string;
+  explanationVi: string;
+  examples: PronunciationExample[];
+  practiceWords?: string[];
+}
+
+interface PronunciationExample {
+  text: string;                // "live‿in the city"
+  ipa?: string;                // Phonetic transcription
+  audioUrl?: string;
+  notes?: string;              // "The /v/ links to /ɪ/"
+}
+```
+
+---
+
+### Block 8: INSTRUCTION BLOCK
+
+```typescript
+interface InstructionBlock {
+  type: 'instruction';
+  title?: string;
+  content: string;             // AI Teacher nói gì
+  contentVi: string;           // Bản tiếng Việt
+  visualType?: 'text' | 'image' | 'video' | 'animation';
+  duration?: number;           // Seconds to display
+}
+```
+
+---
+
+## 📄 Complete Lesson Schema
+
+```typescript
+interface LessonData {
+  // Metadata
+  id: string;                  // "g7-u01-getting-started"
+  grade: number;               // 7
+  unit: number;                // 1
+  unitTitle: string;           // "Hobbies"
+  section: SectionType;        // "getting_started"
+  sectionTitle: string;        // "Getting Started"
+
+  // Timing
+  estimatedDuration: number;   // Minutes
+
+  // Content - Mảng các blocks theo thứ tự
+  blocks: ContentBlock[];
+
+  // Gamification
+  rewards: {
+    xpTotal: number;
+    badges?: string[];
+    achievements?: string[];
+  };
+}
+
+type SectionType =
+  | 'getting_started'
+  | 'a_closer_look_1'
+  | 'a_closer_look_2'
+  | 'communication'
+  | 'skills_1'
+  | 'skills_2'
+  | 'looking_back'
+  // Grade 10-11 specific
+  | 'language'
+  | 'reading'
+  | 'speaking'
+  | 'listening'
+  | 'writing'
+  | 'communication_culture';
+```
+
+---
+
+## 🤖 AI Processing Prompt Template
+
+```markdown
+# TASK: Convert Markdown to Structured Lesson Data
+
+You are an English teaching content processor. Given a markdown file from
+the Global Success English textbook, extract and structure the content
+into JSON format.
+
+## INPUT:
+{markdown_content}
+
+## METADATA:
+- Grade: {grade}
+- Unit: {unit}
+- Section: {section}
+
+## OUTPUT FORMAT:
+Return a JSON object following the LessonData schema with these blocks:
+- VocabularyBlock: Extract ALL vocabulary with word, part of speech, IPA, meaning
+- DialogueBlock: Extract conversations with speaker, text, translation
+- ExerciseBlock: Identify exercise type from 25 types, extract questions/answers
+- GrammarBlock: Extract formulas, usage, examples, signal words
+- ReadingBlock: Extract reading passages
+- ListeningBlock: Extract transcripts (will generate audio later)
+- PronunciationBlock: Extract pronunciation focus points
+- InstructionBlock: Add AI teacher instructions between blocks
+
+## RULES:
+1. Preserve ALL content - don't skip any vocabulary or exercises
+2. Identify correct exercise type from the 25 defined types
+3. Include Vietnamese translations where available
+4. Mark which vocabulary words should be highlighted in dialogues
+5. Add estimated duration for each section
+6. Calculate total XP based on: 5 XP/vocabulary + 10 XP/exercise question
+
+## EXAMPLE OUTPUT:
+{example_json}
+```
+
+---
+
 ## 🏗️ Kiến trúc Tổng quan
 
 ```
