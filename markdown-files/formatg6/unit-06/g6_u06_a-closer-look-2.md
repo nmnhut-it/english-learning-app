@@ -14,14 +14,14 @@ shouldn’t \+ V0: không nên
 **Bài 2: Đánh dấu tick và dấu x vào những thứ trẻ con nên làm và không nên làm vào dịp Tết**  
 **Vocabulary** 
 
-1. behave well: cư xử tốt, ngoan ngoãn /bɪˈheɪv wel/  
-2. go out with friends: đi chơi với bạn bè /ɡəʊ aʊt wɪð frendz/  
-3. fight \- fought \- fought: (v) đánh nhau, chiến đấu, tranh cãi /faɪt \- fɔːt \- fɔːt/  
-4. eat \- ate \- eaten: (v) ăn /iːt \- et \- ˈiːtn/  
-5. help with housework: giúp việc nhà /help wɪð ˈhaʊswɜːk/
+1. **behave well** : cư xử tốt, ngoan ngoãn /bɪˈheɪv wel/
+2. **go out with friends** : đi chơi với bạn bè /ɡəʊ aʊt wɪð frendz/
+3. **fight \- fought \- fought** : (v) đánh nhau, chiến đấu, tranh cãi /faɪt \- fɔːt \- fɔːt/
+4. **eat \- ate \- eaten** : (v) ăn /iːt \- et \- ˈiːtn/
+5. **help with housework** : giúp việc nhà /help wɪð ˈhaʊswɜːk/
 
 1. We should behave well.  
-2. We shouldn’t eat lots of sweets: Chúng ta không nên ăn nhiều kẹo  
+2. **We shouldn’t eat lots of sweets** : Chúng ta không nên ăn nhiều kẹo
 3. We should plant trees   
 4. We should break things   
 5. We should go out with friends  
@@ -61,22 +61,22 @@ nếu some và any đi kèm danh từ đếm được thì danh từ đó phải
 **Everyday English**   
 **Vocabulary:** 
 
-1. Times Square: Quảng trường Thời đại /taɪmz skweə/  
-2. bathe in an ice hole: tắm trong hố băng /beɪð ɪn ən aɪs həʊl/  
-3. eat mochi rice cakes: ăn bánh gạo mochi /iːt ˈməʊtʃi raɪs keɪks/  
-4. throw water on other people: té nước lên người khác /θrəʊ ˈwɔːtər ɒn ˈʌðə ˈpiːpl/  
-5. temple: (n) đền, chùa /ˈtempl/  
-6. ring bells: (v) rung chuông /rɪŋ belz/  
-7. 108 times: 108 lần /wʌn ˈhʌndrəd ænd eɪt taɪmz/  
-8. by doing so: bằng cách làm như vậy /baɪ ˈduːɪŋ səʊ/  
-9. believe: (v) tin, tin tưởng /bɪˈliːv/  
-10. things of the past: những điều thuộc về quá khứ /θɪŋz əv ðə pɑːst/  
-11. Spain: (n) Tây Ban Nha /speɪn/  
-12. Switzerland: (n) Thụy Sĩ /ˈswɪtsələnd/  
-13. drop ice cream on the floor: làm rơi kem xuống sàn /drɒp aɪs kriːm ɒn ðə flɔː/  
-14. throw coins into a river: ném tiền xu xuống sông /θrəʊ kɔɪnz ˈɪntə ə ˈrɪvə/  
-15. grapes: (n) nho /ɡreɪps/  
-16. wash away bad luck: xua đuổi vận xui /wɒʃ əˈweɪ bæd lʌk/  
+1. **Times Square** : Quảng trường Thời đại /taɪmz skweə/
+2. **bathe in an ice hole** : tắm trong hố băng /beɪð ɪn ən aɪs həʊl/
+3. **eat mochi rice cakes** : ăn bánh gạo mochi /iːt ˈməʊtʃi raɪs keɪks/
+4. **throw water on other people** : té nước lên người khác /θrəʊ ˈwɔːtər ɒn ˈʌðə ˈpiːpl/
+5. **temple** : (n) đền, chùa /ˈtempl/
+6. **ring bells** : (v) rung chuông /rɪŋ belz/
+7. **108 times** : 108 lần /wʌn ˈhʌndrəd ænd eɪt taɪmz/
+8. **by doing so** : bằng cách làm như vậy /baɪ ˈduːɪŋ səʊ/
+9. **believe** : (v) tin, tin tưởng /bɪˈliːv/
+10. **things of the past** : những điều thuộc về quá khứ /θɪŋz əv ðə pɑːst/
+11. **Spain** : (n) Tây Ban Nha /speɪn/
+12. **Switzerland** : (n) Thụy Sĩ /ˈswɪtsələnd/
+13. **drop ice cream on the floor** : làm rơi kem xuống sàn /drɒp aɪs kriːm ɒn ðə flɔː/
+14. **throw coins into a river** : ném tiền xu xuống sông /θrəʊ kɔɪnz ˈɪntə ə ˈrɪvə/
+15. **grapes** : (n) nho /ɡreɪps/
+16. **wash away bad luck** : xua đuổi vận xui /wɒʃ əˈweɪ bæd lʌk/
     **Bài 2 trang 63: Hãy nói những lời chúc Tết**   
     Wishing you happy days from January to December   
     May you have a year full of fun   

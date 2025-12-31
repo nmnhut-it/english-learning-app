@@ -21,6 +21,13 @@ const LANG = {
     pronunciation: { title: '🔊 Nghe & Chọn', desc: 'Nghe phát âm, chọn từ đúng' },
     wordBlitz: { title: '⚡ Thử Thách Tốc Độ', desc: 'Nối từ nhanh nhất có thể' },
     dailyChallenge: { title: '🎯 Thử Thách Hàng Ngày', desc: '10 từ ngẫu nhiên mỗi ngày' },
+    copyRevise: {
+      title: '📝 Chép & Ôn Tập',
+      desc: 'Hiển thị từ vựng, ẩn ngẫu nhiên để ôn',
+      showAll: '👁️ Hiện tất cả',
+      hideWords: '🔤 Ẩn từ Anh',
+      hideMeanings: '🇻🇳 Ẩn nghĩa',
+    },
   },
 
   // Grades

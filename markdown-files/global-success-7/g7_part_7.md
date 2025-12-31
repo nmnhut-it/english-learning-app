@@ -3,20 +3,20 @@
 
 **Vocabulary** 
 
-1. traffic: (n) giao thông /ˈtræfɪk/  
-2. cycle: (v) đạp xe /ˈsaɪkl/  
-3. cycle round the lake: đạp xe vòng quanh hồ /ˈsaɪkl raʊnd ðə leɪk/  
-4. sometimes: (adv) đôi khi, thỉnh thoảng /ˈsʌmtaɪmz/  
-5. How far is it from your home to school?: Từ nhà bạn đến trường bao xa? /haʊ fɑː ɪz ɪt frɒm jɔː həʊm tə skuːl/  
-6. take \+ ai đó \+ to \+ nơi chốn: đưa ai đó đến một nơi nào đó /teɪk tə/  
-7. traffic jam: (n) tắc đường /ˈtræfɪk dʒæm/  
-8. take longer: mất nhiều thời gian hơn /teɪk ˈlɒŋɡə/  
-9. especially: (adv) đặc biệt là, nhất là /ɪˈspeʃəli/  
-10. cross the road: băng qua đường /krɒs ðə rəʊd/  
-11. crowded: (adj) đông đúc, chật ních /ˈkraʊdɪd/  
-12. get \+ tính từ: trở nên /ɡet/  
-13. really \+ tính từ: rất, thực sự /ˈrɪəli/  
-14. see you then: hẹn gặp lại /siː juː ðen/
+1. **traffic** : (n) giao thông /ˈtræfɪk/
+2. **cycle** : (v) đạp xe /ˈsaɪkl/
+3. **cycle round the lake** : đạp xe vòng quanh hồ /ˈsaɪkl raʊnd ðə leɪk/
+4. **sometimes** : (adv) đôi khi, thỉnh thoảng /ˈsʌmtaɪmz/
+5. **How far is it from your home to school?** : Từ nhà bạn đến trường bao xa? /haʊ fɑː ɪz ɪt frɒm jɔː həʊm tə skuːl/
+6. **take \+ ai đó \+ to \+ nơi chốn** : đưa ai đó đến một nơi nào đó /teɪk tə/
+7. **traffic jam** : (n) tắc đường /ˈtræfɪk dʒæm/
+8. **take longer** : mất nhiều thời gian hơn /teɪk ˈlɒŋɡə/
+9. **especially** : (adv) đặc biệt là, nhất là /ɪˈspeʃəli/
+10. **cross the road** : băng qua đường /krɒs ðə rəʊd/
+11. **crowded** : (adj) đông đúc, chật ních /ˈkraʊdɪd/
+12. **get \+ tính từ** : trở nên /ɡet/
+13. **really \+ tính từ** : rất, thực sự /ˈrɪəli/
+14. **see you then** : hẹn gặp lại /siː juː ðen/
 
 Lan: Chào bạn Mark. Bạn khỏe không?
 
@@ -74,36 +74,36 @@ Mark: Được, Lan. Hẹn gặp bạn lúc đó.
 
 **\* Vocabulary** 
 
-1. bike/bicycle: (n) xe đạp /baɪk/ /ˈbaɪsɪkl/  
-2. car: (n) ô tô, xe hơi /kɑː/  
-3. bus: (n) xe buýt /bʌs/  
-4. motorbike: (n) xe máy, xe gắn máy /ˈməʊtəbaɪk/  
-5. plane: (n) máy bay /pleɪn/  
-6. train: (n) tàu hỏa /treɪn/  
-7. boat: (n) thuyền /bəʊt/  
-8. ship: (n) tàu thủy /ʃɪp/
+1. **bike/bicycle** : (n) xe đạp /baɪk/ /ˈbaɪsɪkl/
+2. **car** : (n) ô tô, xe hơi /kɑː/
+3. **bus** : (n) xe buýt /bʌs/
+4. **motorbike** : (n) xe máy, xe gắn máy /ˈməʊtəbaɪk/
+5. **plane** : (n) máy bay /pleɪn/
+6. **train** : (n) tàu hỏa /treɪn/
+7. **boat** : (n) thuyền /bəʊt/
+8. **ship** : (n) tàu thủy /ʃɪp/
 
 **A CLOSER LOOK 1** 
 
 **Vocabulary** 
 
-1. ride a bike: đi xe đạp /raɪd ə baɪk/  
-2. drive a car: lái xe ô tô /draɪv ə kɑː/  
-3. sail a boat: lái thuyền /seɪl ə bəʊt/  
-4. go on foot: đi bộ /ɡəʊ ɒn fʊt/  
-5. travel by air: đi bằng máy bay /ˈtrævl baɪ eə/  
-6. no right turn: cấm rẽ phải /nəʊ raɪt tɜːn/  
-7. traffic lights: đèn giao thông /ˈtræfɪk laɪts/  
-8. cycle lane: làn đường dành cho xe đạp /ˈsaɪkl leɪn/  
-9. no cycling: cấm xe đạp /nəʊ ˈsaɪklɪŋ/  
-10. school ahead: phía trước có trường học /skuːl əˈhed/  
-11. hospital ahead: phía trước có bệnh viện /ˈhɒspɪtl əˈhed/
+1. **ride a bike** : đi xe đạp /raɪd ə baɪk/
+2. **drive a car** : lái xe ô tô /draɪv ə kɑː/
+3. **sail a boat** : lái thuyền /seɪl ə bəʊt/
+4. **go on foot** : đi bộ /ɡəʊ ɒn fʊt/
+5. **travel by air** : đi bằng máy bay /ˈtrævl baɪ eə/
+6. **no right turn** : cấm rẽ phải /nəʊ raɪt tɜːn/
+7. **traffic lights** : đèn giao thông /ˈtræfɪk laɪts/
+8. **cycle lane** : làn đường dành cho xe đạp /ˈsaɪkl leɪn/
+9. **no cycling** : cấm xe đạp /nəʊ ˈsaɪklɪŋ/
+10. **school ahead** : phía trước có trường học /skuːl əˈhed/
+11. **hospital ahead** : phía trước có bệnh viện /ˈhɒspɪtl əˈhed/
 
 **Bài 1 trang 74** Nối các cụm từ, sau đó đặt câu với mỗi cụm từ đó. 
 
 Ví dụ: Chủ từ \+ động từ \+ tân ngữ/bổ ngữ 
 
-1. ride a bike. My father taught me how to ride a bike: Cha tôi dạy tôi cách đi xe đạp.   
+1. **ride a bike. My father taught me how to ride a bike** : Cha tôi dạy tôi cách đi xe đạp.
 2. My grandfather drives a car to Da Lat.   
 3. I never sail a boat   
 4. I go to school on foot   
@@ -215,10 +215,10 @@ I have to do my homework: Tôi phải làm bài tập về nhà của tôi **(T�
 
 **Bài 5 trang 76** 
 
-1. He shouldn’t waste water: Anh ấy không nên lãng phí nước  
-2. They should wear the helmets: Họ nên mang nón bảo hiểm   
-3. She should be more careful: Cô ấy nên cẩn thận hơn   
-4. They shouldn’t play football on the pavement:Họ không nên chơi bóng đá trên vỉa hè   
+1. **He shouldn’t waste water** : Anh ấy không nên lãng phí nước
+2. **They should wear the helmets** : Họ nên mang nón bảo hiểm
+3. **She should be more careful** : Cô ấy nên cẩn thận hơn
+4. **They shouldn’t play football on the pavement** : Họ không nên chơi bóng đá trên vỉa hè
 5. They shouldn’t ride their bikes dangerously: Họ không nên đi xe đạp (của họ) một cách nguy hiểm
 
 **COMMUNICATION** 
@@ -227,17 +227,17 @@ I have to do my homework: Tôi phải làm bài tập về nhà của tôi **(T�
 
 1. How do/does \+ ai đó+ go to \+ nơi chốn?: Ai đó đi đến địa điểm đó bằng cách nào? /haʊ duː/dʌz ... gəʊ tuː .../  
 2. go by \+ phương tiện: đi bằng (phương tiện) /gəʊ baɪ/  
-3. go on foot: đi bộ /gəʊ ɒn fʊt/  
+3. **go on foot** : đi bộ /gəʊ ɒn fʊt/
 4. am/is/are not allowed to: không được phép /æm/ɪz/ɑː nɒt əˈlaʊd tuː/  
-5. roof: (n) mái nhà /ruːf/  
-6. Moscow: (n) Mát-xcơ-va /ˈmɒskəʊ/  
-7. South Africa: (n) Nam Phi /ˌsaʊθ ˈæfrɪkə/  
-8. Switzerland: (n) Thụy Sĩ /ˈswɪtsələnd/  
-9. fine: (v) phạt tiền /faɪn/   
-10. drive a dirty car: lái xe bẩn /draɪv ə ˈdɜːti kɑː/  
-11. handlebars: (n) tay lái (xe đạp, mô tô) /ˈhændlbɑːz/  
-12. wash your car: rửa xe /wɒʃ jɔː kɑː/  
-13. let \+ ai đó \+ V0: để cho ai đó làm gì /let ... V0/
+5. **roof** : (n) mái nhà /ruːf/
+6. **Moscow** : (n) Mát-xcơ-va /ˈmɒskəʊ/
+7. **South Africa** : (n) Nam Phi /ˌsaʊθ ˈæfrɪkə/
+8. **Switzerland** : (n) Thụy Sĩ /ˈswɪtsələnd/
+9. **fine** : (v) phạt tiền /faɪn/
+10. **drive a dirty car** : lái xe bẩn /draɪv ə ˈdɜːti kɑː/
+11. **handlebars** : (n) tay lái (xe đạp, mô tô) /ˈhændlbɑːz/
+12. **wash your car** : rửa xe /wɒʃ jɔː kɑː/
+13. **let \+ ai đó \+ V0** : để cho ai đó làm gì /let ... V0/
 
 Hỏi: ai đó đi tới đâu bằng phương tiện nào. 
 
@@ -268,11 +268,11 @@ Hỏi: ai đó đi tới đâu bằng phương tiện nào.
 
 **Bài 3 trang 76** 
 
-1. Nước Anh: bên trái   
-2. Mỹ: bên phải   
-3. Úc: bên trái  
-4. Thái Lan: trái   
-5. Trung Quốc: phải 
+1. **Nước Anh** : bên trái
+2. **Mỹ** : bên phải
+3. **Úc** : bên trái
+4. **Thái Lan** : trái
+5. **Trung Quốc** : phải
 
 **Bài 4 trang 76**  
 
@@ -292,26 +292,26 @@ Dịch: Một cách giải thích đó là một số quốc gia sử dụng h�
 
 **Vocabulary** 
 
-1. rule: (n) quy tắc, luật lệ /ruːl/  
-2. pedestrian: (n) người đi bộ /pəˈdestriən/  
-3. traffic lights: đèn giao thông /ˈtræfɪk laɪts/  
-4. traffic rule: luật giao thông /ˈtræfɪk ruːl/  
-5. road safety: an toàn đường bộ /rəʊd ˈseɪfti/  
-6. obey: (v) tuân theo, vâng lời /əˈbeɪ/  
-7. road user: người tham gia giao thông /rəʊd ˈjuːzə/  
-8. careful: (adj) cẩn thận, thận trọng /ˈkeəfl/  
-9. carefully: (adv) một cách cẩn thận /ˈkeəfli/  
-10. cross the street: băng qua đường /krɒs ðə striːt/  
-11. pavement: (n) vỉa hè, lề đường /ˈpeɪvmənt/  
-12. zebra crossing: vạch sang đường có sọc trắng đen /ˈzebrə ˈkrɒsɪŋ/  
-13. cyclist: (n) người đi xe đạp /ˈsaɪklɪst/  
-14. wear helmet: đội mũ bảo hiểm /weə ˈhelmɪt/  
-15. give a signal before you turn: ra tín hiệu trước khi rẽ /gɪv ə ˈsɪɡnəl bɪˈfɔː juː tɜːn/  
-16. passenger: (n) hành khách /ˈpæsɪndʒə/  
-17. fasten your seatbelt: thắt dây an toàn /ˈfɑːsn jɔː ˈsiːtbelt/  
-18. fully stop: dừng hẳn lại /ˈfʊli stɒp/  
-19. stick any body parts out of the windows: thò bất kỳ bộ phận cơ thể nào ra ngoài cửa sổ /stɪk ˈeni ˈbɒdi pɑːts aʊt ɒv ðə ˈwɪndəʊz/  
-20. a moving vehicle: phương tiện đang di chuyển /ə ˈmuːvɪŋ ˈviːɪkl/
+1. **rule** : (n) quy tắc, luật lệ /ruːl/
+2. **pedestrian** : (n) người đi bộ /pəˈdestriən/
+3. **traffic lights** : đèn giao thông /ˈtræfɪk laɪts/
+4. **traffic rule** : luật giao thông /ˈtræfɪk ruːl/
+5. **road safety** : an toàn đường bộ /rəʊd ˈseɪfti/
+6. **obey** : (v) tuân theo, vâng lời /əˈbeɪ/
+7. **road user** : người tham gia giao thông /rəʊd ˈjuːzə/
+8. **careful** : (adj) cẩn thận, thận trọng /ˈkeəfl/
+9. **carefully** : (adv) một cách cẩn thận /ˈkeəfli/
+10. **cross the street** : băng qua đường /krɒs ðə striːt/
+11. **pavement** : (n) vỉa hè, lề đường /ˈpeɪvmənt/
+12. **zebra crossing** : vạch sang đường có sọc trắng đen /ˈzebrə ˈkrɒsɪŋ/
+13. **cyclist** : (n) người đi xe đạp /ˈsaɪklɪst/
+14. **wear helmet** : đội mũ bảo hiểm /weə ˈhelmɪt/
+15. **give a signal before you turn** : ra tín hiệu trước khi rẽ /gɪv ə ˈsɪɡnəl bɪˈfɔː juː tɜːn/
+16. **passenger** : (n) hành khách /ˈpæsɪndʒə/
+17. **fasten your seatbelt** : thắt dây an toàn /ˈfɑːsn jɔː ˈsiːtbelt/
+18. **fully stop** : dừng hẳn lại /ˈfʊli stɒp/
+19. **stick any body parts out of the windows** : thò bất kỳ bộ phận cơ thể nào ra ngoài cửa sổ /stɪk ˈeni ˈbɒdi pɑːts aʊt ɒv ðə ˈwɪndəʊz/
+20. **a moving vehicle** : phương tiện đang di chuyển /ə ˈmuːvɪŋ ˈviːɪkl/
 
 Có một số luật về an toàn đường bộ. Nó thì quan trọng để tuân thủ theo những luật này khi bạn là người tham gia giao thông trên đường 
 
@@ -370,20 +370,20 @@ Khi bạn là người tham gia giao thông đường bộ, bạn không nên l�
 
 **Vocabulary**
 
-1. traffic problem: vấn đề giao thông /ˈtræfɪk ˈprɒbləm/  
-2. one of: một trong số /wʌn əv/  
-3. the most congested cities in the world: những thành phố tắc nghẽn nhất thế giới /ðə məʊst kənˈdʒestɪd ˈsɪtiz ɪn ðə wɜːld/  
-4. happen: (v) xảy ra /ˈhæpən/  
-5. several: (adj) vài, một số /ˈsevrəl/  
-6. reason: (n) lý do /ˈriːzən/  
-7. increase: (n) sự tăng lên; (v) tăng lên /ˈɪnkriːs/  
-8. population: (n) dân số /ˌpɒpjuˈleɪʃən/  
-9. narrow: (adj) hẹp, chật /ˈnærəʊ/  
-10. in good condition: trong tình trạng tốt /ɪn gʊd kənˈdɪʃən/  
-11. also: (adv) cũng /ˈɔːlsəʊ/  
-12. obey the traffic rules: tuân thủ luật giao thông /əˈbeɪ ðə ˈtræfɪk ruːlz/  
-13. as a result: kết quả là /æz ə rɪˈzʌlt/  
-14. getting worse and worse: ngày càng tệ hơn /ˈgetɪŋ wɜːs ænd wɜːs/
+1. **traffic problem** : vấn đề giao thông /ˈtræfɪk ˈprɒbləm/
+2. **one of** : một trong số /wʌn əv/
+3. **the most congested cities in the world** : những thành phố tắc nghẽn nhất thế giới /ðə məʊst kənˈdʒestɪd ˈsɪtiz ɪn ðə wɜːld/
+4. **happen** : (v) xảy ra /ˈhæpən/
+5. **several** : (adj) vài, một số /ˈsevrəl/
+6. **reason** : (n) lý do /ˈriːzən/
+7. **increase** : (n) sự tăng lên; (v) tăng lên /ˈɪnkriːs/
+8. **population** : (n) dân số /ˌpɒpjuˈleɪʃən/
+9. **narrow** : (adj) hẹp, chật /ˈnærəʊ/
+10. **in good condition** : trong tình trạng tốt /ɪn gʊd kənˈdɪʃən/
+11. **also** : (adv) cũng /ˈɔːlsəʊ/
+12. **obey the traffic rules** : tuân thủ luật giao thông /əˈbeɪ ðə ˈtræfɪk ruːlz/
+13. **as a result** : kết quả là /æz ə rɪˈzʌlt/
+14. **getting worse and worse** : ngày càng tệ hơn /ˈgetɪŋ wɜːs ænd wɜːs/
 
 **Bài 2 trang 79** 
 
@@ -433,7 +433,7 @@ My town is not very crowded, but there are some traffic problems. The roads are 
 
 **Bài 2 trang 80** 
 
-1. Một .. .là bất cứ người nào mà sử dụng đường, như là người đi bộ, người đạp xe hoặc người đi xe mô tô → user (road user: người tham gia giao thông đường bộ)  
+1. **Một .. .là bất cứ người nào mà sử dụng đường, như là người đi bộ, người đạp xe hoặc người đi xe mô tô → user (road user** : người tham gia giao thông đường bộ)
 2. ride   
 3. passenger  
 4. fly  
@@ -453,9 +453,9 @@ My town is not very crowded, but there are some traffic problems. The roads are 
 
 **Bài 4 trang 80** 
 
-1. should \+ V0: nên làm gì   
-2. must \+ V0: phải …   
-3. shouldn’t: không nên  
-4. Could: có thể   
-5. shouldn’t: không nên   
-6. can: có thể
+1. **should \+ V0** : nên làm gì
+2. **must \+ V0** : phải …
+3. **shouldn’t** : không nên
+4. **Could** : có thể
+5. **shouldn’t** : không nên
+6. **can** : có thể

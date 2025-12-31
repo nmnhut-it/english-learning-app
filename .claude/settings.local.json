@@ -6,7 +6,10 @@
       "Bash(npm test:*)",
       "Bash(taskkill:*)",
       "Bash(npm start)",
-      "Bash(curl:*)"
+      "Bash(curl:*)",
+      "Bash(dir:*)",
+      "Bash(npx playwright test --reporter=list)",
+      "Bash(ls:*)"
     ],
     "deny": [],
     "ask": []

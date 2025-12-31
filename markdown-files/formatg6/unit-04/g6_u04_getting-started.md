@@ -4,23 +4,23 @@
 
 **Vocabulary** 
 
-1. excited: (adj) phấn khích /ɪkˈsaɪtɪd/  
-2. beautiful: (adj) đẹp /ˈbjuːtɪfl/  
-3. shall: (modal verb) sẽ /ʃæl/  
-4. go first: đi trước /ɡəʊ fɜːst/  
-5. nearer: (adj) gần hơn /ˈnɪərə/  
-6. where: (adv) ở đâu /weə/  
-7. cross the road: băng qua đường /krɒs ðə rəʊd/  
-8. turn left: rẽ trái /tɜːn left/  
-9. lost: (adj) lạc đường /lɒst/  
-10. look: (interj) nhìn kìa /lʊk/  
-11. there's a girl: có một cô gái /ðeəz ə ɡɜːl/  
-12. ask: (v) hỏi /ɑːsk/  
-13. excuse me?: xin lỗi? /ɪkˈskjuːz miː/  
-14. go straight: đi thẳng /ɡəʊ streɪt/  
-15. sure: (adj) chắc chắn /ʃʊə(r)/  
-16. take the second turning on the left: rẽ trái ở ngã rẽ thứ hai /teɪk ðə ˈsekənd ˈtɜːnɪŋ ɒn ðə left/  
-17. then: (adv) sau đó /ðen/
+1. **excited** : (adj) phấn khích /ɪkˈsaɪtɪd/
+2. **beautiful** : (adj) đẹp /ˈbjuːtɪfl/
+3. **shall** : (modal verb) sẽ /ʃæl/
+4. **go first** : đi trước /ɡəʊ fɜːst/
+5. **nearer** : (adj) gần hơn /ˈnɪərə/
+6. **where** : (adv) ở đâu /weə/
+7. **cross the road** : băng qua đường /krɒs ðə rəʊd/
+8. **turn left** : rẽ trái /tɜːn left/
+9. **lost** : (adj) lạc đường /lɒst/
+10. **look** : (interj) nhìn kìa /lʊk/
+11. **there's a girl** : có một cô gái /ðeəz ə ɡɜːl/
+12. **ask** : (v) hỏi /ɑːsk/
+13. **excuse me?** : xin lỗi? /ɪkˈskjuːz miː/
+14. **go straight** : đi thẳng /ɡəʊ streɪt/
+15. **sure** : (adj) chắc chắn /ʃʊə(r)/
+16. **take the second turning on the left** : rẽ trái ở ngã rẽ thứ hai /teɪk ðə ˈsekənd ˈtɜːnɪŋ ɒn ðə left/
+17. **then** : (adv) sau đó /ðen/
 
 **Lạc ở phố cổ\!**   
 **Phong:** Wow\! Chúng ta thì ở Hội an. Tôi thì quá hào hứng.   

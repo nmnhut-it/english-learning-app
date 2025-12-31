@@ -4,23 +4,23 @@
 
 **Vocabulary** 
 
-1. destroy: (v) phá hủy /dɪˈstrɔɪ/  
-2. destruction: (n) sự phá hủy /dɪˈstrʌkʃn/  
-3. erupt: (v) phun trào /ɪˈrʌpt/  
-4. eruption: (n) sự phun trào /ɪˈrʌpʃn/  
-5. warn: (v) cảnh báo /wɔːn/  
-6. warning: (n) lời cảnh báo /ˈwɔːnɪŋ/  
-7. predict: (v) dự đoán /prɪˈdɪkt/  
-8. prediction: (n) sự dự đoán /prɪˈdɪkʃn/  
-9. damage: (n) thiệt hại (v) gây thiệt hại /ˈdæmɪdʒ/  
-10. emergency kit: bộ dụng cụ khẩn cấp /ɪˈmɜːdʒənsi kɪt/  
-11. rescue worker: nhân viên cứu hộ /ˈreskjuː ˈwɜːkə/  
-12. victim: (n) nạn nhân /ˈvɪktɪm/  
-13. whistle: (n) còi /ˈwɪsl/  
-14. property: (n) tài sản /ˈprɒpəti/  
-15. local authorities: chính quyền địa phương /ˈləʊkl ɔːˈθɒrətiz/  
-16. prepare: (v) chuẩn bị /prɪˈpeə/  
-17. lose (lost \- lost): (v) mất, đánh mất /luːz/
+1. **destroy** : (v) phá hủy /dɪˈstrɔɪ/
+2. **destruction** : (n) sự phá hủy /dɪˈstrʌkʃn/
+3. **erupt** : (v) phun trào /ɪˈrʌpt/
+4. **eruption** : (n) sự phun trào /ɪˈrʌpʃn/
+5. **warn** : (v) cảnh báo /wɔːn/
+6. **warning** : (n) lời cảnh báo /ˈwɔːnɪŋ/
+7. **predict** : (v) dự đoán /prɪˈdɪkt/
+8. **prediction** : (n) sự dự đoán /prɪˈdɪkʃn/
+9. **damage** : (n) thiệt hại (v) gây thiệt hại /ˈdæmɪdʒ/
+10. **emergency kit** : bộ dụng cụ khẩn cấp /ɪˈmɜːdʒənsi kɪt/
+11. **rescue worker** : nhân viên cứu hộ /ˈreskjuː ˈwɜːkə/
+12. **victim** : (n) nạn nhân /ˈvɪktɪm/
+13. **whistle** : (n) còi /ˈwɪsl/
+14. **property** : (n) tài sản /ˈprɒpəti/
+15. **local authorities** : chính quyền địa phương /ˈləʊkl ɔːˈθɒrətiz/
+16. **prepare** : (v) chuẩn bị /prɪˈpeə/
+17. **lose (lost \- lost)** : (v) mất, đánh mất /luːz/
 
 **Bài 1 trang 94**
 

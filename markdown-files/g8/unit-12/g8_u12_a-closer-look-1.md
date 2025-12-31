@@ -2,18 +2,18 @@
 
 **A CLOSER LOOK 1** 
 
-1. Earth: (n) Trái Đất /ɜːθ/  
-2. Jupiter: (n) Sao Mộc /ˈdʒuːpɪtə/  
-3. Mars: (n) Sao Hỏa /mɑːz/  
-4. Venus: (n) Sao Kim /ˈviːnəs/  
-5. Mercury: (n) Sao Thủy /ˈmɜːkjʊri/  
-6. Neptune: (n) Sao Hải Vương /ˈneptjuːn/  
-7. Saturn: (n) Sao Thổ /ˈsætən/  
-8. Uranus: (n) Sao Thiên Vương /jʊˈreɪnəs/  
-9. telescope: (n) kính viễn vọng, kính thiên văn /ˈtelɪskəʊp/  
-10. craters: (n) các miệng núi lửa, hố trên bề mặt hành tinh /ˈkreɪtəz/  
-11. outer: (adj) bên ngoài, ngoại vi /ˈaʊtə/  
-12. surface: (n) bề mặt, bề ngoài /ˈsɜːfɪs/
+1. **Earth** : (n) Trái Đất /ɜːθ/
+2. **Jupiter** : (n) Sao Mộc /ˈdʒuːpɪtə/
+3. **Mars** : (n) Sao Hỏa /mɑːz/
+4. **Venus** : (n) Sao Kim /ˈviːnəs/
+5. **Mercury** : (n) Sao Thủy /ˈmɜːkjʊri/
+6. **Neptune** : (n) Sao Hải Vương /ˈneptjuːn/
+7. **Saturn** : (n) Sao Thổ /ˈsætən/
+8. **Uranus** : (n) Sao Thiên Vương /jʊˈreɪnəs/
+9. **telescope** : (n) kính viễn vọng, kính thiên văn /ˈtelɪskəʊp/
+10. **craters** : (n) các miệng núi lửa, hố trên bề mặt hành tinh /ˈkreɪtəz/
+11. **outer** : (adj) bên ngoài, ngoại vi /ˈaʊtə/
+12. **surface** : (n) bề mặt, bề ngoài /ˈsɜːfɪs/
 
 **Bài 1 trang 126**
 

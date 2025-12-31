@@ -5,16 +5,16 @@
 
 ### New words
 
-1. solution: (n) giải pháp /səˈluːʃn/
-2. reduce: (v) giảm /rɪˈdjuːs/
-3. recycle: (v) tái chế /ˌriːˈsaɪkl/
-4. reuse: (v) tái sử dụng /ˌriːˈjuːz/
-5. electric vehicle: (n.phr) xe điện /ɪˈlektrɪk ˈviːəkl/
-6. public transport: (n.phr) phương tiện công cộng /ˈpʌblɪk ˈtrænspɔːt/
-7. strict: (adj) nghiêm ngặt /strɪkt/
-8. prevent: (v) ngăn chặn /prɪˈvent/
-9. rubbish: (n) rác /ˈrʌbɪʃ/
-10. renewable energy: (n.phr) năng lượng tái tạo /rɪˈnjuːəbl ˈenədʒi/
+1. **solution** : (n) giải pháp /səˈluːʃn/
+2. **reduce** : (v) giảm /rɪˈdjuːs/
+3. **recycle** : (v) tái chế /ˌriːˈsaɪkl/
+4. **reuse** : (v) tái sử dụng /ˌriːˈjuːz/
+5. **electric vehicle** : (n.phr) xe điện /ɪˈlektrɪk ˈviːəkl/
+6. **public transport** : (n.phr) phương tiện công cộng /ˈpʌblɪk ˈtrænspɔːt/
+7. **strict** : (adj) nghiêm ngặt /strɪkt/
+8. **prevent** : (v) ngăn chặn /prɪˈvent/
+9. **rubbish** : (n) rác /ˈrʌbɪʃ/
+10. **renewable energy** : (n.phr) năng lượng tái tạo /rɪˈnjuːəbl ˈenədʒi/
 
 ---
 
@@ -190,28 +190,28 @@ Cuối cùng, các nhà máy nên lắp đặt các bộ lọc thích hợp đ�
 
 ## Vocabulary (Từ vựng)
 
-1. solution: (n) giải pháp /səˈluːʃn/
-2. reduce: (v) giảm /rɪˈdjuːs/
-3. recycle: (v) tái chế /ˌriːˈsaɪkl/
-4. reuse: (v) tái sử dụng /ˌriːˈjuːz/
-5. electric vehicle: (n.phr) xe điện /ɪˈlektrɪk ˈviːəkl/
-6. public transport: (n.phr) phương tiện công cộng /ˈpʌblɪk ˈtrænspɔːt/
-7. strict: (adj) nghiêm ngặt /strɪkt/
-8. law: (n) luật /lɔː/
-9. prevent: (v) ngăn chặn /prɪˈvent/
-10. nature reserve: (n.phr) khu bảo tồn thiên nhiên /ˈneɪtʃə rɪˈzɜːv/
-11. endangered species: (n.phr) loài có nguy cơ tuyệt chủng /ɪnˈdeɪndʒəd ˈspiːʃiːz/
-12. rubbish: (n) rác /ˈrʌbɪʃ/
-13. filter: (n) bộ lọc /ˈfɪltə/
-14. install: (v) lắp đặt /ɪnˈstɔːl/
-15. illegal: (adj) bất hợp pháp /ɪˈliːɡl/
-16. punish: (v) trừng phạt /ˈpʌnɪʃ/
-17. plant: (v) trồng /plɑːnt/
-18. regularly: (adv) thường xuyên /ˈreɡjələli/
-19. wildlife trade: (n.phr) buôn bán động vật hoang dã /ˈwaɪldlaɪf treɪd/
-20. raise awareness: (v.phr) nâng cao nhận thức /reɪz əˈweənəs/
-21. media campaign: (n.phr) chiến dịch truyền thông /ˈmiːdiə kæmˈpeɪn/
-22. community: (n) cộng đồng /kəˈmjuːnəti/
-23. presentation: (n) bài thuyết trình /ˌpreznˈteɪʃn/
-24. audience: (n) khán giả /ˈɔːdiəns/
-25. conclude: (v) kết luận /kənˈkluːd/
+1. **solution** : (n) giải pháp /səˈluːʃn/
+2. **reduce** : (v) giảm /rɪˈdjuːs/
+3. **recycle** : (v) tái chế /ˌriːˈsaɪkl/
+4. **reuse** : (v) tái sử dụng /ˌriːˈjuːz/
+5. **electric vehicle** : (n.phr) xe điện /ɪˈlektrɪk ˈviːəkl/
+6. **public transport** : (n.phr) phương tiện công cộng /ˈpʌblɪk ˈtrænspɔːt/
+7. **strict** : (adj) nghiêm ngặt /strɪkt/
+8. **law** : (n) luật /lɔː/
+9. **prevent** : (v) ngăn chặn /prɪˈvent/
+10. **nature reserve** : (n.phr) khu bảo tồn thiên nhiên /ˈneɪtʃə rɪˈzɜːv/
+11. **endangered species** : (n.phr) loài có nguy cơ tuyệt chủng /ɪnˈdeɪndʒəd ˈspiːʃiːz/
+12. **rubbish** : (n) rác /ˈrʌbɪʃ/
+13. **filter** : (n) bộ lọc /ˈfɪltə/
+14. **install** : (v) lắp đặt /ɪnˈstɔːl/
+15. **illegal** : (adj) bất hợp pháp /ɪˈliːɡl/
+16. **punish** : (v) trừng phạt /ˈpʌnɪʃ/
+17. **plant** : (v) trồng /plɑːnt/
+18. **regularly** : (adv) thường xuyên /ˈreɡjələli/
+19. **wildlife trade** : (n.phr) buôn bán động vật hoang dã /ˈwaɪldlaɪf treɪd/
+20. **raise awareness** : (v.phr) nâng cao nhận thức /reɪz əˈweənəs/
+21. **media campaign** : (n.phr) chiến dịch truyền thông /ˈmiːdiə kæmˈpeɪn/
+22. **community** : (n) cộng đồng /kəˈmjuːnəti/
+23. **presentation** : (n) bài thuyết trình /ˌpreznˈteɪʃn/
+24. **audience** : (n) khán giả /ˈɔːdiəns/
+25. **conclude** : (v) kết luận /kənˈkluːd/

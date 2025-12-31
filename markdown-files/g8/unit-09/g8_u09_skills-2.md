@@ -4,28 +4,28 @@
 
 **Vocabulary** 
 
-1. commune: (n) xã /kəˈmjuːn/  
-2. radio station: đài phát thanh /ˈreɪdiəʊ ˌsteɪʃn/  
-3. the rainy season: mùa mưa /ðə ˈreɪni ˈsiːzn/  
-4. special programme: chương trình đặc biệt /ˈspeʃl ˈprəʊɡræm/  
-5. storm: (n) cơn bão /stɔːm/  
-6. prepare: (v) chuẩn bị /prɪˈpeə/  
-7. an emergency kit: bộ dụng cụ khẩn cấp /ən ɪˈmɜːdʒənsi kɪt/  
-8. necessary things: những thứ cần thiết /ˈnesəsəri θɪŋz/  
-9. plaster: (n) băng dán vết thương, (v) dán băng /ˈplɑːstə/  
-10. basic medicine: thuốc cơ bản /ˈbeɪsɪk ˈmedsn/  
-11. whistle: (n) còi /ˈwɪsl/  
-12. bottle of water: chai nước /ˈbɒtl əv ˈwɔːtə/  
-13. flowerpot: (n) chậu hoa /ˈflaʊəpɒt/  
-14. strengthen your house: gia cố nhà cửa /ˈstreŋθən jɔː haʊs/  
-15. stay inside: ở trong nhà /steɪ ɪnˈsaɪd/  
-16. glass door: cửa kính /ɡlɑːs dɔː/  
-17. break \- broke \- broken: (v) vỡ, đổ vỡ, phá vỡ /breɪk \- brəʊk \- ˈbrəʊkən/  
-18. hurt \- hurt \- hurt: (v) làm đau, bị thương; (adj) đau /hɜːt/  
-19. important instructions from local authorities: chỉ dẫn quan trọng từ chính quyền địa phương /ɪmˈpɔːtnt ɪnˈstrʌkʃnz frəm ˈləʊkl ɔːˈθɒrətiz/  
-20. dangerous: (adj) nguy hiểm /ˈdeɪndʒərəs/  
-21. should be avoided: nên tránh /ʃʊd bi əˈvɔɪdɪd/  
-22. broken power lines: đường dây điện bị đứt /ˈbrəʊkən ˈpaʊə laɪnz/  
+1. **commune** : (n) xã /kəˈmjuːn/
+2. **radio station** : đài phát thanh /ˈreɪdiəʊ ˌsteɪʃn/
+3. **the rainy season** : mùa mưa /ðə ˈreɪni ˈsiːzn/
+4. **special programme** : chương trình đặc biệt /ˈspeʃl ˈprəʊɡræm/
+5. **storm** : (n) cơn bão /stɔːm/
+6. **prepare** : (v) chuẩn bị /prɪˈpeə/
+7. **an emergency kit** : bộ dụng cụ khẩn cấp /ən ɪˈmɜːdʒənsi kɪt/
+8. **necessary things** : những thứ cần thiết /ˈnesəsəri θɪŋz/
+9. **plaster** : (n) băng dán vết thương, (v) dán băng /ˈplɑːstə/
+10. **basic medicine** : thuốc cơ bản /ˈbeɪsɪk ˈmedsn/
+11. **whistle** : (n) còi /ˈwɪsl/
+12. **bottle of water** : chai nước /ˈbɒtl əv ˈwɔːtə/
+13. **flowerpot** : (n) chậu hoa /ˈflaʊəpɒt/
+14. **strengthen your house** : gia cố nhà cửa /ˈstreŋθən jɔː haʊs/
+15. **stay inside** : ở trong nhà /steɪ ɪnˈsaɪd/
+16. **glass door** : cửa kính /ɡlɑːs dɔː/
+17. **break \- broke \- broken** : (v) vỡ, đổ vỡ, phá vỡ /breɪk \- brəʊk \- ˈbrəʊkən/
+18. **hurt \- hurt \- hurt** : (v) làm đau, bị thương; (adj) đau /hɜːt/
+19. **important instructions from local authorities** : chỉ dẫn quan trọng từ chính quyền địa phương /ɪmˈpɔːtnt ɪnˈstrʌkʃnz frəm ˈləʊkl ɔːˈθɒrətiz/
+20. **dangerous** : (adj) nguy hiểm /ˈdeɪndʒərəs/
+21. **should be avoided** : nên tránh /ʃʊd bi əˈvɔɪdɪd/
+22. **broken power lines** : đường dây điện bị đứt /ˈbrəʊkən ˈpaʊə laɪnz/
       
       
     

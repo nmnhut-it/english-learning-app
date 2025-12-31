@@ -5,18 +5,18 @@
 
 ### New words
 
-1. ecotourism: (n) du lịch sinh thái /ˌiːkəʊˈtʊərɪzəm/
-2. eco-friendly: (adj) thân thiện với môi trường /ˌiːkəʊ ˈfrendli/
-3. fieldtrip: (n) chuyến đi thực tế /ˈfiːldtrɪp/
-4. tourist attraction: (n.phr) điểm thu hút khách du lịch /ˈtʊərɪst əˈtrækʃn/
-5. stalactite: (n) thạch nhũ /stəˈlæktaɪt/
-6. collection: (n) bộ sưu tập /kəˈlekʃn/
-7. snack: (n) đồ ăn nhẹ /snæk/
-8. damage: (v, n) làm hỏng, thiệt hại /ˈdæmɪdʒ/
-9. form: (v) hình thành /fɔːm/
-10. litter: (n, v) rác, xả rác /ˈlɪtə/
-11. packaging: (n) bao bì /ˈpækɪdʒɪŋ/
-12. educational: (adj) mang tính giáo dục /ˌedʒuˈkeɪʃənl/
+1. **ecotourism** : (n) du lịch sinh thái /ˌiːkəʊˈtʊərɪzəm/
+2. **eco-friendly** : (adj) thân thiện với môi trường /ˌiːkəʊ ˈfrendli/
+3. **fieldtrip** : (n) chuyến đi thực tế /ˈfiːldtrɪp/
+4. **tourist attraction** : (n.phr) điểm thu hút khách du lịch /ˈtʊərɪst əˈtrækʃn/
+5. **stalactite** : (n) thạch nhũ /stəˈlæktaɪt/
+6. **collection** : (n) bộ sưu tập /kəˈlekʃn/
+7. **snack** : (n) đồ ăn nhẹ /snæk/
+8. **damage** : (v, n) làm hỏng, thiệt hại /ˈdæmɪdʒ/
+9. **form** : (v) hình thành /fɔːm/
+10. **litter** : (n, v) rác, xả rác /ˈlɪtə/
+11. **packaging** : (n) bao bì /ˈpækɪdʒɪŋ/
+12. **educational** : (adj) mang tính giáo dục /ˌedʒuˈkeɪʃənl/
 
 ---
 
@@ -163,36 +163,36 @@
 
 #### Hướng dẫn dịch:
 
-1. Nam nói: 'Nếu em **thêm** một số vào bộ sưu tập đá của mình, nó **sẽ là** bộ sưu tập tuyệt nhất ở trường!'
+1. **Nam nói** : 'Nếu em **thêm** một số vào bộ sưu tập đá của mình, nó **sẽ là** bộ sưu tập tuyệt nhất ở trường!'
 
-2. Cô Hoa nói: 'Nếu cô **là** em, cô **sẽ không** mang quá nhiều đồ ăn vặt.'
+2. **Cô Hoa nói** : 'Nếu cô **là** em, cô **sẽ không** mang quá nhiều đồ ăn vặt.'
 
 ---
 
 ## Vocabulary (Từ vựng)
 
-1. ecotourism: (n) du lịch sinh thái /ˌiːkəʊˈtʊərɪzəm/
-2. eco-friendly: (adj) thân thiện với môi trường /ˌiːkəʊ ˈfrendli/
-3. fieldtrip: (n) chuyến đi thực tế /ˈfiːldtrɪp/
-4. tourist attraction: (n.phr) điểm thu hút khách du lịch /ˈtʊərɪst əˈtrækʃn/
-5. cave: (n) hang động /keɪv/
-6. stalactite: (n) thạch nhũ /stəˈlæktaɪt/
-7. collection: (n) bộ sưu tập /kəˈlekʃn/
-8. rock: (n) đá /rɒk/
-9. snack: (n) đồ ăn nhẹ /snæk/
-10. share: (v) chia sẻ /ʃeə/
-11. explore: (v) khám phá /ɪkˈsplɔː/
-12. damage: (v, n) làm hỏng, thiệt hại /ˈdæmɪdʒ/
-13. form: (v) hình thành /fɔːm/
-14. touch: (v) chạm vào /tʌtʃ/
-15. promise: (v, n) hứa /ˈprɒmɪs/
-16. litter: (n, v) rác, xả rác /ˈlɪtə/
-17. packaging: (n) bao bì /ˈpækɪdʒɪŋ/
-18. educational: (adj) mang tính giáo dục /ˌedʒuˈkeɪʃənl/
-19. experience: (n) trải nghiệm /ɪkˈspɪəriəns/
-20. province: (n) tỉnh /ˈprɒvɪns/
-21. conditional sentence: (n.phr) câu điều kiện /kənˈdɪʃənl ˈsentəns/
-22. type 1 conditional: (n.phr) câu điều kiện loại 1 /taɪp wʌn kənˈdɪʃənl/
-23. type 2 conditional: (n.phr) câu điều kiện loại 2 /taɪp tuː kənˈdɪʃənl/
-24. real condition: (n.phr) điều kiện có thật /rɪəl kənˈdɪʃn/
-25. unreal condition: (n.phr) điều kiện không có thật /ʌnˈrɪəl kənˈdɪʃn/
+1. **ecotourism** : (n) du lịch sinh thái /ˌiːkəʊˈtʊərɪzəm/
+2. **eco-friendly** : (adj) thân thiện với môi trường /ˌiːkəʊ ˈfrendli/
+3. **fieldtrip** : (n) chuyến đi thực tế /ˈfiːldtrɪp/
+4. **tourist attraction** : (n.phr) điểm thu hút khách du lịch /ˈtʊərɪst əˈtrækʃn/
+5. **cave** : (n) hang động /keɪv/
+6. **stalactite** : (n) thạch nhũ /stəˈlæktaɪt/
+7. **collection** : (n) bộ sưu tập /kəˈlekʃn/
+8. **rock** : (n) đá /rɒk/
+9. **snack** : (n) đồ ăn nhẹ /snæk/
+10. **share** : (v) chia sẻ /ʃeə/
+11. **explore** : (v) khám phá /ɪkˈsplɔː/
+12. **damage** : (v, n) làm hỏng, thiệt hại /ˈdæmɪdʒ/
+13. **form** : (v) hình thành /fɔːm/
+14. **touch** : (v) chạm vào /tʌtʃ/
+15. **promise** : (v, n) hứa /ˈprɒmɪs/
+16. **litter** : (n, v) rác, xả rác /ˈlɪtə/
+17. **packaging** : (n) bao bì /ˈpækɪdʒɪŋ/
+18. **educational** : (adj) mang tính giáo dục /ˌedʒuˈkeɪʃənl/
+19. **experience** : (n) trải nghiệm /ɪkˈspɪəriəns/
+20. **province** : (n) tỉnh /ˈprɒvɪns/
+21. **conditional sentence** : (n.phr) câu điều kiện /kənˈdɪʃənl ˈsentəns/
+22. **type 1 conditional** : (n.phr) câu điều kiện loại 1 /taɪp wʌn kənˈdɪʃənl/
+23. **type 2 conditional** : (n.phr) câu điều kiện loại 2 /taɪp tuː kənˈdɪʃənl/
+24. **real condition** : (n.phr) điều kiện có thật /rɪəl kənˈdɪʃn/
+25. **unreal condition** : (n.phr) điều kiện không có thật /ʌnˈrɪəl kənˈdɪʃn/

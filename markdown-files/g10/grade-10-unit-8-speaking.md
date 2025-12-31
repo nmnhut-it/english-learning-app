@@ -5,16 +5,16 @@
 
 ### New words
 
-1. advantage: (n) ưu điểm, lợi thế /ədˈvɑːntɪdʒ/
-2. disadvantage: (n) nhược điểm, bất lợi /ˌdɪsədˈvɑːntɪdʒ/
-3. pace: (n) tốc độ /peɪs/
-4. technical problem: (n.phr) vấn đề kỹ thuật /ˈteknɪkl ˈprɒbləm/
-5. schedule: (n) lịch trình /ˈʃedjuːl/
-6. organise: (v) tổ chức, sắp xếp /ˈɔːɡənaɪz/
-7. at one's own pace: (phr) theo tốc độ riêng /æt wʌnz əʊn peɪs/
-8. anytime: (adv) bất cứ lúc nào /ˈeniˌtaɪm/
-9. anywhere: (adv) bất cứ đâu /ˈeniˌweə/
-10. face to face: (adv) trực tiếp, mặt đối mặt /ˌfeɪs tə ˈfeɪs/
+1. **advantage** : (n) ưu điểm, lợi thế /ədˈvɑːntɪdʒ/
+2. **disadvantage** : (n) nhược điểm, bất lợi /ˌdɪsədˈvɑːntɪdʒ/
+3. **pace** : (n) tốc độ /peɪs/
+4. **technical problem** : (n.phr) vấn đề kỹ thuật /ˈteknɪkl ˈprɒbləm/
+5. **schedule** : (n) lịch trình /ˈʃedjuːl/
+6. **organise** : (v) tổ chức, sắp xếp /ˈɔːɡənaɪz/
+7. **at one's own pace** : (phr) theo tốc độ riêng /æt wʌnz əʊn peɪs/
+8. **anytime** : (adv) bất cứ lúc nào /ˈeniˌtaɪm/
+9. **anywhere** : (adv) bất cứ đâu /ˈeniˌweə/
+10. **face to face** : (adv) trực tiếp, mặt đối mặt /ˌfeɪs tə ˈfeɪs/
 
 ---
 
@@ -160,19 +160,19 @@
 
 ## Vocabulary (Từ vựng)
 
-1. advantage: (n) ưu điểm, lợi thế /ədˈvɑːntɪdʒ/
-2. disadvantage: (n) nhược điểm, bất lợi /ˌdɪsədˈvɑːntɪdʒ/
-3. pace: (n) tốc độ /peɪs/
-4. technical problem: (n.phr) vấn đề kỹ thuật /ˈteknɪkl ˈprɒbləm/
-5. schedule: (n) lịch trình /ˈʃedjuːl/
-6. organise: (v) tổ chức, sắp xếp /ˈɔːɡənaɪz/
-7. assignment: (n) bài tập /əˈsaɪnmənt/
-8. distraction: (n) sự xao nhãng /dɪˈstrækʃn/
-9. outweigh: (v) lớn hơn, vượt trội /ˌaʊtˈweɪ/
-10. significant: (adj) đáng kể /sɪɡˈnɪfɪkənt/
-11. at one's own pace: (adv.phr) theo tốc độ của riêng mình /ət wʌnz əʊn peɪs/
-12. Internet connection: (n.phr) kết nối Internet /ˈɪntənet kəˈnekʃn/
-13. face to face: (adv.phr) mặt đối mặt /feɪs tə feɪs/
-14. attend lessons: (v.phr) tham dự bài học /əˈtend ˈlesnz/
-15. facial expression: (n.phr) nét mặt /ˈfeɪʃl ɪkˈspreʃn/
-16. body language: (n.phr) ngôn ngữ cơ thể /ˈbɒdi ˈlæŋɡwɪdʒ/
+1. **advantage** : (n) ưu điểm, lợi thế /ədˈvɑːntɪdʒ/
+2. **disadvantage** : (n) nhược điểm, bất lợi /ˌdɪsədˈvɑːntɪdʒ/
+3. **pace** : (n) tốc độ /peɪs/
+4. **technical problem** : (n.phr) vấn đề kỹ thuật /ˈteknɪkl ˈprɒbləm/
+5. **schedule** : (n) lịch trình /ˈʃedjuːl/
+6. **organise** : (v) tổ chức, sắp xếp /ˈɔːɡənaɪz/
+7. **assignment** : (n) bài tập /əˈsaɪnmənt/
+8. **distraction** : (n) sự xao nhãng /dɪˈstrækʃn/
+9. **outweigh** : (v) lớn hơn, vượt trội /ˌaʊtˈweɪ/
+10. **significant** : (adj) đáng kể /sɪɡˈnɪfɪkənt/
+11. **at one's own pace** : (adv.phr) theo tốc độ của riêng mình /ət wʌnz əʊn peɪs/
+12. **Internet connection** : (n.phr) kết nối Internet /ˈɪntənet kəˈnekʃn/
+13. **face to face** : (adv.phr) mặt đối mặt /feɪs tə feɪs/
+14. **attend lessons** : (v.phr) tham dự bài học /əˈtend ˈlesnz/
+15. **facial expression** : (n.phr) nét mặt /ˈfeɪʃl ɪkˈspreʃn/
+16. **body language** : (n.phr) ngôn ngữ cơ thể /ˈbɒdi ˈlæŋɡwɪdʒ/

@@ -28,86 +28,86 @@ Elena: Interesting! I didn’t know that.
 <summary>📝 Word-by-Word Analysis</summary>
 
 ```
-1. cute: (adj) dễ thương /kjuːt/
-2. cousin: (n) em họ /ˈkʌz.ən/
-3. Tet: (n) Tết /tet/
-4. coming: (v-ing) sắp đến /ˈkʌm.ɪŋ/
-5. soon: (adv) sớm /suːn/
-6. many: (det) nhiều /ˈmɛ.ni/
-7. people: (n) người /ˈpiː.pəl/
-8. visit: (v) thăm /ˈvɪz.ɪt/
-9. flower: (n) hoa /ˈflaʊər/
-10. villages: (n) làng /ˈvɪl.ɪdʒɪz/
-11. take: (v) chụp /teɪk/
-12. pictures: (n) ảnh /ˈpɪk.tʃərz/
-13. with: (prep) với /wɪð/
-14. blooming: (adj) nở rộ /ˈbluː.mɪŋ/
-15. flowers: (n) hoa /ˈflaʊərz/
-16. fond: (adj) thích /fɒnd/
-17. admiring: (v-ing) ngắm nhìn /ədˈmaɪərɪŋ/
-18. does: (aux.v) có /dʌz/
-19. your: (det) của bạn /jɔːr/
-20. family: (n) gia đình /ˈfæm.əl.i/
-21. visit: (v) thăm /ˈvɪz.ɪt/
-22. places: (n) địa điểm /ˈpleɪsɪz/
-23. like: (prep) như /laɪk/
-24. this: (det) này /ðɪs/
-25. too: (adv) cũng /tuː/
-26. Yes: (adv) Vâng /jes/
-27. do: (aux.v) làm /duː/
-28. usually: (adv) thường /juːʒuəli/
-29. visit: (v) thăm /ˈvɪz.ɪt/
-30. buy: (v) mua /baɪ/
-31. kumquat: (n) quất /ˈkʌm.kwɒt/
-32. trees: (n) cây /triːz/
-33. peach: (n) đào /piːtʃ/
-34. blossoms: (n) hoa (đào) /ˈblɒs.əmz/
-35. see: (v) thấy /siː/
-36. ornamental: (adj) trang trí /ˌɔː.nəˈmen.təl/
-37. everywhere: (adv) khắp mọi nơi /ˈevriweər/
-38. these: (det) những /ðiːz/
-39. days: (n) ngày /deɪz/
-40. what: (pron) gì /wɒt/
-41. are: (v) là /ɑːr/
-42. they: (pron) chúng /ðeɪ/
-43. for: (prep) cho /fɔːr/
-44. Vietnamese: (adj) người Việt /ˌvjet.nəˈmiːz/
-45. use: (v) dùng /juːz/
-46. plants: (n) cây /plɑːnts/
-47. flowers: (n) hoa /ˈflaʊərz/
-48. decorations: (n) trang trí /ˌdek.əˈreɪ.ʃənz/
-49. offerings: (n) đồ cúng /ˈɒf.ər.ɪŋz/
-50. important: (adj) quan trọng /ɪmˈpɔː.tənt/
-51. part: (n) phần /pɑːrt/
-52. our: (det) của chúng ta /aʊər/
-53. tradition: (n) truyền thống /trəˈdɪʃ.ən/
-54. tall: (adj) cao /tɔːl/
-55. tree: (n) cây /triː/
-56. photo: (n) ảnh /ˈfəʊ.təʊ/
-57. actually: (adv) thực ra /ˈæk.tʃu.ə.li/
-58. bamboo: (n) tre /bæmˈbuː/
-59. pole: (n) cột /pəʊl/
-60. place: (v) đặt /pleɪs/
-61. yard: (n) sân /jɑːrd/
-62. communal: (adj) cộng đồng /ˈkɒm.jʊ.nəl/
-63. house: (n) nhà /haʊs/
-64. hang: (v) treo /hæŋ/
-65. decorative: (adj) trang trí /ˈdek.ər.ə.tɪv/
-66. items: (n) đồ vật /ˈaɪ.təmz/
-67. bells: (n) chuông /belz/
-68. lanterns: (n) đèn lồng /ˈlæntərnz/
-69. want: (v) muốn /wɒnt/
-70. chase: (v) xua đuổi /tʃeɪs/
-71. away: (adv) đi /əˈweɪ/
-72. bad: (adj) xấu /bæd/
-73. luck: (n) vận may /lʌk/
-74. pray: (v) cầu nguyện /preɪ/
-75. lucky: (adj) may mắn /ˈlʌk.i/
-76. new: (adj) mới /njuː/
-77. year: (n) năm /jɪər/
-78. interesting: (adj) thú vị /ˈɪn.trəs.tɪŋ/
-79. didn’t: (aux.v) không /dɪdnt/
-80. know: (v) biết /nəʊ/
+1. **cute** : (adj) dễ thương /kjuːt/
+2. **cousin** : (n) em họ /ˈkʌz.ən/
+3. **Tet** : (n) Tết /tet/
+4. **coming** : (v-ing) sắp đến /ˈkʌm.ɪŋ/
+5. **soon** : (adv) sớm /suːn/
+6. **many** : (det) nhiều /ˈmɛ.ni/
+7. **people** : (n) người /ˈpiː.pəl/
+8. **visit** : (v) thăm /ˈvɪz.ɪt/
+9. **flower** : (n) hoa /ˈflaʊər/
+10. **villages** : (n) làng /ˈvɪl.ɪdʒɪz/
+11. **take** : (v) chụp /teɪk/
+12. **pictures** : (n) ảnh /ˈpɪk.tʃərz/
+13. **with** : (prep) với /wɪð/
+14. **blooming** : (adj) nở rộ /ˈbluː.mɪŋ/
+15. **flowers** : (n) hoa /ˈflaʊərz/
+16. **fond** : (adj) thích /fɒnd/
+17. **admiring** : (v-ing) ngắm nhìn /ədˈmaɪərɪŋ/
+18. **does** : (aux.v) có /dʌz/
+19. **your** : (det) của bạn /jɔːr/
+20. **family** : (n) gia đình /ˈfæm.əl.i/
+21. **visit** : (v) thăm /ˈvɪz.ɪt/
+22. **places** : (n) địa điểm /ˈpleɪsɪz/
+23. **like** : (prep) như /laɪk/
+24. **this** : (det) này /ðɪs/
+25. **too** : (adv) cũng /tuː/
+26. **Yes** : (adv) Vâng /jes/
+27. **do** : (aux.v) làm /duː/
+28. **usually** : (adv) thường /juːʒuəli/
+29. **visit** : (v) thăm /ˈvɪz.ɪt/
+30. **buy** : (v) mua /baɪ/
+31. **kumquat** : (n) quất /ˈkʌm.kwɒt/
+32. **trees** : (n) cây /triːz/
+33. **peach** : (n) đào /piːtʃ/
+34. **blossoms** : (n) hoa (đào) /ˈblɒs.əmz/
+35. **see** : (v) thấy /siː/
+36. **ornamental** : (adj) trang trí /ˌɔː.nəˈmen.təl/
+37. **everywhere** : (adv) khắp mọi nơi /ˈevriweər/
+38. **these** : (det) những /ðiːz/
+39. **days** : (n) ngày /deɪz/
+40. **what** : (pron) gì /wɒt/
+41. **are** : (v) là /ɑːr/
+42. **they** : (pron) chúng /ðeɪ/
+43. **for** : (prep) cho /fɔːr/
+44. **Vietnamese** : (adj) người Việt /ˌvjet.nəˈmiːz/
+45. **use** : (v) dùng /juːz/
+46. **plants** : (n) cây /plɑːnts/
+47. **flowers** : (n) hoa /ˈflaʊərz/
+48. **decorations** : (n) trang trí /ˌdek.əˈreɪ.ʃənz/
+49. **offerings** : (n) đồ cúng /ˈɒf.ər.ɪŋz/
+50. **important** : (adj) quan trọng /ɪmˈpɔː.tənt/
+51. **part** : (n) phần /pɑːrt/
+52. **our** : (det) của chúng ta /aʊər/
+53. **tradition** : (n) truyền thống /trəˈdɪʃ.ən/
+54. **tall** : (adj) cao /tɔːl/
+55. **tree** : (n) cây /triː/
+56. **photo** : (n) ảnh /ˈfəʊ.təʊ/
+57. **actually** : (adv) thực ra /ˈæk.tʃu.ə.li/
+58. **bamboo** : (n) tre /bæmˈbuː/
+59. **pole** : (n) cột /pəʊl/
+60. **place** : (v) đặt /pleɪs/
+61. **yard** : (n) sân /jɑːrd/
+62. **communal** : (adj) cộng đồng /ˈkɒm.jʊ.nəl/
+63. **house** : (n) nhà /haʊs/
+64. **hang** : (v) treo /hæŋ/
+65. **decorative** : (adj) trang trí /ˈdek.ər.ə.tɪv/
+66. **items** : (n) đồ vật /ˈaɪ.təmz/
+67. **bells** : (n) chuông /belz/
+68. **lanterns** : (n) đèn lồng /ˈlæntərnz/
+69. **want** : (v) muốn /wɒnt/
+70. **chase** : (v) xua đuổi /tʃeɪs/
+71. **away** : (adv) đi /əˈweɪ/
+72. **bad** : (adj) xấu /bæd/
+73. **luck** : (n) vận may /lʌk/
+74. **pray** : (v) cầu nguyện /preɪ/
+75. **lucky** : (adj) may mắn /ˈlʌk.i/
+76. **new** : (adj) mới /njuː/
+77. **year** : (n) năm /jɪər/
+78. **interesting** : (adj) thú vị /ˈɪn.trəs.tɪŋ/
+79. **didn’t** : (aux.v) không /dɪdnt/
+80. **know** : (v) biết /nəʊ/
 ```
 
 </details>

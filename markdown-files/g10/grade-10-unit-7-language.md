@@ -20,14 +20,14 @@
 - Trong từ điển, trọng âm chính được đánh dấu phẩy trên (ˈ) và trọng âm thứ được đánh dấu phẩy dưới (ˌ) ở ngay trước âm tiết nhận trọng âm.
 
 **Lời giải chi tiết:**
-1. application /ˌæplɪˈkeɪʃn/ (n): ứng dụng
-2. communication /kəˌmjuːnɪˈkeɪʃn/ (n): sự giao tiếp
-3. economic /ˌiːkəˈnɒmɪk/, /ˌekəˈnɒmɪk/ (adj): thuộc về kinh tế
-4. explanation /ˌekspləˈneɪʃn/ (n): lời giải thích
-5. population /ˌpɒpjuˈleɪʃn/ (n): dân số
-6. independent /ˌɪndɪˈpendənt/ (adj): độc lập
-7. possibility /ˌpɒsəˈbɪləti/ (n): khả năng, sự khả thi
-8. participation /pɑːˌtɪsɪˈpeɪʃn/ (n): sự tham gia
+1. **application /ˌæplɪˈkeɪʃn/ (n)** : ứng dụng
+2. **communication /kəˌmjuːnɪˈkeɪʃn/ (n)** : sự giao tiếp
+3. **economic /ˌiːkəˈnɒmɪk/, /ˌekəˈnɒmɪk/ (adj)** : thuộc về kinh tế
+4. **explanation /ˌekspləˈneɪʃn/ (n)** : lời giải thích
+5. **population /ˌpɒpjuˈleɪʃn/ (n)** : dân số
+6. **independent /ˌɪndɪˈpendənt/ (adj)** : độc lập
+7. **possibility /ˌpɒsəˈbɪləti/ (n)** : khả năng, sự khả thi
+8. **participation /pɑːˌtɪsɪˈpeɪʃn/ (n)** : sự tham gia
 
 #### Exercise 2: Listen and mark the primary stress in the words in bold. Then practise saying the sentences.
 

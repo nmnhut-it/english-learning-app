@@ -3,33 +3,33 @@
 ## GETTING STARTED - BẮT ĐẦU
 
 ### 📚 Vocabulary - Từ vựng
-- **tan** : (n) làn da rám nắng /tæn/
-- **enjoyable** : (adj) thú vị, thích thú /ɪnˈdʒɔɪəbl/
-- **summer holiday** : (n) kỳ nghỉ hè /ˈsʌmər ˈhɒlɪdeɪ/
-- **uncle** : (n) bác, chú /ˈʌŋkl/
-- **small village** : (n) làng nhỏ /smɔːl ˈvɪlɪdʒ/
-- **province** : (n) tỉnh /ˈprɒvɪns/
-- **harvest time** : (n) mùa gặt /ˈhɑːvɪst taɪm/
-- **harvesting rice** : (v) thu hoạch lúa /ˈhɑːvɪstɪŋ raɪs/
-- **combine harvester** : (n) máy gặt đập liên hợp /ˈkɒmbaɪn ˈhɑːvɪstər/
-- **load the rice** : (v) chất lúa /ləʊd ðə raɪs/
-- **unload the rice** : (v) dỡ lúa /ʌnˈləʊd ðə raɪs/
-- **dry the rice** : (v) phơi khô lúa /draɪ ðə raɪs/
-- **village children** : (n) trẻ em trong làng /ˈvɪlɪdʒ ˈtʃɪldrən/
-- **herd the buffaloes** : (v) chăn trâu /hɜːd ðə ˈbʌfələʊz/
-- **herd the cows** : (v) chăn bò /hɜːd ðə kaʊz/
-- **make friends** : (v) kết bạn /meɪk frendz/
-- **first day** : (n) ngày đầu tiên /fɜːst deɪ/
-- **friendly** : (adj) thân thiện /ˈfrendli/
-- **paddy fields** : (n) cánh đồng lúa /ˈpædi fiːldz/
-- **fly kites** : (v) thả diều /flaɪ kaɪts/
-- **evening** : (n) buổi tối /ˈiːvnɪŋ/
-- **traditional games** : (n) trò chơi truyền thống /trəˈdɪʃənl ɡeɪmz/
-- **bamboo dancing** : (n) múa sạp /ˈbæmbuː ˈdɑːnsɪŋ/
-- **dragon-snake** : (n) rồng rắn lên mây /ˈdræɡən sneɪk/
-- **envy** : (v) ghen tị /ˈenvi/
-- **move slowly** : (v) di chuyển chậm /muːv ˈsləʊli/
-- **healthier life** : (n) cuộc sống lành mạnh hơn /ˈhelθiər laɪf/
+1. **tan** : (n) làn da rám nắng /tæn/
+2. **enjoyable** : (adj) thú vị, thích thú /ɪnˈdʒɔɪəbl/
+3. **summer holiday** : (n) kỳ nghỉ hè /ˈsʌmər ˈhɒlɪdeɪ/
+4. **uncle** : (n) bác, chú /ˈʌŋkl/
+5. **small village** : (n) làng nhỏ /smɔːl ˈvɪlɪdʒ/
+6. **province** : (n) tỉnh /ˈprɒvɪns/
+7. **harvest time** : (n) mùa gặt /ˈhɑːvɪst taɪm/
+8. **harvesting rice** : (v) thu hoạch lúa /ˈhɑːvɪstɪŋ raɪs/
+9. **combine harvester** : (n) máy gặt đập liên hợp /ˈkɒmbaɪn ˈhɑːvɪstər/
+10. **load the rice** : (v) chất lúa /ləʊd ðə raɪs/
+11. **unload the rice** : (v) dỡ lúa /ʌnˈləʊd ðə raɪs/
+12. **dry the rice** : (v) phơi khô lúa /draɪ ðə raɪs/
+13. **village children** : (n) trẻ em trong làng /ˈvɪlɪdʒ ˈtʃɪldrən/
+14. **herd the buffaloes** : (v) chăn trâu /hɜːd ðə ˈbʌfələʊz/
+15. **herd the cows** : (v) chăn bò /hɜːd ðə kaʊz/
+16. **make friends** : (v) kết bạn /meɪk frendz/
+17. **first day** : (n) ngày đầu tiên /fɜːst deɪ/
+18. **friendly** : (adj) thân thiện /ˈfrendli/
+19. **paddy fields** : (n) cánh đồng lúa /ˈpædi fiːldz/
+20. **fly kites** : (v) thả diều /flaɪ kaɪts/
+21. **evening** : (n) buổi tối /ˈiːvnɪŋ/
+22. **traditional games** : (n) trò chơi truyền thống /trəˈdɪʃənl ɡeɪmz/
+23. **bamboo dancing** : (n) múa sạp /ˈbæmbuː ˈdɑːnsɪŋ/
+24. **dragon-snake** : (n) rồng rắn lên mây /ˈdræɡən sneɪk/
+25. **envy** : (v) ghen tị /ˈenvi/
+26. **move slowly** : (v) di chuyển chậm /muːv ˈsləʊli/
+27. **healthier life** : (n) cuộc sống lành mạnh hơn /ˈhelθiər laɪf/
 
 ### 💬 Content - Nội dung
 **Nick**: You look great with a tan, Mai!
@@ -120,34 +120,34 @@ combine harvester | load | herd | paddy field | harvest time
 ## A CLOSER LOOK 1 - TÌM HIỂU THÊM 1
 
 ### 📚 Vocabulary - Từ vựng
-- **cattle** : (n) gia súc /ˈkætl/
-- **poultry** : (n) gia cầm /ˈpəʊltri/
-- **plant** : (n) cây /plɑːnt/
-- **fruit** : (n) trái cây /fruːt/
-- **orchard** : (n) vườn cây ăn quả /ˈɔːtʃəd/
-- **harvest** : (n) thu hoạch /ˈhɑːvɪst/
-- **crops** : (n) nông sản, cây trồng /krɒps/
-- **load** : (v) chất /ləʊd/
-- **unload** : (v) dỡ /ʌnˈləʊd/
-- **catch** : (v) bắt /kætʃ/
-- **holding** : (v) giữ /ˈhəʊldɪŋ/
-- **lake** : (n) hồ /leɪk/
-- **pond** : (n) ao /pɒnd/
-- **vast** : (adj) rộng lớn /vɑːst/
-- **hospitable** : (adj) hiếu khách /ˈhɒspɪtəbl/
-- **well-trained** : (adj) được đào tạo tốt /wel treɪnd/
-- **surrounded** : (adj) bao quanh /səˈraʊndɪd/
-- **picturesque** : (adj) đẹp như tranh /ˌpɪktʃəˈresk/
-- **food** : (n) thức ăn /fuːd/
-- **kind** : (adj) tốt bụng /kaɪnd/
-- **workers** : (n) công nhân /ˈwɜːkəz/
-- **bottle** : (n) chai /ˈbɒtl/
-- **hard-working** : (adj) chăm chỉ /hɑːd-ˈwɜːkɪŋ/
-- **pick** : (v) hái /ˈpɪk/
-- **gather** : (v) tụ họp /ˈɡæðə/
-- **milk** : (n) sữa /mɪlk/
-- **pasta** : (n) mì ống /ˈpæstə/
-- **supermarket** : (n) siêu thị /ˈsuːpəmɑːkɪt/
+1. **cattle** : (n) gia súc /ˈkætl/
+2. **poultry** : (n) gia cầm /ˈpəʊltri/
+3. **plant** : (n) cây /plɑːnt/
+4. **fruit** : (n) trái cây /fruːt/
+5. **orchard** : (n) vườn cây ăn quả /ˈɔːtʃəd/
+6. **harvest** : (n) thu hoạch /ˈhɑːvɪst/
+7. **crops** : (n) nông sản, cây trồng /krɒps/
+8. **load** : (v) chất /ləʊd/
+9. **unload** : (v) dỡ /ʌnˈləʊd/
+10. **catch** : (v) bắt /kætʃ/
+11. **holding** : (v) giữ /ˈhəʊldɪŋ/
+12. **lake** : (n) hồ /leɪk/
+13. **pond** : (n) ao /pɒnd/
+14. **vast** : (adj) rộng lớn /vɑːst/
+15. **hospitable** : (adj) hiếu khách /ˈhɒspɪtəbl/
+16. **well-trained** : (adj) được đào tạo tốt /wel treɪnd/
+17. **surrounded** : (adj) bao quanh /səˈraʊndɪd/
+18. **picturesque** : (adj) đẹp như tranh /ˌpɪktʃəˈresk/
+19. **food** : (n) thức ăn /fuːd/
+20. **kind** : (adj) tốt bụng /kaɪnd/
+21. **workers** : (n) công nhân /ˈwɜːkəz/
+22. **bottle** : (n) chai /ˈbɒtl/
+23. **hard-working** : (adj) chăm chỉ /hɑːd-ˈwɜːkɪŋ/
+24. **pick** : (v) hái /ˈpɪk/
+25. **gather** : (v) tụ họp /ˈɡæðə/
+26. **milk** : (n) sữa /mɪlk/
+27. **pasta** : (n) mì ống /ˈpæstə/
+28. **supermarket** : (n) siêu thị /ˈsuːpəmɑːkɪt/
 
 ### 🗣️ Pronunciation - Phát âm
 Focus: /ə/ and /ɪ/ sounds
@@ -211,13 +211,13 @@ Focus: /ə/ and /ɪ/ sounds
 ## A CLOSER LOOK 2 - TÌM HIỂU THÊM 2
 
 ### 📚 Vocabulary - Từ vựng
-- **market** : (n) chợ /ˈmɑːkɪt/
-- **carefully** : (adv) cẩn thận /ˈkeəfəli/
-- **soundly** : (adv) ngon lành /ˈsaʊndli/
-- **beautifully** : (adv) một cách đẹp đẽ /ˈbjuːtɪfəli/
-- **clearly** : (adv) rõ ràng /ˈklɪəli/
-- **heavily** : (adv) nặng nề /ˈhevɪli/
-- **frequently** : (adv) thường xuyên /ˈfriːkwəntli/
+1. **market** : (n) chợ /ˈmɑːkɪt/
+2. **carefully** : (adv) cẩn thận /ˈkeəfəli/
+3. **soundly** : (adv) ngon lành /ˈsaʊndli/
+4. **beautifully** : (adv) một cách đẹp đẽ /ˈbjuːtɪfəli/
+5. **clearly** : (adv) rõ ràng /ˈklɪəli/
+6. **heavily** : (adv) nặng nề /ˈhevɪli/
+7. **frequently** : (adv) thường xuyên /ˈfriːkwəntli/
 
 ### 📖 Grammar - Ngữ pháp
 
@@ -286,7 +286,7 @@ carefully | soundly | fast | quietly | early
    Mai did _____ (well).
 4. It usually takes me two hours to do my homework. Today it took me only one hour.
    Today I did my homework _____ (quickly).
-5. My dad expected the workers to arrive at 7 a.m, but they arrived at 6:30 a.m.
+5. **My dad expected the workers to arrive at 7 a.m, but they arrived at 6** : 30 a.m.
    The workers arrived _____ (early).
 
 **Answers:** 
@@ -300,41 +300,41 @@ carefully | soundly | fast | quietly | early
 
 ### 📚 Vocabulary - Từ vựng
 - **What a/an + adj + N!** : Thật là...! (câu cảm thán)
-- **ancient** : (adj) cổ kính /ˈeɪnʃənt/
-- **situated** : (v) nằm ở /ˈsɪtʃueɪtɪd/
-- **center** : (n) trung tâm /ˈsentər/
-- **bicycle** : (n) xe đạp /ˈbaɪsɪkl/
-- **famous** : (adj) nổi tiếng /ˈfeɪməs/
-- **pagoda** : (n) chùa /pəˈɡəʊdə/
-- **temple** : (n) đền /ˈtempl/
-- **observe** : (v) quan sát /əbˈzɜːv/
-- **locals** : (n) người dân địa phương /ˈləʊklz/
-- **specialties** : (n) đặc sản /ˈspeʃəltiz/
-- **try** : (v) thử /traɪ/
-- **island** : (n) đảo /ˈaɪlənd/
-- **Netherlands** : (n) Hà Lan /ˈneðələndz/
-- **historical** : (adj) lịch sử /hɪsˈtɒrɪkl/
-- **cultural** : (adj) văn hóa /ˈkʌltʃərəl/
-- **values** : (n) giá trị /ˈvæljuːz/
-- **sights** : (n) cảnh /saɪts/
-- **museum** : (n) bảo tàng /mjuːˈzɪəm/
-- **church** : (n) nhà thờ /tʃɜːtʃ/
-- **lighthouse** : (n) ngọn hải đăng /ˈlaɪthaʊs/
-- **sightseeing** : (n) tham quan /ˈsaɪtsiːɪŋ/
-- **sports** : (n) thể thao /spɔːts/
-- **kite-flying** : (n) thả diều /kaɪt-ˈflaɪɪŋ/
-- **surfing** : (n) lướt sóng /ˈsɜːfɪŋ/
-- **air** : (n) đường hàng không /eər/
-- **ferry** : (n) phà /ˈferi/
+1. **ancient** : (adj) cổ kính /ˈeɪnʃənt/
+2. **situated** : (v) nằm ở /ˈsɪtʃueɪtɪd/
+3. **center** : (n) trung tâm /ˈsentər/
+4. **bicycle** : (n) xe đạp /ˈbaɪsɪkl/
+5. **famous** : (adj) nổi tiếng /ˈfeɪməs/
+6. **pagoda** : (n) chùa /pəˈɡəʊdə/
+7. **temple** : (n) đền /ˈtempl/
+8. **observe** : (v) quan sát /əbˈzɜːv/
+9. **locals** : (n) người dân địa phương /ˈləʊklz/
+10. **specialties** : (n) đặc sản /ˈspeʃəltiz/
+11. **try** : (v) thử /traɪ/
+12. **island** : (n) đảo /ˈaɪlənd/
+13. **Netherlands** : (n) Hà Lan /ˈneðələndz/
+14. **historical** : (adj) lịch sử /hɪsˈtɒrɪkl/
+15. **cultural** : (adj) văn hóa /ˈkʌltʃərəl/
+16. **values** : (n) giá trị /ˈvæljuːz/
+17. **sights** : (n) cảnh /saɪts/
+18. **museum** : (n) bảo tàng /mjuːˈzɪəm/
+19. **church** : (n) nhà thờ /tʃɜːtʃ/
+20. **lighthouse** : (n) ngọn hải đăng /ˈlaɪthaʊs/
+21. **sightseeing** : (n) tham quan /ˈsaɪtsiːɪŋ/
+22. **sports** : (n) thể thao /spɔːts/
+23. **kite-flying** : (n) thả diều /kaɪt-ˈflaɪɪŋ/
+24. **surfing** : (n) lướt sóng /ˈsɜːfɪŋ/
+25. **air** : (n) đường hàng không /eər/
+26. **ferry** : (n) phà /ˈferi/
 
 ### 🗣️ Activities - Hoạt động
 
 **Bài 1 trang 22: Listen and read the conversations. Pay attention to the highlighted sentences.**
 
-1. **Tom**: What a beautiful kite you have, Mai!
+1. **Tom** : What a beautiful kite you have, Mai!
    **Mai**: Thank you, Tom. My dad made it for me last weekend.
 
-2. **Nick**: You've made a lot of progress in English, Alice.
+2. **Nick** : You've made a lot of progress in English, Alice.
    **Alice**: Thank you. It's really nice of you to say so.
 
 **Bài 2 trang 22: Work in pairs. Make similar conversations to practice giving and responding to compliments.**
@@ -368,28 +368,28 @@ Hollum is one of the ancient villages on the island of Ameland, the Netherlands.
 ## SKILLS 1 - KỸ NĂNG 1
 
 ### 📚 Vocabulary - Từ vựng
-- **fortunate** : (adj) may mắn /ˈfɔːtʃənət/
-- **peaceful** : (adj) yên bình /ˈpiːsfl/
-- **scenery** : (n) phong cảnh /ˈsiːnəri/
-- **picturesque** : (adj) đẹp như tranh /ˌpɪktʃəˈresk/
-- **vast** : (adj) rộng lớn /vɑːst/
-- **stretch** : (v) trải dài /stretʃ/
-- **distance** : (n) khoảng cách /ˈdɪstəns/
-- **surrounded** : (adj) được bao quanh /səˈraʊndɪd/
-- **canal** : (n) kênh /kəˈnæl/
-- **fresh** : (adj) trong lành /freʃ/
-- **cool** : (adj) mát mẻ /kuːl/
-- **cultivate** : (v) trồng trọt /ˈkʌltɪveɪt/
-- **raise cattle** : (v) chăn nuôi gia súc /reɪz ˈkætl/
-- **combine harvester** : (n) máy gặt đập liên hợp /ˈkɒmbaɪn ˈhɑːvɪstər/
-- **orchard** : (n) vườn cây ăn quả /ˈɔːtʃəd/
-- **comfortable** : (adj) thoải mái /ˈkʌmftəbl/
-- **herd** : (v) chăn /hɜːd/
+1. **fortunate** : (adj) may mắn /ˈfɔːtʃənət/
+2. **peaceful** : (adj) yên bình /ˈpiːsfl/
+3. **scenery** : (n) phong cảnh /ˈsiːnəri/
+4. **picturesque** : (adj) đẹp như tranh /ˌpɪktʃəˈresk/
+5. **vast** : (adj) rộng lớn /vɑːst/
+6. **stretch** : (v) trải dài /stretʃ/
+7. **distance** : (n) khoảng cách /ˈdɪstəns/
+8. **surrounded** : (adj) được bao quanh /səˈraʊndɪd/
+9. **canal** : (n) kênh /kəˈnæl/
+10. **fresh** : (adj) trong lành /freʃ/
+11. **cool** : (adj) mát mẻ /kuːl/
+12. **cultivate** : (v) trồng trọt /ˈkʌltɪveɪt/
+13. **raise cattle** : (v) chăn nuôi gia súc /reɪz ˈkætl/
+14. **combine harvester** : (n) máy gặt đập liên hợp /ˈkɒmbaɪn ˈhɑːvɪstər/
+15. **orchard** : (n) vườn cây ăn quả /ˈɔːtʃəd/
+16. **comfortable** : (adj) thoải mái /ˈkʌmftəbl/
+17. **herd** : (v) chăn /hɜːd/
 - **know each other well** : hiểu rõ nhau /nəʊ iːtʃ ˈʌðər wel/
-- **hospitable** : (adj) hiếu khách /ˈhɒspɪtəbl/
-- **folk songs** : (n) dân ca /fəʊk sɒŋz/
-- **chat** : (v) trò chuyện /tʃæt/
-- **everyday activities** : (n) hoạt động hàng ngày /ˈevri deɪ ækˈtɪvɪtiz/
+18. **hospitable** : (adj) hiếu khách /ˈhɒspɪtəbl/
+19. **folk songs** : (n) dân ca /fəʊk sɒŋz/
+20. **chat** : (v) trò chuyện /tʃæt/
+21. **everyday activities** : (n) hoạt động hàng ngày /ˈevri deɪ ækˈtɪvɪtiz/
 
 ### 📖 Reading - Đọc
 
@@ -440,26 +440,26 @@ I live in Duong Lam. It's an old village outside Ha Noi. It has ancient pagodas,
 ## SKILLS 2 - KỸ NĂNG 2
 
 ### 📚 Vocabulary - Từ vựng
-- **sense of community** : (n) ý thức cộng đồng /sens əv kəˈmjuːnəti/
-- **relationships** : (n) mối quan hệ /rɪˈleɪʃnʃɪps/
-- **welcome** : (v) chào đón /ˈwelkəm/
-- **neighbours** : (n) hàng xóm /ˈneɪbərz/
-- **willing** : (adj) sẵn lòng /ˈwɪlɪŋ/
-- **share** : (v) chia sẻ /ʃeər/
-- **boring** : (adj) buồn chán /ˈbɔːrɪŋ/
-- **entertainment** : (n) giải trí /ˌentəˈteɪnmənt/
-- **theatre** : (n) nhà hát /ˈθɪətər/
-- **cinema** : (n) rạp chiếu phim /ˈsɪnəmə/
-- **transportation** : (n) giao thông vận tải /ˌtrænspɔːˈteɪʃn/
-- **public transport** : (n) phương tiện công cộng /ˈpʌblɪk ˈtrænspɔːt/
-- **improve** : (v) cải thiện /ɪmˈpruːv/
-- **spacious** : (adj) rộng rãi /ˈspeɪʃəs/
-- **simple** : (adj) đơn giản /ˈsɪmpl/
-- **supportive** : (adj) hỗ trợ /səˈpɔːtɪv/
-- **unsociable** : (adj) không hòa đồng /ʌnˈsəʊʃəbl/
-- **cost of living** : (n) chi phí sinh hoạt /kɒst əv ˈlɪvɪŋ/
-- **prevent crime** : (v) ngăn chặn tội phạm /prɪˈvent kraɪm/
-- **protect nature** : (v) bảo vệ thiên nhiên /prəˈtekt ˈneɪtʃər/
+1. **sense of community** : (n) ý thức cộng đồng /sens əv kəˈmjuːnəti/
+2. **relationships** : (n) mối quan hệ /rɪˈleɪʃnʃɪps/
+3. **welcome** : (v) chào đón /ˈwelkəm/
+4. **neighbours** : (n) hàng xóm /ˈneɪbərz/
+5. **willing** : (adj) sẵn lòng /ˈwɪlɪŋ/
+6. **share** : (v) chia sẻ /ʃeər/
+7. **boring** : (adj) buồn chán /ˈbɔːrɪŋ/
+8. **entertainment** : (n) giải trí /ˌentəˈteɪnmənt/
+9. **theatre** : (n) nhà hát /ˈθɪətər/
+10. **cinema** : (n) rạp chiếu phim /ˈsɪnəmə/
+11. **transportation** : (n) giao thông vận tải /ˌtrænspɔːˈteɪʃn/
+12. **public transport** : (n) phương tiện công cộng /ˈpʌblɪk ˈtrænspɔːt/
+13. **improve** : (v) cải thiện /ɪmˈpruːv/
+14. **spacious** : (adj) rộng rãi /ˈspeɪʃəs/
+15. **simple** : (adj) đơn giản /ˈsɪmpl/
+16. **supportive** : (adj) hỗ trợ /səˈpɔːtɪv/
+17. **unsociable** : (adj) không hòa đồng /ʌnˈsəʊʃəbl/
+18. **cost of living** : (n) chi phí sinh hoạt /kɒst əv ˈlɪvɪŋ/
+19. **prevent crime** : (v) ngăn chặn tội phạm /prɪˈvent kraɪm/
+20. **protect nature** : (v) bảo vệ thiên nhiên /prəˈtekt ˈneɪtʃər/
 
 ### 👂 Listening - Nghe
 
@@ -536,42 +536,42 @@ I like living in the countryside because of some reasons. First, the air is fres
 ### 📚 Vocabulary Review - Ôn tập từ vựng
 
 **Additional vocabulary:**
-- **unload** : (v) dỡ /ʌnˈləʊd/
-- **milk** : (v) vắt sữa /mɪlk/
-- **catch** : (v) bắt /kætʃ/
-- **plough** : (v) cày /plaʊ/
-- **feed** : (v) cho ăn /fiːd/
-- **dry** : (v) phơi khô /draɪ/
-- **rice** : (n) gạo /raɪs/
-- **cow** : (n) bò /kaʊ/
-- **fish** : (n) cá /fɪʃ/
-- **field** : (n) cánh đồng /fiːld/
-- **pig** : (n) lợn /pɪɡ/
-- **early** : (adj) sớm /ˈɜːli/
-- **fluent** : (adj) trôi chảy /ˈfluːənt/
-- **easy** : (adj) dễ dàng /ˈiːzi/
-- **heavy** : (adj) nặng /ˈhevi/
-- **hard** : (adj) chăm chỉ /hɑːd/
-- **well** : (adv) tốt /wel/
-- **development** : (n) phát triển /dɪˈveləpmənt/
-- **city** : (n) thành phố /ˈsɪti/
-- **destroy** : (v) phá hủy /dɪˈstrɔɪ/
-- **area** : (n) khu vực /ˈeəriə/
-- **countryside** : (n) vùng nông thôn /ˈkʌntriˌsaɪd/
-- **vast** : (adj) rộng lớn /vɑːst/
-- **much** : (adv) nhiều /mʌtʃ/
-- **stretch** : (v) kéo dài /stretʃ/
-- **worker** : (n) công nhân /ˈwɜːkə/
-- **factory** : (n) nhà máy /ˈfæktəri/
-- **kind** : (adj) tốt bụng /kaɪnd/
-- **well-trained** : (adj) được đào tạo tốt /wel treɪnd/
-- **landscape** : (n) phong cảnh /ˈlændskeɪp/
-- **picturesque** : (adj) đẹp như tranh /ˌpɪktʃəˈresk/
-- **boring** : (adj) buồn chán /ˈbɔːrɪŋ/
-- **dull** : (adj) tẻ nhạt /dʌl/
-- **surround** : (v) bao quanh /səˈraʊnd/
-- **funny** : (adj) hài hước /ˈfʌni/
-- **generous** : (adj) hào phóng /ˈdʒenərəs/
+1. **unload** : (v) dỡ /ʌnˈləʊd/
+2. **milk** : (v) vắt sữa /mɪlk/
+3. **catch** : (v) bắt /kætʃ/
+4. **plough** : (v) cày /plaʊ/
+5. **feed** : (v) cho ăn /fiːd/
+6. **dry** : (v) phơi khô /draɪ/
+7. **rice** : (n) gạo /raɪs/
+8. **cow** : (n) bò /kaʊ/
+9. **fish** : (n) cá /fɪʃ/
+10. **field** : (n) cánh đồng /fiːld/
+11. **pig** : (n) lợn /pɪɡ/
+12. **early** : (adj) sớm /ˈɜːli/
+13. **fluent** : (adj) trôi chảy /ˈfluːənt/
+14. **easy** : (adj) dễ dàng /ˈiːzi/
+15. **heavy** : (adj) nặng /ˈhevi/
+16. **hard** : (adj) chăm chỉ /hɑːd/
+17. **well** : (adv) tốt /wel/
+18. **development** : (n) phát triển /dɪˈveləpmənt/
+19. **city** : (n) thành phố /ˈsɪti/
+20. **destroy** : (v) phá hủy /dɪˈstrɔɪ/
+21. **area** : (n) khu vực /ˈeəriə/
+22. **countryside** : (n) vùng nông thôn /ˈkʌntriˌsaɪd/
+23. **vast** : (adj) rộng lớn /vɑːst/
+24. **much** : (adv) nhiều /mʌtʃ/
+25. **stretch** : (v) kéo dài /stretʃ/
+26. **worker** : (n) công nhân /ˈwɜːkə/
+27. **factory** : (n) nhà máy /ˈfæktəri/
+28. **kind** : (adj) tốt bụng /kaɪnd/
+29. **well-trained** : (adj) được đào tạo tốt /wel treɪnd/
+30. **landscape** : (n) phong cảnh /ˈlændskeɪp/
+31. **picturesque** : (adj) đẹp như tranh /ˌpɪktʃəˈresk/
+32. **boring** : (adj) buồn chán /ˈbɔːrɪŋ/
+33. **dull** : (adj) tẻ nhạt /dʌl/
+34. **surround** : (v) bao quanh /səˈraʊnd/
+35. **funny** : (adj) hài hước /ˈfʌni/
+36. **generous** : (adj) hào phóng /ˈdʒenərəs/
 
 **Complete vocabulary list:**
 - **bamboo dancing** : múa sạp /ˈbæmbuː ˈdɑːnsɪŋ/

@@ -4,27 +4,27 @@
 
 **Vocabulary** 
 
-1. car company: công ty xe hơi /kɑː ˈkʌmpəni/  
-2. makes electric cars: sản xuất xe điện /meɪks ɪˈlektrɪk kɑːz/  
-3. introduce: (v) giới thiệu /ˌɪntrəˈdjuːs/  
-4. model: (n) mẫu, kiểu mẫu /ˈmɒdl/  
-5. the first model: mẫu đầu tiên /ðə fɜːst ˈmɒdl/  
-6. not very expensive: không quá đắt /nɒt ˈveri ɪkˈspensɪv/  
-7. four seats: bốn chỗ ngồi /fɔː siːts/  
-8. travel: (v) đi, di chuyển /ˈtrævl/  
-9. over 350 km per hour: trên 350 km mỗi giờ /ˈəʊvə θriː ˈhʌndrəd ænd ˈfɪfti ˌkɪˈlɒmɪtəz pɜːr ˈaʊə/  
-10. charge: (v) sạc /tʃɑːdʒ/  
-11. battery: (n) pin /ˈbætri/  
-12. gaming screen: màn hình chơi game /ˈɡeɪmɪŋ skriːn/  
-13. the largest and safest electric car: xe điện lớn nhất và an toàn nhất /ðə ˈlɑːdʒɪst ænd ˈseɪfɪst ɪˈlektrɪk kɑː/  
-14. carry seven passengers: chở bảy hành khách /ˈkæri ˈsevn ˈpæsɪndʒəz/  
-15. economical: (adj) tiết kiệm /ˌiːkəˈnɒmɪkl/  
-16. also: (adv) cũng /ˈɔːlsəʊ/  
-17. autopilot function: chức năng tự lái /ˈɔːtəʊpaɪlət ˈfʌŋkʃn/  
-18. driverless: (adj) không người lái /ˈdraɪvələs/  
-19. passenger: (n) hành khách /ˈpæsɪndʒə/  
-20. sleep: (v) ngủ /sliːp/  
-21. even: (adv) thậm chí, ngay cả /ˈiːvn/
+1. **car company** : công ty xe hơi /kɑː ˈkʌmpəni/
+2. **makes electric cars** : sản xuất xe điện /meɪks ɪˈlektrɪk kɑːz/
+3. **introduce** : (v) giới thiệu /ˌɪntrəˈdjuːs/
+4. **model** : (n) mẫu, kiểu mẫu /ˈmɒdl/
+5. **the first model** : mẫu đầu tiên /ðə fɜːst ˈmɒdl/
+6. **not very expensive** : không quá đắt /nɒt ˈveri ɪkˈspensɪv/
+7. **four seats** : bốn chỗ ngồi /fɔː siːts/
+8. **travel** : (v) đi, di chuyển /ˈtrævl/
+9. **over 350 km per hour** : trên 350 km mỗi giờ /ˈəʊvə θriː ˈhʌndrəd ænd ˈfɪfti ˌkɪˈlɒmɪtəz pɜːr ˈaʊə/
+10. **charge** : (v) sạc /tʃɑːdʒ/
+11. **battery** : (n) pin /ˈbætri/
+12. **gaming screen** : màn hình chơi game /ˈɡeɪmɪŋ skriːn/
+13. **the largest and safest electric car** : xe điện lớn nhất và an toàn nhất /ðə ˈlɑːdʒɪst ænd ˈseɪfɪst ɪˈlektrɪk kɑː/
+14. **carry seven passengers** : chở bảy hành khách /ˈkæri ˈsevn ˈpæsɪndʒəz/
+15. **economical** : (adj) tiết kiệm /ˌiːkəˈnɒmɪkl/
+16. **also** : (adv) cũng /ˈɔːlsəʊ/
+17. **autopilot function** : chức năng tự lái /ˈɔːtəʊpaɪlət ˈfʌŋkʃn/
+18. **driverless** : (adj) không người lái /ˈdraɪvələs/
+19. **passenger** : (n) hành khách /ˈpæsɪndʒə/
+20. **sleep** : (v) ngủ /sliːp/
+21. **even** : (adv) thậm chí, ngay cả /ˈiːvn/
 
 Roadrunner là một công ty sản xuất ô tô điện. Công ty đã giới thiệu mô hình đầu tiên vào năm 2015 và họ đặt tên cho nó là Speed (Tốc độ). Speed sớm thành công. Speed an toàn, nhanh chóng, thoải mái và không tốn kém nhiều. Nó có bốn chỗ ngồi. Xe có thể di chuyển trên 350 km /h. Bạn chỉ phải sạc pin sau mỗi 700 km. Nó thậm chí còn có một màn hình chơi game bên trong xe.
 

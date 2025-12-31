@@ -51,11 +51,11 @@
 
 #### Lời giải chi tiết:
 1. experiment (thí nghiệm)
-2. device (n): thiết bị
-3. laboratory (n): phòng thí nghiệm
-4. hardware (n): phần cứng
-5. software (n): phần mềm
-6. equipment (n): trang thiết bị
+2. **device (n)** : thiết bị
+3. **laboratory (n)** : phòng thí nghiệm
+4. **hardware (n)** : phần cứng
+5. **software (n)** : phần mềm
+6. **equipment (n)** : trang thiết bị
 
 ## Grammar
 

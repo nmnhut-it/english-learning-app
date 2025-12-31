@@ -4,20 +4,20 @@
 **Reading**   
 **Vocabulary** 
 
-1. future house: ngôi nhà trong tương lai /ˈfjuːtʃə haʊs/  
-2. on an island: trên một hòn đảo /ɒn ən ˈaɪlənd/  
-3. be surrounded by: được bao quanh bởi /bi səˈraʊndɪd baɪ/  
-4. tall trees: cây cao /tɔːl triːz/  
-5. blue sea: biển xanh /bluː siː/  
-6. a swimming pool: hồ bơi /ə ˈswɪmɪŋ puːl/  
-7. in front of: phía trước /ɪn frʌnt ɒv/  
-8. helicopter: (n) máy bay trực thăng /ˈhelɪkɒptə/  
-9. on the roof: trên mái nhà /ɒn ðə ruːf/  
-10. feed the dogs and cats: cho chó và mèo ăn /fiːd ðə dɒgz ənd kæts/  
-11. send and receive emails: gửi và nhận email /send ənd rɪˈsiːv ˈiːmeɪlz/  
-12. contact my friends: liên lạc với bạn bè của tôi /ˈkɒntækt maɪ frendz/  
-13. on other planets: trên các hành tinh khác /ɒn ˈʌðə ˈplænɪts/  
-14. buy food: mua thức ăn /baɪ fuːd/
+1. **future house** : ngôi nhà trong tương lai /ˈfjuːtʃə haʊs/
+2. **on an island** : trên một hòn đảo /ɒn ən ˈaɪlənd/
+3. **be surrounded by** : được bao quanh bởi /bi səˈraʊndɪd baɪ/
+4. **tall trees** : cây cao /tɔːl triːz/
+5. **blue sea** : biển xanh /bluː siː/
+6. **a swimming pool** : hồ bơi /ə ˈswɪmɪŋ puːl/
+7. **in front of** : phía trước /ɪn frʌnt ɒv/
+8. **helicopter** : (n) máy bay trực thăng /ˈhelɪkɒptə/
+9. **on the roof** : trên mái nhà /ɒn ðə ruːf/
+10. **feed the dogs and cats** : cho chó và mèo ăn /fiːd ðə dɒgz ənd kæts/
+11. **send and receive emails** : gửi và nhận email /send ənd rɪˈsiːv ˈiːmeɪlz/
+12. **contact my friends** : liên lạc với bạn bè của tôi /ˈkɒntækt maɪ frendz/
+13. **on other planets** : trên các hành tinh khác /ɒn ˈʌðə ˈplænɪts/
+14. **buy food** : mua thức ăn /baɪ fuːd/
 
 Ngôi nhà tương lai của tôi sẽ ở trên một hòn đảo. Nó sẽ được bao quanh bởi những cây cao và biển xanh. Trước nhà sẽ có bể bơi. Sẽ có một chiếc trực thăng trên mái nhà. Tôi có thể bay đến trường trong đó.  
 Sẽ có một số robot trong nhà. Họ sẽ giúp tôi lau sàn nhà, nấu ăn, giặt quần áo và tưới hoa. Họ cũng sẽ giúp tôi cho chó và mèo ăn.  

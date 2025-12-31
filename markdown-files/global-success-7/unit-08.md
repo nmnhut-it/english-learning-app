@@ -3,27 +3,27 @@
 ## GETTING STARTED - BẮT ĐẦU
 
 ### 📚 Vocabulary - Từ vựng
-- **cinema** : (n) rạp chiếu phim /ˈsɪnəmə/
+1. **cinema** : (n) rạp chiếu phim /ˈsɪnəmə/
 - **good idea** : ý kiến hay /gʊd aɪˈdɪə/
 - **A Nightmare** : cơn ác mộng /ə ˈnaɪtmeə/
-- **fantasy** : (n) phim giả tưởng /ˈfæntəsi/
+2. **fantasy** : (n) phim giả tưởng /ˈfæntəsi/
 - **horror film** : phim kinh dị /ˈhɒrə fɪlm/
-- **scary** : (adj) đáng sợ /ˈskeəri/
-- **documentary** : (n) phim tài liệu /ˌdɒkjuˈmentəri/
-- **boring** : (adj) chán, nhàm chán /ˈbɔːrɪŋ/
+3. **scary** : (adj) đáng sợ /ˈskeəri/
+4. **documentary** : (n) phim tài liệu /ˌdɒkjuˈmentəri/
+5. **boring** : (adj) chán, nhàm chán /ˈbɔːrɪŋ/
 - **what about?** : còn về...thì sao? /wɒt əˈbaʊt/
 - **kind of film** : thể loại phim /kaɪnd əv fɪlm/
-- **comedy** : (n) phim hài /ˈkɒmədi/
-- **star** : (v) đóng vai chính /stɑː/
-- **woman - women** : (n) phụ nữ (số ít - số nhiều) /ˈwʊmən - ˈwɪmɪn/
+6. **comedy** : (n) phim hài /ˈkɒmədi/
+7. **star** : (v) đóng vai chính /stɑː/
+8. **woman - women** : (n) phụ nữ (số ít - số nhiều) /ˈwʊmən - ˈwɪmɪn/
 - **different countries** : các quốc gia khác nhau /ˈdɪfrənt ˈkʌntriz/
 - **decide to V0** : quyết định làm gì /dɪˈsaɪd tuː/
 - **exchange house** : trao đổi nhà /ɪksˈtʃeɪndʒ haʊs/
-- **review** : (n) bài đánh giá /rɪˈvjuː/
+9. **review** : (n) bài đánh giá /rɪˈvjuː/
 - **a bit silly** : hơi ngớ ngẩn /ə bɪt ˈsɪli/
-- **most** : (n) hầu hết /məʊst/
-- **interesting** : (adj) thú vị /ˈɪntrəstɪŋ/
-- **funny** : (adj) hài hước /ˈfʌni/
+10. **most** : (n) hầu hết /məʊst/
+11. **interesting** : (adj) thú vị /ˈɪntrəstɪŋ/
+12. **funny** : (adj) hài hước /ˈfʌni/
 - **although** : mặc dù /ɔːlˈðəʊ/
 
 ### 💬 Content - Nội dung
@@ -138,17 +138,17 @@ B: I think they're boring.
 ## A CLOSER LOOK 1 - TÌM HIỂU THÊM 1
 
 ### 📚 Vocabulary - Từ vựng
-- **dull** : (adj) buồn tẻ /dʌl/
-- **violent** : (adj) bạo lực /ˈvaɪələnt/
-- **confusing** : (adj) gây nhầm lẫn /kənˈfjuːzɪŋ/
-- **shocking** : (adj) gây sốc /ˈʃɒkɪŋ/
-- **enjoyable** : (adj) thú vị, đáng thưởng thức /ɪnˈdʒɔɪəbl/
+1. **dull** : (adj) buồn tẻ /dʌl/
+2. **violent** : (adj) bạo lực /ˈvaɪələnt/
+3. **confusing** : (adj) gây nhầm lẫn /kənˈfjuːzɪŋ/
+4. **shocking** : (adj) gây sốc /ˈʃɒkɪŋ/
+5. **enjoyable** : (adj) thú vị, đáng thưởng thức /ɪnˈdʒɔɪəbl/
 - **difficult to understand** : khó hiểu /ˈdɪfɪkəlt tə ˌʌndəˈstænd/
-- **clear** : (adj) rõ ràng /klɪə/
-- **exciting** : (adj) thú vị, hào hứng /ɪkˈsaɪtɪŋ/
+6. **clear** : (adj) rõ ràng /klɪə/
+7. **exciting** : (adj) thú vị, hào hứng /ɪkˈsaɪtɪŋ/
 - **giving pleasure** : mang lại niềm vui /ˈgɪvɪŋ ˈpleʒə/
-- **surprising** : (adj) gây ngạc nhiên /səˈpraɪzɪŋ/
-- **believe** : (v) tin tưởng /bɪˈliːv/
+8. **surprising** : (adj) gây ngạc nhiên /səˈpraɪzɪŋ/
+9. **believe** : (v) tin tưởng /bɪˈliːv/
 
 ### 🗣️ Pronunciation - Phát âm
 Focus sounds: /tʃ/ and /dʒ/
@@ -224,9 +224,9 @@ B: It's interesting/boring/dull/funny...
 ## A CLOSER LOOK 2 - TÌM HIỂU THÊM 2
 
 ### 📚 Vocabulary - Từ vựng
-- **however** : (adv) tuy nhiên /haʊˈevə/
-- **although/though** : (conj) mặc dù /ɔːlˈðəʊ/ /ðəʊ/
-- **despite** : (prep) mặc dù /dɪˈspaɪt/
+1. **however** : (adv) tuy nhiên /haʊˈevə/
+2. **although/though** : (conj) mặc dù /ɔːlˈðəʊ/ /ðəʊ/
+3. **despite** : (prep) mặc dù /dɪˈspaɪt/
 
 ### 📖 Grammar - Ngữ pháp
 
@@ -317,10 +317,10 @@ Examples:
 - **I'd love to, but** : Tôi muốn nhưng mà... /aɪd lʌv tuː bʌt/
 - **Do you feel like + V-ing?** : Bạn có thích/có nhã hứng...? /duː juː fiːl laɪk/
 - **Let's + V** : Chúng ta... đi! /lets/
-- **disappointed** : (adj) thất vọng /ˌdɪsəˈpɔɪntɪd/
-- **disappointment** : (n) sự thất vọng /ˌdɪsəˈpɔɪntmənt/
-- **decoration** : (n) đồ trang trí /ˌdekəˈreɪʃən/
-- **symbol** : (n) biểu tượng /ˈsɪmbəl/
+1. **disappointed** : (adj) thất vọng /ˌdɪsəˈpɔɪntɪd/
+2. **disappointment** : (n) sự thất vọng /ˌdɪsəˈpɔɪntmənt/
+3. **decoration** : (n) đồ trang trí /ˌdekəˈreɪʃən/
+4. **symbol** : (n) biểu tượng /ˈsɪmbəl/
 
 ### 🗣️ Activities - Hoạt động
 
@@ -371,20 +371,20 @@ A: That sounds disheartening!
 
 ### 📚 Vocabulary - Từ vựng
 - **Harry Potter and the Sorcerer's Stone** : Harry Potter và Hòn đá phù thủy /ˈhæri ˈpɒtər ænd ðə ˈsɔːsərəz stəʊn/
-- **director** : (n) đạo diễn /dɪˈrektə/
-- **film series** : (n) loạt phim /fɪlm ˈsɪəriːz/
+1. **director** : (n) đạo diễn /dɪˈrektə/
+2. **film series** : (n) loạt phim /fɪlm ˈsɪəriːz/
 - **tell the story of** : kể câu chuyện về /tel ðə ˈstɔːri əv/
-- **powerful wizard** : (n) phù thủy quyền năng /ˈpaʊəfəl ˈwɪzəd/
+3. **powerful wizard** : (n) phù thủy quyền năng /ˈpaʊəfəl ˈwɪzəd/
 - **learn about oneself** : tìm hiểu về bản thân /lɜːn əˈbaʊt wʌnˈself/
 - **bad things happening** : những điều xấu xảy ra /bæd θɪŋz ˈhæpənɪŋ/
-- **must-see** : (adj) phải xem /mʌst siː/
-- **gripping** : (adj) lôi cuốn /ˈɡrɪpɪŋ/
-- **agree** : (v) đồng ý /əˈɡriː/
+4. **must-see** : (adj) phải xem /mʌst siː/
+5. **gripping** : (adj) lôi cuốn /ˈɡrɪpɪŋ/
+6. **agree** : (v) đồng ý /əˈɡriː/
 - **receive good reviews** : nhận được đánh giá tốt /rɪˈsiːv gʊd rɪˈvjuːz/
-- **acting** : (n) diễn xuất /ˈæktɪŋ/
-- **excellent** : (adj) xuất sắc /ˈeksələnt/
+7. **acting** : (n) diễn xuất /ˈæktɪŋ/
+8. **excellent** : (adj) xuất sắc /ˈeksələnt/
 - **at times** : đôi khi /æt taɪmz/
-- **frightening** : (adj) đáng sợ /ˈfraɪtənɪŋ/
+9. **frightening** : (adj) đáng sợ /ˈfraɪtənɪŋ/
 - **full of action** : đầy hành động /fʊl əv ˈækʃən/
 
 ### 📖 Reading - Đọc
@@ -486,16 +486,16 @@ Example: Kungfu Boy is on at Ngoc Khanh Cinema at 4.30 p.m. It's a comedy about 
 
 ### 📚 Vocabulary - Từ vựng
 - **Naughty Twins** : Cặp sinh đôi nghịch ngợm /ˈnɔːti twɪnz/
-- **director** : (n) đạo diễn /dəˈrektə/
-- **star** : (v) đóng chính /stɑː/
-- **well-known** : (adj) nổi tiếng /ˌwel ˈnəʊn/
-- **actress** : (n) nữ diễn viên /ˈæktrəs/
+1. **director** : (n) đạo diễn /dəˈrektə/
+2. **star** : (v) đóng chính /stɑː/
+3. **well-known** : (adj) nổi tiếng /ˌwel ˈnəʊn/
+4. **actress** : (n) nữ diễn viên /ˈæktrəs/
 - **grow up together** : lớn lên cùng nhau /ˌgrəʊ ʌp təˈgeðə/
-- **marriage** : (n) hôn nhân /ˈmærɪdʒ/
-- **happen** : (v) xảy ra /ˈhæpən/
+5. **marriage** : (n) hôn nhân /ˈmærɪdʒ/
+6. **happen** : (v) xảy ra /ˈhæpən/
 - **receive good reviews** : nhận được đánh giá tốt /rɪˌsiːv gʊd rɪˈvjuːz/
-- **moving** : (adj) cảm động /ˈmuːvɪŋ/
-- **summer camp** : (n) trại hè /ˈsʌmə kæmp/
+7. **moving** : (adj) cảm động /ˈmuːvɪŋ/
+8. **summer camp** : (n) trại hè /ˈsʌmə kæmp/
 - **make a plan** : lập kế hoạch /meɪk ə plæn/
 - **bring back together** : đưa trở lại với nhau /brɪŋ bæk təˈgeðə/
 
@@ -644,11 +644,11 @@ e. A film that features cartoon characters.
 [comedy, documentary, fantasy, horror film, science fiction film]
 
 **Sample answers:**
-1. comedy: Mr. Bean
-2. documentary: Điện Biên Phủ
-3. fantasy: Harry Potter
-4. horror film: Ma Da
-5. science fiction film: Star Wars
+1. **comedy** : Mr. Bean
+2. **documentary** : Điện Biên Phủ
+3. **fantasy** : Harry Potter
+4. **horror film** : Ma Da
+5. **science fiction film** : Star Wars
 
 **Bài 3:** Choose the correct answer A, B, or C to complete each sentence.
 (Chọn đáp án đúng A, B, hoặc C để hoàn thành mỗi câu)

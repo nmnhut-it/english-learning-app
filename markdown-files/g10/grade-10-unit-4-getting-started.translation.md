@@ -34,191 +34,191 @@ Tam: No problem. Good luck. Hope your application is successful and you enjoy th
 <summary>📝 Word-by-Word Analysis</summary>
 
 ```
-1. Hi: (interjection) Chào /haɪ/
-2. Tam: (noun) Tên riêng (Tâm) /tæm/
-3. I: (pronoun) Tôi /aɪ/
-4. went: (verb) đã đi /went/
-5. to: (preposition) đến /tuː/
-6. your: (pronoun) của bạn /jɔːr/
-7. house: (noun) nhà /haʊs/
-8. at: (preposition) vào /æt/
-9. 9: (number) chín /naɪn/
-10. am: (verb) giờ sáng /eɪ em/
-11. but: (conjunction) nhưng /bʌt/
-12. you: (pronoun) bạn /juː/
-13. weren't: (verb) đã không ở đó /ˈwɜːrənt/
-14. there: (adverb) ở đó /ðeər/
-15. Oh: (interjection) Ồ /əʊ/
-16. when: (conjunction) khi /wen/
-17. you: (pronoun) bạn /juː/
-18. came: (verb) đã đến /keɪm/
-19. I: (pronoun) tôi /aɪ/
-20. was: (verb) đã /wɒz/
-21. working: (verb) đang làm việc /ˈwɜːrkɪŋ/
-22. as: (preposition) như /æz/
-23. a: (article) một /ə/
-24. volunteer: (noun) tình nguyện viên /ˌvɒlənˈtɪər/
-25. at: (preposition) tại /æt/
-26. our: (pronoun) của chúng ta /ˈaʊər/
-27. local: (adjective) địa phương /ˈləʊkəl/
-28. centre: (noun) trung tâm /ˈsentər/
-29. for: (preposition) cho /fɔːr/
-30. community: (noun) cộng đồng /kəˈmjuːnəti/
-31. development: (noun) phát triển /dɪˈveləpmənt/
-32. Ah: (interjection) À /ɑː/
-33. I: (pronoun) tôi /aɪ/
-34. see: (verb) hiểu /siː/
-35. How: (adverb) Làm thế nào /haʊ/
-36. did: (verb) đã /dɪd/
-37. you: (pronoun) bạn /juː/
-38. become: (verb) trở thành /bɪˈkʌm/
-39. a: (article) một /ə/
-40. volunteer: (noun) tình nguyện viên /ˌvɒlənˈtɪər/
-41. there: (adverb) ở đó /ðeər/
-42. Just: (adverb) Chỉ /dʒʌst/
-43. by: (preposition) bởi /baɪ/
-44. chance: (noun) tình cờ /tʃæns/
-45. Last: (adjective) Mùa hè trước /læst/
-46. summer: (noun) mùa hè /ˈsʌmər/
-47. while: (conjunction) trong khi /waɪl/
-48. I: (pronoun) tôi /aɪ/
-49. was: (verb) đã /wɒz/
-50. visiting: (verb) thăm /ˈvɪzɪtɪŋ/
-51. the: (article) /ðə/
-52. centre: (noun) trung tâm /ˈsentər/
-53. I: (pronoun) tôi /aɪ/
-54. saw: (verb) đã thấy /sɔː/
-55. an: (article) một /æn/
-56. advertisement: (noun) quảng cáo /ədˈvɜːrtɪsmənt/
-57. for: (preposition) cho /fɔːr/
-58. volunteers: (noun) tình nguyện viên /ˌvɒlənˈtɪərz/
-59. I: (pronoun) tôi /aɪ/
-60. applied: (verb) đã nộp đơn /əˈplaɪd/
-61. and: (conjunction) và /ænd/
-62. my: (pronoun) của tôi /maɪ/
-63. application: (noun) đơn /ˌæplɪˈkeɪʃn/
-64. was: (verb) đã /wɒz/
-65. successful: (adjective) thành công /səkˈsesfəl/
-66. I: (pronoun) tôi /aɪ/
-67. also: (adverb) cũng /ˈɔːlsoʊ/
-68. want: (verb) muốn /wɒnt/
-69. to: (preposition) để /tuː/
-70. be: (verb) là /biː/
-71. a: (article) một /ə/
-72. volunteer: (noun) tình nguyện viên /ˌvɒlənˈtɪər/
-73. I: (pronoun) tôi /aɪ/
-74. find: (verb) thấy /faɪnd/
-75. community: (noun) cộng đồng /kəˈmjuːnəti/
-76. work: (noun) công việc /wɜːrk/
-77. very: (adverb) rất /ˈveri/
-78. interesting: (adjective) thú vị /ˈɪntrəstɪŋ/
-79. I: (pronoun) tôi /aɪ/
-80. agree: (verb) đồng ý /əˈɡriː/
-81. Community: (noun) Cộng đồng /kəˈmjuːnəti/
-82. service: (noun) dịch vụ /ˈsɜːrvɪs/
-83. not: (adverb) không /nɒt/
-84. only: (adverb) chỉ /ˈəʊnli/
-85. benefits: (verb) mang lại lợi ích /ˈbenɪfɪts/
-86. the: (article) /ðə/
-87. local: (adjective) địa phương /ˈləʊkəl/
-88. area: (noun) khu vực /ˈeəriə/
-89. but: (conjunction) nhưng /bʌt/
-90. can: (verb) có thể /kæn/
-91. also: (adverb) cũng /ˈɔːlsoʊ/
-92. boost: (verb) tăng cường /buːst/
-93. our: (pronoun) của chúng ta /ˈaʊər/
-94. confidence: (noun) sự tự tin /ˈkɒnfɪdəns/
-95. and: (conjunction) và /ænd/
-96. help: (verb) giúp /help/
-97. us: (pronoun) chúng ta /ʌs/
-98. learn: (verb) học /lɜːrn/
-99. many: (adjective) nhiều /ˈmeni/
-100. useful: (adjective) hữu ích /ˈjuːsfəl/
-101. skills: (noun) kỹ năng /skɪlz/
-102. What: (pronoun) Cái gì /wɒt/
-103. are: (verb) là /ɑːr/
-104. the: (article) /ðə/
-105. regular: (adjective) thường xuyên /ˈreɡjələr/
-106. activities: (noun) hoạt động /ækˈtɪvətiz/
-107. organised: (verb) được tổ chức /ˈɔːrɡənaɪzd/
-108. by: (preposition) bởi /baɪ/
-109. the: (article) /ðə/
-110. centre: (noun) trung tâm /ˈsentər/
-111. Oh: (interjection) Ồ /əʊ/
-112. there: (adverb) có /ðeər/
-113. are: (verb) là /ɑːr/
-114. endless: (adjective) vô tận /ˈendləs/
-115. opportunities: (noun) cơ hội /ˌɒpərˈtjuːnətiz/
-116. for: (preposition) cho /fɔːr/
-117. getting: (verb) tham gia /ˈɡetɪŋ/
-118. involved: (verb) liên quan /ɪnˈvɒlvd/
-119. For: (preposition) Ví dụ /fɔːr/
-120. example: (noun) ví dụ /ɪɡˈzæmpəl/
-121. you: (pronoun) bạn /juː/
-122. can: (verb) có thể /kæn/
-123. join: (verb) tham gia /dʒɔɪn/
-124. a: (article) một /ə/
-125. local: (adjective) địa phương /ˈləʊkəl/
-126. environmental: (adjective) môi trường /ɪnˌvaɪrənˈmentəl/
-127. group: (noun) nhóm /ɡruːp/
-128. to: (preposition) để /tuː/
-129. clean: (verb) dọn dẹp /kliːn/
-130. up: (adverb) lên /ʌp/
-131. the: (article) /ðə/
-132. park: (noun) công viên /pɑːrk/
-133. once: (adverb) một lần /wʌns/
-134. a: (article) một /ə/
-135. week: (noun) tuần /wiːk/
-136. or: (conjunction) hoặc /ɔːr/
-137. volunteer: (verb) tình nguyện /ˌvɒlənˈtɪər/
-138. at: (preposition) tại /æt/
-139. an: (article) một /æn/
-140. orphanage: (noun) trại trẻ mồ côi /ˈɔːrfənɪdʒ/
-141. Sounds: (verb) Nghe /saʊndz/
-142. good: (adjective) tốt /ɡʊd/
-143. How: (adverb) Làm thế nào /haʊ/
-144. can: (verb) có thể /kæn/
-145. I: (pronoun) tôi /aɪ/
-146. apply: (verb) nộp đơn /əˈplaɪ/
-147. I'll: (verb) tôi sẽ /aɪl/
-148. email: (verb) gửi email /ˈiːmeɪl/
-149. you: (pronoun) bạn /juː/
-150. the: (article) /ðə/
-151. form: (noun) mẫu đơn /fɔːrm/
-152. You: (pronoun) Bạn /juː/
-153. just: (adverb) chỉ /dʒʌst/
-154. fill: (verb) điền /fɪl/
-155. it: (pronoun) nó /ɪt/
-156. in: (adverb) vào /ɪn/
-157. and: (conjunction) và /ænd/
-158. send: (verb) gửi /send/
-159. it: (pronoun) nó /ɪt/
-160. in: (adverb) vào /ɪn/
-161. Thanks: (noun) Cảm ơn /θæŋks/
-162. so: (adverb) rất /səʊ/
-163. much: (adverb) nhiều /mʌtʃ/
-164. I'm: (pronoun) tôi là /aɪm/
-165. so: (adverb) rất /səʊ/
-166. excited: (adjective) hào hứng /ɪkˈsaɪtɪd/
-167. about: (preposition) về /əˈbaʊt/
-168. volunteering: (verb) tình nguyện /ˌvɒlənˈtɪərɪŋ/
-169. at: (preposition) tại /æt/
-170. the: (article) /ðə/
-171. centre: (noun) trung tâm /ˈsentər/
-172. No: (adjective) Không /nəʊ/
-173. problem: (noun) vấn đề /ˈprɒbləm/
-174. Good: (adjective) Tốt /ɡʊd/
-175. luck: (noun) may mắn /lʌk/
-176. Hope: (verb) Hy vọng /həʊp/
-177. your: (pronoun) của bạn /jɔːr/
-178. application: (noun) đơn /ˌæplɪˈkeɪʃn/
-179. is: (verb) là /ɪz/
-180. successful: (adjective) thành công /səkˈsesfəl/
-181. and: (conjunction) và /ænd/
-182. you: (pronoun) bạn /juː/
-183. enjoy: (verb) thích /ɪnˈdʒɔɪ/
-184. the: (article) /ðə/
-185. work: (noun) công việc /wɜːrk/
+1. **Hi** : (interjection) Chào /haɪ/
+2. **Tam** : (noun) Tên riêng (Tâm) /tæm/
+3. **I** : (pronoun) Tôi /aɪ/
+4. **went** : (verb) đã đi /went/
+5. **to** : (preposition) đến /tuː/
+6. **your** : (pronoun) của bạn /jɔːr/
+7. **house** : (noun) nhà /haʊs/
+8. **at** : (preposition) vào /æt/
+9. **9** : (number) chín /naɪn/
+10. **am** : (verb) giờ sáng /eɪ em/
+11. **but** : (conjunction) nhưng /bʌt/
+12. **you** : (pronoun) bạn /juː/
+13. **weren't** : (verb) đã không ở đó /ˈwɜːrənt/
+14. **there** : (adverb) ở đó /ðeər/
+15. **Oh** : (interjection) Ồ /əʊ/
+16. **when** : (conjunction) khi /wen/
+17. **you** : (pronoun) bạn /juː/
+18. **came** : (verb) đã đến /keɪm/
+19. **I** : (pronoun) tôi /aɪ/
+20. **was** : (verb) đã /wɒz/
+21. **working** : (verb) đang làm việc /ˈwɜːrkɪŋ/
+22. **as** : (preposition) như /æz/
+23. **a** : (article) một /ə/
+24. **volunteer** : (noun) tình nguyện viên /ˌvɒlənˈtɪər/
+25. **at** : (preposition) tại /æt/
+26. **our** : (pronoun) của chúng ta /ˈaʊər/
+27. **local** : (adjective) địa phương /ˈləʊkəl/
+28. **centre** : (noun) trung tâm /ˈsentər/
+29. **for** : (preposition) cho /fɔːr/
+30. **community** : (noun) cộng đồng /kəˈmjuːnəti/
+31. **development** : (noun) phát triển /dɪˈveləpmənt/
+32. **Ah** : (interjection) À /ɑː/
+33. **I** : (pronoun) tôi /aɪ/
+34. **see** : (verb) hiểu /siː/
+35. **How** : (adverb) Làm thế nào /haʊ/
+36. **did** : (verb) đã /dɪd/
+37. **you** : (pronoun) bạn /juː/
+38. **become** : (verb) trở thành /bɪˈkʌm/
+39. **a** : (article) một /ə/
+40. **volunteer** : (noun) tình nguyện viên /ˌvɒlənˈtɪər/
+41. **there** : (adverb) ở đó /ðeər/
+42. **Just** : (adverb) Chỉ /dʒʌst/
+43. **by** : (preposition) bởi /baɪ/
+44. **chance** : (noun) tình cờ /tʃæns/
+45. **Last** : (adjective) Mùa hè trước /læst/
+46. **summer** : (noun) mùa hè /ˈsʌmər/
+47. **while** : (conjunction) trong khi /waɪl/
+48. **I** : (pronoun) tôi /aɪ/
+49. **was** : (verb) đã /wɒz/
+50. **visiting** : (verb) thăm /ˈvɪzɪtɪŋ/
+51. **the** : (article) /ðə/
+52. **centre** : (noun) trung tâm /ˈsentər/
+53. **I** : (pronoun) tôi /aɪ/
+54. **saw** : (verb) đã thấy /sɔː/
+55. **an** : (article) một /æn/
+56. **advertisement** : (noun) quảng cáo /ədˈvɜːrtɪsmənt/
+57. **for** : (preposition) cho /fɔːr/
+58. **volunteers** : (noun) tình nguyện viên /ˌvɒlənˈtɪərz/
+59. **I** : (pronoun) tôi /aɪ/
+60. **applied** : (verb) đã nộp đơn /əˈplaɪd/
+61. **and** : (conjunction) và /ænd/
+62. **my** : (pronoun) của tôi /maɪ/
+63. **application** : (noun) đơn /ˌæplɪˈkeɪʃn/
+64. **was** : (verb) đã /wɒz/
+65. **successful** : (adjective) thành công /səkˈsesfəl/
+66. **I** : (pronoun) tôi /aɪ/
+67. **also** : (adverb) cũng /ˈɔːlsoʊ/
+68. **want** : (verb) muốn /wɒnt/
+69. **to** : (preposition) để /tuː/
+70. **be** : (verb) là /biː/
+71. **a** : (article) một /ə/
+72. **volunteer** : (noun) tình nguyện viên /ˌvɒlənˈtɪər/
+73. **I** : (pronoun) tôi /aɪ/
+74. **find** : (verb) thấy /faɪnd/
+75. **community** : (noun) cộng đồng /kəˈmjuːnəti/
+76. **work** : (noun) công việc /wɜːrk/
+77. **very** : (adverb) rất /ˈveri/
+78. **interesting** : (adjective) thú vị /ˈɪntrəstɪŋ/
+79. **I** : (pronoun) tôi /aɪ/
+80. **agree** : (verb) đồng ý /əˈɡriː/
+81. **Community** : (noun) Cộng đồng /kəˈmjuːnəti/
+82. **service** : (noun) dịch vụ /ˈsɜːrvɪs/
+83. **not** : (adverb) không /nɒt/
+84. **only** : (adverb) chỉ /ˈəʊnli/
+85. **benefits** : (verb) mang lại lợi ích /ˈbenɪfɪts/
+86. **the** : (article) /ðə/
+87. **local** : (adjective) địa phương /ˈləʊkəl/
+88. **area** : (noun) khu vực /ˈeəriə/
+89. **but** : (conjunction) nhưng /bʌt/
+90. **can** : (verb) có thể /kæn/
+91. **also** : (adverb) cũng /ˈɔːlsoʊ/
+92. **boost** : (verb) tăng cường /buːst/
+93. **our** : (pronoun) của chúng ta /ˈaʊər/
+94. **confidence** : (noun) sự tự tin /ˈkɒnfɪdəns/
+95. **and** : (conjunction) và /ænd/
+96. **help** : (verb) giúp /help/
+97. **us** : (pronoun) chúng ta /ʌs/
+98. **learn** : (verb) học /lɜːrn/
+99. **many** : (adjective) nhiều /ˈmeni/
+100. **useful** : (adjective) hữu ích /ˈjuːsfəl/
+101. **skills** : (noun) kỹ năng /skɪlz/
+102. **What** : (pronoun) Cái gì /wɒt/
+103. **are** : (verb) là /ɑːr/
+104. **the** : (article) /ðə/
+105. **regular** : (adjective) thường xuyên /ˈreɡjələr/
+106. **activities** : (noun) hoạt động /ækˈtɪvətiz/
+107. **organised** : (verb) được tổ chức /ˈɔːrɡənaɪzd/
+108. **by** : (preposition) bởi /baɪ/
+109. **the** : (article) /ðə/
+110. **centre** : (noun) trung tâm /ˈsentər/
+111. **Oh** : (interjection) Ồ /əʊ/
+112. **there** : (adverb) có /ðeər/
+113. **are** : (verb) là /ɑːr/
+114. **endless** : (adjective) vô tận /ˈendləs/
+115. **opportunities** : (noun) cơ hội /ˌɒpərˈtjuːnətiz/
+116. **for** : (preposition) cho /fɔːr/
+117. **getting** : (verb) tham gia /ˈɡetɪŋ/
+118. **involved** : (verb) liên quan /ɪnˈvɒlvd/
+119. **For** : (preposition) Ví dụ /fɔːr/
+120. **example** : (noun) ví dụ /ɪɡˈzæmpəl/
+121. **you** : (pronoun) bạn /juː/
+122. **can** : (verb) có thể /kæn/
+123. **join** : (verb) tham gia /dʒɔɪn/
+124. **a** : (article) một /ə/
+125. **local** : (adjective) địa phương /ˈləʊkəl/
+126. **environmental** : (adjective) môi trường /ɪnˌvaɪrənˈmentəl/
+127. **group** : (noun) nhóm /ɡruːp/
+128. **to** : (preposition) để /tuː/
+129. **clean** : (verb) dọn dẹp /kliːn/
+130. **up** : (adverb) lên /ʌp/
+131. **the** : (article) /ðə/
+132. **park** : (noun) công viên /pɑːrk/
+133. **once** : (adverb) một lần /wʌns/
+134. **a** : (article) một /ə/
+135. **week** : (noun) tuần /wiːk/
+136. **or** : (conjunction) hoặc /ɔːr/
+137. **volunteer** : (verb) tình nguyện /ˌvɒlənˈtɪər/
+138. **at** : (preposition) tại /æt/
+139. **an** : (article) một /æn/
+140. **orphanage** : (noun) trại trẻ mồ côi /ˈɔːrfənɪdʒ/
+141. **Sounds** : (verb) Nghe /saʊndz/
+142. **good** : (adjective) tốt /ɡʊd/
+143. **How** : (adverb) Làm thế nào /haʊ/
+144. **can** : (verb) có thể /kæn/
+145. **I** : (pronoun) tôi /aɪ/
+146. **apply** : (verb) nộp đơn /əˈplaɪ/
+147. **I'll** : (verb) tôi sẽ /aɪl/
+148. **email** : (verb) gửi email /ˈiːmeɪl/
+149. **you** : (pronoun) bạn /juː/
+150. **the** : (article) /ðə/
+151. **form** : (noun) mẫu đơn /fɔːrm/
+152. **You** : (pronoun) Bạn /juː/
+153. **just** : (adverb) chỉ /dʒʌst/
+154. **fill** : (verb) điền /fɪl/
+155. **it** : (pronoun) nó /ɪt/
+156. **in** : (adverb) vào /ɪn/
+157. **and** : (conjunction) và /ænd/
+158. **send** : (verb) gửi /send/
+159. **it** : (pronoun) nó /ɪt/
+160. **in** : (adverb) vào /ɪn/
+161. **Thanks** : (noun) Cảm ơn /θæŋks/
+162. **so** : (adverb) rất /səʊ/
+163. **much** : (adverb) nhiều /mʌtʃ/
+164. **I'm** : (pronoun) tôi là /aɪm/
+165. **so** : (adverb) rất /səʊ/
+166. **excited** : (adjective) hào hứng /ɪkˈsaɪtɪd/
+167. **about** : (preposition) về /əˈbaʊt/
+168. **volunteering** : (verb) tình nguyện /ˌvɒlənˈtɪərɪŋ/
+169. **at** : (preposition) tại /æt/
+170. **the** : (article) /ðə/
+171. **centre** : (noun) trung tâm /ˈsentər/
+172. **No** : (adjective) Không /nəʊ/
+173. **problem** : (noun) vấn đề /ˈprɒbləm/
+174. **Good** : (adjective) Tốt /ɡʊd/
+175. **luck** : (noun) may mắn /lʌk/
+176. **Hope** : (verb) Hy vọng /həʊp/
+177. **your** : (pronoun) của bạn /jɔːr/
+178. **application** : (noun) đơn /ˌæplɪˈkeɪʃn/
+179. **is** : (verb) là /ɪz/
+180. **successful** : (adjective) thành công /səkˈsesfəl/
+181. **and** : (conjunction) và /ænd/
+182. **you** : (pronoun) bạn /juː/
+183. **enjoy** : (verb) thích /ɪnˈdʒɔɪ/
+184. **the** : (article) /ðə/
+185. **work** : (noun) công việc /wɜːrk/
 ```
 
 </details>
@@ -277,7 +277,7 @@ Tam: No problem. Good luck. Hope your application is successful and you enjoy th
 13. **there:** (adverb) ở đó
 
 **Meaning Chunks:**
-1.  Kim: Chào, Tâm.
+1. **Kim** : Chào, Tâm.
 2.  Tớ đến nhà cậu lúc 9 giờ sáng,
 3.  nhưng cậu không có ở đó.
 
@@ -309,7 +309,7 @@ Tam: No problem. Good luck. Hope your application is successful and you enjoy th
 17. **development:** (noun) phát triển
 
 **Meaning Chunks:**
-1.  Tâm: Ồ,
+1. **Tâm** : Ồ,
 2.  khi cậu đến,
 3.  tớ đang làm tình nguyện viên
 4.  tại trung tâm phát triển cộng đồng ở địa phương của chúng ta.
@@ -335,7 +335,7 @@ Tam: No problem. Good luck. Hope your application is successful and you enjoy th
 10. **there:** (adverb) ở đó
 
 **Meaning Chunks:**
-1.  Kim: À, tớ hiểu rồi.
+1. **Kim** : À, tớ hiểu rồi.
 2.  Làm thế nào cậu trở thành tình nguyện viên ở đó?
 
 ---
@@ -373,7 +373,7 @@ Tam: No problem. Good luck. Hope your application is successful and you enjoy th
 24. **successful:** (adjective) thành công
 
 **Meaning Chunks:**
-1.  Tâm: Chỉ là tình cờ thôi.
+1. **Tâm** : Chỉ là tình cờ thôi.
 2.  Mùa hè năm ngoái, trong khi tớ đang đến thăm trung tâm,
 3.  tớ đã thấy một quảng cáo tuyển tình nguyện viên.
 4.  Tớ đã nộp đơn và đơn của tớ đã thành công.
@@ -402,7 +402,7 @@ Tam: No problem. Good luck. Hope your application is successful and you enjoy th
 13. **interesting:** (adjective) thú vị
 
 **Meaning Chunks:**
-1.  Kim: Tớ cũng muốn làm tình nguyện viên.
+1. **Kim** : Tớ cũng muốn làm tình nguyện viên.
 2.  Tớ thấy công việc cộng đồng rất thú vị.
 
 ---
@@ -439,7 +439,7 @@ Tam: No problem. Good luck. Hope your application is successful and you enjoy th
 23. **skills:** (noun) kỹ năng
 
 **Meaning Chunks:**
-1.  Tâm: Tớ đồng ý.
+1. **Tâm** : Tớ đồng ý.
 2.  Dịch vụ cộng đồng không chỉ mang lại lợi ích cho khu vực địa phương
 3.  mà còn có thể tăng cường sự tự tin của chúng ta
 4.  và giúp chúng ta học được nhiều kỹ năng hữu ích.
@@ -464,7 +464,7 @@ Tam: No problem. Good luck. Hope your application is successful and you enjoy th
 9.  **centre:** (noun) trung tâm
 
 **Meaning Chunks:**
-1.  Kim: Những hoạt động thường xuyên nào
+1. **Kim** : Những hoạt động thường xuyên nào
 2.  được tổ chức bởi trung tâm?
 
 ---
@@ -508,7 +508,7 @@ Tam: No problem. Good luck. Hope your application is successful and you enjoy th
 30. **orphanage:** (noun) trại trẻ mồ côi
 
 **Meaning Chunks:**
-1.  Tâm: Ồ, có vô số cơ hội để tham gia.
+1. **Tâm** : Ồ, có vô số cơ hội để tham gia.
 2.  Ví dụ, cậu có thể tham gia một nhóm môi trường địa phương để dọn dẹp công viên mỗi tuần một lần
 3.  hoặc tình nguyện tại một trại trẻ mồ côi.
 
@@ -529,7 +529,7 @@ Tam: No problem. Good luck. Hope your application is successful and you enjoy th
 6.  **apply:** (verb) nộp đơn
 
 **Meaning Chunks:**
-1.  Kim: Nghe hay đấy.
+1. **Kim** : Nghe hay đấy.
 2.  Tớ có thể nộp đơn như thế nào?
 
 ---
@@ -557,7 +557,7 @@ Tam: No problem. Good luck. Hope your application is successful and you enjoy th
 14. **in:** (adverb) vào
 
 **Meaning Chunks:**
-1.  Tâm: Tớ sẽ gửi email cho cậu mẫu đơn.
+1. **Tâm** : Tớ sẽ gửi email cho cậu mẫu đơn.
 2.  Cậu chỉ cần điền vào và gửi nó đi.
 
 ---
@@ -582,7 +582,7 @@ Tam: No problem. Good luck. Hope your application is successful and you enjoy th
 11. **centre:** (noun) trung tâm
 
 **Meaning Chunks:**
-1.  Kim: Cảm ơn cậu rất nhiều.
+1. **Kim** : Cảm ơn cậu rất nhiều.
 2.  Tớ rất hào hứng về việc tình nguyện tại trung tâm.
 
 ---
@@ -610,7 +610,7 @@ Tam: No problem. Good luck. Hope your application is successful and you enjoy th
 14. **work:** (noun) công việc
 
 **Meaning Chunks:**
-1.  Tâm: Không có gì.
+1. **Tâm** : Không có gì.
 2.  Chúc may mắn.
 3.  Hy vọng đơn của cậu thành công
 4.  và cậu thích công việc đó.

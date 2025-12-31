@@ -20,266 +20,266 @@ In short, there are some positive signs that farmers can meet the environmental 
 <summary>📝 Word-by-Word Analysis</summary>
 
 ```
-1. Farming: (noun) Nông nghiệp /ˈfɑːrmɪŋ/
-2. provides: (verb) cung cấp /prəˈvaɪdz/
-3. us: (pronoun) chúng ta /ʌs/
-4. with: (preposition) với /wɪθ/
-5. the: (article) cái /ðə/
-6. food: (noun) thức ăn /fuːd/
-7. that: (pronoun) mà /ðæt/
-8. we: (pronoun) chúng ta /wiː/
-9. eat: (verb) ăn /iːt/
-10. every: (adjective) mỗi /ˈevri/
-11. day: (noun) ngày /deɪ/
-12. But: (conjunction) nhưng /bʌt/
-13. farming: (noun) hoạt động nông nghiệp /ˈfɑːrmɪŋ/
-14. activities: (noun) các hoạt động /ækˈtɪvətiz/
-15. also: (adverb) cũng /ˈɔːlsoʊ/
-16. have: (verb) có /hæv/
-17. a: (article) một /ə/
-18. strong: (adjective) mạnh /strɔːŋ/
-19. warming: (adjective) làm nóng /ˈwɔːrmɪŋ/
-20. impact: (noun) tác động /ˈɪmpækt/
-21. on: (preposition) trên /ɒn/
-22. the: (article) cái /ðə/
-23. global: (adjective) toàn cầu /ˈɡloʊbl/
-24. temperature: (noun) nhiệt độ /ˈtempərətʃər/
-25. The: (article) Cái /ðə/
-26. good: (adjective) tốt /ɡʊd/
-27. news: (noun) tin tức /njuːz/
-28. is: (verb) là /ɪz/
-29. that: (conjunction) rằng /ðæt/
-30. experts: (noun) chuyên gia /ˈekspɜːrts/
-31. have: (verb) đã /hæv/
-32. already: (adverb) đã rồi /ɔːlˈredi/
-33. started: (verb) bắt đầu /ˈstɑːrtɪd/
-34. thinking: (verb) suy nghĩ /ˈθɪŋkɪŋ/
-35. about: (preposition) về /əˈbaʊt/
-36. how: (adverb) làm thế nào /haʊ/
-37. to: (preposition) để /tuː/
-38. reduce: (verb) giảm /rɪˈduːs/
-39. it: (pronoun) nó /ɪt/
-40. Raising: (verb) Nuôi /ˈreɪzɪŋ/
-41. farm: (noun) nông trại /fɑːrm/
-42. animals: (noun) động vật /ˈænɪməlz/
-43. like: (preposition) như /laɪk/
-44. cows: (noun) bò /kaʊz/
-45. goats: (noun) dê /ɡoʊts/
-46. and: (conjunction) và /ænd/
-47. sheep: (noun) cừu /ʃiːp/
-48. makes: (verb) làm /meɪks/
-49. the: (article) cái /ðə/
-50. planet: (noun) hành tinh /ˈplænɪt/
-51. hotter: (adjective) nóng hơn /ˈhɑːtər/
-52. There: (adverb) Có /ðeər/
-53. are: (verb) là /ɑːr/
-54. billions: (noun) hàng tỷ /ˈbɪljənz/
-55. of: (preposition) của /ʌv/
-56. them: (pronoun) chúng /ðem/
-57. and: (conjunction) và /ænd/
-58. they: (pronoun) chúng /ðeɪ/
-59. release: (verb) thải ra /rɪˈliːs/
-60. methane: (noun) khí mê-tan /ˈmiːθeɪn/
-61. a: (article) một /ə/
-62. greenhouse: (adjective) nhà kính /ˈɡriːnhaʊs/
-63. gas: (noun) khí /ɡæs/
-64. that: (pronoun) mà /ðæt/
-65. is: (verb) là /ɪz/
-66. much: (adverb) nhiều /mʌtʃ/
-67. more: (adverb) hơn /mɔːr/
-68. dangerous: (adjective) nguy hiểm /ˈdeɪndʒərəs/
-69. than: (preposition) hơn /ðæn/
-70. carbon: (noun) các-bon /ˈkɑːrbən/
-71. dioxide: (noun) đi-ô-xít /ˈdaɪɑːkˌsaɪd/
-72. That: (pronoun) Đó /ðæt/
-73. is: (verb) là /ɪz/
-74. why: (adverb) tại sao /waɪ/
-75. scientists: (noun) nhà khoa học /ˈsaɪəntɪsts/
-76. are: (verb) đang /ɑːr/
-77. developing: (verb) phát triển /dɪˈveləpɪŋ/
-78. methane-catching: (adjective) bắt mê-tan /ˈmiːθeɪnˌkætʃɪŋ/
-79. face: (noun) mặt /feɪs/
-80. masks: (noun) mặt nạ /mæsks/
-81. for: (preposition) cho /fɔːr/
-82. cows: (noun) bò /kaʊz/
-83. They: (pronoun) Chúng /ðeɪ/
-84. are: (verb) là /ɑːr/
-85. intended: (verb) dự định /ɪnˈtendɪd/
-86. to: (preposition) để /tuː/
-87. reduce: (verb) giảm /rɪˈduːs/
-88. methane: (noun) khí mê-tan /ˈmiːθeɪn/
-89. emissions: (noun) khí thải /ɪˈmɪʃənz/
-90. by: (preposition) bằng /baɪ/
-91. up: (adverb) lên /ʌp/
-92. to: (preposition) đến /tuː/
-93. 50: (number) 50 /fɪfti/
-94. per: (preposition) trên /pɜːr/
-95. cent: (noun) phần trăm /sent/
-96. per: (preposition) trên /pɜːr/
-97. cow: (noun) bò /kaʊ/
-98. Another: (adjective) Một /əˈnʌðər/
-99. farming: (noun) hoạt động nông nghiệp /ˈfɑːrmɪŋ/
-100. activity: (noun) hoạt động /ækˈtɪvəti/
-101. that: (pronoun) mà /ðæt/
-102. heats: (verb) làm nóng /hiːts/
-103. the: (article) cái /ðə/
-104. atmosphere: (noun) khí quyển /ˈætməsfɪər/
-105. is: (verb) là /ɪz/
-106. growing: (verb) trồng /ˈɡroʊɪŋ/
-107. rice: (noun) lúa mì /raɪs/
-108. According: (verb) Theo /əˈkɔːrdɪŋ/
-109. to: (preposition) đến /tuː/
-110. research: (noun) nghiên cứu /rɪˈsɜːrtʃ/
-111. emissions: (noun) khí thải /ɪˈmɪʃənz/
-112. from: (preposition) từ /frʌm/
-113. rice: (noun) lúa mì /raɪs/
-114. farms: (noun) trang trại /fɑːrmz/
-115. have: (verb) có /hæv/
-116. the: (article) cái /ðə/
-117. same: (adjective) giống /seɪm/
-118. warming: (adjective) làm nóng /ˈwɔːrmɪŋ/
-119. effect: (noun) hiệu ứng /ɪˈfekt/
-120. as: (preposition) như /æz/
-121. about: (preposition) khoảng /əˈbaʊt/
-122. 600: (number) 600 /sɪks ˈhʌndrəd/
-123. coal: (noun) than đá /koʊl/
-124. plants: (noun) nhà máy /plænts/
-125. Flooded: (adjective) Ngập lụt /ˈflʌdɪd/
-126. rice: (noun) lúa mì /raɪs/
-127. fields: (noun) cánh đồng /fiːldz/
-128. also: (adverb) cũng /ˈɔːlsoʊ/
-129. make: (verb) làm /meɪk/
-130. it: (pronoun) nó /ɪt/
-131. easier: (adjective) dễ hơn /ˈiːziər/
-132. for: (preposition) cho /fɔːr/
-133. soil: (noun) đất /sɔɪl/
-134. bacteria: (noun) vi khuẩn /bækˈtɪəriə/
-135. to: (preposition) để /tuː/
-136. produce: (verb) sản xuất /prəˈduːs/
-137. greenhouse: (adjective) nhà kính /ˈɡriːnhaʊs/
-138. gases: (noun) khí /ɡæsɪz/
-139. New: (adjective) Mới /njuː/
-140. farming: (noun) hoạt động nông nghiệp /ˈfɑːrmɪŋ/
-141. methods: (noun) phương pháp /ˈmeθədz/
-142. have: (verb) đã /hæv/
-143. allowed: (verb) cho phép /əˈlaʊd/
-144. rice: (noun) lúa mì /raɪs/
-145. to: (preposition) để /tuː/
-146. grow: (verb) phát triển /ɡroʊ/
-147. well: (adverb) tốt /wel/
-148. in: (preposition) trong /ɪn/
-149. drier: (adjective) khô hơn /ˈdraɪər/
-150. fields: (noun) cánh đồng /fiːldz/
-151. limit: (verb) giới hạn /ˈlɪmɪt/
-152. the: (article) cái /ðə/
-153. amount: (noun) số lượng /əˈmaʊnt/
-154. of: (preposition) của /ʌv/
-155. greenhouse: (adjective) nhà kính /ˈɡriːnhaʊs/
-156. gases: (noun) khí /ɡæsɪz/
-157. use: (verb) sử dụng /juːz/
-158. less: (adjective) ít hơn /les/
-159. water: (noun) nước /ˈwɔːtər/
-160. and: (conjunction) và /ænd/
-161. produce: (verb) sản xuất /prəˈduːs/
-162. better: (adjective) tốt hơn /ˈbetər/
-163. crops: (noun) cây trồng /krɒps/
-164. In: (preposition) Trong /ɪn/
-165. addition: (noun) thêm vào /əˈdɪʃən/
-166. land-use: (noun) việc sử dụng đất /ˈlænd juːs/
-167. increases: (verb) tăng /ɪnˈkriːsɪz/
-168. the: (article) cái /ðə/
-169. global: (adjective) toàn cầu /ˈɡloʊbl/
-170. temperature: (noun) nhiệt độ /ˈtempərətʃər/
-171. Plants: (noun) Cây cối /plænts/
-172. and: (conjunction) và /ænd/
-173. trees: (noun) cây /triːz/
-174. use: (verb) sử dụng /juːz/
-175. CO2: (noun) CO2 /ˌsiː oʊ ˈtuː/
-176. to: (preposition) để /tuː/
-177. grow: (verb) phát triển /ɡroʊ/
-178. and: (conjunction) và /ænd/
-179. store: (verb) lưu trữ /stɔːr/
-180. large: (adjective) lớn /lɑːrdʒ/
-181. amounts: (noun) số lượng /əˈmaʊnts/
-182. of: (preposition) của /ʌv/
-183. carbon: (noun) các-bon /ˈkɑːrbən/
-184. underground: (adverb) dưới lòng đất /ˈʌndərɡraʊnd/
-185. Cutting: (verb) Cắt /ˈkʌtɪŋ/
-186. down: (adverb) xuống /daʊn/
-187. or: (conjunction) hoặc /ɔːr/
-188. burning: (verb) đốt /ˈbɜːrnɪŋ/
-189. forests: (noun) rừng /ˈfɔːrɪsts/
-190. to: (preposition) để /tuː/
-191. create: (verb) tạo ra /kriˈeɪt/
-192. farm: (noun) nông trại /fɑːrm/
-193. fields: (noun) cánh đồng /fiːldz/
-194. and: (conjunction) và /ænd/
-195. land: (noun) đất /lænd/
-196. for: (preposition) cho /fɔːr/
-197. feeding: (verb) cho ăn /ˈfiːdɪŋ/
-198. animals: (noun) động vật /ˈænɪməlz/
-199. releases: (verb) thải ra /rɪˈliːsɪz/
-200. tonnes: (noun) tấn /tʌnz/
-201. of: (preposition) của /ʌv/
-202. carbon: (noun) các-bon /ˈkɑːrbən/
-203. dioxide: (noun) đi-ô-xít /ˈdaɪɑːkˌsaɪd/
-204. and: (conjunction) và /ænd/
-205. other: (adjective) khác /ˈʌðər/
-206. greenhouse: (adjective) nhà kính /ˈɡriːnhaʊs/
-207. gases: (noun) khí /ɡæsɪz/
-208. into: (preposition) vào /ˈɪntuː/
-209. the: (article) cái /ðə/
-210. atmosphere: (noun) khí quyển /ˈætməsfɪər/
-211. every: (adjective) mỗi /ˈevri/
-212. year: (noun) năm /jɪər/
-213. Luckily: (adverb) May mắn /ˈlʌkɪli/
-214. many: (adjective) nhiều /ˈmeni/
-215. countries: (noun) các nước /ˈkʌntriz/
-216. and: (conjunction) và /ænd/
-217. world: (noun) thế giới /wɜːrld/
-218. leaders: (noun) lãnh đạo /ˈliːdərz/
-219. have: (verb) đã /hæv/
-220. agreed: (verb) đồng ý /əˈɡriːd/
-221. to: (preposition) để /tuː/
-222. protect: (verb) bảo vệ /prəˈtekt/
-223. the: (article) cái /ðə/
-224. forests: (noun) rừng /ˈfɔːrɪsts/
-225. and: (conjunction) và /ænd/
-226. end: (verb) kết thúc /end/
-227. deforestation: (noun) nạn phá rừng /ˌdiːfɔːrɪˈsteɪʃən/
-228. In: (preposition) Trong /ɪn/
-229. short: (adjective) ngắn /ʃɔːrt/
-230. there: (adverb) có /ðeər/
-231. are: (verb) là /ɑːr/
-232. some: (adjective) một vài /sʌm/
-233. positive: (adjective) tích cực /ˈpɑːzətɪv/
-234. signs: (noun) dấu hiệu /saɪnz/
-235. that: (pronoun) rằng /ðæt/
-236. farmers: (noun) nông dân /ˈfɑːrmərz/
-237. can: (verb) có thể /kæn/
-238. meet: (verb) đáp ứng /miːt/
-239. the: (article) cái /ðə/
-240. environmental: (adjective) môi trường /ɪnˌvaɪrənˈmentəl/
-241. challenges: (noun) thách thức /ˈtʃælɪndʒɪz/
-242. However: (adverb) Tuy nhiên /ˌhaʊˈevər/
-243. although: (conjunction) mặc dù /ɔːlˈðoʊ/
-244. the: (article) cái /ðə/
-245. impact: (noun) tác động /ˈɪmpækt/
-246. of: (preposition) của /ʌv/
-247. farming: (noun) nông nghiệp /ˈfɑːrmɪŋ/
-248. on: (preposition) trên /ɒn/
-249. the: (article) cái /ðə/
-250. global: (adjective) toàn cầu /ˈɡloʊbl/
-251. temperature: (noun) nhiệt độ /ˈtempərətʃər/
-252. has: (verb) đã /hæz/
-253. been: (verb) đã /biːn/
-254. reduced: (verb) giảm /rɪˈduːst/
-255. there: (adverb) có /ðeər/
-256. is: (verb) là /ɪz/
-257. still: (adverb) vẫn /stɪl/
-258. much: (adjective) nhiều /mʌtʃ/
-259. to: (preposition) để /tuː/
-260. do: (verb) làm /duː/
+1. **Farming** : (noun) Nông nghiệp /ˈfɑːrmɪŋ/
+2. **provides** : (verb) cung cấp /prəˈvaɪdz/
+3. **us** : (pronoun) chúng ta /ʌs/
+4. **with** : (preposition) với /wɪθ/
+5. **the** : (article) cái /ðə/
+6. **food** : (noun) thức ăn /fuːd/
+7. **that** : (pronoun) mà /ðæt/
+8. **we** : (pronoun) chúng ta /wiː/
+9. **eat** : (verb) ăn /iːt/
+10. **every** : (adjective) mỗi /ˈevri/
+11. **day** : (noun) ngày /deɪ/
+12. **But** : (conjunction) nhưng /bʌt/
+13. **farming** : (noun) hoạt động nông nghiệp /ˈfɑːrmɪŋ/
+14. **activities** : (noun) các hoạt động /ækˈtɪvətiz/
+15. **also** : (adverb) cũng /ˈɔːlsoʊ/
+16. **have** : (verb) có /hæv/
+17. **a** : (article) một /ə/
+18. **strong** : (adjective) mạnh /strɔːŋ/
+19. **warming** : (adjective) làm nóng /ˈwɔːrmɪŋ/
+20. **impact** : (noun) tác động /ˈɪmpækt/
+21. **on** : (preposition) trên /ɒn/
+22. **the** : (article) cái /ðə/
+23. **global** : (adjective) toàn cầu /ˈɡloʊbl/
+24. **temperature** : (noun) nhiệt độ /ˈtempərətʃər/
+25. **The** : (article) Cái /ðə/
+26. **good** : (adjective) tốt /ɡʊd/
+27. **news** : (noun) tin tức /njuːz/
+28. **is** : (verb) là /ɪz/
+29. **that** : (conjunction) rằng /ðæt/
+30. **experts** : (noun) chuyên gia /ˈekspɜːrts/
+31. **have** : (verb) đã /hæv/
+32. **already** : (adverb) đã rồi /ɔːlˈredi/
+33. **started** : (verb) bắt đầu /ˈstɑːrtɪd/
+34. **thinking** : (verb) suy nghĩ /ˈθɪŋkɪŋ/
+35. **about** : (preposition) về /əˈbaʊt/
+36. **how** : (adverb) làm thế nào /haʊ/
+37. **to** : (preposition) để /tuː/
+38. **reduce** : (verb) giảm /rɪˈduːs/
+39. **it** : (pronoun) nó /ɪt/
+40. **Raising** : (verb) Nuôi /ˈreɪzɪŋ/
+41. **farm** : (noun) nông trại /fɑːrm/
+42. **animals** : (noun) động vật /ˈænɪməlz/
+43. **like** : (preposition) như /laɪk/
+44. **cows** : (noun) bò /kaʊz/
+45. **goats** : (noun) dê /ɡoʊts/
+46. **and** : (conjunction) và /ænd/
+47. **sheep** : (noun) cừu /ʃiːp/
+48. **makes** : (verb) làm /meɪks/
+49. **the** : (article) cái /ðə/
+50. **planet** : (noun) hành tinh /ˈplænɪt/
+51. **hotter** : (adjective) nóng hơn /ˈhɑːtər/
+52. **There** : (adverb) Có /ðeər/
+53. **are** : (verb) là /ɑːr/
+54. **billions** : (noun) hàng tỷ /ˈbɪljənz/
+55. **of** : (preposition) của /ʌv/
+56. **them** : (pronoun) chúng /ðem/
+57. **and** : (conjunction) và /ænd/
+58. **they** : (pronoun) chúng /ðeɪ/
+59. **release** : (verb) thải ra /rɪˈliːs/
+60. **methane** : (noun) khí mê-tan /ˈmiːθeɪn/
+61. **a** : (article) một /ə/
+62. **greenhouse** : (adjective) nhà kính /ˈɡriːnhaʊs/
+63. **gas** : (noun) khí /ɡæs/
+64. **that** : (pronoun) mà /ðæt/
+65. **is** : (verb) là /ɪz/
+66. **much** : (adverb) nhiều /mʌtʃ/
+67. **more** : (adverb) hơn /mɔːr/
+68. **dangerous** : (adjective) nguy hiểm /ˈdeɪndʒərəs/
+69. **than** : (preposition) hơn /ðæn/
+70. **carbon** : (noun) các-bon /ˈkɑːrbən/
+71. **dioxide** : (noun) đi-ô-xít /ˈdaɪɑːkˌsaɪd/
+72. **That** : (pronoun) Đó /ðæt/
+73. **is** : (verb) là /ɪz/
+74. **why** : (adverb) tại sao /waɪ/
+75. **scientists** : (noun) nhà khoa học /ˈsaɪəntɪsts/
+76. **are** : (verb) đang /ɑːr/
+77. **developing** : (verb) phát triển /dɪˈveləpɪŋ/
+78. **methane-catching** : (adjective) bắt mê-tan /ˈmiːθeɪnˌkætʃɪŋ/
+79. **face** : (noun) mặt /feɪs/
+80. **masks** : (noun) mặt nạ /mæsks/
+81. **for** : (preposition) cho /fɔːr/
+82. **cows** : (noun) bò /kaʊz/
+83. **They** : (pronoun) Chúng /ðeɪ/
+84. **are** : (verb) là /ɑːr/
+85. **intended** : (verb) dự định /ɪnˈtendɪd/
+86. **to** : (preposition) để /tuː/
+87. **reduce** : (verb) giảm /rɪˈduːs/
+88. **methane** : (noun) khí mê-tan /ˈmiːθeɪn/
+89. **emissions** : (noun) khí thải /ɪˈmɪʃənz/
+90. **by** : (preposition) bằng /baɪ/
+91. **up** : (adverb) lên /ʌp/
+92. **to** : (preposition) đến /tuː/
+93. **50** : (number) 50 /fɪfti/
+94. **per** : (preposition) trên /pɜːr/
+95. **cent** : (noun) phần trăm /sent/
+96. **per** : (preposition) trên /pɜːr/
+97. **cow** : (noun) bò /kaʊ/
+98. **Another** : (adjective) Một /əˈnʌðər/
+99. **farming** : (noun) hoạt động nông nghiệp /ˈfɑːrmɪŋ/
+100. **activity** : (noun) hoạt động /ækˈtɪvəti/
+101. **that** : (pronoun) mà /ðæt/
+102. **heats** : (verb) làm nóng /hiːts/
+103. **the** : (article) cái /ðə/
+104. **atmosphere** : (noun) khí quyển /ˈætməsfɪər/
+105. **is** : (verb) là /ɪz/
+106. **growing** : (verb) trồng /ˈɡroʊɪŋ/
+107. **rice** : (noun) lúa mì /raɪs/
+108. **According** : (verb) Theo /əˈkɔːrdɪŋ/
+109. **to** : (preposition) đến /tuː/
+110. **research** : (noun) nghiên cứu /rɪˈsɜːrtʃ/
+111. **emissions** : (noun) khí thải /ɪˈmɪʃənz/
+112. **from** : (preposition) từ /frʌm/
+113. **rice** : (noun) lúa mì /raɪs/
+114. **farms** : (noun) trang trại /fɑːrmz/
+115. **have** : (verb) có /hæv/
+116. **the** : (article) cái /ðə/
+117. **same** : (adjective) giống /seɪm/
+118. **warming** : (adjective) làm nóng /ˈwɔːrmɪŋ/
+119. **effect** : (noun) hiệu ứng /ɪˈfekt/
+120. **as** : (preposition) như /æz/
+121. **about** : (preposition) khoảng /əˈbaʊt/
+122. **600** : (number) 600 /sɪks ˈhʌndrəd/
+123. **coal** : (noun) than đá /koʊl/
+124. **plants** : (noun) nhà máy /plænts/
+125. **Flooded** : (adjective) Ngập lụt /ˈflʌdɪd/
+126. **rice** : (noun) lúa mì /raɪs/
+127. **fields** : (noun) cánh đồng /fiːldz/
+128. **also** : (adverb) cũng /ˈɔːlsoʊ/
+129. **make** : (verb) làm /meɪk/
+130. **it** : (pronoun) nó /ɪt/
+131. **easier** : (adjective) dễ hơn /ˈiːziər/
+132. **for** : (preposition) cho /fɔːr/
+133. **soil** : (noun) đất /sɔɪl/
+134. **bacteria** : (noun) vi khuẩn /bækˈtɪəriə/
+135. **to** : (preposition) để /tuː/
+136. **produce** : (verb) sản xuất /prəˈduːs/
+137. **greenhouse** : (adjective) nhà kính /ˈɡriːnhaʊs/
+138. **gases** : (noun) khí /ɡæsɪz/
+139. **New** : (adjective) Mới /njuː/
+140. **farming** : (noun) hoạt động nông nghiệp /ˈfɑːrmɪŋ/
+141. **methods** : (noun) phương pháp /ˈmeθədz/
+142. **have** : (verb) đã /hæv/
+143. **allowed** : (verb) cho phép /əˈlaʊd/
+144. **rice** : (noun) lúa mì /raɪs/
+145. **to** : (preposition) để /tuː/
+146. **grow** : (verb) phát triển /ɡroʊ/
+147. **well** : (adverb) tốt /wel/
+148. **in** : (preposition) trong /ɪn/
+149. **drier** : (adjective) khô hơn /ˈdraɪər/
+150. **fields** : (noun) cánh đồng /fiːldz/
+151. **limit** : (verb) giới hạn /ˈlɪmɪt/
+152. **the** : (article) cái /ðə/
+153. **amount** : (noun) số lượng /əˈmaʊnt/
+154. **of** : (preposition) của /ʌv/
+155. **greenhouse** : (adjective) nhà kính /ˈɡriːnhaʊs/
+156. **gases** : (noun) khí /ɡæsɪz/
+157. **use** : (verb) sử dụng /juːz/
+158. **less** : (adjective) ít hơn /les/
+159. **water** : (noun) nước /ˈwɔːtər/
+160. **and** : (conjunction) và /ænd/
+161. **produce** : (verb) sản xuất /prəˈduːs/
+162. **better** : (adjective) tốt hơn /ˈbetər/
+163. **crops** : (noun) cây trồng /krɒps/
+164. **In** : (preposition) Trong /ɪn/
+165. **addition** : (noun) thêm vào /əˈdɪʃən/
+166. **land-use** : (noun) việc sử dụng đất /ˈlænd juːs/
+167. **increases** : (verb) tăng /ɪnˈkriːsɪz/
+168. **the** : (article) cái /ðə/
+169. **global** : (adjective) toàn cầu /ˈɡloʊbl/
+170. **temperature** : (noun) nhiệt độ /ˈtempərətʃər/
+171. **Plants** : (noun) Cây cối /plænts/
+172. **and** : (conjunction) và /ænd/
+173. **trees** : (noun) cây /triːz/
+174. **use** : (verb) sử dụng /juːz/
+175. **CO2** : (noun) CO2 /ˌsiː oʊ ˈtuː/
+176. **to** : (preposition) để /tuː/
+177. **grow** : (verb) phát triển /ɡroʊ/
+178. **and** : (conjunction) và /ænd/
+179. **store** : (verb) lưu trữ /stɔːr/
+180. **large** : (adjective) lớn /lɑːrdʒ/
+181. **amounts** : (noun) số lượng /əˈmaʊnts/
+182. **of** : (preposition) của /ʌv/
+183. **carbon** : (noun) các-bon /ˈkɑːrbən/
+184. **underground** : (adverb) dưới lòng đất /ˈʌndərɡraʊnd/
+185. **Cutting** : (verb) Cắt /ˈkʌtɪŋ/
+186. **down** : (adverb) xuống /daʊn/
+187. **or** : (conjunction) hoặc /ɔːr/
+188. **burning** : (verb) đốt /ˈbɜːrnɪŋ/
+189. **forests** : (noun) rừng /ˈfɔːrɪsts/
+190. **to** : (preposition) để /tuː/
+191. **create** : (verb) tạo ra /kriˈeɪt/
+192. **farm** : (noun) nông trại /fɑːrm/
+193. **fields** : (noun) cánh đồng /fiːldz/
+194. **and** : (conjunction) và /ænd/
+195. **land** : (noun) đất /lænd/
+196. **for** : (preposition) cho /fɔːr/
+197. **feeding** : (verb) cho ăn /ˈfiːdɪŋ/
+198. **animals** : (noun) động vật /ˈænɪməlz/
+199. **releases** : (verb) thải ra /rɪˈliːsɪz/
+200. **tonnes** : (noun) tấn /tʌnz/
+201. **of** : (preposition) của /ʌv/
+202. **carbon** : (noun) các-bon /ˈkɑːrbən/
+203. **dioxide** : (noun) đi-ô-xít /ˈdaɪɑːkˌsaɪd/
+204. **and** : (conjunction) và /ænd/
+205. **other** : (adjective) khác /ˈʌðər/
+206. **greenhouse** : (adjective) nhà kính /ˈɡriːnhaʊs/
+207. **gases** : (noun) khí /ɡæsɪz/
+208. **into** : (preposition) vào /ˈɪntuː/
+209. **the** : (article) cái /ðə/
+210. **atmosphere** : (noun) khí quyển /ˈætməsfɪər/
+211. **every** : (adjective) mỗi /ˈevri/
+212. **year** : (noun) năm /jɪər/
+213. **Luckily** : (adverb) May mắn /ˈlʌkɪli/
+214. **many** : (adjective) nhiều /ˈmeni/
+215. **countries** : (noun) các nước /ˈkʌntriz/
+216. **and** : (conjunction) và /ænd/
+217. **world** : (noun) thế giới /wɜːrld/
+218. **leaders** : (noun) lãnh đạo /ˈliːdərz/
+219. **have** : (verb) đã /hæv/
+220. **agreed** : (verb) đồng ý /əˈɡriːd/
+221. **to** : (preposition) để /tuː/
+222. **protect** : (verb) bảo vệ /prəˈtekt/
+223. **the** : (article) cái /ðə/
+224. **forests** : (noun) rừng /ˈfɔːrɪsts/
+225. **and** : (conjunction) và /ænd/
+226. **end** : (verb) kết thúc /end/
+227. **deforestation** : (noun) nạn phá rừng /ˌdiːfɔːrɪˈsteɪʃən/
+228. **In** : (preposition) Trong /ɪn/
+229. **short** : (adjective) ngắn /ʃɔːrt/
+230. **there** : (adverb) có /ðeər/
+231. **are** : (verb) là /ɑːr/
+232. **some** : (adjective) một vài /sʌm/
+233. **positive** : (adjective) tích cực /ˈpɑːzətɪv/
+234. **signs** : (noun) dấu hiệu /saɪnz/
+235. **that** : (pronoun) rằng /ðæt/
+236. **farmers** : (noun) nông dân /ˈfɑːrmərz/
+237. **can** : (verb) có thể /kæn/
+238. **meet** : (verb) đáp ứng /miːt/
+239. **the** : (article) cái /ðə/
+240. **environmental** : (adjective) môi trường /ɪnˌvaɪrənˈmentəl/
+241. **challenges** : (noun) thách thức /ˈtʃælɪndʒɪz/
+242. **However** : (adverb) Tuy nhiên /ˌhaʊˈevər/
+243. **although** : (conjunction) mặc dù /ɔːlˈðoʊ/
+244. **the** : (article) cái /ðə/
+245. **impact** : (noun) tác động /ˈɪmpækt/
+246. **of** : (preposition) của /ʌv/
+247. **farming** : (noun) nông nghiệp /ˈfɑːrmɪŋ/
+248. **on** : (preposition) trên /ɒn/
+249. **the** : (article) cái /ðə/
+250. **global** : (adjective) toàn cầu /ˈɡloʊbl/
+251. **temperature** : (noun) nhiệt độ /ˈtempərətʃər/
+252. **has** : (verb) đã /hæz/
+253. **been** : (verb) đã /biːn/
+254. **reduced** : (verb) giảm /rɪˈduːst/
+255. **there** : (adverb) có /ðeər/
+256. **is** : (verb) là /ɪz/
+257. **still** : (adverb) vẫn /stɪl/
+258. **much** : (adjective) nhiều /mʌtʃ/
+259. **to** : (preposition) để /tuː/
+260. **do** : (verb) làm /duː/
 ```
 
 </details>

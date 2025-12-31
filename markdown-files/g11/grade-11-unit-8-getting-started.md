@@ -106,11 +106,11 @@
 
 ### Vocabulary Summary
 
-- **self-confidence** (n): tự tin
-- **independent** (adj): độc lập
-- **responsibilities** (n): trách nhiệm
-- **money-management** (n): quản lý tiền bạc
-- **time-management** (n): quản lý thời gian
+1. **self-confidence** : (n) tự tin
+2. **independent** : (adj) độc lập
+3. **responsibilities** : (n) trách nhiệm
+4. **money-management** : (n) quản lý tiền bạc
+5. **time-management** : (n) quản lý thời gian
 - **earning trust**: giành được sự tin tưởng
 - **part-time jobs**: công việc bán thời gian
 - **chores**: việc vặt trong nhà

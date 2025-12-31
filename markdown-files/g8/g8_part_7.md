@@ -119,41 +119,41 @@ Trưởng nhóm: Ừ. Và chúng ta có thể tình nguyện tham gia một số
 
 **Vocabulary** 
 
-1. campfire: (n) lửa trại /ˈkæmpfaɪə/  
-2. cut down trees: chặt cây /kʌt daʊn triːz/  
-3. pick up rubbish: nhặt rác /pɪk ʌp ˈrʌbɪʃ/  
-4. endangered species: loài có nguy cơ tuyệt chủng /ɪnˈdeɪndʒəd ˈspiːʃiːz/  
-5. ecosystem: (n) hệ sinh thái /ˈiːkəʊsɪstəm/  
-6. pollution: (n) ô nhiễm /pəˈluːʃn/  
-7. habitat: (n) môi trường sống /ˈhæbɪtæt/  
-8. environmental: (adj) liên quan tới môi trường /ɪnˌvaɪrənˈmentl/  
-9. protection: (n) sự bảo vệ /prəˈtekʃn/  
-10. process: (n) quy trình, quá trình /ˈprəʊses/  
-11. soil: (n) đất /sɔɪl/  
-12. dirty: (adj) dơ, bẩn /ˈdɜːti/  
-13. harmful: (adj) có hại, gây hại /ˈhɑːmfl/  
-14. substance: (n) hợp chất, chất /ˈsʌbstəns/  
-15. practice: (n) việc thực hiện /ˈpræktɪs/  
-16. particular: (adj) đặc biệt, cụ thể … nào đó /pəˈtɪkjələ/  
-17. area: (n) khu vực, lĩnh vực /ˈeəriə/  
-18. related to: liên quan tới /rɪˈleɪtɪd tuː/  
-19. each other: lẫn nhau /iːtʃ ˈʌðə/  
-20. risk: (n) nguy cơ /rɪsk/  
-21. extinct: (adj) tuyệt chủng /ɪkˈstɪŋkt/  
-22. extinction: (n) sự tuyệt chủng /ɪkˈstɪŋkʃn/  
-23. face: (v) đối mặt, chạm mặt /feɪs/  
-24. carbon dioxide: khí cacbonic /ˈkɑːbən daɪˈɒksaɪd/  
-25. neighbourhood: (n) khu phố, hàng xóm /ˈneɪbəhʊd/  
-26. National Park: Công viên Quốc gia /ˈnæʃnəl pɑːk/  
+1. **campfire** : (n) lửa trại /ˈkæmpfaɪə/
+2. **cut down trees** : chặt cây /kʌt daʊn triːz/
+3. **pick up rubbish** : nhặt rác /pɪk ʌp ˈrʌbɪʃ/
+4. **endangered species** : loài có nguy cơ tuyệt chủng /ɪnˈdeɪndʒəd ˈspiːʃiːz/
+5. **ecosystem** : (n) hệ sinh thái /ˈiːkəʊsɪstəm/
+6. **pollution** : (n) ô nhiễm /pəˈluːʃn/
+7. **habitat** : (n) môi trường sống /ˈhæbɪtæt/
+8. **environmental** : (adj) liên quan tới môi trường /ɪnˌvaɪrənˈmentl/
+9. **protection** : (n) sự bảo vệ /prəˈtekʃn/
+10. **process** : (n) quy trình, quá trình /ˈprəʊses/
+11. **soil** : (n) đất /sɔɪl/
+12. **dirty** : (adj) dơ, bẩn /ˈdɜːti/
+13. **harmful** : (adj) có hại, gây hại /ˈhɑːmfl/
+14. **substance** : (n) hợp chất, chất /ˈsʌbstəns/
+15. **practice** : (n) việc thực hiện /ˈpræktɪs/
+16. **particular** : (adj) đặc biệt, cụ thể … nào đó /pəˈtɪkjələ/
+17. **area** : (n) khu vực, lĩnh vực /ˈeəriə/
+18. **related to** : liên quan tới /rɪˈleɪtɪd tuː/
+19. **each other** : lẫn nhau /iːtʃ ˈʌðə/
+20. **risk** : (n) nguy cơ /rɪsk/
+21. **extinct** : (adj) tuyệt chủng /ɪkˈstɪŋkt/
+22. **extinction** : (n) sự tuyệt chủng /ɪkˈstɪŋkʃn/
+23. **face** : (v) đối mặt, chạm mặt /feɪs/
+24. **carbon dioxide** : khí cacbonic /ˈkɑːbən daɪˈɒksaɪd/
+25. **neighbourhood** : (n) khu phố, hàng xóm /ˈneɪbəhʊd/
+26. **National Park** : Công viên Quốc gia /ˈnæʃnəl pɑːk/
 27. provide A for/to B: cung cấp A cho B /prəˈvaɪd ... fɔː/tuː/  
-28. provide B with A: cung cấp A cho B /prəˈvaɪd ... wɪð/  
-29. release: (v) thả ra, phóng thích /rɪˈliːs/  
-30. absorb: (v) hấp thu /əbˈzɔːb/  
-31. species: (n) loài /ˈspiːʃiːz/  
-32. serious: (adj) nghiêm trọng /ˈsɪəriəs/  
-33. concern: (n) mối quan ngại, mối lo, nỗi lo /kənˈsɜːn/  
-34. pond: (n) cái ao /pɒnd/  
-35. whole: (adj) toàn bộ /həʊl/
+28. **provide B with A** : cung cấp A cho B /prəˈvaɪd ... wɪð/
+29. **release** : (v) thả ra, phóng thích /rɪˈliːs/
+30. **absorb** : (v) hấp thu /əbˈzɔːb/
+31. **species** : (n) loài /ˈspiːʃiːz/
+32. **serious** : (adj) nghiêm trọng /ˈsɪəriəs/
+33. **concern** : (n) mối quan ngại, mối lo, nỗi lo /kənˈsɜːn/
+34. **pond** : (n) cái ao /pɒnd/
+35. **whole** : (adj) toàn bộ /həʊl/
 
 **Bài 1:**
 
@@ -289,14 +289,14 @@ A: Oh, thank you.
 
 **Vocabulary**
 
-1. celebrate: (v) tổ chức, ăn mừng /ˈselɪbreɪt/  
-2. billion: (n) tỉ /ˈbɪljən/  
-3. million: (n) triệu /ˈmɪljən/  
-4. thousand: (n) nghìn /ˈθaʊznd/  
-5. participate in: (v) tham gia vào /pɑːˈtɪsɪpeɪt ɪn/  
-6. take part in: (v) tham gia vào /teɪk pɑːt ɪn/  
-7. at the same time: cùng lúc /æt ðə seɪm taɪm/  
-8. continue: (v) tiếp tục /kənˈtɪnjuː/
+1. **celebrate** : (v) tổ chức, ăn mừng /ˈselɪbreɪt/
+2. **billion** : (n) tỉ /ˈbɪljən/
+3. **million** : (n) triệu /ˈmɪljən/
+4. **thousand** : (n) nghìn /ˈθaʊznd/
+5. **participate in** : (v) tham gia vào /pɑːˈtɪsɪpeɪt ɪn/
+6. **take part in** : (v) tham gia vào /teɪk pɑːt ɪn/
+7. **at the same time** : cùng lúc /æt ðə seɪm taɪm/
+8. **continue** : (v) tiếp tục /kənˈtɪnjuː/
 
 Hàng năm vào ngày 22 tháng 4, hơn 190 quốc gia kỷ niệm Ngày Trái đất để bảo vệ hành tinh. Ngày Trái đất đầu tiên bắt đầu vào năm 1970 tại Mỹ. Ngày nay, hơn 1 tỷ người tham gia các hoạt động của Ngày Trái đất mỗi năm, khiến nó trở thành một trong những phong trào lớn nhất. Bằng cách tham gia vào các hoạt động như nhặt rác và trồng cây, bạn có thể góp phần bảo vệ thiên nhiên và môi trường. Bạn cũng có thể làm những việc như mua các sản phẩm xanh và thực hành giảm thiểu, tái sử dụng và tái chế. Chúng ta có thể kỷ niệm Ngày Trái đất và bảo vệ trái đất cùng một lúc. Hơn nữa, chúng ta nên tiếp tục làm những việc để cứu trái đất mỗi ngày trong năm.
 
@@ -323,23 +323,23 @@ Người ta làm gì vào ngày trái đất?
 
 **Vocabulary** 
 
-1. all over the world: khắp thế giới /ɔːl ˈəʊvə ðə wɜːld/  
-2. rise: (v) tăng /raɪz/  
-3. wildlife: (n) hoang dã, đời sống hoang dã /ˈwaɪldlaɪf/  
-4. district: (n) quận, huyện /ˈdɪstrɪkt/  
-5. contain: (v) bao gồm, chứa /kənˈteɪn/  
-6. turtle: (n) rùa biển /ˈtɜːtl/  
-7. dugong: (n) con bò biển /ˈdjuːgɒŋ/  
-8. Heritage: (n) di sản /ˈherɪtɪdʒ/  
-9. valuable: (adj) có giá trị /ˈvæljuəbl/  
-10. also: (adv) cũng /ˈɔːlsəʊ/  
-11. be home to: là nhà của /bi həʊm tuː/  
-12. medicinal: (adj) làm thuốc được /məˈdɪsɪnl/  
-13. play a key role: đóng vai trò chủ chốt /pleɪ ə kiː rəʊl/  
-14. raise the awareness: tăng sự ý thức /reɪz ði əˈweənəs/  
-15. resident: (n) cư dân /ˈrezɪdənt/  
-16. president: (n) tổng thống /ˈprezɪdənt/  
-17. importance: (n) sự quan trọng /ɪmˈpɔːtns/  
+1. **all over the world** : khắp thế giới /ɔːl ˈəʊvə ðə wɜːld/
+2. **rise** : (v) tăng /raɪz/
+3. **wildlife** : (n) hoang dã, đời sống hoang dã /ˈwaɪldlaɪf/
+4. **district** : (n) quận, huyện /ˈdɪstrɪkt/
+5. **contain** : (v) bao gồm, chứa /kənˈteɪn/
+6. **turtle** : (n) rùa biển /ˈtɜːtl/
+7. **dugong** : (n) con bò biển /ˈdjuːgɒŋ/
+8. **Heritage** : (n) di sản /ˈherɪtɪdʒ/
+9. **valuable** : (adj) có giá trị /ˈvæljuəbl/
+10. **also** : (adv) cũng /ˈɔːlsəʊ/
+11. **be home to** : là nhà của /bi həʊm tuː/
+12. **medicinal** : (adj) làm thuốc được /məˈdɪsɪnl/
+13. **play a key role** : đóng vai trò chủ chốt /pleɪ ə kiː rəʊl/
+14. **raise the awareness** : tăng sự ý thức /reɪz ði əˈweənəs/
+15. **resident** : (n) cư dân /ˈrezɪdənt/
+16. **president** : (n) tổng thống /ˈprezɪdənt/
+17. **importance** : (n) sự quan trọng /ɪmˈpɔːtns/
     Ngày nay, có những công viên quốc gia khắp thế giới, và con số thì lúc nào cũng đang tăng. Một công viên quốc gia là một khu vực đặc biệt cho việc bảo vệ môi trường và đời sống hoang dã   
     Ở Việt Nam, bây giờ có 34 công viên quốc gia. Công viên quốc gia Côn Đảo là một trong số chúng. Nó đã trở thành một công viên quốc gia vào năm 1993\. Công viên thì ở huyện Côn Đảo, tỉnh Bà Rịa \- Vũng Tàu. Nó chứa 15 đảo nhỏ bao phủ 20 000 héc-ta. Hệ sinh thái ở đây thì rất đa dạng với hàng nghìn loại, bao gồm các động vật biển. Nhiều loài san hô cũng như là rùa biển, cá heo và những con bò biển bị nguy hại cũng sống ở đây. Công viên thì cũng là nhà của nhiều loại gỗ và cây thuốc có giá trị. Ba loại cây cổ trong công viên được đặt tên là “Những cây di sản của Việt Nam”.   
     Vườn quốc gia Côn Đảo, giống như những vườn quốc gia khác, đóng một vai trò quan trọng trong việc bảo vệ những loài bị đe dọa cũng như bảo vệ môi trường và các nguồn tài nguyên thiên nhiên. Nó cũng giúp tăng ý thức của người dân địa phương về tầm quan trọng của thiên nhiên.   
@@ -393,26 +393,26 @@ Vu Quang National Park is In Vu Quang district, Ha Tinh Province. It was opened/
 
 **Vocabulary**
 
-1. water pollution: (n) ô nhiễm nước /ˈwɔːtə pəˈluːʃn/  
-2. serious: (adj) nghiêm trọng /ˈsɪəriəs/  
-3. problem: (n) vấn đề /ˈprɒbləm/  
-4. unsafe: (adj) không an toàn /ʌnˈseɪf/  
-5. other uses: các công dụng khác /ˈʌðə ˈjuːsɪz/  
-6. happen: (v) xảy ra /ˈhæpən/  
-7. waste: (n) chất thải /weɪst/  
-8. toxic: (adj) độc hại /ˈtɒksɪk/  
-9. substance: (n) chất /ˈsʌbstəns/  
-10. man-made: (adj) nhân tạo /mæn meɪd/  
-11. natural: (adj) tự nhiên /ˈnætʃrəl/  
-12. flow: (v) chảy /fləʊ/  
-13. factory: (n) nhà máy /ˈfæktri/  
-14. harmful: (adj) có hại /ˈhɑːmfl/  
-15. effect: (n) ảnh hưởng /ɪˈfekt/  
-16. household: (n) hộ gia đình /ˈhaʊshəʊld/  
-17. treat: (v) xử lý /triːt/  
-18. litter: (v) xả rác /ˈlɪtə/  
-19. single-use product: sản phẩm dùng một lần /ˈsɪŋɡl juːs ˈprɒdʌkt/  
-20. plastic bag: túi nhựa /ˈplæstɪk bæɡ/
+1. **water pollution** : (n) ô nhiễm nước /ˈwɔːtə pəˈluːʃn/
+2. **serious** : (adj) nghiêm trọng /ˈsɪəriəs/
+3. **problem** : (n) vấn đề /ˈprɒbləm/
+4. **unsafe** : (adj) không an toàn /ʌnˈseɪf/
+5. **other uses** : các công dụng khác /ˈʌðə ˈjuːsɪz/
+6. **happen** : (v) xảy ra /ˈhæpən/
+7. **waste** : (n) chất thải /weɪst/
+8. **toxic** : (adj) độc hại /ˈtɒksɪk/
+9. **substance** : (n) chất /ˈsʌbstəns/
+10. **man-made** : (adj) nhân tạo /mæn meɪd/
+11. **natural** : (adj) tự nhiên /ˈnætʃrəl/
+12. **flow** : (v) chảy /fləʊ/
+13. **factory** : (n) nhà máy /ˈfæktri/
+14. **harmful** : (adj) có hại /ˈhɑːmfl/
+15. **effect** : (n) ảnh hưởng /ɪˈfekt/
+16. **household** : (n) hộ gia đình /ˈhaʊshəʊld/
+17. **treat** : (v) xử lý /triːt/
+18. **litter** : (v) xả rác /ˈlɪtə/
+19. **single-use product** : sản phẩm dùng một lần /ˈsɪŋɡl juːs ˈprɒdʌkt/
+20. **plastic bag** : túi nhựa /ˈplæstɪk bæɡ/
 
 1. drinking   
 2. factories   
@@ -505,6 +505,6 @@ consumption: sự tiêu thụ
 2. until → when   
 3. before \+ mệnh đề không được chia tương lai → will finish đổi thành finish   
 4. while → when/if   
-5. Earth Hour this year: giờ Trái Đất năm nay → do thành did 
+5. **Earth Hour this year** : giờ Trái Đất năm nay → do thành did
 
 **

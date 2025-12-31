@@ -3,19 +3,19 @@ UNIT 9: WORLD ENGLISHES**
 **GETTING STARTED**   
 **Vocabulary** 
 
-1. introduce: (v) giới thiệu, giới thiệu (ai đó với ai đó) /ˌɪntrəˈdjuːs/  
-2. an exchange student: sinh viên trao đổi /ən ɪksˈtʃeɪndʒ ˈstjuːdənt/  
-3. pants: (n) quần (tiếng Anh-Mỹ) /pænts/  
-4. trousers: (n) quần (tiếng Anh-Anh) /ˈtraʊzəz/  
-5. difference: (n) sự khác biệt, sự khác nhau /ˈdɪfərəns/  
-6. American English: tiếng Anh-Mỹ /əˈmerɪkən ˈɪŋɡlɪʃ/  
-7. British English: tiếng Anh-Anh /ˈbrɪtɪʃ ˈɪŋɡlɪʃ/  
-8. Good question: câu hỏi hay /ɡʊd ˈkwestʃən/  
-9. most of us: hầu hết chúng ta /məʊst əv ʌs/  
-10. immigrants: (n) người nhập cư /ˈɪmɪɡrənts/  
-11. first language: ngôn ngữ thứ nhất /fɜːst ˈlæŋɡwɪdʒ/  
-12. mother tongue: tiếng mẹ đẻ /ˈmʌðə tʌŋ/  
-13. mean: (v) có nghĩa là, ý là /miːn/
+1. **introduce** : (v) giới thiệu, giới thiệu (ai đó với ai đó) /ˌɪntrəˈdjuːs/
+2. **an exchange student** : sinh viên trao đổi /ən ɪksˈtʃeɪndʒ ˈstjuːdənt/
+3. **pants** : (n) quần (tiếng Anh-Mỹ) /pænts/
+4. **trousers** : (n) quần (tiếng Anh-Anh) /ˈtraʊzəz/
+5. **difference** : (n) sự khác biệt, sự khác nhau /ˈdɪfərəns/
+6. **American English** : tiếng Anh-Mỹ /əˈmerɪkən ˈɪŋɡlɪʃ/
+7. **British English** : tiếng Anh-Anh /ˈbrɪtɪʃ ˈɪŋɡlɪʃ/
+8. **Good question** : câu hỏi hay /ɡʊd ˈkwestʃən/
+9. **most of us** : hầu hết chúng ta /məʊst əv ʌs/
+10. **immigrants** : (n) người nhập cư /ˈɪmɪɡrənts/
+11. **first language** : ngôn ngữ thứ nhất /fɜːst ˈlæŋɡwɪdʒ/
+12. **mother tongue** : tiếng mẹ đẻ /ˈmʌðə tʌŋ/
+13. **mean** : (v) có nghĩa là, ý là /miːn/
 
 Giáo viên: Chào lớp. Tôi muốn giới thiệu một học sinh trao đổi đến từ New York. Chào mừng Jack\!  
 Học sinh: Chào Jack. Rất vui được gặp bạn.  
@@ -43,12 +43,12 @@ Mi: Thật thú vị\!
 
 **Bài 3 trang 93** 
 
-1. trao đổi sinh (du học sinh): → b. một người học sinh mà tham gia một ngôi trường ở một nước ngoài trong một khoảng thời gian .   
-2. mean: → e: thể hiện hoặc bày tỏ cái gì đó   
-3. vocabulary: → a tất cả từ trong một ngôn ngữ   
-4. immigrant: → cngười mà đã đến và sống vĩnh viễn ở một đất nước khác   
+1. **trao đổi sinh (du học sinh)** : → b. một người học sinh mà tham gia một ngôi trường ở một nước ngoài trong một khoảng thời gian .
+2. **mean** : → e: thể hiện hoặc bày tỏ cái gì đó
+3. **vocabulary** : → a tất cả từ trong một ngôn ngữ
+4. **immigrant** : → cngười mà đã đến và sống vĩnh viễn ở một đất nước khác
    (permanently \= vĩnh viễn)  
-5. first language: → e ngôn ngữ mà ai đó nói từ khi sinh ra
+5. **first language** : → e ngôn ngữ mà ai đó nói từ khi sinh ra
 
 **Bài 4 trang 93**
 
@@ -66,41 +66,41 @@ Mi: Thật thú vị\!
 **A CLOSER LOOK 1**   
 **Vocabulary** 
 
-1. variety: (n) sự đa dạng, nhiều loại khác nhau /vəˈraɪəti/  
-2. legal: (adj) hợp pháp, thuộc về luật pháp /ˈliːɡəl/  
-3. status: (n) tình trạng, địa vị, vị thế /ˈsteɪtəs/  
-4. legal status: tình trạng pháp lý /ˈliːɡəl ˈsteɪtəs/  
-5. fluent: (adj) thông thạo, trôi chảy (về ngôn ngữ) /ˈfluːənt/  
-6. concentric: (adj) đồng tâm, cùng một trung tâm /kənˈsentrɪk/  
-7. bilingual: (adj) song ngữ, nói được hai thứ tiếng /baɪˈlɪŋɡwəl/  
-8. official language: ngôn ngữ chính thức /əˈfɪʃəl ˈlæŋɡwɪdʒ/  
-9. equally: (adv) một cách bình đẳng, ngang nhau /ˈiːkwəli/  
-10. foreign language: ngoại ngữ /ˈfɒrɪn ˈlæŋɡwɪdʒ/  
-11. translate: (v) dịch, phiên dịch /trænsˈleɪt/  
-12. grammatical point: điểm ngữ pháp /ɡrəˈmætɪkəl pɔɪnt/  
-13. pick up new words: học được từ mới /pɪk ʌp njuː wɜːdz/  
-14. besides: (prep/adv) ngoài ra, bên cạnh đó /bɪˈsaɪdz/  
-15. go over the words: ôn lại các từ /ɡəʊ ˈəʊvə ðə wɜːdz/ 
+1. **variety** : (n) sự đa dạng, nhiều loại khác nhau /vəˈraɪəti/
+2. **legal** : (adj) hợp pháp, thuộc về luật pháp /ˈliːɡəl/
+3. **status** : (n) tình trạng, địa vị, vị thế /ˈsteɪtəs/
+4. **legal status** : tình trạng pháp lý /ˈliːɡəl ˈsteɪtəs/
+5. **fluent** : (adj) thông thạo, trôi chảy (về ngôn ngữ) /ˈfluːənt/
+6. **concentric** : (adj) đồng tâm, cùng một trung tâm /kənˈsentrɪk/
+7. **bilingual** : (adj) song ngữ, nói được hai thứ tiếng /baɪˈlɪŋɡwəl/
+8. **official language** : ngôn ngữ chính thức /əˈfɪʃəl ˈlæŋɡwɪdʒ/
+9. **equally** : (adv) một cách bình đẳng, ngang nhau /ˈiːkwəli/
+10. **foreign language** : ngoại ngữ /ˈfɒrɪn ˈlæŋɡwɪdʒ/
+11. **translate** : (v) dịch, phiên dịch /trænsˈleɪt/
+12. **grammatical point** : điểm ngữ pháp /ɡrəˈmætɪkəl pɔɪnt/
+13. **pick up new words** : học được từ mới /pɪk ʌp njuː wɜːdz/
+14. **besides** : (prep/adv) ngoài ra, bên cạnh đó /bɪˈsaɪdz/
+15. **go over the words** : ôn lại các từ /ɡəʊ ˈəʊvə ðə wɜːdz/
 
 **Bài 1 trang 94** 
 
-1. variety → b: những loại khác của cái gì đó   
-2. d: có khả năng nói hai ngôn ngữ tốt như nhau   
-3. e: có khả năng nói, đọc hoặc viết một ngôn ngữ,  
+1. **variety → b** : những loại khác của cái gì đó
+2. **d** : có khả năng nói hai ngôn ngữ tốt như nhau
+3. **e** : có khả năng nói, đọc hoặc viết một ngôn ngữ,
     đặc biệt là ngoại ngữ, một cách dễ dàng và tốt   
 4. c: có cùng tâm (đồng tâm)   
-5. ngôn ngữ chính thức → a: một ngôn ngữ mà có   
+5. **ngôn ngữ chính thức → a** : một ngôn ngữ mà có
    vị trí pháp lí ở một quốc gia 
 
 **Bài 2 trang 94** 
 
-1. translate from Vietnamese to English: dịch từ tiếng   
+1. **translate from Vietnamese to English** : dịch từ tiếng
    Việt sang tiếng Anh  
-2. copy words into a notebook: chép từ vào tập  
-3. pick up a new language: học lóm được ngôn ngữ mới   
+2. **copy words into a notebook** : chép từ vào tập
+3. **pick up a new language** : học lóm được ngôn ngữ mới
    (language: cách nói)   
-4. look up new words in an English-English dictionary: tra cứu từ mới trong từ điển Anh \- Anh  
-5. go over the grammatical points: ôn lại các điểm ngữ pháp 
+4. **look up new words in an English-English dictionary** : tra cứu từ mới trong từ điển Anh \- Anh
+5. **go over the grammatical points** : ôn lại các điểm ngữ pháp
 
 **Bài 3 trang 94** 
 
@@ -332,17 +332,17 @@ A. who    B. which    C. whose    D. when
 **COMMUNICATION**  
 **Vocabulary**
 
-1. good luck: chúc may mắn /ɡʊd lʌk/  
-2. I'll try my best: tôi sẽ cố gắng hết sức /aɪl traɪ maɪ best/  
-3. I wish you all the best of luck: chúc bạn gặp nhiều may mắn /aɪ wɪʃ juː ɔːl ðə best ɒv lʌk/  
-4. common (adj): phổ biến, thông thường /ˈkɒmən/  
-5. uncopyrightable (adj): không thể đăng ký bản quyền /ʌnˈkɒpiraɪtəbl/  
-6. once (adv): một lần, từng /wʌns/  
-7. vowel (n): nguyên âm /ˈvaʊəl/  
-8. rhythms (n): nhịp điệu /ˈrɪðəmz/  
-9. queueing (v): xếp hàng, đợi /ˈkjuːɪŋ/  
-10. consecutive (adj): liên tiếp, kế tiếp nhau /kənˈsekjʊtɪv/  
-11. in a row: liên tiếp, liên tục /ɪn ə rəʊ/  
+1. **good luck** : chúc may mắn /ɡʊd lʌk/
+2. **I'll try my best** : tôi sẽ cố gắng hết sức /aɪl traɪ maɪ best/
+3. **I wish you all the best of luck** : chúc bạn gặp nhiều may mắn /aɪ wɪʃ juː ɔːl ðə best ɒv lʌk/
+4. **common (adj)** : phổ biến, thông thường /ˈkɒmən/
+5. **uncopyrightable (adj)** : không thể đăng ký bản quyền /ʌnˈkɒpiraɪtəbl/
+6. **once (adv)** : một lần, từng /wʌns/
+7. **vowel (n)** : nguyên âm /ˈvaʊəl/
+8. **rhythms (n)** : nhịp điệu /ˈrɪðəmz/
+9. **queueing (v)** : xếp hàng, đợi /ˈkjuːɪŋ/
+10. **consecutive (adj)** : liên tiếp, kế tiếp nhau /kənˈsekjʊtɪv/
+11. **in a row** : liên tiếp, liên tục /ɪn ə rəʊ/
 12. lorry (n): xe tải (British English) /ˈlɒri/  
 13. truck (n): xe tải (American English) /trʌk/  
 14. chemist's (n): hiệu thuốc (British English) /ˈkemɪsts/  
@@ -357,19 +357,19 @@ Từ tiếng Anh dài nhất không có nguyên âm thật sự (a, e, i, o, ho�
 **Unit 9 \- SKILLS 1**   
 **Vocabulary** 
 
-1. professor: (n) giáo sư /prəˈfesə/  
-2. linguistic: (adj) thuộc về ngôn ngữ học /lɪŋˈɡwɪstɪk/  
+1. **professor** : (n) giáo sư /prəˈfesə/
+2. **linguistic** : (adj) thuộc về ngôn ngữ học /lɪŋˈɡwɪstɪk/
 3. invent the term: tạo ra/đặt ra thuật ngữ /ɪnˈvent ðə tɜːm/  
 4. World Englishes: tiếng Anh toàn cầu (các biến thể tiếng Anh trên thế giới) /wɜːld ˈɪŋɡlɪʃɪz/  
-5. refer to the fact that: đề cập đến việc /rɪˈfɜː tə ðə fækt ðæt/  
-6. global means of communication: phương tiện giao tiếp toàn cầu /ˈɡləʊbl miːnz əv kəˌmjuːnɪˈkeɪʃn/  
-7. a lot of varieties: nhiều biến thể /ə lɒt əv vəˈraɪətiz/  
-8. propose a model: đề xuất một mô hình /prəˈpəʊz ə ˈmɒdl/  
-9. three concentric circles: ba vòng tròn đồng tâm /θriː kənˈsentrɪk ˈsɜːklz/  
-10. consist \- consisted \- consisted: (v) bao gồm, gồm có /kənˈsɪst \- kənˈsɪstɪd \- kənˈsɪstɪd/  
-11. the standards of English: các chuẩn mực của tiếng Anh /ðə ˈstændədz əv ˈɪŋɡlɪʃ/  
-12. official language: ngôn ngữ chính thức /əˈfɪʃl ˈlæŋɡwɪdʒ/  
-13. establish \- established \- established: (v) thiết lập, thành lập /ɪˈstæblɪʃ \- ɪˈstæblɪʃt \- ɪˈstæblɪʃt/
+5. **refer to the fact that** : đề cập đến việc /rɪˈfɜː tə ðə fækt ðæt/
+6. **global means of communication** : phương tiện giao tiếp toàn cầu /ˈɡləʊbl miːnz əv kəˌmjuːnɪˈkeɪʃn/
+7. **a lot of varieties** : nhiều biến thể /ə lɒt əv vəˈraɪətiz/
+8. **propose a model** : đề xuất một mô hình /prəˈpəʊz ə ˈmɒdl/
+9. **three concentric circles** : ba vòng tròn đồng tâm /θriː kənˈsentrɪk ˈsɜːklz/
+10. **consist \- consisted \- consisted** : (v) bao gồm, gồm có /kənˈsɪst \- kənˈsɪstɪd \- kənˈsɪstɪd/
+11. **the standards of English** : các chuẩn mực của tiếng Anh /ðə ˈstændədz əv ˈɪŋɡlɪʃ/
+12. **official language** : ngôn ngữ chính thức /əˈfɪʃl ˈlæŋɡwɪdʒ/
+13. **establish \- established \- established** : (v) thiết lập, thành lập /ɪˈstæblɪʃ \- ɪˈstæblɪʃt \- ɪˈstæblɪʃt/
 
 Braj Kachru là một Giáo sư dạy về ngôn ngữ, người mà đã tạo ra cụm từ "World Englishes" (các loại tiếng Anh trên thế giới). Cụm từ này nói về việc tiếng Anh đã trở thành cách giao tiếp của cả thế giới với nhiều dạng khác nhau.
 
@@ -474,20 +474,20 @@ piano: a type of musical instrument with keyboard → Italian.
 
 **Vocabulary** 
 
-1. look up words in the dictionary: tra từ trong từ điển /lʊk ʌp wɜːdz ɪn ðə ˈdɪkʃənri/  
-2. find it challenging to \+ V: thấy khó khăn để làm gì /faɪnd ɪt ˈtʃælɪndʒɪŋ tuː/  
-3. vocabulary: (n) từ vựng /vəˈkæbjʊləri/  
-4. kind: (n) loại, kiểu /kaɪnd/  
-5. guess: (v) đoán, phỏng đoán /ɡes/  
-6. sentence: (n) câu /ˈsentəns/  
-7. whenever: (conj) bất cứ khi nào /wenˈevə/  
-8. pronunciation: (n) cách phát âm /prəˌnʌnsiˈeɪʃn/  
-9. understand \- understood \- understood: (v) hiểu /ˌʌndəˈstænd \- ˌʌndəˈstʊd \- ˌʌndəˈstʊd/  
-10. have the habit of \+ Ving: có thói quen làm gì /hæv ðə ˈhæbɪt ɒv/  
-11. revise: (v) ôn tập, sửa đổi /rɪˈvaɪz/  
-12. take opportunity to V0: tận dụng cơ hội để làm gì /teɪk ˌɒpəˈtjuːnəti tuː/  
-13. quite \+ adj: khá, tương đối /kwaɪt/  
-14. confident: (adj) tự tin /ˈkɒnfɪdənt/
+1. **look up words in the dictionary** : tra từ trong từ điển /lʊk ʌp wɜːdz ɪn ðə ˈdɪkʃənri/
+2. **find it challenging to \+ V** : thấy khó khăn để làm gì /faɪnd ɪt ˈtʃælɪndʒɪŋ tuː/
+3. **vocabulary** : (n) từ vựng /vəˈkæbjʊləri/
+4. **kind** : (n) loại, kiểu /kaɪnd/
+5. **guess** : (v) đoán, phỏng đoán /ɡes/
+6. **sentence** : (n) câu /ˈsentəns/
+7. **whenever** : (conj) bất cứ khi nào /wenˈevə/
+8. **pronunciation** : (n) cách phát âm /prəˌnʌnsiˈeɪʃn/
+9. **understand \- understood \- understood** : (v) hiểu /ˌʌndəˈstænd \- ˌʌndəˈstʊd \- ˌʌndəˈstʊd/
+10. **have the habit of \+ Ving** : có thói quen làm gì /hæv ðə ˈhæbɪt ɒv/
+11. **revise** : (v) ôn tập, sửa đổi /rɪˈvaɪz/
+12. **take opportunity to V0** : tận dụng cơ hội để làm gì /teɪk ˌɒpəˈtjuːnəti tuː/
+13. **quite \+ adj** : khá, tương đối /kwaɪt/
+14. **confident** : (adj) tự tin /ˈkɒnfɪdənt/
 
 1\. F	2\. F	3\. T	4\. T
 
@@ -516,11 +516,11 @@ When learning English, I find remembering vocabulary and grammar the most challe
 
 **Bài 2 trang 100** 
 
-1. go over: xem lại, ôn lại   
-2. variety (số nhiều varieties): nhiều loại khác nhau   
-3. into \+ nơi: vào …   
-4. translate: dịch   
-5. pick up \+ từ/kiến thức: học lóm được … 
+1. **go over** : xem lại, ôn lại
+2. **variety (số nhiều varieties)** : nhiều loại khác nhau
+3. **into \+ nơi** : vào …
+4. **translate** : dịch
+5. **pick up \+ từ/kiến thức** : học lóm được …
 
 **Bài 3 trang 100** 
 
@@ -554,11 +554,11 @@ Ngoại lệ: télevision
 
 **Bài 2 trang 102** 
 
-1. be located \+ in/at/on \+ vị trí: tọa lạc ở vị trí …  
-2. magnificent: tráng lệ   
-3. itinerary: lịch trình   
-4. look up: tra, tìm kiếm  
-5. get access to: tiếp cận 
+1. **be located \+ in/at/on \+ vị trí** : tọa lạc ở vị trí …
+2. **magnificent** : tráng lệ
+3. **itinerary** : lịch trình
+4. **look up** : tra, tìm kiếm
+5. **get access to** : tiếp cận
 
 **Bài 3 trang 102**
 
@@ -592,16 +592,16 @@ Ngoại lệ: télevision
 **SKILLS**   
 **Vocabulary** 
 
-1. improve your vocabulary: cải thiện vốn từ vựng của bạn /ɪmˈpruːv jɔː vəˈkæbjʊləri/  
-2. figure out the meaning: tìm hiểu ý nghĩa /ˈfɪɡər aʊt ðə ˈmiːnɪŋ/  
-3. practise \+ Ving: luyện tập làm gì đó /ˈpræktɪs/  
-4. phrase: (n) cụm từ /freɪz/  
-5. hard copy: bản in giấy /hɑːd ˈkɒpi/  
-6. online version: phiên bản trực tuyến /ˈɒnlaɪn ˈvɜːʃn/  
-7. keep a list of new words: giữ danh sách từ mới /kiːp ə lɪst əv njuː wɜːdz/  
-8. definition: (n) định nghĩa /ˌdefɪˈnɪʃn/  
-9. revise: (v) ôn tập, sửa đổi /rɪˈvaɪz/  
-10. wherever: (adv) bất cứ nơi đâu, dù ở đâu /weərˈevə/
+1. **improve your vocabulary** : cải thiện vốn từ vựng của bạn /ɪmˈpruːv jɔː vəˈkæbjʊləri/
+2. **figure out the meaning** : tìm hiểu ý nghĩa /ˈfɪɡər aʊt ðə ˈmiːnɪŋ/
+3. **practise \+ Ving** : luyện tập làm gì đó /ˈpræktɪs/
+4. **phrase** : (n) cụm từ /freɪz/
+5. **hard copy** : bản in giấy /hɑːd ˈkɒpi/
+6. **online version** : phiên bản trực tuyến /ˈɒnlaɪn ˈvɜːʃn/
+7. **keep a list of new words** : giữ danh sách từ mới /kiːp ə lɪst əv njuː wɜːdz/
+8. **definition** : (n) định nghĩa /ˌdefɪˈnɪʃn/
+9. **revise** : (v) ôn tập, sửa đổi /rɪˈvaɪz/
+10. **wherever** : (adv) bất cứ nơi đâu, dù ở đâu /weərˈevə/
 
 **Speaking**   
 **Nhìn vào danh sách các kì quan thiên nhiên bên dưới, dánh số chúng từ 1 tới 5 theo thứ tự cái nào bạn muốn thăm nhất.**   

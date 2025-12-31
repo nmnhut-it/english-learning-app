@@ -22,14 +22,14 @@ A: Oh, thank you.
 
 **Vocabulary**
 
-1. celebrate: (v) tổ chức, ăn mừng /ˈselɪbreɪt/  
-2. billion: (n) tỉ /ˈbɪljən/  
-3. million: (n) triệu /ˈmɪljən/  
-4. thousand: (n) nghìn /ˈθaʊznd/  
-5. participate in: (v) tham gia vào /pɑːˈtɪsɪpeɪt ɪn/  
-6. take part in: (v) tham gia vào /teɪk pɑːt ɪn/  
-7. at the same time: cùng lúc /æt ðə seɪm taɪm/  
-8. continue: (v) tiếp tục /kənˈtɪnjuː/
+1. **celebrate** : (v) tổ chức, ăn mừng /ˈselɪbreɪt/
+2. **billion** : (n) tỉ /ˈbɪljən/
+3. **million** : (n) triệu /ˈmɪljən/
+4. **thousand** : (n) nghìn /ˈθaʊznd/
+5. **participate in** : (v) tham gia vào /pɑːˈtɪsɪpeɪt ɪn/
+6. **take part in** : (v) tham gia vào /teɪk pɑːt ɪn/
+7. **at the same time** : cùng lúc /æt ðə seɪm taɪm/
+8. **continue** : (v) tiếp tục /kənˈtɪnjuː/
 
 Hàng năm vào ngày 22 tháng 4, hơn 190 quốc gia kỷ niệm Ngày Trái đất để bảo vệ hành tinh. Ngày Trái đất đầu tiên bắt đầu vào năm 1970 tại Mỹ. Ngày nay, hơn 1 tỷ người tham gia các hoạt động của Ngày Trái đất mỗi năm, khiến nó trở thành một trong những phong trào lớn nhất. Bằng cách tham gia vào các hoạt động như nhặt rác và trồng cây, bạn có thể góp phần bảo vệ thiên nhiên và môi trường. Bạn cũng có thể làm những việc như mua các sản phẩm xanh và thực hành giảm thiểu, tái sử dụng và tái chế. Chúng ta có thể kỷ niệm Ngày Trái đất và bảo vệ trái đất cùng một lúc. Hơn nữa, chúng ta nên tiếp tục làm những việc để cứu trái đất mỗi ngày trong năm.
 

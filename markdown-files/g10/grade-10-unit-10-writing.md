@@ -5,14 +5,14 @@
 
 ### New words
 
-1. advertisement: (n) quảng cáo /ədˈvɜːtɪsmənt/
-2. coconut palm: (n.phr) cây dừa /ˈkəʊkənʌt pɑːm/
-3. paper lantern: (n.phr) đèn lồng giấy /ˈpeɪpə ˈlæntən/
-4. gardening: (n) làm vườn /ˈɡɑːdnɪŋ/
-5. basket boat: (n.phr) thuyền thúng /ˈbɑːskɪt bəʊt/
-6. craft village: (n.phr) làng nghề /krɑːft ˈvɪlɪdʒ/
-7. herb garden: (n.phr) vườn thảo mộc /hɜːb ˈɡɑːdn/
-8. vegetable garden: (n.phr) vườn rau /ˈvedʒtəbl ˈɡɑːdn/
+1. **advertisement** : (n) quảng cáo /ədˈvɜːtɪsmənt/
+2. **coconut palm** : (n.phr) cây dừa /ˈkəʊkənʌt pɑːm/
+3. **paper lantern** : (n.phr) đèn lồng giấy /ˈpeɪpə ˈlæntən/
+4. **gardening** : (n) làm vườn /ˈɡɑːdnɪŋ/
+5. **basket boat** : (n.phr) thuyền thúng /ˈbɑːskɪt bəʊt/
+6. **craft village** : (n.phr) làng nghề /krɑːft ˈvɪlɪdʒ/
+7. **herb garden** : (n.phr) vườn thảo mộc /hɜːb ˈɡɑːdn/
+8. **vegetable garden** : (n.phr) vườn rau /ˈvedʒtəbl ˈɡɑːdn/
 
 ---
 
@@ -178,23 +178,23 @@ Chúng tôi cung cấp một chuyến du lịch sinh thái đến các làng qu�
 
 ## Vocabulary (Từ vựng)
 
-1. advertisement: (n) quảng cáo /ədˈvɜːtɪsmənt/
-2. coconut palm: (n.phr) cây dừa /ˈkəʊkənʌt pɑːm/
-3. paper lantern: (n.phr) đèn lồng giấy /ˈpeɪpə ˈlæntən/
-4. colourful: (adj) nhiều màu sắc /ˈkʌləfl/
-5. gardening: (n) làm vườn /ˈɡɑːdnɪŋ/
-6. basket boat: (n.phr) thuyền thúng /ˈbɑːskɪt bəʊt/
-7. craft village: (n.phr) làng nghề /krɑːft ˈvɪlɪdʒ/
-8. herb garden: (n.phr) vườn thảo mộc /hɜːb ˈɡɑːdn/
-9. vegetable garden: (n.phr) vườn rau /ˈvedʒtəbl ˈɡɑːdn/
-10. well-known: (adj) nổi tiếng /ˌwel ˈnəʊn/
-11. famous: (adj) nổi tiếng /ˈfeɪməs/
-12. leisure activity: (n.phr) hoạt động giải trí /ˈleʒə ækˈtɪvəti/
-13. handmade: (adj) làm bằng tay /ˌhændˈmeɪd/
-14. encourage: (v) khuyến khích /ɪnˈkʌrɪdʒ/
-15. recommend: (v) khuyến nghị /ˌrekəˈmend/
-16. eco-friendly transport: (n.phr) phương tiện thân thiện với môi trường /ˌiːkəʊ ˈfrendli ˈtrænspɔːt/
-17. pollute: (v) làm ô nhiễm /pəˈluːt/
-18. local business: (n.phr) doanh nghiệp địa phương /ˈləʊkl ˈbɪznəs/
-19. book: (v) đặt /bʊk/
-20. offer: (v) cung cấp /ˈɒfə/
+1. **advertisement** : (n) quảng cáo /ədˈvɜːtɪsmənt/
+2. **coconut palm** : (n.phr) cây dừa /ˈkəʊkənʌt pɑːm/
+3. **paper lantern** : (n.phr) đèn lồng giấy /ˈpeɪpə ˈlæntən/
+4. **colourful** : (adj) nhiều màu sắc /ˈkʌləfl/
+5. **gardening** : (n) làm vườn /ˈɡɑːdnɪŋ/
+6. **basket boat** : (n.phr) thuyền thúng /ˈbɑːskɪt bəʊt/
+7. **craft village** : (n.phr) làng nghề /krɑːft ˈvɪlɪdʒ/
+8. **herb garden** : (n.phr) vườn thảo mộc /hɜːb ˈɡɑːdn/
+9. **vegetable garden** : (n.phr) vườn rau /ˈvedʒtəbl ˈɡɑːdn/
+10. **well-known** : (adj) nổi tiếng /ˌwel ˈnəʊn/
+11. **famous** : (adj) nổi tiếng /ˈfeɪməs/
+12. **leisure activity** : (n.phr) hoạt động giải trí /ˈleʒə ækˈtɪvəti/
+13. **handmade** : (adj) làm bằng tay /ˌhændˈmeɪd/
+14. **encourage** : (v) khuyến khích /ɪnˈkʌrɪdʒ/
+15. **recommend** : (v) khuyến nghị /ˌrekəˈmend/
+16. **eco-friendly transport** : (n.phr) phương tiện thân thiện với môi trường /ˌiːkəʊ ˈfrendli ˈtrænspɔːt/
+17. **pollute** : (v) làm ô nhiễm /pəˈluːt/
+18. **local business** : (n.phr) doanh nghiệp địa phương /ˈləʊkl ˈbɪznəs/
+19. **book** : (v) đặt /bʊk/
+20. **offer** : (v) cung cấp /ˈɒfə/

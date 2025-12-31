@@ -4,26 +4,26 @@ UNIT 11: SCIENCE AND TECHNOLOGY**
 
 **Vocabulary** 
 
-1. yesterday's lesson: bài học hôm qua /ˈjestədeɪz ˈlesn/  
-2. face-to-face classes: các lớp học trực tiếp /feɪs tə feɪs ˈklɑːsɪz/  
-3. convenient: (adj) thuận tiện, tiện lợi /kənˈviːniənt/  
-4. epidemics: (n) dịch bệnh /ˌepɪˈdemɪks/  
-5. interact: (v) tương tác /ˌɪntərˈækt/  
-6. breakout room: phòng thảo luận nhóm nhỏ /ˈbreɪkaʊt ruːm/  
-7. enough: (adj/adv) đủ /ɪˈnʌf/  
-8. in front of: trước mặt /ɪn frʌnt ɒv/  
-9. computer screen: màn hình máy tính /kəmˈpjuːtə skriːn/  
-10. I know what you mean: tôi hiểu ý bạn /aɪ nəʊ wɒt juː miːn/  
-11. great news for us: tin tốt cho chúng ta /ɡreɪt njuːz fɔːr ʌs/  
-12. 3D contact lenses: kính áp tròng 3D /θriː diː ˈkɒntækt ˈlenzɪz/  
-13. soon: (adv) sớm, chẳng bao lâu nữa /suːn/  
-14. available: (adj) có sẵn, khả dụng /əˈveɪləbl/  
-15. helpful invention: phát minh hữu ích /ˈhelpfʊl ɪnˈvenʃn/  
-16. get ill: bị ốm /ɡet ɪl/  
-17. be able to: có thể /bi ˈeɪbl tuː/  
-18. mark our work: chấm bài của chúng ta /mɑːk ˈaʊə wɜːk/  
-19. give us feedback: cho chúng ta phản hồi /ɡɪv ʌs ˈfiːdbæk/  
-20. fantastic: (adj) tuyệt vời, tuyệt diệu /fænˈtæstɪk/
+1. **yesterday's lesson** : bài học hôm qua /ˈjestədeɪz ˈlesn/
+2. **face-to-face classes** : các lớp học trực tiếp /feɪs tə feɪs ˈklɑːsɪz/
+3. **convenient** : (adj) thuận tiện, tiện lợi /kənˈviːniənt/
+4. **epidemics** : (n) dịch bệnh /ˌepɪˈdemɪks/
+5. **interact** : (v) tương tác /ˌɪntərˈækt/
+6. **breakout room** : phòng thảo luận nhóm nhỏ /ˈbreɪkaʊt ruːm/
+7. **enough** : (adj/adv) đủ /ɪˈnʌf/
+8. **in front of** : trước mặt /ɪn frʌnt ɒv/
+9. **computer screen** : màn hình máy tính /kəmˈpjuːtə skriːn/
+10. **I know what you mean** : tôi hiểu ý bạn /aɪ nəʊ wɒt juː miːn/
+11. **great news for us** : tin tốt cho chúng ta /ɡreɪt njuːz fɔːr ʌs/
+12. **3D contact lenses** : kính áp tròng 3D /θriː diː ˈkɒntækt ˈlenzɪz/
+13. **soon** : (adv) sớm, chẳng bao lâu nữa /suːn/
+14. **available** : (adj) có sẵn, khả dụng /əˈveɪləbl/
+15. **helpful invention** : phát minh hữu ích /ˈhelpfʊl ɪnˈvenʃn/
+16. **get ill** : bị ốm /ɡet ɪl/
+17. **be able to** : có thể /bi ˈeɪbl tuː/
+18. **mark our work** : chấm bài của chúng ta /mɑːk ˈaʊə wɜːk/
+19. **give us feedback** : cho chúng ta phản hồi /ɡɪv ʌs ˈfiːdbæk/
+20. **fantastic** : (adj) tuyệt vời, tuyệt diệu /fænˈtæstɪk/
 
 Minh: Ann, bạn có thích buổi học hôm qua không? Tôi rất thích học trực tuyến.
 
@@ -105,33 +105,33 @@ Mình có thể vừa đeo kính áp tròng 3 chiều và xem phim không?
 
 **Vocabulary** 
 
-1. face recognition: nhận dạng khuôn mặt /feɪs ˌrekəɡˈnɪʃən/
+1. **face recognition** : nhận dạng khuôn mặt /feɪs ˌrekəɡˈnɪʃən/
 
-2. video conferencing: hội nghị truyền hình /ˈvɪdiəʊ ˈkɒnfərənsɪŋ/
+2. **video conferencing** : hội nghị truyền hình /ˈvɪdiəʊ ˈkɒnfərənsɪŋ/
 
-3. fingerprint scanner: máy quét vân tay /ˈfɪŋɡəprɪnt ˈskænə/
+3. **fingerprint scanner** : máy quét vân tay /ˈfɪŋɡəprɪnt ˈskænə/
 
-4. experiment: (n) thí nghiệm, cuộc thử nghiệm; (v) thực hiện thí nghiệm /ɪkˈsperɪmənt/
+4. **experiment** : (n) thí nghiệm, cuộc thử nghiệm; (v) thực hiện thí nghiệm /ɪkˈsperɪmənt/
 
-5. eye-tracking: theo dõi mắt /ˈaɪ ˌtrækɪŋ/
+5. **eye-tracking** : theo dõi mắt /ˈaɪ ˌtrækɪŋ/
 
-6. digital communication: giao tiếp kỹ thuật số /ˈdɪdʒɪtl kəˌmjuːnɪˈkeɪʃən/
+6. **digital communication** : giao tiếp kỹ thuật số /ˈdɪdʒɪtl kəˌmjuːnɪˈkeɪʃən/
 
-7. discover \- discovered \- discovered: (v) khám phá, phát hiện /dɪˈskʌvə/
+7. **discover \- discovered \- discovered** : (v) khám phá, phát hiện /dɪˈskʌvə/
 
-8. invent \- invented \- invented: (v) phát minh, sáng chế /ɪnˈvent/
+8. **invent \- invented \- invented** : (v) phát minh, sáng chế /ɪnˈvent/
 
-9. create \- created \- created: (v) tạo ra, sáng tạo /kriˈeɪt/
+9. **create \- created \- created** : (v) tạo ra, sáng tạo /kriˈeɪt/
 
-10. experiment: (n) thí nghiệm, cuộc thử nghiệm; (v) thực hiện thí nghiệm /ɪkˈsperɪmənt/
+10. **experiment** : (n) thí nghiệm, cuộc thử nghiệm; (v) thực hiện thí nghiệm /ɪkˈsperɪmənt/
 
-11. carry out \- carried out \- carried out: (v) thực hiện, tiến hành /ˈkæri aʊt/
+11. **carry out \- carried out \- carried out** : (v) thực hiện, tiến hành /ˈkæri aʊt/
 
-12. fingerprint scanner: máy quét vân tay /ˈfɪŋɡəprɪnt ˈskænə/
+12. **fingerprint scanner** : máy quét vân tay /ˈfɪŋɡəprɪnt ˈskænə/
 
-13. check attendance: điểm danh, kiểm tra sự có mặt /tʃek əˈtendəns/
+13. **check attendance** : điểm danh, kiểm tra sự có mặt /tʃek əˈtendəns/
 
-14. a cure for cancer: thuốc chữa bệnh ung thư /ə kjʊə fɔː ˈkænsə/
+14. **a cure for cancer** : thuốc chữa bệnh ung thư /ə kjʊə fɔː ˈkænsə/
 
 **Bài 1 trang 16** 
 
@@ -369,20 +369,20 @@ Câu tường thuật là cách chúng ta thuật lại lời nói của ngườ
 
 **Vocabulary** 
 
-1.   great news for us: tin tuyệt vời cho chúng ta /ɡreɪt njuːz fɔː(r) ʌs/  
-2. great: (adj) tuyệt vời, to lớn, vĩ đại /ɡreɪt/  
-3. congratulations: (n) lời chúc mừng, sự chúc mừng /kənˌɡrætʃʊˈleɪʃnz/  
-4. vending machine: (n) máy bán hàng tự động /ˈvendɪŋ məˈʃiːn/  
-5. complain: (v) phàn nàn, than phiền /kəmˈpleɪn/  
-6. poor connection: kết nối kém /pʊə(r) kəˈnekʃn/  
-7. video conferencing: hội nghị truyền hình /ˈvɪdiəʊ ˈkɒnfərənsɪŋ/  
-8. convenient: (adj) thuận tiện, tiện lợi /kənˈviːniənt/  
-9. independent: (adj) độc lập, tự lập /ˌɪndɪˈpendənt/  
-10. share ideas: chia sẻ ý tưởng /ʃeə(r) aɪˈdɪəz/  
+1. **great news for us** : tin tuyệt vời cho chúng ta /ɡreɪt njuːz fɔː(r) ʌs/
+2. **great** : (adj) tuyệt vời, to lớn, vĩ đại /ɡreɪt/
+3. **congratulations** : (n) lời chúc mừng, sự chúc mừng /kənˌɡrætʃʊˈleɪʃnz/
+4. **vending machine** : (n) máy bán hàng tự động /ˈvendɪŋ məˈʃiːn/
+5. **complain** : (v) phàn nàn, than phiền /kəmˈpleɪn/
+6. **poor connection** : kết nối kém /pʊə(r) kəˈnekʃn/
+7. **video conferencing** : hội nghị truyền hình /ˈvɪdiəʊ ˈkɒnfərənsɪŋ/
+8. **convenient** : (adj) thuận tiện, tiện lợi /kənˈviːniənt/
+9. **independent** : (adj) độc lập, tự lập /ˌɪndɪˈpendənt/
+10. **share ideas** : chia sẻ ý tưởng /ʃeə(r) aɪˈdɪəz/
 11. breakout room: phòng họp nhỏ (trong cuộc họp trực tuyến) /ˈbreɪkaʊt ruːm/  
-12. avoid: (v) tránh, tránh né /əˈvɔɪd/  
-13. high security: an ninh cao /haɪ sɪˈkjʊərəti/  
-14. multi-functional: (adj) đa chức năng /ˌmʌltiˈfʌŋkʃənl/
+12. **avoid** : (v) tránh, tránh né /əˈvɔɪd/
+13. **high security** : an ninh cao /haɪ sɪˈkjʊərəti/
+14. **multi-functional** : (adj) đa chức năng /ˌmʌltiˈfʌŋkʃənl/
 
 **Bài 1 trang 119** 
 
@@ -443,30 +443,30 @@ Nick: Tụi mình dùng Zoom để thảo luận và chia sẻ ý tưởng. Tụ
 
 **Vocabulary** 
 
-1. eye-tracking: (n) theo dõi chuyển động mắt /ˈaɪ ˌtrækɪŋ/  
-2. fingerprint scanner: (n) máy quét vân tay /ˈfɪŋɡəprɪnt ˈskænə(r)/  
-3. face recognition: (n) nhận diện khuôn mặt /feɪs ˌrekəɡˈnɪʃn/  
-4. biometrics: (n) sinh trắc học /ˌbaɪəʊˈmetrɪks/  
-5. truancy: (n) trốn học /ˈtruːənsi/  
-6. cheating: (n) gian lận /ˈtʃiːtɪŋ/  
-7. introduce: (v) giới thiệu, đưa vào /ˌɪntrəˈdjuːs/  
-8. voice recognition: (n) nhận diện giọng nói /vɔɪs ˌrekəɡˈnɪʃn/  
-9. technology: (n) công nghệ /tekˈnɒlədʒi/  
-10. check attendance: điểm danh /tʃek əˈtendəns/  
-11. no longer: không còn /nəʊ ˈlɒŋɡə(r)/  
-12. call students' names: gọi tên học sinh /kɔːl ˈstjuːdnts neɪmz/  
-13. absent: (adj) vắng mặt /ˈæbsənt/  
-14. borrow: (v) mượn /ˈbɒrəʊ/  
-15. equipment: (n) thiết bị, trang thiết bị /ɪˈkwɪpmənt/  
-16. motivate: (v) khuyến khích, tạo động lực /ˈməʊtɪveɪt/  
-17. understanding: (n) sự hiểu biết, sự thông cảm /ˌʌndəˈstændɪŋ/  
-18. nanolearning: (n) học tập siêu nhỏ (học theo các đơn vị nội dung ngắn) /ˈnænəʊˌlɜːnɪŋ/  
-19. tired of: mệt mỏi về, chán với /ˈtaɪəd ɒv/  
-20. concentrate: (v) tập trung /ˈkɒnsntreɪt/  
-21. frequently: (adv) thường xuyên /ˈfriːkwəntli/  
-22. solution: (n) giải pháp /səˈluːʃn/  
-23. a short period of time: một khoảng thời gian ngắn /ə ʃɔːt ˈpɪəriəd ɒv taɪm/  
-24. ability: (n) khả năng /əˈbɪləti/
+1. **eye-tracking** : (n) theo dõi chuyển động mắt /ˈaɪ ˌtrækɪŋ/
+2. **fingerprint scanner** : (n) máy quét vân tay /ˈfɪŋɡəprɪnt ˈskænə(r)/
+3. **face recognition** : (n) nhận diện khuôn mặt /feɪs ˌrekəɡˈnɪʃn/
+4. **biometrics** : (n) sinh trắc học /ˌbaɪəʊˈmetrɪks/
+5. **truancy** : (n) trốn học /ˈtruːənsi/
+6. **cheating** : (n) gian lận /ˈtʃiːtɪŋ/
+7. **introduce** : (v) giới thiệu, đưa vào /ˌɪntrəˈdjuːs/
+8. **voice recognition** : (n) nhận diện giọng nói /vɔɪs ˌrekəɡˈnɪʃn/
+9. **technology** : (n) công nghệ /tekˈnɒlədʒi/
+10. **check attendance** : điểm danh /tʃek əˈtendəns/
+11. **no longer** : không còn /nəʊ ˈlɒŋɡə(r)/
+12. **call students' names** : gọi tên học sinh /kɔːl ˈstjuːdnts neɪmz/
+13. **absent** : (adj) vắng mặt /ˈæbsənt/
+14. **borrow** : (v) mượn /ˈbɒrəʊ/
+15. **equipment** : (n) thiết bị, trang thiết bị /ɪˈkwɪpmənt/
+16. **motivate** : (v) khuyến khích, tạo động lực /ˈməʊtɪveɪt/
+17. **understanding** : (n) sự hiểu biết, sự thông cảm /ˌʌndəˈstændɪŋ/
+18. **nanolearning** : (n) học tập siêu nhỏ (học theo các đơn vị nội dung ngắn) /ˈnænəʊˌlɜːnɪŋ/
+19. **tired of** : mệt mỏi về, chán với /ˈtaɪəd ɒv/
+20. **concentrate** : (v) tập trung /ˈkɒnsntreɪt/
+21. **frequently** : (adv) thường xuyên /ˈfriːkwəntli/
+22. **solution** : (n) giải pháp /səˈluːʃn/
+23. **a short period of time** : một khoảng thời gian ngắn /ə ʃɔːt ˈpɪəriəd ɒv taɪm/
+24. **ability** : (n) khả năng /əˈbɪləti/
 
 Sinh trắc học
 

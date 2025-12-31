@@ -6,21 +6,21 @@
 
 **Vocabulary** 
 
-1. Harry Potter and the Sorcerer's Stone: Harry Potter và Hòn đá phù thủy /ˈhæri ˈpɒtər ænd ðə ˈsɔːsərəz stəʊn/  
-2. director: (n) đạo diễn /dɪˈrektə/  
-3. film series: loạt phim /fɪlm ˈsɪəriːz/  
-4. tell the story of someone: kể câu chuyện về ai đó /tel ðə ˈstɔːri əv ˈsʌmwʌn/  
-5. a powerful wizard: một phù thủy quyền năng /ə ˈpaʊəfəl ˈwɪzəd/  
-6. learn about oneself: tìm hiểu về bản thân /lɜːn əˈbaʊt wʌnˈself/  
-7. bad things happening around someone: những điều xấu xảy ra xung quanh ai đó /bæd θɪŋz ˈhæpənɪŋ əˈraʊnd ˈsʌmwʌn/  
-8. a must-see for teens: một bộ phim không thể bỏ qua dành cho thiếu niên /ə mʌst siː fə tiːnz/  
-9. gripping: (adj) lôi cuốn /ˈɡrɪpɪŋ/  
-10. agree: (v) đồng ý /əˈɡriː/  
-11. receive a lot of reviews: nhận được nhiều đánh giá /rɪˈsiːv ə lɒt əv rɪˈvjuːz/  
-12. the acting is excellent: diễn xuất xuất sắc /ði ˈæktɪŋ ɪz ˈeksələnt/  
-13. at times: đôi khi /æt taɪmz/  
-14. frightening: (adj) đáng sợ /ˈfraɪtənɪŋ/  
-15. full of action: đầy hành động /fʊl əv ˈækʃən/ 
+1. **Harry Potter and the Sorcerer's Stone** : Harry Potter và Hòn đá phù thủy /ˈhæri ˈpɒtər ænd ðə ˈsɔːsərəz stəʊn/
+2. **director** : (n) đạo diễn /dɪˈrektə/
+3. **film series** : loạt phim /fɪlm ˈsɪəriːz/
+4. **tell the story of someone** : kể câu chuyện về ai đó /tel ðə ˈstɔːri əv ˈsʌmwʌn/
+5. **a powerful wizard** : một phù thủy quyền năng /ə ˈpaʊəfəl ˈwɪzəd/
+6. **learn about oneself** : tìm hiểu về bản thân /lɜːn əˈbaʊt wʌnˈself/
+7. **bad things happening around someone** : những điều xấu xảy ra xung quanh ai đó /bæd θɪŋz ˈhæpənɪŋ əˈraʊnd ˈsʌmwʌn/
+8. **a must-see for teens** : một bộ phim không thể bỏ qua dành cho thiếu niên /ə mʌst siː fə tiːnz/
+9. **gripping** : (adj) lôi cuốn /ˈɡrɪpɪŋ/
+10. **agree** : (v) đồng ý /əˈɡriː/
+11. **receive a lot of reviews** : nhận được nhiều đánh giá /rɪˈsiːv ə lɒt əv rɪˈvjuːz/
+12. **the acting is excellent** : diễn xuất xuất sắc /ði ˈæktɪŋ ɪz ˈeksələnt/
+13. **at times** : đôi khi /æt taɪmz/
+14. **frightening** : (adj) đáng sợ /ˈfraɪtənɪŋ/
+15. **full of action** : đầy hành động /fʊl əv ˈækʃən/
 
 Thứ Hai, ngày 20 tháng 4
 

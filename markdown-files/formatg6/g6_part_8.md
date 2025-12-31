@@ -3,23 +3,23 @@
 ## GETTING STARTED   
 **Vocabulary** 
 
-1. gym: (n) phòng tập thể dục /dʒɪm/  
-2. this gym is big: phòng tập này rộng /ðɪs dʒɪm ɪz bɪɡ/  
-3. equipment: (n) thiết bị, dụng cụ /ɪˈkwɪpmənt/  
-4. great: (adj) tuyệt vời, xuất sắc /ɡreɪt/  
-5. sports: (n) thể thao /spɔːts/  
-6. do sports: chơi thể thao /duː spɔːts/  
-7. do karate: tập karate /duː kəˈrɑːti/  
-8. play table tennis: chơi bóng bàn /pleɪ ˈteɪbl ˈtenɪs/  
-9. yesterday: (n)(adv) hôm qua /ˈjestədeɪ/  
-10. congratulations\!: (interj) xin chúc mừng\! /kənˌɡrætʃʊˈleɪʃnz/  
-11. look fit: trông khỏe mạnh /lʊk fɪt/  
+1. **gym** : (n) phòng tập thể dục /dʒɪm/
+2. **this gym is big** : phòng tập này rộng /ðɪs dʒɪm ɪz bɪɡ/
+3. **equipment** : (n) thiết bị, dụng cụ /ɪˈkwɪpmənt/
+4. **great** : (adj) tuyệt vời, xuất sắc /ɡreɪt/
+5. **sports** : (n) thể thao /spɔːts/
+6. **do sports** : chơi thể thao /duː spɔːts/
+7. **do karate** : tập karate /duː kəˈrɑːti/
+8. **play table tennis** : chơi bóng bàn /pleɪ ˈteɪbl ˈtenɪs/
+9. **yesterday** : (n) (adv) hôm qua /ˈjestədeɪ/
+10. **congratulations\!** : (interj) xin chúc mừng\! /kənˌɡrætʃʊˈleɪʃnz/
+11. **look fit** : trông khỏe mạnh /lʊk fɪt/
 12. am/is/are good at \+ noun: giỏi về (một môn gì đó) /ɑːm/ɪz/ɑː ɡʊd æt/  
-13. have an idea: có một ý tưởng /hæv ən aɪˈdɪə/  
-14. go to karate club: đi đến câu lạc bộ karate /ɡəʊ tuː kəˈrɑːti klʌb/  
-15. meet you there: gặp bạn ở đó /miːt juː ðeə/  
-16. see you then: hẹn gặp lại /siː juː ðen/  
-17. you can cycle there: bạn có thể đạp xe đến đó /juː kæn ˈsaɪkl ðeə/
+13. **have an idea** : có một ý tưởng /hæv ən aɪˈdɪə/
+14. **go to karate club** : đi đến câu lạc bộ karate /ɡəʊ tuː kəˈrɑːti klʌb/
+15. **meet you there** : gặp bạn ở đó /miːt juː ðeə/
+16. **see you then** : hẹn gặp lại /siː juː ðen/
+17. **you can cycle there** : bạn có thể đạp xe đến đó /juː kæn ˈsaɪkl ðeə/
 
 **Dương**: Wow\! Phòng tập này to quá\!  
 **Mai**: Ừ. Thiết bị ở đây rất tốt. Bạn chơi môn thể thao gì vậy, Dương?  
@@ -43,29 +43,29 @@
 
 **Bài 3 trang 17** 
 
-1. chess: (n) cờ vua /tʃes/  
-2. aerobics: (n) thể dục nhịp điệu /eəˈrəʊbɪks/  
-3. table tennis: bóng bàn /ˈteɪbl ˌtenɪs/  
-4. swimming: (n) bơi lội /ˈswɪmɪŋ/  
-5. cycling: (n) đạp xe /ˈsaɪklɪŋ/  
-6. volleyball: (n) bóng chuyền /ˈvɒlibɔːl/
+1. **chess** : (n) cờ vua /tʃes/
+2. **aerobics** : (n) thể dục nhịp điệu /eəˈrəʊbɪks/
+3. **table tennis** : bóng bàn /ˈteɪbl ˌtenɪs/
+4. **swimming** : (n) bơi lội /ˈswɪmɪŋ/
+5. **cycling** : (n) đạp xe /ˈsaɪklɪŋ/
+6. **volleyball** : (n) bóng chuyền /ˈvɒlibɔːl/
 
 **A CLOSER LOOK 1**   
 **Vocabulary** 
 
-1. ball: (n) quả bóng /bɔːl/  
-2. boat: (n) thuyền /bəʊt/  
-3. racket: (n) vợt /ˈrækɪt/  
-4. goggles: (n) kính bơi /ˈɡɒɡlz/  
-5. sport shoes: giày thể thao /spɔːt ʃuːz/  
-6. boating: (n) chèo thuyền /ˈbəʊtɪŋ/  
-7. ball games: các môn thể thao có bóng /bɔːl ɡeɪmz/  
-8. badminton: (n) cầu lông /ˈbædmɪntən/  
-9. champion: (n) nhà vô địch /ˈtʃæmpiən/  
-10. competition: (n) cuộc thi đấu, sự cạnh tranh /ˌkɒmpəˈtɪʃn/  
-11. sporty: (adj) thể thao, năng động /ˈspɔːti/  
-12. marathon: (n) chạy marathon /ˈmærəθən/  
-13. congratulations: (interj) xin chúc mừng /kənˌɡrætʃʊˈleɪʃnz/
+1. **ball** : (n) quả bóng /bɔːl/
+2. **boat** : (n) thuyền /bəʊt/
+3. **racket** : (n) vợt /ˈrækɪt/
+4. **goggles** : (n) kính bơi /ˈɡɒɡlz/
+5. **sport shoes** : giày thể thao /spɔːt ʃuːz/
+6. **boating** : (n) chèo thuyền /ˈbəʊtɪŋ/
+7. **ball games** : các môn thể thao có bóng /bɔːl ɡeɪmz/
+8. **badminton** : (n) cầu lông /ˈbædmɪntən/
+9. **champion** : (n) nhà vô địch /ˈtʃæmpiən/
+10. **competition** : (n) cuộc thi đấu, sự cạnh tranh /ˌkɒmpəˈtɪʃn/
+11. **sporty** : (adj) thể thao, năng động /ˈspɔːti/
+12. **marathon** : (n) chạy marathon /ˈmærəθən/
+13. **congratulations** : (interj) xin chúc mừng /kənˌɡrætʃʊˈleɪʃnz/
 
 **Bài 1 trang 18** 
 
@@ -218,26 +218,26 @@ Trả lời: Thank you.
 
 **Vocabulary** 
 
-1. PE teacher: (n) giáo viên thể dục /piː iː ˈtiːtʃə/  
-2. talk about: nói về, thảo luận về /tɔːk əˈbaʊt/  
-3. know: (v) biết, nhận biết, quen biết /nəʊ/  
-4. the best footballer of all time: cầu thủ bóng đá xuất sắc nhất mọi thời đại /ðə best ˈfʊtbɔːlər əv ɔːl taɪm/  
-5. was born: được sinh ra /wəz bɔːn/  
-6. teach \- taught \- taught: (v) dạy, giảng dạy /tiːtʃ \- tɔːt \- tɔːt/  
-7. win \- won \- won: (v) chiến thắng, thắng /wɪn \- wʌn \- wʌn/  
-8. begin \- began \- begun: (v) bắt đầu /bɪˈɡɪn \- bɪˈɡæn \- bɪˈɡʌn/  
-9. begin career: bắt đầu sự nghiệp /bɪˈɡɪn kəˈrɪə/  
-10. start \+ Ving: bắt đầu làm gì /stɑːt/  
-11. score goals: ghi bàn thắng /skɔː ɡəʊlz/  
-12. goal: (n) bàn thắng, mục tiêu /ɡəʊl/  
-13. around the world: khắp thế giới /əˈraʊnd ðə wɜːld/  
-14. at a very young age: ở độ tuổi rất trẻ /ət ə ˈveri jʌŋ eɪdʒ/  
-15. today: hôm nay   
-16. be going to: dự định   
-17. think: nghĩ   
-18. his: của anh ấy   
-19. him: anh ấy  
-20. right: đúng 
+1. **PE teacher** : (n) giáo viên thể dục /piː iː ˈtiːtʃə/
+2. **talk about** : nói về, thảo luận về /tɔːk əˈbaʊt/
+3. **know** : (v) biết, nhận biết, quen biết /nəʊ/
+4. **the best footballer of all time** : cầu thủ bóng đá xuất sắc nhất mọi thời đại /ðə best ˈfʊtbɔːlər əv ɔːl taɪm/
+5. **was born** : được sinh ra /wəz bɔːn/
+6. **teach \- taught \- taught** : (v) dạy, giảng dạy /tiːtʃ \- tɔːt \- tɔːt/
+7. **win \- won \- won** : (v) chiến thắng, thắng /wɪn \- wʌn \- wʌn/
+8. **begin \- began \- begun** : (v) bắt đầu /bɪˈɡɪn \- bɪˈɡæn \- bɪˈɡʌn/
+9. **begin career** : bắt đầu sự nghiệp /bɪˈɡɪn kəˈrɪə/
+10. **start \+ Ving** : bắt đầu làm gì /stɑːt/
+11. **score goals** : ghi bàn thắng /skɔː ɡəʊlz/
+12. **goal** : (n) bàn thắng, mục tiêu /ɡəʊl/
+13. **around the world** : khắp thế giới /əˈraʊnd ðə wɜːld/
+14. **at a very young age** : ở độ tuổi rất trẻ /ət ə ˈveri jʌŋ eɪdʒ/
+15. **today** : hôm nay
+16. **be going to** : dự định
+17. **think** : nghĩ
+18. **his** : của anh ấy
+19. **him** : anh ấy
+20. **right** : đúng
 
 **Bảy đại từ nhân xưng** 
 
@@ -517,13 +517,13 @@ Giáo viên: Đúng vậy, và ông ấy được biết đến trên toàn th�
 
 **Vocabulary** 
 
-1. sportsman: (n) vận động viên /ˈspɔːtsmən/  
-2. shooting: (n) bắn súng /ˈʃuːtɪŋ/  
-3. competition: (n) cuộc thi /ˌkɒmpəˈtɪʃn/  
-4. medal: (n) huy chương /ˈmedl/  
-5. golfer: (n) người chơi golf /ˈɡɒlfə(r)/  
-6. tournament: (n) giải đấu /ˈtɔːnəmənt/  
-7. champion: (n) nhà vô địch /ˈtʃæmpiən/
+1. **sportsman** : (n) vận động viên /ˈspɔːtsmən/
+2. **shooting** : (n) bắn súng /ˈʃuːtɪŋ/
+3. **competition** : (n) cuộc thi /ˌkɒmpəˈtɪʃn/
+4. **medal** : (n) huy chương /ˈmedl/
+5. **golfer** : (n) người chơi golf /ˈɡɒlfə(r)/
+6. **tournament** : (n) giải đấu /ˈtɔːnəmənt/
+7. **champion** : (n) nhà vô địch /ˈtʃæmpiən/
 
 Hoàng Giang \- Vận động viên bắn súng số 1
 
@@ -555,14 +555,14 @@ Her name is Jenny Green. She was born in 1972 in Greenland. She plays golf. She 
 
 **Vocabulary**
 
-1. play volleyball: chơi bóng chuyền /pleɪ ˈvɒlɪbɔːl/  
-2. go cycling: đi xe đạp /gəʊ ˈsaɪklɪŋ/  
-3. at the weekend: vào cuối tuần /æt ðə ˈwiːkend/  
-4. favourite sport: môn thể thao yêu thích /ˈfeɪvərɪt spɔːt/  
-5. strong: (adj) khỏe, mạnh mẽ /strɒŋ/  
-6. confident: (adj) tự tin /ˈkɒnfɪdənt/  
-7. create a new computer game: tạo một trò chơi máy tính mới /kriˈeɪt ə njuː kəmˈpjuːtə geɪm/  
-8. one day: một ngày nào đó /wʌn deɪ/ 
+1. **play volleyball** : chơi bóng chuyền /pleɪ ˈvɒlɪbɔːl/
+2. **go cycling** : đi xe đạp /gəʊ ˈsaɪklɪŋ/
+3. **at the weekend** : vào cuối tuần /æt ðə ˈwiːkend/
+4. **favourite sport** : môn thể thao yêu thích /ˈfeɪvərɪt spɔːt/
+5. **strong** : (adj) khỏe, mạnh mẽ /strɒŋ/
+6. **confident** : (adj) tự tin /ˈkɒnfɪdənt/
+7. **create a new computer game** : tạo một trò chơi máy tính mới /kriˈeɪt ə njuː kəmˈpjuːtə geɪm/
+8. **one day** : một ngày nào đó /wʌn deɪ/
 
 **Bài 1 trang 23**   
 They are about Hai and Alice and what they do in their free time.   

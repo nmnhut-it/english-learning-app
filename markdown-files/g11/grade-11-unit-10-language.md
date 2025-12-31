@@ -29,45 +29,45 @@
 ### Exercise 1: Listen to these conversations
 Pay attention to the intonation of the question tags. Then practise saying them in pairs.
 
-1. A: So, we need to protect local ecosystems, don't we? ↘
+1. **A** : So, we need to protect local ecosystems, don't we? ↘
    B: Yes, we do.
 
-2. A: You'll take the books back to the library, won't you? ↗
+2. **A** : You'll take the books back to the library, won't you? ↗
    B: OK, I'll do that tomorrow.
 
-3. A: We don't want our planet to lose biodiversity, do we? ↘
+3. **A** : We don't want our planet to lose biodiversity, do we? ↘
    B: No, we don't.
 
-4. A: An ecosystem is a community of living things, isn't it? ↗
+4. **A** : An ecosystem is a community of living things, isn't it? ↗
    B: No, it isn't. It's a community of both living and non-living things.
 
-5. A: You went to Cuc Phuong National Park last weekend, didn't you? ↘
+5. **A** : You went to Cuc Phuong National Park last weekend, didn't you? ↘
    B: Yes, I did.
 
 ### Exercise 2: Mark the intonation in question tags
 Mark the intonation in the question tags, using rising intonation or falling intonation. Then listen and check. Practise saying the conversations in pairs.
 
-1. A: Sorry, I didn't hear my alarm this morning.
+1. **A** : Sorry, I didn't hear my alarm this morning.
    B: So, you were late again, weren't you?
 
-2. A: I couldn't watch the match last night. We won, didn't we?
+2. **A** : I couldn't watch the match last night. We won, didn't we?
    B: Yes, we did.
 
-3. A: There are several ecosystems that can be found in Viet Nam.
+3. **A** : There are several ecosystems that can be found in Viet Nam.
    B: Yes. Viet Nam is biologically diverse, isn't it?
 
-4. A: We are running out of fossil fuels, aren't we?
+4. **A** : We are running out of fossil fuels, aren't we?
    B: Yes, we are. We should find more alternative sources of energy.
 
-5. A: People should stop damaging the environment, shouldn't they?
+5. **A** : People should stop damaging the environment, shouldn't they?
    B: Yes, I agree with you.
 
 #### Answer Key:
-1. B: So, you were late again, weren't you? ↘
-2. A: We won, didn't we? ↗
-3. B: Viet Nam is biologically diverse, isn't it? ↗
-4. A: We are running out of fossil fuels, aren't we? ↘
-5. A: People should stop damaging the environment, shouldn't they? ↘
+1. **B** : So, you were late again, weren't you? ↘
+2. **A** : We won, didn't we? ↗
+3. **B** : Viet Nam is biologically diverse, isn't it? ↗
+4. **A** : We are running out of fossil fuels, aren't we? ↘
+5. **A** : People should stop damaging the environment, shouldn't they? ↘
 
 ## Vocabulary: Plants and animals
 

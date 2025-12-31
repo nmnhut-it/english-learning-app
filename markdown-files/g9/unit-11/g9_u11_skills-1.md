@@ -3,26 +3,26 @@
 **SKILLS 1**   
 **Vocabulary**
 
-1. light: (adj) nhẹ, nhạt, sáng /laɪt/  
-2. self-portrait: chụp ảnh tự sướng /self ˈpɔːtreɪt/  
-3. feature: (n) tính năng, đặc điểm /ˈfiːtʃə/  
-4. right away: ngay lập tức /raɪt əˈweɪ/  
-5. camcorder: (n) máy quay phim /ˈkæmkɔːdə/  
-6. record: (v) ghi lại, thu âm /rɪˈkɔːd/  
-7. important moments: khoảnh khắc quan trọng /ɪmˈpɔːtənt ˈməʊmənts/  
-8. standard: (adj) tiêu chuẩn, thông thường /ˈstændəd/  
-9. keep you connected: giữ bạn kết nối /kiːp juː kəˈnektɪd/  
-10. through: (prep) thông qua, xuyên qua /θruː/  
-11. portable: (adj) có thể mang theo, di động /ˈpɔːtəbl/  
-12. fingertip: (n) đầu ngón tay /ˈfɪŋɡətɪp/  
-13. up to 24 hours: lên đến 24 giờ /ʌp tuː ˈtwenti fɔː ˈaʊəz/  
-14. supply: (v) cung cấp, cung ứng /səˈplaɪ/  
-15. smart window shade: rèm cửa sổ thông minh /smɑːt ˈwɪndəʊ ʃeɪd/  
-16. option: (n) lựa chọn, tùy chọn /ˈɒpʃn/  
-17. temperature: (n) nhiệt độ /ˈtemprətʃə/  
-18. additional privacy: sự riêng tư bổ sung /əˈdɪʃənl ˈprɪvəsi/  
-19. block out light: chặn ánh sáng /blɒk aʊt laɪt/  
-20. unwanted view: tầm nhìn không mong muốn /ʌnˈwɒntɪd vjuː/
+1. **light** : (adj) nhẹ, nhạt, sáng /laɪt/
+2. **self-portrait** : chụp ảnh tự sướng /self ˈpɔːtreɪt/
+3. **feature** : (n) tính năng, đặc điểm /ˈfiːtʃə/
+4. **right away** : ngay lập tức /raɪt əˈweɪ/
+5. **camcorder** : (n) máy quay phim /ˈkæmkɔːdə/
+6. **record** : (v) ghi lại, thu âm /rɪˈkɔːd/
+7. **important moments** : khoảnh khắc quan trọng /ɪmˈpɔːtənt ˈməʊmənts/
+8. **standard** : (adj) tiêu chuẩn, thông thường /ˈstændəd/
+9. **keep you connected** : giữ bạn kết nối /kiːp juː kəˈnektɪd/
+10. **through** : (prep) thông qua, xuyên qua /θruː/
+11. **portable** : (adj) có thể mang theo, di động /ˈpɔːtəbl/
+12. **fingertip** : (n) đầu ngón tay /ˈfɪŋɡətɪp/
+13. **up to 24 hours** : lên đến 24 giờ /ʌp tuː ˈtwenti fɔː ˈaʊəz/
+14. **supply** : (v) cung cấp, cung ứng /səˈplaɪ/
+15. **smart window shade** : rèm cửa sổ thông minh /smɑːt ˈwɪndəʊ ʃeɪd/
+16. **option** : (n) lựa chọn, tùy chọn /ˈɒpʃn/
+17. **temperature** : (n) nhiệt độ /ˈtemprətʃə/
+18. **additional privacy** : sự riêng tư bổ sung /əˈdɪʃənl ˈprɪvəsi/
+19. **block out light** : chặn ánh sáng /blɒk aʊt laɪt/
+20. **unwanted view** : tầm nhìn không mong muốn /ʌnˈwɒntɪd vjuː/
 
 Bạn có thể làm rất nhiều việc với chiếc điện thoại thông minh nhỏ này\! Chiếc điện thoại nhẹ, sành điệu này có tính năng tự chụp chân dung đặc biệt giúp bạn gửi những bức ảnh tuyệt vời về chính mình ngay lập tức. Máy quay của nó sẽ ghi lại những khoảnh khắc quan trọng, để bạn có thể chia sẻ chúng với bạn bè. Ngoài tin nhắn văn bản và cuộc gọi điện thoại tiêu chuẩn, nó có thể giúp bạn kết nối thông qua email, cuộc gọi video và các ứng dụng mạng xã hội.
 

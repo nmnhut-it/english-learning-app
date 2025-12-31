@@ -3,21 +3,21 @@ UNIT 10: PLANET EARTH**
 **GETTING STARTED**  
 **Vocabulary** 
 
-1. earth scientist: nhà khoa học Trái đất /ɜːθ ˈsaɪəntɪst/  
-2. look forward to \+ Ving: (v) trông mong, mong đợi /lʊk ˈfɔːwəd tuː/  
-3. the Solar System: (n) Hệ Mặt Trời /ðə ˈsəʊlə ˌsɪstəm/  
-4. Mercury: (n) sao Thủy /ˈmɜːkjʊri/  
-5. Venus: (n) sao Kim /ˈviːnəs/  
-6. system: (n) hệ thống /ˈsɪstəm/  
-7. outer space: không gian vũ trụ /ˈaʊtə speɪs/  
-8. flora and fauna: thực vật và động vật /ˈflɔːrə ənd ˈfɔːnə/  
-9. habitat: (n) môi trường sống /ˈhæbɪtæt/  
-10. role: (n) vai trò /rəʊl/  
-11. area: (n) khu vực /ˈeəriə/  
-12. observe: (v) quan sát /əbˈzɜːv/  
-13. landform: (n) địa hình /ˈlændfɔːm/  
-14. essential: (adj) thiết yếu, cần thiết /ɪˈsenʃl/  
-15. preserve: (v) bảo tồn, gìn giữ /prɪˈzɜːv/
+1. **earth scientist** : nhà khoa học Trái đất /ɜːθ ˈsaɪəntɪst/
+2. **look forward to \+ Ving** : (v) trông mong, mong đợi /lʊk ˈfɔːwəd tuː/
+3. **the Solar System** : (n) Hệ Mặt Trời /ðə ˈsəʊlə ˌsɪstəm/
+4. **Mercury** : (n) sao Thủy /ˈmɜːkjʊri/
+5. **Venus** : (n) sao Kim /ˈviːnəs/
+6. **system** : (n) hệ thống /ˈsɪstəm/
+7. **outer space** : không gian vũ trụ /ˈaʊtə speɪs/
+8. **flora and fauna** : thực vật và động vật /ˈflɔːrə ənd ˈfɔːnə/
+9. **habitat** : (n) môi trường sống /ˈhæbɪtæt/
+10. **role** : (n) vai trò /rəʊl/
+11. **area** : (n) khu vực /ˈeəriə/
+12. **observe** : (v) quan sát /əbˈzɜːv/
+13. **landform** : (n) địa hình /ˈlændfɔːm/
+14. **essential** : (adj) thiết yếu, cần thiết /ɪˈsenʃl/
+15. **preserve** : (v) bảo tồn, gìn giữ /prɪˈzɜːv/
 
 Trong câu lạc bộ khoa học  
 **Chủ tịch**: Chào mừng đến câu lạc bộ khoa học của chúng ta. Chủ đề hôm nay là hành tinh Trái Đất. Khách mời của chúng ta là ông An, một nhà khoa học Trái Đất.  
@@ -61,26 +61,26 @@ Trong câu lạc bộ khoa học
 **A CLOSER LOOK 1**   
 **Vocabulary** 
 
-1. habitat: (n) môi trường sống, nơi cư trú /ˈhæbɪtæt/  
-2. flora and fauna: hệ động thực vật /ˈflɔːrə ænd ˈfɔːnə/  
-3. grassland: (n) đồng cỏ /ˈɡrɑːslənd/  
-4. natural reserves: khu bảo tồn thiên nhiên /ˈnætʃrəl rɪˈzɜːvz/  
-5. food chain: chuỗi thức ăn /fuːd tʃeɪn/  
-6. poles: (n) cực /pəʊlz/  
-7. North Pole: Bắc Cực /nɔːθ pəʊl/  
-8. South Pole: Nam Cực /saʊθ pəʊl/  
-9. area: (n) khu vực, diện tích /ˈeəriə/  
-10. bamboo forest: rừng tre /ˌbæmˈbuː ˈfɒrɪst/  
-11. climate change: biến đổi khí hậu /ˈklaɪmət tʃeɪndʒ/  
-12. global warming: sự nóng lên toàn cầu /ˈɡləʊbəl ˈwɔːmɪŋ/  
-13. habitat loss: sự mất môi trường sống /ˈhæbɪtæt lɒs/  
-14. ecological balance: cân bằng sinh thái /ˌiːkəˈlɒdʒɪkəl ˈbæləns/  
-15. temperature: (n) nhiệt độ /ˈtemprətʃə/  
-16. face: (v) đối mặt, đương đầu /feɪs/  
-17. lend a hand to: giúp đỡ /lend ə hænd tuː/  
-18. hunt: (v) săn bắt /hʌnt/  
-19. preserve: (v) bảo tồn, gìn giữ /prɪˈzɜːv/  
-20. provide \- provided \- provided: (v) cung cấp, chu cấp /prəˈvaɪd \- prəˈvaɪdɪd \- prəˈvaɪdɪd/
+1. **habitat** : (n) môi trường sống, nơi cư trú /ˈhæbɪtæt/
+2. **flora and fauna** : hệ động thực vật /ˈflɔːrə ænd ˈfɔːnə/
+3. **grassland** : (n) đồng cỏ /ˈɡrɑːslənd/
+4. **natural reserves** : khu bảo tồn thiên nhiên /ˈnætʃrəl rɪˈzɜːvz/
+5. **food chain** : chuỗi thức ăn /fuːd tʃeɪn/
+6. **poles** : (n) cực /pəʊlz/
+7. **North Pole** : Bắc Cực /nɔːθ pəʊl/
+8. **South Pole** : Nam Cực /saʊθ pəʊl/
+9. **area** : (n) khu vực, diện tích /ˈeəriə/
+10. **bamboo forest** : rừng tre /ˌbæmˈbuː ˈfɒrɪst/
+11. **climate change** : biến đổi khí hậu /ˈklaɪmət tʃeɪndʒ/
+12. **global warming** : sự nóng lên toàn cầu /ˈɡləʊbəl ˈwɔːmɪŋ/
+13. **habitat loss** : sự mất môi trường sống /ˈhæbɪtæt lɒs/
+14. **ecological balance** : cân bằng sinh thái /ˌiːkəˈlɒdʒɪkəl ˈbæləns/
+15. **temperature** : (n) nhiệt độ /ˈtemprətʃə/
+16. **face** : (v) đối mặt, đương đầu /feɪs/
+17. **lend a hand to** : giúp đỡ /lend ə hænd tuː/
+18. **hunt** : (v) săn bắt /hʌnt/
+19. **preserve** : (v) bảo tồn, gìn giữ /prɪˈzɜːv/
+20. **provide \- provided \- provided** : (v) cung cấp, chu cấp /prəˈvaɪd \- prəˈvaɪdɪd \- prəˈvaɪdɪd/
 
 **Bài 1 trang 106** 
 
@@ -175,11 +175,11 @@ Mount Fansipan, which is the highest peak in Viet Nam, also called the 'Roof of 
 **COMMUNICATION**   
 **Vocabulary**
 
-1. why don't you give it a go?: thử làm xem sao /waɪ dəʊnt juː gɪv ɪt ə gəʊ/  
-2. OK, I'll think about that: được rồi, tôi sẽ suy nghĩ về điều đó /əʊˈkeɪ aɪl θɪŋk əˈbaʊt ðæt/  
-3. Yes, your contribution would really help us out: vâng, sự đóng góp của bạn thực sự sẽ giúp ích cho chúng tôi /jes jɔː kɒntrɪˈbjuːʃn wʊd ˈrɪəli help ʌs aʊt/  
-4. Alright, I'll make a contribution: được rồi, tôi sẽ đóng góp /ɔːlˈraɪt aɪl meɪk ə kɒntrɪˈbjuːʃn/  
-5. How do you feel about \+ Ving: bạn cảm thấy thế nào về việc \+ Ving /haʊ duː juː fiːl əˈbaʊt/
+1. **why don't you give it a go?** : thử làm xem sao /waɪ dəʊnt juː gɪv ɪt ə gəʊ/
+2. **OK, I'll think about that** : được rồi, tôi sẽ suy nghĩ về điều đó /əʊˈkeɪ aɪl θɪŋk əˈbaʊt ðæt/
+3. **Yes, your contribution would really help us out** : vâng, sự đóng góp của bạn thực sự sẽ giúp ích cho chúng tôi /jes jɔː kɒntrɪˈbjuːʃn wʊd ˈrɪəli help ʌs aʊt/
+4. **Alright, I'll make a contribution** : được rồi, tôi sẽ đóng góp /ɔːlˈraɪt aɪl meɪk ə kɒntrɪˈbjuːʃn/
+5. **How do you feel about \+ Ving** : bạn cảm thấy thế nào về việc \+ Ving /haʊ duː juː fiːl əˈbaʊt/
 
 **Bài 2 trang 108:** 
 
@@ -243,24 +243,24 @@ The main plants in grasslands are grasses, **while** polar habitats are covered 
 **SKILLS 1**  
 **Vocabulary** 
 
-1. essential part: phần thiết yếu /ɪˈsenʃəl pɑːt/  
-2. ecology: (n) sinh thái học /ɪˈkɒlədʒi/  
-3. speak about \+ N: nói về /spiːk əˈbaʊt/  
-4. refer to: (v) đề cập đến, ám chỉ /rɪˈfɜː tuː/  
-5. fascinating: (adj) hấp dẫn, cuốn hút /ˈfæsɪneɪtɪŋ/  
-6. beauty: (n) vẻ đẹp /ˈbjuːti/  
-7. due to: (prep) do, vì /djuː tuː/  
-8. significance: (n) ý nghĩa, tầm quan trọng /sɪɡˈnɪfɪkəns/  
-9. create an ecological balance: tạo ra sự cân bằng sinh thái /kriˈeɪt ən ˌiːkəˈlɒdʒɪkəl ˈbæləns/  
-10. making life possible for humans: làm cho cuộc sống con người trở nên khả thi /ˈmeɪkɪŋ laɪf ˈpɒsəbl fə ˈhjuːmənz/  
-11. rely on \+ something for something: phụ thuộc vào cái gì đó cho một mục đích nào đó /rɪˈlaɪ ɒn/  
-12. combine: (v) kết hợp /kəmˈbaɪn/  
-13. create a food chain: tạo ra chuỗi thức ăn /kriˈeɪt ə fuːd tʃeɪn/  
-14. play an important part: đóng vai trò quan trọng /pleɪ ən ɪmˈpɔːtənt pɑːt/  
-15. feed on \+ N: ăn, nuôi sống bằng /fiːd ɒn/  
-16. droppings: (n) phân (của động vật) /ˈdrɒpɪŋz/  
-17. fertiliser: (n) phân bón /ˈfɜːtəlaɪzə/  
-18. appreciate: (v) đánh giá cao, cảm kích /əˈpriːʃieɪt/
+1. **essential part** : phần thiết yếu /ɪˈsenʃəl pɑːt/
+2. **ecology** : (n) sinh thái học /ɪˈkɒlədʒi/
+3. **speak about \+ N** : nói về /spiːk əˈbaʊt/
+4. **refer to** : (v) đề cập đến, ám chỉ /rɪˈfɜː tuː/
+5. **fascinating** : (adj) hấp dẫn, cuốn hút /ˈfæsɪneɪtɪŋ/
+6. **beauty** : (n) vẻ đẹp /ˈbjuːti/
+7. **due to** : (prep) do, vì /djuː tuː/
+8. **significance** : (n) ý nghĩa, tầm quan trọng /sɪɡˈnɪfɪkəns/
+9. **create an ecological balance** : tạo ra sự cân bằng sinh thái /kriˈeɪt ən ˌiːkəˈlɒdʒɪkəl ˈbæləns/
+10. **making life possible for humans** : làm cho cuộc sống con người trở nên khả thi /ˈmeɪkɪŋ laɪf ˈpɒsəbl fə ˈhjuːmənz/
+11. **rely on \+ something for something** : phụ thuộc vào cái gì đó cho một mục đích nào đó /rɪˈlaɪ ɒn/
+12. **combine** : (v) kết hợp /kəmˈbaɪn/
+13. **create a food chain** : tạo ra chuỗi thức ăn /kriˈeɪt ə fuːd tʃeɪn/
+14. **play an important part** : đóng vai trò quan trọng /pleɪ ən ɪmˈpɔːtənt pɑːt/
+15. **feed on \+ N** : ăn, nuôi sống bằng /fiːd ɒn/
+16. **droppings** : (n) phân (của động vật) /ˈdrɒpɪŋz/
+17. **fertiliser** : (n) phân bón /ˈfɜːtəlaɪzə/
+18. **appreciate** : (v) đánh giá cao, cảm kích /əˈpriːʃieɪt/
 
 Thực vật và động vật là một phần thiết yếu trong hệ sinh thái Trái đất. Khi chúng ta nói về một môi trường sống và thời điểm cụ thể, chúng ta gọi chúng là hệ thực vật và hệ động vật. Flora chỉ thực vật và Fauna chỉ động vật. Chúng rất thú vị để nghiên cứu vì vẻ đẹp và tầm quan trọng của chúng đối với cuộc sống con người.
 
@@ -289,9 +289,9 @@ Tuy nhiên, thực vật và động vật đang đối mặt với mất môi t
 **Bài 4 trang 110**   
 **Vocabulary**
 
-1. threat: mối nguy hại, mối đe dọa   
-2. threaten: (v) đe dọa   
-3. kidnap: bắt cóc 
+1. **threat** : mối nguy hại, mối đe dọa
+2. **threaten** : (v) đe dọa
+3. **kidnap** : bắt cóc
 
 pollution → limit waste production/do not dump waste to the environment/treat wastewater before dumping into river
 
@@ -308,11 +308,11 @@ We can help by making safe places like nature parks for them to live. We should 
 **Listening**   
 **Vocabulary** 
 
-1. beaver: hải li /bí vờ/   
-2. dam: đập /dam/   
-3. specific: cụ thể   
-4. cause harm: gây hại   
-5. flood: (v) nhấn chìm 
+1. **beaver** : hải li /bí vờ/
+2. **dam** : đập /dam/
+3. **specific** : cụ thể
+4. **cause harm** : gây hại
+5. **flood** : (v) nhấn chìm
 
 **Bài 2 trang 111** 
 

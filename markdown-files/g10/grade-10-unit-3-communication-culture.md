@@ -5,14 +5,14 @@
 
 1. **ancient**: (adj) cổ xưa, cổ đại /ˈeɪnʃənt/
 1. **combine**: (v) kết hợp /kəmˈbaɪn/
-1. **performance art**: nghệ thuật biểu diễn /pəˈfɔːməns ɑːt/
+1. **performance art** : nghệ thuật biểu diễn /pəˈfɔːməns ɑːt/
 1. **spread - spread - spread**: (v) lan rộng, truyền bá /spred - spred - spred/
 1. **praise**: (v) ca ngợi, tán dương /preɪz/
 1. **worship**: (n) sự thờ cúng, tôn thờ; (v) thờ phượng /ˈwɜːʃɪp/
 1. **chant**: (v) tụng kinh, hát ru; (n) bài tụng /tʃɑːnt/
 1. **psychic**: (n) người có khả năng ngoại cảm /ˈsaɪkɪk/
-1. **moon-shaped lute**: đàn nguyệt /muːn ʃeɪpt luːt/
-1. **bamboo clapper**: phách tre /bæmˈbuː ˈklæpə/
+1. **moon-shaped lute** : đàn nguyệt /muːn ʃeɪpt luːt/
+1. **bamboo clapper** : phách tre /bæmˈbuː ˈklæpə/
 1. **gong**: (n) cồng chiêng /ɡɒŋ/
 1. **costume**: (n) trang phục biểu diễn /ˈkɒstjuːm/
 1. **rank**: (n) cấp bậc, địa vị /ræŋk/
@@ -20,7 +20,7 @@
 1. **performer**: (n) người biểu diễn /pəˈfɔːmə/
 1. **recognize**: (v) công nhận /ˈrekəɡnaɪz/
 1. **physics**: (n) vật lý học /ˈfɪzɪks/
-1. **national hero**: anh hùng dân tộc /ˈnæʃənəl ˈhɪərəʊ/
+1. **national hero** : anh hùng dân tộc /ˈnæʃənəl ˈhɪərəʊ/
 
 ## Everyday English
 

@@ -69,11 +69,11 @@ C. The club organises many volunteering activities that benefit both the communi
 | 5. delivering | e. collected money |
 
 #### Phương pháp giải:
-1. various (adj): đa dạng, nhiều
-2. participate (v): tham gia
-3. items (n): đồ vật
-4. raised (v): quyên góp, gây quỹ
-5. delivering (v): trao, gửi, cung cấp
+1. **various (adj)** : đa dạng, nhiều
+2. **participate (v)** : tham gia
+3. **items (n)** : đồ vật
+4. **raised (v)** : quyên góp, gây quỹ
+5. **delivering (v)** : trao, gửi, cung cấp
 
 #### Lời giải chi tiết:
 1. c - various - several different (đa dạng, nhiều – nhiều, khác nhau)

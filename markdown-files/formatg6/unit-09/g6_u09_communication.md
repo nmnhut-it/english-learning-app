@@ -48,23 +48,23 @@ Ví dụ: What fresh air\!
 **SKILLS**   
 **Vocabulary** 
 
-1. postcard: (n) bưu thiếp, thiệp /ˈpəʊstkɑːd/  
-2. fantastic: (adj) tuyệt vời, phi thường /fænˈtæstɪk/  
-3. perfect: (adj) hoàn hảo, tuyệt vời /ˈpɜːfɪkt/  
-4. sunny: (adj) nắng, đầy nắng /ˈsʌni/  
-5. all the time: luôn luôn, mọi lúc /ɔːl ðə taɪm/  
-6. offer: (v) đề nghị, cung cấp /ˈɒfə/  
-7. delicious breakfast: bữa sáng ngon /dɪˈlɪʃəs ˈbrekfəst/  
-8. cycle: (v) đạp xe, đi xe đạp /ˈsaɪkl/  
-9. Royal Palace: Cung điện Hoàng gia /ˈrɔɪəl ˈpæləs/  
-10. helmet: (n) mũ bảo hiểm /ˈhelmɪt/  
-11. wear \- wore \- worn: (v) mặc, đeo, sử dụng (quần áo, trang sức) /weə \- wɔː \- wɔːn/  
-12. Swedish art: nghệ thuật Thụy Điển /ˈswiːdɪʃ ɑːt/  
-13. coffee break: giờ giải lao uống cà phê /ˈkɒfi breɪk/  
-14. traditional café: quán cà phê truyền thống /trəˈdɪʃənl ˈkæfeɪ/  
-15. The Old Town: Phố cổ /ði əʊld taʊn/  
-16. landscape: (n) phong cảnh, cảnh quan /ˈlændskeɪp/  
-17. rent: (v) thuê, cho thuê /rent/
+1. **postcard** : (n) bưu thiếp, thiệp /ˈpəʊstkɑːd/
+2. **fantastic** : (adj) tuyệt vời, phi thường /fænˈtæstɪk/
+3. **perfect** : (adj) hoàn hảo, tuyệt vời /ˈpɜːfɪkt/
+4. **sunny** : (adj) nắng, đầy nắng /ˈsʌni/
+5. **all the time** : luôn luôn, mọi lúc /ɔːl ðə taɪm/
+6. **offer** : (v) đề nghị, cung cấp /ˈɒfə/
+7. **delicious breakfast** : bữa sáng ngon /dɪˈlɪʃəs ˈbrekfəst/
+8. **cycle** : (v) đạp xe, đi xe đạp /ˈsaɪkl/
+9. **Royal Palace** : Cung điện Hoàng gia /ˈrɔɪəl ˈpæləs/
+10. **helmet** : (n) mũ bảo hiểm /ˈhelmɪt/
+11. **wear \- wore \- worn** : (v) mặc, đeo, sử dụng (quần áo, trang sức) /weə \- wɔː \- wɔːn/
+12. **Swedish art** : nghệ thuật Thụy Điển /ˈswiːdɪʃ ɑːt/
+13. **coffee break** : giờ giải lao uống cà phê /ˈkɒfi breɪk/
+14. **traditional café** : quán cà phê truyền thống /trəˈdɪʃənl ˈkæfeɪ/
+15. **The Old Town** : Phố cổ /ði əʊld taʊn/
+16. **landscape** : (n) phong cảnh, cảnh quan /ˈlændskeɪp/
+17. **rent** : (v) thuê, cho thuê /rent/
 
 Ngày 6 tháng 9
 

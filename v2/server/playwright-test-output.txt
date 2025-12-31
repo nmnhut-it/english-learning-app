@@ -1,0 +1,15 @@
+
+Running 10 tests using 4 workers
+
+  ok  3 [chromium] › tests\e2e\vocabulary-game.spec.ts:70:7 › Vocabulary Game › should render canvas with correct dimensions (27.9s)
+  ok  1 [chromium] › tests\e2e\vocabulary-game.spec.ts:16:7 › Vocabulary Game › should load the game without errors (28.8s)
+  ok  4 [chromium] › tests\e2e\vocabulary-game.spec.ts:81:7 › Vocabulary Game › should show menu after boot scene (30.2s)
+  ok  2 [chromium] › tests\e2e\vocabulary-game.spec.ts:43:7 › Vocabulary Game › should display vocabulary loading message (33.2s)
+  ok  8 [chromium] › tests\e2e\vocabulary-game.spec.ts:146:7 › API Health Check › should return healthy status (88ms)
+  ok  9 [chromium] › tests\e2e\vocabulary-game.spec.ts:155:7 › API Health Check › should list classes endpoint (25ms)
+  ok 10 [chromium] › tests\e2e\vocabulary-game.spec.ts:163:7 › API Health Check › should access dashboard endpoint (37ms)
+  ok  6 [chromium] › tests\e2e\vocabulary-game.spec.ts:116:7 › Game Navigation › should handle game mode URL parameter (8.7s)
+  ok  7 [chromium] › tests\e2e\vocabulary-game.spec.ts:126:7 › Copy & Revise Mode › should navigate to Copy & Revise mode via keyboard (14.8s)
+  ok  5 [chromium] › tests\e2e\vocabulary-game.spec.ts:108:7 › Game Navigation › should navigate via URL parameters (19.7s)
+
+  10 passed (58.2s)

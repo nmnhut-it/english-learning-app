@@ -63,8 +63,8 @@
 
 **Bài 3 trang 51**
 
-1. d: cây trang trí  
-2. a: cây nêu   
+1. **d** : cây trang trí
+2. **a** : cây nêu
 3. vật dụng trang trí \- e   
 4. hoa đang nở rộ – b   
 5. nhà cộng đồng \- c 

@@ -4,27 +4,27 @@
 
 **Vocabulary** 
 
-1. surprised : (adj) ngạc nhiên /səˈpraɪzd/  
-2. knitting kit : (n) bộ đan len /ˈnɪtɪŋ kɪt/  
-3. keen on : (adj) thích /kiːn ɒn/  
-4. DIY activities : (n) các hoạt động tự làm /ˌdiː.aɪˈwaɪ ækˈtɪvɪtiz/  
-5. leisure time : (n) thời gian rảnh /ˈlɛʒə taɪm/  
-6. make paper flowers : (v) làm hoa giấy /ˈmeɪk ˈpeɪpə ˈflaʊəz/  
-7. spending time on your own : (v) dành thời gian một mình /ˈspɛndɪŋ taɪm ɒn jɔː əʊn/  
-8. free time : (n) thời gian rảnh /friː taɪm/  
-9. hang out with friends : (v) đi chơi với bạn bè /hæŋ aʊt wɪð frɛndz/  
-10. go to the cinema : (v) đi xem phim /ɡəʊ tuː ðə ˈsɪnɪmə/  
-11. go cycling : (v) đi xe đạp /ɡəʊ ˈsaɪklɪŋ/  
-12. play sport : (v) chơi thể thao /pleɪ spɔːt/  
-13. spend free time : (v) dành thời gian rảnh /ˈpɛnd friː taɪm/  
-14. new comedy : (n) phim hài mới /njuː ˈkɒmədi/  
-15. New World Cinema : (n) Rạp chiếu phim New World /njuː wɜːld ˈsɪnɪmə/  
-16. meet outside : (v) gặp bên ngoài /miːt ˈaʊtsaɪd/  
-17. join us : (v) tham gia với chúng tôi /ʤɔɪn ʌs/ ​​  
-18. doing puzzles : (n) giải câu đố /ˈduːɪŋ ˈpʌzlz/  
-19. surfing the net : (n) lướt web /ˈsɜːfɪŋ ðə nɛt/  
-20. cooking : (n) nấu ăn /ˈkʊkɪŋ/  
-21. messaging friends : (v) nhắn tin với bạn bè /ˈmɛsɪdʒɪŋ frɛndz/
+1. **surprised** : (adj) ngạc nhiên /səˈpraɪzd/
+2. **knitting kit** : (n) bộ đan len /ˈnɪtɪŋ kɪt/
+3. **keen on** : (adj) thích /kiːn ɒn/
+4. **DIY activities** : (n) các hoạt động tự làm /ˌdiː.aɪˈwaɪ ækˈtɪvɪtiz/
+5. **leisure time** : (n) thời gian rảnh /ˈlɛʒə taɪm/
+6. **make paper flowers** : (v) làm hoa giấy /ˈmeɪk ˈpeɪpə ˈflaʊəz/
+7. **spending time on your own** : (v) dành thời gian một mình /ˈspɛndɪŋ taɪm ɒn jɔː əʊn/
+8. **free time** : (n) thời gian rảnh /friː taɪm/
+9. **hang out with friends** : (v) đi chơi với bạn bè /hæŋ aʊt wɪð frɛndz/
+10. **go to the cinema** : (v) đi xem phim /ɡəʊ tuː ðə ˈsɪnɪmə/
+11. **go cycling** : (v) đi xe đạp /ɡəʊ ˈsaɪklɪŋ/
+12. **play sport** : (v) chơi thể thao /pleɪ spɔːt/
+13. **spend free time** : (v) dành thời gian rảnh /ˈpɛnd friː taɪm/
+14. **new comedy** : (n) phim hài mới /njuː ˈkɒmədi/
+15. **New World Cinema** : (n) Rạp chiếu phim New World /njuː wɜːld ˈsɪnɪmə/
+16. **meet outside** : (v) gặp bên ngoài /miːt ˈaʊtsaɪd/
+17. **join us** : (v) tham gia với chúng tôi /ʤɔɪn ʌs/ ​​
+18. **doing puzzles** : (n) giải câu đố /ˈduːɪŋ ˈpʌzlz/
+19. **surfing the net** : (n) lướt web /ˈsɜːfɪŋ ðə nɛt/
+20. **cooking** : (n) nấu ăn /ˈkʊkɪŋ/
+21. **messaging friends** : (v) nhắn tin với bạn bè /ˈmɛsɪdʒɪŋ frɛndz/
 
 Tom: Chào, Trang. Ngạc nhiên khi thấy bạn. Điều gì đưa bạn đến đây?
 

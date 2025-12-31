@@ -5,18 +5,18 @@
 
 ### New words
 
-1. population: (n) dân số /ˌpɒpjuˈleɪʃn/
-2. log in: (phr.v) đăng nhập /lɒɡ ɪn/
-3. account: (n) tài khoản /əˈkaʊnt/
-4. folder: (n) thư mục /ˈfəʊldə/
-5. reading passage: (n.phr) bài đọc /ˈriːdɪŋ ˈpæsɪdʒ/
-6. slide: (n) slide, trang trình chiếu /slaɪd/
-7. mindmap: (n) sơ đồ tư duy /ˈmaɪndmæp/
-8. impact: (n) tác động /ˈɪmpækt/
-9. environment: (n) môi trường /ɪnˈvaɪrənmənt/
-10. discover: (v) khám phá /dɪˈskʌvə/
-11. review: (v) ôn lại, xem lại /rɪˈvjuː/
-12. related to: (adj) liên quan đến /rɪˈleɪtɪd tuː/
+1. **population** : (n) dân số /ˌpɒpjuˈleɪʃn/
+2. **log in** : (phr.v) đăng nhập /lɒɡ ɪn/
+3. **account** : (n) tài khoản /əˈkaʊnt/
+4. **folder** : (n) thư mục /ˈfəʊldə/
+5. **reading passage** : (n.phr) bài đọc /ˈriːdɪŋ ˈpæsɪdʒ/
+6. **slide** : (n) slide, trang trình chiếu /slaɪd/
+7. **mindmap** : (n) sơ đồ tư duy /ˈmaɪndmæp/
+8. **impact** : (n) tác động /ˈɪmpækt/
+9. **environment** : (n) môi trường /ɪnˈvaɪrənmənt/
+10. **discover** : (v) khám phá /dɪˈskʌvə/
+11. **review** : (v) ôn lại, xem lại /rɪˈvjuː/
+12. **related to** : (adj) liên quan đến /rɪˈleɪtɪd tuː/
 
 ---
 
@@ -138,21 +138,21 @@ Theo quan điểm của tôi, học tập kết hợp hiệu quả hơn cách h�
 
 ## Vocabulary (Từ vựng)
 
-1. population: (n) dân số /ˌpɒpjuˈleɪʃn/
-2. population growth: (n.phr) sự gia tăng dân số /ˌpɒpjuˈleɪʃn ɡrəʊθ/
-3. log in: (phr.v) đăng nhập /lɒɡ ɪn/
-4. account: (n) tài khoản /əˈkaʊnt/
-5. folder: (n) thư mục /ˈfəʊldə/
-6. reading passage: (n.phr) bài đọc /ˈriːdɪŋ ˈpæsɪdʒ/
-7. slide: (n) slide, trang trình chiếu /slaɪd/
-8. take notes: (v.phr) ghi chú /teɪk nəʊts/
-9. mindmap: (n) sơ đồ tư duy /ˈmaɪndmæp/
-10. impact: (n) tác động /ˈɪmpækt/
-11. environment: (n) môi trường /ɪnˈvaɪrənmənt/
-12. discover: (v) khám phá /dɪˈskʌvə/
-13. effective: (adj) hiệu quả /ɪˈfektɪv/
-14. self-paced: (adj) theo tốc độ của bản thân /ˌself ˈpeɪst/
-15. click: (v) nhấp chuột /klɪk/
-16. suitable: (adj) phù hợp /ˈsuːtəbl/
-17. write down: (phr.v) viết ra, ghi lại /raɪt daʊn/
-18. live session: (n.phr) buổi học trực tiếp /laɪv ˈseʃn/
+1. **population** : (n) dân số /ˌpɒpjuˈleɪʃn/
+2. **population growth** : (n.phr) sự gia tăng dân số /ˌpɒpjuˈleɪʃn ɡrəʊθ/
+3. **log in** : (phr.v) đăng nhập /lɒɡ ɪn/
+4. **account** : (n) tài khoản /əˈkaʊnt/
+5. **folder** : (n) thư mục /ˈfəʊldə/
+6. **reading passage** : (n.phr) bài đọc /ˈriːdɪŋ ˈpæsɪdʒ/
+7. **slide** : (n) slide, trang trình chiếu /slaɪd/
+8. **take notes** : (v.phr) ghi chú /teɪk nəʊts/
+9. **mindmap** : (n) sơ đồ tư duy /ˈmaɪndmæp/
+10. **impact** : (n) tác động /ˈɪmpækt/
+11. **environment** : (n) môi trường /ɪnˈvaɪrənmənt/
+12. **discover** : (v) khám phá /dɪˈskʌvə/
+13. **effective** : (adj) hiệu quả /ɪˈfektɪv/
+14. **self-paced** : (adj) theo tốc độ của bản thân /ˌself ˈpeɪst/
+15. **click** : (v) nhấp chuột /klɪk/
+16. **suitable** : (adj) phù hợp /ˈsuːtəbl/
+17. **write down** : (phr.v) viết ra, ghi lại /raɪt daʊn/
+18. **live session** : (n.phr) buổi học trực tiếp /laɪv ˈseʃn/

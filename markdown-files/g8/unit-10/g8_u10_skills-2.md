@@ -6,22 +6,22 @@
 
 **Bài 1 trang 110** 
 
-1. carrier pigeon: bồ câu đưa thư /ˈkæriə ˈpɪdʒɪn/  
-2. smartwatch: đồng hồ thông minh /smɑːtˈwɒtʃ/  
-3. translation machine: máy dịch /trænsˈleɪʃn məˈʃiːn/  
-4. hologram: (n) hình chiếu lập thể /ˈhɒləɡræm/  
-5. agenda: (n) lịch trình /əˈdʒendə/  
-6. announcement: (n) thông báo /əˈnaʊnsmənt/  
-7. ceremony: (n) nghi thức, nghi lễ /ˈserɪməni/  
-8. introductory talk: bài nói giới thiệu /ˌɪntrəˈdʌktəri tɔːk/  
-9. exhibition: (n) triển lãm /ˌeksɪˈbɪʃn/  
+1. **carrier pigeon** : bồ câu đưa thư /ˈkæriə ˈpɪdʒɪn/
+2. **smartwatch** : đồng hồ thông minh /smɑːtˈwɒtʃ/
+3. **translation machine** : máy dịch /trænsˈleɪʃn məˈʃiːn/
+4. **hologram** : (n) hình chiếu lập thể /ˈhɒləɡræm/
+5. **agenda** : (n) lịch trình /əˈdʒendə/
+6. **announcement** : (n) thông báo /əˈnaʊnsmənt/
+7. **ceremony** : (n) nghi thức, nghi lễ /ˈserɪməni/
+8. **introductory talk** : bài nói giới thiệu /ˌɪntrəˈdʌktəri tɔːk/
+9. **exhibition** : (n) triển lãm /ˌeksɪˈbɪʃn/
 
 **Bài 2 trang 111** 
 
-1. 8:20   
+1. **8** : 20
 2. first   
 3. Modern   
-4. 10:15   
+4. **10** : 15
 5. Cinema 
 
 **Bài 3 trang 111** 

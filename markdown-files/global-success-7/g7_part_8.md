@@ -4,29 +4,29 @@
 
 **Vocabulary** 
 
-1. cinema: (n) rạp chiếu phim /ˈsɪnəmə/  
-2. good idea: ý kiến hay /gʊd aɪˈdɪə/  
-3. A Nightmare: cơn ác mộng /ə ˈnaɪtmeə/  
-4. fantasy: (n) phim giả tưởng /ˈfæntəsi/  
-5. horror film: phim kinh dị /ˈhɒrə fɪlm/  
-6. scary: (adj) đáng sợ /ˈskeəri/  
-7. documentary: (n) phim tài liệu /ˌdɒkjuˈmentəri/  
-8. boring: (adj) chán, nhàm chán /ˈbɔːrɪŋ/  
-9. what about?: còn về...thì sao? /wɒt əˈbaʊt/  
-10. kind of film: thể loại phim /kaɪnd əv fɪlm/  
-11. comedy: (n) phim hài /ˈkɒmədi/  
-12. star: (v) đóng vai chính /stɑː/  
-13. woman \- women: (n) phụ nữ (số ít \- số nhiều) /ˈwʊmən \- ˈwɪmɪn/  
-14. different countries: các quốc gia khác nhau /ˈdɪfrənt ˈkʌntriz/  
-15. decide to V0: quyết định làm gì /dɪˈsaɪd tuː/  
-16. exchange house: trao đổi nhà /ɪksˈtʃeɪndʒ haʊs/  
-17. review: (n) bài đánh giá /rɪˈvjuː/   
-18. a bit silly: hơi ngớ ngẩn /ə bɪt ˈsɪli/  
-19. most: (n) hầu hết /məʊst/  
-20. interesting: (adj) thú vị /ˈɪntrəstɪŋ/  
-21. funny: (adj) hài hước /ˈfʌni/  
-22. although: mặc dù   
-23. \<phim\> \+ is on \+ vị trí: đang được chiếu ở … 
+1. **cinema** : (n) rạp chiếu phim /ˈsɪnəmə/
+2. **good idea** : ý kiến hay /gʊd aɪˈdɪə/
+3. **A Nightmare** : cơn ác mộng /ə ˈnaɪtmeə/
+4. **fantasy** : (n) phim giả tưởng /ˈfæntəsi/
+5. **horror film** : phim kinh dị /ˈhɒrə fɪlm/
+6. **scary** : (adj) đáng sợ /ˈskeəri/
+7. **documentary** : (n) phim tài liệu /ˌdɒkjuˈmentəri/
+8. **boring** : (adj) chán, nhàm chán /ˈbɔːrɪŋ/
+9. **what about?** : còn về...thì sao? /wɒt əˈbaʊt/
+10. **kind of film** : thể loại phim /kaɪnd əv fɪlm/
+11. **comedy** : (n) phim hài /ˈkɒmədi/
+12. **star** : (v) đóng vai chính /stɑː/
+13. **woman \- women** : (n) phụ nữ (số ít \- số nhiều) /ˈwʊmən \- ˈwɪmɪn/
+14. **different countries** : các quốc gia khác nhau /ˈdɪfrənt ˈkʌntriz/
+15. **decide to V0** : quyết định làm gì /dɪˈsaɪd tuː/
+16. **exchange house** : trao đổi nhà /ɪksˈtʃeɪndʒ haʊs/
+17. **review** : (n) bài đánh giá /rɪˈvjuː/
+18. **a bit silly** : hơi ngớ ngẩn /ə bɪt ˈsɪli/
+19. **most** : (n) hầu hết /məʊst/
+20. **interesting** : (adj) thú vị /ˈɪntrəstɪŋ/
+21. **funny** : (adj) hài hước /ˈfʌni/
+22. **although** : mặc dù
+23. **\<phim\> \+ is on \+ vị trí** : đang được chiếu ở …
 
 Mark: Tối nay đi xem phim nhé\!
 
@@ -61,7 +61,7 @@ Mark: Chà, mặc dù một số người nói rằng nó hơi ngớ ngẩn, nh�
 **Bài 2 trang 83** 
 
 1. Mark đề nghị tối nay làm gì? —\> B. xem một bộ phim   
-2. Tại sao Mark không muốn xem An Old Pier: → A. Anh ấy không thích loại phim đó   
+2. **Tại sao Mark không muốn xem An Old Pier** : → A. Anh ấy không thích loại phim đó
 3. Từ review trong đoạn hội thoại có nghĩa là → A. ý kiến của mọi người về một bộ phim   
 4. Người ta nghĩ gì về Our Holiday? → C. hầu hết người thích nó. 
 
@@ -69,23 +69,23 @@ Mark: Chà, mặc dù một số người nói rằng nó hơi ngớ ngẩn, nh�
 
 **Vocabulary** 
 
-1. audience: (n) khán giả /ˈɔːdiəns/  
-2. laugh: (v) cười /lɑːf/  
-3. comedy: (n) hài hước /ˈkɒmədi/  
-4. documentary: (n) phim tài liệu /ˌdɒkjuˈmentəri/  
-5. cartoon: (n) hoạt hình /kɑːˈtuːn/  
-6. science fiction film: phim khoa học viễn tưởng /ˈsaɪəns ˈfɪkʃən fɪlm/  
-7. strange: (adj) lạ, kỳ lạ /streɪndʒ/  
-8. be based on: dựa trên /bi beɪst ɒn/  
-9. try to V0: cố gắng /traɪ tə/  
-10. imagine: (v) tưởng tượng /ɪˈmædʒɪn/  
-11. imagination: (n) sự tưởng tượng /ɪˌmædʒɪˈneɪʃən/  
-12. event: (n) sự kiện /ɪˈvent/  
-13. even: (adv) thậm chí /ˈiːvən/  
-14. fact: (n) sự thật /fækt/  
-15. show \- showed \- shown: (v) cho thấy, trình bày, biểu diễn /ʃəʊ/  
-16. frightening: (adj) đáng sợ /ˈfraɪtənɪŋ/  
-17. set in future: đặt bối cảnh ở tương lai /set ɪn ˈfjuːtʃə/
+1. **audience** : (n) khán giả /ˈɔːdiəns/
+2. **laugh** : (v) cười /lɑːf/
+3. **comedy** : (n) hài hước /ˈkɒmədi/
+4. **documentary** : (n) phim tài liệu /ˌdɒkjuˈmentəri/
+5. **cartoon** : (n) hoạt hình /kɑːˈtuːn/
+6. **science fiction film** : phim khoa học viễn tưởng /ˈsaɪəns ˈfɪkʃən fɪlm/
+7. **strange** : (adj) lạ, kỳ lạ /streɪndʒ/
+8. **be based on** : dựa trên /bi beɪst ɒn/
+9. **try to V0** : cố gắng /traɪ tə/
+10. **imagine** : (v) tưởng tượng /ɪˈmædʒɪn/
+11. **imagination** : (n) sự tưởng tượng /ɪˌmædʒɪˈneɪʃən/
+12. **event** : (n) sự kiện /ɪˈvent/
+13. **even** : (adv) thậm chí /ˈiːvən/
+14. **fact** : (n) sự thật /fækt/
+15. **show \- showed \- shown** : (v) cho thấy, trình bày, biểu diễn /ʃəʊ/
+16. **frightening** : (adj) đáng sợ /ˈfraɪtənɪŋ/
+17. **set in future** : đặt bối cảnh ở tương lai /set ɪn ˈfjuːtʃə/
 
 1. Một bộ phim mà cố gắng làm cho khán giả cười là một phim hài → comedy   
 2. Một bộ phim mà được dựa trên sự tưởng tượng, không phải sự thật thực tế là một phim tưởng tượng → fantasy   
@@ -97,27 +97,27 @@ Mark: Chà, mặc dù một số người nói rằng nó hơi ngớ ngẩn, nh�
 
 **Vocabulary**
 
-1. funny: (adj) hài hước, mắc cười /ˈfʌni/  
-2. boring: (adj) nhàm chán /ˈbɔːrɪŋ/  
-3. frightening: (adj) đáng sợ /ˈfraɪtənɪŋ/  
-4. moving: (adj) cảm động /ˈmuːvɪŋ/  
-5. interesting: (adj) thú vị /ˈɪntrəstɪŋ/
+1. **funny** : (adj) hài hước, mắc cười /ˈfʌni/
+2. **boring** : (adj) nhàm chán /ˈbɔːrɪŋ/
+3. **frightening** : (adj) đáng sợ /ˈfraɪtənɪŋ/
+4. **moving** : (adj) cảm động /ˈmuːvɪŋ/
+5. **interesting** : (adj) thú vị /ˈɪntrəstɪŋ/
 
 **A CLOSER LOOK 1**
 
 **Vocabulary** 
 
-1. dull: (adj) buồn tẻ /dʌl/  
-2. violent: (adj) bạo lực /ˈvaɪələnt/  
-3. confusing: (adj) gây nhầm lẫn /kənˈfjuːzɪŋ/  
-4. shocking: (adj) gây sốc /ˈʃɒkɪŋ/  
-5. enjoyable: (adj) thú vị, đáng thưởng thức /ɪnˈdʒɔɪəbl/  
-6. difficult to understand: khó hiểu /ˈdɪfɪkəlt tə ˌʌndəˈstænd/  
-7. clear: (adj) rõ ràng /klɪə/  
-8. exciting: (adj) thú vị, hào hứng /ɪkˈsaɪtɪŋ/  
-9. giving pleasure: mang lại niềm vui /ˈgɪvɪŋ ˈpleʒə/  
-10. surprising: (adj) gây ngạc nhiên /səˈpraɪzɪŋ/  
-11. believe: (v) tin tưởng /bɪˈliːv/
+1. **dull** : (adj) buồn tẻ /dʌl/
+2. **violent** : (adj) bạo lực /ˈvaɪələnt/
+3. **confusing** : (adj) gây nhầm lẫn /kənˈfjuːzɪŋ/
+4. **shocking** : (adj) gây sốc /ˈʃɒkɪŋ/
+5. **enjoyable** : (adj) thú vị, đáng thưởng thức /ɪnˈdʒɔɪəbl/
+6. **difficult to understand** : khó hiểu /ˈdɪfɪkəlt tə ˌʌndəˈstænd/
+7. **clear** : (adj) rõ ràng /klɪə/
+8. **exciting** : (adj) thú vị, hào hứng /ɪkˈsaɪtɪŋ/
+9. **giving pleasure** : mang lại niềm vui /ˈgɪvɪŋ ˈpleʒə/
+10. **surprising** : (adj) gây ngạc nhiên /səˈpraɪzɪŋ/
+11. **believe** : (v) tin tưởng /bɪˈliːv/
 
 **Bài 1** 
 
@@ -234,21 +234,21 @@ Let’s \+ V0: Chúng ta … đi\!
 
 **Vocabulary** 
 
-1. Harry Potter and the Sorcerer's Stone: Harry Potter và Hòn đá phù thủy /ˈhæri ˈpɒtər ænd ðə ˈsɔːsərəz stəʊn/  
-2. director: (n) đạo diễn /dɪˈrektə/  
-3. film series: loạt phim /fɪlm ˈsɪəriːz/  
-4. tell the story of someone: kể câu chuyện về ai đó /tel ðə ˈstɔːri əv ˈsʌmwʌn/  
-5. a powerful wizard: một phù thủy quyền năng /ə ˈpaʊəfəl ˈwɪzəd/  
-6. learn about oneself: tìm hiểu về bản thân /lɜːn əˈbaʊt wʌnˈself/  
-7. bad things happening around someone: những điều xấu xảy ra xung quanh ai đó /bæd θɪŋz ˈhæpənɪŋ əˈraʊnd ˈsʌmwʌn/  
-8. a must-see for teens: một bộ phim không thể bỏ qua dành cho thiếu niên /ə mʌst siː fə tiːnz/  
-9. gripping: (adj) lôi cuốn /ˈɡrɪpɪŋ/  
-10. agree: (v) đồng ý /əˈɡriː/  
-11. receive a lot of reviews: nhận được nhiều đánh giá /rɪˈsiːv ə lɒt əv rɪˈvjuːz/  
-12. the acting is excellent: diễn xuất xuất sắc /ði ˈæktɪŋ ɪz ˈeksələnt/  
-13. at times: đôi khi /æt taɪmz/  
-14. frightening: (adj) đáng sợ /ˈfraɪtənɪŋ/  
-15. full of action: đầy hành động /fʊl əv ˈækʃən/ 
+1. **Harry Potter and the Sorcerer's Stone** : Harry Potter và Hòn đá phù thủy /ˈhæri ˈpɒtər ænd ðə ˈsɔːsərəz stəʊn/
+2. **director** : (n) đạo diễn /dɪˈrektə/
+3. **film series** : loạt phim /fɪlm ˈsɪəriːz/
+4. **tell the story of someone** : kể câu chuyện về ai đó /tel ðə ˈstɔːri əv ˈsʌmwʌn/
+5. **a powerful wizard** : một phù thủy quyền năng /ə ˈpaʊəfəl ˈwɪzəd/
+6. **learn about oneself** : tìm hiểu về bản thân /lɜːn əˈbaʊt wʌnˈself/
+7. **bad things happening around someone** : những điều xấu xảy ra xung quanh ai đó /bæd θɪŋz ˈhæpənɪŋ əˈraʊnd ˈsʌmwʌn/
+8. **a must-see for teens** : một bộ phim không thể bỏ qua dành cho thiếu niên /ə mʌst siː fə tiːnz/
+9. **gripping** : (adj) lôi cuốn /ˈɡrɪpɪŋ/
+10. **agree** : (v) đồng ý /əˈɡriː/
+11. **receive a lot of reviews** : nhận được nhiều đánh giá /rɪˈsiːv ə lɒt əv rɪˈvjuːz/
+12. **the acting is excellent** : diễn xuất xuất sắc /ði ˈæktɪŋ ɪz ˈeksələnt/
+13. **at times** : đôi khi /æt taɪmz/
+14. **frightening** : (adj) đáng sợ /ˈfraɪtənɪŋ/
+15. **full of action** : đầy hành động /fʊl əv ˈækʃən/
 
 Thứ Hai, ngày 20 tháng 4
 
@@ -395,11 +395,11 @@ Harry Potter is a fantasy directed by Chris Columbus, starring Daniel Radcliffe.
 
 **Bài 2 trang 90** 
 
-1. comedy: Mr. Bean   
-2. documentary: Điện Biên Phủ    
-3. fantasy: Harry Potter   
-4. horror film: Ma Da   
-5. science fiction film: Star Wars
+1. **comedy** : Mr. Bean
+2. **documentary** : Điện Biên Phủ
+3. **fantasy** : Harry Potter
+4. **horror film** : Ma Da
+5. **science fiction film** : Star Wars
 
 **Bài 3 trang 90** 
 

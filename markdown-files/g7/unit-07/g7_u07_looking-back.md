@@ -20,7 +20,7 @@
 
 **Bài 2 trang 80** 
 
-1. Một .. .là bất cứ người nào mà sử dụng đường, như là người đi bộ, người đạp xe hoặc người đi xe mô tô → user (road user: người tham gia giao thông đường bộ)  
+1. **Một .. .là bất cứ người nào mà sử dụng đường, như là người đi bộ, người đạp xe hoặc người đi xe mô tô → user (road user** : người tham gia giao thông đường bộ)
 2. ride   
 3. passenger  
 4. fly  
@@ -40,9 +40,9 @@
 
 **Bài 4 trang 80** 
 
-1. should \+ V0: nên làm gì   
-2. must \+ V0: phải …   
-3. shouldn’t: không nên  
-4. Could: có thể   
-5. shouldn’t: không nên   
-6. can: có thể
+1. **should \+ V0** : nên làm gì
+2. **must \+ V0** : phải …
+3. **shouldn’t** : không nên
+4. **Could** : có thể
+5. **shouldn’t** : không nên
+6. **can** : có thể

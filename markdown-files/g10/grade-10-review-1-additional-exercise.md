@@ -42,67 +42,67 @@
 ### B. INFINITIVE STRUCTURES (10 câu)
 **Trọng tâm:** Chuyển đổi giữa các cấu trúc với to-infinitive và bare infinitive
 
-11. My parents don't allow me to stay out late. (use: let)
+11. **My parents don't allow me to stay out late. (use** : let)
     → My parents don't let ________________________________
 
-12. The coach forced the team to practise for five hours. (use: made)
+12. **The coach forced the team to practise for five hours. (use** : made)
     → The coach made ________________________________
 
-13. Could you help me with my homework? (use: mind)
+13. **Could you help me with my homework? (use** : mind)
     → Would you mind ________________________________
 
-14. She managed to complete the marathon. (use: succeeded)
+14. **She managed to complete the marathon. (use** : succeeded)
     → She succeeded in ________________________________
 
-15. It's necessary for us to protect the environment. (use: need)
+15. **It's necessary for us to protect the environment. (use** : need)
     → We need ________________________________
 
-16. Learning to play the piano is difficult. (use: It)
+16. **Learning to play the piano is difficult. (use** : It)
     → It is difficult ________________________________
 
-17. He said he would reduce his carbon footprint. (use: promised)
+17. **He said he would reduce his carbon footprint. (use** : promised)
     → He promised ________________________________
 
-18. They have decided they will join the environmental club. (use: to join)
+18. **They have decided they will join the environmental club. (use** : to join)
     → They have decided ________________________________
 
-19. She hopes she will become a famous singer. (use: to become)
+19. **She hopes she will become a famous singer. (use** : to become)
     → She hopes ________________________________
 
-20. The teacher expects that we will finish the project on time. (use: expects us)
+20. **The teacher expects that we will finish the project on time. (use** : expects us)
     → The teacher expects us ________________________________
 
 ### C. COMPOUND SENTENCES & CONNECTORS (10 câu)
 **Trọng tâm:** Nối câu đơn thành câu ghép với and, but, or, so
 
-21. We should recycle more. We can reduce waste. (use: so that)
+21. **We should recycle more. We can reduce waste. (use** : so that)
     → We should recycle more so that ________________________________
 
-22. She practises singing every day. She doesn't improve. (use: but)
+22. **She practises singing every day. She doesn't improve. (use** : but)
     → She practises singing every day, but ________________________________
 
-23. You can take the bus. You can ride a bicycle. (use: or)
+23. **You can take the bus. You can ride a bicycle. (use** : or)
     → You can take the bus, or ________________________________
 
-24. The weather was terrible. We went to the outdoor concert. (use: Although)
+24. **The weather was terrible. We went to the outdoor concert. (use** : Although)
     → Although ________________________________
 
-25. Turn off the lights. You will waste electricity. (use: or)
+25. **Turn off the lights. You will waste electricity. (use** : or)
     → Turn off the lights, or ________________________________
 
-26. He studied very hard. He passed all his exams. (use: so)
+26. **He studied very hard. He passed all his exams. (use** : so)
     → He studied very hard, so ________________________________
 
-27. We need to protect forests. They provide oxygen for us. (use: because)
+27. **We need to protect forests. They provide oxygen for us. (use** : because)
     → We need to protect forests because ________________________________
 
-28. She loves music. She can't play any instruments. (use: however)
+28. **She loves music. She can't play any instruments. (use** : however)
     → She loves music; however, ________________________________
 
-29. Reduce plastic use. The oceans will become more polluted. (use: otherwise)
+29. **Reduce plastic use. The oceans will become more polluted. (use** : otherwise)
     → Reduce plastic use; otherwise, ________________________________
 
-30. The band performed well. The audience loved them. (use: and)
+30. **The band performed well. The audience loved them. (use** : and)
     → The band performed well, and ________________________________
 
 ---

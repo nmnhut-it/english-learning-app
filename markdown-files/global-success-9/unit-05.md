@@ -2,28 +2,28 @@
 
 ## GETTING STARTED - BẮT ĐẦU
 ### 📚 Vocabulary - Từ vựng
-- **speciality** : (n) đặc sản /ˌspeʃiˈæləti/
-- **guess** : (v) đoán /ɡes/
-- **jeep** : (n) xe jeep /dʒiːp/
-- **top** : (n) đỉnh /tɒp/
-- **thrilling** : (adj) hồi hộp, ly kỳ /ˈθrɪlɪŋ/
-- **ride** : (n) chuyến đi /raɪd/
-- **eco-tour** : (n) du lịch sinh thái /ˈiːkəʊ tʊər/
-- **area** : (n) khu vực /ˈeəriə/
-- **rich** : (adj) giàu, phong phú /rɪtʃ/
-- **flora** : (n) hệ thực vật /ˈflɔːrə/
-- **fauna** : (n) hệ động vật /ˈfɔːnə/
-- **plant** : (n) cây, thực vật /plɑːnt/
-- **animal** : (n) động vật /ˈænɪməl/
-- **species** : (n) loài /ˈspiːʃiːz/
-- **amazing** : (adj) tuyệt vời /əˈmeɪzɪŋ/
-- **take pictures** : (v) chụp ảnh /teɪk ˈpɪktʃəz/
-- **magnificent** : (adj) tráng lệ /mæɡˈnɪfɪsnt/
-- **scenery** : (n) phong cảnh /ˈsiːnəri/
-- **enjoyable** : (adj) thú vị /ɪnˈdʒɔɪəbl/
-- **explore** : (v) khám phá /ɪkˈsplɔːr/
-- **brilliant** : (adj) tuyệt vời, xuất sắc /ˈbrɪliənt/
-- **stream** : (n) suối /striːm/
+1. **speciality** : (n) đặc sản /ˌspeʃiˈæləti/
+2. **guess** : (v) đoán /ɡes/
+3. **jeep** : (n) xe jeep /dʒiːp/
+4. **top** : (n) đỉnh /tɒp/
+5. **thrilling** : (adj) hồi hộp, ly kỳ /ˈθrɪlɪŋ/
+6. **ride** : (n) chuyến đi /raɪd/
+7. **eco-tour** : (n) du lịch sinh thái /ˈiːkəʊ tʊər/
+8. **area** : (n) khu vực /ˈeəriə/
+9. **rich** : (adj) giàu, phong phú /rɪtʃ/
+10. **flora** : (n) hệ thực vật /ˈflɔːrə/
+11. **fauna** : (n) hệ động vật /ˈfɔːnə/
+12. **plant** : (n) cây, thực vật /plɑːnt/
+13. **animal** : (n) động vật /ˈænɪməl/
+14. **species** : (n) loài /ˈspiːʃiːz/
+15. **amazing** : (adj) tuyệt vời /əˈmeɪzɪŋ/
+16. **take pictures** : (v) chụp ảnh /teɪk ˈpɪktʃəz/
+17. **magnificent** : (adj) tráng lệ /mæɡˈnɪfɪsnt/
+18. **scenery** : (n) phong cảnh /ˈsiːnəri/
+19. **enjoyable** : (adj) thú vị /ɪnˈdʒɔɪəbl/
+20. **explore** : (v) khám phá /ɪkˈsplɔːr/
+21. **brilliant** : (adj) tuyệt vời, xuất sắc /ˈbrɪliənt/
+22. **stream** : (n) suối /striːm/
 
 ### 💬 Content - Nội dung
 **Tom**: Hi, Mi. I've been back from Da Lat. I have some local specialities for you.
@@ -104,23 +104,23 @@ Example:
 
 ## A CLOSER LOOK 1 - TÌM HIỂU THÊM 1
 ### 📚 Vocabulary - Từ vựng
-- **learning by rote** : (n) học vẹt /ˈlɜːnɪŋ baɪ rəʊt/
-- **snorkelling** : (n) lặn có ống thở /ˈsnɔːkəlɪŋ/
-- **touring a campus** : (v) tham quan khuôn viên /ˈtʊərɪŋ ə ˈkæmpəs/
-- **parachute jump** : (n) nhảy dù /ˈpærəʃuːt dʒʌmp/
-- **experience** : (n) kinh nghiệm, trải nghiệm /ɪkˈspɪəriəns/
-- **by mistake** : (adv) nhầm lẫn /baɪ mɪsˈteɪk/
-- **exhausted** : (adj) kiệt sức /ɪɡˈzɔːstɪd/
-- **facility** : (n) cơ sở vật chất /fəˈsɪləti/
-- **coral reef** : (n) rạn san hô /ˈkɒrəl riːf/
-- **embarrassing** : (adj) xấu hổ, ngượng ngùng /ɪmˈbærəsɪŋ/
-- **pleasant** : (adj) dễ chịu /ˈplezənt/
-- **by chance** : (adv) tình cờ /baɪ tʃɑːns/
-- **helpless** : (adj) bất lực /ˈhelpləs/
-- **exhilarating** : (adj) sảng khoái, phấn khởi /ɪɡˈzɪləreɪtɪŋ/
-- **unpleasant** : (adj) khó chịu /ʌnˈplezənt/
-- **put up tents** : (v) dựng lều /pʊt ʌp tents/
-- **give a performance** : (v) biểu diễn /ɡɪv ə pəˈfɔːməns/
+1. **learning by rote** : (n) học vẹt /ˈlɜːnɪŋ baɪ rəʊt/
+2. **snorkelling** : (n) lặn có ống thở /ˈsnɔːkəlɪŋ/
+3. **touring a campus** : (v) tham quan khuôn viên /ˈtʊərɪŋ ə ˈkæmpəs/
+4. **parachute jump** : (n) nhảy dù /ˈpærəʃuːt dʒʌmp/
+5. **experience** : (n) kinh nghiệm, trải nghiệm /ɪkˈspɪəriəns/
+6. **by mistake** : (adv) nhầm lẫn /baɪ mɪsˈteɪk/
+7. **exhausted** : (adj) kiệt sức /ɪɡˈzɔːstɪd/
+8. **facility** : (n) cơ sở vật chất /fəˈsɪləti/
+9. **coral reef** : (n) rạn san hô /ˈkɒrəl riːf/
+10. **embarrassing** : (adj) xấu hổ, ngượng ngùng /ɪmˈbærəsɪŋ/
+11. **pleasant** : (adj) dễ chịu /ˈplezənt/
+12. **by chance** : (adv) tình cờ /baɪ tʃɑːns/
+13. **helpless** : (adj) bất lực /ˈhelpləs/
+14. **exhilarating** : (adj) sảng khoái, phấn khởi /ɪɡˈzɪləreɪtɪŋ/
+15. **unpleasant** : (adj) khó chịu /ʌnˈplezənt/
+16. **put up tents** : (v) dựng lều /pʊt ʌp tents/
+17. **give a performance** : (v) biểu diễn /ɡɪv ə pəˈfɔːməns/
 
 ### ✍️ Exercises - Bài tập
 
@@ -208,11 +208,11 @@ Example:
   Example: **Have** you **ever been** to Japan?
 
 **2. Signal words - Dấu hiệu nhận biết:**
-- **just** (vừa mới): I have just eaten lunch.
-- **already** (đã): She has already seen that movie.
+1. **just** : (vừa mới) I have just eaten lunch.
+2. **already** : (đã) She has already seen that movie.
 - **yet** (chưa) - dùng trong câu phủ định và nghi vấn: Has he finished his work yet?
 - **ever** (đã từng) - thường dùng trong câu hỏi: Have you ever been to France?
-- **never** (chưa từng): I have never tried sushi.
+3. **never** : (chưa từng) I have never tried sushi.
 - **for** + khoảng thời gian: They have lived here for 10 years.
 - **since** + mốc thời gian: We have known each other since 2010.
 
@@ -291,28 +291,28 @@ Example:
 
 ## COMMUNICATION - GIAO TIẾP
 ### 📚 Vocabulary - Từ vựng
-- **Actually** : (adv) thực ra /ˈæktʃuəli/
-- **ankle** : (n) mắt cá chân /ˈæŋkəl/
-- **tent** : (n) lều /tent/
-- **hurt** : (v) làm đau /hɜːrt/
-- **slip** : (v) trượt ngã /slɪp/
-- **helplessness** : (n) sự bất lực /ˈhelpləsnəs/
-- **put up the tents** : (phrase) dựng lều /pʊt ʌp ðə tents/
-- **unforgettable** : (adj) không thể quên /ˌʌnfəˈɡetəbl/
-- **hire** : (v) thuê /haɪər/
-- **brilliant** : (adj) xuất sắc /ˈbrɪliənt/
-- **instructor** : (n) người hướng dẫn /ɪnˈstrʌktər/
-- **snorkel** : (n) ống thở /ˈsnɔːkəl/
-- **exhilarating** : (adj) phấn khích /ɪɡˈzɪləreɪtɪŋ/
-- **coral reef** : (n) rạn san hô /ˈkɒrəl riːf/
+1. **Actually** : (adv) thực ra /ˈæktʃuəli/
+2. **ankle** : (n) mắt cá chân /ˈæŋkəl/
+3. **tent** : (n) lều /tent/
+4. **hurt** : (v) làm đau /hɜːrt/
+5. **slip** : (v) trượt ngã /slɪp/
+6. **helplessness** : (n) sự bất lực /ˈhelpləsnəs/
+7. **put up the tents** : (phrase) dựng lều /pʊt ʌp ðə tents/
+8. **unforgettable** : (adj) không thể quên /ˌʌnfəˈɡetəbl/
+9. **hire** : (v) thuê /haɪər/
+10. **brilliant** : (adj) xuất sắc /ˈbrɪliənt/
+11. **instructor** : (n) người hướng dẫn /ɪnˈstrʌktər/
+12. **snorkel** : (n) ống thở /ˈsnɔːkəl/
+13. **exhilarating** : (adj) phấn khích /ɪɡˈzɪləreɪtɪŋ/
+14. **coral reef** : (n) rạn san hô /ˈkɒrəl riːf/
 
 ### 🗣️ Activities - Hoạt động
 
 **Bài 1: Listen and read the conversations. Pay attention to the highlighted parts**
-1. **Ann**: I was sorry to hear that you hurt your ankle. How did it happen?
+1. **Ann** : I was sorry to hear that you hurt your ankle. How did it happen?
    **Mai**: Actually, I slipped when I was putting up a tent. But I'm fine now.
 
-2. **Minh**: Duong, I heard that you went snorkelling in Nha Trang. How was it?
+2. **Minh** : Duong, I heard that you went snorkelling in Nha Trang. How was it?
    **Duong**: It was a(n) unforgettable experience. I can still remember swimming in the ocean and seeing colourful fish.
 
 **Bài 2: Work in pairs. Make similar conversations with the following situations**
@@ -320,10 +320,10 @@ Example:
 2. Your friend travelled by air and felt airsick, but now he/she is fine.
 
 **Example answers:**
-1. A: I'm really sorry to hear that you hurt your back. How did it happen?
+1. **A** : I'm really sorry to hear that you hurt your back. How did it happen?
    B: Actually, I fell when I was playing badminton. But I'm fine now.
 
-2. A: I heard you felt airsick on your flight. How was it?
+2. **A** : I heard you felt airsick on your flight. How was it?
    B: It was a terrible experience. I felt really dizzy, but now I'm fine.
 
 **Bài 3: Read the posts by three friends about their camping activities and match their names with the experiences**
@@ -342,20 +342,20 @@ c. went snorkelling
 
 ## SKILLS 1 - KỸ NĂNG 1
 ### 📚 Vocabulary - Từ vựng
-- **army camp** : (n) trại quân sự /ˈɑːmi kæmp/
-- **wake up** : (v) thức dậy /weɪk ʌp/
-- **attend** : (v) tham dự /əˈtend/
-- **training course** : (n) khóa huấn luyện /ˈtreɪnɪŋ kɔːs/
-- **soldier** : (n) binh lính /ˈsəʊldʒər/
-- **theme** : (n) chủ đề /θiːm/
-- **touching moments** : (n) những khoảnh khắc cảm động /ˈtʌtʃɪŋ ˈməʊmənts/
-- **strict** : (adj) nghiêm khắc /strɪkt/
-- **unforgettable** : (adj) không thể quên được /ˌʌnfəˈɡetəbl/
-- **campus** : (n) khuôn viên /ˈkæmpəs/
-- **outskirts** : (n) vùng ngoại ô /ˈaʊtskɜːts/
-- **communicate** : (v) giao tiếp /kəˈmjuːnɪkeɪt/
-- **experience** : (n) trải nghiệm /ɪkˈspɪəriəns/
-- **below** : (adv) bên dưới /bɪˈləʊ/
+1. **army camp** : (n) trại quân sự /ˈɑːmi kæmp/
+2. **wake up** : (v) thức dậy /weɪk ʌp/
+3. **attend** : (v) tham dự /əˈtend/
+4. **training course** : (n) khóa huấn luyện /ˈtreɪnɪŋ kɔːs/
+5. **soldier** : (n) binh lính /ˈsəʊldʒər/
+6. **theme** : (n) chủ đề /θiːm/
+7. **touching moments** : (n) những khoảnh khắc cảm động /ˈtʌtʃɪŋ ˈməʊmənts/
+8. **strict** : (adj) nghiêm khắc /strɪkt/
+9. **unforgettable** : (adj) không thể quên được /ˌʌnfəˈɡetəbl/
+10. **campus** : (n) khuôn viên /ˈkæmpəs/
+11. **outskirts** : (n) vùng ngoại ô /ˈaʊtskɜːts/
+12. **communicate** : (v) giao tiếp /kəˈmjuːnɪkeɪt/
+13. **experience** : (n) trải nghiệm /ɪkˈspɪəriəns/
+14. **below** : (adv) bên dưới /bɪˈləʊ/
 
 ### 📖 Reading - Đọc
 
@@ -440,21 +440,21 @@ Example:
 
 ## SKILLS 2 - KỸ NĂNG 2
 ### 📚 Vocabulary - Từ vựng
-- **bully** : (v) bắt nạt /ˈbʊli/
-- **bullying** : (n) sự bắt nạt /ˈbʊliɪŋ/
-- **depression** : (n) trầm cảm /dɪˈpreʃn/
-- **anxiety** : (n) lo âu /æŋˈzaɪəti/
-- **confidence** : (n) sự tự tin /ˈkɒnfɪdəns/
-- **mental** : (adj) tinh thần /ˈmentl/
-- **emotional** : (adj) cảm xúc /ɪˈməʊʃənl/
-- **well-being** : (n) sức khỏe /ˈwel biːɪŋ/
-- **snatch** : (v) giật, cướp /snætʃ/
-- **backpack** : (n) ba lô /ˈbækpæk/
-- **fight back** : (v) đánh trả /faɪt bæk/
-- **totally** : (adv) hoàn toàn /ˈtəʊtəli/
-- **surprised** : (adj) ngạc nhiên /səˈpraɪzd/
-- **biology** : (n) sinh học /baɪˈɒlədʒi/
-- **go blank** : (v) trống rỗng /ɡəʊ blæŋk/
+1. **bully** : (v) bắt nạt /ˈbʊli/
+2. **bullying** : (n) sự bắt nạt /ˈbʊliɪŋ/
+3. **depression** : (n) trầm cảm /dɪˈpreʃn/
+4. **anxiety** : (n) lo âu /æŋˈzaɪəti/
+5. **confidence** : (n) sự tự tin /ˈkɒnfɪdəns/
+6. **mental** : (adj) tinh thần /ˈmentl/
+7. **emotional** : (adj) cảm xúc /ɪˈməʊʃənl/
+8. **well-being** : (n) sức khỏe /ˈwel biːɪŋ/
+9. **snatch** : (v) giật, cướp /snætʃ/
+10. **backpack** : (n) ba lô /ˈbækpæk/
+11. **fight back** : (v) đánh trả /faɪt bæk/
+12. **totally** : (adv) hoàn toàn /ˈtəʊtəli/
+13. **surprised** : (adj) ngạc nhiên /səˈpraɪzd/
+14. **biology** : (n) sinh học /baɪˈɒlədʒi/
+15. **go blank** : (v) trống rỗng /ɡəʊ blæŋk/
 
 ### 👂 Listening - Nghe
 

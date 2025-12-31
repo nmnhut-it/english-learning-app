@@ -3,23 +3,23 @@
 ## GETTING STARTED   
 **Vocabulary** 
 
-1. Geography Club: câu lạc bộ địa lý /dʒiˈɒɡrəfi klʌb/  
-2. but: (conj) nhưng /bʌt/  
-3. remember: (v) nhớ, ghi nhớ /rɪˈmembə/  
-4. must: (v) phải, cần phải /mʌst/  
-5. always: (adv) luôn luôn /ˈɔːlweɪz/  
-6. on time: đúng giờ /ɒn taɪm/  
-7. sure: (adj) chắc chắn /ʃɔː/  
-8. natural wonder: kỳ quan thiên nhiên /ˈnætʃrəl ˈwʌndə/  
-9. first:(adj) đầu tiên, thứ nhất (adv) trước hết /fɜːst/  
-10. talk: (v) nói chuyện /tɔːk/  
-11. look: (v) nhìn, trông có vẻ /lʊk/  
-12. amazing: (adj) tuyệt vời, kinh ngạc /əˈmeɪzɪŋ/  
-13. island: (n) hòn đảo /ˈaɪlənd/  
-14. scenery: (n) phong cảnh /ˈsiːnəri/  
-15. large: (adj) to lớn, rộng lớn /lɑːdʒ/  
-16. show: (v) cho thấy, trình bày /ʃəʊ/  
-17. how about: thế còn, còn về /haʊ əˈbaʊt/
+1. **Geography Club** : câu lạc bộ địa lý /dʒiˈɒɡrəfi klʌb/
+2. **but** : (conj) nhưng /bʌt/
+3. **remember** : (v) nhớ, ghi nhớ /rɪˈmembə/
+4. **must** : (v) phải, cần phải /mʌst/
+5. **always** : (adv) luôn luôn /ˈɔːlweɪz/
+6. **on time** : đúng giờ /ɒn taɪm/
+7. **sure** : (adj) chắc chắn /ʃɔː/
+8. **natural wonder** : kỳ quan thiên nhiên /ˈnætʃrəl ˈwʌndə/
+9. **first** : (adj) đầu tiên, thứ nhất (adv) trước hết /fɜːst/
+10. **talk** : (v) nói chuyện /tɔːk/
+11. **look** : (v) nhìn, trông có vẻ /lʊk/
+12. **amazing** : (adj) tuyệt vời, kinh ngạc /əˈmeɪzɪŋ/
+13. **island** : (n) hòn đảo /ˈaɪlənd/
+14. **scenery** : (n) phong cảnh /ˈsiːnəri/
+15. **large** : (adj) to lớn, rộng lớn /lɑːdʒ/
+16. **show** : (v) cho thấy, trình bày /ʃəʊ/
+17. **how about** : thế còn, còn về /haʊ əˈbaʊt/
 
 (SGK trang 48\)  
 **Alice:** Chào, chào mừng tới câu lạc bộ Địa Lý của chúng tôi   
@@ -38,33 +38,33 @@
 
 **\* Vocabulary:** 
 
-1. accept: (v) chấp nhận, đồng ý /əkˈsept/  
-2. appointment: (n) cuộc hẹn, sự bổ nhiệm /əˈpɔɪntmənt/  
-3. famous: (adj) nổi tiếng /ˈfeɪməs/  
-4. island: (n) hòn đảo /ˈaɪlənd/  
-5. listen: (v) nghe, lắng nghe /ˈlɪsən/  
-6. must: (v) phải, cần phải /mʌst/  
-7. natural: (adj) tự nhiên, thuộc về thiên nhiên /ˈnætʃrəl/  
-8. scenery: (n) phong cảnh, cảnh quan /ˈsiːnəri/  
-9. start: (v) bắt đầu /stɑːt/  
-10. talk: (v) nói chuyện /tɔːk/  
-11. there: (adv) ở đó, tại đó /ðeə(r)/  
-12. welcome: (adj) được chào đón; (v) chào đón /ˈwelkəm/  
-13. wonder: (n) điều kỳ diệu; (v) tự hỏi, thắc mắc /ˈwʌndə(r)/  
-14. wonderful: (adj) tuyệt vời, kỳ diệu /ˈwʌndəfl/  
-15. cave: (n) hang động, hang đá /keɪv/  
-16. charm: (n) sự quyến rũ, sức hấp dẫn; (v) mê hoặc /tʃɑːm/  
-17. desert: (n) sa mạc; (v) bỏ rơi, từ bỏ /ˈdezət/  
-18. forest: (n) rừng /ˈfɒrɪst/  
-19. in: (prep) trong, ở trong /ɪn/  
-20. make: (v) làm, chế tạo (make-made-made) /meɪk/  
-21. man: (n) người đàn ông, con người /mæn/  
-22. mountain: (n) núi /ˈmaʊntɪn/  
-23. national: (adj) thuộc quốc gia, dân tộc /ˈnæʃnəl/  
-24. rock: (n) đá, núi đá; (v) lắc lư, đung đưa /rɒk/  
-25. shape: (n) hình dạng; (v) định hình /ʃeɪp/  
-26. size: (n) kích thước, cỡ /saɪz/  
-27. thousand: (n) một nghìn /ˈθaʊznd/  
+1. **accept** : (v) chấp nhận, đồng ý /əkˈsept/
+2. **appointment** : (n) cuộc hẹn, sự bổ nhiệm /əˈpɔɪntmənt/
+3. **famous** : (adj) nổi tiếng /ˈfeɪməs/
+4. **island** : (n) hòn đảo /ˈaɪlənd/
+5. **listen** : (v) nghe, lắng nghe /ˈlɪsən/
+6. **must** : (v) phải, cần phải /mʌst/
+7. **natural** : (adj) tự nhiên, thuộc về thiên nhiên /ˈnætʃrəl/
+8. **scenery** : (n) phong cảnh, cảnh quan /ˈsiːnəri/
+9. **start** : (v) bắt đầu /stɑːt/
+10. **talk** : (v) nói chuyện /tɔːk/
+11. **there** : (adv) ở đó, tại đó /ðeə(r)/
+12. **welcome** : (adj) được chào đón; (v) chào đón /ˈwelkəm/
+13. **wonder** : (n) điều kỳ diệu; (v) tự hỏi, thắc mắc /ˈwʌndə(r)/
+14. **wonderful** : (adj) tuyệt vời, kỳ diệu /ˈwʌndəfl/
+15. **cave** : (n) hang động, hang đá /keɪv/
+16. **charm** : (n) sự quyến rũ, sức hấp dẫn; (v) mê hoặc /tʃɑːm/
+17. **desert** : (n) sa mạc; (v) bỏ rơi, từ bỏ /ˈdezət/
+18. **forest** : (n) rừng /ˈfɒrɪst/
+19. **in** : (prep) trong, ở trong /ɪn/
+20. **make** : (v) làm, chế tạo (make-made-made) /meɪk/
+21. **man** : (n) người đàn ông, con người /mæn/
+22. **mountain** : (n) núi /ˈmaʊntɪn/
+23. **national** : (adj) thuộc quốc gia, dân tộc /ˈnæʃnəl/
+24. **rock** : (n) đá, núi đá; (v) lắc lư, đung đưa /rɒk/
+25. **shape** : (n) hình dạng; (v) định hình /ʃeɪp/
+26. **size** : (n) kích thước, cỡ /saɪz/
+27. **thousand** : (n) một nghìn /ˈθaʊznd/
     **Bài 2 trang 49**  
 1. Người ta không tạo ra Gành Đá Dĩa. Chúng là đá tự nhiên → natural   
 2. Vịnh Hạ Long có hàn nghìn hòn đảo lớn và nhỏ → islands   
@@ -74,14 +74,14 @@
 
 **Bài 3 trang 49** 
 
-1. desert: sa mạc   
-2. island: đảo   
-3. cave: hang động   
-4. river: sông   
-5. waterfall: thác nước  
-6. mountain: núi   
-7. forest: rừng   
-8. beach: bãi biển
+1. **desert** : sa mạc
+2. **island** : đảo
+3. **cave** : hang động
+4. **river** : sông
+5. **waterfall** : thác nước
+6. **mountain** : núi
+7. **forest** : rừng
+8. **beach** : bãi biển
 
 **Bài 4 trang 49**  
 1.a   
@@ -92,29 +92,29 @@
 **A CLOSER LOOK 1**   
 **Vocabulary**
 
-1. backpack: (n) ba lô /ˈbækpæk/    
-2. finish: (v) hoàn thành, kết thúc /ˈfɪnɪʃ/   
-3. holiday: (n) kỳ nghỉ, ngày lễ /ˈhɒlɪdeɪ/  
-4. hurt: (v) làm đau, gây tổn thương (hurt-hurt-hurt) /hɜːt/  
-5. item: (n) món đồ, khoản mục /ˈaɪtəm/  
-6. overnight: (adv) qua đêm; (adj) xảy ra qua đêm /ˌəʊvəˈnaɪt/  
-7. pack: (v) đóng gói, xếp đồ; (n) gói, túi /pæk/  
-8. plaster: (n) cao, thạch cao; (v) dán, trát /ˈplɑːstə(r)/  
-9. scissors: (n) cái kéo (luôn ở dạng số nhiều) /ˈsɪzəz/  
-10. sleep: (v) ngủ (sleep-slept-slept) /sliːp/  
-11. some: (det) một số, một vài /sʌm/  
-12. thing: (n) vật, đồ vật /θɪŋ/  
-13. useful: (adj) hữu ích /ˈjuːsfl/  
-14. usefulness: (n) sự hữu ích /ˈjuːsfʊlnəs/
+1. **backpack** : (n) ba lô /ˈbækpæk/
+2. **finish** : (v) hoàn thành, kết thúc /ˈfɪnɪʃ/
+3. **holiday** : (n) kỳ nghỉ, ngày lễ /ˈhɒlɪdeɪ/
+4. **hurt** : (v) làm đau, gây tổn thương (hurt-hurt-hurt) /hɜːt/
+5. **item** : (n) món đồ, khoản mục /ˈaɪtəm/
+6. **overnight** : (adv) qua đêm; (adj) xảy ra qua đêm /ˌəʊvəˈnaɪt/
+7. **pack** : (v) đóng gói, xếp đồ; (n) gói, túi /pæk/
+8. **plaster** : (n) cao, thạch cao; (v) dán, trát /ˈplɑːstə(r)/
+9. **scissors** : (n) cái kéo (luôn ở dạng số nhiều) /ˈsɪzəz/
+10. **sleep** : (v) ngủ (sleep-slept-slept) /sliːp/
+11. **some** : (det) một số, một vài /sʌm/
+12. **thing** : (n) vật, đồ vật /θɪŋ/
+13. **useful** : (adj) hữu ích /ˈjuːsfl/
+14. **usefulness** : (n) sự hữu ích /ˈjuːsfʊlnəs/
 
 **Bài 1 trang 50**
 
-1. plaster: băng keo cá nhân  
-2. suncream: kem chống nắng   
-3. sleeping bag: túi ngủ   
-4. scissors:  kéo   
-5. backpack: ba lô   
-6. compass: la bàn
+1. **plaster** : băng keo cá nhân
+2. **suncream** : kem chống nắng
+3. **sleeping bag** : túi ngủ
+4. **scissors** : kéo
+5. **backpack** : ba lô
+6. **compass** : la bàn
 
 **Bài 2 trang 50** 
 
@@ -260,25 +260,25 @@ Let’s \+ V0
 How about \+ Ving  
 **Bài 3 trang 53** 
 
-1. add: (v) thêm vào, cộng thêm /æd/  
-2. all: (det) tất cả, toàn bộ /ɔːl/  
-3. attraction: (n) sự hấp dẫn, điểm thu hút /əˈtrækʃn/  
-4. complete: (v) hoàn thành; (adj) hoàn chỉnh /kəmˈpliːt/  
-5. enjoy: (v) thích thú, tận hưởng /ɪnˈdʒɔɪ/  
-6. kite: (n) diều /kaɪt/  
-7. land: (n) đất, đất liền; (v) hạ cánh /lænd/  
-8. landscape: (n) phong cảnh, cảnh quan /ˈlændskeɪp/  
-9. large: (adj) to, lớn /lɑːdʒ/  
-10. late: (adj) muộn, trễ /leɪt/  
-11. place: (n) địa điểm, nơi chốn; (v) đặt /pleɪs/  
-12. popular: (adj) phổ biến, được ưa chuộng /ˈpɒpjələ(r)/  
-13. rain: (n) mưa; (v) mưa /reɪn/  
-14. ride: (v) cưỡi, đi xe (ride-rode-ridden) /raɪd/  
-15. slope: (n) sườn dốc, độ dốc; (v) dốc /sləʊp/  
-16. speak: (v) nói (speak-spoke-spoken) /spiːk/  
-17. tell: (v) kể, nói (tell-told-told) /tel/  
-18. umbrella: (n) ô, dù /ʌmˈbrelə/  
-19. visitor: (n) khách, người thăm /ˈvɪzɪtə(r)/
+1. **add** : (v) thêm vào, cộng thêm /æd/
+2. **all** : (det) tất cả, toàn bộ /ɔːl/
+3. **attraction** : (n) sự hấp dẫn, điểm thu hút /əˈtrækʃn/
+4. **complete** : (v) hoàn thành; (adj) hoàn chỉnh /kəmˈpliːt/
+5. **enjoy** : (v) thích thú, tận hưởng /ɪnˈdʒɔɪ/
+6. **kite** : (n) diều /kaɪt/
+7. **land** : (n) đất, đất liền; (v) hạ cánh /lænd/
+8. **landscape** : (n) phong cảnh, cảnh quan /ˈlændskeɪp/
+9. **large** : (adj) to, lớn /lɑːdʒ/
+10. **late** : (adj) muộn, trễ /leɪt/
+11. **place** : (n) địa điểm, nơi chốn; (v) đặt /pleɪs/
+12. **popular** : (adj) phổ biến, được ưa chuộng /ˈpɒpjələ(r)/
+13. **rain** : (n) mưa; (v) mưa /reɪn/
+14. **ride** : (v) cưỡi, đi xe (ride-rode-ridden) /raɪd/
+15. **slope** : (n) sườn dốc, độ dốc; (v) dốc /sləʊp/
+16. **speak** : (v) nói (speak-spoke-spoken) /spiːk/
+17. **tell** : (v) kể, nói (tell-told-told) /tel/
+18. **umbrella** : (n) ô, dù /ʌmˈbrelə/
+19. **visitor** : (n) khách, người thăm /ˈvɪzɪtə(r)/
 
 **Bài dịch: Bài 3 trang 53**  
 Hướng dẫn du lịch toàn cầu 
@@ -309,7 +309,7 @@ B: You must bring warm clothes like scarves (khăn choàng) and wool jackets (á
 3. bike \- (n) xe đạp /baik/  
 4. cave (caves) \- (n) hang động /keɪv/  
 5. colour (colours) \- (n) màu sắc /'kʌlə/  
-6. fly \- (v) thả, cho bay (trong ngữ cảnh: thả diều) /flaɪ/  
+6. **fly \- (v) thả, cho bay (trong ngữ cảnh** : thả diều) /flaɪ/
 7. here \- (trạng từ) ở đây /hɪə/  
 8. kite (kites) \- (n) diều, cánh diều /kaɪt/  
 9. landscape (landscapes) \- (n) phong cảnh, cảnh quan /'lændskeɪp/  
@@ -317,7 +317,7 @@ B: You must bring warm clothes like scarves (khăn choàng) and wool jackets (á
 11. popular \- (tính từ) nổi tiếng, được ưa chuộng /'pɒpjʊlə/  
 12. ride \- (v) đi, chạy (xe đạp) /raɪd/  
 13. slope (slopes) \- (n) sườn dốc, triền cát /sləʊp/  
-14. wear \- (v) mặc, đeo (trong ngữ cảnh: bôi, thoa kem chống nắng) /weə/
+14. **wear \- (v) mặc, đeo (trong ngữ cảnh** : bôi, thoa kem chống nắng) /weə/
 
 Vịnh Hạ Long thì ở Quảng Ninh. Nó có nhiều hòn đảo và hang động. Tuần Châu, với nhiều bãi biển đẹp của nó, là một điểm thu hút khách du lịch phổ biến ở Vịnh Hạ Long . Ở đó bạn có thể thưởng thức hải sản tuyệt vời. Và bạn có thể tham gia vào những hoạt động thú vị. Vịnh Hạ Long là kì quan thiên nhiên đẹp nhất của Việt Nam.
 
@@ -358,18 +358,18 @@ You mustn’t have a picnic on the Sand Dunes.
 **Listening**   
 **Vocabulary** 
 
-1. green forest: khu rừng xanh /ˌgriːn ˈfɒrɪst/  
-2. resort: (n) khu nghỉ dưỡng /rɪˈzɔːt/  
-3. hotel: (n) khách sạn /həʊˈtel/  
-4. bar: (n) quán bar /bɑː/  
-5. international airport: sân bay quốc tế /ˌɪntəˈnæʃənəl ˈeəpɔːt/  
-6. fishing village: làng chài /ˈfɪʃɪŋ ˈvɪlɪdʒ/  
-7. pagoda: (n) chùa /pəˈgəʊdə/  
-8. temple: (n) đền, miếu /ˈtempl/  
-9. national park: công viên quốc gia /ˌnæʃənəl ˈpɑːk/  
-10. sailing: (n) môn đua thuyền buồm, (v) đi thuyền buồm /ˈseɪlɪŋ/  
-11. water sport: môn thể thao dưới nước /ˈwɔːtə spɔːt/  
-12. market: (n) chợ, thị trường /ˈmɑːkɪt/ 
+1. **green forest** : khu rừng xanh /ˌgriːn ˈfɒrɪst/
+2. **resort** : (n) khu nghỉ dưỡng /rɪˈzɔːt/
+3. **hotel** : (n) khách sạn /həʊˈtel/
+4. **bar** : (n) quán bar /bɑː/
+5. **international airport** : sân bay quốc tế /ˌɪntəˈnæʃənəl ˈeəpɔːt/
+6. **fishing village** : làng chài /ˈfɪʃɪŋ ˈvɪlɪdʒ/
+7. **pagoda** : (n) chùa /pəˈgəʊdə/
+8. **temple** : (n) đền, miếu /ˈtempl/
+9. **national park** : công viên quốc gia /ˌnæʃənəl ˈpɑːk/
+10. **sailing** : (n) môn đua thuyền buồm, (v) đi thuyền buồm /ˈseɪlɪŋ/
+11. **water sport** : môn thể thao dưới nước /ˈwɔːtə spɔːt/
+12. **market** : (n) chợ, thị trường /ˈmɑːkɪt/
 
 1\. T  
 (Phú Quốc là một hòn đảo rất đẹp ở Việt Nam. \=\> Đúng)  
@@ -384,11 +384,11 @@ You mustn’t have a picnic on the Sand Dunes.
 **Writing**   
 **Bài 3 trang 55**
 
-1. Tên của điểm thu hút: Đà Lạt   
-2. Nó ở đâu: Lâm Đồng province   
-3. Đi tới bằng cách nào: coach or air plane  
-4. Có gì đặc biệt về nó: cool weather, fresh air, beautiful landscapes, large forests, many waterfalls, a lot of flowers.  
-5. Bạn có thể làm gì ở đó: take photo, go camping, picnic, go sightseeing. 
+1. **Tên của điểm thu hút** : Đà Lạt
+2. **Nó ở đâu** : Lâm Đồng province
+3. **Đi tới bằng cách nào** : coach or air plane
+4. **Có gì đặc biệt về nó** : cool weather, fresh air, beautiful landscapes, large forests, many waterfalls, a lot of flowers.
+5. **Bạn có thể làm gì ở đó** : take photo, go camping, picnic, go sightseeing.
 
 **Bài 4 trang 55**   
 I am writing about Đà Lạt. It is in Lâm Đồng Province in Central Highland. We can go there by coach or by plane. It is famous for its cool weather and fresh air. It is also known as ‘The City of Flowers’. The landscape is beautiful with large forests and many waterfalls and a lot of flowers. Tourists can go sightseeing, take photos or go camping or have a picnic by the forests. 

@@ -4,22 +4,22 @@
 **Listening**   
 **Vocabulary** 
 
-1. persuade: (v) thuyết phục /pəˈsweɪd/  
-2. hair salon: tiệm làm tóc /heə səˈlɒn/  
-3. fashionable: (adj) hợp thời trang, thời thượng /ˈfæʃənəbl/  
-4. earn a living: kiếm sống /ɜːn ə ˈlɪvɪŋ/  
-5. passion: (n) niềm đam mê, sự say mê /ˈpæʃn/  
-6. passionate: (adj) đầy nhiệt huyết, đam mê /ˈpæʃənət/  
-7. ability: (n) khả năng, năng lực /əˈbɪləti/  
-8. salary: (n) lương /ˈsæləri/  
-9. opportunity: (n) cơ hội /ˌɒpəˈtjuːnəti/  
-10. remote: (adj) xa xôi, hẻo lánh; từ xa (làm việc từ xa) /rɪˈməʊt/  
-11. chef: (n) đầu bếp /ʃef/  
-12. agriculture: (n) nông nghiệp /ˈæɡrɪkʌltʃə/  
-13. department: (n) phòng, ban; bộ phận /dɪˈpɑːtmənt/  
-14. attend a vocational college: theo học một trường dạy nghề /əˈtend ə vəʊˈkeɪʃənl ˈkɒlɪdʒ/  
-15. farming methods: phương pháp canh tác /ˈfɑːmɪŋ ˈmeθədz/  
-16. a cooking certificate: chứng chỉ nấu ăn /ə ˈkʊkɪŋ səˈtɪfɪkət/
+1. **persuade** : (v) thuyết phục /pəˈsweɪd/
+2. **hair salon** : tiệm làm tóc /heə səˈlɒn/
+3. **fashionable** : (adj) hợp thời trang, thời thượng /ˈfæʃənəbl/
+4. **earn a living** : kiếm sống /ɜːn ə ˈlɪvɪŋ/
+5. **passion** : (n) niềm đam mê, sự say mê /ˈpæʃn/
+6. **passionate** : (adj) đầy nhiệt huyết, đam mê /ˈpæʃənət/
+7. **ability** : (n) khả năng, năng lực /əˈbɪləti/
+8. **salary** : (n) lương /ˈsæləri/
+9. **opportunity** : (n) cơ hội /ˌɒpəˈtjuːnəti/
+10. **remote** : (adj) xa xôi, hẻo lánh; từ xa (làm việc từ xa) /rɪˈməʊt/
+11. **chef** : (n) đầu bếp /ʃef/
+12. **agriculture** : (n) nông nghiệp /ˈæɡrɪkʌltʃə/
+13. **department** : (n) phòng, ban; bộ phận /dɪˈpɑːtmənt/
+14. **attend a vocational college** : theo học một trường dạy nghề /əˈtend ə vəʊˈkeɪʃənl ˈkɒlɪdʒ/
+15. **farming methods** : phương pháp canh tác /ˈfɑːmɪŋ ˈmeθədz/
+16. **a cooking certificate** : chứng chỉ nấu ăn /ə ˈkʊkɪŋ səˈtɪfɪkət/
 
 **Bài 2** 
 

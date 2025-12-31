@@ -41,14 +41,14 @@ Các từ không nhấn thường là:
    - Đừng xả rác khi bạn đang tham gia chuyến du lịch sinh thái.
 
 ### New words
-1. trekking: (n) đi bộ đường dài /ˈtrekɪŋ/
-2. mountains: (n) núi /ˈmaʊntənz/
-3. children: (n) trẻ em /ˈtʃɪldrən/
-4. forward: (adv) về phía trước /ˈfɔːwəd/
-5. museum: (n) viện bảo tàng /mjuˈziːəm/
-6. tomorrow: (adv) ngày mai /təˈmɒrəʊ/
-7. litter: (v) xả rác /ˈlɪtə(r)/
-8. ecotour: (n) chuyến du lịch sinh thái /ˈiːkəʊtʊə(r)/
+1. **trekking** : (n) đi bộ đường dài /ˈtrekɪŋ/
+2. **mountains** : (n) núi /ˈmaʊntənz/
+3. **children** : (n) trẻ em /ˈtʃɪldrən/
+4. **forward** : (adv) về phía trước /ˈfɔːwəd/
+5. **museum** : (n) viện bảo tàng /mjuˈziːəm/
+6. **tomorrow** : (adv) ngày mai /təˈmɒrəʊ/
+7. **litter** : (v) xả rác /ˈlɪtə(r)/
+8. **ecotour** : (n) chuyến du lịch sinh thái /ˈiːkəʊtʊə(r)/
 
 ---
 
@@ -241,18 +241,18 @@ Các từ không nhấn thường là:
 
 ## Vocabulary (Từ vựng)
 
-1. responsible tourism: (n) du lịch có trách nhiệm /rɪˈspɒnsəbl ˈtʊərɪzəm/
-2. global warming: (n) sự nóng lên toàn cầu /ˈɡləʊbl ˈwɔːmɪŋ/
-3. tourist attraction: (n) điểm thu hút khách du lịch /ˈtʊərɪst əˈtrækʃn/
-4. environmental protection: (n) bảo vệ môi trường /ɪnˌvaɪrənˈmentl prəˈtekʃn/
-5. endangered animals: (n) động vật có nguy cơ tuyệt chủng /ɪnˈdeɪndʒəd ˈænɪmlz/
-6. ecosystem: (n) hệ sinh thái /ˈiːkəʊsɪstəm/
-7. eco-friendly: (adj) thân thiện với môi trường /ˌiːkəʊ ˈfrendli/
-8. biodiversity: (n) đa dạng sinh học /ˌbaɪəʊdaɪˈvɜːsəti/
-9. ecotourism: (n) du lịch sinh thái /ˈiːkəʊtʊərɪzəm/
-10. mass tourism: (n) du lịch đại chúng /mæs ˈtʊərɪzəm/
-11. deforestation: (n) nạn phá rừng /ˌdiːˌfɒrɪˈsteɪʃn/
-12. sustainable tourism: (n) du lịch bền vững /səˈsteɪnəbl ˈtʊərɪzəm/
-13. wildlife: (n) động vật hoang dã /ˈwaɪldlaɪf/
-14. Earth Hour: (n) Giờ Trái đất /ɜːθ aʊə(r)/
-15. illegal hunting: (n) săn bắn trái phép /ɪˈliːɡl ˈhʌntɪŋ/
+1. **responsible tourism** : (n) du lịch có trách nhiệm /rɪˈspɒnsəbl ˈtʊərɪzəm/
+2. **global warming** : (n) sự nóng lên toàn cầu /ˈɡləʊbl ˈwɔːmɪŋ/
+3. **tourist attraction** : (n) điểm thu hút khách du lịch /ˈtʊərɪst əˈtrækʃn/
+4. **environmental protection** : (n) bảo vệ môi trường /ɪnˌvaɪrənˈmentl prəˈtekʃn/
+5. **endangered animals** : (n) động vật có nguy cơ tuyệt chủng /ɪnˈdeɪndʒəd ˈænɪmlz/
+6. **ecosystem** : (n) hệ sinh thái /ˈiːkəʊsɪstəm/
+7. **eco-friendly** : (adj) thân thiện với môi trường /ˌiːkəʊ ˈfrendli/
+8. **biodiversity** : (n) đa dạng sinh học /ˌbaɪəʊdaɪˈvɜːsəti/
+9. **ecotourism** : (n) du lịch sinh thái /ˈiːkəʊtʊərɪzəm/
+10. **mass tourism** : (n) du lịch đại chúng /mæs ˈtʊərɪzəm/
+11. **deforestation** : (n) nạn phá rừng /ˌdiːˌfɒrɪˈsteɪʃn/
+12. **sustainable tourism** : (n) du lịch bền vững /səˈsteɪnəbl ˈtʊərɪzəm/
+13. **wildlife** : (n) động vật hoang dã /ˈwaɪldlaɪf/
+14. **Earth Hour** : (n) Giờ Trái đất /ɜːθ aʊə(r)/
+15. **illegal hunting** : (n) săn bắn trái phép /ɪˈliːɡl ˈhʌntɪŋ/

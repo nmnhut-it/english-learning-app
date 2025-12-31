@@ -3,14 +3,14 @@
 **SKILLS 2**   
 **Vocabulary** 
 
-1. rainforest: (n) rừng mưa nhiệt đới /ˈreɪnfɒrɪst/  
-2. flora: (n) quần thể thực vật /ˈflɔːrə/  
-3. fauna: (n) quần thể động vật /ˈfɔːnə/  
-4. climate: (n) khí hậu /ˈklaɪmət/  
-5. climate change: biến đổi khí hậu /ˈklaɪmət tʃeɪndʒ/  
-6. biodiversity: (n) đa dạng sinh học /ˌbaɪəʊdaɪˈvɜːsəti/  
-7. ecosystem: (n) hệ sinh thái /ˈiːkəʊˌsɪstəm/  
-8. green lung of the world: lá phổi xanh của trái đất /ɡriːn lʌŋ əv ðə wɜːld/
+1. **rainforest** : (n) rừng mưa nhiệt đới /ˈreɪnfɒrɪst/
+2. **flora** : (n) quần thể thực vật /ˈflɔːrə/
+3. **fauna** : (n) quần thể động vật /ˈfɔːnə/
+4. **climate** : (n) khí hậu /ˈklaɪmət/
+5. **climate change** : biến đổi khí hậu /ˈklaɪmət tʃeɪndʒ/
+6. **biodiversity** : (n) đa dạng sinh học /ˌbaɪəʊdaɪˈvɜːsəti/
+7. **ecosystem** : (n) hệ sinh thái /ˈiːkəʊˌsɪstəm/
+8. **green lung of the world** : lá phổi xanh của trái đất /ɡriːn lʌŋ əv ðə wɜːld/
 
 **WRITING** 
 

@@ -10,19 +10,19 @@ Vietnamese
 
 **Vocabulary** 
 
-1. classmate: (n) bạn cùng lớp /ˈklɑːsmeɪt/  
-2. friendly: (adj) thân thiện /ˈfrɛndli/  
-3. helpful: (adj) hữu ích /ˈhɛlpfl/  
-4. favorite: (adj) yêu thích /ˈfeɪvərɪt/  
-5. teach: (v) dạy /tiːtʃ/  
-6. math: (n) toán học /mæθ/  
-7. study: (v) học /ˈstʌdi/  
-8. Vietnamese: (n) tiếng Việt /ˌvjetnəˈmiːz/  
-9. library: (n) thư viện /ˈlaɪbrəri/  
-10. uniform: (n) đồng phục /ˈjuːnɪfɔːm/  
-11. biology: (n) sinh học /baɪˈɒlədʒi/  
-12. lesson: (n) bài học /ˈlɛsən/  
-13. farm: (n) trang trại /fɑːm/
+1. **classmate** : (n) bạn cùng lớp /ˈklɑːsmeɪt/
+2. **friendly** : (adj) thân thiện /ˈfrɛndli/
+3. **helpful** : (adj) hữu ích /ˈhɛlpfl/
+4. **favorite** : (adj) yêu thích /ˈfeɪvərɪt/
+5. **teach** : (v) dạy /tiːtʃ/
+6. **math** : (n) toán học /mæθ/
+7. **study** : (v) học /ˈstʌdi/
+8. **Vietnamese** : (n) tiếng Việt /ˌvjetnəˈmiːz/
+9. **library** : (n) thư viện /ˈlaɪbrəri/
+10. **uniform** : (n) đồng phục /ˈjuːnɪfɔːm/
+11. **biology** : (n) sinh học /baɪˈɒlədʒi/
+12. **lesson** : (n) bài học /ˈlɛsən/
+13. **farm** : (n) trang trại /fɑːm/
 
 **Nội dung bài nghe**  
 Hi. My name’s Janet. I’m eleven years old. I’m now in year 6 at Palmer School. I like it here. My classmates are friendly. The teachers at my school are nice and very helpful, and my favourite teacher is Mrs. Smith. She teaches us maths. I have two hours to study Vietnamese every week. I usually do my homework in the library. We wear our uniforms every day, but today we aren’t. We’re going to have a biology lesson on a farm.
@@ -36,7 +36,7 @@ Hi. My name’s Janet. I’m eleven years old. I’m now in year 6 at Palmer Sch
 
 **Bài 3 trang 13**
 
-1. name: tên   
+1. **name** : tên
    of: của   
    your: của bạn   
    school: trường → your school: trường của bạn  
@@ -54,13 +54,13 @@ Hi. My name’s Janet. I’m eleven years old. I’m now in year 6 at Palmer Sch
    **school: trường**   
    **→ trường của bạn thì ở đâu**   
    My school is in Tien Giang  
-3. How many:bao nhiêu   
+3. **How many** : bao nhiêu
    class: lớp   
    your school: trường của bạn   
    have: có   
    trường của bạn có bao bao nhiêu lớp học   
    My school has 20 classes   
-4. what: gì   
+4. **what** : gì
    do: làm   
    students: học sinh   
    what do students do: học sinh làm gì   

@@ -3,10 +3,10 @@
 **COMMUNICATION**   
 **Vocabulary** 
 
-1. I think: (cụm động từ) tôi nghĩ /aɪ θɪŋk/  
-2. I agree with you: tôi đồng ý với bạn /aɪ əˈɡriː wɪð juː/  
-3. I don't agree with you: tôi không đồng ý với bạn /aɪ dəʊnt əˈɡriː wɪð juː/  
-4. in our daily life: trong cuộc sống hàng ngày của chúng ta /ɪn ˈaʊə ˈdeɪli laɪf/
+1. **I think** : (cụm động từ) tôi nghĩ /aɪ θɪŋk/
+2. **I agree with you** : tôi đồng ý với bạn /aɪ əˈɡriː wɪð juː/
+3. **I don't agree with you** : tôi không đồng ý với bạn /aɪ dəʊnt əˈɡriː wɪð juː/
+4. **in our daily life** : trong cuộc sống hàng ngày của chúng ta /ɪn ˈaʊə ˈdeɪli laɪf/
 
  
 

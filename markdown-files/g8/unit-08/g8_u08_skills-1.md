@@ -4,24 +4,24 @@
 
 **Vocabulary** 
 
-1. shopping center: trung tâm mua sắm /ˈʃɒpɪŋ ˌsentə/  
-2. customer: (n) khách hàng /ˈkʌstəmə/  
-3. choose from: lựa chọn từ /tʃuːz frɒm/  
-4. a wide range of products: một loạt các sản phẩm đa dạng /ə waɪd reɪndʒ ɒv ˈprɒdʌkts/  
-5. touch: (v) chạm vào, sờ vào /tʌtʃ/  
-6. decide: (v) quyết định /dɪˈsaɪd/  
-7. for many other reasons: vì nhiều lý do khác /fə ˈmeni ˈʌðə ˈriːznz/  
-8. year-round: (adj) suốt năm, quanh năm /jɪə raʊnd/  
-9. of all ages: thuộc mọi lứa tuổi /ɒv ɔːl eɪdʒɪz/  
-10. live music: (n) nhạc sống, nhạc trực tiếp /laɪv ˈmjuːzɪk/  
-11. holiday excitement: không khí lễ hội sôi động /ˈhɒlədeɪ ɪkˈsaɪtmənt/  
-12. hang out with friends: đi chơi với bạn bè /hæŋ aʊt wɪð frendz/  
-13. go browsing: đi dạo xem hàng /ɡəʊ ˈbraʊzɪŋ/  
-14. wander: (v) đi lang thang, đi dạo /ˈwɒndə/  
-15. get exercise: tập thể dục /ɡet ˈeksəsaɪz/  
-16. well-lit areas: khu vực được chiếu sáng tốt /wel lɪt ˈeəriəz/  
-17. heat: (n) nhiệt, sức nóng /hiːt/  
-18. air conditioning: (n) điều hòa không khí /eə kənˈdɪʃənɪŋ/
+1. **shopping center** : trung tâm mua sắm /ˈʃɒpɪŋ ˌsentə/
+2. **customer** : (n) khách hàng /ˈkʌstəmə/
+3. **choose from** : lựa chọn từ /tʃuːz frɒm/
+4. **a wide range of products** : một loạt các sản phẩm đa dạng /ə waɪd reɪndʒ ɒv ˈprɒdʌkts/
+5. **touch** : (v) chạm vào, sờ vào /tʌtʃ/
+6. **decide** : (v) quyết định /dɪˈsaɪd/
+7. **for many other reasons** : vì nhiều lý do khác /fə ˈmeni ˈʌðə ˈriːznz/
+8. **year-round** : (adj) suốt năm, quanh năm /jɪə raʊnd/
+9. **of all ages** : thuộc mọi lứa tuổi /ɒv ɔːl eɪdʒɪz/
+10. **live music** : (n) nhạc sống, nhạc trực tiếp /laɪv ˈmjuːzɪk/
+11. **holiday excitement** : không khí lễ hội sôi động /ˈhɒlədeɪ ɪkˈsaɪtmənt/
+12. **hang out with friends** : đi chơi với bạn bè /hæŋ aʊt wɪð frendz/
+13. **go browsing** : đi dạo xem hàng /ɡəʊ ˈbraʊzɪŋ/
+14. **wander** : (v) đi lang thang, đi dạo /ˈwɒndə/
+15. **get exercise** : tập thể dục /ɡet ˈeksəsaɪz/
+16. **well-lit areas** : khu vực được chiếu sáng tốt /wel lɪt ˈeəriəz/
+17. **heat** : (n) nhiệt, sức nóng /hiːt/
+18. **air conditioning** : (n) điều hòa không khí /eə kənˈdɪʃənɪŋ/
 
  Tại sao chúng ta đi tới các trung tâm mua sắm 
 

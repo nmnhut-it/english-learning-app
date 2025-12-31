@@ -19,6 +19,7 @@ document.addEventListener('DOMContentLoaded', () => {
       BootScene,
       MenuScene,
       LessonSelectScene,
+      CopyReviseScene,
       FlashcardScene,
       MeaningMatchScene,
       PronunciationScene,

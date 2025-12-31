@@ -4,34 +4,34 @@
 
 ### 📚 Vocabulary - Từ vựng
 
-- **cousin** : (n) em họ, anh chị em họ /ˈkʌzən/
-- **coming** : (v-ing) sắp đến /ˈkʌmɪŋ/
-- **soon** : (adv) sớm /suːn/
-- **many** : (det) nhiều /ˈmeni/
-- **blooming** : (adj) đang nở /ˈbluːmɪŋ/
-- **admire** : (v) ngắm, ngưỡng mộ, thưởng thức /ədˈmaɪər/
-- **kumquat** : (n) quất /ˈkʌmkwɒt/
-- **peach** : (n) đào /piːtʃ/
-- **blossom** : (n) hoa (nở rộ) /ˈblɒsəm/
-- **ornamental** : (adj) trang trí /ˌɔːnəˈmentəl/
-- **decoration** : (n) trang trí /ˌdekəˈreɪʃən/
-- **offering** : (n) đồ cúng /ˈɒfərɪŋ/
-- **important** : (adj) quan trọng /ɪmˈpɔːtənt/
-- **actually** : (adv) thực ra /ˈæktʃuəli/
-- **bamboo** : (n) tre /bæmˈbuː/
-- **pole** : (n) cột /pəʊl/
-- **yard** : (n) sân /jɑːd/
-- **communal** : (adj) cộng đồng /ˈkɒmjʊnəl/
-- **hang - hung - hung** : (v) treo /hæŋ/
-- **decorative** : (adj) trang trí /ˈdekərətɪv/
-- **item** : (n) đồ, vật /ˈaɪtəm/
-- **bell** : (n) chuông /bel/
-- **lantern** : (n) đèn lồng /ˈlæntən/
-- **chase** : (v) xua đuổi /tʃeɪs/
-- **away** : (adv) xa /əˈweɪ/
-- **luck** : (n) vận may rủi /lʌk/
-- **pray** : (v) cầu nguyện /preɪ/
-- **lucky** : (adj) may mắn /ˈlʌki/
+1. **cousin** : (n) em họ, anh chị em họ /ˈkʌzən/
+2. **coming** : (v-ing) sắp đến /ˈkʌmɪŋ/
+3. **soon** : (adv) sớm /suːn/
+4. **many** : (det) nhiều /ˈmeni/
+5. **blooming** : (adj) đang nở /ˈbluːmɪŋ/
+6. **admire** : (v) ngắm, ngưỡng mộ, thưởng thức /ədˈmaɪər/
+7. **kumquat** : (n) quất /ˈkʌmkwɒt/
+8. **peach** : (n) đào /piːtʃ/
+9. **blossom** : (n) hoa (nở rộ) /ˈblɒsəm/
+10. **ornamental** : (adj) trang trí /ˌɔːnəˈmentəl/
+11. **decoration** : (n) trang trí /ˌdekəˈreɪʃən/
+12. **offering** : (n) đồ cúng /ˈɒfərɪŋ/
+13. **important** : (adj) quan trọng /ɪmˈpɔːtənt/
+14. **actually** : (adv) thực ra /ˈæktʃuəli/
+15. **bamboo** : (n) tre /bæmˈbuː/
+16. **pole** : (n) cột /pəʊl/
+17. **yard** : (n) sân /jɑːd/
+18. **communal** : (adj) cộng đồng /ˈkɒmjʊnəl/
+19. **hang - hung - hung** : (v) treo /hæŋ/
+20. **decorative** : (adj) trang trí /ˈdekərətɪv/
+21. **item** : (n) đồ, vật /ˈaɪtəm/
+22. **bell** : (n) chuông /bel/
+23. **lantern** : (n) đèn lồng /ˈlæntən/
+24. **chase** : (v) xua đuổi /tʃeɪs/
+25. **away** : (adv) xa /əˈweɪ/
+26. **luck** : (n) vận may rủi /lʌk/
+27. **pray** : (v) cầu nguyện /preɪ/
+28. **lucky** : (adj) may mắn /ˈlʌki/
 
 ### 💬 Content - Nội dung
 
@@ -127,18 +127,18 @@
 
 ### 📚 Vocabulary - Từ vựng
 
-- **family reunion** : (n) đoàn tụ gia đình /ˈfæmɪli riːˈjuːniən/
-- **wedding ceremony** : (n) lễ cưới /ˈwedɪŋ ˈserəməni/
-- **food offerings** : (n) đồ ăn cúng /fuːd ˈɒfərɪŋz/
-- **whale worship** : (n) thờ cá voi /weɪl ˈwɜːʃɪp/
-- **martial arts** : (n) võ thuật /ˈmɑːʃəl ɑːts/
-- **festival goers** : (n) người đi trẩy hội /ˈfestɪvəl ˈɡəʊəz/
-- **worship** : (v) thờ cúng /ˈwɜːʃɪp/
-- **ancestor** : (n) tổ tiên /ˈænsestər/
-- **generation** : (n) thế hệ /ˌdʒenəˈreɪʃən/
-- **table manners** : (n) phép tắc ăn uống /ˈteɪbəl ˈmænəz/
-- **tradition** : (n) truyền thống /trəˈdɪʃən/
-- **anniversary** : (n) lễ kỷ niệm /ˌænɪˈvɜːsəri/
+1. **family reunion** : (n) đoàn tụ gia đình /ˈfæmɪli riːˈjuːniən/
+2. **wedding ceremony** : (n) lễ cưới /ˈwedɪŋ ˈserəməni/
+3. **food offerings** : (n) đồ ăn cúng /fuːd ˈɒfərɪŋz/
+4. **whale worship** : (n) thờ cá voi /weɪl ˈwɜːʃɪp/
+5. **martial arts** : (n) võ thuật /ˈmɑːʃəl ɑːts/
+6. **festival goers** : (n) người đi trẩy hội /ˈfestɪvəl ˈɡəʊəz/
+7. **worship** : (v) thờ cúng /ˈwɜːʃɪp/
+8. **ancestor** : (n) tổ tiên /ˈænsestər/
+9. **generation** : (n) thế hệ /ˌdʒenəˈreɪʃən/
+10. **table manners** : (n) phép tắc ăn uống /ˈteɪbəl ˈmænəz/
+11. **tradition** : (n) truyền thống /trəˈdɪʃən/
+12. **anniversary** : (n) lễ kỷ niệm /ˌænɪˈvɜːsəri/
 
 ### 🗣️ Pronunciation - Phát âm
 
@@ -256,21 +256,21 @@ A recent study in **(1) the** UK shows that family time traditions are good for 
 
 ### 📚 Vocabulary - Từ vựng
 
-- **perhaps** : (adv) có lẽ /pəˈhæps/
-- **a good idea** : (phrase) một ý tưởng hay /ə ɡʊd aɪˈdɪə/
-- **hit the bowl** : (phrase) gõ vào bát /hɪt ðə bəʊl/
-- **hand** : (v) đưa bằng tay /hænd/
-- **chopsticks** : (n) đũa /ˈtʃɒpstɪks/
-- **lion dance** : (n) múa sư tử /ˈlaɪən dæns/
-- **unicorn dance** : (n) múa lân /ˈjuːnɪkɔːn dæns/
-- **celebration** : (n) lễ kỷ niệm /ˌselɪˈbreɪʃən/
-- **occasion** : (n) dịp /əˈkeɪʒən/
-- **wedding** : (n) đám cưới /ˈwedɪŋ/
-- **acrobatics** : (n) nhào lộn /ˌækrəˈbætɪks/
-- **sound** : (n) âm thanh /saʊnd/
-- **flute** : (n) sáo /fluːt/
-- **drum** : (n) trống /drʌm/
-- **bad spirit** : (n) tà ma /bæd ˈspɪrɪt/
+1. **perhaps** : (adv) có lẽ /pəˈhæps/
+2. **a good idea** : (phrase) một ý tưởng hay /ə ɡʊd aɪˈdɪə/
+3. **hit the bowl** : (phrase) gõ vào bát /hɪt ðə bəʊl/
+4. **hand** : (v) đưa bằng tay /hænd/
+5. **chopsticks** : (n) đũa /ˈtʃɒpstɪks/
+6. **lion dance** : (n) múa sư tử /ˈlaɪən dæns/
+7. **unicorn dance** : (n) múa lân /ˈjuːnɪkɔːn dæns/
+8. **celebration** : (n) lễ kỷ niệm /ˌselɪˈbreɪʃən/
+9. **occasion** : (n) dịp /əˈkeɪʒən/
+10. **wedding** : (n) đám cưới /ˈwedɪŋ/
+11. **acrobatics** : (n) nhào lộn /ˌækrəˈbætɪks/
+12. **sound** : (n) âm thanh /saʊnd/
+13. **flute** : (n) sáo /fluːt/
+14. **drum** : (n) trống /drʌm/
+15. **bad spirit** : (n) tà ma /bæd ˈspɪrɪt/
 
 ### 🗣️ Activities - Hoạt động
 
@@ -307,11 +307,11 @@ The **shishi-mai** or lion dance is one of the most popular traditions in Japan.
 Most forms of shishi-mai have one or more performers. They wear a lion costume and move to lively music. The basic dance includes different tricks. The performers pretend to bite the heads of the audience. They do this to bring good luck and to force bad spirits away.
 
 **Shishi-mai**
-1. Japanese name: shishi-mai
-2. Occasions: New Year celebrations, business openings and weddings
-3. Number of performers: one or more
-4. Musical instruments: flutes and drums
-5. Purposes: bring good luck and chase away bad spirits
+1. **Japanese name** : shishi-mai
+2. **Occasions** : New Year celebrations, business openings and weddings
+3. **Number of performers** : one or more
+4. **Musical instruments** : flutes and drums
+5. **Purposes** : bring good luck and chase away bad spirits
 
 **Bài 4:** Work in groups. Read Mai's notes on the Vietnamese unicorn dance. Compare the Vietnamese unicorn dance with the Japanese lion dance.
 *(Làm việc theo nhóm. Đọc ghi chú của Mai về múa lân Việt Nam. So sánh múa lân Việt Nam với múa sư tử Nhật Bản.)*
@@ -328,26 +328,26 @@ Both Mua lan and shishi-mai can have one or more performers.
 
 ### 📚 Vocabulary - Từ vựng
 
-- **northern** : (adj) miền Bắc /ˈnɔːðən/
-- **look forward to** : (phrase) mong chờ /lʊk ˈfɔːwəd tuː/
-- **gather** : (v) tụ họp /ˈɡæðər/
-- **along** : (prep) dọc theo /əˈlɒŋ/
-- **riverside** : (n) bờ sông /ˈrɪvəsaɪd/
-- **competition** : (n) cuộc thi /ˌkɒmpəˈtɪʃən/
-- **boat race** : (n) cuộc đua thuyền /bəʊt reɪs/
-- **row the boat** : (phrase) chèo thuyền /rəʊ ðə bəʊt/
-- **release a duck** : (phrase) thả vịt /rɪˈliːs ə dʌk/
-- **contestant** : (n) thí sinh /kənˈtestənt/
-- **jump** : (v) nhảy /dʒʌmp/
-- **atmosphere** : (n) bầu không khí /ˈætməsfɪər/
-- **cheer** : (n) tiếng reo hò /tʃɪər/
-- **steamed chicken** : (n) gà hấp /stiːmd ˈtʃɪkɪn/
-- **include** : (v) bao gồm /ɪnˈkluːd/
-- **maintain** : (v) duy trì /meɪnˈteɪn/
-- **strengthen family bonds** : (phrase) củng cố sự gắn kết gia đình /ˈstreŋθən ˈfæmɪli bɒndz/
-- **properly** : (adv) đúng cách /ˈprɒpəli/
-- **freedom** : (n) tự do /ˈfriːdəm/
-- **valuable prize** : (n) giải thưởng có giá trị /ˈvæljuəbl praɪz/
+1. **northern** : (adj) miền Bắc /ˈnɔːðən/
+2. **look forward to** : (phrase) mong chờ /lʊk ˈfɔːwəd tuː/
+3. **gather** : (v) tụ họp /ˈɡæðər/
+4. **along** : (prep) dọc theo /əˈlɒŋ/
+5. **riverside** : (n) bờ sông /ˈrɪvəsaɪd/
+6. **competition** : (n) cuộc thi /ˌkɒmpəˈtɪʃən/
+7. **boat race** : (n) cuộc đua thuyền /bəʊt reɪs/
+8. **row the boat** : (phrase) chèo thuyền /rəʊ ðə bəʊt/
+9. **release a duck** : (phrase) thả vịt /rɪˈliːs ə dʌk/
+10. **contestant** : (n) thí sinh /kənˈtestənt/
+11. **jump** : (v) nhảy /dʒʌmp/
+12. **atmosphere** : (n) bầu không khí /ˈætməsfɪər/
+13. **cheer** : (n) tiếng reo hò /tʃɪər/
+14. **steamed chicken** : (n) gà hấp /stiːmd ˈtʃɪkɪn/
+15. **include** : (v) bao gồm /ɪnˈkluːd/
+16. **maintain** : (v) duy trì /meɪnˈteɪn/
+17. **strengthen family bonds** : (phrase) củng cố sự gắn kết gia đình /ˈstreŋθən ˈfæmɪli bɒndz/
+18. **properly** : (adv) đúng cách /ˈprɒpəli/
+19. **freedom** : (n) tự do /ˈfriːdəm/
+20. **valuable prize** : (n) giải thưởng có giá trị /ˈvæljuəbl praɪz/
 
 ### 📖 Reading - Đọc
 
@@ -389,10 +389,10 @@ Vào buổi trưa, có một bữa tiệc làng tại nhà cộng đồng dành 
 **Bài 3:** Read the text again. Complete the mind map about a family party.
 *(Đọc lại bài. Hoàn thành sơ đồ tư duy về bữa tiệc gia đình.)*
 
-1. Time: on the **third** day of Tet
-2. Place: at **home**
-3. Activities: cooking traditional **dishes**
-4. Food: five-colour sticky rice, steamed chicken, spring rolls, and deep-fried fish
+1. **Time** : on the **third** day of Tet
+2. **Place** : at **home**
+3. **Activities** : cooking traditional **dishes**
+4. **Food** : five-colour sticky rice, steamed chicken, spring rolls, and deep-fried fish
 
 ### 🗣️ Speaking - Nói
 
@@ -409,18 +409,18 @@ Vào buổi trưa, có một bữa tiệc làng tại nhà cộng đồng dành 
 
 ### 📚 Vocabulary - Từ vựng
 
-- **Moon Worshipping Festival** : (n) Lễ hội cúng trăng /muːn ˈwɜːʃɪpɪŋ ˈfestɪvəl/
-- **lunar calendar** : (n) lịch âm /ˈluːnər ˈkælɪndər/
-- **monk** : (n) nhà sư /mʌŋk/
-- **elder** : (n) người lớn tuổi /ˈeldər/
-- **young rice** : (n) cốm /jʌŋ raɪs/
-- **fashion show** : (n) trình diễn thời trang /ˈfæʃən ʃəʊ/
-- **flying lantern** : (n) đèn lồng bay /ˈflaɪɪŋ ˈlæntən/
-- **Ngo boat** : (n) thuyền Ngo /ŋəʊ bəʊt/
-- **religious ceremony** : (n) nghi lễ tôn giáo /rɪˈlɪdʒəs ˈserəməni/
-- **dress up** : (v) ăn mặc đẹp /dres ʌp/
-- **sleeveless shirt** : (n) áo không tay /ˈsliːvləs ʃɜːt/
-- **shorts** : (n) quần short /ʃɔːts/
+1. **Moon Worshipping Festival** : (n) Lễ hội cúng trăng /muːn ˈwɜːʃɪpɪŋ ˈfestɪvəl/
+2. **lunar calendar** : (n) lịch âm /ˈluːnər ˈkælɪndər/
+3. **monk** : (n) nhà sư /mʌŋk/
+4. **elder** : (n) người lớn tuổi /ˈeldər/
+5. **young rice** : (n) cốm /jʌŋ raɪs/
+6. **fashion show** : (n) trình diễn thời trang /ˈfæʃən ʃəʊ/
+7. **flying lantern** : (n) đèn lồng bay /ˈflaɪɪŋ ˈlæntən/
+8. **Ngo boat** : (n) thuyền Ngo /ŋəʊ bəʊt/
+9. **religious ceremony** : (n) nghi lễ tôn giáo /rɪˈlɪdʒəs ˈserəməni/
+10. **dress up** : (v) ăn mặc đẹp /dres ʌp/
+11. **sleeveless shirt** : (n) áo không tay /ˈsliːvləs ʃɜːt/
+12. **shorts** : (n) quần short /ʃɔːts/
 
 ### 👂 Listening - Nghe
 

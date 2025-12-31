@@ -92,11 +92,11 @@
 #### Bài 2: Read the conversation again and match the two halves in the two columns
 *Đọc lại đoạn hội thoại và nối hai nửa ở hai cột*
 
-1. C - reduce our carbon footprint: giảm lượng khí thải carbon của chúng ta
-2. D - turn off devices when we're not using them: tắt thiết bị khi không sử dụng
-3. E - plant more trees in our neighbourhood: trồng thêm cây xanh trong khu phố của chúng ta
-4. A - avoid using single-use products: tránh sử dụng sản phẩm dùng một lần
-5. B - stop littering: ngừng xả rác
+1. **C - reduce our carbon footprint** : giảm lượng khí thải carbon của chúng ta
+2. **D - turn off devices when we're not using them** : tắt thiết bị khi không sử dụng
+3. **E - plant more trees in our neighbourhood** : trồng thêm cây xanh trong khu phố của chúng ta
+4. **A - avoid using single-use products** : tránh sử dụng sản phẩm dùng một lần
+5. **B - stop littering** : ngừng xả rác
 
 #### Bài 3: Complete each sentence with one word or phrase from the box
 *Hoàn thành mỗi câu với một từ hoặc cụm từ trong hộp*
@@ -188,15 +188,15 @@
 #### Bài 2: Match each word or phrase in column A with its meaning in column B
 *Nối mỗi từ hoặc cụm từ ở cột A với nghĩa của nó ở cột B*
 
-1. e - ecosystem: the place where a type of plant or animal lives.
+1. **e - ecosystem** : the place where a type of plant or animal lives.
    *hệ sinh thái – nơi mà một loài thực vật hay động vật sinh sống.*
-2. a - pollution: the process of making water, air, soil, etc. dirty by adding harmful substances.
+2. **a - pollution** : the process of making water, air, soil, etc. dirty by adding harmful substances.
    *ô nhiễm – quá trình làm nước, không khí, đất đá bị nhiễm bẩn bằng cách thêm vào những chất có hại.*
-3. c - habitat: the way living and non-living things in a particular area are related to each other.
+3. **c - habitat** : the way living and non-living things in a particular area are related to each other.
    *môi trường sống – cách mà những sinh vật sống và không sống ở trong một khu vực nhất định liên quan đến nhau.*
-4. b - environmental protection: the practice of protecting the natural environment.
+4. **b - environmental protection** : the practice of protecting the natural environment.
    *bảo vệ môi trường – thói quen bảo vệ môi trường tự nhiên.*
-5. d - endangered species: animals facing a high risk of extinction in the wild.
+5. **d - endangered species** : animals facing a high risk of extinction in the wild.
    *loài động vật bị đe dọa – các loại động vật đối mặt với nguy cơ tuyệt chủng cao ngoài hoang dã.*
 
 #### Bài 3: Complete each sentence with a word or phrase from the box

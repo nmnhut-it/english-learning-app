@@ -169,12 +169,12 @@ Work in pairs. Ask and answer questions about the chores you and your family mem
   (Vâng, chính tôi là người nấu ăn./ Không, chính mẹ tôi nấu ăn.)
 
 #### Lời giải chi tiết:
-1. A: Is it you who does the laundry at home?
+1. **A** : Is it you who does the laundry at home?
    (Có phải bạn là người giặt giũ ở nhà không?)
    B: Yes, it is me who does the laundry. / No, it is my sister who does the laundry.
    (Vâng, chính tôi là người giặt đồ. / Không, em gái tôi là người giặt quần áo.)
 
-2. A: Is it your dad who mows the lawn?
+2. **A** : Is it your dad who mows the lawn?
    (Có phải bố bạn là người cắt cỏ không?)
    B: Yes, it is my dad who mows the lawn. / No, it is my brother who mows the lawn.
    (Vâng, chính bố tôi là người cắt cỏ. / Không, anh trai tôi là người cắt cỏ.)

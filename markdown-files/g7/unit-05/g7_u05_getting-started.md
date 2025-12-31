@@ -29,16 +29,16 @@
 23. **melon juice**: (n) nước ép dưa /ˈmɛl.ən dʒuːs/  
 24. **I’ll be right back with your order**: tôi sẽ quay lại ngay với món bạn gọi /aɪl biː raɪt bæk wɪð jɔːr ˈɔː.dər/  
 25. **menu**: (n) thực đơn /ˈmen.juː/  
-26. **What can I get you**: Tôi có thể lấy gì cho bạn?   
-27. **also**: cũng   
-28. **some**: một ít, một vài   
-29. **could \= can**: có thể   
-30. **would you like**: bạn có muốn   
-31. **try**: thử, cố gắng   
+26. **What can I get you** : Tôi có thể lấy gì cho bạn?
+27. **also** : cũng
+28. **some** : một ít, một vài
+29. **could \= can** : có thể
+30. **would you like** : bạn có muốn
+31. **try** : thử, cố gắng
 32. **please**: làm ơn /pli:z/   
-33. **soup**: súp  
-34. **think**: nghĩ   
-35. **for**: cho
+33. **soup** : súp
+34. **think** : nghĩ
+35. **for** : cho
 
 
 ----

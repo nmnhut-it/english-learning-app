@@ -28,214 +28,214 @@ We look forward to seeing you there!
 <summary>📝 Word-by-Word Analysis</summary>
 
 ```
-1. We: (pron) Chúng tôi /wiː/
-2. are: (verb) là /ɑːr/
-3. excited: (adj) hào hứng /ɪkˈsaɪtɪd/
-4. to: (prep) để /tuː/
-5. invite: (verb) mời /ɪnˈvaɪt/
-6. you: (pron) bạn /juː/
-7. to: (prep) đến /tuː/
-8. this: (det) này /ðɪs/
-9. year's: (noun) của năm nay /jɪərz/
-10. Green: (adj) Xanh /ɡriːn/
-11. Fair: (noun) Hội chợ /feər/
-12. where: (adv) nơi mà /weər/
-13. we: (pron) chúng tôi /wiː/
-14. aim: (verb) nhằm /eɪm/
-15. to: (prep) để /tuː/
-16. promote: (verb) thúc đẩy /prəˈməʊt/
-17. environmental: (adj) về môi trường /ɪnˌvaɪrənˈmentəl/
-18. awareness: (noun) nhận thức /əˈweərnəs/
-19. and: (conj) và /ænd/
-20. sustainability: (noun) sự bền vững /səˌsteɪnəˈbɪləti/
-21. Our: (det) của chúng tôi /ˈaʊər/
-22. goal: (noun) mục tiêu /ɡəʊl/
-23. is: (verb) là /ɪz/
-24. to: (prep) để /tuː/
-25. inspire: (verb) truyền cảm hứng /ɪnˈspaɪər/
-26. students: (noun) học sinh /ˈstjuːdənts/
-27. teachers: (noun) giáo viên /ˈtiːtʃərz/
-28. and: (conj) và /ænd/
-29. community: (noun) cộng đồng /kəˈmjuːnəti/
-30. members: (noun) thành viên /ˈmembərz/
-31. to: (prep) để /tuː/
-32. adopt: (verb) áp dụng /əˈdɒpt/
-33. eco-friendly: (adj) thân thiện với môi trường /ˈiːkəʊˈfrendli/
-34. practices: (noun) thực hành /ˈpræktɪsɪz/
-35. that: (rel pron) mà /ðæt/
-36. reduce: (verb) giảm /rɪˈdjuːs/
-37. their: (det) của họ /ðeər/
-38. carbon: (noun) carbon /ˈkɑːrbən/
-39. footprint: (noun) dấu chân /fʊtprɪnt/
-40. and: (conj) và /ænd/
-41. protect: (verb) bảo vệ /prəˈtekt/
-42. our: (det) của chúng ta /ˈaʊər/
-43. planet: (noun) hành tinh /ˈplænɪt/
+1. **We** : (pron) Chúng tôi /wiː/
+2. **are** : (verb) là /ɑːr/
+3. **excited** : (adj) hào hứng /ɪkˈsaɪtɪd/
+4. **to** : (prep) để /tuː/
+5. **invite** : (verb) mời /ɪnˈvaɪt/
+6. **you** : (pron) bạn /juː/
+7. **to** : (prep) đến /tuː/
+8. **this** : (det) này /ðɪs/
+9. **year's** : (noun) của năm nay /jɪərz/
+10. **Green** : (adj) Xanh /ɡriːn/
+11. **Fair** : (noun) Hội chợ /feər/
+12. **where** : (adv) nơi mà /weər/
+13. **we** : (pron) chúng tôi /wiː/
+14. **aim** : (verb) nhằm /eɪm/
+15. **to** : (prep) để /tuː/
+16. **promote** : (verb) thúc đẩy /prəˈməʊt/
+17. **environmental** : (adj) về môi trường /ɪnˌvaɪrənˈmentəl/
+18. **awareness** : (noun) nhận thức /əˈweərnəs/
+19. **and** : (conj) và /ænd/
+20. **sustainability** : (noun) sự bền vững /səˌsteɪnəˈbɪləti/
+21. **Our** : (det) của chúng tôi /ˈaʊər/
+22. **goal** : (noun) mục tiêu /ɡəʊl/
+23. **is** : (verb) là /ɪz/
+24. **to** : (prep) để /tuː/
+25. **inspire** : (verb) truyền cảm hứng /ɪnˈspaɪər/
+26. **students** : (noun) học sinh /ˈstjuːdənts/
+27. **teachers** : (noun) giáo viên /ˈtiːtʃərz/
+28. **and** : (conj) và /ænd/
+29. **community** : (noun) cộng đồng /kəˈmjuːnəti/
+30. **members** : (noun) thành viên /ˈmembərz/
+31. **to** : (prep) để /tuː/
+32. **adopt** : (verb) áp dụng /əˈdɒpt/
+33. **eco-friendly** : (adj) thân thiện với môi trường /ˈiːkəʊˈfrendli/
+34. **practices** : (noun) thực hành /ˈpræktɪsɪz/
+35. **that** : (rel pron) mà /ðæt/
+36. **reduce** : (verb) giảm /rɪˈdjuːs/
+37. **their** : (det) của họ /ðeər/
+38. **carbon** : (noun) carbon /ˈkɑːrbən/
+39. **footprint** : (noun) dấu chân /fʊtprɪnt/
+40. **and** : (conj) và /ænd/
+41. **protect** : (verb) bảo vệ /prəˈtekt/
+42. **our** : (det) của chúng ta /ˈaʊər/
+43. **planet** : (noun) hành tinh /ˈplænɪt/
 
-44. At: (prep) Tại /æt/
-45. the: (det) /ðə/
-46. fair: (noun) hội chợ /feər/
-47. you: (pron) bạn /juː/
-48. can: (modal verb) có thể /kæn/
-49. expect: (verb) mong đợi /ɪkˈspekt/
-50. to: (prep) để /tuː/
-51. find: (verb) tìm thấy /faɪnd/
-52. a: (det) một /ə/
-53. variety: (noun) sự đa dạng /vəˈraɪəti/
-54. of: (prep) của /ɒv/
-55. fun: (adj) vui vẻ /fʌn/
-56. and: (conj) và /ænd/
-57. engaging: (adj) hấp dẫn /ɪnˈɡeɪdʒɪŋ/
-58. activities: (noun) hoạt động /ækˈtɪvətiz/
-59. such: (adj) như /sʌtʃ/
-60. as: (prep) như /æz/
+44. **At** : (prep) Tại /æt/
+45. **the** : (det) /ðə/
+46. **fair** : (noun) hội chợ /feər/
+47. **you** : (pron) bạn /juː/
+48. **can** : (modal verb) có thể /kæn/
+49. **expect** : (verb) mong đợi /ɪkˈspekt/
+50. **to** : (prep) để /tuː/
+51. **find** : (verb) tìm thấy /faɪnd/
+52. **a** : (det) một /ə/
+53. **variety** : (noun) sự đa dạng /vəˈraɪəti/
+54. **of** : (prep) của /ɒv/
+55. **fun** : (adj) vui vẻ /fʌn/
+56. **and** : (conj) và /ænd/
+57. **engaging** : (adj) hấp dẫn /ɪnˈɡeɪdʒɪŋ/
+58. **activities** : (noun) hoạt động /ækˈtɪvətiz/
+59. **such** : (adj) như /sʌtʃ/
+60. **as** : (prep) như /æz/
 
-61. Educational: (adj) thuộc về giáo dục /ˌedʒuˈkeɪʃənəl/
-62. workshops: (noun) hội thảo /ˈwɜːrkʃɒps/
-63. and: (conj) và /ænd/
-64. presentations: (noun) bài thuyết trình /ˌprezənˈteɪʃənz/
-65. on: (prep) về /ɒn/
-66. topics: (noun) chủ đề /ˈtɒpɪks/
-67. like: (prep) như /laɪk/
-68. climate: (noun) khí hậu /ˈklaɪmət/
-69. change: (noun) thay đổi /tʃeɪndʒ/
-70. recycling: (noun) tái chế /ˌriːˈsaɪklɪŋ/
-71. and: (conj) và /ænd/
-72. sustainable: (adj) bền vững /səˈsteɪnəbl/
-73. living: (noun) cuộc sống /ˈlɪvɪŋ/
+61. **Educational** : (adj) thuộc về giáo dục /ˌedʒuˈkeɪʃənəl/
+62. **workshops** : (noun) hội thảo /ˈwɜːrkʃɒps/
+63. **and** : (conj) và /ænd/
+64. **presentations** : (noun) bài thuyết trình /ˌprezənˈteɪʃənz/
+65. **on** : (prep) về /ɒn/
+66. **topics** : (noun) chủ đề /ˈtɒpɪks/
+67. **like** : (prep) như /laɪk/
+68. **climate** : (noun) khí hậu /ˈklaɪmət/
+69. **change** : (noun) thay đổi /tʃeɪndʒ/
+70. **recycling** : (noun) tái chế /ˌriːˈsaɪklɪŋ/
+71. **and** : (conj) và /ænd/
+72. **sustainable** : (adj) bền vững /səˈsteɪnəbl/
+73. **living** : (noun) cuộc sống /ˈlɪvɪŋ/
 
-74. A: (det) một /ə/
-75. plant: (noun) cây /plænt/
-76. sale: (noun) bán /seɪl/
-77. where: (adv) nơi mà /weər/
-78. you: (pron) bạn /juː/
-79. can: (modal verb) có thể /kæn/
-80. purchase: (verb) mua /ˈpɜːrtʃəs/
-81. a: (det) một /ə/
-82. variety: (noun) sự đa dạng /vəˈraɪəti/
-83. of: (prep) của /ɒv/
-84. plants: (noun) cây /plænts/
-85. and: (conj) và /ænd/
-86. learn: (verb) học /lɜːrn/
-87. about: (prep) về /əˈbaʊt/
-88. their: (det) của chúng /ðeər/
-89. environmental: (adj) về môi trường /ɪnˌvaɪrənˈmentəl/
-90. benefits: (noun) lợi ích /ˈbenɪfɪts/
+74. **A** : (det) một /ə/
+75. **plant** : (noun) cây /plænt/
+76. **sale** : (noun) bán /seɪl/
+77. **where** : (adv) nơi mà /weər/
+78. **you** : (pron) bạn /juː/
+79. **can** : (modal verb) có thể /kæn/
+80. **purchase** : (verb) mua /ˈpɜːrtʃəs/
+81. **a** : (det) một /ə/
+82. **variety** : (noun) sự đa dạng /vəˈraɪəti/
+83. **of** : (prep) của /ɒv/
+84. **plants** : (noun) cây /plænts/
+85. **and** : (conj) và /ænd/
+86. **learn** : (verb) học /lɜːrn/
+87. **about** : (prep) về /əˈbaʊt/
+88. **their** : (det) của chúng /ðeər/
+89. **environmental** : (adj) về môi trường /ɪnˌvaɪrənˈmentəl/
+90. **benefits** : (noun) lợi ích /ˈbenɪfɪts/
 
-91. A: (det) một /ə/
-92. clothing: (noun) quần áo /ˈkləʊðɪŋ/
-93. swap: (noun) trao đổi /swɒp/
-94. where: (adv) nơi mà /weər/
-95. you: (pron) bạn /juː/
-96. can: (modal verb) có thể /kæn/
-97. exchange: (verb) trao đổi /ɪksˈtʃeɪndʒ/
-98. gently: (adv) nhẹ nhàng /ˈdʒentli/
-99. used: (adj) đã qua sử dụng /juːzd/
-100. clothing: (noun) quần áo /ˈkləʊðɪŋ/
-101. with: (prep) với /wɪð/
-102. others: (pron) những người khác /ˈʌðərz/
-103. reducing: (verb) giảm /rɪˈdjuːsɪŋ/
-104. waste: (noun) chất thải /weɪst/
-105. and: (conj) và /ænd/
-106. promoting: (verb) thúc đẩy /prəˈməʊtɪŋ/
-107. a: (det) một /ə/
-108. circular: (adj) tuần hoàn /ˈsɜːrkjələ(r)/
-109. economy: (noun) nền kinh tế /ɪˈkɒnəmi/
+91. **A** : (det) một /ə/
+92. **clothing** : (noun) quần áo /ˈkləʊðɪŋ/
+93. **swap** : (noun) trao đổi /swɒp/
+94. **where** : (adv) nơi mà /weər/
+95. **you** : (pron) bạn /juː/
+96. **can** : (modal verb) có thể /kæn/
+97. **exchange** : (verb) trao đổi /ɪksˈtʃeɪndʒ/
+98. **gently** : (adv) nhẹ nhàng /ˈdʒentli/
+99. **used** : (adj) đã qua sử dụng /juːzd/
+100. **clothing** : (noun) quần áo /ˈkləʊðɪŋ/
+101. **with** : (prep) với /wɪð/
+102. **others** : (pron) những người khác /ˈʌðərz/
+103. **reducing** : (verb) giảm /rɪˈdjuːsɪŋ/
+104. **waste** : (noun) chất thải /weɪst/
+105. **and** : (conj) và /ænd/
+106. **promoting** : (verb) thúc đẩy /prəˈməʊtɪŋ/
+107. **a** : (det) một /ə/
+108. **circular** : (adj) tuần hoàn /ˈsɜːrkjələ(r)/
+109. **economy** : (noun) nền kinh tế /ɪˈkɒnəmi/
 
-110. A: (det) một /ə/
-111. food: (noun) đồ ăn /fuːd/
-112. court: (noun) khu ẩm thực /kɔːrt/
-113. featuring: (verb) có /fiːtʃərɪŋ/
-114. local: (adj) địa phương /ˈləʊkəl/
-115. and: (conj) và /ænd/
-116. organic: (adj) hữu cơ /ɔːrˈɡænɪk/
-117. food: (noun) đồ ăn /fuːd/
-118. options: (noun) lựa chọn /ˈɒpʃənz/
-119. as: (adv) như /æz/
-120. well: (adv) cũng như /wel/
-121. as: (conj) như /æz/
-122. a: (det) một /ə/
-123. cooking: (noun) nấu ăn /ˈkʊkɪŋ/
-124. demonstration: (noun) trình diễn /ˌdemənˈstreɪʃən/
-125. on: (prep) về /ɒn/
-126. how: (adv) làm thế nào /haʊ/
-127. to: (prep) để /tuː/
-128. prepare: (verb) chuẩn bị /prɪˈpeər/
-129. healthy: (adj) khỏe mạnh /ˈhelθi/
-130. and: (conj) và /ænd/
-131. sustainable: (adj) bền vững /səˈsteɪnəbl/
-132. meals: (noun) bữa ăn /miːlz/
+110. **A** : (det) một /ə/
+111. **food** : (noun) đồ ăn /fuːd/
+112. **court** : (noun) khu ẩm thực /kɔːrt/
+113. **featuring** : (verb) có /fiːtʃərɪŋ/
+114. **local** : (adj) địa phương /ˈləʊkəl/
+115. **and** : (conj) và /ænd/
+116. **organic** : (adj) hữu cơ /ɔːrˈɡænɪk/
+117. **food** : (noun) đồ ăn /fuːd/
+118. **options** : (noun) lựa chọn /ˈɒpʃənz/
+119. **as** : (adv) như /æz/
+120. **well** : (adv) cũng như /wel/
+121. **as** : (conj) như /æz/
+122. **a** : (det) một /ə/
+123. **cooking** : (noun) nấu ăn /ˈkʊkɪŋ/
+124. **demonstration** : (noun) trình diễn /ˌdemənˈstreɪʃən/
+125. **on** : (prep) về /ɒn/
+126. **how** : (adv) làm thế nào /haʊ/
+127. **to** : (prep) để /tuː/
+128. **prepare** : (verb) chuẩn bị /prɪˈpeər/
+129. **healthy** : (adj) khỏe mạnh /ˈhelθi/
+130. **and** : (conj) và /ænd/
+131. **sustainable** : (adj) bền vững /səˈsteɪnəbl/
+132. **meals** : (noun) bữa ăn /miːlz/
 
-133. A: (det) một /ə/
-134. recycling: (noun) tái chế /ˌriːˈsaɪklɪŋ/
-135. drive: (noun) chiến dịch /draɪv/
-136. where: (adv) nơi mà /weər/
-137. you: (pron) bạn /juː/
-138. can: (modal verb) có thể /kæn/
-139. bring: (verb) mang /brɪŋ/
-140. in: (prep) vào /ɪn/
-141. your: (det) của bạn /jɔːr/
-142. old: (adj) cũ /əʊld/
-143. electronics: (noun) đồ điện tử /ɪˌlekˈtrɒnɪks/
-144. batteries: (noun) pin /ˈbætəriz/
-145. and: (conj) và /ænd/
-146. other: (adj) khác /ˈʌðər/
-147. materials: (noun) vật liệu /məˈtɪəriəlz/
-148. to: (prep) để /tuː/
-149. be: (verb) được /biː/
-150. recycled: (verb) tái chế /ˌriːˈsaɪkld/
-151. responsibly: (adv) một cách có trách nhiệm /rɪˈspɒnsəbli/
+133. **A** : (det) một /ə/
+134. **recycling** : (noun) tái chế /ˌriːˈsaɪklɪŋ/
+135. **drive** : (noun) chiến dịch /draɪv/
+136. **where** : (adv) nơi mà /weər/
+137. **you** : (pron) bạn /juː/
+138. **can** : (modal verb) có thể /kæn/
+139. **bring** : (verb) mang /brɪŋ/
+140. **in** : (prep) vào /ɪn/
+141. **your** : (det) của bạn /jɔːr/
+142. **old** : (adj) cũ /əʊld/
+143. **electronics** : (noun) đồ điện tử /ɪˌlekˈtrɒnɪks/
+144. **batteries** : (noun) pin /ˈbætəriz/
+145. **and** : (conj) và /ænd/
+146. **other** : (adj) khác /ˈʌðər/
+147. **materials** : (noun) vật liệu /məˈtɪəriəlz/
+148. **to** : (prep) để /tuː/
+149. **be** : (verb) được /biː/
+150. **recycled** : (verb) tái chế /ˌriːˈsaɪkld/
+151. **responsibly** : (adv) một cách có trách nhiệm /rɪˈspɒnsəbli/
 
-152. We: (pron) Chúng tôi /wiː/
-153. hope: (verb) hy vọng /həʊp/
-154. that: (conj) rằng /ðæt/
-155. this: (det) này /ðɪs/
-156. fair: (noun) hội chợ /feər/
-157. will: (modal verb) sẽ /wɪl/
-158. not: (adv) không /nɒt/
-159. only: (adv) chỉ /əʊnli/
-160. be: (verb) là /biː/
-161. a: (det) một /ə/
-162. fun: (adj) vui vẻ /fʌn/
-163. and: (conj) và /ænd/
-164. informative: (adj) cung cấp thông tin /ɪnˈfɔːrmətɪv/
-165. event: (noun) sự kiện /ɪˈvent/
-166. but: (conj) mà /bʌt/
-167. also: (adv) cũng /ˈɔːlsəʊ/
-168. a: (det) một /ə/
-169. catalyst: (noun) chất xúc tác /ˈkætəlɪst/
-170. for: (prep) cho /fɔːr/
-171. change: (noun) thay đổi /tʃeɪndʒ/
-172. By: (prep) Bằng cách /baɪ/
-173. implementing: (verb) thực hiện /ˈɪmplɪmentɪŋ/
-174. the: (det) /ðə/
-175. eco-friendly: (adj) thân thiện với môi trường /ˈiːkəʊˈfrendli/
-176. practices: (noun) thực hành /ˈpræktɪsɪz/
-177. and: (conj) và /ænd/
-178. habits: (noun) thói quen /ˈhæbɪts/
-179. you: (pron) bạn /juː/
-180. learn: (verb) học /lɜːrn/
-181. here: (adv) ở đây /hɪər/
-182. you: (pron) bạn /juː/
-183. can: (modal verb) có thể /kæn/
-184. make: (verb) tạo ra /meɪk/
-185. a: (det) một /ə/
-186. positive: (adj) tích cực /ˈpɒzətɪv/
-187. impact: (noun) tác động /ˈɪmpækt/
-188. on: (prep) trên /ɒn/
-189. our: (det) của chúng ta /ˈaʊər/
-190. planet: (noun) hành tinh /ˈplænɪt/
-191. and: (conj) và /ænd/
-192. future: (adj) tương lai /ˈfjuːtʃər/
-193. generations: (noun) thế hệ /ˌdʒenəˈreɪʃənz/
+152. **We** : (pron) Chúng tôi /wiː/
+153. **hope** : (verb) hy vọng /həʊp/
+154. **that** : (conj) rằng /ðæt/
+155. **this** : (det) này /ðɪs/
+156. **fair** : (noun) hội chợ /feər/
+157. **will** : (modal verb) sẽ /wɪl/
+158. **not** : (adv) không /nɒt/
+159. **only** : (adv) chỉ /əʊnli/
+160. **be** : (verb) là /biː/
+161. **a** : (det) một /ə/
+162. **fun** : (adj) vui vẻ /fʌn/
+163. **and** : (conj) và /ænd/
+164. **informative** : (adj) cung cấp thông tin /ɪnˈfɔːrmətɪv/
+165. **event** : (noun) sự kiện /ɪˈvent/
+166. **but** : (conj) mà /bʌt/
+167. **also** : (adv) cũng /ˈɔːlsəʊ/
+168. **a** : (det) một /ə/
+169. **catalyst** : (noun) chất xúc tác /ˈkætəlɪst/
+170. **for** : (prep) cho /fɔːr/
+171. **change** : (noun) thay đổi /tʃeɪndʒ/
+172. **By** : (prep) Bằng cách /baɪ/
+173. **implementing** : (verb) thực hiện /ˈɪmplɪmentɪŋ/
+174. **the** : (det) /ðə/
+175. **eco-friendly** : (adj) thân thiện với môi trường /ˈiːkəʊˈfrendli/
+176. **practices** : (noun) thực hành /ˈpræktɪsɪz/
+177. **and** : (conj) và /ænd/
+178. **habits** : (noun) thói quen /ˈhæbɪts/
+179. **you** : (pron) bạn /juː/
+180. **learn** : (verb) học /lɜːrn/
+181. **here** : (adv) ở đây /hɪər/
+182. **you** : (pron) bạn /juː/
+183. **can** : (modal verb) có thể /kæn/
+184. **make** : (verb) tạo ra /meɪk/
+185. **a** : (det) một /ə/
+186. **positive** : (adj) tích cực /ˈpɒzətɪv/
+187. **impact** : (noun) tác động /ˈɪmpækt/
+188. **on** : (prep) trên /ɒn/
+189. **our** : (det) của chúng ta /ˈaʊər/
+190. **planet** : (noun) hành tinh /ˈplænɪt/
+191. **and** : (conj) và /ænd/
+192. **future** : (adj) tương lai /ˈfjuːtʃər/
+193. **generations** : (noun) thế hệ /ˌdʒenəˈreɪʃənz/
 
-194. We: (pron) Chúng tôi /wiː/
-195. look: (verb) mong đợi /lʊk/
-196. forward: (adv) về phía trước /ˈfɔːrwərd/
-197. to: (prep) để /tuː/
-198. seeing: (verb) nhìn thấy /ˈsiːɪŋ/
-199. you: (pron) bạn /juː/
-200. there: (adv) ở đó /ðeər/
+194. **We** : (pron) Chúng tôi /wiː/
+195. **look** : (verb) mong đợi /lʊk/
+196. **forward** : (adv) về phía trước /ˈfɔːrwərd/
+197. **to** : (prep) để /tuː/
+198. **seeing** : (verb) nhìn thấy /ˈsiːɪŋ/
+199. **you** : (pron) bạn /juː/
+200. **there** : (adv) ở đó /ðeər/
 ```
 
 </details>

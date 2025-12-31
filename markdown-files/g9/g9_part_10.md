@@ -2,26 +2,26 @@ UNIT 11: ELECTRONIC DEVICES**
 **GETTING STARTED**   
 **Vocabulary** 
 
-1. electronic shop: cửa hàng điện tử /ɪˌlekˈtrɒnɪk ʃɒp/  
-2. What can I do for you?: Tôi có thể giúp gì cho bạn? /wɒt kæn aɪ duː fə juː/  
-3. buy \- bought \- bought: (v) mua /baɪ \- bɔːt \- bɔːt/  
-4. son: (n) con trai /sʌn/  
-5. desktop: (n) máy tính để bàn /ˈdesktɒp/  
-6. tablet: (n) máy tính bảng, viên thuốc /ˈtæblət/  
-7. portable: (adj) di động, xách tay được /ˈpɔːtəbl/  
-8. suggest: (v) đề nghị, gợi ý /səˈdʒest/  
-9. effectively: (adv) hiệu quả, có hiệu lực /ɪˈfektɪvli/  
-10. lightweight aluminium case: vỏ nhôm nhẹ /ˈlaɪtweɪt əˈluːmɪniəm keɪs/  
-11. shoot videos: quay video /ʃuːt ˈvɪdiəʊz/  
-12. scan documents: quét tài liệu /skæn ˈdɒkjʊmənts/  
-13. finger: (n) ngón tay /ˈfɪŋɡə/  
-14. virtual keyboard: bàn phím ảo /ˈvɜːtʃʊəl ˈkiːbɔːd/  
-15. wireless hardware keyboard: bàn phím phần cứng không dây /ˈwaɪələs ˈhɑːdweə ˈkiːbɔːd/  
-16. write and draw: viết và vẽ /raɪt ænd drɔː/  
-17. take notes: ghi chú /teɪk nəʊts/  
-18. draw diagram: vẽ sơ đồ /drɔː ˈdaɪəɡræm/  
-19. type: (v) đánh máy, (n) loại /thai.p/   
-20. touchscreen: (n) màn hình cảm ứng 
+1. **electronic shop** : cửa hàng điện tử /ɪˌlekˈtrɒnɪk ʃɒp/
+2. **What can I do for you?** : Tôi có thể giúp gì cho bạn? /wɒt kæn aɪ duː fə juː/
+3. **buy \- bought \- bought** : (v) mua /baɪ \- bɔːt \- bɔːt/
+4. **son** : (n) con trai /sʌn/
+5. **desktop** : (n) máy tính để bàn /ˈdesktɒp/
+6. **tablet** : (n) máy tính bảng, viên thuốc /ˈtæblət/
+7. **portable** : (adj) di động, xách tay được /ˈpɔːtəbl/
+8. **suggest** : (v) đề nghị, gợi ý /səˈdʒest/
+9. **effectively** : (adv) hiệu quả, có hiệu lực /ɪˈfektɪvli/
+10. **lightweight aluminium case** : vỏ nhôm nhẹ /ˈlaɪtweɪt əˈluːmɪniəm keɪs/
+11. **shoot videos** : quay video /ʃuːt ˈvɪdiəʊz/
+12. **scan documents** : quét tài liệu /skæn ˈdɒkjʊmənts/
+13. **finger** : (n) ngón tay /ˈfɪŋɡə/
+14. **virtual keyboard** : bàn phím ảo /ˈvɜːtʃʊəl ˈkiːbɔːd/
+15. **wireless hardware keyboard** : bàn phím phần cứng không dây /ˈwaɪələs ˈhɑːdweə ˈkiːbɔːd/
+16. **write and draw** : viết và vẽ /raɪt ænd drɔː/
+17. **take notes** : ghi chú /teɪk nəʊts/
+18. **draw diagram** : vẽ sơ đồ /drɔː ˈdaɪəɡræm/
+19. **type** : (v) đánh máy, (n) loại /thai.p/
+20. **touchscreen** : (n) màn hình cảm ứng
 
 Nhân viên bán hàng: Chào buổi sáng\! Tôi có thể làm gì cho bạn?  
 Khách hàng: Chào buổi sáng\! Tôi muốn mua một chiếc máy tính cho con trai tôi.  
@@ -63,32 +63,32 @@ Trợ lý cửa hàng: Bạn có thể sử dụng bút chì của nó để ghi
 **A CLOSER LOOK 1**   
 **Vocabulary** 
 
-1. robotic vacuum cleaner: máy hút bụi tự động /rəʊˈbɒtɪk ˈvækjuːm ˈkliːnə/  
-2. e-reader: thiết bị đọc sách điện tử /iː ˈriːdə/  
-3. smartwatch: đồng hồ thông minh /smɑːt wɒtʃ/  
-4. portable music player: máy nghe nhạc di động /ˈpɔːtəbl ˈmjuːzɪk ˈpleɪə/  
-5. 3D printer: máy in 3D /θriː diː ˈprɪntə/  
-6. camcorder: máy quay phim /ˈkæmˌkɔːdə/  
-7. rubber: (n) cao su /ˈrʌbə/  
-8. cardboard: (n) bìa cứng /ˈkɑːdbɔːd/  
-9. steel: (n) thép /stiːl/  
-10. plastic: (n) nhựa /ˈplæstɪk/  
-11. copper: (n) đồng /ˈkɒpə/  
-12. soft reddish-brown metal: kim loại màu nâu đỏ mềmtại /sɒft ˈredɪʃ braʊn ˈmetl/  
-13. electric wire: dây điện /ɪˈlektrɪk waɪə/  
-14. pipe: (n) ống /paɪp/  
-15. conduct electricity: dẫn điện /kənˈdʌkt ɪlekˈtrɪsəti/  
-16. shape: (v) định hình /ʃeɪp/  
-17. construction industry: ngành công nghiệp xây dựng /kənˈstrʌkʃn ˈɪndəstri/  
-18. tyre: (n) lốp xe /ˈtaɪə/  
-19. bridge: (n) cầu /brɪdʒ/  
-20. medical implants: cấy ghép y tế /ˈmedɪkl ˈɪmplɑːnts/  
-21. food packaging: bao bì thực phẩm /fuːd ˈpækɪdʒɪŋ/  
-22. cereal: (n) ngũ cốc /ˈsɪəriəl/ pasta: (n) mì ống /ˈpæstə/  
-23. live-streaming: phát trực tuyến /laɪv ˈstriːmɪŋ/  
-24. live: (adj, adv) trực tiếp /laɪv/  
-25. live: (v) sống /lɪv/  
-26. webinar: (n) hội thảo trực tuyến /ˈwebɪnɑː/
+1. **robotic vacuum cleaner** : máy hút bụi tự động /rəʊˈbɒtɪk ˈvækjuːm ˈkliːnə/
+2. **e-reader** : thiết bị đọc sách điện tử /iː ˈriːdə/
+3. **smartwatch** : đồng hồ thông minh /smɑːt wɒtʃ/
+4. **portable music player** : máy nghe nhạc di động /ˈpɔːtəbl ˈmjuːzɪk ˈpleɪə/
+5. **3D printer** : máy in 3D /θriː diː ˈprɪntə/
+6. **camcorder** : máy quay phim /ˈkæmˌkɔːdə/
+7. **rubber** : (n) cao su /ˈrʌbə/
+8. **cardboard** : (n) bìa cứng /ˈkɑːdbɔːd/
+9. **steel** : (n) thép /stiːl/
+10. **plastic** : (n) nhựa /ˈplæstɪk/
+11. **copper** : (n) đồng /ˈkɒpə/
+12. **soft reddish-brown metal** : kim loại màu nâu đỏ mềmtại /sɒft ˈredɪʃ braʊn ˈmetl/
+13. **electric wire** : dây điện /ɪˈlektrɪk waɪə/
+14. **pipe** : (n) ống /paɪp/
+15. **conduct electricity** : dẫn điện /kənˈdʌkt ɪlekˈtrɪsəti/
+16. **shape** : (v) định hình /ʃeɪp/
+17. **construction industry** : ngành công nghiệp xây dựng /kənˈstrʌkʃn ˈɪndəstri/
+18. **tyre** : (n) lốp xe /ˈtaɪə/
+19. **bridge** : (n) cầu /brɪdʒ/
+20. **medical implants** : cấy ghép y tế /ˈmedɪkl ˈɪmplɑːnts/
+21. **food packaging** : bao bì thực phẩm /fuːd ˈpækɪdʒɪŋ/
+22. **cereal** : (n) ngũ cốc /ˈsɪəriəl/ pasta: (n) mì ống /ˈpæstə/
+23. **live-streaming** : phát trực tuyến /laɪv ˈstriːmɪŋ/
+24. **live** : (adj, adv) trực tiếp /laɪv/
+25. **live** : (v) sống /lɪv/
+26. **webinar** : (n) hội thảo trực tuyến /ˈwebɪnɑː/
 
 **Bài 1 trang 116** 
 
@@ -172,21 +172,21 @@ B: I suggest you take a rest.
 **COMMUNICATION**   
 **Vocabulary** 
 
-1. got it? : Hiểu chưa  
-2. do you follow me?: Bạn theo kịp không?   
-3. OK, I got what you mean: Ok, tôi hiểu bạn muốn nói gì   
-4. electronic device: thiết bị điện tử /ɪlekˈtrɒnɪk dɪˈvaɪs/  
-5. interactive lesson: bài học tương tác /ˌɪntərˈæktɪv ˈlesn/  
-6. cooperate: (v) hợp tác /kəʊˈɒpəreɪt/  
-7. complete assignments online: hoàn thành bài tập trực tuyến /kəmˈpliːt əˈsaɪnmənts ˈɒnlaɪn/  
-8. digital textbooks: sách giáo khoa điện tử /ˈdɪdʒɪtl ˈtekstbʊks/  
-9. instead of: (prep) thay vì /ɪnˈsted ɒv/  
-10. material: (n) tài liệu, vật liệu /məˈtɪəriəl/  
-11. distract: (v) làm xao nhãng, làm phân tâm /dɪˈstrækt/  
-12. non-educational content: nội dung không mang tính giáo dục /nɒn ˌedjʊˈkeɪʃənl ˈkɒntent/  
-13. additionally: (adv) thêm vào đó, ngoài ra /əˈdɪʃənəli/  
-14. eye strain: mỏi mắt /aɪ streɪn/  
-15. poor posture: tư thế xấu /pʊə ˈpɒstʃə/
+1. **got it?** : Hiểu chưa
+2. **do you follow me?** : Bạn theo kịp không?
+3. **OK, I got what you mean** : Ok, tôi hiểu bạn muốn nói gì
+4. **electronic device** : thiết bị điện tử /ɪlekˈtrɒnɪk dɪˈvaɪs/
+5. **interactive lesson** : bài học tương tác /ˌɪntərˈæktɪv ˈlesn/
+6. **cooperate** : (v) hợp tác /kəʊˈɒpəreɪt/
+7. **complete assignments online** : hoàn thành bài tập trực tuyến /kəmˈpliːt əˈsaɪnmənts ˈɒnlaɪn/
+8. **digital textbooks** : sách giáo khoa điện tử /ˈdɪdʒɪtl ˈtekstbʊks/
+9. **instead of** : (prep) thay vì /ɪnˈsted ɒv/
+10. **material** : (n) tài liệu, vật liệu /məˈtɪəriəl/
+11. **distract** : (v) làm xao nhãng, làm phân tâm /dɪˈstrækt/
+12. **non-educational content** : nội dung không mang tính giáo dục /nɒn ˌedjʊˈkeɪʃənl ˈkɒntent/
+13. **additionally** : (adv) thêm vào đó, ngoài ra /əˈdɪʃənəli/
+14. **eye strain** : mỏi mắt /aɪ streɪn/
+15. **poor posture** : tư thế xấu /pʊə ˈpɒstʃə/
 
 **Bài 2 trang 118**   
 1\.  
@@ -217,26 +217,26 @@ Stranger: I'm sorry. I don't quite follow you. Could you say that again, please?
 **SKILLS 1**   
 **Vocabulary**
 
-1. light: (adj) nhẹ, nhạt, sáng /laɪt/  
-2. self-portrait: chụp ảnh tự sướng /self ˈpɔːtreɪt/  
-3. feature: (n) tính năng, đặc điểm /ˈfiːtʃə/  
-4. right away: ngay lập tức /raɪt əˈweɪ/  
-5. camcorder: (n) máy quay phim /ˈkæmkɔːdə/  
-6. record: (v) ghi lại, thu âm /rɪˈkɔːd/  
-7. important moments: khoảnh khắc quan trọng /ɪmˈpɔːtənt ˈməʊmənts/  
-8. standard: (adj) tiêu chuẩn, thông thường /ˈstændəd/  
-9. keep you connected: giữ bạn kết nối /kiːp juː kəˈnektɪd/  
-10. through: (prep) thông qua, xuyên qua /θruː/  
-11. portable: (adj) có thể mang theo, di động /ˈpɔːtəbl/  
-12. fingertip: (n) đầu ngón tay /ˈfɪŋɡətɪp/  
-13. up to 24 hours: lên đến 24 giờ /ʌp tuː ˈtwenti fɔː ˈaʊəz/  
-14. supply: (v) cung cấp, cung ứng /səˈplaɪ/  
-15. smart window shade: rèm cửa sổ thông minh /smɑːt ˈwɪndəʊ ʃeɪd/  
-16. option: (n) lựa chọn, tùy chọn /ˈɒpʃn/  
-17. temperature: (n) nhiệt độ /ˈtemprətʃə/  
-18. additional privacy: sự riêng tư bổ sung /əˈdɪʃənl ˈprɪvəsi/  
-19. block out light: chặn ánh sáng /blɒk aʊt laɪt/  
-20. unwanted view: tầm nhìn không mong muốn /ʌnˈwɒntɪd vjuː/
+1. **light** : (adj) nhẹ, nhạt, sáng /laɪt/
+2. **self-portrait** : chụp ảnh tự sướng /self ˈpɔːtreɪt/
+3. **feature** : (n) tính năng, đặc điểm /ˈfiːtʃə/
+4. **right away** : ngay lập tức /raɪt əˈweɪ/
+5. **camcorder** : (n) máy quay phim /ˈkæmkɔːdə/
+6. **record** : (v) ghi lại, thu âm /rɪˈkɔːd/
+7. **important moments** : khoảnh khắc quan trọng /ɪmˈpɔːtənt ˈməʊmənts/
+8. **standard** : (adj) tiêu chuẩn, thông thường /ˈstændəd/
+9. **keep you connected** : giữ bạn kết nối /kiːp juː kəˈnektɪd/
+10. **through** : (prep) thông qua, xuyên qua /θruː/
+11. **portable** : (adj) có thể mang theo, di động /ˈpɔːtəbl/
+12. **fingertip** : (n) đầu ngón tay /ˈfɪŋɡətɪp/
+13. **up to 24 hours** : lên đến 24 giờ /ʌp tuː ˈtwenti fɔː ˈaʊəz/
+14. **supply** : (v) cung cấp, cung ứng /səˈplaɪ/
+15. **smart window shade** : rèm cửa sổ thông minh /smɑːt ˈwɪndəʊ ʃeɪd/
+16. **option** : (n) lựa chọn, tùy chọn /ˈɒpʃn/
+17. **temperature** : (n) nhiệt độ /ˈtemprətʃə/
+18. **additional privacy** : sự riêng tư bổ sung /əˈdɪʃənl ˈprɪvəsi/
+19. **block out light** : chặn ánh sáng /blɒk aʊt laɪt/
+20. **unwanted view** : tầm nhìn không mong muốn /ʌnˈwɒntɪd vjuː/
 
 Bạn có thể làm rất nhiều việc với chiếc điện thoại thông minh nhỏ này\! Chiếc điện thoại nhẹ, sành điệu này có tính năng tự chụp chân dung đặc biệt giúp bạn gửi những bức ảnh tuyệt vời về chính mình ngay lập tức. Máy quay của nó sẽ ghi lại những khoảnh khắc quan trọng, để bạn có thể chia sẻ chúng với bạn bè. Ngoài tin nhắn văn bản và cuộc gọi điện thoại tiêu chuẩn, nó có thể giúp bạn kết nối thông qua email, cuộc gọi video và các ứng dụng mạng xã hội.
 

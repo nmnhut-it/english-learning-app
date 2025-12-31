@@ -47,12 +47,12 @@
 
 #### Giải thích:
 
-- **cultural** (adj): thuộc về văn hóa
+1. **cultural** : (adj) thuộc về văn hóa
 - **open to**: mở ra cho
-- **popular** (adj): phổ biến, được ưa chuộng
+2. **popular** : (adj) phổ biến, được ưa chuộng
 - **experiencing**: trải nghiệm
 - **easier**: dễ hơn
-- **international** (adj): quốc tế
+3. **international** : (adj) quốc tế
 
 #### Hướng dẫn dịch:
 

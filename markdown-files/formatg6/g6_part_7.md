@@ -3,19 +3,19 @@
 ## GETTING STARTED  
 **Vocabulary:** 
 
-1. The Voice Kid: giọng hát Việt nhí   
-2. talent show: chương trình tài năng /ˈtælənt ʃəʊ/  
-3. programme: (n) chương trình /ˈprəʊɡræm/  
-4. film: (n) phim /fɪlm/  
-5. animated film: phim hoạt hình /ˈænɪmeɪtɪd fɪlm/  
-6. The Lion King: Vua Sư Tử /ðə ˈlaɪən kɪŋ/  
-7. wonderful: (adj) tuyệt vời, tuyệt diệu /ˈwʌndəfl/  
-8. prefer A to B: thích A hơn B /prɪˈfɜː ... tə .../  
-9. cartoon: (n) phim hoạt hình, tranh biếm họa /kɑːˈtuːn/  
-10. clever: (adj) thông minh, khéo léo /ˈklevə/  
-11. character: (n) nhân vật, tính cách, ký tự /ˈkærəktə/  
-12. channel: (n) kênh (truyền hình), eo biển /ˈtʃænl/  
-13. educational programme: chương trình giáo dục /ˌedʒuˈkeɪʃənl ˈprəʊɡræm/
+1. **The Voice Kid** : giọng hát Việt nhí
+2. **talent show** : chương trình tài năng /ˈtælənt ʃəʊ/
+3. **programme** : (n) chương trình /ˈprəʊɡræm/
+4. **film** : (n) phim /fɪlm/
+5. **animated film** : phim hoạt hình /ˈænɪmeɪtɪd fɪlm/
+6. **The Lion King** : Vua Sư Tử /ðə ˈlaɪən kɪŋ/
+7. **wonderful** : (adj) tuyệt vời, tuyệt diệu /ˈwʌndəfl/
+8. **prefer A to B** : thích A hơn B /prɪˈfɜː ... tə .../
+9. **cartoon** : (n) phim hoạt hình, tranh biếm họa /kɑːˈtuːn/
+10. **clever** : (adj) thông minh, khéo léo /ˈklevə/
+11. **character** : (n) nhân vật, tính cách, ký tự /ˈkærəktə/
+12. **channel** : (n) kênh (truyền hình), eo biển /ˈtʃænl/
+13. **educational programme** : chương trình giáo dục /ˌedʒuˈkeɪʃənl ˈprəʊɡræm/
 
 Phong: Bạn đang xem cái gì, Hùng?  
 Hùng: Giọng Hát Việt Nhí.  
@@ -58,21 +58,21 @@ Hùng: Tuyệt. Tôi cũng  sẽ xem nó.
 **A CLOSER LOOK 1**   
 **Vocabulary** 
 
-1. talent show: chương trình tài năng /ˈtælənt ʃəʊ/  
-2. viewer: (n) người xem /ˈvjuːə/  
-3. comedy: (n) hài kịch, phim hài /ˈkɒmədi/  
-4. character: (n) nhân vật, tính cách, ký tự /ˈkærəktə/  
-5. educational: (adj) mang tính giáo dục, có tính giáo dục /ˌedʒʊˈkeɪʃənl/  
-6. programme: (n) chương trình /ˈprəʊɡræm/  
-7. competition: (n) cuộc thi, sự cạnh tranh /ˌkɒmpəˈtɪʃn/  
-8. make people laugh: làm cho mọi người cười /meɪk ˈpiːpl lɑːf/  
-9. the best performer: người biểu diễn xuất sắc nhất /ðə best pəˈfɔːmə/  
-10. person: (n) người /ˈpɜːsn/  
-11. popular: (adj) phổ biến, được yêu thích /ˈpɒpjʊlə/  
-12. cute: (adj) dễ thương, đáng yêu /kjuːt/  
-13. boring: (adj) nhàm chán, tẻ nhạt /ˈbɔːrɪŋ/  
-14. funny: (adj) hài hước, vui nhộn /ˈfʌni/  
-15. happen \- happened \- happened: (v) xảy ra, diễn ra /ˈhæpən \- ˈhæpənd \- ˈhæpənd/
+1. **talent show** : chương trình tài năng /ˈtælənt ʃəʊ/
+2. **viewer** : (n) người xem /ˈvjuːə/
+3. **comedy** : (n) hài kịch, phim hài /ˈkɒmədi/
+4. **character** : (n) nhân vật, tính cách, ký tự /ˈkærəktə/
+5. **educational** : (adj) mang tính giáo dục, có tính giáo dục /ˌedʒʊˈkeɪʃənl/
+6. **programme** : (n) chương trình /ˈprəʊɡræm/
+7. **competition** : (n) cuộc thi, sự cạnh tranh /ˌkɒmpəˈtɪʃn/
+8. **make people laugh** : làm cho mọi người cười /meɪk ˈpiːpl lɑːf/
+9. **the best performer** : người biểu diễn xuất sắc nhất /ðə best pəˈfɔːmə/
+10. **person** : (n) người /ˈpɜːsn/
+11. **popular** : (adj) phổ biến, được yêu thích /ˈpɒpjʊlə/
+12. **cute** : (adj) dễ thương, đáng yêu /kjuːt/
+13. **boring** : (adj) nhàm chán, tẻ nhạt /ˈbɔːrɪŋ/
+14. **funny** : (adj) hài hước, vui nhộn /ˈfʌni/
+15. **happen \- happened \- happened** : (v) xảy ra, diễn ra /ˈhæpən \- ˈhæpənd \- ˈhæpənd/
 
 **Bài 1 trang 8**   
 1\. an animal or a person in a film \=\> character  
@@ -111,16 +111,16 @@ Hùng: Tuyệt. Tôi cũng  sẽ xem nó.
 **A CLOSER LOOK 2** 
 
 1. **Từ để hỏi** (Question word \- Wh. word)   
-1. when: (adv) khi nào /wen/  
-2. where: (adv) ở đâu /weə/  
-3. who: (pron) ai /huː/  
-4. why: (adv) tại sao /waɪ/  
-5. how often: bao lâu một lần /haʊ ˈɒfn/  
-6. what: (pron) cái gì /wɒt/  
-7. how many: bao nhiêu /haʊ ˈmeni/  
-8. what \+ N: cái gì, ... gì /wɒt \+ danh từ/  
+1. **when** : (adv) khi nào /wen/
+2. **where** : (adv) ở đâu /weə/
+3. **who** : (pron) ai /huː/
+4. **why** : (adv) tại sao /waɪ/
+5. **how often** : bao lâu một lần /haʊ ˈɒfn/
+6. **what** : (pron) cái gì /wɒt/
+7. **how many** : bao nhiêu /haʊ ˈmeni/
+8. **what \+ N** : cái gì, ... gì /wɒt \+ danh từ/
    what school: trường gì   
-9. how \+ adj: … tới mức độ nào   
+9. **how \+ adj** : … tới mức độ nào
    how old: già tới mức nào \= bao nhiêu tuổi    
      
    **2\. Trợ động từ**
@@ -148,8 +148,8 @@ I can’t help you.
    
 **Bài 1 trang 9: Tìm các từ để hỏi và trợ động từ trong bài** 
 
-1. what | trợ động từ: are   
-2. where | trợ động từ: is   
+1. **what | trợ động từ** : are
+2. **where | trợ động từ** : is
 3. how long | trợ động từ is 
 
 **Bài 2 trang 9**  
@@ -171,10 +171,10 @@ Why \- reason: lí do
 **Bài 4 trang 10**   
 **Liên từ (Từ để liên kết)**
 
-1. so: (conj) vì thế, do đó, vì vậy /səʊ/  
-2. but: (conj) nhưng, tuy nhiên, mà /bʌt/  
-3. and: (conj) và, với, cùng /ænd/  
-4. or: (conj) hoặc, hay là, hay /ɔː/
+1. **so** : (conj) vì thế, do đó, vì vậy /səʊ/
+2. **but** : (conj) nhưng, tuy nhiên, mà /bʌt/
+3. **and** : (conj) và, với, cùng /ænd/
+4. **or** : (conj) hoặc, hay là, hay /ɔː/
 
 1\. I like animal programmes, and my brother likes them, too.  
 (Tôi thích các chương trình động vật, và anh trai tôi cũng thích chúng.)  
@@ -201,16 +201,16 @@ Why \- reason: lí do
 **COMMUNICATION**   
 **Vocabulary**  
 
-1. What's your favourite TV Programme?: chương trình TV ưa thích của bạn là gì? /wɒts jɔː ˈfeɪvərɪt tiːˈviː ˈprəʊɡræm/  
-2. Why do you like it?: Tại sao bạn thích nó? /waɪ duː juː laɪk ɪt/  
-3. because: (conj) bởi vì /bɪˈkɒz/  
-4. fact: (n) sự thật, thực tế /fækt/  
-5. international: (adj) quốc tế, thuộc về quốc tế /ˌɪntəˈnæʃənəl/  
-6. cartoon: (n) phim hoạt hình; (v) vẽ tranh biếm họa /kɑːˈtuːn/  
-7. cute: (adj) dễ thương, đáng yêu /kjuːt/  
-8. a clever fox: một chú cáo thông minh /ə ˈklevə fɒks/  
-9. see: (v) nhìn thấy, xem, gặp /xi:/   
-10. real life: đời thực  /rɪəl laɪf/ 
+1. **What's your favourite TV Programme?** : chương trình TV ưa thích của bạn là gì? /wɒts jɔː ˈfeɪvərɪt tiːˈviː ˈprəʊɡræm/
+2. **Why do you like it?** : Tại sao bạn thích nó? /waɪ duː juː laɪk ɪt/
+3. **because** : (conj) bởi vì /bɪˈkɒz/
+4. **fact** : (n) sự thật, thực tế /fækt/
+5. **international** : (adj) quốc tế, thuộc về quốc tế /ˌɪntəˈnæʃənəl/
+6. **cartoon** : (n) phim hoạt hình; (v) vẽ tranh biếm họa /kɑːˈtuːn/
+7. **cute** : (adj) dễ thương, đáng yêu /kjuːt/
+8. **a clever fox** : một chú cáo thông minh /ə ˈklevə fɒks/
+9. **see** : (v) nhìn thấy, xem, gặp /xi:/
+10. **real life** : đời thực /rɪəl laɪf/
 
 **Bài 2 trang 11**  
 A: What's your favourite TV programme?  
@@ -255,27 +255,27 @@ Hello Fatty là một bộ phim hoạt hình truyền hình nổi tiếng. Phim 
 **Reading**   
 **Vocabulary**
 
-1. programme: (n) chương trình /ˈprəʊɡræm/  
-2. wildlife: (n) động vật hoang dã /ˈwaɪldlaɪf/  
-3. description: (n) sự mô tả, miêu tả /dɪˈskrɪpʃən/  
-4. comedy: (n) hài kịch, phim hài /ˈkɒmədɪ/  
-5. sports: (n) thể thao /spɔːts/  
-6. game show: (n) chương trình truyền hình trò chơi /ˈɡeɪm ʃəʊ/  
-7. science: (n) khoa học /ˈsaɪəns/  
-8. forest: (n) rừng /ˈfɒrɪst/  
-9. The Pig Race: Cuộc đua của những chú heo /ðə pɪɡ reɪs/  
-10. Children Are Always Right: Trẻ em luôn đúng /ˈtʃɪldrən ɑːr ˈɔːlweɪz raɪt/  
-11. colorful world: thế giới đầy màu sắc /ˈkʌləfʊl wɜːld/  
-12. plant: (n) thực vật, cây /plɑːnt/  
-13. flower: (n) hoa /ˈflaʊə/  
-14. animal: (n) động vật /ˈænɪməl/  
-15. have a lot of fun: có nhiều niềm vui /hæv ə lɒt əv fʌn/  
-16. on their first day at school: vào ngày đầu tiên đến trường /ɒn ðeə fɜːst deɪ æt skuːl/  
-17. compete: (v) cạnh tranh, thi đấu /kəmˈpiːt/  
-18. the most exciting race: cuộc đua thú vị nhất /ðə məʊst ɪkˈsaɪtɪŋ reɪs/  
-19. pet: (n) thú cưng /pet/  
-20. intelligent: (adj) thông minh /ɪnˈtelɪdʒənt/  
-21. dolphin: (n) cá heo /ˈdɒlfɪn/
+1. **programme** : (n) chương trình /ˈprəʊɡræm/
+2. **wildlife** : (n) động vật hoang dã /ˈwaɪldlaɪf/
+3. **description** : (n) sự mô tả, miêu tả /dɪˈskrɪpʃən/
+4. **comedy** : (n) hài kịch, phim hài /ˈkɒmədɪ/
+5. **sports** : (n) thể thao /spɔːts/
+6. **game show** : (n) chương trình truyền hình trò chơi /ˈɡeɪm ʃəʊ/
+7. **science** : (n) khoa học /ˈsaɪəns/
+8. **forest** : (n) rừng /ˈfɒrɪst/
+9. **The Pig Race** : Cuộc đua của những chú heo /ðə pɪɡ reɪs/
+10. **Children Are Always Right** : Trẻ em luôn đúng /ˈtʃɪldrən ɑːr ˈɔːlweɪz raɪt/
+11. **colorful world** : thế giới đầy màu sắc /ˈkʌləfʊl wɜːld/
+12. **plant** : (n) thực vật, cây /plɑːnt/
+13. **flower** : (n) hoa /ˈflaʊə/
+14. **animal** : (n) động vật /ˈænɪməl/
+15. **have a lot of fun** : có nhiều niềm vui /hæv ə lɒt əv fʌn/
+16. **on their first day at school** : vào ngày đầu tiên đến trường /ɒn ðeə fɜːst deɪ æt skuːl/
+17. **compete** : (v) cạnh tranh, thi đấu /kəmˈpiːt/
+18. **the most exciting race** : cuộc đua thú vị nhất /ðə məʊst ɪkˈsaɪtɪŋ reɪs/
+19. **pet** : (n) thú cưng /pet/
+20. **intelligent** : (adj) thông minh /ɪnˈtelɪdʒənt/
+21. **dolphin** : (n) cá heo /ˈdɒlfɪn/
 
 8.00
 
@@ -340,14 +340,14 @@ B: I agree. She is interested in sea animals.
 **Listening**   
 **Vocabulary** 
 
-1. interesting: (adj) thú vị, hấp dẫn /ˈɪntrəstɪŋ/  
-2. music programme: chương trình âm nhạc /ˈmjuːzɪk ˈprəʊɡræm/  
-3. channel: (n) kênh (truyền hình) /ˈtʃænəl/  
-4. watch: (v) xem /wɒtʃ/  
-5. choose a programme for yourself: tự chọn một chương trình cho mình /tʃuːz ə ˈprəʊɡræm fə jɔːˈself/  
-6. enjoy and have a great time: tận hưởng và có khoảng thời gian tuyệt vời /ɪnˈdʒɔɪ ænd hæv ə ɡreɪt taɪm/  
-7. Green Summer: mùa hè xanh  
-8. My Childhood: tuổi thơ của tôi. 
+1. **interesting** : (adj) thú vị, hấp dẫn /ˈɪntrəstɪŋ/
+2. **music programme** : chương trình âm nhạc /ˈmjuːzɪk ˈprəʊɡræm/
+3. **channel** : (n) kênh (truyền hình) /ˈtʃænəl/
+4. **watch** : (v) xem /wɒtʃ/
+5. **choose a programme for yourself** : tự chọn một chương trình cho mình /tʃuːz ə ˈprəʊɡræm fə jɔːˈself/
+6. **enjoy and have a great time** : tận hưởng và có khoảng thời gian tuyệt vời /ɪnˈdʒɔɪ ænd hæv ə ɡreɪt taɪm/
+7. **Green Summer** : mùa hè xanh
+8. **My Childhood** : tuổi thơ của tôi.
 
 **Bài 1 trang 13**  
 Green Summer: channel 1  
@@ -380,11 +380,11 @@ I like watching TV, about one hour a day. I only watch TV in the evening. During
 
 **Bài 2 trang 14** 
 
-1. viewers: người xem   
+1. **viewers** : người xem
 2. animal  
 3. sports   
-4. funny: hài hước  
-5. educational: mang tính giáo dục 
+4. **funny** : hài hước
+5. **educational** : mang tính giáo dục
 
 **Bài 3 trang 14** 
 

@@ -3,14 +3,14 @@
 **SKILLS 2**    
 **Vocabulary** 
 
-1. dream house: nhà trong mơ /driːm haʊs/  
-2. villa: (n) biệt thự /ˈvɪlə/  
-3. has a view of the sea: có góc nhìn ra biển /hæz ə vjuː ɒv ðə siː/  
-4. garden: (n) khu vườn /ˈɡɑːdn/  
-5. has a park view: có góc nhìn ra công viên /hæz ə pɑːk vjuː/  
-6. has a city view: có góc nhìn ra thành phố /hæz ə ˈsɪti ve juː/  
-7. at the back: ở phía sau /æt ðə bæk/  
-8. in front: ở phía trước /ɪn frʌnt/  
+1. **dream house** : nhà trong mơ /driːm haʊs/
+2. **villa** : (n) biệt thự /ˈvɪlə/
+3. **has a view of the sea** : có góc nhìn ra biển /hæz ə vjuː ɒv ðə siː/
+4. **garden** : (n) khu vườn /ˈɡɑːdn/
+5. **has a park view** : có góc nhìn ra công viên /hæz ə pɑːk vjuː/
+6. **has a city view** : có góc nhìn ra thành phố /hæz ə ˈsɪti ve juː/
+7. **at the back** : ở phía sau /æt ðə bæk/
+8. **in front** : ở phía trước /ɪn frʌnt/
    **Bài 1 trang 45**  
    Nick: a   
    Linda: c  
@@ -52,12 +52,12 @@
 
 **Bài 2 trang 46** 
 
-1. robots: look after the house   
-2. washing machine: wash clothes   
-3. wireless TVs: access to the Internet   
-4. super cards: fly   
-5. smart clocks: play online music   
-6. dishwashers: wash dishes 
+1. **robots** : look after the house
+2. **washing machine** : wash clothes
+3. **wireless TVs** : access to the Internet
+4. **super cards** : fly
+5. **smart clocks** : play online music
+6. **dishwashers** : wash dishes
 
 **Bài 3 trang 46** 
 

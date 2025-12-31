@@ -3,18 +3,18 @@
 **A CLOSER LOOK 1**  
 **Vocabulary** 
 
-1. permit: (v) cho phép /pəˈmɪt/ (n) giấy phép /ˈpɜːmɪt/  
-2. once: (adv) một lần /wʌns/  
-3. paradise: (n) thiên đường /ˈpærədaɪs/  
-4. annual: (adj) hàng năm /ˈænjuəl/  
-5. diversity: (n) sự đa dạng /daɪˈvɜːsəti/  
-6. access: (n) sự tiếp cận /ˈækses/ (v) tiếp cận /ˈækses/  
-7. urgent: (adj) khẩn cấp /ˈɜːdʒənt/  
-8. reach: (v) đạt tới, với tới /riːtʃ/  
-9. a range of many things: một loạt nhiều thứ /ə reɪndʒ əv ˈmeni θɪŋz/  
-10. immediately: (adv) ngay lập tức /ɪˈmiːdiətli/  
-11. extremely: (adv) cực kỳ /ɪkˈstriːmli/  
-12. perfect: (adj) hoàn hảo /ˈpɜːfɪkt/ (v) hoàn thiện /pəˈfekt/
+1. **permit** : (v) cho phép /pəˈmɪt/ (n) giấy phép /ˈpɜːmɪt/
+2. **once** : (adv) một lần /wʌns/
+3. **paradise** : (n) thiên đường /ˈpærədaɪs/
+4. **annual** : (adj) hàng năm /ˈænjuəl/
+5. **diversity** : (n) sự đa dạng /daɪˈvɜːsəti/
+6. **access** : (n) sự tiếp cận /ˈækses/ (v) tiếp cận /ˈækses/
+7. **urgent** : (adj) khẩn cấp /ˈɜːdʒənt/
+8. **reach** : (v) đạt tới, với tới /riːtʃ/
+9. **a range of many things** : một loạt nhiều thứ /ə reɪndʒ əv ˈmeni θɪŋz/
+10. **immediately** : (adv) ngay lập tức /ɪˈmiːdiətli/
+11. **extremely** : (adv) cực kỳ /ɪkˈstriːmli/
+12. **perfect** : (adj) hoàn hảo /ˈpɜːfɪkt/ (v) hoàn thiện /pəˈfekt/
 
 **Bài 1: Đáp án:**
 
@@ -27,20 +27,20 @@
 
 Giải thích:
 
-1. permit: cho phép hoặc làm cho một cái gì đó có thể  
-2. paradise: một nơi cực kỳ đẹp và có vẻ hoàn hảo  
-3. annual: xảy ra mỗi năm một lần  
-4. diversity: một loạt nhiều thứ rất khác nhau  
-5. access: một cách đi vào hoặc tiếp cận một địa điểm  
-6. urgent: việc đó cần phải được thực hiện hoặc xảy ra ngay lập tức
+1. **permit** : cho phép hoặc làm cho một cái gì đó có thể
+2. **paradise** : một nơi cực kỳ đẹp và có vẻ hoàn hảo
+3. **annual** : xảy ra mỗi năm một lần
+4. **diversity** : một loạt nhiều thứ rất khác nhau
+5. **access** : một cách đi vào hoặc tiếp cận một địa điểm
+6. **urgent** : việc đó cần phải được thực hiện hoặc xảy ra ngay lập tức
 
 Bài 2: Đáp án:
 
-1. location: vị trí  
-2. hesitation: chần chừ, do dự  
-3. exploration: sự khám phá  
-4. possession: tài sản, sự sở hữu  
-5. admiration: sự ngưỡng mộ
+1. **location** : vị trí
+2. **hesitation** : chần chừ, do dự
+3. **exploration** : sự khám phá
+4. **possession** : tài sản, sự sở hữu
+5. **admiration** : sự ngưỡng mộ
 
 Bài 3: Đáp án:
 

@@ -3,17 +3,17 @@
 **COMMUNICATION**  
 **Vocabulary**
 
-1. good luck: chúc may mắn /ɡʊd lʌk/  
-2. I'll try my best: tôi sẽ cố gắng hết sức /aɪl traɪ maɪ best/  
-3. I wish you all the best of luck: chúc bạn gặp nhiều may mắn /aɪ wɪʃ juː ɔːl ðə best ɒv lʌk/  
-4. common (adj): phổ biến, thông thường /ˈkɒmən/  
-5. uncopyrightable (adj): không thể đăng ký bản quyền /ʌnˈkɒpiraɪtəbl/  
-6. once (adv): một lần, từng /wʌns/  
-7. vowel (n): nguyên âm /ˈvaʊəl/  
-8. rhythms (n): nhịp điệu /ˈrɪðəmz/  
-9. queueing (v): xếp hàng, đợi /ˈkjuːɪŋ/  
-10. consecutive (adj): liên tiếp, kế tiếp nhau /kənˈsekjʊtɪv/  
-11. in a row: liên tiếp, liên tục /ɪn ə rəʊ/  
+1. **good luck** : chúc may mắn /ɡʊd lʌk/
+2. **I'll try my best** : tôi sẽ cố gắng hết sức /aɪl traɪ maɪ best/
+3. **I wish you all the best of luck** : chúc bạn gặp nhiều may mắn /aɪ wɪʃ juː ɔːl ðə best ɒv lʌk/
+4. **common (adj)** : phổ biến, thông thường /ˈkɒmən/
+5. **uncopyrightable (adj)** : không thể đăng ký bản quyền /ʌnˈkɒpiraɪtəbl/
+6. **once (adv)** : một lần, từng /wʌns/
+7. **vowel (n)** : nguyên âm /ˈvaʊəl/
+8. **rhythms (n)** : nhịp điệu /ˈrɪðəmz/
+9. **queueing (v)** : xếp hàng, đợi /ˈkjuːɪŋ/
+10. **consecutive (adj)** : liên tiếp, kế tiếp nhau /kənˈsekjʊtɪv/
+11. **in a row** : liên tiếp, liên tục /ɪn ə rəʊ/
 12. lorry (n): xe tải (British English) /ˈlɒri/  
 13. truck (n): xe tải (American English) /trʌk/  
 14. chemist's (n): hiệu thuốc (British English) /ˈkemɪsts/  
@@ -28,19 +28,19 @@ Từ tiếng Anh dài nhất không có nguyên âm thật sự (a, e, i, o, ho�
 **Unit 9 \- SKILLS 1**   
 **Vocabulary** 
 
-1. professor: (n) giáo sư /prəˈfesə/  
-2. linguistic: (adj) thuộc về ngôn ngữ học /lɪŋˈɡwɪstɪk/  
+1. **professor** : (n) giáo sư /prəˈfesə/
+2. **linguistic** : (adj) thuộc về ngôn ngữ học /lɪŋˈɡwɪstɪk/
 3. invent the term: tạo ra/đặt ra thuật ngữ /ɪnˈvent ðə tɜːm/  
 4. World Englishes: tiếng Anh toàn cầu (các biến thể tiếng Anh trên thế giới) /wɜːld ˈɪŋɡlɪʃɪz/  
-5. refer to the fact that: đề cập đến việc /rɪˈfɜː tə ðə fækt ðæt/  
-6. global means of communication: phương tiện giao tiếp toàn cầu /ˈɡləʊbl miːnz əv kəˌmjuːnɪˈkeɪʃn/  
-7. a lot of varieties: nhiều biến thể /ə lɒt əv vəˈraɪətiz/  
-8. propose a model: đề xuất một mô hình /prəˈpəʊz ə ˈmɒdl/  
-9. three concentric circles: ba vòng tròn đồng tâm /θriː kənˈsentrɪk ˈsɜːklz/  
-10. consist \- consisted \- consisted: (v) bao gồm, gồm có /kənˈsɪst \- kənˈsɪstɪd \- kənˈsɪstɪd/  
-11. the standards of English: các chuẩn mực của tiếng Anh /ðə ˈstændədz əv ˈɪŋɡlɪʃ/  
-12. official language: ngôn ngữ chính thức /əˈfɪʃl ˈlæŋɡwɪdʒ/  
-13. establish \- established \- established: (v) thiết lập, thành lập /ɪˈstæblɪʃ \- ɪˈstæblɪʃt \- ɪˈstæblɪʃt/
+5. **refer to the fact that** : đề cập đến việc /rɪˈfɜː tə ðə fækt ðæt/
+6. **global means of communication** : phương tiện giao tiếp toàn cầu /ˈɡləʊbl miːnz əv kəˌmjuːnɪˈkeɪʃn/
+7. **a lot of varieties** : nhiều biến thể /ə lɒt əv vəˈraɪətiz/
+8. **propose a model** : đề xuất một mô hình /prəˈpəʊz ə ˈmɒdl/
+9. **three concentric circles** : ba vòng tròn đồng tâm /θriː kənˈsentrɪk ˈsɜːklz/
+10. **consist \- consisted \- consisted** : (v) bao gồm, gồm có /kənˈsɪst \- kənˈsɪstɪd \- kənˈsɪstɪd/
+11. **the standards of English** : các chuẩn mực của tiếng Anh /ðə ˈstændədz əv ˈɪŋɡlɪʃ/
+12. **official language** : ngôn ngữ chính thức /əˈfɪʃl ˈlæŋɡwɪdʒ/
+13. **establish \- established \- established** : (v) thiết lập, thành lập /ɪˈstæblɪʃ \- ɪˈstæblɪʃt \- ɪˈstæblɪʃt/
 
 Braj Kachru là một Giáo sư dạy về ngôn ngữ, người mà đã tạo ra cụm từ "World Englishes" (các loại tiếng Anh trên thế giới). Cụm từ này nói về việc tiếng Anh đã trở thành cách giao tiếp của cả thế giới với nhiều dạng khác nhau.
 

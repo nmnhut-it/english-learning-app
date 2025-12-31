@@ -4,20 +4,20 @@
 
 **Vocabulary** 
 
-1. traffic: (n) giao thông /ˈtræfɪk/  
-2. cycle: (v) đạp xe /ˈsaɪkl/  
-3. cycle round the lake: đạp xe vòng quanh hồ /ˈsaɪkl raʊnd ðə leɪk/  
-4. sometimes: (adv) đôi khi, thỉnh thoảng /ˈsʌmtaɪmz/  
-5. How far is it from your home to school?: Từ nhà bạn đến trường bao xa? /haʊ fɑː ɪz ɪt frɒm jɔː həʊm tə skuːl/  
-6. take \+ ai đó \+ to \+ nơi chốn: đưa ai đó đến một nơi nào đó /teɪk tə/  
-7. traffic jam: (n) tắc đường /ˈtræfɪk dʒæm/  
-8. take longer: mất nhiều thời gian hơn /teɪk ˈlɒŋɡə/  
-9. especially: (adv) đặc biệt là, nhất là /ɪˈspeʃəli/  
-10. cross the road: băng qua đường /krɒs ðə rəʊd/  
-11. crowded: (adj) đông đúc, chật ních /ˈkraʊdɪd/  
-12. get \+ tính từ: trở nên /ɡet/  
-13. really \+ tính từ: rất, thực sự /ˈrɪəli/  
-14. see you then: hẹn gặp lại /siː juː ðen/
+1. **traffic** : (n) giao thông /ˈtræfɪk/
+2. **cycle** : (v) đạp xe /ˈsaɪkl/
+3. **cycle round the lake** : đạp xe vòng quanh hồ /ˈsaɪkl raʊnd ðə leɪk/
+4. **sometimes** : (adv) đôi khi, thỉnh thoảng /ˈsʌmtaɪmz/
+5. **How far is it from your home to school?** : Từ nhà bạn đến trường bao xa? /haʊ fɑː ɪz ɪt frɒm jɔː həʊm tə skuːl/
+6. **take \+ ai đó \+ to \+ nơi chốn** : đưa ai đó đến một nơi nào đó /teɪk tə/
+7. **traffic jam** : (n) tắc đường /ˈtræfɪk dʒæm/
+8. **take longer** : mất nhiều thời gian hơn /teɪk ˈlɒŋɡə/
+9. **especially** : (adv) đặc biệt là, nhất là /ɪˈspeʃəli/
+10. **cross the road** : băng qua đường /krɒs ðə rəʊd/
+11. **crowded** : (adj) đông đúc, chật ních /ˈkraʊdɪd/
+12. **get \+ tính từ** : trở nên /ɡet/
+13. **really \+ tính từ** : rất, thực sự /ˈrɪəli/
+14. **see you then** : hẹn gặp lại /siː juː ðen/
 
 Lan: Chào bạn Mark. Bạn khỏe không?
 
@@ -75,11 +75,11 @@ Mark: Được, Lan. Hẹn gặp bạn lúc đó.
 
 **\* Vocabulary** 
 
-1. bike/bicycle: (n) xe đạp /baɪk/ /ˈbaɪsɪkl/  
-2. car: (n) ô tô, xe hơi /kɑː/  
-3. bus: (n) xe buýt /bʌs/  
-4. motorbike: (n) xe máy, xe gắn máy /ˈməʊtəbaɪk/  
-5. plane: (n) máy bay /pleɪn/  
-6. train: (n) tàu hỏa /treɪn/  
-7. boat: (n) thuyền /bəʊt/  
-8. ship: (n) tàu thủy /ʃɪp/
+1. **bike/bicycle** : (n) xe đạp /baɪk/ /ˈbaɪsɪkl/
+2. **car** : (n) ô tô, xe hơi /kɑː/
+3. **bus** : (n) xe buýt /bʌs/
+4. **motorbike** : (n) xe máy, xe gắn máy /ˈməʊtəbaɪk/
+5. **plane** : (n) máy bay /pleɪn/
+6. **train** : (n) tàu hỏa /treɪn/
+7. **boat** : (n) thuyền /bəʊt/
+8. **ship** : (n) tàu thủy /ʃɪp/

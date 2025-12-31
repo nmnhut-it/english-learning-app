@@ -5,16 +5,16 @@
 
 ### New words
 
-1. blended learning: (n.phr) học kết hợp /ˈblendɪd ˈlɜːnɪŋ/
-2. control: (n, v) kiểm soát /kənˈtrəʊl/
-3. access: (n, v) truy cập /ˈækses/
-4. lesson materials: (n.phr) tài liệu bài học /ˈlesn məˈtɪəriəlz/
-5. communication skills: (n.phr) kỹ năng giao tiếp /kəˌmjuːnɪˈkeɪʃn skɪlz/
-6. teamwork skills: (n.phr) kỹ năng làm việc nhóm /ˈtiːmwɜːk skɪlz/
-7. engaged: (adj) tham gia, gắn kết /ɪnˈɡeɪdʒd/
-8. benefit: (n) lợi ích /ˈbenɪfɪt/
-9. suitable: (adj) phù hợp /ˈsuːtəbl/
-10. provide: (v) cung cấp /prəˈvaɪd/
+1. **blended learning** : (n.phr) học kết hợp /ˈblendɪd ˈlɜːnɪŋ/
+2. **control** : (n, v) kiểm soát /kənˈtrəʊl/
+3. **access** : (n, v) truy cập /ˈækses/
+4. **lesson materials** : (n.phr) tài liệu bài học /ˈlesn məˈtɪəriəlz/
+5. **communication skills** : (n.phr) kỹ năng giao tiếp /kəˌmjuːnɪˈkeɪʃn skɪlz/
+6. **teamwork skills** : (n.phr) kỹ năng làm việc nhóm /ˈtiːmwɜːk skɪlz/
+7. **engaged** : (adj) tham gia, gắn kết /ɪnˈɡeɪdʒd/
+8. **benefit** : (n) lợi ích /ˈbenɪfɪt/
+9. **suitable** : (adj) phù hợp /ˈsuːtəbl/
+10. **provide** : (v) cung cấp /prəˈvaɪd/
 
 ---
 
@@ -151,17 +151,17 @@ Học kết hợp là một cách học một môn học, kết hợp học qua 
 
 ## Vocabulary (Từ vựng)
 
-1. blended learning: (n.phr) học kết hợp /ˈblendɪd ˈlɜːnɪŋ/
-2. control: (n, v) kiểm soát /kənˈtrəʊl/
-3. access: (n, v) truy cập /ˈækses/
-4. lesson materials: (n.phr) tài liệu bài học /ˈlesn məˈtɪəriəlz/
-5. video lecture: (n.phr) bài giảng video /ˈvɪdiəʊ ˈlektʃə/
-6. communication skills: (n.phr) kỹ năng giao tiếp /kəˌmjuːnɪˈkeɪʃn skɪlz/
-7. teamwork skills: (n.phr) kỹ năng làm việc nhóm /ˈtiːmwɜːk skɪlz/
-8. pair work: (n.phr) làm việc theo cặp /peə wɜːk/
-9. group work: (n.phr) làm việc nhóm /ɡruːp wɜːk/
-10. engaged: (adj) tham gia, gắn kết /ɪnˈɡeɪdʒd/
-11. social media: (n.phr) mạng xã hội /ˈsəʊʃl ˈmiːdiə/
-12. benefit: (n) lợi ích /ˈbenɪfɪt/
-13. unlike: (prep) không giống như /ˌʌnˈlaɪk/
-14. text message: (n.phr) tin nhắn văn bản /tekst ˈmesɪdʒ/
+1. **blended learning** : (n.phr) học kết hợp /ˈblendɪd ˈlɜːnɪŋ/
+2. **control** : (n, v) kiểm soát /kənˈtrəʊl/
+3. **access** : (n, v) truy cập /ˈækses/
+4. **lesson materials** : (n.phr) tài liệu bài học /ˈlesn məˈtɪəriəlz/
+5. **video lecture** : (n.phr) bài giảng video /ˈvɪdiəʊ ˈlektʃə/
+6. **communication skills** : (n.phr) kỹ năng giao tiếp /kəˌmjuːnɪˈkeɪʃn skɪlz/
+7. **teamwork skills** : (n.phr) kỹ năng làm việc nhóm /ˈtiːmwɜːk skɪlz/
+8. **pair work** : (n.phr) làm việc theo cặp /peə wɜːk/
+9. **group work** : (n.phr) làm việc nhóm /ɡruːp wɜːk/
+10. **engaged** : (adj) tham gia, gắn kết /ɪnˈɡeɪdʒd/
+11. **social media** : (n.phr) mạng xã hội /ˈsəʊʃl ˈmiːdiə/
+12. **benefit** : (n) lợi ích /ˈbenɪfɪt/
+13. **unlike** : (prep) không giống như /ˌʌnˈlaɪk/
+14. **text message** : (n.phr) tin nhắn văn bản /tekst ˈmesɪdʒ/

@@ -34,11 +34,11 @@
 
 ### Exercise 1: Find five words in the word search and write them next to the correct definition. Use the glossary (page 130) to help you.
 
-1. ___________ (adj): using force to hurt or kill someone
-2. ___________ (n): the state of being poor
-3. ___________ (n): drinks such as beer and wine that can make people drunk
-4. ___________ (n): planned activities to achieve social or political aims
-5. ___________ (v): to frighten or hurt a weaker person
+1. **___________ (adj)** : using force to hurt or kill someone
+2. **___________ (n)** : the state of being poor
+3. **___________ (n)** : drinks such as beer and wine that can make people drunk
+4. **___________ (n)** : planned activities to achieve social or political aims
+5. **___________ (v)** : to frighten or hurt a weaker person
 
 #### Answer Key (Lời giải chi tiết):
 1. **violent** (adj): using force to hurt or kill someone

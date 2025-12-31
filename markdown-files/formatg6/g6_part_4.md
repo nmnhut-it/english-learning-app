@@ -4,23 +4,23 @@
 
 **Vocabulary** 
 
-1. excited: (adj) phấn khích /ɪkˈsaɪtɪd/  
-2. beautiful: (adj) đẹp /ˈbjuːtɪfl/  
-3. shall: (modal verb) sẽ /ʃæl/  
-4. go first: đi trước /ɡəʊ fɜːst/  
-5. nearer: (adj) gần hơn /ˈnɪərə/  
-6. where: (adv) ở đâu /weə/  
-7. cross the road: băng qua đường /krɒs ðə rəʊd/  
-8. turn left: rẽ trái /tɜːn left/  
-9. lost: (adj) lạc đường /lɒst/  
-10. look: (interj) nhìn kìa /lʊk/  
-11. there's a girl: có một cô gái /ðeəz ə ɡɜːl/  
-12. ask: (v) hỏi /ɑːsk/  
-13. excuse me?: xin lỗi? /ɪkˈskjuːz miː/  
-14. go straight: đi thẳng /ɡəʊ streɪt/  
-15. sure: (adj) chắc chắn /ʃʊə(r)/  
-16. take the second turning on the left: rẽ trái ở ngã rẽ thứ hai /teɪk ðə ˈsekənd ˈtɜːnɪŋ ɒn ðə left/  
-17. then: (adv) sau đó /ðen/
+1. **excited** : (adj) phấn khích /ɪkˈsaɪtɪd/
+2. **beautiful** : (adj) đẹp /ˈbjuːtɪfl/
+3. **shall** : (modal verb) sẽ /ʃæl/
+4. **go first** : đi trước /ɡəʊ fɜːst/
+5. **nearer** : (adj) gần hơn /ˈnɪərə/
+6. **where** : (adv) ở đâu /weə/
+7. **cross the road** : băng qua đường /krɒs ðə rəʊd/
+8. **turn left** : rẽ trái /tɜːn left/
+9. **lost** : (adj) lạc đường /lɒst/
+10. **look** : (interj) nhìn kìa /lʊk/
+11. **there's a girl** : có một cô gái /ðeəz ə ɡɜːl/
+12. **ask** : (v) hỏi /ɑːsk/
+13. **excuse me?** : xin lỗi? /ɪkˈskjuːz miː/
+14. **go straight** : đi thẳng /ɡəʊ streɪt/
+15. **sure** : (adj) chắc chắn /ʃʊə(r)/
+16. **take the second turning on the left** : rẽ trái ở ngã rẽ thứ hai /teɪk ðə ˈsekənd ˈtɜːnɪŋ ɒn ðə left/
+17. **then** : (adv) sau đó /ðen/
 
 **Lạc ở phố cổ\!**   
 **Phong:** Wow\! Chúng ta thì ở Hội an. Tôi thì quá hào hứng.   
@@ -74,19 +74,19 @@ A: Yes, that’s right.
 **A CLOSER LOOK 1**   
 **Vocabulary** 
 
-1. square: (n) quảng trường /skweə/  
-2. art gallery: (n) phòng trưng bày nghệ thuật /ɑːt ˈɡæləri/  
-3. cathedral: (n) nhà thờ lớn /kəˈθiːdrəl/  
-4. temple: (n) đền, chùa /ˈtempl/  
-5. railway station: (n) ga tàu /ˈreɪlweɪ ˈsteɪʃn/  
-6. noisy: (adj) ồn ào /ˈnɔɪzi/  
-7. crowded: (adj) đông đúc /ˈkraʊdɪd/  
-8. peaceful: (adj) yên bình /ˈpiːsfl/  
-9. quiet: (adj) yên tĩnh /ˈkwaɪət/  
-10. modern: (adj) hiện đại /ˈmɒdn/  
-11. beautiful: (adj) đẹp /ˈbjuːtɪfl/  
-12. busy: (adj) bận rộn /ˈbɪzi/  
-13. boring: (adj) nhàm chán /ˈbɔːrɪŋ/
+1. **square** : (n) quảng trường /skweə/
+2. **art gallery** : (n) phòng trưng bày nghệ thuật /ɑːt ˈɡæləri/
+3. **cathedral** : (n) nhà thờ lớn /kəˈθiːdrəl/
+4. **temple** : (n) đền, chùa /ˈtempl/
+5. **railway station** : (n) ga tàu /ˈreɪlweɪ ˈsteɪʃn/
+6. **noisy** : (adj) ồn ào /ˈnɔɪzi/
+7. **crowded** : (adj) đông đúc /ˈkraʊdɪd/
+8. **peaceful** : (adj) yên bình /ˈpiːsfl/
+9. **quiet** : (adj) yên tĩnh /ˈkwaɪət/
+10. **modern** : (adj) hiện đại /ˈmɒdn/
+11. **beautiful** : (adj) đẹp /ˈbjuːtɪfl/
+12. **busy** : (adj) bận rộn /ˈbɪzi/
+13. **boring** : (adj) nhàm chán /ˈbɔːrɪŋ/
 
 **Bài 1 trang 40** 
 
@@ -204,31 +204,31 @@ Welcome to Ho Chi Minh city. As you know, It is not only the largest city in sou
 **SKILLS 1**   
 **Reading** 
 
-1. neighbourhood: (n) khu phố, hàng xóm /ˈneɪbəhʊd/  
-2. suburbs: (n) vùng ngoại ô /ˈsʌbɜːbz/  
-3. many: (adj) nhiều /ˈmeni/  
-4. thing: (n) vật, điều /θɪŋ/  
-5. great: (adj) tuyệt vời, to lớn /ɡreɪt/  
-6. outdoor activities: các hoạt động ngoài trời /ˈaʊtdɔːr ækˈtɪvətiz/  
-7. because: (conj) bởi vì /bɪˈkɒz/  
-8. beautiful park: công viên đẹp /ˈbjuːtɪfl pɑːk/  
-9. fine weather: thời tiết đẹp /faɪn ˈweðə(r)/  
-10. almost: (adv) gần như /ˈɔːlməʊst/  
-11. everything: (pron) mọi thứ /ˈevriθɪŋ/  
-12. shop: (n) cửa hàng /ʃɒp/  
-13. restaurant: (n) nhà hàng /ˈrestrɒnt/  
-14. market: (n) chợ /ˈmɑːkɪt/  
-15. friendly: (adj) thân thiện /ˈfrendli/  
-16. friendlier: (adj) thân thiện hơn /ˈfrendliə(r)/  
-17. better: (adj) tốt hơn /ˈbetə(r)/  
-18. other places: những nơi khác /ˈʌðə ˈpleɪsɪz/   
-19. however: (adv) tuy nhiên /haʊˈevə(r)/  
-20. dislike: (v) không thích /dɪsˈlaɪk/  
-21. modern building: tòa nhà hiện đại /ˈmɒdn ˈbɪldɪŋ/  
-22. office: (n) văn phòng /ˈɒfɪs/  
-23. street: (n) đường phố /striːt/  
-24. busy: (adj) bận rộn /ˈbɪzi/  
-25. crowded: (adj) đông đúc /ˈkraʊdɪd/
+1. **neighbourhood** : (n) khu phố, hàng xóm /ˈneɪbəhʊd/
+2. **suburbs** : (n) vùng ngoại ô /ˈsʌbɜːbz/
+3. **many** : (adj) nhiều /ˈmeni/
+4. **thing** : (n) vật, điều /θɪŋ/
+5. **great** : (adj) tuyệt vời, to lớn /ɡreɪt/
+6. **outdoor activities** : các hoạt động ngoài trời /ˈaʊtdɔːr ækˈtɪvətiz/
+7. **because** : (conj) bởi vì /bɪˈkɒz/
+8. **beautiful park** : công viên đẹp /ˈbjuːtɪfl pɑːk/
+9. **fine weather** : thời tiết đẹp /faɪn ˈweðə(r)/
+10. **almost** : (adv) gần như /ˈɔːlməʊst/
+11. **everything** : (pron) mọi thứ /ˈevriθɪŋ/
+12. **shop** : (n) cửa hàng /ʃɒp/
+13. **restaurant** : (n) nhà hàng /ˈrestrɒnt/
+14. **market** : (n) chợ /ˈmɑːkɪt/
+15. **friendly** : (adj) thân thiện /ˈfrendli/
+16. **friendlier** : (adj) thân thiện hơn /ˈfrendliə(r)/
+17. **better** : (adj) tốt hơn /ˈbetə(r)/
+18. **other places** : những nơi khác /ˈʌðə ˈpleɪsɪz/
+19. **however** : (adv) tuy nhiên /haʊˈevə(r)/
+20. **dislike** : (v) không thích /dɪsˈlaɪk/
+21. **modern building** : tòa nhà hiện đại /ˈmɒdn ˈbɪldɪŋ/
+22. **office** : (n) văn phòng /ˈɒfɪs/
+23. **street** : (n) đường phố /striːt/
+24. **busy** : (adj) bận rộn /ˈbɪzi/
+25. **crowded** : (adj) đông đúc /ˈkraʊdɪd/
 
  **Dịch bài (15p)**   
 Khu xóm của tôi   
@@ -266,15 +266,15 @@ B: There are not many entertainment facilities \= cơ sở vật chất giải t
 **Listening**   
 **Vocabulary** 
 
-1. market: (n) chợ, thị trường /ˈmɑːkɪt/  
-2. also: cũng /ˈɔːlsəʊ/   
-3. restaurant: (n) nhà hàng /ˈrestrɒnt/  
-4. art gallery: phòng trưng bày nghệ thuật /ɑːt ˈɡæləri/  
-5. wide: (adj) rộng, bề ngang /waɪd/    
-6. faraway: (adj) xa xôi, ở xa /ˈfɑːrəweɪ/  
-7. factory: (n) nhà máy, xưởng sản xuất /ˈfæktəri/  
-8. air: (n) không khí, bầu không khí /eə/  
-9. narrow: (adj) hẹp, chật /ˈnærəʊ/ 
+1. **market** : (n) chợ, thị trường /ˈmɑːkɪt/
+2. **also** : cũng /ˈɔːlsəʊ/
+3. **restaurant** : (n) nhà hàng /ˈrestrɒnt/
+4. **art gallery** : phòng trưng bày nghệ thuật /ɑːt ˈɡæləri/
+5. **wide** : (adj) rộng, bề ngang /waɪd/
+6. **faraway** : (adj) xa xôi, ở xa /ˈfɑːrəweɪ/
+7. **factory** : (n) nhà máy, xưởng sản xuất /ˈfæktəri/
+8. **air** : (n) không khí, bầu không khí /eə/
+9. **narrow** : (adj) hẹp, chật /ˈnærəʊ/
 
 **Bài 1 trang 45** 
 
@@ -310,17 +310,17 @@ I live in … There are some things I like about my neighborhood. The streets ar
 **LOOKING BACK**   
 **Bài 1 trang 46** 
 
-1. temple: ngôi đền   
-2. railway station: ga tàu   
-3. square: quảng trường   
-4. art gallery: triển lãm nghệ thuật   
-5. catheral: nhà thờ lớn 
+1. **temple** : ngôi đền
+2. **railway station** : ga tàu
+3. **square** : quảng trường
+4. **art gallery** : triển lãm nghệ thuật
+5. **catheral** : nhà thờ lớn
 
 **Bài 2 trang 46: Chia tính từ theo số lượng âm tiết (vần)** 
 
-1. một vần: fast, hot, large  
-2. hai vần: noisy, heavy, quiet   
-3. ba vần hoặc hơn: expensive, beautiful, exciting 
+1. **một vần** : fast, hot, large
+2. **hai vần** : noisy, heavy, quiet
+3. **ba vần hoặc hơn** : expensive, beautiful, exciting
 
 **Bài 3 trang 46**   
 **Điền hình thức so sánh hơn của tính từ**   

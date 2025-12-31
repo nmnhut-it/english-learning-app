@@ -5,11 +5,11 @@
 
 ### New words
 
-1. rhythm: (n) nhịp điệu /ˈrɪðəm/
-2. stress: (n, v) trọng âm, nhấn mạnh /stres/
-3. syllable: (n) âm tiết /ˈsɪləbl/
-4. content word: (n.phr) từ nội dung /ˈkɒntent wɜːd/
-5. function word: (n.phr) từ chức năng /ˈfʌŋkʃn wɜːd/
+1. **rhythm** : (n) nhịp điệu /ˈrɪðəm/
+2. **stress** : (n, v) trọng âm, nhấn mạnh /stres/
+3. **syllable** : (n) âm tiết /ˈsɪləbl/
+4. **content word** : (n.phr) từ nội dung /ˈkɒntent wɜːd/
+5. **function word** : (n.phr) từ chức năng /ˈfʌŋkʃn wɜːd/
 
 ---
 
@@ -74,14 +74,14 @@ Trong tiếng Anh, nhịp điệu (rhythm) được tạo ra bởi sự xen kẽ
 
 ### New words
 
-1. ecosystem: (n) hệ sinh thái /ˈiːkəʊˌsɪstəm/
-2. wildlife: (n) động vật hoang dã /ˈwaɪldlaɪf/
-3. habitat: (n) môi trường sống /ˈhæbɪtæt/
-4. biodiversity: (n) đa dạng sinh học /ˌbaɪəʊdaɪˈvɜːsəti/
-5. climate change: (n.phr) biến đổi khí hậu /ˈklaɪmət tʃeɪndʒ/
-6. carbon footprint: (n.phr) dấu chân carbon /ˈkɑːbən ˈfʊtprɪnt/
-7. fossil fuel: (n.phr) nhiên liệu hóa thạch /ˈfɒsl fjuːəl/
-8. greenhouse effect: (n.phr) hiệu ứng nhà kính /ˈɡriːnhaʊs ɪˈfekt/
+1. **ecosystem** : (n) hệ sinh thái /ˈiːkəʊˌsɪstəm/
+2. **wildlife** : (n) động vật hoang dã /ˈwaɪldlaɪf/
+3. **habitat** : (n) môi trường sống /ˈhæbɪtæt/
+4. **biodiversity** : (n) đa dạng sinh học /ˌbaɪəʊdaɪˈvɜːsəti/
+5. **climate change** : (n.phr) biến đổi khí hậu /ˈklaɪmət tʃeɪndʒ/
+6. **carbon footprint** : (n.phr) dấu chân carbon /ˈkɑːbən ˈfʊtprɪnt/
+7. **fossil fuel** : (n.phr) nhiên liệu hóa thạch /ˈfɒsl fjuːəl/
+8. **greenhouse effect** : (n.phr) hiệu ứng nhà kính /ˈɡriːnhaʊs ɪˈfekt/
 
 ---
 
@@ -264,28 +264,28 @@ Trong tiếng Anh, nhịp điệu (rhythm) được tạo ra bởi sự xen kẽ
 
 ## Vocabulary (Từ vựng)
 
-1. rhythm: (n) nhịp điệu /ˈrɪðəm/
-2. stress: (n, v) trọng âm, nhấn mạnh /stres/
-3. syllable: (n) âm tiết /ˈsɪləbl/
-4. ecosystem: (n) hệ sinh thái /ˈiːkəʊˌsɪstəm/
-5. wildlife: (n) động vật hoang dã /ˈwaɪldlaɪf/
-6. habitat: (n) môi trường sống /ˈhæbɪtæt/
-7. biodiversity: (n) đa dạng sinh học /ˌbaɪəʊdaɪˈvɜːsəti/
-8. climate change: (n.phr) biến đổi khí hậu /ˈklaɪmət tʃeɪndʒ/
-9. carbon footprint: (n.phr) dấu chân carbon /ˈkɑːbən ˈfʊtprɪnt/
-10. fossil fuel: (n.phr) nhiên liệu hóa thạch /ˈfɒsl fjuːəl/
-11. greenhouse effect: (n.phr) hiệu ứng nhà kính /ˈɡriːnhaʊs ɪˈfekt/
-12. burning: (n) việc đốt /ˈbɜːnɪŋ/
-13. lead to: (v.phr) dẫn đến /liːd tuː/
-14. serious: (adj) nghiêm trọng /ˈsɪəriəs/
-15. impact: (n) tác động /ˈɪmpækt/
-16. negative: (adj) tiêu cực /ˈneɡətɪv/
-17. species: (n) loài /ˈspiːʃiːz/
-18. balance: (n) sự cân bằng /ˈbæləns/
-19. survive: (v) sống sót /səˈvaɪv/
-20. depend on: (v.phr) phụ thuộc vào /dɪˈpend ɒn/
-21. involve: (v) liên quan đến /ɪnˈvɒlv/
-22. create: (v) tạo ra /kriˈeɪt/
-23. bamboo: (n) tre /bæmˈbuː/
-24. reported speech: (n.phr) câu tường thuật /rɪˈpɔːtɪd spiːtʃ/
-25. direct speech: (n.phr) câu trực tiếp /daɪˈrekt spiːtʃ/
+1. **rhythm** : (n) nhịp điệu /ˈrɪðəm/
+2. **stress** : (n, v) trọng âm, nhấn mạnh /stres/
+3. **syllable** : (n) âm tiết /ˈsɪləbl/
+4. **ecosystem** : (n) hệ sinh thái /ˈiːkəʊˌsɪstəm/
+5. **wildlife** : (n) động vật hoang dã /ˈwaɪldlaɪf/
+6. **habitat** : (n) môi trường sống /ˈhæbɪtæt/
+7. **biodiversity** : (n) đa dạng sinh học /ˌbaɪəʊdaɪˈvɜːsəti/
+8. **climate change** : (n.phr) biến đổi khí hậu /ˈklaɪmət tʃeɪndʒ/
+9. **carbon footprint** : (n.phr) dấu chân carbon /ˈkɑːbən ˈfʊtprɪnt/
+10. **fossil fuel** : (n.phr) nhiên liệu hóa thạch /ˈfɒsl fjuːəl/
+11. **greenhouse effect** : (n.phr) hiệu ứng nhà kính /ˈɡriːnhaʊs ɪˈfekt/
+12. **burning** : (n) việc đốt /ˈbɜːnɪŋ/
+13. **lead to** : (v.phr) dẫn đến /liːd tuː/
+14. **serious** : (adj) nghiêm trọng /ˈsɪəriəs/
+15. **impact** : (n) tác động /ˈɪmpækt/
+16. **negative** : (adj) tiêu cực /ˈneɡətɪv/
+17. **species** : (n) loài /ˈspiːʃiːz/
+18. **balance** : (n) sự cân bằng /ˈbæləns/
+19. **survive** : (v) sống sót /səˈvaɪv/
+20. **depend on** : (v.phr) phụ thuộc vào /dɪˈpend ɒn/
+21. **involve** : (v) liên quan đến /ɪnˈvɒlv/
+22. **create** : (v) tạo ra /kriˈeɪt/
+23. **bamboo** : (n) tre /bæmˈbuː/
+24. **reported speech** : (n.phr) câu tường thuật /rɪˈpɔːtɪd spiːtʃ/
+25. **direct speech** : (n.phr) câu trực tiếp /daɪˈrekt spiːtʃ/

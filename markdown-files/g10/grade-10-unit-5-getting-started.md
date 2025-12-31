@@ -63,7 +63,7 @@
 ### Bài 3: Find three nouns and three adjectives in the conversation
 *(Tìm ba danh từ và ba tính từ trong đoạn hội thoại 1 để nói về phát minh. Làm theo ví dụ.)*
 
-1. useful (adj): có ích
+1. **useful (adj)** : có ích
 2. _________
 3. _________
 4. _________

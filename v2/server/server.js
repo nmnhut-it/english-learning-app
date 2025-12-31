@@ -18,6 +18,9 @@ const PORT = 3007;
 app.use(cors());
 app.use(express.json());
 
+// Serve static files from parent directory (game files)
+app.use(express.static(path.join(__dirname, '..')));
+
 // Data directories
 const DATA_DIR = path.join(__dirname, 'data');
 const CLASSES_DIR = path.join(DATA_DIR, 'classes');

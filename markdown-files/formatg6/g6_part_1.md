@@ -26,58 +26,58 @@
 
 **Vocabulary (Từ vựng)** 
 
-1. loud: (adj) lớn tiếng /laʊd/) /lau.d/   
-2. knock: (n) tiếng gõ /nɒk/ /nót.k/  
-3. hi: (interj) xin chào /haɪ/  
-4. are: (v) là /ɑr/  
-5. you: (pron) bạn /juː/  
-6. ready: (adj) sẵn sàng /ˈrɛd.i/ /ré đi/   
-7. just: (adv) chỉ /dʒʌst/ /j.ấ.st/   
-8. a: (art) một /ə/  
-9. minute: (n) phút /ˈmɪn.ɪt/  
-10. oh: (interj) ồ /oʊ/  
-11. this: (pron) này /ðɪs/ /đi.s/   
-12. is: (v) là /ɪz/   
-13. my: (pron) của tôi /maɪ/  
-14. new: (adj) mới /nuː/ /niu/   
-15. friend: (n) bạn /frɛnd/ /f.ren.d/   
-16. nice: (adj) tốt /naɪs/  
-17. to: (prep) đến, để /tuː/  
-18. meet: (v) gặp /miːt/  
-19. I: (pron) tôi /aɪ/  
-20. live: (v) sống /lɪv/ /li.v/   
-21. near: (prep) gần /nɪr/ /nia/   
-22. here: (adv) đây /hɪər/ /hia/   
-23. and: (conj) và /ænd/ /èn/   
-24. we: (pron) chúng tôi /wiː/ /quy/   
-25. go: (v) đi /ɡoʊ/ /gô/   
-26. the: (art) cái /ðə/ /đờ/  
-27. same: (adj) giống nhau /seɪm/ /sêm/   
-28. school: (n) trường /skuːl/ /s.ku ồ/   
-29. good: (adj) tốt /ɡʊd/ /gút/   
-30. hmm: (interj) hừm /həm/ /hờ.m/  
-31. your: (pron) của bạn /jʊr/ /do/   
-32. bag: (n) túi /bæɡ/ /ba.g/   
-33. looks: (v) trông /lʊks/ /lu.k/   
-34. heavy: (adj) nặng /ˈhɛv.i/ /hé vi/   
-35. yes: (adv) vâng /jɛs/  
-36. have: (v) có /hæv/ /ha.v/   
-37. books: (n) sách /bʊks/ /bút.k/   
-38. subjects: (n) môn học /ˈsʌb.dʒɪkts/  
-39. study: (v) học /ˈstʌd.i/  
-40. uniform: (n) đồng phục /ˈjuː.nɪ.fɔrm/  
-41. look: (v) nhìn /lʊk/  
-42. smart: (adj) chỉn chu /smɑrt/ /sma.r/t   
-43. always: (adv) luôn luôn /ˈɔl.weɪz/ /ón wây.s/   
-44. in: (prep) trong /ɪn/  
-45. our: (pron) của chúng tôi /aʊər/ /áo ơ/   
-46. uniforms: (n) đồng phục /ˈjuː.nɪ.fɔrmz/ /díu ni fom/   
-47. let: (v) để /lɛt/  
-48. me: (pron) tôi /miː/  
-49. put on: mặc vào   
-50. then: (adv) sau đó /ðɛn/  
-51. can: (v) có thể /kæn/  
-52. go: (v) đi /ɡoʊ/
+1. **loud** : (adj) lớn tiếng /laʊd/) /lau.d/
+2. **knock** : (n) tiếng gõ /nɒk/ /nót.k/
+3. **hi** : (interj) xin chào /haɪ/
+4. **are** : (v) là /ɑr/
+5. **you** : (pron) bạn /juː/
+6. **ready** : (adj) sẵn sàng /ˈrɛd.i/ /ré đi/
+7. **just** : (adv) chỉ /dʒʌst/ /j.ấ.st/
+8. **a** : (art) một /ə/
+9. **minute** : (n) phút /ˈmɪn.ɪt/
+10. **oh** : (interj) ồ /oʊ/
+11. **this** : (pron) này /ðɪs/ /đi.s/
+12. **is** : (v) là /ɪz/
+13. **my** : (pron) của tôi /maɪ/
+14. **new** : (adj) mới /nuː/ /niu/
+15. **friend** : (n) bạn /frɛnd/ /f.ren.d/
+16. **nice** : (adj) tốt /naɪs/
+17. **to** : (prep) đến, để /tuː/
+18. **meet** : (v) gặp /miːt/
+19. **I** : (pron) tôi /aɪ/
+20. **live** : (v) sống /lɪv/ /li.v/
+21. **near** : (prep) gần /nɪr/ /nia/
+22. **here** : (adv) đây /hɪər/ /hia/
+23. **and** : (conj) và /ænd/ /èn/
+24. **we** : (pron) chúng tôi /wiː/ /quy/
+25. **go** : (v) đi /ɡoʊ/ /gô/
+26. **the** : (art) cái /ðə/ /đờ/
+27. **same** : (adj) giống nhau /seɪm/ /sêm/
+28. **school** : (n) trường /skuːl/ /s.ku ồ/
+29. **good** : (adj) tốt /ɡʊd/ /gút/
+30. **hmm** : (interj) hừm /həm/ /hờ.m/
+31. **your** : (pron) của bạn /jʊr/ /do/
+32. **bag** : (n) túi /bæɡ/ /ba.g/
+33. **looks** : (v) trông /lʊks/ /lu.k/
+34. **heavy** : (adj) nặng /ˈhɛv.i/ /hé vi/
+35. **yes** : (adv) vâng /jɛs/
+36. **have** : (v) có /hæv/ /ha.v/
+37. **books** : (n) sách /bʊks/ /bút.k/
+38. **subjects** : (n) môn học /ˈsʌb.dʒɪkts/
+39. **study** : (v) học /ˈstʌd.i/
+40. **uniform** : (n) đồng phục /ˈjuː.nɪ.fɔrm/
+41. **look** : (v) nhìn /lʊk/
+42. **smart** : (adj) chỉn chu /smɑrt/ /sma.r/t
+43. **always** : (adv) luôn luôn /ˈɔl.weɪz/ /ón wây.s/
+44. **in** : (prep) trong /ɪn/
+45. **our** : (pron) của chúng tôi /aʊər/ /áo ơ/
+46. **uniforms** : (n) đồng phục /ˈjuː.nɪ.fɔrmz/ /díu ni fom/
+47. **let** : (v) để /lɛt/
+48. **me** : (pron) tôi /miː/
+49. **put on** : mặc vào
+50. **then** : (adv) sau đó /ðɛn/
+51. **can** : (v) có thể /kæn/
+52. **go** : (v) đi /ɡoʊ/
 
 **Tập bài tập**   
 **Bài 1 trang 6**  
@@ -115,12 +115,12 @@ phục của chúng ta.
    Tôi thích học tiếng Anh và lịch sử  
    **Bài 4 trang 7** 
 
-1. school bag: cặp đi học   
-2. compass: com-pa  
-3. pencil sharpener: đồ chuốt bút chì   
-4. rubber: cục gôm   
-5. pencil case: hộp bút chì   
-6. calculator: máy tính bỏ túi 
+1. **school bag** : cặp đi học
+2. **compass** : com-pa
+3. **pencil sharpener** : đồ chuốt bút chì
+4. **rubber** : cục gôm
+5. **pencil case** : hộp bút chì
+6. **calculator** : máy tính bỏ túi
 
 **Lịch học: 7h30 → 11h chủ nhật hàng tuần**
 
@@ -165,12 +165,12 @@ study: English, science, history, lessons, music
 **Bài 3 trang 8 (Tập bài tập)**
 
 1. Vy và tôi thường làm …bài tập về nhà \- homework… của chúng tôi sau giờ học  
-2. play: chơi   
+2. **play** : chơi
    team: đội   
    Nick chơi đá banh \-football cho đội trường   
-3. teach: dạy  
+3. **teach** : dạy
    Mrs Nguyen dạy tất cả …bài học \-lessons….. lịch sử của tôi  
-4. healthy: khỏe mạnh   
+4. **healthy** : khỏe mạnh
    Họ thì khỏe mạnh. Họ tập …thể dục \-exercise.. mỗi ngày  
 5. Tôi học toán, tiếng Anh và …..khoa học \- science vào thứ hai
 
@@ -283,20 +283,20 @@ study: English, science, history, lessons, music
 
 **Bài 1 trang 9 (tập bài tập)** 
 
-1. Chủ từ: We   
+1. **Chủ từ** : We
    Động từ: have  
    Đáp án: A   
-2. Chủ từ: Duy   
+2. **Chủ từ** : Duy
    Động từ: cycle   
    Đáp án: cycles   
-3. Chủ từ: My new school   
+3. **Chủ từ** : My new school
    động từ: is (thì) \- động từ to be   
    Đáp án: isn’t (thì không)   
    Trường của tôi thì không ở trung tâm của làng   
-4. Chủ từ: you   
+4. **Chủ từ** : you
    Động từ: live \- V thường \- câu hỏi  
    Đáp án: do you  
-5. Chủ từ: she   
+5. **Chủ từ** : she
    Động từ: have \- V thường \- câu phủ định   
    Đáp án: doesn’t have
 
@@ -477,36 +477,36 @@ Các từ always, usually, often, sometimes, rarely, never **đứng sau động
 
 # **COMMUNICATION** 
 
-1. are: (v) là /ɑr/  
-2. you: (pron) bạn /juː/  
-3. from: (prep) từ /frʌm/  
-4. around: (prep) xung quanh /əˈraʊnd/  
-5. here: (adv) ở đây /hɪr/  
-6. do: (v) làm /duː/  
-7. like: (v) thích /laɪk/  
-8. music: (n) âm nhạc /ˈmjuː.zɪk/  
-9. how: (adv) như thế nào /haʊ/  
-10. much: (adv) nhiều /mʌtʃ/  
-11. money: (n) tiền /ˈmʌn.i/  
-12. get: (v) nhận /ɡɛt/  
-13. what: (pron) cái gì /wʌt/  
-14. is: (v) là /ɪz/  
-15. your: (pron) của bạn /jʊr/  
-16. favourite: (adj) yêu thích /ˈfeɪ.vər.ɪt/  
-17. subject: (n) môn học /ˈsʌb.dʒɪkt/  
-18. at: (prep) tại /æt/  
-19. school: (n) trường học /skuːl/  
-20. hungry: (adj) đói /ˈhʌŋ.ɡri/  
-21. now: (adv) bây giờ /naʊ/  
-22. play: (v) chơi /pleɪ/  
-23. football: (n) bóng đá /ˈfʊt.bɔːl/  
-24. go: (v) đi /ɡoʊ/  
-25. to: (prep) đến /tuː/  
-26. every: (adj) mỗi /ˈɛv.ri/  
-27. day: (n) ngày /deɪ/  
-28. where: (adv) ở đâu /wɛr/  
-29. often: (adv) thường xuyên /ˈɔf.ən/  
-30. shopping: (n) mua sắm /ˈʃɑː.pɪŋ/
+1. **are** : (v) là /ɑr/
+2. **you** : (pron) bạn /juː/
+3. **from** : (prep) từ /frʌm/
+4. **around** : (prep) xung quanh /əˈraʊnd/
+5. **here** : (adv) ở đây /hɪr/
+6. **do** : (v) làm /duː/
+7. **like** : (v) thích /laɪk/
+8. **music** : (n) âm nhạc /ˈmjuː.zɪk/
+9. **how** : (adv) như thế nào /haʊ/
+10. **much** : (adv) nhiều /mʌtʃ/
+11. **money** : (n) tiền /ˈmʌn.i/
+12. **get** : (v) nhận /ɡɛt/
+13. **what** : (pron) cái gì /wʌt/
+14. **is** : (v) là /ɪz/
+15. **your** : (pron) của bạn /jʊr/
+16. **favourite** : (adj) yêu thích /ˈfeɪ.vər.ɪt/
+17. **subject** : (n) môn học /ˈsʌb.dʒɪkt/
+18. **at** : (prep) tại /æt/
+19. **school** : (n) trường học /skuːl/
+20. **hungry** : (adj) đói /ˈhʌŋ.ɡri/
+21. **now** : (adv) bây giờ /naʊ/
+22. **play** : (v) chơi /pleɪ/
+23. **football** : (n) bóng đá /ˈfʊt.bɔːl/
+24. **go** : (v) đi /ɡoʊ/
+25. **to** : (prep) đến /tuː/
+26. **every** : (adj) mỗi /ˈɛv.ri/
+27. **day** : (n) ngày /deɪ/
+28. **where** : (adv) ở đâu /wɛr/
+29. **often** : (adv) thường xuyên /ˈɔf.ən/
+30. **shopping** : (n) mua sắm /ˈʃɑː.pɪŋ/
 
 **Bài 1 trang 11**   
 Vy: Phong này, đây là Duy, bạn mới của tớ.
@@ -654,19 +654,19 @@ Vietnamese
 
 **Vocabulary** 
 
-1. classmate: (n) bạn cùng lớp /ˈklɑːsmeɪt/  
-2. friendly: (adj) thân thiện /ˈfrɛndli/  
-3. helpful: (adj) hữu ích /ˈhɛlpfl/  
-4. favorite: (adj) yêu thích /ˈfeɪvərɪt/  
-5. teach: (v) dạy /tiːtʃ/  
-6. math: (n) toán học /mæθ/  
-7. study: (v) học /ˈstʌdi/  
-8. Vietnamese: (n) tiếng Việt /ˌvjetnəˈmiːz/  
-9. library: (n) thư viện /ˈlaɪbrəri/  
-10. uniform: (n) đồng phục /ˈjuːnɪfɔːm/  
-11. biology: (n) sinh học /baɪˈɒlədʒi/  
-12. lesson: (n) bài học /ˈlɛsən/  
-13. farm: (n) trang trại /fɑːm/
+1. **classmate** : (n) bạn cùng lớp /ˈklɑːsmeɪt/
+2. **friendly** : (adj) thân thiện /ˈfrɛndli/
+3. **helpful** : (adj) hữu ích /ˈhɛlpfl/
+4. **favorite** : (adj) yêu thích /ˈfeɪvərɪt/
+5. **teach** : (v) dạy /tiːtʃ/
+6. **math** : (n) toán học /mæθ/
+7. **study** : (v) học /ˈstʌdi/
+8. **Vietnamese** : (n) tiếng Việt /ˌvjetnəˈmiːz/
+9. **library** : (n) thư viện /ˈlaɪbrəri/
+10. **uniform** : (n) đồng phục /ˈjuːnɪfɔːm/
+11. **biology** : (n) sinh học /baɪˈɒlədʒi/
+12. **lesson** : (n) bài học /ˈlɛsən/
+13. **farm** : (n) trang trại /fɑːm/
 
 **Nội dung bài nghe**  
 Hi. My name’s Janet. I’m eleven years old. I’m now in year 6 at Palmer School. I like it here. My classmates are friendly. The teachers at my school are nice and very helpful, and my favourite teacher is Mrs. Smith. She teaches us maths. I have two hours to study Vietnamese every week. I usually do my homework in the library. We wear our uniforms every day, but today we aren’t. We’re going to have a biology lesson on a farm.
@@ -680,7 +680,7 @@ Hi. My name’s Janet. I’m eleven years old. I’m now in year 6 at Palmer Sch
 
 **Bài 3 trang 13**
 
-1. name: tên   
+1. **name** : tên
    of: của   
    your: của bạn   
    school: trường → your school: trường của bạn  
@@ -698,13 +698,13 @@ Hi. My name’s Janet. I’m eleven years old. I’m now in year 6 at Palmer Sch
    **school: trường**   
    **→ trường của bạn thì ở đâu**   
    My school is in Tien Giang  
-3. How many:bao nhiêu   
+3. **How many** : bao nhiêu
    class: lớp   
    your school: trường của bạn   
    have: có   
    trường của bạn có bao bao nhiêu lớp học   
    My school has 20 classes   
-4. what: gì   
+4. **what** : gì
    do: làm   
    students: học sinh   
    what do students do: học sinh làm gì   

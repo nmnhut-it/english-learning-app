@@ -52,7 +52,7 @@ I go to school. Do you go to school?
 
 **Vocabulary**
 
-1. ash: tro /æʃ/
+1. **ash** : tro /æʃ/
 
 **Bài 1 trang 43** 
 

@@ -7,33 +7,33 @@
 - **pretty late** : khá muộn /ˈprɪti leɪt/
 - **I am doing a project on energy sources** : Tôi đang làm một dự án về các nguồn năng lượng /aɪ əm ˈduːɪŋ ə ˈprɒdʒekt ɒn ˈenədʒi ˈsɔːsɪz/
 - **I don't quite understand what energy is** : Tôi không hiểu rõ lắm năng lượng là gì /aɪ dəʊnt kwaɪt ˌʌndəˈstænd wɒt ˈenədʒi ɪz/
-- **energy** : (n) năng lượng /ˈenədʒi/
-- **source** : (n) nguồn /sɔːs/
-- **energy source** : (n) nguồn năng lượng /ˈenədʒi sɔːs/
-- **project** : (n) dự án /ˈprɒdʒekt/
-- **quite** : (adv) khá, tương đối /kwaɪt/
-- **understand** : (v) hiểu /ˌʌndəˈstænd/
-- **power** : (n) sức mạnh, năng lượng /ˈpaʊə(r)/
+1. **energy** : (n) năng lượng /ˈenədʒi/
+2. **source** : (n) nguồn /sɔːs/
+3. **energy source** : (n) nguồn năng lượng /ˈenədʒi sɔːs/
+4. **project** : (n) dự án /ˈprɒdʒekt/
+5. **quite** : (adv) khá, tương đối /kwaɪt/
+6. **understand** : (v) hiểu /ˌʌndəˈstænd/
+7. **power** : (n) sức mạnh, năng lượng /ˈpaʊə(r)/
 - **provide us with something** : cung cấp cho chúng ta cái gì đó /prəˈvaɪd ʌs wɪð ˈsʌmθɪŋ/
-- **light** : (n) ánh sáng /laɪt/
-- **heat** : (n) nhiệt /hiːt/
-- **electricity** : (n) điện /ɪˌlekˈtrɪsəti/
+8. **light** : (n) ánh sáng /laɪt/
+9. **heat** : (n) nhiệt /hiːt/
+10. **electricity** : (n) điện /ɪˌlekˈtrɪsəti/
 - **where does it come from** : nó đến từ đâu /weə dʌz ɪt kʌm frɒm/
-- **coal** : (n) than đá /kəʊl/
-- **oil** : (n) dầu /ɔɪl/
-- **natural gas** : (n) khí đốt tự nhiên /ˈnætʃrəl ɡæs/
-- **renewable** : (adj) có thể tái tạo /rɪˈnjuːəbl/
-- **non-renewable** : (adj) không thể tái tạo /nɒn-rɪˈnjuːəbl/
-- **easily** : (adv) dễ dàng /ˈiːzɪli/
-- **replace** : (v) thay thế /rɪˈpleɪs/
-- **run out of** : (v) hết /rʌn aʊt əv/
-- **call** : (v) gọi /kɔːl/
-- **the sun** : (n) mặt trời /ðə sʌn/
-- **wind** : (n) gió /wɪnd/
-- **water** : (n) nước /ˈwɔːtə(r)/
-- **cheap** : (adj) rẻ /tʃiːp/
-- **expensive** : (adj) đắt /ɪkˈspensɪv/
-- **too** : (adv) cũng /tuː/
+11. **coal** : (n) than đá /kəʊl/
+12. **oil** : (n) dầu /ɔɪl/
+13. **natural gas** : (n) khí đốt tự nhiên /ˈnætʃrəl ɡæs/
+14. **renewable** : (adj) có thể tái tạo /rɪˈnjuːəbl/
+15. **non-renewable** : (adj) không thể tái tạo /nɒn-rɪˈnjuːəbl/
+16. **easily** : (adv) dễ dàng /ˈiːzɪli/
+17. **replace** : (v) thay thế /rɪˈpleɪs/
+18. **run out of** : (v) hết /rʌn aʊt əv/
+19. **call** : (v) gọi /kɔːl/
+20. **the sun** : (n) mặt trời /ðə sʌn/
+21. **wind** : (n) gió /wɪnd/
+22. **water** : (n) nước /ˈwɔːtə(r)/
+23. **cheap** : (adj) rẻ /tʃiːp/
+24. **expensive** : (adj) đắt /ɪkˈspensɪv/
+25. **too** : (adv) cũng /tuː/
 
 ### 💬 Content - Nội dung
 
@@ -124,20 +124,20 @@ Hoàn thành mỗi câu với từ đúng từ đoạn hội thoại
 ## A CLOSER LOOK 1 - TÌM HIỂU THÊM 1
 
 ### 📚 Vocabulary - Từ vựng
-- **solar energy** : (n) năng lượng mặt trời /ˈsəʊlər ˈenədʒi/
-- **wind energy** : (n) năng lượng gió /wɪnd ˈenədʒi/
-- **hydro energy** : (n) năng lượng thủy điện /ˈhaɪdrəʊ ˈenədʒi/
-- **nuclear energy** : (n) năng lượng hạt nhân /ˈnjuːkliər ˈenədʒi/
-- **nuclear** : (adj) hạt nhân /ˈnjuːkliə(r)/
-- **roof** : (n) mái nhà /ruːf/
-- **building** : (n) tòa nhà /ˈbɪldɪŋ/
-- **produce** : (v) sản xuất /prəˈdjuːs/
-- **safe** : (adj) an toàn /seɪf/
-- **dangerous** : (adj) nguy hiểm /ˈdeɪndʒərəs/
-- **clean** : (adj) sạch /kliːn/
-- **pollute** : (v) gây ô nhiễm /pəˈluːt/
-- **available** : (adj) sẵn có /əˈveɪləbl/
-- **limited** : (adj) hạn chế /ˈlɪmɪtɪd/
+1. **solar energy** : (n) năng lượng mặt trời /ˈsəʊlər ˈenədʒi/
+2. **wind energy** : (n) năng lượng gió /wɪnd ˈenədʒi/
+3. **hydro energy** : (n) năng lượng thủy điện /ˈhaɪdrəʊ ˈenədʒi/
+4. **nuclear energy** : (n) năng lượng hạt nhân /ˈnjuːkliər ˈenədʒi/
+5. **nuclear** : (adj) hạt nhân /ˈnjuːkliə(r)/
+6. **roof** : (n) mái nhà /ruːf/
+7. **building** : (n) tòa nhà /ˈbɪldɪŋ/
+8. **produce** : (v) sản xuất /prəˈdjuːs/
+9. **safe** : (adj) an toàn /seɪf/
+10. **dangerous** : (adj) nguy hiểm /ˈdeɪndʒərəs/
+11. **clean** : (adj) sạch /kliːn/
+12. **pollute** : (v) gây ô nhiễm /pəˈluːt/
+13. **available** : (adj) sẵn có /əˈveɪləbl/
+14. **limited** : (adj) hạn chế /ˈlɪmɪtɪd/
 
 ### ✍️ Exercises - Bài tập
 
@@ -305,7 +305,7 @@ Làm việc theo cặp. Hỏi và trả lời các câu hỏi sau
 
 ### 📚 Vocabulary - Từ vựng
 - **What does ... mean?** : ... có nghĩa là gì? /wɒt dʌz ... miːn/
-- **Well** : (interjection) À, ừm /wel/
+1. **Well** : (interjection) À, ừm /wel/
 - **It's energy that...** : Đó là năng lượng mà... /ɪts ˈenədʒi ðæt/
 - **another type** : một loại khác /əˈnʌðə taɪp/
 
@@ -358,21 +358,21 @@ Or: My partner doesn't save much energy. She goes to school by motorbike. She so
 
 ### 📚 Vocabulary - Từ vựng
 - **I'd like = would like** : muốn, mong muốn /wʊd laɪk/
-- **energy source** : (n) nguồn năng lượng /ˈenədʒi sɔːs/
-- **non-renewable source** : (n) nguồn không tái tạo /nɒn-rɪˈnjuːəbl sɔːs/
-- **renewable source** : (n) nguồn tái tạo /rɪˈnjuːəbl sɔːs/
+1. **energy source** : (n) nguồn năng lượng /ˈenədʒi sɔːs/
+2. **non-renewable source** : (n) nguồn không tái tạo /nɒn-rɪˈnjuːəbl sɔːs/
+3. **renewable source** : (n) nguồn tái tạo /rɪˈnjuːəbl sɔːs/
 - **produce energy** : sản xuất năng lượng /prəˈdjuːs ˈenədʒi/
-- **cheap** : (adj) rẻ, giá thấp /tʃiːp/
+4. **cheap** : (adj) rẻ, giá thấp /tʃiːp/
 - **easy to use** : dễ sử dụng /ˈiːzi tuː juːz/
-- **limited** : (adj) hạn chế, có giới hạn /ˈlɪmɪtɪd/
-- **run out** : (v) cạn kiệt, hết /rʌn aʊt/
-- **available** : (adj) sẵn có, có sẵn /əˈveɪləbl/
-- **clean** : (adj) sạch /kliːn/
-- **safe** : (adj) an toàn /seɪf/
-- **expensive** : (adj) đắt tiền /ɪkˈspensɪv/
-- **rely on** : (v) phụ thuộc vào, dựa vào /rɪˈlaɪ ɒn/
-- **better** : (adj) tốt hơn /ˈbetə/
-- **environment** : (n) môi trường /ɪnˈvaɪrənmənt/
+5. **limited** : (adj) hạn chế, có giới hạn /ˈlɪmɪtɪd/
+6. **run out** : (v) cạn kiệt, hết /rʌn aʊt/
+7. **available** : (adj) sẵn có, có sẵn /əˈveɪləbl/
+8. **clean** : (adj) sạch /kliːn/
+9. **safe** : (adj) an toàn /seɪf/
+10. **expensive** : (adj) đắt tiền /ɪkˈspensɪv/
+11. **rely on** : (v) phụ thuộc vào, dựa vào /rɪˈlaɪ ɒn/
+12. **better** : (adj) tốt hơn /ˈbetə/
+13. **environment** : (n) môi trường /ɪnˈvaɪrənmənt/
 
 ### 📖 Reading - Đọc
 
@@ -465,13 +465,13 @@ B: It's limited and not good for the environment.
 
 ### 📚 Vocabulary - Từ vựng
 - **save energy** : tiết kiệm năng lượng /seɪv ˈenədʒi/
-- **turn off** : (v) tắt /tɜːn ɒf/
-- **turn on** : (v) bật /tɜːn ɒn/
-- **light bulb** : (n) bóng đèn /laɪt bʌlb/
-- **low energy light bulb** : (n) bóng đèn năng lượng thấp /ləʊ ˈenədʒi laɪt bʌlb/
-- **electrical appliance** : (n) thiết bị điện /ɪˈlektrɪkl əˈplaɪəns/
-- **solar panel** : (n) pin năng lượng mặt trời /ˈsəʊlə ˈpænl/
-- **warm** : (v) làm ấm, (adj) ấm /wɔːm/
+1. **turn off** : (v) tắt /tɜːn ɒf/
+2. **turn on** : (v) bật /tɜːn ɒn/
+3. **light bulb** : (n) bóng đèn /laɪt bʌlb/
+4. **low energy light bulb** : (n) bóng đèn năng lượng thấp /ləʊ ˈenədʒi laɪt bʌlb/
+5. **electrical appliance** : (n) thiết bị điện /ɪˈlektrɪkl əˈplaɪəns/
+6. **solar panel** : (n) pin năng lượng mặt trời /ˈsəʊlə ˈpænl/
+7. **warm** : (v) làm ấm, (adj) ấm /wɔːm/
 - **sound interesting** : nghe có vẻ thú vị /saʊnd ˈɪntrəstɪŋ/
 
 ### 👂 Listening - Nghe

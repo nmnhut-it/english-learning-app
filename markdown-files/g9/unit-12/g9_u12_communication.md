@@ -4,20 +4,20 @@
 
 **Vocabulary**
 
-1. hopefully: (adv) hy vọng là, mong rằng /ˈhəʊp.fəl.i/  
-2. I hope so, too: tôi cũng hy vọng như vậy /aɪ həʊp səʊ tuː/  
-3. a design competition: cuộc thi thiết kế /ə dɪˈzaɪn ˌkɒm.pəˈtɪʃ.ən/  
+1. **hopefully** : (adv) hy vọng là, mong rằng /ˈhəʊp.fəl.i/
+2. **I hope so, too** : tôi cũng hy vọng như vậy /aɪ həʊp səʊ tuː/
+3. **a design competition** : cuộc thi thiết kế /ə dɪˈzaɪn ˌkɒm.pəˈtɪʃ.ən/
 4. look forward to \+ Ving: mong đợi, trông đợi (làm gì) /lʊk ˈfɔː.wəd tuː/  
-5. dream \- dreamed \- dreamt: (v) mơ, mơ ước /driːm \- driːmd \- dremt/  
-6. medical university: trường đại học y /ˈmed.ɪ.kəl ˌjuː.nɪˈvɜː.sɪ.ti/  
-7. seem: (v) có vẻ như, dường như /siːm/  
-8. suitable: (adj) thích hợp, phù hợp /ˈsuː.tə.bəl/  
-9. surgical team: đội ngũ phẫu thuật /ˈsɜː.dʒɪ.kəl tiːm/	  
-10. calm: (adj) bình tĩnh, điềm tĩnh /kɑːm/  
-11. decisive: (adj) quyết đoán, dứt khoát /dɪˈsaɪ.sɪv/  
-12. as soon as possible: càng sớm càng tốt /əz suːn əz ˈpɒs.ə.bəl/  
-13. basic math skills: kỹ năng toán học cơ bản /ˈbeɪ.sɪk mæθ skɪlz/  
-14. patient: (n) bệnh nhân /ˈpeɪ.ʃənt/ (adj) kiên nhẫn, nhẫn nại /ˈpeɪ.ʃənt/
+5. **dream \- dreamed \- dreamt** : (v) mơ, mơ ước /driːm \- driːmd \- dremt/
+6. **medical university** : trường đại học y /ˈmed.ɪ.kəl ˌjuː.nɪˈvɜː.sɪ.ti/
+7. **seem** : (v) có vẻ như, dường như /siːm/
+8. **suitable** : (adj) thích hợp, phù hợp /ˈsuː.tə.bəl/
+9. **surgical team** : đội ngũ phẫu thuật /ˈsɜː.dʒɪ.kəl tiːm/
+10. **calm** : (adj) bình tĩnh, điềm tĩnh /kɑːm/
+11. **decisive** : (adj) quyết đoán, dứt khoát /dɪˈsaɪ.sɪv/
+12. **as soon as possible** : càng sớm càng tốt /əz suːn əz ˈpɒs.ə.bəl/
+13. **basic math skills** : kỹ năng toán học cơ bản /ˈbeɪ.sɪk mæθ skɪlz/
+14. **patient** : (n) bệnh nhân /ˈpeɪ.ʃənt/ (adj) kiên nhẫn, nhẫn nại /ˈpeɪ.ʃənt/
 
 **Bài 2 trang 128**  
 1\.  
@@ -34,11 +34,11 @@ Student: Thanks, I'll make sure to give it to my parents.
 **Bài 3 trang 128**   
 **Vocabulary** 
 
-1. hand-eye coordination: sự phối hợp tay-mắt /ˌhænd ˈaɪ kəʊˌɔːdɪˈneɪʃn/  
-2. reference letter: thư giới thiệu /ˈrefrəns ˌletə/  
-3. personal quality: phẩm chất cá nhân /ˈpɜːsənl ˈkwɒlɪti/  
-4. medical degree: bằng y khoa /ˈmedɪkl dɪˈɡriː/  
-5. hands-on training: đào tạo thực hành /ˌhændz ˈɒn ˈtreɪnɪŋ/
+1. **hand-eye coordination** : sự phối hợp tay-mắt /ˌhænd ˈaɪ kəʊˌɔːdɪˈneɪʃn/
+2. **reference letter** : thư giới thiệu /ˈrefrəns ˌletə/
+3. **personal quality** : phẩm chất cá nhân /ˈpɜːsənl ˈkwɒlɪti/
+4. **medical degree** : bằng y khoa /ˈmedɪkl dɪˈɡriː/
+5. **hands-on training** : đào tạo thực hành /ˌhændz ˈɒn ˈtreɪnɪŋ/
 
 Khang: Tôi luôn mơ ước về công việc này. Tôi sẽ vào một trường đại học y khoa. Đây có vẻ là công việc phù hợp với tôi vì tôi có khả năng phối hợp tay mắt tốt. Hơn nữa, tôi là người bình tĩnh, quyết đoán nên có thể lãnh đạo êkíp phẫu thuật.
 

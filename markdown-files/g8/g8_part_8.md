@@ -4,24 +4,24 @@ UNIT 8: SHOPPING**
 
 **Vocabulary:** 
 
-1. fair: (n) hội chợ /feə/  
-2. awesome: (adj) tuyệt vời /ˈɔːsəm/  
-3. open-air market: chợ ngoài trời /ˈəʊpən eə ˈmɑːkɪt/  
-4. what do you like about it: bạn thích gì về nó /wɒt duː juː laɪk əˈbaʊt ɪt/  
-5. costume: (n) trang phục /ˈkɒstjuːm/  
-6. wear: (v) mặc /weə/  
-7. minority group: nhóm dân tộc thiểu số /maɪˈnɒrəti ɡruːp/  
-8. sell \- sold \- sold: (v) bán /sel \- səʊld \- səʊld/  
-9. home-grown: (adj) tự trồng tại nhà /həʊm ɡrəʊn/  
-10. home-made: (adj) tự làm tại nhà /həʊm meɪd/  
-11. rarely: (adv) hiếm khi /ˈreəli/  
-12. miss: (v) bỏ lỡ /mɪs/  
-13. almost: (adv) gần như /ˈɔːlməʊst/  
-14. bargain: (v) trả giá, mặc cả /ˈbɑːɡɪn/  
-15. fixed price: giá cố định /fɪkst praɪs/  
-16. price tag: nhãn giá /praɪs tæɡ/  
-17. convenient: (adj) thuận tiện /kənˈviːniənt/  
-18. convenience store: cửa hàng tiện lợi /kənˈviːniəns stɔː/
+1. **fair** : (n) hội chợ /feə/
+2. **awesome** : (adj) tuyệt vời /ˈɔːsəm/
+3. **open-air market** : chợ ngoài trời /ˈəʊpən eə ˈmɑːkɪt/
+4. **what do you like about it** : bạn thích gì về nó /wɒt duː juː laɪk əˈbaʊt ɪt/
+5. **costume** : (n) trang phục /ˈkɒstjuːm/
+6. **wear** : (v) mặc /weə/
+7. **minority group** : nhóm dân tộc thiểu số /maɪˈnɒrəti ɡruːp/
+8. **sell \- sold \- sold** : (v) bán /sel \- səʊld \- səʊld/
+9. **home-grown** : (adj) tự trồng tại nhà /həʊm ɡrəʊn/
+10. **home-made** : (adj) tự làm tại nhà /həʊm meɪd/
+11. **rarely** : (adv) hiếm khi /ˈreəli/
+12. **miss** : (v) bỏ lỡ /mɪs/
+13. **almost** : (adv) gần như /ˈɔːlməʊst/
+14. **bargain** : (v) trả giá, mặc cả /ˈbɑːɡɪn/
+15. **fixed price** : giá cố định /fɪkst praɪs/
+16. **price tag** : nhãn giá /praɪs tæɡ/
+17. **convenient** : (adj) thuận tiện /kənˈviːniənt/
+18. **convenience store** : cửa hàng tiện lợi /kənˈviːniəns stɔː/
 
 Mai: Chuyến đi Bắc Hà của bạn thế nào, Alice?
 
@@ -54,8 +54,8 @@ Mai: Ừ... Ồ, mình phải đi đây. Lớp học vẽ của mình bắt đ�
 
 **Bài 3 trang 83** 
 
-1. open-air market: a, c  
-2. supermarket: b,d, e
+1. **open-air market** : a, c
+2. **supermarket** : b,d, e
 
 1. Nó thì ngoài trời   
 2. Hàng hóa được trưng bày trên kệ  
@@ -68,33 +68,33 @@ Mai: Ừ... Ồ, mình phải đi đây. Lớp học vẽ của mình bắt đ�
 1. …. là gì?  
    Nó là khi mà người mua nói chuyện với người bán để có giá thấp hơn   
    → bargain: trả giá   
-2. Một ….. là một cửa hàng nhỏ và thường mở 24/7 → convenience store: cửa hàng tiện lợi  
-3. Sa-lát này thì được làm từ rau củ ….. → home-grown: nhà trồng   
-4. T-shirt này thì bao nhiêu tiền? Tôi không thể thấy … → price tag: bảng giá   
-5. Thử bánh mì ….. của chúng tôi, Mai. Mẹ của tôi đã làm nó sáng nay → home-made: nhà làm
+2. **Một ….. là một cửa hàng nhỏ và thường mở 24/7 → convenience store** : cửa hàng tiện lợi
+3. **Sa-lát này thì được làm từ rau củ ….. → home-grown** : nhà trồng
+4. **T-shirt này thì bao nhiêu tiền? Tôi không thể thấy … → price tag** : bảng giá
+5. **Thử bánh mì ….. của chúng tôi, Mai. Mẹ của tôi đã làm nó sáng nay → home-made** : nhà làm
 
 **A CLOSER LOOK 1**
 
 **Vocabulary**: 
 
-1. shopaholic (n): người nghiện mua sắm /ˌʃɒpəˈhɒlɪk/  
-2. browsing (v): lướt xem, dạo xem /ˈbraʊzɪŋ/  
-3. price tag: nhãn giá /praɪs tæɡ/  
-4. on sale: đang giảm giá /ɒn seɪl/  
-5. internet access: quyền truy cập internet /ˈɪntənet ˈækses/  
-6. offer lower prices: đưa ra giá thấp hơn /ˈɒfə ˈləʊə ˈpraɪsɪz/  
-7. on all products: trên tất cả sản phẩm /ɒn ɔːl ˈprɒdʌkts/  
-8. specialty shop: cửa hàng chuyên dụng /ˈspeʃəlti ʃɒp/  
-9. discount shop: cửa hàng giảm giá /ˈdɪskaʊnt ʃɒp/  
-10. sell goods (v): bán hàng hóa /sel ɡʊdz/  
-11. service (n): dịch vụ /ˈsɜːvɪs/  
-12. supermarket (n): siêu thị /ˈsuːpəˌmɑːkɪt/  
-13. online shop: cửa hàng trực tuyến /ˈɒnlaɪn ʃɒp/  
-14. open-air market: chợ ngoài trời /ˌəʊpən ˈeə ˈmɑːkɪt/  
-15. product (n): sản phẩm /ˈprɒdʌkt/  
-16. wide range of goods: phạm vi rộng các mặt hàng /waɪd reɪndʒ əv ɡʊdz/  
-17. bargain (n): món hời, giá hời /ˈbɑːɡɪn/  
-18. kind (n): loại /kaɪnd/  
+1. **shopaholic (n)** : người nghiện mua sắm /ˌʃɒpəˈhɒlɪk/
+2. **browsing (v)** : lướt xem, dạo xem /ˈbraʊzɪŋ/
+3. **price tag** : nhãn giá /praɪs tæɡ/
+4. **on sale** : đang giảm giá /ɒn seɪl/
+5. **internet access** : quyền truy cập internet /ˈɪntənet ˈækses/
+6. **offer lower prices** : đưa ra giá thấp hơn /ˈɒfə ˈləʊə ˈpraɪsɪz/
+7. **on all products** : trên tất cả sản phẩm /ɒn ɔːl ˈprɒdʌkts/
+8. **specialty shop** : cửa hàng chuyên dụng /ˈspeʃəlti ʃɒp/
+9. **discount shop** : cửa hàng giảm giá /ˈdɪskaʊnt ʃɒp/
+10. **sell goods (v)** : bán hàng hóa /sel ɡʊdz/
+11. **service (n)** : dịch vụ /ˈsɜːvɪs/
+12. **supermarket (n)** : siêu thị /ˈsuːpəˌmɑːkɪt/
+13. **online shop** : cửa hàng trực tuyến /ˈɒnlaɪn ʃɒp/
+14. **open-air market** : chợ ngoài trời /ˌəʊpən ˈeə ˈmɑːkɪt/
+15. **product (n)** : sản phẩm /ˈprɒdʌkt/
+16. **wide range of goods** : phạm vi rộng các mặt hàng /waɪd reɪndʒ əv ɡʊdz/
+17. **bargain (n)** : món hời, giá hời /ˈbɑːɡɪn/
+18. **kind (n)** : loại /kaɪnd/
     **Bài 1 trang 84**  
 1. price tag   
 2. shopaholic   
@@ -248,24 +248,24 @@ B: I’m really sorry about that.
 
 **Vocabulary** 
 
-1. shopping center: trung tâm mua sắm /ˈʃɒpɪŋ ˌsentə/  
-2. customer: (n) khách hàng /ˈkʌstəmə/  
-3. choose from: lựa chọn từ /tʃuːz frɒm/  
-4. a wide range of products: một loạt các sản phẩm đa dạng /ə waɪd reɪndʒ ɒv ˈprɒdʌkts/  
-5. touch: (v) chạm vào, sờ vào /tʌtʃ/  
-6. decide: (v) quyết định /dɪˈsaɪd/  
-7. for many other reasons: vì nhiều lý do khác /fə ˈmeni ˈʌðə ˈriːznz/  
-8. year-round: (adj) suốt năm, quanh năm /jɪə raʊnd/  
-9. of all ages: thuộc mọi lứa tuổi /ɒv ɔːl eɪdʒɪz/  
-10. live music: (n) nhạc sống, nhạc trực tiếp /laɪv ˈmjuːzɪk/  
-11. holiday excitement: không khí lễ hội sôi động /ˈhɒlədeɪ ɪkˈsaɪtmənt/  
-12. hang out with friends: đi chơi với bạn bè /hæŋ aʊt wɪð frendz/  
-13. go browsing: đi dạo xem hàng /ɡəʊ ˈbraʊzɪŋ/  
-14. wander: (v) đi lang thang, đi dạo /ˈwɒndə/  
-15. get exercise: tập thể dục /ɡet ˈeksəsaɪz/  
-16. well-lit areas: khu vực được chiếu sáng tốt /wel lɪt ˈeəriəz/  
-17. heat: (n) nhiệt, sức nóng /hiːt/  
-18. air conditioning: (n) điều hòa không khí /eə kənˈdɪʃənɪŋ/
+1. **shopping center** : trung tâm mua sắm /ˈʃɒpɪŋ ˌsentə/
+2. **customer** : (n) khách hàng /ˈkʌstəmə/
+3. **choose from** : lựa chọn từ /tʃuːz frɒm/
+4. **a wide range of products** : một loạt các sản phẩm đa dạng /ə waɪd reɪndʒ ɒv ˈprɒdʌkts/
+5. **touch** : (v) chạm vào, sờ vào /tʌtʃ/
+6. **decide** : (v) quyết định /dɪˈsaɪd/
+7. **for many other reasons** : vì nhiều lý do khác /fə ˈmeni ˈʌðə ˈriːznz/
+8. **year-round** : (adj) suốt năm, quanh năm /jɪə raʊnd/
+9. **of all ages** : thuộc mọi lứa tuổi /ɒv ɔːl eɪdʒɪz/
+10. **live music** : (n) nhạc sống, nhạc trực tiếp /laɪv ˈmjuːzɪk/
+11. **holiday excitement** : không khí lễ hội sôi động /ˈhɒlədeɪ ɪkˈsaɪtmənt/
+12. **hang out with friends** : đi chơi với bạn bè /hæŋ aʊt wɪð frendz/
+13. **go browsing** : đi dạo xem hàng /ɡəʊ ˈbraʊzɪŋ/
+14. **wander** : (v) đi lang thang, đi dạo /ˈwɒndə/
+15. **get exercise** : tập thể dục /ɡet ˈeksəsaɪz/
+16. **well-lit areas** : khu vực được chiếu sáng tốt /wel lɪt ˈeəriəz/
+17. **heat** : (n) nhiệt, sức nóng /hiːt/
+18. **air conditioning** : (n) điều hòa không khí /eə kənˈdɪʃənɪŋ/
 
  Tại sao chúng ta đi tới các trung tâm mua sắm 
 
@@ -301,19 +301,19 @@ Tuy nhiên, người ta cũng đi tới trung tâm thương mại vì những l�
 
 **Listening**
 
-1. credit card: thẻ tín dụng /ˈkred.ɪt kɑːd/  
-2. seller's website: trang web của người bán /ˈsel.əz ˈweb.saɪt/  
-3. purchase: (v) mua /ˈpɜː.tʃəs/  
-4. even: (adv) thậm chí /ˈiː.vən/  
-5. save the trouble of: tránh khỏi rắc rối của việc... /seɪv ðə ˈtrʌb.l̩ ɒv/  
-6. advantage: (n) lợi thế, ưu điểm /əd.ˈvɑːn.tɪdʒ/  
-7. disadvantage: (n) bất lợi, nhược điểm /ˌdɪs.əd.ˈvɑːn.tɪdʒ/  
-8. shipping: (n) vận chuyển /ˈʃɪp.ɪŋ/  
-9. find it \+ adj \+ to V0: cảm thấy... để mà... /faɪnd ɪt ... tuː/  
-10. over-shopping: (n) mua sắm quá mức cần thiết /ˌəʊ.vəˈʃɒp.ɪŋ/  
-11. expect: (v) kì vọng, dự tính /ɪkˈspekt/  
-12. return: (v) trả lại /rɪˈtɜːn/  
-13. refund: (v) hoàn tiền; (n) khoản tiền hoàn lại /ˈriː.fʌnd/
+1. **credit card** : thẻ tín dụng /ˈkred.ɪt kɑːd/
+2. **seller's website** : trang web của người bán /ˈsel.əz ˈweb.saɪt/
+3. **purchase** : (v) mua /ˈpɜː.tʃəs/
+4. **even** : (adv) thậm chí /ˈiː.vən/
+5. **save the trouble of** : tránh khỏi rắc rối của việc... /seɪv ðə ˈtrʌb.l̩ ɒv/
+6. **advantage** : (n) lợi thế, ưu điểm /əd.ˈvɑːn.tɪdʒ/
+7. **disadvantage** : (n) bất lợi, nhược điểm /ˌdɪs.əd.ˈvɑːn.tɪdʒ/
+8. **shipping** : (n) vận chuyển /ˈʃɪp.ɪŋ/
+9. **find it \+ adj \+ to V0** : cảm thấy... để mà... /faɪnd ɪt ... tuː/
+10. **over-shopping** : (n) mua sắm quá mức cần thiết /ˌəʊ.vəˈʃɒp.ɪŋ/
+11. **expect** : (v) kì vọng, dự tính /ɪkˈspekt/
+12. **return** : (v) trả lại /rɪˈtɜːn/
+13. **refund** : (v) hoàn tiền; (n) khoản tiền hoàn lại /ˈriː.fʌnd/
 
 **Bài 2 trang 89** 
 

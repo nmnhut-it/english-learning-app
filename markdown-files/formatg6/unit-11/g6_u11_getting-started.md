@@ -3,24 +3,24 @@
 **GETTING STARTED**   
 **Vocabulary** 
 
-1. You've bought a lot of things: Bạn đã mua nhiều thứ /juːv bɔːt ə lɒt əv θɪŋz/   
-2. we're going on a picnic: chúng ta sẽ đi dã ngoại /wɪə ˈɡəʊɪŋ ɒn ə ˈpɪknɪk/  
-3. tomorrow: (n) ngày mai /təˈmɒrəʊ/  
-4. what are you doing at the supermarket: bạn đang làm gì ở siêu thị /wɒt ə juː ˈduːɪŋ ət ðə ˈsuːpəˌmɑːkɪt/  
-5. buy some eggs: mua một ít trứng /baɪ sʌm eɡz/  
-6. a reusable shopping bag: một túi mua sắm có thể tái sử dụng /ə ˌriːˈjuːzəbl ˈʃɒpɪŋ bæɡ/  
-7. better than: tốt hơn /ˈbetə ðæn/  
-8. plastic: (n) nhựa /ˈplæstɪk/  
-9. this kind of bag: loại túi này /ðɪs kaɪnd əv bæɡ/  
-10. help the environment: giúp môi trường /help ði ɪnˈvaɪrənmənt/  
-11. buy \- bought \- bought: (v) mua /baɪ \- bɔːt \- bɔːt/  
-12. at the check-out: tại quầy thanh toán /ət ðə ˈtʃek aʊt/  
-13. by the way: nhân tiện /baɪ ðə weɪ/  
-14. also: (adv) cũng /ˈɔːlsəʊ/  
-15. the air: không khí /ði eə/  
-16. already: (adv) đã rồi, đã xong /ɔːlˈredi/  
-17. have to \+ V0: phải \+ động từ nguyên thể /hæv tuː/  
-18. see you later: gặp lại bạn sau /siː juː ˈleɪtə/
+1. **You've bought a lot of things** : Bạn đã mua nhiều thứ /juːv bɔːt ə lɒt əv θɪŋz/
+2. **we're going on a picnic** : chúng ta sẽ đi dã ngoại /wɪə ˈɡəʊɪŋ ɒn ə ˈpɪknɪk/
+3. **tomorrow** : (n) ngày mai /təˈmɒrəʊ/
+4. **what are you doing at the supermarket** : bạn đang làm gì ở siêu thị /wɒt ə juː ˈduːɪŋ ət ðə ˈsuːpəˌmɑːkɪt/
+5. **buy some eggs** : mua một ít trứng /baɪ sʌm eɡz/
+6. **a reusable shopping bag** : một túi mua sắm có thể tái sử dụng /ə ˌriːˈjuːzəbl ˈʃɒpɪŋ bæɡ/
+7. **better than** : tốt hơn /ˈbetə ðæn/
+8. **plastic** : (n) nhựa /ˈplæstɪk/
+9. **this kind of bag** : loại túi này /ðɪs kaɪnd əv bæɡ/
+10. **help the environment** : giúp môi trường /help ði ɪnˈvaɪrənmənt/
+11. **buy \- bought \- bought** : (v) mua /baɪ \- bɔːt \- bɔːt/
+12. **at the check-out** : tại quầy thanh toán /ət ðə ˈtʃek aʊt/
+13. **by the way** : nhân tiện /baɪ ðə weɪ/
+14. **also** : (adv) cũng /ˈɔːlsəʊ/
+15. **the air** : không khí /ði eə/
+16. **already** : (adv) đã rồi, đã xong /ɔːlˈredi/
+17. **have to \+ V0** : phải \+ động từ nguyên thể /hæv tuː/
+18. **see you later** : gặp lại bạn sau /siː juː ˈleɪtə/
 
 Mi: Chào, Nick.  
 Nick: Chào Mi.  

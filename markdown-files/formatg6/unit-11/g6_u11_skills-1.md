@@ -4,20 +4,20 @@
 **Reading**   
 **Vocabulary** 
 
-1. make our school greener: làm cho trường của chúng ta xanh hơn /meɪk ˈaʊə skuːl ˈɡriːnə/  
-2. put recycling bins: (v) đặt thùng tái chế /pʊt riːˈsaɪklɪŋ bɪnz/  
-3. give them to charity: tặng chúng cho tổ chức từ thiện /ɡɪv ðem tə ˈtʃærəti/  
-4. throw them away: vứt bỏ chúng /θrəʊ ðem əˈweɪ/  
-5. anything else: bất cứ điều gì khác /ˈeniθɪŋ els/  
-6. borrow books from the library: mượn sách từ thư viện /ˈbɒrəʊ bʊks frəm ðə ˈlaɪbrəri/  
-7. instead of: (prep) thay vì /ɪnˈsted əv/  
-8. buy new one: mua cái mới /baɪ njuː wʌn/  
-9. save paper: tiết kiệm giấy /seɪv ˈpeɪpə/  
-10. tip: (n) lời khuyên, mẹo /tɪp/  
-11. want to add anything: muốn thêm điều gì không /wɒnt tu æd ˈeniθɪŋ/  
-12. find creative ways: tìm những cách sáng tạo /faɪnd kriˈeɪtɪv weɪz/  
-13. breeze: (n) gió nhẹ /briːz/  
-14. old items: đồ vật cũ /əʊld ˈaɪtəmz/  
+1. **make our school greener** : làm cho trường của chúng ta xanh hơn /meɪk ˈaʊə skuːl ˈɡriːnə/
+2. **put recycling bins** : (v) đặt thùng tái chế /pʊt riːˈsaɪklɪŋ bɪnz/
+3. **give them to charity** : tặng chúng cho tổ chức từ thiện /ɡɪv ðem tə ˈtʃærəti/
+4. **throw them away** : vứt bỏ chúng /θrəʊ ðem əˈweɪ/
+5. **anything else** : bất cứ điều gì khác /ˈeniθɪŋ els/
+6. **borrow books from the library** : mượn sách từ thư viện /ˈbɒrəʊ bʊks frəm ðə ˈlaɪbrəri/
+7. **instead of** : (prep) thay vì /ɪnˈsted əv/
+8. **buy new one** : mua cái mới /baɪ njuː wʌn/
+9. **save paper** : tiết kiệm giấy /seɪv ˈpeɪpə/
+10. **tip** : (n) lời khuyên, mẹo /tɪp/
+11. **want to add anything** : muốn thêm điều gì không /wɒnt tu æd ˈeniθɪŋ/
+12. **find creative ways** : tìm những cách sáng tạo /faɪnd kriˈeɪtɪv weɪz/
+13. **breeze** : (n) gió nhẹ /briːz/
+14. **old items** : đồ vật cũ /əʊld ˈaɪtəmz/
       
     Phóng viên: Bạn có thể chia sẻ với chúng tôi một số bí quyết để làm cho trường học của bạn xanh hơn?  
       
@@ -34,7 +34,7 @@
     Phóng viên: Cảm ơn những chia sẻ. Bạn có muốn thêm gì không?  
     Nam: Cuối cùng, chúng tôi thường tìm ra những cách sáng tạo để tái sử dụng những món đồ cũ trước khi vứt bỏ chúng.  
     **Bài 2 trang 54**    
-    1.e : thay vào vị trí của cái gì   
+1. **e** : thay vào vị trí của cái gì
     2\. d: cho những thứ gì đó cho người đang cần   
     3\. a: tặng cái gì đó cho ai đó để nhận lại cái gì đó từ anh ấy/cô ấy  
     4\. b: reusable: có thể sử dụng lại   

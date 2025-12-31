@@ -78,8 +78,8 @@ I have to do my homework: Tôi phải làm bài tập về nhà của tôi **(T�
 
 **Bài 5 trang 76** 
 
-1. He shouldn’t waste water: Anh ấy không nên lãng phí nước  
-2. They should wear the helmets: Họ nên mang nón bảo hiểm   
-3. She should be more careful: Cô ấy nên cẩn thận hơn   
-4. They shouldn’t play football on the pavement:Họ không nên chơi bóng đá trên vỉa hè   
+1. **He shouldn’t waste water** : Anh ấy không nên lãng phí nước
+2. **They should wear the helmets** : Họ nên mang nón bảo hiểm
+3. **She should be more careful** : Cô ấy nên cẩn thận hơn
+4. **They shouldn’t play football on the pavement** : Họ không nên chơi bóng đá trên vỉa hè
 5. They shouldn’t ride their bikes dangerously: Họ không nên đi xe đạp (của họ) một cách nguy hiểm

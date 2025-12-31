@@ -3,24 +3,24 @@
 **SKILLS 1**  
 **Vocabulary** 
 
-1. essential part: phần thiết yếu /ɪˈsenʃəl pɑːt/  
-2. ecology: (n) sinh thái học /ɪˈkɒlədʒi/  
-3. speak about \+ N: nói về /spiːk əˈbaʊt/  
-4. refer to: (v) đề cập đến, ám chỉ /rɪˈfɜː tuː/  
-5. fascinating: (adj) hấp dẫn, cuốn hút /ˈfæsɪneɪtɪŋ/  
-6. beauty: (n) vẻ đẹp /ˈbjuːti/  
-7. due to: (prep) do, vì /djuː tuː/  
-8. significance: (n) ý nghĩa, tầm quan trọng /sɪɡˈnɪfɪkəns/  
-9. create an ecological balance: tạo ra sự cân bằng sinh thái /kriˈeɪt ən ˌiːkəˈlɒdʒɪkəl ˈbæləns/  
-10. making life possible for humans: làm cho cuộc sống con người trở nên khả thi /ˈmeɪkɪŋ laɪf ˈpɒsəbl fə ˈhjuːmənz/  
-11. rely on \+ something for something: phụ thuộc vào cái gì đó cho một mục đích nào đó /rɪˈlaɪ ɒn/  
-12. combine: (v) kết hợp /kəmˈbaɪn/  
-13. create a food chain: tạo ra chuỗi thức ăn /kriˈeɪt ə fuːd tʃeɪn/  
-14. play an important part: đóng vai trò quan trọng /pleɪ ən ɪmˈpɔːtənt pɑːt/  
-15. feed on \+ N: ăn, nuôi sống bằng /fiːd ɒn/  
-16. droppings: (n) phân (của động vật) /ˈdrɒpɪŋz/  
-17. fertiliser: (n) phân bón /ˈfɜːtəlaɪzə/  
-18. appreciate: (v) đánh giá cao, cảm kích /əˈpriːʃieɪt/
+1. **essential part** : phần thiết yếu /ɪˈsenʃəl pɑːt/
+2. **ecology** : (n) sinh thái học /ɪˈkɒlədʒi/
+3. **speak about \+ N** : nói về /spiːk əˈbaʊt/
+4. **refer to** : (v) đề cập đến, ám chỉ /rɪˈfɜː tuː/
+5. **fascinating** : (adj) hấp dẫn, cuốn hút /ˈfæsɪneɪtɪŋ/
+6. **beauty** : (n) vẻ đẹp /ˈbjuːti/
+7. **due to** : (prep) do, vì /djuː tuː/
+8. **significance** : (n) ý nghĩa, tầm quan trọng /sɪɡˈnɪfɪkəns/
+9. **create an ecological balance** : tạo ra sự cân bằng sinh thái /kriˈeɪt ən ˌiːkəˈlɒdʒɪkəl ˈbæləns/
+10. **making life possible for humans** : làm cho cuộc sống con người trở nên khả thi /ˈmeɪkɪŋ laɪf ˈpɒsəbl fə ˈhjuːmənz/
+11. **rely on \+ something for something** : phụ thuộc vào cái gì đó cho một mục đích nào đó /rɪˈlaɪ ɒn/
+12. **combine** : (v) kết hợp /kəmˈbaɪn/
+13. **create a food chain** : tạo ra chuỗi thức ăn /kriˈeɪt ə fuːd tʃeɪn/
+14. **play an important part** : đóng vai trò quan trọng /pleɪ ən ɪmˈpɔːtənt pɑːt/
+15. **feed on \+ N** : ăn, nuôi sống bằng /fiːd ɒn/
+16. **droppings** : (n) phân (của động vật) /ˈdrɒpɪŋz/
+17. **fertiliser** : (n) phân bón /ˈfɜːtəlaɪzə/
+18. **appreciate** : (v) đánh giá cao, cảm kích /əˈpriːʃieɪt/
 
 Thực vật và động vật là một phần thiết yếu trong hệ sinh thái Trái đất. Khi chúng ta nói về một môi trường sống và thời điểm cụ thể, chúng ta gọi chúng là hệ thực vật và hệ động vật. Flora chỉ thực vật và Fauna chỉ động vật. Chúng rất thú vị để nghiên cứu vì vẻ đẹp và tầm quan trọng của chúng đối với cuộc sống con người.
 
@@ -49,9 +49,9 @@ Tuy nhiên, thực vật và động vật đang đối mặt với mất môi t
 **Bài 4 trang 110**   
 **Vocabulary**
 
-1. threat: mối nguy hại, mối đe dọa   
-2. threaten: (v) đe dọa   
-3. kidnap: bắt cóc 
+1. **threat** : mối nguy hại, mối đe dọa
+2. **threaten** : (v) đe dọa
+3. **kidnap** : bắt cóc
 
 pollution → limit waste production/do not dump waste to the environment/treat wastewater before dumping into river
 
@@ -68,11 +68,11 @@ We can help by making safe places like nature parks for them to live. We should 
 **Listening**   
 **Vocabulary** 
 
-1. beaver: hải li /bí vờ/   
-2. dam: đập /dam/   
-3. specific: cụ thể   
-4. cause harm: gây hại   
-5. flood: (v) nhấn chìm 
+1. **beaver** : hải li /bí vờ/
+2. **dam** : đập /dam/
+3. **specific** : cụ thể
+4. **cause harm** : gây hại
+5. **flood** : (v) nhấn chìm
 
 **Bài 2 trang 111** 
 

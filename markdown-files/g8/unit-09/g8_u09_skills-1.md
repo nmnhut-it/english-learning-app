@@ -4,22 +4,22 @@
 
 **Vocabulary**  
 
-1. erupt: (v) phun trào, bùng nổ /ɪˈrʌpt/  
-2. suddenly: (adv) đột ngột, bất ngờ /ˈsʌdənli/  
-3. island country: quốc gia đảo /ˈaɪlənd ˈkʌntri/  
-4. a cloud of ash and gas: đám mây tro bụi và khí /ə klaʊd əv æʃ ænd ɡæs/  
-5. tsunami: (n) sóng thần /tsuːˈnɑːmi/  
-6. properties: (n) tài sản, bất động sản /ˈprɒpətiz/  
-7. besides:(prep) ngoài ra, bên cạnh, (adv) hơn nữa, ngoài ra /bɪˈsaɪdz/  
-8. victim: (n) nạn nhân /ˈvɪktɪm/  
-9. resident: (n) cư dân, người dân /ˈrezɪdənt/  
-10. president: (n) tổng thống, chủ tịch /ˈprezɪdənt/  
-11. building: (n) tòa nhà, công trình /ˈbɪldɪŋ/  
-12. frightened: (adj) sợ hãi, hoảng sợ /ˈfraɪtnd/  
-13. tremble: (v) run rẩy, rung động /ˈtrembl/  
-14. in fear: trong sợ hãi /ɪn fɪə/  
-15. according to: (prep) theo như /əˈkɔːdɪŋ tuː/  
-16. cause: (v) gây ra, làm cho /kɔːz/
+1. **erupt** : (v) phun trào, bùng nổ /ɪˈrʌpt/
+2. **suddenly** : (adv) đột ngột, bất ngờ /ˈsʌdənli/
+3. **island country** : quốc gia đảo /ˈaɪlənd ˈkʌntri/
+4. **a cloud of ash and gas** : đám mây tro bụi và khí /ə klaʊd əv æʃ ænd ɡæs/
+5. **tsunami** : (n) sóng thần /tsuːˈnɑːmi/
+6. **properties** : (n) tài sản, bất động sản /ˈprɒpətiz/
+7. **besides** : (prep) ngoài ra, bên cạnh, (adv) hơn nữa, ngoài ra /bɪˈsaɪdz/
+8. **victim** : (n) nạn nhân /ˈvɪktɪm/
+9. **resident** : (n) cư dân, người dân /ˈrezɪdənt/
+10. **president** : (n) tổng thống, chủ tịch /ˈprezɪdənt/
+11. **building** : (n) tòa nhà, công trình /ˈbɪldɪŋ/
+12. **frightened** : (adj) sợ hãi, hoảng sợ /ˈfraɪtnd/
+13. **tremble** : (v) run rẩy, rung động /ˈtrembl/
+14. **in fear** : trong sợ hãi /ɪn fɪə/
+15. **according to** : (prep) theo như /əˈkɔːdɪŋ tuː/
+16. **cause** : (v) gây ra, làm cho /kɔːz/
 
 Một ngọn núi lửa ở Nam Thái Bình Dương đã phun trào dữ dội vào thứ Bảy tuần trước. Nó đã ảnh hưởng đến Tonga, một quốc gia đảo trong khu vực. Vụ phun trào đã tạo ra một đám mây tro bụi và khí gas bay lên không trung. Người ta có thể nhìn thấy đám mây này từ khoảng cách 20 km. Vụ phun trào cũng gây ra một cơn sóng thần làm ngập lụt nhiều công trình ở thủ đô của Tonga. Ngoài ra, nó còn phá hủy hàng trăm ngôi nhà trên một số đảo nhỏ. Hơn hai mươi người trên các đảo này vẫn đang mất tích. New Zealand đã gửi hai tàu lớn đến Tonga để giúp đỡ các nạn nhân vào ngày hôm qua.
 

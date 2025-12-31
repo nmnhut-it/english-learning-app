@@ -40,142 +40,142 @@ Waiter: That's right. I'll be right back with your order.
 <summary>📝 Word-by-Word Analysis</summary>
 
 ```
-1. Waiter: (n) người phục vụ /ˈweɪ.tər/
-2. Good: (adj) tốt /ɡʊd/
-3. evening: (n) buổi tối /ˈiːvnɪŋ/
-4. What: (pron) gì /wɒt/
-5. can: (v) có thể /kæn/
-6. I: (pron) tôi /aɪ/
-7. get: (v) lấy /ɡet/
-8. you: (pron) bạn /juː/
-9. today: (adv) hôm nay /təˈdeɪ/
-10. We'd: (contraction) chúng tôi muốn /wiːd/
-11. like: (v) thích /laɪk/
-12. rice: (n) cơm /raɪs/
-13. with: (prep) với /wɪð/
-14. some: (det) một ít /sʌm/
-15. pork: (n) thịt lợn /pɔːk/
-16. cooked: (v) nấu /kʊkt/
-17. in: (prep) trong /ɪn/
-18. fish: (n) cá /fɪʃ/
-19. sauce: (n) nước sốt /sɔːs/
-20. Oh: (interj) ôi /əʊ/
-21. could: (v) có thể /kʊd/
-22. we: (pron) chúng ta /wiː/
-23. also: (adv) cũng /ˈɔːl.səʊ/
-24. have: (v) có /hæv/
-25. an: (det) một /ən/
-26. order: (n) đơn hàng /ˈɔː.dər/
-27. of: (prep) của /ɒv/
-28. roast: (v) quay /rəʊst/
-29. chicken: (n) gà /ˈtʃɪkɪn/
-30. and: (conj) và /ænd/
-31. fried: (adj) chiên /fraɪd/
-32. vegetables: (n) rau /ˈvedʒtəbəlz/
-33. And: (conj) và /ænd/
-34. I'd: (contraction) tôi muốn /aɪd/
-35. some: (det) một ít /sʌm/
-36. tofu: (n) đậu phụ /ˈtəʊfuː/
-37. spring: (n) mùa xuân /sprɪŋ/
-38. rolls: (n) chả giò /rəʊlz/
-39. too: (adv) cũng /tuː/
-40. OK: (interj) được /ˌəʊˈkeɪ/
-41. Would: (aux) sẽ /wʊd/
-42. you: (pron) bạn /juː/
-43. any: (det) bất kỳ /ˈeni/
-44. canh chua: (n) canh chua /kæntʃuːə/
-45. It's: (contraction) nó là /ɪts/
-46. a: (det) một /ə/
-47. kind: (n) loại /kaɪnd/
-48. of: (prep) của /ɒv/
-49. Vietnamese: (adj) Việt Nam /ˌvjet.nəˈmiːz/
-50. soup: (n) súp /suːp/
-51. We: (pron) chúng ta /wiː/
-52. often: (adv) thường xuyên /ˈɒf.ən/
-53. have: (v) có /hæv/
-54. it: (pron) nó /ɪt/
-55. with: (prep) với /wɪð/
-56. rice: (n) cơm /raɪs/
-57. dad: (n) bố /dæd/
-58. Let: (v) để /let/
-59. me: (pron) tôi /miː/
-60. see: (v) xem /siː/
-61. I: (pron) tôi /aɪ/
-62. think: (v) nghĩ /θɪŋk/
-63. we'll: (contraction) chúng ta sẽ /wiːl/
-64. try: (v) thử /traɪ/
-65. some: (det) một ít /sʌm/
-66. With: (prep) với /wɪð/
-67. shrimp: (n) tôm /ʃrɪmp/
-68. or: (conj) hoặc /ɔːr/
-69. fish: (n) cá /fɪʃ/
-70. please: (adv) làm ơn /pliːz/
-71. anything: (pron) bất cứ thứ gì /ˈen.i.θɪŋ/
-72. to: (prep) đến /tuː/
-73. drink: (v) uống /drɪŋk/
-74. We: (pron) chúng ta /wiː/
-75. have: (v) có /hæv/
-76. a: (det) một /ə/
-77. lot: (n) nhiều /lɒt/
-78. of: (prep) của /ɒv/
-79. drinks: (n) đồ uống /drɪŋks/
-80. juice: (n) nước ép /dʒuːs/
-81. lemonade: (n) nước chanh /ˌlem.əˈneɪd/
-82. green: (adj) xanh lá cây /ɡriːn/
-83. tea: (n) trà /tiː/
-84. mineral: (adj) khoáng chất /ˈmɪn.ər.əl/
-85. water: (n) nước /ˈwɔː.tər/
-86. for: (prep) cho /fɔːr/
-87. me: (pron) tôi /miː/
-88. my: (det) của tôi /maɪ/
-89. husband: (n) chồng /ˈhʌzbənd/
-90. and: (conj) và /ænd/
-91. children: (n) trẻ em /ˈtʃɪldrən/
-92. What: (pron) gì /wɒt/
-93. kind: (n) loại /kaɪnd/
-94. of: (prep) của /ɒv/
-95. would: (aux) sẽ /wʊd/
-96. like: (v) thích /laɪk/
-97. sister: (n) chị /sɪstər/
-98. Do: (aux) có /duː/
-99. you: (pron) bạn /juː/
-100. have: (v) có /hæv/
-101. winter: (n) mùa đông /ˈwɪntər/
-102. melon: (n) dưa /ˈmelən/
-103. juice: (n) nước ép /dʒuːs/
-104. Er: (interj) ừ /ɜːr/
-105. yes: (adv) vâng /jes/
-106. How: (adv) như thế nào /haʊ/
-107. many: (det) nhiều /ˈmeni/
-108. cans: (n) lon /kænz/
-109. One: (num) một /wʌn/
-110. No: (adv) không /nəʊ/
-111. wait: (v) đợi /weɪt/
-112. two: (num) hai /tuː/
-113. please: (adv) làm ơn /pliːz/
-114. By: (prep) bởi /baɪ/
-115. the: (det) /ðə/
-116. way: (n) đường /weɪ/
-117. much: (adv) nhiều /mʌtʃ/
-118. is: (v) là /ɪz/
-119. a: (det) một /ə/
-120. can: (n) lon /kæn/
-121. of: (prep) của /ɒv/
-122. winter: (n) mùa đông /ˈwɪntər/
-123. melon: (n) dưa /ˈmelən/
-124. juice: (n) nước ép /dʒuːs/
-125. menu: (n) thực đơn /ˈmenjuː/
-126. says: (v) nói /sez/
-127. it's: (contraction) nó là /ɪts/
-128. dong: (n) đồng /dɒŋ/
-129. That's: (contraction) đó là /ðæts/
-130. right: (adj) đúng /raɪt/
-131. I'll: (contraction) tôi sẽ /aɪl/
-132. be: (v) thì /biː/
-133. back: (adv) trở lại /bæk/
-134. with: (prep) với /wɪð/
-135. your: (det) của bạn /jɔːr/
-136. order: (n) đơn hàng /ˈɔː.dər/
+1. **Waiter** : (n) người phục vụ /ˈweɪ.tər/
+2. **Good** : (adj) tốt /ɡʊd/
+3. **evening** : (n) buổi tối /ˈiːvnɪŋ/
+4. **What** : (pron) gì /wɒt/
+5. **can** : (v) có thể /kæn/
+6. **I** : (pron) tôi /aɪ/
+7. **get** : (v) lấy /ɡet/
+8. **you** : (pron) bạn /juː/
+9. **today** : (adv) hôm nay /təˈdeɪ/
+10. **We'd** : (contraction) chúng tôi muốn /wiːd/
+11. **like** : (v) thích /laɪk/
+12. **rice** : (n) cơm /raɪs/
+13. **with** : (prep) với /wɪð/
+14. **some** : (det) một ít /sʌm/
+15. **pork** : (n) thịt lợn /pɔːk/
+16. **cooked** : (v) nấu /kʊkt/
+17. **in** : (prep) trong /ɪn/
+18. **fish** : (n) cá /fɪʃ/
+19. **sauce** : (n) nước sốt /sɔːs/
+20. **Oh** : (interj) ôi /əʊ/
+21. **could** : (v) có thể /kʊd/
+22. **we** : (pron) chúng ta /wiː/
+23. **also** : (adv) cũng /ˈɔːl.səʊ/
+24. **have** : (v) có /hæv/
+25. **an** : (det) một /ən/
+26. **order** : (n) đơn hàng /ˈɔː.dər/
+27. **of** : (prep) của /ɒv/
+28. **roast** : (v) quay /rəʊst/
+29. **chicken** : (n) gà /ˈtʃɪkɪn/
+30. **and** : (conj) và /ænd/
+31. **fried** : (adj) chiên /fraɪd/
+32. **vegetables** : (n) rau /ˈvedʒtəbəlz/
+33. **And** : (conj) và /ænd/
+34. **I'd** : (contraction) tôi muốn /aɪd/
+35. **some** : (det) một ít /sʌm/
+36. **tofu** : (n) đậu phụ /ˈtəʊfuː/
+37. **spring** : (n) mùa xuân /sprɪŋ/
+38. **rolls** : (n) chả giò /rəʊlz/
+39. **too** : (adv) cũng /tuː/
+40. **OK** : (interj) được /ˌəʊˈkeɪ/
+41. **Would** : (aux) sẽ /wʊd/
+42. **you** : (pron) bạn /juː/
+43. **any** : (det) bất kỳ /ˈeni/
+44. **canh chua** : (n) canh chua /kæntʃuːə/
+45. **It's** : (contraction) nó là /ɪts/
+46. **a** : (det) một /ə/
+47. **kind** : (n) loại /kaɪnd/
+48. **of** : (prep) của /ɒv/
+49. **Vietnamese** : (adj) Việt Nam /ˌvjet.nəˈmiːz/
+50. **soup** : (n) súp /suːp/
+51. **We** : (pron) chúng ta /wiː/
+52. **often** : (adv) thường xuyên /ˈɒf.ən/
+53. **have** : (v) có /hæv/
+54. **it** : (pron) nó /ɪt/
+55. **with** : (prep) với /wɪð/
+56. **rice** : (n) cơm /raɪs/
+57. **dad** : (n) bố /dæd/
+58. **Let** : (v) để /let/
+59. **me** : (pron) tôi /miː/
+60. **see** : (v) xem /siː/
+61. **I** : (pron) tôi /aɪ/
+62. **think** : (v) nghĩ /θɪŋk/
+63. **we'll** : (contraction) chúng ta sẽ /wiːl/
+64. **try** : (v) thử /traɪ/
+65. **some** : (det) một ít /sʌm/
+66. **With** : (prep) với /wɪð/
+67. **shrimp** : (n) tôm /ʃrɪmp/
+68. **or** : (conj) hoặc /ɔːr/
+69. **fish** : (n) cá /fɪʃ/
+70. **please** : (adv) làm ơn /pliːz/
+71. **anything** : (pron) bất cứ thứ gì /ˈen.i.θɪŋ/
+72. **to** : (prep) đến /tuː/
+73. **drink** : (v) uống /drɪŋk/
+74. **We** : (pron) chúng ta /wiː/
+75. **have** : (v) có /hæv/
+76. **a** : (det) một /ə/
+77. **lot** : (n) nhiều /lɒt/
+78. **of** : (prep) của /ɒv/
+79. **drinks** : (n) đồ uống /drɪŋks/
+80. **juice** : (n) nước ép /dʒuːs/
+81. **lemonade** : (n) nước chanh /ˌlem.əˈneɪd/
+82. **green** : (adj) xanh lá cây /ɡriːn/
+83. **tea** : (n) trà /tiː/
+84. **mineral** : (adj) khoáng chất /ˈmɪn.ər.əl/
+85. **water** : (n) nước /ˈwɔː.tər/
+86. **for** : (prep) cho /fɔːr/
+87. **me** : (pron) tôi /miː/
+88. **my** : (det) của tôi /maɪ/
+89. **husband** : (n) chồng /ˈhʌzbənd/
+90. **and** : (conj) và /ænd/
+91. **children** : (n) trẻ em /ˈtʃɪldrən/
+92. **What** : (pron) gì /wɒt/
+93. **kind** : (n) loại /kaɪnd/
+94. **of** : (prep) của /ɒv/
+95. **would** : (aux) sẽ /wʊd/
+96. **like** : (v) thích /laɪk/
+97. **sister** : (n) chị /sɪstər/
+98. **Do** : (aux) có /duː/
+99. **you** : (pron) bạn /juː/
+100. **have** : (v) có /hæv/
+101. **winter** : (n) mùa đông /ˈwɪntər/
+102. **melon** : (n) dưa /ˈmelən/
+103. **juice** : (n) nước ép /dʒuːs/
+104. **Er** : (interj) ừ /ɜːr/
+105. **yes** : (adv) vâng /jes/
+106. **How** : (adv) như thế nào /haʊ/
+107. **many** : (det) nhiều /ˈmeni/
+108. **cans** : (n) lon /kænz/
+109. **One** : (num) một /wʌn/
+110. **No** : (adv) không /nəʊ/
+111. **wait** : (v) đợi /weɪt/
+112. **two** : (num) hai /tuː/
+113. **please** : (adv) làm ơn /pliːz/
+114. **By** : (prep) bởi /baɪ/
+115. **the** : (det) /ðə/
+116. **way** : (n) đường /weɪ/
+117. **much** : (adv) nhiều /mʌtʃ/
+118. **is** : (v) là /ɪz/
+119. **a** : (det) một /ə/
+120. **can** : (n) lon /kæn/
+121. **of** : (prep) của /ɒv/
+122. **winter** : (n) mùa đông /ˈwɪntər/
+123. **melon** : (n) dưa /ˈmelən/
+124. **juice** : (n) nước ép /dʒuːs/
+125. **menu** : (n) thực đơn /ˈmenjuː/
+126. **says** : (v) nói /sez/
+127. **it's** : (contraction) nó là /ɪts/
+128. **dong** : (n) đồng /dɒŋ/
+129. **That's** : (contraction) đó là /ðæts/
+130. **right** : (adj) đúng /raɪt/
+131. **I'll** : (contraction) tôi sẽ /aɪl/
+132. **be** : (v) thì /biː/
+133. **back** : (adv) trở lại /bæk/
+134. **with** : (prep) với /wɪð/
+135. **your** : (det) của bạn /jɔːr/
+136. **order** : (n) đơn hàng /ˈɔː.dər/
 ```
 
 </details>

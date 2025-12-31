@@ -6,19 +6,19 @@
 
 **Vocabulary** 
 
-1. one of the \+ plural noun: một trong những /wʌn əv ðə/  
-2. on the bank of: bên bờ /ɒn ðə bæŋk əv/  
-3. used to \+ V0: đã từng /juːst tuː/  
-4. rich: (adj) giàu có, phong phú /rɪtʃ/  
-5. royal: (adj) thuộc hoàng gia, hoàng tộc /ˈrɔɪəl/  
-6. well-known: (adj) nổi tiếng, được biết đến rộng rãi /ˌwel ˈnəʊn/  
-7. gifted student: học sinh có năng khiếu /ˈɡɪftɪd ˈstjuːdənt/  
-8. such as: (conj) chẳng hạn như, ví dụ như /sʌtʃ æz/  
-9. pass an entrance exam: thi đỗ kỳ thi tuyển sinh /pɑːs ən ˈentrəns ɪɡˈzæm/  
-10. intelligent: (adj) thông minh, sáng dạ /ɪnˈtelɪdʒənt/  
-11. projector: (n) máy chiếu /prəˈdʒektə/  
-12. lab: (n) phòng thí nghiệm /læb/  
-13. facilities: (n) cơ sở vật chất, trang thiết bị /fəˈsɪlətiz/
+1. **one of the \+ plural noun** : một trong những /wʌn əv ðə/
+2. **on the bank of** : bên bờ /ɒn ðə bæŋk əv/
+3. **used to \+ V0** : đã từng /juːst tuː/
+4. **rich** : (adj) giàu có, phong phú /rɪtʃ/
+5. **royal** : (adj) thuộc hoàng gia, hoàng tộc /ˈrɔɪəl/
+6. **well-known** : (adj) nổi tiếng, được biết đến rộng rãi /ˌwel ˈnəʊn/
+7. **gifted student** : học sinh có năng khiếu /ˈɡɪftɪd ˈstjuːdənt/
+8. **such as** : (conj) chẳng hạn như, ví dụ như /sʌtʃ æz/
+9. **pass an entrance exam** : thi đỗ kỳ thi tuyển sinh /pɑːs ən ˈentrəns ɪɡˈzæm/
+10. **intelligent** : (adj) thông minh, sáng dạ /ɪnˈtelɪdʒənt/
+11. **projector** : (n) máy chiếu /prəˈdʒektə/
+12. **lab** : (n) phòng thí nghiệm /læb/
+13. **facilities** : (n) cơ sở vật chất, trang thiết bị /fəˈsɪlətiz/
 
 Trường Quốc Học \- Huế là một trong những ngôi trường lâu đời nhất ở Việt Nam. Trường nằm trên bờ sông Hương, tại Huế. Nó được thành lập vào năm 1896\. Nó đã từng là ngôi trường dành cho con em các gia đình giàu có và hoàng tộc. Những người nổi tiếng như Hồ Chí Minh, Võ Nguyên Giáp, Xuân Diệu đã từng học tại đó. 
 

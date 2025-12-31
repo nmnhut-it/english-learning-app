@@ -44,7 +44,7 @@
 #### ✍️ Bài 2: Choose the correct answer A, B, C, or D to complete each sentence
 (Chọn đáp án đúng A, B, C hoặc D để hoàn thành mỗi câu)
 
-1. It's necessary to decide which we should _______ priority to: work or study.
+1. **It's necessary to decide which we should _______ priority to** : work or study.
    A. make
    B. give
    C. bring
@@ -75,14 +75,14 @@
    D. artisan
 
 **Answers:**
-1. B - give priority to: ưu tiên
-2. A - concrete jungle: khu rừng bê tông
-3. C - accomplished their goal: hoàn thành mục tiêu
-4. B - sense of community: ý thức cộng đồng
-5. D - artisan: nghệ nhân
+1. **B - give priority to** : ưu tiên
+2. **A - concrete jungle** : khu rừng bê tông
+3. **C - accomplished their goal** : hoàn thành mục tiêu
+4. **B - sense of community** : ý thức cộng đồng
+5. **D - artisan** : nghệ nhân
 
 **Vietnamese translations:**
-1. Cần phải quyết định xem chúng ta nên ưu tiên điều gì: công việc hay học tập.
+1. **Cần phải quyết định xem chúng ta nên ưu tiên điều gì** : công việc hay học tập.
 2. Tôi không thích sống ở khu vực này vì nó giống như một khu rừng bê tông với toàn những tòa nhà cao tầng.
 3. Họ vui mừng vì con cái đã hoàn thành mục tiêu vào được một trường đại học nổi tiếng.
 4. Có ý thức cộng đồng trong khu phố của chúng tôi; chúng tôi quan tâm và giúp đỡ lẫn nhau.
@@ -147,9 +147,9 @@
    D. can
 
 **Answers:**
-1. B - cut down on: cắt giảm
-2. C - look around: nhìn xung quanh
-3. D - câu so sánh kép: The + comparative + S + V, the + comparative + S + V
+1. **B - cut down on** : cắt giảm
+2. **C - look around** : nhìn xung quanh
+3. **D - câu so sánh kép** : The + comparative + S + V, the + comparative + S + V
 4. A - bigger (so sánh hơn của big), less secure (so sánh kém của secure)
 5. B - should: nên (diễn tả lời khuyên)
 

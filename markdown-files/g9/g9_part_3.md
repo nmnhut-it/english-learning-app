@@ -391,8 +391,8 @@ Bây giờ có nhiều cửa hàng cá và khoai tây chiên ở nhiều quốc 
 **Bài 4 trang 46**   
 **Vocabulary**
 
-1. glutinous: giàu glu-ten   
-2. originate: bắt nguồn từ 
+1. **glutinous** : giàu glu-ten
+2. **originate** : bắt nguồn từ
 
 1. c  
 2. e  

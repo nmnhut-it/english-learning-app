@@ -234,10 +234,10 @@ Use the words to write sentences about arranged plans.
 3. A: __________ you __________ (come) to my party next Saturday?
    B: Of course! What time __________ it __________ (start)?
 
-4. A: I'm hungry.
+4. **A** : I'm hungry.
    B: I __________ (make) you a sandwich.
 
-5. A: We don't have any milk.
+5. **A** : We don't have any milk.
    B: Don't worry. I __________ (buy) some when I go to the shop.
 
 6. A: What __________ Sarah __________ (do) this evening?

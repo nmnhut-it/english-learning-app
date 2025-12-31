@@ -3,24 +3,24 @@
 **GETTING STARTED**   
 **Vocabulary** 
 
-1. have a video conference: có cuộc họp video /hæv ə ˈvɪdiəʊ ˈkɒnfərəns/  
-2. technology club: câu lạc bộ công nghệ /tekˈnɒlədʒi klʌb/  
-3. exactly: (adv) chính xác, đúng vậy /ɪɡˈzæktli/  
-4. a bit worried: hơi lo lắng /ə bɪt ˈwʌrid/  
-5. You're kidding: Bạn đùa đấy à /jɔː ˈkɪdɪŋ/  
-6. do a practice call: thực hiện cuộc gọi thử /duː ə ˈpræktɪs kɔːl/  
-7. It's a piece of cake: Điều đó rất dễ dàng /ɪts ə piːs əv keɪk/  
-8. tablet: (n) máy tính bảng /ˈtæblət/  
-9. focus on: (v) tập trung vào /ˈfəʊkəs ɒn/  
-10. forehead: (n) trán /ˈfɔːhed/  
-11. adjust: (v) điều chỉnh /əˈdʒʌst/  
-12. button: (n) nút /ˈbʌtn/  
-13. zoom in: phóng to /zuːm ɪn/  
-14. zoom out: thu nhỏ /zuːm aʊt/  
-15. clearly: (adv) rõ ràng /ˈklɪəli/  
-16. of course: dĩ nhiên, tất nhiên /əv kɔːs/  
-17. go smoothly: diễn ra suôn sẻ /ɡəʊ ˈsmuːðli/  
-18. high-speed Internet connection: kết nối Internet tốc độ cao /haɪ spiːd ˈɪntənet kəˈnekʃən/
+1. **have a video conference** : có cuộc họp video /hæv ə ˈvɪdiəʊ ˈkɒnfərəns/
+2. **technology club** : câu lạc bộ công nghệ /tekˈnɒlədʒi klʌb/
+3. **exactly** : (adv) chính xác, đúng vậy /ɪɡˈzæktli/
+4. **a bit worried** : hơi lo lắng /ə bɪt ˈwʌrid/
+5. **You're kidding** : Bạn đùa đấy à /jɔː ˈkɪdɪŋ/
+6. **do a practice call** : thực hiện cuộc gọi thử /duː ə ˈpræktɪs kɔːl/
+7. **It's a piece of cake** : Điều đó rất dễ dàng /ɪts ə piːs əv keɪk/
+8. **tablet** : (n) máy tính bảng /ˈtæblət/
+9. **focus on** : (v) tập trung vào /ˈfəʊkəs ɒn/
+10. **forehead** : (n) trán /ˈfɔːhed/
+11. **adjust** : (v) điều chỉnh /əˈdʒʌst/
+12. **button** : (n) nút /ˈbʌtn/
+13. **zoom in** : phóng to /zuːm ɪn/
+14. **zoom out** : thu nhỏ /zuːm aʊt/
+15. **clearly** : (adv) rõ ràng /ˈklɪəli/
+16. **of course** : dĩ nhiên, tất nhiên /əv kɔːs/
+17. **go smoothly** : diễn ra suôn sẻ /ɡəʊ ˈsmuːðli/
+18. **high-speed Internet connection** : kết nối Internet tốc độ cao /haɪ spiːd ˈɪntənet kəˈnekʃən/
 
 **Trang**: Mark, chúng ta đang có một cuộc họp video với Tech Savvy thứ năm tới, nhưng … 
 
@@ -72,8 +72,8 @@
 
 **Bài 5 trang 105** 
 
-1. carrier pigeon: (n) con bồ câu đưa thư /khé ri ơ phít chần/   
-2. telephone: (n) điện thoại /thé lơ phôn/   
-3. mobile phone: điện thoại di động /mố bai (ồ) phôn/   
-4. social network: mạng xã hội /xố sồ nét quợt.k /    
+1. **carrier pigeon** : (n) con bồ câu đưa thư /khé ri ơ phít chần/
+2. **telephone** : (n) điện thoại /thé lơ phôn/
+3. **mobile phone** : điện thoại di động /mố bai (ồ) phôn/
+4. **social network** : mạng xã hội /xố sồ nét quợt.k /
 

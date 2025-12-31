@@ -22,203 +22,203 @@ That was the first time I travelled without my parents, so I felt like I grew up
 <summary>📝 Word-by-Word Analysis</summary>
 
 ```
-1. had: (v) đã có /hæd/
-2. hard: (adj) khó khăn /hɑːrd/
-3. 10-day: (adj) 10 ngày /ˈten deɪ/
-4. course: (n) khóa học /kɔːrs/
-5. in: (prep) trong /ɪn/
-6. an: (det) một /æn/
-7. army: (n) quân đội /ˈɑːrmi/
-8. camp: (n) trại /kæmp/
-9. in: (prep) ở /ɪn/
-10. Son Tay: (n) Sơn Tây /sɒn teɪ/
-11. last: (adj) vừa qua /læst/
-12. summer: (n) mùa hè /ˈsʌmər/
-13. Everything: (pron) Mọi thứ /ˈevriθɪŋ/
-14. was: (v) đã là /wɒz/
-15. different: (adj) khác biệt /ˈdɪfərənt/
-16. from: (prep) từ /frɒm/
-17. my: (det) của tôi /maɪ/
-18. life: (n) cuộc sống /laɪf/
-19. at: (prep) ở /æt/
-20. home: (n) nhà /həʊm/
-21. We: (pron) Chúng tôi /wiː/
-22. had: (v) phải /hæd/
-23. to: (prep) để /tuː/
-24. wake: (v) thức dậy /weɪk/
-25. up: (adv) dậy /ʌp/
-26. at: (prep) lúc /æt/
-27. 5 a.m: (n) 5 giờ sáng /faɪv eɪ em/
-28. and: (conj) và /ænd/
-29. attended: (v) tham gia /əˈtendɪd/
-30. classes: (n) các lớp học /ˈklæsɪz/
-31. which: (pron) mà /wɪtʃ/
-32. were: (v) đã là /wɜːr/
-33. like: (prep) như /laɪk/
-34. training: (n) huấn luyện /ˈtreɪnɪŋ/
-35. courses: (n) các khóa học /ˈkɔːrsɪz/
-36. for: (prep) cho /fɔːr/
-37. soldiers: (n) lính /ˈsəʊldʒərz/
-38. In: (prep) Vào /ɪn/
-39. the: (det) /ðə/
-40. evening: (n) buổi tối /ˈiːvnɪŋ/
-41. we: (pron) chúng tôi /wiː/
-42. read: (v) đọc /riːd/
-43. books: (n) sách /bʊks/
-44. or: (conj) hoặc /ɔːr/
-45. worked: (v) làm việc /wɜːrkt/
-46. in: (prep) trong /ɪn/
-47. teams: (n) các đội /tiːmz/
-48. The: (det) /ðə/
-49. team: (n) đội /tiːm/
-50. leaders: (n) người lãnh đạo /ˈliːdərz/
-51. walked: (v) hướng dẫn /wɔːkt/
-52. us: (pron) chúng tôi /ʌs/
-53. through: (prep) qua /θruː/
-54. many: (det) nhiều /ˈmeni/
-55. exciting: (adj) thú vị /ɪkˈsaɪtɪŋ/
-56. activities: (n) các hoạt động /ækˈtɪvətiz/
-57. We: (pron) Chúng tôi /wiː/
-58. also: (adv) cũng /ˈɔːlsəʊ/
-59. joined: (v) tham gia /dʒɔɪnd/
-60. a: (det) một /ə/
-61. performance: (n) buổi biểu diễn /pəˈfɔːməns/
-62. that: (rel pron) mà /ðæt/
-63. had: (v) có /hæd/
-64. the: (det) /ðə/
-65. theme: (n) chủ đề /θiːm/
-66. environment: (n) môi trường /ɪnˈvaɪrənmənt/
-67. protection: (n) bảo vệ /prəˈtekʃn/
-68. We: (pron) Chúng tôi /wiː/
-69. could: (v) có thể /kʊd/
-70. only: (adv) chỉ /ˈəʊnli/
-71. call: (v) gọi /kɔːl/
-72. our: (det) của chúng tôi /ˈaʊər/
-73. parents: (n) bố mẹ /ˈpeərənts/
-74. once: (adv) một lần /wʌns/
-75. a: (det) một /ə/
-76. day: (n) ngày /deɪ/
-77. We: (pron) Chúng tôi /wiː/
-78. also: (adv) cũng /ˈɔːlsəʊ/
-79. had: (v) có /hæd/
-80. touching: (adj) cảm động /ˈtʌtʃɪŋ/
-81. moments: (n) những khoảnh khắc /ˈməʊmənts/
-82. when: (conj) khi /wen/
-83. we: (pron) chúng tôi /wiː/
-84. received: (v) nhận /rɪˈsiːvd/
-85. letters: (n) thư /ˈletərz/
-86. from: (prep) từ /frɒm/
-87. our: (det) của chúng tôi /ˈaʊər/
-88. parents: (n) bố mẹ /ˈpeərənts/
-89. I: (pron) Tôi /aɪ/
-90. have: (v) đã /hæv/
-91. never: (adv) chưa bao giờ /ˈnevər/
-92. attended: (v) tham gia /əˈtendɪd/
-93. such: (det) như vậy /sʌtʃ/
-94. a: (det) một /ə/
-95. strict: (adj) nghiêm khắc /strɪkt/
-96. but: (conj) nhưng /bʌt/
-97. exciting: (adj) thú vị /ɪkˈsaɪtɪŋ/
-98. course: (n) khóa học /kɔːrs/
-99. like: (prep) như /laɪk/
-100. this: (det) cái này /ðɪs/
-101. I: (pron) Tôi /aɪ/
-102. have: (v) đã /hæv/
-103. been: (v) đã /biːn/
-104. on: (prep) trong /ɒn/
-105. an: (det) một /æn/
-106. unforgettable: (adj) không thể quên /ʌnfərˈɡetəbl/
-107. summer: (n) mùa hè /ˈsʌmər/
-108. course: (n) khóa học /kɔːrs/
-109. in: (prep) ở /ɪn/
-110. America: (n) Mỹ /əˈmerɪkə/
-111. I: (pron) Tôi /aɪ/
-112. stayed: (v) ở /steɪd/
-113. in: (prep) trong /ɪn/
-114. Thornwood: (n) Thornwood /ˈθɔːrnwʊd/
-115. campus: (n) khuôn viên /ˈkæmpəs/
-116. on: (prep) trên /ɒn/
-117. the: (det) /ðə/
-118. outskirts: (n) vùng ngoại ô /ˈaʊtskɜːrts/
-119. of: (prep) của /ɒv/
-120. New York: (n) New York /njuː jɔːrk/
-121. City: (n) Thành phố /ˈsɪti/
-122. for: (prep) trong /fɔːr/
-123. three: (det) ba /θriː/
-124. weeks: (n) tuần /wiːks/
-125. We: (pron) Chúng tôi /wiː/
-126. had: (v) đã có /hæd/
-127. an: (det) một /æn/
-128. enjoyable: (adj) thú vị /ɪnˈdʒɔɪəbl/
-129. campus: (n) khuôn viên /ˈkæmpəs/
-130. tour: (n) chuyến tham quan /tʊər/
-131. attended: (v) tham gia /əˈtendɪd/
-132. English: (adj) tiếng Anh /ˈɪŋɡlɪʃ/
-133. classes: (n) các lớp học /ˈklæsɪz/
-134. and: (conj) và /ænd/
-135. joined: (v) tham gia /dʒɔɪnd/
-136. team: (n) đội /tiːm/
-137. activities: (n) các hoạt động /ækˈtɪvətiz/
-138. We: (pron) Chúng tôi /wiː/
-139. all: (adv) tất cả /ɔːl/
-140. tried: (v) đã cố gắng /traɪd/
-141. to: (prep) để /tuː/
-142. communicate: (v) giao tiếp /kəˈmjuːnɪkeɪt/
-143. in: (prep) bằng /ɪn/
-144. English: (n) tiếng Anh /ˈɪŋɡlɪʃ/
-145. In: (prep) Vào /ɪn/
-146. the: (det) /ðə/
-147. evening: (n) buổi tối /ˈiːvnɪŋ/
-148. we: (pron) chúng tôi /wiː/
-149. played: (v) chơi /pleɪd/
-150. board: (n) cờ bàn /bɔːrd/
-151. games: (n) trò chơi /ɡeɪmz/
-152. and: (conj) và /ænd/
-153. billiards: (n) bi-a /ˈbɪliərdz/
-154. The: (det) /ðə/
-155. most: (adv) nhất /məʊst/
-156. special: (adj) đặc biệt /ˈspeʃəl/
-157. experience: (n) trải nghiệm /ɪkˈspɪəriəns/
-158. was: (v) là /wɒz/
-159. my: (det) của tôi /maɪ/
-160. visit: (n) chuyến thăm /ˈvɪzɪt/
-161. to: (prep) đến /tuː/
-162. the: (det) /ðə/
-163. top: (n) đỉnh /tɒp/
-164. of: (prep) của /ɒv/
-165. Rockefeller: (n) Rockefeller /ˈrɒkəfɛlər/
-166. Centre: (n) Trung tâm /ˈsentər/
-167. From: (prep) Từ /frɒm/
-168. there: (adv) đó /ðeər/
-169. I: (pron) Tôi /aɪ/
-170. could: (v) có thể /kʊd/
-171. view: (v) nhìn /vjuː/
-172. the: (det) /ðə/
-173. whole: (adj) toàn bộ /həʊl/
-174. city: (n) thành phố /ˈsɪti/
-175. below: (adv) bên dưới /bɪˈləʊ/
-176. That: (pron) Đó /ðæt/
-177. was: (v) đã là /wɒz/
-178. the: (det) /ðə/
-179. first: (adj) đầu tiên /fɜːrst/
-180. time: (n) lần /taɪm/
-181. I: (pron) Tôi /aɪ/
-182. travelled: (v) đi du lịch /ˈtrævəld/
-183. without: (prep) mà không có /wɪˈðaʊt/
-184. my: (det) của tôi /maɪ/
-185. parents: (n) bố mẹ /ˈpeərənts/
-186. so: (conj) vì vậy /səʊ/
-187. I: (pron) Tôi /aɪ/
-188. felt: (v) cảm thấy /felt/
-189. like: (prep) như /laɪk/
-190. I: (pron) Tôi /aɪ/
-191. grew: (v) trưởng thành /ɡruː/
-192. up: (adv) lên /ʌp/
-193. a: (det) rất /ə/
-194. lot: (n) nhiều /lɒt/
-195. after: (prep) sau /ˈɑːftər/
-196. the: (det) /ðə/
-197. trip: (n) chuyến đi /trɪp/
+1. **had** : (v) đã có /hæd/
+2. **hard** : (adj) khó khăn /hɑːrd/
+3. **10-day** : (adj) 10 ngày /ˈten deɪ/
+4. **course** : (n) khóa học /kɔːrs/
+5. **in** : (prep) trong /ɪn/
+6. **an** : (det) một /æn/
+7. **army** : (n) quân đội /ˈɑːrmi/
+8. **camp** : (n) trại /kæmp/
+9. **in** : (prep) ở /ɪn/
+10. **Son Tay** : (n) Sơn Tây /sɒn teɪ/
+11. **last** : (adj) vừa qua /læst/
+12. **summer** : (n) mùa hè /ˈsʌmər/
+13. **Everything** : (pron) Mọi thứ /ˈevriθɪŋ/
+14. **was** : (v) đã là /wɒz/
+15. **different** : (adj) khác biệt /ˈdɪfərənt/
+16. **from** : (prep) từ /frɒm/
+17. **my** : (det) của tôi /maɪ/
+18. **life** : (n) cuộc sống /laɪf/
+19. **at** : (prep) ở /æt/
+20. **home** : (n) nhà /həʊm/
+21. **We** : (pron) Chúng tôi /wiː/
+22. **had** : (v) phải /hæd/
+23. **to** : (prep) để /tuː/
+24. **wake** : (v) thức dậy /weɪk/
+25. **up** : (adv) dậy /ʌp/
+26. **at** : (prep) lúc /æt/
+27. **5 a.m** : (n) 5 giờ sáng /faɪv eɪ em/
+28. **and** : (conj) và /ænd/
+29. **attended** : (v) tham gia /əˈtendɪd/
+30. **classes** : (n) các lớp học /ˈklæsɪz/
+31. **which** : (pron) mà /wɪtʃ/
+32. **were** : (v) đã là /wɜːr/
+33. **like** : (prep) như /laɪk/
+34. **training** : (n) huấn luyện /ˈtreɪnɪŋ/
+35. **courses** : (n) các khóa học /ˈkɔːrsɪz/
+36. **for** : (prep) cho /fɔːr/
+37. **soldiers** : (n) lính /ˈsəʊldʒərz/
+38. **In** : (prep) Vào /ɪn/
+39. **the** : (det) /ðə/
+40. **evening** : (n) buổi tối /ˈiːvnɪŋ/
+41. **we** : (pron) chúng tôi /wiː/
+42. **read** : (v) đọc /riːd/
+43. **books** : (n) sách /bʊks/
+44. **or** : (conj) hoặc /ɔːr/
+45. **worked** : (v) làm việc /wɜːrkt/
+46. **in** : (prep) trong /ɪn/
+47. **teams** : (n) các đội /tiːmz/
+48. **The** : (det) /ðə/
+49. **team** : (n) đội /tiːm/
+50. **leaders** : (n) người lãnh đạo /ˈliːdərz/
+51. **walked** : (v) hướng dẫn /wɔːkt/
+52. **us** : (pron) chúng tôi /ʌs/
+53. **through** : (prep) qua /θruː/
+54. **many** : (det) nhiều /ˈmeni/
+55. **exciting** : (adj) thú vị /ɪkˈsaɪtɪŋ/
+56. **activities** : (n) các hoạt động /ækˈtɪvətiz/
+57. **We** : (pron) Chúng tôi /wiː/
+58. **also** : (adv) cũng /ˈɔːlsəʊ/
+59. **joined** : (v) tham gia /dʒɔɪnd/
+60. **a** : (det) một /ə/
+61. **performance** : (n) buổi biểu diễn /pəˈfɔːməns/
+62. **that** : (rel pron) mà /ðæt/
+63. **had** : (v) có /hæd/
+64. **the** : (det) /ðə/
+65. **theme** : (n) chủ đề /θiːm/
+66. **environment** : (n) môi trường /ɪnˈvaɪrənmənt/
+67. **protection** : (n) bảo vệ /prəˈtekʃn/
+68. **We** : (pron) Chúng tôi /wiː/
+69. **could** : (v) có thể /kʊd/
+70. **only** : (adv) chỉ /ˈəʊnli/
+71. **call** : (v) gọi /kɔːl/
+72. **our** : (det) của chúng tôi /ˈaʊər/
+73. **parents** : (n) bố mẹ /ˈpeərənts/
+74. **once** : (adv) một lần /wʌns/
+75. **a** : (det) một /ə/
+76. **day** : (n) ngày /deɪ/
+77. **We** : (pron) Chúng tôi /wiː/
+78. **also** : (adv) cũng /ˈɔːlsəʊ/
+79. **had** : (v) có /hæd/
+80. **touching** : (adj) cảm động /ˈtʌtʃɪŋ/
+81. **moments** : (n) những khoảnh khắc /ˈməʊmənts/
+82. **when** : (conj) khi /wen/
+83. **we** : (pron) chúng tôi /wiː/
+84. **received** : (v) nhận /rɪˈsiːvd/
+85. **letters** : (n) thư /ˈletərz/
+86. **from** : (prep) từ /frɒm/
+87. **our** : (det) của chúng tôi /ˈaʊər/
+88. **parents** : (n) bố mẹ /ˈpeərənts/
+89. **I** : (pron) Tôi /aɪ/
+90. **have** : (v) đã /hæv/
+91. **never** : (adv) chưa bao giờ /ˈnevər/
+92. **attended** : (v) tham gia /əˈtendɪd/
+93. **such** : (det) như vậy /sʌtʃ/
+94. **a** : (det) một /ə/
+95. **strict** : (adj) nghiêm khắc /strɪkt/
+96. **but** : (conj) nhưng /bʌt/
+97. **exciting** : (adj) thú vị /ɪkˈsaɪtɪŋ/
+98. **course** : (n) khóa học /kɔːrs/
+99. **like** : (prep) như /laɪk/
+100. **this** : (det) cái này /ðɪs/
+101. **I** : (pron) Tôi /aɪ/
+102. **have** : (v) đã /hæv/
+103. **been** : (v) đã /biːn/
+104. **on** : (prep) trong /ɒn/
+105. **an** : (det) một /æn/
+106. **unforgettable** : (adj) không thể quên /ʌnfərˈɡetəbl/
+107. **summer** : (n) mùa hè /ˈsʌmər/
+108. **course** : (n) khóa học /kɔːrs/
+109. **in** : (prep) ở /ɪn/
+110. **America** : (n) Mỹ /əˈmerɪkə/
+111. **I** : (pron) Tôi /aɪ/
+112. **stayed** : (v) ở /steɪd/
+113. **in** : (prep) trong /ɪn/
+114. **Thornwood** : (n) Thornwood /ˈθɔːrnwʊd/
+115. **campus** : (n) khuôn viên /ˈkæmpəs/
+116. **on** : (prep) trên /ɒn/
+117. **the** : (det) /ðə/
+118. **outskirts** : (n) vùng ngoại ô /ˈaʊtskɜːrts/
+119. **of** : (prep) của /ɒv/
+120. **New York** : (n) New York /njuː jɔːrk/
+121. **City** : (n) Thành phố /ˈsɪti/
+122. **for** : (prep) trong /fɔːr/
+123. **three** : (det) ba /θriː/
+124. **weeks** : (n) tuần /wiːks/
+125. **We** : (pron) Chúng tôi /wiː/
+126. **had** : (v) đã có /hæd/
+127. **an** : (det) một /æn/
+128. **enjoyable** : (adj) thú vị /ɪnˈdʒɔɪəbl/
+129. **campus** : (n) khuôn viên /ˈkæmpəs/
+130. **tour** : (n) chuyến tham quan /tʊər/
+131. **attended** : (v) tham gia /əˈtendɪd/
+132. **English** : (adj) tiếng Anh /ˈɪŋɡlɪʃ/
+133. **classes** : (n) các lớp học /ˈklæsɪz/
+134. **and** : (conj) và /ænd/
+135. **joined** : (v) tham gia /dʒɔɪnd/
+136. **team** : (n) đội /tiːm/
+137. **activities** : (n) các hoạt động /ækˈtɪvətiz/
+138. **We** : (pron) Chúng tôi /wiː/
+139. **all** : (adv) tất cả /ɔːl/
+140. **tried** : (v) đã cố gắng /traɪd/
+141. **to** : (prep) để /tuː/
+142. **communicate** : (v) giao tiếp /kəˈmjuːnɪkeɪt/
+143. **in** : (prep) bằng /ɪn/
+144. **English** : (n) tiếng Anh /ˈɪŋɡlɪʃ/
+145. **In** : (prep) Vào /ɪn/
+146. **the** : (det) /ðə/
+147. **evening** : (n) buổi tối /ˈiːvnɪŋ/
+148. **we** : (pron) chúng tôi /wiː/
+149. **played** : (v) chơi /pleɪd/
+150. **board** : (n) cờ bàn /bɔːrd/
+151. **games** : (n) trò chơi /ɡeɪmz/
+152. **and** : (conj) và /ænd/
+153. **billiards** : (n) bi-a /ˈbɪliərdz/
+154. **The** : (det) /ðə/
+155. **most** : (adv) nhất /məʊst/
+156. **special** : (adj) đặc biệt /ˈspeʃəl/
+157. **experience** : (n) trải nghiệm /ɪkˈspɪəriəns/
+158. **was** : (v) là /wɒz/
+159. **my** : (det) của tôi /maɪ/
+160. **visit** : (n) chuyến thăm /ˈvɪzɪt/
+161. **to** : (prep) đến /tuː/
+162. **the** : (det) /ðə/
+163. **top** : (n) đỉnh /tɒp/
+164. **of** : (prep) của /ɒv/
+165. **Rockefeller** : (n) Rockefeller /ˈrɒkəfɛlər/
+166. **Centre** : (n) Trung tâm /ˈsentər/
+167. **From** : (prep) Từ /frɒm/
+168. **there** : (adv) đó /ðeər/
+169. **I** : (pron) Tôi /aɪ/
+170. **could** : (v) có thể /kʊd/
+171. **view** : (v) nhìn /vjuː/
+172. **the** : (det) /ðə/
+173. **whole** : (adj) toàn bộ /həʊl/
+174. **city** : (n) thành phố /ˈsɪti/
+175. **below** : (adv) bên dưới /bɪˈləʊ/
+176. **That** : (pron) Đó /ðæt/
+177. **was** : (v) đã là /wɒz/
+178. **the** : (det) /ðə/
+179. **first** : (adj) đầu tiên /fɜːrst/
+180. **time** : (n) lần /taɪm/
+181. **I** : (pron) Tôi /aɪ/
+182. **travelled** : (v) đi du lịch /ˈtrævəld/
+183. **without** : (prep) mà không có /wɪˈðaʊt/
+184. **my** : (det) của tôi /maɪ/
+185. **parents** : (n) bố mẹ /ˈpeərənts/
+186. **so** : (conj) vì vậy /səʊ/
+187. **I** : (pron) Tôi /aɪ/
+188. **felt** : (v) cảm thấy /felt/
+189. **like** : (prep) như /laɪk/
+190. **I** : (pron) Tôi /aɪ/
+191. **grew** : (v) trưởng thành /ɡruː/
+192. **up** : (adv) lên /ʌp/
+193. **a** : (det) rất /ə/
+194. **lot** : (n) nhiều /lɒt/
+195. **after** : (prep) sau /ˈɑːftər/
+196. **the** : (det) /ðə/
+197. **trip** : (n) chuyến đi /trɪp/
 ```
 
 </details>
@@ -384,7 +384,7 @@ Tôi đã có một khóa học mùa hè không thể quên ở Mỹ. Tôi ở t
 
 **Meaning Chunks:**
 1.  "We also joined a performance" - Chúng tôi cũng tham gia một buổi biểu diễn
-2.  "that had the theme: environment protection" - có chủ đề: bảo vệ môi trường
+2. **"that had the theme** : environment protection" - có chủ đề: bảo vệ môi trường
 
 ---
 

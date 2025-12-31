@@ -2,15 +2,15 @@
 **GETTING STARTED**   
 **Vocabulary** 
 
-1. tell \- told \- told: (v) nói, kể, bảo /tel \- təʊld \- təʊld/  
-2. do the dishes: rửa bát đĩa /duː ðə ˈdɪʃɪz/  
-3. iron clothes: ủi quần áo /ˈaɪən kləʊðz/  
-4. put toys away: cất đồ chơi /pʊt tɔɪz əˈweɪ/  
-5. make meals: nấu bữa ăn /meɪk miːlz/  
-6. a worker robot: (n) một robot công nhân /ə ˈwɜːkə ˈrəʊbɒt/  
-7. repair broken machines: sửa chữa máy móc hỏng /rɪˈpeə ˈbrəʊkən məˈʃiːnz/  
-8. move heavy things: di chuyển đồ vật nặng /muːv ˈhevi θɪŋz/  
-9. help sick people: giúp đỡ người bệnh /help sɪk ˈpiːpl/
+1. **tell \- told \- told** : (v) nói, kể, bảo /tel \- təʊld \- təʊld/
+2. **do the dishes** : rửa bát đĩa /duː ðə ˈdɪʃɪz/
+3. **iron clothes** : ủi quần áo /ˈaɪən kləʊðz/
+4. **put toys away** : cất đồ chơi /pʊt tɔɪz əˈweɪ/
+5. **make meals** : nấu bữa ăn /meɪk miːlz/
+6. **a worker robot** : (n) một robot công nhân /ə ˈwɜːkə ˈrəʊbɒt/
+7. **repair broken machines** : sửa chữa máy móc hỏng /rɪˈpeə ˈbrəʊkən məˈʃiːnz/
+8. **move heavy things** : di chuyển đồ vật nặng /muːv ˈhevi θɪŋz/
+9. **help sick people** : giúp đỡ người bệnh /help sɪk ˈpiːpl/
 
 **Tại triển lãm người máy quốc tế**  
 Nick: Tiến sĩ Adams\! Chú có thể cho chúng cháu biết về các robot trong buổi trình diễn được không?  
@@ -53,13 +53,13 @@ strong: mạnh
 **A CLOSER LOOK 1**  
 **Vocabulary**
 
-1. understand our feeling: hiểu cảm xúc của chúng ta /ˌʌndəˈstænd aʊə ˈfiːlɪŋ/  
-2. pick fruits: hái trái cây /pɪk fruːts/  
-3. do the washing: giặt đồ /duː ðə ˈwɒʃɪŋ/  
-4. water plants: tưới cây /ˈwɔːtə plɑːnts/  
-5. work as a guard: làm việc như một bảo vệ /wɜːk æz ə gɑːd/  
-6. read our moods: đọc tâm trạng của chúng ta /riːd aʊə muːdz/  
-7. understand what we say: hiểu những gì chúng ta nói /ˌʌndəˈstænd wɒt wiː seɪ/
+1. **understand our feeling** : hiểu cảm xúc của chúng ta /ˌʌndəˈstænd aʊə ˈfiːlɪŋ/
+2. **pick fruits** : hái trái cây /pɪk fruːts/
+3. **do the washing** : giặt đồ /duː ðə ˈwɒʃɪŋ/
+4. **water plants** : tưới cây /ˈwɔːtə plɑːnts/
+5. **work as a guard** : làm việc như một bảo vệ /wɜːk æz ə gɑːd/
+6. **read our moods** : đọc tâm trạng của chúng ta /riːd aʊə muːdz/
+7. **understand what we say** : hiểu những gì chúng ta nói /ˌʌndəˈstænd wɒt wiː seɪ/
 
 **Bài 2: Nói bạn có thể làm gì và không thể làm gì** 
 
@@ -204,10 +204,10 @@ H9 is the cheapest of the three robots.
 **COMMUNICATION**   
 **Vocabulary** 
 
-1. I think: (cụm động từ) tôi nghĩ /aɪ θɪŋk/  
-2. I agree with you: tôi đồng ý với bạn /aɪ əˈɡriː wɪð juː/  
-3. I don't agree with you: tôi không đồng ý với bạn /aɪ dəʊnt əˈɡriː wɪð juː/  
-4. in our daily life: trong cuộc sống hàng ngày của chúng ta /ɪn ˈaʊə ˈdeɪli laɪf/
+1. **I think** : (cụm động từ) tôi nghĩ /aɪ θɪŋk/
+2. **I agree with you** : tôi đồng ý với bạn /aɪ əˈɡriː wɪð juː/
+3. **I don't agree with you** : tôi không đồng ý với bạn /aɪ dəʊnt əˈɡriː wɪð juː/
+4. **in our daily life** : trong cuộc sống hàng ngày của chúng ta /ɪn ˈaʊə ˈdeɪli laɪf/
 
  
 
@@ -249,17 +249,17 @@ Sample answers provided in the table:
 **SKILLS 1**   
 **Vocabulary** 
 
-1. type: (n) loại /taɪp/  
-2. do most of the housework: làm hầu hết việc nhà /duː məʊst əv ðə ˈhaʊswɜːk/  
-3. cook meals: nấu các bữa ăn /kʊk miːlz/  
-4. iron clothes: ủi quần áo /ˈaɪən kləʊðz/  
-5. the best choice: lựa chọn tốt nhất /ðə best tʃɔɪs/  
-6. literature: (n) văn học /ˈlɪtrətʃə/  
-7. improve: (v) cải thiện /ɪmˈpruːv/  
-8. pronunciation: (n) phát âm /prəˌnʌnsiˈeɪʃn/  
-9. be interested in: quan tâm đến /bi ˈɪntrəstɪd ɪn/  
-10. heavy: (adj) nặng /ˈhevi/  
-11. build space station: xây trạm không gian   
+1. **type** : (n) loại /taɪp/
+2. **do most of the housework** : làm hầu hết việc nhà /duː məʊst əv ðə ˈhaʊswɜːk/
+3. **cook meals** : nấu các bữa ăn /kʊk miːlz/
+4. **iron clothes** : ủi quần áo /ˈaɪən kləʊðz/
+5. **the best choice** : lựa chọn tốt nhất /ðə best tʃɔɪs/
+6. **literature** : (n) văn học /ˈlɪtrətʃə/
+7. **improve** : (v) cải thiện /ɪmˈpruːv/
+8. **pronunciation** : (n) phát âm /prəˌnʌnsiˈeɪʃn/
+9. **be interested in** : quan tâm đến /bi ˈɪntrəstɪd ɪn/
+10. **heavy** : (adj) nặng /ˈhevi/
+11. **build space station** : xây trạm không gian
     /bɪld speɪs ˈsteɪʃn/
 
 Hôm nay có một cuộc triển lãm rô bốt quốc tế ở Hà Nội. Mọi người có thể nhìn thấy nhiều loại rô bốt ở đây.

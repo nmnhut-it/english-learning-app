@@ -461,13 +461,13 @@
 ## TEACHER'S NOTES
 
 ### Grammar Focus Areas:
-1. **Phrasal verbs**: come down with, cut down on, take care of, hang out, get on well with
-2. **Comparative structures**: The more...the more, comparative adjectives
-3. **Question words + to-infinitive**: how to, what to, where to, when to
+1. **Phrasal verbs** : come down with, cut down on, take care of, hang out, get on well with
+2. **Comparative structures** : The more...the more, comparative adjectives
+3. **Question words + to-infinitive** : how to, what to, where to, when to
 4. **Complex sentences**: although/despite, so/therefore, but
-5. **Present tenses**: Simple present, present continuous
-6. **Past simple**: Regular and irregular verbs
-7. **Future forms**: will, be going to
+5. **Present tenses** : Simple present, present continuous
+6. **Past simple** : Regular and irregular verbs
+7. **Future forms** : will, be going to
 8. **Passive voice** (basic introduction)
 
 ### Vocabulary Themes:

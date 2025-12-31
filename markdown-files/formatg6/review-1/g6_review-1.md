@@ -41,11 +41,11 @@
 
 **Bài 4 trang 36** 
 
-1. friendly: thân thiện   
-2. kitchen: nhà bếp   
-3. creative: sáng tạo   
-4. ears: tai   
-5. cheek: má 
+1. **friendly** : thân thiện
+2. **kitchen** : nhà bếp
+3. **creative** : sáng tạo
+4. **ears** : tai
+5. **cheek** : má
 
 **Bài 5 trang 36: Nhìn vào bức tranh và chọn đáp án đúng** 
 
@@ -63,19 +63,19 @@
 
 **Bài 6: Chia thì hiện tại đơn hoặc thì hiện tại tiếp diễn** 
 
-1. chủ từ: it → số ít   
+1. **chủ từ** : it → số ít
    câu có ‘now’ → httd   
    —\> is raining   
-2. chủ từ: you → số nhiều   
+2. **chủ từ** : you → số nhiều
    câu có ‘every day’ → hiện tại đơn  
    → do … have   
-3. chủ từ: she   
+3. **chủ từ** : she
    câu có ‘now’ → httd   
    → is ….. studying   
-4. chủ từ: my dog → số ít   
+4. **chủ từ** : my dog → số ít
    câu chỉ sở thích → hiện tại đơn   
    → likes  
-5. chủ từ: my mother → số ít   
+5. **chủ từ** : my mother → số ít
    câu có ‘now’ → httd   
    → isn’t cooking \- is reading
 

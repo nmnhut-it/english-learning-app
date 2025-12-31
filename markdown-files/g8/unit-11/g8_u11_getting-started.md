@@ -4,26 +4,26 @@
 
 **Vocabulary** 
 
-1. yesterday's lesson: bài học hôm qua /ˈjestədeɪz ˈlesn/  
-2. face-to-face classes: các lớp học trực tiếp /feɪs tə feɪs ˈklɑːsɪz/  
-3. convenient: (adj) thuận tiện, tiện lợi /kənˈviːniənt/  
-4. epidemics: (n) dịch bệnh /ˌepɪˈdemɪks/  
-5. interact: (v) tương tác /ˌɪntərˈækt/  
-6. breakout room: phòng thảo luận nhóm nhỏ /ˈbreɪkaʊt ruːm/  
-7. enough: (adj/adv) đủ /ɪˈnʌf/  
-8. in front of: trước mặt /ɪn frʌnt ɒv/  
-9. computer screen: màn hình máy tính /kəmˈpjuːtə skriːn/  
-10. I know what you mean: tôi hiểu ý bạn /aɪ nəʊ wɒt juː miːn/  
-11. great news for us: tin tốt cho chúng ta /ɡreɪt njuːz fɔːr ʌs/  
-12. 3D contact lenses: kính áp tròng 3D /θriː diː ˈkɒntækt ˈlenzɪz/  
-13. soon: (adv) sớm, chẳng bao lâu nữa /suːn/  
-14. available: (adj) có sẵn, khả dụng /əˈveɪləbl/  
-15. helpful invention: phát minh hữu ích /ˈhelpfʊl ɪnˈvenʃn/  
-16. get ill: bị ốm /ɡet ɪl/  
-17. be able to: có thể /bi ˈeɪbl tuː/  
-18. mark our work: chấm bài của chúng ta /mɑːk ˈaʊə wɜːk/  
-19. give us feedback: cho chúng ta phản hồi /ɡɪv ʌs ˈfiːdbæk/  
-20. fantastic: (adj) tuyệt vời, tuyệt diệu /fænˈtæstɪk/
+1. **yesterday's lesson** : bài học hôm qua /ˈjestədeɪz ˈlesn/
+2. **face-to-face classes** : các lớp học trực tiếp /feɪs tə feɪs ˈklɑːsɪz/
+3. **convenient** : (adj) thuận tiện, tiện lợi /kənˈviːniənt/
+4. **epidemics** : (n) dịch bệnh /ˌepɪˈdemɪks/
+5. **interact** : (v) tương tác /ˌɪntərˈækt/
+6. **breakout room** : phòng thảo luận nhóm nhỏ /ˈbreɪkaʊt ruːm/
+7. **enough** : (adj/adv) đủ /ɪˈnʌf/
+8. **in front of** : trước mặt /ɪn frʌnt ɒv/
+9. **computer screen** : màn hình máy tính /kəmˈpjuːtə skriːn/
+10. **I know what you mean** : tôi hiểu ý bạn /aɪ nəʊ wɒt juː miːn/
+11. **great news for us** : tin tốt cho chúng ta /ɡreɪt njuːz fɔːr ʌs/
+12. **3D contact lenses** : kính áp tròng 3D /θriː diː ˈkɒntækt ˈlenzɪz/
+13. **soon** : (adv) sớm, chẳng bao lâu nữa /suːn/
+14. **available** : (adj) có sẵn, khả dụng /əˈveɪləbl/
+15. **helpful invention** : phát minh hữu ích /ˈhelpfʊl ɪnˈvenʃn/
+16. **get ill** : bị ốm /ɡet ɪl/
+17. **be able to** : có thể /bi ˈeɪbl tuː/
+18. **mark our work** : chấm bài của chúng ta /mɑːk ˈaʊə wɜːk/
+19. **give us feedback** : cho chúng ta phản hồi /ɡɪv ʌs ˈfiːdbæk/
+20. **fantastic** : (adj) tuyệt vời, tuyệt diệu /fænˈtæstɪk/
 
 Minh: Ann, bạn có thích buổi học hôm qua không? Tôi rất thích học trực tuyến.
 

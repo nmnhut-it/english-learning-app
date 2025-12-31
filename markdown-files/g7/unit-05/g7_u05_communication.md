@@ -14,11 +14,11 @@ Ví dụ: How much are five apples? → They are 20000 Viet Nam Dong.
 
 **Vocabulary** 
 
-1. bowl: (n) tô /bəʊl/  
-2. toast: (n) bánh mì nướng /təʊst/  
-3. eel: (n) lươn, con lươn /iːl/  
-4. mineral water: nước khoáng /ˈmɪnərəl ˈwɔːtə/  
-5. glass: (n) li /glɑːs/  
+1. **bowl** : (n) tô /bəʊl/
+2. **toast** : (n) bánh mì nướng /təʊst/
+3. **eel** : (n) lươn, con lươn /iːl/
+4. **mineral water** : nước khoáng /ˈmɪnərəl ˈwɔːtə/
+5. **glass** : (n) li /glɑːs/
 1. How much is a bowl of beef noodle soup?  
    → It is 30 000 dong (thirty **thousand \= nghìn** /táo zần/ dong)  
 2. How much is a bowl of eel soup?  

@@ -42,26 +42,26 @@ Listen and mark the intonation in the following sentences, using ↘ (falling in
 1. **well-preserved**
    - Many ancient houses in the city are not **well-preserved** because of changes over time and bad weather.
    - *(Nhiều ngôi nhà cổ trong thành phố không được bảo tồn tốt do thay đổi theo thời gian và thời tiết xấu.)*
-   - **well preserved** (adj): được giữ gìn tốt
-   - **well promoted** (adj): được quảng bá tốt
+1. **well preserved** : (adj) được giữ gìn tốt
+2. **well promoted** : (adj) được quảng bá tốt
 
 2. **historical**
    - His **historical** novels are based on events that happened in the early 19th century.
    - *(Tiểu thuyết lịch sử của ông dựa trên những sự kiện xảy ra vào đầu thế kỷ 19.)*
-   - **historical** (adj): có tầm quan trọng về lịch sử
-   - **historic** (adj): liên quan đến lịch sử
+3. **historical** : (adj) có tầm quan trọng về lịch sử
+4. **historic** : (adj) liên quan đến lịch sử
 
 3. **folk**
    - Older generations worry that **folk** music and dances will die out because young people only listen to pop music.
    - *(Các thế hệ lớn tuổi lo lắng rằng âm nhạc dân gian và các điệu nhảy sẽ mai một vì giới trẻ chỉ nghe nhạc pop.)*
-   - **folk** (n): dân gian
-   - **festival** (n): lễ hội
+5. **folk** : (n) dân gian
+6. **festival** : (n) lễ hội
 
 4. **promoted**
    - The heritage site is **promoted** as a tourist destination on social media.
    - *(Khu di sản được quảng bá như một điểm đến du lịch trên phương tiện truyền thông xã hội.)*
-   - **promoted** (Ved): quảng bá
-   - **protected** (Ved): bảo vệ
+7. **promoted** : (ved) quảng bá
+8. **protected** : (ved) bảo vệ
 
 ## Grammar
 

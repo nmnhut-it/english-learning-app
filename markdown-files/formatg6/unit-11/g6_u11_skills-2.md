@@ -3,15 +3,15 @@
 **SKILLS 2**   
 **Listening** 
 
-1. encourage: (v) khuyến khích, động viên /ɪnˈkʌrɪdʒ/  
-2. president: (n) chủ tịch, tổng thống /ˈprezɪdənt/  
-3. talk to my friends: nói chuyện với bạn bè của tôi /tɔːk tə maɪ frends/  
-4. put a recycling bin: đặt một thùng tái chế /pʊt ə riːˈsaɪklɪŋ bɪn/  
-5. in every classroom: trong mỗi lớp học /ɪn ˈevri ˈklɑːsruːm/  
-6. organise some book fair: tổ chức một số hội chợ sách /ˈɔːɡənaɪz sʌm bʊk feə/  
-7. exchange their used book: trao đổi sách đã sử dụng của họ /ɪksˈtʃeɪndʒ ðeə juːzd bʊk/  
-8. fun: (adj) vui vẻ, thú vị /fʌn/  
-9. uniform fair: hội chợ đồng phục /ˈjuːnɪfɔːm feə/  
+1. **encourage** : (v) khuyến khích, động viên /ɪnˈkʌrɪdʒ/
+2. **president** : (n) chủ tịch, tổng thống /ˈprezɪdənt/
+3. **talk to my friends** : nói chuyện với bạn bè của tôi /tɔːk tə maɪ frends/
+4. **put a recycling bin** : đặt một thùng tái chế /pʊt ə riːˈsaɪklɪŋ bɪn/
+5. **in every classroom** : trong mỗi lớp học /ɪn ˈevri ˈklɑːsruːm/
+6. **organise some book fair** : tổ chức một số hội chợ sách /ˈɔːɡənaɪz sʌm bʊk feə/
+7. **exchange their used book** : trao đổi sách đã sử dụng của họ /ɪksˈtʃeɪndʒ ðeə juːzd bʊk/
+8. **fun** : (adj) vui vẻ, thú vị /fʌn/
+9. **uniform fair** : hội chợ đồng phục /ˈjuːnɪfɔːm feə/
    
 
 **Bài 1 trang 55** 

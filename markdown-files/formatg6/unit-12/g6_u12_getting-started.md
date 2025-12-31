@@ -3,15 +3,15 @@
 **GETTING STARTED**   
 **Vocabulary** 
 
-1. tell \- told \- told: (v) nói, kể, bảo /tel \- təʊld \- təʊld/  
-2. do the dishes: rửa bát đĩa /duː ðə ˈdɪʃɪz/  
-3. iron clothes: ủi quần áo /ˈaɪən kləʊðz/  
-4. put toys away: cất đồ chơi /pʊt tɔɪz əˈweɪ/  
-5. make meals: nấu bữa ăn /meɪk miːlz/  
-6. a worker robot: (n) một robot công nhân /ə ˈwɜːkə ˈrəʊbɒt/  
-7. repair broken machines: sửa chữa máy móc hỏng /rɪˈpeə ˈbrəʊkən məˈʃiːnz/  
-8. move heavy things: di chuyển đồ vật nặng /muːv ˈhevi θɪŋz/  
-9. help sick people: giúp đỡ người bệnh /help sɪk ˈpiːpl/
+1. **tell \- told \- told** : (v) nói, kể, bảo /tel \- təʊld \- təʊld/
+2. **do the dishes** : rửa bát đĩa /duː ðə ˈdɪʃɪz/
+3. **iron clothes** : ủi quần áo /ˈaɪən kləʊðz/
+4. **put toys away** : cất đồ chơi /pʊt tɔɪz əˈweɪ/
+5. **make meals** : nấu bữa ăn /meɪk miːlz/
+6. **a worker robot** : (n) một robot công nhân /ə ˈwɜːkə ˈrəʊbɒt/
+7. **repair broken machines** : sửa chữa máy móc hỏng /rɪˈpeə ˈbrəʊkən məˈʃiːnz/
+8. **move heavy things** : di chuyển đồ vật nặng /muːv ˈhevi θɪŋz/
+9. **help sick people** : giúp đỡ người bệnh /help sɪk ˈpiːpl/
 
 **Tại triển lãm người máy quốc tế**  
 Nick: Tiến sĩ Adams\! Chú có thể cho chúng cháu biết về các robot trong buổi trình diễn được không?  

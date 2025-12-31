@@ -144,10 +144,10 @@ Example:
 
 **Verbs of liking + V-ing**
 
-- **love** : (v) yêu thích /lʌv/
-- **like** : (v) thích /laɪk/
-- **enjoy** : (v) thích thú /ɪnˈdʒɔɪ/
-- **hate** : (v) ghét /heɪt/
+14. **love** : (v) yêu thích /lʌv/
+15. **like** : (v) thích /laɪk/
+16. **enjoy** : (v) thích thú /ɪnˈdʒɔɪ/
+17. **hate** : (v) ghét /heɪt/
 
 **"Like/love/hate/prefer" + V-ing vs. "Like/love/hate/prefer" + to V₀:**
 
@@ -157,18 +157,18 @@ Example:
   * Ví dụ: "I like to swim in the morning." (Tôi thích bơi vào buổi sáng - nhấn mạnh hành động cụ thể)
 
 **Các động từ thể hiện nghĩa "thích/ghét" chỉ đi kèm "to V₀" (Infinitive):**
-1. **Would like**: muốn - "I would like to go out tonight."
-2. **Would love**: rất muốn - "She would love to visit Paris."
-3. **Would prefer**: thích hơn - "He would prefer to stay home."
-4. **Would hate**: ghét - "I would hate to miss the concert."
+1. **Would like** : muốn - "I would like to go out tonight."
+2. **Would love** : rất muốn - "She would love to visit Paris."
+3. **Would prefer** : thích hơn - "He would prefer to stay home."
+4. **Would hate** : ghét - "I would hate to miss the concert."
 
 **Các động từ thể hiện nghĩa "thích/ghét" chỉ đi kèm "V-ing" (Gerund):**
-1. **Enjoy**: thích - "I enjoy reading books."
-2. **Dislike**: không thích - "She dislikes doing homework."
-3. **Mind**: phiền, ngại - "Do you mind opening the window?"
-4. **Detest**: ghét cay ghét đắng - "He detests waking up early."
-5. **Avoid**: tránh - "I avoid eating fast food."
-6. **Can't help**: không thể không - "She can't help laughing at his jokes."
+1. **Enjoy** : thích - "I enjoy reading books."
+2. **Dislike** : không thích - "She dislikes doing homework."
+3. **Mind** : phiền, ngại - "Do you mind opening the window?"
+4. **Detest** : ghét cay ghét đắng - "He detests waking up early."
+5. **Avoid** : tránh - "I avoid eating fast food."
+6. **Can't help** : không thể không - "She can't help laughing at his jokes."
 
 ### ✍️ Exercises - Bài tập
 
@@ -298,8 +298,8 @@ My family members have different hobbies. My dad (1) **enjoys** gardening. He (2
 4. **insect** : (n) côn trùng /ˈɪnsekt/
 5. **patient** : (adj) kiên nhẫn /ˈpeɪʃnt/
 6. **responsibility** : (n) trách nhiệm /rɪˌspɒnsɪˈbɪləti/
-7. Do you like + Ving: bạn có thích? 
-8. science: (n) khoa học 
+7. **Do you like + Ving** : bạn có thích?
+8. **science** : (n) khoa học
 
 
 ### 🗣️ Activities - Hoạt động

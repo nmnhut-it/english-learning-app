@@ -4,34 +4,34 @@ A CLOSER LOOK 1
 
 **Vocabulary**
 
-1. cattle : (n) gia súc /ˈkætəl/  
-2. poultry : (n) gia cầm /ˈpəʊltri/  
-3. plant : (n) cây /plɑːnt/  
-4. fruit : (n) trái cây /fruːt/  
-5. orchard : (n) vườn cây ăn quả /ˈɔːʧəd/  
-6. harvest : (n) thu hoạch /ˈhɑːvɪst/  
-7. food : (n) thức ăn /fuːd/  
-8. crops : (n) cây trồng /krɒps/  
-9. load: (v) chất /ˈləʊd/  
-10. unload: (v) dỡ /ʌnˈləʊd/  
-11. catch: (v) bắt /ˈkæʧ/  
-12. holding : (v) giữ /ˈhəʊldɪŋ/  
-13. lake : (n) hồ /leɪk/  
-14. pond : (n) ao /pɒnd/  
-15. vast : (adj) rộng lớn /vɑːst/  
-16. hospitable : (adj) hiếu khách /ˈhɒspɪtəbl/  
-17. well-trained : (adj) được đào tạo tốt /wɛl treɪnd/  
-18. surrounded : (adj) bao quanh /səˈraʊndɪd/  
-19. picturesque : (adj) đẹp như tranh /ˌpɪkʧəˈrɛsk/  
-20. kind : (adj) tốt bụng /kaɪnd/  
-21. workers : (n) công nhân /ˈwɜːkəz/  
-22. bottle : (n) chai /ˈbɒtl/  
-23. hard-working : (adj) chăm chỉ /hɑːd-ˈwɜːkɪŋ/  
-24. pick : (v) hái /ˈpɪk/  
-25. gather : (v) tụ họp /ˈɡæðə/   
-26. milk : (n) sữa /mɪlk/  
-27. pasta : (n) mì ống /ˈpæstə/  
-28. supermarket : (n) siêu thị /ˈsuːpəmɑːkɪt/ ​
+1. **cattle** : (n) gia súc /ˈkætəl/
+2. **poultry** : (n) gia cầm /ˈpəʊltri/
+3. **plant** : (n) cây /plɑːnt/
+4. **fruit** : (n) trái cây /fruːt/
+5. **orchard** : (n) vườn cây ăn quả /ˈɔːʧəd/
+6. **harvest** : (n) thu hoạch /ˈhɑːvɪst/
+7. **food** : (n) thức ăn /fuːd/
+8. **crops** : (n) cây trồng /krɒps/
+9. **load** : (v) chất /ˈləʊd/
+10. **unload** : (v) dỡ /ʌnˈləʊd/
+11. **catch** : (v) bắt /ˈkæʧ/
+12. **holding** : (v) giữ /ˈhəʊldɪŋ/
+13. **lake** : (n) hồ /leɪk/
+14. **pond** : (n) ao /pɒnd/
+15. **vast** : (adj) rộng lớn /vɑːst/
+16. **hospitable** : (adj) hiếu khách /ˈhɒspɪtəbl/
+17. **well-trained** : (adj) được đào tạo tốt /wɛl treɪnd/
+18. **surrounded** : (adj) bao quanh /səˈraʊndɪd/
+19. **picturesque** : (adj) đẹp như tranh /ˌpɪkʧəˈrɛsk/
+20. **kind** : (adj) tốt bụng /kaɪnd/
+21. **workers** : (n) công nhân /ˈwɜːkəz/
+22. **bottle** : (n) chai /ˈbɒtl/
+23. **hard-working** : (adj) chăm chỉ /hɑːd-ˈwɜːkɪŋ/
+24. **pick** : (v) hái /ˈpɪk/
+25. **gather** : (v) tụ họp /ˈɡæðə/
+26. **milk** : (n) sữa /mɪlk/
+27. **pasta** : (n) mì ống /ˈpæstə/
+28. **supermarket** : (n) siêu thị /ˈsuːpəmɑːkɪt/ ​
 
 **Bài 1 trang 20** 
 

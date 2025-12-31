@@ -6,17 +6,17 @@
 
 **Vocabulary** 
 
-1. **stilt house**: nhà sàn  
+1. **stilt house** : nhà sàn
 2. **popular (adj)**: phổ biến /ˈpɒp.jʊ.lə/  
 3. **highland (n)**: cao nguyên /ˈhaɪ.lənd/  
 4. **delta (n)**: đồng bằng /ˈdel.tə/  
 5. **culture (n)**: văn hóa /ˈkʌl.tʃə/  
 6. **material (n)**: vật liệu /məˈtɪə.ri.əl/  
 7. **post (n)**: cây cột /pəʊst/  
-8. **in the middle of**: ở giữa  
-9. **family gathering (n)**: đoàn tụ gia đình  
-10. **receive guests (v)**: tiếp khách  
-11. **overlook (v)**: nhìn ra /ˌəʊ.vəˈlʊk/
+8. **in the middle of** : ở giữa
+9. **family gathering (n)** : đoàn tụ gia đình
+10. **receive guests (v)** : tiếp khách
+11. **overlook (v)** : nhìn ra /ˌəʊ.vəˈlʊk/
 
 Nhà sàn
 

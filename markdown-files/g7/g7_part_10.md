@@ -4,30 +4,30 @@
 
 **Vocabulary** 
 
-1. What are you doing: Bạn đang làm gì /wɒt ə juː ˈduːɪŋ/  
-2. pretty late: khá muộn /ˈprɪti leɪt/  
-3. I am doing a project on energy sources: Tôi đang làm một dự án về các nguồn năng lượng /aɪ əm ˈduːɪŋ ə ˈprɒdʒekt ɒn ˈenədʒi ˈsɔːsɪz/  
-4. I dont quite understand what energy is: Tôi không hiểu rõ lắm năng lượng là gì /aɪ dəʊnt kwaɪt ˌʌndəˈstænd wɒt ˈenədʒi ɪz/  
-5. power: (n) sức mạnh, năng lượng /ˈpaʊə(r)/  
-6. provide us with something: cung cấp cho chúng ta cái gì đó /prəˈvaɪd ʌs wɪð ˈsʌmθɪŋ/  
-7. light: (n) ánh sáng /laɪt/  
-8. heat: (n) nhiệt /hiːt/  
-9. electricity: (n) điện /ɪˌlekˈtrɪsəti/  
-10. where does it come from: nó đến từ đâu /weə dʌz ɪt kʌm frɒm/  
-11. source: (n) nguồn /sɔːs/  
-12. energy: (n) năng lượng /ˈenədʒi/  
-13. coal: (n) than đá /kəʊl/  
-14. oil: (n) dầu /ɔɪl/  
-15. natural gas: khí đốt tự nhiên /ˈnætʃrəl ɡæs/  
-16. renewable: (adj) có thể tái tạo /rɪˈnjuːəbl/  
-17. non-renewable: (adj) không thể tái tạo /nɒn-rɪˈnjuːəbl/  
-18. easily: (adv) dễ dàng /ˈiːzɪli/  
-19. replace: (v) thay thế /rɪˈpleɪs/  
-20. run out of: hết /rʌn aʊt əv/  
-21. call: (v) gọi /kɔːl/  
-22. the sun: mặt trời /ðə sʌn/  
-23. win: (v) thắng, chiến thắng /wɪn/  
-24. too: (adv) cũng /tuː/. 
+1. **What are you doing** : Bạn đang làm gì /wɒt ə juː ˈduːɪŋ/
+2. **pretty late** : khá muộn /ˈprɪti leɪt/
+3. **I am doing a project on energy sources** : Tôi đang làm một dự án về các nguồn năng lượng /aɪ əm ˈduːɪŋ ə ˈprɒdʒekt ɒn ˈenədʒi ˈsɔːsɪz/
+4. **I dont quite understand what energy is** : Tôi không hiểu rõ lắm năng lượng là gì /aɪ dəʊnt kwaɪt ˌʌndəˈstænd wɒt ˈenədʒi ɪz/
+5. **power** : (n) sức mạnh, năng lượng /ˈpaʊə(r)/
+6. **provide us with something** : cung cấp cho chúng ta cái gì đó /prəˈvaɪd ʌs wɪð ˈsʌmθɪŋ/
+7. **light** : (n) ánh sáng /laɪt/
+8. **heat** : (n) nhiệt /hiːt/
+9. **electricity** : (n) điện /ɪˌlekˈtrɪsəti/
+10. **where does it come from** : nó đến từ đâu /weə dʌz ɪt kʌm frɒm/
+11. **source** : (n) nguồn /sɔːs/
+12. **energy** : (n) năng lượng /ˈenədʒi/
+13. **coal** : (n) than đá /kəʊl/
+14. **oil** : (n) dầu /ɔɪl/
+15. **natural gas** : khí đốt tự nhiên /ˈnætʃrəl ɡæs/
+16. **renewable** : (adj) có thể tái tạo /rɪˈnjuːəbl/
+17. **non-renewable** : (adj) không thể tái tạo /nɒn-rɪˈnjuːəbl/
+18. **easily** : (adv) dễ dàng /ˈiːzɪli/
+19. **replace** : (v) thay thế /rɪˈpleɪs/
+20. **run out of** : hết /rʌn aʊt əv/
+21. **call** : (v) gọi /kɔːl/
+22. **the sun** : mặt trời /ðə sʌn/
+23. **win** : (v) thắng, chiến thắng /wɪn/
+24. **too** : (adv) cũng /tuː/.
 
 **Bài 2 trang 105** 
 
@@ -52,19 +52,19 @@ C. Energy sources \- các nguồn năng lượng
 
 **Vocabulary** 
 
-1. solar energy: năng lượng mặt trời /ˈsəʊlər ˈenədʒi/  
-2. wind energy: năng lượng gió /wɪnd ˈenədʒi/  
-3. hydro energy: năng lượng thủy điện /ˈhaɪdrəʊ ˈenədʒi/  
-4. nuclear energy: năng lượng hạt nhân /ˈnjuːkliər ˈenədʒi/  
-5. nuclear: (adj) hạt nhân /ˈnjuːkliə(r)/  
-6. roof: (n) mái nhà /ruːf/  
-7. building: (n) tòa nhà, công trình xây dựng /ˈbɪldɪŋ/  
-8. produce: (v) sản xuất, tạo ra /prəˈdjuːs/  
-9. provide: (v) cung cấp /prəˈvaɪd/  
-10. because of: bởi vì, do /bɪˈkɒz əv/  
-11. sea breeze: gió biển /siː briːz/  
-12. change: (v) biến đổi, thay đổi /tʃeɪndʒ/  
-13. safe: (adj) an toàn /seɪf/ 
+1. **solar energy** : năng lượng mặt trời /ˈsəʊlər ˈenədʒi/
+2. **wind energy** : năng lượng gió /wɪnd ˈenədʒi/
+3. **hydro energy** : năng lượng thủy điện /ˈhaɪdrəʊ ˈenədʒi/
+4. **nuclear energy** : năng lượng hạt nhân /ˈnjuːkliər ˈenədʒi/
+5. **nuclear** : (adj) hạt nhân /ˈnjuːkliə(r)/
+6. **roof** : (n) mái nhà /ruːf/
+7. **building** : (n) tòa nhà, công trình xây dựng /ˈbɪldɪŋ/
+8. **produce** : (v) sản xuất, tạo ra /prəˈdjuːs/
+9. **provide** : (v) cung cấp /prəˈvaɪd/
+10. **because of** : bởi vì, do /bɪˈkɒz əv/
+11. **sea breeze** : gió biển /siː briːz/
+12. **change** : (v) biến đổi, thay đổi /tʃeɪndʒ/
+13. **safe** : (adj) an toàn /seɪf/
 
 **Bài 1 trang 106** 
 
@@ -222,21 +222,21 @@ My friend saves lots of energy. He walks to school every day. He always turns of
 
 **Reading** 
 
-1. 'd like \= would like: muốn, mong muốn /wʊd laɪk/  
-2. energy source: nguồn năng lượng /ˈenədʒi sɔːs/  
-3. non-renewable source: nguồn không tái tạo /nɒn-rɪˈnjuːəbl sɔːs/  
-4. renewable source: nguồn tái tạo /rɪˈnjuːəbl sɔːs/  
-5. coal: (n) than đá /kəʊl/  
-6. oil: (n) dầu mỏ /ɔɪl/  
-7. natural gas: (n) khí tự nhiên /ˈnætʃrəl gæs/  
-8. produce energy: sản xuất năng lượng /prəˈdjuːs ˈenədʒi/  
-9. cheap: (adj) rẻ, giá thấp /tʃiːp/  
-10. easy to use: dễ sử dụng /ˈiːzi tuː juːz/  
-11. limited: (adj) hạn chế, có giới hạn /ˈlɪmɪtɪd/  
-12. run out: (v) cạn kiệt, hết /rʌn aʊt/  
-13. available: (adj) sẵn có, có sẵn /əˈveɪləbl/  
-14. rely on: (v) phụ thuộc vào, dựa vào /rɪˈlaɪ ɒn/  
-15. better: (adj) tốt hơn /ˈbetə/ 
+1. **'d like \= would like** : muốn, mong muốn /wʊd laɪk/
+2. **energy source** : nguồn năng lượng /ˈenədʒi sɔːs/
+3. **non-renewable source** : nguồn không tái tạo /nɒn-rɪˈnjuːəbl sɔːs/
+4. **renewable source** : nguồn tái tạo /rɪˈnjuːəbl sɔːs/
+5. **coal** : (n) than đá /kəʊl/
+6. **oil** : (n) dầu mỏ /ɔɪl/
+7. **natural gas** : (n) khí tự nhiên /ˈnætʃrəl gæs/
+8. **produce energy** : sản xuất năng lượng /prəˈdjuːs ˈenədʒi/
+9. **cheap** : (adj) rẻ, giá thấp /tʃiːp/
+10. **easy to use** : dễ sử dụng /ˈiːzi tuː juːz/
+11. **limited** : (adj) hạn chế, có giới hạn /ˈlɪmɪtɪd/
+12. **run out** : (v) cạn kiệt, hết /rʌn aʊt/
+13. **available** : (adj) sẵn có, có sẵn /əˈveɪləbl/
+14. **rely on** : (v) phụ thuộc vào, dựa vào /rɪˈlaɪ ɒn/
+15. **better** : (adj) tốt hơn /ˈbetə/
 
 Xin chào, lớp học. Hôm nay tôi muốn nói cho các bạn về hai nguồn năng lượng. Chúng là nguồn không tái tạo và nguồn tái tạo.
 
@@ -321,11 +321,11 @@ B: It's limited and not good for the environment.
 
 **Vocabulary** 
 
-1. solar panel: pin năng lượng mặt trời /ˈsəʊlə ˈpænl/  
-2. light bulb: bóng đèn /laɪt bʌlb/  
-3. electrical appliance: thiết bị điện /ɪˈlektrɪkl əˈplaɪəns/  
-4. warm: (v) làm ấm, (adj) ấm /wɔːm/  
-5. sound interesting: nghe có vẻ thú vị /saʊnd ˈɪntrəstɪŋ/
+1. **solar panel** : pin năng lượng mặt trời /ˈsəʊlə ˈpænl/
+2. **light bulb** : bóng đèn /laɪt bʌlb/
+3. **electrical appliance** : thiết bị điện /ɪˈlektrɪkl əˈplaɪəns/
+4. **warm** : (v) làm ấm, (adj) ấm /wɔːm/
+5. **sound interesting** : nghe có vẻ thú vị /saʊnd ˈɪntrəstɪŋ/
 
 **Bài 2 trang 111** 
 
@@ -382,8 +382,8 @@ We use a lot of energy at home and it costs us a lot. To save energy, we should 
 **Bài 2 trang 112**  
 
 1. low energy light bulbs  
-2. electrical appliances: thiết bị điện  
-3. renewable energy sources: nguồn năng lượng tái tạo được   
+2. **electrical appliances** : thiết bị điện
+3. **renewable energy sources** : nguồn năng lượng tái tạo được
 4. solar energy  
 5. hot water 
 

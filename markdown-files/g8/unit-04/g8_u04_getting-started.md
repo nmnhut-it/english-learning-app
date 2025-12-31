@@ -25,7 +25,7 @@
 **Bài 2 trang 41** 
 
 1.  C  
-2. post: (n) cây cột → B   
+2. **post** : (n) cây cột → B
 3. A
 
 **Bài 3 trang 41**
@@ -41,7 +41,7 @@
 **Bài 4 trang 41** 
 
 1. Tôi thích múa sạp, một điệu nhảy phổ biến của người Thái → folk dance   
-2. Ngôi nhà sàn đẹp của họ nhìn ra một cánh đồng lúa lớn → overlook: nhìn ra  
+2. **Ngôi nhà sàn đẹp của họ nhìn ra một cánh đồng lúa lớn → overlook** : nhìn ra
 3. Tên một loại nhạc cụ phổ biến của người Tày là  
     gì? → musical instrument  
    → Nó là đàn tính   

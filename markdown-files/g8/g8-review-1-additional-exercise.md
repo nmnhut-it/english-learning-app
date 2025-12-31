@@ -79,34 +79,34 @@
 
 ### Nhóm C: Câu ghép và câu phức (10 câu)
 
-21. She joined the music club. She wanted to learn guitar. (use: because)
+21. **She joined the music club. She wanted to learn guitar. (use** : because)
 → ________________________________
 
-22. He plays chess to relax. He also enters competitions. (use: but)
+22. **He plays chess to relax. He also enters competitions. (use** : but)
 → ________________________________
 
-23. They feel stressed. They don't talk to anyone. (use: although)
+23. **They feel stressed. They don't talk to anyone. (use** : although)
 → ________________________________
 
-24. You should exercise regularly. You will become unhealthy. (use: or)
+24. **You should exercise regularly. You will become unhealthy. (use** : or)
 → ________________________________
 
-25. Teens use social media a lot. They feel more connected. (use: so)
+25. **Teens use social media a lot. They feel more connected. (use** : so)
 → ________________________________
 
-26. The test was difficult. Everyone passed it. (use: however)
+26. **The test was difficult. Everyone passed it. (use** : however)
 → ________________________________
 
-27. I like swimming. My sister prefers cycling. (use: whereas)
+27. **I like swimming. My sister prefers cycling. (use** : whereas)
 → ________________________________
 
-28. She studies hard. She wants to get good grades. (use: in order to)
+28. **She studies hard. She wants to get good grades. (use** : in order to)
 → ________________________________
 
-29. He didn't know the answer. He didn't ask for help. (use: yet)
+29. **He didn't know the answer. He didn't ask for help. (use** : yet)
 → ________________________________
 
-30. Stop playing games all day. You will fail your exams. (use: otherwise)
+30. **Stop playing games all day. You will fail your exams. (use** : otherwise)
 → ________________________________
 
 ---

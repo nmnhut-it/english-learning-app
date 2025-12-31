@@ -7,16 +7,16 @@
 1. **gate** (n) \- cổng /ɡeɪt/  
 2. **listen** (v) \- nghe /ˈlɪs.ən/  
 3. **classical music** (n) \- nhạc cổ điển /ˈklæs.ɪ.kəl ˈmjuː.zɪk/  
-4. **spare time**: thời gian trống  
+4. **spare time** : thời gian trống
 5. **instrument** (n) \- nhạc cụ /ˈɪn.strə.mənt/  
 6. **what about** (phrase) \- còn... thì sao? /wɒt əˈbaʊt/  
 7. **any** \+ danh từ: bất cứ cái …. nào  
-8. **often**: thường   
+8. **often** : thường
 9. **try (past: tried)** (v) \- thử, cố gắng /traɪd/  
 10. **different** (adj) \- khác biệt /ˈdɪf.ər.ənt/  
 11. **normally** (adv) \- thông thường /ˈnɔː.mə.li/  
-12. **taking photos**: chụp hình   
-13. **painting**: vẽ tranh   
+12. **taking photos** : chụp hình
+13. **painting** : vẽ tranh
 14. **each other** (pron) \- lẫn nhau /iːtʃ ˈʌð.ər/  
 15. **landscape** (n) \- phong cảnh /ˈlænd.skeɪp/  
 16. **for pleasure** (phrase) \- để giải trí, để vui /fɔː ˈpleʒ.ər/  
@@ -492,13 +492,13 @@ B: There were plays, dances, songs and magic.
 
 **Vocabulary**
 
-1.  Rd \= road: đường /rô.d/   
-2. look forward to \+ Ving: trông mong, chờ đợi   
-3. Let’s \+ V0: chúng ta hãy …. đi  
+1. **Rd \= road** : đường /rô.d/
+2. **look forward to \+ Ving** : trông mong, chờ đợi
+3. **Let’s \+ V0** : chúng ta hãy …. đi
    Ví dụ: Let’s go to the cinema\!: Chúng ta hãy đi xem phim đi  
-4. What about \+ Ving: Còn việc …. thì sao?  
+4. **What about \+ Ving** : Còn việc …. thì sao?
    What about going to the cinema?: Còn việc đi xem phim thì sao.   
-5. order: (n) đơn hàng, trật tự, (v) ra lệnh, đặt hàng /ó đơ/   
+5. **order** : (n) đơn hàng, trật tự, (v) ra lệnh, đặt hàng /ó đơ/
    **Bài 4 trang 47**   
 1. Lá thư này là từ Châu tới …..   
    A. một người bạn → chọn 
@@ -530,9 +530,9 @@ Best
 **Bài 1 trang 48**
 
 1. draw: a painting, a portrait (chân dung), a house  
-2. perform: music, dancing, a show  
-3. write: an essay, a poem, a letter  
-4. watch: TV. a football match, a performance 
+2. **perform** : music, dancing, a show
+3. **write** : an essay, a poem, a letter
+4. **watch** : TV. a football match, a performance
 
 **Bài 2 trang 48** 
 

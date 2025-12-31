@@ -4,27 +4,27 @@ UNIT 1: LEISURE TIME**
 
 **Vocabulary** 
 
-1. surprised : (adj) ngạc nhiên /səˈpraɪzd/  
-2. knitting kit : (n) bộ đan len /ˈnɪtɪŋ kɪt/  
-3. keen on : (adj) thích /kiːn ɒn/  
-4. DIY activities : (n) các hoạt động tự làm /ˌdiː.aɪˈwaɪ ækˈtɪvɪtiz/  
-5. leisure time : (n) thời gian rảnh /ˈlɛʒə taɪm/  
-6. make paper flowers : (v) làm hoa giấy /ˈmeɪk ˈpeɪpə ˈflaʊəz/  
-7. spending time on your own : (v) dành thời gian một mình /ˈspɛndɪŋ taɪm ɒn jɔː əʊn/  
-8. free time : (n) thời gian rảnh /friː taɪm/  
-9. hang out with friends : (v) đi chơi với bạn bè /hæŋ aʊt wɪð frɛndz/  
-10. go to the cinema : (v) đi xem phim /ɡəʊ tuː ðə ˈsɪnɪmə/  
-11. go cycling : (v) đi xe đạp /ɡəʊ ˈsaɪklɪŋ/  
-12. play sport : (v) chơi thể thao /pleɪ spɔːt/  
-13. spend free time : (v) dành thời gian rảnh /ˈpɛnd friː taɪm/  
-14. new comedy : (n) phim hài mới /njuː ˈkɒmədi/  
-15. New World Cinema : (n) Rạp chiếu phim New World /njuː wɜːld ˈsɪnɪmə/  
-16. meet outside : (v) gặp bên ngoài /miːt ˈaʊtsaɪd/  
-17. join us : (v) tham gia với chúng tôi /ʤɔɪn ʌs/ ​​  
-18. doing puzzles : (n) giải câu đố /ˈduːɪŋ ˈpʌzlz/  
-19. surfing the net : (n) lướt web /ˈsɜːfɪŋ ðə nɛt/  
-20. cooking : (n) nấu ăn /ˈkʊkɪŋ/  
-21. messaging friends : (v) nhắn tin với bạn bè /ˈmɛsɪdʒɪŋ frɛndz/
+1. **surprised** : (adj) ngạc nhiên /səˈpraɪzd/
+2. **knitting kit** : (n) bộ đan len /ˈnɪtɪŋ kɪt/
+3. **keen on** : (adj) thích /kiːn ɒn/
+4. **DIY activities** : (n) các hoạt động tự làm /ˌdiː.aɪˈwaɪ ækˈtɪvɪtiz/
+5. **leisure time** : (n) thời gian rảnh /ˈlɛʒə taɪm/
+6. **make paper flowers** : (v) làm hoa giấy /ˈmeɪk ˈpeɪpə ˈflaʊəz/
+7. **spending time on your own** : (v) dành thời gian một mình /ˈspɛndɪŋ taɪm ɒn jɔː əʊn/
+8. **free time** : (n) thời gian rảnh /friː taɪm/
+9. **hang out with friends** : (v) đi chơi với bạn bè /hæŋ aʊt wɪð frɛndz/
+10. **go to the cinema** : (v) đi xem phim /ɡəʊ tuː ðə ˈsɪnɪmə/
+11. **go cycling** : (v) đi xe đạp /ɡəʊ ˈsaɪklɪŋ/
+12. **play sport** : (v) chơi thể thao /pleɪ spɔːt/
+13. **spend free time** : (v) dành thời gian rảnh /ˈpɛnd friː taɪm/
+14. **new comedy** : (n) phim hài mới /njuː ˈkɒmədi/
+15. **New World Cinema** : (n) Rạp chiếu phim New World /njuː wɜːld ˈsɪnɪmə/
+16. **meet outside** : (v) gặp bên ngoài /miːt ˈaʊtsaɪd/
+17. **join us** : (v) tham gia với chúng tôi /ʤɔɪn ʌs/ ​​
+18. **doing puzzles** : (n) giải câu đố /ˈduːɪŋ ˈpʌzlz/
+19. **surfing the net** : (n) lướt web /ˈsɜːfɪŋ ðə nɛt/
+20. **cooking** : (n) nấu ăn /ˈkʊkɪŋ/
+21. **messaging friends** : (v) nhắn tin với bạn bè /ˈmɛsɪdʒɪŋ frɛndz/
 
 Tom: Chào, Trang. Ngạc nhiên khi thấy bạn. Điều gì đưa bạn đến đây?
 
@@ -178,27 +178,27 @@ c. snowboarding (trượt tuyết)
 
 **Vocabulary**
 
-1. origami : (n) nghệ thuật gấp giấy /ˌɒrɪˈɡɑːmi/  
-2. paper folding : (n) gấp giấy /ˈpeɪpə ˈfəʊldɪŋ/  
-3. on my own : (phr) một mình /ɒn maɪ əʊn/  
-4. free time : (n) thời gian rảnh /friː taɪm/  
-5. sheets of paper : (n) tờ giấy /ʃiːts əv ˈpeɪpə/  
-6. create almost anything : (v) tạo ra gần như bất cứ thứ gì /kriːˈeɪt ˈɔːlməʊst ˈɛnɪθɪŋ/  
-7. helps me to relax : (v) giúp tôi thư giãn /hɛlps miː tuː rɪˈlæks/  
-8. ski resorts : (n) khu nghỉ dưỡng trượt tuyết /skiː rɪˈzɔːts/  
-9. snowboarding : (v) trượt tuyết bằng ván /ˈsnəʊˌbɔːdɪŋ/  
-10. nearby ski resort : (n) khu nghỉ dưỡng trượt tuyết gần đó /ˈnɪəbaɪ skiː rɪˈzɔːt/  
-11. at weekends : (adv) vào cuối tuần /æt ˈwiːkˌɛndz/  
-12. overall health : (n) sức khỏe tổng thể /ˈəʊvərɔːl hɛlθ/  
-13. balance : (n) cân bằng /ˈbæləns/  
-14. playing sport : (v) chơi thể thao /ˈpleɪɪŋ spɔːt/  
-15. especially: (adv) đặc biệ  /ɪsˈpɛʃəl/  
-16. best friend : (n) bạn thân /bɛst frɛnd/  
-17. lives next door : (v) sống cạnh nhà /lɪvz nɛkst dɔː/  
-18. almost every afternoon : (adv) hầu như mỗi buổi chiều /ˈɔːlməʊst ˈɛvri ˈɑːftəˌnuːn/  
-19. easy sport : (n) môn thể thao dễ dàng /ˈiːzi spɔːt/  
-20. muscle strength : (n) sức mạnh cơ bắp /ˈmʌsl strɛŋθ/  
-21. helps reduce stress : (v) giúp giảm căng thẳng /hɛlps rɪˈdjuːs strɛs/ ​
+1. **origami** : (n) nghệ thuật gấp giấy /ˌɒrɪˈɡɑːmi/
+2. **paper folding** : (n) gấp giấy /ˈpeɪpə ˈfəʊldɪŋ/
+3. **on my own** : (phr) một mình /ɒn maɪ əʊn/
+4. **free time** : (n) thời gian rảnh /friː taɪm/
+5. **sheets of paper** : (n) tờ giấy /ʃiːts əv ˈpeɪpə/
+6. **create almost anything** : (v) tạo ra gần như bất cứ thứ gì /kriːˈeɪt ˈɔːlməʊst ˈɛnɪθɪŋ/
+7. **helps me to relax** : (v) giúp tôi thư giãn /hɛlps miː tuː rɪˈlæks/
+8. **ski resorts** : (n) khu nghỉ dưỡng trượt tuyết /skiː rɪˈzɔːts/
+9. **snowboarding** : (v) trượt tuyết bằng ván /ˈsnəʊˌbɔːdɪŋ/
+10. **nearby ski resort** : (n) khu nghỉ dưỡng trượt tuyết gần đó /ˈnɪəbaɪ skiː rɪˈzɔːt/
+11. **at weekends** : (adv) vào cuối tuần /æt ˈwiːkˌɛndz/
+12. **overall health** : (n) sức khỏe tổng thể /ˈəʊvərɔːl hɛlθ/
+13. **balance** : (n) cân bằng /ˈbæləns/
+14. **playing sport** : (v) chơi thể thao /ˈpleɪɪŋ spɔːt/
+15. **especially** : (adv) đặc biệ  /ɪsˈpɛʃəl/
+16. **best friend** : (n) bạn thân /bɛst frɛnd/
+17. **lives next door** : (v) sống cạnh nhà /lɪvz nɛkst dɔː/
+18. **almost every afternoon** : (adv) hầu như mỗi buổi chiều /ˈɔːlməʊst ˈɛvri ˈɑːftəˌnuːn/
+19. **easy sport** : (n) môn thể thao dễ dàng /ˈiːzi spɔːt/
+20. **muscle strength** : (n) sức mạnh cơ bắp /ˈmʌsl strɛŋθ/
+21. **helps reduce stress** : (v) giúp giảm căng thẳng /hɛlps rɪˈdjuːs strɛs/ ​
 
 Sakura (Kyoto, Nhật Bản): Origami là nghệ thuật gấp giấy. Tôi thích làm điều đó một mình trong thời gian rảnh rỗi. Chỉ với vài tờ giấy, tôi có thể tạo ra hầu hết mọi thứ: hoa, chim hoặc quạt. Làm origami giúp tôi thư giãn.
 
@@ -214,23 +214,23 @@ Lan (Quảng Bình, Việt Nam): Em rất thích chơi thể thao, đặc biệt
 
 **Vocabulary** 
 
-1. spending free time : (v) dành thời gian rảnh /ˈspɛndɪŋ friː taɪm/  
-2. leisure activities : (n) các hoạt động giải trí /ˈlɛʒər ækˈtɪvɪtiz/  
-3. family members : (n) các thành viên trong gia đình /ˈfæmɪli ˈmɛmbəz/  
-4. connect with : (v) kết nối với /kəˈnɛkt wɪð/  
-5. bike ride : (n) đi xe đạp /baɪk raɪd/  
-6. nearby villages : (n) các làng lân cận /ˈnɪəbaɪ ˈvɪlɪʤɪz/  
-7. fresh air : (n) không khí trong lành /frɛʃ ɛə/  
-8. take photos : (v) chụp ảnh /teɪk ˈfəʊtəʊz/  
-9. into cooking : (adj) thích nấu ăn /ˈɪntuː ˈkʊkɪŋ/  
-10. easy recipes : (n) công thức nấu ăn đơn giản /ˈiːzi ˈrɛsɪpiz/  
-11. prepare the ingredients : (v) chuẩn bị nguyên liệu /prɪˈpeə ði ɪnˈɡriːdiənts/  
-12. DIY projects : (n) dự án tự làm /ˌdiː.aɪˈwaɪ ˈprɒʤɛkts/  
-13. make dresses : (v) làm váy /meɪk ˈdrɛsɪz/  
-14. special occasions : (n) các dịp đặc biệt /ˈspɛʃəl əˈkeɪʒənz/  
-15. costume contest : (n) cuộc thi trang phục /ˈkɒstjuːm ˈkɒntɛst/  
-16. first prize : (n) giải nhất /fɜːst praɪz/  
-17. school : (n) trường học /skuːl/ ​
+1. **spending free time** : (v) dành thời gian rảnh /ˈspɛndɪŋ friː taɪm/
+2. **leisure activities** : (n) các hoạt động giải trí /ˈlɛʒər ækˈtɪvɪtiz/
+3. **family members** : (n) các thành viên trong gia đình /ˈfæmɪli ˈmɛmbəz/
+4. **connect with** : (v) kết nối với /kəˈnɛkt wɪð/
+5. **bike ride** : (n) đi xe đạp /baɪk raɪd/
+6. **nearby villages** : (n) các làng lân cận /ˈnɪəbaɪ ˈvɪlɪʤɪz/
+7. **fresh air** : (n) không khí trong lành /frɛʃ ɛə/
+8. **take photos** : (v) chụp ảnh /teɪk ˈfəʊtəʊz/
+9. **into cooking** : (adj) thích nấu ăn /ˈɪntuː ˈkʊkɪŋ/
+10. **easy recipes** : (n) công thức nấu ăn đơn giản /ˈiːzi ˈrɛsɪpiz/
+11. **prepare the ingredients** : (v) chuẩn bị nguyên liệu /prɪˈpeə ði ɪnˈɡriːdiənts/
+12. **DIY projects** : (n) dự án tự làm /ˌdiː.aɪˈwaɪ ˈprɒʤɛkts/
+13. **make dresses** : (v) làm váy /meɪk ˈdrɛsɪz/
+14. **special occasions** : (n) các dịp đặc biệt /ˈspɛʃəl əˈkeɪʒənz/
+15. **costume contest** : (n) cuộc thi trang phục /ˈkɒstjuːm ˈkɒntɛst/
+16. **first prize** : (n) giải nhất /fɜːst praɪz/
+17. **school** : (n) trường học /skuːl/ ​
 
 Một số thanh thiếu niên thích dành thời gian rảnh rỗi với bạn bè của họ. Những người khác thích làm các hoạt động giải trí với các thành viên gia đình của họ. Tôi thích dành thời gian cho gia đình vì đó là cách tuyệt vời để kết nối với họ.
 
@@ -265,28 +265,28 @@ Vào cuối tuần, chúng tôi thường đi xe đạp. Chúng tôi đạp xe �
 
 **Vocabulary:** 
 
-1. have free time : (v) có thời gian rảnh /hæv friː taɪm/  
-2. at the weekend : (adv) vào cuối tuần /æt ðə ˈwiːkˌɛnd/  
-3. spend it : (v) sử dụng nó /spɛnd ɪt/  
-4. connect with family : (v) kết nối với gia đình /kəˈnɛkt wɪð ˈfæmɪli/  
-5. do puzzles : (v) giải câu đố /duː ˈpʌzlz/  
-6. play board games : (v) chơi trò chơi cờ bàn /pleɪ bɔːd ɡeɪmz/  
-7. go camping : (v) đi cắm trại /ɡəʊ ˈkæmpɪŋ/  
-8. spend Sundays with friends : (v) dành Chủ Nhật với bạn bè /spɛnd ˈsʌndɪz wɪð frɛndz/  
-9. group of friends : (n) nhóm bạn /ɡruːp əv frɛndz/  
-10. invite to my house : (v) mời đến nhà tôi /ɪnˈvaɪt tuː maɪ haʊs/  
-11. cook favourite food : (v) nấu món ăn yêu thích /kʊk ˈfeɪvərɪt fuːd/  
-12. watch a video : (v) xem video /wɒʧ ə ˈvɪdɪəʊ/  
-13. better than cinema : (adj) tốt hơn xem phim /ˈbɛtə ðæn ˈsɪnɪmə/  
-14. do outdoor activities : (v) làm các hoạt động ngoài trời /duː ˈaʊtdɔːr ækˈtɪvɪtiz/  
-15. spend time outdoors : (v) dành thời gian ngoài trời /spɛnd taɪm ˈaʊtdɔːz/  
-16. go to the park : (v) đi đến công viên /ɡəʊ tuː ðə pɑːk/  
-17. play volleyball : (v) chơi bóng chuyền /pleɪ ˈvɒlibɔːl/  
-18. skateboard : (v) trượt ván /ˈskeɪtbɔːd/  
-19. stay in shape : (v) giữ dáng /steɪ ɪn ʃeɪp/  
-20. bike ride around city : (n) đi xe đạp quanh thành phố /baɪk raɪd əˈraʊnd ˈsɪti/  
-21. see different places : (v) thấy những nơi khác nhau /siː ˈdɪfrənt ˈpleɪsɪz/  
-22. interview : (v) phỏng vấn /ˈɪntəvjuː/
+1. **have free time** : (v) có thời gian rảnh /hæv friː taɪm/
+2. **at the weekend** : (adv) vào cuối tuần /æt ðə ˈwiːkˌɛnd/
+3. **spend it** : (v) sử dụng nó /spɛnd ɪt/
+4. **connect with family** : (v) kết nối với gia đình /kəˈnɛkt wɪð ˈfæmɪli/
+5. **do puzzles** : (v) giải câu đố /duː ˈpʌzlz/
+6. **play board games** : (v) chơi trò chơi cờ bàn /pleɪ bɔːd ɡeɪmz/
+7. **go camping** : (v) đi cắm trại /ɡəʊ ˈkæmpɪŋ/
+8. **spend Sundays with friends** : (v) dành Chủ Nhật với bạn bè /spɛnd ˈsʌndɪz wɪð frɛndz/
+9. **group of friends** : (n) nhóm bạn /ɡruːp əv frɛndz/
+10. **invite to my house** : (v) mời đến nhà tôi /ɪnˈvaɪt tuː maɪ haʊs/
+11. **cook favourite food** : (v) nấu món ăn yêu thích /kʊk ˈfeɪvərɪt fuːd/
+12. **watch a video** : (v) xem video /wɒʧ ə ˈvɪdɪəʊ/
+13. **better than cinema** : (adj) tốt hơn xem phim /ˈbɛtə ðæn ˈsɪnɪmə/
+14. **do outdoor activities** : (v) làm các hoạt động ngoài trời /duː ˈaʊtdɔːr ækˈtɪvɪtiz/
+15. **spend time outdoors** : (v) dành thời gian ngoài trời /spɛnd taɪm ˈaʊtdɔːz/
+16. **go to the park** : (v) đi đến công viên /ɡəʊ tuː ðə pɑːk/
+17. **play volleyball** : (v) chơi bóng chuyền /pleɪ ˈvɒlibɔːl/
+18. **skateboard** : (v) trượt ván /ˈskeɪtbɔːd/
+19. **stay in shape** : (v) giữ dáng /steɪ ɪn ʃeɪp/
+20. **bike ride around city** : (n) đi xe đạp quanh thành phố /baɪk raɪd əˈraʊnd ˈsɪti/
+21. **see different places** : (v) thấy những nơi khác nhau /siː ˈdɪfrənt ˈpleɪsɪz/
+22. **interview** : (v) phỏng vấn /ˈɪntəvjuː/
 
 **Bài 3 trang 15**
 

@@ -24,112 +24,112 @@ Nam
 <summary>📝 Word-by-Word Analysis</summary>
 
 ```
-1. Hi: (interjection) Chào /haɪ/
-2. Mum: (n) Mẹ /mʌm/
-3. and: (conj) và /ænd/
-4. Dad: (n) Bố /dæd/
-5. Here: (adv) Ở đây /hɪər/
-6. I: (pron) Tôi /aɪ/
-7. am: (v) là /æm/
-8. at: (prep) tại /æt/
-9. the: (det) cái /ðə/
-10. Superb: (adj) Tuyệt vời /suːˈpɜːrb/
-11. Summer: (n) Mùa hè /ˈsʌmər/
-12. Camp: (n) Trại /kæmp/
-13. Mr: (n) Ông /ˈmɪstər/
-14. Black: (n) Đen /blæk/
-15. asked: (v) hỏi /æskt/
-16. us: (pron) chúng ta /ʌs/
-17. to: (prep) để /tuː/
-18. write: (v) viết /raɪt/
-19. emails: (n) thư điện tử /ˈiːmeɪlz/
-20. in: (prep) trong /ɪn/
-21. English: (n) Tiếng Anh /ˈɪŋɡlɪʃ/
-22. Wow: (interjection) Chà /waʊ/
-23. everything: (pron) mọi thứ /ˈevriθɪŋ/
-24. here: (adv) ở đây /hɪər/
-25. is: (v) là /ɪz/
-26. I: (pron) Tôi /aɪ/
-27. have: (v) có /hæv/
-28. some: (det) một vài /sʌm/
-29. new: (adj) mới /njuː/
-30. friends: (n) bạn bè /frendz/
-31. Jimmy: (n) Jimmy /ˈdʒɪmi/
-32. Phong: (n) Phong /fɔːŋ/
-33. and: (conj) và /ænd/
-34. Nhung: (n) Nhung /nʊŋ/
-35. They're: (contraction) Họ là /ðeər/
-36. in: (prep) trong /ɪn/
-37. the: (det) cái /ðə/
-38. photo: (n) ảnh /ˈfəʊtəʊ/
-39. Jimmy: (n) Jimmy /ˈdʒɪmi/
-40. has: (v) có /hæz/
-41. blonde: (adj) vàng hoe /blɒnd/
-42. hair: (n) tóc /hɛər/
-43. and: (conj) và /ænd/
-44. blue: (adj) xanh da trời /bluː/
-45. eyes: (n) mắt /aɪz/
-46. He's: (contraction) Anh ấy là /hiːz/
-47. clever: (adj) thông minh /ˈklevər/
-48. and: (conj) và /ænd/
-49. creative: (adj) sáng tạo /kriˈeɪtɪv/
-50. He: (pron) Anh ấy /hiː/
-51. likes: (v) thích /laɪks/
-52. taking: (v) chụp /ˈteɪkɪŋ/
-53. photos: (n) ảnh /ˈfəʊtəʊz/
-54. Phong: (n) Phong /fɔːŋ/
-55. is: (v) là /ɪz/
-56. the: (det) cái /ðə/
-57. tall: (adj) cao /tɔːl/
-58. boy: (n) cậu bé /bɔɪ/
-59. He's: (contraction) Anh ấy là /hiːz/
-60. sporty: (adj) thể thao /ˈspɔːrti/
-61. and: (conj) và /ænd/
-62. plays: (v) chơi /pleɪz/
-63. basketball: (n) bóng rổ /ˈbɑːskɪtbɔːl/
-64. very: (adv) rất /ˈveri/
-65. well: (adv) tốt /wel/
-66. Nhung: (n) Nhung /nʊŋ/
-67. has: (v) có /hæz/
-68. curly: (adj) xoăn /ˈkɜːrli/
-69. black: (adj) đen /blæk/
-70. hair: (n) tóc /hɛər/
-71. She's: (contraction) Cô ấy là /ʃiːz/
-72. kind: (adj) tốt bụng /kaɪnd/
-73. She: (pron) Cô ấy /ʃiː/
-74. shared: (v) chia sẻ /ʃeəd/
-75. her: (pron) của cô ấy /hɜːr/
-76. lunch: (n) bữa trưa /lʌntʃ/
-77. with: (prep) với /wɪð/
-78. me: (pron) tôi /miː/
-79. today: (adv) hôm nay /təˈdeɪ/
-80. We're: (contraction) Chúng ta là /wɪər/
-81. having: (v) có /ˈhævɪŋ/
-82. fun: (n) vui vẻ /fʌn/
-83. Jimmy's: (n) của Jimmy /ˈdʒɪmiz/
-84. taking: (v) chụp /ˈteɪkɪŋ/
-85. photos: (n) ảnh /ˈfəʊtəʊz/
-86. of: (prep) của /ɒv/
-87. me: (pron) tôi /miː/
-88. Phong’s: (n) của Phong /fɔːŋz/
-89. reading: (v) đọc /ˈriːdɪŋ/
-90. a: (det) một /ə/
-91. comic: (n) truyện tranh /ˈkɒmɪk/
-92. book: (n) sách /bʊk/
-93. and: (conj) và /ænd/
-94. Nhung’s: (n) của Nhung /nʊŋz/
-95. playing: (v) chơi /ˈpleɪɪŋ/
-96. the: (det) cái /ðə/
-97. violin: (n) vĩ cầm /ˈvaɪəlɪn/
-98. I: (pron) Tôi /aɪ/
-99. must: (v) phải /mʌst/
-100. go: (v) đi /ɡəʊ/
-101. now: (adv) bây giờ /naʊ/
-102. Please: (adv) Làm ơn /pliːz/
-103. write: (v) viết /raɪt/
-104. soon: (adv) sớm /suːn/
-105. Love: (n) Yêu /lʌv/
-106. Nam: (n) Nam /næm/
+1. **Hi** : (interjection) Chào /haɪ/
+2. **Mum** : (n) Mẹ /mʌm/
+3. **and** : (conj) và /ænd/
+4. **Dad** : (n) Bố /dæd/
+5. **Here** : (adv) Ở đây /hɪər/
+6. **I** : (pron) Tôi /aɪ/
+7. **am** : (v) là /æm/
+8. **at** : (prep) tại /æt/
+9. **the** : (det) cái /ðə/
+10. **Superb** : (adj) Tuyệt vời /suːˈpɜːrb/
+11. **Summer** : (n) Mùa hè /ˈsʌmər/
+12. **Camp** : (n) Trại /kæmp/
+13. **Mr** : (n) Ông /ˈmɪstər/
+14. **Black** : (n) Đen /blæk/
+15. **asked** : (v) hỏi /æskt/
+16. **us** : (pron) chúng ta /ʌs/
+17. **to** : (prep) để /tuː/
+18. **write** : (v) viết /raɪt/
+19. **emails** : (n) thư điện tử /ˈiːmeɪlz/
+20. **in** : (prep) trong /ɪn/
+21. **English** : (n) Tiếng Anh /ˈɪŋɡlɪʃ/
+22. **Wow** : (interjection) Chà /waʊ/
+23. **everything** : (pron) mọi thứ /ˈevriθɪŋ/
+24. **here** : (adv) ở đây /hɪər/
+25. **is** : (v) là /ɪz/
+26. **I** : (pron) Tôi /aɪ/
+27. **have** : (v) có /hæv/
+28. **some** : (det) một vài /sʌm/
+29. **new** : (adj) mới /njuː/
+30. **friends** : (n) bạn bè /frendz/
+31. **Jimmy** : (n) Jimmy /ˈdʒɪmi/
+32. **Phong** : (n) Phong /fɔːŋ/
+33. **and** : (conj) và /ænd/
+34. **Nhung** : (n) Nhung /nʊŋ/
+35. **They're** : (contraction) Họ là /ðeər/
+36. **in** : (prep) trong /ɪn/
+37. **the** : (det) cái /ðə/
+38. **photo** : (n) ảnh /ˈfəʊtəʊ/
+39. **Jimmy** : (n) Jimmy /ˈdʒɪmi/
+40. **has** : (v) có /hæz/
+41. **blonde** : (adj) vàng hoe /blɒnd/
+42. **hair** : (n) tóc /hɛər/
+43. **and** : (conj) và /ænd/
+44. **blue** : (adj) xanh da trời /bluː/
+45. **eyes** : (n) mắt /aɪz/
+46. **He's** : (contraction) Anh ấy là /hiːz/
+47. **clever** : (adj) thông minh /ˈklevər/
+48. **and** : (conj) và /ænd/
+49. **creative** : (adj) sáng tạo /kriˈeɪtɪv/
+50. **He** : (pron) Anh ấy /hiː/
+51. **likes** : (v) thích /laɪks/
+52. **taking** : (v) chụp /ˈteɪkɪŋ/
+53. **photos** : (n) ảnh /ˈfəʊtəʊz/
+54. **Phong** : (n) Phong /fɔːŋ/
+55. **is** : (v) là /ɪz/
+56. **the** : (det) cái /ðə/
+57. **tall** : (adj) cao /tɔːl/
+58. **boy** : (n) cậu bé /bɔɪ/
+59. **He's** : (contraction) Anh ấy là /hiːz/
+60. **sporty** : (adj) thể thao /ˈspɔːrti/
+61. **and** : (conj) và /ænd/
+62. **plays** : (v) chơi /pleɪz/
+63. **basketball** : (n) bóng rổ /ˈbɑːskɪtbɔːl/
+64. **very** : (adv) rất /ˈveri/
+65. **well** : (adv) tốt /wel/
+66. **Nhung** : (n) Nhung /nʊŋ/
+67. **has** : (v) có /hæz/
+68. **curly** : (adj) xoăn /ˈkɜːrli/
+69. **black** : (adj) đen /blæk/
+70. **hair** : (n) tóc /hɛər/
+71. **She's** : (contraction) Cô ấy là /ʃiːz/
+72. **kind** : (adj) tốt bụng /kaɪnd/
+73. **She** : (pron) Cô ấy /ʃiː/
+74. **shared** : (v) chia sẻ /ʃeəd/
+75. **her** : (pron) của cô ấy /hɜːr/
+76. **lunch** : (n) bữa trưa /lʌntʃ/
+77. **with** : (prep) với /wɪð/
+78. **me** : (pron) tôi /miː/
+79. **today** : (adv) hôm nay /təˈdeɪ/
+80. **We're** : (contraction) Chúng ta là /wɪər/
+81. **having** : (v) có /ˈhævɪŋ/
+82. **fun** : (n) vui vẻ /fʌn/
+83. **Jimmy's** : (n) của Jimmy /ˈdʒɪmiz/
+84. **taking** : (v) chụp /ˈteɪkɪŋ/
+85. **photos** : (n) ảnh /ˈfəʊtəʊz/
+86. **of** : (prep) của /ɒv/
+87. **me** : (pron) tôi /miː/
+88. **Phong’s** : (n) của Phong /fɔːŋz/
+89. **reading** : (v) đọc /ˈriːdɪŋ/
+90. **a** : (det) một /ə/
+91. **comic** : (n) truyện tranh /ˈkɒmɪk/
+92. **book** : (n) sách /bʊk/
+93. **and** : (conj) và /ænd/
+94. **Nhung’s** : (n) của Nhung /nʊŋz/
+95. **playing** : (v) chơi /ˈpleɪɪŋ/
+96. **the** : (det) cái /ðə/
+97. **violin** : (n) vĩ cầm /ˈvaɪəlɪn/
+98. **I** : (pron) Tôi /aɪ/
+99. **must** : (v) phải /mʌst/
+100. **go** : (v) đi /ɡəʊ/
+101. **now** : (adv) bây giờ /naʊ/
+102. **Please** : (adv) Làm ơn /pliːz/
+103. **write** : (v) viết /raɪt/
+104. **soon** : (adv) sớm /suːn/
+105. **Love** : (n) Yêu /lʌv/
+106. **Nam** : (n) Nam /næm/
 ```
 
 </details>

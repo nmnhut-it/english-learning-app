@@ -13,8 +13,8 @@
 **Bài 2 trang 112**  
 
 1. low energy light bulbs  
-2. electrical appliances: thiết bị điện  
-3. renewable energy sources: nguồn năng lượng tái tạo được   
+2. **electrical appliances** : thiết bị điện
+3. **renewable energy sources** : nguồn năng lượng tái tạo được
 4. solar energy  
 5. hot water 
 

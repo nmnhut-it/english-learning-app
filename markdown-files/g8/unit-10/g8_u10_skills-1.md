@@ -6,20 +6,20 @@
 
 **Vocabulary** 
 
-1. language barrier: rào cản ngôn ngữ /ˈlæŋɡwɪdʒ ˌbæriə/  
-2. telepathy: (n) thần giao cách cảm /təˈlepəθi/  
-3. Technology Club: câu lạc bộ công nghệ /tekˈnɒlədʒi klʌb/  
-4. keep in contact: giữ liên lạc /kiːp ɪn ˈkɒntækt/  
-5. text each other: nhắn tin cho nhau /tekst iːtʃ ˈʌðə/  
-6. in person: trực tiếp /ɪn ˈpɜːsn/  
-7. voice message: tin nhắn thoại /vɔɪs ˈmesɪdʒ/  
-8. via: (prep) thông qua, qua /ˈvaɪə/  
-9. advanced: (adj) tiên tiến, cao cấp /ədˈvɑːnst/  
-10. ability: (n) khả năng /əˈbɪləti/  
-11. thought: (n) suy nghĩ, ý nghĩ /θɔːt/  
-12. read one's mind: đọc suy nghĩ của ai /riːd wʌnz maɪnd/  
-13. take advantage of: tận dụng, lợi dụng /teɪk ədˈvɑːntɪdʒ ɒv/  
-14. lazy: (adj) lười biếng /ˈleɪzi/
+1. **language barrier** : rào cản ngôn ngữ /ˈlæŋɡwɪdʒ ˌbæriə/
+2. **telepathy** : (n) thần giao cách cảm /təˈlepəθi/
+3. **Technology Club** : câu lạc bộ công nghệ /tekˈnɒlədʒi klʌb/
+4. **keep in contact** : giữ liên lạc /kiːp ɪn ˈkɒntækt/
+5. **text each other** : nhắn tin cho nhau /tekst iːtʃ ˈʌðə/
+6. **in person** : trực tiếp /ɪn ˈpɜːsn/
+7. **voice message** : tin nhắn thoại /vɔɪs ˈmesɪdʒ/
+8. **via** : (prep) thông qua, qua /ˈvaɪə/
+9. **advanced** : (adj) tiên tiến, cao cấp /ədˈvɑːnst/
+10. **ability** : (n) khả năng /əˈbɪləti/
+11. **thought** : (n) suy nghĩ, ý nghĩ /θɔːt/
+12. **read one's mind** : đọc suy nghĩ của ai /riːd wʌnz maɪnd/
+13. **take advantage of** : tận dụng, lợi dụng /teɪk ədˈvɑːntɪdʒ ɒv/
+14. **lazy** : (adj) lười biếng /ˈleɪzi/
 
 TELEPATHY \- THẦN GIAO CÁCH CẢM
 

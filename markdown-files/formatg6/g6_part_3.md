@@ -262,7 +262,7 @@ Chủ từ là You/we/they/nhiều người/ nhiều vật --> are
 
 **Bài 4 trang 30** 
 
-1. Câu 1: có “every” → htđ → doesn’t walk   
+1. **Câu 1** : có “every” → htđ → doesn’t walk
    Câu 2: có “sometimes” → htđ → cycles.   
 2. Có “Look\!” (từ thu hút sự chú ý, hành động phải đang xảy ra thì mới thu hút được sự chú ý) → httd → is …. playing.   
 3. Có “every” → htđ → Do  ….. study …?   
@@ -363,7 +363,7 @@ X is beautiful. She is tall and thin. She has long hair. She has big round eyes.
 23. **soon** (adv) sớm /suːn/  
 24. **please** (v) vui lòng /pliːz/  
 25. **us**: chúng tôi /ə.z/   
-26. **in**: ở, trong, bằng 
+26. **in** : ở, trong, bằng
 
 -----
 Hi Mum and Dad,
@@ -591,11 +591,11 @@ My best friend is ……. . He/she is tall and thin. He/she has short/long black
 
 **Bài 4 trang 36** 
 
-1. friendly: thân thiện   
-2. kitchen: nhà bếp   
-3. creative: sáng tạo   
-4. ears: tai   
-5. cheek: má 
+1. **friendly** : thân thiện
+2. **kitchen** : nhà bếp
+3. **creative** : sáng tạo
+4. **ears** : tai
+5. **cheek** : má
 
 **Bài 5 trang 36: Nhìn vào bức tranh và chọn đáp án đúng** 
 
@@ -613,19 +613,19 @@ My best friend is ……. . He/she is tall and thin. He/she has short/long black
 
 **Bài 6: Chia thì hiện tại đơn hoặc thì hiện tại tiếp diễn** 
 
-1. chủ từ: it → số ít   
+1. **chủ từ** : it → số ít
    câu có ‘now’ → httd   
    —\> is raining   
-2. chủ từ: you → số nhiều   
+2. **chủ từ** : you → số nhiều
    câu có ‘every day’ → hiện tại đơn  
    → do … have   
-3. chủ từ: she   
+3. **chủ từ** : she
    câu có ‘now’ → httd   
    → is ….. studying   
-4. chủ từ: my dog → số ít   
+4. **chủ từ** : my dog → số ít
    câu chỉ sở thích → hiện tại đơn   
    → likes  
-5. chủ từ: my mother → số ít   
+5. **chủ từ** : my mother → số ít
    câu có ‘now’ → httd   
    → isn’t cooking \- is reading
 

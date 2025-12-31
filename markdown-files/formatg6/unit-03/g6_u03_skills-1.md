@@ -29,7 +29,7 @@
 23. **soon** (adv) sớm /suːn/  
 24. **please** (v) vui lòng /pliːz/  
 25. **us**: chúng tôi /ə.z/   
-26. **in**: ở, trong, bằng 
+26. **in** : ở, trong, bằng
 
 -----
 Hi Mum and Dad,

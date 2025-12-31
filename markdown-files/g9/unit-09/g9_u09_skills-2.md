@@ -6,20 +6,20 @@
 
 **Vocabulary** 
 
-1. look up words in the dictionary: tra từ trong từ điển /lʊk ʌp wɜːdz ɪn ðə ˈdɪkʃənri/  
-2. find it challenging to \+ V: thấy khó khăn để làm gì /faɪnd ɪt ˈtʃælɪndʒɪŋ tuː/  
-3. vocabulary: (n) từ vựng /vəˈkæbjʊləri/  
-4. kind: (n) loại, kiểu /kaɪnd/  
-5. guess: (v) đoán, phỏng đoán /ɡes/  
-6. sentence: (n) câu /ˈsentəns/  
-7. whenever: (conj) bất cứ khi nào /wenˈevə/  
-8. pronunciation: (n) cách phát âm /prəˌnʌnsiˈeɪʃn/  
-9. understand \- understood \- understood: (v) hiểu /ˌʌndəˈstænd \- ˌʌndəˈstʊd \- ˌʌndəˈstʊd/  
-10. have the habit of \+ Ving: có thói quen làm gì /hæv ðə ˈhæbɪt ɒv/  
-11. revise: (v) ôn tập, sửa đổi /rɪˈvaɪz/  
-12. take opportunity to V0: tận dụng cơ hội để làm gì /teɪk ˌɒpəˈtjuːnəti tuː/  
-13. quite \+ adj: khá, tương đối /kwaɪt/  
-14. confident: (adj) tự tin /ˈkɒnfɪdənt/
+1. **look up words in the dictionary** : tra từ trong từ điển /lʊk ʌp wɜːdz ɪn ðə ˈdɪkʃənri/
+2. **find it challenging to \+ V** : thấy khó khăn để làm gì /faɪnd ɪt ˈtʃælɪndʒɪŋ tuː/
+3. **vocabulary** : (n) từ vựng /vəˈkæbjʊləri/
+4. **kind** : (n) loại, kiểu /kaɪnd/
+5. **guess** : (v) đoán, phỏng đoán /ɡes/
+6. **sentence** : (n) câu /ˈsentəns/
+7. **whenever** : (conj) bất cứ khi nào /wenˈevə/
+8. **pronunciation** : (n) cách phát âm /prəˌnʌnsiˈeɪʃn/
+9. **understand \- understood \- understood** : (v) hiểu /ˌʌndəˈstænd \- ˌʌndəˈstʊd \- ˌʌndəˈstʊd/
+10. **have the habit of \+ Ving** : có thói quen làm gì /hæv ðə ˈhæbɪt ɒv/
+11. **revise** : (v) ôn tập, sửa đổi /rɪˈvaɪz/
+12. **take opportunity to V0** : tận dụng cơ hội để làm gì /teɪk ˌɒpəˈtjuːnəti tuː/
+13. **quite \+ adj** : khá, tương đối /kwaɪt/
+14. **confident** : (adj) tự tin /ˈkɒnfɪdənt/
 
 1\. F	2\. F	3\. T	4\. T
 
@@ -48,11 +48,11 @@ When learning English, I find remembering vocabulary and grammar the most challe
 
 **Bài 2 trang 100** 
 
-1. go over: xem lại, ôn lại   
-2. variety (số nhiều varieties): nhiều loại khác nhau   
-3. into \+ nơi: vào …   
-4. translate: dịch   
-5. pick up \+ từ/kiến thức: học lóm được … 
+1. **go over** : xem lại, ôn lại
+2. **variety (số nhiều varieties)** : nhiều loại khác nhau
+3. **into \+ nơi** : vào …
+4. **translate** : dịch
+5. **pick up \+ từ/kiến thức** : học lóm được …
 
 **Bài 3 trang 100** 
 

@@ -3,27 +3,27 @@
 **COMMUNICATION**   
 **Vocabulary** 
 
-1. Can I \+ V0 ….?: Tôi có thể … không? /kæn aɪ/  
+1. **Can I \+ V0 ….?** : Tôi có thể … không? /kæn aɪ/
 2. No, you can't: Không, bạn không thể /nəʊ, juː kɑːnt/ Sure, go ahead: Dĩ nhiên rồi, cứ làm đi /ʃɔː, ɡəʊ əˈhed/  
 3. May I/we \+ V0 …?: Chúng tôi có thể … không? /meɪ aɪ/wiː/  
-4. permission: (n) quyền, phép /pəˈmɪʃn/  
-5. deadline: (n) hạn chót /ˈdedlaɪn/  
-6. submit: (v) nộp /səbˈmɪt/  
-7. be located off the coast of: nằm ngoài khơi bờ biển của /bi ləʊˈkeɪtɪd ɒf ðə kəʊst əv/  
-8. be formed by: được hình thành bởi /bi fɔːmd baɪ/  
-9. eruption: (n) sự phun trào /ɪˈrʌpʃn/  
-10. volcano: (n) núi lửa /vɒlˈkeɪnəʊ/  
-11. rank: (v) xếp hạng /ræŋk/  
-12. receive: (v) nhận /rɪˈsiːv/  
-13. adventurer: (n) nhà thám hiểm /ədˈventʃərə/  
-14. cover: (v) bao phủ /ˈkʌvə/  
-15. square kilometer: kilômét vuông /skweə ˈkɪləmiːtə/  
-16. sand dune: (n) đụn cát /sænd djuːn/  
-17. nomadic: (adj) du mục /nəʊˈmædɪk/  
-18. camel: (n) lạc đà /ˈkæml/  
-19. deep: (adj) sâu /diːp/  
-20. wide: (adj) rộng /waɪd/  
-21. magnificent: (adj) tráng lệ, hùng vĩ /mæɡˈnɪfɪsnt/  
+4. **permission** : (n) quyền, phép /pəˈmɪʃn/
+5. **deadline** : (n) hạn chót /ˈdedlaɪn/
+6. **submit** : (v) nộp /səbˈmɪt/
+7. **be located off the coast of** : nằm ngoài khơi bờ biển của /bi ləʊˈkeɪtɪd ɒf ðə kəʊst əv/
+8. **be formed by** : được hình thành bởi /bi fɔːmd baɪ/
+9. **eruption** : (n) sự phun trào /ɪˈrʌpʃn/
+10. **volcano** : (n) núi lửa /vɒlˈkeɪnəʊ/
+11. **rank** : (v) xếp hạng /ræŋk/
+12. **receive** : (v) nhận /rɪˈsiːv/
+13. **adventurer** : (n) nhà thám hiểm /ədˈventʃərə/
+14. **cover** : (v) bao phủ /ˈkʌvə/
+15. **square kilometer** : kilômét vuông /skweə ˈkɪləmiːtə/
+16. **sand dune** : (n) đụn cát /sænd djuːn/
+17. **nomadic** : (adj) du mục /nəʊˈmædɪk/
+18. **camel** : (n) lạc đà /ˈkæml/
+19. **deep** : (adj) sâu /diːp/
+20. **wide** : (adj) rộng /waɪd/
+21. **magnificent** : (adj) tráng lệ, hùng vĩ /mæɡˈnɪfɪsnt/
     
 
 **Bài 3 trang 76** 
@@ -69,10 +69,10 @@ Dãy Dolomites là một dãy núi ở Ý. Nó đã được công nhận là Di
 
 Dãy Dolomites là một nơi hùng vĩ. Chúng được đánh giá rộng rãi là một trong những cảnh quan núi hấp dẫn nhất thế giới. Có những vách đá gồ ghề, những đỉnh núi sắc nhọn, những thung lũng hẹp và sâu, cùng tuyết trắng phủ trên đỉnh núi. Phong cảnh tự nhiên của chúng thu hút du khách từ nhiều nơi trên thế giới.
 
-1. consider → c: cân nhắc   
-2. peak → d: đỉnh nhọn   
+1. **consider → c** : cân nhắc
+2. **peak → d** : đỉnh nhọn
 3. majestic → hùng vĩ → a   
-4. occur: xảy ra → b
+4. **occur** : xảy ra → b
 
 hesitate: cân nhắc 
 

@@ -90,8 +90,8 @@ Types of markets | Features
  | e. The weather does not affect shopping (Thời tiết không ảnh hưởng đến việc mua sắm)
 
 **Answer:**
-1. Open-air market: a, c
-2. Supermarket: b, d, e
+1. **Open-air market** : a, c
+2. **Supermarket** : b, d, e
 
 **Bài 4**: Complete the sentences with the words and phrases from the box.
 (Hoàn thành các câu với các từ và cụm từ trong hộp)
@@ -258,12 +258,12 @@ clasp | waste
 **Định nghĩa:** Trạng từ tần suất dùng để mô tả mức độ thường xuyên của một hành động.
 
 **Các trạng từ tần suất phổ biến:**
-- **always** (100%): luôn luôn
-- **usually** (80%): thường xuyên  
-- **often** (60%): thường
-- **sometimes** (40%): thỉnh thoảng
-- **rarely** (20%): hiếm khi
-- **never** (0%): không bao giờ
+1. **always** : (100%) luôn luôn
+2. **usually** : (80%) thường xuyên
+3. **often** : (60%) thường
+4. **sometimes** : (40%) thỉnh thoảng
+5. **rarely** : (20%) hiếm khi
+6. **never** : (0%) không bao giờ
 
 **Vị trí:**
 1. **Trước động từ thường:**
@@ -335,7 +335,7 @@ always | often | sometimes | rarely | never
 1. We'll go to Costco to return this suitcase. _____
 2. Look! We have a whole afternoon for shopping on the second day of our tour. _____
 3. The summer sales end next Sunday. _____
-4. Listen to the announcement. The train doesn't leave till 12:00. Let's get something to drink. _____
+4. **Listen to the announcement. The train doesn't leave till 12** : 00. Let's get something to drink. _____
 5. I'm too busy today, so we'll go shopping on Tuesday. _____
 
 **Answer:**
@@ -351,7 +351,7 @@ always | often | sometimes | rarely | never
 1. The supermarket in my neighbourhood (opens / will open) longer hours than the one in yours.
 2. Don't worry. I (make / will make) a shopping list, and you just give it to the shop owner.
 3. We (don't buy / won't buy) a birthday cake this year. We can bake one at home instead.
-4. The bus schedule says that there (is / will be) a bus to Aeon at 10:05.
+4. **The bus schedule says that there (is / will be) a bus to Aeon at 10** : 05.
 5. Look at the advertisement. (Does / Will) the big sale start next Friday?
 
 **Answer:**
@@ -417,7 +417,7 @@ Tôi xin lỗi về điều đó. Tôi sẽ gửi cho bạn một cái khác.
 (Một nhân viên ở cửa hàng không nhiệt tình.)
 
 **Example answers:**
-1. A: I'm calling to make a complaint about the can of fish I bought at the shop. It expired five days ago.
+1. **A** : I'm calling to make a complaint about the can of fish I bought at the shop. It expired five days ago.
    B: Well... Let me check it.
    A: I'm waiting.
    B: I'm sorry about that. I'll send you another one.
@@ -440,9 +440,9 @@ Tôi xin lỗi về điều đó. Tôi sẽ gửi cho bạn một cái khác.
 (Làm việc theo cặp. Lần lượt hỏi và trả lời về điều mà mỗi người trong bài 3 thích về địa điểm mua sắm của họ)
 
 **Answer:**
-1. Mai: She likes homegrown and home-made products.
-2. Nam: It saves time.
-3. Alice: The goods are cheap.
+1. **Mai** : She likes homegrown and home-made products.
+2. **Nam** : It saves time.
+3. **Alice** : The goods are cheap.
 
 **Bài 5**: Work in groups. Share your favourite shopping place with your group.
 (Làm việc theo nhóm. Chia sẻ địa điểm mua sắm yêu thích của bạn với nhóm)
@@ -859,7 +859,7 @@ Internet access | offline | home-grown | bargain | on sale
 2. - Mum, what time (be) _____ the show tonight?
    - Let me check.
 3. We (can / use) _____ these vouchers for the next shopping.
-4. The announcement says that the sale (last) _____ for just two hours, from 17:00 to 19:00 tomorrow.
+4. **The announcement says that the sale (last) _____ for just two hours, from 17** : 00 to 19:00 tomorrow.
 5. We (not / have) _____ home economics next semester. We have music instead.
 
 **Answer:**

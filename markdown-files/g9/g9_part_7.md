@@ -2,23 +2,23 @@ UNIT 8: TOURISM**
 **GETTING STARTED**   
 **Vocabulary** 
 
-1. tan: (n) màu da rám nắng; (v) rám nắng, sạm da /tæn/  
-2. get back from Bali: trở về từ Bali /ɡet bæk frəm ˈbɑːli/  
-3. fly \- flew \- flown: (v) bay /flaɪ \- fluː \- fləʊn/  
-4. awesome: (adj) tuyệt vời, kinh ngạc, ấn tượng /ˈɔːsəm/  
-5. ideal: (adj) lý tưởng, hoàn hảo /aɪˈdɪəl/  
-6. destination: (n) điểm đến, nơi đến /ˌdestɪˈneɪʃn/  
-7. holidaymaker: (n) người đi nghỉ, du khách /ˈhɒlɪdeɪˌmeɪkə(r)/  
-8. especially: (adv) đặc biệt, nhất là /ɪˈspeʃəli/  
-9. terraced fields: ruộng bậc thang /ˈterəst fiːldz/  
-10. be able to: có thể, có khả năng /bi ˈeɪbl tə/  
-11. rent: (v) thuê; (n) tiền thuê /rent/  
-12. air ticket: vé máy bay /eə ˈtɪkɪt/  
-13. cheap: (a dj) rẻ, giá thấp /tʃiːp/  
-14. accommodation: (n) chỗ ở, nơi ở /əˌkɒməˈdeɪʃn/  
-15. domestic: (adj) nội địa, trong nước; thuộc về gia đình /dəˈmestɪk/  
-16. international: (adj) quốc tế /ˌɪntəˈnæʃnəl/  
-17. perfect: (adj) hoàn hảo, hoàn chỉnh; (v) hoàn thiện /ˈpɜːfɪkt/
+1. **tan** : (n) màu da rám nắng; (v) rám nắng, sạm da /tæn/
+2. **get back from Bali** : trở về từ Bali /ɡet bæk frəm ˈbɑːli/
+3. **fly \- flew \- flown** : (v) bay /flaɪ \- fluː \- fləʊn/
+4. **awesome** : (adj) tuyệt vời, kinh ngạc, ấn tượng /ˈɔːsəm/
+5. **ideal** : (adj) lý tưởng, hoàn hảo /aɪˈdɪəl/
+6. **destination** : (n) điểm đến, nơi đến /ˌdestɪˈneɪʃn/
+7. **holidaymaker** : (n) người đi nghỉ, du khách /ˈhɒlɪdeɪˌmeɪkə(r)/
+8. **especially** : (adv) đặc biệt, nhất là /ɪˈspeʃəli/
+9. **terraced fields** : ruộng bậc thang /ˈterəst fiːldz/
+10. **be able to** : có thể, có khả năng /bi ˈeɪbl tə/
+11. **rent** : (v) thuê; (n) tiền thuê /rent/
+12. **air ticket** : vé máy bay /eə ˈtɪkɪt/
+13. **cheap** : (a dj) rẻ, giá thấp /tʃiːp/
+14. **accommodation** : (n) chỗ ở, nơi ở /əˌkɒməˈdeɪʃn/
+15. **domestic** : (adj) nội địa, trong nước; thuộc về gia đình /dəˈmestɪk/
+16. **international** : (adj) quốc tế /ˌɪntəˈnæʃnəl/
+17. **perfect** : (adj) hoàn hảo, hoàn chỉnh; (v) hoàn thiện /ˈpɜːfɪkt/
 
 **Tom**: Chào An. An: Chào Tom. Bạn có một màu da rám nắng đẹp.  
 **Tom**: Ừ, tôi vừa mới trở về từ Bali. An: Bali? Nó ở đâu?  
@@ -52,46 +52,46 @@ UNIT 8: TOURISM**
 **Bài 4 trang 83** 
 
 1. safari \- chuyến đi ngắm thú  
-2. domestic: quốc nội \- trong nước   
-3. online apps: ứng dụng trực tuyến   
-4. Sport tourism: du lịch thể thao   
-5. destination: điểm đến 
+2. **domestic** : quốc nội \- trong nước
+3. **online apps** : ứng dụng trực tuyến
+4. **Sport tourism** : du lịch thể thao
+5. **destination** : điểm đến
 
 **Bài 5**
 
-1. Thành phố cổ ở miền Trung đã từng là thủ đô của đất nước: Huế   
-2. Thành phố này ở miền Nam thì nổi tiếng về chợ nổi của nó: Cần Thơ   
-3. Thành phố ở Tây Nguyên thường tổ chức lễ hội hoa vào tháng 12: Đà Lạt    
+1. **Thành phố cổ ở miền Trung đã từng là thủ đô của đất nước** : Huế
+2. **Thành phố này ở miền Nam thì nổi tiếng về chợ nổi của nó** : Cần Thơ
+3. **Thành phố ở Tây Nguyên thường tổ chức lễ hội hoa vào tháng 12** : Đà Lạt
 4. Tỉnh phía Bắc này có một thác nước nổi tiếng: Cao Bằng (Bản Giốc waterfall)  
-5. Tỉnh này sở hữu một di sản thế giới, Vịnh Hạ Long: Quảng Ninh 
+5. **Tỉnh này sở hữu một di sản thế giới, Vịnh Hạ Long** : Quảng Ninh
 
 **A CLOSER LOOK 1**
 
 **Vocabulary** 
 
-1. package holiday: kỳ nghỉ trọn gói /ˈpækɪdʒ ˈhɒlɪdeɪ/  
-2. self-guided tour: tour tự hướng dẫn /ˌself ˈgaɪdɪd tʊə/  
-3. trip itinerary: lịch trình chuyến đi /trɪp aɪˈtɪnərəri/  
-4. homestay: (n) nhà ở trong chương trình du học /ˈhəʊmsteɪ/  
-5. plan: (n) kế hoạch /plæn/  
-6. journey: (n) hành trình, chuyến đi /ˈdʒɜːni/  
-7. route: (n) tuyến đường, lộ trình /ruːt/  
-8. in exchange for: đổi lấy /ɪn ɪksˈtʃeɪndʒ fɔː/  
-9. on one's own: một mình, tự mình /ɒn wʌnz əʊn/  
-10. web platform: nền tảng web /web ˈplætfɔːm/  
-11. show directions: chỉ đường /ʃəʊ dɪˈrekʃnz/  
-12. travel agents: đại lý du lịch /ˈtrævl ˈeɪdʒənts/  
-13. ruinous site: địa điểm đổ nát /ˈruːɪnəs saɪt/  
-14. entrance ticket: vé vào cửa /ˈentrəns ˈtɪkɪt/  
-15. smooth trip: chuyến đi suôn sẻ /smuːð trɪp/  
-16. fixed itinerary: lịch trình cố định /fɪkst aɪˈtɪnərəri/  
-17. The Colosseum: Đấu trường Colosseum /ðə ˌkɒləˈsiːəm/  
-18. Rome: (n) thành phố Rome /rəʊm/  
-19. part: (n) phần, bộ phận /pɑːt/  
-20. take care of: chăm sóc, lo liệu /teɪk keər ɒv/  
-21. have no trouble: không gặp khó khăn /hæv nəʊ ˈtrʌbl/  
-22. budget: (n) ngân sách; (v) lập ngân sách /ˈbʌdʒɪt/  
-23. for reference: để tham khảo /fɔː ˈrefrəns/
+1. **package holiday** : kỳ nghỉ trọn gói /ˈpækɪdʒ ˈhɒlɪdeɪ/
+2. **self-guided tour** : tour tự hướng dẫn /ˌself ˈgaɪdɪd tʊə/
+3. **trip itinerary** : lịch trình chuyến đi /trɪp aɪˈtɪnərəri/
+4. **homestay** : (n) nhà ở trong chương trình du học /ˈhəʊmsteɪ/
+5. **plan** : (n) kế hoạch /plæn/
+6. **journey** : (n) hành trình, chuyến đi /ˈdʒɜːni/
+7. **route** : (n) tuyến đường, lộ trình /ruːt/
+8. **in exchange for** : đổi lấy /ɪn ɪksˈtʃeɪndʒ fɔː/
+9. **on one's own** : một mình, tự mình /ɒn wʌnz əʊn/
+10. **web platform** : nền tảng web /web ˈplætfɔːm/
+11. **show directions** : chỉ đường /ʃəʊ dɪˈrekʃnz/
+12. **travel agents** : đại lý du lịch /ˈtrævl ˈeɪdʒənts/
+13. **ruinous site** : địa điểm đổ nát /ˈruːɪnəs saɪt/
+14. **entrance ticket** : vé vào cửa /ˈentrəns ˈtɪkɪt/
+15. **smooth trip** : chuyến đi suôn sẻ /smuːð trɪp/
+16. **fixed itinerary** : lịch trình cố định /fɪkst aɪˈtɪnərəri/
+17. **The Colosseum** : Đấu trường Colosseum /ðə ˌkɒləˈsiːəm/
+18. **Rome** : (n) thành phố Rome /rəʊm/
+19. **part** : (n) phần, bộ phận /pɑːt/
+20. **take care of** : chăm sóc, lo liệu /teɪk keər ɒv/
+21. **have no trouble** : không gặp khó khăn /hæv nəʊ ˈtrʌbl/
+22. **budget** : (n) ngân sách; (v) lập ngân sách /ˈbʌdʒɪt/
+23. **for reference** : để tham khảo /fɔː ˈrefrəns/
 
 **Bài 1 trang 84** 
 
@@ -173,32 +173,32 @@ f. This is the teacher **who** teaches us math.
 
 **Vocabulary** 
 
-1. abroad: (adv) ở nước ngoài /əˈbrɔːd/  
-2. appeal: (v) hấp dẫn, lôi cuốn /əˈpiːl/  
-3. appear: (v) xuất hiện /əˈpɪə/  
-4. arrange: (v) sắp xếp /əˈreɪndʒ/  
-5. breathtaking: (adj) ngoạn mục /ˈbreθteɪkɪŋ/  
-6. bright: (adj) sáng, rực rỡ /braɪt/  
-7. collection: (n) bộ sưu tập /kəˈlekʃn/  
-8. colour: (n) màu sắc /ˈkʌlə/  
-9. company: (n) công ty /ˈkʌmpəni/  
-10. concert: (n) buổi hòa nhạc /ˈkɒnsət/  
-11. could: (modal v) có thể /kʊd/  
-12. dish: (n) món ăn /dɪʃ/  
-13. display: (n) trưng bày /dɪˈspleɪ/  
-14. elder: (n) người lớn tuổi /ˈeldə/  
-15. explain: (v) giải thích /ɪkˈspleɪn/  
-16. lucky: (adj) may mắn /ˈlʌki/  
-17. paint: (v) vẽ, sơn /peɪnt/  
-18. phone: (v) gọi điện /fəʊn/  
-19. pick: (v) chọn, hái /pɪk/  
-20. possession: (n) sở hữu /pəˈzeʃn/  
-21. prefer: (v) thích hơn /prɪˈfɜː/  
-22. product: (n) sản phẩm /ˈprɒdʌkt/  
-23. pronoun: (n) đại từ /ˈprəʊnaʊn/  
-24. recommend: (v) giới thiệu /ˌrekəˈmend/  
-25. refer: (v) đề cập /rɪˈfɜː/  
-26. whose: (pron) của ai /huːz/
+1. **abroad** : (adv) ở nước ngoài /əˈbrɔːd/
+2. **appeal** : (v) hấp dẫn, lôi cuốn /əˈpiːl/
+3. **appear** : (v) xuất hiện /əˈpɪə/
+4. **arrange** : (v) sắp xếp /əˈreɪndʒ/
+5. **breathtaking** : (adj) ngoạn mục /ˈbreθteɪkɪŋ/
+6. **bright** : (adj) sáng, rực rỡ /braɪt/
+7. **collection** : (n) bộ sưu tập /kəˈlekʃn/
+8. **colour** : (n) màu sắc /ˈkʌlə/
+9. **company** : (n) công ty /ˈkʌmpəni/
+10. **concert** : (n) buổi hòa nhạc /ˈkɒnsət/
+11. **could** : (modal v) có thể /kʊd/
+12. **dish** : (n) món ăn /dɪʃ/
+13. **display** : (n) trưng bày /dɪˈspleɪ/
+14. **elder** : (n) người lớn tuổi /ˈeldə/
+15. **explain** : (v) giải thích /ɪkˈspleɪn/
+16. **lucky** : (adj) may mắn /ˈlʌki/
+17. **paint** : (v) vẽ, sơn /peɪnt/
+18. **phone** : (v) gọi điện /fəʊn/
+19. **pick** : (v) chọn, hái /pɪk/
+20. **possession** : (n) sở hữu /pəˈzeʃn/
+21. **prefer** : (v) thích hơn /prɪˈfɜː/
+22. **product** : (n) sản phẩm /ˈprɒdʌkt/
+23. **pronoun** : (n) đại từ /ˈprəʊnaʊn/
+24. **recommend** : (v) giới thiệu /ˌrekəˈmend/
+25. **refer** : (v) đề cập /rɪˈfɜː/
+26. **whose** : (pron) của ai /huːz/
 
 **Sau khi viết từ vựng xong, làm bài 1 (A closer look 2\)** 
 
@@ -274,18 +274,18 @@ While travelling, my father often spends time talking with the locals **whose** 
 
 **Vocabulary** 
 
-1. pack: (v) đóng gói, xếp đồ, gói ghém /pæk/  
-2. strictly: (adv) nghiêm ngặt, chặt chẽ /ˈstrɪktli/  
-3. regulations: (n) quy định, điều lệ /ˌreɡjʊˈleɪʃənz/  
-4. leisure holiday: kỳ nghỉ giải trí /ˈleʒə ˈhɒlɪdeɪ/  
-5. travel agency: đại lý du lịch /ˈtrævəl ˈeɪdʒənsi/  
-6. cultural place: địa điểm văn hóa /ˈkʌltʃərəl pleɪs/  
-7. take a cruise on the Danube River: đi du thuyền trên sông Danube /teɪk ə kruːz ɒn ðə ˈdænjuːb ˈrɪvə/  
-8. low season: mùa vắng khách /ləʊ ˈsiːzən/  
-9. afford: (v) có đủ khả năng (tài chính), có điều kiện /əˈfɔːd/  
-10. a loft room: phòng gác mái /ə lɒft ruːm/
+1. **pack** : (v) đóng gói, xếp đồ, gói ghém /pæk/
+2. **strictly** : (adv) nghiêm ngặt, chặt chẽ /ˈstrɪktli/
+3. **regulations** : (n) quy định, điều lệ /ˌreɡjʊˈleɪʃənz/
+4. **leisure holiday** : kỳ nghỉ giải trí /ˈleʒə ˈhɒlɪdeɪ/
+5. **travel agency** : đại lý du lịch /ˈtrævəl ˈeɪdʒənsi/
+6. **cultural place** : địa điểm văn hóa /ˈkʌltʃərəl pleɪs/
+7. **take a cruise on the Danube River** : đi du thuyền trên sông Danube /teɪk ə kruːz ɒn ðə ˈdænjuːb ˈrɪvə/
+8. **low season** : mùa vắng khách /ləʊ ˈsiːzən/
+9. **afford** : (v) có đủ khả năng (tài chính), có điều kiện /əˈfɔːd/
+10. **a loft room** : phòng gác mái /ə lɒft ruːm/
 
-11. a guest house: nhà khách, nhà nghỉ /ə ɡest haʊs/
+11. **a guest house** : nhà khách, nhà nghỉ /ə ɡest haʊs/
 
 **Bài 2 trang 86** 
 
@@ -321,25 +321,25 @@ Haruto: | in a loft room of a guest house | visiting historical places.
 **Reading**   
 **Vocabulary** 
 
-1. destination: (n) điểm đến, nơi đến /ˌdestɪˈneɪʃən/  
-2. itinerary: (n) lịch trình, kế hoạch hành trình /aɪˈtɪnərəri/  
-3. cost: (n) chi phí, giá cả /kɒst/  
-4. go wrong: gặp trục trặc, có vấn đề /ɡəʊ rɒŋ/  
-5. hunt for tickets: tìm kiếm vé /hʌnt fɔː ˈtɪkɪts/  
-6. accommodation: (n) chỗ ở, nơi ở /əˌkɒməˈdeɪʃən/  
-7. have a smooth trip: có chuyến đi suôn sẻ /hæv ə smuːð trɪp/  
-8. require: (v) yêu cầu, đòi hỏi /rɪˈkwaɪə/  
-9. advantage: (n) lợi thế, ưu điểm /ədˈvɑːntɪdʒ/  
-10. announce: (v) thông báo, loan báo /əˈnaʊns/  
-11. miss: (v) bỏ lỡ, nhớ /mɪs/  
-12. novel: (n) tiểu thuyết /ˈnɒvəl/  
-13. recent: (adj) gần đây, mới đây /ˈriːsnt/  
-14. schedule: (n) lịch trình, thời gian biểu /ˈʃedjuːl/  
-15. see: (v) nhìn thấy, xem /siː/  
-16. skill: (n) kỹ năng, tài năng /skɪl/   
-17. witness: (v) chứng kiến /ˈwɪtnəs/   
-18. write: (v) viết /raɪt/  
-19. writer: (n) nhà văn, tác giả /ˈraɪtə/
+1. **destination** : (n) điểm đến, nơi đến /ˌdestɪˈneɪʃən/
+2. **itinerary** : (n) lịch trình, kế hoạch hành trình /aɪˈtɪnərəri/
+3. **cost** : (n) chi phí, giá cả /kɒst/
+4. **go wrong** : gặp trục trặc, có vấn đề /ɡəʊ rɒŋ/
+5. **hunt for tickets** : tìm kiếm vé /hʌnt fɔː ˈtɪkɪts/
+6. **accommodation** : (n) chỗ ở, nơi ở /əˌkɒməˈdeɪʃən/
+7. **have a smooth trip** : có chuyến đi suôn sẻ /hæv ə smuːð trɪp/
+8. **require** : (v) yêu cầu, đòi hỏi /rɪˈkwaɪə/
+9. **advantage** : (n) lợi thế, ưu điểm /ədˈvɑːntɪdʒ/
+10. **announce** : (v) thông báo, loan báo /əˈnaʊns/
+11. **miss** : (v) bỏ lỡ, nhớ /mɪs/
+12. **novel** : (n) tiểu thuyết /ˈnɒvəl/
+13. **recent** : (adj) gần đây, mới đây /ˈriːsnt/
+14. **schedule** : (n) lịch trình, thời gian biểu /ˈʃedjuːl/
+15. **see** : (v) nhìn thấy, xem /siː/
+16. **skill** : (n) kỹ năng, tài năng /skɪl/
+17. **witness** : (v) chứng kiến /ˈwɪtnəs/
+18. **write** : (v) viết /raɪt/
+19. **writer** : (n) nhà văn, tác giả /ˈraɪtə/
 
 Hai loại hình du lịch phổ biến nhất hiện nay là tour trọn gói và tour tự túc.  
 Khi bạn mua một tour trọn gói, công ty du lịch sẽ lo hầu hết mọi thứ cho bạn. Bạn sẽ nhận được thông báo về các địa điểm tham quan, lịch trình chi tiết, và chi phí. Họ sẽ bảo vệ bạn nếu có điều gì không ổn xảy ra trong chuyến đi. Loại hình du lịch này giúp tiết kiệm thời gian và giảm căng thẳng cho du khách. Nó mang đến một lựa chọn thuận tiện cho những người cao tuổi, những người không muốn tốn nhiều thời gian tự tìm kiếm thông tin, hoặc những người không tự tin khi sử dụng các ứng dụng trực tuyến. Một điểm bất lợi của loại hình này là bạn phải tuân theo một lịch trình cố định.  

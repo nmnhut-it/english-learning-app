@@ -4,18 +4,18 @@
 
 **Vocabulary** 
 
-1. pack: (v) đóng gói, xếp đồ, gói ghém /pæk/  
-2. strictly: (adv) nghiêm ngặt, chặt chẽ /ˈstrɪktli/  
-3. regulations: (n) quy định, điều lệ /ˌreɡjʊˈleɪʃənz/  
-4. leisure holiday: kỳ nghỉ giải trí /ˈleʒə ˈhɒlɪdeɪ/  
-5. travel agency: đại lý du lịch /ˈtrævəl ˈeɪdʒənsi/  
-6. cultural place: địa điểm văn hóa /ˈkʌltʃərəl pleɪs/  
-7. take a cruise on the Danube River: đi du thuyền trên sông Danube /teɪk ə kruːz ɒn ðə ˈdænjuːb ˈrɪvə/  
-8. low season: mùa vắng khách /ləʊ ˈsiːzən/  
-9. afford: (v) có đủ khả năng (tài chính), có điều kiện /əˈfɔːd/  
-10. a loft room: phòng gác mái /ə lɒft ruːm/
+1. **pack** : (v) đóng gói, xếp đồ, gói ghém /pæk/
+2. **strictly** : (adv) nghiêm ngặt, chặt chẽ /ˈstrɪktli/
+3. **regulations** : (n) quy định, điều lệ /ˌreɡjʊˈleɪʃənz/
+4. **leisure holiday** : kỳ nghỉ giải trí /ˈleʒə ˈhɒlɪdeɪ/
+5. **travel agency** : đại lý du lịch /ˈtrævəl ˈeɪdʒənsi/
+6. **cultural place** : địa điểm văn hóa /ˈkʌltʃərəl pleɪs/
+7. **take a cruise on the Danube River** : đi du thuyền trên sông Danube /teɪk ə kruːz ɒn ðə ˈdænjuːb ˈrɪvə/
+8. **low season** : mùa vắng khách /ləʊ ˈsiːzən/
+9. **afford** : (v) có đủ khả năng (tài chính), có điều kiện /əˈfɔːd/
+10. **a loft room** : phòng gác mái /ə lɒft ruːm/
 
-11. a guest house: nhà khách, nhà nghỉ /ə ɡest haʊs/
+11. **a guest house** : nhà khách, nhà nghỉ /ə ɡest haʊs/
 
 **Bài 2 trang 86** 
 

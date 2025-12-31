@@ -4,30 +4,30 @@
 
 **Vocabulary**
 
-1. prepare: (v) chuẩn bị /prɪˈpeə/    
+1. **prepare** : (v) chuẩn bị /prɪˈpeə/
    good \< better \< best   
    You little pest\!  
-2. Lower Secondary School: trường trung học cơ sở /ˈləʊə ˈsekəndri skuːl/  
-3. Well, : À,   
-4. well: (adv) tốt   
-5. well: (n) cái giếng   
-6. will: sẽ  share: chia sẻ   
-7. see: thấy, gặp, nhìn   
-8. meet: gặp  
-9. sound great: nghe có vẻ tuyệt /saʊnd ɡreɪt/  
-10. neighbourhood: (n) khu phố, hàng xóm /ˈneɪbəhʊd/  
-11. classmate: (n) bạn cùng lớp /ˈklɑːsmeɪt/  
-12. there: ở đó /ðeə/  
-13. library: (n) thư viện /ˈlaɪbrəri/   
-14. project: (n) dự án /ˈprɒdʒekt/  
-15. idea: (n) ý tưởng /aɪˈdɪə/  
-16. interesting: (adj) thú vị /ˈɪntrəstɪŋ/  
-17. what else: còn gì nữa /wɒt els/  
-18. take photo: chụp ảnh /teɪk ˈfəʊtəʊ/  
-19. fantastic: (adj) tuyệt vời /fænˈtæstɪk/  
-20. forget \- forgot \- forgot: quên /fəˈɡet \- fəˈɡɒt \- fəˈɡɒt/  
-21. almost: (adv) gần như /ˈɔːlməʊst/  
-22. remind: (v) nhắc nhở /rɪˈmaɪnd/
+2. **Lower Secondary School** : trường trung học cơ sở /ˈləʊə ˈsekəndri skuːl/
+3. **Well,** : À,
+4. **well** : (adv) tốt
+5. **well** : (n) cái giếng
+6. **will** : sẽ  share: chia sẻ
+7. **see** : thấy, gặp, nhìn
+8. **meet** : gặp
+9. **sound great** : nghe có vẻ tuyệt /saʊnd ɡreɪt/
+10. **neighbourhood** : (n) khu phố, hàng xóm /ˈneɪbəhʊd/
+11. **classmate** : (n) bạn cùng lớp /ˈklɑːsmeɪt/
+12. **there** : ở đó /ðeə/
+13. **library** : (n) thư viện /ˈlaɪbrəri/
+14. **project** : (n) dự án /ˈprɒdʒekt/
+15. **idea** : (n) ý tưởng /aɪˈdɪə/
+16. **interesting** : (adj) thú vị /ˈɪntrəstɪŋ/
+17. **what else** : còn gì nữa /wɒt els/
+18. **take photo** : chụp ảnh /teɪk ˈfəʊtəʊ/
+19. **fantastic** : (adj) tuyệt vời /fænˈtæstɪk/
+20. **forget \- forgot \- forgot** : quên /fəˈɡet \- fəˈɡɒt \- fəˈɡɒt/
+21. **almost** : (adv) gần như /ˈɔːlməʊst/
+22. **remind** : (v) nhắc nhở /rɪˈmaɪnd/
 
 **Phong:** Bạn đang làm gì thế, Mi?
 

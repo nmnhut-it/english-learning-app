@@ -5,21 +5,21 @@
 
 ### New words
 
-1. communicate: (v) giao tiếp /kəˈmjuːnɪkeɪt/
-2. immediately: (adv) ngay lập tức /ɪˈmiːdiətli/
-3. directly: (adv) trực tiếp /dəˈrektli/
-4. distraction: (n) sự xao nhãng /dɪˈstrækʃn/
-5. focused: (adj) tập trung /ˈfəʊkəst/
-6. advantage: (n) lợi thế, ưu điểm /ədˈvɑːntɪdʒ/
-7. disadvantage: (n) bất lợi, nhược điểm /ˌdɪsədˈvɑːntɪdʒ/
-8. discussion board: (n.phr) bảng thảo luận /dɪˈskʌʃn bɔːd/
-9. exchange: (v) trao đổi /ɪksˈtʃeɪndʒ/
-10. connection: (n) kết nối /kəˈnekʃn/
-11. blended learning: (n.phr) học kết hợp /ˈblendɪd ˈlɜːnɪŋ/
-12. online learning: (n.phr) học trực tuyến /ˌɒnˈlaɪn ˈlɜːnɪŋ/
-13. face-to-face learning: (n.phr) học trực tiếp /ˌfeɪs tə ˈfeɪs ˈlɜːnɪŋ/
-14. strategy: (n) chiến lược /ˈstrætədʒi/
-15. reply: (n, v) câu trả lời, trả lời /rɪˈplaɪ/
+1. **communicate** : (v) giao tiếp /kəˈmjuːnɪkeɪt/
+2. **immediately** : (adv) ngay lập tức /ɪˈmiːdiətli/
+3. **directly** : (adv) trực tiếp /dəˈrektli/
+4. **distraction** : (n) sự xao nhãng /dɪˈstrækʃn/
+5. **focused** : (adj) tập trung /ˈfəʊkəst/
+6. **advantage** : (n) lợi thế, ưu điểm /ədˈvɑːntɪdʒ/
+7. **disadvantage** : (n) bất lợi, nhược điểm /ˌdɪsədˈvɑːntɪdʒ/
+8. **discussion board** : (n.phr) bảng thảo luận /dɪˈskʌʃn bɔːd/
+9. **exchange** : (v) trao đổi /ɪksˈtʃeɪndʒ/
+10. **connection** : (n) kết nối /kəˈnekʃn/
+11. **blended learning** : (n.phr) học kết hợp /ˈblendɪd ˈlɜːnɪŋ/
+12. **online learning** : (n.phr) học trực tuyến /ˌɒnˈlaɪn ˈlɜːnɪŋ/
+13. **face-to-face learning** : (n.phr) học trực tiếp /ˌfeɪs tə ˈfeɪs ˈlɜːnɪŋ/
+14. **strategy** : (n) chiến lược /ˈstrætədʒi/
+15. **reply** : (n, v) câu trả lời, trả lời /rɪˈplaɪ/
 
 ---
 
@@ -164,21 +164,21 @@ Tôi nghĩ học trực tuyến tốt hơn vì nó linh hoạt hơn. Tôi có th
 
 ## Vocabulary (Từ vựng)
 
-1. communicate: (v) giao tiếp /kəˈmjuːnɪkeɪt/
-2. immediately: (adv) ngay lập tức /ɪˈmiːdiətli/
-3. directly: (adv) trực tiếp /dəˈrektli/
-4. distraction: (n) sự xao nhãng /dɪˈstrækʃn/
-5. focused: (adj) tập trung /ˈfəʊkəst/
-6. strategy: (n) chiến lược /ˈstrætədʒi/
-7. advantage: (n) lợi thế, ưu điểm /ədˈvɑːntɪdʒ/
-8. disadvantage: (n) bất lợi, nhược điểm /ˌdɪsədˈvɑːntɪdʒ/
-9. blended learning: (n.phr) học kết hợp /ˈblendɪd ˈlɜːnɪŋ/
-10. furthermore: (adv) hơn nữa /ˌfɜːðəˈmɔː/
-11. discussion board: (n.phr) bảng thảo luận /dɪˈskʌʃn bɔːd/
-12. exchange: (v) trao đổi /ɪksˈtʃeɪndʒ/
-13. comment: (n) nhận xét /ˈkɒment/
-14. connection: (n) kết nối /kəˈnekʃn/
-15. flexible: (adj) linh hoạt /ˈfleksəbl/
-16. reply: (n, v) trả lời /rɪˈplaɪ/
-17. traditional classroom: (n.phr) lớp học truyền thống /trəˈdɪʃənl ˈklɑːsruːm/
-18. online class: (n.phr) lớp học trực tuyến /ˌɒnˈlaɪn klɑːs/
+1. **communicate** : (v) giao tiếp /kəˈmjuːnɪkeɪt/
+2. **immediately** : (adv) ngay lập tức /ɪˈmiːdiətli/
+3. **directly** : (adv) trực tiếp /dəˈrektli/
+4. **distraction** : (n) sự xao nhãng /dɪˈstrækʃn/
+5. **focused** : (adj) tập trung /ˈfəʊkəst/
+6. **strategy** : (n) chiến lược /ˈstrætədʒi/
+7. **advantage** : (n) lợi thế, ưu điểm /ədˈvɑːntɪdʒ/
+8. **disadvantage** : (n) bất lợi, nhược điểm /ˌdɪsədˈvɑːntɪdʒ/
+9. **blended learning** : (n.phr) học kết hợp /ˈblendɪd ˈlɜːnɪŋ/
+10. **furthermore** : (adv) hơn nữa /ˌfɜːðəˈmɔː/
+11. **discussion board** : (n.phr) bảng thảo luận /dɪˈskʌʃn bɔːd/
+12. **exchange** : (v) trao đổi /ɪksˈtʃeɪndʒ/
+13. **comment** : (n) nhận xét /ˈkɒment/
+14. **connection** : (n) kết nối /kəˈnekʃn/
+15. **flexible** : (adj) linh hoạt /ˈfleksəbl/
+16. **reply** : (n, v) trả lời /rɪˈplaɪ/
+17. **traditional classroom** : (n.phr) lớp học truyền thống /trəˈdɪʃənl ˈklɑːsruːm/
+18. **online class** : (n.phr) lớp học trực tuyến /ˌɒnˈlaɪn klɑːs/

@@ -3,17 +3,17 @@
 **GETTING STARTED**   
 **Vocabulary** 
 
-1. paint a picture of my house: vẽ bức tranh về ngôi nhà của tôi /peɪnt ə ˈpɪktʃə əv maɪ haʊs/  
-2. a UFO: (n) một vật thể bay không xác định /ə ˌjuː ef ˈəʊ/  
-3. in the future: trong tương lai /ɪn ðə ˈfjuːtʃə/  
-4. where will it be?: nó sẽ ở đâu? /weə wɪl ɪt biː/  
-5. in the mountains: trong những ngọn núi /ɪn ðə ˈmaʊntɪnz/  
-6. room: (n) phòng /ruːm/  
-7. a large house: một ngôi nhà lớn /ə lɑːdʒ haʊs/  
-8. solar energy: (n) năng lượng mặt trời /ˈsəʊlə ˈenədʒi/  
-9. will \= 'll: (v) sẽ /wɪl \= l/  
-10. appliance: (n) thiết bị gia dụng /əˈplaɪəns/  
-11. may \- might: (v) có thể /meɪ \- maɪt/
+1. **paint a picture of my house** : vẽ bức tranh về ngôi nhà của tôi /peɪnt ə ˈpɪktʃə əv maɪ haʊs/
+2. **a UFO** : (n) một vật thể bay không xác định /ə ˌjuː ef ˈəʊ/
+3. **in the future** : trong tương lai /ɪn ðə ˈfjuːtʃə/
+4. **where will it be?** : nó sẽ ở đâu? /weə wɪl ɪt biː/
+5. **in the mountains** : trong những ngọn núi /ɪn ðə ˈmaʊntɪnz/
+6. **room** : (n) phòng /ruːm/
+7. **a large house** : một ngôi nhà lớn /ə lɑːdʒ haʊs/
+8. **solar energy** : (n) năng lượng mặt trời /ˈsəʊlə ˈenədʒi/
+9. **will \= 'll** : (v) sẽ /wɪl \= l/
+10. **appliance** : (n) thiết bị gia dụng /əˈplaɪəns/
+11. **may \- might** : (v) có thể /meɪ \- maɪt/
 
 Nick: Bạn đang làm gì, Phong?  
 Phong: Tôi đang vẽ một bức tranh về ngôi nhà của tôi.  

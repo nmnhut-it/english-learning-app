@@ -2,24 +2,24 @@
 
 **GETTING STARTED**
 
-1. dollhouse : (n) nhà búp bê /ˈdɒlˌhaʊs/  
-2. amazing : (adj) tuyệt vời /əˈmeɪzɪŋ/  
-3. build : (v) xây dựng /bɪld/  
-4. hobby : (n) sở thích /ˈhɒbi/  
-5. cardboard : (n) bìa cứng /ˈkɑːdbɔːd/  
-6. creativity : (n) sự sáng tạo /ˌkriːeɪˈtɪvɪti/  
-7. horse riding : (n) cưỡi ngựa /ˈhɔːs ˈraɪdɪŋ/  
-8. unusual : (adj) không thường, khác thường /ʌnˈjuːʒʊəl/  
-9. common : (adj) phổ biến /ˈkɒmən/  
-10. actually : (adv) thực tế /ˈæktʃuəli/  
-11. your: của bạn  
-12. need: cần   
-13. some: một chút, một vài   
-14. all: tất cả   
-15. learn how to: học cách để   
-16. just: chỉ   
-17. there is \= there are: có   
-18. lesson: bài học 
+1. **dollhouse** : (n) nhà búp bê /ˈdɒlˌhaʊs/
+2. **amazing** : (adj) tuyệt vời /əˈmeɪzɪŋ/
+3. **build** : (v) xây dựng /bɪld/
+4. **hobby** : (n) sở thích /ˈhɒbi/
+5. **cardboard** : (n) bìa cứng /ˈkɑːdbɔːd/
+6. **creativity** : (n) sự sáng tạo /ˌkriːeɪˈtɪvɪti/
+7. **horse riding** : (n) cưỡi ngựa /ˈhɔːs ˈraɪdɪŋ/
+8. **unusual** : (adj) không thường, khác thường /ʌnˈjuːʒʊəl/
+9. **common** : (adj) phổ biến /ˈkɒmən/
+10. **actually** : (adv) thực tế /ˈæktʃuəli/
+11. **your** : của bạn
+12. **need** : cần
+13. **some** : một chút, một vài
+14. **all** : tất cả
+15. **learn how to** : học cách để
+16. **just** : chỉ
+17. **there is \= there are** : có
+18. **lesson** : bài học
 
 Ann: Nhà của bạn rất đẹp, Trang.
 
@@ -66,12 +66,12 @@ Ann: Chắc chắn. Bài học của mình bắt đầu lúc 8 giờ sáng
 
 **Bài 3 trang 9** 
 
-1. building dollhouses : (n) xây dựng nhà búp bê /ˈbɪldɪŋ ˈdɒlˌhaʊsɪz/  
-2. riding a horse : (n) cưỡi ngựa /ˈraɪdɪŋ ə hɔːs/  
-3. collecting teddy bears : (n) sưu tập gấu bông /kəˈlɛktɪŋ ˈtɛdi beəz/  
-4. collecting coins : (n) sưu tập tiền xu /kəˈlɛktɪŋ kɔɪnz/  
-5. making models : (n) làm mô hình /ˈmeɪkɪŋ ˈmɒdlz/  
-6. gardening : (n) làm vườn /ˈɡɑːdənɪŋ/ ​​
+1. **building dollhouses** : (n) xây dựng nhà búp bê /ˈbɪldɪŋ ˈdɒlˌhaʊsɪz/
+2. **riding a horse** : (n) cưỡi ngựa /ˈraɪdɪŋ ə hɔːs/
+3. **collecting teddy bears** : (n) sưu tập gấu bông /kəˈlɛktɪŋ ˈtɛdi beəz/
+4. **collecting coins** : (n) sưu tập tiền xu /kəˈlɛktɪŋ kɔɪnz/
+5. **making models** : (n) làm mô hình /ˈmeɪkɪŋ ˈmɒdlz/
+6. **gardening** : (n) làm vườn /ˈɡɑːdənɪŋ/ ​​
 
 **Bài 4 trang 9**
 

@@ -4,9 +4,9 @@
 
 **Bài 1 trang 56** 
 
-1. reduce: plastic bag, clothes, plastic bottles, water  
-2. Reuse: glass, paper, clothes   
-3. Recycle: plastic bottles, paper 
+1. **reduce** : plastic bag, clothes, plastic bottles, water
+2. **Reuse** : glass, paper, clothes
+3. **Recycle** : plastic bottles, paper
 
 **Bài 2 trang 56** 
 

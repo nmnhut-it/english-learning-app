@@ -5,16 +5,16 @@
 
 ### New words
 
-1. organisation: (n) tổ chức /ˌɔːɡənaɪˈzeɪʃn/
-2. non-governmental: (adj) phi chính phủ /ˌnɒn ɡʌvənˈmentl/
-3. non-profit: (adj) phi lợi nhuận /ˌnɒn ˈprɒfɪt/
-4. aim: (v, n) mục tiêu, nhằm mục đích /eɪm/
-5. destruction: (n) sự phá hủy /dɪˈstrʌkʃn/
-6. survival: (n) sự sống sót /səˈvaɪvl/
-7. gorilla: (n) khỉ đột /ɡəˈrɪlə/
-8. tortoise: (n) rùa cạn /ˈtɔːtəs/
-9. panda: (n) gấu trúc /ˈpændə/
-10. supporter: (n) người ủng hộ /səˈpɔːtə/
+1. **organisation** : (n) tổ chức /ˌɔːɡənaɪˈzeɪʃn/
+2. **non-governmental** : (adj) phi chính phủ /ˌnɒn ɡʌvənˈmentl/
+3. **non-profit** : (adj) phi lợi nhuận /ˌnɒn ˈprɒfɪt/
+4. **aim** : (v, n) mục tiêu, nhằm mục đích /eɪm/
+5. **destruction** : (n) sự phá hủy /dɪˈstrʌkʃn/
+6. **survival** : (n) sự sống sót /səˈvaɪvl/
+7. **gorilla** : (n) khỉ đột /ɡəˈrɪlə/
+8. **tortoise** : (n) rùa cạn /ˈtɔːtəs/
+9. **panda** : (n) gấu trúc /ˈpændə/
+10. **supporter** : (n) người ủng hộ /səˈpɔːtə/
 
 ---
 
@@ -128,10 +128,10 @@ Cho đến nay, STE đã thực hiện 335 dự án ở 40 quốc gia và đã g
 
 **Structure for writing about an organisation:**
 
-1. **Introduction**: Name, type of organisation, when and by whom it was founded
-2. **Aims**: What the organisation aims to do
-3. **Work focus**: Main activities and focus areas
-4. **Achievements/Stats**: Current statistics, number of projects, countries, etc.
+1. **Introduction** : Name, type of organisation, when and by whom it was founded
+2. **Aims** : What the organisation aims to do
+3. **Work focus** : Main activities and focus areas
+4. **Achievements/Stats** : Current statistics, number of projects, countries, etc.
 5. **Conclusion**: Summary or future outlook (optional)
 
 **Useful phrases:**
@@ -147,28 +147,28 @@ Cho đến nay, STE đã thực hiện 335 dự án ở 40 quốc gia và đã g
 
 ## Vocabulary (Từ vựng)
 
-1. organisation: (n) tổ chức /ˌɔːɡənaɪˈzeɪʃn/
-2. non-governmental: (adj) phi chính phủ /ˌnɒn ɡʌvənˈmentl/
-3. non-profit: (adj) phi lợi nhuận /ˌnɒn ˈprɒfɪt/
-4. aim: (v, n) mục tiêu, nhằm mục đích /eɪm/
-5. destruction: (n) sự phá hủy /dɪˈstrʌkʃn/
-6. survival: (n) sự sống sót /səˈvaɪvl/
-7. gorilla: (n) khỉ đột /ɡəˈrɪlə/
-8. tortoise: (n) rùa cạn /ˈtɔːtəs/
-9. panda: (n) gấu trúc /ˈpændə/
-10. supporter: (n) người ủng hộ /səˈpɔːtə/
-11. worldwide: (adv) trên toàn thế giới /ˌwɜːldˈwaɪd/
-12. environmental: (adj) thuộc về môi trường /ɪnˌvaɪrənˈmentl/
-13. respect: (v) tôn trọng /rɪˈspekt/
-14. originally: (adv) ban đầu /əˈrɪdʒənəli/
-15. set up: (v.phr) thành lập /set ʌp/
-16. founder: (n) người sáng lập /ˈfaʊndə/
-17. found: (v) thành lập /faʊnd/
-18. dedicated to: (adj.phr) dành riêng cho /ˈdedɪkeɪtɪd tuː/
-19. die out: (v.phr) tuyệt chủng /daɪ aʊt/
-20. conduct: (v) tiến hành /kənˈdʌkt/
-21. behaviour: (n) hành vi /bɪˈheɪvjə/
-22. expert: (n) chuyên gia /ˈekspɜːt/
-23. television programme: (n.phr) chương trình truyền hình /ˈtelɪvɪʒn ˈprəʊɡræm/
-24. magnificent: (adj) tuyệt vời /mæɡˈnɪfɪsnt/
-25. ensure: (v) đảm bảo /ɪnˈʃʊə/
+1. **organisation** : (n) tổ chức /ˌɔːɡənaɪˈzeɪʃn/
+2. **non-governmental** : (adj) phi chính phủ /ˌnɒn ɡʌvənˈmentl/
+3. **non-profit** : (adj) phi lợi nhuận /ˌnɒn ˈprɒfɪt/
+4. **aim** : (v, n) mục tiêu, nhằm mục đích /eɪm/
+5. **destruction** : (n) sự phá hủy /dɪˈstrʌkʃn/
+6. **survival** : (n) sự sống sót /səˈvaɪvl/
+7. **gorilla** : (n) khỉ đột /ɡəˈrɪlə/
+8. **tortoise** : (n) rùa cạn /ˈtɔːtəs/
+9. **panda** : (n) gấu trúc /ˈpændə/
+10. **supporter** : (n) người ủng hộ /səˈpɔːtə/
+11. **worldwide** : (adv) trên toàn thế giới /ˌwɜːldˈwaɪd/
+12. **environmental** : (adj) thuộc về môi trường /ɪnˌvaɪrənˈmentl/
+13. **respect** : (v) tôn trọng /rɪˈspekt/
+14. **originally** : (adv) ban đầu /əˈrɪdʒənəli/
+15. **set up** : (v.phr) thành lập /set ʌp/
+16. **founder** : (n) người sáng lập /ˈfaʊndə/
+17. **found** : (v) thành lập /faʊnd/
+18. **dedicated to** : (adj.phr) dành riêng cho /ˈdedɪkeɪtɪd tuː/
+19. **die out** : (v.phr) tuyệt chủng /daɪ aʊt/
+20. **conduct** : (v) tiến hành /kənˈdʌkt/
+21. **behaviour** : (n) hành vi /bɪˈheɪvjə/
+22. **expert** : (n) chuyên gia /ˈekspɜːt/
+23. **television programme** : (n.phr) chương trình truyền hình /ˈtelɪvɪʒn ˈprəʊɡræm/
+24. **magnificent** : (adj) tuyệt vời /mæɡˈnɪfɪsnt/
+25. **ensure** : (v) đảm bảo /ɪnˈʃʊə/

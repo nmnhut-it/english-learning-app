@@ -13,31 +13,31 @@
 
 **Vocabulary** 
 
-1. wonder: (v) tự hỏi, thắc mắc; (n) kỳ quan, điều kỳ diệu /ˈwʌndə/  
-2. meet three main conditions: đáp ứng ba điều kiện chính /miːt θriː meɪn kənˈdɪʃnz/  
-3. liquid water: nước ở thể lỏng /ˈlɪkwɪd ˈwɔːtə/  
-4. temperature: (n) nhiệt độ /ˈtemprətʃə/  
-5. too high: quá cao /tuː haɪ/  
-6. too low: quá thấp /tuː ləʊ/  
-7. gravity: (n) trọng lực /ˈɡrævɪti/  
-8. hold too much air: giữ quá nhiều không khí /həʊld tuː mʌtʃ eə/  
-9. habitable: (adj) có thể cư trú được, đáng ở /ˈhæbɪtəbl/  
-10. promise: (v) hứa, cam đoan; (n) lời hứa, cam kết /ˈprɒmɪs/  
-11. promising: (adj) đầy tính hứa hẹn, triển vọng /ˈprɒmɪsɪŋ/  
-12. bore: (v) làm chán, khoan, đục /bɔː/  
-13. boring: (adj) nhàm chán, tẻ nhạt /ˈbɔːrɪŋ/  
-14. trace: (n) dấu vết, vết tích; (v) truy tìm, vẽ theo /treɪs/  
-15. climate: (n) khí hậu /ˈklaɪmət/  
-16. lack: (n) sự thiếu; (v) thiếu, không có /læk/  
-17. show signs of: cho thấy dấu hiệu của /ʃəʊ saɪnz ɒv/  
-18. successful: (adj) thành công, thắng lợi /səkˈsesfʊl/  
-19. solid: (adj) rắn, đặc, chắc chắn; (n) chất rắn /ˈsɒlɪd/  
-20. gas: (n) khí, chất khí /ɡæs/  
-21. flow freely: chảy tự do /fləʊ ˈfriːli/  
-22. substance: (n) chất, vật chất /ˈsʌbstəns/  
-23. in the form of: dưới dạng, theo hình thức /ɪn ðə fɔːm ɒv/  
-24. exist: (v) tồn tại, sinh sống /ɪɡˈzɪst/  
-25. enough: (adj) đủ; (adv) đủ, khá; (n) số lượng đủ /ɪˈnʌf/
+1. **wonder** : (v) tự hỏi, thắc mắc; (n) kỳ quan, điều kỳ diệu /ˈwʌndə/
+2. **meet three main conditions** : đáp ứng ba điều kiện chính /miːt θriː meɪn kənˈdɪʃnz/
+3. **liquid water** : nước ở thể lỏng /ˈlɪkwɪd ˈwɔːtə/
+4. **temperature** : (n) nhiệt độ /ˈtemprətʃə/
+5. **too high** : quá cao /tuː haɪ/
+6. **too low** : quá thấp /tuː ləʊ/
+7. **gravity** : (n) trọng lực /ˈɡrævɪti/
+8. **hold too much air** : giữ quá nhiều không khí /həʊld tuː mʌtʃ eə/
+9. **habitable** : (adj) có thể cư trú được, đáng ở /ˈhæbɪtəbl/
+10. **promise** : (v) hứa, cam đoan; (n) lời hứa, cam kết /ˈprɒmɪs/
+11. **promising** : (adj) đầy tính hứa hẹn, triển vọng /ˈprɒmɪsɪŋ/
+12. **bore** : (v) làm chán, khoan, đục /bɔː/
+13. **boring** : (adj) nhàm chán, tẻ nhạt /ˈbɔːrɪŋ/
+14. **trace** : (n) dấu vết, vết tích; (v) truy tìm, vẽ theo /treɪs/
+15. **climate** : (n) khí hậu /ˈklaɪmət/
+16. **lack** : (n) sự thiếu; (v) thiếu, không có /læk/
+17. **show signs of** : cho thấy dấu hiệu của /ʃəʊ saɪnz ɒv/
+18. **successful** : (adj) thành công, thắng lợi /səkˈsesfʊl/
+19. **solid** : (adj) rắn, đặc, chắc chắn; (n) chất rắn /ˈsɒlɪd/
+20. **gas** : (n) khí, chất khí /ɡæs/
+21. **flow freely** : chảy tự do /fləʊ ˈfriːli/
+22. **substance** : (n) chất, vật chất /ˈsʌbstəns/
+23. **in the form of** : dưới dạng, theo hình thức /ɪn ðə fɔːm ɒv/
+24. **exist** : (v) tồn tại, sinh sống /ɪɡˈzɪst/
+25. **enough** : (adj) đủ; (adv) đủ, khá; (n) số lượng đủ /ɪˈnʌf/
 
 Ngày nay con người vẫn thắc mắc hành tinh nào ở vũ trụ ngoài kia có thể hỗ trợ sự sống.
 

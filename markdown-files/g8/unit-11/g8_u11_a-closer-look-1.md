@@ -4,33 +4,33 @@
 
 **Vocabulary** 
 
-1. face recognition: nhận dạng khuôn mặt /feɪs ˌrekəɡˈnɪʃən/
+1. **face recognition** : nhận dạng khuôn mặt /feɪs ˌrekəɡˈnɪʃən/
 
-2. video conferencing: hội nghị truyền hình /ˈvɪdiəʊ ˈkɒnfərənsɪŋ/
+2. **video conferencing** : hội nghị truyền hình /ˈvɪdiəʊ ˈkɒnfərənsɪŋ/
 
-3. fingerprint scanner: máy quét vân tay /ˈfɪŋɡəprɪnt ˈskænə/
+3. **fingerprint scanner** : máy quét vân tay /ˈfɪŋɡəprɪnt ˈskænə/
 
-4. experiment: (n) thí nghiệm, cuộc thử nghiệm; (v) thực hiện thí nghiệm /ɪkˈsperɪmənt/
+4. **experiment** : (n) thí nghiệm, cuộc thử nghiệm; (v) thực hiện thí nghiệm /ɪkˈsperɪmənt/
 
-5. eye-tracking: theo dõi mắt /ˈaɪ ˌtrækɪŋ/
+5. **eye-tracking** : theo dõi mắt /ˈaɪ ˌtrækɪŋ/
 
-6. digital communication: giao tiếp kỹ thuật số /ˈdɪdʒɪtl kəˌmjuːnɪˈkeɪʃən/
+6. **digital communication** : giao tiếp kỹ thuật số /ˈdɪdʒɪtl kəˌmjuːnɪˈkeɪʃən/
 
-7. discover \- discovered \- discovered: (v) khám phá, phát hiện /dɪˈskʌvə/
+7. **discover \- discovered \- discovered** : (v) khám phá, phát hiện /dɪˈskʌvə/
 
-8. invent \- invented \- invented: (v) phát minh, sáng chế /ɪnˈvent/
+8. **invent \- invented \- invented** : (v) phát minh, sáng chế /ɪnˈvent/
 
-9. create \- created \- created: (v) tạo ra, sáng tạo /kriˈeɪt/
+9. **create \- created \- created** : (v) tạo ra, sáng tạo /kriˈeɪt/
 
-10. experiment: (n) thí nghiệm, cuộc thử nghiệm; (v) thực hiện thí nghiệm /ɪkˈsperɪmənt/
+10. **experiment** : (n) thí nghiệm, cuộc thử nghiệm; (v) thực hiện thí nghiệm /ɪkˈsperɪmənt/
 
-11. carry out \- carried out \- carried out: (v) thực hiện, tiến hành /ˈkæri aʊt/
+11. **carry out \- carried out \- carried out** : (v) thực hiện, tiến hành /ˈkæri aʊt/
 
-12. fingerprint scanner: máy quét vân tay /ˈfɪŋɡəprɪnt ˈskænə/
+12. **fingerprint scanner** : máy quét vân tay /ˈfɪŋɡəprɪnt ˈskænə/
 
-13. check attendance: điểm danh, kiểm tra sự có mặt /tʃek əˈtendəns/
+13. **check attendance** : điểm danh, kiểm tra sự có mặt /tʃek əˈtendəns/
 
-14. a cure for cancer: thuốc chữa bệnh ung thư /ə kjʊə fɔː ˈkænsə/
+14. **a cure for cancer** : thuốc chữa bệnh ung thư /ə kjʊə fɔː ˈkænsə/
 
 **Bài 1 trang 16** 
 

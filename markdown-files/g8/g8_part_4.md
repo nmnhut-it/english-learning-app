@@ -25,7 +25,7 @@
 **Bài 2 trang 41** 
 
 1.  C  
-2. post: (n) cây cột → B   
+2. **post** : (n) cây cột → B
 3. A
 
 **Bài 3 trang 41**
@@ -41,7 +41,7 @@
 **Bài 4 trang 41** 
 
 1. Tôi thích múa sạp, một điệu nhảy phổ biến của người Thái → folk dance   
-2. Ngôi nhà sàn đẹp của họ nhìn ra một cánh đồng lúa lớn → overlook: nhìn ra  
+2. **Ngôi nhà sàn đẹp của họ nhìn ra một cánh đồng lúa lớn → overlook** : nhìn ra
 3. Tên một loại nhạc cụ phổ biến của người Tày là  
     gì? → musical instrument  
    → Nó là đàn tính   
@@ -141,7 +141,7 @@ I go to school. Do you go to school?
 
 **Vocabulary**
 
-1. ash: tro /æʃ/
+1. **ash** : tro /æʃ/
 
 **Bài 1 trang 43** 
 
@@ -193,17 +193,17 @@ I go to school. Do you go to school?
 
 **Vocabulary** 
 
-1. **stilt house**: nhà sàn  
+1. **stilt house** : nhà sàn
 2. **popular (adj)**: phổ biến /ˈpɒp.jʊ.lə/  
 3. **highland (n)**: cao nguyên /ˈhaɪ.lənd/  
 4. **delta (n)**: đồng bằng /ˈdel.tə/  
 5. **culture (n)**: văn hóa /ˈkʌl.tʃə/  
 6. **material (n)**: vật liệu /məˈtɪə.ri.əl/  
 7. **post (n)**: cây cột /pəʊst/  
-8. **in the middle of**: ở giữa  
-9. **family gathering (n)**: đoàn tụ gia đình  
-10. **receive guests (v)**: tiếp khách  
-11. **overlook (v)**: nhìn ra /ˌəʊ.vəˈlʊk/
+8. **in the middle of** : ở giữa
+9. **family gathering (n)** : đoàn tụ gia đình
+10. **receive guests (v)** : tiếp khách
+11. **overlook (v)** : nhìn ra /ˌəʊ.vəˈlʊk/
 
 Nhà sàn
 
@@ -273,7 +273,7 @@ I usually help my family do things. Firstly, I prepare food and sometimes help m
 
 **Bài 1** 
 
-1. weaving: dệt vải \- c   
+1. **weaving** : dệt vải \- c
 2. dân vũ \- a   
 3. bếp lửa \- e   
 4. đánh cá \- b   
@@ -281,11 +281,11 @@ I usually help my family do things. Firstly, I prepare food and sometimes help m
 
 **Bài 2** 
 
-1. musical instrument: nhạc cụ   
-2. sticky rice: gạo dính \= nếp  
-3. communal house: nhà cộng đồng   
-4. folk songs: dân ca   
-5. staircase: cầu thang 
+1. **musical instrument** : nhạc cụ
+2. **sticky rice** : gạo dính \= nếp
+3. **communal house** : nhà cộng đồng
+4. **folk songs** : dân ca
+5. **staircase** : cầu thang
 
 **Bài 3** 
 
@@ -298,7 +298,7 @@ I usually help my family do things. Firstly, I prepare food and sometimes help m
 **Bài 4** 
 
 1. stands có s → houses bỏ s   
-2. leaf: lá cây, số nhiều là leaves → thêm s thành leaves   
+2. **leaf** : lá cây, số nhiều là leaves → thêm s thành leaves
 3. people đếm được → much đổi thành many   
 4. housework không đếm được → bỏ s   
 5. land không đếm được → many đổi thành much 

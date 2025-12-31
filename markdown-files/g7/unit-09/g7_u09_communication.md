@@ -4,10 +4,10 @@
 
 **Vocabulary** 
 
-1. It was disappointing: (thì quá khứ) thật đáng thất vọng /ɪt wɒz dɪsəˈpɔɪntɪŋ/  
-2. It was a big disappointment: đó là một sự thất vọng lớn /ɪt wɒz ə bɪɡ dɪsəˈpɔɪntmənt/  
-3. decoration: (n) đồ trang trí, vật trang trí /ˌdekəˈreɪʃən/  
-4. symbol: (n) biểu tượng, ký hiệu /ˈsɪmbəl/
+1. **It was disappointing** : (thì quá khứ) thật đáng thất vọng /ɪt wɒz dɪsəˈpɔɪntɪŋ/
+2. **It was a big disappointment** : đó là một sự thất vọng lớn /ɪt wɒz ə bɪɡ dɪsəˈpɔɪntmənt/
+3. **decoration** : (n) đồ trang trí, vật trang trí /ˌdekəˈreɪʃən/
+4. **symbol** : (n) biểu tượng, ký hiệu /ˈsɪmbəl/
 
 **Bài 2 trang 96** 
 

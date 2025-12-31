@@ -47,18 +47,18 @@
 
 **Vocabulary** 
 
-1. general information: thông tin chung /ˈdʒenərəl ˌɪnfəˈmeɪʃən/  
-2. activities: (n) các hoạt động /ækˈtɪvətiz/  
-3. square: (n) quảng trường /skweə(r)/  
-4. climb the pole: leo cột /klaɪm ðə pəʊl/  
-5. get the ham: lấy thịt giăm bông /get ðə hæm/  
-6. a jet of water: tia nước /ə dʒet əv ˈwɔːtə(r)/  
-7. throw \- threw \- thrown: (v) ném, quăng /θrəʊ \- θruː \- θrəʊn/  
-8. tomato juice: nước ép cà chua /təˈmɑːtəʊ dʒuːs/  
-9. traditional: (adj) truyền thống /trəˈdɪʃənəl/  
-10. herbs: (n) thảo mộc, rau thơm /hɜːbz/  
-11. water cannon: (n) vòi rồng, súng phun nước /ˈwɔːtə ˈkænən/  
-12. signal: (v) ra tín hiệu 
+1. **general information** : thông tin chung /ˈdʒenərəl ˌɪnfəˈmeɪʃən/
+2. **activities** : (n) các hoạt động /ækˈtɪvətiz/
+3. **square** : (n) quảng trường /skweə(r)/
+4. **climb the pole** : leo cột /klaɪm ðə pəʊl/
+5. **get the ham** : lấy thịt giăm bông /get ðə hæm/
+6. **a jet of water** : tia nước /ə dʒet əv ˈwɔːtə(r)/
+7. **throw \- threw \- thrown** : (v) ném, quăng /θrəʊ \- θruː \- θrəʊn/
+8. **tomato juice** : nước ép cà chua /təˈmɑːtəʊ dʒuːs/
+9. **traditional** : (adj) truyền thống /trəˈdɪʃənəl/
+10. **herbs** : (n) thảo mộc, rau thơm /hɜːbz/
+11. **water cannon** : (n) vòi rồng, súng phun nước /ˈwɔːtə ˈkænən/
+12. **signal** : (v) ra tín hiệu
 
 **Bài 1 trang 103** 
 

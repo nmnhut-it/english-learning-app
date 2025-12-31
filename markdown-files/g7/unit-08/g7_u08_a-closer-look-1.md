@@ -4,17 +4,17 @@
 
 **Vocabulary** 
 
-1. dull: (adj) buồn tẻ /dʌl/  
-2. violent: (adj) bạo lực /ˈvaɪələnt/  
-3. confusing: (adj) gây nhầm lẫn /kənˈfjuːzɪŋ/  
-4. shocking: (adj) gây sốc /ˈʃɒkɪŋ/  
-5. enjoyable: (adj) thú vị, đáng thưởng thức /ɪnˈdʒɔɪəbl/  
-6. difficult to understand: khó hiểu /ˈdɪfɪkəlt tə ˌʌndəˈstænd/  
-7. clear: (adj) rõ ràng /klɪə/  
-8. exciting: (adj) thú vị, hào hứng /ɪkˈsaɪtɪŋ/  
-9. giving pleasure: mang lại niềm vui /ˈgɪvɪŋ ˈpleʒə/  
-10. surprising: (adj) gây ngạc nhiên /səˈpraɪzɪŋ/  
-11. believe: (v) tin tưởng /bɪˈliːv/
+1. **dull** : (adj) buồn tẻ /dʌl/
+2. **violent** : (adj) bạo lực /ˈvaɪələnt/
+3. **confusing** : (adj) gây nhầm lẫn /kənˈfjuːzɪŋ/
+4. **shocking** : (adj) gây sốc /ˈʃɒkɪŋ/
+5. **enjoyable** : (adj) thú vị, đáng thưởng thức /ɪnˈdʒɔɪəbl/
+6. **difficult to understand** : khó hiểu /ˈdɪfɪkəlt tə ˌʌndəˈstænd/
+7. **clear** : (adj) rõ ràng /klɪə/
+8. **exciting** : (adj) thú vị, hào hứng /ɪkˈsaɪtɪŋ/
+9. **giving pleasure** : mang lại niềm vui /ˈgɪvɪŋ ˈpleʒə/
+10. **surprising** : (adj) gây ngạc nhiên /səˈpraɪzɪŋ/
+11. **believe** : (v) tin tưởng /bɪˈliːv/
 
 **Bài 1** 
 

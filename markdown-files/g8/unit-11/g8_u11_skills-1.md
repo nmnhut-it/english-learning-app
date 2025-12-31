@@ -4,30 +4,30 @@
 
 **Vocabulary** 
 
-1. eye-tracking: (n) theo dõi chuyển động mắt /ˈaɪ ˌtrækɪŋ/  
-2. fingerprint scanner: (n) máy quét vân tay /ˈfɪŋɡəprɪnt ˈskænə(r)/  
-3. face recognition: (n) nhận diện khuôn mặt /feɪs ˌrekəɡˈnɪʃn/  
-4. biometrics: (n) sinh trắc học /ˌbaɪəʊˈmetrɪks/  
-5. truancy: (n) trốn học /ˈtruːənsi/  
-6. cheating: (n) gian lận /ˈtʃiːtɪŋ/  
-7. introduce: (v) giới thiệu, đưa vào /ˌɪntrəˈdjuːs/  
-8. voice recognition: (n) nhận diện giọng nói /vɔɪs ˌrekəɡˈnɪʃn/  
-9. technology: (n) công nghệ /tekˈnɒlədʒi/  
-10. check attendance: điểm danh /tʃek əˈtendəns/  
-11. no longer: không còn /nəʊ ˈlɒŋɡə(r)/  
-12. call students' names: gọi tên học sinh /kɔːl ˈstjuːdnts neɪmz/  
-13. absent: (adj) vắng mặt /ˈæbsənt/  
-14. borrow: (v) mượn /ˈbɒrəʊ/  
-15. equipment: (n) thiết bị, trang thiết bị /ɪˈkwɪpmənt/  
-16. motivate: (v) khuyến khích, tạo động lực /ˈməʊtɪveɪt/  
-17. understanding: (n) sự hiểu biết, sự thông cảm /ˌʌndəˈstændɪŋ/  
-18. nanolearning: (n) học tập siêu nhỏ (học theo các đơn vị nội dung ngắn) /ˈnænəʊˌlɜːnɪŋ/  
-19. tired of: mệt mỏi về, chán với /ˈtaɪəd ɒv/  
-20. concentrate: (v) tập trung /ˈkɒnsntreɪt/  
-21. frequently: (adv) thường xuyên /ˈfriːkwəntli/  
-22. solution: (n) giải pháp /səˈluːʃn/  
-23. a short period of time: một khoảng thời gian ngắn /ə ʃɔːt ˈpɪəriəd ɒv taɪm/  
-24. ability: (n) khả năng /əˈbɪləti/
+1. **eye-tracking** : (n) theo dõi chuyển động mắt /ˈaɪ ˌtrækɪŋ/
+2. **fingerprint scanner** : (n) máy quét vân tay /ˈfɪŋɡəprɪnt ˈskænə(r)/
+3. **face recognition** : (n) nhận diện khuôn mặt /feɪs ˌrekəɡˈnɪʃn/
+4. **biometrics** : (n) sinh trắc học /ˌbaɪəʊˈmetrɪks/
+5. **truancy** : (n) trốn học /ˈtruːənsi/
+6. **cheating** : (n) gian lận /ˈtʃiːtɪŋ/
+7. **introduce** : (v) giới thiệu, đưa vào /ˌɪntrəˈdjuːs/
+8. **voice recognition** : (n) nhận diện giọng nói /vɔɪs ˌrekəɡˈnɪʃn/
+9. **technology** : (n) công nghệ /tekˈnɒlədʒi/
+10. **check attendance** : điểm danh /tʃek əˈtendəns/
+11. **no longer** : không còn /nəʊ ˈlɒŋɡə(r)/
+12. **call students' names** : gọi tên học sinh /kɔːl ˈstjuːdnts neɪmz/
+13. **absent** : (adj) vắng mặt /ˈæbsənt/
+14. **borrow** : (v) mượn /ˈbɒrəʊ/
+15. **equipment** : (n) thiết bị, trang thiết bị /ɪˈkwɪpmənt/
+16. **motivate** : (v) khuyến khích, tạo động lực /ˈməʊtɪveɪt/
+17. **understanding** : (n) sự hiểu biết, sự thông cảm /ˌʌndəˈstændɪŋ/
+18. **nanolearning** : (n) học tập siêu nhỏ (học theo các đơn vị nội dung ngắn) /ˈnænəʊˌlɜːnɪŋ/
+19. **tired of** : mệt mỏi về, chán với /ˈtaɪəd ɒv/
+20. **concentrate** : (v) tập trung /ˈkɒnsntreɪt/
+21. **frequently** : (adv) thường xuyên /ˈfriːkwəntli/
+22. **solution** : (n) giải pháp /səˈluːʃn/
+23. **a short period of time** : một khoảng thời gian ngắn /ə ʃɔːt ˈpɪəriəd ɒv taɪm/
+24. **ability** : (n) khả năng /əˈbɪləti/
 
 Sinh trắc học
 

@@ -4,33 +4,33 @@
 
 ### 📚 Vocabulary - Từ vựng
 **Environmental Protection (Unit 7) - Bảo vệ môi trường**
-- **pollution** : (n) sự ô nhiễm /pəˈluːʃən/
-- **destructive** : (adj) phá hủy, gây hại /dɪˈstrʌktɪv/
-- **air pollution** : (n) ô nhiễm không khí /eər pəˈluːʃən/
-- **exhaust fumes** : (n) khí thải /ɪɡˈzɔːst fjuːmz/
-- **dangerous** : (adj) nguy hiểm /ˈdeɪndʒərəs/
-- **coal** : (n) than đá /koʊl/
+1. **pollution** : (n) sự ô nhiễm /pəˈluːʃən/
+2. **destructive** : (adj) phá hủy, gây hại /dɪˈstrʌktɪv/
+3. **air pollution** : (n) ô nhiễm không khí /eər pəˈluːʃən/
+4. **exhaust fumes** : (n) khí thải /ɪɡˈzɔːst fjuːmz/
+5. **dangerous** : (adj) nguy hiểm /ˈdeɪndʒərəs/
+6. **coal** : (n) than đá /koʊl/
 
 **Shopping (Unit 8) - Mua sắm**
-- **customers** : (n) khách hàng /ˈkʌstəmərz/
-- **bargain** : (v) trả giá, mặc cả /ˈbɑːrɡɪn/
-- **single-use** : (adj) dùng một lần /ˈsɪŋɡəl juːs/
-- **shopping centres** : (n) trung tâm mua sắm /ˈʃɑːpɪŋ ˈsentərz/
-- **supermarket** : (n) siêu thị /ˈsuːpərmɑːrkɪt/
-- **disadvantage** : (n) bất lợi /ˌdɪsədˈvæntɪdʒ/
-- **addictive** : (adj) gây nghiện /əˈdɪktɪv/
+7. **customers** : (n) khách hàng /ˈkʌstəmərz/
+8. **bargain** : (v) trả giá, mặc cả /ˈbɑːrɡɪn/
+9. **single-use** : (adj) dùng một lần /ˈsɪŋɡəl juːs/
+10. **shopping centres** : (n) trung tâm mua sắm /ˈʃɑːpɪŋ ˈsentərz/
+11. **supermarket** : (n) siêu thị /ˈsuːpərmɑːrkɪt/
+12. **disadvantage** : (n) bất lợi /ˌdɪsədˈvæntɪdʒ/
+13. **addictive** : (adj) gây nghiện /əˈdɪktɪv/
 
 **Natural Disasters (Unit 9) - Thiên tai**
-- **habitats** : (n) môi trường sống /ˈhæbɪtæts/
-- **natural disasters** : (n) thiên tai /ˈnætʃərəl dɪˈzæstərz/
-- **landslides** : (n) sạt lở đất /ˈlændslaɪdz/
-- **earthquake** : (n) động đất /ˈɜːrθkweɪk/
-- **flood** : (n) lũ lụt /flʌd/
-- **storm** : (n) bão /stɔːrm/
-- **drought** : (n) hạn hán /draʊt/
-- **volcanic eruption** : (n) núi lửa phun trào /vɑːlˈkænɪk ɪˈrʌpʃən/
-- **extinction** : (n) sự tuyệt chủng /ɪkˈstɪŋkʃən/
-- **instructions** : (n) hướng dẫn /ɪnˈstrʌkʃənz/
+14. **habitats** : (n) môi trường sống /ˈhæbɪtæts/
+15. **natural disasters** : (n) thiên tai /ˈnætʃərəl dɪˈzæstərz/
+16. **landslides** : (n) sạt lở đất /ˈlændslaɪdz/
+17. **earthquake** : (n) động đất /ˈɜːrθkweɪk/
+18. **flood** : (n) lũ lụt /flʌd/
+19. **storm** : (n) bão /stɔːrm/
+20. **drought** : (n) hạn hán /draʊt/
+21. **volcanic eruption** : (n) núi lửa phun trào /vɑːlˈkænɪk ɪˈrʌpʃən/
+22. **extinction** : (n) sự tuyệt chủng /ɪkˈstɪŋkʃən/
+23. **instructions** : (n) hướng dẫn /ɪnˈstrʌkʃənz/
 
 ### 🗣️ Pronunciation - Phát âm
 **Stress patterns in words (Trọng âm trong từ)**
@@ -132,17 +132,17 @@ Focus on stress patterns:
 
 ### 📚 Vocabulary - Từ vựng
 **Additional vocabulary for skills practice:**
-- **mass movement** : (n) sự di chuyển hàng loạt /mæs ˈmuːvmənt/
-- **slope** : (n) sườn dốc /sloʊp/
-- **mountainous** : (adj) thuộc về núi /ˈmaʊntənəs/
-- **emergency** : (n) tình trạng khẩn cấp /ɪˈmɜːrdʒənsi/
-- **authorities** : (n) nhà chức trách /əˈθɔːrətiz/
-- **public shelter** : (n) nơi trú ẩn công cộng /ˈpʌblɪk ˈʃeltər/
-- **flooding** : (n) lũ lụt /ˈflʌdɪŋ/
-- **cautious** : (adj) thận trọng /ˈkɔːʃəs/
-- **sources** : (n) nguồn /sɔːrsɪz/
-- **convenience** : (n) sự tiện lợi /kənˈviːniəns/
-- **freshness** : (n) độ tươi /ˈfreʃnəs/
+1. **mass movement** : (n) sự di chuyển hàng loạt /mæs ˈmuːvmənt/
+2. **slope** : (n) sườn dốc /sloʊp/
+3. **mountainous** : (adj) thuộc về núi /ˈmaʊntənəs/
+4. **emergency** : (n) tình trạng khẩn cấp /ɪˈmɜːrdʒənsi/
+5. **authorities** : (n) nhà chức trách /əˈθɔːrətiz/
+6. **public shelter** : (n) nơi trú ẩn công cộng /ˈpʌblɪk ˈʃeltər/
+7. **flooding** : (n) lũ lụt /ˈflʌdɪŋ/
+8. **cautious** : (adj) thận trọng /ˈkɔːʃəs/
+9. **sources** : (n) nguồn /sɔːrsɪz/
+10. **convenience** : (n) sự tiện lợi /kənˈviːniəns/
+11. **freshness** : (n) độ tươi /ˈfreʃnəs/
 
 ### 📖 Reading - Đọc
 #### ✍️ Bài 1: Read the passage and tick (✓) T (True) or F (False) for each sentence

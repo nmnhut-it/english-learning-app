@@ -5,14 +5,21 @@
 }
 
 :root {
-  --primary: #6366f1;
+  /* Cheerful classroom palette */
+  --primary: #3b82f6;
   --secondary: #8b5cf6;
-  --bg-dark: #1a1a2e;
-  --bg-card: #16213e;
-  --text: #e2e8f0;
-  --text-muted: #94a3b8;
-  --correct: #10b981;
-  --incorrect: #ef4444;
+  --bg-dark: #e0f2fe;
+  --bg-card: #ffffff;
+  --bg-light: #f0f9ff;
+  --text: #1e293b;
+  --text-muted: #64748b;
+  --correct: #22c55e;
+  --incorrect: #f87171;
+  --warning: #fbbf24;
+  --gold: #fbbf24;
+  --accent-pink: #ec4899;
+  --accent-cyan: #06b6d4;
+  --accent-lime: #84cc16;
 
   /* Safe area for mobile notch */
   --safe-area-top: env(safe-area-inset-top, 0px);
@@ -49,9 +56,10 @@ html, body {
   max-width: 800px;
   width: 100%;
   aspect-ratio: 4/3;
-  border-radius: 12px;
+  border-radius: 16px;
   overflow: hidden;
-  box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);
+  box-shadow: 0 10px 40px -10px rgba(59, 130, 246, 0.3);
+  border: 2px solid rgba(59, 130, 246, 0.1);
 }
 
 #game-container canvas {

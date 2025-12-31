@@ -40,7 +40,7 @@
 2. **key to sth** (phrase) \- chìa khóa để làm gì /kiː tuː/  
 3. **healthy** (adj) \- khỏe mạnh /ˈhel.θi/  
 4. **express** (v) \- bày tỏ /ɪkˈspres/  
-5. fully: toàn vẹn   
+5. **fully** : toàn vẹn
 6. **keep it to yourself** (phrase) \- giữ cho riêng mình /kiːp ɪt tuː jɔːˈself/  
 7. **way** (n) \- cách /weɪ/  
 8. **others** (pron) \- những người khác /ˈʌð.əz/  
@@ -126,7 +126,7 @@ Camping can be lots of fun. When we go camping, there is plenty of time for game
 
 **Bài 4 trang 39** 
 
-1. dig \- dug \- dug: đào   
+1. **dig \- dug \- dug** : đào
    dig up dirt on sb: đào bới chuyện xấu, vu khống ai đó 
 
 1\. We join in community activities once a month

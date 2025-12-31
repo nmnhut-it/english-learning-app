@@ -3,21 +3,21 @@
 **COMMUNICATION**   
 **Vocabulary** 
 
-1. got it? : Hiểu chưa  
-2. do you follow me?: Bạn theo kịp không?   
-3. OK, I got what you mean: Ok, tôi hiểu bạn muốn nói gì   
-4. electronic device: thiết bị điện tử /ɪlekˈtrɒnɪk dɪˈvaɪs/  
-5. interactive lesson: bài học tương tác /ˌɪntərˈæktɪv ˈlesn/  
-6. cooperate: (v) hợp tác /kəʊˈɒpəreɪt/  
-7. complete assignments online: hoàn thành bài tập trực tuyến /kəmˈpliːt əˈsaɪnmənts ˈɒnlaɪn/  
-8. digital textbooks: sách giáo khoa điện tử /ˈdɪdʒɪtl ˈtekstbʊks/  
-9. instead of: (prep) thay vì /ɪnˈsted ɒv/  
-10. material: (n) tài liệu, vật liệu /məˈtɪəriəl/  
-11. distract: (v) làm xao nhãng, làm phân tâm /dɪˈstrækt/  
-12. non-educational content: nội dung không mang tính giáo dục /nɒn ˌedjʊˈkeɪʃənl ˈkɒntent/  
-13. additionally: (adv) thêm vào đó, ngoài ra /əˈdɪʃənəli/  
-14. eye strain: mỏi mắt /aɪ streɪn/  
-15. poor posture: tư thế xấu /pʊə ˈpɒstʃə/
+1. **got it?** : Hiểu chưa
+2. **do you follow me?** : Bạn theo kịp không?
+3. **OK, I got what you mean** : Ok, tôi hiểu bạn muốn nói gì
+4. **electronic device** : thiết bị điện tử /ɪlekˈtrɒnɪk dɪˈvaɪs/
+5. **interactive lesson** : bài học tương tác /ˌɪntərˈæktɪv ˈlesn/
+6. **cooperate** : (v) hợp tác /kəʊˈɒpəreɪt/
+7. **complete assignments online** : hoàn thành bài tập trực tuyến /kəmˈpliːt əˈsaɪnmənts ˈɒnlaɪn/
+8. **digital textbooks** : sách giáo khoa điện tử /ˈdɪdʒɪtl ˈtekstbʊks/
+9. **instead of** : (prep) thay vì /ɪnˈsted ɒv/
+10. **material** : (n) tài liệu, vật liệu /məˈtɪəriəl/
+11. **distract** : (v) làm xao nhãng, làm phân tâm /dɪˈstrækt/
+12. **non-educational content** : nội dung không mang tính giáo dục /nɒn ˌedjʊˈkeɪʃənl ˈkɒntent/
+13. **additionally** : (adv) thêm vào đó, ngoài ra /əˈdɪʃənəli/
+14. **eye strain** : mỏi mắt /aɪ streɪn/
+15. **poor posture** : tư thế xấu /pʊə ˈpɒstʃə/
 
 **Bài 2 trang 118**   
 1\.  

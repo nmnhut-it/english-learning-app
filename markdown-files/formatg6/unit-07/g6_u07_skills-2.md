@@ -4,14 +4,14 @@
 **Listening**   
 **Vocabulary** 
 
-1. interesting: (adj) thú vị, hấp dẫn /ˈɪntrəstɪŋ/  
-2. music programme: chương trình âm nhạc /ˈmjuːzɪk ˈprəʊɡræm/  
-3. channel: (n) kênh (truyền hình) /ˈtʃænəl/  
-4. watch: (v) xem /wɒtʃ/  
-5. choose a programme for yourself: tự chọn một chương trình cho mình /tʃuːz ə ˈprəʊɡræm fə jɔːˈself/  
-6. enjoy and have a great time: tận hưởng và có khoảng thời gian tuyệt vời /ɪnˈdʒɔɪ ænd hæv ə ɡreɪt taɪm/  
-7. Green Summer: mùa hè xanh  
-8. My Childhood: tuổi thơ của tôi. 
+1. **interesting** : (adj) thú vị, hấp dẫn /ˈɪntrəstɪŋ/
+2. **music programme** : chương trình âm nhạc /ˈmjuːzɪk ˈprəʊɡræm/
+3. **channel** : (n) kênh (truyền hình) /ˈtʃænəl/
+4. **watch** : (v) xem /wɒtʃ/
+5. **choose a programme for yourself** : tự chọn một chương trình cho mình /tʃuːz ə ˈprəʊɡræm fə jɔːˈself/
+6. **enjoy and have a great time** : tận hưởng và có khoảng thời gian tuyệt vời /ɪnˈdʒɔɪ ænd hæv ə ɡreɪt taɪm/
+7. **Green Summer** : mùa hè xanh
+8. **My Childhood** : tuổi thơ của tôi.
 
 **Bài 1 trang 13**  
 Green Summer: channel 1  

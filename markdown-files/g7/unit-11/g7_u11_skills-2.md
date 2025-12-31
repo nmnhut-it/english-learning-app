@@ -6,14 +6,14 @@
 
 **Vocabulary** 
 
-1. comfortable: (adj) thoải mái /ˈkʌmf(ə)təbl/  
-2. economical: (adj) tiết kiệm, kinh tế /ˌiːkəˈnɒmɪkl/  
-3. eco-friendly: (adj) thân thiện với môi trường /ˌiːkəʊ ˈfrendli/  
-4. run on petrol: chạy bằng xăng /rʌn ɒn ˈpetrəl/  
-5. bullet train: tàu cao tốc /ˈbʊlɪt treɪn/  
-6. popular: (adj) phổ biến, được nhiều người ưa thích /ˈpɒpjə4lə(r)/  
-7. use up much space: chiếm nhiều diện tích /juːz ʌp mʌtʃ speɪs/  
-8. avoid traffic accident: tránh tai nạn giao thông /əˈvɔɪd ˈtræfɪk ˈæksɪdənt/
+1. **comfortable** : (adj) thoải mái /ˈkʌmf(ə)təbl/
+2. **economical** : (adj) tiết kiệm, kinh tế /ˌiːkəˈnɒmɪkl/
+3. **eco-friendly** : (adj) thân thiện với môi trường /ˌiːkəʊ ˈfrendli/
+4. **run on petrol** : chạy bằng xăng /rʌn ɒn ˈpetrəl/
+5. **bullet train** : tàu cao tốc /ˈbʊlɪt treɪn/
+6. **popular** : (adj) phổ biến, được nhiều người ưa thích /ˈpɒpjə4lə(r)/
+7. **use up much space** : chiếm nhiều diện tích /juːz ʌp mʌtʃ speɪs/
+8. **avoid traffic accident** : tránh tai nạn giao thông /əˈvɔɪd ˈtræfɪk ˈæksɪdənt/
 
 **Bài 2 trang 121** 
 

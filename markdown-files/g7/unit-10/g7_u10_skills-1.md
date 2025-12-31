@@ -4,21 +4,21 @@
 
 **Reading** 
 
-1. 'd like \= would like: muốn, mong muốn /wʊd laɪk/  
-2. energy source: nguồn năng lượng /ˈenədʒi sɔːs/  
-3. non-renewable source: nguồn không tái tạo /nɒn-rɪˈnjuːəbl sɔːs/  
-4. renewable source: nguồn tái tạo /rɪˈnjuːəbl sɔːs/  
-5. coal: (n) than đá /kəʊl/  
-6. oil: (n) dầu mỏ /ɔɪl/  
-7. natural gas: (n) khí tự nhiên /ˈnætʃrəl gæs/  
-8. produce energy: sản xuất năng lượng /prəˈdjuːs ˈenədʒi/  
-9. cheap: (adj) rẻ, giá thấp /tʃiːp/  
-10. easy to use: dễ sử dụng /ˈiːzi tuː juːz/  
-11. limited: (adj) hạn chế, có giới hạn /ˈlɪmɪtɪd/  
-12. run out: (v) cạn kiệt, hết /rʌn aʊt/  
-13. available: (adj) sẵn có, có sẵn /əˈveɪləbl/  
-14. rely on: (v) phụ thuộc vào, dựa vào /rɪˈlaɪ ɒn/  
-15. better: (adj) tốt hơn /ˈbetə/ 
+1. **'d like \= would like** : muốn, mong muốn /wʊd laɪk/
+2. **energy source** : nguồn năng lượng /ˈenədʒi sɔːs/
+3. **non-renewable source** : nguồn không tái tạo /nɒn-rɪˈnjuːəbl sɔːs/
+4. **renewable source** : nguồn tái tạo /rɪˈnjuːəbl sɔːs/
+5. **coal** : (n) than đá /kəʊl/
+6. **oil** : (n) dầu mỏ /ɔɪl/
+7. **natural gas** : (n) khí tự nhiên /ˈnætʃrəl gæs/
+8. **produce energy** : sản xuất năng lượng /prəˈdjuːs ˈenədʒi/
+9. **cheap** : (adj) rẻ, giá thấp /tʃiːp/
+10. **easy to use** : dễ sử dụng /ˈiːzi tuː juːz/
+11. **limited** : (adj) hạn chế, có giới hạn /ˈlɪmɪtɪd/
+12. **run out** : (v) cạn kiệt, hết /rʌn aʊt/
+13. **available** : (adj) sẵn có, có sẵn /əˈveɪləbl/
+14. **rely on** : (v) phụ thuộc vào, dựa vào /rɪˈlaɪ ɒn/
+15. **better** : (adj) tốt hơn /ˈbetə/
 
 Xin chào, lớp học. Hôm nay tôi muốn nói cho các bạn về hai nguồn năng lượng. Chúng là nguồn không tái tạo và nguồn tái tạo.
 

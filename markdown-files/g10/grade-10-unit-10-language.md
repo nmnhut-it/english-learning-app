@@ -5,10 +5,10 @@
 
 ### New words
 
-1. intonation: (n) ngữ điệu /ˌɪntəˈneɪʃn/
-2. statement: (n) câu trần thuật /ˈsteɪtmənt/
-3. rising: (adj) đi lên /ˈraɪzɪŋ/
-4. falling: (adj) đi xuống /ˈfɔːlɪŋ/
+1. **intonation** : (n) ngữ điệu /ˌɪntəˈneɪʃn/
+2. **statement** : (n) câu trần thuật /ˈsteɪtmənt/
+3. **rising** : (adj) đi lên /ˈraɪzɪŋ/
+4. **falling** : (adj) đi xuống /ˈfɔːlɪŋ/
 
 ---
 
@@ -74,12 +74,12 @@
 
 ### New words
 
-1. responsible: (adj) có trách nhiệm /rɪˈspɒnsəbl/
-2. aware: (adj) nhận thức /əˈweə/
-3. impact: (n) tác động /ˈɪmpækt/
-4. profit: (n) lợi nhuận /ˈprɒfɪt/
-5. arts and crafts: (n.phr) đồ thủ công mỹ nghệ /ɑːts ənd krɑːfts/
-6. local: (adj) địa phương /ˈləʊkl/
+1. **responsible** : (adj) có trách nhiệm /rɪˈspɒnsəbl/
+2. **aware** : (adj) nhận thức /əˈweə/
+3. **impact** : (n) tác động /ˈɪmpækt/
+4. **profit** : (n) lợi nhuận /ˈprɒfɪt/
+5. **arts and crafts** : (n.phr) đồ thủ công mỹ nghệ /ɑːts ənd krɑːfts/
+6. **local** : (adj) địa phương /ˈləʊkl/
 
 ---
 
@@ -251,23 +251,23 @@ If + S + V (quá khứ đơn) / were, S + would/could/might + V (nguyên thể)
 
 ## Vocabulary (Từ vựng)
 
-1. intonation: (n) ngữ điệu /ˌɪntəˈneɪʃn/
-2. statement: (n) câu trần thuật /ˈsteɪtmənt/
-3. rising intonation: (n.phr) ngữ điệu đi lên /ˈraɪzɪŋ ˌɪntəˈneɪʃn/
-4. falling intonation: (n.phr) ngữ điệu đi xuống /ˈfɔːlɪŋ ˌɪntəˈneɪʃn/
-5. responsible: (adj) có trách nhiệm /rɪˈspɒnsəbl/
-6. aware: (adj) nhận thức /əˈweə/
-7. impact: (n) tác động /ˈɪmpækt/
-8. profit: (n) lợi nhuận /ˈprɒfɪt/
-9. arts and crafts: (n.phr) đồ thủ công mỹ nghệ /ɑːts ənd krɑːfts/
-10. local: (adj) địa phương /ˈləʊkl/
-11. handmade: (adj) làm bằng tay /ˌhændˈmeɪd/
-12. craftsman: (n) thợ thủ công (nam) /ˈkrɑːftsmən/
-13. craftswoman: (n) thợ thủ công (nữ) /ˈkrɑːftswʊmən/
-14. introduce: (v) giới thiệu /ˌɪntrəˈdjuːs/
-15. conditional sentence: (n.phr) câu điều kiện /kənˈdɪʃənl ˈsentəns/
-16. type 1 conditional: (n.phr) câu điều kiện loại 1 /taɪp wʌn kənˈdɪʃənl/
-17. type 2 conditional: (n.phr) câu điều kiện loại 2 /taɪp tuː kənˈdɪʃənl/
-18. carbon footprint: (n.phr) dấu chân carbon /ˈkɑːbən ˈfʊtprɪnt/
-19. give up: (v.phr) từ bỏ /ɡɪv ʌp/
-20. countryside: (n) nông thôn /ˈkʌntrisaɪd/
+1. **intonation** : (n) ngữ điệu /ˌɪntəˈneɪʃn/
+2. **statement** : (n) câu trần thuật /ˈsteɪtmənt/
+3. **rising intonation** : (n.phr) ngữ điệu đi lên /ˈraɪzɪŋ ˌɪntəˈneɪʃn/
+4. **falling intonation** : (n.phr) ngữ điệu đi xuống /ˈfɔːlɪŋ ˌɪntəˈneɪʃn/
+5. **responsible** : (adj) có trách nhiệm /rɪˈspɒnsəbl/
+6. **aware** : (adj) nhận thức /əˈweə/
+7. **impact** : (n) tác động /ˈɪmpækt/
+8. **profit** : (n) lợi nhuận /ˈprɒfɪt/
+9. **arts and crafts** : (n.phr) đồ thủ công mỹ nghệ /ɑːts ənd krɑːfts/
+10. **local** : (adj) địa phương /ˈləʊkl/
+11. **handmade** : (adj) làm bằng tay /ˌhændˈmeɪd/
+12. **craftsman** : (n) thợ thủ công (nam) /ˈkrɑːftsmən/
+13. **craftswoman** : (n) thợ thủ công (nữ) /ˈkrɑːftswʊmən/
+14. **introduce** : (v) giới thiệu /ˌɪntrəˈdjuːs/
+15. **conditional sentence** : (n.phr) câu điều kiện /kənˈdɪʃənl ˈsentəns/
+16. **type 1 conditional** : (n.phr) câu điều kiện loại 1 /taɪp wʌn kənˈdɪʃənl/
+17. **type 2 conditional** : (n.phr) câu điều kiện loại 2 /taɪp tuː kənˈdɪʃənl/
+18. **carbon footprint** : (n.phr) dấu chân carbon /ˈkɑːbən ˈfʊtprɪnt/
+19. **give up** : (v.phr) từ bỏ /ɡɪv ʌp/
+20. **countryside** : (n) nông thôn /ˈkʌntrisaɪd/

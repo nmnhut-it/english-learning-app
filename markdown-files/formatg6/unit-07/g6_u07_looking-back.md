@@ -7,11 +7,11 @@
 
 **Bài 2 trang 14** 
 
-1. viewers: người xem   
+1. **viewers** : người xem
 2. animal  
 3. sports   
-4. funny: hài hước  
-5. educational: mang tính giáo dục 
+4. **funny** : hài hước
+5. **educational** : mang tính giáo dục
 
 **Bài 3 trang 14** 
 

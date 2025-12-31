@@ -16,11 +16,11 @@
 
 **Bài 2 trang 90** 
 
-1. comedy: Mr. Bean   
-2. documentary: Điện Biên Phủ    
-3. fantasy: Harry Potter   
-4. horror film: Ma Da   
-5. science fiction film: Star Wars
+1. **comedy** : Mr. Bean
+2. **documentary** : Điện Biên Phủ
+3. **fantasy** : Harry Potter
+4. **horror film** : Ma Da
+5. **science fiction film** : Star Wars
 
 **Bài 3 trang 90** 
 

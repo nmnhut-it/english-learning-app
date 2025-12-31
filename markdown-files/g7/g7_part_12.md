@@ -4,16 +4,16 @@
 
 **Vocabulary** 
 
-1. holiday: (n) kỳ nghỉ, ngày lễ /ˈhɒlɪdeɪ/  
-2. fantastic: (adj) tuyệt vời, phi thường /fænˈtæstɪk/  
-3. ask for direction: hỏi đường /ɑːsk fɔː dɪˈrekʃn/  
-4. reading maps: đọc bản đồ /ˈriːdɪŋ mæps/  
-5. talk to local people: nói chuyện với người địa phương /tɔːk tuː ˈləʊkl ˈpiːpl/  
-6. season: (n) mùa /ˈsiːzn/  
-7. take a tour \- took a tour \- taken a tour: (v) tham quan, đi du lịch có hướng dẫn /teɪk ə tʊə \- tʊk ə tʊə \- ˈteɪkən ə tʊə/  
-8. penguin: (n) chim cánh cụt /ˈpeŋɡwɪn/  
-9. amazing landscape: phong cảnh tuyệt đẹp /əˈmeɪzɪŋ ˈlændskeɪp/  
-10. wonderful: (adj) tuyệt vời, kỳ diệu /ˈwʌndəfl/
+1. **holiday** : (n) kỳ nghỉ, ngày lễ /ˈhɒlɪdeɪ/
+2. **fantastic** : (adj) tuyệt vời, phi thường /fænˈtæstɪk/
+3. **ask for direction** : hỏi đường /ɑːsk fɔː dɪˈrekʃn/
+4. **reading maps** : đọc bản đồ /ˈriːdɪŋ mæps/
+5. **talk to local people** : nói chuyện với người địa phương /tɔːk tuː ˈləʊkl ˈpiːpl/
+6. **season** : (n) mùa /ˈsiːzn/
+7. **take a tour \- took a tour \- taken a tour** : (v) tham quan, đi du lịch có hướng dẫn /teɪk ə tʊə \- tʊk ə tʊə \- ˈteɪkən ə tʊə/
+8. **penguin** : (n) chim cánh cụt /ˈpeŋɡwɪn/
+9. **amazing landscape** : phong cảnh tuyệt đẹp /əˈmeɪzɪŋ ˈlændskeɪp/
+10. **wonderful** : (adj) tuyệt vời, kỳ diệu /ˈwʌndəfl/
 
 Mark: Kỳ nghỉ ở Úc của bạn thế nào, Phong?
 
@@ -147,7 +147,7 @@ A \- Kì nghỉ của Phong ở Úc
 
 1. tower   
 2. symbol  
-3. capital: thủ đô   
+3. **capital** : thủ đô
    capital punishment: tử hình   
 4. boat ride 
 

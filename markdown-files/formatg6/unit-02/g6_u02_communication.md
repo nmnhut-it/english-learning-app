@@ -43,7 +43,7 @@ Let’s \+ V0: Chúng ta hãy ….
 → Có 5 phòng trong nhà của Nick  
 There are five rooms in Nick’s house
 
-2. Có cái gì trong phòng khách của Nick? what: cái gì   
+2. **Có cái gì trong phòng khách của Nick? what** : cái gì
    **What are there in Nick’s living room?**  
    → Có một cái sofa, một cái đèn bàn, một cửa sổ.
 

@@ -4,20 +4,20 @@ UNIT 12: LIFE ON ANOTHER PLANET**
 
 **Vocabulary** 
 
-1. journey: (n) hành trình, chuyến đi /ˈdʒɜːni/  
-2. on the last page: ở trang cuối cùng /ɒn ðə lɑːst peɪdʒ/  
-3. science fiction book: sách khoa học viễn tưởng /ˈsaɪəns ˈfɪkʃn bʊk/  
-4. creature: (n) sinh vật, tạo vật /ˈkriːtʃə/  
-5. spaceship: (n) tàu vũ trụ /ˈspeɪsʃɪp/  
-6. break down: (v) hư hỏng, sự cố /breɪk daʊn/  
-7. repair: (v) sửa chữa, tu bổ /rɪˈpeə/  
-8. home planet: hành tinh quê hương /həʊm ˈplænɪt/  
-9. oppose: (v) phản đối, chống lại /əˈpəʊz/  
-10. commander: (n) chỉ huy, người chỉ huy /kəˈmɑːndə/  
-11. possibility: (n) khả năng, triển vọng /ˌpɒsəˈbɪləti/  
-12. alien: (n) người ngoài hành tinh; (adj) xa lạ, ngoại lai /ˈeɪliən/  
-13. take over our planet: chiếm lấy hành tinh của chúng ta /teɪk ˈəʊvə ˈaʊə ˈplænɪt/  
-14. not sure about it: không chắc chắn về điều đó /nɒt ʃʊər əˈbaʊt ɪt/
+1. **journey** : (n) hành trình, chuyến đi /ˈdʒɜːni/
+2. **on the last page** : ở trang cuối cùng /ɒn ðə lɑːst peɪdʒ/
+3. **science fiction book** : sách khoa học viễn tưởng /ˈsaɪəns ˈfɪkʃn bʊk/
+4. **creature** : (n) sinh vật, tạo vật /ˈkriːtʃə/
+5. **spaceship** : (n) tàu vũ trụ /ˈspeɪsʃɪp/
+6. **break down** : (v) hư hỏng, sự cố /breɪk daʊn/
+7. **repair** : (v) sửa chữa, tu bổ /rɪˈpeə/
+8. **home planet** : hành tinh quê hương /həʊm ˈplænɪt/
+9. **oppose** : (v) phản đối, chống lại /əˈpəʊz/
+10. **commander** : (n) chỉ huy, người chỉ huy /kəˈmɑːndə/
+11. **possibility** : (n) khả năng, triển vọng /ˌpɒsəˈbɪləti/
+12. **alien** : (n) người ngoài hành tinh; (adj) xa lạ, ngoại lai /ˈeɪliən/
+13. **take over our planet** : chiếm lấy hành tinh của chúng ta /teɪk ˈəʊvə ˈaʊə ˈplænɪt/
+14. **not sure about it** : không chắc chắn về điều đó /nɒt ʃʊər əˈbaʊt ɪt/
 
 ![][image9]
 
@@ -52,18 +52,18 @@ imaginary: (adj) tưởng tượng, không có thật
 
 **A CLOSER LOOK 1** 
 
-1. Earth: (n) Trái Đất /ɜːθ/  
-2. Jupiter: (n) Sao Mộc /ˈdʒuːpɪtə/  
-3. Mars: (n) Sao Hỏa /mɑːz/  
-4. Venus: (n) Sao Kim /ˈviːnəs/  
-5. Mercury: (n) Sao Thủy /ˈmɜːkjʊri/  
-6. Neptune: (n) Sao Hải Vương /ˈneptjuːn/  
-7. Saturn: (n) Sao Thổ /ˈsætən/  
-8. Uranus: (n) Sao Thiên Vương /jʊˈreɪnəs/  
-9. telescope: (n) kính viễn vọng, kính thiên văn /ˈtelɪskəʊp/  
-10. craters: (n) các miệng núi lửa, hố trên bề mặt hành tinh /ˈkreɪtəz/  
-11. outer: (adj) bên ngoài, ngoại vi /ˈaʊtə/  
-12. surface: (n) bề mặt, bề ngoài /ˈsɜːfɪs/
+1. **Earth** : (n) Trái Đất /ɜːθ/
+2. **Jupiter** : (n) Sao Mộc /ˈdʒuːpɪtə/
+3. **Mars** : (n) Sao Hỏa /mɑːz/
+4. **Venus** : (n) Sao Kim /ˈviːnəs/
+5. **Mercury** : (n) Sao Thủy /ˈmɜːkjʊri/
+6. **Neptune** : (n) Sao Hải Vương /ˈneptjuːn/
+7. **Saturn** : (n) Sao Thổ /ˈsætən/
+8. **Uranus** : (n) Sao Thiên Vương /jʊˈreɪnəs/
+9. **telescope** : (n) kính viễn vọng, kính thiên văn /ˈtelɪskəʊp/
+10. **craters** : (n) các miệng núi lửa, hố trên bề mặt hành tinh /ˈkreɪtəz/
+11. **outer** : (adj) bên ngoài, ngoại vi /ˈaʊtə/
+12. **surface** : (n) bề mặt, bề ngoài /ˈsɜːfɪs/
 
 **Bài 1 trang 126**
 
@@ -195,14 +195,14 @@ như trong câu hỏi
 
 **Vocabulary** 
 
-1. I'm not sure about it: tôi không chắc chắn về điều đó /aɪm nɒt ʃʊə əˈbaʊt ɪt/  
-2. Do you think Mars may support life?: bạn có nghĩ rằng sao Hỏa hỗ trợ sự sống không? /duː juː θɪŋk mɑːz səˈpɔːt laɪf/   
-3. I doubt it: (tôi) nghi ngờ điều đó /aɪ daʊt ɪt/  
-4. get a good mark: đạt được điểm số tốt /ɡet ə ɡʊd mɑːk/  
-5. stormy: (adj) có bão, giông bão /ˈstɔːmi/  
-6. atmosphere: (n) khí quyển, bầu không khí /ˈætməsfɪə/  
+1. **I'm not sure about it** : tôi không chắc chắn về điều đó /aɪm nɒt ʃʊə əˈbaʊt ɪt/
+2. **Do you think Mars may support life?** : bạn có nghĩ rằng sao Hỏa hỗ trợ sự sống không? /duː juː θɪŋk mɑːz səˈpɔːt laɪf/
+3. **I doubt it** : (tôi) nghi ngờ điều đó /aɪ daʊt ɪt/
+4. **get a good mark** : đạt được điểm số tốt /ɡet ə ɡʊd mɑːk/
+5. **stormy** : (adj) có bão, giông bão /ˈstɔːmi/
+6. **atmosphere** : (n) khí quyển, bầu không khí /ˈætməsfɪə/
 7. the morning star: sao Mai (sao Kim khi xuất hiện vào buổi sáng) /ðə ˈmɔːnɪŋ stɑː/  
-8. similar: (adj) giống nhau, tương tự /ˈsɪmɪlə/
+8. **similar** : (adj) giống nhau, tương tự /ˈsɪmɪlə/
 
 **Bài 2 trang 129** 
 
@@ -265,31 +265,31 @@ Jupiter is the largest and stormiest planet.
 
 **Vocabulary** 
 
-1. wonder: (v) tự hỏi, thắc mắc; (n) kỳ quan, điều kỳ diệu /ˈwʌndə/  
-2. meet three main conditions: đáp ứng ba điều kiện chính /miːt θriː meɪn kənˈdɪʃnz/  
-3. liquid water: nước ở thể lỏng /ˈlɪkwɪd ˈwɔːtə/  
-4. temperature: (n) nhiệt độ /ˈtemprətʃə/  
-5. too high: quá cao /tuː haɪ/  
-6. too low: quá thấp /tuː ləʊ/  
-7. gravity: (n) trọng lực /ˈɡrævɪti/  
-8. hold too much air: giữ quá nhiều không khí /həʊld tuː mʌtʃ eə/  
-9. habitable: (adj) có thể cư trú được, đáng ở /ˈhæbɪtəbl/  
-10. promise: (v) hứa, cam đoan; (n) lời hứa, cam kết /ˈprɒmɪs/  
-11. promising: (adj) đầy tính hứa hẹn, triển vọng /ˈprɒmɪsɪŋ/  
-12. bore: (v) làm chán, khoan, đục /bɔː/  
-13. boring: (adj) nhàm chán, tẻ nhạt /ˈbɔːrɪŋ/  
-14. trace: (n) dấu vết, vết tích; (v) truy tìm, vẽ theo /treɪs/  
-15. climate: (n) khí hậu /ˈklaɪmət/  
-16. lack: (n) sự thiếu; (v) thiếu, không có /læk/  
-17. show signs of: cho thấy dấu hiệu của /ʃəʊ saɪnz ɒv/  
-18. successful: (adj) thành công, thắng lợi /səkˈsesfʊl/  
-19. solid: (adj) rắn, đặc, chắc chắn; (n) chất rắn /ˈsɒlɪd/  
-20. gas: (n) khí, chất khí /ɡæs/  
-21. flow freely: chảy tự do /fləʊ ˈfriːli/  
-22. substance: (n) chất, vật chất /ˈsʌbstəns/  
-23. in the form of: dưới dạng, theo hình thức /ɪn ðə fɔːm ɒv/  
-24. exist: (v) tồn tại, sinh sống /ɪɡˈzɪst/  
-25. enough: (adj) đủ; (adv) đủ, khá; (n) số lượng đủ /ɪˈnʌf/
+1. **wonder** : (v) tự hỏi, thắc mắc; (n) kỳ quan, điều kỳ diệu /ˈwʌndə/
+2. **meet three main conditions** : đáp ứng ba điều kiện chính /miːt θriː meɪn kənˈdɪʃnz/
+3. **liquid water** : nước ở thể lỏng /ˈlɪkwɪd ˈwɔːtə/
+4. **temperature** : (n) nhiệt độ /ˈtemprətʃə/
+5. **too high** : quá cao /tuː haɪ/
+6. **too low** : quá thấp /tuː ləʊ/
+7. **gravity** : (n) trọng lực /ˈɡrævɪti/
+8. **hold too much air** : giữ quá nhiều không khí /həʊld tuː mʌtʃ eə/
+9. **habitable** : (adj) có thể cư trú được, đáng ở /ˈhæbɪtəbl/
+10. **promise** : (v) hứa, cam đoan; (n) lời hứa, cam kết /ˈprɒmɪs/
+11. **promising** : (adj) đầy tính hứa hẹn, triển vọng /ˈprɒmɪsɪŋ/
+12. **bore** : (v) làm chán, khoan, đục /bɔː/
+13. **boring** : (adj) nhàm chán, tẻ nhạt /ˈbɔːrɪŋ/
+14. **trace** : (n) dấu vết, vết tích; (v) truy tìm, vẽ theo /treɪs/
+15. **climate** : (n) khí hậu /ˈklaɪmət/
+16. **lack** : (n) sự thiếu; (v) thiếu, không có /læk/
+17. **show signs of** : cho thấy dấu hiệu của /ʃəʊ saɪnz ɒv/
+18. **successful** : (adj) thành công, thắng lợi /səkˈsesfʊl/
+19. **solid** : (adj) rắn, đặc, chắc chắn; (n) chất rắn /ˈsɒlɪd/
+20. **gas** : (n) khí, chất khí /ɡæs/
+21. **flow freely** : chảy tự do /fləʊ ˈfriːli/
+22. **substance** : (n) chất, vật chất /ˈsʌbstəns/
+23. **in the form of** : dưới dạng, theo hình thức /ɪn ðə fɔːm ɒv/
+24. **exist** : (v) tồn tại, sinh sống /ɪɡˈzɪst/
+25. **enough** : (adj) đủ; (adv) đủ, khá; (n) số lượng đủ /ɪˈnʌf/
 
 Ngày nay con người vẫn thắc mắc hành tinh nào ở vũ trụ ngoài kia có thể hỗ trợ sự sống.
 
@@ -353,16 +353,16 @@ There are some conditions that planets must have to support human life on them. 
 
 **Vocabulary** 
 
-1. be located \+ in/at/on \+ vị trí: tọa lạc ở... /bi ləʊˈkeɪtɪd/  
-2. climate: (n) khí hậu /ˈklaɪmət/  
-3. the Milky Way: (n) dải Ngân Hà /ðə ˌmɪlki ˈweɪ/  
-4. surface: (n) bề mặt /ˈsɜːfɪs/  
-5. dry: (adj) khô /draɪ/  
-6. thick skin: (n) da dày /ˌθɪk ˈskɪn/  
-7. protect: (v) bảo vệ /prəˈtekt/  
-8. liquid water: (n) nước ở thể lỏng /ˌlɪkwɪd ˈwɔːtə/  
-9. description: (n) sự mô tả /dɪˈskrɪpʃən/  
-10. dangerous: (adj) nguy hiểm /ˈdeɪndʒərəs/
+1. **be located \+ in/at/on \+ vị trí** : tọa lạc ở... /bi ləʊˈkeɪtɪd/
+2. **climate** : (n) khí hậu /ˈklaɪmət/
+3. **the Milky Way** : (n) dải Ngân Hà /ðə ˌmɪlki ˈweɪ/
+4. **surface** : (n) bề mặt /ˈsɜːfɪs/
+5. **dry** : (adj) khô /draɪ/
+6. **thick skin** : (n) da dày /ˌθɪk ˈskɪn/
+7. **protect** : (v) bảo vệ /prəˈtekt/
+8. **liquid water** : (n) nước ở thể lỏng /ˌlɪkwɪd ˈwɔːtə/
+9. **description** : (n) sự mô tả /dɪˈskrɪpʃən/
+10. **dangerous** : (adj) nguy hiểm /ˈdeɪndʒərəs/
 
 **Writing** 
 

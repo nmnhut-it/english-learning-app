@@ -284,13 +284,13 @@ Khi muốn nói cái gì đó của ai đó, ta dùng cấu trúc:
 **Prepositions of place - Giới từ chỉ nơi chốn**
 
 **Cách sử dụng:**
-- **in** (trong): The cat is **in** the box. (Con mèo ở trong hộp)
-- **on** (trên): The book is **on** the table. (Quyển sách ở trên bàn)
-- **under** (dưới): The shoes are **under** the bed. (Giày ở dưới giường)
-- **next to** (bên cạnh): The lamp is **next to** the bed. (Đèn ở bên cạnh giường)
-- **behind** (phía sau): The tree is **behind** the house. (Cây ở phía sau nhà)
-- **in front of** (phía trước): The car is **in front of** the house. (Xe ở phía trước nhà)
-- **between** (giữa): The table is **between** two chairs. (Bàn ở giữa hai cái ghế)
+1. **in** : (trong) The cat is **in** the box. (Con mèo ở trong hộp)
+2. **on** : (trên) The book is **on** the table. (Quyển sách ở trên bàn)
+3. **under** : (dưới) The shoes are **under** the bed. (Giày ở dưới giường)
+4. **next to** : (bên cạnh) The lamp is **next to** the bed. (Đèn ở bên cạnh giường)
+5. **behind** : (phía sau) The tree is **behind** the house. (Cây ở phía sau nhà)
+6. **in front of** : (phía trước) The car is **in front of** the house. (Xe ở phía trước nhà)
+7. **between** : (giữa) The table is **between** two chairs. (Bàn ở giữa hai cái ghế)
 
 **Lưu ý:** 
 - Giới từ chỉ nơi chốn dùng để chỉ vị trí của người, vật, địa điểm
@@ -670,7 +670,7 @@ My name's Mai. I live in a town house in Ha Noi. I live with my parents. There a
 1. I live in Tien Giang.
 *(Mình sống ở Tiền Giang.)*
 
-2. There are 6 rooms in my house: The kitchen, the living room, the bathroom and three bedrooms.
+2. **There are 6 rooms in my house** : The kitchen, the living room, the bathroom and three bedrooms.
 *(Có 6 phòng trong nhà của mình: phòng bếp, phòng khách, phòng tắm và 3 phòng ngủ.)*
 
 3. I like the kitchen best because after working, my family gathers together to enjoy the food my mom cooks and we share our story of a day with each other.

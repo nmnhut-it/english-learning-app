@@ -4,25 +4,25 @@
 **Reading**   
 **Vocabulary** 
 
-1. destination: (n) điểm đến, nơi đến /ˌdestɪˈneɪʃən/  
-2. itinerary: (n) lịch trình, kế hoạch hành trình /aɪˈtɪnərəri/  
-3. cost: (n) chi phí, giá cả /kɒst/  
-4. go wrong: gặp trục trặc, có vấn đề /ɡəʊ rɒŋ/  
-5. hunt for tickets: tìm kiếm vé /hʌnt fɔː ˈtɪkɪts/  
-6. accommodation: (n) chỗ ở, nơi ở /əˌkɒməˈdeɪʃən/  
-7. have a smooth trip: có chuyến đi suôn sẻ /hæv ə smuːð trɪp/  
-8. require: (v) yêu cầu, đòi hỏi /rɪˈkwaɪə/  
-9. advantage: (n) lợi thế, ưu điểm /ədˈvɑːntɪdʒ/  
-10. announce: (v) thông báo, loan báo /əˈnaʊns/  
-11. miss: (v) bỏ lỡ, nhớ /mɪs/  
-12. novel: (n) tiểu thuyết /ˈnɒvəl/  
-13. recent: (adj) gần đây, mới đây /ˈriːsnt/  
-14. schedule: (n) lịch trình, thời gian biểu /ˈʃedjuːl/  
-15. see: (v) nhìn thấy, xem /siː/  
-16. skill: (n) kỹ năng, tài năng /skɪl/   
-17. witness: (v) chứng kiến /ˈwɪtnəs/   
-18. write: (v) viết /raɪt/  
-19. writer: (n) nhà văn, tác giả /ˈraɪtə/
+1. **destination** : (n) điểm đến, nơi đến /ˌdestɪˈneɪʃən/
+2. **itinerary** : (n) lịch trình, kế hoạch hành trình /aɪˈtɪnərəri/
+3. **cost** : (n) chi phí, giá cả /kɒst/
+4. **go wrong** : gặp trục trặc, có vấn đề /ɡəʊ rɒŋ/
+5. **hunt for tickets** : tìm kiếm vé /hʌnt fɔː ˈtɪkɪts/
+6. **accommodation** : (n) chỗ ở, nơi ở /əˌkɒməˈdeɪʃən/
+7. **have a smooth trip** : có chuyến đi suôn sẻ /hæv ə smuːð trɪp/
+8. **require** : (v) yêu cầu, đòi hỏi /rɪˈkwaɪə/
+9. **advantage** : (n) lợi thế, ưu điểm /ədˈvɑːntɪdʒ/
+10. **announce** : (v) thông báo, loan báo /əˈnaʊns/
+11. **miss** : (v) bỏ lỡ, nhớ /mɪs/
+12. **novel** : (n) tiểu thuyết /ˈnɒvəl/
+13. **recent** : (adj) gần đây, mới đây /ˈriːsnt/
+14. **schedule** : (n) lịch trình, thời gian biểu /ˈʃedjuːl/
+15. **see** : (v) nhìn thấy, xem /siː/
+16. **skill** : (n) kỹ năng, tài năng /skɪl/
+17. **witness** : (v) chứng kiến /ˈwɪtnəs/
+18. **write** : (v) viết /raɪt/
+19. **writer** : (n) nhà văn, tác giả /ˈraɪtə/
 
 Hai loại hình du lịch phổ biến nhất hiện nay là tour trọn gói và tour tự túc.  
 Khi bạn mua một tour trọn gói, công ty du lịch sẽ lo hầu hết mọi thứ cho bạn. Bạn sẽ nhận được thông báo về các địa điểm tham quan, lịch trình chi tiết, và chi phí. Họ sẽ bảo vệ bạn nếu có điều gì không ổn xảy ra trong chuyến đi. Loại hình du lịch này giúp tiết kiệm thời gian và giảm căng thẳng cho du khách. Nó mang đến một lựa chọn thuận tiện cho những người cao tuổi, những người không muốn tốn nhiều thời gian tự tìm kiếm thông tin, hoặc những người không tự tin khi sử dụng các ứng dụng trực tuyến. Một điểm bất lợi của loại hình này là bạn phải tuân theo một lịch trình cố định.  

@@ -90,16 +90,16 @@ Trả lời
 
 **Vocabulary** 
 
-1. classical: (adj) cổ điển, thuộc về âm nhạc cổ điển /ˈklæsɪkəl/  
-2. pass: (v) vượt qua, đi qua, đạt (kỳ thi) /pɑːs/  
-3. entrance exam: kỳ thi đầu vào /ˈentrəns ɪgˈzæm/  
-4. need: (v) cần, đòi hỏi; (n) nhu cầu, sự cần thiết /niːd/  
-5. recipe: (n) công thức nấu ăn, công thức chế biến /ˈresɪpi/  
-6. enter: (v) bước vào, đi vào, tham gia /ˈentə/  
-7. some: (adj) một vài, một số, một ít /sʌm/  
-8. apple: (n) quả táo /ˈæpəl/  
-9. butter: (n) bơ /ˈbʌtə/  
-10. portrait: (n) chân dung, bức chân dung /ˈpɔːtrət/
+1. **classical** : (adj) cổ điển, thuộc về âm nhạc cổ điển /ˈklæsɪkəl/
+2. **pass** : (v) vượt qua, đi qua, đạt (kỳ thi) /pɑːs/
+3. **entrance exam** : kỳ thi đầu vào /ˈentrəns ɪgˈzæm/
+4. **need** : (v) cần, đòi hỏi; (n) nhu cầu, sự cần thiết /niːd/
+5. **recipe** : (n) công thức nấu ăn, công thức chế biến /ˈresɪpi/
+6. **enter** : (v) bước vào, đi vào, tham gia /ˈentə/
+7. **some** : (adj) một vài, một số, một ít /sʌm/
+8. **apple** : (n) quả táo /ˈæpəl/
+9. **butter** : (n) bơ /ˈbʌtə/
+10. **portrait** : (n) chân dung, bức chân dung /ˈpɔːtrət/
 
 **Trả lời**
 
@@ -137,16 +137,16 @@ Trả lời
 
 **Vocabulary:** 
 
-1. scientist: (n) nhà khoa học /ˈsaɪəntɪsts/  
-2. composer: (n) nhà soạn nhạc /kəmˈpəʊzəz/  
-3. butter: (n) bơ /ˈbʌtə/  
-4. apple: (n) quả táo /ˈæplz/  
-5. portrait: (n) chân dung /ˈpɔːtrət/  
-6. concert: (n) buổi hòa nhạc /ˈkɒnsət/  
-7. normal: (adj) bình thường, thông thường /ˈnɔːməl/  
-8. gifted: (adj) có năng khiếu, có tài năng thiên bẩm /ˈɡɪftɪd/  
-9. entrance: (n) lối vào, cửa vào; sự đi vào /ˈentrəns/  
-10. final: (adj) cuối cùng; (n) kỳ thi cuối kỳ /ˈfaɪnəl/
+1. **scientist** : (n) nhà khoa học /ˈsaɪəntɪsts/
+2. **composer** : (n) nhà soạn nhạc /kəmˈpəʊzəz/
+3. **butter** : (n) bơ /ˈbʌtə/
+4. **apple** : (n) quả táo /ˈæplz/
+5. **portrait** : (n) chân dung /ˈpɔːtrət/
+6. **concert** : (n) buổi hòa nhạc /ˈkɒnsət/
+7. **normal** : (adj) bình thường, thông thường /ˈnɔːməl/
+8. **gifted** : (adj) có năng khiếu, có tài năng thiên bẩm /ˈɡɪftɪd/
+9. **entrance** : (n) lối vào, cửa vào; sự đi vào /ˈentrəns/
+10. **final** : (adj) cuối cùng; (n) kỳ thi cuối kỳ /ˈfaɪnəl/
 
 **Trả lời**
 
@@ -284,22 +284,22 @@ Nhận biết: be not different from \+ N (không khác với) \= be like \+ N (
 
 **Vocabulary**  
 
-1. enjoy: (v) thích, thưởng thức, vui hưởng /ɪnˈdʒɔɪ/  
-2. concert: (n) buổi hòa nhạc /ˈkɒnsət/  
-3. orchestra: (n) dàn nhạc giao hưởng /ˈɔːkɪstrə/  
-4. formal clothes: quần áo trang trọng /ˈfɔːməl kləʊðz/  
-5. audience: (n) khán giả, người xem /ˈɔːdiəns/  
-6. silent: (adj) im lặng, yên tĩnh /ˈsaɪlənt/  
-7. rock music: nhạc rock /rɒk ˈmjuːzɪk/  
-8. dance to the music: nhảy múa theo nhạc /dɑːns tə ðə ˈmjuːzɪk/  
-9. football stadium: sân vận động bóng đá /ˈfʊtbɔːl ˈsteɪdiəm/  
-10. wedding: (n) đám cưới /ˈwedɪŋ/    
-11. party: (n) bữa tiệc, buổi tiệc /ˈpɑːti/  
-12. lift: (n) thang máy /lɪft/  
-13. even: (adv) thậm chí, ngay cả /ˈiːvən/  
-14. historical: (adj) thuộc về lịch sử, có tính lịch sử /hɪˈstɒrɪkəl/  
-15. traditional: (adj) truyền thống /trəˈdɪʃənəl/  
-16. national: (adj) thuộc về quốc gia, mang tính dân tộc /ˈnæʃənəl/
+1. **enjoy** : (v) thích, thưởng thức, vui hưởng /ɪnˈdʒɔɪ/
+2. **concert** : (n) buổi hòa nhạc /ˈkɒnsət/
+3. **orchestra** : (n) dàn nhạc giao hưởng /ˈɔːkɪstrə/
+4. **formal clothes** : quần áo trang trọng /ˈfɔːməl kləʊðz/
+5. **audience** : (n) khán giả, người xem /ˈɔːdiəns/
+6. **silent** : (adj) im lặng, yên tĩnh /ˈsaɪlənt/
+7. **rock music** : nhạc rock /rɒk ˈmjuːzɪk/
+8. **dance to the music** : nhảy múa theo nhạc /dɑːns tə ðə ˈmjuːzɪk/
+9. **football stadium** : sân vận động bóng đá /ˈfʊtbɔːl ˈsteɪdiəm/
+10. **wedding** : (n) đám cưới /ˈwedɪŋ/
+11. **party** : (n) bữa tiệc, buổi tiệc /ˈpɑːti/
+12. **lift** : (n) thang máy /lɪft/
+13. **even** : (adv) thậm chí, ngay cả /ˈiːvən/
+14. **historical** : (adj) thuộc về lịch sử, có tính lịch sử /hɪˈstɒrɪkəl/
+15. **traditional** : (adj) truyền thống /trəˈdɪʃənəl/
+16. **national** : (adj) thuộc về quốc gia, mang tính dân tộc /ˈnæʃənəl/
 
 **Trả lời:**
 

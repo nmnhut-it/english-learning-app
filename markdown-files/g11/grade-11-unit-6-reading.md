@@ -57,10 +57,10 @@ To preserve heritage, such as traditional music and stories, a group of secondar
    - C. invited guests for an event
 
 #### Answer Key:
-1. A - appreciate: to recognise the good qualities of something
-2. A - trending: being discussed a lot on social media
-3. C - give voice to: to express opinions about something
-4. B - proposed: suggested something as a plan or course of action
+1. **A - appreciate** : to recognise the good qualities of something
+2. **A - trending** : being discussed a lot on social media
+3. **C - give voice to** : to express opinions about something
+4. **B - proposed** : suggested something as a plan or course of action
 
 ### Exercise 3: Read the article again. Match the following headings (1-4) with the appropriate paragraphs (A-C). There is ONE extra heading.
 

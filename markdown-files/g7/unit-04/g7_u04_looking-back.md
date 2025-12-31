@@ -5,9 +5,9 @@
 **Bài 1 trang 48**
 
 1. draw: a painting, a portrait (chân dung), a house  
-2. perform: music, dancing, a show  
-3. write: an essay, a poem, a letter  
-4. watch: TV. a football match, a performance 
+2. **perform** : music, dancing, a show
+3. **write** : an essay, a poem, a letter
+4. **watch** : TV. a football match, a performance
 
 **Bài 2 trang 48** 
 

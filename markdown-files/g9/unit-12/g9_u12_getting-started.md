@@ -3,25 +3,25 @@
 **GETTING STARTED**   
 **Vocabulary** 
 
-1. attend: (v) tham dự, tham gia /əˈtend/  
-2. career: (n) sự nghiệp, nghề nghiệp /kəˈrɪə/  
-3. career orientation session: buổi định hướng nghề nghiệp /kəˈrɪə ˌɔːrienˈteɪʃn ˈseʃn/  
-4. informative: (adj) cung cấp thông tin, bổ ích /ɪnˈfɔːmətɪv/  
-5. guest speaker: (n) diễn giả khách mời /ɡest ˈspiːkə/  
-6. vocational college: (n) trường cao đẳng nghề /vəʊˈkeɪʃənl ˈkɒlɪdʒ/  
-7. training course: (n) khóa đào tạo /ˈtreɪnɪŋ kɔːs/  
-8. lower secondary leaver: người tốt nghiệp trung học cơ sở /ˌləʊə ˈsekəndri ˈliːvə/  
-9. academic subject: (n) môn học thuật /ˌækəˈdemɪk ˈsʌbdʒɪkt/  
-10. apply for courses: đăng ký các khóa học /əˈplaɪ fɔː ˈkɔːsɪz/  
-11. prepare us for a job: chuẩn bị cho chúng ta một công việc /prɪˈpeə ʌs fɔːr ə dʒɒb/  
-12. mechanic: (n) thợ máy, kỹ thuật viên /mɪˈkænɪk/  
-13. hairdresser: (n) thợ làm tóc /ˈheəˌdresə/  
-14. garment worker: (n) công nhân may mặc /ˈɡɑːmənt ˈwɜːkə/  
-15. earn a living: kiếm sống /ɜːn ə ˈlɪvɪŋ/  
-16. bartender: (n) người pha chế đồ uống /ˈbɑːˌtendə/  
-17. a good sense of style: khiếu thẩm mỹ tốt /ə ɡʊd sens əv staɪl/  
-18. formal training: (n) đào tạo chính quy /ˈfɔːml ˈtreɪnɪŋ/  
-19. achieve your dream: đạt được ước mơ của bạn /əˈtʃiːv jɔː driːm/
+1. **attend** : (v) tham dự, tham gia /əˈtend/
+2. **career** : (n) sự nghiệp, nghề nghiệp /kəˈrɪə/
+3. **career orientation session** : buổi định hướng nghề nghiệp /kəˈrɪə ˌɔːrienˈteɪʃn ˈseʃn/
+4. **informative** : (adj) cung cấp thông tin, bổ ích /ɪnˈfɔːmətɪv/
+5. **guest speaker** : (n) diễn giả khách mời /ɡest ˈspiːkə/
+6. **vocational college** : (n) trường cao đẳng nghề /vəʊˈkeɪʃənl ˈkɒlɪdʒ/
+7. **training course** : (n) khóa đào tạo /ˈtreɪnɪŋ kɔːs/
+8. **lower secondary leaver** : người tốt nghiệp trung học cơ sở /ˌləʊə ˈsekəndri ˈliːvə/
+9. **academic subject** : (n) môn học thuật /ˌækəˈdemɪk ˈsʌbdʒɪkt/
+10. **apply for courses** : đăng ký các khóa học /əˈplaɪ fɔː ˈkɔːsɪz/
+11. **prepare us for a job** : chuẩn bị cho chúng ta một công việc /prɪˈpeə ʌs fɔːr ə dʒɒb/
+12. **mechanic** : (n) thợ máy, kỹ thuật viên /mɪˈkænɪk/
+13. **hairdresser** : (n) thợ làm tóc /ˈheəˌdresə/
+14. **garment worker** : (n) công nhân may mặc /ˈɡɑːmənt ˈwɜːkə/
+15. **earn a living** : kiếm sống /ɜːn ə ˈlɪvɪŋ/
+16. **bartender** : (n) người pha chế đồ uống /ˈbɑːˌtendə/
+17. **a good sense of style** : khiếu thẩm mỹ tốt /ə ɡʊd sens əv staɪl/
+18. **formal training** : (n) đào tạo chính quy /ˈfɔːml ˈtreɪnɪŋ/
+19. **achieve your dream** : đạt được ước mơ của bạn /əˈtʃiːv jɔː driːm/
 
 Mi: Bạn có tham dự buổi định hướng nghề nghiệp ngày hôm qua không?
 

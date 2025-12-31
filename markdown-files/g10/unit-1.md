@@ -2,33 +2,33 @@
 
 ## I. GETTING STARTED (Trang 8-9)
 ### 📚 Vocabulary
-- **fit** : (adj) cân đối, khỏe mạnh /fɪt/
-- **healthy** : (adj) lành mạnh, khỏe mạnh /ˈhelθi/
-- **work out** : (v) tập thể dục /wɜːk aʊt/
-- **fast food** : (n) thức ăn nhanh /fɑːst fuːd/
-- **give up** : (v) từ bỏ /ɡɪv ʌp/
-- **bad habit** : (n) thói quen xấu /bæd ˈhæbɪt/
-- **stay up late** : (v) thức khuya /steɪ ʌp leɪt/
-- **burger** : (n) bánh hamburger /ˈbɜːɡə(r)/
-- **chips** : (n) khoai tây chiên /tʃɪps/
-- **fresh** : (adj) tươi /freʃ/
-- **fruit** : (n) trái cây /fruːt/
-- **vegetable** : (n) rau củ /ˈvedʒtəbl/
-- **life lesson** : (n) bài học cuộc sống /laɪf ˈlesn/
-- **full of energy** : (adj) tràn đầy năng lượng /fʊl əv ˈenədʒi/
-- **active** : (adj) năng động /ˈæktɪv/
-- **exercise** : (n,v) tập thể dục /ˈeksəsaɪz/
-- **balanced diet** : (n) chế độ ăn cân bằng /ˈbælənst ˈdaɪət/
-- **key** : (n) chìa khóa /kiː/
-- **groceries** : (n) thực phẩm, hàng tạp hóa /ˈɡrəʊsəriz/
-- **breadwinner** : (n) trụ cột gia đình (người kiếm tiền chính) /ˈbredwɪnə(r)/
-- **homemaker** : (n) người nội trợ /ˈhəʊmmeɪkə(r)/
-- **equally** : (adv) một cách bình đẳng, đều nhau /ˈiːkwəli/
-- **heavy lifting** : (n) việc nặng nhọc, khuân vác nặng /ˈhevi ˈlɪftɪŋ/
-- **laundry** : (n) giặt giũ, quần áo cần giặt /ˈlɔːndri/
-- **washing-up** : (n) rửa bát đĩa /ˈwɒʃɪŋ ʌp/
-- **fair** : (adj) công bằng /feə(r)/
-- **household chores** : (n) việc nhà, công việc gia đình /ˈhaʊshəʊld tʃɔːz/
+1. **fit** : (adj) cân đối, khỏe mạnh /fɪt/
+2. **healthy** : (adj) lành mạnh, khỏe mạnh /ˈhelθi/
+3. **work out** : (v) tập thể dục /wɜːk aʊt/
+4. **fast food** : (n) thức ăn nhanh /fɑːst fuːd/
+5. **give up** : (v) từ bỏ /ɡɪv ʌp/
+6. **bad habit** : (n) thói quen xấu /bæd ˈhæbɪt/
+7. **stay up late** : (v) thức khuya /steɪ ʌp leɪt/
+8. **burger** : (n) bánh hamburger /ˈbɜːɡə(r)/
+9. **chips** : (n) khoai tây chiên /tʃɪps/
+10. **fresh** : (adj) tươi /freʃ/
+11. **fruit** : (n) trái cây /fruːt/
+12. **vegetable** : (n) rau củ /ˈvedʒtəbl/
+13. **life lesson** : (n) bài học cuộc sống /laɪf ˈlesn/
+14. **full of energy** : (adj) tràn đầy năng lượng /fʊl əv ˈenədʒi/
+15. **active** : (adj) năng động /ˈæktɪv/
+16. **exercise** : (n,v) tập thể dục /ˈeksəsaɪz/
+17. **balanced diet** : (n) chế độ ăn cân bằng /ˈbælənst ˈdaɪət/
+18. **key** : (n) chìa khóa /kiː/
+19. **groceries** : (n) thực phẩm, hàng tạp hóa /ˈɡrəʊsəriz/
+20. **breadwinner** : (n) trụ cột gia đình (người kiếm tiền chính) /ˈbredwɪnə(r)/
+21. **homemaker** : (n) người nội trợ /ˈhəʊmmeɪkə(r)/
+22. **equally** : (adv) một cách bình đẳng, đều nhau /ˈiːkwəli/
+23. **heavy lifting** : (n) việc nặng nhọc, khuân vác nặng /ˈhevi ˈlɪftɪŋ/
+24. **laundry** : (n) giặt giũ, quần áo cần giặt /ˈlɔːndri/
+25. **washing-up** : (n) rửa bát đĩa /ˈwɒʃɪŋ ʌp/
+26. **fair** : (adj) công bằng /feə(r)/
+27. **household chores** : (n) việc nhà, công việc gia đình /ˈhaʊshəʊld tʃɔːz/
 
 
 ### 💬 Dialogue/Content
@@ -756,34 +756,34 @@ Mrs Lam is a housewife. Every day, she **(1) does** most of the house work. She 
 
 **Daily chores (Việc nhà hàng ngày):**
 1. **do the dishes** = **wash up**: rửa bát đĩa
-2. **make the bed**: dọn giường
-3. **sweep the floor**: quét nhà
-4. **mop the floor**: lau nhà
-5. **dust the furniture**: phủi bụi đồ đạc
-6. **vacuum the carpet**: hút bụi thảm
-7. **take out the rubbish/garbage**: đổ rác
-8. **water the plants**: tưới cây
+2. **make the bed** : dọn giường
+3. **sweep the floor** : quét nhà
+4. **mop the floor** : lau nhà
+5. **dust the furniture** : phủi bụi đồ đạc
+6. **vacuum the carpet** : hút bụi thảm
+7. **take out the rubbish/garbage** : đổ rác
+8. **water the plants** : tưới cây
 
 **Weekly chores (Việc nhà hàng tuần):**
-1. **do the laundry**: giặt quần áo
-2. **iron clothes**: ủi quần áo
-3. **clean the bathroom**: dọn phòng tắm
-4. **change the bedsheets**: thay ga giường
+1. **do the laundry** : giặt quần áo
+2. **iron clothes** : ủi quần áo
+3. **clean the bathroom** : dọn phòng tắm
+4. **change the bedsheets** : thay ga giường
 5. **do the grocery shopping**: đi chợ/mua sắm thực phẩm
 
 **Cooking-related (Liên quan đến nấu ăn):**
-1. **prepare meals**: chuẩn bị bữa ăn
-2. **cook dinner**: nấu bữa tối
-3. **set the table**: dọn bàn ăn
-4. **clear the table**: dọn dẹp bàn ăn sau khi ăn
+1. **prepare meals** : chuẩn bị bữa ăn
+2. **cook dinner** : nấu bữa tối
+3. **set the table** : dọn bàn ăn
+4. **clear the table** : dọn dẹp bàn ăn sau khi ăn
 
 ### D. Family activities (Hoạt động gia đình)
 
-1. **spend quality time together**: dành thời gian chất lượng bên nhau
-2. **have family meals**: ăn cơm gia đình
-3. **share household responsibilities**: chia sẻ trách nhiệm việc nhà
-4. **bond with family members**: gắn kết với thành viên gia đình
-5. **maintain family traditions**: duy trì truyền thống gia đình
+1. **spend quality time together** : dành thời gian chất lượng bên nhau
+2. **have family meals** : ăn cơm gia đình
+3. **share household responsibilities** : chia sẻ trách nhiệm việc nhà
+4. **bond with family members** : gắn kết với thành viên gia đình
+5. **maintain family traditions** : duy trì truyền thống gia đình
 
 ## III. Grammar - Ngữ pháp
 
@@ -880,28 +880,28 @@ Mrs Lam is a housewife. Every day, she **(1) does** most of the house work. She 
 
 ### Talking about family responsibilities
 
-1. **be responsible for + V-ing**: chịu trách nhiệm về việc gì
+1. **be responsible for + V-ing** : chịu trách nhiệm về việc gì
    - *My father is responsible for paying the bills.*
 
-2. **take turns + V-ing**: thay phiên nhau làm gì
+2. **take turns + V-ing** : thay phiên nhau làm gì
    - *We take turns doing the dishes.*
 
-3. **share the housework**: chia sẻ việc nhà
+3. **share the housework** : chia sẻ việc nhà
    - *Modern couples often share the housework equally.*
 
-4. **lend a hand**: giúp đỡ
+4. **lend a hand** : giúp đỡ
    - *Can you lend a hand with the cooking?*
 
-5. **pitch in**: chung tay, góp sức
+5. **pitch in** : chung tay, góp sức
    - *Everyone should pitch in to keep the house clean.*
 
 ### Expressing frequency
 
-1. **hardly ever**: hầu như không bao giờ
-2. **once in a while**: thỉnh thoảng
-3. **every other day**: cách ngày
+1. **hardly ever** : hầu như không bao giờ
+2. **once in a while** : thỉnh thoảng
+3. **every other day** : cách ngày
 4. **on a daily/weekly basis**: hàng ngày/hàng tuần
-5. **from time to time**: đôi khi
+5. **from time to time** : đôi khi
 
 ## V. Common collocations (Cụm từ thường gặp)
 
@@ -913,11 +913,11 @@ Mrs Lam is a housewife. Every day, she **(1) does** most of the house work. She 
 
 ## VI. Phrasal verbs for household activities
 
-1. **clean up**: dọn dẹp
-2. **tidy up**: sắp xếp gọn gàng
-3. **put away**: cất đi
-4. **throw out/away**: vứt đi
-5. **pick up**: nhặt lên, dọn dẹp
-6. **wipe down**: lau chùi
+1. **clean up** : dọn dẹp
+2. **tidy up** : sắp xếp gọn gàng
+3. **put away** : cất đi
+4. **throw out/away** : vứt đi
+5. **pick up** : nhặt lên, dọn dẹp
+6. **wipe down** : lau chùi
 7. **hang out** (clothes): phơi quần áo
 8. **take in** (clothes): thu quần áo

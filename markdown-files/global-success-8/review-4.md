@@ -23,7 +23,7 @@
 *(Đọc to các câu với trọng âm chính xác. Có bao nhiêu từ nhấn mạnh trong mỗi câu? Nghe, kiểm tra và nhắc lại)*
 
 3. How will people **travel** to **work** in the **future**?
-4. A: Will **technology** replace **humans** in the **future**?
+4. **A** : Will **technology** replace **humans** in the **future**?
    B: **No**, it **won't**.
 
 **Answers:** 
@@ -73,16 +73,16 @@
 ### 📚 Vocabulary Practice - Luyện tập từ vựng
 
 **Key vocabulary for review:**
-- **emoji** : (n) biểu tượng cảm xúc /ɪˈməʊ.dʒi/
-- **video conference** : (n) hội nghị truyền hình /ˈvɪd.i.əʊ ˈkɒn.fər.əns/
-- **experiment** : (n) thí nghiệm /ɪkˈsper.ɪ.mənt/
-- **computer screen** : (n) màn hình máy tính /kəmˈpjuː.tər skriːn/
-- **galaxy** : (n) thiên hà /ˈɡæl.ək.si/
-- **digital** : (adj) kỹ thuật số /ˈdɪdʒ.ɪ.təl/
-- **communication** : (n) giao tiếp /kəˌmjuː.nɪˈkeɪ.ʃən/
-- **technology** : (n) công nghệ /tekˈnɒl.ə.dʒi/
-- **planet** : (n) hành tinh /ˈplæn.ɪt/
-- **solar system** : (n) hệ mặt trời /ˈsəʊ.lər ˈsɪs.təm/
+1. **emoji** : (n) biểu tượng cảm xúc /ɪˈməʊ.dʒi/
+2. **video conference** : (n) hội nghị truyền hình /ˈvɪd.i.əʊ ˈkɒn.fər.əns/
+3. **experiment** : (n) thí nghiệm /ɪkˈsper.ɪ.mənt/
+4. **computer screen** : (n) màn hình máy tính /kəmˈpjuː.tər skriːn/
+5. **galaxy** : (n) thiên hà /ˈɡæl.ək.si/
+6. **digital** : (adj) kỹ thuật số /ˈdɪdʒ.ɪ.təl/
+7. **communication** : (n) giao tiếp /kəˌmjuː.nɪˈkeɪ.ʃən/
+8. **technology** : (n) công nghệ /tekˈnɒl.ə.dʒi/
+9. **planet** : (n) hành tinh /ˈplæn.ɪt/
+10. **solar system** : (n) hệ mặt trời /ˈsəʊ.lər ˈsɪs.təm/
 
 #### Bài 3: Fill in each blank with the suitable form of the word given.
 *(Điền vào mỗi chỗ trống dạng thích hợp của từ cho sẵn)*
@@ -233,22 +233,22 @@ The internet is my favorite means of communication. It is convenient and effecti
 ## VOCABULARY SUMMARY - TÓM TẮT TỪ VỰNG
 
 ### Communication Technology - Công nghệ giao tiếp
-- **video conference** : (n) hội nghị truyền hình /ˈvɪd.i.əʊ ˈkɒn.fər.əns/
-- **emoji** : (n) biểu tượng cảm xúc /ɪˈməʊ.dʒi/
-- **digital communication** : (n) giao tiếp kỹ thuật số /ˈdɪdʒ.ɪ.təl kəˌmjuː.nɪˈkeɪ.ʃən/
-- **instant messaging** : (n) nhắn tin tức thời /ˈɪn.stənt ˈmes.ɪ.dʒɪŋ/
-- **social media** : (n) mạng xã hội /ˈsəʊ.ʃəl ˈmiː.di.ə/
+1. **video conference** : (n) hội nghị truyền hình /ˈvɪd.i.əʊ ˈkɒn.fər.əns/
+2. **emoji** : (n) biểu tượng cảm xúc /ɪˈməʊ.dʒi/
+3. **digital communication** : (n) giao tiếp kỹ thuật số /ˈdɪdʒ.ɪ.təl kəˌmjuː.nɪˈkeɪ.ʃən/
+4. **instant messaging** : (n) nhắn tin tức thời /ˈɪn.stənt ˈmes.ɪ.dʒɪŋ/
+5. **social media** : (n) mạng xã hội /ˈsəʊ.ʃəl ˈmiː.di.ə/
 
 ### Science and Space - Khoa học và vũ trụ
-- **experiment** : (n) thí nghiệm /ɪkˈsper.ɪ.mənt/
-- **galaxy** : (n) thiên hà /ˈɡæl.ək.si/
-- **planet** : (n) hành tinh /ˈplæn.ɪt/
-- **solar system** : (n) hệ mặt trời /ˈsəʊ.lər ˈsɪs.təm/
-- **star** : (n) ngôi sao /stɑːr/
+1. **experiment** : (n) thí nghiệm /ɪkˈsper.ɪ.mənt/
+2. **galaxy** : (n) thiên hà /ˈɡæl.ək.si/
+3. **planet** : (n) hành tinh /ˈplæn.ɪt/
+4. **solar system** : (n) hệ mặt trời /ˈsəʊ.lər ˈsɪs.təm/
+5. **star** : (n) ngôi sao /stɑːr/
 
 ### Technology - Công nghệ
-- **computer screen** : (n) màn hình máy tính /kəmˈpjuː.tər skriːn/
-- **contact lenses** : (n) kính áp tròng /ˈkɒn.tækt ˈlen.zɪz/
-- **translation machine** : (n) máy dịch /trænsˈleɪ.ʃən məˈʃiːn/
-- **face recognition** : (n) nhận diện khuôn mặt /feɪs ˌrek.əɡˈnɪʃ.ən/
-- **Internet connection** : (n) kết nối Internet /ˈɪn.tə.net kəˈnek.ʃən/
+1. **computer screen** : (n) màn hình máy tính /kəmˈpjuː.tər skriːn/
+2. **contact lenses** : (n) kính áp tròng /ˈkɒn.tækt ˈlen.zɪz/
+3. **translation machine** : (n) máy dịch /trænsˈleɪ.ʃən məˈʃiːn/
+4. **face recognition** : (n) nhận diện khuôn mặt /feɪs ˌrek.əɡˈnɪʃ.ən/
+5. **Internet connection** : (n) kết nối Internet /ˈɪn.tə.net kəˈnek.ʃən/

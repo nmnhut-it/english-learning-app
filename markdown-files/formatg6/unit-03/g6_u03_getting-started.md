@@ -262,7 +262,7 @@ Chủ từ là You/we/they/nhiều người/ nhiều vật --> are
 
 **Bài 4 trang 30** 
 
-1. Câu 1: có “every” → htđ → doesn’t walk   
+1. **Câu 1** : có “every” → htđ → doesn’t walk
    Câu 2: có “sometimes” → htđ → cycles.   
 2. Có “Look\!” (từ thu hút sự chú ý, hành động phải đang xảy ra thì mới thu hút được sự chú ý) → httd → is …. playing.   
 3. Có “every” → htđ → Do  ….. study …?   

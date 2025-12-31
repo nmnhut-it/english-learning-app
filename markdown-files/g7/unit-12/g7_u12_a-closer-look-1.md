@@ -68,7 +68,7 @@
 
 1. tower   
 2. symbol  
-3. capital: thủ đô   
+3. **capital** : thủ đô
    capital punishment: tử hình   
 4. boat ride 
 

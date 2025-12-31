@@ -92,11 +92,11 @@ Complete the sentences using these words and phrases.
 #### Answer Key (Lời giải chi tiết):
 
 **Vocabulary Definitions:**
-- **leadership skills** (np): kĩ năng lãnh đạo
-- **greenhouse gas** (np): khí nhà kính
-- **current issues** (np): những vấn đề hiện tại
-- **pollutants** (n): chất gây ô nhiễm
-- **contribution** (n): sự đóng góp
+1. **leadership skills** : (np) kĩ năng lãnh đạo
+2. **greenhouse gas** : (np) khí nhà kính
+3. **current issues** : (np) những vấn đề hiện tại
+4. **pollutants** : (n) chất gây ô nhiễm
+5. **contribution** : (n) sự đóng góp
 
 **Answers:**
 1. Country leaders are meeting to discuss **current issues**, such as climate change and land use, in the region.

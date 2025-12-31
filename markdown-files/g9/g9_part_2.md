@@ -64,31 +64,31 @@ Bài 4 trang 29
 **A CLOSER LOOK 1**  
 **Vocabulary**
 
-1. priority: (n) sự ưu tiên /praɪˈɒrɪti/  
-2. maintain: (v) duy trì /meɪnˈteɪn/  
-3. mental: (adj) tinh thần /ˈmɛntl/  
-4. physical: (adj) thể chất /ˈfɪzɪkl/  
-5. well-balanced: (adj) cân bằng tốt /wɛl ˈbælənst/  
-6. achieve: (v) đạt được /əˈtʃiːv/  
-7. manage: (v) quản lý /ˈmænɪdʒ/  
-8. organize: (v) tổ chức /ˈɔːɡənaɪz/  
-9. divide: (v) chia /dɪˈvaɪd/  
-10. accomplish: (v) hoàn thành /əˈkɒmplɪʃ/  
-11. goal: (n) mục tiêu /ɡəʊl/  
-12. cycle: (v) đạp xe /ˈsaɪkl/  
-13. delay: (n) trì hoãn /dɪˈleɪ/  
-14. due date: (n) ngày đáo hạn, ngày tới hạn /djuː deɪt/  
-15. optimistic: (adj) lạc quan /ˌɒptɪˈmɪstɪk/  
-16. stressed out: (adj) căng thẳng /strɛst aʊt/  
-17. distraction: (n) sự phân tâm /dɪˈstrækʃn/  
-18. anxious: (adj) lo lắng /ˈæŋkʃəs/  
-19. assignment: (n) bài tập /əˈsaɪnmənt/  
-20. moment: (n) khoảnh khắc /ˈməʊmənt/  
-21. intend: (v) dự định /ɪnˈtɛnd/  
-22. result: (n) kết quả /rɪˈzʌlt/  
-23. library: (n) thư viện /ˈlaɪbrəri/  
-24. pronunciation: (n) cách phát âm /prəˌnʌnsɪˈeɪʃn/  
-25. several: (adj) một vài /ˈsɛvrəl/
+1. **priority** : (n) sự ưu tiên /praɪˈɒrɪti/
+2. **maintain** : (v) duy trì /meɪnˈteɪn/
+3. **mental** : (adj) tinh thần /ˈmɛntl/
+4. **physical** : (adj) thể chất /ˈfɪzɪkl/
+5. **well-balanced** : (adj) cân bằng tốt /wɛl ˈbælənst/
+6. **achieve** : (v) đạt được /əˈtʃiːv/
+7. **manage** : (v) quản lý /ˈmænɪdʒ/
+8. **organize** : (v) tổ chức /ˈɔːɡənaɪz/
+9. **divide** : (v) chia /dɪˈvaɪd/
+10. **accomplish** : (v) hoàn thành /əˈkɒmplɪʃ/
+11. **goal** : (n) mục tiêu /ɡəʊl/
+12. **cycle** : (v) đạp xe /ˈsaɪkl/
+13. **delay** : (n) trì hoãn /dɪˈleɪ/
+14. **due date** : (n) ngày đáo hạn, ngày tới hạn /djuː deɪt/
+15. **optimistic** : (adj) lạc quan /ˌɒptɪˈmɪstɪk/
+16. **stressed out** : (adj) căng thẳng /strɛst aʊt/
+17. **distraction** : (n) sự phân tâm /dɪˈstrækʃn/
+18. **anxious** : (adj) lo lắng /ˈæŋkʃəs/
+19. **assignment** : (n) bài tập /əˈsaɪnmənt/
+20. **moment** : (n) khoảnh khắc /ˈməʊmənt/
+21. **intend** : (v) dự định /ɪnˈtɛnd/
+22. **result** : (n) kết quả /rɪˈzʌlt/
+23. **library** : (n) thư viện /ˈlaɪbrəri/
+24. **pronunciation** : (n) cách phát âm /prəˌnʌnsɪˈeɪʃn/
+25. **several** : (adj) một vài /ˈsɛvrəl/
 
 **Bài 1** 
 
@@ -164,20 +164,20 @@ Would you mind \+ Ving? :  Bạn có phiền ….
 
 **Vocabulary**:
 
-1. praise: (v) khen ngợi /preɪz/  
-2. encourage: (v) khuyến khích /ɪnˈkʌrɪdʒ/  
-3. happiness: (n) hạnh phúc /ˈhæpɪnəs/  
-4. encouragement: (n) sự khuyến khích /ɪnˈkʌrɪdʒmənt/  
-5. thankful: (adj) biết ơn /ˈθæŋkfəl/   
-6. assignment: (n) bài tập /əˈsaɪnmənt/   
-7. reduce: (v) giảm /rɪˈdjuːs/   
-8. enough: (adj) đủ /ɪˈnʌf/  
-9. expect: (v) mong đợi /ɪkˈspɛkt/  
-10. happen: (v) xảy ra /ˈhæpən/  
-11. difficulty: (n) khó khăn /ˈdɪfɪkəlti/  
-12. situation: (n) tình huống /ˌsɪtjʊˈeɪʃən/  
-13. remember: (v) nhớ /rɪˈmɛmbər/  
-14. learnt: (v) học (quá khứ của learn) /lɜːnt/
+1. **praise** : (v) khen ngợi /preɪz/
+2. **encourage** : (v) khuyến khích /ɪnˈkʌrɪdʒ/
+3. **happiness** : (n) hạnh phúc /ˈhæpɪnəs/
+4. **encouragement** : (n) sự khuyến khích /ɪnˈkʌrɪdʒmənt/
+5. **thankful** : (adj) biết ơn /ˈθæŋkfəl/
+6. **assignment** : (n) bài tập /əˈsaɪnmənt/
+7. **reduce** : (v) giảm /rɪˈdjuːs/
+8. **enough** : (adj) đủ /ɪˈnʌf/
+9. **expect** : (v) mong đợi /ɪkˈspɛkt/
+10. **happen** : (v) xảy ra /ˈhæpən/
+11. **difficulty** : (n) khó khăn /ˈdɪfɪkəlti/
+12. **situation** : (n) tình huống /ˌsɪtjʊˈeɪʃən/
+13. **remember** : (v) nhớ /rɪˈmɛmbər/
+14. **learnt** : (v) học (quá khứ của learn) /lɜːnt/
 
 **Bài 3 trang 33** 
 
@@ -187,32 +187,32 @@ Would you mind \+ Ving? :  Bạn có phiền ….
 **SKILLS 1**  
 **Reading**
 
-1. anxiety: (n) lo lắng /æŋˈzaɪəti/  
-2. typical: (adj) điển hình /ˈtɪpɪkəl/  
-3. manage: (v) quản lý /ˈmænɪdʒ/  
-4. properly: (adv) đúng cách /ˈprɒpəli/  
-5. plan: (v) lập kế hoạch /plæn/  
-6. schedule: (n) lịch trình /ˈʃɛdjuːl/  
-7. weekly: (adj) hàng tuần /ˈwiːkli/  
-8. priority: (n) sự ưu tiên /praɪˈɒrɪti/  
-9. concentrate: (v) tập trung /ˈkɒnsəntreɪt/  
-10. effort: (n) nỗ lực /ˈɛfərt/  
-11. task: (n) nhiệm vụ /tɑːsk/  
-12. communicate: (v) giao tiếp /kəˈmjuːnɪkeɪt/  
-13. additional: (adj) bổ sung /əˈdɪʃənəl/  
-14. support: (n) sự hỗ trợ /səˈpɔːrt/  
-15. appropriately: (adv) thích hợp /əˈprəʊprɪətli/  
-16. mood: (n) tâm trạng /muːd/  
-17. physical: (adj) thể chất /ˈfɪzɪkəl/  
-18. health: (n) sức khỏe /hɛlθ/  
-19. sleep: (v) ngủ /sliːp/  
-20. grandparent: (n) ông bà /ˈɡrændˌpɛərənt/  
-21. diet: (n) chế độ ăn uống /ˈdaɪət/  
-22. vegetable: (n) rau củ /ˈvɛdʒtəbəl/  
-23. fattening: (adj) mập, làm mập béo lên /ˈfætənɪŋ/  
-24. avoid: (v) tránh /əˈvɔɪd/  
-25. junk food: (n) đồ ăn vặt /dʒʌŋk fuːd/  
-26. cookie: (n) bánh quy /ˈkʊki/
+1. **anxiety** : (n) lo lắng /æŋˈzaɪəti/
+2. **typical** : (adj) điển hình /ˈtɪpɪkəl/
+3. **manage** : (v) quản lý /ˈmænɪdʒ/
+4. **properly** : (adv) đúng cách /ˈprɒpəli/
+5. **plan** : (v) lập kế hoạch /plæn/
+6. **schedule** : (n) lịch trình /ˈʃɛdjuːl/
+7. **weekly** : (adj) hàng tuần /ˈwiːkli/
+8. **priority** : (n) sự ưu tiên /praɪˈɒrɪti/
+9. **concentrate** : (v) tập trung /ˈkɒnsəntreɪt/
+10. **effort** : (n) nỗ lực /ˈɛfərt/
+11. **task** : (n) nhiệm vụ /tɑːsk/
+12. **communicate** : (v) giao tiếp /kəˈmjuːnɪkeɪt/
+13. **additional** : (adj) bổ sung /əˈdɪʃənəl/
+14. **support** : (n) sự hỗ trợ /səˈpɔːrt/
+15. **appropriately** : (adv) thích hợp /əˈprəʊprɪətli/
+16. **mood** : (n) tâm trạng /muːd/
+17. **physical** : (adj) thể chất /ˈfɪzɪkəl/
+18. **health** : (n) sức khỏe /hɛlθ/
+19. **sleep** : (v) ngủ /sliːp/
+20. **grandparent** : (n) ông bà /ˈɡrændˌpɛərənt/
+21. **diet** : (n) chế độ ăn uống /ˈdaɪət/
+22. **vegetable** : (n) rau củ /ˈvɛdʒtəbəl/
+23. **fattening** : (adj) mập, làm mập béo lên /ˈfætənɪŋ/
+24. **avoid** : (v) tránh /əˈvɔɪd/
+25. **junk food** : (n) đồ ăn vặt /dʒʌŋk fuːd/
+26. **cookie** : (n) bánh quy /ˈkʊki/
 
 Khi tôi còn đi học, tôi phải học cách để có một cuộc sống cân bằng để giảm căng thẳng và lo lắng. Dưới đây là một số việc điển hình mà tôi đã làm.
 
@@ -264,22 +264,22 @@ How can we take care of our physical health?
 
 **Vocabulary**
 
-1. calendar (n): lịch \- /ˈkælɪndə/  
-2. plan (v): lên kế hoạch \- /plæn/  
-3. ahead (adv): trước \- /əˈhɛd/  
-4. term (n): học kỳ \- /tɜːm/  
-5. broad (adj): rộng \- /brɔːd/  
-6. view (n): tầm nhìn \- /vjuː/  
-7. entering (v): nhập \- /ˈentərɪŋ/  
-8. due (adj): đến hạn \- /djuː/  
-9. dates (n): ngày \- /deɪts/  
-10. minimise (v): giảm thiểu \- /ˈmɪnɪmaɪz/  
-11. distractions (n): sự phân tâm \- /dɪˈstrækʃənz/  
-12. activities (n): hoạt động \- /ækˈtɪvɪtiz/  
-13. attention (n): sự chú ý \- /əˈtenʃən/  
-14. schedule (n): lịch trình \- /ˈʃedjuːl/  
-15. arrange (v): sắp xếp \- /əˈreɪndʒ/  
-16. stressed (adj): căng thẳng \- /strest/
+1. **calendar (n)** : lịch \- /ˈkælɪndə/
+2. **plan (v)** : lên kế hoạch \- /plæn/
+3. **ahead (adv)** : trước \- /əˈhɛd/
+4. **term (n)** : học kỳ \- /tɜːm/
+5. **broad (adj)** : rộng \- /brɔːd/
+6. **view (n)** : tầm nhìn \- /vjuː/
+7. **entering (v)** : nhập \- /ˈentərɪŋ/
+8. **due (adj)** : đến hạn \- /djuː/
+9. **dates (n)** : ngày \- /deɪts/
+10. **minimise (v)** : giảm thiểu \- /ˈmɪnɪmaɪz/
+11. **distractions (n)** : sự phân tâm \- /dɪˈstrækʃənz/
+12. **activities (n)** : hoạt động \- /ækˈtɪvɪtiz/
+13. **attention (n)** : sự chú ý \- /əˈtenʃən/
+14. **schedule (n)** : lịch trình \- /ˈʃedjuːl/
+15. **arrange (v)** : sắp xếp \- /əˈreɪndʒ/
+16. **stressed (adj)** : căng thẳng \- /strest/
 
 **Trang: B, Phong: A, Tom: C**
 
@@ -288,24 +288,24 @@ How can we take care of our physical health?
 
 **Writing**
 
-1. make a plan: lập kế hoạch /meɪk ə plæn/  
-2. schedule: thời gian biểu /ˈskɛdʒuːl/  
-3. appointment: cuộc hẹn /əˈpɔɪntmənt/  
-4. project: dự án /ˈprɒdʒɛkt/  
-5. urgent task: công việc khẩn cấp /ˈɜːdʒənt tɑːsk/  
-6. important task: công việc quan trọng /ɪmˈpɔːtənt tɑːsk/  
-7. concentrate: tập trung /ˈkɒnsəntreɪt/  
-8. deal with: giải quyết /diːl wɪð/  
-9. effective routine: thói quen hiệu quả /ɪˈfɛktɪv ruːˈtiːn/  
-10. accomplish: hoàn thành /əˈkɒmplɪʃ/  
-11. daily routine: thói quen hàng ngày /ˈdeɪli ruːˈtiːn/  
-12. less worry: ít lo lắng /lɛs ˈwʌri/  
-13. stressed: căng thẳng /strɛst/  
-14. plan ahead: lên kế hoạch trước /plæn əˈhɛd/  
-15. calendar: lịch /ˈkælɪndə/  
-16. diary: nhật ký /ˈdaɪəri/  
-17. mobile app: ứng dụng di động /ˈməʊbaɪl æp/  
-18. remember: nhớ /rɪˈmɛmbə/
+1. **make a plan** : lập kế hoạch /meɪk ə plæn/
+2. **schedule** : thời gian biểu /ˈskɛdʒuːl/
+3. **appointment** : cuộc hẹn /əˈpɔɪntmənt/
+4. **project** : dự án /ˈprɒdʒɛkt/
+5. **urgent task** : công việc khẩn cấp /ˈɜːdʒənt tɑːsk/
+6. **important task** : công việc quan trọng /ɪmˈpɔːtənt tɑːsk/
+7. **concentrate** : tập trung /ˈkɒnsəntreɪt/
+8. **deal with** : giải quyết /diːl wɪð/
+9. **effective routine** : thói quen hiệu quả /ɪˈfɛktɪv ruːˈtiːn/
+10. **accomplish** : hoàn thành /əˈkɒmplɪʃ/
+11. **daily routine** : thói quen hàng ngày /ˈdeɪli ruːˈtiːn/
+12. **less worry** : ít lo lắng /lɛs ˈwʌri/
+13. **stressed** : căng thẳng /strɛst/
+14. **plan ahead** : lên kế hoạch trước /plæn əˈhɛd/
+15. **calendar** : lịch /ˈkælɪndə/
+16. **diary** : nhật ký /ˈdaɪəri/
+17. **mobile app** : ứng dụng di động /ˈməʊbaɪl æp/
+18. **remember** : nhớ /rɪˈmɛmbə/
 
 | 1\. c | 2\. a | 3\. b |
 | :---- | :---- | :---- |

@@ -6,10 +6,10 @@
 ### Lý thuyết:
 
 Trong câu tiếng Anh, các từ mang nội dung chính (content words) thường được nhấn mạnh:
-- **Danh từ** (nouns): students, school, video
-- **Động từ chính** (main verbs): watch, learn, study
-- **Tính từ** (adjectives): new, useful, interesting
-- **Trạng từ** (adverbs): always, never, often
+1. **Danh từ** : (nouns) students, school, video
+2. **Động từ chính** : (main verbs) watch, learn, study
+3. **Tính từ** : (adjectives) new, useful, interesting
+4. **Trạng từ** : (adverbs) always, never, often
 
 Các từ chức năng (function words) thường không được nhấn:
 - Mạo từ: a, an, the
@@ -370,23 +370,23 @@ Các từ chức năng (function words) thường không được nhấn:
 
 ## Vocabulary (Từ vựng)
 
-1. face-to-face: (adj) mặt đối mặt, trực tiếp /ˌfeɪs tə ˈfeɪs/
-2. prepare (for): (v) chuẩn bị (cho) /prɪˈpeə/
-3. strategy: (n) chiến lược /ˈstrætədʒi/
-4. online learning: (n.phr) học trực tuyến /ˌɒnˈlaɪn ˈlɜːnɪŋ/
-5. blended learning: (n.phr) học kết hợp /ˈblendɪd ˈlɜːnɪŋ/
-6. immediately: (adv) ngay lập tức /ɪˈmiːdiətli/
-7. directly: (adv) trực tiếp /dəˈrektli/
-8. encourage: (v) khuyến khích /ɪnˈkʌrɪdʒ/
-9. improve: (v) cải thiện /ɪmˈpruːv/
-10. combine: (v) kết hợp /kəmˈbaɪn/
-11. relative clause: (n.phr) mệnh đề quan hệ /ˈrelətɪv klɔːz/
-12. communicate: (v) giao tiếp /kəˈmjuːnɪkeɪt/
-13. allow: (v) cho phép /əˈlaʊ/
-14. benefit: (n) lợi ích /ˈbenɪfɪt/
-15. impressive: (adj) ấn tượng /ɪmˈpresɪv/
-16. instruction book: (n.phr) sách hướng dẫn /ɪnˈstrʌkʃn bʊk/
-17. workshop: (n) hội thảo /ˈwɜːkʃɒp/
-18. presentation: (n) bài thuyết trình /ˌpreznˈteɪʃn/
-19. invention: (n) phát minh /ɪnˈvenʃn/
-20. pronunciation: (n) cách phát âm /prəˌnʌnsiˈeɪʃn/
+1. **face-to-face** : (adj) mặt đối mặt, trực tiếp /ˌfeɪs tə ˈfeɪs/
+2. **prepare (for)** : (v) chuẩn bị (cho) /prɪˈpeə/
+3. **strategy** : (n) chiến lược /ˈstrætədʒi/
+4. **online learning** : (n.phr) học trực tuyến /ˌɒnˈlaɪn ˈlɜːnɪŋ/
+5. **blended learning** : (n.phr) học kết hợp /ˈblendɪd ˈlɜːnɪŋ/
+6. **immediately** : (adv) ngay lập tức /ɪˈmiːdiətli/
+7. **directly** : (adv) trực tiếp /dəˈrektli/
+8. **encourage** : (v) khuyến khích /ɪnˈkʌrɪdʒ/
+9. **improve** : (v) cải thiện /ɪmˈpruːv/
+10. **combine** : (v) kết hợp /kəmˈbaɪn/
+11. **relative clause** : (n.phr) mệnh đề quan hệ /ˈrelətɪv klɔːz/
+12. **communicate** : (v) giao tiếp /kəˈmjuːnɪkeɪt/
+13. **allow** : (v) cho phép /əˈlaʊ/
+14. **benefit** : (n) lợi ích /ˈbenɪfɪt/
+15. **impressive** : (adj) ấn tượng /ɪmˈpresɪv/
+16. **instruction book** : (n.phr) sách hướng dẫn /ɪnˈstrʌkʃn bʊk/
+17. **workshop** : (n) hội thảo /ˈwɜːkʃɒp/
+18. **presentation** : (n) bài thuyết trình /ˌpreznˈteɪʃn/
+19. **invention** : (n) phát minh /ɪnˈvenʃn/
+20. **pronunciation** : (n) cách phát âm /prəˌnʌnsiˈeɪʃn/

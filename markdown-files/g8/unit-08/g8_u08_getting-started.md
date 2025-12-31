@@ -4,24 +4,24 @@
 
 **Vocabulary:** 
 
-1. fair: (n) hội chợ /feə/  
-2. awesome: (adj) tuyệt vời /ˈɔːsəm/  
-3. open-air market: chợ ngoài trời /ˈəʊpən eə ˈmɑːkɪt/  
-4. what do you like about it: bạn thích gì về nó /wɒt duː juː laɪk əˈbaʊt ɪt/  
-5. costume: (n) trang phục /ˈkɒstjuːm/  
-6. wear: (v) mặc /weə/  
-7. minority group: nhóm dân tộc thiểu số /maɪˈnɒrəti ɡruːp/  
-8. sell \- sold \- sold: (v) bán /sel \- səʊld \- səʊld/  
-9. home-grown: (adj) tự trồng tại nhà /həʊm ɡrəʊn/  
-10. home-made: (adj) tự làm tại nhà /həʊm meɪd/  
-11. rarely: (adv) hiếm khi /ˈreəli/  
-12. miss: (v) bỏ lỡ /mɪs/  
-13. almost: (adv) gần như /ˈɔːlməʊst/  
-14. bargain: (v) trả giá, mặc cả /ˈbɑːɡɪn/  
-15. fixed price: giá cố định /fɪkst praɪs/  
-16. price tag: nhãn giá /praɪs tæɡ/  
-17. convenient: (adj) thuận tiện /kənˈviːniənt/  
-18. convenience store: cửa hàng tiện lợi /kənˈviːniəns stɔː/
+1. **fair** : (n) hội chợ /feə/
+2. **awesome** : (adj) tuyệt vời /ˈɔːsəm/
+3. **open-air market** : chợ ngoài trời /ˈəʊpən eə ˈmɑːkɪt/
+4. **what do you like about it** : bạn thích gì về nó /wɒt duː juː laɪk əˈbaʊt ɪt/
+5. **costume** : (n) trang phục /ˈkɒstjuːm/
+6. **wear** : (v) mặc /weə/
+7. **minority group** : nhóm dân tộc thiểu số /maɪˈnɒrəti ɡruːp/
+8. **sell \- sold \- sold** : (v) bán /sel \- səʊld \- səʊld/
+9. **home-grown** : (adj) tự trồng tại nhà /həʊm ɡrəʊn/
+10. **home-made** : (adj) tự làm tại nhà /həʊm meɪd/
+11. **rarely** : (adv) hiếm khi /ˈreəli/
+12. **miss** : (v) bỏ lỡ /mɪs/
+13. **almost** : (adv) gần như /ˈɔːlməʊst/
+14. **bargain** : (v) trả giá, mặc cả /ˈbɑːɡɪn/
+15. **fixed price** : giá cố định /fɪkst praɪs/
+16. **price tag** : nhãn giá /praɪs tæɡ/
+17. **convenient** : (adj) thuận tiện /kənˈviːniənt/
+18. **convenience store** : cửa hàng tiện lợi /kənˈviːniəns stɔː/
 
 Mai: Chuyến đi Bắc Hà của bạn thế nào, Alice?
 
@@ -54,8 +54,8 @@ Mai: Ừ... Ồ, mình phải đi đây. Lớp học vẽ của mình bắt đ�
 
 **Bài 3 trang 83** 
 
-1. open-air market: a, c  
-2. supermarket: b,d, e
+1. **open-air market** : a, c
+2. **supermarket** : b,d, e
 
 1. Nó thì ngoài trời   
 2. Hàng hóa được trưng bày trên kệ  
@@ -68,7 +68,7 @@ Mai: Ừ... Ồ, mình phải đi đây. Lớp học vẽ của mình bắt đ�
 1. …. là gì?  
    Nó là khi mà người mua nói chuyện với người bán để có giá thấp hơn   
    → bargain: trả giá   
-2. Một ….. là một cửa hàng nhỏ và thường mở 24/7 → convenience store: cửa hàng tiện lợi  
-3. Sa-lát này thì được làm từ rau củ ….. → home-grown: nhà trồng   
-4. T-shirt này thì bao nhiêu tiền? Tôi không thể thấy … → price tag: bảng giá   
-5. Thử bánh mì ….. của chúng tôi, Mai. Mẹ của tôi đã làm nó sáng nay → home-made: nhà làm
+2. **Một ….. là một cửa hàng nhỏ và thường mở 24/7 → convenience store** : cửa hàng tiện lợi
+3. **Sa-lát này thì được làm từ rau củ ….. → home-grown** : nhà trồng
+4. **T-shirt này thì bao nhiêu tiền? Tôi không thể thấy … → price tag** : bảng giá
+5. **Thử bánh mì ….. của chúng tôi, Mai. Mẹ của tôi đã làm nó sáng nay → home-made** : nhà làm

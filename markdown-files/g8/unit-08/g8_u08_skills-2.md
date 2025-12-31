@@ -4,19 +4,19 @@
 
 **Listening**
 
-1. credit card: thẻ tín dụng /ˈkred.ɪt kɑːd/  
-2. seller's website: trang web của người bán /ˈsel.əz ˈweb.saɪt/  
-3. purchase: (v) mua /ˈpɜː.tʃəs/  
-4. even: (adv) thậm chí /ˈiː.vən/  
-5. save the trouble of: tránh khỏi rắc rối của việc... /seɪv ðə ˈtrʌb.l̩ ɒv/  
-6. advantage: (n) lợi thế, ưu điểm /əd.ˈvɑːn.tɪdʒ/  
-7. disadvantage: (n) bất lợi, nhược điểm /ˌdɪs.əd.ˈvɑːn.tɪdʒ/  
-8. shipping: (n) vận chuyển /ˈʃɪp.ɪŋ/  
-9. find it \+ adj \+ to V0: cảm thấy... để mà... /faɪnd ɪt ... tuː/  
-10. over-shopping: (n) mua sắm quá mức cần thiết /ˌəʊ.vəˈʃɒp.ɪŋ/  
-11. expect: (v) kì vọng, dự tính /ɪkˈspekt/  
-12. return: (v) trả lại /rɪˈtɜːn/  
-13. refund: (v) hoàn tiền; (n) khoản tiền hoàn lại /ˈriː.fʌnd/
+1. **credit card** : thẻ tín dụng /ˈkred.ɪt kɑːd/
+2. **seller's website** : trang web của người bán /ˈsel.əz ˈweb.saɪt/
+3. **purchase** : (v) mua /ˈpɜː.tʃəs/
+4. **even** : (adv) thậm chí /ˈiː.vən/
+5. **save the trouble of** : tránh khỏi rắc rối của việc... /seɪv ðə ˈtrʌb.l̩ ɒv/
+6. **advantage** : (n) lợi thế, ưu điểm /əd.ˈvɑːn.tɪdʒ/
+7. **disadvantage** : (n) bất lợi, nhược điểm /ˌdɪs.əd.ˈvɑːn.tɪdʒ/
+8. **shipping** : (n) vận chuyển /ˈʃɪp.ɪŋ/
+9. **find it \+ adj \+ to V0** : cảm thấy... để mà... /faɪnd ɪt ... tuː/
+10. **over-shopping** : (n) mua sắm quá mức cần thiết /ˌəʊ.vəˈʃɒp.ɪŋ/
+11. **expect** : (v) kì vọng, dự tính /ɪkˈspekt/
+12. **return** : (v) trả lại /rɪˈtɜːn/
+13. **refund** : (v) hoàn tiền; (n) khoản tiền hoàn lại /ˈriː.fʌnd/
 
 **Bài 2 trang 89** 
 

@@ -3,22 +3,22 @@
 ## GETTING STARTED - BẮT ĐẦU
 
 ### 📚 Vocabulary - Từ vựng
-- **how're things?** : (phrase) dạo này thế nào? /haʊər θɪŋz/
-- **lifestyle** : (n) lối sống /ˈlaɪf.staɪl/
-- **title** : (n) danh hiệu /ˈtaɪ.təl/
-- **greet** : (v) chào hỏi /ɡriːt/
-- **surname** : (n) họ (tên họ) /ˈsɜː.neɪm/
-- **difference** : (n) sự khác biệt /ˈdɪf.ər.əns/
-- **common practice** : (n) thói quen chung, thông lệ /ˈkɒm.ən ˈpræk.tɪs/
-- **buy - bought - bought** : (v) mua - đã mua /baɪ - bɔːt - bɔːt/
-- **sell - sold - sold** : (v) bán - đã bán /sel - səʊld - səʊld/
-- **restaurant** : (n) nhà hàng /ˈres.trɒnt/
-- **notice** : (v) nhận thấy /ˈnəʊ.tɪs/
-- **typically** : (adv) điển hình, thông thường /ˈtɪp.ɪ.kəl.i/
-- **adult** : (n) người lớn /ˈæd.ʌlt/
-- **habit** : (n) thói quen /ˈhæb.ɪt/
-- **outside** : (adv) bên ngoài /ˌaʊtˈsaɪd/
-- **fascinating** : (adj) hấp dẫn, lôi cuốn, tuyệt vời /ˈfæs.ɪ.neɪ.tɪŋ/
+1. **how're things?** : (phrase) dạo này thế nào? /haʊər θɪŋz/
+2. **lifestyle** : (n) lối sống /ˈlaɪf.staɪl/
+3. **title** : (n) danh hiệu /ˈtaɪ.təl/
+4. **greet** : (v) chào hỏi /ɡriːt/
+5. **surname** : (n) họ (tên họ) /ˈsɜː.neɪm/
+6. **difference** : (n) sự khác biệt /ˈdɪf.ər.əns/
+7. **common practice** : (n) thói quen chung, thông lệ /ˈkɒm.ən ˈpræk.tɪs/
+8. **buy - bought - bought** : (v) mua - đã mua /baɪ - bɔːt - bɔːt/
+9. **sell - sold - sold** : (v) bán - đã bán /sel - səʊld - səʊld/
+10. **restaurant** : (n) nhà hàng /ˈres.trɒnt/
+11. **notice** : (v) nhận thấy /ˈnəʊ.tɪs/
+12. **typically** : (adv) điển hình, thông thường /ˈtɪp.ɪ.kəl.i/
+13. **adult** : (n) người lớn /ˈæd.ʌlt/
+14. **habit** : (n) thói quen /ˈhæb.ɪt/
+15. **outside** : (adv) bên ngoài /ˌaʊtˈsaɪd/
+16. **fascinating** : (adj) hấp dẫn, lôi cuốn, tuyệt vời /ˈfæs.ɪ.neɪ.tɪŋ/
 
 ### 💬 Content - Nội dung
 
@@ -131,21 +131,21 @@
 ## A CLOSER LOOK 1 - TÌM HIỂU THÊM 1
 
 ### 📚 Vocabulary - Từ vựng
-- **dogsled** : (n) xe chó kéo /ˈdɒɡ.sled/
-- **making crafts** : (v) làm đồ thủ công /ˈmeɪ.kɪŋ kræfts/
-- **native art** : (n) nghệ thuật bản địa /ˈneɪ.tɪv ɑːt/
-- **weave** : (v) dệt, đan /wiːv/
-- **tribal** : (adj) thuộc về bộ lạc /ˈtraɪ.bəl/
-- **basket** : (n) cái giỏ /ˈbɑː.skɪt/
-- **villager** : (n) dân làng /ˈvɪl.ɪ.dʒər/
-- **attend** : (v) tham quan, tham dự /əˈtend/
-- **gallery** : (n) phòng trưng bày /ˈɡæl.ər.i/
-- **museum** : (n) bảo tàng /mjuːˈziːəm/
-- **collection** : (n) bộ sưu tập /kəˈlek.ʃən/
-- **means of transport** : (n) phương tiện giao thông /miːnz əv ˈtræn.spɔːt/
-- **traditional** : (adj) truyền thống /trəˈdɪʃ.ən.əl/
-- **serve** : (v) phục vụ /sɜːv/
-- **unique** : (adj) độc đáo /juːˈniːk/
+1. **dogsled** : (n) xe chó kéo /ˈdɒɡ.sled/
+2. **making crafts** : (v) làm đồ thủ công /ˈmeɪ.kɪŋ kræfts/
+3. **native art** : (n) nghệ thuật bản địa /ˈneɪ.tɪv ɑːt/
+4. **weave** : (v) dệt, đan /wiːv/
+5. **tribal** : (adj) thuộc về bộ lạc /ˈtraɪ.bəl/
+6. **basket** : (n) cái giỏ /ˈbɑː.skɪt/
+7. **villager** : (n) dân làng /ˈvɪl.ɪ.dʒər/
+8. **attend** : (v) tham quan, tham dự /əˈtend/
+9. **gallery** : (n) phòng trưng bày /ˈɡæl.ər.i/
+10. **museum** : (n) bảo tàng /mjuːˈziːəm/
+11. **collection** : (n) bộ sưu tập /kəˈlek.ʃən/
+12. **means of transport** : (n) phương tiện giao thông /miːnz əv ˈtræn.spɔːt/
+13. **traditional** : (adj) truyền thống /trəˈdɪʃ.ən.əl/
+14. **serve** : (v) phục vụ /sɜːv/
+15. **unique** : (adj) độc đáo /juːˈniːk/
 
 ### ✍️ Exercises - Bài tập
 
@@ -197,7 +197,7 @@
    B. keep
    C. celebrate
 
-5. We like that restaurant: it _______ very delicious food.
+5. **We like that restaurant** : it _______ very delicious food.
    A. practices
    B. serves
    C. buys
@@ -351,17 +351,17 @@ Sample answers:
 
 ### 📚 Vocabulary - Từ vựng
 - **sure = certainly** : chắc chắn /ʃʊər/ = /ˈsɜː.tən.li/
-- **herb** : (n) thảo mộc /hɜːb/
-- **pasta** : (n) mì ống, mì Ý /ˈpæs.tə/
-- **well-known** : (adj) nổi tiếng /ˌwelˈnəʊn/
-- **pizza** : (n) bánh pizza /ˈpiːt.sə/
+1. **herb** : (n) thảo mộc /hɜːb/
+2. **pasta** : (n) mì ống, mì Ý /ˈpæs.tə/
+3. **well-known** : (adj) nổi tiếng /ˌwelˈnəʊn/
+4. **pizza** : (n) bánh pizza /ˈpiːt.sə/
 - **bread base** : đế bằng bánh mì /brɛd beɪs/
-- **curry** : (n) cà ri /ˈkʌr.i/
-- **common dish** : (n) món ăn phổ biến /ˈkɒm.ən dɪʃ/
-- **cuisine** : (n) nền ẩm thực /kwɪˈziːn/
-- **vegetarian** : (n) người ăn chay, (adj) chay /ˌvedʒ.ɪˈteə.ri.ən/
-- **generally** : (adv) nói chung /ˈdʒen.ər.əl.i/
-- **staple food** : (n) thức ăn chính /ˈsteɪ.pəl fuːd/
+5. **curry** : (n) cà ri /ˈkʌr.i/
+6. **common dish** : (n) món ăn phổ biến /ˈkɒm.ən dɪʃ/
+7. **cuisine** : (n) nền ẩm thực /kwɪˈziːn/
+8. **vegetarian** : (n) người ăn chay, (adj) chay /ˌvedʒ.ɪˈteə.ri.ən/
+9. **generally** : (adv) nói chung /ˈdʒen.ər.əl.i/
+10. **staple food** : (n) thức ăn chính /ˈsteɪ.pəl fuːd/
 
 ### 🗣️ Activities - Hoạt động
 
@@ -414,21 +414,21 @@ Vietnamese cuisine is famous for its fresh ingredients and balanced flavors. Our
 ## SKILLS 1 - KỸ NĂNG 1
 
 ### 📚 Vocabulary - Từ vựng
-- **quite** : (adv) khá /kwaɪt/
-- **million** : (n) triệu /ˈmɪl.jən/
-- **square kilometer** : (n) ki-lô-mét vuông /skweər kɪˈlɒm.ɪ.tər/
-- **native** : (adj) bản xứ, bản địa /ˈneɪ.tɪv/
-- **various** : (adj) nhiều khác nhau /ˈveə.ri.əs/
-- **carving** : (n) điêu khắc /ˈkɑː.vɪŋ/
-- **experience** : (v) trải nghiệm /ɪkˈspɪə.ri.əns/
-- **compete for** : (v) tranh tài (lấy) /kəmˈpiːt fɔː/
-- **cash** : (n) tiền mặt /kæʃ/
-- **prize** : (n) giải thưởng /praɪz/
-- **maintain** : (v) duy trì /meɪnˈteɪn/
-- **drumming** : (n) tiếng trống /ˈdrʌm.ɪŋ/
-- **performance** : (n) buổi biểu diễn /pəˈfɔː.məns/
-- **unusual** : (adj) khác thường /ʌnˈjuː.ʒu.əl/
-- **mushers** : (n) người lái xe chó kéo /ˈmʌʃ.əz/
+1. **quite** : (adv) khá /kwaɪt/
+2. **million** : (n) triệu /ˈmɪl.jən/
+3. **square kilometer** : (n) ki-lô-mét vuông /skweər kɪˈlɒm.ɪ.tər/
+4. **native** : (adj) bản xứ, bản địa /ˈneɪ.tɪv/
+5. **various** : (adj) nhiều khác nhau /ˈveə.ri.əs/
+6. **carving** : (n) điêu khắc /ˈkɑː.vɪŋ/
+7. **experience** : (v) trải nghiệm /ɪkˈspɪə.ri.əns/
+8. **compete for** : (v) tranh tài (lấy) /kəmˈpiːt fɔː/
+9. **cash** : (n) tiền mặt /kæʃ/
+10. **prize** : (n) giải thưởng /praɪz/
+11. **maintain** : (v) duy trì /meɪnˈteɪn/
+12. **drumming** : (n) tiếng trống /ˈdrʌm.ɪŋ/
+13. **performance** : (n) buổi biểu diễn /pəˈfɔː.məns/
+14. **unusual** : (adj) khác thường /ʌnˈjuː.ʒu.əl/
+15. **mushers** : (n) người lái xe chó kéo /ˈmʌʃ.əz/
 
 ### 📖 Reading - Đọc
 
@@ -506,16 +506,16 @@ B: In my area, people maintain traditional lifestyle by celebrating traditional 
 ## SKILLS 2 - KỸ NĂNG 2
 
 ### 📚 Vocabulary - Từ vựng
-- **impact** : (n) tác động /ˈɪm.pækt/
-- **convenient** : (adj) thuận tiện /kənˈviː.ni.ənt/
-- **comfortable** : (adj) thoải mái /ˈkʌm.fə.tə.bəl/
-- **difficult to concentrate** : (adj) khó tập trung /ˈdɪf.ɪ.kəlt tə ˈkɒn.sən.treɪt/
-- **interaction** : (n) sự tương tác /ˌɪn.tərˈæk.ʃən/
-- **headache** : (n) đau đầu /ˈhed.eɪk/
-- **sore eyes** : (n) đau mắt /sɔːr aɪz/
-- **independent** : (adj) độc lập /ˌɪn.dɪˈpen.dənt/
-- **harmful** : (adj) có hại /ˈhɑːm.fəl/
-- **expensive equipment** : (n) thiết bị đắt tiền /ɪkˈspen.sɪv ɪˈkwɪp.mənt/
+1. **impact** : (n) tác động /ˈɪm.pækt/
+2. **convenient** : (adj) thuận tiện /kənˈviː.ni.ənt/
+3. **comfortable** : (adj) thoải mái /ˈkʌm.fə.tə.bəl/
+4. **difficult to concentrate** : (adj) khó tập trung /ˈdɪf.ɪ.kəlt tə ˈkɒn.sən.treɪt/
+5. **interaction** : (n) sự tương tác /ˌɪn.tərˈæk.ʃən/
+6. **headache** : (n) đau đầu /ˈhed.eɪk/
+7. **sore eyes** : (n) đau mắt /sɔːr aɪz/
+8. **independent** : (adj) độc lập /ˌɪn.dɪˈpen.dənt/
+9. **harmful** : (adj) có hại /ˈhɑːm.fəl/
+10. **expensive equipment** : (n) thiết bị đắt tiền /ɪkˈspen.sɪv ɪˈkwɪp.mənt/
 - **power went off** : mất điện /ˈpaʊ.ər went ɒf/
 
 ### 👂 Listening - Nghe

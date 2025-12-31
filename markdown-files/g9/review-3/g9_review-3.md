@@ -15,11 +15,11 @@ Ngoại lệ: télevision
 
 **Bài 2 trang 102** 
 
-1. be located \+ in/at/on \+ vị trí: tọa lạc ở vị trí …  
-2. magnificent: tráng lệ   
-3. itinerary: lịch trình   
-4. look up: tra, tìm kiếm  
-5. get access to: tiếp cận 
+1. **be located \+ in/at/on \+ vị trí** : tọa lạc ở vị trí …
+2. **magnificent** : tráng lệ
+3. **itinerary** : lịch trình
+4. **look up** : tra, tìm kiếm
+5. **get access to** : tiếp cận
 
 **Bài 3 trang 102**
 
@@ -53,16 +53,16 @@ Ngoại lệ: télevision
 **SKILLS**   
 **Vocabulary** 
 
-1. improve your vocabulary: cải thiện vốn từ vựng của bạn /ɪmˈpruːv jɔː vəˈkæbjʊləri/  
-2. figure out the meaning: tìm hiểu ý nghĩa /ˈfɪɡər aʊt ðə ˈmiːnɪŋ/  
-3. practise \+ Ving: luyện tập làm gì đó /ˈpræktɪs/  
-4. phrase: (n) cụm từ /freɪz/  
-5. hard copy: bản in giấy /hɑːd ˈkɒpi/  
-6. online version: phiên bản trực tuyến /ˈɒnlaɪn ˈvɜːʃn/  
-7. keep a list of new words: giữ danh sách từ mới /kiːp ə lɪst əv njuː wɜːdz/  
-8. definition: (n) định nghĩa /ˌdefɪˈnɪʃn/  
-9. revise: (v) ôn tập, sửa đổi /rɪˈvaɪz/  
-10. wherever: (adv) bất cứ nơi đâu, dù ở đâu /weərˈevə/
+1. **improve your vocabulary** : cải thiện vốn từ vựng của bạn /ɪmˈpruːv jɔː vəˈkæbjʊləri/
+2. **figure out the meaning** : tìm hiểu ý nghĩa /ˈfɪɡər aʊt ðə ˈmiːnɪŋ/
+3. **practise \+ Ving** : luyện tập làm gì đó /ˈpræktɪs/
+4. **phrase** : (n) cụm từ /freɪz/
+5. **hard copy** : bản in giấy /hɑːd ˈkɒpi/
+6. **online version** : phiên bản trực tuyến /ˈɒnlaɪn ˈvɜːʃn/
+7. **keep a list of new words** : giữ danh sách từ mới /kiːp ə lɪst əv njuː wɜːdz/
+8. **definition** : (n) định nghĩa /ˌdefɪˈnɪʃn/
+9. **revise** : (v) ôn tập, sửa đổi /rɪˈvaɪz/
+10. **wherever** : (adv) bất cứ nơi đâu, dù ở đâu /weərˈevə/
 
 **Speaking**   
 **Nhìn vào danh sách các kì quan thiên nhiên bên dưới, dánh số chúng từ 1 tới 5 theo thứ tự cái nào bạn muốn thăm nhất.**   

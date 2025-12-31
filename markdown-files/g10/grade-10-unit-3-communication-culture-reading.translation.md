@@ -22,24 +22,24 @@ As a form of traditional performance art, chau van singing was recognized as par
 <summary>📝 Word-by-Word Analysis</summary>
 
 ```
-1. ancient: (adj) cổ xưa, cổ đại /ˈeɪnʃənt/
-2. performance art: (n) nghệ thuật biểu diễn /pəˈfɔːməns ɑːt/
-3. combine: (v) kết hợp /kəmˈbaɪn/
-4. spread: (v) lan rộng, truyền bá /spred/
-5. praise: (v) ca ngợi, tán dương /preɪz/
-6. national heroes: (n) anh hùng dân tộc /ˈnæʃənəl ˈhɪərəʊz/
-7. worship: (v) thờ cúng, tôn thờ /ˈwɜːʃɪp/
-8. chanting: (n) tụng kinh, hát ru /ˈtʃɑːntɪŋ/
-9. psychic: (n) người có khả năng ngoại cảm /ˈsaɪkɪk/
-10. moon-shaped lute: (n) đàn nguyệt /muːn ʃeɪpt luːt/
-11. bamboo clappers: (n) phách tre /bæmˈbuː ˈklæpəz/
-12. gong: (n) cồng chiêng /ɡɒŋ/
-13. costumes: (n) trang phục biểu diễn /ˈkɒstjuːmz/
-14. rank: (n) cấp bậc, địa vị /ræŋk/
-15. saints: (n) vị thánh /seɪnts/
-16. performers: (n) người biểu diễn /pəˈfɔːməz/
-17. recognized: (v) công nhận /ˈrekəɡnaɪzd/
-18. national culture: (n) văn hóa dân tộc /ˈnæʃənəl ˈkʌltʃə/
+1. **ancient** : (adj) cổ xưa, cổ đại /ˈeɪnʃənt/
+2. **performance art** : (n) nghệ thuật biểu diễn /pəˈfɔːməns ɑːt/
+3. **combine** : (v) kết hợp /kəmˈbaɪn/
+4. **spread** : (v) lan rộng, truyền bá /spred/
+5. **praise** : (v) ca ngợi, tán dương /preɪz/
+6. **national heroes** : (n) anh hùng dân tộc /ˈnæʃənəl ˈhɪərəʊz/
+7. **worship** : (v) thờ cúng, tôn thờ /ˈwɜːʃɪp/
+8. **chanting** : (n) tụng kinh, hát ru /ˈtʃɑːntɪŋ/
+9. **psychic** : (n) người có khả năng ngoại cảm /ˈsaɪkɪk/
+10. **moon-shaped lute** : (n) đàn nguyệt /muːn ʃeɪpt luːt/
+11. **bamboo clappers** : (n) phách tre /bæmˈbuː ˈklæpəz/
+12. **gong** : (n) cồng chiêng /ɡɒŋ/
+13. **costumes** : (n) trang phục biểu diễn /ˈkɒstjuːmz/
+14. **rank** : (n) cấp bậc, địa vị /ræŋk/
+15. **saints** : (n) vị thánh /seɪnts/
+16. **performers** : (n) người biểu diễn /pəˈfɔːməz/
+17. **recognized** : (v) công nhận /ˈrekəɡnaɪzd/
+18. **national culture** : (n) văn hóa dân tộc /ˈnæʃənəl ˈkʌltʃə/
 ```
 
 </details>

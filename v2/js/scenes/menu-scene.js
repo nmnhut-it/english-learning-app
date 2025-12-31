@@ -32,24 +32,27 @@ class MenuScene extends Phaser.Scene {
       color: COLOR_STRINGS.TEXT_MUTED,
     }).setOrigin(0.5);
 
-    // Game mode cards
+    // Game mode cards - arranged in compact layout
     const modes = [
-      { key: 'FlashcardScene', title: LANG.modes.flashcard.title, desc: LANG.modes.flashcard.desc, color: COLORS.PRIMARY, hotkey: '1' },
-      { key: 'MeaningMatchScene', title: LANG.modes.meaningMatch.title, desc: LANG.modes.meaningMatch.desc, color: COLORS.SECONDARY, hotkey: '2' },
-      { key: 'PronunciationScene', title: LANG.modes.pronunciation.title, desc: LANG.modes.pronunciation.desc, color: 0x06b6d4, hotkey: '3' },
-      { key: 'WordBlitzScene', title: LANG.modes.wordBlitz.title, desc: LANG.modes.wordBlitz.desc, color: COLORS.WARNING, hotkey: '4' },
-      { key: 'DailyChallengeScene', title: LANG.modes.dailyChallenge.title, desc: LANG.modes.dailyChallenge.desc, color: COLORS.STREAK, hotkey: '5' },
-      { key: 'ClassroomBattleScene', title: '🏆 Thi Đấu Lớp Học', desc: 'Chơi theo nhóm, chuyền bàn phím', color: COLORS.GOLD, hotkey: '6' },
-      { key: 'TeacherDashboardScene', title: '📊 Theo Dõi Tiến Độ', desc: 'Xem thống kê học sinh, ôn từ khó', color: 0x8b5cf6, hotkey: '7' },
-      { key: 'LeaderboardScene', title: '🏅 Bảng Xếp Hạng', desc: 'Thưởng điểm, vòng quay may mắn', color: 0xf59e0b, hotkey: '8' },
+      { key: 'CopyReviseScene', title: LANG.modes.copyRevise.title, desc: LANG.modes.copyRevise.desc, color: COLORS.ACCENT_LIME, hotkey: '1' },
+      { key: 'FlashcardScene', title: LANG.modes.flashcard.title, desc: LANG.modes.flashcard.desc, color: COLORS.PRIMARY, hotkey: '2' },
+      { key: 'MeaningMatchScene', title: LANG.modes.meaningMatch.title, desc: LANG.modes.meaningMatch.desc, color: COLORS.SECONDARY, hotkey: '3' },
+      { key: 'PronunciationScene', title: LANG.modes.pronunciation.title, desc: LANG.modes.pronunciation.desc, color: COLORS.ACCENT_CYAN, hotkey: '4' },
+      { key: 'WordBlitzScene', title: LANG.modes.wordBlitz.title, desc: LANG.modes.wordBlitz.desc, color: COLORS.WARNING, hotkey: '5' },
+      { key: 'DailyChallengeScene', title: LANG.modes.dailyChallenge.title, desc: LANG.modes.dailyChallenge.desc, color: COLORS.STREAK, hotkey: '6' },
+      { key: 'ClassroomBattleScene', title: '🏆 Thi Đấu Lớp Học', desc: 'Chơi theo nhóm, chuyền bàn phím', color: COLORS.GOLD, hotkey: '7' },
+      { key: 'TeacherDashboardScene', title: '📊 Theo Dõi Tiến Độ', desc: 'Xem thống kê học sinh', color: COLORS.ACCENT_PINK, hotkey: '8' },
+      { key: 'LeaderboardScene', title: '🏅 Bảng Xếp Hạng', desc: 'Thưởng điểm, vòng quay', color: COLORS.GOLD, hotkey: '9' },
     ];
 
+    // Compact card height for 9 modes
+    const cardHeight = 52;
     modes.forEach((mode, i) => {
-      this.createModeCard(GAME_WIDTH / 2, 150 + i * 70, mode);
+      this.createModeCard(GAME_WIDTH / 2, 145 + i * cardHeight, mode, cardHeight);
     });
 
     // Footer with keyboard hints
-    this.add.text(GAME_WIDTH / 2, GAME_HEIGHT - 25, '1-8: Chọn mode | L: Đổi bài | ' + LANG.footer, {
+    this.add.text(GAME_WIDTH / 2, GAME_HEIGHT - 20, '1-9: Chọn mode | L: Đổi bài | ' + LANG.footer, {
       fontSize: '12px',
       fontFamily: 'Segoe UI, system-ui',
       color: COLOR_STRINGS.TEXT_MUTED,
@@ -124,10 +127,10 @@ class MenuScene extends Phaser.Scene {
     });
   }
 
-  createModeCard(x, y, mode) {
+  createModeCard(x, y, mode, cardHeight = 62) {
     const container = this.add.container(x, y);
     const width = 650;
-    const height = 62;
+    const height = cardHeight;
 
     const bg = this.add.rectangle(0, 0, width, height, COLORS.BG_CARD)
       .setStrokeStyle(2, mode.color);

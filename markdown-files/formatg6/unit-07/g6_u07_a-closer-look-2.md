@@ -3,16 +3,16 @@
 **A CLOSER LOOK 2** 
 
 1. **Từ để hỏi** (Question word \- Wh. word)   
-1. when: (adv) khi nào /wen/  
-2. where: (adv) ở đâu /weə/  
-3. who: (pron) ai /huː/  
-4. why: (adv) tại sao /waɪ/  
-5. how often: bao lâu một lần /haʊ ˈɒfn/  
-6. what: (pron) cái gì /wɒt/  
-7. how many: bao nhiêu /haʊ ˈmeni/  
-8. what \+ N: cái gì, ... gì /wɒt \+ danh từ/  
+1. **when** : (adv) khi nào /wen/
+2. **where** : (adv) ở đâu /weə/
+3. **who** : (pron) ai /huː/
+4. **why** : (adv) tại sao /waɪ/
+5. **how often** : bao lâu một lần /haʊ ˈɒfn/
+6. **what** : (pron) cái gì /wɒt/
+7. **how many** : bao nhiêu /haʊ ˈmeni/
+8. **what \+ N** : cái gì, ... gì /wɒt \+ danh từ/
    what school: trường gì   
-9. how \+ adj: … tới mức độ nào   
+9. **how \+ adj** : … tới mức độ nào
    how old: già tới mức nào \= bao nhiêu tuổi    
      
    **2\. Trợ động từ**
@@ -40,8 +40,8 @@ I can’t help you.
    
 **Bài 1 trang 9: Tìm các từ để hỏi và trợ động từ trong bài** 
 
-1. what | trợ động từ: are   
-2. where | trợ động từ: is   
+1. **what | trợ động từ** : are
+2. **where | trợ động từ** : is
 3. how long | trợ động từ is 
 
 **Bài 2 trang 9**  
@@ -63,10 +63,10 @@ Why \- reason: lí do
 **Bài 4 trang 10**   
 **Liên từ (Từ để liên kết)**
 
-1. so: (conj) vì thế, do đó, vì vậy /səʊ/  
-2. but: (conj) nhưng, tuy nhiên, mà /bʌt/  
-3. and: (conj) và, với, cùng /ænd/  
-4. or: (conj) hoặc, hay là, hay /ɔː/
+1. **so** : (conj) vì thế, do đó, vì vậy /səʊ/
+2. **but** : (conj) nhưng, tuy nhiên, mà /bʌt/
+3. **and** : (conj) và, với, cùng /ænd/
+4. **or** : (conj) hoặc, hay là, hay /ɔː/
 
 1\. I like animal programmes, and my brother likes them, too.  
 (Tôi thích các chương trình động vật, và anh trai tôi cũng thích chúng.)  

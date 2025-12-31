@@ -2,17 +2,17 @@
 **GETTING STARTED**   
 **Vocabulary** 
 
-1. paint a picture of my house: vẽ bức tranh về ngôi nhà của tôi /peɪnt ə ˈpɪktʃə əv maɪ haʊs/  
-2. a UFO: (n) một vật thể bay không xác định /ə ˌjuː ef ˈəʊ/  
-3. in the future: trong tương lai /ɪn ðə ˈfjuːtʃə/  
-4. where will it be?: nó sẽ ở đâu? /weə wɪl ɪt biː/  
-5. in the mountains: trong những ngọn núi /ɪn ðə ˈmaʊntɪnz/  
-6. room: (n) phòng /ruːm/  
-7. a large house: một ngôi nhà lớn /ə lɑːdʒ haʊs/  
-8. solar energy: (n) năng lượng mặt trời /ˈsəʊlə ˈenədʒi/  
-9. will \= 'll: (v) sẽ /wɪl \= l/  
-10. appliance: (n) thiết bị gia dụng /əˈplaɪəns/  
-11. may \- might: (v) có thể /meɪ \- maɪt/
+1. **paint a picture of my house** : vẽ bức tranh về ngôi nhà của tôi /peɪnt ə ˈpɪktʃə əv maɪ haʊs/
+2. **a UFO** : (n) một vật thể bay không xác định /ə ˌjuː ef ˈəʊ/
+3. **in the future** : trong tương lai /ɪn ðə ˈfjuːtʃə/
+4. **where will it be?** : nó sẽ ở đâu? /weə wɪl ɪt biː/
+5. **in the mountains** : trong những ngọn núi /ɪn ðə ˈmaʊntɪnz/
+6. **room** : (n) phòng /ruːm/
+7. **a large house** : một ngôi nhà lớn /ə lɑːdʒ haʊs/
+8. **solar energy** : (n) năng lượng mặt trời /ˈsəʊlə ˈenədʒi/
+9. **will \= 'll** : (v) sẽ /wɪl \= l/
+10. **appliance** : (n) thiết bị gia dụng /əˈplaɪəns/
+11. **may \- might** : (v) có thể /meɪ \- maɪt/
 
 Nick: Bạn đang làm gì, Phong?  
 Phong: Tôi đang vẽ một bức tranh về ngôi nhà của tôi.  
@@ -66,19 +66,19 @@ A: Correct.
 **A CLOSER LOOK 1**   
 **Vocabulary** 
 
-1. electric cooker: bếp điện /ɪˈlektrɪk ˈkʊkə/  
-2. dishwasher: (n) máy rửa bát /ˈdɪʃˌwɒʃə/  
-3. washing machine: (n) máy giặt /ˈwɒʃɪŋ məˈʃiːn/  
-4. wireless TV: (n) tivi không dây /ˈwaɪələs ˌtiːˈviː/  
-5. fridge: (n) tủ lạnh /frɪdʒ/  
-6. electric fan: (n) quạt điện /ɪˈlektrɪk fæn/  
-7. computer: (n) máy tính /kəmˈpjuːtə/  
-8. smart clock: (n) đồng hồ thông minh /smɑːt klɒk/  
-9. receive and send emails: nhận và gửi email /rɪˈsiːv ænd send ˈiːmeɪlz/  
-10. keep food fresh: giữ thực phẩm tươi /kiːp fuːd freʃ/  
-11. cook rice: nấu cơm /kʊk raɪs/  
-12. wash and dry dishes: rửa và làm khô bát đĩa /wɒʃ ænd draɪ ˈdɪʃɪz/  
-13. wash and dry clothes: giặt và làm khô quần áo /wɒʃ ænd draɪ kləʊðz/
+1. **electric cooker** : bếp điện /ɪˈlektrɪk ˈkʊkə/
+2. **dishwasher** : (n) máy rửa bát /ˈdɪʃˌwɒʃə/
+3. **washing machine** : (n) máy giặt /ˈwɒʃɪŋ məˈʃiːn/
+4. **wireless TV** : (n) tivi không dây /ˈwaɪələs ˌtiːˈviː/
+5. **fridge** : (n) tủ lạnh /frɪdʒ/
+6. **electric fan** : (n) quạt điện /ɪˈlektrɪk fæn/
+7. **computer** : (n) máy tính /kəmˈpjuːtə/
+8. **smart clock** : (n) đồng hồ thông minh /smɑːt klɒk/
+9. **receive and send emails** : nhận và gửi email /rɪˈsiːv ænd send ˈiːmeɪlz/
+10. **keep food fresh** : giữ thực phẩm tươi /kiːp fuːd freʃ/
+11. **cook rice** : nấu cơm /kʊk raɪs/
+12. **wash and dry dishes** : rửa và làm khô bát đĩa /wɒʃ ænd draɪ ˈdɪʃɪz/
+13. **wash and dry clothes** : giặt và làm khô quần áo /wɒʃ ænd draɪ kləʊðz/
 
 **Bài 1 trang 40**   
 ![][image4]  
@@ -222,20 +222,20 @@ Jenny, 12 tuổi.
 **Reading**   
 **Vocabulary** 
 
-1. future house: ngôi nhà trong tương lai /ˈfjuːtʃə haʊs/  
-2. on an island: trên một hòn đảo /ɒn ən ˈaɪlənd/  
-3. be surrounded by: được bao quanh bởi /bi səˈraʊndɪd baɪ/  
-4. tall trees: cây cao /tɔːl triːz/  
-5. blue sea: biển xanh /bluː siː/  
-6. a swimming pool: hồ bơi /ə ˈswɪmɪŋ puːl/  
-7. in front of: phía trước /ɪn frʌnt ɒv/  
-8. helicopter: (n) máy bay trực thăng /ˈhelɪkɒptə/  
-9. on the roof: trên mái nhà /ɒn ðə ruːf/  
-10. feed the dogs and cats: cho chó và mèo ăn /fiːd ðə dɒgz ənd kæts/  
-11. send and receive emails: gửi và nhận email /send ənd rɪˈsiːv ˈiːmeɪlz/  
-12. contact my friends: liên lạc với bạn bè của tôi /ˈkɒntækt maɪ frendz/  
-13. on other planets: trên các hành tinh khác /ɒn ˈʌðə ˈplænɪts/  
-14. buy food: mua thức ăn /baɪ fuːd/
+1. **future house** : ngôi nhà trong tương lai /ˈfjuːtʃə haʊs/
+2. **on an island** : trên một hòn đảo /ɒn ən ˈaɪlənd/
+3. **be surrounded by** : được bao quanh bởi /bi səˈraʊndɪd baɪ/
+4. **tall trees** : cây cao /tɔːl triːz/
+5. **blue sea** : biển xanh /bluː siː/
+6. **a swimming pool** : hồ bơi /ə ˈswɪmɪŋ puːl/
+7. **in front of** : phía trước /ɪn frʌnt ɒv/
+8. **helicopter** : (n) máy bay trực thăng /ˈhelɪkɒptə/
+9. **on the roof** : trên mái nhà /ɒn ðə ruːf/
+10. **feed the dogs and cats** : cho chó và mèo ăn /fiːd ðə dɒgz ənd kæts/
+11. **send and receive emails** : gửi và nhận email /send ənd rɪˈsiːv ˈiːmeɪlz/
+12. **contact my friends** : liên lạc với bạn bè của tôi /ˈkɒntækt maɪ frendz/
+13. **on other planets** : trên các hành tinh khác /ɒn ˈʌðə ˈplænɪts/
+14. **buy food** : mua thức ăn /baɪ fuːd/
 
 Ngôi nhà tương lai của tôi sẽ ở trên một hòn đảo. Nó sẽ được bao quanh bởi những cây cao và biển xanh. Trước nhà sẽ có bể bơi. Sẽ có một chiếc trực thăng trên mái nhà. Tôi có thể bay đến trường trong đó.  
 Sẽ có một số robot trong nhà. Họ sẽ giúp tôi lau sàn nhà, nấu ăn, giặt quần áo và tưới hoa. Họ cũng sẽ giúp tôi cho chó và mèo ăn.  
@@ -290,14 +290,14 @@ My future house will be a very big and beautiful villa. It'll be on the hill. Th
 **SKILLS 2**    
 **Vocabulary** 
 
-1. dream house: nhà trong mơ /driːm haʊs/  
-2. villa: (n) biệt thự /ˈvɪlə/  
-3. has a view of the sea: có góc nhìn ra biển /hæz ə vjuː ɒv ðə siː/  
-4. garden: (n) khu vườn /ˈɡɑːdn/  
-5. has a park view: có góc nhìn ra công viên /hæz ə pɑːk vjuː/  
-6. has a city view: có góc nhìn ra thành phố /hæz ə ˈsɪti ve juː/  
-7. at the back: ở phía sau /æt ðə bæk/  
-8. in front: ở phía trước /ɪn frʌnt/  
+1. **dream house** : nhà trong mơ /driːm haʊs/
+2. **villa** : (n) biệt thự /ˈvɪlə/
+3. **has a view of the sea** : có góc nhìn ra biển /hæz ə vjuː ɒv ðə siː/
+4. **garden** : (n) khu vườn /ˈɡɑːdn/
+5. **has a park view** : có góc nhìn ra công viên /hæz ə pɑːk vjuː/
+6. **has a city view** : có góc nhìn ra thành phố /hæz ə ˈsɪti ve juː/
+7. **at the back** : ở phía sau /æt ðə bæk/
+8. **in front** : ở phía trước /ɪn frʌnt/
    **Bài 1 trang 45**  
    Nick: a   
    Linda: c  
@@ -339,12 +339,12 @@ My future house will be a very big and beautiful villa. It'll be on the hill. Th
 
 **Bài 2 trang 46** 
 
-1. robots: look after the house   
-2. washing machine: wash clothes   
-3. wireless TVs: access to the Internet   
-4. super cards: fly   
-5. smart clocks: play online music   
-6. dishwashers: wash dishes 
+1. **robots** : look after the house
+2. **washing machine** : wash clothes
+3. **wireless TVs** : access to the Internet
+4. **super cards** : fly
+5. **smart clocks** : play online music
+6. **dishwashers** : wash dishes
 
 **Bài 3 trang 46** 
 

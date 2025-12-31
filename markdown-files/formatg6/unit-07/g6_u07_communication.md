@@ -3,16 +3,16 @@
 **COMMUNICATION**   
 **Vocabulary**  
 
-1. What's your favourite TV Programme?: chương trình TV ưa thích của bạn là gì? /wɒts jɔː ˈfeɪvərɪt tiːˈviː ˈprəʊɡræm/  
-2. Why do you like it?: Tại sao bạn thích nó? /waɪ duː juː laɪk ɪt/  
-3. because: (conj) bởi vì /bɪˈkɒz/  
-4. fact: (n) sự thật, thực tế /fækt/  
-5. international: (adj) quốc tế, thuộc về quốc tế /ˌɪntəˈnæʃənəl/  
-6. cartoon: (n) phim hoạt hình; (v) vẽ tranh biếm họa /kɑːˈtuːn/  
-7. cute: (adj) dễ thương, đáng yêu /kjuːt/  
-8. a clever fox: một chú cáo thông minh /ə ˈklevə fɒks/  
-9. see: (v) nhìn thấy, xem, gặp /xi:/   
-10. real life: đời thực  /rɪəl laɪf/ 
+1. **What's your favourite TV Programme?** : chương trình TV ưa thích của bạn là gì? /wɒts jɔː ˈfeɪvərɪt tiːˈviː ˈprəʊɡræm/
+2. **Why do you like it?** : Tại sao bạn thích nó? /waɪ duː juː laɪk ɪt/
+3. **because** : (conj) bởi vì /bɪˈkɒz/
+4. **fact** : (n) sự thật, thực tế /fækt/
+5. **international** : (adj) quốc tế, thuộc về quốc tế /ˌɪntəˈnæʃənəl/
+6. **cartoon** : (n) phim hoạt hình; (v) vẽ tranh biếm họa /kɑːˈtuːn/
+7. **cute** : (adj) dễ thương, đáng yêu /kjuːt/
+8. **a clever fox** : một chú cáo thông minh /ə ˈklevə fɒks/
+9. **see** : (v) nhìn thấy, xem, gặp /xi:/
+10. **real life** : đời thực /rɪəl laɪf/
 
 **Bài 2 trang 11**  
 A: What's your favourite TV programme?  

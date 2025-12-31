@@ -6,23 +6,23 @@
 
 **Vocabulary** 
 
-1. spending free time : (v) dành thời gian rảnh /ˈspɛndɪŋ friː taɪm/  
-2. leisure activities : (n) các hoạt động giải trí /ˈlɛʒər ækˈtɪvɪtiz/  
-3. family members : (n) các thành viên trong gia đình /ˈfæmɪli ˈmɛmbəz/  
-4. connect with : (v) kết nối với /kəˈnɛkt wɪð/  
-5. bike ride : (n) đi xe đạp /baɪk raɪd/  
-6. nearby villages : (n) các làng lân cận /ˈnɪəbaɪ ˈvɪlɪʤɪz/  
-7. fresh air : (n) không khí trong lành /frɛʃ ɛə/  
-8. take photos : (v) chụp ảnh /teɪk ˈfəʊtəʊz/  
-9. into cooking : (adj) thích nấu ăn /ˈɪntuː ˈkʊkɪŋ/  
-10. easy recipes : (n) công thức nấu ăn đơn giản /ˈiːzi ˈrɛsɪpiz/  
-11. prepare the ingredients : (v) chuẩn bị nguyên liệu /prɪˈpeə ði ɪnˈɡriːdiənts/  
-12. DIY projects : (n) dự án tự làm /ˌdiː.aɪˈwaɪ ˈprɒʤɛkts/  
-13. make dresses : (v) làm váy /meɪk ˈdrɛsɪz/  
-14. special occasions : (n) các dịp đặc biệt /ˈspɛʃəl əˈkeɪʒənz/  
-15. costume contest : (n) cuộc thi trang phục /ˈkɒstjuːm ˈkɒntɛst/  
-16. first prize : (n) giải nhất /fɜːst praɪz/  
-17. school : (n) trường học /skuːl/ ​
+1. **spending free time** : (v) dành thời gian rảnh /ˈspɛndɪŋ friː taɪm/
+2. **leisure activities** : (n) các hoạt động giải trí /ˈlɛʒər ækˈtɪvɪtiz/
+3. **family members** : (n) các thành viên trong gia đình /ˈfæmɪli ˈmɛmbəz/
+4. **connect with** : (v) kết nối với /kəˈnɛkt wɪð/
+5. **bike ride** : (n) đi xe đạp /baɪk raɪd/
+6. **nearby villages** : (n) các làng lân cận /ˈnɪəbaɪ ˈvɪlɪʤɪz/
+7. **fresh air** : (n) không khí trong lành /frɛʃ ɛə/
+8. **take photos** : (v) chụp ảnh /teɪk ˈfəʊtəʊz/
+9. **into cooking** : (adj) thích nấu ăn /ˈɪntuː ˈkʊkɪŋ/
+10. **easy recipes** : (n) công thức nấu ăn đơn giản /ˈiːzi ˈrɛsɪpiz/
+11. **prepare the ingredients** : (v) chuẩn bị nguyên liệu /prɪˈpeə ði ɪnˈɡriːdiənts/
+12. **DIY projects** : (n) dự án tự làm /ˌdiː.aɪˈwaɪ ˈprɒʤɛkts/
+13. **make dresses** : (v) làm váy /meɪk ˈdrɛsɪz/
+14. **special occasions** : (n) các dịp đặc biệt /ˈspɛʃəl əˈkeɪʒənz/
+15. **costume contest** : (n) cuộc thi trang phục /ˈkɒstjuːm ˈkɒntɛst/
+16. **first prize** : (n) giải nhất /fɜːst praɪz/
+17. **school** : (n) trường học /skuːl/ ​
 
 Một số thanh thiếu niên thích dành thời gian rảnh rỗi với bạn bè của họ. Những người khác thích làm các hoạt động giải trí với các thành viên gia đình của họ. Tôi thích dành thời gian cho gia đình vì đó là cách tuyệt vời để kết nối với họ.
 

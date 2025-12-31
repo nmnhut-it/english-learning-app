@@ -144,12 +144,12 @@ Nhịp điệu trong tiếng Anh được tạo ra bởi sự xen kẽ giữa c�
 
 #### Giải thích:
 
-1. Present continuous → Past continuous: "is getting" → "was getting"
+1. **Present continuous → Past continuous** : "is getting" → "was getting"
 2. will → would; "tomorrow" → "the next day/the following day"
-3. Present continuous → Past continuous: "are working" → "were working"
-4. Past simple → Past perfect: "attended" → "had attended"; "last year" → "the year before"
+3. **Present continuous → Past continuous** : "are working" → "were working"
+4. **Past simple → Past perfect** : "attended" → "had attended"; "last year" → "the year before"
 5. can → could; "we" → "they"
-6. Present perfect → Past perfect: "have visited" → "had visited"
+6. **Present perfect → Past perfect** : "have visited" → "had visited"
 
 #### Hướng dẫn dịch:
 
@@ -206,33 +206,33 @@ Nhịp điệu trong tiếng Anh được tạo ra bởi sự xen kẽ giữa c�
 
 ## Vocabulary (Từ vựng) - Unit 9
 
-1. environment: (n) môi trường /ɪnˈvaɪrənmənt/
-2. protect: (v) bảo vệ /prəˈtekt/
-3. global warming: (n.phr) sự nóng lên toàn cầu /ˈɡləʊbl ˈwɔːmɪŋ/
-4. deforestation: (n) sự phá rừng /ˌdiːˌfɒrɪˈsteɪʃn/
-5. endangered: (adj) có nguy cơ tuyệt chủng /ɪnˈdeɪndʒəd/
-6. pollution: (n) sự ô nhiễm /pəˈluːʃn/
-7. ecosystem: (n) hệ sinh thái /ˈiːkəʊˌsɪstəm/
-8. wildlife: (n) động vật hoang dã /ˈwaɪldlaɪf/
-9. habitat: (n) môi trường sống /ˈhæbɪtæt/
-10. biodiversity: (n) đa dạng sinh học /ˌbaɪəʊdaɪˈvɜːsəti/
-11. climate change: (n.phr) biến đổi khí hậu /ˈklaɪmət tʃeɪndʒ/
-12. fossil fuel: (n.phr) nhiên liệu hóa thạch /ˈfɒsl fjuːəl/
-13. greenhouse effect: (n.phr) hiệu ứng nhà kính /ˈɡriːnhaʊs ɪˈfekt/
-14. emission: (n) sự phát thải /ɪˈmɪʃn/
-15. atmosphere: (n) bầu khí quyển /ˈætməsfɪə/
-16. temperature: (n) nhiệt độ /ˈtemprətʃə/
-17. sea level: (n.phr) mực nước biển /siː ˈlevl/
-18. polar ice: (n.phr) băng cực /ˈpəʊlər aɪs/
-19. melt: (v) tan chảy /melt/
-20. flood: (n, v) lũ lụt /flʌd/
-21. acid rain: (n.phr) mưa axit /ˈæsɪd reɪn/
-22. reduce: (v) giảm /rɪˈdjuːs/
-23. recycle: (v) tái chế /ˌriːˈsaɪkl/
-24. reuse: (v) tái sử dụng /ˌriːˈjuːz/
-25. nature reserve: (n.phr) khu bảo tồn thiên nhiên /ˈneɪtʃə rɪˈzɜːv/
-26. illegal hunting: (n.phr) săn bắn trái phép /ɪˈliːɡl ˈhʌntɪŋ/
-27. wildlife trade: (n.phr) buôn bán động vật hoang dã /ˈwaɪldlaɪf treɪd/
-28. raise awareness: (v.phr) nâng cao nhận thức /reɪz əˈweənəs/
-29. Earth Hour: (n.phr) Giờ Trái Đất /ɜːθ ˈaʊə/
-30. reported speech: (n.phr) câu tường thuật /rɪˈpɔːtɪd spiːtʃ/
+1. **environment** : (n) môi trường /ɪnˈvaɪrənmənt/
+2. **protect** : (v) bảo vệ /prəˈtekt/
+3. **global warming** : (n.phr) sự nóng lên toàn cầu /ˈɡləʊbl ˈwɔːmɪŋ/
+4. **deforestation** : (n) sự phá rừng /ˌdiːˌfɒrɪˈsteɪʃn/
+5. **endangered** : (adj) có nguy cơ tuyệt chủng /ɪnˈdeɪndʒəd/
+6. **pollution** : (n) sự ô nhiễm /pəˈluːʃn/
+7. **ecosystem** : (n) hệ sinh thái /ˈiːkəʊˌsɪstəm/
+8. **wildlife** : (n) động vật hoang dã /ˈwaɪldlaɪf/
+9. **habitat** : (n) môi trường sống /ˈhæbɪtæt/
+10. **biodiversity** : (n) đa dạng sinh học /ˌbaɪəʊdaɪˈvɜːsəti/
+11. **climate change** : (n.phr) biến đổi khí hậu /ˈklaɪmət tʃeɪndʒ/
+12. **fossil fuel** : (n.phr) nhiên liệu hóa thạch /ˈfɒsl fjuːəl/
+13. **greenhouse effect** : (n.phr) hiệu ứng nhà kính /ˈɡriːnhaʊs ɪˈfekt/
+14. **emission** : (n) sự phát thải /ɪˈmɪʃn/
+15. **atmosphere** : (n) bầu khí quyển /ˈætməsfɪə/
+16. **temperature** : (n) nhiệt độ /ˈtemprətʃə/
+17. **sea level** : (n.phr) mực nước biển /siː ˈlevl/
+18. **polar ice** : (n.phr) băng cực /ˈpəʊlər aɪs/
+19. **melt** : (v) tan chảy /melt/
+20. **flood** : (n, v) lũ lụt /flʌd/
+21. **acid rain** : (n.phr) mưa axit /ˈæsɪd reɪn/
+22. **reduce** : (v) giảm /rɪˈdjuːs/
+23. **recycle** : (v) tái chế /ˌriːˈsaɪkl/
+24. **reuse** : (v) tái sử dụng /ˌriːˈjuːz/
+25. **nature reserve** : (n.phr) khu bảo tồn thiên nhiên /ˈneɪtʃə rɪˈzɜːv/
+26. **illegal hunting** : (n.phr) săn bắn trái phép /ɪˈliːɡl ˈhʌntɪŋ/
+27. **wildlife trade** : (n.phr) buôn bán động vật hoang dã /ˈwaɪldlaɪf treɪd/
+28. **raise awareness** : (v.phr) nâng cao nhận thức /reɪz əˈweənəs/
+29. **Earth Hour** : (n.phr) Giờ Trái Đất /ɜːθ ˈaʊə/
+30. **reported speech** : (n.phr) câu tường thuật /rɪˈpɔːtɪd spiːtʃ/

@@ -4,27 +4,27 @@
 
 **Vocabulary** 
 
-1. upload : (v) tải lên /ˈʌpləʊd/  
-2. browse : (v) duyệt qua /braʊz/  
-3. check : (v) kiểm tra /ʧɛk/  
-4. log on : (v) đăng nhập /lɒɡ ɒn/  
-5. connect : (v) kết nối /kəˈnɛkt/  
-6. website : (n) trang web /ˈwɛbˌsaɪt/  
-7. picture : (n) hình ảnh /ˈpɪkʧə/  
-8. notification : (n) thông báo /ˌnəʊtɪfɪˈkeɪʃən/  
-9. account : (n) tài khoản /əˈkaʊnt/  
-10. forum : (n) diễn đàn /ˈfɔːrəm/  
-11. expectation : (n) sự mong đợi /ˌɛkspɛkˈteɪʃən/  
-12. bully : (n) kẻ bắt nạt /ˈbʊli/  
-13. concentrate : (v) tập trung /ˈkɒnsəntreɪt/  
-14. advise : (v) khuyên bảo /ədˈvaɪz/  
-15. pressure : (n) áp lực /ˈprɛʃə/  
-16. tourist : (n) du khách /ˈtʊərɪst/  
-17. ensure : (v) đảm bảo /ɪnˈʃʊə/  
-18. tournament : (n) giải đấu /ˈtʊənəmənt/  
-19. curious : (adj) tò mò /ˈkjʊərɪəs/  
-20. mature : (adj) trưởng thành /məˈtjʊə/  
-21. interview : (n) phỏng vấn /ˈɪntəvjuː/ ​
+1. **upload** : (v) tải lên /ˈʌpləʊd/
+2. **browse** : (v) duyệt qua /braʊz/
+3. **check** : (v) kiểm tra /ʧɛk/
+4. **log on** : (v) đăng nhập /lɒɡ ɒn/
+5. **connect** : (v) kết nối /kəˈnɛkt/
+6. **website** : (n) trang web /ˈwɛbˌsaɪt/
+7. **picture** : (n) hình ảnh /ˈpɪkʧə/
+8. **notification** : (n) thông báo /ˌnəʊtɪfɪˈkeɪʃən/
+9. **account** : (n) tài khoản /əˈkaʊnt/
+10. **forum** : (n) diễn đàn /ˈfɔːrəm/
+11. **expectation** : (n) sự mong đợi /ˌɛkspɛkˈteɪʃən/
+12. **bully** : (n) kẻ bắt nạt /ˈbʊli/
+13. **concentrate** : (v) tập trung /ˈkɒnsəntreɪt/
+14. **advise** : (v) khuyên bảo /ədˈvaɪz/
+15. **pressure** : (n) áp lực /ˈprɛʃə/
+16. **tourist** : (n) du khách /ˈtʊərɪst/
+17. **ensure** : (v) đảm bảo /ɪnˈʃʊə/
+18. **tournament** : (n) giải đấu /ˈtʊənəmənt/
+19. **curious** : (adj) tò mò /ˈkjʊərɪəs/
+20. **mature** : (adj) trưởng thành /məˈtjʊə/
+21. **interview** : (n) phỏng vấn /ˈɪntəvjuː/ ​
 
 **Bài 1 trang 30**
 

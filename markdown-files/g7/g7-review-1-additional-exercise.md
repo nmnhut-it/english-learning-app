@@ -360,7 +360,7 @@ ________________________________
 17. She joined the Green Club to protect the environment.
 18. Rubbish was collected in the park last Sunday.
 19. My sister takes guitar lessons.
-20. We go jogging three times a week. (or: not every day)
+20. **We go jogging three times a week. (or** : not every day)
 
 21. Eat more vegetables, and you will be healthier.
 22. Although she is tired, she keeps working on the charity project.

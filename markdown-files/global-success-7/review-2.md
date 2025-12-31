@@ -3,27 +3,27 @@
 ## LANGUAGE - NGÔN NGỮ
 
 ### 📚 Vocabulary - Từ vựng
-- **music and arts** : (n) âm nhạc và nghệ thuật /ˈmjuːzɪk ənd ɑːts/
-- **food and drink** : (n) thức ăn và đồ uống /fuːd ənd drɪŋk/
-- **a visit to a school** : (n) chuyến thăm trường học /ə ˈvɪzɪt tuː ə skuːl/
-- **musician** : (n) nhạc sĩ /mjuˈzɪʃn/
-- **orchestra** : (n) dàn nhạc /ˈɔːkɪstrə/
-- **formal clothes** : (n) trang phục trang trọng /ˈfɔːml kləʊðz/
-- **audience** : (n) khán giả /ˈɔːdiəns/
-- **performance** : (n) buổi biểu diễn /pəˈfɔːməns/
-- **composer** : (n) nhà soạn nhạc /kəmˈpəʊzə/
-- **scientist** : (n) nhà khoa học /ˈsaɪəntɪst/
-- **stadium** : (n) sân vận động /ˈsteɪdiəm/
-- **sandwiches** : (n) bánh mì sandwich /ˈsænwɪdʒɪz/
-- **loaves of bread** : (n) ổ bánh mì /ləʊvz əv bred/
-- **popcorn** : (n) bỏng ngô /ˈpɒpkɔːn/
-- **campfire** : (n) lửa trại /ˈkæmpfaɪə/
-- **facilities** : (n) cơ sở vật chất /fəˈsɪlətiz/
-- **outdoor activities** : (n) hoạt động ngoài trời /ˈaʊtdɔː ækˈtɪvətiz/
-- **spices** : (n) gia vị /spaɪsɪz/
-- **starter** : (n) món khai vị /ˈstɑːtə/
-- **main dish** : (n) món chính /meɪn dɪʃ/
-- **dessert** : (n) món tráng miệng /dɪˈzɜːt/
+1. **music and arts** : (n) âm nhạc và nghệ thuật /ˈmjuːzɪk ənd ɑːts/
+2. **food and drink** : (n) thức ăn và đồ uống /fuːd ənd drɪŋk/
+3. **a visit to a school** : (n) chuyến thăm trường học /ə ˈvɪzɪt tuː ə skuːl/
+4. **musician** : (n) nhạc sĩ /mjuˈzɪʃn/
+5. **orchestra** : (n) dàn nhạc /ˈɔːkɪstrə/
+6. **formal clothes** : (n) trang phục trang trọng /ˈfɔːml kləʊðz/
+7. **audience** : (n) khán giả /ˈɔːdiəns/
+8. **performance** : (n) buổi biểu diễn /pəˈfɔːməns/
+9. **composer** : (n) nhà soạn nhạc /kəmˈpəʊzə/
+10. **scientist** : (n) nhà khoa học /ˈsaɪəntɪst/
+11. **stadium** : (n) sân vận động /ˈsteɪdiəm/
+12. **sandwiches** : (n) bánh mì sandwich /ˈsænwɪdʒɪz/
+13. **loaves of bread** : (n) ổ bánh mì /ləʊvz əv bred/
+14. **popcorn** : (n) bỏng ngô /ˈpɒpkɔːn/
+15. **campfire** : (n) lửa trại /ˈkæmpfaɪə/
+16. **facilities** : (n) cơ sở vật chất /fəˈsɪlətiz/
+17. **outdoor activities** : (n) hoạt động ngoài trời /ˈaʊtdɔː ækˈtɪvətiz/
+18. **spices** : (n) gia vị /spaɪsɪz/
+19. **starter** : (n) món khai vị /ˈstɑːtə/
+20. **main dish** : (n) món chính /meɪn dɪʃ/
+21. **dessert** : (n) món tráng miệng /dɪˈzɜːt/
 
 ### 🗣️ Pronunciation - Phát âm
 
@@ -129,21 +129,21 @@ Last week, we (1. have) ______ dinner with some friends at a new restaurant. It 
 ## SKILLS - KỸ NĂNG
 
 ### 📚 Vocabulary - Từ vựng
-- **classical** : (adj) cổ điển /ˈklæsɪkl/
-- **silent** : (adj) im lặng /ˈsaɪlənt/
-- **rock music** : (n) nhạc rock /rɒk ˈmjuːzɪk/
-- **traditional** : (adj) truyền thống /trəˈdɪʃənl/
-- **wedding** : (n) đám cưới /ˈwedɪŋ/
-- **lift** : (n) thang máy /lɪft/
-- **fresh** : (adj) tươi /freʃ/
-- **tasty** : (adj) ngon /ˈteɪsti/
-- **delicious** : (adj) ngon tuyệt /dɪˈlɪʃəs/
-- **sweet** : (adj) ngọt /swiːt/
-- **salty** : (adj) mặn /ˈsɔːlti/
-- **unusual** : (adj) lạ, khác thường /ʌnˈjuːʒuəl/
-- **excellent** : (adj) xuất sắc /ˈeksələnt/
-- **location** : (n) vị trí /ləʊˈkeɪʃn/
-- **outdoor activities** : (n) hoạt động ngoài trời /ˈaʊtdɔː ækˈtɪvətiz/
+1. **classical** : (adj) cổ điển /ˈklæsɪkl/
+2. **silent** : (adj) im lặng /ˈsaɪlənt/
+3. **rock music** : (n) nhạc rock /rɒk ˈmjuːzɪk/
+4. **traditional** : (adj) truyền thống /trəˈdɪʃənl/
+5. **wedding** : (n) đám cưới /ˈwedɪŋ/
+6. **lift** : (n) thang máy /lɪft/
+7. **fresh** : (adj) tươi /freʃ/
+8. **tasty** : (adj) ngon /ˈteɪsti/
+9. **delicious** : (adj) ngon tuyệt /dɪˈlɪʃəs/
+10. **sweet** : (adj) ngọt /swiːt/
+11. **salty** : (adj) mặn /ˈsɔːlti/
+12. **unusual** : (adj) lạ, khác thường /ʌnˈjuːʒuəl/
+13. **excellent** : (adj) xuất sắc /ˈeksələnt/
+14. **location** : (n) vị trí /ləʊˈkeɪʃn/
+15. **outdoor activities** : (n) hoạt động ngoài trời /ˈaʊtdɔː ækˈtɪvətiz/
 
 ### 📖 Reading - Đọc
 

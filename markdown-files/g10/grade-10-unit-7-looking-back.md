@@ -89,11 +89,11 @@ As Viet Nam (3)_____ to develop its economy, it (4)_____ foreign investors. Viet
 
 #### Giải thích:
 
-- **aim** (v): nhằm, mục đích
-- **enter** (v): bước vào, tham gia vào
-- **promote** (v): thúc đẩy, quảng bá
-- **commit** (v): cam kết
-- **welcome** (v): chào đón
+1. **aim** : (v) nhằm, mục đích
+2. **enter** : (v) bước vào, tham gia vào
+3. **promote** : (v) thúc đẩy, quảng bá
+4. **commit** : (v) cam kết
+5. **welcome** : (v) chào đón
 
 #### Bài hoàn chỉnh:
 

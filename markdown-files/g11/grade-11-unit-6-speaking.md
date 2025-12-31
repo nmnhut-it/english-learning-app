@@ -9,7 +9,7 @@
 1. **interested**: (adj) quan tâm, hứng thú /ˈɪntrəstɪd/
 1. **ecosystem**: (n) hệ sinh thái /ˈiːkəʊˌsɪstəm/
 1. **fact**: (n) sự thật, sự kiện /fækt/
-1. **30,000 years**: ba mươi nghìn năm /ˈθɜːti ˈθaʊzənd jɪəz/
+1. **30,000 years** : ba mươi nghìn năm /ˈθɜːti ˈθaʊzənd jɪəz/
 1. **architecture**: (n) kiến trúc /ˈɑːkɪtektʃə/
 1. **teenager**: (n) thanh thiếu niên (13-19 tuổi) /ˈtiːneɪdʒə/
 1. **involve**: (v) liên quan, tham gia /ɪnˈvɒlv/

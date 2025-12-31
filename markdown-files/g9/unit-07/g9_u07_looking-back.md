@@ -32,11 +32,11 @@
 
 **Bài 2 trang 80** 
 
-1. possessions: tài sản  
-2. charming: thu hút   
-3. located: tọa lạc   
-4. explorer: nhà thám hiểm   
-5. permission: giấy phép, quyền 
+1. **possessions** : tài sản
+2. **charming** : thu hút
+3. **located** : tọa lạc
+4. **explorer** : nhà thám hiểm
+5. **permission** : giấy phép, quyền
 
 **Bài 3 trang 80** 
 

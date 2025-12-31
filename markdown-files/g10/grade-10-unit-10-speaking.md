@@ -5,16 +5,16 @@
 
 ### New words
 
-1. litter: (v) xả rác /ˈlɪtə/
-2. avoid: (v) tránh /əˈvɔɪd/
-3. crowded: (adj) đông đúc /ˈkraʊdɪd/
-4. trail: (n) đường mòn /treɪl/
-5. path: (n) lối đi /pɑːθ/
-6. hunt: (v) săn bắn /hʌnt/
-7. wildlife: (n) động vật hoang dã /ˈwaɪldlaɪf/
-8. waste: (v, n) lãng phí, chất thải /weɪst/
-9. electricity: (n) điện /ɪˌlekˈtrɪsɪti/
-10. locally-made: (adj) sản xuất tại địa phương /ˈləʊkəli meɪd/
+1. **litter** : (v) xả rác /ˈlɪtə/
+2. **avoid** : (v) tránh /əˈvɔɪd/
+3. **crowded** : (adj) đông đúc /ˈkraʊdɪd/
+4. **trail** : (n) đường mòn /treɪl/
+5. **path** : (n) lối đi /pɑːθ/
+6. **hunt** : (v) săn bắn /hʌnt/
+7. **wildlife** : (n) động vật hoang dã /ˈwaɪldlaɪf/
+8. **waste** : (v, n) lãng phí, chất thải /weɪst/
+9. **electricity** : (n) điện /ɪˌlekˈtrɪsɪti/
+10. **locally-made** : (adj) sản xuất tại địa phương /ˈləʊkəli meɪd/
 
 ---
 
@@ -150,23 +150,23 @@ Tôi tin rằng sẽ tốt hơn cho môi trường nếu khách du lịch làm t
 
 ## Vocabulary (Từ vựng)
 
-1. litter: (v) xả rác /ˈlɪtə/
-2. avoid: (v) tránh /əˈvɔɪd/
-3. crowded: (adj) đông đúc /ˈkraʊdɪd/
-4. trail: (n) đường mòn /treɪl/
-5. path: (n) lối đi /pɑːθ/
-6. hunt: (v) săn bắn /hʌnt/
-7. wildlife: (n) động vật hoang dã /ˈwaɪldlaɪf/
-8. waste: (v, n) lãng phí, chất thải /weɪst/
-9. electricity: (n) điện /ɪˌlekˈtrɪsɪti/
-10. locally-made: (adj) sản xuất tại địa phương /ˈləʊkəli meɪd/
-11. souvenir: (n) quà lưu niệm /ˌsuːvəˈnɪə/
-12. suggestion: (n) gợi ý /səˈdʒestʃən/
-13. benefit: (v, n) có lợi, lợi ích /ˈbenɪfɪt/
-14. volunteer: (v) tình nguyện /ˌvɒlənˈtɪə/
-15. clean up: (v.phr) dọn dẹp /kliːn ʌp/
-16. pick flowers: (v.phr) hái hoa /pɪk ˈflaʊəz/
-17. break branches: (v.phr) bẻ cành /breɪk ˈbrɑːntʃɪz/
-18. carbon footprint: (n.phr) dấu chân carbon /ˈkɑːbən ˈfʊtprɪnt/
-19. electric car: (n.phr) xe điện /ɪˈlektrɪk kɑː/
-20. green: (adj) xanh, thân thiện với môi trường /ɡriːn/
+1. **litter** : (v) xả rác /ˈlɪtə/
+2. **avoid** : (v) tránh /əˈvɔɪd/
+3. **crowded** : (adj) đông đúc /ˈkraʊdɪd/
+4. **trail** : (n) đường mòn /treɪl/
+5. **path** : (n) lối đi /pɑːθ/
+6. **hunt** : (v) săn bắn /hʌnt/
+7. **wildlife** : (n) động vật hoang dã /ˈwaɪldlaɪf/
+8. **waste** : (v, n) lãng phí, chất thải /weɪst/
+9. **electricity** : (n) điện /ɪˌlekˈtrɪsɪti/
+10. **locally-made** : (adj) sản xuất tại địa phương /ˈləʊkəli meɪd/
+11. **souvenir** : (n) quà lưu niệm /ˌsuːvəˈnɪə/
+12. **suggestion** : (n) gợi ý /səˈdʒestʃən/
+13. **benefit** : (v, n) có lợi, lợi ích /ˈbenɪfɪt/
+14. **volunteer** : (v) tình nguyện /ˌvɒlənˈtɪə/
+15. **clean up** : (v.phr) dọn dẹp /kliːn ʌp/
+16. **pick flowers** : (v.phr) hái hoa /pɪk ˈflaʊəz/
+17. **break branches** : (v.phr) bẻ cành /breɪk ˈbrɑːntʃɪz/
+18. **carbon footprint** : (n.phr) dấu chân carbon /ˈkɑːbən ˈfʊtprɪnt/
+19. **electric car** : (n.phr) xe điện /ɪˈlektrɪk kɑː/
+20. **green** : (adj) xanh, thân thiện với môi trường /ɡriːn/

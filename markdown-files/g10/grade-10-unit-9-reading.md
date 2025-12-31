@@ -5,21 +5,21 @@
 
 ### New words
 
-1. atmosphere: (n) bầu khí quyển /ˈætməsfɪə/
-2. temperature: (n) nhiệt độ /ˈtemprətʃə/
-3. rise: (v, n) tăng lên, sự tăng /raɪz/
-4. average: (adj) trung bình /ˈævərɪdʒ/
-5. consequence: (n) hậu quả /ˈkɒnsɪkwəns/
-6. sea level: (n.phr) mực nước biển /siː ˈlevl/
-7. polar ice: (n.phr) băng cực /ˈpəʊlər aɪs/
-8. melt: (v) tan chảy /melt/
-9. extreme: (adj) cực đoan /ɪkˈstriːm/
-10. flood: (n, v) lũ lụt /flʌd/
-11. heatwave: (n) đợt nắng nóng /ˈhiːtweɪv/
-12. emission: (n) sự phát thải /ɪˈmɪʃn/
-13. vehicle: (n) phương tiện /ˈviːəkl/
-14. harmful: (adj) có hại /ˈhɑːmfl/
-15. combine: (v) kết hợp /kəmˈbaɪn/
+1. **atmosphere** : (n) bầu khí quyển /ˈætməsfɪə/
+2. **temperature** : (n) nhiệt độ /ˈtemprətʃə/
+3. **rise** : (v, n) tăng lên, sự tăng /raɪz/
+4. **average** : (adj) trung bình /ˈævərɪdʒ/
+5. **consequence** : (n) hậu quả /ˈkɒnsɪkwəns/
+6. **sea level** : (n.phr) mực nước biển /siː ˈlevl/
+7. **polar ice** : (n.phr) băng cực /ˈpəʊlər aɪs/
+8. **melt** : (v) tan chảy /melt/
+9. **extreme** : (adj) cực đoan /ɪkˈstriːm/
+10. **flood** : (n, v) lũ lụt /flʌd/
+11. **heatwave** : (n) đợt nắng nóng /ˈhiːtweɪv/
+12. **emission** : (n) sự phát thải /ɪˈmɪʃn/
+13. **vehicle** : (n) phương tiện /ˈviːəkl/
+14. **harmful** : (adj) có hại /ˈhɑːmfl/
+15. **combine** : (v) kết hợp /kəmˈbaɪn/
 
 ---
 
@@ -187,28 +187,28 @@ Những vấn đề môi trường này đều có liên quan với nhau. Để 
 
 ## Vocabulary (Từ vựng)
 
-1. atmosphere: (n) bầu khí quyển /ˈætməsfɪə/
-2. temperature: (n) nhiệt độ /ˈtemprətʃə/
-3. rise: (v, n) tăng lên, sự tăng /raɪz/
-4. average: (adj) trung bình /ˈævərɪdʒ/
-5. consequence: (n) hậu quả /ˈkɒnsɪkwəns/
-6. sea level: (n.phr) mực nước biển /siː ˈlevl/
-7. polar ice: (n.phr) băng cực /ˈpəʊlər aɪs/
-8. melt: (v) tan chảy /melt/
-9. extreme: (adj) cực đoan /ɪkˈstriːm/
-10. flood: (n, v) lũ lụt /flʌd/
-11. heatwave: (n) đợt nắng nóng /ˈhiːtweɪv/
-12. emission: (n) sự phát thải /ɪˈmɪʃn/
-13. vehicle: (n) phương tiện /ˈviːəkl/
-14. harmful: (adj) có hại /ˈhɑːmfl/
-15. combine: (v) kết hợp /kəmˈbaɪn/
-16. acid rain: (n.phr) mưa axit /ˈæsɪd reɪn/
-17. power plant: (n.phr) nhà máy điện /ˈpaʊə plɑːnt/
-18. release: (v) thải ra /rɪˈliːs/
-19. damage: (v, n) gây thiệt hại, thiệt hại /ˈdæmɪdʒ/
-20. destroy: (v) phá hủy /dɪˈstrɔɪ/
-21. natural soil: (n.phr) đất tự nhiên /ˈnætʃrəl sɔɪl/
-22. connected: (adj) liên kết, kết nối /kəˈnektɪd/
-23. individual: (adj, n) cá nhân /ˌɪndɪˈvɪdʒuəl/
-24. global: (adj) toàn cầu /ˈɡləʊbl/
-25. level: (n) cấp độ, mức /ˈlevl/
+1. **atmosphere** : (n) bầu khí quyển /ˈætməsfɪə/
+2. **temperature** : (n) nhiệt độ /ˈtemprətʃə/
+3. **rise** : (v, n) tăng lên, sự tăng /raɪz/
+4. **average** : (adj) trung bình /ˈævərɪdʒ/
+5. **consequence** : (n) hậu quả /ˈkɒnsɪkwəns/
+6. **sea level** : (n.phr) mực nước biển /siː ˈlevl/
+7. **polar ice** : (n.phr) băng cực /ˈpəʊlər aɪs/
+8. **melt** : (v) tan chảy /melt/
+9. **extreme** : (adj) cực đoan /ɪkˈstriːm/
+10. **flood** : (n, v) lũ lụt /flʌd/
+11. **heatwave** : (n) đợt nắng nóng /ˈhiːtweɪv/
+12. **emission** : (n) sự phát thải /ɪˈmɪʃn/
+13. **vehicle** : (n) phương tiện /ˈviːəkl/
+14. **harmful** : (adj) có hại /ˈhɑːmfl/
+15. **combine** : (v) kết hợp /kəmˈbaɪn/
+16. **acid rain** : (n.phr) mưa axit /ˈæsɪd reɪn/
+17. **power plant** : (n.phr) nhà máy điện /ˈpaʊə plɑːnt/
+18. **release** : (v) thải ra /rɪˈliːs/
+19. **damage** : (v, n) gây thiệt hại, thiệt hại /ˈdæmɪdʒ/
+20. **destroy** : (v) phá hủy /dɪˈstrɔɪ/
+21. **natural soil** : (n.phr) đất tự nhiên /ˈnætʃrəl sɔɪl/
+22. **connected** : (adj) liên kết, kết nối /kəˈnektɪd/
+23. **individual** : (adj, n) cá nhân /ˌɪndɪˈvɪdʒuəl/
+24. **global** : (adj) toàn cầu /ˈɡləʊbl/
+25. **level** : (n) cấp độ, mức /ˈlevl/

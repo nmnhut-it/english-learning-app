@@ -60,8 +60,8 @@ Khang → Khang’s
 
 **Bài 4 trang 30**
 
-1. Úc là một đất nước lạ. Tất cả những thành phố lớn của nó thì dọc theo bờ biển. → của nó: its  
-2. Thành phố của chúng tôi thì rất đông đúc. Còn (thành phố) của bạn thì sao? → thành phố của bạn: yours.   
+1. **Úc là một đất nước lạ. Tất cả những thành phố lớn của nó thì dọc theo bờ biển. → của nó** : its
+2. **Thành phố của chúng tôi thì rất đông đúc. Còn (thành phố) của bạn thì sao? → thành phố của bạn** : yours.
 3. Tôi thích câu lạc bộ bóng đá của tôi. Phong có thích (câu lạc bộ bóng đá) của cậu ấy không? → his  
 4. Đường của chúng ta thì ngắn và hẹp. → Đứng trước danh từ street → cần dùng tính từ sở hữu → điền our.   
 5. Họ không thể tìm được bản đồ thành phố của họ ở bất cứ nơi đâu → điền their do đứng trước danh từ city map. 

@@ -3,16 +3,16 @@
 ## GETTING STARTED - BẮT ĐẦU
 
 ### 📚 Vocabulary - Từ vựng
-- **suburb** : (n) ngoại ô /ˈsʌbɜːb/
-- **facilities** : (n) cơ sở vật chất /fəˈsɪlətiz/
-- **community** : (n) cộng đồng /kəˈmjuːnəti/
-- **get on (well) with** : (phr.v) có quan hệ tốt với /ɡet ɒn wɛl wɪð/
-- **remind somebody of** : (phr.v) gợi nhớ cho ai về điều gì /rɪˈmaɪnd ˈsʌmbədi əv/
-- **neighbourhood** : (n) khu dân cư, khu phố /ˈneɪbəhʊd/
-- **stuff** : (n) đồ đạc, vật dụng /stʌf/
-- **advice** : (n) lời khuyên /ədˈvaɪs/
-- **craft village** : (n) làng nghề thủ công /krɑːft ˈvɪlɪdʒ/
-- **useful** : (adj) hữu ích /ˈjuːsfl/
+1. **suburb** : (n) ngoại ô /ˈsʌbɜːb/
+2. **facilities** : (n) cơ sở vật chất /fəˈsɪlətiz/
+3. **community** : (n) cộng đồng /kəˈmjuːnəti/
+4. **get on (well) with** : (phr.v) có quan hệ tốt với /ɡet ɒn wɛl wɪð/
+5. **remind somebody of** : (phr.v) gợi nhớ cho ai về điều gì /rɪˈmaɪnd ˈsʌmbədi əv/
+6. **neighbourhood** : (n) khu dân cư, khu phố /ˈneɪbəhʊd/
+7. **stuff** : (n) đồ đạc, vật dụng /stʌf/
+8. **advice** : (n) lời khuyên /ədˈvaɪs/
+9. **craft village** : (n) làng nghề thủ công /krɑːft ˈvɪlɪdʒ/
+10. **useful** : (adj) hữu ích /ˈjuːsfl/
 
 ### 💬 Content - Nội dung
 **Ann**: Hi, Mi. Long time no see. How're you doing?
@@ -100,24 +100,24 @@ Chắc chắn rồi. Tôi thực sự yêu nơi tôi đang sống hiện tại.
 ## A CLOSER LOOK 1 - TÌM HIỂU THÊM 1
 
 ### 📚 Vocabulary - Từ vựng
-- **artisan** : (n) thợ làm nghề thủ công /ˌɑːtɪˈzæn/
-- **community helper** : (n) người phục vụ cộng đồng /kəˈmjuːnəti ˈhelpə/
-- **delivery person** : (n) nhân viên giao hàng /dɪˈlɪvəri ˈpɜːsn/
-- **electrician** : (n) thợ điện /ɪˌlekˈtrɪʃn/
-- **firefighter** : (n) lính cứu hoả /ˈfaɪəfaɪtə/
-- **garbage collector** : (n) nhân viên thu gom rác /ˈɡɑːbɪdʒ kəˈlektə/
-- **police officer** : (n) cảnh sát /pəˈliːs ˈɒfɪsə/
-- **handicraft** : (n) đồ thủ công /ˈhændikrɑːft/
-- **original** : (adj) ban đầu, nguyên bản /əˈrɪdʒənl/
-- **function** : (n) chức năng /ˈfʌŋkʃn/
-- **pottery** : (n) đồ gốm /ˈpɒtəri/
-- **fragrance** : (n) hương thơm /ˈfreɪɡrəns/
-- **speciality** : (n) đặc sản /ˌspeʃiˈæləti/
-- **attraction** : (n) điểm thu hút /əˈtrækʃn/
-- **preserve** : (v) bảo tồn /prɪˈzɜːv/
-- **pass down** : (phr.v) truyền lại /pɑːs daʊn/
-- **hand down** : (phr.v) truyền lại /hænd daʊn/
-- **tourist attraction** : (n) địa điểm du lịch /ˈtʊərɪst əˈtrækʃn/
+1. **artisan** : (n) thợ làm nghề thủ công /ˌɑːtɪˈzæn/
+2. **community helper** : (n) người phục vụ cộng đồng /kəˈmjuːnəti ˈhelpə/
+3. **delivery person** : (n) nhân viên giao hàng /dɪˈlɪvəri ˈpɜːsn/
+4. **electrician** : (n) thợ điện /ɪˌlekˈtrɪʃn/
+5. **firefighter** : (n) lính cứu hoả /ˈfaɪəfaɪtə/
+6. **garbage collector** : (n) nhân viên thu gom rác /ˈɡɑːbɪdʒ kəˈlektə/
+7. **police officer** : (n) cảnh sát /pəˈliːs ˈɒfɪsə/
+8. **handicraft** : (n) đồ thủ công /ˈhændikrɑːft/
+9. **original** : (adj) ban đầu, nguyên bản /əˈrɪdʒənl/
+10. **function** : (n) chức năng /ˈfʌŋkʃn/
+11. **pottery** : (n) đồ gốm /ˈpɒtəri/
+12. **fragrance** : (n) hương thơm /ˈfreɪɡrəns/
+13. **speciality** : (n) đặc sản /ˌspeʃiˈæləti/
+14. **attraction** : (n) điểm thu hút /əˈtrækʃn/
+15. **preserve** : (v) bảo tồn /prɪˈzɜːv/
+16. **pass down** : (phr.v) truyền lại /pɑːs daʊn/
+17. **hand down** : (phr.v) truyền lại /hænd daʊn/
+18. **tourist attraction** : (n) địa điểm du lịch /ˈtʊərɪst əˈtrækʃn/
 
 ### 🗣️ Pronunciation - Phát âm
 **Sounds /æ/ and /ɑː/**
@@ -160,12 +160,12 @@ Chắc chắn rồi. Tôi thực sự yêu nơi tôi đang sống hiện tại.
 ## A CLOSER LOOK 2 - TÌM HIỂU THÊM 2
 
 ### 📚 Vocabulary - Từ vựng
-- **look after** : (phr.v) chăm sóc /lʊk ˈɑːftə/
-- **come back** : (phr.v) trở lại /kʌm bæk/
-- **hand down** : (phr.v) truyền lại /hænd daʊn/
-- **find out** : (phr.v) tìm ra /faɪnd aʊt/
-- **take care of** : (phr.v) chăm sóc /teɪk keər əv/
-- **look around** : (phr.v) nhìn xung quanh /lʊk əˈraʊnd/
+1. **look after** : (phr.v) chăm sóc /lʊk ˈɑːftə/
+2. **come back** : (phr.v) trở lại /kʌm bæk/
+3. **hand down** : (phr.v) truyền lại /hænd daʊn/
+4. **find out** : (phr.v) tìm ra /faɪnd aʊt/
+5. **take care of** : (phr.v) chăm sóc /teɪk keər əv/
+6. **look around** : (phr.v) nhìn xung quanh /lʊk əˈraʊnd/
 
 ### 📖 Grammar - Ngữ pháp
 
@@ -228,11 +228,11 @@ Common phrasal verbs:
 ## COMMUNICATION - GIAO TIẾP
 
 ### 📚 Vocabulary - Từ vựng
-- **pedestrian street** : (n) phố đi bộ /pəˈdestriən striːt/
-- **centre** : (n) trung tâm /ˈsentə/
-- **opera house** : (n) nhà hát opera /ˈɒpərə haʊs/
-- **performance** : (n) buổi biểu diễn /pəˈfɔːməns/
-- **place of interest** : (n) địa điểm được yêu thích /pleɪs əv ˈɪntrəst/
+1. **pedestrian street** : (n) phố đi bộ /pəˈdestriən striːt/
+2. **centre** : (n) trung tâm /ˈsentə/
+3. **opera house** : (n) nhà hát opera /ˈɒpərə haʊs/
+4. **performance** : (n) buổi biểu diễn /pəˈfɔːməns/
+5. **place of interest** : (n) địa điểm được yêu thích /pleɪs əv ˈɪntrəst/
 
 ### 🗣️ Activities - Hoạt động
 
@@ -267,24 +267,24 @@ Common phrasal verbs:
 
 **Answers:**
 1. Ho Chi Minh City, Viet Nam - Nguyen Du pedestrian street - Distance: 1/a/one
-2. Ho Chi Minh City, Viet Nam - Nguyen Du pedestrian street - Activities: Children: enjoying music, looking for favourite books
+2. **Ho Chi Minh City, Viet Nam - Nguyen Du pedestrian street - Activities** : Children: enjoying music, looking for favourite books
 3. Sydney, Australia - Sydney Opera House - Distance: 5/five
-4. Sydney, Australia - Sydney Opera House - Activities: Parents: having a drink
+4. **Sydney, Australia - Sydney Opera House - Activities** : Parents: having a drink
 
 ## SKILLS 1 - KỸ NĂNG 1
 
 ### 📚 Vocabulary - Từ vựng
-- **preserve** : (v) bảo tồn /prɪˈzɜːv/
-- **technique** : (n) kỹ thuật /tekˈniːk/
-- **process** : (n) quy trình /ˈprəʊses/
-- **wrap** : (v) gói /ræp/
-- **layer** : (n) lớp /ˈleɪə/
-- **consumer** : (n) người tiêu dùng /kənˈsjuːmə/
-- **clay** : (n) đất sét /kleɪ/
-- **county** : (n) hạt, quận /ˈkaʊnti/
-- **generation** : (n) thế hệ /ˌdʒenəˈreɪʃn/
-- **beauty** : (n) vẻ đẹp /ˈbjuːti/
-- **brochure** : (n) tờ rơi quảng cáo /ˈbrəʊʃə/
+1. **preserve** : (v) bảo tồn /prɪˈzɜːv/
+2. **technique** : (n) kỹ thuật /tekˈniːk/
+3. **process** : (n) quy trình /ˈprəʊses/
+4. **wrap** : (v) gói /ræp/
+5. **layer** : (n) lớp /ˈleɪə/
+6. **consumer** : (n) người tiêu dùng /kənˈsjuːmə/
+7. **clay** : (n) đất sét /kleɪ/
+8. **county** : (n) hạt, quận /ˈkaʊnti/
+9. **generation** : (n) thế hệ /ˌdʒenəˈreɪʃn/
+10. **beauty** : (n) vẻ đẹp /ˈbjuːti/
+11. **brochure** : (n) tờ rơi quảng cáo /ˈbrəʊʃə/
 
 ### 📖 Reading - Đọc
 
@@ -306,23 +306,23 @@ Denby là một ngôi làng ở hạt Derbyshire, Anh. Đây là quê hương c�
 
 **Bài 2 trang 14**
 
-1. b. preserve: to keep something as it is
+1. **b. preserve** : to keep something as it is
 
 (bảo tồn: giữ một cái gì đó như chính nó)
 
-2. c. shorten: to make something shorter
+2. **c. shorten** : to make something shorter
 
 (rút ngắn: làm cái gì đó ngắn lại)
 
-3. e. fragrance: a pleasant smell
+3. **e. fragrance** : a pleasant smell
 
 (mùi thơm: mùi dễ chịu)
 
-4. a. original: existing since the beginning
+4. **a. original** : existing since the beginning
 
 (nguồn gốc: tồn tại từ đầu)
 
-5. d. function: a special purpose of a thing
+5. **d. function** : a special purpose of a thing
 
 **Bài 3 trang 14** 
 
@@ -388,17 +388,17 @@ I live in Tien Giang. My province is famous for hu tieu My Tho. It is made from 
 ## SKILLS 2 - KỸ NĂNG 2
 
 ### 📚 Vocabulary - Từ vựng
-- **commune** : (n) xã /ˈkɒmjuːn/
-- **radio station** : (n) đài phát thanh /ˈreɪdiəʊ ˈsteɪʃn/
-- **contest** : (n) cuộc thi /ˈkɒntest/
-- **uniform** : (n) đồng phục /ˈjuːnɪfɔːm/
-- **reflective stripe** : (n) dải phản quang /rɪˈflektɪv straɪp/
-- **hardworking** : (adj) chăm chỉ /ˌhɑːdˈwɜːkɪŋ/
-- **responsible** : (adj) có trách nhiệm /rɪˈspɒnsəbl/
-- **garbage cart** : (n) xe thu gom rác /ˈɡɑːbɪdʒ kɑːt/
-- **bin** : (n) thùng rác /bɪn/
-- **recyclable** : (adj) có thể tái chế /riːˈsaɪkləbl/
-- **non-recyclable** : (adj) không thể tái chế /nɒn riːˈsaɪkləbl/
+1. **commune** : (n) xã /ˈkɒmjuːn/
+2. **radio station** : (n) đài phát thanh /ˈreɪdiəʊ ˈsteɪʃn/
+3. **contest** : (n) cuộc thi /ˈkɒntest/
+4. **uniform** : (n) đồng phục /ˈjuːnɪfɔːm/
+5. **reflective stripe** : (n) dải phản quang /rɪˈflektɪv straɪp/
+6. **hardworking** : (adj) chăm chỉ /ˌhɑːdˈwɜːkɪŋ/
+7. **responsible** : (adj) có trách nhiệm /rɪˈspɒnsəbl/
+8. **garbage cart** : (n) xe thu gom rác /ˈɡɑːbɪdʒ kɑːt/
+9. **bin** : (n) thùng rác /bɪn/
+10. **recyclable** : (adj) có thể tái chế /riːˈsaɪkləbl/
+11. **non-recyclable** : (adj) không thể tái chế /nɒn riːˈsaɪkləbl/
 
 ### 👂 Listening - Nghe
 
@@ -429,7 +429,7 @@ Suggested answers: firefighters, nurses, police officers, garbage collectors
 1. An Binh
 2. My favourite 
 3. green uniform
-4. 9:00 p.m.
+4. **9** : 00 p.m.
 5. bins
 
 **Bài 3: Listen again and tick (✔) T (True) or F (False).**

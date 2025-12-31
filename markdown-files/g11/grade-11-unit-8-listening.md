@@ -184,32 +184,32 @@ Which of the characteristics of independent learners do you think you have? Whic
 
 #### Discussion Points - Characteristics of Independent Learners:
 
-1. **Self-motivated**: Independent learners are motivated by their own interests and goals, not just external rewards or pressures.
+1. **Self-motivated** : Independent learners are motivated by their own interests and goals, not just external rewards or pressures.
    *(Tự thúc đẩy bản thân: Những người học độc lập được thúc đẩy bởi sở thích và mục tiêu của chính họ, không chỉ là phần thưởng hoặc áp lực bên ngoài.)*
 
-2. **Self-directed**: They take responsibility for their own learning and actively seek out resources and opportunities to improve their knowledge and skills.
+2. **Self-directed** : They take responsibility for their own learning and actively seek out resources and opportunities to improve their knowledge and skills.
    *(Tự định hướng: Họ chịu trách nhiệm về việc học của mình và tích cực tìm kiếm các nguồn lực cũng như cơ hội để nâng cao kiến thức và kỹ năng của mình.)*
 
-3. **Self-aware**: They understand their own strengths and weaknesses, learning style, and preferences, and use that knowledge to guide their learning process.
+3. **Self-aware** : They understand their own strengths and weaknesses, learning style, and preferences, and use that knowledge to guide their learning process.
    *(Tự nhận thức: Họ hiểu điểm mạnh và điểm yếu, phong cách học tập và sở thích của mình và sử dụng kiến thức đó để hướng dẫn quá trình học tập của họ.)*
 
-4. **Goal-oriented**: They set clear and specific learning goals and regularly assess their progress toward achieving them.
+4. **Goal-oriented** : They set clear and specific learning goals and regularly assess their progress toward achieving them.
    *(Định hướng theo mục tiêu: Họ đặt ra các mục tiêu học tập rõ ràng và cụ thể, đồng thời thường xuyên đánh giá tiến độ đạt được các mục tiêu đó.)*
 
-5. **Persistent**: They persevere through challenges and setbacks and keep working toward their goals.
+5. **Persistent** : They persevere through challenges and setbacks and keep working toward their goals.
    *(Kiên trì: Họ kiên trì vượt qua những thử thách và thất bại và tiếp tục làm việc hướng tới mục tiêu của mình.)*
 
-6. **Reflective**: They regularly reflect on their learning experiences and use that feedback to improve their learning strategies.
+6. **Reflective** : They regularly reflect on their learning experiences and use that feedback to improve their learning strategies.
    *(Phản ánh: Họ thường xuyên suy ngẫm về trải nghiệm học tập của mình và sử dụng phản hồi đó để cải thiện các chiến lược học tập của mình.)*
 
-7. **Resourceful**: They know how to find and use a variety of learning resources, including books, online courses, mentors, and peers.
+7. **Resourceful** : They know how to find and use a variety of learning resources, including books, online courses, mentors, and peers.
    *(Tháo vát: Họ biết cách tìm và sử dụng nhiều nguồn tài nguyên học tập, bao gồm sách, khóa học trực tuyến, cố vấn và đồng nghiệp.)*
 
-8. **Curious**: They have a strong desire to learn and explore new ideas and topics.
+8. **Curious** : They have a strong desire to learn and explore new ideas and topics.
    *(Tò mò: Họ có mong muốn học hỏi và khám phá những ý tưởng và chủ đề mới.)*
 
-9. **Creative**: They think outside the box and find innovative ways to solve problems and achieve their goals.
+9. **Creative** : They think outside the box and find innovative ways to solve problems and achieve their goals.
    *(Sáng tạo: Họ suy nghĩ vượt trội và tìm ra những cách sáng tạo để giải quyết vấn đề và đạt được mục tiêu của mình.)*
 
-10. **Collaborative**: They work well with others and are open to learning from different perspectives and experiences.
+10. **Collaborative** : They work well with others and are open to learning from different perspectives and experiences.
     *(Hợp tác: Họ làm việc tốt với những người khác và sẵn sàng học hỏi từ những quan điểm và kinh nghiệm khác nhau.)*

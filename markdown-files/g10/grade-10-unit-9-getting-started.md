@@ -5,21 +5,21 @@
 
 ### New words
 
-1. presentation: (n) bài thuyết trình /ˌpreznˈteɪʃn/
-2. environment: (n) môi trường /ɪnˈvaɪrənmənt/
-3. protect: (v) bảo vệ /prəˈtekt/
-4. research: (n, v) nghiên cứu /rɪˈsɜːtʃ/
-5. global warming: (n.phr) sự nóng lên toàn cầu /ˈɡləʊbl ˈwɔːmɪŋ/
-6. deforestation: (n) sự phá rừng /ˌdiːˌfɒrɪˈsteɪʃn/
-7. endangered: (adj) có nguy cơ tuyệt chủng /ɪnˈdeɪndʒəd/
-8. pollution: (n) sự ô nhiễm /pəˈluːʃn/
-9. organize: (v) sắp xếp, tổ chức /ˈɔːɡənaɪz/
-10. cause: (n, v) nguyên nhân, gây ra /kɔːz/
-11. solution: (n) giải pháp /səˈluːʃn/
-12. practical: (adj) thực tế /ˈpræktɪkl/
-13. action: (n) hành động /ˈækʃn/
-14. effort: (n) nỗ lực /ˈefət/
-15. succeed: (v) thành công /səkˈsiːd/
+1. **presentation** : (n) bài thuyết trình /ˌpreznˈteɪʃn/
+2. **environment** : (n) môi trường /ɪnˈvaɪrənmənt/
+3. **protect** : (v) bảo vệ /prəˈtekt/
+4. **research** : (n, v) nghiên cứu /rɪˈsɜːtʃ/
+5. **global warming** : (n.phr) sự nóng lên toàn cầu /ˈɡləʊbl ˈwɔːmɪŋ/
+6. **deforestation** : (n) sự phá rừng /ˌdiːˌfɒrɪˈsteɪʃn/
+7. **endangered** : (adj) có nguy cơ tuyệt chủng /ɪnˈdeɪndʒəd/
+8. **pollution** : (n) sự ô nhiễm /pəˈluːʃn/
+9. **organize** : (v) sắp xếp, tổ chức /ˈɔːɡənaɪz/
+10. **cause** : (n, v) nguyên nhân, gây ra /kɔːz/
+11. **solution** : (n) giải pháp /səˈluːʃn/
+12. **practical** : (adj) thực tế /ˈpræktɪkl/
+13. **action** : (n) hành động /ˈækʃn/
+14. **effort** : (n) nỗ lực /ˈefət/
+15. **succeed** : (v) thành công /səkˈsiːd/
 
 ---
 
@@ -178,28 +178,28 @@
 
 ## Vocabulary (Từ vựng)
 
-1. presentation: (n) bài thuyết trình /ˌpreznˈteɪʃn/
-2. environment: (n) môi trường /ɪnˈvaɪrənmənt/
-3. protect: (v) bảo vệ /prəˈtekt/
-4. research: (n, v) nghiên cứu /rɪˈsɜːtʃ/
-5. identify: (v) xác định /aɪˈdentɪfaɪ/
-6. global warming: (n.phr) sự nóng lên toàn cầu /ˈɡləʊbl ˈwɔːmɪŋ/
-7. deforestation: (n) sự phá rừng /ˌdiːˌfɒrɪˈsteɪʃn/
-8. endangered: (adj) có nguy cơ tuyệt chủng /ɪnˈdeɪndʒəd/
-9. pollution: (n) sự ô nhiễm /pəˈluːʃn/
-10. organize: (v) sắp xếp, tổ chức /ˈɔːɡənaɪz/
-11. focus on: (v.phr) tập trung vào /ˈfəʊkəs ɒn/
-12. cause: (n, v) nguyên nhân, gây ra /kɔːz/
-13. solution: (n) giải pháp /səˈluːʃn/
-14. practical: (adj) thực tế /ˈpræktɪkl/
-15. action: (n) hành động /ˈækʃn/
-16. effort: (n) nỗ lực /ˈefət/
-17. succeed: (v) thành công /səkˈsiːd/
-18. advice: (n) lời khuyên /ədˈvaɪs/
-19. advise: (v) khuyên /ədˈvaɪz/
-20. come up with: (v.phr) nghĩ ra /kʌm ʌp wɪð/
-21. a range of: (phr) một loạt /ə reɪndʒ əv/
-22. issue: (n) vấn đề /ˈɪʃuː/
-23. suggest: (v) gợi ý /səˈdʒest/
-24. geography: (n) địa lý /dʒiˈɒɡrəfi/
-25. the following week: (phr) tuần sau /ðə ˈfɒləʊɪŋ wiːk/
+1. **presentation** : (n) bài thuyết trình /ˌpreznˈteɪʃn/
+2. **environment** : (n) môi trường /ɪnˈvaɪrənmənt/
+3. **protect** : (v) bảo vệ /prəˈtekt/
+4. **research** : (n, v) nghiên cứu /rɪˈsɜːtʃ/
+5. **identify** : (v) xác định /aɪˈdentɪfaɪ/
+6. **global warming** : (n.phr) sự nóng lên toàn cầu /ˈɡləʊbl ˈwɔːmɪŋ/
+7. **deforestation** : (n) sự phá rừng /ˌdiːˌfɒrɪˈsteɪʃn/
+8. **endangered** : (adj) có nguy cơ tuyệt chủng /ɪnˈdeɪndʒəd/
+9. **pollution** : (n) sự ô nhiễm /pəˈluːʃn/
+10. **organize** : (v) sắp xếp, tổ chức /ˈɔːɡənaɪz/
+11. **focus on** : (v.phr) tập trung vào /ˈfəʊkəs ɒn/
+12. **cause** : (n, v) nguyên nhân, gây ra /kɔːz/
+13. **solution** : (n) giải pháp /səˈluːʃn/
+14. **practical** : (adj) thực tế /ˈpræktɪkl/
+15. **action** : (n) hành động /ˈækʃn/
+16. **effort** : (n) nỗ lực /ˈefət/
+17. **succeed** : (v) thành công /səkˈsiːd/
+18. **advice** : (n) lời khuyên /ədˈvaɪs/
+19. **advise** : (v) khuyên /ədˈvaɪz/
+20. **come up with** : (v.phr) nghĩ ra /kʌm ʌp wɪð/
+21. **a range of** : (phr) một loạt /ə reɪndʒ əv/
+22. **issue** : (n) vấn đề /ˈɪʃuː/
+23. **suggest** : (v) gợi ý /səˈdʒest/
+24. **geography** : (n) địa lý /dʒiˈɒɡrəfi/
+25. **the following week** : (phr) tuần sau /ðə ˈfɒləʊɪŋ wiːk/

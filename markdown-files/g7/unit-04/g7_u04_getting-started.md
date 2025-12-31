@@ -7,16 +7,16 @@
 1. **gate** (n) \- cổng /ɡeɪt/  
 2. **listen** (v) \- nghe /ˈlɪs.ən/  
 3. **classical music** (n) \- nhạc cổ điển /ˈklæs.ɪ.kəl ˈmjuː.zɪk/  
-4. **spare time**: thời gian trống  
+4. **spare time** : thời gian trống
 5. **instrument** (n) \- nhạc cụ /ˈɪn.strə.mənt/  
 6. **what about** (phrase) \- còn... thì sao? /wɒt əˈbaʊt/  
 7. **any** \+ danh từ: bất cứ cái …. nào  
-8. **often**: thường   
+8. **often** : thường
 9. **try (past: tried)** (v) \- thử, cố gắng /traɪd/  
 10. **different** (adj) \- khác biệt /ˈdɪf.ər.ənt/  
 11. **normally** (adv) \- thông thường /ˈnɔː.mə.li/  
-12. **taking photos**: chụp hình   
-13. **painting**: vẽ tranh   
+12. **taking photos** : chụp hình
+13. **painting** : vẽ tranh
 14. **each other** (pron) \- lẫn nhau /iːtʃ ˈʌð.ər/  
 15. **landscape** (n) \- phong cảnh /ˈlænd.skeɪp/  
 16. **for pleasure** (phrase) \- để giải trí, để vui /fɔː ˈpleʒ.ər/  

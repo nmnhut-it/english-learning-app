@@ -3,19 +3,19 @@
 ## GETTING STARTED  
 **Vocabulary:** 
 
-1. The Voice Kid: giọng hát Việt nhí   
-2. talent show: chương trình tài năng /ˈtælənt ʃəʊ/  
-3. programme: (n) chương trình /ˈprəʊɡræm/  
-4. film: (n) phim /fɪlm/  
-5. animated film: phim hoạt hình /ˈænɪmeɪtɪd fɪlm/  
-6. The Lion King: Vua Sư Tử /ðə ˈlaɪən kɪŋ/  
-7. wonderful: (adj) tuyệt vời, tuyệt diệu /ˈwʌndəfl/  
-8. prefer A to B: thích A hơn B /prɪˈfɜː ... tə .../  
-9. cartoon: (n) phim hoạt hình, tranh biếm họa /kɑːˈtuːn/  
-10. clever: (adj) thông minh, khéo léo /ˈklevə/  
-11. character: (n) nhân vật, tính cách, ký tự /ˈkærəktə/  
-12. channel: (n) kênh (truyền hình), eo biển /ˈtʃænl/  
-13. educational programme: chương trình giáo dục /ˌedʒuˈkeɪʃənl ˈprəʊɡræm/
+1. **The Voice Kid** : giọng hát Việt nhí
+2. **talent show** : chương trình tài năng /ˈtælənt ʃəʊ/
+3. **programme** : (n) chương trình /ˈprəʊɡræm/
+4. **film** : (n) phim /fɪlm/
+5. **animated film** : phim hoạt hình /ˈænɪmeɪtɪd fɪlm/
+6. **The Lion King** : Vua Sư Tử /ðə ˈlaɪən kɪŋ/
+7. **wonderful** : (adj) tuyệt vời, tuyệt diệu /ˈwʌndəfl/
+8. **prefer A to B** : thích A hơn B /prɪˈfɜː ... tə .../
+9. **cartoon** : (n) phim hoạt hình, tranh biếm họa /kɑːˈtuːn/
+10. **clever** : (adj) thông minh, khéo léo /ˈklevə/
+11. **character** : (n) nhân vật, tính cách, ký tự /ˈkærəktə/
+12. **channel** : (n) kênh (truyền hình), eo biển /ˈtʃænl/
+13. **educational programme** : chương trình giáo dục /ˌedʒuˈkeɪʃənl ˈprəʊɡræm/
 
 Phong: Bạn đang xem cái gì, Hùng?  
 Hùng: Giọng Hát Việt Nhí.  

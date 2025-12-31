@@ -4,30 +4,30 @@
 
 **Vocabulary**
 
-1. prepare: (v) chuẩn bị /prɪˈpeə/    
+1. **prepare** : (v) chuẩn bị /prɪˈpeə/
    good \< better \< best   
    You little pest\!  
-2. Lower Secondary School: trường trung học cơ sở /ˈləʊə ˈsekəndri skuːl/  
-3. Well, : À,   
-4. well: (adv) tốt   
-5. well: (n) cái giếng   
-6. will: sẽ  share: chia sẻ   
-7. see: thấy, gặp, nhìn   
-8. meet: gặp  
-9. sound great: nghe có vẻ tuyệt /saʊnd ɡreɪt/  
-10. neighbourhood: (n) khu phố, hàng xóm /ˈneɪbəhʊd/  
-11. classmate: (n) bạn cùng lớp /ˈklɑːsmeɪt/  
-12. there: ở đó /ðeə/  
-13. library: (n) thư viện /ˈlaɪbrəri/   
-14. project: (n) dự án /ˈprɒdʒekt/  
-15. idea: (n) ý tưởng /aɪˈdɪə/  
-16. interesting: (adj) thú vị /ˈɪntrəstɪŋ/  
-17. what else: còn gì nữa /wɒt els/  
-18. take photo: chụp ảnh /teɪk ˈfəʊtəʊ/  
-19. fantastic: (adj) tuyệt vời /fænˈtæstɪk/  
-20. forget \- forgot \- forgot: quên /fəˈɡet \- fəˈɡɒt \- fəˈɡɒt/  
-21. almost: (adv) gần như /ˈɔːlməʊst/  
-22. remind: (v) nhắc nhở /rɪˈmaɪnd/
+2. **Lower Secondary School** : trường trung học cơ sở /ˈləʊə ˈsekəndri skuːl/
+3. **Well,** : À,
+4. **well** : (adv) tốt
+5. **well** : (n) cái giếng
+6. **will** : sẽ  share: chia sẻ
+7. **see** : thấy, gặp, nhìn
+8. **meet** : gặp
+9. **sound great** : nghe có vẻ tuyệt /saʊnd ɡreɪt/
+10. **neighbourhood** : (n) khu phố, hàng xóm /ˈneɪbəhʊd/
+11. **classmate** : (n) bạn cùng lớp /ˈklɑːsmeɪt/
+12. **there** : ở đó /ðeə/
+13. **library** : (n) thư viện /ˈlaɪbrəri/
+14. **project** : (n) dự án /ˈprɒdʒekt/
+15. **idea** : (n) ý tưởng /aɪˈdɪə/
+16. **interesting** : (adj) thú vị /ˈɪntrəstɪŋ/
+17. **what else** : còn gì nữa /wɒt els/
+18. **take photo** : chụp ảnh /teɪk ˈfəʊtəʊ/
+19. **fantastic** : (adj) tuyệt vời /fænˈtæstɪk/
+20. **forget \- forgot \- forgot** : quên /fəˈɡet \- fəˈɡɒt \- fəˈɡɒt/
+21. **almost** : (adv) gần như /ˈɔːlməʊst/
+22. **remind** : (v) nhắc nhở /rɪˈmaɪnd/
 
 **Phong:** Bạn đang làm gì thế, Mi?
 
@@ -105,30 +105,30 @@ B: At 3 p.m on Monday and Thursday.
 
 **Vocabulary**
 
-1. can: (v) có thể /kæn/ hoặc /kən/ (dạng yếu)  
-2. countryside: (n) vùng nông thôn, miền quê /ˈkʌntrɪsaɪd/  
-3. garden: (n) vườn /ˈɡɑːdən/  
-4. lab: (n) phòng thí nghiệm /læb/  
-5. magazine: (n) tạp chí /ˌmæɡəˈziːn/  
-6. meeting: (n) cuộc họp, buổi gặp mặt /ˈmiːtɪŋ/  
-7. noon: (n) buổi trưa, giữa trưa /nuːn/  
-8. on: (prep) trên, ở trên; về (thời gian, chủ đề) /ɒn/  
-9. rain: (v) mưa /reɪn/  
-10. entrance: (n) lối vào, cổng vào; sự nhập học /ˈentrəns/  
-11. examination: (n) kỳ thi, sự kiểm tra /ɪɡˌzæmɪˈneɪʃn/  
-12. gifted: (adj) có tài năng, có năng khiếu đặc biệt /ˈɡɪftɪd/  
-13. facility: (n) cơ sở vật chất, thiết bị tiện nghi; khả năng /fəˈsɪləti/  
-14. cover: (v) che phủ, bao phủ; bao gồm /ˈkʌvə/
+1. **can** : (v) có thể /kæn/ hoặc /kən/ (dạng yếu)
+2. **countryside** : (n) vùng nông thôn, miền quê /ˈkʌntrɪsaɪd/
+3. **garden** : (n) vườn /ˈɡɑːdən/
+4. **lab** : (n) phòng thí nghiệm /læb/
+5. **magazine** : (n) tạp chí /ˌmæɡəˈziːn/
+6. **meeting** : (n) cuộc họp, buổi gặp mặt /ˈmiːtɪŋ/
+7. **noon** : (n) buổi trưa, giữa trưa /nuːn/
+8. **on** : (prep) trên, ở trên; về (thời gian, chủ đề) /ɒn/
+9. **rain** : (v) mưa /reɪn/
+10. **entrance** : (n) lối vào, cổng vào; sự nhập học /ˈentrəns/
+11. **examination** : (n) kỳ thi, sự kiểm tra /ɪɡˌzæmɪˈneɪʃn/
+12. **gifted** : (adj) có tài năng, có năng khiếu đặc biệt /ˈɡɪftɪd/
+13. **facility** : (n) cơ sở vật chất, thiết bị tiện nghi; khả năng /fəˈsɪləti/
+14. **cover** : (v) che phủ, bao phủ; bao gồm /ˈkʌvə/
 
 [**https://youtu.be/o7fFdolhixI**](https://youtu.be/o7fFdolhixI)
 
 **Bài 1 trang 62**
 
-1. entrance examination: kỳ thi tuyển sinh, kỳ thi đầu vào /ˈentrəns ɪɡˌzæmɪˈneɪʃən/  
-2. school facilities: cơ sở vật chất trường học /skuːl fəˈsɪlɪtiz/  
-3. outdoor activities: các hoạt động ngoài trời /ˈaʊtdɔː ækˈtɪvɪtiz/  
-4. midterm test: bài kiểm tra giữa kỳ /ˈmɪdtɜːm test/  
-5. gifted students: học sinh năng khiếu, học sinh xuất sắc /ˈɡɪftɪd ˈstjuːdənts/
+1. **entrance examination** : kỳ thi tuyển sinh, kỳ thi đầu vào /ˈentrəns ɪɡˌzæmɪˈneɪʃən/
+2. **school facilities** : cơ sở vật chất trường học /skuːl fəˈsɪlɪtiz/
+3. **outdoor activities** : các hoạt động ngoài trời /ˈaʊtdɔː ækˈtɪvɪtiz/
+4. **midterm test** : bài kiểm tra giữa kỳ /ˈmɪdtɜːm test/
+5. **gifted students** : học sinh năng khiếu, học sinh xuất sắc /ˈɡɪftɪd ˈstjuːdənts/
 
 **Bài 2 trang 62** 
 
@@ -292,19 +292,19 @@ on \+ mặt phẳng: on the wall (trên tường), on the table (trên bàn), on
 
 **Vocabulary** 
 
-1. one of the \+ plural noun: một trong những /wʌn əv ðə/  
-2. on the bank of: bên bờ /ɒn ðə bæŋk əv/  
-3. used to \+ V0: đã từng /juːst tuː/  
-4. rich: (adj) giàu có, phong phú /rɪtʃ/  
-5. royal: (adj) thuộc hoàng gia, hoàng tộc /ˈrɔɪəl/  
-6. well-known: (adj) nổi tiếng, được biết đến rộng rãi /ˌwel ˈnəʊn/  
-7. gifted student: học sinh có năng khiếu /ˈɡɪftɪd ˈstjuːdənt/  
-8. such as: (conj) chẳng hạn như, ví dụ như /sʌtʃ æz/  
-9. pass an entrance exam: thi đỗ kỳ thi tuyển sinh /pɑːs ən ˈentrəns ɪɡˈzæm/  
-10. intelligent: (adj) thông minh, sáng dạ /ɪnˈtelɪdʒənt/  
-11. projector: (n) máy chiếu /prəˈdʒektə/  
-12. lab: (n) phòng thí nghiệm /læb/  
-13. facilities: (n) cơ sở vật chất, trang thiết bị /fəˈsɪlətiz/
+1. **one of the \+ plural noun** : một trong những /wʌn əv ðə/
+2. **on the bank of** : bên bờ /ɒn ðə bæŋk əv/
+3. **used to \+ V0** : đã từng /juːst tuː/
+4. **rich** : (adj) giàu có, phong phú /rɪtʃ/
+5. **royal** : (adj) thuộc hoàng gia, hoàng tộc /ˈrɔɪəl/
+6. **well-known** : (adj) nổi tiếng, được biết đến rộng rãi /ˌwel ˈnəʊn/
+7. **gifted student** : học sinh có năng khiếu /ˈɡɪftɪd ˈstjuːdənt/
+8. **such as** : (conj) chẳng hạn như, ví dụ như /sʌtʃ æz/
+9. **pass an entrance exam** : thi đỗ kỳ thi tuyển sinh /pɑːs ən ˈentrəns ɪɡˈzæm/
+10. **intelligent** : (adj) thông minh, sáng dạ /ɪnˈtelɪdʒənt/
+11. **projector** : (n) máy chiếu /prəˈdʒektə/
+12. **lab** : (n) phòng thí nghiệm /læb/
+13. **facilities** : (n) cơ sở vật chất, trang thiết bị /fəˈsɪlətiz/
 
 Trường Quốc Học \- Huế là một trong những ngôi trường lâu đời nhất ở Việt Nam. Trường nằm trên bờ sông Hương, tại Huế. Nó được thành lập vào năm 1896\. Nó đã từng là ngôi trường dành cho con em các gia đình giàu có và hoàng tộc. Những người nổi tiếng như Hồ Chí Minh, Võ Nguyên Giáp, Xuân Diệu đã từng học tại đó. 
 
@@ -640,16 +640,16 @@ Trả lời
 
 **Vocabulary** 
 
-1. classical: (adj) cổ điển, thuộc về âm nhạc cổ điển /ˈklæsɪkəl/  
-2. pass: (v) vượt qua, đi qua, đạt (kỳ thi) /pɑːs/  
-3. entrance exam: kỳ thi đầu vào /ˈentrəns ɪgˈzæm/  
-4. need: (v) cần, đòi hỏi; (n) nhu cầu, sự cần thiết /niːd/  
-5. recipe: (n) công thức nấu ăn, công thức chế biến /ˈresɪpi/  
-6. enter: (v) bước vào, đi vào, tham gia /ˈentə/  
-7. some: (adj) một vài, một số, một ít /sʌm/  
-8. apple: (n) quả táo /ˈæpəl/  
-9. butter: (n) bơ /ˈbʌtə/  
-10. portrait: (n) chân dung, bức chân dung /ˈpɔːtrət/
+1. **classical** : (adj) cổ điển, thuộc về âm nhạc cổ điển /ˈklæsɪkəl/
+2. **pass** : (v) vượt qua, đi qua, đạt (kỳ thi) /pɑːs/
+3. **entrance exam** : kỳ thi đầu vào /ˈentrəns ɪgˈzæm/
+4. **need** : (v) cần, đòi hỏi; (n) nhu cầu, sự cần thiết /niːd/
+5. **recipe** : (n) công thức nấu ăn, công thức chế biến /ˈresɪpi/
+6. **enter** : (v) bước vào, đi vào, tham gia /ˈentə/
+7. **some** : (adj) một vài, một số, một ít /sʌm/
+8. **apple** : (n) quả táo /ˈæpəl/
+9. **butter** : (n) bơ /ˈbʌtə/
+10. **portrait** : (n) chân dung, bức chân dung /ˈpɔːtrət/
 
 **Trả lời**
 
@@ -687,16 +687,16 @@ Trả lời
 
 **Vocabulary:** 
 
-1. scientist: (n) nhà khoa học /ˈsaɪəntɪsts/  
-2. composer: (n) nhà soạn nhạc /kəmˈpəʊzəz/  
-3. butter: (n) bơ /ˈbʌtə/  
-4. apple: (n) quả táo /ˈæplz/  
-5. portrait: (n) chân dung /ˈpɔːtrət/  
-6. concert: (n) buổi hòa nhạc /ˈkɒnsət/  
-7. normal: (adj) bình thường, thông thường /ˈnɔːməl/  
-8. gifted: (adj) có năng khiếu, có tài năng thiên bẩm /ˈɡɪftɪd/  
-9. entrance: (n) lối vào, cửa vào; sự đi vào /ˈentrəns/  
-10. final: (adj) cuối cùng; (n) kỳ thi cuối kỳ /ˈfaɪnəl/
+1. **scientist** : (n) nhà khoa học /ˈsaɪəntɪsts/
+2. **composer** : (n) nhà soạn nhạc /kəmˈpəʊzəz/
+3. **butter** : (n) bơ /ˈbʌtə/
+4. **apple** : (n) quả táo /ˈæplz/
+5. **portrait** : (n) chân dung /ˈpɔːtrət/
+6. **concert** : (n) buổi hòa nhạc /ˈkɒnsət/
+7. **normal** : (adj) bình thường, thông thường /ˈnɔːməl/
+8. **gifted** : (adj) có năng khiếu, có tài năng thiên bẩm /ˈɡɪftɪd/
+9. **entrance** : (n) lối vào, cửa vào; sự đi vào /ˈentrəns/
+10. **final** : (adj) cuối cùng; (n) kỳ thi cuối kỳ /ˈfaɪnəl/
 
 **Trả lời**
 
@@ -834,22 +834,22 @@ Nhận biết: be not different from \+ N (không khác với) \= be like \+ N (
 
 **Vocabulary**  
 
-1. enjoy: (v) thích, thưởng thức, vui hưởng /ɪnˈdʒɔɪ/  
-2. concert: (n) buổi hòa nhạc /ˈkɒnsət/  
-3. orchestra: (n) dàn nhạc giao hưởng /ˈɔːkɪstrə/  
-4. formal clothes: quần áo trang trọng /ˈfɔːməl kləʊðz/  
-5. audience: (n) khán giả, người xem /ˈɔːdiəns/  
-6. silent: (adj) im lặng, yên tĩnh /ˈsaɪlənt/  
-7. rock music: nhạc rock /rɒk ˈmjuːzɪk/  
-8. dance to the music: nhảy múa theo nhạc /dɑːns tə ðə ˈmjuːzɪk/  
-9. football stadium: sân vận động bóng đá /ˈfʊtbɔːl ˈsteɪdiəm/  
-10. wedding: (n) đám cưới /ˈwedɪŋ/    
-11. party: (n) bữa tiệc, buổi tiệc /ˈpɑːti/  
-12. lift: (n) thang máy /lɪft/  
-13. even: (adv) thậm chí, ngay cả /ˈiːvən/  
-14. historical: (adj) thuộc về lịch sử, có tính lịch sử /hɪˈstɒrɪkəl/  
-15. traditional: (adj) truyền thống /trəˈdɪʃənəl/  
-16. national: (adj) thuộc về quốc gia, mang tính dân tộc /ˈnæʃənəl/
+1. **enjoy** : (v) thích, thưởng thức, vui hưởng /ɪnˈdʒɔɪ/
+2. **concert** : (n) buổi hòa nhạc /ˈkɒnsət/
+3. **orchestra** : (n) dàn nhạc giao hưởng /ˈɔːkɪstrə/
+4. **formal clothes** : quần áo trang trọng /ˈfɔːməl kləʊðz/
+5. **audience** : (n) khán giả, người xem /ˈɔːdiəns/
+6. **silent** : (adj) im lặng, yên tĩnh /ˈsaɪlənt/
+7. **rock music** : nhạc rock /rɒk ˈmjuːzɪk/
+8. **dance to the music** : nhảy múa theo nhạc /dɑːns tə ðə ˈmjuːzɪk/
+9. **football stadium** : sân vận động bóng đá /ˈfʊtbɔːl ˈsteɪdiəm/
+10. **wedding** : (n) đám cưới /ˈwedɪŋ/
+11. **party** : (n) bữa tiệc, buổi tiệc /ˈpɑːti/
+12. **lift** : (n) thang máy /lɪft/
+13. **even** : (adv) thậm chí, ngay cả /ˈiːvən/
+14. **historical** : (adj) thuộc về lịch sử, có tính lịch sử /hɪˈstɒrɪkəl/
+15. **traditional** : (adj) truyền thống /trəˈdɪʃənəl/
+16. **national** : (adj) thuộc về quốc gia, mang tính dân tộc /ˈnæʃənəl/
 
 **Trả lời:**
 

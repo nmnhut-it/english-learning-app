@@ -3,26 +3,26 @@
 ## GETTING STARTED - BẮT ĐẦU
 
 ### 📚 Vocabulary - Từ vựng
-- **journey** : (n) hành trình, chuyến đi /ˈdʒɜːni/
+1. **journey** : (n) hành trình, chuyến đi /ˈdʒɜːni/
 - **on the last page** : ở trang cuối cùng /ɒn ðə lɑːst peɪdʒ/
 - **science fiction book** : sách khoa học viễn tưởng /ˈsaɪəns ˈfɪkʃn bʊk/
-- **creature** : (n) sinh vật, tạo vật /ˈkriːtʃə/
-- **spaceship** : (n) tàu vũ trụ /ˈspeɪsʃɪp/
-- **break down** : (v) hư hỏng, sự cố /breɪk daʊn/
-- **repair** : (v) sửa chữa, tu bổ /rɪˈpeə/
+2. **creature** : (n) sinh vật, tạo vật /ˈkriːtʃə/
+3. **spaceship** : (n) tàu vũ trụ /ˈspeɪsʃɪp/
+4. **break down** : (v) hư hỏng, sự cố /breɪk daʊn/
+5. **repair** : (v) sửa chữa, tu bổ /rɪˈpeə/
 - **home planet** : hành tinh quê hương /həʊm ˈplænɪt/
-- **oppose** : (v) phản đối, chống lại /əˈpəʊz/
-- **commander** : (n) chỉ huy, người chỉ huy /kəˈmɑːndə/
-- **possibility** : (n) khả năng, triển vọng /ˌpɒsəˈbɪləti/
-- **alien** : (n) người ngoài hành tinh; (adj) xa lạ, ngoại lai /ˈeɪliən/
+6. **oppose** : (v) phản đối, chống lại /əˈpəʊz/
+7. **commander** : (n) chỉ huy, người chỉ huy /kəˈmɑːndə/
+8. **possibility** : (n) khả năng, triển vọng /ˌpɒsəˈbɪləti/
+9. **alien** : (n) người ngoài hành tinh; (adj) xa lạ, ngoại lai /ˈeɪliən/
 - **take over our planet** : chiếm lấy hành tinh của chúng ta /teɪk ˈəʊvə ˈaʊə ˈplænɪt/
 - **not sure about it** : không chắc chắn về điều đó /nɒt ʃʊər əˈbaʊt ɪt/
-- **manage to** : (v) xoay sở để, thành công làm gì /ˈmænɪdʒ tuː/
-- **destroy** : (v) phá hủy /dɪˈstrɔɪ/
+10. **manage to** : (v) xoay sở để, thành công làm gì /ˈmænɪdʒ tuː/
+11. **destroy** : (v) phá hủy /dɪˈstrɔɪ/
 - **happy ending** : kết thúc có hậu /ˈhæpi ˈendɪŋ/
-- **attack** : (v) tấn công /əˈtæk/
-- **thrilling** : (adj) ly kỳ, gay cấn /ˈθrɪlɪŋ/
-- **imaginary** : (adj) tưởng tượng, không có thật /ɪˈmædʒɪnəri/
+12. **attack** : (v) tấn công /əˈtæk/
+13. **thrilling** : (adj) ly kỳ, gay cấn /ˈθrɪlɪŋ/
+14. **imaginary** : (adj) tưởng tượng, không có thật /ɪˈmædʒɪnəri/
 
 ### 💬 Content - Nội dung
 
@@ -93,26 +93,26 @@ Hoàn thành các câu với các từ trong bài 3
 
 ### 📚 Vocabulary - Từ vựng
 **The Eight Planets - Tám hành tinh**
-- **Mercury** : (n) Sao Thủy /ˈmɜːkjʊri/
-- **Venus** : (n) Sao Kim /ˈviːnəs/
-- **Earth** : (n) Trái Đất /ɜːθ/
-- **Mars** : (n) Sao Hỏa /mɑːz/
-- **Jupiter** : (n) Sao Mộc /ˈdʒuːpɪtə/
-- **Saturn** : (n) Sao Thổ /ˈsætən/
-- **Uranus** : (n) Sao Thiên Vương /jʊˈreɪnəs/
-- **Neptune** : (n) Sao Hải Vương /ˈneptjuːn/
+1. **Mercury** : (n) Sao Thủy /ˈmɜːkjʊri/
+2. **Venus** : (n) Sao Kim /ˈviːnəs/
+3. **Earth** : (n) Trái Đất /ɜːθ/
+4. **Mars** : (n) Sao Hỏa /mɑːz/
+5. **Jupiter** : (n) Sao Mộc /ˈdʒuːpɪtə/
+6. **Saturn** : (n) Sao Thổ /ˈsætən/
+7. **Uranus** : (n) Sao Thiên Vương /jʊˈreɪnəs/
+8. **Neptune** : (n) Sao Hải Vương /ˈneptjuːn/
 
 **Space-related vocabulary - Từ vựng liên quan đến vũ trụ**
-- **telescope** : (n) kính viễn vọng, kính thiên văn /ˈtelɪskəʊp/
-- **craters** : (n) các miệng núi lửa, hố trên bề mặt hành tinh /ˈkreɪtəz/
-- **outer** : (adj) bên ngoài, ngoại vi /ˈaʊtə/
-- **surface** : (n) bề mặt, bề ngoài /ˈsɜːfɪs/
-- **rocket** : (n) tên lửa /ˈrɒkɪt/
-- **galaxy** : (n) thiên hà /ˈɡæləksi/
-- **solar system** : (n) hệ mặt trời /ˈsəʊlə ˈsɪstəm/
-- **moon** : (n) mặt trăng /muːn/
-- **orbit** : (n) quỹ đạo; (v) bay quanh quỹ đạo /ˈɔːbɪt/
-- **space** : (n) không gian, vũ trụ /speɪs/
+9. **telescope** : (n) kính viễn vọng, kính thiên văn /ˈtelɪskəʊp/
+10. **craters** : (n) các miệng núi lửa, hố trên bề mặt hành tinh /ˈkreɪtəz/
+11. **outer** : (adj) bên ngoài, ngoại vi /ˈaʊtə/
+12. **surface** : (n) bề mặt, bề ngoài /ˈsɜːfɪs/
+13. **rocket** : (n) tên lửa /ˈrɒkɪt/
+14. **galaxy** : (n) thiên hà /ˈɡæləksi/
+15. **solar system** : (n) hệ mặt trời /ˈsəʊlə ˈsɪstəm/
+16. **moon** : (n) mặt trăng /muːn/
+17. **orbit** : (n) quỹ đạo; (v) bay quanh quỹ đạo /ˈɔːbɪt/
+18. **space** : (n) không gian, vũ trụ /speɪs/
 
 ### 🗣️ Pronunciation - Phát âm
 **Intonation in lists - Ngữ điệu trong lúc liệt kê**
@@ -166,13 +166,13 @@ Hoàn thành các câu sau với các từ trong hộp
 ## A CLOSER LOOK 2 - TÌM HIỂU THÊM 2
 
 ### 📚 Vocabulary - Từ vựng
-- **ask** : (v) hỏi /ɑːsk/
-- **wonder** : (v) tự hỏi, thắc mắc /ˈwʌndə/
+1. **ask** : (v) hỏi /ɑːsk/
+2. **wonder** : (v) tự hỏi, thắc mắc /ˈwʌndə/
 - **want to know** : muốn biết /wɒnt tuː nəʊ/
-- **condition** : (n) điều kiện /kənˈdɪʃn/
+3. **condition** : (n) điều kiện /kənˈdɪʃn/
 - **correct amount** : lượng chính xác /kəˈrekt əˈmaʊnt/
-- **atmosphere** : (n) khí quyển /ˈætməsfɪə/
-- **oxygen** : (n) oxy /ˈɒksɪdʒən/
+4. **atmosphere** : (n) khí quyển /ˈætməsfɪə/
+5. **oxygen** : (n) oxy /ˈɒksɪdʒən/
 
 ### 📖 Grammar - Ngữ pháp
 **Reported speech - Questions (Câu tường thuật - Câu hỏi)**
@@ -270,10 +270,10 @@ Tường thuật cuộc hội thoại giữa An và Mai
 - **Do you think...?** : bạn có nghĩ rằng...? /duː juː θɪŋk/
 - **support life** : hỗ trợ sự sống /səˈpɔːt laɪf/
 - **get a good mark** : đạt được điểm số tốt /ɡet ə ɡʊd mɑːk/
-- **stormy** : (adj) có bão, giông bão /ˈstɔːmi/
-- **atmosphere** : (n) khí quyển, bầu không khí /ˈætməsfɪə/
+1. **stormy** : (adj) có bão, giông bão /ˈstɔːmi/
+2. **atmosphere** : (n) khí quyển, bầu không khí /ˈætməsfɪə/
 - **the morning star** : sao Mai (sao Kim khi xuất hiện vào buổi sáng) /ðə ˈmɔːnɪŋ stɑː/
-- **similar** : (adj) giống nhau, tương tự /ˈsɪmɪlə/
+3. **similar** : (adj) giống nhau, tương tự /ˈsɪmɪlə/
 
 ### 🗣️ Activities - Hoạt động
 
@@ -379,34 +379,34 @@ I would like to tell you about Mercury. It is the smallest planet ...
 ## SKILLS 1 - KỸ NĂNG 1
 
 ### 📚 Vocabulary - Từ vựng
-- **wonder** : (v) tự hỏi, thắc mắc; (n) kỳ quan, điều kỳ diệu /ˈwʌndə/
+1. **wonder** : (v) tự hỏi, thắc mắc; (n) kỳ quan, điều kỳ diệu /ˈwʌndə/
 - **meet three main conditions** : đáp ứng ba điều kiện chính /miːt θriː meɪn kənˈdɪʃnz/
 - **liquid water** : nước ở thể lỏng /ˈlɪkwɪd ˈwɔːtə/
-- **temperature** : (n) nhiệt độ /ˈtemprətʃə/
+2. **temperature** : (n) nhiệt độ /ˈtemprətʃə/
 - **too high** : quá cao /tuː haɪ/
 - **too low** : quá thấp /tuː ləʊ/
-- **gravity** : (n) trọng lực /ˈɡrævɪti/
+3. **gravity** : (n) trọng lực /ˈɡrævɪti/
 - **hold an atmosphere** : giữ bầu khí quyển /həʊld ən ˈætməsfɪə/
 - **hold too much air** : giữ quá nhiều không khí /həʊld tuː mʌtʃ eə/
-- **habitable** : (adj) có thể cư trú được, đáng ở /ˈhæbɪtəbl/
-- **promise** : (v) hứa, cam đoan; (n) lời hứa, cam kết /ˈprɒmɪs/
-- **promising** : (adj) đầy tính hứa hẹn, triển vọng /ˈprɒmɪsɪŋ/
-- **bore** : (v) làm chán, khoan, đục /bɔː/
-- **boring** : (adj) nhàm chán, tẻ nhạt /ˈbɔːrɪŋ/
-- **trace** : (n) dấu vết, vết tích; (v) truy tìm, vẽ theo /treɪs/
-- **climate** : (n) khí hậu /ˈklaɪmət/
-- **lack** : (n) sự thiếu; (v) thiếu, không có /læk/
+4. **habitable** : (adj) có thể cư trú được, đáng ở /ˈhæbɪtəbl/
+5. **promise** : (v) hứa, cam đoan; (n) lời hứa, cam kết /ˈprɒmɪs/
+6. **promising** : (adj) đầy tính hứa hẹn, triển vọng /ˈprɒmɪsɪŋ/
+7. **bore** : (v) làm chán, khoan, đục /bɔː/
+8. **boring** : (adj) nhàm chán, tẻ nhạt /ˈbɔːrɪŋ/
+9. **trace** : (n) dấu vết, vết tích; (v) truy tìm, vẽ theo /treɪs/
+10. **climate** : (n) khí hậu /ˈklaɪmət/
+11. **lack** : (n) sự thiếu; (v) thiếu, không có /læk/
 - **show signs of** : cho thấy dấu hiệu của /ʃəʊ saɪnz ɒv/
-- **successful** : (adj) thành công, thắng lợi /səkˈsesfʊl/
-- **solid** : (adj) rắn, đặc, chắc chắn; (n) chất rắn /ˈsɒlɪd/
-- **gas** : (n) khí, chất khí /ɡæs/
+12. **successful** : (adj) thành công, thắng lợi /səkˈsesfʊl/
+13. **solid** : (adj) rắn, đặc, chắc chắn; (n) chất rắn /ˈsɒlɪd/
+14. **gas** : (n) khí, chất khí /ɡæs/
 - **flow freely** : chảy tự do /fləʊ ˈfriːli/
-- **substance** : (n) chất, vật chất /ˈsʌbstəns/
+15. **substance** : (n) chất, vật chất /ˈsʌbstəns/
 - **in the form of** : dưới dạng, theo hình thức /ɪn ðə fɔːm ɒv/
-- **exist** : (v) tồn tại, sinh sống /ɪɡˈzɪst/
-- **enough** : (adj) đủ; (adv) đủ, khá; (n) số lượng đủ /ɪˈnʌf/
-- **unsuitable** : (adj) không phù hợp /ʌnˈsuːtəbl/
-- **oxygen** : (n) oxy /ˈɒksɪdʒən/
+16. **exist** : (v) tồn tại, sinh sống /ɪɡˈzɪst/
+17. **enough** : (adj) đủ; (adv) đủ, khá; (n) số lượng đủ /ɪˈnʌf/
+18. **unsuitable** : (adj) không phù hợp /ʌnˈsuːtəbl/
+19. **oxygen** : (n) oxy /ˈɒksɪdʒən/
 - **support human life** : hỗ trợ sự sống con người /səˈpɔːt ˈhjuːmən laɪf/
 
 ### 📖 Reading - Đọc
@@ -484,16 +484,16 @@ Có một số điều kiện mà các hành tinh phải có để hỗ trợ s�
 
 ### 📚 Vocabulary - Từ vựng
 - **be located** : tọa lạc ở /bi ləʊˈkeɪtɪd/
-- **climate** : (n) khí hậu /ˈklaɪmət/
-- **the Milky Way** : (n) dải Ngân Hà /ðə ˌmɪlki ˈweɪ/
-- **surface** : (n) bề mặt /ˈsɜːfɪs/
-- **dry** : (adj) khô /draɪ/
-- **thick skin** : (n) da dày /θɪk skɪn/
-- **protect** : (v) bảo vệ /prəˈtekt/
-- **liquid water** : (n) nước ở thể lỏng /ˌlɪkwɪd ˈwɔːtə/
-- **description** : (n) sự mô tả /dɪˈskrɪpʃən/
-- **dangerous** : (adj) nguy hiểm /ˈdeɪndʒərəs/
-- **imaginary** : (adj) tưởng tượng /ɪˈmædʒɪnəri/
+1. **climate** : (n) khí hậu /ˈklaɪmət/
+2. **the Milky Way** : (n) dải Ngân Hà /ðə ˌmɪlki ˈweɪ/
+3. **surface** : (n) bề mặt /ˈsɜːfɪs/
+4. **dry** : (adj) khô /draɪ/
+5. **thick skin** : (n) da dày /θɪk skɪn/
+6. **protect** : (v) bảo vệ /prəˈtekt/
+7. **liquid water** : (n) nước ở thể lỏng /ˌlɪkwɪd ˈwɔːtə/
+8. **description** : (n) sự mô tả /dɪˈskrɪpʃən/
+9. **dangerous** : (adj) nguy hiểm /ˈdeɪndʒərəs/
+10. **imaginary** : (adj) tưởng tượng /ɪˈmædʒɪnəri/
 
 ### 👂 Listening - Nghe
 

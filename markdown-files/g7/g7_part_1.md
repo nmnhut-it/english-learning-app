@@ -2,24 +2,24 @@
 
 **GETTING STARTED**
 
-1. dollhouse : (n) nhà búp bê /ˈdɒlˌhaʊs/  
-2. amazing : (adj) tuyệt vời /əˈmeɪzɪŋ/  
-3. build : (v) xây dựng /bɪld/  
-4. hobby : (n) sở thích /ˈhɒbi/  
-5. cardboard : (n) bìa cứng /ˈkɑːdbɔːd/  
-6. creativity : (n) sự sáng tạo /ˌkriːeɪˈtɪvɪti/  
-7. horse riding : (n) cưỡi ngựa /ˈhɔːs ˈraɪdɪŋ/  
-8. unusual : (adj) không thường, khác thường /ʌnˈjuːʒʊəl/  
-9. common : (adj) phổ biến /ˈkɒmən/  
-10. actually : (adv) thực tế /ˈæktʃuəli/  
-11. your: của bạn  
-12. need: cần   
-13. some: một chút, một vài   
-14. all: tất cả   
-15. learn how to: học cách để   
-16. just: chỉ   
-17. there is \= there are: có   
-18. lesson: bài học 
+1. **dollhouse** : (n) nhà búp bê /ˈdɒlˌhaʊs/
+2. **amazing** : (adj) tuyệt vời /əˈmeɪzɪŋ/
+3. **build** : (v) xây dựng /bɪld/
+4. **hobby** : (n) sở thích /ˈhɒbi/
+5. **cardboard** : (n) bìa cứng /ˈkɑːdbɔːd/
+6. **creativity** : (n) sự sáng tạo /ˌkriːeɪˈtɪvɪti/
+7. **horse riding** : (n) cưỡi ngựa /ˈhɔːs ˈraɪdɪŋ/
+8. **unusual** : (adj) không thường, khác thường /ʌnˈjuːʒʊəl/
+9. **common** : (adj) phổ biến /ˈkɒmən/
+10. **actually** : (adv) thực tế /ˈæktʃuəli/
+11. **your** : của bạn
+12. **need** : cần
+13. **some** : một chút, một vài
+14. **all** : tất cả
+15. **learn how to** : học cách để
+16. **just** : chỉ
+17. **there is \= there are** : có
+18. **lesson** : bài học
 
 Ann: Nhà của bạn rất đẹp, Trang.
 
@@ -66,12 +66,12 @@ Ann: Chắc chắn. Bài học của mình bắt đầu lúc 8 giờ sáng
 
 **Bài 3 trang 9** 
 
-1. building dollhouses : (n) xây dựng nhà búp bê /ˈbɪldɪŋ ˈdɒlˌhaʊsɪz/  
-2. riding a horse : (n) cưỡi ngựa /ˈraɪdɪŋ ə hɔːs/  
-3. collecting teddy bears : (n) sưu tập gấu bông /kəˈlɛktɪŋ ˈtɛdi beəz/  
-4. collecting coins : (n) sưu tập tiền xu /kəˈlɛktɪŋ kɔɪnz/  
-5. making models : (n) làm mô hình /ˈmeɪkɪŋ ˈmɒdlz/  
-6. gardening : (n) làm vườn /ˈɡɑːdənɪŋ/ ​​
+1. **building dollhouses** : (n) xây dựng nhà búp bê /ˈbɪldɪŋ ˈdɒlˌhaʊsɪz/
+2. **riding a horse** : (n) cưỡi ngựa /ˈraɪdɪŋ ə hɔːs/
+3. **collecting teddy bears** : (n) sưu tập gấu bông /kəˈlɛktɪŋ ˈtɛdi beəz/
+4. **collecting coins** : (n) sưu tập tiền xu /kəˈlɛktɪŋ kɔɪnz/
+5. **making models** : (n) làm mô hình /ˈmeɪkɪŋ ˈmɒdlz/
+6. **gardening** : (n) làm vườn /ˈɡɑːdənɪŋ/ ​​
 
 **Bài 4 trang 9**
 
@@ -92,32 +92,32 @@ Ann: Chắc chắn. Bài học của mình bắt đầu lúc 8 giờ sáng
 
 **Các động từ thể hiện nghĩa "thích/ghét" chỉ đi kèm "to V0" (Infinitive):**
 
-1. **Would like**: muốn  
+1. **Would like** : muốn
    * "I would like to go out tonight."  
-2. **Would love**: rất muốn  
+2. **Would love** : rất muốn
    * "She would love to visit Paris."  
-3. **Would prefer**: thích hơn  
+3. **Would prefer** : thích hơn
    * "He would prefer to stay home."  
-4. **Would hate**: ghét  
+4. **Would hate** : ghét
    * "I would hate to miss the concert."  
-5. **Would enjoy**: thích  
+5. **Would enjoy** : thích
    * "They would enjoy to watch the movie."
 
 **Các động từ thể hiện nghĩa "thích/ghét" chỉ đi kèm "V-ing" (Gerund):**
 
-1. **Enjoy**: thích  
+1. **Enjoy** : thích
    * "I enjoy reading books."  
-2. **Dislike**: không thích  
+2. **Dislike** : không thích
    * "She dislikes doing homework."  
-3. **Mind**: phiền, ngại  
+3. **Mind** : phiền, ngại
    * "Do you mind opening the window?"  
-4. **Detest**: ghét cay ghét đắng  
+4. **Detest** : ghét cay ghét đắng
    * "He detests waking up early."  
-5. **Resent**: bực bội  
+5. **Resent** : bực bội
    * "They resent being told what to do."  
-6. **Avoid**: tránh  
+6. **Avoid** : tránh
    * "I avoid eating fast food."  
-7. **Can't help**: không thể không  
+7. **Can't help** : không thể không
    * "She can't help laughing at his jokes."
 
 **Bài 1 trang 10** 
@@ -297,46 +297,46 @@ I have three hours of free time a day, but my friend has three and 30 minutes. I
 **Reading**   
 **Vocabulary** 
 
-1. divide : (v) chia /dɪˈvaɪd/  
-2. hobby : (n) sở thích /ˈhɒbi/  
-3. group : (n) nhóm /ɡruːp/  
-4. do : (v) làm /duː/  
-5. make : (v) làm /meɪk/  
-6. collect : (v) sưu tập /kəˈlɛkt/  
-7. learn : (v) học /lɜːn/  
-8. belong : (v) thuộc về /bɪˈlɒŋ/  
-9. gardening : (n) làm vườn /ˈɡɑːdənɪŋ/  
-10. popular : (adj) phổ biến /ˈpɒpjʊlə/  
-11. outdoor : (adj) ngoài trời /ˈaʊtdɔː/  
-12. activity : (n) hoạt động /ækˈtɪvɪti/  
-13. everyone : (pron) mọi người /ˈɛvrɪwʌn/  
-14. child : (n) trẻ em /tʃaɪld/  
-15. teach : (v) dạy /tiːtʃ/  
-16. flower : (n) hoa /ˈflaʊə/  
-17. fruit : (n) trái cây /fruːt/  
-18. vegetable : (n) rau củ /ˈvɛdʒtəb(ə)l/  
-19. insect : (n) côn trùng /ˈɪnsɛkt/  
-20. bug : (n) sâu bọ /bʌɡ/  
-21. patient : (adj) kiên nhẫn /ˈpeɪʃənt/  
-22. responsibility : (n) trách nhiệm /rɪˌspɒnsɪˈbɪlɪti/  
-23. wait : (v) chờ đợi /weɪt/  
-24. grow : (v) lớn lên /ɡrəʊ/  
-25. maturity : (n) sự trưởng thành /məˈtjʊərɪti/  
-26. water : (v) tưới nước /ˈwɔːtə/  
-27. plant : (n) cây trồng /plɑːnt/  
-28. die : (v) chết /daɪ/  
-29. valuable : (adj) quý giá /ˈvæljʊəbl/  
-30. lesson : (n) bài học /ˈlɛsn/  
-31. family : (n) gia đình /ˈfæmɪli/  
-32. join : (v) tham gia /dʒɔɪn/  
-33. together : (adv) cùng nhau /təˈɡɛðə/  
-34. mum : (n) mẹ /mʌm/  
-35. usually : (adv) thường xuyên /ˈjuːʒʊəli/  
-36. spend : (v) dành /spɛnd/  
-37. hour : (n) giờ /ˈaʊə/  
-38. garden : (n) khu vườn /ˈɡɑːdn/  
-39. happy : (adj) hạnh phúc /ˈhæpi/  
-40. time : (n) thời gian /taɪm/
+1. **divide** : (v) chia /dɪˈvaɪd/
+2. **hobby** : (n) sở thích /ˈhɒbi/
+3. **group** : (n) nhóm /ɡruːp/
+4. **do** : (v) làm /duː/
+5. **make** : (v) làm /meɪk/
+6. **collect** : (v) sưu tập /kəˈlɛkt/
+7. **learn** : (v) học /lɜːn/
+8. **belong** : (v) thuộc về /bɪˈlɒŋ/
+9. **gardening** : (n) làm vườn /ˈɡɑːdənɪŋ/
+10. **popular** : (adj) phổ biến /ˈpɒpjʊlə/
+11. **outdoor** : (adj) ngoài trời /ˈaʊtdɔː/
+12. **activity** : (n) hoạt động /ækˈtɪvɪti/
+13. **everyone** : (pron) mọi người /ˈɛvrɪwʌn/
+14. **child** : (n) trẻ em /tʃaɪld/
+15. **teach** : (v) dạy /tiːtʃ/
+16. **flower** : (n) hoa /ˈflaʊə/
+17. **fruit** : (n) trái cây /fruːt/
+18. **vegetable** : (n) rau củ /ˈvɛdʒtəb(ə)l/
+19. **insect** : (n) côn trùng /ˈɪnsɛkt/
+20. **bug** : (n) sâu bọ /bʌɡ/
+21. **patient** : (adj) kiên nhẫn /ˈpeɪʃənt/
+22. **responsibility** : (n) trách nhiệm /rɪˌspɒnsɪˈbɪlɪti/
+23. **wait** : (v) chờ đợi /weɪt/
+24. **grow** : (v) lớn lên /ɡrəʊ/
+25. **maturity** : (n) sự trưởng thành /məˈtjʊərɪti/
+26. **water** : (v) tưới nước /ˈwɔːtə/
+27. **plant** : (n) cây trồng /plɑːnt/
+28. **die** : (v) chết /daɪ/
+29. **valuable** : (adj) quý giá /ˈvæljʊəbl/
+30. **lesson** : (n) bài học /ˈlɛsn/
+31. **family** : (n) gia đình /ˈfæmɪli/
+32. **join** : (v) tham gia /dʒɔɪn/
+33. **together** : (adv) cùng nhau /təˈɡɛðə/
+34. **mum** : (n) mẹ /mʌm/
+35. **usually** : (adv) thường xuyên /ˈjuːʒʊəli/
+36. **spend** : (v) dành /spɛnd/
+37. **hour** : (n) giờ /ˈaʊə/
+38. **garden** : (n) khu vườn /ˈɡɑːdn/
+39. **happy** : (adj) hạnh phúc /ˈhæpi/
+40. **time** : (n) thời gian /taɪm/
 
 Mọi người chia sở thích thành bốn nhóm lớn: làm việc, làm đồ, sưu tập đồ, và học. Làm vườn thuộc về nhóm phổ biến nhất \- làm việc. 
 
@@ -391,30 +391,30 @@ My friend favorite hobby is collecting teddy bears. It makes her more patient
 
 **Vocabulary**
 
-1. talk : (v) nói chuyện /tɔːk/  
-2. hobby : (n) sở thích /ˈhɒbi/  
-3. build : (v) xây dựng /bɪld/  
-4. dollhouse : (n) nhà búp bê /ˈdɒlˌhaʊs/  
-5. unusual : (adj) không thường /ʌnˈjuːʒʊəl/  
-6. girl : (n) cô gái /ɡɜːl/  
-7. start : (v) bắt đầu /stɑːt/  
-8. article : (n) bài báo /ˈɑːtɪkl/  
-9. idea : (n) ý tưởng /aɪˈdɪə/  
-10. friend : (n) bạn bè /frɛnd/  
-11. relative : (n) người thân /ˈrɛlətɪv/  
-12. cousin : (n) anh chị em họ /ˈkʌzn/  
-13. hard : (adj) khó /hɑːd/  
-14. cardboard : (n) bìa cứng /ˈkɑːdbɔːd/  
-15. glue : (n) keo /ɡluː/  
-16. house : (n) nhà /haʊs/  
-17. make : (v) làm /meɪk/  
-18. furniture : (n) nội thất /ˈfɜːnɪtʃə/  
-19. doll : (n) búp bê /dɒl/  
-20. cloth : (n) vải /klɒθ/  
-21. decorate : (v) trang trí /ˈdɛkəreɪt/  
-22. benefit : (n) lợi ích /ˈbɛnɪfɪt/  
-23. patient : (adj) kiên nhẫn /ˈpeɪʃənt/  
-24. creative : (adj) sáng tạo /kriˈeɪtɪv/
+1. **talk** : (v) nói chuyện /tɔːk/
+2. **hobby** : (n) sở thích /ˈhɒbi/
+3. **build** : (v) xây dựng /bɪld/
+4. **dollhouse** : (n) nhà búp bê /ˈdɒlˌhaʊs/
+5. **unusual** : (adj) không thường /ʌnˈjuːʒʊəl/
+6. **girl** : (n) cô gái /ɡɜːl/
+7. **start** : (v) bắt đầu /stɑːt/
+8. **article** : (n) bài báo /ˈɑːtɪkl/
+9. **idea** : (n) ý tưởng /aɪˈdɪə/
+10. **friend** : (n) bạn bè /frɛnd/
+11. **relative** : (n) người thân /ˈrɛlətɪv/
+12. **cousin** : (n) anh chị em họ /ˈkʌzn/
+13. **hard** : (adj) khó /hɑːd/
+14. **cardboard** : (n) bìa cứng /ˈkɑːdbɔːd/
+15. **glue** : (n) keo /ɡluː/
+16. **house** : (n) nhà /haʊs/
+17. **make** : (v) làm /meɪk/
+18. **furniture** : (n) nội thất /ˈfɜːnɪtʃə/
+19. **doll** : (n) búp bê /dɒl/
+20. **cloth** : (n) vải /klɒθ/
+21. **decorate** : (v) trang trí /ˈdɛkəreɪt/
+22. **benefit** : (n) lợi ích /ˈbɛnɪfɪt/
+23. **patient** : (adj) kiên nhẫn /ˈpeɪʃənt/
+24. **creative** : (adj) sáng tạo /kriˈeɪtɪv/
 
 **Writing**  
 **Bài 3 trang 15** 

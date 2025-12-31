@@ -3,27 +3,27 @@
 ## GETTING STARTED - BẮT ĐẦU
 
 ### 📚 Vocabulary - Từ vựng
-- **traffic jam** : (n) kẹt xe /ˈtræfɪk dʒæm/
-- **will** : (modal) sẽ /wɪl/
-- **how** : (adv) bằng cách nào, như thế nào /haʊ/
+1. **traffic jam** : (n) kẹt xe /ˈtræfɪk dʒæm/
+2. **will** : (modal) sẽ /wɪl/
+3. **how** : (adv) bằng cách nào, như thế nào /haʊ/
 - **it's a pity that...** : thật đáng tiếc rằng... /ɪts ə ˈpɪti ðæt/
-- **hyperloop** : (n) hyperloop (hệ thống vận chuyển tốc độ cao trong ống chân không) /ˈhaɪpəluːp/
-- **amazing** : (adj) tuyệt vời, kinh ngạc /əˈmeɪzɪŋ/
+4. **hyperloop** : (n) hyperloop (hệ thống vận chuyển tốc độ cao trong ống chân không) /ˈhaɪpəluːp/
+5. **amazing** : (adj) tuyệt vời, kinh ngạc /əˈmeɪzɪŋ/
 - **a system of tubes** : hệ thống ống /ə ˈsɪstəm əv tjuːbz/
 - **from one place to another** : từ nơi này đến nơi khác /frɒm wʌn pleɪs tə əˈnʌðə/
 - **in just minutes** : chỉ trong vài phút /ɪn dʒʌst ˈmɪnɪts/
-- **even** : (adv) thậm chí, ngay cả /ˈiːvən/
-- **event** : (n) sự kiện, biến cố /ɪˈvent/
-- **teleporter** : (n) máy dịch chuyển tức thời, cổng dịch chuyển /ˈtelɪˌpɔːtə/
+6. **even** : (adv) thậm chí, ngay cả /ˈiːvən/
+7. **event** : (n) sự kiện, biến cố /ɪˈvent/
+8. **teleporter** : (n) máy dịch chuyển tức thời, cổng dịch chuyển /ˈtelɪˌpɔːtə/
 - **different mode of travel** : phương thức di chuyển khác nhau /ˈdɪfrənt məʊd əv ˈtrævəl/
-- **soon** : (adv) sớm, chẳng bao lâu nữa /suːn/
-- **campsite** : (n) khu cắm trại /ˈkæmpsaɪt/
-- **mode** : (n) phương thức, cách thức /məʊd/
-- **eco-friendly** : (adj) thân thiện với môi trường /ˌiːkəʊ ˈfrendli/
-- **totally** : (adv) hoàn toàn /ˈtəʊtəli/
-- **safe** : (adj) an toàn /seɪf/
-- **fumes** : (n) khói thải /fjuːmz/
-- **worry about** : (v) lo lắng về /ˈwʌri əˈbaʊt/
+9. **soon** : (adv) sớm, chẳng bao lâu nữa /suːn/
+10. **campsite** : (n) khu cắm trại /ˈkæmpsaɪt/
+11. **mode** : (n) phương thức, cách thức /məʊd/
+12. **eco-friendly** : (adj) thân thiện với môi trường /ˌiːkəʊ ˈfrendli/
+13. **totally** : (adv) hoàn toàn /ˈtəʊtəli/
+14. **safe** : (adj) an toàn /seɪf/
+15. **fumes** : (n) khói thải /fjuːmz/
+16. **worry about** : (v) lo lắng về /ˈwʌri əˈbaʊt/
 - **bad weather** : thời tiết xấu /bæd ˈweðə/
 
 ### 💬 Content - Nội dung
@@ -106,24 +106,24 @@ C. Being in a traffic jam (Bị kẹt xe)
 ## A CLOSER LOOK 1 - TÌM HIỂU THÊM 1
 
 ### 📚 Vocabulary - Từ vựng
-- **flying car** : (n) xe hơi bay /ˈflaɪɪŋ kɑː/
-- **bamboo-copter** : (n) chong chóng tre /ˌbæmˈbuː ˈkɒptə/
-- **skyTran** : (n) hệ thống vận chuyển trên không skyTran /ˈskaɪtræn/
-- **solar-powered ship** : (n) tàu chạy bằng năng lượng mặt trời /ˈsəʊlə ˈpaʊəd ʃɪp/
-- **eco-friendly** : (adj) thân thiện với môi trường /ˌiːkəʊ ˈfrendli/
-- **simple** : (adj) đơn giản /ˈsɪmpl/
-- **fly away** : (v) bay đi /flaɪ əˈweɪ/
-- **instead of** : (prep) thay vì /ɪnˈsted ɒv/
-- **airplane** : (n) máy bay /ˈeəpleɪn/
+1. **flying car** : (n) xe hơi bay /ˈflaɪɪŋ kɑː/
+2. **bamboo-copter** : (n) chong chóng tre /ˌbæmˈbuː ˈkɒptə/
+3. **skyTran** : (n) hệ thống vận chuyển trên không skyTran /ˈskaɪtræn/
+4. **solar-powered ship** : (n) tàu chạy bằng năng lượng mặt trời /ˈsəʊlə ˈpaʊəd ʃɪp/
+5. **eco-friendly** : (adj) thân thiện với môi trường /ˌiːkəʊ ˈfrendli/
+6. **simple** : (adj) đơn giản /ˈsɪmpl/
+7. **fly away** : (v) bay đi /flaɪ əˈweɪ/
+8. **instead of** : (prep) thay vì /ɪnˈsted ɒv/
+9. **airplane** : (n) máy bay /ˈeəpleɪn/
 - **cause pollution** : gây ô nhiễm /kɔːz pəˈluːʃn/
-- **driverless car** : (n) xe hơi không người lái /ˈdraɪvələs kɑː/
-- **ride** : (v) cưỡi, đi /raɪd/
-- **drive** : (v) lái xe /draɪv/
-- **fly** : (v) bay /flaɪ/
-- **sail** : (v) chèo thuyền /seɪl/
-- **run on** : (v) chạy bằng /rʌn ɒn/
-- **space** : (n) không gian /speɪs/
-- **autopilot** : (n) chế độ lái tự động /ˈɔːtəʊpaɪlət/
+10. **driverless car** : (n) xe hơi không người lái /ˈdraɪvələs kɑː/
+11. **ride** : (v) cưỡi, đi /raɪd/
+12. **drive** : (v) lái xe /draɪv/
+13. **fly** : (v) bay /flaɪ/
+14. **sail** : (v) chèo thuyền /seɪl/
+15. **run on** : (v) chạy bằng /rʌn ɒn/
+16. **space** : (n) không gian /speɪs/
+17. **autopilot** : (n) chế độ lái tự động /ˈɔːtəʊpaɪlət/
 
 ### ✍️ Exercises - Bài tập
 
@@ -186,16 +186,16 @@ Trong tiếng Anh, một câu có cả từ được nhấn trọng âm và từ
 ## A CLOSER LOOK 2 - TÌM HIỂU THÊM 2
 
 ### 📚 Vocabulary - Từ vựng
-- **charge** : (v) sạc /tʃɑːdʒ/
-- **battery** : (n) pin /ˈbætəri/
-- **popular** : (adj) phổ biến, được nhiều người ưa thích /ˈpɒpjələr/
-- **planet** : (n) hành tinh /ˈplænɪt/
-- **holiday** : (n) kỳ nghỉ /ˈhɒlɪdeɪ/
-- **parking place** : (n) chỗ đậu xe /ˈpɑːkɪŋ pleɪs/
-- **disappear** : (v) biến mất /ˌdɪsəˈpɪə/
-- **appear** : (v) xuất hiện /əˈpɪə/
-- **certainly** : (adv) chắc chắn /ˈsɜːtnli/
-- **travel** : (v) di chuyển, đi /ˈtrævəl/
+1. **charge** : (v) sạc /tʃɑːdʒ/
+2. **battery** : (n) pin /ˈbætəri/
+3. **popular** : (adj) phổ biến, được nhiều người ưa thích /ˈpɒpjələr/
+4. **planet** : (n) hành tinh /ˈplænɪt/
+5. **holiday** : (n) kỳ nghỉ /ˈhɒlɪdeɪ/
+6. **parking place** : (n) chỗ đậu xe /ˈpɑːkɪŋ pleɪs/
+7. **disappear** : (v) biến mất /ˌdɪsəˈpɪə/
+8. **appear** : (v) xuất hiện /əˈpɪə/
+9. **certainly** : (adv) chắc chắn /ˈsɜːtnli/
+10. **travel** : (v) di chuyển, đi /ˈtrævəl/
 
 ### 📖 Grammar - Ngữ pháp
 
@@ -275,17 +275,17 @@ Example answers:
 - **Do you think we will...?** : Bạn có nghĩ chúng ta sẽ...? /duː juː θɪŋk wiː wɪl/
 - **We certainly will** : Chúng ta chắc chắn sẽ /wiː ˈsɜːtnli wɪl/
 - **It probably won't** : Có lẽ nó sẽ không /ɪt ˈprɒbəbli wəʊnt/
-- **be able to** : (v) có thể, có khả năng /biː ˈeɪbl tuː/
-- **wheel** : (n) bánh xe /wiːl/
-- **self-balancing** : (adj) tự cân bằng /ˌself ˈbælənsɪŋ/
+1. **be able to** : (v) có thể, có khả năng /biː ˈeɪbl tuː/
+2. **wheel** : (n) bánh xe /wiːl/
+3. **self-balancing** : (adj) tự cân bằng /ˌself ˈbælənsɪŋ/
 - **means of transport** : phương tiện di chuyển /miːnz əv ˈtrænspɔːt/
 - **turn on the switch** : bật công tắc /tɜːn ɒn ðə swɪtʃ/
-- **fall off** : (v) ngã khỏi /fɔːl ɒf/
-- **dangerous** : (adj) nguy hiểm /ˈdeɪndʒərəs/
+4. **fall off** : (v) ngã khỏi /fɔːl ɒf/
+5. **dangerous** : (adj) nguy hiểm /ˈdeɪndʒərəs/
 - **across oceans** : băng qua đại dương /əˈkrɒs ˈəʊʃnz/
-- **wing** : (n) cánh /wɪŋ/
-- **electricity** : (n) điện /ɪˌlekˈtrɪsəti/
-- **use** : (v) sử dụng /juːz/
+6. **wing** : (n) cánh /wɪŋ/
+7. **electricity** : (n) điện /ɪˌlekˈtrɪsəti/
+8. **use** : (v) sử dụng /juːz/
 
 ### 🗣️ Activities - Hoạt động
 
@@ -306,12 +306,12 @@ Chắc sẽ không đâu.
 **Bài 2**: Work in pairs. Make similar conversations about future travelling. (Làm việc theo cặp. Thực hiện các cuộc hội thoại tương tự về du lịch trong tương lai.)
 
 Example:
-1. Nam: Do you think we will travel long distances by hyperloop in the future?
+1. **Nam** : Do you think we will travel long distances by hyperloop in the future?
    Phong: We certainly will.
    Nam: Will it be able to run by wind energy?
    Phong: It probably won't.
 
-2. Minh: Do you think we will travel to other planets for holidays?
+2. **Minh** : Do you think we will travel to other planets for holidays?
    Tuan: We certainly will.
    Minh: Will we be able to travel there by SkyTran?
    Tuan: It probably won't.
@@ -343,24 +343,24 @@ John: I can't wait to get one.
 ## SKILLS 1 - KỸ NĂNG 1
 
 ### 📚 Vocabulary - Từ vựng
-- **car company** : (n) công ty xe hơi /kɑː ˈkʌmpəni/
+1. **car company** : (n) công ty xe hơi /kɑː ˈkʌmpəni/
 - **make electric cars** : sản xuất xe điện /meɪk ɪˈlektrɪk kɑːz/
-- **introduce** : (v) giới thiệu /ˌɪntrəˈdjuːs/
-- **model** : (n) mẫu, kiểu mẫu /ˈmɒdl/
+2. **introduce** : (v) giới thiệu /ˌɪntrəˈdjuːs/
+3. **model** : (n) mẫu, kiểu mẫu /ˈmɒdl/
 - **the first model** : mẫu đầu tiên /ðə fɜːst ˈmɒdl/
 - **not very expensive** : không quá đắt /nɒt ˈveri ɪkˈspensɪv/
 - **four seats** : bốn chỗ ngồi /fɔː siːts/
-- **travel** : (v) đi, di chuyển /ˈtrævl/
+4. **travel** : (v) đi, di chuyển /ˈtrævl/
 - **over 350 km per hour** : trên 350 km mỗi giờ /ˈəʊvə θriː ˈhʌndrəd ænd ˈfɪfti ˌkɪˈlɒmɪtəz pɜːr ˈaʊə/
-- **charge** : (v) sạc /tʃɑːdʒ/
-- **battery** : (n) pin /ˈbætri/
+5. **charge** : (v) sạc /tʃɑːdʒ/
+6. **battery** : (n) pin /ˈbætri/
 - **gaming screen** : màn hình chơi game /ˈɡeɪmɪŋ skriːn/
 - **the largest and safest electric car** : xe điện lớn nhất và an toàn nhất /ðə ˈlɑːdʒɪst ænd ˈseɪfɪst ɪˈlektrɪk kɑː/
 - **carry seven passengers** : chở bảy hành khách /ˈkæri ˈsevn ˈpæsɪndʒəz/
-- **economical** : (adj) tiết kiệm /ˌiːkəˈnɒmɪkl/
+7. **economical** : (adj) tiết kiệm /ˌiːkəˈnɒmɪkl/
 - **autopilot function** : chức năng tự lái /ˈɔːtəʊpaɪlət ˈfʌŋkʃn/
-- **driverless** : (adj) không người lái /ˈdraɪvələs/
-- **passenger** : (n) hành khách /ˈpæsɪndʒə/
+8. **driverless** : (adj) không người lái /ˈdraɪvələs/
+9. **passenger** : (n) hành khách /ˈpæsɪndʒə/
 - **even sleep** : thậm chí ngủ /ˈiːvn sliːp/
 
 ### 📖 Reading - Đọc
@@ -391,10 +391,10 @@ C. Roadrunner's cars have an autopilot function.
 **Bài 3**: Read the passage again and complete the fact file with no more than TWO words or a number. (Đọc lại đoạn văn và hoàn thành tệp dữ kiện với không quá HAI từ hoặc một số.)
 
 ROADRUNNER'S CARS
-1. Company's first model: **2015**
-2. Safety: **largest** and **safest** model
-3. Both models have: **autopilot function**
-4. Both models run on: **electricity**
+1. **Company's first model** : **2015**
+2. **Safety** : **largest** and **safest** model
+3. **Both models have** : **autopilot function**
+4. **Both models run on** : **electricity**
 
 ### 🗣️ Speaking - Nói
 
@@ -423,18 +423,18 @@ Example answers:
 ## SKILLS 2 - KỸ NĂNG 2
 
 ### 📚 Vocabulary - Từ vựng
-- **comfortable** : (adj) thoải mái /ˈkʌmfətəbl/
-- **economical** : (adj) tiết kiệm, kinh tế /ˌiːkəˈnɒmɪkl/
+1. **comfortable** : (adj) thoải mái /ˈkʌmfətəbl/
+2. **economical** : (adj) tiết kiệm, kinh tế /ˌiːkəˈnɒmɪkl/
 - **run on petrol** : chạy bằng xăng /rʌn ɒn ˈpetrəl/
-- **bullet train** : (n) tàu cao tốc /ˈbʊlɪt treɪn/
-- **popular** : (adj) phổ biến /ˈpɒpjələr/
+3. **bullet train** : (n) tàu cao tốc /ˈbʊlɪt treɪn/
+4. **popular** : (adj) phổ biến /ˈpɒpjələr/
 - **use up much space** : chiếm nhiều diện tích /juːz ʌp mʌtʃ speɪs/
 - **avoid traffic accident** : tránh tai nạn giao thông /əˈvɔɪd ˈtræfɪk ˈæksɪdənt/
 - **reasonable prices** : giá hợp lý /ˈriːznəbl ˈpraɪsɪz/
 - **huge amount** : lượng lớn /hjuːdʒ əˈmaʊnt/
-- **reduce** : (v) giảm /rɪˈdjuːs/
-- **automobile** : (n) ô tô /ˈɔːtəməbiːl/
-- **advantages** : (n) ưu điểm /ədˈvɑːntɪdʒɪz/
+5. **reduce** : (v) giảm /rɪˈdjuːs/
+6. **automobile** : (n) ô tô /ˈɔːtəməbiːl/
+7. **advantages** : (n) ưu điểm /ədˈvɑːntɪdʒɪz/
 
 ### 👂 Listening - Nghe
 
@@ -490,9 +490,9 @@ Tôi nghĩ mọi người sẽ thích đi du lịch bằng tàu cao tốc trong 
 ### ✍️ Exercises - Bài tập
 
 **Bài 1**: Write three adjectives or phrases to describe each picture. (Viết ba tính từ hoặc cụm từ để mô tả mỗi bức tranh.)
-1. hyperloop: fast, green, carrying many passengers
-2. flying car: fast, convenient, autopilot function
-3. monowheel/self-balanced bike: electric, green, convenient
+1. **hyperloop** : fast, green, carrying many passengers
+2. **flying car** : fast, convenient, autopilot function
+3. **monowheel/self-balanced bike** : electric, green, convenient
 
 **Bài 2**: Complete the sentences with the words and phrases from the box. (Hoàn thành câu với các từ và cụm từ từ hộp.)
 1. An **eco-friendly** way to travel is by bicycle.

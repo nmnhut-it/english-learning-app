@@ -2,35 +2,35 @@
 
 ### 📚 Vocabulary - Từ vựng
 
-- **food waste** : (n) chất thải thực phẩm /fuːd weɪst/
-- **leftovers** : (n) thức ăn thừa /ˈleftəʊvəz/
-- **learning space** : (n) không gian học tập /ˈlɜːnɪŋ speɪs/
-- **cafeteria** : (n) quán cà phê, căng tin /ˌkæfəˈtɪəriə/
-- **annual** : (adj) hàng năm /ˈænjuəl/
-- **competition** : (n) cuộc thi /ˌkɒmpəˈtɪʃn/
-- **suggest** : (v) đề xuất /səˈdʒest/
-- **solution** : (n) giải pháp /səˈluːʃn/
-- **serious** : (adj) nghiêm trọng /ˈsɪəriəs/
-- **creatively** : (adv) sáng tạo /kriˈeɪtɪvli/
-- **partner** : (n) đối tác /ˈpɑːtnə/
-- **fund** : (n) quỹ /fʌnd/
-- **educate** : (v) giáo dục /ˈedʒukeɪt/
-- **carry out** : (phr v) thực hiện /ˈkæri aʊt/
-- **energy** : (n) năng lượng /ˈenədʒi/
-- **biogas** : (n) khí sinh học /ˈbaɪəʊɡæs/
-- **public amenities** : (n) tiện ích công cộng /ˈpʌblɪk əˈmiːnətiz/
-- **particularly** : (adv) đặc biệt /pəˈtɪkjələli/
-- **attract** : (v) thu hút /əˈtrækt/
-- **lively** : (adj) sinh động /ˈlaɪvli/
-- **dessert** : (n) món tráng miệng /dɪˈzɜːt/
-- **vehicle** : (n) phương tiện /ˈviːəkl/
-- **school gates** : (n) cổng trường /skuːl ɡeɪts/
-- **unsafe** : (adj) không an toàn /ʌnˈseɪf/
-- **city authorities** : (n) chính quyền thành phố /ˈsɪti ɔːˈθɒrətiz/
-- **drop-off** : (n) điểm thả khách /drɒp ɒf/
-- **pick-up** : (n) điểm đón khách /pɪk ʌp/
-- **motorbike** : (n) xe máy /ˈməʊtəbaɪk/
-- **pavement** : (n) vỉa hè /ˈpeɪvmənt/
+1. **food waste** : (n) chất thải thực phẩm /fuːd weɪst/
+2. **leftovers** : (n) thức ăn thừa /ˈleftəʊvəz/
+3. **learning space** : (n) không gian học tập /ˈlɜːnɪŋ speɪs/
+4. **cafeteria** : (n) quán cà phê, căng tin /ˌkæfəˈtɪəriə/
+5. **annual** : (adj) hàng năm /ˈænjuəl/
+6. **competition** : (n) cuộc thi /ˌkɒmpəˈtɪʃn/
+7. **suggest** : (v) đề xuất /səˈdʒest/
+8. **solution** : (n) giải pháp /səˈluːʃn/
+9. **serious** : (adj) nghiêm trọng /ˈsɪəriəs/
+10. **creatively** : (adv) sáng tạo /kriˈeɪtɪvli/
+11. **partner** : (n) đối tác /ˈpɑːtnə/
+12. **fund** : (n) quỹ /fʌnd/
+13. **educate** : (v) giáo dục /ˈedʒukeɪt/
+14. **carry out** : (phr v) thực hiện /ˈkæri aʊt/
+15. **energy** : (n) năng lượng /ˈenədʒi/
+16. **biogas** : (n) khí sinh học /ˈbaɪəʊɡæs/
+17. **public amenities** : (n) tiện ích công cộng /ˈpʌblɪk əˈmiːnətiz/
+18. **particularly** : (adv) đặc biệt /pəˈtɪkjələli/
+19. **attract** : (v) thu hút /əˈtrækt/
+20. **lively** : (adj) sinh động /ˈlaɪvli/
+21. **dessert** : (n) món tráng miệng /dɪˈzɜːt/
+22. **vehicle** : (n) phương tiện /ˈviːəkl/
+23. **school gates** : (n) cổng trường /skuːl ɡeɪts/
+24. **unsafe** : (adj) không an toàn /ʌnˈseɪf/
+25. **city authorities** : (n) chính quyền thành phố /ˈsɪti ɔːˈθɒrətiz/
+26. **drop-off** : (n) điểm thả khách /drɒp ɒf/
+27. **pick-up** : (n) điểm đón khách /pɪk ʌp/
+28. **motorbike** : (n) xe máy /ˈməʊtəbaɪk/
+29. **pavement** : (n) vỉa hè /ˈpeɪvmənt/
 
 ### 📖 Reading - Đọc
 
@@ -58,13 +58,13 @@ D. The waste-free city (Thành phố không rác thải)
 
 Teenovator is an annual competition by the City Teen Council. We ask teens to find problems of the city and suggest solutions. Here are this year's winners
 
-1. _________: Central School
+1. **_________** : Central School
 They see that the more developed a city is, the more food people throw away. They suggest carrying out a project which turns food waste into energy. Students would sort their leftovers at school canteens. A nearby farm would come to take the food waste and process it into biogas.
 
-2. _________: Bookworm Team
+2. **_________** : Bookworm Team
 This team feels that many public amenities, particularly the city library, are not teen-friendly. They suggest a list of changes so that the library can attract more teens. Some of them include designing lively learning spaces for teens and having teen's favourite desserts in the cafeteria.
 
-3. _________: Helena Wilson
+3. **_________** : Helena Wilson
 Helena realises that there are too many vehicles around school gates. This is unsafe for children who walk to school. She suggests that the city authorities not allow cars at school gates at drop-off and pick-up times. In addition, they should not let motorbikes park on the pavement near school gates.
 
 **Answers:**

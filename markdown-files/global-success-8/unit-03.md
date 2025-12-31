@@ -3,21 +3,21 @@
 ## GETTING STARTED - BẮT ĐẦU
 
 ### 📚 Vocabulary - Từ vựng
-- **forum** : (n) diễn đàn /ˈfɔːrəm/
-- **club** : (n) câu lạc bộ /klʌb/
-- **activity** : (n) hoạt động /ækˈtɪvɪti/
-- **midterm test** : (n) bài kiểm tra giữa kỳ /ˈmɪdˌtɜːm test/
-- **stressful** : (adj) căng thẳng /ˈstresfəl/
-- **calm** : (adj) bình tĩnh /kɑːm/
-- **pressure** : (n) áp lực /ˈpreʃər/
-- **user-friendly** : (adj) thân thiện với người dùng /ˈjuːzə ˈfrendli/
-- **enjoyable** : (adj) thú vị /ɪnˈʤɔɪəbl/
-- **arts and crafts** : (n) nghệ thuật và thủ công /ɑːts ənd krɑːfts/
-- **leader** : (n) người lãnh đạo /ˈliːdər/
-- **variety** : (n) sự đa dạng /vəˈraɪəti/
-- **interest** : (n) sở thích /ˈɪntrɪst/
-- **competition** : (n) cuộc thi /ˌkɒmpɪˈtɪʃən/
-- **awesome** : (adj) tuyệt vời /ˈɔːsəm/
+1. **forum** : (n) diễn đàn /ˈfɔːrəm/
+2. **club** : (n) câu lạc bộ /klʌb/
+3. **activity** : (n) hoạt động /ækˈtɪvɪti/
+4. **midterm test** : (n) bài kiểm tra giữa kỳ /ˈmɪdˌtɜːm test/
+5. **stressful** : (adj) căng thẳng /ˈstresfəl/
+6. **calm** : (adj) bình tĩnh /kɑːm/
+7. **pressure** : (n) áp lực /ˈpreʃər/
+8. **user-friendly** : (adj) thân thiện với người dùng /ˈjuːzə ˈfrendli/
+9. **enjoyable** : (adj) thú vị /ɪnˈʤɔɪəbl/
+10. **arts and crafts** : (n) nghệ thuật và thủ công /ɑːts ənd krɑːfts/
+11. **leader** : (n) người lãnh đạo /ˈliːdər/
+12. **variety** : (n) sự đa dạng /vəˈraɪəti/
+13. **interest** : (n) sở thích /ˈɪntrɪst/
+14. **competition** : (n) cuộc thi /ˌkɒmpɪˈtɪʃən/
+15. **awesome** : (adj) tuyệt vời /ˈɔːsəm/
 
 ### 💬 Content - Nội dung
 
@@ -88,24 +88,24 @@
 ## A CLOSER LOOK 1 - TÌM HIỂU THÊM 1
 
 ### 📚 Vocabulary - Từ vựng
-- **upload** : (v) tải lên /ˈʌpləʊd/
-- **browse** : (v) duyệt qua /braʊz/
-- **check** : (v) kiểm tra /ʧɛk/
-- **log on** : (v) đăng nhập /lɒɡ ɒn/
-- **connect** : (v) kết nối /kəˈnɛkt/
-- **website** : (n) trang web /ˈwɛbˌsaɪt/
-- **picture** : (n) hình ảnh /ˈpɪkʧə/
-- **notification** : (n) thông báo /ˌnəʊtɪfɪˈkeɪʃən/
-- **account** : (n) tài khoản /əˈkaʊnt/
-- **expectation** : (n) sự mong đợi /ˌɛkspɛkˈteɪʃən/
-- **bully** : (n) kẻ bắt nạt /ˈbʊli/
-- **concentrate** : (v) tập trung /ˈkɒnsəntreɪt/
-- **advise** : (v) khuyên bảo /ədˈvaɪz/
-- **tourist** : (n) du khách /ˈtʊə.rɪst/
-- **ensure** : (v) đảm bảo /ɪnˈʃʊə(r)/
-- **tournament** : (n) giải đấu /ˈtʊə.nə.mənt/
-- **curious** : (adj) tò mò /ˈkjʊəriəs/
-- **mature** : (adj) trưởng thành /məˈtʃʊə(r)/
+1. **upload** : (v) tải lên /ˈʌpləʊd/
+2. **browse** : (v) duyệt qua /braʊz/
+3. **check** : (v) kiểm tra /ʧɛk/
+4. **log on** : (v) đăng nhập /lɒɡ ɒn/
+5. **connect** : (v) kết nối /kəˈnɛkt/
+6. **website** : (n) trang web /ˈwɛbˌsaɪt/
+7. **picture** : (n) hình ảnh /ˈpɪkʧə/
+8. **notification** : (n) thông báo /ˌnəʊtɪfɪˈkeɪʃən/
+9. **account** : (n) tài khoản /əˈkaʊnt/
+10. **expectation** : (n) sự mong đợi /ˌɛkspɛkˈteɪʃən/
+11. **bully** : (n) kẻ bắt nạt /ˈbʊli/
+12. **concentrate** : (v) tập trung /ˈkɒnsəntreɪt/
+13. **advise** : (v) khuyên bảo /ədˈvaɪz/
+14. **tourist** : (n) du khách /ˈtʊə.rɪst/
+15. **ensure** : (v) đảm bảo /ɪnˈʃʊə(r)/
+16. **tournament** : (n) giải đấu /ˈtʊə.nə.mənt/
+17. **curious** : (adj) tò mò /ˈkjʊəriəs/
+18. **mature** : (adj) trưởng thành /məˈtʃʊə(r)/
 
 ### 🗣️ Pronunciation - Phát âm
 **/ʊə/ and /ɔɪ/**
@@ -140,11 +140,11 @@ boy, tourist, toy, ensure, avoid, choice, sure, tournament
 5. connect (kết nối) | A. a post (bài đăng) B. with friends (với bạn bè)
 
 **Answers**: 
-1. A (upload a picture: đăng tải một bức ảnh)
-2. A (browse a website: duyệt một trang web)
-3. B (check notifications: kiểm tra thông báo)
-4. B (log on to an account: đăng nhập vào một tài khoản)
-5. B (connect with friends: kết nối với bạn bè)
+1. **A (upload a picture** : đăng tải một bức ảnh)
+2. **A (browse a website** : duyệt một trang web)
+3. **B (check notifications** : kiểm tra thông báo)
+4. **B (log on to an account** : đăng nhập vào một tài khoản)
+5. **B (connect with friends** : kết nối với bạn bè)
 
 **Bài 2 trang 30: Use the correct forms of the verbs in 1 to complete the sentences.**
 (Sử dụng các hình thức đúng của động từ trong bài 1 để hoàn thành các câu.)
@@ -180,17 +180,17 @@ boy, tourist, toy, ensure, avoid, choice, sure, tournament
 ## A CLOSER LOOK 2 - TÌM HIỂU THÊM 2
 
 ### 📚 Vocabulary - Từ vựng
-- **project** : (n) dự án /ˈprɒdʒɛkt/
-- **tolerant** : (adj) khoan dung /ˈtɒlərənt/
-- **communication** : (n) giao tiếp /kəˌmjuːnɪˈkeɪʃən/
-- **active** : (adj) năng động /ˈæktɪv/
-- **talkative** : (adj) nói nhiều /ˈtɔːkətɪv/
-- **smart** : (adj) thông minh /smɑːt/
-- **member** : (n) thành viên /ˈmɛmbə/
-- **participate** : (v) tham gia /pɑːˈtɪsɪpeɪt/
-- **freedom** : (n) sự tự do /ˈfriːdəm/
-- **limit** : (n) giới hạn /ˈlɪmɪt/
-- **cheat** : (v) gian lận /tʃiːt/
+1. **project** : (n) dự án /ˈprɒdʒɛkt/
+2. **tolerant** : (adj) khoan dung /ˈtɒlərənt/
+3. **communication** : (n) giao tiếp /kəˌmjuːnɪˈkeɪʃən/
+4. **active** : (adj) năng động /ˈæktɪv/
+5. **talkative** : (adj) nói nhiều /ˈtɔːkətɪv/
+6. **smart** : (adj) thông minh /smɑːt/
+7. **member** : (n) thành viên /ˈmɛmbə/
+8. **participate** : (v) tham gia /pɑːˈtɪsɪpeɪt/
+9. **freedom** : (n) sự tự do /ˈfriːdəm/
+10. **limit** : (n) giới hạn /ˈlɪmɪt/
+11. **cheat** : (v) gian lận /tʃiːt/
 
 ### 📖 Grammar - Ngữ pháp
 **Simple sentences and Compound sentences - Câu đơn và câu ghép**
@@ -276,12 +276,12 @@ boy, tourist, toy, ensure, avoid, choice, sure, tournament
 ## COMMUNICATION - GIAO TIẾP
 
 ### 📚 Vocabulary - Từ vựng
-- **certainly** : (adv) chắc chắn /ˈsɜːtənli/
-- **discussion** : (n) cuộc thảo luận /dɪˈskʌʃən/
-- **social media** : (n) mạng xã hội /ˈsəʊʃəl ˈmiːdiə/
-- **daily** : (adj/adv) hàng ngày /ˈdeɪli/
-- **update** : (v) cập nhật /ʌpˈdeɪt/
-- **messenger** : (n) tin nhắn /ˈmesɪndʒər/
+1. **certainly** : (adv) chắc chắn /ˈsɜːtənli/
+2. **discussion** : (n) cuộc thảo luận /dɪˈskʌʃən/
+3. **social media** : (n) mạng xã hội /ˈsəʊʃəl ˈmiːdiə/
+4. **daily** : (adj/adv) hàng ngày /ˈdeɪli/
+5. **update** : (v) cập nhật /ʌpˈdeɪt/
+6. **messenger** : (n) tin nhắn /ˈmesɪndʒər/
 
 ### 🗣️ Activities - Hoạt động
 
@@ -363,27 +363,27 @@ Report your group's results to the class.
 ## SKILLS 1 - KỸ NĂNG 1
 
 ### 📚 Vocabulary - Từ vựng
-- **interested** : (adj) quan tâm /ˈɪntrɪstɪd/
-- **club** : (n) câu lạc bộ /klʌb/
-- **badminton** : (n) cầu lông /ˈbædmɪntən/
-- **chess** : (n) cờ vua /tʃɛs/
-- **relaxing** : (adj) thư giãn /rɪˈlæksɪŋ/
-- **fit** : (adj) khỏe mạnh /fɪt/
-- **beforehand** : (adv) trước đó /bɪˈfɔːhænd/
-- **concentrated** : (v) tập trung /ˈkɒnsəntreɪt/
-- **focused** : (adj) tập trung /ˈfəʊkəst/
-- **enough** : (adj) đủ /ɪˈnʌf/
-- **actually** : (adv) thực ra /ˈæktʃuəli/
-- **arts and crafts** : (n) nghệ thuật và thủ công /ɑːts ənd krɑːfts/
-- **member** : (n) thành viên /ˈmɛmbə/
-- **community** : (n) cộng đồng /kəˈmjuːnɪti/
-- **service** : (n) dịch vụ /ˈsɜːvɪs/
-- **practical** : (adj) thực tế /ˈpræktɪkəl/
-- **teamwork** : (n) làm việc nhóm /ˈtiːmwɜːk/
-- **awesome** : (adj) tuyệt vời /ˈɔːsəm/
-- **coach** : (v) huấn luyện /kəʊtʃ/
-- **art** : (n) nghệ thuật /ɑːt/
-- **connect** : (v) kết nối /kəˈnɛkt/
+1. **interested** : (adj) quan tâm /ˈɪntrɪstɪd/
+2. **club** : (n) câu lạc bộ /klʌb/
+3. **badminton** : (n) cầu lông /ˈbædmɪntən/
+4. **chess** : (n) cờ vua /tʃɛs/
+5. **relaxing** : (adj) thư giãn /rɪˈlæksɪŋ/
+6. **fit** : (adj) khỏe mạnh /fɪt/
+7. **beforehand** : (adv) trước đó /bɪˈfɔːhænd/
+8. **concentrated** : (v) tập trung /ˈkɒnsəntreɪt/
+9. **focused** : (adj) tập trung /ˈfəʊkəst/
+10. **enough** : (adj) đủ /ɪˈnʌf/
+11. **actually** : (adv) thực ra /ˈæktʃuəli/
+12. **arts and crafts** : (n) nghệ thuật và thủ công /ɑːts ənd krɑːfts/
+13. **member** : (n) thành viên /ˈmɛmbə/
+14. **community** : (n) cộng đồng /kəˈmjuːnɪti/
+15. **service** : (n) dịch vụ /ˈsɜːvɪs/
+16. **practical** : (adj) thực tế /ˈpræktɪkəl/
+17. **teamwork** : (n) làm việc nhóm /ˈtiːmwɜːk/
+18. **awesome** : (adj) tuyệt vời /ˈɔːsəm/
+19. **coach** : (v) huấn luyện /kəʊtʃ/
+20. **art** : (n) nghệ thuật /ɑːt/
+21. **connect** : (v) kết nối /kəˈnɛkt/
 
 ### 📖 Reading - Đọc
 
@@ -665,19 +665,19 @@ The piano club at my school meets on Wednesdays, from 2:00 p.m to 3:30 p.m. It m
 ## SKILLS 2 - KỸ NĂNG 2
 
 ### 📚 Vocabulary - Từ vựng
-- **stress** : (n) căng thẳng /strɛs/
-- **discuss** : (v) thảo luận /dɪˈskʌs/
-- **tired** : (adj) mệt mỏi /ˈtaɪəd/
-- **meet expectations** : (v) đáp ứng kỳ vọng /miːt ˌɛkspɛkˈteɪʃənz/
-- **piano** : (n) đàn piano /piˈænəʊ/
-- **karate** : (n) võ karate /kəˈrɑːti/
-- **abilities** : (n) khả năng /əˈbɪlɪtiz/
-- **focus on** : (v) tập trung vào /ˈfəʊkəs ɒn/
-- **health** : (n) sức khỏe /hɛlθ/
-- **lose weight** : (v) giảm cân /luːz weɪt/
-- **body** : (n) cơ thể /ˈbɒdi/
-- **jealous** : (adj) ghen tỵ /ˈdʒɛləs/
-- **arguments** : (n) tranh cãi /ˈɑːɡjʊmənts/
+1. **stress** : (n) căng thẳng /strɛs/
+2. **discuss** : (v) thảo luận /dɪˈskʌs/
+3. **tired** : (adj) mệt mỏi /ˈtaɪəd/
+4. **meet expectations** : (v) đáp ứng kỳ vọng /miːt ˌɛkspɛkˈteɪʃənz/
+5. **piano** : (n) đàn piano /piˈænəʊ/
+6. **karate** : (n) võ karate /kəˈrɑːti/
+7. **abilities** : (n) khả năng /əˈbɪlɪtiz/
+8. **focus on** : (v) tập trung vào /ˈfəʊkəs ɒn/
+9. **health** : (n) sức khỏe /hɛlθ/
+10. **lose weight** : (v) giảm cân /luːz weɪt/
+11. **body** : (n) cơ thể /ˈbɒdi/
+12. **jealous** : (adj) ghen tỵ /ˈdʒɛləs/
+13. **arguments** : (n) tranh cãi /ˈɑːɡjʊmənts/
 
 ### 👂 Listening - Nghe
 

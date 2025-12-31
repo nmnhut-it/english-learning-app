@@ -62,19 +62,19 @@
 ### New words 
 
 1. **perform**: (v) biểu diễn, trình diễn /pəˈfɔːm/
-1. **natural ability**: khả năng tự nhiên, năng khiếu bẩm sinh /ˈnætʃrəl əˈbɪləti/
+1. **natural ability** : khả năng tự nhiên, năng khiếu bẩm sinh /ˈnætʃrəl əˈbɪləti/
 1. **audience**: (n) khán giả, thính giả /ˈɔːdiəns/
 1. **talented**: (adj) tài năng, có tài /ˈtæləntɪd/
 1. **single**: (n) đĩa đơn (bản ghi âm một bài hát) /ˈsɪŋɡl/
-1. **decide on the result of a competition**: quyết định kết quả của một cuộc thi /dɪˈsaɪd ɒn ðə rɪˈzʌlt əv ə ˌkɒmpəˈtɪʃn/
-1. **in order to**: để, nhằm mục đích /ɪn ˈɔːdə tuː/
-1. **have nice voice**: có giọng hát hay /hæv naɪs vɔɪs/
+1. **decide on the result of a competition** : quyết định kết quả của một cuộc thi /dɪˈsaɪd ɒn ðə rɪˈzʌlt əv ə ˌkɒmpəˈtɪʃn/
+1. **in order to** : để, nhằm mục đích /ɪn ˈɔːdə tuː/
+1. **have nice voice** : có giọng hát hay /hæv naɪs vɔɪs/
 1. **attract**: (v) thu hút, hấp dẫn /əˈtrækt/
-1. **book tickets online**: đặt vé trực tuyến /bʊk ˈtɪkɪts ˌɒnˈlaɪn/
+1. **book tickets online** : đặt vé trực tuyến /bʊk ˈtɪkɪts ˌɒnˈlaɪn/
 1. **due to**: (prep) do, vì, bởi vì /djuː tuː/
 1. **hesitate**: (v) do dự, lưỡng lự /ˈhezɪteɪt/
 1. **delay**: (v) hoãn lại, trì hoãn /dɪˈleɪ/
-1. **a surprise present**: một món quà bất ngờ /ə səˈpraɪz ˈpreznt/
+1. **a surprise present** : một món quà bất ngờ /ə səˈpraɪz ˈpreznt/
 
 ### Exercise 1: Match the words with their meanings.
 (Nối các từ với nghĩa của chúng.)

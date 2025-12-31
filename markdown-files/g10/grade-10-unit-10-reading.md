@@ -5,16 +5,16 @@
 
 ### New words
 
-1. brochure: (n) tờ quảng cáo /ˈbrəʊʃə/
-2. coral reef: (n.phr) rạn san hô /ˈkɒrəl riːf/
-3. dive: (v) lặn /daɪv/
-4. documentary: (n) phim tài liệu /ˌdɒkjuˈmentri/
-5. trekking: (n) đi bộ đường dài /ˈtrekɪŋ/
-6. scenery: (n) phong cảnh /ˈsiːnəri/
-7. jeep: (n) xe jeep /dʒiːp/
-8. open-top: (adj) mui trần /ˌəʊpən ˈtɒp/
-9. hippo: (n) hà mã /ˈhɪpəʊ/
-10. souvenir: (n) quà lưu niệm /ˌsuːvəˈnɪə/
+1. **brochure** : (n) tờ quảng cáo /ˈbrəʊʃə/
+2. **coral reef** : (n.phr) rạn san hô /ˈkɒrəl riːf/
+3. **dive** : (v) lặn /daɪv/
+4. **documentary** : (n) phim tài liệu /ˌdɒkjuˈmentri/
+5. **trekking** : (n) đi bộ đường dài /ˈtrekɪŋ/
+6. **scenery** : (n) phong cảnh /ˈsiːnəri/
+7. **jeep** : (n) xe jeep /dʒiːp/
+8. **open-top** : (adj) mui trần /ˌəʊpən ˈtɒp/
+9. **hippo** : (n) hà mã /ˈhɪpəʊ/
+10. **souvenir** : (n) quà lưu niệm /ˌsuːvəˈnɪə/
 
 ---
 
@@ -202,28 +202,28 @@
 
 ## Vocabulary (Từ vựng)
 
-1. brochure: (n) tờ quảng cáo /ˈbrəʊʃə/
-2. coral reef: (n.phr) rạn san hô /ˈkɒrəl riːf/
-3. dive: (v) lặn /daɪv/
-4. documentary: (n) phim tài liệu /ˌdɒkjuˈmentri/
-5. sea animal: (n.phr) động vật biển /siː ˈænɪml/
-6. trekking: (n) đi bộ đường dài /ˈtrekɪŋ/
-7. scenery: (n) phong cảnh /ˈsiːnəri/
-8. jeep: (n) xe jeep /dʒiːp/
-9. open-top: (adj) mui trần /ˌəʊpən ˈtɒp/
-10. hippo: (n) hà mã /ˈhɪpəʊ/
-11. giraffe: (n) hươu cao cổ /dʒɪˈrɑːf/
-12. research centre: (n.phr) trung tâm nghiên cứu /rɪˈsɜːtʃ ˈsentə/
-13. whale: (n) cá voi /weɪl/
-14. speedboat: (n) thuyền cao tốc /ˈspiːdbəʊt/
-15. leap: (v) nhảy /liːp/
-16. greet: (v) chào /ɡriːt/
-17. souvenir: (n) quà lưu niệm /ˌsuːvəˈnɪə/
-18. protection program: (n.phr) chương trình bảo vệ /prəˈtekʃn ˈprəʊɡræm/
-19. suitable: (adj) phù hợp /ˈsuːtəbl/
-20. educational: (adj) mang tính giáo dục /ˌedʒuˈkeɪʃənl/
-21. sunscreen: (n) kem chống nắng /ˈsʌnskriːn/
-22. ingredient: (n) nguyên liệu /ɪnˈɡriːdiənt/
-23. carbon footprint: (n.phr) dấu chân carbon /ˈkɑːbən ˈfʊtprɪnt/
-24. electric car: (n.phr) xe điện /ɪˈlektrɪk kɑː/
-25. environmentally friendly: (adj) thân thiện với môi trường /ɪnˌvaɪrənˈmentəli ˈfrendli/
+1. **brochure** : (n) tờ quảng cáo /ˈbrəʊʃə/
+2. **coral reef** : (n.phr) rạn san hô /ˈkɒrəl riːf/
+3. **dive** : (v) lặn /daɪv/
+4. **documentary** : (n) phim tài liệu /ˌdɒkjuˈmentri/
+5. **sea animal** : (n.phr) động vật biển /siː ˈænɪml/
+6. **trekking** : (n) đi bộ đường dài /ˈtrekɪŋ/
+7. **scenery** : (n) phong cảnh /ˈsiːnəri/
+8. **jeep** : (n) xe jeep /dʒiːp/
+9. **open-top** : (adj) mui trần /ˌəʊpən ˈtɒp/
+10. **hippo** : (n) hà mã /ˈhɪpəʊ/
+11. **giraffe** : (n) hươu cao cổ /dʒɪˈrɑːf/
+12. **research centre** : (n.phr) trung tâm nghiên cứu /rɪˈsɜːtʃ ˈsentə/
+13. **whale** : (n) cá voi /weɪl/
+14. **speedboat** : (n) thuyền cao tốc /ˈspiːdbəʊt/
+15. **leap** : (v) nhảy /liːp/
+16. **greet** : (v) chào /ɡriːt/
+17. **souvenir** : (n) quà lưu niệm /ˌsuːvəˈnɪə/
+18. **protection program** : (n.phr) chương trình bảo vệ /prəˈtekʃn ˈprəʊɡræm/
+19. **suitable** : (adj) phù hợp /ˈsuːtəbl/
+20. **educational** : (adj) mang tính giáo dục /ˌedʒuˈkeɪʃənl/
+21. **sunscreen** : (n) kem chống nắng /ˈsʌnskriːn/
+22. **ingredient** : (n) nguyên liệu /ɪnˈɡriːdiənt/
+23. **carbon footprint** : (n.phr) dấu chân carbon /ˈkɑːbən ˈfʊtprɪnt/
+24. **electric car** : (n.phr) xe điện /ɪˈlektrɪk kɑː/
+25. **environmentally friendly** : (adj) thân thiện với môi trường /ɪnˌvaɪrənˈmentəli ˈfrendli/

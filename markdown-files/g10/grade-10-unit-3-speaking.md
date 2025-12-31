@@ -12,30 +12,30 @@
 Each week, six participants will dress up and perform as famous international or local artists in a live show. Two main judges and a guest artist will give their scores. After five weeks, only the three participants with the highest scores will remain on the show. On the final night, TV audiences can vote for their preferred performance and decide on the winner and two runners-up. The winner of the show will receive a cash prize.
 
 #### Complete the notes:
-1. Name: I know your face
-2. People who give their scores: ________
-3. Number of participants: ________
-4. What participants have to do: ________
-5. How participants win the show: ________
-6. Prize(s): ________
+1. **Name** : I know your face
+2. **People who give their scores** : ________
+3. **Number of participants** : ________
+4. **What participants have to do** : ________
+5. **How participants win the show** : ________
+6. **Prize(s)** : ________
 
 #### Lời giải chi tiết:
-1. Name: **I know your face**
+1. **Name** : **I know your face**
    (Tên: Tôi biết khuôn mặt của bạn)
 
-2. People who give their scores: **two main judges and a guest artist**
+2. **People who give their scores** : **two main judges and a guest artist**
    (Người cho điểm: hai giám khảo chính và một nghệ sĩ khách mời)
 
-3. Number of participants: **six**
+3. **Number of participants** : **six**
    (Số lượng người chơi: sáu)
 
-4. What participants have to do: **dress up and perform as famous international or local artists in a live show**
+4. **What participants have to do** : **dress up and perform as famous international or local artists in a live show**
    (Người chơi phải làm gì: hóa trang và biểu diễn như các nghệ sĩ quốc tế hoặc địa phương nổi tiếng trong một chương trình trực tiếp)
 
-5. How participants win the show: **TV audiences vote for and decide on the winner**
+5. **How participants win the show** : **TV audiences vote for and decide on the winner**
    (Cách người chơi chiến thắng chương trình: khán giả truyền hình sẽ bình chọn và quyết định người chiến thắng)
 
-6. Prize(s): **cash**
+6. **Prize(s)** : **cash**
    (Giải thưởng: tiền mặt)
 
 ### Bài 2
@@ -43,22 +43,22 @@ Each week, six participants will dress up and perform as famous international or
 (Làm việc nhóm. Tạo một chương trình âm nhạc mới. Sử dụng các ý trong bài 1 để sắp xếp các ý tưởng của bạn.)
 
 #### Lời giải chi tiết:
-1. Name: **I've got the rhythm**
+1. **Name** : **I've got the rhythm**
    (Tên: Tôi đã có được nhịp điệu)
 
-2. People who give their scores: **3 main judges and a famous local artist**
+2. **People who give their scores** : **3 main judges and a famous local artist**
    (Người cho điểm: 3 giám khảo chính và một nghệ sĩ địa phương nổi tiếng)
 
-3. Number of participants: **5**
+3. **Number of participants** : **5**
    (Số lượng người chơi: 5)
 
-4. What participants have to do: **take turns to sing a song whose rhythm is changed from the original one**
+4. **What participants have to do** : **take turns to sing a song whose rhythm is changed from the original one**
    (Người chơi phải làm gì: thay phiên nhau hát một bài hát mà nhịp điệu của nó bị thay đổi so với bài hát ban đầu)
 
-5. How participants win the show: **sing correctly and the most beautifully**
+5. **How participants win the show** : **sing correctly and the most beautifully**
    (Cách người chơi chiến thắng chương trình: hát đúng và hay nhất)
 
-6. Prize(s): **cash and a trip to America**
+6. **Prize(s)** : **cash and a trip to America**
    (Giải thưởng: tiền mặt và một chuyến du lịch đến Mỹ)
 
 ### Bài 3

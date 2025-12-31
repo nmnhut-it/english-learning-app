@@ -3,21 +3,21 @@
 **A CLOSER LOOK 1**   
 **Vocabulary** 
 
-1. talent show: chương trình tài năng /ˈtælənt ʃəʊ/  
-2. viewer: (n) người xem /ˈvjuːə/  
-3. comedy: (n) hài kịch, phim hài /ˈkɒmədi/  
-4. character: (n) nhân vật, tính cách, ký tự /ˈkærəktə/  
-5. educational: (adj) mang tính giáo dục, có tính giáo dục /ˌedʒʊˈkeɪʃənl/  
-6. programme: (n) chương trình /ˈprəʊɡræm/  
-7. competition: (n) cuộc thi, sự cạnh tranh /ˌkɒmpəˈtɪʃn/  
-8. make people laugh: làm cho mọi người cười /meɪk ˈpiːpl lɑːf/  
-9. the best performer: người biểu diễn xuất sắc nhất /ðə best pəˈfɔːmə/  
-10. person: (n) người /ˈpɜːsn/  
-11. popular: (adj) phổ biến, được yêu thích /ˈpɒpjʊlə/  
-12. cute: (adj) dễ thương, đáng yêu /kjuːt/  
-13. boring: (adj) nhàm chán, tẻ nhạt /ˈbɔːrɪŋ/  
-14. funny: (adj) hài hước, vui nhộn /ˈfʌni/  
-15. happen \- happened \- happened: (v) xảy ra, diễn ra /ˈhæpən \- ˈhæpənd \- ˈhæpənd/
+1. **talent show** : chương trình tài năng /ˈtælənt ʃəʊ/
+2. **viewer** : (n) người xem /ˈvjuːə/
+3. **comedy** : (n) hài kịch, phim hài /ˈkɒmədi/
+4. **character** : (n) nhân vật, tính cách, ký tự /ˈkærəktə/
+5. **educational** : (adj) mang tính giáo dục, có tính giáo dục /ˌedʒʊˈkeɪʃənl/
+6. **programme** : (n) chương trình /ˈprəʊɡræm/
+7. **competition** : (n) cuộc thi, sự cạnh tranh /ˌkɒmpəˈtɪʃn/
+8. **make people laugh** : làm cho mọi người cười /meɪk ˈpiːpl lɑːf/
+9. **the best performer** : người biểu diễn xuất sắc nhất /ðə best pəˈfɔːmə/
+10. **person** : (n) người /ˈpɜːsn/
+11. **popular** : (adj) phổ biến, được yêu thích /ˈpɒpjʊlə/
+12. **cute** : (adj) dễ thương, đáng yêu /kjuːt/
+13. **boring** : (adj) nhàm chán, tẻ nhạt /ˈbɔːrɪŋ/
+14. **funny** : (adj) hài hước, vui nhộn /ˈfʌni/
+15. **happen \- happened \- happened** : (v) xảy ra, diễn ra /ˈhæpən \- ˈhæpənd \- ˈhæpənd/
 
 **Bài 1 trang 8**   
 1\. an animal or a person in a film \=\> character  

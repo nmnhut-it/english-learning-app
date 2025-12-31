@@ -4,19 +4,19 @@
 
 **Vocabulary** 
 
-1. cozy: (adj) ấm cúng, thoải mái /ˈkəʊzi/  
-2. among: (prep) giữa, ở giữa /əˈmʌŋ/  
-3. tulip: (n) hoa tulip /ˈtjuːlɪp/  
-4. take \- took \- taken: (v) lấy, cầm, mang /teɪk \- tʊk \- ˈteɪkən/  
-5. last September: tháng 9 năm ngoái /lɑːst sepˈtembə/  
-6. go \- went \- gone: (v) đi /ɡəʊ \- went \- ɡ![][image4]ɒn/  
-7. folk dance: điệu múa dân gian /fəʊk dɑːns/  
-8. costume: (n) trang phục, y phục /ˈkɒstjuːm/  
-9. dancer: (n) vũ công, người nhảy múa /ˈdɑːnsə/  
-10. Dutch: (adj) (thuộc) Hà Lan /dʌtʃ/  
-11. try: (v) thử /traɪ/  
-12. tulip floats: xe hoa tulip diễu hành /ˈtjuːlɪp fləʊts/  
-13. a parade: (n) cuộc diễu hành /pəˈreɪd/
+1. **cozy** : (adj) ấm cúng, thoải mái /ˈkəʊzi/
+2. **among** : (prep) giữa, ở giữa /əˈmʌŋ/
+3. **tulip** : (n) hoa tulip /ˈtjuːlɪp/
+4. **take \- took \- taken** : (v) lấy, cầm, mang /teɪk \- tʊk \- ˈteɪkən/
+5. **last September** : tháng 9 năm ngoái /lɑːst sepˈtembə/
+6. **go \- went \- gone** : (v) đi /ɡəʊ \- went \- ɡ![][image4]ɒn/
+7. **folk dance** : điệu múa dân gian /fəʊk dɑːns/
+8. **costume** : (n) trang phục, y phục /ˈkɒstjuːm/
+9. **dancer** : (n) vũ công, người nhảy múa /ˈdɑːnsə/
+10. **Dutch** : (adj) (thuộc) Hà Lan /dʌtʃ/
+11. **try** : (v) thử /traɪ/
+12. **tulip floats** : xe hoa tulip diễu hành /ˈtjuːlɪp fləʊts/
+13. **a parade** : (n) cuộc diễu hành /pəˈreɪd/
 
 Mark và Trang: Chào buổi chiều, cô Hoa.
 
@@ -50,11 +50,11 @@ Cô Hoa: Có, họ có tổ chức.
 
 **Vocabulary**
 
-1. firework display: màn trình diễn pháo hoa /ˈfaɪəwɜːk dɪˈspleɪ/  
-2. feast: (n) bữa tiệc, yến tiệc; (v) ăn uống thỏa thích /fiːst/  
-3. parade: (n) cuộc diễu hành, đoàn diễu hành; (v) diễu hành /pəˈreɪd/  
-4. float: (n) xe hoa, xe diễu hành trang trí; (v) trôi nổi, lơ lửng /fləʊt/  
-5. folk dance: điệu múa dân gian /fəʊk dɑːns/
+1. **firework display** : màn trình diễn pháo hoa /ˈfaɪəwɜːk dɪˈspleɪ/
+2. **feast** : (n) bữa tiệc, yến tiệc; (v) ăn uống thỏa thích /fiːst/
+3. **parade** : (n) cuộc diễu hành, đoàn diễu hành; (v) diễu hành /pəˈreɪd/
+4. **float** : (n) xe hoa, xe diễu hành trang trí; (v) trôi nổi, lơ lửng /fləʊt/
+5. **folk dance** : điệu múa dân gian /fəʊk dɑːns/
 
 **Bài 4 trang 93** 
 
@@ -82,21 +82,21 @@ Cô Hoa: Có, họ có tổ chức.
 
 **Vocabulary** 
 
-1. Cannes Film Festival: Liên hoan phim Cannes /kæn fɪlm ˈfestɪvəl/  
-2. Christmas: (n) Lễ Giáng sinh /ˈkrɪsməs/  
-3. Mid-Autumn Festival: Tết Trung thu /mɪd ˈɔːtəm ˈfestɪvəl/  
-4. Easter: (n) Lễ Phục sinh /ˈiːstə/  
-5. Thanksgiving: (n) Lễ Tạ ơn /ˌθæŋksˈɡɪvɪŋ/  
-6. Halloween: (n) Lễ hội Halloween /ˌhæləʊˈiːn/  
-7. have a feast: tổ chức tiệc /hæv ə fiːst/  
-8. chocolate eggs: trứng sô cô la /ˈtʃɒklət eɡz/  
-9. turkey: (n) gà tây /ˈtɜːki/  
-10. carving pumpkins: khắc bí ngô /ˈkɑːvɪŋ ˈpʌmpkɪnz/  
-11. moon cakes: bánh trung thu /muːn keɪks/  
-12. painting eggs: tô màu trứng /ˈpeɪntɪŋ eɡz/  
-13. candy apples: táo tẩm đường /ˈkændi ˈæplz/  
-14. performing a lion dance: múa lân /pəˈfɔːmɪŋ ə ˈlaɪən dɑːns/  
-15. activity: (n) hoạt động /ækˈtɪvəti/
+1. **Cannes Film Festival** : Liên hoan phim Cannes /kæn fɪlm ˈfestɪvəl/
+2. **Christmas** : (n) Lễ Giáng sinh /ˈkrɪsməs/
+3. **Mid-Autumn Festival** : Tết Trung thu /mɪd ˈɔːtəm ˈfestɪvəl/
+4. **Easter** : (n) Lễ Phục sinh /ˈiːstə/
+5. **Thanksgiving** : (n) Lễ Tạ ơn /ˌθæŋksˈɡɪvɪŋ/
+6. **Halloween** : (n) Lễ hội Halloween /ˌhæləʊˈiːn/
+7. **have a feast** : tổ chức tiệc /hæv ə fiːst/
+8. **chocolate eggs** : trứng sô cô la /ˈtʃɒklət eɡz/
+9. **turkey** : (n) gà tây /ˈtɜːki/
+10. **carving pumpkins** : khắc bí ngô /ˈkɑːvɪŋ ˈpʌmpkɪnz/
+11. **moon cakes** : bánh trung thu /muːn keɪks/
+12. **painting eggs** : tô màu trứng /ˈpeɪntɪŋ eɡz/
+13. **candy apples** : táo tẩm đường /ˈkændi ˈæplz/
+14. **performing a lion dance** : múa lân /pəˈfɔːmɪŋ ə ˈlaɪən dɑːns/
+15. **activity** : (n) hoạt động /ækˈtɪvəti/
 
 **Bài 1 trang 94** 
 
@@ -183,10 +183,10 @@ Trợ động từ có thể là
 
 **Vocabulary** 
 
-1. It was disappointing: (thì quá khứ) thật đáng thất vọng /ɪt wɒz dɪsəˈpɔɪntɪŋ/  
-2. It was a big disappointment: đó là một sự thất vọng lớn /ɪt wɒz ə bɪɡ dɪsəˈpɔɪntmənt/  
-3. decoration: (n) đồ trang trí, vật trang trí /ˌdekəˈreɪʃən/  
-4. symbol: (n) biểu tượng, ký hiệu /ˈsɪmbəl/
+1. **It was disappointing** : (thì quá khứ) thật đáng thất vọng /ɪt wɒz dɪsəˈpɔɪntɪŋ/
+2. **It was a big disappointment** : đó là một sự thất vọng lớn /ɪt wɒz ə bɪɡ dɪsəˈpɔɪntmənt/
+3. **decoration** : (n) đồ trang trí, vật trang trí /ˌdekəˈreɪʃən/
+4. **symbol** : (n) biểu tượng, ký hiệu /ˈsɪmbəl/
 
 **Bài 2 trang 96** 
 
@@ -348,18 +348,18 @@ Mark
 
 **Vocabulary** 
 
-1. general information: thông tin chung /ˈdʒenərəl ˌɪnfəˈmeɪʃən/  
-2. activities: (n) các hoạt động /ækˈtɪvətiz/  
-3. square: (n) quảng trường /skweə(r)/  
-4. climb the pole: leo cột /klaɪm ðə pəʊl/  
-5. get the ham: lấy thịt giăm bông /get ðə hæm/  
-6. a jet of water: tia nước /ə dʒet əv ˈwɔːtə(r)/  
-7. throw \- threw \- thrown: (v) ném, quăng /θrəʊ \- θruː \- θrəʊn/  
-8. tomato juice: nước ép cà chua /təˈmɑːtəʊ dʒuːs/  
-9. traditional: (adj) truyền thống /trəˈdɪʃənəl/  
-10. herbs: (n) thảo mộc, rau thơm /hɜːbz/  
-11. water cannon: (n) vòi rồng, súng phun nước /ˈwɔːtə ˈkænən/  
-12. signal: (v) ra tín hiệu 
+1. **general information** : thông tin chung /ˈdʒenərəl ˌɪnfəˈmeɪʃən/
+2. **activities** : (n) các hoạt động /ækˈtɪvətiz/
+3. **square** : (n) quảng trường /skweə(r)/
+4. **climb the pole** : leo cột /klaɪm ðə pəʊl/
+5. **get the ham** : lấy thịt giăm bông /get ðə hæm/
+6. **a jet of water** : tia nước /ə dʒet əv ˈwɔːtə(r)/
+7. **throw \- threw \- thrown** : (v) ném, quăng /θrəʊ \- θruː \- θrəʊn/
+8. **tomato juice** : nước ép cà chua /təˈmɑːtəʊ dʒuːs/
+9. **traditional** : (adj) truyền thống /trəˈdɪʃənəl/
+10. **herbs** : (n) thảo mộc, rau thơm /hɜːbz/
+11. **water cannon** : (n) vòi rồng, súng phun nước /ˈwɔːtə ˈkænən/
+12. **signal** : (v) ra tín hiệu
 
 **Bài 1 trang 103** 
 

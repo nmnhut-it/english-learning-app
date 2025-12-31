@@ -99,19 +99,19 @@
 #### Bài 5: QUIZ. Do you know what things were invented in these years? Work in pairs and find out.
 *BÀI ĐỐ. Bạn có biết những thứ gì đã được phát minh trong những năm này không? Làm việc theo cặp và tìm ra.*
 
-1. 1822: Charles Babbage invented it. Students use it to type essays and to learn online.
+1. **1822** : Charles Babbage invented it. Students use it to type essays and to learn online.
 *1822: Charles Babbage sáng chế ra thứ này. Học sinh dùng nó để gõ các bài luận và học tập trực tuyến.*
 
-2. 1876: Alexander Graham Bell invented it. We use it to communicate with our friends and families.
+2. **1876** : Alexander Graham Bell invented it. We use it to communicate with our friends and families.
 *1876: Alexander Graham Bell phát minh ra nó. Chúng ta dùng nó để giao tiếp với gia đình và bạn bè.*
 
-3. 1928: Sir Alexander Fleming discovered it. It is the world's first antibiotic.
+3. **1928** : Sir Alexander Fleming discovered it. It is the world's first antibiotic.
 *1928: Ngài Alexander Fleming khám phá ra nó. Đó là thuốc kháng sinh đầu tiên trên thế giới.*
 
-4. 1989: Tim Berners-Lee invented it. It links information sources so everyone can access them.
+4. **1989** : Tim Berners-Lee invented it. It links information sources so everyone can access them.
 *1989: Tim Berners-Lee phát minh ra nó. Nó liên kết các nguồn thông tin nên mọi người có thể truy cập chúng.*
 
-5. 2000: Honda developed it. It can run, jump and work as a bartender.
+5. **2000** : Honda developed it. It can run, jump and work as a bartender.
 *2000: Honda phát triển nó. Nó có thể chạy, nhảy và làm việc như một người pha chế.*
 
 **Answers:**
@@ -481,7 +481,7 @@ Flatform: Zoom meeting
 
 Benefits (lợi ích):
 1. user-friendly (thân thiện với người dùng)
-2. multi-functional (đa chức năng: screen sharing, room breaking...)
+2. **multi-functional (đa chức năng** : screen sharing, room breaking...)
 3. high security (bảo mật cao)
 4. possible for large-sized class (khả dụng cho lớp học có sĩ số đông)
 
@@ -801,11 +801,11 @@ I disagree that robots will soon replace teachers at school. First, although rob
                   A               B                            C
 
 **Answers:**
-1. B: discovers → discovered
-2. A: is → was
-3. B: will → would
-4. B: can → could
-5. C: next year → the following year
+1. **B** : discovers → discovered
+2. **A** : is → was
+3. **B** : will → would
+4. **B** : can → could
+5. **C** : next year → the following year
 
 #### Bài 4: Rewrite the following sentences, using the words in BOLD.
 *Viết lại các câu sau, sử dụng các từ in đậm.*

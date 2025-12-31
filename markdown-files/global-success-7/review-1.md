@@ -3,21 +3,21 @@
 ## LANGUAGE - NGÔN NGỮ
 
 ### 📚 Vocabulary - Từ vựng
-- **hobby** : (n) sở thích /ˈhɒbi/
-- **healthy living** : (n) lối sống lành mạnh /ˈhelθi ˈlɪvɪŋ/
-- **community service** : (n) dịch vụ cộng đồng /kəˈmjuːnəti ˈsɜːvɪs/
-- **pronunciation** : (n) phát âm /prəˌnʌnsiˈeɪʃn/
-- **underlined** : (adj) được gạch chân /ˌʌndəˈlaɪnd/
-- **circle** : (v) khoanh tròn /ˈsɜːkl/
-- **repeat** : (v) lặp lại /rɪˈpiːt/
-- **coloured vegetables** : (n) rau củ nhiều màu sắc /ˈkʌləd ˈvedʒtəblz/
-- **mountainous areas** : (n) vùng núi /ˈmaʊntənəs ˈeəriəz/
-- **orphanage** : (n) trại trẻ mồ côi /ˈɔːfənɪdʒ/
-- **blanket** : (n) chăn /ˈblæŋkɪt/
-- **charitable organization** : (n) tổ chức từ thiện /ˈtʃærɪtəbl ˌɔːɡənaɪˈzeɪʃn/
-- **volunteer** : (n,v) tình nguyện viên, làm tình nguyện /ˌvɒlənˈtɪə/
-- **nursing home** : (n) viện dưỡng lão /ˈnɜːsɪŋ həʊm/
-- **donating** : (v) quyên góp /dəʊˈneɪtɪŋ/
+1. **hobby** : (n) sở thích /ˈhɒbi/
+2. **healthy living** : (n) lối sống lành mạnh /ˈhelθi ˈlɪvɪŋ/
+3. **community service** : (n) dịch vụ cộng đồng /kəˈmjuːnəti ˈsɜːvɪs/
+4. **pronunciation** : (n) phát âm /prəˌnʌnsiˈeɪʃn/
+5. **underlined** : (adj) được gạch chân /ˌʌndəˈlaɪnd/
+6. **circle** : (v) khoanh tròn /ˈsɜːkl/
+7. **repeat** : (v) lặp lại /rɪˈpiːt/
+8. **coloured vegetables** : (n) rau củ nhiều màu sắc /ˈkʌləd ˈvedʒtəblz/
+9. **mountainous areas** : (n) vùng núi /ˈmaʊntənəs ˈeəriəz/
+10. **orphanage** : (n) trại trẻ mồ côi /ˈɔːfənɪdʒ/
+11. **blanket** : (n) chăn /ˈblæŋkɪt/
+12. **charitable organization** : (n) tổ chức từ thiện /ˈtʃærɪtəbl ˌɔːɡənaɪˈzeɪʃn/
+13. **volunteer** : (n,v) tình nguyện viên, làm tình nguyện /ˌvɒlənˈtɪə/
+14. **nursing home** : (n) viện dưỡng lão /ˈnɜːsɪŋ həʊm/
+15. **donating** : (v) quyên góp /dəʊˈneɪtɪŋ/
 - **to be used to** : quen với /tə bi juːst tuː/
 
 ### 🗣️ Pronunciation - Phát âm
@@ -99,24 +99,24 @@ coloured vegetables, mountainous areas, hobby, chapped lips, community
 ## SKILLS - KỸ NĂNG
 
 ### 📚 Vocabulary - Từ vựng
-- **happiness** : (n) hạnh phúc /ˈhæpinəs/
+1. **happiness** : (n) hạnh phúc /ˈhæpinəs/
 - **the key to** : chìa khóa của /ðə kiː tuː/
-- **express** : (v) thể hiện, bày tỏ /ɪkˈspres/
-- **laughter** : (n) tiếng cười /ˈlɑːftə/
-- **magic power** : (n) sức mạnh kỳ diệu /ˈmædʒɪk ˈpaʊə/
-- **medicine** : (n) thuốc /ˈmedsn/
-- **adventure** : (n) cuộc phiêu lưu /ədˈventʃə/
-- **knowledge** : (n) kiến thức /ˈnɒlɪdʒ/
-- **experience** : (n) kinh nghiệm /ɪkˈspɪəriəns/
-- **camping** : (n) cắm trại /ˈkæmpɪŋ/
-- **sandcastle** : (n) lâu đài cát /ˈsændkɑːsl/
-- **beach volleyball** : (n) bóng chuyền bãi biển /biːtʃ ˈvɒlibɔːl/
-- **bush walking** : (n) đi bộ trong rừng /bʊʃ ˈwɔːkɪŋ/
-- **open fire** : (n) lửa trại /ˈəʊpən ˈfaɪə/
-- **fresh air** : (n) không khí trong lành /freʃ eə/
-- **sleeping bag** : (n) túi ngủ /ˈsliːpɪŋ bæɡ/
-- **compass** : (n) la bàn /ˈkʌmpəs/
-- **insect cream** : (n) kem chống côn trùng /ˈɪnsekt kriːm/
+2. **express** : (v) thể hiện, bày tỏ /ɪkˈspres/
+3. **laughter** : (n) tiếng cười /ˈlɑːftə/
+4. **magic power** : (n) sức mạnh kỳ diệu /ˈmædʒɪk ˈpaʊə/
+5. **medicine** : (n) thuốc /ˈmedsn/
+6. **adventure** : (n) cuộc phiêu lưu /ədˈventʃə/
+7. **knowledge** : (n) kiến thức /ˈnɒlɪdʒ/
+8. **experience** : (n) kinh nghiệm /ɪkˈspɪəriəns/
+9. **camping** : (n) cắm trại /ˈkæmpɪŋ/
+10. **sandcastle** : (n) lâu đài cát /ˈsændkɑːsl/
+11. **beach volleyball** : (n) bóng chuyền bãi biển /biːtʃ ˈvɒlibɔːl/
+12. **bush walking** : (n) đi bộ trong rừng /bʊʃ ˈwɔːkɪŋ/
+13. **open fire** : (n) lửa trại /ˈəʊpən ˈfaɪə/
+14. **fresh air** : (n) không khí trong lành /freʃ eə/
+15. **sleeping bag** : (n) túi ngủ /ˈsliːpɪŋ bæɡ/
+16. **compass** : (n) la bàn /ˈkʌmpəs/
+17. **insect cream** : (n) kem chống côn trùng /ˈɪnsekt kriːm/
 
 ### 📖 Reading - Đọc
 
@@ -204,7 +204,7 @@ Ghé thăm một nơi mới, làm một điều mới hoặc nói chuyện với
 2. When camping near the beach, we can build ________.
 3. We can have dinner by an ________ fire.
 4. At the campsite, there is no television or ________.
-5. Name three things we should bring along when camping: ________, ________ and a compass.
+5. **Name three things we should bring along when camping** : ________, ________ and a compass.
 
 **Listening transcript:**
 Camping can be lots of fun. When we go camping, there is plenty of time for games with friends. If we camp near a beach, we can build sandcastles, go swimming, or play beach volleyball. In other places, we can do other activities like playing football, cycling, bush walking, listening to music or drawing. In the evening, we can have dinner by an open fire. It's a good time to enjoy the fresh air, tell stories and laugh with friends. While we go camping, there is no television or computer. But don't worry. You'll have a great time. Don't forget to bring important things, like food and water, a sleeping bag, a compass, and some insect cream.

@@ -3,16 +3,16 @@
 **COMMUNICATION**   
 **Vocabulary** 
 
-1. Don't do that: không làm điều đó /dəʊnt duː ðæt/  
-2. die: (v) chết /daɪ/  
-3. survey: (n) cuộc khảo sát, điều tra /ˈsɜːveɪ/  
-4. survey: (v) khảo sát, điều tra /səˈveɪ/  
-5. a beautiful old glass: một chiếc cốc thủy tinh cũ đẹp /ə ˈbjuːtɪfl əʊld glɑːs/  
-6. decorate: (v) trang trí /ˈdekəreɪt/  
-7. a sheet of paper: một tờ giấy /ə ʃiːt əv ˈpeɪpə/  
-8. write on both sides: viết trên cả hai mặt /raɪt ɒn bəʊθ saɪdz/  
-9. wrap the food in paper: gói thức ăn trong giấy /ræp ðə fuːd ɪn ˈpeɪpə/  
-10. air conditioner: máy điều hòa nhiệt độ 
+1. **Don't do that** : không làm điều đó /dəʊnt duː ðæt/
+2. **die** : (v) chết /daɪ/
+3. **survey** : (n) cuộc khảo sát, điều tra /ˈsɜːveɪ/
+4. **survey** : (v) khảo sát, điều tra /səˈveɪ/
+5. **a beautiful old glass** : một chiếc cốc thủy tinh cũ đẹp /ə ˈbjuːtɪfl əʊld glɑːs/
+6. **decorate** : (v) trang trí /ˈdekəreɪt/
+7. **a sheet of paper** : một tờ giấy /ə ʃiːt əv ˈpeɪpə/
+8. **write on both sides** : viết trên cả hai mặt /raɪt ɒn bəʊθ saɪdz/
+9. **wrap the food in paper** : gói thức ăn trong giấy /ræp ðə fuːd ɪn ˈpeɪpə/
+10. **air conditioner** : máy điều hòa nhiệt độ
 
 **Bài 2 trang 53**   
 A: You are giving too much water to the flowers. Don’t water them too much\!  

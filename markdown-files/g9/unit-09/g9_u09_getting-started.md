@@ -3,19 +3,19 @@
 **GETTING STARTED**   
 **Vocabulary** 
 
-1. introduce: (v) giới thiệu, giới thiệu (ai đó với ai đó) /ˌɪntrəˈdjuːs/  
-2. an exchange student: sinh viên trao đổi /ən ɪksˈtʃeɪndʒ ˈstjuːdənt/  
-3. pants: (n) quần (tiếng Anh-Mỹ) /pænts/  
-4. trousers: (n) quần (tiếng Anh-Anh) /ˈtraʊzəz/  
-5. difference: (n) sự khác biệt, sự khác nhau /ˈdɪfərəns/  
-6. American English: tiếng Anh-Mỹ /əˈmerɪkən ˈɪŋɡlɪʃ/  
-7. British English: tiếng Anh-Anh /ˈbrɪtɪʃ ˈɪŋɡlɪʃ/  
-8. Good question: câu hỏi hay /ɡʊd ˈkwestʃən/  
-9. most of us: hầu hết chúng ta /məʊst əv ʌs/  
-10. immigrants: (n) người nhập cư /ˈɪmɪɡrənts/  
-11. first language: ngôn ngữ thứ nhất /fɜːst ˈlæŋɡwɪdʒ/  
-12. mother tongue: tiếng mẹ đẻ /ˈmʌðə tʌŋ/  
-13. mean: (v) có nghĩa là, ý là /miːn/
+1. **introduce** : (v) giới thiệu, giới thiệu (ai đó với ai đó) /ˌɪntrəˈdjuːs/
+2. **an exchange student** : sinh viên trao đổi /ən ɪksˈtʃeɪndʒ ˈstjuːdənt/
+3. **pants** : (n) quần (tiếng Anh-Mỹ) /pænts/
+4. **trousers** : (n) quần (tiếng Anh-Anh) /ˈtraʊzəz/
+5. **difference** : (n) sự khác biệt, sự khác nhau /ˈdɪfərəns/
+6. **American English** : tiếng Anh-Mỹ /əˈmerɪkən ˈɪŋɡlɪʃ/
+7. **British English** : tiếng Anh-Anh /ˈbrɪtɪʃ ˈɪŋɡlɪʃ/
+8. **Good question** : câu hỏi hay /ɡʊd ˈkwestʃən/
+9. **most of us** : hầu hết chúng ta /məʊst əv ʌs/
+10. **immigrants** : (n) người nhập cư /ˈɪmɪɡrənts/
+11. **first language** : ngôn ngữ thứ nhất /fɜːst ˈlæŋɡwɪdʒ/
+12. **mother tongue** : tiếng mẹ đẻ /ˈmʌðə tʌŋ/
+13. **mean** : (v) có nghĩa là, ý là /miːn/
 
 Giáo viên: Chào lớp. Tôi muốn giới thiệu một học sinh trao đổi đến từ New York. Chào mừng Jack\!  
 Học sinh: Chào Jack. Rất vui được gặp bạn.  
@@ -43,12 +43,12 @@ Mi: Thật thú vị\!
 
 **Bài 3 trang 93** 
 
-1. trao đổi sinh (du học sinh): → b. một người học sinh mà tham gia một ngôi trường ở một nước ngoài trong một khoảng thời gian .   
-2. mean: → e: thể hiện hoặc bày tỏ cái gì đó   
-3. vocabulary: → a tất cả từ trong một ngôn ngữ   
-4. immigrant: → cngười mà đã đến và sống vĩnh viễn ở một đất nước khác   
+1. **trao đổi sinh (du học sinh)** : → b. một người học sinh mà tham gia một ngôi trường ở một nước ngoài trong một khoảng thời gian .
+2. **mean** : → e: thể hiện hoặc bày tỏ cái gì đó
+3. **vocabulary** : → a tất cả từ trong một ngôn ngữ
+4. **immigrant** : → cngười mà đã đến và sống vĩnh viễn ở một đất nước khác
    (permanently \= vĩnh viễn)  
-5. first language: → e ngôn ngữ mà ai đó nói từ khi sinh ra
+5. **first language** : → e ngôn ngữ mà ai đó nói từ khi sinh ra
 
 **Bài 4 trang 93**
 

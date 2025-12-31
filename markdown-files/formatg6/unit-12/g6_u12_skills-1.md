@@ -3,17 +3,17 @@
 **SKILLS 1**   
 **Vocabulary** 
 
-1. type: (n) loại /taɪp/  
-2. do most of the housework: làm hầu hết việc nhà /duː məʊst əv ðə ˈhaʊswɜːk/  
-3. cook meals: nấu các bữa ăn /kʊk miːlz/  
-4. iron clothes: ủi quần áo /ˈaɪən kləʊðz/  
-5. the best choice: lựa chọn tốt nhất /ðə best tʃɔɪs/  
-6. literature: (n) văn học /ˈlɪtrətʃə/  
-7. improve: (v) cải thiện /ɪmˈpruːv/  
-8. pronunciation: (n) phát âm /prəˌnʌnsiˈeɪʃn/  
-9. be interested in: quan tâm đến /bi ˈɪntrəstɪd ɪn/  
-10. heavy: (adj) nặng /ˈhevi/  
-11. build space station: xây trạm không gian   
+1. **type** : (n) loại /taɪp/
+2. **do most of the housework** : làm hầu hết việc nhà /duː məʊst əv ðə ˈhaʊswɜːk/
+3. **cook meals** : nấu các bữa ăn /kʊk miːlz/
+4. **iron clothes** : ủi quần áo /ˈaɪən kləʊðz/
+5. **the best choice** : lựa chọn tốt nhất /ðə best tʃɔɪs/
+6. **literature** : (n) văn học /ˈlɪtrətʃə/
+7. **improve** : (v) cải thiện /ɪmˈpruːv/
+8. **pronunciation** : (n) phát âm /prəˌnʌnsiˈeɪʃn/
+9. **be interested in** : quan tâm đến /bi ˈɪntrəstɪd ɪn/
+10. **heavy** : (adj) nặng /ˈhevi/
+11. **build space station** : xây trạm không gian
     /bɪld speɪs ˈsteɪʃn/
 
 Hôm nay có một cuộc triển lãm rô bốt quốc tế ở Hà Nội. Mọi người có thể nhìn thấy nhiều loại rô bốt ở đây.

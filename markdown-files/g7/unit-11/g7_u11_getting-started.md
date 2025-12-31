@@ -4,21 +4,21 @@
 
 **Vocabulary** 
 
-1. traffic jam: kẹt xe /ˈtræfɪk dʒæm/  
-2. will: (modal) sẽ /wɪl/  
-3. how: (adv) bằng cách nào, như thế nào /haʊ/  
-4. it's a pity that \+ …: thật đáng tiếc rằng... /ɪts ə ˈpɪti ðæt/  
-5. hyperloop: (n) hyperloop (hệ thống vận chuyển tốc độ cao trong ống chân không) /ˈhaɪpəluːp/  
-6. amazing: (adj) tuyệt vời, kinh ngạc /əˈmeɪzɪŋ/  
-7. a system of tube: hệ thống ống /ə ˈsɪstəm əv tjuːb/  
-8. from one place to another: từ nơi này đến nơi khác /frɒm wʌn pleɪs tə əˈnʌðə/  
-9. in just minutes: chỉ trong vài phút /ɪn dʒʌst ˈmɪnɪts/  
-10. even: (adv) thậm chí, ngay cả /ˈiːvən/  
-11. event: (n) sự kiện, biến cố /ɪˈvent/  
-12. teleporter: (n) máy dịch chuyển tức thời, cổng dịch chuyển /ˈtelɪˌpɔːtə/  
-13. different mode of travel: phương thức di chuyển khác nhau /ˈdɪfrənt məʊd əv ˈtrævəl/  
-14. soon: (adv) sớm, chẳng bao lâu nữa /suːn/  
-15. campsite: (n) khu cắm trại /ˈkæmpsaɪt/  
+1. **traffic jam** : kẹt xe /ˈtræfɪk dʒæm/
+2. **will** : (modal) sẽ /wɪl/
+3. **how** : (adv) bằng cách nào, như thế nào /haʊ/
+4. **it's a pity that \+ …** : thật đáng tiếc rằng... /ɪts ə ˈpɪti ðæt/
+5. **hyperloop** : (n) hyperloop (hệ thống vận chuyển tốc độ cao trong ống chân không) /ˈhaɪpəluːp/
+6. **amazing** : (adj) tuyệt vời, kinh ngạc /əˈmeɪzɪŋ/
+7. **a system of tube** : hệ thống ống /ə ˈsɪstəm əv tjuːb/
+8. **from one place to another** : từ nơi này đến nơi khác /frɒm wʌn pleɪs tə əˈnʌðə/
+9. **in just minutes** : chỉ trong vài phút /ɪn dʒʌst ˈmɪnɪts/
+10. **even** : (adv) thậm chí, ngay cả /ˈiːvən/
+11. **event** : (n) sự kiện, biến cố /ɪˈvent/
+12. **teleporter** : (n) máy dịch chuyển tức thời, cổng dịch chuyển /ˈtelɪˌpɔːtə/
+13. **different mode of travel** : phương thức di chuyển khác nhau /ˈdɪfrənt məʊd əv ˈtrævəl/
+14. **soon** : (adv) sớm, chẳng bao lâu nữa /suːn/
+15. **campsite** : (n) khu cắm trại /ˈkæmpsaɪt/
    
 
 

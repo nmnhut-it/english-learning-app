@@ -6,16 +6,16 @@
 
 **Vocabulary** 
 
-1. be located \+ in/at/on \+ vị trí: tọa lạc ở... /bi ləʊˈkeɪtɪd/  
-2. climate: (n) khí hậu /ˈklaɪmət/  
-3. the Milky Way: (n) dải Ngân Hà /ðə ˌmɪlki ˈweɪ/  
-4. surface: (n) bề mặt /ˈsɜːfɪs/  
-5. dry: (adj) khô /draɪ/  
-6. thick skin: (n) da dày /ˌθɪk ˈskɪn/  
-7. protect: (v) bảo vệ /prəˈtekt/  
-8. liquid water: (n) nước ở thể lỏng /ˌlɪkwɪd ˈwɔːtə/  
-9. description: (n) sự mô tả /dɪˈskrɪpʃən/  
-10. dangerous: (adj) nguy hiểm /ˈdeɪndʒərəs/
+1. **be located \+ in/at/on \+ vị trí** : tọa lạc ở... /bi ləʊˈkeɪtɪd/
+2. **climate** : (n) khí hậu /ˈklaɪmət/
+3. **the Milky Way** : (n) dải Ngân Hà /ðə ˌmɪlki ˈweɪ/
+4. **surface** : (n) bề mặt /ˈsɜːfɪs/
+5. **dry** : (adj) khô /draɪ/
+6. **thick skin** : (n) da dày /ˌθɪk ˈskɪn/
+7. **protect** : (v) bảo vệ /prəˈtekt/
+8. **liquid water** : (n) nước ở thể lỏng /ˌlɪkwɪd ˈwɔːtə/
+9. **description** : (n) sự mô tả /dɪˈskrɪpʃən/
+10. **dangerous** : (adj) nguy hiểm /ˈdeɪndʒərəs/
 
 **Writing** 
 

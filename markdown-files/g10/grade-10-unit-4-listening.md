@@ -76,19 +76,19 @@ If you are interested in helping the community and want to meet teenagers with s
 ```
 
 #### Lời giải chi tiết:
-1. **B**: This non-profit organisation supports local people and communities.
+1. **B** : This non-profit organisation supports local people and communities.
    - Thông tin: We are a non-profit organisation that supports local people and communities.
 
-2. **B**: They organise job training courses for teenagers.
+2. **B** : They organise job training courses for teenagers.
    - Thông tin: Thanks to many generous donations, we are building houses for poor people, organising job training courses for teenagers...
 
-3. **C**: They are looking for teenagers who can volunteer at the weekend.
+3. **C** : They are looking for teenagers who can volunteer at the weekend.
    - Thông tin: We are looking for teenagers who are interested in community development work and have a couple of hours to spare at weekends.
 
-4. **A**: People whose application is successful will be trained by experienced volunteers.
+4. **A** : People whose application is successful will be trained by experienced volunteers.
    - Thông tin: You will also be trained by our experienced volunteers.
 
-5. **C**: Volunteers will have a chance to meet teenagers with similar interests.
+5. **C** : Volunteers will have a chance to meet teenagers with similar interests.
    - Thông tin: If you are interested in helping the community and want to meet teenagers with similar interests...
 
 ### Bài 3: Listen again and decide whether the following statement are True (T) or False (F)

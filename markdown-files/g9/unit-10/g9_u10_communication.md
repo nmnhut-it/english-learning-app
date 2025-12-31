@@ -3,11 +3,11 @@
 **COMMUNICATION**   
 **Vocabulary**
 
-1. why don't you give it a go?: thử làm xem sao /waɪ dəʊnt juː gɪv ɪt ə gəʊ/  
-2. OK, I'll think about that: được rồi, tôi sẽ suy nghĩ về điều đó /əʊˈkeɪ aɪl θɪŋk əˈbaʊt ðæt/  
-3. Yes, your contribution would really help us out: vâng, sự đóng góp của bạn thực sự sẽ giúp ích cho chúng tôi /jes jɔː kɒntrɪˈbjuːʃn wʊd ˈrɪəli help ʌs aʊt/  
-4. Alright, I'll make a contribution: được rồi, tôi sẽ đóng góp /ɔːlˈraɪt aɪl meɪk ə kɒntrɪˈbjuːʃn/  
-5. How do you feel about \+ Ving: bạn cảm thấy thế nào về việc \+ Ving /haʊ duː juː fiːl əˈbaʊt/
+1. **why don't you give it a go?** : thử làm xem sao /waɪ dəʊnt juː gɪv ɪt ə gəʊ/
+2. **OK, I'll think about that** : được rồi, tôi sẽ suy nghĩ về điều đó /əʊˈkeɪ aɪl θɪŋk əˈbaʊt ðæt/
+3. **Yes, your contribution would really help us out** : vâng, sự đóng góp của bạn thực sự sẽ giúp ích cho chúng tôi /jes jɔː kɒntrɪˈbjuːʃn wʊd ˈrɪəli help ʌs aʊt/
+4. **Alright, I'll make a contribution** : được rồi, tôi sẽ đóng góp /ɔːlˈraɪt aɪl meɪk ə kɒntrɪˈbjuːʃn/
+5. **How do you feel about \+ Ving** : bạn cảm thấy thế nào về việc \+ Ving /haʊ duː juː fiːl əˈbaʊt/
 
 **Bài 2 trang 108:** 
 

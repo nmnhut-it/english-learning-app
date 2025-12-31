@@ -222,7 +222,7 @@ h. They're going to play football.
 1. Look at those clouds! It (will rain / is going to rain).
 2. I think I (will go / am going to go) to bed early tonight. I'm tired.
 3. We (will visit / are going to visit) the zoo tomorrow. We bought the tickets yesterday.
-4. A: The phone's ringing!
+4. **A** : The phone's ringing!
    B: Don't worry. I (will answer / am going to answer) it.
 5. She (will be / is going to be) 13 next month.
 6. Watch out! You (will drop / are going to drop) those plates!
@@ -392,22 +392,22 @@ __________________________________________
 
 Look at the situations below and write predictions using "be going to". Explain why you think these things are going to happen.
 
-1. Situation: Your friend didn't study for the exam.
+1. **Situation** : Your friend didn't study for the exam.
    Prediction: __________________________________________
 
-2. Situation: The football team is winning 5-0 with 2 minutes left.
+2. **Situation** : The football team is winning 5-0 with 2 minutes left.
    Prediction: __________________________________________
 
-3. Situation: Someone is carrying too many bags and they're falling.
+3. **Situation** : Someone is carrying too many bags and they're falling.
    Prediction: __________________________________________
 
-4. Situation: The train is at the platform and people are getting on.
+4. **Situation** : The train is at the platform and people are getting on.
    Prediction: __________________________________________
 
-5. Situation: Your brother has been saving money for months.
+5. **Situation** : Your brother has been saving money for months.
    Prediction: __________________________________________
 
-6. Situation: Dark clouds are coming and the wind is getting stronger.
+6. **Situation** : Dark clouds are coming and the wind is getting stronger.
    Prediction: __________________________________________
 
 ---

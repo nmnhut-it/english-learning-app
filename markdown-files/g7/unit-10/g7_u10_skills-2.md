@@ -4,11 +4,11 @@
 
 **Vocabulary** 
 
-1. solar panel: pin năng lượng mặt trời /ˈsəʊlə ˈpænl/  
-2. light bulb: bóng đèn /laɪt bʌlb/  
-3. electrical appliance: thiết bị điện /ɪˈlektrɪkl əˈplaɪəns/  
-4. warm: (v) làm ấm, (adj) ấm /wɔːm/  
-5. sound interesting: nghe có vẻ thú vị /saʊnd ˈɪntrəstɪŋ/
+1. **solar panel** : pin năng lượng mặt trời /ˈsəʊlə ˈpænl/
+2. **light bulb** : bóng đèn /laɪt bʌlb/
+3. **electrical appliance** : thiết bị điện /ɪˈlektrɪkl əˈplaɪəns/
+4. **warm** : (v) làm ấm, (adj) ấm /wɔːm/
+5. **sound interesting** : nghe có vẻ thú vị /saʊnd ˈɪntrəstɪŋ/
 
 **Bài 2 trang 111** 
 

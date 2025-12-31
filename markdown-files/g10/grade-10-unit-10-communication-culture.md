@@ -5,15 +5,15 @@
 
 ### New words
 
-1. advice: (n) lời khuyên /ədˈvaɪs/
-2. advise: (v) khuyên /ədˈvaɪz/
-3. windy: (adj) có gió /ˈwɪndi/
-4. warm clothes: (n.phr) quần áo ấm /wɔːm kləʊðz/
-5. rough: (adj) (biển) động /rʌf/
-6. surfing: (n) lướt sóng /ˈsɜːfɪŋ/
-7. surfboard: (n) ván lướt sóng /ˈsɜːfbɔːd/
-8. wetsuit: (n) bộ đồ lặn /ˈwetsuːt/
-9. rent: (v) thuê /rent/
+1. **advice** : (n) lời khuyên /ədˈvaɪs/
+2. **advise** : (v) khuyên /ədˈvaɪz/
+3. **windy** : (adj) có gió /ˈwɪndi/
+4. **warm clothes** : (n.phr) quần áo ấm /wɔːm kləʊðz/
+5. **rough** : (adj) (biển) động /rʌf/
+6. **surfing** : (n) lướt sóng /ˈsɜːfɪŋ/
+7. **surfboard** : (n) ván lướt sóng /ˈsɜːfbɔːd/
+8. **wetsuit** : (n) bộ đồ lặn /ˈwetsuːt/
+9. **rent** : (v) thuê /rent/
 
 ---
 
@@ -123,13 +123,13 @@
 
 ### New words
 
-1. mass tourism: (n.phr) du lịch đại chúng /mæs ˈtʊərɪzəm/
-2. sustainable tourism: (n.phr) du lịch bền vững /səˈsteɪnəbl ˈtʊərɪzəm/
-3. responsible tourism: (n.phr) du lịch có trách nhiệm /rɪˈspɒnsəbl ˈtʊərɪzəm/
-4. environmentally-friendly: (adj) thân thiện với môi trường /ɪnˌvaɪrənˈmentəli ˈfrendli/
-5. smokeless industry: (n.phr) ngành công nghiệp không khói /ˈsməʊkləs ˈɪndəstri/
-6. crowd: (v) tập trung đông đúc /kraʊd/
-7. individual: (n, adj) cá nhân /ˌɪndɪˈvɪdʒuəl/
+1. **mass tourism** : (n.phr) du lịch đại chúng /mæs ˈtʊərɪzəm/
+2. **sustainable tourism** : (n.phr) du lịch bền vững /səˈsteɪnəbl ˈtʊərɪzəm/
+3. **responsible tourism** : (n.phr) du lịch có trách nhiệm /rɪˈspɒnsəbl ˈtʊərɪzəm/
+4. **environmentally-friendly** : (adj) thân thiện với môi trường /ɪnˌvaɪrənˈmentəli ˈfrendli/
+5. **smokeless industry** : (n.phr) ngành công nghiệp không khói /ˈsməʊkləs ˈɪndəstri/
+6. **crowd** : (v) tập trung đông đúc /kraʊd/
+7. **individual** : (n, adj) cá nhân /ˌɪndɪˈvɪdʒuəl/
 
 ---
 
@@ -223,28 +223,28 @@ Mặc dù du lịch thường được gọi là 'ngành công nghiệp không k
 
 ## Vocabulary (Từ vựng)
 
-1. advice: (n) lời khuyên /ədˈvaɪs/
-2. advise: (v) khuyên /ədˈvaɪz/
-3. recommend: (v) khuyến nghị /ˌrekəˈmend/
-4. windy: (adj) có gió /ˈwɪndi/
-5. warm clothes: (n.phr) quần áo ấm /wɔːm kləʊðz/
-6. rough: (adj) (biển) động /rʌf/
-7. surfing: (n) lướt sóng /ˈsɜːfɪŋ/
-8. surfboard: (n) ván lướt sóng /ˈsɜːfbɔːd/
-9. wetsuit: (n) bộ đồ lặn /ˈwetsuːt/
-10. rent: (v) thuê /rent/
-11. mass tourism: (n.phr) du lịch đại chúng /mæs ˈtʊərɪzəm/
-12. sustainable tourism: (n.phr) du lịch bền vững /səˈsteɪnəbl ˈtʊərɪzəm/
-13. responsible tourism: (n.phr) du lịch có trách nhiệm /rɪˈspɒnsəbl ˈtʊərɪzəm/
-14. ecotourism: (n) du lịch sinh thái /ˌiːkəʊˈtʊərɪzəm/
-15. environmentally-friendly: (adj) thân thiện với môi trường /ɪnˌvaɪrənˈmentəli ˈfrendli/
-16. smokeless industry: (n.phr) ngành công nghiệp không khói /ˈsməʊkləs ˈɪndəstri/
-17. crowd: (v) tập trung đông đúc /kraʊd/
-18. negative impact: (n.phr) tác động tiêu cực /ˈneɡətɪv ˈɪmpækt/
-19. promote: (v) thúc đẩy /prəˈməʊt/
-20. respect: (n, v) sự tôn trọng, tôn trọng /rɪˈspekt/
-21. cultural respect: (n.phr) tôn trọng văn hóa /ˈkʌltʃərəl rɪˈspekt/
-22. profit: (n) lợi nhuận /ˈprɒfɪt/
-23. individual: (n, adj) cá nhân /ˌɪndɪˈvɪdʒuəl/
-24. community: (n) cộng đồng /kəˈmjuːnəti/
-25. tourism industry: (n.phr) ngành du lịch /ˈtʊərɪzəm ˈɪndəstri/
+1. **advice** : (n) lời khuyên /ədˈvaɪs/
+2. **advise** : (v) khuyên /ədˈvaɪz/
+3. **recommend** : (v) khuyến nghị /ˌrekəˈmend/
+4. **windy** : (adj) có gió /ˈwɪndi/
+5. **warm clothes** : (n.phr) quần áo ấm /wɔːm kləʊðz/
+6. **rough** : (adj) (biển) động /rʌf/
+7. **surfing** : (n) lướt sóng /ˈsɜːfɪŋ/
+8. **surfboard** : (n) ván lướt sóng /ˈsɜːfbɔːd/
+9. **wetsuit** : (n) bộ đồ lặn /ˈwetsuːt/
+10. **rent** : (v) thuê /rent/
+11. **mass tourism** : (n.phr) du lịch đại chúng /mæs ˈtʊərɪzəm/
+12. **sustainable tourism** : (n.phr) du lịch bền vững /səˈsteɪnəbl ˈtʊərɪzəm/
+13. **responsible tourism** : (n.phr) du lịch có trách nhiệm /rɪˈspɒnsəbl ˈtʊərɪzəm/
+14. **ecotourism** : (n) du lịch sinh thái /ˌiːkəʊˈtʊərɪzəm/
+15. **environmentally-friendly** : (adj) thân thiện với môi trường /ɪnˌvaɪrənˈmentəli ˈfrendli/
+16. **smokeless industry** : (n.phr) ngành công nghiệp không khói /ˈsməʊkləs ˈɪndəstri/
+17. **crowd** : (v) tập trung đông đúc /kraʊd/
+18. **negative impact** : (n.phr) tác động tiêu cực /ˈneɡətɪv ˈɪmpækt/
+19. **promote** : (v) thúc đẩy /prəˈməʊt/
+20. **respect** : (n, v) sự tôn trọng, tôn trọng /rɪˈspekt/
+21. **cultural respect** : (n.phr) tôn trọng văn hóa /ˈkʌltʃərəl rɪˈspekt/
+22. **profit** : (n) lợi nhuận /ˈprɒfɪt/
+23. **individual** : (n, adj) cá nhân /ˌɪndɪˈvɪdʒuəl/
+24. **community** : (n) cộng đồng /kəˈmjuːnəti/
+25. **tourism industry** : (n.phr) ngành du lịch /ˈtʊərɪzəm ˈɪndəstri/

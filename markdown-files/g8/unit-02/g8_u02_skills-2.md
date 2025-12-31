@@ -3,37 +3,37 @@
 **SKILLS 2**   
 **Listening** 
 
-1. village : (n) làng /ˈvɪlɪʤ/  
-2. relationship : (n) mối quan hệ /rɪˈleɪʃənʃɪp/  
-3. people : (n) người dân /ˈpiːpl/  
-4. sense : (n) cảm giác /sɛns/  
-5. community : (n) cộng đồng /kəˈmjuːnɪti/  
-6. welcome : (v) chào đón /ˈwɛlkəm/  
-7. neighbour : (n) hàng xóm /ˈneɪbər/   
-8. willing : (adj) sẵn lòng /ˈwɪlɪŋ/   
-9. share : (v) chia sẻ /ʃeə/  
-10. thing : (n) điều /θɪŋ/  
-11. countryside : (n) nông thôn /ˈkʌntrɪˌsaɪd/  
-12. school : (n) trường học /skuːl/  
-13. college : (n) trường cao đẳng /ˈkɒlɪʤ/  
-14. boring : (adj) buồn chán /ˈbɔːrɪŋ/  
-15. place : (n) nơi /pleɪs/  
-16. entertainment : (n) giải trí /ˌɛntəˈteɪnmənt/  
-17. theatre : (n) nhà hát /ˈθɪətə/  
-18. cinema : (n) rạp chiếu phim /ˈsɪnɪmə/  
-19. transportation : (n) vận chuyển /ˌtrænspɔːˈteɪʃən/  
-20. problem : (n) vấn đề /ˈprɒbləm/  
-21. mean : (n) phương tiện /miːn/  
-22. public : (adj) công cộng /ˈpʌblɪk/  
-23. transport : (n) giao thông /ˈtrænspɔːt/  
-24. general : (adj) chung /ˈʤɛnərəl/  
-25. improve : (v) cải thiện /ɪmˈpruːv/  
-26. villager : (n) dân làng /ˈvɪlɪʤə/  
-27. spacious : (adj) rộng rãi /ˈspeɪʃəs/    
-28. football : (n) bóng đá /ˈfʊtbɔːl/  
-29. kite : (n) diều /kaɪt/  
-30. interesting : (adj) thú vị /ˈɪntrɪstɪŋ/   
-31. simple : (adj) đơn giản /ˈsɪmpl/
+1. **village** : (n) làng /ˈvɪlɪʤ/
+2. **relationship** : (n) mối quan hệ /rɪˈleɪʃənʃɪp/
+3. **people** : (n) người dân /ˈpiːpl/
+4. **sense** : (n) cảm giác /sɛns/
+5. **community** : (n) cộng đồng /kəˈmjuːnɪti/
+6. **welcome** : (v) chào đón /ˈwɛlkəm/
+7. **neighbour** : (n) hàng xóm /ˈneɪbər/
+8. **willing** : (adj) sẵn lòng /ˈwɪlɪŋ/
+9. **share** : (v) chia sẻ /ʃeə/
+10. **thing** : (n) điều /θɪŋ/
+11. **countryside** : (n) nông thôn /ˈkʌntrɪˌsaɪd/
+12. **school** : (n) trường học /skuːl/
+13. **college** : (n) trường cao đẳng /ˈkɒlɪʤ/
+14. **boring** : (adj) buồn chán /ˈbɔːrɪŋ/
+15. **place** : (n) nơi /pleɪs/
+16. **entertainment** : (n) giải trí /ˌɛntəˈteɪnmənt/
+17. **theatre** : (n) nhà hát /ˈθɪətə/
+18. **cinema** : (n) rạp chiếu phim /ˈsɪnɪmə/
+19. **transportation** : (n) vận chuyển /ˌtrænspɔːˈteɪʃən/
+20. **problem** : (n) vấn đề /ˈprɒbləm/
+21. **mean** : (n) phương tiện /miːn/
+22. **public** : (adj) công cộng /ˈpʌblɪk/
+23. **transport** : (n) giao thông /ˈtrænspɔːt/
+24. **general** : (adj) chung /ˈʤɛnərəl/
+25. **improve** : (v) cải thiện /ɪmˈpruːv/
+26. **villager** : (n) dân làng /ˈvɪlɪʤə/
+27. **spacious** : (adj) rộng rãi /ˈspeɪʃəs/
+28. **football** : (n) bóng đá /ˈfʊtbɔːl/
+29. **kite** : (n) diều /kaɪt/
+30. **interesting** : (adj) thú vị /ˈɪntrɪstɪŋ/
+31. **simple** : (adj) đơn giản /ˈsɪmpl/
 
 **Bài 2 trang 25** 
 

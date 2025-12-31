@@ -6,17 +6,17 @@
 
 1. How do/does \+ ai đó+ go to \+ nơi chốn?: Ai đó đi đến địa điểm đó bằng cách nào? /haʊ duː/dʌz ... gəʊ tuː .../  
 2. go by \+ phương tiện: đi bằng (phương tiện) /gəʊ baɪ/  
-3. go on foot: đi bộ /gəʊ ɒn fʊt/  
+3. **go on foot** : đi bộ /gəʊ ɒn fʊt/
 4. am/is/are not allowed to: không được phép /æm/ɪz/ɑː nɒt əˈlaʊd tuː/  
-5. roof: (n) mái nhà /ruːf/  
-6. Moscow: (n) Mát-xcơ-va /ˈmɒskəʊ/  
-7. South Africa: (n) Nam Phi /ˌsaʊθ ˈæfrɪkə/  
-8. Switzerland: (n) Thụy Sĩ /ˈswɪtsələnd/  
-9. fine: (v) phạt tiền /faɪn/   
-10. drive a dirty car: lái xe bẩn /draɪv ə ˈdɜːti kɑː/  
-11. handlebars: (n) tay lái (xe đạp, mô tô) /ˈhændlbɑːz/  
-12. wash your car: rửa xe /wɒʃ jɔː kɑː/  
-13. let \+ ai đó \+ V0: để cho ai đó làm gì /let ... V0/
+5. **roof** : (n) mái nhà /ruːf/
+6. **Moscow** : (n) Mát-xcơ-va /ˈmɒskəʊ/
+7. **South Africa** : (n) Nam Phi /ˌsaʊθ ˈæfrɪkə/
+8. **Switzerland** : (n) Thụy Sĩ /ˈswɪtsələnd/
+9. **fine** : (v) phạt tiền /faɪn/
+10. **drive a dirty car** : lái xe bẩn /draɪv ə ˈdɜːti kɑː/
+11. **handlebars** : (n) tay lái (xe đạp, mô tô) /ˈhændlbɑːz/
+12. **wash your car** : rửa xe /wɒʃ jɔː kɑː/
+13. **let \+ ai đó \+ V0** : để cho ai đó làm gì /let ... V0/
 
 Hỏi: ai đó đi tới đâu bằng phương tiện nào. 
 
@@ -47,11 +47,11 @@ Hỏi: ai đó đi tới đâu bằng phương tiện nào.
 
 **Bài 3 trang 76** 
 
-1. Nước Anh: bên trái   
-2. Mỹ: bên phải   
-3. Úc: bên trái  
-4. Thái Lan: trái   
-5. Trung Quốc: phải 
+1. **Nước Anh** : bên trái
+2. **Mỹ** : bên phải
+3. **Úc** : bên trái
+4. **Thái Lan** : trái
+5. **Trung Quốc** : phải
 
 **Bài 4 trang 76**  
 

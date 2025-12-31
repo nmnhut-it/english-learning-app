@@ -234,7 +234,7 @@ Thì hiện tại hoàn thành thường được nhận biết qua các từ sa
 10. **instructor**: (n) người hướng dẫn, giảng viên /ɪnˈstrʌktə/
 11. **snorkelling**: (n) lặn với ống thở /ˈsnɔːkəlɪŋ/
 12. **exhilarating**: (adj) phấn khích, hứng khởi /ɪɡˈzɪləreɪtɪŋ/
-13. **coral reef**: rạn san hô /ˈkɒrəl riːf/
+13. **coral reef** : rạn san hô /ˈkɒrəl riːf/
 14. **experience**: (n) kinh nghiệm, trải nghiệm; (v) trải nghiệm /ɪkˈspɪəriəns/
 15. **online**: (adj/adv) trực tuyến /ˈɒnlaɪn/ 
 17. **colourful**: (adj) đầy màu sắc, sặc sỡ /ˈkʌləfl/
@@ -247,7 +247,7 @@ Thì hiện tại hoàn thành thường được nhận biết qua các từ sa
 24. **silent**: (adj) im lặng, yên lặng /ˈsaɪlənt/ 
 26. **pepper**: (n) hạt tiêu, ớt /ˈpepə/
 27. **paper**: (n) giấy /ˈpeɪpə/ 
-29. **have joined a tour**: đã tham gia một tour /hæv dʒɔɪnd ə tʊə/
+29. **have joined a tour** : đã tham gia một tour /hæv dʒɔɪnd ə tʊə/
 
 
 **Bài 2**   
@@ -346,11 +346,11 @@ That was the first time I travelled without my parents, so I felt like I grew up
 
 **Vocabulary** 
 
-1. feel \- felt \- felt: cảm thấy   
-2. solve problem: giải quyết vấn đề   
-3. embarrassed: xấu hổ   
-4. various: nhiều và khác nhau   
-5. soft skills: kĩ năng mềm 
+1. **feel \- felt \- felt** : cảm thấy
+2. **solve problem** : giải quyết vấn đề
+3. **embarrassed** : xấu hổ
+4. **various** : nhiều và khác nhau
+5. **soft skills** : kĩ năng mềm
 
 | 1\. C | 2\. A | 3\. D | 4\. E | 5\. B |
 | :---- | :---- | :---- | :---- | :---- |

@@ -4,40 +4,40 @@
 
 **Vocabulary**
 
-1. corridor: (n) hành lang /ˈkɒrɪdɔː/  
-2. hear: (v) nghe /hɪə/  
-3. contest: (n) cuộc thi /ˈkɒntest/  
-4. wonder: (n) kỳ quan /ˈwʌndə/  
-5. congratulations: (n) lời chúc mừng /kənˌgrætjʊˈleɪʃnz/  
-6. explore: (v) khám phá /ɪkˈsplɔː/  
-7. I like exploring: Tôi thích khám phá /aɪ laɪk ɪkˈsplɔːrɪŋ/  
-8. be crazy about: cực kỳ mê /bi ˈkreɪzi əˈbaʊt/  
-9. mount: (n) đỉnh /maʊnt/  
-10. the Great Barrier Reef: Rạn san hô Great Barrier /ðə greɪt ˈbæriə riːf/  
-11. the Dead Sea: Biển Chết /ðə ded siː/  
-12. landscape: (n) phong cảnh /ˈlændskeɪp/  
-13. snow-covered: (adj) phủ tuyết /snəʊ ˈkʌvəd/  
-14. peak: (n) đỉnh /piːk/  
-15. charming: (adj) quyến rũ /ˈtʃɑːmɪŋ/  
-16. admire: (v) ngưỡng mộ /ədˈmaɪə/  
-17. can't help \+ Ving: không thể không /kɑːnt help/  
-18. mention: (v) đề cập /ˈmenʃn/  
-19. risk: (n) rủi ro /rɪsk/  
-20. destroy: (v) phá hủy /dɪˈstrɔɪ/  
-21. preserve: (v) bảo tồn /prɪˈzɜːv/  
-22. sustainable development: phát triển bền vững /səˈsteɪnəbl dɪˈveləpmənt/  
-23. host: (n) chủ tọa /həʊst/  
-24. the Grand Canyon: Hẻm núi Grand /ðə grænd ˈkænjən/  
-25. support: (v) ủng hộ /səˈpɔːt/  
-26. complex: (n) quần thể /ˈkɒmpleks/  
-27. environmentalist: (n) nhà môi trường học /ɪnˌvaɪrənˈmentəlɪst/  
-28. measure: (n) biện pháp /ˈmeʒə/  
-29. goal: (n) mục tiêu /gəʊl/  
-30. follow: (v) theo dõi /ˈfɒləʊ/  
-31. location: (n) vị trí /ləʊˈkeɪʃn/  
-32. unique: (adj) độc đáo /juːˈniːk/  
-33. discover: (v) khám phá /dɪˈskʌvə/  
-34. contribute to: đóng góp cho /kənˈtrɪbjuːt tuː/
+1. **corridor** : (n) hành lang /ˈkɒrɪdɔː/
+2. **hear** : (v) nghe /hɪə/
+3. **contest** : (n) cuộc thi /ˈkɒntest/
+4. **wonder** : (n) kỳ quan /ˈwʌndə/
+5. **congratulations** : (n) lời chúc mừng /kənˌgrætjʊˈleɪʃnz/
+6. **explore** : (v) khám phá /ɪkˈsplɔː/
+7. **I like exploring** : Tôi thích khám phá /aɪ laɪk ɪkˈsplɔːrɪŋ/
+8. **be crazy about** : cực kỳ mê /bi ˈkreɪzi əˈbaʊt/
+9. **mount** : (n) đỉnh /maʊnt/
+10. **the Great Barrier Reef** : Rạn san hô Great Barrier /ðə greɪt ˈbæriə riːf/
+11. **the Dead Sea** : Biển Chết /ðə ded siː/
+12. **landscape** : (n) phong cảnh /ˈlændskeɪp/
+13. **snow-covered** : (adj) phủ tuyết /snəʊ ˈkʌvəd/
+14. **peak** : (n) đỉnh /piːk/
+15. **charming** : (adj) quyến rũ /ˈtʃɑːmɪŋ/
+16. **admire** : (v) ngưỡng mộ /ədˈmaɪə/
+17. **can't help \+ Ving** : không thể không /kɑːnt help/
+18. **mention** : (v) đề cập /ˈmenʃn/
+19. **risk** : (n) rủi ro /rɪsk/
+20. **destroy** : (v) phá hủy /dɪˈstrɔɪ/
+21. **preserve** : (v) bảo tồn /prɪˈzɜːv/
+22. **sustainable development** : phát triển bền vững /səˈsteɪnəbl dɪˈveləpmənt/
+23. **host** : (n) chủ tọa /həʊst/
+24. **the Grand Canyon** : Hẻm núi Grand /ðə grænd ˈkænjən/
+25. **support** : (v) ủng hộ /səˈpɔːt/
+26. **complex** : (n) quần thể /ˈkɒmpleks/
+27. **environmentalist** : (n) nhà môi trường học /ɪnˌvaɪrənˈmentəlɪst/
+28. **measure** : (n) biện pháp /ˈmeʒə/
+29. **goal** : (n) mục tiêu /gəʊl/
+30. **follow** : (v) theo dõi /ˈfɒləʊ/
+31. **location** : (n) vị trí /ləʊˈkeɪʃn/
+32. **unique** : (adj) độc đáo /juːˈniːk/
+33. **discover** : (v) khám phá /dɪˈskʌvə/
+34. **contribute to** : đóng góp cho /kənˈtrɪbjuːt tuː/
 
 **Lan**: Chào Tom. Tôi nghe rằng bạn đã giành giải nhì trong Cuộc thi Kỳ quan Thiên nhiên. Chúc mừng\!
 

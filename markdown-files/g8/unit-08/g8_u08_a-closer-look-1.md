@@ -4,24 +4,24 @@
 
 **Vocabulary**: 
 
-1. shopaholic (n): người nghiện mua sắm /ˌʃɒpəˈhɒlɪk/  
-2. browsing (v): lướt xem, dạo xem /ˈbraʊzɪŋ/  
-3. price tag: nhãn giá /praɪs tæɡ/  
-4. on sale: đang giảm giá /ɒn seɪl/  
-5. internet access: quyền truy cập internet /ˈɪntənet ˈækses/  
-6. offer lower prices: đưa ra giá thấp hơn /ˈɒfə ˈləʊə ˈpraɪsɪz/  
-7. on all products: trên tất cả sản phẩm /ɒn ɔːl ˈprɒdʌkts/  
-8. specialty shop: cửa hàng chuyên dụng /ˈspeʃəlti ʃɒp/  
-9. discount shop: cửa hàng giảm giá /ˈdɪskaʊnt ʃɒp/  
-10. sell goods (v): bán hàng hóa /sel ɡʊdz/  
-11. service (n): dịch vụ /ˈsɜːvɪs/  
-12. supermarket (n): siêu thị /ˈsuːpəˌmɑːkɪt/  
-13. online shop: cửa hàng trực tuyến /ˈɒnlaɪn ʃɒp/  
-14. open-air market: chợ ngoài trời /ˌəʊpən ˈeə ˈmɑːkɪt/  
-15. product (n): sản phẩm /ˈprɒdʌkt/  
-16. wide range of goods: phạm vi rộng các mặt hàng /waɪd reɪndʒ əv ɡʊdz/  
-17. bargain (n): món hời, giá hời /ˈbɑːɡɪn/  
-18. kind (n): loại /kaɪnd/  
+1. **shopaholic (n)** : người nghiện mua sắm /ˌʃɒpəˈhɒlɪk/
+2. **browsing (v)** : lướt xem, dạo xem /ˈbraʊzɪŋ/
+3. **price tag** : nhãn giá /praɪs tæɡ/
+4. **on sale** : đang giảm giá /ɒn seɪl/
+5. **internet access** : quyền truy cập internet /ˈɪntənet ˈækses/
+6. **offer lower prices** : đưa ra giá thấp hơn /ˈɒfə ˈləʊə ˈpraɪsɪz/
+7. **on all products** : trên tất cả sản phẩm /ɒn ɔːl ˈprɒdʌkts/
+8. **specialty shop** : cửa hàng chuyên dụng /ˈspeʃəlti ʃɒp/
+9. **discount shop** : cửa hàng giảm giá /ˈdɪskaʊnt ʃɒp/
+10. **sell goods (v)** : bán hàng hóa /sel ɡʊdz/
+11. **service (n)** : dịch vụ /ˈsɜːvɪs/
+12. **supermarket (n)** : siêu thị /ˈsuːpəˌmɑːkɪt/
+13. **online shop** : cửa hàng trực tuyến /ˈɒnlaɪn ʃɒp/
+14. **open-air market** : chợ ngoài trời /ˌəʊpən ˈeə ˈmɑːkɪt/
+15. **product (n)** : sản phẩm /ˈprɒdʌkt/
+16. **wide range of goods** : phạm vi rộng các mặt hàng /waɪd reɪndʒ əv ɡʊdz/
+17. **bargain (n)** : món hời, giá hời /ˈbɑːɡɪn/
+18. **kind (n)** : loại /kaɪnd/
     **Bài 1 trang 84**  
 1. price tag   
 2. shopaholic   

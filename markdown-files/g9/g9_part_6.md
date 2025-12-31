@@ -4,40 +4,40 @@ UNIT 7: NATURAL WONDERS OF THE WORLD**
 
 **Vocabulary**
 
-1. corridor: (n) hành lang /ˈkɒrɪdɔː/  
-2. hear: (v) nghe /hɪə/  
-3. contest: (n) cuộc thi /ˈkɒntest/  
-4. wonder: (n) kỳ quan /ˈwʌndə/  
-5. congratulations: (n) lời chúc mừng /kənˌgrætjʊˈleɪʃnz/  
-6. explore: (v) khám phá /ɪkˈsplɔː/  
-7. I like exploring: Tôi thích khám phá /aɪ laɪk ɪkˈsplɔːrɪŋ/  
-8. be crazy about: cực kỳ mê /bi ˈkreɪzi əˈbaʊt/  
-9. mount: (n) đỉnh /maʊnt/  
-10. the Great Barrier Reef: Rạn san hô Great Barrier /ðə greɪt ˈbæriə riːf/  
-11. the Dead Sea: Biển Chết /ðə ded siː/  
-12. landscape: (n) phong cảnh /ˈlændskeɪp/  
-13. snow-covered: (adj) phủ tuyết /snəʊ ˈkʌvəd/  
-14. peak: (n) đỉnh /piːk/  
-15. charming: (adj) quyến rũ /ˈtʃɑːmɪŋ/  
-16. admire: (v) ngưỡng mộ /ədˈmaɪə/  
-17. can't help \+ Ving: không thể không /kɑːnt help/  
-18. mention: (v) đề cập /ˈmenʃn/  
-19. risk: (n) rủi ro /rɪsk/  
-20. destroy: (v) phá hủy /dɪˈstrɔɪ/  
-21. preserve: (v) bảo tồn /prɪˈzɜːv/  
-22. sustainable development: phát triển bền vững /səˈsteɪnəbl dɪˈveləpmənt/  
-23. host: (n) chủ tọa /həʊst/  
-24. the Grand Canyon: Hẻm núi Grand /ðə grænd ˈkænjən/  
-25. support: (v) ủng hộ /səˈpɔːt/  
-26. complex: (n) quần thể /ˈkɒmpleks/  
-27. environmentalist: (n) nhà môi trường học /ɪnˌvaɪrənˈmentəlɪst/  
-28. measure: (n) biện pháp /ˈmeʒə/  
-29. goal: (n) mục tiêu /gəʊl/  
-30. follow: (v) theo dõi /ˈfɒləʊ/  
-31. location: (n) vị trí /ləʊˈkeɪʃn/  
-32. unique: (adj) độc đáo /juːˈniːk/  
-33. discover: (v) khám phá /dɪˈskʌvə/  
-34. contribute to: đóng góp cho /kənˈtrɪbjuːt tuː/
+1. **corridor** : (n) hành lang /ˈkɒrɪdɔː/
+2. **hear** : (v) nghe /hɪə/
+3. **contest** : (n) cuộc thi /ˈkɒntest/
+4. **wonder** : (n) kỳ quan /ˈwʌndə/
+5. **congratulations** : (n) lời chúc mừng /kənˌgrætjʊˈleɪʃnz/
+6. **explore** : (v) khám phá /ɪkˈsplɔː/
+7. **I like exploring** : Tôi thích khám phá /aɪ laɪk ɪkˈsplɔːrɪŋ/
+8. **be crazy about** : cực kỳ mê /bi ˈkreɪzi əˈbaʊt/
+9. **mount** : (n) đỉnh /maʊnt/
+10. **the Great Barrier Reef** : Rạn san hô Great Barrier /ðə greɪt ˈbæriə riːf/
+11. **the Dead Sea** : Biển Chết /ðə ded siː/
+12. **landscape** : (n) phong cảnh /ˈlændskeɪp/
+13. **snow-covered** : (adj) phủ tuyết /snəʊ ˈkʌvəd/
+14. **peak** : (n) đỉnh /piːk/
+15. **charming** : (adj) quyến rũ /ˈtʃɑːmɪŋ/
+16. **admire** : (v) ngưỡng mộ /ədˈmaɪə/
+17. **can't help \+ Ving** : không thể không /kɑːnt help/
+18. **mention** : (v) đề cập /ˈmenʃn/
+19. **risk** : (n) rủi ro /rɪsk/
+20. **destroy** : (v) phá hủy /dɪˈstrɔɪ/
+21. **preserve** : (v) bảo tồn /prɪˈzɜːv/
+22. **sustainable development** : phát triển bền vững /səˈsteɪnəbl dɪˈveləpmənt/
+23. **host** : (n) chủ tọa /həʊst/
+24. **the Grand Canyon** : Hẻm núi Grand /ðə grænd ˈkænjən/
+25. **support** : (v) ủng hộ /səˈpɔːt/
+26. **complex** : (n) quần thể /ˈkɒmpleks/
+27. **environmentalist** : (n) nhà môi trường học /ɪnˌvaɪrənˈmentəlɪst/
+28. **measure** : (n) biện pháp /ˈmeʒə/
+29. **goal** : (n) mục tiêu /gəʊl/
+30. **follow** : (v) theo dõi /ˈfɒləʊ/
+31. **location** : (n) vị trí /ləʊˈkeɪʃn/
+32. **unique** : (adj) độc đáo /juːˈniːk/
+33. **discover** : (v) khám phá /dɪˈskʌvə/
+34. **contribute to** : đóng góp cho /kənˈtrɪbjuːt tuː/
 
 **Lan**: Chào Tom. Tôi nghe rằng bạn đã giành giải nhì trong Cuộc thi Kỳ quan Thiên nhiên. Chúc mừng\!
 
@@ -110,18 +110,18 @@ Hướng dẫn dịch:
 **A CLOSER LOOK 1**  
 **Vocabulary** 
 
-1. permit: (v) cho phép /pəˈmɪt/ (n) giấy phép /ˈpɜːmɪt/  
-2. once: (adv) một lần /wʌns/  
-3. paradise: (n) thiên đường /ˈpærədaɪs/  
-4. annual: (adj) hàng năm /ˈænjuəl/  
-5. diversity: (n) sự đa dạng /daɪˈvɜːsəti/  
-6. access: (n) sự tiếp cận /ˈækses/ (v) tiếp cận /ˈækses/  
-7. urgent: (adj) khẩn cấp /ˈɜːdʒənt/  
-8. reach: (v) đạt tới, với tới /riːtʃ/  
-9. a range of many things: một loạt nhiều thứ /ə reɪndʒ əv ˈmeni θɪŋz/  
-10. immediately: (adv) ngay lập tức /ɪˈmiːdiətli/  
-11. extremely: (adv) cực kỳ /ɪkˈstriːmli/  
-12. perfect: (adj) hoàn hảo /ˈpɜːfɪkt/ (v) hoàn thiện /pəˈfekt/
+1. **permit** : (v) cho phép /pəˈmɪt/ (n) giấy phép /ˈpɜːmɪt/
+2. **once** : (adv) một lần /wʌns/
+3. **paradise** : (n) thiên đường /ˈpærədaɪs/
+4. **annual** : (adj) hàng năm /ˈænjuəl/
+5. **diversity** : (n) sự đa dạng /daɪˈvɜːsəti/
+6. **access** : (n) sự tiếp cận /ˈækses/ (v) tiếp cận /ˈækses/
+7. **urgent** : (adj) khẩn cấp /ˈɜːdʒənt/
+8. **reach** : (v) đạt tới, với tới /riːtʃ/
+9. **a range of many things** : một loạt nhiều thứ /ə reɪndʒ əv ˈmeni θɪŋz/
+10. **immediately** : (adv) ngay lập tức /ɪˈmiːdiətli/
+11. **extremely** : (adv) cực kỳ /ɪkˈstriːmli/
+12. **perfect** : (adj) hoàn hảo /ˈpɜːfɪkt/ (v) hoàn thiện /pəˈfekt/
 
 **Bài 1: Đáp án:**
 
@@ -134,20 +134,20 @@ Hướng dẫn dịch:
 
 Giải thích:
 
-1. permit: cho phép hoặc làm cho một cái gì đó có thể  
-2. paradise: một nơi cực kỳ đẹp và có vẻ hoàn hảo  
-3. annual: xảy ra mỗi năm một lần  
-4. diversity: một loạt nhiều thứ rất khác nhau  
-5. access: một cách đi vào hoặc tiếp cận một địa điểm  
-6. urgent: việc đó cần phải được thực hiện hoặc xảy ra ngay lập tức
+1. **permit** : cho phép hoặc làm cho một cái gì đó có thể
+2. **paradise** : một nơi cực kỳ đẹp và có vẻ hoàn hảo
+3. **annual** : xảy ra mỗi năm một lần
+4. **diversity** : một loạt nhiều thứ rất khác nhau
+5. **access** : một cách đi vào hoặc tiếp cận một địa điểm
+6. **urgent** : việc đó cần phải được thực hiện hoặc xảy ra ngay lập tức
 
 Bài 2: Đáp án:
 
-1. location: vị trí  
-2. hesitation: chần chừ, do dự  
-3. exploration: sự khám phá  
-4. possession: tài sản, sự sở hữu  
-5. admiration: sự ngưỡng mộ
+1. **location** : vị trí
+2. **hesitation** : chần chừ, do dự
+3. **exploration** : sự khám phá
+4. **possession** : tài sản, sự sở hữu
+5. **admiration** : sự ngưỡng mộ
 
 Bài 3: Đáp án:
 
@@ -330,27 +330,27 @@ Dang wanted to know **whether** he was handsome or ugly.
 **COMMUNICATION**   
 **Vocabulary** 
 
-1. Can I \+ V0 ….?: Tôi có thể … không? /kæn aɪ/  
+1. **Can I \+ V0 ….?** : Tôi có thể … không? /kæn aɪ/
 2. No, you can't: Không, bạn không thể /nəʊ, juː kɑːnt/ Sure, go ahead: Dĩ nhiên rồi, cứ làm đi /ʃɔː, ɡəʊ əˈhed/  
 3. May I/we \+ V0 …?: Chúng tôi có thể … không? /meɪ aɪ/wiː/  
-4. permission: (n) quyền, phép /pəˈmɪʃn/  
-5. deadline: (n) hạn chót /ˈdedlaɪn/  
-6. submit: (v) nộp /səbˈmɪt/  
-7. be located off the coast of: nằm ngoài khơi bờ biển của /bi ləʊˈkeɪtɪd ɒf ðə kəʊst əv/  
-8. be formed by: được hình thành bởi /bi fɔːmd baɪ/  
-9. eruption: (n) sự phun trào /ɪˈrʌpʃn/  
-10. volcano: (n) núi lửa /vɒlˈkeɪnəʊ/  
-11. rank: (v) xếp hạng /ræŋk/  
-12. receive: (v) nhận /rɪˈsiːv/  
-13. adventurer: (n) nhà thám hiểm /ədˈventʃərə/  
-14. cover: (v) bao phủ /ˈkʌvə/  
-15. square kilometer: kilômét vuông /skweə ˈkɪləmiːtə/  
-16. sand dune: (n) đụn cát /sænd djuːn/  
-17. nomadic: (adj) du mục /nəʊˈmædɪk/  
-18. camel: (n) lạc đà /ˈkæml/  
-19. deep: (adj) sâu /diːp/  
-20. wide: (adj) rộng /waɪd/  
-21. magnificent: (adj) tráng lệ, hùng vĩ /mæɡˈnɪfɪsnt/  
+4. **permission** : (n) quyền, phép /pəˈmɪʃn/
+5. **deadline** : (n) hạn chót /ˈdedlaɪn/
+6. **submit** : (v) nộp /səbˈmɪt/
+7. **be located off the coast of** : nằm ngoài khơi bờ biển của /bi ləʊˈkeɪtɪd ɒf ðə kəʊst əv/
+8. **be formed by** : được hình thành bởi /bi fɔːmd baɪ/
+9. **eruption** : (n) sự phun trào /ɪˈrʌpʃn/
+10. **volcano** : (n) núi lửa /vɒlˈkeɪnəʊ/
+11. **rank** : (v) xếp hạng /ræŋk/
+12. **receive** : (v) nhận /rɪˈsiːv/
+13. **adventurer** : (n) nhà thám hiểm /ədˈventʃərə/
+14. **cover** : (v) bao phủ /ˈkʌvə/
+15. **square kilometer** : kilômét vuông /skweə ˈkɪləmiːtə/
+16. **sand dune** : (n) đụn cát /sænd djuːn/
+17. **nomadic** : (adj) du mục /nəʊˈmædɪk/
+18. **camel** : (n) lạc đà /ˈkæml/
+19. **deep** : (adj) sâu /diːp/
+20. **wide** : (adj) rộng /waɪd/
+21. **magnificent** : (adj) tráng lệ, hùng vĩ /mæɡˈnɪfɪsnt/
     
 
 **Bài 3 trang 76** 
@@ -396,10 +396,10 @@ Dãy Dolomites là một dãy núi ở Ý. Nó đã được công nhận là Di
 
 Dãy Dolomites là một nơi hùng vĩ. Chúng được đánh giá rộng rãi là một trong những cảnh quan núi hấp dẫn nhất thế giới. Có những vách đá gồ ghề, những đỉnh núi sắc nhọn, những thung lũng hẹp và sâu, cùng tuyết trắng phủ trên đỉnh núi. Phong cảnh tự nhiên của chúng thu hút du khách từ nhiều nơi trên thế giới.
 
-1. consider → c: cân nhắc   
-2. peak → d: đỉnh nhọn   
+1. **consider → c** : cân nhắc
+2. **peak → d** : đỉnh nhọn
 3. majestic → hùng vĩ → a   
-4. occur: xảy ra → b
+4. **occur** : xảy ra → b
 
 hesitate: cân nhắc 
 
@@ -435,14 +435,14 @@ hesitate: cân nhắc
 **SKILLS 2**   
 **Vocabulary** 
 
-1. rainforest: (n) rừng mưa nhiệt đới /ˈreɪnfɒrɪst/  
-2. flora: (n) quần thể thực vật /ˈflɔːrə/  
-3. fauna: (n) quần thể động vật /ˈfɔːnə/  
-4. climate: (n) khí hậu /ˈklaɪmət/  
-5. climate change: biến đổi khí hậu /ˈklaɪmət tʃeɪndʒ/  
-6. biodiversity: (n) đa dạng sinh học /ˌbaɪəʊdaɪˈvɜːsəti/  
-7. ecosystem: (n) hệ sinh thái /ˈiːkəʊˌsɪstəm/  
-8. green lung of the world: lá phổi xanh của trái đất /ɡriːn lʌŋ əv ðə wɜːld/
+1. **rainforest** : (n) rừng mưa nhiệt đới /ˈreɪnfɒrɪst/
+2. **flora** : (n) quần thể thực vật /ˈflɔːrə/
+3. **fauna** : (n) quần thể động vật /ˈfɔːnə/
+4. **climate** : (n) khí hậu /ˈklaɪmət/
+5. **climate change** : biến đổi khí hậu /ˈklaɪmət tʃeɪndʒ/
+6. **biodiversity** : (n) đa dạng sinh học /ˌbaɪəʊdaɪˈvɜːsəti/
+7. **ecosystem** : (n) hệ sinh thái /ˈiːkəʊˌsɪstəm/
+8. **green lung of the world** : lá phổi xanh của trái đất /ɡriːn lʌŋ əv ðə wɜːld/
 
 **WRITING** 
 
@@ -505,11 +505,11 @@ There is a beautiful landscape near my home. It is called Vinh Trang Pagoda. It 
 
 **Bài 2 trang 80** 
 
-1. possessions: tài sản  
-2. charming: thu hút   
-3. located: tọa lạc   
-4. explorer: nhà thám hiểm   
-5. permission: giấy phép, quyền 
+1. **possessions** : tài sản
+2. **charming** : thu hút
+3. **located** : tọa lạc
+4. **explorer** : nhà thám hiểm
+5. **permission** : giấy phép, quyền
 
 **Bài 3 trang 80** 
 

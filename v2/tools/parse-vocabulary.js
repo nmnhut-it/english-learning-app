@@ -300,10 +300,10 @@ class VocabularyParser {
     let unit = null;
     let lesson = null;
 
-    // Try to extract from directory name (g6, g7, g8, g10, g11, formatg6)
-    const dirMatch = dirPath.match(/(?:format)?g(\d+)/i);
+    // Try to extract from directory name (g6, g7, g8, g10, g11, formatg6, global-success-9)
+    const dirMatch = dirPath.match(/(?:format)?g(\d+)|global-success-(\d+)/i);
     if (dirMatch) {
-      grade = parseInt(dirMatch[1], 10);
+      grade = parseInt(dirMatch[1] || dirMatch[2], 10);
     }
 
     // Try to extract from filename

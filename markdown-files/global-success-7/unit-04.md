@@ -599,10 +599,10 @@ Complete unit vocabulary list covering:
 **Bài 1:** Write a word or phrase in each blank to go with the given verb.
 (Viết một từ hoặc cụm từ vào mỗi chỗ trống để đi với động từ cho sẵn)
 
-1. draw: a painting, a portrait, a picture
-2. perform: music, a show, on stage
-3. write: a song, music, a poem
-4. watch: TV, a film, a performance
+1. **draw** : a painting, a portrait, a picture
+2. **perform** : music, a show, on stage
+3. **write** : a song, music, a poem
+4. **watch** : TV, a film, a performance
 
 **Bài 2:** Fill in each gap with a word or phrase from the box to complete the passage.
 (Điền vào mỗi chỗ trống một từ hoặc cụm từ từ hộp để hoàn thành đoạn văn)

@@ -6,19 +6,19 @@
 Use the three-syllable nouns in this unit. Read out the correct answers in pairs when you finish.
 
 #### Clues:
-1. the advantage (of something); stress pattern: O_ _
+1. **the advantage (of something); stress pattern** : O_ _
    (lợi ích của cái gì đó; trọng âm O_ _)
 
-2. a new thing; stress pattern: _O_
+2. **a new thing; stress pattern** : _O_
    (một điều mới mẻ; trọng âm _O_)
 
-3. the M in (computer) RAM: stress pattern: O_ _
+3. **the M in (computer) RAM** : stress pattern: O_ _
    (M (máy vi tính) trong từ RAM; trọng âm O_ _)
 
-4. a device used for long-distance communication; stress pattern: O_ _
+4. **a device used for long-distance communication; stress pattern** : O_ _
    (một thiết bị được sử dụng cho giao tiếp từ xa; trọng âm O_ _)
 
-5. a modern device which allows us to store information; stress pattern: _O_
+5. **a modern device which allows us to store information; stress pattern** : _O_
    (một thiết bị hiện đại cho phép chúng ta lưu trữ thông tin; trọng âm _O_)
 
 #### Answer Key (Lời giải chi tiết):

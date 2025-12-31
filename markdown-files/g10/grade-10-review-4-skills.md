@@ -239,18 +239,18 @@ Có một số điều chúng ta nên làm để giảm tác động tiêu cực
 
 ## Vocabulary (Từ vựng)
 
-1. ancient: (adj) cổ xưa /ˈeɪnʃənt/
-2. architecture: (n) kiến trúc /ˈɑːkɪtektʃə(r)/
-3. pagoda: (n) chùa /pəˈɡəʊdə/
-4. carbon footprint: (n) dấu chân carbon /ˈkɑːbən ˈfʊtprɪnt/
-5. public transport: (n) phương tiện giao thông công cộng /ˈpʌblɪk ˈtrænspɔːt/
-6. interact: (v) tương tác /ˌɪntərˈækt/
-7. benefit: (v) có lợi cho /ˈbenɪfɪt/
-8. disturb: (v) làm xáo trộn /dɪˈstɜːb/
-9. eco-friendly: (adj) thân thiện với môi trường /ˌiːkəʊ ˈfrendli/
-10. ecosystem: (n) hệ sinh thái /ˈiːkəʊsɪstəm/
-11. wildlife park: (n) công viên động vật hoang dã /ˈwaɪldlaɪf pɑːk/
-12. organic farm: (n) trang trại hữu cơ /ɔːˈɡænɪk fɑːm/
-13. negative impact: (n) tác động tiêu cực /ˈneɡətɪv ˈɪmpækt/
-14. environmentally-friendly: (adj) thân thiện với môi trường /ɪnˌvaɪrənˈmentəli ˈfrendli/
-15. local people: (n) người dân địa phương /ˈləʊkl ˈpiːpl/
+1. **ancient** : (adj) cổ xưa /ˈeɪnʃənt/
+2. **architecture** : (n) kiến trúc /ˈɑːkɪtektʃə(r)/
+3. **pagoda** : (n) chùa /pəˈɡəʊdə/
+4. **carbon footprint** : (n) dấu chân carbon /ˈkɑːbən ˈfʊtprɪnt/
+5. **public transport** : (n) phương tiện giao thông công cộng /ˈpʌblɪk ˈtrænspɔːt/
+6. **interact** : (v) tương tác /ˌɪntərˈækt/
+7. **benefit** : (v) có lợi cho /ˈbenɪfɪt/
+8. **disturb** : (v) làm xáo trộn /dɪˈstɜːb/
+9. **eco-friendly** : (adj) thân thiện với môi trường /ˌiːkəʊ ˈfrendli/
+10. **ecosystem** : (n) hệ sinh thái /ˈiːkəʊsɪstəm/
+11. **wildlife park** : (n) công viên động vật hoang dã /ˈwaɪldlaɪf pɑːk/
+12. **organic farm** : (n) trang trại hữu cơ /ɔːˈɡænɪk fɑːm/
+13. **negative impact** : (n) tác động tiêu cực /ˈneɡətɪv ˈɪmpækt/
+14. **environmentally-friendly** : (adj) thân thiện với môi trường /ɪnˌvaɪrənˈmentəli ˈfrendli/
+15. **local people** : (n) người dân địa phương /ˈləʊkl ˈpiːpl/

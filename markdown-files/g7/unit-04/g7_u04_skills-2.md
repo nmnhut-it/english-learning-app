@@ -37,13 +37,13 @@
 
 **Vocabulary**
 
-1.  Rd \= road: đường /rô.d/   
-2. look forward to \+ Ving: trông mong, chờ đợi   
-3. Let’s \+ V0: chúng ta hãy …. đi  
+1. **Rd \= road** : đường /rô.d/
+2. **look forward to \+ Ving** : trông mong, chờ đợi
+3. **Let’s \+ V0** : chúng ta hãy …. đi
    Ví dụ: Let’s go to the cinema\!: Chúng ta hãy đi xem phim đi  
-4. What about \+ Ving: Còn việc …. thì sao?  
+4. **What about \+ Ving** : Còn việc …. thì sao?
    What about going to the cinema?: Còn việc đi xem phim thì sao.   
-5. order: (n) đơn hàng, trật tự, (v) ra lệnh, đặt hàng /ó đơ/   
+5. **order** : (n) đơn hàng, trật tự, (v) ra lệnh, đặt hàng /ó đơ/
    **Bài 4 trang 47**   
 1. Lá thư này là từ Châu tới …..   
    A. một người bạn → chọn 

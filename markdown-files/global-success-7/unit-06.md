@@ -2,32 +2,32 @@
 
 ## GETTING STARTED - BẮT ĐẦU
 ### 📚 Vocabulary - Từ vựng
-- **prepare** : (v) chuẩn bị /prɪˈpeə/
-- **visit** : (n/v) chuyến thăm, thăm /ˈvɪzɪt/
+1. **prepare** : (v) chuẩn bị /prɪˈpeə/
+2. **visit** : (n/v) chuyến thăm, thăm /ˈvɪzɪt/
 - **Lower Secondary School** : trường trung học cơ sở /ˈləʊə ˈsekəndri skuːl/
-- **well** : (adv) tốt; (n) cái giếng /wel/
-- **will** : (modal v) sẽ /wɪl/
-- **share** : (v) chia sẻ /ʃeə/
-- **see** : (v) thấy, gặp, nhìn /siː/
-- **meet** : (v) gặp /miːt/
+3. **well** : (adv) tốt; (n) cái giếng /wel/
+4. **will** : (modal v) sẽ /wɪl/
+5. **share** : (v) chia sẻ /ʃeə/
+6. **see** : (v) thấy, gặp, nhìn /siː/
+7. **meet** : (v) gặp /miːt/
 - **sound great** : nghe có vẻ tuyệt /saʊnd greɪt/
-- **neighbourhood** : (n) khu phố, hàng xóm /ˈneɪbəhʊd/
-- **classmate** : (n) bạn cùng lớp /ˈklɑːsmeɪt/
-- **there** : (adv) ở đó /ðeə/
-- **library** : (n) thư viện /ˈlaɪbrəri/
+8. **neighbourhood** : (n) khu phố, hàng xóm /ˈneɪbəhʊd/
+9. **classmate** : (n) bạn cùng lớp /ˈklɑːsmeɪt/
+10. **there** : (adv) ở đó /ðeə/
+11. **library** : (n) thư viện /ˈlaɪbrəri/
 - **computer room** : phòng máy tính /kəmˈpjuːtə ruːm/
-- **gym** : (n) phòng tập thể dục /dʒɪm/
-- **project** : (n) dự án /ˈprɒdʒekt/
-- **idea** : (n) ý tưởng /aɪˈdɪə/
-- **interesting** : (adj) thú vị /ˈɪntrəstɪŋ/
+12. **gym** : (n) phòng tập thể dục /dʒɪm/
+13. **project** : (n) dự án /ˈprɒdʒekt/
+14. **idea** : (n) ý tưởng /aɪˈdɪə/
+15. **interesting** : (adj) thú vị /ˈɪntrəstɪŋ/
 - **what else** : còn gì nữa /wɒt els/
 - **Go Green Club** : Câu lạc bộ Xanh /gəʊ griːn klʌb/
 - **take photo** : chụp ảnh /teɪk ˈfəʊtəʊ/
-- **fantastic** : (adj) tuyệt vời /fænˈtæstɪk/
-- **forget - forgot - forgot** : (v) quên /fəˈget - fəˈgɒt - fəˈgɒt/
-- **camera** : (n) máy ảnh /ˈkæmərə/
-- **almost** : (adv) gần như /ˈɔːlməʊst/
-- **remind** : (v) nhắc nhở /rɪˈmaɪnd/
+16. **fantastic** : (adj) tuyệt vời /fænˈtæstɪk/
+17. **forget - forgot - forgot** : (v) quên /fəˈget - fəˈgɒt - fəˈgɒt/
+18. **camera** : (n) máy ảnh /ˈkæmərə/
+19. **almost** : (adv) gần như /ˈɔːlməʊst/
+20. **remind** : (v) nhắc nhở /rɪˈmaɪnd/
 
 ### 💬 Content - Nội dung
 **Phong:** What are you doing, Mi?
@@ -124,20 +124,20 @@ B: In his classroom, room 302.
 
 ## A CLOSER LOOK 1 - TÌM HIỂU THÊM 1
 ### 📚 Vocabulary - Từ vựng
-- **can** : (v) có thể /kæn/ hoặc /kən/ (dạng yếu)
-- **countryside** : (n) vùng nông thôn, miền quê /ˈkʌntrɪsaɪd/
-- **garden** : (n) vườn /ˈgɑːdn/
-- **lab** : (n) phòng thí nghiệm /læb/
-- **magazine** : (n) tạp chí /ˌmægəˈziːn/
-- **meeting** : (n) cuộc họp, buổi gặp mặt /ˈmiːtɪŋ/
-- **noon** : (n) buổi trưa, giữa trưa /nuːn/
-- **on** : (prep) trên, ở trên; về (thời gian, chủ đề) /ɒn/
-- **rain** : (v) mưa /reɪn/
-- **entrance** : (n) lối vào, cổng vào; sự nhập học /ˈentrəns/
-- **examination** : (n) kỳ thi, sự kiểm tra /ɪgˌzæmɪˈneɪʃn/
-- **gifted** : (adj) có tài năng, có năng khiếu đặc biệt /ˈgɪftɪd/
-- **facility** : (n) cơ sở vật chất, thiết bị tiện nghi; khả năng /fəˈsɪləti/
-- **cover** : (v) che phủ, bao phủ; bao gồm /ˈkʌvə/
+1. **can** : (v) có thể /kæn/ hoặc /kən/ (dạng yếu)
+2. **countryside** : (n) vùng nông thôn, miền quê /ˈkʌntrɪsaɪd/
+3. **garden** : (n) vườn /ˈgɑːdn/
+4. **lab** : (n) phòng thí nghiệm /læb/
+5. **magazine** : (n) tạp chí /ˌmægəˈziːn/
+6. **meeting** : (n) cuộc họp, buổi gặp mặt /ˈmiːtɪŋ/
+7. **noon** : (n) buổi trưa, giữa trưa /nuːn/
+8. **on** : (prep) trên, ở trên; về (thời gian, chủ đề) /ɒn/
+9. **rain** : (v) mưa /reɪn/
+10. **entrance** : (n) lối vào, cổng vào; sự nhập học /ˈentrəns/
+11. **examination** : (n) kỳ thi, sự kiểm tra /ɪgˌzæmɪˈneɪʃn/
+12. **gifted** : (adj) có tài năng, có năng khiếu đặc biệt /ˈgɪftɪd/
+13. **facility** : (n) cơ sở vật chất, thiết bị tiện nghi; khả năng /fəˈsɪləti/
+14. **cover** : (v) che phủ, bao phủ; bao gồm /ˈkʌvə/
 - **entrance examination** : kỳ thi tuyển sinh, kỳ thi đầu vào /ˈentrəns ɪgˌzæmɪˈneɪʃən/
 - **school facilities** : cơ sở vật chất trường học /skuːl fəˈsɪlɪtiz/
 - **outdoor activities** : các hoạt động ngoài trời /ˈaʊtdɔː ækˈtɪvɪtiz/
@@ -206,9 +206,9 @@ A | B
 
 ## A CLOSER LOOK 2 - TÌM HIỂU THÊM 2
 ### 📚 Vocabulary - Từ vựng
-- **at** : (prep) tại, vào lúc /æt/
-- **in** : (prep) trong, vào /ɪn/
-- **on** : (prep) trên, vào (ngày) /ɒn/
+1. **at** : (prep) tại, vào lúc /æt/
+2. **in** : (prep) trong, vào /ɪn/
+3. **on** : (prep) trên, vào (ngày) /ɒn/
 
 ### 📖 Grammar - Ngữ pháp
 **Prepositions of time and place - Giới từ chỉ thời gian và nơi chốn**
@@ -310,9 +310,9 @@ Tom là học sinh tại một trường tư thục. Cậu ấy sống với b�
 - **Can you tell me more?** : Bạn có thể cho tôi biết thêm không? /kæn juː tel miː mɔː/
 - **Can you tell me why?** : Bạn có thể cho tôi biết tại sao không? /kæn juː tel miː waɪ/
 - **Can you tell me how?** : Bạn có thể cho tôi biết làm thế nào không? /kæn juː tel miː haʊ/
-- **leave** : (v) rời đi /liːv/
-- **introduce** : (v) giới thiệu /ˌɪntrəˈdjuːs/
-- **show** : (v) cho xem, trình bày /ʃəʊ/
+1. **leave** : (v) rời đi /liːv/
+2. **introduce** : (v) giới thiệu /ˌɪntrəˈdjuːs/
+3. **show** : (v) cho xem, trình bày /ʃəʊ/
 - **Wilson School** : Trường Wilson /ˈwɪlsn skuːl/
 - **primary school** : trường tiểu học /ˈpraɪməri skuːl/
 - **secondary school** : trường trung học /ˈsekəndri skuːl/
@@ -360,16 +360,16 @@ Wilson is the oldest school in the United States. It is for students from Year 7
 - **one of the** + plural noun : một trong những /wʌn əv ðə/
 - **on the bank of** : bên bờ /ɒn ðə bæŋk əv/
 - **used to** + V0 : đã từng /juːst tuː/
-- **rich** : (adj) giàu có, phong phú /rɪtʃ/
-- **royal** : (adj) thuộc hoàng gia, hoàng tộc /ˈrɔɪəl/
-- **well-known** : (adj) nổi tiếng, được biết đến rộng rãi /ˌwel ˈnəʊn/
+1. **rich** : (adj) giàu có, phong phú /rɪtʃ/
+2. **royal** : (adj) thuộc hoàng gia, hoàng tộc /ˈrɔɪəl/
+3. **well-known** : (adj) nổi tiếng, được biết đến rộng rãi /ˌwel ˈnəʊn/
 - **gifted student** : học sinh có năng khiếu /ˈgɪftɪd ˈstjuːdnt/
-- **such as** : (conj) chẳng hạn như, ví dụ như /sʌtʃ æz/
+4. **such as** : (conj) chẳng hạn như, ví dụ như /sʌtʃ æz/
 - **pass an entrance exam** : thi đỗ kỳ thi tuyển sinh /pɑːs ən ˈentrəns ɪgˈzæm/
-- **intelligent** : (adj) thông minh, sáng dạ /ɪnˈtelɪdʒənt/
-- **projector** : (n) máy chiếu /prəˈdʒektə/
-- **lab** : (n) phòng thí nghiệm /læb/
-- **facilities** : (n) cơ sở vật chất, trang thiết bị /fəˈsɪlətiz/
+5. **intelligent** : (adj) thông minh, sáng dạ /ɪnˈtelɪdʒənt/
+6. **projector** : (n) máy chiếu /prəˈdʒektə/
+7. **lab** : (n) phòng thí nghiệm /læb/
+8. **facilities** : (n) cơ sở vật chất, trang thiết bị /fəˈsɪlətiz/
 
 ### 📖 Reading - Đọc
 **Quoc Hoc - Hue**
@@ -421,13 +421,13 @@ Hiện nay, trường dành cho những học sinh có năng khiếu. Các em r�
 
 ## SKILLS 2 - KỸ NĂNG 2
 ### 📚 Vocabulary - Từ vựng
-- **reporter** : (n) phóng viên /rɪˈpɔːtə(r)/
-- **environment** : (n) môi trường /ɪnˈvaɪrənmənt/
-- **member** : (n) thành viên /ˈmembə(r)/
+1. **reporter** : (n) phóng viên /rɪˈpɔːtə(r)/
+2. **environment** : (n) môi trường /ɪnˈvaɪrənmənt/
+3. **member** : (n) thành viên /ˈmembə(r)/
 - **clean streets** : dọn dẹp đường phố /kliːn striːts/
-- **recycle** : (v) tái chế /ˌriːˈsaɪkl/
+4. **recycle** : (v) tái chế /ˌriːˈsaɪkl/
 - **grow vegetables** : trồng rau /grəʊ ˈvedʒtəbəlz/
-- **activity** : (n) hoạt động /ækˈtɪvəti/
+5. **activity** : (n) hoạt động /ækˈtɪvəti/
 
 ### 👂 Listening - Nghe
 **Bài 1: What do you think the students in the pictures are doing?**

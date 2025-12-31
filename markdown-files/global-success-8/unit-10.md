@@ -5,26 +5,26 @@
 ### 📚 Vocabulary - Từ vựng
 - **have a video conference** : có cuộc họp video /hæv ə ˈvɪdiəʊ ˈkɒnfərəns/
 - **technology club** : câu lạc bộ công nghệ /tekˈnɒlədʒi klʌb/
-- **exactly** : (adv) chính xác, đúng vậy /ɪɡˈzæktli/
+1. **exactly** : (adv) chính xác, đúng vậy /ɪɡˈzæktli/
 - **a bit worried** : hơi lo lắng /ə bɪt ˈwʌrid/
 - **You're kidding** : Bạn đùa đấy à /jɔː ˈkɪdɪŋ/
 - **do a practice call** : thực hiện cuộc gọi thử /duː ə ˈpræktɪs kɔːl/
 - **It's a piece of cake** : Điều đó rất dễ dàng /ɪts ə piːs əv keɪk/
-- **tablet** : (n) máy tính bảng /ˈtæblət/
-- **focus on** : (v) tập trung vào /ˈfəʊkəs ɒn/
-- **forehead** : (n) trán /ˈfɔːhed/
-- **adjust** : (v) điều chỉnh /əˈdʒʌst/
-- **button** : (n) nút /ˈbʌtn/
+2. **tablet** : (n) máy tính bảng /ˈtæblət/
+3. **focus on** : (v) tập trung vào /ˈfəʊkəs ɒn/
+4. **forehead** : (n) trán /ˈfɔːhed/
+5. **adjust** : (v) điều chỉnh /əˈdʒʌst/
+6. **button** : (n) nút /ˈbʌtn/
 - **zoom in** : phóng to /zuːm ɪn/
 - **zoom out** : thu nhỏ /zuːm aʊt/
-- **clearly** : (adv) rõ ràng /ˈklɪəli/
+7. **clearly** : (adv) rõ ràng /ˈklɪəli/
 - **of course** : dĩ nhiên, tất nhiên /əv kɔːs/
 - **go smoothly** : diễn ra suôn sẻ /ɡəʊ ˈsmuːðli/
 - **high-speed Internet connection** : kết nối Internet tốc độ cao /haɪ spiːd ˈɪntənet kəˈnekʃən/
-- **carrier pigeon** : (n) bồ câu đưa thư /ˈkæriə ˈpɪdʒɪn/
-- **telephone** : (n) điện thoại /ˈtelɪfəʊn/
-- **mobile phone** : (n phr) điện thoại di động /ˈməʊbaɪl fəʊn/
-- **social network** : (n phr) mạng xã hội /ˈsəʊʃəl ˈnetwɜːk/
+8. **carrier pigeon** : (n) bồ câu đưa thư /ˈkæriə ˈpɪdʒɪn/
+9. **telephone** : (n) điện thoại /ˈtelɪfəʊn/
+10. **mobile phone** : (n phr) điện thoại di động /ˈməʊbaɪl fəʊn/
+11. **social network** : (n phr) mạng xã hội /ˈsəʊʃəl ˈnetwɜːk/
 
 ### 💬 Content - Nội dung
 
@@ -151,19 +151,19 @@
 - **social network** : mạng xã hội /ˈsəʊʃəl ˈnetwɜːk/
 - **emoji** : biểu tượng cảm xúc /ɪˈməʊdʒi/
 - **group call** : cuộc gọi nhóm /ɡruːp kɔːl/
-- **holography** : (n) kỹ thuật ảnh ba chiều /həˈlɒɡrəfi/
+1. **holography** : (n) kỹ thuật ảnh ba chiều /həˈlɒɡrəfi/
 - **text message** : tin nhắn văn bản /tekst ˈmesɪdʒ/
 - **express one's feeling** : bày tỏ cảm xúc /ɪkˈspres wʌnz ˈfiːlɪŋ/
-- **teenager** : (n) thanh thiếu niên /ˈtiːneɪdʒə/
+2. **teenager** : (n) thanh thiếu niên /ˈtiːneɪdʒə/
 - **face to face** : trực tiếp, đối mặt /feɪs tə feɪs/
-- **translation** : (n) bản dịch, sự phiên dịch /trænsˈleɪʃən/
-- **instantly** : (adv) ngay lập tức /ˈɪnstəntli/
+3. **translation** : (n) bản dịch, sự phiên dịch /trænsˈleɪʃən/
+4. **instantly** : (adv) ngay lập tức /ˈɪnstəntli/
 - **overcome language barrier** : vượt qua rào cản ngôn ngữ /ˌəʊvəˈkʌm ˈlæŋɡwɪdʒ ˈbæriə/
 - **communicate in real time** : giao tiếp theo thời gian thực /kəˈmjuːnɪkeɪt ɪn rɪəl taɪm/
 - **translation machine** : máy phiên dịch /trænsˈleɪʃən məˈʃiːn/
-- **respond** : (v) phản hồi, trả lời /rɪˈspɒnd/
+5. **respond** : (v) phản hồi, trả lời /rɪˈspɒnd/
 - **feel like + Ving** : cảm thấy thích làm gì đó
-- **type** : (n) loại, (v) đánh máy /taɪp/
+6. **type** : (n) loại, (v) đánh máy /taɪp/
 - **private message** : tin nhắn riêng tư
 - **language barrier** : rào cản ngôn ngữ /ˈlæŋɡwɪdʒ ˈbæriə/
 - **in real time** : trong thời gian thực
@@ -287,10 +287,10 @@ Trọng âm thường rơi vào âm tiết cuối cùng với các từ có đu�
 
 #### Giới từ chỉ thời gian (Prepositions of time)
 
-1. **in + khoảng thời gian**: trong vòng … nữa
+1. **in + khoảng thời gian** : trong vòng … nữa
    - I will be back **in two days**: Tôi sẽ trở lại trong vòng hai ngày nữa
 
-2. **for + khoảng thời gian**: tính tới … thì được
+2. **for + khoảng thời gian** : tính tới … thì được
    - I have studied English **for two years**: Tôi đã học tiếng Anh tính tới nay được hai năm
 
 3. **by + mốc thời gian**: trước/tính tới thì … đã xong
@@ -339,7 +339,7 @@ Không đứng trước danh từ, dùng như 1 danh từ độc lập
 #### Bài 2: Circle the correct preposition in each sentence
 (Khoanh tròn giới từ đúng trong mỗi câu)
 
-1. Let's get ready by / on / for 10 a.m. We are meeting Dr Saito at 10:15.
+1. **Let's get ready by / on / for 10 a.m. We are meeting Dr Saito at 10** : 15.
 2. The first camera phone appeared on / at / in May 1999 in Japan.
 3. We will be away on / for / by two weeks.
 4. In the UK, supermarkets always close early in / by / on Sundays.
@@ -385,17 +385,17 @@ Tôi nghĩ là điện thoại thông minh sẽ thay đổi rất nhiều trong 
 ## COMMUNICATION - GIAO TIẾP
 
 ### 📚 Vocabulary - Từ vựng
-- **conference** : (n) hội nghị, cuộc họp /ˈkɒnfərəns/
+1. **conference** : (n) hội nghị, cuộc họp /ˈkɒnfərəns/
 - **sorry for interrupting** : xin lỗi vì đã ngắt lời /ˈsɒri fər ˌɪntəˈrʌptɪŋ/
 - **hold on** : chờ một chút /həʊld ɒn/
-- **repeat** : (v) lặp lại, nhắc lại /rɪˈpiːt/
-- **of all ages** : (phr) thuộc mọi lứa tuổi /əv ɔːl ˈeɪdʒɪz/
-- **emotion** : (n) cảm xúc, xúc cảm /ɪˈməʊʃən/
-- **regardless of** : (prep phr) bất kể, không phụ thuộc vào /rɪˈɡɑːdləs əv/
-- **smiley face** : (n) mặt cười /ˈsmaɪli feɪs/
-- **express** : (v) bày tỏ, diễn đạt, thể hiện /ɪkˈspres/
-- **replace** : (v) thay thế, thay đổi /rɪˈpleɪs/
-- **to a certain extent** : (phr) đến một mức độ nhất định /tə ə ˈsɜːtn ɪkˈstent/
+2. **repeat** : (v) lặp lại, nhắc lại /rɪˈpiːt/
+3. **of all ages** : (phr) thuộc mọi lứa tuổi /əv ɔːl ˈeɪdʒɪz/
+4. **emotion** : (n) cảm xúc, xúc cảm /ɪˈməʊʃən/
+5. **regardless of** : (prep phr) bất kể, không phụ thuộc vào /rɪˈɡɑːdləs əv/
+6. **smiley face** : (n) mặt cười /ˈsmaɪli feɪs/
+7. **express** : (v) bày tỏ, diễn đạt, thể hiện /ɪkˈspres/
+8. **replace** : (v) thay thế, thay đổi /rɪˈpleɪs/
+9. **to a certain extent** : (phr) đến một mức độ nhất định /tə ə ˈsɜːtn ɪkˈstent/
 
 ### 🗣️ Activities - Hoạt động
 
@@ -455,21 +455,21 @@ Tôi nghĩ là điện thoại thông minh sẽ thay đổi rất nhiều trong 
 ## SKILLS 1 - KỸ NĂNG 1
 
 ### 📚 Vocabulary - Từ vựng
-- **language barrier** : (n phr) rào cản ngôn ngữ /ˈlæŋɡwɪdʒ ˌbæriə/
-- **telepathy** : (n) thần giao cách cảm /təˈlepəθi/
-- **keep in contact** : (v phr) giữ liên lạc /kiːp ɪn ˈkɒntækt/
-- **text each other** : (v phr) nhắn tin cho nhau /tekst iːtʃ ˈʌðə/
-- **in person** : (adv phr) trực tiếp /ɪn ˈpɜːsn/
-- **via** : (prep) thông qua, qua /ˈvaɪə/
-- **advanced** : (adj) tiên tiến, cao cấp /ədˈvɑːnst/
-- **ability** : (n) khả năng /əˈbɪləti/
-- **thought** : (n) suy nghĩ, ý nghĩ /θɔːt/
-- **read one's mind** : (v phr) đọc suy nghĩ của ai /riːd wʌnz maɪnd/
-- **take advantage of** : (v phr) tận dụng, lợi dụng /teɪk ədˈvɑːntɪdʒ ɒv/
-- **lazy** : (adj) lười biếng /ˈleɪzi/
-- **control** : (v) kiểm soát /kənˈtrəʊl/
-- **device** : (n) thiết bị /dɪˈvaɪs/
-- **transmit** : (v) truyền, gửi /trænzˈmɪt/
+1. **language barrier** : (n phr) rào cản ngôn ngữ /ˈlæŋɡwɪdʒ ˌbæriə/
+2. **telepathy** : (n) thần giao cách cảm /təˈlepəθi/
+3. **keep in contact** : (v phr) giữ liên lạc /kiːp ɪn ˈkɒntækt/
+4. **text each other** : (v phr) nhắn tin cho nhau /tekst iːtʃ ˈʌðə/
+5. **in person** : (adv phr) trực tiếp /ɪn ˈpɜːsn/
+6. **via** : (prep) thông qua, qua /ˈvaɪə/
+7. **advanced** : (adj) tiên tiến, cao cấp /ədˈvɑːnst/
+8. **ability** : (n) khả năng /əˈbɪləti/
+9. **thought** : (n) suy nghĩ, ý nghĩ /θɔːt/
+10. **read one's mind** : (v phr) đọc suy nghĩ của ai /riːd wʌnz maɪnd/
+11. **take advantage of** : (v phr) tận dụng, lợi dụng /teɪk ədˈvɑːntɪdʒ ɒv/
+12. **lazy** : (adj) lười biếng /ˈleɪzi/
+13. **control** : (v) kiểm soát /kənˈtrəʊl/
+14. **device** : (n) thiết bị /dɪˈvaɪs/
+15. **transmit** : (v) truyền, gửi /trænzˈmɪt/
 
 ### 📖 Reading - Đọc
 
@@ -589,21 +589,21 @@ Tôi nghĩ có cả ưu điểm và nhược điểm của cuộc gọi trực t
 
 ### 📚 Vocabulary - Từ vựng
 - **be located + in/at/on + vị trí** : tọa lạc ở... /bi ləʊˈkeɪtɪd/
-- **climate** : (n) khí hậu /ˈklaɪmət/
-- **the Milky Way** : (n) dải Ngân Hà /ðə ˌmɪlki ˈweɪ/
-- **surface** : (n) bề mặt /ˈsɜːfɪs/
-- **dry** : (adj) khô /draɪ/
-- **thick skin** : (n phr) da dày /ˌθɪk ˈskɪn/
-- **protect** : (v) bảo vệ /prəˈtekt/
-- **liquid water** : (n phr) nước ở thể lỏng /ˌlɪkwɪd ˈwɔːtə/
-- **description** : (n) sự mô tả /dɪˈskrɪpʃən/
-- **dangerous** : (adj) nguy hiểm /ˈdeɪndʒərəs/
-- **hologram** : (n) hình chiếu lập thể /ˈhɒləɡræm/
-- **agenda** : (n) lịch trình /əˈdʒendə/
-- **announcement** : (n) thông báo /əˈnaʊnsmənt/
-- **ceremony** : (n) nghi thức, nghi lễ /ˈserɪməni/
-- **introductory talk** : (n phr) bài nói giới thiệu /ˌɪntrəˈdʌktəri tɔːk/
-- **exhibition** : (n) triển lãm /ˌeksɪˈbɪʃn/
+1. **climate** : (n) khí hậu /ˈklaɪmət/
+2. **the Milky Way** : (n) dải Ngân Hà /ðə ˌmɪlki ˈweɪ/
+3. **surface** : (n) bề mặt /ˈsɜːfɪs/
+4. **dry** : (adj) khô /draɪ/
+5. **thick skin** : (n phr) da dày /ˌθɪk ˈskɪn/
+6. **protect** : (v) bảo vệ /prəˈtekt/
+7. **liquid water** : (n phr) nước ở thể lỏng /ˌlɪkwɪd ˈwɔːtə/
+8. **description** : (n) sự mô tả /dɪˈskrɪpʃən/
+9. **dangerous** : (adj) nguy hiểm /ˈdeɪndʒərəs/
+10. **hologram** : (n) hình chiếu lập thể /ˈhɒləɡræm/
+11. **agenda** : (n) lịch trình /əˈdʒendə/
+12. **announcement** : (n) thông báo /əˈnaʊnsmənt/
+13. **ceremony** : (n) nghi thức, nghi lễ /ˈserɪməni/
+14. **introductory talk** : (n phr) bài nói giới thiệu /ˌɪntrəˈdʌktəri tɔːk/
+15. **exhibition** : (n) triển lãm /ˌeksɪˈbɪʃn/
 
 ### 👂 Listening - Nghe
 
@@ -619,10 +619,10 @@ Tôi nghĩ có cả ưu điểm và nhược điểm của cuộc gọi trực t
 Hi students! Here's our plan for the exhibition tomorrow morning. First, the opening ceremony is at the Main Hall. We'll listen to Dr. Lam introduce the exhibition. The ceremony starts at 8:30 a.m., so remember to meet me at the Main Hall by 8:20. Next, we'll visit the "History" section. It's on the first floor. You'll see pictures of different ways people communicated in the past, such as smoke signals and carrier pigeons. We'll be there from 9:15 to 10:00. Then, we'll move to the "Modern Time" section. It's in the Tech Room. You will see devices with internet connections, like smartphones and smartwatches. I'm sure you'll like it very much but we can only spend an hour there from 10:15 to 11:15. Finally, we'll watch an animated film in the Cinema Room. The film is about communication devices in the future, like personal translation machines and holography. We must be at the Cinema Room by 11:30 a.m.
 
 **Exhibition Programme:**
-1. 8:20
+1. **8** : 20
 2. first
 3. Modern
-4. 10:15
+4. **10** : 15
 5. Cinema
 
 **Answers:** 1-8:20, 2-first, 3-Modern, 4-10:15, 5-Cinema
@@ -735,11 +735,11 @@ in    at    for    opposite    by
    A                                          B        C     D
 
 **Answers:** 
-1. A - Sửa lại: A friend of mine
+1. **A - Sửa lại** : A friend of mine
 2. D - Sửa lại: the day before/the previous day
-3. B - Sửa lại: are going to be
-4. D - Sửa lại: 30 years' time
-5. C - Sửa lại: should
+3. **B - Sửa lại** : are going to be
+4. **D - Sửa lại** : 30 years' time
+5. **C - Sửa lại** : should
 
 ### PROJECT - DỰ ÁN
 

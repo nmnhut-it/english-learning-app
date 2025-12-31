@@ -3,35 +3,35 @@
 ## LANGUAGE - NGÔN NGỮ
 
 ### 📚 Vocabulary - Từ vựng
-- **traffic** : (n) giao thông /ˈtræfɪk/
-- **film** : (n) phim /fɪlm/
-- **festival** : (n) lễ hội /ˈfestɪvl/
-- **road sign** : (n) biển báo giao thông /rəʊd saɪn/
-- **documentary** : (n) phim tài liệu /ˌdɒkjuˈmentri/
-- **shocking** : (adj) gây sốc /ˈʃɒkɪŋ/
-- **Easter** : (n) Lễ Phục sinh /ˈiːstə/
-- **fantasy** : (n) phim giả tưởng /ˈfæntəsi/
-- **fairy** : (n) tiên /ˈfeəri/
-- **dragon** : (n) rồng /ˈdræɡən/
-- **ghost** : (n) ma /ɡəʊst/
-- **violent** : (adj) bạo lực /ˈvaɪələnt/
-- **fighting scene** : (n) cảnh đánh nhau /ˈfaɪtɪŋ siːn/
-- **transport** : (n) phương tiện giao thông /ˈtrænspɔːt/
+1. **traffic** : (n) giao thông /ˈtræfɪk/
+2. **film** : (n) phim /fɪlm/
+3. **festival** : (n) lễ hội /ˈfestɪvl/
+4. **road sign** : (n) biển báo giao thông /rəʊd saɪn/
+5. **documentary** : (n) phim tài liệu /ˌdɒkjuˈmentri/
+6. **shocking** : (adj) gây sốc /ˈʃɒkɪŋ/
+7. **Easter** : (n) Lễ Phục sinh /ˈiːstə/
+8. **fantasy** : (n) phim giả tưởng /ˈfæntəsi/
+9. **fairy** : (n) tiên /ˈfeəri/
+10. **dragon** : (n) rồng /ˈdræɡən/
+11. **ghost** : (n) ma /ɡəʊst/
+12. **violent** : (adj) bạo lực /ˈvaɪələnt/
+13. **fighting scene** : (n) cảnh đánh nhau /ˈfaɪtɪŋ siːn/
+14. **transport** : (n) phương tiện giao thông /ˈtrænspɔːt/
 - **no cycling** : cấm xe đạp /nəʊ ˈsaɪklɪŋ/
 - **no parking** : cấm đậu xe /nəʊ ˈpɑːkɪŋ/
 - **no right turn** : cấm rẽ phải /nəʊ raɪt tɜːn/
 - **cycle lane** : làn đường dành cho xe đạp /ˈsaɪkl leɪn/
-- **unusual** : (adj) khác thường /ʌnˈjuːʒuəl/
-- **tomato** : (n) cà chua /təˈmɑːtəʊ/
-- **pole** : (n) cột /pəʊl/
-- **ham** : (n) giăm bông /hæm/
-- **jet of water** : (n) tia nước /dʒet əv ˈwɔːtə/
-- **water cannon** : (n) vòi rồng /ˈwɔːtə ˈkænən/
-- **paella** : (n) món cơm Tây Ban Nha /paɪˈelə/
-- **herbs** : (n) rau thơm /hɜːbz/
-- **relationship** : (n) mối quan hệ /rɪˈleɪʃnʃɪp/
-- **quality time** : (n) thời gian chất lượng /ˈkwɒləti taɪm/
-- **language skills** : (n) kỹ năng ngôn ngữ /ˈlæŋɡwɪdʒ skɪlz/
+15. **unusual** : (adj) khác thường /ʌnˈjuːʒuəl/
+16. **tomato** : (n) cà chua /təˈmɑːtəʊ/
+17. **pole** : (n) cột /pəʊl/
+18. **ham** : (n) giăm bông /hæm/
+19. **jet of water** : (n) tia nước /dʒet əv ˈwɔːtə/
+20. **water cannon** : (n) vòi rồng /ˈwɔːtə ˈkænən/
+21. **paella** : (n) món cơm Tây Ban Nha /paɪˈelə/
+22. **herbs** : (n) rau thơm /hɜːbz/
+23. **relationship** : (n) mối quan hệ /rɪˈleɪʃnʃɪp/
+24. **quality time** : (n) thời gian chất lượng /ˈkwɒləti taɪm/
+25. **language skills** : (n) kỹ năng ngôn ngữ /ˈlæŋɡwɪdʒ skɪlz/
 
 ### 🗣️ Pronunciation - Phát âm
 
@@ -126,26 +126,26 @@
 ## SKILLS - KỸ NĂNG
 
 ### 📚 Vocabulary - Từ vựng
-- **La Tomatina** : (n) lễ hội cà chua /la tɒməˈtiːnə/
-- **fun fight** : (n) cuộc chiến vui vẻ /fʌn faɪt/
-- **town square** : (n) quảng trường thị trấn /taʊn skweə/
-- **climb** : (v) leo trèo /klaɪm/
-- **throw** : (v) ném /θrəʊ/
-- **crowd** : (n) đám đông /kraʊd/
-- **river of tomato juice** : (n) dòng sông nước cà chua /ˈrɪvə əv təˈmɑːtəʊ dʒuːs/
-- **traditional** : (adj) truyền thống /trəˈdɪʃənl/
-- **seafood** : (n) hải sản /ˈsiːfuːd/
-- **entertainment** : (n) giải trí /ˌentəˈteɪnmənt/
-- **improve** : (v) cải thiện /ɪmˈpruːv/
-- **bring closer** : (v) mang lại gần nhau hơn /brɪŋ ˈkləʊsə/
-- **share** : (v) chia sẻ /ʃeə/
-- **means of transport** : (n) phương tiện giao thông /miːnz əv ˈtrænspɔːt/
-- **eco-friendly** : (adj) thân thiện với môi trường /ˈiːkəʊ ˈfrendli/
-- **reduce** : (v) giảm /rɪˈdjuːs/
-- **air pollution** : (n) ô nhiễm không khí /eə pəˈluːʃn/
-- **traffic jam** : (n) tắc đường /ˈtræfɪk dʒæm/
-- **cheap** : (adj) rẻ /tʃiːp/
-- **convenient** : (adj) thuận tiện /kənˈviːniənt/
+1. **La Tomatina** : (n) lễ hội cà chua /la tɒməˈtiːnə/
+2. **fun fight** : (n) cuộc chiến vui vẻ /fʌn faɪt/
+3. **town square** : (n) quảng trường thị trấn /taʊn skweə/
+4. **climb** : (v) leo trèo /klaɪm/
+5. **throw** : (v) ném /θrəʊ/
+6. **crowd** : (n) đám đông /kraʊd/
+7. **river of tomato juice** : (n) dòng sông nước cà chua /ˈrɪvə əv təˈmɑːtəʊ dʒuːs/
+8. **traditional** : (adj) truyền thống /trəˈdɪʃənl/
+9. **seafood** : (n) hải sản /ˈsiːfuːd/
+10. **entertainment** : (n) giải trí /ˌentəˈteɪnmənt/
+11. **improve** : (v) cải thiện /ɪmˈpruːv/
+12. **bring closer** : (v) mang lại gần nhau hơn /brɪŋ ˈkləʊsə/
+13. **share** : (v) chia sẻ /ʃeə/
+14. **means of transport** : (n) phương tiện giao thông /miːnz əv ˈtrænspɔːt/
+15. **eco-friendly** : (adj) thân thiện với môi trường /ˈiːkəʊ ˈfrendli/
+16. **reduce** : (v) giảm /rɪˈdjuːs/
+17. **air pollution** : (n) ô nhiễm không khí /eə pəˈluːʃn/
+18. **traffic jam** : (n) tắc đường /ˈtræfɪk dʒæm/
+19. **cheap** : (adj) rẻ /tʃiːp/
+20. **convenient** : (adj) thuận tiện /kənˈviːniənt/
 
 ### 📖 Reading - Đọc
 

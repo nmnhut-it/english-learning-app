@@ -4,11 +4,11 @@
 
 ### New words
 
-1. kindergarten: (n) trường mẫu giáo, lớp mẫu giáo /ˈkɪndəɡɑːtn/
-2. adorable: (adj) đáng yêu, dễ thương /əˈdɔːrəbl/
-3. surgeon: (n) bác sĩ phẫu thuật /ˈsɜːdʒən/
-4. treat: (v) đối xử, xử lý, điều trị /triːt/
-5. treated: (v) đã đối xử, đã xử lý, đã điều trị /ˈtriːtɪd/
+1. **kindergarten** : (n) trường mẫu giáo, lớp mẫu giáo /ˈkɪndəɡɑːtn/
+2. **adorable** : (adj) đáng yêu, dễ thương /əˈdɔːrəbl/
+3. **surgeon** : (n) bác sĩ phẫu thuật /ˈsɜːdʒən/
+4. **treat** : (v) đối xử, xử lý, điều trị /triːt/
+5. **treated** : (v) đã đối xử, đã xử lý, đã điều trị /ˈtriːtɪd/
 
 ### Dialogue
 

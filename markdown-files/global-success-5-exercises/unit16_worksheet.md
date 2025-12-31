@@ -231,10 +231,10 @@ Complete the conversations:
 2. A: _______________________________? (winter)
    B: I wear a jumper and trousers.
 
-3. A: How's the weather in Sydney in summer?
+3. **A** : How's the weather in Sydney in summer?
    B: _______________________________
 
-4. A: What do you usually wear in autumn?
+4. **A** : What do you usually wear in autumn?
    B: _______________________________
 
 ### Exercise 13: Choose the best answer

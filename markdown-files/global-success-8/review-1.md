@@ -3,31 +3,31 @@
 ## LANGUAGE - NGỮ PHÁP
 
 ### 📚 Vocabulary - Từ vựng
-- **good** : (adj) tốt /ɡʊd/
-- **cool** : (adj) mát mẻ, tuyệt /kuːl/
-- **foot** : (n) bàn chân /fʊt/
-- **cook** : (v) nấu ăn /kʊk/
-- **June** : (n) tháng Sáu /dʒuːn/
-- **rude** : (adj) thô lỗ /ruːd/
-- **truth** : (n) sự thật /truːθ/
-- **put** : (v) đặt, để /pʊt/
-- **village** : (n) làng /ˈvɪl.ɪdʒ/
-- **buffalo** : (n) con trâu /ˈbʌf.ə.ləʊ/
-- **cottage** : (n) nhà tranh /ˈkɒt.ɪdʒ/
-- **shortage** : (n) sự thiếu hụt /ˈʃɔː.tɪdʒ/
-- **ensure** : (v) đảm bảo /ɪnˈʃɔːr/
-- **insure** : (v) bảo hiểm /ɪnˈʃɔːr/
-- **picture** : (n) bức tranh /ˈpɪk.tʃər/
-- **surely** : (adv) chắc chắn /ˈʃɔː.li/
-- **avoid** : (v) tránh /əˈvɔɪd/
-- **doing** : (v-ing) làm /ˈduː.ɪŋ/
-- **choice** : (n) sự lựa chọn /tʃɔɪs/
-- **join** : (v) tham gia /dʒɔɪn/
-- **bully** : (n) kẻ bắt nạt /ˈbʊl.i/
-- **trained** : (adj) được huấn luyện /treɪnd/
-- **hospitable** : (adj) hiếu khách /hɒsˈpɪt.ə.bəl/
-- **pressure** : (n) áp lực /ˈpreʃ.ər/
-- **focus** : (v) tập trung /ˈfəʊ.kəs/
+1. **good** : (adj) tốt /ɡʊd/
+2. **cool** : (adj) mát mẻ, tuyệt /kuːl/
+3. **foot** : (n) bàn chân /fʊt/
+4. **cook** : (v) nấu ăn /kʊk/
+5. **June** : (n) tháng Sáu /dʒuːn/
+6. **rude** : (adj) thô lỗ /ruːd/
+7. **truth** : (n) sự thật /truːθ/
+8. **put** : (v) đặt, để /pʊt/
+9. **village** : (n) làng /ˈvɪl.ɪdʒ/
+10. **buffalo** : (n) con trâu /ˈbʌf.ə.ləʊ/
+11. **cottage** : (n) nhà tranh /ˈkɒt.ɪdʒ/
+12. **shortage** : (n) sự thiếu hụt /ˈʃɔː.tɪdʒ/
+13. **ensure** : (v) đảm bảo /ɪnˈʃɔːr/
+14. **insure** : (v) bảo hiểm /ɪnˈʃɔːr/
+15. **picture** : (n) bức tranh /ˈpɪk.tʃər/
+16. **surely** : (adv) chắc chắn /ˈʃɔː.li/
+17. **avoid** : (v) tránh /əˈvɔɪd/
+18. **doing** : (v-ing) làm /ˈduː.ɪŋ/
+19. **choice** : (n) sự lựa chọn /tʃɔɪs/
+20. **join** : (v) tham gia /dʒɔɪn/
+21. **bully** : (n) kẻ bắt nạt /ˈbʊl.i/
+22. **trained** : (adj) được huấn luyện /treɪnd/
+23. **hospitable** : (adj) hiếu khách /hɒsˈpɪt.ə.bəl/
+24. **pressure** : (n) áp lực /ˈpreʃ.ər/
+25. **focus** : (v) tập trung /ˈfəʊ.kəs/
 
 ### 🗣️ Pronunciation - Phát âm
 #### Sounds /ʊ/ and /uː/
@@ -142,24 +142,24 @@
 ## SKILLS - KỸ NĂNG
 
 ### 📚 Vocabulary - Từ vựng
-- **stress** : (n) căng thẳng /stres/
-- **normal** : (adj) bình thường /ˈnɔː.məl/
-- **dangerous** : (adj) nguy hiểm /ˈdeɪn.dʒər.əs/
-- **strategy** : (n) chiến lược /ˈstræt.ə.dʒi/
-- **manage** : (v) quản lý /ˈmæn.ɪdʒ/
-- **smartphone** : (n) điện thoại thông minh /ˈsmɑːt.fəʊn/
-- **physical** : (adj) thể chất /ˈfɪz.ɪ.kəl/
-- **trust** : (v) tin tưởng /trʌst/
-- **reduce** : (v) giảm /rɪˈdjuːs/
-- **relaxed** : (adj) thư giãn /rɪˈlækst/
-- **nature** : (n) thiên nhiên /ˈneɪ.tʃər/
-- **fresh air** : (n) không khí trong lành /freʃ eər/
-- **entertainment** : (n) giải trí /ˌen.təˈteɪn.mənt/
-- **convenient** : (adj) thuận tiện /kənˈviː.ni.ənt/
-- **public transport** : (n) phương tiện công cộng /ˈpʌb.lɪk ˈtræn.spɔːt/
-- **peaceful** : (adj) yên bình /ˈpiːs.fəl/
-- **quiet** : (adj) yên tĩnh /ˈkwaɪ.ət/
-- **friendly** : (adj) thân thiện /ˈfrend.li/
+1. **stress** : (n) căng thẳng /stres/
+2. **normal** : (adj) bình thường /ˈnɔː.məl/
+3. **dangerous** : (adj) nguy hiểm /ˈdeɪn.dʒər.əs/
+4. **strategy** : (n) chiến lược /ˈstræt.ə.dʒi/
+5. **manage** : (v) quản lý /ˈmæn.ɪdʒ/
+6. **smartphone** : (n) điện thoại thông minh /ˈsmɑːt.fəʊn/
+7. **physical** : (adj) thể chất /ˈfɪz.ɪ.kəl/
+8. **trust** : (v) tin tưởng /trʌst/
+9. **reduce** : (v) giảm /rɪˈdjuːs/
+10. **relaxed** : (adj) thư giãn /rɪˈlækst/
+11. **nature** : (n) thiên nhiên /ˈneɪ.tʃər/
+12. **fresh air** : (n) không khí trong lành /freʃ eər/
+13. **entertainment** : (n) giải trí /ˌen.təˈteɪn.mənt/
+14. **convenient** : (adj) thuận tiện /kənˈviː.ni.ənt/
+15. **public transport** : (n) phương tiện công cộng /ˈpʌb.lɪk ˈtræn.spɔːt/
+16. **peaceful** : (adj) yên bình /ˈpiːs.fəl/
+17. **quiet** : (adj) yên tĩnh /ˈkwaɪ.ət/
+18. **friendly** : (adj) thân thiện /ˈfrend.li/
 
 ### 📖 Reading - Đọc
 

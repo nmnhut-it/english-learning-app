@@ -4,21 +4,21 @@
 
 **Vocabulary** 
 
-1. at \+ điểm nhỏ \= in \+ vùng/không gian: ở …   
-2. on: ở trên  
-3. in front of: ở phía trước   
-4. opposite: đối diện   
-5. behind: ở phía sau   
-6. under: ở dưới 
+1. **at \+ điểm nhỏ \= in \+ vùng/không gian** : ở …
+2. **on** : ở trên
+3. **in front of** : ở phía trước
+4. **opposite** : đối diện
+5. **behind** : ở phía sau
+6. **under** : ở dưới
 
 **Bài 1 trang 107** 
 
-1. at the end of this street: ở cuối con đường này   
-2. opposite each other: đối diện nhau   
-3. looked under the table: nhìn dưới bàn   
-4. in the street: trong lòng đường   
+1. **at the end of this street** : ở cuối con đường này
+2. **opposite each other** : đối diện nhau
+3. **looked under the table** : nhìn dưới bàn
+4. **in the street** : trong lòng đường
    on the pavement: trên vỉa hè  
-5. in front of: phía trước 
+5. **in front of** : phía trước
 
 **Bài 2 trang 107** 
 

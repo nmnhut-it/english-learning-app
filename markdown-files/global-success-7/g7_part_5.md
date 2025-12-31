@@ -29,16 +29,16 @@
 23. **melon juice** (n) nước ép dưa /ˈmɛl.ən dʒuːs/  
 24. **I’ll be right back with your order** tôi sẽ quay lại ngay với món bạn gọi /aɪl biː raɪt bæk wɪð jɔːr ˈɔː.dər/  
 25. **menu** (n) thực đơn /ˈmen.juː/  
-26. What can I get you: Tôi có thể lấy gì cho bạn?   
-27. also: cũng   
-28. some: một ít, một vài   
-29. could \= can: có thể   
-30. would you like: bạn có muốn   
-31. try: thử, cố gắng   
-32. please: làm ơn /pli:z/   
-33. soup: súp  
-34. think: nghĩ   
-35. for: cho
+26. **What can I get you** : Tôi có thể lấy gì cho bạn?
+27. **also** : cũng
+28. **some** : một ít, một vài
+29. **could \= can** : có thể
+30. **would you like** : bạn có muốn
+31. **try** : thử, cố gắng
+32. **please** : làm ơn /pli:z/
+33. **soup** : súp
+34. **think** : nghĩ
+35. **for** : cho
 
 **Waiter**: Chào buổi tối. Tôi có thể phục vụ gì cho bạn hôm nay?
 
@@ -332,11 +332,11 @@ Ví dụ: How much are five apples? → They are 20000 Viet Nam Dong.
 
 **Vocabulary** 
 
-1. bowl: (n) tô /bəʊl/  
-2. toast: (n) bánh mì nướng /təʊst/  
-3. eel: (n) lươn, con lươn /iːl/  
-4. mineral water: nước khoáng /ˈmɪnərəl ˈwɔːtə/  
-5. glass: (n) li /glɑːs/  
+1. **bowl** : (n) tô /bəʊl/
+2. **toast** : (n) bánh mì nướng /təʊst/
+3. **eel** : (n) lươn, con lươn /iːl/
+4. **mineral water** : nước khoáng /ˈmɪnərəl ˈwɔːtə/
+5. **glass** : (n) li /glɑːs/
 1. How much is a bowl of beef noodle soup?  
    → It is 30 000 dong (thirty **thousand \= nghìn** /táo zần/ dong)  
 2. How much is a bowl of eel soup?  
@@ -360,36 +360,36 @@ Ví dụ: How much are five apples? → They are 20000 Viet Nam Dong.
 
 **Vocabulary** 
 
-1. popular: (adj) phổ biến, được nhiều người ưa thích /ˈpɒpjələ/  
-2. snack: (n) đồ ăn nhẹ /snæk/  
-3. taste: (n) vị, (v) nếm, cho ra vị /teɪst/  
-4. broth: (n) nước hầm thịt /brɒθ/  
-5. stew: (v) hầm /stjuː/  
-6. boneless: (adj) không xương, rút xương /ˈbəʊnləs/  
-7. special: (adj) đặc biệt /ˈspeʃl/  
-8. kind: (n) loại /kaɪnd/  
-9. traditional: (adj) truyền thống /trəˈdɪʃənl/  
-10. dish: (n) món ăn /dɪʃ/  
-11. main: (adj) chính /meɪn/  
-12. ingredient: (n) nguyên liệu /ɪnˈgriːdiənt/  
-13. rice noodle: mì gạo, bún, phở /raɪs ˈnuːdl/  
-14. slice: (v) thái lát, (n) lát /slaɪs/  
-15. chicken: (không đếm được) thịt gà /ˈtʃɪkɪn/  
-16. common: (adj) phổ biến /ˈkɒmən/  
-17. one of the \+ danh từ số nhiều: một trong những /wʌn əv ðə/  
-18. enjoy: (v) thích, (v) thưởng thức /ɪnˈdʒɔɪ/  
-19. even: thậm chí /ˈiːvn/  
-20. event: sự kiện /ɪˈvent/   
-21. at all times of the day: vào mọi thời điểm trong ngày /æt ɔːl taɪmz əv ðə deɪ/  
-22. are made from: được làm từ /ɑː meɪd frəm/  
-23. bone: (n) xương /bəʊn/  
-24. pot: (n) nồi, chậu /pɒt/  
-25. meat: thịt /miːt/  
-26. serve: (v) phục vụ, dọn /sɜːv/  
-27. really: thực sự /ˈrɪəli/  
-28. delicious: (adj) ngon /dɪˈlɪʃəs/  
-29. area: khu vực /ˈeəriə/  
-30. find \+ cái gì đó \+ tính từ: cảm thấy \<cái gì đó\> \<thế nào\>  
+1. **popular** : (adj) phổ biến, được nhiều người ưa thích /ˈpɒpjələ/
+2. **snack** : (n) đồ ăn nhẹ /snæk/
+3. **taste** : (n) vị, (v) nếm, cho ra vị /teɪst/
+4. **broth** : (n) nước hầm thịt /brɒθ/
+5. **stew** : (v) hầm /stjuː/
+6. **boneless** : (adj) không xương, rút xương /ˈbəʊnləs/
+7. **special** : (adj) đặc biệt /ˈspeʃl/
+8. **kind** : (n) loại /kaɪnd/
+9. **traditional** : (adj) truyền thống /trəˈdɪʃənl/
+10. **dish** : (n) món ăn /dɪʃ/
+11. **main** : (adj) chính /meɪn/
+12. **ingredient** : (n) nguyên liệu /ɪnˈgriːdiənt/
+13. **rice noodle** : mì gạo, bún, phở /raɪs ˈnuːdl/
+14. **slice** : (v) thái lát, (n) lát /slaɪs/
+15. **chicken** : (không đếm được) thịt gà /ˈtʃɪkɪn/
+16. **common** : (adj) phổ biến /ˈkɒmən/
+17. **one of the \+ danh từ số nhiều** : một trong những /wʌn əv ðə/
+18. **enjoy** : (v) thích, (v) thưởng thức /ɪnˈdʒɔɪ/
+19. **even** : thậm chí /ˈiːvn/
+20. **event** : sự kiện /ɪˈvent/
+21. **at all times of the day** : vào mọi thời điểm trong ngày /æt ɔːl taɪmz əv ðə deɪ/
+22. **are made from** : được làm từ /ɑː meɪd frəm/
+23. **bone** : (n) xương /bəʊn/
+24. **pot** : (n) nồi, chậu /pɒt/
+25. **meat** : thịt /miːt/
+26. **serve** : (v) phục vụ, dọn /sɜːv/
+27. **really** : thực sự /ˈrɪəli/
+28. **delicious** : (adj) ngon /dɪˈlɪʃəs/
+29. **area** : khu vực /ˈeəriə/
+30. **find \+ cái gì đó \+ tính từ** : cảm thấy \<cái gì đó\> \<thế nào\>
     I find him annoying: tôi cảm thấy anh ta phiền quá.   
     
 

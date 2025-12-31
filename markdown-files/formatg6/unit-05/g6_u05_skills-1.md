@@ -9,7 +9,7 @@
 3. bike \- (n) xe đạp /baik/  
 4. cave (caves) \- (n) hang động /keɪv/  
 5. colour (colours) \- (n) màu sắc /'kʌlə/  
-6. fly \- (v) thả, cho bay (trong ngữ cảnh: thả diều) /flaɪ/  
+6. **fly \- (v) thả, cho bay (trong ngữ cảnh** : thả diều) /flaɪ/
 7. here \- (trạng từ) ở đây /hɪə/  
 8. kite (kites) \- (n) diều, cánh diều /kaɪt/  
 9. landscape (landscapes) \- (n) phong cảnh, cảnh quan /'lændskeɪp/  
@@ -17,7 +17,7 @@
 11. popular \- (tính từ) nổi tiếng, được ưa chuộng /'pɒpjʊlə/  
 12. ride \- (v) đi, chạy (xe đạp) /raɪd/  
 13. slope (slopes) \- (n) sườn dốc, triền cát /sləʊp/  
-14. wear \- (v) mặc, đeo (trong ngữ cảnh: bôi, thoa kem chống nắng) /weə/
+14. **wear \- (v) mặc, đeo (trong ngữ cảnh** : bôi, thoa kem chống nắng) /weə/
 
 Vịnh Hạ Long thì ở Quảng Ninh. Nó có nhiều hòn đảo và hang động. Tuần Châu, với nhiều bãi biển đẹp của nó, là một điểm thu hút khách du lịch phổ biến ở Vịnh Hạ Long . Ở đó bạn có thể thưởng thức hải sản tuyệt vời. Và bạn có thể tham gia vào những hoạt động thú vị. Vịnh Hạ Long là kì quan thiên nhiên đẹp nhất của Việt Nam.
 

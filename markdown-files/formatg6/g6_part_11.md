@@ -3,24 +3,24 @@
 **GETTING STARTED**   
 **Vocabulary** 
 
-1. You've bought a lot of things: Bạn đã mua nhiều thứ /juːv bɔːt ə lɒt əv θɪŋz/   
-2. we're going on a picnic: chúng ta sẽ đi dã ngoại /wɪə ˈɡəʊɪŋ ɒn ə ˈpɪknɪk/  
-3. tomorrow: (n) ngày mai /təˈmɒrəʊ/  
-4. what are you doing at the supermarket: bạn đang làm gì ở siêu thị /wɒt ə juː ˈduːɪŋ ət ðə ˈsuːpəˌmɑːkɪt/  
-5. buy some eggs: mua một ít trứng /baɪ sʌm eɡz/  
-6. a reusable shopping bag: một túi mua sắm có thể tái sử dụng /ə ˌriːˈjuːzəbl ˈʃɒpɪŋ bæɡ/  
-7. better than: tốt hơn /ˈbetə ðæn/  
-8. plastic: (n) nhựa /ˈplæstɪk/  
-9. this kind of bag: loại túi này /ðɪs kaɪnd əv bæɡ/  
-10. help the environment: giúp môi trường /help ði ɪnˈvaɪrənmənt/  
-11. buy \- bought \- bought: (v) mua /baɪ \- bɔːt \- bɔːt/  
-12. at the check-out: tại quầy thanh toán /ət ðə ˈtʃek aʊt/  
-13. by the way: nhân tiện /baɪ ðə weɪ/  
-14. also: (adv) cũng /ˈɔːlsəʊ/  
-15. the air: không khí /ði eə/  
-16. already: (adv) đã rồi, đã xong /ɔːlˈredi/  
-17. have to \+ V0: phải \+ động từ nguyên thể /hæv tuː/  
-18. see you later: gặp lại bạn sau /siː juː ˈleɪtə/
+1. **You've bought a lot of things** : Bạn đã mua nhiều thứ /juːv bɔːt ə lɒt əv θɪŋz/
+2. **we're going on a picnic** : chúng ta sẽ đi dã ngoại /wɪə ˈɡəʊɪŋ ɒn ə ˈpɪknɪk/
+3. **tomorrow** : (n) ngày mai /təˈmɒrəʊ/
+4. **what are you doing at the supermarket** : bạn đang làm gì ở siêu thị /wɒt ə juː ˈduːɪŋ ət ðə ˈsuːpəˌmɑːkɪt/
+5. **buy some eggs** : mua một ít trứng /baɪ sʌm eɡz/
+6. **a reusable shopping bag** : một túi mua sắm có thể tái sử dụng /ə ˌriːˈjuːzəbl ˈʃɒpɪŋ bæɡ/
+7. **better than** : tốt hơn /ˈbetə ðæn/
+8. **plastic** : (n) nhựa /ˈplæstɪk/
+9. **this kind of bag** : loại túi này /ðɪs kaɪnd əv bæɡ/
+10. **help the environment** : giúp môi trường /help ði ɪnˈvaɪrənmənt/
+11. **buy \- bought \- bought** : (v) mua /baɪ \- bɔːt \- bɔːt/
+12. **at the check-out** : tại quầy thanh toán /ət ðə ˈtʃek aʊt/
+13. **by the way** : nhân tiện /baɪ ðə weɪ/
+14. **also** : (adv) cũng /ˈɔːlsəʊ/
+15. **the air** : không khí /ði eə/
+16. **already** : (adv) đã rồi, đã xong /ɔːlˈredi/
+17. **have to \+ V0** : phải \+ động từ nguyên thể /hæv tuː/
+18. **see you later** : gặp lại bạn sau /siː juː ˈleɪtə/
 
 Mi: Chào, Nick.  
 Nick: Chào Mi.  
@@ -64,20 +64,20 @@ e. using reusable bags when shopping (sử dụng túi có thể tái sử dụn
 **A CLOSER LOOK 1**  
 **Vocabulary** 
 
-1. rubbish: (n) rác, đồ bỏ đi, vô giá trị /ˈrʌbɪʃ/  
-2. plastic bottle: chai nhựa /ˈplæstɪk ˈbɒtl/  
-3. glass: (n) kính, thủy tinh; ly, cốc /ɡlɑːs/  
-4. noise: (n) tiếng ồn, âm thanh lớn /nɔɪz/  
-5. plastic bag: túi nhựa /ˈplæstɪk bæɡ/  
-6. paper: (n) giấy; báo, tạp chí; bài luận, nghiên cứu /ˈpeɪpə/  
-7. water: (n) nước /ˈwɔːtə/  
-8. clothes: (n) quần áo /kləʊðz/  
-9. reduce: (v) giảm thiểu, làm giảm /rɪˈdjuːs/  
-10. reuse: (v) tái sử dụng, sử dụng lại /ˌriːˈjuːz/  
-11. recycle: (v) tái chế /ˌriːˈsaɪkl/  
-12. something: (pron) cái gì đó, điều gì đó, vật gì đó /ˈsʌmθɪŋ/ 
+1. **rubbish** : (n) rác, đồ bỏ đi, vô giá trị /ˈrʌbɪʃ/
+2. **plastic bottle** : chai nhựa /ˈplæstɪk ˈbɒtl/
+3. **glass** : (n) kính, thủy tinh; ly, cốc /ɡlɑːs/
+4. **noise** : (n) tiếng ồn, âm thanh lớn /nɔɪz/
+5. **plastic bag** : túi nhựa /ˈplæstɪk bæɡ/
+6. **paper** : (n) giấy; báo, tạp chí; bài luận, nghiên cứu /ˈpeɪpə/
+7. **water** : (n) nước /ˈwɔːtə/
+8. **clothes** : (n) quần áo /kləʊðz/
+9. **reduce** : (v) giảm thiểu, làm giảm /rɪˈdjuːs/
+10. **reuse** : (v) tái sử dụng, sử dụng lại /ˌriːˈjuːz/
+11. **recycle** : (v) tái chế /ˌriːˈsaɪkl/
+12. **something** : (pron) cái gì đó, điều gì đó, vật gì đó /ˈsʌmθɪŋ/
 
-1. use something again: sử dụng cái gì đó lại lần nữa → reuse   
+1. **use something again** : sử dụng cái gì đó lại lần nữa → reuse
 2. tạo ra những sản phẩm mới từ vật liệu đã được sử dụng → recycle   
 3. sử dụng ít cái gì đó hơn → reduce. 
 
@@ -216,16 +216,16 @@ If Cuong studies hard, he will pass the exam.
 **COMMUNICATION**   
 **Vocabulary** 
 
-1. Don't do that: không làm điều đó /dəʊnt duː ðæt/  
-2. die: (v) chết /daɪ/  
-3. survey: (n) cuộc khảo sát, điều tra /ˈsɜːveɪ/  
-4. survey: (v) khảo sát, điều tra /səˈveɪ/  
-5. a beautiful old glass: một chiếc cốc thủy tinh cũ đẹp /ə ˈbjuːtɪfl əʊld glɑːs/  
-6. decorate: (v) trang trí /ˈdekəreɪt/  
-7. a sheet of paper: một tờ giấy /ə ʃiːt əv ˈpeɪpə/  
-8. write on both sides: viết trên cả hai mặt /raɪt ɒn bəʊθ saɪdz/  
-9. wrap the food in paper: gói thức ăn trong giấy /ræp ðə fuːd ɪn ˈpeɪpə/  
-10. air conditioner: máy điều hòa nhiệt độ 
+1. **Don't do that** : không làm điều đó /dəʊnt duː ðæt/
+2. **die** : (v) chết /daɪ/
+3. **survey** : (n) cuộc khảo sát, điều tra /ˈsɜːveɪ/
+4. **survey** : (v) khảo sát, điều tra /səˈveɪ/
+5. **a beautiful old glass** : một chiếc cốc thủy tinh cũ đẹp /ə ˈbjuːtɪfl əʊld glɑːs/
+6. **decorate** : (v) trang trí /ˈdekəreɪt/
+7. **a sheet of paper** : một tờ giấy /ə ʃiːt əv ˈpeɪpə/
+8. **write on both sides** : viết trên cả hai mặt /raɪt ɒn bəʊθ saɪdz/
+9. **wrap the food in paper** : gói thức ăn trong giấy /ræp ðə fuːd ɪn ˈpeɪpə/
+10. **air conditioner** : máy điều hòa nhiệt độ
 
 **Bài 2 trang 53**   
 A: You are giving too much water to the flowers. Don’t water them too much\!  
@@ -258,20 +258,20 @@ B: I see. Thank you.
 **Reading**   
 **Vocabulary** 
 
-1. make our school greener: làm cho trường của chúng ta xanh hơn /meɪk ˈaʊə skuːl ˈɡriːnə/  
-2. put recycling bins: (v) đặt thùng tái chế /pʊt riːˈsaɪklɪŋ bɪnz/  
-3. give them to charity: tặng chúng cho tổ chức từ thiện /ɡɪv ðem tə ˈtʃærəti/  
-4. throw them away: vứt bỏ chúng /θrəʊ ðem əˈweɪ/  
-5. anything else: bất cứ điều gì khác /ˈeniθɪŋ els/  
-6. borrow books from the library: mượn sách từ thư viện /ˈbɒrəʊ bʊks frəm ðə ˈlaɪbrəri/  
-7. instead of: (prep) thay vì /ɪnˈsted əv/  
-8. buy new one: mua cái mới /baɪ njuː wʌn/  
-9. save paper: tiết kiệm giấy /seɪv ˈpeɪpə/  
-10. tip: (n) lời khuyên, mẹo /tɪp/  
-11. want to add anything: muốn thêm điều gì không /wɒnt tu æd ˈeniθɪŋ/  
-12. find creative ways: tìm những cách sáng tạo /faɪnd kriˈeɪtɪv weɪz/  
-13. breeze: (n) gió nhẹ /briːz/  
-14. old items: đồ vật cũ /əʊld ˈaɪtəmz/  
+1. **make our school greener** : làm cho trường của chúng ta xanh hơn /meɪk ˈaʊə skuːl ˈɡriːnə/
+2. **put recycling bins** : (v) đặt thùng tái chế /pʊt riːˈsaɪklɪŋ bɪnz/
+3. **give them to charity** : tặng chúng cho tổ chức từ thiện /ɡɪv ðem tə ˈtʃærəti/
+4. **throw them away** : vứt bỏ chúng /θrəʊ ðem əˈweɪ/
+5. **anything else** : bất cứ điều gì khác /ˈeniθɪŋ els/
+6. **borrow books from the library** : mượn sách từ thư viện /ˈbɒrəʊ bʊks frəm ðə ˈlaɪbrəri/
+7. **instead of** : (prep) thay vì /ɪnˈsted əv/
+8. **buy new one** : mua cái mới /baɪ njuː wʌn/
+9. **save paper** : tiết kiệm giấy /seɪv ˈpeɪpə/
+10. **tip** : (n) lời khuyên, mẹo /tɪp/
+11. **want to add anything** : muốn thêm điều gì không /wɒnt tu æd ˈeniθɪŋ/
+12. **find creative ways** : tìm những cách sáng tạo /faɪnd kriˈeɪtɪv weɪz/
+13. **breeze** : (n) gió nhẹ /briːz/
+14. **old items** : đồ vật cũ /əʊld ˈaɪtəmz/
       
     Phóng viên: Bạn có thể chia sẻ với chúng tôi một số bí quyết để làm cho trường học của bạn xanh hơn?  
       
@@ -288,7 +288,7 @@ B: I see. Thank you.
     Phóng viên: Cảm ơn những chia sẻ. Bạn có muốn thêm gì không?  
     Nam: Cuối cùng, chúng tôi thường tìm ra những cách sáng tạo để tái sử dụng những món đồ cũ trước khi vứt bỏ chúng.  
     **Bài 2 trang 54**    
-    1.e : thay vào vị trí của cái gì   
+1. **e** : thay vào vị trí của cái gì
     2\. d: cho những thứ gì đó cho người đang cần   
     3\. a: tặng cái gì đó cho ai đó để nhận lại cái gì đó từ anh ấy/cô ấy  
     4\. b: reusable: có thể sử dụng lại   
@@ -371,15 +371,15 @@ c. We can reuse used books to wrap things, give them to the school library or th
 **SKILLS 2**   
 **Listening** 
 
-1. encourage: (v) khuyến khích, động viên /ɪnˈkʌrɪdʒ/  
-2. president: (n) chủ tịch, tổng thống /ˈprezɪdənt/  
-3. talk to my friends: nói chuyện với bạn bè của tôi /tɔːk tə maɪ frends/  
-4. put a recycling bin: đặt một thùng tái chế /pʊt ə riːˈsaɪklɪŋ bɪn/  
-5. in every classroom: trong mỗi lớp học /ɪn ˈevri ˈklɑːsruːm/  
-6. organise some book fair: tổ chức một số hội chợ sách /ˈɔːɡənaɪz sʌm bʊk feə/  
-7. exchange their used book: trao đổi sách đã sử dụng của họ /ɪksˈtʃeɪndʒ ðeə juːzd bʊk/  
-8. fun: (adj) vui vẻ, thú vị /fʌn/  
-9. uniform fair: hội chợ đồng phục /ˈjuːnɪfɔːm feə/  
+1. **encourage** : (v) khuyến khích, động viên /ɪnˈkʌrɪdʒ/
+2. **president** : (n) chủ tịch, tổng thống /ˈprezɪdənt/
+3. **talk to my friends** : nói chuyện với bạn bè của tôi /tɔːk tə maɪ frends/
+4. **put a recycling bin** : đặt một thùng tái chế /pʊt ə riːˈsaɪklɪŋ bɪn/
+5. **in every classroom** : trong mỗi lớp học /ɪn ˈevri ˈklɑːsruːm/
+6. **organise some book fair** : tổ chức một số hội chợ sách /ˈɔːɡənaɪz sʌm bʊk feə/
+7. **exchange their used book** : trao đổi sách đã sử dụng của họ /ɪksˈtʃeɪndʒ ðeə juːzd bʊk/
+8. **fun** : (adj) vui vẻ, thú vị /fʌn/
+9. **uniform fair** : hội chợ đồng phục /ˈjuːnɪfɔːm feə/
    
 
 **Bài 1 trang 55** 
@@ -408,9 +408,9 @@ My classmate is Th. If she becomes the president of the 3Rs Club, she will do tw
 
 **Bài 1 trang 56** 
 
-1. reduce: plastic bag, clothes, plastic bottles, water  
-2. Reuse: glass, paper, clothes   
-3. Recycle: plastic bottles, paper 
+1. **reduce** : plastic bag, clothes, plastic bottles, water
+2. **Reuse** : glass, paper, clothes
+3. **Recycle** : plastic bottles, paper
 
 **Bài 2 trang 56** 
 

@@ -3,17 +3,17 @@
 ## GETTING STARTED - BẮT ĐẦU
 
 ### 📚 Vocabulary - Từ vựng
-- **traffic** : (n) giao thông /ˈtræfɪk/
-- **cycle** : (v) đạp xe /ˈsaɪkl/
+1. **traffic** : (n) giao thông /ˈtræfɪk/
+2. **cycle** : (v) đạp xe /ˈsaɪkl/
 - **cycle round the lake** : đạp xe vòng quanh hồ /ˈsaɪkl raʊnd ðə leɪk/
-- **sometimes** : (adv) đôi khi, thỉnh thoảng /ˈsʌmtaɪmz/
+3. **sometimes** : (adv) đôi khi, thỉnh thoảng /ˈsʌmtaɪmz/
 - **How far is it from...to...?** : Từ...đến...bao xa? /haʊ fɑː ɪz ɪt frɒm...tə.../
 - **take + ai đó + to + nơi chốn** : đưa ai đó đến một nơi nào đó /teɪk tə/
-- **traffic jam** : (n) tắc đường /ˈtræfɪk dʒæm/
+4. **traffic jam** : (n) tắc đường /ˈtræfɪk dʒæm/
 - **take longer** : mất nhiều thời gian hơn /teɪk ˈlɒŋɡə/
-- **especially** : (adv) đặc biệt là, nhất là /ɪˈspeʃəli/
+5. **especially** : (adv) đặc biệt là, nhất là /ɪˈspeʃəli/
 - **cross the road** : băng qua đường /krɒs ðə rəʊd/
-- **crowded** : (adj) đông đúc, chật ních /ˈkraʊdɪd/
+6. **crowded** : (adj) đông đúc, chật ních /ˈkraʊdɪd/
 - **get + tính từ** : trở nên /ɡet/
 - **really + tính từ** : rất, thực sự /ˈrɪəli/
 - **see you then** : hẹn gặp lại /siː juː ðen/
@@ -91,7 +91,7 @@ Tuyệt quá! Bạn có thể đến nhà tôi lúc 3 giờ chiều được kh�
 (Viết một từ từ đoạn hội thoại để hoàn thành mỗi câu)
 
 1. Last Sunday afternoon, Lan _____ round the lake near her house.
-2. Mark says to Lan: "You _____ be careful, especially when you cross the road."
+2. **Mark says to Lan** : "You _____ be careful, especially when you cross the road."
 3. Traffic _____ are a problem in big cities.
 4. - _____ does your mum go shopping? - She often walks.
 5. This road is very _____ during the rush hours.
@@ -102,14 +102,14 @@ Tuyệt quá! Bạn có thể đến nhà tôi lúc 3 giờ chiều được kh�
 (Nhìn vào các hình ảnh và viết một từ bên dưới mỗi hình)
 
 **Vocabulary:**
-- **bike/bicycle** : (n) xe đạp /baɪk/ /ˈbaɪsɪkl/
-- **car** : (n) ô tô, xe hơi /kɑː/
-- **bus** : (n) xe buýt /bʌs/
-- **motorbike** : (n) xe máy /ˈməʊtəbaɪk/
-- **plane** : (n) máy bay /pleɪn/
-- **train** : (n) tàu hỏa /treɪn/
-- **boat** : (n) thuyền /bəʊt/
-- **ship** : (n) tàu thủy /ʃɪp/
+1. **bike/bicycle** : (n) xe đạp /baɪk/ /ˈbaɪsɪkl/
+2. **car** : (n) ô tô, xe hơi /kɑː/
+3. **bus** : (n) xe buýt /bʌs/
+4. **motorbike** : (n) xe máy /ˈməʊtəbaɪk/
+5. **plane** : (n) máy bay /pleɪn/
+6. **train** : (n) tàu hỏa /treɪn/
+7. **boat** : (n) thuyền /bəʊt/
+8. **ship** : (n) tàu thủy /ʃɪp/
 
 #### Bài 5: Find someone who... Write your friends' names in the blanks
 (Tìm ai đó... Viết tên bạn bè của bạn vào chỗ trống)
@@ -220,13 +220,13 @@ Focus on sounds: **/aɪ/** and **/eɪ/**
 ## A CLOSER LOOK 2 - TÌM HIỂU THÊM 2
 
 ### 📚 Vocabulary - Từ vựng
-- **should** : (modal v) nên /ʃʊd/
-- **shouldn't** : (modal v) không nên /ˈʃʊdnt/
+1. **should** : (modal v) nên /ʃʊd/
+2. **shouldn't** : (modal v) không nên /ˈʃʊdnt/
 - **waste water** : lãng phí nước /weɪst ˈwɔːtə/
 - **wear helmet** : đội mũ bảo hiểm /weə ˈhelmɪt/
 - **be careful** : cẩn thận /biː ˈkeəfl/
-- **pavement** : (n) vỉa hè /ˈpeɪvmənt/
-- **dangerously** : (adv) một cách nguy hiểm /ˈdeɪndʒərəsli/
+3. **pavement** : (n) vỉa hè /ˈpeɪvmənt/
+4. **dangerously** : (adv) một cách nguy hiểm /ˈdeɪndʒərəsli/
 
 ### 📖 Grammar - Ngữ pháp
 
@@ -326,13 +326,13 @@ Example:
 - **go by + phương tiện** : đi bằng (phương tiện) /gəʊ baɪ/
 - **go on foot** : đi bộ /gəʊ ɒn fʊt/
 - **am/is/are not allowed to** : không được phép /æm/ɪz/ɑː nɒt əˈlaʊd tuː/
-- **roof** : (n) mái nhà /ruːf/
-- **Moscow** : (n) Mát-xcơ-va /ˈmɒskəʊ/
-- **South Africa** : (n) Nam Phi /ˌsaʊθ ˈæfrɪkə/
-- **Switzerland** : (n) Thụy Sĩ /ˈswɪtsələnd/
-- **fine** : (v) phạt tiền /faɪn/
+1. **roof** : (n) mái nhà /ruːf/
+2. **Moscow** : (n) Mát-xcơ-va /ˈmɒskəʊ/
+3. **South Africa** : (n) Nam Phi /ˌsaʊθ ˈæfrɪkə/
+4. **Switzerland** : (n) Thụy Sĩ /ˈswɪtsələnd/
+5. **fine** : (v) phạt tiền /faɪn/
 - **drive a dirty car** : lái xe bẩn /draɪv ə ˈdɜːti kɑː/
-- **handlebars** : (n) tay lái (xe đạp, mô tô) /ˈhændlbɑːz/
+6. **handlebars** : (n) tay lái (xe đạp, mô tô) /ˈhændlbɑːz/
 - **wash your car** : rửa xe /wɒʃ jɔː kɑː/
 - **let + ai đó + V0** : để cho ai đó làm gì /let ... V0/
 
@@ -358,11 +358,11 @@ Example:
 **Countries that drive on the right:** USA, China, Vietnam, France, Germany
 
 **Sample answers:**
-1. UK: left
-2. USA: right
-3. Australia: left  
-4. Thailand: left
-5. China: right
+1. **UK** : left
+2. **USA** : right
+3. **Australia** : left
+4. **Thailand** : left
+5. **China** : right
 
 #### Bài 4: Listen and check your answers in 3. Then listen again and complete the sentence
 (Nghe và kiểm tra câu trả lời trong bài 3. Sau đó nghe lại và hoàn thành câu)
@@ -389,21 +389,21 @@ One explanation is that some countries use **the same system** as the UK.
 ## SKILLS 1 - KỸ NĂNG 1
 
 ### 📚 Vocabulary - Từ vựng
-- **rule** : (n) quy tắc, luật lệ /ruːl/
-- **pedestrian** : (n) người đi bộ /pəˈdestriən/
+1. **rule** : (n) quy tắc, luật lệ /ruːl/
+2. **pedestrian** : (n) người đi bộ /pəˈdestriən/
 - **traffic rule** : luật giao thông /ˈtræfɪk ruːl/
 - **road safety** : an toàn đường bộ /rəʊd ˈseɪfti/
-- **obey** : (v) tuân theo, vâng lời /əˈbeɪ/
+3. **obey** : (v) tuân theo, vâng lời /əˈbeɪ/
 - **road user** : người tham gia giao thông /rəʊd ˈjuːzə/
-- **careful** : (adj) cẩn thận /ˈkeəfl/
-- **carefully** : (adv) một cách cẩn thận /ˈkeəfli/
+4. **careful** : (adj) cẩn thận /ˈkeəfl/
+5. **carefully** : (adv) một cách cẩn thận /ˈkeəfli/
 - **cross the street** : băng qua đường /krɒs ðə striːt/
-- **pavement** : (n) vỉa hè /ˈpeɪvmənt/
+6. **pavement** : (n) vỉa hè /ˈpeɪvmənt/
 - **zebra crossing** : vạch sang đường /ˈzebrə ˈkrɒsɪŋ/
-- **cyclist** : (n) người đi xe đạp /ˈsaɪklɪst/
+7. **cyclist** : (n) người đi xe đạp /ˈsaɪklɪst/
 - **wear helmet** : đội mũ bảo hiểm /weə ˈhelmɪt/
 - **give a signal** : ra tín hiệu /gɪv ə ˈsɪɡnəl/
-- **passenger** : (n) hành khách /ˈpæsɪndʒə/
+8. **passenger** : (n) hành khách /ˈpæsɪndʒə/
 - **fasten your seatbelt** : thắt dây an toàn /ˈfɑːsn jɔː ˈsiːtbelt/
 - **fully stop** : dừng hẳn lại /ˈfʊli stɒp/
 - **stick body parts out** : thò bộ phận cơ thể ra ngoài /stɪk ˈbɒdi pɑːts aʊt/
@@ -517,13 +517,13 @@ Examples:
 ### 📚 Vocabulary - Từ vựng
 - **traffic problem** : vấn đề giao thông /ˈtræfɪk ˈprɒbləm/
 - **one of** : một trong số /wʌn əv/
-- **congested** : (adj) tắc nghẽn /kənˈdʒestɪd/
-- **happen** : (v) xảy ra /ˈhæpən/
-- **several** : (adj) vài, một số /ˈsevrəl/
-- **reason** : (n) lý do /ˈriːzən/
-- **increase** : (n, v) sự tăng lên, tăng lên /ˈɪnkriːs/
-- **population** : (n) dân số /ˌpɒpjuˈleɪʃən/
-- **narrow** : (adj) hẹp /ˈnærəʊ/
+1. **congested** : (adj) tắc nghẽn /kənˈdʒestɪd/
+2. **happen** : (v) xảy ra /ˈhæpən/
+3. **several** : (adj) vài, một số /ˈsevrəl/
+4. **reason** : (n) lý do /ˈriːzən/
+5. **increase** : (n, v) sự tăng lên, tăng lên /ˈɪnkriːs/
+6. **population** : (n) dân số /ˌpɒpjuˈleɪʃən/
+7. **narrow** : (adj) hẹp /ˈnærəʊ/
 - **in good condition** : trong tình trạng tốt /ɪn gʊd kənˈdɪʃən/
 - **as a result** : kết quả là /æz ə rɪˈzʌlt/
 - **getting worse** : ngày càng tệ hơn /ˈgetɪŋ wɜːs/

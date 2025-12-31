@@ -5,16 +5,16 @@
 
 ### New words
 
-1. endangered animal: (n.phr) động vật có nguy cơ tuyệt chủng /ɪnˈdeɪndʒəd ˈænɪml/
-2. save: (v) cứu /seɪv/
-3. hunting: (n) săn bắn /ˈhʌntɪŋ/
-4. illegal: (adj) bất hợp pháp /ɪˈliːɡl/
-5. suffering: (n) sự đau khổ /ˈsʌfərɪŋ/
-6. ban: (v, n) cấm /bæn/
-7. trade: (n, v) buôn bán /treɪd/
-8. punishment: (n) hình phạt /ˈpʌnɪʃmənt/
-9. souvenir: (n) đồ lưu niệm /ˌsuːvəˈnɪə/
-10. aware: (adj) nhận thức /əˈweə/
+1. **endangered animal** : (n.phr) động vật có nguy cơ tuyệt chủng /ɪnˈdeɪndʒəd ˈænɪml/
+2. **save** : (v) cứu /seɪv/
+3. **hunting** : (n) săn bắn /ˈhʌntɪŋ/
+4. **illegal** : (adj) bất hợp pháp /ɪˈliːɡl/
+5. **suffering** : (n) sự đau khổ /ˈsʌfərɪŋ/
+6. **ban** : (v, n) cấm /bæn/
+7. **trade** : (n, v) buôn bán /treɪd/
+8. **punishment** : (n) hình phạt /ˈpʌnɪʃmənt/
+9. **souvenir** : (n) đồ lưu niệm /ˌsuːvəˈnɪə/
+10. **aware** : (adj) nhận thức /əˈweə/
 
 ---
 
@@ -192,28 +192,28 @@ Cuối cùng, giáo dục về động vật có nguy cơ tuyệt chủng nên b
 
 ## Vocabulary (Từ vựng)
 
-1. endangered animal: (n.phr) động vật có nguy cơ tuyệt chủng /ɪnˈdeɪndʒəd ˈænɪml/
-2. save: (v) cứu /seɪv/
-3. hunting: (n) săn bắn /ˈhʌntɪŋ/
-4. illegal: (adj) bất hợp pháp /ɪˈliːɡl/
-5. suffering: (n) sự đau khổ /ˈsʌfərɪŋ/
-6. ban: (v, n) cấm /bæn/
-7. trade: (n, v) buôn bán /treɪd/
-8. punishment: (n) hình phạt /ˈpʌnɪʃmənt/
-9. souvenir: (n) đồ lưu niệm /ˌsuːvəˈnɪə/
-10. aware: (adj) nhận thức /əˈweə/
-11. awareness: (n) nhận thức /əˈweənəs/
-12. mid-term project: (n.phr) dự án giữa kỳ /mɪd tɜːm ˈprɒdʒekt/
-13. complete: (v) hoàn thành /kəmˈpliːt/
-14. research: (n, v) nghiên cứu /rɪˈsɜːtʃ/
-15. threat: (n) mối đe dọa /θret/
-16. habitat loss: (n.phr) mất môi trường sống /ˈhæbɪtæt lɒs/
-17. nature reserve: (n.phr) khu bảo tồn thiên nhiên /ˈneɪtʃə rɪˈzɜːv/
-18. strict law: (n.phr) luật nghiêm ngặt /strɪkt lɔː/
-19. heavy punishment: (n.phr) hình phạt nặng /ˈhevi ˈpʌnɪʃmənt/
-20. wildlife trade: (n.phr) buôn bán động vật hoang dã /ˈwaɪldlaɪf treɪd/
-21. animal parts: (n.phr) bộ phận động vật /ˈænɪml pɑːts/
-22. conservation: (n) bảo tồn /ˌkɒnsəˈveɪʃn/
-23. effective: (adj) hiệu quả /ɪˈfektɪv/
-24. support: (v) hỗ trợ /səˈpɔːt/
-25. responsible: (adj) có trách nhiệm /rɪˈspɒnsəbl/
+1. **endangered animal** : (n.phr) động vật có nguy cơ tuyệt chủng /ɪnˈdeɪndʒəd ˈænɪml/
+2. **save** : (v) cứu /seɪv/
+3. **hunting** : (n) săn bắn /ˈhʌntɪŋ/
+4. **illegal** : (adj) bất hợp pháp /ɪˈliːɡl/
+5. **suffering** : (n) sự đau khổ /ˈsʌfərɪŋ/
+6. **ban** : (v, n) cấm /bæn/
+7. **trade** : (n, v) buôn bán /treɪd/
+8. **punishment** : (n) hình phạt /ˈpʌnɪʃmənt/
+9. **souvenir** : (n) đồ lưu niệm /ˌsuːvəˈnɪə/
+10. **aware** : (adj) nhận thức /əˈweə/
+11. **awareness** : (n) nhận thức /əˈweənəs/
+12. **mid-term project** : (n.phr) dự án giữa kỳ /mɪd tɜːm ˈprɒdʒekt/
+13. **complete** : (v) hoàn thành /kəmˈpliːt/
+14. **research** : (n, v) nghiên cứu /rɪˈsɜːtʃ/
+15. **threat** : (n) mối đe dọa /θret/
+16. **habitat loss** : (n.phr) mất môi trường sống /ˈhæbɪtæt lɒs/
+17. **nature reserve** : (n.phr) khu bảo tồn thiên nhiên /ˈneɪtʃə rɪˈzɜːv/
+18. **strict law** : (n.phr) luật nghiêm ngặt /strɪkt lɔː/
+19. **heavy punishment** : (n.phr) hình phạt nặng /ˈhevi ˈpʌnɪʃmənt/
+20. **wildlife trade** : (n.phr) buôn bán động vật hoang dã /ˈwaɪldlaɪf treɪd/
+21. **animal parts** : (n.phr) bộ phận động vật /ˈænɪml pɑːts/
+22. **conservation** : (n) bảo tồn /ˌkɒnsəˈveɪʃn/
+23. **effective** : (adj) hiệu quả /ɪˈfektɪv/
+24. **support** : (v) hỗ trợ /səˈpɔːt/
+25. **responsible** : (adj) có trách nhiệm /rɪˈspɒnsəbl/

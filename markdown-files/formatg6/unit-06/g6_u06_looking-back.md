@@ -3,12 +3,12 @@
 **LOOKING BACK**  
 **Bài 1 trang 66** 
 
-1. give lucky money: tặng tiền lì xì   
-2. cook special food: nấu đồ ăn đặc biệt   
-3. plant trees: trồng cây   
-4. make a wish: ước   
-5. watch fireworks: xem pháo hoa  
-6. break things: làm bể đồ 
+1. **give lucky money** : tặng tiền lì xì
+2. **cook special food** : nấu đồ ăn đặc biệt
+3. **plant trees** : trồng cây
+4. **make a wish** : ước
+5. **watch fireworks** : xem pháo hoa
+6. **break things** : làm bể đồ
 
 **Bài 2 trang 66** 
 

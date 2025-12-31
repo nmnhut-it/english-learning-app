@@ -5,7 +5,7 @@
 **Pronunciation** 
 
 1. nhấn ở động từ, danh từ, tính từ và phủ định   
-2. nhấn: doing, study, environment, protection   
+2. **nhấn** : doing, study, environment, protection
 3. largest, planet, solar, system   
 4. ngữ điệu: câu khẳng định → cuối câu xuống giọng. Câu hỏi yes/no → cuối câu lên giọng. Câu hỏi Wh- → cuối câu xuống giọng   
 5. Chúng ta lên giọng cuối câu khi cần hỏi & để người khác khẳng định lại thông tin.
@@ -46,18 +46,18 @@
 
 # **Từ vựng tiếng Anh-Việt: Loài xâm lấn và Môi trường**
 
-1. invasive species: loài xâm lấn /ɪnˈveɪsɪv ˈspiːʃiːz/  
-2. foreign plants: cây ngoại lai /ˈfɒrɪn plɑːnts/  
-3. badly affect: ảnh hưởng xấu /ˈbædli əˈfekt/  
-4. silver carp: (n) cá mè trắng /ˈsɪlvə kɑːp/  
-5. fish pond: (n) ao cá /fɪʃ pɒnd/  
-6. improve water quality: cải thiện chất lượng nước /ɪmˈpruːv ˈwɔːtə ˈkwɒlɪti/  
-7. gradually: (adv) dần dần, từ từ /ˈɡrædʒuəli/  
-8. paddlefish: (n) cá mái chèo /ˈpædlˌfɪʃ/  
-9. are dying out: đang dần tuyệt chủng /ɑː ˈdaɪɪŋ aʊt/  
-10. water hyacinth: (n) bèo lục bình /ˈwɔːtə haɪəˈsɪnθ/  
-11. spread: (v) lây lan, phát tán /spred/  
-12. mosquito: (n) muỗi /məˈskiːtəʊ/
+1. **invasive species** : loài xâm lấn /ɪnˈveɪsɪv ˈspiːʃiːz/
+2. **foreign plants** : cây ngoại lai /ˈfɒrɪn plɑːnts/
+3. **badly affect** : ảnh hưởng xấu /ˈbædli əˈfekt/
+4. **silver carp** : (n) cá mè trắng /ˈsɪlvə kɑːp/
+5. **fish pond** : (n) ao cá /fɪʃ pɒnd/
+6. **improve water quality** : cải thiện chất lượng nước /ɪmˈpruːv ˈwɔːtə ˈkwɒlɪti/
+7. **gradually** : (adv) dần dần, từ từ /ˈɡrædʒuəli/
+8. **paddlefish** : (n) cá mái chèo /ˈpædlˌfɪʃ/
+9. **are dying out** : đang dần tuyệt chủng /ɑː ˈdaɪɪŋ aʊt/
+10. **water hyacinth** : (n) bèo lục bình /ˈwɔːtə haɪəˈsɪnθ/
+11. **spread** : (v) lây lan, phát tán /spred/
+12. **mosquito** : (n) muỗi /məˈskiːtəʊ/
 
 **Speaking**. 
 

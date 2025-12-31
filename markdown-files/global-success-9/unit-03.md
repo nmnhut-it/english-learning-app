@@ -2,44 +2,44 @@
 
 ## GETTING STARTED - BẮT ĐẦU
 ### 📚 Vocabulary - Từ vựng
-- **tip** : (n) mẹo /tɪp/
-- **mental** : (adj) tinh thần /ˈmentəl/
-- **health** : (n) sức khỏe /helθ/
-- **physical** : (adj) thể chất /ˈfɪzɪkəl/
-- **session** : (n) buổi họp /ˈseʃən/
-- **question** : (n) câu hỏi /ˈkwestʃən/
-- **maintain** : (v) duy trì /meɪnˈteɪn/
-- **sleep** : (n) giấc ngủ /sliːp/
-- **diet** : (n) chế độ ăn uống /ˈdaɪət/
-- **exercise** : (n, v) tập thể dục /ˈeksərsaɪz/
-- **regularly** : (adv) đều đặn /ˈreɡjələrli/
-- **hour** : (n) giờ /ˈaʊər/
-- **right** : (adj) đúng /raɪt/
-- **difficult** : (adj) khó khăn /ˈdɪfɪkəlt/
-- **night** : (n) đêm /naɪt/
-- **exam** : (n) kỳ thi /ɪɡˈzæm/
-- **advice** : (n) lời khuyên /ədˈvaɪs/
-- **understand** : (v) hiểu /ˌʌndərˈstænd/
-- **bring** : (v) mang lại /brɪŋ/
-- **stress** : (n) căng thẳng /stres/
-- **study** : (v, n) học /ˈstʌdi/
-- **balance** : (n, v) cân bằng /ˈbæləns/
-- **manage** : (v) quản lý /ˈmænɪdʒ/
-- **plan** : (v, n) lên kế hoạch /plæn/
-- **priority** : (n) sự ưu tiên /praɪˈɒrɪti/
-- **work** : (n) công việc /wɜːrk/
-- **free** : (adj) miễn phí, rảnh /friː/
-- **ask** : (v) hỏi /ɑːsk/
-- **find** : (v) tìm thấy, cảm thấy /faɪnd/
-- **especially** : (adv) đặc biệt /ɪˈspeʃəli/
-- **offer** : (v) cung cấp /ˈɒfər/
-- **reduce** : (v) giảm /rɪˈdjuːs/
-- **until** : (conj) cho đến khi /ənˈtɪl/
-- **schedule** : (n) lịch trình /ˈʃedjuːl/
-- **give** : (v) đưa ra /ɡɪv/
-- **between** : (prep) giữa /bɪˈtwiːn/
-- **counsellor** : (n) cố vấn /ˈkaʊnsələr/
-- **well-balanced** : (adj) cân bằng tốt /ˌwelˈbælənst/
+1. **tip** : (n) mẹo /tɪp/
+2. **mental** : (adj) tinh thần /ˈmentəl/
+3. **health** : (n) sức khỏe /helθ/
+4. **physical** : (adj) thể chất /ˈfɪzɪkəl/
+5. **session** : (n) buổi họp /ˈseʃən/
+6. **question** : (n) câu hỏi /ˈkwestʃən/
+7. **maintain** : (v) duy trì /meɪnˈteɪn/
+8. **sleep** : (n) giấc ngủ /sliːp/
+9. **diet** : (n) chế độ ăn uống /ˈdaɪət/
+10. **exercise** : (n, v) tập thể dục /ˈeksərsaɪz/
+11. **regularly** : (adv) đều đặn /ˈreɡjələrli/
+12. **hour** : (n) giờ /ˈaʊər/
+13. **right** : (adj) đúng /raɪt/
+14. **difficult** : (adj) khó khăn /ˈdɪfɪkəlt/
+15. **night** : (n) đêm /naɪt/
+16. **exam** : (n) kỳ thi /ɪɡˈzæm/
+17. **advice** : (n) lời khuyên /ədˈvaɪs/
+18. **understand** : (v) hiểu /ˌʌndərˈstænd/
+19. **bring** : (v) mang lại /brɪŋ/
+20. **stress** : (n) căng thẳng /stres/
+21. **study** : (v, n) học /ˈstʌdi/
+22. **balance** : (n, v) cân bằng /ˈbæləns/
+23. **manage** : (v) quản lý /ˈmænɪdʒ/
+24. **plan** : (v, n) lên kế hoạch /plæn/
+25. **priority** : (n) sự ưu tiên /praɪˈɒrɪti/
+26. **work** : (n) công việc /wɜːrk/
+27. **free** : (adj) miễn phí, rảnh /friː/
+28. **ask** : (v) hỏi /ɑːsk/
+29. **find** : (v) tìm thấy, cảm thấy /faɪnd/
+30. **especially** : (adv) đặc biệt /ɪˈspeʃəli/
+31. **offer** : (v) cung cấp /ˈɒfər/
+32. **reduce** : (v) giảm /rɪˈdjuːs/
+33. **until** : (conj) cho đến khi /ənˈtɪl/
+34. **schedule** : (n) lịch trình /ˈʃedjuːl/
+35. **give** : (v) đưa ra /ɡɪv/
+36. **between** : (prep) giữa /bɪˈtwiːn/
+37. **counsellor** : (n) cố vấn /ˈkaʊnsələr/
+38. **well-balanced** : (adj) cân bằng tốt /ˌwelˈbælənst/
 
 ### 💬 Content - Nội dung
 **Advice from a School Counsellor**
@@ -117,25 +117,25 @@ Words: priority, well-balanced, physical, mental, counsellor
 
 ## A CLOSER LOOK 1 - TÌM HIỂU THÊM 1
 ### 📚 Vocabulary - Từ vựng
-- **achieve** : (v) đạt được /əˈtʃiːv/
-- **organize** : (v) tổ chức /ˈɔːɡənaɪz/
-- **divide** : (v) chia /dɪˈvaɪd/
-- **accomplish** : (v) hoàn thành /əˈkɒmplɪʃ/
-- **goal** : (n) mục tiêu /ɡəʊl/
-- **cycle** : (v) đạp xe /ˈsaɪkl/
-- **delay** : (n, v) trì hoãn /dɪˈleɪ/
-- **due date** : (n) ngày đáo hạn, ngày tới hạn /djuː deɪt/
-- **optimistic** : (adj) lạc quan /ˌɒptɪˈmɪstɪk/
-- **stressed out** : (adj) căng thẳng /strest aʊt/
-- **distraction** : (n) sự phân tâm /dɪˈstrækʃn/
-- **anxious** : (adj) lo lắng /ˈæŋkʃəs/
-- **assignment** : (n) bài tập /əˈsaɪnmənt/
-- **moment** : (n) khoảnh khắc /ˈməʊmənt/
-- **intend** : (v) dự định /ɪnˈtend/
-- **result** : (n) kết quả /rɪˈzʌlt/
-- **library** : (n) thư viện /ˈlaɪbrəri/
-- **pronunciation** : (n) cách phát âm /prəˌnʌnsɪˈeɪʃn/
-- **several** : (adj) một vài /ˈsevrəl/
+1. **achieve** : (v) đạt được /əˈtʃiːv/
+2. **organize** : (v) tổ chức /ˈɔːɡənaɪz/
+3. **divide** : (v) chia /dɪˈvaɪd/
+4. **accomplish** : (v) hoàn thành /əˈkɒmplɪʃ/
+5. **goal** : (n) mục tiêu /ɡəʊl/
+6. **cycle** : (v) đạp xe /ˈsaɪkl/
+7. **delay** : (n, v) trì hoãn /dɪˈleɪ/
+8. **due date** : (n) ngày đáo hạn, ngày tới hạn /djuː deɪt/
+9. **optimistic** : (adj) lạc quan /ˌɒptɪˈmɪstɪk/
+10. **stressed out** : (adj) căng thẳng /strest aʊt/
+11. **distraction** : (n) sự phân tâm /dɪˈstrækʃn/
+12. **anxious** : (adj) lo lắng /ˈæŋkʃəs/
+13. **assignment** : (n) bài tập /əˈsaɪnmənt/
+14. **moment** : (n) khoảnh khắc /ˈməʊmənt/
+15. **intend** : (v) dự định /ɪnˈtend/
+16. **result** : (n) kết quả /rɪˈzʌlt/
+17. **library** : (n) thư viện /ˈlaɪbrəri/
+18. **pronunciation** : (n) cách phát âm /prəˌnʌnsɪˈeɪʃn/
+19. **several** : (adj) một vài /ˈsevrəl/
 
 ### 🗣️ Pronunciation - Phát âm
 **/h/ and /r/**
@@ -280,20 +280,20 @@ Examples:
 
 ## COMMUNICATION - GIAO TIẾP
 ### 📚 Vocabulary - Từ vựng
-- **praise** : (v) khen ngợi /preɪz/
-- **encourage** : (v) khuyến khích /ɪnˈkʌrɪdʒ/
-- **happiness** : (n) hạnh phúc /ˈhæpɪnəs/
-- **encouragement** : (n) sự khuyến khích /ɪnˈkʌrɪdʒmənt/
-- **thankful** : (adj) biết ơn /ˈθæŋkfəl/
-- **assignment** : (n) bài tập /əˈsaɪnmənt/
-- **reduce** : (v) giảm /rɪˈdjuːs/
-- **enough** : (adj) đủ /ɪˈnʌf/
-- **expect** : (v) mong đợi /ɪkˈspekt/
-- **happen** : (v) xảy ra /ˈhæpən/
-- **difficulty** : (n) khó khăn /ˈdɪfɪkəlti/
-- **situation** : (n) tình huống /ˌsɪtʃuˈeɪʃən/
-- **remember** : (v) nhớ /rɪˈmembər/
-- **learnt** : (v) học (quá khứ của learn) /lɜːnt/
+1. **praise** : (v) khen ngợi /preɪz/
+2. **encourage** : (v) khuyến khích /ɪnˈkʌrɪdʒ/
+3. **happiness** : (n) hạnh phúc /ˈhæpɪnəs/
+4. **encouragement** : (n) sự khuyến khích /ɪnˈkʌrɪdʒmənt/
+5. **thankful** : (adj) biết ơn /ˈθæŋkfəl/
+6. **assignment** : (n) bài tập /əˈsaɪnmənt/
+7. **reduce** : (v) giảm /rɪˈdjuːs/
+8. **enough** : (adj) đủ /ɪˈnʌf/
+9. **expect** : (v) mong đợi /ɪkˈspekt/
+10. **happen** : (v) xảy ra /ˈhæpən/
+11. **difficulty** : (n) khó khăn /ˈdɪfɪkəlti/
+12. **situation** : (n) tình huống /ˌsɪtʃuˈeɪʃən/
+13. **remember** : (v) nhớ /rɪˈmembər/
+14. **learnt** : (v) học (quá khứ của learn) /lɜːnt/
 
 ### 🗣️ Useful expressions - Cụm từ hữu ích
 
@@ -330,25 +330,25 @@ Examples:
 
 ## SKILLS 1 - KỸ NĂNG 1
 ### 📚 Vocabulary - Từ vựng
-- **anxiety** : (n) lo lắng /æŋˈzaɪəti/
-- **typical** : (adj) điển hình /ˈtɪpɪkəl/
-- **properly** : (adv) đúng cách /ˈprɒpəli/
-- **plan** : (v) lập kế hoạch /plæn/
-- **weekly** : (adj) hàng tuần /ˈwiːkli/
-- **concentrate** : (v) tập trung /ˈkɒnsəntreɪt/
-- **effort** : (n) nỗ lực /ˈefərt/
-- **task** : (n) nhiệm vụ /tɑːsk/
-- **communicate** : (v) giao tiếp /kəˈmjuːnɪkeɪt/
-- **additional** : (adj) bổ sung /əˈdɪʃənəl/
-- **support** : (n) sự hỗ trợ /səˈpɔːrt/
-- **appropriately** : (adv) thích hợp /əˈprəʊprɪətli/
-- **mood** : (n) tâm trạng /muːd/
-- **grandparent** : (n) ông bà /ˈɡrændˌpeərənt/
-- **vegetable** : (n) rau củ /ˈvedʒtəbəl/
-- **fattening** : (adj) làm mập béo /ˈfætənɪŋ/
-- **avoid** : (v) tránh /əˈvɔɪd/
-- **junk food** : (n) đồ ăn vặt /dʒʌŋk fuːd/
-- **cookie** : (n) bánh quy /ˈkʊki/
+1. **anxiety** : (n) lo lắng /æŋˈzaɪəti/
+2. **typical** : (adj) điển hình /ˈtɪpɪkəl/
+3. **properly** : (adv) đúng cách /ˈprɒpəli/
+4. **plan** : (v) lập kế hoạch /plæn/
+5. **weekly** : (adj) hàng tuần /ˈwiːkli/
+6. **concentrate** : (v) tập trung /ˈkɒnsəntreɪt/
+7. **effort** : (n) nỗ lực /ˈefərt/
+8. **task** : (n) nhiệm vụ /tɑːsk/
+9. **communicate** : (v) giao tiếp /kəˈmjuːnɪkeɪt/
+10. **additional** : (adj) bổ sung /əˈdɪʃənəl/
+11. **support** : (n) sự hỗ trợ /səˈpɔːrt/
+12. **appropriately** : (adv) thích hợp /əˈprəʊprɪətli/
+13. **mood** : (n) tâm trạng /muːd/
+14. **grandparent** : (n) ông bà /ˈɡrændˌpeərənt/
+15. **vegetable** : (n) rau củ /ˈvedʒtəbəl/
+16. **fattening** : (adj) làm mập béo /ˈfætənɪŋ/
+17. **avoid** : (v) tránh /əˈvɔɪd/
+18. **junk food** : (n) đồ ăn vặt /dʒʌŋk fuːd/
+19. **cookie** : (n) bánh quy /ˈkʊki/
 
 ### 📖 Reading - Đọc
 
@@ -418,21 +418,21 @@ Why is a well-balanced life important for students?
 
 ## SKILLS 2 - KỸ NĂNG 2
 ### 📚 Vocabulary - Từ vựng
-- **calendar** : (n) lịch /ˈkælɪndər/
-- **plan** : (v) lên kế hoạch /plæn/
-- **ahead** : (adv) trước /əˈhed/
-- **term** : (n) học kỳ /tɜːm/
-- **broad** : (adj) rộng /brɔːd/
-- **view** : (n) tầm nhìn /vjuː/
-- **entering** : (v) nhập /ˈentərɪŋ/
-- **due** : (adj) đến hạn /djuː/
-- **dates** : (n) ngày /deɪts/
-- **minimise** : (v) giảm thiểu /ˈmɪnɪmaɪz/
-- **distractions** : (n) sự phân tâm /dɪˈstrækʃənz/
-- **activities** : (n) hoạt động /ækˈtɪvɪtiz/
-- **attention** : (n) sự chú ý /əˈtenʃən/
-- **arrange** : (v) sắp xếp /əˈreɪndʒ/
-- **stressed** : (adj) căng thẳng /strest/
+1. **calendar** : (n) lịch /ˈkælɪndər/
+2. **plan** : (v) lên kế hoạch /plæn/
+3. **ahead** : (adv) trước /əˈhed/
+4. **term** : (n) học kỳ /tɜːm/
+5. **broad** : (adj) rộng /brɔːd/
+6. **view** : (n) tầm nhìn /vjuː/
+7. **entering** : (v) nhập /ˈentərɪŋ/
+8. **due** : (adj) đến hạn /djuː/
+9. **dates** : (n) ngày /deɪts/
+10. **minimise** : (v) giảm thiểu /ˈmɪnɪmaɪz/
+11. **distractions** : (n) sự phân tâm /dɪˈstrækʃənz/
+12. **activities** : (n) hoạt động /ækˈtɪvɪtiz/
+13. **attention** : (n) sự chú ý /əˈtenʃən/
+14. **arrange** : (v) sắp xếp /əˈreɪndʒ/
+15. **stressed** : (adj) căng thẳng /strest/
 
 ### 👂 Listening - Nghe
 

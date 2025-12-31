@@ -3,20 +3,20 @@
 ## LANGUAGE - NGÔN NGỮ
 
 ### 📚 Vocabulary - Từ vựng
-- **stressed syllable** : (n) âm tiết có trọng âm /strest ˈsɪləbl/
-- **pronunciation** : (n) phát âm /prəˌnʌnsiˈeɪʃn/
-- **definition** : (n) định nghĩa /ˌdefɪˈnɪʃn/
-- **source** : (n) nguồn /sɔːs/
-- **renewable** : (adj) có thể tái tạo /rɪˈnjuːəbl/
-- **limited** : (adj) hạn chế, có giới hạn /ˈlɪmɪtɪd/
-- **eco-friendly** : (adj) thân thiện với môi trường /ˌiːkəʊ ˈfrendli/
-- **native** : (adj) bản địa, bản xứ /ˈneɪtɪv/
-- **symbol** : (n) biểu tượng /ˈsɪmbl/
-- **national flag** : (n) quốc kỳ /ˈnæʃnəl flæɡ/
-- **present** : (n) hiện tại /ˈpreznt/
-- **future** : (n) tương lai /ˈfjuːtʃə/
-- **dream** : (n, v) giấc mơ, mơ ước /driːm/
-- **article** : (n) mạo từ /ˈɑːtɪkl/
+1. **stressed syllable** : (n) âm tiết có trọng âm /strest ˈsɪləbl/
+2. **pronunciation** : (n) phát âm /prəˌnʌnsiˈeɪʃn/
+3. **definition** : (n) định nghĩa /ˌdefɪˈnɪʃn/
+4. **source** : (n) nguồn /sɔːs/
+5. **renewable** : (adj) có thể tái tạo /rɪˈnjuːəbl/
+6. **limited** : (adj) hạn chế, có giới hạn /ˈlɪmɪtɪd/
+7. **eco-friendly** : (adj) thân thiện với môi trường /ˌiːkəʊ ˈfrendli/
+8. **native** : (adj) bản địa, bản xứ /ˈneɪtɪv/
+9. **symbol** : (n) biểu tượng /ˈsɪmbl/
+10. **national flag** : (n) quốc kỳ /ˈnæʃnəl flæɡ/
+11. **present** : (n) hiện tại /ˈpreznt/
+12. **future** : (n) tương lai /ˈfjuːtʃə/
+13. **dream** : (n, v) giấc mơ, mơ ước /driːm/
+14. **article** : (n) mạo từ /ˈɑːtɪkl/
 
 ### ✍️ Bài 1: Mark (') the stressed syllables in the underlined words
 (Đánh dấu (') các âm tiết được nhấn trọng âm trong các từ được gạch chân. Sau đó nghe, kiểm tra và lặp lại.)
@@ -132,27 +132,27 @@
 ## SKILLS - KỸ NĂNG
 
 ### 📚 Vocabulary - Từ vựng
-- **amazing** : (adj) tuyệt vời, đáng kinh ngạc /əˈmeɪzɪŋ/
-- **coastline** : (n) đường bờ biển /ˈkəʊstlaɪn/
+1. **amazing** : (adj) tuyệt vời, đáng kinh ngạc /əˈmeɪzɪŋ/
+2. **coastline** : (n) đường bờ biển /ˈkəʊstlaɪn/
 - **Arctic Ocean** : Bắc Băng Dương /ˈɑːktɪk ˈəʊʃn/
 - **Pacific Ocean** : Thái Bình Dương /pəˈsɪfɪk ˈəʊʃn/
-- **incredible** : (adj) không thể tin được, đáng kinh ngạc /ɪnˈkredəbl/
-- **dogsled** : (n) xe chó kéo /ˈdɒɡsled/
-- **float plane** : (n) thủy phi cơ /fləʊt pleɪn/
-- **take off** : (v) cất cánh /teɪk ɒf/
-- **land** : (v) hạ cánh /lænd/
-- **scene** : (n) cảnh tượng /siːn/
+3. **incredible** : (adj) không thể tin được, đáng kinh ngạc /ɪnˈkredəbl/
+4. **dogsled** : (n) xe chó kéo /ˈdɒɡsled/
+5. **float plane** : (n) thủy phi cơ /fləʊt pleɪn/
+6. **take off** : (v) cất cánh /teɪk ɒf/
+7. **land** : (v) hạ cánh /lænd/
+8. **scene** : (n) cảnh tượng /siːn/
 - **Midnight Sun** : Mặt trời lúc nửa đêm /ˈmɪdnaɪt sʌn/
-- **set** : (v) lặn (mặt trời) /set/
-- **unseen** : (adj) không nhìn thấy /ˌʌnˈsiːn/
-- **pride** : (n) niềm tự hào /praɪd/
-- **unique** : (adj) độc đáo, duy nhất /juːˈniːk/
-- **energy-saving** : (adj) tiết kiệm năng lượng /ˈenədʒi ˈseɪvɪŋ/
-- **sunlight** : (n) ánh sáng mặt trời /ˈsʌnlaɪt/
-- **lane** : (n) làn đường /leɪn/
-- **crash** : (v) va chạm, đâm vào /kræʃ/
-- **traffic laws** : (n) luật giao thông /ˈtræfɪk lɔːz/
-- **electronic map** : (n) bản đồ điện tử /ɪˌlekˈtrɒnɪk mæp/
+9. **set** : (v) lặn (mặt trời) /set/
+10. **unseen** : (adj) không nhìn thấy /ˌʌnˈsiːn/
+11. **pride** : (n) niềm tự hào /praɪd/
+12. **unique** : (adj) độc đáo, duy nhất /juːˈniːk/
+13. **energy-saving** : (adj) tiết kiệm năng lượng /ˈenədʒi ˈseɪvɪŋ/
+14. **sunlight** : (n) ánh sáng mặt trời /ˈsʌnlaɪt/
+15. **lane** : (n) làn đường /leɪn/
+16. **crash** : (v) va chạm, đâm vào /kræʃ/
+17. **traffic laws** : (n) luật giao thông /ˈtræfɪk lɔːz/
+18. **electronic map** : (n) bản đồ điện tử /ɪˌlekˈtrɒnɪk mæp/
 
 ### 📖 Reading - Đọc
 

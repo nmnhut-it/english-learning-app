@@ -3,13 +3,13 @@
 **A CLOSER LOOK 1**  
 **Vocabulary**
 
-1. understand our feeling: hiểu cảm xúc của chúng ta /ˌʌndəˈstænd aʊə ˈfiːlɪŋ/  
-2. pick fruits: hái trái cây /pɪk fruːts/  
-3. do the washing: giặt đồ /duː ðə ˈwɒʃɪŋ/  
-4. water plants: tưới cây /ˈwɔːtə plɑːnts/  
-5. work as a guard: làm việc như một bảo vệ /wɜːk æz ə gɑːd/  
-6. read our moods: đọc tâm trạng của chúng ta /riːd aʊə muːdz/  
-7. understand what we say: hiểu những gì chúng ta nói /ˌʌndəˈstænd wɒt wiː seɪ/
+1. **understand our feeling** : hiểu cảm xúc của chúng ta /ˌʌndəˈstænd aʊə ˈfiːlɪŋ/
+2. **pick fruits** : hái trái cây /pɪk fruːts/
+3. **do the washing** : giặt đồ /duː ðə ˈwɒʃɪŋ/
+4. **water plants** : tưới cây /ˈwɔːtə plɑːnts/
+5. **work as a guard** : làm việc như một bảo vệ /wɜːk æz ə gɑːd/
+6. **read our moods** : đọc tâm trạng của chúng ta /riːd aʊə muːdz/
+7. **understand what we say** : hiểu những gì chúng ta nói /ˌʌndəˈstænd wɒt wiː seɪ/
 
 **Bài 2: Nói bạn có thể làm gì và không thể làm gì** 
 

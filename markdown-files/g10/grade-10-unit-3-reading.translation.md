@@ -18,210 +18,210 @@ The first season of Vietnam Idol was shown in 2007. It included three stages: sh
 <summary>📝 Word-by-Word Analysis</summary>
 
 ```
-1. shown: (v) được chiếu /ʃəʊn/
-2. for: (prep) lần đầu /fɔːr/
-3. time: (n) thời gian /taɪm/
-4. on: (prep) trên /ɒn/
-5. television: (n) truyền hình /ˈtelɪvɪʒən/
-6. in: (prep) vào /ɪn/
-7. January: (n) tháng 1 /ˈdʒænjʊəri/
-8. 2002: (n) năm 2002 /ˌtuː ˈtwaɪ ˈzɪərəʊ tuː/
-9. At: (prep) Vào /æt/
-10. that: (adj) thời điểm đó /ðæt/
-11. time: (n) thời gian /taɪm/
-12. there: (adv) có /ðeər/
-13. were: (v) đã có /wɜːr/
-14. many: (adj) nhiều /ˈmeni/
-15. movies: (n) phim /ˈmuːviz/
-16. and: (conj) và /ænd/
-17. TV: (n) truyền hình /ˌtiː ˈviː/
-18. series: (n) sê-ri /ˈsɪəriːz/
-19. but: (conj) nhưng /bʌt/
-20. no: (adj) không /nəʊ/
-21. reality: (n) thực tế /riˈæləti/
-22. competitions: (n) cuộc thi /ˌkɒmpɪˈtɪʃənz/
-23. on: (prep) trên /ɒn/
-24. TV: (n) truyền hình /ˌtiː ˈviː/
-25. The: (det) Những /ðə/
-26. participants: (n) người tham gia /pɑːˈtɪsɪpənts/
-27. in: (prep) trong /ɪn/
-28. this: (det) này /ðɪs/
-29. programme: (n) chương trình /ˈprəʊɡræm/
-30. are: (v) là /ɑːr/
-31. ordinary: (adj) bình thường /ˈɔːdənəri/
-32. people: (n) người /ˈpiːpl/
-33. who: (rel pron) mà /huː/
-34. the: (det) những /ðə/
-35. audience: (n) khán giả /ˈɔːdiəns/
-36. can: (v) có thể /kæn/
-37. really: (adv) thực sự /ˈrɪəli/
-38. identify: (v) đồng cảm /aɪˈdentɪfaɪ/
-39. with: (prep) với /wɪð/
-40. First: (adv) Đầu tiên /fɜːrst/
-41. judges: (n) ban giám khảo /ˈdʒʌdʒɪz/
-42. travel: (v) đi /trævl/
-43. all: (det) tất cả /ɔːl/
-44. around: (prep) xung quanh /əˈraʊnd/
-45. America: (n) nước Mỹ /əˈmerɪkə/
-46. in: (prep) trong /ɪn/
-47. search: (n) tìm kiếm /sɜːrtʃ/
-48. of: (prep) của /ɒv/
-49. the: (det) những /ðə/
-50. best: (adj) hay nhất /best/
-51. singers: (n) ca sĩ /ˈsɪŋərz/
-52. and: (conj) và /ænd/
-53. bring: (v) mang /brɪŋ/
-54. them: (pro) họ /ðəm/
-55. to: (prep) đến /tuː/
-56. Hollywood: (n) Hollywood /ˈhɒliwʊd/
-57. Twenty-four: (num) Hai mươi bốn /ˈtwenti fɔːr/
-58. to: (prep) đến /tuː/
-59. thirty-six: (num) Ba mươi sáu /ˈθɜːrti sɪks/
-60. participants: (n) người tham gia /pɑːˈtɪsɪpənts/
-61. are: (v) là /ɑːr/
-62. then: (adv) sau đó /ðen/
-63. chosen: (v) được chọn /ˈtʃəʊzn/
-64. to: (prep) để /tuː/
-65. go: (v) đi /ɡəʊ/
-66. on: (prep) đến /ɒn/
-67. to: (prep) đến /tuː/
-68. the: (det) những /ðə/
-69. next: (adj) tiếp theo /nekst/
-70. stages: (n) các giai đoạn /ˈsteɪdʒɪz/
-71. where: (rel pron) nơi /weər/
-72. they: (pro) họ /ðeɪ/
-73. perform: (v) biểu diễn /pəˈfɔːm/
-74. live: (adj) trực tiếp /laɪv/
-75. on: (prep) trên /ɒn/
-76. TV: (n) truyền hình /ˌtiː ˈviː/
-77. and: (conj) và /ænd/
-78. receive: (v) nhận /rɪˈsiːv/
-79. the: (det) những /ðə/
-80. judges': (n) của ban giám khảo /ˈdʒʌdʒɪz/
-81. opinions: (n) ý kiến /əˈpɪnjənz/
-82. From: (prep) Từ /frɒm/
-83. the: (det) những /ðə/
-84. semi-final: (n) bán kết /ˌsemiː ˈfaɪnl/
-85. onwards: (adv) trở đi /ˈɒnwərdz/
-86. people: (n) người /ˈpiːpl/
-87. over: (prep) trên /ˈəʊvər/
-88. 13: (num) 13 /ˌθɜːˈtiːn/
-89. and: (conj) và /ænd/
-90. living: (v) sống /ˈlɪvɪŋ/
-91. in: (prep) ở /ɪn/
-92. the: (det) những /ðə/
-93. US: (n) Mỹ /ˌjuː ˈes/
-94. Puerto Rico: (n) Puerto Rico /ˈpwɛərtəʊ ˈriːkəʊ/
-95. or: (conj) hoặc /ɔːr/
-96. the: (det) những /ðə/
-97. Virgin Islands: (n) Quần đảo Virgin /ˈvɜːrdʒɪn ˈaɪləndz/
-98. can: (v) có thể /kæn/
-99. vote: (v) bình chọn /vəʊt/
-100. for: (prep) cho /fɔːr/
-101. their: (det) của họ /ðeər/
-102. preferred: (adj) yêu thích /prɪˈfɜːrd/
-103. singers: (n) ca sĩ /ˈsɪŋərz/
-104. online: (adv) trực tuyến /ˌɒnˈlaɪn/
-105. or: (conj) hoặc /ɔːr/
-106. through: (prep) thông qua /θruː/
-107. text: (n) tin nhắn /tekst/
-108. messaging: (n) nhắn tin /ˈmesɪdʒɪŋ/
-109. The: (det) Người /ðə/
-110. singer: (n) ca sĩ /ˈsɪŋər/
-111. with: (prep) với /wɪð/
-112. the: (det) những /ðə/
-113. lowest: (adj) thấp nhất /ˈləʊɪst/
-114. number: (n) số lượng /ˈnʌmbər/
-115. of: (prep) của /ɒv/
-116. votes: (n) phiếu bầu /vəʊts/
-117. is: (v) là /ɪz/
-118. eliminated: (v) bị loại /ɪˈlɪmɪneɪtɪd/
-119. On: (prep) Vào /ɒn/
-120. the: (det) đêm /ðə/
-121. final: (adj) chung kết /ˈfaɪnl/
-122. night: (n) đêm /naɪt/
-123. the: (det) người /ðə/
-124. most: (adv) nhất /məʊst/
-125. popular: (adj) nổi tiếng /ˈpɒpjələ(r)/
-126. singer: (n) ca sĩ /ˈsɪŋər/
-127. becomes: (v) trở thành /bɪˈkʌmz/
-128. the: (det) người /ðə/
-129. winner: (n) người chiến thắng /ˈwɪnər/
-130. of: (prep) của /ɒv/
-131. that: (det) mùa /ðæt/
-132. American Idol: (n) American Idol /əˈmerɪkən ˈaɪdl/
-133. season: (n) mùa /ˈsiːzn/
-134. People: (n) Mọi người /ˈpiːpl/
-135. watch: (v) xem /wɒtʃ/
-136. American Idol: (n) American Idol /əˈmerɪkən ˈaɪdl/
-137. not: (adv) không /nɒt/
-138. only: (adv) chỉ /ˈəʊnli/
-139. to: (prep) để /tuː/
-140. see: (v) xem /siː/
-141. the: (det) những /ðə/
-142. participants: (n) người tham gia /pɑːˈtɪsɪpənts/
-143. sing: (v) hát /sɪŋ/
-144. but: (conj) mà còn /bʌt/
-145. also: (adv) cũng /ˈɔːlsəʊ/
-146. hear: (v) nghe /hɪər/
-147. the: (det) những /ðə/
-148. comments: (n) bình luận /ˈkɒments/
-149. of: (prep) của /ɒv/
-150. the: (det) những /ðə/
-151. judges: (n) ban giám khảo /ˈdʒʌdʒɪz/
-152. who: (rel pron) mà /huː/
-153. play: (v) đóng /pleɪ/
-154. an: (det) một /ən/
-155. important: (adj) quan trọng /ɪmˈpɔːtnt/
-156. role: (n) vai trò /rəʊl/
-157. in: (prep) trong /ɪn/
-158. the: (det) cuộc thi /ðə/
-159. competition: (n) cuộc thi /ˌkɒmpɪˈtɪʃən/
-160. Their: (det) của họ /ðeər/
-161. different: (adj) khác nhau /ˈdɪfrənt/
-162. opinions: (n) ý kiến /əˈpɪnjənz/
-163. and: (conj) và /ænd/
-164. interesting: (adj) thú vị /ˈɪntrəstɪŋ/
-165. arguments: (n) tranh luận /ˈɑːɡjumənts/
-166. make: (v) làm /meɪk/
-167. the: (det) chương trình /ðə/
-168. show: (n) chương trình /ʃəʊ/
-169. very: (adv) rất /ˈveri/
-170. exciting: (adj) thú vị /ɪkˈsaɪtɪŋ/
-171. The: (det) Mùa /ðə/
-172. first: (adj) đầu tiên /fɜːrst/
-173. season: (n) mùa /ˈsiːzn/
-174. of: (prep) của /ɒv/
-175. Vietnam Idol: (n) Vietnam Idol /ˌvjetˈnæm ˈaɪdl/
-176. was: (v) đã /wɒz/
-177. shown: (v) được chiếu /ʃəʊn/
-178. in: (prep) vào /ɪn/
-179. 2007: (n) năm 2007 /ˌtuː ˈzɪərəʊ ˈsɛvn/
-180. It: (pro) Nó /ɪt/
-181. included: (v) bao gồm /ɪnˈkluːdɪd/
-182. three: (num) ba /θriː/
-183. stages: (n) các giai đoạn /ˈsteɪdʒɪz/
-184. short: (adj) ngắn /ʃɔːrt/
-185. performances: (n) buổi biểu diễn /pəˈfɔːmənsɪz/
-186. to: (prep) để /tuː/
-187. choose: (v) chọn /tʃuːz/
-188. participants: (n) người tham gia /pɑːˈtɪsɪpənts/
-189. semi-finals: (n) bán kết /ˌsemiː ˈfaɪnlz/
-190. and: (conj) và /ænd/
-191. finals: (n) chung kết /ˈfaɪnlz/
-192. The: (det) Những /ðə/
-193. winners: (n) người chiến thắng /ˈwɪnərz/
-194. of: (prep) của /ɒv/
-195. the: (det) chương trình /ðə/
-196. show's: (n) của chương trình /ʃəʊz/
-197. different: (adj) khác nhau /ˈdɪfrənt/
-198. seasons: (n) mùa /ˈsiːznz/
-199. have: (v) đã /hæv/
-200. become: (v) trở thành /bɪˈkʌm/
-201. famous: (adj) nổi tiếng /ˈfeɪməs/
-202. singers: (n) ca sĩ /ˈsɪŋərz/
-203. in: (prep) ở /ɪn/
-204. Viet Nam: (n) Việt Nam /ˌviːət ˈnæm/
+1. **shown** : (v) được chiếu /ʃəʊn/
+2. **for** : (prep) lần đầu /fɔːr/
+3. **time** : (n) thời gian /taɪm/
+4. **on** : (prep) trên /ɒn/
+5. **television** : (n) truyền hình /ˈtelɪvɪʒən/
+6. **in** : (prep) vào /ɪn/
+7. **January** : (n) tháng 1 /ˈdʒænjʊəri/
+8. **2002** : (n) năm 2002 /ˌtuː ˈtwaɪ ˈzɪərəʊ tuː/
+9. **At** : (prep) Vào /æt/
+10. **that** : (adj) thời điểm đó /ðæt/
+11. **time** : (n) thời gian /taɪm/
+12. **there** : (adv) có /ðeər/
+13. **were** : (v) đã có /wɜːr/
+14. **many** : (adj) nhiều /ˈmeni/
+15. **movies** : (n) phim /ˈmuːviz/
+16. **and** : (conj) và /ænd/
+17. **TV** : (n) truyền hình /ˌtiː ˈviː/
+18. **series** : (n) sê-ri /ˈsɪəriːz/
+19. **but** : (conj) nhưng /bʌt/
+20. **no** : (adj) không /nəʊ/
+21. **reality** : (n) thực tế /riˈæləti/
+22. **competitions** : (n) cuộc thi /ˌkɒmpɪˈtɪʃənz/
+23. **on** : (prep) trên /ɒn/
+24. **TV** : (n) truyền hình /ˌtiː ˈviː/
+25. **The** : (det) Những /ðə/
+26. **participants** : (n) người tham gia /pɑːˈtɪsɪpənts/
+27. **in** : (prep) trong /ɪn/
+28. **this** : (det) này /ðɪs/
+29. **programme** : (n) chương trình /ˈprəʊɡræm/
+30. **are** : (v) là /ɑːr/
+31. **ordinary** : (adj) bình thường /ˈɔːdənəri/
+32. **people** : (n) người /ˈpiːpl/
+33. **who** : (rel pron) mà /huː/
+34. **the** : (det) những /ðə/
+35. **audience** : (n) khán giả /ˈɔːdiəns/
+36. **can** : (v) có thể /kæn/
+37. **really** : (adv) thực sự /ˈrɪəli/
+38. **identify** : (v) đồng cảm /aɪˈdentɪfaɪ/
+39. **with** : (prep) với /wɪð/
+40. **First** : (adv) Đầu tiên /fɜːrst/
+41. **judges** : (n) ban giám khảo /ˈdʒʌdʒɪz/
+42. **travel** : (v) đi /trævl/
+43. **all** : (det) tất cả /ɔːl/
+44. **around** : (prep) xung quanh /əˈraʊnd/
+45. **America** : (n) nước Mỹ /əˈmerɪkə/
+46. **in** : (prep) trong /ɪn/
+47. **search** : (n) tìm kiếm /sɜːrtʃ/
+48. **of** : (prep) của /ɒv/
+49. **the** : (det) những /ðə/
+50. **best** : (adj) hay nhất /best/
+51. **singers** : (n) ca sĩ /ˈsɪŋərz/
+52. **and** : (conj) và /ænd/
+53. **bring** : (v) mang /brɪŋ/
+54. **them** : (pro) họ /ðəm/
+55. **to** : (prep) đến /tuː/
+56. **Hollywood** : (n) Hollywood /ˈhɒliwʊd/
+57. **Twenty-four** : (num) Hai mươi bốn /ˈtwenti fɔːr/
+58. **to** : (prep) đến /tuː/
+59. **thirty-six** : (num) Ba mươi sáu /ˈθɜːrti sɪks/
+60. **participants** : (n) người tham gia /pɑːˈtɪsɪpənts/
+61. **are** : (v) là /ɑːr/
+62. **then** : (adv) sau đó /ðen/
+63. **chosen** : (v) được chọn /ˈtʃəʊzn/
+64. **to** : (prep) để /tuː/
+65. **go** : (v) đi /ɡəʊ/
+66. **on** : (prep) đến /ɒn/
+67. **to** : (prep) đến /tuː/
+68. **the** : (det) những /ðə/
+69. **next** : (adj) tiếp theo /nekst/
+70. **stages** : (n) các giai đoạn /ˈsteɪdʒɪz/
+71. **where** : (rel pron) nơi /weər/
+72. **they** : (pro) họ /ðeɪ/
+73. **perform** : (v) biểu diễn /pəˈfɔːm/
+74. **live** : (adj) trực tiếp /laɪv/
+75. **on** : (prep) trên /ɒn/
+76. **TV** : (n) truyền hình /ˌtiː ˈviː/
+77. **and** : (conj) và /ænd/
+78. **receive** : (v) nhận /rɪˈsiːv/
+79. **the** : (det) những /ðə/
+80. **judges'** : (n) của ban giám khảo /ˈdʒʌdʒɪz/
+81. **opinions** : (n) ý kiến /əˈpɪnjənz/
+82. **From** : (prep) Từ /frɒm/
+83. **the** : (det) những /ðə/
+84. **semi-final** : (n) bán kết /ˌsemiː ˈfaɪnl/
+85. **onwards** : (adv) trở đi /ˈɒnwərdz/
+86. **people** : (n) người /ˈpiːpl/
+87. **over** : (prep) trên /ˈəʊvər/
+88. **13** : (num) 13 /ˌθɜːˈtiːn/
+89. **and** : (conj) và /ænd/
+90. **living** : (v) sống /ˈlɪvɪŋ/
+91. **in** : (prep) ở /ɪn/
+92. **the** : (det) những /ðə/
+93. **US** : (n) Mỹ /ˌjuː ˈes/
+94. **Puerto Rico** : (n) Puerto Rico /ˈpwɛərtəʊ ˈriːkəʊ/
+95. **or** : (conj) hoặc /ɔːr/
+96. **the** : (det) những /ðə/
+97. **Virgin Islands** : (n) Quần đảo Virgin /ˈvɜːrdʒɪn ˈaɪləndz/
+98. **can** : (v) có thể /kæn/
+99. **vote** : (v) bình chọn /vəʊt/
+100. **for** : (prep) cho /fɔːr/
+101. **their** : (det) của họ /ðeər/
+102. **preferred** : (adj) yêu thích /prɪˈfɜːrd/
+103. **singers** : (n) ca sĩ /ˈsɪŋərz/
+104. **online** : (adv) trực tuyến /ˌɒnˈlaɪn/
+105. **or** : (conj) hoặc /ɔːr/
+106. **through** : (prep) thông qua /θruː/
+107. **text** : (n) tin nhắn /tekst/
+108. **messaging** : (n) nhắn tin /ˈmesɪdʒɪŋ/
+109. **The** : (det) Người /ðə/
+110. **singer** : (n) ca sĩ /ˈsɪŋər/
+111. **with** : (prep) với /wɪð/
+112. **the** : (det) những /ðə/
+113. **lowest** : (adj) thấp nhất /ˈləʊɪst/
+114. **number** : (n) số lượng /ˈnʌmbər/
+115. **of** : (prep) của /ɒv/
+116. **votes** : (n) phiếu bầu /vəʊts/
+117. **is** : (v) là /ɪz/
+118. **eliminated** : (v) bị loại /ɪˈlɪmɪneɪtɪd/
+119. **On** : (prep) Vào /ɒn/
+120. **the** : (det) đêm /ðə/
+121. **final** : (adj) chung kết /ˈfaɪnl/
+122. **night** : (n) đêm /naɪt/
+123. **the** : (det) người /ðə/
+124. **most** : (adv) nhất /məʊst/
+125. **popular** : (adj) nổi tiếng /ˈpɒpjələ(r)/
+126. **singer** : (n) ca sĩ /ˈsɪŋər/
+127. **becomes** : (v) trở thành /bɪˈkʌmz/
+128. **the** : (det) người /ðə/
+129. **winner** : (n) người chiến thắng /ˈwɪnər/
+130. **of** : (prep) của /ɒv/
+131. **that** : (det) mùa /ðæt/
+132. **American Idol** : (n) American Idol /əˈmerɪkən ˈaɪdl/
+133. **season** : (n) mùa /ˈsiːzn/
+134. **People** : (n) Mọi người /ˈpiːpl/
+135. **watch** : (v) xem /wɒtʃ/
+136. **American Idol** : (n) American Idol /əˈmerɪkən ˈaɪdl/
+137. **not** : (adv) không /nɒt/
+138. **only** : (adv) chỉ /ˈəʊnli/
+139. **to** : (prep) để /tuː/
+140. **see** : (v) xem /siː/
+141. **the** : (det) những /ðə/
+142. **participants** : (n) người tham gia /pɑːˈtɪsɪpənts/
+143. **sing** : (v) hát /sɪŋ/
+144. **but** : (conj) mà còn /bʌt/
+145. **also** : (adv) cũng /ˈɔːlsəʊ/
+146. **hear** : (v) nghe /hɪər/
+147. **the** : (det) những /ðə/
+148. **comments** : (n) bình luận /ˈkɒments/
+149. **of** : (prep) của /ɒv/
+150. **the** : (det) những /ðə/
+151. **judges** : (n) ban giám khảo /ˈdʒʌdʒɪz/
+152. **who** : (rel pron) mà /huː/
+153. **play** : (v) đóng /pleɪ/
+154. **an** : (det) một /ən/
+155. **important** : (adj) quan trọng /ɪmˈpɔːtnt/
+156. **role** : (n) vai trò /rəʊl/
+157. **in** : (prep) trong /ɪn/
+158. **the** : (det) cuộc thi /ðə/
+159. **competition** : (n) cuộc thi /ˌkɒmpɪˈtɪʃən/
+160. **Their** : (det) của họ /ðeər/
+161. **different** : (adj) khác nhau /ˈdɪfrənt/
+162. **opinions** : (n) ý kiến /əˈpɪnjənz/
+163. **and** : (conj) và /ænd/
+164. **interesting** : (adj) thú vị /ˈɪntrəstɪŋ/
+165. **arguments** : (n) tranh luận /ˈɑːɡjumənts/
+166. **make** : (v) làm /meɪk/
+167. **the** : (det) chương trình /ðə/
+168. **show** : (n) chương trình /ʃəʊ/
+169. **very** : (adv) rất /ˈveri/
+170. **exciting** : (adj) thú vị /ɪkˈsaɪtɪŋ/
+171. **The** : (det) Mùa /ðə/
+172. **first** : (adj) đầu tiên /fɜːrst/
+173. **season** : (n) mùa /ˈsiːzn/
+174. **of** : (prep) của /ɒv/
+175. **Vietnam Idol** : (n) Vietnam Idol /ˌvjetˈnæm ˈaɪdl/
+176. **was** : (v) đã /wɒz/
+177. **shown** : (v) được chiếu /ʃəʊn/
+178. **in** : (prep) vào /ɪn/
+179. **2007** : (n) năm 2007 /ˌtuː ˈzɪərəʊ ˈsɛvn/
+180. **It** : (pro) Nó /ɪt/
+181. **included** : (v) bao gồm /ɪnˈkluːdɪd/
+182. **three** : (num) ba /θriː/
+183. **stages** : (n) các giai đoạn /ˈsteɪdʒɪz/
+184. **short** : (adj) ngắn /ʃɔːrt/
+185. **performances** : (n) buổi biểu diễn /pəˈfɔːmənsɪz/
+186. **to** : (prep) để /tuː/
+187. **choose** : (v) chọn /tʃuːz/
+188. **participants** : (n) người tham gia /pɑːˈtɪsɪpənts/
+189. **semi-finals** : (n) bán kết /ˌsemiː ˈfaɪnlz/
+190. **and** : (conj) và /ænd/
+191. **finals** : (n) chung kết /ˈfaɪnlz/
+192. **The** : (det) Những /ðə/
+193. **winners** : (n) người chiến thắng /ˈwɪnərz/
+194. **of** : (prep) của /ɒv/
+195. **the** : (det) chương trình /ðə/
+196. **show's** : (n) của chương trình /ʃəʊz/
+197. **different** : (adj) khác nhau /ˈdɪfrənt/
+198. **seasons** : (n) mùa /ˈsiːznz/
+199. **have** : (v) đã /hæv/
+200. **become** : (v) trở thành /bɪˈkʌm/
+201. **famous** : (adj) nổi tiếng /ˈfeɪməs/
+202. **singers** : (n) ca sĩ /ˈsɪŋərz/
+203. **in** : (prep) ở /ɪn/
+204. **Viet Nam** : (n) Việt Nam /ˌviːət ˈnæm/
 ```
 
 </details>

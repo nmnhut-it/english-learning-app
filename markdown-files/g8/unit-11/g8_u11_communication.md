@@ -4,20 +4,20 @@
 
 **Vocabulary** 
 
-1.   great news for us: tin tuyệt vời cho chúng ta /ɡreɪt njuːz fɔː(r) ʌs/  
-2. great: (adj) tuyệt vời, to lớn, vĩ đại /ɡreɪt/  
-3. congratulations: (n) lời chúc mừng, sự chúc mừng /kənˌɡrætʃʊˈleɪʃnz/  
-4. vending machine: (n) máy bán hàng tự động /ˈvendɪŋ məˈʃiːn/  
-5. complain: (v) phàn nàn, than phiền /kəmˈpleɪn/  
-6. poor connection: kết nối kém /pʊə(r) kəˈnekʃn/  
-7. video conferencing: hội nghị truyền hình /ˈvɪdiəʊ ˈkɒnfərənsɪŋ/  
-8. convenient: (adj) thuận tiện, tiện lợi /kənˈviːniənt/  
-9. independent: (adj) độc lập, tự lập /ˌɪndɪˈpendənt/  
-10. share ideas: chia sẻ ý tưởng /ʃeə(r) aɪˈdɪəz/  
+1. **great news for us** : tin tuyệt vời cho chúng ta /ɡreɪt njuːz fɔː(r) ʌs/
+2. **great** : (adj) tuyệt vời, to lớn, vĩ đại /ɡreɪt/
+3. **congratulations** : (n) lời chúc mừng, sự chúc mừng /kənˌɡrætʃʊˈleɪʃnz/
+4. **vending machine** : (n) máy bán hàng tự động /ˈvendɪŋ məˈʃiːn/
+5. **complain** : (v) phàn nàn, than phiền /kəmˈpleɪn/
+6. **poor connection** : kết nối kém /pʊə(r) kəˈnekʃn/
+7. **video conferencing** : hội nghị truyền hình /ˈvɪdiəʊ ˈkɒnfərənsɪŋ/
+8. **convenient** : (adj) thuận tiện, tiện lợi /kənˈviːniənt/
+9. **independent** : (adj) độc lập, tự lập /ˌɪndɪˈpendənt/
+10. **share ideas** : chia sẻ ý tưởng /ʃeə(r) aɪˈdɪəz/
 11. breakout room: phòng họp nhỏ (trong cuộc họp trực tuyến) /ˈbreɪkaʊt ruːm/  
-12. avoid: (v) tránh, tránh né /əˈvɔɪd/  
-13. high security: an ninh cao /haɪ sɪˈkjʊərəti/  
-14. multi-functional: (adj) đa chức năng /ˌmʌltiˈfʌŋkʃənl/
+12. **avoid** : (v) tránh, tránh né /əˈvɔɪd/
+13. **high security** : an ninh cao /haɪ sɪˈkjʊərəti/
+14. **multi-functional** : (adj) đa chức năng /ˌmʌltiˈfʌŋkʃənl/
 
 **Bài 1 trang 119** 
 

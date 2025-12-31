@@ -298,14 +298,14 @@ Landslides are the mass movement of rocks or earth down a slope. Landslides occu
 
 **Vocabulary** 
 
-1. slope: sườn núi, sườn đồi   
-2. shelter: chỗ trú ẩn   
-3. public: công cộng   
-4. occur: xảy ra  
-5. cautious: cẩn thận  
-6. remain in your home: ở nhà   
-7. drought: hạn hán   
-8. clean up: dọn dẹp
+1. **slope** : sườn núi, sườn đồi
+2. **shelter** : chỗ trú ẩn
+3. **public** : công cộng
+4. **occur** : xảy ra
+5. **cautious** : cẩn thận
+6. **remain in your home** : ở nhà
+7. **drought** : hạn hán
+8. **clean up** : dọn dẹp
 
  
 

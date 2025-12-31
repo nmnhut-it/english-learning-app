@@ -3,23 +3,23 @@
 **GETTING STARTED**   
 **Vocabulary** 
 
-1. tan: (n) màu da rám nắng; (v) rám nắng, sạm da /tæn/  
-2. get back from Bali: trở về từ Bali /ɡet bæk frəm ˈbɑːli/  
-3. fly \- flew \- flown: (v) bay /flaɪ \- fluː \- fləʊn/  
-4. awesome: (adj) tuyệt vời, kinh ngạc, ấn tượng /ˈɔːsəm/  
-5. ideal: (adj) lý tưởng, hoàn hảo /aɪˈdɪəl/  
-6. destination: (n) điểm đến, nơi đến /ˌdestɪˈneɪʃn/  
-7. holidaymaker: (n) người đi nghỉ, du khách /ˈhɒlɪdeɪˌmeɪkə(r)/  
-8. especially: (adv) đặc biệt, nhất là /ɪˈspeʃəli/  
-9. terraced fields: ruộng bậc thang /ˈterəst fiːldz/  
-10. be able to: có thể, có khả năng /bi ˈeɪbl tə/  
-11. rent: (v) thuê; (n) tiền thuê /rent/  
-12. air ticket: vé máy bay /eə ˈtɪkɪt/  
-13. cheap: (a dj) rẻ, giá thấp /tʃiːp/  
-14. accommodation: (n) chỗ ở, nơi ở /əˌkɒməˈdeɪʃn/  
-15. domestic: (adj) nội địa, trong nước; thuộc về gia đình /dəˈmestɪk/  
-16. international: (adj) quốc tế /ˌɪntəˈnæʃnəl/  
-17. perfect: (adj) hoàn hảo, hoàn chỉnh; (v) hoàn thiện /ˈpɜːfɪkt/
+1. **tan** : (n) màu da rám nắng; (v) rám nắng, sạm da /tæn/
+2. **get back from Bali** : trở về từ Bali /ɡet bæk frəm ˈbɑːli/
+3. **fly \- flew \- flown** : (v) bay /flaɪ \- fluː \- fləʊn/
+4. **awesome** : (adj) tuyệt vời, kinh ngạc, ấn tượng /ˈɔːsəm/
+5. **ideal** : (adj) lý tưởng, hoàn hảo /aɪˈdɪəl/
+6. **destination** : (n) điểm đến, nơi đến /ˌdestɪˈneɪʃn/
+7. **holidaymaker** : (n) người đi nghỉ, du khách /ˈhɒlɪdeɪˌmeɪkə(r)/
+8. **especially** : (adv) đặc biệt, nhất là /ɪˈspeʃəli/
+9. **terraced fields** : ruộng bậc thang /ˈterəst fiːldz/
+10. **be able to** : có thể, có khả năng /bi ˈeɪbl tə/
+11. **rent** : (v) thuê; (n) tiền thuê /rent/
+12. **air ticket** : vé máy bay /eə ˈtɪkɪt/
+13. **cheap** : (a dj) rẻ, giá thấp /tʃiːp/
+14. **accommodation** : (n) chỗ ở, nơi ở /əˌkɒməˈdeɪʃn/
+15. **domestic** : (adj) nội địa, trong nước; thuộc về gia đình /dəˈmestɪk/
+16. **international** : (adj) quốc tế /ˌɪntəˈnæʃnəl/
+17. **perfect** : (adj) hoàn hảo, hoàn chỉnh; (v) hoàn thiện /ˈpɜːfɪkt/
 
 **Tom**: Chào An. An: Chào Tom. Bạn có một màu da rám nắng đẹp.  
 **Tom**: Ừ, tôi vừa mới trở về từ Bali. An: Bali? Nó ở đâu?  
@@ -53,15 +53,15 @@
 **Bài 4 trang 83** 
 
 1. safari \- chuyến đi ngắm thú  
-2. domestic: quốc nội \- trong nước   
-3. online apps: ứng dụng trực tuyến   
-4. Sport tourism: du lịch thể thao   
-5. destination: điểm đến 
+2. **domestic** : quốc nội \- trong nước
+3. **online apps** : ứng dụng trực tuyến
+4. **Sport tourism** : du lịch thể thao
+5. **destination** : điểm đến
 
 **Bài 5**
 
-1. Thành phố cổ ở miền Trung đã từng là thủ đô của đất nước: Huế   
-2. Thành phố này ở miền Nam thì nổi tiếng về chợ nổi của nó: Cần Thơ   
-3. Thành phố ở Tây Nguyên thường tổ chức lễ hội hoa vào tháng 12: Đà Lạt    
+1. **Thành phố cổ ở miền Trung đã từng là thủ đô của đất nước** : Huế
+2. **Thành phố này ở miền Nam thì nổi tiếng về chợ nổi của nó** : Cần Thơ
+3. **Thành phố ở Tây Nguyên thường tổ chức lễ hội hoa vào tháng 12** : Đà Lạt
 4. Tỉnh phía Bắc này có một thác nước nổi tiếng: Cao Bằng (Bản Giốc waterfall)  
-5. Tỉnh này sở hữu một di sản thế giới, Vịnh Hạ Long: Quảng Ninh 
+5. **Tỉnh này sở hữu một di sản thế giới, Vịnh Hạ Long** : Quảng Ninh

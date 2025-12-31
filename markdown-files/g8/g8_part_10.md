@@ -3,24 +3,24 @@ UNIT 10: COMMUNICATION IN THE FUTURE**
 **GETTING STARTED**   
 **Vocabulary** 
 
-1. have a video conference: có cuộc họp video /hæv ə ˈvɪdiəʊ ˈkɒnfərəns/  
-2. technology club: câu lạc bộ công nghệ /tekˈnɒlədʒi klʌb/  
-3. exactly: (adv) chính xác, đúng vậy /ɪɡˈzæktli/  
-4. a bit worried: hơi lo lắng /ə bɪt ˈwʌrid/  
-5. You're kidding: Bạn đùa đấy à /jɔː ˈkɪdɪŋ/  
-6. do a practice call: thực hiện cuộc gọi thử /duː ə ˈpræktɪs kɔːl/  
-7. It's a piece of cake: Điều đó rất dễ dàng /ɪts ə piːs əv keɪk/  
-8. tablet: (n) máy tính bảng /ˈtæblət/  
-9. focus on: (v) tập trung vào /ˈfəʊkəs ɒn/  
-10. forehead: (n) trán /ˈfɔːhed/  
-11. adjust: (v) điều chỉnh /əˈdʒʌst/  
-12. button: (n) nút /ˈbʌtn/  
-13. zoom in: phóng to /zuːm ɪn/  
-14. zoom out: thu nhỏ /zuːm aʊt/  
-15. clearly: (adv) rõ ràng /ˈklɪəli/  
-16. of course: dĩ nhiên, tất nhiên /əv kɔːs/  
-17. go smoothly: diễn ra suôn sẻ /ɡəʊ ˈsmuːðli/  
-18. high-speed Internet connection: kết nối Internet tốc độ cao /haɪ spiːd ˈɪntənet kəˈnekʃən/
+1. **have a video conference** : có cuộc họp video /hæv ə ˈvɪdiəʊ ˈkɒnfərəns/
+2. **technology club** : câu lạc bộ công nghệ /tekˈnɒlədʒi klʌb/
+3. **exactly** : (adv) chính xác, đúng vậy /ɪɡˈzæktli/
+4. **a bit worried** : hơi lo lắng /ə bɪt ˈwʌrid/
+5. **You're kidding** : Bạn đùa đấy à /jɔː ˈkɪdɪŋ/
+6. **do a practice call** : thực hiện cuộc gọi thử /duː ə ˈpræktɪs kɔːl/
+7. **It's a piece of cake** : Điều đó rất dễ dàng /ɪts ə piːs əv keɪk/
+8. **tablet** : (n) máy tính bảng /ˈtæblət/
+9. **focus on** : (v) tập trung vào /ˈfəʊkəs ɒn/
+10. **forehead** : (n) trán /ˈfɔːhed/
+11. **adjust** : (v) điều chỉnh /əˈdʒʌst/
+12. **button** : (n) nút /ˈbʌtn/
+13. **zoom in** : phóng to /zuːm ɪn/
+14. **zoom out** : thu nhỏ /zuːm aʊt/
+15. **clearly** : (adv) rõ ràng /ˈklɪəli/
+16. **of course** : dĩ nhiên, tất nhiên /əv kɔːs/
+17. **go smoothly** : diễn ra suôn sẻ /ɡəʊ ˈsmuːðli/
+18. **high-speed Internet connection** : kết nối Internet tốc độ cao /haɪ spiːd ˈɪntənet kəˈnekʃən/
 
 **Trang**: Mark, chúng ta đang có một cuộc họp video với Tech Savvy thứ năm tới, nhưng … 
 
@@ -72,37 +72,37 @@ UNIT 10: COMMUNICATION IN THE FUTURE**
 
 **Bài 5 trang 105** 
 
-1. carrier pigeon: (n) con bồ câu đưa thư /khé ri ơ phít chần/   
-2. telephone: (n) điện thoại /thé lơ phôn/   
-3. mobile phone: điện thoại di động /mố bai (ồ) phôn/   
-4. social network: mạng xã hội /xố sồ nét quợt.k /    
+1. **carrier pigeon** : (n) con bồ câu đưa thư /khé ri ơ phít chần/
+2. **telephone** : (n) điện thoại /thé lơ phôn/
+3. **mobile phone** : điện thoại di động /mố bai (ồ) phôn/
+4. **social network** : mạng xã hội /xố sồ nét quợt.k /
 
 
 **A CLOSER LOOK 1**
 
 **Vocabulary**                                                                                        
 
-1. voice message: tin nhắn thoại /vɔɪs ˈmesɪdʒ/  
-2. smartphone: điện thoại thông minh /ˈsmɑːtfəʊn/  
-3. social network: mạng xã hội /ˈsəʊʃəl ˈnetwɜːk/  
-4. emoji: biểu tượng cảm xúc /ɪˈməʊdʒi/  
-5. group call: cuộc gọi nhóm /ɡruːp kɔːl/  
-6. holography: (n) kỹ thuật ảnh ba chiều /həˈlɒɡrəfi/  
-7. text message: tin nhắn văn bản /tekst ˈmesɪdʒ/  
-8. express one's feeling: bày tỏ cảm xúc /ɪkˈspres wʌnz ˈfiːlɪŋ/  
-9. voice message: tin nhắn thoại /vɔɪs ˈmesɪdʒ/  
-10. teenager: (n) thanh thiếu niên /ˈtiːneɪdʒə/  
-11. social network: mạng xã hội /ˈsəʊʃəl ˈnetwɜːk/  
-12. face to face: trực tiếp, đối mặt /feɪs tə feɪs/  
-13. group call: cuộc gọi nhóm /ɡruːp kɔːl/  
-14. translation: (n) bản dịch, sự phiên dịch /trænsˈleɪʃən/  
-15. instantly: (adv) ngay lập tức /ˈɪnstəntli/  
-16. overcome language barrier: vượt qua rào cản ngôn ngữ /ˌəʊvəˈkʌm ˈlæŋɡwɪdʒ ˈbæriə/  
-17. communicate in real time: giao tiếp theo thời gian thực /kəˈmjuːnɪkeɪt ɪn rɪəl taɪm/  
-18. translation machine: máy phiên dịch /trænsˈleɪʃən məˈʃiːn/  
-19. respond: (v) phản hồi, trả lời /rɪˈspɒnd/  
-20. feel like \+ Ving: cảm thấy thích làm gì đó   
-21. type: (n) loại, (v) đánh máy /thai.p/ 
+1. **voice message** : tin nhắn thoại /vɔɪs ˈmesɪdʒ/
+2. **smartphone** : điện thoại thông minh /ˈsmɑːtfəʊn/
+3. **social network** : mạng xã hội /ˈsəʊʃəl ˈnetwɜːk/
+4. **emoji** : biểu tượng cảm xúc /ɪˈməʊdʒi/
+5. **group call** : cuộc gọi nhóm /ɡruːp kɔːl/
+6. **holography** : (n) kỹ thuật ảnh ba chiều /həˈlɒɡrəfi/
+7. **text message** : tin nhắn văn bản /tekst ˈmesɪdʒ/
+8. **express one's feeling** : bày tỏ cảm xúc /ɪkˈspres wʌnz ˈfiːlɪŋ/
+9. **voice message** : tin nhắn thoại /vɔɪs ˈmesɪdʒ/
+10. **teenager** : (n) thanh thiếu niên /ˈtiːneɪdʒə/
+11. **social network** : mạng xã hội /ˈsəʊʃəl ˈnetwɜːk/
+12. **face to face** : trực tiếp, đối mặt /feɪs tə feɪs/
+13. **group call** : cuộc gọi nhóm /ɡruːp kɔːl/
+14. **translation** : (n) bản dịch, sự phiên dịch /trænsˈleɪʃən/
+15. **instantly** : (adv) ngay lập tức /ˈɪnstəntli/
+16. **overcome language barrier** : vượt qua rào cản ngôn ngữ /ˌəʊvəˈkʌm ˈlæŋɡwɪdʒ ˈbæriə/
+17. **communicate in real time** : giao tiếp theo thời gian thực /kəˈmjuːnɪkeɪt ɪn rɪəl taɪm/
+18. **translation machine** : máy phiên dịch /trænsˈleɪʃən məˈʃiːn/
+19. **respond** : (v) phản hồi, trả lời /rɪˈspɒnd/
+20. **feel like \+ Ving** : cảm thấy thích làm gì đó
+21. **type** : (n) loại, (v) đánh máy /thai.p/
 
 **Bài 1 trang 106** 
 
@@ -123,11 +123,11 @@ UNIT 10: COMMUNICATION IN THE FUTURE**
 
 **Bài 3 trang 106** 
 
-1. private message: tin nhắn riêng tư   
-2. language barrier: rào cản ngôn ngữ   
-3. in real time: trong thời gian thực  
-4. translation machine: máy dịch   
-5. instantly: ngay lập tức 
+1. **private message** : tin nhắn riêng tư
+2. **language barrier** : rào cản ngôn ngữ
+3. **in real time** : trong thời gian thực
+4. **translation machine** : máy dịch
+5. **instantly** : ngay lập tức
 
 **Pronunciation:** 
 
@@ -139,21 +139,21 @@ UNIT 10: COMMUNICATION IN THE FUTURE**
 
 **Vocabulary** 
 
-1. at \+ điểm nhỏ \= in \+ vùng/không gian: ở …   
-2. on: ở trên  
-3. in front of: ở phía trước   
-4. opposite: đối diện   
-5. behind: ở phía sau   
-6. under: ở dưới 
+1. **at \+ điểm nhỏ \= in \+ vùng/không gian** : ở …
+2. **on** : ở trên
+3. **in front of** : ở phía trước
+4. **opposite** : đối diện
+5. **behind** : ở phía sau
+6. **under** : ở dưới
 
 **Bài 1 trang 107** 
 
-1. at the end of this street: ở cuối con đường này   
-2. opposite each other: đối diện nhau   
-3. looked under the table: nhìn dưới bàn   
-4. in the street: trong lòng đường   
+1. **at the end of this street** : ở cuối con đường này
+2. **opposite each other** : đối diện nhau
+3. **looked under the table** : nhìn dưới bàn
+4. **in the street** : trong lòng đường
    on the pavement: trên vỉa hè  
-5. in front of: phía trước 
+5. **in front of** : phía trước
 
 **Bài 2 trang 107** 
 
@@ -242,18 +242,18 @@ two of **my** friends
 
 **Vocabulary** 
 
-1. conference: (n) hội nghị, cuộc họp /ˈkɒnfərəns/  
-2. sorry for interrupting: xin lỗi vì đã ngắt lời /ˈsɒri fər ˌɪntəˈrʌptɪŋ/  
-3. hold on: chờ một chút /həʊld ɒn/  
-4. repeat: (v) lặp lại, nhắc lại /rɪˈpiːt/  
-5. of all ages: thuộc mọi lứa tuổi /əv ɔːl ˈeɪdʒɪz/  
-6. emoji: (n) biểu tượng cảm xúc /ɪˈməʊdʒi/  
-7. emotion: (n) cảm xúc, xúc cảm /ɪˈməʊʃən/  
-8. regardless of: bất kể, không phụ thuộc vào /rɪˈɡɑːdləs əv/  
-9. smiley face: mặt cười /ˈsmaɪli feɪs/  
-10. express: (v) bày tỏ, diễn đạt, thể hiện /ɪkˈspres/  
-11. replace: (v) thay thế, thay đổi /rɪˈpleɪs/  
-12. to a certain extent: đến một mức độ nhất định /tə ə ˈsɜːtn ɪkˈstent/
+1. **conference** : (n) hội nghị, cuộc họp /ˈkɒnfərəns/
+2. **sorry for interrupting** : xin lỗi vì đã ngắt lời /ˈsɒri fər ˌɪntəˈrʌptɪŋ/
+3. **hold on** : chờ một chút /həʊld ɒn/
+4. **repeat** : (v) lặp lại, nhắc lại /rɪˈpiːt/
+5. **of all ages** : thuộc mọi lứa tuổi /əv ɔːl ˈeɪdʒɪz/
+6. **emoji** : (n) biểu tượng cảm xúc /ɪˈməʊdʒi/
+7. **emotion** : (n) cảm xúc, xúc cảm /ɪˈməʊʃən/
+8. **regardless of** : bất kể, không phụ thuộc vào /rɪˈɡɑːdləs əv/
+9. **smiley face** : mặt cười /ˈsmaɪli feɪs/
+10. **express** : (v) bày tỏ, diễn đạt, thể hiện /ɪkˈspres/
+11. **replace** : (v) thay thế, thay đổi /rɪˈpleɪs/
+12. **to a certain extent** : đến một mức độ nhất định /tə ə ˈsɜːtn ɪkˈstent/
 
 Mark: Bây giờ, về cuộc họp video... Mọi người phải có mặt lúc 9:30 sáng, và...
 
@@ -315,20 +315,20 @@ Bài 5 trang 108
 
 **Vocabulary** 
 
-1. language barrier: rào cản ngôn ngữ /ˈlæŋɡwɪdʒ ˌbæriə/  
-2. telepathy: (n) thần giao cách cảm /təˈlepəθi/  
-3. Technology Club: câu lạc bộ công nghệ /tekˈnɒlədʒi klʌb/  
-4. keep in contact: giữ liên lạc /kiːp ɪn ˈkɒntækt/  
-5. text each other: nhắn tin cho nhau /tekst iːtʃ ˈʌðə/  
-6. in person: trực tiếp /ɪn ˈpɜːsn/  
-7. voice message: tin nhắn thoại /vɔɪs ˈmesɪdʒ/  
-8. via: (prep) thông qua, qua /ˈvaɪə/  
-9. advanced: (adj) tiên tiến, cao cấp /ədˈvɑːnst/  
-10. ability: (n) khả năng /əˈbɪləti/  
-11. thought: (n) suy nghĩ, ý nghĩ /θɔːt/  
-12. read one's mind: đọc suy nghĩ của ai /riːd wʌnz maɪnd/  
-13. take advantage of: tận dụng, lợi dụng /teɪk ədˈvɑːntɪdʒ ɒv/  
-14. lazy: (adj) lười biếng /ˈleɪzi/
+1. **language barrier** : rào cản ngôn ngữ /ˈlæŋɡwɪdʒ ˌbæriə/
+2. **telepathy** : (n) thần giao cách cảm /təˈlepəθi/
+3. **Technology Club** : câu lạc bộ công nghệ /tekˈnɒlədʒi klʌb/
+4. **keep in contact** : giữ liên lạc /kiːp ɪn ˈkɒntækt/
+5. **text each other** : nhắn tin cho nhau /tekst iːtʃ ˈʌðə/
+6. **in person** : trực tiếp /ɪn ˈpɜːsn/
+7. **voice message** : tin nhắn thoại /vɔɪs ˈmesɪdʒ/
+8. **via** : (prep) thông qua, qua /ˈvaɪə/
+9. **advanced** : (adj) tiên tiến, cao cấp /ədˈvɑːnst/
+10. **ability** : (n) khả năng /əˈbɪləti/
+11. **thought** : (n) suy nghĩ, ý nghĩ /θɔːt/
+12. **read one's mind** : đọc suy nghĩ của ai /riːd wʌnz maɪnd/
+13. **take advantage of** : tận dụng, lợi dụng /teɪk ədˈvɑːntɪdʒ ɒv/
+14. **lazy** : (adj) lười biếng /ˈleɪzi/
 
 TELEPATHY \- THẦN GIAO CÁCH CẢM
 
@@ -394,22 +394,22 @@ I think there are both advantages and disadvantages of online calls. The advanta
 
 **Bài 1 trang 110** 
 
-1. carrier pigeon: bồ câu đưa thư /ˈkæriə ˈpɪdʒɪn/  
-2. smartwatch: đồng hồ thông minh /smɑːtˈwɒtʃ/  
-3. translation machine: máy dịch /trænsˈleɪʃn məˈʃiːn/  
-4. hologram: (n) hình chiếu lập thể /ˈhɒləɡræm/  
-5. agenda: (n) lịch trình /əˈdʒendə/  
-6. announcement: (n) thông báo /əˈnaʊnsmənt/  
-7. ceremony: (n) nghi thức, nghi lễ /ˈserɪməni/  
-8. introductory talk: bài nói giới thiệu /ˌɪntrəˈdʌktəri tɔːk/  
-9. exhibition: (n) triển lãm /ˌeksɪˈbɪʃn/  
+1. **carrier pigeon** : bồ câu đưa thư /ˈkæriə ˈpɪdʒɪn/
+2. **smartwatch** : đồng hồ thông minh /smɑːtˈwɒtʃ/
+3. **translation machine** : máy dịch /trænsˈleɪʃn məˈʃiːn/
+4. **hologram** : (n) hình chiếu lập thể /ˈhɒləɡræm/
+5. **agenda** : (n) lịch trình /əˈdʒendə/
+6. **announcement** : (n) thông báo /əˈnaʊnsmənt/
+7. **ceremony** : (n) nghi thức, nghi lễ /ˈserɪməni/
+8. **introductory talk** : bài nói giới thiệu /ˌɪntrəˈdʌktəri tɔːk/
+9. **exhibition** : (n) triển lãm /ˌeksɪˈbɪʃn/
 
 **Bài 2 trang 111** 
 
-1. 8:20   
+1. **8** : 20
 2. first   
 3. Modern   
-4. 10:15   
+4. **10** : 15
 5. Cinema 
 
 **Bài 3 trang 111** 

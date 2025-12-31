@@ -2,21 +2,21 @@
 **GETTING STARTED**   
 **Vocabulary** 
 
-1. holiday: (n) kỳ nghỉ, ngày lễ /ˈhɒlɪdeɪ/  
-2. from: (prep) từ, từ đâu /frɒm/  
-3. What's it like?: Nó như thế nào? /wɒts ɪt laɪk/  
-4. What a beautiful place\!: Thật là một nơi đẹp\! /wɒt ə ˈbjuːtɪfʊl pleɪs/  
-5. exciting: (adj) thú vị, hào hứng /ɪkˈsaɪtɪŋ/  
-6. a lot of: rất nhiều /ə lɒt əv/  
-7. beach: (n) bãi biển /biːtʃ/  
-8. wonderful: (adj) tuyệt vời /ˈwʌndəfʊl/  
-9. What bad weather\!: Thời tiết thật tệ\! /wɒt bæd ˈweðə/  
-10. rain:(n) cơn mưa, (v) mưa /reɪn/  
-11. the River Thames: sông Thames /ðə ˈrɪvə temz/  
-12. crowded: (adj) đông đúc /ˈkraʊdɪd/  
-13. interesting: (adj) thú vị, hấp dloiẫn /ˈɪntrəstɪŋ/  
-14. many places: nhiều nơi /ˈmeni ˈpleɪsɪz/  
-15. some photos of mine: một số ảnh của tôi /sʌm ˈfəʊtəʊz əv maɪn/
+1. **holiday** : (n) kỳ nghỉ, ngày lễ /ˈhɒlɪdeɪ/
+2. **from** : (prep) từ, từ đâu /frɒm/
+3. **What's it like?** : Nó như thế nào? /wɒts ɪt laɪk/
+4. **What a beautiful place\!** : Thật là một nơi đẹp\! /wɒt ə ˈbjuːtɪfʊl pleɪs/
+5. **exciting** : (adj) thú vị, hào hứng /ɪkˈsaɪtɪŋ/
+6. **a lot of** : rất nhiều /ə lɒt əv/
+7. **beach** : (n) bãi biển /biːtʃ/
+8. **wonderful** : (adj) tuyệt vời /ˈwʌndəfʊl/
+9. **What bad weather\!** : Thời tiết thật tệ\! /wɒt bæd ˈweðə/
+10. **rain** : (n) cơn mưa, (v) mưa /reɪn/
+11. **the River Thames** : sông Thames /ðə ˈrɪvə temz/
+12. **crowded** : (adj) đông đúc /ˈkraʊdɪd/
+13. **interesting** : (adj) thú vị, hấp dloiẫn /ˈɪntrəstɪŋ/
+14. **many places** : nhiều nơi /ˈmeni ˈpleɪsɪz/
+15. **some photos of mine** : một số ảnh của tôi /sʌm ˈfəʊtəʊz əv maɪn/
 
 Mai: Tom, những tấm ảnh này từ kỳ nghỉ của bạnphải không?  
 Tom: Vâng, đúng vậy. Đây là Sydney, một thành phố ở Australia.  
@@ -40,9 +40,9 @@ Mai: Đây là vài tấm ảnh của tôi. Đây là...
 
 **Bài 3 trang 27** 
 
-1. Sydney: exciting, beautiful  
-2. London: rainy   
-3. New York: crowded, interesting 
+1. **Sydney** : exciting, beautiful
+2. **London** : rainy
+3. **New York** : crowded, interesting
 
 **Bài 4 trang 27** 
 
@@ -56,26 +56,26 @@ Mai: Đây là vài tấm ảnh của tôi. Đây là...
 **A CLOSER LOOK 1**  
 **Vocabulary** 
 
-1. landmark: (n) địa danh, thắng cảnh /ˈlændmɑːk/  
-2. rainy: (adj) mưa, có mưa /ˈreɪni/  
-3. friendly: (adj) thân thiện, thân thiết /ˈfrendli/  
-4. tasty: (adj) ngon miệng /ˈteɪsti/  
-5. old: (adj) cũ, già /əʊld/  
-6. exciting: (adj) thú vị, hào hứng /ɪkˈsaɪtɪŋ/  
-7. helpful: (adj) hữu ích, giúp đỡ /ˈhelpfʊl/  
-8. delicious: (adj) ngon, thơm ngon /dɪˈlɪʃəs/  
-9. sunny: (adj) nắng, có nắng /ˈsʌni/  
-10. city: (n) thành phố /ˈsɪti/  
-11. food: (n) thức ăn, đồ ăn /fuːd/  
-12. people: (n) người, dân /ˈpiːpl/  
-13. weather: (n) thời tiết /ˈweðə/  
-14. famous: (adj) nổi tiếng, danh tiếng /ˈfeɪməs/  
-15. street food: món ăn đường phố /striːt fuːd/  
-16. building: (n) tòa nhà, công trình /ˈbɪldɪŋ/  
-17. tell stories: kể chuyện /tel ˈstɔːriz/  
-18. floating market: chợ nổi /ˈfləʊtɪŋ ˈmɑːkɪt/  
-19. stall: (n) quầy hàng, gian hàng /stɔːl/  
-20. palace: (n) cung điện, lâu đài /ˈpælɪs/
+1. **landmark** : (n) địa danh, thắng cảnh /ˈlændmɑːk/
+2. **rainy** : (adj) mưa, có mưa /ˈreɪni/
+3. **friendly** : (adj) thân thiện, thân thiết /ˈfrendli/
+4. **tasty** : (adj) ngon miệng /ˈteɪsti/
+5. **old** : (adj) cũ, già /əʊld/
+6. **exciting** : (adj) thú vị, hào hứng /ɪkˈsaɪtɪŋ/
+7. **helpful** : (adj) hữu ích, giúp đỡ /ˈhelpfʊl/
+8. **delicious** : (adj) ngon, thơm ngon /dɪˈlɪʃəs/
+9. **sunny** : (adj) nắng, có nắng /ˈsʌni/
+10. **city** : (n) thành phố /ˈsɪti/
+11. **food** : (n) thức ăn, đồ ăn /fuːd/
+12. **people** : (n) người, dân /ˈpiːpl/
+13. **weather** : (n) thời tiết /ˈweðə/
+14. **famous** : (adj) nổi tiếng, danh tiếng /ˈfeɪməs/
+15. **street food** : món ăn đường phố /striːt fuːd/
+16. **building** : (n) tòa nhà, công trình /ˈbɪldɪŋ/
+17. **tell stories** : kể chuyện /tel ˈstɔːriz/
+18. **floating market** : chợ nổi /ˈfləʊtɪŋ ˈmɑːkɪt/
+19. **stall** : (n) quầy hàng, gian hàng /stɔːl/
+20. **palace** : (n) cung điện, lâu đài /ˈpælɪs/
 
 **Bài 1 trang 28**   
 city: old, exciting   
@@ -162,8 +162,8 @@ Khang → Khang’s
 
 **Bài 4 trang 30**
 
-1. Úc là một đất nước lạ. Tất cả những thành phố lớn của nó thì dọc theo bờ biển. → của nó: its  
-2. Thành phố của chúng tôi thì rất đông đúc. Còn (thành phố) của bạn thì sao? → thành phố của bạn: yours.   
+1. **Úc là một đất nước lạ. Tất cả những thành phố lớn của nó thì dọc theo bờ biển. → của nó** : its
+2. **Thành phố của chúng tôi thì rất đông đúc. Còn (thành phố) của bạn thì sao? → thành phố của bạn** : yours.
 3. Tôi thích câu lạc bộ bóng đá của tôi. Phong có thích (câu lạc bộ bóng đá) của cậu ấy không? → his  
 4. Đường của chúng ta thì ngắn và hẹp. → Đứng trước danh từ street → cần dùng tính từ sở hữu → điền our.   
 5. Họ không thể tìm được bản đồ thành phố của họ ở bất cứ nơi đâu → điền their do đứng trước danh từ city map. 
@@ -224,23 +224,23 @@ Ví dụ: What fresh air\!
 **SKILLS**   
 **Vocabulary** 
 
-1. postcard: (n) bưu thiếp, thiệp /ˈpəʊstkɑːd/  
-2. fantastic: (adj) tuyệt vời, phi thường /fænˈtæstɪk/  
-3. perfect: (adj) hoàn hảo, tuyệt vời /ˈpɜːfɪkt/  
-4. sunny: (adj) nắng, đầy nắng /ˈsʌni/  
-5. all the time: luôn luôn, mọi lúc /ɔːl ðə taɪm/  
-6. offer: (v) đề nghị, cung cấp /ˈɒfə/  
-7. delicious breakfast: bữa sáng ngon /dɪˈlɪʃəs ˈbrekfəst/  
-8. cycle: (v) đạp xe, đi xe đạp /ˈsaɪkl/  
-9. Royal Palace: Cung điện Hoàng gia /ˈrɔɪəl ˈpæləs/  
-10. helmet: (n) mũ bảo hiểm /ˈhelmɪt/  
-11. wear \- wore \- worn: (v) mặc, đeo, sử dụng (quần áo, trang sức) /weə \- wɔː \- wɔːn/  
-12. Swedish art: nghệ thuật Thụy Điển /ˈswiːdɪʃ ɑːt/  
-13. coffee break: giờ giải lao uống cà phê /ˈkɒfi breɪk/  
-14. traditional café: quán cà phê truyền thống /trəˈdɪʃənl ˈkæfeɪ/  
-15. The Old Town: Phố cổ /ði əʊld taʊn/  
-16. landscape: (n) phong cảnh, cảnh quan /ˈlændskeɪp/  
-17. rent: (v) thuê, cho thuê /rent/
+1. **postcard** : (n) bưu thiếp, thiệp /ˈpəʊstkɑːd/
+2. **fantastic** : (adj) tuyệt vời, phi thường /fænˈtæstɪk/
+3. **perfect** : (adj) hoàn hảo, tuyệt vời /ˈpɜːfɪkt/
+4. **sunny** : (adj) nắng, đầy nắng /ˈsʌni/
+5. **all the time** : luôn luôn, mọi lúc /ɔːl ðə taɪm/
+6. **offer** : (v) đề nghị, cung cấp /ˈɒfə/
+7. **delicious breakfast** : bữa sáng ngon /dɪˈlɪʃəs ˈbrekfəst/
+8. **cycle** : (v) đạp xe, đi xe đạp /ˈsaɪkl/
+9. **Royal Palace** : Cung điện Hoàng gia /ˈrɔɪəl ˈpæləs/
+10. **helmet** : (n) mũ bảo hiểm /ˈhelmɪt/
+11. **wear \- wore \- worn** : (v) mặc, đeo, sử dụng (quần áo, trang sức) /weə \- wɔː \- wɔːn/
+12. **Swedish art** : nghệ thuật Thụy Điển /ˈswiːdɪʃ ɑːt/
+13. **coffee break** : giờ giải lao uống cà phê /ˈkɒfi breɪk/
+14. **traditional café** : quán cà phê truyền thống /trəˈdɪʃənl ˈkæfeɪ/
+15. **The Old Town** : Phố cổ /ði əʊld taʊn/
+16. **landscape** : (n) phong cảnh, cảnh quan /ˈlændskeɪp/
+17. **rent** : (v) thuê, cho thuê /rent/
 
 Ngày 6 tháng 9
 
@@ -294,13 +294,13 @@ We’re going to tell you about Vũng Tàu city. It has many beautiful beaches, 
 **Listening**    
 **Vocabulary** 
 
-1. floating market: chợ nổi /ˈfləʊtɪŋ ˈmɑːkɪt/  
-2. stall: (n) quầy hàng, gian hàng /stɔːl/  
-3. cheap prices: giá rẻ /tʃiːp ˈpraɪsɪz/  
-4. five minutes' walk from the station: 5 phút đi bộ từ trạm xe /faɪv ˈmɪnɪts wɔːk frəm ðə ˈsteɪʃn/  
-5. forget \- forgot \- forgotten: (v) quên /fəˈget \- fəˈgɒt \- fəˈgɒtn/  
-6. remember \- remembered \- remembered: (v) nhớ /rɪˈmembə \- rɪˈmembəd \- rɪˈmembəd/  
-7. serving different Thai dishes: phục vụ những món ăn Thái khác nhau /ˈsɜːvɪŋ ˈdɪfrənt taɪ ˈdɪʃɪz/
+1. **floating market** : chợ nổi /ˈfləʊtɪŋ ˈmɑːkɪt/
+2. **stall** : (n) quầy hàng, gian hàng /stɔːl/
+3. **cheap prices** : giá rẻ /tʃiːp ˈpraɪsɪz/
+4. **five minutes' walk from the station** : 5 phút đi bộ từ trạm xe /faɪv ˈmɪnɪts wɔːk frəm ðə ˈsteɪʃn/
+5. **forget \- forgot \- forgotten** : (v) quên /fəˈget \- fəˈgɒt \- fəˈgɒtn/
+6. **remember \- remembered \- remembered** : (v) nhớ /rɪˈmembə \- rɪˈmembəd \- rɪˈmembəd/
+7. **serving different Thai dishes** : phục vụ những món ăn Thái khác nhau /ˈsɜːvɪŋ ˈdɪfrənt taɪ ˈdɪʃɪz/
 
 1. F  
 2. F   
@@ -409,17 +409,17 @@ Love,
 **SKILLS**   
 **Vocabulary** 
 
-1. simple sport: môn thể thao đơn giản /ˈsɪmpl spɔːt/  
-2. competitor: (n) đối thủ, người tham gia thi đấu /kəmˈpetɪtə/  
-3. roll a big round piece of cheese: lăn một miếng phô mai tròn lớn /rəʊl ə bɪɡ raʊnd piːs əv tʃiːz/  
-4. run after: chạy theo sau /rʌn ˈɑːftə/  
-5. try to catch it: cố gắng bắt nó /traɪ tə kætʃ ɪt/  
-6. few: (adj) ít /fjuː/  
-7. popular sport: môn thể thao phổ biến /ˈpɒpjʊlə spɔːt/  
-8. start: (v) bắt đầu /stɑːt/  
-9. lock their toes together: khóa các ngón chân của họ lại với nhau /lɒk ðeə təʊz təˈɡeðə/  
-10. arm wrestling: vật tay /ɑːm ˈreslɪŋ/  
-11. push: (v) đẩy /pʊʃ/ 
+1. **simple sport** : môn thể thao đơn giản /ˈsɪmpl spɔːt/
+2. **competitor** : (n) đối thủ, người tham gia thi đấu /kəmˈpetɪtə/
+3. **roll a big round piece of cheese** : lăn một miếng phô mai tròn lớn /rəʊl ə bɪɡ raʊnd piːs əv tʃiːz/
+4. **run after** : chạy theo sau /rʌn ˈɑːftə/
+5. **try to catch it** : cố gắng bắt nó /traɪ tə kætʃ ɪt/
+6. **few** : (adj) ít /fjuː/
+7. **popular sport** : môn thể thao phổ biến /ˈpɒpjʊlə spɔːt/
+8. **start** : (v) bắt đầu /stɑːt/
+9. **lock their toes together** : khóa các ngón chân của họ lại với nhau /lɒk ðeə təʊz təˈɡeðə/
+10. **arm wrestling** : vật tay /ɑːm ˈreslɪŋ/
+11. **push** : (v) đẩy /pʊʃ/
 
 1\. Đó là một môn thể thao đơn giản. Các đối thủ lăn một miếng pho mát lớn hình tròn từ trên đỉnh đồi. Đối thủ cạnh tranh chạy theo và cố gắng bắt lấy nó. Rất ít người có thể bắt được nó vì nó đi rất nhanh, khoảng 112 km một giờ.
 

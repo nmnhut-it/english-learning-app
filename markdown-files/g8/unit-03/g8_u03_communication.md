@@ -5,8 +5,8 @@
 
 **Vocabulary** 
 
-1. discuss: (v) thảo luận /dɪˈskʌs/  
-2. notification: (n) thông báo /ˌnəʊtɪfɪˈkeɪʃn/
+1. **discuss** : (v) thảo luận /dɪˈskʌs/
+2. **notification** : (n) thông báo /ˌnəʊtɪfɪˈkeɪʃn/
 
 ANN: Tôi nghĩ YouTube là trang mạng xã hội phổ biến nhất. Tôi đăng nhập vào nó hàng ngày. Tôi tải video lên và xem video của người khác.  
 TOM: Tôi sử dụng Facebook để kết nối với bạn bè, đăng ảnh và chia sẻ bài đăng của người khác. Tôi sử dụng nó hàng ngày. Nó thân thiện với người dùng.  

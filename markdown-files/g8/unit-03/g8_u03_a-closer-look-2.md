@@ -8,21 +8,21 @@ Câu ghép là câu có hai vế câu trở lên
 
 **Vocabulary**:
 
-1. project: (n) dự án /ˈprɒdʒɛkt/  
-2. tolerant: (adj) khoan dung /ˈtɒlərənt/  
-3. communication: (n) giao tiếp /kəˌmjuːnɪˈkeɪʃən/  
-4. active: (adj) năng động /ˈæktɪv/  
-5. talkative: (adj) nói nhiều /ˈtɔːkətɪv/  
-6. chat: (v) tán gẫu /tʃæt/  
-7. smart: (adj) thông minh /smɑːt/  
-8. member: (n) thành viên /ˈmɛmbə/  
-9. competition: (n) cuộc thi /ˌkɒmpɪˈtɪʃən/  
-10. participate: (v) tham gia /pɑːˈtɪsɪpeɪt/  
-11. freedom: (n) sự tự do /ˈfriːdəm/  
-12. limit: (n) giới hạn /ˈlɪmɪt/  
-13. cheat: (v) gian lận /tʃiːt/  
-14. pressure: (n) áp lực /ˈprɛʃə/  
-15. prepare: (v) chuẩn bị /prɪˈpeə/
+1. **project** : (n) dự án /ˈprɒdʒɛkt/
+2. **tolerant** : (adj) khoan dung /ˈtɒlərənt/
+3. **communication** : (n) giao tiếp /kəˌmjuːnɪˈkeɪʃən/
+4. **active** : (adj) năng động /ˈæktɪv/
+5. **talkative** : (adj) nói nhiều /ˈtɔːkətɪv/
+6. **chat** : (v) tán gẫu /tʃæt/
+7. **smart** : (adj) thông minh /smɑːt/
+8. **member** : (n) thành viên /ˈmɛmbə/
+9. **competition** : (n) cuộc thi /ˌkɒmpɪˈtɪʃən/
+10. **participate** : (v) tham gia /pɑːˈtɪsɪpeɪt/
+11. **freedom** : (n) sự tự do /ˈfriːdəm/
+12. **limit** : (n) giới hạn /ˈlɪmɪt/
+13. **cheat** : (v) gian lận /tʃiːt/
+14. **pressure** : (n) áp lực /ˈprɛʃə/
+15. **prepare** : (v) chuẩn bị /prɪˈpeə/
 
 **Bài 1 trang 31**
 

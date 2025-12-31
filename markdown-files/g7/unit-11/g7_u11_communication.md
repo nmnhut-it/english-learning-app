@@ -4,16 +4,16 @@
 
 **Vocabulary** 
 
-1.  Do you think we will ... ?: Bạn có nghĩ chúng ta sẽ ... không? /duː juː θɪŋk wiː wɪl/  
-2. We certainly will: Chúng ta chắc chắn sẽ /wiː ˈsɜːtnli wɪl/  
-3. It probably won't: Có lẽ nó sẽ không /ɪt ˈprɒbəbli wəʊnt/  
-4. be able to: (v) có thể, có khả năng /biː ˈeɪbl tuː/  
-5. wheel: (n) bánh xe /wiːl/  
-6. self-balancing: (adj) tự cân bằng /ˌself ˈbælənsɪŋ/  
-7. means of transport: phương tiện di chuyển /miːnz əv ˈtrænspɔːt/  
-8. turn on the switch: bật công tắc /tɜːn ɒn ðə swɪtʃ/  
-9. fall off it: ngã khỏi nó /fɔːl ɒf ɪt/  
-10. dangerous: (adj) nguy hiểm /ˈdeɪndʒərəs/
+1. **Do you think we will ... ?** : Bạn có nghĩ chúng ta sẽ ... không? /duː juː θɪŋk wiː wɪl/
+2. **We certainly will** : Chúng ta chắc chắn sẽ /wiː ˈsɜːtnli wɪl/
+3. **It probably won't** : Có lẽ nó sẽ không /ɪt ˈprɒbəbli wəʊnt/
+4. **be able to** : (v) có thể, có khả năng /biː ˈeɪbl tuː/
+5. **wheel** : (n) bánh xe /wiːl/
+6. **self-balancing** : (adj) tự cân bằng /ˌself ˈbælənsɪŋ/
+7. **means of transport** : phương tiện di chuyển /miːnz əv ˈtrænspɔːt/
+8. **turn on the switch** : bật công tắc /tɜːn ɒn ðə swɪtʃ/
+9. **fall off it** : ngã khỏi nó /fɔːl ɒf ɪt/
+10. **dangerous** : (adj) nguy hiểm /ˈdeɪndʒərəs/
 
 **Bài 2 trang 119** 
 

@@ -3,25 +3,25 @@ UNIT 12: CAREER CHOICES**
 **GETTING STARTED**   
 **Vocabulary** 
 
-1. attend: (v) tham dự, tham gia /əˈtend/  
-2. career: (n) sự nghiệp, nghề nghiệp /kəˈrɪə/  
-3. career orientation session: buổi định hướng nghề nghiệp /kəˈrɪə ˌɔːrienˈteɪʃn ˈseʃn/  
-4. informative: (adj) cung cấp thông tin, bổ ích /ɪnˈfɔːmətɪv/  
-5. guest speaker: (n) diễn giả khách mời /ɡest ˈspiːkə/  
-6. vocational college: (n) trường cao đẳng nghề /vəʊˈkeɪʃənl ˈkɒlɪdʒ/  
-7. training course: (n) khóa đào tạo /ˈtreɪnɪŋ kɔːs/  
-8. lower secondary leaver: người tốt nghiệp trung học cơ sở /ˌləʊə ˈsekəndri ˈliːvə/  
-9. academic subject: (n) môn học thuật /ˌækəˈdemɪk ˈsʌbdʒɪkt/  
-10. apply for courses: đăng ký các khóa học /əˈplaɪ fɔː ˈkɔːsɪz/  
-11. prepare us for a job: chuẩn bị cho chúng ta một công việc /prɪˈpeə ʌs fɔːr ə dʒɒb/  
-12. mechanic: (n) thợ máy, kỹ thuật viên /mɪˈkænɪk/  
-13. hairdresser: (n) thợ làm tóc /ˈheəˌdresə/  
-14. garment worker: (n) công nhân may mặc /ˈɡɑːmənt ˈwɜːkə/  
-15. earn a living: kiếm sống /ɜːn ə ˈlɪvɪŋ/  
-16. bartender: (n) người pha chế đồ uống /ˈbɑːˌtendə/  
-17. a good sense of style: khiếu thẩm mỹ tốt /ə ɡʊd sens əv staɪl/  
-18. formal training: (n) đào tạo chính quy /ˈfɔːml ˈtreɪnɪŋ/  
-19. achieve your dream: đạt được ước mơ của bạn /əˈtʃiːv jɔː driːm/
+1. **attend** : (v) tham dự, tham gia /əˈtend/
+2. **career** : (n) sự nghiệp, nghề nghiệp /kəˈrɪə/
+3. **career orientation session** : buổi định hướng nghề nghiệp /kəˈrɪə ˌɔːrienˈteɪʃn ˈseʃn/
+4. **informative** : (adj) cung cấp thông tin, bổ ích /ɪnˈfɔːmətɪv/
+5. **guest speaker** : (n) diễn giả khách mời /ɡest ˈspiːkə/
+6. **vocational college** : (n) trường cao đẳng nghề /vəʊˈkeɪʃənl ˈkɒlɪdʒ/
+7. **training course** : (n) khóa đào tạo /ˈtreɪnɪŋ kɔːs/
+8. **lower secondary leaver** : người tốt nghiệp trung học cơ sở /ˌləʊə ˈsekəndri ˈliːvə/
+9. **academic subject** : (n) môn học thuật /ˌækəˈdemɪk ˈsʌbdʒɪkt/
+10. **apply for courses** : đăng ký các khóa học /əˈplaɪ fɔː ˈkɔːsɪz/
+11. **prepare us for a job** : chuẩn bị cho chúng ta một công việc /prɪˈpeə ʌs fɔːr ə dʒɒb/
+12. **mechanic** : (n) thợ máy, kỹ thuật viên /mɪˈkænɪk/
+13. **hairdresser** : (n) thợ làm tóc /ˈheəˌdresə/
+14. **garment worker** : (n) công nhân may mặc /ˈɡɑːmənt ˈwɜːkə/
+15. **earn a living** : kiếm sống /ɜːn ə ˈlɪvɪŋ/
+16. **bartender** : (n) người pha chế đồ uống /ˈbɑːˌtendə/
+17. **a good sense of style** : khiếu thẩm mỹ tốt /ə ɡʊd sens əv staɪl/
+18. **formal training** : (n) đào tạo chính quy /ˈfɔːml ˈtreɪnɪŋ/
+19. **achieve your dream** : đạt được ước mơ của bạn /əˈtʃiːv jɔː driːm/
 
 Mi: Bạn có tham dự buổi định hướng nghề nghiệp ngày hôm qua không?
 
@@ -89,29 +89,29 @@ Nick: Cảm ơn. Tôi nghĩ chúng ta nên biết đam mê và khả năng của
 **A CLOSER LOOK 1**  
 **Vocabulary** 
 
-1. tailor: (n) thợ may /ˈteɪlə/  
-2. surgeon: (n) bác sĩ phẫu thuật /ˈsɜːdʒən/  
-3. an assembly worker: công nhân lắp ráp /ən əˈsembli ˈwɜːkə/  
-4. cashier: (n) thu ngân /kæˈʃɪə/  
-5. software engineer: (n) kỹ sư phần mềm /ˈsɒftweə endʒɪˈnɪə/  
-6. receive: (v) nhận /rɪˈsiːv/  
-7. perform a particular task: thực hiện một nhiệm vụ cụ thể /pəˈfɔːm ə pəˈtɪkjʊlə tɑːsk/  
-8. duty: (n) nhiệm vụ, trách nhiệm /ˈdjuːti/  
-9. customer manager: (n) quản lý khách hàng /ˈkʌstəmər ˈmænɪdʒə/  
-10. the police force: lực lượng cảnh sát /ðə pəˈliːs fɔːs/  
-11. repetitive task: nhiệm vụ lặp đi lặp lại /rɪˈpetətɪv tɑːsk/  
-12. receipt: (n) hóa đơn, biên lai /rɪˈsiːt/  
-13. knowledgeable about fabric: hiểu biết về vải /ˈnɒlɪdʒəbl əˈbaʊt ˈfæbrɪk/  
-14. demanding: (adj) đòi hỏi cao, khó khăn /dɪˈmɑːndɪŋ/  
-15. rewarding: (adj) bổ ích, đáng công /rɪˈwɔːdɪŋ/  
-16. occasionally: (adv) thỉnh thoảng, đôi khi /əˈkeɪʒnəli/  
-17. deadlines: (n) thời hạn /ˈdedlaɪnz/  
-18. approach: (n) cách tiếp cận; (v) tiếp cận /əˈprəʊtʃ/  
-19. work long hours: làm việc nhiều giờ /wɜːk lɒŋ ˈaʊəz/  
-20. be in charge of: chịu trách nhiệm, phụ trách /bi ɪn tʃɑːdʒ ɒv/  
-21. be responsible for: chịu trách nhiệm về /bi rɪˈspɒnsəbl fɔː/  
-22. stick labels on the products: dán nhãn lên sản phẩm /stɪk ˈleɪblz ɒn ðə ˈprɒdʌkts/  
-23. at a reasonable speed: ở tốc độ hợp lý /æt ə ˈriːznəbl spiːd/
+1. **tailor** : (n) thợ may /ˈteɪlə/
+2. **surgeon** : (n) bác sĩ phẫu thuật /ˈsɜːdʒən/
+3. **an assembly worker** : công nhân lắp ráp /ən əˈsembli ˈwɜːkə/
+4. **cashier** : (n) thu ngân /kæˈʃɪə/
+5. **software engineer** : (n) kỹ sư phần mềm /ˈsɒftweə endʒɪˈnɪə/
+6. **receive** : (v) nhận /rɪˈsiːv/
+7. **perform a particular task** : thực hiện một nhiệm vụ cụ thể /pəˈfɔːm ə pəˈtɪkjʊlə tɑːsk/
+8. **duty** : (n) nhiệm vụ, trách nhiệm /ˈdjuːti/
+9. **customer manager** : (n) quản lý khách hàng /ˈkʌstəmər ˈmænɪdʒə/
+10. **the police force** : lực lượng cảnh sát /ðə pəˈliːs fɔːs/
+11. **repetitive task** : nhiệm vụ lặp đi lặp lại /rɪˈpetətɪv tɑːsk/
+12. **receipt** : (n) hóa đơn, biên lai /rɪˈsiːt/
+13. **knowledgeable about fabric** : hiểu biết về vải /ˈnɒlɪdʒəbl əˈbaʊt ˈfæbrɪk/
+14. **demanding** : (adj) đòi hỏi cao, khó khăn /dɪˈmɑːndɪŋ/
+15. **rewarding** : (adj) bổ ích, đáng công /rɪˈwɔːdɪŋ/
+16. **occasionally** : (adv) thỉnh thoảng, đôi khi /əˈkeɪʒnəli/
+17. **deadlines** : (n) thời hạn /ˈdedlaɪnz/
+18. **approach** : (n) cách tiếp cận; (v) tiếp cận /əˈprəʊtʃ/
+19. **work long hours** : làm việc nhiều giờ /wɜːk lɒŋ ˈaʊəz/
+20. **be in charge of** : chịu trách nhiệm, phụ trách /bi ɪn tʃɑːdʒ ɒv/
+21. **be responsible for** : chịu trách nhiệm về /bi rɪˈspɒnsəbl fɔː/
+22. **stick labels on the products** : dán nhãn lên sản phẩm /stɪk ˈleɪblz ɒn ðə ˈprɒdʌkts/
+23. **at a reasonable speed** : ở tốc độ hợp lý /æt ə ˈriːznəbl spiːd/
 
    
 **Bài 1 trang 126**   
@@ -325,20 +325,20 @@ Tom: You want to become a surgeon? ⤴ Do you have skilful hands? ⤴
 
 **Vocabulary**
 
-1. hopefully: (adv) hy vọng là, mong rằng /ˈhəʊp.fəl.i/  
-2. I hope so, too: tôi cũng hy vọng như vậy /aɪ həʊp səʊ tuː/  
-3. a design competition: cuộc thi thiết kế /ə dɪˈzaɪn ˌkɒm.pəˈtɪʃ.ən/  
+1. **hopefully** : (adv) hy vọng là, mong rằng /ˈhəʊp.fəl.i/
+2. **I hope so, too** : tôi cũng hy vọng như vậy /aɪ həʊp səʊ tuː/
+3. **a design competition** : cuộc thi thiết kế /ə dɪˈzaɪn ˌkɒm.pəˈtɪʃ.ən/
 4. look forward to \+ Ving: mong đợi, trông đợi (làm gì) /lʊk ˈfɔː.wəd tuː/  
-5. dream \- dreamed \- dreamt: (v) mơ, mơ ước /driːm \- driːmd \- dremt/  
-6. medical university: trường đại học y /ˈmed.ɪ.kəl ˌjuː.nɪˈvɜː.sɪ.ti/  
-7. seem: (v) có vẻ như, dường như /siːm/  
-8. suitable: (adj) thích hợp, phù hợp /ˈsuː.tə.bəl/  
-9. surgical team: đội ngũ phẫu thuật /ˈsɜː.dʒɪ.kəl tiːm/	  
-10. calm: (adj) bình tĩnh, điềm tĩnh /kɑːm/  
-11. decisive: (adj) quyết đoán, dứt khoát /dɪˈsaɪ.sɪv/  
-12. as soon as possible: càng sớm càng tốt /əz suːn əz ˈpɒs.ə.bəl/  
-13. basic math skills: kỹ năng toán học cơ bản /ˈbeɪ.sɪk mæθ skɪlz/  
-14. patient: (n) bệnh nhân /ˈpeɪ.ʃənt/ (adj) kiên nhẫn, nhẫn nại /ˈpeɪ.ʃənt/
+5. **dream \- dreamed \- dreamt** : (v) mơ, mơ ước /driːm \- driːmd \- dremt/
+6. **medical university** : trường đại học y /ˈmed.ɪ.kəl ˌjuː.nɪˈvɜː.sɪ.ti/
+7. **seem** : (v) có vẻ như, dường như /siːm/
+8. **suitable** : (adj) thích hợp, phù hợp /ˈsuː.tə.bəl/
+9. **surgical team** : đội ngũ phẫu thuật /ˈsɜː.dʒɪ.kəl tiːm/
+10. **calm** : (adj) bình tĩnh, điềm tĩnh /kɑːm/
+11. **decisive** : (adj) quyết đoán, dứt khoát /dɪˈsaɪ.sɪv/
+12. **as soon as possible** : càng sớm càng tốt /əz suːn əz ˈpɒs.ə.bəl/
+13. **basic math skills** : kỹ năng toán học cơ bản /ˈbeɪ.sɪk mæθ skɪlz/
+14. **patient** : (n) bệnh nhân /ˈpeɪ.ʃənt/ (adj) kiên nhẫn, nhẫn nại /ˈpeɪ.ʃənt/
 
 **Bài 2 trang 128**  
 1\.  
@@ -355,11 +355,11 @@ Student: Thanks, I'll make sure to give it to my parents.
 **Bài 3 trang 128**   
 **Vocabulary** 
 
-1. hand-eye coordination: sự phối hợp tay-mắt /ˌhænd ˈaɪ kəʊˌɔːdɪˈneɪʃn/  
-2. reference letter: thư giới thiệu /ˈrefrəns ˌletə/  
-3. personal quality: phẩm chất cá nhân /ˈpɜːsənl ˈkwɒlɪti/  
-4. medical degree: bằng y khoa /ˈmedɪkl dɪˈɡriː/  
-5. hands-on training: đào tạo thực hành /ˌhændz ˈɒn ˈtreɪnɪŋ/
+1. **hand-eye coordination** : sự phối hợp tay-mắt /ˌhænd ˈaɪ kəʊˌɔːdɪˈneɪʃn/
+2. **reference letter** : thư giới thiệu /ˈrefrəns ˌletə/
+3. **personal quality** : phẩm chất cá nhân /ˈpɜːsənl ˈkwɒlɪti/
+4. **medical degree** : bằng y khoa /ˈmedɪkl dɪˈɡriː/
+5. **hands-on training** : đào tạo thực hành /ˌhændz ˈɒn ˈtreɪnɪŋ/
 
 Khang: Tôi luôn mơ ước về công việc này. Tôi sẽ vào một trường đại học y khoa. Đây có vẻ là công việc phù hợp với tôi vì tôi có khả năng phối hợp tay mắt tốt. Hơn nữa, tôi là người bình tĩnh, quyết đoán nên có thể lãnh đạo êkíp phẫu thuật.
 
@@ -379,22 +379,22 @@ An: Tôi hy vọng tôi có thể làm công việc này càng sớm càng tốt
 **SKILLS 1**   
 **Vocabulary** 
 
-1. manicurist: (n) thợ làm móng tay /ˈmænɪkjʊrɪst/  
-2. receptionist: (n) nhân viên lễ tân /rɪˈsepʃənɪst/  
-3. repetitive: (adj) lặp đi lặp lại, đơn điệu /rɪˈpetətɪv/  
-4. relate to beauty: liên quan đến vẻ đẹp /rɪˈleɪt tuː ˈbjuːti/  
-5. depend heavily on technology: phụ thuộc nhiều vào công nghệ /dɪˈpend ˈhevɪli ɒn tekˈnɒlədʒi/  
-6. think seriously: suy nghĩ nghiêm túc /θɪŋk ˈsɪəriəsli/  
-7. make career choice: đưa ra lựa chọn nghề nghiệp /meɪk kəˈrɪə tʃɔɪs/  
-8. be willing to V0: sẵn sàng làm gì đó /biː ˈwɪlɪŋ tuː/  
-9. be replaced by: được thay thế bởi /biː rɪˈpleɪst baɪ/  
-10. hairdresser: (n) thợ làm tóc /ˈheədresə/  
-11. become a must: trở thành điều cần thiết /bɪˈkʌm ə mʌst/  
-12. digital record: hồ sơ kỹ thuật số /ˈdɪdʒɪtl ˈrekɔːd/  
-13. patient: (n) bệnh nhân /ˈpeɪʃnt/  
-14. collaborate: (v) hợp tác, cộng tác /kəˈlæbəreɪt/  
-15. have inquiring minds: có đầu óc tò mò, thích tìm hiểu /hæv ɪnˈkwaɪərɪŋ maɪndz/  
-16. move confidently on your career path: tiến bước tự tin trên con đường sự nghiệp /muːv ˈkɒnfɪdəntli ɒn jɔː kəˈrɪə pɑːθ/  
+1. **manicurist** : (n) thợ làm móng tay /ˈmænɪkjʊrɪst/
+2. **receptionist** : (n) nhân viên lễ tân /rɪˈsepʃənɪst/
+3. **repetitive** : (adj) lặp đi lặp lại, đơn điệu /rɪˈpetətɪv/
+4. **relate to beauty** : liên quan đến vẻ đẹp /rɪˈleɪt tuː ˈbjuːti/
+5. **depend heavily on technology** : phụ thuộc nhiều vào công nghệ /dɪˈpend ˈhevɪli ɒn tekˈnɒlədʒi/
+6. **think seriously** : suy nghĩ nghiêm túc /θɪŋk ˈsɪəriəsli/
+7. **make career choice** : đưa ra lựa chọn nghề nghiệp /meɪk kəˈrɪə tʃɔɪs/
+8. **be willing to V0** : sẵn sàng làm gì đó /biː ˈwɪlɪŋ tuː/
+9. **be replaced by** : được thay thế bởi /biː rɪˈpleɪst baɪ/
+10. **hairdresser** : (n) thợ làm tóc /ˈheədresə/
+11. **become a must** : trở thành điều cần thiết /bɪˈkʌm ə mʌst/
+12. **digital record** : hồ sơ kỹ thuật số /ˈdɪdʒɪtl ˈrekɔːd/
+13. **patient** : (n) bệnh nhân /ˈpeɪʃnt/
+14. **collaborate** : (v) hợp tác, cộng tác /kəˈlæbəreɪt/
+15. **have inquiring minds** : có đầu óc tò mò, thích tìm hiểu /hæv ɪnˈkwaɪərɪŋ maɪndz/
+16. **move confidently on your career path** : tiến bước tự tin trên con đường sự nghiệp /muːv ˈkɒnfɪdəntli ɒn jɔː kəˈrɪə pɑːθ/
     
 
 A \- 2   
@@ -437,22 +437,22 @@ My partner is Bao. He wants to be a police officer because he wants to fight bad
 **Listening**   
 **Vocabulary** 
 
-1. persuade: (v) thuyết phục /pəˈsweɪd/  
-2. hair salon: tiệm làm tóc /heə səˈlɒn/  
-3. fashionable: (adj) hợp thời trang, thời thượng /ˈfæʃənəbl/  
-4. earn a living: kiếm sống /ɜːn ə ˈlɪvɪŋ/  
-5. passion: (n) niềm đam mê, sự say mê /ˈpæʃn/  
-6. passionate: (adj) đầy nhiệt huyết, đam mê /ˈpæʃənət/  
-7. ability: (n) khả năng, năng lực /əˈbɪləti/  
-8. salary: (n) lương /ˈsæləri/  
-9. opportunity: (n) cơ hội /ˌɒpəˈtjuːnəti/  
-10. remote: (adj) xa xôi, hẻo lánh; từ xa (làm việc từ xa) /rɪˈməʊt/  
-11. chef: (n) đầu bếp /ʃef/  
-12. agriculture: (n) nông nghiệp /ˈæɡrɪkʌltʃə/  
-13. department: (n) phòng, ban; bộ phận /dɪˈpɑːtmənt/  
-14. attend a vocational college: theo học một trường dạy nghề /əˈtend ə vəʊˈkeɪʃənl ˈkɒlɪdʒ/  
-15. farming methods: phương pháp canh tác /ˈfɑːmɪŋ ˈmeθədz/  
-16. a cooking certificate: chứng chỉ nấu ăn /ə ˈkʊkɪŋ səˈtɪfɪkət/
+1. **persuade** : (v) thuyết phục /pəˈsweɪd/
+2. **hair salon** : tiệm làm tóc /heə səˈlɒn/
+3. **fashionable** : (adj) hợp thời trang, thời thượng /ˈfæʃənəbl/
+4. **earn a living** : kiếm sống /ɜːn ə ˈlɪvɪŋ/
+5. **passion** : (n) niềm đam mê, sự say mê /ˈpæʃn/
+6. **passionate** : (adj) đầy nhiệt huyết, đam mê /ˈpæʃənət/
+7. **ability** : (n) khả năng, năng lực /əˈbɪləti/
+8. **salary** : (n) lương /ˈsæləri/
+9. **opportunity** : (n) cơ hội /ˌɒpəˈtjuːnəti/
+10. **remote** : (adj) xa xôi, hẻo lánh; từ xa (làm việc từ xa) /rɪˈməʊt/
+11. **chef** : (n) đầu bếp /ʃef/
+12. **agriculture** : (n) nông nghiệp /ˈæɡrɪkʌltʃə/
+13. **department** : (n) phòng, ban; bộ phận /dɪˈpɑːtmənt/
+14. **attend a vocational college** : theo học một trường dạy nghề /əˈtend ə vəʊˈkeɪʃənl ˈkɒlɪdʒ/
+15. **farming methods** : phương pháp canh tác /ˈfɑːmɪŋ ˈmeθədz/
+16. **a cooking certificate** : chứng chỉ nấu ăn /ə ˈkʊkɪŋ səˈtɪfɪkət/
 
 **Bài 2** 
 
@@ -497,11 +497,11 @@ Job skills: teamwork, hand-eye coordination
 
 **Bài 2 trang 132: Điền từ vào đoạn văn**
 
-1. sewing: may vá  
-2. job: công việc  
-3. creative: sáng tạo  
-4. rewarding: bổ ích, đáng công sức bỏ ra  
-5. career: sự nghiệp
+1. **sewing** : may vá
+2. **job** : công việc
+3. **creative** : sáng tạo
+4. **rewarding** : bổ ích, đáng công sức bỏ ra
+5. **career** : sự nghiệp
 
 **Bài 3 trang 132: Nối câu sử dụng từ trong ngoặc**  
 Dùng so/such, though/although/but/because   
@@ -529,10 +529,10 @@ such \+ (a/an) \+ (adj) \+ N \+ that \+ S \+ V
 
 **Bài 4 trang 132** 
 
-1. such : quá … tới nỗi mà  
-2. since: bởi vì  
-3. so: vì thế, nên  
-4. because: bởi vì   
+1. **such** : quá … tới nỗi mà
+2. **since** : bởi vì
+3. **so** : vì thế, nên
+4. **because** : bởi vì
 5. although
 
 **REVIEW 4** 
@@ -540,7 +540,7 @@ such \+ (a/an) \+ (adj) \+ N \+ that \+ S \+ V
 **Pronunciation** 
 
 1. nhấn ở động từ, danh từ, tính từ và phủ định   
-2. nhấn: doing, study, environment, protection   
+2. **nhấn** : doing, study, environment, protection
 3. largest, planet, solar, system   
 4. ngữ điệu: câu khẳng định → cuối câu xuống giọng. Câu hỏi yes/no → cuối câu lên giọng. Câu hỏi Wh- → cuối câu xuống giọng   
 5. Chúng ta lên giọng cuối câu khi cần hỏi & để người khác khẳng định lại thông tin.
@@ -581,18 +581,18 @@ such \+ (a/an) \+ (adj) \+ N \+ that \+ S \+ V
 
 # **Từ vựng tiếng Anh-Việt: Loài xâm lấn và Môi trường**
 
-1. invasive species: loài xâm lấn /ɪnˈveɪsɪv ˈspiːʃiːz/  
-2. foreign plants: cây ngoại lai /ˈfɒrɪn plɑːnts/  
-3. badly affect: ảnh hưởng xấu /ˈbædli əˈfekt/  
-4. silver carp: (n) cá mè trắng /ˈsɪlvə kɑːp/  
-5. fish pond: (n) ao cá /fɪʃ pɒnd/  
-6. improve water quality: cải thiện chất lượng nước /ɪmˈpruːv ˈwɔːtə ˈkwɒlɪti/  
-7. gradually: (adv) dần dần, từ từ /ˈɡrædʒuəli/  
-8. paddlefish: (n) cá mái chèo /ˈpædlˌfɪʃ/  
-9. are dying out: đang dần tuyệt chủng /ɑː ˈdaɪɪŋ aʊt/  
-10. water hyacinth: (n) bèo lục bình /ˈwɔːtə haɪəˈsɪnθ/  
-11. spread: (v) lây lan, phát tán /spred/  
-12. mosquito: (n) muỗi /məˈskiːtəʊ/
+1. **invasive species** : loài xâm lấn /ɪnˈveɪsɪv ˈspiːʃiːz/
+2. **foreign plants** : cây ngoại lai /ˈfɒrɪn plɑːnts/
+3. **badly affect** : ảnh hưởng xấu /ˈbædli əˈfekt/
+4. **silver carp** : (n) cá mè trắng /ˈsɪlvə kɑːp/
+5. **fish pond** : (n) ao cá /fɪʃ pɒnd/
+6. **improve water quality** : cải thiện chất lượng nước /ɪmˈpruːv ˈwɔːtə ˈkwɒlɪti/
+7. **gradually** : (adv) dần dần, từ từ /ˈɡrædʒuəli/
+8. **paddlefish** : (n) cá mái chèo /ˈpædlˌfɪʃ/
+9. **are dying out** : đang dần tuyệt chủng /ɑː ˈdaɪɪŋ aʊt/
+10. **water hyacinth** : (n) bèo lục bình /ˈwɔːtə haɪəˈsɪnθ/
+11. **spread** : (v) lây lan, phát tán /spred/
+12. **mosquito** : (n) muỗi /məˈskiːtəʊ/
 
 **Speaking**. 
 

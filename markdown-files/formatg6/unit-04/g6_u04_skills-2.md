@@ -4,15 +4,15 @@
 **Listening**   
 **Vocabulary** 
 
-1. market: (n) chợ, thị trường /ˈmɑːkɪt/  
-2. also: cũng /ˈɔːlsəʊ/   
-3. restaurant: (n) nhà hàng /ˈrestrɒnt/  
-4. art gallery: phòng trưng bày nghệ thuật /ɑːt ˈɡæləri/  
-5. wide: (adj) rộng, bề ngang /waɪd/    
-6. faraway: (adj) xa xôi, ở xa /ˈfɑːrəweɪ/  
-7. factory: (n) nhà máy, xưởng sản xuất /ˈfæktəri/  
-8. air: (n) không khí, bầu không khí /eə/  
-9. narrow: (adj) hẹp, chật /ˈnærəʊ/ 
+1. **market** : (n) chợ, thị trường /ˈmɑːkɪt/
+2. **also** : cũng /ˈɔːlsəʊ/
+3. **restaurant** : (n) nhà hàng /ˈrestrɒnt/
+4. **art gallery** : phòng trưng bày nghệ thuật /ɑːt ˈɡæləri/
+5. **wide** : (adj) rộng, bề ngang /waɪd/
+6. **faraway** : (adj) xa xôi, ở xa /ˈfɑːrəweɪ/
+7. **factory** : (n) nhà máy, xưởng sản xuất /ˈfæktəri/
+8. **air** : (n) không khí, bầu không khí /eə/
+9. **narrow** : (adj) hẹp, chật /ˈnærəʊ/
 
 **Bài 1 trang 45** 
 

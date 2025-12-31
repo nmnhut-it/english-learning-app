@@ -180,10 +180,10 @@ C. The tour to Phillip Island
 
 **Box:** tower | symbol | capital | boat ride
 
-1. a tall narrow building: **tower**
-2. an object representing a place: **symbol**
-3. the most important city of a country: **capital**
-4. a tour on a river: **boat ride**
+1. **a tall narrow building** : **tower**
+2. **an object representing a place** : **symbol**
+3. **the most important city of a country** : **capital**
+4. **a tour on a river** : **boat ride**
 
 **Bài 4:** Listen and repeat, paying attention to the intonation of the following questions. (Nghe và lặp lại, chú ý ngữ điệu của những câu hỏi sau)
 1. Can you speak English? ↗
@@ -532,9 +532,9 @@ E. Thames boat ride
 | (4) _____ | Return to hotel |
 
 **Answers:**
-1. 11:30 a.m.
+1. **11** : 30 a.m.
 2. 1 p.m.
-3. 3:15 p.m.
+3. **3** : 15 p.m.
 4. 5 p.m.
 
 **Bài 3:** Listen again and complete each sentence with ONE word. (Nghe lại và hoàn thành mỗi câu với MỘT từ.)
@@ -681,7 +681,7 @@ Hôm nay tôi đã có một chuyến tham quan London tuyệt vời! Chúng tô
 ## REVIEW - TÓM TẮT
 
 ### Key Grammar Points:
-1. **Articles (a/an/the)**: Remember when to use definite and indefinite articles
+1. **Articles (a/an/the)** : Remember when to use definite and indefinite articles
 2. **Intonation patterns**: Rising for Yes/No questions, falling for Wh-questions
 
 ### Key Vocabulary Topics:

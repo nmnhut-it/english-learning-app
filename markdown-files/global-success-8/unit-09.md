@@ -3,25 +3,25 @@
 ## GETTING STARTED - BẮT ĐẦU
 
 ### 📚 Vocabulary - Từ vựng
-- **safe** : (adj) an toàn /seɪf/
+1. **safe** : (adj) an toàn /seɪf/
 - **what's the matter** : có chuyện gì vậy /wɒts ðə ˈmætə/
-- **home town** : (n) quê hương /həʊm taʊn/
-- **affect** : (v) ảnh hưởng, tác động /əˈfekt/
-- **flood** : (n) lũ lụt; (v) ngập lụt /flʌd/
-- **natural disaster** : (n) thảm họa thiên nhiên /ˈnætʃərəl dɪˈzɑːstə/
-- **tornado** : (n) lốc xoáy /tɔːˈneɪdəʊ/
-- **storm** : (n) bão /stɔːm/
+2. **home town** : (n) quê hương /həʊm taʊn/
+3. **affect** : (v) ảnh hưởng, tác động /əˈfekt/
+4. **flood** : (n) lũ lụt; (v) ngập lụt /flʌd/
+5. **natural disaster** : (n) thảm họa thiên nhiên /ˈnætʃərəl dɪˈzɑːstə/
+6. **tornado** : (n) lốc xoáy /tɔːˈneɪdəʊ/
+7. **storm** : (n) bão /stɔːm/
 - **violent storm** : cơn bão dữ dội /ˈvaɪələnt stɔːm/
 - **strong wind** : gió mạnh /strɒŋ wɪnd/
 - **move in a circle** : di chuyển theo vòng tròn /muːv ɪn ə ˈsɜːkl/
-- **suddenly** : (adv) đột ngột, bất ngờ /ˈsʌdnli/
+8. **suddenly** : (adv) đột ngột, bất ngờ /ˈsʌdnli/
 - **look out of the window** : nhìn ra ngoài cửa sổ /lʊk aʊt əv ðə ˈwɪndəʊ/
 - **a big funnel of wind** : một phễu gió lớn /ə bɪɡ ˈfʌnl əv wɪnd/
 - **move toward** : di chuyển về phía /muːv təˈwɔːd/
-- **damage** : (v) làm hư hại, phá hủy; (n) thiệt hại /ˈdæmɪdʒ/
+9. **damage** : (v) làm hư hại, phá hủy; (n) thiệt hại /ˈdæmɪdʒ/
 - **pull up trees** : nhổ bật cây /pʊl ʌp triːz/
-- **fortunately** : (adv) may mắn thay /ˈfɔːtʃənətli/
-- **hurt - hurt - hurt** : (v) làm đau, gây thương tích /hɜːt/
+10. **fortunately** : (adv) may mắn thay /ˈfɔːtʃənətli/
+11. **hurt - hurt - hurt** : (v) làm đau, gây thương tích /hɜːt/
 
 ### 💬 Content - Nội dung
 
@@ -80,12 +80,12 @@ Tom: Có, nhiều chứ. Nó làm hỏng mái nhà của nhà mình và nhổ b�
 (Viết các thảm họa thiên nhiên từ hộp dưới hình ảnh. Sau đó nghe, kiểm tra và lặp lại.)
 
 **Vocabulary:**
-- **volcanic eruption** : (n) núi lửa phun trào /vɒlˈkænɪk ɪˈrʌpʃn/
-- **storm** : (n) bão /stɔːm/
-- **earthquake** : (n) động đất /ˈɜːθkweɪk/
-- **tornado** : (n) lốc xoáy /tɔːˈneɪdəʊ/
-- **landslide** : (n) lở đất /ˈlændslaɪd/
-- **flood** : (n) lũ lụt /flʌd/
+1. **volcanic eruption** : (n) núi lửa phun trào /vɒlˈkænɪk ɪˈrʌpʃn/
+2. **storm** : (n) bão /stɔːm/
+3. **earthquake** : (n) động đất /ˈɜːθkweɪk/
+4. **tornado** : (n) lốc xoáy /tɔːˈneɪdəʊ/
+5. **landslide** : (n) lở đất /ˈlændslaɪd/
+6. **flood** : (n) lũ lụt /flʌd/
 
 **Bài 4 trang 93:** Choose the correct option to complete each sentence.
 (Chọn phương án đúng để hoàn thành mỗi câu.)
@@ -108,23 +108,23 @@ Tom: Có, nhiều chứ. Nó làm hỏng mái nhà của nhà mình và nhổ b�
 ## A CLOSER LOOK 1 - TÌM HIỂU THÊM 1
 
 ### 📚 Vocabulary - Từ vựng
-- **destroy** : (v) phá hủy /dɪˈstrɔɪ/
-- **destruction** : (n) sự phá hủy /dɪˈstrʌkʃn/
-- **erupt** : (v) phun trào /ɪˈrʌpt/
-- **eruption** : (n) sự phun trào /ɪˈrʌpʃn/
-- **warn** : (v) cảnh báo /wɔːn/
-- **warning** : (n) lời cảnh báo /ˈwɔːnɪŋ/
-- **predict** : (v) dự đoán /prɪˈdɪkt/
-- **prediction** : (n) sự dự đoán /prɪˈdɪkʃn/
-- **damage** : (n) thiệt hại; (v) gây thiệt hại /ˈdæmɪdʒ/
-- **emergency kit** : (n) bộ dụng cụ khẩn cấp /ɪˈmɜːdʒənsi kɪt/
-- **rescue worker** : (n) nhân viên cứu hộ /ˈreskjuː ˈwɜːkə/
-- **victim** : (n) nạn nhân /ˈvɪktɪm/
-- **whistle** : (n) còi /ˈwɪsl/
-- **property** : (n) tài sản /ˈprɒpəti/
+1. **destroy** : (v) phá hủy /dɪˈstrɔɪ/
+2. **destruction** : (n) sự phá hủy /dɪˈstrʌkʃn/
+3. **erupt** : (v) phun trào /ɪˈrʌpt/
+4. **eruption** : (n) sự phun trào /ɪˈrʌpʃn/
+5. **warn** : (v) cảnh báo /wɔːn/
+6. **warning** : (n) lời cảnh báo /ˈwɔːnɪŋ/
+7. **predict** : (v) dự đoán /prɪˈdɪkt/
+8. **prediction** : (n) sự dự đoán /prɪˈdɪkʃn/
+9. **damage** : (n) thiệt hại; (v) gây thiệt hại /ˈdæmɪdʒ/
+10. **emergency kit** : (n) bộ dụng cụ khẩn cấp /ɪˈmɜːdʒənsi kɪt/
+11. **rescue worker** : (n) nhân viên cứu hộ /ˈreskjuː ˈwɜːkə/
+12. **victim** : (n) nạn nhân /ˈvɪktɪm/
+13. **whistle** : (n) còi /ˈwɪsl/
+14. **property** : (n) tài sản /ˈprɒpəti/
 - **local authorities** : chính quyền địa phương /ˈləʊkl ɔːˈθɒrətiz/
-- **prepare** : (v) chuẩn bị /prɪˈpeə/
-- **lose - lost - lost** : (v) mất, đánh mất /luːz/
+15. **prepare** : (v) chuẩn bị /prɪˈpeə/
+16. **lose - lost - lost** : (v) mất, đánh mất /luːz/
 
 ### 🗣️ Pronunciation - Phát âm
 **Stress in words ending in -al and -ous**
@@ -448,20 +448,20 @@ Mark: Thật tồi tệ. Tôi hy vọng ông bà của bạn được an toàn.
 ## SKILLS 1 - KỸ NĂNG 1
 
 ### 📚 Vocabulary - Từ vựng
-- **violently** : (adv) dữ dội, mãnh liệt /ˈvaɪələntli/
-- **island country** : (n) quốc gia đảo /ˈaɪlənd ˈkʌntri/
+1. **violently** : (adv) dữ dội, mãnh liệt /ˈvaɪələntli/
+2. **island country** : (n) quốc gia đảo /ˈaɪlənd ˈkʌntri/
 - **a cloud of ash and gas** : đám mây tro bụi và khí /ə klaʊd əv æʃ ænd ɡæs/
-- **tsunami** : (n) sóng thần /tsuːˈnɑːmi/
-- **properties** : (n) tài sản, bất động sản /ˈprɒpətiz/
-- **besides** : (prep) ngoài ra, bên cạnh /bɪˈsaɪdz/
-- **missing** : (adj) mất tích /ˈmɪsɪŋ/
-- **resident** : (n) cư dân /ˈrezɪdənt/
-- **high-rise building** : (n) tòa nhà cao tầng /haɪ raɪz ˈbɪldɪŋ/
-- **frightened** : (adj) sợ hãi, hoảng sợ /ˈfraɪtnd/
-- **tremble** : (v) run rẩy, rung động /ˈtrembl/
+3. **tsunami** : (n) sóng thần /tsuːˈnɑːmi/
+4. **properties** : (n) tài sản, bất động sản /ˈprɒpətiz/
+5. **besides** : (prep) ngoài ra, bên cạnh /bɪˈsaɪdz/
+6. **missing** : (adj) mất tích /ˈmɪsɪŋ/
+7. **resident** : (n) cư dân /ˈrezɪdənt/
+8. **high-rise building** : (n) tòa nhà cao tầng /haɪ raɪz ˈbɪldɪŋ/
+9. **frightened** : (adj) sợ hãi, hoảng sợ /ˈfraɪtnd/
+10. **tremble** : (v) run rẩy, rung động /ˈtrembl/
 - **in fear** : trong sợ hãi /ɪn fɪə/
-- **according to** : (prep) theo như /əˈkɔːdɪŋ tuː/
-- **cause** : (v) gây ra /kɔːz/
+11. **according to** : (prep) theo như /əˈkɔːdɪŋ tuː/
+12. **cause** : (v) gây ra /kɔːz/
 
 ### 📖 Reading - Đọc
 
@@ -583,23 +583,23 @@ Five days of heavy rain caused a serious flood in a village in Phu Yen last week
 ## SKILLS 2 - KỸ NĂNG 2
 
 ### 📚 Vocabulary - Từ vựng
-- **commune** : (n) xã /kəˈmjuːn/
-- **radio station** : (n) đài phát thanh /ˈreɪdiəʊ ˌsteɪʃn/
+1. **commune** : (n) xã /kəˈmjuːn/
+2. **radio station** : (n) đài phát thanh /ˈreɪdiəʊ ˌsteɪʃn/
 - **the rainy season** : mùa mưa /ðə ˈreɪni ˈsiːzn/
 - **special programme** : chương trình đặc biệt /ˈspeʃl ˈprəʊɡræm/
 - **emergency kit** : bộ dụng cụ khẩn cấp /ɪˈmɜːdʒənsi kɪt/
 - **necessary things** : những thứ cần thiết /ˈnesəsəri θɪŋz/
-- **plaster** : (n) băng dán vết thương /ˈplɑːstə/
+3. **plaster** : (n) băng dán vết thương /ˈplɑːstə/
 - **basic medicine** : thuốc cơ bản /ˈbeɪsɪk ˈmedsn/
 - **bottle of water** : chai nước /ˈbɒtl əv ˈwɔːtə/
-- **flowerpot** : (n) chậu hoa /ˈflaʊəpɒt/
+4. **flowerpot** : (n) chậu hoa /ˈflaʊəpɒt/
 - **strengthen your house** : gia cố nhà cửa /ˈstreŋθən jɔː haʊs/
 - **stay inside** : ở trong nhà /steɪ ɪnˈsaɪd/
 - **glass door** : cửa kính /ɡlɑːs dɔː/
-- **break - broke - broken** : (v) vỡ, đổ vỡ /breɪk/
+5. **break - broke - broken** : (v) vỡ, đổ vỡ /breɪk/
 - **important instructions** : chỉ dẫn quan trọng /ɪmˈpɔːtnt ɪnˈstrʌkʃnz/
 - **local authorities** : chính quyền địa phương /ˈləʊkl ɔːˈθɒrətiz/
-- **dangerous** : (adj) nguy hiểm /ˈdeɪndʒərəs/
+6. **dangerous** : (adj) nguy hiểm /ˈdeɪndʒərəs/
 - **should be avoided** : nên tránh /ʃʊd bi əˈvɔɪdɪd/
 - **broken power lines** : đường dây điện bị đứt /ˈbrəʊkən ˈpaʊə laɪnz/
 

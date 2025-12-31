@@ -9,14 +9,14 @@
 5\. C   
 **Bài 2 trang 68** 
 
-1. small: nhỏ  
-2. sad: buồn  
-3. hot: nóng  
-4. noisy: ồn ào  
-5. short: ngắn  
-6. cheap: rẻ  
-7. low: thấp  
-8. boring: nhàm chán 
+1. **small** : nhỏ
+2. **sad** : buồn
+3. **hot** : nóng
+4. **noisy** : ồn ào
+5. **short** : ngắn
+6. **cheap** : rẻ
+7. **low** : thấp
+8. **boring** : nhàm chán
 
 **Bài 3 trang 68** 
 
@@ -30,7 +30,7 @@
 
 1. B   
 2. C   
-3. C: phải   
+3. **C** : phải
 4. A   
 5. A 
 
@@ -45,18 +45,18 @@
 **SKILLS**   
 **Vocabulary**  
 
-1. visit: (v) thăm, viếng thăm /ˈvɪzɪt/  
-2. cycling: (n) môn đạp xe; (v) đạp xe /ˈsaɪklɪŋ/  
-3. boating: (n) hoạt động đi thuyền; (v) đi thuyền /ˈbəʊtɪŋ/  
-4. in real life: trong đời thực, trong thực tế /ɪn rɪəl laɪf/  
-5. try their food: thử thức ăn của họ /traɪ ðeə fuːd/  
-6. buy souvenirs: mua quà lưu niệm /baɪ ˌsuːvəˈnɪəz/  
-7. attract a lot of visitors: thu hút nhiều khách tham quan /əˈtrækt ə lɒt əv ˈvɪzɪtəz/  
-8. looking for exciting activities: tìm kiếm các hoạt động thú vị /ˈlʊkɪŋ fər ɪkˈsaɪtɪŋ ækˈtɪvɪtiz/  
-9. children: (n) trẻ em, con cái /ˈtʃɪldrən/  
-10. adult: (n) người lớn; (adj) trưởng thành /ˈædʌlt/  
-11. get \- got \- gotten: (v) trở nên /ɡet \- ɡɒt \- ˈɡɒtn/  
-12. bored: (adj) chán nản, buồn chán /bɔːd/
+1. **visit** : (v) thăm, viếng thăm /ˈvɪzɪt/
+2. **cycling** : (n) môn đạp xe; (v) đạp xe /ˈsaɪklɪŋ/
+3. **boating** : (n) hoạt động đi thuyền; (v) đi thuyền /ˈbəʊtɪŋ/
+4. **in real life** : trong đời thực, trong thực tế /ɪn rɪəl laɪf/
+5. **try their food** : thử thức ăn của họ /traɪ ðeə fuːd/
+6. **buy souvenirs** : mua quà lưu niệm /baɪ ˌsuːvəˈnɪəz/
+7. **attract a lot of visitors** : thu hút nhiều khách tham quan /əˈtrækt ə lɒt əv ˈvɪzɪtəz/
+8. **looking for exciting activities** : tìm kiếm các hoạt động thú vị /ˈlʊkɪŋ fər ɪkˈsaɪtɪŋ ækˈtɪvɪtiz/
+9. **children** : (n) trẻ em, con cái /ˈtʃɪldrən/
+10. **adult** : (n) người lớn; (adj) trưởng thành /ˈædʌlt/
+11. **get \- got \- gotten** : (v) trở nên /ɡet \- ɡɒt \- ˈɡɒtn/
+12. **bored** : (adj) chán nản, buồn chán /bɔːd/
 
 Có nhiều công viên ở trong đất nước này. Bạn có thể thăm chúng, và thưởng thức những cây và hoa đẹp, hoặc thực hiện những hoạt động ngoài trời. Bạn cũng có thể đi tới sở thú thú để xem những con vật ngoài đời thực.   
 Đi tới những nơi như Chinatown và Little India để học về những con người và văn hóa Trung Quốc và Ấn Độ. Ở đó bạn có thể xem cách họ sống, thử đồ ăn của họ và mua đồ lưu niệm. Cũng có những lễ hội nữa. Chúng thu hút nhiều khách du lịch.   

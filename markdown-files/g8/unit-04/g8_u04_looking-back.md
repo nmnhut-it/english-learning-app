@@ -4,7 +4,7 @@
 
 **Bài 1** 
 
-1. weaving: dệt vải \- c   
+1. **weaving** : dệt vải \- c
 2. dân vũ \- a   
 3. bếp lửa \- e   
 4. đánh cá \- b   
@@ -12,11 +12,11 @@
 
 **Bài 2** 
 
-1. musical instrument: nhạc cụ   
-2. sticky rice: gạo dính \= nếp  
-3. communal house: nhà cộng đồng   
-4. folk songs: dân ca   
-5. staircase: cầu thang 
+1. **musical instrument** : nhạc cụ
+2. **sticky rice** : gạo dính \= nếp
+3. **communal house** : nhà cộng đồng
+4. **folk songs** : dân ca
+5. **staircase** : cầu thang
 
 **Bài 3** 
 
@@ -29,7 +29,7 @@
 **Bài 4** 
 
 1. stands có s → houses bỏ s   
-2. leaf: lá cây, số nhiều là leaves → thêm s thành leaves   
+2. **leaf** : lá cây, số nhiều là leaves → thêm s thành leaves
 3. people đếm được → much đổi thành many   
 4. housework không đếm được → bỏ s   
 5. land không đếm được → many đổi thành much 

@@ -5,14 +5,14 @@
 
 ### New words
 
-1. apologise: (v) xin lỗi /əˈpɒlədʒaɪz/
-2. apology: (n) lời xin lỗi /əˈpɒlədʒi/
-3. submit: (v) nộp /səbˈmɪt/
-4. assignment: (n) bài tập /əˈsaɪnmənt/
-5. broken: (adj) bị hỏng /ˈbrəʊkən/
-6. back-up copy: (n.phr) bản sao lưu /ˈbæk ʌp ˈkɒpi/
-7. technical: (adj) kỹ thuật /ˈteknɪkl/
-8. expect: (v) mong đợi /ɪkˈspekt/
+1. **apologise** : (v) xin lỗi /əˈpɒlədʒaɪz/
+2. **apology** : (n) lời xin lỗi /əˈpɒlədʒi/
+3. **submit** : (v) nộp /səbˈmɪt/
+4. **assignment** : (n) bài tập /əˈsaɪnmənt/
+5. **broken** : (adj) bị hỏng /ˈbrəʊkən/
+6. **back-up copy** : (n.phr) bản sao lưu /ˈbæk ʌp ˈkɒpi/
+7. **technical** : (adj) kỹ thuật /ˈteknɪkl/
+8. **expect** : (v) mong đợi /ɪkˈspekt/
 
 ---
 
@@ -138,16 +138,16 @@
 
 ### New words
 
-1. Earth Hour: (n.phr) Giờ Trái Đất /ɜːθ ˈaʊə/
-2. switch off: (v.phr) tắt /swɪtʃ ɒf/
-3. non-essential: (adj) không cần thiết /ˌnɒn ɪˈsenʃl/
-4. electricity: (n) điện /ɪˌlekˈtrɪsəti/
-5. initiative: (n) sáng kiến /ɪˈnɪʃətɪv/
-6. Sydney: (n) Sydney /ˈsɪdni/
-7. participate: (v) tham gia /pɑːˈtɪsɪpeɪt/
-8. positive: (adj) tích cực /ˈpɒzətɪv/
-9. draw attention to: (v.phr) thu hút sự chú ý đến /drɔː əˈtenʃn tuː/
-10. promote: (v) thúc đẩy /prəˈməʊt/
+1. **Earth Hour** : (n.phr) Giờ Trái Đất /ɜːθ ˈaʊə/
+2. **switch off** : (v.phr) tắt /swɪtʃ ɒf/
+3. **non-essential** : (adj) không cần thiết /ˌnɒn ɪˈsenʃl/
+4. **electricity** : (n) điện /ɪˌlekˈtrɪsəti/
+5. **initiative** : (n) sáng kiến /ɪˈnɪʃətɪv/
+6. **Sydney** : (n) Sydney /ˈsɪdni/
+7. **participate** : (v) tham gia /pɑːˈtɪsɪpeɪt/
+8. **positive** : (adj) tích cực /ˈpɒzətɪv/
+9. **draw attention to** : (v.phr) thu hút sự chú ý đến /drɔː əˈtenʃn tuː/
+10. **promote** : (v) thúc đẩy /prəˈməʊt/
 
 ---
 
@@ -270,28 +270,28 @@ Có nhiều điều chúng ta có thể làm:
 
 ## Vocabulary (Từ vựng)
 
-1. apologise: (v) xin lỗi /əˈpɒlədʒaɪz/
-2. apology: (n) lời xin lỗi /əˈpɒlədʒi/
-3. submit: (v) nộp /səbˈmɪt/
-4. assignment: (n) bài tập /əˈsaɪnmənt/
-5. broken: (adj) bị hỏng /ˈbrəʊkən/
-6. back-up copy: (n.phr) bản sao lưu /ˈbæk ʌp ˈkɒpi/
-7. technical: (adj) kỹ thuật /ˈteknɪkl/
-8. expect: (v) mong đợi /ɪkˈspekt/
-9. Earth Hour: (n.phr) Giờ Trái Đất /ɜːθ ˈaʊə/
-10. switch off: (v.phr) tắt /swɪtʃ ɒf/
-11. non-essential: (adj) không cần thiết /ˌnɒn ɪˈsenʃl/
-12. electricity: (n) điện /ɪˌlekˈtrɪsəti/
-13. electrical device: (n.phr) thiết bị điện /ɪˈlektrɪkl dɪˈvaɪs/
-14. initiative: (n) sáng kiến /ɪˈnɪʃətɪv/
-15. participate: (v) tham gia /pɑːˈtɪsɪpeɪt/
-16. territory: (n) vùng lãnh thổ /ˈterətri/
-17. positive: (adj) tích cực /ˈpɒzətɪv/
-18. impact: (n) tác động /ˈɪmpækt/
-19. draw attention to: (v.phr) thu hút sự chú ý đến /drɔː əˈtenʃn tuː/
-20. promote: (v) thúc đẩy /prəˈməʊt/
-21. active: (adj) tích cực /ˈæktɪv/
-22. keen: (adj) nhiệt tình /kiːn/
-23. take part in: (v.phr) tham gia vào /teɪk pɑːt ɪn/
-24. call for action: (v.phr) kêu gọi hành động /kɔːl fɔːr ˈækʃn/
-25. energy conservation: (n.phr) tiết kiệm năng lượng /ˈenədʒi ˌkɒnsəˈveɪʃn/
+1. **apologise** : (v) xin lỗi /əˈpɒlədʒaɪz/
+2. **apology** : (n) lời xin lỗi /əˈpɒlədʒi/
+3. **submit** : (v) nộp /səbˈmɪt/
+4. **assignment** : (n) bài tập /əˈsaɪnmənt/
+5. **broken** : (adj) bị hỏng /ˈbrəʊkən/
+6. **back-up copy** : (n.phr) bản sao lưu /ˈbæk ʌp ˈkɒpi/
+7. **technical** : (adj) kỹ thuật /ˈteknɪkl/
+8. **expect** : (v) mong đợi /ɪkˈspekt/
+9. **Earth Hour** : (n.phr) Giờ Trái Đất /ɜːθ ˈaʊə/
+10. **switch off** : (v.phr) tắt /swɪtʃ ɒf/
+11. **non-essential** : (adj) không cần thiết /ˌnɒn ɪˈsenʃl/
+12. **electricity** : (n) điện /ɪˌlekˈtrɪsəti/
+13. **electrical device** : (n.phr) thiết bị điện /ɪˈlektrɪkl dɪˈvaɪs/
+14. **initiative** : (n) sáng kiến /ɪˈnɪʃətɪv/
+15. **participate** : (v) tham gia /pɑːˈtɪsɪpeɪt/
+16. **territory** : (n) vùng lãnh thổ /ˈterətri/
+17. **positive** : (adj) tích cực /ˈpɒzətɪv/
+18. **impact** : (n) tác động /ˈɪmpækt/
+19. **draw attention to** : (v.phr) thu hút sự chú ý đến /drɔː əˈtenʃn tuː/
+20. **promote** : (v) thúc đẩy /prəˈməʊt/
+21. **active** : (adj) tích cực /ˈæktɪv/
+22. **keen** : (adj) nhiệt tình /kiːn/
+23. **take part in** : (v.phr) tham gia vào /teɪk pɑːt ɪn/
+24. **call for action** : (v.phr) kêu gọi hành động /kɔːl fɔːr ˈækʃn/
+25. **energy conservation** : (n.phr) tiết kiệm năng lượng /ˈenədʒi ˌkɒnsəˈveɪʃn/

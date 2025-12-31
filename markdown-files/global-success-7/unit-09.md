@@ -2,18 +2,18 @@
 
 ## GETTING STARTED - BẮT ĐẦU
 ### 📚 Vocabulary - Từ vựng
-- **cozy** : (adj) ấm cúng, thoải mái /ˈkəʊzi/
-- **among** : (prep) giữa, ở giữa /əˈmʌŋ/
-- **tulip** : (n) hoa tulip /ˈtjuːlɪp/
+1. **cozy** : (adj) ấm cúng, thoải mái /ˈkəʊzi/
+2. **among** : (prep) giữa, ở giữa /əˈmʌŋ/
+3. **tulip** : (n) hoa tulip /ˈtjuːlɪp/
 - **take** - took - taken : (v) lấy, cầm, mang, chụp /teɪk - tʊk - ˈteɪkən/
 - **last September** : tháng 9 năm ngoái /lɑːst sepˈtembə/
-- **folk dance** : (n) điệu múa dân gian /fəʊk dɑːns/
-- **costume** : (n) trang phục, y phục /ˈkɒstjuːm/
-- **dancer** : (n) vũ công, người nhảy múa /ˈdɑːnsə/
-- **Dutch** : (adj) (thuộc) Hà Lan /dʌtʃ/
-- **try** : (v) thử /traɪ/
-- **tulip floats** : (n) xe hoa tulip diễu hành /ˈtjuːlɪp fləʊts/
-- **parade** : (n) cuộc diễu hành /pəˈreɪd/
+4. **folk dance** : (n) điệu múa dân gian /fəʊk dɑːns/
+5. **costume** : (n) trang phục, y phục /ˈkɒstjuːm/
+6. **dancer** : (n) vũ công, người nhảy múa /ˈdɑːnsə/
+7. **Dutch** : (adj) (thuộc) Hà Lan /dʌtʃ/
+8. **try** : (v) thử /traɪ/
+9. **tulip floats** : (n) xe hoa tulip diễu hành /ˈtjuːlɪp fləʊts/
+10. **parade** : (n) cuộc diễu hành /pəˈreɪd/
 - **go** - went - gone : (v) đi /ɡəʊ - went - ɡɒn/
 
 ### 💬 Content - Nội dung
@@ -99,24 +99,24 @@ e. Mid-Autumn Festival
 
 ## A CLOSER LOOK 1 - TÌM HIỂU THÊM 1
 ### 📚 Vocabulary - Từ vựng
-- **Cannes Film Festival** : (n) Liên hoan phim Cannes /kæn fɪlm ˈfestɪvəl/
-- **Christmas** : (n) Lễ Giáng sinh /ˈkrɪsməs/
-- **Mid-Autumn Festival** : (n) Tết Trung thu /mɪd ˈɔːtəm ˈfestɪvəl/
-- **Easter** : (n) Lễ Phục sinh /ˈiːstə/
-- **Thanksgiving** : (n) Lễ Tạ ơn /ˌθæŋksˈɡɪvɪŋ/
-- **Halloween** : (n) Lễ hội Halloween /ˌhæləʊˈiːn/
-- **have a feast** : (v) tổ chức tiệc /hæv ə fiːst/
-- **chocolate eggs** : (n) trứng sô cô la /ˈtʃɒklət eɡz/
-- **turkey** : (n) gà tây /ˈtɜːki/
-- **carving pumpkins** : (v) khắc bí ngô /ˈkɑːvɪŋ ˈpʌmpkɪnz/
-- **moon cakes** : (n) bánh trung thu /muːn keɪks/
-- **painting eggs** : (v) tô màu trứng /ˈpeɪntɪŋ eɡz/
-- **candy apples** : (n) táo tẩm đường /ˈkændi ˈæplz/
-- **performing a lion dance** : (v) múa lân /pəˈfɔːmɪŋ ə ˈlaɪən dɑːns/
-- **activity** : (n) hoạt động /ækˈtɪvəti/
-- **firework display** : (n) màn trình diễn pháo hoa /ˈfaɪəwɜːk dɪˈspleɪ/
-- **feast** : (n) bữa tiệc, yến tiệc; (v) ăn uống thỏa thích /fiːst/
-- **float** : (n) xe hoa, xe diễu hành trang trí; (v) trôi nổi, lơ lững /fləʊt/
+1. **Cannes Film Festival** : (n) Liên hoan phim Cannes /kæn fɪlm ˈfestɪvəl/
+2. **Christmas** : (n) Lễ Giáng sinh /ˈkrɪsməs/
+3. **Mid-Autumn Festival** : (n) Tết Trung thu /mɪd ˈɔːtəm ˈfestɪvəl/
+4. **Easter** : (n) Lễ Phục sinh /ˈiːstə/
+5. **Thanksgiving** : (n) Lễ Tạ ơn /ˌθæŋksˈɡɪvɪŋ/
+6. **Halloween** : (n) Lễ hội Halloween /ˌhæləʊˈiːn/
+7. **have a feast** : (v) tổ chức tiệc /hæv ə fiːst/
+8. **chocolate eggs** : (n) trứng sô cô la /ˈtʃɒklət eɡz/
+9. **turkey** : (n) gà tây /ˈtɜːki/
+10. **carving pumpkins** : (v) khắc bí ngô /ˈkɑːvɪŋ ˈpʌmpkɪnz/
+11. **moon cakes** : (n) bánh trung thu /muːn keɪks/
+12. **painting eggs** : (v) tô màu trứng /ˈpeɪntɪŋ eɡz/
+13. **candy apples** : (n) táo tẩm đường /ˈkændi ˈæplz/
+14. **performing a lion dance** : (v) múa lân /pəˈfɔːmɪŋ ə ˈlaɪən dɑːns/
+15. **activity** : (n) hoạt động /ækˈtɪvəti/
+16. **firework display** : (n) màn trình diễn pháo hoa /ˈfaɪəwɜːk dɪˈspleɪ/
+17. **feast** : (n) bữa tiệc, yến tiệc; (v) ăn uống thỏa thích /fiːst/
+18. **float** : (n) xe hoa, xe diễu hành trang trí; (v) trôi nổi, lơ lững /fləʊt/
 
 ### ✍️ Bài 1: Write under each picture a festival name from the box.
 (Viết dưới mỗi bức tranh tên một lễ hội từ hộp.)
@@ -185,8 +185,8 @@ e. Mid-Autumn Festival
 
 ## A CLOSER LOOK 2 - TÌM HIỂU THÊM 2
 ### 📚 Vocabulary - Từ vựng
-- **auxiliary verb** : (n) trợ động từ /ɔːɡˈzɪljəri vɜːb/
-- **modal verb** : (n) động từ khuyết thiếu /ˈməʊdl vɜːb/
+1. **auxiliary verb** : (n) trợ động từ /ɔːɡˈzɪljəri vɜːb/
+2. **modal verb** : (n) động từ khuyết thiếu /ˈməʊdl vɜːb/
 
 ### 📖 Grammar - Ngữ pháp
 **Câu hỏi Yes/No (Yes/No questions)**
@@ -291,14 +291,14 @@ Work in groups. One student thinks of a festival he/she likes. Other students as
 
 ## COMMUNICATION - GIAO TIẾP
 ### 📚 Vocabulary - Từ vựng
-- **disappointing** : (adj) thất vọng /dɪsəˈpɔɪntɪŋ/
-- **disappointment** : (n) sự thất vọng /dɪsəˈpɔɪntmənt/
-- **decoration** : (n) đồ trang trí /ˌdekəˈreɪʃən/
-- **symbol** : (n) biểu tượng /ˈsɪmbəl/
-- **think** : (v) nghĩ /θɪŋk/
-- **meaning** : (n) ý nghĩa /ˈmiːnɪŋ/
-- **life** : (n) cuộc sống /laɪf/
-- **happiness** : (n) hạnh phúc /ˈhæpɪnəs/
+1. **disappointing** : (adj) thất vọng /dɪsəˈpɔɪntɪŋ/
+2. **disappointment** : (n) sự thất vọng /dɪsəˈpɔɪntmənt/
+3. **decoration** : (n) đồ trang trí /ˌdekəˈreɪʃən/
+4. **symbol** : (n) biểu tượng /ˈsɪmbəl/
+5. **think** : (v) nghĩ /θɪŋk/
+6. **meaning** : (n) ý nghĩa /ˈmiːnɪŋ/
+7. **life** : (n) cuộc sống /laɪf/
+8. **happiness** : (n) hạnh phúc /ˈhæpɪnəs/
 
 ### 🗣️ Expressing disappointment - Diễn đạt sự thất vọng
 - **It was disappointing.** (Thật đáng thất vọng.)
@@ -359,20 +359,20 @@ When Tet comes, we think of peach flowers, apricot flowers, and kumquat trees. T
 
 ## SKILLS 1 - KỸ NĂNG 1
 ### 📚 Vocabulary - Từ vựng
-- **arrive** : (v) đến, tới /əˈraɪv/
+1. **arrive** : (v) đến, tới /əˈraɪv/
 - **hold** - held - held : (v) giữ, cầm, tổ chức /həʊld - held - held/
-- **gathering** : (n) buổi tụ họp, sự tập trung /ˈɡæðərɪŋ/
-- **twin** : (n) sinh đôi, cặp song sinh /twɪn/
+2. **gathering** : (n) buổi tụ họp, sự tập trung /ˈɡæðərɪŋ/
+3. **twin** : (n) sinh đôi, cặp song sinh /twɪn/
 - **wear** - wore - worn : (v) mặc, đeo /weə - wɔː - wɔːn/
-- **uniform** : (n) đồng phục /ˈjuːnɪfɔːm/
-- **Double Take Parade** : (n) Cuộc diễu hành Double Take /ˌdʌbəl ˈteɪk pəˈreɪd/
-- **feature** : (v) trình bày, giới thiệu /ˈfiːtʃə/
-- **performance** : (n) buổi biểu diễn /pəˈfɔːməns/
-- **have a lot of fun** : (v) có nhiều niềm vui /hæv ə lɒt əv fʌn/
+4. **uniform** : (n) đồng phục /ˈjuːnɪfɔːm/
+5. **Double Take Parade** : (n) Cuộc diễu hành Double Take /ˌdʌbəl ˈteɪk pəˈreɪd/
+6. **feature** : (v) trình bày, giới thiệu /ˈfiːtʃə/
+7. **performance** : (n) buổi biểu diễn /pəˈfɔːməns/
+8. **have a lot of fun** : (v) có nhiều niềm vui /hæv ə lɒt əv fʌn/
 - **take photo** - took photo - taken photo : (v) chụp ảnh /teɪk ˈfəʊtəʊ/
-- **get sleepy** : (v) trở nên buồn ngủ /ɡet ˈsliːpi/
-- **thousands** : (n) hàng nghìn /ˈθaʊzəndz/
-- **exciting** : (adj) thú vị, hào hứng /ɪkˈsaɪtɪŋ/
+9. **get sleepy** : (v) trở nên buồn ngủ /ɡet ˈsliːpi/
+10. **thousands** : (n) hàng nghìn /ˈθaʊzəndz/
+11. **exciting** : (adj) thú vị, hào hứng /ɪkˈsaɪtɪŋ/
 - **have** - had - had : (v) có /hæv - hæd - hæd/
 - **run** - ran - run : (v) chạy /rʌn - ræn - rʌn/
 - **in my opinion** : theo ý kiến của tôi /ɪn maɪ əˈpɪnjən/
@@ -464,28 +464,28 @@ My friend joined the Mid-Autumn Festival in her hometown last September. People 
 
 ## SKILLS 2 - KỸ NĂNG 2
 ### 📚 Vocabulary - Từ vựng
-- **Thanksgiving** : (n) Lễ Tạ ơn /ˌθæŋksˈɡɪvɪŋ/
-- **Turkey Day** : (n) Ngày Gà tây (tên khác của Thanksgiving) /ˈtɜːki deɪ/
-- **seasonal** : (adj) theo mùa /ˈsiːzənəl/
-- **harvest** : (n) vụ mùa, thu hoạch /ˈhɑːvɪst/
-- **successful** : (adj) thành công /səkˈsesfl/
-- **feast** : (n) bữa tiệc /fiːst/
-- **preparation** : (n) sự chuẩn bị /ˌprepəˈreɪʃən/
-- **traditional** : (adj) truyền thống /trəˈdɪʃənəl/
-- **stuffing** : (n) nhân nhồi /ˈstʌfɪŋ/
-- **gravy** : (n) nước sốt thịt /ˈɡreɪvi/
-- **sweet potatoes** : (n) khoai lang /swiːt pəˈteɪtəʊz/
-- **cornbread** : (n) bánh mì ngô /ˈkɔːnbred/
-- **mashed potatoes** : (n) khoai tây nghiền /mæʃt pəˈteɪtəʊz/
-- **cranberry sauce** : (n) nước sốt nam việt quất /ˈkrænbəri sɔːs/
-- **take naps** : (v) ngủ trưa /teɪk næps/
-- **board games** : (n) trò chơi trên bàn /bɔːd ɡeɪmz/
-- **card games** : (n) trò chơi bài /kɑːd ɡeɪmz/
-- **opportunity** : (n) cơ hội /ˌɒpəˈtjuːnəti/
-- **less fortunate** : (adj) kém may mắn hơn /les ˈfɔːtʃənət/
-- **volunteer** : (v) tình nguyện /ˌvɒlənˈtɪə/
-- **homeless** : (adj) vô gia cư /ˈhəʊmləs/
-- **needy** : (adj) nghèo khó /ˈniːdi/
+1. **Thanksgiving** : (n) Lễ Tạ ơn /ˌθæŋksˈɡɪvɪŋ/
+2. **Turkey Day** : (n) Ngày Gà tây (tên khác của Thanksgiving) /ˈtɜːki deɪ/
+3. **seasonal** : (adj) theo mùa /ˈsiːzənəl/
+4. **harvest** : (n) vụ mùa, thu hoạch /ˈhɑːvɪst/
+5. **successful** : (adj) thành công /səkˈsesfl/
+6. **feast** : (n) bữa tiệc /fiːst/
+7. **preparation** : (n) sự chuẩn bị /ˌprepəˈreɪʃən/
+8. **traditional** : (adj) truyền thống /trəˈdɪʃənəl/
+9. **stuffing** : (n) nhân nhồi /ˈstʌfɪŋ/
+10. **gravy** : (n) nước sốt thịt /ˈɡreɪvi/
+11. **sweet potatoes** : (n) khoai lang /swiːt pəˈteɪtəʊz/
+12. **cornbread** : (n) bánh mì ngô /ˈkɔːnbred/
+13. **mashed potatoes** : (n) khoai tây nghiền /mæʃt pəˈteɪtəʊz/
+14. **cranberry sauce** : (n) nước sốt nam việt quất /ˈkrænbəri sɔːs/
+15. **take naps** : (v) ngủ trưa /teɪk næps/
+16. **board games** : (n) trò chơi trên bàn /bɔːd ɡeɪmz/
+17. **card games** : (n) trò chơi bài /kɑːd ɡeɪmz/
+18. **opportunity** : (n) cơ hội /ˌɒpəˈtjuːnəti/
+19. **less fortunate** : (adj) kém may mắn hơn /les ˈfɔːtʃənət/
+20. **volunteer** : (v) tình nguyện /ˌvɒlənˈtɪə/
+21. **homeless** : (adj) vô gia cư /ˈhəʊmləs/
+22. **needy** : (adj) nghèo khó /ˈniːdi/
 
 ### 👂 Listening - Nghe
 ### ✍️ Bài 1: Look at the animal below. Discuss the following questions with a partner.

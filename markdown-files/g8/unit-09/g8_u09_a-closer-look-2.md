@@ -169,14 +169,14 @@ Yes, I was. / No, I wasn't. I was sleeping.
 
 **Vocabulary** 
 
-1.  that \+ adj: ... tới nỗi như vậy /ðæt/  
-2. landslide: (n) lở đất, sạt lở;   
+1. **that \+ adj** : ... tới nỗi như vậy /ðæt/
+2. **landslide** : (n) lở đất, sạt lở;
    thắng lợi vang dội (trong bầu cử) /ˈlændslaɪd/  
-3. mud: (n) bùn, bùn đất /mʌd/  
-4. shake \- shook \- shaken: (v) lắc, rung, rung lắc /ʃeɪk \- ʃʊk \- ˈʃeɪkən/  
-5. hide \- hid \- hidden: (v) giấu, ẩn, trốn /haɪd \- hɪd \- ˈhɪdn/  
-6. scale: (n) vảy (cá, rồng); thang đo; cái cân /skeɪl/  
-7. thunderstorm: (n) cơn giông, bão có sấm sét /ˈθʌndəstɔːm/  
-8. South Pacific: Nam Thái Bình Dương /saʊθ pəˈsɪfɪk/  
-9. still:(adj) yên lặng, tĩnh lặng, (adv) vẫn, vẫn còn, (conj) tuy nhiên, tuy vậy /stɪl/  
-10. missing: (adj) bị mất tích, thiếu, không có mặt /ˈmɪsɪŋ/
+3. **mud** : (n) bùn, bùn đất /mʌd/
+4. **shake \- shook \- shaken** : (v) lắc, rung, rung lắc /ʃeɪk \- ʃʊk \- ˈʃeɪkən/
+5. **hide \- hid \- hidden** : (v) giấu, ẩn, trốn /haɪd \- hɪd \- ˈhɪdn/
+6. **scale** : (n) vảy (cá, rồng); thang đo; cái cân /skeɪl/
+7. **thunderstorm** : (n) cơn giông, bão có sấm sét /ˈθʌndəstɔːm/
+8. **South Pacific** : Nam Thái Bình Dương /saʊθ pəˈsɪfɪk/
+9. **still** : (adj) yên lặng, tĩnh lặng, (adv) vẫn, vẫn còn, (conj) tuy nhiên, tuy vậy /stɪl/
+10. **missing** : (adj) bị mất tích, thiếu, không có mặt /ˈmɪsɪŋ/

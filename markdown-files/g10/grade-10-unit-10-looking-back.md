@@ -173,28 +173,28 @@ If + S + V (past simple) / were, S + would/could/might + V (infinitive)
 
 ## Vocabulary (Từ vựng) - Unit 10
 
-1. ecotourism: (n) du lịch sinh thái /ˌiːkəʊˈtʊərɪzəm/
-2. eco-friendly: (adj) thân thiện với môi trường /ˌiːkəʊ ˈfrendli/
-3. sustainable tourism: (n.phr) du lịch bền vững /səˈsteɪnəbl ˈtʊərɪzəm/
-4. responsible tourism: (n.phr) du lịch có trách nhiệm /rɪˈspɒnsəbl ˈtʊərɪzəm/
-5. mass tourism: (n.phr) du lịch đại chúng /mæs ˈtʊərɪzəm/
-6. protect: (v) bảo vệ /prəˈtekt/
-7. damage: (v, n) làm hỏng, thiệt hại /ˈdæmɪdʒ/
-8. litter: (n, v) rác, xả rác /ˈlɪtə/
-9. aware: (adj) nhận thức /əˈweə/
-10. responsible: (adj) có trách nhiệm /rɪˈspɒnsəbl/
-11. impact: (n) tác động /ˈɪmpækt/
-12. profit: (n) lợi nhuận /ˈprɒfɪt/
-13. arts and crafts: (n.phr) đồ thủ công mỹ nghệ /ɑːts ənd krɑːfts/
-14. souvenir: (n) quà lưu niệm /ˌsuːvəˈnɪə/
-15. local: (adj) địa phương /ˈləʊkl/
-16. explore: (v) khám phá /ɪkˈsplɔː/
-17. stalactite: (n) thạch nhũ /stəˈlæktaɪt/
-18. coral reef: (n.phr) rạn san hô /ˈkɒrəl riːf/
-19. wildlife: (n) động vật hoang dã /ˈwaɪldlaɪf/
-20. trail: (n) đường mòn /treɪl/
-21. host family: (n.phr) gia đình bản xứ /həʊst ˈfæməli/
-22. traditional: (adj) truyền thống /trəˈdɪʃənl/
-23. weaving: (n) nghề dệt /ˈwiːvɪŋ/
-24. floating market: (n.phr) chợ nổi /ˈfləʊtɪŋ ˈmɑːkɪt/
-25. conditional sentence: (n.phr) câu điều kiện /kənˈdɪʃənl ˈsentəns/
+1. **ecotourism** : (n) du lịch sinh thái /ˌiːkəʊˈtʊərɪzəm/
+2. **eco-friendly** : (adj) thân thiện với môi trường /ˌiːkəʊ ˈfrendli/
+3. **sustainable tourism** : (n.phr) du lịch bền vững /səˈsteɪnəbl ˈtʊərɪzəm/
+4. **responsible tourism** : (n.phr) du lịch có trách nhiệm /rɪˈspɒnsəbl ˈtʊərɪzəm/
+5. **mass tourism** : (n.phr) du lịch đại chúng /mæs ˈtʊərɪzəm/
+6. **protect** : (v) bảo vệ /prəˈtekt/
+7. **damage** : (v, n) làm hỏng, thiệt hại /ˈdæmɪdʒ/
+8. **litter** : (n, v) rác, xả rác /ˈlɪtə/
+9. **aware** : (adj) nhận thức /əˈweə/
+10. **responsible** : (adj) có trách nhiệm /rɪˈspɒnsəbl/
+11. **impact** : (n) tác động /ˈɪmpækt/
+12. **profit** : (n) lợi nhuận /ˈprɒfɪt/
+13. **arts and crafts** : (n.phr) đồ thủ công mỹ nghệ /ɑːts ənd krɑːfts/
+14. **souvenir** : (n) quà lưu niệm /ˌsuːvəˈnɪə/
+15. **local** : (adj) địa phương /ˈləʊkl/
+16. **explore** : (v) khám phá /ɪkˈsplɔː/
+17. **stalactite** : (n) thạch nhũ /stəˈlæktaɪt/
+18. **coral reef** : (n.phr) rạn san hô /ˈkɒrəl riːf/
+19. **wildlife** : (n) động vật hoang dã /ˈwaɪldlaɪf/
+20. **trail** : (n) đường mòn /treɪl/
+21. **host family** : (n.phr) gia đình bản xứ /həʊst ˈfæməli/
+22. **traditional** : (adj) truyền thống /trəˈdɪʃənl/
+23. **weaving** : (n) nghề dệt /ˈwiːvɪŋ/
+24. **floating market** : (n.phr) chợ nổi /ˈfləʊtɪŋ ˈmɑːkɪt/
+25. **conditional sentence** : (n.phr) câu điều kiện /kənˈdɪʃənl ˈsentəns/

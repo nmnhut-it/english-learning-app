@@ -3,31 +3,31 @@
 ## GETTING STARTED - BẮT ĐẦU
 
 ### 📚 Vocabulary - Từ vựng
-- **come back** : (v) trở về /kʌm bæk/
-- **yesterday** : (adv) hôm qua /ˈjestədeɪ/
-- **meet up** : (v) gặp gỡ /miːt ʌp/
-- **Sunday morning** : (n) sáng Chủ Nhật /ˈsʌndeɪ ˈmɔːnɪŋ/
-- **board game** : (n) trò chơi cờ bàn /bɔːd ɡeɪm/
-- **Green School Club** : (n) Câu lạc bộ Trường Xanh /ɡriːn skuːl klʌb/
-- **community activities** : (n) hoạt động cộng đồng /kəˈmjuːnɪti ækˈtɪvɪtiz/
-- **pick up litter** : (v) nhặt rác /pɪk ʌp ˈlɪtə/
-- **plant vegetables** : (v) trồng rau /plɑːnt ˈvedʒtəbəlz/
-- **school garden** : (n) vườn trường /skuːl ˈɡɑːdən/
-- **school gardening** : (n) làm vườn tại trường /skuːl ˈɡɑːdnɪŋ/
-- **nursing home** : (n) nhà dưỡng lão /ˈnɜːsɪŋ həʊm/
-- **donate** : (v) quyên góp /dəʊˈneɪt/
-- **donate books** : (v) quyên góp sách /dəʊˈneɪt bʊks/
-- **homeless children** : (n) trẻ em vô gia cư /ˈhəʊmləs ˈtʃɪldrən/
-- **English classes** : (n) lớp học tiếng Anh /ˈɪŋɡlɪʃ ˈklɑːsɪz/
-- **taught** : (v-past) đã dạy /tɔːt/
-- **taught English** : (v) dạy tiếng Anh /tɔːt ˈɪŋɡlɪʃ/
-- **kids** : (n) trẻ em /kɪdz/
-- **kids in the area** : (n) trẻ em trong khu vực /kɪdz ɪn ði ˈeəriə/
-- **area** : (n) khu vực /ˈeəriə/
-- **sounds like** : (v) nghe có vẻ như /saʊndz laɪk/
-- **great work** : (n) công việc tuyệt vời /ɡreɪt wɜːk/
-- **afternoon** : (n) buổi chiều /ˌɑːftəˈnuːn/
-- **meet in the afternoon** : (v) gặp vào buổi chiều /miːt ɪn ði ˌɑːftəˈnuːn/
+1. **come back** : (v) trở về /kʌm bæk/
+2. **yesterday** : (adv) hôm qua /ˈjestədeɪ/
+3. **meet up** : (v) gặp gỡ /miːt ʌp/
+4. **Sunday morning** : (n) sáng Chủ Nhật /ˈsʌndeɪ ˈmɔːnɪŋ/
+5. **board game** : (n) trò chơi cờ bàn /bɔːd ɡeɪm/
+6. **Green School Club** : (n) Câu lạc bộ Trường Xanh /ɡriːn skuːl klʌb/
+7. **community activities** : (n) hoạt động cộng đồng /kəˈmjuːnɪti ækˈtɪvɪtiz/
+8. **pick up litter** : (v) nhặt rác /pɪk ʌp ˈlɪtə/
+9. **plant vegetables** : (v) trồng rau /plɑːnt ˈvedʒtəbəlz/
+10. **school garden** : (n) vườn trường /skuːl ˈɡɑːdən/
+11. **school gardening** : (n) làm vườn tại trường /skuːl ˈɡɑːdnɪŋ/
+12. **nursing home** : (n) nhà dưỡng lão /ˈnɜːsɪŋ həʊm/
+13. **donate** : (v) quyên góp /dəʊˈneɪt/
+14. **donate books** : (v) quyên góp sách /dəʊˈneɪt bʊks/
+15. **homeless children** : (n) trẻ em vô gia cư /ˈhəʊmləs ˈtʃɪldrən/
+16. **English classes** : (n) lớp học tiếng Anh /ˈɪŋɡlɪʃ ˈklɑːsɪz/
+17. **taught** : (v-past) đã dạy /tɔːt/
+18. **taught English** : (v) dạy tiếng Anh /tɔːt ˈɪŋɡlɪʃ/
+19. **kids** : (n) trẻ em /kɪdz/
+20. **kids in the area** : (n) trẻ em trong khu vực /kɪdz ɪn ði ˈeəriə/
+21. **area** : (n) khu vực /ˈeəriə/
+22. **sounds like** : (v) nghe có vẻ như /saʊndz laɪk/
+23. **great work** : (n) công việc tuyệt vời /ɡreɪt wɜːk/
+24. **afternoon** : (n) buổi chiều /ˌɑːftəˈnuːn/
+25. **meet in the afternoon** : (v) gặp vào buổi chiều /miːt ɪn ði ˌɑːftəˈnuːn/
 
 ### 💬 Content - Nội dung
 
@@ -115,36 +115,36 @@ Work in groups. Take turns miming the activities in 3. The others guess what you
 ## A CLOSER LOOK 1 - TÌM HIỂU THÊM 1
 
 ### 📚 Vocabulary - Từ vựng
-- **donate books** : (v) quyên góp sách /dəʊˈneɪt bʊks/
-- **exchange** : (v) trao đổi /ɪksˈtʃeɪndʒ/
-- **primary students** : (n) học sinh tiểu học /ˈpraɪməri ˈstjuːdənts/
-- **water plants** : (v) tưới cây /ˈwɔːtə plɑːnts/
-- **tutor students** : (v) dạy kèm học sinh /ˈtjuːtə ˈstjuːdənts/
-- **used paper** : (n) giấy đã sử dụng /juːzd ˈpeɪpə/
-- **used paper for notebooks** : (n) giấy đã sử dụng cho sổ tay /juːzd ˈpeɪpə fɔː ˈnəʊtbʊks/
-- **notebooks** : (n) sổ tay /ˈnəʊtbʊks/
-- **local park** : (n) công viên địa phương /ˈləʊkəl pɑːk/
-- **every Sunday** : (adv) mỗi Chủ Nhật /ˈevri ˈsʌndeɪ/
-- **neighbourhood** : (n) khu phố /ˈneɪbəhʊd/
-- **plants in their neighbourhood** : (n) cây trong khu phố của họ /plɑːnts ɪn ðeə ˈneɪbəhʊd/
-- **rural areas** : (n) khu vực nông thôn /ˈrʊərəl ˈeəriəz/
-- **old textbooks** : (n) sách giáo khoa cũ /əʊld ˈtekstbʊks/
-- **small children** : (n) trẻ nhỏ /smɔːl ˈtʃɪldrən/
-- **elderly** : (n) người già /ˈeldəli/
-- **poor children** : (n) trẻ em nghèo /pɔː ˈtʃɪldrən/
-- **watering vegetables** : (v) tưới rau /ˈwɔːtərɪŋ ˈvedʒtəbəlz/
-- **giving gifts** : (v) tặng quà /ˈɡɪvɪŋ ɡɪfts/
-- **planting trees** : (v) trồng cây /ˈplɑːntɪŋ triːz/
-- **reading books** : (v) đọc sách /ˈriːdɪŋ bʊks/
-- **donating clothes** : (v) quyên góp quần áo /dəʊˈneɪtɪŋ kləʊðz/
-- **collect** : (v) sưu tầm /kəˈlekt/
-- **clothes** : (n) quần áo /kləʊðz/
-- **give - gave - given** : (v) tặng /ɡɪv/ - /ɡeɪv/ - /ˈɡɪvən/
-- **litter** : (n, v) rác, xả rác /ˈlɪtər/
-- **teach - taught - taught** : (v) dạy /tiːtʃ/ - /tɔːt/ - /tɔːt/
-- **pick up** : (v) nhặt, đón /pɪk ʌp/
-- **primary student** : (n) học sinh tiểu học /ˈpraɪməri ˈstjuːdənt/
-- **holiday** : (n) kì nghỉ /ˈhɒlədeɪ/
+1. **donate books** : (v) quyên góp sách /dəʊˈneɪt bʊks/
+2. **exchange** : (v) trao đổi /ɪksˈtʃeɪndʒ/
+3. **primary students** : (n) học sinh tiểu học /ˈpraɪməri ˈstjuːdənts/
+4. **water plants** : (v) tưới cây /ˈwɔːtə plɑːnts/
+5. **tutor students** : (v) dạy kèm học sinh /ˈtjuːtə ˈstjuːdənts/
+6. **used paper** : (n) giấy đã sử dụng /juːzd ˈpeɪpə/
+7. **used paper for notebooks** : (n) giấy đã sử dụng cho sổ tay /juːzd ˈpeɪpə fɔː ˈnəʊtbʊks/
+8. **notebooks** : (n) sổ tay /ˈnəʊtbʊks/
+9. **local park** : (n) công viên địa phương /ˈləʊkəl pɑːk/
+10. **every Sunday** : (adv) mỗi Chủ Nhật /ˈevri ˈsʌndeɪ/
+11. **neighbourhood** : (n) khu phố /ˈneɪbəhʊd/
+12. **plants in their neighbourhood** : (n) cây trong khu phố của họ /plɑːnts ɪn ðeə ˈneɪbəhʊd/
+13. **rural areas** : (n) khu vực nông thôn /ˈrʊərəl ˈeəriəz/
+14. **old textbooks** : (n) sách giáo khoa cũ /əʊld ˈtekstbʊks/
+15. **small children** : (n) trẻ nhỏ /smɔːl ˈtʃɪldrən/
+16. **elderly** : (n) người già /ˈeldəli/
+17. **poor children** : (n) trẻ em nghèo /pɔː ˈtʃɪldrən/
+18. **watering vegetables** : (v) tưới rau /ˈwɔːtərɪŋ ˈvedʒtəbəlz/
+19. **giving gifts** : (v) tặng quà /ˈɡɪvɪŋ ɡɪfts/
+20. **planting trees** : (v) trồng cây /ˈplɑːntɪŋ triːz/
+21. **reading books** : (v) đọc sách /ˈriːdɪŋ bʊks/
+22. **donating clothes** : (v) quyên góp quần áo /dəʊˈneɪtɪŋ kləʊðz/
+23. **collect** : (v) sưu tầm /kəˈlekt/
+24. **clothes** : (n) quần áo /kləʊðz/
+25. **give - gave - given** : (v) tặng /ɡɪv/ - /ɡeɪv/ - /ˈɡɪvən/
+26. **litter** : (n, v) rác, xả rác /ˈlɪtər/
+27. **teach - taught - taught** : (v) dạy /tiːtʃ/ - /tɔːt/ - /tɔːt/
+28. **pick up** : (v) nhặt, đón /pɪk ʌp/
+29. **primary student** : (n) học sinh tiểu học /ˈpraɪməri ˈstjuːdənt/
+30. **holiday** : (n) kì nghỉ /ˈhɒlədeɪ/
 
 ### ✍️ Exercises - Bài tập
 
@@ -233,27 +233,27 @@ Hậu tố -ed được dùng để tạo thành thì quá khứ đơn và phân
 ## A CLOSER LOOK 2 - TÌM HIỂU THÊM 2
 
 ### 📚 Vocabulary - Từ vựng
-- **grow vegetables** : (v) trồng rau /ɡrəʊ ˈvedʒtəbəlz/
-- **plastic bottles** : (n) chai nhựa /ˈplæstɪk ˈbɒtlz/
-- **primary school** : (n) trường tiểu học /ˈpraɪməri skuːl/
-- **old people** : (n) người già /əʊld ˈpiːpl/
-- **nursing homes** : (n) nhà dưỡng lão /ˈnɜːsɪŋ həʊmz/
-- **help the environment** : (v) giúp đỡ môi trường /help ði ɪnˈvaɪərənmənt/
-- **take care** : (v) chăm sóc /teɪk keə/
-- **homeless dogs and cats** : (n) chó và mèo vô gia cư /ˈhəʊmləs dɒɡz ənd kæts/
-- **many teenagers** : (n) nhiều thanh thiếu niên /ˈmeni ˈtiːneɪdʒəz/
-- **teenagers** : (n) thanh thiếu niên /ˈtiːneɪdʒəz/
-- **elderly in a village** : (n) người già trong làng /ˈeldəli ɪn ə ˈvɪlɪdʒ/
-- **rural village** : (n) làng quê /ˈrʊərəl ˈvɪlɪdʒ/
-- **teach English** : (v) dạy tiếng Anh /tiːtʃ ˈɪŋɡlɪʃ/
-- **last winter** : (n) mùa đông năm trước /lɑːst ˈwɪntə/
-- **cook food** : (v) nấu ăn /kʊk fuːd/
-- **pick up rubbish** : (v) nhặt rác /pɪk ʌp ˈrʌbɪʃ/
-- **plant trees** : (v) trồng cây /plɑːnt triːz/
-- **recycle bottles** : (v) tái chế chai /ˌriːˈsaɪkl ˈbɒtlz/
-- **send textbooks** : (v) gửi sách giáo khoa /send ˈtekstbʊks/
-- **care for animals** : (v) chăm sóc động vật /keə fɔːr ˈænɪməlz/
-- **club members** : (n) thành viên câu lạc bộ /klʌb ˈmembəz/
+1. **grow vegetables** : (v) trồng rau /ɡrəʊ ˈvedʒtəbəlz/
+2. **plastic bottles** : (n) chai nhựa /ˈplæstɪk ˈbɒtlz/
+3. **primary school** : (n) trường tiểu học /ˈpraɪməri skuːl/
+4. **old people** : (n) người già /əʊld ˈpiːpl/
+5. **nursing homes** : (n) nhà dưỡng lão /ˈnɜːsɪŋ həʊmz/
+6. **help the environment** : (v) giúp đỡ môi trường /help ði ɪnˈvaɪərənmənt/
+7. **take care** : (v) chăm sóc /teɪk keə/
+8. **homeless dogs and cats** : (n) chó và mèo vô gia cư /ˈhəʊmləs dɒɡz ənd kæts/
+9. **many teenagers** : (n) nhiều thanh thiếu niên /ˈmeni ˈtiːneɪdʒəz/
+10. **teenagers** : (n) thanh thiếu niên /ˈtiːneɪdʒəz/
+11. **elderly in a village** : (n) người già trong làng /ˈeldəli ɪn ə ˈvɪlɪdʒ/
+12. **rural village** : (n) làng quê /ˈrʊərəl ˈvɪlɪdʒ/
+13. **teach English** : (v) dạy tiếng Anh /tiːtʃ ˈɪŋɡlɪʃ/
+14. **last winter** : (n) mùa đông năm trước /lɑːst ˈwɪntə/
+15. **cook food** : (v) nấu ăn /kʊk fuːd/
+16. **pick up rubbish** : (v) nhặt rác /pɪk ʌp ˈrʌbɪʃ/
+17. **plant trees** : (v) trồng cây /plɑːnt triːz/
+18. **recycle bottles** : (v) tái chế chai /ˌriːˈsaɪkl ˈbɒtlz/
+19. **send textbooks** : (v) gửi sách giáo khoa /send ˈtekstbʊks/
+20. **care for animals** : (v) chăm sóc động vật /keə fɔːr ˈænɪməlz/
+21. **club members** : (n) thành viên câu lạc bộ /klʌb ˈmembəz/
 
 ### 📖 Grammar - Ngữ pháp
 **Past Simple Tense - Thì quá khứ đơn**
@@ -376,14 +376,14 @@ B: I helped ill people and read books to them at their home.
 
 ### 📚 Vocabulary - Từ vựng
 - **make similar conversations** : tạo các cuộc hội thoại tương tự
-- **poster** : (n) áp phích /ˈpəʊstə/
-- **volunteer activities** : (n) hoạt động tình nguyện /ˌvɒlənˈtɪə ækˈtɪvɪtɪz/
-- **benefit** : (n) lợi ích /ˈbenɪfɪt/
-- **protect the environment** : (v) bảo vệ môi trường /prəˈtekt ði ɪnˈvaɪərənmənt/
-- **make a difference** : (v) tạo ra sự khác biệt /meɪk ə ˈdɪfərəns/
-- **create smiles** : (v) tạo nụ cười /kriˈeɪt smaɪlz/
-- **meet new friends** : (v) gặp gỡ bạn mới /miːt njuː frendz/
-- **help me feel useful** : (v) giúp tôi cảm thấy hữu ích /help miː fiːl ˈjuːsfʊl/
+1. **poster** : (n) áp phích /ˈpəʊstə/
+2. **volunteer activities** : (n) hoạt động tình nguyện /ˌvɒlənˈtɪə ækˈtɪvɪtɪz/
+3. **benefit** : (n) lợi ích /ˈbenɪfɪt/
+4. **protect the environment** : (v) bảo vệ môi trường /prəˈtekt ði ɪnˈvaɪərənmənt/
+5. **make a difference** : (v) tạo ra sự khác biệt /meɪk ə ˈdɪfərəns/
+6. **create smiles** : (v) tạo nụ cười /kriˈeɪt smaɪlz/
+7. **meet new friends** : (v) gặp gỡ bạn mới /miːt njuː frendz/
+8. **help me feel useful** : (v) giúp tôi cảm thấy hữu ích /help miː fiːl ˈjuːsfʊl/
 
 ### 🗣️ Activities - Hoạt động
 
@@ -438,31 +438,31 @@ Nam wants to join help street children activities because it will help children 
 ## SKILLS 1 - KỸ NĂNG 1
 
 ### 📚 Vocabulary - Từ vựng
-- **growing vegetables** : (v) trồng rau /ˈɡrəʊɪŋ ˈvedʒtəbəlz/
-- **tutoring** : (v) dạy kèm /ˈtjuːtərɪŋ/
-- **tutoring other students** : (v) dạy kèm học sinh khác /ˈtjuːtərɪŋ ˈʌðə ˈstjuːdənts/
-- **collecting books** : (v) thu thập sách /kəˈlektɪŋ bʊks/
-- **school library** : (n) thư viện trường học /skuːl ˈlaɪbrəri/
-- **give and receive** : (v) cho và nhận /ɡɪv ənd rɪˈsiːv/
-- **every month** : (adv) mỗi tháng /ˈevri mʌnθ/
-- **Bright Future School** : (n) Trường Tương Lai Tươi Sáng /braɪt ˈfjuːtʃə skuːl/
-- **community activities** : (n) hoạt động cộng đồng /kəˈmjuːnɪti ækˈtɪvɪtiz/
-- **lower grade students** : (n) học sinh lớp dưới /ˈləʊə ɡreɪd ˈstjuːdənts/
-- **postcards** : (n) bưu thiếp /ˈpəʊstkɑːdz/
-- **raise money** : (v) gây quỹ /reɪz ˈmʌni/
-- **local children** : (n) trẻ em địa phương /ˈləʊkəl ˈtʃɪldrən/
-- **nursing home** : (n) nhà dưỡng lão /ˈnɜːsɪŋ həʊm/
-- **read books** : (v) đọc sách /riːd bʊks/
-- **look after** : (v) chăm sóc /lʊk ˈɑːftə/
-- **do good things** : (v) làm điều tốt /duː ɡʊd θɪŋz/
-- **feel proud** : (v) cảm thấy tự hào /fiːl praʊd/
-- **make and sell** : (v) làm và bán /meɪk ənd sel/
-- **send postcards** : (v) gửi bưu thiếp /send ˈpəʊstkɑːdz/
-- **proud** : (adj) tự hào /praʊd/
-- **good things** : (n) điều tốt /ɡʊd θɪŋz/
-- **believe** : (v) tin /bɪˈliːv/
-- **develop themselves** : (v) phát triển bản thân /dɪˈveləp ðəmˈselvz/
-- **way** : (n) cách /weɪ/
+1. **growing vegetables** : (v) trồng rau /ˈɡrəʊɪŋ ˈvedʒtəbəlz/
+2. **tutoring** : (v) dạy kèm /ˈtjuːtərɪŋ/
+3. **tutoring other students** : (v) dạy kèm học sinh khác /ˈtjuːtərɪŋ ˈʌðə ˈstjuːdənts/
+4. **collecting books** : (v) thu thập sách /kəˈlektɪŋ bʊks/
+5. **school library** : (n) thư viện trường học /skuːl ˈlaɪbrəri/
+6. **give and receive** : (v) cho và nhận /ɡɪv ənd rɪˈsiːv/
+7. **every month** : (adv) mỗi tháng /ˈevri mʌnθ/
+8. **Bright Future School** : (n) Trường Tương Lai Tươi Sáng /braɪt ˈfjuːtʃə skuːl/
+9. **community activities** : (n) hoạt động cộng đồng /kəˈmjuːnɪti ækˈtɪvɪtiz/
+10. **lower grade students** : (n) học sinh lớp dưới /ˈləʊə ɡreɪd ˈstjuːdənts/
+11. **postcards** : (n) bưu thiếp /ˈpəʊstkɑːdz/
+12. **raise money** : (v) gây quỹ /reɪz ˈmʌni/
+13. **local children** : (n) trẻ em địa phương /ˈləʊkəl ˈtʃɪldrən/
+14. **nursing home** : (n) nhà dưỡng lão /ˈnɜːsɪŋ həʊm/
+15. **read books** : (v) đọc sách /riːd bʊks/
+16. **look after** : (v) chăm sóc /lʊk ˈɑːftə/
+17. **do good things** : (v) làm điều tốt /duː ɡʊd θɪŋz/
+18. **feel proud** : (v) cảm thấy tự hào /fiːl praʊd/
+19. **make and sell** : (v) làm và bán /meɪk ənd sel/
+20. **send postcards** : (v) gửi bưu thiếp /send ˈpəʊstkɑːdz/
+21. **proud** : (adj) tự hào /praʊd/
+22. **good things** : (n) điều tốt /ɡʊd θɪŋz/
+23. **believe** : (v) tin /bɪˈliːv/
+24. **develop themselves** : (v) phát triển bản thân /dɪˈveləp ðəmˈselvz/
+25. **way** : (n) cách /weɪ/
 
 ### 📖 Reading - Đọc
 
@@ -539,18 +539,18 @@ I would like to join the Garden-to-Give project because I love gardening. By par
 ## SKILLS 2 - KỸ NĂNG 2
 
 ### 📚 Vocabulary - Từ vựng
-- **tutor 3rd grade children** : (v) dạy kèm học sinh lớp 3 /ˈtjuːtə θɜːd ɡreɪd ˈtʃɪldrən/
-- **help old people** : (v) giúp đỡ người già /help əʊld ˈpiːpl/
-- **teach English and maths** : (v) dạy tiếng Anh và toán /tiːtʃ ˈɪŋɡlɪʃ ənd mæθs/
-- **do some cleaning** : (v) làm một số việc dọn dẹp /duː sʌm ˈkliːnɪŋ/
-- **benefit** : (v) hưởng lợi /ˈbenɪfɪt/
-- **pick up paper and bottles** : (v) nhặt giấy và chai lọ /pɪk ʌp ˈpeɪpə ənd ˈbɒtlz/
-- **nearby park** : (n) công viên gần đó /ˈnɪəbaɪ pɑːk/
-- **plant trees** : (v) trồng cây /plɑːnt triːz/
-- **water them** : (v) tưới nước cho chúng /ˈwɔːtə ðem/
-- **watch them grow** : (v) xem chúng lớn lên /wɒtʃ ðem ɡrəʊ/
-- **work and play together** : (v) làm việc và chơi cùng nhau /wɜːk ənd pleɪ təˈɡeðə/
-- **learn some skills** : (v) học một số kỹ năng /lɜːn sʌm skɪlz/
+1. **tutor 3rd grade children** : (v) dạy kèm học sinh lớp 3 /ˈtjuːtə θɜːd ɡreɪd ˈtʃɪldrən/
+2. **help old people** : (v) giúp đỡ người già /help əʊld ˈpiːpl/
+3. **teach English and maths** : (v) dạy tiếng Anh và toán /tiːtʃ ˈɪŋɡlɪʃ ənd mæθs/
+4. **do some cleaning** : (v) làm một số việc dọn dẹp /duː sʌm ˈkliːnɪŋ/
+5. **benefit** : (v) hưởng lợi /ˈbenɪfɪt/
+6. **pick up paper and bottles** : (v) nhặt giấy và chai lọ /pɪk ʌp ˈpeɪpə ənd ˈbɒtlz/
+7. **nearby park** : (n) công viên gần đó /ˈnɪəbaɪ pɑːk/
+8. **plant trees** : (v) trồng cây /plɑːnt triːz/
+9. **water them** : (v) tưới nước cho chúng /ˈwɔːtə ðem/
+10. **watch them grow** : (v) xem chúng lớn lên /wɒtʃ ðem ɡrəʊ/
+11. **work and play together** : (v) làm việc và chơi cùng nhau /wɜːk ənd pleɪ təˈɡeðə/
+12. **learn some skills** : (v) học một số kỹ năng /lɜːn sʌm skɪlz/
 
 ### 👂 Listening - Nghe
 
@@ -686,9 +686,9 @@ Nam
    → Tom made and sent postcards to the elderly at Christmas.
 
 **Additional vocabulary from ground truth:**
-- **patient** : (n) bệnh nhân /ˈpeɪʃənt/
-- **hospital** : (n) bệnh viện /ˈhɒspɪtl/
-- **community** : (n) cộng đồng /kəˈmjuːnɪti/
+1. **patient** : (n) bệnh nhân /ˈpeɪʃənt/
+2. **hospital** : (n) bệnh viện /ˈhɒspɪtl/
+3. **community** : (n) cộng đồng /kəˈmjuːnɪti/
 
 ### PROJECT - DỰ ÁN
 
@@ -706,8 +706,8 @@ Work in groups:
 
 ### Additional vocabulary from ground truth:
 **For Past Simple understanding:**
-- **dig - dug - dug** : (v) đào /dɪɡ/ - /dʌɡ/ - /dʌɡ/
-- **dig up dirt on sb** : (phrase) đào bới chuyện xấu, vu khống ai đó
+1. **dig - dug - dug** : (v) đào /dɪɡ/ - /dʌɡ/ - /dʌɡ/
+2. **dig up dirt on sb** : (phrase) đào bới chuyện xấu, vu khống ai đó
 
 **Example sentences for project work:**
 1. We join in community activities once a month.

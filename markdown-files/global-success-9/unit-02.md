@@ -4,32 +4,32 @@
 
 ### 📚 Vocabulary - Từ vựng
 
-- **traffic jam** : (n) kẹt xe /ˈtræfɪk dʒæm/
-- **get stuck** : (v) bị kẹt /ɡet stʌk/
-- **online** : (adj, adv) trực tuyến /ˈɒnlaɪn/
-- **pick up** : (v) đón /pɪk ʌp/
-- **rarely** : (adv) hiếm khi /ˈreəli/
-- **packed with** : (adj) chật kín /pækt wɪð/
-- **underground** : (n) tàu điện ngầm /ˈʌndəɡraʊnd/
-- **reliable** : (adj) đáng tin cậy /rɪˈlaɪəbl/
-- **traffic congestion** : (n) tắc nghẽn giao thông /ˈtræfɪk kənˈdʒestʃən/
-- **terrible** : (adj) khủng khiếp /ˈterəbl/
-- **crowded** : (adj) đông đúc /ˈkraʊdɪd/
-- **congested** : (adj) tắc nghẽn /kənˈdʒestɪd/
-- **polluted** : (adj) ô nhiễm /pəˈluːtɪd/
-- **construction site** : (n) công trường xây dựng /kənˈstrʌkʃn saɪt/
-- **neighbourhood** : (n) khu vực, vùng lân cận /ˈneɪbəhʊd/
-- **dusty** : (adj) bụi bặm /ˈdʌsti/
-- **itchy** : (adj) ngứa /ˈɪtʃi/
-- **noisy** : (adj) ồn ào /ˈnɔɪzi/
-- **stressed** : (adj) căng thẳng /strest/
-- **modern** : (adj) hiện đại /ˈmɒdn/
-- **attractive** : (adj) hấp dẫn /əˈtræktɪv/
-- **grand** : (adj) to lớn, hoành tráng /ɡrænd/
-- **downtown** : (n, adv) trung tâm thành phố /ˈdaʊntaʊn/
-- **shopping mall** : (n) trung tâm mua sắm /ˈʃɒpɪŋ mɔːl/
-- **pricey** : (adj) đắt đỏ /ˈpraɪsi/
-- **expensive** : (adj) đắt /ɪkˈspensɪv/
+1. **traffic jam** : (n) kẹt xe /ˈtræfɪk dʒæm/
+2. **get stuck** : (v) bị kẹt /ɡet stʌk/
+3. **online** : (adj, adv) trực tuyến /ˈɒnlaɪn/
+4. **pick up** : (v) đón /pɪk ʌp/
+5. **rarely** : (adv) hiếm khi /ˈreəli/
+6. **packed with** : (adj) chật kín /pækt wɪð/
+7. **underground** : (n) tàu điện ngầm /ˈʌndəɡraʊnd/
+8. **reliable** : (adj) đáng tin cậy /rɪˈlaɪəbl/
+9. **traffic congestion** : (n) tắc nghẽn giao thông /ˈtræfɪk kənˈdʒestʃən/
+10. **terrible** : (adj) khủng khiếp /ˈterəbl/
+11. **crowded** : (adj) đông đúc /ˈkraʊdɪd/
+12. **congested** : (adj) tắc nghẽn /kənˈdʒestɪd/
+13. **polluted** : (adj) ô nhiễm /pəˈluːtɪd/
+14. **construction site** : (n) công trường xây dựng /kənˈstrʌkʃn saɪt/
+15. **neighbourhood** : (n) khu vực, vùng lân cận /ˈneɪbəhʊd/
+16. **dusty** : (adj) bụi bặm /ˈdʌsti/
+17. **itchy** : (adj) ngứa /ˈɪtʃi/
+18. **noisy** : (adj) ồn ào /ˈnɔɪzi/
+19. **stressed** : (adj) căng thẳng /strest/
+20. **modern** : (adj) hiện đại /ˈmɒdn/
+21. **attractive** : (adj) hấp dẫn /əˈtræktɪv/
+22. **grand** : (adj) to lớn, hoành tráng /ɡrænd/
+23. **downtown** : (n, adv) trung tâm thành phố /ˈdaʊntaʊn/
+24. **shopping mall** : (n) trung tâm mua sắm /ˈʃɒpɪŋ mɔːl/
+25. **pricey** : (adj) đắt đỏ /ˈpraɪsi/
+26. **expensive** : (adj) đắt /ɪkˈspensɪv/
 
 ### 💬 Content - Nội dung
 
@@ -178,19 +178,19 @@ Tick (✓) your answer A or B, and find out whether you are a city or village pe
 
 ### 📚 Vocabulary - Từ vựng
 
-- **concrete jungle** : (n) khu rừng bê tông /ˈkɒŋkriːt ˈdʒʌŋɡl/
-- **sky train** : (n) tàu điện trên cao /skaɪ treɪn/
-- **metro** : (n) tàu điện ngầm /ˈmetrəʊ/
-- **public amenities** : (n) tiện ích công cộng /ˈpʌblɪk əˈmiːnətiz/
-- **business area** : (n) khu vực kinh doanh /ˈbɪznəs ˈeəriə/
-- **commuters** : (n) người đi làm xa /kəˈmjuːtəz/
-- **liveable** : (adj) đáng sống /ˈlɪvəbl/
-- **pickpocket** : (v, n) móc túi /ˈpɪkpɒkɪt/
-- **bustling** : (adj) nhộn nhịp, tấp nập /ˈbʌslɪŋ/
-- **crime rate** : (n) tỷ lệ tội phạm /kraɪm reɪt/
-- **take place** : (v) diễn ra /teɪk pleɪs/
-- **convenience** : (n) sự tiện lợi /kənˈviːniəns/
-- **suburb** : (n) ngoại ô /ˈsʌbɜːb/
+1. **concrete jungle** : (n) khu rừng bê tông /ˈkɒŋkriːt ˈdʒʌŋɡl/
+2. **sky train** : (n) tàu điện trên cao /skaɪ treɪn/
+3. **metro** : (n) tàu điện ngầm /ˈmetrəʊ/
+4. **public amenities** : (n) tiện ích công cộng /ˈpʌblɪk əˈmiːnətiz/
+5. **business area** : (n) khu vực kinh doanh /ˈbɪznəs ˈeəriə/
+6. **commuters** : (n) người đi làm xa /kəˈmjuːtəz/
+7. **liveable** : (adj) đáng sống /ˈlɪvəbl/
+8. **pickpocket** : (v, n) móc túi /ˈpɪkpɒkɪt/
+9. **bustling** : (adj) nhộn nhịp, tấp nập /ˈbʌslɪŋ/
+10. **crime rate** : (n) tỷ lệ tội phạm /kraɪm reɪt/
+11. **take place** : (v) diễn ra /teɪk pleɪs/
+12. **convenience** : (n) sự tiện lợi /kənˈviːniəns/
+13. **suburb** : (n) ngoại ô /ˈsʌbɜːb/
 
 ### 🗣️ Pronunciation - Phát âm
 
@@ -310,11 +310,11 @@ Words: underground, around, crowded, downtown, powwow, metro, window, council, f
 
 ### 📚 Vocabulary - Từ vựng
 
-- **carry out** : (phr v) thực hiện /ˈkæri aʊt/
-- **get around** : (phr v) đi lại, di chuyển /ɡet əˈraʊnd/
-- **come down with** : (phr v) mắc bệnh /kʌm daʊn wɪð/
-- **hang out** : (phr v) đi chơi /hæŋ aʊt/
-- **cut down on** : (phr v) cắt giảm /kʌt daʊn ɒn/
+1. **carry out** : (phr v) thực hiện /ˈkæri aʊt/
+2. **get around** : (phr v) đi lại, di chuyển /ɡet əˈraʊnd/
+3. **come down with** : (phr v) mắc bệnh /kʌm daʊn wɪð/
+4. **hang out** : (phr v) đi chơi /hæŋ aʊt/
+5. **cut down on** : (phr v) cắt giảm /kʌt daʊn ɒn/
 
 ### 📖 Grammar - Ngữ pháp
 
@@ -425,19 +425,19 @@ Example answers:
 
 ### 📚 Vocabulary - Từ vựng
 
-- **suburbs** : (n) ngoại ô /ˈsʌbɜːbz/
-- **convenient** : (adj) tiện lợi /kənˈviːniənt/
-- **bus line** : (n) tuyến xe buýt /bʌs laɪn/
-- **traffic jam** : (n) kẹt xe /ˈtræfɪk dʒæm/
-- **crowded** : (adj) đông đúc /ˈkraʊdɪd/
-- **rush hour** : (n) giờ cao điểm /rʌʃ ˈaʊə/
-- **on time** : (adv) đúng giờ /ɒn taɪm/
-- **discount** : (n) giảm giá /ˈdɪskaʊnt/
-- **tram** : (n) xe điện /træm/
-- **arrival** : (n) sự đến /əˈraɪvl/
-- **in advance** : (adv) trước /ɪn ədˈvɑːns/
-- **subway map** : (n) bản đồ tàu điện ngầm /ˈsʌbweɪ mæp/
-- **library smart card** : (n) thẻ thông minh thư viện /ˈlaɪbrəri smɑːt kɑːd/
+1. **suburbs** : (n) ngoại ô /ˈsʌbɜːbz/
+2. **convenient** : (adj) tiện lợi /kənˈviːniənt/
+3. **bus line** : (n) tuyến xe buýt /bʌs laɪn/
+4. **traffic jam** : (n) kẹt xe /ˈtræfɪk dʒæm/
+5. **crowded** : (adj) đông đúc /ˈkraʊdɪd/
+6. **rush hour** : (n) giờ cao điểm /rʌʃ ˈaʊə/
+7. **on time** : (adv) đúng giờ /ɒn taɪm/
+8. **discount** : (n) giảm giá /ˈdɪskaʊnt/
+9. **tram** : (n) xe điện /træm/
+10. **arrival** : (n) sự đến /əˈraɪvl/
+11. **in advance** : (adv) trước /ɪn ədˈvɑːns/
+12. **subway map** : (n) bản đồ tàu điện ngầm /ˈsʌbweɪ mæp/
+13. **library smart card** : (n) thẻ thông minh thư viện /ˈlaɪbrəri smɑːt kɑːd/
 
 ### 🗣️ Everyday English - Tiếng Anh hàng ngày
 
@@ -532,35 +532,35 @@ Sample answers:
 
 ### 📚 Vocabulary - Từ vựng
 
-- **food waste** : (n) chất thải thực phẩm /fuːd weɪst/
-- **leftovers** : (n) thức ăn thừa /ˈleftəʊvəz/
-- **learning space** : (n) không gian học tập /ˈlɜːnɪŋ speɪs/
-- **cafeteria** : (n) quán cà phê, căng tin /ˌkæfəˈtɪəriə/
-- **annual** : (adj) hàng năm /ˈænjuəl/
-- **competition** : (n) cuộc thi /ˌkɒmpəˈtɪʃn/
-- **suggest** : (v) đề xuất /səˈdʒest/
-- **solution** : (n) giải pháp /səˈluːʃn/
-- **serious** : (adj) nghiêm trọng /ˈsɪəriəs/
-- **creatively** : (adv) sáng tạo /kriˈeɪtɪvli/
-- **partner** : (n) đối tác /ˈpɑːtnə/
-- **fund** : (n) quỹ /fʌnd/
-- **educate** : (v) giáo dục /ˈedʒukeɪt/
-- **carry out** : (phr v) thực hiện /ˈkæri aʊt/
-- **energy** : (n) năng lượng /ˈenədʒi/
-- **biogas** : (n) khí sinh học /ˈbaɪəʊɡæs/
-- **public amenities** : (n) tiện ích công cộng /ˈpʌblɪk əˈmiːnətiz/
-- **particularly** : (adv) đặc biệt /pəˈtɪkjələli/
-- **attract** : (v) thu hút /əˈtrækt/
-- **lively** : (adj) sinh động /ˈlaɪvli/
-- **dessert** : (n) món tráng miệng /dɪˈzɜːt/
-- **vehicle** : (n) phương tiện /ˈviːəkl/
-- **school gates** : (n) cổng trường /skuːl ɡeɪts/
-- **unsafe** : (adj) không an toàn /ʌnˈseɪf/
-- **city authorities** : (n) chính quyền thành phố /ˈsɪti ɔːˈθɒrətiz/
-- **drop-off** : (n) điểm thả khách /drɒp ɒf/
-- **pick-up** : (n) điểm đón khách /pɪk ʌp/
-- **motorbike** : (n) xe máy /ˈməʊtəbaɪk/
-- **pavement** : (n) vỉa hè /ˈpeɪvmənt/
+1. **food waste** : (n) chất thải thực phẩm /fuːd weɪst/
+2. **leftovers** : (n) thức ăn thừa /ˈleftəʊvəz/
+3. **learning space** : (n) không gian học tập /ˈlɜːnɪŋ speɪs/
+4. **cafeteria** : (n) quán cà phê, căng tin /ˌkæfəˈtɪəriə/
+5. **annual** : (adj) hàng năm /ˈænjuəl/
+6. **competition** : (n) cuộc thi /ˌkɒmpəˈtɪʃn/
+7. **suggest** : (v) đề xuất /səˈdʒest/
+8. **solution** : (n) giải pháp /səˈluːʃn/
+9. **serious** : (adj) nghiêm trọng /ˈsɪəriəs/
+10. **creatively** : (adv) sáng tạo /kriˈeɪtɪvli/
+11. **partner** : (n) đối tác /ˈpɑːtnə/
+12. **fund** : (n) quỹ /fʌnd/
+13. **educate** : (v) giáo dục /ˈedʒukeɪt/
+14. **carry out** : (phr v) thực hiện /ˈkæri aʊt/
+15. **energy** : (n) năng lượng /ˈenədʒi/
+16. **biogas** : (n) khí sinh học /ˈbaɪəʊɡæs/
+17. **public amenities** : (n) tiện ích công cộng /ˈpʌblɪk əˈmiːnətiz/
+18. **particularly** : (adv) đặc biệt /pəˈtɪkjələli/
+19. **attract** : (v) thu hút /əˈtrækt/
+20. **lively** : (adj) sinh động /ˈlaɪvli/
+21. **dessert** : (n) món tráng miệng /dɪˈzɜːt/
+22. **vehicle** : (n) phương tiện /ˈviːəkl/
+23. **school gates** : (n) cổng trường /skuːl ɡeɪts/
+24. **unsafe** : (adj) không an toàn /ʌnˈseɪf/
+25. **city authorities** : (n) chính quyền thành phố /ˈsɪti ɔːˈθɒrətiz/
+26. **drop-off** : (n) điểm thả khách /drɒp ɒf/
+27. **pick-up** : (n) điểm đón khách /pɪk ʌp/
+28. **motorbike** : (n) xe máy /ˈməʊtəbaɪk/
+29. **pavement** : (n) vỉa hè /ˈpeɪvmənt/
 
 ### 📖 Reading - Đọc
 
@@ -588,13 +588,13 @@ D. The waste-free city (Thành phố không rác thải)
 
 Teenovator is an annual competition by the City Teen Council. We ask teens to find problems of the city and suggest solutions. Here are this year's winners
 
-1. _________: Central School
+1. **_________** : Central School
 They see that the more developed a city is, the more food people throw away. They suggest carrying out a project which turns food waste into energy. Students would sort their leftovers at school canteens. A nearby farm would come to take the food waste and process it into biogas.
 
-2. _________: Bookworm Team
+2. **_________** : Bookworm Team
 This team feels that many public amenities, particularly the city library, are not teen-friendly. They suggest a list of changes so that the library can attract more teens. Some of them include designing lively learning spaces for teens and having teen's favourite desserts in the cafeteria.
 
-3. _________: Helena Wilson
+3. **_________** : Helena Wilson
 Helena realises that there are too many vehicles around school gates. This is unsafe for children who walk to school. She suggests that the city authorities not allow cars at school gates at drop-off and pick-up times. In addition, they should not let motorbikes park on the pavement near school gates.
 
 **Answers:**
@@ -675,37 +675,37 @@ There are several problems in our city. First, traffic congestion is a big issue
 
 ### 📚 Vocabulary - Từ vựng
 
-- **nice parks** : (n) công viên đẹp /naɪs pɑːks/
-- **modern cinemas** : (n) rạp chiếu phim hiện đại /ˈmɒdən ˈsɪnəməz/
-- **air-conditioned buses** : (n) xe buýt có máy lạnh /eə kənˈdɪʃnd ˈbʌsɪz/
-- **free sports facilities** : (n) cơ sở thể thao miễn phí /friː spɔːts fəˈsɪlətiz/
-- **convenient food stalls** : (n) quầy hàng thực phẩm tiện lợi /kənˈviːniənt fuːd stɔːlz/
-- **wide roads** : (n) đường rộng /waɪd rəʊdz/
-- **facilities** : (n) cơ sở vật chất /fəˈsɪlətiz/
-- **public use** : (n) sử dụng công cộng /ˈpʌblɪk juːs/
-- **entertainment** : (n) giải trí /ˌentəˈteɪnmənt/
-- **shopping mall** : (n) trung tâm mua sắm /ˈʃɒpɪŋ mɔːl/
-- **costly** : (adj) tốn kém /ˈkɒstli/
-- **physical activities** : (n) hoạt động thể chất /ˈfɪzɪkl ækˈtɪvətiz/
-- **street corners** : (n) góc phố /striːt ˈkɔːnəz/
-- **street food** : (n) đồ ăn đường phố /striːt fuːd/
-- **hygiene risks** : (n) nguy cơ vệ sinh /ˈhaɪdʒiːn rɪsks/
-- **drawback** : (n) nhược điểm /ˈdrɔːbæk/
-- **widen** : (v) mở rộng /ˈwaɪdn/
-- **air-conditioned** : (adj) có máy lạnh /eə kənˈdɪʃnd/
-- **chat show** : (n) chương trình trò chuyện /tʃæt ʃəʊ/
-- **documentary** : (n) phim tài liệu /ˌdɒkjuˈmentri/
-- **daily news** : (n) tin tức hàng ngày /ˈdeɪli njuːz/
-- **modern sports centres** : (n) trung tâm thể thao hiện đại /ˈmɒdən spɔːts ˈsentəz/
-- **city council** : (n) hội đồng thành phố /ˈsɪti ˈkaʊnsl/
-- **heavy traffic** : (n) nhiều xe cộ lưu thông /ˈhevi ˈtræfɪk/
-- **good health service** : (n) dịch vụ y tế tốt /ɡʊd helθ ˈsɜːvɪs/
-- **high crime rate** : (n) tỷ lệ tội phạm cao /haɪ kraɪm reɪt/
-- **beautiful buildings** : (n) nhiều tòa nhà đẹp /ˈbjuːtɪfl ˈbɪldɪŋz/
-- **easy shopping** : (n) mua sắm dễ dàng /ˈiːzi ˈʃɒpɪŋ/
-- **air pollution** : (n) ô nhiễm không khí /eə pəˈluːʃn/
-- **green space** : (n) không gian xanh /ɡriːn speɪs/
-- **too much noise** : (n) quá nhiều tiếng ồn /tuː mʌtʃ nɔɪz/
+1. **nice parks** : (n) công viên đẹp /naɪs pɑːks/
+2. **modern cinemas** : (n) rạp chiếu phim hiện đại /ˈmɒdən ˈsɪnəməz/
+3. **air-conditioned buses** : (n) xe buýt có máy lạnh /eə kənˈdɪʃnd ˈbʌsɪz/
+4. **free sports facilities** : (n) cơ sở thể thao miễn phí /friː spɔːts fəˈsɪlətiz/
+5. **convenient food stalls** : (n) quầy hàng thực phẩm tiện lợi /kənˈviːniənt fuːd stɔːlz/
+6. **wide roads** : (n) đường rộng /waɪd rəʊdz/
+7. **facilities** : (n) cơ sở vật chất /fəˈsɪlətiz/
+8. **public use** : (n) sử dụng công cộng /ˈpʌblɪk juːs/
+9. **entertainment** : (n) giải trí /ˌentəˈteɪnmənt/
+10. **shopping mall** : (n) trung tâm mua sắm /ˈʃɒpɪŋ mɔːl/
+11. **costly** : (adj) tốn kém /ˈkɒstli/
+12. **physical activities** : (n) hoạt động thể chất /ˈfɪzɪkl ækˈtɪvətiz/
+13. **street corners** : (n) góc phố /striːt ˈkɔːnəz/
+14. **street food** : (n) đồ ăn đường phố /striːt fuːd/
+15. **hygiene risks** : (n) nguy cơ vệ sinh /ˈhaɪdʒiːn rɪsks/
+16. **drawback** : (n) nhược điểm /ˈdrɔːbæk/
+17. **widen** : (v) mở rộng /ˈwaɪdn/
+18. **air-conditioned** : (adj) có máy lạnh /eə kənˈdɪʃnd/
+19. **chat show** : (n) chương trình trò chuyện /tʃæt ʃəʊ/
+20. **documentary** : (n) phim tài liệu /ˌdɒkjuˈmentri/
+21. **daily news** : (n) tin tức hàng ngày /ˈdeɪli njuːz/
+22. **modern sports centres** : (n) trung tâm thể thao hiện đại /ˈmɒdən spɔːts ˈsentəz/
+23. **city council** : (n) hội đồng thành phố /ˈsɪti ˈkaʊnsl/
+24. **heavy traffic** : (n) nhiều xe cộ lưu thông /ˈhevi ˈtræfɪk/
+25. **good health service** : (n) dịch vụ y tế tốt /ɡʊd helθ ˈsɜːvɪs/
+26. **high crime rate** : (n) tỷ lệ tội phạm cao /haɪ kraɪm reɪt/
+27. **beautiful buildings** : (n) nhiều tòa nhà đẹp /ˈbjuːtɪfl ˈbɪldɪŋz/
+28. **easy shopping** : (n) mua sắm dễ dàng /ˈiːzi ˈʃɒpɪŋ/
+29. **air pollution** : (n) ô nhiễm không khí /eə pəˈluːʃn/
+30. **green space** : (n) không gian xanh /ɡriːn speɪs/
+31. **too much noise** : (n) quá nhiều tiếng ồn /tuː mʌtʃ nɔɪz/
 
 ### 👂 Listening - Nghe
 

@@ -6,36 +6,36 @@
 
 **Vocabulary** 
 
-1. popular: (adj) phổ biến, được nhiều người ưa thích /ˈpɒpjələ/  
-2. snack: (n) đồ ăn nhẹ /snæk/  
-3. taste: (n) vị, (v) nếm, cho ra vị /teɪst/  
-4. broth: (n) nước hầm thịt /brɒθ/  
-5. stew: (v) hầm /stjuː/  
-6. boneless: (adj) không xương, rút xương /ˈbəʊnləs/  
-7. special: (adj) đặc biệt /ˈspeʃl/  
-8. kind: (n) loại /kaɪnd/  
-9. traditional: (adj) truyền thống /trəˈdɪʃənl/  
-10. dish: (n) món ăn /dɪʃ/  
-11. main: (adj) chính /meɪn/  
-12. ingredient: (n) nguyên liệu /ɪnˈgriːdiənt/  
-13. rice noodle: mì gạo, bún, phở /raɪs ˈnuːdl/  
-14. slice: (v) thái lát, (n) lát /slaɪs/  
-15. chicken: (không đếm được) thịt gà /ˈtʃɪkɪn/  
-16. common: (adj) phổ biến /ˈkɒmən/  
-17. one of the \+ danh từ số nhiều: một trong những /wʌn əv ðə/  
-18. enjoy: (v) thích, (v) thưởng thức /ɪnˈdʒɔɪ/  
-19. even: thậm chí /ˈiːvn/  
-20. event: sự kiện /ɪˈvent/   
-21. at all times of the day: vào mọi thời điểm trong ngày /æt ɔːl taɪmz əv ðə deɪ/  
-22. are made from: được làm từ /ɑː meɪd frəm/  
-23. bone: (n) xương /bəʊn/  
-24. pot: (n) nồi, chậu /pɒt/  
-25. meat: thịt /miːt/  
-26. serve: (v) phục vụ, dọn /sɜːv/  
-27. really: thực sự /ˈrɪəli/  
-28. delicious: (adj) ngon /dɪˈlɪʃəs/  
-29. area: khu vực /ˈeəriə/  
-30. find \+ cái gì đó \+ tính từ: cảm thấy \<cái gì đó\> \<thế nào\>  
+1. **popular** : (adj) phổ biến, được nhiều người ưa thích /ˈpɒpjələ/
+2. **snack** : (n) đồ ăn nhẹ /snæk/
+3. **taste** : (n) vị, (v) nếm, cho ra vị /teɪst/
+4. **broth** : (n) nước hầm thịt /brɒθ/
+5. **stew** : (v) hầm /stjuː/
+6. **boneless** : (adj) không xương, rút xương /ˈbəʊnləs/
+7. **special** : (adj) đặc biệt /ˈspeʃl/
+8. **kind** : (n) loại /kaɪnd/
+9. **traditional** : (adj) truyền thống /trəˈdɪʃənl/
+10. **dish** : (n) món ăn /dɪʃ/
+11. **main** : (adj) chính /meɪn/
+12. **ingredient** : (n) nguyên liệu /ɪnˈgriːdiənt/
+13. **rice noodle** : mì gạo, bún, phở /raɪs ˈnuːdl/
+14. **slice** : (v) thái lát, (n) lát /slaɪs/
+15. **chicken** : (không đếm được) thịt gà /ˈtʃɪkɪn/
+16. **common** : (adj) phổ biến /ˈkɒmən/
+17. **one of the \+ danh từ số nhiều** : một trong những /wʌn əv ðə/
+18. **enjoy** : (v) thích, (v) thưởng thức /ɪnˈdʒɔɪ/
+19. **even** : thậm chí /ˈiːvn/
+20. **event** : sự kiện /ɪˈvent/
+21. **at all times of the day** : vào mọi thời điểm trong ngày /æt ɔːl taɪmz əv ðə deɪ/
+22. **are made from** : được làm từ /ɑː meɪd frəm/
+23. **bone** : (n) xương /bəʊn/
+24. **pot** : (n) nồi, chậu /pɒt/
+25. **meat** : thịt /miːt/
+26. **serve** : (v) phục vụ, dọn /sɜːv/
+27. **really** : thực sự /ˈrɪəli/
+28. **delicious** : (adj) ngon /dɪˈlɪʃəs/
+29. **area** : khu vực /ˈeəriə/
+30. **find \+ cái gì đó \+ tính từ** : cảm thấy \<cái gì đó\> \<thế nào\>
     I find him annoying: tôi cảm thấy anh ta phiền quá.   
 
 ---    

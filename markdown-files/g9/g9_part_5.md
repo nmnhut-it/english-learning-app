@@ -285,16 +285,16 @@ Your friend,
 
 **Bài 1 trang 68**
 
-1. vet: thú y → B   
-2. tend: có xu hướng → D  
-3. rapid: nhanh → A  
+1. **vet** : thú y → B
+2. **tend** : có xu hướng → D
+3. **rapid** : nhanh → A
 4. C   
    various: nhiều … khác nhau   
 5. D 
 
 **Bài 2 trang 68** 
 
-1. đứng trước danh từ: tính từ hoặc 1 danh từ khác   
+1. **đứng trước danh từ** : tính từ hoặc 1 danh từ khác
    điền **private**: (adj) mang tính riêng tư  
 2. sau can → động từ nguyên mẫu   
    memory (n) → memorise: (v) ghi nhớ  

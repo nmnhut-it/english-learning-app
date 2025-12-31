@@ -11,10 +11,10 @@
 ### Lý thuyết:
 
 Trong câu tiếng Anh, các từ mang nội dung chính (content words) thường được nhấn mạnh:
-- **Danh từ** (nouns): students, smartphones, video
-- **Động từ chính** (main verbs): bring, download, learn
-- **Tính từ** (adjectives): new, useful, online
-- **Trạng từ** (adverbs): anywhere, tomorrow
+1. **Danh từ** : (nouns) students, smartphones, video
+2. **Động từ chính** : (main verbs) bring, download, learn
+3. **Tính từ** : (adjectives) new, useful, online
+4. **Trạng từ** : (adverbs) anywhere, tomorrow
 
 Các từ chức năng (function words) thường không được nhấn:
 - Mạo từ: a, an, the
@@ -81,11 +81,11 @@ Các từ chức năng (function words) thường không được nhấn:
 
 #### Giải thích:
 
-- **blended** (adj): pha trộn, kết hợp
-- **connection** (n): sự kết nối
-- **traditional** (adj): truyền thống
-- **teamwork** (n): làm việc theo nhóm
-- **online** (adj): trực tuyến
+1. **blended** : (adj) pha trộn, kết hợp
+2. **connection** : (n) sự kết nối
+3. **traditional** : (adj) truyền thống
+4. **teamwork** : (n) làm việc theo nhóm
+5. **online** : (adj) trực tuyến
 
 #### Hướng dẫn dịch:
 
@@ -217,28 +217,28 @@ Các từ chức năng (function words) thường không được nhấn:
 
 ## Vocabulary (Từ vựng) - Unit 8
 
-1. online learning: (n.phr) học trực tuyến /ˌɒnˈlaɪn ˈlɜːnɪŋ/
-2. face-to-face learning: (n.phr) học trực tiếp /ˌfeɪs tə ˈfeɪs ˈlɜːnɪŋ/
-3. blended learning: (n.phr) học kết hợp /ˈblendɪd ˈlɜːnɪŋ/
-4. traditional: (adj) truyền thống /trəˈdɪʃənl/
-5. connection: (n) kết nối /kəˈnekʃn/
-6. teamwork: (n) làm việc nhóm /ˈtiːmwɜːk/
-7. upload: (v) tải lên /ˌʌpˈləʊd/
-8. download: (v) tải xuống /ˌdaʊnˈləʊd/
-9. install: (v) cài đặt /ɪnˈstɔːl/
-10. app: (n) ứng dụng /æp/
-11. prepare: (v) chuẩn bị /prɪˈpeə/
-12. strategy: (n) chiến lược /ˈstrætədʒi/
-13. advantage: (n) ưu điểm /ədˈvɑːntɪdʒ/
-14. disadvantage: (n) nhược điểm /ˌdɪsədˈvɑːntɪdʒ/
-15. distraction: (n) sự xao nhãng /dɪˈstrækʃn/
-16. focused: (adj) tập trung /ˈfəʊkəst/
-17. access: (n, v) truy cập /ˈækses/
-18. digital: (adj) kỹ thuật số /ˈdɪdʒɪtl/
-19. field trip: (n.phr) chuyến đi thực tế /fiːld trɪp/
-20. lifelong learning: (n.phr) học tập suốt đời /ˌlaɪflɒŋ ˈlɜːnɪŋ/
-21. smartphone: (n) điện thoại thông minh /ˈsmɑːtfəʊn/
-22. technology: (n) công nghệ /tekˈnɒlədʒi/
-23. presentation: (n) bài thuyết trình /ˌpreznˈteɪʃn/
-24. excellent: (adj) xuất sắc /ˈeksələnt/
-25. teenager: (n) thanh thiếu niên /ˈtiːneɪdʒə/
+1. **online learning** : (n.phr) học trực tuyến /ˌɒnˈlaɪn ˈlɜːnɪŋ/
+2. **face-to-face learning** : (n.phr) học trực tiếp /ˌfeɪs tə ˈfeɪs ˈlɜːnɪŋ/
+3. **blended learning** : (n.phr) học kết hợp /ˈblendɪd ˈlɜːnɪŋ/
+4. **traditional** : (adj) truyền thống /trəˈdɪʃənl/
+5. **connection** : (n) kết nối /kəˈnekʃn/
+6. **teamwork** : (n) làm việc nhóm /ˈtiːmwɜːk/
+7. **upload** : (v) tải lên /ˌʌpˈləʊd/
+8. **download** : (v) tải xuống /ˌdaʊnˈləʊd/
+9. **install** : (v) cài đặt /ɪnˈstɔːl/
+10. **app** : (n) ứng dụng /æp/
+11. **prepare** : (v) chuẩn bị /prɪˈpeə/
+12. **strategy** : (n) chiến lược /ˈstrætədʒi/
+13. **advantage** : (n) ưu điểm /ədˈvɑːntɪdʒ/
+14. **disadvantage** : (n) nhược điểm /ˌdɪsədˈvɑːntɪdʒ/
+15. **distraction** : (n) sự xao nhãng /dɪˈstrækʃn/
+16. **focused** : (adj) tập trung /ˈfəʊkəst/
+17. **access** : (n, v) truy cập /ˈækses/
+18. **digital** : (adj) kỹ thuật số /ˈdɪdʒɪtl/
+19. **field trip** : (n.phr) chuyến đi thực tế /fiːld trɪp/
+20. **lifelong learning** : (n.phr) học tập suốt đời /ˌlaɪflɒŋ ˈlɜːnɪŋ/
+21. **smartphone** : (n) điện thoại thông minh /ˈsmɑːtfəʊn/
+22. **technology** : (n) công nghệ /tekˈnɒlədʒi/
+23. **presentation** : (n) bài thuyết trình /ˌpreznˈteɪʃn/
+24. **excellent** : (adj) xuất sắc /ˈeksələnt/
+25. **teenager** : (n) thanh thiếu niên /ˈtiːneɪdʒə/

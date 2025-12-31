@@ -71,11 +71,11 @@ That was the first time I travelled without my parents, so I felt like I grew up
 
 **Vocabulary** 
 
-1. feel \- felt \- felt: cảm thấy   
-2. solve problem: giải quyết vấn đề   
-3. embarrassed: xấu hổ   
-4. various: nhiều và khác nhau   
-5. soft skills: kĩ năng mềm 
+1. **feel \- felt \- felt** : cảm thấy
+2. **solve problem** : giải quyết vấn đề
+3. **embarrassed** : xấu hổ
+4. **various** : nhiều và khác nhau
+5. **soft skills** : kĩ năng mềm
 
 | 1\. C | 2\. A | 3\. D | 4\. E | 5\. B |
 | :---- | :---- | :---- | :---- | :---- |

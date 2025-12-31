@@ -3,35 +3,35 @@
 **GETTING STARTED**   
 **Vocabulary:** 
 
-1. Facebook : (n) Facebook /ˈfeɪsˌbʊk/  
-2. forum : (n) diễn đàn /ˈfɔːrəm/  
-3. club : (n) câu lạc bộ /klʌb/  
-4. activity : (n) hoạt động /ækˈtɪvɪti/  
-5. prepare : (v) chuẩn bị /prɪˈpeə/  
-6. midterm : (n) giữa kỳ /ˈmɪdˌtɜːm/  
-7. test : (n) bài kiểm tra /tɛst/  
-8. stress : (n) căng thẳng /strɛs/  
-9. exam : (n) kỳ thi /ɪɡˈzæm/  
-10. calm : (adj) bình tĩnh /kɑːm/  
-11. pressure : (n) áp lực /ˈprɛʃə/  
-12. parent : (n) cha mẹ /ˈpeərənt/  
-13. problem : (n) vấn đề /ˈprɒbləm/  
-14. group : (n) nhóm /ɡruːp/  
-15. choose : (v) chọn /ʧuːz/  
-16. user-friendly : (adj) thân thiện với người dùng /ˈjuːzə ˈfrɛndli/  
-17. club activity : (n) hoạt động câu lạc bộ /klʌb ækˈtɪvɪti/  
-18. enjoyable : (adj) thú vị /ɪnˈʤɔɪəbl/  
-19. art : (n) nghệ thuật /ɑːt/  
-20. craft : (n) thủ công /krɑːft/  
-21. music : (n) âm nhạc /ˈmjuːzɪk/  
-22. leader : (n) người lãnh đạo /ˈliːdə/  
-23. provide : (v) cung cấp /prəˈvaɪd/  
-24. variety : (n) sự đa dạng /vəˈraɪəti/  
-25. interest : (n) sở thích /ˈɪntrɪst/  
-26. competition : (n) cuộc thi /ˌkɒmpɪˈtɪʃən/  
-27. usual : (adj) thông thường /ˈjuːʒʊəl/  
-28. awesome : (adj) tuyệt vời /ˈɔːsəm/  
-29. join : (v) tham gia /ʤɔɪn/
+1. **Facebook** : (n) Facebook /ˈfeɪsˌbʊk/
+2. **forum** : (n) diễn đàn /ˈfɔːrəm/
+3. **club** : (n) câu lạc bộ /klʌb/
+4. **activity** : (n) hoạt động /ækˈtɪvɪti/
+5. **prepare** : (v) chuẩn bị /prɪˈpeə/
+6. **midterm** : (n) giữa kỳ /ˈmɪdˌtɜːm/
+7. **test** : (n) bài kiểm tra /tɛst/
+8. **stress** : (n) căng thẳng /strɛs/
+9. **exam** : (n) kỳ thi /ɪɡˈzæm/
+10. **calm** : (adj) bình tĩnh /kɑːm/
+11. **pressure** : (n) áp lực /ˈprɛʃə/
+12. **parent** : (n) cha mẹ /ˈpeərənt/
+13. **problem** : (n) vấn đề /ˈprɒbləm/
+14. **group** : (n) nhóm /ɡruːp/
+15. **choose** : (v) chọn /ʧuːz/
+16. **user-friendly** : (adj) thân thiện với người dùng /ˈjuːzə ˈfrɛndli/
+17. **club activity** : (n) hoạt động câu lạc bộ /klʌb ækˈtɪvɪti/
+18. **enjoyable** : (adj) thú vị /ɪnˈʤɔɪəbl/
+19. **art** : (n) nghệ thuật /ɑːt/
+20. **craft** : (n) thủ công /krɑːft/
+21. **music** : (n) âm nhạc /ˈmjuːzɪk/
+22. **leader** : (n) người lãnh đạo /ˈliːdə/
+23. **provide** : (v) cung cấp /prəˈvaɪd/
+24. **variety** : (n) sự đa dạng /vəˈraɪəti/
+25. **interest** : (n) sở thích /ˈɪntrɪst/
+26. **competition** : (n) cuộc thi /ˌkɒmpɪˈtɪʃən/
+27. **usual** : (adj) thông thường /ˈjuːʒʊəl/
+28. **awesome** : (adj) tuyệt vời /ˈɔːsəm/
+29. **join** : (v) tham gia /ʤɔɪn/
 
 Giáo viên: Rất vui được gặp lại các em, cả lớp\! Chuyện gì đang xảy ra vậy?
 

@@ -4,18 +4,18 @@
 
 **Vocabulary** 
 
-1. conference: (n) hội nghị, cuộc họp /ˈkɒnfərəns/  
-2. sorry for interrupting: xin lỗi vì đã ngắt lời /ˈsɒri fər ˌɪntəˈrʌptɪŋ/  
-3. hold on: chờ một chút /həʊld ɒn/  
-4. repeat: (v) lặp lại, nhắc lại /rɪˈpiːt/  
-5. of all ages: thuộc mọi lứa tuổi /əv ɔːl ˈeɪdʒɪz/  
-6. emoji: (n) biểu tượng cảm xúc /ɪˈməʊdʒi/  
-7. emotion: (n) cảm xúc, xúc cảm /ɪˈməʊʃən/  
-8. regardless of: bất kể, không phụ thuộc vào /rɪˈɡɑːdləs əv/  
-9. smiley face: mặt cười /ˈsmaɪli feɪs/  
-10. express: (v) bày tỏ, diễn đạt, thể hiện /ɪkˈspres/  
-11. replace: (v) thay thế, thay đổi /rɪˈpleɪs/  
-12. to a certain extent: đến một mức độ nhất định /tə ə ˈsɜːtn ɪkˈstent/
+1. **conference** : (n) hội nghị, cuộc họp /ˈkɒnfərəns/
+2. **sorry for interrupting** : xin lỗi vì đã ngắt lời /ˈsɒri fər ˌɪntəˈrʌptɪŋ/
+3. **hold on** : chờ một chút /həʊld ɒn/
+4. **repeat** : (v) lặp lại, nhắc lại /rɪˈpiːt/
+5. **of all ages** : thuộc mọi lứa tuổi /əv ɔːl ˈeɪdʒɪz/
+6. **emoji** : (n) biểu tượng cảm xúc /ɪˈməʊdʒi/
+7. **emotion** : (n) cảm xúc, xúc cảm /ɪˈməʊʃən/
+8. **regardless of** : bất kể, không phụ thuộc vào /rɪˈɡɑːdləs əv/
+9. **smiley face** : mặt cười /ˈsmaɪli feɪs/
+10. **express** : (v) bày tỏ, diễn đạt, thể hiện /ɪkˈspres/
+11. **replace** : (v) thay thế, thay đổi /rɪˈpleɪs/
+12. **to a certain extent** : đến một mức độ nhất định /tə ə ˈsɜːtn ɪkˈstent/
 
 Mark: Bây giờ, về cuộc họp video... Mọi người phải có mặt lúc 9:30 sáng, và...
 

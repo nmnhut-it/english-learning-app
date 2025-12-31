@@ -5,14 +5,14 @@
 
 ### New words
 
-1. Mekong Delta: (n.phr) Đồng bằng sông Cửu Long /ˈmeɪkɒŋ ˈdeltə/
-2. floating market: (n.phr) chợ nổi /ˈfləʊtɪŋ ˈmɑːkɪt/
-3. weaving: (n) nghề dệt /ˈwiːvɪŋ/
-4. workshop: (n) xưởng, phân xưởng /ˈwɜːkʃɒp/
-5. host family: (n.phr) gia đình bản xứ /həʊst ˈfæməli/
-6. traditional food: (n.phr) món ăn truyền thống /trəˈdɪʃənl fuːd/
-7. craft market: (n.phr) chợ thủ công mỹ nghệ /krɑːft ˈmɑːkɪt/
-8. tour guide: (n.phr) hướng dẫn viên du lịch /tʊə ɡaɪd/
+1. **Mekong Delta** : (n.phr) Đồng bằng sông Cửu Long /ˈmeɪkɒŋ ˈdeltə/
+2. **floating market** : (n.phr) chợ nổi /ˈfləʊtɪŋ ˈmɑːkɪt/
+3. **weaving** : (n) nghề dệt /ˈwiːvɪŋ/
+4. **workshop** : (n) xưởng, phân xưởng /ˈwɜːkʃɒp/
+5. **host family** : (n.phr) gia đình bản xứ /həʊst ˈfæməli/
+6. **traditional food** : (n.phr) món ăn truyền thống /trəˈdɪʃənl fuːd/
+7. **craft market** : (n.phr) chợ thủ công mỹ nghệ /krɑːft ˈmɑːkɪt/
+8. **tour guide** : (n.phr) hướng dẫn viên du lịch /tʊə ɡaɪd/
 
 ---
 
@@ -165,28 +165,28 @@ Một phần khác mà tôi thích là tham quan **chợ nổi**. Đó là một
 
 ## Vocabulary (Từ vựng)
 
-1. Mekong Delta: (n.phr) Đồng bằng sông Cửu Long /ˈmeɪkɒŋ ˈdeltə/
-2. floating market: (n.phr) chợ nổi /ˈfləʊtɪŋ ˈmɑːkɪt/
-3. weaving: (n) nghề dệt /ˈwiːvɪŋ/
-4. workshop: (n) xưởng, phân xưởng /ˈwɜːkʃɒp/
-5. skill: (n) kỹ năng /skɪl/
-6. host family: (n.phr) gia đình bản xứ /həʊst ˈfæməli/
-7. traditional food: (n.phr) món ăn truyền thống /trəˈdɪʃənl fuːd/
-8. arts and crafts market: (n.phr) chợ thủ công mỹ nghệ /ɑːts ənd krɑːfts ˈmɑːkɪt/
-9. tour guide: (n.phr) hướng dẫn viên du lịch /tʊə ɡaɪd/
-10. eco-friendly: (adj) thân thiện với môi trường /ˌiːkəʊ ˈfrendli/
-11. local: (adj) địa phương /ˈləʊkl/
-12. souvenir: (n) quà lưu niệm /ˌsuːvəˈnɪə/
-13. daily life: (n.phr) cuộc sống hàng ngày /ˈdeɪli laɪf/
-14. experience: (v, n) trải nghiệm /ɪkˈspɪəriəns/
-15. discover: (v) khám phá /dɪˈskʌvə/
-16. amazing: (adj) tuyệt vời /əˈmeɪzɪŋ/
-17. remind: (v) nhắc nhở /rɪˈmaɪnd/
-18. reduce: (v) giảm /rɪˈdjuːs/
-19. impact: (n) tác động /ˈɪmpækt/
-20. rubbish: (n) rác /ˈrʌbɪʃ/
-21. paper bag: (n.phr) túi giấy /ˈpeɪpə bæɡ/
-22. bargain: (v) mặc cả /ˈbɑːɡɪn/
-23. colorful: (adj) nhiều màu sắc /ˈkʌləfl/
-24. unique: (adj) độc đáo /juːˈniːk/
-25. seller: (n) người bán hàng /ˈselə/
+1. **Mekong Delta** : (n.phr) Đồng bằng sông Cửu Long /ˈmeɪkɒŋ ˈdeltə/
+2. **floating market** : (n.phr) chợ nổi /ˈfləʊtɪŋ ˈmɑːkɪt/
+3. **weaving** : (n) nghề dệt /ˈwiːvɪŋ/
+4. **workshop** : (n) xưởng, phân xưởng /ˈwɜːkʃɒp/
+5. **skill** : (n) kỹ năng /skɪl/
+6. **host family** : (n.phr) gia đình bản xứ /həʊst ˈfæməli/
+7. **traditional food** : (n.phr) món ăn truyền thống /trəˈdɪʃənl fuːd/
+8. **arts and crafts market** : (n.phr) chợ thủ công mỹ nghệ /ɑːts ənd krɑːfts ˈmɑːkɪt/
+9. **tour guide** : (n.phr) hướng dẫn viên du lịch /tʊə ɡaɪd/
+10. **eco-friendly** : (adj) thân thiện với môi trường /ˌiːkəʊ ˈfrendli/
+11. **local** : (adj) địa phương /ˈləʊkl/
+12. **souvenir** : (n) quà lưu niệm /ˌsuːvəˈnɪə/
+13. **daily life** : (n.phr) cuộc sống hàng ngày /ˈdeɪli laɪf/
+14. **experience** : (v, n) trải nghiệm /ɪkˈspɪəriəns/
+15. **discover** : (v) khám phá /dɪˈskʌvə/
+16. **amazing** : (adj) tuyệt vời /əˈmeɪzɪŋ/
+17. **remind** : (v) nhắc nhở /rɪˈmaɪnd/
+18. **reduce** : (v) giảm /rɪˈdjuːs/
+19. **impact** : (n) tác động /ˈɪmpækt/
+20. **rubbish** : (n) rác /ˈrʌbɪʃ/
+21. **paper bag** : (n.phr) túi giấy /ˈpeɪpə bæɡ/
+22. **bargain** : (v) mặc cả /ˈbɑːɡɪn/
+23. **colorful** : (adj) nhiều màu sắc /ˈkʌləfl/
+24. **unique** : (adj) độc đáo /juːˈniːk/
+25. **seller** : (n) người bán hàng /ˈselə/

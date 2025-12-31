@@ -3,32 +3,32 @@
 ## GETTING STARTED - BẮT ĐẦU
 
 ### 📚 Vocabulary - Từ vựng
-- **look** : (v) trông có vẻ /lʊk/
-- **hear - heard - heard** : (v) nghe /hɪər/ - /hɜːd/ - /hɜːd/
-- **ethnic group** : (n) nhóm dân tộc /ˈeθnɪk ɡruːp/
-- **only** : (adv) chỉ /ˈəʊnli/
-- **bamboo** : (n) tre, trúc /bæmˈbuː/
-- **bamboo house** : (n) nhà tre /ˌbæmˈbuː haʊs/
-- **terraced fields** : (n) ruộng bậc thang /ˈterəst fiːldz/
-- **awesome** : (adj) tuyệt vời /ˈɔːsəm/
-- **culture** : (n) văn hóa /ˈkʌltʃər/
-- **own** : (adj) của riêng /əʊn/
-- **folk dance** : (n) múa dân gian/dân vũ /fəʊk dæns/
-- **musical instrument** : (n) nhạc cụ /ˈmjuːzɪkəl ˈɪnstrəmənt/
-- **dan tinh** : (n) đàn tính /dæn tɪn/
-- **five-colour sticky rice** : (n) xôi ngũ sắc /faɪv ˈkʌlər ˈstɪki raɪs/
-- **minority** : (n) thiểu số /maɪˈnɒrəti/
-- **minority group** : (n) nhóm thiểu số /maɪˈnɒrəti ɡruːp/
-- **multi-storey home** : (n) nhà nhiều tầng /ˌmʌlti ˈstɔːri həʊm/
-- **mention** : (v) đề cập /ˈmenʃən/
-- **costume** : (n) trang phục /ˈkɒstjuːm/
-- **stilt house** : (n) nhà sàn /stɪlt haʊs/
-- **post** : (n) cây cột /pəʊst/
-- **peaceful** : (adj) yên bình /ˈpiːsfəl/
-- **nature** : (n) thiên nhiên /ˈneɪtʃər/
-- **village** : (n) làng /ˈvɪlɪdʒ/
-- **overlook** : (v) nhìn ra /ˌəʊvəˈlʊk/
-- **traditional** : (adj) truyền thống /trəˈdɪʃənəl/
+1. **look** : (v) trông có vẻ /lʊk/
+2. **hear - heard - heard** : (v) nghe /hɪər/ - /hɜːd/ - /hɜːd/
+3. **ethnic group** : (n) nhóm dân tộc /ˈeθnɪk ɡruːp/
+4. **only** : (adv) chỉ /ˈəʊnli/
+5. **bamboo** : (n) tre, trúc /bæmˈbuː/
+6. **bamboo house** : (n) nhà tre /ˌbæmˈbuː haʊs/
+7. **terraced fields** : (n) ruộng bậc thang /ˈterəst fiːldz/
+8. **awesome** : (adj) tuyệt vời /ˈɔːsəm/
+9. **culture** : (n) văn hóa /ˈkʌltʃər/
+10. **own** : (adj) của riêng /əʊn/
+11. **folk dance** : (n) múa dân gian/dân vũ /fəʊk dæns/
+12. **musical instrument** : (n) nhạc cụ /ˈmjuːzɪkəl ˈɪnstrəmənt/
+13. **dan tinh** : (n) đàn tính /dæn tɪn/
+14. **five-colour sticky rice** : (n) xôi ngũ sắc /faɪv ˈkʌlər ˈstɪki raɪs/
+15. **minority** : (n) thiểu số /maɪˈnɒrəti/
+16. **minority group** : (n) nhóm thiểu số /maɪˈnɒrəti ɡruːp/
+17. **multi-storey home** : (n) nhà nhiều tầng /ˌmʌlti ˈstɔːri həʊm/
+18. **mention** : (v) đề cập /ˈmenʃən/
+19. **costume** : (n) trang phục /ˈkɒstjuːm/
+20. **stilt house** : (n) nhà sàn /stɪlt haʊs/
+21. **post** : (n) cây cột /pəʊst/
+22. **peaceful** : (adj) yên bình /ˈpiːsfəl/
+23. **nature** : (n) thiên nhiên /ˈneɪtʃər/
+24. **village** : (n) làng /ˈvɪlɪdʒ/
+25. **overlook** : (v) nhìn ra /ˌəʊvəˈlʊk/
+26. **traditional** : (adj) truyền thống /trəˈdɪʃənəl/
 
 ### 💬 Dialogue - Hội thoại
 **Tom:** Hi, I'm Tom. You look new here.  
@@ -104,7 +104,7 @@ overlooks | traditional | folk dance | ethnic groups | musical instrument
 
 1. I love mua sap, a popular _________ of the Thai people.
 2. Their beautiful stilt house _________ a large rice field.
-3. A: What is the name of a popular Tay's _________? - B: It's dan tinh.
+3. **A** : What is the name of a popular Tay's _________? - B: It's dan tinh.
 4. Every ethnic group has their own _________ culture.
 5. Of the 54 _________ in Viet Nam, the Kinh is the largest.
 
@@ -126,25 +126,25 @@ Nung | Hmong | Cham | Ede | Bahnar | Khmer
 ## A CLOSER LOOK 1 - TÌM HIỂU THÊM 1
 
 ### 📚 Vocabulary - Từ vựng
-- **wooden statue** : (n) tượng bằng gỗ /ˈwʊdən ˈstætʃuː/
-- **Rong house** : (n) nhà Rông /rɒŋ haʊs/
-- **weaving** : (n) việc dệt (vải) /ˈwiːvɪŋ/
-- **weave** : (v) dệt /wiːv/
-- **bamboo flute** : (n) sáo tre/trúc /ˌbæmˈbuː fluːt/
-- **gong** : (n) cồng, cồng chiêng /ɡɒŋ/
-- **terraced fields** : (n) ruộng bậc thang /ˈterəst fiːldz/
-- **livestock** : (n) vật nuôi /ˈlaɪvstɒk/
-- **cattle** : (n) gia súc /ˈkætl/
-- **poultry** : (n) gia cầm /ˈpəʊltri/
-- **communal house** : (n) nhà cộng đồng /ˈkɒmjənəl haʊs/
-- **weed** : (n, v) cỏ, nhổ cỏ /wiːd/
-- **unique** : (adj) độc đáo /juːˈniːk/
-- **feature** : (n) đặc điểm /ˈfiːtʃə/
-- **unique features** : (n) đặc điểm độc đáo /juːˈniːk ˈfiːtʃəz/
-- **raise** : (v) nuôi, chăn nuôi /reɪz/
-- **minority group** : (n) nhóm thiểu số /maɪˈnɒrəti ɡruːp/
-- **gardening** : (n) làm vườn /ˈɡɑːdnɪŋ/
-- **traditional** : (adj) truyền thống /trəˈdɪʃənəl/
+1. **wooden statue** : (n) tượng bằng gỗ /ˈwʊdən ˈstætʃuː/
+2. **Rong house** : (n) nhà Rông /rɒŋ haʊs/
+3. **weaving** : (n) việc dệt (vải) /ˈwiːvɪŋ/
+4. **weave** : (v) dệt /wiːv/
+5. **bamboo flute** : (n) sáo tre/trúc /ˌbæmˈbuː fluːt/
+6. **gong** : (n) cồng, cồng chiêng /ɡɒŋ/
+7. **terraced fields** : (n) ruộng bậc thang /ˈterəst fiːldz/
+8. **livestock** : (n) vật nuôi /ˈlaɪvstɒk/
+9. **cattle** : (n) gia súc /ˈkætl/
+10. **poultry** : (n) gia cầm /ˈpəʊltri/
+11. **communal house** : (n) nhà cộng đồng /ˈkɒmjənəl haʊs/
+12. **weed** : (n, v) cỏ, nhổ cỏ /wiːd/
+13. **unique** : (adj) độc đáo /juːˈniːk/
+14. **feature** : (n) đặc điểm /ˈfiːtʃə/
+15. **unique features** : (n) đặc điểm độc đáo /juːˈniːk ˈfiːtʃəz/
+16. **raise** : (v) nuôi, chăn nuôi /reɪz/
+17. **minority group** : (n) nhóm thiểu số /maɪˈnɒrəti ɡruːp/
+18. **gardening** : (n) làm vườn /ˈɡɑːdnɪŋ/
+19. **traditional** : (adj) truyền thống /trəˈdɪʃənəl/
 
 ### 🗣️ Pronunciation - Phát âm
 **Focus on /k/ and /g/ sounds**
@@ -262,27 +262,27 @@ I go to school. Do you go to school?
 **Bài 2 trang 43: Choose the correct question word for each question below.**
 (Chọn từ để hỏi đúng cho mỗi câu hỏi bên dưới.)
 
-1. A: _________ do you like best about Sa Pa?
+1. **A** : _________ do you like best about Sa Pa?
    B: I like its local markets best.
    A. Why
    B. What
 
-2. A: _________ can we find the most beautiful terraced fields?
+2. **A** : _________ can we find the most beautiful terraced fields?
    B: In Mu Cang Chai.
    A. When
    B. Where
 
-3. A: _________ is the Ban Flower Festival?
+3. **A** : _________ is the Ban Flower Festival?
    B: It's in spring.
    A. When
    B. Why
 
-4. A: _________ tall is an average stilt house?
+4. **A** : _________ tall is an average stilt house?
    B: About 5 - 6 metres tall.
    A. How
    B. What
 
-5. A: _________ festival is more important for the Kinh: the Mid-Autumn or the Lunar New Year?
+5. **A** : _________ festival is more important for the Kinh: the Mid-Autumn or the Lunar New Year?
    B: The Lunar New Year.
    A. What
    B. Which
@@ -318,26 +318,26 @@ Some minority (1) groups are farmers. They do not have much (2) land and they us
 ## COMMUNICATION - GIAO TIẾP
 
 ### 📚 Vocabulary - Từ vựng
-- **population** : (n) dân số /ˌpɒpjuˈleɪʃn/
-- **mainly** : (adv) chủ yếu /ˈmeɪnli/
-- **province** : (n) tỉnh /ˈprɒvɪns/
-- **language** : (n) ngôn ngữ /ˈlæŋɡwɪdʒ/
-- **life** : (n) cuộc sống /laɪf/
-- **make a living** : (v) kiếm sống /meɪk ə ˈlɪvɪŋ/
-- **grow crops** : (v) trồng trọt /ɡrəʊ krɒps/
-- **make pottery** : (v) làm gốm /meɪk ˈpɒtəri/
-- **festival** : (n) lễ hội /ˈfestɪvəl/
-- **the Kinh** : (n) người Kinh /ðə kɪŋ/
-- **the Tay** : (n) người Tày /ðə taɪ/
-- **the Hmong** : (n) người H'mông /ðə mɒŋ/
-- **the Jrai** : (n) người Gia Rai /ðə dʒəˈraɪ/
-- **the Khmer** : (n) người Khơ-me /ðə kmɛə/
-- **the Ede** : (n) người Ê-đê /ðə ˈeɪdeɪ/
-- **the Bahnar** : (n) người Ba-na /ðə bəˈnɑː/
-- **the Lao** : (n) người Lào /ðə laʊ/
-- **the Nung** : (n) người Nùng /ðə nʊŋ/
-- **the Cham** : (n) người Chăm /ðə tʃæm/
-- **the Coho** : (n) người Cơ-ho /ðə kəˈhəʊ/
+1. **population** : (n) dân số /ˌpɒpjuˈleɪʃn/
+2. **mainly** : (adv) chủ yếu /ˈmeɪnli/
+3. **province** : (n) tỉnh /ˈprɒvɪns/
+4. **language** : (n) ngôn ngữ /ˈlæŋɡwɪdʒ/
+5. **life** : (n) cuộc sống /laɪf/
+6. **make a living** : (v) kiếm sống /meɪk ə ˈlɪvɪŋ/
+7. **grow crops** : (v) trồng trọt /ɡrəʊ krɒps/
+8. **make pottery** : (v) làm gốm /meɪk ˈpɒtəri/
+9. **festival** : (n) lễ hội /ˈfestɪvəl/
+10. **the Kinh** : (n) người Kinh /ðə kɪŋ/
+11. **the Tay** : (n) người Tày /ðə taɪ/
+12. **the Hmong** : (n) người H'mông /ðə mɒŋ/
+13. **the Jrai** : (n) người Gia Rai /ðə dʒəˈraɪ/
+14. **the Khmer** : (n) người Khơ-me /ðə kmɛə/
+15. **the Ede** : (n) người Ê-đê /ðə ˈeɪdeɪ/
+16. **the Bahnar** : (n) người Ba-na /ðə bəˈnɑː/
+17. **the Lao** : (n) người Lào /ðə laʊ/
+18. **the Nung** : (n) người Nùng /ðə nʊŋ/
+19. **the Cham** : (n) người Chăm /ðə tʃæm/
+20. **the Coho** : (n) người Cơ-ho /ðə kəˈhəʊ/
 
 ### 🗣️ Asking and Giving Opinions - Hỏi và Đưa ra Ý kiến
 
@@ -400,37 +400,37 @@ Work with a partner and choose the best answers.
 ## SKILLS 1 - KỸ NĂNG 1
 
 ### 📚 Vocabulary - Từ vựng
-- **stilt house** : (n) nhà sàn /stɪlt haʊs/
-- **popular** : (adj) phổ biến /ˈpɒpjʊlə/
-- **different** : (adj) khác nhau /ˈdɪfərənt/
-- **highland** : (n) cao nguyên /ˈhaɪlənd/
-- **northern highlands** : (n) vùng cao phía Bắc /ˈnɔːðən ˈhaɪləndz/
-- **delta** : (n) đồng bằng /ˈdeltə/
-- **Mekong Delta** : (n) Đồng bằng sông Cửu Long /meˈkɒŋ ˈdeltə/
-- **size** : (n) kích cỡ /saɪz/
-- **style** : (n) kiểu dáng /staɪl/
-- **culture** : (n) văn hóa /ˈkʌltʃə/
-- **material** : (n) vật liệu /məˈtɪəriəl/
-- **natural** : (adj) tự nhiên /ˈnætʃrəl/
-- **wood** : (n) gỗ /wʊd/
-- **bamboo** : (n) tre, trúc /bæmˈbuː/
-- **leaves** : (n) lá cây /liːvz/
-- **post** : (n) cây cột /pəʊst/
-- **strong** : (adj) chắc chắn /strɒŋ/
-- **safe from** : (adj) an toàn khỏi /seɪf frɒm/
-- **wild animals** : (n) thú hoang dã /waɪld ˈænɪməlz/
-- **staircase** : (n) cầu thang /ˈsteəkeɪs/
-- **kitchen** : (n) nhà bếp /ˈkɪtʃɪn/
-- **open fire** : (n) bếp lửa /ˈəʊpən ˈfaɪə/
+1. **stilt house** : (n) nhà sàn /stɪlt haʊs/
+2. **popular** : (adj) phổ biến /ˈpɒpjʊlə/
+3. **different** : (adj) khác nhau /ˈdɪfərənt/
+4. **highland** : (n) cao nguyên /ˈhaɪlənd/
+5. **northern highlands** : (n) vùng cao phía Bắc /ˈnɔːðən ˈhaɪləndz/
+6. **delta** : (n) đồng bằng /ˈdeltə/
+7. **Mekong Delta** : (n) Đồng bằng sông Cửu Long /meˈkɒŋ ˈdeltə/
+8. **size** : (n) kích cỡ /saɪz/
+9. **style** : (n) kiểu dáng /staɪl/
+10. **culture** : (n) văn hóa /ˈkʌltʃə/
+11. **material** : (n) vật liệu /məˈtɪəriəl/
+12. **natural** : (adj) tự nhiên /ˈnætʃrəl/
+13. **wood** : (n) gỗ /wʊd/
+14. **bamboo** : (n) tre, trúc /bæmˈbuː/
+15. **leaves** : (n) lá cây /liːvz/
+16. **post** : (n) cây cột /pəʊst/
+17. **strong** : (adj) chắc chắn /strɒŋ/
+18. **safe from** : (adj) an toàn khỏi /seɪf frɒm/
+19. **wild animals** : (n) thú hoang dã /waɪld ˈænɪməlz/
+20. **staircase** : (n) cầu thang /ˈsteəkeɪs/
+21. **kitchen** : (n) nhà bếp /ˈkɪtʃɪn/
+22. **open fire** : (n) bếp lửa /ˈəʊpən ˈfaɪə/
 - **in the middle of** : ở giữa
-- **family gathering** : (n) đoàn tụ gia đình /ˈfæməli ˈɡæðərɪŋ/
-- **receive guests** : (v) tiếp khách /rɪˈsiːv ɡests/
-- **overlook** : (v) nhìn ra /ˌəʊvəˈlʊk/
-- **face** : (v) hướng về /feɪs/
-- **field** : (n) cánh đồng /fiːld/
-- **forest** : (n) rừng /ˈfɒrɪst/
-- **mountain** : (n) núi /ˈmaʊntɪn/
-- **heart** : (n) trung tâm, trái tim /hɑːt/
+23. **family gathering** : (n) đoàn tụ gia đình /ˈfæməli ˈɡæðərɪŋ/
+24. **receive guests** : (v) tiếp khách /rɪˈsiːv ɡests/
+25. **overlook** : (v) nhìn ra /ˌəʊvəˈlʊk/
+26. **face** : (v) hướng về /feɪs/
+27. **field** : (n) cánh đồng /fiːld/
+28. **forest** : (n) rừng /ˈfɒrɪst/
+29. **mountain** : (n) núi /ˈmaʊntɪn/
+30. **heart** : (n) trung tâm, trái tim /hɑːt/
 
 ### 📖 Reading - Đọc
 
@@ -494,31 +494,31 @@ I live in a detached house in the countryside. It is built out of brick and conc
 ## SKILLS 2 - KỸ NĂNG 2
 
 ### 📚 Vocabulary - Từ vựng
-- **ethnic minority children** : (n) trẻ em dân tộc thiểu số /ˈeθnɪk maɪˈnɒrəti ˈtʃɪldrən/
-- **help** : (v) giúp đỡ /help/
-- **inside** : (adv) bên trong /ˌɪnˈsaɪd/
-- **outside** : (adv) bên ngoài /ˌaʊtˈsaɪd/
+1. **ethnic minority children** : (n) trẻ em dân tộc thiểu số /ˈeθnɪk maɪˈnɒrəti ˈtʃɪldrən/
+2. **help** : (v) giúp đỡ /help/
+3. **inside** : (adv) bên trong /ˌɪnˈsaɪd/
+4. **outside** : (adv) bên ngoài /ˌaʊtˈsaɪd/
 - **from an early age** : từ khi còn nhỏ /frɒm ən ˈɜːli eɪdʒ/
-- **learn** : (v) học /lɜːn/
-- **work** : (v) làm việc /wɜːk/
-- **look after** : (v) chăm sóc /lʊk ˈɑːftə/
-- **care for** : (v) chăm sóc /keə fɔː/
-- **weave clothing** : (v) dệt quần áo /wiːv ˈkləʊðɪŋ/
-- **prepare food** : (v) chuẩn bị thức ăn /prɪˈpeə fuːd/
-- **grow crops** : (v) trồng trọt /ɡrəʊ krɒps/
-- **raise livestock** : (v) chăn nuôi gia súc /reɪz ˈlaɪvstɒk/
-- **catch fish** : (v) bắt cá /kætʃ fɪʃ/
-- **evening** : (n) buổi tối /ˈiːvnɪŋ/
-- **gather round** : (v) quây quần /ˈɡæðə raʊnd/
-- **story** : (n) câu chuyện /ˈstɔːri/
-- **legend** : (n) truyền thuyết /ˈledʒənd/
-- **hero** : (n) anh hùng /ˈhɪərəʊ/
-- **grandparents** : (n) ông bà /ˈɡrændpeərənts/
-- **nowadays** : (adv) ngày nay /ˈnaʊədeɪz/
-- **go to school** : (v) đi học /ɡəʊ tuː skuːl/
-- **meet** : (v) gặp /miːt/
-- **play games** : (v) chơi trò chơi /pleɪ ɡeɪmz/
-- **learn new things** : (v) học những điều mới /lɜːn njuː θɪŋz/
+5. **learn** : (v) học /lɜːn/
+6. **work** : (v) làm việc /wɜːk/
+7. **look after** : (v) chăm sóc /lʊk ˈɑːftə/
+8. **care for** : (v) chăm sóc /keə fɔː/
+9. **weave clothing** : (v) dệt quần áo /wiːv ˈkləʊðɪŋ/
+10. **prepare food** : (v) chuẩn bị thức ăn /prɪˈpeə fuːd/
+11. **grow crops** : (v) trồng trọt /ɡrəʊ krɒps/
+12. **raise livestock** : (v) chăn nuôi gia súc /reɪz ˈlaɪvstɒk/
+13. **catch fish** : (v) bắt cá /kætʃ fɪʃ/
+14. **evening** : (n) buổi tối /ˈiːvnɪŋ/
+15. **gather round** : (v) quây quần /ˈɡæðə raʊnd/
+16. **story** : (n) câu chuyện /ˈstɔːri/
+17. **legend** : (n) truyền thuyết /ˈledʒənd/
+18. **hero** : (n) anh hùng /ˈhɪərəʊ/
+19. **grandparents** : (n) ông bà /ˈɡrændpeərənts/
+20. **nowadays** : (adv) ngày nay /ˈnaʊədeɪz/
+21. **go to school** : (v) đi học /ɡəʊ tuː skuːl/
+22. **meet** : (v) gặp /miːt/
+23. **play games** : (v) chơi trò chơi /pleɪ ɡeɪmz/
+24. **learn new things** : (v) học những điều mới /lɜːn njuː θɪŋz/
 
 ### 👂 Listening - Nghe
 
@@ -573,34 +573,34 @@ I usually help my family do things. Firstly, I prepare food and sometimes help m
 ### 📚 Vocabulary Review - Ôn tập từ vựng
 
 **Complete vocabulary list for Unit 4:**
-- **ethnic group** : (n) dân tộc, nhóm dân tộc /ˈeθnɪk ɡruːp/
-- **minority** : (n) thiểu số /maɪˈnɒrəti/
-- **minority group** : (n) nhóm thiểu số /maɪˈnɒrəti ɡruːp/
-- **stilt house** : (n) nhà sàn /stɪlt haʊs/
-- **terraced fields** : (n) ruộng bậc thang /ˈterəst fiːldz/
-- **folk dance** : (n) múa dân gian /fəʊk dæns/
-- **musical instrument** : (n) nhạc cụ /ˈmjuːzɪkəl ˈɪnstrəmənt/
-- **communal house** : (n) nhà cộng đồng /ˈkɒmjənəl haʊs/
-- **Rong house** : (n) nhà Rông /rɒŋ haʊs/
-- **weaving** : (n) việc dệt vải /ˈwiːvɪŋ/
-- **weave** : (v) dệt /wiːv/
-- **gong** : (n) cồng chiêng /ɡɒŋ/
-- **bamboo flute** : (n) sáo trúc /ˌbæmˈbuː fluːt/
-- **wooden statue** : (n) tượng gỗ /ˈwʊdən ˈstætʃuː/
-- **livestock** : (n) vật nuôi /ˈlaɪvstɒk/
-- **cattle** : (n) gia súc /ˈkætl/
-- **poultry** : (n) gia cầm /ˈpəʊltri/
-- **raise** : (v) chăn nuôi /reɪz/
-- **traditional culture** : (n) văn hóa truyền thống /trəˈdɪʃənəl ˈkʌltʃə/
-- **costume** : (n) trang phục /ˈkɒstjuːm/
-- **open fire** : (n) bếp lửa /ˈəʊpən ˈfaɪə/
-- **sticky rice** : (n) gạo dính, nếp /ˈstɪki raɪs/
-- **folk songs** : (n) dân ca /fəʊk sɒŋz/
-- **staircase** : (n) cầu thang /ˈsteəkeɪs/
-- **fishing** : (n) đánh cá /ˈfɪʃɪŋ/
-- **unique features** : (n) đặc điểm độc đáo /juːˈniːk ˈfiːtʃəz/
-- **overlook** : (v) nhìn ra /ˌəʊvəˈlʊk/
-- **peaceful** : (adj) yên bình /ˈpiːsfəl/
+1. **ethnic group** : (n) dân tộc, nhóm dân tộc /ˈeθnɪk ɡruːp/
+2. **minority** : (n) thiểu số /maɪˈnɒrəti/
+3. **minority group** : (n) nhóm thiểu số /maɪˈnɒrəti ɡruːp/
+4. **stilt house** : (n) nhà sàn /stɪlt haʊs/
+5. **terraced fields** : (n) ruộng bậc thang /ˈterəst fiːldz/
+6. **folk dance** : (n) múa dân gian /fəʊk dæns/
+7. **musical instrument** : (n) nhạc cụ /ˈmjuːzɪkəl ˈɪnstrəmənt/
+8. **communal house** : (n) nhà cộng đồng /ˈkɒmjənəl haʊs/
+9. **Rong house** : (n) nhà Rông /rɒŋ haʊs/
+10. **weaving** : (n) việc dệt vải /ˈwiːvɪŋ/
+11. **weave** : (v) dệt /wiːv/
+12. **gong** : (n) cồng chiêng /ɡɒŋ/
+13. **bamboo flute** : (n) sáo trúc /ˌbæmˈbuː fluːt/
+14. **wooden statue** : (n) tượng gỗ /ˈwʊdən ˈstætʃuː/
+15. **livestock** : (n) vật nuôi /ˈlaɪvstɒk/
+16. **cattle** : (n) gia súc /ˈkætl/
+17. **poultry** : (n) gia cầm /ˈpəʊltri/
+18. **raise** : (v) chăn nuôi /reɪz/
+19. **traditional culture** : (n) văn hóa truyền thống /trəˈdɪʃənəl ˈkʌltʃə/
+20. **costume** : (n) trang phục /ˈkɒstjuːm/
+21. **open fire** : (n) bếp lửa /ˈəʊpən ˈfaɪə/
+22. **sticky rice** : (n) gạo dính, nếp /ˈstɪki raɪs/
+23. **folk songs** : (n) dân ca /fəʊk sɒŋz/
+24. **staircase** : (n) cầu thang /ˈsteəkeɪs/
+25. **fishing** : (n) đánh cá /ˈfɪʃɪŋ/
+26. **unique features** : (n) đặc điểm độc đáo /juːˈniːk ˈfiːtʃəz/
+27. **overlook** : (v) nhìn ra /ˌəʊvəˈlʊk/
+28. **peaceful** : (adj) yên bình /ˈpiːsfəl/
 
 ### ✍️ Exercises - Bài tập
 
@@ -622,7 +622,7 @@ musical instrument | sticky rice | communal house | folk songs | staircase
 2. The Kinh use _________ to make banh chung and banh tet.
 3. For most minority groups like the Bahnar and Ede, the _________, usually known as Rong house, is the heart of the village.
 4. My grandmother taught me to sing many _________.
-5. The _________ of a Muong's stilt house has an odd number of steps: 5, 7, or 9.
+5. **The _________ of a Muong's stilt house has an odd number of steps** : 5, 7, or 9.
 
 **Answers:** 
 1. musical instruments (nhạc cụ)
@@ -658,7 +658,7 @@ musical instrument | sticky rice | communal house | folk songs | staircase
 
 **Answers:**
 1. stands có s → houses bỏ s
-2. leaf: lá cây, số nhiều là leaves → thêm s thành leaves
+2. **leaf** : lá cây, số nhiều là leaves → thêm s thành leaves
 3. people đếm được → much đổi thành many
 4. ✓ (correct)
 5. tradition là danh từ, cần tính từ → traditional

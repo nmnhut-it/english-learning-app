@@ -5,17 +5,17 @@
 
 ### New words
 
-1. install: (v) cài đặt /ɪnˈstɔːl/
-2. app: (n) ứng dụng (application) /æp/
-3. App Store: (n) Cửa hàng ứng dụng /æp stɔː/
-4. search box: (n.phr) ô tìm kiếm /sɜːtʃ bɒks/
-5. search button: (n.phr) nút tìm kiếm /sɜːtʃ ˈbʌtn/
-6. search results: (n.phr) kết quả tìm kiếm /sɜːtʃ rɪˈzʌlts/
-7. icon: (n) biểu tượng /ˈaɪkɒn/
-8. download: (v) tải xuống /ˌdaʊnˈləʊd/
-9. complete: (adj, v) hoàn thành /kəmˈpliːt/
-10. smartphone: (n) điện thoại thông minh /ˈsmɑːtfəʊn/
-11. screen: (n) màn hình /skriːn/
+1. **install** : (v) cài đặt /ɪnˈstɔːl/
+2. **app** : (n) ứng dụng (application) /æp/
+3. **App Store** : (n) Cửa hàng ứng dụng /æp stɔː/
+4. **search box** : (n.phr) ô tìm kiếm /sɜːtʃ bɒks/
+5. **search button** : (n.phr) nút tìm kiếm /sɜːtʃ ˈbʌtn/
+6. **search results** : (n.phr) kết quả tìm kiếm /sɜːtʃ rɪˈzʌlts/
+7. **icon** : (n) biểu tượng /ˈaɪkɒn/
+8. **download** : (v) tải xuống /ˌdaʊnˈləʊd/
+9. **complete** : (adj, v) hoàn thành /kəmˈpliːt/
+10. **smartphone** : (n) điện thoại thông minh /ˈsmɑːtfəʊn/
+11. **screen** : (n) màn hình /skriːn/
 
 ---
 
@@ -90,24 +90,24 @@
 
 ### New words
 
-1. modern: (adj) hiện đại /ˈmɒdn/
-2. design: (v) thiết kế /dɪˈzaɪn/
-3. lifelong learning: (n.phr) học tập suốt đời /ˌlaɪflɒŋ ˈlɜːnɪŋ/
-4. responsible: (adj) có trách nhiệm /rɪˈspɒnsəbl/
-5. confident: (adj) tự tin /ˈkɒnfɪdənt/
-6. individual: (n) cá nhân /ˌɪndɪˈvɪdʒuəl/
-7. feature: (n) đặc điểm /ˈfiːtʃə/
-8. express: (v) bày tỏ /ɪkˈspres/
-9. digital learning resources: (n.phr) tài nguyên học tập số /ˈdɪdʒɪtl ˈlɜːnɪŋ rɪˈsɔːsɪz/
-10. audio-visual materials: (n.phr) tài liệu nghe nhìn /ˌɔːdiəʊ ˈvɪʒuəl məˈtɪəriəlz/
-11. field trip: (n.phr) chuyến đi thực tế /fiːld trɪp/
-12. landmark: (n) địa danh /ˈlændmɑːk/
-13. real-world experiences: (n.phr) trải nghiệm thực tế /ˌrɪəl wɜːld ɪkˈspɪəriənsɪz/
-14. school camp: (n.phr) trại trường /skuːl kæmp/
-15. unfamiliar: (adj) xa lạ /ˌʌnfəˈmɪliə/
-16. encourage: (v) khuyến khích /ɪnˈkʌrɪdʒ/
-17. challenge: (v, n) thử thách /ˈtʃælɪndʒ/
-18. participate in: (v.phr) tham gia vào /pɑːˈtɪsɪpeɪt ɪn/
+1. **modern** : (adj) hiện đại /ˈmɒdn/
+2. **design** : (v) thiết kế /dɪˈzaɪn/
+3. **lifelong learning** : (n.phr) học tập suốt đời /ˌlaɪflɒŋ ˈlɜːnɪŋ/
+4. **responsible** : (adj) có trách nhiệm /rɪˈspɒnsəbl/
+5. **confident** : (adj) tự tin /ˈkɒnfɪdənt/
+6. **individual** : (n) cá nhân /ˌɪndɪˈvɪdʒuəl/
+7. **feature** : (n) đặc điểm /ˈfiːtʃə/
+8. **express** : (v) bày tỏ /ɪkˈspres/
+9. **digital learning resources** : (n.phr) tài nguyên học tập số /ˈdɪdʒɪtl ˈlɜːnɪŋ rɪˈsɔːsɪz/
+10. **audio-visual materials** : (n.phr) tài liệu nghe nhìn /ˌɔːdiəʊ ˈvɪʒuəl məˈtɪəriəlz/
+11. **field trip** : (n.phr) chuyến đi thực tế /fiːld trɪp/
+12. **landmark** : (n) địa danh /ˈlændmɑːk/
+13. **real-world experiences** : (n.phr) trải nghiệm thực tế /ˌrɪəl wɜːld ɪkˈspɪəriənsɪz/
+14. **school camp** : (n.phr) trại trường /skuːl kæmp/
+15. **unfamiliar** : (adj) xa lạ /ˌʌnfəˈmɪliə/
+16. **encourage** : (v) khuyến khích /ɪnˈkʌrɪdʒ/
+17. **challenge** : (v, n) thử thách /ˈtʃælɪndʒ/
+18. **participate in** : (v.phr) tham gia vào /pɑːˈtɪsɪpeɪt ɪn/
 
 ---
 
@@ -190,28 +190,28 @@ Theo tôi, trường học của chúng ta là một trường học hiện đ�
 
 ## Vocabulary (Từ vựng)
 
-1. install: (v) cài đặt /ɪnˈstɔːl/
-2. app: (n) ứng dụng /æp/
-3. search box: (n.phr) ô tìm kiếm /sɜːtʃ bɒks/
-4. icon: (n) biểu tượng /ˈaɪkɒn/
-5. download: (v) tải xuống /ˌdaʊnˈləʊd/
-6. smartphone: (n) điện thoại thông minh /ˈsmɑːtfəʊn/
-7. screen: (n) màn hình /skriːn/
-8. complete: (adj, v) hoàn thành /kəmˈpliːt/
-9. modern: (adj) hiện đại /ˈmɒdn/
-10. design: (v, n) thiết kế /dɪˈzaɪn/
-11. lifelong learning: (n.phr) học tập suốt đời /ˌlaɪflɒŋ ˈlɜːnɪŋ/
-12. responsible: (adj) có trách nhiệm /rɪˈspɒnsəbl/
-13. confident: (adj) tự tin /ˈkɒnfɪdənt/
-14. individual: (n) cá nhân /ˌɪndɪˈvɪdʒuəl/
-15. feature: (n) đặc điểm /ˈfiːtʃə/
-16. express: (v) bày tỏ /ɪkˈspres/
-17. digital learning resources: (n.phr) tài nguyên học tập số /ˈdɪdʒɪtl ˈlɜːnɪŋ rɪˈsɔːsɪz/
-18. field trip: (n.phr) chuyến đi thực tế /fiːld trɪp/
-19. landmark: (n) địa danh /ˈlændmɑːk/
-20. school camp: (n.phr) trại trường /skuːl kæmp/
-21. encourage: (v) khuyến khích /ɪnˈkʌrɪdʒ/
-22. challenge: (v, n) thử thách /ˈtʃælɪndʒ/
-23. successful: (adj) thành công /səkˈsesfl/
-24. guide: (n, v) người hướng dẫn, dẫn dắt /ɡaɪd/
-25. projector: (n) máy chiếu /prəˈdʒektə/
+1. **install** : (v) cài đặt /ɪnˈstɔːl/
+2. **app** : (n) ứng dụng /æp/
+3. **search box** : (n.phr) ô tìm kiếm /sɜːtʃ bɒks/
+4. **icon** : (n) biểu tượng /ˈaɪkɒn/
+5. **download** : (v) tải xuống /ˌdaʊnˈləʊd/
+6. **smartphone** : (n) điện thoại thông minh /ˈsmɑːtfəʊn/
+7. **screen** : (n) màn hình /skriːn/
+8. **complete** : (adj, v) hoàn thành /kəmˈpliːt/
+9. **modern** : (adj) hiện đại /ˈmɒdn/
+10. **design** : (v, n) thiết kế /dɪˈzaɪn/
+11. **lifelong learning** : (n.phr) học tập suốt đời /ˌlaɪflɒŋ ˈlɜːnɪŋ/
+12. **responsible** : (adj) có trách nhiệm /rɪˈspɒnsəbl/
+13. **confident** : (adj) tự tin /ˈkɒnfɪdənt/
+14. **individual** : (n) cá nhân /ˌɪndɪˈvɪdʒuəl/
+15. **feature** : (n) đặc điểm /ˈfiːtʃə/
+16. **express** : (v) bày tỏ /ɪkˈspres/
+17. **digital learning resources** : (n.phr) tài nguyên học tập số /ˈdɪdʒɪtl ˈlɜːnɪŋ rɪˈsɔːsɪz/
+18. **field trip** : (n.phr) chuyến đi thực tế /fiːld trɪp/
+19. **landmark** : (n) địa danh /ˈlændmɑːk/
+20. **school camp** : (n.phr) trại trường /skuːl kæmp/
+21. **encourage** : (v) khuyến khích /ɪnˈkʌrɪdʒ/
+22. **challenge** : (v, n) thử thách /ˈtʃælɪndʒ/
+23. **successful** : (adj) thành công /səkˈsesfl/
+24. **guide** : (n, v) người hướng dẫn, dẫn dắt /ɡaɪd/
+25. **projector** : (n) máy chiếu /prəˈdʒektə/

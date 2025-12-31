@@ -3,35 +3,35 @@ UNIT 3: TEENAGERS**
 **GETTING STARTED**   
 **Vocabulary:** 
 
-1. Facebook : (n) Facebook /ˈfeɪsˌbʊk/  
-2. forum : (n) diễn đàn /ˈfɔːrəm/  
-3. club : (n) câu lạc bộ /klʌb/  
-4. activity : (n) hoạt động /ækˈtɪvɪti/  
-5. prepare : (v) chuẩn bị /prɪˈpeə/  
-6. midterm : (n) giữa kỳ /ˈmɪdˌtɜːm/  
-7. test : (n) bài kiểm tra /tɛst/  
-8. stress : (n) căng thẳng /strɛs/  
-9. exam : (n) kỳ thi /ɪɡˈzæm/  
-10. calm : (adj) bình tĩnh /kɑːm/  
-11. pressure : (n) áp lực /ˈprɛʃə/  
-12. parent : (n) cha mẹ /ˈpeərənt/  
-13. problem : (n) vấn đề /ˈprɒbləm/  
-14. group : (n) nhóm /ɡruːp/  
-15. choose : (v) chọn /ʧuːz/  
-16. user-friendly : (adj) thân thiện với người dùng /ˈjuːzə ˈfrɛndli/  
-17. club activity : (n) hoạt động câu lạc bộ /klʌb ækˈtɪvɪti/  
-18. enjoyable : (adj) thú vị /ɪnˈʤɔɪəbl/  
-19. art : (n) nghệ thuật /ɑːt/  
-20. craft : (n) thủ công /krɑːft/  
-21. music : (n) âm nhạc /ˈmjuːzɪk/  
-22. leader : (n) người lãnh đạo /ˈliːdə/  
-23. provide : (v) cung cấp /prəˈvaɪd/  
-24. variety : (n) sự đa dạng /vəˈraɪəti/  
-25. interest : (n) sở thích /ˈɪntrɪst/  
-26. competition : (n) cuộc thi /ˌkɒmpɪˈtɪʃən/  
-27. usual : (adj) thông thường /ˈjuːʒʊəl/  
-28. awesome : (adj) tuyệt vời /ˈɔːsəm/  
-29. join : (v) tham gia /ʤɔɪn/
+1. **Facebook** : (n) Facebook /ˈfeɪsˌbʊk/
+2. **forum** : (n) diễn đàn /ˈfɔːrəm/
+3. **club** : (n) câu lạc bộ /klʌb/
+4. **activity** : (n) hoạt động /ækˈtɪvɪti/
+5. **prepare** : (v) chuẩn bị /prɪˈpeə/
+6. **midterm** : (n) giữa kỳ /ˈmɪdˌtɜːm/
+7. **test** : (n) bài kiểm tra /tɛst/
+8. **stress** : (n) căng thẳng /strɛs/
+9. **exam** : (n) kỳ thi /ɪɡˈzæm/
+10. **calm** : (adj) bình tĩnh /kɑːm/
+11. **pressure** : (n) áp lực /ˈprɛʃə/
+12. **parent** : (n) cha mẹ /ˈpeərənt/
+13. **problem** : (n) vấn đề /ˈprɒbləm/
+14. **group** : (n) nhóm /ɡruːp/
+15. **choose** : (v) chọn /ʧuːz/
+16. **user-friendly** : (adj) thân thiện với người dùng /ˈjuːzə ˈfrɛndli/
+17. **club activity** : (n) hoạt động câu lạc bộ /klʌb ækˈtɪvɪti/
+18. **enjoyable** : (adj) thú vị /ɪnˈʤɔɪəbl/
+19. **art** : (n) nghệ thuật /ɑːt/
+20. **craft** : (n) thủ công /krɑːft/
+21. **music** : (n) âm nhạc /ˈmjuːzɪk/
+22. **leader** : (n) người lãnh đạo /ˈliːdə/
+23. **provide** : (v) cung cấp /prəˈvaɪd/
+24. **variety** : (n) sự đa dạng /vəˈraɪəti/
+25. **interest** : (n) sở thích /ˈɪntrɪst/
+26. **competition** : (n) cuộc thi /ˌkɒmpɪˈtɪʃən/
+27. **usual** : (adj) thông thường /ˈjuːʒʊəl/
+28. **awesome** : (adj) tuyệt vời /ˈɔːsəm/
+29. **join** : (v) tham gia /ʤɔɪn/
 
 Giáo viên: Rất vui được gặp lại các em, cả lớp\! Chuyện gì đang xảy ra vậy?
 
@@ -100,27 +100,27 @@ Giáo viên: Tuyệt vời\! Cô hy vọng tất cả các em có thể tham gia
 
 **Vocabulary** 
 
-1. upload : (v) tải lên /ˈʌpləʊd/  
-2. browse : (v) duyệt qua /braʊz/  
-3. check : (v) kiểm tra /ʧɛk/  
-4. log on : (v) đăng nhập /lɒɡ ɒn/  
-5. connect : (v) kết nối /kəˈnɛkt/  
-6. website : (n) trang web /ˈwɛbˌsaɪt/  
-7. picture : (n) hình ảnh /ˈpɪkʧə/  
-8. notification : (n) thông báo /ˌnəʊtɪfɪˈkeɪʃən/  
-9. account : (n) tài khoản /əˈkaʊnt/  
-10. forum : (n) diễn đàn /ˈfɔːrəm/  
-11. expectation : (n) sự mong đợi /ˌɛkspɛkˈteɪʃən/  
-12. bully : (n) kẻ bắt nạt /ˈbʊli/  
-13. concentrate : (v) tập trung /ˈkɒnsəntreɪt/  
-14. advise : (v) khuyên bảo /ədˈvaɪz/  
-15. pressure : (n) áp lực /ˈprɛʃə/  
-16. tourist : (n) du khách /ˈtʊərɪst/  
-17. ensure : (v) đảm bảo /ɪnˈʃʊə/  
-18. tournament : (n) giải đấu /ˈtʊənəmənt/  
-19. curious : (adj) tò mò /ˈkjʊərɪəs/  
-20. mature : (adj) trưởng thành /məˈtjʊə/  
-21. interview : (n) phỏng vấn /ˈɪntəvjuː/ ​
+1. **upload** : (v) tải lên /ˈʌpləʊd/
+2. **browse** : (v) duyệt qua /braʊz/
+3. **check** : (v) kiểm tra /ʧɛk/
+4. **log on** : (v) đăng nhập /lɒɡ ɒn/
+5. **connect** : (v) kết nối /kəˈnɛkt/
+6. **website** : (n) trang web /ˈwɛbˌsaɪt/
+7. **picture** : (n) hình ảnh /ˈpɪkʧə/
+8. **notification** : (n) thông báo /ˌnəʊtɪfɪˈkeɪʃən/
+9. **account** : (n) tài khoản /əˈkaʊnt/
+10. **forum** : (n) diễn đàn /ˈfɔːrəm/
+11. **expectation** : (n) sự mong đợi /ˌɛkspɛkˈteɪʃən/
+12. **bully** : (n) kẻ bắt nạt /ˈbʊli/
+13. **concentrate** : (v) tập trung /ˈkɒnsəntreɪt/
+14. **advise** : (v) khuyên bảo /ədˈvaɪz/
+15. **pressure** : (n) áp lực /ˈprɛʃə/
+16. **tourist** : (n) du khách /ˈtʊərɪst/
+17. **ensure** : (v) đảm bảo /ɪnˈʃʊə/
+18. **tournament** : (n) giải đấu /ˈtʊənəmənt/
+19. **curious** : (adj) tò mò /ˈkjʊərɪəs/
+20. **mature** : (adj) trưởng thành /məˈtjʊə/
+21. **interview** : (n) phỏng vấn /ˈɪntəvjuː/ ​
 
 **Bài 1 trang 30**
 
@@ -181,21 +181,21 @@ Câu ghép là câu có hai vế câu trở lên
 
 **Vocabulary**:
 
-1. project: (n) dự án /ˈprɒdʒɛkt/  
-2. tolerant: (adj) khoan dung /ˈtɒlərənt/  
-3. communication: (n) giao tiếp /kəˌmjuːnɪˈkeɪʃən/  
-4. active: (adj) năng động /ˈæktɪv/  
-5. talkative: (adj) nói nhiều /ˈtɔːkətɪv/  
-6. chat: (v) tán gẫu /tʃæt/  
-7. smart: (adj) thông minh /smɑːt/  
-8. member: (n) thành viên /ˈmɛmbə/  
-9. competition: (n) cuộc thi /ˌkɒmpɪˈtɪʃən/  
-10. participate: (v) tham gia /pɑːˈtɪsɪpeɪt/  
-11. freedom: (n) sự tự do /ˈfriːdəm/  
-12. limit: (n) giới hạn /ˈlɪmɪt/  
-13. cheat: (v) gian lận /tʃiːt/  
-14. pressure: (n) áp lực /ˈprɛʃə/  
-15. prepare: (v) chuẩn bị /prɪˈpeə/
+1. **project** : (n) dự án /ˈprɒdʒɛkt/
+2. **tolerant** : (adj) khoan dung /ˈtɒlərənt/
+3. **communication** : (n) giao tiếp /kəˌmjuːnɪˈkeɪʃən/
+4. **active** : (adj) năng động /ˈæktɪv/
+5. **talkative** : (adj) nói nhiều /ˈtɔːkətɪv/
+6. **chat** : (v) tán gẫu /tʃæt/
+7. **smart** : (adj) thông minh /smɑːt/
+8. **member** : (n) thành viên /ˈmɛmbə/
+9. **competition** : (n) cuộc thi /ˌkɒmpɪˈtɪʃən/
+10. **participate** : (v) tham gia /pɑːˈtɪsɪpeɪt/
+11. **freedom** : (n) sự tự do /ˈfriːdəm/
+12. **limit** : (n) giới hạn /ˈlɪmɪt/
+13. **cheat** : (v) gian lận /tʃiːt/
+14. **pressure** : (n) áp lực /ˈprɛʃə/
+15. **prepare** : (v) chuẩn bị /prɪˈpeə/
 
 **Bài 1 trang 31**
 
@@ -270,8 +270,8 @@ Therefore \= vì vậy
 
 **Vocabulary** 
 
-1. discuss: (v) thảo luận /dɪˈskʌs/  
-2. notification: (n) thông báo /ˌnəʊtɪfɪˈkeɪʃn/
+1. **discuss** : (v) thảo luận /dɪˈskʌs/
+2. **notification** : (n) thông báo /ˌnəʊtɪfɪˈkeɪʃn/
 
 ANN: Tôi nghĩ YouTube là trang mạng xã hội phổ biến nhất. Tôi đăng nhập vào nó hàng ngày. Tôi tải video lên và xem video của người khác.  
 TOM: Tôi sử dụng Facebook để kết nối với bạn bè, đăng ảnh và chia sẻ bài đăng của người khác. Tôi sử dụng nó hàng ngày. Nó thân thiện với người dùng.  
@@ -293,27 +293,27 @@ NAM: Tôi có một trang Facebook. Tôi không thường xuyên cập nhật n�
 **Reading**  
 **Vocabulary**
 
-1. interested: (adj) quan tâm /ˈɪntrɪstɪd/  
-2. club: (n) câu lạc bộ /klʌb/  
-3. badminton: (n) cầu lông /ˈbædmɪntən/  
-4. chess: (n) cờ vua /tʃɛs/  
-5. relaxing: (adj) thư giãn /rɪˈlæksɪŋ/  
-6. fit: (adj) khỏe mạnh /fɪt/  
-7. beforehand: (adv) trước đó /bɪˈfɔːhænd/  
-8. concentrate: (v) tập trung /ˈkɒnsəntreɪt/  
-9. focused: (adj) tập trung /ˈfəʊkəst/  
-10. enough: (adj) đủ /ɪˈnʌf/  
-11. actually: (adv) thực ra /ˈæktʃuəli/  
-12. arts and crafts: (n) nghệ thuật và thủ công /ɑːts ənd krɑːfts/  
-13. member: (n) thành viên /ˈmɛmbə/  
-14. community: (n) cộng đồng /kəˈmjuːnɪti/  
-15. service: (n) dịch vụ /ˈsɜːvɪs/  
-16. practical: (adj) thực tế /ˈpræktɪkəl/  
-17. teamwork: (n) làm việc nhóm /ˈtiːmwɜːk/  
-18. awesome: (adj) tuyệt vời /ˈɔːsəm/  
-19. coach: (v) huấn luyện /kəʊtʃ/  
-20. art: (n) nghệ thuật /ɑːt/  
-21. connect: (v) kết nối /kəˈnɛkt/
+1. **interested** : (adj) quan tâm /ˈɪntrɪstɪd/
+2. **club** : (n) câu lạc bộ /klʌb/
+3. **badminton** : (n) cầu lông /ˈbædmɪntən/
+4. **chess** : (n) cờ vua /tʃɛs/
+5. **relaxing** : (adj) thư giãn /rɪˈlæksɪŋ/
+6. **fit** : (adj) khỏe mạnh /fɪt/
+7. **beforehand** : (adv) trước đó /bɪˈfɔːhænd/
+8. **concentrate** : (v) tập trung /ˈkɒnsəntreɪt/
+9. **focused** : (adj) tập trung /ˈfəʊkəst/
+10. **enough** : (adj) đủ /ɪˈnʌf/
+11. **actually** : (adv) thực ra /ˈæktʃuəli/
+12. **arts and crafts** : (n) nghệ thuật và thủ công /ɑːts ənd krɑːfts/
+13. **member** : (n) thành viên /ˈmɛmbə/
+14. **community** : (n) cộng đồng /kəˈmjuːnɪti/
+15. **service** : (n) dịch vụ /ˈsɜːvɪs/
+16. **practical** : (adj) thực tế /ˈpræktɪkəl/
+17. **teamwork** : (n) làm việc nhóm /ˈtiːmwɜːk/
+18. **awesome** : (adj) tuyệt vời /ˈɔːsəm/
+19. **coach** : (v) huấn luyện /kəʊtʃ/
+20. **art** : (n) nghệ thuật /ɑːt/
+21. **connect** : (v) kết nối /kəˈnɛkt/
 
 Mai: Tom, vậy bạn muốn tham gia câu lạc bộ nào?
 
@@ -402,28 +402,28 @@ B: The benefits are doing art and relaxing.
 
 **Vocabulary**
 
-1. stress: (n) căng thẳng /strɛs/  
-2. discuss: (v) thảo luận /dɪˈskʌs/  
-3. forum: (n) diễn đàn /ˈfɔːrəm/  
-4. tired: (adj) mệt mỏi /ˈtaɪəd/  
-5. trying: (v) cố gắng /ˈtraɪɪŋ/  
-6. meet: (v) đáp ứng /miːt/  
-7. expectations: (n) kỳ vọng /ˌɛkspɛkˈteɪʃənz/  
-8. study: (v) học /ˈstʌdi/  
-9. piano: (n) đàn piano /piˈænəʊ/  
-10. karate: (n) võ karate /kəˈrɑːti/  
-11. interests: (n) sở thích /ˈɪntrɪsts/  
-12. abilities: (n) khả năng /əˈbɪlɪtiz/  
-13. focus: (v) tập trung /ˈfəʊkəs/  
-14. health: (n) sức khỏe /hɛlθ/  
-15. lose: (v) giảm /luːz/  
-16. weight: (n) cân nặng /weɪt/  
-17. fit: (adj) cân đối /fɪt/  
-18. body: (n) cơ thể /ˈbɒdi/  
-19. kidding: (v) đùa /ˈkɪdɪŋ/  
-20. kilos: (n) cân /ˈkiːləʊz/  
-21. jealous: (adj) ghen tỵ /ˈdʒɛləs/  
-22. arguments: (n) tranh cãi /ˈɑːɡjʊmənts/
+1. **stress** : (n) căng thẳng /strɛs/
+2. **discuss** : (v) thảo luận /dɪˈskʌs/
+3. **forum** : (n) diễn đàn /ˈfɔːrəm/
+4. **tired** : (adj) mệt mỏi /ˈtaɪəd/
+5. **trying** : (v) cố gắng /ˈtraɪɪŋ/
+6. **meet** : (v) đáp ứng /miːt/
+7. **expectations** : (n) kỳ vọng /ˌɛkspɛkˈteɪʃənz/
+8. **study** : (v) học /ˈstʌdi/
+9. **piano** : (n) đàn piano /piˈænəʊ/
+10. **karate** : (n) võ karate /kəˈrɑːti/
+11. **interests** : (n) sở thích /ˈɪntrɪsts/
+12. **abilities** : (n) khả năng /əˈbɪlɪtiz/
+13. **focus** : (v) tập trung /ˈfəʊkəs/
+14. **health** : (n) sức khỏe /hɛlθ/
+15. **lose** : (v) giảm /luːz/
+16. **weight** : (n) cân nặng /weɪt/
+17. **fit** : (adj) cân đối /fɪt/
+18. **body** : (n) cơ thể /ˈbɒdi/
+19. **kidding** : (v) đùa /ˈkɪdɪŋ/
+20. **kilos** : (n) cân /ˈkiːləʊz/
+21. **jealous** : (adj) ghen tỵ /ˈdʒɛləs/
+22. **arguments** : (n) tranh cãi /ˈɑːɡjʊmənts/
 
 | 1\. parents | 2\. abilities | 3\. body / weight |
 | :---- | :---- | :---- |

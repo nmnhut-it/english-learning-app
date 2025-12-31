@@ -7,9 +7,9 @@
 **Bài 1**  
 **Đáp án:**
 
-1. hyperloop: fast, green, carrying many passengers  
-2. flying car: fast, convenient, autopilot function  
-3. monowheel/self-balanced bike: electric, green, convenient
+1. **hyperloop** : fast, green, carrying many passengers
+2. **flying car** : fast, convenient, autopilot function
+3. **monowheel/self-balanced bike** : electric, green, convenient
 
 **Bài 2**  
 **Đáp án:**

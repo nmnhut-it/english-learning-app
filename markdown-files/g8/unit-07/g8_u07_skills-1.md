@@ -6,23 +6,23 @@
 
 **Vocabulary** 
 
-1. all over the world: khắp thế giới /ɔːl ˈəʊvə ðə wɜːld/  
-2. rise: (v) tăng /raɪz/  
-3. wildlife: (n) hoang dã, đời sống hoang dã /ˈwaɪldlaɪf/  
-4. district: (n) quận, huyện /ˈdɪstrɪkt/  
-5. contain: (v) bao gồm, chứa /kənˈteɪn/  
-6. turtle: (n) rùa biển /ˈtɜːtl/  
-7. dugong: (n) con bò biển /ˈdjuːgɒŋ/  
-8. Heritage: (n) di sản /ˈherɪtɪdʒ/  
-9. valuable: (adj) có giá trị /ˈvæljuəbl/  
-10. also: (adv) cũng /ˈɔːlsəʊ/  
-11. be home to: là nhà của /bi həʊm tuː/  
-12. medicinal: (adj) làm thuốc được /məˈdɪsɪnl/  
-13. play a key role: đóng vai trò chủ chốt /pleɪ ə kiː rəʊl/  
-14. raise the awareness: tăng sự ý thức /reɪz ði əˈweənəs/  
-15. resident: (n) cư dân /ˈrezɪdənt/  
-16. president: (n) tổng thống /ˈprezɪdənt/  
-17. importance: (n) sự quan trọng /ɪmˈpɔːtns/  
+1. **all over the world** : khắp thế giới /ɔːl ˈəʊvə ðə wɜːld/
+2. **rise** : (v) tăng /raɪz/
+3. **wildlife** : (n) hoang dã, đời sống hoang dã /ˈwaɪldlaɪf/
+4. **district** : (n) quận, huyện /ˈdɪstrɪkt/
+5. **contain** : (v) bao gồm, chứa /kənˈteɪn/
+6. **turtle** : (n) rùa biển /ˈtɜːtl/
+7. **dugong** : (n) con bò biển /ˈdjuːgɒŋ/
+8. **Heritage** : (n) di sản /ˈherɪtɪdʒ/
+9. **valuable** : (adj) có giá trị /ˈvæljuəbl/
+10. **also** : (adv) cũng /ˈɔːlsəʊ/
+11. **be home to** : là nhà của /bi həʊm tuː/
+12. **medicinal** : (adj) làm thuốc được /məˈdɪsɪnl/
+13. **play a key role** : đóng vai trò chủ chốt /pleɪ ə kiː rəʊl/
+14. **raise the awareness** : tăng sự ý thức /reɪz ði əˈweənəs/
+15. **resident** : (n) cư dân /ˈrezɪdənt/
+16. **president** : (n) tổng thống /ˈprezɪdənt/
+17. **importance** : (n) sự quan trọng /ɪmˈpɔːtns/
     Ngày nay, có những công viên quốc gia khắp thế giới, và con số thì lúc nào cũng đang tăng. Một công viên quốc gia là một khu vực đặc biệt cho việc bảo vệ môi trường và đời sống hoang dã   
     Ở Việt Nam, bây giờ có 34 công viên quốc gia. Công viên quốc gia Côn Đảo là một trong số chúng. Nó đã trở thành một công viên quốc gia vào năm 1993\. Công viên thì ở huyện Côn Đảo, tỉnh Bà Rịa \- Vũng Tàu. Nó chứa 15 đảo nhỏ bao phủ 20 000 héc-ta. Hệ sinh thái ở đây thì rất đa dạng với hàng nghìn loại, bao gồm các động vật biển. Nhiều loài san hô cũng như là rùa biển, cá heo và những con bò biển bị nguy hại cũng sống ở đây. Công viên thì cũng là nhà của nhiều loại gỗ và cây thuốc có giá trị. Ba loại cây cổ trong công viên được đặt tên là “Những cây di sản của Việt Nam”.   
     Vườn quốc gia Côn Đảo, giống như những vườn quốc gia khác, đóng một vai trò quan trọng trong việc bảo vệ những loài bị đe dọa cũng như bảo vệ môi trường và các nguồn tài nguyên thiên nhiên. Nó cũng giúp tăng ý thức của người dân địa phương về tầm quan trọng của thiên nhiên.   
@@ -76,26 +76,26 @@ Vu Quang National Park is In Vu Quang district, Ha Tinh Province. It was opened/
 
 **Vocabulary**
 
-1. water pollution: (n) ô nhiễm nước /ˈwɔːtə pəˈluːʃn/  
-2. serious: (adj) nghiêm trọng /ˈsɪəriəs/  
-3. problem: (n) vấn đề /ˈprɒbləm/  
-4. unsafe: (adj) không an toàn /ʌnˈseɪf/  
-5. other uses: các công dụng khác /ˈʌðə ˈjuːsɪz/  
-6. happen: (v) xảy ra /ˈhæpən/  
-7. waste: (n) chất thải /weɪst/  
-8. toxic: (adj) độc hại /ˈtɒksɪk/  
-9. substance: (n) chất /ˈsʌbstəns/  
-10. man-made: (adj) nhân tạo /mæn meɪd/  
-11. natural: (adj) tự nhiên /ˈnætʃrəl/  
-12. flow: (v) chảy /fləʊ/  
-13. factory: (n) nhà máy /ˈfæktri/  
-14. harmful: (adj) có hại /ˈhɑːmfl/  
-15. effect: (n) ảnh hưởng /ɪˈfekt/  
-16. household: (n) hộ gia đình /ˈhaʊshəʊld/  
-17. treat: (v) xử lý /triːt/  
-18. litter: (v) xả rác /ˈlɪtə/  
-19. single-use product: sản phẩm dùng một lần /ˈsɪŋɡl juːs ˈprɒdʌkt/  
-20. plastic bag: túi nhựa /ˈplæstɪk bæɡ/
+1. **water pollution** : (n) ô nhiễm nước /ˈwɔːtə pəˈluːʃn/
+2. **serious** : (adj) nghiêm trọng /ˈsɪəriəs/
+3. **problem** : (n) vấn đề /ˈprɒbləm/
+4. **unsafe** : (adj) không an toàn /ʌnˈseɪf/
+5. **other uses** : các công dụng khác /ˈʌðə ˈjuːsɪz/
+6. **happen** : (v) xảy ra /ˈhæpən/
+7. **waste** : (n) chất thải /weɪst/
+8. **toxic** : (adj) độc hại /ˈtɒksɪk/
+9. **substance** : (n) chất /ˈsʌbstəns/
+10. **man-made** : (adj) nhân tạo /mæn meɪd/
+11. **natural** : (adj) tự nhiên /ˈnætʃrəl/
+12. **flow** : (v) chảy /fləʊ/
+13. **factory** : (n) nhà máy /ˈfæktri/
+14. **harmful** : (adj) có hại /ˈhɑːmfl/
+15. **effect** : (n) ảnh hưởng /ɪˈfekt/
+16. **household** : (n) hộ gia đình /ˈhaʊshəʊld/
+17. **treat** : (v) xử lý /triːt/
+18. **litter** : (v) xả rác /ˈlɪtə/
+19. **single-use product** : sản phẩm dùng một lần /ˈsɪŋɡl juːs ˈprɒdʌkt/
+20. **plastic bag** : túi nhựa /ˈplæstɪk bæɡ/
 
 1. drinking   
 2. factories   

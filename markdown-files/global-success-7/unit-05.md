@@ -3,42 +3,42 @@
 ## GETTING STARTED - BẮT ĐẦU
 
 ### 📚 Vocabulary - Từ vựng
-- **waiter** : (n) người phục vụ (nam) /ˈweɪtər/
-- **waitress** : (n) người phục vụ (nữ) /ˈweɪtrəs/
-- **order** : (n) đơn đặt hàng, món gọi; (v) gọi món /ˈɔːdər/
-- **pork** : (n) thịt lợn /pɔːk/
-- **fish sauce** : (n) nước mắm /fɪʃ sɔːs/
-- **roast chicken** : (n) gà quay /rəʊst ˈtʃɪkɪn/
-- **fried vegetables** : (n) rau xào /fraɪd ˈvedʒtəbəlz/
-- **fried tofu** : (n) đậu phụ chiên /fraɪd ˈtəʊfuː/
-- **spring rolls** : (n) nem rán, chả giò /sprɪŋ rəʊlz/
-- **canh chua** : (n) canh chua /kænˈtʃuːə/
-- **Vietnamese soup** : (n) món súp Việt Nam /ˌvjetnəˈmiːz suːp/
-- **shrimp** : (n) tôm /ʃrɪmp/
-- **juice** : (n) nước ép trái cây /dʒuːs/
-- **lemonade** : (n) nước chanh /ˌleməˈneɪd/
-- **green tea** : (n) trà xanh /ɡriːn tiː/
-- **mineral water** : (n) nước khoáng /ˈmɪnərəl ˈwɔːtər/
-- **winter melon juice** : (n) nước ép bí đao /ˈwɪntər ˈmelən dʒuːs/
-- **can** : (n) lon /kæn/
-- **menu** : (n) thực đơn /ˈmenjuː/
-- **husband** : (n) chồng /ˈhʌzbənd/
-- **wife** : (n) vợ /waɪf/
-- **children** : (n) trẻ con /ˈtʃɪldrən/
-- **by the way** : (phrase) nhân tiện /baɪ ðə weɪ/
-- **how much** : (phrase) bao nhiêu tiền /haʊ mʌtʃ/
-- **let me see** : (phrase) để tôi xem /let miː siː/
-- **I'll be right back** : (phrase) tôi sẽ quay lại ngay /aɪl biː raɪt bæk/
-- **What can I get you?** : (phrase) Tôi có thể phục vụ gì cho quý khách? /wɒt kæn aɪ get juː/
-- **Would you like...?** : (phrase) Quý khách có muốn...? /wʊd juː laɪk/
-- **also** : (adv) cũng /ˈɔːlsəʊ/
-- **some** : (det) một ít, một vài /sʌm/
-- **could** : (modal v) có thể (lịch sự hơn can) /kʊd/
-- **try** : (v) thử, cố gắng /traɪ/
-- **please** : (adv) làm ơn /pliːz/
-- **soup** : (n) súp /suːp/
-- **think** : (v) nghĩ /θɪŋk/
-- **for** : (prep) cho /fɔːr/
+1. **waiter** : (n) người phục vụ (nam) /ˈweɪtər/
+2. **waitress** : (n) người phục vụ (nữ) /ˈweɪtrəs/
+3. **order** : (n) đơn đặt hàng, món gọi; (v) gọi món /ˈɔːdər/
+4. **pork** : (n) thịt lợn /pɔːk/
+5. **fish sauce** : (n) nước mắm /fɪʃ sɔːs/
+6. **roast chicken** : (n) gà quay /rəʊst ˈtʃɪkɪn/
+7. **fried vegetables** : (n) rau xào /fraɪd ˈvedʒtəbəlz/
+8. **fried tofu** : (n) đậu phụ chiên /fraɪd ˈtəʊfuː/
+9. **spring rolls** : (n) nem rán, chả giò /sprɪŋ rəʊlz/
+10. **canh chua** : (n) canh chua /kænˈtʃuːə/
+11. **Vietnamese soup** : (n) món súp Việt Nam /ˌvjetnəˈmiːz suːp/
+12. **shrimp** : (n) tôm /ʃrɪmp/
+13. **juice** : (n) nước ép trái cây /dʒuːs/
+14. **lemonade** : (n) nước chanh /ˌleməˈneɪd/
+15. **green tea** : (n) trà xanh /ɡriːn tiː/
+16. **mineral water** : (n) nước khoáng /ˈmɪnərəl ˈwɔːtər/
+17. **winter melon juice** : (n) nước ép bí đao /ˈwɪntər ˈmelən dʒuːs/
+18. **can** : (n) lon /kæn/
+19. **menu** : (n) thực đơn /ˈmenjuː/
+20. **husband** : (n) chồng /ˈhʌzbənd/
+21. **wife** : (n) vợ /waɪf/
+22. **children** : (n) trẻ con /ˈtʃɪldrən/
+23. **by the way** : (phrase) nhân tiện /baɪ ðə weɪ/
+24. **how much** : (phrase) bao nhiêu tiền /haʊ mʌtʃ/
+25. **let me see** : (phrase) để tôi xem /let miː siː/
+26. **I'll be right back** : (phrase) tôi sẽ quay lại ngay /aɪl biː raɪt bæk/
+27. **What can I get you?** : (phrase) Tôi có thể phục vụ gì cho quý khách? /wɒt kæn aɪ get juː/
+28. **Would you like...?** : (phrase) Quý khách có muốn...? /wʊd juː laɪk/
+29. **also** : (adv) cũng /ˈɔːlsəʊ/
+30. **some** : (det) một ít, một vài /sʌm/
+31. **could** : (modal v) có thể (lịch sự hơn can) /kʊd/
+32. **try** : (v) thử, cố gắng /traɪ/
+33. **please** : (adv) làm ơn /pliːz/
+34. **soup** : (n) súp /suːp/
+35. **think** : (v) nghĩ /θɪŋk/
+36. **for** : (prep) cho /fɔːr/
 
 ### 💬 Content - Nội dung
 **Waiter**: Good evening. What can I get you today?
@@ -114,36 +114,36 @@
 
 ### 📚 Vocabulary - Từ vựng
 **Measurement units - Đơn vị đo lường:**
-- **kilo (kg)** : (n) ki-lô-gam /ˈkiːləʊ/
-- **gram (g)** : (n) gam /ɡræm/
-- **litre (l)** : (n) lít /ˈliːtər/
-- **millilitre (ml)** : (n) mi-li-lít /ˈmɪlɪˌliːtər/
-- **teaspoon** : (n) muỗng cà phê /ˈtiːspuːn/
-- **tablespoon** : (n) muỗng canh /ˈteɪbəlspuːn/
+1. **kilo (kg)** : (n) ki-lô-gam /ˈkiːləʊ/
+2. **gram (g)** : (n) gam /ɡræm/
+3. **litre (l)** : (n) lít /ˈliːtər/
+4. **millilitre (ml)** : (n) mi-li-lít /ˈmɪlɪˌliːtər/
+5. **teaspoon** : (n) muỗng cà phê /ˈtiːspuːn/
+6. **tablespoon** : (n) muỗng canh /ˈteɪbəlspuːn/
 
 **Food items - Thực phẩm:**
-- **beef** : (n) thịt bò /biːf/
-- **sugar** : (n) đường /ˈʃʊɡər/
-- **salt** : (n) muối /sɔːlt/
-- **pepper** : (n) tiêu /ˈpepər/
-- **flour** : (n) bột mì /flaʊər/
-- **milk** : (n) sữa /mɪlk/
-- **butter** : (n) bơ /ˈbʌtər/
-- **egg** : (n) trứng /eɡ/
-- **onion** : (n) hành tây /ˈʌnjən/
-- **turmeric** : (n) nghệ /ˈtɜːmərɪk/
+7. **beef** : (n) thịt bò /biːf/
+8. **sugar** : (n) đường /ˈʃʊɡər/
+9. **salt** : (n) muối /sɔːlt/
+10. **pepper** : (n) tiêu /ˈpepər/
+11. **flour** : (n) bột mì /flaʊər/
+12. **milk** : (n) sữa /mɪlk/
+13. **butter** : (n) bơ /ˈbʌtər/
+14. **egg** : (n) trứng /eɡ/
+15. **onion** : (n) hành tây /ˈʌnjən/
+16. **turmeric** : (n) nghệ /ˈtɜːmərɪk/
 
 **Dishes - Món ăn:**
-- **omelette** : (n) trứng ốp lết /ˈɒmlət/
-- **pancake** : (n) bánh kếp /ˈpænkeɪk/
-- **apple pie** : (n) bánh táo /ˈæpəl paɪ/
+17. **omelette** : (n) trứng ốp lết /ˈɒmlət/
+18. **pancake** : (n) bánh kếp /ˈpænkeɪk/
+19. **apple pie** : (n) bánh táo /ˈæpəl paɪ/
 
 **Other vocabulary - Từ vựng khác:**
-- **ingredient** : (n) nguyên liệu /ɪnˈɡriːdiənt/
-- **recipe** : (n) công thức nấu ăn /ˈresəpi/
-- **quantity** : (n) số lượng /ˈkwɒntəti/
-- **need** : (v) cần /niːd/
-- **how many** : (phrase) bao nhiêu (dùng với danh từ đếm được) /haʊ ˈmeni/
+20. **ingredient** : (n) nguyên liệu /ɪnˈɡriːdiənt/
+21. **recipe** : (n) công thức nấu ăn /ˈresəpi/
+22. **quantity** : (n) số lượng /ˈkwɒntəti/
+23. **need** : (v) cần /niːd/
+24. **how many** : (phrase) bao nhiêu (dùng với danh từ đếm được) /haʊ ˈmeni/
 
 ### 🗣️ Pronunciation - Phát âm
 **Sounds /ɒ/ and /ɔː/ (Âm /ɒ/ và /ɔː/)**
@@ -206,15 +206,15 @@ Ví dụ đối thoại:
 ## A CLOSER LOOK 2 - TÌM HIỂU THÊM 2
 
 ### 📚 Vocabulary - Từ vựng
-- **tofu** : (n) đậu phụ /ˈtəʊfuː/
-- **vegetable** : (n) rau củ /ˈvedʒtəbəl/
-- **seafood** : (n) hải sản /ˈsiːfuːd/
-- **fish** : (n) cá /fɪʃ/
-- **meat** : (n) thịt /miːt/
-- **bottle** : (n) chai /ˈbɒtəl/
-- **carton** : (n) hộp giấy /ˈkɑːtən/
-- **box** : (n) hộp /bɒks/
-- **bar** : (n) thanh /bɑːr/
+1. **tofu** : (n) đậu phụ /ˈtəʊfuː/
+2. **vegetable** : (n) rau củ /ˈvedʒtəbəl/
+3. **seafood** : (n) hải sản /ˈsiːfuːd/
+4. **fish** : (n) cá /fɪʃ/
+5. **meat** : (n) thịt /miːt/
+6. **bottle** : (n) chai /ˈbɒtəl/
+7. **carton** : (n) hộp giấy /ˈkɑːtən/
+8. **box** : (n) hộp /bɒks/
+9. **bar** : (n) thanh /bɑːr/
 
 ### 📖 Grammar - Ngữ pháp
 **Some, any, a lot of/lots of**
@@ -289,15 +289,15 @@ Ví dụ đối thoại:
 ## COMMUNICATION - GIAO TIẾP
 
 ### 📚 Vocabulary - Từ vựng
-- **bowl** : (n) tô, bát /bəʊl/
-- **beef noodle soup** : (n) phở bò /biːf ˈnuːdəl suːp/
-- **eel soup** : (n) súp lươn /iːl suːp/
-- **toast** : (n) bánh mì nướng /təʊst/
-- **dong** : (n) đồng (tiền Việt Nam) /dɒŋ/
-- **thousand** : (n) nghìn /ˈθaʊzənd/
-- **price** : (n) giá /praɪs/
-- **glass** : (n) ly, cốc /ɡlɑːs/
-- **cup** : (n) tách /kʌp/
+1. **bowl** : (n) tô, bát /bəʊl/
+2. **beef noodle soup** : (n) phở bò /biːf ˈnuːdəl suːp/
+3. **eel soup** : (n) súp lươn /iːl suːp/
+4. **toast** : (n) bánh mì nướng /təʊst/
+5. **dong** : (n) đồng (tiền Việt Nam) /dɒŋ/
+6. **thousand** : (n) nghìn /ˈθaʊzənd/
+7. **price** : (n) giá /praɪs/
+8. **glass** : (n) ly, cốc /ɡlɑːs/
+9. **cup** : (n) tách /kʌp/
 
 ### 🗣️ Activities - Hoạt động
 
@@ -340,24 +340,24 @@ Ví dụ trả lời:
 ## SKILLS 1 - KỸ NĂNG 1
 
 ### 📚 Vocabulary - Từ vựng
-- **popular** : (adj) phổ biến /ˈpɒpjələr/
-- **traditional** : (adj) truyền thống /trəˈdɪʃənəl/
-- **dish** : (n) món ăn /dɪʃ/
-- **main ingredient** : (n) nguyên liệu chính /meɪn ɪnˈɡriːdiənt/
-- **rice noodles** : (n) bún, phở /raɪs ˈnuːdəlz/
-- **slice** : (n) lát mỏng /slaɪs/
-- **common** : (adj) phổ biến /ˈkɒmən/
-- **enjoy** : (v) thưởng thức /ɪnˈdʒɔɪ/
-- **late-night snack** : (n) món ăn khuya /leɪt naɪt snæk/
-- **special taste** : (n) hương vị đặc biệt /ˈspeʃəl teɪst/
-- **broth** : (n) nước dùng /brɒθ/
-- **stew** : (v) hầm, ninh /stjuː/
-- **bone** : (n) xương /bəʊn/
-- **boneless** : (adj) không xương /ˈbəʊnləs/
-- **serve** : (v) phục vụ /sɜːv/
-- **delicious** : (adj) ngon /dɪˈlɪʃəs/
-- **beef noodle soup** : (n) phở bò /biːf ˈnuːdəl suːp/
-- **chicken noodle soup** : (n) phở gà /ˈtʃɪkɪn ˈnuːdəl suːp/
+1. **popular** : (adj) phổ biến /ˈpɒpjələr/
+2. **traditional** : (adj) truyền thống /trəˈdɪʃənəl/
+3. **dish** : (n) món ăn /dɪʃ/
+4. **main ingredient** : (n) nguyên liệu chính /meɪn ɪnˈɡriːdiənt/
+5. **rice noodles** : (n) bún, phở /raɪs ˈnuːdəlz/
+6. **slice** : (n) lát mỏng /slaɪs/
+7. **common** : (adj) phổ biến /ˈkɒmən/
+8. **enjoy** : (v) thưởng thức /ɪnˈdʒɔɪ/
+9. **late-night snack** : (n) món ăn khuya /leɪt naɪt snæk/
+10. **special taste** : (n) hương vị đặc biệt /ˈspeʃəl teɪst/
+11. **broth** : (n) nước dùng /brɒθ/
+12. **stew** : (v) hầm, ninh /stjuː/
+13. **bone** : (n) xương /bəʊn/
+14. **boneless** : (adj) không xương /ˈbəʊnləs/
+15. **serve** : (v) phục vụ /sɜːv/
+16. **delicious** : (adj) ngon /dɪˈlɪʃəs/
+17. **beef noodle soup** : (n) phở bò /biːf ˈnuːdəl suːp/
+18. **chicken noodle soup** : (n) phở gà /ˈtʃɪkɪn ˈnuːdəl suːp/
 
 ### 📖 Reading - Đọc
 
@@ -411,19 +411,19 @@ Posted by Phong on Feb 22 at 5:30 p.m. (Đăng bởi Phong vào ngày 22 tháng 
 ## SKILLS 2 - KỸ NĂNG 2
 
 ### 📚 Vocabulary - Từ vựng
-- **eating habits** : (n) thói quen ăn uống /ˈiːtɪŋ ˈhæbɪts/
-- **breakfast** : (n) bữa sáng /ˈbrekfəst/
-- **lunch** : (n) bữa trưa /lʌntʃ/
-- **dinner** : (n) bữa tối /ˈdɪnər/
-- **meal** : (n) bữa ăn /miːl/
-- **sticky rice** : (n) xôi /ˈstɪki raɪs/
-- **instant noodles** : (n) mì ăn liền /ˈɪnstənt ˈnuːdəlz/
-- **family members** : (n) thành viên gia đình /ˈfæməli ˈmembərz/
-- **gather** : (v) tụ họp /ˈɡæðər/
-- **fresh vegetables** : (n) rau tươi /freʃ ˈvedʒtəbəlz/
-- **everyday activities** : (n) hoạt động hàng ngày /ˈevride ækˈtɪvətiz/
-- **fabulous** : (adj) tuyệt vời /ˈfæbjələs/
-- **healthy** : (adj) lành mạnh /ˈhelθi/
+1. **eating habits** : (n) thói quen ăn uống /ˈiːtɪŋ ˈhæbɪts/
+2. **breakfast** : (n) bữa sáng /ˈbrekfəst/
+3. **lunch** : (n) bữa trưa /lʌntʃ/
+4. **dinner** : (n) bữa tối /ˈdɪnər/
+5. **meal** : (n) bữa ăn /miːl/
+6. **sticky rice** : (n) xôi /ˈstɪki raɪs/
+7. **instant noodles** : (n) mì ăn liền /ˈɪnstənt ˈnuːdəlz/
+8. **family members** : (n) thành viên gia đình /ˈfæməli ˈmembərz/
+9. **gather** : (v) tụ họp /ˈɡæðər/
+10. **fresh vegetables** : (n) rau tươi /freʃ ˈvedʒtəbəlz/
+11. **everyday activities** : (n) hoạt động hàng ngày /ˈevride ækˈtɪvətiz/
+12. **fabulous** : (adj) tuyệt vời /ˈfæbjələs/
+13. **healthy** : (adj) lành mạnh /ˈhelθi/
 
 ### 👂 Listening - Nghe
 
@@ -509,14 +509,14 @@ Ví dụ: We need two tablespoons of cold water. (Chúng ta cần hai muỗng ca
 ## PROJECT - DỰ ÁN
 
 ### 📚 Vocabulary - Từ vựng
-- **poster** : (n) áp phích /ˈpəʊstər/
-- **design** : (v) thiết kế /dɪˈzaɪn/
-- **foreign country** : (n) nước ngoài /ˈfɒrən ˈkʌntri/
-- **typical food** : (n) món ăn đặc trưng /ˈtɪpɪkəl fuːd/
-- **eating time** : (n) thời gian ăn /ˈiːtɪŋ taɪm/
-- **eating manner** : (n) cách ăn uống /ˈiːtɪŋ ˈmænər/
-- **exhibition** : (n) triển lãm /ˌeksɪˈbɪʃən/
-- **present** : (v) trình bày /prɪˈzent/
+1. **poster** : (n) áp phích /ˈpəʊstər/
+2. **design** : (v) thiết kế /dɪˈzaɪn/
+3. **foreign country** : (n) nước ngoài /ˈfɒrən ˈkʌntri/
+4. **typical food** : (n) món ăn đặc trưng /ˈtɪpɪkəl fuːd/
+5. **eating time** : (n) thời gian ăn /ˈiːtɪŋ taɪm/
+6. **eating manner** : (n) cách ăn uống /ˈiːtɪŋ ˈmænər/
+7. **exhibition** : (n) triển lãm /ˌeksɪˈbɪʃən/
+8. **present** : (v) trình bày /prɪˈzent/
 
 **Task: Work in groups. Design a poster about eating habits in an area or a foreign country you know, including: (Làm việc theo nhóm. Thiết kế một áp phích về thói quen ăn uống ở một khu vực hoặc một nước ngoài mà bạn biết, bao gồm:)**
 - Names of the typical food and drink (Tên các món ăn và thức uống đặc trưng)

@@ -4,17 +4,17 @@
 
 **Vocabulary** 
 
-1. flying car: xe hơi bay /ˈflaɪɪŋ kɑː/  
-2. bamboo-copter: chong chóng tre /ˌbæmˈbuː ˈkɒptə/  
-3. skyTran: hệ thống vận chuyển trên không skyTran /ˈskaɪtræn/  
-4. solar-powered ship: tàu chạy bằng năng lượng mặt trời /ˈsəʊlə ˈpaʊəd ʃɪp/  
-5. eco-friendly: (adj) thân thiện với môi trường /ˌiːkəʊ ˈfrendli/  
-6. simple: (adj) đơn giản /ˈsɪmpl/  
-7. fly away: (v) bay đi /flaɪ əˈweɪ/  
-8. instead of: (prep) thay vì /ɪnˈsted ɒv/  
-9. airplane: (n) máy bay /ˈeəpleɪn/  
-10. cause pollution: gây ô nhiễm /kɔːz pəˈluːʃn/  
-11. driverless car: (n) xe hơi không người lái /ˈdraɪvələs kɑː/
+1. **flying car** : xe hơi bay /ˈflaɪɪŋ kɑː/
+2. **bamboo-copter** : chong chóng tre /ˌbæmˈbuː ˈkɒptə/
+3. **skyTran** : hệ thống vận chuyển trên không skyTran /ˈskaɪtræn/
+4. **solar-powered ship** : tàu chạy bằng năng lượng mặt trời /ˈsəʊlə ˈpaʊəd ʃɪp/
+5. **eco-friendly** : (adj) thân thiện với môi trường /ˌiːkəʊ ˈfrendli/
+6. **simple** : (adj) đơn giản /ˈsɪmpl/
+7. **fly away** : (v) bay đi /flaɪ əˈweɪ/
+8. **instead of** : (prep) thay vì /ɪnˈsted ɒv/
+9. **airplane** : (n) máy bay /ˈeəpleɪn/
+10. **cause pollution** : gây ô nhiễm /kɔːz pəˈluːʃn/
+11. **driverless car** : (n) xe hơi không người lái /ˈdraɪvələs kɑː/
 
 **Bài 1 trang 116** 
 

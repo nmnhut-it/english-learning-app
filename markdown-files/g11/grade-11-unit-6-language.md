@@ -12,7 +12,7 @@
 1. **slightly**: (adv) hơi, một chút /ˈslaɪtli/
 1. **slight**: (adj) nhẹ, ít /slaɪt/
 1. **valley**: (n) thung lũng /ˈvæli/
-1. **heritage site**: di sản /ˈherɪtɪdʒ saɪt/
+1. **heritage site** : di sản /ˈherɪtɪdʒ saɪt/
 1. **heritage**: (n) di sản /ˈherɪtɪdʒ/
 1. **pedestrian**: (n) người đi bộ; (adj) dành cho người đi bộ /pəˈdestriən/
 1. **restore**: (v) khôi phục, phục hồi /rɪˈstɔː/

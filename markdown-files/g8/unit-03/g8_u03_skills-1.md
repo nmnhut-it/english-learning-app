@@ -4,27 +4,27 @@
 **Reading**  
 **Vocabulary**
 
-1. interested: (adj) quan tâm /ˈɪntrɪstɪd/  
-2. club: (n) câu lạc bộ /klʌb/  
-3. badminton: (n) cầu lông /ˈbædmɪntən/  
-4. chess: (n) cờ vua /tʃɛs/  
-5. relaxing: (adj) thư giãn /rɪˈlæksɪŋ/  
-6. fit: (adj) khỏe mạnh /fɪt/  
-7. beforehand: (adv) trước đó /bɪˈfɔːhænd/  
-8. concentrate: (v) tập trung /ˈkɒnsəntreɪt/  
-9. focused: (adj) tập trung /ˈfəʊkəst/  
-10. enough: (adj) đủ /ɪˈnʌf/  
-11. actually: (adv) thực ra /ˈæktʃuəli/  
-12. arts and crafts: (n) nghệ thuật và thủ công /ɑːts ənd krɑːfts/  
-13. member: (n) thành viên /ˈmɛmbə/  
-14. community: (n) cộng đồng /kəˈmjuːnɪti/  
-15. service: (n) dịch vụ /ˈsɜːvɪs/  
-16. practical: (adj) thực tế /ˈpræktɪkəl/  
-17. teamwork: (n) làm việc nhóm /ˈtiːmwɜːk/  
-18. awesome: (adj) tuyệt vời /ˈɔːsəm/  
-19. coach: (v) huấn luyện /kəʊtʃ/  
-20. art: (n) nghệ thuật /ɑːt/  
-21. connect: (v) kết nối /kəˈnɛkt/
+1. **interested** : (adj) quan tâm /ˈɪntrɪstɪd/
+2. **club** : (n) câu lạc bộ /klʌb/
+3. **badminton** : (n) cầu lông /ˈbædmɪntən/
+4. **chess** : (n) cờ vua /tʃɛs/
+5. **relaxing** : (adj) thư giãn /rɪˈlæksɪŋ/
+6. **fit** : (adj) khỏe mạnh /fɪt/
+7. **beforehand** : (adv) trước đó /bɪˈfɔːhænd/
+8. **concentrate** : (v) tập trung /ˈkɒnsəntreɪt/
+9. **focused** : (adj) tập trung /ˈfəʊkəst/
+10. **enough** : (adj) đủ /ɪˈnʌf/
+11. **actually** : (adv) thực ra /ˈæktʃuəli/
+12. **arts and crafts** : (n) nghệ thuật và thủ công /ɑːts ənd krɑːfts/
+13. **member** : (n) thành viên /ˈmɛmbə/
+14. **community** : (n) cộng đồng /kəˈmjuːnɪti/
+15. **service** : (n) dịch vụ /ˈsɜːvɪs/
+16. **practical** : (adj) thực tế /ˈpræktɪkəl/
+17. **teamwork** : (n) làm việc nhóm /ˈtiːmwɜːk/
+18. **awesome** : (adj) tuyệt vời /ˈɔːsəm/
+19. **coach** : (v) huấn luyện /kəʊtʃ/
+20. **art** : (n) nghệ thuật /ɑːt/
+21. **connect** : (v) kết nối /kəˈnɛkt/
 
 Mai: Tom, vậy bạn muốn tham gia câu lạc bộ nào?
 

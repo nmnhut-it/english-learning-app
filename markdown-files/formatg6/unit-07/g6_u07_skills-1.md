@@ -4,27 +4,27 @@
 **Reading**   
 **Vocabulary**
 
-1. programme: (n) chương trình /ˈprəʊɡræm/  
-2. wildlife: (n) động vật hoang dã /ˈwaɪldlaɪf/  
-3. description: (n) sự mô tả, miêu tả /dɪˈskrɪpʃən/  
-4. comedy: (n) hài kịch, phim hài /ˈkɒmədɪ/  
-5. sports: (n) thể thao /spɔːts/  
-6. game show: (n) chương trình truyền hình trò chơi /ˈɡeɪm ʃəʊ/  
-7. science: (n) khoa học /ˈsaɪəns/  
-8. forest: (n) rừng /ˈfɒrɪst/  
-9. The Pig Race: Cuộc đua của những chú heo /ðə pɪɡ reɪs/  
-10. Children Are Always Right: Trẻ em luôn đúng /ˈtʃɪldrən ɑːr ˈɔːlweɪz raɪt/  
-11. colorful world: thế giới đầy màu sắc /ˈkʌləfʊl wɜːld/  
-12. plant: (n) thực vật, cây /plɑːnt/  
-13. flower: (n) hoa /ˈflaʊə/  
-14. animal: (n) động vật /ˈænɪməl/  
-15. have a lot of fun: có nhiều niềm vui /hæv ə lɒt əv fʌn/  
-16. on their first day at school: vào ngày đầu tiên đến trường /ɒn ðeə fɜːst deɪ æt skuːl/  
-17. compete: (v) cạnh tranh, thi đấu /kəmˈpiːt/  
-18. the most exciting race: cuộc đua thú vị nhất /ðə məʊst ɪkˈsaɪtɪŋ reɪs/  
-19. pet: (n) thú cưng /pet/  
-20. intelligent: (adj) thông minh /ɪnˈtelɪdʒənt/  
-21. dolphin: (n) cá heo /ˈdɒlfɪn/
+1. **programme** : (n) chương trình /ˈprəʊɡræm/
+2. **wildlife** : (n) động vật hoang dã /ˈwaɪldlaɪf/
+3. **description** : (n) sự mô tả, miêu tả /dɪˈskrɪpʃən/
+4. **comedy** : (n) hài kịch, phim hài /ˈkɒmədɪ/
+5. **sports** : (n) thể thao /spɔːts/
+6. **game show** : (n) chương trình truyền hình trò chơi /ˈɡeɪm ʃəʊ/
+7. **science** : (n) khoa học /ˈsaɪəns/
+8. **forest** : (n) rừng /ˈfɒrɪst/
+9. **The Pig Race** : Cuộc đua của những chú heo /ðə pɪɡ reɪs/
+10. **Children Are Always Right** : Trẻ em luôn đúng /ˈtʃɪldrən ɑːr ˈɔːlweɪz raɪt/
+11. **colorful world** : thế giới đầy màu sắc /ˈkʌləfʊl wɜːld/
+12. **plant** : (n) thực vật, cây /plɑːnt/
+13. **flower** : (n) hoa /ˈflaʊə/
+14. **animal** : (n) động vật /ˈænɪməl/
+15. **have a lot of fun** : có nhiều niềm vui /hæv ə lɒt əv fʌn/
+16. **on their first day at school** : vào ngày đầu tiên đến trường /ɒn ðeə fɜːst deɪ æt skuːl/
+17. **compete** : (v) cạnh tranh, thi đấu /kəmˈpiːt/
+18. **the most exciting race** : cuộc đua thú vị nhất /ðə məʊst ɪkˈsaɪtɪŋ reɪs/
+19. **pet** : (n) thú cưng /pet/
+20. **intelligent** : (adj) thông minh /ɪnˈtelɪdʒənt/
+21. **dolphin** : (n) cá heo /ˈdɒlfɪn/
 
 8.00
 

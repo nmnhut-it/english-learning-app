@@ -13,32 +13,32 @@
 
 **Các động từ thể hiện nghĩa "thích/ghét" chỉ đi kèm "to V0" (Infinitive):**
 
-1. **Would like**: muốn  
+1. **Would like** : muốn
    * "I would like to go out tonight."  
-2. **Would love**: rất muốn  
+2. **Would love** : rất muốn
    * "She would love to visit Paris."  
-3. **Would prefer**: thích hơn  
+3. **Would prefer** : thích hơn
    * "He would prefer to stay home."  
-4. **Would hate**: ghét  
+4. **Would hate** : ghét
    * "I would hate to miss the concert."  
-5. **Would enjoy**: thích  
+5. **Would enjoy** : thích
    * "They would enjoy to watch the movie."
 
 **Các động từ thể hiện nghĩa "thích/ghét" chỉ đi kèm "V-ing" (Gerund):**
 
-1. **Enjoy**: thích  
+1. **Enjoy** : thích
    * "I enjoy reading books."  
-2. **Dislike**: không thích  
+2. **Dislike** : không thích
    * "She dislikes doing homework."  
-3. **Mind**: phiền, ngại  
+3. **Mind** : phiền, ngại
    * "Do you mind opening the window?"  
-4. **Detest**: ghét cay ghét đắng  
+4. **Detest** : ghét cay ghét đắng
    * "He detests waking up early."  
-5. **Resent**: bực bội  
+5. **Resent** : bực bội
    * "They resent being told what to do."  
-6. **Avoid**: tránh  
+6. **Avoid** : tránh
    * "I avoid eating fast food."  
-7. **Can't help**: không thể không  
+7. **Can't help** : không thể không
    * "She can't help laughing at his jokes."
 
 **Bài 1 trang 10** 

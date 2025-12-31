@@ -3,31 +3,31 @@
 **SKILLS 1**   
 **Reading** 
 
-1. neighbourhood: (n) khu phố, hàng xóm /ˈneɪbəhʊd/  
-2. suburbs: (n) vùng ngoại ô /ˈsʌbɜːbz/  
-3. many: (adj) nhiều /ˈmeni/  
-4. thing: (n) vật, điều /θɪŋ/  
-5. great: (adj) tuyệt vời, to lớn /ɡreɪt/  
-6. outdoor activities: các hoạt động ngoài trời /ˈaʊtdɔːr ækˈtɪvətiz/  
-7. because: (conj) bởi vì /bɪˈkɒz/  
-8. beautiful park: công viên đẹp /ˈbjuːtɪfl pɑːk/  
-9. fine weather: thời tiết đẹp /faɪn ˈweðə(r)/  
-10. almost: (adv) gần như /ˈɔːlməʊst/  
-11. everything: (pron) mọi thứ /ˈevriθɪŋ/  
-12. shop: (n) cửa hàng /ʃɒp/  
-13. restaurant: (n) nhà hàng /ˈrestrɒnt/  
-14. market: (n) chợ /ˈmɑːkɪt/  
-15. friendly: (adj) thân thiện /ˈfrendli/  
-16. friendlier: (adj) thân thiện hơn /ˈfrendliə(r)/  
-17. better: (adj) tốt hơn /ˈbetə(r)/  
-18. other places: những nơi khác /ˈʌðə ˈpleɪsɪz/   
-19. however: (adv) tuy nhiên /haʊˈevə(r)/  
-20. dislike: (v) không thích /dɪsˈlaɪk/  
-21. modern building: tòa nhà hiện đại /ˈmɒdn ˈbɪldɪŋ/  
-22. office: (n) văn phòng /ˈɒfɪs/  
-23. street: (n) đường phố /striːt/  
-24. busy: (adj) bận rộn /ˈbɪzi/  
-25. crowded: (adj) đông đúc /ˈkraʊdɪd/
+1. **neighbourhood** : (n) khu phố, hàng xóm /ˈneɪbəhʊd/
+2. **suburbs** : (n) vùng ngoại ô /ˈsʌbɜːbz/
+3. **many** : (adj) nhiều /ˈmeni/
+4. **thing** : (n) vật, điều /θɪŋ/
+5. **great** : (adj) tuyệt vời, to lớn /ɡreɪt/
+6. **outdoor activities** : các hoạt động ngoài trời /ˈaʊtdɔːr ækˈtɪvətiz/
+7. **because** : (conj) bởi vì /bɪˈkɒz/
+8. **beautiful park** : công viên đẹp /ˈbjuːtɪfl pɑːk/
+9. **fine weather** : thời tiết đẹp /faɪn ˈweðə(r)/
+10. **almost** : (adv) gần như /ˈɔːlməʊst/
+11. **everything** : (pron) mọi thứ /ˈevriθɪŋ/
+12. **shop** : (n) cửa hàng /ʃɒp/
+13. **restaurant** : (n) nhà hàng /ˈrestrɒnt/
+14. **market** : (n) chợ /ˈmɑːkɪt/
+15. **friendly** : (adj) thân thiện /ˈfrendli/
+16. **friendlier** : (adj) thân thiện hơn /ˈfrendliə(r)/
+17. **better** : (adj) tốt hơn /ˈbetə(r)/
+18. **other places** : những nơi khác /ˈʌðə ˈpleɪsɪz/
+19. **however** : (adv) tuy nhiên /haʊˈevə(r)/
+20. **dislike** : (v) không thích /dɪsˈlaɪk/
+21. **modern building** : tòa nhà hiện đại /ˈmɒdn ˈbɪldɪŋ/
+22. **office** : (n) văn phòng /ˈɒfɪs/
+23. **street** : (n) đường phố /striːt/
+24. **busy** : (adj) bận rộn /ˈbɪzi/
+25. **crowded** : (adj) đông đúc /ˈkraʊdɪd/
 
  **Dịch bài (15p)**   
 Khu xóm của tôi   

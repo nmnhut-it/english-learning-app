@@ -3,26 +3,26 @@
 **GETTING STARTED**   
 **Vocabulary** 
 
-1. electronic shop: cửa hàng điện tử /ɪˌlekˈtrɒnɪk ʃɒp/  
-2. What can I do for you?: Tôi có thể giúp gì cho bạn? /wɒt kæn aɪ duː fə juː/  
-3. buy \- bought \- bought: (v) mua /baɪ \- bɔːt \- bɔːt/  
-4. son: (n) con trai /sʌn/  
-5. desktop: (n) máy tính để bàn /ˈdesktɒp/  
-6. tablet: (n) máy tính bảng, viên thuốc /ˈtæblət/  
-7. portable: (adj) di động, xách tay được /ˈpɔːtəbl/  
-8. suggest: (v) đề nghị, gợi ý /səˈdʒest/  
-9. effectively: (adv) hiệu quả, có hiệu lực /ɪˈfektɪvli/  
-10. lightweight aluminium case: vỏ nhôm nhẹ /ˈlaɪtweɪt əˈluːmɪniəm keɪs/  
-11. shoot videos: quay video /ʃuːt ˈvɪdiəʊz/  
-12. scan documents: quét tài liệu /skæn ˈdɒkjʊmənts/  
-13. finger: (n) ngón tay /ˈfɪŋɡə/  
-14. virtual keyboard: bàn phím ảo /ˈvɜːtʃʊəl ˈkiːbɔːd/  
-15. wireless hardware keyboard: bàn phím phần cứng không dây /ˈwaɪələs ˈhɑːdweə ˈkiːbɔːd/  
-16. write and draw: viết và vẽ /raɪt ænd drɔː/  
-17. take notes: ghi chú /teɪk nəʊts/  
-18. draw diagram: vẽ sơ đồ /drɔː ˈdaɪəɡræm/  
-19. type: (v) đánh máy, (n) loại /thai.p/   
-20. touchscreen: (n) màn hình cảm ứng 
+1. **electronic shop** : cửa hàng điện tử /ɪˌlekˈtrɒnɪk ʃɒp/
+2. **What can I do for you?** : Tôi có thể giúp gì cho bạn? /wɒt kæn aɪ duː fə juː/
+3. **buy \- bought \- bought** : (v) mua /baɪ \- bɔːt \- bɔːt/
+4. **son** : (n) con trai /sʌn/
+5. **desktop** : (n) máy tính để bàn /ˈdesktɒp/
+6. **tablet** : (n) máy tính bảng, viên thuốc /ˈtæblət/
+7. **portable** : (adj) di động, xách tay được /ˈpɔːtəbl/
+8. **suggest** : (v) đề nghị, gợi ý /səˈdʒest/
+9. **effectively** : (adv) hiệu quả, có hiệu lực /ɪˈfektɪvli/
+10. **lightweight aluminium case** : vỏ nhôm nhẹ /ˈlaɪtweɪt əˈluːmɪniəm keɪs/
+11. **shoot videos** : quay video /ʃuːt ˈvɪdiəʊz/
+12. **scan documents** : quét tài liệu /skæn ˈdɒkjʊmənts/
+13. **finger** : (n) ngón tay /ˈfɪŋɡə/
+14. **virtual keyboard** : bàn phím ảo /ˈvɜːtʃʊəl ˈkiːbɔːd/
+15. **wireless hardware keyboard** : bàn phím phần cứng không dây /ˈwaɪələs ˈhɑːdweə ˈkiːbɔːd/
+16. **write and draw** : viết và vẽ /raɪt ænd drɔː/
+17. **take notes** : ghi chú /teɪk nəʊts/
+18. **draw diagram** : vẽ sơ đồ /drɔː ˈdaɪəɡræm/
+19. **type** : (v) đánh máy, (n) loại /thai.p/
+20. **touchscreen** : (n) màn hình cảm ứng
 
 Nhân viên bán hàng: Chào buổi sáng\! Tôi có thể làm gì cho bạn?  
 Khách hàng: Chào buổi sáng\! Tôi muốn mua một chiếc máy tính cho con trai tôi.  

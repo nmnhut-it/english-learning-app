@@ -54,11 +54,11 @@ UNIT 6: LIFESTYLES**
 
 **Bài 4 trang 61**
 
-1. street food: thức ăn đường phố   
-2. food in restaurant: đồ ăn trong nhà hàng   
-3. pizza: pi-za /phít zờ/   
-4. online learning: học online   
-5. greet: chào hỏi 
+1. **street food** : thức ăn đường phố
+2. **food in restaurant** : đồ ăn trong nhà hàng
+3. **pizza** : pi-za /phít zờ/
+4. **online learning** : học online
+5. **greet** : chào hỏi
 
 **A CLOSER LOOK 1** 
 

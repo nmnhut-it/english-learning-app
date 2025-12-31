@@ -45,17 +45,17 @@
 **SKILLS**   
 **Vocabulary** 
 
-1. simple sport: môn thể thao đơn giản /ˈsɪmpl spɔːt/  
-2. competitor: (n) đối thủ, người tham gia thi đấu /kəmˈpetɪtə/  
-3. roll a big round piece of cheese: lăn một miếng phô mai tròn lớn /rəʊl ə bɪɡ raʊnd piːs əv tʃiːz/  
-4. run after: chạy theo sau /rʌn ˈɑːftə/  
-5. try to catch it: cố gắng bắt nó /traɪ tə kætʃ ɪt/  
-6. few: (adj) ít /fjuː/  
-7. popular sport: môn thể thao phổ biến /ˈpɒpjʊlə spɔːt/  
-8. start: (v) bắt đầu /stɑːt/  
-9. lock their toes together: khóa các ngón chân của họ lại với nhau /lɒk ðeə təʊz təˈɡeðə/  
-10. arm wrestling: vật tay /ɑːm ˈreslɪŋ/  
-11. push: (v) đẩy /pʊʃ/ 
+1. **simple sport** : môn thể thao đơn giản /ˈsɪmpl spɔːt/
+2. **competitor** : (n) đối thủ, người tham gia thi đấu /kəmˈpetɪtə/
+3. **roll a big round piece of cheese** : lăn một miếng phô mai tròn lớn /rəʊl ə bɪɡ raʊnd piːs əv tʃiːz/
+4. **run after** : chạy theo sau /rʌn ˈɑːftə/
+5. **try to catch it** : cố gắng bắt nó /traɪ tə kætʃ ɪt/
+6. **few** : (adj) ít /fjuː/
+7. **popular sport** : môn thể thao phổ biến /ˈpɒpjʊlə spɔːt/
+8. **start** : (v) bắt đầu /stɑːt/
+9. **lock their toes together** : khóa các ngón chân của họ lại với nhau /lɒk ðeə təʊz təˈɡeðə/
+10. **arm wrestling** : vật tay /ɑːm ˈreslɪŋ/
+11. **push** : (v) đẩy /pʊʃ/
 
 1\. Đó là một môn thể thao đơn giản. Các đối thủ lăn một miếng pho mát lớn hình tròn từ trên đỉnh đồi. Đối thủ cạnh tranh chạy theo và cố gắng bắt lấy nó. Rất ít người có thể bắt được nó vì nó đi rất nhanh, khoảng 112 km một giờ.
 

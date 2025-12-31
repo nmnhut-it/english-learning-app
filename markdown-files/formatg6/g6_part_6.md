@@ -3,31 +3,31 @@
 ## GETTING STARTED   
 **Vocabulary** 
 
-1. advice: (n) lời khuyên, lời góp ý /ədˈvaɪs/  
-2. amount: (n) số lượng, lượng /əˈmaʊnt/  
-3. another: (adj) khác, một cái khác nữa /əˈnʌðə/  
-4. break: (v) làm vỡ, làm gãy, phá vỡ /breɪk/  
+1. **advice** : (n) lời khuyên, lời góp ý /ədˈvaɪs/
+2. **amount** : (n) số lượng, lượng /əˈmaʊnt/
+3. **another** : (adj) khác, một cái khác nữa /əˈnʌðə/
+4. **break** : (v) làm vỡ, làm gãy, phá vỡ /breɪk/
    (dạng bất quy tắc: break-broke-broken)  
-5. celebrate: (v) kỷ niệm, tổ chức mừng /ˈselɪbreɪt/  
-6. do: (v) làm /duː/  
+5. **celebrate** : (v) kỷ niệm, tổ chức mừng /ˈselɪbreɪt/
+6. **do** : (v) làm /duː/
    (dạng bất quy tắc: do-did-done)  
-7. email: (n) thư điện tử; (v) gửi thư điện tử /ˈiːmeɪl/  
-8. gathering: (n) cuộc tụ họp, sự tập trung /ˈɡæðərɪŋ/  
-9. get: (v) có được, nhận được, đạt được /ɡet/  
+7. **email** : (n) thư điện tử; (v) gửi thư điện tử /ˈiːmeɪl/
+8. **gathering** : (n) cuộc tụ họp, sự tập trung /ˈɡæðərɪŋ/
+9. **get** : (v) có được, nhận được, đạt được /ɡet/
    (dạng bất quy tắc: get-got-gotten/got)  
-10. good: (adj) tốt, hay, giỏi /ɡʊd/  
-11. include: (v) bao gồm, chứa đựng /ɪnˈkluːd/  
-12. lucky: (adj) may mắn, gặp may /ˈlʌki/  
-13. money: (n) tiền, tiền bạc /ˈmʌni/  
-14. practice: (n) sự thực hành, việc luyện tập; (v) thực hành, luyện tập /ˈpræktɪs/  
-15. preparation: (n) sự chuẩn bị, việc chuẩn bị /ˌprepəˈreɪʃn/  
-16. should: (modal v) nên /ʃʊd/  
-17. start: (v) bắt đầu, khởi động /stɑːt/  
-18. they: (pron) họ, chúng, những cái đó /ðeɪ/  
-19. thing: (n) vật, đồ vật, sự việc /θɪŋ/  
-20. time: (n) thời gian; (v) tính giờ, định giờ /taɪm/  
-21. when: (adv) khi nào; (conj) khi, lúc /wen/  
-22. wish: (n) điều ước, sự mong muốn; (v) ước, mong muốn /wɪʃ/
+10. **good** : (adj) tốt, hay, giỏi /ɡʊd/
+11. **include** : (v) bao gồm, chứa đựng /ɪnˈkluːd/
+12. **lucky** : (adj) may mắn, gặp may /ˈlʌki/
+13. **money** : (n) tiền, tiền bạc /ˈmʌni/
+14. **practice** : (n) sự thực hành, việc luyện tập; (v) thực hành, luyện tập /ˈpræktɪs/
+15. **preparation** : (n) sự chuẩn bị, việc chuẩn bị /ˌprepəˈreɪʃn/
+16. **should** : (modal v) nên /ʃʊd/
+17. **start** : (v) bắt đầu, khởi động /stɑːt/
+18. **they** : (pron) họ, chúng, những cái đó /ðeɪ/
+19. **thing** : (n) vật, đồ vật, sự việc /θɪŋ/
+20. **time** : (n) thời gian; (v) tính giờ, định giờ /taɪm/
+21. **when** : (adv) khi nào; (conj) khi, lúc /wen/
+22. **wish** : (n) điều ước, sự mong muốn; (v) ước, mong muốn /wɪʃ/
 
 **Linda**: Phong, Việt Nam có mừng Năm Mới không?  
 **Phong**: Vâng, chúng tôi có. Chúng tôi có Tết.  
@@ -58,48 +58,48 @@ Linda và Phong đang nói về cái gì?
 
 **Bài 4 trang 59** 
 
-1. peach flowers: hoa đào   
-2. lucky money: tiền lì xì   
+1. **peach flowers** : hoa đào
+2. **lucky money** : tiền lì xì
 3. bánh chưng and bánh tét   
-4. family gathering: đoàn tụ gia đình 
+4. **family gathering** : đoàn tụ gia đình
 
 **A CLOSER LOOK 1**   
 **Vocabulary** 
 
-1. cheek: (n) má, gò má /tʃiːk/  
-2. come \- came \- come: (v) đến, tới /kʌm \- keɪm \- kʌm/  
-3. cook: (v) nấu, nấu ăn; (n) đầu bếp /kʊk/  
-4. firework: (n) pháo hoa, pháo bông /ˈfaɪəwɜːk/  
-5. help: (v) giúp đỡ, trợ giúp; (n) sự giúp đỡ /help/  
-6. look: (v) nhìn, xem; (n) cái nhìn /lʊk/  
-7. pay \- paid \- paid: (v) trả tiền, thanh toán /peɪ \- peɪd \- peɪd/  
-8. poem: (n) bài thơ /ˈpəʊɪm/  
-9. relative: (n) họ hàng, người thân /ˈrelətɪv/  
-10. repeat: (v) lặp lại, nhắc lại /rɪˈpiːt/  
-11. rice: (n) gạo, cơm /raɪs/  
-12. sell \- sold \- sold: (v) bán /sel \- səʊld \- səʊld/  
-13. shine \- shone \- shone: (v) chiếu sáng, tỏa sáng /ʃaɪn \- ʃɒn \- ʃɒn/  
-14. smile: (v) mỉm cười; (n) nụ cười /smaɪl/  
-15. spring \- sprang/sprung \- sprung: (n) mùa xuân; (v) nhảy, bật lên /sprɪŋ \- spræŋ/sprʌŋ \- sprʌŋ/  
-16. usually: (adv) thường thường, thường xuyên /ˈjuːʒuəli/  
-17. watch: (v) xem, theo dõi; (n) đồng hồ đeo tay /wɒtʃ/
+1. **cheek** : (n) má, gò má /tʃiːk/
+2. **come \- came \- come** : (v) đến, tới /kʌm \- keɪm \- kʌm/
+3. **cook** : (v) nấu, nấu ăn; (n) đầu bếp /kʊk/
+4. **firework** : (n) pháo hoa, pháo bông /ˈfaɪəwɜːk/
+5. **help** : (v) giúp đỡ, trợ giúp; (n) sự giúp đỡ /help/
+6. **look** : (v) nhìn, xem; (n) cái nhìn /lʊk/
+7. **pay \- paid \- paid** : (v) trả tiền, thanh toán /peɪ \- peɪd \- peɪd/
+8. **poem** : (n) bài thơ /ˈpəʊɪm/
+9. **relative** : (n) họ hàng, người thân /ˈrelətɪv/
+10. **repeat** : (v) lặp lại, nhắc lại /rɪˈpiːt/
+11. **rice** : (n) gạo, cơm /raɪs/
+12. **sell \- sold \- sold** : (v) bán /sel \- səʊld \- səʊld/
+13. **shine \- shone \- shone** : (v) chiếu sáng, tỏa sáng /ʃaɪn \- ʃɒn \- ʃɒn/
+14. **smile** : (v) mỉm cười; (n) nụ cười /smaɪl/
+15. **spring \- sprang/sprung \- sprung** : (n) mùa xuân; (v) nhảy, bật lên /sprɪŋ \- spræŋ/sprʌŋ \- sprʌŋ/
+16. **usually** : (adv) thường thường, thường xuyên /ˈjuːʒuəli/
+17. **watch** : (v) xem, theo dõi; (n) đồng hồ đeo tay /wɒtʃ/
 
 **Bài 1 trang 60** 
 
-1. fireworks: pháo hoa   
-2. special food: thức ăn đặc biệt  
-3. fun: vui /phân/   
-4. wish: ước   
-5. furniture: đồ nội thất 
+1. **fireworks** : pháo hoa
+2. **special food** : thức ăn đặc biệt
+3. **fun** : vui /phân/
+4. **wish** : ước
+5. **furniture** : đồ nội thất
 
 **Bài 2 trang 60** 
 
-1. have fun: có cuộc vui  
-2. visit relatives: thăm họ hàng   
-3. give lucky money: tặng tiền lì xì   
-4. make a wish: ước   
-5. clean the furniture: lau dọn đồ nội thất   
-6. watch firework: xem pháo hoa 
+1. **have fun** : có cuộc vui
+2. **visit relatives** : thăm họ hàng
+3. **give lucky money** : tặng tiền lì xì
+4. **make a wish** : ước
+5. **clean the furniture** : lau dọn đồ nội thất
+6. **watch firework** : xem pháo hoa
 
 **Bài 3 trang 60** 
 
@@ -139,14 +139,14 @@ shouldn’t \+ V0: không nên
 **Bài 2: Đánh dấu tick và dấu x vào những thứ trẻ con nên làm và không nên làm vào dịp Tết**  
 **Vocabulary** 
 
-1. behave well: cư xử tốt, ngoan ngoãn /bɪˈheɪv wel/  
-2. go out with friends: đi chơi với bạn bè /ɡəʊ aʊt wɪð frendz/  
-3. fight \- fought \- fought: (v) đánh nhau, chiến đấu, tranh cãi /faɪt \- fɔːt \- fɔːt/  
-4. eat \- ate \- eaten: (v) ăn /iːt \- et \- ˈiːtn/  
-5. help with housework: giúp việc nhà /help wɪð ˈhaʊswɜːk/
+1. **behave well** : cư xử tốt, ngoan ngoãn /bɪˈheɪv wel/
+2. **go out with friends** : đi chơi với bạn bè /ɡəʊ aʊt wɪð frendz/
+3. **fight \- fought \- fought** : (v) đánh nhau, chiến đấu, tranh cãi /faɪt \- fɔːt \- fɔːt/
+4. **eat \- ate \- eaten** : (v) ăn /iːt \- et \- ˈiːtn/
+5. **help with housework** : giúp việc nhà /help wɪð ˈhaʊswɜːk/
 
 1. We should behave well.  
-2. We shouldn’t eat lots of sweets: Chúng ta không nên ăn nhiều kẹo  
+2. **We shouldn’t eat lots of sweets** : Chúng ta không nên ăn nhiều kẹo
 3. We should plant trees   
 4. We should break things   
 5. We should go out with friends  
@@ -186,22 +186,22 @@ nếu some và any đi kèm danh từ đếm được thì danh từ đó phải
 **Everyday English**   
 **Vocabulary:** 
 
-1. Times Square: Quảng trường Thời đại /taɪmz skweə/  
-2. bathe in an ice hole: tắm trong hố băng /beɪð ɪn ən aɪs həʊl/  
-3. eat mochi rice cakes: ăn bánh gạo mochi /iːt ˈməʊtʃi raɪs keɪks/  
-4. throw water on other people: té nước lên người khác /θrəʊ ˈwɔːtər ɒn ˈʌðə ˈpiːpl/  
-5. temple: (n) đền, chùa /ˈtempl/  
-6. ring bells: (v) rung chuông /rɪŋ belz/  
-7. 108 times: 108 lần /wʌn ˈhʌndrəd ænd eɪt taɪmz/  
-8. by doing so: bằng cách làm như vậy /baɪ ˈduːɪŋ səʊ/  
-9. believe: (v) tin, tin tưởng /bɪˈliːv/  
-10. things of the past: những điều thuộc về quá khứ /θɪŋz əv ðə pɑːst/  
-11. Spain: (n) Tây Ban Nha /speɪn/  
-12. Switzerland: (n) Thụy Sĩ /ˈswɪtsələnd/  
-13. drop ice cream on the floor: làm rơi kem xuống sàn /drɒp aɪs kriːm ɒn ðə flɔː/  
-14. throw coins into a river: ném tiền xu xuống sông /θrəʊ kɔɪnz ˈɪntə ə ˈrɪvə/  
-15. grapes: (n) nho /ɡreɪps/  
-16. wash away bad luck: xua đuổi vận xui /wɒʃ əˈweɪ bæd lʌk/  
+1. **Times Square** : Quảng trường Thời đại /taɪmz skweə/
+2. **bathe in an ice hole** : tắm trong hố băng /beɪð ɪn ən aɪs həʊl/
+3. **eat mochi rice cakes** : ăn bánh gạo mochi /iːt ˈməʊtʃi raɪs keɪks/
+4. **throw water on other people** : té nước lên người khác /θrəʊ ˈwɔːtər ɒn ˈʌðə ˈpiːpl/
+5. **temple** : (n) đền, chùa /ˈtempl/
+6. **ring bells** : (v) rung chuông /rɪŋ belz/
+7. **108 times** : 108 lần /wʌn ˈhʌndrəd ænd eɪt taɪmz/
+8. **by doing so** : bằng cách làm như vậy /baɪ ˈduːɪŋ səʊ/
+9. **believe** : (v) tin, tin tưởng /bɪˈliːv/
+10. **things of the past** : những điều thuộc về quá khứ /θɪŋz əv ðə pɑːst/
+11. **Spain** : (n) Tây Ban Nha /speɪn/
+12. **Switzerland** : (n) Thụy Sĩ /ˈswɪtsələnd/
+13. **drop ice cream on the floor** : làm rơi kem xuống sàn /drɒp aɪs kriːm ɒn ðə flɔː/
+14. **throw coins into a river** : ném tiền xu xuống sông /θrəʊ kɔɪnz ˈɪntə ə ˈrɪvə/
+15. **grapes** : (n) nho /ɡreɪps/
+16. **wash away bad luck** : xua đuổi vận xui /wɒʃ əˈweɪ bæd lʌk/
     **Bài 2 trang 63: Hãy nói những lời chúc Tết**   
     Wishing you happy days from January to December   
     May you have a year full of fun   
@@ -241,55 +241,55 @@ Ball: ngoài nghĩa là trái banh, Ball còn nghĩa là vũ hội (hội khiêu
 **Reading**   
 **Vocabulary**  
 
-1. animal: (n) con vật, động vật /ˈænɪməl/  
-2. appear: (v) xuất hiện, hiện ra /əˈpɪə/  
-3. beautifully: (adv) một cách đẹp đẽ /ˈbjuːtɪfəli/  
-4. buy: (v) mua /baɪ/  
-5. cheer: (v) reo hò, cổ vũ /tʃɪə/  
-6. clock: (n) đồng hồ /klɒk/  
-7. colourful: (adj) đầy màu sắc, rực rỡ /ˈkʌləfʊl/  
-8. cry: (n) tiếng kêu /kraɪ/  
-9. custom: (n) phong tục, tập quán /ˈkʌstəm/  
-10. day: (n) ngày /deɪ/  
-11. decorate: (v) trang trí /ˈdekəreɪt/  
-12. decorating: (n) việc trang trí /ˈdekəreɪtɪŋ/  
-13. dress: (v) mặc quần áo /dres/  
-14. enough: (adj) đủ /ɪˈnʌf/  
-15. firework: (n) pháo hoa /ˈfaɪəwɜːk/  
-16. food: (n) thức ăn /fuːd/  
-17. fun: (n) niềm vui /fʌn/  
-18. a day full of fun: một ngày đầy niềm vui  
-19. give: (v) cho, tặng /ɡɪv/  
-20. go out: đi ra ngoài  
-21. go to: đi đến  
-22. grandparent: (n) ông bà /ˈɡrænpeərənt/  
-23. grandparents' house: nhà ông bà  
-24. happy: (adj) vui vẻ, hạnh phúc /ˈhæpi/  
-25. Happy New Year: Chúc mừng năm mới  
-26. house: (n) nhà /haʊs/  
-27. learn: (v) học /lɜːn/  
-28. light: (v) thắp sáng /laɪt/  
-29. light up: thắp sáng lên  
-30. lucky: (adj) may mắn /ˈlʌki/  
-31. lucky money: tiền mừng tuổi  
-32. lucky animal: con vật may mắn  
-33. money: (n) tiền /ˈmʌni/  
-34. parent: (n) bố mẹ /ˈpeərənt/  
-35. people: (n) người, mọi người /ˈpiːpl/  
-36. relative: (n) họ hàng /ˈrelətɪv/  
-37. poor: (adj) nghèo /pɔː/  
-38. rice: (n) gạo, cơm /raɪs/  
-39. sing: (v) hát /sɪŋ/  
-40. sky: (n) bầu trời /skaɪ/  
-41. sound: (v) nghe có vẻ /saʊnd/  
-42. sounds like: nghe giống như  
-43. square: (n) quảng trường /skweə/  
-44. welcome: (v) chào đón /ˈwelkəm/  
-45. wish: (v) chúc, ước /wɪʃ/  
-46. wish for: ước điều gì đó  
-47. say wishes: nói lời chúc  
-48. year: (n) năm /jɪə/  
-49. New Year's Day: ngày đầu năm mới  
+1. **animal** : (n) con vật, động vật /ˈænɪməl/
+2. **appear** : (v) xuất hiện, hiện ra /əˈpɪə/
+3. **beautifully** : (adv) một cách đẹp đẽ /ˈbjuːtɪfəli/
+4. **buy** : (v) mua /baɪ/
+5. **cheer** : (v) reo hò, cổ vũ /tʃɪə/
+6. **clock** : (n) đồng hồ /klɒk/
+7. **colourful** : (adj) đầy màu sắc, rực rỡ /ˈkʌləfʊl/
+8. **cry** : (n) tiếng kêu /kraɪ/
+9. **custom** : (n) phong tục, tập quán /ˈkʌstəm/
+10. **day** : (n) ngày /deɪ/
+11. **decorate** : (v) trang trí /ˈdekəreɪt/
+12. **decorating** : (n) việc trang trí /ˈdekəreɪtɪŋ/
+13. **dress** : (v) mặc quần áo /dres/
+14. **enough** : (adj) đủ /ɪˈnʌf/
+15. **firework** : (n) pháo hoa /ˈfaɪəwɜːk/
+16. **food** : (n) thức ăn /fuːd/
+17. **fun** : (n) niềm vui /fʌn/
+18. **a day full of fun** : một ngày đầy niềm vui
+19. **give** : (v) cho, tặng /ɡɪv/
+20. **go out** : đi ra ngoài
+21. **go to** : đi đến
+22. **grandparent** : (n) ông bà /ˈɡrænpeərənt/
+23. **grandparents' house** : nhà ông bà
+24. **happy** : (adj) vui vẻ, hạnh phúc /ˈhæpi/
+25. **Happy New Year** : Chúc mừng năm mới
+26. **house** : (n) nhà /haʊs/
+27. **learn** : (v) học /lɜːn/
+28. **light** : (v) thắp sáng /laɪt/
+29. **light up** : thắp sáng lên
+30. **lucky** : (adj) may mắn /ˈlʌki/
+31. **lucky money** : tiền mừng tuổi
+32. **lucky animal** : con vật may mắn
+33. **money** : (n) tiền /ˈmʌni/
+34. **parent** : (n) bố mẹ /ˈpeərənt/
+35. **people** : (n) người, mọi người /ˈpiːpl/
+36. **relative** : (n) họ hàng /ˈrelətɪv/
+37. **poor** : (adj) nghèo /pɔː/
+38. **rice** : (n) gạo, cơm /raɪs/
+39. **sing** : (v) hát /sɪŋ/
+40. **sky** : (n) bầu trời /skaɪ/
+41. **sound** : (v) nghe có vẻ /saʊnd/
+42. **sounds like** : nghe giống như
+43. **square** : (n) quảng trường /skweə/
+44. **welcome** : (v) chào đón /ˈwelkəm/
+45. **wish** : (v) chúc, ước /wɪʃ/
+46. **wish for** : ước điều gì đó
+47. **say wishes** : nói lời chúc
+48. **year** : (n) năm /jɪə/
+49. **New Year's Day** : ngày đầu năm mới
     **Bài 1 trang 64: Ai đã nói những câu nào?**   
     Russ – Mỹ: Tôi thường cùng bố mẹ đến Quảng trường Thời đại để đón năm mới. Khi đồng hồ điểm nửa đêm, những chùm pháo hoa đầy màu sắc thắp sáng bầu trời. Mọi người cổ vũ và hát.  
       
@@ -394,12 +394,12 @@ Nguyen
 **LOOKING BACK**  
 **Bài 1 trang 66** 
 
-1. give lucky money: tặng tiền lì xì   
-2. cook special food: nấu đồ ăn đặc biệt   
-3. plant trees: trồng cây   
-4. make a wish: ước   
-5. watch fireworks: xem pháo hoa  
-6. break things: làm bể đồ 
+1. **give lucky money** : tặng tiền lì xì
+2. **cook special food** : nấu đồ ăn đặc biệt
+3. **plant trees** : trồng cây
+4. **make a wish** : ước
+5. **watch fireworks** : xem pháo hoa
+6. **break things** : làm bể đồ
 
 **Bài 2 trang 66** 
 
@@ -442,14 +442,14 @@ Nguyen
 5\. C   
 **Bài 2 trang 68** 
 
-1. small: nhỏ  
-2. sad: buồn  
-3. hot: nóng  
-4. noisy: ồn ào  
-5. short: ngắn  
-6. cheap: rẻ  
-7. low: thấp  
-8. boring: nhàm chán 
+1. **small** : nhỏ
+2. **sad** : buồn
+3. **hot** : nóng
+4. **noisy** : ồn ào
+5. **short** : ngắn
+6. **cheap** : rẻ
+7. **low** : thấp
+8. **boring** : nhàm chán
 
 **Bài 3 trang 68** 
 
@@ -463,7 +463,7 @@ Nguyen
 
 1. B   
 2. C   
-3. C: phải   
+3. **C** : phải
 4. A   
 5. A 
 
@@ -478,18 +478,18 @@ Nguyen
 **SKILLS**   
 **Vocabulary**  
 
-1. visit: (v) thăm, viếng thăm /ˈvɪzɪt/  
-2. cycling: (n) môn đạp xe; (v) đạp xe /ˈsaɪklɪŋ/  
-3. boating: (n) hoạt động đi thuyền; (v) đi thuyền /ˈbəʊtɪŋ/  
-4. in real life: trong đời thực, trong thực tế /ɪn rɪəl laɪf/  
-5. try their food: thử thức ăn của họ /traɪ ðeə fuːd/  
-6. buy souvenirs: mua quà lưu niệm /baɪ ˌsuːvəˈnɪəz/  
-7. attract a lot of visitors: thu hút nhiều khách tham quan /əˈtrækt ə lɒt əv ˈvɪzɪtəz/  
-8. looking for exciting activities: tìm kiếm các hoạt động thú vị /ˈlʊkɪŋ fər ɪkˈsaɪtɪŋ ækˈtɪvɪtiz/  
-9. children: (n) trẻ em, con cái /ˈtʃɪldrən/  
-10. adult: (n) người lớn; (adj) trưởng thành /ˈædʌlt/  
-11. get \- got \- gotten: (v) trở nên /ɡet \- ɡɒt \- ˈɡɒtn/  
-12. bored: (adj) chán nản, buồn chán /bɔːd/
+1. **visit** : (v) thăm, viếng thăm /ˈvɪzɪt/
+2. **cycling** : (n) môn đạp xe; (v) đạp xe /ˈsaɪklɪŋ/
+3. **boating** : (n) hoạt động đi thuyền; (v) đi thuyền /ˈbəʊtɪŋ/
+4. **in real life** : trong đời thực, trong thực tế /ɪn rɪəl laɪf/
+5. **try their food** : thử thức ăn của họ /traɪ ðeə fuːd/
+6. **buy souvenirs** : mua quà lưu niệm /baɪ ˌsuːvəˈnɪəz/
+7. **attract a lot of visitors** : thu hút nhiều khách tham quan /əˈtrækt ə lɒt əv ˈvɪzɪtəz/
+8. **looking for exciting activities** : tìm kiếm các hoạt động thú vị /ˈlʊkɪŋ fər ɪkˈsaɪtɪŋ ækˈtɪvɪtiz/
+9. **children** : (n) trẻ em, con cái /ˈtʃɪldrən/
+10. **adult** : (n) người lớn; (adj) trưởng thành /ˈædʌlt/
+11. **get \- got \- gotten** : (v) trở nên /ɡet \- ɡɒt \- ˈɡɒtn/
+12. **bored** : (adj) chán nản, buồn chán /bɔːd/
 
 Có nhiều công viên ở trong đất nước này. Bạn có thể thăm chúng, và thưởng thức những cây và hoa đẹp, hoặc thực hiện những hoạt động ngoài trời. Bạn cũng có thể đi tới sở thú thú để xem những con vật ngoài đời thực.   
 Đi tới những nơi như Chinatown và Little India để học về những con người và văn hóa Trung Quốc và Ấn Độ. Ở đó bạn có thể xem cách họ sống, thử đồ ăn của họ và mua đồ lưu niệm. Cũng có những lễ hội nữa. Chúng thu hút nhiều khách du lịch.   

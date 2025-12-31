@@ -4,14 +4,14 @@
 
 **Vocabulary** 
 
-1. I'm not sure about it: tôi không chắc chắn về điều đó /aɪm nɒt ʃʊə əˈbaʊt ɪt/  
-2. Do you think Mars may support life?: bạn có nghĩ rằng sao Hỏa hỗ trợ sự sống không? /duː juː θɪŋk mɑːz səˈpɔːt laɪf/   
-3. I doubt it: (tôi) nghi ngờ điều đó /aɪ daʊt ɪt/  
-4. get a good mark: đạt được điểm số tốt /ɡet ə ɡʊd mɑːk/  
-5. stormy: (adj) có bão, giông bão /ˈstɔːmi/  
-6. atmosphere: (n) khí quyển, bầu không khí /ˈætməsfɪə/  
+1. **I'm not sure about it** : tôi không chắc chắn về điều đó /aɪm nɒt ʃʊə əˈbaʊt ɪt/
+2. **Do you think Mars may support life?** : bạn có nghĩ rằng sao Hỏa hỗ trợ sự sống không? /duː juː θɪŋk mɑːz səˈpɔːt laɪf/
+3. **I doubt it** : (tôi) nghi ngờ điều đó /aɪ daʊt ɪt/
+4. **get a good mark** : đạt được điểm số tốt /ɡet ə ɡʊd mɑːk/
+5. **stormy** : (adj) có bão, giông bão /ˈstɔːmi/
+6. **atmosphere** : (n) khí quyển, bầu không khí /ˈætməsfɪə/
 7. the morning star: sao Mai (sao Kim khi xuất hiện vào buổi sáng) /ðə ˈmɔːnɪŋ stɑː/  
-8. similar: (adj) giống nhau, tương tự /ˈsɪmɪlə/
+8. **similar** : (adj) giống nhau, tương tự /ˈsɪmɪlə/
 
 **Bài 2 trang 129** 
 

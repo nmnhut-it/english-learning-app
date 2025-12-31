@@ -208,22 +208,22 @@ An introduction to pottery making by artisans from Bau Truc pottery village.
 **Key vocabulary from Units 4-5-6:**
 
 **Unit 4: Ethnic Groups of Viet Nam**
-- **ethnic minority** : (n) dân tộc thiểu số /ˈeθnɪk maɪˈnɒrəti/
-- **tradition** : (n) truyền thống /trəˈdɪʃn/
-- **custom** : (n) phong tục /ˈkʌstəm/
-- **stilt house** : (n) nhà sàn /stɪlt haʊs/
-- **folk games** : (n) trò chơi dân gian /fəʊk ɡeɪmz/
+1. **ethnic minority** : (n) dân tộc thiểu số /ˈeθnɪk maɪˈnɒrəti/
+2. **tradition** : (n) truyền thống /trəˈdɪʃn/
+3. **custom** : (n) phong tục /ˈkʌstəm/
+4. **stilt house** : (n) nhà sàn /stɪlt haʊs/
+5. **folk games** : (n) trò chơi dân gian /fəʊk ɡeɪmz/
 
 **Unit 5: Our Customs and Traditions**
-- **preserve** : (v) bảo tồn /prɪˈzɜːv/
-- **maintain** : (v) duy trì /meɪnˈteɪn/
-- **ornamental** : (adj) trang trí /ˌɔːnəˈmentl/
-- **festival** : (n) lễ hội /ˈfestɪvl/
-- **pottery** : (n) đồ gốm /ˈpɒtəri/
+6. **preserve** : (v) bảo tồn /prɪˈzɜːv/
+7. **maintain** : (v) duy trì /meɪnˈteɪn/
+8. **ornamental** : (adj) trang trí /ˌɔːnəˈmentl/
+9. **festival** : (n) lễ hội /ˈfestɪvl/
+10. **pottery** : (n) đồ gốm /ˈpɒtəri/
 
 **Unit 6: Lifestyles**
-- **lifestyle** : (n) lối sống /ˈlaɪfstaɪl/
-- **habit** : (n) thói quen /ˈhæbɪt/
-- **facilities** : (n) cơ sở vật chất /fəˈsɪlətiz/
-- **well-paid** : (adj) lương cao /wel peɪd/
-- **countryside** : (n) nông thôn /ˈkʌntrisaɪd/
+11. **lifestyle** : (n) lối sống /ˈlaɪfstaɪl/
+12. **habit** : (n) thói quen /ˈhæbɪt/
+13. **facilities** : (n) cơ sở vật chất /fəˈsɪlətiz/
+14. **well-paid** : (adj) lương cao /wel peɪd/
+15. **countryside** : (n) nông thôn /ˈkʌntrisaɪd/

@@ -5,21 +5,21 @@
 
 ### New words
 
-1. upload: (v) tải lên /ˌʌpˈləʊd/
-2. global warming: (n.phr) sự nóng lên toàn cầu /ˈɡləʊbl ˈwɔːmɪŋ/
-3. take notes: (v.phr) ghi chú /teɪk nəʊts/
-4. original: (adj) ban đầu, sáng tạo /əˈrɪdʒənl/
-5. prepare: (v) chuẩn bị /prɪˈpeə/
-6. material: (n) tài liệu /məˈtɪəriəl/
-7. control: (n, v) kiểm soát /kənˈtrəʊl/
-8. traditional: (adj) truyền thống /trəˈdɪʃənl/
-9. geography: (n) địa lý /dʒiˈɒɡrəfi/
-10. discuss: (v) thảo luận /dɪˈskʌs/
-11. topic: (n) chủ đề /ˈtɒpɪk/
-12. prefer: (v) thích hơn /prɪˈfɜː/
-13. project: (n) dự án /ˈprɒdʒekt/
-14. method: (n) phương pháp /ˈmeθəd/
-15. useful: (adj) hữu ích /ˈjuːsfl/
+1. **upload** : (v) tải lên /ˌʌpˈləʊd/
+2. **global warming** : (n.phr) sự nóng lên toàn cầu /ˈɡləʊbl ˈwɔːmɪŋ/
+3. **take notes** : (v.phr) ghi chú /teɪk nəʊts/
+4. **original** : (adj) ban đầu, sáng tạo /əˈrɪdʒənl/
+5. **prepare** : (v) chuẩn bị /prɪˈpeə/
+6. **material** : (n) tài liệu /məˈtɪəriəl/
+7. **control** : (n, v) kiểm soát /kənˈtrəʊl/
+8. **traditional** : (adj) truyền thống /trəˈdɪʃənl/
+9. **geography** : (n) địa lý /dʒiˈɒɡrəfi/
+10. **discuss** : (v) thảo luận /dɪˈskʌs/
+11. **topic** : (n) chủ đề /ˈtɒpɪk/
+12. **prefer** : (v) thích hơn /prɪˈfɜː/
+13. **project** : (n) dự án /ˈprɒdʒekt/
+14. **method** : (n) phương pháp /ˈmeθəd/
+15. **useful** : (adj) hữu ích /ˈjuːsfl/
 
 ---
 
@@ -181,28 +181,28 @@
 
 ## Vocabulary (Từ vựng)
 
-1. upload: (v) tải lên /ˌʌpˈləʊd/
-2. geography: (n) địa lý /dʒiˈɒɡrəfi/
-3. global warming: (n.phr) sự nóng lên toàn cầu /ˈɡləʊbl ˈwɔːmɪŋ/
-4. topic: (n) chủ đề /ˈtɒpɪk/
-5. discuss: (v) thảo luận /dɪˈskʌs/
-6. take notes: (v.phr) ghi chú /teɪk nəʊts/
-7. prefer: (v) thích hơn /prɪˈfɜː/
-8. original: (adj) ban đầu, sáng tạo /əˈrɪdʒənl/
-9. prepare: (v) chuẩn bị /prɪˈpeə/
-10. material: (n) tài liệu /məˈtɪəriəl/
-11. project: (n) dự án /ˈprɒdʒekt/
-12. control: (n, v) kiểm soát /kənˈtrəʊl/
-13. traditional: (adj) truyền thống /trəˈdɪʃənl/
-14. method: (n) phương pháp /ˈmeθəd/
-15. work in groups: (v.phr) làm việc theo nhóm /wɜːk ɪn ɡruːps/
-16. search for: (v.phr) tìm kiếm /sɜːtʃ fɔː/
-17. way of learning: (n.phr) cách học /weɪ əv ˈlɜːnɪŋ/
-18. useful: (adj) hữu ích /ˈjuːsfl/
-19. lucky: (adj) may mắn /ˈlʌki/
-20. wish: (v) ước /wɪʃ/
-21. activity: (n) hoạt động /ækˈtɪvəti/
-22. homework: (n) bài tập về nhà /ˈhəʊmwɜːk/
-23. classmate: (n) bạn cùng lớp /ˈklɑːsmeɪt/
-24. understand: (v) hiểu /ˌʌndəˈstænd/
-25. lesson: (n) bài học /ˈlesn/
+1. **upload** : (v) tải lên /ˌʌpˈləʊd/
+2. **geography** : (n) địa lý /dʒiˈɒɡrəfi/
+3. **global warming** : (n.phr) sự nóng lên toàn cầu /ˈɡləʊbl ˈwɔːmɪŋ/
+4. **topic** : (n) chủ đề /ˈtɒpɪk/
+5. **discuss** : (v) thảo luận /dɪˈskʌs/
+6. **take notes** : (v.phr) ghi chú /teɪk nəʊts/
+7. **prefer** : (v) thích hơn /prɪˈfɜː/
+8. **original** : (adj) ban đầu, sáng tạo /əˈrɪdʒənl/
+9. **prepare** : (v) chuẩn bị /prɪˈpeə/
+10. **material** : (n) tài liệu /məˈtɪəriəl/
+11. **project** : (n) dự án /ˈprɒdʒekt/
+12. **control** : (n, v) kiểm soát /kənˈtrəʊl/
+13. **traditional** : (adj) truyền thống /trəˈdɪʃənl/
+14. **method** : (n) phương pháp /ˈmeθəd/
+15. **work in groups** : (v.phr) làm việc theo nhóm /wɜːk ɪn ɡruːps/
+16. **search for** : (v.phr) tìm kiếm /sɜːtʃ fɔː/
+17. **way of learning** : (n.phr) cách học /weɪ əv ˈlɜːnɪŋ/
+18. **useful** : (adj) hữu ích /ˈjuːsfl/
+19. **lucky** : (adj) may mắn /ˈlʌki/
+20. **wish** : (v) ước /wɪʃ/
+21. **activity** : (n) hoạt động /ækˈtɪvəti/
+22. **homework** : (n) bài tập về nhà /ˈhəʊmwɜːk/
+23. **classmate** : (n) bạn cùng lớp /ˈklɑːsmeɪt/
+24. **understand** : (v) hiểu /ˌʌndəˈstænd/
+25. **lesson** : (n) bài học /ˈlesn/
