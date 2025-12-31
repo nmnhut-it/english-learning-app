@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "lastUpdated": "2024-12-31T00:00:00Z",
+    "totalLessons": 0,
+    "processedLessons": 0,
+    "pendingLessons": 0,
+    "failedLessons": 0
+  },
+  "grades": {
+    "6": { "status": "pending", "units": {} },
+    "7": { "status": "pending", "units": {} },
+    "8": { "status": "pending", "units": {} },
+    "9": { "status": "pending", "units": {} },
+    "10": { "status": "pending", "units": {} },
+    "11": { "status": "pending", "units": {} }
+  },
+  "processingQueue": [],
+  "history": []
+}
