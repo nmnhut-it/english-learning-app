@@ -1,0 +1,1286 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI Teacher - English Lesson</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: 'Segoe UI', system-ui, sans-serif;
+      background: #1a1a2e;
+      color: #eee;
+      min-height: 100vh;
+      overflow: hidden;
+    }
+
+    /* Setup Screen */
+    #setup-screen {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      padding: 2rem;
+    }
+
+    #setup-screen h1 {
+      font-size: 2.5rem;
+      margin-bottom: 2rem;
+      color: #00d9ff;
+    }
+
+    #setup-screen input {
+      width: 100%;
+      max-width: 500px;
+      padding: 1rem;
+      font-size: 1rem;
+      border: 2px solid #333;
+      border-radius: 8px;
+      background: #16213e;
+      color: #fff;
+      margin-bottom: 1rem;
+    }
+
+    #setup-screen button {
+      padding: 1rem 3rem;
+      font-size: 1.2rem;
+      background: #00d9ff;
+      color: #1a1a2e;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+      font-weight: bold;
+    }
+
+    #setup-screen button:hover {
+      background: #00b8d9;
+    }
+
+    .hint {
+      color: #888;
+      font-size: 0.9rem;
+      margin-top: 1rem;
+    }
+
+    /* Main Player */
+    #player {
+      display: none;
+      height: 100vh;
+      flex-direction: column;
+    }
+
+    /* Header */
+    #header {
+      background: #16213e;
+      padding: 1rem 2rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      border-bottom: 1px solid #333;
+    }
+
+    #lesson-title {
+      font-size: 1.2rem;
+      color: #00d9ff;
+    }
+
+    #progress {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+    }
+
+    #progress-bar {
+      width: 200px;
+      height: 6px;
+      background: #333;
+      border-radius: 3px;
+      overflow: hidden;
+    }
+
+    #progress-fill {
+      height: 100%;
+      background: linear-gradient(90deg, #00d9ff, #00ff88);
+      transition: width 0.3s;
+    }
+
+    #slide-counter {
+      color: #888;
+      font-size: 0.9rem;
+    }
+
+    /* Main Content Area */
+    #main-content {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      padding: 2rem;
+      overflow-y: auto;
+    }
+
+    /* Slide Container */
+    .slide {
+      max-width: 1000px;
+      width: 100%;
+      animation: fadeIn 0.4s ease;
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(20px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    /* Block Types Styling */
+    .block-header {
+      font-size: 0.85rem;
+      color: #00d9ff;
+      text-transform: uppercase;
+      letter-spacing: 2px;
+      margin-bottom: 1rem;
+    }
+
+    /* Teacher Script */
+    .teacher-script {
+      background: linear-gradient(135deg, #1e3a5f 0%, #16213e 100%);
+      border-left: 4px solid #00d9ff;
+      padding: 2rem;
+      border-radius: 0 12px 12px 0;
+      font-size: 1.4rem;
+      line-height: 1.8;
+    }
+
+    .teacher-script .concept {
+      color: #00d9ff;
+      font-weight: bold;
+      font-size: 1.6rem;
+      margin-bottom: 1rem;
+    }
+
+    .teacher-script .script-text {
+      color: #fff;
+    }
+
+    .teacher-script .examples {
+      margin-top: 1.5rem;
+      background: rgba(0, 0, 0, 0.2);
+      padding: 1rem;
+      border-radius: 8px;
+    }
+
+    .teacher-script .example {
+      margin: 0.5rem 0;
+    }
+
+    .teacher-script .example .en {
+      color: #00ff88;
+      font-size: 1.2rem;
+    }
+
+    .teacher-script .example .vi {
+      color: #888;
+      font-size: 1rem;
+    }
+
+    .teacher-script .key-points {
+      margin-top: 1.5rem;
+    }
+
+    .teacher-script .key-point {
+      background: rgba(0, 217, 255, 0.1);
+      padding: 0.5rem 1rem;
+      border-radius: 4px;
+      margin: 0.5rem 0;
+      border-left: 3px solid #00d9ff;
+    }
+
+    .teacher-script .warning {
+      background: rgba(255, 107, 107, 0.1);
+      border-left-color: #ff6b6b;
+    }
+
+    .wrong-right {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 1rem;
+      margin-top: 1rem;
+    }
+
+    .wrong {
+      background: rgba(255, 107, 107, 0.15);
+      padding: 1rem;
+      border-radius: 8px;
+      border: 1px solid #ff6b6b;
+    }
+
+    .wrong::before {
+      content: '❌ SAI';
+      display: block;
+      color: #ff6b6b;
+      font-weight: bold;
+      margin-bottom: 0.5rem;
+    }
+
+    .right {
+      background: rgba(0, 255, 136, 0.15);
+      padding: 1rem;
+      border-radius: 8px;
+      border: 1px solid #00ff88;
+    }
+
+    .right::before {
+      content: '✓ ĐÚNG';
+      display: block;
+      color: #00ff88;
+      font-weight: bold;
+      margin-bottom: 0.5rem;
+    }
+
+    /* Vocabulary */
+    .vocabulary-slide {
+      text-align: center;
+    }
+
+    .vocab-word {
+      font-size: 4rem;
+      color: #00ff88;
+      font-weight: bold;
+      margin-bottom: 0.5rem;
+    }
+
+    .vocab-pronunciation {
+      font-size: 1.5rem;
+      color: #888;
+      margin-bottom: 1rem;
+    }
+
+    .vocab-pos {
+      display: inline-block;
+      background: #00d9ff;
+      color: #1a1a2e;
+      padding: 0.25rem 0.75rem;
+      border-radius: 4px;
+      font-size: 0.9rem;
+      margin-bottom: 1rem;
+    }
+
+    .vocab-meaning {
+      font-size: 2rem;
+      color: #fff;
+      margin-bottom: 1.5rem;
+    }
+
+    .vocab-example {
+      background: rgba(0, 0, 0, 0.3);
+      padding: 1.5rem;
+      border-radius: 8px;
+      max-width: 600px;
+      margin: 0 auto;
+    }
+
+    .vocab-example .en {
+      font-size: 1.3rem;
+      color: #00ff88;
+      margin-bottom: 0.5rem;
+    }
+
+    .vocab-example .vi {
+      font-size: 1.1rem;
+      color: #888;
+    }
+
+    /* Dialogue */
+    .dialogue-slide {
+      max-width: 700px;
+    }
+
+    .dialogue-context {
+      color: #888;
+      font-style: italic;
+      margin-bottom: 1.5rem;
+      text-align: center;
+    }
+
+    .dialogue-line {
+      display: flex;
+      gap: 1rem;
+      margin-bottom: 1rem;
+      animation: slideIn 0.3s ease;
+    }
+
+    @keyframes slideIn {
+      from { opacity: 0; transform: translateX(-20px); }
+      to { opacity: 1; transform: translateX(0); }
+    }
+
+    .dialogue-line.speaker-b {
+      flex-direction: row-reverse;
+    }
+
+    .speaker-avatar {
+      width: 50px;
+      height: 50px;
+      border-radius: 50%;
+      background: linear-gradient(135deg, #00d9ff, #00ff88);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-weight: bold;
+      font-size: 1.2rem;
+      color: #1a1a2e;
+      flex-shrink: 0;
+    }
+
+    .speaker-b .speaker-avatar {
+      background: linear-gradient(135deg, #ff6b6b, #ffa502);
+    }
+
+    .dialogue-bubble {
+      background: #16213e;
+      padding: 1rem 1.5rem;
+      border-radius: 12px;
+      max-width: 80%;
+    }
+
+    .speaker-b .dialogue-bubble {
+      background: #2d3a4f;
+    }
+
+    .dialogue-text {
+      font-size: 1.3rem;
+      color: #fff;
+      margin-bottom: 0.5rem;
+    }
+
+    .dialogue-translation {
+      font-size: 1rem;
+      color: #888;
+    }
+
+    /* Exercise */
+    .exercise-slide {
+      text-align: center;
+    }
+
+    .exercise-instruction {
+      font-size: 1.2rem;
+      color: #00d9ff;
+      margin-bottom: 2rem;
+    }
+
+    .exercise-question {
+      font-size: 1.5rem;
+      color: #fff;
+      margin-bottom: 2rem;
+      background: rgba(0, 0, 0, 0.3);
+      padding: 1.5rem;
+      border-radius: 8px;
+    }
+
+    .exercise-options {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 1rem;
+      max-width: 600px;
+      margin: 0 auto;
+    }
+
+    .option-btn {
+      padding: 1rem;
+      font-size: 1.1rem;
+      background: #16213e;
+      border: 2px solid #333;
+      border-radius: 8px;
+      color: #fff;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+
+    .option-btn:hover {
+      border-color: #00d9ff;
+      background: #1e3a5f;
+    }
+
+    .option-btn.correct {
+      border-color: #00ff88;
+      background: rgba(0, 255, 136, 0.2);
+    }
+
+    .option-btn.incorrect {
+      border-color: #ff6b6b;
+      background: rgba(255, 107, 107, 0.2);
+    }
+
+    /* Grammar */
+    .grammar-slide {
+      text-align: center;
+    }
+
+    .grammar-topic {
+      font-size: 2rem;
+      color: #00d9ff;
+      margin-bottom: 0.5rem;
+    }
+
+    .grammar-topic-vi {
+      font-size: 1.2rem;
+      color: #888;
+      margin-bottom: 2rem;
+    }
+
+    .grammar-formula {
+      background: linear-gradient(135deg, #1e3a5f, #16213e);
+      padding: 2rem;
+      border-radius: 12px;
+      margin-bottom: 2rem;
+      font-family: 'Courier New', monospace;
+    }
+
+    .formula-line {
+      font-size: 1.3rem;
+      margin: 0.5rem 0;
+      color: #00ff88;
+    }
+
+    .formula-label {
+      color: #888;
+      font-size: 0.9rem;
+    }
+
+    /* Reading */
+    .reading-slide {
+      max-width: 800px;
+    }
+
+    .reading-title {
+      font-size: 1.8rem;
+      color: #00d9ff;
+      margin-bottom: 1.5rem;
+      text-align: center;
+    }
+
+    .reading-content {
+      font-size: 1.2rem;
+      line-height: 1.9;
+      color: #ddd;
+      background: rgba(0, 0, 0, 0.2);
+      padding: 2rem;
+      border-radius: 12px;
+    }
+
+    .reading-content .highlight {
+      background: rgba(0, 217, 255, 0.3);
+      padding: 0 4px;
+      border-radius: 2px;
+    }
+
+    /* Footer */
+    #footer {
+      background: #16213e;
+      padding: 1rem 2rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      border-top: 1px solid #333;
+    }
+
+    #teacher-status {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+
+    #teacher-status .dot {
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+      background: #00ff88;
+      animation: pulse 1.5s infinite;
+    }
+
+    @keyframes pulse {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.5; }
+    }
+
+    #teacher-status.speaking .dot {
+      background: #00d9ff;
+    }
+
+    #controls-hint {
+      color: #666;
+      font-size: 0.9rem;
+    }
+
+    #controls-hint kbd {
+      background: #333;
+      padding: 0.2rem 0.5rem;
+      border-radius: 4px;
+      margin: 0 0.25rem;
+    }
+
+    /* AI Response Area */
+    #ai-response {
+      position: fixed;
+      bottom: 80px;
+      left: 50%;
+      transform: translateX(-50%);
+      max-width: 800px;
+      width: 90%;
+      background: rgba(22, 33, 62, 0.95);
+      border: 1px solid #00d9ff;
+      border-radius: 12px;
+      padding: 1.5rem;
+      display: none;
+      animation: slideUp 0.3s ease;
+    }
+
+    @keyframes slideUp {
+      from { opacity: 0; transform: translateX(-50%) translateY(20px); }
+      to { opacity: 1; transform: translateX(-50%) translateY(0); }
+    }
+
+    #ai-response.visible {
+      display: block;
+    }
+
+    #ai-response-text {
+      font-size: 1.1rem;
+      line-height: 1.6;
+      color: #fff;
+    }
+
+    /* Loading */
+    .loading {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 1rem;
+    }
+
+    .spinner {
+      width: 50px;
+      height: 50px;
+      border: 4px solid #333;
+      border-top-color: #00d9ff;
+      border-radius: 50%;
+      animation: spin 1s linear infinite;
+    }
+
+    @keyframes spin {
+      to { transform: rotate(360deg); }
+    }
+
+    /* Summary slide */
+    .summary-slide .key-points-list {
+      list-style: none;
+      text-align: left;
+      max-width: 700px;
+      margin: 0 auto;
+    }
+
+    .summary-slide .key-points-list li {
+      background: rgba(0, 217, 255, 0.1);
+      padding: 1rem 1.5rem;
+      border-radius: 8px;
+      margin: 0.75rem 0;
+      font-size: 1.2rem;
+      border-left: 4px solid #00d9ff;
+    }
+  </style>
+</head>
+<body>
+  <!-- Setup Screen -->
+  <div id="setup-screen">
+    <h1>🎓 AI Teacher Player</h1>
+    <input type="password" id="api-key-input" placeholder="Gemini API Key (sẽ lưu vào localStorage)">
+    <button onclick="startPlayer()">Bắt đầu</button>
+    <p class="hint">Nhấn Enter để tiếp tục qua từng slide</p>
+    <p class="hint">URL: ?lesson=path/to/lesson.json</p>
+  </div>
+
+  <!-- Main Player -->
+  <div id="player">
+    <header id="header">
+      <div id="lesson-title">Loading...</div>
+      <div id="progress">
+        <div id="progress-bar">
+          <div id="progress-fill" style="width: 0%"></div>
+        </div>
+        <span id="slide-counter">0 / 0</span>
+      </div>
+    </header>
+
+    <main id="main-content">
+      <div class="loading">
+        <div class="spinner"></div>
+        <p>Đang tải bài học...</p>
+      </div>
+    </main>
+
+    <div id="ai-response">
+      <div id="ai-response-text"></div>
+    </div>
+
+    <footer id="footer">
+      <div id="teacher-status">
+        <span class="dot"></span>
+        <span>AI Teacher sẵn sàng</span>
+      </div>
+      <div id="controls-hint">
+        <kbd>Enter</kbd> Tiếp tục
+        <kbd>←</kbd><kbd>→</kbd> Di chuyển
+        <kbd>Space</kbd> AI giảng
+      </div>
+    </footer>
+  </div>
+
+  <script>
+    // ========== CONFIG ==========
+    const GEMINI_API_URL = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent';
+
+    // ========== STATE ==========
+    let lessonData = null;
+    let slides = [];
+    let currentSlideIndex = 0;
+    let apiKey = '';
+    let isAISpeaking = false;
+
+    // ========== INIT ==========
+    function init() {
+      // Check for saved API key
+      apiKey = localStorage.getItem('gemini_api_key') || '';
+      if (apiKey) {
+        document.getElementById('api-key-input').value = '••••••••••••';
+      }
+
+      // Check URL params
+      const params = new URLSearchParams(window.location.search);
+      const lessonPath = params.get('lesson');
+
+      if (lessonPath && apiKey) {
+        startPlayer();
+      }
+    }
+
+    async function startPlayer() {
+      const inputKey = document.getElementById('api-key-input').value;
+      if (inputKey && !inputKey.startsWith('••')) {
+        apiKey = inputKey;
+        localStorage.setItem('gemini_api_key', apiKey);
+      }
+
+      if (!apiKey) {
+        alert('Vui lòng nhập Gemini API Key');
+        return;
+      }
+
+      document.getElementById('setup-screen').style.display = 'none';
+      document.getElementById('player').style.display = 'flex';
+
+      // Load lesson
+      const params = new URLSearchParams(window.location.search);
+      const lessonPath = params.get('lesson');
+
+      if (lessonPath) {
+        await loadLesson(lessonPath);
+      } else {
+        // Demo mode
+        await loadDemoLesson();
+      }
+
+      setupKeyboardControls();
+    }
+
+    async function loadLesson(path) {
+      try {
+        const response = await fetch(path);
+        lessonData = await response.json();
+        processLesson();
+        renderCurrentSlide();
+      } catch (error) {
+        console.error('Error loading lesson:', error);
+        document.getElementById('main-content').innerHTML = `
+          <div class="slide">
+            <p style="color: #ff6b6b; font-size: 1.5rem;">
+              Không thể tải bài học: ${path}<br>
+              <small>${error.message}</small>
+            </p>
+          </div>
+        `;
+      }
+    }
+
+    async function loadDemoLesson() {
+      // Demo lesson data
+      lessonData = {
+        id: "demo-lesson",
+        unitTitle: "Environmental Protection",
+        sectionTitle: "Demo Lesson",
+        blocks: [
+          {
+            type: "lesson_intro",
+            script: "Bài hôm nay tập trung vào ngữ pháp: mệnh đề trạng ngữ chỉ thời gian. Đây là điểm ngữ pháp quan trọng, thường xuất hiện trong bài thi. Các em sẽ học cách dùng before, after, when, while, until.",
+            objectives: [
+              "Hiểu mệnh đề trạng ngữ thời gian",
+              "Dùng before, after, when, while, until đúng cách",
+              "Tránh lỗi phổ biến với 'will'"
+            ]
+          },
+          {
+            type: "vocabulary",
+            items: [
+              {
+                word: "ecosystem",
+                partOfSpeech: "n",
+                pronunciation: "/ˈiːkəʊsɪstəm/",
+                meaning: "hệ sinh thái",
+                example: "The ecosystem here is very diverse.",
+                exampleTranslation: "Hệ sinh thái ở đây rất đa dạng."
+              },
+              {
+                word: "endangered",
+                partOfSpeech: "adj",
+                pronunciation: "/ɪnˈdeɪndʒəd/",
+                meaning: "có nguy cơ tuyệt chủng",
+                example: "Pandas are endangered species.",
+                exampleTranslation: "Gấu trúc là loài có nguy cơ tuyệt chủng."
+              }
+            ]
+          },
+          {
+            type: "concept_explain",
+            concept: "Adverbial Clauses of Time",
+            conceptVi: "Mệnh đề trạng ngữ chỉ thời gian",
+            script: "Khi nối 2 câu bằng before, after, when, while, until, as soon as - các em nhớ quy tắc vàng này: Mệnh đề sau các từ này KHÔNG ĐƯỢC dùng thì tương lai. Nghĩa là không có 'will'.",
+            examples: [
+              {
+                english: "I will call you before I leave.",
+                vietnamese: "Tôi sẽ gọi bạn trước khi tôi đi.",
+                highlight: ["will call", "leave"]
+              },
+              {
+                english: "As soon as I arrive, I will text you.",
+                vietnamese: "Ngay khi tôi đến, tôi sẽ nhắn tin cho bạn.",
+                highlight: ["arrive", "will text"]
+              }
+            ]
+          },
+          {
+            type: "error_warn",
+            errorType: "Future tense after time conjunctions",
+            script: "LỖI PHỔ BIẾN: Dùng 'will' sau before, after, when. Đây là lỗi CỰC KỲ phổ biến trong bài thi.",
+            wrongVsRight: [
+              {
+                wrong: "I will go before you will finish.",
+                right: "I will go before you finish.",
+                explanation: "Sau 'before' không dùng 'will'"
+              }
+            ]
+          },
+          {
+            type: "tip",
+            tipType: "memory_trick",
+            script: "Mẹo nhớ: 'BAWWU' - Before, After, When, While, Until - 5 từ này đều KHÔNG đi với 'will' ở mệnh đề sau. Nghĩ: 'BAWWU không thích Will' - Will bị cấm vào nhà BAWWU!"
+          },
+          {
+            type: "summary",
+            script: "Nhớ 1 điều duy nhất từ bài hôm nay: sau before, after, when, while, until - dùng thì HIỆN TẠI, không dùng 'will'. Đơn giản vậy thôi.",
+            keyPoints: [
+              "Time clause + present (không will)",
+              "BAWWU: Before, After, When, While, Until",
+              "Mệnh đề chính có thể dùng will"
+            ]
+          }
+        ]
+      };
+      processLesson();
+      renderCurrentSlide();
+    }
+
+    function processLesson() {
+      slides = [];
+
+      lessonData.blocks.forEach((block, blockIndex) => {
+        if (block.type === 'vocabulary' && block.items) {
+          // Each vocab item is a separate slide
+          block.items.forEach((item, itemIndex) => {
+            slides.push({
+              type: 'vocabulary_item',
+              data: item,
+              blockIndex,
+              itemIndex
+            });
+          });
+        } else if (block.type === 'dialogue' && block.lines) {
+          // Show dialogue lines progressively
+          block.lines.forEach((line, lineIndex) => {
+            slides.push({
+              type: 'dialogue_line',
+              data: {
+                ...block,
+                currentLineIndex: lineIndex
+              },
+              blockIndex,
+              lineIndex
+            });
+          });
+        } else if (block.type === 'exercise' && block.questions) {
+          // Each question is a separate slide
+          block.questions.forEach((question, qIndex) => {
+            slides.push({
+              type: 'exercise_question',
+              data: {
+                ...block,
+                currentQuestion: question,
+                questionIndex: qIndex
+              },
+              blockIndex,
+              questionIndex: qIndex
+            });
+          });
+        } else {
+          // Other blocks as single slides
+          slides.push({
+            type: block.type,
+            data: block,
+            blockIndex
+          });
+        }
+      });
+
+      updateProgress();
+      document.getElementById('lesson-title').textContent =
+        `${lessonData.unitTitle} - ${lessonData.sectionTitle}`;
+    }
+
+    function updateProgress() {
+      const progress = ((currentSlideIndex + 1) / slides.length) * 100;
+      document.getElementById('progress-fill').style.width = `${progress}%`;
+      document.getElementById('slide-counter').textContent =
+        `${currentSlideIndex + 1} / ${slides.length}`;
+    }
+
+    // ========== RENDER SLIDES ==========
+    function renderCurrentSlide() {
+      if (currentSlideIndex >= slides.length) return;
+
+      const slide = slides[currentSlideIndex];
+      const container = document.getElementById('main-content');
+
+      let html = '<div class="slide">';
+
+      switch (slide.type) {
+        case 'lesson_intro':
+          html += renderLessonIntro(slide.data);
+          break;
+        case 'vocabulary_item':
+          html += renderVocabularyItem(slide.data);
+          break;
+        case 'concept_explain':
+          html += renderConceptExplain(slide.data);
+          break;
+        case 'error_warn':
+          html += renderErrorWarn(slide.data);
+          break;
+        case 'tip':
+          html += renderTip(slide.data);
+          break;
+        case 'summary':
+          html += renderSummary(slide.data);
+          break;
+        case 'pre_exercise':
+          html += renderPreExercise(slide.data);
+          break;
+        case 'grammar':
+          html += renderGrammar(slide.data);
+          break;
+        case 'reading':
+          html += renderReading(slide.data);
+          break;
+        case 'dialogue_line':
+          html += renderDialogue(slide.data);
+          break;
+        case 'exercise_question':
+          html += renderExercise(slide.data);
+          break;
+        default:
+          html += renderGenericBlock(slide.data);
+      }
+
+      html += '</div>';
+      container.innerHTML = html;
+      updateProgress();
+    }
+
+    function renderLessonIntro(data) {
+      let html = `
+        <div class="teacher-script">
+          <div class="block-header">📚 Giới thiệu bài học</div>
+          <div class="script-text">${data.script}</div>
+      `;
+
+      if (data.objectives && data.objectives.length > 0) {
+        html += '<div class="key-points" style="margin-top: 1.5rem;">';
+        html += '<div style="color: #00d9ff; margin-bottom: 0.5rem;">Mục tiêu:</div>';
+        data.objectives.forEach(obj => {
+          html += `<div class="key-point">✓ ${obj}</div>`;
+        });
+        html += '</div>';
+      }
+
+      html += '</div>';
+      return html;
+    }
+
+    function renderVocabularyItem(data) {
+      return `
+        <div class="vocabulary-slide">
+          <div class="block-header">📖 Từ vựng</div>
+          <div class="vocab-word">${data.word}</div>
+          <div class="vocab-pronunciation">${data.pronunciation || ''}</div>
+          <span class="vocab-pos">${data.partOfSpeech || ''}</span>
+          <div class="vocab-meaning">${data.meaning}</div>
+          ${data.example ? `
+            <div class="vocab-example">
+              <div class="en">"${data.example}"</div>
+              <div class="vi">${data.exampleTranslation || ''}</div>
+            </div>
+          ` : ''}
+        </div>
+      `;
+    }
+
+    function renderConceptExplain(data) {
+      let html = `
+        <div class="teacher-script">
+          <div class="block-header">💡 Giải thích</div>
+          <div class="concept">${data.concept}</div>
+          <div style="color: #888; margin-bottom: 1rem;">${data.conceptVi || ''}</div>
+          <div class="script-text">${data.script}</div>
+      `;
+
+      if (data.examples && data.examples.length > 0) {
+        html += '<div class="examples">';
+        data.examples.forEach(ex => {
+          html += `
+            <div class="example">
+              <div class="en">${ex.english}</div>
+              <div class="vi">${ex.vietnamese}</div>
+            </div>
+          `;
+        });
+        html += '</div>';
+      }
+
+      html += '</div>';
+      return html;
+    }
+
+    function renderErrorWarn(data) {
+      let html = `
+        <div class="teacher-script">
+          <div class="block-header" style="color: #ff6b6b;">⚠️ Cảnh báo lỗi phổ biến</div>
+          <div class="script-text">${data.script}</div>
+      `;
+
+      if (data.wrongVsRight && data.wrongVsRight.length > 0) {
+        html += '<div class="wrong-right">';
+        data.wrongVsRight.forEach(item => {
+          html += `
+            <div class="wrong">${item.wrong}</div>
+            <div class="right">${item.right}</div>
+          `;
+        });
+        html += '</div>';
+      }
+
+      html += '</div>';
+      return html;
+    }
+
+    function renderTip(data) {
+      return `
+        <div class="teacher-script" style="border-left-color: #ffa502;">
+          <div class="block-header" style="color: #ffa502;">💡 Mẹo ghi nhớ</div>
+          <div class="script-text" style="font-size: 1.6rem;">${data.script}</div>
+        </div>
+      `;
+    }
+
+    function renderSummary(data) {
+      let html = `
+        <div class="summary-slide">
+          <div class="teacher-script">
+            <div class="block-header" style="color: #00ff88;">📝 Tổng kết</div>
+            <div class="script-text">${data.script}</div>
+      `;
+
+      if (data.keyPoints && data.keyPoints.length > 0) {
+        html += '<ul class="key-points-list" style="margin-top: 1.5rem;">';
+        data.keyPoints.forEach(point => {
+          html += `<li>${point}</li>`;
+        });
+        html += '</ul>';
+      }
+
+      html += '</div></div>';
+      return html;
+    }
+
+    function renderPreExercise(data) {
+      let html = `
+        <div class="teacher-script">
+          <div class="block-header">📝 Hướng dẫn làm bài</div>
+          <div class="script-text">${data.script}</div>
+      `;
+
+      if (data.steps && data.steps.length > 0) {
+        html += '<div class="key-points" style="margin-top: 1.5rem;">';
+        data.steps.forEach((step, i) => {
+          html += `<div class="key-point">${i + 1}. ${step}</div>`;
+        });
+        html += '</div>';
+      }
+
+      html += '</div>';
+      return html;
+    }
+
+    function renderGrammar(data) {
+      let html = `
+        <div class="grammar-slide">
+          <div class="block-header">📐 Ngữ pháp</div>
+          <div class="grammar-topic">${data.topic}</div>
+          <div class="grammar-topic-vi">${data.topicVi || ''}</div>
+      `;
+
+      if (data.formula) {
+        html += '<div class="grammar-formula">';
+        if (typeof data.formula === 'object') {
+          if (data.formula.affirmative) {
+            html += `<div class="formula-line"><span class="formula-label">+</span> ${data.formula.affirmative}</div>`;
+          }
+          if (data.formula.negative) {
+            html += `<div class="formula-line"><span class="formula-label">−</span> ${data.formula.negative}</div>`;
+          }
+          if (data.formula.question) {
+            html += `<div class="formula-line"><span class="formula-label">?</span> ${data.formula.question}</div>`;
+          }
+        } else {
+          html += `<div class="formula-line">${data.formula}</div>`;
+        }
+        html += '</div>';
+      }
+
+      html += '</div>';
+      return html;
+    }
+
+    function renderReading(data) {
+      return `
+        <div class="reading-slide">
+          <div class="block-header">📖 Bài đọc</div>
+          ${data.title ? `<div class="reading-title">${data.title}</div>` : ''}
+          <div class="reading-content">${data.content}</div>
+        </div>
+      `;
+    }
+
+    function renderDialogue(data) {
+      let html = `
+        <div class="dialogue-slide">
+          <div class="block-header">💬 Hội thoại</div>
+          ${data.context ? `<div class="dialogue-context">${data.context}</div>` : ''}
+      `;
+
+      // Show lines up to current index
+      for (let i = 0; i <= data.currentLineIndex; i++) {
+        const line = data.lines[i];
+        const isB = i % 2 === 1;
+        html += `
+          <div class="dialogue-line ${isB ? 'speaker-b' : ''}">
+            <div class="speaker-avatar">${line.speaker ? line.speaker[0] : (isB ? 'B' : 'A')}</div>
+            <div class="dialogue-bubble">
+              <div class="dialogue-text">${line.text}</div>
+              <div class="dialogue-translation">${line.translation || ''}</div>
+            </div>
+          </div>
+        `;
+      }
+
+      html += '</div>';
+      return html;
+    }
+
+    function renderExercise(data) {
+      const q = data.currentQuestion;
+      let html = `
+        <div class="exercise-slide">
+          <div class="block-header">✏️ Bài tập - Câu ${data.questionIndex + 1}</div>
+          <div class="exercise-instruction">${data.instruction || ''}</div>
+      `;
+
+      if (q.questionText || q.question || q.sentence) {
+        html += `<div class="exercise-question">${q.questionText || q.question || q.sentence}</div>`;
+      }
+
+      if (q.options) {
+        html += '<div class="exercise-options">';
+        q.options.forEach((opt, i) => {
+          const letter = String.fromCharCode(65 + i);
+          const optText = typeof opt === 'object' ? opt.text : opt;
+          html += `<button class="option-btn" data-answer="${letter}">${letter}. ${optText}</button>`;
+        });
+        html += '</div>';
+      }
+
+      html += '</div>';
+      return html;
+    }
+
+    function renderGenericBlock(data) {
+      return `
+        <div class="teacher-script">
+          <div class="block-header">${data.type || 'Nội dung'}</div>
+          <div class="script-text">${data.script || data.content || JSON.stringify(data, null, 2)}</div>
+        </div>
+      `;
+    }
+
+    // ========== AI INTEGRATION ==========
+    async function askAIToExplain() {
+      if (isAISpeaking) return;
+
+      const slide = slides[currentSlideIndex];
+      const statusEl = document.getElementById('teacher-status');
+      const responseEl = document.getElementById('ai-response');
+      const responseText = document.getElementById('ai-response-text');
+
+      isAISpeaking = true;
+      statusEl.classList.add('speaking');
+      statusEl.querySelector('span:last-child').textContent = 'AI đang giảng...';
+
+      responseEl.classList.add('visible');
+      responseText.innerHTML = '<div class="spinner" style="width: 30px; height: 30px;"></div>';
+
+      try {
+        const prompt = buildExplanationPrompt(slide);
+        const response = await callGeminiAPI(prompt);
+
+        responseText.innerHTML = response;
+
+        // Auto-hide after 10 seconds
+        setTimeout(() => {
+          responseEl.classList.remove('visible');
+        }, 10000);
+
+      } catch (error) {
+        responseText.innerHTML = `<span style="color: #ff6b6b;">Lỗi: ${error.message}</span>`;
+      } finally {
+        isAISpeaking = false;
+        statusEl.classList.remove('speaking');
+        statusEl.querySelector('span:last-child').textContent = 'AI Teacher sẵn sàng';
+      }
+    }
+
+    function buildExplanationPrompt(slide) {
+      const context = `
+Bạn là giáo viên tiếng Anh đang giảng bài cho học sinh Việt Nam.
+Giọng điệu: thân thiện, dễ hiểu, thực tế.
+Trả lời ngắn gọn (2-4 câu), đi thẳng vào vấn đề.
+KHÔNG dùng emoji. KHÔNG nói "Chào các em" hay mấy câu chào hỏi.
+`;
+
+      let specific = '';
+
+      switch (slide.type) {
+        case 'vocabulary_item':
+          specific = `Giải thích thêm về từ "${slide.data.word}" - cách dùng, collocations phổ biến, hoặc lỗi hay mắc.`;
+          break;
+        case 'concept_explain':
+        case 'grammar':
+          specific = `Giải thích thêm về "${slide.data.concept || slide.data.topic}". Cho thêm ví dụ hoặc cách nhớ.`;
+          break;
+        case 'error_warn':
+          specific = `Giải thích tại sao đây là lỗi phổ biến và cách tránh.`;
+          break;
+        case 'exercise_question':
+          specific = `Gợi ý cách làm bài tập này (không cho đáp án trực tiếp).`;
+          break;
+        default:
+          specific = `Giải thích thêm về nội dung: ${JSON.stringify(slide.data).substring(0, 500)}`;
+      }
+
+      return context + '\n\n' + specific;
+    }
+
+    async function callGeminiAPI(prompt) {
+      const response = await fetch(`${GEMINI_API_URL}?key=${apiKey}`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          contents: [{ parts: [{ text: prompt }] }],
+          generationConfig: {
+            temperature: 0.7,
+            maxOutputTokens: 300
+          }
+        })
+      });
+
+      if (!response.ok) {
+        throw new Error(`API Error: ${response.status}`);
+      }
+
+      const data = await response.json();
+      return data.candidates[0].content.parts[0].text;
+    }
+
+    // ========== KEYBOARD CONTROLS ==========
+    function setupKeyboardControls() {
+      document.addEventListener('keydown', (e) => {
+        switch (e.key) {
+          case 'Enter':
+          case 'ArrowRight':
+            nextSlide();
+            break;
+          case 'ArrowLeft':
+            prevSlide();
+            break;
+          case ' ':
+            e.preventDefault();
+            askAIToExplain();
+            break;
+          case 'Escape':
+            document.getElementById('ai-response').classList.remove('visible');
+            break;
+        }
+      });
+    }
+
+    function nextSlide() {
+      if (currentSlideIndex < slides.length - 1) {
+        currentSlideIndex++;
+        renderCurrentSlide();
+      }
+    }
+
+    function prevSlide() {
+      if (currentSlideIndex > 0) {
+        currentSlideIndex--;
+        renderCurrentSlide();
+      }
+    }
+
+    // ========== START ==========
+    init();
+  </script>
+</body>
+</html>
