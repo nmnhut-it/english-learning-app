@@ -82,29 +82,47 @@
 
 ### Bài 2 (trang 111)
 
-**2. Read the conversation again. Then find and correct a mistake in each sentence below**
+**2. Read the conversation again. Then find and correct a mistake in each sentence below.**
 
-*(Đọc lại đoạn hội thoại. Sau đó tìm và sửa lỗi sai trong mỗi câu dưới đây)*
+*(Đọc lại đoạn hội thoại. Sau đó tìm và sửa lỗi sai trong mỗi câu dưới đây.)*
+
+**Example:**
+
+Nam and Mai's class are going on an eco-friendly fieldtrip to Ha Long Bay. => **Phong Nha Cave**
+
+*(Lớp của Nam và Mai sẽ tham gia một chuyến dã ngoại thân thiện với môi trường đến Vịnh Hạ Long. => Động Phong Nha)*
 
 1. On an eco-friendly fieldtrip, tourists enjoy, explore and damage the environment.
+
 2. Nam will take pieces of stalactites because they take a long time to form.
+
 3. Mai will bring snacks with a lot of packaging on the trip.
 
 #### Lời giải chi tiết:
 
-| Câu | Lỗi sai | Sửa lại |
-|-----|---------|---------|
-| 1 | damage | but not damage / and protect / learn about |
-| 2 | will | will not / won't |
-| 3 | will | will not / won't / will bring less |
+**1. damage => do not damage**
 
-#### Giải thích:
+On an eco-friendly fieldtrip, tourists enjoy, explore and **do not damage** the environment.
 
-1. **Thông tin:** Ms Hoa nói: "Going on an eco-friendly fieldtrip means we'll enjoy, explore and learn about the place, but in a way that will not damage it." (Có một chuyến dã ngoại thân thiện với môi trường có nghĩa là chúng ta sẽ tận hưởng, khám phá và tìm hiểu về địa điểm, nhưng theo cách không làm hư hại nó.)
+*(Trên một chuyến dã ngoại thân thiện với môi trường, khách du lịch thích thú, khám phá và không phá hoại môi trường.)*
 
-2. **Thông tin:** Nam nói: "I won't even touch them, I promise." (Em thậm chí sẽ không chạm vào chúng, em hứa.)
+**Thông tin:** Ms Hoa: "Going on an eco-friendly fieldtrip means we'll enjoy, explore and learn about the place, but in a way that will not damage it."
 
-3. **Thông tin:** Mai nói: "I'll also try to bring snacks with less packaging." (Em cũng sẽ cố gắng mang theo đồ ăn vặt với ít bao bì hơn.)
+**2. will => won't**
+
+Nam **won't** take pieces of stalactites because they take a long time to form.
+
+*(Nam sẽ không lấy các mảnh thạch nhũ vì chúng mất nhiều thời gian để hình thành.)*
+
+**Thông tin:** Nam: "Wow! I didn't know that. I won't even touch them, I promise."
+
+**3. a lot of => less**
+
+Mai will bring snacks with **less** packaging on the trip.
+
+*(Mai sẽ mang theo đồ ăn vặt với ít bao bì hơn trong chuyến đi.)*
+
+**Thông tin:** Mai: "I agree. I'll also try to bring snacks with less packaging."
 
 ---
 
