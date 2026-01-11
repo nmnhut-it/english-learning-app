@@ -6,212 +6,209 @@
 ### New words
 
 1. **solution** : (n) giải pháp /səˈluːʃn/
-2. **reduce** : (v) giảm /rɪˈdjuːs/
-3. **recycle** : (v) tái chế /ˌriːˈsaɪkl/
-4. **reuse** : (v) tái sử dụng /ˌriːˈjuːz/
-5. **electric vehicle** : (n.phr) xe điện /ɪˈlektrɪk ˈviːəkl/
-6. **public transport** : (n.phr) phương tiện công cộng /ˈpʌblɪk ˈtrænspɔːt/
-7. **strict** : (adj) nghiêm ngặt /strɪkt/
-8. **prevent** : (v) ngăn chặn /prɪˈvent/
-9. **rubbish** : (n) rác /ˈrʌbɪʃ/
-10. **renewable energy** : (n.phr) năng lượng tái tạo /rɪˈnjuːəbl ˈenədʒi/
+2. **recycle** : (v) tái chế /ˌriːˈsaɪkl/
+3. **electric vehicle** : (n.phr) xe điện /ɪˈlektrɪk ˈviːəkl/
+4. **public transport** : (n.phr) phương tiện công cộng /ˈpʌblɪk ˈtrænspɔːt/
+5. **strict** : (adj) nghiêm ngặt /strɪkt/
+6. **prevent** : (v) ngăn chặn /prɪˈvent/
+7. **rubbish** : (n) rác /ˈrʌbɪʃ/
+8. **avoid** : (v) tránh /əˈvɔɪd/
+9. **gas emissions** : (n.phr) khí thải /ɡæs ɪˈmɪʃnz/
+10. **illegal** : (adj) bất hợp pháp /ɪˈliːɡl/
 
 ---
 
-### Bài 1 (trang 104)
+### Bài 1 (trang 103)
 
-**1. Work in pairs. Match the environmental problems with the suggested solutions**
+**1. Work in pairs. Match the environmental problems with the suggested solutions.**
 
-*(Làm việc theo cặp. Nối các vấn đề môi trường với các giải pháp được đề xuất)*
+*(Làm việc theo cặp. Nối các vấn đề môi trường với các giải pháp được đề xuất.)*
 
 | Environmental problems | Suggested solutions |
 |----------------------|---------------------|
-| 1. Air pollution | a. Introducing strict laws to prevent the cutting of natural forests |
-| 2. Deforestation | b. Creating nature reserves to protect endangered species |
-| 3. Disappearance of endangered animals | c. Using electric vehicles or public transport |
+| 1. DISAPPEARANCE OF ENDANGERED ANIMALS | a. Recycle paper, plastics, and wood products |
+| 2. DEFORESTATION | b. Use electric vehicles or public transport, and plant more trees |
+| 3. AIR POLLUTION | c. Stop illegal hunting and fishing |
+| | d. Stop burning leaves, rubbish, and other materials |
+| | e. Avoid products that are made from animal parts |
+| | f. Introduce strict laws to prevent the cutting of natural forests |
 
 #### Lời giải chi tiết:
 
 | Câu | Đáp án |
 |-----|--------|
-| 1 | c |
-| 2 | a |
-| 3 | b |
+| 1 | c - e |
+| 2 | a - f |
+| 3 | b - d |
 
 #### Giải thích:
 
-- **Air pollution - Using electric vehicles or public transport**: Sử dụng xe điện hoặc phương tiện công cộng sẽ giảm lượng khí thải từ các phương tiện cá nhân và làm cho không khí sạch hơn.
-- **Deforestation - Introducing strict laws to prevent the cutting of natural forests**: Ban hành các bộ luật nghiêm khắc sẽ ngăn chặn việc chặt phá rừng tự nhiên.
-- **Disappearance of endangered animals - Creating nature reserves to protect endangered species**: Tạo các khu bảo tồn thiên nhiên sẽ bảo vệ các loài có nguy cơ tuyệt chủng.
+**1. DISAPPEARANCE OF ENDANGERED ANIMALS** *(Sự biến mất của động vật có nguy cơ tuyệt chủng)*
+- **c. Stop illegal hunting and fishing** *(Ngừng săn bắn và đánh bắt bất hợp pháp)*
+- **e. Avoid products that are made from animal parts** *(Tránh các sản phẩm được làm từ các bộ phận của động vật)*
+
+**2. DEFORESTATION** *(Nạn chặt phá rừng)*
+- **a. Recycle paper, plastics, and wood products** *(Tái chế giấy, nhựa và các sản phẩm gỗ)*
+- **f. Introduce strict laws to prevent the cutting of natural forests** *(Đưa ra luật nghiêm khắc để ngăn chặn việc chặt phá rừng tự nhiên)*
+
+**3. AIR POLLUTION** *(Ô nhiễm không khí)*
+- **b. Use electric vehicles or public transport, and plant more trees** *(Sử dụng xe điện hoặc phương tiện giao thông công cộng và trồng nhiều cây hơn)*
+- **d. Stop burning leaves, rubbish, and other materials** *(Ngừng đốt lá, rác và các vật liệu khác)*
 
 ---
 
-### Bài 2 (trang 105)
+### Bài 2 (trang 104)
 
-**2. Work in pairs. Complete the presentation outline below with the information in the box**
+**2. Work in pairs. Complete the presentation outline below with the information in the box.**
 
-*(Làm việc theo cặp. Hoàn thành dàn ý bài thuyết trình bên dưới với thông tin trong hộp)*
+*(Làm việc theo cặp. Hoàn thành dàn ý bài thuyết trình bên dưới với thông tin trong khung.)*
 
-| a. Finishing the presentation and thanking the audience |
-| b. Greeting the audience and introducing the topic |
-| c. Presenting the solutions |
+| A. The first solution is to stop burning leaves, rubbish, and other materials. This will reduce the smoke produced in the air. |
+|---|
+| B. That concludes our presentation today. Thank you for listening. |
+| C. Another solution is to use electric vehicles or public transport. This will reduce the gas emissions from private vehicles and will make the air cleaner. |
+| D. Hi everyone. I'm here today to talk to you about the solutions to one of the most serious problems in our city - air pollution. |
 
-**Presentation Outline:**
+**SOLUTIONS TO AIR POLLUTION**
+*(Giải pháp cho ô nhiễm không khí)*
 
-**I. ______**
-- Good morning/afternoon, everyone.
-- Today, I'd like to talk about solutions to...
-
-**II. ______**
-- First, the problem can be solved by...
-- Second/Next, we should...
-- Finally/Last but not least, it's important to...
-
-**III. ______**
-- That concludes my/our presentation today.
-- Thank you for listening.
-- Do you have any questions?
+| | Presentation outline |
+|---|---|
+| 1. | Welcoming the audience and introducing the topic |
+| 2. | The first solution |
+| 3. | The second solution |
+| 4. | Finishing the presentation and thanking the audience |
 
 #### Lời giải chi tiết:
 
-| Phần | Đáp án |
-|------|--------|
-| I | b |
-| II | c |
-| III | a |
+| Số | Đáp án |
+|----|--------|
+| 1 | D |
+| 2 | A |
+| 3 | C |
+| 4 | B |
+
+#### Giải thích:
+
+**1. Welcoming the audience and introducing the topic** *(Chào đón khán giả và giới thiệu chủ đề)*
+
+→ **D.** Hi everyone. I'm here today to talk to you about the solutions to one of the most serious problems in our city - air pollution.
+
+*(Xin chào tất cả mọi người. Hôm nay tôi đến đây để nói với các bạn về các giải pháp cho một trong những vấn đề nghiêm trọng nhất ở thành phố của chúng ta - ô nhiễm không khí.)*
+
+**2. The first solution** *(Giải pháp đầu tiên)*
+
+→ **A.** The first solution is to stop burning leaves, rubbish, and other materials. This will reduce the smoke produced in the air.
+
+*(Giải pháp đầu tiên là ngừng đốt lá cây, rác và các vật liệu khác. Điều này sẽ làm giảm khói tạo ra trong không khí.)*
+
+**3. The second solution** *(Giải pháp thứ hai)*
+
+→ **C.** Another solution is to use electric vehicles or public transport. This will reduce the gas emissions from private vehicles and will make the air cleaner.
+
+*(Một giải pháp khác là sử dụng xe điện hoặc phương tiện giao thông công cộng. Điều này sẽ làm giảm lượng khí thải từ các phương tiện giao thông cá nhân và làm cho không khí trong sạch hơn.)*
+
+**4. Finishing the presentation and thanking the audience** *(Kết thúc bài thuyết trình và cảm ơn khán giả)*
+
+→ **B.** That concludes our presentation today. Thank you for listening.
+
+*(Bài thuyết trình ngày hôm nay đã kết thúc. Cảm ơn vì đã lắng nghe.)*
 
 ---
 
-### Bài 3 (trang 105)
+### Bài 3 (trang 104)
 
-**3. Work in groups. Choose an environmental problem in 1 and make a presentation on the solutions to it. Use the expressions below to help you**
+**3. Work in groups. Choose an environmental problem in 1 and make a presentation on the solutions to it. Use the expressions below to help you.**
 
-*(Làm việc theo nhóm. Chọn một vấn đề môi trường trong bài 1 và thuyết trình về các giải pháp cho nó. Sử dụng các biểu thức dưới đây để giúp bạn)*
+*(Làm việc nhóm. Chọn một vấn đề môi trường trong bài 1 và trình bày các giải pháp cho vấn đề đó. Sử dụng các cụm từ dưới đây để giúp bạn.)*
 
 #### Useful expressions:
 
-**Introducing the topic:**
-- Today, I'd like to talk about...
-- I'm here today to talk about...
-- The topic of my presentation is...
-
-**Presenting solutions:**
-- First, the problem can be solved by...
-- Second/Next, we should...
-- Another solution is to...
-- Finally/Last but not least,...
-
-**Concluding:**
-- That concludes my/our presentation today.
-- To sum up,...
-- Thank you for listening.
+| Function | Expressions |
+|----------|-------------|
+| **Welcoming the audience and introducing the topic** | Hi everyone. |
+| *(Chào khán giả và giới thiệu chủ đề)* | Good morning/ afternoon. |
+| | I'm here today to talk about/ discuss … |
+| | I'd like to talk about … |
+| | Today, I'd like to share with you … |
+| **Introducing the first point/ idea** | Firstly, the problem can be solved by … |
+| *(Giới thiệu quan điểm/ ý tưởng đầu tiên)* | The first solution is to … |
+| **Introducing the second point/ idea** | My next point is … |
+| *(Giới thiệu quan điểm / ý tưởng thứ hai)* | Another solution is to … |
+| **Finishing the presentation and thanking the audience** | That concludes our presentation. |
+| *(Kết thúc bài thuyết trình và cảm ơn khán giả)* | That's the end of our presentation today. |
+| | Thank you for listening. |
+| | Thank you for your attention. |
 
 ---
 
 #### Lời giải mẫu 1: Air Pollution
 
-**I. Introduction**
+Good morning. Today, I'd like to share with you about the solutions to one of the most significant problems in our city - air pollution.
 
-Good morning, everyone. I'm here today to talk about the solutions to one of the most serious issues in our cities – air pollution.
+Firstly, the problem can be solved by stopping burning leaves, rubbish, and other materials. This will reduce the smoke produced in the air.
 
-**II. Solutions**
+Another solution is to use electric vehicles or public transport. This will reduce the gas emissions from private vehicles and will make the air cleaner.
 
-First, the problem can be solved by using electric vehicles or public transport. This will reduce the gas emissions from private vehicles and will make the air cleaner.
+That's the end of our presentation today. Thank you for your attention.
 
-Second, we should stop burning leaves, rubbish, and other materials. When we burn things, harmful gases are released into the air.
+#### Hướng dẫn dịch:
 
-Finally, factories should install proper filters to reduce the amount of harmful emissions they release.
+Chào buổi sáng. Hôm nay, tôi muốn chia sẻ với các bạn về giải pháp cho một trong những vấn đề nổi bật nhất ở thành phố của chúng ta - ô nhiễm không khí.
 
-**III. Conclusion**
+Thứ nhất, vấn đề có thể được giải quyết bằng cách ngừng đốt lá cây, rác và các vật liệu khác. Điều này sẽ làm giảm khói tạo ra trong không khí.
 
-That concludes our presentation today. Thank you for listening. Do you have any questions?
+Một giải pháp khác là sử dụng xe điện hoặc phương tiện giao thông công cộng. Điều này sẽ làm giảm lượng khí thải từ các phương tiện giao thông cá nhân và làm cho không khí trong sạch hơn.
+
+Bài thuyết trình hôm nay đến đây là hết. Cảm ơn các bạn vì đã chú ý lắng nghe.
 
 ---
 
 #### Lời giải mẫu 2: Deforestation
 
-**I. Introduction**
+Good morning. Today, I'd like to share with you about the solutions to one of the most significant problems in our city - deforestation.
 
-Good afternoon, everyone. Today, I'd like to talk about the solutions to one of the most serious issues in mountainous areas – deforestation.
+Firstly, the problem can be solved by recycling paper, plastics, and wood products.
 
-**II. Solutions**
+My next point is introducing strict laws to prevent the cutting of natural forests.
 
-First, the problem can be solved by recycling paper, plastics and wood products. When recycling, we will not need to cut trees to make new products.
+Another solution is to educate our friends, family, and community by sharing the deforestation facts, and its causes and effects.
 
-The next solution is introducing strict laws to prevent the cutting of natural forests. People who cut down trees illegally should be punished.
+That's the end of our presentation today. Thank you for your attention.
 
-Finally, we should plant more trees. Schools and communities can organize tree-planting activities regularly.
+#### Hướng dẫn dịch:
 
-**III. Conclusion**
+Chào buổi sáng. Hôm nay, tôi muốn chia sẻ với các bạn về giải pháp cho một trong những vấn đề nổi bật nhất ở thành phố của chúng ta - nạn phá rừng.
 
-To sum up, we need to work together to protect our forests. Thank you for listening.
+Thứ nhất, vấn đề có thể được giải quyết bằng cách tái chế giấy, nhựa và các sản phẩm từ gỗ.
 
----
+Giải pháp tiếp theo của tôi là đưa ra luật nghiêm khắc để ngăn chặn việc chặt phá rừng tự nhiên.
 
-#### Lời giải mẫu 3: Disappearance of Endangered Animals
+Một giải pháp khác là giáo dục bạn bè, gia đình và cộng đồng của chúng ta bằng cách chia sẻ sự thật về nạn phá rừng, nguyên nhân và hậu quả của nó.
 
-**I. Introduction**
-
-Good morning, everyone. The topic of my presentation is the solutions to save endangered animals.
-
-**II. Solutions**
-
-First, we should create more nature reserves to protect endangered species and their habitats.
-
-Second, we need to introduce strict laws against illegal hunting and wildlife trade. Heavy punishment may prevent people from killing endangered animals.
-
-Last but not least, we should raise awareness about the importance of protecting wildlife through education and media campaigns.
-
-**III. Conclusion**
-
-That concludes my presentation today. Let's work together to protect our wildlife. Thank you for listening.
-
----
-
-#### Hướng dẫn dịch bài mẫu 1:
-
-**I. Giới thiệu**
-
-Chào buổi sáng, mọi người. Hôm nay tôi ở đây để nói về các giải pháp cho một trong những vấn đề nghiêm trọng nhất trong các thành phố của chúng ta – ô nhiễm không khí.
-
-**II. Giải pháp**
-
-Đầu tiên, vấn đề có thể được giải quyết bằng cách sử dụng xe điện hoặc phương tiện công cộng. Điều này sẽ giảm lượng khí thải từ các phương tiện cá nhân và làm cho không khí sạch hơn.
-
-Thứ hai, chúng ta nên ngừng đốt lá, rác và các vật liệu khác. Khi chúng ta đốt đồ, các khí có hại được thải vào không khí.
-
-Cuối cùng, các nhà máy nên lắp đặt các bộ lọc thích hợp để giảm lượng khí thải có hại mà họ thải ra.
-
-**III. Kết luận**
-
-Đó là kết thúc bài thuyết trình của chúng tôi hôm nay. Cảm ơn các bạn đã lắng nghe. Các bạn có câu hỏi nào không?
+Bài thuyết trình hôm nay đến đây là hết. Cảm ơn các bạn vì đã chú ý lắng nghe.
 
 ---
 
 ## Vocabulary (Từ vựng)
 
-1. **solution** : (n) giải pháp /səˈluːʃn/
-2. **reduce** : (v) giảm /rɪˈdjuːs/
-3. **recycle** : (v) tái chế /ˌriːˈsaɪkl/
-4. **reuse** : (v) tái sử dụng /ˌriːˈjuːz/
-5. **electric vehicle** : (n.phr) xe điện /ɪˈlektrɪk ˈviːəkl/
-6. **public transport** : (n.phr) phương tiện công cộng /ˈpʌblɪk ˈtrænspɔːt/
-7. **strict** : (adj) nghiêm ngặt /strɪkt/
-8. **law** : (n) luật /lɔː/
-9. **prevent** : (v) ngăn chặn /prɪˈvent/
-10. **nature reserve** : (n.phr) khu bảo tồn thiên nhiên /ˈneɪtʃə rɪˈzɜːv/
-11. **endangered species** : (n.phr) loài có nguy cơ tuyệt chủng /ɪnˈdeɪndʒəd ˈspiːʃiːz/
-12. **rubbish** : (n) rác /ˈrʌbɪʃ/
-13. **filter** : (n) bộ lọc /ˈfɪltə/
-14. **install** : (v) lắp đặt /ɪnˈstɔːl/
-15. **illegal** : (adj) bất hợp pháp /ɪˈliːɡl/
-16. **punish** : (v) trừng phạt /ˈpʌnɪʃ/
-17. **plant** : (v) trồng /plɑːnt/
-18. **regularly** : (adv) thường xuyên /ˈreɡjələli/
-19. **wildlife trade** : (n.phr) buôn bán động vật hoang dã /ˈwaɪldlaɪf treɪd/
-20. **raise awareness** : (v.phr) nâng cao nhận thức /reɪz əˈweənəs/
-21. **media campaign** : (n.phr) chiến dịch truyền thông /ˈmiːdiə kæmˈpeɪn/
-22. **community** : (n) cộng đồng /kəˈmjuːnəti/
-23. **presentation** : (n) bài thuyết trình /ˌpreznˈteɪʃn/
-24. **audience** : (n) khán giả /ˈɔːdiəns/
-25. **conclude** : (v) kết luận /kənˈkluːd/
+1. **heat waves** : (n.phr) sóng nhiệt /ˈhiːtweɪvz/
+2. **cut down forests** : (v.phr) chặt phá rừng /kʌt daʊn ˈfɒrɪsts/
+3. **machines and factories** : (n.phr) máy móc, nhà xưởng /məˈʃiːnz ænd ˈfæktəriz/
+4. **recycle** : (v) tái chế /ˌriːˈsaɪkl/
+5. **vehicles or public transport** : (n.phr) xe và phương tiện công cộng /ˈviːɪklz ɔː ˈpʌblɪk ˈtrænspɔːt/
+6. **rubbish** : (n) rác /ˈrʌbɪʃ/
+7. **avoid** : (v) tránh /əˈvɔɪd/
+8. **gas emissions** : (n.phr) khí thải /ɡæs ɪˈmɪʃnz/
+9. **strict laws** : (n.phr) luật nghiêm khắc /strɪkt lɔːz/
+10. **illegal hunting** : (n.phr) săn bắn trái phép /ɪˈliːɡl ˈhʌntɪŋ/
+11. **animal parts** : (n.phr) các bộ phận động vật /ˈænɪml pɑːts/
+12. **wood products** : (n.phr) sản phẩm gỗ /wʊd ˈprɒdʌkts/
+13. **plant trees** : (v.phr) trồng cây /plɑːnt triːz/
+14. **reduce** : (v) giảm /rɪˈdjuːs/
+15. **smoke** : (n) khói /sməʊk/
+16. **presentation** : (n) bài thuyết trình /ˌpreznˈteɪʃn/
+17. **audience** : (n) khán giả /ˈɔːdiəns/
+18. **conclude** : (v) kết thúc /kənˈkluːd/
+19. **solution** : (n) giải pháp /səˈluːʃn/
+20. **significant** : (adj) quan trọng, nổi bật /sɪɡˈnɪfɪkənt/
