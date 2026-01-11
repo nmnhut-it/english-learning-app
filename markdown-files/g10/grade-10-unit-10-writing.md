@@ -32,13 +32,14 @@
 
 **What do you think tourists can do there?**
 
+- Work on a local farm
 - Do the gardening at a local farm
-- Ride bicycles through the villages
-- Travel on basket boats
+- Ride bicycles through the villages, travel on basket boats
 - Visit craft villages
 
 **What can tourists do to make their trip more eco-friendly?**
 
+- Buy handmade products to help local businesses
 - Use eco-friendly transport such as bicycles
 - Buy traditional crafts to help local people
 
@@ -46,19 +47,20 @@
 
 **Bạn thấy làng quê Hội An có gì đặc biệt?**
 
+- Vườn rau và thảo mộc xinh đẹp
 - Rặng dừa gần sông Thu Bồn
 - Hàng thủ công truyền thống như đèn lồng giấy đầy màu sắc
-- Vườn rau và thảo mộc đẹp
 
 **Bạn nghĩ khách du lịch có thể làm gì ở đó?**
 
+- Làm việc tại một trang trại địa phương
 - Làm vườn tại một trang trại địa phương
-- Đi xe đạp qua các ngôi làng
-- Du lịch trên thuyền thúng
-- Thăm làng nghề
+- Đi xe đạp qua các làng, du ngoạn trên thuyền thúng
+- Thăm làng nghề thủ công
 
 **Khách du lịch có thể làm gì để chuyến đi của họ thân thiện hơn với môi trường?**
 
+- Mua các sản phẩm thủ công để giúp các doanh nghiệp địa phương
 - Sử dụng phương tiện giao thông thân thiện với môi trường như xe đạp
 - Mua hàng thủ công truyền thống để giúp đỡ người dân địa phương
 
