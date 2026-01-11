@@ -164,15 +164,19 @@ B: Never mind. Another time, perhaps.
 
 The Food and Agriculture Organisation of the United Nations (FAO) was formed in 1945. Its main aim is to end hunger and poverty by making sure all people have access to healthy food. It hopes to raise the levels of nutrition and the standard of living in its member countries. It also tries to improve the production of food and agricultural products, and make sure they reach all groups of society.
 
-FAO started working in Viet Nam in 1978. Since then, it has provided Viet Nam with technical support and advice to the government. It has also helped Viet Nam carry about 400 projects, including food security and nutrition. Food security means that all people have access to enough and safe food while good nutrition or getting the right type of food is essential for normal growth and development.
+FAO started working in Viet Nam in 1978. Since then, it has provided Viet Nam with technical support and advice to the government in the field of agriculture. It has also helped Viet Nam carry out hundreds of projects in different areas.
+
+In response to FAO's support, Viet Nam has actively participated in FAO activities, including food security and nutrition. Food security means that all people have access to enough and safe food while good nutrition or getting the right type of food is essential for normal growth and development.
 
 #### Bài dịch:
 
 **FAO VÀ CÁC HOẠT ĐỘNG HỖ TRỢ VIỆT NAM**
 
-Tổ chức Nông lương (FAO) của Liên hợp quốc được thành lập năm 1945. Mục đích chính của tổ chức này là chấm dứt nạn đói và nghèo bằng cách đảm bảo tất cả mọi người đều được tiếp cận với thực phẩm lành mạnh. Nó hy vọng sẽ nâng cao mức dinh dưỡng và mức sống ở các nước thành viên. Nó cũng cố gắng cải thiện việc sản xuất thực phẩm và nông sản, và đảm bảo rằng chúng tiếp cận được tất cả các nhóm xã hội.
+Tổ chức Lương thực và Nông nghiệp Liên Hợp Quốc (FAO) được thành lập vào năm 1945. Mục đích chính của tổ chức này là chấm dứt nạn đói nghèo bằng cách đảm bảo tất cả mọi người đều được tiếp cận với thực phẩm lành mạnh. Nó hy vọng sẽ nâng cao mức độ dinh dưỡng và mức sống ở các nước thành viên. Nó cũng cố gắng cải thiện việc sản xuất thực phẩm và nông sản, đồng thời đảm bảo chúng đến được với tất cả các nhóm xã hội.
 
-FAO bắt đầu làm việc tại Việt Nam vào năm 1978. Kể từ đó, FAO đã cung cấp cho Việt Nam sự hỗ trợ kỹ thuật và tư vấn cho chính phủ. Nó cũng đã giúp Việt Nam thực hiện khoảng 400 dự án, bao gồm an ninh lương thực và dinh dưỡng. An ninh lương thực có nghĩa là tất cả mọi người được tiếp cận với thực phẩm đủ và an toàn, đồng thời dinh dưỡng tốt hoặc đúng loại thực phẩm là cần thiết cho sự tăng trưởng và phát triển bình thường.
+FAO bắt đầu làm việc tại Việt Nam từ năm 1978. Kể từ đó, FAO đã cung cấp cho Việt Nam những hỗ trợ kỹ thuật và tư vấn cho chính phủ trong lĩnh vực nông nghiệp. Nó cũng đã giúp Việt Nam thực hiện hàng trăm dự án ở nhiều lĩnh vực khác nhau.
+
+Để đáp lại sự hỗ trợ của FAO, Việt Nam đã tích cực tham gia các hoạt động của FAO, trong đó có an ninh lương thực và dinh dưỡng. An ninh lương thực có nghĩa là tất cả mọi người đều được tiếp cận đủ thực phẩm an toàn và dinh dưỡng tốt hoặc nhận được đúng loại thực phẩm là điều cần thiết cho sự tăng trưởng và phát triển bình thường.
 
 ---
 
@@ -192,7 +196,7 @@ FAO bắt đầu làm việc tại Việt Nam vào năm 1978. Kể từ đó, FA
 | **Main aim** | end hunger and poverty |
 | **Started in Viet Nam** | 1978 |
 | **Support for Viet Nam** | technical support and advice to the government |
-| **Projects** | about 400 projects, including food security and nutrition |
+| **Viet Nam has participated in** | food security and nutrition activities |
 
 #### Chi tiết:
 
@@ -202,9 +206,9 @@ FAO bắt đầu làm việc tại Việt Nam vào năm 1978. Kể từ đó, FA
 
 3. **1978** - FAO started working in Viet Nam in 1978.
 
-4. **technical support** (and advice to the government) - Since then, it has provided Viet Nam with technical support and advice to the government.
+4. **technical support** (and advice to the government) - Since then, it has provided Viet Nam with technical support and advice to the government in the field of agriculture.
 
-5. **food security and nutrition** - It has also helped Viet Nam carry about 400 projects, including food security and nutrition.
+5. **food security** (and nutrition) - In response to FAO's support, Viet Nam has actively participated in FAO activities, including food security and nutrition.
 
 ---
 
