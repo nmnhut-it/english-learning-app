@@ -173,21 +173,21 @@ Mặc dù du lịch thường được gọi là 'ngành công nghiệp không k
 
 #### Bảng thông tin:
 
-| Type of tourism | Description |
-|-----------------|-------------|
-| 1. _______ | Tens of thousands of people visiting the same places at the same time of year |
-| 2. _______ | Helps protect the environment and educates travellers on local environmental issues |
-| 3. _______ | Involves environmental protection, cultural respect, and keeping profits local |
-| 4. _______ | Encourages tourists to take part in protecting the environment and culture |
+| Negative impact | Positive impact |
+|-----------------|-----------------|
+| (1) _______ | (2) _______ |
+| | (3) _______ |
+| | (4) _______ |
 
 #### Lời giải chi tiết:
 
-| Số | Đáp án |
-|----|--------|
-| 1 | Mass tourism |
-| 2 | Ecotourism |
-| 3 | Sustainable tourism |
-| 4 | Responsible tourism |
+| Negative impact | Positive impact |
+|-----------------|-----------------|
+| (1) Mass tourism | (2) Ecotourism |
+| | (3) Sustainable tourism |
+| | (4) Responsible tourism |
+
+*(Du lịch đại chúng có tác động tiêu cực; Du lịch sinh thái, Du lịch bền vững và Du lịch có trách nhiệm có tác động tích cực)*
 
 ---
 
