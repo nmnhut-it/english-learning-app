@@ -24,17 +24,17 @@
 
 #### Lời giải mẫu:
 
-- Visit a floating market, and buy fruits there
-- Visit a weaving village, buy traditional arts and crafts
-- Have a traditional meal with a host family or at a local restaurant
-- Travel by boat on the Mekong River
+**Picture a:** Have a traditional meal / food (with a host family or at a local restaurant)
 
-#### Hướng dẫn dịch:
+*(Ảnh a: Dùng bữa / món ăn truyền thống (với gia đình bản xứ hoặc tại nhà hàng địa phương))*
 
-- Tham quan chợ nổi và mua trái cây ở đó
-- Tham quan làng dệt, mua hàng thủ công mỹ nghệ truyền thống
-- Dùng bữa / món ăn truyền thống với gia đình bản xứ hoặc tại nhà hàng địa phương
-- Du lịch bằng thuyền trên sông Mekong
+**Picture b:** Visit a weaving village, buying traditional arts and crafts
+
+*(Ảnh b: Thăm làng dệt, mua đồ thủ công mỹ nghệ truyền thống)*
+
+**Picture c:** Visit a floating market, buying fruits there
+
+*(Ảnh c: Ghé chợ nổi, mua trái cây ở đó)*
 
 ---
 
@@ -48,9 +48,9 @@
 
 | Thứ tự | Hình ảnh |
 |--------|----------|
-| 1 | a (Floating market) |
-| 2 | b (Weaving workshop) |
-| 3 | c (Evening meal with host family) |
+| 1 | c (Floating market - Chợ nổi) |
+| 2 | b (Weaving workshop - Xưởng dệt) |
+| 3 | a (Evening meal with host family - Bữa tối với gia đình chủ nhà) |
 
 ---
 
