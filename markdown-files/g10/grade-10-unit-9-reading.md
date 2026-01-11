@@ -5,210 +5,226 @@
 
 ### New words
 
-1. **atmosphere** : (n) bầu khí quyển /ˈætməsfɪə/
-2. **temperature** : (n) nhiệt độ /ˈtemprətʃə/
-3. **rise** : (v, n) tăng lên, sự tăng /raɪz/
-4. **average** : (adj) trung bình /ˈævərɪdʒ/
-5. **consequence** : (n) hậu quả /ˈkɒnsɪkwəns/
-6. **sea level** : (n.phr) mực nước biển /siː ˈlevl/
-7. **polar ice** : (n.phr) băng cực /ˈpəʊlər aɪs/
-8. **melt** : (v) tan chảy /melt/
-9. **extreme** : (adj) cực đoan /ɪkˈstriːm/
-10. **flood** : (n, v) lũ lụt /flʌd/
-11. **heatwave** : (n) đợt nắng nóng /ˈhiːtweɪv/
-12. **emission** : (n) sự phát thải /ɪˈmɪʃn/
-13. **vehicle** : (n) phương tiện /ˈviːəkl/
-14. **harmful** : (adj) có hại /ˈhɑːmfl/
-15. **combine** : (v) kết hợp /kəmˈbaɪn/
+1. **be aware of** : (v.phr) nhận thức /biː əˈweər ɒv/
+2. **global warming** : (n.phr) sự nóng lên toàn cầu /ˈɡləʊbəl ˈwɔːmɪŋ/
+3. **atmosphere** : (n) bầu khí quyển /ˈætməsfɪə/
+4. **consequence** : (n) hậu quả /ˈkɒnsɪkwəns/
+5. **rising sea levels** : (n.phr) mực nước biển dâng cao /ˈraɪzɪŋ siː ˈlevlz/
+6. **polar ice** : (n.phr) băng cực /ˈpəʊlə aɪs/
+7. **extreme** : (adj) cực đoan /ɪkˈstriːm/
+8. **heatwave** : (n) đợt nắng nóng /ˈhiːtweɪv/
+9. **natural habitats** : (n.phr) môi trường sống tự nhiên /ˈnætʃrəl ˈhæbɪtæts/
+10. **waste gases** : (n.phr) khí thải /weɪst ˈɡæsɪz/
+11. **respiratory diseases** : (n.phr) bệnh về đường hô hấp /rɪˈspɪrətəri dɪˈziːzɪz/
+12. **lung cancer** : (n.phr) ung thư phổi /lʌŋ ˈkænsə/
+13. **endangered** : (adj) có nguy cơ tuyệt chủng /ɪnˈdeɪndʒəd/
+14. **illegally** : (adv) bất hợp pháp /ɪˈliːɡəli/
+15. **ecosystem** : (n) hệ sinh thái /ˈiːkəʊˌsɪstəm/
 
 ---
 
-### Bài 1 (trang 103)
+### Bài 1 (trang 102)
 
-**1. Work in pairs. Look at the pictures and discuss the environmental problems that you see**
+**1. Work in pairs. Look at the pictures and answer the following question.**
 
-*(Làm việc theo cặp. Nhìn vào các bức tranh và thảo luận về các vấn đề môi trường mà bạn thấy)*
+*(Làm việc theo cặp. Nhìn vào các bức tranh và trả lời câu hỏi sau.)*
 
-#### Lời giải mẫu:
+**What environmental problems do you see in the pictures?**
 
-- Picture 1: Global warming - The ice in polar areas is melting.
-- Picture 2: Air pollution - The smoke from factories pollutes the air.
-- Picture 3: Deforestation - Trees are being cut down.
+*(Bạn thấy những vấn đề môi trường nào trong các bức tranh?)*
 
-#### Hướng dẫn dịch:
+#### Lời giải chi tiết:
 
-- Hình 1: Sự nóng lên toàn cầu - Băng ở các vùng cực đang tan chảy.
-- Hình 2: Ô nhiễm không khí - Khói từ các nhà máy làm ô nhiễm không khí.
-- Hình 3: Phá rừng - Cây cối đang bị chặt hạ.
+- **Picture A:** deforestation *(phá rừng)*
+- **Picture B:** global warming *(nóng lên toàn cầu)*
+- **Picture C:** air pollution *(ô nhiễm không khí)*
+- **Picture D:** extinction of endangered animals *(sự tuyệt chủng của động vật có nguy cơ tuyệt chủng)*
 
 ---
 
-### Bài 2 (trang 103)
+### Bài 2 (trang 102)
 
-**2. Read the text and choose the best title for it**
+**2. Read the text and choose the best title for it.**
 
-*(Đọc văn bản và chọn tiêu đề phù hợp nhất cho nó)*
+*(Đọc văn bản và chọn tiêu đề hay nhất cho nó.)*
 
-A. Types of pollution
-B. Environmental problems
-C. Solutions to environmental issues
+a. Environmental problems: What are they?
+*(Các vấn đề về môi trường: Chúng là gì?)*
+
+b. Environmental protection: How important is it?
+*(Bảo vệ môi trường: Nó quan trọng như thế nào?)*
+
+c. Environmental solutions: How practical are they?
+*(Các giải pháp môi trường: Chúng thực tế như thế nào?)*
 
 #### Bài đọc:
 
-**ENVIRONMENTAL PROBLEMS**
+The environment we live in is facing many serious problems. We need to be aware of these problems so that we can find ways to protect nature.
 
-Global warming is the rise in the average temperature of the earth's atmosphere. It is one of the biggest issues facing humans today. As global temperatures increase, the polar ice melts. This causes rising sea levels around the world. Global warming also leads to extreme weather events, such as floods or heatwaves.
+**A.** Global warming is the rise in the average temperature of the earth's atmosphere. It is one of the biggest issues facing humans today. It can have serious consequences such as rising sea levels, polar ice melting, and extreme weather events like floods or heatwaves.
 
-Another environmental problem is air pollution. It is mainly caused by the emissions from vehicles, factories and power plants. When harmful gases are released into the air, they can damage human health and the environment. Some of these gases combine with water in the air and fall as acid rain, which can destroy plants and buildings.
+**B.** Another environmental problem is the cutting and clearing of natural forests. The loss of forests can have a negative impact on the environment. It can damage the natural habitats of many animals and put wildlife in danger. It can also destroy the natural soil and lead to climate change.
 
-The third problem is deforestation - the cutting and clearing of natural forests. The loss of forests can have a negative impact on the environment. It can damage the natural habitats of many animals and put wildlife in danger. It can also destroy the natural soil and lead to climate change.
+**C.** Air pollution is also a serious problem. It is mainly caused by waste gases that come out of vehicles, machines, or factories. When these harmful gases combine with the water in the air, they come down as rain or snow, which can damage all forms of life. In addition, this problem leads to global warming and climate change. It is also a major cause of respiratory diseases or even lung cancer.
 
-These environmental problems are all connected. To solve them, we need to take action at both individual and global levels.
+**D.** Around the world, the number of endangered animals is rising. Many of them disappear because of pollution and climate change. In addition, humans illegally hunt and kill animals, and catch too many fish at once. This is upsetting the natural balance of ecosystems, which can be harmful to all living and non-living things.
 
 #### Lời giải chi tiết:
 
-**Đáp án: B. Environmental problems**
+**Đáp án: a. Environmental problems: What are they?**
 
 #### Giải thích:
 
-Bài đọc đề cập đến ba vấn đề môi trường chính: sự nóng lên toàn cầu (global warming), ô nhiễm không khí (air pollution), và phá rừng (deforestation). Vì vậy, tiêu đề phù hợp nhất là "Environmental problems" (Các vấn đề môi trường).
+Bài đọc đề cập đến bốn vấn đề môi trường chính:
+- Đoạn A: Sự nóng lên toàn cầu (global warming)
+- Đoạn B: Nạn chặt phá rừng (deforestation)
+- Đoạn C: Ô nhiễm không khí (air pollution)
+- Đoạn D: Sự tuyệt chủng của các loài động vật (extinction of endangered animals)
+
+Vì vậy, tiêu đề phù hợp nhất là "Environmental problems: What are they?" (Các vấn đề môi trường: Chúng là gì?)
 
 #### Hướng dẫn dịch bài đọc:
 
-**CÁC VẤN ĐỀ MÔI TRƯỜNG**
+Môi trường chúng ta sống đang phải đối mặt với nhiều vấn đề nghiêm trọng. Chúng ta cần nhận thức rõ những vấn đề này để có thể tìm cách bảo vệ thiên nhiên.
 
-Sự nóng lên toàn cầu là sự gia tăng nhiệt độ trung bình của bầu khí quyển trái đất. Đây là một trong những vấn đề lớn nhất mà con người phải đối mặt ngày nay. Khi nhiệt độ toàn cầu tăng lên, băng ở các cực tan chảy. Điều này gây ra mực nước biển dâng cao trên toàn thế giới. Sự nóng lên toàn cầu cũng dẫn đến các hiện tượng thời tiết cực đoan, như lũ lụt hoặc sóng nhiệt.
+**A.** Sự nóng lên toàn cầu là sự gia tăng nhiệt độ trung bình của khí quyển trái đất. Đó là một trong những vấn đề lớn nhất mà con người phải đối mặt ngày nay. Nó có thể gây ra những hậu quả nghiêm trọng như mực nước biển dâng cao, băng tan ở hai cực và các hiện tượng thời tiết khắc nghiệt như lũ lụt hoặc sóng nhiệt.
 
-Một vấn đề môi trường khác là ô nhiễm không khí. Nó chủ yếu được gây ra bởi khí thải từ các phương tiện giao thông, nhà máy và nhà máy điện. Khi các khí có hại được thải vào không khí, chúng có thể gây hại cho sức khỏe con người và môi trường. Một số loại khí này kết hợp với nước trong không khí và rơi xuống dưới dạng mưa axit, có thể phá hủy thực vật và các công trình xây dựng.
+**B.** Một vấn đề môi trường khác là chặt phá rừng tự nhiên. Việc mất rừng có thể có tác động tiêu cực đến môi trường. Nó có thể làm hư hại môi trường sống tự nhiên của nhiều loài động vật và khiến động vật hoang dã gặp nguy hiểm. Nó cũng có thể phá hủy đất tự nhiên và dẫn đến biến đổi khí hậu.
 
-Vấn đề thứ ba là phá rừng - việc chặt và dọn sạch các khu rừng tự nhiên. Việc mất rừng có thể có tác động tiêu cực đến môi trường. Nó có thể làm hỏng môi trường sống tự nhiên của nhiều loài động vật và đặt động vật hoang dã vào tình trạng nguy hiểm. Nó cũng có thể phá hủy đất tự nhiên và dẫn đến biến đổi khí hậu.
+**C.** Ô nhiễm không khí cũng là một vấn đề nghiêm trọng. Nguyên nhân chủ yếu là do khí thải từ xe cộ, máy móc hoặc nhà máy. Khi những khí độc hại này kết hợp với nước trong không khí, chúng sẽ tạo thành mưa hoặc tuyết, có thể gây hại cho mọi dạng sống. Ngoài ra, vấn đề này còn dẫn đến hiện tượng nóng lên toàn cầu và biến đổi khí hậu. Nó cũng là nguyên nhân chính gây ra các bệnh về đường hô hấp hay thậm chí là ung thư phổi.
 
-Những vấn đề môi trường này đều có liên quan với nhau. Để giải quyết chúng, chúng ta cần hành động ở cả cấp độ cá nhân và toàn cầu.
+**D.** Trên khắp thế giới, số lượng các loài động vật có nguy cơ tuyệt chủng đang tăng lên. Nhiều con trong số chúng biến mất vì ô nhiễm và biến đổi khí hậu. Ngoài ra, còn vì con người săn bắt và giết động vật một cách bất hợp pháp và đánh bắt quá nhiều cá cùng một lúc. Điều này đang làm đảo lộn sự cân bằng tự nhiên của các hệ sinh thái, có thể gây hại cho tất cả các sinh vật sống và không sống.
 
 ---
 
-### Bài 3 (trang 104)
+### Bài 3 (trang 103)
 
-**3. Read the text again and decide which paragraph contains the following information**
+**3. Read the text again and decide which paragraph contains the following information.**
 
-*(Đọc lại văn bản và quyết định đoạn nào chứa thông tin sau)*
+*(Đọc lại văn bản và quyết định đoạn văn nào chứa thông tin sau.)*
 
 | Information | Paragraph |
 |-------------|-----------|
-| A. Human activities that pollute the air | |
-| B. The causes of rising sea levels | |
-| C. The effects of cutting down trees | |
-| D. The impact of harmful gases on living things | |
+| 1. an example of harmful substances in the air and water | |
+| 2. one of the reasons for destroying wildlife habitats | |
+| 3. an increase in the level of the world's oceans | |
+| 4. an effect of illegal hunting on the ecosystem | |
 
 #### Lời giải chi tiết:
 
 | Information | Paragraph |
 |-------------|-----------|
-| A. Human activities that pollute the air | 2 |
-| B. The causes of rising sea levels | 1 |
-| C. The effects of cutting down trees | 3 |
-| D. The impact of harmful gases on living things | 2 |
+| 1. an example of harmful substances in the air and water *(một ví dụ về các chất độc hại trong không khí và nước)* | C |
+| 2. one of the reasons for destroying wildlife habitats *(một trong những lý do phá hủy môi trường sống của động vật hoang dã)* | B |
+| 3. an increase in the level of the world's oceans *(sự gia tăng mực nước biển trên thế giới)* | A |
+| 4. an effect of illegal hunting on the ecosystem *(ảnh hưởng của săn bắn trái phép đối với hệ sinh thái)* | D |
 
 #### Giải thích:
 
-- **A. Paragraph 2**: "It is mainly caused by the emissions from vehicles, factories and power plants."
-- **B. Paragraph 1**: "As global temperatures increase, the polar ice melts. This causes rising sea levels around the world."
-- **C. Paragraph 3**: "It can damage the natural habitats of many animals... It can also destroy the natural soil and lead to climate change."
-- **D. Paragraph 2**: "When harmful gases are released into the air, they can damage human health and the environment."
+1. **Paragraph C** - "When these harmful gases combine with the water in the air, they come down as rain or snow, which can damage all forms of life."
+
+2. **Paragraph B** - "It can damage the natural habitats of many animals and put wildlife in danger."
+
+3. **Paragraph A** - "It can have serious consequences such as rising sea levels..."
+
+4. **Paragraph D** - "In addition, humans illegally hunt and kill animals... This is upsetting the natural balance of ecosystems."
 
 ---
 
-### Bài 4 (trang 104)
+### Bài 4 (trang 103)
 
-**4. Read the text again and answer the questions**
+**4. Complete the sentences with the information from the text. Use no more than TWO words for each answer.**
 
-*(Đọc lại văn bản và trả lời các câu hỏi)*
+*(Hoàn thành các câu với thông tin từ văn bản. Sử dụng không quá HAI từ cho mỗi câu trả lời.)*
 
-1. What is global warming?
-2. What are the consequences of global warming?
-3. What causes air pollution?
-4. What happens when harmful gases combine with water in the air?
-5. How does deforestation affect the environment?
+1. Global warming can cause extreme _______ such as floods or heatwaves.
+2. The natural _______ of many animals can be destroyed in the process of cutting down forests.
+3. One of the main causes of air pollution is _______ produced by machines and factories.
+4. When many animals disappear, this damages the natural balance of _______.
 
 #### Lời giải chi tiết:
 
-1. **Global warming is the rise in the average temperature of the earth's atmosphere.**
-   *(Sự nóng lên toàn cầu là sự gia tăng nhiệt độ trung bình của bầu khí quyển trái đất.)*
+| Câu | Đáp án |
+|-----|--------|
+| 1 | weather events |
+| 2 | habitats |
+| 3 | waste gases |
+| 4 | ecosystems |
 
-2. **The consequences of global warming include rising sea levels, polar ice melting, and extreme weather events like floods or heatwaves.**
-   *(Hậu quả của sự nóng lên toàn cầu bao gồm mực nước biển dâng cao, băng ở các cực tan chảy, và các hiện tượng thời tiết cực đoan như lũ lụt hoặc sóng nhiệt.)*
+#### Giải thích:
 
-3. **Air pollution is mainly caused by the emissions from vehicles, factories and power plants.**
-   *(Ô nhiễm không khí chủ yếu được gây ra bởi khí thải từ các phương tiện giao thông, nhà máy và nhà máy điện.)*
+1. **weather events** - "It can have serious consequences such as rising sea levels, polar ice melting, and extreme **weather events** like floods or heatwaves."
 
-4. **When harmful gases combine with water in the air, they fall as acid rain, which can destroy plants and buildings.**
-   *(Khi các khí có hại kết hợp với nước trong không khí, chúng rơi xuống dưới dạng mưa axit, có thể phá hủy thực vật và các công trình xây dựng.)*
+2. **habitats** - "It can damage the natural **habitats** of many animals and put wildlife in danger."
 
-5. **Deforestation can damage the natural habitats of many animals, put wildlife in danger, destroy the natural soil and lead to climate change.**
-   *(Phá rừng có thể làm hỏng môi trường sống tự nhiên của nhiều loài động vật, đặt động vật hoang dã vào tình trạng nguy hiểm, phá hủy đất tự nhiên và dẫn đến biến đổi khí hậu.)*
+3. **waste gases** - "It is mainly caused by **waste gases** that come out of vehicles, machines, or factories."
 
----
-
-### Bài 5 (trang 104)
-
-**5. Work in groups. Discuss other environmental problems and their effects**
-
-*(Làm việc theo nhóm. Thảo luận về các vấn đề môi trường khác và tác động của chúng)*
-
-#### Lời giải mẫu:
-
-**Water pollution:**
-- Causes: Industrial waste, plastic waste, agricultural chemicals
-- Effects: Death of aquatic animals, contaminated drinking water, health problems for humans
-
-**Soil pollution:**
-- Causes: Pesticides, industrial waste, improper waste disposal
-- Effects: Reduced crop production, contaminated food, harm to ecosystems
-
-**Noise pollution:**
-- Causes: Traffic, construction, factories
-- Effects: Hearing loss, stress, sleep disturbance
+4. **ecosystems** - "This is upsetting the natural balance of **ecosystems**, which can be harmful to all living and non-living things."
 
 #### Hướng dẫn dịch:
 
-**Ô nhiễm nước:**
-- Nguyên nhân: Chất thải công nghiệp, rác thải nhựa, hóa chất nông nghiệp
-- Tác động: Chết các loài thủy sinh, nước uống bị ô nhiễm, vấn đề sức khỏe cho con người
+1. Sự nóng lên toàn cầu có thể gây ra các **hiện tượng thời tiết** cực đoan như lũ lụt hoặc sóng nhiệt.
+2. **Môi trường sống** tự nhiên của nhiều loài động vật có thể bị phá hủy trong quá trình chặt phá rừng.
+3. Một trong những nguyên nhân chính gây ô nhiễm không khí là **khí thải** do máy móc và nhà máy thải ra.
+4. Khi nhiều loài động vật biến mất, điều này làm hỏng sự cân bằng tự nhiên của **hệ sinh thái**.
 
-**Ô nhiễm đất:**
-- Nguyên nhân: Thuốc trừ sâu, chất thải công nghiệp, xử lý rác thải không đúng cách
-- Tác động: Giảm sản lượng cây trồng, thực phẩm bị ô nhiễm, gây hại cho hệ sinh thái
+---
 
-**Ô nhiễm tiếng ồn:**
-- Nguyên nhân: Giao thông, xây dựng, nhà máy
-- Tác động: Giảm thính lực, căng thẳng, rối loạn giấc ngủ
+### Bài 5 (trang 103)
+
+**5. Work in groups. Discuss the question.**
+
+*(Làm việc theo nhóm. Thảo luận câu hỏi sau.)*
+
+**Which of the problems mentioned in the text do you think is the most serious in Viet Nam?**
+
+*(Bạn nghĩ vấn đề nào được đề cập trong bài đọc là vấn đề nghiêm trọng nhất ở Việt Nam?)*
+
+#### Lời giải mẫu:
+
+From my point of view, air pollution is the most serious problem in Viet Nam, especially in big cities like Hanoi and Ho Chi Minh City. There are several reasons for this.
+
+First, the number of vehicles on the streets is increasing rapidly. This leads to a large amount of waste gases being released into the air every day.
+
+Second, many factories are built near residential areas, and they release harmful gases without proper treatment.
+
+Third, people in big cities often suffer from respiratory diseases because of the polluted air.
+
+I think the government and individuals should take action to reduce air pollution, such as using public transport, planting more trees, and controlling factory emissions.
+
+#### Hướng dẫn dịch:
+
+Theo quan điểm của tôi, ô nhiễm không khí là vấn đề nghiêm trọng nhất ở Việt Nam, đặc biệt là ở các thành phố lớn như Hà Nội và Thành phố Hồ Chí Minh. Có một số lý do cho điều này.
+
+Thứ nhất, số lượng phương tiện trên đường ngày càng tăng nhanh. Điều này dẫn đến một lượng lớn khí thải được thải vào không khí mỗi ngày.
+
+Thứ hai, nhiều nhà máy được xây dựng gần khu dân cư và họ thải khí độc hại mà không xử lý đúng cách.
+
+Thứ ba, người dân ở các thành phố lớn thường mắc các bệnh về đường hô hấp vì không khí ô nhiễm.
+
+Tôi nghĩ chính phủ và các cá nhân nên hành động để giảm ô nhiễm không khí, chẳng hạn như sử dụng phương tiện công cộng, trồng nhiều cây xanh và kiểm soát khí thải nhà máy.
 
 ---
 
 ## Vocabulary (Từ vựng)
 
-1. **atmosphere** : (n) bầu khí quyển /ˈætməsfɪə/
-2. **temperature** : (n) nhiệt độ /ˈtemprətʃə/
-3. **rise** : (v, n) tăng lên, sự tăng /raɪz/
-4. **average** : (adj) trung bình /ˈævərɪdʒ/
-5. **consequence** : (n) hậu quả /ˈkɒnsɪkwəns/
-6. **sea level** : (n.phr) mực nước biển /siː ˈlevl/
-7. **polar ice** : (n.phr) băng cực /ˈpəʊlər aɪs/
-8. **melt** : (v) tan chảy /melt/
-9. **extreme** : (adj) cực đoan /ɪkˈstriːm/
-10. **flood** : (n, v) lũ lụt /flʌd/
-11. **heatwave** : (n) đợt nắng nóng /ˈhiːtweɪv/
-12. **emission** : (n) sự phát thải /ɪˈmɪʃn/
-13. **vehicle** : (n) phương tiện /ˈviːəkl/
+1. **be aware of** : (v.phr) nhận thức /biː əˈweər ɒv/
+2. **global warming** : (n.phr) sự nóng lên toàn cầu /ˈɡləʊbəl ˈwɔːmɪŋ/
+3. **rising sea levels** : (n.phr) mực nước biển dâng cao /ˈraɪzɪŋ siː ˈlevlz/
+4. **loss** : (n) sự mất mát /lɒs/
+5. **natural habitats** : (n.phr) môi trường sống tự nhiên /ˈnætʃrəl ˈhæbɪtæts/
+6. **climate change** : (n.phr) biến đổi khí hậu /ˈklaɪmət tʃeɪndʒ/
+7. **waste gases** : (n.phr) khí thải /weɪst ˈɡæsɪz/
+8. **come down** : (phr.v) rơi xuống, tạo thành /kʌm daʊn/
+9. **respiratory diseases** : (n.phr) bệnh về đường hô hấp /rɪˈspɪrətəri dɪˈziːzɪz/
+10. **lung cancer** : (n.phr) ung thư phổi /lʌŋ ˈkænsə/
+11. **disappear** : (v) biến mất /ˌdɪsəˈpɪə/
+12. **illegally** : (adv) bất hợp pháp /ɪˈliːɡəli/
+13. **upset** : (v) làm đảo lộn /ʌpˈset/
 14. **harmful** : (adj) có hại /ˈhɑːmfl/
-15. **combine** : (v) kết hợp /kəmˈbaɪn/
-16. **acid rain** : (n.phr) mưa axit /ˈæsɪd reɪn/
-17. **power plant** : (n.phr) nhà máy điện /ˈpaʊə plɑːnt/
-18. **release** : (v) thải ra /rɪˈliːs/
-19. **damage** : (v, n) gây thiệt hại, thiệt hại /ˈdæmɪdʒ/
-20. **destroy** : (v) phá hủy /dɪˈstrɔɪ/
-21. **natural soil** : (n.phr) đất tự nhiên /ˈnætʃrəl sɔɪl/
-22. **connected** : (adj) liên kết, kết nối /kəˈnektɪd/
-23. **individual** : (adj, n) cá nhân /ˌɪndɪˈvɪdʒuəl/
-24. **global** : (adj) toàn cầu /ˈɡləʊbl/
-25. **level** : (n) cấp độ, mức /ˈlevl/
+15. **substance** : (n) chất /ˈsʌbstəns/
+16. **consequence** : (n) hậu quả /ˈkɒnsɪkwəns/
+17. **extreme** : (adj) cực đoan /ɪkˈstriːm/
+18. **heatwave** : (n) đợt nắng nóng /ˈhiːtweɪv/
+19. **negative impact** : (n.phr) tác động tiêu cực /ˈneɡətɪv ˈɪmpækt/
+20. **ecosystem** : (n) hệ sinh thái /ˈiːkəʊˌsɪstəm/
