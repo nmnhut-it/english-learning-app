@@ -25,7 +25,7 @@
 2. Viet Nam has become a more active **participant** in the **international** **community**.
 3. Japan is the biggest financial provider to this **economic** **organisation**.
 4. UNICEF helps **disadvantaged** teenagers continue their **education**.
-5. There are more **educational** **opportunities** for Vietnamese students now.
+5. There are many **educational** **opportunities** for Vietnamese students now.
 
 #### Lời giải chi tiết:
 
@@ -56,8 +56,8 @@
 4. UNICEF helps disad**van**taged teenagers continue their edu**ca**tion.
    *(UNICEF giúp các thanh thiếu niên có hoàn cảnh khó khăn tiếp tục đi học.)*
 
-5. There are more edu**ca**tional oppor**tu**nities for Vietnamese students now.
-   *(Hiện có nhiều cơ hội học tập hơn cho sinh viên Việt Nam.)*
+5. There are many edu**ca**tional oppor**tu**nities for Vietnamese students now.
+   *(Có rất nhiều cơ hội học tập cho sinh viên Việt Nam hiện nay.)*
 
 ---
 
@@ -147,7 +147,7 @@ Với **mục tiêu** phát triển kinh tế, Việt Nam luôn **chào đón** 
 
 1. **Viet Nam is more attractive to foreign tourists nowadays than it was in the past.**
 
-2. **No international organisation is larger than the United Nations.**
+2. **No other international organisation is larger than the United Nations.**
 
 3. **The international market now is more competitive than it was in the past.**
 
@@ -179,7 +179,7 @@ Với **mục tiêu** phát triển kinh tế, Việt Nam luôn **chào đón** 
 **B. Câu mới:**
 
 1. Việt Nam ngày nay hấp dẫn hơn đối với khách du lịch nước ngoài so với trước đây.
-2. Không có tổ chức quốc tế nào lớn hơn Liên hợp quốc.
+2. Không có tổ chức quốc tế nào khác lớn hơn Liên hợp quốc.
 3. Thị trường quốc tế hiện nay cạnh tranh hơn so với trước đây.
 4. Nhật Bản là nhà cung cấp tài chính lớn nhất cho tổ chức này.
 
