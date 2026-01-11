@@ -1,69 +1,55 @@
 # Unit 9: Protecting The Environment - Listening
 
-## Ways to save endangered animals
-*(Các cách để cứu động vật có nguy cơ tuyệt chủng)*
+## Saving endangered animals
+*(Giải cứu động vật bị đe dọa)*
 
 ### New words
 
 1. **endangered animal** : (n.phr) động vật có nguy cơ tuyệt chủng /ɪnˈdeɪndʒəd ˈænɪml/
-2. **save** : (v) cứu /seɪv/
+2. **rhino** : (n) tê giác /ˈraɪnəʊ/
 3. **hunting** : (n) săn bắn /ˈhʌntɪŋ/
-4. **illegal** : (adj) bất hợp pháp /ɪˈliːɡl/
-5. **suffering** : (n) sự đau khổ /ˈsʌfərɪŋ/
-6. **ban** : (v, n) cấm /bæn/
-7. **trade** : (n, v) buôn bán /treɪd/
-8. **punishment** : (n) hình phạt /ˈpʌnɪʃmənt/
+4. **captivity** : (n) sự giam cầm /kæpˈtɪvəti/
+5. **mid-term project** : (n.phr) dự án giữa kỳ /mɪd tɜːm ˈprɒdʒekt/
+6. **wildlife trade** : (n.phr) buôn bán động vật hoang dã /ˈwaɪldlaɪf treɪd/
+7. **prevent someone from** : (v.phr) ngăn cản ai đó /prɪˈvent ˈsʌmwʌn frɒm/
+8. **suffering** : (n) sự đau khổ /ˈsʌfərɪŋ/
 9. **souvenir** : (n) đồ lưu niệm /ˌsuːvəˈnɪə/
-10. **aware** : (adj) nhận thức /əˈweə/
+10. **ban** : (v, n) cấm /bæn/
 
 ---
 
-### Bài 1 (trang 106)
+### Bài 1 (trang 104)
 
-**1. Work in pairs. Discuss what you know about endangered animals and ways to save them**
+**1. Work in pairs and answer the question.**
 
-*(Làm việc theo cặp. Thảo luận về những gì bạn biết về động vật có nguy cơ tuyệt chủng và cách cứu chúng)*
+*(Làm việc theo cặp và trả lời câu hỏi.)*
 
-#### Lời giải mẫu:
+**What is happening to the animals in the pictures?**
 
-**A:** What do you know about endangered animals?
+*(Điều gì đang xảy ra với con vật trong tranh?)*
 
-**B:** Endangered animals are species that are at risk of becoming extinct. Some examples are pandas, tigers, elephants, and rhinos.
+#### Lời giải chi tiết:
 
-**A:** What are the main threats to these animals?
+- **Picture a:** The rhino is being hunted.
+  *(Tranh a: Con tê giác đang bị săn bắt.)*
 
-**B:** The main threats include illegal hunting, habitat loss, and climate change.
-
-**A:** How can we save them?
-
-**B:** We can save them by creating nature reserves, banning illegal hunting and wildlife trade, and raising awareness about their importance.
-
-#### Hướng dẫn dịch:
-
-**A:** Bạn biết gì về động vật có nguy cơ tuyệt chủng?
-
-**B:** Động vật có nguy cơ tuyệt chủng là các loài có nguy cơ bị tuyệt chủng. Một số ví dụ là gấu trúc, hổ, voi và tê giác.
-
-**A:** Những mối đe dọa chính đối với những loài động vật này là gì?
-
-**B:** Những mối đe dọa chính bao gồm săn bắn trái phép, mất môi trường sống và biến đổi khí hậu.
-
-**A:** Làm thế nào chúng ta có thể cứu chúng?
-
-**B:** Chúng ta có thể cứu chúng bằng cách tạo ra các khu bảo tồn thiên nhiên, cấm săn bắn trái phép và buôn bán động vật hoang dã, và nâng cao nhận thức về tầm quan trọng của chúng.
+- **Picture b:** The wild tiger is being kept in a cage. / The wild tiger is being held in captivity.
+  *(Tranh b: Con hổ hoang dã bị nhốt trong chuồng. / Con hổ hoang dã đang bị giam cầm.)*
 
 ---
 
-### Bài 2 (trang 106)
+### Bài 2 (trang 104)
 
-**2. Listen to a conversation between Nam and Mai about ways to save endangered animals. Decide whether the statements are true (T) or false (F)**
+**2. Nam and Mai are talking about Mai's project on ways to save endangered animals. Listen to the conversation and decide whether the statements are true (T) or false (F).**
 
-*(Nghe cuộc hội thoại giữa Nam và Mai về các cách để cứu động vật có nguy cơ tuyệt chủng. Quyết định xem các câu nói là đúng (T) hay sai (F))*
+*(Nam và Mai đang nói về dự án của Mai về cách cứu những động vật có nguy cơ tuyệt chủng. Nghe cuộc trò chuyện và quyết định xem các câu sau đúng (T) hay sai (F).)*
 
-1. Mai will complete her mid-term project in two weeks.
-2. Nam believes that people should first be made aware of the importance of the problem.
-3. Mai thinks that illegal hunting destroys wild animals' natural habitats.
-4. Nam believes that illegal hunting can be prevented by banning wildlife trade.
+| | Statement | T | F |
+|---|-----------|---|---|
+| 1 | Mai will complete her mid-term project in two weeks. | | |
+| 2 | Nam believes that people should first be made aware of the importance of the problem. | | |
+| 3 | Mai thinks that illegal hunting may not destroy wild animals' natural habitats. | | |
+| 4 | Nam believes that illegal hunting can be prevented by banning wildlife trade. | | |
 
 #### Lời giải chi tiết:
 
@@ -71,27 +57,50 @@
 |-----|--------|
 | 1 | F |
 | 2 | T |
-| 3 | T |
+| 3 | F |
 | 4 | T |
 
 #### Giải thích:
 
-1. **F** - Mai phải hoàn thành dự án giữa kỳ vào tuần sau, không phải trong hai tuần.
-2. **T** - Nam tin rằng mọi người nên được nhận thức về tầm quan trọng của vấn đề trước.
-3. **T** - Mai nghĩ rằng săn bắn trái phép phá hủy môi trường sống tự nhiên của động vật hoang dã.
-4. **T** - Nam tin rằng việc cấm buôn bán động vật hoang dã có thể ngăn chặn săn bắn trái phép.
+**1. F** - Mai will complete her mid-term project in two weeks.
+*(Mai sẽ hoàn thành dự án giữa kỳ của mình trong hai tuần.)*
+
+→ Sai. Mai phải hoàn thành dự án vào thứ Hai tuần tới, không phải trong hai tuần.
+
+Thông tin: "I'm trying to complete it by next Monday."
+
+**2. T** - Nam believes that people should first be made aware of the importance of the problem.
+*(Nam tin rằng mọi người trước hết nên nhận thức được tầm quan trọng của vấn đề.)*
+
+→ Đúng.
+
+Thông tin: "Well, I think the first thing you should do is help people understand the importance of this problem."
+
+**3. F** - Mai thinks that illegal hunting may not destroy wild animals' natural habitats.
+*(Mai nghĩ rằng săn bắn trái phép có thể không phá hủy môi trường sống tự nhiên của động vật hoang dã.)*
+
+→ Sai. Mai nghĩ săn bắn trái phép CÓ phá hủy môi trường sống tự nhiên.
+
+Thông tin: "Yes, hunting causes a lot of suffering to wild animals. It destroys their natural habitats, and leaves baby animals behind to die."
+
+**4. T** - Nam believes that illegal hunting can be prevented by banning wildlife trade.
+*(Nam tin rằng việc săn bắn trái phép có thể được ngăn chặn bằng cách cấm buôn bán động vật hoang dã.)*
+
+→ Đúng.
+
+Thông tin: "Heavy punishment may prevent people from illegal hunting. Besides, wildlife trade should be banned as well."
 
 ---
 
 ### Audio Script (Bài nghe):
 
-**Nam:** Hi, Mai. What are you doing?
+**Nam:** Hi, Mai. How's your mid-term project going?
 
-**Mai:** I'm doing research for my mid-term project on ways to save endangered animals. I have to complete it next week.
+**Mai:** Good! I'm trying to complete it by next Monday. But I'm still working on the last part: saving endangered animals. Do you have any ideas, Nam?
 
-**Nam:** Oh, that sounds interesting. What have you found so far?
+**Nam:** Well, I think the first thing you should do is help people understand the importance of this problem.
 
-**Mai:** Well, I think the first step is to make people aware of the importance of protecting endangered animals. If people understand why these animals are important, they will want to help protect them.
+**Mai:** Yes, I agree. Some people think this is a natural process that would happen with or without humans. They also believe that's not their responsibility.
 
 **Nam:** You should also do some research on the number of endangered animals. We are losing animals quicker now than ever before. And one of the reasons is illegal hunting.
 
@@ -99,121 +108,109 @@
 
 **Nam:** Well, I think strict laws can really help. Heavy punishment may prevent people from illegal hunting. Besides, wildlife trade should be banned as well.
 
-**Mai:** That's a good point. By the way, we should also make sure that the souvenirs we buy on holiday are not made from endangered animal parts.
+**Mai:** That would stop illegal hunting. Any more ideas, Nam?
 
-**Nam:** Absolutely. Good luck with your project!
+**Nam:** And we should make sure that the souvenirs we buy on holiday are not made from endangered animal parts.
 
-**Mai:** Thanks, Nam!
+**Mai:** That's true. Thanks, Nam! You've been so helpful.
 
 #### Hướng dẫn dịch bài nghe:
 
-**Nam:** Chào Mai. Bạn đang làm gì vậy?
+**Nam:** Chào Mai. Dự án giữa kỳ của bạn thế nào?
 
-**Mai:** Mình đang nghiên cứu cho dự án giữa kỳ về các cách cứu động vật có nguy cơ tuyệt chủng. Mình phải hoàn thành nó vào tuần tới.
+**Mai:** Tốt! Mình đang cố gắng hoàn thành nó vào thứ Hai tới. Nhưng mình vẫn đang thực hiện phần cuối cùng: cứu những động vật có nguy cơ tuyệt chủng. Bạn có ý kiến gì không Nam?
 
-**Nam:** Ồ, nghe có vẻ thú vị. Cho đến nay bạn đã tìm được gì?
+**Nam:** À, mình nghĩ điều đầu tiên bạn nên làm là giúp mọi người hiểu được tầm quan trọng của vấn đề này.
 
-**Mai:** À, mình nghĩ bước đầu tiên là làm cho mọi người nhận thức được tầm quan trọng của việc bảo vệ động vật có nguy cơ tuyệt chủng. Nếu mọi người hiểu tại sao những loài động vật này quan trọng, họ sẽ muốn giúp bảo vệ chúng.
+**Mai:** Đúng, mình đồng ý. Một số người nghĩ rằng đây là một quá trình tự nhiên sẽ xảy ra có hoặc không có con người. Họ cũng tin rằng đó không phải là trách nhiệm của họ.
 
-**Nam:** Bạn cũng nên nghiên cứu về số lượng động vật có nguy cơ tuyệt chủng. Chúng ta đang mất động vật nhanh hơn bao giờ hết. Và một trong những lý do là săn bắn trái phép.
+**Nam:** Bạn cũng nên thực hiện một số nghiên cứu về số lượng các loài động vật có nguy cơ tuyệt chủng. Chúng ta đang mất dần động vật nhanh hơn bao giờ hết. Và một trong những lý do là nạn săn bắn trái phép.
 
-**Mai:** Đúng vậy, săn bắn gây ra rất nhiều đau khổ cho động vật hoang dã. Nó phá hủy môi trường sống tự nhiên của chúng, và để lại những con vật non phía sau để chết.
+**Mai:** Đúng vậy, săn bắn gây ra rất nhiều đau thương cho động vật hoang dã. Nó phá hủy môi trường sống tự nhiên của chúng, và để lại những con vật con sau khi chết.
 
-**Nam:** À, mình nghĩ các luật nghiêm ngặt có thể thực sự giúp ích. Hình phạt nặng có thể ngăn chặn mọi người săn bắn trái phép. Bên cạnh đó, buôn bán động vật hoang dã cũng nên bị cấm.
+**Nam:** Chà, mình nghĩ những luật thật nghiêm minh thực sự có thể giúp ích. Hình phạt nặng có thể ngăn cản người dân săn bắn trái phép. Bên cạnh đó, buôn bán động vật hoang dã cũng nên bị cấm.
 
-**Mai:** Đó là một điểm tốt. Nhân tiện, chúng ta cũng nên đảm bảo rằng đồ lưu niệm chúng ta mua trong kỳ nghỉ không được làm từ các bộ phận của động vật có nguy cơ tuyệt chủng.
+**Mai:** Điều đó sẽ ngăn chặn việc săn bắn bất hợp pháp. Bạn còn ý gì nữa không Nam?
 
-**Nam:** Chắc chắn rồi. Chúc may mắn với dự án của bạn!
+**Nam:** Và chúng ta nên đảm bảo rằng những món quà lưu niệm mà chúng ta mua vào kỳ nghỉ không được làm từ các bộ phận của động vật có nguy cơ tuyệt chủng.
 
-**Mai:** Cảm ơn Nam!
+**Mai:** Đúng là như vậy. Cảm ơn Nam! Bạn đã giúp mình nhiều lắm.
 
 ---
 
-### Bài 3 (trang 106)
+### Bài 3 (trang 105)
 
-**3. Listen again and complete the notes. Use ONE word for each gap**
+**3. Listen to the conversation again and complete the notes. Use ONE word for each gap.**
 
-*(Nghe lại và hoàn thành các ghi chú. Sử dụng MỘT từ cho mỗi chỗ trống)*
+*(Nghe lại đoạn hội thoại và hoàn thành các ghi chú. Sử dụng MỘT từ cho mỗi khoảng trống.)*
 
-**Ways to save endangered animals:**
+**Ways to save endangered animals**
+*(Cách để cứu các loài động vật có nguy cơ tuyệt chủng)*
 
-1. Raise people's _______ about the importance of protecting endangered animals.
-2. Introduce strict _______ and heavy punishment against illegal hunting.
-3. _______ wildlife trade.
-4. Make sure souvenirs are not made from endangered animal _______.
+- Helping people understand the (1) _______ of the problem
+- Introducing strict (2) _______ to prevent people from illegal hunting
+- Banning wildlife (3) _______
+- Avoiding products made from endangered (4) _______ parts
 
 #### Lời giải chi tiết:
 
 | Câu | Đáp án |
 |-----|--------|
-| 1 | awareness |
+| 1 | importance |
 | 2 | laws |
-| 3 | Ban |
-| 4 | parts |
+| 3 | trade |
+| 4 | animal |
 
 #### Hướng dẫn dịch:
 
-**Các cách cứu động vật có nguy cơ tuyệt chủng:**
+**Cách để cứu các loài động vật có nguy cơ tuyệt chủng:**
 
-1. Nâng cao **nhận thức** của mọi người về tầm quan trọng của việc bảo vệ động vật có nguy cơ tuyệt chủng.
-2. Đưa ra các **luật** nghiêm ngặt và hình phạt nặng chống lại săn bắn trái phép.
-3. **Cấm** buôn bán động vật hoang dã.
-4. Đảm bảo đồ lưu niệm không được làm từ các **bộ phận** của động vật có nguy cơ tuyệt chủng.
+- Giúp mọi người hiểu được **tầm quan trọng** của vấn đề
+- Đưa ra **luật** nghiêm minh để ngăn chặn mọi người săn bắn trái phép
+- Cấm **buôn bán** động vật hoang dã
+- Tránh các sản phẩm làm từ các bộ phận của **động vật** có nguy cơ tuyệt chủng
 
 ---
 
-### Bài 4 (trang 106)
+### Bài 4 (trang 105)
 
-**4. Work in groups. Discuss the question: Which is the most effective way to save endangered animals? Why?**
+**4. Work in groups and answer the questions.**
 
-*(Làm việc theo nhóm. Thảo luận câu hỏi: Cách hiệu quả nhất để cứu động vật có nguy cơ tuyệt chủng là gì? Tại sao?)*
+*(Làm việc nhóm và trả lời các câu hỏi.)*
+
+**Which is the most effective way to save endangered animals? Why?**
+
+*(Cách bảo vệ động vật có nguy cơ tuyệt chủng nào là hiệu quả nhất? Tại sao?)*
 
 #### Lời giải mẫu:
 
-In my opinion, the most effective way to save endangered animals is to raise people's awareness about the importance of protecting them. Here are my reasons:
-
-First, when people understand why endangered animals are important, they will naturally want to help protect them. They may stop buying products made from animal parts and support conservation efforts.
-
-Second, raising awareness can lead to changes in laws and policies. When many people care about this issue, the government is more likely to introduce strict laws against illegal hunting and wildlife trade.
-
-Finally, education about endangered animals should start from a young age. Schools can organize activities to teach children about wildlife conservation. These children will grow up to become responsible citizens who care about the environment.
+I believe that the best way to protect endangered animals is to protect their lives. In other words, introducing strict laws to prevent people from illegal hunting is the most effective way to me. If people stop hunting animals illegally, we are not going to lose animals quickly, especially endangered ones.
 
 #### Hướng dẫn dịch:
 
-Theo tôi, cách hiệu quả nhất để cứu động vật có nguy cơ tuyệt chủng là nâng cao nhận thức của mọi người về tầm quan trọng của việc bảo vệ chúng. Đây là những lý do của tôi:
-
-Thứ nhất, khi mọi người hiểu tại sao động vật có nguy cơ tuyệt chủng quan trọng, họ sẽ tự nhiên muốn giúp bảo vệ chúng. Họ có thể ngừng mua các sản phẩm làm từ bộ phận động vật và hỗ trợ các nỗ lực bảo tồn.
-
-Thứ hai, nâng cao nhận thức có thể dẫn đến thay đổi trong luật pháp và chính sách. Khi nhiều người quan tâm đến vấn đề này, chính phủ có nhiều khả năng đưa ra các luật nghiêm ngặt chống lại săn bắn trái phép và buôn bán động vật hoang dã.
-
-Cuối cùng, giáo dục về động vật có nguy cơ tuyệt chủng nên bắt đầu từ khi còn nhỏ. Các trường học có thể tổ chức các hoạt động để dạy trẻ em về bảo tồn động vật hoang dã. Những đứa trẻ này sẽ lớn lên trở thành những công dân có trách nhiệm quan tâm đến môi trường.
+Tôi tin rằng cách tốt nhất để bảo vệ các loài động vật có nguy cơ tuyệt chủng là bảo vệ cuộc sống của chúng. Nói cách khác, đưa ra luật nghiêm khắc để ngăn chặn mọi người săn bắn trái phép là cách hiệu quả nhất đối với tôi. Nếu mọi người ngừng săn bắt động vật bất hợp pháp, chúng ta sẽ không mất đi động vật nhanh chóng, đặc biệt là những loài có nguy cơ tuyệt chủng.
 
 ---
 
 ## Vocabulary (Từ vựng)
 
-1. **endangered animal** : (n.phr) động vật có nguy cơ tuyệt chủng /ɪnˈdeɪndʒəd ˈænɪml/
-2. **save** : (v) cứu /seɪv/
-3. **hunting** : (n) săn bắn /ˈhʌntɪŋ/
-4. **illegal** : (adj) bất hợp pháp /ɪˈliːɡl/
-5. **suffering** : (n) sự đau khổ /ˈsʌfərɪŋ/
-6. **ban** : (v, n) cấm /bæn/
-7. **trade** : (n, v) buôn bán /treɪd/
-8. **punishment** : (n) hình phạt /ˈpʌnɪʃmənt/
-9. **souvenir** : (n) đồ lưu niệm /ˌsuːvəˈnɪə/
-10. **aware** : (adj) nhận thức /əˈweə/
-11. **awareness** : (n) nhận thức /əˈweənəs/
-12. **mid-term project** : (n.phr) dự án giữa kỳ /mɪd tɜːm ˈprɒdʒekt/
-13. **complete** : (v) hoàn thành /kəmˈpliːt/
-14. **research** : (n, v) nghiên cứu /rɪˈsɜːtʃ/
-15. **threat** : (n) mối đe dọa /θret/
-16. **habitat loss** : (n.phr) mất môi trường sống /ˈhæbɪtæt lɒs/
-17. **nature reserve** : (n.phr) khu bảo tồn thiên nhiên /ˈneɪtʃə rɪˈzɜːv/
-18. **strict law** : (n.phr) luật nghiêm ngặt /strɪkt lɔː/
-19. **heavy punishment** : (n.phr) hình phạt nặng /ˈhevi ˈpʌnɪʃmənt/
-20. **wildlife trade** : (n.phr) buôn bán động vật hoang dã /ˈwaɪldlaɪf treɪd/
-21. **animal parts** : (n.phr) bộ phận động vật /ˈænɪml pɑːts/
-22. **conservation** : (n) bảo tồn /ˌkɒnsəˈveɪʃn/
-23. **effective** : (adj) hiệu quả /ɪˈfektɪv/
-24. **support** : (v) hỗ trợ /səˈpɔːt/
-25. **responsible** : (adj) có trách nhiệm /rɪˈspɒnsəbl/
+1. **wildlife trade** : (n.phr) buôn bán động vật hoang dã /ˈwaɪldlaɪf treɪd/
+2. **mid-term project** : (n.phr) dự án giữa kỳ /mɪd tɜːm ˈprɒdʒekt/
+3. **prevent someone from** : (v.phr) ngăn cản ai đó /prɪˈvent ˈsʌmwʌn frɒm/
+4. **rhino** : (n) tê giác /ˈraɪnəʊ/
+5. **captivity** : (n) sự giam cầm /kæpˈtɪvəti/
+6. **cage** : (n) chuồng, lồng /keɪdʒ/
+7. **suffering** : (n) sự đau khổ /ˈsʌfərɪŋ/
+8. **natural habitats** : (n.phr) môi trường sống tự nhiên /ˈnætʃrəl ˈhæbɪtæts/
+9. **strict laws** : (n.phr) luật nghiêm minh /strɪkt lɔːz/
+10. **heavy punishment** : (n.phr) hình phạt nặng /ˈhevi ˈpʌnɪʃmənt/
+11. **ban** : (v, n) cấm /bæn/
+12. **souvenir** : (n) đồ lưu niệm /ˌsuːvəˈnɪə/
+13. **animal parts** : (n.phr) bộ phận động vật /ˈænɪml pɑːts/
+14. **importance** : (n) tầm quan trọng /ɪmˈpɔːtns/
+15. **responsibility** : (n) trách nhiệm /rɪˌspɒnsəˈbɪləti/
+16. **effective** : (adj) hiệu quả /ɪˈfektɪv/
+17. **illegal hunting** : (n.phr) săn bắn trái phép /ɪˈliːɡl ˈhʌntɪŋ/
+18. **endangered** : (adj) có nguy cơ tuyệt chủng /ɪnˈdeɪndʒəd/
+19. **complete** : (v) hoàn thành /kəmˈpliːt/
+20. **research** : (n, v) nghiên cứu /rɪˈsɜːtʃ/
