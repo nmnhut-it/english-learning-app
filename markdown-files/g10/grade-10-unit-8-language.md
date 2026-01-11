@@ -5,17 +5,58 @@
 
 ### Lý thuyết:
 
-Trong câu tiếng Anh, các từ mang nội dung chính (content words) thường được nhấn mạnh:
-1. **Danh từ** : (nouns) students, school, video
-2. **Động từ chính** : (main verbs) watch, learn, study
-3. **Tính từ** : (adjectives) new, useful, interesting
-4. **Trạng từ** : (adverbs) always, never, often
+#### 1. Trọng âm câu là gì? (What is sentence stress?)
 
-Các từ chức năng (function words) thường không được nhấn:
-- Mạo từ: a, an, the
-- Giới từ: in, on, at, to
-- Đại từ: I, you, he, she
-- Trợ động từ: can, will, do
+Trọng âm câu là sự **nhấn mạnh** vào một vài từ nhất định trong câu. Các từ được nhấn mạnh sẽ được phát âm **to hơn, rõ ràng hơn và kéo dài hơn** so với các từ khác.
+
+#### 2. Từ nào được nhấn mạnh? (Content words - Từ mang nội dung)
+
+Chúng ta thường nhấn vào các **từ chứa nội dung chính** của câu:
+
+| Loại từ | Tiếng Anh | Ví dụ | Giải thích |
+|---------|-----------|-------|------------|
+| **Danh từ** | Nouns | **students**, **school**, **video**, **project** | Chỉ người, vật, địa điểm |
+| **Động từ chính** | Main verbs | **watch**, **learn**, **study**, **finish** | Diễn tả hành động chính |
+| **Tính từ** | Adjectives | **new**, **useful**, **interesting**, **good** | Mô tả danh từ |
+| **Trạng từ** | Adverbs | **always**, **never**, **often**, **really** | Mô tả động từ/tính từ |
+| **Từ để hỏi** | Question words | **what**, **where**, **when**, **why**, **how** | Dùng trong câu hỏi |
+| **Từ phủ định** | Negative words | **not**, **never**, **no** | Mang nghĩa phủ định |
+
+#### 3. Từ nào KHÔNG được nhấn mạnh? (Function words - Từ chức năng)
+
+Các từ chức năng thường được phát âm **nhanh và nhẹ**:
+
+| Loại từ | Tiếng Anh | Ví dụ |
+|---------|-----------|-------|
+| Mạo từ | Articles | a, an, the |
+| Giới từ | Prepositions | in, on, at, to, for, with |
+| Đại từ | Pronouns | I, you, he, she, it, we, they |
+| Trợ động từ | Auxiliary verbs | can, will, do, have, be |
+| Liên từ | Conjunctions | and, but, or, that |
+
+#### 4. Ví dụ minh họa:
+
+**Câu:** *We should FINISH the PROJECT for our HISTORY CLASS.*
+
+| Từ | Nhấn mạnh? | Lý do |
+|----|------------|-------|
+| We | ❌ | Đại từ |
+| should | ❌ | Trợ động từ |
+| **FINISH** | ✅ | Động từ chính |
+| the | ❌ | Mạo từ |
+| **PROJECT** | ✅ | Danh từ |
+| for | ❌ | Giới từ |
+| our | ❌ | Tính từ sở hữu |
+| **HISTORY** | ✅ | Danh từ |
+| **CLASS** | ✅ | Danh từ |
+
+#### 5. Mẹo ghi nhớ:
+
+> 💡 **"Từ quan trọng = Nhấn mạnh"**
+>
+> Hãy tưởng tượng bạn đang gửi tin nhắn SMS và chỉ có thể viết 5 từ. Bạn sẽ giữ lại những từ nào? → Đó chính là những từ cần nhấn mạnh!
+>
+> Ví dụ: "I am going to the school" → **"going school"** (2 từ quan trọng)
 
 ---
 
@@ -145,31 +186,136 @@ Các từ chức năng (function words) thường không được nhấn:
 
 ### Lý thuyết:
 
-#### 1. Mệnh đề quan hệ xác định (Defining relative clauses)
-- Cung cấp thông tin **cần thiết** về người hoặc vật được đề cập
-- **Không có dấu phẩy** ngăn cách với mệnh đề chính
-- Có thể dùng **that** thay cho **who/which**
+#### 1. Mệnh đề quan hệ là gì? (What is a relative clause?)
+
+Mệnh đề quan hệ là mệnh đề **bổ sung thông tin** cho danh từ đứng trước nó. Mệnh đề này thường bắt đầu bằng một **đại từ quan hệ** (who, which, that, whose).
+
+**Cấu trúc:**
+```
+Danh từ + [Đại từ quan hệ + Mệnh đề] + Phần còn lại của câu
+```
 
 **Ví dụ:**
-- The students **who/that** work hard will succeed.
-- The book **which/that** I read was interesting.
+- The students **who study hard** will succeed.
+  - *Danh từ:* The students
+  - *Mệnh đề quan hệ:* who study hard
 
-#### 2. Mệnh đề quan hệ không xác định (Non-defining relative clauses)
-- Cung cấp thông tin **bổ sung** về người hoặc vật được đề cập
-- **Có dấu phẩy** ngăn cách với mệnh đề chính
-- **KHÔNG dùng that**
+---
+
+#### 2. Các đại từ quan hệ (Relative pronouns)
+
+| Đại từ | Thay thế cho | Chức năng | Ví dụ |
+|--------|--------------|-----------|-------|
+| **WHO** | Người | Chủ ngữ/Tân ngữ | The girl **who** is singing is my sister. |
+| **WHICH** | Vật/Động vật | Chủ ngữ/Tân ngữ | The book **which** I bought is interesting. |
+| **THAT** | Người/Vật | Chủ ngữ/Tân ngữ | The teacher **that** teaches us is kind. |
+| **WHOSE** | Người/Vật | Chỉ sở hữu | The boy **whose** father is a doctor studies well. |
+
+##### Chi tiết từng đại từ:
+
+**a) WHO - dùng cho người:**
+```
+...N (người) + WHO + V + O
+...N (người) + WHO + S + V
+```
+- The man **who** is standing there is my father. *(who = chủ ngữ)*
+- The teacher **who** I met yesterday is very nice. *(who = tân ngữ)*
+
+**b) WHICH - dùng cho vật:**
+```
+...N (vật) + WHICH + V + O
+...N (vật) + WHICH + S + V
+```
+- The movie **which** won the award is great. *(which = chủ ngữ)*
+- The laptop **which** I bought last week is fast. *(which = tân ngữ)*
+
+**c) THAT - dùng cho cả người và vật:**
+```
+...N (người/vật) + THAT + V + O
+...N (người/vật) + THAT + S + V
+```
+- The students **that** work hard will succeed.
+- The app **that** helps me learn is free.
+
+> ⚠️ **Lưu ý:** THAT không dùng trong mệnh đề không xác định (có dấu phẩy)
+
+**d) WHOSE - chỉ sở hữu:**
+```
+...N (người/vật) + WHOSE + N + V
+```
+- The girl **whose** mother is a singer dances well.
+  *(= The girl's mother is a singer)*
+- The house **whose** roof is red belongs to Mr. Nam.
+  *(= The house's roof is red)*
+
+---
+
+#### 3. Hai loại mệnh đề quan hệ
+
+##### A. Mệnh đề quan hệ XÁC ĐỊNH (Defining relative clauses)
+
+| Đặc điểm | Giải thích |
+|----------|------------|
+| **Thông tin** | Cần thiết để xác định người/vật được nói đến |
+| **Dấu phẩy** | ❌ KHÔNG có dấu phẩy |
+| **Dùng THAT** | ✅ Có thể dùng THAT thay WHO/WHICH |
+| **Bỏ mệnh đề** | Nếu bỏ → câu không rõ nghĩa hoặc sai |
 
 **Ví dụ:**
-- My teacher, **who** is very kind, helps me a lot.
-- This book, **which** was written in 2020, is very popular.
+- The students **who/that study hard** will succeed.
+  - *Bỏ mệnh đề:* "The students will succeed." → Không biết học sinh nào
+- The book **which/that I bought** is interesting.
+  - *Bỏ mệnh đề:* "The book is interesting." → Không biết sách nào
 
-#### Đại từ quan hệ:
-| Đại từ | Chức năng |
-|--------|-----------|
-| **who** | thay thế cho người (chủ ngữ/tân ngữ) |
-| **which** | thay thế cho vật (chủ ngữ/tân ngữ) |
-| **that** | thay thế cho người/vật (chỉ dùng trong mệnh đề xác định) |
-| **whose** | chỉ sở hữu (của ai/của cái gì) |
+##### B. Mệnh đề quan hệ KHÔNG XÁC ĐỊNH (Non-defining relative clauses)
+
+| Đặc điểm | Giải thích |
+|----------|------------|
+| **Thông tin** | Bổ sung thêm, không cần thiết để xác định |
+| **Dấu phẩy** | ✅ CÓ dấu phẩy ngăn cách |
+| **Dùng THAT** | ❌ KHÔNG dùng THAT |
+| **Bỏ mệnh đề** | Nếu bỏ → câu vẫn đúng và rõ nghĩa |
+
+**Khi nào dùng mệnh đề không xác định?**
+- Khi danh từ là **tên riêng**: Peter, Lan, Ha Noi...
+- Khi danh từ có **tính từ sở hữu**: my, his, her, their...
+- Khi danh từ có **this/that/these/those**
+
+**Ví dụ:**
+- **Peter**, **who** is my friend, studies in London.
+  - *Bỏ mệnh đề:* "Peter studies in London." → Vẫn rõ nghĩa vì đã biết Peter là ai
+- **My brother**, **who** is good at computers, helps me.
+  - *Bỏ mệnh đề:* "My brother helps me." → Vẫn rõ nghĩa
+- **This app**, **which** can help improve pronunciation, is free.
+  - *Bỏ mệnh đề:* "This app is free." → Vẫn rõ nghĩa
+
+---
+
+#### 4. Bảng so sánh hai loại mệnh đề
+
+| Tiêu chí | Xác định | Không xác định |
+|----------|----------|----------------|
+| Dấu phẩy | ❌ Không | ✅ Có |
+| Dùng THAT | ✅ Được | ❌ Không |
+| Thông tin | Cần thiết | Bổ sung |
+| Ví dụ | The girl **who** sings is Lan. | Lan, **who** sings well, is my friend. |
+
+---
+
+#### 5. Mẹo ghi nhớ:
+
+> 💡 **Cách phân biệt WHO và WHICH:**
+> - **WHO** = **W**ho is a person? → Người
+> - **WHICH** = **W**hich thing? → Vật
+
+> 💡 **Cách nhớ WHOSE:**
+> - **WHOSE** = WHO + 'S (sở hữu)
+> - Sau WHOSE luôn là **danh từ**
+
+> 💡 **Cách nhớ dấu phẩy:**
+> - Tên riêng (Peter, Lan) → Có dấu phẩy
+> - my/his/her + danh từ → Có dấu phẩy
+> - this/that + danh từ → Có dấu phẩy
 
 ---
 
