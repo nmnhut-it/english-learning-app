@@ -53,7 +53,7 @@
 
 **Mai:** Because I don't want to leave litter behind. ↘ It's not good for the environment. ↘
 
-**Mum:** That's a good idea. ↘
+**Mum:** That's a good idea. ↗
 
 #### Hướng dẫn dịch:
 
