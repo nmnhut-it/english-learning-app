@@ -1,0 +1,23 @@
+{
+  "name": "the-lost-chapter",
+  "version": "1.0.0",
+  "description": "Interactive audiobook platform with voice cloning",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --port 3010",
+    "build": "vite build",
+    "preview": "vite preview",
+    "validate": "node tools/book-builder/validate.js",
+    "new:book": "node tools/book-builder/scaffold.js book",
+    "new:chapter": "node tools/book-builder/scaffold.js chapter",
+    "tts:setup": "cd tools/tts && pip install -r requirements.txt",
+    "tts:generate": "python tools/tts/generate.py",
+    "tts:clone": "python tools/tts/clone-voice.py",
+    "tts:batch": "python tools/tts/batch-generate.py",
+    "deploy": "npm run build && gh-pages -d dist"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0",
+    "gh-pages": "^6.1.0"
+  }
+}

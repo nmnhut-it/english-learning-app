@@ -1,0 +1,9 @@
+{
+  "id": "sample-book",
+  "title": "The Lost Chapter",
+  "author": "TheLostChapter",
+  "language": "en",
+  "coverImage": "cover.jpg",
+  "description": "An interactive sample book demonstrating all content types - audio narration, images, markdown, and exercises.",
+  "chapters": ["ch01", "ch02"]
+}

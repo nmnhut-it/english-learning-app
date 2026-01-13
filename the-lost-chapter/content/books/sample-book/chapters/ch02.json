@@ -1,0 +1,56 @@
+{
+  "id": "ch02",
+  "title": "First Steps",
+  "sections": [
+    {
+      "type": "markdown",
+      "content": "# Chapter 2: First Steps\n\nWith the morning sun casting long shadows through the ancient trees, the traveler took the first steps into the unknown forest."
+    },
+    {
+      "type": "audio",
+      "src": "ch02-narration.mp3",
+      "transcript": "The forest was alive with whispers. Leaves rustled with ancient secrets. Birds sang melodies that seemed to guide the way forward. Every step revealed something new - a flower that glowed softly, a stream that sparkled like diamonds.",
+      "timestamps": [
+        { "start": 0.0, "end": 2.5, "text": "The forest was alive with whispers." },
+        { "start": 2.5, "end": 5.0, "text": "Leaves rustled with ancient secrets." },
+        { "start": 5.0, "end": 8.0, "text": "Birds sang melodies that seemed to guide the way forward." },
+        { "start": 8.0, "end": 12.0, "text": "Every step revealed something new -" },
+        { "start": 12.0, "end": 15.5, "text": "a flower that glowed softly, a stream that sparkled like diamonds." }
+      ]
+    },
+    {
+      "type": "markdown",
+      "content": "## Vocabulary\n\n| Word | Meaning | Vietnamese |\n|------|---------|------------|\n| whisper | to speak very softly | thì thầm |\n| ancient | very old | cổ xưa |\n| melody | a tune, a sequence of musical notes | giai điệu |\n| sparkle | to shine with small bright flashes | lấp lánh |"
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "vocabulary",
+      "question": "Match the word with its meaning:",
+      "options": [
+        "Ancient means very old",
+        "Ancient means very new",
+        "Ancient means very large",
+        "Ancient means very small"
+      ],
+      "correct": 0,
+      "feedback": {
+        "correct": "Perfect! Ancient refers to something from a long time ago.",
+        "incorrect": "Ancient describes something that is very old, from long ago."
+      }
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "fill_blank",
+      "question": "Complete the sentence: The leaves _______ with ancient secrets.",
+      "answer": "rustled",
+      "feedback": {
+        "correct": "Well done! Rustled describes the soft sound leaves make.",
+        "incorrect": "The word you're looking for describes the sound leaves make when they move."
+      }
+    },
+    {
+      "type": "markdown",
+      "content": "---\n\n*To be continued...*\n\nThe traveler's journey has just begun. What mysteries await in the depths of this enchanted forest? Find out in the next chapter."
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "ch01",
+  "title": "The Beginning",
+  "sections": [
+    {
+      "type": "markdown",
+      "content": "# Chapter 1: The Beginning\n\nWelcome to **The Lost Chapter**, an interactive audiobook experience. This sample demonstrates all the content types available.\n\n> Every great story begins with a single step into the unknown."
+    },
+    {
+      "type": "audio",
+      "src": "ch01-intro.mp3",
+      "transcript": "Once upon a time, in a land where stories came alive, there lived a curious traveler. This traveler had heard tales of a lost chapter, one that held the secrets of wisdom and wonder.",
+      "timestamps": [
+        { "start": 0.0, "end": 3.5, "text": "Once upon a time, in a land where stories came alive," },
+        { "start": 3.5, "end": 6.0, "text": "there lived a curious traveler." },
+        { "start": 6.0, "end": 9.5, "text": "This traveler had heard tales of a lost chapter," },
+        { "start": 9.5, "end": 13.0, "text": "one that held the secrets of wisdom and wonder." }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "scene-forest.jpg",
+      "alt": "A mystical forest path with golden light filtering through ancient trees",
+      "caption": "The forest where our journey begins"
+    },
+    {
+      "type": "markdown",
+      "content": "## The Journey Awaits\n\nThe traveler packed a small bag with essentials:\n\n- A worn leather journal\n- A compass that always pointed towards curiosity\n- Three golden coins of kindness\n- A map with many blank spaces\n\n*\"The best maps,\"* the traveler thought, *\"are the ones we fill in ourselves.\"*"
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "multiple_choice",
+      "question": "What did the traveler hear tales about?",
+      "options": [
+        "A hidden treasure",
+        "A lost chapter",
+        "A magical sword",
+        "A wise owl"
+      ],
+      "correct": 1,
+      "feedback": {
+        "correct": "Excellent! The lost chapter is what drew the traveler on this journey.",
+        "incorrect": "Not quite. Re-read the introduction - what secrets did the tales speak of?"
+      }
+    },
+    {
+      "type": "pause",
+      "message": "Take a moment to imagine yourself as the traveler. What would you pack for such a journey?",
+      "duration": 30
+    }
+  ]
+}

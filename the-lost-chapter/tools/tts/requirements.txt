@@ -1,0 +1,25 @@
+# TheLostChapter TTS Requirements
+# Voice cloning with multi-language support (English, Vietnamese)
+
+# Core TTS - Coqui XTTS v2 (best for voice cloning + multilingual)
+TTS>=0.22.0
+
+# Audio processing
+pydub>=0.25.1
+soundfile>=0.12.1
+librosa>=0.10.1
+numpy>=1.24.0
+
+# For batch processing
+tqdm>=4.66.0
+pyyaml>=6.0.1
+
+# Optional: Edge TTS for quick generation without cloning
+edge-tts>=6.1.9
+
+# Optional: OpenVoice for lightweight cloning
+# openvoice @ git+https://github.com/myshell-ai/OpenVoice.git
+
+# GPU acceleration (install appropriate version for your CUDA)
+# torch>=2.1.0
+# torchaudio>=2.1.0
