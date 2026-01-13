@@ -1,0 +1,40 @@
+{
+  "id": "ch01",
+  "title": "The Beginning",
+  "sections": [
+    {
+      "type": "markdown",
+      "content": "# Chapter 1: The Beginning\n\nWelcome to **The Lost Chapter**, an interactive audiobook experience. This sample demonstrates all the content types available.\n\n> Every great story begins with a single step into the unknown."
+    },
+    {
+      "type": "audio",
+      "src": "ch01-intro.mp3",
+      "transcript": "Once upon a time, in a land where stories came alive, there lived a curious traveler. This traveler had heard tales of a lost chapter, one that held the secrets of wisdom and wonder.",
+      "timestamps": [
+        { "start": 0.0, "end": 3.5, "text": "Once upon a time, in a land where stories came alive," },
+        { "start": 3.5, "end": 6.0, "text": "there lived a curious traveler." },
+        { "start": 6.0, "end": 9.5, "text": "This traveler had heard tales of a lost chapter," },
+        { "start": 9.5, "end": 13.0, "text": "one that held the secrets of wisdom and wonder." }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "traveler.jpg",
+      "alt": "A traveler standing at the edge of a mystical forest",
+      "caption": "The journey begins at the edge of the unknown"
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "multiple_choice",
+      "question": "What was the traveler searching for?",
+      "options": [
+        { "text": "A treasure map", "correct": false },
+        { "text": "A lost chapter", "correct": true },
+        { "text": "A magical sword", "correct": false },
+        { "text": "A hidden kingdom", "correct": false }
+      ],
+      "correctFeedback": "Correct! The traveler sought the legendary lost chapter.",
+      "incorrectFeedback": "Not quite. Re-read the passage and try again."
+    }
+  ]
+}
