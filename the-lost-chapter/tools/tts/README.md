@@ -83,6 +83,45 @@ python batch-generate.py \
 
 This reads the chapter JSON and generates audio for all audio sections.
 
+## Vietnamese TTS with viXTTS (Recommended for Vietnamese)
+
+viXTTS is fine-tuned specifically for Vietnamese, providing better quality than the standard XTTS model.
+
+**Source models:**
+- [capleaf/viXTTS](https://huggingface.co/capleaf/viXTTS) (recommended)
+- [drewThomasson/fineTunedTTSModels/Viet-xtts-v2](https://huggingface.co/drewThomasson/fineTunedTTSModels/tree/main/Viet-xtts-v2)
+
+### Setup viXTTS
+
+```bash
+# Download the model (~2GB)
+python download-vixtts.py
+
+# Or specify source
+python download-vixtts.py --source capleaf   # recommended
+python download-vixtts.py --source drew      # alternative
+```
+
+### Generate Vietnamese Audio
+
+```bash
+python generate.py \
+  --engine vixtts \
+  --speaker-wav your-voice-sample.wav \
+  --text "Xin chào, đây là giọng nói của tôi được clone từ AI." \
+  --output output.wav
+```
+
+### viXTTS Tips
+
+1. **Minimum sentence length**: Works best with 10+ words. Short sentences may produce odd trailing sounds.
+2. **Speaker sample**: 6-30 seconds of clear Vietnamese speech
+3. **GPU recommended**: 4GB+ VRAM, or use `--device cpu` (much slower)
+
+### Demo
+
+Try online without installation: [viXTTS Demo on HuggingFace](https://huggingface.co/spaces/thinhlpg/vixtts-demo)
+
 ## Edge TTS (Free, No Cloning)
 
 For quick generation without voice cloning, use Microsoft Edge TTS:

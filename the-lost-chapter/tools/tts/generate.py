@@ -51,6 +51,63 @@ def generate_xtts(text, voice_name, language, output_path, device='cuda', temper
     print(f"Generated: {output_path}")
     return output_path
 
+
+def generate_vixtts(text, speaker_wav, output_path, device='cuda'):
+    """Generate Vietnamese audio using viXTTS (fine-tuned for Vietnamese).
+
+    Model: capleaf/viXTTS or drewThomasson/fineTunedTTSModels/Viet-xtts-v2
+    Better quality for Vietnamese than standard XTTS.
+    Note: Sentences under 10 words may produce inconsistent output.
+    """
+    try:
+        from TTS.tts.configs.xtts_config import XttsConfig
+        from TTS.tts.models.xtts import Xtts
+        import torch
+    except ImportError:
+        print("Error: TTS not installed. Run: pip install TTS")
+        sys.exit(1)
+
+    # Model paths - download from HuggingFace first
+    model_dir = Path("models/vixtts")
+    config_path = model_dir / "config.json"
+    model_path = model_dir / "model.pth"
+    vocab_path = model_dir / "vocab.json"
+
+    if not model_path.exists():
+        print("viXTTS model not found. Download it first:")
+        print("  python download-vixtts.py")
+        print("Or manually from: https://huggingface.co/capleaf/viXTTS")
+        sys.exit(1)
+
+    # Load config and model
+    config = XttsConfig()
+    config.load_json(str(config_path))
+
+    model = Xtts.init_from_config(config)
+    model.load_checkpoint(config, checkpoint_path=str(model_path), vocab_path=str(vocab_path))
+
+    if device == 'cuda' and torch.cuda.is_available():
+        model.cuda()
+
+    # Compute speaker latents from reference audio
+    gpt_cond_latent, speaker_embedding = model.get_conditioning_latents(audio_path=speaker_wav)
+
+    # Generate audio
+    out = model.inference(
+        text,
+        "vi",
+        gpt_cond_latent,
+        speaker_embedding,
+        temperature=0.7
+    )
+
+    # Save audio
+    import soundfile as sf
+    sf.write(output_path, out["wav"], 24000)
+
+    print(f"Generated (viXTTS): {output_path}")
+    return output_path
+
 def generate_edge(text, voice, output_path):
     """Generate audio using Edge TTS (no cloning)."""
     try:
@@ -112,15 +169,17 @@ def main():
     parser = argparse.ArgumentParser(description="Generate TTS audio")
     parser.add_argument("--text", "-t", help="Text to synthesize")
     parser.add_argument("--file", "-f", help="Text file to synthesize")
-    parser.add_argument("--voice", "-v", required=True,
+    parser.add_argument("--voice", "-v",
                         help="Voice name (cloned) or Edge voice ID")
+    parser.add_argument("--speaker-wav", "-s",
+                        help="Speaker reference audio (for vixtts engine)")
     parser.add_argument("--lang", "-l", default="en",
                         help="Language code (en, vi, etc.)")
-    parser.add_argument("--output", "-o", default="output.mp3",
+    parser.add_argument("--output", "-o", default="output.wav",
                         help="Output audio file path")
     parser.add_argument("--engine", "-e", default="xtts",
-                        choices=["xtts", "edge"],
-                        help="TTS engine to use")
+                        choices=["xtts", "vixtts", "edge"],
+                        help="TTS engine: xtts (multilingual), vixtts (Vietnamese), edge (no cloning)")
     parser.add_argument("--device", "-d", default="cuda",
                         help="Device for XTTS (cuda or cpu)")
     parser.add_argument("--temperature", default=0.7, type=float,
@@ -142,8 +201,19 @@ def main():
 
     # Generate audio
     if args.engine == "edge":
+        if not args.voice:
+            print("Error: --voice required for edge engine (e.g., vi-VN-HoaiMyNeural)")
+            sys.exit(1)
         generate_edge(text, args.voice, args.output)
+    elif args.engine == "vixtts":
+        if not args.speaker_wav:
+            print("Error: --speaker-wav required for vixtts engine")
+            sys.exit(1)
+        generate_vixtts(text, args.speaker_wav, args.output, device=args.device)
     else:
+        if not args.voice:
+            print("Error: --voice required for xtts engine")
+            sys.exit(1)
         generate_xtts(text, args.voice, args.lang, args.output,
                       device=args.device, temperature=args.temperature)
 

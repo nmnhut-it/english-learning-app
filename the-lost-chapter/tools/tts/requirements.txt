@@ -16,3 +16,6 @@ pyyaml>=6.0.1
 
 # Optional: Edge TTS for quick generation without cloning
 edge-tts>=6.1.9
+
+# For downloading models from HuggingFace
+huggingface_hub>=0.20.0
