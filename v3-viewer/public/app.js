@@ -1855,6 +1855,7 @@ class ClassroomTimer {
         this.widget = document.createElement('div');
         this.widget.id = 'classroom-timer';
         this.widget.innerHTML = `
+            <button class="timer-exit-btn" title="Thoát fullscreen (ESC)">✕ Thoát</button>
             <div class="timer-header">
                 <span class="timer-title">⏱️ Timer</span>
                 <button class="timer-toggle-btn" title="Thu nhỏ">−</button>
@@ -2093,12 +2094,40 @@ class ClassroomTimer {
                 align-items: center;
                 min-width: 100%;
             }
+            #classroom-timer.fullscreen .timer-header {
+                position: absolute;
+                top: 0;
+                left: 0;
+                right: 0;
+                padding: 20px;
+                background: transparent;
+            }
             #classroom-timer.fullscreen .timer-time {
                 font-size: 200px;
             }
             #classroom-timer.fullscreen .timer-body {
                 width: 100%;
                 max-width: 600px;
+            }
+            #classroom-timer.fullscreen .timer-exit-btn {
+                display: block;
+            }
+            .timer-exit-btn {
+                display: none;
+                position: absolute;
+                top: 20px;
+                right: 20px;
+                background: rgba(239, 68, 68, 0.8);
+                border: none;
+                color: white;
+                font-size: 16px;
+                padding: 10px 20px;
+                border-radius: 8px;
+                cursor: pointer;
+                z-index: 10;
+            }
+            .timer-exit-btn:hover {
+                background: rgba(239, 68, 68, 1);
             }
         `;
         document.head.appendChild(style);
@@ -2139,13 +2168,49 @@ class ClassroomTimer {
 
         // Double-click header for fullscreen
         this.widget.querySelector('.timer-header').ondblclick = () => {
-            this.widget.classList.toggle('fullscreen');
+            this.toggleFullscreen();
         };
+
+        // Exit button for fullscreen mode
+        this.widget.querySelector('.timer-exit-btn').onclick = () => {
+            this.exitFullscreen();
+        };
+    }
+
+    toggleFullscreen() {
+        const wasFullscreen = this.widget.classList.contains('fullscreen');
+        this.widget.classList.toggle('fullscreen');
+
+        // Reset position when exiting fullscreen
+        if (wasFullscreen) {
+            this.resetPosition();
+        }
+    }
+
+    exitFullscreen() {
+        if (this.widget.classList.contains('fullscreen')) {
+            this.widget.classList.remove('fullscreen');
+            this.resetPosition();
+        }
+    }
+
+    resetPosition() {
+        this.widget.style.left = '';
+        this.widget.style.right = '';
+        this.widget.style.top = '';
+        this.widget.style.bottom = '';
     }
 
     setupKeyboardShortcut() {
         document.addEventListener('keydown', (e) => {
             if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') return;
+
+            // ESC to exit fullscreen
+            if (e.key === 'Escape' && this.widget.classList.contains('fullscreen')) {
+                e.preventDefault();
+                this.exitFullscreen();
+                return;
+            }
 
             // T key (with Alt) to toggle timer
             if (e.key === 't' && e.altKey) {
