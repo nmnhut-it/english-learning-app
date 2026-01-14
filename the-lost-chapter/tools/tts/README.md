@@ -1,196 +1,57 @@
-# TheLostChapter - TTS Voice Cloning Setup
+# Audio Generation for TheLostChapter
 
-Generate audiobook narration with your own cloned voice in English and Vietnamese.
-
-## Quick Start
+## Quick Start (Local Machine)
 
 ```bash
-# 1. Create virtual environment
-cd tools/tts/
-python -m venv venv
-source venv/bin/activate  # Windows: venv\Scripts\activate
+# Install
+pip install edge-tts
 
-# 2. Install dependencies
-pip install -r requirements.txt
+# Generate Vietnamese audio for all chapters
+cd the-lost-chapter/tools/tts
+python generate_audio.py --book gentle-mind --lang vi
 
-# 3. Clone your voice (one-time setup)
-python clone-voice.py --sample your-voice-sample.wav --name my-voice
+# Generate English audio
+python generate_audio.py --book gentle-mind --lang en
 
-# 4. Generate audio
-python generate.py --text "Hello, this is my audiobook" --voice my-voice --lang en
+# Generate specific chapter
+python generate_audio.py --book gentle-mind --chapter ch01 --lang vi
 ```
 
-## Voice Cloning with Coqui XTTS v2
+## Available Voices
 
-XTTS v2 is the recommended engine for high-quality voice cloning.
+| Code | Voice | Description |
+|------|-------|-------------|
+| `vi` | vi-VN-HoaiMyNeural | Vietnamese female, warm |
+| `vi-male` | vi-VN-NamMinhNeural | Vietnamese male, calm |
+| `en` | en-US-AriaNeural | English female, natural |
+| `en-male` | en-US-GuyNeural | English male, professional |
 
-### Requirements
+## Output
 
-- Python 3.9+
-- NVIDIA GPU with 4GB+ VRAM (recommended) or CPU (slower)
-- 6-30 seconds of clear voice sample audio
+Audio files are saved to: `content/books/{book-id}/audio/`
 
-### Prepare Voice Sample
+```
+gentle-mind/
+├── audio/
+│   ├── ch01-vi.mp3       # Vietnamese audio
+│   ├── ch01-vi.json      # Word-level timestamps
+│   ├── ch01-en.mp3       # English audio
+│   └── ch01-en.json      # Timestamps
+```
 
-For best results, your voice sample should be:
-
-1. **Clean**: No background noise, music, or other speakers
-2. **Clear**: Natural speaking pace, good pronunciation
-3. **Length**: 6-30 seconds (longer samples can improve quality)
-4. **Format**: WAV, 16kHz or higher sample rate
-
-### Clone Your Voice
+## One-Liner for All Chapters
 
 ```bash
-python clone-voice.py \
-  --sample /path/to/your-voice.wav \
-  --name my-voice \
-  --lang en  # or 'vi' for Vietnamese
+# Vietnamese female voice
+pip install edge-tts && python generate_audio.py --book gentle-mind --lang vi
+
+# Both languages
+for lang in vi en; do python generate_audio.py --book gentle-mind --lang $lang; done
 ```
 
-The cloned voice will be saved in `voices/my-voice/`.
+## Using with viXTTS (Colab)
 
-### Generate Audio
+For voice cloning with your own voice, use the Colab notebook:
+`tools/tts/TheLostChapter_TTS.ipynb`
 
-Single text:
-```bash
-python generate.py \
-  --text "Welcome to chapter one." \
-  --voice my-voice \
-  --lang en \
-  --output chapter1-intro.mp3
-```
-
-From file:
-```bash
-python generate.py \
-  --file script.txt \
-  --voice my-voice \
-  --lang en \
-  --output narration.mp3
-```
-
-### Batch Generation
-
-Generate all audio for a book chapter:
-
-```bash
-python batch-generate.py \
-  --book sample-book \
-  --chapter ch01 \
-  --voice my-voice
-```
-
-This reads the chapter JSON and generates audio for all audio sections.
-
-## Vietnamese TTS with viXTTS (Recommended for Vietnamese)
-
-viXTTS is fine-tuned specifically for Vietnamese, providing better quality than the standard XTTS model.
-
-**Source models:**
-- [capleaf/viXTTS](https://huggingface.co/capleaf/viXTTS) (recommended)
-- [drewThomasson/fineTunedTTSModels/Viet-xtts-v2](https://huggingface.co/drewThomasson/fineTunedTTSModels/tree/main/Viet-xtts-v2)
-
-### Setup viXTTS
-
-```bash
-# Download the model (~2GB)
-python download-vixtts.py
-
-# Or specify source
-python download-vixtts.py --source capleaf   # recommended
-python download-vixtts.py --source drew      # alternative
-```
-
-### Generate Vietnamese Audio
-
-```bash
-python generate.py \
-  --engine vixtts \
-  --speaker-wav your-voice-sample.wav \
-  --text "Xin chào, đây là giọng nói của tôi được clone từ AI." \
-  --output output.wav
-```
-
-### viXTTS Tips
-
-1. **Minimum sentence length**: Works best with 10+ words. Short sentences may produce odd trailing sounds.
-2. **Speaker sample**: 6-30 seconds of clear Vietnamese speech
-3. **GPU recommended**: 4GB+ VRAM, or use `--device cpu` (much slower)
-
-### Demo
-
-Try online without installation: [viXTTS Demo on HuggingFace](https://huggingface.co/spaces/thinhlpg/vixtts-demo)
-
-## Edge TTS (Free, No Cloning)
-
-For quick generation without voice cloning, use Microsoft Edge TTS:
-
-```bash
-python generate.py \
-  --text "Hello world" \
-  --engine edge \
-  --voice en-US-GuyNeural \
-  --output hello.mp3
-```
-
-### Available Edge Voices
-
-**English:**
-- `en-US-GuyNeural` - Male, US
-- `en-US-JennyNeural` - Female, US
-- `en-GB-RyanNeural` - Male, UK
-- `en-AU-WilliamNeural` - Male, Australia
-
-**Vietnamese:**
-- `vi-VN-HoaiMyNeural` - Female
-- `vi-VN-NamMinhNeural` - Male
-
-List all voices:
-```bash
-python -c "import edge_tts; import asyncio; asyncio.run(edge_tts.list_voices())"
-```
-
-## Generating Timestamps
-
-For transcript synchronization, generate timestamps:
-
-```bash
-python generate.py \
-  --text "First sentence. Second sentence. Third sentence." \
-  --voice my-voice \
-  --output narration.mp3 \
-  --timestamps  # Generates narration.timestamps.json
-```
-
-Output:
-```json
-[
-  { "start": 0.0, "end": 2.5, "text": "First sentence." },
-  { "start": 2.5, "end": 5.0, "text": "Second sentence." },
-  { "start": 5.0, "end": 7.5, "text": "Third sentence." }
-]
-```
-
-## Tips for Best Quality
-
-1. **Voice Sample Quality**: The better your input sample, the better the output
-2. **GPU Acceleration**: Use CUDA for faster generation
-3. **Temperature**: Lower values (0.5-0.7) for consistent output, higher (0.8-1.0) for more expressive
-4. **Sentence Splitting**: For long texts, the system automatically splits by sentences
-
-## Troubleshooting
-
-### CUDA Out of Memory
-Reduce batch size or use CPU:
-```bash
-python generate.py --text "..." --device cpu
-```
-
-### Audio Quality Issues
-- Ensure voice sample is high quality
-- Try different temperature values
-- Check input text for unusual characters
-
-### Vietnamese Diacritics
-Ensure your text file is UTF-8 encoded for proper Vietnamese character support.
+This requires GPU but produces personalized audio.
