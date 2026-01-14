@@ -1,0 +1,49 @@
+{
+  "id": "ch02",
+  "title": "Nghệ Thuật Của Sự Quên | The Art of Forgetting",
+  "sections": [
+    {
+      "type": "markdown",
+      "content": "# Nghệ Thuật Của Sự Quên\n# The Art of Forgetting\n\n---\n\nChúng ta thường nghĩ rằng quên là điều xấu. Nhưng thực ra, quên là một món quà.\n\n*We often think forgetting is bad. But actually, forgetting is a gift.*\n\nHãy tưởng tượng nếu bạn nhớ mọi thứ — từng khuôn mặt người lạ trên đường, từng con số vô nghĩa, từng cơn đau nhỏ... Tâm trí bạn sẽ quá tải.\n\n*Imagine if you remembered everything — every stranger's face on the street, every meaningless number, every small pain... Your mind would be overwhelmed.*\n\nQuên giúp ta giữ lại những gì thật sự quan trọng.\n\n*Forgetting helps us keep what truly matters.*"
+    },
+    {
+      "type": "markdown",
+      "content": "## Đường Cong Lãng Quên\n## The Forgetting Curve\n\n---\n\nVào năm 1885, nhà tâm lý học Hermann Ebbinghaus đã khám phá ra một điều thú vị: trí nhớ của chúng ta phai mờ theo một đường cong có thể dự đoán được.\n\n*In 1885, psychologist Hermann Ebbinghaus discovered something fascinating: our memory fades along a predictable curve.*\n\n**Sau 20 phút:** Chúng ta quên khoảng 40% những gì vừa học.\n\n*After 20 minutes: We forget about 40% of what we just learned.*\n\n**Sau 1 ngày:** Chúng ta chỉ còn nhớ khoảng 30%.\n\n*After 1 day: We only remember about 30%.*\n\n**Sau 1 tuần:** Chỉ còn lại khoảng 20%...\n\n*After 1 week: Only about 20% remains...*\n\nNhưng đây là điều kỳ diệu: mỗi lần ta ôn lại, đường cong này trở nên **phẳng hơn**. Ký ức phai chậm hơn.\n\n*But here's the magic: each time we review, this curve becomes **flatter**. Memory fades more slowly.*"
+    },
+    {
+      "type": "exercise",
+      "id": "ex02-curve",
+      "exerciseType": "multiple_choice",
+      "question": "Sau 1 ngày không ôn tập, ta thường nhớ được bao nhiêu?\n\n*After 1 day without review, how much do we usually remember?*",
+      "options": [
+        { "text": "70%", "correct": false },
+        { "text": "50%", "correct": false },
+        { "text": "30%", "correct": true },
+        { "text": "10%", "correct": false }
+      ],
+      "correctFeedback": "Đúng rồi! Đó là lý do tại sao ôn tập sớm rất quan trọng. 📉→📈\n\n*Correct! That's why early review is so important.*",
+      "incorrectFeedback": "Gợi ý: Theo Ebbinghaus, sau 1 ngày ta chỉ còn nhớ khoảng 30%.\n\n*Hint: According to Ebbinghaus, after 1 day we only remember about 30%.*"
+    },
+    {
+      "type": "markdown",
+      "content": "## Sức Mạnh Của Việc Nhớ Lại\n## The Power of Recall\n\n---\n\nCó một bí mật mà ít người biết: **cố gắng nhớ lại** một điều gì đó hiệu quả hơn nhiều so với **đọc lại** nó.\n\n*There's a secret few people know: **trying to recall** something is much more effective than **re-reading** it.*\n\nĐây gọi là \"Hiệu ứng Kiểm tra\" (Testing Effect).\n\n*This is called the \"Testing Effect.\"*\n\nKhi bạn tự hỏi: \"Mình đã học được gì hôm qua?\" — chính hành động cố gắng nhớ lại đó đang củng cố ký ức của bạn.\n\n*When you ask yourself: \"What did I learn yesterday?\" — that very act of trying to remember is strengthening your memory.*\n\nNhư thể bạn đang tập thể dục cho não bộ vậy.\n\n*It's like you're exercising your brain.*"
+    },
+    {
+      "type": "markdown",
+      "content": "## Một bài tập nhỏ\n## A small exercise\n\n---\n\nBây giờ, hãy thử điều này:\n\n*Now, try this:*\n\nNhắm mắt lại trong 30 giây. Cố gắng nhớ lại những gì bạn đã đọc ở **Chương 1**.\n\n*Close your eyes for 30 seconds. Try to recall what you read in **Chapter 1**.*\n\nĐừng lo nếu bạn không nhớ hết. Chính việc cố gắng nhớ đã giúp củng cố những gì bạn còn giữ lại.\n\n*Don't worry if you can't remember everything. The very act of trying has strengthened what remains.*\n\n...\n\nBạn đã thử chưa?\n\n*Did you try?*\n\nNếu rồi, bạn vừa thực hành Spaced Repetition đấy. 🌟\n\n*If so, you just practiced Spaced Repetition.*"
+    },
+    {
+      "type": "exercise",
+      "id": "ex02-recall",
+      "exerciseType": "true_false",
+      "question": "Cố gắng nhớ lại (recall) hiệu quả hơn đọc lại (re-reading).\n\n*Trying to recall is more effective than re-reading.*",
+      "correctAnswer": true,
+      "correctFeedback": "Chính xác! Đây là \"Hiệu ứng Kiểm tra\" — cố gắng nhớ giúp củng cố ký ức. 🧠\n\n*Exactly! This is the \"Testing Effect\" — trying to remember strengthens memory.*",
+      "incorrectFeedback": "Thực ra, nghiên cứu cho thấy cố gắng nhớ lại hiệu quả hơn nhiều so với đọc lại thụ động.\n\n*Actually, research shows that trying to recall is much more effective than passive re-reading.*"
+    },
+    {
+      "type": "markdown",
+      "content": "## Lời kết chương\n## Chapter closing\n\n---\n\nHôm nay, bạn đã học được rằng:\n\n*Today, you learned that:*\n\n- Quên là tự nhiên, và thậm chí là cần thiết.\n  *Forgetting is natural, and even necessary.*\n\n- Ký ức phai mờ theo một đường cong có thể dự đoán.\n  *Memory fades along a predictable curve.*\n\n- Nhưng mỗi lần ôn lại, đường cong trở nên phẳng hơn.\n  *But each review makes the curve flatter.*\n\n- Cố gắng nhớ lại hiệu quả hơn đọc lại.\n  *Trying to recall is more effective than re-reading.*\n\nHãy để những ý tưởng này lắng đọng. Ngày mai, ta sẽ khám phá cách áp dụng chúng vào cuộc sống hàng ngày.\n\n*Let these ideas settle. Tomorrow, we'll explore how to apply them in daily life.*\n\n🌙 Chúc bạn ngủ ngon. *Sleep well.*"
+    }
+  ]
+}
