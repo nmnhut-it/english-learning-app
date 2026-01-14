@@ -46,6 +46,14 @@ function mountComponent(component) {
     currentComponent.destroy();
   }
 
+  // Validate component
+  if (!component || !component.el) {
+    console.error('Invalid component:', component);
+    mainEl.innerHTML = '<div class="error">Failed to load view</div>';
+    loadingEl.hidden = true;
+    return;
+  }
+
   // Clear main and hide loading
   mainEl.innerHTML = '';
   loadingEl.hidden = true;

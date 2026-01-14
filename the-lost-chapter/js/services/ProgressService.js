@@ -5,18 +5,20 @@
 const PROGRESS_KEY = 'tlc_progress';
 const SETTINGS_KEY = 'tlc_settings';
 
-let progress = {};
-let settings = {
+const DEFAULT_SETTINGS = {
   theme: 'light',
   lang: 'vi',
   audioSpeed: 1.0,
   autoPlay: true
 };
 
-// ====== Progress ======
+let progress = {};
+let settings = { ...DEFAULT_SETTINGS };
 
-export function getBookProgress(bookId) {
-  return progress[bookId] || {
+// ====== Pure Functions (testable) ======
+
+export function createEmptyBookProgress() {
+  return {
     lastChapter: null,
     audioProgress: {},
     completedChapters: [],
@@ -24,18 +26,47 @@ export function getBookProgress(bookId) {
   };
 }
 
-export function setLastChapter(bookId, chapterId) {
-  if (!progress[bookId]) {
-    progress[bookId] = { lastChapter: null, audioProgress: {}, completedChapters: [], exercises: {} };
+export function validateBookProgress(data) {
+  if (!data || typeof data !== 'object') return false;
+  if (data.completedChapters && !Array.isArray(data.completedChapters)) return false;
+  if (data.audioProgress && typeof data.audioProgress !== 'object') return false;
+  if (data.exercises && typeof data.exercises !== 'object') return false;
+  return true;
+}
+
+export function validateSettings(data) {
+  if (!data || typeof data !== 'object') return false;
+  if (data.theme && !['light', 'dark'].includes(data.theme)) return false;
+  if (data.lang && !['vi', 'en'].includes(data.lang)) return false;
+  if (data.audioSpeed && (typeof data.audioSpeed !== 'number' || data.audioSpeed < 0.5 || data.audioSpeed > 2)) return false;
+  return true;
+}
+
+function ensureBookProgress(bookId) {
+  if (!progress[bookId] || !validateBookProgress(progress[bookId])) {
+    progress[bookId] = createEmptyBookProgress();
   }
+  return progress[bookId];
+}
+
+// ====== Progress ======
+
+export function getBookProgress(bookId) {
+  const bp = progress[bookId];
+  if (!bp || !validateBookProgress(bp)) {
+    return createEmptyBookProgress();
+  }
+  return bp;
+}
+
+export function setLastChapter(bookId, chapterId) {
+  ensureBookProgress(bookId);
   progress[bookId].lastChapter = chapterId;
   saveProgress();
 }
 
 export function setAudioProgress(bookId, audioFile, time) {
-  if (!progress[bookId]) {
-    progress[bookId] = { lastChapter: null, audioProgress: {}, completedChapters: [], exercises: {} };
-  }
+  ensureBookProgress(bookId);
   progress[bookId].audioProgress[audioFile] = time;
   saveProgress();
 }
@@ -45,9 +76,7 @@ export function getAudioProgress(bookId, audioFile) {
 }
 
 export function markChapterCompleted(bookId, chapterId) {
-  if (!progress[bookId]) {
-    progress[bookId] = { lastChapter: null, audioProgress: {}, completedChapters: [], exercises: {} };
-  }
+  ensureBookProgress(bookId);
   if (!progress[bookId].completedChapters.includes(chapterId)) {
     progress[bookId].completedChapters.push(chapterId);
     saveProgress();
@@ -59,9 +88,7 @@ export function isChapterCompleted(bookId, chapterId) {
 }
 
 export function setExerciseCompleted(bookId, exerciseId, correct) {
-  if (!progress[bookId]) {
-    progress[bookId] = { lastChapter: null, audioProgress: {}, completedChapters: [], exercises: {} };
-  }
+  ensureBookProgress(bookId);
   progress[bookId].exercises[exerciseId] = correct;
   saveProgress();
 }
@@ -116,14 +143,28 @@ function saveSettings() {
 
 export function initProgress() {
   try {
+    // Load and validate progress
     const savedProgress = localStorage.getItem(PROGRESS_KEY);
     if (savedProgress) {
-      progress = JSON.parse(savedProgress);
+      const parsed = JSON.parse(savedProgress);
+      if (parsed && typeof parsed === 'object') {
+        // Validate each book's progress
+        progress = {};
+        for (const [bookId, bookData] of Object.entries(parsed)) {
+          if (validateBookProgress(bookData)) {
+            progress[bookId] = bookData;
+          }
+        }
+      }
     }
 
+    // Load and validate settings
     const savedSettings = localStorage.getItem(SETTINGS_KEY);
     if (savedSettings) {
-      settings = { ...settings, ...JSON.parse(savedSettings) };
+      const parsed = JSON.parse(savedSettings);
+      if (validateSettings(parsed)) {
+        settings = { ...DEFAULT_SETTINGS, ...parsed };
+      }
     }
 
     // Apply saved theme
@@ -131,5 +172,8 @@ export function initProgress() {
 
   } catch (e) {
     console.error('Failed to load saved data:', e);
+    // Reset to defaults on error
+    progress = {};
+    settings = { ...DEFAULT_SETTINGS };
   }
 }

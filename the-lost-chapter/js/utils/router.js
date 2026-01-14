@@ -5,32 +5,15 @@
 const routes = new Map();
 let currentRoute = null;
 
-export function addRoute(pattern, handler) {
-  routes.set(pattern, handler);
-}
+// ====== Pure Functions (testable) ======
 
-export function navigate(path) {
-  window.location.hash = path;
-}
-
-export function getCurrentRoute() {
-  return currentRoute;
-}
-
-function parseRoute(hash) {
-  const path = hash.slice(1) || '/';
-
-  for (const [pattern, handler] of routes) {
-    const params = matchRoute(pattern, path);
-    if (params !== null) {
-      return { pattern, handler, params, path };
-    }
-  }
-
-  return null;
-}
-
-function matchRoute(pattern, path) {
+/**
+ * Match a route pattern against a path
+ * @param {string} pattern - Route pattern like '/book/:id/:chapter'
+ * @param {string} path - Actual path like '/book/123/ch01'
+ * @returns {Object|null} - Params object or null if no match
+ */
+export function matchRoute(pattern, path) {
   // Convert pattern to regex
   // e.g., '/book/:id/:chapter' -> /^\/book\/([^\/]+)\/([^\/]+)$/
   const paramNames = [];
@@ -50,6 +33,42 @@ function matchRoute(pattern, path) {
   });
 
   return params;
+}
+
+/**
+ * Extract path from hash
+ * @param {string} hash - Hash like '#/book/123'
+ * @returns {string} - Path like '/book/123'
+ */
+export function extractPath(hash) {
+  return (hash || '').slice(1) || '/';
+}
+
+// ====== Router State ======
+
+export function addRoute(pattern, handler) {
+  routes.set(pattern, handler);
+}
+
+export function navigate(path) {
+  window.location.hash = path;
+}
+
+export function getCurrentRoute() {
+  return currentRoute;
+}
+
+function parseRoute(hash) {
+  const path = extractPath(hash);
+
+  for (const [pattern, handler] of routes) {
+    const params = matchRoute(pattern, path);
+    if (params !== null) {
+      return { pattern, handler, params, path };
+    }
+  }
+
+  return null;
 }
 
 function handleRouteChange() {

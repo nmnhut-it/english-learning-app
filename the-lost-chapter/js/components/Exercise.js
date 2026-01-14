@@ -157,17 +157,18 @@ export function Exercise(props) {
   function checkMultipleChoice() {
     const options = exercise.options || [];
     const correctIndex = options.findIndex(o => o.correct);
+    const selectedIndex = parseInt(selectedOption, 10);
 
     // Mark correct/incorrect options
     el.querySelectorAll('.exercise__option').forEach((option, index) => {
       if (index === correctIndex) {
         option.classList.add('exercise__option--correct');
-      } else if (parseInt(selectedOption) === index) {
+      } else if (selectedIndex === index) {
         option.classList.add('exercise__option--incorrect');
       }
     });
 
-    return parseInt(selectedOption) === correctIndex;
+    return selectedIndex === correctIndex;
   }
 
   function checkTrueFalse() {

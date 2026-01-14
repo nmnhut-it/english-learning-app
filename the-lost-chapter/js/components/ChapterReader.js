@@ -18,7 +18,7 @@ export function ChapterReader(props) {
 
   let book = null;
   let chapter = null;
-  let audioPlayer = null;
+  let audioPlayers = []; // Support multiple audio sections
 
   async function render() {
     el.innerHTML = `
@@ -91,6 +91,7 @@ export function ChapterReader(props) {
         // Create audio player with transcript
         const playerContainer = document.createElement('div');
         playerContainer.className = 'reader__audio-section';
+        playerContainer.dataset.audioIndex = audioPlayers.length;
 
         // Transcript with sentence highlighting
         if (section.transcript || section.timestamps?.length) {
@@ -110,17 +111,18 @@ export function ChapterReader(props) {
           playerContainer.appendChild(transcriptEl);
         }
 
-        // Audio player
-        audioPlayer = AudioPlayer({
+        // Audio player - store in array
+        const player = AudioPlayer({
           bookId,
           audioFile: section.src,
           timestamps: section.timestamps || [],
-          onSentenceChange: (index, timestamp) => {
-            highlightSentence(playerContainer, index);
+          onSentenceChange: (idx, timestamp) => {
+            highlightSentence(playerContainer, idx);
           }
         });
 
-        playerContainer.appendChild(audioPlayer.el);
+        audioPlayers.push(player);
+        playerContainer.appendChild(player.el);
         wrapper.appendChild(playerContainer);
         break;
 
@@ -200,14 +202,19 @@ export function ChapterReader(props) {
       }
     });
 
-    // Click on sentence to seek
-    el.querySelectorAll('.sentence').forEach(sentence => {
-      sentence.addEventListener('click', () => {
-        const start = parseFloat(sentence.dataset.start);
-        if (audioPlayer && !isNaN(start)) {
-          audioPlayer.seekTo(start);
-          audioPlayer.play();
-        }
+    // Click on sentence to seek - find correct audio player
+    el.querySelectorAll('.reader__audio-section').forEach(section => {
+      const audioIndex = parseInt(section.dataset.audioIndex, 10);
+      const player = audioPlayers[audioIndex];
+
+      section.querySelectorAll('.sentence').forEach(sentence => {
+        sentence.addEventListener('click', () => {
+          const start = parseFloat(sentence.dataset.start);
+          if (player && !isNaN(start)) {
+            player.seekTo(start);
+            player.play();
+          }
+        });
       });
     });
   }
@@ -230,7 +237,9 @@ export function ChapterReader(props) {
     el,
     update: render,
     destroy: () => {
-      if (audioPlayer) audioPlayer.destroy();
+      // Clean up all audio players
+      audioPlayers.forEach(player => player.destroy());
+      audioPlayers = [];
       el.remove();
     }
   };

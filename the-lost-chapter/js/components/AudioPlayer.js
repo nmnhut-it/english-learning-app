@@ -16,6 +16,14 @@ export function AudioPlayer(props) {
   let isPlaying = false;
   let currentSentenceIndex = -1;
 
+  // Store handlers for cleanup
+  const handlers = {
+    timeUpdate: null,
+    ended: null,
+    pause: null,
+    loadedMetadata: null
+  };
+
   function render() {
     const audioUrl = getAudioUrl(bookId, audioFile);
     const savedProgress = getAudioProgress(bookId, audioFile);
@@ -105,23 +113,28 @@ export function AudioPlayer(props) {
       });
     });
 
-    // Audio events
-    audio.addEventListener('loadedmetadata', () => {
+    // Audio events - store references for cleanup
+    handlers.loadedMetadata = () => {
       el.querySelector('#total-time').textContent = formatTime(audio.duration);
-    });
+    };
 
-    audio.addEventListener('timeupdate', handleTimeUpdate);
+    handlers.timeUpdate = handleTimeUpdate;
 
-    audio.addEventListener('ended', () => {
+    handlers.ended = () => {
       isPlaying = false;
       playBtn.textContent = '▶';
       el.classList.remove('audio-player--playing');
-    });
+    };
 
-    audio.addEventListener('pause', () => {
+    handlers.pause = () => {
       // Save progress on pause
       setAudioProgress(bookId, audioFile, audio.currentTime);
-    });
+    };
+
+    audio.addEventListener('loadedmetadata', handlers.loadedMetadata);
+    audio.addEventListener('timeupdate', handlers.timeUpdate);
+    audio.addEventListener('ended', handlers.ended);
+    audio.addEventListener('pause', handlers.pause);
   }
 
   function togglePlay() {
@@ -201,8 +214,20 @@ export function AudioPlayer(props) {
     pause,
     destroy: () => {
       if (audio) {
-        audio.pause();
+        // Save progress
         setAudioProgress(bookId, audioFile, audio.currentTime);
+
+        // Remove event listeners
+        audio.removeEventListener('loadedmetadata', handlers.loadedMetadata);
+        audio.removeEventListener('timeupdate', handlers.timeUpdate);
+        audio.removeEventListener('ended', handlers.ended);
+        audio.removeEventListener('pause', handlers.pause);
+
+        // Stop and release
+        audio.pause();
+        audio.src = '';
+        audio.load();
+        audio = null;
       }
       el.remove();
     }
