@@ -1,40 +1,33 @@
 {
   "id": "ch01",
-  "title": "The Beginning",
+  "title": "Getting Started",
   "sections": [
     {
       "type": "markdown",
-      "content": "# Chapter 1: The Beginning\n\nWelcome to **The Lost Chapter**, an interactive audiobook experience. This sample demonstrates all the content types available.\n\n> Every great story begins with a single step into the unknown."
+      "content": "# Welcome to TheLostChapter\n\nThis is a **sample chapter** to demonstrate the audiobook reader features.\n\n## What You'll Learn\n\n- How audio sync works with text\n- Interactive exercises\n- Offline reading support"
     },
     {
       "type": "audio",
-      "src": "ch01-intro.mp3",
-      "transcript": "Once upon a time, in a land where stories came alive, there lived a curious traveler. This traveler had heard tales of a lost chapter, one that held the secrets of wisdom and wonder.",
+      "src": "ch01-intro.wav",
+      "transcript": "Xin chào! Đây là một ví dụ về sách nói. Bạn có thể nghe và đọc cùng lúc.",
       "timestamps": [
-        { "start": 0.0, "end": 3.5, "text": "Once upon a time, in a land where stories came alive," },
-        { "start": 3.5, "end": 6.0, "text": "there lived a curious traveler." },
-        { "start": 6.0, "end": 9.5, "text": "This traveler had heard tales of a lost chapter," },
-        { "start": 9.5, "end": 13.0, "text": "one that held the secrets of wisdom and wonder." }
+        { "start": 0.0, "end": 1.5, "text": "Xin chào!" },
+        { "start": 1.5, "end": 4.0, "text": "Đây là một ví dụ về sách nói." },
+        { "start": 4.0, "end": 7.5, "text": "Bạn có thể nghe và đọc cùng lúc." }
       ]
     },
     {
-      "type": "image",
-      "src": "traveler.jpg",
-      "alt": "A traveler standing at the edge of a mystical forest",
-      "caption": "The journey begins at the edge of the unknown"
-    },
-    {
       "type": "exercise",
+      "id": "ex01",
       "exerciseType": "multiple_choice",
-      "question": "What was the traveler searching for?",
+      "question": "TheLostChapter hỗ trợ tính năng nào?",
       "options": [
-        { "text": "A treasure map", "correct": false },
-        { "text": "A lost chapter", "correct": true },
-        { "text": "A magical sword", "correct": false },
-        { "text": "A hidden kingdom", "correct": false }
+        { "text": "Chỉ đọc văn bản", "correct": false },
+        { "text": "Nghe audio và đọc đồng bộ", "correct": true },
+        { "text": "Chỉ xem video", "correct": false }
       ],
-      "correctFeedback": "Correct! The traveler sought the legendary lost chapter.",
-      "incorrectFeedback": "Not quite. Re-read the passage and try again."
+      "correctFeedback": "Đúng rồi! TheLostChapter kết hợp audio với text sync.",
+      "incorrectFeedback": "Chưa đúng. Hãy thử lại nhé!"
     }
   ]
 }

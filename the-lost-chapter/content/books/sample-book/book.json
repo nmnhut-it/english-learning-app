@@ -1,9 +1,9 @@
 {
   "id": "sample-book",
-  "title": "The Lost Chapter",
+  "title": "Sample Audiobook",
   "author": "TheLostChapter",
-  "language": "en",
+  "language": "vi",
+  "description": "A sample audiobook to demonstrate the TheLostChapter platform features.",
   "coverImage": "cover.jpg",
-  "description": "An interactive sample book demonstrating all content types - audio narration, images, markdown, and exercises.",
   "chapters": ["ch01", "ch02"]
 }
