@@ -4,41 +4,65 @@
   "sections": [
     {
       "type": "markdown",
-      "content": "# Nhịp Thở Của Ký Ức\n# The Rhythm of Memory\n\n---\n\nHãy hít thở thật sâu.\n\n*Take a deep breath.*\n\nBạn có bao giờ để ý rằng những kỷ niệm đẹp nhất thường quay về khi ta không cố gắng nhớ? Chúng đến nhẹ nhàng, như làn gió mát vào buổi chiều, như mùi hương quen thuộc từ căn bếp của mẹ.\n\n*Have you ever noticed that our most beautiful memories often return when we're not trying to remember? They come gently, like a cool afternoon breeze, like the familiar scent from mother's kitchen.*\n\nTrí nhớ không phải là một cái hộp cứng nhắc mà ta nhét đầy thông tin. Trí nhớ là một khu vườn — cần được chăm sóc, tưới nước, và quan trọng nhất, cần có thời gian để nghỉ ngơi.\n\n*Memory is not a rigid box that we stuff with information. Memory is a garden — it needs care, watering, and most importantly, time to rest.*"
+      "lang": "vi",
+      "content": "# Nhịp Thở Của Ký Ức\n\n---\n\nHãy hít thở thật sâu.\n\nBạn có bao giờ để ý rằng những kỷ niệm đẹp nhất thường quay về khi ta không cố gắng nhớ? Chúng đến nhẹ nhàng, như làn gió mát vào buổi chiều, như mùi hương quen thuộc từ căn bếp của mẹ.\n\nTrí nhớ không phải là một cái hộp cứng nhắc mà ta nhét đầy thông tin. Trí nhớ là một khu vườn — cần được chăm sóc, tưới nước, và quan trọng nhất, cần có thời gian để nghỉ ngơi."
     },
     {
       "type": "markdown",
-      "content": "## Spaced Repetition là gì?\n## What is Spaced Repetition?\n\n---\n\nSpaced Repetition — hay \"Lặp lại ngắt quãng\" — là một phương pháp học tập thuận theo nhịp điệu tự nhiên của trí não.\n\n*Spaced Repetition is a learning method that follows the natural rhythm of our brain.*\n\nThay vì cố nhồi nhét mọi thứ trong một đêm, ta ôn lại kiến thức vào những khoảng thời gian ngày càng dài hơn:\n\n*Instead of cramming everything in one night, we review knowledge at increasingly longer intervals:*\n\n- Hôm nay → Ngày mai → 3 ngày sau → 1 tuần sau → 2 tuần sau...\n- *Today → Tomorrow → 3 days later → 1 week later → 2 weeks later...*\n\nMỗi lần ôn lại, ký ức trở nên sâu hơn, bền hơn — như những rễ cây ngày càng bám chặt vào đất.\n\n*Each review makes the memory deeper, stronger — like roots growing ever more firmly into the soil.*"
+      "lang": "vi",
+      "content": "## Spaced Repetition là gì?\n\n---\n\nSpaced Repetition — hay \"Lặp lại ngắt quãng\" — là một phương pháp học tập thuận theo nhịp điệu tự nhiên của trí não.\n\nThay vì cố nhồi nhét mọi thứ trong một đêm, ta ôn lại kiến thức vào những khoảng thời gian ngày càng dài hơn:\n\nHôm nay → Ngày mai → 3 ngày sau → 1 tuần sau → 2 tuần sau...\n\nMỗi lần ôn lại, ký ức trở nên sâu hơn, bền hơn — như những rễ cây ngày càng bám chặt vào đất."
+    },
+    {
+      "type": "markdown",
+      "lang": "vi",
+      "content": "## Tại sao phương pháp này hiệu quả?\n\n---\n\nNão bộ của chúng ta rất thông minh — nó biết điều gì quan trọng và điều gì có thể quên đi.\n\nKhi ta ôn lại một kiến thức đúng lúc sắp quên, não bộ nhận được tín hiệu: \"À, điều này quan trọng đây, cần giữ lại.\"\n\nĐó là lý do tại sao việc ôn tập vào đúng thời điểm lại hiệu quả hơn rất nhiều so với việc đọc đi đọc lại cùng một nội dung."
+    },
+    {
+      "type": "markdown",
+      "lang": "vi",
+      "content": "## Một hơi thở nhẹ nhàng\n\n---\n\nTrước khi kết thúc chương này, hãy dừng lại một chút.\n\nNhắm mắt lại. Hít thở sâu.\n\nNghĩ về một điều bạn vừa học được hôm nay — không cần phải là điều gì lớn lao. Có thể chỉ là một từ mới, một ý tưởng nhỏ, hoặc cảm giác an bình khi đọc những dòng này.\n\nĐó là hạt giống đầu tiên trong khu vườn ký ức của bạn.\n\nNgày mai, chúng ta sẽ quay lại tưới nước cho nó. 🌱"
     },
     {
       "type": "exercise",
       "id": "ex01-understanding",
       "exerciseType": "multiple_choice",
-      "question": "Spaced Repetition giống như điều gì?\n\n*What is Spaced Repetition like?*",
+      "question": "Spaced Repetition giống như điều gì?",
       "options": [
-        { "text": "Một cái hộp chứa thông tin / A box storing information", "correct": false },
-        { "text": "Một khu vườn cần chăm sóc / A garden that needs care", "correct": true },
-        { "text": "Một cỗ máy ghi nhớ / A memory machine", "correct": false }
+        { "text": "Một cái hộp chứa thông tin", "correct": false },
+        { "text": "Một khu vườn cần chăm sóc", "correct": true },
+        { "text": "Một cỗ máy ghi nhớ", "correct": false }
       ],
-      "correctFeedback": "Đúng rồi! Trí nhớ cần được chăm sóc nhẹ nhàng, như một khu vườn. 🌱\n\n*That's right! Memory needs gentle care, like a garden.*",
-      "incorrectFeedback": "Hãy thử lại nhé. Gợi ý: Trí nhớ cần thời gian và sự chăm sóc.\n\n*Try again. Hint: Memory needs time and care.*"
-    },
-    {
-      "type": "markdown",
-      "content": "## Tại sao phương pháp này hiệu quả?\n## Why does this method work?\n\n---\n\nNão bộ của chúng ta rất thông minh — nó biết điều gì quan trọng và điều gì có thể quên đi.\n\n*Our brain is very smart — it knows what's important and what can be forgotten.*\n\nKhi ta ôn lại một kiến thức đúng lúc sắp quên, não bộ nhận được tín hiệu: **\"À, điều này quan trọng đây, cần giữ lại.\"**\n\n*When we review knowledge just as we're about to forget, the brain receives a signal: **\"Ah, this is important, I need to keep it.\"***\n\nĐó là lý do tại sao việc ôn tập vào đúng thời điểm lại hiệu quả hơn rất nhiều so với việc đọc đi đọc lại cùng một nội dung.\n\n*That's why reviewing at the right moment is much more effective than reading the same content over and over.*"
+      "correctFeedback": "Đúng rồi! Trí nhớ cần được chăm sóc nhẹ nhàng, như một khu vườn. 🌱",
+      "incorrectFeedback": "Hãy thử lại nhé. Gợi ý: Trí nhớ cần thời gian và sự chăm sóc."
     },
     {
       "type": "exercise",
       "id": "ex01-timing",
       "exerciseType": "true_false",
-      "question": "Ôn tập ngay trước khi quên sẽ giúp não bộ ghi nhớ tốt hơn.\n\n*Reviewing just before forgetting helps the brain remember better.*",
+      "question": "Ôn tập ngay trước khi quên sẽ giúp não bộ ghi nhớ tốt hơn.",
       "correctAnswer": true,
-      "correctFeedback": "Chính xác! Đây là nguyên lý cốt lõi của Spaced Repetition. ✨\n\n*Exactly! This is the core principle of Spaced Repetition.*",
-      "incorrectFeedback": "Thực ra, ôn tập đúng lúc sắp quên chính là bí quyết! Não sẽ nghĩ: \"Điều này quan trọng!\"\n\n*Actually, reviewing just before forgetting is the secret! The brain thinks: \"This is important!\"*"
+      "correctFeedback": "Chính xác! Đây là nguyên lý cốt lõi của Spaced Repetition. ✨",
+      "incorrectFeedback": "Thực ra, ôn tập đúng lúc sắp quên chính là bí quyết! Não sẽ nghĩ: \"Điều này quan trọng!\""
     },
     {
       "type": "markdown",
-      "content": "## Một hơi thở nhẹ nhàng\n## A Gentle Breath\n\n---\n\nTrước khi kết thúc chương này, hãy dừng lại một chút.\n\n*Before ending this chapter, let's pause for a moment.*\n\nNhắm mắt lại. Hít thở sâu.\n\n*Close your eyes. Take a deep breath.*\n\nNghĩ về một điều bạn vừa học được hôm nay — không cần phải là điều gì lớn lao. Có thể chỉ là một từ mới, một ý tưởng nhỏ, hoặc cảm giác an bình khi đọc những dòng này.\n\n*Think about something you just learned today — it doesn't have to be anything big. Perhaps just a new word, a small idea, or the peaceful feeling while reading these lines.*\n\nĐó là hạt giống đầu tiên trong khu vườn ký ức của bạn.\n\n*That is the first seed in your memory garden.*\n\nNgày mai, chúng ta sẽ quay lại tưới nước cho nó.\n\n*Tomorrow, we will return to water it.*\n\n🌱"
+      "lang": "en",
+      "content": "# The Rhythm of Memory\n\n---\n\nTake a deep breath.\n\nHave you ever noticed that our most beautiful memories often return when we're not trying to remember? They come gently, like a cool afternoon breeze, like the familiar scent from mother's kitchen.\n\nMemory is not a rigid box that we stuff with information. Memory is a garden — it needs care, watering, and most importantly, time to rest."
+    },
+    {
+      "type": "markdown",
+      "lang": "en",
+      "content": "## What is Spaced Repetition?\n\n---\n\nSpaced Repetition is a learning method that follows the natural rhythm of our brain.\n\nInstead of cramming everything in one night, we review knowledge at increasingly longer intervals:\n\nToday → Tomorrow → 3 days later → 1 week later → 2 weeks later...\n\nEach review makes the memory deeper, stronger — like roots growing ever more firmly into the soil."
+    },
+    {
+      "type": "markdown",
+      "lang": "en",
+      "content": "## Why does this method work?\n\n---\n\nOur brain is very smart — it knows what's important and what can be forgotten.\n\nWhen we review knowledge just as we're about to forget, the brain receives a signal: \"Ah, this is important, I need to keep it.\"\n\nThat's why reviewing at the right moment is much more effective than reading the same content over and over."
+    },
+    {
+      "type": "markdown",
+      "lang": "en",
+      "content": "## A Gentle Breath\n\n---\n\nBefore ending this chapter, let's pause for a moment.\n\nClose your eyes. Take a deep breath.\n\nThink about something you just learned today — it doesn't have to be anything big. Perhaps just a new word, a small idea, or the peaceful feeling while reading these lines.\n\nThat is the first seed in your memory garden.\n\nTomorrow, we will return to water it. 🌱"
     }
   ]
 }
