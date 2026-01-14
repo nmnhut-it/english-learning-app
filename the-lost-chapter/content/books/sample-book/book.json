@@ -1,0 +1,9 @@
+{
+  "id": "sample-book",
+  "title": "Sample Audiobook",
+  "author": "TheLostChapter",
+  "language": "vi",
+  "description": "A sample audiobook to demonstrate the TheLostChapter platform features.",
+  "coverImage": "cover.jpg",
+  "chapters": ["ch01", "ch02"]
+}

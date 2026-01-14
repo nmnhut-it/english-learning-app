@@ -1,0 +1,10 @@
+{
+  "id": "gentle-mind",
+  "title": "Trí Nhớ Dịu Dàng | The Gentle Mind",
+  "author": "TheLostChapter",
+  "description": "Một hành trình nhẹ nhàng khám phá nghệ thuật ghi nhớ. A gentle journey into the art of remembering.",
+  "language": "vi-en",
+  "coverImage": null,
+  "chapters": ["ch01", "ch02", "ch03"],
+  "tags": ["spaced-repetition", "memory", "mindfulness", "bilingual"]
+}

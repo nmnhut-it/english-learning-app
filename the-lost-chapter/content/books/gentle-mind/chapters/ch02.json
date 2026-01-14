@@ -1,0 +1,79 @@
+{
+  "id": "ch02",
+  "title": "Nghệ Thuật Của Sự Quên | The Art of Forgetting",
+  "sections": [
+    {
+      "type": "markdown",
+      "lang": "vi",
+      "content": "# Nghệ Thuật Của Sự Quên\n\n---\n\nChúng ta thường nghĩ rằng quên là điều xấu. Nhưng thực ra, quên là một món quà.\n\nHãy tưởng tượng nếu bạn nhớ mọi thứ — từng khuôn mặt người lạ trên đường, từng con số vô nghĩa, từng cơn đau nhỏ... Tâm trí bạn sẽ quá tải.\n\nQuên giúp ta giữ lại những gì thật sự quan trọng."
+    },
+    {
+      "type": "markdown",
+      "lang": "vi",
+      "content": "## Đường Cong Lãng Quên\n\n---\n\nVào năm 1885, nhà tâm lý học Hermann Ebbinghaus đã khám phá ra một điều thú vị: trí nhớ của chúng ta phai mờ theo một đường cong có thể dự đoán được.\n\nSau 20 phút: Chúng ta quên khoảng 40% những gì vừa học.\n\nSau 1 ngày: Chúng ta chỉ còn nhớ khoảng 30%.\n\nSau 1 tuần: Chỉ còn lại khoảng 20%...\n\nNhưng đây là điều kỳ diệu: mỗi lần ta ôn lại, đường cong này trở nên phẳng hơn. Ký ức phai chậm hơn."
+    },
+    {
+      "type": "markdown",
+      "lang": "vi",
+      "content": "## Sức Mạnh Của Việc Nhớ Lại\n\n---\n\nCó một bí mật mà ít người biết: cố gắng nhớ lại một điều gì đó hiệu quả hơn nhiều so với đọc lại nó.\n\nĐây gọi là \"Hiệu ứng Kiểm tra\".\n\nKhi bạn tự hỏi: \"Mình đã học được gì hôm qua?\" — chính hành động cố gắng nhớ lại đó đang củng cố ký ức của bạn.\n\nNhư thể bạn đang tập thể dục cho não bộ vậy."
+    },
+    {
+      "type": "markdown",
+      "lang": "vi",
+      "content": "## Một bài tập nhỏ\n\n---\n\nBây giờ, hãy thử điều này:\n\nNhắm mắt lại trong 30 giây. Cố gắng nhớ lại những gì bạn đã đọc ở Chương 1.\n\nĐừng lo nếu bạn không nhớ hết. Chính việc cố gắng nhớ đã giúp củng cố những gì bạn còn giữ lại.\n\n...\n\nBạn đã thử chưa?\n\nNếu rồi, bạn vừa thực hành Spaced Repetition đấy. 🌟"
+    },
+    {
+      "type": "markdown",
+      "lang": "vi",
+      "content": "## Lời kết chương\n\n---\n\nHôm nay, bạn đã học được rằng:\n\nQuên là tự nhiên, và thậm chí là cần thiết.\n\nKý ức phai mờ theo một đường cong có thể dự đoán.\n\nNhưng mỗi lần ôn lại, đường cong trở nên phẳng hơn.\n\nCố gắng nhớ lại hiệu quả hơn đọc lại.\n\nHãy để những ý tưởng này lắng đọng. Ngày mai, ta sẽ khám phá cách áp dụng chúng vào cuộc sống hàng ngày.\n\n🌙 Chúc bạn ngủ ngon."
+    },
+    {
+      "type": "exercise",
+      "id": "ex02-curve",
+      "exerciseType": "multiple_choice",
+      "question": "Sau 1 ngày không ôn tập, ta thường nhớ được bao nhiêu?",
+      "options": [
+        { "text": "70%", "correct": false },
+        { "text": "50%", "correct": false },
+        { "text": "30%", "correct": true },
+        { "text": "10%", "correct": false }
+      ],
+      "correctFeedback": "Đúng rồi! Đó là lý do tại sao ôn tập sớm rất quan trọng. 📉→📈",
+      "incorrectFeedback": "Gợi ý: Theo Ebbinghaus, sau 1 ngày ta chỉ còn nhớ khoảng 30%."
+    },
+    {
+      "type": "exercise",
+      "id": "ex02-recall",
+      "exerciseType": "true_false",
+      "question": "Cố gắng nhớ lại hiệu quả hơn đọc lại.",
+      "correctAnswer": true,
+      "correctFeedback": "Chính xác! Đây là \"Hiệu ứng Kiểm tra\" — cố gắng nhớ giúp củng cố ký ức. 🧠",
+      "incorrectFeedback": "Thực ra, nghiên cứu cho thấy cố gắng nhớ lại hiệu quả hơn nhiều so với đọc lại thụ động."
+    },
+    {
+      "type": "markdown",
+      "lang": "en",
+      "content": "# The Art of Forgetting\n\n---\n\nWe often think forgetting is bad. But actually, forgetting is a gift.\n\nImagine if you remembered everything — every stranger's face on the street, every meaningless number, every small pain... Your mind would be overwhelmed.\n\nForgetting helps us keep what truly matters."
+    },
+    {
+      "type": "markdown",
+      "lang": "en",
+      "content": "## The Forgetting Curve\n\n---\n\nIn 1885, psychologist Hermann Ebbinghaus discovered something fascinating: our memory fades along a predictable curve.\n\nAfter 20 minutes: We forget about 40% of what we just learned.\n\nAfter 1 day: We only remember about 30%.\n\nAfter 1 week: Only about 20% remains...\n\nBut here's the magic: each time we review, this curve becomes flatter. Memory fades more slowly."
+    },
+    {
+      "type": "markdown",
+      "lang": "en",
+      "content": "## The Power of Recall\n\n---\n\nThere's a secret few people know: trying to recall something is much more effective than re-reading it.\n\nThis is called the \"Testing Effect.\"\n\nWhen you ask yourself: \"What did I learn yesterday?\" — that very act of trying to remember is strengthening your memory.\n\nIt's like you're exercising your brain."
+    },
+    {
+      "type": "markdown",
+      "lang": "en",
+      "content": "## A small exercise\n\n---\n\nNow, try this:\n\nClose your eyes for 30 seconds. Try to recall what you read in Chapter 1.\n\nDon't worry if you can't remember everything. The very act of trying has strengthened what remains.\n\n...\n\nDid you try?\n\nIf so, you just practiced Spaced Repetition. 🌟"
+    },
+    {
+      "type": "markdown",
+      "lang": "en",
+      "content": "## Chapter closing\n\n---\n\nToday, you learned that:\n\nForgetting is natural, and even necessary.\n\nMemory fades along a predictable curve.\n\nBut each review makes the curve flatter.\n\nTrying to recall is more effective than re-reading.\n\nLet these ideas settle. Tomorrow, we'll explore how to apply them in daily life.\n\n🌙 Sleep well."
+    }
+  ]
+}

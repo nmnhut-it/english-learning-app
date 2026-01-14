@@ -1,0 +1,23 @@
+{
+  "id": "ch02",
+  "title": "Advanced Features",
+  "sections": [
+    {
+      "type": "markdown",
+      "content": "# Advanced Features\n\nIn this chapter, we explore more features of the platform.\n\n## Offline Support\n\nYou can download books for offline reading. Once downloaded, the content is available without internet.\n\n## Dark Mode\n\nSwitch between light and dark themes using the toggle in the header."
+    },
+    {
+      "type": "exercise",
+      "id": "ex02",
+      "exerciseType": "true_false",
+      "question": "TheLostChapter works offline after downloading content.",
+      "correctAnswer": true,
+      "correctFeedback": "Correct! Downloaded content is available offline.",
+      "incorrectFeedback": "Not quite. Downloaded books work offline!"
+    },
+    {
+      "type": "markdown",
+      "content": "## Congratulations!\n\nYou've completed the sample book. Now try creating your own content using the Colab CMS notebook."
+    }
+  ]
+}

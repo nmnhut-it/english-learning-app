@@ -1,0 +1,20 @@
+{
+  "books": [
+    {
+      "id": "gentle-mind",
+      "title": "Trí Nhớ Dịu Dàng | The Gentle Mind",
+      "author": "TheLostChapter",
+      "language": "vi-en",
+      "coverImage": null,
+      "chapters": ["ch01", "ch02", "ch03"]
+    },
+    {
+      "id": "sample-book",
+      "title": "Sample Audiobook",
+      "author": "TheLostChapter",
+      "language": "vi",
+      "coverImage": "cover.jpg",
+      "chapters": ["ch01", "ch02"]
+    }
+  ]
+}
