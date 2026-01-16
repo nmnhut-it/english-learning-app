@@ -19,19 +19,24 @@ Mở sách trang 8 tập 2 đi.
 </teacher_script>
 
 <vocabulary>
-1. **character** : (n) nhân vật /ˈkærəktə/
-2. **educational programme** : (n) chương trình giáo dục /ˌedʒuˈkeɪʃənl ˈprəʊɡræm/
+1. **talent show** : (n) chương trình tài năng /ˈtælənt ʃəʊ/
+2. **viewer** : (n) người xem /ˈvjuːə/
 3. **comedy** : (n) phim hài, hài kịch /ˈkɒmədi/
-4. **talent show** : (n) chương trình tài năng /ˈtælənt ʃəʊ/
-5. **viewer** : (n) người xem /ˈvjuːə/
-6. **channel** : (n) kênh truyền hình /ˈtʃænl/
-7. **animated film** : (n) phim hoạt hình /ˈænɪmeɪtɪd fɪlm/
-8. **game show** : (n) trò chơi truyền hình /ɡeɪm ʃəʊ/
-9. **popular** : (adj) phổ biến /ˈpɒpjələ/
-10. **boring** : (adj) nhàm chán /ˈbɔːrɪŋ/
-11. **cute** : (adj) dễ thương /kjuːt/
-12. **live** : (adj) trực tiếp /laɪv/
-13. **funny** : (adj) hài hước /ˈfʌni/
+4. **character** : (n) nhân vật /ˈkærəktə/
+5. **educational programme** : (n) chương trình giáo dục /ˌedʒuˈkeɪʃənl ˈprəʊɡræm/
+6. **competition** : (n) cuộc thi, sự cạnh tranh /ˌkɒmpəˈtɪʃn/
+7. **make people laugh** : làm cho mọi người cười /meɪk ˈpiːpl lɑːf/
+8. **the best performer** : người biểu diễn xuất sắc nhất /ðə best pəˈfɔːmə/
+9. **person** : (n) người /ˈpɜːsn/
+10. **channel** : (n) kênh truyền hình /ˈtʃænl/
+11. **animated film** : (n) phim hoạt hình /ˈænɪmeɪtɪd fɪlm/
+12. **game show** : (n) trò chơi truyền hình /ɡeɪm ʃəʊ/
+13. **popular** : (adj) phổ biến /ˈpɒpjələ/
+14. **boring** : (adj) nhàm chán /ˈbɔːrɪŋ/
+15. **cute** : (adj) dễ thương /kjuːt/
+16. **live** : (adj) trực tiếp /laɪv/
+17. **funny** : (adj) hài hước /ˈfʌni/
+18. **happen - happened - happened** : (v) xảy ra, diễn ra /ˈhæpən/
 </vocabulary>
 
 <teacher_script pause="120">
