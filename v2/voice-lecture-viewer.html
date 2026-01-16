@@ -411,6 +411,7 @@ const LM = {
     switch (this.pendingType) {
       case this.TYPES.TS:
         // Consecutive TSes - auto-play without waiting
+        this.state = this.STATES.IDLE;
         this.hideNPC();
         setTimeout(() => this.playTS(this.pendingElement, true), 200);
         break;
