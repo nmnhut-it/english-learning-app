@@ -119,44 +119,37 @@ Sửa bài nếu sai. 30 giây nha.
 ---
 
 <!-- chunk: exercise_2 -->
-### Bài 2 trang 14 - Complete sentences
+### Bài 2 trang 14 - Complete the text
 
 <teacher_script pause="0">
-Bài 2 nha. Điền từ vào chỗ trống.
+Bài 2 nha. Điền từ vào đoạn văn.
 </teacher_script>
 
 <task>
-**Đề:** Complete the sentences with the words in the box.
-**Dịch đề:** Hoàn thành câu với các từ trong khung.
-**Yêu cầu:** Chọn từ phù hợp để điền vào chỗ trống.
+**Đề:** Use the words in the box to complete the text.
+**Dịch đề:** Dùng các từ trong khung để hoàn thành đoạn văn.
+**Yêu cầu:** Đọc đoạn văn, chọn từ phù hợp để điền vào chỗ trống.
 </task>
 
 <questions type="fill_blanks">
 **Word bank:** *animal / educational / funny / sports / viewers*
 
-**1.** Vietnam Idol Kids is a popular programme. It has millions of _______.
-
-*Vietnam Idol Kids là một chương trình phổ biến. Nó có hàng triệu _______.*
-
-**2.** Cuc Phuong Forest is an _______ programme.
-
-*Rừng Cúc Phương là một chương trình _______.*
-
-**3.** My father likes _______ programmes like football and tennis.
-
-*Bố tôi thích các chương trình _______ như bóng đá và quần vợt.*
-
-**4.** Comedies are _______. They make people laugh.
-
-*Phim hài rất _______. Chúng làm mọi người cười.*
-
-**5.** Science programmes are _______. People can learn a lot from them.
-
-*Chương trình khoa học rất _______. Mọi người có thể học được nhiều từ chúng.*
+VTV1 is a popular TV channel in Viet Nam. It attracts many **(1)** _______ because it has interesting programmes. The **(2)** _______ programmes show tigers and giraffes in nature. People watch races or football matches on **(3)** _______ programmes. Comedies make people laugh because they are **(4)** _______. Game shows are both fun and **(5)** _______.
 </questions>
 
+<reading>
+| English | Vietnamese |
+|---------|------------|
+| VTV1 is a popular TV channel in Viet Nam. | VTV1 là một kênh truyền hình phổ biến ở Việt Nam. |
+| It attracts many (1) _______ because it has interesting programmes. | Nó thu hút nhiều (1) _______ vì có những chương trình thú vị. |
+| The (2) _______ programmes show tigers and giraffes in nature. | Chương trình về (2) _______ chiếu về loài hổ và hươu cao cổ trong tự nhiên. |
+| People watch races or football matches on (3) _______ programmes. | Mọi người xem các cuộc đua hay trận đấu bóng đá trên các chương trình (3) _______. |
+| Comedies make people laugh because they are (4) _______. | Phim hài khiến mọi người cười vì nó rất (4) _______. |
+| Game shows are both fun and (5) _______. | Các chương trình trò chơi thì vừa vui vừa (5) _______. |
+</reading>
+
 <teacher_script pause="60">
-Điền từ vào chỗ trống đi. 1 phút nha.
+Đọc đoạn văn rồi điền từ vào chỗ trống đi. 1 phút nha.
 </teacher_script>
 
 ---
@@ -175,23 +168,23 @@ Giải thích từng câu nha.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 1: millions of VIEWERS - hàng triệu người xem.
+Câu 1: VIEWERS - người xem. "Attracts many..." cần danh từ chỉ người. Kênh truyền hình thu hút người xem.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 2: an ANIMAL programme - chương trình về động vật. Rừng Cúc Phương có nhiều động vật.
+Câu 2: ANIMAL - động vật. "Tigers and giraffes" là động vật, nên đây là chương trình về động vật.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 3: SPORTS programmes - chương trình thể thao. Football và tennis là thể thao.
+Câu 3: SPORTS - thể thao. "Races or football matches" là các môn thể thao.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 4: Comedies are FUNNY - Phim hài thì hài hước. "Make people laugh" là gợi ý.
+Câu 4: FUNNY - hài hước. "Make people laugh" là gợi ý - làm người ta cười thì là hài hước.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 5: EDUCATIONAL - có tính giáo dục. "Learn a lot" là gợi ý.
+Câu 5: EDUCATIONAL - có tính giáo dục. Game shows vừa vui (fun) vừa có tính giáo dục.
 </teacher_script>
 
 <teacher_script pause="30">
@@ -236,54 +229,57 @@ Xem lại bảng tóm tắt. 30 giây nha.
 ---
 
 <!-- chunk: exercise_3 -->
-### Bài 3 trang 14 - Choose Wh-word
+### Bài 3 trang 14 - Complete each question with a suitable question word
 
 <teacher_script pause="0">
-Bài 3 nha. Chọn từ hỏi Wh- phù hợp.
+Bài 3 nha. Điền từ hỏi phù hợp vào mỗi câu.
 </teacher_script>
 
 <task>
-**Đề:** Choose the correct question word to complete the questions.
-**Dịch đề:** Chọn từ hỏi đúng để hoàn thành câu hỏi.
+**Đề:** Complete each question with a suitable question word.
+**Dịch đề:** Hoàn thành mỗi câu hỏi với từ để hỏi phù hợp.
 **Yêu cầu:** Dựa vào câu trả lời để chọn từ hỏi phù hợp.
+**Hướng dẫn:**
+- How many + danh từ số nhiều: hỏi về số lượng
+- What: hỏi về sự vật, sự việc
+- Why: hỏi về lý do (trả lời bằng Because...)
+- Who: hỏi về người
 </task>
 
 <questions type="fill_blanks">
-**Word bank:** *How often / How many / What / Who / Why*
+**1.** - _______ days a week do you go to class?
+    - I go to class five days a week.
 
-**1.** _______ do you watch TV?
-→ I watch TV every day.
+*- _______ ngày một tuần bạn đến lớp?*
+*- Tôi đến lớp năm ngày một tuần.*
 
-*_______ bạn xem TV?*
-*→ Tôi xem TV mỗi ngày.*
+**2.** - _______ did you watch on TV last night?
+    - I watched The Fox Teacher.
 
-**2.** _______ is your favourite programme?
-→ My favourite programme is The Voice Kids.
+*- _______ bạn đã xem trên TV tối qua?*
+*- Tôi đã xem The Fox Teacher.*
 
-*_______ là chương trình yêu thích của bạn?*
-*→ Chương trình yêu thích của tôi là The Voice Kids.*
+**3.** - _______ do you like the Wildlife programme?
+    - Because I love animals.
 
-**3.** _______ do you like it?
-→ Because it's very interesting.
+*- _______ bạn thích chương trình Động vật hoang dã?*
+*- Vì tôi yêu động vật.*
 
-*_______ bạn thích nó?*
-*→ Vì nó rất thú vị.*
+**4.** - _______ is your favourite person on TV?
+    - I like Minh Phong in The Gift of Music.
 
-**4.** _______ do you watch it with?
-→ I watch it with my family.
+*- _______ là người bạn yêu thích nhất trên TV?*
+*- Tôi thích Minh Phong trong Món quà âm nhạc.*
 
-*_______ bạn xem nó cùng với?*
-*→ Tôi xem nó cùng với gia đình.*
+**5.** - _______ hours a day do you watch TV?
+    - About half an hour a day. I watch more at the weekend.
 
-**5.** _______ hours a day do you watch TV?
-→ About 2 hours.
-
-*_______ giờ một ngày bạn xem TV?*
-*→ Khoảng 2 giờ.*
+*- _______ giờ một ngày bạn xem TV?*
+*- Khoảng nửa giờ một ngày. Tôi xem nhiều hơn vào cuối tuần.*
 </questions>
 
 <teacher_script pause="60">
-Chọn từ hỏi phù hợp đi. 1 phút nha.
+Điền từ hỏi phù hợp vào mỗi câu đi. 1 phút nha.
 </teacher_script>
 
 ---
@@ -294,7 +290,7 @@ Ok đáp án nha.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. How often | 2. What | 3. Why | 4. Who | 5. How many
+**Đáp án:** 1. How many | 2. What | 3. Why | 4. Who | 5. How many
 </answer>
 
 <teacher_script pause="0">
@@ -302,23 +298,39 @@ Giải thích từng câu nha.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 1: HOW OFTEN - Trả lời "every day" là tần suất, nên dùng How often.
+Câu 1: HOW MANY - Hỏi "bao nhiêu ngày". Trả lời "five days" là số lượng ngày.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 2: WHAT - Trả lời "The Voice Kids" là sự vật/chương trình, nên dùng What.
+How many + danh từ số nhiều (days, hours...) dùng để hỏi số lượng.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 3: WHY - Trả lời "Because..." là lý do, nên dùng Why.
+Câu 2: WHAT - Hỏi "xem cái gì". Trả lời "The Fox Teacher" là tên chương trình.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 4: WHO - Trả lời "with my family" là người, nên dùng Who.
+What dùng để hỏi về sự vật, sự việc.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 5: HOW MANY - Trả lời "2 hours" là số lượng, nên dùng How many.
+Câu 3: WHY - Hỏi "tại sao". Trả lời bắt đầu bằng "Because..." là lý do.
+</teacher_script>
+
+<teacher_script pause="0">
+Why dùng để hỏi lý do, câu trả lời luôn có Because.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 4: WHO - Hỏi "ai". Trả lời "Minh Phong" là tên người.
+</teacher_script>
+
+<teacher_script pause="0">
+Who dùng để hỏi về người.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 5: HOW MANY - Hỏi "bao nhiêu giờ". Trả lời "half an hour" là số lượng thời gian.
 </teacher_script>
 
 <teacher_script pause="30">
