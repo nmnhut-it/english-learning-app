@@ -470,6 +470,9 @@ const LM = {
 
     if (this.pendingType === this.TYPES.VOCAB) {
       this.state = this.STATES.VOCAB_ACTIVE;
+      // Hide chunk-nav while vocab active
+      const chunkNav = document.getElementById(`nav-${this.currentChunk}`)?.closest('.chunk-nav');
+      if (chunkNav) chunkNav.style.display = 'none';
       this.scrollTo(this.pendingElement);
       // Vocab system takes over
     } else if (this.pendingType === this.TYPES.CONTENT) {
@@ -491,6 +494,10 @@ const LM = {
     if (chunk) chunk.classList.add('spotlight');
 
     this.scrollTo(el);
+
+    // Hide chunk-nav while viewing content
+    const chunkNav = document.getElementById(`nav-${this.currentChunk}`)?.closest('.chunk-nav');
+    if (chunkNav) chunkNav.style.display = 'none';
 
     // Add "Xem xong" button after content
     this.addDoneButton(el);
@@ -543,9 +550,10 @@ const LM = {
       if (el.id?.includes('-photo')) return true;
       if (el.classList.contains('ts-continue')) return true;
       if (el.classList.contains('content-done')) return true;
-      // Non-content elements (hr, headings)
+      // Non-content elements (hr, headings, task instructions)
       if (el.tagName === 'HR') return true;
       if (/^H[1-6]$/.test(el.tagName)) return true;
+      if (el.classList.contains('task-box')) return true;
       // Completed vocab
       if (el.classList.contains('vocab-interactive') && el.classList.contains('vocab-completed')) return true;
       return false;
@@ -732,6 +740,10 @@ const LM = {
     this.state = this.STATES.CHUNK_DONE;
     const btn = document.getElementById(`nav-${this.currentChunk}`);
     if (btn) {
+      // Show chunk-nav if it was hidden
+      const chunkNav = btn.closest('.chunk-nav');
+      if (chunkNav) chunkNav.style.display = '';
+
       btn.disabled = false;
       btn.classList.add('ready');
     }
