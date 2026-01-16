@@ -1055,13 +1055,12 @@ async function showQuizQuestion(id){
 
   document.getElementById(`${id}-quiz-num`).textContent=inst.currentWord+1;
 
-  let prompt,questionWord,correctAnswer,options=[],voicePrompt='';
+  let prompt,questionWord,correctAnswer,options=[];
 
   if(qType==='meaning'){
     prompt='Chọn nghĩa đúng của từ:';
     questionWord=w.word;
     correctAnswer=w.meaning;
-    voicePrompt=`Câu ${inst.currentWord+1}. Từ "${w.word}" nghĩa là gì?`;
     const others=inst.words.filter((_,i)=>i!==inst.currentWord).map(x=>x.meaning);
     shuffle(others);
     options=[correctAnswer,...others.slice(0,3)];
@@ -1069,7 +1068,6 @@ async function showQuizQuestion(id){
     prompt='Từ nào viết đúng cho nghĩa:';
     questionWord=w.meaning;
     correctAnswer=w.word;
-    voicePrompt=`Câu ${inst.currentWord+1}. "${w.meaning}" tiếng Anh viết như thế nào?`;
     const others=inst.words.filter((_,i)=>i!==inst.currentWord).map(x=>x.word);
     shuffle(others);
     options=[correctAnswer,...others.slice(0,3)];
@@ -1077,7 +1075,6 @@ async function showQuizQuestion(id){
     prompt='Từ "'+w.word+'" thuộc loại từ nào?';
     questionWord='';
     correctAnswer=w.type;
-    voicePrompt=`Câu ${inst.currentWord+1}. Từ "${w.word}" thuộc loại từ nào?`;
     options=[correctAnswer,'n','v','adj','adv','phrase'].filter((v,i,a)=>a.indexOf(v)===i).slice(0,4);
   }
 
@@ -1089,9 +1086,21 @@ async function showQuizQuestion(id){
   const optContainer=document.getElementById(`${id}-quiz-options`);
   optContainer.innerHTML=options.map(opt=>`<div class="quiz-option" data-answer="${opt.replace(/"/g,'&quot;')}" onclick="selectQuizOption('${id}',this,'${correctAnswer.replace(/'/g,"\\'")}')">${opt}</div>`).join('');
 
-  // Voice prompt for the question
+  // Voice prompt - split languages to sound natural
   await playBeep(660,100);
-  await speakAsync(voicePrompt,'vi-VN');
+  await speakAsync(`Câu ${inst.currentWord+1}.`,'vi-VN');
+  if(qType==='meaning'){
+    // "Từ [English word] nghĩa là gì?"
+    await speakAsync(w.word,'en-US');
+    await speakAsync('nghĩa là gì?','vi-VN');
+  }else if(qType==='spelling'){
+    // "[Vietnamese meaning] tiếng Anh viết như thế nào?"
+    await speakAsync(`${w.meaning} tiếng Anh viết như thế nào?`,'vi-VN');
+  }else{
+    // "Từ [English word] thuộc loại từ nào?"
+    await speakAsync(w.word,'en-US');
+    await speakAsync('thuộc loại từ nào?','vi-VN');
+  }
 }
 
 async function selectQuizOption(id,el,correct){
@@ -1104,6 +1113,9 @@ async function selectQuizOption(id,el,correct){
     if(opt.dataset.answer===correct)opt.classList.add('correct');
   });
 
+  // Check if correct answer is English (a word in our vocab list)
+  const isEnglish=inst.words.some(w=>w.word===correct);
+
   if(selected===correct){
     el.classList.add('correct');
     inst.quizAnswers.push(true);
@@ -1114,7 +1126,9 @@ async function selectQuizOption(id,el,correct){
     el.classList.add('wrong');
     inst.quizAnswers.push(false);
     await playBeep(300,300);
-    speakAsync(`Sai rồi. Đáp án đúng là: ${correct}`,'vi-VN');
+    // Split TTS for mixed language
+    await speakAsync('Sai rồi. Đáp án đúng là','vi-VN');
+    await speakAsync(correct,isEnglish?'en-US':'vi-VN');
   }
 
   // Next question after delay
