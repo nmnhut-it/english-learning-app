@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Voice Recorder for Teacher Scripts</title>
+  <style>
+    *{box-sizing:border-box;margin:0;padding:0}
+    body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;background:#f5f5f5;padding:20px;max-width:800px;margin:0 auto}
+    h1{color:#1e3a8a;margin-bottom:20px;font-size:1.5rem}
+    .card{background:#fff;border-radius:12px;padding:20px;margin:16px 0;box-shadow:0 2px 8px rgba(0,0,0,.1)}
+    .step{display:none}.step.active{display:block}
+    label{display:block;margin-bottom:8px;font-weight:600;color:#374151}
+    input[type="file"],input[type="text"]{width:100%;padding:12px;border:2px solid #e5e7eb;border-radius:8px;font-size:1rem;margin-bottom:12px}
+    input:focus{outline:none;border-color:#3b82f6}
+    button{background:#2563eb;color:#fff;border:none;padding:12px 24px;border-radius:8px;font-size:1rem;cursor:pointer;margin:4px}
+    button:hover{background:#1d4ed8}
+    button:disabled{background:#9ca3af;cursor:not-allowed}
+    button.secondary{background:#e5e7eb;color:#374151}
+    button.secondary:hover{background:#d1d5db}
+    button.danger{background:#ef4444}
+    button.danger:hover{background:#dc2626}
+    button.success{background:#10b981}
+    .progress{background:#e5e7eb;height:8px;border-radius:4px;margin:16px 0}
+    .progress-fill{background:#2563eb;height:100%;border-radius:4px;transition:width .3s}
+    .script-text{background:#eff6ff;border-left:4px solid #2563eb;padding:16px;border-radius:0 8px 8px 0;font-size:1.1rem;line-height:1.6;margin:16px 0}
+    .script-num{color:#6b7280;font-size:.85rem;margin-bottom:8px}
+    .controls{display:flex;gap:12px;flex-wrap:wrap;justify-content:center;margin:20px 0}
+    .record-btn{width:80px;height:80px;border-radius:50%;font-size:2rem;display:flex;align-items:center;justify-content:center}
+    .record-btn.recording{background:#ef4444;animation:pulse 1s infinite}
+    @keyframes pulse{50%{opacity:.7}}
+    audio{width:100%;margin:12px 0}
+    .status{text-align:center;color:#6b7280;margin:12px 0}
+    .done-list{max-height:300px;overflow-y:auto}
+    .done-item{display:flex;align-items:center;gap:12px;padding:12px;border-bottom:1px solid #e5e7eb}
+    .done-item:last-child{border-bottom:none}
+    .done-item span{flex:1;font-size:.9rem}
+    .done-item audio{width:200px;height:32px}
+    .done-item button{padding:6px 12px;font-size:.85rem}
+    .nav-btns{display:flex;justify-content:space-between;margin-top:20px}
+    .hidden{display:none}
+    #drop-zone{border:3px dashed #d1d5db;border-radius:12px;padding:40px;text-align:center;cursor:pointer;transition:all .2s}
+    #drop-zone:hover,#drop-zone.dragover{border-color:#3b82f6;background:#eff6ff}
+    .tip{background:#fef3c7;border-left:4px solid #f59e0b;padding:12px;border-radius:0 8px 8px 0;font-size:.9rem;margin:12px 0}
+  </style>
+</head>
+<body>
+  <h1>🎙️ Thu Voice cho Teacher Scripts</h1>
+
+  <!-- Step 1: Load file -->
+  <div class="step active" id="step1">
+    <div class="card">
+      <label>Chọn file markdown:</label>
+      <div id="drop-zone">
+        <p>📁 Kéo thả file .md vào đây</p>
+        <p style="color:#6b7280;margin-top:8px">hoặc click để chọn file</p>
+        <input type="file" id="file-input" accept=".md" style="display:none">
+      </div>
+      <div class="tip">💡 File markdown chứa các tag <code>&lt;teacher_script&gt;</code></div>
+    </div>
+  </div>
+
+  <!-- Step 2: Record -->
+  <div class="step" id="step2">
+    <div class="card">
+      <div class="script-num">Script <span id="current-num">1</span> / <span id="total-num">0</span></div>
+      <div class="progress"><div class="progress-fill" id="progress-fill"></div></div>
+      <div class="script-text" id="script-text"></div>
+
+      <div class="controls">
+        <button class="record-btn" id="record-btn" onclick="toggleRecord()">🎤</button>
+      </div>
+      <div class="status" id="status">Bấm 🎤 để thu âm</div>
+
+      <div id="playback-area" class="hidden">
+        <audio id="playback" controls></audio>
+        <div class="controls">
+          <button class="secondary" onclick="reRecord()">🔄 Thu lại</button>
+          <button class="success" onclick="acceptAndNext()">✅ OK, Tiếp</button>
+        </div>
+      </div>
+
+      <div class="nav-btns">
+        <button class="secondary" onclick="prevScript()">⬅️ Trước</button>
+        <button class="secondary" onclick="skipScript()">Bỏ qua ➡️</button>
+      </div>
+    </div>
+
+    <div class="card">
+      <label>Đã thu: <span id="done-count">0</span> / <span id="total-count">0</span></label>
+      <div class="done-list" id="done-list"></div>
+      <button onclick="downloadAll()" style="width:100%;margin-top:12px" id="download-btn" disabled>📦 Download tất cả</button>
+    </div>
+  </div>
+
+  <!-- Step 3: Done -->
+  <div class="step" id="step3">
+    <div class="card" style="text-align:center">
+      <h2 style="color:#10b981;margin-bottom:16px">✅ Hoàn thành!</h2>
+      <p>Đã thu <span id="final-count">0</span> audio files</p>
+      <button onclick="downloadAll()" style="margin-top:16px">📦 Download ZIP</button>
+      <button class="secondary" onclick="location.reload()" style="margin-top:8px">🔄 Làm lại</button>
+    </div>
+  </div>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
+  <script>
+    let scripts = [];
+    let currentIdx = 0;
+    let recordings = {}; // {index: {blob, url}}
+    let mediaRecorder = null;
+    let audioChunks = [];
+    let isRecording = false;
+
+    // File handling
+    const dropZone = document.getElementById('drop-zone');
+    const fileInput = document.getElementById('file-input');
+
+    dropZone.onclick = () => fileInput.click();
+    dropZone.ondragover = e => { e.preventDefault(); dropZone.classList.add('dragover'); };
+    dropZone.ondragleave = () => dropZone.classList.remove('dragover');
+    dropZone.ondrop = e => { e.preventDefault(); dropZone.classList.remove('dragover'); handleFile(e.dataTransfer.files[0]); };
+    fileInput.onchange = e => handleFile(e.target.files[0]);
+
+    function handleFile(file) {
+      if (!file || !file.name.endsWith('.md')) {
+        alert('Vui lòng chọn file .md');
+        return;
+      }
+      const reader = new FileReader();
+      reader.onload = e => parseMarkdown(e.target.result, file.name);
+      reader.readAsText(file);
+    }
+
+    function parseMarkdown(content, filename) {
+      const pattern = /<teacher_script([^>]*)>([\s\S]*?)<\/teacher_script>/gi;
+      let match;
+      scripts = [];
+
+      while ((match = pattern.exec(content)) !== null) {
+        const attrs = match[1];
+        const text = match[2].trim();
+        if (text && !attrs.includes('href=')) { // Skip if already has audio
+          scripts.push({
+            index: scripts.length,
+            text: text,
+            attrs: attrs,
+            fullMatch: match[0]
+          });
+        }
+      }
+
+      if (scripts.length === 0) {
+        alert('Không tìm thấy teacher_script nào cần thu âm!');
+        return;
+      }
+
+      window.mdContent = content;
+      window.mdFilename = filename;
+
+      document.getElementById('total-num').textContent = scripts.length;
+      document.getElementById('total-count').textContent = scripts.length;
+
+      showStep(2);
+      showScript(0);
+    }
+
+    function showStep(n) {
+      document.querySelectorAll('.step').forEach(s => s.classList.remove('active'));
+      document.getElementById('step' + n).classList.add('active');
+    }
+
+    function showScript(idx) {
+      if (idx < 0 || idx >= scripts.length) return;
+      currentIdx = idx;
+
+      document.getElementById('current-num').textContent = idx + 1;
+      document.getElementById('script-text').textContent = scripts[idx].text;
+      document.getElementById('progress-fill').style.width = ((idx + 1) / scripts.length * 100) + '%';
+
+      // Show existing recording if any
+      if (recordings[idx]) {
+        document.getElementById('playback').src = recordings[idx].url;
+        document.getElementById('playback-area').classList.remove('hidden');
+        document.getElementById('status').textContent = '✅ Đã thu - nghe lại hoặc thu lại';
+      } else {
+        document.getElementById('playback-area').classList.add('hidden');
+        document.getElementById('status').textContent = 'Bấm 🎤 để thu âm';
+      }
+
+      document.getElementById('record-btn').classList.remove('recording');
+      isRecording = false;
+    }
+
+    async function toggleRecord() {
+      const btn = document.getElementById('record-btn');
+
+      if (isRecording) {
+        // Stop
+        mediaRecorder.stop();
+        btn.classList.remove('recording');
+        btn.textContent = '🎤';
+        document.getElementById('status').textContent = 'Đang xử lý...';
+        isRecording = false;
+      } else {
+        // Start
+        try {
+          const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
+          mediaRecorder = new MediaRecorder(stream);
+          audioChunks = [];
+
+          mediaRecorder.ondataavailable = e => audioChunks.push(e.data);
+          mediaRecorder.onstop = () => {
+            stream.getTracks().forEach(t => t.stop());
+            const blob = new Blob(audioChunks, { type: 'audio/webm' });
+            const url = URL.createObjectURL(blob);
+
+            // Save temp recording
+            window.tempRecording = { blob, url };
+
+            document.getElementById('playback').src = url;
+            document.getElementById('playback-area').classList.remove('hidden');
+            document.getElementById('status').textContent = 'Nghe lại và chọn OK hoặc Thu lại';
+          };
+
+          mediaRecorder.start();
+          btn.classList.add('recording');
+          btn.textContent = '⏹️';
+          document.getElementById('status').textContent = '🔴 Đang thu... Bấm ⏹️ để dừng';
+          document.getElementById('playback-area').classList.add('hidden');
+          isRecording = true;
+        } catch (e) {
+          alert('Không thể truy cập microphone: ' + e.message);
+        }
+      }
+    }
+
+    function reRecord() {
+      window.tempRecording = null;
+      document.getElementById('playback-area').classList.add('hidden');
+      document.getElementById('status').textContent = 'Bấm 🎤 để thu lại';
+    }
+
+    function acceptAndNext() {
+      if (window.tempRecording) {
+        recordings[currentIdx] = window.tempRecording;
+        window.tempRecording = null;
+        updateDoneList();
+      }
+
+      if (currentIdx < scripts.length - 1) {
+        showScript(currentIdx + 1);
+      } else {
+        // All done
+        document.getElementById('final-count').textContent = Object.keys(recordings).length;
+        showStep(3);
+      }
+    }
+
+    function skipScript() {
+      if (currentIdx < scripts.length - 1) {
+        showScript(currentIdx + 1);
+      } else {
+        document.getElementById('final-count').textContent = Object.keys(recordings).length;
+        showStep(3);
+      }
+    }
+
+    function prevScript() {
+      if (currentIdx > 0) showScript(currentIdx - 1);
+    }
+
+    function updateDoneList() {
+      const list = document.getElementById('done-list');
+      const count = Object.keys(recordings).length;
+      document.getElementById('done-count').textContent = count;
+      document.getElementById('download-btn').disabled = count === 0;
+
+      list.innerHTML = '';
+      for (const [idx, rec] of Object.entries(recordings)) {
+        const item = document.createElement('div');
+        item.className = 'done-item';
+        item.innerHTML = `
+          <span>#${parseInt(idx)+1}: ${scripts[idx].text.substring(0, 40)}...</span>
+          <audio src="${rec.url}" controls></audio>
+          <button class="danger" onclick="deleteRecording(${idx})">🗑️</button>
+        `;
+        list.appendChild(item);
+      }
+    }
+
+    function deleteRecording(idx) {
+      delete recordings[idx];
+      updateDoneList();
+      if (idx === currentIdx) showScript(currentIdx);
+    }
+
+    async function downloadAll() {
+      const count = Object.keys(recordings).length;
+      if (count === 0) {
+        alert('Chưa có recording nào!');
+        return;
+      }
+
+      const zip = new JSZip();
+      const audioFolder = zip.folder('audio');
+
+      // Add audio files
+      for (const [idx, rec] of Object.entries(recordings)) {
+        const filename = `ts_${String(idx).padStart(3, '0')}.mp3`;
+        audioFolder.file(filename, rec.blob);
+      }
+
+      // Update markdown content
+      let updatedMd = window.mdContent;
+      for (const [idx, rec] of Object.entries(recordings)) {
+        const script = scripts[idx];
+        const filename = `ts_${String(idx).padStart(3, '0')}.mp3`;
+        const newTag = `<teacher_script ${script.attrs} href="audio/${filename}">${script.text}</teacher_script>`;
+        updatedMd = updatedMd.replace(script.fullMatch, newTag);
+      }
+
+      zip.file(window.mdFilename, updatedMd);
+
+      // Generate and download
+      const blob = await zip.generateAsync({ type: 'blob' });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = window.mdFilename.replace('.md', '_with_audio.zip');
+      a.click();
+    }
+  </script>
+</body>
+</html>
