@@ -491,20 +491,26 @@ function showContinueButton(tsId){
   const chunk=document.getElementById(`chunk-${state.currentChunk}`);
   if(!chunk)return;
 
-  // Check if there's a vocab section right after this TS that needs interaction
   const tsEl=document.getElementById(tsId);
-  if(tsEl){
-    // Find next sibling that might be vocab
-    let next=tsEl.nextElementSibling;
-    // Skip timer and action buttons
-    while(next&&(next.classList.contains('timer')||next.classList.contains('action-row')||next.id?.includes('-player')||next.id?.includes('-photo')||next.classList.contains('ts-continue'))){
-      next=next.nextElementSibling;
-    }
-    // If next element is an unstarted vocab section, don't show continue - let vocab handle it
-    if(next&&next.classList.contains('vocab-interactive')&&!next.classList.contains('vocab-completed')){
-      // Show the vocab section and let student start it
-      next.scrollIntoView({behavior:'smooth',block:'center'});
-      return;
+  if(!tsEl)return;
+
+  // Find content between this TS and the next TS
+  let next=tsEl.nextElementSibling;
+  let contentToShow=null;
+
+  // Skip timer, action buttons, continue button
+  while(next&&(next.classList.contains('timer')||next.classList.contains('action-row')||next.id?.includes('-player')||next.id?.includes('-photo')||next.classList.contains('ts-continue'))){
+    next=next.nextElementSibling;
+  }
+
+  // Check if there's content (not another TS) that student should see
+  if(next&&!next.classList.contains('ts')&&!next.classList.contains('chunk-nav')){
+    contentToShow=next;
+
+    // If it's an unstarted vocab section, scroll to it and let student start it
+    if(next.classList.contains('vocab-interactive')&&!next.classList.contains('vocab-completed')){
+      next.scrollIntoView({behavior:'smooth',block:'start'});
+      return; // Vocab has its own flow
     }
   }
 
@@ -512,14 +518,20 @@ function showContinueButton(tsId){
   const allTS=Array.from(chunk.querySelectorAll('.ts'));
   const nextTS=allTS.find(ts=>!ts.classList.contains('played'));
 
-  if(nextTS){
-    // More TS to play - show the continue button for this TS
-    const continueEl=document.getElementById(`${tsId}-continue`);
-    if(continueEl){
-      continueEl.classList.add('show');
-      continueEl.scrollIntoView({behavior:'smooth',block:'center'});
-    }
-  }else{
+  // Show the continue button
+  const continueEl=document.getElementById(`${tsId}-continue`);
+  if(continueEl){
+    continueEl.classList.add('show');
+  }
+
+  // Scroll to content first (so student can read), then they'll see the button above
+  if(contentToShow){
+    contentToShow.scrollIntoView({behavior:'smooth',block:'start'});
+  }else if(continueEl){
+    continueEl.scrollIntoView({behavior:'smooth',block:'center'});
+  }
+
+  if(!nextTS){
     // No more TS - unlock chunk navigation
     unlockNextChunk();
   }
