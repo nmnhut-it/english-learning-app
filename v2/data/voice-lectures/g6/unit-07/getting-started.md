@@ -39,25 +39,42 @@ Bài 1, nghe và đọc hội thoại. Phong với Hùng đang nói về mấy c
 <task>
 **Đề:** Listen and read.
 **Dịch đề:** Nghe và đọc.
-**Yêu cầu:** Nghe audio và đọc theo đoạn hội thoại.
+**Yêu cầu:** Nghe audio và đọc theo đoạn hội thoại giữa Phong và Hùng.
+**Hướng dẫn:**
+- Bước 1: Nghe audio 1 lần để hiểu nội dung chung
+- Bước 2: Đọc theo từng câu, chú ý phát âm
+- Bước 3: Đọc lại và gạch chân từ mới
 </task>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| **Phong:** What are you watching, Hung? | **Phong:** Bạn đang xem cái gì, Hùng? |
-| **Hung:** The Voice Kids. | **Hùng:** Giọng Hát Việt Nhí. |
-| **Phong:** That music talent show is very interesting. | **Phong:** Chương trình tài năng âm nhạc đó rất thú vị. |
-| **Hung:** Yes, it is. What programmes do you often watch, Phong? | **Hùng:** Đúng vậy. Bạn thường xem chương trình gì, Phong? |
-| **Phong:** Films! I like animated films like The Lion King. | **Phong:** Phim! Tôi thích phim hoạt hình như Vua Sư Tử. |
-| **Hung:** I love them, too. They're wonderful. | **Hùng:** Tôi yêu chúng, cũng vậy. Chúng thật tuyệt vời. |
-| **Phong:** I often watch them with my little brother, but he prefers cartoons. | **Phong:** Tôi thường xem chúng với em trai nhỏ của tôi, nhưng em ấy thích phim hoạt hình hơn. |
-| **Hung:** Like Tom and Jerry? | **Hùng:** Như Tom và Jerry? |
-| **Phong:** Ha ha... Yes. He finds Jerry the mouse very funny. | **Phong:** Ha ha... Đúng, em thấy chuột Jerry rất buồn cười. |
-| **Hung:** Jerry is a clever character. Do you know any English programmes for children? | **Hùng:** Jerry là một nhân vật thông minh. Bạn có biết chương trình tiếng Anh nào cho trẻ em không? |
-| **Phong:** Yes. I watch English in a Minute on VTV7. This channel has many educational programmes. | **Phong:** Có. Tôi xem English in a Minute trên VTV7. Kênh này có nhiều chương trình giáo dục. |
-| **Hung:** Sounds good. I'll watch it, too. | **Hùng:** Nghe hay đấy. Tôi cũng sẽ xem nó. |
+**Phong:** What are you watching, Hung?
+**Hung:** The Voice Kids.
+**Phong:** That music talent show is very interesting.
+**Hung:** Yes, it is. What programmes do you often watch, Phong?
+**Phong:** Films! I like animated films like The Lion King.
+**Hung:** I love them, too. They're wonderful.
+**Phong:** I often watch them with my little brother, but he prefers cartoons.
+**Hung:** Like Tom and Jerry?
+**Phong:** Ha ha... Yes. He finds Jerry the mouse very funny.
+**Hung:** Jerry is a clever character. Do you know any English programmes for children?
+**Phong:** Yes. I watch English in a Minute on VTV7. This channel has many educational programmes.
+**Hung:** Sounds good. I'll watch it, too.
 </dialogue>
+
+<translation>
+**Phong:** Bạn đang xem cái gì, Hùng?
+**Hùng:** Giọng Hát Việt Nhí.
+**Phong:** Chương trình tài năng âm nhạc đó rất thú vị.
+**Hùng:** Đúng vậy. Bạn thường xem chương trình gì, Phong?
+**Phong:** Phim! Tôi thích phim hoạt hình như Vua Sư Tử.
+**Hùng:** Tôi cũng yêu chúng. Chúng thật tuyệt vời.
+**Phong:** Tôi thường xem chúng với em trai nhỏ của tôi, nhưng em ấy thích phim hoạt hình ngắn hơn.
+**Hùng:** Như Tom và Jerry?
+**Phong:** Ha ha... Đúng, em thấy chuột Jerry rất buồn cười.
+**Hùng:** Jerry là một nhân vật thông minh. Bạn có biết chương trình tiếng Anh nào cho trẻ em không?
+**Phong:** Có. Tôi xem English in a Minute trên VTV7. Kênh này có nhiều chương trình giáo dục.
+**Hùng:** Nghe hay đấy. Tôi cũng sẽ xem nó.
+</translation>
 
 ---
 
@@ -70,7 +87,11 @@ Bài 2, chọn đáp án đúng A, B hoặc C. 1 phút nha.
 <task>
 **Đề:** Choose the correct answer A, B, or C.
 **Dịch đề:** Chọn đáp án đúng A, B hoặc C.
-**Yêu cầu:** Đọc lại hội thoại ở bài 1, chọn đáp án đúng cho mỗi câu.
+**Yêu cầu:** Đọc lại hội thoại ở bài 1, chọn đáp án đúng cho mỗi câu hỏi.
+**Hướng dẫn:**
+- Bước 1: Đọc câu hỏi và các đáp án A, B, C
+- Bước 2: Quay lại đọc hội thoại để tìm thông tin
+- Bước 3: Chọn đáp án đúng nhất
 </task>
 
 <questions type="multiple_choice">
@@ -130,7 +151,11 @@ Bài 3, nối 1-5 với a-e. 45 giây thôi.
 <task>
 **Đề:** Read the conversation again and match 1-5 with a-e.
 **Dịch đề:** Đọc lại hội thoại và nối 1-5 với a-e.
-**Yêu cầu:** Nối tên chương trình/kênh với loại chương trình tương ứng.
+**Yêu cầu:** Nối tên chương trình/kênh ở cột A với loại chương trình ở cột B.
+**Hướng dẫn:**
+- Bước 1: Đọc tên chương trình ở cột trái
+- Bước 2: Đọc loại chương trình ở cột phải
+- Bước 3: Nối số với chữ cái tương ứng (ví dụ: 1-c)
 </task>
 
 <questions type="matching">
@@ -142,6 +167,16 @@ Bài 3, nối 1-5 với a-e. 45 giây thôi.
 | 4 | VTV7 | d | educational programme |
 | 5 | English in a Minute | e | cartoon |
 </questions>
+
+<translation>
+| | Chương trình/Kênh | | Loại |
+|---|---|---|---|
+| 1 | Giọng Hát Việt Nhí | a | phim hoạt hình |
+| 2 | Vua Sư Tử | b | kênh truyền hình |
+| 3 | Tom và Jerry | c | chương trình tài năng âm nhạc |
+| 4 | VTV7 | d | chương trình giáo dục |
+| 5 | Tiếng Anh trong 1 Phút | e | phim hoạt hình ngắn |
+</translation>
 
 <teacher_script pause="0" type="answer">
 Đáp án: 1-c, 2-a, 3-e, 4-b, 5-d.
@@ -171,15 +206,26 @@ Bài 4, tìm tính từ trong hội thoại. 30 giây.
 <task>
 **Đề:** Find and write the adjectives in the conversation which describe the programmes and characters below.
 **Dịch đề:** Tìm và viết các tính từ trong hội thoại mô tả các chương trình và nhân vật bên dưới.
-**Yêu cầu:** Đọc lại hội thoại, tìm tính từ mô tả cho mỗi chương trình/nhân vật.
+**Yêu cầu:** Đọc lại hội thoại, tìm tính từ (adjective) mô tả cho mỗi chương trình/nhân vật.
+**Hướng dẫn:**
+- Bước 1: Đọc tên chương trình/nhân vật
+- Bước 2: Tìm trong hội thoại câu nói về chương trình/nhân vật đó
+- Bước 3: Xác định tính từ (từ mô tả đặc điểm)
 </task>
 
-<questions type="fill_blanks">
+<questions type="find_words">
 1. The Voice Kids → _______
 2. Animated films → _______
 3. Jerry the mouse → _______
 4. Programmes on VTV7 → _______
 </questions>
+
+<translation>
+1. Giọng Hát Việt Nhí → _______
+2. Phim hoạt hình → _______
+3. Chuột Jerry → _______
+4. Chương trình trên VTV7 → _______
+</translation>
 
 <teacher_script pause="0" type="answer">
 Đáp án: 1 là interesting, 2 là wonderful, 3 là clever, 4 là educational.
@@ -212,7 +258,12 @@ Bài 5 làm nhóm, hỏi bạn về chương trình TV yêu thích. Về nhà t�
 <task>
 **Đề:** Work in groups. Interview your partners about their favourite TV programmes and report to the class.
 **Dịch đề:** Làm việc theo nhóm. Phỏng vấn bạn về chương trình TV yêu thích và báo cáo trước lớp.
-**Yêu cầu:** Hỏi bạn và ghi lại câu trả lời, sau đó báo cáo cho cả lớp.
+**Yêu cầu:** Hỏi bạn trong nhóm về chương trình TV yêu thích, ghi lại câu trả lời, sau đó báo cáo cho cả lớp.
+**Hướng dẫn:**
+- Bước 1: Chia nhóm 3-4 người
+- Bước 2: Lần lượt hỏi nhau bằng các câu hỏi gợi ý
+- Bước 3: Ghi chép câu trả lời của bạn
+- Bước 4: Viết báo cáo theo mẫu và trình bày trước lớp
 </task>
 
 <questions type="speaking">
@@ -220,8 +271,15 @@ Bài 5 làm nhóm, hỏi bạn về chương trình TV yêu thích. Về nhà t�
 - What's your favourite TV programme? *(Chương trình TV yêu thích của bạn là gì?)*
 - What channel is it on? *(Nó chiếu trên kênh nào?)*
 - When do you watch it? *(Bạn xem nó khi nào?)*
+- Why do you like it? *(Tại sao bạn thích nó?)*
 
-**Mẫu câu trả lời:**
+**Cấu trúc câu trả lời:**
+- My favourite programme is... *(Chương trình yêu thích của tôi là...)*
+- It's on channel... *(Nó chiếu trên kênh...)*
+- I watch it every... *(Tôi xem nó mỗi...)*
+- I like it because... *(Tôi thích nó vì...)*
+
+**Mẫu báo cáo:**
 
 | English | Vietnamese |
 |---------|------------|

@@ -492,6 +492,21 @@ Use `<dialogue>` tag with bilingual table.
 </dialogue>
 ```
 
+Or with separate translation block:
+```markdown
+<dialogue>
+**Phong:** What are you watching, Hung?
+**Hung:** The Voice Kids.
+**Phong:** That music talent show is very interesting.
+</dialogue>
+
+<translation>
+**Phong:** Bạn đang xem gì, Hùng?
+**Hùng:** Giọng Hát Việt Nhí.
+**Phong:** Chương trình tài năng âm nhạc đó rất thú vị.
+</translation>
+```
+
 #### 3.2 Reading Passage (Đoạn đọc)
 Use `<reading>` tag with bilingual table.
 
@@ -502,6 +517,17 @@ Use `<reading>` tag with bilingual table.
 | The Great Barrier Reef is one of the most beautiful natural wonders. | Rạn san hô Great Barrier là một trong những kỳ quan thiên nhiên đẹp nhất. |
 | It is located in Australia. | Nó nằm ở Úc. |
 </reading>
+```
+
+Or with separate translation:
+```markdown
+<reading>
+The Great Barrier Reef is one of the most beautiful natural wonders of the world. It is located off the coast of Australia. The reef is home to thousands of species of fish and coral.
+</reading>
+
+<translation>
+Rạn san hô Great Barrier là một trong những kỳ quan thiên nhiên đẹp nhất thế giới. Nó nằm ngoài khơi bờ biển Úc. Rạn san hô là nơi sinh sống của hàng nghìn loài cá và san hô.
+</translation>
 ```
 
 #### 3.3 TV Schedule / Table Content
@@ -570,8 +596,21 @@ Bài 2, chọn đáp án đúng. 1 phút nha.
 <task>
 **Đề:** Choose the correct answer A, B, or C.
 **Dịch đề:** Chọn đáp án đúng A, B hoặc C.
-**Yêu cầu:** Đọc hội thoại ở bài 1, chọn đáp án đúng cho mỗi câu.
+**Yêu cầu:** Đọc lại hội thoại ở bài 1, chọn đáp án đúng cho mỗi câu hỏi.
+**Hướng dẫn:**
+- Bước 1: Đọc câu hỏi và các đáp án A, B, C
+- Bước 2: Quay lại đọc hội thoại để tìm thông tin
+- Bước 3: Chọn đáp án đúng nhất
 </task>
+```
+
+**Task structure:**
+| Field | Description | Example |
+|-------|-------------|---------|
+| **Đề:** | Original English instruction | Choose the correct answer A, B, or C. |
+| **Dịch đề:** | Vietnamese translation | Chọn đáp án đúng A, B hoặc C. |
+| **Yêu cầu:** | What student needs to do | Đọc lại hội thoại, chọn đáp án đúng |
+| **Hướng dẫn:** | Step-by-step guide (optional) | Bước 1: Đọc câu hỏi... |
 
 <questions>
 **1.** Phong and Hung are talking about ________.
