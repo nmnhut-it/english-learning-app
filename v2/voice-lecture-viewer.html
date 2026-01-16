@@ -413,10 +413,10 @@ const LM = {
         break;
 
       case this.TYPES.CONTENT:
-        // Auto-show content, then continue to next TS
+        // Auto-show content, then check for more content
         this.hideNPC();
         this.scrollTo(this.pendingElement);
-        setTimeout(() => this.playNextTS(), 1500);
+        setTimeout(() => this.continueAfterContent(this.pendingElement), 1500);
         break;
 
       case this.TYPES.CHUNK_NAV:
@@ -443,9 +443,9 @@ const LM = {
         break;
 
       case this.TYPES.CONTENT:
-        // Auto-show content, then continue
+        // Auto-show content, then check for more content
         this.scrollTo(this.pendingElement);
-        setTimeout(() => this.playNextTS(), 1500);
+        setTimeout(() => this.continueAfterContent(this.pendingElement), 1500);
         break;
 
       case this.TYPES.CHUNK_NAV:
@@ -470,7 +470,7 @@ const LM = {
       // Vocab system takes over
     } else if (this.pendingType === this.TYPES.CONTENT) {
       this.scrollTo(this.pendingElement);
-      setTimeout(() => this.playNextTS(), 1500);
+      setTimeout(() => this.continueAfterContent(this.pendingElement), 1500);
     } else {
       this.playNextTS();
     }
@@ -480,6 +480,29 @@ const LM = {
   onVocabComplete() {
     this.state = this.STATES.IDLE;
     this.playNextTS();
+  },
+
+  // Continue after content - check if more content follows
+  continueAfterContent(contentEl) {
+    const { element: next, type } = this.findNext(contentEl);
+
+    if (type === this.TYPES.CONTENT) {
+      // More content - show it and continue
+      this.scrollTo(next);
+      setTimeout(() => this.continueAfterContent(next), 1500);
+    } else if (type === this.TYPES.TS) {
+      // TS next - play it
+      setTimeout(() => this.playTS(next, true), 300);
+    } else if (type === this.TYPES.VOCAB) {
+      // Vocab next
+      this.state = this.STATES.VOCAB_ACTIVE;
+      const chunkNav = document.getElementById(`nav-${this.currentChunk}`)?.closest('.chunk-nav');
+      if (chunkNav) chunkNav.style.display = 'none';
+      this.scrollTo(next);
+    } else {
+      // End of chunk
+      this.unlockChunkNav();
+    }
   },
 
   // Play next unplayed TS in current chunk
