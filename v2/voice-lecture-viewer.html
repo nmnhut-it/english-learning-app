@@ -533,20 +533,25 @@ const LM = {
   findNext(tsEl) {
     let next = tsEl.nextElementSibling;
 
-    // Skip utility elements
-    while (next && (
-      next.classList.contains('timer') ||
-      next.classList.contains('action-row') ||
-      next.id?.includes('-player') ||
-      next.id?.includes('-photo') ||
-      next.classList.contains('ts-continue') ||
-      next.classList.contains('content-done')
-    )) {
-      next = next.nextElementSibling;
-    }
+    // Skip utility and non-content elements
+    const isSkippable = (el) => {
+      if (!el) return false;
+      // Utility elements
+      if (el.classList.contains('timer')) return true;
+      if (el.classList.contains('action-row')) return true;
+      if (el.id?.includes('-player')) return true;
+      if (el.id?.includes('-photo')) return true;
+      if (el.classList.contains('ts-continue')) return true;
+      if (el.classList.contains('content-done')) return true;
+      // Non-content elements (hr, headings)
+      if (el.tagName === 'HR') return true;
+      if (/^H[1-6]$/.test(el.tagName)) return true;
+      // Completed vocab
+      if (el.classList.contains('vocab-interactive') && el.classList.contains('vocab-completed')) return true;
+      return false;
+    };
 
-    // Skip completed vocab
-    while (next && next.classList.contains('vocab-interactive') && next.classList.contains('vocab-completed')) {
+    while (next && isSkippable(next)) {
       next = next.nextElementSibling;
     }
 
