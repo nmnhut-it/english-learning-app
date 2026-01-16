@@ -1100,3 +1100,398 @@ Ok hết Getting Started. Về học từ vựng, mai qua A Closer Look 1 nha.
 > 1. If you find a NEW exercise type → ADD to Exercise types table (section 4.1)
 > 2. If you find a NEW content pattern → ADD new tag definition
 > 3. Keep examples updated with real content from lessons
+
+---
+
+## Teaching Workflow - Lesson-Specific
+
+---
+
+### 📖 GETTING STARTED
+
+**Mục tiêu:** Nghe + Đọc hội thoại, làm quen từ vựng mới
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│ STEP 1: VOCABULARY                                          │
+├─────────────────────────────────────────────────────────────┤
+│ 🎙️ Teacher: "Unit X nha. Ghi từ vựng vô vở đi."             │
+│ 📱 Display: <vocabulary> block                              │
+│ ⏸️ Pause: 120s (ghi từ vựng)                                │
+│ 👆 Student: Click từ để nghe phát âm, ghi vào vở            │
+└─────────────────────────────────────────────────────────────┘
+                              ↓
+┌─────────────────────────────────────────────────────────────┐
+│ STEP 2: RECORD VOCABULARY                                   │
+├─────────────────────────────────────────────────────────────┤
+│ 🎙️ Teacher: "Đọc từ vựng rồi record gửi Telegram nha."      │
+│ 📱 Display: <vocabulary> + Record button                    │
+│ ⏸️ Pause: 0 (chờ student bấm tiếp)                          │
+│ 🎤 Student: Record voice → Send to Telegram                 │
+└─────────────────────────────────────────────────────────────┘
+                              ↓
+┌─────────────────────────────────────────────────────────────┐
+│ STEP 3: LISTEN & TRANSLATE DIALOGUE                         │
+├─────────────────────────────────────────────────────────────┤
+│ 🎙️ Teacher: "Nghe hội thoại rồi dịch ra tiếng Việt nha."    │
+│ 📱 Display: <dialogue> (English only, hide translation)     │
+│ 🔊 Play: Audio file (if available)                          │
+│ ⏸️ Pause: 180s (dịch hội thoại)                             │
+│ ✍️ Student: Dịch vào vở                                     │
+└─────────────────────────────────────────────────────────────┘
+                              ↓
+┌─────────────────────────────────────────────────────────────┐
+│ STEP 4: CORRECT TRANSLATION                                 │
+├─────────────────────────────────────────────────────────────┤
+│ 🎙️ Teacher: "Ok sửa bài dịch nha."                          │
+│ 📱 Display: <dialogue> + <translation> (show Vietnamese)    │
+│ ⏸️ Pause: 60s (đối chiếu)                                   │
+│ ✍️ Student: So sánh và sửa bài dịch                         │
+└─────────────────────────────────────────────────────────────┘
+                              ↓
+┌─────────────────────────────────────────────────────────────┐
+│ STEP 5: RECORD DIALOGUE (Optional)                          │
+├─────────────────────────────────────────────────────────────┤
+│ 🎙️ Teacher: "Đọc hội thoại và record nha."                  │
+│ 📱 Display: <dialogue> + Record button                      │
+│ ⏸️ Pause: 0 (chờ student bấm tiếp)                          │
+│ 🎤 Student: Record reading dialogue → Send to Telegram      │
+└─────────────────────────────────────────────────────────────┘
+                              ↓
+┌─────────────────────────────────────────────────────────────┐
+│ STEP 6-N: EXERCISES (repeat per exercise)                   │
+├─────────────────────────────────────────────────────────────┤
+│ 🎙️ Teacher: "Bài 2, chọn đáp án đúng. 1 phút nha."          │
+│ 📱 Display: <task> + <questions>                            │
+│ ⏸️ Pause: 60s (làm bài)                                     │
+│ ✍️ Student: Làm bài vào vở                                  │
+│                           ↓                                 │
+│ 🎙️ Teacher: "Ok đáp án nha. Câu 1 là C..."                  │
+│ 📱 Display: <answer> + <explanation>                        │
+│ ⏸️ Pause: 30s (sửa bài)                                     │
+│ ✍️ Student: Sửa và ghi chú                                  │
+└─────────────────────────────────────────────────────────────┘
+                              ↓
+┌─────────────────────────────────────────────────────────────┐
+│ END                                                         │
+├─────────────────────────────────────────────────────────────┤
+│ 🎙️ Teacher: "Hết Getting Started. Về học từ vựng nha."      │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+### 🔍 A CLOSER LOOK 1 (Vocabulary + Pronunciation)
+
+**Mục tiêu:** Học từ vựng chuyên sâu + Phát âm
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│ STEP 1: VOCABULARY                                          │
+├─────────────────────────────────────────────────────────────┤
+│ 🎙️ Teacher: "A Closer Look 1 nha. Ghi từ vựng đi."          │
+│ 📱 Display: <vocabulary> block                              │
+│ ⏸️ Pause: 120s                                              │
+└─────────────────────────────────────────────────────────────┘
+                              ↓
+┌─────────────────────────────────────────────────────────────┐
+│ STEP 2: RECORD VOCABULARY                                   │
+├─────────────────────────────────────────────────────────────┤
+│ 🎙️ Teacher: "Đọc từ vựng và record nha."                    │
+│ 📱 Display: <vocabulary> + Record button                    │
+│ 🎤 Student: Record → Telegram                               │
+└─────────────────────────────────────────────────────────────┘
+                              ↓
+┌─────────────────────────────────────────────────────────────┐
+│ STEP 3: VOCAB GAME (Optional)                               │
+├─────────────────────────────────────────────────────────────┤
+│ 🎙️ Teacher: "Chơi game từ vựng nha."                        │
+│ 📱 Display: Vocab matching game                             │
+│ 🎮 Student: Play game                                       │
+└─────────────────────────────────────────────────────────────┘
+                              ↓
+┌─────────────────────────────────────────────────────────────┐
+│ STEP 4-N: EXERCISES                                         │
+├─────────────────────────────────────────────────────────────┤
+│ (Same as Getting Started STEP 6)                            │
+│ Exercise → Pause → Answer → Explanation                     │
+└─────────────────────────────────────────────────────────────┘
+                              ↓
+┌─────────────────────────────────────────────────────────────┐
+│ STEP: PRONUNCIATION                                         │
+├─────────────────────────────────────────────────────────────┤
+│ 🎙️ Teacher: "Phần Pronunciation nha. Nghe và lặp lại."      │
+│ 📱 Display: Pronunciation rules + examples                  │
+│ 🔊 Play: Audio examples                                     │
+│ 🎤 Student: Listen and repeat, record                       │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+### 📐 A CLOSER LOOK 2 (Grammar)
+
+**Mục tiêu:** Học ngữ pháp + Làm bài tập
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│ STEP 1: GRAMMAR EXPLANATION                                 │
+├─────────────────────────────────────────────────────────────┤
+│ 🎙️ Teacher: "A Closer Look 2 - Grammar nha. Ghi công thức." │
+│ 📱 Display: <grammar> block with rules + examples           │
+│ ⏸️ Pause: 180s (ghi công thức)                              │
+│ ✍️ Student: Ghi công thức vào vở                            │
+└─────────────────────────────────────────────────────────────┘
+                              ↓
+┌─────────────────────────────────────────────────────────────┐
+│ STEP 2-N: GRAMMAR EXERCISES                                 │
+├─────────────────────────────────────────────────────────────┤
+│ (Same exercise flow)                                        │
+│ Exercise → Pause → Answer → Explanation                     │
+│ Focus: Giải thích tại sao dùng cấu trúc này                 │
+└─────────────────────────────────────────────────────────────┘
+                              ↓
+┌─────────────────────────────────────────────────────────────┐
+│ STEP: EXTRA EXERCISES (Optional)                            │
+├─────────────────────────────────────────────────────────────┤
+│ 🎙️ Teacher: "Làm thêm bài tập củng cố nha."                 │
+│ 📱 Display: Additional grammar exercises                    │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+### 💬 COMMUNICATION
+
+**Mục tiêu:** Luyện giao tiếp + Speaking/Writing
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│ STEP 1: VOCABULARY/EXPRESSIONS                              │
+├─────────────────────────────────────────────────────────────┤
+│ 🎙️ Teacher: "Communication nha. Ghi các cụm từ này."        │
+│ 📱 Display: <vocabulary> useful expressions                 │
+│ ⏸️ Pause: 90s                                               │
+└─────────────────────────────────────────────────────────────┘
+                              ↓
+┌─────────────────────────────────────────────────────────────┐
+│ STEP 2: MODEL DIALOGUE                                      │
+├─────────────────────────────────────────────────────────────┤
+│ 🎙️ Teacher: "Nghe đoạn hội thoại mẫu nha."                  │
+│ 📱 Display: <dialogue> sample conversation                  │
+│ 🔊 Play: Audio                                              │
+└─────────────────────────────────────────────────────────────┘
+                              ↓
+┌─────────────────────────────────────────────────────────────┐
+│ STEP 3: PRACTICE - WRITE OWN DIALOGUE                       │
+├─────────────────────────────────────────────────────────────┤
+│ 🎙️ Teacher: "Viết đoạn hội thoại của mình rồi chụp gửi nha."│
+│ 📱 Display: <task> instructions + Photo upload button       │
+│ ⏸️ Pause: 300s (5 phút viết)                                │
+│ 📸 Student: Write → Take photo → Send to Telegram           │
+└─────────────────────────────────────────────────────────────┘
+                              ↓
+┌─────────────────────────────────────────────────────────────┐
+│ STEP 4: RECORD DIALOGUE                                     │
+├─────────────────────────────────────────────────────────────┤
+│ 🎙️ Teacher: "Đọc và record đoạn hội thoại của mình nha."    │
+│ 📱 Display: Record button                                   │
+│ 🎤 Student: Record → Send to Telegram                       │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+### 📚 SKILLS 1 (Reading + Speaking)
+
+**Mục tiêu:** Đọc hiểu + Nói
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│ STEP 1: VOCABULARY                                          │
+├─────────────────────────────────────────────────────────────┤
+│ 🎙️ Teacher: "Skills 1 - Reading nha. Ghi từ vựng."          │
+│ 📱 Display: <vocabulary>                                    │
+│ ⏸️ Pause: 90s                                               │
+└─────────────────────────────────────────────────────────────┘
+                              ↓
+┌─────────────────────────────────────────────────────────────┐
+│ STEP 2: READ & TRANSLATE                                    │
+├─────────────────────────────────────────────────────────────┤
+│ 🎙️ Teacher: "Đọc bài và dịch ra tiếng Việt nha."            │
+│ 📱 Display: <reading> (English only)                        │
+│ ⏸️ Pause: 300s (đọc + dịch)                                 │
+│ ✍️ Student: Dịch vào vở                                     │
+└─────────────────────────────────────────────────────────────┘
+                              ↓
+┌─────────────────────────────────────────────────────────────┐
+│ STEP 3: CORRECT TRANSLATION                                 │
+├─────────────────────────────────────────────────────────────┤
+│ 🎙️ Teacher: "Ok sửa bài dịch nha."                          │
+│ 📱 Display: <reading> + <translation>                       │
+│ ⏸️ Pause: 60s                                               │
+└─────────────────────────────────────────────────────────────┘
+                              ↓
+┌─────────────────────────────────────────────────────────────┐
+│ STEP 4-N: READING EXERCISES                                 │
+├─────────────────────────────────────────────────────────────┤
+│ (Standard exercise flow)                                    │
+└─────────────────────────────────────────────────────────────┘
+                              ↓
+┌─────────────────────────────────────────────────────────────┐
+│ STEP: SPEAKING                                              │
+├─────────────────────────────────────────────────────────────┤
+│ 🎙️ Teacher: "Phần Speaking nha. Trả lời câu hỏi và record." │
+│ 📱 Display: Speaking questions + Record button              │
+│ 🎤 Student: Answer → Record → Telegram                      │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+### 🎧 SKILLS 2 (Listening + Writing)
+
+**Mục tiêu:** Nghe hiểu + Viết
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│ STEP 1: VOCABULARY                                          │
+├─────────────────────────────────────────────────────────────┤
+│ 🎙️ Teacher: "Skills 2 - Listening nha. Ghi từ vựng."        │
+│ 📱 Display: <vocabulary>                                    │
+│ ⏸️ Pause: 90s                                               │
+└─────────────────────────────────────────────────────────────┘
+                              ↓
+┌─────────────────────────────────────────────────────────────┐
+│ STEP 2: PRE-LISTENING                                       │
+├─────────────────────────────────────────────────────────────┤
+│ 🎙️ Teacher: "Đọc câu hỏi trước khi nghe nha."               │
+│ 📱 Display: <questions> (listening comprehension)           │
+│ ⏸️ Pause: 60s (đọc câu hỏi)                                 │
+└─────────────────────────────────────────────────────────────┘
+                              ↓
+┌─────────────────────────────────────────────────────────────┐
+│ STEP 3: LISTENING (2-3 lần)                                 │
+├─────────────────────────────────────────────────────────────┤
+│ 🎙️ Teacher: "Nghe lần 1 nha."                               │
+│ 📱 Display: Audio player + replay button                    │
+│ 🔊 Play: <audio src="vietjack_url" />                       │
+│ 🎙️ Teacher: "Nghe lần 2 và trả lời câu hỏi."                │
+│ ⏸️ Pause: 60s (làm bài)                                     │
+└─────────────────────────────────────────────────────────────┘
+                              ↓
+┌─────────────────────────────────────────────────────────────┐
+│ STEP 4: CHECK ANSWERS                                       │
+├─────────────────────────────────────────────────────────────┤
+│ 🎙️ Teacher: "Ok đáp án nha."                                │
+│ 📱 Display: <answer> + <explanation>                        │
+│ ⏸️ Pause: 30s                                               │
+└─────────────────────────────────────────────────────────────┘
+                              ↓
+┌─────────────────────────────────────────────────────────────┐
+│ STEP 5: WRITING                                             │
+├─────────────────────────────────────────────────────────────┤
+│ 🎙️ Teacher: "Phần Writing nha. Viết theo hướng dẫn."        │
+│ 📱 Display: <task> writing instructions + outline           │
+│ ⏸️ Pause: 600s (10 phút viết)                               │
+│ ✍️ Student: Viết bài                                        │
+└─────────────────────────────────────────────────────────────┘
+                              ↓
+┌─────────────────────────────────────────────────────────────┐
+│ STEP 6: SUBMIT WRITING                                      │
+├─────────────────────────────────────────────────────────────┤
+│ 🎙️ Teacher: "Chụp bài viết gửi Telegram nha."               │
+│ 📱 Display: Photo upload button                             │
+│ 📸 Student: Photo → Telegram                                │
+└─────────────────────────────────────────────────────────────┘
+                              ↓
+┌─────────────────────────────────────────────────────────────┐
+│ STEP 7: SAMPLE ANSWER                                       │
+├─────────────────────────────────────────────────────────────┤
+│ 🎙️ Teacher: "Đây là bài mẫu nha. So sánh với bài của mình." │
+│ 📱 Display: Sample writing (English + Vietnamese)           │
+│ ⏸️ Pause: 60s                                               │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+### 🔄 LOOKING BACK
+
+**Mục tiêu:** Ôn tập toàn bộ Unit
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│ STEP 1: VOCABULARY REVIEW                                   │
+├─────────────────────────────────────────────────────────────┤
+│ 🎙️ Teacher: "Looking Back nha. Ôn từ vựng trước."           │
+│ 📱 Display: <vocabulary> (all vocab from unit)              │
+│ ⏸️ Pause: 60s                                               │
+└─────────────────────────────────────────────────────────────┘
+                              ↓
+┌─────────────────────────────────────────────────────────────┐
+│ STEP 2: VOCAB GAME                                          │
+├─────────────────────────────────────────────────────────────┤
+│ 🎙️ Teacher: "Chơi game ôn từ vựng nha."                     │
+│ 📱 Display: Vocab game (matching, fill-in, etc.)            │
+│ 🎮 Student: Play game                                       │
+└─────────────────────────────────────────────────────────────┘
+                              ↓
+┌─────────────────────────────────────────────────────────────┐
+│ STEP 3-N: REVIEW EXERCISES                                  │
+├─────────────────────────────────────────────────────────────┤
+│ (Standard exercise flow)                                    │
+│ Mixed vocabulary + grammar exercises                        │
+└─────────────────────────────────────────────────────────────┘
+                              ↓
+┌─────────────────────────────────────────────────────────────┐
+│ END OF UNIT                                                 │
+├─────────────────────────────────────────────────────────────┤
+│ 🎙️ Teacher: "Hết Unit X rồi. Ôn lại từ vựng và ngữ pháp nha."│
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## Chunk Navigation
+
+Học sinh bấm **Space/Enter** để chuyển chunk tiếp theo.
+
+### Teacher Script Actions
+
+| Attribute | Values | Description |
+|-----------|--------|-------------|
+| `pause` | 0-600 | Seconds to wait (0 = manual continue) |
+| `type` | intro/instruction/answer | Script type |
+| `action` | record/photo/game | Trigger action |
+| `href` | URL | Pre-generated audio file |
+
+**Examples:**
+```markdown
+<teacher_script pause="120">
+Ghi từ vựng vô vở đi. 2 phút nha.
+</teacher_script>
+
+<teacher_script pause="0" action="record">
+Đọc từ vựng và record gửi Telegram nha.
+</teacher_script>
+
+<teacher_script pause="0" action="photo">
+Chụp bài viết gửi Telegram nha.
+</teacher_script>
+
+<teacher_script pause="0" action="game">
+Chơi game từ vựng nha.
+</teacher_script>
+```
+
+---
+
+## Audio Placeholders (Listening)
+
+For listening exercises from VietJack:
+```markdown
+<audio src="<!-- TODO: vietjack_g6_u07_skills2_track01 -->" />
+```
+
+Create `v2/data/voice-lectures/TODO-audio.md` for manual URL filling.
