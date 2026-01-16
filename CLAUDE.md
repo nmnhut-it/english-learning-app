@@ -516,6 +516,18 @@ Use `<content_table>` tag.
 </content_table>
 ```
 
+#### 3.4 Translation Block
+Use `<translation>` tag for standalone translations (not in tables).
+
+```markdown
+<translation>
+Phong đang nói chuyện với Hùng về các chương trình TV.
+Họ thảo luận về phim hoạt hình và chương trình giáo dục.
+</translation>
+```
+
+For inline translations, use italics: `*Dịch tiếng Việt*`
+
 ---
 
 ### 4. Exercise Structure
@@ -525,17 +537,25 @@ Use `<content_table>` tag.
 ### Bài [number] trang [page] - [Exercise type in English]
 ```
 
-**Exercise types:**
-- `Listen and read` - Nghe và đọc
-- `Choose the correct answer` - Chọn đáp án đúng
-- `Match` - Nối
-- `Fill in the blanks` - Điền vào chỗ trống
-- `True or False` - Đúng hay sai
-- `Find the words/adjectives` - Tìm từ
-- `Complete the sentences` - Hoàn thành câu
-- `Work in pairs/groups` - Làm việc theo cặp/nhóm
-- `Read and answer` - Đọc và trả lời
-- `Listen and tick` - Nghe và đánh dấu
+**Exercise types:** (UPDATE this list when discovering new types)
+| English | Vietnamese | `<questions type="">` |
+|---------|------------|----------------------|
+| Listen and read | Nghe và đọc | `listen_read` |
+| Choose the correct answer | Chọn đáp án đúng | `multiple_choice` |
+| Match | Nối | `matching` |
+| Fill in the blanks | Điền vào chỗ trống | `fill_blanks` |
+| True or False | Đúng hay sai | `true_false` |
+| Find the words/adjectives | Tìm từ | `find_words` |
+| Complete the sentences | Hoàn thành câu | `complete_sentences` |
+| Work in pairs/groups | Làm việc theo cặp/nhóm | `speaking` |
+| Read and answer | Đọc và trả lời | `read_answer` |
+| Listen and tick | Nghe và đánh dấu | `listen_tick` |
+| Put in order | Sắp xếp thứ tự | `ordering` |
+| Make sentences | Đặt câu | `make_sentences` |
+| Role play | Đóng vai | `role_play` |
+| Write | Viết | `writing` |
+
+> **NOTE:** When you encounter a NEW exercise type not in this list, ADD it here immediately.
 
 #### 4.2 Complete Exercise Structure
 Each exercise MUST have these sections in order:
@@ -649,7 +669,7 @@ Ok đáp án nha. Câu 1 là C, câu 2 là A.
 ### 6. Teacher Script Format
 
 ```markdown
-<teacher_script pause="[seconds]" type="[type]">
+<teacher_script pause="[seconds]" type="[type]" href="[audio_url]">
 Script content - natural Southern Vietnamese
 </teacher_script>
 ```
@@ -659,6 +679,12 @@ Script content - natural Southern Vietnamese
 |-----------|--------|-------------|
 | `pause` | 0, 30, 45, 60, 120... | Seconds to wait after speaking |
 | `type` | `intro`, `instruction`, `answer` | Script type (optional) |
+| `href` | URL or path | Pre-generated audio file (optional, for caching/offline) |
+
+**Audio workflow:**
+1. First time: TTS generates audio from script text
+2. Save audio to `v2/data/audio/g6/unit-07/script-001.mp3`
+3. Update `href` attribute for future playback (faster, offline-capable)
 
 **Style Guide - DO:**
 - Natural Southern Vietnamese: "nha", "đi", "thôi", "ok"
@@ -786,8 +812,22 @@ Ok hết Getting Started. Về học từ vựng, mai qua A Closer Look 1 nha.
 | `<dialogue>` | Conversation | Bilingual table with audio |
 | `<reading>` | Reading passage | Bilingual paragraph |
 | `<content_table>` | Tables (schedules, etc.) | Formatted table |
+| `<translation>` | Vietnamese translation block | Styled translation box |
 | `<task>` | Exercise instructions | Task box |
-| `<questions>` | Questions/items | Interactive questions |
-| `<answer>` | Correct answers | Answer reveal |
+| `<questions type="">` | Questions/items | Interactive questions |
+| `<answer>` | Correct answers | Answer reveal (hidden initially) |
 | `<explanation>` | Explanations | Collapsible section |
 | `<teacher_script>` | TTS script | Audio playback + timer |
+
+**Attributes summary:**
+| Tag | Attributes |
+|-----|------------|
+| `<questions>` | `type="multiple_choice\|matching\|fill_blanks\|..."` |
+| `<teacher_script>` | `pause="60"`, `type="answer"`, `href="audio/file.mp3"` |
+
+### 10. Schema Maintenance
+
+> **IMPORTANT:** This schema is a living document. When processing new lessons:
+> 1. If you find a NEW exercise type → ADD to Exercise types table (section 4.1)
+> 2. If you find a NEW content pattern → ADD new tag definition
+> 3. Keep examples updated with real content from lessons
