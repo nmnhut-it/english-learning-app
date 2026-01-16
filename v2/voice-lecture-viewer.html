@@ -124,12 +124,6 @@
     .continue-btn:hover{transform:scale(1.05);box-shadow:0 4px 16px rgba(16,185,129,.4)}
     @keyframes continuePulse{0%,100%{box-shadow:0 4px 12px rgba(16,185,129,.3)}50%{box-shadow:0 4px 20px rgba(16,185,129,.5)}}
 
-    /* Content Done Button - After content blocks */
-    .content-done{display:none;margin:16px 0;text-align:center}
-    .content-done.show{display:block}
-    .done-btn{background:linear-gradient(135deg,#0ea5e9,#0284c7);color:#fff;border:none;padding:12px 28px;border-radius:50px;font-size:.95rem;font-weight:600;cursor:pointer;box-shadow:0 4px 12px rgba(14,165,233,.3);transition:all .2s;animation:continuePulse 1.5s ease infinite}
-    .done-btn:hover{transform:scale(1.05);box-shadow:0 4px 16px rgba(14,165,233,.4)}
-
     /* Complete Box */
     .complete-box{background:linear-gradient(135deg,#e0f2fe,#bae6fd);border-radius:20px;padding:32px;text-align:center;margin:20px 0;box-shadow:0 8px 32px rgba(14,165,233,.2)}
     .complete-icon{font-size:4rem;margin-bottom:12px}
@@ -416,9 +410,10 @@ const LM = {
         break;
 
       case this.TYPES.CONTENT:
-        // Auto-show content after TS
+        // Auto-show content, then continue to next TS
         this.hideNPC();
-        setTimeout(() => this.showContentWithDoneButton(), 200);
+        this.scrollTo(this.pendingElement);
+        setTimeout(() => this.playNextTS(), 1500);
         break;
 
       case this.TYPES.CHUNK_NAV:
@@ -445,7 +440,9 @@ const LM = {
         break;
 
       case this.TYPES.CONTENT:
-        this.showContentWithDoneButton();
+        // Auto-show content, then continue
+        this.scrollTo(this.pendingElement);
+        setTimeout(() => this.playNextTS(), 1500);
         break;
 
       case this.TYPES.CHUNK_NAV:
@@ -469,43 +466,11 @@ const LM = {
       this.scrollTo(this.pendingElement);
       // Vocab system takes over
     } else if (this.pendingType === this.TYPES.CONTENT) {
-      this.showContentWithDoneButton();
+      this.scrollTo(this.pendingElement);
+      setTimeout(() => this.playNextTS(), 1500);
     } else {
       this.playNextTS();
     }
-  },
-
-  // Show content with spotlight and "Xem xong" button
-  showContentWithDoneButton() {
-    this.state = this.STATES.CONTENT_VIEWING;
-
-    const el = this.pendingElement;
-    if (!el) return this.playNextTS();
-
-    // Add spotlight to chunk
-    const chunk = el.closest('.chunk');
-    if (chunk) chunk.classList.add('spotlight');
-
-    this.scrollTo(el);
-
-    // Hide chunk-nav while viewing content
-    const chunkNav = document.getElementById(`nav-${this.currentChunk}`)?.closest('.chunk-nav');
-    if (chunkNav) chunkNav.style.display = 'none';
-
-    // Add "Xem xong" button after content
-    this.addDoneButton(el);
-  },
-
-  // User clicks "Xem xong"
-  onContentDone() {
-    if (this.state !== this.STATES.CONTENT_VIEWING) return;
-
-    // Remove spotlight and button
-    document.querySelectorAll('.chunk.spotlight').forEach(c => c.classList.remove('spotlight'));
-    document.querySelectorAll('.content-done').forEach(el => el.remove());
-
-    this.state = this.STATES.IDLE;
-    this.playNextTS();
   },
 
   // Called when vocab system finishes
@@ -668,19 +633,6 @@ const LM = {
   formatTime(s) {
     const m = Math.floor(s / 60);
     return m > 0 ? `${m}:${(s % 60).toString().padStart(2, '0')}` : `${s}s`;
-  },
-
-  // ========== CONTENT FUNCTIONS ==========
-
-  addDoneButton(contentEl) {
-    document.querySelectorAll('.content-done').forEach(el => el.remove());
-
-    const btn = document.createElement('div');
-    btn.className = 'content-done show';
-    btn.innerHTML = '<button class="done-btn" onclick="LM.onContentDone()">Xem xong ✓</button>';
-    contentEl.after(btn);
-
-    setTimeout(() => this.scrollTo(btn), 200);
   },
 
   // ========== CHUNK NAVIGATION ==========
