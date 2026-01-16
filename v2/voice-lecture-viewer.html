@@ -111,10 +111,13 @@
     .chunk.completed{opacity:.85}
 
     /* Chunk Navigation */
-    .chunk-nav{margin-top:16px;text-align:center}
+    .chunk-nav{margin-top:24px;text-align:center}
+    .chunk-nav .indicator{display:none;font-size:1.5rem;color:#0ea5e9;margin-bottom:8px;animation:bounce 1s ease infinite}
+    .chunk-nav.ready .indicator{display:block}
     .nav-btn{background:linear-gradient(135deg,#cbd5e1,#94a3b8);color:#fff;border:none;padding:14px 32px;border-radius:50px;font-size:1rem;font-weight:600;cursor:not-allowed;opacity:.5;transition:all .3s}
-    .nav-btn.ready{background:linear-gradient(135deg,#0ea5e9,#0284c7);opacity:1;cursor:pointer;animation:readyPulse 2s ease infinite;box-shadow:0 4px 16px rgba(14,165,233,.4)}
+    .nav-btn.ready{background:linear-gradient(135deg,#0ea5e9,#0284c7);opacity:1;cursor:pointer;box-shadow:0 4px 16px rgba(14,165,233,.4)}
     .nav-btn.ready:hover{transform:scale(1.05)}
+    @keyframes bounce{0%,100%{transform:translateY(0)}50%{transform:translateY(6px)}}
     @keyframes readyPulse{0%,100%{box-shadow:0 4px 16px rgba(14,165,233,.4)}50%{box-shadow:0 4px 24px rgba(14,165,233,.6)}}
 
     /* Inline Continue Button - After each section */
@@ -420,7 +423,7 @@ const LM = {
       case this.TYPES.NONE:
         // End of chunk - TS already spoke, so unlock silently
         this.hideNPC();
-        this.unlockChunkNav(true);
+        this.unlockChunkNav();
         break;
     }
   },
@@ -657,38 +660,27 @@ const LM = {
           this.playTS(firstTS, true);
         } else {
           // No TS in chunk - unlock silently
-          this.unlockChunkNav(true);
+          this.unlockChunkNav();
         }
       }, 500);
     }
     this.updateProgress();
   },
 
-  // Unlock with NPC transition message
-  unlockChunkNav(silent = false) {
-    if (silent) {
-      this._doUnlock();
-      return;
-    }
-
-    // NPC guides the transition
-    this.state = this.STATES.NPC_SPEAKING;
-    const msg = 'Xong rồi! Bấm tiếp để qua phần sau nha.';
-    this.showNPC(msg);
-    this.speakTTS(msg, () => {
-      this.hideNPC();
-      this._doUnlock();
-    });
+  // Unlock chunk navigation - just enable button with indicator
+  unlockChunkNav() {
+    this._doUnlock();
   },
 
   _doUnlock() {
     this.state = this.STATES.CHUNK_DONE;
     const btn = document.getElementById(`nav-${this.currentChunk}`);
     if (btn) {
-      // Show chunk-nav if it was hidden
       const chunkNav = btn.closest('.chunk-nav');
-      if (chunkNav) chunkNav.style.display = '';
-
+      if (chunkNav) {
+        chunkNav.style.display = '';
+        chunkNav.classList.add('ready');
+      }
       btn.disabled = false;
       btn.classList.add('ready');
     }
@@ -950,7 +942,7 @@ function setupNavigation(){
   document.querySelectorAll('.chunk').forEach((chunk,i)=>{
     const nav=document.createElement('div');
     nav.className='chunk-nav';
-    nav.innerHTML=`<button class="nav-btn" id="nav-${i}" onclick="goNextChunk()" disabled>Tiếp tục →</button>`;
+    nav.innerHTML=`<div class="indicator">▼</div><button class="nav-btn" id="nav-${i}" onclick="goNextChunk()" disabled>Tiếp tục</button>`;
     chunk.appendChild(nav);
   });
   LM.updateProgress();
