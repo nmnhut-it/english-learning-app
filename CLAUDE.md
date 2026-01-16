@@ -1103,28 +1103,26 @@ Ok hết Getting Started. Về học từ vựng, mai qua A Closer Look 1 nha.
 
 ---
 
-## Telegram Bot Integration
+## Student Submission (Gửi bài cho thầy)
 
-Web app có tích hợp sẵn Telegram Bot API để học sinh gửi bài trực tiếp:
+Web app có tích hợp gửi bài để thầy sửa:
 
 ### Tính năng
-- **Record voice** → Gửi audio qua Telegram Bot
-- **Chụp ảnh bài làm** → Gửi ảnh qua Telegram Bot
-- **Tự động gắn tag** → Tên học sinh + Bài + Thời gian
+- **Ghi âm** → Đọc lại và gửi cho thầy sửa
+- **Chụp ảnh** → Chụp bài làm gửi cho thầy sửa
 
 ### UI Components
 ```
 ┌────────────────────────────────────┐
-│ 🎤 Record  │  📸 Photo  │  ✅ Done │
+│ 🎤 Ghi âm  │  📸 Chụp ảnh  │  ✅ Xong │
 └────────────────────────────────────┘
 ```
 
 ### Teacher Script Actions
-| Action | UI hiển thị | Telegram |
-|--------|-------------|----------|
-| `action="record"` | Nút Record | Gửi voice message |
-| `action="photo"` | Nút Camera | Gửi ảnh |
-| `action="submit"` | Nút Submit | Gửi text |
+| Action | UI hiển thị | Chức năng |
+|--------|-------------|-----------|
+| `action="record"` | Nút Ghi âm | Gửi voice cho thầy sửa |
+| `action="photo"` | Nút Chụp ảnh | Gửi ảnh cho thầy sửa |
 
 ---
 
@@ -1167,7 +1165,7 @@ Ghi từ vựng vô vở đi. 2 phút nha.
 
 <!-- CHUNK: record vocabulary -->
 <teacher_script pause="0" action="record">
-Giờ đọc từ vựng và record gửi qua Telegram nha. Bấm nút Record bên dưới.
+Bấm nút Ghi âm để đọc lại và gửi cho thầy sửa nha.
 </teacher_script>
 
 <teacher_script pause="0">
@@ -1265,7 +1263,7 @@ Sửa bài dịch nếu sai. 1 phút nha.
 | 1 | expressions | "Các cụm từ giao tiếp" | `<vocabulary>` | "Ghi vô vở. 1.5 phút" |
 | 2 | model | "Hội thoại mẫu nè" | `<dialogue>` | "Đọc hiểu" |
 | 3 | practice | "Viết hội thoại của mình" | `<task>` | "5 phút viết" |
-| 4 | photo | "Chụp bài gửi Telegram" | Photo button | "Xong bấm tiếp" |
+| 4 | photo | "Chụp bài gửi cho thầy" | Photo button | "Xong bấm tiếp" |
 | 5 | record | "Record hội thoại của mình" | Record button | "Xong bấm tiếp" |
 
 ---
@@ -1293,7 +1291,7 @@ Sửa bài dịch nếu sai. 1 phút nha.
 | 4 | listen_2 | "Nghe lần 2 và trả lời" | `<audio>` | "1 phút làm bài" |
 | 5 | answer | "Đáp án nha" | `<answer>` | "30 giây sửa" |
 | 6 | writing | "Phần Writing. Viết theo hướng dẫn" | `<task>` | "10 phút viết" |
-| 7 | photo | "Chụp bài gửi Telegram" | Photo button | "Xong bấm tiếp" |
+| 7 | photo | "Chụp bài gửi cho thầy" | Photo button | "Xong bấm tiếp" |
 | 8 | sample | "Bài mẫu nè. So sánh" | Sample writing | "1 phút đọc" |
 
 ---
@@ -1364,7 +1362,7 @@ Ghi từ vựng vô vở đi. 2 phút nha.
 
 <!-- chunk: record_vocabulary -->
 <teacher_script pause="0" action="record">
-Giờ đọc từ vựng và record gửi qua Telegram nha. Bấm nút Record.
+Bấm nút Ghi âm để đọc lại và gửi cho thầy sửa nha.
 </teacher_script>
 
 <teacher_script pause="0">

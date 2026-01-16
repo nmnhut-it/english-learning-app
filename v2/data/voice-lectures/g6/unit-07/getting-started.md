@@ -43,7 +43,7 @@ Ghi từ vựng vô vở đi. 2 phút nha.
 
 <!-- chunk: record_vocabulary -->
 <teacher_script pause="0" action="record">
-Giờ đọc từ vựng và record gửi qua Telegram nha. Bấm nút Record bên dưới.
+Bấm nút Ghi âm để đọc lại và gửi cho thầy sửa nha.
 </teacher_script>
 
 <teacher_script pause="0">
@@ -125,7 +125,7 @@ Sửa bài dịch nếu sai. 1 phút nha.
 
 <!-- chunk: record_dialogue -->
 <teacher_script pause="0" action="record">
-Giờ đọc hội thoại và record gửi Telegram nha.
+Bấm nút Ghi âm để đọc hội thoại và gửi cho thầy sửa nha.
 </teacher_script>
 
 <teacher_script pause="0">

@@ -48,7 +48,7 @@ Nhiều từ vựng nha. Ghi vô vở đi. 3 phút.
 </teacher_script>
 
 <teacher_script pause="0" action="record">
-Đọc từ vựng và record gửi Telegram nha.
+Bấm nút Ghi âm để đọc lại và gửi cho thầy sửa nha.
 </teacher_script>
 
 ---
