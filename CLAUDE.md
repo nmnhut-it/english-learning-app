@@ -396,3 +396,139 @@ npm run validate -- data/structured/grade-7/unit-01.xml
 - Check-before-process: First time = AI process, subsequent = instant load
 - Content structure: Proper XML with vocabulary extraction
 - Teacher workflow: Add Content → Process → Save to disk → Available in dashboard
+
+---
+
+## Voice Lecture System
+
+### Overview
+Voice lectures are markdown files with `<teacher_script>` tags for TTS playback. Located in `v2/data/voice-lectures/`.
+
+### File Structure
+```
+v2/data/voice-lectures/
+├── g6/unit-07/getting-started.md
+├── g7/unit-07/getting-started.md
+├── g8/unit-07/getting-started.md
+└── g9/unit-07/getting-started.md
+```
+
+### Vocabulary Format (MUST follow this format)
+```markdown
+**Vocabulary**
+
+1. **word** : (type) meaning /pronunciation/
+2. **phrase** : meaning /pronunciation/
+3. **verb - past - pp** : meaning /pronunciation/
+```
+
+**Rules:**
+- Use numbered list, NOT tables
+- Format: `**word** : (type) meaning /pronunciation/`
+- Type in parentheses: (n), (v), (adj), (adv), (phrase)
+- Pronunciation at the end with slashes
+- Can add notes on next line (indented)
+
+### Teacher Script Format
+```markdown
+<teacher_script pause="0">
+Script content here - natural Southern Vietnamese
+</teacher_script>
+
+<teacher_script pause="60">
+Bài 2, làm trong 1 phút nha.
+</teacher_script>
+
+<teacher_script pause="0" type="answer">
+Đáp án nha. Câu 1 là A...
+</teacher_script>
+```
+
+**Attributes:**
+- `pause`: seconds to wait after speaking (0, 30, 45, 60, 120...)
+- `type`: optional, use `type="answer"` for answer scripts
+
+### Exercise Structure (MUST include all sections)
+
+Each exercise MUST have:
+1. **Đề bài** (Question/Task)
+2. **Dịch đề** (Vietnamese translation of the question)
+3. **Yêu cầu** (What students need to do)
+4. **Đáp án** (Answers)
+5. **Giải thích** (Explanation for each answer)
+
+**Example:**
+```markdown
+### Bài 2 trang 7 - Choose the correct answer
+
+<teacher_script pause="60">
+Bài 2, chọn đáp án đúng. 1 phút nha.
+</teacher_script>
+
+**Đề:** Choose the correct answer A, B, or C.
+
+**Dịch đề:** Chọn đáp án đúng A, B hoặc C.
+
+**Yêu cầu:** Đọc hội thoại ở bài 1, chọn đáp án đúng cho mỗi câu.
+
+**1.** Phong and Hung are talking about ________.
+- A. The Voice Kids programme
+- B. English in a Minute programme
+- C. different TV programmes
+
+**2.** Phong likes _________.
+- A. animated films
+- B. cartoons
+- C. talent shows
+
+<teacher_script pause="0" type="answer">
+Ok đáp án nha. Câu 1 là C, câu 2 là A.
+</teacher_script>
+
+**Đáp án:** 1.C | 2.A
+
+**Giải thích:**
+1. C - Tụi nó nói về nhiều chương trình khác nhau (Voice Kids, Lion King, Tom & Jerry, English in a Minute), không phải chỉ 1 chương trình.
+2. A - Phong nói "I like animated films like The Lion King".
+```
+
+### Voice Script Style Guide
+
+**DO:**
+- Natural Southern Vietnamese dialect
+- Short, concise instructions
+- Use: "nha", "đi", "thôi", "ok"
+- Talk like a friend, not formal teacher
+
+**DON'T:**
+- Long explanations in scripts
+- Formal language like "các em hãy", "chúng ta sẽ"
+- Read vocabulary one by one (students click to hear)
+- Cringe phrases like "Chào các em! Hôm nay chúng ta..."
+
+**Examples:**
+```
+❌ "Chào các em! Hôm nay chúng ta sẽ học Unit 7 về Television."
+✅ "Ok lớp 6, Unit 7 nha - Television. Mở sách trang 6 đi."
+
+❌ "Các em hãy làm bài tập số 2, các em có 1 phút để hoàn thành."
+✅ "Bài 2, chọn đáp án đúng. 1 phút nha."
+
+❌ "Bây giờ cô sẽ chữa bài cho các em."
+✅ "Ok đáp án nha."
+```
+
+### Content Sources
+- **Original markdown**: `markdown-files/formatg6/`, `markdown-files/g7/`, etc.
+- **VietJack**: Supplement explanations and missing exercises
+- **Combine**: Use vocabulary from original, add explanations from VietJack
+
+### Lesson Types
+Each unit has these lessons:
+- getting-started
+- a-closer-look-1
+- a-closer-look-2
+- communication
+- skills-1
+- skills-2
+- looking-back
