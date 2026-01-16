@@ -1290,12 +1290,15 @@ function completeVocab(id){
   speakAsync('Hoàn thành từ vựng rồi! Giỏi lắm!','vi-VN');
 }
 
-function finishVocab(id){
+async function finishVocab(id){
   const vocabEl=document.getElementById(id);
   if(vocabEl){
     vocabEl.classList.remove('vocab-in-progress');
     vocabEl.classList.add('vocab-completed');
   }
+
+  // Speak transition message
+  await speakAsync('Các em đã ghi từ vựng rồi nha. Nhớ học bài hen. Giờ mình qua bài tiếp theo.','vi-VN');
 
   // Resume teacher script playback - continue with remaining TS in chunk
   setTimeout(()=>{
