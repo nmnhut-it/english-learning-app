@@ -12,17 +12,22 @@ Ok lớp 6, Unit 7 nha - Television. Mở sách trang 6 tập 2 đi.
 
 | Word | Type | Pronunciation | Meaning |
 |------|------|---------------|---------|
-| animated film | n | /ˈæn.ɪ.meɪ.tɪd fɪlm/ | phim hoạt hình (có nhân vật hoạt hình) |
-| cartoon | n | /kɑːˈtuːn/ | hoạt hình (như Tom & Jerry) |
-| channel | n | /ˈtʃæn.əl/ | kênh truyền hình |
-| talent show | n | /ˈtæl.ənt ʃəʊ/ | chương trình tài năng |
-| educational | adj | /ˌedʒ.uˈkeɪ.ʃən.əl/ | mang tính giáo dục |
-| wonderful | adj | /ˈwʌn.dər.fəl/ | tuyệt vời |
-| clever | adj | /ˈklev.ər/ | thông minh |
-| interesting | adj | /ˈɪn.trə.stɪŋ/ | thú vị |
+| The Voice Kid | | | Giọng hát Việt nhí |
+| talent show | n | /ˈtælənt ʃəʊ/ | chương trình tài năng |
+| programme | n | /ˈprəʊɡræm/ | chương trình |
+| film | n | /fɪlm/ | phim |
+| animated film | n | /ˈænɪmeɪtɪd fɪlm/ | phim hoạt hình (có nhân vật hoạt hình) |
+| The Lion King | | /ðə ˈlaɪən kɪŋ/ | Vua Sư Tử |
+| wonderful | adj | /ˈwʌndəfl/ | tuyệt vời |
+| prefer A to B | v | /prɪˈfɜː ... tə .../ | thích A hơn B |
+| cartoon | n | /kɑːˈtuːn/ | phim hoạt hình (như Tom & Jerry) |
+| clever | adj | /ˈklevə/ | thông minh, khéo léo |
+| character | n | /ˈkærəktə/ | nhân vật, tính cách |
+| channel | n | /ˈtʃænl/ | kênh truyền hình |
+| educational programme | n | /ˌedʒuˈkeɪʃənl ˈprəʊɡræm/ | chương trình giáo dục |
 
 <teacher_script pause="0">
-Từ vựng thì các em click vô để nghe phát âm, ghi vô vở rồi qua bài 1 nha.
+Từ vựng các em click vô nghe phát âm, ghi vô vở rồi qua bài 1 nha.
 </teacher_script>
 
 ---
@@ -30,32 +35,32 @@ Từ vựng thì các em click vô để nghe phát âm, ghi vô vở rồi qua 
 ### Bài 1 trang 6 - Listen and read
 
 <teacher_script pause="0">
-Bài 1, nghe và đọc đoạn hội thoại. Phong với Hùng đang nói chuyện về mấy chương trình TV.
+Bài 1, nghe và đọc hội thoại. Phong với Hùng đang nói về mấy chương trình TV.
 </teacher_script>
 
-**Phong:** Bạn đang xem gì đấy Hùng?
+**Phong:** Bạn đang xem cái gì, Hùng?
 
-**Hùng:** Giọng hát nhí.
+**Hùng:** Giọng Hát Việt Nhí.
 
-**Phong:** Chương trình tài năng âm nhạc ấy rất là hay.
+**Phong:** Chương trình tài năng âm nhạc đó rất thú vị.
 
-**Hùng:** Đúng vậy. Cậu thường xem chương trình gì vậy Phong?
+**Hùng:** Đúng vậy. Bạn thường xem chương trình gì, Phong?
 
-**Phong:** Phim! Tớ thích những phim hoạt hình như là Vua sư tử.
+**Phong:** Phim. Tôi thích phim hoạt hình như Vua Sư Tử.
 
-**Hùng:** Tớ cũng thích. Phim hoạt hình thật là hay.
+**Hùng:** Tôi yêu chúng, cũng vậy. Chúng thật tuyệt vời.
 
-**Phong:** Tớ thường xem với em trai, nhưng em ấy thích hoạt hình hơn.
+**Phong:** Tôi thường xem chúng với em trai nhỏ của tôi, nhưng em ấy thích phim hoạt hình hơn.
 
-**Hùng:** Như Tom và Jerry ấy hả?
+**Hùng:** Tom và Jerry?
 
-**Phong:** Haha, đúng vậy. Em tớ thích chuột Jerry.
+**Phong:** Ha ha... Đúng, em thấy thích con chuột Jerry.
 
-**Hùng:** Jerry là một chú chuột thông minh. Cậu có biết chương trình tiếng Anh nào dành cho trẻ em không?
+**Hùng:** Jerry là một nhân vật thông minh. Bạn có biết bất kỳ chương trình tiếng Anh nào cho trẻ em không?
 
-**Phong:** Có, tớ hay xem English in a Minute trên kênh VTV7. Kênh này có nhiều chương trình giáo dục.
+**Phong:** Có. Tôi xem Tiếng Anh trong Một Phút trên VTV7. Kênh này có nhiều chương trình giáo dục.
 
-**Hùng:** Nghe hay đấy. Tớ cũng sẽ xem mới được.
+**Hùng:** Tuyệt. Tôi cũng sẽ xem nó.
 
 ---
 
@@ -68,25 +73,29 @@ Bài 2, chọn đáp án đúng A, B hoặc C. 1 phút nha.
 **1.** Phong and Hung are talking about ________.
 - A. The Voice Kids programme
 - B. English in a Minute programme
-- C. different TV programmes
+- C. different TV programmes ✓
 
 **2.** Phong likes _________.
-- A. animated films
+- A. animated films ✓
 - B. cartoons
 - C. talent shows
 
 **3.** When you're viewing a TV programme, you say: "I'm _____ TV."
-- A. watching
+- A. watching ✓
 - B. seeing
 - C. looking
 
 **4.** When a programme teaches you something, it's ____________.
-- A. educational
+- A. educational ✓
 - B. funny
 - C. clever
 
 <teacher_script pause="0" type="answer">
-Ok đáp án nha. Câu 1 là C - different TV programmes, tụi nó nói về nhiều chương trình khác nhau. Câu 2 là A - animated films, Phong nói thích phim hoạt hình như Lion King. Câu 3 là A - watching, watch TV là xem TV. Câu 4 là A - educational, chương trình dạy học thì gọi là educational.
+Ok đáp án nha.
+Câu 1 là C - tụi nó nói về nhiều chương trình khác nhau, không phải chỉ 1 chương trình.
+Câu 2 là A - Phong nói "I like animated films like The Lion King".
+Câu 3 là A - watch TV, không ai nói see TV hay look TV hết.
+Câu 4 là A - chương trình dạy học thì gọi là educational.
 </teacher_script>
 
 **Đáp án:** 1.C | 2.A | 3.A | 4.A
@@ -96,7 +105,7 @@ Ok đáp án nha. Câu 1 là C - different TV programmes, tụi nó nói về nh
 ### Bài 3 trang 7 - Match
 
 <teacher_script pause="45">
-Bài 3, nối 1-5 với a-e. 45 giây thôi, dễ mà.
+Bài 3, nối 1-5 với a-e. 45 giây thôi.
 </teacher_script>
 
 | | Programme/Channel | | Type |
@@ -108,7 +117,8 @@ Bài 3, nối 1-5 với a-e. 45 giây thôi, dễ mà.
 | 5 | English in a Minute | e | cartoon |
 
 <teacher_script pause="0" type="answer">
-Đáp án nha: 1-c, The Voice Kids là chương trình tài năng âm nhạc. 2-a, Lion King là phim hoạt hình. 3-e, Tom và Jerry là cartoon. 4-b, VTV7 là kênh. 5-d, English in a Minute là chương trình giáo dục.
+Đáp án: 1-c, 2-a, 3-e, 4-b, 5-d.
+The Voice Kids là talent show. Lion King là animated film - phim hoạt hình dài. Tom và Jerry là cartoon - hoạt hình ngắn. VTV7 là channel. English in a Minute là educational programme.
 </teacher_script>
 
 **Đáp án:** 1-c | 2-a | 3-e | 4-b | 5-d
@@ -118,7 +128,7 @@ Bài 3, nối 1-5 với a-e. 45 giây thôi, dễ mà.
 ### Bài 4 trang 7 - Find adjectives
 
 <teacher_script pause="30">
-Bài 4, tìm tính từ mô tả chương trình và nhân vật trong đoạn hội thoại. 30 giây.
+Bài 4, tìm tính từ mô tả chương trình và nhân vật trong hội thoại. 30 giây.
 </teacher_script>
 
 | Programme/Character | Adjective |
@@ -129,7 +139,11 @@ Bài 4, tìm tính từ mô tả chương trình và nhân vật trong đoạn h
 | 4. Programmes on VTV7 | ? |
 
 <teacher_script pause="0" type="answer">
-Đáp án: The Voice Kids là interesting. Animated films là wonderful. Jerry là clever. Programmes on VTV7 là educational.
+Đáp án:
+1 - interesting, Phong nói "That music talent show is very interesting".
+2 - wonderful, Hùng nói "They're wonderful".
+3 - clever, Hùng nói "Jerry is a clever character".
+4 - educational, Phong nói "This channel has many educational programmes".
 </teacher_script>
 
 **Đáp án:**
@@ -143,14 +157,16 @@ Bài 4, tìm tính từ mô tả chương trình và nhân vật trong đoạn h
 ### Bài 5 trang 7 - Work in groups
 
 <teacher_script pause="0">
-Bài 5 thì làm nhóm, phỏng vấn bạn về chương trình TV yêu thích. Ví dụ: "What's your favourite TV programme?" - "I like sports programmes." Về nhà tập nói với bạn bè nha.
+Bài 5 làm nhóm, hỏi bạn về chương trình TV yêu thích. Dùng mấy câu hỏi như "What's your favourite TV programme?", "What channel is it on?", "When do you watch it?". Về nhà tập nói nha.
 </teacher_script>
 
-**Example:**
+**Gợi ý:**
 > In our group, Mai likes sports programmes on TV. Binh likes animal programmes on VTV2. He watches them every afternoon.
+
+**Dịch:** Trong nhóm của tôi, Mai thích chương trình thể thao trên TV. Bình thích chương trình động vật trên VTV2. Bạn ấy xem vào mỗi buổi chiều.
 
 ---
 
 <teacher_script pause="0">
-Ok hết bài Getting Started rồi. Về nhà học từ vựng, mai qua A Closer Look 1 nha.
+Ok hết Getting Started rồi. Về nhà học từ vựng, mai qua A Closer Look 1 nha.
 </teacher_script>
