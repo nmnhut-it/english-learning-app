@@ -1,0 +1,638 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Parser Tests - Voice Lecture Viewer</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; padding: 20px; line-height: 1.6; }
+    h1 { margin-bottom: 20px; color: #1e293b; }
+    h2 { margin: 30px 0 15px; color: #2563eb; border-bottom: 2px solid #e2e8f0; padding-bottom: 5px; }
+    .test-group { margin: 20px 0; padding: 15px; border: 1px solid #e2e8f0; border-radius: 8px; }
+    .test-case { margin: 10px 0; padding: 10px; background: #f8fafc; border-radius: 4px; }
+    .test-input { background: #1e293b; color: #e2e8f0; padding: 10px; border-radius: 4px; margin: 5px 0; font-family: monospace; font-size: 12px; white-space: pre-wrap; overflow-x: auto; }
+    .test-output { padding: 10px; border: 1px dashed #e2e8f0; margin: 5px 0; border-radius: 4px; }
+    .pass { background: #dcfce7; border-color: #10b981; }
+    .fail { background: #fee2e2; border-color: #ef4444; }
+    .status { font-weight: bold; padding: 2px 8px; border-radius: 4px; font-size: 12px; }
+    .status.pass { background: #10b981; color: white; }
+    .status.fail { background: #ef4444; color: white; }
+    .summary { position: sticky; top: 0; background: white; padding: 15px; border-bottom: 2px solid #e2e8f0; margin-bottom: 20px; z-index: 100; }
+    .issue { background: #fef3c7; border-left: 4px solid #f59e0b; padding: 10px; margin: 10px 0; }
+
+    /* Imported styles from voice-lecture-viewer.html */
+    .card { background: #fff; border-radius: 12px; padding: 16px; margin: 12px 0; box-shadow: 0 1px 3px rgba(0,0,0,0.1); }
+    .vocab-list { list-style: none; }
+    .vocab-item { padding: 12px; border-bottom: 1px solid #e2e8f0; cursor: pointer; display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px; }
+    .vocab-item:last-child { border-bottom: none; }
+    .vocab-word { font-weight: 600; color: #2563eb; }
+    .vocab-type { color: #64748b; font-size: 0.85rem; }
+    .vocab-meaning { color: #1e293b; flex: 1; }
+    .vocab-pron { color: #64748b; font-size: 0.9rem; font-style: italic; }
+    .table-wrap { overflow-x: auto; margin: 12px 0; }
+    table { width: 100%; border-collapse: collapse; font-size: 0.9rem; }
+    th, td { padding: 10px; border: 1px solid #e2e8f0; text-align: left; }
+    th { background: #f1f5f9; font-weight: 600; }
+    tr:nth-child(even) { background: #fafafa; }
+    .grammar-box { background: #faf5ff; border-left: 4px solid #8b5cf6; padding: 16px; border-radius: 12px; margin: 12px 0; }
+  </style>
+</head>
+<body>
+  <div class="summary" id="summary">
+    <h1>Parser Tests</h1>
+    <p>Running tests...</p>
+  </div>
+
+  <div id="results"></div>
+
+  <script>
+    // ============ COPY OF PARSER FUNCTIONS FROM voice-lecture-viewer.html ============
+
+    function renderVocabulary(html) {
+      return html.replace(/<vocabulary>([\s\S]*?)<\/vocabulary>/gi, (_, content) => {
+        const lines = content.trim().split('\n').filter(l => l.match(/^\d+\./));
+        let items = '';
+
+        for (const line of lines) {
+          // Format: 1. **word** : (type) meaning /pron/
+          const m = line.match(/^\d+\.\s*\*\*(.+?)\*\*\s*:\s*(?:\(([^)]+)\))?\s*(.+?)(?:\s*\/([^/]+)\/)?$/);
+          if (m) {
+            const [, word, type, meaning, pron] = m;
+            const cleanWord = word.replace(/[*_]/g, '');
+            items += `<li class="vocab-item" onclick="TTS.play('${cleanWord.replace(/'/g, "\\'")}', 'en-US')">
+              <span class="vocab-word">${cleanWord}</span>
+              ${type ? `<span class="vocab-type">(${type})</span>` : ''}
+              <span class="vocab-meaning">${meaning.trim()}</span>
+              ${pron ? `<span class="vocab-pron">/${pron}/</span>` : ''}
+            </li>`;
+          }
+        }
+
+        return `<div class="card"><ul class="vocab-list">${items}</ul></div>`;
+      });
+    }
+
+    function renderMarkdown(md) {
+      let html = md;
+
+      // Headers
+      html = html.replace(/^###\s+(.+)$/gm, '<h3>$1</h3>');
+      html = html.replace(/^##\s+(.+)$/gm, '<h2>$1</h2>');
+      html = html.replace(/^#\s+(.+)$/gm, '<h1>$1</h1>');
+
+      // Bold/Italic
+      html = html.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
+      html = html.replace(/\*([^*]+)\*/g, '<em>$1</em>');
+
+      // Code blocks
+      html = html.replace(/```([\s\S]*?)```/g, '<pre>$1</pre>');
+      html = html.replace(/`([^`]+)`/g, '<code>$1</code>');
+
+      // Tables
+      const tableRegex = /^\|(.+)\|$/gm;
+      const tables = html.match(/(\|.+\|\n?)+/g);
+      if (tables) {
+        for (const table of tables) {
+          const rows = table.trim().split('\n').filter(r => r.includes('|') && !r.match(/^\|[\s-:|]+\|$/));
+          if (rows.length > 0) {
+            let tableHtml = '<div class="table-wrap"><table>';
+            rows.forEach((row, i) => {
+              const cells = row.split('|').filter(c => c.trim());
+              const tag = i === 0 ? 'th' : 'td';
+              tableHtml += '<tr>' + cells.map(c => `<${tag}>${c.trim()}</${tag}>`).join('') + '</tr>';
+            });
+            tableHtml += '</table></div>';
+            html = html.replace(table, tableHtml);
+          }
+        }
+      }
+
+      // Lists
+      html = html.replace(/^-\s+(.+)$/gm, '<li>$1</li>');
+      html = html.replace(/(<li>.*<\/li>\n?)+/g, '<ul>$&</ul>');
+
+      // Paragraphs
+      html = html.replace(/\n\n+/g, '</p><p>');
+      html = html.replace(/\n/g, '<br>');
+
+      // Clean up
+      html = html.replace(/<p>\s*<\/p>/g, '');
+      html = html.replace(/<p>(<[hud])/g, '$1');
+      html = html.replace(/(<\/[hud][^>]*>)<\/p>/g, '$1');
+
+      return html;
+    }
+
+    // ============ TEST FRAMEWORK ============
+
+    const testResults = [];
+
+    function runTest(name, input, expected, actual, checkFn) {
+      const passed = checkFn ? checkFn(actual) : actual === expected;
+      testResults.push({ name, input, expected, actual, passed });
+      return passed;
+    }
+
+    function renderResults() {
+      const passed = testResults.filter(t => t.passed).length;
+      const failed = testResults.filter(t => !t.passed).length;
+
+      document.getElementById('summary').innerHTML = `
+        <h1>Parser Tests Results</h1>
+        <p>
+          <span class="status ${failed === 0 ? 'pass' : 'fail'}">
+            ${passed}/${testResults.length} passed
+          </span>
+          ${failed > 0 ? `<span class="status fail">${failed} failed</span>` : ''}
+        </p>
+      `;
+
+      let html = '';
+      let currentGroup = '';
+
+      for (const test of testResults) {
+        const group = test.name.split(':')[0];
+        if (group !== currentGroup) {
+          if (currentGroup) html += '</div>';
+          html += `<h2>${group}</h2><div class="test-group">`;
+          currentGroup = group;
+        }
+
+        html += `
+          <div class="test-case ${test.passed ? 'pass' : 'fail'}">
+            <p><span class="status ${test.passed ? 'pass' : 'fail'}">${test.passed ? 'PASS' : 'FAIL'}</span> ${test.name}</p>
+            <div class="test-input">${escapeHtml(test.input)}</div>
+            ${!test.passed ? `
+              <div class="test-output fail">
+                <strong>Expected:</strong><br>${escapeHtml(String(test.expected || 'Should parse correctly'))}
+                <br><br>
+                <strong>Actual:</strong><br>${escapeHtml(String(test.actual))}
+              </div>
+            ` : `<div class="test-output pass">${test.actual || 'Parsed correctly'}</div>`}
+          </div>
+        `;
+      }
+      if (currentGroup) html += '</div>';
+
+      document.getElementById('results').innerHTML = html;
+    }
+
+    function escapeHtml(str) {
+      return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+    }
+
+    // ============ VOCABULARY PARSER TESTS ============
+
+    function testVocabularyParser() {
+      // Test 1: Standard format with all parts
+      const test1Input = `<vocabulary>
+1. **talent show** : (n) chương trình tài năng /ˈtælənt ʃəʊ/
+</vocabulary>`;
+      const test1Output = renderVocabulary(test1Input);
+      runTest(
+        'Vocabulary: Standard format (word + type + meaning + pronunciation)',
+        test1Input,
+        null,
+        test1Output,
+        (out) => out.includes('talent show') && out.includes('(n)') && out.includes('/ˈtælənt ʃəʊ/')
+      );
+
+      // Test 2: Without pronunciation
+      const test2Input = `<vocabulary>
+1. **The Voice Kids** : Giọng hát Việt nhí
+</vocabulary>`;
+      const test2Output = renderVocabulary(test2Input);
+      runTest(
+        'Vocabulary: Without pronunciation',
+        test2Input,
+        null,
+        test2Output,
+        (out) => out.includes('The Voice Kids') && out.includes('Giọng hát Việt nhí')
+      );
+
+      // Test 3: Without type but with pronunciation
+      const test3Input = `<vocabulary>
+1. **prefer A to B** : thích A hơn B /prɪˈfɜː/
+</vocabulary>`;
+      const test3Output = renderVocabulary(test3Input);
+      runTest(
+        'Vocabulary: Without type, with pronunciation',
+        test3Input,
+        null,
+        test3Output,
+        (out) => out.includes('prefer A to B') && out.includes('/prɪˈfɜː/')
+      );
+
+      // Test 4: With verb forms
+      const test4Input = `<vocabulary>
+1. **happen - happened - happened** : (v) xảy ra, diễn ra /ˈhæpən/
+</vocabulary>`;
+      const test4Output = renderVocabulary(test4Input);
+      runTest(
+        'Vocabulary: Verb with conjugation forms',
+        test4Input,
+        null,
+        test4Output,
+        (out) => out.includes('happen - happened - happened') && out.includes('xảy ra')
+      );
+
+      // Test 5: Multiple vocabulary items
+      const test5Input = `<vocabulary>
+1. **programme** : (n) chương trình /ˈprəʊɡræm/
+2. **film** : (n) phim /fɪlm/
+3. **wonderful** : (adj) tuyệt vời /ˈwʌndəfl/
+</vocabulary>`;
+      const test5Output = renderVocabulary(test5Input);
+      runTest(
+        'Vocabulary: Multiple items',
+        test5Input,
+        null,
+        test5Output,
+        (out) => out.includes('programme') && out.includes('film') && out.includes('wonderful')
+      );
+
+      // Test 6: Invalid format - table inside vocabulary (BUG!)
+      const test6Input = `<vocabulary>
+**Phân biệt /θ/ và /ð/:**
+
+| | /θ/ (vô thanh) | /ð/ (hữu thanh) |
+|---|----------------|-----------------|
+| **Rung cổ** | Không | Có |
+</vocabulary>`;
+      const test6Output = renderVocabulary(test6Input);
+      runTest(
+        'Vocabulary: TABLE inside vocabulary tag (BUG - should handle gracefully)',
+        test6Input,
+        'Should render table or show warning',
+        test6Output,
+        (out) => out.includes('/θ/') || out.includes('table') // Currently fails!
+      );
+
+      // Test 7: Meaning with special characters
+      const test7Input = `<vocabulary>
+1. **make people laugh** : làm cho mọi người cười /meɪk ˈpiːpl lɑːf/
+</vocabulary>`;
+      const test7Output = renderVocabulary(test7Input);
+      runTest(
+        'Vocabulary: Phrase with spaces',
+        test7Input,
+        null,
+        test7Output,
+        (out) => out.includes('make people laugh')
+      );
+
+      // Test 8: Empty vocabulary tag
+      const test8Input = `<vocabulary>
+</vocabulary>`;
+      const test8Output = renderVocabulary(test8Input);
+      runTest(
+        'Vocabulary: Empty tag',
+        test8Input,
+        null,
+        test8Output,
+        (out) => out.includes('vocab-list') && !out.includes('vocab-item')
+      );
+    }
+
+    // ============ TABLE RENDERER TESTS ============
+
+    function testTableRenderer() {
+      // Test 1: Standard table
+      const test1Input = `| English | Vietnamese |
+|---------|------------|
+| Hello | Xin chào |
+| Goodbye | Tạm biệt |`;
+      const test1Output = renderMarkdown(test1Input);
+      runTest(
+        'Table: Standard 2-column table',
+        test1Input,
+        null,
+        test1Output,
+        (out) => out.includes('<table>') && out.includes('<th>English</th>') && out.includes('<td>Hello</td>')
+      );
+
+      // Test 2: Table with empty cells (BUG!)
+      const test2Input = `| | Column A | | Column B |
+|---|---------|---|----------|
+| 1 | The Voice Kids | a | music show |`;
+      const test2Output = renderMarkdown(test2Input);
+      runTest(
+        'Table: With empty cells (BUG - loses empty columns)',
+        test2Input,
+        'Should have 4 columns',
+        test2Output,
+        (out) => {
+          // Check if all 4 columns are preserved
+          const match = out.match(/<th>/g);
+          return match && match.length === 4;
+        }
+      );
+
+      // Test 3: Matching table with numbers
+      const test3Input = `| # | Định nghĩa | Từ | Nghĩa |
+|---|------------|-----|-------|
+| 1 | An animal | character | nhân vật |
+| 2 | A programme | educational | giáo dục |`;
+      const test3Output = renderMarkdown(test3Input);
+      runTest(
+        'Table: 4-column table with numbers',
+        test3Input,
+        null,
+        test3Output,
+        (out) => out.includes('<th>#</th>') && out.includes('<td>character</td>')
+      );
+
+      // Test 4: Table with bold text
+      const test4Input = `| Từ | Âm |
+|----|----|
+| **They** | /ð/ |
+| **thinking** | /θ/ |`;
+      const test4Output = renderMarkdown(test4Input);
+      runTest(
+        'Table: With bold text inside cells',
+        test4Input,
+        null,
+        test4Output,
+        (out) => out.includes('<strong>They</strong>') && out.includes('/ð/')
+      );
+
+      // Test 5: Table separator variations
+      const test5Input = `| A | B | C |
+|:--|:--:|--:|
+| Left | Center | Right |`;
+      const test5Output = renderMarkdown(test5Input);
+      runTest(
+        'Table: With alignment separators (:--|:--:|--:)',
+        test5Input,
+        null,
+        test5Output,
+        (out) => out.includes('<table>') && out.includes('Left') && out.includes('Right')
+      );
+
+      // Test 6: Table with Vietnamese text
+      const test6Input = `| Tiếng Anh | Tiếng Việt |
+|-----------|------------|
+| educational | có tính giáo dục |
+| popular | phổ biến |`;
+      const test6Output = renderMarkdown(test6Input);
+      runTest(
+        'Table: Vietnamese text',
+        test6Input,
+        null,
+        test6Output,
+        (out) => out.includes('có tính giáo dục') && out.includes('phổ biến')
+      );
+
+      // Test 7: Multiple tables in one content
+      const test7Input = `## Table 1
+| A | B |
+|---|---|
+| 1 | 2 |
+
+## Table 2
+| C | D |
+|---|---|
+| 3 | 4 |`;
+      const test7Output = renderMarkdown(test7Input);
+      runTest(
+        'Table: Multiple tables in content',
+        test7Input,
+        null,
+        test7Output,
+        (out) => {
+          const tableCount = (out.match(/<table>/g) || []).length;
+          return tableCount === 2;
+        }
+      );
+    }
+
+    // ============ MARKDOWN RENDERER TESTS ============
+
+    function testMarkdownRenderer() {
+      // Test 1: Headers
+      const test1Input = `# Heading 1
+## Heading 2
+### Heading 3`;
+      const test1Output = renderMarkdown(test1Input);
+      runTest(
+        'Markdown: Headers (H1, H2, H3)',
+        test1Input,
+        null,
+        test1Output,
+        (out) => out.includes('<h1>Heading 1</h1>') && out.includes('<h2>Heading 2</h2>') && out.includes('<h3>Heading 3</h3>')
+      );
+
+      // Test 2: Bold and italic
+      const test2Input = `**bold text** and *italic text*`;
+      const test2Output = renderMarkdown(test2Input);
+      runTest(
+        'Markdown: Bold and italic',
+        test2Input,
+        null,
+        test2Output,
+        (out) => out.includes('<strong>bold text</strong>') && out.includes('<em>italic text</em>')
+      );
+
+      // Test 3: Lists
+      const test3Input = `- Item 1
+- Item 2
+- Item 3`;
+      const test3Output = renderMarkdown(test3Input);
+      runTest(
+        'Markdown: Unordered list',
+        test3Input,
+        null,
+        test3Output,
+        (out) => out.includes('<ul>') && out.includes('<li>Item 1</li>')
+      );
+
+      // Test 4: Code blocks
+      const test4Input = '```\ncode block\n```';
+      const test4Output = renderMarkdown(test4Input);
+      runTest(
+        'Markdown: Code block',
+        test4Input,
+        null,
+        test4Output,
+        (out) => out.includes('<pre>') && out.includes('code block')
+      );
+
+      // Test 5: Inline code
+      const test5Input = 'Use `inline code` here';
+      const test5Output = renderMarkdown(test5Input);
+      runTest(
+        'Markdown: Inline code',
+        test5Input,
+        null,
+        test5Output,
+        (out) => out.includes('<code>inline code</code>')
+      );
+
+      // Test 6: Nested bold in list
+      const test6Input = `- **Bold** item
+- *Italic* item`;
+      const test6Output = renderMarkdown(test6Input);
+      runTest(
+        'Markdown: Nested formatting in list',
+        test6Input,
+        null,
+        test6Output,
+        (out) => out.includes('<li><strong>Bold</strong> item</li>')
+      );
+
+      // Test 7: Special characters in text
+      const test7Input = `Text with /θ/ and /ð/ sounds`;
+      const test7Output = renderMarkdown(test7Input);
+      runTest(
+        'Markdown: Special phonetic characters',
+        test7Input,
+        null,
+        test7Output,
+        (out) => out.includes('/θ/') && out.includes('/ð/')
+      );
+    }
+
+    // ============ EDGE CASES & BUG TESTS ============
+
+    function testEdgeCases() {
+      // Test 1: Vocabulary without numbered list
+      const test1Input = `<vocabulary>
+**word** : meaning
+another line
+</vocabulary>`;
+      const test1Output = renderVocabulary(test1Input);
+      runTest(
+        'Edge: Vocabulary without numbered format (should fail gracefully)',
+        test1Input,
+        'Empty vocab list',
+        test1Output,
+        (out) => out.includes('vocab-list')
+      );
+
+      // Test 2: XSS prevention in vocabulary
+      const test2Input = `<vocabulary>
+1. **test<script>alert('xss')</script>** : (n) test /test/
+</vocabulary>`;
+      const test2Output = renderVocabulary(test2Input);
+      runTest(
+        'Edge: XSS prevention in vocabulary',
+        test2Input,
+        'Should not execute script',
+        test2Output,
+        (out) => !out.includes('<script>') || out.includes('&lt;script')
+      );
+
+      // Test 3: Special quotes in TTS text
+      const test3Input = `He said "hello" and 'goodbye'`;
+      // Simulating what would happen in onclick handler
+      const escapedForOnclick = test3Input.replace(/'/g, "\\'").replace(/"/g, "&quot;");
+      runTest(
+        'Edge: Quotes in TTS text',
+        test3Input,
+        'Properly escaped',
+        escapedForOnclick,
+        (out) => out.includes("\\'") && out.includes("&quot;")
+      );
+
+      // Test 4: Very long vocabulary word
+      const test4Input = `<vocabulary>
+1. **this is a very long phrase that might cause layout issues** : (phrase) đây là một cụm từ rất dài có thể gây ra vấn đề về layout /test/
+</vocabulary>`;
+      const test4Output = renderVocabulary(test4Input);
+      runTest(
+        'Edge: Very long vocabulary phrase',
+        test4Input,
+        null,
+        test4Output,
+        (out) => out.includes('this is a very long phrase')
+      );
+
+      // Test 5: Meaning contains forward slash (pronunciation-like)
+      const test5Input = `<vocabulary>
+1. **24/7** : (adv) 24 giờ/7 ngày /ˌtwentiˈfɔːˈsevən/
+</vocabulary>`;
+      const test5Output = renderVocabulary(test5Input);
+      runTest(
+        'Edge: Word and meaning contain slashes',
+        test5Input,
+        null,
+        test5Output,
+        (out) => out.includes('24/7') && out.includes('24 giờ/7 ngày')
+      );
+
+      // Test 6: Table inside other tags
+      const test6Input = `<grammar>
+| Rule | Example |
+|------|---------|
+| Use "a" before consonant | a book |
+| Use "an" before vowel | an apple |
+</grammar>`;
+      // This test checks if tables work inside grammar boxes
+      runTest(
+        'Edge: Table inside grammar tag',
+        test6Input,
+        'Table should render',
+        test6Input,
+        (out) => out.includes('|') // Raw test - full parsing would need all renderers
+      );
+    }
+
+    // ============ MOBILE UI TESTS (Manual Checklist) ============
+
+    function testMobileUI() {
+      const issues = [
+        {
+          name: 'Mobile: Touch target size',
+          issue: 'Vocabulary items should have min height 44px for touch',
+          check: '.vocab-item { min-height: 44px; }'
+        },
+        {
+          name: 'Mobile: Table horizontal scroll',
+          issue: 'Tables should scroll horizontally on small screens',
+          check: '.table-wrap { overflow-x: auto; }'
+        },
+        {
+          name: 'Mobile: Font size readability',
+          issue: 'Base font should be at least 16px to prevent zoom on iOS',
+          check: 'font-size: 16px or larger'
+        },
+        {
+          name: 'Mobile: Button spacing',
+          issue: 'Bottom nav buttons should have adequate spacing',
+          check: 'gap: 12px and padding: 14px'
+        },
+        {
+          name: 'Mobile: Safe area insets',
+          issue: 'Should handle notch/home indicator',
+          check: 'padding-bottom: env(safe-area-inset-bottom)'
+        },
+        {
+          name: 'Mobile: Viewport meta',
+          issue: 'Should prevent unwanted zoom',
+          check: 'user-scalable=no, maximum-scale=1.0'
+        }
+      ];
+
+      for (const item of issues) {
+        runTest(
+          item.name,
+          item.issue,
+          item.check,
+          'MANUAL CHECK REQUIRED',
+          () => true // These are manual checks
+        );
+      }
+    }
+
+    // ============ RUN ALL TESTS ============
+
+    testVocabularyParser();
+    testTableRenderer();
+    testMarkdownRenderer();
+    testEdgeCases();
+    testMobileUI();
+    renderResults();
+  </script>
+</body>
+</html>

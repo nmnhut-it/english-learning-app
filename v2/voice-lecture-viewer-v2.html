@@ -1,0 +1,1244 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+  <title>Voice Lecture</title>
+  <style>
+    /* ========== CSS Reset & Variables ========== */
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    :root {
+      --primary: #2563eb;
+      --primary-light: #3b82f6;
+      --primary-dark: #1d4ed8;
+      --success: #10b981;
+      --error: #ef4444;
+      --warning: #f59e0b;
+      --bg: #f8fafc;
+      --card: #fff;
+      --text: #1e293b;
+      --muted: #64748b;
+      --border: #e2e8f0;
+      --shadow: 0 1px 3px rgba(0,0,0,0.1);
+      --radius: 12px;
+      --safe-bottom: env(safe-area-inset-bottom, 0px);
+    }
+
+    /* ========== Base Styles ========== */
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      font-size: 16px;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+    }
+
+    /* ========== Camera Gate ========== */
+    #camera-gate {
+      position: fixed;
+      inset: 0;
+      background: linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      z-index: 1000;
+      padding: 20px;
+      padding-bottom: calc(20px + var(--safe-bottom));
+    }
+    #camera-gate.hidden { display: none; }
+    #camera-gate h1 { color: #fff; margin-bottom: 8px; font-size: 1.4rem; }
+    #camera-gate p { color: rgba(255,255,255,0.85); margin-bottom: 20px; text-align: center; font-size: 0.95rem; }
+    #camera-preview {
+      width: 100%;
+      max-width: 320px;
+      aspect-ratio: 4/3;
+      background: #000;
+      border-radius: var(--radius);
+      overflow: hidden;
+      margin-bottom: 20px;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.3);
+    }
+    #camera-preview video, #camera-preview img { width: 100%; height: 100%; object-fit: cover; }
+    .gate-input {
+      width: 100%;
+      max-width: 320px;
+      padding: 14px 20px;
+      border: 2px solid rgba(255,255,255,0.3);
+      border-radius: var(--radius);
+      background: rgba(255,255,255,0.1);
+      color: #fff;
+      font-size: 1rem;
+      margin-bottom: 16px;
+      text-align: center;
+    }
+    .gate-input::placeholder { color: rgba(255,255,255,0.6); }
+    .gate-input:focus { outline: none; border-color: rgba(255,255,255,0.6); background: rgba(255,255,255,0.15); }
+    .gate-btns { display: flex; gap: 12px; flex-wrap: wrap; justify-content: center; }
+    .gate-btn {
+      background: #fff;
+      color: var(--primary);
+      border: none;
+      padding: 14px 32px;
+      border-radius: 50px;
+      font-size: 1rem;
+      font-weight: 600;
+      cursor: pointer;
+      min-width: 140px;
+      transition: transform 0.15s, box-shadow 0.15s;
+    }
+    .gate-btn:active { transform: scale(0.98); }
+    .gate-btn:disabled { opacity: 0.5; }
+    .gate-btn.success { background: var(--success); color: #fff; }
+    .gate-btn.secondary { background: transparent; color: #fff; border: 2px solid rgba(255,255,255,0.5); }
+    #camera-error { color: #fca5a5; text-align: center; margin-top: 20px; padding: 15px; background: rgba(255,255,255,0.1); border-radius: 8px; font-size: 0.9rem; }
+
+    /* ========== Main App ========== */
+    #app { display: none; }
+    #app.active { display: block; }
+
+    /* Header */
+    header {
+      background: linear-gradient(135deg, var(--primary) 0%, var(--primary-light) 100%);
+      color: #fff;
+      padding: 14px 20px;
+      padding-top: calc(14px + env(safe-area-inset-top, 0px));
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.15);
+    }
+    header h1 { font-size: 1rem; font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+    #progress-bar { height: 4px; background: rgba(255,255,255,0.3); margin-top: 10px; border-radius: 2px; overflow: hidden; }
+    #progress-fill { height: 100%; background: #fff; width: 0%; transition: width 0.3s ease; }
+
+    /* Content */
+    #content {
+      padding: 16px;
+      padding-bottom: calc(100px + var(--safe-bottom));
+      max-width: 720px;
+      margin: 0 auto;
+    }
+    .chunk { animation: fadeIn 0.3s ease; }
+    @keyframes fadeIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+
+    /* ========== Typography ========== */
+    h1 { font-size: 1.4rem; margin: 20px 0 12px; color: var(--text); }
+    h2 { font-size: 1.2rem; margin: 24px 0 12px; color: var(--primary); }
+    h3 { font-size: 1.05rem; margin: 20px 0 10px; color: var(--text); }
+    p { margin: 10px 0; }
+    strong { color: var(--primary-dark); }
+    em { color: var(--muted); }
+    code { background: #f1f5f9; padding: 2px 6px; border-radius: 4px; font-size: 0.9em; }
+    pre {
+      background: #1e293b;
+      color: #e2e8f0;
+      padding: 16px;
+      border-radius: 8px;
+      overflow-x: auto;
+      font-size: 0.85rem;
+      line-height: 1.5;
+      margin: 12px 0;
+    }
+
+    /* ========== Card ========== */
+    .card {
+      background: var(--card);
+      border-radius: var(--radius);
+      padding: 16px;
+      margin: 14px 0;
+      box-shadow: var(--shadow);
+    }
+
+    /* ========== Vocabulary (Mobile-First) ========== */
+    .vocab-list { list-style: none; }
+    .vocab-item {
+      padding: 14px 12px;
+      border-bottom: 1px solid var(--border);
+      cursor: pointer;
+      display: flex;
+      flex-wrap: wrap;
+      align-items: baseline;
+      gap: 8px;
+      min-height: 52px;
+      transition: background 0.15s;
+      position: relative;
+    }
+    .vocab-item:hover, .vocab-item:active { background: #f1f5f9; }
+    .vocab-item:last-child { border-bottom: none; }
+    .vocab-word {
+      font-weight: 600;
+      color: var(--primary);
+      font-size: 1.05rem;
+      flex-shrink: 0;
+    }
+    .vocab-type {
+      color: var(--muted);
+      font-size: 0.75rem;
+      background: #f1f5f9;
+      padding: 2px 8px;
+      border-radius: 4px;
+      flex-shrink: 0;
+      text-transform: lowercase;
+    }
+    .vocab-meaning {
+      color: var(--text);
+      flex: 1 1 100%;
+      margin-top: 6px;
+      font-size: 0.95rem;
+    }
+    .vocab-pron {
+      color: #92400e;
+      font-size: 0.85rem;
+      font-style: italic;
+      background: #fef3c7;
+      padding: 3px 10px;
+      border-radius: 6px;
+      flex-shrink: 0;
+    }
+    .vocab-speaker {
+      position: absolute;
+      right: 12px;
+      top: 50%;
+      transform: translateY(-50%);
+      font-size: 1.1rem;
+      opacity: 0.5;
+    }
+    @media (min-width: 480px) {
+      .vocab-meaning { flex: 1; margin-top: 0; }
+    }
+
+    /* ========== Tables (Mobile-First) ========== */
+    .table-wrap {
+      overflow-x: auto;
+      margin: 14px 0;
+      -webkit-overflow-scrolling: touch;
+      border-radius: 8px;
+      border: 1px solid var(--border);
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      min-width: 280px;
+    }
+    th, td {
+      padding: 12px 10px;
+      border: 1px solid var(--border);
+      text-align: left;
+      vertical-align: top;
+      word-break: break-word;
+    }
+    th {
+      background: linear-gradient(to bottom, #f8fafc, #f1f5f9);
+      font-weight: 600;
+      font-size: 0.85rem;
+      color: var(--text);
+    }
+    tr:nth-child(even) { background: #fafafa; }
+    /* Remove nested table border when inside card */
+    .card .table-wrap { border: none; margin: 10px 0; }
+    .card table { box-shadow: none; }
+
+    /* ========== Box Styles ========== */
+    .task-box { background: #eff6ff; border-left: 4px solid var(--primary); }
+    .answer-box { background: #f0fdf4; border-left: 4px solid var(--success); }
+    .explanation-box { background: #fefce8; border-left: 4px solid var(--warning); }
+    .grammar-box { background: #faf5ff; border-left: 4px solid #8b5cf6; }
+    .translation-box { background: #ecfeff; border-left: 4px solid #06b6d4; }
+    .pronunciation-box { background: #fff7ed; border-left: 4px solid #f97316; }
+
+    /* ========== TTS Container (Mobile-First) ========== */
+    .tts-box {
+      background: linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%);
+      color: #fff;
+      padding: 20px;
+      border-radius: var(--radius);
+      margin: 16px 0;
+      box-shadow: 0 4px 15px rgba(37, 99, 235, 0.3);
+    }
+    .tts-text {
+      font-size: 1.05rem;
+      line-height: 1.8;
+      margin-bottom: 16px;
+    }
+    .tts-controls {
+      display: flex;
+      gap: 12px;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+    .tts-btn {
+      background: rgba(255,255,255,0.2);
+      border: none;
+      color: #fff;
+      padding: 14px 28px;
+      border-radius: 50px;
+      font-size: 1rem;
+      font-weight: 500;
+      cursor: pointer;
+      min-width: 130px;
+      transition: all 0.15s;
+    }
+    .tts-btn:hover, .tts-btn:active { background: rgba(255,255,255,0.3); transform: scale(1.02); }
+    .tts-btn.playing { background: var(--success); }
+    .timer {
+      font-size: 2rem;
+      font-weight: 700;
+      text-align: center;
+      margin: 16px 0;
+      font-variant-numeric: tabular-nums;
+    }
+    .timer.warning { color: #fbbf24; }
+    .timer.danger { color: #f87171; animation: pulse 1s infinite; }
+    @keyframes pulse { 50% { opacity: 0.6; } }
+
+    /* ========== Action Buttons (Mobile-First) ========== */
+    .action-btns { display: flex; gap: 12px; margin: 20px 0; flex-wrap: wrap; }
+    .action-btn {
+      flex: 1;
+      min-width: 140px;
+      padding: 18px 16px;
+      border: 2px solid var(--border);
+      border-radius: var(--radius);
+      background: var(--card);
+      font-size: 1rem;
+      cursor: pointer;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 10px;
+      transition: all 0.15s;
+    }
+    .action-btn:hover, .action-btn:active { border-color: var(--primary); background: #eff6ff; }
+    .action-btn.recording { border-color: var(--error); background: #fef2f2; animation: pulse 1s infinite; }
+    .action-btn svg { width: 32px; height: 32px; }
+
+    /* ========== Questions (Mobile-First) ========== */
+    .question-item { padding: 14px 0; border-bottom: 1px solid var(--border); }
+    .question-item:last-child { border-bottom: none; }
+    .q-text { font-weight: 500; margin-bottom: 10px; font-size: 1rem; }
+    .q-options { margin-left: 4px; }
+    .q-option {
+      padding: 14px 16px;
+      margin: 8px 0;
+      border-radius: 10px;
+      cursor: pointer;
+      display: flex;
+      align-items: flex-start;
+      gap: 12px;
+      border: 2px solid var(--border);
+      transition: all 0.15s;
+      min-height: 48px;
+    }
+    .q-option:hover, .q-option:active { background: #f1f5f9; border-color: var(--primary-light); }
+    .q-option.selected { background: #dbeafe; border-color: var(--primary); }
+    .q-option.correct { background: #dcfce7; border-color: var(--success); }
+    .q-option.wrong { background: #fee2e2; border-color: var(--error); }
+    .q-input {
+      width: 100%;
+      padding: 14px;
+      border: 2px solid var(--border);
+      border-radius: 10px;
+      font-size: 1rem;
+      margin-top: 10px;
+    }
+    .q-input:focus { outline: none; border-color: var(--primary); }
+    .q-translation {
+      color: var(--muted);
+      font-style: italic;
+      font-size: 0.9rem;
+      margin-top: 8px;
+      padding-left: 12px;
+      border-left: 3px solid var(--border);
+    }
+
+    /* ========== Audio Box ========== */
+    .audio-box {
+      background: #1e293b;
+      padding: 16px;
+      border-radius: var(--radius);
+      margin: 14px 0;
+    }
+    .audio-box audio { width: 100%; border-radius: 8px; }
+    .audio-box p { color: #94a3b8; font-size: 0.9rem; margin-top: 10px; }
+    .audio-placeholder {
+      background: #374151;
+      color: #9ca3af;
+      padding: 24px;
+      border-radius: 8px;
+      text-align: center;
+      font-size: 0.95rem;
+    }
+
+    /* ========== Bottom Navigation ========== */
+    #bottom-nav {
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      background: var(--card);
+      padding: 14px 20px;
+      padding-bottom: calc(14px + var(--safe-bottom));
+      box-shadow: 0 -2px 15px rgba(0,0,0,0.1);
+      display: flex;
+      gap: 12px;
+      justify-content: center;
+      z-index: 100;
+    }
+    .nav-btn {
+      flex: 1;
+      max-width: 180px;
+      padding: 16px 20px;
+      border: none;
+      border-radius: 50px;
+      font-size: 1rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.15s;
+    }
+    .nav-btn.primary { background: var(--primary); color: #fff; }
+    .nav-btn.primary:active { background: var(--primary-dark); }
+    .nav-btn.secondary { background: #e2e8f0; color: var(--text); }
+    .nav-btn.secondary:active { background: #cbd5e1; }
+    .nav-btn:disabled { opacity: 0.5; }
+
+    /* ========== Loading & Overlays ========== */
+    #loading { position: fixed; inset: 0; background: var(--bg); display: flex; flex-direction: column; align-items: center; justify-content: center; z-index: 999; }
+    #loading.hidden { display: none; }
+    .spinner { width: 48px; height: 48px; border: 4px solid var(--border); border-top-color: var(--primary); border-radius: 50%; animation: spin 0.8s linear infinite; }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    .error-msg { background: #fef2f2; color: var(--error); padding: 20px; border-radius: var(--radius); text-align: center; margin: 20px; border: 1px solid #fecaca; }
+
+    /* Sending indicator */
+    .sending { position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%); background: rgba(0,0,0,0.85); color: #fff; padding: 24px 40px; border-radius: var(--radius); z-index: 1001; display: none; font-size: 1rem; }
+    .sending.active { display: flex; align-items: center; gap: 16px; }
+
+    /* ========== Focus States (Accessibility) ========== */
+    button:focus-visible, .vocab-item:focus-visible, .q-option:focus-visible {
+      outline: 3px solid var(--primary);
+      outline-offset: 2px;
+    }
+
+    /* ========== Lists ========== */
+    ul { margin: 10px 0; padding-left: 20px; }
+    li { margin: 6px 0; }
+  </style>
+</head>
+<body>
+  <!-- Camera Gate -->
+  <div id="camera-gate">
+    <h1>Diem danh</h1>
+    <p>Nhap ten va chup anh de bat dau</p>
+    <input type="text" id="student-name" class="gate-input" placeholder="Nhap ten cua ban..." />
+    <div id="camera-preview"><video id="camera-video" autoplay playsinline muted></video></div>
+    <div class="gate-btns" id="gate-buttons">
+      <button class="gate-btn" id="capture-btn" disabled>Chup anh</button>
+      <button class="gate-btn secondary" id="skip-btn">Bo qua</button>
+    </div>
+    <div id="camera-error"></div>
+  </div>
+
+  <!-- Loading -->
+  <div id="loading" class="hidden">
+    <div class="spinner"></div>
+    <p style="margin-top:20px;color:var(--muted)">Dang tai bai hoc...</p>
+  </div>
+
+  <!-- Sending indicator -->
+  <div class="sending" id="sending"><div class="spinner" style="width:24px;height:24px;border-width:3px"></div> Dang gui...</div>
+
+  <!-- Main App -->
+  <div id="app">
+    <header>
+      <h1 id="lesson-title">Voice Lecture</h1>
+      <div id="progress-bar"><div id="progress-fill"></div></div>
+    </header>
+    <div id="content"></div>
+    <nav id="bottom-nav">
+      <button class="nav-btn secondary" id="prev-btn" disabled>Truoc</button>
+      <button class="nav-btn primary" id="next-btn">Tiep</button>
+    </nav>
+  </div>
+
+  <canvas id="photo-canvas" style="display:none"></canvas>
+
+  <script>
+    // ========== CONFIG ==========
+    const CONFIG = {
+      contentUrl: null,
+      telegramToken: null,
+      telegramChat: null,
+      audioBaseUrl: null,
+      skipCamera: false
+    };
+
+    // ========== STATE ==========
+    const state = {
+      chunks: [],
+      currentChunk: 0,
+      timer: null,
+      timerPaused: false,
+      photoData: null,
+      studentName: null,
+      lessonTitle: 'Voice Lecture',
+      currentChunkTitle: ''
+    };
+
+    // ========== INIT ==========
+    document.addEventListener('DOMContentLoaded', () => {
+      parseUrlParams();
+      setupNavigation();
+      restoreProgress();
+
+      if (CONFIG.skipCamera) {
+        document.getElementById('camera-gate').classList.add('hidden');
+        loadContent();
+      } else {
+        initCamera();
+      }
+    });
+
+    function parseUrlParams() {
+      const params = new URLSearchParams(window.location.search);
+
+      const encoded = params.get('c');
+      if (encoded) {
+        try {
+          CONFIG.contentUrl = decodeURIComponent(atob(encoded));
+        } catch {
+          CONFIG.contentUrl = decodeURIComponent(encoded);
+        }
+      }
+
+      CONFIG.telegramToken = params.get('tg_token') || params.get('token');
+      CONFIG.telegramChat = params.get('tg_chat') || params.get('chat');
+      CONFIG.audioBaseUrl = params.get('audio_base');
+      CONFIG.skipCamera = params.get('skip') === '1';
+    }
+
+    function restoreProgress() {
+      const saved = localStorage.getItem('voice-lecture-progress');
+      if (saved) {
+        try {
+          const data = JSON.parse(saved);
+          if (data.url === CONFIG.contentUrl) {
+            state.currentChunk = data.chunk || 0;
+            state.studentName = data.name;
+          }
+        } catch {}
+      }
+    }
+
+    function saveProgress() {
+      localStorage.setItem('voice-lecture-progress', JSON.stringify({
+        url: CONFIG.contentUrl,
+        chunk: state.currentChunk,
+        name: state.studentName
+      }));
+    }
+
+    // ========== TTS PROVIDER ==========
+    const TTS = {
+      hashText(text) {
+        let hash = 0;
+        for (let i = 0; i < text.length; i++) {
+          hash = ((hash << 5) - hash) + text.charCodeAt(i);
+          hash = hash & hash;
+        }
+        return Math.abs(hash).toString(16);
+      },
+
+      getAudioUrl(text) {
+        if (CONFIG.audioBaseUrl) {
+          return `${CONFIG.audioBaseUrl}/${this.hashText(text)}.mp3`;
+        }
+        return null;
+      },
+
+      async play(text, lang = 'vi-VN', onEnd = null) {
+        const audioUrl = this.getAudioUrl(text);
+        if (audioUrl) {
+          try {
+            const audio = new Audio(audioUrl);
+            audio.onended = onEnd;
+            audio.onerror = () => this.playWebSpeech(text, lang, onEnd);
+            await audio.play();
+            return audio;
+          } catch {}
+        }
+        return this.playWebSpeech(text, lang, onEnd);
+      },
+
+      playWebSpeech(text, lang = 'vi-VN', onEnd = null) {
+        if (!('speechSynthesis' in window)) {
+          if (onEnd) onEnd();
+          return null;
+        }
+
+        window.speechSynthesis.cancel();
+        const utterance = new SpeechSynthesisUtterance(text);
+        utterance.lang = lang;
+        utterance.rate = 0.9;
+        if (onEnd) utterance.onend = onEnd;
+        window.speechSynthesis.speak(utterance);
+        return utterance;
+      },
+
+      stop() {
+        if ('speechSynthesis' in window) {
+          window.speechSynthesis.cancel();
+        }
+      }
+    };
+
+    window.TTS = TTS;
+
+    // ========== TELEGRAM ==========
+    const Telegram = {
+      lastFailedSend: null,
+
+      async sendPhoto(photoData, caption = '') {
+        if (!CONFIG.telegramToken || !CONFIG.telegramChat) return { ok: true, skipped: true };
+
+        showSending(true);
+        try {
+          const response = await fetch(photoData);
+          const blob = await response.blob();
+
+          const formData = new FormData();
+          formData.append('chat_id', CONFIG.telegramChat);
+          formData.append('photo', blob, 'photo.jpg');
+          formData.append('caption', caption);
+
+          const result = await fetch(`https://api.telegram.org/bot${CONFIG.telegramToken}/sendPhoto`, {
+            method: 'POST',
+            body: formData
+          });
+
+          showSending(false);
+          if (!result.ok) {
+            this.lastFailedSend = { type: 'photo', data: photoData, caption };
+            showRetryButton();
+          }
+          return { ok: result.ok };
+        } catch (e) {
+          showSending(false);
+          this.lastFailedSend = { type: 'photo', data: photoData, caption };
+          showRetryButton();
+          return { ok: false, error: e.message };
+        }
+      },
+
+      async sendAudio(audioBlob, caption = '') {
+        if (!CONFIG.telegramToken || !CONFIG.telegramChat) return { ok: true, skipped: true };
+
+        showSending(true);
+        try {
+          const formData = new FormData();
+          formData.append('chat_id', CONFIG.telegramChat);
+          formData.append('voice', audioBlob, 'voice.ogg');
+          formData.append('caption', caption);
+
+          const result = await fetch(`https://api.telegram.org/bot${CONFIG.telegramToken}/sendVoice`, {
+            method: 'POST',
+            body: formData
+          });
+
+          showSending(false);
+          if (!result.ok) {
+            this.lastFailedSend = { type: 'audio', data: audioBlob, caption };
+            showRetryButton();
+          }
+          return { ok: result.ok };
+        } catch (e) {
+          showSending(false);
+          this.lastFailedSend = { type: 'audio', data: audioBlob, caption };
+          showRetryButton();
+          return { ok: false, error: e.message };
+        }
+      },
+
+      async retry() {
+        if (!this.lastFailedSend) return;
+        const { type, data, caption } = this.lastFailedSend;
+        hideRetryButton();
+        if (type === 'photo') return this.sendPhoto(data, caption);
+        return this.sendAudio(data, caption);
+      }
+    };
+
+    function showSending(show) {
+      document.getElementById('sending').classList.toggle('active', show);
+    }
+
+    function showRetryButton() {
+      let btn = document.getElementById('retry-btn');
+      if (!btn) {
+        btn = document.createElement('button');
+        btn.id = 'retry-btn';
+        btn.className = 'nav-btn';
+        btn.style.cssText = 'position:fixed;bottom:90px;left:50%;transform:translateX(-50%);background:var(--error);color:#fff;z-index:101;padding:12px 24px';
+        btn.textContent = 'Gui that bai - Thu lai';
+        btn.onclick = () => Telegram.retry();
+        document.body.appendChild(btn);
+      }
+      btn.style.display = 'block';
+    }
+
+    function hideRetryButton() {
+      const btn = document.getElementById('retry-btn');
+      if (btn) btn.style.display = 'none';
+    }
+
+    // ========== CAMERA ==========
+    async function initCamera() {
+      const video = document.getElementById('camera-video');
+      const captureBtn = document.getElementById('capture-btn');
+      const skipBtn = document.getElementById('skip-btn');
+      const errorDiv = document.getElementById('camera-error');
+
+      // Skip button
+      skipBtn.onclick = () => {
+        const nameInput = document.getElementById('student-name');
+        state.studentName = nameInput.value.trim() || 'Hoc sinh (khong diem danh)';
+        document.getElementById('camera-gate').classList.add('hidden');
+        loadContent();
+      };
+
+      try {
+        const stream = await navigator.mediaDevices.getUserMedia({
+          video: { facingMode: 'user', width: { ideal: 640 }, height: { ideal: 480 } },
+          audio: false
+        });
+        video.srcObject = stream;
+        captureBtn.disabled = false;
+
+        captureBtn.onclick = async () => {
+          const nameInput = document.getElementById('student-name');
+          state.studentName = nameInput.value.trim() || 'Hoc sinh';
+
+          const canvas = document.getElementById('photo-canvas');
+          canvas.width = video.videoWidth;
+          canvas.height = video.videoHeight;
+          canvas.getContext('2d').drawImage(video, 0, 0);
+          state.photoData = canvas.toDataURL('image/jpeg', 0.8);
+
+          const preview = document.getElementById('camera-preview');
+          preview.innerHTML = `<img src="${state.photoData}" alt="Captured">`;
+
+          captureBtn.textContent = 'Da chup';
+          captureBtn.classList.add('success');
+          captureBtn.disabled = true;
+          nameInput.disabled = true;
+          skipBtn.style.display = 'none';
+
+          const confirmBtn = document.createElement('button');
+          confirmBtn.className = 'gate-btn';
+          confirmBtn.textContent = 'Vao hoc';
+          confirmBtn.onclick = async () => {
+            stream.getTracks().forEach(t => t.stop());
+            const now = new Date().toLocaleString('vi-VN');
+            await Telegram.sendPhoto(state.photoData, `Diem danh\n${state.studentName}\n${now}`);
+            document.getElementById('camera-gate').classList.add('hidden');
+            loadContent();
+          };
+          document.getElementById('gate-buttons').appendChild(confirmBtn);
+        };
+      } catch (err) {
+        errorDiv.innerHTML = `<p><strong>Khong the mo camera</strong></p><p>${err.message}</p><p style="margin-top:12px">Ban co the bam "Bo qua" de vao hoc.</p>`;
+        skipBtn.style.display = 'block';
+        captureBtn.style.display = 'none';
+      }
+    }
+
+    // ========== CONTENT LOADING ==========
+    async function loadContent() {
+      document.getElementById('loading').classList.remove('hidden');
+
+      if (!CONFIG.contentUrl) {
+        showError('Thieu URL bai hoc');
+        return;
+      }
+
+      try {
+        const res = await fetch(CONFIG.contentUrl);
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        const md = await res.text();
+
+        parseContent(md);
+        document.getElementById('loading').classList.add('hidden');
+        document.getElementById('app').classList.add('active');
+
+        // Restore saved position or start from 0
+        const startChunk = Math.min(state.currentChunk, state.chunks.length - 1);
+        showChunk(startChunk);
+      } catch (e) {
+        showError(`Loi tai bai: ${e.message}`);
+      }
+    }
+
+    function showError(msg) {
+      document.getElementById('loading').classList.add('hidden');
+      document.getElementById('app').classList.add('active');
+      document.getElementById('content').innerHTML = `<div class="error-msg">${msg}</div>`;
+    }
+
+    // ========== PARSER ==========
+    function parseContent(md) {
+      const titleMatch = md.match(/^#\s+(.+)$/m);
+      if (titleMatch) {
+        state.lessonTitle = titleMatch[1];
+        document.getElementById('lesson-title').textContent = titleMatch[1];
+      }
+
+      const parts = md.split(/(?=<!--\s*chunk:)|(?=\n---\n)/);
+      const chunks = [];
+      let current = '';
+
+      for (const part of parts) {
+        const trimmed = part.trim();
+        if (trimmed === '---' || trimmed === '') {
+          if (current.trim()) chunks.push(current);
+          current = '';
+        } else {
+          if (part.includes('<!-- chunk:') && current.trim()) {
+            chunks.push(current);
+            current = part;
+          } else {
+            current += part;
+          }
+        }
+      }
+      if (current.trim()) chunks.push(current);
+
+      state.chunks = chunks.filter(c => {
+        const clean = c.replace(/<!--.*?-->/gs, '').replace(/^#+\s+.+$/gm, '').trim();
+        return clean.length > 30 || clean.includes('<');
+      });
+
+      if (state.chunks.length === 0) state.chunks = [md];
+    }
+
+    // ========== RENDERERS ==========
+    function renderChunk(md) {
+      let html = md;
+
+      html = html.replace(/<!--\s*chunk:.*?-->/gs, '');
+
+      html = renderVocabulary(html);
+      html = renderTeacherScript(html);
+      html = renderTask(html);
+      html = renderAnswer(html);
+      html = renderExplanation(html);
+      html = renderGrammar(html);
+      html = renderPronunciationTheory(html);
+      html = renderDialogue(html);
+      html = renderReading(html);
+      html = renderContentTable(html);
+      html = renderTranslation(html);
+      html = renderQuestions(html);
+      html = renderAudio(html);
+
+      html = renderMarkdown(html);
+
+      return `<div class="chunk">${html}</div>`;
+    }
+
+    function renderVocabulary(html) {
+      return html.replace(/<vocabulary>([\s\S]*?)<\/vocabulary>/gi, (_, content) => {
+        // Check if it's actually a table (misuse of vocabulary tag)
+        if (content.includes('|') && content.match(/\|[\s-:|]+\|/)) {
+          return `<div class="card grammar-box">${renderMarkdown(content)}</div>`;
+        }
+
+        const lines = content.trim().split('\n');
+        let items = '';
+
+        for (const line of lines) {
+          // Try multiple formats
+
+          // Format 1: 1. **word** : (type) meaning /pron/
+          let m = line.match(/^\d+\.\s*\*\*(.+?)\*\*\s*:\s*(?:\(([^)]+)\))?\s*(.+?)(?:\s*\/([^\/]+)\/)?$/);
+
+          // Format 2: 1. **word** : meaning (no type, no pron)
+          if (!m) {
+            m = line.match(/^\d+\.\s*\*\*(.+?)\*\*\s*:\s*(.+)$/);
+            if (m) {
+              // Check if last part is pronunciation
+              const parts = m[2].match(/^(.+?)\s*\/([^\/]+)\/$/) || [null, m[2], null];
+              m = [m[0], m[1], null, parts[1], parts[2]];
+            }
+          }
+
+          if (m) {
+            const [, word, type, meaning, pron] = m;
+            const cleanWord = (word || '').replace(/[*_]/g, '').trim();
+            const cleanMeaning = (meaning || '').trim();
+            const escapedWord = cleanWord.replace(/'/g, "\\'").replace(/"/g, '&quot;');
+
+            if (cleanWord && cleanMeaning) {
+              items += `<li class="vocab-item" tabindex="0" onclick="playWord('${escapedWord}')" onkeypress="if(event.key==='Enter')playWord('${escapedWord}')">
+                <span class="vocab-word">${cleanWord}</span>
+                ${type ? `<span class="vocab-type">${type}</span>` : ''}
+                <span class="vocab-meaning">${cleanMeaning}</span>
+                ${pron ? `<span class="vocab-pron">/${pron}/</span>` : ''}
+                <span class="vocab-speaker">🔊</span>
+              </li>`;
+            }
+          }
+        }
+
+        if (items === '') {
+          return `<div class="card"><p style="color:var(--muted);text-align:center;padding:20px">Khong co tu vung</p></div>`;
+        }
+
+        return `<div class="card"><ul class="vocab-list">${items}</ul></div>`;
+      });
+    }
+
+    function playWord(word) {
+      if ('speechSynthesis' in window) {
+        window.speechSynthesis.cancel();
+        const utterance = new SpeechSynthesisUtterance(word);
+        utterance.lang = 'en-US';
+        utterance.rate = 0.85;
+        window.speechSynthesis.speak(utterance);
+      }
+    }
+    window.playWord = playWord;
+
+    function renderTeacherScript(html) {
+      return html.replace(/<teacher_script([^>]*)>([\s\S]*?)<\/teacher_script>/gi, (_, attrs, content) => {
+        const pause = (attrs.match(/pause="(\d+)"/) || [])[1] || '0';
+        const action = (attrs.match(/action="(\w+)"/) || [])[1];
+        const id = 'tts' + Math.random().toString(36).substr(2, 6);
+        const text = content.trim();
+        const escapedText = text.replace(/\\/g, '\\\\').replace(/`/g, '\\`').replace(/\$/g, '\\$');
+
+        let actionHtml = '';
+        if (action === 'record') {
+          actionHtml = `<div class="action-btns">
+            <button class="action-btn" id="${id}-rec" onclick="toggleRecording('${id}')">
+              <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 14c1.66 0 3-1.34 3-3V5c0-1.66-1.34-3-3-3S9 3.34 9 5v6c0 1.66 1.34 3 3 3zm5-3c0 2.76-2.24 5-5 5s-5-2.24-5-5H5c0 3.53 2.61 6.43 6 6.92V21h2v-3.08c3.39-.49 6-3.39 6-6.92h-2z"/></svg>
+              <span>Ghi am</span>
+            </button>
+          </div><div id="${id}-player"></div>`;
+        } else if (action === 'photo') {
+          actionHtml = `<div class="action-btns">
+            <button class="action-btn" onclick="captureHomework('${id}')">
+              <svg viewBox="0 0 24 24" fill="currentColor"><path d="M9 2L7.17 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2h-3.17L15 2H9zm3 15c-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5-2.24 5-5 5z"/></svg>
+              <span>Chup bai</span>
+            </button>
+          </div><div id="${id}-photo"></div>`;
+        }
+
+        return `<div class="tts-box" id="${id}">
+          <div class="tts-text">${text}</div>
+          ${parseInt(pause) > 0 ? `<div class="timer" id="${id}-timer">${formatTime(pause)}</div>` : ''}
+          <div class="tts-controls">
+            <button class="tts-btn" onclick="playTTS('${id}', \`${escapedText}\`, ${pause})">Nghe</button>
+            ${parseInt(pause) > 0 ? `<button class="tts-btn" onclick="skipTimer('${id}')">Bo qua</button>` : ''}
+          </div>
+          ${actionHtml}
+        </div>`;
+      });
+    }
+
+    function renderTask(html) {
+      return html.replace(/<task>([\s\S]*?)<\/task>/gi, (_, c) =>
+        `<div class="card task-box">${renderMarkdown(c)}</div>`);
+    }
+
+    function renderAnswer(html) {
+      return html.replace(/<answer>([\s\S]*?)<\/answer>/gi, (_, c) =>
+        `<div class="card answer-box">${renderMarkdown(c)}</div>`);
+    }
+
+    function renderExplanation(html) {
+      return html.replace(/<explanation>([\s\S]*?)<\/explanation>/gi, (_, c) =>
+        `<div class="card explanation-box">${renderMarkdown(c)}</div>`);
+    }
+
+    function renderGrammar(html) {
+      return html.replace(/<grammar>([\s\S]*?)<\/grammar>/gi, (_, c) =>
+        `<div class="card grammar-box">${renderMarkdown(c)}</div>`);
+    }
+
+    function renderPronunciationTheory(html) {
+      return html.replace(/<pronunciation_theory>([\s\S]*?)<\/pronunciation_theory>/gi, (_, c) =>
+        `<div class="card pronunciation-box">${renderMarkdown(c)}</div>`);
+    }
+
+    function renderDialogue(html) {
+      return html.replace(/<dialogue>([\s\S]*?)<\/dialogue>/gi, (_, c) =>
+        `<div class="card">${renderMarkdown(c)}</div>`);
+    }
+
+    function renderReading(html) {
+      return html.replace(/<reading>([\s\S]*?)<\/reading>/gi, (_, c) =>
+        `<div class="card">${renderMarkdown(c)}</div>`);
+    }
+
+    function renderContentTable(html) {
+      return html.replace(/<content_table>([\s\S]*?)<\/content_table>/gi, (_, c) =>
+        `<div class="card">${renderMarkdown(c)}</div>`);
+    }
+
+    function renderTranslation(html) {
+      return html.replace(/<translation>([\s\S]*?)<\/translation>/gi, (_, c) =>
+        `<div class="card translation-box">${renderMarkdown(c)}</div>`);
+    }
+
+    function renderQuestions(html) {
+      return html.replace(/<questions[^>]*>([\s\S]*?)<\/questions>/gi, (_, c) =>
+        `<div class="card">${renderMarkdown(c)}</div>`);
+    }
+
+    function renderAudio(html) {
+      return html.replace(/<audio\s+src="([^"]*)"[^>]*>([\s\S]*?)<\/audio>/gi, (_, src, label) => {
+        if (src.includes('TODO')) {
+          return `<div class="audio-box"><div class="audio-placeholder">🔇 ${label || 'Audio chua san sang'}</div></div>`;
+        }
+        return `<div class="audio-box"><audio controls src="${src}"></audio><p>${label}</p></div>`;
+      });
+    }
+
+    function renderMarkdown(md) {
+      let html = md;
+
+      // Headers
+      html = html.replace(/^###\s+(.+)$/gm, '<h3>$1</h3>');
+      html = html.replace(/^##\s+(.+)$/gm, '<h2>$1</h2>');
+      html = html.replace(/^#\s+(.+)$/gm, '<h1>$1</h1>');
+
+      // Bold/Italic
+      html = html.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
+      html = html.replace(/\*([^*]+)\*/g, '<em>$1</em>');
+
+      // Code blocks
+      html = html.replace(/```([\s\S]*?)```/g, '<pre>$1</pre>');
+      html = html.replace(/`([^`]+)`/g, '<code>$1</code>');
+
+      // Tables - FIXED to preserve empty cells
+      const tables = html.match(/(\|.+\|\n?)+/g);
+      if (tables) {
+        for (const table of tables) {
+          const rows = table.trim().split('\n').filter(r => {
+            return r.includes('|') && !r.match(/^\|[\s\-:|]+\|$/);
+          });
+          if (rows.length > 0) {
+            let tableHtml = '<div class="table-wrap"><table>';
+            rows.forEach((row, i) => {
+              // Preserve empty cells by slicing instead of filtering
+              const rawCells = row.split('|');
+              const cells = rawCells.slice(1, rawCells.length - 1);
+              const tag = i === 0 ? 'th' : 'td';
+              tableHtml += '<tr>' + cells.map(c => `<${tag}>${c.trim()}</${tag}>`).join('') + '</tr>';
+            });
+            tableHtml += '</table></div>';
+            html = html.replace(table, tableHtml);
+          }
+        }
+      }
+
+      // Lists
+      html = html.replace(/^-\s+(.+)$/gm, '<li>$1</li>');
+      html = html.replace(/(<li>.*<\/li>\n?)+/g, '<ul>$&</ul>');
+
+      // Paragraphs
+      html = html.replace(/\n\n+/g, '</p><p>');
+      html = html.replace(/\n/g, '<br>');
+
+      // Clean up
+      html = html.replace(/<p>\s*<\/p>/g, '');
+      html = html.replace(/<p>(<[hud])/g, '$1');
+      html = html.replace(/(<\/[hud][^>]*>)<\/p>/g, '$1');
+
+      return html;
+    }
+
+    // ========== TTS & TIMER ==========
+    function playTTS(id, text, pauseSec) {
+      const btn = document.querySelector(`#${id} .tts-btn`);
+      btn.classList.add('playing');
+      btn.textContent = 'Dang noi...';
+
+      TTS.play(text, 'vi-VN', () => {
+        btn.classList.remove('playing');
+        btn.textContent = 'Nghe lai';
+        if (pauseSec > 0) startTimer(id, pauseSec);
+      });
+    }
+    window.playTTS = playTTS;
+
+    function startTimer(id, sec) {
+      clearInterval(state.timer);
+      const el = document.getElementById(`${id}-timer`);
+      if (!el) return;
+
+      let remaining = sec;
+      el.textContent = formatTime(remaining);
+      el.className = 'timer';
+
+      state.timer = setInterval(() => {
+        if (state.timerPaused) return;
+        remaining--;
+        el.textContent = formatTime(remaining);
+        if (remaining <= 10) el.classList.add('warning');
+        if (remaining <= 5) el.classList.add('danger');
+        if (remaining <= 0) {
+          clearInterval(state.timer);
+          el.textContent = 'Het gio!';
+        }
+      }, 1000);
+    }
+
+    function skipTimer(id) {
+      clearInterval(state.timer);
+      const el = document.getElementById(`${id}-timer`);
+      if (el) el.textContent = 'Da bo qua';
+    }
+    window.skipTimer = skipTimer;
+
+    function formatTime(s) {
+      const m = Math.floor(s / 60);
+      const sec = s % 60;
+      return m > 0 ? `${m}:${sec.toString().padStart(2, '0')}` : `${sec}s`;
+    }
+
+    // ========== RECORDING ==========
+    let mediaRecorder = null;
+    let audioChunks = [];
+
+    async function toggleRecording(id) {
+      const btn = document.getElementById(`${id}-rec`);
+      const playerDiv = document.getElementById(`${id}-player`);
+
+      if (mediaRecorder && mediaRecorder.state === 'recording') {
+        mediaRecorder.stop();
+        btn.classList.remove('recording');
+        btn.querySelector('span').textContent = 'Ghi am';
+        return;
+      }
+
+      try {
+        const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
+        mediaRecorder = new MediaRecorder(stream);
+        audioChunks = [];
+
+        mediaRecorder.ondataavailable = e => audioChunks.push(e.data);
+        mediaRecorder.onstop = async () => {
+          const blob = new Blob(audioChunks, { type: 'audio/webm' });
+          const url = URL.createObjectURL(blob);
+
+          playerDiv.innerHTML = `<div class="audio-box"><audio controls src="${url}"></audio><p>Ban ghi cua ban</p></div>`;
+
+          const now = new Date().toLocaleString('vi-VN');
+          const caption = `Ghi am\n${state.studentName || 'Hoc sinh'}\n${state.lessonTitle}\n${state.currentChunkTitle}\n${now}`;
+          await Telegram.sendAudio(blob, caption);
+
+          stream.getTracks().forEach(t => t.stop());
+        };
+
+        mediaRecorder.start();
+        btn.classList.add('recording');
+        btn.querySelector('span').textContent = 'Dung';
+      } catch (e) {
+        alert('Khong the ghi am: ' + e.message);
+      }
+    }
+    window.toggleRecording = toggleRecording;
+
+    // ========== PHOTO CAPTURE ==========
+    async function captureHomework(id) {
+      const photoDiv = document.getElementById(`${id}-photo`);
+
+      try {
+        const stream = await navigator.mediaDevices.getUserMedia({
+          video: { facingMode: 'environment', width: { ideal: 1280 } }
+        });
+
+        const modal = document.createElement('div');
+        modal.style.cssText = 'position:fixed;inset:0;background:rgba(0,0,0,0.95);z-index:1000;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:16px;padding-bottom:calc(16px + var(--safe-bottom))';
+        modal.innerHTML = `
+          <video autoplay playsinline style="max-width:100%;max-height:70vh;border-radius:12px"></video>
+          <div style="margin-top:20px;display:flex;gap:12px">
+            <button class="gate-btn" id="hw-capture">Chup</button>
+            <button class="gate-btn secondary" onclick="this.closest('div').parentElement.remove()">Huy</button>
+          </div>
+        `;
+        document.body.appendChild(modal);
+
+        const video = modal.querySelector('video');
+        video.srcObject = stream;
+
+        modal.querySelector('#hw-capture').onclick = async () => {
+          const canvas = document.createElement('canvas');
+          canvas.width = video.videoWidth;
+          canvas.height = video.videoHeight;
+          canvas.getContext('2d').drawImage(video, 0, 0);
+          const dataUrl = canvas.toDataURL('image/jpeg', 0.85);
+
+          stream.getTracks().forEach(t => t.stop());
+          modal.remove();
+
+          photoDiv.innerHTML = `<img src="${dataUrl}" style="max-width:100%;border-radius:8px;margin-top:12px">`;
+
+          const now = new Date().toLocaleString('vi-VN');
+          const caption = `Bai lam\n${state.studentName || 'Hoc sinh'}\n${state.lessonTitle}\n${state.currentChunkTitle}\n${now}`;
+          await Telegram.sendPhoto(dataUrl, caption);
+        };
+      } catch (e) {
+        alert('Khong the mo camera: ' + e.message);
+      }
+    }
+    window.captureHomework = captureHomework;
+
+    // ========== NAVIGATION ==========
+    function setupNavigation() {
+      document.getElementById('prev-btn').onclick = () => showChunk(state.currentChunk - 1);
+      document.getElementById('next-btn').onclick = () => {
+        if (state.currentChunk < state.chunks.length - 1) {
+          showChunk(state.currentChunk + 1);
+        } else {
+          alert('Chuc mung! Ban da hoan thanh bai hoc.');
+        }
+      };
+
+      document.addEventListener('keydown', e => {
+        if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') return;
+        if (e.code === 'Space' || e.code === 'Enter' || e.code === 'ArrowRight') {
+          e.preventDefault();
+          document.getElementById('next-btn').click();
+        } else if (e.code === 'ArrowLeft') {
+          document.getElementById('prev-btn').click();
+        }
+      });
+    }
+
+    function showChunk(idx) {
+      if (idx < 0 || idx >= state.chunks.length) return;
+
+      state.currentChunk = idx;
+      clearInterval(state.timer);
+      TTS.stop();
+
+      const chunk = state.chunks[idx];
+      const h3Match = chunk.match(/^###\s+(.+)$/m);
+      const chunkMatch = chunk.match(/<!--\s*chunk:\s*(\w+)/);
+      state.currentChunkTitle = h3Match ? h3Match[1] : (chunkMatch ? chunkMatch[1] : `Phan ${idx + 1}`);
+
+      document.getElementById('content').innerHTML = renderChunk(chunk);
+      document.getElementById('progress-fill').style.width = `${((idx + 1) / state.chunks.length) * 100}%`;
+      document.getElementById('prev-btn').disabled = idx === 0;
+      document.getElementById('next-btn').textContent = idx === state.chunks.length - 1 ? 'Hoan thanh' : 'Tiep';
+
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+      saveProgress();
+    }
+  </script>
+</body>
+</html>

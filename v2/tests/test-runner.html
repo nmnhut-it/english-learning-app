@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Parser Test Runner</title>
+  <style>
+    :root {
+      --pass: #10b981;
+      --fail: #ef4444;
+      --skip: #f59e0b;
+      --bg: #0f172a;
+      --card: #1e293b;
+      --text: #e2e8f0;
+      --muted: #94a3b8;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: 'SF Mono', Monaco, 'Courier New', monospace; background: var(--bg); color: var(--text); padding: 20px; line-height: 1.5; }
+    h1 { margin-bottom: 20px; font-size: 1.5rem; }
+    .summary { background: var(--card); padding: 20px; border-radius: 8px; margin-bottom: 20px; display: flex; gap: 20px; flex-wrap: wrap; }
+    .stat { font-size: 2rem; font-weight: bold; }
+    .stat span { display: block; font-size: 0.8rem; font-weight: normal; color: var(--muted); }
+    .stat.pass { color: var(--pass); }
+    .stat.fail { color: var(--fail); }
+    .stat.skip { color: var(--skip); }
+    .suite { background: var(--card); padding: 16px; border-radius: 8px; margin-bottom: 12px; }
+    .suite-name { font-size: 1.1rem; margin-bottom: 12px; color: #60a5fa; }
+    .test { padding: 8px 12px; margin: 4px 0; border-radius: 4px; display: flex; align-items: center; gap: 12px; }
+    .test.pass { background: rgba(16, 185, 129, 0.1); }
+    .test.fail { background: rgba(239, 68, 68, 0.1); }
+    .test.skip { background: rgba(245, 158, 11, 0.1); }
+    .icon { width: 20px; text-align: center; }
+    .test.pass .icon { color: var(--pass); }
+    .test.fail .icon { color: var(--fail); }
+    .test.skip .icon { color: var(--skip); }
+    .test-name { flex: 1; }
+    .error { color: var(--fail); font-size: 0.85rem; margin-top: 8px; padding: 8px; background: rgba(239, 68, 68, 0.1); border-radius: 4px; white-space: pre-wrap; }
+    .actions { margin-bottom: 20px; }
+    button { background: #3b82f6; color: white; border: none; padding: 12px 24px; border-radius: 8px; font-size: 1rem; cursor: pointer; margin-right: 10px; }
+    button:hover { background: #2563eb; }
+    .loading { text-align: center; padding: 40px; color: var(--muted); }
+    #output { background: var(--card); padding: 16px; border-radius: 8px; white-space: pre-wrap; font-size: 0.85rem; max-height: 400px; overflow-y: auto; display: none; }
+    #output.visible { display: block; }
+  </style>
+</head>
+<body>
+  <h1>Voice Lecture Parser Tests</h1>
+
+  <div class="actions">
+    <button onclick="runTests()">Run All Tests</button>
+    <button onclick="toggleOutput()">Toggle Console</button>
+  </div>
+
+  <div class="summary" id="summary">
+    <div class="stat pass"><span>Passed</span><span id="passed">-</span></div>
+    <div class="stat fail"><span>Failed</span><span id="failed">-</span></div>
+    <div class="stat skip"><span>Skipped</span><span id="skipped">-</span></div>
+    <div class="stat"><span>Total</span><span id="total">-</span></div>
+  </div>
+
+  <div id="results"><div class="loading">Click "Run All Tests" to start</div></div>
+
+  <pre id="output"></pre>
+
+  <script>
+    // ============ PARSER FUNCTIONS ============
+
+    function renderVocabulary(html) {
+      return html.replace(/<vocabulary>([\s\S]*?)<\/vocabulary>/gi, (_, content) => {
+        if (content.includes('|') && content.match(/\|[\s-:|]+\|/)) {
+          return `<div class="card grammar-box">${renderMarkdown(content)}</div>`;
+        }
+
+        const lines = content.trim().split('\n');
+        let items = '';
+
+        for (const line of lines) {
+          let m = line.match(/^\d+\.\s*\*\*(.+?)\*\*\s*:\s*(?:\(([^)]+)\))?\s*(.+?)(?:\s*\/([^\/]+)\/)?$/);
+
+          if (!m) {
+            m = line.match(/^\d+\.\s*\*\*(.+?)\*\*\s*:\s*(.+)$/);
+            if (m) {
+              const parts = m[2].match(/^(.+?)\s*\/([^\/]+)\/$/) || [null, m[2], null];
+              m = [m[0], m[1], null, parts[1], parts[2]];
+            }
+          }
+
+          if (m) {
+            const [, word, type, meaning, pron] = m;
+            const cleanWord = (word || '').replace(/[*_]/g, '').trim();
+            const cleanMeaning = (meaning || '').trim();
+            const escapedWord = cleanWord.replace(/'/g, "\\'").replace(/"/g, '&quot;');
+
+            if (cleanWord && cleanMeaning) {
+              items += `<li class="vocab-item" onclick="playWord('${escapedWord}')">
+                <span class="vocab-word">${cleanWord}</span>
+                ${type ? `<span class="vocab-type">${type}</span>` : ''}
+                <span class="vocab-meaning">${cleanMeaning}</span>
+                ${pron ? `<span class="vocab-pron">/${pron}/</span>` : ''}
+              </li>`;
+            }
+          }
+        }
+
+        if (items === '') {
+          return `<div class="card"><p>No vocabulary items found</p></div>`;
+        }
+
+        return `<div class="card"><ul class="vocab-list">${items}</ul></div>`;
+      });
+    }
+
+    function renderMarkdown(md) {
+      let html = md;
+      html = html.replace(/^###\s+(.+)$/gm, '<h3>$1</h3>');
+      html = html.replace(/^##\s+(.+)$/gm, '<h2>$1</h2>');
+      html = html.replace(/^#\s+(.+)$/gm, '<h1>$1</h1>');
+      html = html.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
+      html = html.replace(/\*([^*]+)\*/g, '<em>$1</em>');
+      html = html.replace(/```([\s\S]*?)```/g, '<pre>$1</pre>');
+      html = html.replace(/`([^`]+)`/g, '<code>$1</code>');
+
+      const tables = html.match(/(\|.+\|\n?)+/g);
+      if (tables) {
+        for (const table of tables) {
+          const rows = table.trim().split('\n').filter(r => r.includes('|') && !r.match(/^\|[\s\-:|]+\|$/));
+          if (rows.length > 0) {
+            let tableHtml = '<div class="table-wrap"><table>';
+            rows.forEach((row, i) => {
+              const rawCells = row.split('|');
+              const cells = rawCells.slice(1, rawCells.length - 1);
+              const tag = i === 0 ? 'th' : 'td';
+              tableHtml += '<tr>' + cells.map(c => `<${tag}>${c.trim()}</${tag}>`).join('') + '</tr>';
+            });
+            tableHtml += '</table></div>';
+            html = html.replace(table, tableHtml);
+          }
+        }
+      }
+
+      html = html.replace(/^-\s+(.+)$/gm, '<li>$1</li>');
+      html = html.replace(/(<li>.*<\/li>\n?)+/g, '<ul>$&</ul>');
+      html = html.replace(/\n\n+/g, '</p><p>');
+      html = html.replace(/\n/g, '<br>');
+      html = html.replace(/<p>\s*<\/p>/g, '');
+      html = html.replace(/<p>(<[hud])/g, '$1');
+      html = html.replace(/(<\/[hud][^>]*>)<\/p>/g, '$1');
+
+      return html;
+    }
+
+    function renderTeacherScript(html) {
+      return html.replace(/<teacher_script([^>]*)>([\s\S]*?)<\/teacher_script>/gi, (_, attrs, content) => {
+        const pause = (attrs.match(/pause="(\d+)"/) || [])[1] || '0';
+        const action = (attrs.match(/action="(\w+)"/) || [])[1];
+        const id = 'tts' + Math.random().toString(36).substr(2, 6);
+        const text = content.trim();
+
+        let actionHtml = '';
+        if (action === 'record') actionHtml = `<div class="action-btns"><button class="action-btn">Ghi am</button></div>`;
+        else if (action === 'photo') actionHtml = `<div class="action-btns"><button class="action-btn">Chup bai</button></div>`;
+
+        const formatTime = (s) => {
+          const m = Math.floor(s / 60);
+          const sec = s % 60;
+          return m > 0 ? `${m}:${sec.toString().padStart(2, '0')}` : `${sec}s`;
+        };
+
+        return `<div class="tts-box" id="${id}">
+          <div class="tts-text">${text}</div>
+          ${parseInt(pause) > 0 ? `<div class="timer">${formatTime(pause)}</div>` : ''}
+          <div class="tts-controls">
+            <button class="tts-btn">Nghe</button>
+            ${parseInt(pause) > 0 ? `<button class="tts-btn">Bo qua</button>` : ''}
+          </div>
+          ${actionHtml}
+        </div>`;
+      });
+    }
+
+    function renderTask(html) {
+      return html.replace(/<task>([\s\S]*?)<\/task>/gi, (_, c) => `<div class="card task-box">${renderMarkdown(c)}</div>`);
+    }
+
+    function renderAnswer(html) {
+      return html.replace(/<answer>([\s\S]*?)<\/answer>/gi, (_, c) => `<div class="card answer-box">${renderMarkdown(c)}</div>`);
+    }
+
+    function renderGrammar(html) {
+      return html.replace(/<grammar>([\s\S]*?)<\/grammar>/gi, (_, c) => `<div class="card grammar-box">${renderMarkdown(c)}</div>`);
+    }
+
+    // ============ TEST FRAMEWORK ============
+
+    const results = { passed: 0, failed: 0, skipped: 0, tests: [] };
+    const output = [];
+
+    function log(...args) {
+      output.push(args.join(' '));
+      console.log(...args);
+    }
+
+    function assert(condition, message = 'Assertion failed') {
+      if (!condition) throw new Error(message);
+    }
+
+    function assertEqual(actual, expected, message = '') {
+      if (actual !== expected) throw new Error(`${message}\nExpected: ${JSON.stringify(expected)}\nActual: ${JSON.stringify(actual)}`);
+    }
+
+    function assertContains(str, substring, message = '') {
+      if (!str.includes(substring)) throw new Error(`${message}\nExpected to contain: "${substring}"\nIn: "${str.substring(0, 200)}..."`);
+    }
+
+    function assertNotContains(str, substring, message = '') {
+      if (str.includes(substring)) throw new Error(`${message}\nExpected NOT to contain: "${substring}"`);
+    }
+
+    // ============ TEST MATRICES ============
+
+    const VOCABULARY_TESTS = [
+      { name: 'Standard format', input: '1. **word** : (n) meaning /pron/', expect: { word: 'word', type: 'n', meaning: 'meaning', pron: 'pron' } },
+      { name: 'Without type', input: '1. **hello** : xin chao /həˈloʊ/', expect: { word: 'hello', meaning: 'xin chao', pron: 'həˈloʊ' } },
+      { name: 'Without pronunciation', input: '1. **The Voice Kids** : Giong hat Viet nhi', expect: { word: 'The Voice Kids', meaning: 'Giong hat Viet nhi' } },
+      { name: 'Without type and pronunciation', input: '1. **test** : meaning only', expect: { word: 'test', meaning: 'meaning only' } },
+      { name: 'Phrase with spaces', input: '1. **make people laugh** : lam cho moi nguoi cuoi', expect: { word: 'make people laugh' } },
+      { name: 'Verb with conjugations', input: '1. **happen - happened - happened** : (v) xay ra /ˈhæpən/', expect: { word: 'happen - happened - happened', type: 'v' } },
+      { name: 'Multiple items', input: '1. **word1** : meaning1\n2. **word2** : meaning2', expectCount: 2 },
+      { name: 'Empty vocabulary', input: '', expectEmpty: true }
+    ];
+
+    const TABLE_TESTS = [
+      { name: '2-column table', input: '| A | B |\n|---|---|\n| 1 | 2 |', expectCols: 2, expectRows: 2 },
+      { name: 'Table with empty cells', input: '| | A | | B |\n|---|---|---|---|\n| 1 | X | a | Y |', expectCols: 4 },
+      { name: 'Table with bold', input: '| **Header** | Normal |\n|---|---|\n| text | text |', expectContains: '<strong>Header</strong>' },
+      { name: 'Vietnamese table', input: '| Tieng Anh | Tieng Viet |\n|---|---|\n| hello | xin chao |', expectContains: 'xin chao' }
+    ];
+
+    const TEACHER_SCRIPT_TESTS = [
+      { name: 'Basic script', input: '<teacher_script pause="0">Hello</teacher_script>', expectContains: ['tts-box', 'Hello'] },
+      { name: 'Script with pause', input: '<teacher_script pause="60">Wait</teacher_script>', expectContains: ['timer', '1:00'] },
+      { name: 'Record action', input: '<teacher_script pause="0" action="record">Record</teacher_script>', expectContains: 'Ghi am' },
+      { name: 'Photo action', input: '<teacher_script pause="0" action="photo">Photo</teacher_script>', expectContains: 'Chup bai' }
+    ];
+
+    const MARKDOWN_TESTS = [
+      { name: 'H1', input: '# Title', expect: '<h1>Title</h1>' },
+      { name: 'H2', input: '## Title', expect: '<h2>Title</h2>' },
+      { name: 'H3', input: '### Title', expect: '<h3>Title</h3>' },
+      { name: 'Bold', input: '**bold**', expect: '<strong>bold</strong>' },
+      { name: 'Italic', input: '*italic*', expect: '<em>italic</em>' },
+      { name: 'Code', input: '`code`', expect: '<code>code</code>' },
+      { name: 'List', input: '- item', expect: '<li>item</li>' }
+    ];
+
+    const COMBO_TESTS = [
+      { name: 'Grammar with table', input: '<grammar>\n| A | B |\n|---|---|\n| 1 | 2 |\n</grammar>', expectContains: ['grammar-box', '<table>'] },
+      { name: 'Task with bold', input: '<task>**Important**</task>', expectContains: ['task-box', '<strong>'] },
+      { name: 'Table in vocabulary (misuse)', input: '<vocabulary>\n| A | B |\n|---|---|\n| 1 | 2 |\n</vocabulary>', expectContains: 'grammar-box' }
+    ];
+
+    // ============ TEST RUNNER ============
+
+    function runTests() {
+      results.passed = 0;
+      results.failed = 0;
+      results.skipped = 0;
+      results.tests = [];
+      output.length = 0;
+
+      const suites = [
+        { name: 'Vocabulary Parser', tests: VOCABULARY_TESTS, runner: runVocabTest },
+        { name: 'Table Renderer', tests: TABLE_TESTS, runner: runTableTest },
+        { name: 'Teacher Script', tests: TEACHER_SCRIPT_TESTS, runner: runTSTest },
+        { name: 'Markdown', tests: MARKDOWN_TESTS, runner: runMDTest },
+        { name: 'Combinations', tests: COMBO_TESTS, runner: runComboTest }
+      ];
+
+      let html = '';
+
+      for (const suite of suites) {
+        log(`\n📦 ${suite.name}`);
+        html += `<div class="suite"><div class="suite-name">${suite.name}</div>`;
+
+        for (const test of suite.tests) {
+          try {
+            suite.runner(test);
+            results.passed++;
+            results.tests.push({ suite: suite.name, name: test.name, passed: true });
+            log(`  ✅ ${test.name}`);
+            html += `<div class="test pass"><span class="icon">✓</span><span class="test-name">${test.name}</span></div>`;
+          } catch (e) {
+            results.failed++;
+            results.tests.push({ suite: suite.name, name: test.name, passed: false, error: e.message });
+            log(`  ❌ ${test.name}: ${e.message}`);
+            html += `<div class="test fail"><span class="icon">✗</span><span class="test-name">${test.name}</span><div class="error">${escapeHtml(e.message)}</div></div>`;
+          }
+        }
+
+        html += '</div>';
+      }
+
+      document.getElementById('results').innerHTML = html;
+      document.getElementById('passed').textContent = results.passed;
+      document.getElementById('failed').textContent = results.failed;
+      document.getElementById('skipped').textContent = results.skipped;
+      document.getElementById('total').textContent = results.passed + results.failed + results.skipped;
+      document.getElementById('output').textContent = output.join('\n');
+    }
+
+    function runVocabTest(test) {
+      const input = `<vocabulary>\n${test.input}\n</vocabulary>`;
+      const out = renderVocabulary(input);
+
+      if (test.expectEmpty) { assertContains(out, 'No vocabulary items found'); return; }
+      if (test.expectCount) { const m = out.match(/vocab-item/g) || []; assertEqual(m.length, test.expectCount, 'Count'); return; }
+      if (test.expect) {
+        if (test.expect.word) assertContains(out, test.expect.word);
+        if (test.expect.meaning) assertContains(out, test.expect.meaning);
+        if (test.expect.type) assertContains(out, test.expect.type);
+        if (test.expect.pron) assertContains(out, test.expect.pron);
+      }
+    }
+
+    function runTableTest(test) {
+      const out = renderMarkdown(test.input);
+      if (test.expectCols) { const m = out.match(/<th>/g) || []; assertEqual(m.length, test.expectCols, 'Cols'); }
+      if (test.expectRows) { const m = out.match(/<tr>/g) || []; assertEqual(m.length, test.expectRows, 'Rows'); }
+      if (test.expectContains) assertContains(out, test.expectContains);
+    }
+
+    function runTSTest(test) {
+      const out = renderTeacherScript(test.input);
+      if (Array.isArray(test.expectContains)) {
+        for (const s of test.expectContains) assertContains(out, s);
+      } else assertContains(out, test.expectContains);
+    }
+
+    function runMDTest(test) {
+      const out = renderMarkdown(test.input);
+      assertContains(out, test.expect);
+    }
+
+    function runComboTest(test) {
+      let out = test.input;
+      out = renderVocabulary(out);
+      out = renderTeacherScript(out);
+      out = renderTask(out);
+      out = renderAnswer(out);
+      out = renderGrammar(out);
+      out = renderMarkdown(out);
+
+      if (Array.isArray(test.expectContains)) {
+        for (const s of test.expectContains) assertContains(out, s);
+      } else assertContains(out, test.expectContains);
+    }
+
+    function escapeHtml(str) {
+      return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+    }
+
+    function toggleOutput() {
+      document.getElementById('output').classList.toggle('visible');
+    }
+
+    // Auto-run on load
+    window.onload = runTests;
+  </script>
+</body>
+</html>

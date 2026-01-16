@@ -1,0 +1,999 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>Full Integration Test - Voice Lecture Viewer</title>
+  <style>
+    :root {
+      --primary: #2563eb;
+      --primary-light: #3b82f6;
+      --success: #10b981;
+      --error: #ef4444;
+      --warning: #f59e0b;
+      --bg: #f8fafc;
+      --card: #fff;
+      --text: #1e293b;
+      --muted: #64748b;
+      --border: #e2e8f0;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      font-size: 16px;
+    }
+
+    /* Mobile-first layout */
+    .container { max-width: 100%; padding: 0; }
+    @media (min-width: 768px) {
+      .container { max-width: 800px; margin: 0 auto; padding: 0 20px; }
+    }
+
+    /* Header - fixed, mobile-friendly */
+    header {
+      background: linear-gradient(135deg, var(--primary) 0%, var(--primary-light) 100%);
+      color: #fff;
+      padding: 16px 20px;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    }
+    header h1 { font-size: 1.1rem; font-weight: 600; }
+    header p { font-size: 0.85rem; opacity: 0.9; margin-top: 4px; }
+
+    /* File selector */
+    .file-selector {
+      background: var(--card);
+      padding: 16px 20px;
+      border-bottom: 1px solid var(--border);
+    }
+    .file-selector label { font-weight: 600; display: block; margin-bottom: 8px; }
+    .file-selector select {
+      width: 100%;
+      padding: 12px 16px;
+      border: 2px solid var(--border);
+      border-radius: 8px;
+      font-size: 16px;
+      background: #fff;
+      -webkit-appearance: none;
+    }
+    .file-selector select:focus { border-color: var(--primary); outline: none; }
+
+    /* Test summary */
+    .test-summary {
+      background: var(--card);
+      padding: 16px 20px;
+      border-bottom: 1px solid var(--border);
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+    .stat {
+      padding: 8px 16px;
+      border-radius: 20px;
+      font-size: 0.85rem;
+      font-weight: 600;
+    }
+    .stat.total { background: #e0e7ff; color: #3730a3; }
+    .stat.pass { background: #dcfce7; color: #166534; }
+    .stat.fail { background: #fee2e2; color: #991b1b; }
+    .stat.warn { background: #fef3c7; color: #92400e; }
+
+    /* Tab navigation */
+    .tabs {
+      display: flex;
+      background: var(--card);
+      border-bottom: 1px solid var(--border);
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+    }
+    .tab {
+      flex: 1;
+      min-width: 100px;
+      padding: 14px 12px;
+      border: none;
+      background: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      color: var(--muted);
+      cursor: pointer;
+      border-bottom: 3px solid transparent;
+      white-space: nowrap;
+    }
+    .tab.active { color: var(--primary); border-bottom-color: var(--primary); }
+    .tab:hover { background: #f1f5f9; }
+
+    /* Tab content */
+    .tab-content { display: none; padding: 20px; }
+    .tab-content.active { display: block; }
+
+    /* Rendered preview */
+    #preview-content {
+      min-height: 300px;
+      padding: 16px;
+    }
+
+    /* Test results */
+    .test-item {
+      background: var(--card);
+      border-radius: 12px;
+      margin: 12px 0;
+      overflow: hidden;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+    }
+    .test-header {
+      padding: 14px 16px;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      cursor: pointer;
+      border-bottom: 1px solid var(--border);
+    }
+    .test-header:hover { background: #f1f5f9; }
+    .test-icon {
+      width: 24px;
+      height: 24px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 12px;
+      flex-shrink: 0;
+    }
+    .test-icon.pass { background: var(--success); color: #fff; }
+    .test-icon.fail { background: var(--error); color: #fff; }
+    .test-icon.warn { background: var(--warning); color: #fff; }
+    .test-name { flex: 1; font-weight: 500; }
+    .test-details {
+      padding: 0 16px 16px;
+      display: none;
+    }
+    .test-item.expanded .test-details { display: block; }
+    .test-input, .test-output {
+      background: #1e293b;
+      color: #e2e8f0;
+      padding: 12px;
+      border-radius: 8px;
+      font-family: 'SF Mono', Monaco, monospace;
+      font-size: 12px;
+      overflow-x: auto;
+      margin: 8px 0;
+      white-space: pre-wrap;
+      word-break: break-word;
+    }
+    .test-output.html-preview {
+      background: var(--card);
+      color: var(--text);
+      border: 1px solid var(--border);
+    }
+
+    /* Issue list */
+    .issue-item {
+      background: #fef3c7;
+      border-left: 4px solid var(--warning);
+      padding: 12px 16px;
+      margin: 12px 0;
+      border-radius: 0 8px 8px 0;
+    }
+    .issue-item h4 { color: #92400e; margin-bottom: 4px; }
+    .issue-item p { color: #78350f; font-size: 0.9rem; }
+
+    /* ============ COPIED STYLES FROM voice-lecture-viewer.html ============ */
+    /* These need to match EXACTLY for accurate testing */
+
+    .card {
+      background: var(--card);
+      border-radius: 12px;
+      padding: 16px;
+      margin: 12px 0;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+    }
+
+    /* Vocabulary - IMPROVED for mobile */
+    .vocab-list { list-style: none; }
+    .vocab-item {
+      padding: 14px 12px;
+      border-bottom: 1px solid var(--border);
+      cursor: pointer;
+      display: flex;
+      flex-wrap: wrap;
+      align-items: baseline;
+      gap: 8px;
+      min-height: 48px; /* Touch target */
+      transition: background 0.15s;
+    }
+    .vocab-item:hover, .vocab-item:active { background: #f1f5f9; }
+    .vocab-item:last-child { border-bottom: none; }
+    .vocab-word {
+      font-weight: 600;
+      color: var(--primary);
+      font-size: 1.05rem;
+    }
+    .vocab-type {
+      color: var(--muted);
+      font-size: 0.8rem;
+      background: #f1f5f9;
+      padding: 2px 6px;
+      border-radius: 4px;
+    }
+    .vocab-meaning {
+      color: var(--text);
+      flex: 1 1 100%; /* Full width on mobile */
+      margin-top: 4px;
+    }
+    @media (min-width: 480px) {
+      .vocab-meaning { flex: 1; margin-top: 0; }
+    }
+    .vocab-pron {
+      color: var(--muted);
+      font-size: 0.85rem;
+      font-style: italic;
+      background: #fef3c7;
+      padding: 2px 8px;
+      border-radius: 4px;
+    }
+    .vocab-item::after {
+      content: '🔊';
+      font-size: 1rem;
+      opacity: 0.6;
+      margin-left: auto;
+    }
+
+    /* Tables - IMPROVED for mobile */
+    .table-wrap {
+      overflow-x: auto;
+      margin: 12px 0;
+      -webkit-overflow-scrolling: touch;
+      border-radius: 8px;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      min-width: 300px;
+    }
+    th, td {
+      padding: 12px;
+      border: 1px solid var(--border);
+      text-align: left;
+      vertical-align: top;
+    }
+    th {
+      background: linear-gradient(to bottom, #f8fafc, #f1f5f9);
+      font-weight: 600;
+      position: sticky;
+      top: 0;
+    }
+    tr:nth-child(even) { background: #fafafa; }
+    tr:hover { background: #f1f5f9; }
+
+    /* Box styles - IMPROVED */
+    .task-box { background: #eff6ff; border-left: 4px solid var(--primary); }
+    .answer-box { background: #f0fdf4; border-left: 4px solid var(--success); }
+    .explanation-box { background: #fefce8; border-left: 4px solid var(--warning); }
+    .grammar-box { background: #faf5ff; border-left: 4px solid #8b5cf6; }
+    .translation-box { background: #ecfeff; border-left: 4px solid #06b6d4; font-style: italic; }
+    .pronunciation-box { background: #fff7ed; border-left: 4px solid #f97316; }
+    .pronunciation-box pre {
+      background: #1e293b;
+      color: #e2e8f0;
+      padding: 12px;
+      border-radius: 8px;
+      overflow-x: auto;
+      font-size: 0.8rem;
+      white-space: pre-wrap;
+    }
+
+    /* TTS Container - IMPROVED for mobile */
+    .tts-box {
+      background: linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%);
+      color: #fff;
+      padding: 20px;
+      border-radius: 12px;
+      margin: 16px 0;
+    }
+    .tts-text {
+      font-size: 1.05rem;
+      line-height: 1.8;
+      margin-bottom: 16px;
+    }
+    .tts-controls {
+      display: flex;
+      gap: 10px;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+    .tts-btn {
+      background: rgba(255,255,255,0.2);
+      border: none;
+      color: #fff;
+      padding: 14px 24px; /* Larger touch target */
+      border-radius: 50px;
+      font-size: 1rem;
+      cursor: pointer;
+      min-width: 120px;
+    }
+    .tts-btn:hover, .tts-btn:active { background: rgba(255,255,255,0.3); }
+    .timer { font-size: 1.8rem; font-weight: bold; text-align: center; margin: 12px 0; }
+
+    /* Action buttons - IMPROVED for mobile */
+    .action-btns { display: flex; gap: 12px; margin: 16px 0; flex-wrap: wrap; }
+    .action-btn {
+      flex: 1;
+      min-width: 140px;
+      padding: 16px;
+      border: 2px solid var(--border);
+      border-radius: 12px;
+      background: var(--card);
+      font-size: 1rem;
+      cursor: pointer;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 8px;
+      transition: all 0.15s;
+    }
+    .action-btn:hover, .action-btn:active {
+      border-color: var(--primary);
+      background: #eff6ff;
+    }
+
+    /* Questions */
+    .question-item { padding: 14px 0; border-bottom: 1px solid var(--border); }
+    .question-item:last-child { border-bottom: none; }
+    .q-text { font-weight: 500; margin-bottom: 10px; }
+    .q-options { margin-left: 8px; }
+    .q-option {
+      padding: 12px 16px;
+      margin: 6px 0;
+      border-radius: 8px;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      border: 1px solid var(--border);
+      transition: all 0.15s;
+    }
+    .q-option:hover, .q-option:active {
+      background: #f1f5f9;
+      border-color: var(--primary);
+    }
+    .q-translation {
+      color: var(--muted);
+      font-style: italic;
+      font-size: 0.9rem;
+      margin-top: 6px;
+      padding-left: 8px;
+      border-left: 2px solid var(--border);
+    }
+
+    /* Audio box */
+    .audio-box {
+      background: #1e293b;
+      padding: 16px;
+      border-radius: 12px;
+      margin: 12px 0;
+    }
+    .audio-box audio { width: 100%; }
+    .audio-box p { color: #94a3b8; font-size: 0.9rem; margin-top: 8px; }
+    .audio-placeholder {
+      background: #374151;
+      color: #9ca3af;
+      padding: 20px;
+      border-radius: 8px;
+      text-align: center;
+    }
+
+    /* Raw source view */
+    #raw-source {
+      background: #1e293b;
+      color: #e2e8f0;
+      padding: 16px;
+      border-radius: 8px;
+      font-family: 'SF Mono', Monaco, monospace;
+      font-size: 12px;
+      white-space: pre-wrap;
+      overflow-x: auto;
+      max-height: 600px;
+      overflow-y: auto;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Voice Lecture Parser Test</h1>
+    <p>Test rendering with actual markdown files</p>
+  </header>
+
+  <div class="container">
+    <div class="file-selector">
+      <label for="file-select">Select Markdown File:</label>
+      <select id="file-select">
+        <option value="">-- Choose a file --</option>
+        <option value="g6/unit-07/getting-started.md">G6 Unit 7 - Getting Started</option>
+        <option value="g6/unit-07/a-closer-look-1.md">G6 Unit 7 - A Closer Look 1</option>
+        <option value="g6/unit-07/a-closer-look-2.md">G6 Unit 7 - A Closer Look 2</option>
+        <option value="g6/unit-07/communication.md">G6 Unit 7 - Communication</option>
+        <option value="g6/unit-07/skills-1.md">G6 Unit 7 - Skills 1</option>
+        <option value="g6/unit-07/skills-2.md">G6 Unit 7 - Skills 2</option>
+        <option value="g6/unit-07/looking-back.md">G6 Unit 7 - Looking Back</option>
+        <option value="g7/unit-07/getting-started.md">G7 Unit 7 - Getting Started</option>
+        <option value="g8/unit-07/getting-started.md">G8 Unit 7 - Getting Started</option>
+        <option value="g9/unit-07/getting-started.md">G9 Unit 7 - Getting Started</option>
+      </select>
+    </div>
+
+    <div class="test-summary" id="test-summary" style="display:none">
+      <span class="stat total" id="stat-tags">0 tags</span>
+      <span class="stat pass" id="stat-pass">0 passed</span>
+      <span class="stat fail" id="stat-fail">0 failed</span>
+      <span class="stat warn" id="stat-warn">0 warnings</span>
+    </div>
+
+    <div class="tabs">
+      <button class="tab active" data-tab="preview">Preview</button>
+      <button class="tab" data-tab="tests">Tests</button>
+      <button class="tab" data-tab="issues">Issues</button>
+      <button class="tab" data-tab="source">Source</button>
+    </div>
+
+    <div class="tab-content active" id="tab-preview">
+      <div id="preview-content">
+        <p style="color: var(--muted); text-align: center; padding: 40px;">
+          Select a markdown file to preview
+        </p>
+      </div>
+    </div>
+
+    <div class="tab-content" id="tab-tests">
+      <div id="test-results">
+        <p style="color: var(--muted); text-align: center; padding: 40px;">
+          Select a markdown file to run tests
+        </p>
+      </div>
+    </div>
+
+    <div class="tab-content" id="tab-issues">
+      <div id="issues-list">
+        <p style="color: var(--muted); text-align: center; padding: 40px;">
+          Select a markdown file to check issues
+        </p>
+      </div>
+    </div>
+
+    <div class="tab-content" id="tab-source">
+      <pre id="raw-source">Select a markdown file to view source</pre>
+    </div>
+  </div>
+
+  <script>
+    // ============ PARSER (IMPROVED VERSION) ============
+
+    function renderVocabulary(html) {
+      return html.replace(/<vocabulary>([\s\S]*?)<\/vocabulary>/gi, (_, content) => {
+        // First check if content contains a table (misuse of vocabulary tag)
+        if (content.includes('|') && content.includes('---')) {
+          // It's actually a table, render it differently
+          return `<div class="card grammar-box">${renderMarkdown(content)}</div>`;
+        }
+
+        const lines = content.trim().split('\n').filter(l => l.match(/^\d+\./));
+        let items = '';
+        const warnings = [];
+
+        for (const line of lines) {
+          // Format: 1. **word** : (type) meaning /pron/
+          // More flexible regex
+          const m = line.match(/^\d+\.\s*\*\*(.+?)\*\*\s*:\s*(?:\(([^)]+)\))?\s*(.+?)(?:\s*\/([^\/]+)\/)?$/);
+          if (m) {
+            const [, word, type, meaning, pron] = m;
+            const cleanWord = word.replace(/[*_]/g, '');
+            const escapedWord = cleanWord.replace(/'/g, "\\'").replace(/"/g, '&quot;');
+            items += `<li class="vocab-item" onclick="playWord('${escapedWord}')">
+              <span class="vocab-word">${cleanWord}</span>
+              ${type ? `<span class="vocab-type">${type}</span>` : ''}
+              <span class="vocab-meaning">${meaning.trim()}</span>
+              ${pron ? `<span class="vocab-pron">/${pron}/</span>` : ''}
+            </li>`;
+          } else {
+            // Try simpler format without bold: 1. word : meaning
+            const m2 = line.match(/^\d+\.\s*(.+?)\s*:\s*(.+)$/);
+            if (m2) {
+              const [, word, rest] = m2;
+              const cleanWord = word.replace(/[*_]/g, '');
+              items += `<li class="vocab-item" onclick="playWord('${cleanWord.replace(/'/g, "\\'")}')">
+                <span class="vocab-word">${cleanWord}</span>
+                <span class="vocab-meaning">${rest.trim()}</span>
+              </li>`;
+            } else {
+              warnings.push(`Unparseable line: ${line}`);
+            }
+          }
+        }
+
+        if (items === '') {
+          return `<div class="card"><p style="color:var(--muted)">No vocabulary items found</p></div>`;
+        }
+
+        return `<div class="card"><ul class="vocab-list">${items}</ul></div>`;
+      });
+    }
+
+    function renderTeacherScript(html) {
+      return html.replace(/<teacher_script([^>]*)>([\s\S]*?)<\/teacher_script>/gi, (_, attrs, content) => {
+        const pause = (attrs.match(/pause="(\d+)"/) || [])[1] || '0';
+        const action = (attrs.match(/action="(\w+)"/) || [])[1];
+        const id = 'tts' + Math.random().toString(36).substr(2, 6);
+        const text = content.trim();
+        // Escape for use in onclick - handle backticks and special chars
+        const escapedText = text
+          .replace(/\\/g, '\\\\')
+          .replace(/`/g, '\\`')
+          .replace(/\$/g, '\\$');
+
+        let actionHtml = '';
+        if (action === 'record') {
+          actionHtml = `<div class="action-btns">
+            <button class="action-btn" id="${id}-rec">
+              <svg width="28" height="28" viewBox="0 0 24 24" fill="currentColor"><path d="M12 14c1.66 0 3-1.34 3-3V5c0-1.66-1.34-3-3-3S9 3.34 9 5v6c0 1.66 1.34 3 3 3zm5-3c0 2.76-2.24 5-5 5s-5-2.24-5-5H5c0 3.53 2.61 6.43 6 6.92V21h2v-3.08c3.39-.49 6-3.39 6-6.92h-2z"/></svg>
+              <span>Ghi âm</span>
+            </button>
+          </div>`;
+        } else if (action === 'photo') {
+          actionHtml = `<div class="action-btns">
+            <button class="action-btn">
+              <svg width="28" height="28" viewBox="0 0 24 24" fill="currentColor"><path d="M9 2L7.17 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2h-3.17L15 2H9zm3 15c-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5-2.24 5-5 5z"/></svg>
+              <span>Chụp bài</span>
+            </button>
+          </div>`;
+        }
+
+        return `<div class="tts-box" id="${id}">
+          <div class="tts-text">${text}</div>
+          ${parseInt(pause) > 0 ? `<div class="timer">${formatTime(pause)}</div>` : ''}
+          <div class="tts-controls">
+            <button class="tts-btn">▶ Nghe</button>
+            ${parseInt(pause) > 0 ? `<button class="tts-btn">⏭ Bỏ qua</button>` : ''}
+          </div>
+          ${actionHtml}
+        </div>`;
+      });
+    }
+
+    function formatTime(s) {
+      const m = Math.floor(s / 60);
+      const sec = s % 60;
+      return m > 0 ? `${m}:${sec.toString().padStart(2, '0')}` : `${sec}s`;
+    }
+
+    function renderTask(html) {
+      return html.replace(/<task>([\s\S]*?)<\/task>/gi, (_, c) =>
+        `<div class="card task-box">${renderMarkdown(c)}</div>`);
+    }
+
+    function renderAnswer(html) {
+      return html.replace(/<answer>([\s\S]*?)<\/answer>/gi, (_, c) =>
+        `<div class="card answer-box">${renderMarkdown(c)}</div>`);
+    }
+
+    function renderExplanation(html) {
+      return html.replace(/<explanation>([\s\S]*?)<\/explanation>/gi, (_, c) =>
+        `<div class="card explanation-box">${renderMarkdown(c)}</div>`);
+    }
+
+    function renderGrammar(html) {
+      return html.replace(/<grammar>([\s\S]*?)<\/grammar>/gi, (_, c) =>
+        `<div class="card grammar-box">${renderMarkdown(c)}</div>`);
+    }
+
+    function renderPronunciationTheory(html) {
+      return html.replace(/<pronunciation_theory>([\s\S]*?)<\/pronunciation_theory>/gi, (_, c) =>
+        `<div class="card pronunciation-box">${renderMarkdown(c)}</div>`);
+    }
+
+    function renderDialogue(html) {
+      return html.replace(/<dialogue>([\s\S]*?)<\/dialogue>/gi, (_, c) =>
+        `<div class="card">${renderMarkdown(c)}</div>`);
+    }
+
+    function renderReading(html) {
+      return html.replace(/<reading>([\s\S]*?)<\/reading>/gi, (_, c) =>
+        `<div class="card">${renderMarkdown(c)}</div>`);
+    }
+
+    function renderContentTable(html) {
+      return html.replace(/<content_table>([\s\S]*?)<\/content_table>/gi, (_, c) =>
+        `<div class="card">${renderMarkdown(c)}</div>`);
+    }
+
+    function renderTranslation(html) {
+      return html.replace(/<translation>([\s\S]*?)<\/translation>/gi, (_, c) =>
+        `<div class="card translation-box">${renderMarkdown(c)}</div>`);
+    }
+
+    function renderQuestions(html) {
+      return html.replace(/<questions[^>]*>([\s\S]*?)<\/questions>/gi, (_, c) =>
+        `<div class="card">${renderMarkdown(c)}</div>`);
+    }
+
+    function renderAudio(html) {
+      return html.replace(/<audio\s+src="([^"]*)"[^>]*>([\s\S]*?)<\/audio>/gi, (_, src, label) => {
+        if (src.includes('TODO')) {
+          return `<div class="audio-box"><div class="audio-placeholder">🔇 ${label || 'Audio chưa sẵn sàng'}</div></div>`;
+        }
+        return `<div class="audio-box"><audio controls src="${src}"></audio><p>${label}</p></div>`;
+      });
+    }
+
+    function renderMarkdown(md) {
+      let html = md;
+
+      // Headers
+      html = html.replace(/^###\s+(.+)$/gm, '<h3>$1</h3>');
+      html = html.replace(/^##\s+(.+)$/gm, '<h2>$1</h2>');
+      html = html.replace(/^#\s+(.+)$/gm, '<h1>$1</h1>');
+
+      // Bold/Italic
+      html = html.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
+      html = html.replace(/\*([^*]+)\*/g, '<em>$1</em>');
+
+      // Code blocks
+      html = html.replace(/```([\s\S]*?)```/g, '<pre>$1</pre>');
+      html = html.replace(/`([^`]+)`/g, '<code>$1</code>');
+
+      // Tables - IMPROVED to handle empty cells
+      const tables = html.match(/(\|.+\|\n?)+/g);
+      if (tables) {
+        for (const table of tables) {
+          const rows = table.trim().split('\n').filter(r => {
+            // Keep rows that have content (not just separator)
+            return r.includes('|') && !r.match(/^\|[\s\-:|]+\|$/);
+          });
+          if (rows.length > 0) {
+            let tableHtml = '<div class="table-wrap"><table>';
+            rows.forEach((row, i) => {
+              // Split by | but preserve empty cells
+              const rawCells = row.split('|');
+              // Remove first and last empty items from split
+              const cells = rawCells.slice(1, -1);
+              const tag = i === 0 ? 'th' : 'td';
+              tableHtml += '<tr>' + cells.map(c => `<${tag}>${c.trim()}</${tag}>`).join('') + '</tr>';
+            });
+            tableHtml += '</table></div>';
+            html = html.replace(table, tableHtml);
+          }
+        }
+      }
+
+      // Lists
+      html = html.replace(/^-\s+(.+)$/gm, '<li>$1</li>');
+      html = html.replace(/(<li>.*<\/li>\n?)+/g, '<ul>$&</ul>');
+
+      // Paragraphs
+      html = html.replace(/\n\n+/g, '</p><p>');
+      html = html.replace(/\n/g, '<br>');
+
+      // Clean up
+      html = html.replace(/<p>\s*<\/p>/g, '');
+      html = html.replace(/<p>(<[hud])/g, '$1');
+      html = html.replace(/(<\/[hud][^>]*>)<\/p>/g, '$1');
+
+      return html;
+    }
+
+    function renderChunk(md) {
+      let html = md;
+
+      // Remove chunk comments
+      html = html.replace(/<!--\s*chunk:.*?-->/gs, '');
+
+      // Custom tags (order matters!)
+      html = renderVocabulary(html);
+      html = renderTeacherScript(html);
+      html = renderTask(html);
+      html = renderAnswer(html);
+      html = renderExplanation(html);
+      html = renderGrammar(html);
+      html = renderPronunciationTheory(html);
+      html = renderDialogue(html);
+      html = renderReading(html);
+      html = renderContentTable(html);
+      html = renderTranslation(html);
+      html = renderQuestions(html);
+      html = renderAudio(html);
+
+      // Markdown
+      html = renderMarkdown(html);
+
+      return `<div class="chunk">${html}</div>`;
+    }
+
+    // ============ TEST FRAMEWORK ============
+
+    const testResults = [];
+    const issues = [];
+
+    function runTagTest(tagName, content, rendered) {
+      const tests = {
+        vocabulary: () => {
+          const hasItems = rendered.includes('vocab-item') || rendered.includes('vocab-list');
+          const hasContent = content.trim().length > 0;
+          if (!hasItems && hasContent) {
+            // Check if it's a table misuse
+            if (content.includes('|')) {
+              issues.push({
+                type: 'warning',
+                tag: 'vocabulary',
+                message: 'Table used inside vocabulary tag - converted to grammar box',
+                content: content.substring(0, 100)
+              });
+              return { passed: true, warning: true };
+            }
+            return { passed: false, message: 'No vocabulary items rendered' };
+          }
+          return { passed: true };
+        },
+        teacher_script: () => {
+          const hasTtsBox = rendered.includes('tts-box');
+          const hasControls = rendered.includes('tts-btn');
+          if (!hasTtsBox || !hasControls) {
+            return { passed: false, message: 'TTS box or controls missing' };
+          }
+          // Check for action buttons if action attribute present
+          if (content.includes('action="record"') && !rendered.includes('Ghi âm')) {
+            return { passed: false, message: 'Record action button missing' };
+          }
+          if (content.includes('action="photo"') && !rendered.includes('Chụp bài')) {
+            return { passed: false, message: 'Photo action button missing' };
+          }
+          return { passed: true };
+        },
+        task: () => {
+          return { passed: rendered.includes('task-box') };
+        },
+        answer: () => {
+          return { passed: rendered.includes('answer-box') };
+        },
+        explanation: () => {
+          return { passed: rendered.includes('explanation-box') };
+        },
+        grammar: () => {
+          return { passed: rendered.includes('grammar-box') };
+        },
+        pronunciation_theory: () => {
+          return { passed: rendered.includes('pronunciation-box') };
+        },
+        dialogue: () => {
+          return { passed: rendered.includes('card') };
+        },
+        reading: () => {
+          return { passed: rendered.includes('card') };
+        },
+        translation: () => {
+          return { passed: rendered.includes('translation-box') };
+        },
+        questions: () => {
+          return { passed: rendered.includes('card') };
+        },
+        audio: () => {
+          return { passed: rendered.includes('audio-box') };
+        },
+        content_table: () => {
+          return { passed: rendered.includes('card') };
+        }
+      };
+
+      const tester = tests[tagName];
+      if (tester) {
+        return tester();
+      }
+      return { passed: true, message: 'No specific test for this tag' };
+    }
+
+    function analyzeFile(content) {
+      testResults.length = 0;
+      issues.length = 0;
+
+      // Find all custom tags
+      const tagPatterns = [
+        { name: 'vocabulary', regex: /<vocabulary>([\s\S]*?)<\/vocabulary>/gi },
+        { name: 'teacher_script', regex: /<teacher_script[^>]*>([\s\S]*?)<\/teacher_script>/gi },
+        { name: 'task', regex: /<task>([\s\S]*?)<\/task>/gi },
+        { name: 'answer', regex: /<answer>([\s\S]*?)<\/answer>/gi },
+        { name: 'explanation', regex: /<explanation>([\s\S]*?)<\/explanation>/gi },
+        { name: 'grammar', regex: /<grammar>([\s\S]*?)<\/grammar>/gi },
+        { name: 'pronunciation_theory', regex: /<pronunciation_theory>([\s\S]*?)<\/pronunciation_theory>/gi },
+        { name: 'dialogue', regex: /<dialogue>([\s\S]*?)<\/dialogue>/gi },
+        { name: 'reading', regex: /<reading>([\s\S]*?)<\/reading>/gi },
+        { name: 'translation', regex: /<translation>([\s\S]*?)<\/translation>/gi },
+        { name: 'questions', regex: /<questions[^>]*>([\s\S]*?)<\/questions>/gi },
+        { name: 'audio', regex: /<audio[^>]*>[\s\S]*?<\/audio>/gi },
+        { name: 'content_table', regex: /<content_table>([\s\S]*?)<\/content_table>/gi }
+      ];
+
+      for (const { name, regex } of tagPatterns) {
+        let match;
+        let index = 0;
+        const contentCopy = content;
+        regex.lastIndex = 0;
+
+        while ((match = regex.exec(contentCopy)) !== null) {
+          index++;
+          const tagContent = match[0];
+          const innerContent = match[1] || match[0];
+
+          // Render this specific tag
+          let rendered = '';
+          switch (name) {
+            case 'vocabulary': rendered = renderVocabulary(tagContent); break;
+            case 'teacher_script': rendered = renderTeacherScript(tagContent); break;
+            case 'task': rendered = renderTask(tagContent); break;
+            case 'answer': rendered = renderAnswer(tagContent); break;
+            case 'explanation': rendered = renderExplanation(tagContent); break;
+            case 'grammar': rendered = renderGrammar(tagContent); break;
+            case 'pronunciation_theory': rendered = renderPronunciationTheory(tagContent); break;
+            case 'dialogue': rendered = renderDialogue(tagContent); break;
+            case 'reading': rendered = renderReading(tagContent); break;
+            case 'translation': rendered = renderTranslation(tagContent); break;
+            case 'questions': rendered = renderQuestions(tagContent); break;
+            case 'audio': rendered = renderAudio(tagContent); break;
+            case 'content_table': rendered = renderContentTable(tagContent); break;
+          }
+
+          const result = runTagTest(name, tagContent, rendered);
+          testResults.push({
+            name: `${name} #${index}`,
+            input: innerContent.substring(0, 200) + (innerContent.length > 200 ? '...' : ''),
+            output: rendered,
+            ...result
+          });
+        }
+      }
+
+      // Check for common issues
+
+      // 1. Tables without proper structure
+      const tableMatches = content.match(/\|.+\|/g) || [];
+      for (const table of tableMatches) {
+        if (table.split('|').length < 3) {
+          issues.push({
+            type: 'warning',
+            tag: 'table',
+            message: 'Table row might be malformed',
+            content: table
+          });
+        }
+      }
+
+      // 2. Missing translations for dialogue
+      if (content.includes('<dialogue>') && !content.includes('<translation>')) {
+        issues.push({
+          type: 'info',
+          tag: 'dialogue',
+          message: 'Dialogue found without translation block'
+        });
+      }
+
+      // 3. Audio placeholders
+      const audioMatches = content.match(/<audio[^>]*src="[^"]*TODO[^"]*"/g) || [];
+      if (audioMatches.length > 0) {
+        issues.push({
+          type: 'info',
+          tag: 'audio',
+          message: `${audioMatches.length} audio placeholder(s) need actual URLs`
+        });
+      }
+
+      return {
+        totalTags: testResults.length,
+        passed: testResults.filter(t => t.passed && !t.warning).length,
+        failed: testResults.filter(t => !t.passed).length,
+        warnings: testResults.filter(t => t.warning).length + issues.filter(i => i.type === 'warning').length
+      };
+    }
+
+    // ============ UI ============
+
+    function playWord(word) {
+      if ('speechSynthesis' in window) {
+        window.speechSynthesis.cancel();
+        const utterance = new SpeechSynthesisUtterance(word);
+        utterance.lang = 'en-US';
+        utterance.rate = 0.85;
+        window.speechSynthesis.speak(utterance);
+      }
+    }
+    window.playWord = playWord;
+
+    // Tab switching
+    document.querySelectorAll('.tab').forEach(tab => {
+      tab.addEventListener('click', () => {
+        document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+        document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
+        tab.classList.add('active');
+        document.getElementById('tab-' + tab.dataset.tab).classList.add('active');
+      });
+    });
+
+    // File selection
+    document.getElementById('file-select').addEventListener('change', async (e) => {
+      const file = e.target.value;
+      if (!file) return;
+
+      const baseUrl = '../data/voice-lectures/';
+      try {
+        const response = await fetch(baseUrl + file);
+        if (!response.ok) throw new Error('File not found');
+        const content = await response.text();
+
+        // Show source
+        document.getElementById('raw-source').textContent = content;
+
+        // Run tests
+        const stats = analyzeFile(content);
+
+        // Update summary
+        document.getElementById('test-summary').style.display = 'flex';
+        document.getElementById('stat-tags').textContent = `${stats.totalTags} tags`;
+        document.getElementById('stat-pass').textContent = `${stats.passed} passed`;
+        document.getElementById('stat-fail').textContent = `${stats.failed} failed`;
+        document.getElementById('stat-warn').textContent = `${stats.warnings} warnings`;
+
+        // Show preview
+        const rendered = renderChunk(content);
+        document.getElementById('preview-content').innerHTML = rendered;
+
+        // Show test results
+        let testsHtml = '';
+        for (const test of testResults) {
+          const icon = test.warning ? 'warn' : (test.passed ? 'pass' : 'fail');
+          const iconChar = test.warning ? '⚠' : (test.passed ? '✓' : '✗');
+          testsHtml += `
+            <div class="test-item" onclick="this.classList.toggle('expanded')">
+              <div class="test-header">
+                <span class="test-icon ${icon}">${iconChar}</span>
+                <span class="test-name">${test.name}</span>
+              </div>
+              <div class="test-details">
+                <strong>Input:</strong>
+                <div class="test-input">${escapeHtml(test.input)}</div>
+                <strong>Rendered:</strong>
+                <div class="test-output html-preview">${test.output}</div>
+                ${test.message ? `<p style="color:var(--error);margin-top:8px">${test.message}</p>` : ''}
+              </div>
+            </div>
+          `;
+        }
+        document.getElementById('test-results').innerHTML = testsHtml || '<p>No tags found to test</p>';
+
+        // Show issues
+        let issuesHtml = '';
+        for (const issue of issues) {
+          issuesHtml += `
+            <div class="issue-item">
+              <h4>${issue.type.toUpperCase()}: ${issue.tag}</h4>
+              <p>${issue.message}</p>
+              ${issue.content ? `<pre style="margin-top:8px;font-size:11px">${escapeHtml(issue.content)}</pre>` : ''}
+            </div>
+          `;
+        }
+        document.getElementById('issues-list').innerHTML = issuesHtml || '<p style="color:var(--muted);text-align:center;padding:40px">No issues found!</p>';
+
+      } catch (err) {
+        document.getElementById('preview-content').innerHTML = `<p style="color:var(--error)">Error loading file: ${err.message}</p>`;
+      }
+    });
+
+    function escapeHtml(str) {
+      return String(str).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+    }
+  </script>
+</body>
+</html>
