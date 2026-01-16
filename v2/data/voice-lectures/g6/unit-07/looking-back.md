@@ -45,7 +45,7 @@ Trước khi làm bài, ôn lại từ vựng Unit 7 nha.
 </vocabulary>
 
 <teacher_script pause="60">
-Xem lại từ vựng. 1 phút nha.
+Xem lại từ vựng. 1 phút. Xong bấm Tiếp tục bài học nha.
 </teacher_script>
 
 ---

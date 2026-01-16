@@ -62,7 +62,7 @@ Từ 15-21: have a lot of fun, on their first day at school, compete, the most e
 </teacher_script>
 
 <teacher_script pause="120">
-Click vô từ để nghe phát âm, ghi vô tập đi. 2 phút nha.
+Click vô từ để nghe phát âm, ghi vô tập đi. 2 phút. Học xong bấm Tiếp tục bài học nha.
 </teacher_script>
 
 ---
