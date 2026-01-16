@@ -15,7 +15,7 @@ Mở sách trang 8 tập 2 đi.
 
 <!-- chunk: vocabulary -->
 <teacher_script pause="0">
-Đây là từ vựng mới. Click vô từ để nghe phát âm. Học xong bấm Tiếp tục bài học nha.
+Đây là từ vựng mới. Click vô từ để nghe phát âm. Học xong bấm Tiếp tục bài học.
 </teacher_script>
 
 <vocabulary>
