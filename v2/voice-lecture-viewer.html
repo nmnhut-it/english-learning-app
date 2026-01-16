@@ -378,8 +378,8 @@ function renderContent(md){
     if(action==='photo')actionHtml=`<div class="action-row"><button class="action-btn" onclick="captureHW('${id}')"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M9 2L7.17 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2h-3.17L15 2H9zm3 15c-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5-2.24 5-5 5z"/></svg><span>Chụp bài</span></button></div><div id="${id}-photo"></div>`;
     // Friendly label instead of showing script text
     const label=action==='record'?'Ghi âm gửi thầy nè...':action==='photo'?'Chụp bài gửi thầy nè...':'Nghe thầy nói nè...';
-    // Add inline continue button after each TS
-    const continueBtn=`<div class="ts-continue" id="${id}-continue"><button class="continue-btn" onclick="clickContinue('${id}')">Tiếp tục →</button></div>`;
+    // Add inline continue button after each TS - student confirms they've read/listened
+    const continueBtn=`<div class="ts-continue" id="${id}-continue"><button class="continue-btn" onclick="clickContinue('${id}')">Nghe rồi ✓</button></div>`;
     return`<div class="ts" id="${id}" data-text="${text.trim().replace(/"/g,'&quot;')}" data-pause="${pause}" data-href="${href}" onclick="playTS(this)"><span class="ts-icon">🎓</span><span class="ts-label">${label}</span><span class="ts-status">Bấm nghe</span></div><div class="timer" id="${id}-timer"><div class="timer-label">Thời gian làm bài</div><div class="timer-time">${formatTime(pause)}</div><button class="timer-skip" onclick="skipTimer('${id}')">Xong rồi →</button></div>${actionHtml}${continueBtn}`;
   });
 
