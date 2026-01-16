@@ -1079,7 +1079,7 @@ Ok hết Getting Started. Về học từ vựng, mai qua A Closer Look 1 nha.
 |-----|---------|-----------|
 | `<vocabulary>` | Word list | Click-to-pronounce cards |
 | `<dialogue>` | Conversation | Bilingual table with audio |
-| `<reading>` | Reading passage | Bilingual paragraph |
+| `<reading>` | Reading passage / **Tapescript** | Bilingual table |
 | `<content_table>` | Tables (schedules, etc.) | Formatted table |
 | `<translation>` | Vietnamese translation block | Styled translation box |
 | `<task>` | Exercise instructions | Task box |
@@ -1088,14 +1088,20 @@ Ok hết Getting Started. Về học từ vựng, mai qua A Closer Look 1 nha.
 | `<explanation>` | Explanations | Collapsible section |
 | `<teacher_script>` | TTS script | Audio playback + timer |
 | `<pronunciation_theory>` | Lý thuyết phát âm | Styled box with diagrams |
+| `<grammar>` | Grammar rules/tables | Styled grammar box |
 | `<audio>` | Audio file từ sách | Audio player với controls |
 
 **Attributes summary:**
 | Tag | Attributes |
 |-----|------------|
-| `<questions>` | `type="multiple_choice\|matching\|fill_blanks\|pronunciation\|..."` |
+| `<questions>` | `type="multiple_choice\|matching\|fill_blanks\|pronunciation\|listen_tick\|..."` |
 | `<teacher_script>` | `pause="60"`, `type="answer"`, `action="record"`, `href="audio/file.mp3"` |
 | `<audio>` | `src="path/to/file.mp3"` hoặc `src="<!-- TODO: audio_id -->"` |
+
+**Note về `<reading>` cho Tapescript:**
+- Dùng `<reading>` với bilingual table cho tapescript bài nghe
+- Cho học sinh đọc trước khi nghe audio
+- Nguồn: VietJack, LoiGiaiHay có phần "Nội dung bài nghe"
 
 ### 10. Schema Maintenance
 
@@ -1487,13 +1493,49 @@ Mẹo nhớ nha: AND là cộng, BUT là đối, SO là kết quả.
 | # | Chunk | Trước | Content | Sau |
 |---|-------|-------|---------|-----|
 | 1 | vocabulary | "Từ vựng bài nghe" | `<vocabulary>` | "1.5 phút" |
-| 2 | pre_listen | "Đọc câu hỏi trước khi nghe" | `<questions>` | "1 phút đọc" |
-| 3 | listen_1 | "Nghe lần 1" | `<audio>` | - |
-| 4 | listen_2 | "Nghe lần 2 và trả lời" | `<audio>` | "1 phút làm bài" |
-| 5 | answer | "Đáp án nha" | `<answer>` | "30 giây sửa" |
-| 6 | writing | "Phần Writing. Viết theo hướng dẫn" | `<task>` | "10 phút viết" |
-| 7 | photo | "Chụp bài gửi cho thầy" | Photo button | "Xong bấm tiếp" |
-| 8 | sample | "Bài mẫu nè. So sánh" | Sample writing | "1 phút đọc" |
+| 2 | **tapescript** | "Đây là nội dung bài nghe" | `<reading>` bilingual table | "1 phút đọc hiểu" |
+| 3 | exercise_1 | "Bài 1, nghe và tick/match" | `<questions type="listen_tick">` + `<audio>` | "1 phút làm bài" |
+| 4 | answer_1 | "Đáp án nha" | `<answer>` | "30 giây sửa" |
+| 5 | exercise_2 | "Bài 2, True/False" | `<questions type="true_false">` + `<audio>` | "45 giây làm bài" |
+| 6 | answer_2 | "Đáp án + giải thích từng câu" | `<answer>` | "30 giây sửa" |
+| 7 | writing | "Phần Writing. Viết theo hướng dẫn" | `<task>` | "5-10 phút viết" |
+| 8 | photo | "Chụp bài gửi cho thầy" | Photo button | "Xong bấm tiếp" |
+| 9 | sample | "Bài mẫu nè. So sánh" | `<reading>` bilingual table | "1 phút đọc" |
+
+#### Tapescript Pattern (QUAN TRỌNG cho Listening)
+
+Mỗi bài Listening PHẢI có tapescript để học sinh đọc trước/sau khi nghe:
+
+```markdown
+<!-- chunk: tapescript -->
+<teacher_script pause="0">
+Đây là nội dung bài nghe nha. Đọc trước để hiểu.
+</teacher_script>
+
+<reading>
+| English | Vietnamese |
+|---------|------------|
+| Here are some interesting TV programmes for you. | Đây là một số chương trình TV thú vị dành cho bạn. |
+| Green Summer, a music programme, is on channel 1. | Mùa Hè Xanh, một chương trình âm nhạc, chiếu trên kênh 1. |
+| It starts at eight o'clock. | Nó bắt đầu lúc 8 giờ. |
+</reading>
+
+<teacher_script pause="60">
+Đọc hiểu bài nghe. 1 phút nha.
+</teacher_script>
+```
+
+**Nguồn tapescript:**
+- VietJack: Có phần "Nội dung bài nghe" hoặc "Bài nghe"
+- LoiGiaiHay: Tương tự
+- Nếu không có, dùng audio transcript từ sách giáo viên
+
+**Audio placeholder:**
+```markdown
+<audio src="<!-- TODO: g6_u07_skills2_listening.mp3 -->">
+**Audio:** Listen to the passage about TV programmes
+</audio>
+```
 
 ---
 
