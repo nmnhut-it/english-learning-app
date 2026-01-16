@@ -844,7 +844,7 @@ function buildVocabInteractive(id,words){
         <div class="flashcard-repeat">Lần đọc: <span id="${id}-rep-1">1</span><span id="${id}-rep-2">2</span><span id="${id}-rep-3">3</span></div>
       </div>
       <div class="flashcard-back">
-        <div class="flashcard-word">${words[0].word}</div>
+        <div class="flashcard-word" id="${id}-fc-word-back">${words[0].word}</div>
         <div class="flashcard-meaning" id="${id}-fc-meaning">${words[0].meaning}</div>
         <div class="flashcard-repeat">Lần đọc: <span id="${id}-rep-vi-1">1</span><span id="${id}-rep-vi-2">2</span><span id="${id}-rep-vi-3">3</span></div>
       </div>
@@ -948,12 +948,14 @@ async function playFlashcardWord(id){
 
   // Update card content with null checks
   const wordEl=document.getElementById(`${id}-fc-word`);
+  const wordBackEl=document.getElementById(`${id}-fc-word-back`);
   const pronEl=document.getElementById(`${id}-fc-pron`);
   const typeEl=document.getElementById(`${id}-fc-type`);
   const meaningEl=document.getElementById(`${id}-fc-meaning`);
   const numEl=document.getElementById(`${id}-fc-num`);
 
   if(wordEl)wordEl.textContent=w.word;
+  if(wordBackEl)wordBackEl.textContent=w.word;
   if(pronEl)pronEl.textContent=w.pron?'/'+w.pron+'/':'';
   if(typeEl){
     if(w.type){typeEl.textContent=w.type;typeEl.style.display='inline-block';}
