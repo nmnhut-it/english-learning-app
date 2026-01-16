@@ -58,30 +58,57 @@ Phần Listening nha. Có 2 bài tập.
 
 ---
 
+<!-- chunk: tapescript -->
+<teacher_script pause="0">
+Đây là nội dung bài nghe nha. Đọc trước để hiểu.
+</teacher_script>
+
+<reading>
+| English | Vietnamese |
+|---------|------------|
+| Here are some interesting TV programmes for you. | Đây là một số chương trình TV thú vị dành cho bạn. |
+| Green Summer, a music programme, is on channel 1. | Mùa Hè Xanh, một chương trình âm nhạc, chiếu trên kênh 1. |
+| It starts at eight o'clock. | Nó bắt đầu lúc 8 giờ. |
+| My Childhood is on channel 2. | Tuổi Thơ Tôi chiếu trên kênh 2. |
+| It's the story of a country boy and his dog Billy. | Đó là câu chuyện về một cậu bé nông thôn và chú chó Billy của cậu ấy. |
+| On channel 3, you will catch Harry Potter at 8.30. | Trên kênh 3, bạn có thể xem Harry Potter lúc 8:30. |
+| Children all over the world love this film. | Trẻ em trên toàn thế giới đều yêu thích bộ phim này. |
+| If you like to learn English, you can go to English and Fun on channel 1. | Nếu bạn muốn học tiếng Anh, bạn có thể xem English and Fun trên kênh 1. |
+| It's at nine o'clock. | Nó chiếu lúc 9 giờ. |
+| We hope you can choose a programme for yourself. | Chúng tôi hy vọng bạn có thể chọn một chương trình cho mình. |
+| Enjoy and have a great time. | Hãy tận hưởng và có khoảng thời gian tuyệt vời. |
+</reading>
+
+<teacher_script pause="60">
+Đọc hiểu bài nghe. 1 phút nha.
+</teacher_script>
+
+---
+
 <!-- chunk: exercise_1 -->
-### Bài 1 trang 13 - Listen and match
+### Bài 1 trang 13 - Listen and tick
 
 <teacher_script pause="0">
-Bài 1 nha. Nghe và nối tên chương trình với kênh.
+Bài 1 nha. Nghe và đánh dấu kênh đúng cho mỗi chương trình.
 </teacher_script>
 
 <task>
-**Đề:** Listen to the passage and match the programmes with channels.
-**Dịch đề:** Nghe đoạn văn và nối các chương trình với các kênh.
+**Đề:** Listen and tick (✓) the correct channel for each programme.
+**Dịch đề:** Nghe và đánh dấu kênh đúng cho mỗi chương trình.
 **Yêu cầu:** Nghe audio, xác định mỗi chương trình chiếu trên kênh nào.
 **Hướng dẫn:**
-- Bước 1: Đọc tên các chương trình và kênh trước
+- Bước 1: Đọc tên các chương trình trước
 - Bước 2: Nghe audio 1-2 lần
-- Bước 3: Nối tên chương trình với kênh phù hợp
+- Bước 3: Đánh dấu ✓ vào cột kênh phù hợp
 </task>
 
-<questions type="matching">
-| | Programme | | Channel |
-|---|-----------|---|---------|
-| 1 | Green Summer | a | Channel 1 |
-| 2 | My Childhood | b | Channel 2 |
-| 3 | Harry Potter | c | Channel 3 |
-| 4 | English and Fun | | |
+<questions type="listen_tick">
+| Programmes | Channel 1 | Channel 2 | Channel 3 |
+|------------|-----------|-----------|-----------|
+| Green Summer | | | |
+| My Childhood | | | |
+| Harry Potter | | | |
+| English and Fun | | | |
 </questions>
 
 <audio src="<!-- TODO: g6_u07_skills2_listening.mp3 -->">
@@ -101,10 +128,13 @@ Ok đáp án nha.
 
 <answer>
 **Đáp án:**
-- Green Summer → Channel 1
-- My Childhood → Channel 2
-- Harry Potter → Channel 3
-- English and Fun → Channel 1
+
+| Programmes | Channel 1 | Channel 2 | Channel 3 |
+|------------|-----------|-----------|-----------|
+| Green Summer | ✓ | | |
+| My Childhood | | ✓ | |
+| Harry Potter | | | ✓ |
+| English and Fun | ✓ | | |
 </answer>
 
 <teacher_script pause="0">
@@ -147,21 +177,21 @@ Bài 2 nha. Nghe lại và chọn True hoặc False.
 </task>
 
 <questions type="true_false">
-**1.** There are three channels for children.
+**1.** Green Summer is a music programme.
 
-*Có ba kênh dành cho trẻ em.*
+*Mùa Hè Xanh là một chương trình âm nhạc.*
 
-**2.** My Childhood is on channel 1.
+**2.** My Childhood is the story of a girl and her dog.
 
-*My Childhood chiếu trên kênh 1.*
+*Tuổi Thơ Tôi là câu chuyện về một cô gái và con chó của cô ấy.*
 
-**3.** English and Fun is an educational programme.
+**3.** Children like Harry Potter.
 
-*English and Fun là một chương trình giáo dục.*
+*Trẻ em thích Harry Potter.*
 
-**4.** Children can choose a programme for themselves.
+**4.** English and Fun is at five o'clock.
 
-*Trẻ em có thể tự chọn một chương trình cho mình.*
+*English and Fun chiếu lúc 5 giờ.*
 </questions>
 
 <audio src="<!-- TODO: g6_u07_skills2_listening.mp3 -->">
@@ -188,19 +218,19 @@ Giải thích từng câu nha.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 1 là TRUE - Đúng, có 3 kênh dành cho trẻ em: Channel 1, 2 và 3.
+Câu 1 là TRUE - Đúng. Trong bài nghe nói: "Green Summer, a music programme, is on channel 1."
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 2 là FALSE - Sai vì My Childhood chiếu trên kênh 2, không phải kênh 1.
+Câu 2 là FALSE - Sai. Bài nghe nói "a country BOY and his dog Billy", không phải a girl. Đó là câu chuyện về một cậu bé, không phải cô gái.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 3 là TRUE - Đúng, English and Fun là chương trình giáo dục dạy tiếng Anh.
+Câu 3 là TRUE - Đúng. Bài nghe nói: "Children all over the world love this film."
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 4 là FALSE - Sai vì trong audio nói người lớn chọn chương trình cho trẻ em, trẻ em không tự chọn được.
+Câu 4 là FALSE - Sai. Bài nghe nói English and Fun chiếu lúc 9 giờ (nine o'clock), không phải 5 giờ.
 </teacher_script>
 
 <teacher_script pause="30">
