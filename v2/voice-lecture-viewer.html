@@ -314,17 +314,25 @@ function renderMD(md){
   h=h.replace(/\*\*(.+?)\*\*/g,'<strong>$1</strong>');
   h=h.replace(/\*([^*]+)\*/g,'<em>$1</em>');
 
-  // Tables
-  const tables=h.match(/(\|.+\|\n?)+/g);
-  if(tables)tables.forEach(t=>{
-    const rows=t.trim().split('\n').filter(r=>r.includes('|')&&!r.match(/^\|[\s\-:|]+\|$/));
-    if(rows.length){
+  // Tables - improved parsing
+  const tableRegex=/^(\|[^\n]+\|\n)+/gm;
+  let match;
+  while((match=tableRegex.exec(h))!==null){
+    const tableStr=match[0];
+    const lines=tableStr.trim().split('\n');
+    // Filter out separator rows (only contains |, -, :, spaces)
+    const dataRows=lines.filter(line=>!/^\|[\s\-:|]+\|$/.test(line.trim()));
+    if(dataRows.length>0){
       let tbl='<div class="table-wrap"><table>';
-      rows.forEach((row,i)=>{const cells=row.split('|').slice(1,-1);const tag=i===0?'th':'td';tbl+='<tr>'+cells.map(c=>`<${tag}>${c.trim()}</${tag}>`).join('')+'</tr>'});
+      dataRows.forEach((row,i)=>{
+        const cells=row.split('|').slice(1,-1);
+        const tag=i===0?'th':'td';
+        tbl+='<tr>'+cells.map(c=>`<${tag}>${c.trim()}</${tag}>`).join('')+'</tr>';
+      });
       tbl+='</table></div>';
-      h=h.replace(t,tbl);
+      h=h.replace(tableStr,tbl);
     }
-  });
+  }
 
   h=h.replace(/^-\s+(.+)$/gm,'<li>$1</li>');
   h=h.replace(/(<li>.*<\/li>\n?)+/g,'<ul>$&</ul>');
@@ -353,15 +361,20 @@ function playTS(el,auto=false){
   el.scrollIntoView({behavior:'smooth',block:'center'});
 
   const onEnd=()=>{
+    console.log('Script finished:',el.id,'pause:',pause);
     state.speaking=false;
     el.classList.remove('speaking');
     if(status)status.textContent='Xong ✓';
 
     if(pause>0){
-      startTimer(el.id,pause,()=>playNextTS());
+      startTimer(el.id,pause,()=>{
+        console.log('Timer ended, calling playNextTS');
+        playNextTS();
+      });
     }else{
       // Small delay then play next
-      setTimeout(()=>playNextTS(),300);
+      console.log('No pause, calling playNextTS in 400ms');
+      setTimeout(()=>playNextTS(),400);
     }
   };
 
@@ -379,12 +392,19 @@ window.playTS=playTS;
 function playNextTS(){
   // Find next unplayed TS in current chunk
   const chunk=document.getElementById(`chunk-${state.currentChunk}`);
-  if(!chunk)return;
-  const nextTS=chunk.querySelector('.ts:not(.played)');
+  if(!chunk){console.log('No chunk found');return;}
+
+  // Get all scripts in order
+  const allTS=Array.from(chunk.querySelectorAll('.ts'));
+  const nextTS=allTS.find(ts=>!ts.classList.contains('played'));
+
+  console.log('playNextTS: found',allTS.length,'scripts,','next:',nextTS?.id);
+
   if(nextTS){
-    playTS(nextTS,true);
+    setTimeout(()=>playTS(nextTS,true),200);
   }else{
-    // Chunk complete - enable next button or auto-advance
+    // Chunk complete - enable next button
+    console.log('Chunk',state.currentChunk,'complete!');
     unlockNextChunk();
   }
 }
@@ -458,6 +478,7 @@ function setupNavigation(){
 function activateChunk(idx){
   if(idx>=state.chunks.length)return;
   state.currentChunk=idx;
+  console.log('Activating chunk',idx);
 
   // Update chunk highlights
   document.querySelectorAll('.chunk').forEach((c,i)=>{
@@ -470,11 +491,23 @@ function activateChunk(idx){
   const chunk=document.getElementById(`chunk-${idx}`);
   if(chunk){
     chunk.scrollIntoView({behavior:'smooth',block:'start'});
-    // Start playing first TS
+
+    // Get all scripts in this chunk
+    const allTS=chunk.querySelectorAll('.ts');
+    console.log('Chunk',idx,'has',allTS.length,'scripts');
+
+    // Start playing first unplayed TS
     setTimeout(()=>{
       const firstTS=chunk.querySelector('.ts:not(.played)');
-      if(firstTS)playTS(firstTS,true);
-    },500);
+      if(firstTS){
+        console.log('Starting first script:',firstTS.id);
+        playTS(firstTS,true);
+      }else{
+        // No scripts in this chunk, auto-unlock
+        console.log('No scripts in chunk, auto-unlocking');
+        unlockNextChunk();
+      }
+    },600);
   }
 
   updateProgress();
