@@ -430,9 +430,9 @@ const LM = {
 
       case this.TYPES.CHUNK_NAV:
       case this.TYPES.NONE:
-        // End of chunk
+        // End of chunk - TS already spoke, so unlock silently
         this.hideNPC();
-        this.unlockChunkNav();
+        this.unlockChunkNav(true);
         break;
     }
   },
@@ -703,14 +703,32 @@ const LM = {
         if (firstTS) {
           this.playTS(firstTS, true);
         } else {
-          this.unlockChunkNav();
+          // No TS in chunk - unlock silently
+          this.unlockChunkNav(true);
         }
       }, 500);
     }
     this.updateProgress();
   },
 
-  unlockChunkNav() {
+  // Unlock with NPC transition message
+  unlockChunkNav(silent = false) {
+    if (silent) {
+      this._doUnlock();
+      return;
+    }
+
+    // NPC guides the transition
+    this.state = this.STATES.NPC_SPEAKING;
+    const msg = 'Xong rồi! Bấm tiếp để qua phần sau nha.';
+    this.showNPC(msg);
+    this.speakTTS(msg, () => {
+      this.hideNPC();
+      this._doUnlock();
+    });
+  },
+
+  _doUnlock() {
     this.state = this.STATES.CHUNK_DONE;
     const btn = document.getElementById(`nav-${this.currentChunk}`);
     if (btn) {
