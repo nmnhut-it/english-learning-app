@@ -474,6 +474,21 @@ window.playTS=playTS;
 function playNextTS(){
   const chunk=document.getElementById(`chunk-${state.currentChunk}`);
   if(!chunk)return;
+
+  // Check if there's an unstarted vocab section - wait for it
+  const vocabSection=chunk.querySelector('.vocab-interactive:not(.vocab-completed):not(.vocab-in-progress)');
+  if(vocabSection){
+    // There's a vocab section that hasn't started yet - don't auto-play next TS
+    // The vocab will handle its own flow and call unlockNextChunk when done
+    return;
+  }
+
+  // Check if vocab is in progress - wait for it
+  const vocabInProgress=chunk.querySelector('.vocab-interactive.vocab-in-progress');
+  if(vocabInProgress){
+    return; // Wait for vocab to complete
+  }
+
   const allTS=Array.from(chunk.querySelectorAll('.ts'));
   const nextTS=allTS.find(ts=>!ts.classList.contains('played'));
   if(nextTS){
@@ -771,29 +786,49 @@ function startFlashcard(id){
   const inst=vocabState.instances[id];
   if(!inst)return;
   inst.currentWord=0;
-  document.getElementById(`${id}-fc-start`).style.display='none';
+
+  // Mark vocab as in-progress to block chunk advancement
+  const vocabEl=document.getElementById(id);
+  if(vocabEl)vocabEl.classList.add('vocab-in-progress');
+
+  const startBtn=document.getElementById(`${id}-fc-start`);
+  if(startBtn)startBtn.style.display='none';
+
   playFlashcardWord(id);
 }
 window.startFlashcard=startFlashcard;
 
 async function playFlashcardWord(id){
   const inst=vocabState.instances[id];
+  if(!inst||inst.currentWord>=inst.words.length)return;
+
   const w=inst.words[inst.currentWord];
   const card=document.getElementById(`${id}-flashcard`);
+  if(!card)return;
 
-  // Update card content
-  document.getElementById(`${id}-fc-word`).textContent=w.word;
-  document.getElementById(`${id}-fc-pron`).textContent=w.pron?'/'+w.pron+'/':'';
+  // Update card content with null checks
+  const wordEl=document.getElementById(`${id}-fc-word`);
+  const pronEl=document.getElementById(`${id}-fc-pron`);
   const typeEl=document.getElementById(`${id}-fc-type`);
-  if(w.type){typeEl.textContent=w.type;typeEl.style.display='inline-block';}else{typeEl.style.display='none';}
-  document.getElementById(`${id}-fc-meaning`).textContent=w.meaning;
-  document.getElementById(`${id}-fc-num`).textContent=inst.currentWord+1;
+  const meaningEl=document.getElementById(`${id}-fc-meaning`);
+  const numEl=document.getElementById(`${id}-fc-num`);
+
+  if(wordEl)wordEl.textContent=w.word;
+  if(pronEl)pronEl.textContent=w.pron?'/'+w.pron+'/':'';
+  if(typeEl){
+    if(w.type){typeEl.textContent=w.type;typeEl.style.display='inline-block';}
+    else{typeEl.style.display='none';}
+  }
+  if(meaningEl)meaningEl.textContent=w.meaning;
+  if(numEl)numEl.textContent=inst.currentWord+1;
 
   // Reset state
   card.classList.remove('flip');
   ['1','2','3'].forEach(n=>{
-    document.getElementById(`${id}-rep-${n}`).classList.remove('done');
-    document.getElementById(`${id}-rep-vi-${n}`).classList.remove('done');
+    const repEl=document.getElementById(`${id}-rep-${n}`);
+    const repViEl=document.getElementById(`${id}-rep-vi-${n}`);
+    if(repEl)repEl.classList.remove('done');
+    if(repViEl)repViEl.classList.remove('done');
   });
 
   // Update progress dots
@@ -816,7 +851,8 @@ async function playFlashcardWord(id){
     await playRepeatSignal(); // Beep beep to signal "repeat after me"
     await delay(200);
     await speakAsync(w.word,'en-US');
-    document.getElementById(`${id}-rep-${i}`).classList.add('done');
+    const repEl=document.getElementById(`${id}-rep-${i}`);
+    if(repEl)repEl.classList.add('done');
     await delay(800); // Time for student to repeat
   }
 
@@ -834,7 +870,8 @@ async function playFlashcardWord(id){
     await playRepeatSignal();
     await delay(200);
     await speakAsync(w.meaning,'vi-VN');
-    document.getElementById(`${id}-rep-vi-${i}`).classList.add('done');
+    const repViEl=document.getElementById(`${id}-rep-vi-${i}`);
+    if(repViEl)repViEl.classList.add('done');
     await delay(800); // Time for student to repeat
   }
 
@@ -1085,13 +1122,16 @@ function completeVocab(id){
 }
 
 function finishVocab(id){
-  // Signal that vocab is done - unlock navigation
   const vocabEl=document.getElementById(id);
   if(vocabEl){
+    vocabEl.classList.remove('vocab-in-progress');
     vocabEl.classList.add('vocab-completed');
   }
-  // Try to unlock next chunk navigation if this was the interactive part
-  unlockNextChunk();
+
+  // Resume teacher script playback - continue with remaining TS in chunk
+  setTimeout(()=>{
+    playNextTS();
+  },500);
 }
 window.finishVocab=finishVocab;
 
