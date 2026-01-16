@@ -492,55 +492,97 @@ function playTS(el,auto=false){
 }
 window.playTS=playTS;
 
-// Show continue button after TS completes
-function showContinueButton(tsId){
+// ========== TS STATE MANAGEMENT ==========
+// Combinatorial analysis of all cases:
+// Variables: hasTimer, nextType (ts|vocab|content|chunkNav|none), vocabState (notStarted|completed)
+//
+// | Timer | Next     | VocabState  | Action                           |
+// |-------|----------|-------------|----------------------------------|
+// | No    | TS       | -           | Auto-play next TS                |
+// | No    | Vocab    | notStarted  | Scroll to vocab                  |
+// | No    | Vocab    | completed   | Skip, check next sibling         |
+// | No    | Content  | -           | Show "Nghe rồi", scroll content  |
+// | No    | ChunkNav | -           | Unlock chunk nav                 |
+// | Yes   | *        | *           | Timer first, then same as above  |
+
+// Find next meaningful element after TS (skipping timer, buttons, etc.)
+function findNextElement(tsEl){
+  let next=tsEl.nextElementSibling;
+  // Skip timer, action buttons, continue button, content-done
+  while(next&&(
+    next.classList.contains('timer')||
+    next.classList.contains('action-row')||
+    next.id?.includes('-player')||
+    next.id?.includes('-photo')||
+    next.classList.contains('ts-continue')||
+    next.classList.contains('content-done')
+  )){
+    next=next.nextElementSibling;
+  }
+  return next;
+}
+
+// Determine the type of next element
+function getNextType(next){
+  if(!next) return 'none';
+  if(next.classList.contains('ts')) return 'ts';
+  if(next.classList.contains('vocab-interactive')) return 'vocab';
+  if(next.classList.contains('chunk-nav')) return 'chunkNav';
+  return 'content';
+}
+
+// Process next element after TS completes (called after timer if any)
+function processNextAfterTS(tsId){
   const chunk=document.getElementById(`chunk-${state.currentChunk}`);
   if(!chunk)return;
 
   const tsEl=document.getElementById(tsId);
   if(!tsEl)return;
 
-  // Find content between this TS and the next TS
-  let next=tsEl.nextElementSibling;
-  let contentToShow=null;
+  let next=findNextElement(tsEl);
+  let nextType=getNextType(next);
 
-  // Skip timer, action buttons, continue button
-  while(next&&(next.classList.contains('timer')||next.classList.contains('action-row')||next.id?.includes('-player')||next.id?.includes('-photo')||next.classList.contains('ts-continue'))){
+  // Handle completed vocab - skip to next sibling
+  while(nextType==='vocab'&&next.classList.contains('vocab-completed')){
     next=next.nextElementSibling;
+    nextType=getNextType(next);
   }
 
-  // Check if there's content (not another TS) that student should see
-  if(next&&!next.classList.contains('ts')&&!next.classList.contains('chunk-nav')){
-    contentToShow=next;
-
-    // If it's an unstarted vocab section, scroll to it and let student start it
-    if(next.classList.contains('vocab-interactive')&&!next.classList.contains('vocab-completed')){
-      scrollToIfNeeded(next,'start');
-      return; // Vocab has its own flow
-    }
-  }
-
-  // Check if this is the last TS in the chunk
   const allTS=Array.from(chunk.querySelectorAll('.ts'));
-  const nextTS=allTS.find(ts=>!ts.classList.contains('played'));
+  const nextUnplayedTS=allTS.find(ts=>!ts.classList.contains('played'));
 
-  // If NO content between this TS and next TS, auto-play next TS (consecutive TSes)
-  if(!contentToShow&&nextTS){
-    setTimeout(()=>playTS(nextTS,true),300);
-    return;
-  }
+  switch(nextType){
+    case 'ts':
+      // Consecutive TSes - auto-play
+      setTimeout(()=>playTS(next,true),300);
+      break;
 
-  // If there's content, show the continue button
-  const continueEl=document.getElementById(`${tsId}-continue`);
-  if(continueEl&&contentToShow){
-    continueEl.classList.add('show');
-    scrollToIfNeeded(contentToShow,'start');
-  }
+    case 'vocab':
+      // Vocab not started - scroll to it, let student start
+      scrollToIfNeeded(next,'start');
+      // Vocab handles its own flow
+      break;
 
-  if(!nextTS){
-    // No more TS - unlock chunk navigation
-    unlockNextChunk();
+    case 'content':
+      // Show "Nghe rồi" button and scroll to content
+      const continueEl=document.getElementById(`${tsId}-continue`);
+      if(continueEl){
+        continueEl.classList.add('show');
+        scrollToIfNeeded(next,'start');
+      }
+      break;
+
+    case 'chunkNav':
+    case 'none':
+      // End of chunk - unlock navigation
+      unlockNextChunk();
+      break;
   }
+}
+
+// Show continue button after TS completes (entry point)
+function showContinueButton(tsId){
+  processNextAfterTS(tsId);
 }
 
 // Click "Nghe rồi" - check if there's content to view first

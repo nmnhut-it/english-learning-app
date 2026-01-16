@@ -62,7 +62,7 @@ Từ 15-21: have a lot of fun, on their first day at school, compete, the most e
 </teacher_script>
 
 <teacher_script pause="120">
-Click vô từ để nghe phát âm, ghi vô vở đi. 2 phút nha.
+Click vô từ để nghe phát âm, ghi vô tập đi. 2 phút nha.
 </teacher_script>
 
 ---
@@ -696,7 +696,7 @@ Lý do: It makes me laugh a lot and the characters are cute.
 </teacher_script>
 
 <teacher_script pause="120">
-Giờ viết bài nói của mình vô vở đi. 2 phút nha.
+Giờ viết bài nói của mình vô tập đi. 2 phút nha.
 </teacher_script>
 
 ---
@@ -773,7 +773,7 @@ Nói về chương trình yêu thích với 4 thông tin: Name, Channel, Content
 </teacher_script>
 
 <teacher_script pause="45">
-Ghi tóm tắt vô vở đi. 45 giây nha.
+Ghi tóm tắt vô tập đi. 45 giây nha.
 </teacher_script>
 
 ---

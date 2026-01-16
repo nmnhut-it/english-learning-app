@@ -25,9 +25,6 @@ Ok lớp 7, Unit 7 nha - Traffic. Mở sách trang 72 đi.
 14. **see you then** : hẹn gặp lại /siː juː ðen/
 </vocabulary>
 
-<teacher_script pause="120">
-Ghi từ vựng vô vở đi. Click từ để nghe phát âm. 2 phút nha.
-</teacher_script>
 
 <teacher_script pause="0" action="record">
 Bấm nút Ghi âm để đọc lại và gửi cho thầy sửa nha.
@@ -222,7 +219,7 @@ Bài 4, ghi nhớ các phương tiện giao thông nha.
 </vocabulary>
 
 <teacher_script pause="60">
-Ghi thêm các phương tiện vô vở nha. 1 phút.
+Ghi thêm các phương tiện vô tập nha. 1 phút.
 </teacher_script>
 
 ---

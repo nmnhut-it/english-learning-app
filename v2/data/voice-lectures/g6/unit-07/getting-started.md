@@ -35,9 +35,6 @@ Mở sách trang 6 tập 2 đi.
 14. **interesting** : (adj) thú vị /ˈɪntrəstɪŋ/
 </vocabulary>
 
-<teacher_script pause="120">
-Ghi từ vựng vô vở đi. 2 phút nha.
-</teacher_script>
 
 ---
 
@@ -92,7 +89,7 @@ Bài 1, nghe và đọc hội thoại. Phong với Hùng đang nói về mấy c
 </dialogue>
 
 <teacher_script pause="180">
-Dịch hội thoại vô vở đi. 3 phút nha.
+Dịch hội thoại vô tập đi. 3 phút nha.
 </teacher_script>
 
 ---

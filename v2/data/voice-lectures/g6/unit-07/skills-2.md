@@ -32,9 +32,6 @@ Mở sách trang 13 tập 2 đi.
 11. **English and Fun** : Tiếng Anh Vui /ˈɪŋɡlɪʃ ænd fʌn/
 </vocabulary>
 
-<teacher_script pause="90">
-Ghi từ vựng vô vở đi. 1 phút rưỡi nha.
-</teacher_script>
 
 ---
 

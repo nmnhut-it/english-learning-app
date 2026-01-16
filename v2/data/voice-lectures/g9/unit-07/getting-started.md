@@ -44,9 +44,6 @@ Ok lớp 9, Unit 7 nha - Natural Wonders of the World. Các kỳ quan thiên nhi
 33. **contribute to** : đóng góp cho /kənˈtrɪbjuːt tuː/
 </vocabulary>
 
-<teacher_script pause="180">
-Nhiều từ vựng hay nha. Ghi vô vở đi. 3 phút.
-</teacher_script>
 
 <teacher_script pause="0" action="record">
 Bấm nút Ghi âm để đọc lại và gửi cho thầy sửa nha.

@@ -39,9 +39,6 @@ Mở sách trang 8 tập 2 đi.
 18. **happen - happened - happened** : (v) xảy ra, diễn ra /ˈhæpən/
 </vocabulary>
 
-<teacher_script pause="120">
-Ghi từ vựng vô vở đi. 2 phút nha.
-</teacher_script>
 
 ---
 
@@ -332,7 +329,7 @@ Hai âm này tiếng Việt không có, nên cần tập kỹ nha.
 </pronunciation_theory>
 
 <teacher_script pause="90">
-Ghi lý thuyết vô vở đi. 1 phút rưỡi nha.
+Ghi lý thuyết vô tập đi. 1 phút rưỡi nha.
 </teacher_script>
 
 ---
@@ -373,7 +370,7 @@ Nghe xong chưa? Nghe lại nếu cần nha.
 </vocabulary>
 
 <teacher_script pause="60">
-Ghi bảng tóm tắt vô vở đi. 1 phút nha.
+Ghi bảng tóm tắt vô tập đi. 1 phút nha.
 </teacher_script>
 
 ---

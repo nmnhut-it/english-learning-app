@@ -73,7 +73,7 @@ Nếu câu trả lời là một sự vật hay hoạt động, thì dùng What 
 </teacher_script>
 
 <teacher_script pause="30">
-Ghi vô vở: WHAT = cái gì, hỏi về sự vật.
+Ghi vô tập: WHAT = cái gì, hỏi về sự vật.
 </teacher_script>
 
 ---
@@ -100,7 +100,7 @@ Nếu câu trả lời là một nơi chốn, một địa điểm, thì dùng W
 </teacher_script>
 
 <teacher_script pause="30">
-Ghi vô vở: WHERE = ở đâu, hỏi về nơi chốn.
+Ghi vô tập: WHERE = ở đâu, hỏi về nơi chốn.
 </teacher_script>
 
 ---
@@ -127,7 +127,7 @@ Nếu câu trả lời là thời gian như ngày, giờ, thì dùng When nha.
 </teacher_script>
 
 <teacher_script pause="30">
-Ghi vô vở: WHEN = khi nào, hỏi về thời gian.
+Ghi vô tập: WHEN = khi nào, hỏi về thời gian.
 </teacher_script>
 
 ---
@@ -154,7 +154,7 @@ Nếu câu trả lời là một người hoặc nhân vật, thì dùng Who nha
 </teacher_script>
 
 <teacher_script pause="30">
-Ghi vô vở: WHO = ai, hỏi về người.
+Ghi vô tập: WHO = ai, hỏi về người.
 </teacher_script>
 
 ---
@@ -181,7 +181,7 @@ Nếu câu trả lời bắt đầu bằng "Because" - nghĩa là "vì", thì c�
 </teacher_script>
 
 <teacher_script pause="30">
-Ghi vô vở: WHY = tại sao, hỏi về lý do. Trả lời bằng "Because".
+Ghi vô tập: WHY = tại sao, hỏi về lý do. Trả lời bằng "Because".
 </teacher_script>
 
 ---
@@ -204,7 +204,7 @@ Giờ đến các từ hỏi HOW nha. Có nhiều dạng khác nhau.
 </grammar>
 
 <teacher_script pause="30">
-Ghi vô vở: HOW = như thế nào.
+Ghi vô tập: HOW = như thế nào.
 </teacher_script>
 
 ---
@@ -231,7 +231,7 @@ Câu trả lời thường là: once, twice, three times a week, every day...
 </teacher_script>
 
 <teacher_script pause="30">
-Ghi vô vở: HOW OFTEN = thường xuyên thế nào, hỏi về tần suất.
+Ghi vô tập: HOW OFTEN = thường xuyên thế nào, hỏi về tần suất.
 </teacher_script>
 
 ---
@@ -258,7 +258,7 @@ Sau How many phải là danh từ số nhiều như books, students, people nha.
 </teacher_script>
 
 <teacher_script pause="30">
-Ghi vô vở: HOW MANY = bao nhiêu, hỏi về số lượng.
+Ghi vô tập: HOW MANY = bao nhiêu, hỏi về số lượng.
 </teacher_script>
 
 ---
@@ -285,7 +285,7 @@ How long hỏi về khoảng thời gian hoặc độ dài nha.
 </teacher_script>
 
 <teacher_script pause="30">
-Ghi vô vở: HOW LONG = bao lâu, hỏi về khoảng thời gian.
+Ghi vô tập: HOW LONG = bao lâu, hỏi về khoảng thời gian.
 </teacher_script>
 
 ---
@@ -318,7 +318,7 @@ Nhớ nha: Từ hỏi đứng đầu, sau đó là trợ động từ do/does ho
 </teacher_script>
 
 <teacher_script pause="45">
-Ghi công thức vô vở đi. 45 giây nha.
+Ghi công thức vô tập đi. 45 giây nha.
 </teacher_script>
 
 ---
@@ -345,7 +345,7 @@ Ghi công thức vô vở đi. 45 giây nha.
 </grammar>
 
 <teacher_script pause="60">
-Ghi bảng tóm tắt vô vở đi. 1 phút nha.
+Ghi bảng tóm tắt vô tập đi. 1 phút nha.
 </teacher_script>
 
 ---
@@ -679,7 +679,7 @@ Giống như phép cộng vậy: ý 1 CỘNG ý 2.
 </teacher_script>
 
 <teacher_script pause="30">
-Ghi vô vở: AND = và, nối 2 ý cùng chiều.
+Ghi vô tập: AND = và, nối 2 ý cùng chiều.
 </teacher_script>
 
 ---
@@ -713,7 +713,7 @@ Thường có cặp từ đối lập như: can - can't, like - don't like, good
 </teacher_script>
 
 <teacher_script pause="30">
-Ghi vô vở: BUT = nhưng, nối 2 ý đối lập.
+Ghi vô tập: BUT = nhưng, nối 2 ý đối lập.
 </teacher_script>
 
 ---
@@ -749,7 +749,7 @@ Giống như mũi tên vậy: Vì A nên B. A → B.
 </teacher_script>
 
 <teacher_script pause="30">
-Ghi vô vở: SO = vì vậy, nên. Nối nguyên nhân → kết quả.
+Ghi vô tập: SO = vì vậy, nên. Nối nguyên nhân → kết quả.
 </teacher_script>
 
 ---
@@ -792,7 +792,7 @@ SO = kết quả (→). Ví dụ: Vì A NÊN B.
 </teacher_script>
 
 <teacher_script pause="45">
-Ghi bảng tóm tắt vô vở đi. 45 giây nha.
+Ghi bảng tóm tắt vô tập đi. 45 giây nha.
 </teacher_script>
 
 ---
@@ -1051,7 +1051,7 @@ Tóm tắt bài học nha.
 </grammar>
 
 <teacher_script pause="60">
-Ghi tóm tắt vô vở đi. 1 phút nha.
+Ghi tóm tắt vô tập đi. 1 phút nha.
 </teacher_script>
 
 ---

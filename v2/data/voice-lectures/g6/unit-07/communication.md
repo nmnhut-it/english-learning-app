@@ -85,7 +85,7 @@ Bốn: Nói lý do - Because...
 </teacher_script>
 
 <teacher_script pause="60">
-Ghi 4 cấu trúc này vô vở đi. 1 phút nha.
+Ghi 4 cấu trúc này vô tập đi. 1 phút nha.
 </teacher_script>
 
 ---
@@ -173,7 +173,7 @@ Khi hỏi Why, luôn trả lời bằng Because nha.
 </teacher_script>
 
 <teacher_script pause="30">
-Ghi vô vở đi. 30 giây nha.
+Ghi vô tập đi. 30 giây nha.
 </teacher_script>
 
 ---
@@ -275,7 +275,7 @@ B trả lời: Because I want to practise Maths and English more after school.
 </teacher_script>
 
 <teacher_script pause="120">
-Giờ viết hội thoại của mình vô vở đi. 2 phút nha.
+Giờ viết hội thoại của mình vô tập đi. 2 phút nha.
 </teacher_script>
 
 ---
@@ -669,7 +669,7 @@ Mẫu 4: I prefer Hello Fatty because I love the clever fox Fatty.
 </teacher_script>
 
 <teacher_script pause="60">
-Giờ viết câu của mình vô vở đi. 1 phút nha.
+Giờ viết câu của mình vô tập đi. 1 phút nha.
 </teacher_script>
 
 ---
@@ -750,7 +750,7 @@ Nói sở thích: I like/prefer... because...
 </teacher_script>
 
 <teacher_script pause="60">
-Ghi tóm tắt vô vở đi. 1 phút nha.
+Ghi tóm tắt vô tập đi. 1 phút nha.
 </teacher_script>
 
 ---

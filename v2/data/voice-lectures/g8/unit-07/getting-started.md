@@ -43,9 +43,6 @@ Ok lớp 8, Unit 7 nha - Environmental Protection. Bảo vệ môi trường. M�
 32. **rubbish/trash** : (n) rác /ˈrʌbɪʃ/ /træʃ/
 </vocabulary>
 
-<teacher_script pause="180">
-Nhiều từ vựng nha. Ghi vô vở đi. 3 phút.
-</teacher_script>
 
 <teacher_script pause="0" action="record">
 Bấm nút Ghi âm để đọc lại và gửi cho thầy sửa nha.
