@@ -312,16 +312,465 @@
   </div>
 
 <script>
-const CONFIG={contentUrl:null,tgToken:null,tgChat:null,audioBase:null,skip:false};
-const state={chunks:[],name:'',photo:null,speaking:false,timer:null,currentChunk:0,tsQueue:[],locked:true};
+// ========== UNIFIED LECTURE MANAGER ==========
+// Single source of truth for all state transitions
 
-// NPC System State
-const npcState={
-  visible:false,
-  currentTSId:null,
-  pendingContent:null, // Content element to highlight after NPC speaks
-  awaitingContinue:false
+const LM = {
+  // States
+  STATES: {
+    IDLE: 'idle',
+    NPC_SPEAKING: 'npc_speaking',
+    NPC_WAITING: 'npc_waiting',
+    TIMER_RUNNING: 'timer_running',
+    CONTENT_VIEWING: 'content_viewing',
+    VOCAB_ACTIVE: 'vocab_active',
+    CHUNK_DONE: 'chunk_done'
+  },
+
+  // Current state
+  state: 'idle',
+  currentChunk: 0,
+  currentTSId: null,
+  currentTSEl: null,
+  pendingElement: null,
+  pendingType: null,
+  timerInterval: null,
+  timerCallback: null,
+
+  // Element types
+  TYPES: {
+    TS: 'ts',
+    VOCAB: 'vocab',
+    CONTENT: 'content',
+    CHUNK_NAV: 'chunkNav',
+    NONE: 'none'
+  },
+
+  // Initialize
+  init() {
+    this.state = this.STATES.IDLE;
+    this.currentChunk = 0;
+  },
+
+  // ========== STATE TRANSITIONS ==========
+
+  // Start playing a teacher script
+  playTS(el, auto = false) {
+    if (this.state === this.STATES.NPC_SPEAKING && !auto) return;
+    if (this.state === this.STATES.NPC_SPEAKING && auto) {
+      // Queue for later
+      return;
+    }
+
+    this.state = this.STATES.NPC_SPEAKING;
+    this.currentTSId = el.id;
+    this.currentTSEl = el;
+
+    const text = el.dataset.text;
+    const pause = parseInt(el.dataset.pause) || 0;
+    const href = el.dataset.href;
+    const action = el.dataset.action || '';
+
+    // Mark TS as played and hide it
+    el.classList.add('played', 'npc-mode');
+
+    // Analyze what comes next
+    const { element: nextEl, type: nextType } = this.findNext(el);
+    this.pendingElement = nextEl;
+    this.pendingType = nextType;
+
+    // Show NPC speaking
+    this.showNPC(text);
+
+    // Play audio/TTS
+    const onEnd = () => {
+      if (pause > 0) {
+        // Has timer - hide NPC, show timer
+        this.hideNPC();
+        this.startTimer(pause, () => this.afterTimer());
+      } else {
+        // No timer - decide next action
+        this.afterSpeaking();
+      }
+    };
+
+    if (href) {
+      const audio = new Audio(href);
+      audio.onended = onEnd;
+      audio.onerror = () => this.speakTTS(text, onEnd);
+      audio.play().catch(() => this.speakTTS(text, onEnd));
+    } else {
+      this.speakTTS(text, onEnd);
+    }
+  },
+
+  // After TTS finishes (no timer case)
+  afterSpeaking() {
+    this.npcStopAnimation();
+
+    switch (this.pendingType) {
+      case this.TYPES.TS:
+        // Consecutive TSes - auto-play without waiting
+        this.hideNPC();
+        setTimeout(() => this.playTS(this.pendingElement, true), 200);
+        break;
+
+      case this.TYPES.VOCAB:
+        // Vocab section - prompt to continue
+        this.state = this.STATES.NPC_WAITING;
+        this.showNPCContinue('Bấm tiếp tục để học từ vựng nha!');
+        break;
+
+      case this.TYPES.CONTENT:
+        // Content to view - prompt to continue
+        this.state = this.STATES.NPC_WAITING;
+        this.showNPCContinue('Bấm tiếp tục để xem nội dung nha!');
+        break;
+
+      case this.TYPES.CHUNK_NAV:
+      case this.TYPES.NONE:
+        // End of chunk
+        this.hideNPC();
+        this.unlockChunkNav();
+        break;
+    }
+  },
+
+  // After timer finishes
+  afterTimer() {
+    this.state = this.STATES.IDLE;
+
+    switch (this.pendingType) {
+      case this.TYPES.TS:
+        setTimeout(() => this.playTS(this.pendingElement, true), 200);
+        break;
+
+      case this.TYPES.VOCAB:
+        this.scrollTo(this.pendingElement);
+        // Vocab handles its own flow
+        break;
+
+      case this.TYPES.CONTENT:
+        this.showContentWithDoneButton();
+        break;
+
+      case this.TYPES.CHUNK_NAV:
+      case this.TYPES.NONE:
+        this.unlockChunkNav();
+        break;
+    }
+  },
+
+  // User clicks continue in NPC bubble
+  onNPCContinue() {
+    if (this.state !== this.STATES.NPC_WAITING) return;
+
+    this.hideNPC();
+
+    if (this.pendingType === this.TYPES.VOCAB) {
+      this.state = this.STATES.VOCAB_ACTIVE;
+      this.scrollTo(this.pendingElement);
+      // Vocab system takes over
+    } else if (this.pendingType === this.TYPES.CONTENT) {
+      this.showContentWithDoneButton();
+    } else {
+      this.playNextTS();
+    }
+  },
+
+  // Show content with spotlight and "Xem xong" button
+  showContentWithDoneButton() {
+    this.state = this.STATES.CONTENT_VIEWING;
+
+    const el = this.pendingElement;
+    if (!el) return this.playNextTS();
+
+    // Add spotlight to chunk
+    const chunk = el.closest('.chunk');
+    if (chunk) chunk.classList.add('spotlight');
+
+    this.scrollTo(el);
+
+    // Add "Xem xong" button after content
+    this.addDoneButton(el);
+  },
+
+  // User clicks "Xem xong"
+  onContentDone() {
+    if (this.state !== this.STATES.CONTENT_VIEWING) return;
+
+    // Remove spotlight and button
+    document.querySelectorAll('.chunk.spotlight').forEach(c => c.classList.remove('spotlight'));
+    document.querySelectorAll('.content-done').forEach(el => el.remove());
+
+    this.state = this.STATES.IDLE;
+    this.playNextTS();
+  },
+
+  // Called when vocab system finishes
+  onVocabComplete() {
+    this.state = this.STATES.IDLE;
+    this.playNextTS();
+  },
+
+  // Play next unplayed TS in current chunk
+  playNextTS() {
+    const chunk = document.getElementById(`chunk-${this.currentChunk}`);
+    if (!chunk) return;
+
+    const nextTS = chunk.querySelector('.ts:not(.played)');
+    if (nextTS) {
+      setTimeout(() => this.playTS(nextTS, true), 300);
+    } else {
+      this.unlockChunkNav();
+    }
+  },
+
+  // ========== HELPER FUNCTIONS ==========
+
+  // Find next meaningful element after TS
+  findNext(tsEl) {
+    let next = tsEl.nextElementSibling;
+
+    // Skip utility elements
+    while (next && (
+      next.classList.contains('timer') ||
+      next.classList.contains('action-row') ||
+      next.id?.includes('-player') ||
+      next.id?.includes('-photo') ||
+      next.classList.contains('ts-continue') ||
+      next.classList.contains('content-done')
+    )) {
+      next = next.nextElementSibling;
+    }
+
+    // Skip completed vocab
+    while (next && next.classList.contains('vocab-interactive') && next.classList.contains('vocab-completed')) {
+      next = next.nextElementSibling;
+    }
+
+    // Determine type
+    let type = this.TYPES.NONE;
+    if (next) {
+      if (next.classList.contains('ts')) type = this.TYPES.TS;
+      else if (next.classList.contains('vocab-interactive')) type = this.TYPES.VOCAB;
+      else if (next.classList.contains('chunk-nav')) type = this.TYPES.CHUNK_NAV;
+      else type = this.TYPES.CONTENT;
+    }
+
+    return { element: next, type };
+  },
+
+  // ========== NPC FUNCTIONS ==========
+
+  showNPC(text) {
+    const overlay = document.getElementById('npc-overlay');
+    const container = document.getElementById('npc-container');
+    const bubble = document.getElementById('speech-bubble');
+    const textEl = document.getElementById('speech-text');
+    const continueEl = document.getElementById('speech-continue');
+    const avatar = document.getElementById('npc-avatar');
+    const content = document.getElementById('content');
+
+    overlay.classList.add('active');
+    container.classList.add('show');
+    bubble.classList.add('show');
+    avatar.classList.add('speaking');
+    content.classList.add('npc-active');
+
+    // Typing animation then text
+    textEl.innerHTML = '<div class="speech-bubble-typing"><span></span><span></span><span></span></div>';
+    continueEl.style.display = 'none';
+
+    setTimeout(() => {
+      textEl.textContent = text;
+    }, 300);
+  },
+
+  showNPCContinue(text) {
+    const textEl = document.getElementById('speech-text');
+    const continueEl = document.getElementById('speech-continue');
+    const avatar = document.getElementById('npc-avatar');
+
+    if (text) textEl.textContent = text;
+    continueEl.style.display = 'block';
+    avatar.classList.remove('speaking');
+  },
+
+  npcStopAnimation() {
+    const avatar = document.getElementById('npc-avatar');
+    avatar.classList.remove('speaking');
+  },
+
+  hideNPC() {
+    const overlay = document.getElementById('npc-overlay');
+    const container = document.getElementById('npc-container');
+    const bubble = document.getElementById('speech-bubble');
+    const avatar = document.getElementById('npc-avatar');
+    const content = document.getElementById('content');
+
+    overlay.classList.remove('active');
+    container.classList.remove('show');
+    bubble.classList.remove('show');
+    avatar.classList.remove('speaking');
+    content.classList.remove('npc-active');
+  },
+
+  // ========== TIMER FUNCTIONS ==========
+
+  startTimer(seconds, callback) {
+    this.state = this.STATES.TIMER_RUNNING;
+    this.timerCallback = callback;
+
+    const box = document.getElementById(`${this.currentTSId}-timer`);
+    if (!box) return callback();
+
+    const timeEl = box.querySelector('.timer-time');
+    box.classList.add('active');
+    this.scrollTo(box);
+
+    let remaining = seconds;
+    timeEl.textContent = this.formatTime(remaining);
+    timeEl.className = 'timer-time';
+
+    this.timerInterval = setInterval(() => {
+      remaining--;
+      timeEl.textContent = this.formatTime(remaining);
+      if (remaining <= 10) timeEl.classList.add('warning');
+      if (remaining <= 5) timeEl.classList.add('danger');
+      if (remaining <= 0) {
+        this.stopTimer();
+        box.classList.remove('active');
+        callback();
+      }
+    }, 1000);
+  },
+
+  stopTimer() {
+    clearInterval(this.timerInterval);
+    this.timerInterval = null;
+  },
+
+  skipTimer() {
+    this.stopTimer();
+    const box = document.getElementById(`${this.currentTSId}-timer`);
+    if (box) box.classList.remove('active');
+    if (this.timerCallback) this.timerCallback();
+  },
+
+  formatTime(s) {
+    const m = Math.floor(s / 60);
+    return m > 0 ? `${m}:${(s % 60).toString().padStart(2, '0')}` : `${s}s`;
+  },
+
+  // ========== CONTENT FUNCTIONS ==========
+
+  addDoneButton(contentEl) {
+    document.querySelectorAll('.content-done').forEach(el => el.remove());
+
+    const btn = document.createElement('div');
+    btn.className = 'content-done show';
+    btn.innerHTML = '<button class="done-btn" onclick="LM.onContentDone()">Xem xong ✓</button>';
+    contentEl.after(btn);
+
+    setTimeout(() => this.scrollTo(btn), 200);
+  },
+
+  // ========== CHUNK NAVIGATION ==========
+
+  activateChunk(idx) {
+    if (idx >= state.chunks.length) return;
+    this.currentChunk = idx;
+    this.state = this.STATES.IDLE;
+
+    document.querySelectorAll('.chunk').forEach((c, i) => {
+      c.classList.remove('current', 'completed', 'spotlight');
+      if (i < idx) c.classList.add('completed');
+      if (i === idx) c.classList.add('current');
+    });
+
+    const chunk = document.getElementById(`chunk-${idx}`);
+    if (chunk) {
+      this.scrollTo(chunk);
+      setTimeout(() => {
+        const firstTS = chunk.querySelector('.ts:not(.played)');
+        if (firstTS) {
+          this.playTS(firstTS, true);
+        } else {
+          this.unlockChunkNav();
+        }
+      }, 500);
+    }
+    this.updateProgress();
+  },
+
+  unlockChunkNav() {
+    this.state = this.STATES.CHUNK_DONE;
+    const btn = document.getElementById(`nav-${this.currentChunk}`);
+    if (btn) {
+      btn.disabled = false;
+      btn.classList.add('ready');
+    }
+  },
+
+  goNextChunk() {
+    const next = this.currentChunk + 1;
+    if (next < state.chunks.length) {
+      this.activateChunk(next);
+    } else {
+      this.showComplete();
+    }
+  },
+
+  showComplete() {
+    const content = document.getElementById('content');
+    content.innerHTML += `<div class="complete-box"><div class="complete-icon">🎉</div><h2>Hoàn thành bài học!</h2><p>Giỏi lắm! Về nhà ôn lại từ vựng nha.</p></div>`;
+    document.querySelector('.complete-box').scrollIntoView({ behavior: 'smooth' });
+  },
+
+  updateProgress() {
+    const pct = ((this.currentChunk + 1) / state.chunks.length) * 100;
+    document.getElementById('progress-fill').style.width = pct + '%';
+  },
+
+  // ========== UTILITY ==========
+
+  scrollTo(el) {
+    if (!el) return;
+    const rect = el.getBoundingClientRect();
+    const inView = rect.top >= 0 && rect.bottom <= window.innerHeight;
+    if (!inView) {
+      el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    }
+  },
+
+  speakTTS(text, onEnd) {
+    if (!('speechSynthesis' in window)) { onEnd(); return; }
+    speechSynthesis.cancel();
+    const u = new SpeechSynthesisUtterance(text);
+    u.lang = 'vi-VN';
+    u.rate = 0.95;
+    u.onend = onEnd;
+    u.onerror = onEnd;
+    speechSynthesis.speak(u);
+  }
 };
+
+// ========== GLOBAL HANDLERS ==========
+function playTS(el, auto) { LM.playTS(el, auto); }
+function npcContinue() { LM.onNPCContinue(); }
+function handleOverlayClick() { if (LM.state === LM.STATES.NPC_WAITING) LM.onNPCContinue(); }
+function skipTimer(id) { LM.skipTimer(); }
+function goNextChunk() { LM.goNextChunk(); }
+window.playTS = playTS;
+window.npcContinue = npcContinue;
+window.handleOverlayClick = handleOverlayClick;
+window.skipTimer = skipTimer;
+window.goNextChunk = goNextChunk;
+
+// ========== CONFIG & BASIC STATE ==========
+const CONFIG = { contentUrl: null, tgToken: null, tgChat: null, audioBase: null, skip: false };
+const state = { chunks: [], name: '', photo: null };
 
 // Vocabulary Interactive State
 const vocabState={
@@ -383,7 +832,7 @@ async function load(){
     render();
     setupNavigation();
     // Start from first chunk
-    setTimeout(()=>activateChunk(0),500);
+    setTimeout(()=>LM.activateChunk(0),500);
   }catch(e){document.getElementById('content').innerHTML=`<div class="card" style="color:#ef4444">Lỗi: ${e.message}</div>`}
 }
 
@@ -452,11 +901,9 @@ function renderContent(md){
     let actionHtml='';
     if(action==='record')actionHtml=`<div class="action-row"><button class="action-btn" id="${id}-rec" onclick="toggleRec('${id}')"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 14c1.66 0 3-1.34 3-3V5c0-1.66-1.34-3-3-3S9 3.34 9 5v6c0 1.66 1.34 3 3 3zm5-3c0 2.76-2.24 5-5 5s-5-2.24-5-5H5c0 3.53 2.61 6.43 6 6.92V21h2v-3.08c3.39-.49 6-3.39 6-6.92h-2z"/></svg><span>Ghi âm</span></button></div><div id="${id}-player"></div>`;
     if(action==='photo')actionHtml=`<div class="action-row"><button class="action-btn" onclick="captureHW('${id}')"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M9 2L7.17 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2h-3.17L15 2H9zm3 15c-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5-2.24 5-5 5z"/></svg><span>Chụp bài</span></button></div><div id="${id}-photo"></div>`;
-    // Friendly label instead of showing script text
-    const label=action==='record'?'Ghi âm gửi thầy nè...':action==='photo'?'Chụp bài gửi thầy nè...':'Nghe thầy nói nè...';
-    // Add inline continue button after each TS - student confirms they've read/listened
-    const continueBtn=`<div class="ts-continue" id="${id}-continue"><button class="continue-btn" onclick="clickContinue('${id}')">Nghe rồi ✓</button></div>`;
-    return`<div class="ts" id="${id}" data-text="${text.trim().replace(/"/g,'&quot;')}" data-pause="${pause}" data-href="${href}" onclick="playTS(this)"><span class="ts-icon">🎓</span><span class="ts-label">${label}</span><span class="ts-status">Bấm nghe</span></div><div class="timer" id="${id}-timer"><div class="timer-label">Thời gian làm bài</div><div class="timer-time">${formatTime(pause)}</div><button class="timer-skip" onclick="skipTimer('${id}')">Xong rồi →</button></div>${actionHtml}${continueBtn}`;
+    // Friendly label (hidden since NPC takes over)
+    const label=action==='record'?'Ghi âm gửi thầy':action==='photo'?'Chụp bài gửi thầy':'Thầy nói';
+    return`<div class="ts" id="${id}" data-text="${text.trim().replace(/"/g,'&quot;')}" data-pause="${pause}" data-href="${href}" data-action="${action}" onclick="playTS(this)"><span class="ts-icon">🎓</span><span class="ts-label">${label}</span><span class="ts-status">Bấm</span></div><div class="timer" id="${id}-timer"><div class="timer-label">Thời gian làm bài</div><div class="timer-time">${LM.formatTime(parseInt(pause)||0)}</div><button class="timer-skip" onclick="skipTimer('${id}')">Xong rồi →</button></div>${actionHtml}`;
   });
 
   h=h.replace(/<task>([\s\S]*?)<\/task>/gi,(_,c)=>`<div class="card task-box">${renderMD(c)}</div>`);
@@ -514,481 +961,21 @@ function renderMD(md){
   return h;
 }
 
-// ========== NPC CONTROL FUNCTIONS ==========
+// ========== SETUP & UTILITY ==========
 
-function showNPC(text,showContinue=false){
-  const overlay=document.getElementById('npc-overlay');
-  const container=document.getElementById('npc-container');
-  const bubble=document.getElementById('speech-bubble');
-  const textEl=document.getElementById('speech-text');
-  const continueEl=document.getElementById('speech-continue');
-  const avatar=document.getElementById('npc-avatar');
-  const content=document.getElementById('content');
-
-  // Show overlay and NPC
-  overlay.classList.add('active');
-  container.classList.add('show');
-  bubble.classList.add('show');
-  avatar.classList.add('speaking');
-  content.classList.add('npc-active');
-
-  // Show typing animation first
-  textEl.innerHTML='<div class="speech-bubble-typing"><span></span><span></span><span></span></div>';
-  continueEl.style.display='none';
-
-  npcState.visible=true;
-  npcState.awaitingContinue=false;
-
-  // After a short delay, show the actual text
-  setTimeout(()=>{
-    textEl.textContent=text;
-    if(showContinue){
-      continueEl.style.display='block';
-      npcState.awaitingContinue=true;
-    }
-  },400);
+// Chunk Navigation setup
+function setupNavigation(){
+  document.body.style.overflow='auto';
+  document.querySelectorAll('.chunk').forEach((chunk,i)=>{
+    const nav=document.createElement('div');
+    nav.className='chunk-nav';
+    nav.innerHTML=`<button class="nav-btn" id="nav-${i}" onclick="goNextChunk()" disabled>Tiếp tục →</button>`;
+    chunk.appendChild(nav);
+  });
+  LM.updateProgress();
 }
 
-function hideNPC(){
-  const overlay=document.getElementById('npc-overlay');
-  const container=document.getElementById('npc-container');
-  const bubble=document.getElementById('speech-bubble');
-  const avatar=document.getElementById('npc-avatar');
-  const content=document.getElementById('content');
-
-  overlay.classList.remove('active');
-  container.classList.remove('show');
-  bubble.classList.remove('show');
-  avatar.classList.remove('speaking');
-  content.classList.remove('npc-active');
-
-  // Remove spotlight from all chunks
-  document.querySelectorAll('.chunk.spotlight').forEach(c=>c.classList.remove('spotlight'));
-
-  npcState.visible=false;
-  npcState.awaitingContinue=false;
-}
-
-function npcStopSpeaking(){
-  const avatar=document.getElementById('npc-avatar');
-  avatar.classList.remove('speaking');
-}
-
-function npcShowContinue(text){
-  const textEl=document.getElementById('speech-text');
-  const continueEl=document.getElementById('speech-continue');
-
-  textEl.textContent=text||textEl.textContent;
-  continueEl.style.display='block';
-  npcState.awaitingContinue=true;
-  npcStopSpeaking();
-}
-
-function npcContinue(){
-  if(!npcState.awaitingContinue)return;
-
-  const tsId=npcState.currentTSId;
-  hideNPC();
-
-  // Process what comes next
-  if(npcState.pendingContent){
-    // There's content to show - add spotlight
-    const contentEl=npcState.pendingContent;
-    const chunk=contentEl.closest('.chunk');
-    if(chunk)chunk.classList.add('spotlight');
-    scrollToIfNeeded(contentEl,'start');
-    npcState.pendingContent=null;
-
-    // Show "Xem xong" button after content
-    setTimeout(()=>{
-      showContentDoneButtonNPC(contentEl,tsId);
-    },300);
-  }else{
-    // No content - play next TS
-    playNextTSAfter(tsId);
-  }
-}
-window.npcContinue=npcContinue;
-
-function handleOverlayClick(){
-  // Allow clicking overlay to continue if awaiting
-  if(npcState.awaitingContinue){
-    npcContinue();
-  }
-}
-window.handleOverlayClick=handleOverlayClick;
-
-function showContentDoneButtonNPC(contentEl,tsId){
-  // Remove any existing content-done button
-  document.querySelectorAll('.content-done').forEach(el=>el.remove());
-
-  // Create and insert button after content
-  const doneDiv=document.createElement('div');
-  doneDiv.className='content-done show';
-  doneDiv.innerHTML=`<button class="done-btn" onclick="clickContentDoneNPC('${tsId}')">Xem xong ✓</button>`;
-  contentEl.after(doneDiv);
-
-  setTimeout(()=>{
-    scrollToIfNeeded(doneDiv,'center');
-  },300);
-}
-
-function clickContentDoneNPC(tsId){
-  document.querySelectorAll('.content-done').forEach(el=>el.remove());
-  document.querySelectorAll('.chunk.spotlight').forEach(c=>c.classList.remove('spotlight'));
-  playNextTSAfter(tsId);
-}
-window.clickContentDoneNPC=clickContentDoneNPC;
-
-// TTS - Sequential playback with NPC system
-function playTS(el,auto=false){
-  if(state.speaking&&!auto)return;
-  if(state.speaking&&auto){state.tsQueue.push(el);return;}
-
-  const text=el.dataset.text;
-  const pause=parseInt(el.dataset.pause)||0;
-  const href=el.dataset.href;
-
-  // Mark TS as played (hide it since NPC takes over)
-  el.classList.add('played','npc-mode');
-
-  state.speaking=true;
-  state.currentTSId=el.id;
-  npcState.currentTSId=el.id;
-
-  // Find next content element
-  let nextContent=findNextElement(el);
-  let nextType=getNextType(nextContent);
-
-  // Skip completed vocab
-  while(nextType==='vocab'&&nextContent.classList.contains('vocab-completed')){
-    nextContent=nextContent.nextElementSibling;
-    nextType=getNextType(nextContent);
-  }
-
-  // Store pending content for after NPC speaks
-  if(nextType==='content'||nextType==='vocab'){
-    npcState.pendingContent=nextContent;
-  }else{
-    npcState.pendingContent=null;
-  }
-
-  // Show NPC with text
-  showNPC(text,false);
-
-  const onEnd=()=>{
-    state.speaking=false;
-    npcStopSpeaking();
-
-    if(pause>0){
-      // Start timer, then show continue
-      hideNPC();
-      startTimerNPC(el.id,pause,()=>{
-        processAfterTimer(el.id);
-      });
-    }else{
-      // No timer - check what's next
-      processAfterNPC(el.id,nextType,nextContent);
-    }
-  };
-
-  if(href){
-    const audio=new Audio(href);
-    audio.onended=onEnd;
-    audio.onerror=()=>speakTTS(text,onEnd);
-    audio.play().catch(()=>speakTTS(text,onEnd));
-  }else{
-    speakTTS(text,onEnd);
-  }
-}
-window.playTS=playTS;
-
-function processAfterNPC(tsId,nextType,nextContent){
-  switch(nextType){
-    case 'ts':
-      // Consecutive TSes - auto-play next
-      hideNPC();
-      setTimeout(()=>playTS(nextContent,true),300);
-      break;
-
-    case 'vocab':
-      // Vocab section - show continue, then scroll to vocab
-      npcShowContinue('Bấm tiếp tục để học từ vựng nha!');
-      npcState.pendingContent=nextContent;
-      break;
-
-    case 'content':
-      // Content to view - show continue
-      npcShowContinue('Bấm tiếp tục để xem nội dung nha!');
-      npcState.pendingContent=nextContent;
-      break;
-
-    case 'chunkNav':
-    case 'none':
-      // End of chunk
-      hideNPC();
-      unlockNextChunk();
-      break;
-  }
-}
-
-function processAfterTimer(tsId){
-  const tsEl=document.getElementById(tsId);
-  if(!tsEl)return;
-
-  let next=findNextElement(tsEl);
-  let nextType=getNextType(next);
-
-  while(nextType==='vocab'&&next.classList.contains('vocab-completed')){
-    next=next.nextElementSibling;
-    nextType=getNextType(next);
-  }
-
-  switch(nextType){
-    case 'ts':
-      setTimeout(()=>playTS(next,true),300);
-      break;
-
-    case 'vocab':
-      scrollToIfNeeded(next,'start');
-      break;
-
-    case 'content':
-      scrollToIfNeeded(next,'start');
-      showContentDoneButtonNPC(next,tsId);
-      break;
-
-    case 'chunkNav':
-    case 'none':
-      unlockNextChunk();
-      break;
-  }
-}
-
-function startTimerNPC(id,sec,onComplete){
-  clearInterval(state.timer);
-  state.timerCallback=onComplete;
-  const box=document.getElementById(`${id}-timer`);
-  if(!box)return onComplete();
-
-  const time=box.querySelector('.timer-time');
-  box.classList.add('active');
-  scrollToIfNeeded(box,'center');
-
-  let rem=sec;
-  time.textContent=formatTime(rem);
-  time.className='timer-time';
-
-  state.timer=setInterval(()=>{
-    rem--;
-    time.textContent=formatTime(rem);
-    if(rem<=10)time.classList.add('warning');
-    if(rem<=5)time.classList.add('danger');
-    if(rem<=0){
-      clearInterval(state.timer);
-      box.classList.remove('active');
-      if(state.timerCallback)state.timerCallback();
-    }
-  },1000);
-}
-
-// ========== TS STATE MANAGEMENT ==========
-// Combinatorial analysis of all cases:
-// Variables: hasTimer, nextType (ts|vocab|content|chunkNav|none), vocabState (notStarted|completed)
-//
-// | Timer | Next     | VocabState  | Action                           |
-// |-------|----------|-------------|----------------------------------|
-// | No    | TS       | -           | Auto-play next TS                |
-// | No    | Vocab    | notStarted  | Scroll to vocab                  |
-// | No    | Vocab    | completed   | Skip, check next sibling         |
-// | No    | Content  | -           | Show "Nghe rồi", scroll content  |
-// | No    | ChunkNav | -           | Unlock chunk nav                 |
-// | Yes   | *        | *           | Timer first, then same as above  |
-
-// Find next meaningful element after TS (skipping timer, buttons, etc.)
-function findNextElement(tsEl){
-  let next=tsEl.nextElementSibling;
-  // Skip timer, action buttons, continue button, content-done
-  while(next&&(
-    next.classList.contains('timer')||
-    next.classList.contains('action-row')||
-    next.id?.includes('-player')||
-    next.id?.includes('-photo')||
-    next.classList.contains('ts-continue')||
-    next.classList.contains('content-done')
-  )){
-    next=next.nextElementSibling;
-  }
-  return next;
-}
-
-// Determine the type of next element
-function getNextType(next){
-  if(!next) return 'none';
-  if(next.classList.contains('ts')) return 'ts';
-  if(next.classList.contains('vocab-interactive')) return 'vocab';
-  if(next.classList.contains('chunk-nav')) return 'chunkNav';
-  return 'content';
-}
-
-// Process next element after TS completes (called after timer if any)
-function processNextAfterTS(tsId){
-  const chunk=document.getElementById(`chunk-${state.currentChunk}`);
-  if(!chunk)return;
-
-  const tsEl=document.getElementById(tsId);
-  if(!tsEl)return;
-
-  let next=findNextElement(tsEl);
-  let nextType=getNextType(next);
-
-  // Handle completed vocab - skip to next sibling
-  while(nextType==='vocab'&&next.classList.contains('vocab-completed')){
-    next=next.nextElementSibling;
-    nextType=getNextType(next);
-  }
-
-  const allTS=Array.from(chunk.querySelectorAll('.ts'));
-  const nextUnplayedTS=allTS.find(ts=>!ts.classList.contains('played'));
-
-  switch(nextType){
-    case 'ts':
-      // Consecutive TSes - auto-play
-      setTimeout(()=>playTS(next,true),300);
-      break;
-
-    case 'vocab':
-      // Vocab not started - scroll to it, let student start
-      scrollToIfNeeded(next,'start');
-      // Vocab handles its own flow
-      break;
-
-    case 'content':
-      // Show "Nghe rồi" button and scroll to content
-      const continueEl=document.getElementById(`${tsId}-continue`);
-      if(continueEl){
-        continueEl.classList.add('show');
-        scrollToIfNeeded(next,'start');
-      }
-      break;
-
-    case 'chunkNav':
-    case 'none':
-      // End of chunk - unlock navigation
-      unlockNextChunk();
-      break;
-  }
-}
-
-// Show continue button after TS completes (entry point)
-function showContinueButton(tsId){
-  processNextAfterTS(tsId);
-}
-
-// Click "Nghe rồi" - check if there's content to view first
-function clickContinue(tsId){
-  const continueEl=document.getElementById(`${tsId}-continue`);
-  if(continueEl)continueEl.classList.remove('show');
-
-  const tsEl=document.getElementById(tsId);
-  if(!tsEl)return;
-
-  // Find content after this TS
-  let next=tsEl.nextElementSibling;
-  while(next&&(next.classList.contains('timer')||next.classList.contains('action-row')||next.id?.includes('-player')||next.id?.includes('-photo')||next.classList.contains('ts-continue'))){
-    next=next.nextElementSibling;
-  }
-
-  // If there's content (not another TS), show it and add "Xem xong" button
-  if(next&&!next.classList.contains('ts')&&!next.classList.contains('chunk-nav')){
-    // Vocab has its own flow
-    if(next.classList.contains('vocab-interactive')&&!next.classList.contains('vocab-completed')){
-      scrollToIfNeeded(next,'start');
-      return;
-    }
-
-    // Show content and add "Xem xong" button after it
-    scrollToIfNeeded(next,'start');
-    showContentDoneButton(next,tsId);
-    return;
-  }
-
-  // No content - play next TS directly
-  playNextTSAfter(tsId);
-}
-window.clickContinue=clickContinue;
-
-// Show "Xem xong" button after content block
-function showContentDoneButton(contentEl,tsId){
-  // Remove any existing content-done button
-  document.querySelectorAll('.content-done').forEach(el=>el.remove());
-
-  // Create and insert button after content
-  const doneDiv=document.createElement('div');
-  doneDiv.className='content-done show';
-  doneDiv.innerHTML=`<button class="done-btn" onclick="clickContentDone('${tsId}')">Xem xong ✓</button>`;
-  contentEl.after(doneDiv);
-
-  // Scroll to show content with button visible
-  setTimeout(()=>{
-    scrollToIfNeeded(doneDiv,'center');
-  },300);
-}
-
-// Click "Xem xong" - now play next TS
-function clickContentDone(tsId){
-  // Remove the button
-  document.querySelectorAll('.content-done').forEach(el=>el.remove());
-  // Play next TS
-  playNextTSAfter(tsId);
-}
-window.clickContentDone=clickContentDone;
-
-// Play the next TS after a given TS
-function playNextTSAfter(tsId){
-  const chunk=document.getElementById(`chunk-${state.currentChunk}`);
-  if(!chunk)return;
-
-  const allTS=Array.from(chunk.querySelectorAll('.ts'));
-  const nextTS=allTS.find(ts=>!ts.classList.contains('played'));
-  if(nextTS){
-    playTS(nextTS,true);
-  }else{
-    unlockNextChunk();
-  }
-}
-
-// Called after vocab finishes to resume the continue-button flow
-function playNextTS(){
-  const chunk=document.getElementById(`chunk-${state.currentChunk}`);
-  if(!chunk)return;
-
-  const allTS=Array.from(chunk.querySelectorAll('.ts'));
-  const nextTS=allTS.find(ts=>!ts.classList.contains('played'));
-  if(nextTS){
-    // Find the previous TS that was played and show its continue button
-    const playedTS=Array.from(chunk.querySelectorAll('.ts.played'));
-    if(playedTS.length>0){
-      const lastPlayed=playedTS[playedTS.length-1];
-      showContinueButton(lastPlayed.id);
-    }else{
-      // No TS played yet, play the first one
-      setTimeout(()=>playTS(nextTS,true),200);
-    }
-  }else{
-    unlockNextChunk();
-  }
-}
-
-function speakTTS(text,onEnd){
-  if(!('speechSynthesis' in window)){onEnd();return}
-  speechSynthesis.cancel();
-  const u=new SpeechSynthesisUtterance(text);
-  u.lang='vi-VN';u.rate=.95;
-  u.onend=onEnd;u.onerror=onEnd;
-  speechSynthesis.speak(u);
-}
-
+// Global speak function for vocab system
 function speak(text,lang='en-US'){
   if(!('speechSynthesis' in window))return;
   speechSynthesis.cancel();
@@ -997,106 +984,6 @@ function speak(text,lang='en-US'){
   speechSynthesis.speak(u);
 }
 window.speak=speak;
-
-function startTimer(id,sec,onComplete){
-  clearInterval(state.timer);
-  state.timerCallback=onComplete;
-  const box=document.getElementById(`${id}-timer`);
-  const time=box.querySelector('.timer-time');
-  box.classList.add('active');
-  scrollToIfNeeded(box,'center');
-  let rem=sec;
-  time.textContent=formatTime(rem);
-  time.className='timer-time';
-  state.timer=setInterval(()=>{
-    rem--;time.textContent=formatTime(rem);
-    if(rem<=10)time.classList.add('warning');
-    if(rem<=5)time.classList.add('danger');
-    if(rem<=0){
-      clearInterval(state.timer);
-      box.classList.remove('active');
-      if(state.timerCallback)state.timerCallback();
-    }
-  },1000);
-}
-
-function skipTimer(id){
-  clearInterval(state.timer);
-  document.getElementById(`${id}-timer`).classList.remove('active');
-  if(state.timerCallback)state.timerCallback();
-}
-window.skipTimer=skipTimer;
-
-function formatTime(s){const m=Math.floor(s/60);return m>0?`${m}:${(s%60).toString().padStart(2,'0')}`:`${s}s`}
-
-// Chunk Navigation
-function setupNavigation(){
-  // Allow scrolling but guide user through chunks
-  document.body.style.overflow='auto';
-
-  // Add navigation buttons to each chunk
-  document.querySelectorAll('.chunk').forEach((chunk,i)=>{
-    const nav=document.createElement('div');
-    nav.className='chunk-nav';
-    nav.innerHTML=`<button class="nav-btn" id="nav-${i}" onclick="goNextChunk()" disabled>Tiếp tục →</button>`;
-    chunk.appendChild(nav);
-  });
-
-  // Progress bar based on chunks
-  updateProgress();
-}
-
-function activateChunk(idx){
-  if(idx>=state.chunks.length)return;
-  state.currentChunk=idx;
-
-  document.querySelectorAll('.chunk').forEach((c,i)=>{
-    c.classList.remove('current','completed');
-    if(i<idx)c.classList.add('completed');
-    if(i===idx)c.classList.add('current');
-  });
-
-  const chunk=document.getElementById(`chunk-${idx}`);
-  if(chunk){
-    scrollToIfNeeded(chunk,'start');
-    setTimeout(()=>{
-      const firstTS=chunk.querySelector('.ts:not(.played)');
-      if(firstTS){
-        playTS(firstTS,true);
-      }else{
-        unlockNextChunk();
-      }
-    },600);
-  }
-  updateProgress();
-}
-
-function unlockNextChunk(){
-  const btn=document.getElementById(`nav-${state.currentChunk}`);
-  if(btn){btn.disabled=false;btn.classList.add('ready');}
-}
-
-function goNextChunk(){
-  const nextIdx=state.currentChunk+1;
-  if(nextIdx<state.chunks.length){
-    activateChunk(nextIdx);
-  }else{
-    // Lesson complete
-    showComplete();
-  }
-}
-window.goNextChunk=goNextChunk;
-
-function showComplete(){
-  const content=document.getElementById('content');
-  content.innerHTML+=`<div class="complete-box"><div class="complete-icon">🎉</div><h2>Hoàn thành bài học!</h2><p>Giỏi lắm! Về nhà ôn lại từ vựng nha.</p></div>`;
-  document.querySelector('.complete-box').scrollIntoView({behavior:'smooth'});
-}
-
-function updateProgress(){
-  const pct=((state.currentChunk+1)/state.chunks.length)*100;
-  document.getElementById('progress-fill').style.width=pct+'%';
-}
 
 // Recording
 let recorder=null,chunks=[];
@@ -1642,9 +1529,9 @@ async function finishVocab(id){
   // Speak transition message
   await speakAsync('Các em đã ghi từ vựng rồi nha. Nhớ học bài hen. Giờ mình qua bài tiếp theo.','vi-VN');
 
-  // Resume teacher script playback - continue with remaining TS in chunk
+  // Resume through LectureManager
   setTimeout(()=>{
-    playNextTS();
+    LM.onVocabComplete();
   },500);
 }
 window.finishVocab=finishVocab;
