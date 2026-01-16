@@ -2,18 +2,11 @@
 
 ## GETTING STARTED - What's on today?
 
-<!-- chunk: intro -->
-<teacher_script pause="0">
-Ok lớp 6, Unit 7 nha - Television. Truyền hình.
-</teacher_script>
-
-<teacher_script pause="0">
-Mở sách trang 6 tập 2 đi.
-</teacher_script>
-
----
-
 <!-- chunk: vocabulary -->
+<teacher_script pause="0">
+Ok lớp 6, Unit 7 nha - Television. Mở sách trang 6 tập 2 đi.
+</teacher_script>
+
 <teacher_script pause="0">
 Đây là từ vựng bài này. Click vô từ để nghe phát âm nha.
 </teacher_script>
