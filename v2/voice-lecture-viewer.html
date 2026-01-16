@@ -133,6 +133,81 @@
     .complete-box h2{color:#0369a1;margin-bottom:8px}
     .complete-box p{color:#075985}
 
+    /* ========== VOCABULARY INTERACTIVE SYSTEM ========== */
+
+    /* Vocab Container */
+    .vocab-interactive{background:linear-gradient(135deg,#f0f9ff,#e0f2fe);border-radius:16px;padding:16px;margin:12px 0;border:2px solid #bae6fd}
+    .vocab-phase{display:none}
+    .vocab-phase.active{display:block}
+    .vocab-progress{display:flex;gap:6px;margin-bottom:16px;flex-wrap:wrap}
+    .vocab-progress-dot{width:10px;height:10px;border-radius:50%;background:#cbd5e1;transition:all .3s}
+    .vocab-progress-dot.done{background:#10b981}
+    .vocab-progress-dot.current{background:#0ea5e9;transform:scale(1.3);box-shadow:0 0 8px rgba(14,165,233,.5)}
+
+    /* Phase Header */
+    .phase-header{background:linear-gradient(135deg,#0284c7,#0ea5e9);color:#fff;padding:12px 16px;border-radius:12px;margin-bottom:16px;display:flex;align-items:center;gap:10px}
+    .phase-icon{font-size:1.5rem}
+    .phase-title{flex:1;font-weight:600}
+    .phase-count{font-size:.85rem;opacity:.9}
+
+    /* Flash Card */
+    .flashcard{background:#fff;border-radius:20px;padding:32px 24px;text-align:center;box-shadow:0 8px 32px rgba(0,0,0,.1);min-height:280px;display:flex;flex-direction:column;justify-content:center;position:relative;overflow:hidden}
+    .flashcard.flip .flashcard-front{opacity:0;transform:rotateY(90deg)}
+    .flashcard.flip .flashcard-back{opacity:1;transform:rotateY(0)}
+    .flashcard-front,.flashcard-back{transition:all .4s}
+    .flashcard-back{position:absolute;inset:0;display:flex;flex-direction:column;justify-content:center;padding:32px 24px;opacity:0;transform:rotateY(-90deg)}
+    .flashcard-word{font-size:2rem;font-weight:700;color:#0284c7;margin-bottom:8px}
+    .flashcard-pron{font-size:1.1rem;color:#64748b;font-family:monospace;margin-bottom:12px}
+    .flashcard-type{display:inline-block;background:#e0f2fe;color:#0369a1;padding:4px 12px;border-radius:20px;font-size:.8rem;font-weight:600;margin-bottom:16px}
+    .flashcard-meaning{font-size:1.4rem;color:#0f172a;margin-top:12px}
+    .flashcard-repeat{font-size:.9rem;color:#64748b;margin-top:16px}
+    .flashcard-repeat span{display:inline-block;width:24px;height:24px;line-height:24px;border-radius:50%;background:#e2e8f0;margin:0 4px;font-weight:600}
+    .flashcard-repeat span.done{background:#10b981;color:#fff}
+    .flashcard-speaking{animation:cardPulse 1s ease infinite}
+    @keyframes cardPulse{0%,100%{box-shadow:0 8px 32px rgba(0,0,0,.1)}50%{box-shadow:0 8px 40px rgba(14,165,233,.3)}}
+
+    /* Quiz */
+    .quiz-question{background:#fff;border-radius:16px;padding:20px;margin-bottom:16px;text-align:center}
+    .quiz-prompt{font-size:1rem;color:#64748b;margin-bottom:8px}
+    .quiz-word{font-size:1.8rem;font-weight:700;color:#0284c7}
+    .quiz-options{display:flex;flex-direction:column;gap:10px}
+    .quiz-option{background:#fff;border:2px solid #e2e8f0;border-radius:12px;padding:14px 16px;cursor:pointer;transition:all .2s;text-align:left;font-size:1rem}
+    .quiz-option:hover{border-color:#0ea5e9;background:#f0f9ff}
+    .quiz-option.selected{border-color:#0ea5e9;background:#e0f2fe}
+    .quiz-option.correct{border-color:#10b981;background:#d1fae5;animation:correctPop .3s}
+    .quiz-option.wrong{border-color:#ef4444;background:#fee2e2;animation:shake .3s}
+    @keyframes correctPop{50%{transform:scale(1.02)}}
+    @keyframes shake{0%,100%{transform:translateX(0)}25%{transform:translateX(-5px)}75%{transform:translateX(5px)}}
+
+    /* Game - Matching */
+    .game-container{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+    .game-col{display:flex;flex-direction:column;gap:8px}
+    .game-col-title{font-size:.8rem;color:#64748b;text-align:center;margin-bottom:4px;font-weight:600}
+    .game-item{background:#fff;border:2px solid #e2e8f0;border-radius:10px;padding:12px;cursor:pointer;transition:all .2s;font-size:.95rem;min-height:48px;display:flex;align-items:center;justify-content:center;text-align:center}
+    .game-item:hover{border-color:#0ea5e9;transform:scale(1.02)}
+    .game-item.selected{border-color:#0ea5e9;background:#e0f2fe;box-shadow:0 0 12px rgba(14,165,233,.3)}
+    .game-item.matched{border-color:#10b981;background:#d1fae5;opacity:.6;pointer-events:none}
+    .game-item.wrong{animation:shake .3s;border-color:#ef4444}
+    .game-score{text-align:center;margin-top:16px;font-size:1.1rem;font-weight:600;color:#0369a1}
+
+    /* Writing Phase */
+    .writing-list{background:#fff;border-radius:12px;padding:16px;margin-bottom:16px}
+    .writing-item{display:flex;gap:12px;padding:10px 0;border-bottom:1px dashed #e2e8f0;align-items:center}
+    .writing-item:last-child{border-bottom:none}
+    .writing-num{width:24px;height:24px;background:#0ea5e9;color:#fff;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:.8rem;font-weight:600;flex-shrink:0}
+    .writing-word{font-weight:600;color:#0284c7;min-width:100px}
+    .writing-meaning{flex:1;color:#475569}
+    .writing-timer{background:linear-gradient(135deg,#0c4a6e,#075985);color:#fff;padding:20px;border-radius:16px;text-align:center}
+    .writing-timer-label{font-size:.9rem;opacity:.8;margin-bottom:8px}
+    .writing-timer-time{font-size:3rem;font-weight:700}
+
+    /* Phase Nav Buttons */
+    .vocab-nav{display:flex;gap:10px;margin-top:16px;justify-content:center}
+    .vocab-btn{background:linear-gradient(135deg,#0ea5e9,#0284c7);color:#fff;border:none;padding:14px 28px;border-radius:50px;font-size:1rem;font-weight:600;cursor:pointer;transition:all .2s;box-shadow:0 4px 12px rgba(14,165,233,.3)}
+    .vocab-btn:hover{transform:scale(1.05)}
+    .vocab-btn:disabled{background:#94a3b8;cursor:not-allowed;transform:none}
+    .vocab-btn.secondary{background:transparent;color:#0369a1;border:2px solid #0ea5e9;box-shadow:none}
+
     /* Scrollbar hide for locked mode */
     body::-webkit-scrollbar{display:none}
     body{-ms-overflow-style:none;scrollbar-width:none}
@@ -164,6 +239,12 @@
 <script>
 const CONFIG={contentUrl:null,tgToken:null,tgChat:null,audioBase:null,skip:false};
 const state={chunks:[],name:'',photo:null,speaking:false,timer:null,currentChunk:0,tsQueue:[],locked:true};
+
+// Vocabulary Interactive State
+const vocabState={
+  instances:{}, // Multiple vocab sections possible
+  currentInstance:null
+};
 
 // Init
 document.addEventListener('DOMContentLoaded',()=>{
@@ -253,30 +334,30 @@ function render(){
 
 function renderContent(md){
   let h=md;
-  // Custom tags - VOCABULARY with flexible parsing
+  // Custom tags - VOCABULARY with Interactive Learning System
   h=h.replace(/<vocabulary>([\s\S]*?)<\/vocabulary>/gi,(_,c)=>{
-    let items='';
-    let count=0;
+    const vocabId='vocab'+Math.random().toString(36).slice(2,8);
+    const words=[];
     c.trim().split(/\r?\n/).forEach(line=>{
-      // Match: number. **word** : rest
       const baseMatch=line.match(/^\d+\.\s*\*\*(.+?)\*\*\s*:\s*(.+)$/);
       if(baseMatch){
-        count++;
         const word=baseMatch[1];
         let rest=baseMatch[2].trim();
-        // Extract optional (type) at start
         let type=null;
         const typeMatch=rest.match(/^\(([^)]+)\)\s*/);
         if(typeMatch){type=typeMatch[1];rest=rest.slice(typeMatch[0].length);}
-        // Extract optional /pron/ at end
         let pron=null;
         const pronMatch=rest.match(/\s*\/([^\/]+)\/$/);
         if(pronMatch){pron=pronMatch[1];rest=rest.slice(0,-pronMatch[0].length);}
         const meaning=rest.trim();
-        if(word&&meaning)items+=`<div class="vocab-item" onclick="speak('${word.replace(/'/g,"\\'")}','en-US')"><span class="vocab-word">${word}</span>${type?`<span class="vocab-type">${type}</span>`:''}<span class="vocab-meaning">${meaning}</span>${pron?`<span class="vocab-pron">/${pron}/</span>`:''}</div>`;
+        if(word&&meaning)words.push({word,type,pron,meaning});
       }
     });
-    return items?`<div class="card vocab-list">${items}</div>`:'';
+    if(words.length===0)return'';
+    // Store for later use
+    vocabState.instances[vocabId]={words,currentWord:0,phase:'flashcard',quizAnswers:[],gameMatched:0};
+    // Build interactive HTML
+    return buildVocabInteractive(vocabId,words);
   });
 
   // TEACHER SCRIPT - Hide text, show friendly label
@@ -583,6 +664,420 @@ async function sendAudio(blob,caption){
     await fetch(`https://api.telegram.org/bot${CONFIG.tgToken}/sendVoice`,{method:'POST',body:fd});
   }catch(e){}
   document.getElementById('sending').classList.remove('active');
+}
+
+// ========== VOCABULARY INTERACTIVE SYSTEM ==========
+
+function buildVocabInteractive(id,words){
+  const progressDots=words.map((_,i)=>`<div class="vocab-progress-dot" id="${id}-dot-${i}"></div>`).join('');
+  return`
+<div class="vocab-interactive" id="${id}">
+  <div class="vocab-progress">${progressDots}</div>
+
+  <!-- Phase 1: Flash Cards -->
+  <div class="vocab-phase active" id="${id}-phase-flashcard">
+    <div class="phase-header">
+      <span class="phase-icon">🎴</span>
+      <span class="phase-title">Học từ vựng</span>
+      <span class="phase-count">Từ <span id="${id}-fc-num">1</span>/${words.length}</span>
+    </div>
+    <div class="flashcard" id="${id}-flashcard">
+      <div class="flashcard-front">
+        <div class="flashcard-word" id="${id}-fc-word">${words[0].word}</div>
+        <div class="flashcard-pron" id="${id}-fc-pron">${words[0].pron?'/'+words[0].pron+'/':''}</div>
+        ${words[0].type?`<div class="flashcard-type" id="${id}-fc-type">${words[0].type}</div>`:'<div class="flashcard-type" id="${id}-fc-type" style="display:none"></div>'}
+        <div class="flashcard-repeat">Lần đọc: <span id="${id}-rep-1">1</span><span id="${id}-rep-2">2</span><span id="${id}-rep-3">3</span></div>
+      </div>
+      <div class="flashcard-back">
+        <div class="flashcard-word">${words[0].word}</div>
+        <div class="flashcard-meaning" id="${id}-fc-meaning">${words[0].meaning}</div>
+        <div class="flashcard-repeat">Lần đọc: <span id="${id}-rep-vi-1">1</span><span id="${id}-rep-vi-2">2</span><span id="${id}-rep-vi-3">3</span></div>
+      </div>
+    </div>
+    <div class="vocab-nav">
+      <button class="vocab-btn" id="${id}-fc-start" onclick="startFlashcard('${id}')">Bắt đầu học</button>
+    </div>
+  </div>
+
+  <!-- Phase 2: Quiz -->
+  <div class="vocab-phase" id="${id}-phase-quiz">
+    <div class="phase-header">
+      <span class="phase-icon">❓</span>
+      <span class="phase-title">Kiểm tra nhanh</span>
+      <span class="phase-count">Câu <span id="${id}-quiz-num">1</span>/${words.length}</span>
+    </div>
+    <div class="quiz-question">
+      <div class="quiz-prompt" id="${id}-quiz-prompt">Chọn nghĩa đúng:</div>
+      <div class="quiz-word" id="${id}-quiz-word">${words[0].word}</div>
+    </div>
+    <div class="quiz-options" id="${id}-quiz-options"></div>
+  </div>
+
+  <!-- Phase 3: Writing -->
+  <div class="vocab-phase" id="${id}-phase-writing">
+    <div class="phase-header">
+      <span class="phase-icon">✍️</span>
+      <span class="phase-title">Ghi vào tập</span>
+      <span class="phase-count">${words.length} từ</span>
+    </div>
+    <div class="writing-list" id="${id}-writing-list">
+      ${words.map((w,i)=>`<div class="writing-item"><span class="writing-num">${i+1}</span><span class="writing-word">${w.word}</span><span class="writing-meaning">${w.meaning}</span></div>`).join('')}
+    </div>
+    <div class="writing-timer" id="${id}-writing-timer">
+      <div class="writing-timer-label">Thời gian ghi bài</div>
+      <div class="writing-timer-time" id="${id}-writing-time">2:00</div>
+    </div>
+    <div class="vocab-nav">
+      <button class="vocab-btn secondary" onclick="skipWritingTimer('${id}')">Xong rồi →</button>
+    </div>
+  </div>
+
+  <!-- Phase 4: Matching Game -->
+  <div class="vocab-phase" id="${id}-phase-game">
+    <div class="phase-header">
+      <span class="phase-icon">🎮</span>
+      <span class="phase-title">Game nối từ</span>
+      <span class="phase-count" id="${id}-game-score">0/${words.length}</span>
+    </div>
+    <div class="game-container" id="${id}-game-container">
+      <div class="game-col">
+        <div class="game-col-title">Tiếng Anh</div>
+        <div id="${id}-game-words"></div>
+      </div>
+      <div class="game-col">
+        <div class="game-col-title">Tiếng Việt</div>
+        <div id="${id}-game-meanings"></div>
+      </div>
+    </div>
+    <div class="game-score" id="${id}-game-result" style="display:none"></div>
+  </div>
+
+  <!-- Phase 5: Complete -->
+  <div class="vocab-phase" id="${id}-phase-complete">
+    <div class="complete-box" style="margin:0">
+      <div class="complete-icon">🎉</div>
+      <h2>Hoàn thành từ vựng!</h2>
+      <p>Giỏi lắm! Nhớ ôn lại nha.</p>
+    </div>
+    <div class="vocab-nav">
+      <button class="vocab-btn" onclick="finishVocab('${id}')">Tiếp tục bài học →</button>
+    </div>
+  </div>
+</div>`;
+}
+
+// Flash Card Phase
+function startFlashcard(id){
+  const inst=vocabState.instances[id];
+  if(!inst)return;
+  inst.currentWord=0;
+  document.getElementById(`${id}-fc-start`).style.display='none';
+  playFlashcardWord(id);
+}
+window.startFlashcard=startFlashcard;
+
+async function playFlashcardWord(id){
+  const inst=vocabState.instances[id];
+  const w=inst.words[inst.currentWord];
+  const card=document.getElementById(`${id}-flashcard`);
+
+  // Update card content
+  document.getElementById(`${id}-fc-word`).textContent=w.word;
+  document.getElementById(`${id}-fc-pron`).textContent=w.pron?'/'+w.pron+'/':'';
+  const typeEl=document.getElementById(`${id}-fc-type`);
+  if(w.type){typeEl.textContent=w.type;typeEl.style.display='inline-block';}else{typeEl.style.display='none';}
+  document.getElementById(`${id}-fc-meaning`).textContent=w.meaning;
+  document.getElementById(`${id}-fc-num`).textContent=inst.currentWord+1;
+
+  // Reset state
+  card.classList.remove('flip');
+  ['1','2','3'].forEach(n=>{
+    document.getElementById(`${id}-rep-${n}`).classList.remove('done');
+    document.getElementById(`${id}-rep-vi-${n}`).classList.remove('done');
+  });
+
+  // Update progress dots
+  document.querySelectorAll(`#${id} .vocab-progress-dot`).forEach((dot,i)=>{
+    dot.classList.remove('current','done');
+    if(i<inst.currentWord)dot.classList.add('done');
+    if(i===inst.currentWord)dot.classList.add('current');
+  });
+
+  card.classList.add('flashcard-speaking');
+
+  // Read English 3 times
+  for(let i=1;i<=3;i++){
+    await speakAsync(w.word,'en-US');
+    document.getElementById(`${id}-rep-${i}`).classList.add('done');
+    await delay(300);
+  }
+
+  // Flip to show meaning
+  await delay(400);
+  card.classList.add('flip');
+  await delay(500);
+
+  // Read Vietnamese 3 times
+  for(let i=1;i<=3;i++){
+    await speakAsync(w.meaning,'vi-VN');
+    document.getElementById(`${id}-rep-vi-${i}`).classList.add('done');
+    await delay(300);
+  }
+
+  card.classList.remove('flashcard-speaking');
+
+  // Move to next word or quiz phase
+  await delay(800);
+  inst.currentWord++;
+  if(inst.currentWord<inst.words.length){
+    playFlashcardWord(id);
+  }else{
+    // Done with flashcards, go to quiz
+    document.querySelectorAll(`#${id} .vocab-progress-dot`).forEach(dot=>dot.classList.add('done'));
+    startQuizPhase(id);
+  }
+}
+
+// Quiz Phase
+function startQuizPhase(id){
+  const inst=vocabState.instances[id];
+  inst.phase='quiz';
+  inst.currentWord=0;
+  inst.quizAnswers=[];
+
+  document.getElementById(`${id}-phase-flashcard`).classList.remove('active');
+  document.getElementById(`${id}-phase-quiz`).classList.add('active');
+
+  showQuizQuestion(id);
+}
+
+function showQuizQuestion(id){
+  const inst=vocabState.instances[id];
+  const w=inst.words[inst.currentWord];
+  const qTypes=['meaning','spelling','type'];
+  // Pick random question type (but only type if word has type)
+  let availTypes=w.type?qTypes:qTypes.slice(0,2);
+  const qType=availTypes[Math.floor(Math.random()*availTypes.length)];
+
+  document.getElementById(`${id}-quiz-num`).textContent=inst.currentWord+1;
+
+  let prompt,questionWord,correctAnswer,options=[];
+
+  if(qType==='meaning'){
+    prompt='Chọn nghĩa đúng của từ:';
+    questionWord=w.word;
+    correctAnswer=w.meaning;
+    // Get wrong options from other words
+    const others=inst.words.filter((_,i)=>i!==inst.currentWord).map(x=>x.meaning);
+    shuffle(others);
+    options=[correctAnswer,...others.slice(0,3)];
+  }else if(qType==='spelling'){
+    prompt='Từ nào viết đúng cho nghĩa:';
+    questionWord=w.meaning;
+    correctAnswer=w.word;
+    const others=inst.words.filter((_,i)=>i!==inst.currentWord).map(x=>x.word);
+    shuffle(others);
+    options=[correctAnswer,...others.slice(0,3)];
+  }else{
+    prompt='Từ "'+w.word+'" thuộc loại từ nào?';
+    questionWord='';
+    correctAnswer=w.type;
+    options=[correctAnswer,'n','v','adj','adv','phrase'].filter((v,i,a)=>a.indexOf(v)===i).slice(0,4);
+  }
+
+  shuffle(options);
+
+  document.getElementById(`${id}-quiz-prompt`).textContent=prompt;
+  document.getElementById(`${id}-quiz-word`).textContent=questionWord;
+
+  const optContainer=document.getElementById(`${id}-quiz-options`);
+  optContainer.innerHTML=options.map(opt=>`<div class="quiz-option" data-answer="${opt.replace(/"/g,'&quot;')}" onclick="selectQuizOption('${id}',this,'${correctAnswer.replace(/'/g,"\\'")}')">${opt}</div>`).join('');
+}
+
+function selectQuizOption(id,el,correct){
+  const inst=vocabState.instances[id];
+  const selected=el.dataset.answer;
+
+  // Disable all options
+  document.querySelectorAll(`#${id}-quiz-options .quiz-option`).forEach(opt=>{
+    opt.style.pointerEvents='none';
+    if(opt.dataset.answer===correct)opt.classList.add('correct');
+  });
+
+  if(selected===correct){
+    el.classList.add('correct');
+    inst.quizAnswers.push(true);
+  }else{
+    el.classList.add('wrong');
+    inst.quizAnswers.push(false);
+  }
+
+  // Next question after delay
+  setTimeout(()=>{
+    inst.currentWord++;
+    if(inst.currentWord<inst.words.length){
+      showQuizQuestion(id);
+    }else{
+      startWritingPhase(id);
+    }
+  },1200);
+}
+window.selectQuizOption=selectQuizOption;
+
+// Writing Phase
+function startWritingPhase(id){
+  const inst=vocabState.instances[id];
+  inst.phase='writing';
+
+  document.getElementById(`${id}-phase-quiz`).classList.remove('active');
+  document.getElementById(`${id}-phase-writing`).classList.add('active');
+
+  // Start timer (2 minutes = 120 seconds)
+  let timeLeft=120;
+  const timeEl=document.getElementById(`${id}-writing-time`);
+
+  inst.writingTimer=setInterval(()=>{
+    timeLeft--;
+    const m=Math.floor(timeLeft/60);
+    const s=timeLeft%60;
+    timeEl.textContent=`${m}:${s.toString().padStart(2,'0')}`;
+
+    if(timeLeft<=0){
+      clearInterval(inst.writingTimer);
+      startGamePhase(id);
+    }
+  },1000);
+
+  // Speak instruction
+  speakAsync('Giờ ghi từ vựng vào tập nha. 2 phút.','vi-VN');
+}
+
+function skipWritingTimer(id){
+  const inst=vocabState.instances[id];
+  if(inst.writingTimer)clearInterval(inst.writingTimer);
+  startGamePhase(id);
+}
+window.skipWritingTimer=skipWritingTimer;
+
+// Game Phase
+function startGamePhase(id){
+  const inst=vocabState.instances[id];
+  inst.phase='game';
+  inst.gameMatched=0;
+  inst.gameSelected=null;
+
+  document.getElementById(`${id}-phase-writing`).classList.remove('active');
+  document.getElementById(`${id}-phase-game`).classList.add('active');
+
+  // Build game items
+  const words=[...inst.words];
+  const meanings=[...inst.words];
+  shuffle(words);
+  shuffle(meanings);
+
+  const wordsHtml=words.map((w,i)=>`<div class="game-item" data-word="${w.word.replace(/"/g,'&quot;')}" data-type="word" onclick="selectGameItem('${id}',this)">${w.word}</div>`).join('');
+  const meaningsHtml=meanings.map((w,i)=>`<div class="game-item" data-word="${w.word.replace(/"/g,'&quot;')}" data-type="meaning" onclick="selectGameItem('${id}',this)">${w.meaning}</div>`).join('');
+
+  document.getElementById(`${id}-game-words`).innerHTML=wordsHtml;
+  document.getElementById(`${id}-game-meanings`).innerHTML=meaningsHtml;
+  document.getElementById(`${id}-game-score`).textContent=`0/${inst.words.length}`;
+
+  speakAsync('Chơi game nối từ nha. Chọn từ tiếng Anh rồi chọn nghĩa tiếng Việt.','vi-VN');
+}
+
+function selectGameItem(id,el){
+  const inst=vocabState.instances[id];
+  if(el.classList.contains('matched'))return;
+
+  const type=el.dataset.type;
+  const word=el.dataset.word;
+
+  if(!inst.gameSelected){
+    // First selection
+    inst.gameSelected={el,type,word};
+    el.classList.add('selected');
+  }else{
+    // Second selection
+    if(inst.gameSelected.type===type){
+      // Same column - switch selection
+      inst.gameSelected.el.classList.remove('selected');
+      inst.gameSelected={el,type,word};
+      el.classList.add('selected');
+    }else{
+      // Different columns - check match
+      if(inst.gameSelected.word===word){
+        // Match!
+        inst.gameSelected.el.classList.remove('selected');
+        inst.gameSelected.el.classList.add('matched');
+        el.classList.add('matched');
+        inst.gameMatched++;
+        document.getElementById(`${id}-game-score`).textContent=`${inst.gameMatched}/${inst.words.length}`;
+
+        if(inst.gameMatched===inst.words.length){
+          // Game complete
+          setTimeout(()=>{
+            document.getElementById(`${id}-game-result`).style.display='block';
+            document.getElementById(`${id}-game-result`).textContent='🎉 Xuất sắc! Nối đúng hết!';
+            setTimeout(()=>completeVocab(id),1500);
+          },500);
+        }
+      }else{
+        // Wrong match
+        inst.gameSelected.el.classList.add('wrong');
+        el.classList.add('wrong');
+        setTimeout(()=>{
+          inst.gameSelected.el.classList.remove('selected','wrong');
+          el.classList.remove('wrong');
+          inst.gameSelected=null;
+        },500);
+        return;
+      }
+      inst.gameSelected=null;
+    }
+  }
+}
+window.selectGameItem=selectGameItem;
+
+// Complete Vocab
+function completeVocab(id){
+  document.getElementById(`${id}-phase-game`).classList.remove('active');
+  document.getElementById(`${id}-phase-complete`).classList.add('active');
+  speakAsync('Hoàn thành từ vựng rồi! Giỏi lắm!','vi-VN');
+}
+
+function finishVocab(id){
+  // Signal that vocab is done - unlock navigation
+  const vocabEl=document.getElementById(id);
+  if(vocabEl){
+    vocabEl.classList.add('vocab-completed');
+  }
+  // Try to unlock next chunk navigation if this was the interactive part
+  unlockNextChunk();
+}
+window.finishVocab=finishVocab;
+
+// Helper functions
+function shuffle(arr){
+  for(let i=arr.length-1;i>0;i--){
+    const j=Math.floor(Math.random()*(i+1));
+    [arr[i],arr[j]]=[arr[j],arr[i]];
+  }
+  return arr;
+}
+
+function delay(ms){return new Promise(r=>setTimeout(r,ms));}
+
+function speakAsync(text,lang='en-US'){
+  return new Promise(resolve=>{
+    if(!('speechSynthesis' in window)){resolve();return;}
+    speechSynthesis.cancel();
+    const u=new SpeechSynthesisUtterance(text);
+    u.lang=lang;
+    u.rate=lang==='vi-VN'?1:0.85;
+    u.onend=resolve;
+    u.onerror=resolve;
+    speechSynthesis.speak(u);
+  });
 }
 </script>
 </body>
