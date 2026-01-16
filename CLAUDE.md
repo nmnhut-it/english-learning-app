@@ -606,9 +606,24 @@ Ok đáp án nha. Câu 1 là C, câu 2 là A.
 
 ---
 
-### 5. Exercise Content Types
+### 5. Exercise Type Schemas
 
-#### 5.1 Multiple Choice
+Each exercise type has its own schema. **UPDATE when discovering new patterns.**
+
+---
+
+#### 5.1 `listen_read` - Listen and read
+```markdown
+<questions type="listen_read">
+<!-- No questions, just content display -->
+<!-- Use <dialogue> or <reading> tag for content -->
+</questions>
+```
+**Answer format:** None (comprehension only)
+
+---
+
+#### 5.2 `multiple_choice` - Choose the correct answer
 ```markdown
 <questions type="multiple_choice">
 **1.** Question text ________.
@@ -616,53 +631,268 @@ Ok đáp án nha. Câu 1 là C, câu 2 là A.
 - B. Option B
 - C. Option C
 
+*Dịch câu hỏi tiếng Việt.*
+
+**2.** Another question ________.
+- A. Option A
+- B. Option B
+- C. Option C
+
 *Dịch câu hỏi.*
 </questions>
 ```
+**Answer format:** `1.A | 2.B | 3.C`
 
-#### 5.2 Matching
+---
+
+#### 5.3 `matching` - Match
 ```markdown
 <questions type="matching">
 | | Column A | | Column B |
 |---|---------|---|----------|
 | 1 | The Voice Kids | a | animated film |
 | 2 | The Lion King | b | channel |
+| 3 | Tom and Jerry | c | music talent show |
+| 4 | VTV7 | d | educational programme |
+| 5 | English in a Minute | e | cartoon |
 </questions>
 ```
+**Answer format:** `1-c | 2-a | 3-e | 4-b | 5-d`
 
-#### 5.3 Fill in the Blanks
+---
+
+#### 5.4 `fill_blanks` - Fill in the blanks
 ```markdown
 <questions type="fill_blanks">
-**1.** I _______ (watch) TV every evening.
-**2.** She _______ (like) comedies.
+**Word bank:** *popular / boring / cute / funny / educational*
+
+**1.** This programme is very _______. Everyone watches it.
+**2.** I don't like this film. It's _______.
+**3.** Look at that cat! It's so _______.
 </questions>
 ```
+**Answer format:** `1. popular | 2. boring | 3. cute`
 
-#### 5.4 True/False
+---
+
+#### 5.5 `true_false` - True or False
 ```markdown
 <questions type="true_false">
 **1.** Tom likes watching cartoons. _____
+
+*Tom thích xem phim hoạt hình.*
+
 **2.** Lan goes to school by bus. _____
+
+*Lan đi học bằng xe buýt.*
+
+**3.** The conversation is about food. _____
+
+*Cuộc hội thoại nói về thức ăn.*
 </questions>
 ```
+**Answer format:** `1. T | 2. F | 3. F`
 
-#### 5.5 Speaking/Work in Groups
+---
+
+#### 5.6 `find_words` - Find words/adjectives
+```markdown
+<questions type="find_words">
+**Find the adjectives that describe:**
+
+1. The Voice Kids → _______
+2. Animated films → _______
+3. Jerry the mouse → _______
+4. Programmes on VTV7 → _______
+</questions>
+```
+**Answer format:**
+```
+1. The Voice Kids → **interesting**
+2. Animated films → **wonderful**
+```
+
+---
+
+#### 5.7 `complete_sentences` - Complete the sentences
+```markdown
+<questions type="complete_sentences">
+**Complete with the correct form of the verb:**
+
+**1.** She _______ (watch) TV every evening.
+**2.** They _______ (not like) horror films.
+**3.** _______ he _______ (prefer) comedies?
+</questions>
+```
+**Answer format:** `1. watches | 2. don't like | 3. Does... prefer`
+
+---
+
+#### 5.8 `speaking` - Work in pairs/groups
 ```markdown
 <questions type="speaking">
-**Yêu cầu:** Interview your partner about their favourite TV programme.
+**Situation:** Interview your partner about their favourite TV programme.
 
 **Câu hỏi gợi ý:**
 - What's your favourite TV programme?
 - What channel is it on?
 - When do you watch it?
+- Why do you like it?
 
-**Mẫu câu trả lời:**
+**Cấu trúc câu trả lời:**
+- My favourite programme is...
+- It's on channel...
+- I watch it at/on...
+- I like it because...
+
+**Mẫu báo cáo:**
 
 | English | Vietnamese |
 |---------|------------|
-| In our group, Mai likes sports programmes. | Trong nhóm, Mai thích chương trình thể thao. |
+| In our group, Mai likes sports programmes on TV. | Trong nhóm, Mai thích chương trình thể thao trên TV. |
+| She watches them on VTV3 every weekend. | Cô ấy xem trên VTV3 mỗi cuối tuần. |
 </questions>
 ```
+**Answer format:** Sample answers provided
+
+---
+
+#### 5.9 `read_answer` - Read and answer questions
+```markdown
+<questions type="read_answer">
+**Read the passage and answer the questions:**
+
+**1.** What is the passage about?
+→ _______________________
+
+*Đoạn văn nói về gì?*
+
+**2.** Where is the Great Barrier Reef?
+→ _______________________
+
+*Rạn san hô Great Barrier ở đâu?*
+
+**3.** Why is it famous?
+→ _______________________
+
+*Tại sao nó nổi tiếng?*
+</questions>
+```
+**Answer format:** Full sentence answers
+
+---
+
+#### 5.10 `listen_tick` - Listen and tick
+```markdown
+<questions type="listen_tick">
+**Listen and tick (✓) the correct box:**
+
+| Programme | Mai | Phong | Hùng |
+|-----------|-----|-------|------|
+| Cartoons | | | |
+| News | | | |
+| Sports | | | |
+| Music shows | | | |
+</questions>
+```
+**Answer format:** Table with ✓ marks
+
+---
+
+#### 5.11 `ordering` - Put in order
+```markdown
+<questions type="ordering">
+**Put the sentences in the correct order:**
+
+___ He watches The Voice Kids.
+___ Phong turns on the TV.
+___ The programme ends at 9 pm.
+___ Phong has dinner with his family.
+___ He goes to bed.
+</questions>
+```
+**Answer format:** `1-b | 2-a | 3-d | 4-c | 5-e` or `2 → 1 → 4 → 3 → 5`
+
+---
+
+#### 5.12 `make_sentences` - Make sentences
+```markdown
+<questions type="make_sentences">
+**Make sentences from the cues:**
+
+**1.** I / like / watch / cartoon / evening
+→ _______________________
+
+**2.** She / prefer / comedy / horror film
+→ _______________________
+
+**3.** What / programme / you / watch / last night?
+→ _______________________
+</questions>
+```
+**Answer format:** Full sentences
+```
+1. I like watching cartoons in the evening.
+2. She prefers comedy to horror films.
+3. What programme did you watch last night?
+```
+
+---
+
+#### 5.13 `role_play` - Role play
+```markdown
+<questions type="role_play">
+**Role play the conversation:**
+
+**Situation:** You meet a friend. Talk about your favourite TV programmes.
+
+**Role A:** Ask about favourite programmes
+**Role B:** Answer and ask back
+
+**Useful expressions:**
+- What's your favourite...?
+- I really like...
+- How about you?
+- Me too! / Really? I prefer...
+
+**Sample dialogue:**
+
+| A | B |
+|---|---|
+| Hi! What's your favourite TV programme? | Hi! I really like The Voice Kids. |
+| Oh, that's a talent show, right? | Yes! The singers are amazing. How about you? |
+| I prefer cartoons like Tom and Jerry. | Really? That's funny! |
+</questions>
+```
+**Answer format:** Sample dialogue provided
+
+---
+
+#### 5.14 `writing` - Write
+```markdown
+<questions type="writing">
+**Write a paragraph (50-70 words) about your favourite TV programme.**
+
+**Outline:**
+1. What is your favourite programme?
+2. What channel is it on?
+3. When do you watch it?
+4. Why do you like it?
+
+**Useful vocabulary:**
+- favourite, interesting, educational, funny
+- I like... because...
+- It's on channel...
+- I watch it every...
+
+**Sample:**
+
+| English | Vietnamese |
+|---------|------------|
+| My favourite TV programme is The Voice Kids. It's a music talent show on VTV3. I watch it every Saturday evening with my family. I like it because the singers are very talented and the songs are beautiful. | Chương trình TV yêu thích của tôi là Giọng Hát Việt Nhí. Đó là chương trình tài năng âm nhạc trên VTV3. Tôi xem nó vào tối thứ Bảy hàng tuần với gia đình. Tôi thích nó vì các ca sĩ rất tài năng và các bài hát rất hay. |
+</questions>
+```
+**Answer format:** Sample paragraph with translation
 
 ---
 
