@@ -880,7 +880,7 @@ function buildVocabInteractive(id,words){
     </div>
     <div class="writing-timer" id="${id}-writing-timer">
       <div class="writing-timer-label">Thời gian ghi bài</div>
-      <div class="writing-timer-time" id="${id}-writing-time">2:00</div>
+      <div class="writing-timer-time" id="${id}-writing-time">${Math.floor(words.length*30/60)}:${(words.length*30%60).toString().padStart(2,'0')}</div>
     </div>
     <div class="vocab-nav">
       <button class="vocab-btn secondary" onclick="skipWritingTimer('${id}')">Xong rồi →</button>
@@ -1137,8 +1137,9 @@ function startWritingPhase(id){
   document.getElementById(`${id}-phase-quiz`).classList.remove('active');
   document.getElementById(`${id}-phase-writing`).classList.add('active');
 
-  // Start timer (2 minutes = 120 seconds)
-  let timeLeft=120;
+  // Calculate time: 30 seconds per word
+  const secondsPerWord=30;
+  let timeLeft=inst.words.length*secondsPerWord;
   const timeEl=document.getElementById(`${id}-writing-time`);
 
   inst.writingTimer=setInterval(()=>{
@@ -1154,7 +1155,8 @@ function startWritingPhase(id){
   },1000);
 
   // Speak instruction
-  speakAsync('Giờ ghi từ vựng vào tập nha. 2 phút.','vi-VN');
+  const minutes=Math.ceil(timeLeft/60);
+  speakAsync(`Giờ ghi từ vựng vào tập nha. ${minutes} phút.`,'vi-VN');
 }
 
 function skipWritingTimer(id){
