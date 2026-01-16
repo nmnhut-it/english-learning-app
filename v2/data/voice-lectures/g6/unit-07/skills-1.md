@@ -22,34 +22,47 @@ Phần Reading trước nha. Đọc bảng chương trình TV và trả lời c�
 
 <!-- chunk: vocabulary -->
 <teacher_script pause="0">
-Trước khi đọc, học một số từ vựng quan trọng nha.
+Trước khi đọc, học từ vựng quan trọng nha. Có 21 từ.
 </teacher_script>
 
 <vocabulary>
-1. **wildlife** : (n) động vật hoang dã /ˈwaɪldlaɪf/
-2. **comedy** : (n) hài kịch /ˈkɒmədi/
-3. **race** : (n) cuộc đua /reɪs/
-4. **game show** : (n) chương trình trò chơi /ˈɡeɪm ʃəʊ/
-5. **dolphin** : (n) cá heo /ˈdɒlfɪn/
-6. **pet** : (n) thú cưng, vật nuôi /pet/
-7. **clip** : (n) đoạn video ngắn /klɪp/
-8. **complete** : (v) hoàn thành /kəmˈpliːt/
+1. **programme** : (n) chương trình /ˈprəʊɡræm/
+2. **wildlife** : (n) động vật hoang dã /ˈwaɪldlaɪf/
+3. **description** : (n) sự mô tả, miêu tả /dɪˈskrɪpʃən/
+4. **comedy** : (n) hài kịch, phim hài /ˈkɒmədɪ/
+5. **sports** : (n) thể thao /spɔːts/
+6. **game show** : (n) chương trình truyền hình trò chơi /ˈɡeɪm ʃəʊ/
+7. **science** : (n) khoa học /ˈsaɪəns/
+8. **forest** : (n) rừng /ˈfɒrɪst/
+9. **The Pig Race** : Cuộc đua của những chú heo /ðə pɪɡ reɪs/
+10. **Children Are Always Right** : Trẻ em luôn đúng /ˈtʃɪldrən ɑːr ˈɔːlweɪz raɪt/
+11. **colourful world** : thế giới đầy màu sắc /ˈkʌləfʊl wɜːld/
+12. **plant** : (n) thực vật, cây /plɑːnt/
+13. **flower** : (n) hoa /ˈflaʊə/
+14. **animal** : (n) động vật /ˈænɪməl/
+15. **have a lot of fun** : có nhiều niềm vui /hæv ə lɒt əv fʌn/
+16. **on their first day at school** : vào ngày đầu tiên đến trường /ɒn ðeə fɜːst deɪ æt skuːl/
+17. **compete** : (v) cạnh tranh, thi đấu /kəmˈpiːt/
+18. **the most exciting race** : cuộc đua thú vị nhất /ðə məʊst ɪkˈsaɪtɪŋ reɪs/
+19. **pet** : (n) thú cưng /pet/
+20. **intelligent** : (adj) thông minh /ɪnˈtelɪdʒənt/
+21. **dolphin** : (n) cá heo /ˈdɒlfɪn/
 </vocabulary>
 
 <teacher_script pause="0">
-Từ 1: wildlife - động vật hoang dã.
-Từ 2: comedy - hài kịch.
-Từ 3: race - cuộc đua.
+Từ 1-7: programme, wildlife, description, comedy, sports, game show, science.
 </teacher_script>
 
 <teacher_script pause="0">
-Từ 4: game show - chương trình trò chơi.
-Từ 5: dolphin - cá heo.
-Từ 6: pet - thú cưng, vật nuôi.
+Từ 8-14: forest, The Pig Race, Children Are Always Right, colourful world, plant, flower, animal.
 </teacher_script>
 
-<teacher_script pause="60">
-Click vô từ để nghe phát âm, ghi vô vở đi. 1 phút nha.
+<teacher_script pause="0">
+Từ 15-21: have a lot of fun, on their first day at school, compete, the most exciting race, pet, intelligent, dolphin.
+</teacher_script>
+
+<teacher_script pause="120">
+Click vô từ để nghe phát âm, ghi vô vở đi. 2 phút nha.
 </teacher_script>
 
 ---
@@ -69,9 +82,9 @@ Bài 1 nha. Đọc bảng chương trình TV và trả lời câu hỏi.
 
 ---
 
-<!-- chunk: tv_guide -->
+<!-- chunk: tv_guide_english -->
 <teacher_script pause="0">
-Đây là bảng chương trình TV nha. Đọc kỹ từng chương trình.
+Đây là bảng chương trình TV bằng tiếng Anh nha.
 </teacher_script>
 
 <content_table>
@@ -79,34 +92,34 @@ Bài 1 nha. Đọc bảng chương trình TV và trả lời câu hỏi.
 |------|-----------|-------------|
 | **8:00** | **Wildlife:** Cuc Phuong Forest | See the colourful world of plants, flowers and animals in their real life. |
 | **9:00** | **Comedy:** The Fox Teacher | Lots of funny things happen to the fox teacher and his students on the first day at school. |
-| **10:30** | **Sports:** The Pig Race | Watch cute pigs complete the funniest races. Which will win? |
+| **10:30** | **Sports:** The Pig Race | Watch cute pigs compete in the most exciting races. Which will win? |
 | **11:00** | **Game show:** Children are Always Right | Join the show today and try to answer the interesting questions about pets. |
-| **12:15** | **Science:** The Dolphins | Watch interesting clips about clever dolphins in their natural life. |
+| **12:15** | **Science:** The Dolphins | Watch interesting clips about intelligent dolphins in their natural life. |
 </content_table>
 
 <teacher_script pause="0">
-8 giờ: Wildlife - Rừng Cúc Phương. Xem thế giới muôn màu của thực vật và động vật.
+8 giờ: Wildlife - Cuc Phuong Forest. See the colourful world of plants, flowers and animals.
 </teacher_script>
 
 <teacher_script pause="0">
-9 giờ: Comedy - The Fox Teacher. Nhiều điều thú vị xảy ra với thầy giáo cáo và học sinh ngày đầu đến trường.
+9 giờ: Comedy - The Fox Teacher. Lots of funny things happen on the first day at school.
 </teacher_script>
 
 <teacher_script pause="0">
-10 giờ 30: Sports - The Pig Race. Xem những chú heo xinh xắn đua nhau.
+10 giờ 30: Sports - The Pig Race. Watch cute pigs compete in the most exciting races.
 </teacher_script>
 
 <teacher_script pause="0">
-11 giờ: Game show - Children are Always Right. Trả lời câu hỏi về thú cưng.
+11 giờ: Game show - Children are Always Right. Answer interesting questions about pets.
 </teacher_script>
 
 <teacher_script pause="0">
-12 giờ 15: Science - The Dolphins. Xem clip về cá heo thông minh trong đời sống tự nhiên.
+12 giờ 15: Science - The Dolphins. Watch clips about intelligent dolphins.
 </teacher_script>
 
 ---
 
-<!-- chunk: tv_guide_translation -->
+<!-- chunk: tv_guide_vietnamese -->
 <teacher_script pause="0">
 Đây là bản dịch tiếng Việt nha.
 </teacher_script>
@@ -114,15 +127,15 @@ Bài 1 nha. Đọc bảng chương trình TV và trả lời câu hỏi.
 <translation>
 | Thời gian | Chương trình | Mô tả |
 |-----------|--------------|-------|
-| **8:00** | **Động vật hoang dã:** Rừng Cúc Phương | Chiêm ngưỡng thế giới muôn màu của thực vật, các loài hoa, các loài động vật trong cuộc sống thực. |
-| **9:00** | **Hài:** Thầy giáo Cáo | Có rất nhiều điều thú vị xảy ra với thầy giáo cáo và học sinh của thầy trong ngày đầu tiên đến trường. |
-| **10:30** | **Thể thao:** Cuộc đua Heo | Xem những chú heo xinh xắn hoàn thành những cuộc đua thú vị nhất. Chú nào sẽ thắng? |
-| **11:00** | **Chương trình trò chơi:** Trẻ em luôn đúng | Hãy tham gia chương trình hôm nay và cố gắng trả lời những câu hỏi thú vị về vật nuôi. |
-| **12:15** | **Khoa học:** Cá heo | Xem những clip thú vị về những chú cá heo thông minh trong cuộc sống tự nhiên của chúng. |
+| **8:00** | **Thế giới động vật:** Rừng Cúc Phương | Ngắm nhìn thế giới đầy màu sắc của thực vật, hoa và động vật trong đời sống thực của chúng. |
+| **9:00** | **Hài kịch:** Thầy giáo Cáo | Có rất nhiều niềm vui với một thầy giáo cáo và học sinh của mình trong ngày đầu tiên đến trường. |
+| **10:30** | **Thể thao:** Đua Heo | Cùng xem những chú heo dễ thương tranh tài trong những cuộc đua hấp dẫn nhất. Ai là người thắng cuộc đây? |
+| **11:00** | **Trò chơi truyền hình:** Trẻ em luôn đúng | Hãy tham gia game show này ngay hôm nay và thử trả lời những câu hỏi thú vị về thú cưng. |
+| **12:15** | **Khoa học:** Cá heo | Xem clip vui nhộn và thú vị về những chú cá heo thông minh trong đời sống tự nhiên dưới biển. |
 </translation>
 
 <teacher_script pause="60">
-Đọc kỹ bảng đi. 1 phút nha.
+Đọc kỹ cả 2 bảng đi. 1 phút nha.
 </teacher_script>
 
 ---
@@ -134,29 +147,34 @@ Giờ trả lời 5 câu hỏi nha.
 
 <questions type="read_answer">
 **1.** What is the Wildlife programme about?
-→ _______________________
 
 *Chương trình Wildlife nói về gì?*
 
-**2.** Is the Fox Teacher a comedy?
 → _______________________
+
+**2.** Is the Fox Teacher a comedy?
 
 *The Fox Teacher có phải là chương trình hài không?*
 
-**3.** What time is The Pig Race on?
 → _______________________
+
+**3.** What time is The Pig Race on?
 
 *The Pig Race chiếu lúc mấy giờ?*
 
-**4.** Can we see real dolphins in the Science programme?
 → _______________________
 
-*Chúng ta có thể xem cá heo thật trong chương trình Science không?*
+**4.** Can we watch the game show at 10.30?
+
+*Chúng ta có thể xem game show lúc 10.30 không?*
+
+→ _______________________
 
 **5.** What is the Science programme about?
-→ _______________________
 
 *Chương trình Science nói về gì?*
+
+→ _______________________
 </questions>
 
 <teacher_script pause="0">
@@ -170,7 +188,7 @@ Câu 3: Pig Race chiếu lúc mấy giờ?
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 4: Có thể xem cá heo thật trong Science programme không?
+Câu 4: Có thể xem game show lúc 10.30 không?
 Câu 5: Science programme nói về gì?
 </teacher_script>
 
@@ -187,10 +205,10 @@ Ok đáp án nha.
 
 <answer>
 **Đáp án:**
-1. It's (about) Cuc Phuong Forest. / It's about plants, flowers and animals.
+1. It's Cuc Phuong Forest. / It's about plants, flowers and animals.
 2. Yes, it is.
 3. It's on at 10:30.
-4. No, we can't. (We can only watch clips/videos.)
+4. No, we can't. (Game show is at 11:00, not 10:30)
 5. It's about dolphins.
 </answer>
 
@@ -203,7 +221,7 @@ Câu 1: What is the Wildlife programme about?
 </teacher_script>
 
 <teacher_script pause="0">
-Đáp án: It's Cuc Phuong Forest. Hoặc: It's about plants, flowers and animals.
+Đáp án: It's Cuc Phuong Forest.
 </teacher_script>
 
 <teacher_script pause="0">
@@ -215,7 +233,11 @@ Câu 2: Is the Fox Teacher a comedy?
 </teacher_script>
 
 <teacher_script pause="0">
-Đáp án: Yes, it is. Trong bảng ghi "Comedy: The Fox Teacher".
+Đáp án: Yes, it is.
+</teacher_script>
+
+<teacher_script pause="0">
+Trong bảng ghi "Comedy: The Fox Teacher" - rõ ràng là comedy.
 </teacher_script>
 
 <teacher_script pause="0">
@@ -223,15 +245,27 @@ Câu 3: What time is The Pig Race on?
 </teacher_script>
 
 <teacher_script pause="0">
-Đáp án: It's on at 10:30. Nhìn cột Time, thấy 10:30 là The Pig Race.
+Đáp án: It's on at 10:30.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 4: Can we see real dolphins in the Science programme?
+Nhìn cột Time, thấy 10:30 là Sports: The Pig Race.
 </teacher_script>
 
 <teacher_script pause="0">
-Đáp án: No, we can't. Trong bảng ghi "Watch interesting clips" - nghĩa là xem video, không phải cá heo thật.
+Câu 4: Can we watch the game show at 10:30?
+</teacher_script>
+
+<teacher_script pause="0">
+Đáp án: No, we can't.
+</teacher_script>
+
+<teacher_script pause="0">
+Game show "Children Are Always Right" chiếu lúc 11:00, không phải 10:30.
+</teacher_script>
+
+<teacher_script pause="0">
+Lúc 10:30 là The Pig Race - chương trình thể thao.
 </teacher_script>
 
 <teacher_script pause="0">
@@ -239,7 +273,11 @@ Câu 5: What is the Science programme about?
 </teacher_script>
 
 <teacher_script pause="0">
-Đáp án: It's about dolphins. Trong bảng ghi "Science: The Dolphins".
+Đáp án: It's about dolphins.
+</teacher_script>
+
+<teacher_script pause="0">
+Trong bảng ghi "Science: The Dolphins" - chương trình về cá heo.
 </teacher_script>
 
 <explanation>
@@ -247,11 +285,11 @@ Câu 5: What is the Science programme about?
 
 | Câu | Đáp án | Căn cứ trong bảng |
 |-----|--------|-------------------|
-| 1 | Cuc Phuong Forest | "Wildlife: Cuc Phuong Forest" |
+| 1 | It's Cuc Phuong Forest | "Wildlife: Cuc Phuong Forest" |
 | 2 | Yes, it is | "Comedy: The Fox Teacher" |
-| 3 | 10:30 | Time column: 10:30 |
-| 4 | No, we can't | "Watch clips" = xem video, không phải thật |
-| 5 | Dolphins | "Science: The Dolphins" |
+| 3 | It's on at 10:30 | Time column: 10:30 - Sports |
+| 4 | No, we can't | Game show at 11:00, not 10:30 |
+| 5 | It's about dolphins | "Science: The Dolphins" |
 </explanation>
 
 <teacher_script pause="30">
@@ -283,19 +321,29 @@ Bài 2 nha. Đọc bảng và viết tên chương trình phù hợp cho mỗi n
 | 5. Linh | is interested in sea animals | ___________ |
 </questions>
 
+<translation>
+| Người | Sở thích | Chương trình |
+|-------|----------|--------------|
+| 1. Phong | muốn biết thêm về chó và mèo | ___________ |
+| 2. Bob | thích chương trình làm anh ấy cười | ___________ |
+| 3. Nga | thích học về thực vật và động vật | ___________ |
+| 4. Minh | thích xem các cuộc đua | ___________ |
+| 5. Linh | quan tâm đến động vật biển | ___________ |
+</translation>
+
 <teacher_script pause="0">
 Có 5 người với sở thích khác nhau nha.
 </teacher_script>
 
 <teacher_script pause="0">
-Phong muốn biết về chó và mèo - dogs and cats.
-Bob thích chương trình làm anh ấy cười - make him laugh.
-Nga thích học về thực vật và động vật - plants and animals.
+Phong muốn biết về dogs and cats - chó và mèo.
+Bob thích chương trình make him laugh - làm anh ấy cười.
+Nga thích learning about plants and animals - học về thực vật và động vật.
 </teacher_script>
 
 <teacher_script pause="0">
-Minh thích xem các cuộc đua - races.
-Linh hứng thú với động vật biển - sea animals.
+Minh thích watching races - xem các cuộc đua.
+Linh interested in sea animals - quan tâm đến động vật biển.
 </teacher_script>
 
 <teacher_script pause="0">
@@ -331,15 +379,23 @@ Câu 1: Phong muốn biết về dogs and cats - chó và mèo.
 </teacher_script>
 
 <teacher_script pause="0">
-Dogs và cats là pets - vật nuôi. Chương trình Children are Always Right hỏi về pets.
+Dogs và cats là pets - vật nuôi, thú cưng.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 2: Bob thích chương trình làm anh ấy cười.
+Chương trình Children are Always Right hỏi về pets. Nên Phong xem chương trình này.
 </teacher_script>
 
 <teacher_script pause="0">
-Cười = laugh = funny. The Fox Teacher là Comedy - hài kịch, có nhiều điều funny.
+Câu 2: Bob thích chương trình làm anh ấy cười - make him laugh.
+</teacher_script>
+
+<teacher_script pause="0">
+Cười = laugh = funny. The Fox Teacher là Comedy - hài kịch.
+</teacher_script>
+
+<teacher_script pause="0">
+Hài kịch làm người ta cười, nên Bob xem The Fox Teacher.
 </teacher_script>
 
 <teacher_script pause="0">
@@ -347,7 +403,11 @@ Câu 3: Nga thích học về plants and animals - thực vật và động vậ
 </teacher_script>
 
 <teacher_script pause="0">
-Cuc Phuong Forest nói về "plants, flowers and animals" - đúng sở thích của Nga.
+Cuc Phuong Forest nói về "plants, flowers and animals".
+</teacher_script>
+
+<teacher_script pause="0">
+Đúng sở thích của Nga, nên Nga xem Cuc Phuong Forest.
 </teacher_script>
 
 <teacher_script pause="0">
@@ -355,15 +415,23 @@ Câu 4: Minh thích xem races - các cuộc đua.
 </teacher_script>
 
 <teacher_script pause="0">
-The Pig Race là chương trình về cuộc đua heo - đúng sở thích của Minh.
+The Pig Race là chương trình về cuộc đua heo - "compete in the most exciting races".
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 5: Linh hứng thú với sea animals - động vật biển.
+Đúng sở thích của Minh, nên Minh xem The Pig Race.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 5: Linh quan tâm đến sea animals - động vật biển.
 </teacher_script>
 
 <teacher_script pause="0">
 Dolphins - cá heo là động vật biển. The Dolphins là chương trình về cá heo.
+</teacher_script>
+
+<teacher_script pause="0">
+Đúng sở thích của Linh, nên Linh xem The Dolphins.
 </teacher_script>
 
 <explanation>
@@ -374,7 +442,7 @@ Dolphins - cá heo là động vật biển. The Dolphins là chương trình v�
 | Phong | dogs, cats | Children are Always Right | Hỏi về pets (vật nuôi) |
 | Bob | make him laugh | The Fox Teacher | Comedy = hài kịch, funny |
 | Nga | plants, animals | Cuc Phuong Forest | Về thực vật, động vật |
-| Minh | races | The Pig Race | Cuộc đua heo |
+| Minh | races | The Pig Race | "compete in races" |
 | Linh | sea animals | The Dolphins | Cá heo = động vật biển |
 </explanation>
 
@@ -411,7 +479,6 @@ Bài 3 nha. Làm việc theo nhóm, chia sẻ đáp án bài 2 và hỏi bạn c
 |------------|--------|--------------|
 | I think the best programme for [name] is... | I agree. | I disagree. I think... |
 | In my opinion, [name] should watch... | That's right. | I don't think so. |
-| [Name] may like... because... | Me too. | Really? I think... |
 </grammar>
 
 <teacher_script pause="0">
@@ -420,6 +487,9 @@ Cấu trúc thảo luận nha.
 
 <teacher_script pause="0">
 Nói ý kiến: I think the best programme for... is...
+</teacher_script>
+
+<teacher_script pause="0">
 Đồng ý: I agree.
 Không đồng ý: I disagree. I think...
 </teacher_script>
@@ -428,16 +498,14 @@ Không đồng ý: I disagree. I think...
 
 <!-- chunk: exercise_3_sample -->
 <teacher_script pause="0">
-Đây là hội thoại mẫu nha.
+Đây là hội thoại mẫu cho cả 5 người nha.
 </teacher_script>
 
 <dialogue>
 | English | Vietnamese |
 |---------|------------|
-| A: I think the best programme for Phong is the game show Children are Always Right. | A: Tớ nghĩ chương trình tốt nhất cho Phong là chương trình trò chơi Trẻ em luôn đúng. |
-| B: I agree. He wants to know more about pets. | B: Tớ đồng ý. Bạn ấy muốn biết nhiều hơn về vật nuôi. |
-| A: What about Bob? I think he should watch The Fox Teacher. | A: Còn Bob thì sao? Tớ nghĩ bạn ấy nên xem Thầy giáo Cáo. |
-| B: I agree. It's a comedy, so it will make him laugh. | B: Tớ đồng ý. Đó là hài kịch, nên nó sẽ làm bạn ấy cười. |
+| A: I think the best programme for Phong is Children are Always Right. | A: Tôi nghĩ chương trình tốt nhất cho Phong là Trẻ em luôn đúng. |
+| B: I agree. He wants to know more about pets. | B: Tôi đồng ý. Bạn ấy muốn biết nhiều hơn về thú cưng. |
 </dialogue>
 
 <teacher_script pause="0">
@@ -445,9 +513,48 @@ A nói: I think the best programme for Phong is Children are Always Right.
 B đồng ý: I agree. He wants to know more about pets.
 </teacher_script>
 
+<dialogue>
+| English | Vietnamese |
+|---------|------------|
+| A: I think the best programme for Bob is The Fox Teacher. | A: Tôi nghĩ chương trình tốt nhất cho Bob là Thầy giáo Cáo. |
+| B: I agree. He likes programmes that make him laugh. | B: Tôi đồng ý. Anh ấy thích những chương trình làm cho anh ấy cười. |
+</dialogue>
+
 <teacher_script pause="0">
-A hỏi tiếp: What about Bob?
-B trả lời: I agree. It's a comedy, so it will make him laugh.
+Với Bob: The Fox Teacher vì anh ấy thích programmes that make him laugh.
+</teacher_script>
+
+<dialogue>
+| English | Vietnamese |
+|---------|------------|
+| A: I think the best programme for Nga is Cuc Phuong Forest. | A: Tôi nghĩ chương trình phù hợp nhất với Nga là Rừng Cúc Phương. |
+| B: I agree. She loves learning about plants and animals. | B: Tôi đồng ý. Cô ấy thích tìm hiểu về thực vật và động vật. |
+</dialogue>
+
+<teacher_script pause="0">
+Với Nga: Cuc Phuong Forest vì cô ấy loves learning about plants and animals.
+</teacher_script>
+
+<dialogue>
+| English | Vietnamese |
+|---------|------------|
+| A: I think the best programme for Minh is The Pig Race. | A: Tôi nghĩ chương trình tốt nhất cho Minh là Đua Heo. |
+| B: I agree. He likes watching races. | B: Tôi đồng ý. Anh ấy thích xem các cuộc đua. |
+</dialogue>
+
+<teacher_script pause="0">
+Với Minh: The Pig Race vì anh ấy likes watching races.
+</teacher_script>
+
+<dialogue>
+| English | Vietnamese |
+|---------|------------|
+| A: I think the best programme for Linh is The Dolphins. | A: Tôi nghĩ chương trình phù hợp nhất với Linh là Cá heo. |
+| B: I agree. She is interested in sea animals. | B: Tôi đồng ý. Cô ấy quan tâm đến động vật biển. |
+</dialogue>
+
+<teacher_script pause="0">
+Với Linh: The Dolphins vì cô ấy interested in sea animals.
 </teacher_script>
 
 <teacher_script pause="60">
@@ -458,7 +565,7 @@ Luyện nói với bạn. 1 phút nha.
 
 <!-- chunk: exercise_3_record -->
 <teacher_script pause="0" action="record">
-Bấm nút Ghi âm để nói ý kiến về 1-2 người trong bảng và gửi cho thầy sửa nha.
+Bấm nút Ghi âm để nói ý kiến về 2-3 người trong bảng và gửi cho thầy sửa nha.
 </teacher_script>
 
 <teacher_script pause="0">
@@ -513,11 +620,17 @@ Bài nói cần có 4 thông tin nha.
 
 <teacher_script pause="0">
 Thông tin 1: Tên chương trình - My favourite programme is...
+</teacher_script>
+
+<teacher_script pause="0">
 Thông tin 2: Kênh - It's on VTV3, Cartoon Network...
 </teacher_script>
 
 <teacher_script pause="0">
 Thông tin 3: Nội dung - It's about...
+</teacher_script>
+
+<teacher_script pause="0">
 Thông tin 4: Lý do - I like it because...
 </teacher_script>
 
@@ -525,7 +638,7 @@ Thông tin 4: Lý do - I like it because...
 
 <!-- chunk: exercise_4_sample_1 -->
 <teacher_script pause="0">
-Đây là bài mẫu 1 nha.
+Đây là bài mẫu 1 nha - về chương trình Thế giới Động vật.
 </teacher_script>
 
 <dialogue>
@@ -539,13 +652,16 @@ Thông tin 4: Lý do - I like it because...
 </dialogue>
 
 <teacher_script pause="0">
-Bài mẫu 1 về chương trình Thế giới Động vật.
+Bài mẫu 1: The World of Animals.
 </teacher_script>
 
 <teacher_script pause="0">
-Tên: The World of Animals.
-Kênh: VTV2.
-Nội dung: Knowledge about animals - their names, their life.
+Tên: My favourite TV programme is The World of Animals.
+Kênh: It's on VTV2.
+</teacher_script>
+
+<teacher_script pause="0">
+Nội dung: This programme provides many interesting knowledge about animals.
 Lý do: I love animals and want to know more about their life.
 </teacher_script>
 
@@ -553,7 +669,7 @@ Lý do: I love animals and want to know more about their life.
 
 <!-- chunk: exercise_4_sample_2 -->
 <teacher_script pause="0">
-Đây là bài mẫu 2 nha.
+Đây là bài mẫu 2 nha - về Tom and Jerry.
 </teacher_script>
 
 <dialogue>
@@ -566,18 +682,32 @@ Lý do: I love animals and want to know more about their life.
 </dialogue>
 
 <teacher_script pause="0">
-Bài mẫu 2 về Tom and Jerry.
+Bài mẫu 2: Tom and Jerry.
 </teacher_script>
 
 <teacher_script pause="0">
-Tên: Tom and Jerry.
-Kênh: Cartoon Network.
-Nội dung: Funny tricks between a mouse and a cat.
+Tên: My favourite programme is Tom and Jerry.
+Kênh: It's on Cartoon Network.
+</teacher_script>
+
+<teacher_script pause="0">
+Nội dung: The cartoon is about funny tricks between a mouse and a cat.
 Lý do: It makes me laugh a lot and the characters are cute.
 </teacher_script>
 
 <teacher_script pause="120">
 Giờ viết bài nói của mình vô vở đi. 2 phút nha.
+</teacher_script>
+
+---
+
+<!-- chunk: exercise_4_photo -->
+<teacher_script pause="0" action="photo">
+Viết xong thì chụp bài gửi cho thầy sửa nha.
+</teacher_script>
+
+<teacher_script pause="0">
+Chụp xong bấm tiếp tục.
 </teacher_script>
 
 ---
@@ -611,12 +741,13 @@ Tóm tắt Skills 1 nha.
 - Matching: Nối sở thích với chương trình phù hợp
 
 ### Speaking Skills
+
 **Thảo luận:**
 | Nói ý kiến | Đồng ý / Không đồng ý |
 |------------|----------------------|
-| I think... | I agree. / I disagree. |
+| I think the best programme for... is... | I agree. / I disagree. |
 
-**Nói về chương trình yêu thích:**
+**Nói về chương trình yêu thích (4 thông tin):**
 | Thông tin | Cấu trúc |
 |-----------|----------|
 | Name | My favourite programme is... |
