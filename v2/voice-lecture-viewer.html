@@ -407,15 +407,18 @@ const LM = {
         break;
 
       case this.TYPES.VOCAB:
-        // Vocab section - prompt to continue
-        this.state = this.STATES.NPC_WAITING;
-        this.showNPCContinue('Bấm tiếp tục để học từ vựng nha!');
+        // Auto-show vocab after TS
+        this.hideNPC();
+        this.state = this.STATES.VOCAB_ACTIVE;
+        const chunkNav1 = document.getElementById(`nav-${this.currentChunk}`)?.closest('.chunk-nav');
+        if (chunkNav1) chunkNav1.style.display = 'none';
+        setTimeout(() => this.scrollTo(this.pendingElement), 200);
         break;
 
       case this.TYPES.CONTENT:
-        // Content to view - prompt to continue
-        this.state = this.STATES.NPC_WAITING;
-        this.showNPCContinue('Bấm tiếp tục để xem nội dung nha!');
+        // Auto-show content after TS
+        this.hideNPC();
+        setTimeout(() => this.showContentWithDoneButton(), 200);
         break;
 
       case this.TYPES.CHUNK_NAV:
