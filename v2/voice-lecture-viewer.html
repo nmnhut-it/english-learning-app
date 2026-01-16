@@ -135,7 +135,8 @@
   <!-- Camera Gate -->
   <div id="camera-gate">
     <h1>📸 Điểm danh</h1>
-    <p>Chụp ảnh để bắt đầu bài học</p>
+    <p>Nhập tên và chụp ảnh để bắt đầu</p>
+    <input type="text" id="student-name" placeholder="Nhập tên của bạn..." style="width:100%;max-width:320px;padding:14px;border:2px solid rgba(255,255,255,0.3);border-radius:12px;background:rgba(255,255,255,0.1);color:#fff;font-size:1rem;margin-bottom:16px;text-align:center" />
     <div id="camera-preview"><video id="camera-video" autoplay playsinline muted></video></div>
     <div id="gate-buttons">
       <button class="gate-btn" id="capture-btn" disabled>📷 Chụp ảnh</button>
@@ -185,7 +186,9 @@
       timer: null,
       timerPaused: false,
       photoData: null,
-      studentName: null
+      studentName: null,
+      lessonTitle: 'Voice Lecture',
+      currentChunkTitle: ''
     };
 
     // ========== INIT ==========
@@ -295,10 +298,12 @@
 
     // ========== TELEGRAM ==========
     const Telegram = {
+      lastFailedSend: null, // Store last failed send for retry
+
       async sendPhoto(photoData, caption = '') {
         if (!CONFIG.telegramToken || !CONFIG.telegramChat) {
           console.log('Telegram not configured');
-          return false;
+          return { ok: true, skipped: true };
         }
 
         showSending(true);
@@ -318,16 +323,24 @@
           });
 
           showSending(false);
-          return result.ok;
+          if (!result.ok) {
+            this.lastFailedSend = { type: 'photo', data: photoData, caption };
+            showRetryButton();
+          }
+          return { ok: result.ok };
         } catch (e) {
           console.error('Telegram error:', e);
           showSending(false);
-          return false;
+          this.lastFailedSend = { type: 'photo', data: photoData, caption };
+          showRetryButton();
+          return { ok: false, error: e.message };
         }
       },
 
       async sendAudio(audioBlob, caption = '') {
-        if (!CONFIG.telegramToken || !CONFIG.telegramChat) return false;
+        if (!CONFIG.telegramToken || !CONFIG.telegramChat) {
+          return { ok: true, skipped: true };
+        }
 
         showSending(true);
         try {
@@ -342,17 +355,53 @@
           });
 
           showSending(false);
-          return result.ok;
+          if (!result.ok) {
+            this.lastFailedSend = { type: 'audio', data: audioBlob, caption };
+            showRetryButton();
+          }
+          return { ok: result.ok };
         } catch (e) {
           console.error('Telegram error:', e);
           showSending(false);
-          return false;
+          this.lastFailedSend = { type: 'audio', data: audioBlob, caption };
+          showRetryButton();
+          return { ok: false, error: e.message };
+        }
+      },
+
+      async retry() {
+        if (!this.lastFailedSend) return;
+        const { type, data, caption } = this.lastFailedSend;
+        hideRetryButton();
+        if (type === 'photo') {
+          return this.sendPhoto(data, caption);
+        } else {
+          return this.sendAudio(data, caption);
         }
       }
     };
 
     function showSending(show) {
       document.getElementById('sending').classList.toggle('active', show);
+    }
+
+    function showRetryButton() {
+      let btn = document.getElementById('retry-btn');
+      if (!btn) {
+        btn = document.createElement('button');
+        btn.id = 'retry-btn';
+        btn.className = 'nav-btn';
+        btn.style.cssText = 'position:fixed;bottom:80px;left:50%;transform:translateX(-50%);background:var(--error);color:#fff;z-index:101';
+        btn.textContent = '⚠️ Gửi thất bại - Thử lại';
+        btn.onclick = () => Telegram.retry();
+        document.body.appendChild(btn);
+      }
+      btn.style.display = 'block';
+    }
+
+    function hideRetryButton() {
+      const btn = document.getElementById('retry-btn');
+      if (btn) btn.style.display = 'none';
     }
 
     // ========== CAMERA ==========
@@ -370,6 +419,10 @@
         captureBtn.disabled = false;
 
         captureBtn.onclick = async () => {
+          // Get student name
+          const nameInput = document.getElementById('student-name');
+          state.studentName = nameInput.value.trim() || 'Học sinh';
+
           const canvas = document.getElementById('photo-canvas');
           canvas.width = video.videoWidth;
           canvas.height = video.videoHeight;
@@ -384,6 +437,7 @@
           captureBtn.textContent = '✓ Đã chụp';
           captureBtn.classList.add('success');
           captureBtn.disabled = true;
+          nameInput.disabled = true;
 
           // Add confirm button
           const confirmBtn = document.createElement('button');
@@ -392,9 +446,9 @@
           confirmBtn.onclick = async () => {
             stream.getTracks().forEach(t => t.stop());
 
-            // Send attendance photo to Telegram
+            // Send attendance photo to Telegram with student name
             const now = new Date().toLocaleString('vi-VN');
-            await Telegram.sendPhoto(state.photoData, `📸 Điểm danh: ${now}`);
+            await Telegram.sendPhoto(state.photoData, `📸 Điểm danh\n👤 ${state.studentName}\n🕐 ${now}`);
 
             document.getElementById('camera-gate').classList.add('hidden');
             loadContent();
@@ -444,6 +498,7 @@
       // Extract title
       const titleMatch = md.match(/^#\s+(.+)$/m);
       if (titleMatch) {
+        state.lessonTitle = titleMatch[1];
         document.getElementById('lesson-title').textContent = titleMatch[1];
       }
 
@@ -749,9 +804,10 @@
 
           playerDiv.innerHTML = `<div class="audio-box"><audio controls src="${url}"></audio><p>✓ Bản ghi của bạn</p></div>`;
 
-          // Send to Telegram
+          // Send to Telegram with context
           const now = new Date().toLocaleString('vi-VN');
-          await Telegram.sendAudio(blob, `🎤 Ghi âm: ${now}`);
+          const caption = `🎤 Ghi âm\n👤 ${state.studentName || 'Học sinh'}\n📖 ${state.lessonTitle}\n📝 ${state.currentChunkTitle}\n🕐 ${now}`;
+          await Telegram.sendAudio(blob, caption);
 
           stream.getTracks().forEach(t => t.stop());
         };
@@ -799,9 +855,10 @@
 
           photoDiv.innerHTML = `<img src="${dataUrl}" style="max-width:100%;border-radius:8px;margin-top:12px">`;
 
-          // Send to Telegram
+          // Send to Telegram with context
           const now = new Date().toLocaleString('vi-VN');
-          await Telegram.sendPhoto(dataUrl, `📝 Bài làm: ${now}`);
+          const caption = `📝 Bài làm\n👤 ${state.studentName || 'Học sinh'}\n📖 ${state.lessonTitle}\n📝 ${state.currentChunkTitle}\n🕐 ${now}`;
+          await Telegram.sendPhoto(dataUrl, caption);
         };
       } catch (e) {
         alert('Không thể mở camera: ' + e.message);
@@ -837,7 +894,13 @@
       clearInterval(state.timer);
       TTS.stop();
 
-      document.getElementById('content').innerHTML = renderChunk(state.chunks[idx]);
+      // Extract chunk title (from ### header or chunk comment)
+      const chunk = state.chunks[idx];
+      const h3Match = chunk.match(/^###\s+(.+)$/m);
+      const chunkMatch = chunk.match(/<!--\s*chunk:\s*(\w+)/);
+      state.currentChunkTitle = h3Match ? h3Match[1] : (chunkMatch ? chunkMatch[1] : `Phần ${idx + 1}`);
+
+      document.getElementById('content').innerHTML = renderChunk(chunk);
       document.getElementById('progress-fill').style.width = `${((idx + 1) / state.chunks.length) * 100}%`;
       document.getElementById('prev-btn').disabled = idx === 0;
       document.getElementById('next-btn').textContent = idx === state.chunks.length - 1 ? '✓ Hoàn thành' : 'Tiếp →';
