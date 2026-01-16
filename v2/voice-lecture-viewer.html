@@ -241,20 +241,14 @@ function parse(md){
 }
 
 function render(){
-  console.log('RENDER: processing',state.chunks.length,'chunks');
   let html='';
   state.chunks.forEach((chunk,i)=>{
-    console.log(`CHUNK ${i}: id="${chunk.id}", content length=${chunk.content.length}`);
     html+=`<div class="chunk" id="chunk-${i}" data-idx="${i}">`;
     if(chunk.title)html+=`<div class="chunk-title">${chunk.title}</div>`;
-    const rendered=renderContent(chunk.content);
-    html+=rendered;
+    html+=renderContent(chunk.content);
     html+=`</div>`;
   });
   document.getElementById('content').innerHTML=html;
-  // After render, count vocab items
-  const vocabItems=document.querySelectorAll('.vocab-item');
-  console.log('FINAL: Found',vocabItems.length,'vocab-item elements in DOM');
 }
 
 function renderContent(md){
@@ -263,7 +257,7 @@ function renderContent(md){
   h=h.replace(/<vocabulary>([\s\S]*?)<\/vocabulary>/gi,(_,c)=>{
     let items='';
     let count=0;
-    c.trim().split('\n').forEach(line=>{
+    c.trim().split(/\r?\n/).forEach(line=>{
       // Match: number. **word** : rest
       const baseMatch=line.match(/^\d+\.\s*\*\*(.+?)\*\*\s*:\s*(.+)$/);
       if(baseMatch){
@@ -282,10 +276,7 @@ function renderContent(md){
         if(word&&meaning)items+=`<div class="vocab-item" onclick="speak('${word.replace(/'/g,"\\'")}','en-US')"><span class="vocab-word">${word}</span>${type?`<span class="vocab-type">${type}</span>`:''}<span class="vocab-meaning">${meaning}</span>${pron?`<span class="vocab-pron">/${pron}/</span>`:''}</div>`;
       }
     });
-    console.log('VOCAB: parsed',count,'items, HTML length:',items.length);
-    const result=items?`<div class="card vocab-list">${items}</div>`:'';
-    console.log('VOCAB HTML preview:',result.substring(0,500));
-    return result;
+    return items?`<div class="card vocab-list">${items}</div>`:'';
   });
 
   // TEACHER SCRIPT - Hide text, show friendly label
@@ -335,7 +326,7 @@ function renderMD(md){
   // Replace from end to start so indices stay valid
   for(let i=matches.length-1;i>=0;i--){
     const{str:tableStr,idx}=matches[i];
-    const lines=tableStr.trim().split('\n').map(l=>l.trim()).filter(l=>l);
+    const lines=tableStr.trim().split(/\r?\n/).map(l=>l.trim()).filter(l=>l);
     const dataRows=lines.filter(line=>!/^\|[\s\-:|]+\|$/.test(line));
     if(dataRows.length>0){
       let tbl='<div class="table-wrap"><table>';
@@ -377,19 +368,13 @@ function playTS(el,auto=false){
   el.scrollIntoView({behavior:'smooth',block:'center'});
 
   const onEnd=()=>{
-    console.log('Script finished:',el.id,'pause:',pause);
     state.speaking=false;
     el.classList.remove('speaking');
     if(status)status.textContent='Xong ✓';
 
     if(pause>0){
-      startTimer(el.id,pause,()=>{
-        console.log('Timer ended, calling playNextTS');
-        playNextTS();
-      });
+      startTimer(el.id,pause,()=>playNextTS());
     }else{
-      // Small delay then play next
-      console.log('No pause, calling playNextTS in 400ms');
       setTimeout(()=>playNextTS(),400);
     }
   };
@@ -406,21 +391,13 @@ function playTS(el,auto=false){
 window.playTS=playTS;
 
 function playNextTS(){
-  // Find next unplayed TS in current chunk
   const chunk=document.getElementById(`chunk-${state.currentChunk}`);
-  if(!chunk){console.log('No chunk found');return;}
-
-  // Get all scripts in order
+  if(!chunk)return;
   const allTS=Array.from(chunk.querySelectorAll('.ts'));
   const nextTS=allTS.find(ts=>!ts.classList.contains('played'));
-
-  console.log('playNextTS: found',allTS.length,'scripts,','next:',nextTS?.id);
-
   if(nextTS){
     setTimeout(()=>playTS(nextTS,true),200);
   }else{
-    // Chunk complete - enable next button
-    console.log('Chunk',state.currentChunk,'complete!');
     unlockNextChunk();
   }
 }
@@ -494,38 +471,25 @@ function setupNavigation(){
 function activateChunk(idx){
   if(idx>=state.chunks.length)return;
   state.currentChunk=idx;
-  console.log('Activating chunk',idx);
 
-  // Update chunk highlights
   document.querySelectorAll('.chunk').forEach((c,i)=>{
     c.classList.remove('current','completed');
     if(i<idx)c.classList.add('completed');
     if(i===idx)c.classList.add('current');
   });
 
-  // Scroll to chunk
   const chunk=document.getElementById(`chunk-${idx}`);
   if(chunk){
     chunk.scrollIntoView({behavior:'smooth',block:'start'});
-
-    // Get all scripts in this chunk
-    const allTS=chunk.querySelectorAll('.ts');
-    console.log('Chunk',idx,'has',allTS.length,'scripts');
-
-    // Start playing first unplayed TS
     setTimeout(()=>{
       const firstTS=chunk.querySelector('.ts:not(.played)');
       if(firstTS){
-        console.log('Starting first script:',firstTS.id);
         playTS(firstTS,true);
       }else{
-        // No scripts in this chunk, auto-unlock
-        console.log('No scripts in chunk, auto-unlocking');
         unlockNextChunk();
       }
     },600);
   }
-
   updateProgress();
 }
 
