@@ -1087,12 +1087,15 @@ Ok hết Getting Started. Về học từ vựng, mai qua A Closer Look 1 nha.
 | `<answer>` | Correct answers | Answer reveal (hidden initially) |
 | `<explanation>` | Explanations | Collapsible section |
 | `<teacher_script>` | TTS script | Audio playback + timer |
+| `<pronunciation_theory>` | Lý thuyết phát âm | Styled box with diagrams |
+| `<audio>` | Audio file từ sách | Audio player với controls |
 
 **Attributes summary:**
 | Tag | Attributes |
 |-----|------------|
-| `<questions>` | `type="multiple_choice\|matching\|fill_blanks\|..."` |
-| `<teacher_script>` | `pause="60"`, `type="answer"`, `href="audio/file.mp3"` |
+| `<questions>` | `type="multiple_choice\|matching\|fill_blanks\|pronunciation\|..."` |
+| `<teacher_script>` | `pause="60"`, `type="answer"`, `action="record"`, `href="audio/file.mp3"` |
+| `<audio>` | `src="path/to/file.mp3"` hoặc `src="<!-- TODO: audio_id -->"` |
 
 ### 10. Schema Maintenance
 
@@ -1100,6 +1103,94 @@ Ok hết Getting Started. Về học từ vựng, mai qua A Closer Look 1 nha.
 > 1. If you find a NEW exercise type → ADD to Exercise types table (section 4.1)
 > 2. If you find a NEW content pattern → ADD new tag definition
 > 3. Keep examples updated with real content from lessons
+
+---
+
+## Pronunciation Teaching Pattern
+
+### Cấu trúc bài Pronunciation (A Closer Look 1)
+
+Mỗi Unit có phần Pronunciation trong A Closer Look 1. Cấu trúc:
+
+| # | Chunk | Nội dung | Tag |
+|---|-------|----------|-----|
+| 1 | intro | Giới thiệu âm học hôm nay | `<teacher_script>` |
+| 2 | theory | Lý thuyết phát âm (vị trí lưỡi, cách thực hiện) | `<pronunciation_theory>` |
+| 3 | audio_example | Audio mẫu từ sách (nếu có) | `<audio>` |
+| 4 | summary | Bảng tóm tắt phân biệt âm | `<vocabulary>` |
+| 5 | exercise | Bài tập Listen and repeat | `<questions type="pronunciation">` + `<audio>` |
+| 6 | record | Ghi âm đọc lại gửi thầy | `action="record"` |
+| 7 | tongue_twister | Câu luyện phát âm khó (nếu có) | `<questions type="pronunciation">` |
+
+### Tag `<pronunciation_theory>`
+
+Dùng để hiển thị lý thuyết phát âm với diagram:
+
+```markdown
+<pronunciation_theory>
+## Âm /θ/ và /ð/ - Cách phát âm
+
+### Vị trí miệng và lưỡi
+```
+     Răng trên
+        ↓
+    ════════════
+       ↑ đầu lưỡi đặt giữa 2 hàm răng
+    ════════════
+        ↑
+     Răng dưới
+```
+
+### Bước thực hiện:
+1. **Đặt lưỡi**: Đưa đầu lưỡi ra giữa 2 hàm răng
+2. **Thổi hơi**: Đẩy hơi qua khe giữa lưỡi và răng trên
+3. **Phân biệt**:
+   - **/θ/** = KHÔNG rung cổ họng (vô thanh)
+   - **/ð/** = RUNG cổ họng (hữu thanh)
+
+### Mẹo nhớ:
+| Âm | Rung cổ? | Ví dụ | Mẹo |
+|----|----------|-------|-----|
+| /θ/ | ❌ Không | think, thank | Đặt tay lên cổ, không rung |
+| /ð/ | ✅ Có | this, that | Đặt tay lên cổ, cảm nhận rung |
+
+### Lỗi thường gặp:
+- ❌ Đọc /θ/ thành /t/ hoặc /s/
+- ❌ Đọc /ð/ thành /d/ hoặc /z/
+- ✅ Nhớ: LƯỠI PHẢI CHẠM RĂNG!
+</pronunciation_theory>
+```
+
+### Tag `<audio>` - Audio từ sách
+
+Dùng cho audio bài nghe từ sách giáo khoa:
+
+```markdown
+<audio src="<!-- TODO: g6_u07_acl1_exercise4.mp3 -->">
+**Bài 4 Audio:** Listen and repeat
+</audio>
+```
+
+**Lưu ý:**
+- `src` có thể là URL hoặc placeholder `<!-- TODO: audio_id -->`
+- Placeholder để điền URL sau khi có file audio
+- Audio thường có từ VietJack hoặc nguồn khác
+
+### Danh sách âm theo Unit (Lớp 6)
+
+| Unit | Sounds | Notes |
+|------|--------|-------|
+| Unit 1 | /s/ và /ʃ/ | sea vs she |
+| Unit 2 | /z/ và /ʒ/ | zoo vs television |
+| Unit 3 | /b/ và /p/ | buy vs pie |
+| Unit 4 | /i:/ và /ɪ/ | sheep vs ship |
+| Unit 5 | /t/ và /d/ | ten vs den |
+| Unit 6 | /ɒ/ và /əʊ/ | hot vs home |
+| Unit 7 | /θ/ và /ð/ | think vs this |
+| Unit 8 | /e/ và /eɪ/ | bed vs bay |
+| ... | ... | ... |
+
+> **NOTE:** Cập nhật bảng này khi làm các unit khác
 
 ---
 

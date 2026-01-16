@@ -288,26 +288,87 @@ Hai âm này tiếng Việt không có, nên cần tập kỹ nha.
 
 ---
 
+<!-- chunk: pronunciation_theory -->
+<teacher_script pause="0">
+Đây là lý thuyết phát âm. Xem kỹ cách đặt lưỡi nha.
+</teacher_script>
+
+<pronunciation_theory>
+## Âm /θ/ và /ð/ - Cách phát âm
+
+### Vị trí miệng và lưỡi
+```
+     Răng trên
+        ↓
+    ════════════
+       ↑ đầu lưỡi đặt giữa 2 hàm răng
+    ════════════
+        ↑
+     Răng dưới
+```
+
+### Bước thực hiện:
+1. **Đặt lưỡi**: Đưa đầu lưỡi ra giữa 2 hàm răng (hơi thò ra ngoài)
+2. **Thổi hơi**: Đẩy hơi qua khe giữa lưỡi và răng trên
+3. **Phân biệt**:
+   - **/θ/** = KHÔNG rung cổ họng (vô thanh) → như thổi gió
+   - **/ð/** = RUNG cổ họng (hữu thanh) → có tiếng
+
+### Mẹo nhớ:
+| Âm | Rung cổ? | Ví dụ | Mẹo |
+|----|----------|-------|-----|
+| /θ/ | ❌ Không | **th**ink, **th**ank | Đặt tay lên cổ, không rung |
+| /ð/ | ✅ Có | **th**is, **th**at | Đặt tay lên cổ, cảm nhận rung |
+
+### Lỗi thường gặp:
+- ❌ Đọc /θ/ thành /t/ hoặc /s/ (think → tink/sink)
+- ❌ Đọc /ð/ thành /d/ hoặc /z/ (this → dis/zis)
+- ✅ Nhớ: LƯỠI PHẢI CHẠM RĂNG!
+</pronunciation_theory>
+
+<teacher_script pause="90">
+Ghi lý thuyết vô vở đi. 1 phút rưỡi nha.
+</teacher_script>
+
+---
+
+<!-- chunk: pronunciation_audio -->
+<teacher_script pause="0">
+Giờ nghe audio mẫu nha. Bấm play để nghe.
+</teacher_script>
+
+<audio src="<!-- TODO: g6_u07_pronunciation_th_sounds.mp3 -->">
+**Audio mẫu:** Nghe cách phát âm /θ/ và /ð/
+</audio>
+
+<teacher_script pause="30">
+Nghe xong chưa? Nghe lại nếu cần nha.
+</teacher_script>
+
+---
+
 <!-- chunk: pronunciation_guide -->
 <teacher_script pause="0">
-Cách phát âm nha. Đặt đầu lưỡi giữa 2 hàm răng, thổi hơi ra.
+Đây là bảng tóm tắt phân biệt 2 âm nha.
 </teacher_script>
 
 <vocabulary>
 **Phân biệt /θ/ và /ð/:**
 
-| /θ/ (vô thanh) | /ð/ (hữu thanh) |
-|----------------|-----------------|
-| Không rung dây thanh | Rung dây thanh |
-| think, three, thank | this, that, the |
+| | /θ/ (vô thanh) | /ð/ (hữu thanh) |
+|---|----------------|-----------------|
+| **Rung cổ** | ❌ Không | ✅ Có |
+| **Giống âm** | Như thổi gió nhẹ | Như "d" nhưng lưỡi chạm răng |
+| **Ví dụ** | think, three, thank | this, that, the |
+| **Vị trí** | Đầu/cuối từ | Đầu từ (đại từ, mạo từ) |
 
-**Cách nhận biết:**
-- /θ/ thường trong: **th**ink, **th**ank, **th**ree, ba**th**, wi**th**
-- /ð/ thường trong: **th**is, **th**at, **th**e, **th**ey, wea**th**er
+**Quy tắc nhận biết:**
+- **/θ/** thường trong: **th**ink, **th**ank, **th**ree, ba**th**, wor**th**, mou**th**
+- **/ð/** thường trong: **th**e, **th**is, **th**at, **th**ey, **th**ose, wea**th**er, fa**th**er
 </vocabulary>
 
 <teacher_script pause="60">
-Ghi chú vô vở đi. 1 phút nha.
+Ghi bảng tóm tắt vô vở đi. 1 phút nha.
 </teacher_script>
 
 ---
@@ -325,6 +386,10 @@ Bài 4 nha. Nghe và nhắc lại các từ.
 **Yêu cầu:** Chú ý phân biệt âm /θ/ và /ð/.
 </task>
 
+<audio src="<!-- TODO: g6_u07_acl1_exercise4.mp3 -->">
+**Bài 4 Audio:** Listen and repeat
+</audio>
+
 <questions type="pronunciation">
 | /θ/ (vô thanh) | Nghĩa | /ð/ (hữu thanh) | Nghĩa |
 |----------------|-------|-----------------|-------|
@@ -336,7 +401,7 @@ Bài 4 nha. Nghe và nhắc lại các từ.
 </questions>
 
 <teacher_script pause="60">
-Đọc theo từng cột nha. 1 phút.
+Nghe audio rồi đọc theo từng cột nha. 1 phút.
 </teacher_script>
 
 ---
