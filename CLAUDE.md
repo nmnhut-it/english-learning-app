@@ -1679,6 +1679,56 @@ Tạo file `v2/data/voice-lectures/TODO-audio.md` để điền URL sau.
 
 ## Best Practices (Kinh nghiệm)
 
+### 0. Teacher Script đọc song song với nội dung hiển thị
+
+**Nguyên tắc quan trọng nhất:** Teacher script phải ĐỌC cùng lúc với content đang hiển thị trên màn hình.
+
+**Tại sao:**
+- Học sinh vừa NHÌN vừa NGHE → tiếp thu tốt hơn
+- Giống như giáo viên đứng trước bảng giảng bài
+- Không bị lạc giữa audio và visual
+
+**Pattern:**
+```markdown
+<grammar>
+### WHAT - Cái gì
+
+**Dùng để hỏi:** Sự vật, hoạt động
+
+**Ví dụ:**
+- **What** are you watching? → I'm watching cartoons.
+  *(Bạn đang xem **gì**? → Tôi đang xem phim hoạt hình.)*
+</grammar>
+
+<teacher_script pause="0">
+WHAT - nghĩa là "cái gì".
+Dùng để hỏi về sự vật, hoạt động.
+Ví dụ: What are you watching? - Bạn đang xem gì?
+Trả lời: I'm watching cartoons - Tôi đang xem phim hoạt hình.
+</teacher_script>
+```
+
+**Lưu ý:**
+- Teacher script PHẢI đọc lại nội dung đang hiển thị
+- Có thể thêm giải thích, nhưng core content phải khớp với màn hình
+- Học sinh nhìn bảng + nghe thầy đọc = hiểu nhanh hơn
+
+**Ví dụ với bảng từ vựng:**
+```markdown
+<vocabulary>
+1. **talent show** : (n) chương trình tài năng /ˈtælənt ʃəʊ/
+2. **programme** : (n) chương trình /ˈprəʊɡræm/
+</vocabulary>
+
+<teacher_script pause="0">
+Từ 1: talent show - chương trình tài năng.
+Từ 2: programme - chương trình.
+Click vô từ để nghe phát âm nha.
+</teacher_script>
+```
+
+---
+
 ### 1. Nguyên tắc "Chia nhỏ để trị"
 
 **Vấn đề:** Khi dồn nhiều thông tin vào 1 teacher_script, học sinh bị overwhelm.
