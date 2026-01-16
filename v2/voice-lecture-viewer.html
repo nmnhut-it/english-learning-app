@@ -1,0 +1,1004 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>Voice Lecture</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    :root {
+      --primary: #2563eb;
+      --success: #10b981;
+      --error: #ef4444;
+      --warning: #f59e0b;
+      --bg: #f8fafc;
+      --card: #fff;
+      --text: #1e293b;
+      --muted: #64748b;
+      --border: #e2e8f0;
+    }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      min-height: 100vh;
+    }
+
+    /* Camera Gate */
+    #camera-gate {
+      position: fixed;
+      inset: 0;
+      background: linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      z-index: 1000;
+      padding: 20px;
+    }
+    #camera-gate.hidden { display: none; }
+    #camera-gate h1 { color: #fff; margin-bottom: 10px; font-size: 1.5rem; }
+    #camera-gate p { color: rgba(255,255,255,0.8); margin-bottom: 20px; text-align: center; }
+    #camera-preview {
+      width: 100%;
+      max-width: 320px;
+      aspect-ratio: 4/3;
+      background: #000;
+      border-radius: 12px;
+      overflow: hidden;
+      margin-bottom: 20px;
+    }
+    #camera-preview video { width: 100%; height: 100%; object-fit: cover; }
+    #capture-btn {
+      background: #fff;
+      color: var(--primary);
+      border: none;
+      padding: 16px 48px;
+      border-radius: 50px;
+      font-size: 1.1rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: transform 0.2s;
+    }
+    #capture-btn:active { transform: scale(0.95); }
+    #capture-btn:disabled { opacity: 0.5; cursor: not-allowed; }
+    #camera-error {
+      color: #fca5a5;
+      text-align: center;
+      margin-top: 20px;
+      padding: 15px;
+      background: rgba(255,255,255,0.1);
+      border-radius: 8px;
+    }
+
+    /* Main Content */
+    #app { display: none; }
+    #app.active { display: block; }
+
+    /* Header */
+    header {
+      background: var(--primary);
+      color: #fff;
+      padding: 12px 16px;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+    header h1 { font-size: 1.1rem; font-weight: 600; }
+    #progress-bar {
+      height: 3px;
+      background: rgba(255,255,255,0.3);
+      margin-top: 8px;
+      border-radius: 2px;
+      overflow: hidden;
+    }
+    #progress-fill {
+      height: 100%;
+      background: #fff;
+      width: 0%;
+      transition: width 0.3s;
+    }
+
+    /* Content Area */
+    #content {
+      padding: 16px;
+      padding-bottom: 100px;
+      max-width: 800px;
+      margin: 0 auto;
+    }
+
+    /* Chunk Styling */
+    .chunk {
+      display: none;
+      animation: fadeIn 0.3s ease;
+    }
+    .chunk.active { display: block; }
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(10px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    /* Typography */
+    h1, h2, h3 { margin: 16px 0 12px; color: var(--text); }
+    h1 { font-size: 1.5rem; }
+    h2 { font-size: 1.3rem; color: var(--primary); }
+    h3 { font-size: 1.1rem; }
+    p { margin: 8px 0; }
+
+    /* Cards */
+    .card {
+      background: var(--card);
+      border-radius: 12px;
+      padding: 16px;
+      margin: 12px 0;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+    }
+
+    /* Vocabulary */
+    .vocabulary-list { list-style: none; }
+    .vocabulary-item {
+      padding: 12px;
+      border-bottom: 1px solid var(--border);
+      cursor: pointer;
+      transition: background 0.2s;
+    }
+    .vocabulary-item:hover { background: #f1f5f9; }
+    .vocabulary-item:last-child { border-bottom: none; }
+    .vocab-word { font-weight: 600; color: var(--primary); }
+    .vocab-type { color: var(--muted); font-size: 0.85rem; margin: 0 4px; }
+    .vocab-meaning { color: var(--text); }
+    .vocab-pronunciation { color: var(--muted); font-size: 0.9rem; font-style: italic; }
+
+    /* Tables */
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 12px 0;
+      font-size: 0.95rem;
+    }
+    th, td {
+      padding: 10px 12px;
+      border: 1px solid var(--border);
+      text-align: left;
+    }
+    th { background: #f1f5f9; font-weight: 600; }
+    tr:nth-child(even) { background: #fafafa; }
+
+    /* Task Box */
+    .task-box {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px;
+      margin: 12px 0;
+      border-radius: 0 8px 8px 0;
+    }
+    .task-box strong { color: var(--primary); }
+
+    /* Answer Box */
+    .answer-box {
+      background: #f0fdf4;
+      border-left: 4px solid var(--success);
+      padding: 16px;
+      margin: 12px 0;
+      border-radius: 0 8px 8px 0;
+    }
+    .answer-box.hidden { display: none; }
+
+    /* Explanation */
+    .explanation-box {
+      background: #fefce8;
+      border-left: 4px solid var(--warning);
+      padding: 16px;
+      margin: 12px 0;
+      border-radius: 0 8px 8px 0;
+    }
+
+    /* Grammar Box */
+    .grammar-box {
+      background: #faf5ff;
+      border-left: 4px solid #8b5cf6;
+      padding: 16px;
+      margin: 12px 0;
+      border-radius: 0 8px 8px 0;
+    }
+
+    /* Translation Box */
+    .translation-box {
+      background: #ecfeff;
+      border-left: 4px solid #06b6d4;
+      padding: 16px;
+      margin: 12px 0;
+      border-radius: 0 8px 8px 0;
+      font-style: italic;
+    }
+
+    /* Pronunciation Theory */
+    .pronunciation-box {
+      background: #fff7ed;
+      border-left: 4px solid #f97316;
+      padding: 16px;
+      margin: 12px 0;
+      border-radius: 0 8px 8px 0;
+    }
+    .pronunciation-box pre {
+      background: #1e293b;
+      color: #e2e8f0;
+      padding: 12px;
+      border-radius: 8px;
+      overflow-x: auto;
+      font-size: 0.85rem;
+    }
+
+    /* Teacher Script / TTS */
+    .tts-container {
+      background: linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%);
+      color: #fff;
+      padding: 20px;
+      border-radius: 12px;
+      margin: 16px 0;
+      text-align: center;
+    }
+    .tts-text {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      margin-bottom: 16px;
+    }
+    .tts-controls {
+      display: flex;
+      gap: 12px;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+    }
+    .tts-btn {
+      background: rgba(255,255,255,0.2);
+      border: none;
+      color: #fff;
+      padding: 12px 24px;
+      border-radius: 50px;
+      font-size: 1rem;
+      cursor: pointer;
+      transition: background 0.2s;
+    }
+    .tts-btn:hover { background: rgba(255,255,255,0.3); }
+    .tts-btn.playing { background: var(--success); }
+
+    /* Timer */
+    .timer {
+      font-size: 2rem;
+      font-weight: bold;
+      margin: 16px 0;
+    }
+    .timer.warning { color: var(--warning); }
+    .timer.danger { color: var(--error); animation: pulse 1s infinite; }
+    @keyframes pulse {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.5; }
+    }
+
+    /* Bottom Navigation */
+    #bottom-nav {
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      background: var(--card);
+      padding: 12px 16px;
+      box-shadow: 0 -2px 10px rgba(0,0,0,0.1);
+      display: flex;
+      gap: 12px;
+      justify-content: center;
+      z-index: 100;
+    }
+    .nav-btn {
+      flex: 1;
+      max-width: 200px;
+      padding: 14px 24px;
+      border: none;
+      border-radius: 50px;
+      font-size: 1rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+    .nav-btn.primary {
+      background: var(--primary);
+      color: #fff;
+    }
+    .nav-btn.secondary {
+      background: #e2e8f0;
+      color: var(--text);
+    }
+    .nav-btn:disabled { opacity: 0.5; cursor: not-allowed; }
+
+    /* Action Buttons */
+    .action-btns {
+      display: flex;
+      gap: 12px;
+      margin: 16px 0;
+      flex-wrap: wrap;
+    }
+    .action-btn {
+      flex: 1;
+      min-width: 120px;
+      padding: 14px;
+      border: 2px solid var(--border);
+      border-radius: 12px;
+      background: var(--card);
+      font-size: 1rem;
+      cursor: pointer;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 8px;
+      transition: all 0.2s;
+    }
+    .action-btn:hover { border-color: var(--primary); }
+    .action-btn svg { width: 32px; height: 32px; }
+    .action-btn.recording { border-color: var(--error); background: #fef2f2; }
+
+    /* Audio Player */
+    .audio-player {
+      background: #1e293b;
+      padding: 16px;
+      border-radius: 12px;
+      margin: 12px 0;
+    }
+    .audio-player audio { width: 100%; }
+
+    /* Loading */
+    #loading {
+      position: fixed;
+      inset: 0;
+      background: var(--bg);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      z-index: 999;
+    }
+    #loading.hidden { display: none; }
+    .spinner {
+      width: 48px;
+      height: 48px;
+      border: 4px solid var(--border);
+      border-top-color: var(--primary);
+      border-radius: 50%;
+      animation: spin 1s linear infinite;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    /* Error */
+    .error-msg {
+      background: #fef2f2;
+      color: var(--error);
+      padding: 16px;
+      border-radius: 8px;
+      text-align: center;
+      margin: 20px;
+    }
+
+    /* Responsive */
+    @media (max-width: 480px) {
+      .tts-text { font-size: 1rem; }
+      .timer { font-size: 1.5rem; }
+    }
+  </style>
+</head>
+<body>
+  <!-- Camera Gate -->
+  <div id="camera-gate">
+    <h1>Xác nhận danh tính</h1>
+    <p>Chụp ảnh để bắt đầu bài học</p>
+    <div id="camera-preview">
+      <video id="camera-video" autoplay playsinline></video>
+    </div>
+    <button id="capture-btn" disabled>Chụp ảnh</button>
+    <div id="camera-error"></div>
+  </div>
+
+  <!-- Loading -->
+  <div id="loading" class="hidden">
+    <div class="spinner"></div>
+    <p style="margin-top:16px;color:var(--muted)">Đang tải bài học...</p>
+  </div>
+
+  <!-- Main App -->
+  <div id="app">
+    <header>
+      <h1 id="lesson-title">Voice Lecture</h1>
+      <div id="progress-bar"><div id="progress-fill"></div></div>
+    </header>
+
+    <div id="content"></div>
+
+    <nav id="bottom-nav">
+      <button class="nav-btn secondary" id="prev-btn" disabled>← Trước</button>
+      <button class="nav-btn primary" id="next-btn">Tiếp →</button>
+    </nav>
+  </div>
+
+  <!-- Hidden canvas for photo capture -->
+  <canvas id="photo-canvas" style="display:none"></canvas>
+
+  <script>
+    // ========== CONFIG ==========
+    const CONFIG = {
+      ttsLang: 'vi-VN',
+      ttsRate: 1.0,
+      githubRawBase: 'https://raw.githubusercontent.com/'
+    };
+
+    // ========== STATE ==========
+    const state = {
+      chunks: [],
+      currentChunk: 0,
+      ttsUtterance: null,
+      timer: null,
+      photoTaken: false,
+      photoData: null
+    };
+
+    // ========== CAMERA GATE ==========
+    async function initCamera() {
+      const video = document.getElementById('camera-video');
+      const captureBtn = document.getElementById('capture-btn');
+      const errorDiv = document.getElementById('camera-error');
+
+      try {
+        const stream = await navigator.mediaDevices.getUserMedia({
+          video: { facingMode: 'user', width: 640, height: 480 },
+          audio: false
+        });
+        video.srcObject = stream;
+        captureBtn.disabled = false;
+
+        captureBtn.onclick = () => {
+          const canvas = document.getElementById('photo-canvas');
+          canvas.width = video.videoWidth;
+          canvas.height = video.videoHeight;
+          canvas.getContext('2d').drawImage(video, 0, 0);
+          state.photoData = canvas.toDataURL('image/jpeg', 0.8);
+          state.photoTaken = true;
+
+          // Stop camera
+          stream.getTracks().forEach(t => t.stop());
+
+          // Hide gate, show app
+          document.getElementById('camera-gate').classList.add('hidden');
+          loadContent();
+        };
+      } catch (err) {
+        console.error('Camera error:', err);
+        errorDiv.innerHTML = `
+          <p><strong>Không thể truy cập camera</strong></p>
+          <p>${err.message}</p>
+          <p style="margin-top:10px">Vui lòng:</p>
+          <ul style="text-align:left;margin:10px 0">
+            <li>Cho phép quyền truy cập camera</li>
+            <li>Sử dụng trình duyệt Chrome/Safari</li>
+            <li>Đảm bảo đang dùng HTTPS</li>
+          </ul>
+        `;
+      }
+    }
+
+    // ========== CONTENT LOADING ==========
+    function getContentUrl() {
+      const params = new URLSearchParams(window.location.search);
+      const encoded = params.get('c');
+      if (!encoded) return null;
+
+      try {
+        return decodeURIComponent(atob(encoded));
+      } catch {
+        return decodeURIComponent(encoded);
+      }
+    }
+
+    async function loadContent() {
+      const loading = document.getElementById('loading');
+      const app = document.getElementById('app');
+
+      loading.classList.remove('hidden');
+
+      const url = getContentUrl();
+      if (!url) {
+        showError('Thiếu URL bài học. Vui lòng kiểm tra link.');
+        return;
+      }
+
+      try {
+        const response = await fetch(url);
+        if (!response.ok) throw new Error(`HTTP ${response.status}`);
+        const markdown = await response.text();
+
+        parseAndRender(markdown);
+
+        loading.classList.add('hidden');
+        app.classList.add('active');
+
+        showChunk(0);
+      } catch (err) {
+        showError(`Không thể tải bài học: ${err.message}`);
+      }
+    }
+
+    function showError(msg) {
+      document.getElementById('loading').classList.add('hidden');
+      document.getElementById('app').classList.add('active');
+      document.getElementById('content').innerHTML = `<div class="error-msg">${msg}</div>`;
+    }
+
+    // ========== MARKDOWN PARSER ==========
+    function parseAndRender(markdown) {
+      // Extract title
+      const titleMatch = markdown.match(/^#\s+(.+)$/m);
+      if (titleMatch) {
+        document.getElementById('lesson-title').textContent = titleMatch[1];
+      }
+
+      // Split into chunks by <!-- chunk: xxx --> or ---
+      const chunkParts = markdown.split(/(?=<!--\s*chunk:|^---$)/m).filter(c => c.trim());
+
+      // Group content between chunk markers
+      let chunks = [];
+      let currentContent = '';
+
+      for (const part of chunkParts) {
+        if (part.trim() === '---') {
+          if (currentContent.trim()) {
+            chunks.push(currentContent);
+            currentContent = '';
+          }
+        } else if (part.startsWith('<!-- chunk:')) {
+          if (currentContent.trim()) {
+            chunks.push(currentContent);
+          }
+          currentContent = part;
+        } else {
+          currentContent += part;
+        }
+      }
+      if (currentContent.trim()) {
+        chunks.push(currentContent);
+      }
+
+      // Filter out empty chunks and title-only chunks
+      state.chunks = chunks.filter(c => {
+        const stripped = c.replace(/<!--.*?-->/g, '').replace(/^#\s+.+$/m, '').trim();
+        return stripped.length > 50 || stripped.includes('<');
+      });
+
+      if (state.chunks.length === 0) {
+        state.chunks = [markdown];
+      }
+    }
+
+    function renderChunk(markdown) {
+      let html = markdown;
+
+      // Remove chunk comments
+      html = html.replace(/<!--\s*chunk:.*?-->/g, '');
+
+      // Custom tags
+      html = renderVocabulary(html);
+      html = renderTeacherScript(html);
+      html = renderTask(html);
+      html = renderAnswer(html);
+      html = renderExplanation(html);
+      html = renderGrammar(html);
+      html = renderPronunciationTheory(html);
+      html = renderDialogue(html);
+      html = renderReading(html);
+      html = renderTranslation(html);
+      html = renderQuestions(html);
+      html = renderAudio(html);
+      html = renderContentTable(html);
+
+      // Standard markdown
+      html = renderMarkdown(html);
+
+      return html;
+    }
+
+    // ========== TAG RENDERERS ==========
+    function renderVocabulary(html) {
+      return html.replace(/<vocabulary>([\s\S]*?)<\/vocabulary>/gi, (_, content) => {
+        const items = content.trim().split('\n').filter(line => line.match(/^\d+\./));
+        let listHtml = '<div class="card"><ul class="vocabulary-list">';
+
+        for (const item of items) {
+          // Parse: 1. **word** : (type) meaning /pronunciation/
+          const match = item.match(/^\d+\.\s*\*\*(.+?)\*\*\s*:\s*(?:\(([^)]+)\))?\s*(.+?)(?:\s*\/(.+?)\/)?$/);
+          if (match) {
+            const [, word, type, meaning, pron] = match;
+            listHtml += `
+              <li class="vocabulary-item" onclick="speak('${word.replace(/'/g, "\\'")}', 'en-US')">
+                <span class="vocab-word">${word}</span>
+                ${type ? `<span class="vocab-type">(${type})</span>` : ''}
+                <span class="vocab-meaning">${meaning}</span>
+                ${pron ? `<span class="vocab-pronunciation">/${pron}/</span>` : ''}
+              </li>`;
+          }
+        }
+
+        listHtml += '</ul></div>';
+        return listHtml;
+      });
+    }
+
+    function renderTeacherScript(html) {
+      return html.replace(/<teacher_script([^>]*)>([\s\S]*?)<\/teacher_script>/gi, (_, attrs, content) => {
+        const pauseMatch = attrs.match(/pause="(\d+)"/);
+        const actionMatch = attrs.match(/action="(\w+)"/);
+        const pause = pauseMatch ? parseInt(pauseMatch[1]) : 0;
+        const action = actionMatch ? actionMatch[1] : null;
+
+        const id = 'tts-' + Math.random().toString(36).substr(2, 9);
+        const text = content.trim();
+
+        let actionHtml = '';
+        if (action === 'record') {
+          actionHtml = `
+            <div class="action-btns">
+              <button class="action-btn" onclick="startRecording(this)">
+                <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 14c1.66 0 3-1.34 3-3V5c0-1.66-1.34-3-3-3S9 3.34 9 5v6c0 1.66 1.34 3 3 3zm-1 1.93c-3.94-.49-7-3.85-7-7.93V7h2v1c0 2.76 2.24 5 5 5s5-2.24 5-5V7h2v1c0 4.08-3.06 7.44-7 7.93V19h4v2H8v-2h4v-3.07z"/></svg>
+                Ghi âm
+              </button>
+            </div>`;
+        } else if (action === 'photo') {
+          actionHtml = `
+            <div class="action-btns">
+              <button class="action-btn" onclick="takePhoto()">
+                <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 15.5c1.93 0 3.5-1.57 3.5-3.5S13.93 8.5 12 8.5 8.5 10.07 8.5 12s1.57 3.5 3.5 3.5zM9 2L7.17 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2h-3.17L15 2H9zm3 15c-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5-2.24 5-5 5z"/></svg>
+                Chụp ảnh
+              </button>
+            </div>`;
+        }
+
+        return `
+          <div class="tts-container" id="${id}">
+            <div class="tts-text">${text}</div>
+            ${pause > 0 ? `<div class="timer" id="${id}-timer">${formatTime(pause)}</div>` : ''}
+            <div class="tts-controls">
+              <button class="tts-btn" onclick="playTTS('${text.replace(/'/g, "\\'")}', '${id}', ${pause})">
+                ▶ Nghe
+              </button>
+              ${pause > 0 ? `<button class="tts-btn" onclick="skipTimer('${id}')">Bỏ qua</button>` : ''}
+            </div>
+            ${actionHtml}
+          </div>`;
+      });
+    }
+
+    function renderTask(html) {
+      return html.replace(/<task>([\s\S]*?)<\/task>/gi, (_, content) => {
+        return `<div class="card task-box">${renderMarkdown(content)}</div>`;
+      });
+    }
+
+    function renderAnswer(html) {
+      return html.replace(/<answer>([\s\S]*?)<\/answer>/gi, (_, content) => {
+        const id = 'ans-' + Math.random().toString(36).substr(2, 9);
+        return `
+          <div class="card answer-box" id="${id}">
+            ${renderMarkdown(content)}
+          </div>`;
+      });
+    }
+
+    function renderExplanation(html) {
+      return html.replace(/<explanation>([\s\S]*?)<\/explanation>/gi, (_, content) => {
+        return `<div class="card explanation-box">${renderMarkdown(content)}</div>`;
+      });
+    }
+
+    function renderGrammar(html) {
+      return html.replace(/<grammar>([\s\S]*?)<\/grammar>/gi, (_, content) => {
+        return `<div class="card grammar-box">${renderMarkdown(content)}</div>`;
+      });
+    }
+
+    function renderPronunciationTheory(html) {
+      return html.replace(/<pronunciation_theory>([\s\S]*?)<\/pronunciation_theory>/gi, (_, content) => {
+        return `<div class="card pronunciation-box">${renderMarkdown(content)}</div>`;
+      });
+    }
+
+    function renderDialogue(html) {
+      return html.replace(/<dialogue>([\s\S]*?)<\/dialogue>/gi, (_, content) => {
+        return `<div class="card">${renderMarkdown(content)}</div>`;
+      });
+    }
+
+    function renderReading(html) {
+      return html.replace(/<reading>([\s\S]*?)<\/reading>/gi, (_, content) => {
+        return `<div class="card">${renderMarkdown(content)}</div>`;
+      });
+    }
+
+    function renderTranslation(html) {
+      return html.replace(/<translation>([\s\S]*?)<\/translation>/gi, (_, content) => {
+        return `<div class="card translation-box">${renderMarkdown(content)}</div>`;
+      });
+    }
+
+    function renderQuestions(html) {
+      return html.replace(/<questions[^>]*>([\s\S]*?)<\/questions>/gi, (_, content) => {
+        return `<div class="card">${renderMarkdown(content)}</div>`;
+      });
+    }
+
+    function renderAudio(html) {
+      return html.replace(/<audio[^>]*src="([^"]*)"[^>]*>([\s\S]*?)<\/audio>/gi, (_, src, content) => {
+        if (src.includes('TODO')) {
+          return `<div class="audio-player"><p style="color:#94a3b8">${content || 'Audio chưa có sẵn'}</p></div>`;
+        }
+        return `<div class="audio-player"><audio controls src="${src}"></audio><p style="color:#94a3b8">${content}</p></div>`;
+      });
+    }
+
+    function renderContentTable(html) {
+      return html.replace(/<content_table>([\s\S]*?)<\/content_table>/gi, (_, content) => {
+        return `<div class="card">${renderMarkdown(content)}</div>`;
+      });
+    }
+
+    // ========== MARKDOWN RENDERER ==========
+    function renderMarkdown(md) {
+      let html = md;
+
+      // Headers
+      html = html.replace(/^### (.+)$/gm, '<h3>$1</h3>');
+      html = html.replace(/^## (.+)$/gm, '<h2>$1</h2>');
+      html = html.replace(/^# (.+)$/gm, '<h1>$1</h1>');
+
+      // Bold & Italic
+      html = html.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
+      html = html.replace(/\*(.+?)\*/g, '<em>$1</em>');
+
+      // Tables
+      html = html.replace(/^\|(.+)\|$/gm, (match) => {
+        if (match.includes('---')) return '';
+        const cells = match.split('|').filter(c => c.trim());
+        const isHeader = cells.every(c => c.trim().match(/^[A-Z\s]+$|^#$/));
+        const tag = isHeader ? 'th' : 'td';
+        return `<tr>${cells.map(c => `<${tag}>${c.trim()}</${tag}>`).join('')}</tr>`;
+      });
+      html = html.replace(/(<tr>[\s\S]*?<\/tr>[\s\n]*)+/g, '<table>$&</table>');
+
+      // Lists
+      html = html.replace(/^- (.+)$/gm, '<li>$1</li>');
+      html = html.replace(/(<li>[\s\S]*?<\/li>[\s\n]*)+/g, '<ul>$&</ul>');
+
+      // Code blocks
+      html = html.replace(/```([\s\S]*?)```/g, '<pre>$1</pre>');
+
+      // Line breaks
+      html = html.replace(/\n\n/g, '</p><p>');
+      html = html.replace(/\n/g, '<br>');
+
+      // Cleanup
+      html = html.replace(/<p><\/p>/g, '');
+      html = html.replace(/<p>(<[hud])/g, '$1');
+      html = html.replace(/(<\/[hud][^>]*>)<\/p>/g, '$1');
+
+      return html;
+    }
+
+    // ========== TTS ==========
+    function speak(text, lang = 'vi-VN') {
+      if ('speechSynthesis' in window) {
+        window.speechSynthesis.cancel();
+        const utterance = new SpeechSynthesisUtterance(text);
+        utterance.lang = lang;
+        utterance.rate = CONFIG.ttsRate;
+        window.speechSynthesis.speak(utterance);
+      }
+    }
+
+    function playTTS(text, containerId, pauseSeconds) {
+      const container = document.getElementById(containerId);
+      const btn = container.querySelector('.tts-btn');
+
+      if ('speechSynthesis' in window) {
+        window.speechSynthesis.cancel();
+        clearInterval(state.timer);
+
+        const utterance = new SpeechSynthesisUtterance(text);
+        utterance.lang = CONFIG.ttsLang;
+        utterance.rate = CONFIG.ttsRate;
+
+        btn.classList.add('playing');
+        btn.textContent = '⏸ Đang nói...';
+
+        utterance.onend = () => {
+          btn.classList.remove('playing');
+          btn.textContent = '▶ Nghe lại';
+
+          if (pauseSeconds > 0) {
+            startTimer(containerId, pauseSeconds);
+          }
+        };
+
+        window.speechSynthesis.speak(utterance);
+      }
+    }
+
+    function startTimer(containerId, seconds) {
+      const timerEl = document.getElementById(`${containerId}-timer`);
+      if (!timerEl) return;
+
+      let remaining = seconds;
+      timerEl.textContent = formatTime(remaining);
+      timerEl.className = 'timer';
+
+      state.timer = setInterval(() => {
+        remaining--;
+        timerEl.textContent = formatTime(remaining);
+
+        if (remaining <= 10) timerEl.classList.add('warning');
+        if (remaining <= 5) timerEl.classList.add('danger');
+
+        if (remaining <= 0) {
+          clearInterval(state.timer);
+          timerEl.textContent = 'Hết giờ!';
+        }
+      }, 1000);
+    }
+
+    function skipTimer(containerId) {
+      clearInterval(state.timer);
+      const timerEl = document.getElementById(`${containerId}-timer`);
+      if (timerEl) timerEl.textContent = 'Đã bỏ qua';
+    }
+
+    function formatTime(seconds) {
+      const m = Math.floor(seconds / 60);
+      const s = seconds % 60;
+      return m > 0 ? `${m}:${s.toString().padStart(2, '0')}` : `${s}s`;
+    }
+
+    // ========== RECORDING ==========
+    let mediaRecorder = null;
+    let audioChunks = [];
+
+    async function startRecording(btn) {
+      if (mediaRecorder && mediaRecorder.state === 'recording') {
+        mediaRecorder.stop();
+        btn.classList.remove('recording');
+        btn.querySelector('svg').nextSibling.textContent = ' Ghi âm';
+        return;
+      }
+
+      try {
+        const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
+        mediaRecorder = new MediaRecorder(stream);
+        audioChunks = [];
+
+        mediaRecorder.ondataavailable = e => audioChunks.push(e.data);
+        mediaRecorder.onstop = () => {
+          const blob = new Blob(audioChunks, { type: 'audio/webm' });
+          const url = URL.createObjectURL(blob);
+
+          // Add audio player
+          const player = document.createElement('div');
+          player.className = 'audio-player';
+          player.innerHTML = `<audio controls src="${url}"></audio><p style="color:#94a3b8">Bản ghi của bạn</p>`;
+          btn.parentElement.after(player);
+
+          stream.getTracks().forEach(t => t.stop());
+        };
+
+        mediaRecorder.start();
+        btn.classList.add('recording');
+        btn.innerHTML = `<svg viewBox="0 0 24 24" fill="currentColor"><rect x="6" y="6" width="12" height="12"/></svg> Dừng ghi`;
+      } catch (err) {
+        alert('Không thể truy cập microphone: ' + err.message);
+      }
+    }
+
+    // ========== PHOTO ==========
+    async function takePhoto() {
+      try {
+        const stream = await navigator.mediaDevices.getUserMedia({ video: { facingMode: 'environment' } });
+        const video = document.createElement('video');
+        video.srcObject = stream;
+        video.autoplay = true;
+        video.playsinline = true;
+
+        // Show preview modal
+        const modal = document.createElement('div');
+        modal.style.cssText = 'position:fixed;inset:0;background:rgba(0,0,0,0.9);z-index:1000;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:20px';
+        modal.innerHTML = `
+          <div style="max-width:400px;width:100%">
+            <video autoplay playsinline style="width:100%;border-radius:12px"></video>
+            <button style="margin-top:20px;width:100%;padding:16px;background:#fff;border:none;border-radius:50px;font-size:1.1rem;font-weight:600;cursor:pointer">Chụp</button>
+          </div>`;
+        document.body.appendChild(modal);
+
+        modal.querySelector('video').srcObject = stream;
+        modal.querySelector('button').onclick = () => {
+          const canvas = document.createElement('canvas');
+          const v = modal.querySelector('video');
+          canvas.width = v.videoWidth;
+          canvas.height = v.videoHeight;
+          canvas.getContext('2d').drawImage(v, 0, 0);
+
+          stream.getTracks().forEach(t => t.stop());
+          modal.remove();
+
+          // Show captured image
+          const img = document.createElement('img');
+          img.src = canvas.toDataURL('image/jpeg', 0.8);
+          img.style.cssText = 'max-width:100%;border-radius:8px;margin:12px 0';
+          event.target.closest('.action-btns').after(img);
+        };
+      } catch (err) {
+        alert('Không thể truy cập camera: ' + err.message);
+      }
+    }
+
+    // ========== NAVIGATION ==========
+    function showChunk(index) {
+      if (index < 0 || index >= state.chunks.length) return;
+
+      state.currentChunk = index;
+
+      // Clear timers
+      clearInterval(state.timer);
+      window.speechSynthesis?.cancel();
+
+      // Render
+      const content = document.getElementById('content');
+      content.innerHTML = `<div class="chunk active">${renderChunk(state.chunks[index])}</div>`;
+
+      // Update progress
+      const progress = ((index + 1) / state.chunks.length) * 100;
+      document.getElementById('progress-fill').style.width = `${progress}%`;
+
+      // Update buttons
+      document.getElementById('prev-btn').disabled = index === 0;
+      document.getElementById('next-btn').textContent = index === state.chunks.length - 1 ? 'Hoàn thành ✓' : 'Tiếp →';
+
+      // Scroll to top
+      window.scrollTo(0, 0);
+    }
+
+    // ========== INIT ==========
+    document.addEventListener('DOMContentLoaded', () => {
+      // Navigation buttons
+      document.getElementById('prev-btn').onclick = () => showChunk(state.currentChunk - 1);
+      document.getElementById('next-btn').onclick = () => {
+        if (state.currentChunk < state.chunks.length - 1) {
+          showChunk(state.currentChunk + 1);
+        } else {
+          alert('Chúc mừng! Bạn đã hoàn thành bài học.');
+        }
+      };
+
+      // Keyboard navigation
+      document.addEventListener('keydown', e => {
+        if (e.code === 'Space' || e.code === 'Enter' || e.code === 'ArrowRight') {
+          e.preventDefault();
+          document.getElementById('next-btn').click();
+        } else if (e.code === 'ArrowLeft') {
+          document.getElementById('prev-btn').click();
+        }
+      });
+
+      // Check if skip camera (for testing)
+      const params = new URLSearchParams(window.location.search);
+      if (params.get('skip') === '1') {
+        document.getElementById('camera-gate').classList.add('hidden');
+        loadContent();
+      } else {
+        initCamera();
+      }
+    });
+  </script>
+</body>
+</html>
