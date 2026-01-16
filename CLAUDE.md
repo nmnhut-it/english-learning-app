@@ -451,11 +451,29 @@ Bài 2, làm trong 1 phút nha.
 ### Exercise Structure (MUST include all sections)
 
 Each exercise MUST have:
-1. **Đề bài** (Question/Task)
+1. **Đề** (Question/Task in English)
 2. **Dịch đề** (Vietnamese translation of the question)
 3. **Yêu cầu** (What students need to do)
-4. **Đáp án** (Answers)
-5. **Giải thích** (Explanation for each answer)
+4. **Nội dung** (Original English content with Vietnamese translation)
+5. **Đáp án** (Answers)
+6. **Giải thích** (Explanation for each answer)
+
+For dialogues/reading passages, use table format:
+```markdown
+| English | Vietnamese |
+|---------|------------|
+| **Phong:** What are you watching? | **Phong:** Bạn đang xem gì? |
+| **Hung:** The Voice Kids. | **Hùng:** Giọng Hát Việt Nhí. |
+```
+
+For multiple choice questions, add Vietnamese translation in italics:
+```markdown
+**1.** Phong likes _________.
+- A. animated films
+- B. cartoons
+
+*Phong thích _________.*
+```
 
 **Example:**
 ```markdown

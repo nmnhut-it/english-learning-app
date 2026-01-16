@@ -42,29 +42,22 @@ Bài 1, nghe và đọc hội thoại. Phong với Hùng đang nói về mấy c
 
 **Yêu cầu:** Nghe audio và đọc theo đoạn hội thoại.
 
-**Phong:** Bạn đang xem cái gì, Hùng?
+**Nội dung:**
 
-**Hùng:** Giọng Hát Việt Nhí.
-
-**Phong:** Chương trình tài năng âm nhạc đó rất thú vị.
-
-**Hùng:** Đúng vậy. Bạn thường xem chương trình gì, Phong?
-
-**Phong:** Phim. Tôi thích phim hoạt hình như Vua Sư Tử.
-
-**Hùng:** Tôi yêu chúng, cũng vậy. Chúng thật tuyệt vời.
-
-**Phong:** Tôi thường xem chúng với em trai nhỏ của tôi, nhưng em ấy thích phim hoạt hình hơn.
-
-**Hùng:** Tom và Jerry?
-
-**Phong:** Ha ha... Đúng, em thấy thích con chuột Jerry.
-
-**Hùng:** Jerry là một nhân vật thông minh. Bạn có biết bất kỳ chương trình tiếng Anh nào cho trẻ em không?
-
-**Phong:** Có. Tôi xem Tiếng Anh trong Một Phút trên VTV7. Kênh này có nhiều chương trình giáo dục.
-
-**Hùng:** Tuyệt. Tôi cũng sẽ xem nó.
+| English | Vietnamese |
+|---------|------------|
+| **Phong:** What are you watching, Hung? | **Phong:** Bạn đang xem cái gì, Hùng? |
+| **Hung:** The Voice Kids. | **Hùng:** Giọng Hát Việt Nhí. |
+| **Phong:** That music talent show is very interesting. | **Phong:** Chương trình tài năng âm nhạc đó rất thú vị. |
+| **Hung:** Yes, it is. What programmes do you often watch, Phong? | **Hùng:** Đúng vậy. Bạn thường xem chương trình gì, Phong? |
+| **Phong:** Films! I like animated films like The Lion King. | **Phong:** Phim! Tôi thích phim hoạt hình như Vua Sư Tử. |
+| **Hung:** I love them, too. They're wonderful. | **Hùng:** Tôi yêu chúng, cũng vậy. Chúng thật tuyệt vời. |
+| **Phong:** I often watch them with my little brother, but he prefers cartoons. | **Phong:** Tôi thường xem chúng với em trai nhỏ của tôi, nhưng em ấy thích phim hoạt hình hơn. |
+| **Hung:** Like Tom and Jerry? | **Hùng:** Như Tom và Jerry? |
+| **Phong:** Ha ha... Yes. He finds Jerry the mouse very funny. | **Phong:** Ha ha... Đúng, em thấy thích con chuột Jerry. |
+| **Hung:** Jerry is a clever character. Do you know any English programmes for children? | **Hùng:** Jerry là một nhân vật thông minh. Bạn có biết bất kỳ chương trình tiếng Anh nào cho trẻ em không? |
+| **Phong:** Yes. I watch English in a Minute on VTV7. This channel has many educational programmes. | **Phong:** Có. Tôi xem Tiếng Anh trong Một Phút trên VTV7. Kênh này có nhiều chương trình giáo dục. |
+| **Hung:** Sounds good. I'll watch it, too. | **Hùng:** Tuyệt. Tôi cũng sẽ xem nó. |
 
 ---
 
@@ -80,25 +73,35 @@ Bài 2, chọn đáp án đúng A, B hoặc C. 1 phút nha.
 
 **Yêu cầu:** Đọc lại hội thoại ở bài 1, chọn đáp án đúng cho mỗi câu.
 
+**Nội dung:**
+
 **1.** Phong and Hung are talking about ________.
 - A. The Voice Kids programme
 - B. English in a Minute programme
 - C. different TV programmes
+
+*Phong và Hùng đang nói về ________.*
 
 **2.** Phong likes _________.
 - A. animated films
 - B. cartoons
 - C. talent shows
 
+*Phong thích _________.*
+
 **3.** When you're viewing a TV programme, you say: "I'm _____ TV."
 - A. watching
 - B. seeing
 - C. looking
 
+*Khi bạn đang xem một chương trình TV, bạn nói: "I'm _____ TV."*
+
 **4.** When a programme teaches you something, it's ____________.
 - A. educational
 - B. funny
 - C. clever
+
+*Khi một chương trình dạy bạn điều gì đó, nó là ____________.*
 
 <teacher_script pause="0" type="answer">
 Ok đáp án nha. Câu 1 là C, câu 2 là A, câu 3 là A, câu 4 là A.
@@ -125,6 +128,8 @@ Bài 3, nối 1-5 với a-e. 45 giây thôi.
 **Dịch đề:** Đọc lại hội thoại và nối 1-5 với a-e.
 
 **Yêu cầu:** Nối tên chương trình/kênh với loại chương trình tương ứng.
+
+**Nội dung:**
 
 | | Programme/Channel | | Type |
 |---|---|---|---|
@@ -161,6 +166,8 @@ Bài 4, tìm tính từ trong hội thoại. 30 giây.
 
 **Yêu cầu:** Đọc lại hội thoại, tìm tính từ mô tả cho mỗi chương trình/nhân vật.
 
+**Nội dung:**
+
 1. The Voice Kids → ?
 2. Animated films → ?
 3. Jerry the mouse → ?
@@ -177,10 +184,10 @@ Bài 4, tìm tính từ trong hội thoại. 30 giây.
 4. Programmes on VTV7 → **educational**
 
 **Giải thích:**
-1. interesting - Phong nói "That music talent show is very interesting"
-2. wonderful - Hùng nói "They're wonderful"
-3. clever - Hùng nói "Jerry is a clever character"
-4. educational - Phong nói "This channel has many educational programmes"
+1. interesting - Phong nói "That music talent show is very **interesting**"
+2. wonderful - Hùng nói "They're **wonderful**"
+3. clever - Hùng nói "Jerry is a **clever** character"
+4. educational - Phong nói "This channel has many **educational** programmes"
 
 ---
 
@@ -195,14 +202,17 @@ Bài 5 làm nhóm, hỏi bạn về chương trình TV yêu thích. Về nhà t�
 **Dịch đề:** Làm việc theo nhóm. Phỏng vấn bạn về chương trình TV yêu thích và báo cáo trước lớp.
 
 **Yêu cầu:** Dùng các câu hỏi như:
-- What's your favourite TV programme?
-- What channel is it on?
-- When do you watch it?
+- What's your favourite TV programme? *(Chương trình TV yêu thích của bạn là gì?)*
+- What channel is it on? *(Nó chiếu trên kênh nào?)*
+- When do you watch it? *(Bạn xem nó khi nào?)*
 
 **Gợi ý:**
-> In our group, Mai likes sports programmes on TV. Binh likes animal programmes on VTV2. He watches them every afternoon.
 
-**Dịch:** Trong nhóm của tôi, Mai thích chương trình thể thao trên TV. Bình thích chương trình động vật trên VTV2. Bạn ấy xem vào mỗi buổi chiều.
+| English | Vietnamese |
+|---------|------------|
+| In our group, Mai likes sports programmes on TV. | Trong nhóm của tôi, Mai thích chương trình thể thao trên TV. |
+| Binh likes animal programmes on VTV2. | Bình thích chương trình động vật trên VTV2. |
+| He watches them every afternoon. | Bạn ấy xem vào mỗi buổi chiều. |
 
 ---
 
