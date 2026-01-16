@@ -31,18 +31,8 @@
     strong{color:#0284c7}
     em{color:var(--muted);font-style:normal}
 
-    /* Teacher Script - Ocean style */
-    .ts{display:flex;align-items:center;gap:10px;padding:12px 14px;margin:10px 0;background:linear-gradient(135deg,#e0f2fe,#bae6fd);border-radius:50px;border:2px solid #7dd3fc;cursor:pointer;transition:all .2s}
-    .ts:hover{transform:scale(1.02);box-shadow:0 4px 12px rgba(14,165,233,.25)}
-    .ts.speaking{background:linear-gradient(135deg,#bae6fd,#7dd3fc);border-color:#0ea5e9;animation:glow 1.5s ease-in-out infinite}
-    .ts.played{opacity:.6;border-style:dashed}
-    .ts-icon{font-size:1.3rem;animation:none}
-    .ts.speaking .ts-icon{animation:bounce .5s ease infinite}
-    .ts-label{flex:1;font-size:.9rem;color:#0369a1;font-weight:500}
-    .ts-status{font-size:.75rem;padding:4px 10px;background:#fff;border-radius:20px;color:#0369a1;font-weight:500}
-    .ts.speaking .ts-status{background:#0ea5e9;color:#fff}
-    @keyframes glow{0%,100%{box-shadow:0 0 8px rgba(14,165,233,.3)}50%{box-shadow:0 0 20px rgba(14,165,233,.5)}}
-    @keyframes bounce{0%,100%{transform:translateY(0)}50%{transform:translateY(-3px)}}
+    /* Teacher Script - Hidden (NPC speaks via TTS) */
+    .ts{display:none}
 
     /* Timer - Deep ocean */
     .timer{background:linear-gradient(135deg,#0c4a6e,#075985);color:#fff;padding:16px;border-radius:16px;margin:10px 0;text-align:center;display:none;box-shadow:0 4px 12px rgba(12,74,110,.3)}
