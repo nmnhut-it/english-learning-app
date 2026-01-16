@@ -173,7 +173,7 @@ La Tomatina là một lễ hội khác thường. Đó là một cuộc chiến 
 Ở quảng trường thị trấn, có một cái cột cao với một miếng giăm bông trên đỉnh. Mọi người leo cột và lấy giăm bông. Lúc 11 giờ sáng, một tia nước bắn ra từ vòi rồng, và mọi người bắt đầu ném cà chua. Người ta ném túi cà chua vào đám đông. Sau đó họ ném cà chua vào nhau. Sau một giờ, có một tia nước khác, và mọi người ngừng ném. Toàn bộ quảng trường giờ đỏ rực với những dòng sông nước cà chua.
 
 **3.**
-Sau cuộc chiến, nhiều người đến nhà hàng để thử paella. Đó là một món cơm truyền thống của Tây Ban Nha. Nó có cơm, gà, hải sản và rau thơm.
+Sau cuộc chiến, nhiều người đến nhà hàng để thử paella. Đó là một món cơm truyền thống của Tây Ban. Nó có cơm, gà, hải sản và rau thơm.
 
 **Answers:**
 1. **B** - General information about the festival (Thông tin chung về lễ hội)

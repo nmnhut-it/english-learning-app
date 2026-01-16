@@ -44,11 +44,11 @@ Ok lớp 8, Unit 7 nha - Environmental Protection. Bảo vệ môi trường. M�
 </vocabulary>
 
 <teacher_script pause="180">
-Nhiều từ vựng nha. Ghi vô vở đi. 3 phút.
+Nhiều từ vựng. Ghi vô vở đi. 3 phút.
 </teacher_script>
 
 <teacher_script pause="0" action="record">
-Bấm nút Ghi âm để đọc lại và gửi cho thầy sửa nha.
+Bấm nút Ghi âm để đọc lại và gửi cho thầy sửa.
 </teacher_script>
 
 ---
@@ -104,11 +104,11 @@ Bài 1, nghe và đọc hội thoại. Đây là buổi họp câu lạc bộ m�
 </translation>
 
 <teacher_script pause="240">
-Nghe hội thoại rồi dịch ra tiếng Việt nha. 4 phút vì bài dài.
+Nghe hội thoại rồi dịch ra tiếng Việt. 4 phút vì bài dài.
 </teacher_script>
 
 <teacher_script pause="60">
-Ok sửa bài dịch nha. Đối chiếu với bản dịch trên màn hình.
+Ok sửa bài dịch. Đối chiếu với bản dịch trên màn hình.
 </teacher_script>
 
 ---
@@ -116,7 +116,7 @@ Ok sửa bài dịch nha. Đối chiếu với bản dịch trên màn hình.
 ### Bài 2 trang 73 - Match
 
 <teacher_script pause="60">
-Bài 2, nối cụm từ với định nghĩa. 1 phút nha.
+Bài 2, nối cụm từ với định nghĩa. 1 phút.
 </teacher_script>
 
 <task>
@@ -171,7 +171,7 @@ Bài 2, nối cụm từ với định nghĩa. 1 phút nha.
 ### Bài 3 trang 73 - Fill in the blanks
 
 <teacher_script pause="60">
-Bài 3, điền từ vào chỗ trống. 1 phút nha.
+Bài 3, điền từ vào chỗ trống. 1 phút.
 </teacher_script>
 
 <task>
@@ -193,7 +193,7 @@ Bài 3, điền từ vào chỗ trống. 1 phút nha.
 </questions>
 
 <teacher_script pause="0" type="answer">
-Ok đáp án nha. 1 là pollution, 2 là reduce, 3 là single-use, 4 là carbon footprint, 5 là environment programmes.
+Ok đáp án. 1 là pollution, 2 là reduce, 3 là single-use, 4 là carbon footprint, 5 là environment programmes.
 </teacher_script>
 
 <answer>
@@ -255,7 +255,7 @@ Bài 4, hoàn thành các cụm từ. 45 giây thôi.
 ### Bài 5 trang 73 - Quiz
 
 <teacher_script pause="60">
-Bài 5, trắc nghiệm về bảo vệ môi trường. 1 phút nha.
+Bài 5, trắc nghiệm về bảo vệ môi trường. 1 phút.
 </teacher_script>
 
 <task>
@@ -302,11 +302,11 @@ Bài 5, trắc nghiệm về bảo vệ môi trường. 1 phút nha.
 </questions>
 
 <teacher_script pause="0" type="answer">
-Nếu chọn nhiều A và C (Always), bạn rất eco-friendly! Nếu chọn nhiều B, cần cố gắng thêm nha.
+Nếu chọn nhiều A và C (Always), bạn rất eco-friendly! Nếu chọn nhiều B, cần cố gắng thêm.
 </teacher_script>
 
 ---
 
 <teacher_script pause="0">
-Ok hết Getting Started rồi. Về nhà học từ vựng về môi trường, bài sau qua A Closer Look 1 nha.
+Ok hết Getting Started rồi. Về nhà học từ vựng về môi trường, bài sau qua A Closer Look 1.
 </teacher_script>

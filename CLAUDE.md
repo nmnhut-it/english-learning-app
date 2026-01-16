@@ -590,7 +590,7 @@ Each exercise MUST have these sections in order:
 ### Bài 2 trang 7 - Choose the correct answer
 
 <teacher_script pause="60">
-Bài 2, chọn đáp án đúng. 1 phút nha.
+Bài 2, chọn đáp án đúng. 1 phút.
 </teacher_script>
 
 <task>
@@ -629,7 +629,7 @@ Bài 2, chọn đáp án đúng. 1 phút nha.
 </questions>
 
 <teacher_script pause="0" type="answer">
-Ok đáp án nha. Câu 1 là C, câu 2 là A.
+Ok đáp án. Câu 1 là C, câu 2 là A.
 </teacher_script>
 
 <answer>
@@ -971,10 +971,10 @@ Script content - natural Southern Vietnamese
 ✅ "Ok lớp 6, Unit 7 nha - Television. Mở sách trang 6 đi."
 
 ❌ "Các em hãy làm bài tập số 2."
-✅ "Bài 2, chọn đáp án đúng. 1 phút nha."
+✅ "Bài 2, chọn đáp án đúng. 1 phút."
 
 ❌ "Bây giờ cô sẽ chữa bài cho các em."
-✅ "Ok đáp án nha."
+✅ "Ok đáp án."
 ```
 
 ---
@@ -999,7 +999,7 @@ Ok lớp 6, Unit 7 nha - Television. Mở sách trang 6 tập 2 đi.
 </vocabulary>
 
 <teacher_script pause="0">
-Từ vựng click vô nghe phát âm, ghi vô vở rồi qua bài 1 nha.
+Từ vựng click vô nghe phát âm, ghi vô vở rồi qua bài 1.
 </teacher_script>
 
 ---
@@ -1028,7 +1028,7 @@ Bài 1, nghe và đọc hội thoại.
 ### Bài 2 trang 7 - Choose the correct answer
 
 <teacher_script pause="60">
-Bài 2, chọn đáp án đúng. 1 phút nha.
+Bài 2, chọn đáp án đúng. 1 phút.
 </teacher_script>
 
 <task>
@@ -1047,7 +1047,7 @@ Bài 2, chọn đáp án đúng. 1 phút nha.
 </questions>
 
 <teacher_script pause="0" type="answer">
-Ok đáp án nha. Câu 1 là C.
+Ok đáp án. Câu 1 là C.
 </teacher_script>
 
 <answer>
@@ -1062,7 +1062,7 @@ Ok đáp án nha. Câu 1 là C.
 ---
 
 <teacher_script pause="0">
-Ok hết Getting Started. Về học từ vựng, mai qua A Closer Look 1 nha.
+Ok hết Getting Started. Về học từ vựng, mai qua A Closer Look 1.
 </teacher_script>
 ```
 
@@ -1248,7 +1248,7 @@ Mỗi chunk phải có **teacher_script TRƯỚC** và **SAU** để hướng d�
 ```markdown
 <!-- CHUNK: vocabulary -->
 <teacher_script pause="0">
-Ok đây là từ vựng Unit 7 nha. Click vô từ để nghe phát âm.
+Ok đây là từ vựng Unit 7. Click vô từ để nghe phát âm.
 </teacher_script>
 
 <vocabulary>
@@ -1257,21 +1257,21 @@ Ok đây là từ vựng Unit 7 nha. Click vô từ để nghe phát âm.
 </vocabulary>
 
 <teacher_script pause="120">
-Ghi từ vựng vô vở đi. 2 phút nha.
+Ghi từ vựng vô vở đi. 2 phút.
 </teacher_script>
 
 <!-- CHUNK: record vocabulary -->
 <teacher_script pause="0" action="record">
-Bấm nút Ghi âm để đọc lại và gửi cho thầy sửa nha.
+Bấm nút Ghi âm để đọc lại và gửi cho thầy sửa.
 </teacher_script>
 
 <teacher_script pause="0">
-Xong rồi thì bấm tiếp tục nha.
+Xong rồi thì bấm tiếp tục.
 </teacher_script>
 
 <!-- CHUNK: dialogue -->
 <teacher_script pause="0">
-Đây là hội thoại bài 1. Đọc và dịch ra tiếng Việt nha.
+Đây là hội thoại bài 1. Đọc và dịch ra tiếng Việt.
 </teacher_script>
 
 <dialogue>
@@ -1280,12 +1280,12 @@ Xong rồi thì bấm tiếp tục nha.
 </dialogue>
 
 <teacher_script pause="180">
-Dịch hội thoại vô vở đi. 3 phút nha.
+Dịch hội thoại vô vở đi. 3 phút.
 </teacher_script>
 
 <!-- CHUNK: translation -->
 <teacher_script pause="0">
-Ok đây là bản dịch. So sánh với bài dịch của mình nha.
+Ok đây là bản dịch. So sánh với bài dịch của mình.
 </teacher_script>
 
 <translation>
@@ -1294,7 +1294,7 @@ Ok đây là bản dịch. So sánh với bài dịch của mình nha.
 </translation>
 
 <teacher_script pause="60">
-Sửa bài dịch nếu sai. 1 phút nha.
+Sửa bài dịch nếu sai. 1 phút.
 </teacher_script>
 ```
 
@@ -1387,7 +1387,7 @@ What hỏi cái gì, Where hỏi ở đâu, When hỏi khi nào, Who hỏi ai, W
 </grammar>
 
 <teacher_script pause="0">
-Nếu câu trả lời là một sự vật hay hoạt động, thì dùng What để hỏi nha.
+Nếu câu trả lời là một sự vật hay hoạt động, thì dùng What để hỏi.
 </teacher_script>
 
 <teacher_script pause="30">
@@ -1408,14 +1408,14 @@ Tiếp theo là WHERE - nghĩa là "ở đâu".
 **❌ SAI - Nói đáp án một lần:**
 ```markdown
 <teacher_script pause="0">
-Ok đáp án nha. 1-c, 2-a, 3-e, 4-b, 5-d.
+Ok đáp án. 1-c, 2-a, 3-e, 4-b, 5-d.
 </teacher_script>
 ```
 
 **✅ ĐÚNG - Giải thích từng câu:**
 ```markdown
 <teacher_script pause="0">
-Ok đáp án nha.
+Ok đáp án.
 </teacher_script>
 
 <answer>
@@ -1423,7 +1423,7 @@ Ok đáp án nha.
 </answer>
 
 <teacher_script pause="0">
-Giải thích từng câu nha.
+Giải thích từng câu.
 </teacher_script>
 
 <teacher_script pause="0">
@@ -1509,7 +1509,7 @@ Mỗi bài Listening PHẢI có tapescript để học sinh đọc trước/sau 
 ```markdown
 <!-- chunk: tapescript -->
 <teacher_script pause="0">
-Đây là nội dung bài nghe nha. Đọc trước để hiểu.
+Đây là nội dung bài nghe. Đọc trước để hiểu.
 </teacher_script>
 
 <reading>
@@ -1521,7 +1521,7 @@ Mỗi bài Listening PHẢI có tapescript để học sinh đọc trước/sau 
 </reading>
 
 <teacher_script pause="60">
-Đọc hiểu bài nghe. 1 phút nha.
+Đọc hiểu bài nghe. 1 phút.
 </teacher_script>
 ```
 
@@ -1589,7 +1589,7 @@ Mở sách trang 72 đi.
 
 <!-- chunk: vocabulary -->
 <teacher_script pause="0">
-Đây là từ vựng. Click vô từ để nghe phát âm nha.
+Đây là từ vựng. Click vô từ để nghe phát âm.
 </teacher_script>
 
 <vocabulary>
@@ -1598,25 +1598,25 @@ Mở sách trang 72 đi.
 </vocabulary>
 
 <teacher_script pause="120">
-Ghi từ vựng vô vở đi. 2 phút nha.
+Ghi từ vựng vô vở đi. 2 phút.
 </teacher_script>
 
 ---
 
 <!-- chunk: record_vocabulary -->
 <teacher_script pause="0" action="record">
-Bấm nút Ghi âm để đọc lại và gửi cho thầy sửa nha.
+Bấm nút Ghi âm để đọc lại và gửi cho thầy sửa.
 </teacher_script>
 
 <teacher_script pause="0">
-Record xong bấm tiếp tục nha.
+Record xong bấm tiếp tục.
 </teacher_script>
 
 ---
 
 <!-- chunk: dialogue -->
 <teacher_script pause="0">
-Đây là hội thoại bài 1 nha. Đọc và dịch ra tiếng Việt.
+Đây là hội thoại bài 1. Đọc và dịch ra tiếng Việt.
 </teacher_script>
 
 <dialogue>
@@ -1625,14 +1625,14 @@ Record xong bấm tiếp tục nha.
 </dialogue>
 
 <teacher_script pause="180">
-Dịch hội thoại vô vở đi. 3 phút nha.
+Dịch hội thoại vô vở đi. 3 phút.
 </teacher_script>
 
 ---
 
 <!-- chunk: translation -->
 <teacher_script pause="0">
-Ok đây là bản dịch. So sánh với bài của mình nha.
+Ok đây là bản dịch. So sánh với bài của mình.
 </teacher_script>
 
 <translation>
@@ -1641,14 +1641,14 @@ Ok đây là bản dịch. So sánh với bài của mình nha.
 </translation>
 
 <teacher_script pause="60">
-Sửa bài dịch nếu sai. 1 phút nha.
+Sửa bài dịch nếu sai. 1 phút.
 </teacher_script>
 
 ---
 
 <!-- chunk: exercise_2 -->
 <teacher_script pause="0">
-Bài 2 nha. Chọn đáp án đúng A, B hoặc C.
+Bài 2. Chọn đáp án đúng A, B hoặc C.
 </teacher_script>
 
 <task>
@@ -1664,14 +1664,14 @@ Bài 2 nha. Chọn đáp án đúng A, B hoặc C.
 </questions>
 
 <teacher_script pause="60">
-Làm bài đi. 1 phút nha.
+Làm bài đi. 1 phút.
 </teacher_script>
 
 ---
 
 <!-- chunk: answer_2 -->
 <teacher_script pause="0">
-Ok đáp án nha. Câu 1 là A - by bike.
+Ok đáp án. Câu 1 là A - by bike.
 </teacher_script>
 
 <answer>
@@ -1684,14 +1684,14 @@ Ok đáp án nha. Câu 1 là A - by bike.
 </explanation>
 
 <teacher_script pause="30">
-Sửa bài nếu sai. 30 giây nha.
+Sửa bài nếu sai. 30 giây.
 </teacher_script>
 
 ---
 
 <!-- chunk: end -->
 <teacher_script pause="0">
-Ok hết Getting Started rồi. Về nhà học từ vựng, bài sau A Closer Look 1 nha.
+Ok hết Getting Started rồi. Về nhà học từ vựng, bài sau A Closer Look 1.
 </teacher_script>
 ```
 
@@ -1765,7 +1765,7 @@ Trả lời: I'm watching cartoons - Tôi đang xem phim hoạt hình.
 <teacher_script pause="0">
 Từ 1: talent show - chương trình tài năng.
 Từ 2: programme - chương trình.
-Click vô từ để nghe phát âm nha.
+Click vô từ để nghe phát âm.
 </teacher_script>
 ```
 
@@ -1789,7 +1789,7 @@ Wh-questions gồm What hỏi cái gì, Where hỏi ở đâu, When hỏi khi n�
 </teacher_script>
 
 <teacher_script pause="0">
-Nếu câu trả lời là một sự vật hay hoạt động, thì dùng What để hỏi nha.
+Nếu câu trả lời là một sự vật hay hoạt động, thì dùng What để hỏi.
 </teacher_script>
 ```
 
@@ -1813,7 +1813,7 @@ Tiếp theo là WHERE - nghĩa là "ở đâu".
 </teacher_script>
 
 <teacher_script pause="0">
-Nếu câu trả lời là một nơi chốn, một địa điểm, thì dùng Where để hỏi nha.
+Nếu câu trả lời là một nơi chốn, một địa điểm, thì dùng Where để hỏi.
 </teacher_script>
 
 <teacher_script pause="30">
@@ -1829,7 +1829,7 @@ Ghi vô vở: WHERE = ở đâu, hỏi về nơi chốn.
 
 ```markdown
 <teacher_script pause="0">
-Ok đáp án nha.
+Ok đáp án.
 </teacher_script>
 
 <answer>
@@ -1837,7 +1837,7 @@ Ok đáp án nha.
 </answer>
 
 <teacher_script pause="0">
-Giải thích từng câu nha.
+Giải thích từng câu.
 </teacher_script>
 
 <teacher_script pause="0">
@@ -1938,7 +1938,7 @@ Dùng `pause="0"` khi:
 **Ví dụ chuỗi script giải thích:**
 ```markdown
 <teacher_script pause="0">
-Giờ qua phần Conjunctions nha.
+Giờ qua phần Conjunctions.
 </teacher_script>
 
 <teacher_script pause="0">
@@ -1950,7 +1950,7 @@ Có 3 liên từ cần học: and, but, so.
 </teacher_script>
 
 <teacher_script pause="0">
-Giờ đi qua từng liên từ một nha.
+Giờ đi qua từng liên từ một.
 </teacher_script>
 ```
 

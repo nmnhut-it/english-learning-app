@@ -15,7 +15,7 @@ Mở sách trang 9-10 tập 2 đi.
 
 <!-- chunk: grammar_overview -->
 <teacher_script pause="0">
-Hôm nay học 2 điểm ngữ pháp nha.
+Hôm nay học 2 điểm ngữ pháp.
 </teacher_script>
 
 <teacher_script pause="0">
@@ -27,7 +27,7 @@ Hai là liên từ and, but, so - dùng để nối các câu lại với nhau.
 </teacher_script>
 
 <teacher_script pause="0">
-Bắt đầu với Wh-questions nha.
+Bắt đầu với Wh-questions.
 </teacher_script>
 
 ---
@@ -42,7 +42,7 @@ Wh-questions là gì?
 </teacher_script>
 
 <teacher_script pause="0">
-Mỗi từ hỏi khác nhau sẽ hỏi về một thông tin khác nhau nha.
+Mỗi từ hỏi khác nhau sẽ hỏi về một thông tin khác nhau.
 </teacher_script>
 
 <teacher_script pause="0">
@@ -69,7 +69,7 @@ Giờ đi qua từng từ hỏi một.
 </grammar>
 
 <teacher_script pause="0">
-Nếu câu trả lời là một sự vật hay hoạt động, thì dùng What để hỏi nha.
+Nếu câu trả lời là một sự vật hay hoạt động, thì dùng What để hỏi.
 </teacher_script>
 
 <teacher_script pause="30">
@@ -96,7 +96,7 @@ Tiếp theo là WHERE - nghĩa là "ở đâu".
 </grammar>
 
 <teacher_script pause="0">
-Nếu câu trả lời là một nơi chốn, một địa điểm, thì dùng Where để hỏi nha.
+Nếu câu trả lời là một nơi chốn, một địa điểm, thì dùng Where để hỏi.
 </teacher_script>
 
 <teacher_script pause="30">
@@ -123,7 +123,7 @@ Tiếp theo là WHEN - nghĩa là "khi nào".
 </grammar>
 
 <teacher_script pause="0">
-Nếu câu trả lời là thời gian như ngày, giờ, thì dùng When nha.
+Nếu câu trả lời là thời gian như ngày, giờ, thì dùng When.
 </teacher_script>
 
 <teacher_script pause="30">
@@ -150,7 +150,7 @@ Tiếp theo là WHO - nghĩa là "ai".
 </grammar>
 
 <teacher_script pause="0">
-Nếu câu trả lời là một người hoặc nhân vật, thì dùng Who nha.
+Nếu câu trả lời là một người hoặc nhân vật, thì dùng Who.
 </teacher_script>
 
 <teacher_script pause="30">
@@ -177,7 +177,7 @@ Tiếp theo là WHY - nghĩa là "tại sao".
 </grammar>
 
 <teacher_script pause="0">
-Nếu câu trả lời bắt đầu bằng "Because" - nghĩa là "vì", thì câu hỏi dùng Why nha.
+Nếu câu trả lời bắt đầu bằng "Because" - nghĩa là "vì", thì câu hỏi dùng Why.
 </teacher_script>
 
 <teacher_script pause="30">
@@ -188,7 +188,7 @@ Ghi vô vở: WHY = tại sao, hỏi về lý do. Trả lời bằng "Because".
 
 <!-- chunk: grammar_how -->
 <teacher_script pause="0">
-Giờ đến các từ hỏi HOW nha. Có nhiều dạng khác nhau.
+Giờ đến các từ hỏi HOW. Có nhiều dạng khác nhau.
 </teacher_script>
 
 <grammar>
@@ -254,7 +254,7 @@ HOW MANY - nghĩa là "bao nhiêu".
 </grammar>
 
 <teacher_script pause="0">
-Sau How many phải là danh từ số nhiều như books, students, people nha.
+Sau How many phải là danh từ số nhiều như books, students, people.
 </teacher_script>
 
 <teacher_script pause="30">
@@ -281,7 +281,7 @@ HOW LONG - nghĩa là "bao lâu".
 </grammar>
 
 <teacher_script pause="0">
-How long hỏi về khoảng thời gian hoặc độ dài nha.
+How long hỏi về khoảng thời gian hoặc độ dài.
 </teacher_script>
 
 <teacher_script pause="30">
@@ -292,7 +292,7 @@ Ghi vô vở: HOW LONG = bao lâu, hỏi về khoảng thời gian.
 
 <!-- chunk: grammar_wh_structure -->
 <teacher_script pause="0">
-Ok giờ xem cấu trúc câu hỏi WH nha.
+Ok giờ xem cấu trúc câu hỏi WH.
 </teacher_script>
 
 <grammar>
@@ -318,14 +318,14 @@ Nhớ nha: Từ hỏi đứng đầu, sau đó là trợ động từ do/does ho
 </teacher_script>
 
 <teacher_script pause="45">
-Ghi công thức vô vở đi. 45 giây nha.
+Ghi công thức vô vở đi. 45 giây.
 </teacher_script>
 
 ---
 
 <!-- chunk: grammar_wh_summary -->
 <teacher_script pause="0">
-Đây là bảng tóm tắt tất cả từ hỏi WH nha.
+Đây là bảng tóm tắt tất cả từ hỏi WH.
 </teacher_script>
 
 <grammar>
@@ -345,7 +345,7 @@ Ghi công thức vô vở đi. 45 giây nha.
 </grammar>
 
 <teacher_script pause="60">
-Ghi bảng tóm tắt vô vở đi. 1 phút nha.
+Ghi bảng tóm tắt vô vở đi. 1 phút.
 </teacher_script>
 
 ---
@@ -354,7 +354,7 @@ Ghi bảng tóm tắt vô vở đi. 1 phút nha.
 ### Bài 1 trang 9 - Read and underline
 
 <teacher_script pause="0">
-Bài 1 nha. Đọc hội thoại và gạch dưới từ để hỏi.
+Bài 1. Đọc hội thoại và gạch dưới từ để hỏi.
 </teacher_script>
 
 <task>
@@ -382,14 +382,14 @@ Bài 1 nha. Đọc hội thoại và gạch dưới từ để hỏi.
 </translation>
 
 <teacher_script pause="30">
-Tìm từ hỏi đi. 30 giây nha.
+Tìm từ hỏi đi. 30 giây.
 </teacher_script>
 
 ---
 
 <!-- chunk: answer_1 -->
 <teacher_script pause="0">
-Ok đáp án nha.
+Ok đáp án.
 </teacher_script>
 
 <answer>
@@ -423,7 +423,7 @@ Ba là HOW LONG - hỏi "bao lâu" - How long is it on?
 </explanation>
 
 <teacher_script pause="30">
-Sửa bài nếu sai. 30 giây nha.
+Sửa bài nếu sai. 30 giây.
 </teacher_script>
 
 ---
@@ -432,7 +432,7 @@ Sửa bài nếu sai. 30 giây nha.
 ### Bài 2 trang 9 - Match
 
 <teacher_script pause="0">
-Bài 2 nha. Nối từ hỏi với thông tin nó cần.
+Bài 2. Nối từ hỏi với thông tin nó cần.
 </teacher_script>
 
 <teacher_script pause="0">
@@ -458,14 +458,14 @@ Ví dụ: Where hỏi về nơi chốn, nên nối với "Place".
 </questions>
 
 <teacher_script pause="45">
-Làm bài đi. 45 giây nha.
+Làm bài đi. 45 giây.
 </teacher_script>
 
 ---
 
 <!-- chunk: answer_2 -->
 <teacher_script pause="0">
-Ok đáp án nha.
+Ok đáp án.
 </teacher_script>
 
 <answer>
@@ -473,7 +473,7 @@ Ok đáp án nha.
 </answer>
 
 <teacher_script pause="0">
-Đi qua từng cặp nha.
+Đi qua từng cặp.
 </teacher_script>
 
 <teacher_script pause="0">
@@ -519,7 +519,7 @@ Why nối với f - Reason. Why hỏi "tại sao" - hỏi về lý do.
 </explanation>
 
 <teacher_script pause="30">
-Sửa bài nếu sai. 30 giây nha.
+Sửa bài nếu sai. 30 giây.
 </teacher_script>
 
 ---
@@ -528,7 +528,7 @@ Sửa bài nếu sai. 30 giây nha.
 ### Bài 3 trang 9 - Complete conversations
 
 <teacher_script pause="0">
-Bài 3 nha. Điền từ hỏi để hoàn thành hội thoại.
+Bài 3. Điền từ hỏi để hoàn thành hội thoại.
 </teacher_script>
 
 <teacher_script pause="0">
@@ -570,14 +570,14 @@ B: In the yard.
 </questions>
 
 <teacher_script pause="60">
-Làm bài đi. 1 phút nha.
+Làm bài đi. 1 phút.
 </teacher_script>
 
 ---
 
 <!-- chunk: answer_3 -->
 <teacher_script pause="0">
-Ok đáp án nha.
+Ok đáp án.
 </teacher_script>
 
 <answer>
@@ -588,7 +588,7 @@ Ok đáp án nha.
 </answer>
 
 <teacher_script pause="0">
-Giải thích từng câu nha.
+Giải thích từng câu.
 </teacher_script>
 
 <teacher_script pause="0">
@@ -626,7 +626,7 @@ Conversation 3, câu sau: Trả lời là "In the yard" - nơi chốn. Nên dùn
 </explanation>
 
 <teacher_script pause="30">
-Sửa bài nếu sai. 30 giây nha.
+Sửa bài nếu sai. 30 giây.
 </teacher_script>
 
 ---
@@ -645,7 +645,7 @@ Có 3 liên từ cần học: and, but, so.
 </teacher_script>
 
 <teacher_script pause="0">
-Giờ đi qua từng liên từ một nha.
+Giờ đi qua từng liên từ một.
 </teacher_script>
 
 ---
@@ -756,7 +756,7 @@ Ghi vô vở: SO = vì vậy, nên. Nối nguyên nhân → kết quả.
 
 <!-- chunk: grammar_conjunctions_summary -->
 <teacher_script pause="0">
-Đây là bảng tóm tắt 3 liên từ nha.
+Đây là bảng tóm tắt 3 liên từ.
 </teacher_script>
 
 <grammar>
@@ -792,7 +792,7 @@ SO = kết quả (→). Ví dụ: Vì A NÊN B.
 </teacher_script>
 
 <teacher_script pause="45">
-Ghi bảng tóm tắt vô vở đi. 45 giây nha.
+Ghi bảng tóm tắt vô vở đi. 45 giây.
 </teacher_script>
 
 ---
@@ -801,11 +801,11 @@ Ghi bảng tóm tắt vô vở đi. 45 giây nha.
 ### Bài 4 trang 10 - Match
 
 <teacher_script pause="0">
-Bài 4 nha. Nối phần đầu với phần đuôi.
+Bài 4. Nối phần đầu với phần đuôi.
 </teacher_script>
 
 <teacher_script pause="0">
-Nhìn liên từ trong câu để biết nối với vế nào nha.
+Nhìn liên từ trong câu để biết nối với vế nào.
 </teacher_script>
 
 <task>
@@ -825,14 +825,14 @@ Nhìn liên từ trong câu để biết nối với vế nào nha.
 </questions>
 
 <teacher_script pause="45">
-Làm bài đi. 45 giây nha.
+Làm bài đi. 45 giây.
 </teacher_script>
 
 ---
 
 <!-- chunk: answer_4 -->
 <teacher_script pause="0">
-Ok đáp án nha.
+Ok đáp án.
 </teacher_script>
 
 <answer>
@@ -840,7 +840,7 @@ Ok đáp án nha.
 </answer>
 
 <teacher_script pause="0">
-Giải thích từng câu nha.
+Giải thích từng câu.
 </teacher_script>
 
 <teacher_script pause="0">
@@ -896,7 +896,7 @@ Thích hoạt động ngoài trời là nguyên nhân, chơi thể thao là kế
 </explanation>
 
 <teacher_script pause="30">
-Sửa bài nếu sai. 30 giây nha.
+Sửa bài nếu sai. 30 giây.
 </teacher_script>
 
 ---
@@ -905,11 +905,11 @@ Sửa bài nếu sai. 30 giây nha.
 ### Bài 5 trang 10 - Fill in and, but, so
 
 <teacher_script pause="0">
-Bài 5 nha. Điền and, but hoặc so.
+Bài 5. Điền and, but hoặc so.
 </teacher_script>
 
 <teacher_script pause="0">
-Đọc kỹ 2 vế của câu, xem mối quan hệ giữa chúng là gì nha.
+Đọc kỹ 2 vế của câu, xem mối quan hệ giữa chúng là gì.
 </teacher_script>
 
 <task>
@@ -941,14 +941,14 @@ Bài 5 nha. Điền and, but hoặc so.
 </questions>
 
 <teacher_script pause="60">
-Làm bài đi. 1 phút nha.
+Làm bài đi. 1 phút.
 </teacher_script>
 
 ---
 
 <!-- chunk: answer_5 -->
 <teacher_script pause="0">
-Ok đáp án nha.
+Ok đáp án.
 </teacher_script>
 
 <answer>
@@ -956,7 +956,7 @@ Ok đáp án nha.
 </answer>
 
 <teacher_script pause="0">
-Giải thích từng câu nha.
+Giải thích từng câu.
 </teacher_script>
 
 <teacher_script pause="0">
@@ -1017,14 +1017,14 @@ Viết hướng dẫn và hy vọng anh ấy làm theo - 2 hành động bổ su
 </explanation>
 
 <teacher_script pause="30">
-Sửa bài nếu sai. 30 giây nha.
+Sửa bài nếu sai. 30 giây.
 </teacher_script>
 
 ---
 
 <!-- chunk: summary -->
 <teacher_script pause="0">
-Tóm tắt bài học nha.
+Tóm tắt bài học.
 </teacher_script>
 
 <grammar>
@@ -1051,7 +1051,7 @@ Tóm tắt bài học nha.
 </grammar>
 
 <teacher_script pause="60">
-Ghi tóm tắt vô vở đi. 1 phút nha.
+Ghi tóm tắt vô vở đi. 1 phút.
 </teacher_script>
 
 ---
@@ -1062,7 +1062,7 @@ Ok hết A Closer Look 2 rồi.
 </teacher_script>
 
 <teacher_script pause="0">
-Về nhà học thuộc các từ hỏi WH và 3 liên từ and, but, so nha.
+Về nhà học thuộc các từ hỏi WH và 3 liên từ and, but, so.
 </teacher_script>
 
 <teacher_script pause="0">

@@ -2,20 +2,13 @@
 
 ## GETTING STARTED - What's on today?
 
-<!-- chunk: intro -->
-<teacher_script pause="0">
-Ok lớp 6, Unit 7 nha - Television. Truyền hình.
-</teacher_script>
-
-<teacher_script pause="0">
-Mở sách trang 6 tập 2 đi.
-</teacher_script>
-
----
-
 <!-- chunk: vocabulary -->
 <teacher_script pause="0">
-Đây là từ vựng bài này. Click vô từ để nghe phát âm nha.
+Ok lớp 6, Unit 7 nha - Television. Mở sách trang 6 tập 2 đi.
+</teacher_script>
+
+<teacher_script pause="0">
+Đây là từ vựng bài này. Click vô từ để nghe phát âm.
 </teacher_script>
 
 <vocabulary>
@@ -35,47 +28,27 @@ Mở sách trang 6 tập 2 đi.
 14. **interesting** : (adj) thú vị /ˈɪntrəstɪŋ/
 </vocabulary>
 
-<teacher_script pause="120">
-Ghi từ vựng vô vở đi. 2 phút nha.
-</teacher_script>
 
 ---
 
 <!-- chunk: record_vocabulary -->
 <teacher_script pause="0" action="record">
-Bấm nút Ghi âm để đọc lại và gửi cho thầy sửa nha.
+Bấm nút Ghi âm để đọc lại và gửi cho thầy sửa.
 </teacher_script>
 
 <teacher_script pause="0">
-Record xong bấm tiếp tục nha.
+Record xong bấm tiếp tục.
 </teacher_script>
 
 ---
 
-<!-- chunk: exercise_1_intro -->
+<!-- chunk: exercise_1 -->
 ### Bài 1 trang 6 - Listen and read
 
 <teacher_script pause="0">
-Bài 1, nghe và đọc hội thoại. Phong với Hùng đang nói về mấy chương trình TV.
+Bài 1. Đây là hội thoại Phong với Hùng nói về mấy chương trình TV.
 </teacher_script>
 
-<task>
-**Đề:** Listen and read.
-**Dịch đề:** Nghe và đọc.
-**Yêu cầu:** Nghe audio và đọc theo đoạn hội thoại giữa Phong và Hùng.
-**Hướng dẫn:**
-- Bước 1: Nghe audio 1 lần để hiểu nội dung chung
-- Bước 2: Đọc theo từng câu, chú ý phát âm
-- Bước 3: Gạch chân từ mới
-</task>
-
-<teacher_script pause="0">
-Đây là hội thoại tiếng Anh. Đọc và dịch ra tiếng Việt nha.
-</teacher_script>
-
----
-
-<!-- chunk: dialogue -->
 <dialogue>
 **Phong:** What are you watching, Hung?
 **Hung:** The Voice Kids.
@@ -92,14 +65,14 @@ Bài 1, nghe và đọc hội thoại. Phong với Hùng đang nói về mấy c
 </dialogue>
 
 <teacher_script pause="180">
-Dịch hội thoại vô vở đi. 3 phút nha.
+Đọc hội thoại và dịch vô tập. 3 phút.
 </teacher_script>
 
 ---
 
 <!-- chunk: translation -->
 <teacher_script pause="0">
-Ok đây là bản dịch. So sánh với bài dịch của mình nha.
+Ok đây là bản dịch. So sánh với bài dịch của mình.
 </teacher_script>
 
 <translation>
@@ -118,18 +91,18 @@ Ok đây là bản dịch. So sánh với bài dịch của mình nha.
 </translation>
 
 <teacher_script pause="60">
-Sửa bài dịch nếu sai. 1 phút nha.
+Sửa bài dịch nếu sai. 1 phút.
 </teacher_script>
 
 ---
 
 <!-- chunk: record_dialogue -->
 <teacher_script pause="0" action="record">
-Bấm nút Ghi âm để đọc hội thoại và gửi cho thầy sửa nha.
+Bấm nút Ghi âm để đọc hội thoại và gửi cho thầy sửa.
 </teacher_script>
 
 <teacher_script pause="0">
-Record xong bấm tiếp tục nha.
+Record xong bấm tiếp tục.
 </teacher_script>
 
 ---
@@ -138,18 +111,8 @@ Record xong bấm tiếp tục nha.
 ### Bài 2 trang 7 - Choose the correct answer
 
 <teacher_script pause="0">
-Bài 2 nha. Chọn đáp án đúng A, B hoặc C.
+Bài 2. Chọn đáp án đúng A, B hoặc C dựa vào hội thoại.
 </teacher_script>
-
-<task>
-**Đề:** Choose the correct answer A, B, or C.
-**Dịch đề:** Chọn đáp án đúng A, B hoặc C.
-**Yêu cầu:** Đọc lại hội thoại ở bài 1, chọn đáp án đúng cho mỗi câu hỏi.
-**Hướng dẫn:**
-- Bước 1: Đọc câu hỏi và hiểu ý
-- Bước 2: Tìm thông tin trong hội thoại
-- Bước 3: Chọn đáp án đúng nhất
-</task>
 
 <questions type="multiple_choice">
 **1.** Phong and Hung are talking about ________.
@@ -182,14 +145,14 @@ Bài 2 nha. Chọn đáp án đúng A, B hoặc C.
 </questions>
 
 <teacher_script pause="60">
-Làm bài đi. 1 phút nha.
+Làm bài đi. 1 phút.
 </teacher_script>
 
 ---
 
 <!-- chunk: answer_2 -->
 <teacher_script pause="0">
-Ok đáp án nha.
+Ok đáp án.
 </teacher_script>
 
 <answer>
@@ -202,7 +165,7 @@ Ok đáp án nha.
 **Câu 1: C** - Tụi nó nói về nhiều chương trình khác nhau (Voice Kids, Lion King, Tom & Jerry, English in a Minute), không phải chỉ 1 chương trình.
 
 **Câu 2: A** - Phong nói "I like **animated films** like The Lion King".
-- Chú ý: **animated film** (phim hoạt hình dài) khác **cartoon** (hoạt hình ngắn) nha.
+- Chú ý: **animated film** (phim hoạt hình dài) khác **cartoon** (hoạt hình ngắn).
 
 **Câu 3: A** - "**watch TV**" là cụm cố định.
 - Không ai nói "see TV" hay "look TV".
@@ -213,7 +176,7 @@ Ok đáp án nha.
 </explanation>
 
 <teacher_script pause="30">
-Sửa bài nếu sai. 30 giây nha.
+Sửa bài nếu sai. 30 giây.
 </teacher_script>
 
 ---
@@ -222,18 +185,8 @@ Sửa bài nếu sai. 30 giây nha.
 ### Bài 3 trang 7 - Match
 
 <teacher_script pause="0">
-Bài 3 nha. Nối cột A với cột B.
+Bài 3. Nối tên chương trình ở cột A với loại chương trình ở cột B.
 </teacher_script>
-
-<task>
-**Đề:** Read the conversation again and match 1-5 with a-e.
-**Dịch đề:** Đọc lại hội thoại và nối 1-5 với a-e.
-**Yêu cầu:** Nối tên chương trình/kênh ở cột A với loại chương trình ở cột B.
-**Hướng dẫn:**
-- Cột A: Tên chương trình hoặc kênh
-- Cột B: Loại chương trình
-- Nối số với chữ cái (ví dụ: 1-c)
-</task>
 
 <questions type="matching">
 | | Column A (Cột A) | | Column B (Cột B) |
@@ -246,14 +199,14 @@ Bài 3 nha. Nối cột A với cột B.
 </questions>
 
 <teacher_script pause="45">
-Làm bài đi. 45 giây nha.
+Làm bài đi. 45 giây.
 </teacher_script>
 
 ---
 
 <!-- chunk: answer_3 -->
 <teacher_script pause="0">
-Ok đáp án nha.
+Ok đáp án.
 </teacher_script>
 
 <answer>
@@ -277,7 +230,7 @@ Ok đáp án nha.
 </explanation>
 
 <teacher_script pause="30">
-Sửa bài nếu sai. 30 giây nha.
+Sửa bài nếu sai. 30 giây.
 </teacher_script>
 
 ---
@@ -286,18 +239,8 @@ Sửa bài nếu sai. 30 giây nha.
 ### Bài 4 trang 7 - Find adjectives
 
 <teacher_script pause="0">
-Bài 4 nha. Tìm tính từ trong hội thoại mô tả các chương trình.
+Bài 4. Tìm tính từ trong hội thoại mô tả các chương trình và nhân vật.
 </teacher_script>
-
-<task>
-**Đề:** Find and write the adjectives in the conversation which describe the programmes and characters below.
-**Dịch đề:** Tìm và viết các tính từ trong hội thoại mô tả các chương trình và nhân vật bên dưới.
-**Yêu cầu:** Đọc lại hội thoại, tìm tính từ (adjective) mô tả cho mỗi chương trình/nhân vật.
-**Hướng dẫn:**
-- **Adjective** (tính từ) = từ mô tả đặc điểm
-- Tìm câu nói về chương trình/nhân vật đó
-- Xác định tính từ trong câu
-</task>
 
 <questions type="find_words">
 1. The Voice Kids → _______
@@ -307,14 +250,14 @@ Bài 4 nha. Tìm tính từ trong hội thoại mô tả các chương trình.
 </questions>
 
 <teacher_script pause="30">
-Làm bài đi. 30 giây nha.
+Làm bài đi. 30 giây.
 </teacher_script>
 
 ---
 
 <!-- chunk: answer_4 -->
 <teacher_script pause="0">
-Ok đáp án nha.
+Ok đáp án.
 </teacher_script>
 
 <answer>
@@ -339,7 +282,7 @@ Ok đáp án nha.
 </explanation>
 
 <teacher_script pause="30">
-Sửa bài nếu sai. 30 giây nha.
+Sửa bài nếu sai. 30 giây.
 </teacher_script>
 
 ---
@@ -348,14 +291,8 @@ Sửa bài nếu sai. 30 giây nha.
 ### Bài 5 trang 7 - Work in groups
 
 <teacher_script pause="0">
-Bài 5 là bài Speaking nha. Hỏi bạn về chương trình TV yêu thích.
+Bài 5 là bài Speaking. Phỏng vấn bạn về chương trình TV yêu thích.
 </teacher_script>
-
-<task>
-**Đề:** Work in groups. Interview your partners about their favourite TV programmes and report to the class.
-**Dịch đề:** Làm việc theo nhóm. Phỏng vấn bạn về chương trình TV yêu thích và báo cáo trước lớp.
-**Yêu cầu:** Hỏi bạn, ghi lại câu trả lời, viết báo cáo.
-</task>
 
 <questions type="speaking">
 **Câu hỏi gợi ý:**
@@ -386,14 +323,14 @@ Bài 5 là bài Speaking nha. Hỏi bạn về chương trình TV yêu thích.
 </questions>
 
 <teacher_script pause="0">
-Bài này về nhà tập nói nha. Tự hỏi đáp với bạn hoặc gia đình.
+Bài này về nhà tập nói. Tự hỏi đáp với bạn hoặc gia đình.
 </teacher_script>
 
 ---
 
 <!-- chunk: end -->
 <teacher_script pause="0">
-Ok hết Getting Started rồi. Về nhà học thuộc từ vựng nha.
+Ok hết Getting Started rồi. Về nhà học thuộc từ vựng.
 </teacher_script>
 
 <teacher_script pause="0">

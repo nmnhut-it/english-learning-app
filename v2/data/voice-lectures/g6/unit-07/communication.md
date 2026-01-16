@@ -4,7 +4,7 @@
 
 <!-- chunk: intro -->
 <teacher_script pause="0">
-Ok lớp 6, Communication nha.
+Ok lớp 6, Communication.
 </teacher_script>
 
 <teacher_script pause="0">
@@ -26,7 +26,7 @@ Tiếng Anh gọi là: Asking for and giving information about TV programmes.
 
 <!-- chunk: theory_intro -->
 <teacher_script pause="0">
-Trước khi làm bài, học một số cấu trúc giao tiếp quan trọng nha.
+Trước khi làm bài, học một số cấu trúc giao tiếp quan trọng.
 </teacher_script>
 
 <grammar>
@@ -65,7 +65,7 @@ Trước khi làm bài, học một số cấu trúc giao tiếp quan trọng nh
 </grammar>
 
 <teacher_script pause="0">
-Cấu trúc giao tiếp gồm 4 phần nha.
+Cấu trúc giao tiếp gồm 4 phần.
 </teacher_script>
 
 <teacher_script pause="0">
@@ -85,7 +85,7 @@ Bốn: Nói lý do - Because...
 </teacher_script>
 
 <teacher_script pause="60">
-Ghi 4 cấu trúc này vô vở đi. 1 phút nha.
+Ghi 4 cấu trúc này vô vở đi. 1 phút.
 </teacher_script>
 
 ---
@@ -94,7 +94,7 @@ Ghi 4 cấu trúc này vô vở đi. 1 phút nha.
 ### Bài 1 trang 11 - Listen and read
 
 <teacher_script pause="0">
-Bài 1 nha. Nghe và đọc đoạn hội thoại.
+Bài 1. Nghe và đọc đoạn hội thoại.
 </teacher_script>
 
 <teacher_script pause="0">
@@ -121,7 +121,7 @@ Chú ý các từ được làm nổi bật - đó là cấu trúc quan trọng.
 </dialogue>
 
 <teacher_script pause="0">
-Đây là hội thoại mẫu nha.
+Đây là hội thoại mẫu.
 </teacher_script>
 
 <teacher_script pause="0">
@@ -148,7 +148,7 @@ Nhớ nha: Khi hỏi Why, trả lời bằng Because.
 
 <!-- chunk: key_structure -->
 <teacher_script pause="0">
-Tóm tắt cấu trúc quan trọng nha.
+Tóm tắt cấu trúc quan trọng.
 </teacher_script>
 
 <grammar>
@@ -169,11 +169,11 @@ Cấu trúc quan trọng: What's your favourite... và Why do you like it.
 </teacher_script>
 
 <teacher_script pause="0">
-Khi hỏi Why, luôn trả lời bằng Because nha.
+Khi hỏi Why, luôn trả lời bằng Because.
 </teacher_script>
 
 <teacher_script pause="30">
-Ghi vô vở đi. 30 giây nha.
+Ghi vô vở đi. 30 giây.
 </teacher_script>
 
 ---
@@ -182,7 +182,7 @@ Ghi vô vở đi. 30 giây nha.
 ### Bài 2 trang 11 - Work in pairs
 
 <teacher_script pause="0">
-Bài 2 nha. Làm việc theo cặp, tạo hội thoại tương tự.
+Bài 2. Làm việc theo cặp, tạo hội thoại tương tự.
 </teacher_script>
 
 <task>
@@ -196,7 +196,7 @@ Dùng cấu trúc: What's your favourite TV programme? và Why do you like it?
 </teacher_script>
 
 <teacher_script pause="0">
-Thay đổi tên chương trình và lý do theo ý của mình nha.
+Thay đổi tên chương trình và lý do theo ý của mình.
 </teacher_script>
 
 <grammar>
@@ -261,7 +261,7 @@ Because it's educational - vì nó mang tính giáo dục.
 </dialogue>
 
 <teacher_script pause="0">
-Hội thoại mẫu nha.
+Hội thoại mẫu.
 </teacher_script>
 
 <teacher_script pause="0">
@@ -275,18 +275,18 @@ B trả lời: Because I want to practise Maths and English more after school.
 </teacher_script>
 
 <teacher_script pause="120">
-Giờ viết hội thoại của mình vô vở đi. 2 phút nha.
+Giờ viết hội thoại của mình vô vở đi. 2 phút.
 </teacher_script>
 
 ---
 
 <!-- chunk: exercise_2_record -->
 <teacher_script pause="0" action="record">
-Bấm nút Ghi âm để đọc hội thoại của mình và gửi cho thầy sửa nha.
+Bấm nút Ghi âm để đọc hội thoại của mình và gửi cho thầy sửa.
 </teacher_script>
 
 <teacher_script pause="0">
-Record xong bấm tiếp tục nha.
+Record xong bấm tiếp tục.
 </teacher_script>
 
 ---
@@ -295,7 +295,7 @@ Record xong bấm tiếp tục nha.
 ### Bài 3 trang 11 - Complete the facts
 
 <teacher_script pause="0">
-Bài 3 nha. Thảo luận và hoàn thành các sự thật thú vị về TV.
+Bài 3. Thảo luận và hoàn thành các sự thật thú vị về TV.
 </teacher_script>
 
 <task>
@@ -345,14 +345,14 @@ Câu 4: Discovery Channel ở nước nào?
 </teacher_script>
 
 <teacher_script pause="45">
-Làm bài đi. 45 giây nha.
+Làm bài đi. 45 giây.
 </teacher_script>
 
 ---
 
 <!-- chunk: answer_3 -->
 <teacher_script pause="0">
-Ok đáp án nha.
+Ok đáp án.
 </teacher_script>
 
 <answer>
@@ -360,7 +360,7 @@ Ok đáp án nha.
 </answer>
 
 <teacher_script pause="0">
-Giải thích từng câu nha.
+Giải thích từng câu.
 </teacher_script>
 
 <teacher_script pause="0">
@@ -407,7 +407,7 @@ Discovery Channel là kênh giáo dục nổi tiếng của Mỹ.
 </explanation>
 
 <teacher_script pause="30">
-Sửa bài nếu sai. 30 giây nha.
+Sửa bài nếu sai. 30 giây.
 </teacher_script>
 
 ---
@@ -416,7 +416,7 @@ Sửa bài nếu sai. 30 giây nha.
 ### Bài 4 trang 11 - Read and tick
 
 <teacher_script pause="0">
-Bài 4 nha. Đọc về 2 chương trình TV và tick vào bảng.
+Bài 4. Đọc về 2 chương trình TV và tick vào bảng.
 </teacher_script>
 
 <task>
@@ -429,7 +429,7 @@ Bài 4 nha. Đọc về 2 chương trình TV và tick vào bảng.
 
 <!-- chunk: exercise_4_reading_1 -->
 <teacher_script pause="0">
-Đọc đoạn 1 về chương trình Let's Learn nha.
+Đọc đoạn 1 về chương trình Let's Learn.
 </teacher_script>
 
 <reading>
@@ -463,7 +463,7 @@ Người dân ở 80 quốc gia xem mỗi ngày. Cả trẻ em và bố mẹ đ�
 
 <!-- chunk: exercise_4_reading_2 -->
 <teacher_script pause="0">
-Đọc đoạn 2 về chương trình Hello Fatty nha.
+Đọc đoạn 2 về chương trình Hello Fatty.
 </teacher_script>
 
 <reading>
@@ -500,7 +500,7 @@ Nó thú vị VÀ có tính giáo dục - funny AND educational.
 
 <!-- chunk: exercise_4_table -->
 <teacher_script pause="0">
-Giờ tick vào bảng nha. Có thể tick cả 2 nếu đúng cho cả 2 chương trình.
+Giờ tick vào bảng. Có thể tick cả 2 nếu đúng cho cả 2 chương trình.
 </teacher_script>
 
 <questions type="true_false">
@@ -520,14 +520,14 @@ Giờ tick vào bảng nha. Có thể tick cả 2 nếu đúng cho cả 2 chươ
 </questions>
 
 <teacher_script pause="60">
-Đọc lại 2 đoạn văn và tick vô bảng đi. 1 phút nha.
+Đọc lại 2 đoạn văn và tick vô bảng đi. 1 phút.
 </teacher_script>
 
 ---
 
 <!-- chunk: answer_4 -->
 <teacher_script pause="0">
-Ok đáp án nha.
+Ok đáp án.
 </teacher_script>
 
 <answer>
@@ -542,7 +542,7 @@ Ok đáp án nha.
 </answer>
 
 <teacher_script pause="0">
-Giải thích từng câu nha.
+Giải thích từng câu.
 </teacher_script>
 
 <teacher_script pause="0">
@@ -598,7 +598,7 @@ Chỉ Hello Fatty. Đoạn văn nói: "It's funny and educational."
 </explanation>
 
 <teacher_script pause="30">
-Sửa bài nếu sai. 30 giây nha.
+Sửa bài nếu sai. 30 giây.
 </teacher_script>
 
 ---
@@ -607,7 +607,7 @@ Sửa bài nếu sai. 30 giây nha.
 ### Bài 5 trang 11 - Tell your group
 
 <teacher_script pause="0">
-Bài 5 nha. Nói với nhóm em thích chương trình nào hơn và tại sao.
+Bài 5. Nói với nhóm em thích chương trình nào hơn và tại sao.
 </teacher_script>
 
 <task>
@@ -640,7 +640,7 @@ Prefer nghĩa là thích hơn - dùng khi so sánh 2 thứ.
 
 <!-- chunk: exercise_5_samples -->
 <teacher_script pause="0">
-Đây là các mẫu câu tham khảo nha.
+Đây là các mẫu câu tham khảo.
 </teacher_script>
 
 <dialogue>
@@ -669,14 +669,14 @@ Mẫu 4: I prefer Hello Fatty because I love the clever fox Fatty.
 </teacher_script>
 
 <teacher_script pause="60">
-Giờ viết câu của mình vô vở đi. 1 phút nha.
+Giờ viết câu của mình vô vở đi. 1 phút.
 </teacher_script>
 
 ---
 
 <!-- chunk: exercise_5_record -->
 <teacher_script pause="0" action="record">
-Bấm nút Ghi âm để nói câu của mình và gửi cho thầy sửa nha.
+Bấm nút Ghi âm để nói câu của mình và gửi cho thầy sửa.
 </teacher_script>
 
 <teacher_script pause="0">
@@ -684,14 +684,14 @@ Nói: I like/prefer [programme name] because [reason].
 </teacher_script>
 
 <teacher_script pause="0">
-Record xong bấm tiếp tục nha.
+Record xong bấm tiếp tục.
 </teacher_script>
 
 ---
 
 <!-- chunk: summary -->
 <teacher_script pause="0">
-Tóm tắt bài học Communication nha.
+Tóm tắt bài học Communication.
 </teacher_script>
 
 <grammar>
@@ -730,7 +730,7 @@ Tóm tắt bài học Communication nha.
 </grammar>
 
 <teacher_script pause="0">
-Tóm tắt nha.
+Tóm tắt.
 </teacher_script>
 
 <teacher_script pause="0">
@@ -750,7 +750,7 @@ Nói sở thích: I like/prefer... because...
 </teacher_script>
 
 <teacher_script pause="60">
-Ghi tóm tắt vô vở đi. 1 phút nha.
+Ghi tóm tắt vô vở đi. 1 phút.
 </teacher_script>
 
 ---
@@ -761,7 +761,7 @@ Ok hết Communication rồi.
 </teacher_script>
 
 <teacher_script pause="0">
-Về nhà luyện hỏi đáp với bạn bè hoặc gia đình nha.
+Về nhà luyện hỏi đáp với bạn bè hoặc gia đình.
 </teacher_script>
 
 <teacher_script pause="0">

@@ -15,7 +15,7 @@ Mở sách trang 13 tập 2 đi.
 
 <!-- chunk: vocabulary -->
 <teacher_script pause="0">
-Đây là từ vựng bài nghe. Click vô từ để nghe phát âm nha.
+Đây là từ vựng bài nghe. Click vô từ để nghe phát âm.
 </teacher_script>
 
 <vocabulary>
@@ -33,18 +33,18 @@ Mở sách trang 13 tập 2 đi.
 </vocabulary>
 
 <teacher_script pause="90">
-Ghi từ vựng vô vở đi. 1 phút rưỡi nha.
+Ghi từ vựng vô vở đi. 1 phút rưỡi.
 </teacher_script>
 
 ---
 
 <!-- chunk: record_vocabulary -->
 <teacher_script pause="0" action="record">
-Bấm nút Ghi âm để đọc lại và gửi cho thầy sửa nha.
+Bấm nút Ghi âm để đọc lại và gửi cho thầy sửa.
 </teacher_script>
 
 <teacher_script pause="0">
-Xong rồi thì bấm tiếp tục nha.
+Xong rồi thì bấm tiếp tục.
 </teacher_script>
 
 ---
@@ -53,14 +53,14 @@ Xong rồi thì bấm tiếp tục nha.
 
 <!-- chunk: listening_intro -->
 <teacher_script pause="0">
-Phần Listening nha. Có 2 bài tập.
+Phần Listening. Có 2 bài tập.
 </teacher_script>
 
 ---
 
 <!-- chunk: tapescript -->
 <teacher_script pause="0">
-Đây là nội dung bài nghe nha. Đọc trước để hiểu.
+Đây là nội dung bài nghe. Đọc trước để hiểu.
 </teacher_script>
 
 <reading>
@@ -80,7 +80,7 @@ Phần Listening nha. Có 2 bài tập.
 </reading>
 
 <teacher_script pause="60">
-Đọc hiểu bài nghe. 1 phút nha.
+Đọc hiểu bài nghe. 1 phút.
 </teacher_script>
 
 ---
@@ -89,7 +89,7 @@ Phần Listening nha. Có 2 bài tập.
 ### Bài 1 trang 13 - Listen and tick
 
 <teacher_script pause="0">
-Bài 1 nha. Nghe và đánh dấu kênh đúng cho mỗi chương trình.
+Bài 1. Nghe và đánh dấu kênh đúng cho mỗi chương trình.
 </teacher_script>
 
 <task>
@@ -116,14 +116,14 @@ Bài 1 nha. Nghe và đánh dấu kênh đúng cho mỗi chương trình.
 </audio>
 
 <teacher_script pause="60">
-Nghe audio rồi làm bài đi. 1 phút nha.
+Nghe audio rồi làm bài đi. 1 phút.
 </teacher_script>
 
 ---
 
 <!-- chunk: answer_1 -->
 <teacher_script pause="0">
-Ok đáp án nha.
+Ok đáp án.
 </teacher_script>
 
 <answer>
@@ -138,7 +138,7 @@ Ok đáp án nha.
 </answer>
 
 <teacher_script pause="0">
-Giải thích nha.
+Giải thích.
 </teacher_script>
 
 <teacher_script pause="0">
@@ -158,7 +158,7 @@ English and Fun - Tiếng Anh Vui, cũng chiếu trên kênh 1 giống Green Sum
 </teacher_script>
 
 <teacher_script pause="30">
-Sửa bài nếu sai. 30 giây nha.
+Sửa bài nếu sai. 30 giây.
 </teacher_script>
 
 ---
@@ -167,7 +167,7 @@ Sửa bài nếu sai. 30 giây nha.
 ### Bài 2 trang 13 - True or False
 
 <teacher_script pause="0">
-Bài 2 nha. Nghe lại và chọn True hoặc False.
+Bài 2. Nghe lại và chọn True hoặc False.
 </teacher_script>
 
 <task>
@@ -199,14 +199,14 @@ Bài 2 nha. Nghe lại và chọn True hoặc False.
 </audio>
 
 <teacher_script pause="45">
-Nghe lại rồi làm bài đi. 45 giây nha.
+Nghe lại rồi làm bài đi. 45 giây.
 </teacher_script>
 
 ---
 
 <!-- chunk: answer_2 -->
 <teacher_script pause="0">
-Ok đáp án nha.
+Ok đáp án.
 </teacher_script>
 
 <answer>
@@ -214,7 +214,7 @@ Ok đáp án nha.
 </answer>
 
 <teacher_script pause="0">
-Giải thích từng câu nha.
+Giải thích từng câu.
 </teacher_script>
 
 <teacher_script pause="0">
@@ -234,7 +234,7 @@ Câu 4 là FALSE - Sai. Bài nghe nói English and Fun chiếu lúc 9 giờ (nin
 </teacher_script>
 
 <teacher_script pause="30">
-Sửa bài nếu sai. 30 giây nha.
+Sửa bài nếu sai. 30 giây.
 </teacher_script>
 
 ---
@@ -243,7 +243,7 @@ Sửa bài nếu sai. 30 giây nha.
 
 <!-- chunk: writing_intro -->
 <teacher_script pause="0">
-Phần Writing nha. Viết về thói quen xem TV của mình.
+Phần Writing. Viết về thói quen xem TV của mình.
 </teacher_script>
 
 ---
@@ -252,7 +252,7 @@ Phần Writing nha. Viết về thói quen xem TV của mình.
 ### Bài 3 trang 13 - Answer the questions
 
 <teacher_script pause="0">
-Bài 3 nha. Trả lời các câu hỏi về thói quen xem TV của mình.
+Bài 3. Trả lời các câu hỏi về thói quen xem TV của mình.
 </teacher_script>
 
 <task>
@@ -299,14 +299,14 @@ Bài 3 nha. Trả lời các câu hỏi về thói quen xem TV của mình.
 </questions>
 
 <teacher_script pause="60">
-Đọc câu hỏi và chọn đáp án phù hợp với mình nha. 1 phút.
+Đọc câu hỏi và chọn đáp án phù hợp với mình. 1 phút.
 </teacher_script>
 
 ---
 
 <!-- chunk: sample_answers_3 -->
 <teacher_script pause="0">
-Đây là mẫu câu trả lời nha. Xem để tham khảo.
+Đây là mẫu câu trả lời. Xem để tham khảo.
 </teacher_script>
 
 <answer>
@@ -332,7 +332,7 @@ Mình chọn đáp án phù hợp với thói quen của mình nha, không nhấ
 ### Bài 4 trang 13 - Write a paragraph
 
 <teacher_script pause="0">
-Bài 4 nha. Viết một đoạn văn về thói quen xem TV dựa vào câu trả lời ở bài 3.
+Bài 4. Viết một đoạn văn về thói quen xem TV dựa vào câu trả lời ở bài 3.
 </teacher_script>
 
 <task>
@@ -364,25 +364,25 @@ Bài 4 nha. Viết một đoạn văn về thói quen xem TV dựa vào câu tr�
 </questions>
 
 <teacher_script pause="300">
-Viết đoạn văn đi. 5 phút nha.
+Viết đoạn văn đi. 5 phút.
 </teacher_script>
 
 ---
 
 <!-- chunk: photo_writing -->
 <teacher_script pause="0" action="photo">
-Viết xong thì chụp bài gửi cho thầy sửa nha.
+Viết xong thì chụp bài gửi cho thầy sửa.
 </teacher_script>
 
 <teacher_script pause="0">
-Chụp xong bấm tiếp tục nha.
+Chụp xong bấm tiếp tục.
 </teacher_script>
 
 ---
 
 <!-- chunk: sample_writing -->
 <teacher_script pause="0">
-Đây là bài mẫu nha. So sánh với bài của mình.
+Đây là bài mẫu. So sánh với bài của mình.
 </teacher_script>
 
 <reading>
@@ -398,14 +398,14 @@ Chụp xong bấm tiếp tục nha.
 </reading>
 
 <teacher_script pause="60">
-Đọc bài mẫu và so sánh với bài của mình nha. 1 phút.
+Đọc bài mẫu và so sánh với bài của mình. 1 phút.
 </teacher_script>
 
 ---
 
 <!-- chunk: end -->
 <teacher_script pause="0">
-Ok hết Skills 2 rồi. Về nhà ôn lại từ vựng và luyện viết thêm nha.
+Ok hết Skills 2 rồi. Về nhà ôn lại từ vựng và luyện viết thêm.
 </teacher_script>
 
 <teacher_script pause="0">

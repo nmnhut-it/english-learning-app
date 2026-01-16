@@ -26,11 +26,11 @@ Ok lớp 7, Unit 7 nha - Traffic. Mở sách trang 72 đi.
 </vocabulary>
 
 <teacher_script pause="120">
-Ghi từ vựng vô vở đi. Click từ để nghe phát âm. 2 phút nha.
+Ghi từ vựng vô vở đi. Click từ để nghe phát âm. 2 phút.
 </teacher_script>
 
 <teacher_script pause="0" action="record">
-Bấm nút Ghi âm để đọc lại và gửi cho thầy sửa nha.
+Bấm nút Ghi âm để đọc lại và gửi cho thầy sửa.
 </teacher_script>
 
 ---
@@ -86,15 +86,15 @@ Bài 1, nghe và đọc hội thoại. Lan với Mark nói chuyện về cách �
 </translation>
 
 <teacher_script pause="180">
-Nghe hội thoại rồi dịch ra tiếng Việt nha. 3 phút.
+Nghe hội thoại rồi dịch ra tiếng Việt. 3 phút.
 </teacher_script>
 
 <teacher_script pause="60">
-Ok sửa bài dịch nha. Đối chiếu với bản dịch trên màn hình.
+Ok sửa bài dịch. Đối chiếu với bản dịch trên màn hình.
 </teacher_script>
 
 <teacher_script pause="0" action="record">
-Bấm nút Ghi âm để đọc hội thoại và gửi cho thầy sửa nha.
+Bấm nút Ghi âm để đọc hội thoại và gửi cho thầy sửa.
 </teacher_script>
 
 ---
@@ -102,7 +102,7 @@ Bấm nút Ghi âm để đọc hội thoại và gửi cho thầy sửa nha.
 ### Bài 2 trang 73 - Choose the correct answer
 
 <teacher_script pause="60">
-Bài 2, chọn đáp án đúng A, B hoặc C. 1 phút nha.
+Bài 2, chọn đáp án đúng A, B hoặc C. 1 phút.
 </teacher_script>
 
 <task>
@@ -139,7 +139,7 @@ Bài 2, chọn đáp án đúng A, B hoặc C. 1 phút nha.
 </questions>
 
 <teacher_script pause="0" type="answer">
-Ok đáp án nha. Câu 1 là A - by bike, câu 2 là B - ten minutes, câu 3 là C - go cycling together.
+Ok đáp án. Câu 1 là A - by bike, câu 2 là B - ten minutes, câu 3 là C - go cycling together.
 </teacher_script>
 
 <answer>
@@ -158,7 +158,7 @@ Ok đáp án nha. Câu 1 là A - by bike, câu 2 là B - ten minutes, câu 3 là
 ### Bài 3 trang 73 - Fill in the blanks
 
 <teacher_script pause="60">
-Bài 3, điền từ vào chỗ trống. 1 phút nha.
+Bài 3, điền từ vào chỗ trống. 1 phút.
 </teacher_script>
 
 <task>
@@ -180,7 +180,7 @@ Bài 3, điền từ vào chỗ trống. 1 phút nha.
 </questions>
 
 <teacher_script pause="0" type="answer">
-Ok đáp án nha. 1 là cycled, 2 là should, 3 là jams, 4 là How, 5 là crowded.
+Ok đáp án. 1 là cycled, 2 là should, 3 là jams, 4 là How, 5 là crowded.
 </teacher_script>
 
 <answer>
@@ -201,7 +201,7 @@ Ok đáp án nha. 1 là cycled, 2 là should, 3 là jams, 4 là How, 5 là crowd
 ### Bài 4 trang 73 - Means of transport
 
 <teacher_script pause="0">
-Bài 4, ghi nhớ các phương tiện giao thông nha.
+Bài 4, ghi nhớ các phương tiện giao thông.
 </teacher_script>
 
 <task>
@@ -222,11 +222,11 @@ Bài 4, ghi nhớ các phương tiện giao thông nha.
 </vocabulary>
 
 <teacher_script pause="60">
-Ghi thêm các phương tiện vô vở nha. 1 phút.
+Ghi thêm các phương tiện vô vở. 1 phút.
 </teacher_script>
 
 ---
 
 <teacher_script pause="0">
-Ok hết Getting Started rồi. Về nhà học từ vựng, bài sau qua A Closer Look 1 nha.
+Ok hết Getting Started rồi. Về nhà học từ vựng, bài sau qua A Closer Look 1.
 </teacher_script>
