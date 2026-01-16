@@ -127,6 +127,13 @@
     .nav-btn.ready:hover{transform:scale(1.05)}
     @keyframes readyPulse{0%,100%{box-shadow:0 4px 16px rgba(14,165,233,.4)}50%{box-shadow:0 4px 24px rgba(14,165,233,.6)}}
 
+    /* Inline Continue Button - After each section */
+    .ts-continue{display:none;margin:12px 0;text-align:center}
+    .ts-continue.show{display:block}
+    .continue-btn{background:linear-gradient(135deg,#10b981,#059669);color:#fff;border:none;padding:12px 28px;border-radius:50px;font-size:.95rem;font-weight:600;cursor:pointer;box-shadow:0 4px 12px rgba(16,185,129,.3);transition:all .2s;animation:continuePulse 1.5s ease infinite}
+    .continue-btn:hover{transform:scale(1.05);box-shadow:0 4px 16px rgba(16,185,129,.4)}
+    @keyframes continuePulse{0%,100%{box-shadow:0 4px 12px rgba(16,185,129,.3)}50%{box-shadow:0 4px 20px rgba(16,185,129,.5)}}
+
     /* Complete Box */
     .complete-box{background:linear-gradient(135deg,#e0f2fe,#bae6fd);border-radius:20px;padding:32px;text-align:center;margin:20px 0;box-shadow:0 8px 32px rgba(14,165,233,.2)}
     .complete-icon{font-size:4rem;margin-bottom:12px}
@@ -371,7 +378,9 @@ function renderContent(md){
     if(action==='photo')actionHtml=`<div class="action-row"><button class="action-btn" onclick="captureHW('${id}')"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M9 2L7.17 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2h-3.17L15 2H9zm3 15c-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5-2.24 5-5 5z"/></svg><span>Chụp bài</span></button></div><div id="${id}-photo"></div>`;
     // Friendly label instead of showing script text
     const label=action==='record'?'Ghi âm gửi thầy nè...':action==='photo'?'Chụp bài gửi thầy nè...':'Nghe thầy nói nè...';
-    return`<div class="ts" id="${id}" data-text="${text.trim().replace(/"/g,'&quot;')}" data-pause="${pause}" data-href="${href}" onclick="playTS(this)"><span class="ts-icon">🎓</span><span class="ts-label">${label}</span><span class="ts-status">Bấm nghe</span></div><div class="timer" id="${id}-timer"><div class="timer-label">Thời gian làm bài</div><div class="timer-time">${formatTime(pause)}</div><button class="timer-skip" onclick="skipTimer('${id}')">Xong rồi →</button></div>${actionHtml}`;
+    // Add inline continue button after each TS
+    const continueBtn=`<div class="ts-continue" id="${id}-continue"><button class="continue-btn" onclick="clickContinue('${id}')">Tiếp tục →</button></div>`;
+    return`<div class="ts" id="${id}" data-text="${text.trim().replace(/"/g,'&quot;')}" data-pause="${pause}" data-href="${href}" onclick="playTS(this)"><span class="ts-icon">🎓</span><span class="ts-label">${label}</span><span class="ts-status">Bấm nghe</span></div><div class="timer" id="${id}-timer"><div class="timer-label">Thời gian làm bài</div><div class="timer-time">${formatTime(pause)}</div><button class="timer-skip" onclick="skipTimer('${id}')">Xong rồi →</button></div>${actionHtml}${continueBtn}`;
   });
 
   h=h.replace(/<task>([\s\S]*?)<\/task>/gi,(_,c)=>`<div class="card task-box">${renderMD(c)}</div>`);
@@ -429,7 +438,7 @@ function renderMD(md){
   return h;
 }
 
-// TTS - Sequential playback
+// TTS - Sequential playback with manual continue
 function playTS(el,auto=false){
   if(state.speaking&&!auto)return;
   if(state.speaking&&auto){state.tsQueue.push(el);return;}
@@ -438,12 +447,16 @@ function playTS(el,auto=false){
   const pause=parseInt(el.dataset.pause)||0;
   const href=el.dataset.href;
 
+  // Hide all continue buttons first
+  document.querySelectorAll('.ts-continue').forEach(c=>c.classList.remove('show'));
+
   document.querySelectorAll('.ts').forEach(e=>{e.classList.remove('speaking');const s=e.querySelector('.ts-status');if(s)s.textContent='Xong ✓'});
   el.classList.add('speaking');
   el.classList.add('played');
   const status=el.querySelector('.ts-status');
   if(status)status.textContent='Đang nói...';
   state.speaking=true;
+  state.currentTSId=el.id; // Track current TS
 
   // Scroll element into view
   el.scrollIntoView({behavior:'smooth',block:'center'});
@@ -454,9 +467,11 @@ function playTS(el,auto=false){
     if(status)status.textContent='Xong ✓';
 
     if(pause>0){
-      startTimer(el.id,pause,()=>playNextTS());
+      // Start timer, then show continue button
+      startTimer(el.id,pause,()=>showContinueButton(el.id));
     }else{
-      setTimeout(()=>playNextTS(),400);
+      // No timer - show continue button immediately
+      setTimeout(()=>showContinueButton(el.id),400);
     }
   };
 
@@ -471,28 +486,80 @@ function playTS(el,auto=false){
 }
 window.playTS=playTS;
 
-function playNextTS(){
+// Show continue button after TS completes
+function showContinueButton(tsId){
   const chunk=document.getElementById(`chunk-${state.currentChunk}`);
   if(!chunk)return;
 
-  // Check if there's an unstarted vocab section - wait for it
-  const vocabSection=chunk.querySelector('.vocab-interactive:not(.vocab-completed):not(.vocab-in-progress)');
-  if(vocabSection){
-    // There's a vocab section that hasn't started yet - don't auto-play next TS
-    // The vocab will handle its own flow and call unlockNextChunk when done
-    return;
+  // Check if there's a vocab section right after this TS that needs interaction
+  const tsEl=document.getElementById(tsId);
+  if(tsEl){
+    // Find next sibling that might be vocab
+    let next=tsEl.nextElementSibling;
+    // Skip timer and action buttons
+    while(next&&(next.classList.contains('timer')||next.classList.contains('action-row')||next.id?.includes('-player')||next.id?.includes('-photo')||next.classList.contains('ts-continue'))){
+      next=next.nextElementSibling;
+    }
+    // If next element is an unstarted vocab section, don't show continue - let vocab handle it
+    if(next&&next.classList.contains('vocab-interactive')&&!next.classList.contains('vocab-completed')){
+      // Show the vocab section and let student start it
+      next.scrollIntoView({behavior:'smooth',block:'center'});
+      return;
+    }
   }
 
-  // Check if vocab is in progress - wait for it
-  const vocabInProgress=chunk.querySelector('.vocab-interactive.vocab-in-progress');
-  if(vocabInProgress){
-    return; // Wait for vocab to complete
+  // Check if this is the last TS in the chunk
+  const allTS=Array.from(chunk.querySelectorAll('.ts'));
+  const nextTS=allTS.find(ts=>!ts.classList.contains('played'));
+
+  if(nextTS){
+    // More TS to play - show the continue button for this TS
+    const continueEl=document.getElementById(`${tsId}-continue`);
+    if(continueEl){
+      continueEl.classList.add('show');
+      continueEl.scrollIntoView({behavior:'smooth',block:'center'});
+    }
+  }else{
+    // No more TS - unlock chunk navigation
+    unlockNextChunk();
   }
+}
+
+// Click continue to play next TS
+function clickContinue(tsId){
+  const continueEl=document.getElementById(`${tsId}-continue`);
+  if(continueEl)continueEl.classList.remove('show');
+
+  const chunk=document.getElementById(`chunk-${state.currentChunk}`);
+  if(!chunk)return;
 
   const allTS=Array.from(chunk.querySelectorAll('.ts'));
   const nextTS=allTS.find(ts=>!ts.classList.contains('played'));
   if(nextTS){
-    setTimeout(()=>playTS(nextTS,true),200);
+    playTS(nextTS,true);
+  }else{
+    unlockNextChunk();
+  }
+}
+window.clickContinue=clickContinue;
+
+// Called after vocab finishes to resume the continue-button flow
+function playNextTS(){
+  const chunk=document.getElementById(`chunk-${state.currentChunk}`);
+  if(!chunk)return;
+
+  const allTS=Array.from(chunk.querySelectorAll('.ts'));
+  const nextTS=allTS.find(ts=>!ts.classList.contains('played'));
+  if(nextTS){
+    // Find the previous TS that was played and show its continue button
+    const playedTS=Array.from(chunk.querySelectorAll('.ts.played'));
+    if(playedTS.length>0){
+      const lastPlayed=playedTS[playedTS.length-1];
+      showContinueButton(lastPlayed.id);
+    }else{
+      // No TS played yet, play the first one
+      setTimeout(()=>playTS(nextTS,true),200);
+    }
   }else{
     unlockNextChunk();
   }
