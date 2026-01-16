@@ -314,30 +314,28 @@ function renderMD(md){
   h=h.replace(/\*\*(.+?)\*\*/g,'<strong>$1</strong>');
   h=h.replace(/\*([^*]+)\*/g,'<em>$1</em>');
 
-  // Tables - improved parsing (handle with/without trailing newline)
+  // Tables - collect all matches first, then replace from end to preserve indices
   const tableRegex=/^(\|[^\n]+\|[ \t]*\n?)+/gm;
+  const matches=[];
   let match;
-  const processed=new Set();
   while((match=tableRegex.exec(h))!==null){
-    const tableStr=match[0];
-    if(processed.has(tableStr))continue;
-    processed.add(tableStr);
-
+    matches.push({str:match[0],idx:match.index});
+  }
+  // Replace from end to start so indices stay valid
+  for(let i=matches.length-1;i>=0;i--){
+    const{str:tableStr,idx}=matches[i];
     const lines=tableStr.trim().split('\n').map(l=>l.trim()).filter(l=>l);
-    // Filter out separator rows (only contains |, -, :, spaces)
     const dataRows=lines.filter(line=>!/^\|[\s\-:|]+\|$/.test(line));
-
     if(dataRows.length>0){
       let tbl='<div class="table-wrap"><table>';
-      dataRows.forEach((row,i)=>{
-        // Split by | and handle edge cases
+      dataRows.forEach((row,ri)=>{
         const parts=row.split('|');
-        const cells=parts.slice(1,parts.length-1); // Remove first empty and last empty
-        const tag=i===0?'th':'td';
+        const cells=parts.slice(1,parts.length-1);
+        const tag=ri===0?'th':'td';
         tbl+='<tr>'+cells.map(c=>`<${tag}>${c.trim()}</${tag}>`).join('')+'</tr>';
       });
       tbl+='</table></div>';
-      h=h.replace(tableStr,tbl);
+      h=h.substring(0,idx)+tbl+h.substring(idx+tableStr.length);
     }
   }
 
