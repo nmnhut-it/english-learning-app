@@ -928,8 +928,7 @@ async function playFlashcardWord(id){
   card.classList.add('flip');
   await delay(500);
 
-  // Announce Vietnamese reading
-  await speakAsync('Nghĩa tiếng Việt, đọc theo nha','vi-VN');
+  // Short pause before Vietnamese
   await delay(300);
 
   // Read Vietnamese 3 times with beep signal
