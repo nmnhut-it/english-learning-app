@@ -115,10 +115,10 @@
     .spinner{width:22px;height:22px;border:3px solid rgba(255,255,255,.3);border-top-color:#fff;border-radius:50%;animation:spin .8s linear infinite}
     @keyframes spin{to{transform:rotate(360deg)}}
 
-    /* Current chunk highlight */
-    .chunk{opacity:.4;pointer-events:none;transition:all .3s}
-    .chunk.current{opacity:1;pointer-events:auto;background:rgba(224,242,254,.6);border-radius:16px;margin:0 -12px;padding:20px 12px;box-shadow:0 4px 20px rgba(14,165,233,.15)}
-    .chunk.completed{opacity:.7;pointer-events:auto}
+    /* Current chunk highlight - softer with scroll allowed */
+    .chunk{opacity:.5;transition:all .3s}
+    .chunk.current{opacity:1;background:rgba(224,242,254,.4);border-radius:16px;margin:0 -12px;padding:20px 12px;box-shadow:0 4px 20px rgba(14,165,233,.1)}
+    .chunk.completed{opacity:.85}
 
     /* Chunk Navigation */
     .chunk-nav{margin-top:16px;text-align:center}
@@ -224,6 +224,51 @@
     /* Scrollbar hide for locked mode */
     body::-webkit-scrollbar{display:none}
     body{-ms-overflow-style:none;scrollbar-width:none}
+
+    /* ========== NPC + SPEECH BUBBLE SYSTEM ========== */
+
+    /* Overlay - dims the screen */
+    #npc-overlay{position:fixed;inset:0;background:rgba(0,0,0,0);pointer-events:none;z-index:200;transition:background .4s ease}
+    #npc-overlay.active{background:rgba(0,0,0,.7);pointer-events:auto}
+
+    /* NPC Container */
+    #npc-container{position:fixed;bottom:20px;left:20px;z-index:300;display:flex;flex-direction:column;align-items:flex-start;gap:12px;opacity:0;transform:translateY(30px);transition:all .4s ease;pointer-events:none}
+    #npc-container.show{opacity:1;transform:translateY(0);pointer-events:auto}
+
+    /* NPC Avatar */
+    .npc-avatar{width:80px;height:80px;border-radius:50%;background:linear-gradient(135deg,#0ea5e9,#0284c7);display:flex;align-items:center;justify-content:center;box-shadow:0 8px 32px rgba(14,165,233,.4),0 0 0 4px rgba(255,255,255,.9);position:relative;animation:none}
+    .npc-avatar.speaking{animation:npcBounce 0.5s ease infinite}
+    .npc-avatar-img{font-size:2.8rem;filter:drop-shadow(0 2px 4px rgba(0,0,0,.2))}
+    .npc-status{position:absolute;bottom:-4px;right:-4px;width:20px;height:20px;border-radius:50%;background:#10b981;border:3px solid #fff;box-shadow:0 2px 8px rgba(0,0,0,.2)}
+    .npc-avatar.speaking .npc-status{background:#f59e0b;animation:statusPulse 1s ease infinite}
+    @keyframes npcBounce{0%,100%{transform:translateY(0) scale(1)}50%{transform:translateY(-5px) scale(1.05)}}
+    @keyframes statusPulse{0%,100%{opacity:1}50%{opacity:.5}}
+
+    /* Speech Bubble */
+    .speech-bubble{position:relative;background:#fff;border-radius:20px;padding:16px 20px;max-width:min(320px,calc(100vw - 140px));box-shadow:0 8px 32px rgba(0,0,0,.2);opacity:0;transform:translateY(10px) scale(0.95);transition:all .3s ease}
+    .speech-bubble.show{opacity:1;transform:translateY(0) scale(1)}
+    .speech-bubble::before{content:'';position:absolute;bottom:-10px;left:30px;width:0;height:0;border-left:12px solid transparent;border-right:12px solid transparent;border-top:12px solid #fff}
+    .speech-bubble-text{font-size:1rem;line-height:1.5;color:#0f172a}
+    .speech-bubble-typing{display:inline-flex;gap:4px;padding:4px 0}
+    .speech-bubble-typing span{width:8px;height:8px;border-radius:50%;background:#0ea5e9;animation:typingDot 1.2s ease infinite}
+    .speech-bubble-typing span:nth-child(2){animation-delay:.2s}
+    .speech-bubble-typing span:nth-child(3){animation-delay:.4s}
+    @keyframes typingDot{0%,100%{opacity:.4;transform:scale(.8)}50%{opacity:1;transform:scale(1)}}
+
+    /* Continue Button in Speech Bubble */
+    .speech-continue{margin-top:12px;text-align:right}
+    .speech-continue-btn{background:linear-gradient(135deg,#10b981,#059669);color:#fff;border:none;padding:10px 20px;border-radius:25px;font-size:.9rem;font-weight:600;cursor:pointer;transition:all .2s;box-shadow:0 4px 12px rgba(16,185,129,.3)}
+    .speech-continue-btn:hover{transform:scale(1.05)}
+
+    /* Spotlight on active content */
+    .chunk.spotlight{position:relative;z-index:250;background:#fff;border-radius:20px;margin:0 -16px;padding:24px 16px;box-shadow:0 0 0 4px rgba(14,165,233,.5),0 20px 60px rgba(0,0,0,.3)}
+    .chunk.spotlight *{pointer-events:auto}
+
+    /* Hide old TS display when NPC is active */
+    .ts.npc-mode{display:none}
+
+    /* Adjust spacing for NPC mode */
+    #content.npc-active{padding-bottom:180px}
   </style>
 </head>
 <body>
@@ -249,9 +294,34 @@
   <div class="sending" id="sending"><div class="spinner"></div> Đang gửi...</div>
   <canvas id="canvas" style="display:none"></canvas>
 
+  <!-- NPC System -->
+  <div id="npc-overlay" onclick="handleOverlayClick()"></div>
+  <div id="npc-container">
+    <div class="speech-bubble" id="speech-bubble">
+      <div class="speech-bubble-text" id="speech-text">
+        <div class="speech-bubble-typing"><span></span><span></span><span></span></div>
+      </div>
+      <div class="speech-continue" id="speech-continue" style="display:none">
+        <button class="speech-continue-btn" onclick="npcContinue()">Tiếp tục →</button>
+      </div>
+    </div>
+    <div class="npc-avatar" id="npc-avatar">
+      <span class="npc-avatar-img">👨‍🏫</span>
+      <div class="npc-status"></div>
+    </div>
+  </div>
+
 <script>
 const CONFIG={contentUrl:null,tgToken:null,tgChat:null,audioBase:null,skip:false};
 const state={chunks:[],name:'',photo:null,speaking:false,timer:null,currentChunk:0,tsQueue:[],locked:true};
+
+// NPC System State
+const npcState={
+  visible:false,
+  currentTSId:null,
+  pendingContent:null, // Content element to highlight after NPC speaks
+  awaitingContinue:false
+};
 
 // Vocabulary Interactive State
 const vocabState={
@@ -444,7 +514,133 @@ function renderMD(md){
   return h;
 }
 
-// TTS - Sequential playback with manual continue
+// ========== NPC CONTROL FUNCTIONS ==========
+
+function showNPC(text,showContinue=false){
+  const overlay=document.getElementById('npc-overlay');
+  const container=document.getElementById('npc-container');
+  const bubble=document.getElementById('speech-bubble');
+  const textEl=document.getElementById('speech-text');
+  const continueEl=document.getElementById('speech-continue');
+  const avatar=document.getElementById('npc-avatar');
+  const content=document.getElementById('content');
+
+  // Show overlay and NPC
+  overlay.classList.add('active');
+  container.classList.add('show');
+  bubble.classList.add('show');
+  avatar.classList.add('speaking');
+  content.classList.add('npc-active');
+
+  // Show typing animation first
+  textEl.innerHTML='<div class="speech-bubble-typing"><span></span><span></span><span></span></div>';
+  continueEl.style.display='none';
+
+  npcState.visible=true;
+  npcState.awaitingContinue=false;
+
+  // After a short delay, show the actual text
+  setTimeout(()=>{
+    textEl.textContent=text;
+    if(showContinue){
+      continueEl.style.display='block';
+      npcState.awaitingContinue=true;
+    }
+  },400);
+}
+
+function hideNPC(){
+  const overlay=document.getElementById('npc-overlay');
+  const container=document.getElementById('npc-container');
+  const bubble=document.getElementById('speech-bubble');
+  const avatar=document.getElementById('npc-avatar');
+  const content=document.getElementById('content');
+
+  overlay.classList.remove('active');
+  container.classList.remove('show');
+  bubble.classList.remove('show');
+  avatar.classList.remove('speaking');
+  content.classList.remove('npc-active');
+
+  // Remove spotlight from all chunks
+  document.querySelectorAll('.chunk.spotlight').forEach(c=>c.classList.remove('spotlight'));
+
+  npcState.visible=false;
+  npcState.awaitingContinue=false;
+}
+
+function npcStopSpeaking(){
+  const avatar=document.getElementById('npc-avatar');
+  avatar.classList.remove('speaking');
+}
+
+function npcShowContinue(text){
+  const textEl=document.getElementById('speech-text');
+  const continueEl=document.getElementById('speech-continue');
+
+  textEl.textContent=text||textEl.textContent;
+  continueEl.style.display='block';
+  npcState.awaitingContinue=true;
+  npcStopSpeaking();
+}
+
+function npcContinue(){
+  if(!npcState.awaitingContinue)return;
+
+  const tsId=npcState.currentTSId;
+  hideNPC();
+
+  // Process what comes next
+  if(npcState.pendingContent){
+    // There's content to show - add spotlight
+    const contentEl=npcState.pendingContent;
+    const chunk=contentEl.closest('.chunk');
+    if(chunk)chunk.classList.add('spotlight');
+    scrollToIfNeeded(contentEl,'start');
+    npcState.pendingContent=null;
+
+    // Show "Xem xong" button after content
+    setTimeout(()=>{
+      showContentDoneButtonNPC(contentEl,tsId);
+    },300);
+  }else{
+    // No content - play next TS
+    playNextTSAfter(tsId);
+  }
+}
+window.npcContinue=npcContinue;
+
+function handleOverlayClick(){
+  // Allow clicking overlay to continue if awaiting
+  if(npcState.awaitingContinue){
+    npcContinue();
+  }
+}
+window.handleOverlayClick=handleOverlayClick;
+
+function showContentDoneButtonNPC(contentEl,tsId){
+  // Remove any existing content-done button
+  document.querySelectorAll('.content-done').forEach(el=>el.remove());
+
+  // Create and insert button after content
+  const doneDiv=document.createElement('div');
+  doneDiv.className='content-done show';
+  doneDiv.innerHTML=`<button class="done-btn" onclick="clickContentDoneNPC('${tsId}')">Xem xong ✓</button>`;
+  contentEl.after(doneDiv);
+
+  setTimeout(()=>{
+    scrollToIfNeeded(doneDiv,'center');
+  },300);
+}
+
+function clickContentDoneNPC(tsId){
+  document.querySelectorAll('.content-done').forEach(el=>el.remove());
+  document.querySelectorAll('.chunk.spotlight').forEach(c=>c.classList.remove('spotlight'));
+  playNextTSAfter(tsId);
+}
+window.clickContentDoneNPC=clickContentDoneNPC;
+
+// TTS - Sequential playback with NPC system
 function playTS(el,auto=false){
   if(state.speaking&&!auto)return;
   if(state.speaking&&auto){state.tsQueue.push(el);return;}
@@ -453,31 +649,46 @@ function playTS(el,auto=false){
   const pause=parseInt(el.dataset.pause)||0;
   const href=el.dataset.href;
 
-  // Hide all continue buttons first
-  document.querySelectorAll('.ts-continue').forEach(c=>c.classList.remove('show'));
+  // Mark TS as played (hide it since NPC takes over)
+  el.classList.add('played','npc-mode');
 
-  document.querySelectorAll('.ts').forEach(e=>{e.classList.remove('speaking');const s=e.querySelector('.ts-status');if(s)s.textContent='Xong ✓'});
-  el.classList.add('speaking');
-  el.classList.add('played');
-  const status=el.querySelector('.ts-status');
-  if(status)status.textContent='Đang nói...';
   state.speaking=true;
-  state.currentTSId=el.id; // Track current TS
+  state.currentTSId=el.id;
+  npcState.currentTSId=el.id;
 
-  // Scroll element into view if needed
-  scrollToIfNeeded(el,'center');
+  // Find next content element
+  let nextContent=findNextElement(el);
+  let nextType=getNextType(nextContent);
+
+  // Skip completed vocab
+  while(nextType==='vocab'&&nextContent.classList.contains('vocab-completed')){
+    nextContent=nextContent.nextElementSibling;
+    nextType=getNextType(nextContent);
+  }
+
+  // Store pending content for after NPC speaks
+  if(nextType==='content'||nextType==='vocab'){
+    npcState.pendingContent=nextContent;
+  }else{
+    npcState.pendingContent=null;
+  }
+
+  // Show NPC with text
+  showNPC(text,false);
 
   const onEnd=()=>{
     state.speaking=false;
-    el.classList.remove('speaking');
-    if(status)status.textContent='Xong ✓';
+    npcStopSpeaking();
 
     if(pause>0){
-      // Start timer, then show continue button
-      startTimer(el.id,pause,()=>showContinueButton(el.id));
+      // Start timer, then show continue
+      hideNPC();
+      startTimerNPC(el.id,pause,()=>{
+        processAfterTimer(el.id);
+      });
     }else{
-      // No timer - show continue button immediately
-      setTimeout(()=>showContinueButton(el.id),400);
+      // No timer - check what's next
+      processAfterNPC(el.id,nextType,nextContent);
     }
   };
 
@@ -491,6 +702,95 @@ function playTS(el,auto=false){
   }
 }
 window.playTS=playTS;
+
+function processAfterNPC(tsId,nextType,nextContent){
+  switch(nextType){
+    case 'ts':
+      // Consecutive TSes - auto-play next
+      hideNPC();
+      setTimeout(()=>playTS(nextContent,true),300);
+      break;
+
+    case 'vocab':
+      // Vocab section - show continue, then scroll to vocab
+      npcShowContinue('Bấm tiếp tục để học từ vựng nha!');
+      npcState.pendingContent=nextContent;
+      break;
+
+    case 'content':
+      // Content to view - show continue
+      npcShowContinue('Bấm tiếp tục để xem nội dung nha!');
+      npcState.pendingContent=nextContent;
+      break;
+
+    case 'chunkNav':
+    case 'none':
+      // End of chunk
+      hideNPC();
+      unlockNextChunk();
+      break;
+  }
+}
+
+function processAfterTimer(tsId){
+  const tsEl=document.getElementById(tsId);
+  if(!tsEl)return;
+
+  let next=findNextElement(tsEl);
+  let nextType=getNextType(next);
+
+  while(nextType==='vocab'&&next.classList.contains('vocab-completed')){
+    next=next.nextElementSibling;
+    nextType=getNextType(next);
+  }
+
+  switch(nextType){
+    case 'ts':
+      setTimeout(()=>playTS(next,true),300);
+      break;
+
+    case 'vocab':
+      scrollToIfNeeded(next,'start');
+      break;
+
+    case 'content':
+      scrollToIfNeeded(next,'start');
+      showContentDoneButtonNPC(next,tsId);
+      break;
+
+    case 'chunkNav':
+    case 'none':
+      unlockNextChunk();
+      break;
+  }
+}
+
+function startTimerNPC(id,sec,onComplete){
+  clearInterval(state.timer);
+  state.timerCallback=onComplete;
+  const box=document.getElementById(`${id}-timer`);
+  if(!box)return onComplete();
+
+  const time=box.querySelector('.timer-time');
+  box.classList.add('active');
+  scrollToIfNeeded(box,'center');
+
+  let rem=sec;
+  time.textContent=formatTime(rem);
+  time.className='timer-time';
+
+  state.timer=setInterval(()=>{
+    rem--;
+    time.textContent=formatTime(rem);
+    if(rem<=10)time.classList.add('warning');
+    if(rem<=5)time.classList.add('danger');
+    if(rem<=0){
+      clearInterval(state.timer);
+      box.classList.remove('active');
+      if(state.timerCallback)state.timerCallback();
+    }
+  },1000);
+}
 
 // ========== TS STATE MANAGEMENT ==========
 // Combinatorial analysis of all cases:
@@ -731,8 +1031,8 @@ function formatTime(s){const m=Math.floor(s/60);return m>0?`${m}:${(s%60).toStri
 
 // Chunk Navigation
 function setupNavigation(){
-  // Lock scrolling initially
-  document.body.style.overflow='hidden';
+  // Allow scrolling but guide user through chunks
+  document.body.style.overflow='auto';
 
   // Add navigation buttons to each chunk
   document.querySelectorAll('.chunk').forEach((chunk,i)=>{
