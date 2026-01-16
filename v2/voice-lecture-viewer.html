@@ -464,8 +464,8 @@ function playTS(el,auto=false){
   state.speaking=true;
   state.currentTSId=el.id; // Track current TS
 
-  // Scroll element into view
-  el.scrollIntoView({behavior:'smooth',block:'center'});
+  // Scroll element into view if needed
+  scrollToIfNeeded(el,'center');
 
   const onEnd=()=>{
     state.speaking=false;
@@ -515,7 +515,7 @@ function showContinueButton(tsId){
 
     // If it's an unstarted vocab section, scroll to it and let student start it
     if(next.classList.contains('vocab-interactive')&&!next.classList.contains('vocab-completed')){
-      next.scrollIntoView({behavior:'smooth',block:'start'});
+      scrollToIfNeeded(next,'start');
       return; // Vocab has its own flow
     }
   }
@@ -524,17 +524,17 @@ function showContinueButton(tsId){
   const allTS=Array.from(chunk.querySelectorAll('.ts'));
   const nextTS=allTS.find(ts=>!ts.classList.contains('played'));
 
-  // Show the continue button
-  const continueEl=document.getElementById(`${tsId}-continue`);
-  if(continueEl){
-    continueEl.classList.add('show');
+  // If NO content between this TS and next TS, auto-play next TS (consecutive TSes)
+  if(!contentToShow&&nextTS){
+    setTimeout(()=>playTS(nextTS,true),300);
+    return;
   }
 
-  // Scroll to content first (so student can read), then they'll see the button above
-  if(contentToShow){
-    contentToShow.scrollIntoView({behavior:'smooth',block:'start'});
-  }else if(continueEl){
-    continueEl.scrollIntoView({behavior:'smooth',block:'center'});
+  // If there's content, show the continue button
+  const continueEl=document.getElementById(`${tsId}-continue`);
+  if(continueEl&&contentToShow){
+    continueEl.classList.add('show');
+    scrollToIfNeeded(contentToShow,'start');
   }
 
   if(!nextTS){
@@ -561,12 +561,12 @@ function clickContinue(tsId){
   if(next&&!next.classList.contains('ts')&&!next.classList.contains('chunk-nav')){
     // Vocab has its own flow
     if(next.classList.contains('vocab-interactive')&&!next.classList.contains('vocab-completed')){
-      next.scrollIntoView({behavior:'smooth',block:'start'});
+      scrollToIfNeeded(next,'start');
       return;
     }
 
     // Show content and add "Xem xong" button after it
-    next.scrollIntoView({behavior:'smooth',block:'start'});
+    scrollToIfNeeded(next,'start');
     showContentDoneButton(next,tsId);
     return;
   }
@@ -589,7 +589,7 @@ function showContentDoneButton(contentEl,tsId){
 
   // Scroll to show content with button visible
   setTimeout(()=>{
-    doneDiv.scrollIntoView({behavior:'smooth',block:'center'});
+    scrollToIfNeeded(doneDiv,'center');
   },300);
 }
 
@@ -662,7 +662,7 @@ function startTimer(id,sec,onComplete){
   const box=document.getElementById(`${id}-timer`);
   const time=box.querySelector('.timer-time');
   box.classList.add('active');
-  box.scrollIntoView({behavior:'smooth',block:'center'});
+  scrollToIfNeeded(box,'center');
   let rem=sec;
   time.textContent=formatTime(rem);
   time.className='timer-time';
@@ -716,7 +716,7 @@ function activateChunk(idx){
 
   const chunk=document.getElementById(`chunk-${idx}`);
   if(chunk){
-    chunk.scrollIntoView({behavior:'smooth',block:'start'});
+    scrollToIfNeeded(chunk,'start');
     setTimeout(()=>{
       const firstTS=chunk.querySelector('.ts:not(.played)');
       if(firstTS){
@@ -1156,7 +1156,7 @@ function startWritingPhase(id){
 
   // Scroll to writing phase so student can see list and button
   setTimeout(()=>{
-    writingPhase.scrollIntoView({behavior:'smooth',block:'start'});
+    scrollToIfNeeded(writingPhase,'start');
   },100);
 
   // Calculate time: 30 seconds per word
@@ -1183,7 +1183,7 @@ function startWritingPhase(id){
   // After showing the list, scroll to timer so button is visible
   setTimeout(()=>{
     const timerEl=document.getElementById(`${id}-writing-timer`);
-    if(timerEl)timerEl.scrollIntoView({behavior:'smooth',block:'center'});
+    if(timerEl)scrollToIfNeeded(timerEl,'center');
   },2000);
 }
 
@@ -1308,6 +1308,17 @@ async function finishVocab(id){
 window.finishVocab=finishVocab;
 
 // Helper functions
+
+// Smart scroll - only scroll if element not fully visible
+function scrollToIfNeeded(el,block='center'){
+  if(!el)return;
+  const rect=el.getBoundingClientRect();
+  const inView=rect.top>=0&&rect.bottom<=window.innerHeight;
+  if(!inView){
+    el.scrollIntoView({behavior:'smooth',block});
+  }
+}
+
 function shuffle(arr){
   for(let i=arr.length-1;i>0;i--){
     const j=Math.floor(Math.random()*(i+1));
