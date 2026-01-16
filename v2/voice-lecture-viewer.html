@@ -134,6 +134,12 @@
     .continue-btn:hover{transform:scale(1.05);box-shadow:0 4px 16px rgba(16,185,129,.4)}
     @keyframes continuePulse{0%,100%{box-shadow:0 4px 12px rgba(16,185,129,.3)}50%{box-shadow:0 4px 20px rgba(16,185,129,.5)}}
 
+    /* Content Done Button - After content blocks */
+    .content-done{display:none;margin:16px 0;text-align:center}
+    .content-done.show{display:block}
+    .done-btn{background:linear-gradient(135deg,#0ea5e9,#0284c7);color:#fff;border:none;padding:12px 28px;border-radius:50px;font-size:.95rem;font-weight:600;cursor:pointer;box-shadow:0 4px 12px rgba(14,165,233,.3);transition:all .2s;animation:continuePulse 1.5s ease infinite}
+    .done-btn:hover{transform:scale(1.05);box-shadow:0 4px 16px rgba(14,165,233,.4)}
+
     /* Complete Box */
     .complete-box{background:linear-gradient(135deg,#e0f2fe,#bae6fd);border-radius:20px;padding:32px;text-align:center;margin:20px 0;box-shadow:0 8px 32px rgba(14,165,233,.2)}
     .complete-icon{font-size:4rem;margin-bottom:12px}
@@ -537,11 +543,67 @@ function showContinueButton(tsId){
   }
 }
 
-// Click continue to play next TS
+// Click "Nghe rồi" - check if there's content to view first
 function clickContinue(tsId){
   const continueEl=document.getElementById(`${tsId}-continue`);
   if(continueEl)continueEl.classList.remove('show');
 
+  const tsEl=document.getElementById(tsId);
+  if(!tsEl)return;
+
+  // Find content after this TS
+  let next=tsEl.nextElementSibling;
+  while(next&&(next.classList.contains('timer')||next.classList.contains('action-row')||next.id?.includes('-player')||next.id?.includes('-photo')||next.classList.contains('ts-continue'))){
+    next=next.nextElementSibling;
+  }
+
+  // If there's content (not another TS), show it and add "Xem xong" button
+  if(next&&!next.classList.contains('ts')&&!next.classList.contains('chunk-nav')){
+    // Vocab has its own flow
+    if(next.classList.contains('vocab-interactive')&&!next.classList.contains('vocab-completed')){
+      next.scrollIntoView({behavior:'smooth',block:'start'});
+      return;
+    }
+
+    // Show content and add "Xem xong" button after it
+    next.scrollIntoView({behavior:'smooth',block:'start'});
+    showContentDoneButton(next,tsId);
+    return;
+  }
+
+  // No content - play next TS directly
+  playNextTSAfter(tsId);
+}
+window.clickContinue=clickContinue;
+
+// Show "Xem xong" button after content block
+function showContentDoneButton(contentEl,tsId){
+  // Remove any existing content-done button
+  document.querySelectorAll('.content-done').forEach(el=>el.remove());
+
+  // Create and insert button after content
+  const doneDiv=document.createElement('div');
+  doneDiv.className='content-done show';
+  doneDiv.innerHTML=`<button class="done-btn" onclick="clickContentDone('${tsId}')">Xem xong ✓</button>`;
+  contentEl.after(doneDiv);
+
+  // Scroll to show content with button visible
+  setTimeout(()=>{
+    doneDiv.scrollIntoView({behavior:'smooth',block:'center'});
+  },300);
+}
+
+// Click "Xem xong" - now play next TS
+function clickContentDone(tsId){
+  // Remove the button
+  document.querySelectorAll('.content-done').forEach(el=>el.remove());
+  // Play next TS
+  playNextTSAfter(tsId);
+}
+window.clickContentDone=clickContentDone;
+
+// Play the next TS after a given TS
+function playNextTSAfter(tsId){
   const chunk=document.getElementById(`chunk-${state.currentChunk}`);
   if(!chunk)return;
 
@@ -553,7 +615,6 @@ function clickContinue(tsId){
     unlockNextChunk();
   }
 }
-window.clickContinue=clickContinue;
 
 // Called after vocab finishes to resume the continue-button flow
 function playNextTS(){
