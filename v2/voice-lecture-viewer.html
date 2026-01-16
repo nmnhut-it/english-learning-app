@@ -149,7 +149,7 @@
     /* ========== VOCABULARY INTERACTIVE SYSTEM ========== */
 
     /* Vocab Container */
-    .vocab-interactive{background:linear-gradient(135deg,#f0f9ff,#e0f2fe);border-radius:16px;padding:16px;margin:12px 0;border:2px solid #bae6fd}
+    .vocab-interactive{background:linear-gradient(135deg,#f0f9ff,#e0f2fe);border-radius:16px;padding:16px;margin:12px 0;border:2px solid #bae6fd;max-height:80vh;overflow-y:auto}
     .vocab-phase{display:none}
     .vocab-phase.active{display:block}
     .vocab-progress{display:flex;gap:6px;margin-bottom:16px;flex-wrap:wrap}
@@ -1151,7 +1151,13 @@ function startWritingPhase(id){
   inst.phase='writing';
 
   document.getElementById(`${id}-phase-quiz`).classList.remove('active');
-  document.getElementById(`${id}-phase-writing`).classList.add('active');
+  const writingPhase=document.getElementById(`${id}-phase-writing`);
+  writingPhase.classList.add('active');
+
+  // Scroll to writing phase so student can see list and button
+  setTimeout(()=>{
+    writingPhase.scrollIntoView({behavior:'smooth',block:'start'});
+  },100);
 
   // Calculate time: 30 seconds per word
   const secondsPerWord=30;
@@ -1173,6 +1179,12 @@ function startWritingPhase(id){
   // Speak instruction
   const minutes=Math.ceil(timeLeft/60);
   speakAsync(`Giờ ghi từ vựng vào tập nha. ${minutes} phút.`,'vi-VN');
+
+  // After showing the list, scroll to timer so button is visible
+  setTimeout(()=>{
+    const timerEl=document.getElementById(`${id}-writing-timer`);
+    if(timerEl)timerEl.scrollIntoView({behavior:'smooth',block:'center'});
+  },2000);
 }
 
 function skipWritingTimer(id){
