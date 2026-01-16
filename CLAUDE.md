@@ -1336,14 +1336,124 @@ Sửa bài dịch nếu sai. 1 phút nha.
 
 ---
 
-### 📐 A CLOSER LOOK 2
+### 📐 A CLOSER LOOK 2 (Grammar)
 
-| # | Chunk | Trước | Content | Sau |
-|---|-------|-------|---------|-----|
-| 1 | intro | "A Closer Look 2 - Grammar nha" | - | - |
-| 2 | grammar | "Đây là công thức ngữ pháp" | `<grammar>` | "Ghi công thức. 3 phút" |
-| 3-N | exercises | "Bài N, [loại]" | `<task>` + `<questions>` | "[time]" |
-| A-N | answers | "Đáp án nha" | `<answer>` + `<explanation>` | "Sửa bài" |
+**QUAN TRỌNG:** Phần Grammar cần giảng giải CHI TIẾT, ÔN TỒN, NHỎ NHẸ.
+
+#### Nguyên tắc dạy Grammar:
+
+1. **Chia nhỏ từng khái niệm** - Không dồn hết vào 1 chunk
+2. **Giải thích từng phần một** - Mỗi teacher_script chỉ nói 1-2 câu
+3. **Giọng ôn tồn, nhỏ nhẹ** - Như đang nói chuyện với học sinh
+4. **Cho ví dụ cụ thể** - Sau mỗi khái niệm
+5. **Thêm mẹo nhớ** - Dùng ký hiệu, hình ảnh dễ nhớ
+
+#### Cấu trúc Grammar Chunks:
+
+| Phase | Chunks | Mô tả |
+|-------|--------|-------|
+| **Giới thiệu** | overview | Nói hôm nay học gì, có bao nhiêu phần |
+| **Lý thuyết** | grammar_concept_1, grammar_concept_2... | Mỗi khái niệm nhỏ = 1 chunk riêng |
+| **Tóm tắt** | grammar_summary | Bảng tóm tắt tất cả |
+| **Bài tập** | exercise_N | Làm bài |
+| **Đáp án** | answer_N | Giải thích TỪNG CÂU |
+
+#### Ví dụ: Dạy WH-Questions
+
+**❌ SAI - Dồn hết vào 1 chunk:**
+```markdown
+<teacher_script pause="0">
+What hỏi cái gì, Where hỏi ở đâu, When hỏi khi nào, Who hỏi ai, Why hỏi tại sao...
+</teacher_script>
+```
+
+**✅ ĐÚNG - Chia nhỏ từng từ hỏi:**
+```markdown
+<!-- chunk: grammar_what -->
+<teacher_script pause="0">
+Đầu tiên là WHAT - nghĩa là "cái gì".
+</teacher_script>
+
+<grammar>
+### WHAT - Cái gì
+**Dùng để hỏi:** Sự vật, hoạt động
+**Ví dụ:** What are you watching? → I'm watching cartoons.
+</grammar>
+
+<teacher_script pause="0">
+Nếu câu trả lời là một sự vật hay hoạt động, thì dùng What để hỏi nha.
+</teacher_script>
+
+<teacher_script pause="30">
+Ghi vô vở: WHAT = cái gì, hỏi về sự vật.
+</teacher_script>
+
+---
+
+<!-- chunk: grammar_where -->
+<teacher_script pause="0">
+Tiếp theo là WHERE - nghĩa là "ở đâu".
+</teacher_script>
+...
+```
+
+#### Ví dụ: Giải thích đáp án bài tập
+
+**❌ SAI - Nói đáp án một lần:**
+```markdown
+<teacher_script pause="0">
+Ok đáp án nha. 1-c, 2-a, 3-e, 4-b, 5-d.
+</teacher_script>
+```
+
+**✅ ĐÚNG - Giải thích từng câu:**
+```markdown
+<teacher_script pause="0">
+Ok đáp án nha.
+</teacher_script>
+
+<answer>
+**Đáp án:** 1-c | 2-a | 3-e | 4-b | 5-d
+</answer>
+
+<teacher_script pause="0">
+Giải thích từng câu nha.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 1 dùng AND: "I like animal programmes, and my brother likes them, too."
+</teacher_script>
+
+<teacher_script pause="0">
+Cả hai cùng thích - 2 ý cùng chiều, nên dùng AND.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 2 dùng SO: "I'll get up early, so I can be at the stadium on time."
+</teacher_script>
+
+<teacher_script pause="0">
+Dậy sớm là nguyên nhân, đến kịp giờ là kết quả, nên dùng SO.
+</teacher_script>
+...
+```
+
+#### Mẹo nhớ Grammar (dùng ký hiệu)
+
+Khi dạy grammar, thêm mẹo nhớ bằng ký hiệu:
+
+| Grammar Point | Mẹo nhớ | Ví dụ script |
+|---------------|---------|--------------|
+| **and** | + (cộng thêm) | "AND giống như phép cộng: ý 1 + ý 2" |
+| **but** | ↔ (đối lập) | "BUT là 2 ý ngược nhau" |
+| **so** | → (kết quả) | "SO là mũi tên: nguyên nhân → kết quả" |
+| **because** | ← (lý do) | "BECAUSE giải thích lý do" |
+
+```markdown
+<teacher_script pause="0">
+Mẹo nhớ nha: AND là cộng, BUT là đối, SO là kết quả.
+</teacher_script>
+```
 
 ---
 
@@ -1564,3 +1674,203 @@ Bài nghe từ VietJack dùng placeholder:
 ```
 
 Tạo file `v2/data/voice-lectures/TODO-audio.md` để điền URL sau.
+
+---
+
+## Best Practices (Kinh nghiệm)
+
+### 1. Nguyên tắc "Chia nhỏ để trị"
+
+**Vấn đề:** Khi dồn nhiều thông tin vào 1 teacher_script, học sinh bị overwhelm.
+
+**Giải pháp:** Mỗi teacher_script chỉ nói 1-2 câu, 1 ý duy nhất.
+
+```markdown
+<!-- ❌ SAI: Quá nhiều thông tin -->
+<teacher_script pause="0">
+Wh-questions gồm What hỏi cái gì, Where hỏi ở đâu, When hỏi khi nào, Who hỏi ai, Why hỏi tại sao, How often hỏi tần suất, How many hỏi số lượng, How long hỏi bao lâu.
+</teacher_script>
+
+<!-- ✅ ĐÚNG: Chia nhỏ từng khái niệm -->
+<teacher_script pause="0">
+Đầu tiên là WHAT - nghĩa là "cái gì".
+</teacher_script>
+
+<teacher_script pause="0">
+Nếu câu trả lời là một sự vật hay hoạt động, thì dùng What để hỏi nha.
+</teacher_script>
+```
+
+### 2. Giọng điệu ôn tồn, nhỏ nhẹ
+
+**Đặc điểm:**
+- Nói chậm, rõ ràng
+- Không vội vàng, không áp lực
+- Như đang giải thích cho 1 học sinh riêng
+
+**Từ ngữ nên dùng:**
+- "nha" (cuối câu)
+- "đi" (khi yêu cầu làm gì)
+- "ok" (khi chuyển phần)
+- "giờ..." (khi bắt đầu phần mới)
+
+**Ví dụ:**
+```markdown
+<teacher_script pause="0">
+Tiếp theo là WHERE - nghĩa là "ở đâu".
+</teacher_script>
+
+<teacher_script pause="0">
+Nếu câu trả lời là một nơi chốn, một địa điểm, thì dùng Where để hỏi nha.
+</teacher_script>
+
+<teacher_script pause="30">
+Ghi vô vở: WHERE = ở đâu, hỏi về nơi chốn.
+</teacher_script>
+```
+
+### 3. Giải thích đáp án từng câu
+
+**Vấn đề:** Nói đáp án một lèo, học sinh không hiểu tại sao.
+
+**Giải pháp:** Mỗi câu trả lời = 1-2 teacher_script giải thích.
+
+```markdown
+<teacher_script pause="0">
+Ok đáp án nha.
+</teacher_script>
+
+<answer>
+**Đáp án:** 1. so | 2. but | 3. so
+</answer>
+
+<teacher_script pause="0">
+Giải thích từng câu nha.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 1: "I'm tired, SO I'll go to bed early."
+</teacher_script>
+
+<teacher_script pause="0">
+Mệt là nguyên nhân, đi ngủ sớm là kết quả. Nên dùng SO.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 2: "My sister is good at school, BUT I'm not."
+</teacher_script>
+
+<teacher_script pause="0">
+Em giỏi, tôi không giỏi - 2 ý đối lập. Nên dùng BUT.
+</teacher_script>
+```
+
+### 4. Mẹo nhớ bằng ký hiệu
+
+**Tại sao:** Học sinh lớp 6-7 nhớ hình ảnh tốt hơn chữ.
+
+**Cách làm:**
+| Khái niệm | Ký hiệu | Script mẫu |
+|-----------|---------|------------|
+| and (bổ sung) | + | "AND giống phép cộng: A + B" |
+| but (đối lập) | ↔ | "BUT là 2 ý ngược nhau: A ↔ B" |
+| so (kết quả) | → | "SO là mũi tên: nguyên nhân → kết quả" |
+| because (lý do) | ← | "BECAUSE giải thích ngược lại" |
+
+```markdown
+<teacher_script pause="0">
+Mẹo nhớ nha: AND là cộng, BUT là đối, SO là kết quả.
+</teacher_script>
+```
+
+### 5. Pause time phù hợp
+
+| Hoạt động | Pause | Lý do |
+|-----------|-------|-------|
+| Giới thiệu | 0 | Chờ student bấm tiếp |
+| Ghi vở ngắn | 30 | 1 dòng |
+| Ghi bảng/công thức | 45-60 | Nhiều nội dung |
+| Làm bài tập ngắn | 45-60 | 3-5 câu |
+| Làm bài tập dài | 90-120 | 5+ câu |
+| Dịch hội thoại | 180 | Cần suy nghĩ |
+| Viết bài | 300-600 | Cần thời gian |
+
+### 6. Flow của mỗi Section
+
+```
+┌─────────────────────────────────────────────────────────┐
+│ 1. INTRO                                                │
+│    - Nói tên section                                    │
+│    - Nói mở sách trang mấy                              │
+└────────────────────────┬────────────────────────────────┘
+                         ↓
+┌─────────────────────────────────────────────────────────┐
+│ 2. VOCABULARY (nếu có)                                  │
+│    - Giới thiệu từ vựng                                 │
+│    - Cho thời gian ghi                                  │
+│    - Record nếu cần                                     │
+└────────────────────────┬────────────────────────────────┘
+                         ↓
+┌─────────────────────────────────────────────────────────┐
+│ 3. CONTENT (dialogue/reading/grammar)                   │
+│    - Giới thiệu nội dung                                │
+│    - Hiển thị content                                   │
+│    - Hướng dẫn làm gì                                   │
+└────────────────────────┬────────────────────────────────┘
+                         ↓
+┌─────────────────────────────────────────────────────────┐
+│ 4. EXERCISES (loop)                                     │
+│    For each exercise:                                   │
+│    - Giới thiệu bài                                     │
+│    - Cho thời gian làm                                  │
+│    - Nói đáp án                                         │
+│    - Giải thích từng câu                                │
+│    - Cho thời gian sửa                                  │
+└────────────────────────┬────────────────────────────────┘
+                         ↓
+┌─────────────────────────────────────────────────────────┐
+│ 5. END                                                  │
+│    - Tóm tắt đã học gì                                  │
+│    - Dặn dò về nhà                                      │
+│    - Preview bài sau                                    │
+└─────────────────────────────────────────────────────────┘
+```
+
+### 7. Khi nào dùng `pause="0"`
+
+Dùng `pause="0"` khi:
+- Chưa yêu cầu học sinh làm gì (chỉ giới thiệu)
+- Nhiều script liên tiếp giải thích 1 vấn đề
+- Cuối section (chờ student bấm tiếp)
+
+**Ví dụ chuỗi script giải thích:**
+```markdown
+<teacher_script pause="0">
+Giờ qua phần Conjunctions nha.
+</teacher_script>
+
+<teacher_script pause="0">
+Conjunctions là liên từ - dùng để nối 2 câu lại với nhau.
+</teacher_script>
+
+<teacher_script pause="0">
+Có 3 liên từ cần học: and, but, so.
+</teacher_script>
+
+<teacher_script pause="0">
+Giờ đi qua từng liên từ một nha.
+</teacher_script>
+```
+
+---
+
+## Checklist trước khi submit
+
+- [ ] Mỗi chunk có teacher_script TRƯỚC và SAU
+- [ ] Grammar được chia nhỏ từng khái niệm
+- [ ] Đáp án được giải thích từng câu
+- [ ] Có mẹo nhớ cho các điểm ngữ pháp quan trọng
+- [ ] Giọng điệu tự nhiên, không formal
+- [ ] Pause time phù hợp với hoạt động
+- [ ] Có translation cho dialogue/reading
+- [ ] Audio placeholder cho bài nghe
