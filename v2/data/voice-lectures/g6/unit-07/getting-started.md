@@ -28,18 +28,6 @@ Ok lớp 6, Unit 7 nha - Television. Mở sách trang 6 tập 2 đi.
 14. **interesting** : (adj) thú vị /ˈɪntrəstɪŋ/
 </vocabulary>
 
-
----
-
-<!-- chunk: record_vocabulary -->
-<teacher_script pause="0" action="record">
-Bấm nút Ghi âm để đọc lại và gửi cho thầy sửa nha.
-</teacher_script>
-
-<teacher_script pause="0">
-Record xong bấm tiếp tục nha.
-</teacher_script>
-
 ---
 
 <!-- chunk: exercise_1 -->
@@ -92,17 +80,6 @@ Ok đây là bản dịch. So sánh với bài dịch của mình nha.
 
 <teacher_script pause="60">
 Sửa bài dịch nếu sai. 1 phút nha.
-</teacher_script>
-
----
-
-<!-- chunk: record_dialogue -->
-<teacher_script pause="0" action="record">
-Bấm nút Ghi âm để đọc hội thoại và gửi cho thầy sửa nha.
-</teacher_script>
-
-<teacher_script pause="0">
-Record xong bấm tiếp tục nha.
 </teacher_script>
 
 ---
@@ -323,16 +300,5 @@ Bài 5 là bài Speaking. Phỏng vấn bạn về chương trình TV yêu thíc
 </questions>
 
 <teacher_script pause="0">
-Bài này về nhà tập nói nha. Tự hỏi đáp với bạn hoặc gia đình.
-</teacher_script>
-
----
-
-<!-- chunk: end -->
-<teacher_script pause="0">
-Ok hết Getting Started rồi. Về nhà học thuộc từ vựng nha.
-</teacher_script>
-
-<teacher_script pause="0">
-Bài sau qua A Closer Look 1. Hẹn gặp lại!
+Bài này về nhà tập nói nha. Ok hết Getting Started rồi. Bài sau qua A Closer Look 1!
 </teacher_script>
