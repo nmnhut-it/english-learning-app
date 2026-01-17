@@ -1178,37 +1178,33 @@ async function startVocabFlashcard(id) {
 
     eventBus.emit('vocab:word:change', { id, wordIndex: i, word: w });
 
-    // English 3x
+    // Step 1: Read English word once (introduce the word)
+    if (vocabAbortController.isAborted(id)) return;
+    await audioService.speakTTS(w.word, 'en-US');
+    await delay(400);
+
+    // Flip card to show meaning
+    if (vocabAbortController.isAborted(id)) return;
+    document.getElementById(`${id}-flashcard`).dataset.flipped = 'true';
+    await delay(300);
+
+    // Step 2: Read Vietnamese meaning once (only once to save time)
+    if (vocabAbortController.isAborted(id)) return;
+    await audioService.speakTTS(w.meaning, 'vi-VN');
+    await delay(400);
+
+    // Step 3: Read English word 3x (for student to repeat)
     for (let r = 0; r < 3; r++) {
       if (vocabAbortController.isAborted(id)) return;
       await audioService.playRepeatSignal();
       await delay(200);
       if (vocabAbortController.isAborted(id)) return;
       await audioService.speakTTS(w.word, 'en-US');
-      await delay(800);
+      await delay(600); // Time for student to repeat
     }
 
-    // Check abort before flip
     if (vocabAbortController.isAborted(id)) return;
-
-    // Flip
-    await delay(400);
-    document.getElementById(`${id}-flashcard`).dataset.flipped = 'true';
-    await delay(500);
-
-    // Vietnamese 3x
     await delay(300);
-    for (let r = 0; r < 3; r++) {
-      if (vocabAbortController.isAborted(id)) return;
-      await audioService.playRepeatSignal();
-      await delay(200);
-      if (vocabAbortController.isAborted(id)) return;
-      await audioService.speakTTS(w.meaning, 'vi-VN');
-      await delay(800);
-    }
-
-    if (vocabAbortController.isAborted(id)) return;
-    await delay(600);
 
     if (i < data.words.length - 1) {
       await audioService.speakTTS('Từ tiếp theo', 'vi-VN');
