@@ -84,14 +84,14 @@
     .vocab-phase[data-learning="true"] .vocab-learning-state{display:block}
 
     /* Flashcard */
-    .flashcard{background:#fff;border-radius:20px;padding:32px 24px;text-align:center;box-shadow:0 8px 32px rgba(0,0,0,.1);min-height:280px;display:flex;flex-direction:column;justify-content:center;position:relative}
+    .flashcard{background:#fff;border-radius:16px;padding:20px 16px;text-align:center;box-shadow:0 4px 16px rgba(0,0,0,.08);min-height:160px;display:flex;flex-direction:column;justify-content:center;position:relative}
     .flashcard[data-flipped="true"] .flashcard-front{opacity:0}
     .flashcard[data-flipped="true"] .flashcard-back{opacity:1}
     .flashcard-front,.flashcard-back{transition:all .4s}
-    .flashcard-back{position:absolute;inset:0;display:flex;flex-direction:column;justify-content:center;padding:32px 24px;opacity:0}
-    .flashcard-word{font-size:2rem;font-weight:700;color:#0284c7;margin-bottom:8px}
-    .flashcard-pron{font-size:1.1rem;color:#64748b;font-family:monospace;margin-bottom:12px}
-    .flashcard-meaning{font-size:1.4rem;color:#0f172a;margin-top:12px}
+    .flashcard-back{position:absolute;inset:0;display:flex;flex-direction:column;justify-content:center;padding:20px 16px;opacity:0}
+    .flashcard-word{font-size:1.5rem;font-weight:700;color:#0284c7;margin-bottom:4px}
+    .flashcard-pron{font-size:1rem;color:#64748b;font-family:monospace;margin-bottom:8px}
+    .flashcard-meaning{font-size:1.2rem;color:#0f172a;margin-top:8px}
 
     /* Quiz */
     .quiz-question{background:#fff;border-radius:16px;padding:20px;margin-bottom:16px;text-align:center}
@@ -565,7 +565,7 @@ function buildVocabHTML(id, words) {
           <div class="flashcard-pron" id="${id}-fc-pron">${words[0].pron ? '/'+words[0].pron+'/' : ''}</div>
         </div>
         <div class="flashcard-back">
-          <div class="flashcard-word">${words[0].word}</div>
+          <div class="flashcard-word" id="${id}-fc-word-back">${words[0].word}</div>
           <div class="flashcard-meaning" id="${id}-fc-meaning" data-testid="${id}-meaning">${words[0].meaning}</div>
         </div>
       </div>
@@ -837,10 +837,11 @@ async function startVocabFlashcard(id) {
     data.currentWord = i;
     const w = data.words[i];
 
-    // Update UI
+    // Update UI - both front and back
     document.getElementById(`${id}-fc-num`).textContent = i + 1;
     document.getElementById(`${id}-fc-word`).textContent = w.word;
     document.getElementById(`${id}-fc-pron`).textContent = w.pron ? '/'+w.pron+'/' : '';
+    document.getElementById(`${id}-fc-word-back`).textContent = w.word;
     document.getElementById(`${id}-fc-meaning`).textContent = w.meaning;
     document.getElementById(`${id}-flashcard`).dataset.flipped = 'false';
 
