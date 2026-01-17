@@ -17,6 +17,7 @@ import {
   extractTeacherScripts,
   ParsedChunk,
   TeacherScript,
+  TextSegment,
   VocabularyWord,
 } from './parser/Parser';
 
@@ -223,10 +224,12 @@ export class VoiceLectureController implements VoiceLectureControllerInterface {
 
     if (tsData.href) {
       this.audioService.playAudioFile(tsData.href).then(onAudioEnd).catch(() => {
-        this.audioService.speakTTS(tsData.text, 'vi-VN').then(onAudioEnd);
+        // Fallback to TTS if audio file fails
+        this.audioService.speakSegments(tsData.segments).then(onAudioEnd);
       });
     } else {
-      this.audioService.speakTTS(tsData.text, 'vi-VN').then(onAudioEnd);
+      // Use speakSegments for dual-language TTS support
+      this.audioService.speakSegments(tsData.segments).then(onAudioEnd);
     }
   }
 
@@ -234,10 +237,26 @@ export class VoiceLectureController implements VoiceLectureControllerInterface {
     // Try to get from DOM first
     const el = document.getElementById(tsId);
     if (el) {
+      // Parse segments from data attribute if present
+      let segments: TextSegment[] = [];
+      if (el.dataset.segments) {
+        try {
+          segments = JSON.parse(el.dataset.segments);
+        } catch {
+          // Fallback to single segment with default language
+          segments = [{ text: el.dataset.text || '', lang: 'vi' }];
+        }
+      } else {
+        // Fallback to single segment with default language
+        segments = [{ text: el.dataset.text || '', lang: 'vi' }];
+      }
+
       return {
         id: tsId,
         text: el.dataset.text || '',
+        segments,
         pause: parseInt(el.dataset.pause || '0', 10),
+        lang: (el.dataset.lang as 'vi' | 'en') || 'vi',
         href: el.dataset.href || null,
         action: el.dataset.action || null,
       };
