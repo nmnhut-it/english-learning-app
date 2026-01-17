@@ -104,6 +104,59 @@ describe('MockAudioService', () => {
     });
   });
 
+  describe('speakSegments', () => {
+    it('should track calls with segments', async () => {
+      const segments = [
+        { text: 'Hello', lang: 'en' as const },
+        { text: 'xin chào', lang: 'vi' as const },
+      ];
+
+      await audioService.speakSegments(segments);
+
+      expect(audioService.calls).toHaveLength(1);
+      expect(audioService.calls[0].method).toBe('speakSegments');
+      expect(audioService.calls[0].args).toEqual([segments]);
+    });
+
+    it('should emit TTS_SPEAK and TTS_END events', async () => {
+      const segments = [{ text: 'Test', lang: 'en' as const }];
+
+      await audioService.speakSegments(segments);
+
+      const events = eventBus.getHistory();
+      expect(events.some(e => e.event === LectureEvents.TTS_SPEAK)).toBe(true);
+      expect(events.some(e => e.event === LectureEvents.TTS_END)).toBe(true);
+    });
+
+    it('should handle single segment', async () => {
+      const segments = [{ text: 'Single', lang: 'vi' as const }];
+
+      await audioService.speakSegments(segments);
+
+      expect(audioService.calls).toHaveLength(1);
+    });
+
+    it('should handle multiple segments', async () => {
+      const segments = [
+        { text: 'Bài 1', lang: 'vi' as const },
+        { text: 'Listen and read', lang: 'en' as const },
+        { text: 'nha.', lang: 'vi' as const },
+      ];
+
+      await audioService.speakSegments(segments);
+
+      expect(audioService.calls).toHaveLength(1);
+      expect(audioService.calls[0].args[0]).toHaveLength(3);
+    });
+
+    it('should handle empty segments array', async () => {
+      await audioService.speakSegments([]);
+
+      expect(audioService.calls).toHaveLength(1);
+      expect(audioService.calls[0].args[0]).toHaveLength(0);
+    });
+  });
+
   describe('multiple operations', () => {
     it('should track all operations in order', async () => {
       await audioService.speakTTS('First', 'en-US');
@@ -117,6 +170,19 @@ describe('MockAudioService', () => {
         'playBeep',
         'speakTTS',
         'cancel',
+      ]);
+    });
+
+    it('should track speakSegments with other operations', async () => {
+      await audioService.speakTTS('First', 'en-US');
+      await audioService.speakSegments([{ text: 'Hello', lang: 'en' }]);
+      await audioService.playBeep(880);
+
+      expect(audioService.calls).toHaveLength(3);
+      expect(audioService.calls.map(c => c.method)).toEqual([
+        'speakTTS',
+        'speakSegments',
+        'playBeep',
       ]);
     });
   });

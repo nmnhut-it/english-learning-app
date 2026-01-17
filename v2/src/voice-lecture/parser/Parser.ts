@@ -329,6 +329,20 @@ export function renderFullContent(
   // Default tag renderer just wraps in a div
   const defaultTagRenderer = (tag: string, inner: string, attrs: string) => {
     const tagClass = tag.replace(/_/g, '-');
+
+    // Special handling for teacher_script to strip inline language tags
+    if (tag === 'teacher_script') {
+      const ts = parseTeacherScript(inner, attrs);
+      const segmentsJson = JSON.stringify(ts.segments).replace(/"/g, '&quot;');
+      return `<div class="${tagClass} ts" id="${ts.id}"
+        data-text="${ts.text.replace(/"/g, '&quot;')}"
+        data-segments="${segmentsJson}"
+        data-pause="${ts.pause}"
+        data-lang="${ts.lang}"
+        ${ts.action ? `data-action="${ts.action}"` : ''}
+        ${ts.href ? `data-href="${ts.href}"` : ''}>\n${ts.text}\n</div>`;
+    }
+
     return `<div class="${tagClass}"${attrs}>\n${renderMarkdown(inner)}\n</div>`;
   };
 
