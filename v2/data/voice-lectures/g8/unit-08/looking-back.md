@@ -35,21 +35,21 @@ Bài 1 <eng>Match the words and phrases with the meanings</eng>. Nối từ vớ
 <questions type="matching">
 | | Words | | Meanings |
 |---|-------|---|----------|
-| 1 | online shopping | a | a person who shops too much |
-| 2 | during sales | b | a time when many things in a shop are at a lower price |
-| 3 | shopaholic | c | the activity of using the Internet to order goods |
-| 4 | browsing | d | a large number of goods |
-| 5 | a wide range of products | e | looking around without a plan to buy |
+| 1 | during sales | a | the action of using the Internet to order food or goods |
+| 2 | browsing | b | a time when many things in a shop are at lower prices than usual |
+| 3 | online shopping | c | a person who is addicted to shopping |
+| 4 | wide range of products | d | going round and looking the things on display |
+| 5 | shopaholic | e | a great number of goods |
 </questions>
 
 <translation>
 | | Từ | | Nghĩa |
 |---|-----|---|-------|
-| 1 | mua sắm trực tuyến | a | người mua sắm quá nhiều |
-| 2 | trong đợt giảm giá | b | thời điểm nhiều thứ trong cửa hàng có giá thấp hơn |
-| 3 | người nghiện mua sắm | c | hoạt động sử dụng Internet để đặt hàng |
-| 4 | lướt xem | d | số lượng lớn hàng hóa |
-| 5 | nhiều loại sản phẩm | e | nhìn xung quanh mà không có kế hoạch mua |
+| 1 | trong đợt giảm giá | a | hành động sử dụng Internet để đặt đồ ăn hoặc hàng hóa |
+| 2 | lướt xem | b | thời điểm nhiều thứ trong cửa hàng có giá thấp hơn bình thường |
+| 3 | mua sắm trực tuyến | c | người nghiện mua sắm |
+| 4 | nhiều loại sản phẩm | d | đi vòng quanh và xem những thứ được trưng bày |
+| 5 | người nghiện mua sắm | e | một số lượng lớn hàng hóa |
 </translation>
 
 <teacher_script pause="0" type="answer">
@@ -57,28 +57,27 @@ Bài 1 <eng>Match the words and phrases with the meanings</eng>. Nối từ vớ
 </teacher_script>
 
 <answer>
-**Đáp án:** 1-c | 2-b | 3-a | 4-e | 5-d
+**Đáp án:** 1-b | 2-d | 3-a | 4-e | 5-c
 </answer>
 
 <teacher_script pause="0">
-1-c: <eng>online shopping</eng> = sử dụng Internet để đặt hàng.
+1-b: <eng>during sales</eng> = thời điểm giá thấp hơn bình thường.
 </teacher_script>
 
 <teacher_script pause="0">
-2-b: <eng>during sales</eng> = thời điểm giá thấp hơn bình thường.
+2-d: <eng>browsing</eng> = đi vòng quanh và xem những thứ được trưng bày.
 </teacher_script>
 
 <teacher_script pause="0">
-3-a: <eng>shopaholic</eng> = người mua sắm quá nhiều.
+3-a: <eng>online shopping</eng> = sử dụng Internet để đặt hàng.
 </teacher_script>
 
 <teacher_script pause="0">
-4-e: <eng>browsing</eng> = nhìn xung quanh mà không định mua gì.
+4-e: <eng>wide range of products</eng> = số lượng lớn hàng hóa.
 </teacher_script>
 
 <teacher_script pause="0">
-5-d: <eng>a wide range of products</eng> = nhiều loại hàng hóa.
-</teacher_script>
+5-c: <eng>shopaholic</eng> = người nghiện mua sắm.
 
 ---
 
@@ -95,20 +94,20 @@ Bài 2 <eng>Complete the sentences with the words and phrases from the box</eng>
 </task>
 
 <questions type="fill_blanks">
-**1.** The shoes I like are _______, so they're 30% cheaper than usual.
-*Đôi giày mình thích đang ___, nên chúng rẻ hơn 30% so với bình thường.*
+**1.** Look! These sports shoes are _______. They are 30% off.
+*Nhìn kìa! Những đôi giày thể thao này đang ___. Giảm 30%.*
 
-**2.** I found a _______. I got this dress for only 100,000 VND!
-*Mình tìm được một ___. Mình mua chiếc váy này chỉ có 100,000 đồng!*
+**2.** This item has a price tag, so you cannot _______.
+*Thứ này có nhãn giá rồi nên cậu không ___ được đâu.*
 
-**3.** We don't have _______ at home, so I can't shop online.
-*Chúng mình không có ___ ở nhà, nên mình không thể mua hàng online.*
+**3.** Do you have _______ here? I want to check my email.
+*Anh có ___ ở đây không? Tôi muốn kiểm tra hòm thư điện tử.*
 
-**4.** These vegetables are _______. My grandma grew them in her garden.
-*Những rau này là ___. Bà mình trồng chúng trong vườn.*
+**4.** When you visit a farmers' market, you will find a lot of _______ fruit and vegetables.
+*Khi mà bạn đến chợ nông sản, bạn sẽ tìm được rất nhiều rau quả ___.*
 
-**5.** Some people prefer _______ shopping because they can touch and try products.
-*Một số người thích mua sắm ___ vì họ có thể sờ và thử sản phẩm.*
+**5.** My mother always shops _______. She never shops online.
+*Mẹ mình luôn mua sắm ___. Bà ấy chưa bao giờ mua sắm trực tuyến.*
 </questions>
 
 <teacher_script pause="0" type="answer">
@@ -125,23 +124,23 @@ Ok đáp án nha.
 </answer>
 
 <teacher_script pause="0">
-Câu 1: <eng>on sale</eng> - đang giảm giá. <eng>30% cheaper</eng> = đang sale.
+Câu 1: <eng>on sale</eng> - đang giảm giá. <eng>30% off</eng> = giảm 30%.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 2: <eng>bargain</eng> - món hời. Mua váy chỉ 100k thì là <eng>bargain</eng> rồi.
+Câu 2: <eng>bargain</eng> - trả giá, mặc cả. Có nhãn giá cố định rồi thì không mặc cả được.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 3: <eng>Internet access</eng> - truy cập Internet. Không có Internet thì không mua online được.
+Câu 3: <eng>Internet access</eng> - truy cập Internet. Cần có Internet để check email.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 4: <eng>home-grown</eng> - tự trồng tại nhà. Bà trồng rau trong vườn.
+Câu 4: <eng>home-grown</eng> - nhà trồng. Chợ nông sản bán rau củ nhà trồng.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 5: <eng>offline</eng> - ngoại tuyến. Mua sắm trực tiếp tại cửa hàng, không phải online.
+Câu 5: <eng>offline</eng> - ngoại tuyến. Mua sắm trực tiếp, không qua mạng.
 </teacher_script>
 
 ---
@@ -167,20 +166,20 @@ Bài 3 <eng>Complete each sentence with a suitable adverb of frequency</eng>. Đ
 </task>
 
 <questions type="fill_blanks">
-**1.** He _______ goes shopping at the weekend. He never misses a weekend.
-*Anh ấy ___ đi mua sắm vào cuối tuần. Anh ấy không bao giờ bỏ lỡ cuối tuần nào.*
+**1.** My sister _______ watches the Junior Master Chef programme. She never misses an episode.
+*Em gái tôi ___ xem chương trình Vua Đầu Bếp nhí. Nó chưa bao giờ bỏ một tập nào.*
 
-**2.** I don't _______ buy things online. I prefer going to shops.
-*Mình không ___ mua hàng online. Mình thích đến cửa hàng hơn.*
+**2.** My mum _______ shops at the supermarket. But I don't go there often.
+*Mẹ tôi ___ mua sắm ở siêu thị. Nhưng tôi không thường hay tới đó lắm.*
 
-**3.** You can _______ bargain at a supermarket. The prices are fixed.
-*Bạn không bao giờ có thể ___ mặc cả ở siêu thị. Giá đã cố định.*
+**3.** My father _______ goes to a dollar store. He says there's nothing worth buying there.
+*Bố mình ___ đến cửa hàng một đô. Ông ấy nói chẳng có gì đáng mua ở đó.*
 
-**4.** She _______ goes to the farmers' market on Saturdays, but not every Saturday.
-*Cô ấy ___ đi chợ nông sản vào thứ Bảy, nhưng không phải mỗi thứ Bảy.*
+**4.** We don't _______ go to the supermarket. It's far from our home.
+*Chúng tôi không ___ đến siêu thị. Nó cách xa nhà chúng tôi.*
 
-**5.** We _______ shop at discount stores, only once or twice a year.
-*Chúng mình ___ mua sắm ở cửa hàng giảm giá, chỉ một hoặc hai lần một năm.*
+**5.** These brands are _______ on sale, just once or twice a year.
+*Những nhãn hàng này ___ giảm giá, thường chỉ một hoặc hai lần một năm.*
 </questions>
 
 <teacher_script pause="0" type="answer">
@@ -190,30 +189,30 @@ Bài 3 <eng>Complete each sentence with a suitable adverb of frequency</eng>. Đ
 <answer>
 **Đáp án:**
 1. always
-2. often
+2. always / usually / often
 3. never
-4. usually / sometimes
+4. usually / often
 5. rarely
 </answer>
 
 <teacher_script pause="0">
-Câu 1: <eng>always</eng> - luôn luôn. <eng>Never misses</eng> = <eng>always goes</eng>.
+Câu 1: <eng>always</eng> - luôn luôn. <eng>Never misses an episode</eng> = <eng>always watches</eng>.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 2: <eng>often</eng> - thường. <eng>Don't often</eng> = không thường xuyên.
+Câu 2: <eng>always</eng>, <eng>usually</eng> hoặc <eng>often</eng>. Mẹ hay đi siêu thị nhưng tôi thì không thường đi.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 3: <eng>never</eng> - không bao giờ. Siêu thị giá cố định, không mặc cả được.
+Câu 3: <eng>never</eng> - không bao giờ. Bố nói chẳng có gì đáng mua ở đó.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 4: <eng>usually</eng> hoặc <eng>sometimes</eng> - thường hoặc thỉnh thoảng. <eng>But not every Saturday</eng> = không phải lúc nào cũng.
+Câu 4: <eng>usually</eng> hoặc <eng>often</eng>. <eng>Don't usually/often</eng> = không thường xuyên vì xa nhà.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 5: <eng>rarely</eng> - hiếm khi. <eng>Once or twice a year</eng> = rất ít.
+Câu 5: <eng>rarely</eng> - hiếm khi. <eng>Once or twice a year</eng> = chỉ 1-2 lần một năm.
 </teacher_script>
 
 ---
@@ -230,20 +229,21 @@ Bài 4 <eng>Use the correct tense and form of the verbs in brackets to complete 
 </task>
 
 <questions type="fill_blanks">
-**1.** What time _______ (the train / leave) for Ha Noi tomorrow?
-*Tàu ___ đi Hà Nội lúc mấy giờ ngày mai?*
+**1.** The shuttle bus _______ (leave) every 15 minutes to take customers to the parking lot.
+*Xe buýt đưa đón ___ mỗi 15 phút để đưa khách hàng đến bãi đậu xe.*
 
-**2.** According to the schedule, the conference _______ (be) from 9 AM to 5 PM.
-*Theo lịch trình, hội nghị ___ từ 9 giờ sáng đến 5 giờ chiều.*
+**2.** - Mum, what time _______ (be) the show tonight?
+- Let me check.
+*- Mẹ ơi, tối nay buổi diễn bắt đầu lúc mấy giờ thế ạ? - Để mẹ xem.*
 
-**3.** If you have a VIP card, you _______ (can / use) a 10% discount.
-*Nếu bạn có thẻ VIP, bạn ___ được giảm giá 10%.*
+**3.** We _______ (can / use) these vouchers for the next shopping.
+*Chúng ta ___ những phiếu giảm giá này cho lần mua sắm tiếp theo.*
 
-**4.** The summer sale _______ (last) for two weeks, from June 1st to June 14th.
-*Đợt giảm giá mùa hè ___ hai tuần, từ ngày 1 đến ngày 14 tháng 6.*
+**4.** The announcement says that the sale _______ (last) for just two hours, from 17:00 to 19:00 tomorrow.
+*Thông báo nói rằng đợt giảm giá ___ chỉ trong 2 giờ, từ 5 giờ đến 7 giờ tối mai.*
 
-**5.** Sorry, I _______ (not / have) change. Can you pay by card?
-*Xin lỗi, mình ___ tiền lẻ. Bạn có thể trả bằng thẻ không?*
+**5.** We _______ (not / have) home economics next semester. We have music instead.
+*Kì tới chúng ta ___ môn kinh tế gia đình. Thay vào đó chúng ta sẽ có môn âm nhạc.*
 </questions>
 
 <teacher_script pause="0" type="answer">
@@ -252,7 +252,7 @@ Bài 4 <eng>Use the correct tense and form of the verbs in brackets to complete 
 
 <answer>
 **Đáp án:**
-1. does the train leave
+1. leaves
 2. is
 3. can use
 4. lasts
@@ -260,23 +260,23 @@ Bài 4 <eng>Use the correct tense and form of the verbs in brackets to complete 
 </answer>
 
 <teacher_script pause="0">
-Câu 1: <eng>does the train leave</eng> - lịch tàu chạy cố định, dùng hiện tại đơn.
+Câu 1: <eng>leaves</eng> - lịch xe buýt chạy cố định, dùng hiện tại đơn.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 2: <eng>is</eng> - <eng>According to the schedule</eng> = theo lịch trình, dùng hiện tại đơn.
+Câu 2: <eng>is</eng> - hỏi về lịch diễn, dùng hiện tại đơn.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 3: <eng>can use</eng> - câu điều kiện loại 1, mệnh đề chính dùng <eng>can</eng>.
+Câu 3: <eng>can use</eng> - có thể dùng được, <eng>can</eng> + động từ nguyên mẫu.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 4: <eng>lasts</eng> - lịch sale cố định, dùng hiện tại đơn.
+Câu 4: <eng>lasts</eng> - thông báo về lịch sale, dùng hiện tại đơn.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 5: <eng>don't have</eng> - nói về tình trạng hiện tại, dùng hiện tại đơn.
+Câu 5: <eng>don't have</eng> - thời khóa biểu kỳ sau, dùng hiện tại đơn cho tương lai.
 </teacher_script>
 
 <explanation>
