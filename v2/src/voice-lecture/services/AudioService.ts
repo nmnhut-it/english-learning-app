@@ -58,6 +58,15 @@ export class AudioService implements AudioServiceInterface {
    * Speak text using TTS
    */
   async speakTTS(text: string, lang: string = 'en-US'): Promise<void> {
+    // FIX: Handle empty text - skip TTS and return immediately
+    // Empty teacher_script tags with action="record" have no text
+    // speechSynthesis.speak('') may never fire onend event
+    if (!text || !text.trim()) {
+      this.eventBus?.emit(LectureEvents.TTS_SPEAK, { text, lang, skipped: true });
+      this.eventBus?.emit(LectureEvents.TTS_END, { text, lang, skipped: true });
+      return;
+    }
+
     this.eventBus?.emit(LectureEvents.TTS_SPEAK, { text, lang });
 
     // In test mode, resolve immediately
@@ -102,6 +111,14 @@ export class AudioService implements AudioServiceInterface {
    * Each segment is spoken with the appropriate TTS voice
    */
   async speakSegments(segments: TextSegment[]): Promise<void> {
+    // FIX: Handle empty segments array - skip TTS and return immediately
+    // Empty teacher_script tags produce empty segments array
+    if (!segments || segments.length === 0) {
+      this.eventBus?.emit(LectureEvents.TTS_SPEAK, { segments, skipped: true });
+      this.eventBus?.emit(LectureEvents.TTS_END, { segments, skipped: true });
+      return;
+    }
+
     this.eventBus?.emit(LectureEvents.TTS_SPEAK, { segments });
 
     // In test mode, resolve immediately
@@ -113,6 +130,10 @@ export class AudioService implements AudioServiceInterface {
 
     // Speak each segment sequentially with appropriate language
     for (const segment of segments) {
+      // Skip empty segments
+      if (!segment.text || !segment.text.trim()) {
+        continue;
+      }
       const lang = segment.lang === 'en' ? 'en-US' : 'vi-VN';
       await this.speakTTSInternal(segment.text, lang);
     }
@@ -124,6 +145,11 @@ export class AudioService implements AudioServiceInterface {
    * Internal TTS speak without emitting events (for use by speakSegments)
    */
   private async speakTTSInternal(text: string, lang: string): Promise<void> {
+    // Skip empty text
+    if (!text || !text.trim()) {
+      return;
+    }
+
     if (!('speechSynthesis' in window)) {
       return;
     }
@@ -262,14 +288,16 @@ export class MockAudioService implements AudioServiceInterface {
 
   async speakTTS(text: string, lang: string = 'en-US'): Promise<void> {
     this.calls.push({ method: 'speakTTS', args: [text, lang] });
-    this.eventBus?.emit(LectureEvents.TTS_SPEAK, { text, lang });
-    this.eventBus?.emit(LectureEvents.TTS_END, { text, lang });
+    const skipped = !text || !text.trim();
+    this.eventBus?.emit(LectureEvents.TTS_SPEAK, { text, lang, skipped });
+    this.eventBus?.emit(LectureEvents.TTS_END, { text, lang, skipped });
   }
 
   async speakSegments(segments: TextSegment[]): Promise<void> {
     this.calls.push({ method: 'speakSegments', args: [segments] });
-    this.eventBus?.emit(LectureEvents.TTS_SPEAK, { segments });
-    this.eventBus?.emit(LectureEvents.TTS_END, { segments });
+    const skipped = !segments || segments.length === 0;
+    this.eventBus?.emit(LectureEvents.TTS_SPEAK, { segments, skipped });
+    this.eventBus?.emit(LectureEvents.TTS_END, { segments, skipped });
   }
 
   async playBeep(freq?: number, duration?: number, type?: OscillatorType): Promise<void> {
