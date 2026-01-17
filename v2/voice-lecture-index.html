@@ -200,7 +200,7 @@
   <script>
     // Configuration
     const GITHUB_RAW_BASE = 'https://raw.githubusercontent.com/nmnhut-it/english-learning-app/main/v2/data/voice-lectures';
-    const GITHUB_PAGES_VIEWER = 'https://nmnhut-it.github.io/english-learning-app/voice-lecture-viewer.html';
+    const GITHUB_PAGES_VIEWER = 'https://nmnhut-it.github.io/english-learning-app/voice-lecture-viewer-v2.html';
 
     // Environment detection
     const isLocal = ['localhost', '127.0.0.1'].includes(location.hostname)
@@ -326,7 +326,7 @@
         return `${GITHUB_PAGES_VIEWER}?${params}`;
       }
       // Local: relative viewer path
-      return `voice-lecture-viewer.html?${params}`;
+      return `voice-lecture-viewer-v2.html?${params}`;
     }
 
     // Open viewer
