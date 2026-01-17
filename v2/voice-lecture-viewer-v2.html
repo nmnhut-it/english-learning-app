@@ -147,15 +147,15 @@
     .ts[data-status="played"] .ts-intro{color:#64748b}
     .ts[data-status="played"] .ts-content{color:#94a3b8}
 
-    /* Timer */
-    .timer{background:linear-gradient(135deg,#0c4a6e,#075985);color:#fff;padding:16px;border-radius:16px;margin:10px 0;text-align:center;display:none;box-shadow:0 4px 12px rgba(12,74,110,.3)}
-    .timer[data-active="true"]{display:block}
-    .timer-label{font-size:.8rem;opacity:.8;margin-bottom:4px}
-    .timer-time{font-size:2.5rem;font-weight:700}
+    /* Timer - Compact floating version */
+    .timer{position:fixed;bottom:80px;left:50%;transform:translateX(-50%);background:linear-gradient(135deg,#0c4a6e,#075985);color:#fff;padding:8px 16px;border-radius:50px;display:none;box-shadow:0 4px 16px rgba(12,74,110,.4);z-index:100;align-items:center;gap:12px}
+    .timer[data-active="true"]{display:flex}
+    .timer-label{font-size:.75rem;opacity:.8;white-space:nowrap}
+    .timer-time{font-size:1.25rem;font-weight:700;min-width:48px;text-align:center}
     .timer-time[data-warning="true"]{color:#fcd34d}
     .timer-time[data-danger="true"]{color:#fca5a5;animation:pulse 1s infinite}
     @keyframes pulse{50%{opacity:.6}}
-    .timer-skip{background:rgba(255,255,255,.2);border:none;color:#fff;padding:10px 20px;border-radius:25px;margin-top:10px;cursor:pointer;font-weight:500}
+    .timer-skip{background:rgba(255,255,255,.2);border:none;color:#fff;padding:6px 14px;border-radius:20px;cursor:pointer;font-weight:500;font-size:.85rem;white-space:nowrap}
 
     /* Cards */
     .card{background:var(--card);border-radius:var(--radius);padding:14px;margin:12px 0;box-shadow:0 2px 8px rgba(0,0,0,.06);border:1px solid var(--border)}
@@ -251,6 +251,17 @@
     /* Vocab Button */
     .vocab-btn{background:linear-gradient(135deg,#0ea5e9,#0284c7);color:#fff;border:none;padding:14px 28px;border-radius:50px;font-size:1rem;font-weight:600;cursor:pointer}
     .vocab-nav{display:flex;gap:10px;margin-top:16px;justify-content:center}
+
+    /* Confirmation Dialog */
+    .confirm-dialog-overlay{position:fixed;inset:0;background:rgba(0,0,0,.6);z-index:500;display:none;align-items:center;justify-content:center;padding:20px}
+    .confirm-dialog-overlay[data-active="true"]{display:flex}
+    .confirm-dialog{background:#fff;border-radius:20px;padding:24px;max-width:320px;width:100%;text-align:center;box-shadow:0 20px 60px rgba(0,0,0,.3)}
+    .confirm-dialog-title{font-size:1.1rem;font-weight:600;color:#0f172a;margin-bottom:8px}
+    .confirm-dialog-message{font-size:.9rem;color:#64748b;margin-bottom:20px}
+    .confirm-dialog-buttons{display:flex;gap:10px;justify-content:center}
+    .confirm-dialog-btn{padding:12px 24px;border-radius:25px;font-size:.9rem;font-weight:600;cursor:pointer;border:none}
+    .confirm-dialog-btn.cancel{background:#f1f5f9;color:#64748b}
+    .confirm-dialog-btn.confirm{background:linear-gradient(135deg,#10b981,#059669);color:#fff}
 
     /* ============ MOBILE COMPACT STYLES ============ */
     @media (max-width: 640px) {
@@ -357,6 +368,18 @@
     </div>
   </div>
 
+  <!-- Confirmation Dialog -->
+  <div id="confirm-dialog-overlay" class="confirm-dialog-overlay" data-active="false">
+    <div class="confirm-dialog">
+      <div class="confirm-dialog-title" id="confirm-dialog-title">Xác nhận</div>
+      <div class="confirm-dialog-message" id="confirm-dialog-message">Bạn có chắc muốn tiếp tục?</div>
+      <div class="confirm-dialog-buttons">
+        <button class="confirm-dialog-btn cancel" onclick="window.__voiceLecture?.confirmDialogCancel()">Chưa</button>
+        <button class="confirm-dialog-btn confirm" onclick="window.__voiceLecture?.confirmDialogConfirm()">Có, tiếp tục</button>
+      </div>
+    </div>
+  </div>
+
 <script type="module">
 // ============ CONFIGURATION ============
 const params = new URLSearchParams(location.search);
@@ -411,6 +434,53 @@ const eventBus = {
   once(event, callback) {
     const wrapper = (data) => { this.off(event, wrapper); callback(data); };
     return this.on(event, wrapper);
+  }
+};
+
+// Confirmation Dialog System
+const confirmDialog = {
+  pendingCallback: null,
+
+  show(title, message) {
+    return new Promise((resolve) => {
+      document.getElementById('confirm-dialog-title').textContent = title;
+      document.getElementById('confirm-dialog-message').textContent = message;
+      document.getElementById('confirm-dialog-overlay').dataset.active = 'true';
+      this.pendingCallback = resolve;
+    });
+  },
+
+  confirm() {
+    document.getElementById('confirm-dialog-overlay').dataset.active = 'false';
+    if (this.pendingCallback) {
+      this.pendingCallback(true);
+      this.pendingCallback = null;
+    }
+  },
+
+  cancel() {
+    document.getElementById('confirm-dialog-overlay').dataset.active = 'false';
+    if (this.pendingCallback) {
+      this.pendingCallback(false);
+      this.pendingCallback = null;
+    }
+  }
+};
+
+// Vocab abort signal for cancelling flashcard loops
+const vocabAbortController = {
+  aborted: new Set(),
+
+  abort(id) {
+    this.aborted.add(id);
+  },
+
+  isAborted(id) {
+    return this.aborted.has(id);
+  },
+
+  reset(id) {
+    this.aborted.delete(id);
   }
 };
 
@@ -546,6 +616,12 @@ const audioService = {
     await this.playBeep(880, 100);
     await delay(80);
     await this.playBeep(1100, 100);
+  },
+
+  stop() {
+    if ('speechSynthesis' in window) {
+      speechSynthesis.cancel();
+    }
   }
 };
 
@@ -1096,6 +1172,9 @@ async function startVocabFlashcard(id) {
   const data = window.__vocabData[id];
   if (!data) return;
 
+  // Reset abort signal when starting
+  vocabAbortController.reset(id);
+
   data.phase = 'flashcard';
   data.currentWord = 0;
 
@@ -1106,9 +1185,13 @@ async function startVocabFlashcard(id) {
   eventBus.emit('vocab:flashcard:start', { id });
 
   await audioService.speakTTS('Đọc theo nha!', 'vi-VN');
+  if (vocabAbortController.isAborted(id)) return;
   await delay(300);
 
   for (let i = 0; i < data.words.length; i++) {
+    // Check abort at start of each word
+    if (vocabAbortController.isAborted(id)) return;
+
     data.currentWord = i;
     const w = data.words[i];
 
@@ -1129,11 +1212,16 @@ async function startVocabFlashcard(id) {
 
     // English 3x
     for (let r = 0; r < 3; r++) {
+      if (vocabAbortController.isAborted(id)) return;
       await audioService.playRepeatSignal();
       await delay(200);
+      if (vocabAbortController.isAborted(id)) return;
       await audioService.speakTTS(w.word, 'en-US');
       await delay(800);
     }
+
+    // Check abort before flip
+    if (vocabAbortController.isAborted(id)) return;
 
     // Flip
     await delay(400);
@@ -1143,12 +1231,15 @@ async function startVocabFlashcard(id) {
     // Vietnamese 3x
     await delay(300);
     for (let r = 0; r < 3; r++) {
+      if (vocabAbortController.isAborted(id)) return;
       await audioService.playRepeatSignal();
       await delay(200);
+      if (vocabAbortController.isAborted(id)) return;
       await audioService.speakTTS(w.meaning, 'vi-VN');
       await delay(800);
     }
 
+    if (vocabAbortController.isAborted(id)) return;
     await delay(600);
 
     if (i < data.words.length - 1) {
@@ -1156,6 +1247,9 @@ async function startVocabFlashcard(id) {
       await delay(300);
     }
   }
+
+  // Check abort before completing
+  if (vocabAbortController.isAborted(id)) return;
 
   // Mark all dots done
   document.querySelectorAll(`[data-testid^="${id}-dot-"]`).forEach(dot => {
@@ -1375,6 +1469,19 @@ function completeVocab(id) {
 }
 
 async function finishVocab(id) {
+  // Show confirmation dialog
+  const confirmed = await confirmDialog.show(
+    'Tiếp tục bài học?',
+    'Bạn có chắc muốn qua bài tiếp theo không?'
+  );
+
+  if (!confirmed) {
+    return; // User cancelled
+  }
+
+  // Clean up any running vocab timers and abort signals
+  cleanupVocabTimers(id);
+
   document.getElementById(id).dataset.status = 'complete';
 
   eventBus.emit('vocab:complete', { id });
@@ -1384,6 +1491,29 @@ async function finishVocab(id) {
   state.setState('idle');
 
   setTimeout(() => playNextTS(), 500);
+}
+
+// Clean up all vocab-related timers and abort any running loops
+function cleanupVocabTimers(id) {
+  const data = window.__vocabData[id];
+  if (!data) return;
+
+  // Stop writing timer if running
+  if (data.writingTimerId) {
+    timerService.stop(data.writingTimerId);
+  }
+
+  // Abort any running flashcard loop
+  vocabAbortController.abort(id);
+
+  // Stop any TTS that might be playing
+  audioService.stop();
+
+  // Hide any active timer UI
+  const timerEl = document.getElementById(`${data.writingTimerId}`);
+  if (timerEl) {
+    timerEl.dataset.active = 'false';
+  }
 }
 
 // ============ LOAD CONTENT ============
@@ -1450,6 +1580,10 @@ window.__voiceLecture = {
       playNextTS();
     }
   },
+
+  // Confirmation Dialog
+  confirmDialogConfirm: () => confirmDialog.confirm(),
+  confirmDialogCancel: () => confirmDialog.cancel(),
 
   // Event helpers
   waitForEvent: (eventName, timeout = 5000) => {
