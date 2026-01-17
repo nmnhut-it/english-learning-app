@@ -764,6 +764,13 @@ function playNextTS() {
   if (nextTS) {
     playTS(nextTS);
   } else {
+    // No more teacher scripts - check for vocab or content that needs interaction
+    const vocab = chunkEl.querySelector('.vocab-interactive[data-status="active"]');
+    if (vocab) {
+      state.setState('vocab');
+      eventBus.emit('vocab:ready', { id: vocab.id });
+      return; // Wait for user to interact with vocab
+    }
     unlockChunkNav();
   }
 }
