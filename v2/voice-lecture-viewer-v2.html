@@ -1,0 +1,1156 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+  <title>Voice Lecture v2</title>
+  <style>
+    *{box-sizing:border-box;margin:0;padding:0}
+    :root{--primary:#0ea5e9;--primary-dark:#0284c7;--accent:#06b6d4;--success:#10b981;--warning:#f59e0b;--bg:#f0f9ff;--card:#fff;--text:#0f172a;--muted:#64748b;--border:#e0f2fe;--radius:12px;--safe-bottom:env(safe-area-inset-bottom,0)}
+    body{font-family:'Segoe UI',system-ui,-apple-system,sans-serif;background:linear-gradient(180deg,#f0f9ff 0%,#e0f2fe 100%);color:var(--text);line-height:1.6;font-size:16px;min-height:100vh}
+
+    /* Header */
+    header{background:linear-gradient(135deg,#0284c7,#0ea5e9);color:#fff;padding:12px 16px;padding-top:calc(12px + env(safe-area-inset-top,0));position:fixed;top:0;left:0;right:0;z-index:100;display:flex;align-items:center;gap:12px;box-shadow:0 2px 12px rgba(14,165,233,.3)}
+    header h1{font-size:.95rem;font-weight:600;flex:1;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+    #progress{height:4px;background:rgba(255,255,255,.3);position:absolute;bottom:0;left:0;right:0;border-radius:2px}
+    #progress-fill{height:100%;background:#fff;width:0%;transition:width .3s;border-radius:2px}
+
+    /* Test Mode Banner */
+    .test-banner{background:#fef3c7;color:#92400e;padding:8px 16px;text-align:center;font-size:12px;position:fixed;top:56px;left:0;right:0;z-index:99;border-bottom:1px solid #fcd34d}
+    .test-banner.hidden{display:none}
+
+    /* Content */
+    #content{padding:68px 16px 100px;max-width:640px;margin:0 auto}
+    .test-mode #content{padding-top:100px}
+
+    /* Chunks */
+    .chunk{padding:20px 0;border-bottom:2px dashed #bae6fd;opacity:.5;transition:all .3s}
+    .chunk:last-child{border-bottom:none}
+    .chunk[data-status="active"]{opacity:1;background:rgba(224,242,254,.4);border-radius:16px;margin:0 -12px;padding:20px 12px;box-shadow:0 4px 20px rgba(14,165,233,.1)}
+    .chunk[data-status="completed"]{opacity:.85}
+    .chunk-title{font-size:.7rem;color:#0369a1;text-transform:uppercase;letter-spacing:1px;margin-bottom:10px;font-weight:600;background:#e0f2fe;display:inline-block;padding:4px 10px;border-radius:20px}
+
+    /* Typography */
+    h1{font-size:1.25rem;margin:12px 0 8px;color:#0c4a6e}
+    h2{font-size:1.1rem;margin:16px 0 8px;color:#0369a1;font-weight:700}
+    h3{font-size:1rem;margin:12px 0 6px;font-weight:600;color:#075985}
+    p{margin:6px 0}
+    strong{color:#0284c7}
+    em{color:var(--muted);font-style:normal}
+
+    /* Teacher Script - Hidden but with data-testid */
+    .ts{display:none}
+    .ts[data-played="true"]{display:none}
+
+    /* Timer */
+    .timer{background:linear-gradient(135deg,#0c4a6e,#075985);color:#fff;padding:16px;border-radius:16px;margin:10px 0;text-align:center;display:none;box-shadow:0 4px 12px rgba(12,74,110,.3)}
+    .timer[data-active="true"]{display:block}
+    .timer-label{font-size:.8rem;opacity:.8;margin-bottom:4px}
+    .timer-time{font-size:2.5rem;font-weight:700}
+    .timer-time[data-warning="true"]{color:#fcd34d}
+    .timer-time[data-danger="true"]{color:#fca5a5;animation:pulse 1s infinite}
+    @keyframes pulse{50%{opacity:.6}}
+    .timer-skip{background:rgba(255,255,255,.2);border:none;color:#fff;padding:10px 20px;border-radius:25px;margin-top:10px;cursor:pointer;font-weight:500}
+
+    /* Cards */
+    .card{background:var(--card);border-radius:var(--radius);padding:14px;margin:12px 0;box-shadow:0 2px 8px rgba(0,0,0,.06);border:1px solid var(--border)}
+    .task-box{background:linear-gradient(135deg,#f0f9ff,#e0f2fe);border-left:4px solid var(--primary);border:none}
+    .answer-box{background:linear-gradient(135deg,#ecfdf5,#d1fae5);border-left:4px solid var(--success);border:none}
+    .grammar-box{background:linear-gradient(135deg,#f5f3ff,#ede9fe);border-left:4px solid #8b5cf6;border:none}
+    .dialogue-box{background:linear-gradient(135deg,#f0fdf4,#dcfce7);border-left:4px solid var(--success);border:none}
+
+    /* Vocabulary Interactive */
+    .vocab-interactive{background:linear-gradient(135deg,#f0f9ff,#e0f2fe);border-radius:16px;padding:16px;margin:12px 0;border:2px solid #bae6fd}
+    .vocab-interactive[data-status="complete"]{border-color:var(--success)}
+    .vocab-phase{display:none}
+    .vocab-phase[data-active="true"]{display:block}
+
+    /* Vocab Progress Dots */
+    .vocab-progress{display:flex;gap:6px;margin-bottom:16px;flex-wrap:wrap}
+    .vocab-progress-dot{width:10px;height:10px;border-radius:50%;background:#cbd5e1;transition:all .3s}
+    .vocab-progress-dot[data-status="done"]{background:#10b981}
+    .vocab-progress-dot[data-status="current"]{background:#0ea5e9;transform:scale(1.3);box-shadow:0 0 8px rgba(14,165,233,.5)}
+
+    /* Flashcard */
+    .flashcard{background:#fff;border-radius:20px;padding:32px 24px;text-align:center;box-shadow:0 8px 32px rgba(0,0,0,.1);min-height:280px;display:flex;flex-direction:column;justify-content:center;position:relative}
+    .flashcard[data-flipped="true"] .flashcard-front{opacity:0}
+    .flashcard[data-flipped="true"] .flashcard-back{opacity:1}
+    .flashcard-front,.flashcard-back{transition:all .4s}
+    .flashcard-back{position:absolute;inset:0;display:flex;flex-direction:column;justify-content:center;padding:32px 24px;opacity:0}
+    .flashcard-word{font-size:2rem;font-weight:700;color:#0284c7;margin-bottom:8px}
+    .flashcard-pron{font-size:1.1rem;color:#64748b;font-family:monospace;margin-bottom:12px}
+    .flashcard-meaning{font-size:1.4rem;color:#0f172a;margin-top:12px}
+
+    /* Quiz */
+    .quiz-question{background:#fff;border-radius:16px;padding:20px;margin-bottom:16px;text-align:center}
+    .quiz-word{font-size:1.8rem;font-weight:700;color:#0284c7}
+    .quiz-options{display:flex;flex-direction:column;gap:10px}
+    .quiz-option{background:#fff;border:2px solid #e2e8f0;border-radius:12px;padding:14px 16px;cursor:pointer;transition:all .2s}
+    .quiz-option:hover{border-color:#0ea5e9;background:#f0f9ff}
+    .quiz-option[data-selected="true"]{border-color:#0ea5e9;background:#e0f2fe}
+    .quiz-option[data-result="correct"]{border-color:#10b981;background:#d1fae5}
+    .quiz-option[data-result="wrong"]{border-color:#ef4444;background:#fee2e2}
+
+    /* Game */
+    .game-container{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+    .game-item{background:#fff;border:2px solid #e2e8f0;border-radius:10px;padding:12px;cursor:pointer;min-height:48px;display:flex;align-items:center;justify-content:center;text-align:center}
+    .game-item[data-selected="true"]{border-color:#0ea5e9;background:#e0f2fe}
+    .game-item[data-matched="true"]{border-color:#10b981;background:#d1fae5;opacity:.6;pointer-events:none}
+
+    /* Navigation */
+    .chunk-nav{margin-top:24px;text-align:center}
+    .chunk-nav .indicator{display:none;font-size:1.5rem;color:#0ea5e9;margin-bottom:8px;animation:bounce 1s ease infinite}
+    .chunk-nav[data-ready="true"] .indicator{display:block}
+    .nav-btn{background:linear-gradient(135deg,#cbd5e1,#94a3b8);color:#fff;border:none;padding:14px 32px;border-radius:50px;font-size:1rem;font-weight:600;cursor:not-allowed;opacity:.5}
+    .nav-btn[data-ready="true"]{background:linear-gradient(135deg,#0ea5e9,#0284c7);opacity:1;cursor:pointer;box-shadow:0 4px 16px rgba(14,165,233,.4)}
+    @keyframes bounce{0%,100%{transform:translateY(0)}50%{transform:translateY(6px)}}
+
+    /* NPC System */
+    #npc-overlay{position:fixed;inset:0;background:rgba(0,0,0,0);pointer-events:none;z-index:200;transition:background .4s}
+    #npc-overlay[data-active="true"]{background:rgba(0,0,0,.7);pointer-events:auto}
+    #npc-container{position:fixed;bottom:20px;left:20px;z-index:300;display:flex;flex-direction:column;align-items:flex-start;gap:12px;opacity:0;transform:translateY(30px);transition:all .4s;pointer-events:none}
+    #npc-container[data-visible="true"]{opacity:1;transform:translateY(0);pointer-events:auto}
+    .npc-avatar{width:80px;height:80px;border-radius:50%;background:linear-gradient(135deg,#0ea5e9,#0284c7);display:flex;align-items:center;justify-content:center;box-shadow:0 8px 32px rgba(14,165,233,.4)}
+    .npc-avatar[data-speaking="true"]{animation:npcBounce 0.5s ease infinite}
+    .npc-avatar-img{font-size:2.8rem}
+    @keyframes npcBounce{0%,100%{transform:translateY(0) scale(1)}50%{transform:translateY(-5px) scale(1.05)}}
+    .speech-bubble{background:#fff;border-radius:20px;padding:16px 20px;max-width:min(320px,calc(100vw - 140px));box-shadow:0 8px 32px rgba(0,0,0,.2);opacity:0;transform:translateY(10px) scale(0.95);transition:all .3s}
+    .speech-bubble[data-visible="true"]{opacity:1;transform:translateY(0) scale(1)}
+    .speech-bubble-text{font-size:1rem;line-height:1.5;color:#0f172a}
+    .speech-continue{margin-top:12px;text-align:right;display:none}
+    .speech-continue[data-visible="true"]{display:block}
+    .speech-continue-btn{background:linear-gradient(135deg,#10b981,#059669);color:#fff;border:none;padding:10px 20px;border-radius:25px;font-size:.9rem;font-weight:600;cursor:pointer}
+
+    /* Complete */
+    .complete-box{background:linear-gradient(135deg,#e0f2fe,#bae6fd);border-radius:20px;padding:32px;text-align:center;margin:20px 0}
+    .complete-icon{font-size:4rem;margin-bottom:12px}
+    .complete-box h2{color:#0369a1}
+
+    /* Tables */
+    .table-wrap{overflow-x:auto;margin:10px 0;border-radius:10px}
+    table{width:100%;border-collapse:collapse;font-size:.85rem;background:#fff}
+    th,td{padding:10px 12px;border:1px solid var(--border);text-align:left}
+    th{background:linear-gradient(135deg,#e0f2fe,#bae6fd);font-weight:600;color:#0369a1}
+
+    /* Writing Phase */
+    .writing-timer{background:linear-gradient(135deg,#0c4a6e,#075985);color:#fff;padding:20px;border-radius:16px;text-align:center}
+    .writing-timer-time{font-size:3rem;font-weight:700}
+
+    /* Vocab Button */
+    .vocab-btn{background:linear-gradient(135deg,#0ea5e9,#0284c7);color:#fff;border:none;padding:14px 28px;border-radius:50px;font-size:1rem;font-weight:600;cursor:pointer}
+    .vocab-nav{display:flex;gap:10px;margin-top:16px;justify-content:center}
+  </style>
+</head>
+<body>
+  <!-- Test Mode Banner -->
+  <div class="test-banner hidden" id="test-banner" data-testid="test-banner">
+    🧪 TEST MODE - Timers: <span id="time-scale">1</span>x | <button onclick="window.__voiceLecture.setTimerScale(1000)">Instant</button>
+  </div>
+
+  <header data-testid="header">
+    <h1 id="title" data-testid="title">Voice Lecture v2</h1>
+    <div id="progress" data-testid="progress">
+      <div id="progress-fill" data-testid="progress-fill"></div>
+    </div>
+  </header>
+
+  <div id="content" data-testid="content"></div>
+
+  <!-- NPC System -->
+  <div id="npc-overlay" data-testid="npc-overlay" data-active="false"></div>
+  <div id="npc-container" data-testid="npc-container" data-visible="false">
+    <div class="speech-bubble" id="speech-bubble" data-testid="speech-bubble" data-visible="false">
+      <div class="speech-bubble-text" id="speech-text" data-testid="speech-text"></div>
+      <div class="speech-continue" id="speech-continue" data-testid="speech-continue" data-visible="false">
+        <button class="speech-continue-btn" data-testid="speech-continue-btn" onclick="window.__voiceLecture?.npcContinue()">Tiếp tục →</button>
+      </div>
+    </div>
+    <div class="npc-avatar" id="npc-avatar" data-testid="npc-avatar" data-speaking="false">
+      <span class="npc-avatar-img">👨‍🏫</span>
+    </div>
+  </div>
+
+<script type="module">
+// ============ CONFIGURATION ============
+const params = new URLSearchParams(location.search);
+const CONFIG = {
+  testMode: params.has('test'),
+  timeScale: parseFloat(params.get('speed')) || 1,
+  instantTimers: params.get('speed') === 'instant',
+  contentUrl: null,
+};
+
+// Decode content URL
+const c = params.get('c');
+if (c) {
+  try {
+    CONFIG.contentUrl = decodeURIComponent(atob(c));
+  } catch {
+    CONFIG.contentUrl = decodeURIComponent(c);
+  }
+}
+
+// Show test banner if in test mode
+if (CONFIG.testMode) {
+  document.body.classList.add('test-mode');
+  document.getElementById('test-banner').classList.remove('hidden');
+  document.getElementById('time-scale').textContent = CONFIG.instantTimers ? '∞' : CONFIG.timeScale;
+}
+
+// ============ SIMPLE MODULAR IMPLEMENTATION ============
+// Inline implementation that mirrors the modular structure but works directly in browser
+
+// Event Bus
+const eventBus = {
+  listeners: new Map(),
+  history: [],
+
+  on(event, callback) {
+    if (!this.listeners.has(event)) this.listeners.set(event, new Set());
+    this.listeners.get(event).add(callback);
+    return () => this.off(event, callback);
+  },
+
+  off(event, callback) {
+    this.listeners.get(event)?.delete(callback);
+  },
+
+  emit(event, data) {
+    if (CONFIG.testMode) this.history.push({ event, data, timestamp: Date.now() });
+    this.listeners.get(event)?.forEach(cb => cb(data));
+    window.dispatchEvent(new CustomEvent(`lecture:${event}`, { detail: data }));
+  },
+
+  once(event, callback) {
+    const wrapper = (data) => { this.off(event, wrapper); callback(data); };
+    return this.on(event, wrapper);
+  }
+};
+
+// State
+const state = {
+  currentState: 'idle',
+  currentChunk: 0,
+  currentTSId: null,
+  chunks: [],
+  title: '',
+
+  getState() { return this.currentState; },
+  setState(s) { this.currentState = s; eventBus.emit('state:change', { state: s }); },
+
+  getData() {
+    return {
+      state: this.currentState,
+      currentChunkIndex: this.currentChunk,
+      currentTSId: this.currentTSId,
+      chunkCount: this.chunks.length,
+    };
+  }
+};
+
+// Timer Service
+const timerService = {
+  timers: new Map(),
+  timeScale: CONFIG.instantTimers ? 1000 : CONFIG.timeScale,
+
+  start(id, seconds, callback) {
+    this.stop(id);
+    if (CONFIG.instantTimers) {
+      setTimeout(callback, 10);
+      return;
+    }
+
+    const interval = 1000 / this.timeScale;
+    let remaining = seconds;
+
+    const timer = setInterval(() => {
+      remaining--;
+      eventBus.emit('timer:tick', { id, remaining, total: seconds });
+      updateTimerUI(id, remaining);
+
+      if (remaining <= 0) {
+        this.stop(id);
+        eventBus.emit('timer:end', { id });
+        callback();
+      }
+    }, interval);
+
+    this.timers.set(id, { interval: timer, remaining, callback });
+    eventBus.emit('timer:start', { id, seconds });
+  },
+
+  stop(id) {
+    const timer = this.timers.get(id);
+    if (timer) {
+      clearInterval(timer.interval);
+      this.timers.delete(id);
+    }
+  },
+
+  skip(id) {
+    const timer = this.timers.get(id);
+    if (timer) {
+      const cb = timer.callback;
+      this.stop(id);
+      eventBus.emit('timer:skip', { id });
+      cb();
+    }
+  },
+
+  setTimeScale(scale) {
+    this.timeScale = scale;
+    document.getElementById('time-scale').textContent = scale >= 1000 ? '∞' : scale;
+  },
+
+  formatTime(s) {
+    const m = Math.floor(s / 60);
+    return m > 0 ? `${m}:${(s % 60).toString().padStart(2, '0')}` : `${s}s`;
+  }
+};
+
+// Audio Service
+const audioService = {
+  async speakTTS(text, lang = 'vi-VN') {
+    eventBus.emit('tts:speak', { text, lang });
+
+    if (CONFIG.testMode && CONFIG.instantTimers) {
+      await delay(10);
+      eventBus.emit('tts:end', { text, lang });
+      return;
+    }
+
+    if (!('speechSynthesis' in window)) {
+      eventBus.emit('tts:end', { text, lang });
+      return;
+    }
+
+    return new Promise(resolve => {
+      speechSynthesis.cancel();
+      const u = new SpeechSynthesisUtterance(text);
+      u.lang = lang;
+      u.rate = lang === 'vi-VN' ? 1 : 0.85;
+      u.onend = () => { eventBus.emit('tts:end', { text, lang }); resolve(); };
+      u.onerror = resolve;
+      speechSynthesis.speak(u);
+    });
+  },
+
+  async playBeep(freq = 880, duration = 150) {
+    if (CONFIG.testMode && CONFIG.instantTimers) return delay(1);
+
+    return new Promise(resolve => {
+      try {
+        const ctx = new (window.AudioContext || window.webkitAudioContext)();
+        const osc = ctx.createOscillator();
+        const gain = ctx.createGain();
+        osc.connect(gain);
+        gain.connect(ctx.destination);
+        osc.frequency.value = freq;
+        gain.gain.setValueAtTime(0.3, ctx.currentTime);
+        gain.gain.exponentialRampToValueAtTime(0.01, ctx.currentTime + duration/1000);
+        osc.start();
+        osc.stop(ctx.currentTime + duration/1000);
+        setTimeout(resolve, duration);
+      } catch { resolve(); }
+    });
+  },
+
+  async playRepeatSignal() {
+    await this.playBeep(880, 100);
+    await delay(80);
+    await this.playBeep(1100, 100);
+  }
+};
+
+function delay(ms) {
+  if (CONFIG.testMode && CONFIG.instantTimers) return Promise.resolve();
+  return new Promise(r => setTimeout(r, ms));
+}
+
+// ============ PARSER ============
+function parseLesson(md) {
+  const titleMatch = md.match(/^#\s+(.+)$/m);
+  const title = titleMatch ? titleMatch[1] : 'Voice Lecture';
+
+  const parts = md.split(/(?=<!--\s*chunk:)/);
+  const chunks = parts.map((part, index) => {
+    const nameMatch = part.match(/<!--\s*chunk:\s*(\w+)/);
+    const h3Match = part.match(/^###\s+(.+)$/m);
+    const content = part.replace(/<!--\s*chunk:.*?-->/gs, '').replace(/\n---\n/g, '\n').trim();
+
+    return {
+      id: nameMatch ? nameMatch[1] : `chunk-${index}`,
+      index,
+      title: h3Match ? h3Match[1] : (nameMatch ? nameMatch[1] : ''),
+      content
+    };
+  }).filter(c => c.content.length > 20);
+
+  return { title, chunks };
+}
+
+function parseVocabulary(content) {
+  const words = [];
+  content.trim().split(/\r?\n/).forEach(line => {
+    const match = line.match(/^\d+\.\s*\*\*(.+?)\*\*\s*:\s*(.+)$/);
+    if (match) {
+      const word = match[1];
+      let rest = match[2].trim();
+
+      let type = null;
+      const typeMatch = rest.match(/^\(([^)]+)\)\s*/);
+      if (typeMatch) { type = typeMatch[1]; rest = rest.slice(typeMatch[0].length); }
+
+      let pron = null;
+      const pronMatch = rest.match(/\s*\/([^\/]+)\/$/);
+      if (pronMatch) { pron = pronMatch[1]; rest = rest.slice(0, -pronMatch[0].length); }
+
+      const meaning = rest.trim();
+      if (word && meaning) words.push({ word, type, pron, meaning });
+    }
+  });
+  return words;
+}
+
+// ============ RENDERER ============
+function renderChunks(chunks) {
+  const content = document.getElementById('content');
+
+  let html = '';
+  chunks.forEach((chunk, i) => {
+    html += `<div class="chunk" id="chunk-${i}" data-testid="chunk-${i}" data-index="${i}" data-status="pending">`;
+    if (chunk.title) html += `<div class="chunk-title" data-testid="chunk-title-${i}">${chunk.title}</div>`;
+    html += renderContent(chunk.content, i);
+    html += `<div class="chunk-nav" data-testid="chunk-nav-${i}" data-ready="false">
+      <div class="indicator">▼</div>
+      <button class="nav-btn" id="nav-${i}" data-testid="continue-btn-${i}" data-ready="false" onclick="window.__voiceLecture.advanceToNextChunk()">Tiếp tục</button>
+    </div>`;
+    html += `</div>`;
+  });
+
+  content.innerHTML = html;
+}
+
+let tsCounter = 0;
+let vocabCounter = 0;
+
+function renderContent(md, chunkIndex) {
+  let h = md;
+
+  // Vocabulary
+  h = h.replace(/<vocabulary>([\s\S]*?)<\/vocabulary>/gi, (_, content) => {
+    const vocabId = `vocab-${vocabCounter++}`;
+    const words = parseVocabulary(content);
+    if (words.length === 0) return '';
+
+    // Store words for later
+    window.__vocabData = window.__vocabData || {};
+    window.__vocabData[vocabId] = { words, phase: 'flashcard', currentWord: 0 };
+
+    return buildVocabHTML(vocabId, words);
+  });
+
+  // Teacher Script
+  h = h.replace(/<teacher_script([^>]*)>([\s\S]*?)<\/teacher_script>/gi, (_, attrs, text) => {
+    const pause = (attrs.match(/pause="(\d+)"/) || [])[1] || '0';
+    const href = (attrs.match(/href="([^"]+)"/) || [])[1] || '';
+    const action = (attrs.match(/action="(\w+)"/) || [])[1] || '';
+    const id = `ts-${tsCounter++}`;
+
+    let actionHtml = '';
+    if (action === 'record') {
+      actionHtml = `<div class="action-row" data-testid="action-record-${id}"><button class="action-btn">🎤 Ghi âm</button></div>`;
+    }
+
+    const timerHtml = parseInt(pause) > 0 ? `
+      <div class="timer" id="${id}-timer" data-testid="timer-${id}" data-active="false">
+        <div class="timer-label">Thời gian làm bài</div>
+        <div class="timer-time" data-testid="timer-time-${id}">${timerService.formatTime(parseInt(pause))}</div>
+        <button class="timer-skip" data-testid="timer-skip-${id}" onclick="window.__voiceLecture.skipTimer('${id}')">Xong rồi →</button>
+      </div>
+    ` : '';
+
+    return `<div class="ts" id="${id}" data-testid="ts-${id}" data-text="${text.trim().replace(/"/g, '&quot;')}" data-pause="${pause}" data-href="${href}" data-action="${action}" data-played="false"></div>${timerHtml}${actionHtml}`;
+  });
+
+  // Other tags
+  h = h.replace(/<task>([\s\S]*?)<\/task>/gi, (_, c) => `<div class="card task-box" data-testid="task">${renderMD(c)}</div>`);
+  h = h.replace(/<answer>([\s\S]*?)<\/answer>/gi, (_, c) => `<div class="card answer-box" data-testid="answer">${renderMD(c)}</div>`);
+  h = h.replace(/<grammar>([\s\S]*?)<\/grammar>/gi, (_, c) => `<div class="card grammar-box" data-testid="grammar">${renderMD(c)}</div>`);
+  h = h.replace(/<dialogue>([\s\S]*?)<\/dialogue>/gi, (_, c) => `<div class="card dialogue-box" data-testid="dialogue">${renderMD(c)}</div>`);
+  h = h.replace(/<translation>([\s\S]*?)<\/translation>/gi, (_, c) => `<div class="card" data-testid="translation">${renderMD(c)}</div>`);
+  h = h.replace(/<reading>([\s\S]*?)<\/reading>/gi, (_, c) => `<div class="card" data-testid="reading">${renderMD(c)}</div>`);
+  h = h.replace(/<questions[^>]*>([\s\S]*?)<\/questions>/gi, (_, c) => `<div class="card" data-testid="questions">${renderMD(c)}</div>`);
+  h = h.replace(/<explanation>([\s\S]*?)<\/explanation>/gi, (_, c) => `<div class="card" data-testid="explanation">${renderMD(c)}</div>`);
+
+  return renderMD(h);
+}
+
+function renderMD(md) {
+  let h = md;
+  h = h.replace(/^###\s+(.+)$/gm, '<h3>$1</h3>');
+  h = h.replace(/^##\s+(.+)$/gm, '<h2>$1</h2>');
+  h = h.replace(/^#\s+(.+)$/gm, '<h1>$1</h1>');
+  h = h.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
+  h = h.replace(/\*([^*]+)\*/g, '<em>$1</em>');
+
+  // Tables
+  const tableRegex = /^(\|[^\n]+\|[ \t]*\n?)+/gm;
+  const matches = [];
+  let match;
+  while ((match = tableRegex.exec(h)) !== null) matches.push({ str: match[0], idx: match.index });
+
+  for (let i = matches.length - 1; i >= 0; i--) {
+    const { str, idx } = matches[i];
+    const lines = str.trim().split(/\r?\n/).filter(l => l.trim());
+    const dataRows = lines.filter(line => !/^\|[\s\-:|]+\|$/.test(line));
+    if (dataRows.length > 0) {
+      let tbl = '<div class="table-wrap"><table>';
+      dataRows.forEach((row, ri) => {
+        const cells = row.split('|').slice(1, -1);
+        const tag = ri === 0 ? 'th' : 'td';
+        tbl += '<tr>' + cells.map(c => `<${tag}>${c.trim()}</${tag}>`).join('') + '</tr>';
+      });
+      tbl += '</table></div>';
+      h = h.substring(0, idx) + tbl + h.substring(idx + str.length);
+    }
+  }
+
+  h = h.replace(/^-\s+(.+)$/gm, '<li>$1</li>');
+  h = h.replace(/(<li>.*<\/li>\n?)+/g, '<ul>$&</ul>');
+  h = h.replace(/\n\n+/g, '</p><p>');
+  h = h.replace(/\n/g, '<br>');
+
+  return h;
+}
+
+function buildVocabHTML(id, words) {
+  const dots = words.map((_, i) => `<div class="vocab-progress-dot" data-testid="${id}-dot-${i}" data-status="pending"></div>`).join('');
+
+  return `
+<div class="vocab-interactive" id="${id}" data-testid="${id}" data-status="active" data-phase="flashcard">
+  <div class="vocab-progress">${dots}</div>
+
+  <div class="vocab-phase" id="${id}-phase-flashcard" data-testid="${id}-phase-flashcard" data-active="true">
+    <div class="phase-header"><span>🎴</span> Học từ vựng - Từ <span id="${id}-fc-num" data-testid="${id}-word-num">1</span>/${words.length}</div>
+    <div class="flashcard" id="${id}-flashcard" data-testid="${id}-flashcard" data-flipped="false">
+      <div class="flashcard-front">
+        <div class="flashcard-word" id="${id}-fc-word" data-testid="${id}-word">${words[0].word}</div>
+        <div class="flashcard-pron" id="${id}-fc-pron">${words[0].pron ? '/'+words[0].pron+'/' : ''}</div>
+      </div>
+      <div class="flashcard-back">
+        <div class="flashcard-word">${words[0].word}</div>
+        <div class="flashcard-meaning" id="${id}-fc-meaning" data-testid="${id}-meaning">${words[0].meaning}</div>
+      </div>
+    </div>
+    <div class="vocab-nav">
+      <button class="vocab-btn" data-testid="${id}-start-btn" onclick="window.__voiceLecture.startVocabFlashcard('${id}')">Bắt đầu học</button>
+    </div>
+  </div>
+
+  <div class="vocab-phase" id="${id}-phase-quiz" data-testid="${id}-phase-quiz" data-active="false">
+    <div class="phase-header"><span>❓</span> Kiểm tra nhanh - Câu <span id="${id}-quiz-num">1</span>/${words.length}</div>
+    <div class="quiz-question">
+      <div class="quiz-prompt" id="${id}-quiz-prompt">Chọn nghĩa đúng:</div>
+      <div class="quiz-word" id="${id}-quiz-word" data-testid="${id}-quiz-word">${words[0].word}</div>
+    </div>
+    <div class="quiz-options" id="${id}-quiz-options" data-testid="${id}-quiz-options"></div>
+  </div>
+
+  <div class="vocab-phase" id="${id}-phase-writing" data-testid="${id}-phase-writing" data-active="false">
+    <div class="phase-header"><span>✍️</span> Ghi vào tập</div>
+    <div class="writing-list">${words.map((w,i) => `<div class="writing-item"><span class="writing-num">${i+1}</span> <strong>${w.word}</strong> - ${w.meaning}</div>`).join('')}</div>
+    <div class="writing-timer">
+      <div id="${id}-writing-time" data-testid="${id}-writing-time">${Math.floor(words.length*30/60)}:${(words.length*30%60).toString().padStart(2,'0')}</div>
+    </div>
+    <div class="vocab-nav">
+      <button class="vocab-btn" data-testid="${id}-skip-writing" onclick="window.__voiceLecture.skipVocabWriting('${id}')">Xong rồi →</button>
+    </div>
+  </div>
+
+  <div class="vocab-phase" id="${id}-phase-game" data-testid="${id}-phase-game" data-active="false">
+    <div class="phase-header"><span>🎮</span> Game nối từ - <span id="${id}-game-score">0</span>/${words.length}</div>
+    <div class="game-container" id="${id}-game" data-testid="${id}-game"></div>
+  </div>
+
+  <div class="vocab-phase" id="${id}-phase-complete" data-testid="${id}-phase-complete" data-active="false">
+    <div class="complete-box" style="margin:0">
+      <div class="complete-icon">🎉</div>
+      <h2>Hoàn thành từ vựng!</h2>
+    </div>
+    <div class="vocab-nav">
+      <button class="vocab-btn" data-testid="${id}-finish-btn" onclick="window.__voiceLecture.finishVocab('${id}')">Tiếp tục bài học →</button>
+    </div>
+  </div>
+</div>`;
+}
+
+// ============ UI UPDATES ============
+function updateTimerUI(id, remaining) {
+  const timerEl = document.getElementById(`${id}-timer`);
+  const timeEl = timerEl?.querySelector('.timer-time');
+  if (timeEl) {
+    timeEl.textContent = timerService.formatTime(remaining);
+    timeEl.dataset.warning = remaining <= 10;
+    timeEl.dataset.danger = remaining <= 5;
+  }
+}
+
+function updateProgress() {
+  const pct = ((state.currentChunk + 1) / state.chunks.length) * 100;
+  document.getElementById('progress-fill').style.width = pct + '%';
+}
+
+function showNPC(text) {
+  document.getElementById('npc-overlay').dataset.active = 'true';
+  document.getElementById('npc-container').dataset.visible = 'true';
+  document.getElementById('speech-bubble').dataset.visible = 'true';
+  document.getElementById('npc-avatar').dataset.speaking = 'true';
+  document.getElementById('speech-text').textContent = text;
+}
+
+function hideNPC() {
+  document.getElementById('npc-overlay').dataset.active = 'false';
+  document.getElementById('npc-container').dataset.visible = 'false';
+  document.getElementById('speech-bubble').dataset.visible = 'false';
+  document.getElementById('npc-avatar').dataset.speaking = 'false';
+}
+
+// ============ LECTURE FLOW ============
+function activateChunk(index) {
+  if (index >= state.chunks.length) return;
+
+  state.currentChunk = index;
+  state.setState('idle');
+
+  document.querySelectorAll('.chunk').forEach((el, i) => {
+    el.dataset.status = i < index ? 'completed' : i === index ? 'active' : 'pending';
+  });
+
+  const chunk = document.getElementById(`chunk-${index}`);
+  if (chunk) {
+    chunk.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    setTimeout(() => playNextTS(), 500);
+  }
+
+  updateProgress();
+  eventBus.emit('chunk:activate', { index });
+}
+
+function playNextTS() {
+  const chunkEl = document.getElementById(`chunk-${state.currentChunk}`);
+  if (!chunkEl) {
+    unlockChunkNav();
+    return;
+  }
+
+  const nextTS = chunkEl.querySelector('.ts[data-played="false"]');
+  if (nextTS) {
+    playTS(nextTS);
+  } else {
+    unlockChunkNav();
+  }
+}
+
+function playTS(el) {
+  if (state.getState() === 'npc_speaking') return;
+
+  state.setState('npc_speaking');
+  state.currentTSId = el.id;
+  el.dataset.played = 'true';
+
+  const text = el.dataset.text;
+  const pause = parseInt(el.dataset.pause) || 0;
+
+  showNPC(text);
+  eventBus.emit('ts:start', { id: el.id, text });
+
+  const onEnd = () => {
+    document.getElementById('npc-avatar').dataset.speaking = 'false';
+    eventBus.emit('ts:end', { id: el.id });
+
+    if (pause > 0) {
+      hideNPC();
+      state.setState('timer');
+
+      const timerEl = document.getElementById(`${el.id}-timer`);
+      if (timerEl) timerEl.dataset.active = 'true';
+
+      timerService.start(el.id, pause, () => {
+        if (timerEl) timerEl.dataset.active = 'false';
+        state.setState('idle');
+        afterTimer();
+      });
+    } else {
+      afterSpeaking(el);
+    }
+  };
+
+  audioService.speakTTS(text, 'vi-VN').then(onEnd);
+}
+
+function afterSpeaking(tsEl) {
+  hideNPC();
+
+  const next = findNextElement(tsEl);
+
+  if (next.type === 'ts') {
+    setTimeout(() => playTS(next.element), 200);
+  } else if (next.type === 'vocab') {
+    state.setState('vocab');
+    eventBus.emit('vocab:ready', { id: next.element.id });
+    // Wait for user to click start
+  } else if (next.type === 'content') {
+    next.element.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    setTimeout(() => continueAfterContent(next.element), 1500);
+  } else {
+    unlockChunkNav();
+  }
+}
+
+function afterTimer() {
+  playNextTS();
+}
+
+function continueAfterContent(el) {
+  const next = findNextElement(el);
+
+  if (next.type === 'content') {
+    next.element.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    setTimeout(() => continueAfterContent(next.element), 1500);
+  } else if (next.type === 'ts') {
+    setTimeout(() => playTS(next.element), 300);
+  } else if (next.type === 'vocab') {
+    state.setState('vocab');
+    eventBus.emit('vocab:ready', { id: next.element.id });
+  } else {
+    unlockChunkNav();
+  }
+}
+
+function findNextElement(current) {
+  let next = current.nextElementSibling;
+
+  const skip = (el) => {
+    if (!el) return false;
+    if (el.classList.contains('timer')) return true;
+    if (el.classList.contains('action-row')) return true;
+    if (el.classList.contains('chunk-nav')) return false;
+    if (el.classList.contains('vocab-interactive') && el.dataset.status === 'complete') return true;
+    if (el.tagName === 'HR') return true;
+    return false;
+  };
+
+  while (next && skip(next)) {
+    next = next.nextElementSibling;
+  }
+
+  if (!next) return { element: null, type: 'none' };
+
+  let type = 'content';
+  if (next.classList.contains('ts')) type = 'ts';
+  else if (next.classList.contains('vocab-interactive')) type = 'vocab';
+  else if (next.classList.contains('chunk-nav')) type = 'nav';
+
+  return { element: next, type };
+}
+
+function unlockChunkNav() {
+  state.setState('chunk_done');
+
+  const nav = document.querySelector(`#chunk-${state.currentChunk} .chunk-nav`);
+  const btn = document.getElementById(`nav-${state.currentChunk}`);
+
+  if (nav) nav.dataset.ready = 'true';
+  if (btn) btn.dataset.ready = 'true';
+
+  eventBus.emit('chunk:complete', { index: state.currentChunk });
+}
+
+function advanceToNextChunk() {
+  if (state.getState() !== 'chunk_done') return;
+
+  const next = state.currentChunk + 1;
+  if (next < state.chunks.length) {
+    eventBus.emit('chunk:advance', { from: state.currentChunk, to: next });
+    activateChunk(next);
+  } else {
+    showComplete();
+  }
+}
+
+function showComplete() {
+  state.setState('complete');
+  document.getElementById('content').innerHTML += `
+    <div class="complete-box" data-testid="lesson-complete">
+      <div class="complete-icon">🎉</div>
+      <h2>Hoàn thành bài học!</h2>
+      <p>Giỏi lắm! Về nhà ôn lại từ vựng nha.</p>
+    </div>`;
+  document.querySelector('.complete-box').scrollIntoView({ behavior: 'smooth' });
+  eventBus.emit('lesson:complete', {});
+}
+
+// ============ VOCABULARY FLOW ============
+async function startVocabFlashcard(id) {
+  const data = window.__vocabData[id];
+  if (!data) return;
+
+  data.phase = 'flashcard';
+  data.currentWord = 0;
+
+  eventBus.emit('vocab:flashcard:start', { id });
+
+  await audioService.speakTTS('Đọc theo nha!', 'vi-VN');
+  await delay(300);
+
+  for (let i = 0; i < data.words.length; i++) {
+    data.currentWord = i;
+    const w = data.words[i];
+
+    // Update UI
+    document.getElementById(`${id}-fc-num`).textContent = i + 1;
+    document.getElementById(`${id}-fc-word`).textContent = w.word;
+    document.getElementById(`${id}-fc-pron`).textContent = w.pron ? '/'+w.pron+'/' : '';
+    document.getElementById(`${id}-fc-meaning`).textContent = w.meaning;
+    document.getElementById(`${id}-flashcard`).dataset.flipped = 'false';
+
+    // Update dots
+    document.querySelectorAll(`[data-testid^="${id}-dot-"]`).forEach((dot, di) => {
+      dot.dataset.status = di < i ? 'done' : di === i ? 'current' : 'pending';
+    });
+
+    eventBus.emit('vocab:word:change', { id, wordIndex: i, word: w });
+
+    // English 3x
+    for (let r = 0; r < 3; r++) {
+      await audioService.playRepeatSignal();
+      await delay(200);
+      await audioService.speakTTS(w.word, 'en-US');
+      await delay(800);
+    }
+
+    // Flip
+    await delay(400);
+    document.getElementById(`${id}-flashcard`).dataset.flipped = 'true';
+    await delay(500);
+
+    // Vietnamese 3x
+    await delay(300);
+    for (let r = 0; r < 3; r++) {
+      await audioService.playRepeatSignal();
+      await delay(200);
+      await audioService.speakTTS(w.meaning, 'vi-VN');
+      await delay(800);
+    }
+
+    await delay(600);
+
+    if (i < data.words.length - 1) {
+      await audioService.speakTTS('Từ tiếp theo', 'vi-VN');
+      await delay(300);
+    }
+  }
+
+  // Mark all dots done
+  document.querySelectorAll(`[data-testid^="${id}-dot-"]`).forEach(dot => {
+    dot.dataset.status = 'done';
+  });
+
+  await audioService.speakTTS('Xong phần học từ. Giờ kiểm tra nhanh nha!', 'vi-VN');
+  await delay(500);
+
+  startVocabQuiz(id);
+}
+
+function shuffle(arr) {
+  if (CONFIG.testMode) return arr; // Deterministic for tests
+  const result = [...arr];
+  for (let i = result.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [result[i], result[j]] = [result[j], result[i]];
+  }
+  return result;
+}
+
+function startVocabQuiz(id) {
+  const data = window.__vocabData[id];
+  data.phase = 'quiz';
+  data.currentWord = 0;
+  data.quizAnswers = [];
+
+  document.getElementById(`${id}-phase-flashcard`).dataset.active = 'false';
+  document.getElementById(`${id}-phase-quiz`).dataset.active = 'true';
+  document.getElementById(id).dataset.phase = 'quiz';
+
+  eventBus.emit('vocab:phase:change', { id, phase: 'quiz' });
+
+  showQuizQuestion(id);
+}
+
+async function showQuizQuestion(id) {
+  const data = window.__vocabData[id];
+  const w = data.words[data.currentWord];
+
+  document.getElementById(`${id}-quiz-num`).textContent = data.currentWord + 1;
+  document.getElementById(`${id}-quiz-word`).textContent = w.word;
+  document.getElementById(`${id}-quiz-prompt`).textContent = 'Chọn nghĩa đúng:';
+
+  const correct = w.meaning;
+  const others = data.words.filter((_, i) => i !== data.currentWord).map(x => x.meaning);
+  const options = shuffle([correct, ...shuffle(others).slice(0, 3)]);
+
+  const optContainer = document.getElementById(`${id}-quiz-options`);
+  optContainer.innerHTML = options.map(opt =>
+    `<div class="quiz-option" data-testid="${id}-option" data-answer="${opt}" onclick="window.__voiceLecture.handleQuizAnswer('${id}', '${opt.replace(/'/g, "\\'")}', '${correct.replace(/'/g, "\\'")}')">${opt}</div>`
+  ).join('');
+
+  await audioService.playBeep(660, 100);
+  await audioService.speakTTS(`Câu ${data.currentWord + 1}.`, 'vi-VN');
+  await audioService.speakTTS(w.word, 'en-US');
+  await audioService.speakTTS('nghĩa là gì?', 'vi-VN');
+}
+
+async function handleQuizAnswer(id, selected, correct) {
+  const data = window.__vocabData[id];
+  const isCorrect = selected === correct;
+  data.quizAnswers.push(isCorrect);
+
+  document.querySelectorAll(`#${id}-quiz-options .quiz-option`).forEach(opt => {
+    opt.style.pointerEvents = 'none';
+    if (opt.dataset.answer === correct) opt.dataset.result = 'correct';
+    if (opt.dataset.answer === selected && !isCorrect) opt.dataset.result = 'wrong';
+  });
+
+  eventBus.emit('vocab:quiz:answer', { id, isCorrect, selected, correct });
+
+  if (isCorrect) {
+    await audioService.playBeep(880, 150);
+    await audioService.playBeep(1100, 200);
+    await audioService.speakTTS('Đúng rồi!', 'vi-VN');
+  } else {
+    await audioService.playBeep(300, 300);
+    await audioService.speakTTS(`Sai rồi. Đáp án đúng là ${correct}`, 'vi-VN');
+  }
+
+  await delay(2000);
+
+  data.currentWord++;
+  if (data.currentWord < data.words.length) {
+    showQuizQuestion(id);
+  } else {
+    startVocabWriting(id);
+  }
+}
+
+function startVocabWriting(id) {
+  const data = window.__vocabData[id];
+  data.phase = 'writing';
+
+  document.getElementById(`${id}-phase-quiz`).dataset.active = 'false';
+  document.getElementById(`${id}-phase-writing`).dataset.active = 'true';
+  document.getElementById(id).dataset.phase = 'writing';
+
+  eventBus.emit('vocab:phase:change', { id, phase: 'writing' });
+
+  const totalSeconds = data.words.length * 30;
+  const timeEl = document.getElementById(`${id}-writing-time`);
+
+  data.writingTimerId = `vocab-writing-${id}`;
+
+  let remaining = totalSeconds;
+  const updateTime = () => {
+    const m = Math.floor(remaining / 60);
+    const s = remaining % 60;
+    timeEl.textContent = `${m}:${s.toString().padStart(2, '0')}`;
+  };
+
+  timerService.start(data.writingTimerId, totalSeconds, () => {
+    startVocabGame(id);
+  });
+
+  const minutes = Math.ceil(totalSeconds / 60);
+  audioService.speakTTS(`Giờ ghi từ vựng vào tập nha. ${minutes} phút.`, 'vi-VN');
+}
+
+function skipVocabWriting(id) {
+  const data = window.__vocabData[id];
+  timerService.skip(data.writingTimerId);
+}
+
+function startVocabGame(id) {
+  const data = window.__vocabData[id];
+  data.phase = 'game';
+  data.gameMatched = 0;
+  data.gameSelected = null;
+
+  document.getElementById(`${id}-phase-writing`).dataset.active = 'false';
+  document.getElementById(`${id}-phase-game`).dataset.active = 'true';
+  document.getElementById(id).dataset.phase = 'game';
+
+  eventBus.emit('vocab:phase:change', { id, phase: 'game' });
+
+  const words = shuffle([...data.words]);
+  const meanings = shuffle([...data.words]);
+
+  const gameEl = document.getElementById(`${id}-game`);
+  gameEl.innerHTML = `
+    <div class="game-col">
+      <div class="game-col-title">Tiếng Anh</div>
+      ${words.map(w => `<div class="game-item" data-testid="${id}-game-word" data-word="${w.word}" data-type="word" data-matched="false" data-selected="false" onclick="window.__voiceLecture.handleGameSelect('${id}', '${w.word.replace(/'/g, "\\'")}', 'word')">${w.word}</div>`).join('')}
+    </div>
+    <div class="game-col">
+      <div class="game-col-title">Tiếng Việt</div>
+      ${meanings.map(w => `<div class="game-item" data-testid="${id}-game-meaning" data-word="${w.word}" data-type="meaning" data-matched="false" data-selected="false" onclick="window.__voiceLecture.handleGameSelect('${id}', '${w.word.replace(/'/g, "\\'")}', 'meaning')">${w.meaning}</div>`).join('')}
+    </div>
+  `;
+
+  audioService.speakTTS('Chơi game nối từ nha. Chọn từ tiếng Anh rồi chọn nghĩa tiếng Việt.', 'vi-VN');
+}
+
+async function handleGameSelect(id, word, type) {
+  const data = window.__vocabData[id];
+
+  await audioService.playBeep(500, 50);
+
+  if (!data.gameSelected) {
+    data.gameSelected = { word, type };
+    document.querySelector(`#${id}-game .game-item[data-word="${word}"][data-type="${type}"]`).dataset.selected = 'true';
+    return;
+  }
+
+  if (data.gameSelected.type === type) {
+    document.querySelector(`#${id}-game .game-item[data-word="${data.gameSelected.word}"][data-type="${data.gameSelected.type}"]`).dataset.selected = 'false';
+    data.gameSelected = { word, type };
+    document.querySelector(`#${id}-game .game-item[data-word="${word}"][data-type="${type}"]`).dataset.selected = 'true';
+    return;
+  }
+
+  // Check match
+  if (data.gameSelected.word === word) {
+    // Match!
+    document.querySelector(`#${id}-game .game-item[data-word="${data.gameSelected.word}"][data-type="${data.gameSelected.type}"]`).dataset.matched = 'true';
+    document.querySelector(`#${id}-game .game-item[data-word="${word}"][data-type="${type}"]`).dataset.matched = 'true';
+    document.querySelector(`#${id}-game .game-item[data-word="${data.gameSelected.word}"][data-type="${data.gameSelected.type}"]`).dataset.selected = 'false';
+
+    data.gameMatched++;
+    document.getElementById(`${id}-game-score`).textContent = data.gameMatched;
+
+    await audioService.playBeep(660, 100);
+    await audioService.playBeep(880, 100);
+    await audioService.playBeep(1100, 150);
+
+    eventBus.emit('vocab:game:match', { id, word, matched: data.gameMatched });
+
+    if (data.gameMatched === data.words.length) {
+      await delay(500);
+      await audioService.speakTTS('Xuất sắc! Nối đúng hết rồi!', 'vi-VN');
+      await delay(1000);
+      completeVocab(id);
+    }
+  } else {
+    await audioService.playBeep(300, 200);
+    document.querySelector(`#${id}-game .game-item[data-word="${data.gameSelected.word}"][data-type="${data.gameSelected.type}"]`).dataset.selected = 'false';
+  }
+
+  data.gameSelected = null;
+}
+
+function completeVocab(id) {
+  const data = window.__vocabData[id];
+  data.phase = 'complete';
+
+  document.getElementById(`${id}-phase-game`).dataset.active = 'false';
+  document.getElementById(`${id}-phase-complete`).dataset.active = 'true';
+  document.getElementById(id).dataset.phase = 'complete';
+
+  eventBus.emit('vocab:phase:change', { id, phase: 'complete' });
+
+  audioService.speakTTS('Hoàn thành từ vựng rồi! Giỏi lắm!', 'vi-VN');
+}
+
+async function finishVocab(id) {
+  document.getElementById(id).dataset.status = 'complete';
+
+  eventBus.emit('vocab:complete', { id });
+
+  await audioService.speakTTS('Các em đã ghi từ vựng rồi nha. Nhớ học bài hen. Giờ mình qua bài tiếp theo.', 'vi-VN');
+
+  state.setState('idle');
+
+  setTimeout(() => playNextTS(), 500);
+}
+
+// ============ LOAD CONTENT ============
+async function load() {
+  if (!CONFIG.contentUrl) {
+    document.getElementById('content').innerHTML = '<div class="card">No content URL provided. Use ?c=URL</div>';
+    return;
+  }
+
+  try {
+    const res = await fetch(CONFIG.contentUrl);
+    const md = await res.text();
+    const lesson = parseLesson(md);
+
+    state.title = lesson.title;
+    state.chunks = lesson.chunks;
+
+    document.getElementById('title').textContent = lesson.title;
+    renderChunks(lesson.chunks);
+
+    eventBus.emit('lesson:load', { title: lesson.title, chunks: lesson.chunks.length });
+
+    setTimeout(() => activateChunk(0), 500);
+  } catch (e) {
+    document.getElementById('content').innerHTML = `<div class="card" style="color:#ef4444">Error: ${e.message}</div>`;
+  }
+}
+
+// ============ EXPOSE FOR TESTING ============
+window.__voiceLecture = {
+  // State access
+  getState: () => state.getData(),
+  getProgress: () => ({ current: state.currentChunk + 1, total: state.chunks.length, percentage: ((state.currentChunk + 1) / state.chunks.length) * 100 }),
+  getChunks: () => state.chunks.map((c, i) => ({ index: i, id: c.id, title: c.title })),
+  getEventHistory: () => eventBus.history,
+
+  // Controls
+  activateChunk,
+  advanceToNextChunk,
+  skipTimer: (id) => timerService.skip(id),
+  setTimerScale: (scale) => timerService.setTimeScale(scale),
+
+  // Vocabulary
+  startVocabFlashcard,
+  skipVocabWriting,
+  handleQuizAnswer,
+  handleGameSelect,
+  finishVocab,
+
+  // NPC
+  npcContinue: () => {
+    if (state.getState() === 'npc_waiting') {
+      hideNPC();
+      playNextTS();
+    }
+  },
+
+  // Event helpers
+  waitForEvent: (eventName, timeout = 5000) => {
+    return new Promise((resolve, reject) => {
+      const timer = setTimeout(() => reject(new Error(`Timeout: ${eventName}`)), timeout);
+      eventBus.once(eventName, (data) => { clearTimeout(timer); resolve(data); });
+    });
+  },
+
+  // Event bus direct access
+  on: (event, cb) => eventBus.on(event, cb),
+  emit: (event, data) => eventBus.emit(event, data),
+};
+
+// Start
+document.addEventListener('DOMContentLoaded', load);
+</script>
+</body>
+</html>
