@@ -3,18 +3,18 @@
 ## LOOKING BACK - Review
 
 <!-- chunk: intro -->
-<teacher_script pause="0" lang="vi">
-Ok lớp 6, Looking Back nha - Ôn tập Unit 7.
+<teacher_script pause="0">
+Ok lớp 6, <eng>Looking Back</eng> nha - Ôn tập Unit 7.
 </teacher_script>
 
-<teacher_script pause="0" lang="vi">
+<teacher_script pause="0">
 Mở sách trang 14 tập 2 đi.
 </teacher_script>
 
 ---
 
 <!-- chunk: vocabulary_review -->
-<teacher_script pause="0" lang="vi">
+<teacher_script pause="0">
 Trước khi làm bài, ôn lại từ vựng Unit 7 nha.
 </teacher_script>
 
@@ -44,18 +44,18 @@ Trước khi làm bài, ôn lại từ vựng Unit 7 nha.
 18. **character** : (n) nhân vật /ˈkærəktə/
 </vocabulary>
 
-<teacher_script pause="60" lang="vi">
+<teacher_script pause="60">
 Xem lại từ vựng. 1 phút. Xong bấm Tiếp tục bài học.
 </teacher_script>
 
 ---
 
 <!-- chunk: record_vocabulary -->
-<teacher_script pause="0" lang="vi" action="record">
+<teacher_script pause="0" action="record">
 Bấm nút Ghi âm để đọc lại từ vựng và gửi cho thầy sửa nha.
 </teacher_script>
 
-<teacher_script pause="0" lang="vi">
+<teacher_script pause="0">
 Xong rồi thì bấm tiếp tục nha.
 </teacher_script>
 
@@ -66,12 +66,8 @@ Xong rồi thì bấm tiếp tục nha.
 <!-- chunk: exercise_1 -->
 ### Bài 1 trang 14 - Put words in groups
 
-<teacher_script pause="0" lang="en">
-Exercise 1. Put words in groups.
-</teacher_script>
-
-<teacher_script pause="45" lang="vi">
-Phân loại từ vào 2 nhóm: Programmes - chương trình và Adjectives - tính từ. 45 giây nha.
+<teacher_script pause="45">
+Bài 1 <eng>Put words in groups</eng> nha. Phân loại từ vào 2 nhóm: <eng>Programmes</eng> - chương trình và <eng>Adjectives</eng> - tính từ. 45 giây nha.
 </teacher_script>
 
 <task>
@@ -94,7 +90,7 @@ Phân loại từ vào 2 nhóm: Programmes - chương trình và Adjectives - t�
 ---
 
 <!-- chunk: answer_1 -->
-<teacher_script pause="0" lang="vi">
+<teacher_script pause="0">
 Ok đáp án nha.
 </teacher_script>
 
@@ -107,31 +103,19 @@ Ok đáp án nha.
 | wildlife | popular |
 </answer>
 
-<teacher_script pause="0" lang="vi">
-Giải thích nha.
+<teacher_script pause="0">
+Giải thích nha. <eng>Programmes</eng> là các chương trình: <eng>English in a Minute, animated films, sports, wildlife</eng>.
 </teacher_script>
 
-<teacher_script pause="0" lang="vi">
-Programmes là các chương trình.
+<teacher_script pause="0">
+<eng>Adjectives</eng> là tính từ mô tả: <eng>educational, interesting, funny, popular</eng>.
 </teacher_script>
 
-<teacher_script pause="0" lang="en">
-English in a Minute. Animated films. Sports. Wildlife.
-</teacher_script>
-
-<teacher_script pause="0" lang="vi">
-Adjectives là tính từ mô tả.
-</teacher_script>
-
-<teacher_script pause="0" lang="en">
-Educational. Interesting. Funny. Popular.
-</teacher_script>
-
-<teacher_script pause="0" lang="vi">
+<teacher_script pause="0">
 Mẹo phân biệt: Tính từ thường kết thúc bằng -ing, -ful, -al, -ar. Nhớ kỹ nha.
 </teacher_script>
 
-<teacher_script pause="30" lang="vi">
+<teacher_script pause="30">
 Sửa bài nếu sai. 30 giây nha.
 </teacher_script>
 
@@ -140,12 +124,8 @@ Sửa bài nếu sai. 30 giây nha.
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 14 - Complete the text
 
-<teacher_script pause="0" lang="en">
-Exercise 2. Complete the text.
-</teacher_script>
-
-<teacher_script pause="60" lang="vi">
-Đọc đoạn văn, chọn từ phù hợp trong khung điền vào chỗ trống. 1 phút nha.
+<teacher_script pause="60">
+Bài 2 <eng>Complete the text</eng> nha. Đọc đoạn văn, chọn từ phù hợp trong khung điền vào chỗ trống. 1 phút nha.
 </teacher_script>
 
 <task>
@@ -174,7 +154,7 @@ VTV1 is a popular TV channel in Viet Nam. It attracts many **(1)** _______ becau
 ---
 
 <!-- chunk: answer_2 -->
-<teacher_script pause="0" lang="vi">
+<teacher_script pause="0">
 Ok đáp án nha.
 </teacher_script>
 
@@ -182,71 +162,31 @@ Ok đáp án nha.
 **Đáp án:** 1. viewers | 2. animal | 3. sports | 4. funny | 5. educational
 </answer>
 
-<teacher_script pause="0" lang="vi">
+<teacher_script pause="0">
 Giải thích từng câu nha.
 </teacher_script>
 
-<teacher_script pause="0" lang="vi">
-Câu 1: VIEWERS - người xem.
+<teacher_script pause="0">
+Câu 1: <eng>VIEWERS</eng> - người xem. <eng>It attracts many viewers</eng>. "Attracts many..." cần danh từ chỉ người. Kênh truyền hình thu hút người xem.
 </teacher_script>
 
-<teacher_script pause="0" lang="en">
-It attracts many viewers.
+<teacher_script pause="0">
+Câu 2: <eng>ANIMAL</eng> - động vật. <eng>The animal programmes show tigers and giraffes</eng>. Tigers và giraffes - hổ và hươu cao cổ là động vật, nên đây là chương trình về động vật.
 </teacher_script>
 
-<teacher_script pause="0" lang="vi">
-"Attracts many..." cần danh từ chỉ người. Kênh truyền hình thu hút người xem.
+<teacher_script pause="0">
+Câu 3: <eng>SPORTS</eng> - thể thao. <eng>People watch races or football matches on sports programmes</eng>. Races - đua và football matches - trận bóng đá là các môn thể thao.
 </teacher_script>
 
-<teacher_script pause="0" lang="vi">
-Câu 2: ANIMAL - động vật.
+<teacher_script pause="0">
+Câu 4: <eng>FUNNY</eng> - hài hước. <eng>Comedies make people laugh because they are funny</eng>. "Make people laugh" là gợi ý - làm người ta cười thì là hài hước.
 </teacher_script>
 
-<teacher_script pause="0" lang="en">
-The animal programmes show tigers and giraffes.
+<teacher_script pause="0">
+Câu 5: <eng>EDUCATIONAL</eng> - có tính giáo dục. <eng>Game shows are both fun and educational</eng>. Game shows vừa vui (fun) vừa có tính giáo dục. Học mà chơi, chơi mà học.
 </teacher_script>
 
-<teacher_script pause="0" lang="vi">
-Tigers và giraffes - hổ và hươu cao cổ là động vật, nên đây là chương trình về động vật.
-</teacher_script>
-
-<teacher_script pause="0" lang="vi">
-Câu 3: SPORTS - thể thao.
-</teacher_script>
-
-<teacher_script pause="0" lang="en">
-People watch races or football matches on sports programmes.
-</teacher_script>
-
-<teacher_script pause="0" lang="vi">
-Races - đua và football matches - trận bóng đá là các môn thể thao.
-</teacher_script>
-
-<teacher_script pause="0" lang="vi">
-Câu 4: FUNNY - hài hước.
-</teacher_script>
-
-<teacher_script pause="0" lang="en">
-Comedies make people laugh because they are funny.
-</teacher_script>
-
-<teacher_script pause="0" lang="vi">
-"Make people laugh" là gợi ý - làm người ta cười thì là hài hước.
-</teacher_script>
-
-<teacher_script pause="0" lang="vi">
-Câu 5: EDUCATIONAL - có tính giáo dục.
-</teacher_script>
-
-<teacher_script pause="0" lang="en">
-Game shows are both fun and educational.
-</teacher_script>
-
-<teacher_script pause="0" lang="vi">
-Game shows vừa vui (fun) vừa có tính giáo dục. Học mà chơi, chơi mà học.
-</teacher_script>
-
-<teacher_script pause="30" lang="vi">
+<teacher_script pause="30">
 Sửa bài nếu sai. 30 giây nha.
 </teacher_script>
 
@@ -255,8 +195,8 @@ Sửa bài nếu sai. 30 giây nha.
 ## GRAMMAR
 
 <!-- chunk: grammar_review -->
-<teacher_script pause="0" lang="vi">
-Phần Grammar nha. Ôn lại Wh-questions và Conjunctions.
+<teacher_script pause="0">
+Phần <eng>Grammar</eng> nha. Ôn lại <eng>Wh-questions</eng> và <eng>Conjunctions</eng>.
 </teacher_script>
 
 <grammar>
@@ -281,27 +221,15 @@ Phần Grammar nha. Ôn lại Wh-questions và Conjunctions.
 | **so** | vì vậy | Nối nguyên nhân → kết quả |
 </grammar>
 
-<teacher_script pause="0" lang="vi">
-Wh-questions là câu hỏi bắt đầu bằng Wh.
+<teacher_script pause="0">
+<eng>Wh-questions</eng> là câu hỏi bắt đầu bằng Wh: <eng>What, Where, When, Who, Why, How often, How many</eng>.
 </teacher_script>
 
-<teacher_script pause="0" lang="en">
-What. Where. When. Who. Why. How often. How many.
+<teacher_script pause="0">
+<eng>Conjunctions</eng> là liên từ: <eng>and, but, so</eng>. Mẹo nhớ: <eng>AND</eng> là cộng, <eng>BUT</eng> là đối, <eng>SO</eng> là kết quả.
 </teacher_script>
 
-<teacher_script pause="0" lang="vi">
-Conjunctions là liên từ.
-</teacher_script>
-
-<teacher_script pause="0" lang="en">
-And. But. So.
-</teacher_script>
-
-<teacher_script pause="0" lang="vi">
-Mẹo nhớ: AND là cộng, BUT là đối, SO là kết quả.
-</teacher_script>
-
-<teacher_script pause="30" lang="vi">
+<teacher_script pause="30">
 Xem lại bảng tóm tắt. 30 giây nha.
 </teacher_script>
 
@@ -310,12 +238,8 @@ Xem lại bảng tóm tắt. 30 giây nha.
 <!-- chunk: exercise_3 -->
 ### Bài 3 trang 14 - Complete each question with a suitable question word
 
-<teacher_script pause="0" lang="en">
-Exercise 3. Complete each question with a suitable question word.
-</teacher_script>
-
-<teacher_script pause="60" lang="vi">
-Dựa vào câu trả lời để chọn từ hỏi phù hợp điền vào chỗ trống. 1 phút nha.
+<teacher_script pause="60">
+Bài 3 <eng>Complete each question with a suitable question word</eng> nha. Dựa vào câu trả lời để chọn từ hỏi phù hợp điền vào chỗ trống. 1 phút nha.
 </teacher_script>
 
 <task>
@@ -359,7 +283,7 @@ Dựa vào câu trả lời để chọn từ hỏi phù hợp điền vào ch�
 ---
 
 <!-- chunk: answer_3 -->
-<teacher_script pause="0" lang="vi">
+<teacher_script pause="0">
 Ok đáp án nha.
 </teacher_script>
 
@@ -367,71 +291,31 @@ Ok đáp án nha.
 **Đáp án:** 1. How many | 2. What | 3. Why | 4. Who | 5. How many
 </answer>
 
-<teacher_script pause="0" lang="vi">
+<teacher_script pause="0">
 Giải thích từng câu nha.
 </teacher_script>
 
-<teacher_script pause="0" lang="vi">
-Câu 1: HOW MANY - Hỏi "bao nhiêu ngày".
+<teacher_script pause="0">
+Câu 1: <eng>HOW MANY</eng> - Hỏi "bao nhiêu ngày". <eng>How many days a week do you go to class?</eng> Trả lời "five days" là số lượng ngày. <eng>How many</eng> + danh từ số nhiều dùng để hỏi số lượng.
 </teacher_script>
 
-<teacher_script pause="0" lang="en">
-How many days a week do you go to class?
+<teacher_script pause="0">
+Câu 2: <eng>WHAT</eng> - Hỏi "xem cái gì". <eng>What did you watch on TV last night?</eng> Trả lời "The Fox Teacher" là tên chương trình. <eng>What</eng> dùng để hỏi về sự vật, sự việc.
 </teacher_script>
 
-<teacher_script pause="0" lang="vi">
-Trả lời "five days" là số lượng ngày. How many + danh từ số nhiều dùng để hỏi số lượng.
+<teacher_script pause="0">
+Câu 3: <eng>WHY</eng> - Hỏi "tại sao". <eng>Why do you like the Wildlife programme?</eng> Trả lời bắt đầu bằng "Because..." là lý do. Hỏi <eng>Why</eng>, trả lời <eng>Because</eng> - nhớ kỹ nha.
 </teacher_script>
 
-<teacher_script pause="0" lang="vi">
-Câu 2: WHAT - Hỏi "xem cái gì".
+<teacher_script pause="0">
+Câu 4: <eng>WHO</eng> - Hỏi "ai". <eng>Who is your favourite person on TV?</eng> Trả lời "Minh Phong" là tên người. <eng>Who</eng> dùng để hỏi về người.
 </teacher_script>
 
-<teacher_script pause="0" lang="en">
-What did you watch on TV last night?
+<teacher_script pause="0">
+Câu 5: <eng>HOW MANY</eng> - Hỏi "bao nhiêu giờ". <eng>How many hours a day do you watch TV?</eng> Trả lời "half an hour" là số lượng thời gian.
 </teacher_script>
 
-<teacher_script pause="0" lang="vi">
-Trả lời "The Fox Teacher" là tên chương trình. What dùng để hỏi về sự vật, sự việc.
-</teacher_script>
-
-<teacher_script pause="0" lang="vi">
-Câu 3: WHY - Hỏi "tại sao".
-</teacher_script>
-
-<teacher_script pause="0" lang="en">
-Why do you like the Wildlife programme?
-</teacher_script>
-
-<teacher_script pause="0" lang="vi">
-Trả lời bắt đầu bằng "Because..." là lý do. Hỏi Why, trả lời Because - nhớ kỹ nha.
-</teacher_script>
-
-<teacher_script pause="0" lang="vi">
-Câu 4: WHO - Hỏi "ai".
-</teacher_script>
-
-<teacher_script pause="0" lang="en">
-Who is your favourite person on TV?
-</teacher_script>
-
-<teacher_script pause="0" lang="vi">
-Trả lời "Minh Phong" là tên người. Who dùng để hỏi về người.
-</teacher_script>
-
-<teacher_script pause="0" lang="vi">
-Câu 5: HOW MANY - Hỏi "bao nhiêu giờ".
-</teacher_script>
-
-<teacher_script pause="0" lang="en">
-How many hours a day do you watch TV?
-</teacher_script>
-
-<teacher_script pause="0" lang="vi">
-Trả lời "half an hour" là số lượng thời gian.
-</teacher_script>
-
-<teacher_script pause="30" lang="vi">
+<teacher_script pause="30">
 Sửa bài nếu sai. 30 giây nha.
 </teacher_script>
 
@@ -440,12 +324,8 @@ Sửa bài nếu sai. 30 giây nha.
 <!-- chunk: exercise_4 -->
 ### Bài 4 trang 14 - Complete with conjunctions
 
-<teacher_script pause="0" lang="en">
-Exercise 4. Complete with conjunctions.
-</teacher_script>
-
-<teacher_script pause="60" lang="vi">
-Điền liên từ and, but, hoặc so. Nhớ mẹo: AND là cộng, BUT là đối, SO là kết quả. 1 phút nha.
+<teacher_script pause="60">
+Bài 4 <eng>Complete with conjunctions</eng> nha. Điền liên từ <eng>and</eng>, <eng>but</eng>, hoặc <eng>so</eng>. Nhớ mẹo: <eng>AND</eng> là cộng, <eng>BUT</eng> là đối, <eng>SO</eng> là kết quả. 1 phút nha.
 </teacher_script>
 
 <task>
@@ -483,7 +363,7 @@ Exercise 4. Complete with conjunctions.
 ---
 
 <!-- chunk: answer_4 -->
-<teacher_script pause="0" lang="vi">
+<teacher_script pause="0">
 Ok đáp án nha.
 </teacher_script>
 
@@ -491,78 +371,38 @@ Ok đáp án nha.
 **Đáp án:** 1. and | 2. so | 3. but | 4. but | 5. so
 </answer>
 
-<teacher_script pause="0" lang="vi">
+<teacher_script pause="0">
 Giải thích từng câu nha.
 </teacher_script>
 
-<teacher_script pause="0" lang="vi">
-Câu 1: AND - Hai chương trình chiếu liên tiếp, bổ sung thông tin.
+<teacher_script pause="0">
+Câu 1: <eng>AND</eng> - Hai chương trình chiếu liên tiếp, bổ sung thông tin. <eng>Ocean Life is on at 7.30, and Laughing Out Loud comes next at 8.00</eng>. 7.30 rồi 8.00 - nối thông tin, dùng <eng>AND</eng>.
 </teacher_script>
 
-<teacher_script pause="0" lang="en">
-Ocean Life is on at 7.30, and Laughing Out Loud comes next at 8.00.
+<teacher_script pause="0">
+Câu 2: <eng>SO</eng> - Thích nên xem mỗi ngày. <eng>I like The Seven Kitties very much, so I watch it every day</eng>. Nguyên nhân dẫn đến kết quả. Thích là nguyên nhân, xem mỗi ngày là kết quả. Dùng <eng>SO</eng>.
 </teacher_script>
 
-<teacher_script pause="0" lang="vi">
-7.30 rồi 8.00 - nối thông tin, dùng AND.
+<teacher_script pause="0">
+Câu 3: <eng>BUT</eng> - British đối lập Vietnamese. <eng>BBC One is a British channel, but VTV6 is a Vietnamese channel</eng>. Kênh Anh so với kênh Việt - hai ý đối lập. Dùng <eng>BUT</eng>.
 </teacher_script>
 
-<teacher_script pause="0" lang="vi">
-Câu 2: SO - Thích nên xem mỗi ngày.
+<teacher_script pause="0">
+Câu 4: <eng>BUT</eng> - Famous đối lập don't like. <eng>Along the Coast is a famous series, but I don't like it</eng>. Nổi tiếng nhưng lại không thích - hai ý đối lập. Dùng <eng>BUT</eng>.
 </teacher_script>
 
-<teacher_script pause="0" lang="en">
-I like The Seven Kitties very much, so I watch it every day.
+<teacher_script pause="0">
+Câu 5: <eng>SO</eng> - Có bài tập nên không xem được. <eng>I have a lot of homework tonight, so I can't watch Eight Feet Below</eng>. Nguyên nhân dẫn đến kết quả. Nhiều bài tập là nguyên nhân, không xem được là kết quả. Dùng <eng>SO</eng>.
 </teacher_script>
 
-<teacher_script pause="0" lang="vi">
-Nguyên nhân → kết quả. Thích là nguyên nhân, xem mỗi ngày là kết quả. Dùng SO.
-</teacher_script>
-
-<teacher_script pause="0" lang="vi">
-Câu 3: BUT - British đối lập Vietnamese.
-</teacher_script>
-
-<teacher_script pause="0" lang="en">
-BBC One is a British channel, but VTV6 is a Vietnamese channel.
-</teacher_script>
-
-<teacher_script pause="0" lang="vi">
-Kênh Anh so với kênh Việt - hai ý đối lập. Dùng BUT.
-</teacher_script>
-
-<teacher_script pause="0" lang="vi">
-Câu 4: BUT - Famous đối lập don't like.
-</teacher_script>
-
-<teacher_script pause="0" lang="en">
-Along the Coast is a famous series, but I don't like it.
-</teacher_script>
-
-<teacher_script pause="0" lang="vi">
-Nổi tiếng nhưng lại không thích - hai ý đối lập. Dùng BUT.
-</teacher_script>
-
-<teacher_script pause="0" lang="vi">
-Câu 5: SO - Có bài tập nên không xem được.
-</teacher_script>
-
-<teacher_script pause="0" lang="en">
-I have a lot of homework tonight, so I can't watch Eight Feet Below.
-</teacher_script>
-
-<teacher_script pause="0" lang="vi">
-Nguyên nhân → kết quả. Nhiều bài tập là nguyên nhân, không xem được là kết quả. Dùng SO.
-</teacher_script>
-
-<teacher_script pause="30" lang="vi">
+<teacher_script pause="30">
 Sửa bài nếu sai. 30 giây nha.
 </teacher_script>
 
 ---
 
 <!-- chunk: summary -->
-<teacher_script pause="0" lang="vi">
+<teacher_script pause="0">
 Tóm tắt Unit 7 nha.
 </teacher_script>
 
@@ -582,37 +422,33 @@ Tóm tắt Unit 7 nha.
 - /ð/ (this, that, weather) - hữu thanh
 </grammar>
 
-<teacher_script pause="0" lang="vi">
-Tóm tắt Unit 7 nha.
-</teacher_script>
-
-<teacher_script pause="0" lang="vi">
+<teacher_script pause="0">
 Từ vựng: Các loại chương trình TV và tính từ mô tả.
 </teacher_script>
 
-<teacher_script pause="0" lang="vi">
-Ngữ pháp: Wh-questions và Conjunctions.
+<teacher_script pause="0">
+Ngữ pháp: <eng>Wh-questions</eng> và <eng>Conjunctions</eng>.
 </teacher_script>
 
-<teacher_script pause="0" lang="vi">
-Phát âm: Hai âm th - một âm vô thanh, một âm hữu thanh.
+<teacher_script pause="0">
+Phát âm: Hai âm <eng>th</eng> - một âm vô thanh, một âm hữu thanh.
 </teacher_script>
 
-<teacher_script pause="30" lang="vi">
+<teacher_script pause="30">
 Xem lại bảng tóm tắt. 30 giây nha.
 </teacher_script>
 
 ---
 
 <!-- chunk: end -->
-<teacher_script pause="0" lang="vi">
+<teacher_script pause="0">
 Ok hết Unit 7 rồi! Chúc mừng nha!
 </teacher_script>
 
-<teacher_script pause="0" lang="vi">
+<teacher_script pause="0">
 Về nhà ôn lại từ vựng và ngữ pháp. Làm thêm bài tập trong sách bài tập nha.
 </teacher_script>
 
-<teacher_script pause="0" lang="vi">
-Unit tiếp theo là Unit 8 - Sports and Games. Chủ đề thể thao, chắc nhiều bạn thích. Hẹn gặp lại!
+<teacher_script pause="0">
+Unit tiếp theo là Unit 8 - <eng>Sports and Games</eng>. Chủ đề thể thao, chắc nhiều bạn thích. Hẹn gặp lại!
 </teacher_script>

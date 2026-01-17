@@ -3,7 +3,7 @@
 ## COMMUNICATION
 
 <!-- chunk: intro -->
-<teacher_script pause="0" lang="vi">
+<teacher_script pause="0">
 Ok lớp 7, bài Communication Unit 7. Mở sách trang 12 đi.
 Bài này học cách hỏi đáp về phương tiện đi lại, và tìm hiểu luật giao thông lạ ở các nước.
 </teacher_script>
@@ -13,11 +13,8 @@ Bài này học cách hỏi đáp về phương tiện đi lại, và tìm hiể
 <!-- chunk: everyday_english -->
 ### Everyday English - Asking about means of transport
 
-<teacher_script pause="0" lang="en">
-Everyday English. Asking about means of transport.
-</teacher_script>
-
-<teacher_script pause="0" lang="vi">
+<teacher_script pause="0">
+<eng>Everyday English. Asking about means of transport.</eng>
 Phần Everyday English. Hỏi người khác đi bằng phương tiện gì nha.
 </teacher_script>
 
@@ -44,8 +41,8 @@ Phần Everyday English. Hỏi người khác đi bằng phương tiện gì nha
 | *(Ba bạn đi làm bằng gì?)* | *(Ba tui thường đi xe buýt.)* |
 </grammar>
 
-<teacher_script pause="30" lang="vi">
-Các em ghi vô tập bài học: How does + người + get to + nơi? Trả lời bằng goes by + phương tiện. 30 giây nha.
+<teacher_script pause="30">
+Các em ghi vô tập bài học: <eng>How does</eng> + người + <eng>get to</eng> + nơi? Trả lời bằng <eng>goes by</eng> + phương tiện. 30 giây nha.
 </teacher_script>
 
 ---
@@ -53,12 +50,8 @@ Các em ghi vô tập bài học: How does + người + get to + nơi? Trả l�
 <!-- chunk: exercise_1 -->
 ### Bài 1 trang 12 - Listen and read
 
-<teacher_script pause="0" lang="en">
-Exercise 1. Listen and read.
-</teacher_script>
-
-<teacher_script pause="0" lang="vi">
-Nghe và đọc hội thoại. Chú ý cách hỏi về phương tiện nha.
+<teacher_script pause="0">
+Bài 1 <eng>Listen and read</eng>. Nghe và đọc hội thoại. Chú ý cách hỏi về phương tiện nha.
 </teacher_script>
 
 <dialogue>
@@ -73,13 +66,10 @@ Nghe và đọc hội thoại. Chú ý cách hỏi về phương tiện nha.
 **Nick:** Mẹ tui thường đi xe buýt. Đôi khi mẹ đạp xe.
 </translation>
 
-<teacher_script pause="0" lang="en">
-How does your mum get to work? She goes by motorbike.
-</teacher_script>
-
-<teacher_script pause="0" lang="vi">
-Cấu trúc quan trọng: How does + người + get to + nơi?
-Trả lời: goes by + phương tiện.
+<teacher_script pause="0">
+<eng>How does your mum get to work? She goes by motorbike.</eng>
+Cấu trúc quan trọng: <eng>How does</eng> + người + <eng>get to</eng> + nơi?
+Trả lời: <eng>goes by</eng> + phương tiện.
 </teacher_script>
 
 ---
@@ -87,12 +77,8 @@ Trả lời: goes by + phương tiện.
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 12 - Work in pairs
 
-<teacher_script pause="0" lang="en">
-Exercise 2. Work in pairs.
-</teacher_script>
-
-<teacher_script pause="0" lang="vi">
-Bài 2. Hỏi nhau về phương tiện đi lại của người thân nha.
+<teacher_script pause="0">
+Bài 2 <eng>Work in pairs</eng>. Hỏi nhau về phương tiện đi lại của người thân nha.
 </teacher_script>
 
 <task>
@@ -126,7 +112,7 @@ B: He goes to work by car. What about your dad?
 A: He often goes by bike. He wants to protect the environment.
 </questions>
 
-<teacher_script pause="0" lang="vi" action="record">
+<teacher_script pause="0" action="record">
 Ghi âm hỏi đáp về 2 người thân trong gia đình nha.
 </teacher_script>
 
@@ -135,11 +121,8 @@ Ghi âm hỏi đáp về 2 người thân trong gia đình nha.
 <!-- chunk: strange_rules_intro -->
 ### Strange traffic rules! - Luật giao thông lạ
 
-<teacher_script pause="0" lang="en">
-Strange traffic rules!
-</teacher_script>
-
-<teacher_script pause="0" lang="vi">
+<teacher_script pause="0">
+<eng>Strange traffic rules!</eng>
 Phần tiếp theo nói về luật giao thông lạ ở các nước. Hay lắm đó!
 </teacher_script>
 
@@ -148,12 +131,8 @@ Phần tiếp theo nói về luật giao thông lạ ở các nước. Hay lắm
 <!-- chunk: exercise_3 -->
 ### Bài 3 trang 13 - Left or right?
 
-<teacher_script pause="0" lang="en">
-Exercise 3. Left or right?
-</teacher_script>
-
-<teacher_script pause="45" lang="vi">
-Bài 3. Khi đi trên đường, bạn đi bên nào? Bên phải hay bên trái?
+<teacher_script pause="45">
+Bài 3 <eng>Left or right?</eng> Khi đi trên đường, bạn đi bên nào? Bên phải hay bên trái?
 Những nước nào đi bên trái? Đánh dấu vô. 45 giây nha.
 </teacher_script>
 
@@ -175,7 +154,7 @@ Những nước nào đi bên trái? Đánh dấu vô. 45 giây nha.
 ---
 
 <!-- chunk: answer_3 -->
-<teacher_script pause="0" lang="vi">
+<teacher_script pause="0">
 Ok đáp án nè.
 </teacher_script>
 
@@ -188,11 +167,8 @@ Ok đáp án nè.
 5. China ✗
 </answer>
 
-<teacher_script pause="0" lang="vi">
+<teacher_script pause="0">
 Anh, Úc, Thái Lan đi bên trái.
-</teacher_script>
-
-<teacher_script pause="0" lang="vi">
 Mỹ với Trung Quốc đi bên phải giống Việt Nam mình. Dễ nhớ hen.
 </teacher_script>
 
@@ -218,12 +194,8 @@ Mỹ với Trung Quốc đi bên phải giống Việt Nam mình. Dễ nhớ hen
 **Audio:** Bài 4 - Listen and complete
 </audio>
 
-<teacher_script pause="0" lang="en">
-Exercise 4. Listen and complete.
-</teacher_script>
-
-<teacher_script pause="30" lang="vi">
-Bài 4. Nghe và điền vào chỗ trống, không quá 3 từ. 30 giây nha.
+<teacher_script pause="30">
+Bài 4 <eng>Listen and complete</eng>. Nghe và điền vào chỗ trống, không quá 3 từ. 30 giây nha.
 </teacher_script>
 
 <questions type="fill_blanks">
@@ -235,16 +207,8 @@ One explanation is that some countries use _______ as the UK.
 ---
 
 <!-- chunk: answer_4 -->
-<teacher_script pause="0" lang="vi">
-Đáp án nè.
-</teacher_script>
-
-<teacher_script pause="0" lang="en">
-The same system.
-</teacher_script>
-
-<teacher_script pause="0" lang="vi">
-The same system - cùng hệ thống.
+<teacher_script pause="0">
+Đáp án nè. <eng>The same system</eng> - cùng hệ thống.
 </teacher_script>
 
 <answer>
@@ -266,12 +230,8 @@ One explanation is that some countries use **the same system** as the UK.
 <!-- chunk: exercise_5 -->
 ### Bài 5 trang 13 - Strange driving rules
 
-<teacher_script pause="0" lang="en">
-Exercise 5. Strange driving rules.
-</teacher_script>
-
-<teacher_script pause="0" lang="vi">
-Bài 5. Đọc các luật lái xe lạ lùng ở các nước nha. Cười xỉu luôn!
+<teacher_script pause="0">
+Bài 5 <eng>Strange driving rules</eng>. Đọc các luật lái xe lạ lùng ở các nước nha. Cười xỉu luôn!
 </teacher_script>
 
 <reading>
@@ -285,7 +245,7 @@ Bài 5. Đọc các luật lái xe lạ lùng ở các nước nha. Cười xỉ
 | 6. In Wisconsin, USA, you must always ride your bike with your hands on the handlebars. | 6. Ở Wisconsin, Mỹ, bạn phải luôn để tay trên ghi đông khi đạp xe. |
 </reading>
 
-<teacher_script pause="0" lang="vi">
+<teacher_script pause="0">
 Luật nào lạ nhất theo em? Cá nhân thầy thấy luật số 2 lạ quá - lái xe bẩn cũng bị phạt!
 </teacher_script>
 
@@ -304,7 +264,7 @@ Luật nào lạ nhất theo em? Cá nhân thầy thấy luật số 2 lạ quá
 ---
 
 <!-- chunk: discussion -->
-<teacher_script pause="0" lang="vi">
+<teacher_script pause="0">
 Thảo luận nhóm: Luật nào lạ nhất?
 </teacher_script>
 
@@ -325,14 +285,14 @@ Thảo luận nhóm: Luật nào lạ nhất?
 | In my opinion, rule number 2 is the strangest - you get fined for driving a dirty car in Moscow. | Theo tui, luật số 2 lạ nhất - bị phạt vì lái xe bẩn ở Moscow. |
 </questions>
 
-<teacher_script pause="0" lang="vi" action="record">
+<teacher_script pause="0" action="record">
 Ghi âm nói về luật giao thông nào em thấy lạ nhất và tại sao nha.
 </teacher_script>
 
 ---
 
 <!-- chunk: end -->
-<teacher_script pause="0" lang="vi">
-Ok hết Communication rồi. Về nhà nhớ cấu trúc: How does + người + get to + nơi?
+<teacher_script pause="0">
+Ok hết Communication rồi. Về nhà nhớ cấu trúc: <eng>How does</eng> + người + <eng>get to</eng> + nơi?
 Bài sau qua Skills 1. Hẹn gặp lại!
 </teacher_script>
