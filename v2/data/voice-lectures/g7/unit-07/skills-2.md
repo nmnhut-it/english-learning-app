@@ -12,6 +12,7 @@ Bài này có phần Listening về vấn đề giao thông, và Writing viết 
 
 <!-- chunk: vocabulary -->
 <vocabulary>
+**Từ vựng bài Listening:**
 1. **traffic problem** : (n) vấn đề giao thông /ˈtræfɪk ˈprɒbləm/
 2. **congested** : (adj) tắc nghẽn, đông đúc /kənˈdʒestɪd/
 3. **one of the most congested cities** : một trong những thành phố tắc nghẽn nhất
@@ -26,6 +27,12 @@ Bài này có phần Listening về vấn đề giao thông, và Writing viết 
 12. **obey the traffic rules** : tuân thủ luật giao thông
 13. **as a result** : kết quả là
 14. **getting worse and worse** : ngày càng tệ hơn
+
+**Từ vựng bài Writing:**
+15. **wild animals** : (n) động vật hoang dã /waɪld ˈænɪməlz/
+16. **public transportation** : (n) phương tiện giao thông công cộng /ˈpʌblɪk ˌtrænspɔːˈteɪʃn/
+17. **private car** : (n) xe riêng /ˈpraɪvət kɑː/
+18. **reduce** : (v) giảm /rɪˈdjuːs/
 </vocabulary>
 
 <teacher_script pause="90">
@@ -81,15 +88,15 @@ I can see a busy street with heavy traffic. There are many vehicles: cars, buses
 <reading>
 | English | Vietnamese |
 |---------|------------|
+| Big cities around the world have traffic problems. Mumbai in India is one of them. | Các thành phố lớn trên thế giới đều có vấn đề giao thông. Mumbai ở Ấn Độ là một trong số đó. |
 | Mumbai is one of the most congested cities in the world. | Mumbai là một trong những thành phố tắc nghẽn nhất thế giới. |
-| Traffic jams happen every day and the traffic is getting worse and worse. | Tắc đường xảy ra mỗi ngày và giao thông ngày càng tệ hơn. |
-| There are several reasons for the traffic problems. | Có vài lý do cho vấn đề giao thông. |
-| First, there is an increase in population. | Đầu tiên, dân số tăng lên. |
-| Twenty million people live and work here. | 20 triệu người sống và làm việc ở đây. |
-| Second, many roads are narrow and bumpy. | Thứ hai, nhiều con đường hẹp và gồ ghề. |
-| They are not in good condition. | Chúng không trong tình trạng tốt. |
-| Third, many people don't obey the traffic rules. | Thứ ba, nhiều người không tuân thủ luật giao thông. |
-| As a result, traffic jams are getting worse and worse. | Kết quả là, tắc đường ngày càng tệ hơn. |
+| Traffic jams happen nearly every day, so drivers have to spend a lot of time on the road. | Tắc đường xảy ra gần như mỗi ngày, nên tài xế phải mất nhiều thời gian trên đường. |
+| There are several reasons for traffic jams in this city. | Có vài lý do cho tình trạng tắc đường ở thành phố này. |
+| One reason is its increase in population. | Một lý do là sự gia tăng dân số. |
+| With nearly 20 million, Mumbai has too many people on the road. | Với gần 20 triệu dân, Mumbai có quá nhiều người trên đường. |
+| Another reason is that the roads in Mumbai are narrow, and many are not in good condition. | Một lý do khác là đường ở Mumbai hẹp, và nhiều con đường không trong tình trạng tốt. |
+| Also, many road users do not obey the traffic rules. | Ngoài ra, nhiều người tham gia giao thông không tuân thủ luật giao thông. |
+| As a result, this problem is getting worse and worse. | Kết quả là, vấn đề này ngày càng tệ hơn. |
 </reading>
 
 <teacher_script pause="60">
@@ -101,8 +108,8 @@ I can see a busy street with heavy traffic. There are many vehicles: cars, buses
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 15 - Listen and choose
 
-<audio src="<!-- TODO: g7_u07_skills2_listening.mp3 -->">
-**Audio:** Listen to the passage about traffic problems
+<audio src="https://img.loigiaihay.com/picture/2022/0815/052.mp3">
+**Audio:** Listen to the passage about traffic problems in Mumbai
 </audio>
 
 <teacher_script pause="30">
