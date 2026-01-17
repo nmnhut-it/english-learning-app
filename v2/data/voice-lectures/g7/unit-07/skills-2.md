@@ -11,6 +11,10 @@ Bài này có phần Listening về vấn đề giao thông, và Writing viết 
 ---
 
 <!-- chunk: vocabulary -->
+<teacher_script pause="0">
+Bấm nút "Bắt đầu" bên dưới để học từ vựng bài nghe. Máy sẽ đọc và các em đọc theo. Sau đó các em làm bài trắc nghiệm từ vựng rồi ghi từ vựng vô tập.
+</teacher_script>
+
 <vocabulary>
 **Từ vựng bài Listening:**
 1. **traffic problem** : (n) vấn đề giao thông /ˈtræfɪk ˈprɒbləm/

@@ -11,6 +11,10 @@ Bài này học về luật an toàn giao thông. Có phần Reading và Speakin
 ---
 
 <!-- chunk: vocabulary -->
+<teacher_script pause="0">
+Bấm nút "Bắt đầu" bên dưới để học từ vựng bài đọc. Máy sẽ đọc và các em đọc theo. Sau đó các em làm bài trắc nghiệm từ vựng rồi ghi từ vựng vô tập.
+</teacher_script>
+
 <vocabulary>
 **Từ vựng bài đọc:**
 1. **road safety** : (n) an toàn giao thông /rəʊd ˈseɪfti/

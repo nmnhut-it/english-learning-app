@@ -14,7 +14,7 @@ Bài này ôn lại từ vựng và ngữ pháp đã học trong Unit 7. Chuẩn
 ### Vocabulary
 
 <teacher_script pause="0">
-<eng>Vocabulary.</eng> Ôn lại từ vựng trước nha.
+Bấm nút "Bắt đầu" bên dưới để ôn lại từ vựng Unit 7. Máy sẽ đọc và các em đọc theo. Sau đó các em làm bài trắc nghiệm từ vựng.
 </teacher_script>
 
 <vocabulary>
