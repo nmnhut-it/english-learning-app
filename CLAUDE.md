@@ -478,123 +478,6 @@ Use `<vocabulary>` tag for markdown viewer to render with click-to-pronounce.
 
 ---
 
-### 2.1 Vocabulary TTS Reading Pattern (QUAN TRỌNG)
-
-**Mục tiêu:** Tiết kiệm thời gian, học sinh nghe và lặp lại hiệu quả.
-
-**Pattern cho MỖI từ vựng:**
-```
-1. Đọc từ tiếng Anh (1 lần)
-2. Đọc nghĩa tiếng Việt (1 lần)
-3. Đọc lại từ tiếng Anh (3 lần) - có pause ngắn giữa mỗi lần
-4. Đọc nghĩa tiếng Việt (1 lần)
-```
-
-**Ví dụ TTS output cho từ "talent show":**
-```
-<eng>talent show</eng>     → English voice
-chương trình tài năng      → Vietnamese voice
-<eng>talent show</eng>     → English voice (lần 1)
-<eng>talent show</eng>     → English voice (lần 2)
-<eng>talent show</eng>     → English voice (lần 3)
-chương trình tài năng      → Vietnamese voice
-```
-
-**Teacher script pattern:**
-```markdown
-<teacher_script pause="0">
-Giờ học từ vựng nha. Nghe thầy đọc rồi đọc theo.
-</teacher_script>
-
-<vocabulary>
-1. **talent show** : (n) chương trình tài năng /ˈtælənt ʃəʊ/
-2. **programme** : (n) chương trình /ˈprəʊɡræm/
-</vocabulary>
-
-<!-- TTS tự động đọc theo pattern: word → meaning → word x3 → meaning -->
-<teacher_script pause="0" type="vocab_drill">
-<eng>talent show</eng> - chương trình tài năng.
-<eng>talent show</eng>. <eng>talent show</eng>. <eng>talent show</eng>.
-chương trình tài năng.
-</teacher_script>
-
-<teacher_script pause="0" type="vocab_drill">
-<eng>programme</eng> - chương trình.
-<eng>programme</eng>. <eng>programme</eng>. <eng>programme</eng>.
-chương trình.
-</teacher_script>
-```
-
-**Lưu ý:**
-- Pause ngắn (~0.5s) giữa mỗi lần đọc từ
-- Giọng đọc rõ ràng, không quá nhanh
-- Học sinh có thể đọc theo trong khoảng pause
-
----
-
-### 2.2 Vocabulary Review Workflow (Chép bài trước, Quiz sau)
-
-**QUAN TRỌNG:** KHÔNG tự động hiện quiz ngay. Phải cho học sinh chép bài trước!
-
-**Workflow:**
-```
-1. Hiển thị từ vựng + TTS đọc theo pattern
-2. NPC nói: "Các em chép từ vựng vào tập cho thầy"
-3. Pause để học sinh chép (2-3 phút)
-4. NPC nói: "Xong chưa? Giờ làm quiz kiểm tra nha"
-5. Hiện quiz
-6. Khi trả lời đúng → Âm thanh "Giỏi lắm!"
-```
-
-**Teacher script pattern:**
-```markdown
-<!-- CHUNK: vocabulary_display -->
-<teacher_script pause="0">
-Đây là từ vựng bài hôm nay. Nghe thầy đọc nha.
-</teacher_script>
-
-<vocabulary>
-1. **talent show** : (n) chương trình tài năng /ˈtælənt ʃəʊ/
-2. **programme** : (n) chương trình /ˈprəʊɡræm/
-</vocabulary>
-
-<!-- TTS vocab drill scripts here... -->
-
----
-
-<!-- CHUNK: vocabulary_copy -->
-<teacher_script pause="180">
-Ok, giờ các em chép từ vựng vào tập cho thầy nha. 3 phút.
-</teacher_script>
-
-<teacher_script pause="0">
-Chép xong chưa? Giờ làm quiz kiểm tra xem nhớ được bao nhiêu từ nha.
-</teacher_script>
-
----
-
-<!-- CHUNK: vocabulary_quiz -->
-<questions type="vocab_quiz" feedback="praise">
-<!-- Quiz questions here -->
-<!-- feedback="praise" → Phát âm thanh "Giỏi lắm!" khi đúng -->
-</questions>
-```
-
-**Quiz feedback sounds:**
-| Result | Sound | Text |
-|--------|-------|------|
-| Correct | `praise.mp3` | "Giỏi lắm!" |
-| Incorrect | `try_again.mp3` | "Thử lại nha" |
-| All correct | `excellent.mp3` | "Xuất sắc! Làm tốt lắm!" |
-
-**Tag attribute cho quiz:**
-```markdown
-<questions type="vocab_quiz" feedback="praise">
-```
-- `feedback="praise"` → Bật âm thanh khen khi đúng
-
----
-
 ### 3. Content Blocks
 
 #### 3.1 Dialogue (Hội thoại)
@@ -1389,49 +1272,12 @@ Mở sách trang 6 tập 2 đi.
 </vocabulary>
 
 <teacher_script pause="0" lang="vi">
-Đây là từ vựng unit này. Nghe thầy đọc rồi đọc theo nha.
+Đây là từ vựng unit này. Bấm vô từ để nghe phát âm nha.
 </teacher_script>
 
-<!-- TTS vocab drill: từ → nghĩa → từ x3 → nghĩa -->
-<teacher_script pause="0" type="vocab_drill">
-<eng>talent show</eng> - chương trình tài năng.
-<eng>talent show</eng>. <eng>talent show</eng>. <eng>talent show</eng>.
-chương trình tài năng.
+<teacher_script pause="120" lang="vi">
+Ghi từ vựng vô vở đi. 2 phút hen.
 </teacher_script>
-
-<teacher_script pause="0" type="vocab_drill">
-<eng>programme</eng> - chương trình.
-<eng>programme</eng>. <eng>programme</eng>. <eng>programme</eng>.
-chương trình.
-</teacher_script>
-
-<teacher_script pause="0" type="vocab_drill">
-<eng>animated film</eng> - phim hoạt hình.
-<eng>animated film</eng>. <eng>animated film</eng>. <eng>animated film</eng>.
-phim hoạt hình.
-</teacher_script>
-
-<teacher_script pause="180" lang="vi">
-Ok, giờ các em chép từ vựng vào tập cho thầy nha. 3 phút.
-</teacher_script>
-
-<teacher_script pause="0" lang="vi">
-Chép xong chưa? Giờ làm quiz kiểm tra xem nhớ được bao nhiêu từ nha.
-</teacher_script>
-
-<questions type="vocab_quiz" feedback="praise">
-**1.** "talent show" nghĩa là gì?
-- A. chương trình
-- B. chương trình tài năng
-- C. phim hoạt hình
-
-**2.** "animated film" nghĩa là gì?
-- A. chương trình tài năng
-- B. chương trình
-- C. phim hoạt hình
-</questions>
-
-<!-- feedback="praise" → Âm thanh "Giỏi lắm!" khi đúng -->
 
 ---
 
@@ -1702,9 +1548,9 @@ Mỗi chunk phải có **teacher_script TRƯỚC** và **SAU** để hướng d�
 ### Ví dụ cụ thể
 
 ```markdown
-<!-- CHUNK: vocabulary_display -->
+<!-- CHUNK: vocabulary -->
 <teacher_script pause="0">
-Ok đây là từ vựng Unit 7. Nghe thầy đọc rồi đọc theo nha.
+Ok đây là từ vựng Unit 7. Click vô từ để nghe phát âm.
 </teacher_script>
 
 <vocabulary>
@@ -1712,48 +1558,18 @@ Ok đây là từ vựng Unit 7. Nghe thầy đọc rồi đọc theo nha.
 2. **cycle** : (v) đạp xe /ˈsaɪkl/
 </vocabulary>
 
-<!-- TTS vocab drill: từ → nghĩa → từ x3 → nghĩa -->
-<teacher_script pause="0" type="vocab_drill">
-<eng>traffic</eng> - giao thông.
-<eng>traffic</eng>. <eng>traffic</eng>. <eng>traffic</eng>.
-giao thông.
+<teacher_script pause="120">
+Ghi từ vựng vô vở đi. 2 phút.
 </teacher_script>
 
-<teacher_script pause="0" type="vocab_drill">
-<eng>cycle</eng> - đạp xe.
-<eng>cycle</eng>. <eng>cycle</eng>. <eng>cycle</eng>.
-đạp xe.
-</teacher_script>
-
----
-
-<!-- CHUNK: vocabulary_copy -->
-<teacher_script pause="180">
-Ok, giờ các em chép từ vựng vào tập cho thầy nha. 3 phút.
+<!-- CHUNK: record vocabulary -->
+<teacher_script pause="0" action="record">
+Bấm nút Ghi âm để đọc lại và gửi cho thầy sửa.
 </teacher_script>
 
 <teacher_script pause="0">
-Chép xong chưa? Giờ làm quiz kiểm tra xem nhớ được bao nhiêu từ nha.
+Xong rồi thì bấm tiếp tục.
 </teacher_script>
-
----
-
-<!-- CHUNK: vocabulary_quiz -->
-<questions type="vocab_quiz" feedback="praise">
-**1.** "traffic" nghĩa là gì?
-- A. đạp xe
-- B. giao thông
-- C. đường phố
-
-**2.** "cycle" nghĩa là gì?
-- A. giao thông
-- B. xe đạp
-- C. đạp xe
-</questions>
-
-<!-- feedback="praise" → Âm thanh "Giỏi lắm!" khi đúng -->
-
----
 
 <!-- CHUNK: dialogue -->
 <teacher_script pause="0">
@@ -1804,21 +1620,14 @@ Sửa bài dịch nếu sai. 1 phút.
 | # | Chunk | Trước (giới thiệu) | Content | Sau (hướng dẫn) |
 |---|-------|-------------------|---------|-----------------|
 | 1 | intro | "Unit X nha - [Topic]" | - | "Mở sách trang Y đi" |
-| 2 | vocabulary_display | "Đây là từ vựng. Nghe thầy đọc" | `<vocabulary>` + TTS drill | - |
-| 3 | vocabulary_copy | - | - | "Chép từ vựng vào tập cho thầy. 3 phút" |
-| 4 | vocabulary_quiz | "Giờ làm quiz kiểm tra" | `<questions type="vocab_quiz" feedback="praise">` | "Giỏi lắm!" khi đúng |
-| 5 | dialogue | "Đây là hội thoại. Đọc và dịch" | `<dialogue>` | "Dịch vô vở. 3 phút" |
-| 6 | translation | "Đây là bản dịch. So sánh" | `<translation>` | "Sửa nếu sai. 1 phút" |
-| 7 | record_dialogue | "Đọc hội thoại và record" | Record button | "Xong bấm tiếp" |
-| 8 | exercise_N | "Bài N, [loại bài]" | `<task>` + `<questions>` | "[Thời gian] nha" |
-| 9 | answer_N | "Ok đáp án nha" | `<answer>` + `<explanation>` | "Sửa bài. 30 giây" |
-| 10 | end | "Hết [Section]. Về học từ vựng" | - | - |
-
-**Vocabulary Pattern (xem section 2.1 và 2.2):**
-- TTS đọc: từ → nghĩa → từ x3 → nghĩa
-- Cho học sinh chép bài trước
-- Quiz sau khi chép xong
-- Âm thanh "Giỏi lắm!" khi đúng
+| 2 | vocabulary | "Đây là từ vựng. Click nghe phát âm" | `<vocabulary>` | "Ghi vô vở. 2 phút" |
+| 3 | record_vocab | "Đọc từ vựng và record" | Record button | "Xong bấm tiếp" |
+| 4 | dialogue | "Đây là hội thoại. Đọc và dịch" | `<dialogue>` | "Dịch vô vở. 3 phút" |
+| 5 | translation | "Đây là bản dịch. So sánh" | `<translation>` | "Sửa nếu sai. 1 phút" |
+| 6 | record_dialogue | "Đọc hội thoại và record" | Record button | "Xong bấm tiếp" |
+| 7 | exercise_N | "Bài N, [loại bài]" | `<task>` + `<questions>` | "[Thời gian] nha" |
+| 8 | answer_N | "Ok đáp án nha" | `<answer>` + `<explanation>` | "Sửa bài. 30 giây" |
+| 9 | end | "Hết [Section]. Về học từ vựng" | - | - |
 
 ---
 
@@ -1827,17 +1636,11 @@ Sửa bài dịch nếu sai. 1 phút.
 | # | Chunk | Trước | Content | Sau |
 |---|-------|-------|---------|-----|
 | 1 | intro | "A Closer Look 1 nha" | - | - |
-| 2 | vocabulary_display | "Từ vựng mới nè. Nghe thầy đọc" | `<vocabulary>` + TTS drill | - |
-| 3 | vocabulary_copy | - | - | "Chép từ vựng vào tập cho thầy. 3 phút" |
-| 4 | vocabulary_quiz | "Giờ làm quiz kiểm tra" | `<questions type="vocab_quiz" feedback="praise">` | "Giỏi lắm!" khi đúng |
+| 2 | vocabulary | "Từ vựng mới nè" | `<vocabulary>` | "Ghi vô vở. 2 phút" |
+| 3 | record_vocab | "Record từ vựng" | Record button | "Xong bấm tiếp" |
+| 4 | vocab_game | "Chơi game từ vựng" | Game component | "Xong bấm tiếp" |
 | 5-N | exercises | ... | ... | ... |
 | P | pronunciation | "Phần phát âm. Nghe và lặp lại" | `<pronunciation>` | "Record phát âm" |
-
-**Vocabulary Pattern (xem section 2.1 và 2.2):**
-- TTS đọc: từ → nghĩa → từ x3 → nghĩa
-- Cho học sinh chép bài trước
-- Quiz sau khi chép xong
-- Âm thanh "Giỏi lắm!" khi đúng
 
 ---
 
@@ -2201,16 +2004,9 @@ Ok hết Getting Started rồi. Về nhà học từ vựng, bài sau A Closer L
 | Attribute | Values | Description |
 |-----------|--------|-------------|
 | `pause` | 0-600 | Giây chờ sau khi nói (0 = chờ student bấm tiếp) |
-| `type` | intro/instruction/answer/vocab_drill | Loại script (optional). `vocab_drill` cho TTS đọc từ vựng |
+| `type` | intro/instruction/answer | Loại script (optional) |
 | `action` | record/photo/game | Hiển thị nút tương ứng |
 | `href` | URL | File audio đã tạo sẵn (optional) |
-
-## Questions Attributes
-
-| Attribute | Values | Description |
-|-----------|--------|-------------|
-| `type` | multiple_choice/matching/vocab_quiz/... | Loại câu hỏi |
-| `feedback` | praise | Bật âm thanh khen khi đúng ("Giỏi lắm!") |
 
 ---
 
