@@ -3,7 +3,7 @@
 ## GETTING STARTED - What can we do to protect the environment?
 
 <teacher_script pause="0">
-Ok lớp 8, Unit 7 nha - Environmental Protection. Bảo vệ môi trường. Mở sách trang 72 đi.
+Ok lớp 8, <eng>Unit 7 - Environmental Protection</eng>. Bảo vệ môi trường. Chủ đề này hay ra thi đó, tập trung nha. Mở sách trang 72 đi.
 </teacher_script>
 
 ---
@@ -53,7 +53,7 @@ Bấm nút Ghi âm để đọc lại và gửi cho thầy sửa nha.
 ### Bài 1 trang 72 - Listen and read
 
 <teacher_script pause="0">
-Bài 1. Nghe và đọc hội thoại. Đây là buổi họp câu lạc bộ môi trường, tụi nó đang thảo luận về các vấn đề môi trường.
+Bài 1 <eng>Listen and read</eng>. Nghe và đọc hội thoại. Đây là buổi họp câu lạc bộ môi trường, tụi nó đang thảo luận về các vấn đề môi trường. Chủ đề này quan trọng cho thi nha.
 </teacher_script>
 
 <task>
@@ -113,7 +113,7 @@ Ok sửa bài dịch nha. Đối chiếu với bản dịch trên màn hình.
 ### Bài 2 trang 73 - Match
 
 <teacher_script pause="60">
-Bài 2, nối cụm từ với định nghĩa. 1 phút nha.
+Bài 2 <eng>Match the phrases in A with their meanings in B</eng>. Nối cụm từ với định nghĩa. 1 phút nha. Dạng bài này hay ra thi, cần nhớ kỹ từ vựng.
 </teacher_script>
 
 <task>
@@ -147,12 +147,32 @@ Bài 2, nối cụm từ với định nghĩa. 1 phút nha.
 </translation>
 
 <teacher_script pause="0" type="answer">
-Đáp án: 1-C, 2-D, 3-E, 4-A, 5-B.
+Đáp án nha.
 </teacher_script>
 
 <answer>
 **Đáp án:** 1-C | 2-D | 3-E | 4-A | 5-B
 </answer>
+
+<teacher_script pause="0">
+1-C: <eng>Reduce carbon footprint</eng> = <eng>produce less CO2</eng>, giảm lượng CO2 thải ra.
+</teacher_script>
+
+<teacher_script pause="0">
+2-D: <eng>Turn off devices</eng> = <eng>save electricity</eng>, tắt thiết bị = tiết kiệm điện.
+</teacher_script>
+
+<teacher_script pause="0">
+3-E: <eng>Plant trees</eng> = <eng>make neighbourhood greener</eng>, trồng cây = làm xanh khu phố.
+</teacher_script>
+
+<teacher_script pause="0">
+4-A: <eng>Avoid single-use</eng> = <eng>not use items used once</eng>, tránh dùng một lần.
+</teacher_script>
+
+<teacher_script pause="0">
+5-B: <eng>Stop littering</eng> = <eng>not throw rubbish</eng>, ngừng xả rác.
+</teacher_script>
 
 <explanation>
 **Giải thích:**
@@ -168,7 +188,7 @@ Bài 2, nối cụm từ với định nghĩa. 1 phút nha.
 ### Bài 3 trang 73 - Fill in the blanks
 
 <teacher_script pause="60">
-Bài 3, điền từ vào chỗ trống. 1 phút nha.
+Bài 3 <eng>Fill in the blanks with words from the conversation</eng>. Điền từ vào chỗ trống. 1 phút nha. Nhớ đọc lại hội thoại để tìm từ chính xác.
 </teacher_script>
 
 <task>
@@ -190,12 +210,32 @@ Bài 3, điền từ vào chỗ trống. 1 phút nha.
 </questions>
 
 <teacher_script pause="0" type="answer">
-Ok đáp án nha. 1 là pollution, 2 là reduce, 3 là single-use, 4 là carbon footprint, 5 là environment programmes.
+Ok đáp án nha.
 </teacher_script>
 
 <answer>
 **Đáp án:** 1. pollution | 2. reduce | 3. single-use | 4. carbon footprint | 5. environment programmes
 </answer>
+
+<teacher_script pause="0">
+Câu 1 là <eng>pollution</eng> - ô nhiễm. <eng>Air and water pollution causes health problems</eng>.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 2 là <eng>reduce</eng> - giảm. <eng>We can reduce our carbon footprint</eng>.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 3 là <eng>single-use</eng> - dùng một lần. <eng>Plastic bags are single-use products</eng>.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 4 là <eng>carbon footprint</eng> - lượng khí thải carbon. Cụm từ quan trọng nha, nhớ kỹ.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 5 là <eng>environment programmes</eng> - chương trình môi trường.
+</teacher_script>
 
 <explanation>
 **Giải thích:**
@@ -211,7 +251,7 @@ Ok đáp án nha. 1 là pollution, 2 là reduce, 3 là single-use, 4 là carbon 
 ### Bài 4 trang 73 - Complete the phrases
 
 <teacher_script pause="45">
-Bài 4, hoàn thành các cụm từ. 45 giây thôi.
+Bài 4 <eng>Complete the phrases with the words given</eng>. Hoàn thành các cụm từ. 45 giây thôi, bài này nhanh.
 </teacher_script>
 
 <task>
@@ -231,12 +271,32 @@ Bài 4, hoàn thành các cụm từ. 45 giây thôi.
 </questions>
 
 <teacher_script pause="0" type="answer">
-Đáp án: 1 là 3Rs, 2 là water, 3 là endangered, 4 là plastic, 5 là single-use.
+Đáp án nha.
 </teacher_script>
 
 <answer>
 **Đáp án:** 1. 3Rs | 2. water | 3. endangered | 4. plastic | 5. single-use
 </answer>
+
+<teacher_script pause="0">
+Câu 1: <eng>practise the 3Rs</eng> - thực hành 3R. <eng>Reduce, reuse, recycle</eng> - giảm thiểu, tái sử dụng, tái chế.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 2: <eng>water pollution</eng> - ô nhiễm nước.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 3: <eng>endangered species</eng> - các loài có nguy cơ tuyệt chủng. Cụm từ này hay ra thi lắm nha.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 4: <eng>plastic rubbish</eng> - rác nhựa.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 5: <eng>single-use products</eng> - sản phẩm dùng một lần.
+</teacher_script>
 
 <explanation>
 **Giải thích:**
@@ -252,7 +312,7 @@ Bài 4, hoàn thành các cụm từ. 45 giây thôi.
 ### Bài 5 trang 73 - Quiz
 
 <teacher_script pause="60">
-Bài 5. Trắc nghiệm: Bạn có thân thiện với môi trường không? Chọn câu trả lời phù hợp với bản thân. 1 phút nha.
+Bài 5 <eng>Quiz: Are you eco-friendly?</eng> Trắc nghiệm: Bạn có thân thiện với môi trường không? Chọn câu trả lời phù hợp với bản thân. 1 phút nha.
 </teacher_script>
 
 <task>
@@ -299,11 +359,11 @@ Bài 5. Trắc nghiệm: Bạn có thân thiện với môi trường không? Ch
 </questions>
 
 <teacher_script pause="0" type="answer">
-Nếu chọn nhiều A và C (Always), bạn rất eco-friendly! Nếu chọn nhiều B, cần cố gắng thêm nha.
+Nếu chọn nhiều <eng>Always</eng>, bạn rất <eng>eco-friendly</eng>. Nếu chọn nhiều <eng>Sometimes</eng> hoặc <eng>Never</eng>, cần cố gắng thêm nha. Bảo vệ môi trường bắt đầu từ những việc nhỏ.
 </teacher_script>
 
 ---
 
 <teacher_script pause="0">
-Ok hết Getting Started rồi. Về nhà học từ vựng về môi trường, bài sau qua A Closer Look 1 nha.
+Ok hết <eng>Getting Started</eng> rồi. Về nhà học từ vựng về môi trường, quan trọng cho thi đó. Bài sau qua <eng>A Closer Look 1</eng> nha.
 </teacher_script>

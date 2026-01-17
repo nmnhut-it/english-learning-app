@@ -4,7 +4,7 @@
 
 <!-- chunk: intro -->
 <teacher_script pause="0">
-Ok lớp 6, Skills 2 nha - Listening và Writing.
+Ok lớp 6, <eng>Skills 2</eng> nha - <eng>Listening</eng> và <eng>Writing</eng>.
 </teacher_script>
 
 <teacher_script pause="0">
@@ -50,14 +50,14 @@ Xong rồi thì bấm tiếp tục nha.
 
 <!-- chunk: listening_intro -->
 <teacher_script pause="0">
-Phần Listening nha. Có 2 bài tập.
+Phần <eng>Listening</eng> nha. Có 2 bài tập.
 </teacher_script>
 
 ---
 
 <!-- chunk: tapescript -->
 <teacher_script pause="0">
-Đây là nội dung bài nghe nha. Đọc trước để hiểu.
+Đây là nội dung bài nghe nha. Đọc trước để hiểu, đỡ bị lạc khi nghe audio.
 </teacher_script>
 
 <reading>
@@ -86,7 +86,7 @@ Phần Listening nha. Có 2 bài tập.
 ### Bài 1 trang 13 - Listen and tick
 
 <teacher_script pause="60">
-Bài 1. Nghe audio, đánh dấu kênh đúng cho mỗi chương trình. Đọc tên chương trình trước, rồi nghe và tick vào cột kênh phù hợp. 1 phút nha.
+Bài 1 <eng>Listen and tick</eng> nha. Nghe audio, đánh dấu kênh đúng cho mỗi chương trình. Đọc tên chương trình trước, rồi nghe và tick vào cột kênh phù hợp. 1 phút nha.
 </teacher_script>
 
 <task>
@@ -131,23 +131,19 @@ Ok đáp án nha.
 </answer>
 
 <teacher_script pause="0">
-Giải thích nha.
+Giải thích nha. <eng>Green Summer</eng> - Mùa Hè Xanh, chiếu trên kênh 1.
 </teacher_script>
 
 <teacher_script pause="0">
-Green Summer - Mùa Hè Xanh, chiếu trên kênh 1.
+<eng>My Childhood</eng> - Tuổi Thơ Của Tôi, chiếu trên kênh 2.
 </teacher_script>
 
 <teacher_script pause="0">
-My Childhood - Tuổi Thơ Của Tôi, chiếu trên kênh 2.
+<eng>Harry Potter</eng> - bộ phim nổi tiếng, chiếu trên kênh 3. Ai chưa xem Harry Potter thì nên xem thử nha.
 </teacher_script>
 
 <teacher_script pause="0">
-Harry Potter - bộ phim nổi tiếng, chiếu trên kênh 3.
-</teacher_script>
-
-<teacher_script pause="0">
-English and Fun - Tiếng Anh Vui, cũng chiếu trên kênh 1 giống Green Summer.
+<eng>English and Fun</eng> - Tiếng Anh Vui, cũng chiếu trên kênh 1 giống <eng>Green Summer</eng>.
 </teacher_script>
 
 <teacher_script pause="30">
@@ -160,7 +156,7 @@ Sửa bài nếu sai. 30 giây nha.
 ### Bài 2 trang 13 - True or False
 
 <teacher_script pause="45">
-Bài 2. Nghe lại audio, xác định các câu sau Đúng (T) hay Sai (F). 45 giây nha.
+Bài 2 <eng>True or False</eng> nha. Nghe lại audio, xác định các câu sau Đúng hay Sai. 45 giây nha.
 </teacher_script>
 
 <task>
@@ -207,19 +203,19 @@ Giải thích từng câu nha.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 1 là TRUE - Đúng. Trong bài nghe nói: "Green Summer, a music programme, is on channel 1."
+Câu 1 là <eng>TRUE</eng> - Đúng. Bài nghe nói: <eng>Green Summer, a music programme, is on channel 1</eng>. Rõ ràng <eng>Green Summer</eng> là <eng>music programme</eng>.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 2 là FALSE - Sai. Bài nghe nói "a country BOY and his dog Billy", không phải a girl. Đó là câu chuyện về một cậu bé, không phải cô gái.
+Câu 2 là <eng>FALSE</eng> - Sai. Bài nghe nói: <eng>It's the story of a country BOY and his dog Billy</eng>. Bài nghe nói "a country BOY" - cậu bé, không phải "a girl" - cô gái. Đây là bẫy đề hay ra, cẩn thận nha.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 3 là TRUE - Đúng. Bài nghe nói: "Children all over the world love this film."
+Câu 3 là <eng>TRUE</eng> - Đúng. Bài nghe nói: <eng>Children all over the world love this film</eng>. Trẻ em trên thế giới đều thích Harry Potter.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 4 là FALSE - Sai. Bài nghe nói English and Fun chiếu lúc 9 giờ (nine o'clock), không phải 5 giờ.
+Câu 4 là <eng>FALSE</eng> - Sai. Bài nghe nói: <eng>It's at nine o'clock</eng>. <eng>English and Fun</eng> chiếu lúc 9 giờ - <eng>nine o'clock</eng>, không phải 5 giờ - <eng>five o'clock</eng>.
 </teacher_script>
 
 <teacher_script pause="30">
@@ -232,7 +228,7 @@ Sửa bài nếu sai. 30 giây nha.
 
 <!-- chunk: writing_intro -->
 <teacher_script pause="0">
-Phần Writing nha. Viết về thói quen xem TV của mình.
+Phần <eng>Writing</eng> nha. Viết về thói quen xem TV của mình.
 </teacher_script>
 
 ---
@@ -241,7 +237,7 @@ Phần Writing nha. Viết về thói quen xem TV của mình.
 ### Bài 3 trang 13 - Answer the questions
 
 <teacher_script pause="0">
-Bài 3 nha. Trả lời các câu hỏi về thói quen xem TV của mình.
+Bài 3 <eng>Answer the questions</eng> nha. Trả lời các câu hỏi về thói quen xem TV của mình.
 </teacher_script>
 
 <task>
@@ -312,7 +308,7 @@ Bài 3 nha. Trả lời các câu hỏi về thói quen xem TV của mình.
 </explanation>
 
 <teacher_script pause="0">
-Mình chọn đáp án phù hợp với thói quen của mình nha, không nhất thiết phải giống mẫu.
+Mình chọn đáp án phù hợp với thói quen của mình nha, không nhất thiết phải giống mẫu. Mỗi người mỗi kiểu.
 </teacher_script>
 
 ---
@@ -321,7 +317,7 @@ Mình chọn đáp án phù hợp với thói quen của mình nha, không nhấ
 ### Bài 4 trang 13 - Write a paragraph
 
 <teacher_script pause="0">
-Bài 4 nha. Viết một đoạn văn về thói quen xem TV dựa vào câu trả lời ở bài 3.
+Bài 4 <eng>Write a paragraph</eng> nha. Viết một đoạn văn về thói quen xem TV dựa vào câu trả lời ở bài 3.
 </teacher_script>
 
 <task>
@@ -353,7 +349,7 @@ Bài 4 nha. Viết một đoạn văn về thói quen xem TV dựa vào câu tr�
 </questions>
 
 <teacher_script pause="300">
-Viết đoạn văn đi. 5 phút nha.
+Viết đoạn văn đi. 5 phút nha. Nhớ dùng liên từ <eng>and</eng>, <eng>but</eng>, <eng>so</eng> để nối câu cho hay.
 </teacher_script>
 
 ---
@@ -371,7 +367,7 @@ Chụp xong bấm tiếp tục nha.
 
 <!-- chunk: sample_writing -->
 <teacher_script pause="0">
-Đây là bài mẫu nha. So sánh với bài của mình.
+Đây là bài mẫu nha. So sánh với bài của mình xem có giống không.
 </teacher_script>
 
 <reading>
@@ -386,6 +382,14 @@ Chụp xong bấm tiếp tục nha.
 | It has interesting educational programmes for children. | Nó có những chương trình giáo dục thú vị cho trẻ em. |
 </reading>
 
+<teacher_script pause="0">
+Bài mẫu dùng các cấu trúc: <eng>I like watching TV... I only watch TV in the... On Saturday and Sunday, I watch more</eng>.
+</teacher_script>
+
+<teacher_script pause="0">
+Và dùng liên từ <eng>but</eng> để nối câu: <eng>Sometimes I watch TV when I'm eating, but I never watch TV when I'm studying</eng>.
+</teacher_script>
+
 <teacher_script pause="60">
 Đọc bài mẫu và so sánh với bài của mình nha. 1 phút.
 </teacher_script>
@@ -394,9 +398,9 @@ Chụp xong bấm tiếp tục nha.
 
 <!-- chunk: end -->
 <teacher_script pause="0">
-Ok hết Skills 2 rồi. Về nhà ôn lại từ vựng và luyện viết thêm nha.
+Ok hết <eng>Skills 2</eng> rồi. Về nhà ôn lại từ vựng và luyện viết thêm nha.
 </teacher_script>
 
 <teacher_script pause="0">
-Bài sau qua Looking Back - Ôn tập. Hẹn gặp lại!
+Bài sau qua <eng>Looking Back</eng> - Ôn tập. Hẹn gặp lại!
 </teacher_script>

@@ -11,10 +11,17 @@ export interface VocabularyWord {
   meaning: string;
 }
 
+export interface TextSegment {
+  text: string;
+  lang: 'vi' | 'en';
+}
+
 export interface TeacherScript {
   id: string;
   text: string;
+  segments: TextSegment[];
   pause: number;
+  lang: 'vi' | 'en';
   href: string | null;
   action: string | null;
 }
@@ -113,19 +120,76 @@ export function parseVocabulary(content: string): VocabularyWord[] {
 }
 
 /**
+ * Parse inline language tags (<eng>, <vn>) into segments
+ */
+export function parseTextSegments(text: string, defaultLang: 'vi' | 'en'): TextSegment[] {
+  const segments: TextSegment[] = [];
+  // Match <eng>...</eng> or <vn>...</vn> tags
+  const tagPattern = /<(eng|vn)>([\s\S]*?)<\/\1>/g;
+
+  let lastIndex = 0;
+  let match;
+
+  while ((match = tagPattern.exec(text)) !== null) {
+    // Add text before this tag (in default language)
+    if (match.index > lastIndex) {
+      const beforeText = text.slice(lastIndex, match.index).trim();
+      if (beforeText) {
+        segments.push({ text: beforeText, lang: defaultLang });
+      }
+    }
+
+    // Add the tagged content
+    const tagLang = match[1] === 'eng' ? 'en' : 'vi';
+    const tagContent = match[2].trim();
+    if (tagContent) {
+      segments.push({ text: tagContent, lang: tagLang as 'vi' | 'en' });
+    }
+
+    lastIndex = match.index + match[0].length;
+  }
+
+  // Add remaining text after last tag
+  if (lastIndex < text.length) {
+    const remainingText = text.slice(lastIndex).trim();
+    if (remainingText) {
+      segments.push({ text: remainingText, lang: defaultLang });
+    }
+  }
+
+  // If no tags found, return single segment with full text
+  if (segments.length === 0 && text.trim()) {
+    segments.push({ text: text.trim(), lang: defaultLang });
+  }
+
+  return segments;
+}
+
+/**
  * Parse teacher script attributes from tag
  */
 export function parseTeacherScript(tagContent: string, attrs: string): TeacherScript {
   const id = `ts-${Math.random().toString(36).slice(2, 8)}`;
 
   const pauseMatch = attrs.match(/pause="(\d+)"/);
+  const langMatch = attrs.match(/lang="(vi|en)"/);
   const hrefMatch = attrs.match(/href="([^"]+)"/);
   const actionMatch = attrs.match(/action="(\w+)"/);
 
+  const defaultLang = langMatch ? (langMatch[1] as 'vi' | 'en') : 'vi';
+  const segments = parseTextSegments(tagContent.trim(), defaultLang);
+
+  // Plain text without inline tags (for display/backward compatibility)
+  const plainText = tagContent
+    .replace(/<\/?(?:eng|vn)>/g, '')
+    .trim();
+
   return {
     id,
-    text: tagContent.trim(),
+    text: plainText,
+    segments,
     pause: pauseMatch ? parseInt(pauseMatch[1], 10) : 0,
+    lang: defaultLang,
     href: hrefMatch ? hrefMatch[1] : null,
     action: actionMatch ? actionMatch[1] : null,
   };

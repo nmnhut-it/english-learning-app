@@ -938,8 +938,8 @@ ___ He goes to bed.
 ### 6. Teacher Script Format
 
 ```markdown
-<teacher_script pause="[seconds]" type="[type]" href="[audio_url]">
-Script content - natural Southern Vietnamese
+<teacher_script pause="[seconds]" lang="[vi|en]" type="[type]" href="[audio_url]">
+Script content
 </teacher_script>
 ```
 
@@ -947,34 +947,302 @@ Script content - natural Southern Vietnamese
 | Attribute | Values | Description |
 |-----------|--------|-------------|
 | `pause` | 0, 30, 45, 60, 120... | Seconds to wait after speaking |
+| `lang` | `vi` (default), `en` | Language of script - MUST split by language |
 | `type` | `intro`, `instruction`, `answer` | Script type (optional) |
 | `href` | URL or path | Pre-generated audio file (optional, for caching/offline) |
 
-**Audio workflow:**
+---
+
+### 6.1 INLINE LANGUAGE TAGS (QUAN TRỌNG)
+
+**Problem:** Need TTS to switch between English and Vietnamese within the same sentence naturally.
+
+**Solution:** Use inline `<eng>` and `<vn>` tags to mark language segments. TTS will use appropriate voice for each segment.
+
+```markdown
+<!-- ✅ ĐÚNG: Inline tags for mixed language -->
+<teacher_script pause="0">
+<eng>Click</eng> vào nút bắt đầu nha.
+</teacher_script>
+
+<!-- TTS sẽ đọc: "Click" (English voice) + "vào nút bắt đầu nha" (Vietnamese voice) -->
+```
+
+**Inline Tags:**
+| Tag | Language | Example |
+|-----|----------|---------|
+| `<eng>...</eng>` | English | `<eng>Listen and read</eng>` |
+| `<vn>...</vn>` | Vietnamese | `<vn>Nghe và đọc</vn>` |
+
+**Default language:** Vietnamese (text without tags = Vietnamese)
+
+**Examples:**
+
+```markdown
+<!-- Exercise instruction with English title -->
+<teacher_script pause="60">
+Bài 1 <eng>Listen and read</eng> nha. Đọc hội thoại và dịch vô vở. 3 phút hen.
+</teacher_script>
+
+<!-- Reading English words/phrases in Vietnamese explanation -->
+<teacher_script pause="0">
+Từ <eng>wonderful</eng> nghĩa là tuyệt vời. <eng>Educational</eng> là mang tính giáo dục.
+</teacher_script>
+
+<!-- Answer explanation with English quotes -->
+<teacher_script pause="0">
+Câu 1 là C. Phong nói <eng>I like animated films</eng> chứ không phải cartoons.
+</teacher_script>
+
+<!-- Full English sentence in context -->
+<teacher_script pause="0">
+Ví dụ nha: <eng>What's your favourite TV programme?</eng> - Chương trình TV yêu thích của bạn là gì?
+</teacher_script>
+```
+
+**When to use `<eng>` tags:**
+- English words/phrases in Vietnamese sentences
+- Exercise titles: `<eng>Listen and read</eng>`
+- English quotes from dialogue/reading
+- Vocabulary words: `<eng>wonderful</eng>`
+- Example sentences being taught
+
+**When NOT to use tags (default Vietnamese):**
+- Pure Vietnamese explanations
+- Time instructions: "3 phút nha"
+- Encouragement: "Bài này dễ mà"
+- Transitions: "Ok qua bài sau"
+
+**Parser Output:**
+The parser converts inline tags to segments array for TTS:
+```typescript
+// Input: "<eng>Click</eng> vào nút bắt đầu nha"
+// Output segments:
+[
+  { text: "Click", lang: "en" },
+  { text: "vào nút bắt đầu nha", lang: "vi" }
+]
+```
+
+---
+
+### 6.2 SOUTHERN VIETNAMESE PERSONALITY
+
+**Core principle:** Talk like a chill tutor, not a formal teacher.
+
+**Character traits:**
+- Relaxed, friendly ("bạn bè" not "thầy trò")
+- Light humor when appropriate
+- Patient explanations
+- Encouraging but not fake
+
+**Southern Vietnamese markers (USE THESE):**
+| Marker | Meaning | Example |
+|--------|---------|---------|
+| `nha` | soft confirmation | "Làm bài đi nha" |
+| `hen` | agreement/reminder | "2 phút hen" |
+| `đi` | gentle command | "Mở sách đi" |
+| `thôi` | let's move on | "Ok thôi, qua bài sau" |
+| `nè` | here/look | "Đáp án nè" |
+| `á` | emphasis | "Sai rồi á" |
+| `nghen` | okay? (checking) | "Hiểu chưa nghen?" |
+| `luôn` | immediately/also | "Làm luôn bài 2" |
+| `rồi` | done/already | "Xong rồi" |
+
+**Filler words (natural speech):**
+- "Ok" - transitions
+- "Giờ" - now/next
+- "Được rồi" - alright
+- "Ủa" - surprise
+- "Hả" - what? (when clarifying)
+
+---
+
+### 6.3 HUMOR GUIDELINES
+
+**Philosophy:** Light humor keeps students engaged. Not jokes, but playful observations.
+
+**Types of humor that work:**
+
+**1. Self-deprecating / relatable**
+```markdown
+<teacher_script pause="0" lang="vi">
+Bài này grammar hơi khó, hồi đó thầy cũng sai hoài luôn á.
+</teacher_script>
+```
+
+**2. Playful exaggeration**
+```markdown
+<teacher_script pause="0" lang="vi">
+Ai mà chọn B là chắc đang ngủ gục rồi nha.
+</teacher_script>
+```
+
+**3. Pop culture references (age-appropriate)**
+```markdown
+<teacher_script pause="0" lang="vi">
+Từ này giống tên nhân vật trong game đó, nhớ dễ hơn.
+</teacher_script>
+```
+
+**4. Observational**
+```markdown
+<teacher_script pause="0" lang="vi">
+Mấy đứa hay sai câu này lắm, thầy chấm bài thấy 10 đứa sai 9.
+</teacher_script>
+```
+
+**5. Gentle teasing about common mistakes**
+```markdown
+<teacher_script pause="0" lang="vi">
+Nhớ S ở cuối nha. Quên S là mất điểm oan uổng lắm đó.
+</teacher_script>
+```
+
+**DON'T:**
+- Forced jokes that interrupt flow
+- Puns that don't translate
+- Anything that could embarrass students
+- Sarcasm (doesn't translate well to audio)
+
+---
+
+### 6.4 SCRIPT PATTERNS BY CONTEXT
+
+**Pattern A: Exercise Introduction**
+```markdown
+<teacher_script pause="0" lang="en">
+Exercise 2. Match the words with their meanings.
+</teacher_script>
+
+<teacher_script pause="45" lang="vi">
+Nối từ với nghĩa. Có 5 từ, 45 giây nha.
+</teacher_script>
+```
+
+**Pattern B: Answer Reveal (with personality)**
+```markdown
+<teacher_script pause="0" lang="vi">
+Ok đáp án nè.
+</teacher_script>
+
+<answer>
+**Đáp án:** 1-c | 2-a | 3-e
+</answer>
+
+<teacher_script pause="0" lang="vi">
+Câu 1 là C. Ai chọn A là bị lừa rồi đó, đề bẫy chỗ này.
+</teacher_script>
+
+<teacher_script pause="0" lang="vi">
+Câu 2 là A. Dễ nhất, ai sai câu này thì đọc lại bài đi nha.
+</teacher_script>
+```
+
+**Pattern C: Grammar Explanation (chunked + humorous)**
+```markdown
+<teacher_script pause="0" lang="vi">
+Ok giờ qua phần grammar. Hôm nay học "should" với "shouldn't".
+</teacher_script>
+
+<teacher_script pause="0" lang="vi">
+Should là nên. Shouldn't là không nên. Dễ hơn mấy cái khác nhiều.
+</teacher_script>
+
+<teacher_script pause="0" lang="en">
+You should study. You shouldn't play games.
+</teacher_script>
+
+<teacher_script pause="0" lang="vi">
+Bạn nên học bài. Bạn không nên chơi game.
+Thầy nói vậy chứ thầy cũng chơi game hoài luôn.
+</teacher_script>
+```
+
+**Pattern D: Encouragement after difficult section**
+```markdown
+<teacher_script pause="0" lang="vi">
+Ok xong phần khó nhất rồi. Phần sau dễ hơn nhiều, yên tâm.
+</teacher_script>
+```
+
+**Pattern E: Transition between sections**
+```markdown
+<teacher_script pause="0" lang="vi">
+Được rồi, hết vocabulary. Giờ qua phần pronunciation nha.
+Phần này vui hơn, được nói nhiều.
+</teacher_script>
+```
+
+---
+
+### 6.5 TONE BY GRADE LEVEL
+
+| Grade | Tone | Example |
+|-------|------|---------|
+| **G6** | Playful, simple words | "Dễ không? Dễ quá mà!" |
+| **G7** | Friendly, slightly more mature | "Bài này hơi khó hơn lớp 6, nhưng logic giống nhau thôi" |
+| **G8** | Casual but focused | "Tập trung nha, grammar unit này quan trọng cho thi" |
+| **G9** | Supportive, exam-aware | "Dạng bài này hay ra thi, nhớ kỹ pattern nha" |
+
+**Grade-specific phrases:**
+
+**G6:**
+- "Ai giỏi quá ta" (when correct)
+- "Thử lại đi, gần đúng rồi"
+- "Dễ ẹt mà"
+
+**G7-G8:**
+- "Câu này hay bị sai lắm nha"
+- "Trick question đó, cẩn thận"
+- "Pattern này nhớ kỹ đi"
+
+**G9:**
+- "Dạng đề thi hay ra"
+- "Cái này cần cho high school"
+- "Quan trọng nha, đừng skip"
+
+---
+
+### 6.6 AUDIO WORKFLOW
+
 1. First time: TTS generates audio from script text
+   - Vietnamese scripts → Vietnamese TTS voice
+   - English scripts → English TTS voice (native accent)
 2. Save audio to `v2/data/audio/g6/unit-07/script-001.mp3`
 3. Update `href` attribute for future playback (faster, offline-capable)
 
-**Style Guide - DO:**
-- Natural Southern Vietnamese: "nha", "đi", "thôi", "ok"
-- Short, concise instructions
-- Talk like a friend
+**TTS Voice Selection:**
+| `lang` | Voice | Notes |
+|--------|-------|-------|
+| `vi` | Southern Vietnamese male/female | Natural, not robotic |
+| `en` | British or American | Match textbook accent |
 
-**Style Guide - DON'T:**
-- Formal: "các em hãy", "chúng ta sẽ"
-- Cringe: "Chào các em! Hôm nay..."
-- Long explanations
+---
 
-**Examples:**
+### 6.7 STYLE COMPARISON
+
+**❌ DON'T (Formal/Cringe):**
 ```
-❌ "Chào các em! Hôm nay chúng ta sẽ học Unit 7."
-✅ "Ok lớp 6, Unit 7 nha - Television. Mở sách trang 6 đi."
+"Chào các em! Hôm nay chúng ta sẽ học Unit 7."
+"Các em hãy làm bài tập số 2."
+"Bây giờ cô sẽ chữa bài cho các em."
+"Các em có hiểu không ạ?"
+```
 
-❌ "Các em hãy làm bài tập số 2."
-✅ "Bài 2, chọn đáp án đúng. 1 phút."
+**✅ DO (Natural/Southern):**
+```
+"Ok lớp 6, Unit 7 nha - Television. Mở sách trang 6 đi."
+"Bài 2, chọn đáp án đúng. 1 phút nha."
+"Đáp án nè."
+"Hiểu chưa? Chưa hiểu thì hỏi thầy."
+```
 
-❌ "Bây giờ cô sẽ chữa bài cho các em."
-✅ "Ok đáp án."
+**✅ DO (With humor):**
+```
+"Unit 7 - Television. Coi TV thì ai cũng thích rồi, học cũng dễ thôi."
+"Bài 2 này dễ lắm, ai sai là đang ngủ gục đó nha."
+"Đáp án nè. Mấy đứa làm đúng hết chưa? Chắc có đứa sai câu 3."
 ```
 
 ---
@@ -986,8 +1254,13 @@ Script content - natural Southern Vietnamese
 
 ## GETTING STARTED - What's on today?
 
-<teacher_script pause="0">
-Ok lớp 6, Unit 7 nha - Television. Mở sách trang 6 tập 2 đi.
+<teacher_script pause="0" lang="vi">
+Ok lớp 6, Unit 7 nha. Television - Truyền hình.
+Coi TV thì ai cũng thích rồi, unit này dễ thôi.
+</teacher_script>
+
+<teacher_script pause="0" lang="vi">
+Mở sách trang 6 tập 2 đi.
 </teacher_script>
 
 ---
@@ -998,16 +1271,24 @@ Ok lớp 6, Unit 7 nha - Television. Mở sách trang 6 tập 2 đi.
 3. **animated film** : (n) phim hoạt hình /ˈænɪmeɪtɪd fɪlm/
 </vocabulary>
 
-<teacher_script pause="0">
-Từ vựng click vô nghe phát âm, ghi vô vở rồi qua bài 1.
+<teacher_script pause="0" lang="vi">
+Đây là từ vựng unit này. Bấm vô từ để nghe phát âm nha.
+</teacher_script>
+
+<teacher_script pause="120" lang="vi">
+Ghi từ vựng vô vở đi. 2 phút hen.
 </teacher_script>
 
 ---
 
 ### Bài 1 trang 6 - Listen and read
 
-<teacher_script pause="0">
-Bài 1, nghe và đọc hội thoại.
+<teacher_script pause="0" lang="en">
+Exercise 1. Listen and read.
+</teacher_script>
+
+<teacher_script pause="0" lang="vi">
+Nghe và đọc hội thoại. Đây là Phong với Hùng nói chuyện về các chương trình TV.
 </teacher_script>
 
 <task>
@@ -1023,12 +1304,21 @@ Bài 1, nghe và đọc hội thoại.
 | **Hung:** The Voice Kids. | **Hùng:** Giọng Hát Việt Nhí. |
 </dialogue>
 
+<teacher_script pause="180" lang="vi">
+Đọc hội thoại rồi dịch vô vở đi. 3 phút nha.
+</teacher_script>
+
 ---
 
 ### Bài 2 trang 7 - Choose the correct answer
 
-<teacher_script pause="60">
-Bài 2, chọn đáp án đúng. 1 phút.
+<teacher_script pause="0" lang="en">
+Exercise 2. Choose the correct answer A, B, or C.
+</teacher_script>
+
+<teacher_script pause="60" lang="vi">
+Chọn đáp án đúng. Đọc lại hội thoại bài 1 rồi trả lời nha.
+1 phút thôi, bài này dễ mà.
 </teacher_script>
 
 <task>
@@ -1046,23 +1336,33 @@ Bài 2, chọn đáp án đúng. 1 phút.
 *Phong và Hùng đang nói về ________.*
 </questions>
 
-<teacher_script pause="0" type="answer">
-Ok đáp án. Câu 1 là C.
+<teacher_script pause="0" lang="vi">
+Ok đáp án nè.
 </teacher_script>
 
 <answer>
 **Đáp án:** 1.C
 </answer>
 
+<teacher_script pause="0" lang="vi">
+Câu 1 là C. Tụi nó nói về nhiều chương trình khác nhau, không phải chỉ một chương trình thôi.
+Ai chọn A là bị lừa rồi đó, đề hỏi "talking about" chứ không phải "watching".
+</teacher_script>
+
 <explanation>
 **Giải thích:**
-1. C - Tụi nó nói về nhiều chương trình khác nhau.
+1. C - Tụi nó nói về nhiều chương trình khác nhau (The Voice Kids, The Lion King, Tom & Jerry...).
 </explanation>
+
+<teacher_script pause="30" lang="vi">
+Sửa bài nếu sai nha. 30 giây.
+</teacher_script>
 
 ---
 
-<teacher_script pause="0">
-Ok hết Getting Started. Về học từ vựng, mai qua A Closer Look 1.
+<teacher_script pause="0" lang="vi">
+Ok hết Getting Started rồi. Về nhà học từ vựng nha, mai qua A Closer Look 1.
+Unit này vui lắm, có phần nói về phim hoạt hình.
 </teacher_script>
 ```
 
@@ -1095,8 +1395,10 @@ Ok hết Getting Started. Về học từ vựng, mai qua A Closer Look 1.
 | Tag | Attributes |
 |-----|------------|
 | `<questions>` | `type="multiple_choice\|matching\|fill_blanks\|pronunciation\|listen_tick\|..."` |
-| `<teacher_script>` | `pause="60"`, `type="answer"`, `action="record"`, `href="audio/file.mp3"` |
+| `<teacher_script>` | `pause="60"`, `lang="vi\|en"`, `type="answer"`, `action="record"`, `href="audio/file.mp3"` |
 | `<audio>` | `src="path/to/file.mp3"` hoặc `src="<!-- TODO: audio_id -->"` |
+
+> **IMPORTANT:** Always use `lang` attribute to separate Vietnamese and English scripts. One script = one language only. See section 6.1 for details.
 
 **Note về `<reading>` cho Tapescript:**
 - Dùng `<reading>` với bilingual table cho tapescript bài nghe

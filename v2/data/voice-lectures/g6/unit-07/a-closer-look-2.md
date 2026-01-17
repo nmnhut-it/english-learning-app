@@ -4,11 +4,11 @@
 
 <!-- chunk: intro -->
 <teacher_script pause="0">
-Ok mấy đứa, bài này là A Closer Look 2 - học Grammar hen.
+Ok lớp 6, bài này là <eng>A Closer Look 2</eng> - học Grammar hen.
 </teacher_script>
 
 <teacher_script pause="0">
-Mở sách trang 9-10 tập 2 đi. Bài này dài nên tập trung nha.
+Mở sách trang 9-10 tập 2 đi. Bài này dài nên tập trung nha. Ai mà lơ là là thầy biết liền đó.
 </teacher_script>
 
 ---
@@ -19,41 +19,33 @@ Hôm nay học 2 điểm ngữ pháp hen.
 </teacher_script>
 
 <teacher_script pause="0">
-Một là Wh-questions - câu hỏi với các từ What, Where, When... Cái này quan trọng để hỏi thông tin.
+Một là <eng>Wh-questions</eng> - câu hỏi với các từ <eng>What</eng>, <eng>Where</eng>, <eng>When</eng>... Cái này quan trọng để hỏi thông tin.
 </teacher_script>
 
 <teacher_script pause="0">
-Hai là liên từ and, but, so - dùng để nối các câu lại với nhau. Dùng đúng thì câu văn hay hơn.
+Hai là liên từ <eng>and</eng>, <eng>but</eng>, <eng>so</eng> - dùng để nối các câu lại với nhau. Dùng đúng thì câu văn hay hơn.
 </teacher_script>
 
 <teacher_script pause="0">
-Bắt đầu với Wh-questions trước nha.
+Bắt đầu với <eng>Wh-questions</eng> trước nha.
 </teacher_script>
 
 ---
 
 <!-- chunk: grammar_wh_intro -->
 <teacher_script pause="0">
-Wh-questions là gì hen?
+<eng>Wh-questions</eng> là gì hen? Đó là các câu hỏi bắt đầu bằng chữ W-H. Mấy đứa thấy <eng>What</eng>, <eng>Where</eng>, <eng>When</eng>, <eng>Who</eng>, <eng>Why</eng> đều có W-H ở đầu không?
 </teacher_script>
 
 <teacher_script pause="0">
-Đó là các câu hỏi bắt đầu bằng chữ Wh như What, Where, When, Who, Why. Mấy đứa thấy chữ W-H ở đầu không?
-</teacher_script>
-
-<teacher_script pause="0">
-Mỗi từ hỏi khác nhau sẽ hỏi về một thông tin khác nhau. Ví dụ What hỏi "cái gì", Where hỏi "ở đâu".
-</teacher_script>
-
-<teacher_script pause="0">
-Giờ đi qua từng từ hỏi một nha. Thầy sẽ giải thích từ từ.
+Mỗi từ hỏi khác nhau sẽ hỏi về một thông tin khác nhau. Giờ đi qua từng từ một nha. Thầy sẽ giải thích từ từ, ai chưa hiểu thì hỏi.
 </teacher_script>
 
 ---
 
 <!-- chunk: grammar_what -->
 <teacher_script pause="0">
-Đầu tiên là WHAT hen - nghĩa là "cái gì".
+Đầu tiên là <eng>WHAT</eng> - nghĩa là "cái gì".
 </teacher_script>
 
 <grammar>
@@ -69,18 +61,18 @@ Giờ đi qua từng từ hỏi một nha. Thầy sẽ giải thích từ từ.
 </grammar>
 
 <teacher_script pause="0">
-Nếu câu trả lời là một sự vật hay hoạt động, thì dùng What để hỏi hen. Ví dụ: What are you watching? - Bạn đang xem gì?
+<eng>What are you watching?</eng> - Nghĩa là "Bạn đang xem gì?" Nếu câu trả lời là sự vật hay hoạt động, thì dùng <eng>What</eng> để hỏi hen.
 </teacher_script>
 
 <teacher_script pause="30">
-Ghi vô tập: WHAT = cái gì, hỏi về sự vật. 30 giây nha.
+Ghi vô tập: <eng>WHAT</eng> = cái gì, hỏi về sự vật. 30 giây nha.
 </teacher_script>
 
 ---
 
 <!-- chunk: grammar_where -->
 <teacher_script pause="0">
-Tiếp theo là WHERE hen - nghĩa là "ở đâu".
+Tiếp theo là <eng>WHERE</eng> - nghĩa là "ở đâu".
 </teacher_script>
 
 <grammar>
@@ -96,18 +88,18 @@ Tiếp theo là WHERE hen - nghĩa là "ở đâu".
 </grammar>
 
 <teacher_script pause="0">
-Nếu câu trả lời là một nơi chốn, một địa điểm, thì dùng Where để hỏi hen. Ví dụ: Where do you live? - Bạn sống ở đâu?
+<eng>Where do you live?</eng> - Nghĩa là "Bạn sống ở đâu?" Nếu câu trả lời là nơi chốn, địa điểm, thì dùng <eng>Where</eng> hen.
 </teacher_script>
 
 <teacher_script pause="30">
-Ghi vô tập: WHERE = ở đâu, hỏi về nơi chốn. 30 giây nha.
+Ghi vô tập: <eng>WHERE</eng> = ở đâu, hỏi về nơi chốn. 30 giây nha.
 </teacher_script>
 
 ---
 
 <!-- chunk: grammar_when -->
 <teacher_script pause="0">
-Tiếp theo là WHEN hen - nghĩa là "khi nào".
+Tiếp theo là <eng>WHEN</eng> - nghĩa là "khi nào".
 </teacher_script>
 
 <grammar>
@@ -123,18 +115,18 @@ Tiếp theo là WHEN hen - nghĩa là "khi nào".
 </grammar>
 
 <teacher_script pause="0">
-Nếu câu trả lời là thời gian như ngày, giờ, thì dùng When hen. Ví dụ: When does the film start? - Phim bắt đầu khi nào?
+<eng>When does the film start?</eng> - Nghĩa là "Phim bắt đầu khi nào?" Nếu câu trả lời là thời gian như ngày, giờ, thì dùng <eng>When</eng> hen.
 </teacher_script>
 
 <teacher_script pause="30">
-Ghi vô tập: WHEN = khi nào, hỏi về thời gian. 30 giây nha.
+Ghi vô tập: <eng>WHEN</eng> = khi nào, hỏi về thời gian. 30 giây nha.
 </teacher_script>
 
 ---
 
 <!-- chunk: grammar_who -->
 <teacher_script pause="0">
-Tiếp theo là WHO hen - nghĩa là "ai".
+Tiếp theo là <eng>WHO</eng> - nghĩa là "ai".
 </teacher_script>
 
 <grammar>
@@ -150,18 +142,18 @@ Tiếp theo là WHO hen - nghĩa là "ai".
 </grammar>
 
 <teacher_script pause="0">
-Nếu câu trả lời là một người hoặc nhân vật, thì dùng Who hen. Ví dụ: Who is your favourite singer? - Ca sĩ yêu thích của bạn là ai?
+<eng>Who is your favourite singer?</eng> - Nghĩa là "Ca sĩ yêu thích của bạn là ai?" Nếu câu trả lời là một người hoặc nhân vật, thì dùng <eng>Who</eng> hen.
 </teacher_script>
 
 <teacher_script pause="30">
-Ghi vô tập: WHO = ai, hỏi về người. 30 giây nha.
+Ghi vô tập: <eng>WHO</eng> = ai, hỏi về người. 30 giây nha.
 </teacher_script>
 
 ---
 
 <!-- chunk: grammar_why -->
 <teacher_script pause="0">
-Tiếp theo là WHY hen - nghĩa là "tại sao".
+Tiếp theo là <eng>WHY</eng> - nghĩa là "tại sao".
 </teacher_script>
 
 <grammar>
@@ -177,18 +169,18 @@ Tiếp theo là WHY hen - nghĩa là "tại sao".
 </grammar>
 
 <teacher_script pause="0">
-Nếu câu trả lời bắt đầu bằng "Because" - nghĩa là "vì", thì câu hỏi dùng Why hen. Nhớ nha: WHY → BECAUSE.
+<eng>Why do you like cartoons? Because they're funny.</eng> - Nếu câu trả lời bắt đầu bằng <eng>Because</eng> - nghĩa là "vì", thì câu hỏi dùng <eng>Why</eng> hen. Nhớ nha: <eng>WHY</eng> thì trả lời <eng>BECAUSE</eng>.
 </teacher_script>
 
 <teacher_script pause="30">
-Ghi vô tập: WHY = tại sao, hỏi về lý do. Trả lời bằng "Because". 30 giây nha.
+Ghi vô tập: <eng>WHY</eng> = tại sao, hỏi về lý do. Trả lời bằng <eng>Because</eng>. 30 giây nha.
 </teacher_script>
 
 ---
 
 <!-- chunk: grammar_how -->
 <teacher_script pause="0">
-Giờ đến các từ hỏi HOW hen. HOW có nhiều dạng khác nhau, thầy sẽ đi qua từng dạng.
+Giờ đến các từ hỏi <eng>HOW</eng> hen. <eng>HOW</eng> có nhiều dạng khác nhau, thầy sẽ đi qua từng dạng.
 </teacher_script>
 
 <grammar>
@@ -203,15 +195,19 @@ Giờ đến các từ hỏi HOW hen. HOW có nhiều dạng khác nhau, thầy 
   *(Bạn đi học **bằng cách nào**? → Bằng xe đạp.)*
 </grammar>
 
+<teacher_script pause="0">
+<eng>How are you? I'm fine.</eng> - Câu này ai cũng biết rồi đúng không? <eng>HOW</eng> hỏi "như thế nào", về cách thức hoặc trạng thái.
+</teacher_script>
+
 <teacher_script pause="30">
-Ghi vô tập: HOW = như thế nào. 30 giây nha.
+Ghi vô tập: <eng>HOW</eng> = như thế nào. 30 giây nha.
 </teacher_script>
 
 ---
 
 <!-- chunk: grammar_how_often -->
 <teacher_script pause="0">
-HOW OFTEN hen - nghĩa là "thường xuyên thế nào", hỏi về tần suất.
+<eng>HOW OFTEN</eng> - nghĩa là "thường xuyên thế nào", hỏi về tần suất.
 </teacher_script>
 
 <grammar>
@@ -227,18 +223,18 @@ HOW OFTEN hen - nghĩa là "thường xuyên thế nào", hỏi về tần suấ
 </grammar>
 
 <teacher_script pause="0">
-Câu trả lời thường là: once (1 lần), twice (2 lần), three times a week (3 lần 1 tuần), every day (mỗi ngày)...
+<eng>How often do you watch TV? Twice a week.</eng> - Câu trả lời thường là: <eng>once</eng> - 1 lần, <eng>twice</eng> - 2 lần, <eng>three times a week</eng> - 3 lần 1 tuần, <eng>every day</eng> - mỗi ngày.
 </teacher_script>
 
 <teacher_script pause="30">
-Ghi vô tập: HOW OFTEN = thường xuyên thế nào, hỏi về tần suất. 30 giây nha.
+Ghi vô tập: <eng>HOW OFTEN</eng> = thường xuyên thế nào, hỏi về tần suất. 30 giây nha.
 </teacher_script>
 
 ---
 
 <!-- chunk: grammar_how_many -->
 <teacher_script pause="0">
-HOW MANY hen - nghĩa là "bao nhiêu", hỏi về số lượng.
+<eng>HOW MANY</eng> - nghĩa là "bao nhiêu", hỏi về số lượng.
 </teacher_script>
 
 <grammar>
@@ -254,18 +250,18 @@ HOW MANY hen - nghĩa là "bao nhiêu", hỏi về số lượng.
 </grammar>
 
 <teacher_script pause="0">
-Sau How many phải là danh từ số nhiều như books, students, people hen. Không được dùng danh từ số ít.
+<eng>How many books do you have?</eng> - Sau <eng>How many</eng> phải là danh từ số nhiều như <eng>books</eng>, <eng>students</eng>, <eng>people</eng> hen. Không được dùng danh từ số ít, sai là mất điểm oan uổng đó.
 </teacher_script>
 
 <teacher_script pause="30">
-Ghi vô tập: HOW MANY = bao nhiêu, hỏi về số lượng. 30 giây nha.
+Ghi vô tập: <eng>HOW MANY</eng> = bao nhiêu, hỏi về số lượng. 30 giây nha.
 </teacher_script>
 
 ---
 
 <!-- chunk: grammar_how_long -->
 <teacher_script pause="0">
-HOW LONG hen - nghĩa là "bao lâu", hỏi về khoảng thời gian.
+<eng>HOW LONG</eng> - nghĩa là "bao lâu", hỏi về khoảng thời gian.
 </teacher_script>
 
 <grammar>
@@ -281,18 +277,18 @@ HOW LONG hen - nghĩa là "bao lâu", hỏi về khoảng thời gian.
 </grammar>
 
 <teacher_script pause="0">
-How long hỏi về khoảng thời gian hoặc độ dài hen. Ví dụ: How long is the film? - Phim dài bao lâu?
+<eng>How long is the film? Two hours.</eng> - <eng>How long</eng> hỏi về khoảng thời gian hoặc độ dài hen.
 </teacher_script>
 
 <teacher_script pause="30">
-Ghi vô tập: HOW LONG = bao lâu, hỏi về khoảng thời gian. 30 giây nha.
+Ghi vô tập: <eng>HOW LONG</eng> = bao lâu, hỏi về khoảng thời gian. 30 giây nha.
 </teacher_script>
 
 ---
 
 <!-- chunk: grammar_wh_structure -->
 <teacher_script pause="0">
-Ok giờ xem cấu trúc câu hỏi WH hen. Phần này quan trọng để đặt câu hỏi đúng.
+Ok giờ xem cấu trúc câu hỏi WH hen. Phần này quan trọng để đặt câu hỏi đúng ngữ pháp.
 </teacher_script>
 
 <grammar>
@@ -314,7 +310,7 @@ WH-word + is/are + S + ...?
 </grammar>
 
 <teacher_script pause="0">
-Nhớ hen: Từ hỏi đứng đầu, sau đó là trợ động từ do/does hoặc is/are. Thứ tự quan trọng lắm!
+Nhớ hen: Từ hỏi đứng đầu, sau đó là trợ động từ <eng>do/does</eng> hoặc <eng>is/are</eng>. Thứ tự quan trọng lắm, đảo sai là mất điểm luôn!
 </teacher_script>
 
 <teacher_script pause="45">
@@ -345,7 +341,7 @@ Ghi công thức vô tập đi. 45 giây hen.
 </grammar>
 
 <teacher_script pause="60">
-Ghi bảng tóm tắt vô tập đi. 1 phút hen. Bảng này quan trọng lắm, cần học thuộc.
+Ghi bảng tóm tắt vô tập đi. 1 phút hen. Bảng này quan trọng lắm, cần học thuộc. Mai mốt thi ra hoài đó.
 </teacher_script>
 
 ---
@@ -354,7 +350,7 @@ Ghi bảng tóm tắt vô tập đi. 1 phút hen. Bảng này quan trọng lắm
 ### Bài 1 trang 9 - Read and underline
 
 <teacher_script pause="30">
-Bài 1 nha. Đọc hội thoại và gạch dưới các từ hỏi WH. Bài này dễ, tìm những từ bắt đầu bằng W-H thôi. 30 giây hen.
+Bài 1 <eng>Read the conversation and underline the question words</eng> nha. Đọc hội thoại và gạch dưới các từ hỏi WH. Bài này dễ ẹt, tìm những từ bắt đầu bằng W-H thôi. 30 giây hen.
 </teacher_script>
 
 <task>
@@ -393,19 +389,19 @@ Ok thầy sửa bài nha.
 </answer>
 
 <teacher_script pause="0">
-Có 3 từ hỏi trong hội thoại hen.
+Có 3 từ hỏi trong hội thoại hen. Ai tìm đủ 3 từ chưa?
 </teacher_script>
 
 <teacher_script pause="0">
-Một là WHAT - hỏi "làm gì". What are you doing? - Bạn đang làm gì?
+<eng>What are you doing?</eng> - <eng>WHAT</eng> hỏi "làm gì".
 </teacher_script>
 
 <teacher_script pause="0">
-Hai là WHERE - hỏi "ở đâu". Where is it? - Nó ở đâu?
+<eng>Where is it?</eng> - <eng>WHERE</eng> hỏi "ở đâu".
 </teacher_script>
 
 <teacher_script pause="0">
-Ba là HOW LONG - hỏi "bao lâu". How long is it on? - Nó kéo dài bao lâu?
+<eng>How long is it on?</eng> - <eng>HOW LONG</eng> hỏi "bao lâu".
 </teacher_script>
 
 <explanation>
@@ -428,7 +424,7 @@ Mấy đứa sửa bài nếu sai hen. 30 giây.
 ### Bài 2 trang 9 - Match
 
 <teacher_script pause="45">
-Bài 2 nha. Nối từ hỏi với loại thông tin nó hỏi. Ví dụ: Where hỏi về nơi chốn, nên nối với "Place". Dùng kiến thức vừa học để làm hen. 45 giây.
+Bài 2 <eng>Match each question word with the information it needs</eng> nha. Nối từ hỏi với loại thông tin nó hỏi. Ví dụ: <eng>Where</eng> hỏi về nơi chốn, nên nối với <eng>Place</eng>. Dùng kiến thức vừa học để làm hen. 45 giây.
 </teacher_script>
 
 <task>
@@ -465,31 +461,31 @@ Thầy đi qua từng cặp hen.
 </teacher_script>
 
 <teacher_script pause="0">
-When nối với g - Time. When hỏi "khi nào" nên hỏi về thời gian.
+<eng>When</eng> nối với g - <eng>Time</eng>. <eng>When</eng> hỏi "khi nào" nên hỏi về thời gian.
 </teacher_script>
 
 <teacher_script pause="0">
-How many nối với a - Number. How many hỏi "bao nhiêu" nên hỏi về số lượng.
+<eng>How many</eng> nối với a - <eng>Number</eng>. <eng>How many</eng> hỏi "bao nhiêu" nên hỏi về số lượng.
 </teacher_script>
 
 <teacher_script pause="0">
-How often nối với b - Repetition. How often hỏi "thường xuyên thế nào" nên hỏi về tần suất.
+<eng>How often</eng> nối với b - <eng>Repetition</eng>. <eng>How often</eng> hỏi "thường xuyên thế nào" nên hỏi về tần suất.
 </teacher_script>
 
 <teacher_script pause="0">
-What nối với c - Thing. What hỏi "cái gì" nên hỏi về sự vật.
+<eng>What</eng> nối với c - <eng>Thing</eng>. <eng>What</eng> hỏi "cái gì" nên hỏi về sự vật.
 </teacher_script>
 
 <teacher_script pause="0">
-Where nối với d - Place. Where hỏi "ở đâu" nên hỏi về nơi chốn.
+<eng>Where</eng> nối với d - <eng>Place</eng>. <eng>Where</eng> hỏi "ở đâu" nên hỏi về nơi chốn.
 </teacher_script>
 
 <teacher_script pause="0">
-Who nối với e - People. Who hỏi "ai" nên hỏi về người.
+<eng>Who</eng> nối với e - <eng>People</eng>. <eng>Who</eng> hỏi "ai" nên hỏi về người.
 </teacher_script>
 
 <teacher_script pause="0">
-Why nối với f - Reason. Why hỏi "tại sao" nên hỏi về lý do.
+<eng>Why</eng> nối với f - <eng>Reason</eng>. <eng>Why</eng> hỏi "tại sao" nên hỏi về lý do.
 </teacher_script>
 
 <explanation>
@@ -507,10 +503,11 @@ Why nối với f - Reason. Why hỏi "tại sao" nên hỏi về lý do.
 </explanation>
 
 <teacher_script pause="30">
-Sửa bài nếu sai hen. 30 giây. Nếu cần hỏi thì nhấn thu âm bên dưới nha.
+Sửa bài nếu sai hen. 30 giây. Bài này ai sai nhiều thì đọc lại bảng tóm tắt ở trên nha.
 </teacher_script>
 
 <teacher_script pause="0" action="record">
+Nếu cần hỏi thì nhấn thu âm bên dưới nha.
 </teacher_script>
 
 ---
@@ -519,7 +516,7 @@ Sửa bài nếu sai hen. 30 giây. Nếu cần hỏi thì nhấn thu âm bên d
 ### Bài 3 trang 9 - Complete conversations
 
 <teacher_script pause="60">
-Bài 3 nha. Điền từ hỏi để hoàn thành hội thoại. Mẹo quan trọng: Nhìn câu trả lời để đoán từ hỏi hen. 1 phút.
+Bài 3 <eng>Use the question words in the box to complete the conversations</eng> nha. Điền từ hỏi để hoàn thành hội thoại. Mẹo quan trọng: Nhìn câu trả lời để đoán từ hỏi hen. 1 phút.
 </teacher_script>
 
 <task>
@@ -571,23 +568,23 @@ Thầy giải thích từng câu hen. Nhớ mẹo: nhìn câu trả lời để 
 </teacher_script>
 
 <teacher_script pause="0">
-Conversation 1, câu đầu: Trả lời là "Two or three times a week" - đây là tần suất, nên dùng HOW OFTEN.
+Conversation 1, câu đầu: Trả lời là <eng>Two or three times a week</eng> - đây là tần suất, nên dùng <eng>HOW OFTEN</eng>.
 </teacher_script>
 
 <teacher_script pause="0">
-Conversation 1, câu sau: Trả lời là "talent shows" - đây là sự vật, nên dùng WHAT.
+Conversation 1, câu sau: Trả lời là <eng>talent shows</eng> - đây là sự vật, nên dùng <eng>WHAT</eng>.
 </teacher_script>
 
 <teacher_script pause="0">
-Conversation 2: Trả lời là "Nobita" - đây là nhân vật, người, nên dùng WHO.
+Conversation 2: Trả lời là <eng>Nobita</eng> - đây là nhân vật, người, nên dùng <eng>WHO</eng>. Ai mà điền <eng>What</eng> là sai đó nha.
 </teacher_script>
 
 <teacher_script pause="0">
-Conversation 3, câu đầu: Trả lời là "Saturday or Sunday" - đây là thời gian, nên dùng WHEN.
+Conversation 3, câu đầu: Trả lời là <eng>Saturday or Sunday</eng> - đây là thời gian, nên dùng <eng>WHEN</eng>.
 </teacher_script>
 
 <teacher_script pause="0">
-Conversation 3, câu sau: Trả lời là "In the yard" - đây là nơi chốn, nên dùng WHERE.
+Conversation 3, câu sau: Trả lời là <eng>In the yard</eng> - đây là nơi chốn, nên dùng <eng>WHERE</eng>.
 </teacher_script>
 
 <explanation>
@@ -612,26 +609,26 @@ Sửa bài nếu sai hen. 30 giây.
 
 <!-- chunk: grammar_conjunctions_intro -->
 <teacher_script pause="0">
-Giờ qua phần 2 hen - Conjunctions: and, but, so. Phần này cũng quan trọng không kém.
+Giờ qua phần 2 hen - <eng>Conjunctions</eng>: <eng>and</eng>, <eng>but</eng>, <eng>so</eng>. Phần này cũng quan trọng không kém.
 </teacher_script>
 
 <teacher_script pause="0">
-Conjunctions là liên từ - dùng để nối 2 câu lại với nhau. Dùng đúng thì câu văn mượt hơn.
+<eng>Conjunctions</eng> là liên từ - dùng để nối 2 câu lại với nhau. Dùng đúng thì câu văn mượt hơn, điểm cao hơn.
 </teacher_script>
 
 <teacher_script pause="0">
-Có 3 liên từ cần học: and, but, so. Mỗi cái có nghĩa và cách dùng khác nhau hen.
+Có 3 liên từ cần học: <eng>and</eng>, <eng>but</eng>, <eng>so</eng>. Mỗi cái có nghĩa và cách dùng khác nhau hen.
 </teacher_script>
 
 <teacher_script pause="0">
-Giờ đi qua từng liên từ một nha. Thầy sẽ cho mẹo nhớ luôn.
+Giờ đi qua từng liên từ một nha. Thầy sẽ cho mẹo nhớ luôn, dễ nhớ lắm.
 </teacher_script>
 
 ---
 
 <!-- chunk: grammar_and -->
 <teacher_script pause="0">
-Đầu tiên là AND hen - nghĩa là "và".
+Đầu tiên là <eng>AND</eng> - nghĩa là "và".
 </teacher_script>
 
 <grammar>
@@ -650,22 +647,22 @@ Giờ đi qua từng liên từ một nha. Thầy sẽ cho mẹo nhớ luôn.
 </grammar>
 
 <teacher_script pause="0">
-Nhớ hen: AND dùng khi 2 vế cùng chiều, bổ sung cho nhau.
+<eng>I like cartoons and my brother likes them, too.</eng> - Nhớ hen: <eng>AND</eng> dùng khi 2 vế cùng chiều, bổ sung cho nhau.
 </teacher_script>
 
 <teacher_script pause="0">
-Mẹo nhớ: AND giống như phép cộng vậy: ý 1 CỘNG ý 2. Tưởng tượng dấu + là được.
+Mẹo nhớ: <eng>AND</eng> giống như phép cộng vậy: ý 1 CỘNG ý 2. Tưởng tượng dấu + là được.
 </teacher_script>
 
 <teacher_script pause="30">
-Ghi vô tập: AND = và, nối 2 ý cùng chiều. Ký hiệu: +. 30 giây nha.
+Ghi vô tập: <eng>AND</eng> = và, nối 2 ý cùng chiều. Ký hiệu: +. 30 giây nha.
 </teacher_script>
 
 ---
 
 <!-- chunk: grammar_but -->
 <teacher_script pause="0">
-Tiếp theo là BUT hen - nghĩa là "nhưng".
+Tiếp theo là <eng>BUT</eng> - nghĩa là "nhưng".
 </teacher_script>
 
 <grammar>
@@ -684,22 +681,22 @@ Tiếp theo là BUT hen - nghĩa là "nhưng".
 </grammar>
 
 <teacher_script pause="0">
-Nhớ hen: BUT dùng khi 2 vế trái ngược, đối lập nhau.
+<eng>He can colour pictures, but he can't draw.</eng> - Nhớ hen: <eng>BUT</eng> dùng khi 2 vế trái ngược, đối lập nhau.
 </teacher_script>
 
 <teacher_script pause="0">
-Mẹo nhớ: BUT là 2 mũi tên ngược nhau ↔. Thường có cặp từ đối lập như: can - can't, like - don't like, good - bad...
+Mẹo nhớ: <eng>BUT</eng> là 2 mũi tên ngược nhau. Thường có cặp từ đối lập như: <eng>can</eng> - <eng>can't</eng>, <eng>like</eng> - <eng>don't like</eng>, <eng>good</eng> - <eng>bad</eng>.
 </teacher_script>
 
 <teacher_script pause="30">
-Ghi vô tập: BUT = nhưng, nối 2 ý đối lập. Ký hiệu: ↔. 30 giây nha.
+Ghi vô tập: <eng>BUT</eng> = nhưng, nối 2 ý đối lập. Ký hiệu: mũi tên ngược. 30 giây nha.
 </teacher_script>
 
 ---
 
 <!-- chunk: grammar_so -->
 <teacher_script pause="0">
-Cuối cùng là SO hen - nghĩa là "vì vậy, nên".
+Cuối cùng là <eng>SO</eng> - nghĩa là "vì vậy, nên".
 </teacher_script>
 
 <grammar>
@@ -720,15 +717,15 @@ Cuối cùng là SO hen - nghĩa là "vì vậy, nên".
 </grammar>
 
 <teacher_script pause="0">
-Nhớ hen: SO dùng khi vế 1 là nguyên nhân, vế 2 là kết quả.
+<eng>I'm tired, so I'll go to bed early.</eng> - Nhớ hen: <eng>SO</eng> dùng khi vế 1 là nguyên nhân, vế 2 là kết quả.
 </teacher_script>
 
 <teacher_script pause="0">
-Mẹo nhớ: SO giống như mũi tên →. Vì A nên B. A → B. Nguyên nhân dẫn đến kết quả.
+Mẹo nhớ: <eng>SO</eng> giống như mũi tên chỉ về phía trước. Vì A nên B. A dẫn đến B. Nguyên nhân dẫn đến kết quả.
 </teacher_script>
 
 <teacher_script pause="30">
-Ghi vô tập: SO = vì vậy, nên. Nối nguyên nhân → kết quả. Ký hiệu: →. 30 giây nha.
+Ghi vô tập: <eng>SO</eng> = vì vậy, nên. Nối nguyên nhân dẫn đến kết quả. 30 giây nha.
 </teacher_script>
 
 ---
@@ -759,15 +756,15 @@ Mẹo nhớ quan trọng hen:
 </teacher_script>
 
 <teacher_script pause="0">
-AND = cộng thêm, ký hiệu +. Ví dụ: Tôi thích A VÀ tôi cũng thích B.
+<eng>AND</eng> = cộng thêm, ký hiệu +. Ví dụ: Tôi thích A VÀ tôi cũng thích B.
 </teacher_script>
 
 <teacher_script pause="0">
-BUT = đối lập, ký hiệu ↔. Ví dụ: A tốt NHƯNG B không tốt.
+<eng>BUT</eng> = đối lập. Ví dụ: A tốt NHƯNG B không tốt.
 </teacher_script>
 
 <teacher_script pause="0">
-SO = kết quả, ký hiệu →. Ví dụ: Vì A NÊN B.
+<eng>SO</eng> = kết quả. Ví dụ: Vì A NÊN B.
 </teacher_script>
 
 <teacher_script pause="45">
@@ -780,7 +777,7 @@ Ghi bảng tóm tắt vô tập đi. 45 giây hen.
 ### Bài 4 trang 10 - Match
 
 <teacher_script pause="45">
-Bài 4 nha. Nối phần đầu với phần đuôi. Mẹo: Nhìn liên từ and, but, so để biết nối với vế nào hen. 45 giây.
+Bài 4 <eng>Match the beginnings with the endings</eng> nha. Nối phần đầu với phần đuôi. Mẹo: Nhìn liên từ <eng>and</eng>, <eng>but</eng>, <eng>so</eng> để biết nối với vế nào hen. 45 giây.
 </teacher_script>
 
 <task>
@@ -815,43 +812,23 @@ Giải thích từng câu nha.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 1 dùng AND: "I like animal programmes, and my brother likes them, too."
+Câu 1: <eng>I like animal programmes, and my brother likes them, too.</eng> - Cả hai cùng thích - 2 ý cùng chiều, nên dùng <eng>AND</eng>.
 </teacher_script>
 
 <teacher_script pause="0">
-Cả hai cùng thích - 2 ý cùng chiều, nên dùng AND.
+Câu 2: <eng>I'll get up early, so I can be at the stadium on time.</eng> - Dậy sớm là nguyên nhân, đến kịp giờ là kết quả, nên dùng <eng>SO</eng>.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 2 dùng SO: "I'll get up early, so I can be at the stadium on time."
+Câu 3: <eng>Sometimes we read books, and sometimes we play sports.</eng> - Hai hoạt động song song, bổ sung cho nhau, nên dùng <eng>AND</eng>.
 </teacher_script>
 
 <teacher_script pause="0">
-Dậy sớm là nguyên nhân, đến kịp giờ là kết quả, nên dùng SO.
+Câu 4: <eng>He can colour, but he can't draw.</eng> - <eng>Can</eng> và <eng>can't</eng> là đối lập nhau, nên dùng <eng>BUT</eng>. Ai chọn sai câu này là chưa hiểu <eng>BUT</eng> đó nha.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 3 dùng AND: "Sometimes we read books, and sometimes we play sports."
-</teacher_script>
-
-<teacher_script pause="0">
-Hai hoạt động song song, bổ sung cho nhau, nên dùng AND.
-</teacher_script>
-
-<teacher_script pause="0">
-Câu 4 dùng BUT: "He can colour, but he can't draw."
-</teacher_script>
-
-<teacher_script pause="0">
-Can và can't là đối lập nhau, nên dùng BUT.
-</teacher_script>
-
-<teacher_script pause="0">
-Câu 5 dùng SO: "We love outdoor activities, so we spend Saturday playing sports."
-</teacher_script>
-
-<teacher_script pause="0">
-Thích hoạt động ngoài trời là nguyên nhân, chơi thể thao là kết quả, nên dùng SO.
+Câu 5: <eng>We love outdoor activities, so we spend Saturday playing sports.</eng> - Thích hoạt động ngoài trời là nguyên nhân, chơi thể thao là kết quả, nên dùng <eng>SO</eng>.
 </teacher_script>
 
 <explanation>
@@ -876,7 +853,7 @@ Sửa bài nếu sai. 30 giây nha.
 ### Bài 5 trang 10 - Fill in and, but, so
 
 <teacher_script pause="60">
-Bài 5. Điền and, but hoặc so. Đọc kỹ 2 vế của câu, xem mối quan hệ giữa chúng là gì. 1 phút nha.
+Bài 5 <eng>Use and, but or so to complete the sentences</eng> nha. Điền <eng>and</eng>, <eng>but</eng> hoặc <eng>so</eng>. Đọc kỹ 2 vế của câu, xem mối quan hệ giữa chúng là gì. 1 phút nha.
 </teacher_script>
 
 <task>
@@ -923,43 +900,23 @@ Giải thích từng câu nha.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 1: "I'm tired, SO I'll go to bed early."
+Câu 1: <eng>I'm tired, so I'll go to bed early.</eng> - Mệt là nguyên nhân, đi ngủ sớm là kết quả.
 </teacher_script>
 
 <teacher_script pause="0">
-Mệt là nguyên nhân, đi ngủ sớm là kết quả. Nên dùng SO.
+Câu 2: <eng>My sister is good at school, but I'm not.</eng> - Em giỏi, tôi không giỏi - 2 ý đối lập.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 2: "My sister is good at school, BUT I'm not."
+Câu 3: <eng>We trained hard, so we won the game.</eng> - Tập chăm là nguyên nhân, thắng là kết quả.
 </teacher_script>
 
 <teacher_script pause="0">
-Em giỏi, tôi không giỏi - 2 ý đối lập. Nên dùng BUT.
+Câu 4: <eng>The programme is interesting, but it's too long.</eng> - Thú vị là điểm tốt, quá dài là điểm xấu - 2 ý đối lập. Câu này hay bị nhầm đó, cẩn thận.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 3: "We trained hard, SO we won the game."
-</teacher_script>
-
-<teacher_script pause="0">
-Tập chăm là nguyên nhân, thắng là kết quả. Nên dùng SO.
-</teacher_script>
-
-<teacher_script pause="0">
-Câu 4: "The programme is interesting, BUT it's too long."
-</teacher_script>
-
-<teacher_script pause="0">
-Thú vị là điểm tốt, quá dài là điểm xấu - 2 ý đối lập. Nên dùng BUT.
-</teacher_script>
-
-<teacher_script pause="0">
-Câu 5: "I'll write him instructions, AND I hope he'll follow them."
-</teacher_script>
-
-<teacher_script pause="0">
-Viết hướng dẫn và hy vọng anh ấy làm theo - 2 hành động bổ sung. Nên dùng AND.
+Câu 5: <eng>I'll write him instructions, and I hope he'll follow them.</eng> - Viết hướng dẫn và hy vọng anh ấy làm theo - 2 hành động bổ sung.
 </teacher_script>
 
 <explanation>
@@ -1021,17 +978,17 @@ Ghi tóm tắt vô tập đi. 1 phút nha.
 
 <!-- chunk: end -->
 <teacher_script pause="0">
-Ok hết A Closer Look 2 rồi.
+Ok hết <eng>A Closer Look 2</eng> rồi. Bài này dài nhưng mấy đứa làm tốt lắm.
 </teacher_script>
 
 <teacher_script pause="0">
-Về nhà học thuộc các từ hỏi WH và 3 liên từ and, but, so nha.
+Về nhà học thuộc các từ hỏi WH và 3 liên từ <eng>and</eng>, <eng>but</eng>, <eng>so</eng> nha.
 </teacher_script>
 
 <teacher_script pause="0">
-Nhớ mẹo: AND là cộng, BUT là đối, SO là kết quả.
+Nhớ mẹo: <eng>AND</eng> là cộng, <eng>BUT</eng> là đối, <eng>SO</eng> là kết quả. Nhớ 3 cái này là làm bài đúng hết.
 </teacher_script>
 
 <teacher_script pause="0">
-Bài sau qua Communication. Hẹn gặp lại!
+Bài sau qua <eng>Communication</eng>. Hẹn gặp lại mấy đứa!
 </teacher_script>

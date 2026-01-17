@@ -36,11 +36,11 @@ Bài này có phần Listening về vấn đề giao thông, và Writing viết 
 </vocabulary>
 
 <teacher_script pause="90">
-Từ vựng bài Listening nè. Click nghe phát âm, ghi vô tập. 1 phút rưỡi.
+Từ vựng bài Listening nè. Click nghe phát âm, ghi vô tập. 1 phút rưỡi nha.
 </teacher_script>
 
 <teacher_script pause="0" action="record">
-Ghi âm đọc từ vựng gửi thầy sửa.
+Ghi âm đọc từ vựng gửi thầy sửa nha.
 </teacher_script>
 
 ---
@@ -49,7 +49,7 @@ Ghi âm đọc từ vựng gửi thầy sửa.
 ### Listening
 
 <teacher_script pause="0">
-Giờ qua phần Listening. Nghe về vấn đề giao thông ở Mumbai, Ấn Độ.
+<eng>Listening.</eng> Giờ qua phần Listening. Nghe về vấn đề giao thông ở Mumbai, Ấn Độ.
 </teacher_script>
 
 ---
@@ -58,7 +58,7 @@ Giờ qua phần Listening. Nghe về vấn đề giao thông ở Mumbai, Ấn �
 ### Bài 1 trang 15 - Look at the picture
 
 <teacher_script pause="30">
-Bài 1. Nhìn hình, bạn thấy gì? Có gì đặc biệt? 30 giây suy nghĩ.
+Bài 1 <eng>Look at the picture</eng>. Nhìn hình, bạn thấy gì? Có gì đặc biệt? 30 giây suy nghĩ nha.
 </teacher_script>
 
 <task>
@@ -67,8 +67,8 @@ Bài 1. Nhìn hình, bạn thấy gì? Có gì đặc biệt? 30 giây suy nghĩ
 </task>
 
 <teacher_script pause="0">
-Trong hình là đường phố ở Mumbai, Ấn Độ. Rất đông xe, kẹt cứng luôn.
-Mumbai là một trong những thành phố tắc nghẽn nhất thế giới.
+Trong hình là đường phố ở Mumbai, Ấn Độ. Rất đông xe, kẹt cứng luôn!
+Mumbai là một trong những thành phố tắc nghẽn nhất thế giới đó.
 </teacher_script>
 
 <answer>
@@ -100,7 +100,7 @@ I can see a busy street with heavy traffic. There are many vehicles: cars, buses
 </reading>
 
 <teacher_script pause="60">
-Đọc hiểu bài nghe. 1 phút.
+Đọc hiểu bài nghe. 1 phút nha.
 </teacher_script>
 
 ---
@@ -113,7 +113,7 @@ I can see a busy street with heavy traffic. There are many vehicles: cars, buses
 </audio>
 
 <teacher_script pause="30">
-Bài 2. Nghe và chọn đáp án đúng. 30 giây.
+Bài 2 <eng>Listen and choose the best answer</eng>. Nghe và chọn đáp án đúng. 30 giây nha.
 </teacher_script>
 
 <questions type="multiple_choice">
@@ -129,7 +129,7 @@ Bài 2. Nghe và chọn đáp án đúng. 30 giây.
 
 <!-- chunk: answer_2 -->
 <teacher_script pause="0">
-Đáp án là C - Traffic problems in Mumbai.
+Đáp án là C. <eng>Traffic problems in Mumbai.</eng>
 </teacher_script>
 
 <answer>
@@ -153,7 +153,7 @@ Bài nghe nói về:
 ### Bài 3 trang 15 - Listen and fill
 
 <teacher_script pause="60">
-Bài 3. Nghe lại và điền 1 từ hoặc 1 số vào chỗ trống. 1 phút.
+Bài 3 <eng>Listen again and fill in each blank with a word or a number</eng>. Nghe lại và điền 1 từ hoặc 1 số vào chỗ trống. 1 phút nha.
 </teacher_script>
 
 <questions type="fill_blanks">
@@ -182,7 +182,7 @@ Bài 3. Nghe lại và điền 1 từ hoặc 1 số vào chỗ trống. 1 phút.
 
 <!-- chunk: answer_3 -->
 <teacher_script pause="0">
-Ok đáp án.
+Ok đáp án nè.
 </teacher_script>
 
 <answer>
@@ -195,23 +195,23 @@ Ok đáp án.
 </answer>
 
 <teacher_script pause="0">
-Câu 1: jams. Traffic jams = tắc đường.
+Câu 1: <eng>jams</eng>. <eng>Traffic jams</eng> = tắc đường.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 2: jams hoặc problems. Cả hai đều đúng.
+Câu 2: <eng>jams</eng> hoặc <eng>problems</eng>. Cả hai đều đúng.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 3: Twenty hoặc 20. Hai mươi triệu người.
+Câu 3: <eng>Twenty</eng> hoặc 20. Hai mươi triệu người. Đông ghê luôn!
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 4: roads. Nhiều con đường hẹp và gồ ghề.
+Câu 4: <eng>roads</eng>. Nhiều con đường hẹp và gồ ghề.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 5: obey. Không tuân thủ luật giao thông.
+Câu 5: <eng>obey</eng>. Không tuân thủ luật giao thông. Giống Việt Nam quá hen!
 </teacher_script>
 
 <explanation>
@@ -227,7 +227,7 @@ Câu 5: obey. Không tuân thủ luật giao thông.
 </explanation>
 
 <teacher_script pause="30">
-Sửa bài đi. 30 giây.
+Sửa bài đi. 30 giây nha.
 </teacher_script>
 
 ---
@@ -236,7 +236,7 @@ Sửa bài đi. 30 giây.
 ### Writing
 
 <teacher_script pause="0">
-Giờ qua phần Writing nha.
+<eng>Writing.</eng> Giờ qua phần Writing nha.
 </teacher_script>
 
 ---
@@ -245,7 +245,7 @@ Giờ qua phần Writing nha.
 ### Bài 4 trang 15 - Tick the traffic problems
 
 <teacher_script pause="30">
-Bài 4. Đánh dấu các vấn đề giao thông ở các thành phố lớn ở Việt Nam. 30 giây.
+Bài 4 <eng>Tick the traffic problems in big cities in Vietnam</eng>. Đánh dấu các vấn đề giao thông ở các thành phố lớn ở Việt Nam. 30 giây nha.
 </teacher_script>
 
 <task>
@@ -286,6 +286,7 @@ Bài 4. Đánh dấu các vấn đề giao thông ở các thành phố lớn �
 
 <teacher_script pause="0">
 Ở Việt Nam, 4 vấn đề đầu tiên khá phổ biến. Riêng số 5 về động vật hoang dã thì không phổ biến ở thành phố lớn.
+Chứ ở quê thì thấy trâu bò đi trên đường hoài luôn!
 </teacher_script>
 
 ---
@@ -294,7 +295,7 @@ Bài 4. Đánh dấu các vấn đề giao thông ở các thành phố lớn �
 ### Bài 5 trang 15 - Write a paragraph
 
 <teacher_script pause="0">
-Bài 5. Viết đoạn văn khoảng 70 từ về vấn đề giao thông ở nơi em sống.
+Bài 5 <eng>Write a paragraph of about 70 words about the traffic problems in your town or city</eng>. Viết đoạn văn khoảng 70 từ về vấn đề giao thông ở nơi em sống nha.
 </teacher_script>
 
 <task>
@@ -322,14 +323,14 @@ Bài 5. Viết đoạn văn khoảng 70 từ về vấn đề giao thông ở n�
 </grammar>
 
 <teacher_script pause="300">
-Viết đoạn văn vô tập. 5 phút.
+Viết đoạn văn vô tập. 5 phút nha.
 </teacher_script>
 
 ---
 
 <!-- chunk: sample_writing -->
 <teacher_script pause="0">
-Đây là bài mẫu để tham khảo.
+Đây là bài mẫu để tham khảo nha.
 </teacher_script>
 
 <reading>
@@ -343,20 +344,18 @@ Viết đoạn văn vô tập. 5 phút.
 </reading>
 
 <teacher_script pause="60">
-So sánh bài viết của em với bài mẫu. Sửa lại nếu cần. 1 phút.
+So sánh bài viết của em với bài mẫu. Sửa lại nếu cần. 1 phút nha.
 </teacher_script>
 
 <teacher_script pause="0" action="photo">
-Chụp bài viết gửi cho thầy sửa.
+Chụp bài viết gửi cho thầy sửa nha.
 </teacher_script>
 
 ---
 
 <!-- chunk: end -->
 <teacher_script pause="0">
-Ok hết Skills 2 rồi. Nhớ mấy từ quan trọng:
-- traffic jam = tắc đường
-- congested = tắc nghẽn
-- obey the traffic rules = tuân thủ luật giao thông
+Ok hết Skills 2 rồi. Nhớ mấy từ quan trọng nha:
+<eng>Traffic jam</eng> = tắc đường, <eng>congested</eng> = tắc nghẽn, <eng>obey the traffic rules</eng> = tuân thủ luật giao thông.
 Bài sau qua Looking Back. Hẹn gặp lại!
 </teacher_script>

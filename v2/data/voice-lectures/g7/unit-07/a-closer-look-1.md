@@ -4,7 +4,10 @@
 
 <!-- chunk: intro -->
 <teacher_script pause="0">
-Ok lớp 7, bài hôm nay là A Closer Look 1 - Unit 7 Traffic nha. Mở sách trang 10 đi.
+Ok lớp 7, bài hôm nay là <eng>A Closer Look 1</eng> - Unit 7 <eng>Traffic</eng> nha. Mở sách trang 10 đi.
+</teacher_script>
+
+<teacher_script pause="0">
 Bài này học từ vựng về phương tiện giao thông, biển báo đường bộ, và phát âm 2 âm /aɪ/ với /eɪ/.
 </teacher_script>
 
@@ -44,7 +47,7 @@ Bấm nút Ghi âm để đọc từ vựng và gửi cho thầy sửa nha.
 ### Bài 1 trang 10 - Match
 
 <teacher_script pause="45">
-Bài 1. Nối động từ ở cột A với cụm từ ở cột B. 45 giây nha.
+Bài 1 <eng>Match the verbs in column A with the words or phrases in column B</eng>. Nối động từ ở cột A với cụm từ ở cột B. 45 giây nha.
 </teacher_script>
 
 <questions type="matching">
@@ -61,7 +64,7 @@ Bài 1. Nối động từ ở cột A với cụm từ ở cột B. 45 giây nh
 
 <!-- chunk: answer_1 -->
 <teacher_script pause="0">
-Đáp án nha. 1-c, 2-a, 3-b, 4-d, 5-e.
+Đáp án nha. <eng>1-c: ride a bike. 2-a: drive a car. 3-b: sail a boat. 4-d: go on foot. 5-e: travel by air.</eng>
 </teacher_script>
 
 <answer>
@@ -73,16 +76,16 @@ Bài 1. Nối động từ ở cột A với cụm từ ở cột B. 45 giây nh
 
 | Nối | Cụm từ | Nghĩa | Ghi nhớ |
 |-----|--------|-------|---------|
-| 1-c | ride a bike | đi xe đạp | ride = cưỡi (ngồi lên) |
-| 2-a | drive a car | lái xe ô tô | drive = lái (có vô lăng) |
-| 3-b | sail a boat | lái thuyền | sail = chèo/lái thuyền |
-| 4-d | go on foot | đi bộ | on foot = bằng chân |
-| 5-e | travel by air | đi máy bay | by air = bằng đường hàng không |
+| 1-c | ride a bike | đi xe đạp | <eng>ride</eng> = cưỡi (ngồi lên) |
+| 2-a | drive a car | lái xe ô tô | <eng>drive</eng> = lái (có vô lăng) |
+| 3-b | sail a boat | lái thuyền | <eng>sail</eng> = chèo/lái thuyền |
+| 4-d | go on foot | đi bộ | <eng>on foot</eng> = bằng chân |
+| 5-e | travel by air | đi máy bay | <eng>by air</eng> = bằng đường hàng không |
 
 **Câu ví dụ:**
-- My father taught me how to **ride a bike**. (Cha tôi dạy tôi cách đi xe đạp.)
-- I usually **drive a car** to work. (Tôi thường lái xe đi làm.)
-- We can **sail a boat** in Ha Long Bay. (Chúng tôi có thể lái thuyền ở Vịnh Hạ Long.)
+- My father taught me how to <eng>ride a bike</eng>. (Cha tôi dạy tôi cách đi xe đạp.)
+- I usually <eng>drive a car</eng> to work. (Tôi thường lái xe đi làm.)
+- We can <eng>sail a boat</eng> in Ha Long Bay. (Chúng tôi có thể lái thuyền ở Vịnh Hạ Long.)
 </explanation>
 
 ---
@@ -91,25 +94,25 @@ Bài 1. Nối động từ ở cột A với cụm từ ở cột B. 45 giây nh
 ### Bài 2 trang 10 - Road signs
 
 <teacher_script pause="60">
-Bài 2. Nhìn các biển báo giao thông và viết tên đúng bên dưới. 1 phút nha.
+Bài 2 <eng>Write the correct phrases under the signs</eng>. Nhìn các biển báo giao thông và viết tên đúng bên dưới. 1 phút nha.
 </teacher_script>
 
 <questions type="fill_blanks">
 **Viết tên biển báo:**
 
-1. 🚫➡️ → _______
-2. 🚦 → _______
-3. 🚴 → _______
-4. 🚳 → _______
-5. 🏫 → _______
-6. 🏥 → _______
+1. (biển cấm rẽ phải) → _______
+2. (đèn giao thông) → _______
+3. (làn xe đạp) → _______
+4. (cấm xe đạp) → _______
+5. (trường học phía trước) → _______
+6. (bệnh viện phía trước) → _______
 </questions>
 
 ---
 
 <!-- chunk: answer_2 -->
 <teacher_script pause="0">
-Đáp án nha.
+Đáp án nha. <eng>1. no right turn. 2. traffic lights. 3. cycle lane. 4. no cycling. 5. school ahead. 6. hospital ahead.</eng>
 </teacher_script>
 
 <answer>
@@ -128,13 +131,13 @@ Bài 2. Nhìn các biển báo giao thông và viết tên đúng bên dưới. 
 ### Bài 3 trang 10 - Speaking
 
 <teacher_script pause="0">
-Bài 3. Nói về các biển báo trên đường đến trường.
+Bài 3 <eng>Work in groups. Talk about the road signs you see on the way to school</eng>. Nói về các biển báo trên đường đến trường.
 </teacher_script>
 
 <questions type="speaking">
 **Cấu trúc:**
-- On my way to school, I see a '______' sign.
-- (Trên đường đến trường, tôi thấy biển báo '______'.)
+
+<eng>On my way to school, I see a '______' sign.</eng> - Trên đường đến trường, tôi thấy biển báo '______'.
 
 **Mẫu:**
 
@@ -223,9 +226,9 @@ Phần phát âm nha. Hôm nay học 2 âm: /aɪ/ như "ai" và /eɪ/ như "ây"
 - **/eɪ/** = "ây" (như "mây", "tây") → thường viết với **a_e, ay, ai, a**
 
 **Lỗi thường gặp:**
-- ❌ Đọc /aɪ/ thành /i/ ngắn: ride → rid ❌
-- ❌ Đọc /eɪ/ thành /e/ ngắn: train → tren ❌
-- ✅ Nhớ: Cả hai âm đều kết thúc bằng /ɪ/ (miệng khép lại)
+- (X) Đọc /aɪ/ thành /i/ ngắn: ride → rid (X)
+- (X) Đọc /eɪ/ thành /e/ ngắn: train → tren (X)
+- (OK) Nhớ: Cả hai âm đều kết thúc bằng /ɪ/ (miệng khép lại)
 </pronunciation_theory>
 
 ---
@@ -238,7 +241,7 @@ Phần phát âm nha. Hôm nay học 2 âm: /aɪ/ như "ai" và /eɪ/ như "ây"
 </audio>
 
 <teacher_script pause="60">
-Bài 4. Nghe và lặp lại các từ sau. Chú ý phân biệt âm /aɪ/ và /eɪ/. 1 phút nha.
+Bài 4 <eng>Listen and repeat</eng>. Nghe và lặp lại các từ sau. Chú ý phân biệt âm /aɪ/ và /eɪ/. 1 phút nha.
 </teacher_script>
 
 <questions type="pronunciation">
@@ -261,7 +264,7 @@ Ghi âm đọc 10 từ trên và gửi cho thầy sửa nha.
 </audio>
 
 <teacher_script pause="60">
-Bài 5. Gạch chân các từ có âm /aɪ/, khoanh tròn các từ có âm /eɪ/. 1 phút nha.
+Bài 5 <eng>Underline the words with the /aɪ/ sound and circle the words with the /eɪ/ sound</eng>. Gạch chân các từ có âm /aɪ/, khoanh tròn các từ có âm /eɪ/. 1 phút nha.
 </teacher_script>
 
 <questions type="find_words">
@@ -294,30 +297,29 @@ Bài 5. Gạch chân các từ có âm /aɪ/, khoanh tròn các từ có âm /e�
 <explanation>
 **Giải thích:**
 
-**Câu 1:** The bus **station** is too far to go on foot.
-- station /ˈsteɪʃn/ → âm /eɪ/
+**Câu 1:** The bus <eng>station</eng> is too far to go on foot.
+- <eng>station</eng> /ˈsteɪʃn/ → âm /eɪ/
 
-**Câu 2:** Remember to **ride** your **bike** carefully.
-- ride /raɪd/ → âm /aɪ/
-- bike /baɪk/ → âm /aɪ/
+**Câu 2:** Remember to <eng>ride</eng> your <eng>bike</eng> carefully.
+- <eng>ride</eng> /raɪd/ → âm /aɪ/
+- <eng>bike</eng> /baɪk/ → âm /aɪ/
 
-**Câu 3:** We must **obey** traffic rules for our **safety**.
-- obey /əˈbeɪ/ → âm /eɪ/
-- safety /ˈseɪfti/ → âm /eɪ/
+**Câu 3:** We must <eng>obey</eng> traffic rules for our <eng>safety</eng>.
+- <eng>obey</eng> /əˈbeɪ/ → âm /eɪ/
+- <eng>safety</eng> /ˈseɪfti/ → âm /eɪ/
 
-**Câu 4:** You have to get there in **time** for the **train**.
-- time /taɪm/ → âm /aɪ/
-- train /treɪn/ → âm /eɪ/
+**Câu 4:** You have to get there in <eng>time</eng> for the <eng>train</eng>.
+- <eng>time</eng> /taɪm/ → âm /aɪ/
+- <eng>train</eng> /treɪn/ → âm /eɪ/
 
-**Câu 5:** Don't **drive** on the **pavement**.
-- drive /draɪv/ → âm /aɪ/
-- pavement /ˈpeɪvmənt/ → âm /eɪ/
+**Câu 5:** Don't <eng>drive</eng> on the <eng>pavement</eng>.
+- <eng>drive</eng> /draɪv/ → âm /aɪ/
+- <eng>pavement</eng> /ˈpeɪvmənt/ → âm /eɪ/
 </explanation>
 
 ---
 
 <!-- chunk: end -->
 <teacher_script pause="0">
-Ok hết A Closer Look 1 rồi. Về nhà học thuộc từ vựng và luyện phát âm 2 âm /aɪ/ với /eɪ/ nha.
-Bài sau qua A Closer Look 2, học ngữ pháp "How far" và "should/shouldn't". Hẹn gặp lại!
+Ok hết <eng>A Closer Look 1</eng> rồi. Về nhà học thuộc từ vựng và luyện phát âm 2 âm /aɪ/ với /eɪ/ nha. Bài sau qua <eng>A Closer Look 2</eng>, học ngữ pháp <eng>How far</eng> và <eng>should/shouldn't</eng>. Hẹn gặp lại!
 </teacher_script>

@@ -147,24 +147,80 @@ This is not a valid line
 
   describe('parseTeacherScript', () => {
     it('should parse all attributes', () => {
-      const attrs = 'pause="60" href="audio/file.mp3" action="record"';
+      const attrs = 'pause="60" lang="vi" href="audio/file.mp3" action="record"';
       const text = 'Ok lớp 6, bài 1 nha.';
 
       const ts = parseTeacherScript(text, attrs);
 
       expect(ts.text).toBe('Ok lớp 6, bài 1 nha.');
       expect(ts.pause).toBe(60);
+      expect(ts.lang).toBe('vi');
       expect(ts.href).toBe('audio/file.mp3');
       expect(ts.action).toBe('record');
       expect(ts.id).toMatch(/^ts-/);
+      expect(ts.segments).toHaveLength(1);
+      expect(ts.segments[0]).toEqual({ text: 'Ok lớp 6, bài 1 nha.', lang: 'vi' });
     });
 
     it('should use defaults for missing attributes', () => {
       const ts = parseTeacherScript('Simple text', '');
 
       expect(ts.pause).toBe(0);
+      expect(ts.lang).toBe('vi'); // Default to Vietnamese
       expect(ts.href).toBeNull();
       expect(ts.action).toBeNull();
+      expect(ts.segments).toHaveLength(1);
+    });
+
+    it('should parse lang="en" for English scripts', () => {
+      const attrs = 'pause="0" lang="en"';
+      const text = 'Exercise 1. Listen and read.';
+
+      const ts = parseTeacherScript(text, attrs);
+
+      expect(ts.text).toBe('Exercise 1. Listen and read.');
+      expect(ts.lang).toBe('en');
+      expect(ts.pause).toBe(0);
+      expect(ts.segments).toHaveLength(1);
+      expect(ts.segments[0].lang).toBe('en');
+    });
+
+    it('should parse inline <eng> and <vn> tags into segments', () => {
+      const attrs = 'pause="0"';
+      const text = '<eng>Click</eng> vào nút bắt đầu nha';
+
+      const ts = parseTeacherScript(text, attrs);
+
+      expect(ts.text).toBe('Click vào nút bắt đầu nha');
+      expect(ts.segments).toHaveLength(2);
+      expect(ts.segments[0]).toEqual({ text: 'Click', lang: 'en' });
+      expect(ts.segments[1]).toEqual({ text: 'vào nút bắt đầu nha', lang: 'vi' });
+    });
+
+    it('should handle multiple inline tags', () => {
+      const attrs = 'pause="0"';
+      const text = 'Bài 1 <eng>Listen and read</eng> nha. Bài <eng>Exercise</eng> này dễ lắm.';
+
+      const ts = parseTeacherScript(text, attrs);
+
+      expect(ts.segments).toHaveLength(5);
+      expect(ts.segments[0]).toEqual({ text: 'Bài 1', lang: 'vi' });
+      expect(ts.segments[1]).toEqual({ text: 'Listen and read', lang: 'en' });
+      expect(ts.segments[2]).toEqual({ text: 'nha. Bài', lang: 'vi' });
+      expect(ts.segments[3]).toEqual({ text: 'Exercise', lang: 'en' });
+      expect(ts.segments[4]).toEqual({ text: 'này dễ lắm.', lang: 'vi' });
+    });
+
+    it('should handle <vn> tags in English default script', () => {
+      const attrs = 'pause="0" lang="en"';
+      const text = 'Exercise 1. <vn>Bài tập một.</vn> Listen and read.';
+
+      const ts = parseTeacherScript(text, attrs);
+
+      expect(ts.segments).toHaveLength(3);
+      expect(ts.segments[0]).toEqual({ text: 'Exercise 1.', lang: 'en' });
+      expect(ts.segments[1]).toEqual({ text: 'Bài tập một.', lang: 'vi' });
+      expect(ts.segments[2]).toEqual({ text: 'Listen and read.', lang: 'en' });
     });
   });
 
