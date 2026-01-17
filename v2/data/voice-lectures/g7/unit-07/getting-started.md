@@ -244,7 +244,7 @@ Sửa bài nếu sai. 30 giây nha.
 ### Bài 4 trang 9 - Means of transport
 
 <teacher_script pause="60">
-Bài 4. Nhìn hình và viết tên phương tiện giao thông. Ghi vô vở các từ mới. 1 phút nha.
+Bài 4. Nhìn hình và viết tên phương tiện giao thông. Ghi vô tập các từ mới. 1 phút nha.
 </teacher_script>
 
 <vocabulary>
