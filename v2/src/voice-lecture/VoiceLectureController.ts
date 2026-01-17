@@ -48,6 +48,7 @@ export interface VoiceLectureControllerInterface {
   // Vocabulary
   startVocab(vocabId: string): void;
   finishVocab(vocabId: string): void;
+  skipVocab(vocabId: string): void; // Skip entire vocab section
 
   // State access (for testing)
   getState(): LectureStateInterface;
@@ -406,6 +407,11 @@ export class VoiceLectureController implements VoiceLectureControllerInterface {
     // State update will be handled by event listener
   }
 
+  skipVocab(vocabId: string): void {
+    this.vocabSystem.skipVocab(vocabId);
+    // State update will be handled by event listener
+  }
+
   // ============ STATE ACCESS ============
 
   getState(): LectureStateInterface {
@@ -455,6 +461,7 @@ export class VoiceLectureController implements VoiceLectureControllerInterface {
         advanceToNextChunk: () => this.advanceToNextChunk(),
         activateChunk: (index: number) => this.activateChunk(index),
         finishVocab: (vocabId: string) => this.finishVocab(vocabId),
+        skipVocab: (vocabId: string) => this.skipVocab(vocabId),
 
         // Service access
         getTimerScale: () => this.timerService.getTimeScale(),

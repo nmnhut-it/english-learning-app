@@ -51,6 +51,7 @@ export interface VocabSystemInterface {
   handleQuizAnswer(id: string, selectedAnswer: string, correctAnswer: string): Promise<boolean>;
   handleGameSelection(id: string, word: string, type: 'word' | 'meaning'): Promise<'match' | 'wrong' | 'selected' | 'switched'>;
   skipWritingTimer(id: string): void;
+  skipVocab(id: string): void; // Skip entire vocab section
 
   // Queries
   getCurrentPhase(id: string): VocabPhase | null;
@@ -387,6 +388,27 @@ export class VocabSystem implements VocabSystemInterface {
 
     const timerId = `vocab-writing-${id}`;
     this.timerService.skip(timerId);
+  }
+
+  /**
+   * Skip entire vocabulary section and complete immediately
+   * Used when student wants to skip learning vocab
+   */
+  skipVocab(id: string): void {
+    const instance = this.instances.get(id);
+    if (!instance || instance.isComplete) return;
+
+    // Stop any running timers
+    this.timerService.stop(`vocab-writing-${id}`);
+
+    // Cancel any audio
+    this.audioService.cancel();
+
+    // Emit skip event
+    this.eventBus?.emit(LectureEvents.VOCAB_SKIP, { id });
+
+    // Go directly to complete
+    this.completeVocab(id);
   }
 
   // ============ GAME PHASE ============
