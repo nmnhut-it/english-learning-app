@@ -6,106 +6,256 @@
   <title>Voice Lecture</title>
   <style>
     *{box-sizing:border-box;margin:0;padding:0}
-    :root{--primary:#2563eb;--success:#10b981;--warning:#f59e0b;--bg:#f8fafc;--card:#fff;--text:#1e293b;--muted:#64748b;--border:#e2e8f0;--radius:10px;--safe-bottom:env(safe-area-inset-bottom,0)}
-    body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;background:var(--bg);color:var(--text);line-height:1.6;font-size:16px}
+    :root{--primary:#0ea5e9;--primary-dark:#0284c7;--accent:#06b6d4;--success:#10b981;--warning:#f59e0b;--bg:#f0f9ff;--card:#fff;--text:#0f172a;--muted:#64748b;--border:#e0f2fe;--radius:12px;--safe-bottom:env(safe-area-inset-bottom,0)}
+    body{font-family:'Segoe UI',system-ui,-apple-system,sans-serif;background:linear-gradient(180deg,#f0f9ff 0%,#e0f2fe 100%);color:var(--text);line-height:1.6;font-size:16px;min-height:100vh}
 
-    /* Header */
-    header{background:var(--primary);color:#fff;padding:10px 16px;padding-top:calc(10px + env(safe-area-inset-top,0));position:fixed;top:0;left:0;right:0;z-index:100;display:flex;align-items:center;gap:12px}
-    header h1{font-size:.9rem;font-weight:600;flex:1;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-    #progress{height:3px;background:rgba(255,255,255,.3);position:absolute;bottom:0;left:0;right:0}
-    #progress-fill{height:100%;background:#fff;width:0%;transition:width .2s}
+    /* Header - Ocean Blue */
+    header{background:linear-gradient(135deg,#0284c7,#0ea5e9);color:#fff;padding:12px 16px;padding-top:calc(12px + env(safe-area-inset-top,0));position:fixed;top:0;left:0;right:0;z-index:100;display:flex;align-items:center;gap:12px;box-shadow:0 2px 12px rgba(14,165,233,.3)}
+    header h1{font-size:.95rem;font-weight:600;flex:1;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+    #progress{height:4px;background:rgba(255,255,255,.3);position:absolute;bottom:0;left:0;right:0;border-radius:2px}
+    #progress-fill{height:100%;background:#fff;width:0%;transition:width .3s;border-radius:2px}
 
     /* Content */
-    #content{padding:60px 16px 100px;max-width:640px;margin:0 auto}
+    #content{padding:68px 16px 100px;max-width:640px;margin:0 auto}
 
-    /* Chunks */
-    .chunk{padding:16px 0;border-bottom:1px dashed var(--border)}
+    /* Chunks - Clear sections */
+    .chunk{padding:20px 0;border-bottom:2px dashed #bae6fd}
     .chunk:last-child{border-bottom:none}
-    .chunk-title{font-size:.75rem;color:var(--muted);text-transform:uppercase;letter-spacing:.5px;margin-bottom:8px}
+    .chunk-title{font-size:.7rem;color:#0369a1;text-transform:uppercase;letter-spacing:1px;margin-bottom:10px;font-weight:600;background:#e0f2fe;display:inline-block;padding:4px 10px;border-radius:20px}
 
     /* Typography */
-    h1{font-size:1.2rem;margin:12px 0 8px}
-    h2{font-size:1.05rem;margin:16px 0 8px;color:var(--primary)}
-    h3{font-size:.95rem;margin:12px 0 6px;font-weight:600}
+    h1{font-size:1.25rem;margin:12px 0 8px;color:#0c4a6e}
+    h2{font-size:1.1rem;margin:16px 0 8px;color:#0369a1;font-weight:700}
+    h3{font-size:1rem;margin:12px 0 6px;font-weight:600;color:#075985}
     p{margin:6px 0}
-    strong{color:#1e40af}
-    em{color:var(--muted)}
+    strong{color:#0284c7}
+    em{color:var(--muted);font-style:normal}
 
-    /* Teacher Script - Inline */
-    .ts{display:flex;align-items:flex-start;gap:8px;padding:10px;margin:8px 0;background:linear-gradient(135deg,#eef2ff,#e0e7ff);border-radius:8px;border-left:3px solid var(--primary);cursor:pointer}
-    .ts:hover{background:#dbeafe}
-    .ts.speaking{background:#dbeafe;border-left-color:#1d4ed8}
-    .ts.speaking .ts-play{background:var(--primary);color:#fff}
-    .ts-icon{font-size:1rem}
-    .ts-text{flex:1;font-size:.9rem;color:#1e40af;line-height:1.5}
-    .ts-play{font-size:.7rem;padding:2px 6px;background:rgba(255,255,255,.6);border-radius:4px;color:var(--muted)}
+    /* Teacher Script - Hidden (NPC speaks via TTS) */
+    .ts{display:none}
 
-    /* Timer */
-    .timer{background:#1e293b;color:#fff;padding:12px;border-radius:8px;margin:8px 0;text-align:center;display:none}
+    /* Timer - Deep ocean */
+    .timer{background:linear-gradient(135deg,#0c4a6e,#075985);color:#fff;padding:16px;border-radius:16px;margin:10px 0;text-align:center;display:none;box-shadow:0 4px 12px rgba(12,74,110,.3)}
     .timer.active{display:block}
-    .timer-time{font-size:2rem;font-weight:700}
-    .timer-time.warning{color:#fbbf24}
-    .timer-time.danger{color:#f87171;animation:pulse 1s infinite}
+    .timer-label{font-size:.8rem;opacity:.8;margin-bottom:4px}
+    .timer-time{font-size:2.5rem;font-weight:700}
+    .timer-time.warning{color:#fcd34d}
+    .timer-time.danger{color:#fca5a5;animation:pulse 1s infinite}
     @keyframes pulse{50%{opacity:.6}}
-    .timer-skip{background:rgba(255,255,255,.15);border:none;color:#fff;padding:8px 16px;border-radius:20px;margin-top:8px;cursor:pointer}
+    .timer-skip{background:rgba(255,255,255,.2);border:none;color:#fff;padding:10px 20px;border-radius:25px;margin-top:10px;cursor:pointer;font-weight:500;transition:background .2s}
+    .timer-skip:hover{background:rgba(255,255,255,.3)}
 
-    /* Cards */
-    .card{background:var(--card);border-radius:var(--radius);padding:12px;margin:10px 0;box-shadow:0 1px 3px rgba(0,0,0,.1)}
-    .task-box{background:#eff6ff;border-left:3px solid var(--primary)}
-    .answer-box{background:#f0fdf4;border-left:3px solid var(--success)}
-    .explanation-box{background:#fefce8;border-left:3px solid var(--warning)}
-    .grammar-box{background:#faf5ff;border-left:3px solid #8b5cf6}
-    .translation-box{background:#ecfeff;border-left:3px solid #06b6d4}
-    .dialogue-box{background:#f0fdf4;border-left:3px solid var(--success)}
+    /* Cards - Clean shadows */
+    .card{background:var(--card);border-radius:var(--radius);padding:14px;margin:12px 0;box-shadow:0 2px 8px rgba(0,0,0,.06);border:1px solid var(--border)}
+    .task-box{background:linear-gradient(135deg,#f0f9ff,#e0f2fe);border-left:4px solid var(--primary);border:none}
+    .answer-box{background:linear-gradient(135deg,#ecfdf5,#d1fae5);border-left:4px solid var(--success);border:none}
+    .explanation-box{background:linear-gradient(135deg,#fffbeb,#fef3c7);border-left:4px solid var(--warning);border:none}
+    .grammar-box{background:linear-gradient(135deg,#f5f3ff,#ede9fe);border-left:4px solid #8b5cf6;border:none}
+    .translation-box{background:linear-gradient(135deg,#ecfeff,#cffafe);border-left:4px solid var(--accent);border:none}
+    .dialogue-box{background:linear-gradient(135deg,#f0fdf4,#dcfce7);border-left:4px solid var(--success);border:none}
 
-    /* Vocabulary */
-    .vocab-item{padding:10px;border-bottom:1px solid var(--border);cursor:pointer;display:flex;flex-wrap:wrap;gap:6px;align-items:baseline}
-    .vocab-item:hover{background:#f1f5f9}
-    .vocab-item:last-child{border-bottom:none}
-    .vocab-word{font-weight:600;color:var(--primary)}
-    .vocab-type{font-size:.7rem;background:#f1f5f9;padding:1px 5px;border-radius:3px;color:var(--muted)}
-    .vocab-meaning{flex:1 1 100%;font-size:.9rem;margin-top:2px}
-    .vocab-pron{font-size:.8rem;color:#92400e;background:#fef3c7;padding:2px 6px;border-radius:4px}
+    /* Vocabulary - Ocean cards */
+    .vocab-list{display:flex;flex-direction:column;gap:8px}
+    .vocab-item{padding:12px;background:linear-gradient(135deg,#fff,#f0f9ff);border-radius:10px;cursor:pointer;display:flex;flex-wrap:wrap;gap:8px;align-items:center;border:1px solid #bae6fd;transition:all .2s}
+    .vocab-item:hover{transform:translateX(4px);box-shadow:0 2px 8px rgba(14,165,233,.15);border-color:#0ea5e9}
+    .vocab-item:active{transform:scale(.98)}
+    .vocab-word{font-weight:700;color:#0284c7;font-size:1rem}
+    .vocab-type{font-size:.65rem;background:#e0f2fe;padding:2px 8px;border-radius:10px;color:#0369a1;font-weight:600;text-transform:uppercase}
+    .vocab-meaning{flex:1 1 100%;font-size:.9rem;margin-top:4px;color:#475569}
+    .vocab-pron{font-size:.8rem;color:#0369a1;background:#e0f2fe;padding:3px 8px;border-radius:8px;font-family:monospace}
     @media(min-width:400px){.vocab-meaning{flex:1;margin-top:0}}
 
     /* Tables */
-    .table-wrap{overflow-x:auto;margin:8px 0;border:1px solid var(--border);border-radius:8px}
-    table{width:100%;border-collapse:collapse;font-size:.85rem}
-    th,td{padding:8px;border:1px solid var(--border);text-align:left}
-    th{background:#f8fafc;font-weight:600;font-size:.8rem}
+    .table-wrap{overflow-x:auto;margin:10px 0;border-radius:10px;box-shadow:0 2px 8px rgba(0,0,0,.06)}
+    table{width:100%;border-collapse:collapse;font-size:.85rem;background:#fff}
+    th,td{padding:10px 12px;border:1px solid var(--border);text-align:left}
+    th{background:linear-gradient(135deg,#e0f2fe,#bae6fd);font-weight:600;font-size:.8rem;color:#0369a1}
 
     /* Lists */
-    ul{margin:6px 0;padding-left:18px}
-    li{margin:3px 0}
+    ul{margin:8px 0;padding-left:20px}
+    li{margin:4px 0}
 
     /* Action buttons */
-    .action-row{display:flex;gap:8px;margin:10px 0}
-    .action-btn{flex:1;display:flex;align-items:center;justify-content:center;gap:6px;padding:12px;border:2px solid var(--border);border-radius:8px;background:var(--card);cursor:pointer;min-height:48px}
-    .action-btn:hover{border-color:var(--primary);background:#eff6ff}
-    .action-btn.recording{border-color:#ef4444;background:#fef2f2;animation:pulse 1s infinite}
-    .action-btn svg{width:20px;height:20px}
+    .action-row{display:flex;gap:10px;margin:12px 0}
+    .action-btn{flex:1;display:flex;align-items:center;justify-content:center;gap:8px;padding:14px;border:2px solid #7dd3fc;border-radius:12px;background:linear-gradient(135deg,#fff,#f0f9ff);cursor:pointer;min-height:52px;font-weight:500;color:#0369a1;transition:all .2s}
+    .action-btn:hover{border-color:#0ea5e9;background:linear-gradient(135deg,#e0f2fe,#bae6fd);transform:scale(1.02)}
+    .action-btn.recording{border-color:#ef4444;background:linear-gradient(135deg,#fef2f2,#fee2e2);animation:pulse 1s infinite;color:#dc2626}
+    .action-btn svg{width:22px;height:22px}
 
     /* Audio */
-    .audio-box{background:#1e293b;padding:12px;border-radius:8px;margin:8px 0}
-    .audio-box audio{width:100%}
-    .audio-placeholder{background:#374151;color:#9ca3af;padding:16px;border-radius:6px;text-align:center}
+    .audio-box{background:linear-gradient(135deg,#0c4a6e,#075985);padding:14px;border-radius:12px;margin:10px 0;box-shadow:0 4px 12px rgba(12,74,110,.2)}
+    .audio-box audio{width:100%;border-radius:8px}
+    .audio-placeholder{background:rgba(255,255,255,.1);color:#bae6fd;padding:18px;border-radius:8px;text-align:center;font-size:.9rem}
 
-    /* Camera gate */
-    #gate{position:fixed;inset:0;background:linear-gradient(135deg,#1e3a8a,#3b82f6);display:flex;flex-direction:column;align-items:center;justify-content:center;z-index:1000;padding:20px}
+    /* Camera gate - Ocean theme */
+    #gate{position:fixed;inset:0;background:linear-gradient(135deg,#0c4a6e,#0369a1,#0ea5e9);display:flex;flex-direction:column;align-items:center;justify-content:center;z-index:1000;padding:20px}
     #gate.hidden{display:none}
-    #gate h1{color:#fff;margin-bottom:8px}
-    #gate p{color:rgba(255,255,255,.85);margin-bottom:16px;text-align:center}
-    #gate video,#gate img{width:100%;max-width:240px;aspect-ratio:4/3;object-fit:cover;border-radius:10px;background:#000}
-    .gate-input{width:100%;max-width:240px;padding:12px;border:2px solid rgba(255,255,255,.3);border-radius:8px;background:rgba(255,255,255,.1);color:#fff;font-size:1rem;margin:12px 0;text-align:center}
-    .gate-input::placeholder{color:rgba(255,255,255,.6)}
-    .gate-btn{background:#fff;color:var(--primary);border:none;padding:12px 24px;border-radius:50px;font-size:1rem;font-weight:600;cursor:pointer;margin:4px}
-    .gate-btn.secondary{background:transparent;color:#fff;border:2px solid rgba(255,255,255,.4)}
+    #gate h1{color:#fff;margin-bottom:8px;font-size:1.5rem}
+    #gate p{color:rgba(255,255,255,.9);margin-bottom:16px;text-align:center}
+    #gate video,#gate img{width:100%;max-width:240px;aspect-ratio:4/3;object-fit:cover;border-radius:14px;background:#000;border:3px solid rgba(255,255,255,.3)}
+    .gate-input{width:100%;max-width:240px;padding:14px;border:2px solid rgba(255,255,255,.4);border-radius:12px;background:rgba(255,255,255,.15);color:#fff;font-size:1rem;margin:12px 0;text-align:center}
+    .gate-input::placeholder{color:rgba(255,255,255,.7)}
+    .gate-btn{background:#fff;color:#0369a1;border:none;padding:14px 28px;border-radius:50px;font-size:1rem;font-weight:600;cursor:pointer;margin:4px;box-shadow:0 4px 12px rgba(0,0,0,.15);transition:transform .2s}
+    .gate-btn:hover{transform:scale(1.05)}
+    .gate-btn.secondary{background:transparent;color:#fff;border:2px solid rgba(255,255,255,.5);box-shadow:none}
 
     /* Sending */
-    .sending{position:fixed;top:50%;left:50%;transform:translate(-50%,-50%);background:rgba(0,0,0,.85);color:#fff;padding:16px 28px;border-radius:10px;z-index:1001;display:none}
-    .sending.active{display:flex;align-items:center;gap:10px}
-    .spinner{width:20px;height:20px;border:2px solid rgba(255,255,255,.3);border-top-color:#fff;border-radius:50%;animation:spin .8s linear infinite}
+    .sending{position:fixed;top:50%;left:50%;transform:translate(-50%,-50%);background:linear-gradient(135deg,#0c4a6e,#075985);color:#fff;padding:18px 32px;border-radius:16px;z-index:1001;display:none;box-shadow:0 8px 24px rgba(0,0,0,.3)}
+    .sending.active{display:flex;align-items:center;gap:12px}
+    .spinner{width:22px;height:22px;border:3px solid rgba(255,255,255,.3);border-top-color:#fff;border-radius:50%;animation:spin .8s linear infinite}
     @keyframes spin{to{transform:rotate(360deg)}}
+
+    /* Current chunk highlight - softer with scroll allowed */
+    .chunk{opacity:.5;transition:all .3s}
+    .chunk.current{opacity:1;background:rgba(224,242,254,.4);border-radius:16px;margin:0 -12px;padding:20px 12px;box-shadow:0 4px 20px rgba(14,165,233,.1)}
+    .chunk.completed{opacity:.85}
+
+    /* Chunk Navigation */
+    .chunk-nav{margin-top:24px;text-align:center}
+    .chunk-nav .indicator{display:none;font-size:1.5rem;color:#0ea5e9;margin-bottom:8px;animation:bounce 1s ease infinite}
+    .chunk-nav.ready .indicator{display:block}
+    .nav-btn{background:linear-gradient(135deg,#cbd5e1,#94a3b8);color:#fff;border:none;padding:14px 32px;border-radius:50px;font-size:1rem;font-weight:600;cursor:not-allowed;opacity:.5;transition:all .3s}
+    .nav-btn.ready{background:linear-gradient(135deg,#0ea5e9,#0284c7);opacity:1;cursor:pointer;box-shadow:0 4px 16px rgba(14,165,233,.4)}
+    .nav-btn.ready:hover{transform:scale(1.05)}
+    @keyframes bounce{0%,100%{transform:translateY(0)}50%{transform:translateY(6px)}}
+    @keyframes readyPulse{0%,100%{box-shadow:0 4px 16px rgba(14,165,233,.4)}50%{box-shadow:0 4px 24px rgba(14,165,233,.6)}}
+
+    /* Inline Continue Button - After each section */
+    .ts-continue{display:none;margin:12px 0;text-align:center}
+    .ts-continue.show{display:block}
+    .continue-btn{background:linear-gradient(135deg,#10b981,#059669);color:#fff;border:none;padding:12px 28px;border-radius:50px;font-size:.95rem;font-weight:600;cursor:pointer;box-shadow:0 4px 12px rgba(16,185,129,.3);transition:all .2s;animation:continuePulse 1.5s ease infinite}
+    .continue-btn:hover{transform:scale(1.05);box-shadow:0 4px 16px rgba(16,185,129,.4)}
+    @keyframes continuePulse{0%,100%{box-shadow:0 4px 12px rgba(16,185,129,.3)}50%{box-shadow:0 4px 20px rgba(16,185,129,.5)}}
+
+    /* Complete Box */
+    .complete-box{background:linear-gradient(135deg,#e0f2fe,#bae6fd);border-radius:20px;padding:32px;text-align:center;margin:20px 0;box-shadow:0 8px 32px rgba(14,165,233,.2)}
+    .complete-icon{font-size:4rem;margin-bottom:12px}
+    .complete-box h2{color:#0369a1;margin-bottom:8px}
+    .complete-box p{color:#075985}
+
+    /* ========== VOCABULARY INTERACTIVE SYSTEM ========== */
+
+    /* Vocab Container */
+    .vocab-interactive{background:linear-gradient(135deg,#f0f9ff,#e0f2fe);border-radius:16px;padding:16px;margin:12px 0;border:2px solid #bae6fd;max-height:80vh;overflow-y:auto}
+    .vocab-phase{display:none}
+    .vocab-phase.active{display:block}
+    .vocab-progress{display:flex;gap:6px;margin-bottom:16px;flex-wrap:wrap}
+    .vocab-progress-dot{width:10px;height:10px;border-radius:50%;background:#cbd5e1;transition:all .3s}
+    .vocab-progress-dot.done{background:#10b981}
+    .vocab-progress-dot.current{background:#0ea5e9;transform:scale(1.3);box-shadow:0 0 8px rgba(14,165,233,.5)}
+
+    /* Phase Header */
+    .phase-header{background:linear-gradient(135deg,#0284c7,#0ea5e9);color:#fff;padding:12px 16px;border-radius:12px;margin-bottom:16px;display:flex;align-items:center;gap:10px}
+    .phase-icon{font-size:1.5rem}
+    .phase-title{flex:1;font-weight:600}
+    .phase-count{font-size:.85rem;opacity:.9}
+
+    /* Flash Card */
+    .flashcard{background:#fff;border-radius:20px;padding:32px 24px;text-align:center;box-shadow:0 8px 32px rgba(0,0,0,.1);min-height:280px;display:flex;flex-direction:column;justify-content:center;position:relative;overflow:hidden}
+    .flashcard.flip .flashcard-front{opacity:0;transform:rotateY(90deg)}
+    .flashcard.flip .flashcard-back{opacity:1;transform:rotateY(0)}
+    .flashcard-front,.flashcard-back{transition:all .4s}
+    .flashcard-back{position:absolute;inset:0;display:flex;flex-direction:column;justify-content:center;padding:32px 24px;opacity:0;transform:rotateY(-90deg)}
+    .flashcard-word{font-size:2rem;font-weight:700;color:#0284c7;margin-bottom:8px}
+    .flashcard-pron{font-size:1.1rem;color:#64748b;font-family:monospace;margin-bottom:12px}
+    .flashcard-type{display:inline-block;background:#e0f2fe;color:#0369a1;padding:4px 12px;border-radius:20px;font-size:.8rem;font-weight:600;margin-bottom:16px}
+    .flashcard-meaning{font-size:1.4rem;color:#0f172a;margin-top:12px}
+    .flashcard-repeat{font-size:.9rem;color:#64748b;margin-top:16px}
+    .flashcard-repeat span{display:inline-block;width:24px;height:24px;line-height:24px;border-radius:50%;background:#e2e8f0;margin:0 4px;font-weight:600}
+    .flashcard-repeat span.done{background:#10b981;color:#fff}
+    .flashcard-speaking{animation:cardPulse 1s ease infinite}
+    @keyframes cardPulse{0%,100%{box-shadow:0 8px 32px rgba(0,0,0,.1)}50%{box-shadow:0 8px 40px rgba(14,165,233,.3)}}
+
+    /* Quiz */
+    .quiz-question{background:#fff;border-radius:16px;padding:20px;margin-bottom:16px;text-align:center}
+    .quiz-prompt{font-size:1rem;color:#64748b;margin-bottom:8px}
+    .quiz-word{font-size:1.8rem;font-weight:700;color:#0284c7}
+    .quiz-options{display:flex;flex-direction:column;gap:10px}
+    .quiz-option{background:#fff;border:2px solid #e2e8f0;border-radius:12px;padding:14px 16px;cursor:pointer;transition:all .2s;text-align:left;font-size:1rem}
+    .quiz-option:hover{border-color:#0ea5e9;background:#f0f9ff}
+    .quiz-option.selected{border-color:#0ea5e9;background:#e0f2fe}
+    .quiz-option.correct{border-color:#10b981;background:#d1fae5;animation:correctPop .3s}
+    .quiz-option.wrong{border-color:#ef4444;background:#fee2e2;animation:shake .3s}
+    @keyframes correctPop{50%{transform:scale(1.02)}}
+    @keyframes shake{0%,100%{transform:translateX(0)}25%{transform:translateX(-5px)}75%{transform:translateX(5px)}}
+
+    /* Game - Matching */
+    .game-container{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+    .game-col{display:flex;flex-direction:column;gap:8px}
+    .game-col-title{font-size:.8rem;color:#64748b;text-align:center;margin-bottom:4px;font-weight:600}
+    .game-item{background:#fff;border:2px solid #e2e8f0;border-radius:10px;padding:12px;cursor:pointer;transition:all .2s;font-size:.95rem;min-height:48px;display:flex;align-items:center;justify-content:center;text-align:center}
+    .game-item:hover{border-color:#0ea5e9;transform:scale(1.02)}
+    .game-item.selected{border-color:#0ea5e9;background:#e0f2fe;box-shadow:0 0 12px rgba(14,165,233,.3)}
+    .game-item.matched{border-color:#10b981;background:#d1fae5;opacity:.6;pointer-events:none}
+    .game-item.wrong{animation:shake .3s;border-color:#ef4444}
+    .game-score{text-align:center;margin-top:16px;font-size:1.1rem;font-weight:600;color:#0369a1}
+
+    /* Writing Phase */
+    .writing-list{background:#fff;border-radius:12px;padding:16px;margin-bottom:16px}
+    .writing-item{display:flex;gap:12px;padding:10px 0;border-bottom:1px dashed #e2e8f0;align-items:center}
+    .writing-item:last-child{border-bottom:none}
+    .writing-num{width:24px;height:24px;background:#0ea5e9;color:#fff;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:.8rem;font-weight:600;flex-shrink:0}
+    .writing-word{font-weight:600;color:#0284c7;min-width:100px}
+    .writing-meaning{flex:1;color:#475569}
+    .writing-timer{background:linear-gradient(135deg,#0c4a6e,#075985);color:#fff;padding:20px;border-radius:16px;text-align:center}
+    .writing-timer-label{font-size:.9rem;opacity:.8;margin-bottom:8px}
+    .writing-timer-time{font-size:3rem;font-weight:700}
+
+    /* Phase Nav Buttons */
+    .vocab-nav{display:flex;gap:10px;margin-top:16px;justify-content:center}
+    .vocab-btn{background:linear-gradient(135deg,#0ea5e9,#0284c7);color:#fff;border:none;padding:14px 28px;border-radius:50px;font-size:1rem;font-weight:600;cursor:pointer;transition:all .2s;box-shadow:0 4px 12px rgba(14,165,233,.3)}
+    .vocab-btn:hover{transform:scale(1.05)}
+    .vocab-btn:disabled{background:#94a3b8;cursor:not-allowed;transform:none}
+    .vocab-btn.secondary{background:transparent;color:#0369a1;border:2px solid #0ea5e9;box-shadow:none}
+
+    /* Scrollbar hide for locked mode */
+    body::-webkit-scrollbar{display:none}
+    body{-ms-overflow-style:none;scrollbar-width:none}
+
+    /* ========== NPC + SPEECH BUBBLE SYSTEM ========== */
+
+    /* Overlay - dims the screen */
+    #npc-overlay{position:fixed;inset:0;background:rgba(0,0,0,0);pointer-events:none;z-index:200;transition:background .4s ease}
+    #npc-overlay.active{background:rgba(0,0,0,.7);pointer-events:auto}
+
+    /* NPC Container */
+    #npc-container{position:fixed;bottom:20px;left:20px;z-index:300;display:flex;flex-direction:column;align-items:flex-start;gap:12px;opacity:0;transform:translateY(30px);transition:all .4s ease;pointer-events:none}
+    #npc-container.show{opacity:1;transform:translateY(0);pointer-events:auto}
+
+    /* NPC Avatar */
+    .npc-avatar{width:80px;height:80px;border-radius:50%;background:linear-gradient(135deg,#0ea5e9,#0284c7);display:flex;align-items:center;justify-content:center;box-shadow:0 8px 32px rgba(14,165,233,.4),0 0 0 4px rgba(255,255,255,.9);position:relative;animation:none}
+    .npc-avatar.speaking{animation:npcBounce 0.5s ease infinite}
+    .npc-avatar-img{font-size:2.8rem;filter:drop-shadow(0 2px 4px rgba(0,0,0,.2))}
+    .npc-status{position:absolute;bottom:-4px;right:-4px;width:20px;height:20px;border-radius:50%;background:#10b981;border:3px solid #fff;box-shadow:0 2px 8px rgba(0,0,0,.2)}
+    .npc-avatar.speaking .npc-status{background:#f59e0b;animation:statusPulse 1s ease infinite}
+    @keyframes npcBounce{0%,100%{transform:translateY(0) scale(1)}50%{transform:translateY(-5px) scale(1.05)}}
+    @keyframes statusPulse{0%,100%{opacity:1}50%{opacity:.5}}
+
+    /* Speech Bubble */
+    .speech-bubble{position:relative;background:#fff;border-radius:20px;padding:16px 20px;max-width:min(320px,calc(100vw - 140px));box-shadow:0 8px 32px rgba(0,0,0,.2);opacity:0;transform:translateY(10px) scale(0.95);transition:all .3s ease}
+    .speech-bubble.show{opacity:1;transform:translateY(0) scale(1)}
+    .speech-bubble::before{content:'';position:absolute;bottom:-10px;left:30px;width:0;height:0;border-left:12px solid transparent;border-right:12px solid transparent;border-top:12px solid #fff}
+    .speech-bubble-text{font-size:1rem;line-height:1.5;color:#0f172a}
+    .speech-bubble-typing{display:inline-flex;gap:4px;padding:4px 0}
+    .speech-bubble-typing span{width:8px;height:8px;border-radius:50%;background:#0ea5e9;animation:typingDot 1.2s ease infinite}
+    .speech-bubble-typing span:nth-child(2){animation-delay:.2s}
+    .speech-bubble-typing span:nth-child(3){animation-delay:.4s}
+    @keyframes typingDot{0%,100%{opacity:.4;transform:scale(.8)}50%{opacity:1;transform:scale(1)}}
+
+    /* Continue Button in Speech Bubble */
+    .speech-continue{margin-top:12px;text-align:right}
+    .speech-continue-btn{background:linear-gradient(135deg,#10b981,#059669);color:#fff;border:none;padding:10px 20px;border-radius:25px;font-size:.9rem;font-weight:600;cursor:pointer;transition:all .2s;box-shadow:0 4px 12px rgba(16,185,129,.3)}
+    .speech-continue-btn:hover{transform:scale(1.05)}
+
+    /* Spotlight on active content */
+    .chunk.spotlight{position:relative;z-index:250;background:#fff;border-radius:20px;margin:0 -16px;padding:24px 16px;box-shadow:0 0 0 4px rgba(14,165,233,.5),0 20px 60px rgba(0,0,0,.3)}
+    .chunk.spotlight *{pointer-events:auto}
+
+    /* Hide old TS display when NPC is active */
+    .ts.npc-mode{display:none}
+
+    /* Adjust spacing for NPC mode */
+    #content.npc-active{padding-bottom:180px}
   </style>
 </head>
 <body>
@@ -131,9 +281,498 @@
   <div class="sending" id="sending"><div class="spinner"></div> Đang gửi...</div>
   <canvas id="canvas" style="display:none"></canvas>
 
+  <!-- NPC System -->
+  <div id="npc-overlay" onclick="handleOverlayClick()"></div>
+  <div id="npc-container">
+    <div class="speech-bubble" id="speech-bubble">
+      <div class="speech-bubble-text" id="speech-text">
+        <div class="speech-bubble-typing"><span></span><span></span><span></span></div>
+      </div>
+      <div class="speech-continue" id="speech-continue" style="display:none">
+        <button class="speech-continue-btn" onclick="npcContinue()">Tiếp tục →</button>
+      </div>
+    </div>
+    <div class="npc-avatar" id="npc-avatar">
+      <span class="npc-avatar-img">👨‍🏫</span>
+      <div class="npc-status"></div>
+    </div>
+  </div>
+
 <script>
-const CONFIG={contentUrl:null,tgToken:null,tgChat:null,audioBase:null,skip:false};
-const state={chunks:[],name:'',photo:null,speaking:false,timer:null};
+// ========== UNIFIED LECTURE MANAGER ==========
+// Single source of truth for all state transitions
+
+const LM = {
+  // States
+  STATES: {
+    IDLE: 'idle',
+    NPC_SPEAKING: 'npc_speaking',
+    NPC_WAITING: 'npc_waiting',
+    TIMER_RUNNING: 'timer_running',
+    CONTENT_VIEWING: 'content_viewing',
+    VOCAB_ACTIVE: 'vocab_active',
+    CHUNK_DONE: 'chunk_done'
+  },
+
+  // Current state
+  state: 'idle',
+  currentChunk: 0,
+  currentTSId: null,
+  currentTSEl: null,
+  pendingElement: null,
+  pendingType: null,
+  timerInterval: null,
+  timerCallback: null,
+
+  // Element types
+  TYPES: {
+    TS: 'ts',
+    VOCAB: 'vocab',
+    CONTENT: 'content',
+    CHUNK_NAV: 'chunkNav',
+    NONE: 'none'
+  },
+
+  // Initialize
+  init() {
+    this.state = this.STATES.IDLE;
+    this.currentChunk = 0;
+  },
+
+  // ========== STATE TRANSITIONS ==========
+
+  // Start playing a teacher script
+  playTS(el, auto = false) {
+    if (this.state === this.STATES.NPC_SPEAKING && !auto) return;
+    if (this.state === this.STATES.NPC_SPEAKING && auto) {
+      // Queue for later
+      return;
+    }
+
+    this.state = this.STATES.NPC_SPEAKING;
+    this.currentTSId = el.id;
+    this.currentTSEl = el;
+
+    const text = el.dataset.text;
+    const pause = parseInt(el.dataset.pause) || 0;
+    const href = el.dataset.href;
+    const action = el.dataset.action || '';
+
+    // Mark TS as played and hide it
+    el.classList.add('played', 'npc-mode');
+
+    // Analyze what comes next
+    const { element: nextEl, type: nextType } = this.findNext(el);
+    this.pendingElement = nextEl;
+    this.pendingType = nextType;
+
+    // Show NPC speaking
+    this.showNPC(text);
+
+    // Play audio/TTS
+    const onEnd = () => {
+      if (pause > 0) {
+        // Has timer - hide NPC, show timer
+        this.hideNPC();
+        this.startTimer(pause, () => this.afterTimer());
+      } else {
+        // No timer - decide next action
+        this.afterSpeaking();
+      }
+    };
+
+    if (href) {
+      const audio = new Audio(href);
+      audio.onended = onEnd;
+      audio.onerror = () => this.speakTTS(text, onEnd);
+      audio.play().catch(() => this.speakTTS(text, onEnd));
+    } else {
+      this.speakTTS(text, onEnd);
+    }
+  },
+
+  // After TTS finishes (no timer case)
+  afterSpeaking() {
+    this.npcStopAnimation();
+
+    switch (this.pendingType) {
+      case this.TYPES.TS:
+        // Consecutive TSes - auto-play without waiting
+        this.state = this.STATES.IDLE;
+        this.hideNPC();
+        setTimeout(() => this.playTS(this.pendingElement, true), 200);
+        break;
+
+      case this.TYPES.VOCAB:
+        // Auto-show vocab after TS
+        this.hideNPC();
+        this.state = this.STATES.VOCAB_ACTIVE;
+        const chunkNav1 = document.getElementById(`nav-${this.currentChunk}`)?.closest('.chunk-nav');
+        if (chunkNav1) chunkNav1.style.display = 'none';
+        setTimeout(() => this.scrollTo(this.pendingElement), 200);
+        break;
+
+      case this.TYPES.CONTENT:
+        // Auto-show content, then check for more content
+        this.hideNPC();
+        this.scrollTo(this.pendingElement);
+        setTimeout(() => this.continueAfterContent(this.pendingElement), 1500);
+        break;
+
+      case this.TYPES.CHUNK_NAV:
+      case this.TYPES.NONE:
+        // End of chunk - TS already spoke, so unlock silently
+        this.hideNPC();
+        this.unlockChunkNav();
+        break;
+    }
+  },
+
+  // After timer finishes
+  afterTimer() {
+    this.state = this.STATES.IDLE;
+
+    switch (this.pendingType) {
+      case this.TYPES.TS:
+        setTimeout(() => this.playTS(this.pendingElement, true), 200);
+        break;
+
+      case this.TYPES.VOCAB:
+        this.scrollTo(this.pendingElement);
+        // Vocab handles its own flow
+        break;
+
+      case this.TYPES.CONTENT:
+        // Auto-show content, then check for more content
+        this.scrollTo(this.pendingElement);
+        setTimeout(() => this.continueAfterContent(this.pendingElement), 1500);
+        break;
+
+      case this.TYPES.CHUNK_NAV:
+      case this.TYPES.NONE:
+        this.unlockChunkNav();
+        break;
+    }
+  },
+
+  // User clicks continue in NPC bubble
+  onNPCContinue() {
+    if (this.state !== this.STATES.NPC_WAITING) return;
+
+    this.hideNPC();
+
+    if (this.pendingType === this.TYPES.VOCAB) {
+      this.state = this.STATES.VOCAB_ACTIVE;
+      // Hide chunk-nav while vocab active
+      const chunkNav = document.getElementById(`nav-${this.currentChunk}`)?.closest('.chunk-nav');
+      if (chunkNav) chunkNav.style.display = 'none';
+      this.scrollTo(this.pendingElement);
+      // Vocab system takes over
+    } else if (this.pendingType === this.TYPES.CONTENT) {
+      this.scrollTo(this.pendingElement);
+      setTimeout(() => this.continueAfterContent(this.pendingElement), 1500);
+    } else {
+      this.playNextTS();
+    }
+  },
+
+  // Called when vocab system finishes
+  onVocabComplete() {
+    this.state = this.STATES.IDLE;
+    this.playNextTS();
+  },
+
+  // Continue after content - check if more content follows
+  continueAfterContent(contentEl) {
+    const { element: next, type } = this.findNext(contentEl);
+
+    if (type === this.TYPES.CONTENT) {
+      // More content - show it and continue
+      this.scrollTo(next);
+      setTimeout(() => this.continueAfterContent(next), 1500);
+    } else if (type === this.TYPES.TS) {
+      // TS next - play it
+      setTimeout(() => this.playTS(next, true), 300);
+    } else if (type === this.TYPES.VOCAB) {
+      // Vocab next
+      this.state = this.STATES.VOCAB_ACTIVE;
+      const chunkNav = document.getElementById(`nav-${this.currentChunk}`)?.closest('.chunk-nav');
+      if (chunkNav) chunkNav.style.display = 'none';
+      this.scrollTo(next);
+    } else {
+      // End of chunk
+      this.unlockChunkNav();
+    }
+  },
+
+  // Play next unplayed TS in current chunk
+  playNextTS() {
+    const chunk = document.getElementById(`chunk-${this.currentChunk}`);
+    if (!chunk) return;
+
+    const nextTS = chunk.querySelector('.ts:not(.played)');
+    if (nextTS) {
+      setTimeout(() => this.playTS(nextTS, true), 300);
+    } else {
+      this.unlockChunkNav();
+    }
+  },
+
+  // ========== HELPER FUNCTIONS ==========
+
+  // Find next meaningful element after TS
+  findNext(tsEl) {
+    let next = tsEl.nextElementSibling;
+
+    // Skip utility and non-content elements
+    const isSkippable = (el) => {
+      if (!el) return false;
+      // Utility elements
+      if (el.classList.contains('timer')) return true;
+      if (el.classList.contains('action-row')) return true;
+      if (el.id?.includes('-player')) return true;
+      if (el.id?.includes('-photo')) return true;
+      if (el.classList.contains('ts-continue')) return true;
+      if (el.classList.contains('content-done')) return true;
+      // Non-content elements (hr, headings, task instructions)
+      if (el.tagName === 'HR') return true;
+      if (/^H[1-6]$/.test(el.tagName)) return true;
+      if (el.classList.contains('task-box')) return true;
+      // Completed vocab
+      if (el.classList.contains('vocab-interactive') && el.classList.contains('vocab-completed')) return true;
+      return false;
+    };
+
+    while (next && isSkippable(next)) {
+      next = next.nextElementSibling;
+    }
+
+    // Determine type
+    let type = this.TYPES.NONE;
+    if (next) {
+      if (next.classList.contains('ts')) type = this.TYPES.TS;
+      else if (next.classList.contains('vocab-interactive')) type = this.TYPES.VOCAB;
+      else if (next.classList.contains('chunk-nav')) type = this.TYPES.CHUNK_NAV;
+      else type = this.TYPES.CONTENT;
+    }
+
+    return { element: next, type };
+  },
+
+  // ========== NPC FUNCTIONS ==========
+
+  showNPC(text) {
+    const overlay = document.getElementById('npc-overlay');
+    const container = document.getElementById('npc-container');
+    const bubble = document.getElementById('speech-bubble');
+    const textEl = document.getElementById('speech-text');
+    const continueEl = document.getElementById('speech-continue');
+    const avatar = document.getElementById('npc-avatar');
+    const content = document.getElementById('content');
+
+    overlay.classList.add('active');
+    container.classList.add('show');
+    bubble.classList.add('show');
+    avatar.classList.add('speaking');
+    content.classList.add('npc-active');
+
+    // Typing animation then text
+    textEl.innerHTML = '<div class="speech-bubble-typing"><span></span><span></span><span></span></div>';
+    continueEl.style.display = 'none';
+
+    setTimeout(() => {
+      textEl.textContent = text;
+    }, 300);
+  },
+
+  showNPCContinue(text) {
+    const textEl = document.getElementById('speech-text');
+    const continueEl = document.getElementById('speech-continue');
+    const avatar = document.getElementById('npc-avatar');
+
+    if (text) textEl.textContent = text;
+    continueEl.style.display = 'block';
+    avatar.classList.remove('speaking');
+  },
+
+  npcStopAnimation() {
+    const avatar = document.getElementById('npc-avatar');
+    avatar.classList.remove('speaking');
+  },
+
+  hideNPC() {
+    const overlay = document.getElementById('npc-overlay');
+    const container = document.getElementById('npc-container');
+    const bubble = document.getElementById('speech-bubble');
+    const avatar = document.getElementById('npc-avatar');
+    const content = document.getElementById('content');
+
+    overlay.classList.remove('active');
+    container.classList.remove('show');
+    bubble.classList.remove('show');
+    avatar.classList.remove('speaking');
+    content.classList.remove('npc-active');
+  },
+
+  // ========== TIMER FUNCTIONS ==========
+
+  startTimer(seconds, callback) {
+    this.state = this.STATES.TIMER_RUNNING;
+    this.timerCallback = callback;
+
+    const box = document.getElementById(`${this.currentTSId}-timer`);
+    if (!box) return callback();
+
+    const timeEl = box.querySelector('.timer-time');
+    box.classList.add('active');
+    this.scrollTo(box);
+
+    let remaining = seconds;
+    timeEl.textContent = this.formatTime(remaining);
+    timeEl.className = 'timer-time';
+
+    this.timerInterval = setInterval(() => {
+      remaining--;
+      timeEl.textContent = this.formatTime(remaining);
+      if (remaining <= 10) timeEl.classList.add('warning');
+      if (remaining <= 5) timeEl.classList.add('danger');
+      if (remaining <= 0) {
+        this.stopTimer();
+        box.classList.remove('active');
+        callback();
+      }
+    }, 1000);
+  },
+
+  stopTimer() {
+    clearInterval(this.timerInterval);
+    this.timerInterval = null;
+  },
+
+  skipTimer() {
+    this.stopTimer();
+    const box = document.getElementById(`${this.currentTSId}-timer`);
+    if (box) box.classList.remove('active');
+    if (this.timerCallback) this.timerCallback();
+  },
+
+  formatTime(s) {
+    const m = Math.floor(s / 60);
+    return m > 0 ? `${m}:${(s % 60).toString().padStart(2, '0')}` : `${s}s`;
+  },
+
+  // ========== CHUNK NAVIGATION ==========
+
+  activateChunk(idx) {
+    if (idx >= state.chunks.length) return;
+    this.currentChunk = idx;
+    this.state = this.STATES.IDLE;
+
+    document.querySelectorAll('.chunk').forEach((c, i) => {
+      c.classList.remove('current', 'completed', 'spotlight');
+      if (i < idx) c.classList.add('completed');
+      if (i === idx) c.classList.add('current');
+    });
+
+    const chunk = document.getElementById(`chunk-${idx}`);
+    if (chunk) {
+      this.scrollTo(chunk);
+      setTimeout(() => {
+        const firstTS = chunk.querySelector('.ts:not(.played)');
+        if (firstTS) {
+          this.playTS(firstTS, true);
+        } else {
+          // No TS in chunk - unlock silently
+          this.unlockChunkNav();
+        }
+      }, 500);
+    }
+    this.updateProgress();
+  },
+
+  // Unlock chunk navigation - just enable button with indicator
+  unlockChunkNav() {
+    this._doUnlock();
+  },
+
+  _doUnlock() {
+    this.state = this.STATES.CHUNK_DONE;
+    const btn = document.getElementById(`nav-${this.currentChunk}`);
+    if (btn) {
+      const chunkNav = btn.closest('.chunk-nav');
+      if (chunkNav) {
+        chunkNav.style.display = '';
+        chunkNav.classList.add('ready');
+      }
+      btn.disabled = false;
+      btn.classList.add('ready');
+    }
+  },
+
+  goNextChunk() {
+    const next = this.currentChunk + 1;
+    if (next < state.chunks.length) {
+      this.activateChunk(next);
+    } else {
+      this.showComplete();
+    }
+  },
+
+  showComplete() {
+    const content = document.getElementById('content');
+    content.innerHTML += `<div class="complete-box"><div class="complete-icon">🎉</div><h2>Hoàn thành bài học!</h2><p>Giỏi lắm! Về nhà ôn lại từ vựng nha.</p></div>`;
+    document.querySelector('.complete-box').scrollIntoView({ behavior: 'smooth' });
+  },
+
+  updateProgress() {
+    const pct = ((this.currentChunk + 1) / state.chunks.length) * 100;
+    document.getElementById('progress-fill').style.width = pct + '%';
+  },
+
+  // ========== UTILITY ==========
+
+  scrollTo(el) {
+    if (!el) return;
+    const rect = el.getBoundingClientRect();
+    const inView = rect.top >= 0 && rect.bottom <= window.innerHeight;
+    if (!inView) {
+      el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    }
+  },
+
+  speakTTS(text, onEnd) {
+    if (!('speechSynthesis' in window)) { onEnd(); return; }
+    speechSynthesis.cancel();
+    const u = new SpeechSynthesisUtterance(text);
+    u.lang = 'vi-VN';
+    u.rate = 0.95;
+    u.onend = onEnd;
+    u.onerror = onEnd;
+    speechSynthesis.speak(u);
+  }
+};
+
+// ========== GLOBAL HANDLERS ==========
+function playTS(el, auto) { LM.playTS(el, auto); }
+function npcContinue() { LM.onNPCContinue(); }
+function handleOverlayClick() { if (LM.state === LM.STATES.NPC_WAITING) LM.onNPCContinue(); }
+function skipTimer(id) { LM.skipTimer(); }
+function goNextChunk() { LM.goNextChunk(); }
+window.playTS = playTS;
+window.npcContinue = npcContinue;
+window.handleOverlayClick = handleOverlayClick;
+window.skipTimer = skipTimer;
+window.goNextChunk = goNextChunk;
+
+// ========== CONFIG & BASIC STATE ==========
+const CONFIG = { contentUrl: null, tgToken: null, tgChat: null, audioBase: null, skip: false };
+const state = { chunks: [], name: '', photo: null };
+
+// Vocabulary Interactive State
+const vocabState={
+  instances:{}, // Multiple vocab sections possible
+  currentInstance:null
+};
 
 // Init
 document.addEventListener('DOMContentLoaded',()=>{
@@ -187,9 +826,9 @@ async function load(){
     const md=await res.text();
     parse(md);
     render();
-    setupScroll();
-    // Auto-play first script after short delay
-    setTimeout(()=>{const first=document.querySelector('.ts');if(first)playTS(first)},800);
+    setupNavigation();
+    // Start from first chunk
+    setTimeout(()=>LM.activateChunk(0),500);
   }catch(e){document.getElementById('content').innerHTML=`<div class="card" style="color:#ef4444">Lỗi: ${e.message}</div>`}
 }
 
@@ -223,19 +862,33 @@ function render(){
 
 function renderContent(md){
   let h=md;
-  // Custom tags
+  // Custom tags - VOCABULARY with Interactive Learning System
   h=h.replace(/<vocabulary>([\s\S]*?)<\/vocabulary>/gi,(_,c)=>{
-    let items='';
-    c.trim().split('\n').forEach(line=>{
-      const m=line.match(/^\d+\.\s*\*\*(.+?)\*\*\s*:\s*(?:\(([^)]+)\))?\s*(.+?)(?:\s*\/([^\/]+)\/)?$/)||line.match(/^\d+\.\s*\*\*(.+?)\*\*\s*:\s*(.+)$/);
-      if(m){
-        const[,word,type,meaning,pron]=m.length>4?m:[m[0],m[1],null,m[2],null];
-        if(word&&meaning)items+=`<div class="vocab-item" onclick="speak('${word.replace(/'/g,"\\'")}','en-US')"><span class="vocab-word">${word}</span>${type?`<span class="vocab-type">${type}</span>`:''}<span class="vocab-meaning">${meaning}</span>${pron?`<span class="vocab-pron">/${pron}/</span>`:''}</div>`;
+    const vocabId='vocab'+Math.random().toString(36).slice(2,8);
+    const words=[];
+    c.trim().split(/\r?\n/).forEach(line=>{
+      const baseMatch=line.match(/^\d+\.\s*\*\*(.+?)\*\*\s*:\s*(.+)$/);
+      if(baseMatch){
+        const word=baseMatch[1];
+        let rest=baseMatch[2].trim();
+        let type=null;
+        const typeMatch=rest.match(/^\(([^)]+)\)\s*/);
+        if(typeMatch){type=typeMatch[1];rest=rest.slice(typeMatch[0].length);}
+        let pron=null;
+        const pronMatch=rest.match(/\s*\/([^\/]+)\/$/);
+        if(pronMatch){pron=pronMatch[1];rest=rest.slice(0,-pronMatch[0].length);}
+        const meaning=rest.trim();
+        if(word&&meaning)words.push({word,type,pron,meaning});
       }
     });
-    return items?`<div class="card">${items}</div>`:'';
+    if(words.length===0)return'';
+    // Store for later use
+    vocabState.instances[vocabId]={words,currentWord:0,phase:'flashcard',quizAnswers:[],gameMatched:0};
+    // Build interactive HTML
+    return buildVocabInteractive(vocabId,words);
   });
 
+  // TEACHER SCRIPT - Hide text, show friendly label
   h=h.replace(/<teacher_script([^>]*)>([\s\S]*?)<\/teacher_script>/gi,(_,attrs,text)=>{
     const pause=(attrs.match(/pause="(\d+)"/)||[])[1]||'0';
     const href=(attrs.match(/href="([^"]+)"/)||[])[1]||'';
@@ -244,7 +897,9 @@ function renderContent(md){
     let actionHtml='';
     if(action==='record')actionHtml=`<div class="action-row"><button class="action-btn" id="${id}-rec" onclick="toggleRec('${id}')"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 14c1.66 0 3-1.34 3-3V5c0-1.66-1.34-3-3-3S9 3.34 9 5v6c0 1.66 1.34 3 3 3zm5-3c0 2.76-2.24 5-5 5s-5-2.24-5-5H5c0 3.53 2.61 6.43 6 6.92V21h2v-3.08c3.39-.49 6-3.39 6-6.92h-2z"/></svg><span>Ghi âm</span></button></div><div id="${id}-player"></div>`;
     if(action==='photo')actionHtml=`<div class="action-row"><button class="action-btn" onclick="captureHW('${id}')"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M9 2L7.17 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2h-3.17L15 2H9zm3 15c-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5-2.24 5-5 5z"/></svg><span>Chụp bài</span></button></div><div id="${id}-photo"></div>`;
-    return`<div class="ts" id="${id}" data-text="${text.trim()}" data-pause="${pause}" data-href="${href}" onclick="playTS(this)"><span class="ts-icon">🎓</span><span class="ts-text">${text.trim()}</span><span class="ts-play">▶</span></div><div class="timer" id="${id}-timer"><div class="timer-time">${formatTime(pause)}</div><button class="timer-skip" onclick="skipTimer('${id}')">Bỏ qua</button></div>${actionHtml}`;
+    // Friendly label (hidden since NPC takes over)
+    const label=action==='record'?'Ghi âm gửi thầy':action==='photo'?'Chụp bài gửi thầy':'Thầy nói';
+    return`<div class="ts" id="${id}" data-text="${text.trim().replace(/"/g,'&quot;')}" data-pause="${pause}" data-href="${href}" data-action="${action}" onclick="playTS(this)"><span class="ts-icon">🎓</span><span class="ts-label">${label}</span><span class="ts-status">Bấm</span></div><div class="timer" id="${id}-timer"><div class="timer-label">Thời gian làm bài</div><div class="timer-time">${LM.formatTime(parseInt(pause)||0)}</div><button class="timer-skip" onclick="skipTimer('${id}')">Xong rồi →</button></div>${actionHtml}`;
   });
 
   h=h.replace(/<task>([\s\S]*?)<\/task>/gi,(_,c)=>`<div class="card task-box">${renderMD(c)}</div>`);
@@ -270,17 +925,30 @@ function renderMD(md){
   h=h.replace(/\*\*(.+?)\*\*/g,'<strong>$1</strong>');
   h=h.replace(/\*([^*]+)\*/g,'<em>$1</em>');
 
-  // Tables
-  const tables=h.match(/(\|.+\|\n?)+/g);
-  if(tables)tables.forEach(t=>{
-    const rows=t.trim().split('\n').filter(r=>r.includes('|')&&!r.match(/^\|[\s\-:|]+\|$/));
-    if(rows.length){
+  // Tables - collect all matches first, then replace from end to preserve indices
+  const tableRegex=/^(\|[^\n]+\|[ \t]*\n?)+/gm;
+  const matches=[];
+  let match;
+  while((match=tableRegex.exec(h))!==null){
+    matches.push({str:match[0],idx:match.index});
+  }
+  // Replace from end to start so indices stay valid
+  for(let i=matches.length-1;i>=0;i--){
+    const{str:tableStr,idx}=matches[i];
+    const lines=tableStr.trim().split(/\r?\n/).map(l=>l.trim()).filter(l=>l);
+    const dataRows=lines.filter(line=>!/^\|[\s\-:|]+\|$/.test(line));
+    if(dataRows.length>0){
       let tbl='<div class="table-wrap"><table>';
-      rows.forEach((row,i)=>{const cells=row.split('|').slice(1,-1);const tag=i===0?'th':'td';tbl+='<tr>'+cells.map(c=>`<${tag}>${c.trim()}</${tag}>`).join('')+'</tr>'});
+      dataRows.forEach((row,ri)=>{
+        const parts=row.split('|');
+        const cells=parts.slice(1,parts.length-1);
+        const tag=ri===0?'th':'td';
+        tbl+='<tr>'+cells.map(c=>`<${tag}>${c.trim()}</${tag}>`).join('')+'</tr>';
+      });
       tbl+='</table></div>';
-      h=h.replace(t,tbl);
+      h=h.substring(0,idx)+tbl+h.substring(idx+tableStr.length);
     }
-  });
+  }
 
   h=h.replace(/^-\s+(.+)$/gm,'<li>$1</li>');
   h=h.replace(/(<li>.*<\/li>\n?)+/g,'<ul>$&</ul>');
@@ -289,45 +957,21 @@ function renderMD(md){
   return h;
 }
 
-// TTS
-function playTS(el){
-  if(state.speaking)return;
-  const text=el.dataset.text;
-  const pause=parseInt(el.dataset.pause)||0;
-  const href=el.dataset.href;
+// ========== SETUP & UTILITY ==========
 
-  document.querySelectorAll('.ts').forEach(e=>e.classList.remove('speaking'));
-  el.classList.add('speaking');
-  el.querySelector('.ts-play').textContent='🔊';
-  state.speaking=true;
-
-  const onEnd=()=>{
-    state.speaking=false;
-    el.classList.remove('speaking');
-    el.querySelector('.ts-play').textContent='▶';
-    if(pause>0)startTimer(el.id,pause);
-  };
-
-  if(href){
-    const audio=new Audio(href);
-    audio.onended=onEnd;
-    audio.onerror=()=>speakTTS(text,onEnd);
-    audio.play().catch(()=>speakTTS(text,onEnd));
-  }else{
-    speakTTS(text,onEnd);
-  }
-}
-window.playTS=playTS;
-
-function speakTTS(text,onEnd){
-  if(!('speechSynthesis' in window)){onEnd();return}
-  speechSynthesis.cancel();
-  const u=new SpeechSynthesisUtterance(text);
-  u.lang='vi-VN';u.rate=.95;
-  u.onend=onEnd;u.onerror=onEnd;
-  speechSynthesis.speak(u);
+// Chunk Navigation setup
+function setupNavigation(){
+  document.body.style.overflow='auto';
+  document.querySelectorAll('.chunk').forEach((chunk,i)=>{
+    const nav=document.createElement('div');
+    nav.className='chunk-nav';
+    nav.innerHTML=`<div class="indicator">▼</div><button class="nav-btn" id="nav-${i}" onclick="goNextChunk()" disabled>Tiếp tục</button>`;
+    chunk.appendChild(nav);
+  });
+  LM.updateProgress();
 }
 
+// Global speak function for vocab system
 function speak(text,lang='en-US'){
   if(!('speechSynthesis' in window))return;
   speechSynthesis.cancel();
@@ -336,51 +980,6 @@ function speak(text,lang='en-US'){
   speechSynthesis.speak(u);
 }
 window.speak=speak;
-
-function startTimer(id,sec){
-  clearInterval(state.timer);
-  const box=document.getElementById(`${id}-timer`);
-  const time=box.querySelector('.timer-time');
-  box.classList.add('active');
-  let rem=sec;
-  time.textContent=formatTime(rem);
-  time.className='timer-time';
-  state.timer=setInterval(()=>{
-    rem--;time.textContent=formatTime(rem);
-    if(rem<=10)time.classList.add('warning');
-    if(rem<=5)time.classList.add('danger');
-    if(rem<=0){clearInterval(state.timer);box.classList.remove('active')}
-  },1000);
-}
-
-function skipTimer(id){
-  clearInterval(state.timer);
-  document.getElementById(`${id}-timer`).classList.remove('active');
-}
-window.skipTimer=skipTimer;
-
-function formatTime(s){const m=Math.floor(s/60);return m>0?`${m}:${(s%60).toString().padStart(2,'0')}`:`${s}s`}
-
-// Scroll tracking
-function setupScroll(){
-  const observer=new IntersectionObserver(entries=>{
-    entries.forEach(e=>{
-      if(e.isIntersecting){
-        // Auto-play first unplayed ts in this chunk
-        const ts=e.target.querySelector('.ts:not(.played)');
-        if(ts&&!state.speaking){ts.classList.add('played');playTS(ts)}
-      }
-    });
-  },{threshold:.3});
-  document.querySelectorAll('.chunk').forEach(el=>observer.observe(el));
-
-  // Progress bar
-  window.addEventListener('scroll',()=>{
-    const h=document.documentElement;
-    const pct=(h.scrollTop/(h.scrollHeight-h.clientHeight))*100;
-    document.getElementById('progress-fill').style.width=pct+'%';
-  });
-}
 
 // Recording
 let recorder=null,chunks=[];
@@ -445,6 +1044,552 @@ async function sendAudio(blob,caption){
     await fetch(`https://api.telegram.org/bot${CONFIG.tgToken}/sendVoice`,{method:'POST',body:fd});
   }catch(e){}
   document.getElementById('sending').classList.remove('active');
+}
+
+// ========== VOCABULARY INTERACTIVE SYSTEM ==========
+
+function buildVocabInteractive(id,words){
+  const progressDots=words.map((_,i)=>`<div class="vocab-progress-dot" id="${id}-dot-${i}"></div>`).join('');
+  return`
+<div class="vocab-interactive" id="${id}">
+  <div class="vocab-progress">${progressDots}</div>
+
+  <!-- Phase 1: Flash Cards -->
+  <div class="vocab-phase active" id="${id}-phase-flashcard">
+    <div class="phase-header">
+      <span class="phase-icon">🎴</span>
+      <span class="phase-title">Học từ vựng</span>
+      <span class="phase-count">Từ <span id="${id}-fc-num">1</span>/${words.length}</span>
+    </div>
+    <div class="flashcard" id="${id}-flashcard">
+      <div class="flashcard-front">
+        <div class="flashcard-word" id="${id}-fc-word">${words[0].word}</div>
+        <div class="flashcard-pron" id="${id}-fc-pron">${words[0].pron?'/'+words[0].pron+'/':''}</div>
+        ${words[0].type?`<div class="flashcard-type" id="${id}-fc-type">${words[0].type}</div>`:'<div class="flashcard-type" id="${id}-fc-type" style="display:none"></div>'}
+        <div class="flashcard-repeat">Lần đọc: <span id="${id}-rep-1">1</span><span id="${id}-rep-2">2</span><span id="${id}-rep-3">3</span></div>
+      </div>
+      <div class="flashcard-back">
+        <div class="flashcard-word" id="${id}-fc-word-back">${words[0].word}</div>
+        <div class="flashcard-meaning" id="${id}-fc-meaning">${words[0].meaning}</div>
+        <div class="flashcard-repeat">Lần đọc: <span id="${id}-rep-vi-1">1</span><span id="${id}-rep-vi-2">2</span><span id="${id}-rep-vi-3">3</span></div>
+      </div>
+    </div>
+    <div class="vocab-nav">
+      <button class="vocab-btn" id="${id}-fc-start" onclick="startFlashcard('${id}')">Bắt đầu học</button>
+    </div>
+  </div>
+
+  <!-- Phase 2: Quiz -->
+  <div class="vocab-phase" id="${id}-phase-quiz">
+    <div class="phase-header">
+      <span class="phase-icon">❓</span>
+      <span class="phase-title">Kiểm tra nhanh</span>
+      <span class="phase-count">Câu <span id="${id}-quiz-num">1</span>/${words.length}</span>
+    </div>
+    <div class="quiz-question">
+      <div class="quiz-prompt" id="${id}-quiz-prompt">Chọn nghĩa đúng:</div>
+      <div class="quiz-word" id="${id}-quiz-word">${words[0].word}</div>
+    </div>
+    <div class="quiz-options" id="${id}-quiz-options"></div>
+  </div>
+
+  <!-- Phase 3: Writing -->
+  <div class="vocab-phase" id="${id}-phase-writing">
+    <div class="phase-header">
+      <span class="phase-icon">✍️</span>
+      <span class="phase-title">Ghi vào tập</span>
+      <span class="phase-count">${words.length} từ</span>
+    </div>
+    <div class="writing-list" id="${id}-writing-list">
+      ${words.map((w,i)=>`<div class="writing-item"><span class="writing-num">${i+1}</span><span class="writing-word">${w.word}</span><span class="writing-meaning">${w.meaning}</span></div>`).join('')}
+    </div>
+    <div class="writing-timer" id="${id}-writing-timer">
+      <div class="writing-timer-label">Thời gian ghi bài</div>
+      <div class="writing-timer-time" id="${id}-writing-time">${Math.floor(words.length*30/60)}:${(words.length*30%60).toString().padStart(2,'0')}</div>
+    </div>
+    <div class="vocab-nav">
+      <button class="vocab-btn secondary" onclick="skipWritingTimer('${id}')">Xong rồi →</button>
+    </div>
+  </div>
+
+  <!-- Phase 4: Matching Game -->
+  <div class="vocab-phase" id="${id}-phase-game">
+    <div class="phase-header">
+      <span class="phase-icon">🎮</span>
+      <span class="phase-title">Game nối từ</span>
+      <span class="phase-count" id="${id}-game-score">0/${words.length}</span>
+    </div>
+    <div class="game-container" id="${id}-game-container">
+      <div class="game-col">
+        <div class="game-col-title">Tiếng Anh</div>
+        <div id="${id}-game-words"></div>
+      </div>
+      <div class="game-col">
+        <div class="game-col-title">Tiếng Việt</div>
+        <div id="${id}-game-meanings"></div>
+      </div>
+    </div>
+    <div class="game-score" id="${id}-game-result" style="display:none"></div>
+  </div>
+
+  <!-- Phase 5: Complete -->
+  <div class="vocab-phase" id="${id}-phase-complete">
+    <div class="complete-box" style="margin:0">
+      <div class="complete-icon">🎉</div>
+      <h2>Hoàn thành từ vựng!</h2>
+      <p>Giỏi lắm! Nhớ ôn lại nha.</p>
+    </div>
+    <div class="vocab-nav">
+      <button class="vocab-btn" onclick="finishVocab('${id}')">Tiếp tục bài học →</button>
+    </div>
+  </div>
+</div>`;
+}
+
+// Flash Card Phase
+function startFlashcard(id){
+  const inst=vocabState.instances[id];
+  if(!inst)return;
+  inst.currentWord=0;
+
+  // Mark vocab as in-progress to block chunk advancement
+  const vocabEl=document.getElementById(id);
+  if(vocabEl)vocabEl.classList.add('vocab-in-progress');
+
+  const startBtn=document.getElementById(`${id}-fc-start`);
+  if(startBtn)startBtn.style.display='none';
+
+  playFlashcardWord(id);
+}
+window.startFlashcard=startFlashcard;
+
+async function playFlashcardWord(id){
+  const inst=vocabState.instances[id];
+  if(!inst||inst.currentWord>=inst.words.length)return;
+
+  const w=inst.words[inst.currentWord];
+  const card=document.getElementById(`${id}-flashcard`);
+  if(!card)return;
+
+  // Update card content with null checks
+  const wordEl=document.getElementById(`${id}-fc-word`);
+  const wordBackEl=document.getElementById(`${id}-fc-word-back`);
+  const pronEl=document.getElementById(`${id}-fc-pron`);
+  const typeEl=document.getElementById(`${id}-fc-type`);
+  const meaningEl=document.getElementById(`${id}-fc-meaning`);
+  const numEl=document.getElementById(`${id}-fc-num`);
+
+  if(wordEl)wordEl.textContent=w.word;
+  if(wordBackEl)wordBackEl.textContent=w.word;
+  if(pronEl)pronEl.textContent=w.pron?'/'+w.pron+'/':'';
+  if(typeEl){
+    if(w.type){typeEl.textContent=w.type;typeEl.style.display='inline-block';}
+    else{typeEl.style.display='none';}
+  }
+  if(meaningEl)meaningEl.textContent=w.meaning;
+  if(numEl)numEl.textContent=inst.currentWord+1;
+
+  // Reset state
+  card.classList.remove('flip');
+  ['1','2','3'].forEach(n=>{
+    const repEl=document.getElementById(`${id}-rep-${n}`);
+    const repViEl=document.getElementById(`${id}-rep-vi-${n}`);
+    if(repEl)repEl.classList.remove('done');
+    if(repViEl)repViEl.classList.remove('done');
+  });
+
+  // Update progress dots
+  document.querySelectorAll(`#${id} .vocab-progress-dot`).forEach((dot,i)=>{
+    dot.classList.remove('current','done');
+    if(i<inst.currentWord)dot.classList.add('done');
+    if(i===inst.currentWord)dot.classList.add('current');
+  });
+
+  card.classList.add('flashcard-speaking');
+
+  // First word: announce "đọc theo nha"
+  if(inst.currentWord===0){
+    await speakAsync('Đọc theo nha!','vi-VN');
+    await delay(300);
+  }
+
+  // Read English 3 times with beep signal before each
+  for(let i=1;i<=3;i++){
+    await playRepeatSignal(); // Beep beep to signal "repeat after me"
+    await delay(200);
+    await speakAsync(w.word,'en-US');
+    const repEl=document.getElementById(`${id}-rep-${i}`);
+    if(repEl)repEl.classList.add('done');
+    await delay(800); // Time for student to repeat
+  }
+
+  // Flip to show meaning
+  await delay(400);
+  card.classList.add('flip');
+  await delay(500);
+
+  // Short pause before Vietnamese
+  await delay(300);
+
+  // Read Vietnamese 3 times with beep signal
+  for(let i=1;i<=3;i++){
+    await playRepeatSignal();
+    await delay(200);
+    await speakAsync(w.meaning,'vi-VN');
+    const repViEl=document.getElementById(`${id}-rep-vi-${i}`);
+    if(repViEl)repViEl.classList.add('done');
+    await delay(800); // Time for student to repeat
+  }
+
+  card.classList.remove('flashcard-speaking');
+
+  // Move to next word or quiz phase
+  await delay(600);
+  inst.currentWord++;
+  if(inst.currentWord<inst.words.length){
+    await speakAsync('Từ tiếp theo','vi-VN');
+    await delay(300);
+    playFlashcardWord(id);
+  }else{
+    // Done with flashcards, go to quiz
+    document.querySelectorAll(`#${id} .vocab-progress-dot`).forEach(dot=>dot.classList.add('done'));
+    await speakAsync('Xong phần học từ. Giờ kiểm tra nhanh nha!','vi-VN');
+    await delay(500);
+    startQuizPhase(id);
+  }
+}
+
+// Quiz Phase
+function startQuizPhase(id){
+  const inst=vocabState.instances[id];
+  inst.phase='quiz';
+  inst.currentWord=0;
+  inst.quizAnswers=[];
+
+  document.getElementById(`${id}-phase-flashcard`).classList.remove('active');
+  document.getElementById(`${id}-phase-quiz`).classList.add('active');
+
+  showQuizQuestion(id);
+}
+
+async function showQuizQuestion(id){
+  const inst=vocabState.instances[id];
+  const w=inst.words[inst.currentWord];
+  const qTypes=['meaning','spelling','type'];
+  // Pick random question type (but only type if word has type)
+  let availTypes=w.type?qTypes:qTypes.slice(0,2);
+  const qType=availTypes[Math.floor(Math.random()*availTypes.length)];
+
+  document.getElementById(`${id}-quiz-num`).textContent=inst.currentWord+1;
+
+  let prompt,questionWord,correctAnswer,options=[];
+
+  if(qType==='meaning'){
+    prompt='Chọn nghĩa đúng của từ:';
+    questionWord=w.word;
+    correctAnswer=w.meaning;
+    const others=inst.words.filter((_,i)=>i!==inst.currentWord).map(x=>x.meaning);
+    shuffle(others);
+    options=[correctAnswer,...others.slice(0,3)];
+  }else if(qType==='spelling'){
+    prompt='Từ nào viết đúng cho nghĩa:';
+    questionWord=w.meaning;
+    correctAnswer=w.word;
+    const others=inst.words.filter((_,i)=>i!==inst.currentWord).map(x=>x.word);
+    shuffle(others);
+    options=[correctAnswer,...others.slice(0,3)];
+  }else{
+    prompt='Từ "'+w.word+'" thuộc loại từ nào?';
+    questionWord='';
+    correctAnswer=w.type;
+    options=[correctAnswer,'n','v','adj','adv','phrase'].filter((v,i,a)=>a.indexOf(v)===i).slice(0,4);
+  }
+
+  shuffle(options);
+
+  document.getElementById(`${id}-quiz-prompt`).textContent=prompt;
+  document.getElementById(`${id}-quiz-word`).textContent=questionWord;
+
+  const optContainer=document.getElementById(`${id}-quiz-options`);
+  optContainer.innerHTML=options.map(opt=>`<div class="quiz-option" data-answer="${opt.replace(/"/g,'&quot;')}" onclick="selectQuizOption('${id}',this,'${correctAnswer.replace(/'/g,"\\'")}')">${opt}</div>`).join('');
+
+  // Voice prompt - split languages to sound natural
+  await playBeep(660,100);
+  await speakAsync(`Câu ${inst.currentWord+1}.`,'vi-VN');
+  if(qType==='meaning'){
+    // "Từ [English word] nghĩa là gì?"
+    await speakAsync(w.word,'en-US');
+    await speakAsync('nghĩa là gì?','vi-VN');
+  }else if(qType==='spelling'){
+    // "[Vietnamese meaning] tiếng Anh viết như thế nào?"
+    await speakAsync(`${w.meaning} tiếng Anh viết như thế nào?`,'vi-VN');
+  }else{
+    // "Từ [English word] thuộc loại từ nào?"
+    await speakAsync(w.word,'en-US');
+    await speakAsync('thuộc loại từ nào?','vi-VN');
+  }
+}
+
+async function selectQuizOption(id,el,correct){
+  const inst=vocabState.instances[id];
+  const selected=el.dataset.answer;
+
+  // Disable all options
+  document.querySelectorAll(`#${id}-quiz-options .quiz-option`).forEach(opt=>{
+    opt.style.pointerEvents='none';
+    if(opt.dataset.answer===correct)opt.classList.add('correct');
+  });
+
+  // Check if correct answer is English (a word in our vocab list)
+  const isEnglish=inst.words.some(w=>w.word===correct);
+
+  if(selected===correct){
+    el.classList.add('correct');
+    inst.quizAnswers.push(true);
+    await playBeep(880,150);
+    await playBeep(1100,200);
+    speakAsync('Đúng rồi!','vi-VN');
+  }else{
+    el.classList.add('wrong');
+    inst.quizAnswers.push(false);
+    await playBeep(300,300);
+    // Split TTS for mixed language
+    await speakAsync('Sai rồi. Đáp án đúng là','vi-VN');
+    await speakAsync(correct,isEnglish?'en-US':'vi-VN');
+  }
+
+  // Next question after delay
+  setTimeout(()=>{
+    inst.currentWord++;
+    if(inst.currentWord<inst.words.length){
+      showQuizQuestion(id);
+    }else{
+      startWritingPhase(id);
+    }
+  },2000);
+}
+window.selectQuizOption=selectQuizOption;
+
+// Writing Phase
+function startWritingPhase(id){
+  const inst=vocabState.instances[id];
+  inst.phase='writing';
+
+  document.getElementById(`${id}-phase-quiz`).classList.remove('active');
+  const writingPhase=document.getElementById(`${id}-phase-writing`);
+  writingPhase.classList.add('active');
+
+  // Scroll to writing phase so student can see list and button
+  setTimeout(()=>{
+    scrollToIfNeeded(writingPhase,'start');
+  },100);
+
+  // Calculate time: 30 seconds per word
+  const secondsPerWord=30;
+  let timeLeft=inst.words.length*secondsPerWord;
+  const timeEl=document.getElementById(`${id}-writing-time`);
+
+  inst.writingTimer=setInterval(()=>{
+    timeLeft--;
+    const m=Math.floor(timeLeft/60);
+    const s=timeLeft%60;
+    timeEl.textContent=`${m}:${s.toString().padStart(2,'0')}`;
+
+    if(timeLeft<=0){
+      clearInterval(inst.writingTimer);
+      startGamePhase(id);
+    }
+  },1000);
+
+  // Speak instruction
+  const minutes=Math.ceil(timeLeft/60);
+  speakAsync(`Giờ ghi từ vựng vào tập nha. ${minutes} phút.`,'vi-VN');
+
+  // After showing the list, scroll to timer so button is visible
+  setTimeout(()=>{
+    const timerEl=document.getElementById(`${id}-writing-timer`);
+    if(timerEl)scrollToIfNeeded(timerEl,'center');
+  },2000);
+}
+
+function skipWritingTimer(id){
+  const inst=vocabState.instances[id];
+  if(inst.writingTimer)clearInterval(inst.writingTimer);
+  startGamePhase(id);
+}
+window.skipWritingTimer=skipWritingTimer;
+
+// Game Phase
+function startGamePhase(id){
+  const inst=vocabState.instances[id];
+  inst.phase='game';
+  inst.gameMatched=0;
+  inst.gameSelected=null;
+
+  document.getElementById(`${id}-phase-writing`).classList.remove('active');
+  document.getElementById(`${id}-phase-game`).classList.add('active');
+
+  // Build game items
+  const words=[...inst.words];
+  const meanings=[...inst.words];
+  shuffle(words);
+  shuffle(meanings);
+
+  const wordsHtml=words.map((w,i)=>`<div class="game-item" data-word="${w.word.replace(/"/g,'&quot;')}" data-type="word" onclick="selectGameItem('${id}',this)">${w.word}</div>`).join('');
+  const meaningsHtml=meanings.map((w,i)=>`<div class="game-item" data-word="${w.word.replace(/"/g,'&quot;')}" data-type="meaning" onclick="selectGameItem('${id}',this)">${w.meaning}</div>`).join('');
+
+  document.getElementById(`${id}-game-words`).innerHTML=wordsHtml;
+  document.getElementById(`${id}-game-meanings`).innerHTML=meaningsHtml;
+  document.getElementById(`${id}-game-score`).textContent=`0/${inst.words.length}`;
+
+  speakAsync('Chơi game nối từ nha. Chọn từ tiếng Anh rồi chọn nghĩa tiếng Việt.','vi-VN');
+}
+
+async function selectGameItem(id,el){
+  const inst=vocabState.instances[id];
+  if(el.classList.contains('matched'))return;
+
+  const type=el.dataset.type;
+  const word=el.dataset.word;
+
+  // Play click sound
+  playBeep(500,50);
+
+  if(!inst.gameSelected){
+    // First selection
+    inst.gameSelected={el,type,word};
+    el.classList.add('selected');
+  }else{
+    // Second selection
+    if(inst.gameSelected.type===type){
+      // Same column - switch selection
+      inst.gameSelected.el.classList.remove('selected');
+      inst.gameSelected={el,type,word};
+      el.classList.add('selected');
+    }else{
+      // Different columns - check match
+      if(inst.gameSelected.word===word){
+        // Match!
+        inst.gameSelected.el.classList.remove('selected');
+        inst.gameSelected.el.classList.add('matched');
+        el.classList.add('matched');
+        inst.gameMatched++;
+        document.getElementById(`${id}-game-score`).textContent=`${inst.gameMatched}/${inst.words.length}`;
+
+        // Success sound
+        await playBeep(660,100);
+        await playBeep(880,100);
+        await playBeep(1100,150);
+
+        if(inst.gameMatched===inst.words.length){
+          // Game complete
+          setTimeout(async()=>{
+            document.getElementById(`${id}-game-result`).style.display='block';
+            document.getElementById(`${id}-game-result`).textContent='🎉 Xuất sắc! Nối đúng hết!';
+            await speakAsync('Xuất sắc! Nối đúng hết rồi!','vi-VN');
+            setTimeout(()=>completeVocab(id),1000);
+          },500);
+        }
+      }else{
+        // Wrong match - error sound
+        await playBeep(300,200);
+        inst.gameSelected.el.classList.add('wrong');
+        el.classList.add('wrong');
+        setTimeout(()=>{
+          inst.gameSelected.el.classList.remove('selected','wrong');
+          el.classList.remove('wrong');
+          inst.gameSelected=null;
+        },500);
+        return;
+      }
+      inst.gameSelected=null;
+    }
+  }
+}
+window.selectGameItem=selectGameItem;
+
+// Complete Vocab
+function completeVocab(id){
+  document.getElementById(`${id}-phase-game`).classList.remove('active');
+  document.getElementById(`${id}-phase-complete`).classList.add('active');
+  speakAsync('Hoàn thành từ vựng rồi! Giỏi lắm!','vi-VN');
+}
+
+async function finishVocab(id){
+  const vocabEl=document.getElementById(id);
+  if(vocabEl){
+    vocabEl.classList.remove('vocab-in-progress');
+    vocabEl.classList.add('vocab-completed');
+  }
+
+  // Speak transition message
+  await speakAsync('Các em đã ghi từ vựng rồi nha. Nhớ học bài hen. Giờ mình qua bài tiếp theo.','vi-VN');
+
+  // Resume through LectureManager
+  setTimeout(()=>{
+    LM.onVocabComplete();
+  },500);
+}
+window.finishVocab=finishVocab;
+
+// Helper functions
+
+// Smart scroll - only scroll if element not fully visible
+function scrollToIfNeeded(el,block='center'){
+  if(!el)return;
+  const rect=el.getBoundingClientRect();
+  const inView=rect.top>=0&&rect.bottom<=window.innerHeight;
+  if(!inView){
+    el.scrollIntoView({behavior:'smooth',block});
+  }
+}
+
+function shuffle(arr){
+  for(let i=arr.length-1;i>0;i--){
+    const j=Math.floor(Math.random()*(i+1));
+    [arr[i],arr[j]]=[arr[j],arr[i]];
+  }
+  return arr;
+}
+
+function delay(ms){return new Promise(r=>setTimeout(r,ms));}
+
+function speakAsync(text,lang='en-US'){
+  return new Promise(resolve=>{
+    if(!('speechSynthesis' in window)){resolve();return;}
+    speechSynthesis.cancel();
+    const u=new SpeechSynthesisUtterance(text);
+    u.lang=lang;
+    u.rate=lang==='vi-VN'?1:0.85;
+    u.onend=resolve;
+    u.onerror=resolve;
+    speechSynthesis.speak(u);
+  });
+}
+
+// Audio beep for signaling
+const audioCtx=new (window.AudioContext||window.webkitAudioContext)();
+function playBeep(freq=880,duration=150,type='sine'){
+  return new Promise(resolve=>{
+    const osc=audioCtx.createOscillator();
+    const gain=audioCtx.createGain();
+    osc.connect(gain);
+    gain.connect(audioCtx.destination);
+    osc.frequency.value=freq;
+    osc.type=type;
+    gain.gain.setValueAtTime(0.3,audioCtx.currentTime);
+    gain.gain.exponentialRampToValueAtTime(0.01,audioCtx.currentTime+duration/1000);
+    osc.start();
+    osc.stop(audioCtx.currentTime+duration/1000);
+    setTimeout(resolve,duration);
+  });
+}
+
+// Double beep signal for "repeat after me"
+async function playRepeatSignal(){
+  await playBeep(880,100);
+  await delay(80);
+  await playBeep(1100,100);
 }
 </script>
 </body>

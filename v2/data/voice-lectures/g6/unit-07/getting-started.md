@@ -8,7 +8,7 @@ Ok lớp 6, Unit 7 nha - Television. Mở sách trang 6 tập 2 đi.
 </teacher_script>
 
 <teacher_script pause="0">
-Đây là từ vựng bài này. Click vô từ để nghe phát âm.
+Đây là từ vựng bài này. Click vô từ để nghe phát âm. Học xong bấm Tiếp tục bài học.
 </teacher_script>
 
 <vocabulary>
@@ -28,25 +28,13 @@ Ok lớp 6, Unit 7 nha - Television. Mở sách trang 6 tập 2 đi.
 14. **interesting** : (adj) thú vị /ˈɪntrəstɪŋ/
 </vocabulary>
 
-
----
-
-<!-- chunk: record_vocabulary -->
-<teacher_script pause="0" action="record">
-Bấm nút Ghi âm để đọc lại và gửi cho thầy sửa.
-</teacher_script>
-
-<teacher_script pause="0">
-Record xong bấm tiếp tục.
-</teacher_script>
-
 ---
 
 <!-- chunk: exercise_1 -->
 ### Bài 1 trang 6 - Listen and read
 
 <teacher_script pause="0">
-Bài 1. Đây là hội thoại Phong với Hùng nói về mấy chương trình TV.
+Bài 1 nha. Đây là hội thoại Phong với Hùng nói về mấy chương trình TV.
 </teacher_script>
 
 <dialogue>
@@ -65,14 +53,14 @@ Bài 1. Đây là hội thoại Phong với Hùng nói về mấy chương trìn
 </dialogue>
 
 <teacher_script pause="180">
-Đọc hội thoại và dịch vô tập. 3 phút.
+Đọc hội thoại và dịch vô tập. 3 phút nha.
 </teacher_script>
 
 ---
 
 <!-- chunk: translation -->
 <teacher_script pause="0">
-Ok đây là bản dịch. So sánh với bài dịch của mình.
+Ok đây là bản dịch. So sánh với bài dịch của mình nha.
 </teacher_script>
 
 <translation>
@@ -91,18 +79,7 @@ Ok đây là bản dịch. So sánh với bài dịch của mình.
 </translation>
 
 <teacher_script pause="60">
-Sửa bài dịch nếu sai. 1 phút.
-</teacher_script>
-
----
-
-<!-- chunk: record_dialogue -->
-<teacher_script pause="0" action="record">
-Bấm nút Ghi âm để đọc hội thoại và gửi cho thầy sửa.
-</teacher_script>
-
-<teacher_script pause="0">
-Record xong bấm tiếp tục.
+Sửa bài dịch nếu sai. 1 phút nha.
 </teacher_script>
 
 ---
@@ -145,14 +122,14 @@ Bài 2. Chọn đáp án đúng A, B hoặc C dựa vào hội thoại.
 </questions>
 
 <teacher_script pause="60">
-Làm bài đi. 1 phút.
+Làm bài đi. 1 phút nha.
 </teacher_script>
 
 ---
 
 <!-- chunk: answer_2 -->
 <teacher_script pause="0">
-Ok đáp án.
+Ok đáp án nha.
 </teacher_script>
 
 <answer>
@@ -165,7 +142,7 @@ Ok đáp án.
 **Câu 1: C** - Tụi nó nói về nhiều chương trình khác nhau (Voice Kids, Lion King, Tom & Jerry, English in a Minute), không phải chỉ 1 chương trình.
 
 **Câu 2: A** - Phong nói "I like **animated films** like The Lion King".
-- Chú ý: **animated film** (phim hoạt hình dài) khác **cartoon** (hoạt hình ngắn).
+- Chú ý: **animated film** (phim hoạt hình dài) khác **cartoon** (hoạt hình ngắn) nha.
 
 **Câu 3: A** - "**watch TV**" là cụm cố định.
 - Không ai nói "see TV" hay "look TV".
@@ -176,7 +153,7 @@ Ok đáp án.
 </explanation>
 
 <teacher_script pause="30">
-Sửa bài nếu sai. 30 giây.
+Sửa bài nếu sai. 30 giây nha.
 </teacher_script>
 
 ---
@@ -199,14 +176,14 @@ Bài 3. Nối tên chương trình ở cột A với loại chương trình ở 
 </questions>
 
 <teacher_script pause="45">
-Làm bài đi. 45 giây.
+Làm bài đi. 45 giây nha.
 </teacher_script>
 
 ---
 
 <!-- chunk: answer_3 -->
 <teacher_script pause="0">
-Ok đáp án.
+Ok đáp án nha.
 </teacher_script>
 
 <answer>
@@ -230,7 +207,7 @@ Ok đáp án.
 </explanation>
 
 <teacher_script pause="30">
-Sửa bài nếu sai. 30 giây.
+Sửa bài nếu sai. 30 giây nha.
 </teacher_script>
 
 ---
@@ -250,14 +227,14 @@ Bài 4. Tìm tính từ trong hội thoại mô tả các chương trình và nh
 </questions>
 
 <teacher_script pause="30">
-Làm bài đi. 30 giây.
+Làm bài đi. 30 giây nha.
 </teacher_script>
 
 ---
 
 <!-- chunk: answer_4 -->
 <teacher_script pause="0">
-Ok đáp án.
+Ok đáp án nha.
 </teacher_script>
 
 <answer>
@@ -282,7 +259,7 @@ Ok đáp án.
 </explanation>
 
 <teacher_script pause="30">
-Sửa bài nếu sai. 30 giây.
+Sửa bài nếu sai. 30 giây nha.
 </teacher_script>
 
 ---
@@ -323,16 +300,5 @@ Bài 5 là bài Speaking. Phỏng vấn bạn về chương trình TV yêu thíc
 </questions>
 
 <teacher_script pause="0">
-Bài này về nhà tập nói. Tự hỏi đáp với bạn hoặc gia đình.
-</teacher_script>
-
----
-
-<!-- chunk: end -->
-<teacher_script pause="0">
-Ok hết Getting Started rồi. Về nhà học thuộc từ vựng.
-</teacher_script>
-
-<teacher_script pause="0">
-Bài sau qua A Closer Look 1. Hẹn gặp lại!
+Bài này về nhà tập nói nha. Ok hết Getting Started rồi. Bài sau qua A Closer Look 1!
 </teacher_script>

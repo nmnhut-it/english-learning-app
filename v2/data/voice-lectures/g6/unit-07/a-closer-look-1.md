@@ -15,7 +15,7 @@ Mở sách trang 8 tập 2 đi.
 
 <!-- chunk: vocabulary -->
 <teacher_script pause="0">
-Đây là từ vựng mới. Click vô từ để nghe phát âm.
+Đây là từ vựng mới. Click vô từ để nghe phát âm. Học xong bấm Tiếp tục bài học.
 </teacher_script>
 
 <vocabulary>
@@ -39,19 +39,16 @@ Mở sách trang 8 tập 2 đi.
 18. **happen - happened - happened** : (v) xảy ra, diễn ra /ˈhæpən/
 </vocabulary>
 
-<teacher_script pause="120">
-Ghi từ vựng vô vở đi. 2 phút.
-</teacher_script>
 
 ---
 
 <!-- chunk: record_vocabulary -->
 <teacher_script pause="0" action="record">
-Bấm nút Ghi âm để đọc lại và gửi cho thầy sửa.
+Bấm nút Ghi âm để đọc lại và gửi cho thầy sửa nha.
 </teacher_script>
 
 <teacher_script pause="0">
-Xong rồi thì bấm tiếp tục.
+Xong rồi thì bấm tiếp tục nha.
 </teacher_script>
 
 ---
@@ -60,7 +57,7 @@ Xong rồi thì bấm tiếp tục.
 ### Bài 1 trang 8 - Match definitions
 
 <teacher_script pause="0">
-Bài 1. Nối từ với định nghĩa của nó.
+Bài 1 nha. Nối từ với định nghĩa của nó.
 </teacher_script>
 
 <task>
@@ -98,14 +95,14 @@ Bài 1. Nối từ với định nghĩa của nó.
 </questions>
 
 <teacher_script pause="60">
-Làm bài đi. 1 phút.
+Làm bài đi. 1 phút nha.
 </teacher_script>
 
 ---
 
 <!-- chunk: answer_1 -->
 <teacher_script pause="0">
-Ok đáp án.
+Ok đáp án nha.
 </teacher_script>
 
 <answer>
@@ -125,7 +122,7 @@ Ok đáp án.
 </explanation>
 
 <teacher_script pause="30">
-Sửa bài nếu sai. 30 giây.
+Sửa bài nếu sai. 30 giây nha.
 </teacher_script>
 
 ---
@@ -134,7 +131,7 @@ Sửa bài nếu sai. 30 giây.
 ### Bài 2 trang 8 - Fill in the blanks
 
 <teacher_script pause="0">
-Bài 2. Điền từ vào chỗ trống.
+Bài 2 nha. Điền từ vào chỗ trống.
 </teacher_script>
 
 <task>
@@ -172,14 +169,14 @@ Bài 2. Điền từ vào chỗ trống.
 </questions>
 
 <teacher_script pause="60">
-Làm bài đi. 1 phút.
+Làm bài đi. 1 phút nha.
 </teacher_script>
 
 ---
 
 <!-- chunk: answer_2 -->
 <teacher_script pause="0">
-Ok đáp án.
+Ok đáp án nha.
 </teacher_script>
 
 <answer>
@@ -200,7 +197,7 @@ Ok đáp án.
 </explanation>
 
 <teacher_script pause="30">
-Sửa bài nếu sai. 30 giây.
+Sửa bài nếu sai. 30 giây nha.
 </teacher_script>
 
 ---
@@ -209,7 +206,7 @@ Sửa bài nếu sai. 30 giây.
 ### Bài 3 trang 8 - Complete with adjectives
 
 <teacher_script pause="0">
-Bài 3. Điền tính từ phù hợp.
+Bài 3 nha. Điền tính từ phù hợp.
 </teacher_script>
 
 <task>
@@ -247,14 +244,14 @@ Bài 3. Điền tính từ phù hợp.
 </questions>
 
 <teacher_script pause="60">
-Làm bài đi. 1 phút.
+Làm bài đi. 1 phút nha.
 </teacher_script>
 
 ---
 
 <!-- chunk: answer_3 -->
 <teacher_script pause="0">
-Ok đáp án.
+Ok đáp án nha.
 </teacher_script>
 
 <answer>
@@ -275,7 +272,7 @@ Ok đáp án.
 </explanation>
 
 <teacher_script pause="30">
-Sửa bài nếu sai. 30 giây.
+Sửa bài nếu sai. 30 giây nha.
 </teacher_script>
 
 ---
@@ -284,18 +281,18 @@ Sửa bài nếu sai. 30 giây.
 ### PRONUNCIATION - /θ/ và /ð/
 
 <teacher_script pause="0">
-Phần Pronunciation. Hôm nay học 2 âm: /θ/ và /ð/.
+Phần Pronunciation nha. Hôm nay học 2 âm: /θ/ và /ð/.
 </teacher_script>
 
 <teacher_script pause="0">
-Hai âm này tiếng Việt không có, nên cần tập kỹ.
+Hai âm này tiếng Việt không có, nên cần tập kỹ nha.
 </teacher_script>
 
 ---
 
 <!-- chunk: pronunciation_theory -->
 <teacher_script pause="0">
-Đây là lý thuyết phát âm. Xem kỹ cách đặt lưỡi.
+Đây là lý thuyết phát âm. Xem kỹ cách đặt lưỡi nha.
 </teacher_script>
 
 <pronunciation_theory>
@@ -332,14 +329,14 @@ Hai âm này tiếng Việt không có, nên cần tập kỹ.
 </pronunciation_theory>
 
 <teacher_script pause="90">
-Ghi lý thuyết vô vở đi. 1 phút rưỡi.
+Ghi lý thuyết vô tập đi. 1 phút rưỡi nha.
 </teacher_script>
 
 ---
 
 <!-- chunk: pronunciation_audio -->
 <teacher_script pause="0">
-Giờ nghe audio mẫu. Bấm play để nghe.
+Giờ nghe audio mẫu nha. Bấm play để nghe.
 </teacher_script>
 
 <audio src="<!-- TODO: g6_u07_pronunciation_th_sounds.mp3 -->">
@@ -347,14 +344,14 @@ Giờ nghe audio mẫu. Bấm play để nghe.
 </audio>
 
 <teacher_script pause="30">
-Nghe xong chưa? Nghe lại nếu cần.
+Nghe xong chưa? Nghe lại nếu cần nha.
 </teacher_script>
 
 ---
 
 <!-- chunk: pronunciation_guide -->
 <teacher_script pause="0">
-Đây là bảng tóm tắt phân biệt 2 âm.
+Đây là bảng tóm tắt phân biệt 2 âm nha.
 </teacher_script>
 
 <vocabulary>
@@ -373,7 +370,7 @@ Nghe xong chưa? Nghe lại nếu cần.
 </vocabulary>
 
 <teacher_script pause="60">
-Ghi bảng tóm tắt vô vở đi. 1 phút.
+Ghi bảng tóm tắt vô tập đi. 1 phút nha.
 </teacher_script>
 
 ---
@@ -382,7 +379,7 @@ Ghi bảng tóm tắt vô vở đi. 1 phút.
 ### Bài 4 trang 8 - Listen and repeat
 
 <teacher_script pause="0">
-Bài 4. Nghe và nhắc lại các từ.
+Bài 4 nha. Nghe và nhắc lại các từ.
 </teacher_script>
 
 <task>
@@ -406,18 +403,18 @@ Bài 4. Nghe và nhắc lại các từ.
 </questions>
 
 <teacher_script pause="60">
-Nghe audio rồi đọc theo từng cột. 1 phút.
+Nghe audio rồi đọc theo từng cột nha. 1 phút.
 </teacher_script>
 
 ---
 
 <!-- chunk: record_pronunciation -->
 <teacher_script pause="0" action="record">
-Bấm nút Ghi âm để đọc lại và gửi cho thầy sửa. Đọc cả 2 cột.
+Bấm nút Ghi âm để đọc lại và gửi cho thầy sửa nha. Đọc cả 2 cột.
 </teacher_script>
 
 <teacher_script pause="0">
-Xong rồi thì bấm tiếp tục.
+Xong rồi thì bấm tiếp tục nha.
 </teacher_script>
 
 ---
@@ -426,7 +423,7 @@ Xong rồi thì bấm tiếp tục.
 ### Bài 5 trang 8 - Tongue Twister
 
 <teacher_script pause="0">
-Bài 5. Tongue Twister - Câu luyện phát âm khó.
+Bài 5 nha. Tongue Twister - Câu luyện phát âm khó.
 </teacher_script>
 
 <task>
@@ -461,25 +458,25 @@ Bài 5. Tongue Twister - Câu luyện phát âm khó.
 </questions>
 
 <teacher_script pause="60">
-Tập đọc nhanh. 1 phút.
+Tập đọc nhanh nha. 1 phút.
 </teacher_script>
 
 ---
 
 <!-- chunk: record_tongue_twister -->
 <teacher_script pause="0" action="record">
-Bấm nút Ghi âm để đọc 2 câu Tongue Twister và gửi cho thầy sửa.
+Bấm nút Ghi âm để đọc 2 câu Tongue Twister và gửi cho thầy sửa nha.
 </teacher_script>
 
 <teacher_script pause="0">
-Xong rồi thì bấm tiếp tục.
+Xong rồi thì bấm tiếp tục nha.
 </teacher_script>
 
 ---
 
 <!-- chunk: end -->
 <teacher_script pause="0">
-Ok hết A Closer Look 1 rồi. Về nhà luyện phát âm /θ/ và /ð/ nhiều.
+Ok hết A Closer Look 1 rồi. Về nhà luyện phát âm /θ/ và /ð/ nhiều nha.
 </teacher_script>
 
 <teacher_script pause="0">

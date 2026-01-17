@@ -15,7 +15,7 @@ Mở sách trang 14 tập 2 đi.
 
 <!-- chunk: vocabulary_review -->
 <teacher_script pause="0">
-Trước khi làm bài, ôn lại từ vựng Unit 7.
+Trước khi làm bài, ôn lại từ vựng Unit 7 nha.
 </teacher_script>
 
 <vocabulary>
@@ -45,7 +45,7 @@ Trước khi làm bài, ôn lại từ vựng Unit 7.
 </vocabulary>
 
 <teacher_script pause="60">
-Xem lại từ vựng. 1 phút.
+Xem lại từ vựng. 1 phút. Xong bấm Tiếp tục bài học.
 </teacher_script>
 
 ---
@@ -56,7 +56,7 @@ Xem lại từ vựng. 1 phút.
 ### Bài 1 trang 14 - Put words in groups
 
 <teacher_script pause="0">
-Bài 1. Phân loại từ vào nhóm phù hợp.
+Bài 1 nha. Phân loại từ vào nhóm phù hợp.
 </teacher_script>
 
 <task>
@@ -77,14 +77,14 @@ Bài 1. Phân loại từ vào nhóm phù hợp.
 </questions>
 
 <teacher_script pause="45">
-Phân loại từ vô 2 nhóm đi. 45 giây.
+Phân loại từ vô 2 nhóm đi. 45 giây nha.
 </teacher_script>
 
 ---
 
 <!-- chunk: answer_1 -->
 <teacher_script pause="0">
-Ok đáp án.
+Ok đáp án nha.
 </teacher_script>
 
 <answer>
@@ -97,7 +97,7 @@ Ok đáp án.
 </answer>
 
 <teacher_script pause="0">
-Giải thích.
+Giải thích nha.
 </teacher_script>
 
 <teacher_script pause="0">
@@ -113,7 +113,7 @@ Mẹo phân biệt: Tính từ thường kết thúc bằng -ing, -ful, -al, -ar
 </teacher_script>
 
 <teacher_script pause="30">
-Sửa bài nếu sai. 30 giây.
+Sửa bài nếu sai. 30 giây nha.
 </teacher_script>
 
 ---
@@ -122,7 +122,7 @@ Sửa bài nếu sai. 30 giây.
 ### Bài 2 trang 14 - Complete the text
 
 <teacher_script pause="0">
-Bài 2. Điền từ vào đoạn văn.
+Bài 2 nha. Điền từ vào đoạn văn.
 </teacher_script>
 
 <task>
@@ -149,14 +149,14 @@ VTV1 is a popular TV channel in Viet Nam. It attracts many **(1)** _______ becau
 </reading>
 
 <teacher_script pause="60">
-Đọc đoạn văn rồi điền từ vào chỗ trống đi. 1 phút.
+Đọc đoạn văn rồi điền từ vào chỗ trống đi. 1 phút nha.
 </teacher_script>
 
 ---
 
 <!-- chunk: answer_2 -->
 <teacher_script pause="0">
-Ok đáp án.
+Ok đáp án nha.
 </teacher_script>
 
 <answer>
@@ -164,7 +164,7 @@ Ok đáp án.
 </answer>
 
 <teacher_script pause="0">
-Giải thích từng câu.
+Giải thích từng câu nha.
 </teacher_script>
 
 <teacher_script pause="0">
@@ -188,7 +188,7 @@ Câu 5: EDUCATIONAL - có tính giáo dục. Game shows vừa vui (fun) vừa c�
 </teacher_script>
 
 <teacher_script pause="30">
-Sửa bài nếu sai. 30 giây.
+Sửa bài nếu sai. 30 giây nha.
 </teacher_script>
 
 ---
@@ -197,7 +197,7 @@ Sửa bài nếu sai. 30 giây.
 
 <!-- chunk: grammar_review -->
 <teacher_script pause="0">
-Phần Grammar. Ôn lại Wh-questions và Conjunctions.
+Phần Grammar nha. Ôn lại Wh-questions và Conjunctions.
 </teacher_script>
 
 <grammar>
@@ -223,7 +223,7 @@ Phần Grammar. Ôn lại Wh-questions và Conjunctions.
 </grammar>
 
 <teacher_script pause="30">
-Xem lại bảng tóm tắt. 30 giây.
+Xem lại bảng tóm tắt. 30 giây nha.
 </teacher_script>
 
 ---
@@ -232,7 +232,7 @@ Xem lại bảng tóm tắt. 30 giây.
 ### Bài 3 trang 14 - Complete each question with a suitable question word
 
 <teacher_script pause="0">
-Bài 3. Điền từ hỏi phù hợp vào mỗi câu.
+Bài 3 nha. Điền từ hỏi phù hợp vào mỗi câu.
 </teacher_script>
 
 <task>
@@ -279,14 +279,14 @@ Bài 3. Điền từ hỏi phù hợp vào mỗi câu.
 </questions>
 
 <teacher_script pause="60">
-Điền từ hỏi phù hợp vào mỗi câu đi. 1 phút.
+Điền từ hỏi phù hợp vào mỗi câu đi. 1 phút nha.
 </teacher_script>
 
 ---
 
 <!-- chunk: answer_3 -->
 <teacher_script pause="0">
-Ok đáp án.
+Ok đáp án nha.
 </teacher_script>
 
 <answer>
@@ -294,7 +294,7 @@ Ok đáp án.
 </answer>
 
 <teacher_script pause="0">
-Giải thích từng câu.
+Giải thích từng câu nha.
 </teacher_script>
 
 <teacher_script pause="0">
@@ -334,7 +334,7 @@ Câu 5: HOW MANY - Hỏi "bao nhiêu giờ". Trả lời "half an hour" là số
 </teacher_script>
 
 <teacher_script pause="30">
-Sửa bài nếu sai. 30 giây.
+Sửa bài nếu sai. 30 giây nha.
 </teacher_script>
 
 ---
@@ -343,7 +343,7 @@ Sửa bài nếu sai. 30 giây.
 ### Bài 4 trang 14 - Complete with conjunctions
 
 <teacher_script pause="0">
-Bài 4. Điền liên từ and, but, hoặc so.
+Bài 4 nha. Điền liên từ and, but, hoặc so.
 </teacher_script>
 
 <task>
@@ -383,14 +383,14 @@ Bài 4. Điền liên từ and, but, hoặc so.
 </questions>
 
 <teacher_script pause="60">
-Điền liên từ phù hợp đi. 1 phút.
+Điền liên từ phù hợp đi. 1 phút nha.
 </teacher_script>
 
 ---
 
 <!-- chunk: answer_4 -->
 <teacher_script pause="0">
-Ok đáp án.
+Ok đáp án nha.
 </teacher_script>
 
 <answer>
@@ -398,7 +398,7 @@ Ok đáp án.
 </answer>
 
 <teacher_script pause="0">
-Giải thích từng câu.
+Giải thích từng câu nha.
 </teacher_script>
 
 <teacher_script pause="0">
@@ -422,14 +422,14 @@ Câu 5: SO - Có nhiều bài tập → không xem được. Nguyên nhân → k
 </teacher_script>
 
 <teacher_script pause="30">
-Sửa bài nếu sai. 30 giây.
+Sửa bài nếu sai. 30 giây nha.
 </teacher_script>
 
 ---
 
 <!-- chunk: summary -->
 <teacher_script pause="0">
-Tóm tắt Unit 7.
+Tóm tắt Unit 7 nha.
 </teacher_script>
 
 <grammar>
@@ -449,7 +449,7 @@ Tóm tắt Unit 7.
 </grammar>
 
 <teacher_script pause="30">
-Xem lại bảng tóm tắt. 30 giây.
+Xem lại bảng tóm tắt. 30 giây nha.
 </teacher_script>
 
 ---
@@ -460,7 +460,7 @@ Ok hết Unit 7 rồi! Chúc mừng nha!
 </teacher_script>
 
 <teacher_script pause="0">
-Về nhà ôn lại từ vựng và ngữ pháp. Làm thêm bài tập trong sách bài tập.
+Về nhà ôn lại từ vựng và ngữ pháp. Làm thêm bài tập trong sách bài tập nha.
 </teacher_script>
 
 <teacher_script pause="0">

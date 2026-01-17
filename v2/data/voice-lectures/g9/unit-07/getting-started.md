@@ -44,12 +44,9 @@ Ok lớp 9, Unit 7 nha - Natural Wonders of the World. Các kỳ quan thiên nhi
 33. **contribute to** : đóng góp cho /kənˈtrɪbjuːt tuː/
 </vocabulary>
 
-<teacher_script pause="180">
-Nhiều từ vựng hay. Ghi vô vở đi. 3 phút.
-</teacher_script>
 
 <teacher_script pause="0" action="record">
-Bấm nút Ghi âm để đọc lại và gửi cho thầy sửa.
+Bấm nút Ghi âm để đọc lại và gửi cho thầy sửa nha.
 </teacher_script>
 
 ---
@@ -99,15 +96,15 @@ Bài 1, nghe và đọc hội thoại. Lan gặp Tom ở hành lang trường.
 </translation>
 
 <teacher_script pause="240">
-Nghe hội thoại rồi dịch ra tiếng Việt. 4 phút vì bài dài.
+Nghe hội thoại rồi dịch ra tiếng Việt nha. 4 phút vì bài dài.
 </teacher_script>
 
 <teacher_script pause="60">
-Ok sửa bài dịch. Đối chiếu với bản dịch trên màn hình.
+Ok sửa bài dịch nha. Đối chiếu với bản dịch trên màn hình.
 </teacher_script>
 
 <teacher_script pause="0" action="record">
-Bấm nút Ghi âm để đọc hội thoại và gửi cho thầy sửa.
+Bấm nút Ghi âm để đọc hội thoại và gửi cho thầy sửa nha.
 </teacher_script>
 
 ---
@@ -115,7 +112,7 @@ Bấm nút Ghi âm để đọc hội thoại và gửi cho thầy sửa.
 ### Bài 2 trang 73 - True or False
 
 <teacher_script pause="60">
-Bài 2, đúng hay sai. 1 phút.
+Bài 2, đúng hay sai. 1 phút nha.
 </teacher_script>
 
 <task>
@@ -147,7 +144,7 @@ Bài 2, đúng hay sai. 1 phút.
 </questions>
 
 <teacher_script pause="0" type="answer">
-Ok đáp án. Câu 1 là T - True, câu 2 là F - False, câu 3 là T - True, câu 4 là F - False.
+Ok đáp án nha. Câu 1 là T - True, câu 2 là F - False, câu 3 là T - True, câu 4 là F - False.
 </teacher_script>
 
 <answer>
@@ -167,7 +164,7 @@ Ok đáp án. Câu 1 là T - True, câu 2 là F - False, câu 3 là T - True, c�
 ### Bài 3 trang 73 - Fill in the blanks
 
 <teacher_script pause="60">
-Bài 3, điền từ vào chỗ trống. 1 phút.
+Bài 3, điền từ vào chỗ trống. 1 phút nha.
 </teacher_script>
 
 <task>
@@ -189,7 +186,7 @@ Bài 3, điền từ vào chỗ trống. 1 phút.
 </questions>
 
 <teacher_script pause="0" type="answer">
-Ok đáp án. 1 là landscape, 2 là couldn't help, 3 là explore, 4 là support, 5 là development.
+Ok đáp án nha. 1 là landscape, 2 là couldn't help, 3 là explore, 4 là support, 5 là development.
 </teacher_script>
 
 <answer>
@@ -210,7 +207,7 @@ Ok đáp án. 1 là landscape, 2 là couldn't help, 3 là explore, 4 là support
 ### Bài 4 trang 73 - Complete the sentences
 
 <teacher_script pause="60">
-Bài 4, hoàn thành câu với từ cho sẵn. 1 phút.
+Bài 4, hoàn thành câu với từ cho sẵn. 1 phút nha.
 </teacher_script>
 
 <task>
@@ -253,5 +250,5 @@ Bài 4, hoàn thành câu với từ cho sẵn. 1 phút.
 ---
 
 <teacher_script pause="0">
-Ok hết Getting Started rồi. Về nhà học từ vựng về kỳ quan thiên nhiên, bài sau qua A Closer Look 1.
+Ok hết Getting Started rồi. Về nhà học từ vựng về kỳ quan thiên nhiên, bài sau qua A Closer Look 1 nha.
 </teacher_script>

@@ -9,7 +9,9 @@
       "Bash(curl:*)",
       "Bash(dir:*)",
       "Bash(npx playwright test --reporter=list)",
-      "Bash(ls:*)"
+      "Bash(ls:*)",
+      "Bash(git fetch:*)",
+      "Bash(git merge:*)"
     ],
     "deny": [],
     "ask": []

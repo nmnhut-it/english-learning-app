@@ -15,14 +15,14 @@ Mở sách trang 12-13 tập 2 đi.
 
 <!-- chunk: reading_intro -->
 <teacher_script pause="0">
-Phần Reading trước. Đọc bảng chương trình TV và trả lời câu hỏi.
+Phần Reading trước nha. Đọc bảng chương trình TV và trả lời câu hỏi.
 </teacher_script>
 
 ---
 
 <!-- chunk: vocabulary -->
 <teacher_script pause="0">
-Trước khi đọc, học từ vựng quan trọng. Có 21 từ.
+Trước khi đọc, học từ vựng quan trọng nha. Có 21 từ.
 </teacher_script>
 
 <vocabulary>
@@ -62,7 +62,7 @@ Từ 15-21: have a lot of fun, on their first day at school, compete, the most e
 </teacher_script>
 
 <teacher_script pause="120">
-Click vô từ để nghe phát âm, ghi vô vở đi. 2 phút.
+Click vô từ để nghe phát âm, ghi vô tập đi. 2 phút. Học xong bấm Tiếp tục bài học.
 </teacher_script>
 
 ---
@@ -71,7 +71,7 @@ Click vô từ để nghe phát âm, ghi vô vở đi. 2 phút.
 ### Bài 1 trang 12 - Read the TV guide
 
 <teacher_script pause="0">
-Bài 1. Đọc bảng chương trình TV và trả lời câu hỏi.
+Bài 1 nha. Đọc bảng chương trình TV và trả lời câu hỏi.
 </teacher_script>
 
 <task>
@@ -84,7 +84,7 @@ Bài 1. Đọc bảng chương trình TV và trả lời câu hỏi.
 
 <!-- chunk: tv_guide_english -->
 <teacher_script pause="0">
-Đây là bảng chương trình TV bằng tiếng Anh.
+Đây là bảng chương trình TV bằng tiếng Anh nha.
 </teacher_script>
 
 <content_table>
@@ -121,7 +121,7 @@ Bài 1. Đọc bảng chương trình TV và trả lời câu hỏi.
 
 <!-- chunk: tv_guide_vietnamese -->
 <teacher_script pause="0">
-Đây là bản dịch tiếng Việt.
+Đây là bản dịch tiếng Việt nha.
 </teacher_script>
 
 <translation>
@@ -135,14 +135,14 @@ Bài 1. Đọc bảng chương trình TV và trả lời câu hỏi.
 </translation>
 
 <teacher_script pause="60">
-Đọc kỹ cả 2 bảng đi. 1 phút.
+Đọc kỹ cả 2 bảng đi. 1 phút nha.
 </teacher_script>
 
 ---
 
 <!-- chunk: exercise_1_questions -->
 <teacher_script pause="0">
-Giờ trả lời 5 câu hỏi.
+Giờ trả lời 5 câu hỏi nha.
 </teacher_script>
 
 <questions type="read_answer">
@@ -178,7 +178,7 @@ Giờ trả lời 5 câu hỏi.
 </questions>
 
 <teacher_script pause="0">
-5 câu hỏi. Tìm thông tin trong bảng để trả lời.
+5 câu hỏi nha. Tìm thông tin trong bảng để trả lời.
 </teacher_script>
 
 <teacher_script pause="0">
@@ -193,14 +193,14 @@ Câu 5: Science programme nói về gì?
 </teacher_script>
 
 <teacher_script pause="90">
-Làm bài đi. 1 phút rưỡi.
+Làm bài đi. 1 phút rưỡi nha.
 </teacher_script>
 
 ---
 
 <!-- chunk: answer_1 -->
 <teacher_script pause="0">
-Ok đáp án.
+Ok đáp án nha.
 </teacher_script>
 
 <answer>
@@ -213,7 +213,7 @@ Ok đáp án.
 </answer>
 
 <teacher_script pause="0">
-Giải thích từng câu.
+Giải thích từng câu nha.
 </teacher_script>
 
 <teacher_script pause="0">
@@ -293,7 +293,7 @@ Trong bảng ghi "Science: The Dolphins" - chương trình về cá heo.
 </explanation>
 
 <teacher_script pause="30">
-Sửa bài nếu sai. 30 giây.
+Sửa bài nếu sai. 30 giây nha.
 </teacher_script>
 
 ---
@@ -302,7 +302,7 @@ Sửa bài nếu sai. 30 giây.
 ### Bài 2 trang 12 - Match people with programmes
 
 <teacher_script pause="0">
-Bài 2. Đọc bảng và viết tên chương trình phù hợp cho mỗi người.
+Bài 2 nha. Đọc bảng và viết tên chương trình phù hợp cho mỗi người.
 </teacher_script>
 
 <task>
@@ -332,7 +332,7 @@ Bài 2. Đọc bảng và viết tên chương trình phù hợp cho mỗi ngư�
 </translation>
 
 <teacher_script pause="0">
-Có 5 người với sở thích khác nhau.
+Có 5 người với sở thích khác nhau nha.
 </teacher_script>
 
 <teacher_script pause="0">
@@ -347,18 +347,18 @@ Linh interested in sea animals - quan tâm đến động vật biển.
 </teacher_script>
 
 <teacher_script pause="0">
-Nhìn lại bảng TV guide, chọn chương trình phù hợp cho từng người.
+Nhìn lại bảng TV guide, chọn chương trình phù hợp cho từng người nha.
 </teacher_script>
 
 <teacher_script pause="60">
-Làm bài đi. 1 phút.
+Làm bài đi. 1 phút nha.
 </teacher_script>
 
 ---
 
 <!-- chunk: answer_2 -->
 <teacher_script pause="0">
-Ok đáp án.
+Ok đáp án nha.
 </teacher_script>
 
 <answer>
@@ -371,7 +371,7 @@ Ok đáp án.
 </answer>
 
 <teacher_script pause="0">
-Giải thích từng câu.
+Giải thích từng câu nha.
 </teacher_script>
 
 <teacher_script pause="0">
@@ -447,14 +447,14 @@ Dolphins - cá heo là động vật biển. The Dolphins là chương trình v�
 </explanation>
 
 <teacher_script pause="30">
-Sửa bài nếu sai. 30 giây.
+Sửa bài nếu sai. 30 giây nha.
 </teacher_script>
 
 ---
 
 <!-- chunk: speaking_intro -->
 <teacher_script pause="0">
-Giờ qua phần Speaking.
+Giờ qua phần Speaking nha.
 </teacher_script>
 
 ---
@@ -463,7 +463,7 @@ Giờ qua phần Speaking.
 ### Bài 3 trang 12 - Work in groups
 
 <teacher_script pause="0">
-Bài 3. Làm việc theo nhóm, chia sẻ đáp án bài 2 và hỏi bạn có đồng ý không.
+Bài 3 nha. Làm việc theo nhóm, chia sẻ đáp án bài 2 và hỏi bạn có đồng ý không.
 </teacher_script>
 
 <task>
@@ -482,7 +482,7 @@ Bài 3. Làm việc theo nhóm, chia sẻ đáp án bài 2 và hỏi bạn có �
 </grammar>
 
 <teacher_script pause="0">
-Cấu trúc thảo luận.
+Cấu trúc thảo luận nha.
 </teacher_script>
 
 <teacher_script pause="0">
@@ -498,7 +498,7 @@ Không đồng ý: I disagree. I think...
 
 <!-- chunk: exercise_3_sample -->
 <teacher_script pause="0">
-Đây là hội thoại mẫu cho cả 5 người.
+Đây là hội thoại mẫu cho cả 5 người nha.
 </teacher_script>
 
 <dialogue>
@@ -558,14 +558,14 @@ Với Linh: The Dolphins vì cô ấy interested in sea animals.
 </teacher_script>
 
 <teacher_script pause="60">
-Luyện nói với bạn. 1 phút.
+Luyện nói với bạn. 1 phút nha.
 </teacher_script>
 
 ---
 
 <!-- chunk: exercise_3_record -->
 <teacher_script pause="0" action="record">
-Bấm nút Ghi âm để nói ý kiến về 2-3 người trong bảng và gửi cho thầy sửa.
+Bấm nút Ghi âm để nói ý kiến về 2-3 người trong bảng và gửi cho thầy sửa nha.
 </teacher_script>
 
 <teacher_script pause="0">
@@ -573,7 +573,7 @@ Nói: I think the best programme for [name] is [programme] because [reason].
 </teacher_script>
 
 <teacher_script pause="0">
-Record xong bấm tiếp tục.
+Record xong bấm tiếp tục nha.
 </teacher_script>
 
 ---
@@ -582,7 +582,7 @@ Record xong bấm tiếp tục.
 ### Bài 4 trang 13 - Tell about your favourite programme
 
 <teacher_script pause="0">
-Bài 4. Nói về chương trình TV yêu thích của mình.
+Bài 4 nha. Nói về chương trình TV yêu thích của mình.
 </teacher_script>
 
 <task>
@@ -595,7 +595,7 @@ Bài 4. Nói về chương trình TV yêu thích của mình.
 
 <!-- chunk: exercise_4_outline -->
 <teacher_script pause="0">
-Bài nói cần có 4 thông tin.
+Bài nói cần có 4 thông tin nha.
 </teacher_script>
 
 <grammar>
@@ -696,14 +696,14 @@ Lý do: It makes me laugh a lot and the characters are cute.
 </teacher_script>
 
 <teacher_script pause="120">
-Giờ viết bài nói của mình vô vở đi. 2 phút.
+Giờ viết bài nói của mình vô tập đi. 2 phút nha.
 </teacher_script>
 
 ---
 
 <!-- chunk: exercise_4_photo -->
 <teacher_script pause="0" action="photo">
-Viết xong thì chụp bài gửi cho thầy sửa.
+Viết xong thì chụp bài gửi cho thầy sửa nha.
 </teacher_script>
 
 <teacher_script pause="0">
@@ -714,7 +714,7 @@ Chụp xong bấm tiếp tục.
 
 <!-- chunk: exercise_4_record -->
 <teacher_script pause="0" action="record">
-Bấm nút Ghi âm để nói về chương trình yêu thích của mình và gửi cho thầy sửa.
+Bấm nút Ghi âm để nói về chương trình yêu thích của mình và gửi cho thầy sửa nha.
 </teacher_script>
 
 <teacher_script pause="0">
@@ -722,14 +722,14 @@ Nhớ nói đủ 4 thông tin: Tên, Kênh, Nội dung, Lý do.
 </teacher_script>
 
 <teacher_script pause="0">
-Record xong bấm tiếp tục.
+Record xong bấm tiếp tục nha.
 </teacher_script>
 
 ---
 
 <!-- chunk: summary -->
 <teacher_script pause="0">
-Tóm tắt Skills 1.
+Tóm tắt Skills 1 nha.
 </teacher_script>
 
 <grammar>
@@ -757,7 +757,7 @@ Tóm tắt Skills 1.
 </grammar>
 
 <teacher_script pause="0">
-Tóm tắt.
+Tóm tắt nha.
 </teacher_script>
 
 <teacher_script pause="0">
@@ -773,7 +773,7 @@ Nói về chương trình yêu thích với 4 thông tin: Name, Channel, Content
 </teacher_script>
 
 <teacher_script pause="45">
-Ghi tóm tắt vô vở đi. 45 giây.
+Ghi tóm tắt vô tập đi. 45 giây nha.
 </teacher_script>
 
 ---
@@ -784,7 +784,7 @@ Ok hết Skills 1 rồi.
 </teacher_script>
 
 <teacher_script pause="0">
-Về nhà luyện nói về chương trình TV yêu thích.
+Về nhà luyện nói về chương trình TV yêu thích nha.
 </teacher_script>
 
 <teacher_script pause="0">
