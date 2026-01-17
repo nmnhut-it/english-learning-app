@@ -151,6 +151,76 @@
     /* Vocab Button */
     .vocab-btn{background:linear-gradient(135deg,#0ea5e9,#0284c7);color:#fff;border:none;padding:14px 28px;border-radius:50px;font-size:1rem;font-weight:600;cursor:pointer}
     .vocab-nav{display:flex;gap:10px;margin-top:16px;justify-content:center}
+
+    /* ============ MOBILE COMPACT STYLES ============ */
+    @media (max-width: 640px) {
+      /* Reduce chunk padding */
+      .chunk{padding:12px 0}
+      .chunk[data-status="active"]{padding:12px 8px;margin:0 -8px}
+
+      /* Compact cards */
+      .card{padding:10px;margin:8px 0}
+
+      /* Compact timer */
+      .timer{padding:12px;margin:8px 0;border-radius:12px}
+      .timer-label{font-size:.75rem;margin-bottom:2px}
+      .timer-time{font-size:2rem}
+      .timer-skip{padding:8px 16px;margin-top:8px}
+
+      /* Compact vocabulary section */
+      .vocab-interactive{padding:12px;margin:8px 0;border-radius:12px}
+      .vocab-progress{margin-bottom:10px}
+      .vocab-progress-dot{width:8px;height:8px}
+
+      /* Compact vocab start state */
+      .vocab-start-state{padding:16px;border-radius:12px}
+      .vocab-start-icon{font-size:2rem;margin-bottom:8px}
+      .vocab-start-title{font-size:1rem;margin-bottom:4px}
+      .vocab-start-count{font-size:.85rem;margin-bottom:12px}
+      .vocab-start-btn{padding:12px 24px;font-size:1rem}
+
+      /* Compact flashcard */
+      .flashcard{padding:20px 16px;min-height:220px;border-radius:16px}
+      .flashcard-word{font-size:1.6rem}
+      .flashcard-pron{font-size:1rem;margin-bottom:8px}
+      .flashcard-meaning{font-size:1.2rem}
+
+      /* Compact quiz */
+      .quiz-question{padding:14px;margin-bottom:10px;border-radius:12px}
+      .quiz-word{font-size:1.5rem}
+      .quiz-options{gap:8px}
+      .quiz-option{padding:10px 12px;border-radius:10px}
+
+      /* Compact writing phase */
+      .writing-timer{padding:14px;border-radius:12px}
+      .writing-timer-time{font-size:2rem}
+
+      /* Compact game */
+      .game-container{gap:8px}
+      .game-item{padding:10px;min-height:42px;border-radius:8px}
+
+      /* Compact complete box */
+      .complete-box{padding:20px;border-radius:16px;margin:12px 0}
+      .complete-icon{font-size:3rem;margin-bottom:8px}
+
+      /* Compact chunk nav */
+      .chunk-nav{margin-top:16px}
+      .nav-btn{padding:12px 24px;font-size:.95rem}
+
+      /* Compact tables */
+      table{font-size:.8rem}
+      th,td{padding:8px 10px}
+
+      /* Compact typography */
+      h2{margin:12px 0 6px}
+      h3{margin:8px 0 4px}
+    }
+
+    /* Hide clicked buttons (completed chunks) */
+    .chunk[data-status="completed"] .chunk-nav{display:none}
+
+    /* Hidden class for teacher-script-only chunks */
+    .chunk.ts-only-chunk{display:none}
   </style>
 </head>
 <body>
@@ -430,7 +500,11 @@ function renderChunks(chunks) {
 
   let html = '';
   chunks.forEach((chunk, i) => {
-    html += `<div class="chunk" id="chunk-${i}" data-testid="chunk-${i}" data-index="${i}" data-status="pending">`;
+    // Check if chunk only contains teacher scripts (no other visible content)
+    const isTsOnlyChunk = isTeacherScriptOnly(chunk.content);
+    const chunkClass = isTsOnlyChunk ? 'chunk ts-only-chunk' : 'chunk';
+
+    html += `<div class="${chunkClass}" id="chunk-${i}" data-testid="chunk-${i}" data-index="${i}" data-status="pending">`;
     if (chunk.title) html += `<div class="chunk-title" data-testid="chunk-title-${i}">${chunk.title}</div>`;
     html += renderContent(chunk.content, i);
     const btnText = i === 0 ? 'Bắt đầu' : 'Tiếp tục';
@@ -442,6 +516,20 @@ function renderChunks(chunks) {
   });
 
   content.innerHTML = html;
+}
+
+// Check if a chunk only contains teacher_script tags (no other meaningful content)
+function isTeacherScriptOnly(content) {
+  // Remove teacher_script tags
+  let stripped = content.replace(/<teacher_script[^>]*>[\s\S]*?<\/teacher_script>/gi, '');
+  // Remove markdown comments
+  stripped = stripped.replace(/<!--[\s\S]*?-->/g, '');
+  // Remove headings (they're just titles)
+  stripped = stripped.replace(/^#{1,3}\s+.+$/gm, '');
+  // Remove whitespace and line breaks
+  stripped = stripped.replace(/\s+/g, '').trim();
+  // If nothing meaningful remains, it's a TS-only chunk
+  return stripped.length === 0;
 }
 
 let tsCounter = 0;
@@ -653,8 +741,12 @@ function activateChunk(index) {
 
   const chunk = document.getElementById(`chunk-${index}`);
   if (chunk) {
-    chunk.scrollIntoView({ behavior: 'smooth', block: 'center' });
-    setTimeout(() => playNextTS(), 500);
+    // Only scroll to visible chunks
+    const isHidden = chunk.classList.contains('ts-only-chunk');
+    if (!isHidden) {
+      chunk.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    }
+    setTimeout(() => playNextTS(), isHidden ? 100 : 500);
   }
 
   updateProgress();
@@ -783,6 +875,7 @@ function findNextElement(current) {
 function unlockChunkNav() {
   state.setState('chunk_done');
 
+  const chunkEl = document.getElementById(`chunk-${state.currentChunk}`);
   const nav = document.querySelector(`#chunk-${state.currentChunk} .chunk-nav`);
   const btn = document.getElementById(`nav-${state.currentChunk}`);
 
@@ -790,6 +883,11 @@ function unlockChunkNav() {
   if (btn) btn.dataset.ready = 'true';
 
   eventBus.emit('chunk:complete', { index: state.currentChunk });
+
+  // Auto-advance for hidden (teacher-script-only) chunks
+  if (chunkEl && chunkEl.classList.contains('ts-only-chunk')) {
+    setTimeout(() => advanceToNextChunk(), 300);
+  }
 }
 
 function advanceToNextChunk() {
