@@ -18,16 +18,26 @@ Bài này ôn lại từ vựng và ngữ pháp đã học trong Unit 7.
 </teacher_script>
 
 <vocabulary>
+**Biển báo giao thông:**
 1. **red light** : đèn đỏ /red laɪt/
 2. **school ahead** : trường học phía trước /skuːl əˈhed/
 3. **hospital ahead** : bệnh viện phía trước /ˈhɒspɪtl əˈhed/
 4. **cycle lane** : làn đường xe đạp /ˈsaɪkl leɪn/
 5. **no left turn** : cấm rẽ trái /nəʊ left tɜːn/
 6. **no cycling** : cấm đạp xe /nəʊ ˈsaɪklɪŋ/
+
+**Người tham gia giao thông:**
 7. **road user** : người tham gia giao thông /rəʊd ˈjuːzə/
-8. **pedestrian** : người đi bộ /pəˈdestriən/
-9. **cyclist** : người đi xe đạp /ˈsaɪklɪst/
-10. **passenger** : hành khách /ˈpæsɪndʒə/
+8. **pedestrian** : (n) người đi bộ /pəˈdestriən/
+9. **cyclist** : (n) người đi xe đạp /ˈsaɪklɪst/
+10. **motorist** : (n) người đi xe máy /ˈməʊtərɪst/
+11. **passenger** : (n) hành khách /ˈpæsɪndʒə/
+12. **pilot** : (n) phi công /ˈpaɪlət/
+
+**Từ vựng khác:**
+13. **waste bin** : (n) thùng rác /weɪst bɪn/
+14. **lost** : (adj) bị lạc /lɒst/
+15. **traffic light** : (n) đèn giao thông /ˈtræfɪk laɪt/
 </vocabulary>
 
 <teacher_script pause="60">
@@ -157,25 +167,25 @@ Bài 2. Điền 1 từ vào chỗ trống để hoàn thành câu. 1 phút.
 </task>
 
 <questions type="fill_blanks">
-**1.** A road _______ is anyone who uses the road, such as pedestrians, cyclists, or motorcyclists.
+**1.** A road _______ is anyone who uses a road, such as a pedestrian, cyclist or motorist.
 
 *(Người tham gia giao thông là bất kỳ ai sử dụng đường, như người đi bộ, người đi xe đạp, hoặc người đi xe máy.)*
 
-**2.** Children can _______ a bike when they are five or six years old.
+**2.** Does your dad _______ his motorbike carefully?
 
-*(Trẻ em có thể _______ xe đạp khi chúng 5 hoặc 6 tuổi.)*
+*(Bố bạn có _______ xe máy cẩn thận không?)*
 
-**3.** A _______ is a person who travels in a vehicle but is not the driver.
+**3.** A _______ is a person travelling in a car, bus, train,... but not driving.
 
-*(_______ là người đi trên xe nhưng không phải tài xế.)*
+*(_______ là người đi trên xe ô tô, xe buýt, tàu hỏa,... nhưng không lái xe.)*
 
-**4.** An airplane can _______ very high and fast.
+**4.** My cousin wants to become a pilot. He is learning to _______ planes.
 
-*(Máy bay có thể _______ rất cao và nhanh.)*
+*(Anh họ tôi muốn trở thành phi công. Anh ấy đang học _______ máy bay.)*
 
-**5.** _______ jams are one of the biggest problems in big cities.
+**5.** We should be careful when the _______ light turns yellow.
 
-*(Tắc _______ là một trong những vấn đề lớn nhất ở các thành phố lớn.)*
+*(Chúng ta nên cẩn thận khi đèn _______ chuyển sang màu vàng.)*
 </questions>
 
 ---
@@ -191,7 +201,7 @@ Ok đáp án.
 2. ride
 3. passenger
 4. fly
-5. Traffic
+5. traffic
 </answer>
 
 <teacher_script pause="0">
@@ -199,7 +209,7 @@ Câu 1: user. Road user = người tham gia giao thông.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 2: ride. Ride a bike = đi xe đạp.
+Câu 2: ride. Ride a motorbike = đi xe máy.
 </teacher_script>
 
 <teacher_script pause="0">
@@ -207,11 +217,11 @@ Câu 3: passenger. Passenger = hành khách, người đi xe nhưng không lái.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 4: fly. Máy bay bay cao và nhanh.
+Câu 4: fly. Learn to fly planes = học lái máy bay. Phi công phải học lái máy bay.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 5: Traffic. Traffic jams = tắc đường.
+Câu 5: traffic. Traffic light = đèn giao thông.
 </teacher_script>
 
 <explanation>
@@ -220,10 +230,10 @@ Câu 5: Traffic. Traffic jams = tắc đường.
 | Câu | Đáp án | Giải thích |
 |-----|--------|------------|
 | 1 | user | road user = người tham gia giao thông |
-| 2 | ride | ride a bike = đi/đạp xe đạp |
+| 2 | ride | ride a motorbike = đi xe máy |
 | 3 | passenger | passenger ≠ driver (không phải tài xế) |
-| 4 | fly | fly = bay (dùng cho máy bay, chim) |
-| 5 | Traffic | traffic jams = tắc đường, kẹt xe |
+| 4 | fly | fly planes = lái máy bay (phi công) |
+| 5 | traffic | traffic light = đèn giao thông |
 </explanation>
 
 <teacher_script pause="30">
@@ -343,29 +353,47 @@ Bài 4. Chọn từ đúng để hoàn thành câu. 1 phút.
 </grammar>
 
 <questions type="multiple_choice">
-**1.** You _______ wear a helmet when you ride a motorbike. (should / shouldn't)
+**1.** You _______ put the rubbish in the waste bins over there.
+- A. should
+- B. would
+- C. shouldn't
 
-*Bạn _______ đội mũ bảo hiểm khi đi xe máy.*
+*Bạn _______ bỏ rác vào thùng rác đằng kia.*
 
-**2.** You _______ fasten your seatbelt when you're in a car. (must / mustn't)
+**2.** You _______ be over eighteen to ride a motorbike.
+- A. would
+- B. must
+- C. could
 
-*Bạn _______ thắt dây an toàn khi ngồi trên ô tô.*
+*Bạn _______ hơn 18 tuổi mới được đi xe máy.*
 
-**3.** Students _______ run across the road. (should / shouldn't)
+**3.** Children _______ ride their bikes too fast.
+- A. mightn't
+- B. wouldn't
+- C. shouldn't
 
-*Học sinh _______ chạy băng qua đường.*
+*Trẻ em _______ đạp xe quá nhanh.*
 
-**4.** "_______ you show me the way to the nearest petrol station?" (Can / Could)
+**4.** I am a bit lost. _______ you help me, please?
+- A. Could
+- B. Should
+- C. Might
 
-*"Bạn _______ chỉ tôi đường đến trạm xăng gần nhất được không?"*
+*Tôi bị lạc đường. Bạn _______ giúp tôi được không?*
 
-**5.** We _______ drive fast in the school zone. (should / shouldn't)
+**5.** You _______ eat so many cookies. Too much sugar is bad for you.
+- A. couldn't
+- B. wouldn't
+- C. shouldn't
 
-*Chúng ta _______ lái nhanh trong khu vực trường học.*
+*Bạn _______ ăn quá nhiều bánh quy. Quá nhiều đường không tốt cho bạn.*
 
-**6.** _______ I use the bus map? (Can / Should)
+**6.** This is a big park. You _______ run or cycle here.
+- A. should
+- B. can
+- C. could
 
-*Tôi _______ dùng bản đồ xe buýt được không?*
+*Đây là công viên lớn. Bạn _______ chạy hoặc đạp xe ở đây.*
 </questions>
 
 ---
@@ -377,36 +405,36 @@ Ok đáp án.
 
 <answer>
 **Đáp án:**
-1. should
-2. must
-3. shouldn't
-4. Could
-5. shouldn't
-6. Can
+1. A (should)
+2. B (must)
+3. C (shouldn't)
+4. A (Could)
+5. C (shouldn't)
+6. B (can)
 </answer>
 
 <teacher_script pause="0">
-Câu 1: should. Đội mũ bảo hiểm là điều nên làm.
+Câu 1: A - should. Bỏ rác vào thùng là điều nên làm.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 2: must. Thắt dây an toàn là bắt buộc theo luật.
+Câu 2: B - must. Phải trên 18 tuổi mới được đi xe máy - đây là luật bắt buộc.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 3: shouldn't. Chạy băng qua đường nguy hiểm, không nên làm.
+Câu 3: C - shouldn't. Trẻ em không nên đạp xe quá nhanh vì nguy hiểm.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 4: Could. Dùng Could để hỏi lịch sự: "Bạn có thể chỉ đường..."
+Câu 4: A - Could. Dùng Could để hỏi xin giúp đỡ một cách lịch sự.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 5: shouldn't. Lái nhanh trong khu vực trường học nguy hiểm.
+Câu 5: C - shouldn't. Không nên ăn quá nhiều bánh quy vì đường không tốt cho sức khỏe.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 6: Can. Hỏi xin phép: "Tôi có thể dùng bản đồ không?"
+Câu 6: B - can. Công viên lớn, có thể chạy hoặc đạp xe ở đây - nói về khả năng được phép.
 </teacher_script>
 
 <explanation>
@@ -414,12 +442,12 @@ Câu 6: Can. Hỏi xin phép: "Tôi có thể dùng bản đồ không?"
 
 | Câu | Đáp án | Lý do |
 |-----|--------|-------|
-| 1 | should | Đội mũ bảo hiểm = điều tốt → nên |
-| 2 | must | Luật bắt buộc thắt dây an toàn → phải |
-| 3 | shouldn't | Chạy băng qua đường = nguy hiểm → không nên |
-| 4 | Could | Hỏi đường lịch sự → Could |
-| 5 | shouldn't | Lái nhanh trong school zone = nguy hiểm → không nên |
-| 6 | Can | Hỏi xin phép dùng → Can |
+| 1 | A (should) | Bỏ rác vào thùng = điều tốt → nên |
+| 2 | B (must) | Luật bắt buộc phải trên 18 tuổi → phải |
+| 3 | C (shouldn't) | Đạp xe nhanh = nguy hiểm → không nên |
+| 4 | A (Could) | Hỏi giúp đỡ lịch sự → Could |
+| 5 | C (shouldn't) | Ăn nhiều đường = không tốt cho sức khỏe → không nên |
+| 6 | B (can) | Được phép chạy/đạp xe trong công viên → can |
 </explanation>
 
 <teacher_script pause="30">
