@@ -104,47 +104,66 @@
     strong{color:#0284c7}
     em{color:var(--muted);font-style:normal}
 
-    /* Teacher Script - Visible with states */
-    .ts{
-      background:linear-gradient(135deg,#f8fafc,#f1f5f9);
-      border-left:4px solid #0ea5e9;
-      border-radius:0 12px 12px 0;
-      padding:12px 14px;
-      margin:10px 0;
-      transition:all .3s ease;
-      position:relative;
+    /* Teacher Script Container - Groups all scripts at chunk top */
+    .ts-group{
+      background:#f8fafc;
+      border-radius:10px;
+      padding:8px;
+      margin-bottom:12px;
+      border:1px solid #e2e8f0;
     }
-    .ts-intro{
-      font-size:.75rem;
-      color:#0369a1;
-      font-weight:600;
-      margin-bottom:4px;
+    .ts-group-header{
+      font-size:.65rem;
+      color:#64748b;
+      text-transform:uppercase;
+      letter-spacing:.5px;
+      margin-bottom:6px;
+      padding-left:4px;
       display:flex;
       align-items:center;
-      gap:6px;
+      gap:4px;
     }
-    .ts-intro::before{content:'👨‍🏫'}
+    .ts-group-header::before{content:'👨‍🏫'}
+
+    /* Teacher Script - Compact single line style */
+    .ts{
+      background:linear-gradient(135deg,#f0f9ff,#e8f4fc);
+      border-left:3px solid #0ea5e9;
+      border-radius:0 6px 6px 0;
+      padding:6px 10px;
+      margin:4px 0;
+      transition:all .2s ease;
+      position:relative;
+    }
+    .ts-intro{display:none}
     .ts-content{
-      color:#334155;
-      font-size:.9rem;
-      line-height:1.5;
+      color:#475569;
+      font-size:.8rem;
+      line-height:1.4;
+      white-space:nowrap;
+      overflow:hidden;
+      text-overflow:ellipsis;
+    }
+    /* Expand on hover/focus */
+    .ts:hover .ts-content,
+    .ts:focus .ts-content,
+    .ts[data-status="speaking"] .ts-content{
+      white-space:normal;
+      overflow:visible;
     }
     /* Active/Speaking state */
     .ts[data-status="speaking"]{
       background:linear-gradient(135deg,#dbeafe,#bfdbfe);
       border-left-color:#2563eb;
-      box-shadow:0 4px 12px rgba(37,99,235,.2);
-      transform:scale(1.01);
+      box-shadow:0 2px 8px rgba(37,99,235,.15);
     }
-    .ts[data-status="speaking"] .ts-intro{color:#1d4ed8}
     .ts[data-status="speaking"] .ts-content{color:#1e40af;font-weight:500}
     /* Completed/Played state */
     .ts[data-status="played"]{
-      opacity:.5;
+      opacity:.4;
       background:#f8fafc;
-      border-left-color:#94a3b8;
+      border-left-color:#cbd5e1;
     }
-    .ts[data-status="played"] .ts-intro{color:#64748b}
     .ts[data-status="played"] .ts-content{color:#94a3b8}
 
     /* Timer - Compact floating version */
@@ -275,9 +294,10 @@
       .timer-skip{padding:8px 16px;margin-top:8px}
 
       /* Compact teacher script */
-      .ts{padding:10px 12px;margin:8px 0}
-      .ts-intro{font-size:.7rem}
-      .ts-content{font-size:.85rem}
+      .ts-group{padding:6px;margin-bottom:10px}
+      .ts-group-header{font-size:.6rem;margin-bottom:4px}
+      .ts{padding:5px 8px;margin:3px 0}
+      .ts-content{font-size:.75rem}
 
       /* Compact vocabulary section */
       .vocab-interactive{padding:12px;margin:8px 0;border-radius:12px}
@@ -630,36 +650,6 @@ function delay(ms) {
   return new Promise(r => setTimeout(r, ms));
 }
 
-// ============ TEACHER SCRIPT INTRO PHRASES ============
-const TS_INTRO_PHRASES = [
-  'Thầy có điều cần nói nè...',
-  'Các em nghe nha...',
-  'Thầy dặn dò nè...',
-  'Chú ý nghe nha...',
-  'Thầy hướng dẫn nè...',
-  'Nghe thầy nói nha...',
-  'Thầy giải thích nè...',
-  'Các em lưu ý nha...',
-  'Thầy nhắc nhở nè...',
-  'Nghe kỹ nha các em...',
-  'Thầy có lời dặn...',
-  'Các em chú ý nè...',
-  'Thầy nói điều này...',
-  'Lắng nghe nha...',
-  'Thầy muốn nói...',
-  'Ghi nhớ nha các em...',
-  'Thầy chia sẻ nè...',
-  'Các em ơi, nghe nè...',
-  'Thầy có tips nè...',
-  'Chú ý điều này nha...',
-];
-
-function getRandomIntro(seed = 0) {
-  // Use seed to get consistent but varied intros
-  const index = seed % TS_INTRO_PHRASES.length;
-  return TS_INTRO_PHRASES[index];
-}
-
 // ============ PARSER ============
 function parseLesson(md) {
   const titleMatch = md.match(/^#\s+(.+)$/m);
@@ -729,49 +719,56 @@ let vocabCounter = 0;
 function renderContent(md, chunkIndex) {
   let h = md;
 
+  // ===== STEP 1: Extract all teacher scripts first =====
+  const teacherScripts = [];
+  const tsRegex = /<teacher_script([^>]*)>([\s\S]*?)<\/teacher_script>/gi;
+  let tsMatch;
+  while ((tsMatch = tsRegex.exec(md)) !== null) {
+    const attrs = tsMatch[1];
+    const text = tsMatch[2];
+    const pause = (attrs.match(/pause="(\d+)"/) || [])[1] || '0';
+    const href = (attrs.match(/href="([^"]+)"/) || [])[1] || '';
+    const action = (attrs.match(/action="(\w+)"/) || [])[1] || '';
+    const id = `ts-${tsCounter++}`;
+    const displayText = text.trim().replace(/<\/?(?:eng|vn)>/gi, '').replace(/"/g, '&quot;');
+
+    teacherScripts.push({ id, displayText, pause, href, action });
+  }
+
+  // Remove teacher scripts from content (they'll be rendered at top)
+  h = h.replace(/<teacher_script([^>]*)>([\s\S]*?)<\/teacher_script>/gi, '');
+
+  // ===== STEP 2: Build grouped teacher scripts at top =====
+  let tsGroupHtml = '';
+  if (teacherScripts.length > 0) {
+    const tsItems = teacherScripts.map(ts => {
+      // Truncate long text for compact display
+      const shortText = ts.displayText.length > 60
+        ? ts.displayText.substring(0, 57) + '...'
+        : ts.displayText;
+
+      return `<div class="ts" id="${ts.id}" data-testid="ts-${ts.id}" data-text="${ts.displayText}" data-pause="${ts.pause}" data-href="${ts.href}" data-action="${ts.action}" data-status="pending">
+        <div class="ts-content" title="${ts.displayText}">${shortText}</div>
+      </div>`;
+    }).join('');
+
+    tsGroupHtml = `<div class="ts-group" data-testid="ts-group-${chunkIndex}">
+      <div class="ts-group-header">Hướng dẫn của thầy</div>
+      ${tsItems}
+    </div>`;
+  }
+
+  // ===== STEP 3: Render other content =====
   // Vocabulary
   h = h.replace(/<vocabulary>([\s\S]*?)<\/vocabulary>/gi, (_, content) => {
     const vocabId = `vocab-${vocabCounter++}`;
     const words = parseVocabulary(content);
     if (words.length === 0) return '';
 
-    // Store words for later
     window.__vocabData = window.__vocabData || {};
     window.__vocabData[vocabId] = { words, phase: 'flashcard', currentWord: 0 };
 
     return buildVocabHTML(vocabId, words);
-  });
-
-  // Teacher Script - Now visible with intro phrases
-  h = h.replace(/<teacher_script([^>]*)>([\s\S]*?)<\/teacher_script>/gi, (_, attrs, text) => {
-    const pause = (attrs.match(/pause="(\d+)"/) || [])[1] || '0';
-    const href = (attrs.match(/href="([^"]+)"/) || [])[1] || '';
-    const action = (attrs.match(/action="(\w+)"/) || [])[1] || '';
-    const id = `ts-${tsCounter}`;
-    const introPhrase = getRandomIntro(tsCounter);
-    tsCounter++;
-
-    // Strip <eng> and <vn> inline language tags for display
-    const displayText = text.trim().replace(/<\/?(?:eng|vn)>/gi, '').replace(/"/g, '&quot;');
-
-    let actionHtml = '';
-    if (action === 'record') {
-      actionHtml = `<div class="action-row" data-testid="action-record-${id}"><button class="action-btn">🎤 Ghi âm</button></div>`;
-    }
-
-    const timerHtml = parseInt(pause) > 0 ? `
-      <div class="timer" id="${id}-timer" data-testid="timer-${id}" data-active="false">
-        <div class="timer-label">Thời gian làm bài</div>
-        <div class="timer-time" data-testid="timer-time-${id}">${timerService.formatTime(parseInt(pause))}</div>
-        <button class="timer-skip" data-testid="timer-skip-${id}" onclick="window.__voiceLecture.skipTimer('${id}')">Xong rồi →</button>
-      </div>
-    ` : '';
-
-    // Now render visible teacher script with intro and content
-    return `<div class="ts" id="${id}" data-testid="ts-${id}" data-text="${displayText}" data-pause="${pause}" data-href="${href}" data-action="${action}" data-status="pending">
-      <div class="ts-intro">${introPhrase}</div>
-      <div class="ts-content">${displayText}</div>
-    </div>${timerHtml}${actionHtml}`;
   });
 
   // Other tags
@@ -784,7 +781,24 @@ function renderContent(md, chunkIndex) {
   h = h.replace(/<questions[^>]*>([\s\S]*?)<\/questions>/gi, (_, c) => `<div class="card" data-testid="questions">${renderMD(c)}</div>`);
   h = h.replace(/<explanation>([\s\S]*?)<\/explanation>/gi, (_, c) => `<div class="card" data-testid="explanation">${renderMD(c)}</div>`);
 
-  return renderMD(h);
+  // Render timers after content (they appear when teacher script with pause is played)
+  let timersHtml = '';
+  teacherScripts.forEach(ts => {
+    if (parseInt(ts.pause) > 0) {
+      timersHtml += `
+        <div class="timer" id="${ts.id}-timer" data-testid="timer-${ts.id}" data-active="false">
+          <div class="timer-label">Thời gian làm bài</div>
+          <div class="timer-time" data-testid="timer-time-${ts.id}">${timerService.formatTime(parseInt(ts.pause))}</div>
+          <button class="timer-skip" data-testid="timer-skip-${ts.id}" onclick="window.__voiceLecture.skipTimer('${ts.id}')">Xong rồi →</button>
+        </div>`;
+    }
+    if (ts.action === 'record') {
+      timersHtml += `<div class="action-row" data-testid="action-record-${ts.id}"><button class="action-btn">🎤 Ghi âm</button></div>`;
+    }
+  });
+
+  // Return: ts-group at top, then content, then timers at bottom
+  return tsGroupHtml + renderMD(h) + timersHtml;
 }
 
 function renderMD(md) {
@@ -986,7 +1000,15 @@ function playNextTS() {
   if (nextTS) {
     playTS(nextTS);
   } else {
-    unlockChunkNav();
+    // No more teacher scripts - check for vocab that needs to start
+    const pendingVocab = chunkEl.querySelector('.vocab-interactive[data-status="active"]');
+    if (pendingVocab) {
+      state.setState('vocab');
+      eventBus.emit('vocab:ready', { id: pendingVocab.id });
+      // Wait for user to click start
+    } else {
+      unlockChunkNav();
+    }
   }
 }
 
@@ -1040,67 +1062,13 @@ function afterSpeaking(tsEl) {
   hideNPC();
   state.setState('idle'); // Reset state so next TS can play
 
-  const next = findNextElement(tsEl);
-
-  if (next.type === 'ts') {
-    setTimeout(() => playTS(next.element), 200);
-  } else if (next.type === 'vocab') {
-    state.setState('vocab');
-    eventBus.emit('vocab:ready', { id: next.element.id });
-    // Wait for user to click start
-  } else if (next.type === 'content') {
-    // In slide mode, content is already visible, just continue
-    setTimeout(() => continueAfterContent(next.element), 500);
-  } else {
-    unlockChunkNav();
-  }
+  // Since all TS are grouped at top, just play next pending TS
+  // When all TS done, playNextTS will unlock navigation
+  setTimeout(() => playNextTS(), 200);
 }
 
 function afterTimer() {
   playNextTS();
-}
-
-function continueAfterContent(el) {
-  const next = findNextElement(el);
-
-  if (next.type === 'content') {
-    // In slide mode, just continue to next content
-    setTimeout(() => continueAfterContent(next.element), 300);
-  } else if (next.type === 'ts') {
-    setTimeout(() => playTS(next.element), 300);
-  } else if (next.type === 'vocab') {
-    state.setState('vocab');
-    eventBus.emit('vocab:ready', { id: next.element.id });
-  } else {
-    unlockChunkNav();
-  }
-}
-
-function findNextElement(current) {
-  let next = current.nextElementSibling;
-
-  const skip = (el) => {
-    if (!el) return false;
-    if (el.classList.contains('timer')) return true;
-    if (el.classList.contains('action-row')) return true;
-    if (el.classList.contains('chunk-nav')) return true; // Skip old chunk-nav
-    if (el.classList.contains('vocab-interactive') && el.dataset.status === 'complete') return true;
-    if (el.tagName === 'HR') return true;
-    if (el.tagName === 'BR') return true;
-    return false;
-  };
-
-  while (next && skip(next)) {
-    next = next.nextElementSibling;
-  }
-
-  if (!next) return { element: null, type: 'none' };
-
-  let type = 'content';
-  if (next.classList.contains('ts')) type = 'ts';
-  else if (next.classList.contains('vocab-interactive')) type = 'vocab';
-
-  return { element: next, type };
 }
 
 function unlockChunkNav() {
