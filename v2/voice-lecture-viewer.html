@@ -166,6 +166,18 @@
     .flashcard-speaking{animation:cardPulse 1s ease infinite}
     @keyframes cardPulse{0%,100%{box-shadow:0 8px 32px rgba(0,0,0,.1)}50%{box-shadow:0 8px 40px rgba(14,165,233,.3)}}
 
+    /* Flashcard Start State - Compact */
+    .vocab-start-state{background:#fff;border-radius:16px;padding:24px;text-align:center;box-shadow:0 4px 16px rgba(0,0,0,.08);border:2px dashed #7dd3fc}
+    .vocab-start-icon{font-size:3rem;margin-bottom:12px}
+    .vocab-start-title{font-size:1.1rem;font-weight:600;color:#0369a1;margin-bottom:8px}
+    .vocab-start-count{font-size:.9rem;color:#64748b;margin-bottom:16px}
+    .vocab-start-btn{background:linear-gradient(135deg,#0ea5e9,#0284c7);color:#fff;border:none;padding:16px 32px;border-radius:50px;font-size:1.1rem;font-weight:600;cursor:pointer;transition:all .2s;box-shadow:0 4px 16px rgba(14,165,233,.4);animation:startPulse 2s ease infinite}
+    .vocab-start-btn:hover{transform:scale(1.05);box-shadow:0 6px 20px rgba(14,165,233,.5)}
+    @keyframes startPulse{0%,100%{box-shadow:0 4px 16px rgba(14,165,233,.4)}50%{box-shadow:0 4px 24px rgba(14,165,233,.6)}}
+    .vocab-learning-state{display:none}
+    .vocab-phase.learning .vocab-start-state{display:none}
+    .vocab-phase.learning .vocab-learning-state{display:block}
+
     /* Quiz */
     .quiz-question{background:#fff;border-radius:16px;padding:20px;margin-bottom:16px;text-align:center}
     .quiz-prompt{font-size:1rem;color:#64748b;margin-bottom:8px}
@@ -1056,26 +1068,34 @@ function buildVocabInteractive(id,words){
 
   <!-- Phase 1: Flash Cards -->
   <div class="vocab-phase active" id="${id}-phase-flashcard">
-    <div class="phase-header">
-      <span class="phase-icon">🎴</span>
-      <span class="phase-title">Học từ vựng</span>
-      <span class="phase-count">Từ <span id="${id}-fc-num">1</span>/${words.length}</span>
+    <!-- Start State - Compact -->
+    <div class="vocab-start-state" id="${id}-start-state">
+      <div class="vocab-start-icon">📚</div>
+      <div class="vocab-start-title">Từ vựng Unit này</div>
+      <div class="vocab-start-count">${words.length} từ cần học</div>
+      <button class="vocab-start-btn" onclick="startFlashcard('${id}')">Bấm vô để học từ vựng</button>
     </div>
-    <div class="flashcard" id="${id}-flashcard">
-      <div class="flashcard-front">
-        <div class="flashcard-word" id="${id}-fc-word">${words[0].word}</div>
-        <div class="flashcard-pron" id="${id}-fc-pron">${words[0].pron?'/'+words[0].pron+'/':''}</div>
-        ${words[0].type?`<div class="flashcard-type" id="${id}-fc-type">${words[0].type}</div>`:'<div class="flashcard-type" id="${id}-fc-type" style="display:none"></div>'}
-        <div class="flashcard-repeat">Lần đọc: <span id="${id}-rep-1">1</span><span id="${id}-rep-2">2</span><span id="${id}-rep-3">3</span></div>
+
+    <!-- Learning State - Full flashcard (hidden initially) -->
+    <div class="vocab-learning-state" id="${id}-learning-state">
+      <div class="phase-header">
+        <span class="phase-icon">🎴</span>
+        <span class="phase-title">Học từ vựng</span>
+        <span class="phase-count">Từ <span id="${id}-fc-num">1</span>/${words.length}</span>
       </div>
-      <div class="flashcard-back">
-        <div class="flashcard-word" id="${id}-fc-word-back">${words[0].word}</div>
-        <div class="flashcard-meaning" id="${id}-fc-meaning">${words[0].meaning}</div>
-        <div class="flashcard-repeat">Lần đọc: <span id="${id}-rep-vi-1">1</span><span id="${id}-rep-vi-2">2</span><span id="${id}-rep-vi-3">3</span></div>
+      <div class="flashcard" id="${id}-flashcard">
+        <div class="flashcard-front">
+          <div class="flashcard-word" id="${id}-fc-word">${words[0].word}</div>
+          <div class="flashcard-pron" id="${id}-fc-pron">${words[0].pron?'/'+words[0].pron+'/':''}</div>
+          ${words[0].type?`<div class="flashcard-type" id="${id}-fc-type">${words[0].type}</div>`:'<div class="flashcard-type" id="${id}-fc-type" style="display:none"></div>'}
+          <div class="flashcard-repeat">Lần đọc: <span id="${id}-rep-1">1</span><span id="${id}-rep-2">2</span><span id="${id}-rep-3">3</span></div>
+        </div>
+        <div class="flashcard-back">
+          <div class="flashcard-word" id="${id}-fc-word-back">${words[0].word}</div>
+          <div class="flashcard-meaning" id="${id}-fc-meaning">${words[0].meaning}</div>
+          <div class="flashcard-repeat">Lần đọc: <span id="${id}-rep-vi-1">1</span><span id="${id}-rep-vi-2">2</span><span id="${id}-rep-vi-3">3</span></div>
+        </div>
       </div>
-    </div>
-    <div class="vocab-nav">
-      <button class="vocab-btn" id="${id}-fc-start" onclick="startFlashcard('${id}')">Bắt đầu học</button>
     </div>
   </div>
 
@@ -1156,8 +1176,11 @@ function startFlashcard(id){
   const vocabEl=document.getElementById(id);
   if(vocabEl)vocabEl.classList.add('vocab-in-progress');
 
-  const startBtn=document.getElementById(`${id}-fc-start`);
-  if(startBtn)startBtn.style.display='none';
+  // Hide start state, show learning state
+  const startState=document.getElementById(`${id}-start-state`);
+  const learningState=document.getElementById(`${id}-learning-state`);
+  if(startState)startState.style.display='none';
+  if(learningState)learningState.style.display='block';
 
   playFlashcardWord(id);
 }

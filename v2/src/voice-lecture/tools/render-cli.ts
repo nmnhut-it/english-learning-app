@@ -16,6 +16,7 @@ import {
   renderTables,
   extractVocabularySections,
   extractTeacherScripts,
+  parseTeacherScript,
   hasTag,
   getTagContent,
   validateLesson,
@@ -69,7 +70,7 @@ interface RenderResult {
   fullHtml: string;
 }
 
-function renderCustomTag(tag: string, content: string): string {
+function renderCustomTag(tag: string, content: string, attrs: string = ''): string {
   const tagClass = tag.replace(/_/g, '-');
 
   switch (tag) {
@@ -80,10 +81,20 @@ function renderCustomTag(tag: string, content: string): string {
       </div>`;
 
     case 'teacher_script':
-      // Extract attributes from the original tag
-      return `<div class="teacher-script" data-testid="teacher-script">
+      // Parse teacher script to get stripped text (without <eng>/<vn> tags)
+      const ts = parseTeacherScript(content, attrs);
+      // Encode segments as JSON for data attribute
+      const segmentsJson = JSON.stringify(ts.segments).replace(/"/g, '&quot;');
+      return `<div class="teacher-script" data-testid="teacher-script"
+        id="${ts.id}"
+        data-text="${ts.text.replace(/"/g, '&quot;')}"
+        data-segments="${segmentsJson}"
+        data-pause="${ts.pause}"
+        data-lang="${ts.lang}"
+        ${ts.action ? `data-action="${ts.action}"` : ''}
+        ${ts.href ? `data-href="${ts.href}"` : ''}>
         <span class="icon">🎤</span>
-        <p>${content.trim()}</p>
+        <p>${ts.text}</p>
       </div>`;
 
     case 'dialogue':
@@ -162,9 +173,9 @@ function renderFullContent(markdown: string): string {
 
   // Process custom tags
   for (const tag of CUSTOM_TAGS) {
-    const regex = new RegExp(`<${tag}[^>]*>([\\s\\S]*?)<\\/${tag}>`, 'g');
-    html = html.replace(regex, (match, content) => {
-      return renderCustomTag(tag, content);
+    const regex = new RegExp(`<${tag}([^>]*)>([\\s\\S]*?)<\\/${tag}>`, 'g');
+    html = html.replace(regex, (match, attrs, content) => {
+      return renderCustomTag(tag, content, attrs);
     });
   }
 

@@ -6,6 +6,7 @@
  */
 
 import { EventBus, LectureEvents } from '../utils/EventBus';
+import { TextSegment } from '../parser/Parser';
 
 export interface AudioServiceConfig {
   ttsRate?: number;
@@ -16,6 +17,7 @@ export interface AudioServiceConfig {
 
 export interface AudioServiceInterface {
   speakTTS(text: string, lang?: string): Promise<void>;
+  speakSegments(segments: TextSegment[]): Promise<void>;
   playBeep(freq?: number, duration?: number, type?: OscillatorType): Promise<void>;
   playRepeatSignal(): Promise<void>;
   playAudioFile(url: string): Promise<void>;
@@ -88,6 +90,60 @@ export class AudioService implements AudioServiceInterface {
       utterance.onerror = () => {
         this.currentUtterance = null;
         this.eventBus?.emit(LectureEvents.TTS_END, { text, lang, error: true });
+        resolve();
+      };
+
+      speechSynthesis.speak(utterance);
+    });
+  }
+
+  /**
+   * Speak multiple segments with different languages
+   * Each segment is spoken with the appropriate TTS voice
+   */
+  async speakSegments(segments: TextSegment[]): Promise<void> {
+    this.eventBus?.emit(LectureEvents.TTS_SPEAK, { segments });
+
+    // In test mode, resolve immediately
+    if (this.config.testMode) {
+      await this.delay(10);
+      this.eventBus?.emit(LectureEvents.TTS_END, { segments });
+      return;
+    }
+
+    // Speak each segment sequentially with appropriate language
+    for (const segment of segments) {
+      const lang = segment.lang === 'en' ? 'en-US' : 'vi-VN';
+      await this.speakTTSInternal(segment.text, lang);
+    }
+
+    this.eventBus?.emit(LectureEvents.TTS_END, { segments });
+  }
+
+  /**
+   * Internal TTS speak without emitting events (for use by speakSegments)
+   */
+  private async speakTTSInternal(text: string, lang: string): Promise<void> {
+    if (!('speechSynthesis' in window)) {
+      return;
+    }
+
+    return new Promise((resolve) => {
+      speechSynthesis.cancel();
+
+      const utterance = new SpeechSynthesisUtterance(text);
+      utterance.lang = lang;
+      utterance.rate = lang === 'vi-VN' ? this.config.ttsVietnameseRate! : this.config.ttsRate!;
+
+      this.currentUtterance = utterance;
+
+      utterance.onend = () => {
+        this.currentUtterance = null;
+        resolve();
+      };
+
+      utterance.onerror = () => {
+        this.currentUtterance = null;
         resolve();
       };
 
@@ -208,6 +264,12 @@ export class MockAudioService implements AudioServiceInterface {
     this.calls.push({ method: 'speakTTS', args: [text, lang] });
     this.eventBus?.emit(LectureEvents.TTS_SPEAK, { text, lang });
     this.eventBus?.emit(LectureEvents.TTS_END, { text, lang });
+  }
+
+  async speakSegments(segments: TextSegment[]): Promise<void> {
+    this.calls.push({ method: 'speakSegments', args: [segments] });
+    this.eventBus?.emit(LectureEvents.TTS_SPEAK, { segments });
+    this.eventBus?.emit(LectureEvents.TTS_END, { segments });
   }
 
   async playBeep(freq?: number, duration?: number, type?: OscillatorType): Promise<void> {
