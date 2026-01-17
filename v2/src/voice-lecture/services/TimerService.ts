@@ -168,7 +168,8 @@ export class TimerService implements TimerServiceInterface {
    */
   isRunning(id: string): boolean {
     const timer = this.timers.get(id);
-    return timer?.interval !== null && !timer?.isPaused;
+    if (!timer) return false;
+    return timer.interval !== null && !timer.isPaused;
   }
 
   /**
