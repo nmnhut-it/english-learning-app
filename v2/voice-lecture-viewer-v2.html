@@ -408,15 +408,29 @@ const CONFIG = {
   timeScale: parseFloat(params.get('speed')) || 1,
   instantTimers: params.get('speed') === 'instant',
   contentUrl: null,
+  contentBasePath: null, // Base path for resolving relative audio URLs
 };
 
-// Decode content URL
+// Decode content URL and extract base path for audio resolution
 const c = params.get('c');
 if (c) {
   try {
     CONFIG.contentUrl = decodeURIComponent(atob(c));
   } catch {
     CONFIG.contentUrl = decodeURIComponent(c);
+  }
+  // Extract base path for relative audio URLs
+  // Audio files are in /v2/audio/ relative to site root
+  // Content URL format: data/voice-lectures/... or v2/data/voice-lectures/...
+  const contentUrl = CONFIG.contentUrl;
+  if (contentUrl.includes('/data/voice-lectures/')) {
+    // Find the base that contains the audio folder (parent of data folder)
+    const dataIndex = contentUrl.indexOf('/data/voice-lectures/');
+    CONFIG.audioBasePath = contentUrl.substring(0, dataIndex + 1) + 'audio/';
+  } else {
+    // Fallback: extract directory from content URL
+    const lastSlash = contentUrl.lastIndexOf('/');
+    CONFIG.audioBasePath = lastSlash >= 0 ? contentUrl.substring(0, lastSlash + 1) : '';
   }
 }
 
@@ -636,6 +650,17 @@ const audioService = {
     await this.playBeep(880, 100);
     await delay(80);
     await this.playBeep(1100, 100);
+  },
+
+  async playAudioFile(url) {
+    if (CONFIG.testMode && CONFIG.instantTimers) return delay(10);
+
+    return new Promise((resolve, reject) => {
+      const audio = new Audio(url);
+      audio.onended = resolve;
+      audio.onerror = () => reject(new Error('Audio playback failed'));
+      audio.play().catch(reject);
+    });
   },
 
   stop() {
@@ -1055,7 +1080,30 @@ function playTS(el) {
     }
   };
 
-  audioService.speakTTS(text, 'vi-VN').then(onEnd);
+  const href = el.dataset.href;
+  if (href) {
+    // Resolve audio URL based on href format
+    let audioUrl;
+    if (href.startsWith('http') || href.startsWith('/')) {
+      // Absolute URL - use as-is
+      audioUrl = href;
+    } else if (href.startsWith('audio/')) {
+      // Relative "audio/xxx.mp3" format - use audioBasePath
+      const filename = href.substring(6); // Remove "audio/" prefix
+      audioUrl = (CONFIG.audioBasePath || 'audio/') + filename;
+    } else {
+      // Other relative path - try audioBasePath + href
+      audioUrl = (CONFIG.audioBasePath || '') + href;
+    }
+
+    // Play mp3 file, fallback to TTS on error
+    audioService.playAudioFile(audioUrl).then(onEnd).catch((err) => {
+      console.warn('Audio playback failed, falling back to TTS:', err);
+      audioService.speakTTS(text, 'vi-VN').then(onEnd);
+    });
+  } else {
+    audioService.speakTTS(text, 'vi-VN').then(onEnd);
+  }
 }
 
 function afterSpeaking(tsEl) {
