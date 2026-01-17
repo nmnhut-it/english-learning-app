@@ -323,6 +323,15 @@ const timerService = {
 // Audio Service
 const audioService = {
   async speakTTS(text, lang = 'vi-VN') {
+    // FIX: Handle empty text - skip TTS and return immediately
+    // Empty teacher_script tags with action="record" have no text
+    // speechSynthesis.speak('') may never fire onend event
+    if (!text || !text.trim()) {
+      eventBus.emit('tts:speak', { text, lang, skipped: true });
+      eventBus.emit('tts:end', { text, lang, skipped: true });
+      return;
+    }
+
     eventBus.emit('tts:speak', { text, lang });
 
     if (CONFIG.testMode && CONFIG.instantTimers) {

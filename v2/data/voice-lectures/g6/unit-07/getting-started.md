@@ -157,10 +157,7 @@ Ai chọn câu 1 là A thì bị lừa rồi đó. Đề hỏi <eng>talking abou
 </teacher_script>
 
 <teacher_script pause="30">
-Các em sửa bài nếu có sai. Nếu cần hỏi thầy cái gì thì nhấn nút micro bên dưới để thu âm hen, nhớ để lại nick zalo hoặc số điện thoại để thầy nhắn tin trả lời.
-</teacher_script>
-
-<teacher_script pause="0" action="record">
+Các em sửa bài nếu có sai. 30 giây nha.
 </teacher_script>
 
 ---
@@ -211,13 +208,6 @@ Thầy sửa đáp án nha. Các em kiểm tra lại.
 
 <teacher_script pause="0">
 Ai nhầm <eng>Lion King</eng> với <eng>cartoon</eng> là chưa hiểu sự khác biệt đó nha. <eng>Lion King</eng> là phim dài có cốt truyện, còn <eng>Tom and Jerry</eng> là phim ngắn từng tập.
-</teacher_script>
-
-<teacher_script pause="0">
-Nếu cần hỏi thì nhấn thu âm bên dưới nha.
-</teacher_script>
-
-<teacher_script pause="0" action="record">
 </teacher_script>
 
 <teacher_script pause="30">
@@ -314,12 +304,9 @@ Bài 5 <eng>Work in groups</eng>. Đây là bài <eng>Speaking</eng>. Phỏng v�
 </questions>
 
 <teacher_script pause="0">
-Đây là bài tập nói, nên các em sẽ ghi âm bên dưới cho thầy. Thầy sẽ nghe và sửa lại cho các em. Các em có thể nói theo mẫu hoặc sáng tạo, miễn là đúng ý nghĩa và ngữ pháp.
+Đây là bài tập nói. Các em tự luyện nói theo mẫu ở nhà nha. Miễn là đúng ý nghĩa và ngữ pháp là được.
 </teacher_script>
 
 <teacher_script pause="0">
-Nói về chương trình TV mình thích nha. Đừng ngại, thầy không chấm điểm đâu, chỉ sửa phát âm thôi.
-</teacher_script>
-
-<teacher_script pause="0" action="record">
+Ok hết bài <eng>Getting Started</eng> rồi. Về nhà học từ vựng nha, bài sau là <eng>A Closer Look 1</eng>.
 </teacher_script>

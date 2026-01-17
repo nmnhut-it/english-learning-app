@@ -753,6 +753,13 @@ const LM = {
   },
 
   speakTTS(text, onEnd) {
+    // FIX: Handle empty text - skip TTS and call onEnd immediately
+    // Empty teacher_script tags with action="record" have no text
+    // speechSynthesis.speak('') may never fire onend event
+    if (!text || !text.trim()) {
+      if (onEnd) onEnd();
+      return;
+    }
     if (!('speechSynthesis' in window)) { onEnd(); return; }
     speechSynthesis.cancel();
     const u = new SpeechSynthesisUtterance(text);

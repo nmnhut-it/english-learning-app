@@ -198,3 +198,129 @@ describe('MockAudioService without EventBus', () => {
     expect(audioService.calls).toHaveLength(2);
   });
 });
+
+describe('Empty text handling - FIX for consecutive teacher script bug', () => {
+  let audioService: MockAudioService;
+  let eventBus: EventBus;
+
+  beforeEach(() => {
+    eventBus = new EventBus({ recordHistory: true });
+    audioService = new MockAudioService(eventBus);
+  });
+
+  describe('speakTTS with empty text', () => {
+    it('should handle empty string', async () => {
+      await audioService.speakTTS('', 'vi-VN');
+
+      expect(audioService.calls).toHaveLength(1);
+
+      // Should emit events with skipped flag
+      const events = eventBus.getHistory();
+      const speakEvent = events.find(e => e.event === LectureEvents.TTS_SPEAK);
+      const endEvent = events.find(e => e.event === LectureEvents.TTS_END);
+
+      expect(speakEvent).toBeDefined();
+      expect(endEvent).toBeDefined();
+      expect((speakEvent?.data as any).skipped).toBe(true);
+      expect((endEvent?.data as any).skipped).toBe(true);
+    });
+
+    it('should handle whitespace-only string', async () => {
+      await audioService.speakTTS('   \n\t   ', 'vi-VN');
+
+      const events = eventBus.getHistory();
+      const speakEvent = events.find(e => e.event === LectureEvents.TTS_SPEAK);
+      expect((speakEvent?.data as any).skipped).toBe(true);
+    });
+
+    it('should handle null-like values', async () => {
+      // @ts-ignore - testing runtime behavior
+      await audioService.speakTTS(null, 'vi-VN');
+
+      const events = eventBus.getHistory();
+      const speakEvent = events.find(e => e.event === LectureEvents.TTS_SPEAK);
+      expect((speakEvent?.data as any).skipped).toBe(true);
+    });
+
+    it('should NOT skip normal text', async () => {
+      await audioService.speakTTS('Hello world', 'en-US');
+
+      const events = eventBus.getHistory();
+      const speakEvent = events.find(e => e.event === LectureEvents.TTS_SPEAK);
+      expect((speakEvent?.data as any).skipped).toBe(false);
+    });
+  });
+
+  describe('speakSegments with empty array', () => {
+    it('should handle empty segments array', async () => {
+      await audioService.speakSegments([]);
+
+      const events = eventBus.getHistory();
+      const speakEvent = events.find(e => e.event === LectureEvents.TTS_SPEAK);
+      const endEvent = events.find(e => e.event === LectureEvents.TTS_END);
+
+      expect(speakEvent).toBeDefined();
+      expect(endEvent).toBeDefined();
+      expect((speakEvent?.data as any).skipped).toBe(true);
+      expect((endEvent?.data as any).skipped).toBe(true);
+    });
+
+    it('should NOT skip non-empty segments', async () => {
+      await audioService.speakSegments([{ text: 'Hello', lang: 'en' }]);
+
+      const events = eventBus.getHistory();
+      const speakEvent = events.find(e => e.event === LectureEvents.TTS_SPEAK);
+      expect((speakEvent?.data as any).skipped).toBe(false);
+    });
+  });
+
+  describe('simulates the actual bug scenario', () => {
+    it('should handle teacher_script with action="record" but no text', async () => {
+      // This simulates what happens when we have:
+      // <teacher_script pause="0" action="record"></teacher_script>
+      //
+      // The parser extracts:
+      // - text: "" (empty)
+      // - segments: [] (empty array)
+      // - action: "record"
+      //
+      // Previously, calling speakTTS('') would hang because
+      // speechSynthesis.speak('') might never fire onend.
+
+      // Test that empty text is handled correctly
+      await audioService.speakTTS('', 'vi-VN');
+
+      // Should complete immediately without hanging
+      expect(audioService.calls).toHaveLength(1);
+    });
+
+    it('should handle sequence of scripts ending with empty action script', async () => {
+      // Simulates: script1 -> script2 -> script3 (with pause) -> empty script (action=record)
+      await audioService.speakTTS('Ok đáp án nè', 'vi-VN');
+      await audioService.speakTTS('Ai chọn câu 1 là A thì bị lừa', 'vi-VN');
+      await audioService.speakTTS('Các em sửa bài', 'vi-VN');
+      await audioService.speakTTS('', 'vi-VN'); // Empty action=record script
+
+      expect(audioService.calls).toHaveLength(4);
+
+      // All should complete, including the empty one
+      const events = eventBus.getHistory();
+      const endEvents = events.filter(e => e.event === LectureEvents.TTS_END);
+      expect(endEvents).toHaveLength(4);
+    });
+
+    it('should handle speakSegments with empty array from parsed empty script', async () => {
+      // When parser parses <teacher_script pause="0" action="record"></teacher_script>
+      // it returns segments: [] (empty array)
+
+      await audioService.speakSegments([]); // Empty segments from empty teacher_script
+
+      // Should complete immediately
+      expect(audioService.calls).toHaveLength(1);
+
+      const events = eventBus.getHistory();
+      const endEvent = events.find(e => e.event === LectureEvents.TTS_END);
+      expect(endEvent).toBeDefined();
+    });
+  });
+});
