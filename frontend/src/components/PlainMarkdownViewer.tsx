@@ -91,16 +91,61 @@ const PlainMarkdownViewer: React.FC<PlainMarkdownViewerProps> = ({ content, hasH
     return headings;
   }, [content]);
   
+  // Preprocess content to handle custom tags and ensure proper markdown parsing
+  const preprocessContent = useCallback((rawContent: string): string => {
+    // List of custom tags used in voice lectures that need to be stripped
+    // These tags wrap markdown content that should be parsed normally
+    const customTags = [
+      'explanation',
+      'answer',
+      'questions',
+      'task',
+      'vocabulary',
+      'dialogue',
+      'reading',
+      'translation',
+      'teacher_script',
+      'content_table',
+      'pronunciation_theory',
+      'grammar',
+      'audio'
+    ];
+
+    let processed = rawContent;
+
+    // Remove custom tags but keep their content
+    // This allows ReactMarkdown to properly parse tables and other markdown inside
+    customTags.forEach(tag => {
+      // Match opening tags with any attributes (e.g., <questions type="multiple_choice">)
+      const openTagRegex = new RegExp(`<${tag}[^>]*>`, 'gi');
+      // Match closing tags
+      const closeTagRegex = new RegExp(`</${tag}>`, 'gi');
+
+      processed = processed.replace(openTagRegex, '');
+      processed = processed.replace(closeTagRegex, '');
+    });
+
+    // Also remove HTML comments (<!-- chunk: xxx -->)
+    processed = processed.replace(/<!--[\s\S]*?-->/g, '');
+
+    return processed;
+  }, []);
+
   // Process content to optionally hide translations
   const processedContent = useMemo(() => {
-    if (showTranslations) return content;
-    
-    // Remove italicized Vietnamese translations
-    return content
-      .split('\n')
-      .filter(line => !line.match(/^\*[^*]+\*$/))
-      .join('\n');
-  }, [content, showTranslations]);
+    // First preprocess to strip custom tags
+    let processed = preprocessContent(content);
+
+    if (!showTranslations) {
+      // Remove italicized Vietnamese translations
+      processed = processed
+        .split('\n')
+        .filter(line => !line.match(/^\*[^*]+\*$/))
+        .join('\n');
+    }
+
+    return processed;
+  }, [content, showTranslations, preprocessContent]);
 
   // Speak text using Web Speech API
   const speakText = useCallback((text: string) => {
@@ -463,9 +508,57 @@ const PlainMarkdownViewer: React.FC<PlainMarkdownViewerProps> = ({ content, hasH
     ul: ({children}: any) => <ul style={{ fontSize: `${fontSize}px`, paddingLeft: '32px', margin: '16px 0' }}>{children}</ul>,
     ol: ({children}: any) => <ol style={{ fontSize: `${fontSize}px`, paddingLeft: '32px', margin: '16px 0' }}>{children}</ol>,
     blockquote: ({children}: any) => <blockquote style={{ fontSize: `${fontSize}px`, margin: '24px 0', paddingLeft: '24px' }}>{children}</blockquote>,
-    table: ({children}: any) => <table style={{ fontSize: `${fontSize}px`, width: '100%', margin: '24px 0' }}>{children}</table>,
-    th: ({children}: any) => <th style={{ fontSize: `${Math.max(fontSize * 0.95, 28)}px`, padding: '12px' }}>{children}</th>,
-    td: ({children}: any) => <td style={{ fontSize: `${Math.max(fontSize * 0.95, 28)}px`, padding: '12px' }}>{children}</td>,
+    table: ({children}: any) => (
+      <table style={{
+        fontSize: `${fontSize}px`,
+        width: '100%',
+        margin: '24px 0',
+        borderCollapse: 'collapse',
+        border: '2px solid #E0E0E0',
+        backgroundColor: '#FFFFFF',
+        boxShadow: '0 2px 4px rgba(0,0,0,0.1)',
+      }}>
+        {children}
+      </table>
+    ),
+    thead: ({children}: any) => (
+      <thead style={{
+        backgroundColor: '#FFE0B2',
+        borderBottom: '2px solid #FF5722',
+      }}>
+        {children}
+      </thead>
+    ),
+    tbody: ({children}: any) => <tbody>{children}</tbody>,
+    tr: ({children}: any) => (
+      <tr style={{
+        borderBottom: '1px solid #E0E0E0',
+      }}>
+        {children}
+      </tr>
+    ),
+    th: ({children}: any) => (
+      <th style={{
+        fontSize: `${Math.max(fontSize * 0.95, 28)}px`,
+        padding: '12px 16px',
+        textAlign: 'left',
+        fontWeight: 700,
+        color: '#333333',
+        borderRight: '1px solid #E0E0E0',
+      }}>
+        {children}
+      </th>
+    ),
+    td: ({children}: any) => (
+      <td style={{
+        fontSize: `${Math.max(fontSize * 0.95, 28)}px`,
+        padding: '12px 16px',
+        borderRight: '1px solid #E0E0E0',
+        lineHeight: 1.6,
+      }}>
+        {children}
+      </td>
+    ),
     code: ({children}: any) => <code style={{ fontSize: `${Math.max(fontSize * 0.9, 28)}px`, padding: '2px 6px' }}>{children}</code>,
     pre: ({children}: any) => <pre style={{ fontSize: `${Math.max(fontSize * 0.9, 28)}px`, padding: '20px', margin: '24px 0', overflow: 'auto' }}>{children}</pre>,
     em: ({children}: any) => <em style={{ fontSize: 'inherit', fontStyle: 'italic', display: showTranslations ? 'inline' : 'none' }}>{children}</em>,
