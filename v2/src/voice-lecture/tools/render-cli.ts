@@ -142,7 +142,7 @@ function renderCustomTag(tag: string, content: string, attrs: string = ''): stri
     case 'explanation':
       return `<div class="explanation-section" data-testid="explanation">
         <h4>💡 Explanation</h4>
-        ${renderMarkdown(content)}
+        ${renderTables(renderMarkdown(content))}
       </div>`;
 
     case 'pronunciation_theory':
