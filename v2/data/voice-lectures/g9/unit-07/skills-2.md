@@ -68,87 +68,91 @@ Rừng mưa nhiệt đới nằm ở vùng xích đạo, có khí hậu nóng �
 
 ---
 
-### Bài 2 trang 79 - Listen and fill in the blanks
+### Bài 2 trang 79 - Listen and tick
 
-<teacher_script pause="0">
-Bài 2 <eng>Listen to a talk about the Amazon Rainforest and fill in the blanks</eng>. Nghe và điền từ vào chỗ trống.
+<teacher_script pause="60">
+Bài 2 <eng>Listen to the passage and tick the things you hear</eng>. Nghe và đánh dấu những thứ em nghe được. 1 phút nha.
 </teacher_script>
 
 <task>
-**Đề:** Listen to a talk about the Amazon Rainforest and fill in each blank with a suitable word.
-**Dịch đề:** Nghe bài nói về Rừng mưa Amazon và điền từ thích hợp vào mỗi chỗ trống.
+**Đề:** Listen to the passage and tick (✓) the things you hear.
+**Dịch đề:** Nghe đoạn văn và đánh dấu (✓) những thứ bạn nghe được.
 </task>
+
+<questions type="listen_tick">
+| | Thing | Tick |
+|---|-------|------|
+| 1 | The largest tropical forest | ✓ |
+| 2 | Flora and fauna | ✓ |
+| 3 | Green lung of the world | ✓ |
+| 4 | One-fifth of the oxygen | ✓ |
+| 5 | Climate change | ✓ |
+| 6 | Seven natural wonders | ✓ |
+| 7 | Illegal logging | ✓ |
+| 8 | Deforestation | ✓ |
+| 9 | Plant trees | ✓ |
+| 10 | Establish parks | ✓ |
+</questions>
+
+<teacher_script pause="0" type="answer">
+Đáp án: Tất cả các mục đều được nhắc đến trong bài nghe.
+</teacher_script>
 
 <reading>
 **Tapescript - The Amazon Rainforest**
 
-The Amazon Rainforest is located in South America. It covers about 5.5 million _______ kilometres. It is the world's largest tropical rainforest. The Amazon is often called the "green _______ of the world" because it produces about 20% of the world's oxygen.
+The Amazon Rainforest is a magnificent area. It is the largest tropical forest on earth. The Amazon possesses more than half of our world's tropical forest areas. It is very rich in flora and fauna. The Amazon Rainforest is home to the most biological diversity, serving as the green lung of the world. It contributes to the production of one-fifth of the oxygen in our atmosphere. The Amazon also helps to slow climate change. For these reasons, the Amazon ranks among seven natural wonders of the world. It has so many things which are especially important for our earth and our future.
 
-The Amazon has amazing _______. It is home to millions of species of plants and animals. Many of them are _______ species. However, the rainforest is in danger. Deforestation and _______ change are threatening this natural wonder.
+Today the biodiversity of this region is threatened. These threats include illegal logging, deforestation, fires, and rare animal species extinction. Protecting wild species and the wild places where they live is so urgent for us. Governments and the communities living in the area are doing a lot to restore damaged ecosystems. They plant trees and establish parks to protect rainforests and wildlife. They also encourage people to live in a way that doesn't hurt the environment.
 </reading>
 
-<teacher_script pause="60">
-Nghe và điền từ vào chỗ trống nha. 1 phút.
-</teacher_script>
+<translation>
+Rừng mưa Amazon là một khu vực tuyệt đẹp. Đây là rừng nhiệt đới lớn nhất trên trái đất. Amazon sở hữu hơn một nửa diện tích rừng nhiệt đới của thế giới. Nó rất giàu hệ động thực vật. Rừng mưa Amazon là nơi có sự đa dạng sinh học nhất, đóng vai trò là lá phổi xanh của thế giới. Nó đóng góp vào việc sản xuất một phần năm lượng oxy trong bầu khí quyển của chúng ta. Amazon cũng giúp làm chậm biến đổi khí hậu. Vì những lý do này, Amazon được xếp hạng trong số bảy kỳ quan thiên nhiên của thế giới. Nó có rất nhiều thứ đặc biệt quan trọng cho trái đất và tương lai của chúng ta.
 
-<teacher_script pause="0" type="answer">
-Đáp án nha.
-</teacher_script>
-
-<answer>
-**Đáp án:**
-1. square
-2. lung
-3. biodiversity
-4. endangered
-5. climate
-</answer>
-
-<teacher_script pause="0">
-Chỗ 1: <eng>square</eng> - <eng>square kilometres</eng> = kilômét vuông. Rừng Amazon rộng 5,5 triệu km vuông.
-</teacher_script>
-
-<teacher_script pause="0">
-Chỗ 2: <eng>lung</eng> - <eng>green lung of the world</eng> = lá phổi xanh của trái đất. Vì Amazon tạo ra 20% oxy của thế giới.
-</teacher_script>
-
-<teacher_script pause="0">
-Chỗ 3: <eng>biodiversity</eng> - đa dạng sinh học. Amazon là nơi sinh sống của hàng triệu loài.
-</teacher_script>
-
-<teacher_script pause="0">
-Chỗ 4: <eng>endangered</eng> - có nguy cơ tuyệt chủng. Nhiều loài trong Amazon đang bị đe dọa.
-</teacher_script>
-
-<teacher_script pause="0">
-Chỗ 5: <eng>climate</eng> - <eng>climate change</eng> = biến đổi khí hậu. Đây là mối đe dọa lớn với rừng Amazon.
-</teacher_script>
+Ngày nay, sự đa dạng sinh học của khu vực này đang bị đe dọa. Những mối đe dọa này bao gồm khai thác gỗ bất hợp pháp, phá rừng, cháy rừng và sự tuyệt chủng của các loài động vật quý hiếm. Bảo vệ các loài hoang dã và nơi sinh sống của chúng là điều cấp bách đối với chúng ta. Chính phủ và các cộng đồng sống trong khu vực đang làm rất nhiều để khôi phục các hệ sinh thái bị hư hại. Họ trồng cây và thành lập các công viên để bảo vệ rừng mưa và động vật hoang dã. Họ cũng khuyến khích mọi người sống theo cách không gây hại cho môi trường.
+</translation>
 
 ---
 
-### Bài 3 trang 79 - Listen and answer
+### Bài 3 trang 79 - Listen and choose
 
 <teacher_script pause="60">
-Bài 3 <eng>Listen again and answer the questions</eng>. Nghe lại và trả lời câu hỏi. 1 phút nha.
+Bài 3 <eng>Listen again and choose the correct answers</eng>. Nghe lại và chọn đáp án đúng. 1 phút nha.
 </teacher_script>
 
 <task>
-**Đề:** Listen again and answer the questions.
-**Dịch đề:** Nghe lại và trả lời các câu hỏi.
+**Đề:** Listen again and choose the correct answers.
+**Dịch đề:** Nghe lại và chọn đáp án đúng.
 </task>
 
-<questions type="fill_blanks">
-**1.** Where is the Amazon Rainforest located?
-*Rừng mưa Amazon nằm ở đâu?*
+<questions type="multiple_choice">
+**1.** The Amazon Rainforest is rich in _______.
+- A. rivers and forests
+- B. flora and fauna
+- C. climate change
 
-**2.** What is the Amazon called and why?
-*Rừng Amazon được gọi là gì và tại sao?*
+*Rừng mưa Amazon giàu về _______.*
 
-**3.** What is special about the biodiversity of the Amazon?
-*Điều gì đặc biệt về đa dạng sinh học của Amazon?*
+**2.** The threats to biodiversity are deforestation, fires, and extinction of rare animal _______.
+- A. flora
+- B. fauna
+- C. species
 
-**4.** What are the threats to the Amazon Rainforest?
-*Những mối đe dọa với rừng mưa Amazon là gì?*
+*Các mối đe dọa đối với đa dạng sinh học là phá rừng, cháy rừng và sự tuyệt chủng của _______ động vật quý hiếm.*
+
+**3.** Which activity can governments and communities do to restore damaged ecosystems?
+- A. Cutting down trees
+- B. Establishing parks
+- C. Encouraging deforestation
+
+*Chính phủ và cộng đồng có thể làm gì để khôi phục các hệ sinh thái bị hư hại?*
+
+**4.** Governments are encouraging people to live in a way that doesn't hurt the _______.
+- A. environment
+- B. economy
+- C. education
+
+*Chính phủ đang khuyến khích mọi người sống theo cách không gây hại cho _______.*
 </questions>
 
 <teacher_script pause="0" type="answer">
@@ -156,27 +160,23 @@ Bài 3 <eng>Listen again and answer the questions</eng>. Nghe lại và trả l�
 </teacher_script>
 
 <answer>
-**Đáp án:**
-1. It is located in South America.
-2. It is called the "green lung of the world" because it produces about 20% of the world's oxygen.
-3. It is home to millions of species of plants and animals. Many of them are endangered species.
-4. Deforestation and climate change are threatening the Amazon Rainforest.
+**Đáp án:** 1. B | 2. C | 3. B | 4. A
 </answer>
 
 <teacher_script pause="0">
-Câu 1: Rừng Amazon nằm ở <eng>South America</eng> - Nam Mỹ.
+Câu 1: B - <eng>flora and fauna</eng>. Bài nghe nói <eng>It is very rich in flora and fauna</eng>.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 2: Nó được gọi là <eng>green lung of the world</eng> vì tạo ra 20% oxy của thế giới.
+Câu 2: C - <eng>species</eng>. <eng>Rare animal species extinction</eng> = sự tuyệt chủng của các loài động vật quý hiếm.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 3: Amazon có hàng triệu loài động thực vật, nhiều loài đang có nguy cơ tuyệt chủng.
+Câu 3: B - <eng>Establishing parks</eng>. Bài nghe nói <eng>They establish parks to protect rainforests and wildlife</eng>.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 4: <eng>Deforestation</eng> - nạn phá rừng và <eng>climate change</eng> - biến đổi khí hậu đang đe dọa rừng Amazon.
+Câu 4: A - <eng>environment</eng>. <eng>Live in a way that doesn't hurt the environment</eng> = sống theo cách không gây hại cho môi trường.
 </teacher_script>
 
 ---

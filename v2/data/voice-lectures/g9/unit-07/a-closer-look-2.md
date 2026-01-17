@@ -101,45 +101,45 @@ Bài 1 <eng>Choose the best answer A, B, C, or D to complete each sentence</eng>
 </task>
 
 <questions type="multiple_choice">
-**1.** The teacher asked the students _______ they had finished their homework.
-- A. that
-- B. what
-- C. if
-- D. did
+**1.** "Will pollution endanger the wildlife here?" Kate asked. → Kate _______ if pollution would endanger the wildlife there.
+- A. told me
+- B. said to me
+- C. wanted to know
+- D. questions me
 
-*Giáo viên hỏi học sinh _______ họ đã làm xong bài tập về nhà chưa.*
+*"Ô nhiễm có gây nguy hiểm cho động vật hoang dã ở đây không?" Kate hỏi. → Kate _______ liệu ô nhiễm có gây nguy hiểm cho động vật hoang dã ở đó không.*
 
-**2.** She wanted to know _______ I could help her with the project.
-- A. that
-- B. what
-- C. do
-- D. whether
+**2.** "Are you enjoying your flight?" the stewardess asked me. → The stewardess asked me if I _______ my flight.
+- A. am enjoying
+- B. was enjoying
+- C. enjoyed
+- D. had been enjoying
 
-*Cô ấy muốn biết _______ tôi có thể giúp cô ấy với dự án không.*
+*"Bạn có đang thích chuyến bay không?" tiếp viên hỏi tôi. → Tiếp viên hỏi tôi liệu tôi _______ chuyến bay.*
 
-**3.** He asked me _______ I had ever visited Ha Long Bay.
-- A. that
-- B. what
-- C. if
-- D. do
+**3.** "Is Ganh Da Dia in Phu Yen Province, Phong?" → She asked Phong _______ in Phu Yen Province.
+- A. was Ganh Da Dia
+- B. if Ganh Da Dia is
+- C. whether Ganh Da Dia was
+- D. if was Ganh Da Dia
 
-*Anh ấy hỏi tôi _______ tôi đã từng thăm Vịnh Hạ Long chưa.*
+*"Gành Đá Đĩa có ở tỉnh Phú Yên không, Phong?" → Cô ấy hỏi Phong _______ ở tỉnh Phú Yên.*
 
-**4.** My mother asked _______ I was feeling better.
-- A. if
-- B. what
-- C. that
-- D. do
+**4.** "Can I take a photo inside the cave?" he said to the guide. → He _______ the guide if he could take a photo inside the cave.
+- A. asked
+- B. said
+- C. told
+- D. spoke
 
-*Mẹ tôi hỏi _______ tôi có cảm thấy khỏe hơn không.*
+*"Tôi có thể chụp ảnh bên trong hang không?" anh ấy nói với hướng dẫn viên. → Anh ấy _______ hướng dẫn viên liệu anh ấy có thể chụp ảnh bên trong hang.*
 
-**5.** The guide asked the tourists _______ they wanted to explore the cave.
-- A. that
-- B. what
-- C. do
-- D. whether
+**5.** I asked the travel agent _______.
+- A. was the weather good in Sa Pa in the winter
+- B. if the weather is good in Sa Pa in the winter
+- C. whether was the weather good in Sa Pa in the winter
+- D. if the weather was good in Sa Pa in the winter
 
-*Hướng dẫn viên hỏi du khách _______ họ có muốn khám phá hang động không.*
+*Tôi hỏi nhân viên du lịch _______.*
 </questions>
 
 <teacher_script pause="0" type="answer">
@@ -151,23 +151,23 @@ Bài 1 <eng>Choose the best answer A, B, C, or D to complete each sentence</eng>
 </answer>
 
 <teacher_script pause="0">
-Câu 1: C - <eng>if</eng>. Câu hỏi <eng>Yes/No</eng> dùng <eng>if</eng> hoặc <eng>whether</eng>.
+Câu 1: C - <eng>wanted to know</eng>. Trong câu tường thuật Yes/No, dùng <eng>asked</eng> hoặc <eng>wanted to know</eng>.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 2: D - <eng>whether</eng>. <eng>Wanted to know whether</eng> = muốn biết liệu.
+Câu 2: D - <eng>had been enjoying</eng>. Câu trực tiếp ở thì hiện tại tiếp diễn <eng>are enjoying</eng>, sang tường thuật lùi thì thành quá khứ hoàn thành tiếp diễn.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 3: C - <eng>if</eng>. <eng>Asked me if I had ever visited</eng> = hỏi tôi liệu tôi đã từng thăm.
+Câu 3: C - <eng>whether Ganh Da Dia was</eng>. Câu tường thuật giữ trật tự S + V, không đảo ngữ. <eng>is</eng> lùi thì thành <eng>was</eng>.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 4: A - <eng>if</eng>. <eng>Asked if I was feeling</eng> = hỏi liệu tôi có cảm thấy.
+Câu 4: A - <eng>asked</eng>. Động từ tường thuật phổ biến: <eng>asked</eng> + O + <eng>if/whether</eng>.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 5: D - <eng>whether</eng>. <eng>Asked whether they wanted</eng> = hỏi liệu họ có muốn.
+Câu 5: D - <eng>if the weather was good in Sa Pa in the winter</eng>. Trật tự S + V, <eng>is</eng> lùi thì thành <eng>was</eng>.
 </teacher_script>
 
 ---
