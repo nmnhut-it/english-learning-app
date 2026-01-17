@@ -242,8 +242,10 @@ Giờ qua phần phát âm. Hôm nay học hai cụm phụ âm <eng>/sl/</eng> v
 
 ### Bài 4 trang 75 - Listen and repeat
 
+<audio src="https://img.loigiaihay.com/picture/2024/0515/42.mp3"></audio>
+
 <teacher_script pause="0">
-Bài 4 <eng>Listen and repeat the words. Pay attention to the sounds /sl/ and /sn/</eng>. Nghe và lặp lại. Chú ý âm <eng>/sl/</eng> và <eng>/sn/</eng>.
+Bài 4 <eng>Listen and repeat the words. Pay attention to the sounds /sl/ and /sn/</eng>. Bấm nút nghe bên trên rồi lặp lại. Chú ý âm <eng>/sl/</eng> và <eng>/sn/</eng>.
 </teacher_script>
 
 <task>
@@ -283,8 +285,10 @@ Bấm nút Ghi âm để đọc lại các từ và gửi cho thầy sửa nha.
 
 ### Bài 5 trang 75 - Listen and repeat the sentences
 
+<audio src="https://img.loigiaihay.com/picture/2024/0515/43.mp3"></audio>
+
 <teacher_script pause="0">
-Bài 5 <eng>Listen and repeat the sentences. Pay attention to the underlined words</eng>. Nghe và lặp lại câu. Chú ý các từ được gạch chân.
+Bài 5 <eng>Listen and repeat the sentences. Pay attention to the underlined words</eng>. Bấm nút nghe bên trên rồi lặp lại câu. Chú ý các từ được gạch chân.
 </teacher_script>
 
 <task>
