@@ -111,17 +111,31 @@ ${renderedContent}
 function renderFullHtml(content: string): string {
   let html = content;
 
-  // Process custom tags first (they get their own markdown rendering)
+  // First render markdown OUTSIDE custom tags
+  // We do this by temporarily replacing custom tags with placeholders
+  const tagPlaceholders: Map<string, string> = new Map();
+  let placeholderIndex = 0;
+
   for (const tag of CUSTOM_TAGS) {
     const regex = new RegExp(`<${tag}([^>]*)>([\\s\\S]*?)<\\/${tag}>`, 'g');
-    html = html.replace(regex, (_, attrs, inner) => renderTag(tag, inner, attrs));
+    html = html.replace(regex, (match, attrs, inner) => {
+      const placeholder = `__TAG_PLACEHOLDER_${placeholderIndex++}__`;
+      // Render the tag content and store it
+      tagPlaceholders.set(placeholder, renderTag(tag, inner, attrs));
+      return placeholder;
+    });
   }
 
   // Process chunk comments
   html = html.replace(/<!--\s*chunk:\s*(\w+)\s*-->/g, '<div class="chunk-marker" data-chunk="$1">chunk: $1</div>');
 
-  // Render remaining markdown (content outside custom tags)
+  // Render markdown on content OUTSIDE tags
   html = renderMarkdownClean(html);
+
+  // Restore tag placeholders
+  for (const [placeholder, rendered] of tagPlaceholders) {
+    html = html.replace(placeholder, rendered);
+  }
 
   return html;
 }
