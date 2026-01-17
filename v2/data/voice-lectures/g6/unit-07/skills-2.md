@@ -15,7 +15,7 @@ Mở sách trang 13 tập 2 đi.
 
 <!-- chunk: vocabulary -->
 <teacher_script pause="0">
-Đây là từ vựng bài nghe. Click vô từ để nghe phát âm. Học xong bấm Tiếp tục bài học.
+Bấm nút "Bắt đầu" bên dưới để học từ vựng bài nghe. Máy sẽ đọc và các em đọc theo. Sau đó các em làm bài trắc nghiệm từ vựng rồi ghi từ vựng vô tập.
 </teacher_script>
 
 <vocabulary>

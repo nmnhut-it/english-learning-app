@@ -4,7 +4,11 @@
 
 <!-- chunk: intro -->
 <teacher_script pause="0">
-Ok lớp 8, <eng>Unit 7 - Environmental Protection</eng>. Bảo vệ môi trường. Chủ đề này hay ra thi đó, tập trung nha. Mở sách trang 72 đi.
+Ok lớp 8, <eng>Unit 7 - Environmental Protection</eng>. Bảo vệ môi trường. Chủ đề này hay ra thi đó, tập trung nha.
+</teacher_script>
+
+<teacher_script pause="0">
+Các em mở sách ra trang 72, Unit 7, bài <eng>Getting Started</eng>, ghi tựa bài. Sau đó bấm nút "Bắt đầu" bên dưới để học từ vựng. Máy sẽ đọc và các em đọc theo. Sau đó các em làm bài trắc nghiệm từ vựng rồi ghi từ vựng vô tập.
 </teacher_script>
 
 ---

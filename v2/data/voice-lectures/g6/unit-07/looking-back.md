@@ -15,7 +15,7 @@ Mở sách trang 14 tập 2 đi.
 
 <!-- chunk: vocabulary_review -->
 <teacher_script pause="0">
-Trước khi làm bài, ôn lại từ vựng Unit 7 nha.
+Bấm nút "Bắt đầu" bên dưới để ôn lại từ vựng Unit 7. Máy sẽ đọc và các em đọc theo. Sau đó các em làm bài trắc nghiệm từ vựng.
 </teacher_script>
 
 <vocabulary>

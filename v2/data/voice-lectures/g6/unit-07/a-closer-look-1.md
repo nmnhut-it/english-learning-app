@@ -15,7 +15,7 @@ Mở sách trang 8 tập 2 đi. Bài này có 3 bài tập từ vựng và 2 bà
 
 <!-- chunk: vocabulary -->
 <teacher_script pause="0">
-Đây là từ vựng mới bài này. Click vô từ để nghe phát âm, ghi vô tập rồi làm bài trắc nghiệm từ vựng hen.
+Bấm nút "Bắt đầu" bên dưới để học từ vựng. Máy sẽ đọc và các em đọc theo. Sau đó các em làm bài trắc nghiệm từ vựng rồi ghi từ vựng vô tập.
 </teacher_script>
 
 <vocabulary>

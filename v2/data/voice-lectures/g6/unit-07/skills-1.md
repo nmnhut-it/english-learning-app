@@ -22,7 +22,7 @@ Phần <eng>Reading</eng> trước nha. Đọc bảng chương trình TV và tr�
 
 <!-- chunk: vocabulary -->
 <teacher_script pause="0">
-Trước khi đọc, học từ vựng quan trọng nha. Có 21 từ - hơi nhiều nhưng đều dễ nhớ thôi.
+Bấm nút "Bắt đầu" bên dưới để học từ vựng bài đọc. Máy sẽ đọc và các em đọc theo. Sau đó các em làm bài trắc nghiệm từ vựng rồi ghi từ vựng vô tập.
 </teacher_script>
 
 <vocabulary>

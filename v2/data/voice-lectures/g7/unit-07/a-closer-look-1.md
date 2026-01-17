@@ -15,7 +15,7 @@ Bài này học từ vựng về phương tiện giao thông, biển báo đư�
 
 <!-- chunk: vocabulary -->
 <teacher_script pause="0">
-Đầu tiên là từ vựng. Có 2 nhóm: cụm động từ đi lại và biển báo giao thông.
+Bấm nút "Bắt đầu" bên dưới để học từ vựng. Máy sẽ đọc và các em đọc theo. Sau đó các em làm bài trắc nghiệm từ vựng rồi ghi từ vựng vô tập.
 </teacher_script>
 
 <vocabulary>
