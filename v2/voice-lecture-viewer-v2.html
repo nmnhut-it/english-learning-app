@@ -469,6 +469,9 @@ function renderContent(md, chunkIndex) {
     const action = (attrs.match(/action="(\w+)"/) || [])[1] || '';
     const id = `ts-${tsCounter++}`;
 
+    // Strip <eng> and <vn> inline language tags for display
+    const displayText = text.trim().replace(/<\/?(?:eng|vn)>/gi, '').replace(/"/g, '&quot;');
+
     let actionHtml = '';
     if (action === 'record') {
       actionHtml = `<div class="action-row" data-testid="action-record-${id}"><button class="action-btn">🎤 Ghi âm</button></div>`;
@@ -482,7 +485,7 @@ function renderContent(md, chunkIndex) {
       </div>
     ` : '';
 
-    return `<div class="ts" id="${id}" data-testid="ts-${id}" data-text="${text.trim().replace(/"/g, '&quot;')}" data-pause="${pause}" data-href="${href}" data-action="${action}" data-played="false"></div>${timerHtml}${actionHtml}`;
+    return `<div class="ts" id="${id}" data-testid="ts-${id}" data-text="${displayText}" data-pause="${pause}" data-href="${href}" data-action="${action}" data-played="false"></div>${timerHtml}${actionHtml}`;
   });
 
   // Other tags
