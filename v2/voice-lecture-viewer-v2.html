@@ -433,9 +433,10 @@ function renderChunks(chunks) {
     html += `<div class="chunk" id="chunk-${i}" data-testid="chunk-${i}" data-index="${i}" data-status="pending">`;
     if (chunk.title) html += `<div class="chunk-title" data-testid="chunk-title-${i}">${chunk.title}</div>`;
     html += renderContent(chunk.content, i);
+    const btnText = i === 0 ? 'Bắt đầu' : 'Tiếp tục';
     html += `<div class="chunk-nav" data-testid="chunk-nav-${i}" data-ready="false">
       <div class="indicator">▼</div>
-      <button class="nav-btn" id="nav-${i}" data-testid="continue-btn-${i}" data-ready="false" onclick="window.__voiceLecture.advanceToNextChunk()">Tiếp tục</button>
+      <button class="nav-btn" id="nav-${i}" data-testid="continue-btn-${i}" data-ready="false" onclick="window.__voiceLecture.advanceToNextChunk()">${btnText}</button>
     </div>`;
     html += `</div>`;
   });
@@ -714,6 +715,7 @@ function playTS(el) {
 
 function afterSpeaking(tsEl) {
   hideNPC();
+  state.setState('idle'); // Reset state so next TS can play
 
   const next = findNextElement(tsEl);
 

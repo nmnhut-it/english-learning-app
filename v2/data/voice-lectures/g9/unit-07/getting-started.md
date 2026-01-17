@@ -2,12 +2,14 @@
 
 ## GETTING STARTED - The Natural Wonders Contest
 
+<!-- chunk: intro -->
 <teacher_script pause="0">
 Ok lớp 9, <eng>Unit 7 - Natural Wonders of the World</eng>. Các kỳ quan thiên nhiên thế giới. Chủ đề này quan trọng, hay ra trong đề thi vào 10 luôn. Mở sách trang 72 đi.
 </teacher_script>
 
 ---
 
+<!-- chunk: vocabulary -->
 <vocabulary>
 1. **wonder** : (n) kỳ quan /ˈwʌndə/
 2. **natural wonder** : (n) kỳ quan thiên nhiên /ˈnætʃrəl ˈwʌndə/

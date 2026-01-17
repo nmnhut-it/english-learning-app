@@ -2,12 +2,14 @@
 
 ## GETTING STARTED - What can we do to protect the environment?
 
+<!-- chunk: intro -->
 <teacher_script pause="0">
 Ok lớp 8, <eng>Unit 7 - Environmental Protection</eng>. Bảo vệ môi trường. Chủ đề này hay ra thi đó, tập trung nha. Mở sách trang 72 đi.
 </teacher_script>
 
 ---
 
+<!-- chunk: vocabulary -->
 <vocabulary>
 1. **environmental protection** : (n) bảo vệ môi trường /ɪnˌvaɪrənˈmentl prəˈtekʃn/
 2. **discuss** : (v) thảo luận /dɪˈskʌs/
