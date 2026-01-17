@@ -289,7 +289,7 @@ Bài 5 <eng>QUIZ: How much do you know about tourism in Viet Nam?</eng>. Đố v
 1. Hue (Huế)
 2. Can Tho (Cần Thơ)
 3. Da Lat (Đà Lạt)
-4. Lao Cai (Lào Cai)
+4. Cao Bang (Cao Bằng)
 5. Quang Ninh (Quảng Ninh)
 </answer>
 
@@ -306,7 +306,7 @@ Câu 3: <eng>Da Lat</eng> - Đà Lạt tổ chức Festival Hoa vào tháng 12, 
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 4: <eng>Lao Cai</eng> - Lào Cai có thác Bạc, thác Tình Yêu nổi tiếng ở Sa Pa.
+Câu 4: <eng>Cao Bang</eng> - Cao Bằng có thác Bản Giốc nổi tiếng, thác nước lớn nhất Đông Nam Á.
 </teacher_script>
 
 <teacher_script pause="0">
