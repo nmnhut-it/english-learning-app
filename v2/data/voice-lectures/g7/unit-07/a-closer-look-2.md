@@ -251,6 +251,45 @@ Các em ghi vô tập bài học: should + động từ = nên, shouldn't + đ�
 
 ---
 
+<!-- chunk: grammar_must_have_to -->
+<teacher_script pause="0">
+Mở rộng thêm nha. Ngoài should còn có must với have to. Cùng nghĩa là "phải" nhưng khác nhau.
+</teacher_script>
+
+<grammar>
+## So sánh: should / must / have to
+
+📝 *Các em ghi vô tập bài học:*
+
+| Cấu trúc | Nghĩa | Khi nào dùng | Ví dụ |
+|----------|-------|--------------|-------|
+| **should** + V | nên | Lời khuyên (không bắt buộc) | You **should** study. *(Bạn nên học.)* |
+| **must** + V | phải | Bắt buộc (tự mình cảm thấy) | I **must** do my homework. *(Tôi phải làm bài tập - tự tôi muốn.)* |
+| **have to** + V | phải | Bắt buộc (từ bên ngoài) | I **have to** do my homework. *(Tôi phải làm bài tập - bị ép.)* |
+| **mustn't** + V | không được phép | Cấm | You **mustn't** park here. *(Bạn không được đậu xe ở đây.)* |
+
+**Phân biệt must và have to:**
+- **must**: Tự mình cảm thấy phải làm
+  - I **must** exercise more. *(Tôi phải tập thể dục nhiều hơn - tự tôi muốn khỏe.)*
+- **have to**: Bị ép phải làm, không có lựa chọn
+  - I **have to** wear a uniform at school. *(Tôi phải mặc đồng phục ở trường - quy định bắt buộc.)*
+
+**Lưu ý:**
+- mustn't ≠ don't have to
+  - **mustn't** = không được phép (cấm)
+  - **don't have to** = không cần phải (có thể làm hoặc không)
+</grammar>
+
+<teacher_script pause="0">
+Tóm lại: should = nên (khuyên), must = phải (tự mình), have to = phải (bị ép), mustn't = cấm.
+</teacher_script>
+
+<teacher_script pause="30">
+Ghi vô tập bảng so sánh này. 30 giây.
+</teacher_script>
+
+---
+
 <!-- chunk: exercise_3 -->
 ### Bài 3 trang 12 - Choose the correct option
 
@@ -527,16 +566,20 @@ Ok tóm tắt bài này.
 | **How far** is it **from** A **to** B? | **It is** (about) + khoảng cách + **from** A **to** B. |
 | Từ A đến B bao xa? | Khoảng ... từ A đến B. |
 
-### 2. Should / Shouldn't:
+### 2. Modal verbs:
 | Cấu trúc | Nghĩa | Dùng khi |
 |----------|-------|----------|
 | **should** + V | nên | khuyên làm điều TỐT |
 | **shouldn't** + V | không nên | khuyên KHÔNG làm điều xấu |
+| **must** + V | phải | bắt buộc (tự mình cảm thấy) |
+| **have to** + V | phải | bắt buộc (bị ép từ bên ngoài) |
+| **mustn't** + V | không được phép | cấm |
 
 ### Mẹo nhớ:
 - **How far** = bao xa → hỏi khoảng cách
-- **should** = nên → điều tốt, an toàn
-- **shouldn't** = không nên → điều xấu, nguy hiểm
+- **should** = nên (khuyên) → điều tốt
+- **must** = phải (tự mình) → tự cảm thấy phải làm
+- **have to** = phải (bị ép) → quy định, luật lệ
 </grammar>
 
 ---
