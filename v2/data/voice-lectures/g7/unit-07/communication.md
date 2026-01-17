@@ -20,6 +20,8 @@ Phần Everyday English. Hỏi người khác đi bằng phương tiện gì.
 <grammar>
 ## Hỏi về phương tiện giao thông:
 
+📝 *Các em ghi vô tập bài học:*
+
 **Câu hỏi:**
 - How does + người + get to + nơi?
 - *(Người đó đi đến ... bằng gì?)*
@@ -37,6 +39,10 @@ Phần Everyday English. Hỏi người khác đi bằng phương tiện gì.
 | How does your dad get to work? | He usually goes by bus. |
 | *(Ba bạn đi làm bằng gì?)* | *(Ba tui thường đi xe buýt.)* |
 </grammar>
+
+<teacher_script pause="30">
+Các em ghi vô tập bài học: How does + người + get to + nơi? Trả lời bằng goes by + phương tiện. 30 giây.
+</teacher_script>
 
 ---
 

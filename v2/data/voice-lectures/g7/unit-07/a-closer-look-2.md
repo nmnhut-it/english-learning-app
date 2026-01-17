@@ -18,6 +18,8 @@ Cái đầu tiên nè. Muốn hỏi từ đây đến đó bao xa thì hỏi sao
 <grammar>
 ## It indicating distance - Dùng "It" chỉ khoảng cách
 
+📝 *Các em ghi vô tập bài học:*
+
 **Ý nghĩa:** Chúng ta dùng "It" để nói về khoảng cách giữa 2 địa điểm.
 
 **Cấu trúc hỏi:**
@@ -61,7 +63,7 @@ Xem ví dụ nha.
 </grammar>
 
 <teacher_script pause="30">
-Ghi vô tập đi: How far is it from A to B? 30 giây.
+Các em ghi vô tập bài học: How far is it from A to B? 30 giây.
 </teacher_script>
 
 ---
@@ -196,6 +198,8 @@ Ok giờ qua cái thứ hai: should với shouldn't. Nên hay không nên làm g
 <grammar>
 ## Should / Shouldn't - Nên / Không nên
 
+📝 *Các em ghi vô tập bài học:*
+
 **Ý nghĩa:** Dùng để đưa ra lời khuyên hoặc ý kiến.
 
 | Cấu trúc | Ý nghĩa | Ví dụ |
@@ -242,7 +246,7 @@ Thêm mấy ví dụ nữa nè.
 </grammar>
 
 <teacher_script pause="30">
-Ghi vô tập: should + động từ = nên, shouldn't + động từ = không nên. 30 giây.
+Các em ghi vô tập bài học: should + động từ = nên, shouldn't + động từ = không nên. 30 giây.
 </teacher_script>
 
 ---
@@ -514,6 +518,8 @@ Ok tóm tắt bài này.
 
 <grammar>
 ## Tóm tắt ngữ pháp Unit 7:
+
+📝 *Các em ghi vô tập bài học:*
 
 ### 1. It chỉ khoảng cách:
 | Hỏi | Trả lời |
