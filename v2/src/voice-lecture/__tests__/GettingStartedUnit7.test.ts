@@ -145,11 +145,12 @@ describe('Getting Started Unit 7 - Full File Parsing', () => {
       expect(engSegment).toBeDefined();
     });
 
-    it('should parse scripts with record action', () => {
+    it('should have no record action scripts (removed for usability)', () => {
       const scripts = extractTeacherScripts(gettingStartedContent);
 
+      // Record scripts were removed because students weren't using them
       const recordScripts = scripts.filter(s => s.action === 'record');
-      expect(recordScripts.length).toBeGreaterThanOrEqual(1);
+      expect(recordScripts.length).toBe(0);
     });
 
     it('should handle EMPTY teacher scripts with action', () => {
