@@ -112,8 +112,8 @@ export class VocabSystem implements VocabSystemInterface {
   }
 
   // ============ FLASHCARD PHASE ============
-  // NEW PATTERN: word (1x) → meaning (1x) → word (3x) → meaning (1x)
-  // This saves time and helps students memorize better
+  // OPTIMIZED PATTERN: word (1x) → meaning (1x) → word (3x)
+  // Meaning only read once to save time
 
   async startFlashcard(id: string): Promise<void> {
     const instance = this.instances.get(id);
@@ -159,11 +159,10 @@ export class VocabSystem implements VocabSystemInterface {
   }
 
   /**
-   * NEW TTS PATTERN for each vocabulary word:
+   * OPTIMIZED TTS PATTERN for each vocabulary word:
    * 1. Read English word (1x)
-   * 2. Read Vietnamese meaning (1x)
+   * 2. Read Vietnamese meaning (1x) - only once to save time
    * 3. Read English word (3x) - for repetition practice
-   * 4. Read Vietnamese meaning (1x) - final reinforcement
    */
   private async playFlashcardWord(instance: VocabInstance, wordIndex: number): Promise<void> {
     const word = instance.words[wordIndex];
@@ -178,12 +177,12 @@ export class VocabSystem implements VocabSystemInterface {
     });
     await this.delay(400);
 
-    // Step 2: Read Vietnamese meaning once
+    // Step 2: Read Vietnamese meaning once (only once to save time)
     await this.audioService.speakTTS(word.meaning, 'vi-VN');
     this.eventBus?.emit('vocab:flashcard:read', {
       id: instance.id,
       wordIndex,
-      step: 'meaning_first',
+      step: 'meaning',
       lang: 'vi',
     });
     await this.delay(400);
@@ -204,17 +203,7 @@ export class VocabSystem implements VocabSystemInterface {
       await this.delay(600); // Time for student to repeat
     }
 
-    // Step 4: Read Vietnamese meaning once (final)
     await this.delay(300);
-    await this.audioService.speakTTS(word.meaning, 'vi-VN');
-    this.eventBus?.emit('vocab:flashcard:read', {
-      id: instance.id,
-      wordIndex,
-      step: 'meaning_final',
-      lang: 'vi',
-    });
-
-    await this.delay(500);
   }
 
   // ============ QUIZ PHASE ============
