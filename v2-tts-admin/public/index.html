@@ -412,7 +412,8 @@
         <div class="batch-list" id="batchList"></div>
         <div class="modal-actions">
           <button id="stopBatchBtn" class="btn-danger" style="display: none;">Stop</button>
-          <button id="startBatchBtn" class="btn-success">Start Generation</button>
+          <button id="startBatchBtn" class="btn-success">Generate New Only</button>
+          <button id="forceRegenBtn" class="btn-warning">Force Regenerate All</button>
           <button id="closeBatchBtn" class="btn-secondary">Close</button>
         </div>
       </div>
@@ -431,9 +432,27 @@
       editedText: '',
       currentHash: '',
       audioLookup: null,
-      checkedScripts: new Set(),
+      // Map of filePath -> Set of script indices (persists across files)
+      checkedScriptsMap: new Map(),
       batchRunning: false
     };
+
+    // Helper: get checked scripts for current file
+    function getCheckedScripts() {
+      return state.checkedScriptsMap.get(state.currentFile) || new Set();
+    }
+
+    // Helper: set checked scripts for current file
+    function setCheckedScripts(set) {
+      state.checkedScriptsMap.set(state.currentFile, set);
+    }
+
+    // Helper: get total checked count across all files
+    function getTotalCheckedCount() {
+      let count = 0;
+      state.checkedScriptsMap.forEach(set => count += set.size);
+      return count;
+    }
 
     // DOM Elements
     const el = {
@@ -471,6 +490,7 @@
       batchProgressFill: document.getElementById('batchProgressFill'),
       batchProgressText: document.getElementById('batchProgressText'),
       startBatchBtn: document.getElementById('startBatchBtn'),
+      forceRegenBtn: document.getElementById('forceRegenBtn'),
       stopBatchBtn: document.getElementById('stopBatchBtn'),
       closeBatchBtn: document.getElementById('closeBatchBtn'),
       modalClose: document.getElementById('modalClose')
@@ -601,7 +621,7 @@
           state.scripts = res.scripts;
           state.currentFile = filePath;
           state.currentIndex = 0;
-          state.checkedScripts.clear();
+          // Don't clear - preserve checked scripts across files
           el.emptyState.style.display = 'none';
           el.scriptContainer.style.display = 'block';
           await renderScript();
@@ -642,7 +662,10 @@
 
       // Update nav buttons
       el.prevBtn.disabled = state.currentIndex === 0;
-      el.nextBtn.disabled = state.currentIndex === total - 1;
+      // Next button: disabled only if last script AND last file
+      const currentFileIndex = state.files.findIndex(f => f.path === state.currentFile);
+      const isLastFile = currentFileIndex === state.files.length - 1;
+      el.nextBtn.disabled = state.currentIndex === total - 1 && isLastFile;
 
       // Update queue checkbox
       updateQueueCheckbox();
@@ -650,23 +673,26 @@
     }
 
     function updateQueueCheckbox() {
-      const isChecked = state.checkedScripts.has(state.currentIndex);
+      const checked = getCheckedScripts();
+      const isChecked = checked.has(state.currentIndex);
       el.queueCheckbox.checked = isChecked;
       el.queueCheck.classList.toggle('checked', isChecked);
     }
 
     function updateBatchButton() {
-      const count = state.checkedScripts.size;
-      el.batchBtn.textContent = `Generate Checked (${count})`;
-      el.batchBtn.style.display = count > 0 ? 'inline-block' : 'none';
+      const totalCount = getTotalCheckedCount();
+      el.batchBtn.textContent = `Generate Checked (${totalCount})`;
+      el.batchBtn.style.display = totalCount > 0 ? 'inline-block' : 'none';
     }
 
     function toggleQueueScript(index, checked) {
+      const set = getCheckedScripts();
       if (checked) {
-        state.checkedScripts.add(index);
+        set.add(index);
       } else {
-        state.checkedScripts.delete(index);
+        set.delete(index);
       }
+      setCheckedScripts(set);
       updateQueueCheckbox();
       updateBatchButton();
     }
@@ -883,35 +909,51 @@
 
     // === Batch Generation ===
     function openBatchModal() {
-      if (state.checkedScripts.size === 0) {
+      const totalCount = getTotalCheckedCount();
+      if (totalCount === 0) {
         showStatus('No scripts queued for generation', 'error');
         return;
       }
 
-      // Build list of scripts to generate (skip those with existing audio)
-      const checked = Array.from(state.checkedScripts).sort((a, b) => a - b);
-      const toGenerate = checked.filter(i => !state.scripts[i].href);
-
+      // Build list of scripts from all files
       el.batchList.innerHTML = '';
-      checked.forEach(i => {
-        const script = state.scripts[i];
-        const hasAudio = !!script.href;
-        const item = document.createElement('div');
-        item.className = 'batch-item';
-        item.id = `batch-item-${i}`;
-        item.innerHTML = `
-          <span class="batch-item-index">#${i + 1}</span>
-          <span class="batch-item-text">${script.cleanedText.slice(0, 60)}...</span>
-          <span class="batch-item-status ${hasAudio ? 'done' : 'pending'}">
-            ${hasAudio ? 'Has audio' : 'Pending'}
-          </span>
-        `;
-        el.batchList.appendChild(item);
+      let toGenerateCount = 0;
+
+      state.checkedScriptsMap.forEach((indices, filePath) => {
+        if (indices.size === 0) return;
+
+        // Add file header
+        const fileInfo = state.files.find(f => f.path === filePath);
+        const fileName = fileInfo ? `${fileInfo.unit}/${fileInfo.section}` : filePath;
+        const header = document.createElement('div');
+        header.className = 'batch-item';
+        header.style.background = '#e2e8f0';
+        header.style.fontWeight = '600';
+        header.innerHTML = `<span>${fileName}</span>`;
+        el.batchList.appendChild(header);
+
+        // Add script items (need to load scripts if not current file)
+        const sorted = Array.from(indices).sort((a, b) => a - b);
+        sorted.forEach(i => {
+          const item = document.createElement('div');
+          item.className = 'batch-item';
+          item.id = `batch-item-${filePath}-${i}`;
+          item.dataset.filePath = filePath;
+          item.dataset.scriptIndex = i;
+          item.innerHTML = `
+            <span class="batch-item-index">#${i + 1}</span>
+            <span class="batch-item-text">Script ${i + 1}</span>
+            <span class="batch-item-status pending">Pending</span>
+          `;
+          el.batchList.appendChild(item);
+          toGenerateCount++;
+        });
       });
 
-      el.batchTotal.textContent = toGenerate.length;
+      el.batchTotal.textContent = toGenerateCount;
       el.batchProgressFill.style.width = '0%';
-      el.startBatchBtn.style.display = toGenerate.length > 0 ? 'inline-block' : 'none';
+      el.startBatchBtn.style.display = toGenerateCount > 0 ? 'inline-block' : 'none';
+      el.forceRegenBtn.style.display = toGenerateCount > 0 ? 'inline-block' : 'none';
       el.stopBatchBtn.style.display = 'none';
       el.closeBatchBtn.style.display = 'inline-block';
       el.batchModal.classList.add('active');
@@ -924,102 +966,123 @@
       el.batchModal.classList.remove('active');
     }
 
-    async function startBatchGeneration() {
-      const checked = Array.from(state.checkedScripts).sort((a, b) => a - b);
-      const toGenerate = checked.filter(i => !state.scripts[i].href);
+    async function startBatchGeneration(forceRegenerate = false) {
+      // Build list of all items to process
+      const allItems = [];
+      document.querySelectorAll('.batch-item[data-file-path]').forEach(item => {
+        allItems.push({
+          filePath: item.dataset.filePath,
+          scriptIndex: parseInt(item.dataset.scriptIndex),
+          element: item
+        });
+      });
 
-      if (toGenerate.length === 0) {
-        showStatus('All scripts already have audio', 'success');
-        closeBatchModal();
+      if (allItems.length === 0) {
+        showStatus('No scripts to generate', 'error');
         return;
       }
 
       state.batchRunning = true;
       el.startBatchBtn.style.display = 'none';
+      el.forceRegenBtn.style.display = 'none';
       el.stopBatchBtn.style.display = 'inline-block';
       el.closeBatchBtn.style.display = 'none';
 
       let completed = 0;
+      let errors = 0;
       const voiceId = el.voiceSelect.value;
+      const total = allItems.length;
 
-      for (const scriptIndex of toGenerate) {
+      for (const { filePath, scriptIndex, element } of allItems) {
         if (!state.batchRunning) break;
 
-        const script = state.scripts[scriptIndex];
-        const item = document.getElementById(`batch-item-${scriptIndex}`);
-
         // Update UI to show current
-        item.className = 'batch-item current';
-        item.querySelector('.batch-item-status').className = 'batch-item-status generating';
-        item.querySelector('.batch-item-status').textContent = 'Generating...';
+        element.className = 'batch-item current';
+        element.querySelector('.batch-item-status').className = 'batch-item-status generating';
+        element.querySelector('.batch-item-status').textContent = 'Generating...';
 
         try {
-          // First check if audio exists by hash (auto-link)
-          const lookupRes = await api(`/audio-lookup/${script.hash}`);
-          if (lookupRes.success && lookupRes.exists) {
-            // Auto-link existing audio
-            await api('/update-href', {
-              method: 'POST',
-              body: {
-                filePath: state.currentFile,
-                scriptIndex: script.index,
-                href: lookupRes.href
-              }
-            });
-            script.href = lookupRes.href;
-          } else {
-            // Generate new audio
-            const res = await api('/generate', {
-              method: 'POST',
-              body: {
-                filePath: state.currentFile,
-                scriptIndex: script.index,
-                voiceId,
-                cleanedText: script.cleanedText,
-                hash: script.hash,
-                forceRegenerate: false
-              }
-            });
+          // Load file scripts if needed
+          const fileRes = await api(`/file/${filePath}`);
+          if (!fileRes.success) throw new Error('Failed to load file');
 
-            if (res.success) {
-              script.href = res.href;
-            } else {
-              throw new Error(res.error);
+          const script = fileRes.scripts[scriptIndex];
+          if (!script) throw new Error('Script not found');
+
+          // Update item text
+          element.querySelector('.batch-item-text').textContent = script.cleanedText.slice(0, 50) + '...';
+
+          // Skip if already has audio and not force regenerate
+          if (script.href && !forceRegenerate) {
+            element.className = 'batch-item done';
+            element.querySelector('.batch-item-status').className = 'batch-item-status done';
+            element.querySelector('.batch-item-status').textContent = 'Has audio';
+            completed++;
+            continue;
+          }
+
+          // Check if audio exists by hash (auto-link) - only if not force regenerate
+          if (!forceRegenerate) {
+            const lookupRes = await api(`/audio-lookup/${script.hash}`);
+            if (lookupRes.success && lookupRes.exists) {
+              await api('/update-href', {
+                method: 'POST',
+                body: { filePath, scriptIndex: script.index, href: lookupRes.href }
+              });
+              element.className = 'batch-item done';
+              element.querySelector('.batch-item-status').className = 'batch-item-status done';
+              element.querySelector('.batch-item-status').textContent = 'Linked';
+              completed++;
+              continue;
             }
           }
 
-          item.className = 'batch-item done';
-          item.querySelector('.batch-item-status').className = 'batch-item-status done';
-          item.querySelector('.batch-item-status').textContent = 'Done';
+          // Generate new audio
+          const res = await api('/generate', {
+            method: 'POST',
+            body: {
+              filePath,
+              scriptIndex: script.index,
+              voiceId,
+              cleanedText: script.cleanedText,
+              hash: script.hash,
+              forceRegenerate
+            }
+          });
+
+          if (res.success) {
+            element.className = 'batch-item done';
+            element.querySelector('.batch-item-status').className = 'batch-item-status done';
+            element.querySelector('.batch-item-status').textContent = 'Done';
+          } else {
+            throw new Error(res.error);
+          }
 
         } catch (error) {
-          item.className = 'batch-item error';
-          item.querySelector('.batch-item-status').className = 'batch-item-status error';
-          item.querySelector('.batch-item-status').textContent = 'Error';
-          console.error(`Error generating script ${scriptIndex}:`, error);
+          element.className = 'batch-item error';
+          element.querySelector('.batch-item-status').className = 'batch-item-status error';
+          element.querySelector('.batch-item-status').textContent = 'Error';
+          console.error(`Error generating script:`, error);
+          errors++;
         }
 
         completed++;
-        const progress = (completed / toGenerate.length) * 100;
+        const progress = (completed / total) * 100;
         el.batchProgressFill.style.width = `${progress}%`;
-        el.batchProgressText.firstChild.textContent = `Generated ${completed} of ${toGenerate.length} scripts`;
+        el.batchProgressText.firstChild.textContent = `Processed ${completed} of ${total} scripts`;
       }
 
       state.batchRunning = false;
       el.stopBatchBtn.style.display = 'none';
       el.closeBatchBtn.style.display = 'inline-block';
 
-      // Clear checked scripts that were generated
-      toGenerate.forEach(i => {
-        if (state.scripts[i].href) {
-          state.checkedScripts.delete(i);
-        }
-      });
+      // Clear all checked scripts
+      state.checkedScriptsMap.clear();
       updateBatchButton();
 
       // Refresh current script display
       await renderScript();
-      showStatus(`Batch complete: ${completed} scripts processed`, 'success');
+      showStatus(`Batch complete: ${completed - errors} succeeded, ${errors} failed`, errors > 0 ? 'error' : 'success');
     }
 
     // Event listeners
@@ -1044,11 +1107,26 @@
       }
     });
     el.nextBtn.addEventListener('click', async () => {
+      // Auto-check current script before moving
+      const set = getCheckedScripts();
+      set.add(state.currentIndex);
+      setCheckedScripts(set);
+
       if (state.currentIndex < state.scripts.length - 1) {
-        // Auto-check current script before moving to next
-        state.checkedScripts.add(state.currentIndex);
+        // Move to next script in current file
         state.currentIndex++;
         await renderScript();
+      } else {
+        // Current file done - switch to next file
+        const currentFileIndex = state.files.findIndex(f => f.path === state.currentFile);
+        if (currentFileIndex >= 0 && currentFileIndex < state.files.length - 1) {
+          const nextFile = state.files[currentFileIndex + 1];
+          el.fileSelect.value = nextFile.path;
+          showStatus(`Switching to ${nextFile.unit}/${nextFile.section}...`, 'success');
+          await loadFile(nextFile.path);
+        } else {
+          showStatus('All files completed!', 'success');
+        }
       }
     });
 
@@ -1057,7 +1135,8 @@
       toggleQueueScript(state.currentIndex, e.target.checked);
     });
     el.batchBtn.addEventListener('click', openBatchModal);
-    el.startBatchBtn.addEventListener('click', startBatchGeneration);
+    el.startBatchBtn.addEventListener('click', () => startBatchGeneration(false));
+    el.forceRegenBtn.addEventListener('click', () => startBatchGeneration(true));
     el.stopBatchBtn.addEventListener('click', () => { state.batchRunning = false; });
     el.closeBatchBtn.addEventListener('click', closeBatchModal);
     el.modalClose.addEventListener('click', closeBatchModal);

@@ -3,7 +3,7 @@
 ## A CLOSER LOOK 2
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_7f09f777.mp3">
 Ok lớp 7, <eng>A Closer Look 2</eng> nha. Mở sách trang 11 đi.
 </teacher_script>
 
@@ -36,7 +36,7 @@ It is (about) + khoảng cách + from + địa điểm 1 + to + địa điểm 2
 ```
 </grammar>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_74383f3a.mp3">
 <eng>How far is it from A to B?</eng> - Từ A đến B bao xa?
 </teacher_script>
 
@@ -108,7 +108,7 @@ Bài 1 <eng>Write sentences with "It". Use these cues</eng>. Viết câu theo m�
 ---
 
 <!-- chunk: answer_1 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_a43b7c53.mp3">
 Ok đáp án nha.
 </teacher_script>
 

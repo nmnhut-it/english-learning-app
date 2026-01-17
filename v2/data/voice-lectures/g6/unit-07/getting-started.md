@@ -124,7 +124,7 @@ Bài 2 <eng>Choose the correct answer A, B, or C</eng>. Đọc lại hội tho�
 ---
 
 <!-- chunk: answer_2 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_e3fe9ae3.mp3">
 Ok đáp án nè. Các em đọc lại đáp án và phần giải thích chi tiết bên dưới.
 </teacher_script>
 
@@ -148,11 +148,11 @@ Ok đáp án nè. Các em đọc lại đáp án và phần giải thích chi ti
 - Phong nói <eng>This channel has many educational programmes</eng>.
 </explanation>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_c842adaf.mp3">
 Ai chọn câu 1 là A thì bị lừa rồi đó. Đề hỏi <eng>talking about</eng> chứ không phải <eng>watching</eng>. Tụi nó nói về nhiều chương trình khác nhau, không phải chỉ <eng>Voice Kids</eng> thôi.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_e261050f.mp3">
 Các em sửa bài nếu có sai. Nếu cần hỏi thầy cái gì thì nhấn nút micro bên dưới để thu âm hen, nhớ để lại nick zalo hoặc số điện thoại để thầy nhắn tin trả lời.
 </teacher_script>
 
@@ -164,7 +164,7 @@ Các em sửa bài nếu có sai. Nếu cần hỏi thầy cái gì thì nhấn 
 <!-- chunk: exercise_3 -->
 ### Bài 3 trang 7 - Match
 
-<teacher_script pause="45">
+<teacher_script pause="45" href="audio/tts_f886d162.mp3">
 Bài 3 <eng>Match</eng>. Nối tên chương trình ở cột A với loại chương trình ở cột B. 45 giây nha. Làm bài không cần dịch vào tập.
 </teacher_script>
 
@@ -181,7 +181,7 @@ Bài 3 <eng>Match</eng>. Nối tên chương trình ở cột A với loại ch�
 ---
 
 <!-- chunk: answer_3 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_b498cf0a.mp3">
 Thầy sửa đáp án nha. Các em kiểm tra lại.
 </teacher_script>
 
@@ -205,14 +205,14 @@ Thầy sửa đáp án nha. Các em kiểm tra lại.
 - **Cartoon**: hoạt hình NGẮN, từng tập (Tom & Jerry, SpongeBob...)
 </explanation>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_6f7c382e.mp3">
 Nếu cần hỏi thì nhấn thu âm bên dưới nha.
 </teacher_script>
 
 <teacher_script pause="0" action="record">
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_47734bdf.mp3">
 Sửa bài nếu sai. 30 giây nha.
 </teacher_script>
 
@@ -221,7 +221,7 @@ Sửa bài nếu sai. 30 giây nha.
 <!-- chunk: exercise_4 -->
 ### Bài 4 trang 7 - Find adjectives
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_612df296.mp3">
 Bài 4 <eng>Find the adjectives</eng>. Tìm tính từ trong hội thoại mô tả các chương trình và nhân vật. Tính từ là từ chỉ tính chất như <eng>interesting</eng>, <eng>wonderful</eng> đó. 30 giây nha.
 </teacher_script>
 
@@ -235,7 +235,7 @@ Bài 4 <eng>Find the adjectives</eng>. Tìm tính từ trong hội thoại mô t
 ---
 
 <!-- chunk: answer_4 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_49843722.mp3">
 Ok đáp án và giải thích nè.
 </teacher_script>
 
@@ -260,11 +260,11 @@ Ok đáp án và giải thích nè.
 **Lưu ý:** Tính từ đứng trước danh từ hoặc sau động từ "be" (is, are, am).
 </explanation>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_c52a8cd1.mp3">
 Các em ghi nhớ: các tính từ đứng trước danh từ hoặc đứng sau <eng>is</eng>, <eng>are</eng>. Ví dụ <eng>is very interesting</eng> thì <eng>interesting</eng> là tính từ. Chúng là các từ chỉ tính chất của sự vật, hiện tượng. Ví dụ như tốt, xấu, cao, thấp, mập, lùn, ốm, hay, dở, vâng vâng
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_47734bdf.mp3">
 Sửa bài nếu sai. 30 giây nha.
 </teacher_script>
 
@@ -273,7 +273,7 @@ Sửa bài nếu sai. 30 giây nha.
 <!-- chunk: exercise_5 -->
 ### Bài 5 trang 7 - Work in groups
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_0aeba242.mp3">
 Bài 5 <eng>Work in groups</eng>. Đây là bài <eng>Speaking</eng>. Phỏng vấn bạn về chương trình TV yêu thích. Bài này vui nha, nói về TV mà ai chẳng thích.
 </teacher_script>
 
@@ -305,11 +305,11 @@ Bài 5 <eng>Work in groups</eng>. Đây là bài <eng>Speaking</eng>. Phỏng v�
 | He watches them every afternoon. | Bạn ấy xem vào mỗi buổi chiều. |
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_9e1da9ca.mp3">
 Đây là bài tập nói, nên các em sẽ ghi âm bên dưới cho thầy. Thầy sẽ nghe và sửa lại cho các em. Các em có thể nói theo mẫu hoặc sáng tạo, miễn là đúng ý nghĩa và ngữ pháp.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_0dc33f02.mp3">
 Nói về chương trình TV mình thích nha. Đừng ngại, thầy không chấm điểm đâu, chỉ sửa phát âm thôi.
 </teacher_script>
 
