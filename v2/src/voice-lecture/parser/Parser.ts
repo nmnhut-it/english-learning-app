@@ -24,6 +24,12 @@ export interface TeacherScript {
   lang: 'vi' | 'en';
   href: string | null;
   action: string | null;
+  type: string | null; // 'intro' | 'instruction' | 'answer' | 'vocab_drill'
+}
+
+export interface QuestionsConfig {
+  type: string; // 'multiple_choice' | 'vocab_quiz' | 'matching' | etc.
+  feedback: string | null; // 'praise' -> enables "Giỏi lắm!" sound on correct
 }
 
 export interface ParsedChunk {
@@ -175,6 +181,7 @@ export function parseTeacherScript(tagContent: string, attrs: string): TeacherSc
   const langMatch = attrs.match(/lang="(vi|en)"/);
   const hrefMatch = attrs.match(/href="([^"]+)"/);
   const actionMatch = attrs.match(/action="(\w+)"/);
+  const typeMatch = attrs.match(/type="(\w+)"/);
 
   const defaultLang = langMatch ? (langMatch[1] as 'vi' | 'en') : 'vi';
   const segments = parseTextSegments(tagContent.trim(), defaultLang);
@@ -192,6 +199,20 @@ export function parseTeacherScript(tagContent: string, attrs: string): TeacherSc
     lang: defaultLang,
     href: hrefMatch ? hrefMatch[1] : null,
     action: actionMatch ? actionMatch[1] : null,
+    type: typeMatch ? typeMatch[1] : null, // 'intro', 'instruction', 'answer', 'vocab_drill'
+  };
+}
+
+/**
+ * Parse questions tag attributes
+ */
+export function parseQuestionsConfig(attrs: string): QuestionsConfig {
+  const typeMatch = attrs.match(/type="([^"]+)"/);
+  const feedbackMatch = attrs.match(/feedback="(\w+)"/);
+
+  return {
+    type: typeMatch ? typeMatch[1] : 'multiple_choice',
+    feedback: feedbackMatch ? feedbackMatch[1] : null, // 'praise' enables "Giỏi lắm!" sound
   };
 }
 
@@ -340,7 +361,16 @@ export function renderFullContent(
         data-pause="${ts.pause}"
         data-lang="${ts.lang}"
         ${ts.action ? `data-action="${ts.action}"` : ''}
-        ${ts.href ? `data-href="${ts.href}"` : ''}>\n${ts.text}\n</div>`;
+        ${ts.href ? `data-href="${ts.href}"` : ''}
+        ${ts.type ? `data-type="${ts.type}"` : ''}>\n${ts.text}\n</div>`;
+    }
+
+    // Special handling for questions to include feedback attribute
+    if (tag === 'questions') {
+      const questionsConfig = parseQuestionsConfig(attrs);
+      return `<div class="${tagClass}"
+        data-question-type="${questionsConfig.type}"
+        ${questionsConfig.feedback ? `data-feedback="${questionsConfig.feedback}"` : ''}>\n${renderMarkdown(inner)}\n</div>`;
     }
 
     return `<div class="${tagClass}"${attrs}>\n${renderMarkdown(inner)}\n</div>`;

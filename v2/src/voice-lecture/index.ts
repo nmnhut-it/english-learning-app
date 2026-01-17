@@ -68,6 +68,7 @@ export {
   parseChunks,
   parseVocabulary,
   parseTeacherScript,
+  parseQuestionsConfig,
   parseTitle,
   renderMarkdown,
   renderTables,
@@ -82,5 +83,6 @@ export {
   type ParsedChunk,
   type VocabularyWord,
   type TeacherScript,
+  type QuestionsConfig,
   type ValidationResult,
 } from './parser/Parser';

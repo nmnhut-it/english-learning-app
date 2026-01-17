@@ -259,6 +259,7 @@ export class VoiceLectureController implements VoiceLectureControllerInterface {
         lang: (el.dataset.lang as 'vi' | 'en') || 'vi',
         href: el.dataset.href || null,
         action: el.dataset.action || null,
+        type: el.dataset.type || null,
       };
     }
 
