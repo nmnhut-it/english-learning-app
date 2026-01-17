@@ -159,13 +159,31 @@ export function renderMarkdown(markdown: string): string {
   // Tables
   html = renderTables(html);
 
-  // Lists
-  html = html.replace(/^-\s+(.+)$/gm, '<li>$1</li>');
-  html = html.replace(/(<li>.*<\/li>\n?)+/g, '<ul>$&</ul>');
+  // Horizontal rules
+  html = html.replace(/^---+$/gm, '<hr>');
 
-  // Paragraphs
-  html = html.replace(/\n\n+/g, '</p><p>');
-  html = html.replace(/\n/g, '<br>');
+  // Lists - unordered
+  html = html.replace(/^-\s+(.+)$/gm, '<li>$1</li>');
+
+  // Lists - ordered (numbered)
+  html = html.replace(/^\d+\.\s+(.+)$/gm, '<li class="numbered">$1</li>');
+
+  // Wrap consecutive list items
+  html = html.replace(/(<li[^>]*>.*<\/li>\n?)+/g, (match) => {
+    if (match.includes('class="numbered"')) {
+      return '<ol>' + match.replace(/ class="numbered"/g, '') + '</ol>';
+    }
+    return '<ul>' + match + '</ul>';
+  });
+
+  // Paragraphs - only double newlines become paragraph breaks
+  html = html.split(/\n\n+/).map((block) => {
+    block = block.trim();
+    if (!block) return '';
+    // Don't wrap if already HTML
+    if (block.startsWith('<')) return block;
+    return `<p>${block}</p>`;
+  }).join('\n');
 
   return html;
 }

@@ -29,53 +29,6 @@ const CUSTOM_TAGS = [
   'pronunciation_theory', 'audio', 'content_table',
 ];
 
-/**
- * Render markdown content without aggressive <br> conversion
- */
-function renderMarkdownClean(md: string): string {
-  let html = md;
-
-  // Headings
-  html = html.replace(/^###\s+(.+)$/gm, '<h3>$1</h3>');
-  html = html.replace(/^##\s+(.+)$/gm, '<h2>$1</h2>');
-  html = html.replace(/^#\s+(.+)$/gm, '<h1>$1</h1>');
-
-  // Bold and italic
-  html = html.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
-  html = html.replace(/\*([^*]+)\*/g, '<em>$1</em>');
-
-  // Tables
-  html = renderTables(html);
-
-  // Lists - unordered
-  html = html.replace(/^-\s+(.+)$/gm, '<li>$1</li>');
-
-  // Lists - ordered (numbered)
-  html = html.replace(/^\d+\.\s+(.+)$/gm, '<li class="numbered">$1</li>');
-
-  // Wrap consecutive list items
-  html = html.replace(/(<li[^>]*>.*<\/li>\n?)+/g, (match) => {
-    if (match.includes('class="numbered"')) {
-      return '<ol>' + match.replace(/ class="numbered"/g, '') + '</ol>';
-    }
-    return '<ul>' + match + '</ul>';
-  });
-
-  // Horizontal rules
-  html = html.replace(/^---+$/gm, '<hr>');
-
-  // Paragraphs - only double newlines become paragraph breaks
-  html = html.split(/\n\n+/).map(block => {
-    block = block.trim();
-    if (!block) return '';
-    // Don't wrap if already HTML
-    if (block.startsWith('<')) return block;
-    return `<p>${block}</p>`;
-  }).join('\n');
-
-  return html;
-}
-
 function renderTag(tag: string, content: string, attrs: string): string {
   const tagClass = tag.replace(/_/g, '-');
 
@@ -95,7 +48,7 @@ function renderTag(tag: string, content: string, attrs: string): string {
     content_table: '📋',
   };
 
-  const renderedContent = renderMarkdownClean(content);
+  const renderedContent = renderMarkdown(content);
 
   return `<div class="${tagClass}" data-testid="${tagClass}"${attrs}>
 <div class="tag-header">
@@ -130,7 +83,7 @@ function renderFullHtml(content: string): string {
   html = html.replace(/<!--\s*chunk:\s*(\w+)\s*-->/g, '<div class="chunk-marker" data-chunk="$1">chunk: $1</div>');
 
   // Render markdown on content OUTSIDE tags
-  html = renderMarkdownClean(html);
+  html = renderMarkdown(html);
 
   // Restore tag placeholders
   for (const [placeholder, rendered] of tagPlaceholders) {
