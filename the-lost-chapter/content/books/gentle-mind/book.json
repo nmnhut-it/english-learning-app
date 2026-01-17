@@ -5,6 +5,6 @@
   "description": "Một hành trình nhẹ nhàng khám phá nghệ thuật ghi nhớ. A gentle journey into the art of remembering.",
   "language": "vi-en",
   "coverImage": null,
-  "chapters": ["ch01", "ch02", "ch03"],
+  "chapters": ["ch01", "ch02", "ch03", "ch04"],
   "tags": ["spaced-repetition", "memory", "mindfulness", "bilingual"]
 }
