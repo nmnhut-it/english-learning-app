@@ -15,14 +15,22 @@ Chào mấy đứa lớp 7. Unit 7 nha - Traffic, giao thông. Các em mở sác
 2. **cycle** : (v) đạp xe /ˈsaɪkl/
 3. **cycle round the lake** : đạp xe vòng quanh hồ /ˈsaɪkl raʊnd ðə leɪk/
 4. **motorbike** : (n) xe máy /ˈməʊtəbaɪk/
-5. **traffic jam** : (n) tắc đường /ˈtræfɪk dʒæm/
-6. **crowded** : (adj) đông đúc /ˈkraʊdɪd/
-7. **cross the road** : băng qua đường /krɒs ðə rəʊd/
-8. **careful** : (adj) cẩn thận /ˈkeəfl/
-9. **especially** : (adv) đặc biệt là /ɪˈspeʃəli/
-10. **How far is it from... to...?** : Từ ... đến ... bao xa?
-11. **How long does it take...?** : Mất bao lâu để...?
-12. **take + ai đó + to + nơi chốn** : đưa ai đó đến một nơi nào đó
+5. **sometimes** : (adv) đôi khi, thỉnh thoảng /ˈsʌmtaɪmz/
+6. **take + ai đó + to + nơi chốn** : đưa ai đó đến một nơi nào đó /teɪk/
+7. **traffic jam** : (n) tắc đường, kẹt xe /ˈtræfɪk dʒæm/
+8. **take longer** : mất nhiều thời gian hơn /teɪk ˈlɒŋɡə/
+9. **especially** : (adv) đặc biệt là, nhất là /ɪˈspeʃəli/
+10. **cross the road** : băng qua đường /krɒs ðə rəʊd/
+11. **crowded** : (adj) đông đúc, chật ních /ˈkraʊdɪd/
+12. **get + adj** : trở nên /ɡet/
+13. **really + adj** : rất, thực sự /ˈrɪəli/
+14. **careful** : (adj) cẩn thận /ˈkeəfl/
+15. **healthy** : (adj) tốt cho sức khỏe, lành mạnh /ˈhelθi/
+16. **rush hours** : (n) giờ cao điểm /rʌʃ ˈaʊəz/
+17. **go shopping** : đi mua sắm /ɡəʊ ˈʃɒpɪŋ/
+18. **see you then** : hẹn gặp lại /siː juː ðen/
+19. **How far is it from... to...?** : Từ ... đến ... bao xa?
+20. **How long does it take...?** : Mất bao lâu để...?
 </vocabulary>
 
 <teacher_script pause="0" action="record">
@@ -251,6 +259,10 @@ Bài 4. Nhìn hình và viết tên phương tiện giao thông. Ghi vô vở c�
 7. **boat** : (n) thuyền /bəʊt/
 8. **ship** : (n) tàu thủy /ʃɪp/
 </vocabulary>
+
+<teacher_script pause="0" action="record">
+Bấm nút Ghi âm để đọc các phương tiện giao thông và gửi cho thầy sửa nha.
+</teacher_script>
 
 ---
 
