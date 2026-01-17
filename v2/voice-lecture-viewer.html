@@ -1236,32 +1236,26 @@ async function playFlashcardWord(id){
     await delay(300);
   }
 
-  // Read English 3 times with beep signal before each
+  // Step 1: Read English word once (introduce the word)
+  await speakAsync(w.word,'en-US');
+  await delay(400);
+
+  // Flip to show meaning
+  card.classList.add('flip');
+  await delay(300);
+
+  // Step 2: Read Vietnamese meaning once (only once to save time)
+  await speakAsync(w.meaning,'vi-VN');
+  await delay(400);
+
+  // Step 3: Read English word 3 times (for student to repeat)
   for(let i=1;i<=3;i++){
     await playRepeatSignal(); // Beep beep to signal "repeat after me"
     await delay(200);
     await speakAsync(w.word,'en-US');
     const repEl=document.getElementById(`${id}-rep-${i}`);
     if(repEl)repEl.classList.add('done');
-    await delay(800); // Time for student to repeat
-  }
-
-  // Flip to show meaning
-  await delay(400);
-  card.classList.add('flip');
-  await delay(500);
-
-  // Short pause before Vietnamese
-  await delay(300);
-
-  // Read Vietnamese 3 times with beep signal
-  for(let i=1;i<=3;i++){
-    await playRepeatSignal();
-    await delay(200);
-    await speakAsync(w.meaning,'vi-VN');
-    const repViEl=document.getElementById(`${id}-rep-vi-${i}`);
-    if(repViEl)repViEl.classList.add('done');
-    await delay(800); // Time for student to repeat
+    await delay(600); // Time for student to repeat
   }
 
   card.classList.remove('flashcard-speaking');
