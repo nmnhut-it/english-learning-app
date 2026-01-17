@@ -1,0 +1,1085 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TTS Admin - Teacher Script Generator</title>
+  <style>
+    :root {
+      --primary: #4f46e5;
+      --primary-hover: #4338ca;
+      --success: #10b981;
+      --warning: #f59e0b;
+      --danger: #ef4444;
+      --bg: #f8fafc;
+      --card: #ffffff;
+      --border: #e2e8f0;
+      --text: #1e293b;
+      --text-muted: #64748b;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+    }
+
+    .container { max-width: 900px; margin: 0 auto; padding: 20px; }
+
+    header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 24px;
+      padding-bottom: 16px;
+      border-bottom: 1px solid var(--border);
+    }
+
+    h1 { font-size: 1.5rem; font-weight: 600; }
+    .quota { font-size: 0.875rem; color: var(--text-muted); }
+
+    .controls {
+      display: flex;
+      gap: 12px;
+      margin-bottom: 20px;
+      flex-wrap: wrap;
+    }
+
+    select, button, textarea {
+      padding: 10px 16px;
+      border-radius: 8px;
+      font-size: 0.9rem;
+      border: 1px solid var(--border);
+      background: var(--card);
+      font-family: inherit;
+    }
+
+    select { flex: 1; min-width: 200px; cursor: pointer; }
+
+    button {
+      background: var(--primary);
+      color: white;
+      border: none;
+      font-weight: 500;
+      transition: background 0.2s;
+      cursor: pointer;
+    }
+
+    button:hover:not(:disabled) { background: var(--primary-hover); }
+    button:disabled { opacity: 0.5; cursor: not-allowed; }
+
+    .btn-secondary { background: var(--card); color: var(--text); border: 1px solid var(--border); }
+    .btn-secondary:hover:not(:disabled) { background: var(--bg); }
+    .btn-success { background: var(--success); }
+    .btn-success:hover:not(:disabled) { background: #059669; }
+    .btn-warning { background: var(--warning); }
+    .btn-warning:hover:not(:disabled) { background: #d97706; }
+    .btn-danger { background: var(--danger); }
+    .btn-danger:hover:not(:disabled) { background: #dc2626; }
+
+    .card {
+      background: var(--card);
+      border-radius: 12px;
+      padding: 24px;
+      margin-bottom: 20px;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+    }
+
+    .progress-bar {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 16px;
+      font-size: 0.9rem;
+    }
+
+    .progress-track {
+      flex: 1;
+      height: 8px;
+      background: var(--border);
+      border-radius: 4px;
+      margin: 0 16px;
+      overflow: hidden;
+    }
+
+    .progress-fill {
+      height: 100%;
+      background: var(--primary);
+      border-radius: 4px;
+      transition: width 0.3s;
+    }
+
+    .script-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 16px;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+
+    .script-meta { display: flex; gap: 8px; font-size: 0.875rem; flex-wrap: wrap; }
+
+    .badge {
+      padding: 4px 10px;
+      border-radius: 20px;
+      font-size: 0.75rem;
+      font-weight: 500;
+    }
+
+    .badge-pause { background: #dbeafe; color: #1d4ed8; }
+    .badge-hash { background: #f3e8ff; color: #7c3aed; font-family: monospace; }
+    .badge-has-audio { background: #d1fae5; color: #065f46; }
+    .badge-no-audio { background: #fee2e2; color: #991b1b; }
+    .badge-found { background: #fef3c7; color: #92400e; }
+
+    .script-text {
+      background: var(--bg);
+      padding: 16px;
+      border-radius: 8px;
+      font-size: 0.95rem;
+      line-height: 1.8;
+      margin-bottom: 16px;
+      white-space: pre-wrap;
+      max-height: 150px;
+      overflow-y: auto;
+    }
+
+    .script-text eng {
+      background: #fef3c7;
+      padding: 2px 6px;
+      border-radius: 4px;
+      font-weight: 500;
+    }
+
+    .tts-section {
+      margin-bottom: 16px;
+    }
+
+    .tts-section label {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 8px;
+      font-weight: 500;
+      font-size: 0.9rem;
+    }
+
+    .tts-textarea {
+      width: 100%;
+      min-height: 100px;
+      resize: vertical;
+      line-height: 1.6;
+    }
+
+    .template-select {
+      padding: 6px 12px;
+      font-size: 0.8rem;
+    }
+
+    .audio-player { margin-bottom: 16px; }
+    audio { width: 100%; }
+
+    .action-buttons {
+      display: flex;
+      gap: 12px;
+      flex-wrap: wrap;
+      align-items: center;
+    }
+
+    .nav-buttons { display: flex; gap: 8px; }
+
+    .loading {
+      display: none;
+      align-items: center;
+      gap: 8px;
+      color: var(--text-muted);
+    }
+
+    .loading.active { display: flex; }
+
+    .spinner {
+      width: 20px;
+      height: 20px;
+      border: 2px solid var(--border);
+      border-top-color: var(--primary);
+      border-radius: 50%;
+      animation: spin 0.8s linear infinite;
+    }
+
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    .empty-state { text-align: center; padding: 48px; color: var(--text-muted); }
+
+    .status-message {
+      padding: 12px 16px;
+      border-radius: 8px;
+      margin-bottom: 16px;
+      display: none;
+    }
+
+    .status-message.success { display: block; background: #d1fae5; color: #065f46; }
+    .status-message.error { display: block; background: #fee2e2; color: #991b1b; }
+
+    /* Batch checkbox */
+    .queue-check {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 0.85rem;
+      color: var(--text-muted);
+    }
+    .queue-check input { width: 16px; height: 16px; cursor: pointer; }
+    .queue-check.checked { color: var(--primary); font-weight: 500; }
+
+    /* Modal */
+    .modal {
+      display: none;
+      position: fixed;
+      top: 0; left: 0; right: 0; bottom: 0;
+      background: rgba(0,0,0,0.5);
+      z-index: 1000;
+      align-items: center;
+      justify-content: center;
+    }
+    .modal.active { display: flex; }
+    .modal-content {
+      background: var(--card);
+      border-radius: 12px;
+      padding: 24px;
+      width: 90%;
+      max-width: 600px;
+      max-height: 80vh;
+      overflow-y: auto;
+    }
+    .modal-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 16px;
+    }
+    .modal-header h2 { font-size: 1.2rem; }
+    .modal-close {
+      background: none;
+      border: none;
+      font-size: 1.5rem;
+      cursor: pointer;
+      color: var(--text-muted);
+      padding: 0;
+    }
+    .batch-progress {
+      margin-bottom: 16px;
+      font-size: 0.9rem;
+      color: var(--text-muted);
+    }
+    .batch-progress-bar {
+      height: 8px;
+      background: var(--border);
+      border-radius: 4px;
+      overflow: hidden;
+      margin-top: 8px;
+    }
+    .batch-progress-fill {
+      height: 100%;
+      background: var(--success);
+      transition: width 0.3s;
+    }
+    .batch-list {
+      max-height: 300px;
+      overflow-y: auto;
+      margin-bottom: 16px;
+    }
+    .batch-item {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      padding: 8px 12px;
+      border-radius: 6px;
+      margin-bottom: 4px;
+      font-size: 0.85rem;
+      background: var(--bg);
+    }
+    .batch-item.current { background: #dbeafe; }
+    .batch-item.done { background: #d1fae5; }
+    .batch-item.error { background: #fee2e2; }
+    .batch-item-index { font-weight: 600; min-width: 30px; }
+    .batch-item-text { flex: 1; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+    .batch-item-status { font-size: 0.75rem; padding: 2px 8px; border-radius: 10px; }
+    .batch-item-status.pending { background: var(--border); }
+    .batch-item-status.generating { background: #dbeafe; color: #1d4ed8; }
+    .batch-item-status.done { background: #d1fae5; color: #065f46; }
+    .batch-item-status.error { background: #fee2e2; color: #991b1b; }
+    .modal-actions { display: flex; gap: 12px; justify-content: flex-end; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>TTS Admin</h1>
+      <div class="quota" id="quota">Loading quota...</div>
+    </header>
+
+    <div class="controls">
+      <select id="fileSelect">
+        <option value="">Select a markdown file...</option>
+      </select>
+      <select id="voiceSelect">
+        <option value="">Select a voice...</option>
+      </select>
+    </div>
+
+    <div id="statusMessage" class="status-message"></div>
+
+    <div id="scriptContainer" class="card" style="display: none;">
+      <div class="progress-bar">
+        <span id="progressText">Script 1/10</span>
+        <div class="progress-track">
+          <div class="progress-fill" id="progressFill" style="width: 0%"></div>
+        </div>
+        <span id="generatedCount">0 generated</span>
+      </div>
+
+      <div class="script-header">
+        <div class="script-meta">
+          <span class="badge badge-pause" id="pauseBadge">pause: 0</span>
+          <span class="badge badge-hash" id="hashBadge">hash: --------</span>
+          <span class="badge" id="audioBadge">No audio</span>
+          <label class="queue-check" id="queueCheck">
+            <input type="checkbox" id="queueCheckbox" />
+            <span>Queued</span>
+          </label>
+        </div>
+        <div class="loading" id="loading">
+          <div class="spinner"></div>
+          <span>Processing...</span>
+        </div>
+      </div>
+
+      <div class="script-text" id="scriptText"></div>
+
+      <div class="tts-section">
+        <label>
+          <span>TTS Text (editable):</span>
+          <select id="templateSelect" class="template-select">
+            <option value="">-- Templates --</option>
+            <option value="Sửa bài nếu sai. 30 giây nha.">Sửa bài (30s)</option>
+            <option value="Ok đáp án nè.">Ok đáp án nè</option>
+            <option value="Nếu cần hỏi thì nhấn thu âm bên dưới nha.">Nhấn thu âm</option>
+            <option value="Mấy đứa sửa bài dịch nếu sai. Sau đó qua bài tiếp theo.">Sửa bài dịch</option>
+          </select>
+        </label>
+        <textarea id="ttsTextarea" class="tts-textarea"></textarea>
+      </div>
+
+      <div class="audio-player" id="audioPlayer" style="display: none;">
+        <audio id="audioElement" controls></audio>
+      </div>
+
+      <div class="action-buttons">
+        <button id="generateBtn" class="btn-success">Generate Audio</button>
+        <button id="regenBtn" class="btn-danger" style="display: none;">Regenerate</button>
+        <button id="linkBtn" class="btn-warning" style="display: none;">Link Existing</button>
+        <button id="saveTextBtn" class="btn-secondary">Save Text</button>
+        <button id="batchBtn" class="btn-primary" style="display: none;">Generate Checked (0)</button>
+        <div style="flex: 1;"></div>
+        <div class="nav-buttons">
+          <button id="prevBtn" class="btn-secondary">← Prev</button>
+          <button id="nextBtn" class="btn-secondary">Next →</button>
+        </div>
+      </div>
+    </div>
+
+    <div id="emptyState" class="card empty-state">
+      <p>Select a markdown file to start reviewing teacher scripts.</p>
+    </div>
+
+    <!-- Batch Generation Modal -->
+    <div id="batchModal" class="modal">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h2>Batch Generation</h2>
+          <button class="modal-close" id="modalClose">&times;</button>
+        </div>
+        <div class="batch-progress" id="batchProgressText">
+          Ready to generate <span id="batchTotal">0</span> scripts
+          <div class="batch-progress-bar">
+            <div class="batch-progress-fill" id="batchProgressFill" style="width: 0%"></div>
+          </div>
+        </div>
+        <div class="batch-list" id="batchList"></div>
+        <div class="modal-actions">
+          <button id="stopBatchBtn" class="btn-danger" style="display: none;">Stop</button>
+          <button id="startBatchBtn" class="btn-success">Start Generation</button>
+          <button id="closeBatchBtn" class="btn-secondary">Close</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    // State
+    const state = {
+      files: [],
+      voices: [],
+      scripts: [],
+      currentIndex: 0,
+      currentFile: '',
+      selectedVoiceId: '',
+      editedText: '',
+      currentHash: '',
+      audioLookup: null,
+      checkedScripts: new Set(),
+      batchRunning: false
+    };
+
+    // DOM Elements
+    const el = {
+      fileSelect: document.getElementById('fileSelect'),
+      voiceSelect: document.getElementById('voiceSelect'),
+      scriptContainer: document.getElementById('scriptContainer'),
+      emptyState: document.getElementById('emptyState'),
+      scriptText: document.getElementById('scriptText'),
+      ttsTextarea: document.getElementById('ttsTextarea'),
+      templateSelect: document.getElementById('templateSelect'),
+      pauseBadge: document.getElementById('pauseBadge'),
+      hashBadge: document.getElementById('hashBadge'),
+      audioBadge: document.getElementById('audioBadge'),
+      audioPlayer: document.getElementById('audioPlayer'),
+      audioElement: document.getElementById('audioElement'),
+      generateBtn: document.getElementById('generateBtn'),
+      regenBtn: document.getElementById('regenBtn'),
+      linkBtn: document.getElementById('linkBtn'),
+      saveTextBtn: document.getElementById('saveTextBtn'),
+      prevBtn: document.getElementById('prevBtn'),
+      nextBtn: document.getElementById('nextBtn'),
+      progressText: document.getElementById('progressText'),
+      progressFill: document.getElementById('progressFill'),
+      generatedCount: document.getElementById('generatedCount'),
+      loading: document.getElementById('loading'),
+      quota: document.getElementById('quota'),
+      statusMessage: document.getElementById('statusMessage'),
+      // Batch elements
+      queueCheck: document.getElementById('queueCheck'),
+      queueCheckbox: document.getElementById('queueCheckbox'),
+      batchBtn: document.getElementById('batchBtn'),
+      batchModal: document.getElementById('batchModal'),
+      batchList: document.getElementById('batchList'),
+      batchTotal: document.getElementById('batchTotal'),
+      batchProgressFill: document.getElementById('batchProgressFill'),
+      batchProgressText: document.getElementById('batchProgressText'),
+      startBatchBtn: document.getElementById('startBatchBtn'),
+      stopBatchBtn: document.getElementById('stopBatchBtn'),
+      closeBatchBtn: document.getElementById('closeBatchBtn'),
+      modalClose: document.getElementById('modalClose')
+    };
+
+    // API helper
+    async function api(endpoint, options = {}) {
+      const response = await fetch(`/api${endpoint}`, {
+        headers: { 'Content-Type': 'application/json' },
+        ...options,
+        body: options.body ? JSON.stringify(options.body) : undefined
+      });
+      return response.json();
+    }
+
+    // Hash function (same as server)
+    async function computeHash(text) {
+      const encoder = new TextEncoder();
+      const data = encoder.encode(text);
+      const hashBuffer = await crypto.subtle.digest('MD5', data).catch(() => null);
+      if (!hashBuffer) {
+        // Fallback: simple hash
+        let hash = 0;
+        for (let i = 0; i < text.length; i++) {
+          hash = ((hash << 5) - hash) + text.charCodeAt(i);
+          hash |= 0;
+        }
+        return Math.abs(hash).toString(16).slice(0, 8).padStart(8, '0');
+      }
+      const hashArray = Array.from(new Uint8Array(hashBuffer));
+      return hashArray.map(b => b.toString(16).padStart(2, '0')).join('').slice(0, 8);
+    }
+
+    // Simple hash for client side
+    function simpleHash(text) {
+      let hash = 0;
+      for (let i = 0; i < text.length; i++) {
+        const char = text.charCodeAt(i);
+        hash = ((hash << 5) - hash) + char;
+        hash = hash & hash;
+      }
+      return Math.abs(hash).toString(16).slice(0, 8).padStart(8, '0');
+    }
+
+    // Initialize
+    async function init() {
+      try {
+        const [filesRes, voicesRes, subRes] = await Promise.all([
+          api('/files'),
+          api('/voices'),
+          api('/subscription')
+        ]);
+
+        if (filesRes.success) {
+          state.files = filesRes.files;
+          populateFileSelect();
+        }
+
+        if (voicesRes.success) {
+          state.voices = voicesRes.voices;
+          populateVoiceSelect();
+        }
+
+        if (subRes.success) {
+          const used = subRes.character_count || 0;
+          const limit = subRes.character_limit || 0;
+          el.quota.textContent = `${used.toLocaleString()} / ${limit.toLocaleString()} chars`;
+        }
+      } catch (error) {
+        showStatus('Failed to load data: ' + error.message, 'error');
+      }
+    }
+
+    function populateFileSelect() {
+      const groups = {};
+      state.files.forEach(file => {
+        const key = file.grade;
+        if (!groups[key]) groups[key] = [];
+        groups[key].push(file);
+      });
+
+      Object.entries(groups).forEach(([grade, files]) => {
+        const optgroup = document.createElement('optgroup');
+        optgroup.label = grade.toUpperCase();
+        files.forEach(file => {
+          const option = document.createElement('option');
+          option.value = file.path;
+          option.textContent = `${file.unit} / ${file.section}`;
+          optgroup.appendChild(option);
+        });
+        el.fileSelect.appendChild(optgroup);
+      });
+    }
+
+    function populateVoiceSelect() {
+      // Sort: custom voices first, then premade
+      const sorted = [...state.voices].sort((a, b) => {
+        if (a.category === 'custom' && b.category !== 'custom') return -1;
+        if (a.category !== 'custom' && b.category === 'custom') return 1;
+        return a.name.localeCompare(b.name);
+      });
+
+      sorted.forEach(voice => {
+        const option = document.createElement('option');
+        option.value = voice.voice_id;
+        option.textContent = voice.name;
+        el.voiceSelect.appendChild(option);
+      });
+
+      // Default to "N" voice (user's custom voice), fallback to first
+      const defaultVoice = sorted.find(v => v.name === 'N') || sorted[0];
+      if (defaultVoice) {
+        el.voiceSelect.value = defaultVoice.voice_id;
+        state.selectedVoiceId = defaultVoice.voice_id;
+      }
+    }
+
+    async function loadFile(filePath) {
+      if (!filePath) {
+        el.scriptContainer.style.display = 'none';
+        el.emptyState.style.display = 'block';
+        return;
+      }
+
+      try {
+        const res = await api(`/file/${filePath}`);
+        if (res.success) {
+          state.scripts = res.scripts;
+          state.currentFile = filePath;
+          state.currentIndex = 0;
+          state.checkedScripts.clear();
+          el.emptyState.style.display = 'none';
+          el.scriptContainer.style.display = 'block';
+          await renderScript();
+        }
+      } catch (error) {
+        showStatus('Failed to load file: ' + error.message, 'error');
+      }
+    }
+
+    async function renderScript() {
+      const script = state.scripts[state.currentIndex];
+      if (!script) return;
+
+      // Update raw text display
+      const highlightedText = script.text.replace(/<eng>([\s\S]*?)<\/eng>/gi, '<eng>$1</eng>');
+      el.scriptText.innerHTML = highlightedText;
+
+      // Update editable TTS text
+      el.ttsTextarea.value = script.cleanedText;
+      state.editedText = script.cleanedText;
+      state.currentHash = script.hash;
+
+      // Update badges
+      el.pauseBadge.textContent = `pause: ${script.pause}s`;
+      el.hashBadge.textContent = `#${script.hash}`;
+
+      // Check audio status
+      await checkAudioStatus(script);
+
+      // Update progress
+      const total = state.scripts.length;
+      const current = state.currentIndex + 1;
+      const generated = state.scripts.filter(s => s.href).length;
+
+      el.progressText.textContent = `Script ${current}/${total}`;
+      el.progressFill.style.width = `${(current / total) * 100}%`;
+      el.generatedCount.textContent = `${generated} linked`;
+
+      // Update nav buttons
+      el.prevBtn.disabled = state.currentIndex === 0;
+      el.nextBtn.disabled = state.currentIndex === total - 1;
+
+      // Update queue checkbox
+      updateQueueCheckbox();
+      updateBatchButton();
+    }
+
+    function updateQueueCheckbox() {
+      const isChecked = state.checkedScripts.has(state.currentIndex);
+      el.queueCheckbox.checked = isChecked;
+      el.queueCheck.classList.toggle('checked', isChecked);
+    }
+
+    function updateBatchButton() {
+      const count = state.checkedScripts.size;
+      el.batchBtn.textContent = `Generate Checked (${count})`;
+      el.batchBtn.style.display = count > 0 ? 'inline-block' : 'none';
+    }
+
+    function toggleQueueScript(index, checked) {
+      if (checked) {
+        state.checkedScripts.add(index);
+      } else {
+        state.checkedScripts.delete(index);
+      }
+      updateQueueCheckbox();
+      updateBatchButton();
+    }
+
+    async function checkAudioStatus(script) {
+      // First check if already linked
+      if (script.href) {
+        el.audioBadge.className = 'badge badge-has-audio';
+        el.audioBadge.textContent = 'Linked';
+        el.audioPlayer.style.display = 'block';
+        el.audioElement.src = '/' + script.href;
+        el.linkBtn.style.display = 'none';
+        el.regenBtn.style.display = 'inline-block';
+        state.audioLookup = { exists: true, href: script.href };
+        return;
+      }
+
+      // Hide regen button if not linked
+      el.regenBtn.style.display = 'none';
+
+      // Lookup by hash
+      try {
+        const res = await api(`/audio-lookup/${state.currentHash}`);
+        if (res.success && res.exists) {
+          el.audioBadge.className = 'badge badge-found';
+          el.audioBadge.textContent = 'Audio found!';
+          el.audioPlayer.style.display = 'block';
+          el.audioElement.src = '/' + res.href;
+          el.linkBtn.style.display = 'inline-block';
+          state.audioLookup = res;
+        } else {
+          el.audioBadge.className = 'badge badge-no-audio';
+          el.audioBadge.textContent = 'No audio';
+          el.audioPlayer.style.display = 'none';
+          el.linkBtn.style.display = 'none';
+          state.audioLookup = null;
+        }
+      } catch (error) {
+        el.audioBadge.className = 'badge badge-no-audio';
+        el.audioBadge.textContent = 'No audio';
+        el.audioPlayer.style.display = 'none';
+        el.linkBtn.style.display = 'none';
+        state.audioLookup = null;
+      }
+    }
+
+    // Debounce function
+    function debounce(fn, delay) {
+      let timeout;
+      return (...args) => {
+        clearTimeout(timeout);
+        timeout = setTimeout(() => fn(...args), delay);
+      };
+    }
+
+    // Handle text change
+    const handleTextChange = debounce(async () => {
+      const text = el.ttsTextarea.value.trim();
+      state.editedText = text;
+
+      // Compute new hash
+      const newHash = simpleHash(text);
+      state.currentHash = newHash;
+      el.hashBadge.textContent = `#${newHash}`;
+
+      // Lookup audio for new hash
+      try {
+        const res = await api(`/audio-lookup/${newHash}`);
+        if (res.success && res.exists) {
+          el.audioBadge.className = 'badge badge-found';
+          el.audioBadge.textContent = 'Audio found!';
+          el.audioPlayer.style.display = 'block';
+          el.audioElement.src = '/' + res.href;
+          el.linkBtn.style.display = 'inline-block';
+          state.audioLookup = res;
+        } else {
+          el.audioBadge.className = 'badge badge-no-audio';
+          el.audioBadge.textContent = 'No audio';
+          el.audioPlayer.style.display = 'none';
+          el.linkBtn.style.display = 'none';
+          state.audioLookup = null;
+        }
+      } catch (error) {
+        console.error('Lookup error:', error);
+      }
+    }, 500);
+
+    async function generateAudio(forceRegenerate = false) {
+      const script = state.scripts[state.currentIndex];
+      const voiceId = el.voiceSelect.value;
+      const text = el.ttsTextarea.value.trim();
+
+      if (!voiceId) {
+        showStatus('Please select a voice first', 'error');
+        return;
+      }
+
+      if (!text) {
+        showStatus('TTS text is empty', 'error');
+        return;
+      }
+
+      el.loading.classList.add('active');
+      el.generateBtn.disabled = true;
+      el.regenBtn.disabled = true;
+
+      try {
+        const res = await api('/generate', {
+          method: 'POST',
+          body: {
+            filePath: state.currentFile,
+            scriptIndex: script.index,
+            voiceId,
+            cleanedText: text,
+            hash: state.currentHash,
+            forceRegenerate
+          }
+        });
+
+        if (res.success) {
+          script.href = res.href;
+          script.cleanedText = text;
+          script.hash = state.currentHash;
+          const msg = forceRegenerate ? 'Audio regenerated!' : (res.cached ? 'Audio reused!' : 'Audio generated!');
+          showStatus(msg, 'success');
+          await renderScript();
+        } else {
+          showStatus('Failed: ' + res.error, 'error');
+        }
+      } catch (error) {
+        showStatus('Error: ' + error.message, 'error');
+      } finally {
+        el.loading.classList.remove('active');
+        el.generateBtn.disabled = false;
+        el.regenBtn.disabled = false;
+      }
+    }
+
+    async function linkExisting() {
+      if (!state.audioLookup || !state.audioLookup.href) return;
+
+      const script = state.scripts[state.currentIndex];
+      el.loading.classList.add('active');
+
+      try {
+        const res = await api('/update-href', {
+          method: 'POST',
+          body: {
+            filePath: state.currentFile,
+            scriptIndex: script.index,
+            href: state.audioLookup.href
+          }
+        });
+
+        if (res.success) {
+          script.href = state.audioLookup.href;
+          showStatus('Audio linked!', 'success');
+          await renderScript();
+        } else {
+          showStatus('Failed: ' + res.error, 'error');
+        }
+      } catch (error) {
+        showStatus('Error: ' + error.message, 'error');
+      } finally {
+        el.loading.classList.remove('active');
+      }
+    }
+
+    async function saveText() {
+      const script = state.scripts[state.currentIndex];
+      const newText = el.ttsTextarea.value.trim();
+
+      if (newText === script.cleanedText) {
+        showStatus('No changes to save', 'error');
+        return;
+      }
+
+      el.loading.classList.add('active');
+
+      try {
+        const res = await api('/update-script', {
+          method: 'POST',
+          body: {
+            filePath: state.currentFile,
+            scriptIndex: script.index,
+            newText
+          }
+        });
+
+        if (res.success) {
+          script.cleanedText = newText;
+          script.hash = res.newHash;
+          state.currentHash = res.newHash;
+          el.hashBadge.textContent = `#${res.newHash}`;
+          showStatus('Text saved to markdown!', 'success');
+          await checkAudioStatus(script);
+        } else {
+          showStatus('Failed: ' + res.error, 'error');
+        }
+      } catch (error) {
+        showStatus('Error: ' + error.message, 'error');
+      } finally {
+        el.loading.classList.remove('active');
+      }
+    }
+
+    function showStatus(message, type) {
+      el.statusMessage.textContent = message;
+      el.statusMessage.className = `status-message ${type}`;
+      setTimeout(() => {
+        el.statusMessage.className = 'status-message';
+      }, 3000);
+    }
+
+    // === Batch Generation ===
+    function openBatchModal() {
+      if (state.checkedScripts.size === 0) {
+        showStatus('No scripts queued for generation', 'error');
+        return;
+      }
+
+      // Build list of scripts to generate (skip those with existing audio)
+      const checked = Array.from(state.checkedScripts).sort((a, b) => a - b);
+      const toGenerate = checked.filter(i => !state.scripts[i].href);
+
+      el.batchList.innerHTML = '';
+      checked.forEach(i => {
+        const script = state.scripts[i];
+        const hasAudio = !!script.href;
+        const item = document.createElement('div');
+        item.className = 'batch-item';
+        item.id = `batch-item-${i}`;
+        item.innerHTML = `
+          <span class="batch-item-index">#${i + 1}</span>
+          <span class="batch-item-text">${script.cleanedText.slice(0, 60)}...</span>
+          <span class="batch-item-status ${hasAudio ? 'done' : 'pending'}">
+            ${hasAudio ? 'Has audio' : 'Pending'}
+          </span>
+        `;
+        el.batchList.appendChild(item);
+      });
+
+      el.batchTotal.textContent = toGenerate.length;
+      el.batchProgressFill.style.width = '0%';
+      el.startBatchBtn.style.display = toGenerate.length > 0 ? 'inline-block' : 'none';
+      el.stopBatchBtn.style.display = 'none';
+      el.closeBatchBtn.style.display = 'inline-block';
+      el.batchModal.classList.add('active');
+    }
+
+    function closeBatchModal() {
+      if (state.batchRunning) {
+        state.batchRunning = false;
+      }
+      el.batchModal.classList.remove('active');
+    }
+
+    async function startBatchGeneration() {
+      const checked = Array.from(state.checkedScripts).sort((a, b) => a - b);
+      const toGenerate = checked.filter(i => !state.scripts[i].href);
+
+      if (toGenerate.length === 0) {
+        showStatus('All scripts already have audio', 'success');
+        closeBatchModal();
+        return;
+      }
+
+      state.batchRunning = true;
+      el.startBatchBtn.style.display = 'none';
+      el.stopBatchBtn.style.display = 'inline-block';
+      el.closeBatchBtn.style.display = 'none';
+
+      let completed = 0;
+      const voiceId = el.voiceSelect.value;
+
+      for (const scriptIndex of toGenerate) {
+        if (!state.batchRunning) break;
+
+        const script = state.scripts[scriptIndex];
+        const item = document.getElementById(`batch-item-${scriptIndex}`);
+
+        // Update UI to show current
+        item.className = 'batch-item current';
+        item.querySelector('.batch-item-status').className = 'batch-item-status generating';
+        item.querySelector('.batch-item-status').textContent = 'Generating...';
+
+        try {
+          // First check if audio exists by hash (auto-link)
+          const lookupRes = await api(`/audio-lookup/${script.hash}`);
+          if (lookupRes.success && lookupRes.exists) {
+            // Auto-link existing audio
+            await api('/update-href', {
+              method: 'POST',
+              body: {
+                filePath: state.currentFile,
+                scriptIndex: script.index,
+                href: lookupRes.href
+              }
+            });
+            script.href = lookupRes.href;
+          } else {
+            // Generate new audio
+            const res = await api('/generate', {
+              method: 'POST',
+              body: {
+                filePath: state.currentFile,
+                scriptIndex: script.index,
+                voiceId,
+                cleanedText: script.cleanedText,
+                hash: script.hash,
+                forceRegenerate: false
+              }
+            });
+
+            if (res.success) {
+              script.href = res.href;
+            } else {
+              throw new Error(res.error);
+            }
+          }
+
+          item.className = 'batch-item done';
+          item.querySelector('.batch-item-status').className = 'batch-item-status done';
+          item.querySelector('.batch-item-status').textContent = 'Done';
+
+        } catch (error) {
+          item.className = 'batch-item error';
+          item.querySelector('.batch-item-status').className = 'batch-item-status error';
+          item.querySelector('.batch-item-status').textContent = 'Error';
+          console.error(`Error generating script ${scriptIndex}:`, error);
+        }
+
+        completed++;
+        const progress = (completed / toGenerate.length) * 100;
+        el.batchProgressFill.style.width = `${progress}%`;
+        el.batchProgressText.firstChild.textContent = `Generated ${completed} of ${toGenerate.length} scripts`;
+      }
+
+      state.batchRunning = false;
+      el.stopBatchBtn.style.display = 'none';
+      el.closeBatchBtn.style.display = 'inline-block';
+
+      // Clear checked scripts that were generated
+      toGenerate.forEach(i => {
+        if (state.scripts[i].href) {
+          state.checkedScripts.delete(i);
+        }
+      });
+      updateBatchButton();
+
+      // Refresh current script display
+      await renderScript();
+      showStatus(`Batch complete: ${completed} scripts processed`, 'success');
+    }
+
+    // Event listeners
+    el.fileSelect.addEventListener('change', (e) => loadFile(e.target.value));
+    el.voiceSelect.addEventListener('change', (e) => state.selectedVoiceId = e.target.value);
+    el.ttsTextarea.addEventListener('input', handleTextChange);
+    el.templateSelect.addEventListener('change', (e) => {
+      if (e.target.value) {
+        el.ttsTextarea.value = e.target.value;
+        e.target.value = '';
+        handleTextChange();
+      }
+    });
+    el.generateBtn.addEventListener('click', () => generateAudio(false));
+    el.regenBtn.addEventListener('click', () => generateAudio(true));
+    el.linkBtn.addEventListener('click', linkExisting);
+    el.saveTextBtn.addEventListener('click', saveText);
+    el.prevBtn.addEventListener('click', async () => {
+      if (state.currentIndex > 0) {
+        state.currentIndex--;
+        await renderScript();
+      }
+    });
+    el.nextBtn.addEventListener('click', async () => {
+      if (state.currentIndex < state.scripts.length - 1) {
+        // Auto-check current script before moving to next
+        state.checkedScripts.add(state.currentIndex);
+        state.currentIndex++;
+        await renderScript();
+      }
+    });
+
+    // Batch event listeners
+    el.queueCheckbox.addEventListener('change', (e) => {
+      toggleQueueScript(state.currentIndex, e.target.checked);
+    });
+    el.batchBtn.addEventListener('click', openBatchModal);
+    el.startBatchBtn.addEventListener('click', startBatchGeneration);
+    el.stopBatchBtn.addEventListener('click', () => { state.batchRunning = false; });
+    el.closeBatchBtn.addEventListener('click', closeBatchModal);
+    el.modalClose.addEventListener('click', closeBatchModal);
+
+    // Keyboard shortcuts: ←→ nav, G generate, R regen, L link, B batch, Space play
+    document.addEventListener('keydown', (e) => {
+      if (e.target.tagName === 'TEXTAREA' || e.target.tagName === 'SELECT') return;
+      if (el.batchModal.classList.contains('active')) {
+        if (e.key === 'Escape') closeBatchModal();
+        return;
+      }
+      if (e.key === 'ArrowLeft') el.prevBtn.click();
+      if (e.key === 'ArrowRight') el.nextBtn.click();
+      if (e.key === 'g' || e.key === 'G') el.generateBtn.click();
+      if (e.key === 'r' || e.key === 'R') el.regenBtn.click();
+      if (e.key === 'l' || e.key === 'L') el.linkBtn.click();
+      if (e.key === 'b' || e.key === 'B') openBatchModal();
+      if (e.key === ' ') { e.preventDefault(); el.audioElement.play(); }
+    });
+
+    // Initialize
+    init();
+  </script>
+</body>
+</html>

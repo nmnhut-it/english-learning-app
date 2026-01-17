@@ -3,15 +3,11 @@
 ## GETTING STARTED - What's on today?
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
-Chào mấy đứa. Hôm nay thầy kẹt lịch nên không dạy ở nhà được. Đây là bài đầu tiên, Unit 7 - <eng>Television</eng>. Coi TV thì ai cũng thích rồi, unit này vui lắm.
+<teacher_script pause="0" href="audio/tts_f9ff5f46.mp3">
+Chào mấy đứa. Hôm nay thầy kẹt lịch nên không dạy ở nhà được. Đây là bài đầu tiên, Unit 7 - <eng>Television</eng>. 
 </teacher_script>
 
-<teacher_script pause="0">
-Các em có thể học bài này nhiều lần để nhớ lâu hơn hen.
-</teacher_script>
-
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_53aaad95.mp3">
 Các em mở sách ra, Unit 7, bài <eng>Getting Started</eng>, ghi tựa bài. Sau đó bấm nút "Bắt đầu" bên dưới để học từ vựng. Máy sẽ đọc và các em đọc theo. Sau đó các em làm bài trắc nghiệm từ vựng rồi ghi từ vựng vô tập.
 </teacher_script>
 
@@ -40,7 +36,7 @@ Các em mở sách ra, Unit 7, bài <eng>Getting Started</eng>, ghi tựa bài. 
 <!-- chunk: exercise_1 -->
 ### Bài 1 trang 6 - Listen and read
 
-<teacher_script pause="180">
+<teacher_script pause="180" href="audio/tts_a53c7638.mp3">
 Bài 1 <eng>Listen and read</eng> nha. Đây là hội thoại Phong với Hùng nói về các chương trình TV. Đọc hội thoại và dịch vô tập. 3 phút hen.
 </teacher_script>
 
@@ -63,7 +59,7 @@ Bài 1 <eng>Listen and read</eng> nha. Đây là hội thoại Phong với Hùng
 ---
 
 <!-- chunk: translation -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_7d199934.mp3">
 Ok đây là bản dịch. So sánh với bài dịch của mình nha.
 </teacher_script>
 
@@ -82,7 +78,7 @@ Ok đây là bản dịch. So sánh với bài dịch của mình nha.
 **Hùng:** Nghe hay đấy. Tôi cũng sẽ xem.
 </translation>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_2904e2d0.mp3">
 Mấy đứa sửa bài dịch nếu sai. Sau đó qua bài tiếp theo.
 </teacher_script>
 
@@ -91,7 +87,7 @@ Mấy đứa sửa bài dịch nếu sai. Sau đó qua bài tiếp theo.
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 7 - Choose the correct answer
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_47fb2e5b.mp3">
 Bài 2 <eng>Choose the correct answer A, B, or C</eng>. Đọc lại hội thoại, chọn đáp án đúng. 1 phút nha. Bài này dễ mà, ai sai là đang ngủ gục đó.
 </teacher_script>
 
@@ -210,10 +206,6 @@ Thầy sửa đáp án nha. Các em kiểm tra lại.
 </explanation>
 
 <teacher_script pause="0">
-Ai nhầm <eng>Lion King</eng> với <eng>cartoon</eng> là chưa hiểu sự khác biệt đó nha. <eng>Lion King</eng> là phim dài có cốt truyện, còn <eng>Tom and Jerry</eng> là phim ngắn từng tập.
-</teacher_script>
-
-<teacher_script pause="0">
 Nếu cần hỏi thì nhấn thu âm bên dưới nha.
 </teacher_script>
 
@@ -269,7 +261,7 @@ Ok đáp án và giải thích nè.
 </explanation>
 
 <teacher_script pause="0">
-Mẹo tìm tính từ nè: tìm các từ đứng trước danh từ hoặc đứng sau <eng>is</eng>, <eng>are</eng>. Ví dụ <eng>is very interesting</eng> thì <eng>interesting</eng> là tính từ.
+Các em ghi nhớ: các tính từ đứng trước danh từ hoặc đứng sau <eng>is</eng>, <eng>are</eng>. Ví dụ <eng>is very interesting</eng> thì <eng>interesting</eng> là tính từ. Chúng là các từ chỉ tính chất của sự vật, hiện tượng. Ví dụ như tốt, xấu, cao, thấp, mập, lùn, ốm, hay, dở, vâng vâng
 </teacher_script>
 
 <teacher_script pause="30">
