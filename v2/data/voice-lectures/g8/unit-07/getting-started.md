@@ -53,7 +53,7 @@ Bấm nút Ghi âm để đọc lại và gửi cho thầy sửa nha.
 ### Bài 1 trang 72 - Listen and read
 
 <teacher_script pause="0">
-Bài 1, nghe và đọc hội thoại. Đây là buổi họp câu lạc bộ môi trường.
+Bài 1. Nghe và đọc hội thoại. Đây là buổi họp câu lạc bộ môi trường, tụi nó đang thảo luận về các vấn đề môi trường.
 </teacher_script>
 
 <task>
@@ -252,7 +252,7 @@ Bài 4, hoàn thành các cụm từ. 45 giây thôi.
 ### Bài 5 trang 73 - Quiz
 
 <teacher_script pause="60">
-Bài 5, trắc nghiệm về bảo vệ môi trường. 1 phút nha.
+Bài 5. Trắc nghiệm: Bạn có thân thiện với môi trường không? Chọn câu trả lời phù hợp với bản thân. 1 phút nha.
 </teacher_script>
 
 <task>

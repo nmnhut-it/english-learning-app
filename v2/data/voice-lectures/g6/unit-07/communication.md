@@ -294,8 +294,8 @@ Record xong bấm tiếp tục nha.
 <!-- chunk: exercise_3_intro -->
 ### Bài 3 trang 11 - Complete the facts
 
-<teacher_script pause="0">
-Bài 3 nha. Thảo luận và hoàn thành các sự thật thú vị về TV.
+<teacher_script pause="45">
+Bài 3. Điền tên quốc gia phù hợp từ khung vào chỗ trống. 4 câu và 4 quốc gia: Japan, Viet Nam, Iceland, the USA. 45 giây nha.
 </teacher_script>
 
 <task>
@@ -323,30 +323,6 @@ Bài 3 nha. Thảo luận và hoàn thành các sự thật thú vị về TV.
 
 *Kênh Discovery làm cho giáo dục trở thành niềm vui cho trẻ em ở ____________.*
 </questions>
-
-<teacher_script pause="0">
-Có 4 câu và 4 quốc gia: Japan, Viet Nam, Iceland, the USA.
-</teacher_script>
-
-<teacher_script pause="0">
-Câu 1: Pokemon cartoons are from... Pokemon là phim hoạt hình từ nước nào?
-</teacher_script>
-
-<teacher_script pause="0">
-Câu 2: Bibi ở đâu chiếu phim hoạt hình?
-</teacher_script>
-
-<teacher_script pause="0">
-Câu 3: Nước nào không có TV vào thứ Năm trước 1986?
-</teacher_script>
-
-<teacher_script pause="0">
-Câu 4: Discovery Channel ở nước nào?
-</teacher_script>
-
-<teacher_script pause="45">
-Làm bài đi. 45 giây nha.
-</teacher_script>
 
 ---
 
@@ -499,8 +475,8 @@ Nó thú vị VÀ có tính giáo dục - funny AND educational.
 ---
 
 <!-- chunk: exercise_4_table -->
-<teacher_script pause="0">
-Giờ tick vào bảng nha. Có thể tick cả 2 nếu đúng cho cả 2 chương trình.
+<teacher_script pause="60">
+Giờ tick vào bảng. Có thể tick cả 2 nếu đúng cho cả 2 chương trình. 1 phút nha.
 </teacher_script>
 
 <questions type="true_false">
@@ -518,10 +494,6 @@ Giờ tick vào bảng nha. Có thể tick cả 2 nếu đúng cho cả 2 chươ
 *4. Làm cho việc học trở nên thú vị.*
 *5. Thú vị và có tính giáo dục.*
 </questions>
-
-<teacher_script pause="60">
-Đọc lại 2 đoạn văn và tick vô bảng đi. 1 phút nha.
-</teacher_script>
 
 ---
 

@@ -50,13 +50,24 @@ Xem lại từ vựng. 1 phút. Xong bấm Tiếp tục bài học.
 
 ---
 
+<!-- chunk: record_vocabulary -->
+<teacher_script pause="0" action="record">
+Bấm nút Ghi âm để đọc lại từ vựng và gửi cho thầy sửa nha.
+</teacher_script>
+
+<teacher_script pause="0">
+Xong rồi thì bấm tiếp tục nha.
+</teacher_script>
+
+---
+
 ## VOCABULARY
 
 <!-- chunk: exercise_1 -->
 ### Bài 1 trang 14 - Put words in groups
 
-<teacher_script pause="0">
-Bài 1 nha. Phân loại từ vào nhóm phù hợp.
+<teacher_script pause="45">
+Bài 1. Phân loại từ vào 2 nhóm: Programmes (chương trình) và Adjectives (tính từ). 45 giây nha.
 </teacher_script>
 
 <task>
@@ -75,10 +86,6 @@ Bài 1 nha. Phân loại từ vào nhóm phù hợp.
 | _________________________ | ____________________ |
 | _________________________ | ____________________ |
 </questions>
-
-<teacher_script pause="45">
-Phân loại từ vô 2 nhóm đi. 45 giây nha.
-</teacher_script>
 
 ---
 
@@ -121,8 +128,8 @@ Sửa bài nếu sai. 30 giây nha.
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 14 - Complete the text
 
-<teacher_script pause="0">
-Bài 2 nha. Điền từ vào đoạn văn.
+<teacher_script pause="60">
+Bài 2. Đọc đoạn văn, chọn từ phù hợp trong khung điền vào chỗ trống. 1 phút nha.
 </teacher_script>
 
 <task>
@@ -147,10 +154,6 @@ VTV1 is a popular TV channel in Viet Nam. It attracts many **(1)** _______ becau
 | Comedies make people laugh because they are (4) _______. | Phim hài khiến mọi người cười vì nó rất (4) _______. |
 | Game shows are both fun and (5) _______. | Các chương trình trò chơi thì vừa vui vừa (5) _______. |
 </reading>
-
-<teacher_script pause="60">
-Đọc đoạn văn rồi điền từ vào chỗ trống đi. 1 phút nha.
-</teacher_script>
 
 ---
 
@@ -231,19 +234,14 @@ Xem lại bảng tóm tắt. 30 giây nha.
 <!-- chunk: exercise_3 -->
 ### Bài 3 trang 14 - Complete each question with a suitable question word
 
-<teacher_script pause="0">
-Bài 3 nha. Điền từ hỏi phù hợp vào mỗi câu.
+<teacher_script pause="60">
+Bài 3. Dựa vào câu trả lời để chọn từ hỏi phù hợp điền vào chỗ trống. 1 phút nha.
 </teacher_script>
 
 <task>
 **Đề:** Complete each question with a suitable question word.
 **Dịch đề:** Hoàn thành mỗi câu hỏi với từ để hỏi phù hợp.
 **Yêu cầu:** Dựa vào câu trả lời để chọn từ hỏi phù hợp.
-**Hướng dẫn:**
-- How many + danh từ số nhiều: hỏi về số lượng
-- What: hỏi về sự vật, sự việc
-- Why: hỏi về lý do (trả lời bằng Because...)
-- Who: hỏi về người
 </task>
 
 <questions type="fill_blanks">
@@ -277,10 +275,6 @@ Bài 3 nha. Điền từ hỏi phù hợp vào mỗi câu.
 *- _______ giờ một ngày bạn xem TV?*
 *- Khoảng nửa giờ một ngày. Tôi xem nhiều hơn vào cuối tuần.*
 </questions>
-
-<teacher_script pause="60">
-Điền từ hỏi phù hợp vào mỗi câu đi. 1 phút nha.
-</teacher_script>
 
 ---
 
@@ -342,18 +336,14 @@ Sửa bài nếu sai. 30 giây nha.
 <!-- chunk: exercise_4 -->
 ### Bài 4 trang 14 - Complete with conjunctions
 
-<teacher_script pause="0">
-Bài 4 nha. Điền liên từ and, but, hoặc so.
+<teacher_script pause="60">
+Bài 4. Điền liên từ and, but, hoặc so. Nhớ: AND là cộng, BUT là đối, SO là kết quả. 1 phút nha.
 </teacher_script>
 
 <task>
 **Đề:** Complete the sentences with and, but, or so.
 **Dịch đề:** Hoàn thành câu với and, but, hoặc so.
 **Yêu cầu:** Dựa vào nghĩa của 2 vế để chọn liên từ phù hợp.
-**Hướng dẫn:**
-- **AND** = 2 ý cùng chiều, bổ sung (+)
-- **BUT** = 2 ý đối lập, ngược nhau (↔)
-- **SO** = vế 1 là nguyên nhân, vế 2 là kết quả (→)
 </task>
 
 <questions type="fill_blanks">
@@ -381,10 +371,6 @@ Bài 4 nha. Điền liên từ and, but, hoặc so.
 
 *Tôi có nhiều bài tập tối nay, _______ tôi không xem được Eight Feet Below.*
 </questions>
-
-<teacher_script pause="60">
-Điền liên từ phù hợp đi. 1 phút nha.
-</teacher_script>
 
 ---
 

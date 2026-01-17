@@ -54,7 +54,7 @@ Bấm nút Ghi âm để đọc lại và gửi cho thầy sửa nha.
 ### Bài 1 trang 72 - Listen and read
 
 <teacher_script pause="0">
-Bài 1, nghe và đọc hội thoại. Lan gặp Tom ở hành lang trường.
+Bài 1. Nghe và đọc hội thoại. Lan gặp Tom ở hành lang trường, tụi nó nói về cuộc thi Kỳ quan Thiên nhiên.
 </teacher_script>
 
 <task>
@@ -207,7 +207,7 @@ Ok đáp án nha. 1 là landscape, 2 là couldn't help, 3 là explore, 4 là sup
 ### Bài 4 trang 73 - Complete the sentences
 
 <teacher_script pause="60">
-Bài 4, hoàn thành câu với từ cho sẵn. 1 phút nha.
+Bài 4. Hoàn thành câu với dạng đúng của từ cho sẵn. Chú ý chia động từ hoặc biến đổi từ cho phù hợp. 1 phút nha.
 </teacher_script>
 
 <task>

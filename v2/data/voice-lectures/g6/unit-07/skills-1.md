@@ -141,8 +141,8 @@ Bài 1 nha. Đọc bảng chương trình TV và trả lời câu hỏi.
 ---
 
 <!-- chunk: exercise_1_questions -->
-<teacher_script pause="0">
-Giờ trả lời 5 câu hỏi nha.
+<teacher_script pause="90">
+Giờ trả lời 5 câu hỏi. Tìm thông tin trong bảng để trả lời. 1 phút rưỡi nha.
 </teacher_script>
 
 <questions type="read_answer">
@@ -176,25 +176,6 @@ Giờ trả lời 5 câu hỏi nha.
 
 → _______________________
 </questions>
-
-<teacher_script pause="0">
-5 câu hỏi nha. Tìm thông tin trong bảng để trả lời.
-</teacher_script>
-
-<teacher_script pause="0">
-Câu 1: Wildlife programme nói về gì?
-Câu 2: Fox Teacher có phải hài kịch không?
-Câu 3: Pig Race chiếu lúc mấy giờ?
-</teacher_script>
-
-<teacher_script pause="0">
-Câu 4: Có thể xem game show lúc 10.30 không?
-Câu 5: Science programme nói về gì?
-</teacher_script>
-
-<teacher_script pause="90">
-Làm bài đi. 1 phút rưỡi nha.
-</teacher_script>
 
 ---
 
@@ -301,8 +282,8 @@ Sửa bài nếu sai. 30 giây nha.
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 12 - Match people with programmes
 
-<teacher_script pause="0">
-Bài 2 nha. Đọc bảng và viết tên chương trình phù hợp cho mỗi người.
+<teacher_script pause="60">
+Bài 2. Dựa vào sở thích của mỗi người, chọn chương trình phù hợp từ TV guide. 1 phút nha.
 </teacher_script>
 
 <task>
@@ -330,29 +311,6 @@ Bài 2 nha. Đọc bảng và viết tên chương trình phù hợp cho mỗi n
 | 4. Minh | thích xem các cuộc đua | ___________ |
 | 5. Linh | quan tâm đến động vật biển | ___________ |
 </translation>
-
-<teacher_script pause="0">
-Có 5 người với sở thích khác nhau nha.
-</teacher_script>
-
-<teacher_script pause="0">
-Phong muốn biết về dogs and cats - chó và mèo.
-Bob thích chương trình make him laugh - làm anh ấy cười.
-Nga thích learning about plants and animals - học về thực vật và động vật.
-</teacher_script>
-
-<teacher_script pause="0">
-Minh thích watching races - xem các cuộc đua.
-Linh interested in sea animals - quan tâm đến động vật biển.
-</teacher_script>
-
-<teacher_script pause="0">
-Nhìn lại bảng TV guide, chọn chương trình phù hợp cho từng người nha.
-</teacher_script>
-
-<teacher_script pause="60">
-Làm bài đi. 1 phút nha.
-</teacher_script>
 
 ---
 

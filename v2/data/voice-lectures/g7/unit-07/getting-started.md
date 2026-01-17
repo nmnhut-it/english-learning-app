@@ -35,7 +35,7 @@ Bấm nút Ghi âm để đọc lại và gửi cho thầy sửa nha.
 ### Bài 1 trang 72 - Listen and read
 
 <teacher_script pause="0">
-Bài 1, nghe và đọc hội thoại. Lan với Mark nói chuyện về cách đi lại.
+Bài 1. Nghe và đọc hội thoại. Lan với Mark nói chuyện về cách đi lại ở thành phố.
 </teacher_script>
 
 <task>
@@ -197,8 +197,8 @@ Ok đáp án nha. 1 là cycled, 2 là should, 3 là jams, 4 là How, 5 là crowd
 
 ### Bài 4 trang 73 - Means of transport
 
-<teacher_script pause="0">
-Bài 4, ghi nhớ các phương tiện giao thông nha.
+<teacher_script pause="60">
+Bài 4. Nhìn tranh và gọi tên các phương tiện giao thông. Ghi vào vở các từ mới. 1 phút nha.
 </teacher_script>
 
 <task>
@@ -218,9 +218,6 @@ Bài 4, ghi nhớ các phương tiện giao thông nha.
 8. **ship** : (n) tàu thủy /ʃɪp/
 </vocabulary>
 
-<teacher_script pause="60">
-Ghi thêm các phương tiện vô tập nha. 1 phút.
-</teacher_script>
 
 ---
 

@@ -4,11 +4,11 @@
 
 <!-- chunk: vocabulary -->
 <teacher_script pause="0">
-Ok lớp 6, Unit 7 nha - Television. Mở sách trang 6 tập 2 đi.
+Chào mấy đứa. Hôm nay thầy kẹt lịch nên không dạy ở nhà được. Đây là bài đầu tiên, Unit 7 - Television. Các em có thể học bài này nhiều lần để nhớ lâu hơn hen.
 </teacher_script>
 
 <teacher_script pause="0">
-Đây là từ vựng bài này. Click vô từ để nghe phát âm. Học xong bấm Tiếp tục bài học.
+Các em mở sách ra, Unit 7, bài Getting Started, ghi tựa bài. Sau đó bấm nút "Bắt đầu" bên dưới để học từ vựng. Máy sẽ đọc và các em đọc theo. Sau đó các em làm bài trắc nghiệm từ vựng rồi ghi từ vựng vô tập.  
 </teacher_script>
 
 <vocabulary>
@@ -33,8 +33,10 @@ Ok lớp 6, Unit 7 nha - Television. Mở sách trang 6 tập 2 đi.
 <!-- chunk: exercise_1 -->
 ### Bài 1 trang 6 - Listen and read
 
-<teacher_script pause="0">
-Bài 1 nha. Đây là hội thoại Phong với Hùng nói về mấy chương trình TV.
+
+<teacher_script pause="180">
+Bài 1 nha. Đây là hội thoại Phong với Hùng nói về các chương trình TV.
+Đọc hội thoại và dịch vô tập. 3 phút hen.
 </teacher_script>
 
 <dialogue>
@@ -52,9 +54,6 @@ Bài 1 nha. Đây là hội thoại Phong với Hùng nói về mấy chương t
 **Hung:** Sounds good. I'll watch it, too.
 </dialogue>
 
-<teacher_script pause="180">
-Đọc hội thoại và dịch vô tập. 3 phút nha.
-</teacher_script>
 
 ---
 
@@ -78,8 +77,8 @@ Ok đây là bản dịch. So sánh với bài dịch của mình nha.
 **Hùng:** Nghe hay đấy. Tôi cũng sẽ xem.
 </translation>
 
-<teacher_script pause="60">
-Sửa bài dịch nếu sai. 1 phút nha.
+<teacher_script>
+Mấy đứa sửa bài dịch nếu sai. Sau đó qua bài tiếp theo. 
 </teacher_script>
 
 ---
@@ -87,8 +86,8 @@ Sửa bài dịch nếu sai. 1 phút nha.
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 7 - Choose the correct answer
 
-<teacher_script pause="0">
-Bài 2. Chọn đáp án đúng A, B hoặc C dựa vào hội thoại.
+<teacher_script pause="60">
+Bài 2. Đọc lại hội thoại, chọn đáp án đúng A, B hoặc C. 1 phút nha.
 </teacher_script>
 
 <questions type="multiple_choice">
@@ -121,15 +120,11 @@ Bài 2. Chọn đáp án đúng A, B hoặc C dựa vào hội thoại.
 *Khi một chương trình dạy bạn điều gì đó, nó là ____________.*
 </questions>
 
-<teacher_script pause="60">
-Làm bài đi. 1 phút nha.
-</teacher_script>
-
 ---
 
 <!-- chunk: answer_2 -->
 <teacher_script pause="0">
-Ok đáp án nha.
+Đây là đáp án. Các em đọc lại đáp án và phần giải thích chi tiết bên dưới. 
 </teacher_script>
 
 <answer>
@@ -153,7 +148,10 @@ Ok đáp án nha.
 </explanation>
 
 <teacher_script pause="30">
-Sửa bài nếu sai. 30 giây nha.
+Các em sửa bài nếu có sai. Nếu cần hỏi thầy cái gì thì nhấn nút micro bên dưới để thu âm hen, nhớ để lại nick zalo hoặc số điện thoại để thầy nhắn tin trả lời.
+</teacher_script>
+
+<teacher_script pause="0" action="record">
 </teacher_script>
 
 ---
@@ -161,8 +159,8 @@ Sửa bài nếu sai. 30 giây nha.
 <!-- chunk: exercise_3 -->
 ### Bài 3 trang 7 - Match
 
-<teacher_script pause="0">
-Bài 3. Nối tên chương trình ở cột A với loại chương trình ở cột B.
+<teacher_script pause="45">
+Bài 3. Nối tên chương trình ở cột A với loại chương trình ở cột B. 45 giây nha. Làm bài không cần dịch vào tập. 
 </teacher_script>
 
 <questions type="matching">
@@ -175,15 +173,14 @@ Bài 3. Nối tên chương trình ở cột A với loại chương trình ở 
 | 5 | English in a Minute | e | cartoon (phim hoạt hình ngắn) |
 </questions>
 
-<teacher_script pause="45">
-Làm bài đi. 45 giây nha.
-</teacher_script>
-
 ---
 
 <!-- chunk: answer_3 -->
 <teacher_script pause="0">
-Ok đáp án nha.
+Thầy sửa đáp án. Các em kiểm tra lại. Nếu cần hỏi thì nhấn thu âm bên dưới nha.
+</teacher_script>
+
+<teacher_script pause="0" action="record">
 </teacher_script>
 
 <answer>
@@ -215,8 +212,8 @@ Sửa bài nếu sai. 30 giây nha.
 <!-- chunk: exercise_4 -->
 ### Bài 4 trang 7 - Find adjectives
 
-<teacher_script pause="0">
-Bài 4. Tìm tính từ trong hội thoại mô tả các chương trình và nhân vật.
+<teacher_script pause="30">
+Bài 4. Tìm tính từ trong hội thoại mô tả các chương trình và nhân vật. Bài này yêu cầu các em tìm các tính từ, tức là từ chỉ tính chất để mô tả các chương trình. Các từ này xuất hiện bên trong đoạn hội thoại. 30 giây nha.
 </teacher_script>
 
 <questions type="find_words">
@@ -226,15 +223,11 @@ Bài 4. Tìm tính từ trong hội thoại mô tả các chương trình và nh
 4. Programmes on VTV7 → _______
 </questions>
 
-<teacher_script pause="30">
-Làm bài đi. 30 giây nha.
-</teacher_script>
-
 ---
 
 <!-- chunk: answer_4 -->
 <teacher_script pause="0">
-Ok đáp án nha.
+Ok đáp án và giải thích. 
 </teacher_script>
 
 <answer>
@@ -300,5 +293,8 @@ Bài 5 là bài Speaking. Phỏng vấn bạn về chương trình TV yêu thíc
 </questions>
 
 <teacher_script pause="0">
-Bài này về nhà tập nói nha. Ok hết Getting Started rồi. Bài sau qua A Closer Look 1!
+Đây là bài tập nói, nên các em sẽ ghi âm bên dưới cho thầy, thầy sẽ nghe và sửa lại cho các em. Các em có thể nói theo mẫu thầy sửa hoặc sáng tạo, miễn là đúng ý nghĩa và ngữ pháp.
+</teacher_script>
+
+<teacher_script pause="0" action="record">
 </teacher_script>

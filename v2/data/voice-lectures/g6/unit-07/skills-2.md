@@ -85,8 +85,8 @@ Phần Listening nha. Có 2 bài tập.
 <!-- chunk: exercise_1 -->
 ### Bài 1 trang 13 - Listen and tick
 
-<teacher_script pause="0">
-Bài 1 nha. Nghe và đánh dấu kênh đúng cho mỗi chương trình.
+<teacher_script pause="60">
+Bài 1. Nghe audio, đánh dấu kênh đúng cho mỗi chương trình. Đọc tên chương trình trước, rồi nghe và tick vào cột kênh phù hợp. 1 phút nha.
 </teacher_script>
 
 <task>
@@ -111,10 +111,6 @@ Bài 1 nha. Nghe và đánh dấu kênh đúng cho mỗi chương trình.
 <audio src="<!-- TODO: g6_u07_skills2_listening.mp3 -->">
 **Audio:** Listen to the passage about TV programmes
 </audio>
-
-<teacher_script pause="60">
-Nghe audio rồi làm bài đi. 1 phút nha.
-</teacher_script>
 
 ---
 
@@ -163,8 +159,8 @@ Sửa bài nếu sai. 30 giây nha.
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 13 - True or False
 
-<teacher_script pause="0">
-Bài 2 nha. Nghe lại và chọn True hoặc False.
+<teacher_script pause="45">
+Bài 2. Nghe lại audio, xác định các câu sau Đúng (T) hay Sai (F). 45 giây nha.
 </teacher_script>
 
 <task>
@@ -194,10 +190,6 @@ Bài 2 nha. Nghe lại và chọn True hoặc False.
 <audio src="<!-- TODO: g6_u07_skills2_listening.mp3 -->">
 **Audio:** Listen again
 </audio>
-
-<teacher_script pause="45">
-Nghe lại rồi làm bài đi. 45 giây nha.
-</teacher_script>
 
 ---
 
