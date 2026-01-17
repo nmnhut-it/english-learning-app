@@ -11,6 +11,8 @@
     "test:e2e": "playwright test -c tests/voice-lecture/playwright.config.ts",
     "test:e2e:ui": "playwright test -c tests/voice-lecture/playwright.config.ts --ui",
     "test:e2e:headed": "playwright test -c tests/voice-lecture/playwright.config.ts --headed",
+    "test:observe": "OBSERVE=true playwright test -c tests/voice-lecture/playwright.config.ts --project=observation specs/user-observation.spec.ts",
+    "test:observe:fast": "playwright test -c tests/voice-lecture/playwright.config.ts --headed specs/user-observation.spec.ts",
     "test:validate-content": "playwright test -c tests/voice-lecture/playwright.config.ts specs/content-validation.spec.ts",
     "playwright:install": "playwright install chromium",
     "render": "npx ts-node --esm src/voice-lecture/tools/render-cli.ts",
