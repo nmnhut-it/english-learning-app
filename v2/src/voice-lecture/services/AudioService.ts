@@ -21,6 +21,10 @@ export interface AudioServiceInterface {
   playBeep(freq?: number, duration?: number, type?: OscillatorType): Promise<void>;
   playRepeatSignal(): Promise<void>;
   playAudioFile(url: string): Promise<void>;
+  // Praise/feedback sounds
+  playPraiseSound(): Promise<void>;
+  playTryAgainSound(): Promise<void>;
+  playExcellentSound(): Promise<void>;
   cancel(): void;
   setConfig(config: Partial<AudioServiceConfig>): void;
 }
@@ -198,6 +202,34 @@ export class AudioService implements AudioServiceInterface {
   }
 
   /**
+   * Play praise sound: "Giỏi lắm!" with happy beep melody
+   */
+  async playPraiseSound(): Promise<void> {
+    await this.playBeep(880, 150);
+    await this.playBeep(1100, 200);
+    await this.speakTTS('Giỏi lắm!', 'vi-VN');
+  }
+
+  /**
+   * Play try again sound: "Thử lại nha" with gentle reminder beep
+   */
+  async playTryAgainSound(): Promise<void> {
+    await this.playBeep(400, 200);
+    await this.speakTTS('Thử lại nha.', 'vi-VN');
+  }
+
+  /**
+   * Play excellent sound: "Xuất sắc! Làm tốt lắm!" with celebratory melody
+   */
+  async playExcellentSound(): Promise<void> {
+    await this.playBeep(660, 100);
+    await this.playBeep(880, 100);
+    await this.playBeep(1100, 150);
+    await this.playBeep(1320, 200);
+    await this.speakTTS('Xuất sắc! Làm tốt lắm!', 'vi-VN');
+  }
+
+  /**
    * Play an audio file
    */
   async playAudioFile(url: string): Promise<void> {
@@ -279,6 +311,24 @@ export class MockAudioService implements AudioServiceInterface {
 
   async playRepeatSignal(): Promise<void> {
     this.calls.push({ method: 'playRepeatSignal', args: [] });
+  }
+
+  async playPraiseSound(): Promise<void> {
+    this.calls.push({ method: 'playPraiseSound', args: [] });
+    this.eventBus?.emit(LectureEvents.TTS_SPEAK, { text: 'Giỏi lắm!', lang: 'vi-VN' });
+    this.eventBus?.emit(LectureEvents.TTS_END, { text: 'Giỏi lắm!', lang: 'vi-VN' });
+  }
+
+  async playTryAgainSound(): Promise<void> {
+    this.calls.push({ method: 'playTryAgainSound', args: [] });
+    this.eventBus?.emit(LectureEvents.TTS_SPEAK, { text: 'Thử lại nha.', lang: 'vi-VN' });
+    this.eventBus?.emit(LectureEvents.TTS_END, { text: 'Thử lại nha.', lang: 'vi-VN' });
+  }
+
+  async playExcellentSound(): Promise<void> {
+    this.calls.push({ method: 'playExcellentSound', args: [] });
+    this.eventBus?.emit(LectureEvents.TTS_SPEAK, { text: 'Xuất sắc! Làm tốt lắm!', lang: 'vi-VN' });
+    this.eventBus?.emit(LectureEvents.TTS_END, { text: 'Xuất sắc! Làm tốt lắm!', lang: 'vi-VN' });
   }
 
   async playAudioFile(url: string): Promise<void> {

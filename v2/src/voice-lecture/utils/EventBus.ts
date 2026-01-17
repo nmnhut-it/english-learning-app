@@ -152,6 +152,7 @@ export const LectureEvents = {
   VOCAB_PHASE_CHANGE: 'vocab:phase',
   VOCAB_WORD_CHANGE: 'vocab:word',
   VOCAB_COMPLETE: 'vocab:complete',
+  VOCAB_SKIP: 'vocab:skip',
 
   // Audio/TTS
   TTS_SPEAK: 'tts:speak',

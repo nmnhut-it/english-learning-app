@@ -51,6 +51,7 @@ export interface VocabSystemInterface {
   handleQuizAnswer(id: string, selectedAnswer: string, correctAnswer: string): Promise<boolean>;
   handleGameSelection(id: string, word: string, type: 'word' | 'meaning'): Promise<'match' | 'wrong' | 'selected' | 'switched'>;
   skipWritingTimer(id: string): void;
+  skipVocab(id: string): void; // Skip entire vocab section
 
   // Queries
   getCurrentPhase(id: string): VocabPhase | null;
@@ -111,6 +112,8 @@ export class VocabSystem implements VocabSystemInterface {
   }
 
   // ============ FLASHCARD PHASE ============
+  // NEW PATTERN: word (1x) → meaning (1x) → word (3x) → meaning (1x)
+  // This saves time and helps students memorize better
 
   async startFlashcard(id: string): Promise<void> {
     const instance = this.instances.get(id);
@@ -127,10 +130,10 @@ export class VocabSystem implements VocabSystemInterface {
     });
 
     // Announce start
-    await this.audioService.speakTTS('Đọc theo nha!', 'vi-VN');
+    await this.audioService.speakTTS('Nghe thầy đọc rồi đọc theo nha!', 'vi-VN');
     await this.delay(300);
 
-    // Play through all words
+    // Play through all words with new pattern
     for (let wordIndex = 0; wordIndex < instance.words.length; wordIndex++) {
       instance.currentWordIndex = wordIndex;
 
@@ -144,23 +147,49 @@ export class VocabSystem implements VocabSystemInterface {
       await this.playFlashcardWord(instance, wordIndex);
 
       if (wordIndex < instance.words.length - 1) {
-        await this.audioService.speakTTS('Từ tiếp theo', 'vi-VN');
-        await this.delay(300);
+        await this.delay(500);
       }
     }
 
-    // Transition to quiz
-    await this.audioService.speakTTS('Xong phần học từ. Giờ kiểm tra nhanh nha!', 'vi-VN');
+    // Transition to WRITING (copy) phase FIRST, then quiz after
+    await this.audioService.speakTTS('Xong phần học từ.', 'vi-VN');
     await this.delay(500);
 
-    this.startQuiz(id);
+    this.startWriting(id);
   }
 
+  /**
+   * NEW TTS PATTERN for each vocabulary word:
+   * 1. Read English word (1x)
+   * 2. Read Vietnamese meaning (1x)
+   * 3. Read English word (3x) - for repetition practice
+   * 4. Read Vietnamese meaning (1x) - final reinforcement
+   */
   private async playFlashcardWord(instance: VocabInstance, wordIndex: number): Promise<void> {
     const word = instance.words[wordIndex];
 
-    // English readings with repeat signal
-    for (let i = 0; i < this.config.flashcardRepeats!; i++) {
+    // Step 1: Read English word once
+    await this.audioService.speakTTS(word.word, 'en-US');
+    this.eventBus?.emit('vocab:flashcard:read', {
+      id: instance.id,
+      wordIndex,
+      step: 'word_first',
+      lang: 'en',
+    });
+    await this.delay(400);
+
+    // Step 2: Read Vietnamese meaning once
+    await this.audioService.speakTTS(word.meaning, 'vi-VN');
+    this.eventBus?.emit('vocab:flashcard:read', {
+      id: instance.id,
+      wordIndex,
+      step: 'meaning_first',
+      lang: 'vi',
+    });
+    await this.delay(400);
+
+    // Step 3: Read English word 3 times (for student to repeat)
+    for (let i = 0; i < 3; i++) {
       await this.audioService.playRepeatSignal();
       await this.delay(200);
       await this.audioService.speakTTS(word.word, 'en-US');
@@ -172,32 +201,20 @@ export class VocabSystem implements VocabSystemInterface {
         lang: 'en',
       });
 
-      await this.delay(800); // Time for student to repeat
+      await this.delay(600); // Time for student to repeat
     }
 
-    // Flip card event
-    await this.delay(400);
-    this.eventBus?.emit('vocab:flashcard:flip', { id: instance.id, wordIndex });
-    await this.delay(500);
-
-    // Vietnamese readings
+    // Step 4: Read Vietnamese meaning once (final)
     await this.delay(300);
-    for (let i = 0; i < this.config.flashcardRepeats!; i++) {
-      await this.audioService.playRepeatSignal();
-      await this.delay(200);
-      await this.audioService.speakTTS(word.meaning, 'vi-VN');
+    await this.audioService.speakTTS(word.meaning, 'vi-VN');
+    this.eventBus?.emit('vocab:flashcard:read', {
+      id: instance.id,
+      wordIndex,
+      step: 'meaning_final',
+      lang: 'vi',
+    });
 
-      this.eventBus?.emit('vocab:flashcard:repeat', {
-        id: instance.id,
-        wordIndex,
-        repeatIndex: i,
-        lang: 'vi',
-      });
-
-      await this.delay(800);
-    }
-
-    await this.delay(600);
+    await this.delay(500);
   }
 
   // ============ QUIZ PHASE ============
@@ -267,12 +284,14 @@ export class VocabSystem implements VocabSystemInterface {
     instance.quizAnswers.push(isCorrect);
 
     if (isCorrect) {
+      // Play praise sound: "Giỏi lắm!"
       await this.audioService.playBeep(880, 150);
       await this.audioService.playBeep(1100, 200);
-      await this.audioService.speakTTS('Đúng rồi!', 'vi-VN');
+      await this.audioService.speakTTS('Giỏi lắm!', 'vi-VN');
     } else {
+      // Play try again sound
       await this.audioService.playBeep(300, 300);
-      await this.audioService.speakTTS('Sai rồi. Đáp án đúng là', 'vi-VN');
+      await this.audioService.speakTTS('Thử lại nha. Đáp án đúng là', 'vi-VN');
 
       // Determine if correct answer is English
       const isEnglish = instance.words.some((w) => w.word === correctAnswer);
@@ -291,9 +310,25 @@ export class VocabSystem implements VocabSystemInterface {
     instance.currentWordIndex++;
 
     if (instance.currentWordIndex >= instance.words.length) {
-      // Done with quiz
+      // Done with quiz - check score
+      const correctCount = instance.quizAnswers.filter(Boolean).length;
+      const totalCount = instance.quizAnswers.length;
+
+      await this.delay(1000);
+
+      if (correctCount === totalCount) {
+        // Perfect score - "Xuất sắc!"
+        await this.audioService.speakTTS('Xuất sắc! Làm tốt lắm!', 'vi-VN');
+      } else if (correctCount >= totalCount * 0.7) {
+        // Good score
+        await this.audioService.speakTTS(`Giỏi lắm! ${correctCount} trên ${totalCount} câu đúng.`, 'vi-VN');
+      } else {
+        // Need more practice
+        await this.audioService.speakTTS(`${correctCount} trên ${totalCount} câu đúng. Cố gắng thêm nha!`, 'vi-VN');
+      }
+
       await this.delay(1500);
-      this.startWriting(id);
+      this.startGame(id);
     } else {
       this.eventBus?.emit(LectureEvents.VOCAB_WORD_CHANGE, {
         id,
@@ -307,6 +342,7 @@ export class VocabSystem implements VocabSystemInterface {
   }
 
   // ============ WRITING PHASE ============
+  // NEW WORKFLOW: Student copies vocabulary FIRST, then quiz
 
   startWriting(id: string): void {
     const instance = this.instances.get(id);
@@ -322,12 +358,28 @@ export class VocabSystem implements VocabSystemInterface {
     const totalSeconds = instance.words.length * this.config.secondsPerWordWriting!;
     const timerId = `vocab-writing-${id}`;
 
+    // After writing timer ends, transition to QUIZ (not game)
     this.timerService.start(timerId, totalSeconds, () => {
-      this.startGame(id);
+      this.transitionToQuizAfterWriting(id);
     });
 
     const minutes = Math.ceil(totalSeconds / 60);
-    this.audioService.speakTTS(`Giờ ghi từ vựng vào tập nha. ${minutes} phút.`, 'vi-VN');
+    // Instruction: "Copy vocabulary into your notebook for teacher"
+    this.audioService.speakTTS(`Ok, giờ các em chép từ vựng vào tập cho thầy nha. ${minutes} phút.`, 'vi-VN');
+  }
+
+  /**
+   * Transition from writing to quiz phase
+   * Announces quiz start with encouraging message
+   */
+  private async transitionToQuizAfterWriting(id: string): Promise<void> {
+    const instance = this.instances.get(id);
+    if (!instance) return;
+
+    await this.audioService.speakTTS('Chép xong chưa? Giờ làm quiz kiểm tra xem nhớ được bao nhiêu từ nha.', 'vi-VN');
+    await this.delay(500);
+
+    this.startQuiz(id);
   }
 
   skipWritingTimer(id: string): void {
@@ -336,6 +388,27 @@ export class VocabSystem implements VocabSystemInterface {
 
     const timerId = `vocab-writing-${id}`;
     this.timerService.skip(timerId);
+  }
+
+  /**
+   * Skip entire vocabulary section and complete immediately
+   * Used when student wants to skip learning vocab
+   */
+  skipVocab(id: string): void {
+    const instance = this.instances.get(id);
+    if (!instance || instance.isComplete) return;
+
+    // Stop any running timers
+    this.timerService.stop(`vocab-writing-${id}`);
+
+    // Cancel any audio
+    this.audioService.cancel();
+
+    // Emit skip event
+    this.eventBus?.emit(LectureEvents.VOCAB_SKIP, { id });
+
+    // Go directly to complete
+    this.completeVocab(id);
   }
 
   // ============ GAME PHASE ============
