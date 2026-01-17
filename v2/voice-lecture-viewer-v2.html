@@ -347,6 +347,56 @@ const audioService = {
     });
   },
 
+  // Parse text with <eng>/<vn> tags into segments with language info
+  parseTextSegments(text, defaultLang = 'vi') {
+    const segments = [];
+    const tagPattern = /<(eng|vn)>([\s\S]*?)<\/\1>/g;
+    let lastIndex = 0;
+    let match;
+
+    while ((match = tagPattern.exec(text)) !== null) {
+      // Add text before the tag (default language)
+      if (match.index > lastIndex) {
+        const beforeText = text.substring(lastIndex, match.index).trim();
+        if (beforeText) {
+          segments.push({ text: beforeText, lang: defaultLang });
+        }
+      }
+      // Add tagged content
+      const tagLang = match[1] === 'eng' ? 'en' : 'vi';
+      const tagText = match[2].trim();
+      if (tagText) {
+        segments.push({ text: tagText, lang: tagLang });
+      }
+      lastIndex = match.index + match[0].length;
+    }
+
+    // Add remaining text after last tag
+    if (lastIndex < text.length) {
+      const remainingText = text.substring(lastIndex).trim();
+      if (remainingText) {
+        segments.push({ text: remainingText, lang: defaultLang });
+      }
+    }
+
+    // If no segments found, return whole text as default language
+    if (segments.length === 0 && text.trim()) {
+      segments.push({ text: text.trim(), lang: defaultLang });
+    }
+
+    return segments;
+  },
+
+  // Speak text with mixed languages - parses <eng>/<vn> tags and uses appropriate voices
+  async speakWithSegments(rawText) {
+    const segments = this.parseTextSegments(rawText, 'vi');
+
+    for (const segment of segments) {
+      const lang = segment.lang === 'en' ? 'en-US' : 'vi-VN';
+      await this.speakTTS(segment.text, lang);
+    }
+  },
+
   async playBeep(freq = 880, duration = 150) {
     if (CONFIG.testMode && CONFIG.instantTimers) return delay(1);
 
@@ -471,6 +521,8 @@ function renderContent(md, chunkIndex) {
 
     // Strip <eng> and <vn> inline language tags for display
     const displayText = text.trim().replace(/<\/?(?:eng|vn)>/gi, '').replace(/"/g, '&quot;');
+    // Keep raw text with tags for TTS language switching
+    const rawText = text.trim().replace(/"/g, '&quot;');
 
     let actionHtml = '';
     if (action === 'record') {
@@ -485,7 +537,7 @@ function renderContent(md, chunkIndex) {
       </div>
     ` : '';
 
-    return `<div class="ts" id="${id}" data-testid="ts-${id}" data-text="${displayText}" data-pause="${pause}" data-href="${href}" data-action="${action}" data-played="false"></div>${timerHtml}${actionHtml}`;
+    return `<div class="ts" id="${id}" data-testid="ts-${id}" data-text="${displayText}" data-raw-text="${rawText}" data-pause="${pause}" data-href="${href}" data-action="${action}" data-played="false"></div>${timerHtml}${actionHtml}`;
   });
 
   // Other tags
@@ -682,11 +734,12 @@ function playTS(el) {
   state.currentTSId = el.id;
   el.dataset.played = 'true';
 
-  const text = el.dataset.text;
+  const displayText = el.dataset.text;      // Stripped text for display
+  const rawText = el.dataset.rawText || displayText;  // Raw text with <eng>/<vn> tags for TTS
   const pause = parseInt(el.dataset.pause) || 0;
 
-  showNPC(text);
-  eventBus.emit('ts:start', { id: el.id, text });
+  showNPC(displayText);
+  eventBus.emit('ts:start', { id: el.id, text: displayText });
 
   const onEnd = () => {
     document.getElementById('npc-avatar').dataset.speaking = 'false';
@@ -709,7 +762,8 @@ function playTS(el) {
     }
   };
 
-  audioService.speakTTS(text, 'vi-VN').then(onEnd);
+  // Use segment-based speaking to handle <eng>/<vn> language tags
+  audioService.speakWithSegments(rawText).then(onEnd);
 }
 
 function afterSpeaking(tsEl) {
