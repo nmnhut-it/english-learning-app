@@ -295,9 +295,21 @@ Ok đáp án.
 
 <teacher_script pause="0">
 Câu 1: should. Sách hay thì nên đọc chứ.
+</teacher_script>
+
+<teacher_script pause="0">
 Câu 2: should. Suýt ngã thì nên cẩn thận hơn.
+</teacher_script>
+
+<teacher_script pause="0">
 Câu 3: shouldn't. Ăn xong đi bơi liền dễ bị chuột rút lắm.
+</teacher_script>
+
+<teacher_script pause="0">
 Câu 4: should. Mập quá thì nên ăn ít lại.
+</teacher_script>
+
+<teacher_script pause="0">
 Câu 5: shouldn't. Đường đông mà lái nhanh nguy hiểm.
 </teacher_script>
 
@@ -380,10 +392,25 @@ Ok đáp án.
 
 <teacher_script pause="0">
 Câu 1: shouldn't. Đi nhanh trong mưa nguy hiểm lắm.
+</teacher_script>
+
+<teacher_script pause="0">
 Câu 2: should. Học đi, đừng có xem YouTube hoài.
+</teacher_script>
+
+<teacher_script pause="0">
 Câu 3: shouldn't. Khuya rồi còn chơi ngoài đường làm gì.
+</teacher_script>
+
+<teacher_script pause="0">
 Câu 4: should. Giúp mẹ rửa chén là việc tốt.
+</teacher_script>
+
+<teacher_script pause="0">
 Câu 5: should. Mệt thì ngủ đi.
+</teacher_script>
+
+<teacher_script pause="0">
 Câu 6: shouldn't. Ăn kem nhiều không tốt đâu.
 </teacher_script>
 
