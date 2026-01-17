@@ -4,22 +4,14 @@
 
 <!-- chunk: intro -->
 <teacher_script pause="0">
-Ok lớp 6, Communication nha.
-</teacher_script>
-
-<teacher_script pause="0">
-Mở sách trang 11 tập 2 đi.
+Ok lớp 6, <eng>Communication</eng> nha. Mở sách trang 11 tập 2 đi.
 </teacher_script>
 
 ---
 
 <!-- chunk: topic_intro -->
 <teacher_script pause="0">
-Hôm nay học giao tiếp về chủ đề: Hỏi và cung cấp thông tin về chương trình TV.
-</teacher_script>
-
-<teacher_script pause="0">
-Tiếng Anh gọi là: Asking for and giving information about TV programmes.
+Hôm nay học giao tiếp về chủ đề: Hỏi và cung cấp thông tin về chương trình TV. <eng>Asking for and giving information about TV programmes.</eng>
 </teacher_script>
 
 ---
@@ -69,19 +61,19 @@ Cấu trúc giao tiếp gồm 4 phần nha.
 </teacher_script>
 
 <teacher_script pause="0">
-Một: Hỏi chương trình yêu thích - What's your favourite TV programme?
+Một: Hỏi chương trình yêu thích. <eng>What's your favourite TV programme?</eng>
 </teacher_script>
 
 <teacher_script pause="0">
-Hai: Trả lời - I like... hoặc My favourite is...
+Hai: Trả lời. <eng>I like... My favourite is...</eng>
 </teacher_script>
 
 <teacher_script pause="0">
-Ba: Hỏi lý do - Why do you like it?
+Ba: Hỏi lý do. <eng>Why do you like it?</eng>
 </teacher_script>
 
 <teacher_script pause="0">
-Bốn: Nói lý do - Because...
+Bốn: Nói lý do. <eng>Because...</eng>
 </teacher_script>
 
 <teacher_script pause="60">
@@ -94,11 +86,7 @@ Ghi 4 cấu trúc này vô tập đi. 1 phút nha.
 ### Bài 1 trang 11 - Listen and read
 
 <teacher_script pause="0">
-Bài 1 nha. Nghe và đọc đoạn hội thoại.
-</teacher_script>
-
-<teacher_script pause="0">
-Chú ý các từ được làm nổi bật - đó là cấu trúc quan trọng.
+Bài 1 <eng>Listen and read</eng> nha. Nghe và đọc đoạn hội thoại. Chú ý các từ được làm nổi bật - đó là cấu trúc quan trọng.
 </teacher_script>
 
 <task>
@@ -125,23 +113,23 @@ Chú ý các từ được làm nổi bật - đó là cấu trúc quan trọng.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu hỏi 1: What's your favourite TV programme? - Chương trình TV yêu thích của bạn là gì?
+Câu hỏi 1: <eng>What's your favourite TV programme?</eng> - Chương trình TV yêu thích của bạn là gì?
 </teacher_script>
 
 <teacher_script pause="0">
-Trả lời: The animal programme - Chương trình về động vật.
+Trả lời: <eng>The animal programme.</eng> - Chương trình về động vật.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu hỏi 2: Why do you like it? - Tại sao bạn thích nó?
+Câu hỏi 2: <eng>Why do you like it?</eng> - Tại sao bạn thích nó?
 </teacher_script>
 
 <teacher_script pause="0">
-Trả lời: Because I can see the animals in their real life - Vì tôi có thể thấy động vật trong đời thực.
+Trả lời: <eng>Because I can see the animals in their real life.</eng> - Vì tôi có thể thấy động vật trong đời thực.
 </teacher_script>
 
 <teacher_script pause="0">
-Nhớ nha: Khi hỏi Why, trả lời bằng Because.
+Nhớ nha: Khi hỏi <eng>Why</eng>, trả lời bằng <eng>Because</eng>.
 </teacher_script>
 
 ---
@@ -165,11 +153,7 @@ Tóm tắt cấu trúc quan trọng nha.
 </grammar>
 
 <teacher_script pause="0">
-Cấu trúc quan trọng: What's your favourite... và Why do you like it.
-</teacher_script>
-
-<teacher_script pause="0">
-Khi hỏi Why, luôn trả lời bằng Because nha.
+Cấu trúc quan trọng: <eng>What's your favourite... Why do you like it...</eng> - Khi hỏi <eng>Why</eng>, luôn trả lời bằng <eng>Because</eng> nha.
 </teacher_script>
 
 <teacher_script pause="30">
@@ -182,7 +166,7 @@ Ghi vô tập đi. 30 giây nha.
 ### Bài 2 trang 11 - Work in pairs
 
 <teacher_script pause="0">
-Bài 2 nha. Làm việc theo cặp, tạo hội thoại tương tự.
+Bài 2 <eng>Work in pairs</eng> nha. Làm việc theo cặp, tạo hội thoại tương tự.
 </teacher_script>
 
 <task>
@@ -192,11 +176,7 @@ Bài 2 nha. Làm việc theo cặp, tạo hội thoại tương tự.
 </task>
 
 <teacher_script pause="0">
-Dùng cấu trúc: What's your favourite TV programme? và Why do you like it?
-</teacher_script>
-
-<teacher_script pause="0">
-Thay đổi tên chương trình và lý do theo ý của mình nha.
+Dùng cấu trúc: <eng>What's your favourite TV programme? Why do you like it?</eng> - Thay đổi tên chương trình và lý do theo ý của mình nha.
 </teacher_script>
 
 <grammar>
@@ -225,30 +205,18 @@ Thay đổi tên chương trình và lý do theo ý của mình nha.
 </grammar>
 
 <teacher_script pause="0">
-Đây là bảng gợi ý các loại chương trình TV.
+Đây là bảng gợi ý các loại chương trình TV: <eng>Cartoon. Educational programme. Animal programme.</eng> - Phim hoạt hình. Chương trình giáo dục. Chương trình về động vật.
 </teacher_script>
 
 <teacher_script pause="0">
-Cartoon - phim hoạt hình.
-Educational programme - chương trình giáo dục.
-Animal programme - chương trình về động vật.
-</teacher_script>
-
-<teacher_script pause="0">
-Và đây là gợi ý lý do.
-</teacher_script>
-
-<teacher_script pause="0">
-Because it's funny - vì nó vui.
-Because it's interesting - vì nó thú vị.
-Because it's educational - vì nó mang tính giáo dục.
+Và đây là gợi ý lý do: <eng>Because it's funny. Because it's interesting. Because it's educational.</eng> - Vì nó vui. Vì nó thú vị. Vì nó mang tính giáo dục.
 </teacher_script>
 
 ---
 
 <!-- chunk: exercise_2_sample -->
 <teacher_script pause="0">
-Đây là hội thoại mẫu để tham khảo.
+Đây là hội thoại mẫu để tham khảo nha.
 </teacher_script>
 
 <dialogue>
@@ -261,17 +229,19 @@ Because it's educational - vì nó mang tính giáo dục.
 </dialogue>
 
 <teacher_script pause="0">
-Hội thoại mẫu nha.
+Hội thoại mẫu nha. A hỏi: <eng>What's your favourite TV programme?</eng>
 </teacher_script>
 
 <teacher_script pause="0">
-A hỏi: What's your favourite TV programme?
-B trả lời: Educational programme.
+B trả lời: <eng>Educational programme.</eng>
 </teacher_script>
 
 <teacher_script pause="0">
-A hỏi tiếp: Why do you like it?
-B trả lời: Because I want to practise Maths and English more after school.
+A hỏi tiếp: <eng>Why do you like it?</eng>
+</teacher_script>
+
+<teacher_script pause="0">
+B trả lời: <eng>Because I want to practise Maths and English more after school.</eng>
 </teacher_script>
 
 <teacher_script pause="120">
@@ -295,7 +265,7 @@ Record xong bấm tiếp tục nha.
 ### Bài 3 trang 11 - Complete the facts
 
 <teacher_script pause="45">
-Bài 3. Điền tên quốc gia phù hợp từ khung vào chỗ trống. 4 câu và 4 quốc gia: Japan, Viet Nam, Iceland, the USA. 45 giây nha.
+Bài 3 <eng>Complete the facts</eng> nha. Điền tên quốc gia phù hợp từ khung vào chỗ trống. 4 câu và 4 quốc gia: <eng>Japan</eng>, <eng>Viet Nam</eng>, <eng>Iceland</eng>, <eng>the USA</eng>. 45 giây nha.
 </teacher_script>
 
 <task>
@@ -340,35 +310,19 @@ Giải thích từng câu nha.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 1: Pokemon cartoons are from JAPAN.
+Câu 1: <eng>Pokemon cartoons are from Japan.</eng> - Pokemon là phim hoạt hình nổi tiếng của Nhật Bản. Ai mà không biết Pikachu thì hơi lạ nha.
 </teacher_script>
 
 <teacher_script pause="0">
-Pokemon là phim hoạt hình nổi tiếng của Nhật Bản.
+Câu 2: <eng>Bibi in Viet Nam shows international and Vietnamese cartoons.</eng> - Bibi là kênh phim hoạt hình của Việt Nam. Mấy đứa nhỏ hay coi lắm.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 2: Bibi in VIET NAM shows international and Vietnamese cartoons.
+Câu 3: <eng>In Iceland, there was no TV on Thursdays before 1986.</eng> - Đây là sự thật thú vị nha: Ở Iceland, trước năm 1986, thứ Năm không có chương trình TV luôn! Lạ ghê hông?
 </teacher_script>
 
 <teacher_script pause="0">
-Bibi là kênh phim hoạt hình của Việt Nam.
-</teacher_script>
-
-<teacher_script pause="0">
-Câu 3: In ICELAND, there was no TV on Thursdays before 1986.
-</teacher_script>
-
-<teacher_script pause="0">
-Đây là sự thật thú vị: Ở Iceland, trước năm 1986, thứ Năm không có chương trình TV!
-</teacher_script>
-
-<teacher_script pause="0">
-Câu 4: Discovery Channel makes education fun for children in THE USA.
-</teacher_script>
-
-<teacher_script pause="0">
-Discovery Channel là kênh giáo dục nổi tiếng của Mỹ.
+Câu 4: <eng>Discovery Channel makes education fun for children in the USA.</eng> - Discovery Channel là kênh giáo dục nổi tiếng của Mỹ.
 </teacher_script>
 
 <explanation>
@@ -392,7 +346,7 @@ Sửa bài nếu sai. 30 giây nha.
 ### Bài 4 trang 11 - Read and tick
 
 <teacher_script pause="0">
-Bài 4 nha. Đọc về 2 chương trình TV và tick vào bảng.
+Bài 4 <eng>Read and tick</eng> nha. Đọc về 2 chương trình TV và tick vào bảng.
 </teacher_script>
 
 <task>
@@ -405,7 +359,7 @@ Bài 4 nha. Đọc về 2 chương trình TV và tick vào bảng.
 
 <!-- chunk: exercise_4_reading_1 -->
 <teacher_script pause="0">
-Đọc đoạn 1 về chương trình Let's Learn nha.
+Đọc đoạn 1 về chương trình <eng>Let's Learn</eng> nha.
 </teacher_script>
 
 <reading>
@@ -420,26 +374,18 @@ Bài 4 nha. Đọc về 2 chương trình TV và tick vào bảng.
 </reading>
 
 <teacher_script pause="0">
-Let's Learn là chương trình giáo dục - educational TV programme.
+<eng>Let's Learn is an educational TV programme. It makes learning fun.</eng> - Let's Learn là chương trình giáo dục. Nó làm cho việc học trở nên thú vị.
 </teacher_script>
 
 <teacher_script pause="0">
-Nó làm cho việc học trở nên thú vị - It makes learning fun.
-</teacher_script>
-
-<teacher_script pause="0">
-Có nhân vật đáng yêu và bài hát thú vị - cute characters and fun songs.
-</teacher_script>
-
-<teacher_script pause="0">
-Người dân ở 80 quốc gia xem mỗi ngày. Cả trẻ em và bố mẹ đều thích.
+<eng>It has cute characters and fun songs.</eng> - Có nhân vật đáng yêu và bài hát thú vị. Người dân ở 80 quốc gia xem mỗi ngày. Cả trẻ em và bố mẹ đều thích. Phổ biến dữ luôn á.
 </teacher_script>
 
 ---
 
 <!-- chunk: exercise_4_reading_2 -->
 <teacher_script pause="0">
-Đọc đoạn 2 về chương trình Hello Fatty nha.
+Đọc đoạn 2 về chương trình <eng>Hello Fatty</eng> nha.
 </teacher_script>
 
 <reading>
@@ -453,23 +399,15 @@ Người dân ở 80 quốc gia xem mỗi ngày. Cả trẻ em và bố mẹ đ�
 </reading>
 
 <teacher_script pause="0">
-Hello Fatty là phim hoạt hình phổ biến - popular cartoon.
+<eng>Hello Fatty is a popular cartoon.</eng> - Hello Fatty là phim hoạt hình phổ biến. Nói về một con cáo thông minh tên Fatty và bạn của nó.
 </teacher_script>
 
 <teacher_script pause="0">
-Nói về một con cáo thông minh tên Fatty và bạn của nó.
+Chúng đi đến nhiều nơi cùng nhau. Trẻ em trên thế giới thích chương trình này.
 </teacher_script>
 
 <teacher_script pause="0">
-Chúng đi đến nhiều nơi cùng nhau.
-</teacher_script>
-
-<teacher_script pause="0">
-Trẻ em trên thế giới thích chương trình này.
-</teacher_script>
-
-<teacher_script pause="0">
-Nó thú vị VÀ có tính giáo dục - funny AND educational.
+<eng>It's funny and educational.</eng> - Nó vừa vui vừa có tính giáo dục. Một công đôi việc luôn.
 </teacher_script>
 
 ---
@@ -518,43 +456,23 @@ Giải thích từng câu nha.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 1: Children love the programme - Trẻ em thích chương trình.
+Câu 1: Trẻ em thích chương trình. Cả 2 đều đúng. <eng>Let's Learn</eng> nói <eng>Children love this programme</eng>. <eng>Hello Fatty</eng> nói <eng>Children around the world love this programme</eng>.
 </teacher_script>
 
 <teacher_script pause="0">
-Cả 2 đều đúng. Let's Learn: "Children love this programme". Hello Fatty: "Children around the world love this programme".
+Câu 2: Có nhân vật đáng yêu và bài hát thú vị. Chỉ <eng>Let's Learn</eng>. Đoạn văn nói <eng>It has cute characters and fun songs.</eng>
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 2: It has cute characters and fun songs - Có nhân vật đáng yêu và bài hát thú vị.
+Câu 3: Nói về một con cáo thông minh. Chỉ <eng>Hello Fatty</eng>. Đoạn văn nói <eng>a clever fox named Fatty</eng>.
 </teacher_script>
 
 <teacher_script pause="0">
-Chỉ Let's Learn. Đoạn văn nói: "It has cute characters and fun songs."
+Câu 4: Làm cho việc học thú vị. Chỉ <eng>Let's Learn</eng>. Đoạn văn nói <eng>It makes learning fun.</eng>
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 3: It's about a clever fox - Nói về một con cáo thông minh.
-</teacher_script>
-
-<teacher_script pause="0">
-Chỉ Hello Fatty. Đoạn văn nói: "a clever fox named Fatty".
-</teacher_script>
-
-<teacher_script pause="0">
-Câu 4: It makes learning fun - Làm cho việc học thú vị.
-</teacher_script>
-
-<teacher_script pause="0">
-Chỉ Let's Learn. Đoạn văn nói: "It makes learning fun."
-</teacher_script>
-
-<teacher_script pause="0">
-Câu 5: It's funny and educational - Thú vị và có tính giáo dục.
-</teacher_script>
-
-<teacher_script pause="0">
-Chỉ Hello Fatty. Đoạn văn nói: "It's funny and educational."
+Câu 5: Thú vị và có tính giáo dục. Chỉ <eng>Hello Fatty</eng>. Đoạn văn nói <eng>It's funny and educational.</eng>
 </teacher_script>
 
 <explanation>
@@ -579,7 +497,7 @@ Sửa bài nếu sai. 30 giây nha.
 ### Bài 5 trang 11 - Tell your group
 
 <teacher_script pause="0">
-Bài 5 nha. Nói với nhóm em thích chương trình nào hơn và tại sao.
+Bài 5 <eng>Tell your group</eng> nha. Nói với nhóm em thích chương trình nào hơn và tại sao.
 </teacher_script>
 
 <task>
@@ -601,11 +519,7 @@ Bài 5 nha. Nói với nhóm em thích chương trình nào hơn và tại sao.
 </grammar>
 
 <teacher_script pause="0">
-Dùng cấu trúc: I like... because... hoặc I prefer... because...
-</teacher_script>
-
-<teacher_script pause="0">
-Prefer nghĩa là thích hơn - dùng khi so sánh 2 thứ.
+Dùng cấu trúc: <eng>I like... because... I prefer... because...</eng> - <eng>Prefer</eng> nghĩa là thích hơn - dùng khi so sánh 2 thứ nha.
 </teacher_script>
 
 ---
@@ -625,19 +539,19 @@ Prefer nghĩa là thích hơn - dùng khi so sánh 2 thứ.
 </dialogue>
 
 <teacher_script pause="0">
-Mẫu 1: I like Let's Learn because it has cute characters and fun songs.
+Mẫu 1: <eng>I like Let's Learn because it has cute characters and fun songs.</eng>
 </teacher_script>
 
 <teacher_script pause="0">
-Mẫu 2: I prefer Hello Fatty because it's funny and educational.
+Mẫu 2: <eng>I prefer Hello Fatty because it's funny and educational.</eng>
 </teacher_script>
 
 <teacher_script pause="0">
-Mẫu 3: I like Let's Learn because it makes learning fun.
+Mẫu 3: <eng>I like Let's Learn because it makes learning fun.</eng>
 </teacher_script>
 
 <teacher_script pause="0">
-Mẫu 4: I prefer Hello Fatty because I love the clever fox Fatty.
+Mẫu 4: <eng>I prefer Hello Fatty because I love the clever fox Fatty.</eng>
 </teacher_script>
 
 <teacher_script pause="60">
@@ -652,7 +566,7 @@ Bấm nút Ghi âm để nói câu của mình và gửi cho thầy sửa nha.
 </teacher_script>
 
 <teacher_script pause="0">
-Nói: I like/prefer [programme name] because [reason].
+Nói theo cấu trúc: <eng>I like... because... I prefer... because...</eng>
 </teacher_script>
 
 <teacher_script pause="0">
@@ -663,7 +577,7 @@ Record xong bấm tiếp tục nha.
 
 <!-- chunk: summary -->
 <teacher_script pause="0">
-Tóm tắt bài học Communication nha.
+Tóm tắt bài học <eng>Communication</eng> nha.
 </teacher_script>
 
 <grammar>
@@ -702,23 +616,19 @@ Tóm tắt bài học Communication nha.
 </grammar>
 
 <teacher_script pause="0">
-Tóm tắt nha.
+Tóm tắt nha. Hỏi chương trình yêu thích: <eng>What's your favourite TV programme?</eng>
 </teacher_script>
 
 <teacher_script pause="0">
-Hỏi chương trình yêu thích: What's your favourite TV programme?
+Hỏi lý do: <eng>Why do you like it?</eng>
 </teacher_script>
 
 <teacher_script pause="0">
-Hỏi lý do: Why do you like it?
+Trả lời lý do: <eng>Because...</eng>
 </teacher_script>
 
 <teacher_script pause="0">
-Trả lời lý do: Because + lý do.
-</teacher_script>
-
-<teacher_script pause="0">
-Nói sở thích: I like/prefer... because...
+Nói sở thích: <eng>I like... because... I prefer... because...</eng>
 </teacher_script>
 
 <teacher_script pause="60">
@@ -729,17 +639,17 @@ Ghi tóm tắt vô tập đi. 1 phút nha.
 
 <!-- chunk: end -->
 <teacher_script pause="0">
-Ok hết Communication rồi.
+Ok hết <eng>Communication</eng> rồi.
 </teacher_script>
 
 <teacher_script pause="0">
-Về nhà luyện hỏi đáp với bạn bè hoặc gia đình nha.
+Về nhà luyện hỏi đáp với bạn bè hoặc gia đình nha. Hỏi ông bà thích chương trình gì luôn đi, vui lắm.
 </teacher_script>
 
 <teacher_script pause="0">
-Nhớ cấu trúc: What's your favourite... Why do you like it... Because...
+Nhớ cấu trúc: <eng>What's your favourite... Why do you like it... Because...</eng>
 </teacher_script>
 
 <teacher_script pause="0">
-Bài sau qua Skills 1 - Reading và Speaking. Hẹn gặp lại!
+Bài sau qua <eng>Skills 1</eng> - Reading và Speaking. Hẹn gặp lại!
 </teacher_script>

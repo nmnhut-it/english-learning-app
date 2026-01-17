@@ -3,7 +3,7 @@
 ## GETTING STARTED - The Natural Wonders Contest
 
 <teacher_script pause="0">
-Ok lớp 9, Unit 7 nha - Natural Wonders of the World. Các kỳ quan thiên nhiên thế giới. Mở sách trang 72 đi.
+Ok lớp 9, <eng>Unit 7 - Natural Wonders of the World</eng>. Các kỳ quan thiên nhiên thế giới. Chủ đề này quan trọng, hay ra trong đề thi vào 10 luôn. Mở sách trang 72 đi.
 </teacher_script>
 
 ---
@@ -54,7 +54,7 @@ Bấm nút Ghi âm để đọc lại và gửi cho thầy sửa nha.
 ### Bài 1 trang 72 - Listen and read
 
 <teacher_script pause="0">
-Bài 1. Nghe và đọc hội thoại. Lan gặp Tom ở hành lang trường, tụi nó nói về cuộc thi Kỳ quan Thiên nhiên.
+Bài 1 <eng>Listen and read</eng>. Nghe và đọc hội thoại. Lan gặp Tom ở hành lang trường, tụi nó nói về cuộc thi Kỳ quan Thiên nhiên. Chú ý cấu trúc câu hỏi gián tiếp trong bài nha, quan trọng cho phần grammar sau.
 </teacher_script>
 
 <task>
@@ -112,7 +112,7 @@ Bấm nút Ghi âm để đọc hội thoại và gửi cho thầy sửa nha.
 ### Bài 2 trang 73 - True or False
 
 <teacher_script pause="60">
-Bài 2, đúng hay sai. 1 phút nha.
+Bài 2 <eng>Decide if the following statements are true or false</eng>. Đúng hay sai. 1 phút nha. Dạng bài này cần đọc kỹ, đừng vội vàng.
 </teacher_script>
 
 <task>
@@ -144,12 +144,28 @@ Bài 2, đúng hay sai. 1 phút nha.
 </questions>
 
 <teacher_script pause="0" type="answer">
-Ok đáp án nha. Câu 1 là T - True, câu 2 là F - False, câu 3 là T - True, câu 4 là F - False.
+Ok đáp án nha.
 </teacher_script>
 
 <answer>
 **Đáp án:** 1.T | 2.F | 3.T | 4.F
 </answer>
+
+<teacher_script pause="0">
+Câu 1 là <eng>True</eng>. Tom <eng>won second prize</eng>, nghĩa là Tom tham gia cuộc thi.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 2 là <eng>False</eng>. Lan nói <eng>I'm interested in them, too</eng>, nghĩa là Lan cũng quan tâm. Chữ <eng>not</eng> trong đề làm câu sai.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 3 là <eng>True</eng>. Tom nói <eng>I suggested ways to preserve them</eng>. Đúng y chang trong bài.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 4 là <eng>False</eng>. Cẩn thận câu này. <eng>The host asked me if I wanted to visit those places</eng> - người dẫn chương trình hỏi Tom, không phải Tom hỏi. Đề đổi ngược chủ ngữ, nhiều bạn hay sai chỗ này.
+</teacher_script>
 
 <explanation>
 **Giải thích:**
@@ -164,7 +180,7 @@ Ok đáp án nha. Câu 1 là T - True, câu 2 là F - False, câu 3 là T - True
 ### Bài 3 trang 73 - Fill in the blanks
 
 <teacher_script pause="60">
-Bài 3, điền từ vào chỗ trống. 1 phút nha.
+Bài 3 <eng>Fill in the blanks with the words from the conversation</eng>. Điền từ vào chỗ trống. 1 phút nha. Từ vựng trong bài này quan trọng, hay ra trong bài viết và bài đọc thi vào 10.
 </teacher_script>
 
 <task>
@@ -186,12 +202,32 @@ Bài 3, điền từ vào chỗ trống. 1 phút nha.
 </questions>
 
 <teacher_script pause="0" type="answer">
-Ok đáp án nha. 1 là landscape, 2 là couldn't help, 3 là explore, 4 là support, 5 là development.
+Ok đáp án nha.
 </teacher_script>
 
 <answer>
 **Đáp án:** 1. landscape | 2. couldn't help | 3. explore | 4. support | 5. development
 </answer>
+
+<teacher_script pause="0">
+Câu 1 là <eng>landscape</eng> - phong cảnh. <eng>Everything you see when you look across a large area</eng> - đó là định nghĩa của <eng>landscape</eng>.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 2 là <eng>couldn't help</eng>. Cấu trúc <eng>can't help + Ving</eng> = không thể không làm gì. Trong bài là <eng>can't help admiring</eng>. Cấu trúc này quan trọng nha, nhớ kỹ.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 3 là <eng>explore</eng> - khám phá. <eng>The best way to explore</eng> = cách tốt nhất để khám phá.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 4 là <eng>support</eng> - ủng hộ. <eng>Environmentalists support measures</eng> = nhà môi trường ủng hộ biện pháp.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 5 là <eng>development</eng>. <eng>Sustainable development</eng> = phát triển bền vững. Cụm từ này rất quan trọng, hay ra thi luôn.
+</teacher_script>
 
 <explanation>
 **Giải thích:**
@@ -207,7 +243,7 @@ Ok đáp án nha. 1 là landscape, 2 là couldn't help, 3 là explore, 4 là sup
 ### Bài 4 trang 73 - Complete the sentences
 
 <teacher_script pause="60">
-Bài 4. Hoàn thành câu với dạng đúng của từ cho sẵn. Chú ý chia động từ hoặc biến đổi từ cho phù hợp. 1 phút nha.
+Bài 4 <eng>Complete the sentences with the correct form of the words given</eng>. Hoàn thành câu với dạng đúng của từ cho sẵn. Chú ý chia động từ hoặc biến đổi từ cho phù hợp. 1 phút nha. Dạng bài <eng>word form</eng> này rất quan trọng cho thi.
 </teacher_script>
 
 <task>
@@ -231,12 +267,32 @@ Bài 4. Hoàn thành câu với dạng đúng của từ cho sẵn. Chú ý chia
 </questions>
 
 <teacher_script pause="0" type="answer">
-Đáp án: 1 là crazy, 2 là landscape, 3 là explore, 4 là suggest, 5 là contributes.
+Đáp án nha.
 </teacher_script>
 
 <answer>
 **Đáp án:** 1. crazy | 2. landscape | 3. explore | 4. suggest | 5. contributes
 </answer>
+
+<teacher_script pause="0">
+Câu 1: <eng>crazy</eng>. <eng>Be crazy about</eng> = mê, cuồng. Không đổi dạng vì đây là tính từ.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 2: <eng>landscape</eng> - phong cảnh. Danh từ, không đổi dạng.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 3: <eng>explore</eng>. Cấu trúc <eng>eager to + V-inf</eng>, nên giữ nguyên <eng>explore</eng>.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 4: <eng>suggest</eng>. <eng>Can you suggest...?</eng> Động từ nguyên mẫu sau <eng>can</eng>, không chia.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 5: <eng>contributes</eng>. <eng>Tourism</eng> là danh từ số ít, nên động từ phải thêm <eng>s</eng>. Thì hiện tại đơn, diễn tả sự thật. Cẩn thận câu này, nhiều bạn quên thêm <eng>s</eng>.
+</teacher_script>
 
 <explanation>
 **Giải thích:**
@@ -250,5 +306,5 @@ Bài 4. Hoàn thành câu với dạng đúng của từ cho sẵn. Chú ý chia
 ---
 
 <teacher_script pause="0">
-Ok hết Getting Started rồi. Về nhà học từ vựng về kỳ quan thiên nhiên, bài sau qua A Closer Look 1 nha.
+Ok hết <eng>Getting Started</eng> rồi. Về nhà học từ vựng về kỳ quan thiên nhiên nha. Chủ đề này quan trọng cho thi vào 10, từ vựng hay ra trong bài đọc hiểu. Bài sau qua <eng>A Closer Look 1</eng>.
 </teacher_script>

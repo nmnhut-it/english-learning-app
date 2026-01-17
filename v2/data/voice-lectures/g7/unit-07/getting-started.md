@@ -4,8 +4,11 @@
 
 <!-- chunk: intro -->
 <teacher_script pause="0">
-Chào mấy đứa lớp 7. Hôm nay thầy kẹt lịch nên không dạy ở nhà được. Đây là bài đầu tiên, Unit 7 - Traffic, giao thông. Các em có thể học bài này nhiều lần để nhớ lâu hơn hen.
-Các em mở sách ra trang 8 tập 2, Unit 7, bài Getting Started, ghi tựa bài. Sau đó bấm nút "Bắt đầu" bên dưới để học từ vựng. Máy sẽ đọc và các em đọc theo. Sau đó các em làm bài trắc nghiệm từ vựng rồi ghi từ vựng vô tập.
+Chào mấy đứa lớp 7. Hôm nay thầy kẹt lịch nên không dạy ở nhà được. Đây là bài đầu tiên, Unit 7 - <eng>Traffic</eng>, giao thông. Các em có thể học bài này nhiều lần để nhớ lâu hơn hen.
+</teacher_script>
+
+<teacher_script pause="0">
+Các em mở sách ra trang 8 tập 2, Unit 7, bài <eng>Getting Started</eng>, ghi tựa bài. Sau đó bấm nút "Bắt đầu" bên dưới để học từ vựng. Máy sẽ đọc và các em đọc theo. Sau đó các em làm bài trắc nghiệm từ vựng rồi ghi từ vựng vô tập.
 </teacher_script>
 
 ---
@@ -48,8 +51,7 @@ Bấm nút Ghi âm để đọc từ vựng và gửi cho thầy sửa nha.
 </audio>
 
 <teacher_script pause="180">
-Bài 1 nha. Đây là hội thoại Lan với Mark gặp nhau ở sân trường, nói về cách đi lại.
-Đọc hội thoại và dịch vô tập. 3 phút hen.
+Bài 1 <eng>Listen and read</eng> nha. Đây là hội thoại Lan với Mark gặp nhau ở sân trường, nói về cách đi lại. Đọc hội thoại và dịch vô tập. 3 phút hen.
 </teacher_script>
 
 <dialogue>
@@ -93,7 +95,7 @@ Ok đây là bản dịch. So sánh với bài dịch của mình nha.
 **Mark:** OK, Lan. Hẹn gặp lại.
 </translation>
 
-<teacher_script>
+<teacher_script pause="0">
 Mấy đứa sửa bài dịch nếu sai. Sau đó qua bài tiếp theo.
 </teacher_script>
 
@@ -107,7 +109,7 @@ Bấm nút Ghi âm để đọc hội thoại và gửi cho thầy sửa nha.
 ### Bài 2 trang 8 - Choose the correct answer
 
 <teacher_script pause="60">
-Bài 2. Đọc lại hội thoại, chọn đáp án đúng A, B hoặc C. 1 phút nha.
+Bài 2 <eng>Choose the correct answer A, B, or C</eng>. Đọc lại hội thoại, chọn đáp án đúng A, B hoặc C. 1 phút nha.
 </teacher_script>
 
 <questions type="multiple_choice">
@@ -148,17 +150,17 @@ Bài 2. Đọc lại hội thoại, chọn đáp án đúng A, B hoặc C. 1 ph�
 **Giải thích:**
 
 **Câu 1: A - By bicycle**
-- Mark hỏi: "do you cycle to school too?"
-- Lan trả lời: "Yes" → Lan thường đạp xe đến trường.
-- cycle = đạp xe = by bicycle/by bike
+- Mark hỏi: <eng>do you cycle to school too?</eng>
+- Lan trả lời: <eng>Yes</eng> → Lan thường đạp xe đến trường.
+- <eng>cycle</eng> = đạp xe = <eng>by bicycle/by bike</eng>
 
 **Câu 2: B - ten minutes**
-- Lan nói: "About 10 minutes."
-- Chú ý: "two kilometres" là khoảng cách, không phải thời gian nha.
+- Lan nói: <eng>About 10 minutes.</eng>
+- Chú ý: <eng>two kilometres</eng> là khoảng cách, không phải thời gian nha.
 
 **Câu 3: C - at the weekend**
-- Mark hỏi: "how about going cycling round the lake this Sunday?"
-- Sunday = chủ nhật = cuối tuần (weekend)
+- Mark hỏi: <eng>how about going cycling round the lake this Sunday?</eng>
+- <eng>Sunday</eng> = chủ nhật = cuối tuần (<eng>weekend</eng>)
 </explanation>
 
 <teacher_script pause="30">
@@ -174,7 +176,7 @@ Các em sửa bài nếu có sai. Nếu cần hỏi thầy cái gì thì nhấn 
 ### Bài 3 trang 8 - Complete the sentences
 
 <teacher_script pause="60">
-Bài 3. Viết một từ từ hội thoại để hoàn thành mỗi câu. 1 phút nha.
+Bài 3 <eng>Complete the sentences with words from the dialogue</eng>. Viết một từ từ hội thoại để hoàn thành mỗi câu. 1 phút nha.
 </teacher_script>
 
 <questions type="fill_blanks">
@@ -214,24 +216,24 @@ Thầy sửa đáp án. Các em kiểm tra lại nha.
 **Giải thích:**
 
 **Câu 1: cycled**
-- Lan nói: "I cycled round the lake"
-- cycled = quá khứ đơn của cycle (đạp xe)
+- Lan nói: <eng>I cycled round the lake</eng>
+- <eng>cycled</eng> = quá khứ đơn của <eng>cycle</eng> (đạp xe)
 
 **Câu 2: should**
-- Mark nói: "You should be careful"
-- should = nên (dùng để khuyên ai đó)
+- Mark nói: <eng>You should be careful</eng>
+- <eng>should</eng> = nên (dùng để khuyên ai đó)
 
 **Câu 3: jams**
-- traffic jams = tắc đường, kẹt xe
-- Trong hội thoại: "when there are traffic jams"
+- <eng>traffic jams</eng> = tắc đường, kẹt xe
+- Trong hội thoại: <eng>when there are traffic jams</eng>
 
 **Câu 4: How**
-- "How does your mum go shopping?" = Mẹ bạn đi mua sắm bằng cách nào?
-- How + do/does + S + V? → hỏi về phương tiện
+- <eng>How does your mum go shopping?</eng> = Mẹ bạn đi mua sắm bằng cách nào?
+- <eng>How + do/does + S + V?</eng> → hỏi về phương tiện
 
 **Câu 5: crowded**
-- Lan nói: "The roads get really crowded"
-- crowded = đông đúc
+- Lan nói: <eng>The roads get really crowded</eng>
+- <eng>crowded</eng> = đông đúc
 </explanation>
 
 <teacher_script pause="30">
@@ -244,7 +246,7 @@ Sửa bài nếu sai. 30 giây nha.
 ### Bài 4 trang 9 - Means of transport
 
 <teacher_script pause="60">
-Bài 4. Nhìn hình và viết tên phương tiện giao thông. Ghi vô tập các từ mới. 1 phút nha.
+Bài 4 <eng>Write the means of transport under each picture</eng>. Nhìn hình và viết tên phương tiện giao thông. Ghi vô tập các từ mới. 1 phút nha.
 </teacher_script>
 
 <vocabulary>
@@ -268,7 +270,7 @@ Bấm nút Ghi âm để đọc các phương tiện giao thông và gửi cho t
 ### Bài 5 trang 9 - Find someone who...
 
 <teacher_script pause="0">
-Bài 5 là bài Speaking. Tìm bạn trong lớp theo từng tiêu chí.
+Bài 5 <eng>Find someone who...</eng> Đây là bài <eng>Speaking</eng>. Tìm bạn trong lớp theo từng tiêu chí.
 </teacher_script>
 
 <questions type="speaking">
@@ -312,8 +314,17 @@ Bài 5 là bài Speaking. Tìm bạn trong lớp theo từng tiêu chí.
 
 <!-- chunk: end -->
 <teacher_script pause="0">
-Ok hết Getting Started rồi. Về nhà học từ vựng nha. Nhớ 2 cấu trúc quan trọng:
-- How far is it from A to B? - Từ A đến B bao xa?
-- How long does it take...? - Mất bao lâu để...?
-Bài sau qua A Closer Look 1. Hẹn gặp lại!
+Ok hết <eng>Getting Started</eng> rồi. Về nhà học từ vựng nha. Nhớ 2 cấu trúc quan trọng:
+</teacher_script>
+
+<teacher_script pause="0">
+<eng>How far is it from A to B?</eng> - Từ A đến B bao xa?
+</teacher_script>
+
+<teacher_script pause="0">
+<eng>How long does it take?</eng> - Mất bao lâu?
+</teacher_script>
+
+<teacher_script pause="0">
+Bài sau qua <eng>A Closer Look 1</eng>. Hẹn gặp lại!
 </teacher_script>

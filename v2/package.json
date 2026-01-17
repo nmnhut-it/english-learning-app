@@ -1,0 +1,34 @@
+{
+  "name": "voice-lecture-v2",
+  "version": "1.0.0",
+  "description": "Voice Lecture System v2 - Testable vanilla TypeScript implementation",
+  "type": "module",
+  "scripts": {
+    "dev": "npx serve -l 3003 .",
+    "test": "npm run test:unit && npm run test:e2e",
+    "test:unit": "vitest run src/voice-lecture/__tests__/",
+    "test:unit:watch": "vitest src/voice-lecture/__tests__/",
+    "test:e2e": "playwright test -c tests/voice-lecture/playwright.config.ts",
+    "test:e2e:ui": "playwright test -c tests/voice-lecture/playwright.config.ts --ui",
+    "test:e2e:headed": "playwright test -c tests/voice-lecture/playwright.config.ts --headed",
+    "test:observe": "OBSERVE=true playwright test -c tests/voice-lecture/playwright.config.ts --project=observation specs/user-observation.spec.ts",
+    "test:observe:fast": "playwright test -c tests/voice-lecture/playwright.config.ts --headed specs/user-observation.spec.ts",
+    "test:validate-content": "playwright test -c tests/voice-lecture/playwright.config.ts specs/content-validation.spec.ts",
+    "playwright:install": "playwright install chromium",
+    "render": "npx ts-node --esm src/voice-lecture/tools/render-cli.ts",
+    "render:json": "npx ts-node --esm src/voice-lecture/tools/render-cli.ts --json"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.40.0",
+    "ts-node": "^10.9.0",
+    "typescript": "^5.3.0",
+    "vitest": "^1.0.0",
+    "serve": "^14.2.0"
+  },
+  "keywords": [
+    "voice-lecture",
+    "english-learning",
+    "tts",
+    "education"
+  ]
+}
