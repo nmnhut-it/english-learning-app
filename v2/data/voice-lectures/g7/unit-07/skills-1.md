@@ -12,6 +12,7 @@ Bài này học về luật an toàn giao thông. Có phần Reading và Speakin
 
 <!-- chunk: vocabulary -->
 <vocabulary>
+**Từ vựng bài đọc:**
 1. **road safety** : (n) an toàn giao thông /rəʊd ˈseɪfti/
 2. **obey** : (v) tuân theo, tuân thủ /əˈbeɪ/
 3. **road user** : (n) người tham gia giao thông /rəʊd ˈjuːzə/
@@ -29,6 +30,13 @@ Bài này học về luật an toàn giao thông. Có phần Reading và Speakin
 15. **get on / get off** : lên xe / xuống xe /ɡet ɒn/ /ɡet ɒf/
 16. **stick out** : đưa ra ngoài /stɪk aʊt/
 17. **moving vehicle** : phương tiện đang di chuyển /ˈmuːvɪŋ ˈviːɪkl/
+
+**Từ vựng bài Speaking:**
+18. **stand in a line** : xếp hàng /stænd ɪn ə laɪn/
+19. **shout** : (v) la hét, hét lớn /ʃaʊt/
+20. **wave** : (v) vẫy tay /weɪv/
+21. **careful** : (adj) cẩn thận /ˈkeəfl/
+22. **carefully** : (adv) một cách cẩn thận /ˈkeəfli/
 </vocabulary>
 
 <teacher_script pause="120">
