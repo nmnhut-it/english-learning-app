@@ -4,10 +4,7 @@
 
 <!-- chunk: vocabulary -->
 <teacher_script pause="0">
-Chào mấy đứa. Hôm nay thầy kẹt lịch nên không dạy ở nhà được. Đây là bài đầu tiên, Unit 7 - Television. Các em có thể học bài này nhiều lần để nhớ lâu hơn hen.
-</teacher_script>
-
-<teacher_script pause="0">
+Chào mấy đứa. Hôm nay thầy kẹt lịch nên không dạy ở nhà được. Đây là bài đầu tiên, Unit 7 - Television. Các em có thể học bài này nhiều lần để nhớ lâu hơn hen. 
 Các em mở sách ra, Unit 7, bài Getting Started, ghi tựa bài. Sau đó bấm nút "Bắt đầu" bên dưới để học từ vựng. Máy sẽ đọc và các em đọc theo. Sau đó các em làm bài trắc nghiệm từ vựng rồi ghi từ vựng vô tập.  
 </teacher_script>
 

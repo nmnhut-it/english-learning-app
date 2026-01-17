@@ -1,0 +1,367 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>Voice Lectures - English Learning App</title>
+  <style>
+    *{box-sizing:border-box;margin:0;padding:0}
+    :root{--primary:#0ea5e9;--primary-dark:#0284c7;--accent:#06b6d4;--success:#10b981;--warning:#f59e0b;--bg:#f0f9ff;--card:#fff;--text:#0f172a;--muted:#64748b;--border:#e0f2fe;--radius:12px}
+    body{font-family:'Segoe UI',system-ui,-apple-system,sans-serif;background:linear-gradient(180deg,#f0f9ff 0%,#e0f2fe 100%);color:var(--text);line-height:1.6;min-height:100vh;padding-bottom:env(safe-area-inset-bottom,20px)}
+
+    /* Header */
+    header{background:linear-gradient(135deg,#0284c7,#0ea5e9);color:#fff;padding:16px;padding-top:calc(16px + env(safe-area-inset-top,0));text-align:center;box-shadow:0 2px 12px rgba(14,165,233,.3)}
+    header h1{font-size:1.25rem;font-weight:700;margin-bottom:4px}
+    header p{font-size:.85rem;opacity:.9}
+
+    /* Container */
+    .container{max-width:640px;margin:0 auto;padding:16px}
+
+    /* Settings Panel */
+    .settings{background:var(--card);border-radius:var(--radius);margin-bottom:16px;box-shadow:0 2px 8px rgba(0,0,0,.06);border:1px solid var(--border);overflow:hidden}
+    .settings-header{display:flex;align-items:center;gap:10px;padding:14px 16px;cursor:pointer;background:linear-gradient(135deg,#f0f9ff,#e0f2fe);transition:background .2s}
+    .settings-header:hover{background:linear-gradient(135deg,#e0f2fe,#bae6fd)}
+    .settings-header svg{width:20px;height:20px;color:var(--primary)}
+    .settings-header span{flex:1;font-weight:600;color:var(--primary-dark)}
+    .settings-toggle{width:24px;height:24px;transition:transform .3s}
+    .settings.open .settings-toggle{transform:rotate(180deg)}
+    .settings-content{display:none;padding:16px;border-top:1px solid var(--border)}
+    .settings.open .settings-content{display:block}
+    .settings-row{margin-bottom:12px}
+    .settings-row label{display:block;font-size:.85rem;color:var(--muted);margin-bottom:4px}
+    .settings-row input{width:100%;padding:10px 12px;border:2px solid var(--border);border-radius:8px;font-size:.95rem;transition:border-color .2s}
+    .settings-row input:focus{outline:none;border-color:var(--primary)}
+    .settings-actions{display:flex;gap:10px;margin-top:16px}
+    .btn{padding:10px 20px;border-radius:8px;font-weight:600;cursor:pointer;transition:all .2s;border:none}
+    .btn-primary{background:linear-gradient(135deg,#0ea5e9,#0284c7);color:#fff;box-shadow:0 2px 8px rgba(14,165,233,.3)}
+    .btn-primary:hover{transform:translateY(-1px);box-shadow:0 4px 12px rgba(14,165,233,.4)}
+    .btn-secondary{background:var(--bg);color:var(--primary-dark);border:2px solid var(--border)}
+    .btn-secondary:hover{border-color:var(--primary)}
+
+    /* Warning Banner */
+    .warning{background:linear-gradient(135deg,#fffbeb,#fef3c7);border:2px solid #fbbf24;border-radius:var(--radius);padding:12px 16px;margin-bottom:16px;display:flex;align-items:center;gap:10px;font-size:.9rem;color:#92400e}
+    .warning.hidden{display:none}
+    .warning svg{width:20px;height:20px;flex-shrink:0;color:#f59e0b}
+
+    /* Grade Tabs */
+    .tabs{display:flex;gap:8px;margin-bottom:16px;overflow-x:auto;padding-bottom:4px}
+    .tab{flex:1;min-width:70px;padding:12px 8px;background:var(--card);border:2px solid var(--border);border-radius:10px;text-align:center;font-weight:600;cursor:pointer;transition:all .2s;white-space:nowrap}
+    .tab:hover{border-color:#7dd3fc}
+    .tab.active{background:linear-gradient(135deg,#0ea5e9,#0284c7);color:#fff;border-color:transparent;box-shadow:0 2px 8px rgba(14,165,233,.3)}
+
+    /* Units */
+    .units{display:none}
+    .units.active{display:block}
+    .unit{background:var(--card);border-radius:var(--radius);padding:16px;margin-bottom:12px;box-shadow:0 2px 8px rgba(0,0,0,.06);border:1px solid var(--border)}
+    .unit-title{font-weight:700;color:var(--primary-dark);margin-bottom:12px;font-size:1rem}
+    .sections{display:flex;flex-wrap:wrap;gap:8px}
+    .section-btn{padding:10px 14px;background:linear-gradient(135deg,#f0f9ff,#e0f2fe);border:2px solid #bae6fd;border-radius:10px;font-weight:600;font-size:.85rem;color:#0369a1;cursor:pointer;transition:all .2s;user-select:none;-webkit-user-select:none;touch-action:manipulation}
+    .section-btn:hover{border-color:#0ea5e9;background:linear-gradient(135deg,#e0f2fe,#bae6fd);transform:scale(1.02)}
+    .section-btn:active{transform:scale(.98)}
+    .section-btn.disabled{opacity:.4;cursor:not-allowed;pointer-events:none}
+
+    /* Toast */
+    .toast{position:fixed;bottom:80px;left:50%;transform:translateX(-50%) translateY(100px);background:linear-gradient(135deg,#0c4a6e,#075985);color:#fff;padding:12px 24px;border-radius:50px;font-weight:500;z-index:1000;opacity:0;transition:all .3s;box-shadow:0 4px 16px rgba(0,0,0,.2)}
+    .toast.show{transform:translateX(-50%) translateY(0);opacity:1}
+
+    /* Footer */
+    footer{text-align:center;padding:20px 16px;color:var(--muted);font-size:.8rem}
+    footer a{color:var(--primary)}
+
+    /* Long press indicator */
+    .section-btn.pressing{animation:pressing .6s ease}
+    @keyframes pressing{0%{box-shadow:0 0 0 0 rgba(14,165,233,.4)}100%{box-shadow:0 0 0 20px rgba(14,165,233,0)}}
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Voice Lectures</h1>
+    <p>English Learning App</p>
+  </header>
+
+  <div class="container">
+    <!-- Settings Panel -->
+    <div class="settings" id="settings">
+      <div class="settings-header" onclick="toggleSettings()">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 00.33 1.82l.06.06a2 2 0 010 2.83 2 2 0 01-2.83 0l-.06-.06a1.65 1.65 0 00-1.82-.33 1.65 1.65 0 00-1 1.51V21a2 2 0 01-2 2 2 2 0 01-2-2v-.09A1.65 1.65 0 009 19.4a1.65 1.65 0 00-1.82.33l-.06.06a2 2 0 01-2.83 0 2 2 0 010-2.83l.06-.06a1.65 1.65 0 00.33-1.82 1.65 1.65 0 00-1.51-1H3a2 2 0 01-2-2 2 2 0 012-2h.09A1.65 1.65 0 004.6 9a1.65 1.65 0 00-.33-1.82l-.06-.06a2 2 0 010-2.83 2 2 0 012.83 0l.06.06a1.65 1.65 0 001.82.33H9a1.65 1.65 0 001-1.51V3a2 2 0 012-2 2 2 0 012 2v.09a1.65 1.65 0 001 1.51 1.65 1.65 0 001.82-.33l.06-.06a2 2 0 012.83 0 2 2 0 010 2.83l-.06.06a1.65 1.65 0 00-.33 1.82V9a1.65 1.65 0 001.51 1H21a2 2 0 012 2 2 2 0 01-2 2h-.09a1.65 1.65 0 00-1.51 1z"/>
+        </svg>
+        <span>Cài đặt Telegram</span>
+        <svg class="settings-toggle" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <polyline points="6 9 12 15 18 9"/>
+        </svg>
+      </div>
+      <div class="settings-content">
+        <div class="settings-row">
+          <label>Bot Token</label>
+          <input type="text" id="token" placeholder="123456:ABC-DEF..." autocomplete="off">
+        </div>
+        <div class="settings-row">
+          <label>Chat ID</label>
+          <input type="text" id="chat" placeholder="987654321" autocomplete="off">
+        </div>
+        <div class="settings-actions">
+          <button class="btn btn-primary" onclick="saveSettings()">Lưu</button>
+          <button class="btn btn-secondary" onclick="clearSettings()">Xóa</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Warning Banner -->
+    <div class="warning" id="warning">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+        <path d="M10.29 3.86L1.82 18a2 2 0 001.71 3h16.94a2 2 0 001.71-3L13.71 3.86a2 2 0 00-3.42 0z"/>
+        <line x1="12" y1="9" x2="12" y2="13"/><line x1="12" y1="17" x2="12.01" y2="17"/>
+      </svg>
+      <span>Chưa cài đặt Telegram - học sinh không gửi bài được</span>
+    </div>
+
+    <!-- Grade Tabs -->
+    <div class="tabs">
+      <div class="tab active" data-grade="6" onclick="switchGrade(6)">Lớp 6</div>
+      <div class="tab" data-grade="7" onclick="switchGrade(7)">Lớp 7</div>
+      <div class="tab" data-grade="8" onclick="switchGrade(8)">Lớp 8</div>
+      <div class="tab" data-grade="9" onclick="switchGrade(9)">Lớp 9</div>
+    </div>
+
+    <!-- Grade 6 Units -->
+    <div class="units active" id="grade-6">
+      <div class="unit">
+        <div class="unit-title">Unit 7: Television</div>
+        <div class="sections">
+          <button class="section-btn" data-section="getting-started" data-grade="6" data-unit="7">GS</button>
+          <button class="section-btn" data-section="a-closer-look-1" data-grade="6" data-unit="7">AC1</button>
+          <button class="section-btn" data-section="a-closer-look-2" data-grade="6" data-unit="7">AC2</button>
+          <button class="section-btn" data-section="communication" data-grade="6" data-unit="7">CM</button>
+          <button class="section-btn" data-section="skills-1" data-grade="6" data-unit="7">S1</button>
+          <button class="section-btn" data-section="skills-2" data-grade="6" data-unit="7">S2</button>
+          <button class="section-btn" data-section="looking-back" data-grade="6" data-unit="7">LB</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Grade 7 Units -->
+    <div class="units" id="grade-7">
+      <div class="unit">
+        <div class="unit-title">Unit 7: Traffic</div>
+        <div class="sections">
+          <button class="section-btn" data-section="getting-started" data-grade="7" data-unit="7">GS</button>
+          <button class="section-btn disabled">AC1</button>
+          <button class="section-btn disabled">AC2</button>
+          <button class="section-btn disabled">CM</button>
+          <button class="section-btn disabled">S1</button>
+          <button class="section-btn disabled">S2</button>
+          <button class="section-btn disabled">LB</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Grade 8 Units -->
+    <div class="units" id="grade-8">
+      <div class="unit">
+        <div class="unit-title">Unit 7: Pollution</div>
+        <div class="sections">
+          <button class="section-btn" data-section="getting-started" data-grade="8" data-unit="7">GS</button>
+          <button class="section-btn disabled">AC1</button>
+          <button class="section-btn disabled">AC2</button>
+          <button class="section-btn disabled">CM</button>
+          <button class="section-btn disabled">S1</button>
+          <button class="section-btn disabled">S2</button>
+          <button class="section-btn disabled">LB</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Grade 9 Units -->
+    <div class="units" id="grade-9">
+      <div class="unit">
+        <div class="unit-title">Unit 7: Recipes and Eating Habits</div>
+        <div class="sections">
+          <button class="section-btn" data-section="getting-started" data-grade="9" data-unit="7">GS</button>
+          <button class="section-btn disabled">AC1</button>
+          <button class="section-btn disabled">AC2</button>
+          <button class="section-btn disabled">CM</button>
+          <button class="section-btn disabled">S1</button>
+          <button class="section-btn disabled">S2</button>
+          <button class="section-btn disabled">LB</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <footer>
+    Click = Mở bài | Giữ lâu = Copy link<br>
+    <a href="https://github.com/nmnhut-it/english-learning-app">GitHub</a>
+  </footer>
+
+  <!-- Toast -->
+  <div class="toast" id="toast"></div>
+
+  <script>
+    // Configuration
+    const GITHUB_RAW_BASE = 'https://raw.githubusercontent.com/nmnhut-it/english-learning-app/main/v2/data/voice-lectures';
+    const GITHUB_PAGES_VIEWER = 'https://nmnhut-it.github.io/english-learning-app/v2/voice-lecture-viewer.html';
+
+    // Environment detection
+    const isLocal = ['localhost', '127.0.0.1'].includes(location.hostname)
+                 || location.hostname.startsWith('192.168')
+                 || location.protocol === 'file:';
+
+    // State
+    let tgConfig = {
+      token: localStorage.getItem('tg_token') || '',
+      chat: localStorage.getItem('tg_chat') || ''
+    };
+    let pressTimer = null;
+    let isLongPress = false;
+
+    // Initialize
+    document.addEventListener('DOMContentLoaded', () => {
+      // Load saved settings
+      document.getElementById('token').value = tgConfig.token;
+      document.getElementById('chat').value = tgConfig.chat;
+      updateWarning();
+
+      // Setup section buttons
+      document.querySelectorAll('.section-btn:not(.disabled)').forEach(btn => {
+        // Click handler
+        btn.addEventListener('click', (e) => {
+          if (isLongPress) {
+            isLongPress = false;
+            return;
+          }
+          openViewer(btn.dataset);
+        });
+
+        // Long press for copy (touch)
+        btn.addEventListener('touchstart', (e) => {
+          isLongPress = false;
+          btn.classList.add('pressing');
+          pressTimer = setTimeout(() => {
+            isLongPress = true;
+            btn.classList.remove('pressing');
+            copyLink(btn.dataset);
+          }, 600);
+        });
+
+        btn.addEventListener('touchend', () => {
+          clearTimeout(pressTimer);
+          btn.classList.remove('pressing');
+        });
+
+        btn.addEventListener('touchmove', () => {
+          clearTimeout(pressTimer);
+          btn.classList.remove('pressing');
+        });
+
+        // Right click for copy (desktop)
+        btn.addEventListener('contextmenu', (e) => {
+          e.preventDefault();
+          copyLink(btn.dataset);
+        });
+      });
+    });
+
+    // Toggle settings panel
+    function toggleSettings() {
+      document.getElementById('settings').classList.toggle('open');
+    }
+
+    // Save settings
+    function saveSettings() {
+      tgConfig.token = document.getElementById('token').value.trim();
+      tgConfig.chat = document.getElementById('chat').value.trim();
+      localStorage.setItem('tg_token', tgConfig.token);
+      localStorage.setItem('tg_chat', tgConfig.chat);
+      updateWarning();
+      showToast('Đã lưu cài đặt');
+      document.getElementById('settings').classList.remove('open');
+    }
+
+    // Clear settings
+    function clearSettings() {
+      document.getElementById('token').value = '';
+      document.getElementById('chat').value = '';
+      tgConfig.token = '';
+      tgConfig.chat = '';
+      localStorage.removeItem('tg_token');
+      localStorage.removeItem('tg_chat');
+      updateWarning();
+      showToast('Đã xóa cài đặt');
+    }
+
+    // Update warning visibility
+    function updateWarning() {
+      const hasConfig = tgConfig.token && tgConfig.chat;
+      document.getElementById('warning').classList.toggle('hidden', hasConfig);
+    }
+
+    // Switch grade tab
+    function switchGrade(grade) {
+      document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+      document.querySelector(`.tab[data-grade="${grade}"]`).classList.add('active');
+      document.querySelectorAll('.units').forEach(u => u.classList.remove('active'));
+      document.getElementById(`grade-${grade}`).classList.add('active');
+    }
+
+    // Build content URL
+    function getContentUrl(data, forShare = false) {
+      const path = `g${data.grade}/unit-0${data.unit}/${data.section}.md`;
+      if (forShare || !isLocal) {
+        return `${GITHUB_RAW_BASE}/${path}`;
+      }
+      // Local: relative path
+      return `data/voice-lectures/${path}`;
+    }
+
+    // Build viewer URL with params
+    function buildViewerUrl(data, forShare = false) {
+      const contentUrl = getContentUrl(data, forShare);
+      const params = new URLSearchParams();
+      params.set('c', btoa(contentUrl));
+      if (tgConfig.token) params.set('token', tgConfig.token);
+      if (tgConfig.chat) params.set('chat', tgConfig.chat);
+
+      if (forShare) {
+        return `${GITHUB_PAGES_VIEWER}?${params}`;
+      }
+      // Local: relative viewer path
+      return `voice-lecture-viewer.html?${params}`;
+    }
+
+    // Open viewer
+    function openViewer(data) {
+      const url = buildViewerUrl(data, false);
+      window.location.href = url;
+    }
+
+    // Copy shareable link
+    async function copyLink(data) {
+      const url = buildViewerUrl(data, true);
+      try {
+        await navigator.clipboard.writeText(url);
+        showToast('Đã copy link');
+      } catch (err) {
+        // Fallback for older browsers
+        const textarea = document.createElement('textarea');
+        textarea.value = url;
+        textarea.style.position = 'fixed';
+        textarea.style.opacity = '0';
+        document.body.appendChild(textarea);
+        textarea.select();
+        document.execCommand('copy');
+        document.body.removeChild(textarea);
+        showToast('Đã copy link');
+      }
+    }
+
+    // Show toast notification
+    function showToast(message) {
+      const toast = document.getElementById('toast');
+      toast.textContent = message;
+      toast.classList.add('show');
+      setTimeout(() => toast.classList.remove('show'), 2000);
+    }
+  </script>
+</body>
+</html>
