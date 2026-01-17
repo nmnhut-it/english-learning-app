@@ -147,13 +147,14 @@ This is not a valid line
 
   describe('parseTeacherScript', () => {
     it('should parse all attributes', () => {
-      const attrs = 'pause="60" href="audio/file.mp3" action="record"';
+      const attrs = 'pause="60" lang="vi" href="audio/file.mp3" action="record"';
       const text = 'Ok lớp 6, bài 1 nha.';
 
       const ts = parseTeacherScript(text, attrs);
 
       expect(ts.text).toBe('Ok lớp 6, bài 1 nha.');
       expect(ts.pause).toBe(60);
+      expect(ts.lang).toBe('vi');
       expect(ts.href).toBe('audio/file.mp3');
       expect(ts.action).toBe('record');
       expect(ts.id).toMatch(/^ts-/);
@@ -163,8 +164,20 @@ This is not a valid line
       const ts = parseTeacherScript('Simple text', '');
 
       expect(ts.pause).toBe(0);
+      expect(ts.lang).toBe('vi'); // Default to Vietnamese
       expect(ts.href).toBeNull();
       expect(ts.action).toBeNull();
+    });
+
+    it('should parse lang="en" for English scripts', () => {
+      const attrs = 'pause="0" lang="en"';
+      const text = 'Exercise 1. Listen and read.';
+
+      const ts = parseTeacherScript(text, attrs);
+
+      expect(ts.text).toBe('Exercise 1. Listen and read.');
+      expect(ts.lang).toBe('en');
+      expect(ts.pause).toBe(0);
     });
   });
 

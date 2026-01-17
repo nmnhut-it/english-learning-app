@@ -3,26 +3,26 @@
 ## SKILLS 1 - Reading & Speaking
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" lang="vi">
 Ok lớp 6, Skills 1 nha - Reading và Speaking.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" lang="vi">
 Mở sách trang 12-13 tập 2 đi.
 </teacher_script>
 
 ---
 
 <!-- chunk: reading_intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" lang="vi">
 Phần Reading trước nha. Đọc bảng chương trình TV và trả lời câu hỏi.
 </teacher_script>
 
 ---
 
 <!-- chunk: vocabulary -->
-<teacher_script pause="0">
-Trước khi đọc, học từ vựng quan trọng nha. Có 21 từ.
+<teacher_script pause="0" lang="vi">
+Trước khi đọc, học từ vựng quan trọng nha. Có 21 từ - hơi nhiều nhưng đều dễ nhớ thôi.
 </teacher_script>
 
 <vocabulary>
@@ -49,19 +49,31 @@ Trước khi đọc, học từ vựng quan trọng nha. Có 21 từ.
 21. **dolphin** : (n) cá heo /ˈdɒlfɪn/
 </vocabulary>
 
-<teacher_script pause="0">
-Từ 1-7: programme, wildlife, description, comedy, sports, game show, science.
+<teacher_script pause="0" lang="vi">
+Từ 1 đến 7.
 </teacher_script>
 
-<teacher_script pause="0">
-Từ 8-14: forest, The Pig Race, Children Are Always Right, colourful world, plant, flower, animal.
+<teacher_script pause="0" lang="en">
+Programme. Wildlife. Description. Comedy. Sports. Game show. Science.
 </teacher_script>
 
-<teacher_script pause="0">
-Từ 15-21: have a lot of fun, on their first day at school, compete, the most exciting race, pet, intelligent, dolphin.
+<teacher_script pause="0" lang="vi">
+Từ 8 đến 14.
 </teacher_script>
 
-<teacher_script pause="120">
+<teacher_script pause="0" lang="en">
+Forest. The Pig Race. Children Are Always Right. Colourful world. Plant. Flower. Animal.
+</teacher_script>
+
+<teacher_script pause="0" lang="vi">
+Từ 15 đến 21.
+</teacher_script>
+
+<teacher_script pause="0" lang="en">
+Have a lot of fun. On their first day at school. Compete. The most exciting race. Pet. Intelligent. Dolphin.
+</teacher_script>
+
+<teacher_script pause="120" lang="vi">
 Click vô từ để nghe phát âm, ghi vô tập đi. 2 phút. Học xong bấm Tiếp tục bài học.
 </teacher_script>
 
@@ -70,8 +82,12 @@ Click vô từ để nghe phát âm, ghi vô tập đi. 2 phút. Học xong bấ
 <!-- chunk: exercise_1 -->
 ### Bài 1 trang 12 - Read the TV guide
 
-<teacher_script pause="0">
-Bài 1 nha. Đọc bảng chương trình TV và trả lời câu hỏi.
+<teacher_script pause="0" lang="en">
+Exercise 1. Read the TV guide.
+</teacher_script>
+
+<teacher_script pause="0" lang="vi">
+Đọc bảng chương trình TV và trả lời câu hỏi nha.
 </teacher_script>
 
 <task>
@@ -83,7 +99,7 @@ Bài 1 nha. Đọc bảng chương trình TV và trả lời câu hỏi.
 ---
 
 <!-- chunk: tv_guide_english -->
-<teacher_script pause="0">
+<teacher_script pause="0" lang="vi">
 Đây là bảng chương trình TV bằng tiếng Anh nha.
 </teacher_script>
 
@@ -97,30 +113,50 @@ Bài 1 nha. Đọc bảng chương trình TV và trả lời câu hỏi.
 | **12:15** | **Science:** The Dolphins | Watch interesting clips about intelligent dolphins in their natural life. |
 </content_table>
 
-<teacher_script pause="0">
-8 giờ: Wildlife - Cuc Phuong Forest. See the colourful world of plants, flowers and animals.
+<teacher_script pause="0" lang="vi">
+8 giờ.
 </teacher_script>
 
-<teacher_script pause="0">
-9 giờ: Comedy - The Fox Teacher. Lots of funny things happen on the first day at school.
+<teacher_script pause="0" lang="en">
+Wildlife - Cuc Phuong Forest. See the colourful world of plants, flowers and animals.
 </teacher_script>
 
-<teacher_script pause="0">
-10 giờ 30: Sports - The Pig Race. Watch cute pigs compete in the most exciting races.
+<teacher_script pause="0" lang="vi">
+9 giờ.
 </teacher_script>
 
-<teacher_script pause="0">
-11 giờ: Game show - Children are Always Right. Answer interesting questions about pets.
+<teacher_script pause="0" lang="en">
+Comedy - The Fox Teacher. Lots of funny things happen on the first day at school.
 </teacher_script>
 
-<teacher_script pause="0">
-12 giờ 15: Science - The Dolphins. Watch clips about intelligent dolphins.
+<teacher_script pause="0" lang="vi">
+10 giờ 30.
+</teacher_script>
+
+<teacher_script pause="0" lang="en">
+Sports - The Pig Race. Watch cute pigs compete in the most exciting races.
+</teacher_script>
+
+<teacher_script pause="0" lang="vi">
+Đua heo luôn, vui dữ hông? 11 giờ.
+</teacher_script>
+
+<teacher_script pause="0" lang="en">
+Game show - Children are Always Right. Answer interesting questions about pets.
+</teacher_script>
+
+<teacher_script pause="0" lang="vi">
+12 giờ 15.
+</teacher_script>
+
+<teacher_script pause="0" lang="en">
+Science - The Dolphins. Watch clips about intelligent dolphins.
 </teacher_script>
 
 ---
 
 <!-- chunk: tv_guide_vietnamese -->
-<teacher_script pause="0">
+<teacher_script pause="0" lang="vi">
 Đây là bản dịch tiếng Việt nha.
 </teacher_script>
 
@@ -134,14 +170,14 @@ Bài 1 nha. Đọc bảng chương trình TV và trả lời câu hỏi.
 | **12:15** | **Khoa học:** Cá heo | Xem clip vui nhộn và thú vị về những chú cá heo thông minh trong đời sống tự nhiên dưới biển. |
 </translation>
 
-<teacher_script pause="60">
+<teacher_script pause="60" lang="vi">
 Đọc kỹ cả 2 bảng đi. 1 phút nha.
 </teacher_script>
 
 ---
 
 <!-- chunk: exercise_1_questions -->
-<teacher_script pause="90">
+<teacher_script pause="90" lang="vi">
 Giờ trả lời 5 câu hỏi. Tìm thông tin trong bảng để trả lời. 1 phút rưỡi nha.
 </teacher_script>
 
@@ -180,7 +216,7 @@ Giờ trả lời 5 câu hỏi. Tìm thông tin trong bảng để trả lời. 
 ---
 
 <!-- chunk: answer_1 -->
-<teacher_script pause="0">
+<teacher_script pause="0" lang="vi">
 Ok đáp án nha.
 </teacher_script>
 
@@ -193,71 +229,111 @@ Ok đáp án nha.
 5. It's about dolphins.
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" lang="vi">
 Giải thích từng câu nha.
 </teacher_script>
 
-<teacher_script pause="0">
-Câu 1: What is the Wildlife programme about?
+<teacher_script pause="0" lang="vi">
+Câu 1.
 </teacher_script>
 
-<teacher_script pause="0">
-Đáp án: It's Cuc Phuong Forest.
+<teacher_script pause="0" lang="en">
+What is the Wildlife programme about?
 </teacher_script>
 
-<teacher_script pause="0">
-Trong bảng ghi: "Wildlife: Cuc Phuong Forest - See the colourful world of plants, flowers and animals."
+<teacher_script pause="0" lang="vi">
+Đáp án.
 </teacher_script>
 
-<teacher_script pause="0">
-Câu 2: Is the Fox Teacher a comedy?
+<teacher_script pause="0" lang="en">
+It's Cuc Phuong Forest.
 </teacher_script>
 
-<teacher_script pause="0">
-Đáp án: Yes, it is.
+<teacher_script pause="0" lang="vi">
+Trong bảng ghi "Wildlife: Cuc Phuong Forest - See the colourful world of plants, flowers and animals."
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" lang="vi">
+Câu 2.
+</teacher_script>
+
+<teacher_script pause="0" lang="en">
+Is the Fox Teacher a comedy?
+</teacher_script>
+
+<teacher_script pause="0" lang="vi">
+Đáp án.
+</teacher_script>
+
+<teacher_script pause="0" lang="en">
+Yes, it is.
+</teacher_script>
+
+<teacher_script pause="0" lang="vi">
 Trong bảng ghi "Comedy: The Fox Teacher" - rõ ràng là comedy.
 </teacher_script>
 
-<teacher_script pause="0">
-Câu 3: What time is The Pig Race on?
+<teacher_script pause="0" lang="vi">
+Câu 3.
 </teacher_script>
 
-<teacher_script pause="0">
-Đáp án: It's on at 10:30.
+<teacher_script pause="0" lang="en">
+What time is The Pig Race on?
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" lang="vi">
+Đáp án.
+</teacher_script>
+
+<teacher_script pause="0" lang="en">
+It's on at 10:30.
+</teacher_script>
+
+<teacher_script pause="0" lang="vi">
 Nhìn cột Time, thấy 10:30 là Sports: The Pig Race.
 </teacher_script>
 
-<teacher_script pause="0">
-Câu 4: Can we watch the game show at 10:30?
+<teacher_script pause="0" lang="vi">
+Câu 4.
 </teacher_script>
 
-<teacher_script pause="0">
-Đáp án: No, we can't.
+<teacher_script pause="0" lang="en">
+Can we watch the game show at 10:30?
 </teacher_script>
 
-<teacher_script pause="0">
-Game show "Children Are Always Right" chiếu lúc 11:00, không phải 10:30.
+<teacher_script pause="0" lang="vi">
+Đáp án.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" lang="en">
+No, we can't.
+</teacher_script>
+
+<teacher_script pause="0" lang="vi">
+Game show "Children Are Always Right" chiếu lúc 11:00, không phải 10:30. Câu này hay bẫy lắm nha.
+</teacher_script>
+
+<teacher_script pause="0" lang="vi">
 Lúc 10:30 là The Pig Race - chương trình thể thao.
 </teacher_script>
 
-<teacher_script pause="0">
-Câu 5: What is the Science programme about?
+<teacher_script pause="0" lang="vi">
+Câu 5.
 </teacher_script>
 
-<teacher_script pause="0">
-Đáp án: It's about dolphins.
+<teacher_script pause="0" lang="en">
+What is the Science programme about?
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" lang="vi">
+Đáp án.
+</teacher_script>
+
+<teacher_script pause="0" lang="en">
+It's about dolphins.
+</teacher_script>
+
+<teacher_script pause="0" lang="vi">
 Trong bảng ghi "Science: The Dolphins" - chương trình về cá heo.
 </teacher_script>
 
@@ -273,7 +349,7 @@ Trong bảng ghi "Science: The Dolphins" - chương trình về cá heo.
 | 5 | It's about dolphins | "Science: The Dolphins" |
 </explanation>
 
-<teacher_script pause="30">
+<teacher_script pause="30" lang="vi">
 Sửa bài nếu sai. 30 giây nha.
 </teacher_script>
 
@@ -282,8 +358,12 @@ Sửa bài nếu sai. 30 giây nha.
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 12 - Match people with programmes
 
-<teacher_script pause="60">
-Bài 2. Dựa vào sở thích của mỗi người, chọn chương trình phù hợp từ TV guide. 1 phút nha.
+<teacher_script pause="0" lang="en">
+Exercise 2. Match people with programmes.
+</teacher_script>
+
+<teacher_script pause="60" lang="vi">
+Dựa vào sở thích của mỗi người, chọn chương trình phù hợp từ TV guide. 1 phút nha.
 </teacher_script>
 
 <task>
@@ -315,7 +395,7 @@ Bài 2. Dựa vào sở thích của mỗi người, chọn chương trình phù
 ---
 
 <!-- chunk: answer_2 -->
-<teacher_script pause="0">
+<teacher_script pause="0" lang="vi">
 Ok đáp án nha.
 </teacher_script>
 
@@ -328,67 +408,67 @@ Ok đáp án nha.
 5. Linh → The Dolphins
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" lang="vi">
 Giải thích từng câu nha.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" lang="vi">
 Câu 1: Phong muốn biết về dogs and cats - chó và mèo.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" lang="vi">
 Dogs và cats là pets - vật nuôi, thú cưng.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" lang="vi">
 Chương trình Children are Always Right hỏi về pets. Nên Phong xem chương trình này.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" lang="vi">
 Câu 2: Bob thích chương trình làm anh ấy cười - make him laugh.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" lang="vi">
 Cười = laugh = funny. The Fox Teacher là Comedy - hài kịch.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" lang="vi">
 Hài kịch làm người ta cười, nên Bob xem The Fox Teacher.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" lang="vi">
 Câu 3: Nga thích học về plants and animals - thực vật và động vật.
 </teacher_script>
 
-<teacher_script pause="0">
-Cuc Phuong Forest nói về "plants, flowers and animals".
+<teacher_script pause="0" lang="en">
+Cuc Phuong Forest - plants, flowers and animals.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" lang="vi">
 Đúng sở thích của Nga, nên Nga xem Cuc Phuong Forest.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" lang="vi">
 Câu 4: Minh thích xem races - các cuộc đua.
 </teacher_script>
 
-<teacher_script pause="0">
-The Pig Race là chương trình về cuộc đua heo - "compete in the most exciting races".
+<teacher_script pause="0" lang="en">
+The Pig Race - compete in the most exciting races.
 </teacher_script>
 
-<teacher_script pause="0">
-Đúng sở thích của Minh, nên Minh xem The Pig Race.
+<teacher_script pause="0" lang="vi">
+Đúng sở thích của Minh, nên Minh xem The Pig Race. Đua heo cũng đua nha.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" lang="vi">
 Câu 5: Linh quan tâm đến sea animals - động vật biển.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" lang="vi">
 Dolphins - cá heo là động vật biển. The Dolphins là chương trình về cá heo.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" lang="vi">
 Đúng sở thích của Linh, nên Linh xem The Dolphins.
 </teacher_script>
 
@@ -404,14 +484,14 @@ Dolphins - cá heo là động vật biển. The Dolphins là chương trình v�
 | Linh | sea animals | The Dolphins | Cá heo = động vật biển |
 </explanation>
 
-<teacher_script pause="30">
+<teacher_script pause="30" lang="vi">
 Sửa bài nếu sai. 30 giây nha.
 </teacher_script>
 
 ---
 
 <!-- chunk: speaking_intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" lang="vi">
 Giờ qua phần Speaking nha.
 </teacher_script>
 
@@ -420,8 +500,12 @@ Giờ qua phần Speaking nha.
 <!-- chunk: exercise_3 -->
 ### Bài 3 trang 12 - Work in groups
 
-<teacher_script pause="0">
-Bài 3 nha. Làm việc theo nhóm, chia sẻ đáp án bài 2 và hỏi bạn có đồng ý không.
+<teacher_script pause="0" lang="en">
+Exercise 3. Work in groups.
+</teacher_script>
+
+<teacher_script pause="0" lang="vi">
+Làm việc theo nhóm, chia sẻ đáp án bài 2 và hỏi bạn có đồng ý không nha.
 </teacher_script>
 
 <task>
@@ -439,23 +523,38 @@ Bài 3 nha. Làm việc theo nhóm, chia sẻ đáp án bài 2 và hỏi bạn c
 | In my opinion, [name] should watch... | That's right. | I don't think so. |
 </grammar>
 
-<teacher_script pause="0">
+<teacher_script pause="0" lang="vi">
 Cấu trúc thảo luận nha.
 </teacher_script>
 
-<teacher_script pause="0">
-Nói ý kiến: I think the best programme for... is...
+<teacher_script pause="0" lang="vi">
+Nói ý kiến.
 </teacher_script>
 
-<teacher_script pause="0">
-Đồng ý: I agree.
-Không đồng ý: I disagree. I think...
+<teacher_script pause="0" lang="en">
+I think the best programme for... is...
+</teacher_script>
+
+<teacher_script pause="0" lang="vi">
+Đồng ý.
+</teacher_script>
+
+<teacher_script pause="0" lang="en">
+I agree.
+</teacher_script>
+
+<teacher_script pause="0" lang="vi">
+Không đồng ý.
+</teacher_script>
+
+<teacher_script pause="0" lang="en">
+I disagree. I think...
 </teacher_script>
 
 ---
 
 <!-- chunk: exercise_3_sample -->
-<teacher_script pause="0">
+<teacher_script pause="0" lang="vi">
 Đây là hội thoại mẫu cho cả 5 người nha.
 </teacher_script>
 
@@ -466,9 +565,20 @@ Không đồng ý: I disagree. I think...
 | B: I agree. He wants to know more about pets. | B: Tôi đồng ý. Bạn ấy muốn biết nhiều hơn về thú cưng. |
 </dialogue>
 
-<teacher_script pause="0">
-A nói: I think the best programme for Phong is Children are Always Right.
-B đồng ý: I agree. He wants to know more about pets.
+<teacher_script pause="0" lang="vi">
+A nói.
+</teacher_script>
+
+<teacher_script pause="0" lang="en">
+I think the best programme for Phong is Children are Always Right.
+</teacher_script>
+
+<teacher_script pause="0" lang="vi">
+B đồng ý.
+</teacher_script>
+
+<teacher_script pause="0" lang="en">
+I agree. He wants to know more about pets.
 </teacher_script>
 
 <dialogue>
@@ -478,7 +588,7 @@ B đồng ý: I agree. He wants to know more about pets.
 | B: I agree. He likes programmes that make him laugh. | B: Tôi đồng ý. Anh ấy thích những chương trình làm cho anh ấy cười. |
 </dialogue>
 
-<teacher_script pause="0">
+<teacher_script pause="0" lang="vi">
 Với Bob: The Fox Teacher vì anh ấy thích programmes that make him laugh.
 </teacher_script>
 
@@ -489,7 +599,7 @@ Với Bob: The Fox Teacher vì anh ấy thích programmes that make him laugh.
 | B: I agree. She loves learning about plants and animals. | B: Tôi đồng ý. Cô ấy thích tìm hiểu về thực vật và động vật. |
 </dialogue>
 
-<teacher_script pause="0">
+<teacher_script pause="0" lang="vi">
 Với Nga: Cuc Phuong Forest vì cô ấy loves learning about plants and animals.
 </teacher_script>
 
@@ -500,7 +610,7 @@ Với Nga: Cuc Phuong Forest vì cô ấy loves learning about plants and animal
 | B: I agree. He likes watching races. | B: Tôi đồng ý. Anh ấy thích xem các cuộc đua. |
 </dialogue>
 
-<teacher_script pause="0">
+<teacher_script pause="0" lang="vi">
 Với Minh: The Pig Race vì anh ấy likes watching races.
 </teacher_script>
 
@@ -511,26 +621,30 @@ Với Minh: The Pig Race vì anh ấy likes watching races.
 | B: I agree. She is interested in sea animals. | B: Tôi đồng ý. Cô ấy quan tâm đến động vật biển. |
 </dialogue>
 
-<teacher_script pause="0">
+<teacher_script pause="0" lang="vi">
 Với Linh: The Dolphins vì cô ấy interested in sea animals.
 </teacher_script>
 
-<teacher_script pause="60">
+<teacher_script pause="60" lang="vi">
 Luyện nói với bạn. 1 phút nha.
 </teacher_script>
 
 ---
 
 <!-- chunk: exercise_3_record -->
-<teacher_script pause="0" action="record">
+<teacher_script pause="0" lang="vi" action="record">
 Bấm nút Ghi âm để nói ý kiến về 2-3 người trong bảng và gửi cho thầy sửa nha.
 </teacher_script>
 
-<teacher_script pause="0">
-Nói: I think the best programme for [name] is [programme] because [reason].
+<teacher_script pause="0" lang="vi">
+Nói theo cấu trúc.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" lang="en">
+I think the best programme for [name] is [programme] because [reason].
+</teacher_script>
+
+<teacher_script pause="0" lang="vi">
 Record xong bấm tiếp tục nha.
 </teacher_script>
 
@@ -539,8 +653,12 @@ Record xong bấm tiếp tục nha.
 <!-- chunk: exercise_4 -->
 ### Bài 4 trang 13 - Tell about your favourite programme
 
-<teacher_script pause="0">
-Bài 4 nha. Nói về chương trình TV yêu thích của mình.
+<teacher_script pause="0" lang="en">
+Exercise 4. Tell about your favourite programme.
+</teacher_script>
+
+<teacher_script pause="0" lang="vi">
+Nói về chương trình TV yêu thích của mình nha.
 </teacher_script>
 
 <task>
@@ -552,8 +670,8 @@ Bài 4 nha. Nói về chương trình TV yêu thích của mình.
 ---
 
 <!-- chunk: exercise_4_outline -->
-<teacher_script pause="0">
-Bài nói cần có 4 thông tin nha.
+<teacher_script pause="0" lang="vi">
+Bài nói cần có 4 thông tin nha. Nhớ kỹ 4 thông tin này là nói được liền.
 </teacher_script>
 
 <grammar>
@@ -576,26 +694,42 @@ Bài nói cần có 4 thông tin nha.
 | Reason | I like it because... / The reason I like it is... |
 </grammar>
 
-<teacher_script pause="0">
-Thông tin 1: Tên chương trình - My favourite programme is...
+<teacher_script pause="0" lang="vi">
+Thông tin 1: Tên chương trình.
 </teacher_script>
 
-<teacher_script pause="0">
-Thông tin 2: Kênh - It's on VTV3, Cartoon Network...
+<teacher_script pause="0" lang="en">
+My favourite programme is...
 </teacher_script>
 
-<teacher_script pause="0">
-Thông tin 3: Nội dung - It's about...
+<teacher_script pause="0" lang="vi">
+Thông tin 2: Kênh.
 </teacher_script>
 
-<teacher_script pause="0">
-Thông tin 4: Lý do - I like it because...
+<teacher_script pause="0" lang="en">
+It's on VTV3, Cartoon Network...
+</teacher_script>
+
+<teacher_script pause="0" lang="vi">
+Thông tin 3: Nội dung.
+</teacher_script>
+
+<teacher_script pause="0" lang="en">
+It's about...
+</teacher_script>
+
+<teacher_script pause="0" lang="vi">
+Thông tin 4: Lý do.
+</teacher_script>
+
+<teacher_script pause="0" lang="en">
+I like it because...
 </teacher_script>
 
 ---
 
 <!-- chunk: exercise_4_sample_1 -->
-<teacher_script pause="0">
+<teacher_script pause="0" lang="vi">
 Đây là bài mẫu 1 nha - về chương trình Thế giới Động vật.
 </teacher_script>
 
@@ -609,25 +743,47 @@ Thông tin 4: Lý do - I like it because...
 | I like watching it because **I love animals and want to know more about their life**. | Tôi thích xem nó vì **tôi yêu động vật và muốn biết thêm về cuộc sống của chúng**. |
 </dialogue>
 
-<teacher_script pause="0">
+<teacher_script pause="0" lang="vi">
 Bài mẫu 1: The World of Animals.
 </teacher_script>
 
-<teacher_script pause="0">
-Tên: My favourite TV programme is The World of Animals.
-Kênh: It's on VTV2.
+<teacher_script pause="0" lang="vi">
+Tên.
 </teacher_script>
 
-<teacher_script pause="0">
-Nội dung: This programme provides many interesting knowledge about animals.
-Lý do: I love animals and want to know more about their life.
+<teacher_script pause="0" lang="en">
+My favourite TV programme is The World of Animals.
+</teacher_script>
+
+<teacher_script pause="0" lang="vi">
+Kênh.
+</teacher_script>
+
+<teacher_script pause="0" lang="en">
+It's on VTV2.
+</teacher_script>
+
+<teacher_script pause="0" lang="vi">
+Nội dung.
+</teacher_script>
+
+<teacher_script pause="0" lang="en">
+This programme provides many interesting knowledge about animals.
+</teacher_script>
+
+<teacher_script pause="0" lang="vi">
+Lý do.
+</teacher_script>
+
+<teacher_script pause="0" lang="en">
+I love animals and want to know more about their life.
 </teacher_script>
 
 ---
 
 <!-- chunk: exercise_4_sample_2 -->
-<teacher_script pause="0">
-Đây là bài mẫu 2 nha - về Tom and Jerry.
+<teacher_script pause="0" lang="vi">
+Đây là bài mẫu 2 nha - về Tom and Jerry. Ai mà không biết Tom và Jerry thì chắc ở trên cung trăng rồi.
 </teacher_script>
 
 <dialogue>
@@ -639,54 +795,76 @@ Lý do: I love animals and want to know more about their life.
 | I like it because **it makes me laugh a lot and the characters are really cute**. | Tôi thích nó vì **nó làm cho tôi cười rất nhiều và các nhân vật thực sự rất dễ thương**. |
 </dialogue>
 
-<teacher_script pause="0">
+<teacher_script pause="0" lang="vi">
 Bài mẫu 2: Tom and Jerry.
 </teacher_script>
 
-<teacher_script pause="0">
-Tên: My favourite programme is Tom and Jerry.
-Kênh: It's on Cartoon Network.
+<teacher_script pause="0" lang="vi">
+Tên.
 </teacher_script>
 
-<teacher_script pause="0">
-Nội dung: The cartoon is about funny tricks between a mouse and a cat.
-Lý do: It makes me laugh a lot and the characters are cute.
+<teacher_script pause="0" lang="en">
+My favourite programme is Tom and Jerry.
 </teacher_script>
 
-<teacher_script pause="120">
+<teacher_script pause="0" lang="vi">
+Kênh.
+</teacher_script>
+
+<teacher_script pause="0" lang="en">
+It's on Cartoon Network.
+</teacher_script>
+
+<teacher_script pause="0" lang="vi">
+Nội dung.
+</teacher_script>
+
+<teacher_script pause="0" lang="en">
+The cartoon is about funny tricks between a mouse and a cat.
+</teacher_script>
+
+<teacher_script pause="0" lang="vi">
+Lý do.
+</teacher_script>
+
+<teacher_script pause="0" lang="en">
+It makes me laugh a lot and the characters are cute.
+</teacher_script>
+
+<teacher_script pause="120" lang="vi">
 Giờ viết bài nói của mình vô tập đi. 2 phút nha.
 </teacher_script>
 
 ---
 
 <!-- chunk: exercise_4_photo -->
-<teacher_script pause="0" action="photo">
+<teacher_script pause="0" lang="vi" action="photo">
 Viết xong thì chụp bài gửi cho thầy sửa nha.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" lang="vi">
 Chụp xong bấm tiếp tục.
 </teacher_script>
 
 ---
 
 <!-- chunk: exercise_4_record -->
-<teacher_script pause="0" action="record">
+<teacher_script pause="0" lang="vi" action="record">
 Bấm nút Ghi âm để nói về chương trình yêu thích của mình và gửi cho thầy sửa nha.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" lang="vi">
 Nhớ nói đủ 4 thông tin: Tên, Kênh, Nội dung, Lý do.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" lang="vi">
 Record xong bấm tiếp tục nha.
 </teacher_script>
 
 ---
 
 <!-- chunk: summary -->
-<teacher_script pause="0">
+<teacher_script pause="0" lang="vi">
 Tóm tắt Skills 1 nha.
 </teacher_script>
 
@@ -714,41 +892,45 @@ Tóm tắt Skills 1 nha.
 | Reason | I like it because... |
 </grammar>
 
-<teacher_script pause="0">
+<teacher_script pause="0" lang="vi">
 Tóm tắt nha.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" lang="vi">
 Reading: Đọc TV guide, tìm thông tin, matching sở thích với chương trình.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" lang="vi">
 Speaking: Thảo luận với I think, I agree, I disagree.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" lang="vi">
 Nói về chương trình yêu thích với 4 thông tin: Name, Channel, Content, Reason.
 </teacher_script>
 
-<teacher_script pause="45">
+<teacher_script pause="45" lang="vi">
 Ghi tóm tắt vô tập đi. 45 giây nha.
 </teacher_script>
 
 ---
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" lang="vi">
 Ok hết Skills 1 rồi.
 </teacher_script>
 
-<teacher_script pause="0">
-Về nhà luyện nói về chương trình TV yêu thích nha.
+<teacher_script pause="0" lang="vi">
+Về nhà luyện nói về chương trình TV yêu thích nha. Quay video gửi thầy cũng được.
 </teacher_script>
 
-<teacher_script pause="0">
-Nhớ cấu trúc: My favourite programme is... It's on... It's about... I like it because...
+<teacher_script pause="0" lang="vi">
+Nhớ cấu trúc.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" lang="en">
+My favourite programme is... It's on... It's about... I like it because...
+</teacher_script>
+
+<teacher_script pause="0" lang="vi">
 Bài sau qua Skills 2 - Listening và Writing. Hẹn gặp lại!
 </teacher_script>

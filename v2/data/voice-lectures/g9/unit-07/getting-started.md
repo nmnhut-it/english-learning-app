@@ -2,8 +2,12 @@
 
 ## GETTING STARTED - The Natural Wonders Contest
 
-<teacher_script pause="0">
-Ok lớp 9, Unit 7 nha - Natural Wonders of the World. Các kỳ quan thiên nhiên thế giới. Mở sách trang 72 đi.
+<teacher_script pause="0" lang="en">
+Unit 7. Natural Wonders of the World.
+</teacher_script>
+
+<teacher_script pause="0" lang="vi">
+Ok lớp 9, Unit 7 nha - Các kỳ quan thiên nhiên thế giới. Chủ đề này quan trọng, hay ra trong đề thi vào 10 luôn. Mở sách trang 72 đi.
 </teacher_script>
 
 ---
@@ -45,7 +49,7 @@ Ok lớp 9, Unit 7 nha - Natural Wonders of the World. Các kỳ quan thiên nhi
 </vocabulary>
 
 
-<teacher_script pause="0" action="record">
+<teacher_script pause="0" lang="vi" action="record">
 Bấm nút Ghi âm để đọc lại và gửi cho thầy sửa nha.
 </teacher_script>
 
@@ -53,8 +57,12 @@ Bấm nút Ghi âm để đọc lại và gửi cho thầy sửa nha.
 
 ### Bài 1 trang 72 - Listen and read
 
-<teacher_script pause="0">
-Bài 1. Nghe và đọc hội thoại. Lan gặp Tom ở hành lang trường, tụi nó nói về cuộc thi Kỳ quan Thiên nhiên.
+<teacher_script pause="0" lang="en">
+Exercise 1. Listen and read.
+</teacher_script>
+
+<teacher_script pause="0" lang="vi">
+Nghe và đọc hội thoại. Lan gặp Tom ở hành lang trường, tụi nó nói về cuộc thi Kỳ quan Thiên nhiên. Chú ý cấu trúc câu hỏi gián tiếp trong bài nha, quan trọng cho phần grammar sau.
 </teacher_script>
 
 <task>
@@ -95,15 +103,15 @@ Bài 1. Nghe và đọc hội thoại. Lan gặp Tom ở hành lang trường, t
 **Lan:** Tôi cũng muốn đến thăm chúng.
 </translation>
 
-<teacher_script pause="240">
+<teacher_script pause="240" lang="vi">
 Nghe hội thoại rồi dịch ra tiếng Việt nha. 4 phút vì bài dài.
 </teacher_script>
 
-<teacher_script pause="60">
+<teacher_script pause="60" lang="vi">
 Ok sửa bài dịch nha. Đối chiếu với bản dịch trên màn hình.
 </teacher_script>
 
-<teacher_script pause="0" action="record">
+<teacher_script pause="0" lang="vi" action="record">
 Bấm nút Ghi âm để đọc hội thoại và gửi cho thầy sửa nha.
 </teacher_script>
 
@@ -111,8 +119,12 @@ Bấm nút Ghi âm để đọc hội thoại và gửi cho thầy sửa nha.
 
 ### Bài 2 trang 73 - True or False
 
-<teacher_script pause="60">
-Bài 2, đúng hay sai. 1 phút nha.
+<teacher_script pause="0" lang="en">
+Exercise 2. Decide if the following statements are true or false.
+</teacher_script>
+
+<teacher_script pause="60" lang="vi">
+Đúng hay sai. 1 phút nha. Dạng bài này cần đọc kỹ, đừng vội vàng.
 </teacher_script>
 
 <task>
@@ -143,13 +155,29 @@ Bài 2, đúng hay sai. 1 phút nha.
 *Tom hỏi người dẫn chương trình xem anh ấy có muốn đi Vịnh Hạ Long không.*
 </questions>
 
-<teacher_script pause="0" type="answer">
-Ok đáp án nha. Câu 1 là T - True, câu 2 là F - False, câu 3 là T - True, câu 4 là F - False.
+<teacher_script pause="0" lang="vi" type="answer">
+Ok đáp án nha.
 </teacher_script>
 
 <answer>
 **Đáp án:** 1.T | 2.F | 3.T | 4.F
 </answer>
+
+<teacher_script pause="0" lang="vi">
+Câu 1 là True. Tom won second prize, nghĩa là Tom tham gia cuộc thi.
+</teacher_script>
+
+<teacher_script pause="0" lang="vi">
+Câu 2 là False. Lan nói "I'm interested in them, too", nghĩa là Lan cũng quan tâm. Chữ "not" trong đề làm câu sai.
+</teacher_script>
+
+<teacher_script pause="0" lang="vi">
+Câu 3 là True. Tom nói "I suggested ways to preserve them". Đúng y chang trong bài.
+</teacher_script>
+
+<teacher_script pause="0" lang="vi">
+Câu 4 là False. Cẩn thận câu này. "The host asked me if I wanted to visit those places" - người dẫn chương trình hỏi Tom, không phải Tom hỏi. Đề đổi ngược chủ ngữ, nhiều bạn hay sai chỗ này.
+</teacher_script>
 
 <explanation>
 **Giải thích:**
@@ -163,8 +191,12 @@ Ok đáp án nha. Câu 1 là T - True, câu 2 là F - False, câu 3 là T - True
 
 ### Bài 3 trang 73 - Fill in the blanks
 
-<teacher_script pause="60">
-Bài 3, điền từ vào chỗ trống. 1 phút nha.
+<teacher_script pause="0" lang="en">
+Exercise 3. Fill in the blanks with the words from the conversation.
+</teacher_script>
+
+<teacher_script pause="60" lang="vi">
+Điền từ vào chỗ trống. 1 phút nha. Từ vựng trong bài này quan trọng, hay ra trong bài viết và bài đọc thi vào 10.
 </teacher_script>
 
 <task>
@@ -185,13 +217,33 @@ Bài 3, điền từ vào chỗ trống. 1 phút nha.
 **5.** The goals of sustainable _______ will guide us to create a more sustainable future for everyone.
 </questions>
 
-<teacher_script pause="0" type="answer">
-Ok đáp án nha. 1 là landscape, 2 là couldn't help, 3 là explore, 4 là support, 5 là development.
+<teacher_script pause="0" lang="vi" type="answer">
+Ok đáp án nha.
 </teacher_script>
 
 <answer>
 **Đáp án:** 1. landscape | 2. couldn't help | 3. explore | 4. support | 5. development
 </answer>
+
+<teacher_script pause="0" lang="vi">
+Câu 1 là landscape - phong cảnh. Everything you see when you look across a large area - đó là định nghĩa của landscape.
+</teacher_script>
+
+<teacher_script pause="0" lang="vi">
+Câu 2 là couldn't help. Cấu trúc can't help + Ving = không thể không làm gì. Trong bài là "can't help admiring". Cấu trúc này quan trọng nha, nhớ kỹ.
+</teacher_script>
+
+<teacher_script pause="0" lang="vi">
+Câu 3 là explore - khám phá. The best way to explore = cách tốt nhất để khám phá.
+</teacher_script>
+
+<teacher_script pause="0" lang="vi">
+Câu 4 là support - ủng hộ. Environmentalists support measures = nhà môi trường ủng hộ biện pháp.
+</teacher_script>
+
+<teacher_script pause="0" lang="vi">
+Câu 5 là development. Sustainable development = phát triển bền vững. Cụm từ này rất quan trọng, hay ra thi luôn.
+</teacher_script>
 
 <explanation>
 **Giải thích:**
@@ -206,8 +258,12 @@ Ok đáp án nha. 1 là landscape, 2 là couldn't help, 3 là explore, 4 là sup
 
 ### Bài 4 trang 73 - Complete the sentences
 
-<teacher_script pause="60">
-Bài 4. Hoàn thành câu với dạng đúng của từ cho sẵn. Chú ý chia động từ hoặc biến đổi từ cho phù hợp. 1 phút nha.
+<teacher_script pause="0" lang="en">
+Exercise 4. Complete the sentences with the correct form of the words given.
+</teacher_script>
+
+<teacher_script pause="60" lang="vi">
+Hoàn thành câu với dạng đúng của từ cho sẵn. Chú ý chia động từ hoặc biến đổi từ cho phù hợp. 1 phút nha. Dạng bài word form này rất quan trọng cho thi.
 </teacher_script>
 
 <task>
@@ -230,13 +286,33 @@ Bài 4. Hoàn thành câu với dạng đúng của từ cho sẵn. Chú ý chia
 **5.** Tourism _______ millions of dollars to our country's economy.
 </questions>
 
-<teacher_script pause="0" type="answer">
-Đáp án: 1 là crazy, 2 là landscape, 3 là explore, 4 là suggest, 5 là contributes.
+<teacher_script pause="0" lang="vi" type="answer">
+Đáp án nha.
 </teacher_script>
 
 <answer>
 **Đáp án:** 1. crazy | 2. landscape | 3. explore | 4. suggest | 5. contributes
 </answer>
+
+<teacher_script pause="0" lang="vi">
+Câu 1: crazy. Be crazy about = mê, cuồng. Không đổi dạng vì đây là tính từ.
+</teacher_script>
+
+<teacher_script pause="0" lang="vi">
+Câu 2: landscape - phong cảnh. Danh từ, không đổi dạng.
+</teacher_script>
+
+<teacher_script pause="0" lang="vi">
+Câu 3: explore. Cấu trúc eager to + V-inf, nên giữ nguyên explore.
+</teacher_script>
+
+<teacher_script pause="0" lang="vi">
+Câu 4: suggest. Can you suggest...? Động từ nguyên mẫu sau can, không chia.
+</teacher_script>
+
+<teacher_script pause="0" lang="vi">
+Câu 5: contributes. Tourism là danh từ số ít, nên động từ phải thêm s. Thì hiện tại đơn, diễn tả sự thật. Cẩn thận câu này, nhiều bạn quên thêm s.
+</teacher_script>
 
 <explanation>
 **Giải thích:**
@@ -249,6 +325,6 @@ Bài 4. Hoàn thành câu với dạng đúng của từ cho sẵn. Chú ý chia
 
 ---
 
-<teacher_script pause="0">
-Ok hết Getting Started rồi. Về nhà học từ vựng về kỳ quan thiên nhiên, bài sau qua A Closer Look 1 nha.
+<teacher_script pause="0" lang="vi">
+Ok hết Getting Started rồi. Về nhà học từ vựng về kỳ quan thiên nhiên nha. Chủ đề này quan trọng cho thi vào 10, từ vựng hay ra trong bài đọc hiểu. Bài sau qua A Closer Look 1.
 </teacher_script>

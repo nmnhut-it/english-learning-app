@@ -3,15 +3,18 @@
 ## A CLOSER LOOK 1
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" lang="vi">
 Ok lớp 7, bài hôm nay là A Closer Look 1 - Unit 7 Traffic nha. Mở sách trang 10 đi.
+</teacher_script>
+
+<teacher_script pause="0" lang="vi">
 Bài này học từ vựng về phương tiện giao thông, biển báo đường bộ, và phát âm 2 âm /aɪ/ với /eɪ/.
 </teacher_script>
 
 ---
 
 <!-- chunk: vocabulary -->
-<teacher_script pause="0">
+<teacher_script pause="0" lang="vi">
 Đầu tiên là từ vựng. Có 2 nhóm: cụm động từ đi lại và biển báo giao thông.
 </teacher_script>
 
@@ -34,7 +37,7 @@ Bài này học từ vựng về phương tiện giao thông, biển báo đư�
 13. **road work** : công trình đường bộ /rəʊd wɜːk/
 </vocabulary>
 
-<teacher_script pause="0" action="record">
+<teacher_script pause="0" lang="vi" action="record">
 Bấm nút Ghi âm để đọc từ vựng và gửi cho thầy sửa nha.
 </teacher_script>
 
@@ -43,7 +46,11 @@ Bấm nút Ghi âm để đọc từ vựng và gửi cho thầy sửa nha.
 <!-- chunk: exercise_1 -->
 ### Bài 1 trang 10 - Match
 
-<teacher_script pause="45">
+<teacher_script pause="0" lang="en">
+Exercise 1. Match the verbs in column A with the words or phrases in column B.
+</teacher_script>
+
+<teacher_script pause="45" lang="vi">
 Bài 1. Nối động từ ở cột A với cụm từ ở cột B. 45 giây nha.
 </teacher_script>
 
@@ -60,8 +67,12 @@ Bài 1. Nối động từ ở cột A với cụm từ ở cột B. 45 giây nh
 ---
 
 <!-- chunk: answer_1 -->
-<teacher_script pause="0">
-Đáp án nha. 1-c, 2-a, 3-b, 4-d, 5-e.
+<teacher_script pause="0" lang="vi">
+Đáp án nha.
+</teacher_script>
+
+<teacher_script pause="0" lang="en">
+1-c: ride a bike. 2-a: drive a car. 3-b: sail a boat. 4-d: go on foot. 5-e: travel by air.
 </teacher_script>
 
 <answer>
@@ -90,26 +101,34 @@ Bài 1. Nối động từ ở cột A với cụm từ ở cột B. 45 giây nh
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 10 - Road signs
 
-<teacher_script pause="60">
+<teacher_script pause="0" lang="en">
+Exercise 2. Write the correct phrases under the signs.
+</teacher_script>
+
+<teacher_script pause="60" lang="vi">
 Bài 2. Nhìn các biển báo giao thông và viết tên đúng bên dưới. 1 phút nha.
 </teacher_script>
 
 <questions type="fill_blanks">
 **Viết tên biển báo:**
 
-1. 🚫➡️ → _______
-2. 🚦 → _______
-3. 🚴 → _______
-4. 🚳 → _______
-5. 🏫 → _______
-6. 🏥 → _______
+1. (biển cấm rẽ phải) → _______
+2. (đèn giao thông) → _______
+3. (làn xe đạp) → _______
+4. (cấm xe đạp) → _______
+5. (trường học phía trước) → _______
+6. (bệnh viện phía trước) → _______
 </questions>
 
 ---
 
 <!-- chunk: answer_2 -->
-<teacher_script pause="0">
+<teacher_script pause="0" lang="vi">
 Đáp án nha.
+</teacher_script>
+
+<teacher_script pause="0" lang="en">
+1. no right turn. 2. traffic lights. 3. cycle lane. 4. no cycling. 5. school ahead. 6. hospital ahead.
 </teacher_script>
 
 <answer>
@@ -127,14 +146,24 @@ Bài 2. Nhìn các biển báo giao thông và viết tên đúng bên dưới. 
 <!-- chunk: exercise_3 -->
 ### Bài 3 trang 10 - Speaking
 
-<teacher_script pause="0">
+<teacher_script pause="0" lang="en">
+Exercise 3. Work in groups. Talk about the road signs you see on the way to school.
+</teacher_script>
+
+<teacher_script pause="0" lang="vi">
 Bài 3. Nói về các biển báo trên đường đến trường.
 </teacher_script>
 
 <questions type="speaking">
 **Cấu trúc:**
-- On my way to school, I see a '______' sign.
-- (Trên đường đến trường, tôi thấy biển báo '______'.)
+
+<teacher_script pause="0" lang="en">
+On my way to school, I see a '______' sign.
+</teacher_script>
+
+<teacher_script pause="0" lang="vi">
+Trên đường đến trường, tôi thấy biển báo '______'.
+</teacher_script>
 
 **Mẫu:**
 
@@ -145,7 +174,7 @@ Bài 3. Nói về các biển báo trên đường đến trường.
 | I also see 'traffic lights' at the crossroads. | Tôi cũng thấy 'đèn giao thông' ở ngã tư. |
 </questions>
 
-<teacher_script pause="0" action="record">
+<teacher_script pause="0" lang="vi" action="record">
 Các em ghi âm nói về biển báo trên đường đến trường nha.
 </teacher_script>
 
@@ -154,7 +183,7 @@ Các em ghi âm nói về biển báo trên đường đến trường nha.
 <!-- chunk: pronunciation_theory -->
 ### Pronunciation - Phát âm /aɪ/ và /eɪ/
 
-<teacher_script pause="0">
+<teacher_script pause="0" lang="vi">
 Phần phát âm nha. Hôm nay học 2 âm: /aɪ/ như "ai" và /eɪ/ như "ây".
 </teacher_script>
 
@@ -223,9 +252,9 @@ Phần phát âm nha. Hôm nay học 2 âm: /aɪ/ như "ai" và /eɪ/ như "ây"
 - **/eɪ/** = "ây" (như "mây", "tây") → thường viết với **a_e, ay, ai, a**
 
 **Lỗi thường gặp:**
-- ❌ Đọc /aɪ/ thành /i/ ngắn: ride → rid ❌
-- ❌ Đọc /eɪ/ thành /e/ ngắn: train → tren ❌
-- ✅ Nhớ: Cả hai âm đều kết thúc bằng /ɪ/ (miệng khép lại)
+- (X) Đọc /aɪ/ thành /i/ ngắn: ride → rid (X)
+- (X) Đọc /eɪ/ thành /e/ ngắn: train → tren (X)
+- (OK) Nhớ: Cả hai âm đều kết thúc bằng /ɪ/ (miệng khép lại)
 </pronunciation_theory>
 
 ---
@@ -237,7 +266,11 @@ Phần phát âm nha. Hôm nay học 2 âm: /aɪ/ như "ai" và /eɪ/ như "ây"
 **Audio:** Bài 4 - Listen and repeat /aɪ/ và /eɪ/
 </audio>
 
-<teacher_script pause="60">
+<teacher_script pause="0" lang="en">
+Exercise 4. Listen and repeat.
+</teacher_script>
+
+<teacher_script pause="60" lang="vi">
 Bài 4. Nghe và lặp lại các từ sau. Chú ý phân biệt âm /aɪ/ và /eɪ/. 1 phút nha.
 </teacher_script>
 
@@ -247,7 +280,7 @@ Bài 4. Nghe và lặp lại các từ sau. Chú ý phân biệt âm /aɪ/ và /
 **/eɪ/:** gate, train, plane, way, station
 </questions>
 
-<teacher_script pause="0" action="record">
+<teacher_script pause="0" lang="vi" action="record">
 Ghi âm đọc 10 từ trên và gửi cho thầy sửa nha.
 </teacher_script>
 
@@ -260,7 +293,11 @@ Ghi âm đọc 10 từ trên và gửi cho thầy sửa nha.
 **Audio:** Bài 5 - Listen and underline/circle
 </audio>
 
-<teacher_script pause="60">
+<teacher_script pause="0" lang="en">
+Exercise 5. Underline the words with the /aɪ/ sound and circle the words with the /eɪ/ sound.
+</teacher_script>
+
+<teacher_script pause="60" lang="vi">
 Bài 5. Gạch chân các từ có âm /aɪ/, khoanh tròn các từ có âm /eɪ/. 1 phút nha.
 </teacher_script>
 
@@ -275,7 +312,7 @@ Bài 5. Gạch chân các từ có âm /aɪ/, khoanh tròn các từ có âm /e�
 ---
 
 <!-- chunk: answer_5 -->
-<teacher_script pause="0">
+<teacher_script pause="0" lang="vi">
 Đáp án nha.
 </teacher_script>
 
@@ -317,7 +354,7 @@ Bài 5. Gạch chân các từ có âm /aɪ/, khoanh tròn các từ có âm /e�
 ---
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" lang="vi">
 Ok hết A Closer Look 1 rồi. Về nhà học thuộc từ vựng và luyện phát âm 2 âm /aɪ/ với /eɪ/ nha.
 Bài sau qua A Closer Look 2, học ngữ pháp "How far" và "should/shouldn't". Hẹn gặp lại!
 </teacher_script>

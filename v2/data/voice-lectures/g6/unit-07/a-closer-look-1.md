@@ -3,18 +3,22 @@
 ## A CLOSER LOOK 1 - Vocabulary & Pronunciation
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
-Ok mấy đứa, bài này là A Closer Look 1 - học thêm từ vựng và phát âm hen.
+<teacher_script pause="0" lang="en">
+A Closer Look 1.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" lang="vi">
+Ok mấy đứa, bài này học thêm từ vựng và phát âm hen.
+</teacher_script>
+
+<teacher_script pause="0" lang="vi">
 Mở sách trang 8 tập 2 đi. Bài này có 3 bài tập từ vựng và 2 bài phát âm.
 </teacher_script>
 
 ---
 
 <!-- chunk: vocabulary -->
-<teacher_script pause="0">
+<teacher_script pause="0" lang="vi">
 Đây là từ vựng mới bài này. Click vô từ để nghe phát âm, ghi vô tập rồi làm bài trắc nghiệm từ vựng hen.
 </teacher_script>
 
@@ -43,11 +47,11 @@ Mở sách trang 8 tập 2 đi. Bài này có 3 bài tập từ vựng và 2 bà
 ---
 
 <!-- chunk: record_vocabulary -->
-<teacher_script pause="0" action="record">
+<teacher_script pause="0" lang="vi" action="record">
 Bấm nút Ghi âm để đọc lại từ vựng và gửi cho thầy sửa hen.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" lang="vi">
 Record xong thì bấm tiếp tục qua bài tập nha.
 </teacher_script>
 
@@ -56,7 +60,11 @@ Record xong thì bấm tiếp tục qua bài tập nha.
 <!-- chunk: exercise_1 -->
 ### Bài 1 trang 8 - Match definitions
 
-<teacher_script pause="60">
+<teacher_script pause="0" lang="en">
+Exercise 1. Write the words or phrases in the box next to the definition.
+</teacher_script>
+
+<teacher_script pause="60" lang="vi">
 Bài 1 nha. Đọc định nghĩa tiếng Anh bên dưới, rồi chọn từ trong khung điền vô cho đúng. Bài này luyện hiểu nghĩa từ qua định nghĩa tiếng Anh. 1 phút hen.
 </teacher_script>
 
@@ -93,7 +101,7 @@ Bài 1 nha. Đọc định nghĩa tiếng Anh bên dưới, rồi chọn từ tr
 ---
 
 <!-- chunk: answer_1 -->
-<teacher_script pause="0">
+<teacher_script pause="0" lang="vi">
 Ok thầy sửa bài nha. Mấy đứa kiểm tra lại.
 </teacher_script>
 
@@ -113,7 +121,11 @@ Ok thầy sửa bài nha. Mấy đứa kiểm tra lại.
 | 5 | A person who watches TV | **viewer** | người xem |
 </explanation>
 
-<teacher_script pause="30">
+<teacher_script pause="0" lang="vi">
+Bài này ai sai câu 5 thì chắc quên từ viewer rồi đó. View là xem, viewer là người xem. Dễ nhớ hen.
+</teacher_script>
+
+<teacher_script pause="30" lang="vi">
 Mấy đứa sửa bài nếu sai. 30 giây hen.
 </teacher_script>
 
@@ -122,7 +134,11 @@ Mấy đứa sửa bài nếu sai. 30 giây hen.
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 8 - Fill in the blanks
 
-<teacher_script pause="60">
+<teacher_script pause="0" lang="en">
+Exercise 2. Complete the sentences with the words or phrases in the box.
+</teacher_script>
+
+<teacher_script pause="60" lang="vi">
 Bài 2 nha. Đọc câu, chọn từ phù hợp trong khung điền vô chỗ trống. Bài này luyện dùng từ vựng trong câu. 1 phút hen.
 </teacher_script>
 
@@ -163,7 +179,7 @@ Bài 2 nha. Đọc câu, chọn từ phù hợp trong khung điền vô chỗ tr
 ---
 
 <!-- chunk: answer_2 -->
-<teacher_script pause="0">
+<teacher_script pause="0" lang="vi">
 Ok thầy sửa bài nha.
 </teacher_script>
 
@@ -184,7 +200,11 @@ Ok thầy sửa bài nha.
 | 6 | A popular programme has a lot of ___ | **viewers** | Nhiều người xem |
 </explanation>
 
-<teacher_script pause="30">
+<teacher_script pause="0" lang="vi">
+Câu 5 nhiều bạn hay quên thêm S. Comedies là số nhiều vì bố xem nhiều phim hài, không phải chỉ 1 phim đâu nha.
+</teacher_script>
+
+<teacher_script pause="30" lang="vi">
 Sửa bài nếu sai hen. 30 giây.
 </teacher_script>
 
@@ -193,8 +213,12 @@ Sửa bài nếu sai hen. 30 giây.
 <!-- chunk: exercise_3 -->
 ### Bài 3 trang 8 - Complete with adjectives
 
-<teacher_script pause="60">
-Bài 3 nha. Bài này điền tính từ - tức là từ chỉ tính chất như "boring", "funny". Đọc câu rồi chọn tính từ phù hợp trong khung điền vô. 1 phút hen.
+<teacher_script pause="0" lang="en">
+Exercise 3. Complete the sentences with the adjectives in the box.
+</teacher_script>
+
+<teacher_script pause="60" lang="vi">
+Bài 3 nha. Bài này điền tính từ - tức là từ chỉ tính chất như boring, funny. Đọc câu rồi chọn tính từ phù hợp trong khung điền vô. 1 phút hen.
 </teacher_script>
 
 <task>
@@ -234,7 +258,7 @@ Bài 3 nha. Bài này điền tính từ - tức là từ chỉ tính chất nh�
 ---
 
 <!-- chunk: answer_3 -->
-<teacher_script pause="0">
+<teacher_script pause="0" lang="vi">
 Ok thầy sửa bài nha. Đọc giải thích bên dưới để hiểu tại sao chọn từng tính từ.
 </teacher_script>
 
@@ -255,11 +279,15 @@ Ok thầy sửa bài nha. Đọc giải thích bên dưới để hiểu tại s
 | **educational** | có tính giáo dục | "learn a lot" = học được nhiều |
 </explanation>
 
-<teacher_script pause="30">
+<teacher_script pause="0" lang="vi">
+Câu 4 hay bị nhầm lắm đó. Live đọc là /laɪv/ nghĩa là trực tiếp, khác với live đọc là /lɪv/ nghĩa là sống. Cùng cách viết mà khác nghĩa luôn.
+</teacher_script>
+
+<teacher_script pause="30" lang="vi">
 Sửa bài nếu sai hen. 30 giây. Nếu cần hỏi thì nhấn thu âm bên dưới nha.
 </teacher_script>
 
-<teacher_script pause="0" action="record">
+<teacher_script pause="0" lang="vi" action="record">
 </teacher_script>
 
 ---
@@ -267,18 +295,22 @@ Sửa bài nếu sai hen. 30 giây. Nếu cần hỏi thì nhấn thu âm bên d
 <!-- chunk: pronunciation_intro -->
 ### PRONUNCIATION - /θ/ và /ð/
 
-<teacher_script pause="0">
-Giờ qua phần Pronunciation nha - phát âm. Hôm nay học 2 âm: /θ/ và /ð/.
+<teacher_script pause="0" lang="vi">
+Giờ qua phần Pronunciation nha - phát âm.
 </teacher_script>
 
-<teacher_script pause="0">
-Hai âm này tiếng Việt không có, nên nhiều bạn hay đọc sai. Cần tập kỹ hen.
+<teacher_script pause="0" lang="vi">
+Hôm nay học 2 âm: /θ/ và /ð/. Hai âm này tiếng Việt không có, nên nhiều bạn hay đọc sai. Cần tập kỹ hen.
+</teacher_script>
+
+<teacher_script pause="0" lang="vi">
+Thầy nói trước luôn, 2 âm này khó nhất trong tiếng Anh đó. Nhưng mà tập vài lần là quen thôi, đừng lo.
 </teacher_script>
 
 ---
 
 <!-- chunk: pronunciation_theory -->
-<teacher_script pause="0">
+<teacher_script pause="0" lang="vi">
 Đây là lý thuyết phát âm. Mấy đứa xem kỹ cách đặt lưỡi hen - quan trọng lắm.
 </teacher_script>
 
@@ -314,14 +346,18 @@ Hai âm này tiếng Việt không có, nên nhiều bạn hay đọc sai. Cần
 - ✅ Nhớ: LƯỠI PHẢI CHẠM RĂNG!
 </pronunciation_theory>
 
-<teacher_script pause="90">
+<teacher_script pause="0" lang="vi">
+Mẹo nè: Đặt tay lên cổ họng. Nếu rung thì là /ð/, không rung thì là /θ/. Dễ phân biệt hen.
+</teacher_script>
+
+<teacher_script pause="90" lang="vi">
 Ghi lý thuyết vô tập đi. 1 phút rưỡi hen. Nhớ vẽ hình miệng để dễ nhớ.
 </teacher_script>
 
 ---
 
 <!-- chunk: pronunciation_audio -->
-<teacher_script pause="0">
+<teacher_script pause="0" lang="vi">
 Giờ nghe audio mẫu hen. Bấm play để nghe người ta đọc, rồi tập đọc theo.
 </teacher_script>
 
@@ -329,14 +365,14 @@ Giờ nghe audio mẫu hen. Bấm play để nghe người ta đọc, rồi tậ
 **Audio mẫu:** Nghe cách phát âm /θ/ và /ð/
 </audio>
 
-<teacher_script pause="30">
+<teacher_script pause="30" lang="vi">
 Nghe xong chưa? Nghe lại nếu cần hen. Để ý cách người ta đặt lưỡi giữa 2 hàm răng.
 </teacher_script>
 
 ---
 
 <!-- chunk: pronunciation_guide -->
-<teacher_script pause="0">
+<teacher_script pause="0" lang="vi">
 Đây là bảng tóm tắt phân biệt 2 âm hen. Quan trọng là phân biệt được /θ/ không rung cổ và /ð/ có rung cổ.
 </teacher_script>
 
@@ -355,7 +391,11 @@ Nghe xong chưa? Nghe lại nếu cần hen. Để ý cách người ta đặt l
 - **/ð/** thường trong: **th**e, **th**is, **th**at, **th**ey, **th**ose, wea**th**er, fa**th**er
 </vocabulary>
 
-<teacher_script pause="60">
+<teacher_script pause="0" lang="vi">
+Mẹo hay nè: Mấy từ như the, this, that, they - toàn là mấy từ dùng hoài đó - thì đọc là /ð/ có rung cổ. Còn lại đa số là /θ/ không rung.
+</teacher_script>
+
+<teacher_script pause="60" lang="vi">
 Ghi bảng tóm tắt vô tập đi. 1 phút hen.
 </teacher_script>
 
@@ -364,7 +404,11 @@ Ghi bảng tóm tắt vô tập đi. 1 phút hen.
 <!-- chunk: exercise_4 -->
 ### Bài 4 trang 8 - Listen and repeat
 
-<teacher_script pause="60">
+<teacher_script pause="0" lang="en">
+Exercise 4. Listen and repeat the words.
+</teacher_script>
+
+<teacher_script pause="60" lang="vi">
 Bài 4 nha. Nghe audio rồi đọc theo từng cột. Chú ý phân biệt âm /θ/ bên trái và /ð/ bên phải. 1 phút hen.
 </teacher_script>
 
@@ -391,11 +435,11 @@ Bài 4 nha. Nghe audio rồi đọc theo từng cột. Chú ý phân biệt âm 
 ---
 
 <!-- chunk: record_pronunciation -->
-<teacher_script pause="0" action="record">
+<teacher_script pause="0" lang="vi" action="record">
 Bấm nút Ghi âm để đọc lại và gửi cho thầy sửa hen. Đọc cả 2 cột, thầy sẽ nghe và góp ý.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" lang="vi">
 Record xong thì bấm tiếp tục qua bài Tongue Twister nha.
 </teacher_script>
 
@@ -404,8 +448,16 @@ Record xong thì bấm tiếp tục qua bài Tongue Twister nha.
 <!-- chunk: exercise_5 -->
 ### Bài 5 trang 8 - Tongue Twister
 
-<teacher_script pause="60">
-Bài 5 - Tongue Twister nha. Tongue Twister là câu luyện phát âm khó - đọc nhanh mà không sai. Thử đọc 2 câu này nhanh và đúng âm /θ/ với /ð/ hen. 1 phút.
+<teacher_script pause="0" lang="en">
+Exercise 5. Tongue Twister. Take turns to read the sentences quickly and correctly.
+</teacher_script>
+
+<teacher_script pause="0" lang="vi">
+Tongue Twister là câu luyện phát âm khó - đọc nhanh mà không sai. Bài này vui lắm đó.
+</teacher_script>
+
+<teacher_script pause="60" lang="vi">
+Thử đọc 2 câu này nhanh và đúng âm /θ/ với /ð/ hen. 1 phút. Ai đọc trẹo lưỡi là bình thường nha, thầy hồi đầu cũng vậy.
 </teacher_script>
 
 <task>
@@ -442,21 +494,29 @@ Bài 5 - Tongue Twister nha. Tongue Twister là câu luyện phát âm khó - đ
 ---
 
 <!-- chunk: record_tongue_twister -->
-<teacher_script pause="0" action="record">
+<teacher_script pause="0" lang="vi" action="record">
 Bấm nút Ghi âm để đọc 2 câu Tongue Twister và gửi cho thầy sửa hen. Cố gắng đọc nhanh mà không sai nha.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" lang="vi">
 Record xong thì bấm tiếp tục nha.
 </teacher_script>
 
 ---
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" lang="vi">
 Ok hết A Closer Look 1 rồi nha. Về nhà luyện phát âm /θ/ và /ð/ nhiều hen - đặt lưỡi giữa 2 hàm răng!
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" lang="vi">
+Ai đọc được Tongue Twister mà không trẹo lưỡi thì giỏi lắm đó. Thầy cũng phải tập mấy tuần mới quen.
+</teacher_script>
+
+<teacher_script pause="0" lang="en">
+A Closer Look 2.
+</teacher_script>
+
+<teacher_script pause="0" lang="vi">
 Bài sau qua A Closer Look 2 - học Grammar. Hẹn gặp lại mấy đứa!
 </teacher_script>

@@ -2,8 +2,12 @@
 
 ## GETTING STARTED - What can we do to protect the environment?
 
-<teacher_script pause="0">
-Ok lớp 8, Unit 7 nha - Environmental Protection. Bảo vệ môi trường. Mở sách trang 72 đi.
+<teacher_script pause="0" lang="en">
+Unit 7. Environmental Protection.
+</teacher_script>
+
+<teacher_script pause="0" lang="vi">
+Ok lớp 8, Unit 7 nha - Bảo vệ môi trường. Chủ đề này hay ra thi đó, tập trung nha. Mở sách trang 72 đi.
 </teacher_script>
 
 ---
@@ -44,7 +48,7 @@ Ok lớp 8, Unit 7 nha - Environmental Protection. Bảo vệ môi trường. M�
 </vocabulary>
 
 
-<teacher_script pause="0" action="record">
+<teacher_script pause="0" lang="vi" action="record">
 Bấm nút Ghi âm để đọc lại và gửi cho thầy sửa nha.
 </teacher_script>
 
@@ -52,8 +56,12 @@ Bấm nút Ghi âm để đọc lại và gửi cho thầy sửa nha.
 
 ### Bài 1 trang 72 - Listen and read
 
-<teacher_script pause="0">
-Bài 1. Nghe và đọc hội thoại. Đây là buổi họp câu lạc bộ môi trường, tụi nó đang thảo luận về các vấn đề môi trường.
+<teacher_script pause="0" lang="en">
+Exercise 1. Listen and read.
+</teacher_script>
+
+<teacher_script pause="0" lang="vi">
+Nghe và đọc hội thoại. Đây là buổi họp câu lạc bộ môi trường, tụi nó đang thảo luận về các vấn đề môi trường. Chủ đề này quan trọng cho thi nha.
 </teacher_script>
 
 <task>
@@ -100,11 +108,11 @@ Bài 1. Nghe và đọc hội thoại. Đây là buổi họp câu lạc bộ m�
 **Trưởng CLB:** Đúng. Và chúng ta có thể tình nguyện tham gia một số chương trình môi trường địa phương để cứu các loài có nguy cơ tuyệt chủng.
 </translation>
 
-<teacher_script pause="240">
+<teacher_script pause="240" lang="vi">
 Nghe hội thoại rồi dịch ra tiếng Việt nha. 4 phút vì bài dài.
 </teacher_script>
 
-<teacher_script pause="60">
+<teacher_script pause="60" lang="vi">
 Ok sửa bài dịch nha. Đối chiếu với bản dịch trên màn hình.
 </teacher_script>
 
@@ -112,8 +120,12 @@ Ok sửa bài dịch nha. Đối chiếu với bản dịch trên màn hình.
 
 ### Bài 2 trang 73 - Match
 
-<teacher_script pause="60">
-Bài 2, nối cụm từ với định nghĩa. 1 phút nha.
+<teacher_script pause="0" lang="en">
+Exercise 2. Match the phrases in A with their meanings in B.
+</teacher_script>
+
+<teacher_script pause="60" lang="vi">
+Nối cụm từ với định nghĩa. 1 phút nha. Dạng bài này hay ra thi, cần nhớ kỹ từ vựng.
 </teacher_script>
 
 <task>
@@ -146,13 +158,33 @@ Bài 2, nối cụm từ với định nghĩa. 1 phút nha.
 | 5 | ngừng xả rác | E | làm khu phố xanh hơn |
 </translation>
 
-<teacher_script pause="0" type="answer">
-Đáp án: 1-C, 2-D, 3-E, 4-A, 5-B.
+<teacher_script pause="0" lang="vi" type="answer">
+Đáp án nha.
 </teacher_script>
 
 <answer>
 **Đáp án:** 1-C | 2-D | 3-E | 4-A | 5-B
 </answer>
+
+<teacher_script pause="0" lang="vi">
+1-C: Reduce carbon footprint = produce less CO2, giảm lượng CO2 thải ra.
+</teacher_script>
+
+<teacher_script pause="0" lang="vi">
+2-D: Turn off devices = save electricity, tắt thiết bị = tiết kiệm điện.
+</teacher_script>
+
+<teacher_script pause="0" lang="vi">
+3-E: Plant trees = make neighbourhood greener, trồng cây = làm xanh khu phố.
+</teacher_script>
+
+<teacher_script pause="0" lang="vi">
+4-A: Avoid single-use = not use items used once, tránh dùng một lần.
+</teacher_script>
+
+<teacher_script pause="0" lang="vi">
+5-B: Stop littering = not throw rubbish, ngừng xả rác.
+</teacher_script>
 
 <explanation>
 **Giải thích:**
@@ -167,8 +199,12 @@ Bài 2, nối cụm từ với định nghĩa. 1 phút nha.
 
 ### Bài 3 trang 73 - Fill in the blanks
 
-<teacher_script pause="60">
-Bài 3, điền từ vào chỗ trống. 1 phút nha.
+<teacher_script pause="0" lang="en">
+Exercise 3. Fill in the blanks with words from the conversation.
+</teacher_script>
+
+<teacher_script pause="60" lang="vi">
+Điền từ vào chỗ trống. 1 phút nha. Nhớ đọc lại hội thoại để tìm từ chính xác.
 </teacher_script>
 
 <task>
@@ -189,13 +225,33 @@ Bài 3, điền từ vào chỗ trống. 1 phút nha.
 **5.** We can volunteer for _______ to protect nature.
 </questions>
 
-<teacher_script pause="0" type="answer">
-Ok đáp án nha. 1 là pollution, 2 là reduce, 3 là single-use, 4 là carbon footprint, 5 là environment programmes.
+<teacher_script pause="0" lang="vi" type="answer">
+Ok đáp án nha.
 </teacher_script>
 
 <answer>
 **Đáp án:** 1. pollution | 2. reduce | 3. single-use | 4. carbon footprint | 5. environment programmes
 </answer>
+
+<teacher_script pause="0" lang="vi">
+Câu 1 là pollution - ô nhiễm. Air and water pollution causes health problems.
+</teacher_script>
+
+<teacher_script pause="0" lang="vi">
+Câu 2 là reduce - giảm. We can reduce our carbon footprint.
+</teacher_script>
+
+<teacher_script pause="0" lang="vi">
+Câu 3 là single-use - dùng một lần. Plastic bags are single-use products.
+</teacher_script>
+
+<teacher_script pause="0" lang="vi">
+Câu 4 là carbon footprint - lượng khí thải carbon. Cụm từ quan trọng nha, nhớ kỹ.
+</teacher_script>
+
+<teacher_script pause="0" lang="vi">
+Câu 5 là environment programmes - chương trình môi trường.
+</teacher_script>
 
 <explanation>
 **Giải thích:**
@@ -210,8 +266,12 @@ Ok đáp án nha. 1 là pollution, 2 là reduce, 3 là single-use, 4 là carbon 
 
 ### Bài 4 trang 73 - Complete the phrases
 
-<teacher_script pause="45">
-Bài 4, hoàn thành các cụm từ. 45 giây thôi.
+<teacher_script pause="0" lang="en">
+Exercise 4. Complete the phrases with the words given.
+</teacher_script>
+
+<teacher_script pause="45" lang="vi">
+Hoàn thành các cụm từ. 45 giây thôi, bài này nhanh.
 </teacher_script>
 
 <task>
@@ -230,13 +290,33 @@ Bài 4, hoàn thành các cụm từ. 45 giây thôi.
 **5.** _______ products
 </questions>
 
-<teacher_script pause="0" type="answer">
-Đáp án: 1 là 3Rs, 2 là water, 3 là endangered, 4 là plastic, 5 là single-use.
+<teacher_script pause="0" lang="vi" type="answer">
+Đáp án nha.
 </teacher_script>
 
 <answer>
 **Đáp án:** 1. 3Rs | 2. water | 3. endangered | 4. plastic | 5. single-use
 </answer>
+
+<teacher_script pause="0" lang="vi">
+Câu 1: practise the 3Rs - thực hành 3R. Reduce, reuse, recycle - giảm thiểu, tái sử dụng, tái chế.
+</teacher_script>
+
+<teacher_script pause="0" lang="vi">
+Câu 2: water pollution - ô nhiễm nước.
+</teacher_script>
+
+<teacher_script pause="0" lang="vi">
+Câu 3: endangered species - các loài có nguy cơ tuyệt chủng. Cụm từ này hay ra thi lắm nha.
+</teacher_script>
+
+<teacher_script pause="0" lang="vi">
+Câu 4: plastic rubbish - rác nhựa.
+</teacher_script>
+
+<teacher_script pause="0" lang="vi">
+Câu 5: single-use products - sản phẩm dùng một lần.
+</teacher_script>
 
 <explanation>
 **Giải thích:**
@@ -251,8 +331,12 @@ Bài 4, hoàn thành các cụm từ. 45 giây thôi.
 
 ### Bài 5 trang 73 - Quiz
 
-<teacher_script pause="60">
-Bài 5. Trắc nghiệm: Bạn có thân thiện với môi trường không? Chọn câu trả lời phù hợp với bản thân. 1 phút nha.
+<teacher_script pause="0" lang="en">
+Exercise 5. Quiz: Are you eco-friendly?
+</teacher_script>
+
+<teacher_script pause="60" lang="vi">
+Trắc nghiệm: Bạn có thân thiện với môi trường không? Chọn câu trả lời phù hợp với bản thân. 1 phút nha.
 </teacher_script>
 
 <task>
@@ -298,12 +382,12 @@ Bài 5. Trắc nghiệm: Bạn có thân thiện với môi trường không? Ch
 *Bạn có tắm nhanh để tiết kiệm nước không?*
 </questions>
 
-<teacher_script pause="0" type="answer">
-Nếu chọn nhiều A và C (Always), bạn rất eco-friendly! Nếu chọn nhiều B, cần cố gắng thêm nha.
+<teacher_script pause="0" lang="vi" type="answer">
+Nếu chọn nhiều Always, bạn rất eco-friendly. Nếu chọn nhiều Sometimes hoặc Never, cần cố gắng thêm nha. Bảo vệ môi trường bắt đầu từ những việc nhỏ.
 </teacher_script>
 
 ---
 
-<teacher_script pause="0">
-Ok hết Getting Started rồi. Về nhà học từ vựng về môi trường, bài sau qua A Closer Look 1 nha.
+<teacher_script pause="0" lang="vi">
+Ok hết Getting Started rồi. Về nhà học từ vựng về môi trường, quan trọng cho thi đó. Bài sau qua A Closer Look 1 nha.
 </teacher_script>

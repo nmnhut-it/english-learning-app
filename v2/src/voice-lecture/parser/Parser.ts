@@ -15,6 +15,7 @@ export interface TeacherScript {
   id: string;
   text: string;
   pause: number;
+  lang: 'vi' | 'en';
   href: string | null;
   action: string | null;
 }
@@ -119,6 +120,7 @@ export function parseTeacherScript(tagContent: string, attrs: string): TeacherSc
   const id = `ts-${Math.random().toString(36).slice(2, 8)}`;
 
   const pauseMatch = attrs.match(/pause="(\d+)"/);
+  const langMatch = attrs.match(/lang="(vi|en)"/);
   const hrefMatch = attrs.match(/href="([^"]+)"/);
   const actionMatch = attrs.match(/action="(\w+)"/);
 
@@ -126,6 +128,7 @@ export function parseTeacherScript(tagContent: string, attrs: string): TeacherSc
     id,
     text: tagContent.trim(),
     pause: pauseMatch ? parseInt(pauseMatch[1], 10) : 0,
+    lang: langMatch ? (langMatch[1] as 'vi' | 'en') : 'vi',
     href: hrefMatch ? hrefMatch[1] : null,
     action: actionMatch ? actionMatch[1] : null,
   };
