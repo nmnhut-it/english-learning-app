@@ -161,41 +161,81 @@ Phần phát âm nha. Hôm nay học 2 âm: /aɪ/ như "ai" và /eɪ/ như "ây"
 <pronunciation_theory>
 ## Âm /aɪ/ - đọc như "ai"
 
-**Cách phát âm:** Mở miệng rộng và trượt dần lên như nói "ai" trong tiếng Việt.
+**Cách phát âm:** Mở miệng rộng, bắt đầu từ âm "a" rồi trượt dần lên âm "i" như nói "ai" trong tiếng Việt.
+
+**Vị trí miệng:**
+```
+  Bắt đầu: miệng mở rộng (a)
+     ↓
+  Kết thúc: miệng khép lại (i)
+```
 
 **Cách viết thường gặp:**
-| Cách viết | Ví dụ |
-|-----------|-------|
-| i | hi, my |
-| i_e | like, time, ride, bike |
-| igh | high, light, right |
-| y | cry, try, fly |
+| Cách viết | Ví dụ | Phiên âm |
+|-----------|-------|----------|
+| i | hi, my | /haɪ/, /maɪ/ |
+| i_e | like, time, ride, bike, fine, line | /laɪk/, /taɪm/, /raɪd/, /baɪk/ |
+| igh | high, light, right, sign | /haɪ/, /laɪt/, /raɪt/, /saɪn/ |
+| y | cry, try, fly, cycle | /kraɪ/, /traɪ/, /flaɪ/, /ˈsaɪkl/ |
+| i trong từ ghép | motorbike, drive | /ˈməʊtəbaɪk/, /draɪv/ |
 
 ---
 
 ## Âm /eɪ/ - đọc như "ây"
 
-**Cách phát âm:** Như nói "ây" trong tiếng Việt nhưng dài hơn.
+**Cách phát âm:** Bắt đầu từ âm "e" rồi trượt lên âm "i", như nói "ây" trong tiếng Việt nhưng dài hơn.
+
+**Vị trí miệng:**
+```
+  Bắt đầu: miệng hơi mở (e)
+     ↓
+  Kết thúc: miệng khép lại (i)
+```
 
 **Cách viết thường gặp:**
-| Cách viết | Ví dụ |
-|-----------|-------|
-| a_e | make, take, safe, gate |
-| ay | day, say, way |
-| ai | rain, train, wait |
-| a (cuối âm tiết mở) | paper, table, station |
+| Cách viết | Ví dụ | Phiên âm |
+|-----------|-------|----------|
+| a_e | make, take, safe, gate, lane | /meɪk/, /teɪk/, /seɪf/, /ɡeɪt/, /leɪn/ |
+| ay | day, say, way, pavement | /deɪ/, /seɪ/, /weɪ/, /ˈpeɪvmənt/ |
+| ai | rain, train, wait, sail | /reɪn/, /treɪn/, /weɪt/, /seɪl/ |
+| a (âm tiết mở) | paper, table, station, obey, safety | /ˈpeɪpə/, /ˈteɪbl/, /ˈsteɪʃn/, /əˈbeɪ/, /ˈseɪfti/ |
+
+---
+
+## Bảng tóm tắt từ vựng Unit 7:
+
+| Âm /aɪ/ | Nghĩa | Âm /eɪ/ | Nghĩa |
+|---------|-------|---------|-------|
+| ride /raɪd/ | đi (xe) | sail /seɪl/ | lái thuyền |
+| bike /baɪk/ | xe đạp | train /treɪn/ | tàu hỏa |
+| drive /draɪv/ | lái xe | plane /pleɪn/ | máy bay |
+| cycle /ˈsaɪkl/ | đạp xe | station /ˈsteɪʃn/ | trạm, ga |
+| motorbike /ˈməʊtəbaɪk/ | xe máy | pavement /ˈpeɪvmənt/ | vỉa hè |
+| fine /faɪn/ | tốt | gate /ɡeɪt/ | cổng |
+| sign /saɪn/ | biển báo | way /weɪ/ | đường |
+| line /laɪn/ | làn đường | safety /ˈseɪfti/ | an toàn |
+| time /taɪm/ | thời gian | obey /əˈbeɪ/ | tuân theo |
 
 ---
 
 ## Mẹo phân biệt:
-- **/aɪ/** = "ai" (như "tôi", "nói")
-- **/eɪ/** = "ây" (như "mây", "tây")
+- **/aɪ/** = "ai" (như "tôi", "nói") → thường viết với **i, i_e, igh, y**
+- **/eɪ/** = "ây" (như "mây", "tây") → thường viết với **a_e, ay, ai, a**
+
+**Lỗi thường gặp:**
+- ❌ Đọc /aɪ/ thành /i/ ngắn: ride → rid ❌
+- ❌ Đọc /eɪ/ thành /e/ ngắn: train → tren ❌
+- ✅ Nhớ: Cả hai âm đều kết thúc bằng /ɪ/ (miệng khép lại)
 </pronunciation_theory>
 
 ---
 
 <!-- chunk: exercise_4 -->
 ### Bài 4 trang 11 - Listen and repeat
+
+<audio src="https://img.loigiaihay.com/picture/2022/0815/048.mp3">
+**Audio:** Bài 4 - Listen and repeat /aɪ/ và /eɪ/
+</audio>
 
 <teacher_script pause="60">
 Bài 4. Nghe và lặp lại các từ sau. Chú ý phân biệt âm /aɪ/ và /eɪ/. 1 phút nha.
@@ -215,6 +255,10 @@ Ghi âm đọc 10 từ trên và gửi cho thầy sửa nha.
 
 <!-- chunk: exercise_5 -->
 ### Bài 5 trang 11 - Underline and circle
+
+<audio src="https://img.loigiaihay.com/picture/2022/0815/049.mp3">
+**Audio:** Bài 5 - Listen and underline/circle
+</audio>
 
 <teacher_script pause="60">
 Bài 5. Gạch chân các từ có âm /aɪ/, khoanh tròn các từ có âm /eɪ/. 1 phút nha.
