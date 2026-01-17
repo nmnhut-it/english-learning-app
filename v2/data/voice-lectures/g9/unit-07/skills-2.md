@@ -70,8 +70,10 @@ Rừng mưa nhiệt đới nằm ở vùng xích đạo, có khí hậu nóng �
 
 ### Bài 2 trang 79 - Listen and tick
 
+<audio src="https://img.loigiaihay.com/picture/2025/0212/listen-to-the-passage-and-tick-the-things-you-hear-hc-liu.mp3"></audio>
+
 <teacher_script pause="60">
-Bài 2 <eng>Listen to the passage and tick the things you hear</eng>. Nghe và đánh dấu những thứ em nghe được. 1 phút nha.
+Bài 2 <eng>Listen to the passage and tick the things you hear</eng>. Bấm nút nghe bên trên rồi đánh dấu những thứ em nghe được. 1 phút nha.
 </teacher_script>
 
 <task>
