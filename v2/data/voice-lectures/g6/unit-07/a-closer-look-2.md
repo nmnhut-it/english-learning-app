@@ -4,11 +4,11 @@
 
 <!-- chunk: intro -->
 <teacher_script pause="0">
-Ok lớp 6, bài này là <eng>A Closer Look 2</eng> - học Grammar hen.
+Ok lớp 6, bài này là A Closer Look 2 - học Grammar. Các em chú ý, lên tinh thần 120% cho thầy.
 </teacher_script>
 
 <teacher_script pause="0">
-Mở sách trang 9-10 tập 2 đi. Bài này dài nên tập trung nha. Ai mà lơ là là thầy biết liền đó.
+Mở sách ra. Bài này dài nên tập trung nha. Ai mà lơ là là thầy biết liền đó.
 </teacher_script>
 
 ---
@@ -19,11 +19,11 @@ Hôm nay học 2 điểm ngữ pháp hen.
 </teacher_script>
 
 <teacher_script pause="0">
-Một là <eng>Wh-questions</eng> - câu hỏi với các từ <eng>What</eng>, <eng>Where</eng>, <eng>When</eng>... Cái này quan trọng để hỏi thông tin.
+Một là Wh-questions - câu hỏi với các từ What, Where, When... Gọi là Wh-question vì các từ này đều bắt đầu bằng Wh- hoặc H-
 </teacher_script>
 
 <teacher_script pause="0">
-Hai là liên từ <eng>and</eng>, <eng>but</eng>, <eng>so</eng> - dùng để nối các câu lại với nhau. Dùng đúng thì câu văn hay hơn.
+Hai là liên từ and, but, so - dùng để nối các câu lại với nhau.
 </teacher_script>
 
 <teacher_script pause="0">

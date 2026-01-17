@@ -3,12 +3,12 @@
 ## A CLOSER LOOK 1 - Vocabulary & Pronunciation
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
-<eng>A Closer Look 1</eng> nha. Bài này học thêm từ vựng và phát âm hen.
+<teacher_script pause="0" href="audio/tts_d0a7d076.mp3">
+Các em mở sách ra ngay A Closer look 1. Chúng ta học thêm từ vựng và phát âm
 </teacher_script>
 
 <teacher_script pause="0">
-Mở sách trang 8 tập 2 đi. Bài này có 3 bài tập từ vựng và 2 bài phát âm.
+Các em nhìn vào bài 1
 </teacher_script>
 
 ---
@@ -284,14 +284,14 @@ Giờ qua phần <eng>Pronunciation</eng> nha - phát âm. Hôm nay học 2 âm:
 </teacher_script>
 
 <teacher_script pause="0">
-Thầy nói trước luôn, 2 âm này khó nhất trong tiếng Anh đó. Nhưng mà tập vài lần là quen thôi, đừng lo.
+Thầy nói trước luôn, 2 âm này khó nhất trong tiếng Anh. Các em cần chú ý.
 </teacher_script>
 
 ---
 
 <!-- chunk: pronunciation_theory -->
 <teacher_script pause="0">
-Đây là lý thuyết phát âm. Mấy đứa xem kỹ cách đặt lưỡi hen - quan trọng lắm.
+Đây là lý thuyết phát âm. Mấy đứa xem kỹ cách đặt lưỡi.
 </teacher_script>
 
 <pronunciation_theory>
@@ -327,11 +327,11 @@ Thầy nói trước luôn, 2 âm này khó nhất trong tiếng Anh đó. Nhưn
 </pronunciation_theory>
 
 <teacher_script pause="0">
-Mẹo nè: Đặt tay lên cổ họng. Nếu rung thì là /ð/, không rung thì là /θ/. Dễ phân biệt hen.
+Các em nhớ: Đặt tay lên cổ họng. Nếu rung thì là /ð/, không rung thì là /θ/. Dễ phân biệt hen.
 </teacher_script>
 
 <teacher_script pause="90">
-Ghi lý thuyết vô tập đi. 1 phút rưỡi hen. Nhớ vẽ hình miệng để dễ nhớ.
+Ghi lý thuyết vô tập đi. 1 phút rưỡi hen.
 </teacher_script>
 
 ---
@@ -425,7 +425,7 @@ Record xong thì bấm tiếp tục qua bài <eng>Tongue Twister</eng> nha.
 ### Bài 5 trang 8 - Tongue Twister
 
 <teacher_script pause="0">
-<eng>Tongue Twister</eng> là câu luyện phát âm khó - đọc nhanh mà không sai. Bài này vui lắm đó.
+Tongue Twister là câu luyện phát âm khó - người ta hay gọi là các câu xoắn lưỡi. Các em tập đọc theo.
 </teacher_script>
 
 <teacher_script pause="60">
@@ -478,7 +478,7 @@ Record xong thì bấm tiếp tục nha.
 
 <!-- chunk: end -->
 <teacher_script pause="0">
-Ok hết <eng>A Closer Look 1</eng> rồi nha. Về nhà luyện phát âm /θ/ và /ð/ nhiều hen - đặt lưỡi giữa 2 hàm răng!
+Ok hết A Closer Look 1 rồi. Về nhà luyện phát âm /θ/ và /ð/ nhiều hen - đặt lưỡi giữa 2 hàm răng. Nhớ học kĩ từ vựng nữa, thầy sẽ trả bài và có bảng xếp hạng bạn nào trả bài nhanh nhất.
 </teacher_script>
 
 <teacher_script pause="0">
