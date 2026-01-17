@@ -4,7 +4,8 @@
 
 <!-- chunk: intro -->
 <teacher_script pause="0">
-Chào mấy đứa lớp 7. Unit 7 nha - Traffic, giao thông. Các em mở sách trang 8 tập 2, ghi tựa bài rồi học từ vựng bên dưới.
+Chào mấy đứa lớp 7. Hôm nay thầy kẹt lịch nên không dạy ở nhà được. Đây là bài đầu tiên, Unit 7 - Traffic, giao thông. Các em có thể học bài này nhiều lần để nhớ lâu hơn hen.
+Các em mở sách ra trang 8 tập 2, Unit 7, bài Getting Started, ghi tựa bài. Sau đó bấm nút "Bắt đầu" bên dưới để học từ vựng. Máy sẽ đọc và các em đọc theo. Sau đó các em làm bài trắc nghiệm từ vựng rồi ghi từ vựng vô tập.
 </teacher_script>
 
 ---
@@ -42,15 +43,12 @@ Bấm nút Ghi âm để đọc từ vựng và gửi cho thầy sửa nha.
 <!-- chunk: exercise_1 -->
 ### Bài 1 trang 8 - Listen and read
 
-<teacher_script pause="0">
-Bài 1 nha. Đây là hội thoại Lan với Mark gặp nhau ở sân trường, nói về cách đi lại.
-</teacher_script>
-
 <audio src="https://img.loigiaihay.com/picture/2023/0111/047.mp3">
 **Audio:** Listen and read - Meeting in the schoolyard
 </audio>
 
 <teacher_script pause="180">
+Bài 1 nha. Đây là hội thoại Lan với Mark gặp nhau ở sân trường, nói về cách đi lại.
 Đọc hội thoại và dịch vô tập. 3 phút hen.
 </teacher_script>
 
