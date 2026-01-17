@@ -19,16 +19,82 @@
     .test-banner{background:#fef3c7;color:#92400e;padding:8px 16px;text-align:center;font-size:12px;position:fixed;top:56px;left:0;right:0;z-index:99;border-bottom:1px solid #fcd34d}
     .test-banner.hidden{display:none}
 
-    /* Content */
-    #content{padding:68px 16px 100px;max-width:640px;margin:0 auto}
+    /* Content - Slide Container */
+    #content{padding:68px 16px 140px;max-width:640px;margin:0 auto;min-height:100vh}
     .test-mode #content{padding-top:100px}
 
-    /* Chunks */
-    .chunk{padding:20px 0;border-bottom:2px dashed #bae6fd;opacity:.5;transition:all .3s}
-    .chunk:last-child{border-bottom:none}
-    .chunk[data-status="active"]{opacity:1;background:rgba(224,242,254,.4);border-radius:16px;margin:0 -12px;padding:20px 12px;box-shadow:0 4px 20px rgba(14,165,233,.1)}
-    .chunk[data-status="completed"]{opacity:.85}
-    .chunk-title{font-size:.7rem;color:#0369a1;text-transform:uppercase;letter-spacing:1px;margin-bottom:10px;font-weight:600;background:#e0f2fe;display:inline-block;padding:4px 10px;border-radius:20px}
+    /* Slide Counter in Header */
+    .slide-counter{
+      background:rgba(255,255,255,.2);
+      padding:4px 12px;
+      border-radius:20px;
+      font-size:.8rem;
+      font-weight:600;
+      white-space:nowrap;
+    }
+
+    /* Chunks = Slides - Hidden by default, only active shows */
+    .chunk{
+      display:none;
+      opacity:0;
+      padding:16px 0;
+      transition:opacity .4s ease;
+    }
+    .chunk[data-status="active"]{
+      display:block;
+      opacity:1;
+      animation:slideIn .4s ease forwards;
+    }
+    .chunk[data-status="completed"]{display:none}
+    .chunk[data-status="pending"]{display:none}
+
+    @keyframes slideIn{
+      from{opacity:0;transform:translateY(15px)}
+      to{opacity:1;transform:translateY(0)}
+    }
+
+    .chunk-title{font-size:.75rem;color:#0369a1;text-transform:uppercase;letter-spacing:1px;margin-bottom:12px;font-weight:600;background:#e0f2fe;display:inline-block;padding:6px 14px;border-radius:20px}
+
+    /* Fixed Bottom Navigation */
+    #bottom-nav{
+      position:fixed;
+      bottom:0;
+      left:0;right:0;
+      background:linear-gradient(to top,#fff 80%,transparent);
+      padding:20px 16px;
+      padding-bottom:calc(20px + var(--safe-bottom));
+      z-index:50;
+    }
+    #bottom-nav .nav-inner{
+      max-width:640px;
+      margin:0 auto;
+    }
+    #main-nav-btn{
+      width:100%;
+      padding:16px 24px;
+      border-radius:50px;
+      font-size:1.1rem;
+      font-weight:600;
+      border:none;
+      cursor:pointer;
+      transition:all .3s ease;
+    }
+    #main-nav-btn[data-ready="false"]{
+      background:linear-gradient(135deg,#cbd5e1,#94a3b8);
+      color:#fff;
+      cursor:not-allowed;
+      opacity:.6;
+    }
+    #main-nav-btn[data-ready="true"]{
+      background:linear-gradient(135deg,#0ea5e9,#0284c7);
+      color:#fff;
+      box-shadow:0 4px 20px rgba(14,165,233,.4);
+      animation:btnPulse 2s ease infinite;
+    }
+    @keyframes btnPulse{
+      0%,100%{box-shadow:0 4px 20px rgba(14,165,233,.4)}
+      50%{box-shadow:0 4px 30px rgba(14,165,233,.6)}
+    }
 
     /* Typography */
     h1{font-size:1.25rem;margin:12px 0 8px;color:#0c4a6e}
@@ -38,9 +104,48 @@
     strong{color:#0284c7}
     em{color:var(--muted);font-style:normal}
 
-    /* Teacher Script - Hidden but with data-testid */
-    .ts{display:none}
-    .ts[data-played="true"]{display:none}
+    /* Teacher Script - Visible with states */
+    .ts{
+      background:linear-gradient(135deg,#f8fafc,#f1f5f9);
+      border-left:4px solid #0ea5e9;
+      border-radius:0 12px 12px 0;
+      padding:12px 14px;
+      margin:10px 0;
+      transition:all .3s ease;
+      position:relative;
+    }
+    .ts-intro{
+      font-size:.75rem;
+      color:#0369a1;
+      font-weight:600;
+      margin-bottom:4px;
+      display:flex;
+      align-items:center;
+      gap:6px;
+    }
+    .ts-intro::before{content:'👨‍🏫'}
+    .ts-content{
+      color:#334155;
+      font-size:.9rem;
+      line-height:1.5;
+    }
+    /* Active/Speaking state */
+    .ts[data-status="speaking"]{
+      background:linear-gradient(135deg,#dbeafe,#bfdbfe);
+      border-left-color:#2563eb;
+      box-shadow:0 4px 12px rgba(37,99,235,.2);
+      transform:scale(1.01);
+    }
+    .ts[data-status="speaking"] .ts-intro{color:#1d4ed8}
+    .ts[data-status="speaking"] .ts-content{color:#1e40af;font-weight:500}
+    /* Completed/Played state */
+    .ts[data-status="played"]{
+      opacity:.5;
+      background:#f8fafc;
+      border-left-color:#94a3b8;
+    }
+    .ts[data-status="played"] .ts-intro{color:#64748b}
+    .ts[data-status="played"] .ts-content{color:#94a3b8}
 
     /* Timer */
     .timer{background:linear-gradient(135deg,#0c4a6e,#075985);color:#fff;padding:16px;border-radius:16px;margin:10px 0;text-align:center;display:none;box-shadow:0 4px 12px rgba(12,74,110,.3)}
@@ -109,13 +214,8 @@
     .game-item[data-selected="true"]{border-color:#0ea5e9;background:#e0f2fe}
     .game-item[data-matched="true"]{border-color:#10b981;background:#d1fae5;opacity:.6;pointer-events:none}
 
-    /* Navigation */
-    .chunk-nav{margin-top:24px;text-align:center}
-    .chunk-nav .indicator{display:none;font-size:1.5rem;color:#0ea5e9;margin-bottom:8px;animation:bounce 1s ease infinite}
-    .chunk-nav[data-ready="true"] .indicator{display:block}
-    .nav-btn{background:linear-gradient(135deg,#cbd5e1,#94a3b8);color:#fff;border:none;padding:14px 32px;border-radius:50px;font-size:1rem;font-weight:600;cursor:not-allowed;opacity:.5}
-    .nav-btn[data-ready="true"]{background:linear-gradient(135deg,#0ea5e9,#0284c7);opacity:1;cursor:pointer;box-shadow:0 4px 16px rgba(14,165,233,.4)}
-    @keyframes bounce{0%,100%{transform:translateY(0)}50%{transform:translateY(6px)}}
+    /* Old chunk-nav - kept for compatibility but hidden */
+    .chunk-nav{display:none}
 
     /* NPC System */
     #npc-overlay{position:fixed;inset:0;background:rgba(0,0,0,0);pointer-events:none;z-index:200;transition:background .4s}
@@ -154,10 +254,6 @@
 
     /* ============ MOBILE COMPACT STYLES ============ */
     @media (max-width: 640px) {
-      /* Reduce chunk padding */
-      .chunk{padding:12px 0}
-      .chunk[data-status="active"]{padding:12px 8px;margin:0 -8px}
-
       /* Compact cards */
       .card{padding:10px;margin:8px 0}
 
@@ -166,6 +262,11 @@
       .timer-label{font-size:.75rem;margin-bottom:2px}
       .timer-time{font-size:2rem}
       .timer-skip{padding:8px 16px;margin-top:8px}
+
+      /* Compact teacher script */
+      .ts{padding:10px 12px;margin:8px 0}
+      .ts-intro{font-size:.7rem}
+      .ts-content{font-size:.85rem}
 
       /* Compact vocabulary section */
       .vocab-interactive{padding:12px;margin:8px 0;border-radius:12px}
@@ -203,10 +304,6 @@
       .complete-box{padding:20px;border-radius:16px;margin:12px 0}
       .complete-icon{font-size:3rem;margin-bottom:8px}
 
-      /* Compact chunk nav */
-      .chunk-nav{margin-top:16px}
-      .nav-btn{padding:12px 24px;font-size:.95rem}
-
       /* Compact tables */
       table{font-size:.8rem}
       th,td{padding:8px 10px}
@@ -214,13 +311,11 @@
       /* Compact typography */
       h2{margin:12px 0 6px}
       h3{margin:8px 0 4px}
+
+      /* Compact bottom nav */
+      #bottom-nav{padding:16px 12px}
+      #main-nav-btn{padding:14px 20px;font-size:1rem}
     }
-
-    /* Hide clicked buttons (completed chunks) */
-    .chunk[data-status="completed"] .chunk-nav{display:none}
-
-    /* Hidden class for teacher-script-only chunks */
-    .chunk.ts-only-chunk{display:none}
   </style>
 </head>
 <body>
@@ -231,12 +326,22 @@
 
   <header data-testid="header">
     <h1 id="title" data-testid="title">Voice Lecture v2</h1>
+    <div class="slide-counter" id="slide-counter" data-testid="slide-counter">Bài 1/1</div>
     <div id="progress" data-testid="progress">
       <div id="progress-fill" data-testid="progress-fill"></div>
     </div>
   </header>
 
   <div id="content" data-testid="content"></div>
+
+  <!-- Fixed Bottom Navigation -->
+  <div id="bottom-nav" data-testid="bottom-nav">
+    <div class="nav-inner">
+      <button id="main-nav-btn" data-testid="main-nav-btn" data-ready="false" onclick="window.__voiceLecture?.handleMainNavClick()">
+        Bắt đầu bài học
+      </button>
+    </div>
+  </div>
 
   <!-- NPC System -->
   <div id="npc-overlay" data-testid="npc-overlay" data-active="false"></div>
@@ -449,6 +554,36 @@ function delay(ms) {
   return new Promise(r => setTimeout(r, ms));
 }
 
+// ============ TEACHER SCRIPT INTRO PHRASES ============
+const TS_INTRO_PHRASES = [
+  'Thầy có điều cần nói nè...',
+  'Các em nghe nha...',
+  'Thầy dặn dò nè...',
+  'Chú ý nghe nha...',
+  'Thầy hướng dẫn nè...',
+  'Nghe thầy nói nha...',
+  'Thầy giải thích nè...',
+  'Các em lưu ý nha...',
+  'Thầy nhắc nhở nè...',
+  'Nghe kỹ nha các em...',
+  'Thầy có lời dặn...',
+  'Các em chú ý nè...',
+  'Thầy nói điều này...',
+  'Lắng nghe nha...',
+  'Thầy muốn nói...',
+  'Ghi nhớ nha các em...',
+  'Thầy chia sẻ nè...',
+  'Các em ơi, nghe nè...',
+  'Thầy có tips nè...',
+  'Chú ý điều này nha...',
+];
+
+function getRandomIntro(seed = 0) {
+  // Use seed to get consistent but varied intros
+  const index = seed % TS_INTRO_PHRASES.length;
+  return TS_INTRO_PHRASES[index];
+}
+
 // ============ PARSER ============
 function parseLesson(md) {
   const titleMatch = md.match(/^#\s+(.+)$/m);
@@ -500,36 +635,16 @@ function renderChunks(chunks) {
 
   let html = '';
   chunks.forEach((chunk, i) => {
-    // Check if chunk only contains teacher scripts (no other visible content)
-    const isTsOnlyChunk = isTeacherScriptOnly(chunk.content);
-    const chunkClass = isTsOnlyChunk ? 'chunk ts-only-chunk' : 'chunk';
-
-    html += `<div class="${chunkClass}" id="chunk-${i}" data-testid="chunk-${i}" data-index="${i}" data-status="pending">`;
+    html += `<div class="chunk" id="chunk-${i}" data-testid="chunk-${i}" data-index="${i}" data-status="pending">`;
     if (chunk.title) html += `<div class="chunk-title" data-testid="chunk-title-${i}">${chunk.title}</div>`;
     html += renderContent(chunk.content, i);
-    const btnText = i === 0 ? 'Bắt đầu' : 'Tiếp tục';
-    html += `<div class="chunk-nav" data-testid="chunk-nav-${i}" data-ready="false">
-      <div class="indicator">▼</div>
-      <button class="nav-btn" id="nav-${i}" data-testid="continue-btn-${i}" data-ready="false" onclick="window.__voiceLecture.advanceToNextChunk()">${btnText}</button>
-    </div>`;
     html += `</div>`;
   });
 
   content.innerHTML = html;
-}
 
-// Check if a chunk only contains teacher_script tags (no other meaningful content)
-function isTeacherScriptOnly(content) {
-  // Remove teacher_script tags
-  let stripped = content.replace(/<teacher_script[^>]*>[\s\S]*?<\/teacher_script>/gi, '');
-  // Remove markdown comments
-  stripped = stripped.replace(/<!--[\s\S]*?-->/g, '');
-  // Remove headings (they're just titles)
-  stripped = stripped.replace(/^#{1,3}\s+.+$/gm, '');
-  // Remove whitespace and line breaks
-  stripped = stripped.replace(/\s+/g, '').trim();
-  // If nothing meaningful remains, it's a TS-only chunk
-  return stripped.length === 0;
+  // Update slide counter
+  updateSlideCounter();
 }
 
 let tsCounter = 0;
@@ -551,12 +666,14 @@ function renderContent(md, chunkIndex) {
     return buildVocabHTML(vocabId, words);
   });
 
-  // Teacher Script
+  // Teacher Script - Now visible with intro phrases
   h = h.replace(/<teacher_script([^>]*)>([\s\S]*?)<\/teacher_script>/gi, (_, attrs, text) => {
     const pause = (attrs.match(/pause="(\d+)"/) || [])[1] || '0';
     const href = (attrs.match(/href="([^"]+)"/) || [])[1] || '';
     const action = (attrs.match(/action="(\w+)"/) || [])[1] || '';
-    const id = `ts-${tsCounter++}`;
+    const id = `ts-${tsCounter}`;
+    const introPhrase = getRandomIntro(tsCounter);
+    tsCounter++;
 
     // Strip <eng> and <vn> inline language tags for display
     const displayText = text.trim().replace(/<\/?(?:eng|vn)>/gi, '').replace(/"/g, '&quot;');
@@ -574,7 +691,11 @@ function renderContent(md, chunkIndex) {
       </div>
     ` : '';
 
-    return `<div class="ts" id="${id}" data-testid="ts-${id}" data-text="${displayText}" data-pause="${pause}" data-href="${href}" data-action="${action}" data-played="false"></div>${timerHtml}${actionHtml}`;
+    // Now render visible teacher script with intro and content
+    return `<div class="ts" id="${id}" data-testid="ts-${id}" data-text="${displayText}" data-pause="${pause}" data-href="${href}" data-action="${action}" data-status="pending">
+      <div class="ts-intro">${introPhrase}</div>
+      <div class="ts-content">${displayText}</div>
+    </div>${timerHtml}${actionHtml}`;
   });
 
   // Other tags
@@ -711,6 +832,22 @@ function updateTimerUI(id, remaining) {
 function updateProgress() {
   const pct = ((state.currentChunk + 1) / state.chunks.length) * 100;
   document.getElementById('progress-fill').style.width = pct + '%';
+  updateSlideCounter();
+}
+
+function updateSlideCounter() {
+  const counter = document.getElementById('slide-counter');
+  if (counter && state.chunks.length > 0) {
+    counter.textContent = `Bài ${state.currentChunk + 1}/${state.chunks.length}`;
+  }
+}
+
+function updateMainNavButton(ready, text = null) {
+  const btn = document.getElementById('main-nav-btn');
+  if (btn) {
+    btn.dataset.ready = ready ? 'true' : 'false';
+    if (text) btn.textContent = text;
+  }
 }
 
 function showNPC(text) {
@@ -735,18 +872,26 @@ function activateChunk(index) {
   state.currentChunk = index;
   state.setState('idle');
 
+  // Slide-based: only show active chunk
   document.querySelectorAll('.chunk').forEach((el, i) => {
     el.dataset.status = i < index ? 'completed' : i === index ? 'active' : 'pending';
+    // Reset all teacher scripts in this chunk to pending
+    if (i === index) {
+      el.querySelectorAll('.ts').forEach(ts => {
+        ts.dataset.status = 'pending';
+      });
+    }
   });
+
+  // Disable nav button while chunk is playing
+  updateMainNavButton(false, index === 0 ? 'Đang tải...' : 'Đang học...');
 
   const chunk = document.getElementById(`chunk-${index}`);
   if (chunk) {
-    // Only scroll to visible chunks
-    const isHidden = chunk.classList.contains('ts-only-chunk');
-    if (!isHidden) {
-      chunk.scrollIntoView({ behavior: 'smooth', block: 'center' });
-    }
-    setTimeout(() => playNextTS(), isHidden ? 100 : 500);
+    // Scroll to top of the slide
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+    // Start playing teacher scripts after a short delay
+    setTimeout(() => playNextTS(), 400);
   }
 
   updateProgress();
@@ -760,7 +905,8 @@ function playNextTS() {
     return;
   }
 
-  const nextTS = chunkEl.querySelector('.ts[data-played="false"]');
+  // Find next teacher script that hasn't been played
+  const nextTS = chunkEl.querySelector('.ts[data-status="pending"]');
   if (nextTS) {
     playTS(nextTS);
   } else {
@@ -773,7 +919,12 @@ function playTS(el) {
 
   state.setState('npc_speaking');
   state.currentTSId = el.id;
-  el.dataset.played = 'true';
+
+  // Set status to speaking (highlight)
+  el.dataset.status = 'speaking';
+
+  // Scroll the TS into view nicely
+  el.scrollIntoView({ behavior: 'smooth', block: 'center' });
 
   const text = el.dataset.text;
   const pause = parseInt(el.dataset.pause) || 0;
@@ -783,6 +934,10 @@ function playTS(el) {
 
   const onEnd = () => {
     document.getElementById('npc-avatar').dataset.speaking = 'false';
+
+    // Mark as played (grayed out)
+    el.dataset.status = 'played';
+
     eventBus.emit('ts:end', { id: el.id });
 
     if (pause > 0) {
@@ -818,8 +973,8 @@ function afterSpeaking(tsEl) {
     eventBus.emit('vocab:ready', { id: next.element.id });
     // Wait for user to click start
   } else if (next.type === 'content') {
-    next.element.scrollIntoView({ behavior: 'smooth', block: 'center' });
-    setTimeout(() => continueAfterContent(next.element), 1500);
+    // In slide mode, content is already visible, just continue
+    setTimeout(() => continueAfterContent(next.element), 500);
   } else {
     unlockChunkNav();
   }
@@ -833,8 +988,8 @@ function continueAfterContent(el) {
   const next = findNextElement(el);
 
   if (next.type === 'content') {
-    next.element.scrollIntoView({ behavior: 'smooth', block: 'center' });
-    setTimeout(() => continueAfterContent(next.element), 1500);
+    // In slide mode, just continue to next content
+    setTimeout(() => continueAfterContent(next.element), 300);
   } else if (next.type === 'ts') {
     setTimeout(() => playTS(next.element), 300);
   } else if (next.type === 'vocab') {
@@ -852,9 +1007,10 @@ function findNextElement(current) {
     if (!el) return false;
     if (el.classList.contains('timer')) return true;
     if (el.classList.contains('action-row')) return true;
-    if (el.classList.contains('chunk-nav')) return false;
+    if (el.classList.contains('chunk-nav')) return true; // Skip old chunk-nav
     if (el.classList.contains('vocab-interactive') && el.dataset.status === 'complete') return true;
     if (el.tagName === 'HR') return true;
+    if (el.tagName === 'BR') return true;
     return false;
   };
 
@@ -867,7 +1023,6 @@ function findNextElement(current) {
   let type = 'content';
   if (next.classList.contains('ts')) type = 'ts';
   else if (next.classList.contains('vocab-interactive')) type = 'vocab';
-  else if (next.classList.contains('chunk-nav')) type = 'nav';
 
   return { element: next, type };
 }
@@ -875,19 +1030,12 @@ function findNextElement(current) {
 function unlockChunkNav() {
   state.setState('chunk_done');
 
-  const chunkEl = document.getElementById(`chunk-${state.currentChunk}`);
-  const nav = document.querySelector(`#chunk-${state.currentChunk} .chunk-nav`);
-  const btn = document.getElementById(`nav-${state.currentChunk}`);
-
-  if (nav) nav.dataset.ready = 'true';
-  if (btn) btn.dataset.ready = 'true';
-
   eventBus.emit('chunk:complete', { index: state.currentChunk });
 
-  // Auto-advance for hidden (teacher-script-only) chunks
-  if (chunkEl && chunkEl.classList.contains('ts-only-chunk')) {
-    setTimeout(() => advanceToNextChunk(), 300);
-  }
+  // Enable the fixed bottom navigation button
+  const isLastChunk = state.currentChunk >= state.chunks.length - 1;
+  const btnText = isLastChunk ? 'Hoàn thành bài học 🎉' : 'Tiếp tục →';
+  updateMainNavButton(true, btnText);
 }
 
 function advanceToNextChunk() {
@@ -902,15 +1050,44 @@ function advanceToNextChunk() {
   }
 }
 
+function handleMainNavClick() {
+  const btn = document.getElementById('main-nav-btn');
+  if (btn?.dataset.ready !== 'true') return;
+
+  // If lesson not started yet (first chunk, state is idle before first TS)
+  if (state.currentChunk === 0 && state.getState() === 'idle' && !state.currentTSId) {
+    // Start the lesson - begin playing teacher scripts
+    updateMainNavButton(false, 'Đang học...');
+    state.setState('idle');
+    setTimeout(() => playNextTS(), 300);
+    return;
+  }
+
+  // Otherwise advance to next chunk
+  advanceToNextChunk();
+}
+
 function showComplete() {
   state.setState('complete');
+
+  // Hide all chunks and show complete box
+  document.querySelectorAll('.chunk').forEach(el => {
+    el.dataset.status = 'completed';
+  });
+
   document.getElementById('content').innerHTML += `
-    <div class="complete-box" data-testid="lesson-complete">
-      <div class="complete-icon">🎉</div>
-      <h2>Hoàn thành bài học!</h2>
-      <p>Giỏi lắm! Về nhà ôn lại từ vựng nha.</p>
+    <div class="chunk complete-slide" data-status="active">
+      <div class="complete-box" data-testid="lesson-complete">
+        <div class="complete-icon">🎉</div>
+        <h2>Hoàn thành bài học!</h2>
+        <p>Giỏi lắm! Về nhà ôn lại từ vựng nha.</p>
+      </div>
     </div>`;
-  document.querySelector('.complete-box').scrollIntoView({ behavior: 'smooth' });
+
+  // Hide the bottom nav button
+  updateMainNavButton(false, 'Đã hoàn thành');
+
+  window.scrollTo({ top: 0, behavior: 'smooth' });
   eventBus.emit('lesson:complete', {});
 }
 
@@ -1213,6 +1390,7 @@ async function finishVocab(id) {
 async function load() {
   if (!CONFIG.contentUrl) {
     document.getElementById('content').innerHTML = '<div class="card">No content URL provided. Use ?c=URL</div>';
+    updateMainNavButton(false, 'Không có nội dung');
     return;
   }
 
@@ -1229,9 +1407,17 @@ async function load() {
 
     eventBus.emit('lesson:load', { title: lesson.title, chunks: lesson.chunks.length });
 
-    setTimeout(() => activateChunk(0), 500);
+    // Show first chunk but don't auto-play - wait for user to click "Bắt đầu bài học"
+    document.querySelectorAll('.chunk').forEach((el, i) => {
+      el.dataset.status = i === 0 ? 'active' : 'pending';
+    });
+
+    // Enable the "Bắt đầu bài học" button
+    updateMainNavButton(true, 'Bắt đầu bài học');
+
   } catch (e) {
     document.getElementById('content').innerHTML = `<div class="card" style="color:#ef4444">Error: ${e.message}</div>`;
+    updateMainNavButton(false, 'Lỗi tải nội dung');
   }
 }
 
@@ -1246,6 +1432,7 @@ window.__voiceLecture = {
   // Controls
   activateChunk,
   advanceToNextChunk,
+  handleMainNavClick,
   skipTimer: (id) => timerService.skip(id),
   setTimerScale: (scale) => timerService.setTimeScale(scale),
 
