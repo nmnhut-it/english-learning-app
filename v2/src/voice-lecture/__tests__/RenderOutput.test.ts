@@ -65,28 +65,40 @@ function renderFullHtml(content: string): string {
   let html = content;
 
   // First render markdown OUTSIDE custom tags
-  // We do this by temporarily replacing custom tags with placeholders
+  // We use HTML comment syntax for placeholders so they start with <
+  // and won't be wrapped in <p> tags by renderMarkdown
   const tagPlaceholders: Map<string, string> = new Map();
   let placeholderIndex = 0;
 
   for (const tag of CUSTOM_TAGS) {
     const regex = new RegExp(`<${tag}([^>]*)>([\\s\\S]*?)<\\/${tag}>`, 'g');
     html = html.replace(regex, (match, attrs, inner) => {
-      const placeholder = `__TAG_PLACEHOLDER_${placeholderIndex++}__`;
-      // Render the tag content and store it
+      // Use HTML comment format so it starts with < and won't be wrapped in <p>
+      const placeholder = `<!--TAG_PH_${placeholderIndex++}-->`;
       tagPlaceholders.set(placeholder, renderTag(tag, inner, attrs));
       return placeholder;
     });
   }
 
-  // Process chunk comments
-  html = html.replace(/<!--\s*chunk:\s*(\w+)\s*-->/g, '<div class="chunk-marker" data-chunk="$1">chunk: $1</div>');
+  // Process chunk comments - convert to HTML-like placeholder first
+  const chunkPlaceholders: Map<string, string> = new Map();
+  let chunkIndex = 0;
+  html = html.replace(/<!--\s*chunk:\s*(\w+)\s*-->/g, (match, chunkId) => {
+    const placeholder = `<!--CHUNK_PH_${chunkIndex++}-->`;
+    chunkPlaceholders.set(placeholder, `<div class="chunk-marker" data-chunk="${chunkId}">chunk: ${chunkId}</div>`);
+    return placeholder;
+  });
 
   // Render markdown on content OUTSIDE tags
   html = renderMarkdown(html);
 
   // Restore tag placeholders
   for (const [placeholder, rendered] of tagPlaceholders) {
+    html = html.replace(placeholder, rendered);
+  }
+
+  // Restore chunk placeholders
+  for (const [placeholder, rendered] of chunkPlaceholders) {
     html = html.replace(placeholder, rendered);
   }
 
