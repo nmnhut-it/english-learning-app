@@ -71,6 +71,8 @@ export {
   parseTitle,
   renderMarkdown,
   renderTables,
+  renderFullContent,
+  CUSTOM_TAGS,
   extractVocabularySections,
   extractTeacherScripts,
   validateLesson,

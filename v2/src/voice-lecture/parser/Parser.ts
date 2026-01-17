@@ -233,6 +233,81 @@ export function renderTables(markdown: string): string {
 }
 
 /**
+ * List of custom tags that need special handling
+ */
+export const CUSTOM_TAGS = [
+  'vocabulary', 'teacher_script', 'dialogue', 'reading', 'translation',
+  'grammar', 'task', 'questions', 'answer', 'explanation',
+  'pronunciation_theory', 'audio', 'content_table',
+];
+
+/**
+ * Render full content with custom tags
+ *
+ * This function properly handles custom tags by:
+ * 1. Replacing them with HTML comment placeholders (starts with <)
+ * 2. Rendering markdown on the remaining content
+ * 3. Restoring the placeholders
+ *
+ * This prevents the <p><div> nesting issue where renderMarkdown would
+ * wrap custom tag content in <p> tags.
+ *
+ * @param content - Raw markdown content with custom tags
+ * @param tagRenderer - Function to render each custom tag
+ * @returns Rendered HTML string
+ */
+export function renderFullContent(
+  content: string,
+  tagRenderer?: (tag: string, inner: string, attrs: string) => string
+): string {
+  let html = content;
+
+  // Default tag renderer just wraps in a div
+  const defaultTagRenderer = (tag: string, inner: string, attrs: string) => {
+    const tagClass = tag.replace(/_/g, '-');
+    return `<div class="${tagClass}"${attrs}>\n${renderMarkdown(inner)}\n</div>`;
+  };
+
+  const render = tagRenderer || defaultTagRenderer;
+
+  // Replace custom tags with HTML comment placeholders
+  // HTML comments start with < so renderMarkdown won't wrap them in <p>
+  const tagPlaceholders: Map<string, string> = new Map();
+  let placeholderIndex = 0;
+
+  for (const tag of CUSTOM_TAGS) {
+    const regex = new RegExp(`<${tag}([^>]*)>([\\s\\S]*?)<\\/${tag}>`, 'g');
+    html = html.replace(regex, (match, attrs, inner) => {
+      const placeholder = `<!--TAG_PH_${placeholderIndex++}-->`;
+      tagPlaceholders.set(placeholder, render(tag, inner, attrs || ''));
+      return placeholder;
+    });
+  }
+
+  // Process chunk comments
+  const chunkPlaceholders: Map<string, string> = new Map();
+  let chunkIndex = 0;
+  html = html.replace(/<!--\s*chunk:\s*(\w+)\s*-->/g, (match, chunkId) => {
+    const placeholder = `<!--CHUNK_PH_${chunkIndex++}-->`;
+    chunkPlaceholders.set(placeholder, `<div class="chunk-marker" data-chunk="${chunkId}">chunk: ${chunkId}</div>`);
+    return placeholder;
+  });
+
+  // Render markdown on content outside tags
+  html = renderMarkdown(html);
+
+  // Restore placeholders
+  for (const [placeholder, rendered] of tagPlaceholders) {
+    html = html.replace(placeholder, rendered);
+  }
+  for (const [placeholder, rendered] of chunkPlaceholders) {
+    html = html.replace(placeholder, rendered);
+  }
+
+  return html;
+}
+
+/**
  * Extract all vocabulary sections from content
  */
 export function extractVocabularySections(
