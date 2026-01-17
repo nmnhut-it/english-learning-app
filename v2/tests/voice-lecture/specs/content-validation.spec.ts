@@ -1,6 +1,11 @@
 import { test, expect, Page } from '@playwright/test';
 import * as fs from 'fs';
 import * as path from 'path';
+import { fileURLToPath } from 'url';
+
+// ESM compatibility
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 /**
  * Content Validation Tests
@@ -40,6 +45,13 @@ function getLessonFiles(): string[] {
 
 const lessonFiles = getLessonFiles();
 
+// Generate unique test name from file path (e.g., "g6/unit-07/getting-started.md")
+function getTestName(filePath: string): string {
+  const parts = filePath.split('/');
+  // Get the last 3 parts: grade/unit/file
+  return parts.slice(-3).join('/');
+}
+
 // Generate tests for each file
 test.describe('Content Validation', () => {
   // Skip if no files found
@@ -48,10 +60,9 @@ test.describe('Content Validation', () => {
   }
 
   for (const filePath of lessonFiles) {
-    const fileName = path.basename(filePath);
-    const dirName = path.basename(path.dirname(filePath));
+    const testName = getTestName(filePath);
 
-    test(`${dirName}/${fileName} - loads without errors`, async ({ page }) => {
+    test(`${testName} - loads without errors`, async ({ page }) => {
       const errors: string[] = [];
 
       // Capture console errors
@@ -88,7 +99,7 @@ test.describe('Content Validation', () => {
       expect(criticalErrors).toEqual([]);
     });
 
-    test(`${dirName}/${fileName} - has valid structure`, async ({ page }) => {
+    test(`${testName} - has valid structure`, async ({ page }) => {
       const encodedPath = Buffer.from(filePath).toString('base64');
       await page.goto(`/voice-lecture-viewer-v2.html?test=true&speed=instant&c=${encodedPath}`);
 
@@ -107,7 +118,7 @@ test.describe('Content Validation', () => {
       }
     });
 
-    test(`${dirName}/${fileName} - can navigate through chunks`, async ({ page }) => {
+    test(`${testName} - can navigate through chunks`, async ({ page }) => {
       const encodedPath = Buffer.from(filePath).toString('base64');
       await page.goto(`/voice-lecture-viewer-v2.html?test=true&speed=instant&c=${encodedPath}`);
 
@@ -140,10 +151,9 @@ test.describe('Content Validation', () => {
 
 test.describe('Vocabulary Content Validation', () => {
   for (const filePath of lessonFiles) {
-    const fileName = path.basename(filePath);
-    const dirName = path.basename(path.dirname(filePath));
+    const testName = getTestName(filePath);
 
-    test(`${dirName}/${fileName} - vocabulary sections parse correctly`, async ({ page }) => {
+    test(`${testName} - vocabulary sections parse correctly`, async ({ page }) => {
       const encodedPath = Buffer.from(filePath).toString('base64');
       await page.goto(`/voice-lecture-viewer-v2.html?test=true&speed=instant&c=${encodedPath}`);
 
@@ -177,7 +187,8 @@ test.describe('Critical Lessons', () => {
   ];
 
   for (const lessonPath of criticalLessons) {
-    const shortName = lessonPath.split('/').slice(-2).join('/');
+    // Use last 3 parts for unique test name
+    const shortName = lessonPath.split('/').slice(-3).join('/');
 
     test(`${shortName} - full navigation test`, async ({ page }) => {
       // Check if file exists first
