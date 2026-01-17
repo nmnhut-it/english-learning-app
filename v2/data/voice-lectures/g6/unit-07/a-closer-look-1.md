@@ -286,15 +286,14 @@ Hai âm này tiếng Việt không có, nên nhiều bạn hay đọc sai. Cần
 ## Âm /θ/ và /ð/ - Cách phát âm
 
 ### Vị trí miệng và lưỡi
-```
-     Răng trên
-        ↓
-    ════════════
-       ↑ đầu lưỡi đặt giữa 2 hàm răng
-    ════════════
-        ↑
-     Răng dưới
-```
+
+**Cách đặt lưỡi:** Đưa đầu lưỡi ra giữa 2 hàm răng (hơi thò ra ngoài một chút)
+
+| Vị trí | Mô tả |
+|--------|-------|
+| Răng trên | Chạm nhẹ mặt trên đầu lưỡi |
+| Đầu lưỡi | Đặt giữa 2 hàm răng |
+| Răng dưới | Chạm nhẹ mặt dưới đầu lưỡi |
 
 ### Bước thực hiện:
 1. **Đặt lưỡi**: Đưa đầu lưỡi ra giữa 2 hàm răng (hơi thò ra ngoài)
