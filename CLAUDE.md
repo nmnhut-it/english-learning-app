@@ -953,48 +953,75 @@ Script content
 
 ---
 
-### 6.1 LANGUAGE SEPARATION (QUAN TRỌNG)
+### 6.1 INLINE LANGUAGE TAGS (QUAN TRỌNG)
 
-**Problem:** Mixed language scripts sound unnatural when TTS switches mid-sentence.
+**Problem:** Need TTS to switch between English and Vietnamese within the same sentence naturally.
 
-**Solution:** Split scripts by language. One script = one language only.
+**Solution:** Use inline `<eng>` and `<vn>` tags to mark language segments. TTS will use appropriate voice for each segment.
 
 ```markdown
-<!-- ❌ SAI: Mixed language -->
+<!-- ✅ ĐÚNG: Inline tags for mixed language -->
 <teacher_script pause="0">
-Bài 1 Listen and Read, đọc hội thoại và dịch vô vở nha.
+<eng>Click</eng> vào nút bắt đầu nha.
 </teacher_script>
 
-<!-- ✅ ĐÚNG: Split by language -->
-<teacher_script pause="0" lang="en">
-Exercise 1. Listen and Read.
+<!-- TTS sẽ đọc: "Click" (English voice) + "vào nút bắt đầu nha" (Vietnamese voice) -->
+```
+
+**Inline Tags:**
+| Tag | Language | Example |
+|-----|----------|---------|
+| `<eng>...</eng>` | English | `<eng>Listen and read</eng>` |
+| `<vn>...</vn>` | Vietnamese | `<vn>Nghe và đọc</vn>` |
+
+**Default language:** Vietnamese (text without tags = Vietnamese)
+
+**Examples:**
+
+```markdown
+<!-- Exercise instruction with English title -->
+<teacher_script pause="60">
+Bài 1 <eng>Listen and read</eng> nha. Đọc hội thoại và dịch vô vở. 3 phút hen.
 </teacher_script>
 
-<teacher_script pause="0" lang="vi">
-Đọc hội thoại rồi dịch vô vở nha.
+<!-- Reading English words/phrases in Vietnamese explanation -->
+<teacher_script pause="0">
+Từ <eng>wonderful</eng> nghĩa là tuyệt vời. <eng>Educational</eng> là mang tính giáo dục.
+</teacher_script>
+
+<!-- Answer explanation with English quotes -->
+<teacher_script pause="0">
+Câu 1 là C. Phong nói <eng>I like animated films</eng> chứ không phải cartoons.
+</teacher_script>
+
+<!-- Full English sentence in context -->
+<teacher_script pause="0">
+Ví dụ nha: <eng>What's your favourite TV programme?</eng> - Chương trình TV yêu thích của bạn là gì?
 </teacher_script>
 ```
 
-**When to use English scripts:**
-- Reading exercise instructions aloud: "Listen and repeat"
-- Reading English example sentences
-- Pronunciation demonstrations
+**When to use `<eng>` tags:**
+- English words/phrases in Vietnamese sentences
+- Exercise titles: `<eng>Listen and read</eng>`
+- English quotes from dialogue/reading
+- Vocabulary words: `<eng>wonderful</eng>`
+- Example sentences being taught
 
-**When to use Vietnamese scripts:**
-- Explaining what to do
-- Giving time instructions
-- Answering/explaining in Vietnamese
-- Jokes, encouragement, transitions
+**When NOT to use tags (default Vietnamese):**
+- Pure Vietnamese explanations
+- Time instructions: "3 phút nha"
+- Encouragement: "Bài này dễ mà"
+- Transitions: "Ok qua bài sau"
 
-**Pattern: English instruction + Vietnamese explanation**
-```markdown
-<teacher_script pause="0" lang="en">
-Exercise 2. Choose the correct answer A, B, or C.
-</teacher_script>
-
-<teacher_script pause="60" lang="vi">
-Chọn đáp án đúng. 1 phút nha.
-</teacher_script>
+**Parser Output:**
+The parser converts inline tags to segments array for TTS:
+```typescript
+// Input: "<eng>Click</eng> vào nút bắt đầu nha"
+// Output segments:
+[
+  { text: "Click", lang: "en" },
+  { text: "vào nút bắt đầu nha", lang: "vi" }
+]
 ```
 
 ---

@@ -3,16 +3,16 @@
 ## GETTING STARTED - What's on today?
 
 <!-- chunk: vocabulary -->
-<teacher_script pause="0" lang="vi">
-Chào mấy đứa. Hôm nay thầy kẹt lịch nên không dạy ở nhà được. Đây là bài đầu tiên, Unit 7 - Television. Coi TV thì ai cũng thích rồi, unit này vui lắm.
+<teacher_script pause="0">
+Chào mấy đứa. Hôm nay thầy kẹt lịch nên không dạy ở nhà được. Đây là bài đầu tiên, Unit 7 - <eng>Television</eng>. Coi TV thì ai cũng thích rồi, unit này vui lắm.
 </teacher_script>
 
-<teacher_script pause="0" lang="vi">
+<teacher_script pause="0">
 Các em có thể học bài này nhiều lần để nhớ lâu hơn hen.
 </teacher_script>
 
-<teacher_script pause="0" lang="vi">
-Các em mở sách ra, Unit 7, bài Getting Started, ghi tựa bài. Sau đó bấm nút "Bắt đầu" bên dưới để học từ vựng. Máy sẽ đọc và các em đọc theo. Sau đó các em làm bài trắc nghiệm từ vựng rồi ghi từ vựng vô tập.
+<teacher_script pause="0">
+Các em mở sách ra, Unit 7, bài <eng>Getting Started</eng>, ghi tựa bài. Sau đó bấm nút "Bắt đầu" bên dưới để học từ vựng. Máy sẽ đọc và các em đọc theo. Sau đó các em làm bài trắc nghiệm từ vựng rồi ghi từ vựng vô tập.
 </teacher_script>
 
 <vocabulary>
@@ -37,12 +37,8 @@ Các em mở sách ra, Unit 7, bài Getting Started, ghi tựa bài. Sau đó b�
 <!-- chunk: exercise_1 -->
 ### Bài 1 trang 6 - Listen and read
 
-<teacher_script pause="0" lang="en">
-Exercise 1. Listen and read.
-</teacher_script>
-
-<teacher_script pause="180" lang="vi">
-Đây là hội thoại Phong với Hùng nói về các chương trình TV. Đọc hội thoại và dịch vô tập. 3 phút hen.
+<teacher_script pause="180">
+Bài 1 <eng>Listen and read</eng> nha. Đây là hội thoại Phong với Hùng nói về các chương trình TV. Đọc hội thoại và dịch vô tập. 3 phút hen.
 </teacher_script>
 
 <dialogue>
@@ -64,7 +60,7 @@ Exercise 1. Listen and read.
 ---
 
 <!-- chunk: translation -->
-<teacher_script pause="0" lang="vi">
+<teacher_script pause="0">
 Ok đây là bản dịch. So sánh với bài dịch của mình nha.
 </teacher_script>
 
@@ -83,7 +79,7 @@ Ok đây là bản dịch. So sánh với bài dịch của mình nha.
 **Hùng:** Nghe hay đấy. Tôi cũng sẽ xem.
 </translation>
 
-<teacher_script pause="0" lang="vi">
+<teacher_script pause="0">
 Mấy đứa sửa bài dịch nếu sai. Sau đó qua bài tiếp theo.
 </teacher_script>
 
@@ -92,12 +88,8 @@ Mấy đứa sửa bài dịch nếu sai. Sau đó qua bài tiếp theo.
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 7 - Choose the correct answer
 
-<teacher_script pause="0" lang="en">
-Exercise 2. Choose the correct answer A, B, or C.
-</teacher_script>
-
-<teacher_script pause="60" lang="vi">
-Đọc lại hội thoại, chọn đáp án đúng. 1 phút nha. Bài này dễ mà, ai sai là đang ngủ gục đó.
+<teacher_script pause="60">
+Bài 2 <eng>Choose the correct answer A, B, or C</eng>. Đọc lại hội thoại, chọn đáp án đúng. 1 phút nha. Bài này dễ mà, ai sai là đang ngủ gục đó.
 </teacher_script>
 
 <questions type="multiple_choice">
@@ -133,7 +125,7 @@ Exercise 2. Choose the correct answer A, B, or C.
 ---
 
 <!-- chunk: answer_2 -->
-<teacher_script pause="0" lang="vi">
+<teacher_script pause="0">
 Ok đáp án nè. Các em đọc lại đáp án và phần giải thích chi tiết bên dưới.
 </teacher_script>
 
@@ -146,26 +138,26 @@ Ok đáp án nè. Các em đọc lại đáp án và phần giải thích chi ti
 
 **Câu 1: C** - Tụi nó nói về nhiều chương trình khác nhau (Voice Kids, Lion King, Tom & Jerry, English in a Minute), không phải chỉ 1 chương trình.
 
-**Câu 2: A** - Phong nói "I like **animated films** like The Lion King".
-- Chú ý: **animated film** (phim hoạt hình dài) khác **cartoon** (hoạt hình ngắn) nha.
+**Câu 2: A** - Phong nói <eng>I like animated films like The Lion King</eng>.
+- Chú ý: <eng>animated film</eng> (phim hoạt hình dài) khác <eng>cartoon</eng> (hoạt hình ngắn) nha.
 
-**Câu 3: A** - "**watch TV**" là cụm cố định.
-- Không ai nói "see TV" hay "look TV".
-- watch = xem (có chủ đích)
+**Câu 3: A** - <eng>watch TV</eng> là cụm cố định.
+- Không ai nói <eng>see TV</eng> hay <eng>look TV</eng>.
+- <eng>watch</eng> = xem (có chủ đích)
 
-**Câu 4: A** - Chương trình dạy học thì gọi là "**educational**" (mang tính giáo dục).
-- Phong nói "This channel has many educational programmes".
+**Câu 4: A** - Chương trình dạy học thì gọi là <eng>educational</eng> (mang tính giáo dục).
+- Phong nói <eng>This channel has many educational programmes</eng>.
 </explanation>
 
-<teacher_script pause="0" lang="vi">
-Ai chọn câu 1 là A thì bị lừa rồi đó. Đề hỏi "talking about" chứ không phải "watching". Tụi nó nói về nhiều chương trình khác nhau, không phải chỉ Voice Kids thôi.
+<teacher_script pause="0">
+Ai chọn câu 1 là A thì bị lừa rồi đó. Đề hỏi <eng>talking about</eng> chứ không phải <eng>watching</eng>. Tụi nó nói về nhiều chương trình khác nhau, không phải chỉ <eng>Voice Kids</eng> thôi.
 </teacher_script>
 
-<teacher_script pause="30" lang="vi">
+<teacher_script pause="30">
 Các em sửa bài nếu có sai. Nếu cần hỏi thầy cái gì thì nhấn nút micro bên dưới để thu âm hen, nhớ để lại nick zalo hoặc số điện thoại để thầy nhắn tin trả lời.
 </teacher_script>
 
-<teacher_script pause="0" lang="vi" action="record">
+<teacher_script pause="0" action="record">
 </teacher_script>
 
 ---
@@ -173,12 +165,8 @@ Các em sửa bài nếu có sai. Nếu cần hỏi thầy cái gì thì nhấn 
 <!-- chunk: exercise_3 -->
 ### Bài 3 trang 7 - Match
 
-<teacher_script pause="0" lang="en">
-Exercise 3. Match.
-</teacher_script>
-
-<teacher_script pause="45" lang="vi">
-Nối tên chương trình ở cột A với loại chương trình ở cột B. 45 giây nha. Làm bài không cần dịch vào tập.
+<teacher_script pause="45">
+Bài 3 <eng>Match</eng>. Nối tên chương trình ở cột A với loại chương trình ở cột B. 45 giây nha. Làm bài không cần dịch vào tập.
 </teacher_script>
 
 <questions type="matching">
@@ -194,7 +182,7 @@ Nối tên chương trình ở cột A với loại chương trình ở cột B.
 ---
 
 <!-- chunk: answer_3 -->
-<teacher_script pause="0" lang="vi">
+<teacher_script pause="0">
 Thầy sửa đáp án nha. Các em kiểm tra lại.
 </teacher_script>
 
@@ -218,18 +206,18 @@ Thầy sửa đáp án nha. Các em kiểm tra lại.
 - **Cartoon**: hoạt hình NGẮN, từng tập (Tom & Jerry, SpongeBob...)
 </explanation>
 
-<teacher_script pause="0" lang="vi">
-Ai nhầm Lion King với cartoon là chưa hiểu sự khác biệt đó nha. Lion King là phim dài có cốt truyện, còn Tom & Jerry là phim ngắn từng tập.
+<teacher_script pause="0">
+Ai nhầm <eng>Lion King</eng> với <eng>cartoon</eng> là chưa hiểu sự khác biệt đó nha. <eng>Lion King</eng> là phim dài có cốt truyện, còn <eng>Tom and Jerry</eng> là phim ngắn từng tập.
 </teacher_script>
 
-<teacher_script pause="0" lang="vi">
+<teacher_script pause="0">
 Nếu cần hỏi thì nhấn thu âm bên dưới nha.
 </teacher_script>
 
-<teacher_script pause="0" lang="vi" action="record">
+<teacher_script pause="0" action="record">
 </teacher_script>
 
-<teacher_script pause="30" lang="vi">
+<teacher_script pause="30">
 Sửa bài nếu sai. 30 giây nha.
 </teacher_script>
 
@@ -238,12 +226,8 @@ Sửa bài nếu sai. 30 giây nha.
 <!-- chunk: exercise_4 -->
 ### Bài 4 trang 7 - Find adjectives
 
-<teacher_script pause="0" lang="en">
-Exercise 4. Find the adjectives in the conversation that describe the programmes and characters.
-</teacher_script>
-
-<teacher_script pause="30" lang="vi">
-Tìm tính từ trong hội thoại mô tả các chương trình và nhân vật. Tính từ là từ chỉ tính chất như "interesting", "wonderful" đó. 30 giây nha.
+<teacher_script pause="30">
+Bài 4 <eng>Find the adjectives</eng>. Tìm tính từ trong hội thoại mô tả các chương trình và nhân vật. Tính từ là từ chỉ tính chất như <eng>interesting</eng>, <eng>wonderful</eng> đó. 30 giây nha.
 </teacher_script>
 
 <questions type="find_words">
@@ -256,7 +240,7 @@ Tìm tính từ trong hội thoại mô tả các chương trình và nhân vậ
 ---
 
 <!-- chunk: answer_4 -->
-<teacher_script pause="0" lang="vi">
+<teacher_script pause="0">
 Ok đáp án và giải thích nè.
 </teacher_script>
 
@@ -281,11 +265,11 @@ Ok đáp án và giải thích nè.
 **Lưu ý:** Tính từ đứng trước danh từ hoặc sau động từ "be" (is, are, am).
 </explanation>
 
-<teacher_script pause="0" lang="vi">
-Mẹo tìm tính từ nè: tìm các từ đứng trước danh từ hoặc đứng sau "is", "are". Ví dụ "is very interesting" thì "interesting" là tính từ.
+<teacher_script pause="0">
+Mẹo tìm tính từ nè: tìm các từ đứng trước danh từ hoặc đứng sau <eng>is</eng>, <eng>are</eng>. Ví dụ <eng>is very interesting</eng> thì <eng>interesting</eng> là tính từ.
 </teacher_script>
 
-<teacher_script pause="30" lang="vi">
+<teacher_script pause="30">
 Sửa bài nếu sai. 30 giây nha.
 </teacher_script>
 
@@ -294,12 +278,8 @@ Sửa bài nếu sai. 30 giây nha.
 <!-- chunk: exercise_5 -->
 ### Bài 5 trang 7 - Work in groups
 
-<teacher_script pause="0" lang="en">
-Exercise 5. Work in groups. Interview your partners about their favourite TV programmes.
-</teacher_script>
-
-<teacher_script pause="0" lang="vi">
-Đây là bài Speaking. Phỏng vấn bạn về chương trình TV yêu thích. Bài này vui nha, nói về TV mà ai chẳng thích.
+<teacher_script pause="0">
+Bài 5 <eng>Work in groups</eng>. Đây là bài <eng>Speaking</eng>. Phỏng vấn bạn về chương trình TV yêu thích. Bài này vui nha, nói về TV mà ai chẳng thích.
 </teacher_script>
 
 <questions type="speaking">
@@ -330,13 +310,13 @@ Exercise 5. Work in groups. Interview your partners about their favourite TV pro
 | He watches them every afternoon. | Bạn ấy xem vào mỗi buổi chiều. |
 </questions>
 
-<teacher_script pause="0" lang="vi">
+<teacher_script pause="0">
 Đây là bài tập nói, nên các em sẽ ghi âm bên dưới cho thầy. Thầy sẽ nghe và sửa lại cho các em. Các em có thể nói theo mẫu hoặc sáng tạo, miễn là đúng ý nghĩa và ngữ pháp.
 </teacher_script>
 
-<teacher_script pause="0" lang="vi">
+<teacher_script pause="0">
 Nói về chương trình TV mình thích nha. Đừng ngại, thầy không chấm điểm đâu, chỉ sửa phát âm thôi.
 </teacher_script>
 
-<teacher_script pause="0" lang="vi" action="record">
+<teacher_script pause="0" action="record">
 </teacher_script>
