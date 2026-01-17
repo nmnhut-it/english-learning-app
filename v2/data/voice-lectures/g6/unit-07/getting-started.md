@@ -2,7 +2,7 @@
 
 ## GETTING STARTED - What's on today?
 
-<!-- chunk: vocabulary -->
+<!-- chunk: intro -->
 <teacher_script pause="0">
 Chào mấy đứa. Hôm nay thầy kẹt lịch nên không dạy ở nhà được. Đây là bài đầu tiên, Unit 7 - <eng>Television</eng>. Coi TV thì ai cũng thích rồi, unit này vui lắm.
 </teacher_script>
@@ -15,6 +15,9 @@ Các em có thể học bài này nhiều lần để nhớ lâu hơn hen.
 Các em mở sách ra, Unit 7, bài <eng>Getting Started</eng>, ghi tựa bài. Sau đó bấm nút "Bắt đầu" bên dưới để học từ vựng. Máy sẽ đọc và các em đọc theo. Sau đó các em làm bài trắc nghiệm từ vựng rồi ghi từ vựng vô tập.
 </teacher_script>
 
+---
+
+<!-- chunk: vocabulary -->
 <vocabulary>
 1. **The Voice Kids** : Giọng hát Việt nhí
 2. **talent show** : (n) chương trình tài năng /ˈtælənt ʃəʊ/
