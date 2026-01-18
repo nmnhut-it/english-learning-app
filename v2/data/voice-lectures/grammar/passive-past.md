@@ -1,7 +1,7 @@
 # GRAMMAR: PASSIVE VOICE - CÂU BỊ ĐỘNG (QUÁ KHỨ ĐƠN)
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_57b04aee.mp3">
 Hôm nay mình học tiếp về câu bị động nha, nhưng là ở thì QUÁ KHỨ ĐƠN. Khi nói về phát minh, khám phá trong lịch sử, mình hay dùng câu bị động quá khứ. Ví dụ: Điện thoại được phát minh năm 1876. The telephone was invented in 1876. Bắt đầu thôi nha!
 </teacher_script>
 
@@ -20,7 +20,7 @@ Khi nói về phát minh, khám phá, chúng ta thường quan tâm đến **CÁ
   *(Nhấn mạnh điện thoại)*
 </grammar>
 
-<teacher_script pause="90">
+<teacher_script pause="90" href="audio/tts_fc088e69.mp3">
 Ôn lại nha. Câu bị động là câu mà chủ ngữ ĐƯỢC làm, BỊ làm, không phải tự làm. Khi nói về lịch sử, phát minh, mình thường dùng bị động vì mình quan tâm CÁI GÌ được phát minh, không phải AI phát minh.
 
 Ví dụ: The telephone WAS INVENTED in 1876. Điện thoại được phát minh năm 1876. Mình quan tâm điện thoại, không quan tâm Bell.
@@ -41,7 +41,7 @@ Ví dụ: The telephone WAS INVENTED in 1876. Điện thoại được phát min
 | **Câu hỏi (?)** | Was/Were + S + V3? | **Was** television **invented** in 1927? *(TV có được phát minh năm 1927 không?)* |
 </grammar>
 
-<teacher_script pause="150">
+<teacher_script pause="150" href="audio/tts_8e26d1f9.mp3">
 Giờ học cấu trúc nha. Công thức là: S + was/were + V3. Khác với hiện tại đơn dùng am/is/are, quá khứ đơn dùng WAS hoặc WERE.
 
 Khẳng định: The car WAS MADE in Germany. Xe được làm ở Đức.
@@ -67,7 +67,7 @@ Ghi công thức vô tập: S + was/were + V3 nha!
 **Mẹo:** Số ít → was | Số nhiều → were
 </grammar>
 
-<teacher_script pause="120">
+<teacher_script pause="120" href="audio/tts_21cabd90.mp3">
 Khi nào dùng WAS, khi nào dùng WERE? Dễ lắm!
 
 WAS đi với I, he, she, it và chủ ngữ số ít. The CAR was invented. Car là số ít, một chiếc xe, nên dùng WAS.
@@ -96,7 +96,7 @@ Mẹo siêu đơn giản: Số ít dùng WAS, số nhiều dùng WERE. Giống n
 - give → gave → **given**
 </grammar>
 
-<teacher_script pause="120">
+<teacher_script pause="120" href="audio/tts_08707a67.mp3">
 Nhắc lại V3 nha. Động từ có quy tắc thì thêm ED: invent thành INVENTED, discover thành DISCOVERED.
 
 Động từ bất quy tắc thì học thuộc:
@@ -127,7 +127,7 @@ Học thuộc từ từ nha, không cần thuộc hết một lúc!
 **Cách làm:** Đảo was/were lên trước chủ ngữ
 </grammar>
 
-<teacher_script pause="120">
+<teacher_script pause="120" href="audio/tts_0b345091.mp3">
 Câu hỏi Yes/No là câu hỏi trả lời Có hoặc Không. Cách làm: Đảo WAS hoặc WERE lên trước chủ ngữ.
 
 WAS television invented in 1927? TV có được phát minh năm 1927 không? Trả lời: Yes, it was. Hoặc No, it wasn't.
@@ -153,7 +153,7 @@ Thấy không? Cứ đảo was/were lên trước là thành câu hỏi!
 **⚠️ Chú ý:** Hỏi AI thì nhớ thêm **BY** ở cuối câu!
 </grammar>
 
-<teacher_script pause="180">
+<teacher_script pause="180" href="audio/tts_3dfae8e4.mp3">
 Giờ học câu hỏi có từ để hỏi nha, gọi là WH-Questions.
 
 Hỏi KHI NÀO dùng WHEN: WHEN was the telephone invented? Điện thoại được phát minh khi nào?
@@ -189,7 +189,7 @@ Nhớ kỹ nha, hỏi WHO trong bị động phải có BY ở cuối!
    - America **was discovered** in 1492.
 </grammar>
 
-<teacher_script pause="120">
+<teacher_script pause="120" href="audio/tts_be4b40c5.mp3">
 Khi nào dùng câu bị động quá khứ? Giống như bị động hiện tại, có 4 trường hợp.
 
 Khi không biết ai làm: My bike was stolen yesterday. Xe tôi bị mất cắp hôm qua. Không biết ai lấy!
@@ -217,7 +217,7 @@ Trong văn viết lịch sử, khoa học: America was discovered in 1492. Châu
 | Who was the film directed? | Who was the film directed **by**? | Hỏi WHO phải có BY |
 </grammar>
 
-<teacher_script pause="150">
+<teacher_script pause="150" href="audio/tts_5599f49a.mp3">
 Xem mấy lỗi hay sai nha để tránh.
 
 Lỗi 1: Dùng V1 thay vì V3. Không phải "was invent" mà là "was INVENTED". Phải dùng V3!
@@ -249,7 +249,7 @@ Nhớ mấy lỗi này nha!
 | Internet (1969) | The internet **was created** in 1969. |
 </grammar>
 
-<teacher_script pause="120">
+<teacher_script pause="120" href="audio/tts_bad047cf.mp3">
 Xem mấy ví dụ về phát minh nha.
 
 The telephone WAS INVENTED in 1876 by Alexander Graham Bell. Điện thoại được phát minh năm 1876 bởi Alexander Graham Bell.
@@ -287,14 +287,14 @@ Học mấy câu này để làm bài tập nha!
 - made, built, flown, written, seen (bất quy tắc)
 </grammar>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_a8534a1b.mp3">
 Ok xong bài câu bị động quá khứ đơn rồi nha! Nhớ công thức: S + was/were + V3. Số ít dùng was, số nhiều dùng were. Câu hỏi thì đảo was/were lên trước. Hỏi WHO thì nhớ thêm BY ở cuối. V3 có quy tắc thêm ed, bất quy tắc thì học thuộc. Ôn lại rồi làm bài tập hen!
 </teacher_script>
 
 ---
 
 <!-- chunk: exercise_practice -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_a55b37e3.mp3">
 Giờ làm bài tập thực hành nha! Bấm nút bên dưới để bắt đầu làm bài.
 </teacher_script>
 
@@ -302,6 +302,6 @@ Giờ làm bài tập thực hành nha! Bấm nút bên dưới để bắt đ�
 **Bài tập thực hành:** Câu bị động - Quá khứ đơn (Passive Voice - Past Simple)
 </exercise>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_48cb533b.mp3">
 Làm xong bài tập thì kiểm tra kết quả nha. Nhớ xem lại những câu sai để hiểu tại sao.
 </teacher_script>

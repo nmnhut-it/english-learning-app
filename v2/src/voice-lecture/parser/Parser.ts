@@ -378,8 +378,8 @@ export function renderFullContent(
       const sourceMatch = attrs.match(/data-source="([^"]+)"/);
       const countMatch = attrs.match(/data-count="(\d+)"/);
       const source = sourceMatch ? sourceMatch[1] : '';
-      const count = countMatch ? countMatch[1] : '10';
-      return `<div class="${tagClass}" data-source="${source}" data-count="${count}">\n${renderMarkdown(inner)}\n</div>`;
+      const countAttr = countMatch ? ` data-count="${countMatch[1]}"` : '';
+      return `<div class="${tagClass}" data-source="${source}"${countAttr}>\n${renderMarkdown(inner)}\n</div>`;
     }
 
     return `<div class="${tagClass}"${attrs}>\n${renderMarkdown(inner)}\n</div>`;

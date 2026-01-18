@@ -941,16 +941,16 @@ function renderContent(md, chunkIndex) {
   // Exercise tag - interactive exercise from JSON
   h = h.replace(/<exercise([^>]*)>([\s\S]*?)<\/exercise>/gi, (_, attrs, content) => {
     const source = (attrs.match(/data-source="([^"]+)"/) || [])[1] || '';
-    const count = (attrs.match(/data-count="(\d+)"/) || [])[1] || '10';
+    const countMatch = (attrs.match(/data-count="(\d+)"/) || [])[1];
     const exId = `ex-${exerciseState.counter++}`;
     exerciseState.instances[exId] = {
       source,
-      count: parseInt(count),
+      count: countMatch ? parseInt(countMatch) : null,
       exercises: [],
       currentQ: 0,
       answers: []
     };
-    return placeholder(buildExerciseContainer(exId, content.trim(), source, count));
+    return placeholder(buildExerciseContainer(exId, content.trim(), source, countMatch));
   });
 
   // Render remaining markdown (headings outside tags)
