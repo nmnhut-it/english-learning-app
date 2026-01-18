@@ -1,0 +1,191 @@
+{
+  "unitId": "unit-7-first-aid",
+  "unitTitle": "Unit 7: First Aid - Reported Speech",
+  "vocabularyData": {
+    "grammarTerms": [
+      {
+        "word": "reported speech",
+        "vietnamese": "câu tường thuật",
+        "pronunciation": "/rɪˈpɔːrtɪd spiːtʃ/",
+        "definition": "Telling what someone said without using their exact words",
+        "example": "He said he was tired. (reported speech)",
+        "difficulty": "advanced"
+      },
+      {
+        "word": "direct speech",
+        "vietnamese": "lời nói trực tiếp",
+        "pronunciation": "/dəˈrekt spiːtʃ/",
+        "definition": "The exact words someone says",
+        "example": "He said, 'I'm tired.' (direct speech)",
+        "difficulty": "intermediate"
+      },
+      {
+        "word": "tense",
+        "vietnamese": "thì (ngữ pháp)",
+        "pronunciation": "/tens/",
+        "definition": "The form of a verb that shows time",
+        "example": "Change the tense when you report speech.",
+        "difficulty": "intermediate"
+      },
+      {
+        "word": "pronoun",
+        "vietnamese": "đại từ",
+        "pronunciation": "/ˈproʊnaʊn/",
+        "definition": "Words like I, you, he, she that replace nouns",
+        "example": "Change pronouns in reported speech: 'I' becomes 'he' or 'she'.",
+        "difficulty": "intermediate"
+      }
+    ],
+    "difficultWords": [
+      {
+        "word": "grateful",
+        "vietnamese": "biết ơn",
+        "pronunciation": "/ˈɡreɪtfl/",
+        "definition": "Feeling thankful",
+        "example": "We're grateful to the teacher who helped.",
+        "difficulty": "intermediate"
+      },
+      {
+        "word": "witness",
+        "vietnamese": "nhân chứng",
+        "pronunciation": "/ˈwɪtnəs/",
+        "definition": "Someone who saw an event happen",
+        "example": "The witness said he saw the accident.",
+        "difficulty": "advanced"
+      },
+      {
+        "word": "accident",
+        "vietnamese": "tai nạn",
+        "pronunciation": "/ˈæksɪdənt/",
+        "definition": "An unfortunate event that happens unexpectedly",
+        "example": "The accident showed how important first aid is.",
+        "difficulty": "basic"
+      },
+      {
+        "word": "resting",
+        "vietnamese": "đang nghỉ ngơi",
+        "pronunciation": "/ˈrestɪŋ/",
+        "definition": "Relaxing or recovering",
+        "example": "Fiona said she was resting in hospital.",
+        "difficulty": "basic"
+      },
+      {
+        "word": "first aid",
+        "vietnamese": "sơ cứu",
+        "pronunciation": "/fɜːrst eɪd/",
+        "definition": "Emergency medical help given immediately",
+        "example": "The teacher gave first aid.",
+        "difficulty": "intermediate"
+      },
+      {
+        "word": "patient",
+        "vietnamese": "bệnh nhân",
+        "pronunciation": "/ˈpeɪʃnt/",
+        "definition": "A person receiving medical treatment",
+        "example": "The patient said he was feeling better.",
+        "difficulty": "basic"
+      },
+      {
+        "word": "hospital",
+        "vietnamese": "bệnh viện",
+        "pronunciation": "/ˈhɑːspɪtl/",
+        "definition": "A place where sick people are treated",
+        "example": "Fiona told me she was resting in hospital.",
+        "difficulty": "basic"
+      }
+    ],
+    "keyPhrases": [
+      {
+        "phrase": "said (that)...",
+        "vietnamese": "nói rằng...",
+        "structure": "subject + said (that) + clause",
+        "definition": "Used to report what someone said",
+        "example": "The doctor said it was broken.",
+        "usage": "Use 'said' without a person after it"
+      },
+      {
+        "phrase": "told + person + (that)...",
+        "vietnamese": "bảo/nói với ai rằng...",
+        "structure": "subject + told + object + (that) + clause",
+        "definition": "Used to report what someone said to someone",
+        "example": "Dad told me I had to go to school.",
+        "usage": "Use 'told' WITH a person (object pronoun)"
+      },
+      {
+        "phrase": "the next day",
+        "vietnamese": "ngày hôm sau",
+        "structure": "time expression change",
+        "definition": "Tomorrow in reported speech",
+        "example": "She said she was going home the next day.",
+        "usage": "Tomorrow → the next day"
+      },
+      {
+        "phrase": "that day",
+        "vietnamese": "hôm đó",
+        "structure": "time expression change",
+        "definition": "Today in reported speech",
+        "example": "He said he saw him that day.",
+        "usage": "Today → that day"
+      },
+      {
+        "phrase": "the day before",
+        "vietnamese": "hôm trước đó",
+        "structure": "time expression change",
+        "definition": "Yesterday in reported speech",
+        "example": "She said she had visited them the day before.",
+        "usage": "Yesterday → the day before / the previous day"
+      },
+      {
+        "phrase": "that night",
+        "vietnamese": "đêm đó",
+        "structure": "time expression change",
+        "definition": "Tonight in reported speech",
+        "example": "They said they were leaving that night.",
+        "usage": "Tonight → that night"
+      }
+    ],
+    "phrasalVerbs": [
+      {
+        "verb": "look after",
+        "vietnamese": "chăm sóc",
+        "definition": "Take care of someone",
+        "example": "The teacher said she looked after Fiona.",
+        "synonyms": ["take care of", "care for"]
+      },
+      {
+        "verb": "give first aid",
+        "vietnamese": "sơ cứu",
+        "definition": "Provide emergency medical help",
+        "example": "Fiona's teacher said she gave first aid.",
+        "synonyms": ["provide emergency care"]
+      },
+      {
+        "verb": "feel better",
+        "vietnamese": "cảm thấy khỏe hơn",
+        "definition": "Recover from illness",
+        "example": "The patient said he was feeling better.",
+        "synonyms": ["recover", "improve"]
+      }
+    ],
+    "usefulExpressions": [
+      {
+        "expression": "hurt my head",
+        "vietnamese": "bị đau đầu/chấn thương đầu",
+        "example": "Fiona said she hurt her head.",
+        "type": "collocation"
+      },
+      {
+        "expression": "stay in bed",
+        "vietnamese": "nằm trên giường",
+        "example": "His mum told him he had to stay in bed.",
+        "type": "collocation"
+      },
+      {
+        "expression": "bring you some soup",
+        "vietnamese": "mang súp cho bạn",
+        "example": "She said she would bring him some soup.",
+        "type": "collocation"
+      }
+    ]
+  }
+}

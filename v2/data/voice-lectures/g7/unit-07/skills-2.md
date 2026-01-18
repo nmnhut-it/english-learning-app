@@ -4,15 +4,14 @@
 
 <!-- chunk: intro -->
 <teacher_script pause="0">
-Ok lớp 7, Skills 2 Unit 7 nha. Mở sách trang 15 đi.
-Bài này có phần Listening về vấn đề giao thông, và Writing viết đoạn văn.
+Chào các em. Mời các em mở sách giáo khoa trang 15. Bài học hôm nay là <eng>Skills 2</eng>, chúng ta sẽ luyện tập hai kỹ năng Nghe và Viết về vấn đề giao thông.
 </teacher_script>
 
 ---
 
 <!-- chunk: vocabulary -->
 <teacher_script pause="0">
-Bấm nút "Bắt đầu" bên dưới để học từ vựng bài nghe. Máy sẽ đọc và các em đọc theo. Sau đó các em làm bài trắc nghiệm từ vựng rồi ghi từ vựng vô tập.
+Trước khi bắt đầu bài nghe, chúng ta cùng học một số từ vựng mới. Các em hãy nghe và đọc theo, sau đó làm bài tập để ghi nhớ nhé.
 </teacher_script>
 
 <vocabulary>
@@ -40,11 +39,11 @@ Bấm nút "Bắt đầu" bên dưới để học từ vựng bài nghe. Máy s
 </vocabulary>
 
 <teacher_script pause="90">
-Từ vựng bài Listening nè. Click nghe phát âm, ghi vô tập. 1 phút rưỡi nha.
+Các em hãy dành 1 phút 30 giây để nghe phát âm và ghi chép từ vựng vào vở nhé.
 </teacher_script>
 
 <teacher_script pause="0" action="record">
-Ghi âm đọc từ vựng gửi thầy sửa nha.
+Các em hãy bấm nút Ghi âm để đọc từ vựng và gửi cho thầy nhé.
 </teacher_script>
 
 ---
@@ -53,7 +52,7 @@ Ghi âm đọc từ vựng gửi thầy sửa nha.
 ### Listening
 
 <teacher_script pause="0">
-<eng>Listening.</eng> Giờ qua phần Listening. Nghe về vấn đề giao thông ở Mumbai, Ấn Độ.
+Chúng ta cùng bắt đầu với phần <eng>Listening</eng>. Các em sẽ nghe về vấn đề giao thông ở Mumbai, Ấn Độ.
 </teacher_script>
 
 ---
@@ -62,7 +61,7 @@ Ghi âm đọc từ vựng gửi thầy sửa nha.
 ### Bài 1 trang 15 - Look at the picture
 
 <teacher_script pause="30">
-Bài 1 <eng>Look at the picture</eng>. Nhìn hình, bạn thấy gì? Có gì đặc biệt? 30 giây suy nghĩ nha.
+Chúng ta cùng làm Bài 1 <eng>Look at the picture</eng>. Các em hãy quan sát bức tranh và cho biết điều gì đặc biệt trong đó. Các em có 30 giây suy nghĩ.
 </teacher_script>
 
 <task>
@@ -86,7 +85,7 @@ I can see a busy street with heavy traffic. There are many vehicles: cars, buses
 
 <!-- chunk: tapescript -->
 <teacher_script pause="0">
-Đây là nội dung bài nghe. Đọc trước để hiểu nha.
+Đây là nội dung bài nghe. Các em hãy đọc trước để hiểu nội dung nhé.
 </teacher_script>
 
 <reading>
@@ -104,7 +103,7 @@ I can see a busy street with heavy traffic. There are many vehicles: cars, buses
 </reading>
 
 <teacher_script pause="60">
-Đọc hiểu bài nghe. 1 phút nha.
+Các em hãy dành 1 phút để đọc bài nghe nhé.
 </teacher_script>
 
 ---
@@ -117,7 +116,7 @@ I can see a busy street with heavy traffic. There are many vehicles: cars, buses
 </audio>
 
 <teacher_script pause="30">
-Bài 2 <eng>Listen and choose the best answer</eng>. Nghe và chọn đáp án đúng. 30 giây nha.
+Chúng ta cùng làm Bài 2 <eng>Listen and choose</eng>. Các em hãy nghe đoạn văn và chọn đáp án đúng nhất về chủ đề của bài. Các em có 30 giây.
 </teacher_script>
 
 <questions type="multiple_choice">
@@ -133,7 +132,7 @@ Bài 2 <eng>Listen and choose the best answer</eng>. Nghe và chọn đáp án �
 
 <!-- chunk: answer_2 -->
 <teacher_script pause="0">
-Đáp án là C. <eng>Traffic problems in Mumbai.</eng>
+Đáp án đúng là C. <eng>Traffic problems in Mumbai</eng>.
 </teacher_script>
 
 <answer>
@@ -157,7 +156,7 @@ Bài nghe nói về:
 ### Bài 3 trang 15 - Listen and fill
 
 <teacher_script pause="60">
-Bài 3 <eng>Listen again and fill in each blank with a word or a number</eng>. Nghe lại và điền 1 từ hoặc 1 số vào chỗ trống. 1 phút nha.
+Chúng ta cùng làm Bài 3 <eng>Listen and fill</eng>. Các em hãy nghe lại và điền một từ hoặc một số vào mỗi chỗ trống. Các em có 1 phút.
 </teacher_script>
 
 <questions type="fill_blanks">
@@ -186,7 +185,7 @@ Bài 3 <eng>Listen again and fill in each blank with a word or a number</eng>. N
 
 <!-- chunk: answer_3 -->
 <teacher_script pause="0">
-Ok đáp án nè.
+Đã hết thời gian. Sau đây là đáp án đúng.
 </teacher_script>
 
 <answer>
@@ -199,23 +198,23 @@ Ok đáp án nè.
 </answer>
 
 <teacher_script pause="0">
-Câu 1: <eng>jams</eng>. <eng>Traffic jams</eng> = tắc đường.
+Câu 1: <eng>jams</eng>. <eng>Traffic jams</eng> nghĩa là tắc đường.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 2: <eng>jams</eng> hoặc <eng>problems</eng>. Cả hai đều đúng.
+Câu 2: <eng>jams</eng> hoặc <eng>problems</eng>. Cả hai từ đều có thể chấp nhận được.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 3: <eng>Twenty</eng> hoặc 20. Hai mươi triệu người. Đông ghê luôn!
+Câu 3: <eng>Twenty</eng> hoặc 20. Có khoảng 20 triệu người sống ở Mumbai.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 4: <eng>roads</eng>. Nhiều con đường hẹp và gồ ghề.
+Câu 4: <eng>roads</eng>. Nhiều con đường hẹp và không trong tình trạng tốt.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 5: <eng>obey</eng>. Không tuân thủ luật giao thông. Giống Việt Nam quá hen!
+Câu 5: <eng>obey</eng>. Nhiều người không tuân thủ luật giao thông.
 </teacher_script>
 
 <explanation>
@@ -231,7 +230,7 @@ Câu 5: <eng>obey</eng>. Không tuân thủ luật giao thông. Giống Việt N
 </explanation>
 
 <teacher_script pause="30">
-Sửa bài đi. 30 giây nha.
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
@@ -240,7 +239,7 @@ Sửa bài đi. 30 giây nha.
 ### Writing
 
 <teacher_script pause="0">
-<eng>Writing.</eng> Giờ qua phần Writing nha.
+Chúng ta cùng chuyển sang phần <eng>Writing</eng>.
 </teacher_script>
 
 ---
@@ -249,7 +248,7 @@ Sửa bài đi. 30 giây nha.
 ### Bài 4 trang 15 - Tick the traffic problems
 
 <teacher_script pause="30">
-Bài 4 <eng>Tick the traffic problems in big cities in Vietnam</eng>. Đánh dấu các vấn đề giao thông ở các thành phố lớn ở Việt Nam. 30 giây nha.
+Chúng ta cùng làm Bài 4 <eng>Tick the traffic problems</eng>. Các em hãy đánh dấu vào những vấn đề giao thông thường gặp ở các thành phố lớn tại Việt Nam. Các em có 30 giây.
 </teacher_script>
 
 <task>
@@ -273,7 +272,7 @@ Bài 4 <eng>Tick the traffic problems in big cities in Vietnam</eng>. Đánh d�
 
 <!-- chunk: answer_4 -->
 <teacher_script pause="0">
-Đáp án theo thực tế Việt Nam nha.
+Sau đây là đáp án dựa trên thực tế giao thông tại Việt Nam.
 </teacher_script>
 
 <answer>
@@ -289,8 +288,7 @@ Bài 4 <eng>Tick the traffic problems in big cities in Vietnam</eng>. Đánh d�
 </answer>
 
 <teacher_script pause="0">
-Ở Việt Nam, 4 vấn đề đầu tiên khá phổ biến. Riêng số 5 về động vật hoang dã thì không phổ biến ở thành phố lớn.
-Chứ ở quê thì thấy trâu bò đi trên đường hoài luôn!
+Ở Việt Nam, 4 vấn đề đầu tiên khá phổ biến ở các thành phố lớn. Riêng vấn đề số 5 về động vật hoang dã thì ít gặp hơn tại các đô thị.
 </teacher_script>
 
 ---
@@ -299,7 +297,7 @@ Chứ ở quê thì thấy trâu bò đi trên đường hoài luôn!
 ### Bài 5 trang 15 - Write a paragraph
 
 <teacher_script pause="0">
-Bài 5 <eng>Write a paragraph of about 70 words about the traffic problems in your town or city</eng>. Viết đoạn văn khoảng 70 từ về vấn đề giao thông ở nơi em sống nha.
+Chúng ta cùng làm Bài 5 <eng>Write a paragraph</eng>. Các em hãy viết một đoạn văn khoảng 70 từ về các vấn đề giao thông ở thị trấn hoặc thành phố của mình.
 </teacher_script>
 
 <task>
@@ -327,14 +325,14 @@ Bài 5 <eng>Write a paragraph of about 70 words about the traffic problems in yo
 </grammar>
 
 <teacher_script pause="300">
-Viết đoạn văn vô tập. 5 phút nha.
+Các em hãy viết đoạn văn vào vở. Các em có 5 phút.
 </teacher_script>
 
 ---
 
 <!-- chunk: sample_writing -->
 <teacher_script pause="0">
-Đây là bài mẫu để tham khảo nha.
+Sau đây là một bài viết mẫu để các em tham khảo.
 </teacher_script>
 
 <reading>
@@ -348,11 +346,11 @@ Viết đoạn văn vô tập. 5 phút nha.
 </reading>
 
 <teacher_script pause="60">
-So sánh bài viết của em với bài mẫu. Sửa lại nếu cần. 1 phút nha.
+Các em hãy so sánh bài viết của mình với bài mẫu và chỉnh sửa nếu cần nhé. Các em có 1 phút.
 </teacher_script>
 
 <teacher_script pause="0" action="photo">
-Chụp bài viết gửi cho thầy sửa nha.
+Các em hãy chụp hình bài viết của mình và gửi cho thầy nhé.
 </teacher_script>
 
 ---

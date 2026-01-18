@@ -1,0 +1,585 @@
+{
+  "unitId": "midterm-1-test-1",
+  "title": "Đề thi giữa kì 1 Tiếng Anh 11 - Global Success - Đề số 1",
+  "grammarTopics": ["Phonetics", "Grammar", "Vocabulary", "Reading", "Writing"],
+  "theory": {
+    "brief": "Đề thi giữa học kì 1 kiểm tra toàn diện các kỹ năng: Ngữ âm (phát âm và trọng âm), Ngữ pháp và từ vựng (thì hiện tại hoàn thành, hiện tại tiếp diễn, từ đồng nghĩa, trái nghĩa, từ loại), Đọc hiểu, và Viết câu (chuyển đổi câu đồng nghĩa).",
+    "examples": [
+      "Present Perfect: The government has proposed changes recently.",
+      "Present Continuous: He is tasting something now.",
+      "Synonym: active = energetic",
+      "Antonym: strength >< weakness"
+    ]
+  },
+  "exercises": [
+    {
+      "id": 6,
+      "type": "multiple-choice",
+      "question": "Find the word which has a different sound in the part underlined: child / choose / charm / school",
+      "options": ["child", "choose", "charm", "school"],
+      "correctIndex": 3,
+      "underlinedPart": "ch",
+      "wordDetails": [
+        {
+          "word": "child",
+          "ipa": "/tʃaɪld/",
+          "underlinedSound": "/tʃ/",
+          "meaning": "trẻ em, đứa trẻ",
+          "example": "The child is playing in the garden.",
+          "exampleTranslation": "Đứa trẻ đang chơi trong vườn."
+        },
+        {
+          "word": "choose",
+          "ipa": "/tʃuːz/",
+          "underlinedSound": "/tʃ/",
+          "meaning": "chọn, lựa chọn",
+          "example": "You can choose any color you like.",
+          "exampleTranslation": "Bạn có thể chọn bất kỳ màu nào bạn thích."
+        },
+        {
+          "word": "charm",
+          "ipa": "/tʃɑːm/",
+          "underlinedSound": "/tʃ/",
+          "meaning": "sự quyến rũ, bùa hộ mệnh",
+          "example": "She has a lot of charm and personality.",
+          "exampleTranslation": "Cô ấy rất quyến rũ và có cá tính."
+        },
+        {
+          "word": "school",
+          "ipa": "/skuːl/",
+          "underlinedSound": "/k/",
+          "meaning": "trường học",
+          "example": "My school starts at 7 a.m.",
+          "exampleTranslation": "Trường tôi bắt đầu lúc 7 giờ sáng."
+        }
+      ],
+      "explanation": "'school' có âm /k/ ở phần 'ch', trong khi các từ còn lại có âm /tʃ/. Từ 'school' có nguồn gốc từ tiếng Hy Lạp 'scholē', nên 'ch' được phát âm là /k/.",
+      "hints": ["Lắng nghe âm 'ch' trong mỗi từ - hầu hết phát âm là /tʃ/ như trong 'church'"],
+      "points": 10
+    },
+    {
+      "id": 7,
+      "type": "multiple-choice",
+      "question": "Find the word which has a different sound in the part underlined: cookbook / closing / muscle / clothing",
+      "options": ["cookbook", "closing", "muscle", "clothing"],
+      "correctIndex": 2,
+      "underlinedPart": "c",
+      "wordDetails": [
+        {
+          "word": "cookbook",
+          "ipa": "/ˈkʊkbʊk/",
+          "underlinedSound": "/k/",
+          "meaning": "sách dạy nấu ăn",
+          "example": "I found this recipe in my grandmother's cookbook.",
+          "exampleTranslation": "Tôi tìm thấy công thức này trong sách nấu ăn của bà tôi."
+        },
+        {
+          "word": "closing",
+          "ipa": "/ˈkləʊzɪŋ/",
+          "underlinedSound": "/k/",
+          "meaning": "sự đóng cửa, kết thúc",
+          "example": "The closing time of the shop is 9 p.m.",
+          "exampleTranslation": "Giờ đóng cửa của cửa hàng là 9 giờ tối."
+        },
+        {
+          "word": "muscle",
+          "ipa": "/ˈmʌsl/",
+          "underlinedSound": "silent (câm)",
+          "meaning": "cơ bắp",
+          "example": "Exercise helps build muscle strength.",
+          "exampleTranslation": "Tập thể dục giúp tăng cường sức mạnh cơ bắp."
+        },
+        {
+          "word": "clothing",
+          "ipa": "/ˈkləʊðɪŋ/",
+          "underlinedSound": "/k/",
+          "meaning": "quần áo",
+          "example": "She bought new clothing for the winter.",
+          "exampleTranslation": "Cô ấy mua quần áo mới cho mùa đông."
+        }
+      ],
+      "explanation": "Trong từ 'muscle', chữ 'c' là âm câm (không phát âm), phiên âm là /ˈmʌsl/. Các từ còn lại đều có âm /k/ ở chữ 'c'.",
+      "hints": ["Chữ 'c' có thể là âm câm trong một số từ tiếng Anh"],
+      "points": 10
+    },
+    {
+      "id": 8,
+      "type": "multiple-choice",
+      "question": "Find the word which has a different sound in the part underlined: volumes / takes / laughs / develops",
+      "options": ["volumes", "takes", "laughs", "develops"],
+      "correctIndex": 0,
+      "underlinedPart": "s",
+      "wordDetails": [
+        {
+          "word": "volumes",
+          "ipa": "/ˈvɒljuːmz/",
+          "underlinedSound": "/z/",
+          "meaning": "các tập sách, âm lượng",
+          "example": "The library has many volumes of classic literature.",
+          "exampleTranslation": "Thư viện có nhiều tập sách văn học cổ điển."
+        },
+        {
+          "word": "takes",
+          "ipa": "/teɪks/",
+          "underlinedSound": "/s/",
+          "meaning": "lấy, mang theo",
+          "example": "She takes the bus to work every day.",
+          "exampleTranslation": "Cô ấy đi xe buýt đến chỗ làm mỗi ngày."
+        },
+        {
+          "word": "laughs",
+          "ipa": "/lɑːfs/",
+          "underlinedSound": "/s/",
+          "meaning": "cười",
+          "example": "He always laughs at my jokes.",
+          "exampleTranslation": "Anh ấy luôn cười khi nghe những câu đùa của tôi."
+        },
+        {
+          "word": "develops",
+          "ipa": "/dɪˈveləps/",
+          "underlinedSound": "/s/",
+          "meaning": "phát triển",
+          "example": "The company develops new software products.",
+          "exampleTranslation": "Công ty phát triển các sản phẩm phần mềm mới."
+        }
+      ],
+      "explanation": "'volumes' kết thúc bằng âm /z/ vì âm cuối của gốc từ là nguyên âm /m/. Các từ còn lại kết thúc bằng âm /s/ vì âm cuối của gốc từ là phụ âm vô thanh (/k/, /f/, /p/).",
+      "hints": ["Quy tắc: -s phát âm /z/ sau nguyên âm và phụ âm hữu thanh, phát âm /s/ sau phụ âm vô thanh"],
+      "points": 10
+    },
+    {
+      "id": 9,
+      "type": "multiple-choice",
+      "question": "Choose the word which has a different stress pattern: aquatic / respectful / extended / impolite",
+      "options": ["aquatic", "respectful", "extended", "impolite"],
+      "correctIndex": 3,
+      "stressType": "word stress",
+      "wordDetails": [
+        {
+          "word": "aquatic",
+          "ipa": "/əˈkwætɪk/",
+          "stressPattern": "o-O-o",
+          "stressedSyllable": 2,
+          "meaning": "thuộc về nước, sống dưới nước",
+          "example": "Dolphins are aquatic mammals.",
+          "exampleTranslation": "Cá heo là động vật có vú sống dưới nước."
+        },
+        {
+          "word": "respectful",
+          "ipa": "/rɪˈspektfʊl/",
+          "stressPattern": "o-O-o",
+          "stressedSyllable": 2,
+          "meaning": "tôn trọng, lễ phép",
+          "example": "Students should be respectful to their teachers.",
+          "exampleTranslation": "Học sinh nên lễ phép với thầy cô giáo."
+        },
+        {
+          "word": "extended",
+          "ipa": "/ɪkˈstendɪd/",
+          "stressPattern": "o-O-o",
+          "stressedSyllable": 2,
+          "meaning": "mở rộng, kéo dài",
+          "example": "We have an extended family living together.",
+          "exampleTranslation": "Chúng tôi có một đại gia đình sống cùng nhau."
+        },
+        {
+          "word": "impolite",
+          "ipa": "/ˌɪmpəˈlaɪt/",
+          "stressPattern": "o-o-O",
+          "stressedSyllable": 3,
+          "meaning": "bất lịch sự, vô lễ",
+          "example": "It is impolite to talk with your mouth full.",
+          "exampleTranslation": "Nói chuyện khi miệng đầy thức ăn là bất lịch sự."
+        }
+      ],
+      "explanation": "'impolite' có trọng âm rơi vào âm tiết thứ 3 (im-po-LITE /ˌɪmpəˈlaɪt/), trong khi các từ còn lại có trọng âm rơi vào âm tiết thứ 2: a-QUA-tic, res-PECT-ful, ex-TEN-ded.",
+      "hints": ["Đếm số âm tiết và tìm âm tiết được nhấn mạnh. O = trọng âm, o = không có trọng âm"],
+      "points": 10
+    },
+    {
+      "id": 10,
+      "type": "multiple-choice",
+      "question": "Choose the word which has a different stress pattern: release / avoid / global / event",
+      "options": ["release", "avoid", "global", "event"],
+      "correctIndex": 2,
+      "stressType": "word stress",
+      "wordDetails": [
+        {
+          "word": "release",
+          "ipa": "/rɪˈliːs/",
+          "stressPattern": "o-O",
+          "stressedSyllable": 2,
+          "meaning": "phát hành, thả ra",
+          "example": "The movie will be released next month.",
+          "exampleTranslation": "Bộ phim sẽ được phát hành vào tháng tới."
+        },
+        {
+          "word": "avoid",
+          "ipa": "/əˈvɔɪd/",
+          "stressPattern": "o-O",
+          "stressedSyllable": 2,
+          "meaning": "tránh, né tránh",
+          "example": "You should avoid eating too much sugar.",
+          "exampleTranslation": "Bạn nên tránh ăn quá nhiều đường."
+        },
+        {
+          "word": "global",
+          "ipa": "/ˈɡləʊbl/",
+          "stressPattern": "O-o",
+          "stressedSyllable": 1,
+          "meaning": "toàn cầu",
+          "example": "Climate change is a global problem.",
+          "exampleTranslation": "Biến đổi khí hậu là một vấn đề toàn cầu."
+        },
+        {
+          "word": "event",
+          "ipa": "/ɪˈvent/",
+          "stressPattern": "o-O",
+          "stressedSyllable": 2,
+          "meaning": "sự kiện",
+          "example": "The school is organizing a sports event.",
+          "exampleTranslation": "Trường đang tổ chức một sự kiện thể thao."
+        }
+      ],
+      "explanation": "'global' có trọng âm rơi vào âm tiết thứ 1 (GLO-bal /ˈɡləʊbl/), trong khi các từ còn lại có trọng âm rơi vào âm tiết thứ 2: re-LEASE, a-VOID, e-VENT.",
+      "hints": ["Đếm số âm tiết và tìm âm tiết được nhấn mạnh. O = trọng âm, o = không có trọng âm"],
+      "points": 10
+    },
+    {
+      "id": 11,
+      "type": "multiple-choice",
+      "question": "The government ______ changes to the voting system recently.",
+      "options": ["proposes", "was proposing", "proposed", "has proposed"],
+      "correctIndex": 3,
+      "explanation": "Recently signals Present Perfect tense",
+      "hints": ["Look for time marker 'recently'"],
+      "points": 10
+    },
+    {
+      "id": 12,
+      "type": "multiple-choice",
+      "question": "His face looks funny. He ______ something in the kitchen now.",
+      "options": ["tasting", "tasted", "is tasting", "taste"],
+      "correctIndex": 2,
+      "explanation": "'Now' signals Present Continuous, 'taste' as action verb can use -ing",
+      "hints": ["Look for time marker 'now'"],
+      "points": 10
+    },
+    {
+      "id": 13,
+      "type": "multiple-choice",
+      "question": "She is the person who ______ me since I was a child.",
+      "options": ["has taken care of", "took care of", "takes care of", "take care of"],
+      "correctIndex": 0,
+      "explanation": "'Since + past time' signals Present Perfect",
+      "hints": ["Look for 'since I was a child'"],
+      "points": 10
+    },
+    {
+      "id": 14,
+      "type": "multiple-choice",
+      "question": "Australia ______ ASEAN's first Dialogue Partner in 1974 and since then the country ______ with the organisation in a wide socio-economic range.",
+      "options": ["become, cooperate", "has become, cooperated", "became, has cooperated", "became, cooperated"],
+      "correctIndex": 2,
+      "explanation": "'In 1974' = Past Simple, 'since then' = Present Perfect",
+      "hints": ["First action in 1974 (past), second action continues from then"],
+      "points": 10
+    },
+    {
+      "id": 15,
+      "type": "multiple-choice",
+      "question": "The proposal ______ to support the government's effort to reduce energy use in public buildings.",
+      "options": ["is seeming", "seems to", "seemingly", "seems"],
+      "correctIndex": 3,
+      "explanation": "'Seem' is a linking verb, not used in continuous tense",
+      "hints": ["Linking verbs don't use -ing form"],
+      "points": 10
+    },
+    {
+      "id": 16,
+      "type": "multiple-choice",
+      "question": "Mark the word(s) CLOSEST in meaning: Old people have an active lifestyle and are cared for by their families.",
+      "options": ["independent", "simple", "energetic", "passive"],
+      "correctIndex": 2,
+      "explanation": "active = energetic (năng động)",
+      "hints": ["Find a synonym for 'active'"],
+      "points": 10
+    },
+    {
+      "id": 17,
+      "type": "multiple-choice",
+      "question": "Mark the word(s) CLOSEST in meaning: You will be unhealthy if you eat too many snacks.",
+      "options": ["harmful", "nutritious", "sick", "injured"],
+      "correctIndex": 2,
+      "explanation": "unhealthy = sick (không khỏe mạnh)",
+      "hints": ["Find a synonym for 'unhealthy'"],
+      "points": 10
+    },
+    {
+      "id": 18,
+      "type": "multiple-choice",
+      "question": "Mark the word(s) OPPOSITE in meaning: Spending more time outdoors can boost the body's strength and ability to function well.",
+      "options": ["power", "health", "weakness", "injury"],
+      "correctIndex": 2,
+      "explanation": "strength (sức mạnh) >< weakness (sự yếu đuối)",
+      "hints": ["Find an antonym for 'strength'"],
+      "points": 10
+    },
+    {
+      "id": 19,
+      "type": "multiple-choice",
+      "question": "Mark the word(s) OPPOSITE in meaning: Getting enough sleep can reduce stress and improve your mood.",
+      "options": ["decrease", "relieve", "ease", "increase"],
+      "correctIndex": 3,
+      "explanation": "reduce (giảm) >< increase (tăng)",
+      "hints": ["Find an antonym for 'reduce'"],
+      "points": 10
+    },
+    {
+      "id": 26,
+      "type": "multiple-choice",
+      "passage": "Everyone knows that exercise is good for the body and the mind. We all want to keep fit and look good, but too many of us take up the wrong sport and quickly lose interest. So now fitness experts are advising people to choose an activity that matches their character.\n\nFor instance, those who like to be with other people often enjoy golf or squash, or playing for a basketball, football, or hockey team. However, you may prefer to go jogging or swimming if you're happier on your own.\n\nDo you like competition? Then try something like running, or a racket sport such as tennis. If, on the other hand, winning isn't important to you, then activities like dancing can be an enjoyable challenge without the need to show you're better than everyone else.\n\nFinally, think about whether you find it easy to make yourself do exercise. If so, sports like weight training at home and cycling are fine. If not, book a skiing holiday, Taekwondo lessons, or a tennis court. You're much more likely to do something you've already paid for!",
+      "question": "Everyone knows that exercise is good for the body and the mind. We all want to keep fit and look good, but too many of us take _____ the wrong sport and quickly lose interest.",
+      "options": ["down", "out", "in", "up"],
+      "correctIndex": 3,
+      "explanation": "'take up' means to start a new activity or hobby",
+      "hints": ["Phrasal verb meaning 'start doing something'"],
+      "points": 10
+    },
+    {
+      "id": 27,
+      "type": "multiple-choice",
+      "passage": "Everyone knows that exercise is good for the body and the mind. We all want to keep fit and look good, but too many of us take up the wrong sport and quickly lose interest. So now fitness experts are advising people to choose an activity that matches their character.\n\nFor instance, those who like to be with other people often enjoy golf or squash, or playing for a basketball, football, or hockey team. However, you may prefer to go jogging or swimming if you're happier on your own.\n\nDo you like competition? Then try something like running, or a racket sport such as tennis. If, on the other hand, winning isn't important to you, then activities like dancing can be an enjoyable challenge without the need to show you're better than everyone else.\n\nFinally, think about whether you find it easy to make yourself do exercise. If so, sports like weight training at home and cycling are fine. If not, book a skiing holiday, Taekwondo lessons, or a tennis court. You're much more likely to do something you've already paid for!",
+      "question": "For instance, those _____ like to be with other people often enjoy golf or squash, or playing for a basketball, football, or hockey team.",
+      "options": ["who", "whose", "which", "what"],
+      "correctIndex": 0,
+      "explanation": "'who' is relative pronoun for people",
+      "hints": ["Relative pronoun referring to 'those (people)'"],
+      "points": 10
+    },
+    {
+      "id": 28,
+      "type": "multiple-choice",
+      "passage": "Everyone knows that exercise is good for the body and the mind. We all want to keep fit and look good, but too many of us take up the wrong sport and quickly lose interest. So now fitness experts are advising people to choose an activity that matches their character.\n\nFor instance, those who like to be with other people often enjoy golf or squash, or playing for a basketball, football, or hockey team. However, you may prefer to go jogging or swimming if you're happier on your own.\n\nDo you like competition? Then try something like running, or a racket sport such as tennis. If, on the other hand, winning isn't important to you, then activities like dancing can be an enjoyable challenge without the need to show you're better than everyone else.\n\nFinally, think about whether you find it easy to make yourself do exercise. If so, sports like weight training at home and cycling are fine. If not, book a skiing holiday, Taekwondo lessons, or a tennis court. You're much more likely to do something you've already paid for!",
+      "question": "_____, you may prefer to go jogging or swimming if you're happier on your own.",
+      "options": ["therefore", "thus", "however", "while"],
+      "correctIndex": 2,
+      "explanation": "'However' shows contrast between being with others vs alone",
+      "hints": ["Conjunction showing contrast"],
+      "points": 10
+    },
+    {
+      "id": 29,
+      "type": "multiple-choice",
+      "passage": "Everyone knows that exercise is good for the body and the mind. We all want to keep fit and look good, but too many of us take up the wrong sport and quickly lose interest. So now fitness experts are advising people to choose an activity that matches their character.\n\nFor instance, those who like to be with other people often enjoy golf or squash, or playing for a basketball, football, or hockey team. However, you may prefer to go jogging or swimming if you're happier on your own.\n\nDo you like competition? Then try something like running, or a racket sport such as tennis. If, on the other hand, winning isn't important to you, then activities like dancing can be an enjoyable challenge without the need to show you're better than everyone else.\n\nFinally, think about whether you find it easy to make yourself do exercise. If so, sports like weight training at home and cycling are fine. If not, book a skiing holiday, Taekwondo lessons, or a tennis court. You're much more likely to do something you've already paid for!",
+      "question": "If, on the other hand, _____ isn't important to you, then activities like dancing can be an enjoyable challenge.",
+      "options": ["winners", "winning", "win", "won"],
+      "correctIndex": 1,
+      "explanation": "Gerund 'winning' acts as subject of the sentence",
+      "hints": ["Need a noun form as subject"],
+      "points": 10
+    },
+    {
+      "id": 30,
+      "type": "multiple-choice",
+      "passage": "Everyone knows that exercise is good for the body and the mind. We all want to keep fit and look good, but too many of us take up the wrong sport and quickly lose interest. So now fitness experts are advising people to choose an activity that matches their character.\n\nFor instance, those who like to be with other people often enjoy golf or squash, or playing for a basketball, football, or hockey team. However, you may prefer to go jogging or swimming if you're happier on your own.\n\nDo you like competition? Then try something like running, or a racket sport such as tennis. If, on the other hand, winning isn't important to you, then activities like dancing can be an enjoyable challenge without the need to show you're better than everyone else.\n\nFinally, think about whether you find it easy to make yourself do exercise. If so, sports like weight training at home and cycling are fine. If not, book a skiing holiday, Taekwondo lessons, or a tennis court. You're much more likely to do something you've already paid for!",
+      "question": "Activities like dancing can be an enjoyable _____ without the need to show you're better than everyone else.",
+      "options": ["challenge", "victory", "defeat", "score"],
+      "correctIndex": 0,
+      "explanation": "'challenge' fits the context of enjoyable activity",
+      "hints": ["What makes an activity interesting without competition?"],
+      "points": 10
+    },
+    {
+      "id": 31,
+      "type": "multiple-choice",
+      "passage": "The family dynamic evolves as a teen matures and can test the parent-teen relationship. With both sides feeling mixed emotions, this time can be challenging.\n\nPuberty brings lots of emotions for teens and is a time of readjustment for the whole family. Parents have a huge influence on a young child's values and interests, and so it can often feel hard for them to separate from their teen, who wants to develop their own identity and to have new freedoms. This may lead to conflict, as both parents and teens need time to figure out how to adapt the relationship.\n\nAs teens get older, it is important for them to take on responsibilities. This highlights the valuable contribution each family member makes to a home and teaches teens about what it's like to be an adult. Setting clear rules about routine and home life helps teens to know what's expected of them - even if they do complain or resist. Expectations go both ways, however, and so constant communication and flexibility, when necessary, will help avoid conflict.\n\nIt is important for parents and teens to overcome life's many distractions in order to spend quality time together. For parents, maintaining a close relationship with a teen who is preprogrammed to separate from them can be tricky, but it helps to be present and willing. Talking about the things that are going well is as helpful as discussing areas of conflict.",
+      "question": "What is the main idea of the passage about family dynamics?",
+      "options": ["Puberty of teenagers", "Teens' romantic relationship", "Parent-teen relationship", "Teens' responsibilities"],
+      "correctIndex": 2,
+      "explanation": "The passage focuses on parent-teen relationship challenges",
+      "hints": ["Look at the overall topic of the passage"],
+      "points": 10
+    },
+    {
+      "id": 32,
+      "type": "multiple-choice",
+      "passage": "The family dynamic evolves as a teen matures and can test the parent-teen relationship. With both sides feeling mixed emotions, this time can be challenging.\n\nPuberty brings lots of emotions for teens and is a time of readjustment for the whole family. Parents have a huge influence on a young child's values and interests, and so it can often feel hard for them to separate from their teen, who wants to develop their own identity and to have new freedoms. This may lead to conflict, as both parents and teens need time to figure out how to adapt the relationship.\n\nAs teens get older, it is important for them to take on responsibilities. This highlights the valuable contribution each family member makes to a home and teaches teens about what it's like to be an adult. Setting clear rules about routine and home life helps teens to know what's expected of them - even if they do complain or resist. Expectations go both ways, however, and so constant communication and flexibility, when necessary, will help avoid conflict.\n\nIt is important for parents and teens to overcome life's many distractions in order to spend quality time together. For parents, maintaining a close relationship with a teen who is preprogrammed to separate from them can be tricky, but it helps to be present and willing. Talking about the things that are going well is as helpful as discussing areas of conflict.",
+      "question": "According to the passage, who are pointed out to considerably influence young child?",
+      "options": ["their peers", "their teachers", "their parents", "famous people"],
+      "correctIndex": 2,
+      "explanation": "Text states 'Parents have a huge influence on a young child's values'",
+      "hints": ["Find who influences children's values"],
+      "points": 10
+    },
+    {
+      "id": 33,
+      "type": "multiple-choice",
+      "passage": "The family dynamic evolves as a teen matures and can test the parent-teen relationship. With both sides feeling mixed emotions, this time can be challenging.\n\nPuberty brings lots of emotions for teens and is a time of readjustment for the whole family. Parents have a huge influence on a young child's values and interests, and so it can often feel hard for them to separate from their teen, who wants to develop their own identity and to have new freedoms. This may lead to conflict, as both parents and teens need time to figure out how to adapt the relationship.\n\nAs teens get older, it is important for them to take on responsibilities. This highlights the valuable contribution each family member makes to a home and teaches teens about what it's like to be an adult. Setting clear rules about routine and home life helps teens to know what's expected of them - even if they do complain or resist. Expectations go both ways, however, and so constant communication and flexibility, when necessary, will help avoid conflict.\n\nIt is important for parents and teens to overcome life's many distractions in order to spend quality time together. For parents, maintaining a close relationship with a teen who is preprogrammed to separate from them can be tricky, but it helps to be present and willing. Talking about the things that are going well is as helpful as discussing areas of conflict.",
+      "question": "The word 'this' in paragraph 2 refers to ________.",
+      "options": ["Puberty brings lots of emotions for teens", "Parents have a huge influence on a young child's values and interests", "Both parents and teens need time to adapt the relationship", "Parents cannot separate from their teens who want to be free"],
+      "correctIndex": 3,
+      "explanation": "'This' refers to the difficulty parents have separating from teens",
+      "hints": ["Look at the sentence before 'This'"],
+      "points": 10
+    },
+    {
+      "id": 34,
+      "type": "multiple-choice",
+      "passage": "The family dynamic evolves as a teen matures and can test the parent-teen relationship. With both sides feeling mixed emotions, this time can be challenging.\n\nPuberty brings lots of emotions for teens and is a time of readjustment for the whole family. Parents have a huge influence on a young child's values and interests, and so it can often feel hard for them to separate from their teen, who wants to develop their own identity and to have new freedoms. This may lead to conflict, as both parents and teens need time to figure out how to adapt the relationship.\n\nAs teens get older, it is important for them to take on responsibilities. This highlights the valuable contribution each family member makes to a home and teaches teens about what it's like to be an adult. Setting clear rules about routine and home life helps teens to know what's expected of them - even if they do complain or resist. Expectations go both ways, however, and so constant communication and flexibility, when necessary, will help avoid conflict.\n\nIt is important for parents and teens to overcome life's many distractions in order to spend quality time together. For parents, maintaining a close relationship with a teen who is preprogrammed to separate from them can be tricky, but it helps to be present and willing. Talking about the things that are going well is as helpful as discussing areas of conflict.",
+      "question": "The word 'willing' is CLOSEST in meaning to",
+      "options": ["shocked", "ready", "strict", "sympathetic"],
+      "correctIndex": 1,
+      "explanation": "willing = ready (sẵn sàng)",
+      "hints": ["Find a synonym for 'willing'"],
+      "points": 10
+    },
+    {
+      "id": 35,
+      "type": "multiple-choice",
+      "passage": "The family dynamic evolves as a teen matures and can test the parent-teen relationship. With both sides feeling mixed emotions, this time can be challenging.\n\nPuberty brings lots of emotions for teens and is a time of readjustment for the whole family. Parents have a huge influence on a young child's values and interests, and so it can often feel hard for them to separate from their teen, who wants to develop their own identity and to have new freedoms. This may lead to conflict, as both parents and teens need time to figure out how to adapt the relationship.\n\nAs teens get older, it is important for them to take on responsibilities. This highlights the valuable contribution each family member makes to a home and teaches teens about what it's like to be an adult. Setting clear rules about routine and home life helps teens to know what's expected of them - even if they do complain or resist. Expectations go both ways, however, and so constant communication and flexibility, when necessary, will help avoid conflict.\n\nIt is important for parents and teens to overcome life's many distractions in order to spend quality time together. For parents, maintaining a close relationship with a teen who is preprogrammed to separate from them can be tricky, but it helps to be present and willing. Talking about the things that are going well is as helpful as discussing areas of conflict.",
+      "question": "Which of the following is NOT TRUE about the solution as teens get older?",
+      "options": ["Complain and resist", "Communicate constantly", "Set rules about routine and home life", "Ask teens to take on responsibilities"],
+      "correctIndex": 0,
+      "explanation": "Complaining and resisting is teen behavior, not a solution",
+      "hints": ["Find what is NOT a recommended solution"],
+      "points": 10
+    },
+    {
+      "id": 20,
+      "type": "fill-blank",
+      "question": "Many people are trying to adopt a _________ lifestyle these days. (HEALTH)",
+      "answer": "healthy",
+      "acceptedAnswers": ["healthy"],
+      "hints": ["Need adjective form to describe 'lifestyle'"],
+      "points": 10
+    },
+    {
+      "id": 21,
+      "type": "fill-blank",
+      "question": "Stay healthy by eating well and exercising _________. (REGULAR)",
+      "answer": "regularly",
+      "acceptedAnswers": ["regularly"],
+      "hints": ["Need adverb form to modify 'exercising'"],
+      "points": 10
+    },
+    {
+      "id": 22,
+      "type": "fill-blank",
+      "question": "Just taking vitamin tablets will not turn an ________ diet into a good one. (HEALTH)",
+      "answer": "unhealthy",
+      "acceptedAnswers": ["unhealthy"],
+      "hints": ["Need negative adjective form"],
+      "points": 10
+    },
+    {
+      "id": 23,
+      "type": "fill-blank",
+      "question": "She stays _________ so although she is 70 years old now. (ACT)",
+      "answer": "active",
+      "acceptedAnswers": ["active"],
+      "hints": ["Need adjective after 'stay'"],
+      "points": 10
+    },
+    {
+      "id": 24,
+      "type": "fill-blank",
+      "question": "A _________ diet contains an adequate amount of all the nutrients required by the body to grow, remain healthy and be disease-free. (BALANCE)",
+      "answer": "balanced",
+      "acceptedAnswers": ["balanced"],
+      "hints": ["Need adjective form to describe 'diet'"],
+      "points": 10
+    },
+    {
+      "id": 25,
+      "type": "fill-blank",
+      "question": "These exercises are a great way to increase _________ while maintaining flexibility. (STRONG)",
+      "answer": "strength",
+      "acceptedAnswers": ["strength"],
+      "hints": ["Need noun form after 'increase'"],
+      "points": 10
+    },
+    {
+      "id": 36,
+      "type": "sentence-rewrite",
+      "original": "This is the most beautiful city that I have ever visited.",
+      "instruction": "Rewrite using 'never'",
+      "starterText": "I have",
+      "answer": "I have never visited such a beautiful city.",
+      "acceptedAnswers": [
+        "I have never visited such a beautiful city",
+        "I have never visited such a beautiful city.",
+        "I have never visited so beautiful a city",
+        "I have never visited so beautiful a city."
+      ],
+      "hints": ["Use 'never' with present perfect", "Structure: never + past participle + such + adj + noun"],
+      "points": 10
+    },
+    {
+      "id": 37,
+      "type": "sentence-rewrite",
+      "original": "Tom began playing the piano 4 years ago.",
+      "instruction": "Rewrite using present perfect",
+      "starterText": "Tom has",
+      "answer": "Tom has played the piano for 4 years.",
+      "acceptedAnswers": [
+        "Tom has played the piano for 4 years",
+        "Tom has played the piano for 4 years.",
+        "Tom has been playing the piano for 4 years",
+        "Tom has been playing the piano for 4 years."
+      ],
+      "hints": ["Use present perfect with 'for'", "Convert past time to duration"],
+      "points": 10
+    },
+    {
+      "id": 38,
+      "type": "sentence-rewrite",
+      "original": "My advice is that you try to avoid all junk food.",
+      "instruction": "Rewrite using 'should'",
+      "starterText": "You",
+      "answer": "You should avoid all junk food.",
+      "acceptedAnswers": [
+        "You should avoid all junk food",
+        "You should avoid all junk food.",
+        "You should try to avoid all junk food",
+        "You should try to avoid all junk food.",
+        "You ought to avoid all junk food",
+        "You ought to avoid all junk food.",
+        "You ought to try to avoid all junk food",
+        "You ought to try to avoid all junk food."
+      ],
+      "hints": ["Use modal verb for advice", "'should' or 'ought to'"],
+      "points": 10
+    },
+    {
+      "id": 39,
+      "type": "sentence-rewrite",
+      "original": "They don't allow me to stay overnight at my friend's house.",
+      "instruction": "Rewrite using 'let'",
+      "starterText": "They don't let",
+      "answer": "They don't let me stay overnight at my friend's house.",
+      "acceptedAnswers": [
+        "They don't let me stay overnight at my friend's house",
+        "They don't let me stay overnight at my friend's house."
+      ],
+      "hints": ["allow + to V = let + V (infinitive without 'to')"],
+      "points": 10
+    },
+    {
+      "id": 40,
+      "type": "sentence-rewrite",
+      "original": "That electric car's so expensive that I don't think I can buy it.",
+      "instruction": "Rewrite using 'such'",
+      "starterText": "It's such",
+      "answer": "It's such an expensive electric car that I don't think I can buy it.",
+      "acceptedAnswers": [
+        "It's such an expensive electric car that I don't think I can buy it",
+        "It's such an expensive electric car that I don't think I can buy it.",
+        "It is such an expensive electric car that I don't think I can buy it",
+        "It is such an expensive electric car that I don't think I can buy it."
+      ],
+      "hints": ["so + adj = such + a/an + adj + noun"],
+      "points": 10
+    }
+  ]
+}

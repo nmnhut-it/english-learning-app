@@ -1,0 +1,766 @@
+{
+  "unitId": "unit-9-possibilities",
+  "title": "Unit 9: Possibilities",
+  "grammarTopics": ["Modals for Possibility: May, Might, Could", "Have to"],
+  "theory": {
+    "brief": "May, might, could diễn tả khả năng (không chắc chắn). Have to diễn tả sự bắt buộc/cần thiết. Cấu trúc: may/might/could + base verb, have/has to + base verb. Don't have to = không cần thiết.",
+    "examples": [
+      "He might win! (possibility)",
+      "If you practice, you could win the race. (possibility in conditional)",
+      "I have to study hard. (obligation)"
+    ]
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "type": "multiple-choice",
+      "question": "He __________ win the competition!",
+      "options": ["will", "might", "has to", "must"],
+      "correctIndex": 1,
+      "explanation": "**Phân tích:**\n1. Câu diễn tả **khả năng không chắc chắn** - anh ấy có thể thắng, nhưng chưa biết chắc\n2. Dùng **might/may/could** để diễn tả điều có thể xảy ra (possibility)\n3. Cấu trúc: S + might/may/could + V (nguyên mẫu)\n\n**Tại sao các đáp án khác sai:**\n- ❌ 'will': diễn tả chắc chắn 100%, không phù hợp với khả năng\n- ❌ 'has to': diễn tả sự bắt buộc, không phải khả năng\n- ❌ 'must': diễn tả sự cần thiết/suy luận chắc chắn, không phải khả năng\n\n**Mẹo nhớ:** might = 'có thể' (không chắc chắn), will = 'sẽ' (chắc chắn)",
+      "hints": ["Khả năng, không chắc chắn"],
+      "points": 10
+    },
+    {
+      "id": 2,
+      "type": "multiple-choice",
+      "question": "I __________ study art at a special art school next year.",
+      "options": ["will", "might", "have to", "must"],
+      "correctIndex": 1,
+      "explanation": "**Phân tích:**\n1. Câu nói về **kế hoạch chưa chắc chắn** trong tương lai (next year)\n2. 'might' diễn tả: Tôi **có thể** học nghệ thuật - chưa quyết định chắc chắn\n3. Cấu trúc: S + might + V (nguyên mẫu) → 'might study'\n\n**Tại sao các đáp án khác sai:**\n- ❌ 'will': chắc chắn 100% sẽ học, nhưng câu này diễn tả sự không chắc chắn\n- ❌ 'have to': bắt buộc phải học (do ai đó yêu cầu), không phù hợp ngữ cảnh\n- ❌ 'must': suy luận chắc chắn hoặc bắt buộc, không phải khả năng\n\n**Phân biệt:** 'I might study' (có thể học - 50/50) vs 'I will study' (chắc chắn học - 100%)",
+      "hints": ["Có thể, không chắc chắn"],
+      "points": 10
+    },
+    {
+      "id": 3,
+      "type": "multiple-choice",
+      "question": "She __________ become a famous artist one day.",
+      "options": ["will", "could", "has to", "must"],
+      "correctIndex": 1,
+      "explanation": "**Phân tích:**\n1. 'one day' (một ngày nào đó) → khả năng **không chắc chắn** trong tương lai xa\n2. 'could' diễn tả: Cô ấy **có thể** trở thành nghệ sĩ nổi tiếng - chưa biết chắc\n3. Cấu trúc: S + could + V (nguyên mẫu) → 'could become'\n\n**Tại sao các đáp án khác sai:**\n- ❌ 'will': quá chắc chắn, không ai biết trước tương lai xa\n- ❌ 'has to': bắt buộc - không hợp nghĩa (ai bắt cô ấy thành nghệ sĩ?)\n- ❌ 'must': suy luận/bắt buộc, không phù hợp\n\n**Lưu ý:** 'could' thường dùng cho khả năng trong tương lai xa hoặc khả năng trong điều kiện nào đó",
+      "hints": ["Có thể xảy ra"],
+      "points": 10
+    },
+    {
+      "id": 4,
+      "type": "multiple-choice",
+      "question": "It __________ rain tomorrow.",
+      "options": ["will", "may", "has to", "must"],
+      "correctIndex": 1,
+      "explanation": "**Phân tích:**\n1. Nói về **thời tiết** ngày mai → không ai biết chắc 100%\n2. 'may' diễn tả: Trời **có thể** mưa - khả năng khoảng 50%\n3. Cấu trúc: S + may + V (nguyên mẫu) → 'may rain'\n\n**Tại sao các đáp án khác sai:**\n- ❌ 'will': chắc chắn 100%, nhưng thời tiết luôn không chắc chắn\n- ❌ 'has to': bắt buộc - thời tiết không bị ai 'bắt buộc' cả!\n- ❌ 'must': suy luận chắc chắn, không phù hợp với dự đoán thời tiết\n\n**Mẹo nhớ:** Khi nói về thời tiết trong tương lai, thường dùng may/might vì không ai đoán chắc được thời tiết!",
+      "hints": ["Không chắc chắn"],
+      "points": 10
+    },
+    {
+      "id": 5,
+      "type": "multiple-choice",
+      "question": "They __________ not come to the party.",
+      "options": ["will", "might", "have to", "must"],
+      "correctIndex": 1,
+      "explanation": "**Phân tích:**\n1. Câu diễn tả **khả năng phủ định** - họ có thể không đến (chưa chắc)\n2. 'might not' = **có thể không** → không chắc chắn họ sẽ đến hay không\n3. Cấu trúc phủ định: S + might/may + not + V → 'might not come'\n\n**Tại sao các đáp án khác sai:**\n- ❌ 'will not': chắc chắn 100% không đến, quá tuyệt đối\n- ❌ 'have to not': sai ngữ pháp! (phủ định của have to là 'don't have to')\n- ❌ 'must not': cấm đoán (không được phép đến), không phải khả năng\n\n**So sánh:**\n- 'might not come' = có thể không đến (không chắc)\n- 'won't come' = chắc chắn không đến\n- 'mustn't come' = không được phép đến (cấm)",
+      "hints": ["Có thể không đến"],
+      "points": 10
+    },
+    {
+      "id": 6,
+      "type": "word-rearrange",
+      "instruction": "Viết lại: Perhaps it will rain → It...",
+      "words": ["It", "might", "rain."],
+      "distractors": ["will", "must", "has to"],
+      "correctSentence": "It might rain.",
+      "acceptedAnswers": [
+        "It might rain.",
+        "It may rain.",
+        "It could rain."
+      ],
+      "hints": ["Dùng modal + base verb"],
+      "explanation": "**Phân tích cách chuyển đổi:**\n1. 'Perhaps' = có lẽ, có thể → diễn tả **khả năng không chắc chắn**\n2. Khi viết lại câu có 'perhaps', thay bằng **might/may/could**\n3. Bỏ 'perhaps' và 'will', thêm 'might/may/could'\n\n**Quy tắc chuyển đổi:**\n- Perhaps + S + will + V → S + might/may/could + V\n- 'Perhaps it will rain' → 'It might rain'\n\n**Tại sao các từ bẫy (distractors) sai:**\n- ❌ 'will': giữ nguyên nghĩa chắc chắn, không diễn tả 'perhaps'\n- ❌ 'must': suy luận chắc chắn, không phải khả năng\n- ❌ 'has to': bắt buộc, không liên quan đến 'perhaps'\n\n**Lưu ý:** Cả 'might', 'may', 'could' đều được chấp nhận vì cùng nghĩa khả năng!",
+      "points": 10
+    },
+    {
+      "id": 7,
+      "type": "word-rearrange",
+      "instruction": "Viết lại: Perhaps she'll win the race → She...",
+      "words": ["She", "might", "win", "the", "race."],
+      "distractors": ["will", "must", "has to"],
+      "correctSentence": "She might win the race.",
+      "acceptedAnswers": [
+        "She might win the race.",
+        "She may win the race.",
+        "She could win the race."
+      ],
+      "hints": ["Thay 'will' bằng modal khả năng"],
+      "explanation": "**Phân tích cách chuyển đổi:**\n1. 'Perhaps she'll' = Có lẽ cô ấy sẽ → **khả năng không chắc chắn**\n2. 'she'll' = 'she will' (viết tắt)\n3. Thay 'Perhaps...will' bằng 'might/may/could'\n\n**Quy tắc:**\n- Perhaps + S + will + V → S + might/may/could + V\n- 'Perhaps she'll win' → 'She might win'\n\n**Cấu trúc đúng:** She + might + win (V nguyên mẫu) + the race\n\n**Lưu ý quan trọng:** Sau modal verbs (might, may, could), động từ luôn ở dạng **nguyên mẫu** (base form), không thêm -s, -ed, hay 'to'",
+      "points": 10
+    },
+    {
+      "id": 8,
+      "type": "word-rearrange",
+      "instruction": "Viết lại: Maybe they'll come to the party → They...",
+      "words": ["They", "might", "come", "to", "the", "party."],
+      "distractors": ["will", "must", "have to"],
+      "correctSentence": "They might come to the party.",
+      "acceptedAnswers": [
+        "They might come to the party.",
+        "They may come to the party.",
+        "They could come to the party."
+      ],
+      "hints": ["Maybe = khả năng"],
+      "explanation": "**Phân tích cách chuyển đổi:**\n1. 'Maybe' = có thể, có lẽ → giống như 'perhaps', diễn tả **khả năng**\n2. 'they'll' = 'they will' (viết tắt)\n3. Thay 'Maybe...will' bằng 'might/may/could'\n\n**Quy tắc:**\n- Maybe + S + will + V → S + might/may/could + V\n- 'Maybe they'll come' → 'They might come'\n\n**So sánh 'Maybe' và 'Perhaps':**\n- Cả hai đều có nghĩa 'có thể, có lẽ'\n- Cả hai đều chuyển thành might/may/could\n- 'Perhaps' trang trọng hơn, 'Maybe' thông dụng hơn\n\n**Cấu trúc đúng:** They + might + come (V nguyên mẫu) + to the party",
+      "points": 10
+    },
+    {
+      "id": 9,
+      "type": "word-rearrange",
+      "instruction": "Viết lại: Maybe it won't be difficult → It...",
+      "words": ["It", "might", "not", "be", "difficult."],
+      "distractors": ["will", "won't", "must"],
+      "correctSentence": "It might not be difficult.",
+      "acceptedAnswers": [
+        "It might not be difficult.",
+        "It may not be difficult."
+      ],
+      "hints": ["Khả năng phủ định"],
+      "explanation": "**Phân tích cách chuyển đổi câu phủ định:**\n1. 'Maybe it won't' = Có thể nó sẽ không → **khả năng phủ định**\n2. 'won't' = 'will not' (viết tắt)\n3. Thay 'Maybe...won't' bằng 'might not / may not'\n\n**Quy tắc chuyển đổi phủ định:**\n- Maybe + S + won't + V → S + might not / may not + V\n- 'Maybe it won't be difficult' → 'It might not be difficult'\n\n**Cấu trúc phủ định của modal:**\n- S + might + not + V (nguyên mẫu)\n- 'might not' có thể viết tắt: 'mightn't' (ít dùng)\n\n**Lưu ý:** 'could not' không dùng trong trường hợp này vì 'couldn't' thường mang nghĩa 'không thể' (ability), không phải khả năng (possibility)",
+      "points": 10
+    },
+    {
+      "id": 10,
+      "type": "multiple-choice",
+      "question": "If you do lots of running, you __________ win the race. (không chắc chắn)",
+      "options": ["will", "might", "have to", "must"],
+      "correctIndex": 1,
+      "explanation": "**Phân tích:**\n1. Đề bài ghi rõ **(không chắc chắn)** → phải dùng modal diễn tả khả năng\n2. Câu điều kiện: If + điều kiện, kết quả\n3. Kết quả không chắc chắn 100%: Tập chạy nhiều **có thể** giúp thắng, nhưng không đảm bảo\n4. Dùng **might** để diễn tả khả năng trong điều kiện\n\n**Cấu trúc:** If + S + V (hiện tại), S + might/may/could + V\n\n**Tại sao các đáp án khác sai:**\n- ❌ 'will': chắc chắn 100% thắng - mâu thuẫn với '(không chắc chắn)'\n- ❌ 'have to': bắt buộc phải thắng - không logic\n- ❌ 'must': bắt buộc/suy luận - không phù hợp\n\n**Mẹo nhớ:** Khi thấy gợi ý '(không chắc chắn)' → dùng **might/may/could**",
+      "hints": ["(win) - Khả năng, không chắc chắn"],
+      "points": 10
+    },
+    {
+      "id": 11,
+      "type": "multiple-choice",
+      "question": "If I have more time to practice, I __________ be better at art. (không chắc chắn)",
+      "options": ["will", "might", "have to", "must"],
+      "correctIndex": 1,
+      "explanation": "**Phân tích:**\n1. Đề bài ghi rõ **(không chắc chắn)** → phải dùng modal diễn tả khả năng\n2. 'If I have more time...' → Nếu có thêm thời gian, tôi **có thể** giỏi hơn\n3. Tập luyện nhiều hơn **có thể** giúp giỏi hơn, nhưng không đảm bảo 100%\n\n**Cấu trúc:** If + S + V (hiện tại), S + might + V (nguyên mẫu)\n\n**Tại sao các đáp án khác sai:**\n- ❌ 'will': quá chắc chắn - mâu thuẫn với '(không chắc chắn)'\n- ❌ 'have to': bắt buộc - không ai bắt bạn phải giỏi!\n- ❌ 'must': suy luận/bắt buộc - không phù hợp\n\n**Mẹo nhớ:** Khi thấy gợi ý '(không chắc chắn)' → dùng **might/may/could**",
+      "hints": ["(be) - Có thể"],
+      "points": 10
+    },
+    {
+      "id": 12,
+      "type": "multiple-choice",
+      "question": "If the weather is good, we __________ go to the beach. (chưa quyết định)",
+      "options": ["will", "could", "have to", "must"],
+      "correctIndex": 1,
+      "explanation": "**Phân tích:**\n1. Đề bài ghi rõ **(chưa quyết định)** → phải dùng modal diễn tả khả năng, không phải 'will'\n2. Câu điều kiện: 'If the weather is good' (Nếu thời tiết tốt)\n3. 'could' diễn tả một khả năng có thể xảy ra nếu điều kiện đúng\n\n**Cấu trúc:** If + S + V (hiện tại), S + could/might/may + V\n\n**Tại sao các đáp án khác sai:**\n- ❌ 'will': đã quyết định chắc chắn - mâu thuẫn với '(chưa quyết định)'\n- ❌ 'have to': bắt buộc - không ai bắt đi biển\n- ❌ 'must': bắt buộc/suy luận - không phù hợp\n\n**Mẹo nhớ:** Khi thấy '(chưa quyết định)' → dùng **could/might/may**, KHÔNG dùng 'will'",
+      "hints": ["(go) - Có thể sẽ đi"],
+      "points": 10
+    },
+    {
+      "id": 13,
+      "type": "multiple-choice",
+      "question": "If it rains, we __________ not go to the park. (chưa chắc chắn)",
+      "options": ["will", "might", "have to", "must"],
+      "correctIndex": 1,
+      "explanation": "**Phân tích:**\n1. Đề bài ghi rõ **(chưa chắc chắn)** → phải dùng modal diễn tả khả năng\n2. Câu điều kiện phủ định: 'If it rains' → nếu trời mưa\n3. 'might not' = có thể không → không chắc chắn sẽ hủy\n\n**Cấu trúc:** If + S + V, S + might + not + V\n\n**Tại sao các đáp án khác sai:**\n- ❌ 'will not': chắc chắn 100% - mâu thuẫn với '(chưa chắc chắn)'\n- ❌ 'have to not': sai ngữ pháp! (phủ định: don't have to)\n- ❌ 'must not': cấm đoán - không phù hợp ngữ cảnh\n\n**Mẹo nhớ:** Khi thấy '(chưa chắc chắn)' → dùng **might/may**, KHÔNG dùng 'will'",
+      "hints": ["(not go) - Có thể không đi"],
+      "points": 10
+    },
+    {
+      "id": 14,
+      "type": "word-rearrange",
+      "instruction": "Viết lại: We'll go to France next year (might) → We...",
+      "words": ["We", "might", "go", "to", "France", "next", "year."],
+      "distractors": ["will", "must", "have to"],
+      "correctSentence": "We might go to France next year.",
+      "acceptedAnswers": [
+        "We might go to France next year."
+      ],
+      "hints": ["Thay 'will' bằng 'might'"],
+      "explanation": "**Phân tích cách chuyển đổi:**\n1. Đề bài yêu cầu dùng 'might' để thay đổi mức độ chắc chắn\n2. 'We'll go' (chắc chắn sẽ đi) → 'We might go' (có thể đi)\n3. Giữ nguyên phần còn lại của câu\n\n**Quy tắc chuyển đổi:**\n- S + will + V → S + might + V\n- 'We'll go to France' → 'We might go to France'\n\n**Sự thay đổi về nghĩa:**\n- 'We'll go' = Chúng ta SẼ đi (100% chắc chắn, đã quyết định)\n- 'We might go' = Chúng ta CÓ THỂ đi (chưa chắc, còn đang cân nhắc)\n\n**Lưu ý:** Đề bài cho sẵn từ 'might', nên chỉ có một đáp án đúng (không chấp nhận 'may' hay 'could')",
+      "points": 10
+    },
+    {
+      "id": 15,
+      "type": "word-rearrange",
+      "instruction": "Viết lại: I won't get 100% in the maths test (may not) → I...",
+      "words": ["I", "may", "not", "get", "100%", "in", "the", "maths", "test."],
+      "distractors": ["won't", "will", "must"],
+      "correctSentence": "I may not get 100% in the maths test.",
+      "acceptedAnswers": [
+        "I may not get 100% in the maths test.",
+        "I may not get 100 percent in the maths test."
+      ],
+      "hints": ["Thay 'won't' bằng 'may not'"],
+      "explanation": "**Phân tích cách chuyển đổi câu phủ định:**\n1. Đề bài yêu cầu dùng 'may not' để thay đổi mức độ chắc chắn\n2. 'I won't get' (chắc chắn không đạt) → 'I may not get' (có thể không đạt)\n3. Thay 'won't' bằng 'may not', giữ nguyên phần còn lại\n\n**Quy tắc chuyển đổi phủ định:**\n- S + won't + V → S + may not + V\n- 'I won't get 100%' → 'I may not get 100%'\n\n**Sự thay đổi về nghĩa:**\n- 'I won't get' = Tôi SẼ KHÔNG đạt (100% chắc chắn không đạt)\n- 'I may not get' = Tôi CÓ THỂ KHÔNG đạt (chưa chắc, có thể vẫn đạt)\n\n**Lưu ý ngữ pháp:**\n- 'may not' KHÔNG viết tắt thành 'mayn't' (không tồn tại dạng này)\n- 'might not' có thể viết tắt: 'mightn't' (nhưng ít dùng)",
+      "points": 10
+    },
+    {
+      "id": 16,
+      "type": "multiple-choice",
+      "question": "You __________ help your mum with the housework. It's your responsibility.",
+      "options": ["might", "have to", "could", "may"],
+      "correctIndex": 1,
+      "explanation": "**Phân tích:**\n1. Câu nói rõ **'It's your responsibility'** (Đó là trách nhiệm của bạn) → **bắt buộc**\n2. 'have to' diễn tả điều **cần thiết phải làm**, thường do hoàn cảnh bên ngoài\n3. Cấu trúc: S + have to + V (nguyên mẫu)\n\n**Tại sao các đáp án khác sai:**\n- ❌ 'might': chỉ khả năng - mâu thuẫn với 'It's your responsibility'\n- ❌ 'could': chỉ khả năng - không phù hợp với trách nhiệm\n- ❌ 'may': chỉ khả năng hoặc xin phép - không bắt buộc\n\n**Mẹo nhớ:** Khi thấy 'It's your responsibility' (trách nhiệm) → dùng **have to**",
+      "hints": ["Bắt buộc"],
+      "points": 10
+    },
+    {
+      "id": 17,
+      "type": "multiple-choice",
+      "question": "Molly and Bella __________ study hard. They have an exam tomorrow.",
+      "options": ["might", "have to", "could", "may"],
+      "correctIndex": 1,
+      "explanation": "**Phân tích:**\n1. Câu nói rõ **'They have an exam tomorrow'** (Họ có bài kiểm tra ngày mai) → **bắt buộc** phải học\n2. Chủ ngữ 'Molly and Bella' = **số nhiều** → dùng 'have to' (không phải 'has to')\n3. Cấu trúc: They/We/You/I + have to + V\n\n**Quy tắc chia 'have to':**\n- I/You/We/They + **have to**\n- He/She/It + **has to**\n\n**Tại sao các đáp án khác sai:**\n- ❌ 'might/could/may': chỉ khả năng - mâu thuẫn với việc có bài kiểm tra ngày mai\n\n**Mẹo nhớ:** Khi thấy 'have an exam' (có bài kiểm tra) → dùng **have to** (bắt buộc học)",
+      "hints": ["Plural: have to"],
+      "points": 10
+    },
+    {
+      "id": 18,
+      "type": "multiple-choice",
+      "question": "George __________ go to the doctor last week.",
+      "options": ["has to", "had to", "have to", "must"],
+      "correctIndex": 1,
+      "explanation": "**Phân tích:**\n1. 'last week' = tuần trước → **thì quá khứ**\n2. 'have to' ở quá khứ là **'had to'** (cho tất cả các ngôi)\n3. George đã **phải** đi khám bác sĩ tuần trước\n\n**Quy tắc chia 'have to' theo thì:**\n- Hiện tại: have to / has to\n- Quá khứ: **had to** (cho tất cả ngôi I/you/he/she/it/we/they)\n- Tương lai: will have to\n\n**Tại sao các đáp án khác sai:**\n- ❌ 'has to': hiện tại, không phù hợp 'last week'\n- ❌ 'have to': hiện tại, không phù hợp 'last week'\n- ❌ 'must': 'must' KHÔNG CÓ dạng quá khứ! Khi cần quá khứ, phải dùng 'had to'\n\n**Quan trọng:** 'must' không có dạng quá khứ, nên khi nói về bắt buộc trong quá khứ, PHẢI dùng 'had to'",
+      "hints": ["Last week = quá khứ"],
+      "points": 10
+    },
+    {
+      "id": 19,
+      "type": "multiple-choice",
+      "question": "Olly __________ do a lot of homework yesterday.",
+      "options": ["has to", "had to", "have to", "must"],
+      "correctIndex": 1,
+      "explanation": "**Phân tích:**\n1. 'yesterday' = hôm qua → **thì quá khứ**\n2. Dùng **'had to'** để diễn tả bắt buộc trong quá khứ\n3. Olly đã **phải** làm nhiều bài tập hôm qua\n\n**Dấu hiệu nhận biết thì quá khứ:**\n- yesterday (hôm qua)\n- last week/month/year (tuần/tháng/năm trước)\n- ago (trước đây): 2 days ago, a week ago\n- in 2020, in the past...\n\n**Tại sao các đáp án khác sai:**\n- ❌ 'has to': hiện tại cho ngôi 3 số ít, nhưng 'yesterday' = quá khứ\n- ❌ 'have to': hiện tại, không phù hợp\n- ❌ 'must': không có dạng quá khứ!\n\n**Mẹo nhớ:** Khi thấy dấu hiệu quá khứ (yesterday, last..., ago) + nghĩa bắt buộc → dùng **had to**",
+      "hints": ["Yesterday = had to"],
+      "points": 10
+    },
+    {
+      "id": 20,
+      "type": "multiple-choice",
+      "question": "She __________ wear a uniform to school. It's the school rule.",
+      "options": ["have to", "has to", "had to", "must"],
+      "correctIndex": 1,
+      "explanation": "**Phân tích:**\n1. Câu nói rõ **'It's the school rule'** (Đó là quy định của trường) → quy định bên ngoài → **has to**\n2. Chủ ngữ 'She' = ngôi thứ 3 số ít → dùng **'has to'**\n3. Không có dấu hiệu quá khứ → thì hiện tại\n\n**Quy tắc chia 'have to' ở hiện tại:**\n- I/You/We/They + **have to**\n- He/She/It + **has to**\n\n**Tại sao các đáp án khác sai:**\n- ❌ 'have to': dùng cho I/you/we/they, không dùng cho 'she'\n- ❌ 'had to': quá khứ - nhưng câu này nói về quy định hiện tại\n- ❌ 'must': 'It's the school rule' = quy định từ bên ngoài → 'has to' phù hợp hơn 'must'\n\n**Mẹo nhớ:** Khi thấy 'It's the rule' (quy định) → dùng **have to/has to** (bắt buộc từ bên ngoài)",
+      "hints": ["She = has to"],
+      "points": 10
+    },
+    {
+      "id": 21,
+      "type": "multiple-choice",
+      "question": "I __________ play every day, but I have to stay healthy.",
+      "options": ["have to", "don't have to", "has to", "didn't have to"],
+      "correctIndex": 1,
+      "explanation": "**Phân tích:**\n1. Nghĩa câu: Tôi **không cần** chơi mỗi ngày, nhưng tôi phải giữ sức khỏe\n2. 'don't have to' = **không cần thiết** (không bắt buộc, có thể làm hoặc không)\n3. Chủ ngữ 'I' → dùng 'don't have to' (không phải 'doesn't')\n\n**Cấu trúc phủ định của 'have to':**\n- I/You/We/They + **don't have to** + V\n- He/She/It + **doesn't have to** + V\n- Quá khứ: **didn't have to** (tất cả ngôi)\n\n**Tại sao các đáp án khác sai:**\n- ❌ 'have to': khẳng định (phải chơi) - ngược nghĩa với 'but'\n- ❌ 'has to': sai ngôi (dùng cho he/she/it)\n- ❌ 'didn't have to': quá khứ - câu này nói về hiện tại\n\n**Quan trọng - Phân biệt:**\n- 'don't have to' = không cần (có thể làm nếu muốn)\n- 'mustn't' = không được phép (cấm)\n\n**Ví dụ:** 'I don't have to play' (không cần chơi, muốn chơi cũng được) vs 'I mustn't play' (bị cấm chơi)",
+      "hints": ["Không cần thiết"],
+      "points": 10
+    },
+    {
+      "id": 22,
+      "type": "multiple-choice",
+      "question": "She __________ eat special food.",
+      "options": ["don't have to", "doesn't have to", "didn't have to", "hasn't to"],
+      "correctIndex": 1,
+      "explanation": "**Phân tích:**\n1. Chủ ngữ 'She' = ngôi thứ 3 số ít → dùng **'doesn't have to'**\n2. Nghĩa: Cô ấy **không cần** ăn thức ăn đặc biệt\n3. Không có dấu hiệu quá khứ → thì hiện tại\n\n**Cấu trúc phủ định hiện tại:**\n- I/You/We/They + **don't** have to + V\n- He/She/It + **doesn't** have to + V\n\n**Tại sao các đáp án khác sai:**\n- ❌ 'don't have to': sai ngôi - 'she' cần 'doesn't'\n- ❌ 'didn't have to': quá khứ - không có dấu hiệu quá khứ\n- ❌ 'hasn't to': SAI NGỮ PHÁP! Không tồn tại dạng này!\n\n**Lỗi thường gặp:**\n- ❌ 'She hasn't to' - SAI (không có dạng này)\n- ❌ 'She haven't to' - SAI\n- ✓ 'She doesn't have to' - ĐÚNG\n\n**Nhớ:** 'have to' là động từ thường, nên phủ định dùng 'don't/doesn't', KHÔNG dùng 'hasn't/haven't'!",
+      "hints": ["She = doesn't have to"],
+      "points": 10
+    },
+    {
+      "id": 23,
+      "type": "multiple-choice",
+      "question": "He __________ study last night because he finished his homework.",
+      "options": ["don't have to", "doesn't have to", "didn't have to", "hasn't to"],
+      "correctIndex": 2,
+      "explanation": "**Phân tích:**\n1. 'last night' = tối qua → **thì quá khứ**\n2. Nghĩa: Anh ấy **không cần** học tối qua vì đã làm xong bài tập\n3. Phủ định quá khứ của 'have to' là **'didn't have to'**\n\n**Cấu trúc phủ định quá khứ:**\n- Tất cả ngôi (I/you/he/she/it/we/they) + **didn't have to** + V\n- Lưu ý: Không phân biệt ngôi ở thì quá khứ!\n\n**Tại sao các đáp án khác sai:**\n- ❌ 'don't have to': hiện tại, không phù hợp 'last night'\n- ❌ 'doesn't have to': hiện tại, không phù hợp 'last night'\n- ❌ 'hasn't to': SAI NGỮ PHÁP - không tồn tại!\n\n**Logic câu:**\n- Anh ấy đã làm xong bài tập → Không cần học thêm\n- 'didn't have to' = đã không cần (vì không còn bắt buộc)\n\n**Mẹo nhớ:** Dấu hiệu quá khứ + không cần thiết → **didn't have to**",
+      "hints": ["Last night = didn't have to"],
+      "points": 10
+    },
+    {
+      "id": 24,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp câu hỏi: you / help your mum / with the housework?",
+      "words": ["Do", "you", "have", "to", "help", "your", "mum", "with", "the", "housework?"],
+      "distractors": ["Did", "does", "must"],
+      "correctSentence": "Do you have to help your mum with the housework?",
+      "acceptedAnswers": [
+        "Do you have to help your mum with the housework?"
+      ],
+      "hints": ["Do + subject + have to + verb?"],
+      "explanation": "**Phân tích cách đặt câu hỏi với 'have to':**\n1. 'have to' là động từ thường → đặt câu hỏi cần trợ động từ **Do/Does/Did**\n2. Chủ ngữ 'you' → dùng 'Do'\n3. Không có dấu hiệu quá khứ → thì hiện tại\n\n**Công thức câu hỏi với 'have to':**\n- Do/Does + S + have to + V (nguyên mẫu)?\n- Hiện tại: Do I/you/we/they have to...? / Does he/she/it have to...?\n- Quá khứ: Did + S + have to...?\n\n**Tại sao các từ bẫy sai:**\n- ❌ 'Did': quá khứ - không có dấu hiệu quá khứ\n- ❌ 'does': dùng cho he/she/it, không dùng cho 'you'\n- ❌ 'must': không đặt câu hỏi kiểu này (Must you...? rất hiếm dùng)\n\n**Lưu ý quan trọng:** Sau Do/Does/Did, PHẢI dùng 'have to' (nguyên mẫu), KHÔNG phải 'has to'!\n- ✓ Does she **have to**...?\n- ❌ Does she **has to**...?",
+      "points": 10
+    },
+    {
+      "id": 25,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp câu hỏi: footballers / eat / special food?",
+      "words": ["Do", "footballers", "have", "to", "eat", "special", "food?"],
+      "distractors": ["Does", "Did", "must"],
+      "correctSentence": "Do footballers have to eat special food?",
+      "acceptedAnswers": [
+        "Do footballers have to eat special food?"
+      ],
+      "hints": ["Do + plural + have to?"],
+      "explanation": "**Phân tích:**\n1. 'footballers' (các cầu thủ) = **số nhiều** → dùng 'Do'\n2. Nghĩa: Các cầu thủ **có phải** ăn thức ăn đặc biệt không?\n3. Không có dấu hiệu quá khứ → thì hiện tại\n\n**Công thức:**\n- Do + chủ ngữ số nhiều + have to + V?\n- 'Do footballers have to eat...?'\n\n**Quy tắc chọn Do/Does:**\n- **Do** + I/you/we/they/danh từ số nhiều (footballers, students...)\n- **Does** + he/she/it/danh từ số ít (a footballer, a student...)\n\n**Tại sao các từ bẫy sai:**\n- ❌ 'Does': dùng cho số ít, 'footballers' là số nhiều\n- ❌ 'Did': quá khứ - không có dấu hiệu quá khứ\n- ❌ 'must': không phù hợp cấu trúc câu hỏi 'have to'\n\n**Mẹo nhớ:** Nhìn chủ ngữ có -s/-es không → có = số nhiều → dùng Do",
+      "points": 10
+    },
+    {
+      "id": 26,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp câu hỏi quá khứ: Ahmed / work / hard to get there?",
+      "words": ["Did", "Ahmed", "have", "to", "work", "hard", "to", "get", "there?"],
+      "distractors": ["Do", "Does", "has"],
+      "correctSentence": "Did Ahmed have to work hard to get there?",
+      "acceptedAnswers": [
+        "Did Ahmed have to work hard to get there?"
+      ],
+      "hints": ["Did + subject + have to?"],
+      "explanation": "**Phân tích:**\n1. Đề bài yêu cầu **câu hỏi quá khứ** → dùng 'Did'\n2. Nghĩa: Ahmed **có phải** làm việc chăm chỉ để đến đó không? (trong quá khứ)\n3. Cấu trúc: Did + S + have to + V?\n\n**Công thức câu hỏi quá khứ:**\n- **Did** + S (tất cả ngôi) + **have to** + V (nguyên mẫu)?\n- Chú ý: Sau 'Did', luôn dùng 'have to' (không phải 'has to' hay 'had to')\n\n**Tại sao các từ bẫy sai:**\n- ❌ 'Do': hiện tại - đề bài yêu cầu quá khứ\n- ❌ 'Does': hiện tại - đề bài yêu cầu quá khứ\n- ❌ 'has': sai cấu trúc - sau 'Did' không dùng 'has'\n\n**Lỗi thường gặp:**\n- ❌ 'Did Ahmed **had to**...?' - SAI!\n- ✓ 'Did Ahmed **have to**...?' - ĐÚNG!\n\n**Nhớ:** Sau Did, động từ luôn ở dạng nguyên mẫu (have to, không phải had to)",
+      "points": 10
+    },
+    {
+      "id": 27,
+      "type": "multiple-choice",
+      "question": "Do you have to eat special food? → Yes, __________",
+      "options": ["I do", "I have", "I am", "I must"],
+      "correctIndex": 0,
+      "explanation": "**Phân tích:**\n1. Câu hỏi dùng **'Do you...'** → trả lời ngắn dùng **'Yes, I do'** hoặc 'No, I don't'\n2. 'have to' là động từ thường → dùng trợ động từ Do/Does/Did để trả lời\n3. Không trả lời bằng 'Yes, I have' hay 'Yes, I am'!\n\n**Quy tắc trả lời ngắn với 'have to':**\n- Do you have to...? → Yes, I **do**. / No, I **don't**.\n- Does she have to...? → Yes, she **does**. / No, she **doesn't**.\n- Did you have to...? → Yes, I **did**. / No, I **didn't**.\n\n**Tại sao các đáp án khác sai:**\n- ❌ 'I have': Sai! 'have to' không trả lời bằng 'Yes, I have'\n- ❌ 'I am': Sai! Không liên quan đến 'have to'\n- ❌ 'I must': Sai! Câu hỏi dùng 'Do', trả lời phải dùng 'do'\n\n**So sánh với 'must':**\n- 'Must you...?' → 'Yes, I must.' (nhưng rất hiếm dùng)\n- 'Do you have to...?' → 'Yes, I do.' (phổ biến hơn)",
+      "hints": ["Yes, I do"],
+      "points": 10
+    },
+    {
+      "id": 28,
+      "type": "multiple-choice",
+      "question": "Did you have to work hard to get there? → No, __________",
+      "options": ["I don't", "I didn't", "I wasn't", "I haven't"],
+      "correctIndex": 1,
+      "explanation": "**Phân tích:**\n1. Câu hỏi dùng **'Did you...'** (quá khứ) → trả lời ngắn phủ định: **'No, I didn't'**\n2. Hỏi quá khứ → trả lời quá khứ\n3. 'have to' dùng trợ động từ Did → trả lời dùng 'didn't'\n\n**Quy tắc trả lời ngắn quá khứ:**\n- Did you have to...? → Yes, I **did**. / No, I **didn't**.\n- Did she have to...? → Yes, she **did**. / No, she **didn't**.\n\n**Tại sao các đáp án khác sai:**\n- ❌ 'I don't': hiện tại - câu hỏi là quá khứ\n- ❌ 'I wasn't': không liên quan đến 'have to'\n- ❌ 'I haven't': sai cấu trúc - 'have to' không trả lời bằng 'haven't'\n\n**Mẹo nhớ:** Nhìn trợ động từ trong câu hỏi → trả lời bằng cùng trợ động từ đó\n- Do...? → Yes, I do / No, I don't\n- Does...? → Yes, she does / No, she doesn't\n- Did...? → Yes, I did / No, I didn't",
+      "hints": ["No, I didn't"],
+      "points": 10
+    },
+    {
+      "id": 29,
+      "type": "multiple-choice",
+      "question": "Does she have to wear a uniform? → Yes, __________",
+      "options": ["she do", "she does", "she is", "she has"],
+      "correctIndex": 1,
+      "explanation": "**Phân tích:**\n1. Câu hỏi dùng **'Does she...'** → trả lời ngắn: **'Yes, she does'**\n2. 'she' = ngôi thứ 3 số ít → dùng 'does' (không phải 'do')\n3. Trợ động từ Does → trả lời bằng 'does'\n\n**Quy tắc trả lời ngắn ngôi 3 số ít:**\n- Does he/she/it have to...? → Yes, he/she/it **does**. / No, he/she/it **doesn't**.\n\n**Tại sao các đáp án khác sai:**\n- ❌ 'she do': sai ngữ pháp - 'she' cần 'does'\n- ❌ 'she is': không liên quan đến 'have to'\n- ❌ 'she has': sai! 'have to' trả lời bằng 'does', không phải 'has'\n\n**Lỗi thường gặp:**\n- ❌ 'Yes, she has.' - SAI (dù 'have to' có 'have')\n- ✓ 'Yes, she does.' - ĐÚNG\n\n**Nhớ:** 'have to' là động từ thường → dùng do/does/did để trả lời, KHÔNG dùng have/has/had!",
+      "hints": ["Yes, she does"],
+      "points": 10
+    },
+    {
+      "id": 30,
+      "type": "multiple-choice",
+      "question": "I __________ go to the doctor tomorrow, but I'm not sure yet. I feel a bit ill.",
+      "options": ["may", "have to", "must", "will"],
+      "correctIndex": 0,
+      "explanation": "**Phân tích:**\n1. Câu nói rõ **'but I'm not sure yet'** (nhưng tôi chưa chắc) → đang cân nhắc → **khả năng**\n2. 'I feel a bit ill' = ốm nhẹ → chưa chắc chắn phải đi\n3. 'may' diễn tả: Tôi **có thể** sẽ đi bác sĩ (đang cân nhắc)\n\n**Tại sao các đáp án khác sai:**\n- ❌ 'have to': bắt buộc - mâu thuẫn với 'I'm not sure yet'\n- ❌ 'must': bắt buộc mạnh - mâu thuẫn với 'I'm not sure yet'\n- ❌ 'will': chắc chắn - mâu thuẫn với 'I'm not sure yet'\n\n**Mẹo nhớ:** Khi thấy 'I'm not sure' (không chắc) → dùng **may/might/could**",
+      "hints": ["Không chắc chắn = modal khả năng"],
+      "points": 10
+    },
+    {
+      "id": 31,
+      "type": "multiple-choice",
+      "question": "You __________ wear a helmet when you ride a bike. It's the law.",
+      "options": ["might", "have to", "could", "may"],
+      "correctIndex": 1,
+      "explanation": "**Phân tích:**\n1. Câu nói rõ **'It's the law'** (Đó là luật) → bắt buộc theo pháp luật → **have to**\n2. 'have to' diễn tả bắt buộc do **quy định/luật lệ bên ngoài**\n3. Cấu trúc: You + have to + V (nguyên mẫu)\n\n**Tại sao các đáp án khác sai:**\n- ❌ 'might': chỉ khả năng - mâu thuẫn với 'It's the law'\n- ❌ 'could': chỉ khả năng - mâu thuẫn với 'It's the law'\n- ❌ 'may': chỉ khả năng hoặc xin phép - mâu thuẫn với 'It's the law'\n\n**Mẹo nhớ:** Khi thấy 'It's the law' (luật pháp) → dùng **have to** (bắt buộc từ bên ngoài)",
+      "hints": ["Quy định an toàn = bắt buộc"],
+      "points": 10
+    },
+    {
+      "id": 32,
+      "type": "multiple-choice",
+      "question": "She __________ become a teacher one day.",
+      "options": ["has to", "could", "have to", "must"],
+      "correctIndex": 1,
+      "explanation": "**Phân tích:**\n1. 'one day' (một ngày nào đó) → nói về **khả năng trong tương lai xa**\n2. 'could' diễn tả: Cô ấy **có thể** trở thành giáo viên - chưa biết chắc\n3. Cấu trúc: S + could + V (nguyên mẫu)\n\n**Tại sao dùng 'could':**\n- 'one day' = tương lai xa, không xác định → dùng modal khả năng\n- Không ai biết chắc ai sẽ làm gì trong tương lai\n\n**Tại sao các đáp án khác sai:**\n- ❌ 'has to': bắt buộc - không ai bắt cô ấy phải làm giáo viên\n- ❌ 'have to': sai ngôi - 'she' cần 'has to', không phải 'have to'\n- ❌ 'must': suy luận/bắt buộc - không phù hợp với 'one day'\n\n**So sánh could/might/may:**\n- Cả ba đều diễn tả khả năng\n- 'could' thường dùng khi có điều kiện ngầm: 'Nếu cô ấy muốn, cô ấy có thể...'\n- 'might/may' đơn giản hơn: 'Có thể...'",
+      "hints": ["Khả năng tương lai"],
+      "points": 10
+    },
+    {
+      "id": 33,
+      "type": "multiple-choice",
+      "question": "We __________ go to school on Saturdays.",
+      "options": ["may not", "don't have to", "might not", "could not"],
+      "correctIndex": 1,
+      "explanation": "**Phân tích:**\n1. Thứ Bảy không có trường → **không cần thiết** đi học\n2. 'don't have to' = không cần, không bắt buộc (có thể đi nếu muốn)\n3. Đây là sự thật khách quan về lịch học\n\n**Tại sao dùng 'don't have to':**\n- Trường không yêu cầu đi học thứ Bảy\n- Không phải cấm đoán, chỉ là không cần thiết\n\n**Tại sao các đáp án khác sai:**\n- ❌ 'may not': khả năng không - không phù hợp ngữ cảnh\n- ❌ 'might not': khả năng không - không phù hợp ngữ cảnh\n- ❌ 'could not': không thể - nhưng thứ Bảy vẫn có thể đến trường nếu muốn\n\n**Quan trọng - Phân biệt:**\n- 'don't have to' = **không cần** (có thể làm nếu muốn)\n- 'mustn't' = **không được phép** (cấm)\n\n**Ví dụ:**\n- 'You don't have to come' = Bạn không cần đến (nhưng đến cũng được)\n- 'You mustn't come' = Bạn không được đến (bị cấm)",
+      "hints": ["Không cần thiết = don't have to"],
+      "points": 10
+    },
+    {
+      "id": 34,
+      "type": "multiple-choice",
+      "question": "Sửa lỗi: 'He mights win the competition.'",
+      "options": [
+        "He might win the competition",
+        "He mights win the competition",
+        "He might wins the competition",
+        "He might to win the competition"
+      ],
+      "correctIndex": 0,
+      "explanation": "**Phân tích lỗi:**\n1. Câu sai: 'He **mights** win' - thêm -s vào modal verb\n2. Lỗi: Modal verbs **KHÔNG BAO GIỜ** thêm -s, kể cả với ngôi thứ 3 số ít\n3. Câu đúng: 'He **might** win the competition'\n\n**Quy tắc quan trọng về Modal Verbs:**\n- Modal verbs (might, may, could, can, will, must...) **KHÔNG đổi dạng** theo ngôi\n- ✓ He might / She might / It might (đúng)\n- ❌ He mights / She mights / It mights (sai)\n\n**Tại sao các đáp án khác sai:**\n- ❌ 'He mights win': giữ nguyên lỗi\n- ❌ 'He might wins': thêm -s vào động từ sau modal (sai!)\n- ❌ 'He might to win': thêm 'to' sau modal (sai!)\n\n**So sánh với động từ thường:**\n- Động từ thường: He **plays**, She **goes** (thêm -s)\n- Modal verbs: He **might**, She **can** (KHÔNG thêm -s)\n\n**Nhớ:** Modal + V (nguyên mẫu, không to, không -s)",
+      "hints": ["Không có -s trên modal verbs"],
+      "points": 10
+    },
+    {
+      "id": 35,
+      "type": "multiple-choice",
+      "question": "Sửa lỗi: 'She may goes to university.'",
+      "options": [
+        "She may go to university",
+        "She may goes to university",
+        "She mays go to university",
+        "She may to go to university"
+      ],
+      "correctIndex": 0,
+      "explanation": "**Phân tích lỗi:**\n1. Câu sai: 'She may **goes**' - thêm -s vào động từ sau modal\n2. Lỗi: Sau modal verbs, động từ **LUÔN ở dạng nguyên mẫu** (không -s, không -ed)\n3. Câu đúng: 'She may **go** to university'\n\n**Quy tắc sau Modal Verbs:**\n- Modal + V **nguyên mẫu** (base form)\n- ✓ She may **go**, He might **come**, They could **win**\n- ❌ She may **goes**, He might **comes**, They could **wins**\n\n**Tại sao các đáp án khác sai:**\n- ❌ 'She may goes': giữ nguyên lỗi (-s sau modal)\n- ❌ 'She mays go': thêm -s vào modal (modal không đổi dạng!)\n- ❌ 'She may to go': thêm 'to' sau modal (không có 'to' sau modal!)\n\n**So sánh:**\n- Động từ thường: She **goes** to school (thêm -s)\n- Sau modal: She may **go** to school (nguyên mẫu)\n\n**Lỗi rất phổ biến:** Học sinh thường nhầm lẫn và thêm -s cho ngôi 3 số ít ngay cả sau modal. Cần nhớ: Modal + động từ NGUYÊN MẪU!",
+      "hints": ["may + base verb"],
+      "points": 10
+    },
+    {
+      "id": 36,
+      "type": "multiple-choice",
+      "question": "Sửa lỗi: 'They have study hard.'",
+      "options": [
+        "They have to study hard",
+        "They have study hard",
+        "They has to study hard",
+        "They have studied hard"
+      ],
+      "correctIndex": 0,
+      "explanation": "**Phân tích lỗi:**\n1. Câu sai: 'They have study' - thiếu 'to'\n2. Lỗi: 'have to' là một cụm cố định, **KHÔNG thể bỏ 'to'**\n3. Câu đúng: 'They **have to** study hard'\n\n**Quy tắc với 'have to':**\n- 'have to' là một cụm hoàn chỉnh, luôn đi cùng nhau\n- Cấu trúc: S + have to / has to + V (nguyên mẫu)\n- ✓ They **have to** study\n- ❌ They **have** study\n\n**Tại sao các đáp án khác sai:**\n- ❌ 'They have study hard': giữ nguyên lỗi (thiếu 'to')\n- ❌ 'They has to study hard': sai ngôi - 'they' cần 'have', không phải 'has'\n- ❌ 'They have studied hard': thì hiện tại hoàn thành - nghĩa khác hoàn toàn!\n\n**Phân biệt:**\n- 'They **have to** study' = Họ phải học (bắt buộc) - hiện tại đơn\n- 'They **have studied**' = Họ đã học (hoàn thành) - hiện tại hoàn thành\n\n**Lưu ý:** Không nhầm lẫn 'have to' (bắt buộc) với 'have + V-ed' (hiện tại hoàn thành)!",
+      "hints": ["have to + base verb"],
+      "points": 10
+    },
+    {
+      "id": 37,
+      "type": "multiple-choice",
+      "question": "Sửa lỗi: 'I could to become a doctor.'",
+      "options": [
+        "I could become a doctor",
+        "I could to become a doctor",
+        "I could becoming a doctor",
+        "I could becomes a doctor"
+      ],
+      "correctIndex": 0,
+      "explanation": "**Phân tích lỗi:**\n1. Câu sai: 'I could **to** become' - thêm 'to' sau modal\n2. Lỗi: Sau modal verbs **KHÔNG CÓ 'to'**\n3. Câu đúng: 'I **could become** a doctor'\n\n**Quy tắc sau Modal Verbs:**\n- Modal + V **nguyên mẫu KHÔNG có 'to'**\n- ✓ I could **become**, She might **go**, They may **come**\n- ❌ I could **to become**, She might **to go**, They may **to come**\n\n**Tại sao các đáp án khác sai:**\n- ❌ 'I could to become': giữ nguyên lỗi (có 'to')\n- ❌ 'I could becoming': dùng V-ing sau modal (sai!)\n- ❌ 'I could becomes': thêm -s sau modal (sai!)\n\n**So sánh với 'want to':**\n- 'want to' CÓ 'to': I **want to** become a doctor\n- Modal verbs KHÔNG có 'to': I **could** become a doctor\n\n**Danh sách modal verbs (không có 'to' sau chúng):**\ncan, could, may, might, will, would, shall, should, must\n\n**Mẹo nhớ:** Modal + V (không to, không -s, không -ing)",
+      "hints": ["Không có 'to' sau could"],
+      "points": 10
+    },
+    {
+      "id": 38,
+      "type": "multiple-choice",
+      "question": "Sửa lỗi: 'Does she has to wear a uniform?'",
+      "options": [
+        "Does she have to wear a uniform",
+        "Does she has to wear a uniform",
+        "Do she have to wear a uniform",
+        "Does she having to wear a uniform"
+      ],
+      "correctIndex": 0,
+      "explanation": "**Phân tích lỗi:**\n1. Câu sai: 'Does she **has** to' - dùng 'has' sau 'Does'\n2. Lỗi: Sau trợ động từ Does/Did, động từ phải ở dạng **nguyên mẫu**\n3. Câu đúng: 'Does she **have to** wear a uniform?'\n\n**Quy tắc với Do/Does/Did:**\n- Sau Do/Does/Did, động từ luôn ở **dạng nguyên mẫu**\n- ✓ Does she **have** to...?\n- ❌ Does she **has** to...?\n\n**Tại sao các đáp án khác sai:**\n- ❌ 'Does she has to': giữ nguyên lỗi (has sau Does)\n- ❌ 'Do she have to': 'she' cần 'Does', không phải 'Do'\n- ❌ 'Does she having to': không dùng V-ing sau Does\n\n**So sánh:**\n- Câu khẳng định: She **has to** wear (has vì ngôi 3 số ít)\n- Câu hỏi: **Does** she **have to** wear? (have vì sau Does)\n\n**Lỗi rất phổ biến:** Học sinh thường dùng 'has' với ngôi 3 số ít ngay cả trong câu hỏi. Nhớ: Sau Does → **have to** (không phải has to)!",
+      "hints": ["Does + have to (không phải has to)"],
+      "points": 10
+    },
+    {
+      "id": 39,
+      "type": "multiple-choice",
+      "question": "Sửa lỗi: 'It might rains tomorrow.'",
+      "options": [
+        "It might rain tomorrow",
+        "It might rains tomorrow",
+        "It mights rain tomorrow",
+        "It might to rain tomorrow"
+      ],
+      "correctIndex": 0,
+      "explanation": "**Phân tích lỗi:**\n1. Câu sai: 'It might **rains**' - thêm -s vào động từ sau modal\n2. Lỗi: Sau modal, động từ luôn ở **dạng nguyên mẫu** (không -s)\n3. Câu đúng: 'It might **rain** tomorrow'\n\n**Tại sao sai:**\n- 'It' là ngôi 3 số ít → học sinh hay nhầm thêm -s\n- Nhưng sau modal verbs, KHÔNG bao giờ thêm -s!\n\n**Tại sao các đáp án khác sai:**\n- ❌ 'It might rains': giữ nguyên lỗi (-s sau might)\n- ❌ 'It mights rain': thêm -s vào modal (sai!)\n- ❌ 'It might to rain': thêm 'to' sau modal (sai!)\n\n**Quy tắc vàng về Modal Verbs:**\n1. Modal KHÔNG đổi dạng: might (không phải mights)\n2. Động từ sau modal KHÔNG đổi dạng: rain (không phải rains)\n3. KHÔNG có 'to' giữa modal và động từ\n\n**Công thức:** S + Modal + V (nguyên mẫu)\n- ✓ It might **rain** / He could **come** / She may **go**\n- ❌ It might **rains** / He could **comes** / She may **goes**",
+      "hints": ["might + base verb (không có -s)"],
+      "points": 10
+    },
+    {
+      "id": 40,
+      "type": "multiple-choice",
+      "question": "If you study hard, you __________ pass the exam. (không chắc chắn 100%)",
+      "options": ["will", "could", "have to", "must"],
+      "correctIndex": 1,
+      "explanation": "**Phân tích:**\n1. Đề bài ghi rõ **(không chắc chắn 100%)** → phải dùng modal diễn tả khả năng\n2. Câu điều kiện: 'If you study hard' (điều kiện) → 'you... pass' (kết quả)\n3. 'could' diễn tả **khả năng có điều kiện** - không đảm bảo 100%\n\n**Tại sao các đáp án khác sai:**\n- ❌ 'will': chắc chắn 100% - mâu thuẫn với '(không chắc chắn 100%)'\n- ❌ 'have to': bắt buộc - không phù hợp ngữ cảnh\n- ❌ 'must': bắt buộc/suy luận - không phù hợp ngữ cảnh\n\n**Mẹo nhớ:** Khi thấy '(không chắc chắn 100%)' → dùng **could/might/may**, KHÔNG dùng 'will'",
+      "hints": ["Có thể đậu, không chắc chắn"],
+      "points": 10
+    },
+    {
+      "id": 41,
+      "type": "multiple-choice",
+      "question": "We __________ stay home this weekend. We haven't decided yet.",
+      "options": ["might", "have to", "must", "will"],
+      "correctIndex": 0,
+      "explanation": "**Phân tích:**\n1. Cụm 'We haven't decided yet' = chưa quyết định → **khả năng không chắc chắn**\n2. 'might' diễn tả: Chúng tôi **có thể** ở nhà - đang cân nhắc\n3. Khi chưa quyết định → dùng modal khả năng\n\n**Dấu hiệu quan trọng:**\n- 'haven't decided yet' = chưa quyết định\n- 'not sure' = không chắc\n- 'maybe' = có thể\n→ Những cụm này gợi ý dùng might/may/could\n\n**Tại sao các đáp án khác sai:**\n- ❌ 'have to': bắt buộc - nhưng họ chưa quyết định, không bị bắt buộc\n- ❌ 'must': suy luận/bắt buộc - không phù hợp 'haven't decided'\n- ❌ 'will': chắc chắn - mâu thuẫn với 'haven't decided yet'\n\n**Logic câu:**\n- Chưa quyết định = chưa chắc chắn = dùng **might**\n- Đã quyết định = chắc chắn = dùng **will**\n\n**Ví dụ tương tự:**\n- 'I might go' (chưa quyết định) vs 'I will go' (đã quyết định)",
+      "hints": ["Có thể, chưa chắc chắn"],
+      "points": 10
+    },
+    {
+      "id": 42,
+      "type": "multiple-choice",
+      "question": "She __________ wear glasses now. The doctor said her eyes are too weak.",
+      "options": ["might", "has to", "could", "may"],
+      "correctIndex": 1,
+      "explanation": "**Phân tích:**\n1. Câu nói rõ **'The doctor said her eyes are too weak'** (Bác sĩ nói mắt quá yếu) → **bắt buộc** theo lời bác sĩ\n2. 'has to' diễn tả bắt buộc do **lời khuyên y tế/hoàn cảnh**\n3. 'she' = ngôi 3 số ít → 'has to' (không phải 'have to')\n\n**Tại sao các đáp án khác sai:**\n- ❌ 'might': chỉ khả năng - mâu thuẫn với 'The doctor said' (bác sĩ đã chẩn đoán)\n- ❌ 'could': chỉ khả năng - mâu thuẫn với lời bác sĩ\n- ❌ 'may': chỉ khả năng - mâu thuẫn với lời bác sĩ\n\n**Mẹo nhớ:** Khi thấy 'The doctor said' (bác sĩ nói) → dùng **has to** (bắt buộc theo y tế)",
+      "hints": ["Cần thiết = has to"],
+      "points": 10
+    },
+    {
+      "id": 43,
+      "type": "multiple-choice",
+      "question": "The weather is bad. The flight __________ be delayed.",
+      "options": ["will", "may", "has to", "must"],
+      "correctIndex": 1,
+      "explanation": "**Phân tích:**\n1. 'The weather is bad' = Thời tiết xấu → **có khả năng** ảnh hưởng chuyến bay\n2. 'may be delayed' = **có thể** bị hoãn (không chắc chắn 100%)\n3. Thời tiết xấu không luôn = hoãn chuyến bay\n\n**Tại sao dùng 'may':**\n- Thời tiết xấu tạo ra khả năng hoãn, không phải chắc chắn hoãn\n- 'may' diễn tả dự đoán có cơ sở nhưng không tuyệt đối\n\n**Tại sao các đáp án khác không phù hợp:**\n- ❌ 'will': chắc chắn 100% - nhưng không phải lúc nào thời tiết xấu cũng hoãn\n- ❌ 'has to': bắt buộc - chuyến bay không 'phải' bị hoãn\n- ❌ 'must': suy luận chắc chắn - quá mạnh cho ngữ cảnh này\n\n**So sánh các mức độ:**\n- 'may be delayed' = có thể bị hoãn (50-70% khả năng)\n- 'will be delayed' = chắc chắn bị hoãn (100%)\n- 'might be delayed' = có thể bị hoãn (30-50% khả năng)\n\n**Ngữ cảnh thực tế:** Khi thời tiết xấu, hãng bay thường thông báo 'may be delayed' (có thể hoãn), không phải 'will be delayed' (chắc chắn hoãn)",
+      "hints": ["Có thể bị hoãn"],
+      "points": 10
+    },
+    {
+      "id": 44,
+      "type": "multiple-choice",
+      "question": "Do you __________ work on Saturdays?",
+      "options": ["have to", "has to", "might", "could"],
+      "correctIndex": 0,
+      "explanation": "**Phân tích:**\n1. Câu hỏi về **sự bắt buộc**: 'Bạn có phải làm việc thứ Bảy không?'\n2. Sau 'Do you', dùng **'have to'** (dạng nguyên mẫu)\n3. Cấu trúc: Do + S + have to + V?\n\n**Tại sao dùng 'have to':**\n- Hỏi về nghĩa vụ/quy định công việc\n- Sau 'Do', động từ luôn ở dạng nguyên mẫu → 'have to'\n\n**Tại sao các đáp án khác sai:**\n- ❌ 'has to': Sai! Sau 'Do', dùng 'have to', KHÔNG phải 'has to'\n- ❌ 'might': chỉ khả năng - không hỏi về bắt buộc\n- ❌ 'could': chỉ khả năng - không hỏi về bắt buộc\n\n**Quy tắc câu hỏi với 'have to':**\n- Do I/you/we/they + **have to** + V?\n- Does he/she/it + **have to** + V? (KHÔNG phải 'has to'!)\n\n**Lỗi thường gặp:**\n- ❌ 'Do you has to...?' - SAI\n- ❌ 'Does she has to...?' - SAI\n- ✓ 'Do you have to...?' - ĐÚNG\n- ✓ 'Does she have to...?' - ĐÚNG (have, không phải has)",
+      "hints": ["Do + have to"],
+      "points": 10
+    },
+    {
+      "id": 45,
+      "type": "multiple-choice",
+      "question": "He __________ be at home. His car is in the garage, but I'm not certain.",
+      "options": ["might", "has to", "must", "will"],
+      "correctIndex": 0,
+      "explanation": "**Phân tích:**\n1. Câu nói rõ **'but I'm not certain'** (nhưng tôi không chắc) → suy đoán không chắc chắn → **might**\n2. 'might' diễn tả: Anh ấy **có thể** ở nhà - dựa trên suy đoán\n3. Xe ở nhà không đảm bảo 100% anh ấy ở nhà (có thể đi taxi, đi bộ...)\n\n**Tại sao các đáp án khác sai:**\n- ❌ 'has to': bắt buộc - không phù hợp ngữ cảnh suy đoán\n- ❌ 'must': suy luận chắc chắn - mâu thuẫn với 'I'm not certain'\n- ❌ 'will': chắc chắn - mâu thuẫn với 'I'm not certain'\n\n**Mẹo nhớ:** Khi thấy 'I'm not certain' (không chắc chắn) → dùng **might**, KHÔNG dùng 'must'",
+      "hints": ["Có thể ở nhà"],
+      "points": 10
+    },
+    {
+      "id": 46,
+      "type": "multiple-choice",
+      "question": "Students __________ bring their ID cards to the exam.",
+      "options": ["might", "have to", "could", "may"],
+      "correctIndex": 1,
+      "explanation": "**Phân tích:**\n1. Đây là **quy định bắt buộc** của kỳ thi - phải mang thẻ sinh viên\n2. 'have to' diễn tả bắt buộc do **quy định/luật lệ bên ngoài**\n3. 'Students' = số nhiều → dùng 'have to' (không phải 'has to')\n\n**Tại sao dùng 'have to':**\n- Quy định thi cử yêu cầu mang CMND/thẻ SV\n- Đây là quy định từ nhà trường/ban tổ chức\n\n**Tại sao các đáp án khác sai:**\n- ❌ 'might': chỉ khả năng - nhưng đây là quy định bắt buộc\n- ❌ 'could': chỉ khả năng - không phù hợp quy định thi\n- ❌ 'may': chỉ khả năng/xin phép - không phù hợp\n\n**Ngữ cảnh thi cử:**\n- Mang thẻ ID là **bắt buộc** → have to\n- Nếu không mang → không được thi\n\n**So sánh:**\n- 'Students **have to** bring ID' = Quy định bắt buộc\n- 'Students **should** bring ID' = Lời khuyên (nên mang)\n- 'Students **might** bring ID' = Có thể mang (không chắc)",
+      "hints": ["Bắt buộc = have to"],
+      "points": 10
+    },
+    {
+      "id": 47,
+      "type": "multiple-choice",
+      "question": "I'm not sure, but I __________ be late for the meeting.",
+      "options": ["will", "could", "have to", "must"],
+      "correctIndex": 1,
+      "explanation": "**Phân tích:**\n1. 'I'm not sure' = Tôi không chắc → **khả năng không chắc chắn**\n2. 'could' diễn tả: Tôi **có thể** bị trễ - đang cân nhắc khả năng\n3. Cụm 'I'm not sure' là dấu hiệu rõ ràng cần dùng modal khả năng\n\n**Tại sao dùng 'could':**\n- 'I'm not sure' cho thấy người nói đang suy đoán\n- 'could' phù hợp với sự không chắc chắn\n\n**Tại sao các đáp án khác sai:**\n- ❌ 'will': chắc chắn 100% - mâu thuẫn với 'I'm not sure'\n- ❌ 'have to': bắt buộc - không ai bắt bạn phải trễ\n- ❌ 'must': suy luận chắc chắn - mâu thuẫn với 'I'm not sure'\n\n**Dấu hiệu cần dùng might/may/could:**\n- 'I'm not sure' = không chắc\n- 'Maybe' = có thể\n- 'Perhaps' = có lẽ\n- 'I think' = tôi nghĩ (không chắc)\n\n**Logic câu:**\n'I'm not sure' + 'but' → giới thiệu một khả năng → dùng **could**",
+      "hints": ["Khả năng, chưa biết"],
+      "points": 10
+    },
+    {
+      "id": 48,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp câu: He / not / might / come / to / the / meeting",
+      "words": ["He", "might", "not", "come", "to", "the", "meeting."],
+      "distractors": ["will", "must", "has"],
+      "correctSentence": "He might not come to the meeting.",
+      "acceptedAnswers": [
+        "He might not come to the meeting.",
+        "He may not come to the meeting."
+      ],
+      "hints": ["might not + base verb"],
+      "explanation": "**Phân tích cấu trúc:**\n1. Câu diễn tả **khả năng phủ định** - anh ấy có thể không đến\n2. Cấu trúc: S + might/may + **not** + V (nguyên mẫu)\n3. 'not' đứng **SAU** modal verb, **TRƯỚC** động từ chính\n\n**Thứ tự đúng:**\n- He + might + not + come + to the meeting\n- 'He might not come to the meeting.'\n\n**Quy tắc phủ định với modal verbs:**\n- S + modal + **not** + V\n- might not / may not / could not / will not\n- 'not' luôn đứng ngay sau modal\n\n**Tại sao các từ bẫy sai:**\n- ❌ 'will': quá chắc chắn cho ngữ cảnh này\n- ❌ 'must': suy luận chắc chắn, không phù hợp\n- ❌ 'has': không phù hợp cấu trúc\n\n**Lưu ý viết tắt:**\n- 'might not' → 'mightn't' (hiếm dùng)\n- 'may not' → KHÔNG viết tắt (không có 'mayn't')",
+      "points": 10
+    },
+    {
+      "id": 49,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp câu: She / has to / get up / early / every day",
+      "words": ["She", "has", "to", "get", "up", "early", "every", "day."],
+      "distractors": ["have", "might", "could"],
+      "correctSentence": "She has to get up early every day.",
+      "acceptedAnswers": [
+        "She has to get up early every day."
+      ],
+      "hints": ["She + has to"],
+      "explanation": "**Phân tích cấu trúc:**\n1. Câu diễn tả **thói quen bắt buộc** - cô ấy phải dậy sớm mỗi ngày\n2. 'She' = ngôi 3 số ít → dùng **'has to'** (không phải 'have to')\n3. Cấu trúc: S + has to + V (nguyên mẫu)\n\n**Thứ tự đúng:**\n- She + has + to + get up + early + every day\n- 'She has to get up early every day.'\n\n**Quy tắc chia 'have to':**\n- I/You/We/They + **have to**\n- He/She/It + **has to**\n- 'She' = ngôi 3 số ít → **has to**\n\n**Tại sao các từ bẫy sai:**\n- ❌ 'have': sai ngôi - 'she' cần 'has'\n- ❌ 'might/could': chỉ khả năng - nhưng đây là thói quen bắt buộc\n\n**Ngữ cảnh:**\n- 'every day' cho thấy đây là thói quen/lịch trình cố định\n- Cô ấy PHẢI dậy sớm (có thể do công việc, học tập...)\n\n**Phrasal verb:** 'get up' = thức dậy (động từ cụm)",
+      "points": 10
+    },
+    {
+      "id": 50,
+      "type": "multiple-choice",
+      "question": "You __________ take an umbrella. It might rain.",
+      "options": ["might", "could", "should", "have to"],
+      "correctIndex": 2,
+      "explanation": "**Phân tích:**\n1. 'It might rain' = Trời có thể mưa → đưa ra **lời khuyên** nên mang ô\n2. 'should' diễn tả **lời khuyên** - bạn nên mang ô (nhưng không bắt buộc)\n3. Đây là gợi ý tốt, không phải mệnh lệnh\n\n**Tại sao dùng 'should':**\n- Trời có thể mưa → khuyên mang ô để phòng\n- 'should' = nên (lời khuyên nhẹ nhàng)\n\n**Tại sao các đáp án khác không phù hợp:**\n- ❌ 'might': khả năng - nhưng đây là lời khuyên, không phải khả năng\n- ❌ 'could': khả năng - không phù hợp ngữ cảnh khuyên\n- ❌ 'have to': bắt buộc - nhưng mang ô không bắt buộc, chỉ là lời khuyên\n\n**So sánh mức độ:**\n- 'You **should** take...' = Bạn NÊN mang (khuyên, không bắt buộc)\n- 'You **have to** take...' = Bạn PHẢI mang (bắt buộc)\n- 'You **might** take...' = Bạn CÓ THỂ mang (khả năng)\n\n**Ngữ cảnh:** Khi đưa ra lời khuyên dựa trên khả năng → dùng **should**",
+      "hints": ["Nên mang theo ô"],
+      "points": 10
+    },
+    {
+      "id": 51,
+      "type": "multiple-choice",
+      "question": "We __________ run in the library. It's the rule.",
+      "options": ["might not", "don't have to", "must not", "could not"],
+      "correctIndex": 2,
+      "explanation": "**Phân tích:**\n1. 'It's the rule' = Đây là quy định → **cấm đoán**\n2. 'must not' (mustn't) diễn tả **cấm** - không được phép làm\n3. Chạy trong thư viện bị CẤM, không chỉ là 'không cần'\n\n**Tại sao dùng 'must not':**\n- 'It's the rule' = quy định → cấm đoán\n- 'mustn't' = không được phép, bị cấm\n\n**QUAN TRỌNG - Phân biệt:**\n- **mustn't** = **CẤM** (không được phép)\n- **don't have to** = **KHÔNG CẦN** (không bắt buộc, có thể làm nếu muốn)\n\n**Tại sao các đáp án khác sai:**\n- ❌ 'might not': khả năng không - không phải cấm đoán\n- ❌ 'don't have to': không cần - nhưng đây là quy định CẤM, không phải 'không cần'\n- ❌ 'could not': không thể - không phù hợp ngữ cảnh cấm\n\n**Ví dụ phân biệt mustn't vs don't have to:**\n- 'You **mustn't** run' = Bạn KHÔNG ĐƯỢC chạy (cấm)\n- 'You **don't have to** run' = Bạn KHÔNG CẦN chạy (có thể đi bộ)\n\n**Lỗi thường gặp:** Nhầm 'mustn't' với 'don't have to' - HAI CÁI KHÁC HOÀN TOÀN!",
+      "hints": ["Không được chạy"],
+      "points": 10
+    },
+    {
+      "id": 52,
+      "type": "multiple-choice",
+      "question": "You __________ pay. It's free.",
+      "options": ["might not", "don't have to", "must not", "could not"],
+      "correctIndex": 1,
+      "explanation": "**Phân tích:**\n1. 'It's free' = Miễn phí → **không cần** trả tiền\n2. 'don't have to' diễn tả **không cần thiết** - không bắt buộc phải làm\n3. Miễn phí = không cần trả, nhưng nếu muốn góp tiền vẫn có thể\n\n**Tại sao dùng 'don't have to':**\n- Miễn phí → không bắt buộc trả tiền\n- 'don't have to' = không cần (có thể làm nếu muốn)\n\n**QUAN TRỌNG - Phân biệt:**\n- **don't have to** = **KHÔNG CẦN** (có thể làm nếu muốn)\n- **mustn't** = **CẤM** (không được phép)\n\n**Tại sao các đáp án khác sai:**\n- ❌ 'might not': khả năng không - không phù hợp\n- ❌ 'must not': CẤM trả tiền - nhưng vẫn có thể trả nếu muốn (tip, donate)\n- ❌ 'could not': không thể - vô nghĩa trong ngữ cảnh này\n\n**Ví dụ so sánh:**\n- 'You **don't have to** pay' = Không cần trả (miễn phí, nhưng có thể tip)\n- 'You **mustn't** pay' = CẤM trả (không có nghĩa trong thực tế)\n\n**Mẹo nhớ:** Miễn phí/tự nguyện → **don't have to** | Cấm → **mustn't**",
+      "hints": ["Miễn phí, không cần trả tiền"],
+      "points": 10
+    },
+    {
+      "id": 53,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp câu hỏi: Does / he / have to / wear / a / uniform?",
+      "words": ["Does", "he", "have", "to", "wear", "a", "uniform?"],
+      "distractors": ["Do", "has", "must"],
+      "correctSentence": "Does he have to wear a uniform?",
+      "acceptedAnswers": [
+        "Does he have to wear a uniform?"
+      ],
+      "hints": ["Does + he + have to"],
+      "explanation": "**Phân tích cấu trúc:**\n1. 'he' = ngôi 3 số ít → dùng **'Does'** trong câu hỏi\n2. Sau 'Does', dùng **'have to'** (KHÔNG phải 'has to')\n3. Cấu trúc: Does + S + have to + V?\n\n**Thứ tự đúng:**\n- Does + he + have to + wear + a uniform?\n- 'Does he have to wear a uniform?'\n\n**Quy tắc quan trọng:**\n- Câu khẳng định: He **has to** wear (has vì ngôi 3)\n- Câu hỏi: **Does** he **have to** wear? (have vì sau Does)\n\n**Tại sao các từ bẫy sai:**\n- ❌ 'Do': 'he' cần 'Does', không phải 'Do'\n- ❌ 'has': Sau 'Does', dùng 'have', KHÔNG phải 'has'\n- ❌ 'must': không phù hợp cấu trúc câu hỏi với 'have to'\n\n**Lỗi cực kỳ phổ biến:**\n- ❌ 'Does he **has to**...?' - SAI!\n- ✓ 'Does he **have to**...?' - ĐÚNG!\n\n**Nhớ:** Sau Do/Does/Did → động từ nguyên mẫu (have, không phải has)",
+      "points": 10
+    },
+    {
+      "id": 54,
+      "type": "multiple-choice",
+      "question": "If the weather is nice, we __________ go for a picnic. We haven't decided yet.",
+      "options": ["might", "have to", "must", "will"],
+      "correctIndex": 0,
+      "explanation": "**Phân tích:**\n1. Câu nói rõ **'We haven't decided yet'** (Chúng tôi chưa quyết định) → **khả năng**, không phải chắc chắn\n2. 'might' diễn tả khả năng khi chưa quyết định\n3. Câu điều kiện: 'If the weather is nice' → nếu thời tiết đẹp\n\n**Tại sao các đáp án khác sai:**\n- ❌ 'have to': bắt buộc - không ai bắt đi picnic\n- ❌ 'must': bắt buộc - không phù hợp\n- ❌ 'will': đã quyết định chắc chắn - mâu thuẫn với 'haven't decided yet'\n\n**Mẹo nhớ:** Khi thấy 'haven't decided yet' (chưa quyết định) → dùng **might**, KHÔNG dùng 'will'",
+      "hints": ["Có thể đi picnic"],
+      "points": 10
+    },
+    {
+      "id": 55,
+      "type": "multiple-choice",
+      "question": "The museum is free. You __________ buy tickets.",
+      "options": ["might not", "don't have to", "must not", "won't"],
+      "correctIndex": 1,
+      "explanation": "**Phân tích:**\n1. 'The museum is free' = Bảo tàng miễn phí → **không cần** mua vé\n2. 'don't have to' diễn tả **không cần thiết** - không bắt buộc\n3. Miễn phí = không cần mua vé để vào\n\n**Tại sao dùng 'don't have to':**\n- Bảo tàng miễn phí → không yêu cầu mua vé\n- Vẫn có thể đóng góp/mua vé ủng hộ nếu muốn\n\n**Tại sao các đáp án khác sai:**\n- ❌ 'might not': khả năng không - không phù hợp ngữ cảnh miễn phí\n- ❌ 'must not': CẤM mua vé - vô nghĩa! (vẫn có thể mua nếu muốn)\n- ❌ 'won't': sẽ không - diễn tả tương lai, không phải sự cần thiết\n\n**So sánh mustn't vs don't have to:**\n- 'You **don't have to** buy' = Không cần mua (miễn phí, tự nguyện)\n- 'You **mustn't** buy' = CẤM mua (vô nghĩa trong ngữ cảnh này)\n\n**Dấu hiệu dùng 'don't have to':**\n- 'It's free' = miễn phí\n- 'It's optional' = tùy chọn\n- 'It's not necessary' = không cần thiết",
+      "hints": ["Miễn phí = không cần mua"],
+      "points": 10
+    },
+    {
+      "id": 56,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp câu: They / could / become / famous / singers",
+      "words": ["They", "could", "become", "famous", "singers."],
+      "distractors": ["will", "must", "have to"],
+      "correctSentence": "They could become famous singers.",
+      "acceptedAnswers": [
+        "They could become famous singers.",
+        "They might become famous singers."
+      ],
+      "hints": ["could + base verb"],
+      "explanation": "**Phân tích cấu trúc:**\n1. Câu diễn tả **khả năng trong tương lai** - họ có thể trở thành ca sĩ nổi tiếng\n2. 'could' diễn tả khả năng có thể xảy ra nếu cố gắng\n3. Cấu trúc: S + could + V (nguyên mẫu)\n\n**Thứ tự đúng:**\n- They + could + become + famous + singers\n- 'They could become famous singers.'\n\n**Tại sao dùng 'could':**\n- Diễn tả khả năng trong tương lai\n- Ngụ ý: nếu họ cố gắng, họ có thể nổi tiếng\n\n**Tại sao các từ bẫy sai:**\n- ❌ 'will': quá chắc chắn - không ai biết chắc tương lai\n- ❌ 'must': bắt buộc/suy luận - không phù hợp khả năng tương lai\n- ❌ 'have to': bắt buộc - không ai bắt họ phải nổi tiếng\n\n**So sánh could/might:**\n- Cả hai đều diễn tả khả năng\n- 'could' thường ngụ ý điều kiện: 'Nếu cố gắng, họ có thể...'\n- 'might' đơn giản hơn: 'Họ có thể...'\n\n**Lưu ý:** 'become' là động từ nguyên mẫu sau 'could' (không phải 'becomes')",
+      "points": 10
+    },
+    {
+      "id": 57,
+      "type": "multiple-choice",
+      "question": "I __________ go to the dentist. I have a toothache.",
+      "options": ["might", "have to", "could", "may"],
+      "correctIndex": 1,
+      "explanation": "**Phân tích:**\n1. 'I have a toothache' = Tôi bị đau răng → **cần thiết/bắt buộc** phải đi nha sĩ\n2. 'have to' diễn tả **sự cần thiết** - phải làm vì hoàn cảnh bắt buộc\n3. Đau răng = phải đi khám, không thể không đi\n\n**Tại sao dùng 'have to':**\n- Đau răng là lý do bắt buộc phải đi nha sĩ\n- Hoàn cảnh (đau) tạo ra sự cần thiết\n\n**Tại sao các đáp án khác sai:**\n- ❌ 'might': có thể đi - quá yếu! Đau răng thì PHẢI đi\n- ❌ 'could': có thể - cũng quá yếu, không thể hiện sự cần thiết\n- ❌ 'may': có thể - không phù hợp với tình huống bắt buộc\n\n**So sánh:**\n- 'I **have to** go' = Tôi PHẢI đi (vì đau, không có lựa chọn)\n- 'I **might** go' = Tôi có thể đi (tùy tôi quyết định)\n\n**Dấu hiệu dùng 'have to':**\n- Có lý do bắt buộc (đau, deadline, quy định...)\n- Hoàn cảnh ép buộc phải làm\n- Không có sự lựa chọn khác\n\n**Mẹo nhớ:** Có lý do bắt buộc → **have to** | Chỉ là khả năng → **might/may/could**",
+      "hints": ["Bắt buộc = have to"],
+      "points": 10
+    },
+    {
+      "id": 58,
+      "type": "multiple-choice",
+      "question": "Sửa lỗi: 'He have to work hard.'",
+      "options": [
+        "He has to work hard",
+        "He have to work hard",
+        "He having to work hard",
+        "He had to works hard"
+      ],
+      "correctIndex": 0,
+      "explanation": "**Phân tích lỗi sai:**\n1. Câu sai: 'He **have** to work hard'\n2. 'He' = ngôi 3 số ít → phải dùng **'has to'**, KHÔNG phải 'have to'\n3. Câu đúng: 'He **has to** work hard'\n\n**Quy tắc chia 'have to':**\n- I/You/We/They + **have to**\n- He/She/It + **has to**\n\n**Tại sao các đáp án khác sai:**\n- ❌ 'He have to' - SAI! 'He' cần 'has to'\n- ❌ 'He having to' - SAI cấu trúc! Không dùng V-ing như vậy\n- ❌ 'He had to works' - SAI đôi! 'had to' đúng nhưng sau 'to' phải là 'work' (nguyên mẫu), không phải 'works'\n\n**Lỗi phổ biến với 'have to':**\n- ❌ 'He have to' → ✓ 'He has to'\n- ❌ 'She have to' → ✓ 'She has to'\n- ❌ 'It have to' → ✓ 'It has to'\n\n**So sánh với modal verbs:**\n- Modal verbs (can, must, might) KHÔNG đổi theo ngôi: He can, She must\n- 'have to' ĐỔI theo ngôi: I have to, He has to\n\n**Mẹo nhớ:** 'Have to' chia giống động từ thường → ngôi 3 số ít thêm 's' = **has to**",
+      "hints": ["He/She/It + has to"],
+      "points": 10
+    },
+    {
+      "id": 59,
+      "type": "multiple-choice",
+      "question": "Sửa lỗi: 'She can to swim very well.'",
+      "options": [
+        "She can swim very well",
+        "She can to swim very well",
+        "She cans swim very well",
+        "She can swims very well"
+      ],
+      "correctIndex": 0,
+      "explanation": "**Phân tích lỗi sai:**\n1. Câu sai: 'She can **to** swim very well'\n2. Sau modal verbs (can, could, may, might, must, will, shall) → **KHÔNG CÓ 'to'**\n3. Câu đúng: 'She **can swim** very well'\n\n**Quy tắc quan trọng:**\n- Modal verb + **V nguyên mẫu** (KHÔNG có 'to')\n- can swim ✓ | can to swim ✗\n- must go ✓ | must to go ✗\n- might rain ✓ | might to rain ✗\n\n**Tại sao các đáp án khác sai:**\n- ❌ 'She can to swim' - SAI! Có 'to' sau 'can'\n- ❌ 'She cans swim' - SAI! Modal verbs KHÔNG thêm 's' cho ngôi 3\n- ❌ 'She can swims' - SAI! Sau modal, động từ phải ở dạng nguyên mẫu\n\n**So sánh 'can' và 'have to':**\n- **can** + V (không 'to'): She can swim\n- **have to** + V (có 'to'): She has to swim\n\n**Lỗi cực kỳ phổ biến:**\n- ❌ 'can to do' → ✓ 'can do'\n- ❌ 'must to go' → ✓ 'must go'\n- ❌ 'might to rain' → ✓ 'might rain'\n\n**Mẹo nhớ:** Modal verbs = 'động từ đặc biệt' → KHÔNG cần 'to', KHÔNG thêm 's', KHÔNG có dạng V-ing",
+      "hints": ["can + base verb (không có to)"],
+      "points": 10
+    },
+    {
+      "id": 60,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp câu: We / didn't / have to / go / to / school / yesterday",
+      "words": ["We", "didn't", "have", "to", "go", "to", "school", "yesterday."],
+      "distractors": ["don't", "doesn't", "hasn't"],
+      "correctSentence": "We didn't have to go to school yesterday.",
+      "acceptedAnswers": [
+        "We didn't have to go to school yesterday."
+      ],
+      "explanation": "**Phân tích cấu trúc:**\n1. 'yesterday' = hôm qua → thì **quá khứ**\n2. Phủ định của 'have to' ở quá khứ: **didn't have to**\n3. Nghĩa: Hôm qua chúng tôi **không cần** đi học\n\n**Thứ tự đúng:**\n- We + didn't + have to + go + to school + yesterday\n- 'We didn't have to go to school yesterday.'\n\n**Cấu trúc phủ định quá khứ:**\n- S + **didn't have to** + V nguyên mẫu\n- didn't have to = không cần (trong quá khứ)\n\n**Tại sao các từ bẫy sai:**\n- ❌ 'don't': hiện tại - nhưng 'yesterday' là quá khứ\n- ❌ 'doesn't': hiện tại ngôi 3 - sai thì và sai ngôi\n- ❌ 'hasn't': dùng với have/has + V3, không phải 'have to'\n\n**So sánh các thì của 'have to' phủ định:**\n- Hiện tại: don't/doesn't have to\n- Quá khứ: **didn't have to**\n- Tương lai: won't have to\n\n**Ví dụ:**\n- 'We **don't have to** go today' = Hôm nay không cần đi\n- 'We **didn't have to** go yesterday' = Hôm qua không cần đi\n\n**Nhớ:** 'yesterday' → dùng **didn't** + have to (không phải 'don't'/'doesn't')",
+      "hints": ["Quá khứ phủ định: didn't have to"],
+      "points": 10
+    },
+    {
+      "id": 61,
+      "type": "multiple-choice",
+      "question": "It __________ snow tomorrow. The forecast says it's cold.",
+      "options": ["will", "might", "has to", "must"],
+      "correctIndex": 1,
+      "explanation": "**Phân tích:**\n1. 'The forecast says it's cold' = Dự báo nói trời lạnh → **khả năng** có tuyết\n2. Dự báo không chắc chắn 100% → dùng **might/may/could**\n3. 'might' diễn tả khả năng có thể xảy ra (nhưng chưa chắc)\n\n**Tại sao dùng 'might':**\n- Dự báo chỉ là dự đoán, không chắc chắn\n- Trời lạnh → có thể tuyết, nhưng không nhất định\n\n**Tại sao các đáp án khác không phù hợp nhất:**\n- ❌ 'will': chắc chắn 100% - nhưng thời tiết không ai biết chắc\n- ❌ 'has to': bắt buộc - thời tiết không 'bắt buộc' gì cả\n- ❌ 'must': suy luận chắc chắn - dự báo không phải bằng chứng chắc chắn\n\n**So sánh:**\n- 'It **might** snow' = Có thể tuyết rơi (50-50)\n- 'It **will** snow' = Chắc chắn tuyết rơi (100%)\n- 'It **must** snow' = Chắc hẳn tuyết rơi (suy luận từ bằng chứng)\n\n**Dấu hiệu dùng 'might' với thời tiết:**\n- 'The forecast says...' = dự báo nói\n- 'It looks like...' = trông có vẻ\n- 'There's a chance...' = có khả năng\n\n**Mẹo nhớ:** Dự báo thời tiết = không chắc chắn → **might/may/could**",
+      "hints": ["Có thể tuyết rơi"],
+      "points": 10
+    },
+    {
+      "id": 62,
+      "type": "multiple-choice",
+      "question": "__________ I bring my passport to the airport?",
+      "options": ["Do", "Does", "Did", "May"],
+      "correctIndex": 0,
+      "explanation": "**Phân tích:**\n1. Câu hỏi hỏi về sự cần thiết: 'Tôi có cần mang passport không?'\n2. 'I' = ngôi 1 → dùng **'Do'** trong câu hỏi với 'have to'\n3. Cấu trúc: Do + I + have to + V?\n\n**Câu hoàn chỉnh:**\n- **Do** I have to bring my passport to the airport?\n- Nghĩa: Tôi có phải mang passport đến sân bay không?\n\n**Quy tắc câu hỏi với 'have to':**\n- Do + I/you/we/they + **have to** + V?\n- Does + he/she/it + **have to** + V?\n\n**Tại sao các đáp án khác sai:**\n- ❌ 'Does': dùng cho he/she/it, không phải 'I'\n- ❌ 'Did': quá khứ - nhưng câu hỏi về việc hiện tại/tương lai\n- ❌ 'May': 'May I...?' = xin phép, không phải hỏi sự cần thiết\n\n**So sánh loại câu hỏi:**\n- '**Do** I have to...?' = Tôi có CẦN không? (hỏi sự cần thiết)\n- '**May** I...?' = Tôi có ĐƯỢC PHÉP không? (xin phép)\n- '**Can** I...?' = Tôi CÓ THỂ không? (hỏi khả năng/xin phép informal)\n\n**Ngữ cảnh:** Hỏi về yêu cầu khi đi máy bay → hỏi sự cần thiết → **Do I have to...?**",
+      "hints": ["Do I have to...?"],
+      "points": 10
+    },
+    {
+      "id": 63,
+      "type": "multiple-choice",
+      "question": "She __________ finish her homework before she can play.",
+      "options": ["might", "has to", "could", "may"],
+      "correctIndex": 1,
+      "explanation": "**Phân tích:**\n1. 'before she can play' = trước khi có thể chơi → có **điều kiện bắt buộc**\n2. 'She' = ngôi 3 số ít → dùng **'has to'**\n3. Phải làm xong bài tập MỚI được chơi = sự bắt buộc\n\n**Tại sao dùng 'has to':**\n- Có điều kiện: làm bài tập xong → mới được chơi\n- Đây là quy định/yêu cầu bắt buộc (có thể từ bố mẹ)\n- 'She' cần 'has to' (không phải 'have to')\n\n**Tại sao các đáp án khác sai:**\n- ❌ 'might': có thể - quá yếu! Đây là yêu cầu bắt buộc\n- ❌ 'could': có thể - không thể hiện sự bắt buộc\n- ❌ 'may': có thể - không phù hợp với điều kiện bắt buộc\n\n**So sánh:**\n- 'She **has to** finish' = Cô ấy PHẢI làm xong (bắt buộc)\n- 'She **might** finish' = Cô ấy có thể làm xong (khả năng)\n- 'She **could** finish' = Cô ấy có thể làm xong (khả năng)\n\n**Cấu trúc:** S + has to + V + before + clause\n→ Diễn tả điều kiện bắt buộc phải hoàn thành trước\n\n**Nhớ chia 'have to':**\n- I/You/We/They + **have to**\n- He/She/It + **has to**",
+      "hints": ["Cần thiết = has to"],
+      "points": 10
+    },
+    {
+      "id": 64,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp câu: The / train / may / be / delayed",
+      "words": ["The", "train", "may", "be", "delayed."],
+      "distractors": ["will", "must", "have to"],
+      "correctSentence": "The train may be delayed.",
+      "acceptedAnswers": [
+        "The train may be delayed.",
+        "The train might be delayed."
+      ],
+      "explanation": "**Phân tích cấu trúc:**\n1. Câu diễn tả **khả năng** - tàu có thể bị trễ\n2. 'may' diễn tả khả năng có thể xảy ra\n3. 'be delayed' = bị động (bị trễ)\n\n**Thứ tự đúng:**\n- The + train + may + be + delayed\n- 'The train may be delayed.'\n\n**Cấu trúc bị động với modal:**\n- S + may/might/could + **be** + V3 (past participle)\n- may be delayed = có thể bị trễ\n\n**Tại sao các từ bẫy sai:**\n- ❌ 'will': quá chắc chắn - chưa biết có trễ không\n- ❌ 'must': suy luận chắc chắn - chưa có bằng chứng\n- ❌ 'have to': bắt buộc - tàu không 'bắt buộc' phải trễ\n\n**So sánh may/might:**\n- 'may be delayed' = có thể bị trễ\n- 'might be delayed' = có thể bị trễ (tương đương)\n- Cả hai đều được chấp nhận!\n\n**Cấu trúc bị động + modal:**\n- The meeting **may be cancelled** = Cuộc họp có thể bị hủy\n- The flight **might be delayed** = Chuyến bay có thể bị trễ\n- The road **could be closed** = Đường có thể bị đóng\n\n**Mẹo nhớ:** Modal + be + V3 = khả năng ở dạng bị động",
+      "hints": ["may + be + past participle"],
+      "points": 10
+    }
+  ]
+}

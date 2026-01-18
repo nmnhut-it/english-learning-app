@@ -1,0 +1,468 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Unit 10: Indefinite Pronouns & Question Tags | English Grammar Games</title>
+  <meta name="description" content="Practice indefinite pronouns (someone, anyone, nothing, etc.) and question tags">
+
+  <!-- Shared Styles -->
+  <link rel="stylesheet" href="../css/shared.css">
+</head>
+<body>
+  <!-- Game Header -->
+  <header class="game-header">
+    <div class="container">
+      <div class="game-header__container">
+        <div class="game-header__info-section">
+          <h1 class="game-header__title">Unit 10: Indefinite Pronouns & Question Tags</h1>
+          <p class="game-header__subtitle">Someone, Anyone, Nothing & Question Tags</p>
+          <div class="game-info">
+            <div class="game-info__item">
+              <span class="game-info__label">Giáo viên:</span>
+              <span class="game-info__value">Nguyễn Minh Nhựt</span>
+            </div>
+            <div class="game-info__item">
+              <span class="game-info__label">Học sinh:</span>
+              <span class="game-info__value"></span>
+            </div>
+          </div>
+        </div>
+
+        <div class="game-header__stats">
+          <div class="stat">
+            <span class="stat__label">Điểm</span>
+            <span class="stat__value stat__value--primary" id="current-score">⭐ 0</span>
+          </div>
+
+          <div class="stat">
+            <span class="stat__label">Tiến độ</span>
+            <span class="stat__value" id="progress-count">0 / 0</span>
+          </div>
+
+          <div class="stat" id="combo-display" style="display: none;">
+            <span class="stat__label">Combo</span>
+            <span class="stat__value" id="combo-count">0</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Progress Bar -->
+      <div class="progress">
+        <div class="progress__bar" id="progress-bar" style="width: 0%;"></div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Content -->
+  <main class="container">
+    <!-- Theory Panel (Collapsible) -->
+    <div class="theory-panel" id="theory-panel">
+      <button class="theory-panel__toggle" id="theory-toggle">
+        <span>📖 Tài liệu ngữ pháp</span>
+        <span class="theory-panel__icon" id="theory-icon">▼</span>
+      </button>
+
+      <div class="theory-panel__content" id="theory-content">
+        <!-- PHẦN 1: Từ chỉ người/vật/nơi chốn không rõ -->
+        <div class="theory-panel__section">
+          <h3 class="theory-panel__heading">🎯 PHẦN 1: TỪ CHỈ NGƯỜI/VẬT/NƠI CHỐN KHÔNG RÕ</h3>
+          <p style="font-size: 15px; line-height: 1.6;">
+            Khi bạn nói <strong>"Có AI ĐÓ gõ cửa"</strong> nhưng không biết là ai → dùng những từ đặc biệt này!
+          </p>
+          <p style="font-weight: 600; margin-top: 12px;">Có 4 nhóm từ, mỗi nhóm dùng cho tình huống khác nhau:</p>
+        </div>
+
+        <!-- NHÓM 1: SOME -->
+        <div class="theory-panel__section" style="background: #e8f5e9; padding: 16px; border-radius: 8px; margin-bottom: 16px;">
+          <h4 style="color: #2e7d32; margin-bottom: 12px;">✅ NHÓM 1: Từ có chữ SOME</h4>
+          <p><strong>Khi nào dùng?</strong> Dùng khi nói câu BÌNH THƯỜNG (câu có 'có', không nói 'không')</p>
+          <p><strong>Nghĩa:</strong> AI ĐÓ / CÁI GÌ ĐÓ / ĐÂU ĐÓ</p>
+          <ul style="margin: 12px 0; padding-left: 20px;">
+            <li><strong>someone / somebody</strong> = AI ĐÓ (người)<br>
+              <em style="color: #1976d2;">Someone is calling you.</em><br>
+              <em style="color: #666;">→ Ai đó đang gọi bạn đấy.</em>
+            </li>
+            <li><strong>something</strong> = CÁI GÌ ĐÓ (đồ vật)<br>
+              <em style="color: #1976d2;">I need something to eat.</em><br>
+              <em style="color: #666;">→ Mình cần cái gì đó để ăn.</em>
+            </li>
+            <li><strong>somewhere</strong> = ĐÂU ĐÓ (nơi chốn)<br>
+              <em style="color: #1976d2;">Let's go somewhere fun!</em><br>
+              <em style="color: #666;">→ Đi đâu đó vui vui nào!</em>
+            </li>
+          </ul>
+          <div style="background: white; padding: 10px; border-radius: 6px; margin-top: 10px;">
+            <strong>💡 MẸO GHI NHỚ:</strong> SOME = CÓ → Câu nói 'CÓ' thì dùng SOME!
+          </div>
+        </div>
+
+        <!-- NHÓM 2: ANY -->
+        <div class="theory-panel__section" style="background: #e3f2fd; padding: 16px; border-radius: 8px; margin-bottom: 16px;">
+          <h4 style="color: #1565c0; margin-bottom: 12px;">❓ NHÓM 2: Từ có chữ ANY</h4>
+          <p><strong>Khi nào dùng?</strong> Dùng khi HỎI (có dấu ?) hoặc nói 'KHÔNG'</p>
+          <p><strong>Nghĩa:</strong> AI / CÁI GÌ / ĐÂU (bất kỳ)</p>
+          <ul style="margin: 12px 0; padding-left: 20px;">
+            <li><strong>anyone / anybody</strong> = AI / BẤT KỲ AI<br>
+              <em style="color: #1976d2;">Is anyone home?</em><br>
+              <em style="color: #666;">→ Có ai ở nhà không?</em>
+            </li>
+            <li><strong>anything</strong> = CÁI GÌ / BẤT KỲ THỨ GÌ<br>
+              <em style="color: #1976d2;">I don't have anything.</em><br>
+              <em style="color: #666;">→ Mình không có gì cả.</em>
+            </li>
+            <li><strong>anywhere</strong> = ĐÂU / BẤT KỲ NƠI ĐÂU<br>
+              <em style="color: #1976d2;">We can't go anywhere today.</em><br>
+              <em style="color: #666;">→ Hôm nay chúng mình không thể đi đâu được.</em>
+            </li>
+          </ul>
+          <div style="background: white; padding: 10px; border-radius: 6px; margin-top: 10px;">
+            <strong>💡 MẸO GHI NHỚ:</strong> Thấy dấu HỎI (?) hoặc từ KHÔNG → dùng ANY!
+          </div>
+        </div>
+
+        <!-- NHÓM 3: NO -->
+        <div class="theory-panel__section" style="background: #ffebee; padding: 16px; border-radius: 8px; margin-bottom: 16px;">
+          <h4 style="color: #c62828; margin-bottom: 12px;">❌ NHÓM 3: Từ có chữ NO</h4>
+          <p><strong>Khi nào dùng?</strong> Dùng khi muốn nói KHÔNG MỘT AI / KHÔNG MỘT CÁI NÀO (nhấn mạnh)</p>
+          <p><strong>Nghĩa:</strong> KHÔNG AI / KHÔNG GÌ / KHÔNG ĐÂU</p>
+          <ul style="margin: 12px 0; padding-left: 20px;">
+            <li><strong>no one / nobody</strong> = KHÔNG AI<br>
+              <em style="color: #1976d2;">Nobody came to the party.</em><br>
+              <em style="color: #666;">→ Không ai đến bữa tiệc cả.</em>
+            </li>
+            <li><strong>nothing</strong> = KHÔNG GÌ / KHÔNG CÓ GÌ<br>
+              <em style="color: #1976d2;">There's nothing in the fridge.</em><br>
+              <em style="color: #666;">→ Không có gì trong tủ lạnh.</em>
+            </li>
+            <li><strong>nowhere</strong> = KHÔNG NƠI NÀO / KHÔNG ĐÂU<br>
+              <em style="color: #1976d2;">I have nowhere to sit.</em><br>
+              <em style="color: #666;">→ Mình không có chỗ ngồi.</em>
+            </li>
+          </ul>
+          <div style="background: white; padding: 10px; border-radius: 6px; margin-top: 10px;">
+            <strong>💡 MẸO GHI NHỚ:</strong> NO = KHÔNG
+          </div>
+          <div style="background: #fff3e0; padding: 10px; border-radius: 6px; margin-top: 10px; border-left: 4px solid #f57c00;">
+            <strong>⚠️ SIÊU QUAN TRỌNG:</strong> ĐỪNG nói 'không...không gì' (sai!)<br>
+            ❌ SAI: I don't have nothing<br>
+            ✅ ĐÚNG: I don't have anything
+          </div>
+        </div>
+
+        <!-- NHÓM 4: EVERY -->
+        <div class="theory-panel__section" style="background: #fff9c4; padding: 16px; border-radius: 8px; margin-bottom: 16px;">
+          <h4 style="color: #f57f17; margin-bottom: 12px;">🌟 NHÓM 4: Từ có chữ EVERY</h4>
+          <p><strong>Khi nào dùng?</strong> Dùng khi nói về TẤT CẢ MỌI NGƯỜI / MỌI THỨ / MỌI NƠI</p>
+          <p><strong>Nghĩa:</strong> MỌI NGƯỜI / MỌI THỨ / MỌI NƠI</p>
+          <ul style="margin: 12px 0; padding-left: 20px;">
+            <li><strong>everyone / everybody</strong> = MỌI NGƯỜI<br>
+              <em style="color: #1976d2;">Everyone loves ice cream!</em><br>
+              <em style="color: #666;">→ Mọi người đều yêu kem!</em>
+            </li>
+            <li><strong>everything</strong> = MỌI THỨ / TẤT CẢ<br>
+              <em style="color: #1976d2;">Everything is ready.</em><br>
+              <em style="color: #666;">→ Mọi thứ đã sẵn sàng rồi.</em>
+            </li>
+            <li><strong>everywhere</strong> = MỌI NƠI / KHẮP NƠI<br>
+              <em style="color: #1976d2;">My toys are everywhere!</em><br>
+              <em style="color: #666;">→ Đồ chơi của mình ở khắp nơi!</em>
+            </li>
+          </ul>
+          <div style="background: white; padding: 10px; border-radius: 6px; margin-top: 10px;">
+            <strong>💡 MẸO GHI NHỚ:</strong> EVERY = TẤT CẢ<br>
+            <strong>🎯 Lưu ý:</strong> Everyone + IS (không dùng ARE) vì coi như số ít!
+          </div>
+        </div>
+
+        <!-- BẢNG TRA NHANH -->
+        <div class="theory-panel__section">
+          <h4 style="margin-bottom: 12px;">📊 BẢNG TRA NHANH</h4>
+          <table style="width: 100%; border-collapse: collapse; font-size: 14px;">
+            <tr style="background: var(--primary); color: white;">
+              <th style="padding: 10px; text-align: left;">Tình huống</th>
+              <th style="padding: 10px; text-align: left;">NGƯỜI</th>
+              <th style="padding: 10px; text-align: left;">VẬT</th>
+              <th style="padding: 10px; text-align: left;">NƠI CHỐN</th>
+            </tr>
+            <tr style="background: #e8f5e9;">
+              <td style="padding: 10px;">✅ Câu thường</td>
+              <td style="padding: 10px;"><strong>someone</strong></td>
+              <td style="padding: 10px;"><strong>something</strong></td>
+              <td style="padding: 10px;"><strong>somewhere</strong></td>
+            </tr>
+            <tr style="background: #e3f2fd;">
+              <td style="padding: 10px;">❓ Hỏi/Phủ định</td>
+              <td style="padding: 10px;"><strong>anyone</strong></td>
+              <td style="padding: 10px;"><strong>anything</strong></td>
+              <td style="padding: 10px;"><strong>anywhere</strong></td>
+            </tr>
+            <tr style="background: #ffebee;">
+              <td style="padding: 10px;">❌ Không có</td>
+              <td style="padding: 10px;"><strong>no one</strong></td>
+              <td style="padding: 10px;"><strong>nothing</strong></td>
+              <td style="padding: 10px;"><strong>nowhere</strong></td>
+            </tr>
+            <tr style="background: #fff9c4;">
+              <td style="padding: 10px;">🌟 Tất cả</td>
+              <td style="padding: 10px;"><strong>everyone</strong></td>
+              <td style="padding: 10px;"><strong>everything</strong></td>
+              <td style="padding: 10px;"><strong>everywhere</strong></td>
+            </tr>
+          </table>
+        </div>
+
+        <!-- PHẦN 2: Câu hỏi đuôi -->
+        <div class="theory-panel__section" style="margin-top: 30px;">
+          <h3 class="theory-panel__heading">🔖 PHẦN 2: CÂU HỎI ĐUÔI (hỏi 'phải không?')</h3>
+          <p style="font-size: 15px; line-height: 1.6;">
+            Giống như tiếng Việt nói: <strong>"Hôm nay trời đẹp, PHẢI KHÔNG?"</strong> hoặc <strong>"Em không thích cơm, ĐÚNG KHÔNG?"</strong><br>
+            → Tiếng Anh cũng thêm câu hỏi ngắn vào cuối!
+          </p>
+        </div>
+
+        <!-- QUY TẮC VÀNG -->
+        <div class="theory-panel__section" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 20px; border-radius: 8px; margin-bottom: 16px;">
+          <h4 style="color: #ffd700; margin-bottom: 12px;">⭐ QUY TẮC VÀNG - SIÊU DỄ NHỚ</h4>
+          <p style="font-size: 16px; font-weight: 600; margin-bottom: 8px;">
+            ➡️ Câu đầu nói 'CÓ' → Câu đuôi hỏi 'KHÔNG phải' ❓
+          </p>
+          <p style="font-size: 16px; font-weight: 600; margin-bottom: 16px;">
+            ➡️ Câu đầu nói 'KHÔNG' → Câu đuôi hỏi 'CÓ phải' ❓
+          </p>
+          <div style="background: rgba(255,255,255,0.2); padding: 12px; border-radius: 6px; font-size: 18px; text-align: center;">
+            😊 CÓ → ❌ KHÔNG? &nbsp;&nbsp;|&nbsp;&nbsp; ❌ KHÔNG → ✅ CÓ?
+          </div>
+          <div style="margin-top: 12px; padding: 12px; background: rgba(255,255,255,0.9); color: #333; border-radius: 6px;">
+            <strong>Ví dụ:</strong><br>
+            • Bạn vui (CÓ vui) → phải KHÔNG? → You are happy, aren't you?<br>
+            • Bạn không buồn → phải CÓ? → You aren't sad, are you?
+          </div>
+        </div>
+
+        <!-- BƯỚC 1: AM/IS/ARE -->
+        <div class="theory-panel__section" style="background: #f3e5f5; padding: 16px; border-radius: 8px; margin-bottom: 16px;">
+          <h4 style="color: #6a1b9a; margin-bottom: 12px;">🔧 BƯỚC 1: Với từ là/thì/ở (am/is/are/was/were)</h4>
+          <p><strong>Cách làm:</strong> Lấy từ 'là/thì/ở' ra, đảo ngược 'có/không'</p>
+          <div style="background: white; padding: 12px; border-radius: 6px; margin-top: 10px;">
+            <strong>Ví dụ bằng tiếng Việt:</strong><br>
+            • Cô ấy cao (IS cao) → KHÔNG cao phải không?<br>
+            • Họ là bạn (ARE bạn) → KHÔNG phải bạn à?<br>
+            • Trời không lạnh (KHÔNG IS lạnh) → CÓ lạnh không?
+          </div>
+          <div style="background: white; padding: 12px; border-radius: 6px; margin-top: 10px;">
+            <strong>Ví dụ tiếng Anh:</strong><br>
+            • She is tall → isn't she?<br>
+            • They are friends → aren't they?<br>
+            • It isn't cold → is it?
+          </div>
+          <p style="margin-top: 10px; padding: 10px; background: #fff3e0; border-radius: 6px;">
+            <strong>🎯 Trường hợp đặc biệt:</strong> 'Tôi là' → aren't I? (ghi nhớ riêng!)
+          </p>
+        </div>
+
+        <!-- BƯỚC 2: Động từ thường -->
+        <div class="theory-panel__section" style="background: #e0f2f1; padding: 16px; border-radius: 8px; margin-bottom: 16px;">
+          <h4 style="color: #00695c; margin-bottom: 12px;">🔧 BƯỚC 2: Với động từ thường (thích/đi/chơi/ăn...)</h4>
+          <p><strong>Cách làm:</strong> Dùng từ DO/DOES/DID rồi đảo ngược</p>
+          <div style="background: white; padding: 12px; border-radius: 6px; margin-top: 10px;">
+            <strong>Ví dụ bằng tiếng Việt:</strong><br>
+            • Bạn thích kẹo → KHÔNG thích à?<br>
+            • Cậu ấy chơi bóng → KHÔNG chơi à?<br>
+            • Họ về nhà rồi → KHÔNG về à?
+          </div>
+          <div style="background: white; padding: 12px; border-radius: 6px; margin-top: 10px;">
+            <strong>Ví dụ tiếng Anh:</strong><br>
+            • You like candy → don't you?<br>
+            • He plays soccer → doesn't he?<br>
+            • They went home → didn't they?
+          </div>
+          <p style="margin-top: 10px; padding: 10px; background: #fff3e0; border-radius: 6px;">
+            <strong>🎯 Nhớ:</strong> He/She/It dùng doesn't | Bạn/Chúng ta/Họ dùng don't | Đã làm rồi dùng didn't
+          </p>
+        </div>
+
+        <!-- BƯỚC 3: CAN/WILL... -->
+        <div class="theory-panel__section" style="background: #fce4ec; padding: 16px; border-radius: 8px; margin-bottom: 16px;">
+          <h4 style="color: #ad1457; margin-bottom: 12px;">🔧 BƯỚC 3: Với từ đặc biệt (biết/sẽ/nên/có thể...)</h4>
+          <p><strong>Cách làm:</strong> Lấy từ đặc biệt ra, đảo ngược 'có/không'</p>
+          <div style="background: white; padding: 12px; border-radius: 6px; margin-top: 10px;">
+            <strong>Ví dụ bằng tiếng Việt:</strong><br>
+            • Bạn biết bơi (CAN bơi) → KHÔNG biết à?<br>
+            • Cô ấy sẽ đến (WILL đến) → KHÔNG đến à?<br>
+            • Chúng ta nên đi (SHOULD đi) → KHÔNG nên à?
+          </div>
+          <div style="background: white; padding: 12px; border-radius: 6px; margin-top: 10px;">
+            <strong>Ví dụ tiếng Anh:</strong><br>
+            • You can swim → can't you?<br>
+            • She will come → won't she?<br>
+            • We should go → shouldn't we?
+          </div>
+          <p style="margin-top: 10px; padding: 10px; background: #fff3e0; border-radius: 6px;">
+            <strong>🎯 Mẹo:</strong> Cứ lấy từ đặc biệt ra, đổi có/không là xong!
+          </p>
+        </div>
+
+        <!-- GÓC LUYỆN TẬP -->
+        <div class="theory-panel__section" style="background: #e8eaf6; padding: 16px; border-radius: 8px; margin-bottom: 16px;">
+          <h4 style="color: #3f51b5; margin-bottom: 12px;">🎮 GÓC LUYỆN TẬP NHANH</h4>
+          <p style="margin-bottom: 12px;"><strong>Điền từ vào chỗ trống:</strong></p>
+          <ol style="margin: 0; padding-left: 20px;">
+            <li style="margin-bottom: 10px;">
+              <strong style="color: #1976d2;">It's sunny today, _____ it?</strong><br>
+              <em style="color: #666;">→ Hôm nay trời nắng, phải không?</em><br>
+              <em style="color: #666; font-size: 13px;">Gợi ý: is (khẳng định) → isn't</em><br>
+              <span style="color: #4caf50; font-weight: 600;">💡 Đáp án: isn't</span>
+            </li>
+            <li style="margin-bottom: 10px;">
+              <strong style="color: #1976d2;">You don't like fish, _____ you?</strong><br>
+              <em style="color: #666;">→ Bạn không thích cá, phải không?</em><br>
+              <em style="color: #666; font-size: 13px;">Gợi ý: don't (phủ định) → do</em><br>
+              <span style="color: #4caf50; font-weight: 600;">💡 Đáp án: do</span>
+            </li>
+            <li style="margin-bottom: 10px;">
+              <strong style="color: #1976d2;">She can dance, _____ she?</strong><br>
+              <em style="color: #666;">→ Cô ấy biết nhảy, phải không?</em><br>
+              <em style="color: #666; font-size: 13px;">Gợi ý: can (khẳng định) → can't</em><br>
+              <span style="color: #4caf50; font-weight: 600;">💡 Đáp án: can't</span>
+            </li>
+            <li style="margin-bottom: 10px;">
+              <strong style="color: #1976d2;">They weren't late, _____ they?</strong><br>
+              <em style="color: #666;">→ Họ không muộn, phải không?</em><br>
+              <em style="color: #666; font-size: 13px;">Gợi ý: weren't (phủ định) → were</em><br>
+              <span style="color: #4caf50; font-weight: 600;">💡 Đáp án: were</span>
+            </li>
+          </ol>
+        </div>
+
+        <!-- LƯU Ý QUAN TRỌNG -->
+        <div class="theory-panel__section" style="background: #ffebee; padding: 16px; border-radius: 8px; border: 2px solid #ef5350;">
+          <h4 style="color: #c62828; margin-bottom: 12px;">⚠️ LƯU Ý QUAN TRỌNG</h4>
+          <p style="font-weight: 600; margin-bottom: 10px;">
+            Trong câu đuôi LUÔN LUÔN dùng HE/SHE/IT/THEY, KHÔNG dùng tên người!
+          </p>
+          <div style="background: white; padding: 12px; border-radius: 6px;">
+            <p style="margin-bottom: 8px;"><strong>VÍ DỤ:</strong></p>
+            <p style="margin-bottom: 6px;">
+              ✅ ĐÚNG: <strong style="color: #1976d2;">Tom is tall, isn't <span style="text-decoration: underline;">he</span>?</strong><br>
+              <em style="color: #666; font-size: 14px;">→ Tom cao, phải không? (dùng HE thay cho Tom)</em>
+            </p>
+            <p style="margin-bottom: 10px; color: #c62828;">
+              ❌ SAI: <strong>Tom is tall, isn't Tom?</strong>
+            </p>
+            <p style="margin-bottom: 6px;">
+              ✅ ĐÚNG: <strong style="color: #1976d2;">Mary and Lan are friends, aren't <span style="text-decoration: underline;">they</span>?</strong><br>
+              <em style="color: #666; font-size: 14px;">→ Mary và Lan là bạn, phải không? (dùng THEY)</em>
+            </p>
+            <p style="color: #c62828;">
+              ❌ SAI: <strong>Mary and Lan are friends, aren't Mary and Lan?</strong>
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Exercise Container -->
+    <div id="exercise-container">
+      <!-- Exercises will be rendered here dynamically -->
+      <div class="card text-center">
+        <h2>Loading...</h2>
+        <p>Please wait while we load the exercises.</p>
+      </div>
+    </div>
+  </main>
+
+  <!-- Core JavaScript (loaded first) -->
+  <script src="../js/core/utils.js"></script>
+  <script src="../js/core/storage.js"></script>
+  <script src="../js/core/telegram-sender.js"></script>
+  <script src="../js/core/game-engine.js"></script>
+
+  <!-- Exercise Type Handlers (mobile-friendly types only) -->
+  <script src="../js/exercises/multiple-choice.js"></script>
+  <script src="../js/exercises/word-rearrange.js"></script>
+  <!-- word-arrangement is handled by word-rearrange.js -->
+
+  <!-- Initialize Game -->
+  <script>
+    const UNIT_ID = 'unit-10-indefinite-pronouns';
+    const DATA_PATH = '../data/unit-10-indefinite-pronouns.json';
+
+    // Theory panel toggle
+    const theoryToggle = document.getElementById('theory-toggle');
+    const theoryContent = document.getElementById('theory-content');
+    const theoryIcon = document.getElementById('theory-icon');
+
+    theoryToggle.addEventListener('click', () => {
+      const isExpanded = theoryContent.classList.contains('theory-panel__content--expanded');
+
+      if (isExpanded) {
+        theoryContent.classList.remove('theory-panel__content--expanded');
+        theoryIcon.classList.remove('theory-panel__icon--rotated');
+      } else {
+        theoryContent.classList.add('theory-panel__content--expanded');
+        theoryIcon.classList.add('theory-panel__icon--rotated');
+      }
+    });
+
+    // Combo display logic
+    function updateComboDisplay() {
+      const comboDisplay = document.getElementById('combo-display');
+      const comboCount = document.getElementById('combo-count');
+      const state = GameEngine.getState();
+
+      if (state.comboCount >= 3) {
+        comboDisplay.style.display = 'flex';
+        comboCount.textContent = state.comboCount + 'x 🔥';
+      } else {
+        comboDisplay.style.display = 'none';
+      }
+    }
+
+    // Override GameEngine.updateUI to include combo display
+    const originalUpdateUI = GameEngine.updateUI.bind(GameEngine);
+    GameEngine.updateUI = function() {
+      originalUpdateUI();
+      updateComboDisplay();
+    };
+
+    // Load unit data and start game
+    async function loadAndStartGame() {
+      try {
+        const response = await fetch(DATA_PATH);
+
+        if (!response.ok) {
+          throw new Error(`Failed to load data: ${response.status}`);
+        }
+
+        const unitData = await response.json();
+
+        console.log('Unit data loaded:', unitData);
+        console.log('Registered exercise handlers:', Object.keys(GameEngine.exerciseHandlers));
+
+        GameEngine.init(unitData, UNIT_ID);
+
+      } catch (error) {
+        console.error('Error loading game data:', error);
+
+        const container = document.getElementById('exercise-container');
+        container.innerHTML = `
+          <div class="card">
+            <h2 style="color: var(--danger);">Error Loading Game</h2>
+            <p>Sorry, we couldn't load the exercise data. Please try refreshing the page.</p>
+            <p style="font-size: var(--font-size-sm); color: var(--text-light);">Error: ${error.message}</p>
+            <button class="btn btn--primary mt-2" onclick="location.reload()">Reload Page</button>
+          </div>
+        `;
+      }
+    }
+
+    // Start game when page loads
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', loadAndStartGame);
+    } else {
+      loadAndStartGame();
+    }
+  </script>
+</body>
+</html>

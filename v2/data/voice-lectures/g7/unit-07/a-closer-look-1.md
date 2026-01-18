@@ -3,19 +3,19 @@
 ## A CLOSER LOOK 1
 
 <!-- chunk: intro -->
-<teacher_script pause="0" href="audio/tts_b5494589.mp3">
-Ok lớp 7, bài hôm nay là <eng>A Closer Look 1</eng> - Unit 7 <eng>Traffic</eng> nha. Mở sách trang 10 đi.
+<teacher_script pause="0">
+Chào các em. Mời các em mở sách giáo khoa trang 10. Bài học hôm nay là <eng>A Closer Look 1</eng>, chúng ta sẽ tìm hiểu về từ vựng và phát âm.
 </teacher_script>
 
-<teacher_script pause="0" href="audio/tts_fcdf6e4b.mp3">
-Bài này học từ vựng về phương tiện giao thông, biển báo đường bộ, và phát âm 2 âm /aɪ/ với /eɪ/.
+<teacher_script pause="0">
+Trong bài này, chúng ta sẽ học các từ vựng về phương tiện giao thông và biển báo. Sau đó, chúng ta sẽ luyện phát âm hai âm /aɪ/ và /eɪ/.
 </teacher_script>
 
 ---
 
 <!-- chunk: vocabulary -->
-<teacher_script pause="0" href="audio/tts_4e7a8176.mp3">
-Bấm nút "Bắt đầu" bên dưới để học từ vựng. Máy sẽ đọc và các em đọc theo. Sau đó các em làm bài trắc nghiệm từ vựng rồi ghi từ vựng vô tập.
+<teacher_script pause="0">
+Chúng ta cùng bắt đầu với phần từ vựng. Các em hãy nghe và đọc theo, sau đó làm bài tập để ghi nhớ từ mới nhé.
 </teacher_script>
 
 <vocabulary>
@@ -37,8 +37,8 @@ Bấm nút "Bắt đầu" bên dưới để học từ vựng. Máy sẽ đọc
 13. **road work** : công trình đường bộ /rəʊd wɜːk/
 </vocabulary>
 
-<teacher_script pause="0" action="record" href="audio/tts_c8b1b652.mp3">
-Bấm nút Ghi âm để đọc từ vựng và gửi cho thầy sửa nha.
+<teacher_script pause="0" action="record">
+Các em hãy bấm nút Ghi âm để đọc từ vựng và gửi cho thầy nhé.
 </teacher_script>
 
 ---
@@ -46,8 +46,8 @@ Bấm nút Ghi âm để đọc từ vựng và gửi cho thầy sửa nha.
 <!-- chunk: exercise_1 -->
 ### Bài 1 trang 10 - Match
 
-<teacher_script pause="45" href="audio/tts_9fc553fa.mp3">
-Bài 1 <eng>Match the verbs in column A with the words or phrases in column B</eng>. Nối động từ ở cột A với cụm từ ở cột B. 45 giây nha.
+<teacher_script pause="45">
+Chúng ta cùng làm Bài 1 <eng>Match</eng>. Các em hãy nối các động từ ở cột A với các cụm từ tương ứng ở cột B. Các em có 45 giây.
 </teacher_script>
 
 <questions type="matching">
@@ -63,8 +63,8 @@ Bài 1 <eng>Match the verbs in column A with the words or phrases in column B</e
 ---
 
 <!-- chunk: answer_1 -->
-<teacher_script pause="0" href="audio/tts_2e70e476.mp3">
-Đáp án nha. <eng>1-c: ride a bike. 2-a: drive a car. 3-b: sail a boat. 4-d: go on foot. 5-e: travel by air.</eng>
+<teacher_script pause="0">
+Đã hết thời gian. Sau đây là đáp án đúng.
 </teacher_script>
 
 <answer>
@@ -93,8 +93,8 @@ Bài 1 <eng>Match the verbs in column A with the words or phrases in column B</e
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 10 - Road signs
 
-<teacher_script pause="60" href="audio/tts_99e6797a.mp3">
-Bài 2 <eng>Write the correct phrases under the signs</eng>. Nhìn các biển báo giao thông và viết tên đúng bên dưới. 1 phút nha.
+<teacher_script pause="60">
+Chúng ta cùng làm Bài 2 <eng>Road signs</eng>. Các em hãy quan sát các biển báo giao thông dưới đây và viết tên gọi đúng của chúng. Các em có 1 phút.
 </teacher_script>
 
 <questions type="fill_blanks">
@@ -111,8 +111,8 @@ Bài 2 <eng>Write the correct phrases under the signs</eng>. Nhìn các biển b
 ---
 
 <!-- chunk: answer_2 -->
-<teacher_script pause="0" href="audio/tts_6bbb82d1.mp3">
-Đáp án nha. <eng>1. no right turn. 2. traffic lights. 3. cycle lane. 4. no cycling. 5. school ahead. 6. hospital ahead.</eng>
+<teacher_script pause="0">
+Đã hết thời gian. Sau đây là đáp án đúng.
 </teacher_script>
 
 <answer>
@@ -130,8 +130,8 @@ Bài 2 <eng>Write the correct phrases under the signs</eng>. Nhìn các biển b
 <!-- chunk: exercise_3 -->
 ### Bài 3 trang 10 - Speaking
 
-<teacher_script pause="0" href="audio/tts_d63fe327.mp3">
-Bài 3 <eng>Work in groups. Talk about the road signs you see on the way to school</eng>. Nói về các biển báo trên đường đến trường.
+<teacher_script pause="0">
+Chúng ta cùng làm Bài 3 <eng>Speaking</eng>. Các em hãy làm việc theo nhóm và nói về những biển báo giao thông mà mình thường thấy trên đường đi học.
 </teacher_script>
 
 <questions type="speaking">
@@ -148,8 +148,8 @@ Bài 3 <eng>Work in groups. Talk about the road signs you see on the way to scho
 | I also see 'traffic lights' at the crossroads. | Tôi cũng thấy 'đèn giao thông' ở ngã tư. |
 </questions>
 
-<teacher_script pause="0" action="record" href="audio/tts_b8ce79af.mp3">
-Các em ghi âm nói về biển báo trên đường đến trường nha.
+<teacher_script pause="0" action="record">
+Các em hãy ghi âm câu trả lời của mình và gửi cho thầy nhé.
 </teacher_script>
 
 ---
@@ -157,8 +157,8 @@ Các em ghi âm nói về biển báo trên đường đến trường nha.
 <!-- chunk: pronunciation_theory -->
 ### Pronunciation - Phát âm /aɪ/ và /eɪ/
 
-<teacher_script pause="0" href="audio/tts_6dee1336.mp3">
-Phần phát âm nha. Hôm nay học 2 âm: /aɪ/ như "ai" và /eɪ/ như "ây".
+<teacher_script pause="0">
+Chúng ta cùng chuyển sang phần Phát âm. Hôm nay chúng ta sẽ luyện tập hai âm: /aɪ/ và /eɪ/.
 </teacher_script>
 
 <pronunciation_theory>
@@ -240,8 +240,8 @@ Phần phát âm nha. Hôm nay học 2 âm: /aɪ/ như "ai" và /eɪ/ như "ây"
 **Audio:** Bài 4 - Listen and repeat /aɪ/ và /eɪ/
 </audio>
 
-<teacher_script pause="60" href="audio/tts_87ec5914.mp3">
-Bài 4 <eng>Listen and repeat</eng>. Nghe và lặp lại các từ sau. Chú ý phân biệt âm /aɪ/ và /eɪ/. 1 phút nha.
+<teacher_script pause="60">
+Chúng ta cùng làm Bài 4 <eng>Listen and repeat</eng>. Các em hãy nghe và lặp lại theo băng, chú ý cách phát âm của hai âm này. Các em có 1 phút.
 </teacher_script>
 
 <questions type="pronunciation">
@@ -250,8 +250,8 @@ Bài 4 <eng>Listen and repeat</eng>. Nghe và lặp lại các từ sau. Chú ý
 **/eɪ/:** gate, train, plane, way, station
 </questions>
 
-<teacher_script pause="0" action="record" href="audio/tts_c8620a6b.mp3">
-Ghi âm đọc 10 từ trên và gửi cho thầy sửa nha.
+<teacher_script pause="0" action="record">
+Các em hãy bấm nút Ghi âm để đọc lại các từ trên và gửi cho thầy nhé.
 </teacher_script>
 
 ---
@@ -263,8 +263,8 @@ Ghi âm đọc 10 từ trên và gửi cho thầy sửa nha.
 **Audio:** Bài 5 - Listen and underline/circle
 </audio>
 
-<teacher_script pause="60" href="audio/tts_80306851.mp3">
-Bài 5 <eng>Underline the words with the /aɪ/ sound and circle the words with the /eɪ/ sound</eng>. Gạch chân các từ có âm /aɪ/, khoanh tròn các từ có âm /eɪ/. 1 phút nha.
+<teacher_script pause="60">
+Chúng ta cùng làm Bài 5 <eng>Underline and circle</eng>. Các em hãy gạch chân các từ có chứa âm /aɪ/ và khoanh tròn các từ có chứa âm /eɪ/ trong các câu sau. Các em có 1 phút.
 </teacher_script>
 
 <questions type="find_words">
@@ -278,8 +278,8 @@ Bài 5 <eng>Underline the words with the /aɪ/ sound and circle the words with t
 ---
 
 <!-- chunk: answer_5 -->
-<teacher_script pause="0" href="audio/tts_3060bec5.mp3">
-Đáp án nha.
+<teacher_script pause="0">
+Đã hết thời gian. Sau đây là đáp án đúng.
 </teacher_script>
 
 <answer>
@@ -321,5 +321,5 @@ Bài 5 <eng>Underline the words with the /aɪ/ sound and circle the words with t
 
 <!-- chunk: end -->
 <teacher_script pause="0">
-Ok hết <eng>A Closer Look 1</eng> rồi. Về nhà học thuộc từ vựng và luyện phát âm 2 âm /aɪ/ với /eɪ/ nha. Bài sau qua <eng>A Closer Look 2</eng>, học ngữ pháp <eng>How far</eng> và <eng>should/shouldn't</eng>. Hẹn gặp lại!
+Bài học hôm nay kết thúc tại đây. Các em về nhà nhớ học thuộc từ vựng và luyện tập thêm về phát âm nhé. Bài học tiếp theo là <eng>A Closer Look 2</eng>. Hẹn gặp lại các em!
 </teacher_script>

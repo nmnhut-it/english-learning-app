@@ -1,0 +1,194 @@
+{
+  "unitId": "unit-9-possibilities",
+  "unitTitle": "Unit 9: Possibilities - Modals & Have To",
+  "vocabularyData": {
+    "grammarTerms": [
+      {
+        "word": "modal",
+        "vietnamese": "động từ khiếm khuyết",
+        "pronunciation": "/ˈmoʊdl/",
+        "definition": "Auxiliary verbs like may, might, could, must",
+        "example": "May, might, and could are modal verbs.",
+        "difficulty": "advanced"
+      },
+      {
+        "word": "possibility",
+        "vietnamese": "khả năng",
+        "pronunciation": "/ˌpɑːsəˈbɪləti/",
+        "definition": "Something that might happen",
+        "example": "He might win! (possibility)",
+        "difficulty": "intermediate"
+      },
+      {
+        "word": "obligation",
+        "vietnamese": "nghĩa vụ, sự bắt buộc",
+        "pronunciation": "/ˌɑːblɪˈɡeɪʃn/",
+        "definition": "Something you must do",
+        "example": "You have to study. (obligation)",
+        "difficulty": "advanced"
+      },
+      {
+        "word": "necessary",
+        "vietnamese": "cần thiết",
+        "pronunciation": "/ˈnesəseri/",
+        "definition": "Something that is needed",
+        "example": "It's necessary to practice every day.",
+        "difficulty": "intermediate"
+      }
+    ],
+    "difficultWords": [
+      {
+        "word": "champion",
+        "vietnamese": "nhà vô địch",
+        "pronunciation": "/ˈtʃæmpiən/",
+        "definition": "A winner of a competition",
+        "example": "If they practice, they could become champions.",
+        "difficulty": "basic"
+      },
+      {
+        "word": "archaeologist",
+        "vietnamese": "nhà khảo cổ học",
+        "pronunciation": "/ˌɑːrkiˈɒlədʒɪst/",
+        "definition": "A person who studies ancient civilizations",
+        "example": "Ancient places are found by archaeologists.",
+        "difficulty": "advanced"
+      },
+      {
+        "word": "achievement",
+        "vietnamese": "thành tích",
+        "pronunciation": "/əˈtʃiːvmənt/",
+        "definition": "Something successfully done",
+        "example": "Winning the race is a great achievement.",
+        "difficulty": "intermediate"
+      },
+      {
+        "word": "award",
+        "vietnamese": "giải thưởng",
+        "pronunciation": "/əˈwɔːrd/",
+        "definition": "A prize for doing something well",
+        "example": "I may win an award for my drawings.",
+        "difficulty": "intermediate"
+      },
+      {
+        "word": "trainers",
+        "vietnamese": "giày thể thao",
+        "pronunciation": "/ˈtreɪnərz/",
+        "definition": "Sports shoes (British English)",
+        "example": "These trainers are too small for me. I could get new ones.",
+        "difficulty": "basic"
+      },
+      {
+        "word": "competition",
+        "vietnamese": "cuộc thi",
+        "pronunciation": "/ˌkɑːmpəˈtɪʃn/",
+        "definition": "A contest where people compete",
+        "example": "He might win the competition!",
+        "difficulty": "basic"
+      },
+      {
+        "word": "practice",
+        "vietnamese": "luyện tập",
+        "pronunciation": "/ˈpræktɪs/",
+        "definition": "Doing something repeatedly to improve",
+        "example": "I had to practice every day.",
+        "difficulty": "basic"
+      },
+      {
+        "word": "uniform",
+        "vietnamese": "đồng phục",
+        "pronunciation": "/ˈjuːnɪfɔːrm/",
+        "definition": "Special clothes for school or work",
+        "example": "Students have to wear uniforms at school.",
+        "difficulty": "basic"
+      }
+    ],
+    "keyPhrases": [
+      {
+        "phrase": "may/might/could + verb",
+        "vietnamese": "có thể (khả năng)",
+        "structure": "may/might/could + base verb",
+        "definition": "Used to express possibility (not certainty)",
+        "example": "He might win the competition!",
+        "usage": "All three mean the same for possibility"
+      },
+      {
+        "phrase": "may not/might not + verb",
+        "vietnamese": "có thể không",
+        "structure": "may not/might not + base verb",
+        "definition": "Negative possibility",
+        "example": "I might not win it this year.",
+        "usage": "Cannot use 'could not' for negative possibility"
+      },
+      {
+        "phrase": "have to + verb",
+        "vietnamese": "phải",
+        "structure": "have/has to + base verb",
+        "definition": "Obligation or necessity",
+        "example": "We have to eat healthy food.",
+        "usage": "External obligation (rules, requirements)"
+      },
+      {
+        "phrase": "don't have to + verb",
+        "vietnamese": "không cần phải",
+        "structure": "don't/doesn't have to + base verb",
+        "definition": "Not necessary (no obligation)",
+        "example": "I don't have to play every day.",
+        "usage": "Different from 'must not' (prohibition)"
+      },
+      {
+        "phrase": "had to + verb",
+        "vietnamese": "đã phải",
+        "structure": "had to + base verb",
+        "definition": "Past obligation",
+        "example": "I had to practice every day.",
+        "usage": "Past form of 'have to'"
+      },
+      {
+        "phrase": "didn't have to + verb",
+        "vietnamese": "không cần phải (quá khứ)",
+        "structure": "didn't have to + base verb",
+        "definition": "Past: not necessary",
+        "example": "I didn't have to eat special food when I was younger.",
+        "usage": "Past form of 'don't have to'"
+      }
+    ],
+    "usefulExpressions": [
+      {
+        "expression": "become famous",
+        "vietnamese": "trở nên nổi tiếng",
+        "example": "He could become a famous sportsman.",
+        "type": "become + adjective"
+      },
+      {
+        "expression": "top marks",
+        "vietnamese": "điểm cao nhất",
+        "example": "She could get top marks.",
+        "type": "collocation"
+      },
+      {
+        "expression": "get up early",
+        "vietnamese": "dậy sớm",
+        "example": "The boys have to get up early every day.",
+        "type": "phrasal verb"
+      },
+      {
+        "expression": "stay healthy",
+        "vietnamese": "giữ sức khỏe",
+        "example": "I have to stay healthy.",
+        "type": "collocation"
+      },
+      {
+        "expression": "work hard",
+        "vietnamese": "làm việc chăm chỉ",
+        "example": "Did you have to work hard to get there?",
+        "type": "collocation"
+      },
+      {
+        "expression": "special food",
+        "vietnamese": "thức ăn đặc biệt",
+        "example": "Do footballers have to eat special food?",
+        "type": "collocation"
+      }
+    ]
+  }
+}

@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Đề thi cuối HK1 - Tiếng Anh 9 Global Success | English Grammar Games</title>
+  <meta name="description" content="Ôn tập đề thi cuối học kì 1 Tiếng Anh 9 - Global Success với giải thích chi tiết">
+
+  <!-- Shared Styles -->
+  <link rel="stylesheet" href="../css/shared.css">
+</head>
+<body>
+  <!-- Game Header -->
+  <header class="game-header">
+    <div class="container">
+      <div class="game-header__container">
+        <div class="game-header__info-section">
+          <h1 class="game-header__title">Đề thi cuối Học kì 1 - Tiếng Anh 9</h1>
+          <p class="game-header__subtitle">Global Success - Comprehensive Test</p>
+          <div class="game-info">
+            <div class="game-info__item">
+              <span class="game-info__label">Giáo viên:</span>
+              <span class="game-info__value">Nguyễn Minh Nhựt</span>
+            </div>
+            <div class="game-info__item">
+              <span class="game-info__label">Học sinh:</span>
+              <span class="game-info__value">Lớp 9</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="game-header__stats">
+          <div class="stat">
+            <span class="stat__label">Điểm</span>
+            <span class="stat__value stat__value--primary" id="current-score">0</span>
+          </div>
+
+          <div class="stat">
+            <span class="stat__label">Tiến độ</span>
+            <span class="stat__value" id="progress-count">0 / 0</span>
+          </div>
+
+          <div class="stat" id="combo-display" style="display: none;">
+            <span class="stat__label">Combo</span>
+            <span class="stat__value" id="combo-count">0</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Progress Bar -->
+      <div class="progress">
+        <div class="progress__bar" id="progress-bar" style="width: 0%;"></div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Content -->
+  <main class="container">
+    <!-- Theory Panel (Collapsible) -->
+    <div class="theory-panel" id="theory-panel">
+      <button class="theory-panel__toggle" id="theory-toggle">
+        <span>📖 Kiến thức trọng tâm</span>
+        <span class="theory-panel__icon" id="theory-icon">▼</span>
+      </button>
+
+      <div class="theory-panel__content" id="theory-content">
+        <div class="theory-panel__section">
+          <h3 class="theory-panel__heading">Cấu trúc đề thi HK1 lớp 9</h3>
+          <ul>
+            <li><strong>Phonetics:</strong> Trọng âm từ 2-3 âm tiết</li>
+            <li><strong>Vocabulary:</strong> Từ đồng nghĩa, trái nghĩa</li>
+            <li><strong>Grammar:</strong> Present Perfect, Wish clauses, Conditionals</li>
+            <li><strong>Reading:</strong> Đọc hiểu đoạn văn, điền từ</li>
+            <li><strong>Error Correction:</strong> Tìm lỗi sai trong câu</li>
+            <li><strong>Writing:</strong> Viết lại câu đồng nghĩa</li>
+          </ul>
+        </div>
+
+        <div class="theory-panel__section">
+          <h3 class="theory-panel__heading">1. Present Perfect (Hiện tại hoàn thành)</h3>
+          <div class="theory-panel__example">
+            S + have/has + V3/V-ed (+ since/for/yet/already/ever/never)
+          </div>
+          <ul>
+            <li><strong>Since + mốc thời gian:</strong> since 2022, since I was a child</li>
+            <li><strong>For + khoảng thời gian:</strong> for 3 years, for a long time</li>
+            <li><strong>Yet:</strong> dùng trong câu hỏi và phủ định (cuối câu)</li>
+            <li><strong>Already:</strong> dùng trong câu khẳng định</li>
+          </ul>
+          <p>Ví dụ: <em>I <strong>have studied</strong> English <strong>since</strong> 2022.</em></p>
+          <p>Ví dụ: <em><strong>Have</strong> you <strong>written</strong> to your pen pal <strong>yet</strong>?</em></p>
+        </div>
+
+        <div class="theory-panel__section">
+          <h3 class="theory-panel__heading">2. Câu ước (Wish clauses)</h3>
+          <div class="theory-panel__example">
+            S + wish(es) + S + V2/Ved (quá khứ đơn) - ước muốn ở hiện tại
+          </div>
+          <ul>
+            <li><strong>Wish + could:</strong> ước có khả năng làm gì</li>
+            <li><strong>Wish + were:</strong> ước là ai/cái gì (dùng "were" cho tất cả ngôi)</li>
+            <li><strong>Wish + V2:</strong> ước điều gì đó khác đi</li>
+          </ul>
+          <p>Ví dụ: <em>I <strong>wish</strong> I <strong>could</strong> visit Big Ben.</em></p>
+          <p>Ví dụ: <em>She <strong>wishes</strong> she <strong>had</strong> an iPhone.</em></p>
+        </div>
+
+        <div class="theory-panel__section">
+          <h3 class="theory-panel__heading">3. Unless = If...not</h3>
+          <div class="theory-panel__example">
+            Unless + S + V (khẳng định) = If + S + don't/doesn't + V
+          </div>
+          <p>Ví dụ: <em><strong>Unless</strong> you study harder, you will fail.</em></p>
+          <p>= <em><strong>If</strong> you <strong>don't</strong> study harder, you will fail.</em></p>
+        </div>
+
+        <div class="theory-panel__section">
+          <h3 class="theory-panel__heading">4. So sánh kép (Double comparatives)</h3>
+          <div class="theory-panel__example">
+            The + comparative, the + comparative
+          </div>
+          <p>Ví dụ: <em><strong>The more modern</strong> the library is, <strong>the more attractive</strong> it is.</em></p>
+          <p>Ví dụ: <em><strong>The older</strong> he gets, <strong>the more experienced</strong> he becomes.</em></p>
+        </div>
+
+        <div class="theory-panel__section">
+          <h3 class="theory-panel__heading">5. Các cấu trúc V + V-ing / to V</h3>
+          <ul>
+            <li><strong>V + V-ing:</strong> avoid, mind, enjoy, finish, suggest, practice</li>
+            <li><strong>V + to V:</strong> decide, want, promise, hope, expect, plan</li>
+            <li><strong>let + O + V:</strong> let me go (không có "to")</li>
+            <li><strong>used to + V:</strong> thói quen trong quá khứ</li>
+          </ul>
+        </div>
+
+        <div class="theory-panel__section">
+          <h3 class="theory-panel__heading">6. Tính từ -ed vs -ing</h3>
+          <ul>
+            <li><strong>-ed:</strong> mô tả cảm xúc của NGƯỜI (bored, tired, excited, embarrassed)</li>
+            <li><strong>-ing:</strong> mô tả đặc điểm của VẬT/VIỆC (boring, tiring, exciting)</li>
+          </ul>
+          <p>Ví dụ: <em>The movie is <strong>boring</strong>. I feel <strong>bored</strong>.</em></p>
+        </div>
+
+        <div class="theory-panel__section">
+          <h3 class="theory-panel__heading">7. Từ vựng quan trọng</h3>
+          <ul>
+            <li><strong>went blank:</strong> đầu óc trống rỗng</li>
+            <li><strong>stressed out:</strong> căng thẳng</li>
+            <li><strong>by rote:</strong> học vẹt (>< by understanding)</li>
+            <li><strong>deep-rooted:</strong> bền vững, ăn sâu</li>
+            <li><strong>cut down on:</strong> giảm bớt</li>
+            <li><strong>figure out:</strong> tìm ra, hiểu ra</li>
+            <li><strong>World Heritage Site:</strong> Di sản Thế giới</li>
+            <li><strong>eco-tour:</strong> du lịch sinh thái</li>
+            <li><strong>artisan:</strong> nghệ nhân</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <!-- Exercise Container -->
+    <div id="exercise-container">
+      <!-- Exercises will be rendered here dynamically -->
+      <div class="card text-center">
+        <h2>Đang tải...</h2>
+        <p>Vui lòng chờ trong giây lát.</p>
+      </div>
+    </div>
+  </main>
+
+  <!-- Core JavaScript (loaded first) -->
+  <script src="../js/core/utils.js"></script>
+  <script src="../js/core/storage.js"></script>
+  <script src="../js/core/telegram-sender.js"></script>
+  <script src="../js/core/game-engine.js"></script>
+
+  <!-- Exercise Type Handlers -->
+  <script src="../js/exercises/multiple-choice.js"></script>
+  <script src="../js/exercises/fill-blank.js"></script>
+  <script src="../js/exercises/sentence-rewrite.js"></script>
+  <script src="../js/exercises/sequence-order.js"></script>
+
+  <!-- Initialize Game -->
+  <script>
+    const UNIT_ID = 'exam-hk1-global-success-9';
+    const DATA_PATH = '../data/exam-hk1-global-success-9.json';
+
+    // Theory panel toggle
+    const theoryToggle = document.getElementById('theory-toggle');
+    const theoryContent = document.getElementById('theory-content');
+    const theoryIcon = document.getElementById('theory-icon');
+
+    theoryToggle.addEventListener('click', () => {
+      const isExpanded = theoryContent.classList.contains('theory-panel__content--expanded');
+
+      if (isExpanded) {
+        theoryContent.classList.remove('theory-panel__content--expanded');
+        theoryIcon.classList.remove('theory-panel__icon--rotated');
+      } else {
+        theoryContent.classList.add('theory-panel__content--expanded');
+        theoryIcon.classList.add('theory-panel__icon--rotated');
+      }
+    });
+
+    // Combo display logic
+    function updateComboDisplay() {
+      const comboDisplay = document.getElementById('combo-display');
+      const comboCount = document.getElementById('combo-count');
+      const state = GameEngine.getState();
+
+      if (state.comboCount >= 3) {
+        comboDisplay.style.display = 'flex';
+        comboCount.textContent = state.comboCount + 'x';
+      } else {
+        comboDisplay.style.display = 'none';
+      }
+    }
+
+    // Override GameEngine.updateUI to include combo display
+    const originalUpdateUI = GameEngine.updateUI.bind(GameEngine);
+    GameEngine.updateUI = function() {
+      originalUpdateUI();
+      updateComboDisplay();
+    };
+
+    // Load unit data and start game
+    async function loadAndStartGame() {
+      try {
+        const response = await fetch(DATA_PATH);
+
+        if (!response.ok) {
+          throw new Error(`Failed to load data: ${response.status}`);
+        }
+
+        const unitData = await response.json();
+
+        console.log('Unit data loaded:', unitData);
+        console.log('Registered exercise handlers:', Object.keys(GameEngine.exerciseHandlers));
+
+        GameEngine.init(unitData, UNIT_ID);
+
+        // Render question navigator grouped by Đề
+        const mainContainer = document.querySelector('main.container');
+        if (mainContainer) {
+          GameEngine.renderQuestionNavigator(mainContainer);
+          GameEngine.updateQuestionNavigator();
+        }
+
+      } catch (error) {
+        console.error('Error loading game data:', error);
+
+        const container = document.getElementById('exercise-container');
+        container.innerHTML = `
+          <div class="card">
+            <h2 style="color: var(--danger);">Lỗi tải dữ liệu</h2>
+            <p>Xin lỗi, không thể tải dữ liệu bài tập. Vui lòng tải lại trang.</p>
+            <p style="font-size: var(--font-size-sm); color: var(--text-light);">Lỗi: ${error.message}</p>
+            <button class="btn btn--primary mt-2" onclick="location.reload()">Tải lại trang</button>
+          </div>
+        `;
+      }
+    }
+
+    // Start game when page loads
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', loadAndStartGame);
+    } else {
+      loadAndStartGame();
+    }
+  </script>
+</body>
+</html>

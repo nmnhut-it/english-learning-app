@@ -1,0 +1,544 @@
+{
+  "unitId": "g7-unit-2-healthy-living",
+  "title": "Unit 2: Healthy Living - Imperatives & Modal Verbs",
+  "studentName": "Tran Gia Hung",
+  "grade": 7,
+  "grammarTopics": [
+    "Imperatives",
+    "Should/Shouldn't for Advice",
+    "Must/Mustn't for Rules",
+    "Health Vocabulary"
+  ],
+  "theory": {
+    "brief": "Câu mệnh lệnh: V0 (khẳng định), Don't + V0 (phủ định). Should/Shouldn't cho lời khuyên: You should exercise. (Bạn nên tập thể dục). Must/Mustn't cho quy tắc bắt buộc: You must wear a helmet. (Bạn phải đội mũ bảo hiểm).",
+    "examples": [
+      "Eat more vegetables. (Hãy ăn nhiều rau.)",
+      "Don't stay up late. (Đừng thức khuya.)",
+      "You should drink more water. (Bạn nên uống nhiều nước.)",
+      "You shouldn't eat junk food. (Bạn không nên ăn đồ ăn vặt.)",
+      "You must wash your hands. (Bạn phải rửa tay.)"
+    ]
+  },
+  "exercises": [
+    {
+      "id": "g7u2-ex1",
+      "type": "fill-blank",
+      "question": "_______ more fruits and vegetables.",
+      "wordHint": "ăn",
+      "answer": "Eat",
+      "acceptedAnswers": [
+        "Eat"
+      ],
+      "hints": [
+        "Câu mệnh lệnh bắt đầu bằng V0"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u2-ex2",
+      "type": "fill-blank",
+      "question": "_______ stay up late at night.",
+      "wordHint": "đừng",
+      "answer": "Don't",
+      "acceptedAnswers": [
+        "Don't",
+        "Do not"
+      ],
+      "hints": [
+        "Câu mệnh lệnh phủ định: Don't + V0"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u2-ex3",
+      "type": "fill-blank",
+      "question": "_______ your teeth twice a day.",
+      "wordHint": "đánh răng",
+      "answer": "Brush",
+      "acceptedAnswers": [
+        "Brush"
+      ],
+      "hints": [
+        "Câu mệnh lệnh: V0"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u2-ex4",
+      "type": "fill-blank",
+      "question": "_______ drink too much soda.",
+      "wordHint": "đừng",
+      "answer": "Don't",
+      "acceptedAnswers": [
+        "Don't",
+        "Do not"
+      ],
+      "hints": [
+        "Don't + V0"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u2-ex5",
+      "type": "fill-blank",
+      "question": "_______ exercise every day.",
+      "wordHint": "hãy",
+      "answer": "Do",
+      "acceptedAnswers": [
+        "Do"
+      ],
+      "hints": [
+        "Do exercise = tập thể dục"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u2-ex6",
+      "type": "fill-blank",
+      "question": "You _______ (should) eat more vegetables.",
+      "wordHint": "nên",
+      "answer": "should",
+      "acceptedAnswers": [
+        "should"
+      ],
+      "hints": [
+        "should + V0 = nên làm gì"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u2-ex7",
+      "type": "fill-blank",
+      "question": "You _______ (should not) eat too much fast food.",
+      "wordHint": "không nên",
+      "answer": "shouldn't",
+      "acceptedAnswers": [
+        "shouldn't",
+        "should not"
+      ],
+      "hints": [
+        "shouldn't + V0 = không nên"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u2-ex8",
+      "type": "fill-blank",
+      "question": "She _______ (should) drink more water.",
+      "wordHint": "nên",
+      "answer": "should",
+      "acceptedAnswers": [
+        "should"
+      ],
+      "hints": [
+        "should không thêm -s"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u2-ex9",
+      "type": "fill-blank",
+      "question": "We _______ (should) get enough sleep.",
+      "wordHint": "nên",
+      "answer": "should",
+      "acceptedAnswers": [
+        "should"
+      ],
+      "hints": [
+        "should + V0"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u2-ex10",
+      "type": "fill-blank",
+      "question": "They _______ (should not) skip breakfast.",
+      "wordHint": "không nên",
+      "answer": "shouldn't",
+      "acceptedAnswers": [
+        "shouldn't",
+        "should not"
+      ],
+      "hints": [
+        "shouldn't + V0"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u2-ex11",
+      "type": "fill-blank",
+      "question": "You _______ (must) wear a helmet when riding.",
+      "wordHint": "phải",
+      "answer": "must",
+      "acceptedAnswers": [
+        "must"
+      ],
+      "hints": [
+        "must + V0 = phải (bắt buộc)"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u2-ex12",
+      "type": "fill-blank",
+      "question": "You _______ (must not) smoke in this area.",
+      "wordHint": "không được",
+      "answer": "mustn't",
+      "acceptedAnswers": [
+        "mustn't",
+        "must not"
+      ],
+      "hints": [
+        "mustn't + V0 = cấm"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u2-ex13",
+      "type": "fill-blank",
+      "question": "Students _______ (must) wash their hands before meals.",
+      "wordHint": "phải",
+      "answer": "must",
+      "acceptedAnswers": [
+        "must"
+      ],
+      "hints": [
+        "must không thay đổi với số nhiều"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u2-ex14",
+      "type": "fill-blank",
+      "question": "We _______ (must not) touch electrical wires.",
+      "wordHint": "không được",
+      "answer": "mustn't",
+      "acceptedAnswers": [
+        "mustn't",
+        "must not"
+      ],
+      "hints": [
+        "mustn't = cấm tuyệt đối"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u2-ex15",
+      "type": "fill-blank",
+      "question": "Children _______ (must) go to bed early.",
+      "wordHint": "phải",
+      "answer": "must",
+      "acceptedAnswers": [
+        "must"
+      ],
+      "hints": [
+        "must + V0"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u2-ex16",
+      "type": "multiple-choice",
+      "question": "_______ junk food. It's unhealthy.",
+      "options": [
+        "Eat",
+        "Don't eat",
+        "Eating",
+        "To eat"
+      ],
+      "correctIndex": 1,
+      "explanation": "Câu mệnh lệnh phủ định: Don't + V0",
+      "hints": [
+        "Đừng ăn → Don't eat"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u2-ex17",
+      "type": "multiple-choice",
+      "question": "You _______ exercise regularly to stay healthy.",
+      "options": [
+        "should",
+        "shouldn't",
+        "must not",
+        "don't"
+      ],
+      "correctIndex": 0,
+      "explanation": "should = nên (lời khuyên)",
+      "hints": [
+        "Lời khuyên tốt → should"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u2-ex18",
+      "type": "multiple-choice",
+      "question": "You _______ drink and drive.",
+      "options": [
+        "should",
+        "must",
+        "mustn't",
+        "can"
+      ],
+      "correctIndex": 2,
+      "explanation": "mustn't = cấm tuyệt đối",
+      "hints": [
+        "Cấm → mustn't"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u2-ex19",
+      "type": "multiple-choice",
+      "question": "_______ enough water every day.",
+      "options": [
+        "Drink",
+        "Drinks",
+        "Drinking",
+        "To drink"
+      ],
+      "correctIndex": 0,
+      "explanation": "Câu mệnh lệnh: V0",
+      "hints": [
+        "Câu mệnh lệnh"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u2-ex20",
+      "type": "multiple-choice",
+      "question": "She _______ eat more vegetables for better health.",
+      "options": [
+        "should",
+        "shoulds",
+        "should to",
+        "to should"
+      ],
+      "correctIndex": 0,
+      "explanation": "should không thay đổi và không có 'to'",
+      "hints": [
+        "should + V0"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u2-ex21",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu mệnh lệnh",
+      "acceptedAnswers": [
+        "Eat more vegetables and fruits.",
+        "Eat more vegetables and fruits",
+        "Eat more fruits and vegetables.",
+        "Eat more fruits and vegetables"
+      ],
+      "hints": [
+        "Câu mệnh lệnh: V0 + O"
+      ],
+      "points": 15,
+      "correctSentence": "Eat more vegetables and fruits.",
+      "words": [
+        "more",
+        "eat",
+        "vegetables",
+        "fruits",
+        "and"
+      ]
+    },
+    {
+      "id": "g7u2-ex22",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu mệnh lệnh",
+      "acceptedAnswers": [
+        "Don't stay up late.",
+        "Don't stay up late"
+      ],
+      "hints": [
+        "Don't + V0"
+      ],
+      "points": 15,
+      "correctSentence": "Don't stay up late.",
+      "words": [
+        "stay",
+        "don't",
+        "late",
+        "up"
+      ]
+    },
+    {
+      "id": "g7u2-ex23",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "You should drink more water.",
+        "You should drink more water"
+      ],
+      "hints": [
+        "S + should + V0"
+      ],
+      "points": 15,
+      "correctSentence": "You should drink more water.",
+      "words": [
+        "drink",
+        "should",
+        "water",
+        "you",
+        "more"
+      ]
+    },
+    {
+      "id": "g7u2-ex24",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "You shouldn't eat junk food.",
+        "You shouldn't eat junk food"
+      ],
+      "hints": [
+        "S + shouldn't + V0"
+      ],
+      "points": 15,
+      "correctSentence": "You shouldn't eat junk food.",
+      "words": [
+        "eat",
+        "shouldn't",
+        "you",
+        "food",
+        "junk"
+      ]
+    },
+    {
+      "id": "g7u2-ex25",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "You must wear a helmet.",
+        "You must wear a helmet"
+      ],
+      "hints": [
+        "S + must + V0"
+      ],
+      "points": 15,
+      "correctSentence": "You must wear a helmet.",
+      "words": [
+        "wear",
+        "must",
+        "you",
+        "helmet",
+        "a"
+      ]
+    },
+    {
+      "id": "g7u2-ex26",
+      "type": "error-correct",
+      "wrongSentence": "Don't to eat too much sugar.",
+      "correctSentence": "Don't eat too much sugar.",
+      "errorWord": "to eat",
+      "correction": "eat",
+      "explanation": "Don't + V0 (không có 'to')",
+      "hints": [
+        "Don't + V0"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u2-ex27",
+      "type": "error-correct",
+      "wrongSentence": "You should to exercise more.",
+      "correctSentence": "You should exercise more.",
+      "errorWord": "to exercise",
+      "correction": "exercise",
+      "explanation": "should + V0 (không có 'to')",
+      "hints": [
+        "should + V0"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u2-ex28",
+      "type": "error-correct",
+      "wrongSentence": "She musts wash her hands.",
+      "correctSentence": "She must wash her hands.",
+      "errorWord": "musts",
+      "correction": "must",
+      "explanation": "must không thêm -s",
+      "hints": [
+        "must không thay đổi"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u2-ex29",
+      "type": "error-correct",
+      "wrongSentence": "You shouldn't to smoke.",
+      "correctSentence": "You shouldn't smoke.",
+      "errorWord": "to smoke",
+      "correction": "smoke",
+      "explanation": "shouldn't + V0 (không có 'to')",
+      "hints": [
+        "shouldn't + V0"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u2-ex30",
+      "type": "error-correct",
+      "wrongSentence": "Eats more vegetables.",
+      "correctSentence": "Eat more vegetables.",
+      "errorWord": "Eats",
+      "correction": "Eat",
+      "explanation": "Câu mệnh lệnh dùng V0",
+      "hints": [
+        "Câu mệnh lệnh: V0"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u2-ex31",
+      "type": "translation",
+      "vietnamese": "Bạn nên ngủ đủ giấc mỗi ngày.",
+      "answer": "You should get enough sleep every day.",
+      "acceptedAnswers": [
+        "You should get enough sleep every day.",
+        "You should get enough sleep every day",
+        "You should sleep enough every day.",
+        "You should sleep enough every day"
+      ],
+      "hints": [
+        "should + V0"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u2-ex32",
+      "type": "translation",
+      "vietnamese": "Đừng ăn quá nhiều đồ ngọt.",
+      "answer": "Don't eat too much candy.",
+      "acceptedAnswers": [
+        "Don't eat too much candy.",
+        "Don't eat too much candy",
+        "Don't eat too many sweets.",
+        "Don't eat too many sweets"
+      ],
+      "hints": [
+        "Don't + V0"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u2-ex33",
+      "type": "translation",
+      "vietnamese": "Bạn phải đeo khẩu trang ở nơi công cộng.",
+      "answer": "You must wear a mask in public places.",
+      "acceptedAnswers": [
+        "You must wear a mask in public places.",
+        "You must wear a mask in public places",
+        "You must wear a mask in public.",
+        "You must wear masks in public places."
+      ],
+      "hints": [
+        "must + V0"
+      ],
+      "points": 10
+    }
+  ]
+}

@@ -1,0 +1,805 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Vietnamese TTS - Text to Speech</title>
+  <link rel="stylesheet" href="../css/shared.css">
+  <style>
+    .tts-container {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: var(--spacing-md);
+    }
+
+    .tts-header {
+      text-align: center;
+      padding: var(--spacing-xl) 0;
+      background: linear-gradient(135deg, var(--info) 0%, var(--purple) 100%);
+      color: white;
+      margin: calc(-1 * var(--spacing-md));
+      margin-bottom: var(--spacing-xl);
+      padding: var(--spacing-xl) var(--spacing-md);
+    }
+
+    .tts-header h1 {
+      margin: 0 0 var(--spacing-sm) 0;
+      font-size: 1.8rem;
+    }
+
+    .tts-header p {
+      margin: 0;
+      opacity: 0.9;
+    }
+
+    .input-section {
+      background: var(--bg-white);
+      border-radius: var(--radius-lg);
+      padding: var(--spacing-lg);
+      margin-bottom: var(--spacing-lg);
+      box-shadow: 0 2px 8px var(--shadow-color);
+    }
+
+    .input-section textarea {
+      width: 100%;
+      min-height: 120px;
+      padding: var(--spacing-md);
+      font-size: 1.2rem;
+      border: 2px solid var(--border-color);
+      border-radius: var(--radius-md);
+      resize: vertical;
+      font-family: inherit;
+    }
+
+    .input-section textarea:focus {
+      outline: none;
+      border-color: var(--info);
+      box-shadow: 0 0 0 3px var(--info-light);
+    }
+
+    .controls {
+      display: flex;
+      gap: var(--spacing-sm);
+      margin-top: var(--spacing-md);
+      flex-wrap: wrap;
+    }
+
+    .btn-speak {
+      flex: 1;
+      min-width: 120px;
+      padding: var(--spacing-md) var(--spacing-lg);
+      font-size: 1.1rem;
+      background: var(--primary);
+      color: white;
+      border: none;
+      border-radius: var(--radius-md);
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: var(--spacing-sm);
+      transition: all var(--transition-fast);
+    }
+
+    .btn-speak:hover {
+      background: var(--primary-dark);
+      transform: translateY(-2px);
+    }
+
+    .btn-speak:active {
+      transform: translateY(0);
+    }
+
+    .btn-speak.speaking {
+      background: var(--danger);
+      animation: pulse 1s infinite;
+    }
+
+    @keyframes pulse {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.7; }
+    }
+
+    .btn-save {
+      padding: var(--spacing-md);
+      background: var(--warning);
+      color: white;
+      border: none;
+      border-radius: var(--radius-md);
+      cursor: pointer;
+      font-size: 1.1rem;
+    }
+
+    .btn-save:hover {
+      background: #e68a00;
+    }
+
+    .settings {
+      display: flex;
+      gap: var(--spacing-md);
+      margin-top: var(--spacing-md);
+      flex-wrap: wrap;
+      align-items: center;
+    }
+
+    .setting-group {
+      display: flex;
+      align-items: center;
+      gap: var(--spacing-xs);
+    }
+
+    .setting-group label {
+      font-size: 0.9rem;
+      color: var(--text-light);
+    }
+
+    .setting-group input[type="range"] {
+      width: 100px;
+    }
+
+    .saved-section {
+      background: var(--bg-white);
+      border-radius: var(--radius-lg);
+      padding: var(--spacing-lg);
+      box-shadow: 0 2px 8px var(--shadow-color);
+    }
+
+    .saved-section h2 {
+      margin: 0 0 var(--spacing-md) 0;
+      font-size: 1.2rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .saved-list {
+      display: flex;
+      flex-direction: column;
+      gap: var(--spacing-sm);
+    }
+
+    .saved-item {
+      display: flex;
+      align-items: center;
+      gap: var(--spacing-sm);
+      padding: var(--spacing-sm) var(--spacing-md);
+      background: var(--bg-light);
+      border-radius: var(--radius-md);
+      border: 1px solid var(--border-color);
+      transition: all var(--transition-fast);
+    }
+
+    .saved-item:hover {
+      border-color: var(--primary);
+      background: var(--primary-light);
+    }
+
+    .saved-item__text {
+      flex: 1;
+      font-size: 1rem;
+      cursor: pointer;
+      padding: var(--spacing-xs) 0;
+    }
+
+    .saved-item__shortcut {
+      background: var(--info);
+      color: white;
+      padding: 2px 8px;
+      border-radius: var(--radius-sm);
+      font-size: 0.8rem;
+      font-weight: bold;
+      min-width: 24px;
+      text-align: center;
+    }
+
+    .saved-item__btn {
+      padding: var(--spacing-xs) var(--spacing-sm);
+      border: none;
+      border-radius: var(--radius-sm);
+      cursor: pointer;
+      font-size: 1rem;
+      transition: all var(--transition-fast);
+    }
+
+    .saved-item__btn--play {
+      background: var(--primary);
+      color: white;
+    }
+
+    .saved-item__btn--play:hover {
+      background: var(--primary-dark);
+    }
+
+    .saved-item__btn--delete {
+      background: var(--danger-light);
+      color: var(--danger);
+    }
+
+    .saved-item__btn--delete:hover {
+      background: var(--danger);
+      color: white;
+    }
+
+    .empty-state {
+      text-align: center;
+      padding: var(--spacing-xl);
+      color: var(--text-light);
+    }
+
+    .quick-phrases {
+      margin-top: var(--spacing-lg);
+      padding-top: var(--spacing-lg);
+      border-top: 1px solid var(--border-color);
+    }
+
+    .quick-phrases h3 {
+      margin: 0 0 var(--spacing-md) 0;
+      font-size: 1rem;
+      color: var(--text-light);
+    }
+
+    .quick-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+      gap: var(--spacing-sm);
+    }
+
+    .quick-btn {
+      padding: var(--spacing-sm) var(--spacing-md);
+      background: var(--bg-light);
+      border: 1px solid var(--border-color);
+      border-radius: var(--radius-md);
+      cursor: pointer;
+      font-size: 0.95rem;
+      text-align: left;
+      transition: all var(--transition-fast);
+    }
+
+    .quick-btn:hover {
+      background: var(--info-light);
+      border-color: var(--info);
+    }
+
+    .status-bar {
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      background: var(--text-dark);
+      color: white;
+      padding: var(--spacing-sm) var(--spacing-md);
+      font-size: 0.9rem;
+      display: none;
+      align-items: center;
+      justify-content: center;
+      gap: var(--spacing-sm);
+    }
+
+    .status-bar.visible {
+      display: flex;
+    }
+
+    .keyboard-hint {
+      margin-top: var(--spacing-md);
+      padding: var(--spacing-sm);
+      background: var(--info-light);
+      border-radius: var(--radius-sm);
+      font-size: 0.85rem;
+      color: var(--text-dark);
+    }
+
+    .keyboard-hint kbd {
+      background: var(--text-dark);
+      color: white;
+      padding: 2px 6px;
+      border-radius: 3px;
+      font-family: monospace;
+    }
+
+    .clear-all-btn {
+      font-size: 0.8rem;
+      padding: var(--spacing-xs) var(--spacing-sm);
+      background: var(--danger-light);
+      color: var(--danger);
+      border: none;
+      border-radius: var(--radius-sm);
+      cursor: pointer;
+    }
+
+    .clear-all-btn:hover {
+      background: var(--danger);
+      color: white;
+    }
+
+    .voice-warning {
+      margin-top: var(--spacing-md);
+      padding: var(--spacing-md);
+      background: var(--warning-light);
+      border: 2px solid var(--warning);
+      border-radius: var(--radius-md);
+      color: var(--text-dark);
+      font-size: 0.9rem;
+    }
+
+    .voice-warning strong {
+      color: var(--danger);
+    }
+
+    @media (max-width: 600px) {
+      .controls {
+        flex-direction: column;
+      }
+
+      .btn-speak, .btn-save {
+        width: 100%;
+      }
+
+      .settings {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+
+      .quick-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="tts-container">
+    <div class="tts-header">
+      <h1>Vietnamese TTS</h1>
+      <p>Type text and have it spoken aloud</p>
+    </div>
+
+    <div class="input-section">
+      <textarea id="text-input" placeholder="Nhập văn bản cần đọc..." autofocus></textarea>
+
+      <div class="controls">
+        <button class="btn-speak" id="speak-btn">
+          <span id="speak-icon">&#9658;</span>
+          <span id="speak-text">Speak</span>
+        </button>
+        <button class="btn-save" id="save-btn" title="Save to quick phrases">+ Save</button>
+      </div>
+
+      <div class="settings">
+        <div class="setting-group">
+          <label>Voice:</label>
+          <select id="voice-select" style="padding: 4px 8px; border-radius: 4px; min-width: 200px;"></select>
+        </div>
+        <div class="setting-group">
+          <label>Speed:</label>
+          <input type="range" id="rate" min="0.5" max="2" step="0.1" value="1">
+          <span id="rate-value">1x</span>
+        </div>
+        <div class="setting-group">
+          <label>Pitch:</label>
+          <input type="range" id="pitch" min="0.5" max="2" step="0.1" value="1">
+          <span id="pitch-value">1</span>
+        </div>
+      </div>
+
+      <div id="voice-warning" class="voice-warning" style="display: none;">
+        <strong>No Vietnamese voice found!</strong><br>
+        <span>To install: Settings → Time & Language → Language → Add Vietnamese → Download Voice</span>
+      </div>
+
+      <div class="keyboard-hint">
+        <kbd>Enter</kbd> to speak | <kbd>Ctrl+S</kbd> to save | <kbd>1-9</kbd> for quick phrases
+      </div>
+    </div>
+
+    <div class="saved-section">
+      <h2>
+        Saved Phrases
+        <button class="clear-all-btn" id="clear-all-btn">Clear All</button>
+      </h2>
+      <div class="saved-list" id="saved-list">
+        <div class="empty-state">No saved phrases yet. Type something and click Save!</div>
+      </div>
+
+      <div class="quick-phrases">
+        <h3>Common Phrases (click to speak)</h3>
+        <div class="quick-grid" id="quick-grid">
+          <button class="quick-btn">Xin chào</button>
+          <button class="quick-btn">Cảm ơn</button>
+          <button class="quick-btn">Vâng, được</button>
+          <button class="quick-btn">Không, cảm ơn</button>
+          <button class="quick-btn">Chờ một chút</button>
+          <button class="quick-btn">Tôi bị đau họng</button>
+          <button class="quick-btn">Cho tôi nước</button>
+          <button class="quick-btn">Tôi cần nghỉ ngơi</button>
+          <button class="quick-btn">Tôi hiểu rồi</button>
+          <button class="quick-btn">Lặp lại được không?</button>
+          <button class="quick-btn">Tôi đồng ý</button>
+          <button class="quick-btn">Tạm biệt</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="status-bar" id="status-bar">
+    <span id="status-text">Speaking...</span>
+  </div>
+
+  <script>
+    const STORAGE_KEY = 'vietnamese-tts-phrases';
+    const SETTINGS_KEY = 'vietnamese-tts-settings';
+
+    const textInput = document.getElementById('text-input');
+    const speakBtn = document.getElementById('speak-btn');
+    const speakIcon = document.getElementById('speak-icon');
+    const speakText = document.getElementById('speak-text');
+    const saveBtn = document.getElementById('save-btn');
+    const savedList = document.getElementById('saved-list');
+    const quickGrid = document.getElementById('quick-grid');
+    const statusBar = document.getElementById('status-bar');
+    const statusText = document.getElementById('status-text');
+    const rateSlider = document.getElementById('rate');
+    const rateValue = document.getElementById('rate-value');
+    const pitchSlider = document.getElementById('pitch');
+    const pitchValue = document.getElementById('pitch-value');
+    const clearAllBtn = document.getElementById('clear-all-btn');
+    const voiceSelect = document.getElementById('voice-select');
+    const voiceWarning = document.getElementById('voice-warning');
+
+    let isSpeaking = false;
+    let currentUtterance = null;
+    let allVoices = [];
+    let selectedVoice = null;
+
+    // Load saved phrases from localStorage
+    function loadPhrases() {
+      try {
+        const saved = localStorage.getItem(STORAGE_KEY);
+        return saved ? JSON.parse(saved) : [];
+      } catch (e) {
+        console.error('Error loading phrases:', e);
+        return [];
+      }
+    }
+
+    // Save phrases to localStorage
+    function savePhrases(phrases) {
+      try {
+        localStorage.setItem(STORAGE_KEY, JSON.stringify(phrases));
+      } catch (e) {
+        console.error('Error saving phrases:', e);
+      }
+    }
+
+    // Load settings
+    function loadSettings() {
+      try {
+        const saved = localStorage.getItem(SETTINGS_KEY);
+        return saved ? JSON.parse(saved) : { rate: 1, pitch: 1 };
+      } catch (e) {
+        return { rate: 1, pitch: 1 };
+      }
+    }
+
+    // Save settings
+    function saveSettings() {
+      const settings = {
+        rate: parseFloat(rateSlider.value),
+        pitch: parseFloat(pitchSlider.value),
+        voiceName: voiceSelect.value
+      };
+      localStorage.setItem(SETTINGS_KEY, JSON.stringify(settings));
+    }
+
+    // Populate voice dropdown
+    function populateVoices() {
+      allVoices = speechSynthesis.getVoices();
+      voiceSelect.innerHTML = '';
+
+      // Find Vietnamese voices
+      const viVoices = allVoices.filter(v => v.lang.startsWith('vi'));
+
+      // Show warning if no Vietnamese voice
+      if (viVoices.length === 0) {
+        voiceWarning.style.display = 'block';
+      } else {
+        voiceWarning.style.display = 'none';
+      }
+
+      // Add Vietnamese voices first
+      viVoices.forEach((voice, i) => {
+        const option = document.createElement('option');
+        option.value = voice.name;
+        option.textContent = `🇻🇳 ${voice.name}`;
+        option.dataset.lang = voice.lang;
+        if (i === 0) option.selected = true;
+        voiceSelect.appendChild(option);
+      });
+
+      // Add separator if there are VI voices
+      if (viVoices.length > 0 && allVoices.length > viVoices.length) {
+        const sep = document.createElement('option');
+        sep.disabled = true;
+        sep.textContent = '── Other Voices ──';
+        voiceSelect.appendChild(sep);
+      }
+
+      // Add other voices
+      allVoices.filter(v => !v.lang.startsWith('vi')).forEach(voice => {
+        const option = document.createElement('option');
+        option.value = voice.name;
+        option.textContent = `${voice.name} (${voice.lang})`;
+        option.dataset.lang = voice.lang;
+        voiceSelect.appendChild(option);
+      });
+
+      // Load saved voice preference
+      const settings = loadSettings();
+      if (settings.voiceName) {
+        const savedOption = Array.from(voiceSelect.options).find(o => o.value === settings.voiceName);
+        if (savedOption) savedOption.selected = true;
+      }
+
+      updateSelectedVoice();
+    }
+
+    // Update selected voice
+    function updateSelectedVoice() {
+      const selectedName = voiceSelect.value;
+      selectedVoice = allVoices.find(v => v.name === selectedName) || allVoices[0];
+    }
+
+    // Get current voice
+    function getCurrentVoice() {
+      return selectedVoice || allVoices[0];
+    }
+
+    // Speak text
+    function speak(text) {
+      if (!text.trim()) return;
+
+      // Cancel any ongoing speech
+      speechSynthesis.cancel();
+
+      const utterance = new SpeechSynthesisUtterance(text);
+      const voice = getCurrentVoice();
+      utterance.voice = voice;
+      utterance.rate = parseFloat(rateSlider.value);
+      utterance.pitch = parseFloat(pitchSlider.value);
+      utterance.lang = voice ? voice.lang : 'vi-VN';
+
+      utterance.onstart = () => {
+        isSpeaking = true;
+        speakBtn.classList.add('speaking');
+        speakIcon.textContent = '■';
+        speakText.textContent = 'Stop';
+        showStatus('Speaking: ' + text.substring(0, 50) + (text.length > 50 ? '...' : ''));
+      };
+
+      utterance.onend = () => {
+        isSpeaking = false;
+        speakBtn.classList.remove('speaking');
+        speakIcon.textContent = '►';
+        speakText.textContent = 'Speak';
+        hideStatus();
+      };
+
+      utterance.onerror = (e) => {
+        console.error('Speech error:', e);
+        isSpeaking = false;
+        speakBtn.classList.remove('speaking');
+        speakIcon.textContent = '►';
+        speakText.textContent = 'Speak';
+        hideStatus();
+      };
+
+      currentUtterance = utterance;
+      speechSynthesis.speak(utterance);
+    }
+
+    // Stop speaking
+    function stopSpeaking() {
+      speechSynthesis.cancel();
+      isSpeaking = false;
+      speakBtn.classList.remove('speaking');
+      speakIcon.textContent = '►';
+      speakText.textContent = 'Speak';
+      hideStatus();
+    }
+
+    // Show status bar
+    function showStatus(text) {
+      statusText.textContent = text;
+      statusBar.classList.add('visible');
+    }
+
+    // Hide status bar
+    function hideStatus() {
+      statusBar.classList.remove('visible');
+    }
+
+    // Render saved phrases
+    function renderPhrases() {
+      const phrases = loadPhrases();
+
+      if (phrases.length === 0) {
+        savedList.innerHTML = '<div class="empty-state">No saved phrases yet. Type something and click Save!</div>';
+        return;
+      }
+
+      savedList.innerHTML = phrases.map((phrase, index) => `
+        <div class="saved-item" data-index="${index}">
+          <span class="saved-item__shortcut">${index + 1}</span>
+          <span class="saved-item__text">${escapeHtml(phrase)}</span>
+          <button class="saved-item__btn saved-item__btn--play" data-text="${escapeAttr(phrase)}">►</button>
+          <button class="saved-item__btn saved-item__btn--delete" data-index="${index}">✕</button>
+        </div>
+      `).join('');
+    }
+
+    // Escape HTML
+    function escapeHtml(text) {
+      const div = document.createElement('div');
+      div.textContent = text;
+      return div.innerHTML;
+    }
+
+    // Escape attribute
+    function escapeAttr(text) {
+      return text.replace(/"/g, '&quot;').replace(/'/g, '&#39;');
+    }
+
+    // Add phrase
+    function addPhrase(text) {
+      if (!text.trim()) return;
+
+      const phrases = loadPhrases();
+      // Don't add duplicates
+      if (phrases.includes(text.trim())) {
+        showStatus('Phrase already saved!');
+        setTimeout(hideStatus, 2000);
+        return;
+      }
+
+      phrases.unshift(text.trim());
+      // Limit to 20 phrases
+      if (phrases.length > 20) phrases.pop();
+
+      savePhrases(phrases);
+      renderPhrases();
+      showStatus('Phrase saved!');
+      setTimeout(hideStatus, 2000);
+    }
+
+    // Delete phrase
+    function deletePhrase(index) {
+      const phrases = loadPhrases();
+      phrases.splice(index, 1);
+      savePhrases(phrases);
+      renderPhrases();
+    }
+
+    // Clear all phrases
+    function clearAllPhrases() {
+      if (confirm('Delete all saved phrases?')) {
+        savePhrases([]);
+        renderPhrases();
+      }
+    }
+
+    // Event listeners
+    speakBtn.addEventListener('click', () => {
+      if (isSpeaking) {
+        stopSpeaking();
+      } else {
+        speak(textInput.value);
+      }
+    });
+
+    saveBtn.addEventListener('click', () => {
+      addPhrase(textInput.value);
+    });
+
+    clearAllBtn.addEventListener('click', clearAllPhrases);
+
+    // Saved list click handlers
+    savedList.addEventListener('click', (e) => {
+      const playBtn = e.target.closest('.saved-item__btn--play');
+      const deleteBtn = e.target.closest('.saved-item__btn--delete');
+      const textEl = e.target.closest('.saved-item__text');
+
+      if (playBtn) {
+        speak(playBtn.dataset.text);
+      } else if (deleteBtn) {
+        deletePhrase(parseInt(deleteBtn.dataset.index));
+      } else if (textEl) {
+        speak(textEl.textContent);
+      }
+    });
+
+    // Quick phrases click handlers
+    quickGrid.addEventListener('click', (e) => {
+      const btn = e.target.closest('.quick-btn');
+      if (btn) {
+        speak(btn.textContent);
+      }
+    });
+
+    // Keyboard shortcuts
+    document.addEventListener('keydown', (e) => {
+      // Enter to speak (when textarea is focused)
+      if (e.key === 'Enter' && !e.shiftKey && document.activeElement === textInput) {
+        e.preventDefault();
+        if (isSpeaking) {
+          stopSpeaking();
+        } else {
+          speak(textInput.value);
+        }
+      }
+
+      // Ctrl+S to save
+      if (e.key === 's' && e.ctrlKey) {
+        e.preventDefault();
+        addPhrase(textInput.value);
+      }
+
+      // Escape to stop
+      if (e.key === 'Escape') {
+        stopSpeaking();
+      }
+
+      // Number keys 1-9 for quick saved phrases
+      if (e.key >= '1' && e.key <= '9' && document.activeElement !== textInput) {
+        const index = parseInt(e.key) - 1;
+        const phrases = loadPhrases();
+        if (phrases[index]) {
+          speak(phrases[index]);
+        }
+      }
+    });
+
+    // Settings change handlers
+    rateSlider.addEventListener('input', () => {
+      rateValue.textContent = rateSlider.value + 'x';
+      saveSettings();
+    });
+
+    pitchSlider.addEventListener('input', () => {
+      pitchValue.textContent = pitchSlider.value;
+      saveSettings();
+    });
+
+    voiceSelect.addEventListener('change', () => {
+      updateSelectedVoice();
+      saveSettings();
+    });
+
+    // Load voices when available
+    function initVoices() {
+      const voices = speechSynthesis.getVoices();
+      if (voices.length > 0) {
+        populateVoices();
+      }
+    }
+
+    // Initialize
+    function init() {
+      // Load saved settings
+      const settings = loadSettings();
+      rateSlider.value = settings.rate;
+      pitchSlider.value = settings.pitch;
+      rateValue.textContent = settings.rate + 'x';
+      pitchValue.textContent = settings.pitch;
+
+      // Load saved phrases
+      renderPhrases();
+
+      // Initialize voices
+      if (speechSynthesis.onvoiceschanged !== undefined) {
+        speechSynthesis.onvoiceschanged = initVoices;
+      }
+      initVoices();
+    }
+
+    init();
+  </script>
+</body>
+</html>

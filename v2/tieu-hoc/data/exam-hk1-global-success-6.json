@@ -1,0 +1,812 @@
+{
+  "unitId": "exam-hk1-global-success-6",
+  "title": "Ôn tập kiểm tra cuối kỳ 1 - Tiếng Anh 6 Global Success",
+  "description": "Ôn tập đề thi cuối học kỳ 1 Tiếng Anh 6 - Global Success với giải thích chi tiết",
+  "grammarTopics": [
+    "Present Simple (Hiện tại đơn)",
+    "Present Continuous (Hiện tại tiếp diễn)",
+    "There is / There are",
+    "Prepositions of place (Giới từ chỉ nơi chốn)",
+    "Comparatives (So sánh hơn)",
+    "Should / Shouldn't"
+  ],
+  "theory": {
+    "brief": "Đề thi HK1 Tiếng Anh 6 bao gồm các dạng bài: Nghe hiểu (TRUE/FALSE, điền từ), Đọc hiểu, Ngữ pháp, Viết lại câu, và Viết câu từ gợi ý.",
+    "examples": [
+      "There is a fridge in my kitchen. (There is/are)",
+      "The cat is in front of the computer. (Giới từ)",
+      "Oranges are cheaper than apples. (So sánh hơn)"
+    ]
+  },
+  "exercises": [
+    {
+      "id": "de1-q1",
+      "section": "ĐỀ 1 - Question 1",
+      "type": "listening",
+      "subtype": "true-false",
+      "title": "Listening - Phu Quoc Island TRUE/FALSE",
+      "instruction": "Nghe đoạn audio và xác định các câu sau đúng (TRUE) hay sai (FALSE)",
+      "tapescript": "Phu Quoc is a very beautiful island in Viet Nam. It is in Kien Giang. It has beautiful beaches and green forests. It also has resorts, hotels, and bars. The people here are friendly. Phu Quoc has an international airport, and travelling there is easy. Tourists can visit fishing villages, national parks, pagodas and temples. They also like to eat the seafood here. It is delicious. Sailing and fishing are popular water sports. You can buy interesting things at the markets on the island.",
+      "audioSource": "SGK Tiếng Anh 6 Global Success - Unit 5 Skills 2",
+      "questions": [
+        {
+          "id": 1,
+          "statement": "Phu Quoc is a very beautiful island in Viet Nam.",
+          "answer": "TRUE",
+          "explanation": "Đúng. Phú Quốc là một hòn đảo rất đẹp ở Việt Nam."
+        },
+        {
+          "id": 2,
+          "statement": "There are no green forests in Phu Quoc.",
+          "answer": "FALSE",
+          "explanation": "Sai. Phú Quốc có nhiều rừng xanh."
+        },
+        {
+          "id": 3,
+          "statement": "Tourists can visit fishing villages and national parks there.",
+          "answer": "TRUE",
+          "explanation": "Đúng. Du khách có thể thăm làng chài và vườn quốc gia."
+        },
+        {
+          "id": 4,
+          "statement": "You can not play water sports in Phu Quoc.",
+          "answer": "FALSE",
+          "explanation": "Sai. Bạn có thể chơi các môn thể thao dưới nước ở Phú Quốc."
+        }
+      ],
+      "hints": ["Chú ý từ 'no' và 'not' trong câu hỏi"],
+      "points": 25
+    },
+    {
+      "id": "de1-q2",
+      "section": "ĐỀ 1 - Question 2",
+      "type": "listening",
+      "subtype": "multiple-choice",
+      "title": "Listening - Vy's Neighbourhood",
+      "instruction": "Nghe và chọn đáp án đúng để điền vào chỗ trống",
+      "tapescript": "Khang: Where do you live, Vy?\nVy: I live in the suburbs of Ho Chi Minh City.\nKhang: What do you like about your neighbourhood?\nVy: There are many things I like about it. There's a big market near my house. There are also many shops, restaurants and art galleries here. The streets are wide. The people here are helpful and friendly.\nKhang: Is there anything you don't like about it?\nVy: The schools are too far away. There are also some factories near here, so the air isn't very clean and the streets are noisy and crowded.",
+      "audioSource": "SGK Tiếng Anh 6 Global Success - Unit 4 Skills 2",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Vy lives in the _______ of Ho Chi Minh city.",
+          "options": ["centre", "suburbs", "suburbs of Da Nang city", "supermarket"],
+          "correctIndex": 1,
+          "explanation": "Vy sống ở ngoại ô (suburbs) của thành phố Hồ Chí Minh."
+        },
+        {
+          "id": 2,
+          "question": "There is a big _______ near her house.",
+          "options": ["school", "temple", "market", "city"],
+          "correctIndex": 2,
+          "explanation": "Có một chợ (market) lớn gần nhà cô ấy."
+        },
+        {
+          "id": 3,
+          "question": "The people here are helpful and _______.",
+          "options": ["friendly", "kind", "hard-working", "generous"],
+          "correctIndex": 0,
+          "explanation": "Người dân ở đây tốt bụng và thân thiện (friendly)."
+        },
+        {
+          "id": 4,
+          "question": "The streets are noisy and _______.",
+          "options": ["busy", "modern", "narrow", "crowded"],
+          "correctIndex": 3,
+          "explanation": "Các con đường ồn ào và ĐÔNG ĐÚC (crowded) - theo SGK Unit 4 Skills 2."
+        }
+      ],
+      "hints": ["Chú ý các tính từ mô tả người và nơi chốn"],
+      "points": 25
+    },
+    {
+      "id": "de1-q3",
+      "section": "ĐỀ 1 - Question 3",
+      "type": "reading-comprehension",
+      "title": "Reading - Ha Long Bay",
+      "passage": [
+        "Ha Long Bay is in Quang Ninh. It has many (1)_______ and caves. Tuan Chau, with its beautiful (2)_______, is a popular tourist attraction in Ha Long Bay.",
+        "There you can enjoy great (3)_______ natural. And you can join in exciting activities. Ha Long Bay is Viet Nam's best natural (4)_______."
+      ],
+      "questions": [
+        {
+          "id": 1,
+          "question": "Blank (1): Ha Long Bay has many _______ and caves",
+          "options": ["rivers", "lakes", "islands", "mountains"],
+          "correctIndex": 2,
+          "explanation": "Vịnh Hạ Long có nhiều ĐẢO (islands) và hang động."
+        },
+        {
+          "id": 2,
+          "question": "Blank (2): Tuan Chau, with its beautiful _______",
+          "options": ["beaches", "deserts", "forests", "waterfalls"],
+          "correctIndex": 0,
+          "explanation": "Tuần Châu với những bãi biển (beaches) đẹp."
+        },
+        {
+          "id": 3,
+          "question": "Blank (3): You can enjoy great _______ natural",
+          "options": ["vegetables", "drink", "fresh fruit", "seafood"],
+          "correctIndex": 3,
+          "explanation": "Bạn có thể thưởng thức hải sản (seafood) tươi ngon."
+        },
+        {
+          "id": 4,
+          "question": "Blank (4): Viet Nam's best natural _______",
+          "options": ["wonder", "sand", "landscapes", "bay"],
+          "correctIndex": 0,
+          "explanation": "Vịnh Hạ Long là kỳ quan (wonder) thiên nhiên đẹp nhất của Việt Nam."
+        }
+      ],
+      "hints": ["Chú ý ngữ cảnh về du lịch biển"],
+      "points": 25
+    },
+    {
+      "id": "de1-q4",
+      "section": "ĐỀ 1 - Question 4",
+      "type": "reading-comprehension",
+      "title": "Reading - Khang's Neighbourhood",
+      "passage": [
+        "Khang lives in the suburbs of Da Nang city. It is great for outdoor activities because it has beautiful parks, sandy beaches, and fine weather.",
+        "It has many shops, restaurants, and markets. The people here are friendly. The food is good. There are two things he dislikes about it: There are many modern buildings and the streets are busy and crowded."
+      ],
+      "questions": [
+        {
+          "id": 1,
+          "question": "Why is Khang's neighbourhood great for outdoor activities?",
+          "options": ["It has beautiful parks", "It has sandy beaches", "It has many shops", "A & B are correct"],
+          "correctIndex": 3,
+          "explanation": "Cả A (có công viên đẹp) và B (có bãi biển cát) đều đúng."
+        }
+      ],
+      "hints": ["Đọc kỹ câu đầu tiên của đoạn văn"],
+      "points": 25
+    },
+    {
+      "id": "de1-q5",
+      "section": "ĐỀ 1 - Question 5",
+      "type": "multiple-choice",
+      "question": "How many buildings are there in the writer's new school?",
+      "options": ["two", "three", "four", "five"],
+      "correctIndex": 1,
+      "explanation": "Trường có 3 (three) tòa nhà. 'It has three buildings.'",
+      "hints": ["Đọc kỹ thông tin về trường học"],
+      "points": 10
+    },
+    {
+      "id": "de1-q5-2",
+      "section": "ĐỀ 1 - Question 5",
+      "type": "multiple-choice",
+      "question": "What are the teachers like?",
+      "options": ["hard-working", "kind", "friendly", "clever"],
+      "correctIndex": 2,
+      "explanation": "Các giáo viên thân thiện (friendly). 'They are friendly.'",
+      "hints": ["Tìm tính từ mô tả giáo viên"],
+      "points": 10
+    },
+    {
+      "id": "de1-q5-3",
+      "section": "ĐỀ 1 - Question 5",
+      "type": "multiple-choice",
+      "question": "Are there any art clubs in the writer's school?",
+      "options": ["Yes, there are", "No, there aren't", "Yes, he is", "No, he isn't"],
+      "correctIndex": 0,
+      "explanation": "Có, có câu lạc bộ nghệ thuật. Trường có các CLB: Dance, English, Arts, Football, and basketball.",
+      "hints": ["Đọc phần câu lạc bộ của trường"],
+      "points": 10
+    },
+    {
+      "id": "de1-q5-4",
+      "section": "ĐỀ 1 - Question 5",
+      "type": "multiple-choice",
+      "question": "Why does the writer love his school?",
+      "options": ["Because it is a good school", "Because it is a beautiful school", "Because it is a quiet school", "Because it is a far school"],
+      "correctIndex": 0,
+      "explanation": "Vì đó là một trường tốt (good school). 'I love my school because it is a good school.'",
+      "hints": ["Tìm câu có chứa 'because'"],
+      "points": 10
+    },
+    {
+      "id": "de1-q6-1",
+      "section": "ĐỀ 1 - Question 6",
+      "type": "sentence-rewrite",
+      "original": "There is a fridge in my house.",
+      "instruction": "Viết lại câu bắt đầu với: I have",
+      "starterText": "I have",
+      "answer": "I have a fridge in my house.",
+      "acceptedAnswers": ["I have a fridge in my house.", "I have a fridge in my house"],
+      "explanation": "There is a + N → I have a + N",
+      "hints": ["Chuyển từ 'There is' sang 'I have'"],
+      "points": 10
+    },
+    {
+      "id": "de1-q6-2",
+      "section": "ĐỀ 1 - Question 6",
+      "type": "sentence-rewrite",
+      "original": "The cat is in front of the computer.",
+      "instruction": "Viết lại câu bắt đầu với: The computer is",
+      "starterText": "The computer is",
+      "answer": "The computer is behind the cat.",
+      "acceptedAnswers": ["The computer is behind the cat.", "The computer is behind the cat"],
+      "explanation": "in front of ↔ behind (đối lập)",
+      "hints": ["Giới từ đối lập: in front of ↔ behind"],
+      "points": 10
+    },
+    {
+      "id": "de1-q6-3",
+      "section": "ĐỀ 1 - Question 6",
+      "type": "sentence-rewrite",
+      "original": "Apples are more expensive than oranges.",
+      "instruction": "Viết lại câu bắt đầu với: Oranges are",
+      "starterText": "Oranges are",
+      "answer": "Oranges are cheaper than apples.",
+      "acceptedAnswers": ["Oranges are cheaper than apples.", "Oranges are cheaper than apples", "Oranges are less expensive than apples.", "Oranges are less expensive than apples"],
+      "explanation": "more expensive ↔ cheaper (đối lập)",
+      "hints": ["So sánh hơn đối lập: expensive ↔ cheap"],
+      "points": 10
+    },
+    {
+      "id": "de1-q6-4",
+      "section": "ĐỀ 1 - Question 6",
+      "type": "sentence-rewrite",
+      "original": "I want to become a football player.",
+      "instruction": "Viết lại câu bắt đầu với: I would",
+      "starterText": "I would",
+      "answer": "I would like to become a football player.",
+      "acceptedAnswers": ["I would like to become a football player.", "I would like to become a football player"],
+      "explanation": "want to → would like to",
+      "hints": ["want to = would like to"],
+      "points": 10
+    },
+    {
+      "id": "de1-q7-1",
+      "section": "ĐỀ 1 - Question 7",
+      "type": "fill-blank",
+      "question": "Let's (go) _______ to Cho Gao park.",
+      "answer": "go",
+      "acceptedAnswers": ["go"],
+      "explanation": "Let's + V (nguyên mẫu)",
+      "hints": ["Let's + V-inf"],
+      "points": 10
+    },
+    {
+      "id": "de1-q7-2",
+      "section": "ĐỀ 1 - Question 7",
+      "type": "fill-blank",
+      "question": "We should (help) _______ with the housework.",
+      "answer": "help",
+      "acceptedAnswers": ["help"],
+      "explanation": "should + V (nguyên mẫu)",
+      "hints": ["should + V-inf"],
+      "points": 10
+    },
+    {
+      "id": "de1-q7-3",
+      "section": "ĐỀ 1 - Question 7",
+      "type": "fill-blank",
+      "question": "Minh often (play) _______ sports on the Sunday.",
+      "answer": "plays",
+      "acceptedAnswers": ["plays"],
+      "explanation": "Hiện tại đơn với chủ ngữ số ít: He/She + V-s/es",
+      "hints": ["Chủ ngữ số ít + V-s/es"],
+      "points": 10
+    },
+    {
+      "id": "de1-q7-4",
+      "section": "ĐỀ 1 - Question 7",
+      "type": "fill-blank",
+      "question": "Hoa and Ba (read) _______ books in the library now.",
+      "answer": "are reading",
+      "acceptedAnswers": ["are reading"],
+      "explanation": "Hiện tại tiếp diễn với 'now': S + am/is/are + V-ing",
+      "hints": ["Dấu hiệu 'now' → hiện tại tiếp diễn"],
+      "points": 10
+    },
+    {
+      "id": "de1-q8-1",
+      "section": "ĐỀ 1 - Question 8",
+      "type": "sentence-build",
+      "prompt": "Lan / live / the country / house / in / Tien Giang",
+      "answer": "Lan lives in the country house in Tien Giang.",
+      "acceptedAnswers": ["Lan lives in the country house in Tien Giang.", "Lan lives in the country house in Tien Giang", "Lan lives in a country house in Tien Giang.", "Lan lives in a country house in Tien Giang"],
+      "explanation": "Sắp xếp: S + V + địa điểm",
+      "hints": ["Chú ý chia động từ 'live' với chủ ngữ số ít"],
+      "points": 10
+    },
+    {
+      "id": "de1-q8-2",
+      "section": "ĐỀ 1 - Question 8",
+      "type": "sentence-build",
+      "prompt": "There / be / a river / a / temple / there",
+      "answer": "There is a river and a temple there.",
+      "acceptedAnswers": ["There is a river and a temple there.", "There is a river and a temple there", "There are a river and a temple there.", "There are a river and a temple there"],
+      "explanation": "There is/are + N + địa điểm",
+      "hints": ["Dùng 'and' để nối hai danh từ"],
+      "points": 10
+    },
+    {
+      "id": "de1-q8-3",
+      "section": "ĐỀ 1 - Question 8",
+      "type": "sentence-build",
+      "prompt": "The food / be / delicious / cheap",
+      "answer": "The food is delicious and cheap.",
+      "acceptedAnswers": ["The food is delicious and cheap.", "The food is delicious and cheap"],
+      "explanation": "S + be + adj1 and adj2",
+      "hints": ["Dùng 'and' để nối hai tính từ"],
+      "points": 10
+    },
+    {
+      "id": "de1-q8-4",
+      "section": "ĐỀ 1 - Question 8",
+      "type": "sentence-build",
+      "prompt": "She / like / her / neighbourhood / very much",
+      "answer": "She likes her neighbourhood very much.",
+      "acceptedAnswers": ["She likes her neighbourhood very much.", "She likes her neighbourhood very much"],
+      "explanation": "S + V-s/es + O + very much",
+      "hints": ["Chủ ngữ số ít + V-s/es"],
+      "points": 10
+    },
+    {
+      "id": "de2-q1",
+      "section": "ĐỀ 2 - Question 1",
+      "type": "listening",
+      "subtype": "true-false",
+      "title": "Listening - Tet Holiday TRUE/FALSE",
+      "instruction": "Nghe đoạn audio và xác định các câu sau đúng (TRUE) hay sai (FALSE)",
+      "questions": [
+        {
+          "id": 1,
+          "statement": "Tet is a time for their family gathering.",
+          "answer": "TRUE",
+          "explanation": "Đúng. Tết là thời gian sum họp gia đình."
+        },
+        {
+          "id": 2,
+          "statement": "Children get lucky money at Tet.",
+          "answer": "TRUE",
+          "explanation": "Đúng. Trẻ em được nhận tiền lì xì vào dịp Tết."
+        },
+        {
+          "id": 3,
+          "statement": "This year Tet is in January.",
+          "answer": "FALSE",
+          "explanation": "Sai. Tết năm nay vào tháng 2 (February)."
+        },
+        {
+          "id": 4,
+          "statement": "They clean their homes and decorate them with coloured paper.",
+          "answer": "TRUE",
+          "explanation": "Đúng. Họ dọn dẹp nhà cửa và trang trí bằng giấy màu."
+        }
+      ],
+      "hints": ["Chú ý thời gian diễn ra Tết"],
+      "points": 25
+    },
+    {
+      "id": "de2-q2",
+      "section": "ĐỀ 2 - Question 2",
+      "type": "listening",
+      "subtype": "multiple-choice",
+      "title": "Listening - Preparing for Tet",
+      "instruction": "Nghe và chọn đáp án đúng để điền vào chỗ trống",
+      "tapescript": "Dear Tom, Tet is coming and I'm very happy. We do a lot of things before Tet. We throw some old things away. We clean and decorate our homes. My mother goes shopping and buys food, red envelopes, and peach flowers. She also buys new clothes for us. My father makes banh chung and cooks them on an open fire. He says that I should make some wishes at Tet, and I shouldn't break anything. It brings bad luck. Yours, Nguyen.",
+      "audioSource": "SGK Tiếng Anh 6 Global Success - Unit 6 Skills 2",
+      "questions": [
+        {
+          "id": 1,
+          "question": "We clean and (1)_______ our homes.",
+          "options": ["decorate", "sells", "does", "repair"],
+          "correctIndex": 0,
+          "explanation": "Chúng ta dọn dẹp và trang trí (decorate) nhà cửa."
+        },
+        {
+          "id": 2,
+          "question": "My mother goes shopping and buys food, red envelopes, and (2)_______.",
+          "options": ["peach flowers", "makes", "wraps", "does"],
+          "correctIndex": 0,
+          "explanation": "Mẹ tôi đi mua sắm và mua hoa đào (peach flowers)."
+        },
+        {
+          "id": 3,
+          "question": "He says that I shouldn't (3)_______ anything. It brings bad luck.",
+          "options": ["light", "break", "say", "cook"],
+          "correctIndex": 1,
+          "explanation": "Bố nói rằng không nên làm vỡ (break) bất cứ thứ gì vì sẽ xui."
+        }
+      ],
+      "hints": ["Chú ý các hoạt động chuẩn bị Tết"],
+      "points": 25
+    },
+    {
+      "id": "de2-q3",
+      "section": "ĐỀ 2 - Question 3",
+      "type": "reading-comprehension",
+      "title": "Reading - Tet Holiday",
+      "passage": [
+        "Tet is the most important festival for every Vietnamese to (1)_______ a good time while thinking about the new year and the old.",
+        "At Tet, people (2)_______ the houses. Almost all shops are closed with people shopping for Tet. Tet is a time for family (3)_______.",
+        "Tet is also a time for peace and love. Parents give children lucky money in red (4)_______."
+      ],
+      "questions": [
+        {
+          "id": 1,
+          "question": "Blank (1): Tet is time to _______ a good time",
+          "options": ["relax", "have", "do", "get"],
+          "correctIndex": 1,
+          "explanation": "have a good time = có thời gian vui vẻ"
+        },
+        {
+          "id": 2,
+          "question": "Blank (2): At Tet, people _______ the houses",
+          "options": ["paint", "clean", "gatherings", "gather"],
+          "correctIndex": 1,
+          "explanation": "Dọn dẹp (clean) nhà cửa vào dịp Tết."
+        },
+        {
+          "id": 3,
+          "question": "Blank (3): Tet is a time for family _______",
+          "options": ["fun", "happy", "gatherings", "cooking"],
+          "correctIndex": 2,
+          "explanation": "family gatherings = sum họp gia đình"
+        },
+        {
+          "id": 4,
+          "question": "Blank (4): lucky money in red _______",
+          "options": ["letters", "envelopes", "bags", "paper"],
+          "correctIndex": 1,
+          "explanation": "red envelopes = phong bì đỏ (đựng tiền lì xì)"
+        }
+      ],
+      "hints": ["Chú ý các hoạt động ngày Tết"],
+      "points": 25
+    },
+    {
+      "id": "de2-q6-1",
+      "section": "ĐỀ 2 - Question 6",
+      "type": "sentence-rewrite",
+      "original": "There are two TVs in my living room.",
+      "instruction": "Viết lại câu bắt đầu với: I have",
+      "starterText": "I have",
+      "answer": "I have two TVs in my living room.",
+      "acceptedAnswers": ["I have two TVs in my living room.", "I have two TVs in my living room"],
+      "explanation": "There are + N → I have + N",
+      "hints": ["Chuyển từ 'There are' sang 'I have'"],
+      "points": 10
+    },
+    {
+      "id": "de2-q6-2",
+      "section": "ĐỀ 2 - Question 6",
+      "type": "sentence-rewrite",
+      "original": "The computer is behind the cat.",
+      "instruction": "Viết lại câu bắt đầu với: The cat is",
+      "starterText": "The cat is",
+      "answer": "The cat is in front of the computer.",
+      "acceptedAnswers": ["The cat is in front of the computer.", "The cat is in front of the computer"],
+      "explanation": "behind ↔ in front of (đối lập)",
+      "hints": ["Giới từ đối lập: behind ↔ in front of"],
+      "points": 10
+    },
+    {
+      "id": "de2-q6-3",
+      "section": "ĐỀ 2 - Question 6",
+      "type": "sentence-rewrite",
+      "original": "Nam is shorter than Minh.",
+      "instruction": "Viết lại câu bắt đầu với: Minh is",
+      "starterText": "Minh is",
+      "answer": "Minh is taller than Nam.",
+      "acceptedAnswers": ["Minh is taller than Nam.", "Minh is taller than Nam"],
+      "explanation": "shorter ↔ taller (đối lập)",
+      "hints": ["So sánh hơn đối lập: short ↔ tall"],
+      "points": 10
+    },
+    {
+      "id": "de2-q6-4",
+      "section": "ĐỀ 2 - Question 6",
+      "type": "sentence-rewrite",
+      "original": "It is wrong of us to throw rubbish.",
+      "instruction": "Viết lại câu bắt đầu với: We mustn't",
+      "starterText": "We mustn't",
+      "answer": "We mustn't throw rubbish.",
+      "acceptedAnswers": ["We mustn't throw rubbish.", "We mustn't throw rubbish", "We must not throw rubbish.", "We must not throw rubbish"],
+      "explanation": "It is wrong to V → S mustn't V",
+      "hints": ["It is wrong → mustn't"],
+      "points": 10
+    },
+    {
+      "id": "de2-q7-1",
+      "section": "ĐỀ 2 - Question 7",
+      "type": "fill-blank",
+      "question": "You shouldn't (eat) _______ a lot of sweets.",
+      "answer": "eat",
+      "acceptedAnswers": ["eat"],
+      "explanation": "shouldn't + V (nguyên mẫu)",
+      "hints": ["shouldn't + V-inf"],
+      "points": 10
+    },
+    {
+      "id": "de2-q7-2",
+      "section": "ĐỀ 2 - Question 7",
+      "type": "fill-blank",
+      "question": "There (be not) _______ any bananas.",
+      "answer": "aren't",
+      "acceptedAnswers": ["aren't", "are not"],
+      "explanation": "There are not = There aren't (số nhiều)",
+      "hints": ["bananas (số nhiều) → are"],
+      "points": 10
+    },
+    {
+      "id": "de2-q7-3",
+      "section": "ĐỀ 2 - Question 7",
+      "type": "fill-blank",
+      "question": "Nam (watch) _______ TV every day.",
+      "answer": "watches",
+      "acceptedAnswers": ["watches"],
+      "explanation": "Hiện tại đơn với chủ ngữ số ít: He/She + V-es",
+      "hints": ["every day → hiện tại đơn"],
+      "points": 10
+    },
+    {
+      "id": "de2-q7-4",
+      "section": "ĐỀ 2 - Question 7",
+      "type": "fill-blank",
+      "question": "He (play) _______ the piano now.",
+      "answer": "is playing",
+      "acceptedAnswers": ["is playing"],
+      "explanation": "Hiện tại tiếp diễn với 'now': S + is + V-ing",
+      "hints": ["Dấu hiệu 'now' → hiện tại tiếp diễn"],
+      "points": 10
+    },
+    {
+      "id": "de2-q8-1",
+      "section": "ĐỀ 2 - Question 8",
+      "type": "sentence-build",
+      "prompt": "Lam's attraction / be / Da Lat",
+      "answer": "Lam's attraction is Da Lat.",
+      "acceptedAnswers": ["Lam's attraction is Da Lat.", "Lam's attraction is Da Lat"],
+      "explanation": "Sắp xếp: S + be + địa điểm",
+      "hints": ["Chú ý cấu trúc sở hữu 's"],
+      "points": 10
+    },
+    {
+      "id": "de2-q8-2",
+      "section": "ĐỀ 2 - Question 8",
+      "type": "sentence-build",
+      "prompt": "She / often / go / there / plane",
+      "answer": "She often goes there by plane.",
+      "acceptedAnswers": ["She often goes there by plane.", "She often goes there by plane"],
+      "explanation": "S + often + V-s/es + địa điểm + by + phương tiện",
+      "hints": ["often → hiện tại đơn, by + phương tiện"],
+      "points": 10
+    },
+    {
+      "id": "de2-q8-3",
+      "section": "ĐỀ 2 - Question 8",
+      "type": "sentence-build",
+      "prompt": "It / be / famous / waterfalls",
+      "answer": "It is famous for waterfalls.",
+      "acceptedAnswers": ["It is famous for waterfalls.", "It is famous for waterfalls", "It is famous for its waterfalls.", "It is famous for its waterfalls"],
+      "explanation": "be famous for = nổi tiếng về",
+      "hints": ["famous for + N"],
+      "points": 10
+    },
+    {
+      "id": "de2-q8-4",
+      "section": "ĐỀ 2 - Question 8",
+      "type": "sentence-build",
+      "prompt": "There / she / can / visit / love valley",
+      "answer": "There she can visit Love Valley.",
+      "acceptedAnswers": ["There she can visit Love Valley.", "There she can visit Love Valley", "She can visit Love Valley there.", "She can visit Love Valley there"],
+      "explanation": "There + S + can + V + địa điểm",
+      "hints": ["can + V-inf"],
+      "points": 10
+    },
+    {
+      "id": "de3-q1",
+      "section": "ĐỀ 3 - Question 1",
+      "type": "listening",
+      "subtype": "true-false",
+      "title": "Listening - Vy's Neighbourhood TRUE/FALSE",
+      "instruction": "Nghe đoạn audio và xác định các câu sau đúng (TRUE) hay sai (FALSE)",
+      "questions": [
+        {
+          "id": 1,
+          "statement": "Vy lives in the centre of Ho Chi Minh city.",
+          "answer": "FALSE",
+          "explanation": "Sai. Vy sống ở ngoại ô (suburbs), không phải trung tâm."
+        },
+        {
+          "id": 2,
+          "statement": "The streets are narrow.",
+          "answer": "FALSE",
+          "explanation": "Sai. Trong bài nghe, Vy nói 'The streets are wide' (rộng), không phải narrow (hẹp)."
+        },
+        {
+          "id": 3,
+          "statement": "There is a big market near her house.",
+          "answer": "TRUE",
+          "explanation": "Đúng. Có một chợ lớn gần nhà cô ấy."
+        },
+        {
+          "id": 4,
+          "statement": "There are some factories near her neighbourhood.",
+          "answer": "TRUE",
+          "explanation": "Đúng. Có một số nhà máy gần khu vực của cô ấy."
+        }
+      ],
+      "hints": ["Phân biệt 'centre' và 'suburbs'"],
+      "points": 25
+    },
+    {
+      "id": "de3-q2",
+      "section": "ĐỀ 3 - Question 2",
+      "type": "listening",
+      "subtype": "multiple-choice",
+      "title": "Listening - Mi and Nick's Conversation",
+      "instruction": "Nghe và chọn đáp án đúng để điền vào chỗ trống",
+      "tapescript": "Mi: Wow! Your room looks so big, Nick.\nNick: It's Elena's room. She's my sister.\nMi: I see. Is there a TV behind you?\nNick: Yes, there is. Where do you live, Mi?\nMi: I live in a town house. And you?\nNick: I live in a country house. Who do you live with?\nMi: My parents and younger brother. We're moving to a flat next month!",
+      "audioSource": "SGK Tiếng Anh 6 Global Success - Unit 2 Getting Started",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Mi: Wow! Your room looks so (1)_______.",
+          "options": ["small", "large", "big", "wide"],
+          "correctIndex": 2,
+          "explanation": "Phòng trông rất lớn (big)."
+        },
+        {
+          "id": 2,
+          "question": "Mi: Is there a TV (2)_______ you?",
+          "options": ["next to", "in front of", "behind", "besides"],
+          "correctIndex": 2,
+          "explanation": "TV ở phía sau (behind) bạn."
+        },
+        {
+          "id": 3,
+          "question": "Mi: I live in a (3)_______ house.",
+          "options": ["country", "town", "city", "flat"],
+          "correctIndex": 1,
+          "explanation": "Mi sống ở nhà phố (town house) - theo SGK Unit 2."
+        },
+        {
+          "id": 4,
+          "question": "Mi: My parents and younger (4)_______.",
+          "options": ["brother", "sister", "cousin", "aunt"],
+          "correctIndex": 0,
+          "explanation": "Em trai (brother)."
+        }
+      ],
+      "hints": ["Chú ý các giới từ chỉ vị trí"],
+      "points": 25
+    },
+    {
+      "id": "de3-q3",
+      "section": "ĐỀ 3 - Question 3",
+      "type": "reading-comprehension",
+      "title": "Reading - Mui Ne",
+      "passage": [
+        "Mui Ne is popular for its amazing landscapes. The (1)_______ has different colours: white, yellow, red... It's like a (2)_______.",
+        "There. You can ride a bike down the (3)_______. You can also fly the kites and have a picnic by the (4)_______."
+      ],
+      "questions": [
+        {
+          "id": 1,
+          "question": "Blank (1): The _______ has different colours",
+          "options": ["beach", "sand", "landscapes", "scenery"],
+          "correctIndex": 1,
+          "explanation": "Cát (sand) có nhiều màu sắc khác nhau."
+        },
+        {
+          "id": 2,
+          "question": "Blank (2): It's like a _______",
+          "options": ["desert", "wonder", "mountain", "island"],
+          "correctIndex": 0,
+          "explanation": "Giống như sa mạc (desert)."
+        },
+        {
+          "id": 3,
+          "question": "Blank (3): You can ride a bike down the _______",
+          "options": ["cave", "waterfall", "slopes", "hill"],
+          "correctIndex": 2,
+          "explanation": "Bạn có thể đạp xe xuống các sườn dốc (slopes)."
+        },
+        {
+          "id": 4,
+          "question": "Blank (4): have a picnic by the _______",
+          "options": ["sea", "sand-hill", "park", "beach"],
+          "correctIndex": 3,
+          "explanation": "Dã ngoại bên bãi biển (beach)."
+        }
+      ],
+      "hints": ["Chú ý đặc điểm địa hình Mũi Né"],
+      "points": 25
+    },
+    {
+      "id": "de3-q5-1",
+      "section": "ĐỀ 3 - Question 5",
+      "type": "multiple-choice",
+      "question": "A place where a large amount of water falls from a high place. It is...",
+      "options": ["lake", "river", "waterfall", "beach"],
+      "correctIndex": 2,
+      "explanation": "Waterfall = thác nước (nơi nước chảy từ trên cao xuống).",
+      "hints": ["water falls = nước rơi xuống"],
+      "points": 10
+    },
+    {
+      "id": "de3-q5-2",
+      "section": "ĐỀ 3 - Question 5",
+      "type": "multiple-choice",
+      "question": "At Tet, people _______ the houses with flowers.",
+      "options": ["celebrate", "decorate", "tidy", "clean"],
+      "correctIndex": 1,
+      "explanation": "decorate = trang trí. Vào dịp Tết, người ta trang trí nhà cửa bằng hoa.",
+      "hints": ["trang trí = decorate"],
+      "points": 10
+    },
+    {
+      "id": "de3-q5-3",
+      "section": "ĐỀ 3 - Question 5",
+      "type": "multiple-choice",
+      "question": "Children get it in the red envelopes. They are...",
+      "options": ["lucky money", "new clothes", "beautiful flowers", "Banh Chung"],
+      "correctIndex": 0,
+      "explanation": "lucky money = tiền lì xì, được cho trong phong bì đỏ.",
+      "hints": ["red envelopes = phong bì đỏ → tiền lì xì"],
+      "points": 10
+    },
+    {
+      "id": "de3-q5-4",
+      "section": "ĐỀ 3 - Question 5",
+      "type": "multiple-choice",
+      "question": "Today is sunny. I need to put on some...",
+      "options": ["compass", "sunscreen", "plaster", "backpack"],
+      "correctIndex": 1,
+      "explanation": "sunscreen = kem chống nắng. Trời nắng thì cần thoa kem chống nắng.",
+      "hints": ["sunny = nắng → cần kem chống nắng"],
+      "points": 10
+    },
+    {
+      "id": "de3-q8-1",
+      "section": "ĐỀ 3 - Question 8",
+      "type": "sentence-build",
+      "prompt": "I / writing / Phu Quoc island",
+      "answer": "I am writing about Phu Quoc island.",
+      "acceptedAnswers": ["I am writing about Phu Quoc island.", "I am writing about Phu Quoc island"],
+      "explanation": "S + am/is/are + V-ing + về + địa điểm",
+      "hints": ["Hiện tại tiếp diễn: am + V-ing"],
+      "points": 10
+    },
+    {
+      "id": "de3-q8-2",
+      "section": "ĐỀ 3 - Question 8",
+      "type": "sentence-build",
+      "prompt": "It / be / Kien Giang / province",
+      "answer": "It is in Kien Giang province.",
+      "acceptedAnswers": ["It is in Kien Giang province.", "It is in Kien Giang province"],
+      "explanation": "S + be + in + địa điểm",
+      "hints": ["Dùng 'in' trước tên tỉnh"],
+      "points": 10
+    },
+    {
+      "id": "de3-q8-3",
+      "section": "ĐỀ 3 - Question 8",
+      "type": "sentence-build",
+      "prompt": "It / is / famous / for / seafood",
+      "answer": "It is famous for seafood.",
+      "acceptedAnswers": ["It is famous for seafood.", "It is famous for seafood"],
+      "explanation": "be famous for = nổi tiếng về",
+      "hints": ["famous for + N"],
+      "points": 10
+    },
+    {
+      "id": "de3-q8-4",
+      "section": "ĐỀ 3 - Question 8",
+      "type": "sentence-build",
+      "prompt": "I / can / play / water / sports / in / Phu Quoc",
+      "answer": "I can play water sports in Phu Quoc.",
+      "acceptedAnswers": ["I can play water sports in Phu Quoc.", "I can play water sports in Phu Quoc"],
+      "explanation": "S + can + V + O + địa điểm",
+      "hints": ["can + V-inf"],
+      "points": 10
+    }
+  ]
+}

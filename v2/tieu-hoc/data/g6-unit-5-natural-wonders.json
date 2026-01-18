@@ -1,0 +1,436 @@
+{
+  "unitId": "g6-unit-5-natural-wonders",
+  "title": "Unit 5: Natural Wonders of Viet Nam - Must/Mustn't & Countable/Uncountable Nouns",
+  "studentName": "Tran Gia Hung",
+  "grade": 6,
+  "grammarTopics": [
+    "Must/Mustn't (Modal verbs)",
+    "Countable and Uncountable Nouns",
+    "Some/Any, Much/Many",
+    "Natural Wonders Vocabulary"
+  ],
+  "theory": {
+    "brief": "Must + V0 = phải làm gì (bắt buộc). Mustn't + V0 = không được phép làm gì (cấm). Danh từ đếm được: có thể đếm trực tiếp (book, person). Danh từ không đếm được: không đếm trực tiếp (water, rice). Some dùng trong câu khẳng định, Any dùng trong câu phủ định/nghi vấn. Much đi với danh từ không đếm được, Many đi với danh từ đếm được số nhiều.",
+    "examples": [
+      "You must be quiet in the library. (Bạn phải im lặng trong thư viện.)",
+      "You mustn't talk in class. (Bạn không được phép nói chuyện trong lớp.)",
+      "There are many books on the table. (Có nhiều sách trên bàn.)",
+      "There isn't much water in the bottle. (Không có nhiều nước trong chai.)",
+      "I have some apples. (Tôi có vài quả táo.)"
+    ]
+  },
+  "exercises": [
+    {
+      "id": "g6u5-ex1",
+      "type": "fill-blank",
+      "question": "You _______ be quiet in the library.",
+      "wordHint": "phải",
+      "answer": "must",
+      "acceptedAnswers": [
+        "must"
+      ],
+      "hints": [
+        "Dùng 'must' cho bắt buộc"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u5-ex2",
+      "type": "fill-blank",
+      "question": "Students _______ wear uniforms at school.",
+      "wordHint": "phải",
+      "answer": "must",
+      "acceptedAnswers": [
+        "must"
+      ],
+      "hints": [
+        "'must' = phải làm"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u5-ex3",
+      "type": "fill-blank",
+      "question": "You _______ eat or drink in the computer room.",
+      "wordHint": "không được",
+      "answer": "mustn't",
+      "acceptedAnswers": [
+        "mustn't",
+        "must not"
+      ],
+      "hints": [
+        "'mustn't' = không được phép"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u5-ex4",
+      "type": "fill-blank",
+      "question": "We _______ throw rubbish in the park.",
+      "wordHint": "không được",
+      "answer": "mustn't",
+      "acceptedAnswers": [
+        "mustn't",
+        "must not"
+      ],
+      "hints": [
+        "Dùng 'mustn't' cho cấm đoán"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u5-ex5",
+      "type": "fill-blank",
+      "question": "You _______ do your homework before you go out.",
+      "wordHint": "phải",
+      "answer": "must",
+      "acceptedAnswers": [
+        "must"
+      ],
+      "hints": [
+        "Bắt buộc phải làm = must"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u5-ex6",
+      "type": "fill-blank",
+      "question": "There are _______ (many/much) students in the classroom.",
+      "wordHint": "many/much",
+      "answer": "many",
+      "acceptedAnswers": [
+        "many"
+      ],
+      "hints": [
+        "'students' đếm được số nhiều → many"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u5-ex7",
+      "type": "fill-blank",
+      "question": "There isn't _______ (many/much) water in the glass.",
+      "wordHint": "many/much",
+      "answer": "much",
+      "acceptedAnswers": [
+        "much"
+      ],
+      "hints": [
+        "'water' không đếm được → much"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u5-ex8",
+      "type": "fill-blank",
+      "question": "I have _______ (some/any) books in my bag.",
+      "wordHint": "some/any",
+      "answer": "some",
+      "acceptedAnswers": [
+        "some"
+      ],
+      "hints": [
+        "Câu khẳng định → some"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u5-ex9",
+      "type": "fill-blank",
+      "question": "Do you have _______ (some/any) pens?",
+      "wordHint": "some/any",
+      "answer": "any",
+      "acceptedAnswers": [
+        "any"
+      ],
+      "hints": [
+        "Câu nghi vấn → any"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u5-ex10",
+      "type": "fill-blank",
+      "question": "There aren't _______ (some/any) oranges in the basket.",
+      "wordHint": "some/any",
+      "answer": "any",
+      "acceptedAnswers": [
+        "any"
+      ],
+      "hints": [
+        "Câu phủ định → any"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u5-ex11",
+      "type": "fill-blank",
+      "question": "How _______ (many/much) rice do you need?",
+      "wordHint": "many/much",
+      "answer": "much",
+      "acceptedAnswers": [
+        "much"
+      ],
+      "hints": [
+        "'rice' không đếm được → much"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u5-ex12",
+      "type": "fill-blank",
+      "question": "How _______ (many/much) apples are there?",
+      "wordHint": "many/much",
+      "answer": "many",
+      "acceptedAnswers": [
+        "many"
+      ],
+      "hints": [
+        "'apples' đếm được số nhiều → many"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u5-ex13",
+      "type": "fill-blank",
+      "question": "We need _______ (a few/a little) sugar for the cake.",
+      "wordHint": "a few/a little",
+      "answer": "a little",
+      "acceptedAnswers": [
+        "a little"
+      ],
+      "hints": [
+        "'sugar' không đếm được → a little"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u5-ex14",
+      "type": "fill-blank",
+      "question": "There are _______ (a few/a little) people in the room.",
+      "wordHint": "a few/a little",
+      "answer": "a few",
+      "acceptedAnswers": [
+        "a few"
+      ],
+      "hints": [
+        "'people' đếm được → a few"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u5-ex15",
+      "type": "fill-blank",
+      "question": "I have _______ (a lot of/much) friends at school.",
+      "wordHint": "a lot of/much",
+      "answer": "a lot of",
+      "acceptedAnswers": [
+        "a lot of",
+        "lots of",
+        "many"
+      ],
+      "hints": [
+        "Câu khẳng định thường dùng 'a lot of'"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u5-ex16",
+      "type": "multiple-choice",
+      "question": "You _______ wear a helmet when riding a motorbike.",
+      "options": [
+        "must",
+        "mustn't",
+        "can",
+        "should"
+      ],
+      "correctIndex": 0,
+      "explanation": "'must' diễn tả sự bắt buộc mạnh mẽ",
+      "hints": [
+        "Đây là quy định bắt buộc"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u5-ex17",
+      "type": "multiple-choice",
+      "question": "Students _______ cheat in exams.",
+      "options": [
+        "must",
+        "mustn't",
+        "can",
+        "should"
+      ],
+      "correctIndex": 1,
+      "explanation": "'mustn't' = cấm, không được phép",
+      "hints": [
+        "Đây là hành động bị cấm"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u5-ex18",
+      "type": "multiple-choice",
+      "question": "Is there _______ milk in the fridge?",
+      "options": [
+        "some",
+        "any",
+        "many",
+        "a few"
+      ],
+      "correctIndex": 1,
+      "explanation": "Câu hỏi dùng 'any'",
+      "hints": [
+        "Câu nghi vấn với danh từ không đếm được"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u5-ex19",
+      "type": "multiple-choice",
+      "question": "There are _______ beautiful caves in Ha Long Bay.",
+      "options": [
+        "much",
+        "a little",
+        "many",
+        "any"
+      ],
+      "correctIndex": 2,
+      "explanation": "'caves' là danh từ đếm được số nhiều → many",
+      "hints": [
+        "'caves' là danh từ đếm được"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u5-ex20",
+      "type": "multiple-choice",
+      "question": "We don't have _______ time left.",
+      "options": [
+        "many",
+        "much",
+        "a few",
+        "some"
+      ],
+      "correctIndex": 1,
+      "explanation": "'time' không đếm được → much",
+      "hints": [
+        "'time' là danh từ không đếm được"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u5-ex21",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "You must be quiet in the library.",
+        "You must be quiet in the library"
+      ],
+      "hints": [
+        "Cấu trúc: S + must + V0"
+      ],
+      "points": 15,
+      "correctSentence": "You must be quiet in the library.",
+      "words": [
+        "must",
+        "you",
+        "quiet",
+        "be",
+        "the",
+        "in",
+        "library"
+      ]
+    },
+    {
+      "id": "g6u5-ex22",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "You mustn't talk in class.",
+        "You mustn't talk in class"
+      ],
+      "hints": [
+        "Cấu trúc: S + mustn't + V0"
+      ],
+      "points": 15,
+      "correctSentence": "You mustn't talk in class.",
+      "words": [
+        "mustn't",
+        "in",
+        "you",
+        "class",
+        "talk"
+      ]
+    },
+    {
+      "id": "g6u5-ex23",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "There are many students in the classroom.",
+        "There are many students in the classroom"
+      ],
+      "hints": [
+        "There are + many + danh từ số nhiều"
+      ],
+      "points": 15,
+      "correctSentence": "There are many students in the classroom.",
+      "words": [
+        "many",
+        "are",
+        "there",
+        "in",
+        "students",
+        "classroom",
+        "the"
+      ]
+    },
+    {
+      "id": "g6u5-ex24",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "There isn't much water in the glass.",
+        "There isn't much water in the glass"
+      ],
+      "hints": [
+        "There isn't + much + danh từ không đếm được"
+      ],
+      "points": 15,
+      "correctSentence": "There isn't much water in the glass.",
+      "words": [
+        "isn't",
+        "much",
+        "there",
+        "in",
+        "water",
+        "glass",
+        "the"
+      ]
+    },
+    {
+      "id": "g6u5-ex25",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "I have some books in my bag.",
+        "I have some books in my bag"
+      ],
+      "hints": [
+        "S + have + some + danh từ số nhiều"
+      ],
+      "points": 15,
+      "correctSentence": "I have some books in my bag.",
+      "words": [
+        "have",
+        "I",
+        "some",
+        "in",
+        "books",
+        "bag",
+        "my"
+      ]
+    }
+  ]
+}

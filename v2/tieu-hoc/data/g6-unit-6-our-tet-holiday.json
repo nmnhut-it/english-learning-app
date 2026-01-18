@@ -1,0 +1,436 @@
+{
+  "unitId": "g6-unit-6-our-tet-holiday",
+  "title": "Unit 6: Our Tet Holiday - Should/Shouldn't & Some/Any",
+  "studentName": "Tran Gia Hung",
+  "grade": 6,
+  "grammarTopics": [
+    "Should/Shouldn't (Giving advice)",
+    "Some/Any for quantity",
+    "Will/Won't for future",
+    "Tet Holiday Vocabulary"
+  ],
+  "theory": {
+    "brief": "Should + V0 = nên làm gì (lời khuyên). Shouldn't + V0 = không nên làm gì. Some dùng trong câu khẳng định và lời mời. Any dùng trong câu phủ định và nghi vấn. Will/Won't + V0 diễn tả tương lai đơn. Ví dụ: We will visit grandparents. (Chúng ta sẽ thăm ông bà.)",
+    "examples": [
+      "You should behave well at Tet. (Bạn nên cư xử tốt vào dịp Tết.)",
+      "You shouldn't eat too many sweets. (Bạn không nên ăn quá nhiều kẹo.)",
+      "We will decorate the house. (Chúng ta sẽ trang trí nhà cửa.)",
+      "I have some flowers. (Tôi có vài bông hoa.)",
+      "Do you have any plans? (Bạn có kế hoạch nào không?)"
+    ]
+  },
+  "exercises": [
+    {
+      "id": "g6u6-ex1",
+      "type": "fill-blank",
+      "question": "You _______ behave well at Tet.",
+      "wordHint": "nên",
+      "answer": "should",
+      "acceptedAnswers": [
+        "should"
+      ],
+      "hints": [
+        "Dùng 'should' cho lời khuyên"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u6-ex2",
+      "type": "fill-blank",
+      "question": "Children _______ fight during Tet.",
+      "wordHint": "không nên",
+      "answer": "shouldn't",
+      "acceptedAnswers": [
+        "shouldn't",
+        "should not"
+      ],
+      "hints": [
+        "'shouldn't' = không nên"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u6-ex3",
+      "type": "fill-blank",
+      "question": "We _______ help with housework before Tet.",
+      "wordHint": "nên",
+      "answer": "should",
+      "acceptedAnswers": [
+        "should"
+      ],
+      "hints": [
+        "Lời khuyên tích cực = should"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u6-ex4",
+      "type": "fill-blank",
+      "question": "You _______ eat too many sweets.",
+      "wordHint": "không nên",
+      "answer": "shouldn't",
+      "acceptedAnswers": [
+        "shouldn't",
+        "should not"
+      ],
+      "hints": [
+        "Lời khuyên tiêu cực = shouldn't"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u6-ex5",
+      "type": "fill-blank",
+      "question": "People _______ visit their relatives at Tet.",
+      "wordHint": "nên",
+      "answer": "should",
+      "acceptedAnswers": [
+        "should"
+      ],
+      "hints": [
+        "Phong tục tốt → should"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u6-ex6",
+      "type": "fill-blank",
+      "question": "I need _______ (some/any) paper to decorate my room.",
+      "wordHint": "some/any",
+      "answer": "some",
+      "acceptedAnswers": [
+        "some"
+      ],
+      "hints": [
+        "Câu khẳng định → some"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u6-ex7",
+      "type": "fill-blank",
+      "question": "Do you have _______ (some/any) free time?",
+      "wordHint": "some/any",
+      "answer": "any",
+      "acceptedAnswers": [
+        "any"
+      ],
+      "hints": [
+        "Câu nghi vấn → any"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u6-ex8",
+      "type": "fill-blank",
+      "question": "There are _______ (some/any) peach flowers in the vase.",
+      "wordHint": "some/any",
+      "answer": "some",
+      "acceptedAnswers": [
+        "some"
+      ],
+      "hints": [
+        "Câu khẳng định → some"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u6-ex9",
+      "type": "fill-blank",
+      "question": "There aren't _______ (some/any) apples in the basket.",
+      "wordHint": "some/any",
+      "answer": "any",
+      "acceptedAnswers": [
+        "any"
+      ],
+      "hints": [
+        "Câu phủ định → any"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u6-ex10",
+      "type": "fill-blank",
+      "question": "Would you like _______ (some/any) tea?",
+      "wordHint": "some/any",
+      "answer": "some",
+      "acceptedAnswers": [
+        "some"
+      ],
+      "hints": [
+        "Câu mời dùng 'some'"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u6-ex11",
+      "type": "fill-blank",
+      "question": "We _______ (will/won't) visit our grandparents next week.",
+      "wordHint": "sẽ",
+      "answer": "will",
+      "acceptedAnswers": [
+        "will"
+      ],
+      "hints": [
+        "Dự định tương lai → will"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u6-ex12",
+      "type": "fill-blank",
+      "question": "I _______ (will/won't) buy a new dress for Tet.",
+      "wordHint": "sẽ",
+      "answer": "will",
+      "acceptedAnswers": [
+        "will"
+      ],
+      "hints": [
+        "Kế hoạch tương lai → will"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u6-ex13",
+      "type": "fill-blank",
+      "question": "They _______ (will/won't) clean the house tomorrow.",
+      "wordHint": "sẽ",
+      "answer": "will",
+      "acceptedAnswers": [
+        "will"
+      ],
+      "hints": [
+        "Hành động tương lai → will"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u6-ex14",
+      "type": "fill-blank",
+      "question": "She _______ (will/won't) go to school on Tet holiday.",
+      "wordHint": "sẽ không",
+      "answer": "won't",
+      "acceptedAnswers": [
+        "won't",
+        "will not"
+      ],
+      "hints": [
+        "Phủ định tương lai → won't"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u6-ex15",
+      "type": "fill-blank",
+      "question": "My family _______ make banh chung at Tet.",
+      "wordHint": "sẽ",
+      "answer": "will",
+      "acceptedAnswers": [
+        "will"
+      ],
+      "hints": [
+        "Dự định làm gì → will"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u6-ex16",
+      "type": "multiple-choice",
+      "question": "You _______ be polite to older people.",
+      "options": [
+        "should",
+        "shouldn't",
+        "must",
+        "can"
+      ],
+      "correctIndex": 0,
+      "explanation": "'should' diễn tả lời khuyên",
+      "hints": [
+        "Đây là lời khuyên tốt"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u6-ex17",
+      "type": "multiple-choice",
+      "question": "Children _______ break things at Tet.",
+      "options": [
+        "should",
+        "shouldn't",
+        "will",
+        "can"
+      ],
+      "correctIndex": 1,
+      "explanation": "'shouldn't' = không nên làm",
+      "hints": [
+        "Đây là điều không nên làm"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u6-ex18",
+      "type": "multiple-choice",
+      "question": "Are there _______ traditional games at Tet?",
+      "options": [
+        "some",
+        "any",
+        "a",
+        "an"
+      ],
+      "correctIndex": 1,
+      "explanation": "Câu hỏi dùng 'any'",
+      "hints": [
+        "Câu nghi vấn với danh từ số nhiều"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u6-ex19",
+      "type": "multiple-choice",
+      "question": "I _______ get lucky money from my parents at Tet.",
+      "options": [
+        "will",
+        "won't",
+        "should",
+        "shouldn't"
+      ],
+      "correctIndex": 0,
+      "explanation": "'will' diễn tả dự đoán tương lai",
+      "hints": [
+        "Điều chắc chắn sẽ xảy ra"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u6-ex20",
+      "type": "multiple-choice",
+      "question": "We have _______ flowers for decoration.",
+      "options": [
+        "any",
+        "some",
+        "much",
+        "a"
+      ],
+      "correctIndex": 1,
+      "explanation": "Câu khẳng định dùng 'some'",
+      "hints": [
+        "Câu khẳng định với danh từ số nhiều"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u6-ex21",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "You should behave well at Tet.",
+        "You should behave well at Tet"
+      ],
+      "hints": [
+        "Cấu trúc: S + should + V0"
+      ],
+      "points": 15,
+      "correctSentence": "You should behave well at Tet.",
+      "words": [
+        "should",
+        "you",
+        "well",
+        "behave",
+        "at",
+        "Tet"
+      ]
+    },
+    {
+      "id": "g6u6-ex22",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "Children shouldn't eat too many sweets.",
+        "Children shouldn't eat too many sweets"
+      ],
+      "hints": [
+        "Cấu trúc: S + shouldn't + V0"
+      ],
+      "points": 15,
+      "correctSentence": "Children shouldn't eat too many sweets.",
+      "words": [
+        "shouldn't",
+        "eat",
+        "children",
+        "many",
+        "too",
+        "sweets"
+      ]
+    },
+    {
+      "id": "g6u6-ex23",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "We will visit our grandparents at Tet.",
+        "We will visit our grandparents at Tet"
+      ],
+      "hints": [
+        "Cấu trúc: S + will + V0"
+      ],
+      "points": 15,
+      "correctSentence": "We will visit our grandparents at Tet.",
+      "words": [
+        "will",
+        "we",
+        "visit",
+        "grandparents",
+        "our",
+        "Tet",
+        "at"
+      ]
+    },
+    {
+      "id": "g6u6-ex24",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "There are some flowers in the vase.",
+        "There are some flowers in the vase"
+      ],
+      "hints": [
+        "There are + some + danh từ số nhiều"
+      ],
+      "points": 15,
+      "correctSentence": "There are some flowers in the vase.",
+      "words": [
+        "are",
+        "some",
+        "there",
+        "in",
+        "flowers",
+        "vase",
+        "the"
+      ]
+    },
+    {
+      "id": "g6u6-ex25",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "She won't go to school on Tet holiday.",
+        "She won't go to school on Tet holiday"
+      ],
+      "hints": [
+        "Cấu trúc: S + won't + V0"
+      ],
+      "points": 15,
+      "correctSentence": "She won't go to school on Tet holiday.",
+      "words": [
+        "won't",
+        "she",
+        "to",
+        "go",
+        "school",
+        "Tet",
+        "on",
+        "holiday"
+      ]
+    }
+  ]
+}

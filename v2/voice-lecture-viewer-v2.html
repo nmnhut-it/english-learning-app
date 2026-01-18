@@ -4,6 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
   <title>Voice Lecture v2</title>
+  <script src="https://cdn.jsdelivr.net/npm/marked@9.1.6/marked.min.js"></script>
   <style>
     *{box-sizing:border-box;margin:0;padding:0}
     :root{--primary:#0ea5e9;--primary-dark:#0284c7;--accent:#06b6d4;--success:#10b981;--warning:#f59e0b;--bg:#f0f9ff;--card:#fff;--text:#0f172a;--muted:#64748b;--border:#e0f2fe;--radius:12px;--safe-bottom:env(safe-area-inset-bottom,0)}
@@ -245,12 +246,18 @@
     .npc-avatar[data-speaking="true"]{animation:npcBounce 0.5s ease infinite}
     .npc-avatar-img{font-size:2.8rem}
     @keyframes npcBounce{0%,100%{transform:translateY(0) scale(1)}50%{transform:translateY(-5px) scale(1.05)}}
-    .speech-bubble{background:#fff;border-radius:20px;padding:16px 20px;max-width:min(320px,calc(100vw - 140px));box-shadow:0 8px 32px rgba(0,0,0,.2);opacity:0;transform:translateY(10px) scale(0.95);transition:all .3s}
+    .speech-bubble{background:#fff;border-radius:20px;padding:16px 20px;max-width:min(360px,calc(100vw - 120px));max-height:50vh;overflow-y:auto;box-shadow:0 8px 32px rgba(0,0,0,.2);opacity:0;transform:translateY(10px) scale(0.95);transition:all .3s}
     .speech-bubble[data-visible="true"]{opacity:1;transform:translateY(0) scale(1)}
-    .speech-bubble-text{font-size:1rem;line-height:1.5;color:#0f172a}
+    .speech-bubble-text{font-size:1rem;line-height:1.5;color:#0f172a;white-space:pre-wrap}
     .speech-continue{margin-top:12px;text-align:right;display:none}
     .speech-continue[data-visible="true"]{display:block}
     .speech-continue-btn{background:linear-gradient(135deg,#10b981,#059669);color:#fff;border:none;padding:10px 20px;border-radius:25px;font-size:.9rem;font-weight:600;cursor:pointer}
+    /* Skip Speaking Button */
+    .speech-skip-btn{background:rgba(100,116,139,.2);color:#64748b;border:1px solid #94a3b8;padding:6px 14px;border-radius:20px;font-size:.8rem;cursor:pointer;margin-top:10px;transition:all .2s}
+    .speech-skip-btn:hover{background:rgba(100,116,139,.3);color:#475569}
+    /* Vocab Skip Button */
+    .vocab-skip-btn{background:transparent;color:#64748b;border:none;padding:8px 16px;font-size:.85rem;cursor:pointer;margin-top:8px;text-decoration:underline}
+    .vocab-skip-btn:hover{color:#475569}
 
     /* Complete */
     .complete-box{background:linear-gradient(135deg,#e0f2fe,#bae6fd);border-radius:20px;padding:32px;text-align:center;margin:20px 0}
@@ -379,6 +386,7 @@
   <div id="npc-container" data-testid="npc-container" data-visible="false">
     <div class="speech-bubble" id="speech-bubble" data-testid="speech-bubble" data-visible="false">
       <div class="speech-bubble-text" id="speech-text" data-testid="speech-text"></div>
+      <button class="speech-skip-btn" id="skip-speaking-btn" data-testid="skip-speaking-btn" onclick="window.__voiceLecture?.skipSpeaking()">Bỏ qua</button>
       <div class="speech-continue" id="speech-continue" data-testid="speech-continue" data-visible="false">
         <button class="speech-continue-btn" data-testid="speech-continue-btn" onclick="window.__voiceLecture?.npcContinue()">Tiếp tục →</button>
       </div>
@@ -423,10 +431,10 @@ if (c) {
   // Audio files are in /v2/audio/ relative to site root
   // Content URL format: data/voice-lectures/... or v2/data/voice-lectures/...
   const contentUrl = CONFIG.contentUrl;
-  if (contentUrl.includes('/data/voice-lectures/')) {
+  if (contentUrl.includes('data/voice-lectures/')) {
     // Find the base that contains the audio folder (parent of data folder)
-    const dataIndex = contentUrl.indexOf('/data/voice-lectures/');
-    CONFIG.audioBasePath = contentUrl.substring(0, dataIndex + 1) + 'audio/';
+    const dataIndex = contentUrl.indexOf('data/voice-lectures/');
+    CONFIG.audioBasePath = contentUrl.substring(0, dataIndex) + 'audio/';
   } else {
     // Fallback: extract directory from content URL
     const lastSlash = contentUrl.lastIndexOf('/');
@@ -601,18 +609,23 @@ const timerService = {
 
 // Audio Service
 const audioService = {
+  skipped: false,
+  currentAudio: null,
+
   async speakTTS(text, lang = 'vi-VN') {
+    this.skipped = false;
     eventBus.emit('tts:speak', { text, lang });
 
     if (CONFIG.testMode && CONFIG.instantTimers) {
       await delay(10);
+      if (this.skipped) return { skipped: true };
       eventBus.emit('tts:end', { text, lang });
-      return;
+      return { skipped: false };
     }
 
     if (!('speechSynthesis' in window)) {
       eventBus.emit('tts:end', { text, lang });
-      return;
+      return { skipped: false };
     }
 
     return new Promise(resolve => {
@@ -620,8 +633,12 @@ const audioService = {
       const u = new SpeechSynthesisUtterance(text);
       u.lang = lang;
       u.rate = lang === 'vi-VN' ? 1 : 0.85;
-      u.onend = () => { eventBus.emit('tts:end', { text, lang }); resolve(); };
-      u.onerror = resolve;
+      u.onend = () => {
+        if (this.skipped) { resolve({ skipped: true }); return; }
+        eventBus.emit('tts:end', { text, lang });
+        resolve({ skipped: false });
+      };
+      u.onerror = () => resolve({ skipped: this.skipped });
       speechSynthesis.speak(u);
     });
   },
@@ -653,19 +670,33 @@ const audioService = {
   },
 
   async playAudioFile(url) {
+    this.skipped = false;
     if (CONFIG.testMode && CONFIG.instantTimers) return delay(10);
 
     return new Promise((resolve, reject) => {
       const audio = new Audio(url);
-      audio.onended = resolve;
-      audio.onerror = () => reject(new Error('Audio playback failed'));
+      this.currentAudio = audio;
+      audio.onended = () => {
+        this.currentAudio = null;
+        if (this.skipped) { resolve({ skipped: true }); return; }
+        resolve({ skipped: false });
+      };
+      audio.onerror = () => {
+        this.currentAudio = null;
+        reject(new Error('Audio playback failed'));
+      };
       audio.play().catch(reject);
     });
   },
 
   stop() {
+    this.skipped = true;
     if ('speechSynthesis' in window) {
       speechSynthesis.cancel();
+    }
+    if (this.currentAudio) {
+      this.currentAudio.pause();
+      this.currentAudio = null;
     }
   }
 };
@@ -784,6 +815,14 @@ function renderContent(md, chunkIndex) {
   }
 
   // ===== STEP 3: Render other content =====
+  // Use HTML comments as placeholders (marked preserves them)
+  const placeholders = [];
+  const placeholder = (html) => {
+    const id = placeholders.length;
+    placeholders.push(html);
+    return `<!--PH${id}-->`;
+  };
+
   // Vocabulary
   h = h.replace(/<vocabulary>([\s\S]*?)<\/vocabulary>/gi, (_, content) => {
     const vocabId = `vocab-${vocabCounter++}`;
@@ -793,18 +832,34 @@ function renderContent(md, chunkIndex) {
     window.__vocabData = window.__vocabData || {};
     window.__vocabData[vocabId] = { words, phase: 'flashcard', currentWord: 0 };
 
-    return buildVocabHTML(vocabId, words);
+    return placeholder(buildVocabHTML(vocabId, words));
   });
 
-  // Other tags
-  h = h.replace(/<task>([\s\S]*?)<\/task>/gi, (_, c) => `<div class="card task-box" data-testid="task">${renderMD(c)}</div>`);
-  h = h.replace(/<answer>([\s\S]*?)<\/answer>/gi, (_, c) => `<div class="card answer-box" data-testid="answer">${renderMD(c)}</div>`);
-  h = h.replace(/<grammar>([\s\S]*?)<\/grammar>/gi, (_, c) => `<div class="card grammar-box" data-testid="grammar">${renderMD(c)}</div>`);
-  h = h.replace(/<dialogue>([\s\S]*?)<\/dialogue>/gi, (_, c) => `<div class="card dialogue-box" data-testid="dialogue">${renderMD(c)}</div>`);
-  h = h.replace(/<translation>([\s\S]*?)<\/translation>/gi, (_, c) => `<div class="card" data-testid="translation">${renderMD(c)}</div>`);
-  h = h.replace(/<reading>([\s\S]*?)<\/reading>/gi, (_, c) => `<div class="card" data-testid="reading">${renderMD(c)}</div>`);
-  h = h.replace(/<questions[^>]*>([\s\S]*?)<\/questions>/gi, (_, c) => `<div class="card" data-testid="questions">${renderMD(c)}</div>`);
-  h = h.replace(/<explanation>([\s\S]*?)<\/explanation>/gi, (_, c) => `<div class="card" data-testid="explanation">${renderMD(c)}</div>`);
+  // Other tags - render content with marked, store as placeholder
+  h = h.replace(/<task>([\s\S]*?)<\/task>/gi, (_, c) =>
+    placeholder(`<div class="card task-box" data-testid="task">${renderMD(c)}</div>`));
+  h = h.replace(/<answer>([\s\S]*?)<\/answer>/gi, (_, c) =>
+    placeholder(`<div class="card answer-box" data-testid="answer">${renderMD(c)}</div>`));
+  h = h.replace(/<grammar>([\s\S]*?)<\/grammar>/gi, (_, c) =>
+    placeholder(`<div class="card grammar-box" data-testid="grammar">${renderMD(c)}</div>`));
+  h = h.replace(/<dialogue>([\s\S]*?)<\/dialogue>/gi, (_, c) =>
+    placeholder(`<div class="card dialogue-box" data-testid="dialogue">${renderMD(c)}</div>`));
+  h = h.replace(/<translation>([\s\S]*?)<\/translation>/gi, (_, c) =>
+    placeholder(`<div class="card" data-testid="translation">${renderMD(c)}</div>`));
+  h = h.replace(/<reading>([\s\S]*?)<\/reading>/gi, (_, c) =>
+    placeholder(`<div class="card" data-testid="reading">${renderMD(c)}</div>`));
+  h = h.replace(/<questions[^>]*>([\s\S]*?)<\/questions>/gi, (_, c) =>
+    placeholder(`<div class="card" data-testid="questions">${renderMD(c)}</div>`));
+  h = h.replace(/<explanation>([\s\S]*?)<\/explanation>/gi, (_, c) =>
+    placeholder(`<div class="card" data-testid="explanation">${renderMD(c)}</div>`));
+
+  // Render remaining markdown (headings outside tags)
+  let result = renderMD(h);
+
+  // Restore placeholders
+  placeholders.forEach((html, i) => {
+    result = result.replace(`<!--PH${i}-->`, html);
+  });
 
   // Render timers after content (they appear when teacher script with pause is played)
   let timersHtml = '';
@@ -823,44 +878,48 @@ function renderContent(md, chunkIndex) {
   });
 
   // Return: ts-group at top, then content, then timers at bottom
-  return tsGroupHtml + renderMD(h) + timersHtml;
+  return tsGroupHtml + result + timersHtml;
 }
 
 function renderMD(md) {
+  // Configure marked for GFM tables
+  if (typeof marked !== 'undefined' && marked.parse) {
+    try {
+      marked.setOptions({
+        gfm: true,
+        breaks: true
+      });
+
+      // Wrap tables in .table-wrap div for scrolling
+      const html = marked.parse(md);
+      return html.replace(/<table>/g, '<div class="table-wrap"><table>')
+                 .replace(/<\/table>/g, '</table></div>');
+    } catch (e) {
+      console.warn('marked.parse failed, using fallback:', e);
+    }
+  }
+
+  // Fallback if marked not loaded or failed
   let h = md;
   h = h.replace(/^###\s+(.+)$/gm, '<h3>$1</h3>');
   h = h.replace(/^##\s+(.+)$/gm, '<h2>$1</h2>');
   h = h.replace(/^#\s+(.+)$/gm, '<h1>$1</h1>');
-  h = h.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
+  // Bold: **text** (can be in middle of words)
+  h = h.replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>');
+  // Italic: *text*
   h = h.replace(/\*([^*]+)\*/g, '<em>$1</em>');
-
-  // Tables
-  const tableRegex = /^(\|[^\n]+\|[ \t]*\n?)+/gm;
-  const matches = [];
-  let match;
-  while ((match = tableRegex.exec(h)) !== null) matches.push({ str: match[0], idx: match.index });
-
-  for (let i = matches.length - 1; i >= 0; i--) {
-    const { str, idx } = matches[i];
-    const lines = str.trim().split(/\r?\n/).map(l => l.trim()).filter(l => l);
-    const dataRows = lines.filter(line => !/^\|[\s\-:|]+\|$/.test(line));
-    if (dataRows.length > 0) {
-      let tbl = '<div class="table-wrap"><table>';
-      dataRows.forEach((row, ri) => {
-        const cells = row.split('|').slice(1, -1);
-        const tag = ri === 0 ? 'th' : 'td';
-        tbl += '<tr>' + cells.map(c => `<${tag}>${c.trim()}</${tag}>`).join('') + '</tr>';
-      });
-      tbl += '</table></div>';
-      h = h.substring(0, idx) + tbl + h.substring(idx + str.length);
-    }
-  }
-
   h = h.replace(/^-\s+(.+)$/gm, '<li>$1</li>');
   h = h.replace(/(<li>.*<\/li>\n?)+/g, '<ul>$&</ul>');
+  // Tables - simple handling
+  h = h.replace(/^\|(.+)\|$/gm, (match, content) => {
+    const cells = content.split('|').map(c => c.trim());
+    return '<tr>' + cells.map(c => `<td>${c}</td>`).join('') + '</tr>';
+  });
+  h = h.replace(/(<tr>.*<\/tr>\n?)+/g, '<div class="table-wrap"><table>$&</table></div>');
+  // Remove separator rows
+  h = h.replace(/<tr><td>[-:\s]+<\/td>.*?<\/tr>/g, '');
   h = h.replace(/\n\n+/g, '</p><p>');
   h = h.replace(/\n/g, '<br>');
-
   return h;
 }
 
@@ -878,6 +937,7 @@ function buildVocabHTML(id, words) {
       <div class="vocab-start-title">Từ vựng Unit này</div>
       <div class="vocab-start-count">${words.length} từ cần học</div>
       <button class="vocab-start-btn" data-testid="${id}-start-btn" onclick="window.__voiceLecture.startVocabFlashcard('${id}')">Bấm vô để học từ vựng</button>
+      <button class="vocab-skip-btn" data-testid="${id}-skip-btn" onclick="window.__voiceLecture.skipVocab('${id}')">Bỏ qua từ vựng</button>
     </div>
 
     <!-- Learning State - Full flashcard (hidden initially) -->
@@ -970,7 +1030,9 @@ function showNPC(text) {
   document.getElementById('npc-container').dataset.visible = 'true';
   document.getElementById('speech-bubble').dataset.visible = 'true';
   document.getElementById('npc-avatar').dataset.speaking = 'true';
-  document.getElementById('speech-text').textContent = text;
+  // Convert newlines to <br> for proper line breaks in speech bubble
+  const formattedText = text.replace(/\n/g, '<br>');
+  document.getElementById('speech-text').innerHTML = formattedText;
 }
 
 function hideNPC() {
@@ -1097,12 +1159,18 @@ function playTS(el) {
     }
 
     // Play mp3 file, fallback to TTS on error
-    audioService.playAudioFile(audioUrl).then(onEnd).catch((err) => {
+    audioService.playAudioFile(audioUrl).then(result => {
+      if (!result?.skipped) onEnd();
+    }).catch((err) => {
       console.warn('Audio playback failed, falling back to TTS:', err);
-      audioService.speakTTS(text, 'vi-VN').then(onEnd);
+      audioService.speakTTS(text, 'vi-VN').then(result => {
+        if (!result?.skipped) onEnd();
+      });
     });
   } else {
-    audioService.speakTTS(text, 'vi-VN').then(onEnd);
+    audioService.speakTTS(text, 'vi-VN').then(result => {
+      if (!result?.skipped) onEnd();
+    });
   }
 }
 
@@ -1117,6 +1185,22 @@ function afterSpeaking(tsEl) {
 
 function afterTimer() {
   playNextTS();
+}
+
+function skipSpeaking() {
+  // Stop any TTS or audio playback
+  audioService.stop();
+
+  // Find current speaking TS and mark as played
+  const speakingTS = document.querySelector('.ts[data-status="speaking"]');
+  if (speakingTS) {
+    speakingTS.dataset.status = 'played';
+    hideNPC();
+    state.setState('idle');
+    eventBus.emit('ts:skip', { id: speakingTS.id });
+    // Continue to next TS
+    setTimeout(() => playNextTS(), 200);
+  }
 }
 
 function unlockChunkNav() {
@@ -1505,6 +1589,21 @@ async function finishVocab(id) {
   setTimeout(() => playNextTS(), 500);
 }
 
+async function skipVocab(id) {
+  // Clean up any running vocab processes
+  cleanupVocabTimers(id);
+
+  // Mark vocab as complete and advance
+  document.getElementById(id).dataset.status = 'complete';
+
+  eventBus.emit('vocab:skip', { id });
+
+  state.setState('idle');
+
+  // Continue to next section
+  setTimeout(() => playNextTS(), 200);
+}
+
 // Clean up all vocab-related timers and abort any running loops
 function cleanupVocabTimers(id) {
   const data = window.__vocabData[id];
@@ -1577,6 +1676,7 @@ window.__voiceLecture = {
   handleMainNavClick,
   skipTimer: (id) => timerService.skip(id),
   setTimerScale: (scale) => timerService.setTimeScale(scale),
+  skipSpeaking,
 
   // Vocabulary
   startVocabFlashcard,
@@ -1584,6 +1684,7 @@ window.__voiceLecture = {
   handleQuizAnswer,
   handleGameSelect,
   finishVocab,
+  skipVocab,
 
   // NPC
   npcContinue: () => {

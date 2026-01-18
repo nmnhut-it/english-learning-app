@@ -1,0 +1,437 @@
+{
+  "unitId": "g6-unit-12-robots",
+  "title": "Unit 12: Robots - Will be able to & Could/Couldn't",
+  "studentName": "Tran Gia Hung",
+  "grade": 6,
+  "grammarTopics": [
+    "Will be able to (Future ability)",
+    "Could/Couldn't (Past ability)",
+    "Robots Vocabulary"
+  ],
+  "theory": {
+    "brief": "Will be able to diễn tả khả năng trong tương lai: S + will be able to + V0. Could diễn tả khả năng trong quá khứ (khẳng định): S + could + V0. Couldn't diễn tả không có khả năng trong quá khứ: S + couldn't + V0. Ví dụ: Robots will be able to do housework. (Robot sẽ có thể làm việc nhà). I could swim when I was 5. (Tôi có thể bơi khi 5 tuổi).",
+    "examples": [
+      "Robots will be able to cook meals. (Robot sẽ có thể nấu ăn.)",
+      "I could ride a bike when I was 6. (Tôi có thể đạp xe khi 6 tuổi.)",
+      "She couldn't speak English last year. (Cô ấy không thể nói tiếng Anh năm ngoái.)",
+      "Future robots will be able to think like humans. (Robot tương lai sẽ có thể suy nghĩ như con người.)"
+    ]
+  },
+  "exercises": [
+    {
+      "id": "g6u12-ex1",
+      "type": "fill-blank",
+      "question": "Robots _______ (be able to) do housework in the future.",
+      "wordHint": "will be able to",
+      "answer": "will be able to",
+      "acceptedAnswers": [
+        "will be able to"
+      ],
+      "hints": [
+        "Khả năng tương lai: will be able to"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u12-ex2",
+      "type": "fill-blank",
+      "question": "I _______ (can) swim when I was 5 years old.",
+      "wordHint": "could",
+      "answer": "could",
+      "acceptedAnswers": [
+        "could"
+      ],
+      "hints": [
+        "Khả năng quá khứ: could"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u12-ex3",
+      "type": "fill-blank",
+      "question": "She _______ (not can) speak English last year.",
+      "wordHint": "couldn't",
+      "answer": "couldn't",
+      "acceptedAnswers": [
+        "couldn't",
+        "could not"
+      ],
+      "hints": [
+        "Không có khả năng quá khứ: couldn't"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u12-ex4",
+      "type": "fill-blank",
+      "question": "Future robots _______ (be able to) teach children.",
+      "wordHint": "will be able to",
+      "answer": "will be able to",
+      "acceptedAnswers": [
+        "will be able to"
+      ],
+      "hints": [
+        "will be able to + V0"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u12-ex5",
+      "type": "fill-blank",
+      "question": "We _______ (can) see the movie yesterday.",
+      "wordHint": "could",
+      "answer": "could",
+      "acceptedAnswers": [
+        "could"
+      ],
+      "hints": [
+        "Quá khứ của 'can' là 'could'"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u12-ex6",
+      "type": "fill-blank",
+      "question": "Robots _______ (be able to) recognize faces.",
+      "wordHint": "will be able to",
+      "answer": "will be able to",
+      "acceptedAnswers": [
+        "will be able to"
+      ],
+      "hints": [
+        "Khả năng trong tương lai"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u12-ex7",
+      "type": "fill-blank",
+      "question": "He _______ (not can) ride a bike when he was 4.",
+      "wordHint": "couldn't",
+      "answer": "couldn't",
+      "acceptedAnswers": [
+        "couldn't",
+        "could not"
+      ],
+      "hints": [
+        "Phủ định quá khứ: couldn't"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u12-ex8",
+      "type": "fill-blank",
+      "question": "Smart robots _______ (be able to) understand commands.",
+      "wordHint": "will be able to",
+      "answer": "will be able to",
+      "acceptedAnswers": [
+        "will be able to"
+      ],
+      "hints": [
+        "Tương lai: will be able to"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u12-ex9",
+      "type": "fill-blank",
+      "question": "I _______ (can) play the piano when I was young.",
+      "wordHint": "could",
+      "answer": "could",
+      "acceptedAnswers": [
+        "could"
+      ],
+      "hints": [
+        "Khả năng trong quá khứ"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u12-ex10",
+      "type": "fill-blank",
+      "question": "They _______ (be able to) help us with many tasks.",
+      "wordHint": "will be able to",
+      "answer": "will be able to",
+      "acceptedAnswers": [
+        "will be able to"
+      ],
+      "hints": [
+        "Robots trong tương lai"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u12-ex11",
+      "type": "fill-blank",
+      "question": "She _______ (can) cook when she was 10.",
+      "wordHint": "could",
+      "answer": "could",
+      "acceptedAnswers": [
+        "could"
+      ],
+      "hints": [
+        "Quá khứ: could + V0"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u12-ex12",
+      "type": "fill-blank",
+      "question": "Robots _______ (be able to) work 24 hours a day.",
+      "wordHint": "will be able to",
+      "answer": "will be able to",
+      "acceptedAnswers": [
+        "will be able to"
+      ],
+      "hints": [
+        "Khả năng robot tương lai"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u12-ex13",
+      "type": "fill-blank",
+      "question": "We _______ (not can) find the answer yesterday.",
+      "wordHint": "couldn't",
+      "answer": "couldn't",
+      "acceptedAnswers": [
+        "couldn't",
+        "could not"
+      ],
+      "hints": [
+        "Không có khả năng quá khứ"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u12-ex14",
+      "type": "fill-blank",
+      "question": "Medical robots _______ (be able to) do surgery.",
+      "wordHint": "will be able to",
+      "answer": "will be able to",
+      "acceptedAnswers": [
+        "will be able to"
+      ],
+      "hints": [
+        "Robot y tế trong tương lai"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u12-ex15",
+      "type": "fill-blank",
+      "question": "He _______ (can) speak three languages when he was 12.",
+      "wordHint": "could",
+      "answer": "could",
+      "acceptedAnswers": [
+        "could"
+      ],
+      "hints": [
+        "Khả năng trong quá khứ"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u12-ex16",
+      "type": "multiple-choice",
+      "question": "Robots _______ clean the house in the future.",
+      "options": [
+        "will be able to",
+        "could",
+        "can",
+        "couldn't"
+      ],
+      "correctIndex": 0,
+      "explanation": "Khả năng tương lai: will be able to",
+      "hints": [
+        "Tương lai"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u12-ex17",
+      "type": "multiple-choice",
+      "question": "I _______ swim when I was 7.",
+      "options": [
+        "can",
+        "will be able to",
+        "could",
+        "couldn't"
+      ],
+      "correctIndex": 2,
+      "explanation": "Khả năng quá khứ: could",
+      "hints": [
+        "Quá khứ"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u12-ex18",
+      "type": "multiple-choice",
+      "question": "She _______ play the guitar last year.",
+      "options": [
+        "can",
+        "could",
+        "couldn't",
+        "will be able to"
+      ],
+      "correctIndex": 2,
+      "explanation": "Không có khả năng quá khứ: couldn't",
+      "hints": [
+        "Phủ định quá khứ"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u12-ex19",
+      "type": "multiple-choice",
+      "question": "Future robots _______ talk to us.",
+      "options": [
+        "could",
+        "couldn't",
+        "will be able to",
+        "can"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tương lai: will be able to",
+      "hints": [
+        "Khả năng tương lai"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u12-ex20",
+      "type": "multiple-choice",
+      "question": "We _______ see the stars last night because it was cloudy.",
+      "options": [
+        "could",
+        "couldn't",
+        "can",
+        "will be able to"
+      ],
+      "correctIndex": 1,
+      "explanation": "Không thể (quá khứ): couldn't",
+      "hints": [
+        "Phủ định vì thời tiết xấu"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u12-ex21",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "Robots will be able to do housework.",
+        "Robots will be able to do housework"
+      ],
+      "hints": [
+        "S + will be able to + V0"
+      ],
+      "points": 15,
+      "correctSentence": "Robots will be able to do housework.",
+      "words": [
+        "will",
+        "robots",
+        "able",
+        "be",
+        "to",
+        "housework",
+        "do"
+      ]
+    },
+    {
+      "id": "g6u12-ex22",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "I could swim when I was 5.",
+        "I could swim when I was 5"
+      ],
+      "hints": [
+        "S + could + V0 + when + quá khứ"
+      ],
+      "points": 15,
+      "correctSentence": "I could swim when I was 5.",
+      "words": [
+        "could",
+        "I",
+        "swim",
+        "I",
+        "when",
+        "was",
+        "5"
+      ]
+    },
+    {
+      "id": "g6u12-ex23",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "She couldn't speak English last year.",
+        "She couldn't speak English last year"
+      ],
+      "hints": [
+        "S + couldn't + V0"
+      ],
+      "points": 15,
+      "correctSentence": "She couldn't speak English last year.",
+      "words": [
+        "couldn't",
+        "she",
+        "English",
+        "speak",
+        "year",
+        "last"
+      ]
+    },
+    {
+      "id": "g6u12-ex24",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "Future robots will be able to teach children.",
+        "Future robots will be able to teach children"
+      ],
+      "hints": [
+        "Robots + will be able to + V0"
+      ],
+      "points": 15,
+      "correctSentence": "Future robots will be able to teach children.",
+      "words": [
+        "able",
+        "future",
+        "will",
+        "be",
+        "to",
+        "robots",
+        "teach",
+        "children"
+      ]
+    },
+    {
+      "id": "g6u12-ex25",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "He could ride a bike when he was 6.",
+        "He could ride a bike when he was 6"
+      ],
+      "hints": [
+        "S + could + V0 + when..."
+      ],
+      "points": 15,
+      "correctSentence": "He could ride a bike when he was 6.",
+      "words": [
+        "could",
+        "he",
+        "bike",
+        "ride",
+        "a",
+        "he",
+        "when",
+        "was",
+        "6"
+      ]
+    }
+  ]
+}

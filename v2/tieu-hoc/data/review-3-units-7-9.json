@@ -1,0 +1,1026 @@
+{
+  "unitId": "review-3-units-7-9",
+  "title": "Review 3: Units 7-9",
+  "grammarTopics": ["Reported speech (said/told, time word changes)", "First Conditional", "Modals for possibility (may, might, could)", "Have to"],
+  "theory": {
+    "brief": "Ôn tập: (1) Reported Speech: thay đổi thì (present → past), đại từ, từ chỉ thời gian (today → that day). Said không cần tân ngữ, told + tân ngữ. (2) First Conditional: If + present simple, will + V. (3) may/might/could = có thể (khả năng). (4) have to = phải (bắt buộc từ bên ngoài).",
+    "examples": [
+      "She said she was tired. / He told me he was busy.",
+      "If it rains, we will stay at home.",
+      "It might rain tomorrow. / She may be at home.",
+      "I have to go to school. / You don't have to pay."
+    ]
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "type": "multiple-choice",
+      "question": "She said she __________ tired.",
+      "options": ["is", "was", "will be", "has been"],
+      "correctIndex": 1,
+      "explanation": "Reported speech: is → was",
+      "hints": ["Present → Past trong reported speech"],
+      "points": 10
+    },
+    {
+      "id": 2,
+      "type": "multiple-choice",
+      "question": "If it rains tomorrow, we __________ stay at home.",
+      "options": ["will", "would", "are", "do"],
+      "correctIndex": 0,
+      "explanation": "First Conditional: If + present, will + V",
+      "hints": ["If + present simple, will + verb"],
+      "points": 10
+    },
+    {
+      "id": 3,
+      "type": "multiple-choice",
+      "question": "It __________ rain tomorrow. Look at those dark clouds!",
+      "options": ["will", "might", "must", "should"],
+      "correctIndex": 1,
+      "explanation": "'might' cho khả năng (có thể xảy ra)",
+      "hints": ["Có thể → might"],
+      "points": 10
+    },
+    {
+      "id": 4,
+      "type": "multiple-choice",
+      "question": "I __________ to wear a uniform at school.",
+      "options": ["must", "have", "should", "can"],
+      "correctIndex": 1,
+      "explanation": "'have to' cho sự bắt buộc từ bên ngoài",
+      "hints": ["have to = phải (quy định)"],
+      "points": 10
+    },
+    {
+      "id": 5,
+      "type": "multiple-choice",
+      "question": "He told me he __________ busy.",
+      "options": ["is", "was", "will be", "has been"],
+      "correctIndex": 1,
+      "explanation": "Reported speech với 'told': thay đổi thì",
+      "hints": ["told + tân ngữ + mệnh đề (thì quá khứ)"],
+      "points": 10
+    },
+    {
+      "id": 6,
+      "type": "multiple-choice",
+      "question": "If you __________ hard, you'll pass the exam.",
+      "options": ["study", "will study", "studied", "studies"],
+      "correctIndex": 0,
+      "explanation": "First Conditional: If + present simple",
+      "hints": ["If + present simple (không dùng will)"],
+      "points": 10
+    },
+    {
+      "id": 7,
+      "type": "multiple-choice",
+      "question": "She __________ be at home. I'm not sure.",
+      "options": ["must", "may", "will", "should"],
+      "correctIndex": 1,
+      "explanation": "'may' cho khả năng không chắc chắn",
+      "hints": ["Không chắc → may/might"],
+      "points": 10
+    },
+    {
+      "id": 8,
+      "type": "multiple-choice",
+      "question": "You don't __________ to pay for the ticket. It's free.",
+      "options": ["must", "have", "should", "can"],
+      "correctIndex": 1,
+      "explanation": "don't have to = không cần phải",
+      "hints": ["don't have to = không bắt buộc"],
+      "points": 10
+    },
+    {
+      "id": 9,
+      "type": "multiple-choice",
+      "question": "She said she __________ go to the party tomorrow.",
+      "options": ["will", "would", "can", "may"],
+      "correctIndex": 1,
+      "explanation": "Reported speech: will → would",
+      "hints": ["will → would trong reported speech"],
+      "points": 10
+    },
+    {
+      "id": 10,
+      "type": "multiple-choice",
+      "question": "If we __________ leave now, we'll miss the bus.",
+      "options": ["don't", "won't", "didn't", "aren't"],
+      "correctIndex": 0,
+      "explanation": "First Conditional phủ định: If + don't + V",
+      "hints": ["If + don't (present simple)"],
+      "points": 10
+    },
+    {
+      "id": 11,
+      "type": "multiple-choice",
+      "question": "He __________ be at the office. He sometimes works late.",
+      "options": ["must", "could", "will", "should"],
+      "correctIndex": 1,
+      "explanation": "'could' cho khả năng có thể xảy ra",
+      "hints": ["Có thể → could/may/might"],
+      "points": 10
+    },
+    {
+      "id": 12,
+      "type": "multiple-choice",
+      "question": "__________ I have to finish this today?",
+      "options": ["Do", "Am", "Will", "Can"],
+      "correctIndex": 0,
+      "explanation": "Câu hỏi với 'have to': Do/Does + subject + have to",
+      "hints": ["Do + I + have to...?"],
+      "points": 10
+    },
+    {
+      "id": 13,
+      "type": "multiple-choice",
+      "question": "He __________ me that he was leaving.",
+      "options": ["said", "told", "asked", "spoke"],
+      "correctIndex": 1,
+      "explanation": "'told' + tân ngữ (me)",
+      "hints": ["told + object + clause"],
+      "points": 10
+    },
+    {
+      "id": 14,
+      "type": "multiple-choice",
+      "question": "She __________ that she liked the movie.",
+      "options": ["told", "said", "asked", "spoke"],
+      "correctIndex": 1,
+      "explanation": "'said' không cần tân ngữ",
+      "hints": ["said + clause (không có tân ngữ)"],
+      "points": 10
+    },
+    {
+      "id": 15,
+      "type": "multiple-choice",
+      "question": "If you heat ice, it __________.",
+      "options": ["melts", "will melt", "melted", "is melting"],
+      "correctIndex": 0,
+      "explanation": "Zero Conditional cho sự thật hiển nhiên",
+      "hints": ["Sự thật: If + present, present"],
+      "points": 10
+    },
+    {
+      "id": 16,
+      "type": "multiple-choice",
+      "question": "Take an umbrella. It __________ rain later.",
+      "options": ["will", "might", "must", "should"],
+      "correctIndex": 1,
+      "explanation": "'might' cho khả năng",
+      "hints": ["Có thể mưa → might"],
+      "points": 10
+    },
+    {
+      "id": 17,
+      "type": "multiple-choice",
+      "question": "She __________ to work on Saturdays.",
+      "options": ["must", "has", "should", "can"],
+      "correctIndex": 1,
+      "explanation": "has to = phải (ngôi 3 số ít)",
+      "hints": ["She + has to"],
+      "points": 10
+    },
+    {
+      "id": 18,
+      "type": "multiple-choice",
+      "question": "He said he __________ me the next day.",
+      "options": ["will call", "would call", "calls", "called"],
+      "correctIndex": 1,
+      "explanation": "will → would; tomorrow → the next day",
+      "hints": ["will → would trong reported speech"],
+      "points": 10
+    },
+    {
+      "id": 19,
+      "type": "multiple-choice",
+      "question": "If you __________ too much sugar, you'll get sick.",
+      "options": ["eat", "will eat", "ate", "eating"],
+      "correctIndex": 0,
+      "explanation": "First Conditional: If + present simple",
+      "hints": ["If + present simple"],
+      "points": 10
+    },
+    {
+      "id": 20,
+      "type": "multiple-choice",
+      "question": "Where's John? He __________ be in the library.",
+      "options": ["must", "may", "will", "would"],
+      "correctIndex": 1,
+      "explanation": "'may' cho phỏng đoán không chắc chắn",
+      "hints": ["Không chắc → may/might"],
+      "points": 10
+    },
+    {
+      "id": 21,
+      "type": "fill-blank",
+      "question": "She said she __________ (be) very happy.",
+      "wordHint": "(be)",
+      "answer": "was",
+      "acceptedAnswers": ["was"],
+      "hints": ["is → was trong reported speech"],
+      "points": 10
+    },
+    {
+      "id": 22,
+      "type": "fill-blank",
+      "question": "If it __________ (rain), we'll stay inside.",
+      "wordHint": "(rain)",
+      "answer": "rains",
+      "acceptedAnswers": ["rains"],
+      "hints": ["If + present simple (ngôi 3 số ít thêm -s)"],
+      "points": 10
+    },
+    {
+      "id": 23,
+      "type": "fill-blank",
+      "question": "She __________ (might) be at the party. I'm not sure.",
+      "wordHint": "(might)",
+      "answer": "might",
+      "acceptedAnswers": ["might", "may", "could"],
+      "hints": ["Không chắc chắn → might/may/could"],
+      "points": 10
+    },
+    {
+      "id": 24,
+      "type": "fill-blank",
+      "question": "I __________ (have) to finish my homework before dinner.",
+      "wordHint": "(have)",
+      "answer": "have",
+      "acceptedAnswers": ["have"],
+      "hints": ["have to = phải"],
+      "points": 10
+    },
+    {
+      "id": 25,
+      "type": "fill-blank",
+      "question": "He told me he __________ (can) help me.",
+      "wordHint": "(can)",
+      "answer": "could",
+      "acceptedAnswers": ["could"],
+      "hints": ["can → could trong reported speech"],
+      "points": 10
+    },
+    {
+      "id": 26,
+      "type": "fill-blank",
+      "question": "If you don't study, you __________ (not pass) the test.",
+      "wordHint": "(not pass)",
+      "answer": "won't pass",
+      "acceptedAnswers": ["won't pass", "will not pass"],
+      "hints": ["Mệnh đề chính: won't + verb"],
+      "points": 10
+    },
+    {
+      "id": 27,
+      "type": "fill-blank",
+      "question": "It __________ (may) be cold tomorrow.",
+      "wordHint": "(may)",
+      "answer": "may",
+      "acceptedAnswers": ["may", "might", "could"],
+      "hints": ["Có thể → may/might/could"],
+      "points": 10
+    },
+    {
+      "id": 28,
+      "type": "fill-blank",
+      "question": "She __________ (have) to work late yesterday.",
+      "wordHint": "(have)",
+      "answer": "had",
+      "acceptedAnswers": ["had"],
+      "hints": ["have to quá khứ → had to"],
+      "points": 10
+    },
+    {
+      "id": 29,
+      "type": "fill-blank",
+      "question": "She said she __________ (live) in London.",
+      "wordHint": "(live)",
+      "answer": "lived",
+      "acceptedAnswers": ["lived"],
+      "hints": ["lives → lived trong reported speech"],
+      "points": 10
+    },
+    {
+      "id": 30,
+      "type": "fill-blank",
+      "question": "If we __________ (leave) now, we'll arrive on time.",
+      "wordHint": "(leave)",
+      "answer": "leave",
+      "acceptedAnswers": ["leave"],
+      "hints": ["If + present simple"],
+      "points": 10
+    },
+    {
+      "id": 31,
+      "type": "error-correct",
+      "wrongSentence": "She said she is tired.",
+      "correctSentence": "She said she was tired.",
+      "errorWord": "is",
+      "correction": "was",
+      "explanation": "Reported speech: is → was",
+      "hints": ["Present → Past trong reported speech"],
+      "points": 10
+    },
+    {
+      "id": 32,
+      "type": "error-correct",
+      "wrongSentence": "If it will rain, we'll stay home.",
+      "correctSentence": "If it rains, we'll stay home.",
+      "errorWord": "will rain",
+      "correction": "rains",
+      "explanation": "First Conditional: If + present simple (không dùng will)",
+      "hints": ["Không dùng will sau if"],
+      "points": 10
+    },
+    {
+      "id": 33,
+      "type": "error-correct",
+      "wrongSentence": "She mays be at home.",
+      "correctSentence": "She may be at home.",
+      "errorWord": "mays",
+      "correction": "may",
+      "explanation": "Modal verbs không thêm -s",
+      "hints": ["may (không chia)"],
+      "points": 10
+    },
+    {
+      "id": 34,
+      "type": "error-correct",
+      "wrongSentence": "I must to go now.",
+      "correctSentence": "I must go now. / I have to go now.",
+      "errorWord": "must to",
+      "correction": "must / have to",
+      "explanation": "must + V (không có 'to')",
+      "hints": ["must + verb (không có to)"],
+      "points": 10
+    },
+    {
+      "id": 35,
+      "type": "error-correct",
+      "wrongSentence": "He said me that he was busy.",
+      "correctSentence": "He told me that he was busy.",
+      "errorWord": "said me",
+      "correction": "told me",
+      "explanation": "said không cần tân ngữ, told + tân ngữ",
+      "hints": ["told + object + clause"],
+      "points": 10
+    },
+    {
+      "id": 36,
+      "type": "error-correct",
+      "wrongSentence": "If you study, you passed the exam.",
+      "correctSentence": "If you study, you will pass the exam.",
+      "errorWord": "passed",
+      "correction": "will pass",
+      "explanation": "First Conditional: will + verb trong mệnh đề chính",
+      "hints": ["If + present, will + verb"],
+      "points": 10
+    },
+    {
+      "id": 37,
+      "type": "error-correct",
+      "wrongSentence": "She mights come to the party.",
+      "correctSentence": "She might come to the party.",
+      "errorWord": "mights",
+      "correction": "might",
+      "explanation": "Modal verbs không thêm -s",
+      "hints": ["might (không chia)"],
+      "points": 10
+    },
+    {
+      "id": 38,
+      "type": "error-correct",
+      "wrongSentence": "She have to work on Sundays.",
+      "correctSentence": "She has to work on Sundays.",
+      "errorWord": "have",
+      "correction": "has",
+      "explanation": "She + has to",
+      "hints": ["Ngôi 3 số ít: has to"],
+      "points": 10
+    },
+    {
+      "id": 39,
+      "type": "error-correct",
+      "wrongSentence": "He told that he was leaving.",
+      "correctSentence": "He said that he was leaving.",
+      "errorWord": "told",
+      "correction": "said",
+      "explanation": "told cần tân ngữ, said không cần",
+      "hints": ["said + clause (không có object)"],
+      "points": 10
+    },
+    {
+      "id": 40,
+      "type": "error-correct",
+      "wrongSentence": "If you won't hurry, we'll be late.",
+      "correctSentence": "If you don't hurry, we'll be late.",
+      "errorWord": "won't",
+      "correction": "don't",
+      "explanation": "If + present simple (don't, không dùng won't)",
+      "hints": ["If + don't (không dùng won't)"],
+      "points": 10
+    },
+    {
+      "id": 41,
+      "type": "multiple-choice",
+      "question": "She said she __________ going to the cinema.",
+      "options": ["is", "was", "will be", "has been"],
+      "correctIndex": 1,
+      "explanation": "Reported speech: is → was",
+      "hints": ["is → was trong reported speech"],
+      "points": 10
+    },
+    {
+      "id": 42,
+      "type": "multiple-choice",
+      "question": "If you touch the fire, you __________ get burned.",
+      "options": ["will", "would", "might", "should"],
+      "correctIndex": 0,
+      "explanation": "First Conditional: will cho kết quả chắc chắn",
+      "hints": ["If + present, will + verb"],
+      "points": 10
+    },
+    {
+      "id": 43,
+      "type": "multiple-choice",
+      "question": "He __________ be sleeping. It's very late.",
+      "options": ["will", "might", "must", "should"],
+      "correctIndex": 1,
+      "explanation": "'might' cho khả năng",
+      "hints": ["Có thể → might"],
+      "points": 10
+    },
+    {
+      "id": 44,
+      "type": "multiple-choice",
+      "question": "Do you __________ to wear a tie to work?",
+      "options": ["must", "have", "should", "can"],
+      "correctIndex": 1,
+      "explanation": "Do + have to trong câu hỏi",
+      "hints": ["Do + you + have to...?"],
+      "points": 10
+    },
+    {
+      "id": 45,
+      "type": "multiple-choice",
+      "question": "She told __________ that she was leaving.",
+      "options": ["that", "me", "said", "to"],
+      "correctIndex": 1,
+      "explanation": "told + object (me)",
+      "hints": ["told + tân ngữ + mệnh đề"],
+      "points": 10
+    },
+    {
+      "id": 46,
+      "type": "multiple-choice",
+      "question": "If she __________ the train, she'll be late.",
+      "options": ["miss", "misses", "will miss", "missed"],
+      "correctIndex": 1,
+      "explanation": "If + present simple (ngôi 3 số ít thêm -es)",
+      "hints": ["she + misses (thêm -es)"],
+      "points": 10
+    },
+    {
+      "id": 47,
+      "type": "multiple-choice",
+      "question": "You __________ be right. I'm not sure.",
+      "options": ["must", "could", "will", "should"],
+      "correctIndex": 1,
+      "explanation": "'could' cho khả năng không chắc chắn",
+      "hints": ["Không chắc → could/may/might"],
+      "points": 10
+    },
+    {
+      "id": 48,
+      "type": "multiple-choice",
+      "question": "We __________ have to wait long. The bus is coming.",
+      "options": ["don't", "won't", "didn't", "aren't"],
+      "correctIndex": 1,
+      "explanation": "won't have to = sẽ không phải",
+      "hints": ["won't have to (tương lai)"],
+      "points": 10
+    },
+    {
+      "id": 49,
+      "type": "multiple-choice",
+      "question": "He said he __________ there before.",
+      "options": ["has been", "had been", "is", "was"],
+      "correctIndex": 1,
+      "explanation": "has been → had been trong reported speech",
+      "hints": ["Present Perfect → Past Perfect"],
+      "points": 10
+    },
+    {
+      "id": 50,
+      "type": "multiple-choice",
+      "question": "What will you do if it __________?",
+      "options": ["rain", "rains", "will rain", "rained"],
+      "correctIndex": 1,
+      "explanation": "If + present simple (ngôi 3 số ít thêm -s)",
+      "hints": ["it + rains"],
+      "points": 10
+    },
+    {
+      "id": 51,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp câu: She / said / she / was / tired",
+      "words": ["She", "said", "she", "was", "tired"],
+      "distractors": ["is", "told", "were"],
+      "correctSentence": "She said she was tired",
+      "acceptedAnswers": ["She said she was tired", "She said she was tired."],
+      "hints": ["said + mệnh đề (thì quá khứ)"],
+      "points": 10
+    },
+    {
+      "id": 52,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp câu: If / it / rains / we / will / stay / home",
+      "words": ["If", "it", "rains", "we", "will", "stay", "home"],
+      "distractors": ["rain", "would", "stayed"],
+      "correctSentence": "If it rains we will stay home",
+      "acceptedAnswers": ["If it rains we will stay home", "If it rains, we will stay home", "If it rains we will stay home."],
+      "hints": ["If + present, will + verb"],
+      "points": 10
+    },
+    {
+      "id": 53,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp câu: It / might / rain / tomorrow",
+      "words": ["It", "might", "rain", "tomorrow"],
+      "distractors": ["will", "rains", "rained"],
+      "correctSentence": "It might rain tomorrow",
+      "acceptedAnswers": ["It might rain tomorrow", "It might rain tomorrow."],
+      "hints": ["might + verb (nguyên mẫu)"],
+      "points": 10
+    },
+    {
+      "id": 54,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp câu: I / have / to / go / to / school",
+      "words": ["I", "have", "to", "go", "to", "school"],
+      "distractors": ["must", "has", "going"],
+      "correctSentence": "I have to go to school",
+      "acceptedAnswers": ["I have to go to school", "I have to go to school."],
+      "hints": ["have to + verb"],
+      "points": 10
+    },
+    {
+      "id": 55,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp câu: He / told / me / he / was / busy",
+      "words": ["He", "told", "me", "he", "was", "busy"],
+      "distractors": ["said", "is", "will be"],
+      "correctSentence": "He told me he was busy",
+      "acceptedAnswers": ["He told me he was busy", "He told me he was busy."],
+      "hints": ["told + object + clause"],
+      "points": 10
+    },
+    {
+      "id": 56,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp câu: If / you / study / you / will / pass",
+      "words": ["If", "you", "study", "you", "will", "pass"],
+      "distractors": ["studied", "would", "passed"],
+      "correctSentence": "If you study you will pass",
+      "acceptedAnswers": ["If you study you will pass", "If you study, you will pass", "If you study you will pass."],
+      "hints": ["If + present, will + verb"],
+      "points": 10
+    },
+    {
+      "id": 57,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp câu: She / may / be / at / the / office",
+      "words": ["She", "may", "be", "at", "the", "office"],
+      "distractors": ["might", "is", "was"],
+      "correctSentence": "She may be at the office",
+      "acceptedAnswers": ["She may be at the office", "She may be at the office."],
+      "hints": ["may + be"],
+      "points": 10
+    },
+    {
+      "id": 58,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp câu: You / don't / have / to / pay",
+      "words": ["You", "don't", "have", "to", "pay"],
+      "distractors": ["must", "doesn't", "paying"],
+      "correctSentence": "You don't have to pay",
+      "acceptedAnswers": ["You don't have to pay", "You don't have to pay."],
+      "hints": ["don't have to = không cần"],
+      "points": 10
+    },
+    {
+      "id": 59,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp câu: She / said / she / would / come",
+      "words": ["She", "said", "she", "would", "come"],
+      "distractors": ["will", "told", "came"],
+      "correctSentence": "She said she would come",
+      "acceptedAnswers": ["She said she would come", "She said she would come."],
+      "hints": ["will → would trong reported speech"],
+      "points": 10
+    },
+    {
+      "id": 60,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp câu: If / we / don't / hurry / we / will / be / late",
+      "words": ["If", "we", "don't", "hurry", "we", "will", "be", "late"],
+      "distractors": ["won't", "didn't", "hurried"],
+      "correctSentence": "If we don't hurry we will be late",
+      "acceptedAnswers": ["If we don't hurry we will be late", "If we don't hurry, we will be late", "If we don't hurry we will be late."],
+      "hints": ["If + don't + verb, will"],
+      "points": 10
+    },
+    {
+      "id": 61,
+      "type": "multiple-choice",
+      "question": "She said she __________ very busy that day.",
+      "options": ["is", "was", "will be", "has been"],
+      "correctIndex": 1,
+      "explanation": "today → that day; is → was",
+      "hints": ["Thay đổi từ chỉ thời gian và thì"],
+      "points": 10
+    },
+    {
+      "id": 62,
+      "type": "multiple-choice",
+      "question": "Will you help me if I __________ you?",
+      "options": ["ask", "will ask", "asked", "asking"],
+      "correctIndex": 0,
+      "explanation": "If + present simple",
+      "hints": ["If + present (không dùng will)"],
+      "points": 10
+    },
+    {
+      "id": 63,
+      "type": "multiple-choice",
+      "question": "The phone's ringing. It __________ be John.",
+      "options": ["must", "might", "will", "should"],
+      "correctIndex": 1,
+      "explanation": "'might' cho phỏng đoán không chắc chắn",
+      "hints": ["Không chắc → might"],
+      "points": 10
+    },
+    {
+      "id": 64,
+      "type": "multiple-choice",
+      "question": "__________ she have to work on weekends?",
+      "options": ["Do", "Does", "Is", "Has"],
+      "correctIndex": 1,
+      "explanation": "Does + she + have to...?",
+      "hints": ["Ngôi 3 số ít: Does"],
+      "points": 10
+    },
+    {
+      "id": 65,
+      "type": "multiple-choice",
+      "question": "He __________ he would call me later.",
+      "options": ["told", "said", "spoke", "asked"],
+      "correctIndex": 1,
+      "explanation": "'said' + clause (không có tân ngữ)",
+      "hints": ["said + clause"],
+      "points": 10
+    },
+    {
+      "id": 66,
+      "type": "multiple-choice",
+      "question": "If the weather __________ nice, we'll go to the beach.",
+      "options": ["is", "will be", "was", "be"],
+      "correctIndex": 0,
+      "explanation": "If + present simple",
+      "hints": ["If + is (present simple)"],
+      "points": 10
+    },
+    {
+      "id": 67,
+      "type": "multiple-choice",
+      "question": "She __________ be sick. She looks pale.",
+      "options": ["must", "might", "will", "would"],
+      "correctIndex": 1,
+      "explanation": "'might' cho phỏng đoán với bằng chứng",
+      "hints": ["Có thể → might"],
+      "points": 10
+    },
+    {
+      "id": 68,
+      "type": "multiple-choice",
+      "question": "I didn't __________ to wear a uniform at my old school.",
+      "options": ["must", "have", "should", "can"],
+      "correctIndex": 1,
+      "explanation": "didn't have to = không cần phải (quá khứ)",
+      "hints": ["didn't + have to"],
+      "points": 10
+    },
+    {
+      "id": 69,
+      "type": "multiple-choice",
+      "question": "She told me she __________ living in Tokyo.",
+      "options": ["is", "was", "will be", "has been"],
+      "correctIndex": 1,
+      "explanation": "is → was trong reported speech",
+      "hints": ["Present Continuous → Past Continuous"],
+      "points": 10
+    },
+    {
+      "id": 70,
+      "type": "multiple-choice",
+      "question": "If you __________ now, you'll catch the bus.",
+      "options": ["leave", "will leave", "left", "leaving"],
+      "correctIndex": 0,
+      "explanation": "If + present simple",
+      "hints": ["If + present (không dùng will)"],
+      "points": 10
+    },
+    {
+      "id": 71,
+      "type": "fill-blank",
+      "question": "He said he __________ (want) to go home.",
+      "wordHint": "(want)",
+      "answer": "wanted",
+      "acceptedAnswers": ["wanted"],
+      "hints": ["wants → wanted trong reported speech"],
+      "points": 10
+    },
+    {
+      "id": 72,
+      "type": "fill-blank",
+      "question": "If she __________ (not come), we'll start without her.",
+      "wordHint": "(not come)",
+      "answer": "doesn't come",
+      "acceptedAnswers": ["doesn't come", "does not come"],
+      "hints": ["If + doesn't + verb"],
+      "points": 10
+    },
+    {
+      "id": 73,
+      "type": "fill-blank",
+      "question": "He __________ (could) be at the gym. He usually goes there.",
+      "wordHint": "(could)",
+      "answer": "could",
+      "acceptedAnswers": ["could", "might", "may"],
+      "hints": ["Có thể → could/might/may"],
+      "points": 10
+    },
+    {
+      "id": 74,
+      "type": "fill-blank",
+      "question": "She __________ (have) to take medicine every day.",
+      "wordHint": "(have)",
+      "answer": "has",
+      "acceptedAnswers": ["has"],
+      "hints": ["She + has to"],
+      "points": 10
+    },
+    {
+      "id": 75,
+      "type": "fill-blank",
+      "question": "She said she __________ (be) studying when I called.",
+      "wordHint": "(be)",
+      "answer": "was",
+      "acceptedAnswers": ["was"],
+      "hints": ["was studying trong reported speech"],
+      "points": 10
+    },
+    {
+      "id": 76,
+      "type": "fill-blank",
+      "question": "If we __________ (not leave) now, we'll miss the train.",
+      "wordHint": "(not leave)",
+      "answer": "don't leave",
+      "acceptedAnswers": ["don't leave", "do not leave"],
+      "hints": ["If + don't + verb"],
+      "points": 10
+    },
+    {
+      "id": 77,
+      "type": "fill-blank",
+      "question": "It __________ (might) snow tonight.",
+      "wordHint": "(might)",
+      "answer": "might",
+      "acceptedAnswers": ["might", "may", "could"],
+      "hints": ["Có thể → might/may/could"],
+      "points": 10
+    },
+    {
+      "id": 78,
+      "type": "fill-blank",
+      "question": "Do I __________ (have) to finish this today?",
+      "wordHint": "(have)",
+      "answer": "have",
+      "acceptedAnswers": ["have"],
+      "hints": ["Do + I + have to...?"],
+      "points": 10
+    },
+    {
+      "id": 79,
+      "type": "fill-blank",
+      "question": "He __________ (tell) me he was sorry.",
+      "wordHint": "(tell)",
+      "answer": "told",
+      "acceptedAnswers": ["told"],
+      "hints": ["told + tân ngữ + mệnh đề"],
+      "points": 10
+    },
+    {
+      "id": 80,
+      "type": "fill-blank",
+      "question": "What __________ (will) happen if you press this button?",
+      "wordHint": "(will)",
+      "answer": "will",
+      "acceptedAnswers": ["will"],
+      "hints": ["What will happen if...?"],
+      "points": 10
+    },
+    {
+      "id": 81,
+      "type": "multiple-choice",
+      "question": "He said he __________ there the day before.",
+      "options": ["went", "had gone", "goes", "has gone"],
+      "correctIndex": 1,
+      "explanation": "yesterday → the day before; went → had gone",
+      "hints": ["Past Simple → Past Perfect trong reported speech"],
+      "points": 10
+    },
+    {
+      "id": 82,
+      "type": "multiple-choice",
+      "question": "If you __________ the cake, there won't be any left.",
+      "options": ["eat", "will eat", "ate", "eating"],
+      "correctIndex": 0,
+      "explanation": "If + present simple",
+      "hints": ["If + present (không dùng will)"],
+      "points": 10
+    },
+    {
+      "id": 83,
+      "type": "multiple-choice",
+      "question": "Take your umbrella. It __________ rain.",
+      "options": ["will", "may", "must", "should"],
+      "correctIndex": 1,
+      "explanation": "'may' cho khả năng",
+      "hints": ["Có thể → may/might"],
+      "points": 10
+    },
+    {
+      "id": 84,
+      "type": "multiple-choice",
+      "question": "We __________ have to buy tickets. They're free.",
+      "options": ["don't", "won't", "didn't", "mustn't"],
+      "correctIndex": 0,
+      "explanation": "don't have to = không cần",
+      "hints": ["don't have to = không bắt buộc"],
+      "points": 10
+    },
+    {
+      "id": 85,
+      "type": "multiple-choice",
+      "question": "She __________ me that the meeting was cancelled.",
+      "options": ["said", "told", "spoke", "asked"],
+      "correctIndex": 1,
+      "explanation": "told + object (me)",
+      "hints": ["told + tân ngữ + mệnh đề"],
+      "points": 10
+    },
+    {
+      "id": 86,
+      "type": "multiple-choice",
+      "question": "If it __________ too late, we'll have dinner together.",
+      "options": ["isn't", "won't be", "wasn't", "doesn't"],
+      "correctIndex": 0,
+      "explanation": "If + present simple (isn't)",
+      "hints": ["If + isn't (present simple)"],
+      "points": 10
+    },
+    {
+      "id": 87,
+      "type": "multiple-choice",
+      "question": "She __________ be at work. The office is closed.",
+      "options": ["must", "can't", "might", "should"],
+      "correctIndex": 1,
+      "explanation": "'can't' cho sự không thể (chắc chắn không)",
+      "hints": ["Không thể → can't"],
+      "points": 10
+    },
+    {
+      "id": 88,
+      "type": "multiple-choice",
+      "question": "He __________ to see a doctor tomorrow.",
+      "options": ["must", "has", "should", "can"],
+      "correctIndex": 1,
+      "explanation": "has to = phải (ngôi 3 số ít)",
+      "hints": ["He + has to"],
+      "points": 10
+    },
+    {
+      "id": 89,
+      "type": "multiple-choice",
+      "question": "She said she __________ been waiting for an hour.",
+      "options": ["has", "had", "is", "was"],
+      "correctIndex": 1,
+      "explanation": "has been → had been trong reported speech",
+      "hints": ["Present Perfect → Past Perfect"],
+      "points": 10
+    },
+    {
+      "id": 90,
+      "type": "multiple-choice",
+      "question": "If you __________ me, I'll tell you.",
+      "options": ["ask", "will ask", "asked", "asking"],
+      "correctIndex": 0,
+      "explanation": "If + present simple",
+      "hints": ["If + present (không dùng will)"],
+      "points": 10
+    },
+    {
+      "id": 91,
+      "type": "translation",
+      "vietnamese": "Cô ấy nói cô ấy mệt.",
+      "answer": "She said she was tired.",
+      "acceptedAnswers": ["She said she was tired.", "She said she was tired", "She said that she was tired."],
+      "hints": ["said + mệnh đề (thì quá khứ)"],
+      "points": 10
+    },
+    {
+      "id": 92,
+      "type": "translation",
+      "vietnamese": "Nếu trời mưa, chúng tôi sẽ ở nhà.",
+      "answer": "If it rains, we will stay at home.",
+      "acceptedAnswers": ["If it rains, we will stay at home.", "If it rains, we will stay at home", "If it rains we will stay at home", "If it rains, we'll stay at home."],
+      "hints": ["If + present, will + verb"],
+      "points": 10
+    },
+    {
+      "id": 93,
+      "type": "translation",
+      "vietnamese": "Cô ấy có thể ở nhà.",
+      "answer": "She may be at home.",
+      "acceptedAnswers": ["She may be at home.", "She may be at home", "She might be at home.", "She might be at home", "She could be at home."],
+      "hints": ["may/might/could + verb"],
+      "points": 10
+    },
+    {
+      "id": 94,
+      "type": "translation",
+      "vietnamese": "Tôi phải đi học.",
+      "answer": "I have to go to school.",
+      "acceptedAnswers": ["I have to go to school.", "I have to go to school"],
+      "hints": ["have to + verb"],
+      "points": 10
+    },
+    {
+      "id": 95,
+      "type": "translation",
+      "vietnamese": "Anh ấy nói với tôi rằng anh ấy bận.",
+      "answer": "He told me that he was busy.",
+      "acceptedAnswers": ["He told me that he was busy.", "He told me that he was busy", "He told me he was busy.", "He told me he was busy"],
+      "hints": ["told + object + clause"],
+      "points": 10
+    },
+    {
+      "id": 96,
+      "type": "translation",
+      "vietnamese": "Nếu bạn học chăm, bạn sẽ đậu.",
+      "answer": "If you study hard, you will pass.",
+      "acceptedAnswers": ["If you study hard, you will pass.", "If you study hard, you will pass", "If you study hard you will pass", "If you study hard, you'll pass."],
+      "hints": ["If + present, will + verb"],
+      "points": 10
+    },
+    {
+      "id": 97,
+      "type": "translation",
+      "vietnamese": "Ngày mai có thể mưa.",
+      "answer": "It might rain tomorrow.",
+      "acceptedAnswers": ["It might rain tomorrow.", "It might rain tomorrow", "It may rain tomorrow.", "It may rain tomorrow", "It could rain tomorrow."],
+      "hints": ["might/may/could + verb"],
+      "points": 10
+    },
+    {
+      "id": 98,
+      "type": "translation",
+      "vietnamese": "Bạn không cần phải trả tiền.",
+      "answer": "You don't have to pay.",
+      "acceptedAnswers": ["You don't have to pay.", "You don't have to pay", "You do not have to pay."],
+      "hints": ["don't have to = không cần"],
+      "points": 10
+    },
+    {
+      "id": 99,
+      "type": "translation",
+      "vietnamese": "Cô ấy nói cô ấy sẽ gọi cho tôi.",
+      "answer": "She said she would call me.",
+      "acceptedAnswers": ["She said she would call me.", "She said she would call me", "She said that she would call me."],
+      "hints": ["will → would trong reported speech"],
+      "points": 10
+    },
+    {
+      "id": 100,
+      "type": "translation",
+      "vietnamese": "Nếu chúng ta không vội, chúng ta sẽ bị trễ.",
+      "answer": "If we don't hurry, we will be late.",
+      "acceptedAnswers": ["If we don't hurry, we will be late.", "If we don't hurry, we will be late", "If we don't hurry we will be late", "If we don't hurry, we'll be late."],
+      "hints": ["If + don't + verb, will"],
+      "points": 10
+    }
+  ]
+}

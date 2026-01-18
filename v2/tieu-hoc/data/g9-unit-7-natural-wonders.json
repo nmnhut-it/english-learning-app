@@ -1,0 +1,577 @@
+{
+  "unitId": "g9-unit-7-natural-wonders",
+  "title": "Grade 9 - Unit 7: Natural Wonders of the World",
+  "grammarTopics": [
+    "Reported Questions (Yes/No)"
+  ],
+  "theory": {
+    "brief": "Câu hỏi gián tiếp Yes/No: Khi tường thuật câu hỏi Yes/No, ta dùng cấu trúc S + asked + (O) + if/whether + S + V (lùi thì). Không đảo ngữ trong mệnh đề sau if/whether. Dấu chấm hỏi (?) chuyển thành dấu chấm (.).",
+    "examples": [
+      "She asked me if I knew about Ha Long Bay. (Cô ấy hỏi tôi có biết về Vịnh Hạ Long không.)",
+      "He asked whether I enjoyed virtual tours. (Anh ấy hỏi tôi có thích tour ảo không.)",
+      "They asked if we wanted to visit natural wonders. (Họ hỏi chúng tôi có muốn thăm kỳ quan thiên nhiên không.)",
+      "I asked her whether she could join the trip. (Tôi hỏi cô ấy có thể tham gia chuyến đi không.)"
+    ]
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "type": "multiple-choice",
+      "question": "She asked me __________ about the Grand Canyon.",
+      "options": [
+        "if I know",
+        "if I knew",
+        "do I know",
+        "did I know"
+      ],
+      "correctIndex": 1,
+      "explanation": "Câu hỏi gián tiếp dùng if + S + V (l→i th→)",
+      "hints": [
+        "if + S + V",
+        "Lùi thì: know → knew"
+      ],
+      "points": 10
+    },
+    {
+      "id": 2,
+      "type": "multiple-choice",
+      "question": "He asked __________ I had ever visited Mount Everest.",
+      "options": [
+        "if",
+        "what",
+        "where",
+        "how"
+      ],
+      "correctIndex": 0,
+      "explanation": "Yes/No questions dùng 'if' ho→c 'whether'",
+      "hints": [
+        "Yes/No question → if/whether"
+      ],
+      "points": 10
+    },
+    {
+      "id": 3,
+      "type": "multiple-choice",
+      "question": "They asked me whether I __________ in natural wonders.",
+      "options": [
+        "am interested",
+        "was interested",
+        "interested",
+        "interest"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lùi thì: am → was",
+      "hints": [
+        "Lùi thì trong câu gián tiếp"
+      ],
+      "points": 10
+    },
+    {
+      "id": 4,
+      "type": "multiple-choice",
+      "question": "Nam asked if I __________ virtual tours.",
+      "options": [
+        "enjoy",
+        "enjoyed",
+        "will enjoy",
+        "am enjoying"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lùi thì hi→n từi →n thành quá khứ →n",
+      "hints": [
+        "enjoy → enjoyed"
+      ],
+      "points": 10
+    },
+    {
+      "id": 5,
+      "type": "multiple-choice",
+      "question": "She asked me __________ I could manage the project deadline.",
+      "options": [
+        "if",
+        "what",
+        "who",
+        "when"
+      ],
+      "correctIndex": 0,
+      "explanation": "Yes/No question dùng 'if'",
+      "hints": [
+        "Can you...? → if I could"
+      ],
+      "points": 10
+    },
+    {
+      "id": 6,
+      "type": "multiple-choice",
+      "question": "David asked __________ we had visited the Dead Sea.",
+      "options": [
+        "whether",
+        "where",
+        "what",
+        "which"
+      ],
+      "correctIndex": 0,
+      "explanation": "Yes/No question dùng 'whether'",
+      "hints": [
+        "Have you...? → whether + S + had"
+      ],
+      "points": 10
+    },
+    {
+      "id": 7,
+      "type": "multiple-choice",
+      "question": "Mi asked if Nam __________ having virtual tours.",
+      "options": [
+        "enjoy",
+        "enjoyed",
+        "enjoys",
+        "will enjoy"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lùi thì hi→n từi ti→p di→n: enjoys → enjoyed",
+      "hints": [
+        "Lùi thì"
+      ],
+      "points": 10
+    },
+    {
+      "id": 8,
+      "type": "multiple-choice",
+      "question": "The teacher asked whether we __________ to explore natural sites.",
+      "options": [
+        "want",
+        "wanted",
+        "wants",
+        "will want"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lùi thì: want → wanted",
+      "hints": [
+        "want → wanted"
+      ],
+      "points": 10
+    },
+    {
+      "id": 9,
+      "type": "multiple-choice",
+      "question": "He asked me if I __________ the Trang An Complex.",
+      "options": [
+        "have visited",
+        "had visited",
+        "visit",
+        "visited"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lùi thì Present Perfect → Past Perfect",
+      "hints": [
+        "have visited → had visited"
+      ],
+      "points": 10
+    },
+    {
+      "id": 10,
+      "type": "multiple-choice",
+      "question": "She asked __________ I would visit Ha Long Bay that summer.",
+      "options": [
+        "if",
+        "what",
+        "where",
+        "how"
+      ],
+      "correctIndex": 0,
+      "explanation": "Yes/No question dùng 'if'",
+      "hints": [
+        "Will you...? → if + would"
+      ],
+      "points": 10
+    },
+    {
+      "id": 11,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": [
+        "She",
+        "asked",
+        "me",
+        "if",
+        "I",
+        "knew",
+        "about",
+        "the",
+        "Shillin",
+        "Stone",
+        "Forest"
+      ],
+      "correctSentence": "She asked me if I knew about the Shillin Stone Forest.",
+      "explanation": "if + S + V (l→i th→)",
+      "hints": [
+        "asked + if + S + V"
+      ],
+      "points": 10
+    },
+    {
+      "id": 12,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": [
+        "He",
+        "asked",
+        "whether",
+        "I",
+        "was",
+        "interested",
+        "in",
+        "landscapes"
+      ],
+      "correctSentence": "He asked whether I was interested in landscapes.",
+      "explanation": "whether + S + V",
+      "hints": [
+        "whether + S + was"
+      ],
+      "points": 10
+    },
+    {
+      "id": 13,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": [
+        "They",
+        "asked",
+        "if",
+        "we",
+        "wanted",
+        "to",
+        "explore",
+        "the",
+        "cave"
+      ],
+      "correctSentence": "They asked if we wanted to explore the cave.",
+      "explanation": "if + S + wanted + to-V",
+      "hints": [
+        "if + S + wanted"
+      ],
+      "points": 10
+    },
+    {
+      "id": 14,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": [
+        "I",
+        "asked",
+        "Linh",
+        "if",
+        "she",
+        "could",
+        "meet",
+        "the",
+        "deadline"
+      ],
+      "correctSentence": "I asked Linh if she could meet the deadline.",
+      "explanation": "if + S + could + V",
+      "hints": [
+        "Can you? → if + could"
+      ],
+      "points": 10
+    },
+    {
+      "id": 15,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": [
+        "Nam",
+        "asked",
+        "whether",
+        "I",
+        "had",
+        "seen",
+        "Mount",
+        "Fuji"
+      ],
+      "correctSentence": "Nam asked whether I had seen Mount Fuji.",
+      "explanation": "whether + S + had + V3",
+      "hints": [
+        "Have you? → whether + had"
+      ],
+      "points": 10
+    },
+    {
+      "id": 16,
+      "type": "multiple-choice",
+      "question": "Direct: 'Do you like natural wonders?' → Reported: He asked me __________.",
+      "options": [
+        "if I like natural wonders",
+        "if I liked natural wonders",
+        "do I like natural wonders",
+        "did I like natural wonders"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lùi thì v→ dùng if",
+      "hints": [
+        "Do you...? → if + S + liked"
+      ],
+      "points": 10
+    },
+    {
+      "id": 17,
+      "type": "multiple-choice",
+      "question": "Direct: 'Have you explored the forest?' → Reported: She asked __________.",
+      "options": [
+        "if I explore the forest",
+        "if I explored the forest",
+        "if I have explored the forest",
+        "if I had explored the forest"
+      ],
+      "correctIndex": 3,
+      "explanation": "Present Perfect → Past Perfect",
+      "hints": [
+        "have explored → had explored"
+      ],
+      "points": 10
+    },
+    {
+      "id": 18,
+      "type": "multiple-choice",
+      "question": "Direct: 'Can you climb the mountain?' → Reported: He asked me __________.",
+      "options": [
+        "if I can climb",
+        "if I could climb",
+        "can I climb",
+        "could I climb"
+      ],
+      "correctIndex": 1,
+      "explanation": "can → could trong câu gián tiếp",
+      "hints": [
+        "can → could"
+      ],
+      "points": 10
+    },
+    {
+      "id": 19,
+      "type": "multiple-choice",
+      "question": "Direct: 'Will you visit the waterfall?' → Reported: She asked __________.",
+      "options": [
+        "if I will visit",
+        "if I would visit",
+        "will I visit",
+        "would I visit"
+      ],
+      "correctIndex": 1,
+      "explanation": "will → would trong câu gián tiếp",
+      "hints": [
+        "will → would"
+      ],
+      "points": 10
+    },
+    {
+      "id": 20,
+      "type": "multiple-choice",
+      "question": "Direct: 'Are you crazy about natural wonders?' → Reported: Tom asked __________.",
+      "options": [
+        "if I am crazy",
+        "if I was crazy",
+        "am I crazy",
+        "was I crazy"
+      ],
+      "correctIndex": 1,
+      "explanation": "am → was trong câu gián tiếp",
+      "hints": [
+        "am → was"
+      ],
+      "points": 10
+    },
+    {
+      "id": 21,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": [
+        "She",
+        "asked",
+        "if",
+        "I",
+        "enjoyed",
+        "virtual",
+        "tours"
+      ],
+      "correctSentence": "She asked if I enjoyed virtual tours.",
+      "explanation": "if + S + enjoyed",
+      "hints": [
+        "Do you enjoy? → if + enjoyed"
+      ],
+      "points": 10
+    },
+    {
+      "id": 22,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": [
+        "He",
+        "asked",
+        "whether",
+        "we",
+        "wanted",
+        "to",
+        "preserve",
+        "the",
+        "site"
+      ],
+      "correctSentence": "He asked whether we wanted to preserve the site.",
+      "explanation": "whether + S + wanted + to-V",
+      "hints": [
+        "Do you want? → whether + wanted"
+      ],
+      "points": 10
+    },
+    {
+      "id": 23,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": [
+        "They",
+        "asked",
+        "if",
+        "she",
+        "was",
+        "living",
+        "near",
+        "the",
+        "mountain"
+      ],
+      "correctSentence": "They asked if she was living near the mountain.",
+      "explanation": "if + S + was + V-ing",
+      "hints": [
+        "Is she living? → if + was living"
+      ],
+      "points": 10
+    },
+    {
+      "id": 24,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": [
+        "I",
+        "asked",
+        "whether",
+        "he",
+        "had",
+        "been",
+        "to",
+        "the",
+        "Grand",
+        "Canyon"
+      ],
+      "correctSentence": "I asked whether he had been to the Grand Canyon.",
+      "explanation": "whether + S + had been",
+      "hints": [
+        "Have you been? → whether + had been"
+      ],
+      "points": 10
+    },
+    {
+      "id": 25,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": [
+        "She",
+        "asked",
+        "if",
+        "they",
+        "would",
+        "support",
+        "the",
+        "project"
+      ],
+      "correctSentence": "She asked if they would support the project.",
+      "explanation": "if + S + would + V",
+      "hints": [
+        "Will you? → if + would"
+      ],
+      "points": 10
+    },
+    {
+      "id": 26,
+      "type": "multiple-choice",
+      "question": "Mi asked Nam __________ he wanted to see the coral reef.",
+      "options": [
+        "if",
+        "what",
+        "where",
+        "when"
+      ],
+      "correctIndex": 0,
+      "explanation": "Yes/No question → if",
+      "hints": [
+        "Yes/No → if/whether"
+      ],
+      "points": 10
+    },
+    {
+      "id": 27,
+      "type": "multiple-choice",
+      "question": "The guide asked __________ we were ready to explore.",
+      "options": [
+        "if",
+        "what",
+        "which",
+        "who"
+      ],
+      "correctIndex": 0,
+      "explanation": "Are you...? → if + were",
+      "hints": [
+        "Yes/No question"
+      ],
+      "points": 10
+    },
+    {
+      "id": 28,
+      "type": "multiple-choice",
+      "question": "She asked whether I __________ admire the landscape.",
+      "options": [
+        "can",
+        "could",
+        "may",
+        "might"
+      ],
+      "correctIndex": 1,
+      "explanation": "can → could",
+      "hints": [
+        "Lùi thì: can → could"
+      ],
+      "points": 10
+    },
+    {
+      "id": 29,
+      "type": "multiple-choice",
+      "question": "He asked if we __________ to contribute to environmental protection.",
+      "options": [
+        "want",
+        "wanted",
+        "wants",
+        "will want"
+      ],
+      "correctIndex": 1,
+      "explanation": "want → wanted",
+      "hints": [
+        "Lùi thì"
+      ],
+      "points": 10
+    },
+    {
+      "id": 30,
+      "type": "multiple-choice",
+      "question": "They asked __________ the site was located near the city.",
+      "options": [
+        "if",
+        "where",
+        "what",
+        "which"
+      ],
+      "correctIndex": 0,
+      "explanation": "Is it...? → if",
+      "hints": [
+        "Yes/No question → if"
+      ],
+      "points": 10
+    }
+  ]
+}

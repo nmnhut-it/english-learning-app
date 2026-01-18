@@ -1,0 +1,411 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ôn Thi Lớp 10 - Speaking & Daily Conversations | English Practice</title>
+  <meta name="description" content="Luyện tập giao tiếp tiếng Anh thi vào lớp 10 - Communicative Exchanges">
+
+  <!-- Shared Styles -->
+  <link rel="stylesheet" href="../css/shared.css">
+</head>
+<body>
+  <!-- Game Header -->
+  <header class="game-header">
+    <div class="container">
+      <div class="game-header__container">
+        <div class="game-header__info-section">
+          <h1 class="game-header__title">Ôn Thi Vào Lớp 10</h1>
+          <p class="game-header__subtitle">Speaking & Daily Conversations</p>
+
+          <div class="game-info">
+            <div class="game-info__item">
+              <span class="game-info__label">Giáo viên:</span>
+              <span class="game-info__value">Nguyễn Minh Nhựt</span>
+            </div>
+            <div class="game-info__item">
+              <span class="game-info__label">Năm học:</span>
+              <span class="game-info__value">2024-2025</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="game-header__stats">
+          <div class="stat">
+            <span class="stat__label">Điểm</span>
+            <span class="stat__value stat__value--primary" id="current-score">0</span>
+          </div>
+
+          <div class="stat">
+            <span class="stat__label">Tiến độ</span>
+            <span class="stat__value" id="progress-count">0 / 0</span>
+          </div>
+
+          <div class="stat" id="combo-display" style="display: none;">
+            <span class="stat__label">Combo</span>
+            <span class="stat__value" id="combo-count">0</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Progress Bar -->
+      <div class="progress">
+        <div class="progress__bar" id="progress-bar" style="width: 0%;"></div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Content -->
+  <main class="container">
+    <!-- Theory Panel (Collapsible) -->
+    <div class="theory-panel" id="theory-panel">
+      <button class="theory-panel__toggle" id="theory-toggle">
+        <span>📖 Lý thuyết giao tiếp (Communicative Exchanges)</span>
+        <span class="theory-panel__icon" id="theory-icon">▼</span>
+      </button>
+
+      <div class="theory-panel__content" id="theory-content">
+        <!-- Section 1: Invitations -->
+        <div class="theory-panel__section">
+          <h3 class="theory-panel__heading">1. Lời mời và cách đáp lại (Invitations)</h3>
+
+          <div class="theory-panel__example">
+            <strong>Cách mời:</strong><br>
+            • Would you like + N/to V? (Bạn có muốn...?)<br>
+            • Would you care to join us? (Bạn muốn tham gia cùng không?)<br>
+            • Do you want to go out with me tonight? (Bạn có muốn đi chơi tối nay không?)<br>
+            • Do you feel like going for a walk? (Bạn có muốn đi dạo không?)<br><br>
+
+            <strong style="color: var(--success);">Đồng ý:</strong><br>
+            • Yes, please. / I'd love to, thanks.<br>
+            • That's very kind of you, thanks.<br>
+            • That sounds lovely, thanks.<br>
+            • With pleasure! / Sure. / Sounds good.<br><br>
+
+            <strong style="color: var(--danger);">Từ chối:</strong><br>
+            • I'm sorry to refuse your invitation.<br>
+            • I can't, sorry. I have to work.<br>
+            • I'm afraid I won't be able to come.<br>
+            • Sorry, I'd love to but I have an appointment.
+          </div>
+        </div>
+
+        <!-- Section 2: Requests & Permission -->
+        <div class="theory-panel__section">
+          <h3 class="theory-panel__heading">2. Lời yêu cầu, đề nghị (Requests & Permission)</h3>
+
+          <h4 style="margin-top: 1rem; color: var(--primary);">2.1. Hỏi xin phép:</h4>
+          <div class="theory-panel__example">
+            <strong>Cách hỏi:</strong><br>
+            • Can I...? / Could I...? (Tôi có thể... không?)<br>
+            • Is it OK if I...? (Có được không nếu tôi...?)<br>
+            • Do you mind if I...? (Bạn có phiền không nếu tôi...?)<br><br>
+
+            <strong style="color: var(--success);">Đồng ý:</strong><br>
+            • Yes, sure. / Yes, of course. / Certainly.<br>
+            • <strong>Với "Do you mind...?":</strong> No, not at all. / No, of course not.<br><br>
+
+            <strong style="color: var(--danger);">Từ chối:</strong><br>
+            • Well, I'm afraid... (+ lý do)<br>
+            • I'd rather you didn't.<br>
+            • Sorry, but...
+          </div>
+
+          <div style="background: #fff3cd; padding: 0.8rem; margin-top: 1rem; border-radius: 4px;">
+            <strong>Lưu ý quan trọng:</strong> Với câu hỏi "Do you mind if...?" hoặc "Would you mind if...?":<br>
+            • Trả lời <strong>"No"</strong> = Đồng ý (Không, tôi không phiền)<br>
+            • Trả lời <strong>"Yes"</strong> = Từ chối (Có, tôi phiền)
+          </div>
+
+          <h4 style="margin-top: 1rem; color: var(--primary);">2.2. Đề nghị ai đó làm gì:</h4>
+          <div class="theory-panel__example">
+            <strong>Cách đề nghị:</strong><br>
+            • Can you help me...? / Could you...?<br>
+            • Will you help me...? / Would you...?<br>
+            • Do you mind + V-ing? / Would you mind + V-ing?<br><br>
+
+            <strong style="color: var(--success);">Đồng ý:</strong><br>
+            • Yes, sure. / Yes, of course. / Certainly.<br>
+            • <strong>Với "mind":</strong> No, not at all. / Of course not.<br><br>
+
+            <strong style="color: var(--danger);">Từ chối:</strong><br>
+            • Well, I'm afraid... / Sorry, but...
+          </div>
+        </div>
+
+        <!-- Section 3: Suggestions -->
+        <div class="theory-panel__section">
+          <h3 class="theory-panel__heading">3. Lời gợi ý (Suggestions)</h3>
+
+          <div class="theory-panel__example">
+            <strong>Cách gợi ý:</strong><br>
+            • Let's + V (Hãy cùng...)<br>
+            • What about + V-ing? / How about + V-ing? (Thế còn... thì sao?)<br>
+            • Why don't we + V? (Sao chúng ta không...?)<br>
+            • Shall we + V? (Chúng ta... nhé?)<br>
+            • Couldn't we + V? (Chúng ta có thể... không?)<br><br>
+
+            <strong style="color: var(--success);">Đồng ý:</strong><br>
+            • Yes, I'd love to. / Yes, I'd like to.<br>
+            • What a good idea! / Why not?<br>
+            • Yes, that sounds like a great idea.<br>
+            • Yes, let's. / Sounds good to me.<br>
+            • Count me in too. / I'm up for it.<br><br>
+
+            <strong style="color: var(--danger);">Từ chối:</strong><br>
+            • No, let's not. / No, thanks.<br>
+            • Well, I'd rather/prefer...<br>
+            • I don't feel like it.<br>
+            • I don't think that's a good idea.
+          </div>
+
+          <div style="background: #d1ecf1; padding: 0.8rem; margin-top: 1rem; border-radius: 4px;">
+            <strong>Lưu ý:</strong> "Why don't we...?" là câu GỢI Ý, không phải hỏi lý do.<br>
+            Không trả lời "Because..." mà trả lời đồng ý/từ chối.
+          </div>
+        </div>
+
+        <!-- Section 4: Apologies -->
+        <div class="theory-panel__section">
+          <h3 class="theory-panel__heading">4. Lời xin lỗi (Apologies)</h3>
+
+          <div class="theory-panel__example">
+            <strong>Cách xin lỗi:</strong><br>
+            • Sorry, I'm late. / I'm sorry for...<br>
+            • I apologize for...<br><br>
+
+            <strong style="color: var(--success);">Chấp nhận lời xin lỗi:</strong><br>
+            • It doesn't matter. (Không có gì quan trọng đâu)<br>
+            • Don't apologize. (Không cần xin lỗi đâu)<br>
+            • That's all right. / It's alright. / It's okay.<br>
+            • Never mind. (Đừng bận tâm)<br>
+            • No worries. (Đừng lo)<br>
+            • I quite understand. (Tôi hiểu mà)
+          </div>
+        </div>
+
+        <!-- Section 5: Thanks -->
+        <div class="theory-panel__section">
+          <h3 class="theory-panel__heading">5. Lời cảm ơn (Thanks)</h3>
+
+          <div class="theory-panel__example">
+            <strong>Cách cảm ơn:</strong><br>
+            • Thank you for helping me. / Thanks a lot.<br>
+            • It was very kind of you to...<br><br>
+
+            <strong style="color: var(--success);">Đáp lại lời cảm ơn:</strong><br>
+            • That's all right! / You're welcome.<br>
+            • Don't mention it. / Not at all.<br>
+            • It's nothing. / My pleasure.<br>
+            • It's my pleasure. (Đó là niềm vui của tôi)
+          </div>
+        </div>
+
+        <!-- Section 6: Opinions -->
+        <div class="theory-panel__section">
+          <h3 class="theory-panel__heading">6. Đưa ý kiến (Opinions)</h3>
+
+          <div class="theory-panel__example">
+            <strong>Cách đưa ý kiến:</strong><br>
+            • I think... / In my opinion...<br>
+            • Personally, I...<br><br>
+
+            <strong style="color: var(--success);">Đồng ý hoàn toàn:</strong><br>
+            • I completely/absolutely agree with you.<br>
+            • I couldn't agree more. (Tôi không thể đồng ý hơn được nữa)<br>
+            • Exactly. / Absolutely. / Of course.<br>
+            • That's so true. / You're absolutely right.<br>
+            • So do I. / Neither do I. (tùy câu khẳng định/phủ định)<br><br>
+
+            <strong style="color: #ff9800;">Đồng ý một phần:</strong><br>
+            • I agree up to a point, but...<br>
+            • That's true, but... / You could be right.<br>
+            • I see your point, but...<br><br>
+
+            <strong style="color: var(--danger);">Phản đối:</strong><br>
+            • I totally disagree. / I don't think so!<br>
+            • I'm afraid I can't agree with you.<br>
+            • I'm sorry, but I disagree.
+          </div>
+
+          <div style="background: #fff3cd; padding: 0.8rem; margin-top: 1rem; border-radius: 4px;">
+            <strong>Quy tắc So do I / Neither do I:</strong><br>
+            • Câu KHẲNG ĐỊNH: "I love coffee." → "So do I." (Tôi cũng vậy)<br>
+            • Câu PHỦ ĐỊNH: "I don't like tea." → "Neither do I." (Tôi cũng không)
+          </div>
+        </div>
+
+        <!-- Section 7: Other Situations -->
+        <div class="theory-panel__section">
+          <h3 class="theory-panel__heading">7. Một số tình huống khác</h3>
+
+          <div class="theory-panel__example">
+            <table style="width: 100%; border-collapse: collapse; font-size: 0.9rem;">
+              <tr style="background: var(--primary); color: white;">
+                <th style="padding: 0.5rem; border: 1px solid #ddd;">Tình huống</th>
+                <th style="padding: 0.5rem; border: 1px solid #ddd;">Cách đáp lại</th>
+              </tr>
+              <tr>
+                <td style="padding: 0.5rem; border: 1px solid #ddd;"><strong>Gặp lần đầu:</strong><br>Nice to meet you!</td>
+                <td style="padding: 0.5rem; border: 1px solid #ddd;">Nice to meet you, too.<br>How do you do?</td>
+              </tr>
+              <tr style="background: #f5f5f5;">
+                <td style="padding: 0.5rem; border: 1px solid #ddd;"><strong>Hỏi thăm:</strong><br>How are you?</td>
+                <td style="padding: 0.5rem; border: 1px solid #ddd;">I'm fine, thanks. And you?<br>Pretty good. / Can't complain.</td>
+              </tr>
+              <tr>
+                <td style="padding: 0.5rem; border: 1px solid #ddd;"><strong>Lời chúc:</strong><br>Have a nice day!</td>
+                <td style="padding: 0.5rem; border: 1px solid #ddd;">You too!<br>The same to you!</td>
+              </tr>
+              <tr style="background: #f5f5f5;">
+                <td style="padding: 0.5rem; border: 1px solid #ddd;"><strong>Được khen:</strong><br>What a nice dress!</td>
+                <td style="padding: 0.5rem; border: 1px solid #ddd;">Thank you.<br>I'm glad you like it.</td>
+              </tr>
+              <tr>
+                <td style="padding: 0.5rem; border: 1px solid #ddd;"><strong>Tin vui:</strong><br>I've passed my exam!</td>
+                <td style="padding: 0.5rem; border: 1px solid #ddd;">Congratulations!<br>That's great!</td>
+              </tr>
+              <tr style="background: #f5f5f5;">
+                <td style="padding: 0.5rem; border: 1px solid #ddd;"><strong>Trước kỳ thi:</strong><br>I'm taking my exam tomorrow.</td>
+                <td style="padding: 0.5rem; border: 1px solid #ddd;">Good luck!<br>Best of luck!</td>
+              </tr>
+              <tr>
+                <td style="padding: 0.5rem; border: 1px solid #ddd;"><strong>Tin buồn/Thất bại:</strong><br>I failed my test.</td>
+                <td style="padding: 0.5rem; border: 1px solid #ddd;">Never mind. Better luck next time!<br>I'm sorry to hear that.</td>
+              </tr>
+              <tr style="background: #f5f5f5;">
+                <td style="padding: 0.5rem; border: 1px solid #ddd;"><strong>Đưa đồ vật:</strong><br>Could you pass me the salt?</td>
+                <td style="padding: 0.5rem; border: 1px solid #ddd;">Here you are!</td>
+              </tr>
+            </table>
+          </div>
+        </div>
+
+        <!-- Common Mistakes -->
+        <div class="theory-panel__section">
+          <h3 class="theory-panel__heading">Lỗi thường gặp</h3>
+
+          <div class="theory-panel__example">
+            <strong>1. Nhầm "So do I" với "Neither do I":</strong><br>
+            • "I like coffee." → "So do I." (Tôi cũng vậy)<br>
+            • "I don't like coffee." → "Neither do I." (Tôi cũng không)<br><br>
+
+            <strong>2. Nhầm "Do you mind...?" với các câu hỏi thông thường:</strong><br>
+            • "Do you mind if I smoke?" → "No, not at all." (= Đồng ý)<br>
+            • "Can I smoke here?" → "Yes, you can." (= Đồng ý)<br><br>
+
+            <strong>3. Nhầm "Good luck!" với "Congratulations!":</strong><br>
+            • TRƯỚC sự kiện: "Good luck!" (Chúc may mắn!)<br>
+            • SAU thành công: "Congratulations!" (Chúc mừng!)<br><br>
+
+            <strong>4. Đáp lại "Why don't we...?" sai:</strong><br>
+            • "Why don't we go to the beach?" (Gợi ý)<br>
+            • ❌ "Because I like the beach."<br>
+            • ✓ "That's a great idea!" / "Sounds good!"
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Exercise Container -->
+    <div id="exercise-container">
+      <!-- Exercises will be rendered here dynamically -->
+      <div class="card text-center">
+        <h2>Đang tải...</h2>
+        <p>Vui lòng đợi trong khi chúng tôi tải bài tập.</p>
+      </div>
+    </div>
+  </main>
+
+  <!-- Core JavaScript (loaded first) -->
+  <script src="../js/core/utils.js"></script>
+  <script src="../js/core/storage.js"></script>
+  <script src="../js/core/telegram-sender.js"></script>
+  <script src="../js/core/game-engine.js"></script>
+
+  <!-- Exercise Type Handlers -->
+  <script src="../js/exercises/multiple-choice.js"></script>
+
+  <!-- Initialize Game -->
+  <script>
+    const UNIT_ID = 'on-thi-10-speaking';
+    const DATA_PATH = '../data/on-thi-10-speaking.json';
+
+    // Theory panel toggle
+    const theoryToggle = document.getElementById('theory-toggle');
+    const theoryContent = document.getElementById('theory-content');
+    const theoryIcon = document.getElementById('theory-icon');
+
+    theoryToggle.addEventListener('click', () => {
+      const isExpanded = theoryContent.classList.contains('theory-panel__content--expanded');
+
+      if (isExpanded) {
+        theoryContent.classList.remove('theory-panel__content--expanded');
+        theoryIcon.classList.remove('theory-panel__icon--rotated');
+      } else {
+        theoryContent.classList.add('theory-panel__content--expanded');
+        theoryIcon.classList.add('theory-panel__icon--rotated');
+      }
+    });
+
+    // Combo display logic
+    function updateComboDisplay() {
+      const comboDisplay = document.getElementById('combo-display');
+      const comboCount = document.getElementById('combo-count');
+      const state = GameEngine.getState();
+
+      if (state.comboCount >= 3) {
+        comboDisplay.style.display = 'flex';
+        comboCount.textContent = state.comboCount + 'x';
+      } else {
+        comboDisplay.style.display = 'none';
+      }
+    }
+
+    // Override GameEngine.updateUI to include combo display
+    const originalUpdateUI = GameEngine.updateUI.bind(GameEngine);
+    GameEngine.updateUI = function() {
+      originalUpdateUI();
+      updateComboDisplay();
+    };
+
+    // Load unit data and start game
+    async function loadAndStartGame() {
+      try {
+        const response = await fetch(DATA_PATH);
+
+        if (!response.ok) {
+          throw new Error(`Failed to load data: ${response.status}`);
+        }
+
+        const unitData = await response.json();
+
+        console.log('Unit data loaded:', unitData);
+        console.log('Registered exercise handlers:', Object.keys(GameEngine.exerciseHandlers));
+
+        GameEngine.init(unitData, UNIT_ID);
+
+      } catch (error) {
+        console.error('Error loading game data:', error);
+
+        const container = document.getElementById('exercise-container');
+        container.innerHTML = `
+          <div class="card">
+            <h2 style="color: var(--danger);">Lỗi tải bài tập</h2>
+            <p>Xin lỗi, chúng tôi không thể tải dữ liệu bài tập. Vui lòng thử tải lại trang.</p>
+            <p style="font-size: var(--font-size-sm); color: var(--text-light);">Lỗi: ${error.message}</p>
+            <button class="btn btn--primary mt-2" onclick="location.reload()">Tải lại trang</button>
+          </div>
+        `;
+      }
+    }
+
+    // Start game when page loads
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', loadAndStartGame);
+    } else {
+      loadAndStartGame();
+    }
+  </script>
+</body>
+</html>

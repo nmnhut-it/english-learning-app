@@ -1,0 +1,402 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Grade 8 Review 1 - Additional Exercises | English Grammar Games</title>
+  <meta name="description" content="100 timed grammar exercises - 30 seconds per question">
+
+  <!-- Shared Styles -->
+  <link rel="stylesheet" href="../css/shared.css">
+
+  <style>
+    .timer-display {
+      display: flex;
+      align-items: center;
+      gap: var(--spacing-sm);
+      padding: var(--spacing-md);
+      background: var(--bg-white);
+      border-radius: var(--radius-md);
+      margin-bottom: var(--spacing-md);
+      border: 2px solid var(--border-color);
+    }
+
+    .timer-display__label {
+      font-size: var(--font-size-md);
+      font-weight: 600;
+      color: var(--text-dark);
+    }
+
+    .timer-display__value {
+      font-size: var(--font-size-xxl);
+      font-weight: 700;
+      color: var(--primary);
+      min-width: 60px;
+      text-align: center;
+    }
+
+    .timer-display__value--warning {
+      color: var(--warning);
+      animation: pulse 1s ease-in-out infinite;
+    }
+
+    .timer-display__value--danger {
+      color: var(--danger);
+      animation: pulse 0.5s ease-in-out infinite;
+    }
+
+    .timer-display__bar {
+      flex: 1;
+      height: 20px;
+      background: var(--bg-light);
+      border-radius: var(--radius-md);
+      overflow: hidden;
+      position: relative;
+    }
+
+    .timer-display__fill {
+      height: 100%;
+      background: linear-gradient(90deg, var(--primary), var(--info));
+      transition: width 1s linear, background 0.3s;
+      border-radius: var(--radius-md);
+    }
+
+    .timer-display__fill--warning {
+      background: linear-gradient(90deg, var(--warning), #ff9800);
+    }
+
+    .timer-display__fill--danger {
+      background: linear-gradient(90deg, var(--danger), #d32f2f);
+    }
+
+    @keyframes pulse {
+      0%, 100% { opacity: 1; transform: scale(1); }
+      50% { opacity: 0.7; transform: scale(1.1); }
+    }
+
+    .timeout-overlay {
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: rgba(244, 67, 54, 0.95);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      z-index: 9999;
+      animation: fadeIn 0.3s;
+    }
+
+    .timeout-overlay__content {
+      text-align: center;
+      color: white;
+      font-size: 3rem;
+      font-weight: 700;
+      animation: scaleIn 0.5s ease-out;
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; }
+      to { opacity: 1; }
+    }
+
+    @keyframes scaleIn {
+      from { transform: scale(0.5); opacity: 0; }
+      to { transform: scale(1); opacity: 1; }
+    }
+  </style>
+</head>
+<body>
+  <!-- Game Header -->
+  <header class="game-header">
+    <div class="container">
+      <div class="game-header__container">
+        <div class="game-header__info-section">
+          <h1 class="game-header__title">Grade 8 Review 1 - Additional Exercises</h1>
+          <p class="game-header__subtitle">100 Questions - 30 Seconds Each ⏱️</p>
+          <div class="game-info">
+            <div class="game-info__item">
+              <span class="game-info__label">Giáo viên:</span>
+              <span class="game-info__value">Nguyễn Minh Nhựt</span>
+            </div>
+            <div class="game-info__item">
+              <span class="game-info__label">Học sinh:</span>
+              <span class="game-info__value">Lớp 8</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="game-header__stats">
+          <div class="stat">
+            <span class="stat__label">Điểm</span>
+            <span class="stat__value stat__value--primary" id="current-score">⭐ 0</span>
+          </div>
+
+          <div class="stat">
+            <span class="stat__label">Tiến độ</span>
+            <span class="stat__value" id="progress-count">0 / 100</span>
+          </div>
+
+          <div class="stat" id="combo-display" style="display: none;">
+            <span class="stat__label">Combo</span>
+            <span class="stat__value" id="combo-count">0</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Progress Bar -->
+      <div class="progress">
+        <div class="progress__bar" id="progress-bar" style="width: 0%;"></div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Content -->
+  <main class="container">
+    <!-- Timer Display -->
+    <div class="timer-display" id="timer-display">
+      <div class="timer-display__label">⏱️ Time:</div>
+      <div class="timer-display__value" id="timer-value">30</div>
+      <div class="timer-display__bar">
+        <div class="timer-display__fill" id="timer-fill" style="width: 100%;"></div>
+      </div>
+    </div>
+
+    <!-- Theory Panel (Collapsible) -->
+    <div class="theory-panel" id="theory-panel">
+      <button class="theory-panel__toggle" id="theory-toggle">
+        <span>📖 Tài liệu ngữ pháp</span>
+        <span class="theory-panel__icon" id="theory-icon">▼</span>
+      </button>
+
+      <div class="theory-panel__content" id="theory-content">
+        <div class="theory-panel__section">
+          <h3 class="theory-panel__heading">Verbs of Liking/Disliking + V-ing</h3>
+          <p><strong>Cấu trúc:</strong> Verb + V-ing (gerund)</p>
+          <div class="theory-panel__example">
+            <strong>Verbs:</strong><br>
+            • <strong>Liking:</strong> love, like, enjoy, prefer + V-ing<br>
+            • <strong>Disliking:</strong> hate, dislike, detest, can't stand + V-ing<br>
+            • <strong>Phrases:</strong> be interested in, be keen on, be fond of, be crazy about, be into + V-ing
+          </div>
+        </div>
+
+        <div class="theory-panel__section">
+          <h3 class="theory-panel__heading">Comparative Adverbs</h3>
+          <p><strong>Quy tắc:</strong></p>
+          <ul>
+            <li><strong>Trạng từ ngắn:</strong> adverb + <strong>-er</strong> + than (fast → faster than)</li>
+            <li><strong>Trạng từ dài:</strong> <strong>more/less</strong> + adverb + than (carefully → more carefully than)</li>
+            <li><strong>So sánh bằng:</strong> as + adverb + as</li>
+          </ul>
+        </div>
+
+        <div class="theory-panel__section">
+          <h3 class="theory-panel__heading">Compound & Complex Sentences</h3>
+          <p><strong>Liên từ đẳng lập:</strong> and, but, or, so, yet</p>
+          <p><strong>Liên từ phụ thuộc:</strong> although, because, when, if, whereas</p>
+          <p><strong>Liên từ nối:</strong> however, therefore, otherwise (dùng với dấu chấm phẩy hoặc dấu chấm)</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Exercise Container -->
+    <div id="exercise-container">
+      <div class="card text-center">
+        <h2>Loading...</h2>
+        <p>Please wait while we load the exercises.</p>
+      </div>
+    </div>
+  </main>
+
+  <!-- Core JavaScript -->
+  <script src="../js/core/utils.js"></script>
+  <script src="../js/core/storage.js"></script>
+  <script src="../js/core/telegram-sender.js"></script>
+  <script src="../js/core/game-engine.js"></script>
+
+  <!-- Exercise Type Handlers -->
+  <script src="../js/exercises/sentence-rewrite.js"></script>
+  <script src="../js/exercises/sentence-build.js"></script>
+  <script src="../js/exercises/word-rearrange.js"></script>
+
+  <!-- Initialize Game with Timer -->
+  <script>
+    const UNIT_ID = 'g8-review-1-additional-exercise';
+    const DATA_PATH = '../data/g8-review-1-additional-exercise.json';
+    const TIME_LIMIT_PER_QUESTION = 30;
+
+    let timerInterval = null;
+    let remainingTime = TIME_LIMIT_PER_QUESTION;
+
+    // Theory panel toggle
+    const theoryToggle = document.getElementById('theory-toggle');
+    const theoryContent = document.getElementById('theory-content');
+    const theoryIcon = document.getElementById('theory-icon');
+
+    theoryToggle.addEventListener('click', () => {
+      const isExpanded = theoryContent.classList.contains('theory-panel__content--expanded');
+
+      if (isExpanded) {
+        theoryContent.classList.remove('theory-panel__content--expanded');
+        theoryIcon.classList.remove('theory-panel__icon--rotated');
+      } else {
+        theoryContent.classList.add('theory-panel__content--expanded');
+        theoryIcon.classList.add('theory-panel__icon--rotated');
+      }
+    });
+
+    // Timer functions
+    function startTimer() {
+      stopTimer();
+      remainingTime = TIME_LIMIT_PER_QUESTION;
+      updateTimerDisplay();
+
+      timerInterval = setInterval(() => {
+        remainingTime--;
+        updateTimerDisplay();
+
+        if (remainingTime <= 0) {
+          handleTimeout();
+        }
+      }, 1000);
+    }
+
+    function stopTimer() {
+      if (timerInterval) {
+        clearInterval(timerInterval);
+        timerInterval = null;
+      }
+    }
+
+    function updateTimerDisplay() {
+      const timerValue = document.getElementById('timer-value');
+      const timerFill = document.getElementById('timer-fill');
+
+      timerValue.textContent = remainingTime;
+
+      const percentage = (remainingTime / TIME_LIMIT_PER_QUESTION) * 100;
+      timerFill.style.width = `${percentage}%`;
+
+      // Remove all classes first
+      timerValue.classList.remove('timer-display__value--warning', 'timer-display__value--danger');
+      timerFill.classList.remove('timer-display__fill--warning', 'timer-display__fill--danger');
+
+      // Add appropriate class based on time remaining
+      if (remainingTime <= 5) {
+        timerValue.classList.add('timer-display__value--danger');
+        timerFill.classList.add('timer-display__fill--danger');
+      } else if (remainingTime <= 10) {
+        timerValue.classList.add('timer-display__value--warning');
+        timerFill.classList.add('timer-display__fill--warning');
+      }
+    }
+
+    function handleTimeout() {
+      stopTimer();
+
+      // Show timeout overlay
+      const overlay = document.createElement('div');
+      overlay.className = 'timeout-overlay';
+      overlay.innerHTML = '<div class="timeout-overlay__content">⏰ TIME\'S UP!</div>';
+      document.body.appendChild(overlay);
+
+      // Auto-submit with empty answer
+      setTimeout(() => {
+        overlay.remove();
+        const exercise = GameEngine.getCurrentExercise();
+        if (exercise) {
+          GameEngine.handleAnswer('', exercise);
+        }
+      }, 1500);
+
+      Utils.playSound('wrong');
+    }
+
+    // Combo display logic
+    function updateComboDisplay() {
+      const comboDisplay = document.getElementById('combo-display');
+      const comboCount = document.getElementById('combo-count');
+      const state = GameEngine.getState();
+
+      if (state.comboCount >= 3) {
+        comboDisplay.style.display = 'flex';
+        comboCount.textContent = state.comboCount + 'x 🔥';
+      } else {
+        comboDisplay.style.display = 'none';
+      }
+    }
+
+    // Override GameEngine methods to add timer functionality
+    const originalRenderExercise = GameEngine.renderCurrentExercise.bind(GameEngine);
+    GameEngine.renderCurrentExercise = function() {
+      originalRenderExercise();
+      startTimer();
+    };
+
+    const originalHandleAnswer = GameEngine.handleAnswer.bind(GameEngine);
+    GameEngine.handleAnswer = function(userAnswer, exercise) {
+      stopTimer();
+      originalHandleAnswer(userAnswer, exercise);
+    };
+
+    const originalNextExercise = GameEngine.nextExercise.bind(GameEngine);
+    GameEngine.nextExercise = function() {
+      originalNextExercise();
+      startTimer();
+    };
+
+    const originalUpdateUI = GameEngine.updateUI.bind(GameEngine);
+    GameEngine.updateUI = function() {
+      originalUpdateUI();
+      updateComboDisplay();
+    };
+
+    const originalCompleteGame = GameEngine.completeGame.bind(GameEngine);
+    GameEngine.completeGame = function() {
+      stopTimer();
+      originalCompleteGame();
+    };
+
+    // Load unit data and start game
+    async function loadAndStartGame() {
+      try {
+        const response = await fetch(DATA_PATH);
+
+        if (!response.ok) {
+          throw new Error(`Failed to load data: ${response.status}`);
+        }
+
+        const unitData = await response.json();
+
+        console.log('Unit data loaded:', unitData);
+        console.log('Total questions:', unitData.exercises.length);
+        console.log('Registered exercise handlers:', Object.keys(GameEngine.exerciseHandlers));
+
+        GameEngine.init(unitData, UNIT_ID);
+
+      } catch (error) {
+        console.error('Error loading game data:', error);
+
+        const container = document.getElementById('exercise-container');
+        container.innerHTML = `
+          <div class="card">
+            <h2 style="color: var(--danger);">Error Loading Game</h2>
+            <p>Sorry, we couldn't load the exercise data. Please try refreshing the page.</p>
+            <p style="font-size: var(--font-size-sm); color: var(--text-light);">Error: ${error.message}</p>
+            <button class="btn btn--primary mt-2" onclick="location.reload()">Reload Page</button>
+          </div>
+        `;
+      }
+    }
+
+    // Start game when page loads
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', loadAndStartGame);
+    } else {
+      loadAndStartGame();
+    }
+  </script>
+</body>
+</html>

@@ -1,0 +1,643 @@
+{
+  "unitId": "on-thi-10-doc-hieu",
+  "title": "Ôn Thi Vào Lớp 10 - Đọc Hiểu",
+  "subtitle": "Bài tập đọc hiểu tiếng Anh tuyển sinh lớp 10",
+  "grammarTopics": [
+    "Reading Comprehension",
+    "Vocabulary in Context",
+    "Main Idea",
+    "Detail Questions",
+    "Reference Questions"
+  ],
+  "exercises": [
+    {
+      "type": "reading-comprehension",
+      "id": "de-01",
+      "title": "ĐỀ 01: Exams and Students",
+      "passage": "To do well at school, college or university you usually need to do well in exams. \"All students hate exams\" may be a generalization, but it is fairly true one. Certainly, all of the students I've known disliked doing exams. None of them thought that the exam system was fair; to do well in an exam you simply had to be able to predict the questions which would be asked. This was the case as regards two students in my class at college. Both of them were exceptionally bright, but in the final year \"exam\" neither of them got an A grade. In fact, they both got Cs. The exam had tested us on questions which had come up the previous year. They had both assumed that the same questions wouldn't come up again, and hadn't prepared for them.",
+      "questions": [
+        {
+          "question": "Students need to do well in exams __________.",
+          "options": [
+            "In order to do well at school.",
+            "Because they need to do well at school.",
+            "So that to do well at school.",
+            "Therefore they have to do well at school."
+          ],
+          "correctIndex": 0,
+          "explanation": "Đáp án A đúng vì 'in order to' diễn tả mục đích. Câu đầu bài: 'To do well at school... you usually need to do well in exams' - Để học giỏi ở trường... bạn cần phải làm tốt bài thi."
+        },
+        {
+          "question": "The statement \"All students hate exams\" is _________.",
+          "options": [
+            "extremely true",
+            "completely true",
+            "quite true",
+            "very true"
+          ],
+          "correctIndex": 2,
+          "explanation": "Đáp án C đúng. Bài viết nói 'it is fairly true one' - 'fairly' nghĩa là 'khá, tương đối', tương đương với 'quite' (khá đúng)."
+        },
+        {
+          "question": "Which of the following sentences is NOT true?",
+          "options": [
+            "All of the students the writer has known thought that the exam system was unfair.",
+            "To do well in an exam you simply had the ability to predict the questions which would be asked.",
+            "None of the students the writer has known disliked doing exams.",
+            "\"All students hate exams\" is fairly true generalization."
+          ],
+          "correctIndex": 2,
+          "explanation": "Đáp án C KHÔNG ĐÚNG với bài đọc. Bài viết nói 'all of the students I've known disliked doing exams' (tất cả học sinh tôi biết KHÔNG THÍCH làm bài thi), nên C sai vì nó nói ngược lại."
+        },
+        {
+          "question": "Why did the two students in the writer's class get C grades in the final exam?",
+          "options": [
+            "Because the exam was very difficult.",
+            "Because they didn't prepare for the questions that had come up the previous year.",
+            "Because they were dull students.",
+            "Because the questions weren't in their lesson."
+          ],
+          "correctIndex": 1,
+          "explanation": "Đáp án B đúng. Bài viết nói: 'They had both assumed that the same questions wouldn't come up again, and hadn't prepared for them' - Họ đều cho rằng các câu hỏi giống nhau sẽ không xuất hiện lại, và đã không chuẩn bị cho chúng."
+        },
+        {
+          "question": "The writer's main purpose of writing the passage is to _________________________.",
+          "options": [
+            "describe the importance of exams.",
+            "discuss how exams effect on the students.",
+            "explain the equality in examinations.",
+            "criticize the exam system."
+          ],
+          "correctIndex": 3,
+          "explanation": "Đáp án D đúng. Mục đích chính của tác giả là PHÊ PHÁN hệ thống thi cử. Bằng chứng: 'None of them thought that the exam system was fair' và ví dụ về 2 học sinh giỏi nhưng chỉ được điểm C."
+        }
+      ],
+      "points": 50
+    },
+    {
+      "type": "reading-comprehension",
+      "id": "de-02",
+      "title": "ĐỀ 02: Learning English",
+      "passage": "Every year people in many countries learn English. Some of them are young children. Others are teenagers. Many are adults. Some learn at school. Others study by themselves. A few learn English just by hearing the language in film, on television, in the office or among their friends. Most people must work hard to learn English.\n\nWhy do these all people learn English? It is not difficult to answer this question.\n\nMany boys and girls learn English at school because it is one of their subjects. Many adults learn English because it is useful for their work. Teenagers often learn English for their higher studies because some of their books are in English at the college or university. Other people learn English because they want to read newspapers or magazines in English.",
+      "questions": [
+        {
+          "question": "According to the writer, English is learned by _____________.",
+          "options": [
+            "young children",
+            "adults",
+            "teenagers",
+            "all are correct"
+          ],
+          "correctIndex": 3,
+          "explanation": "Đáp án D đúng. Đoạn đầu liệt kê: 'Some of them are young children. Others are teenagers. Many are adults.' - tất cả các đối tượng đều được đề cập."
+        },
+        {
+          "question": "Most people learn English by ____________.",
+          "options": [
+            "themselves",
+            "hearing the language on television",
+            "working hard on the lesson",
+            "speaking English to their friends"
+          ],
+          "correctIndex": 2,
+          "explanation": "Đáp án C đúng. Bài viết nói: 'Most people must work hard to learn English' - Hầu hết mọi người phải học tập chăm chỉ để học tiếng Anh."
+        },
+        {
+          "question": "Where do many boys and girls learn English?",
+          "options": [
+            "at home",
+            "in the office",
+            "in evening class",
+            "at school"
+          ],
+          "correctIndex": 3,
+          "explanation": "Đáp án D đúng. Bài viết nói: 'Many boys and girls learn English at school because it is one of their subjects.'"
+        },
+        {
+          "question": "Teenagers learn English because ___________.",
+          "options": [
+            "It's useful for their higher studies",
+            "It's one of their subjects.",
+            "They want to master it.",
+            "a and c are correct."
+          ],
+          "correctIndex": 0,
+          "explanation": "Đáp án A đúng. Bài viết nói: 'Teenagers often learn English for their higher studies because some of their books are in English at the college or university.'"
+        },
+        {
+          "question": "Why do many adults learn English?",
+          "options": [
+            "Because they want to see movies in English.",
+            "Because they need it for their job.",
+            "Because they are forced to learn.",
+            "Because it's not difficult to learn."
+          ],
+          "correctIndex": 1,
+          "explanation": "Đáp án B đúng. Bài viết nói: 'Many adults learn English because it is useful for their work' - Nhiều người lớn học tiếng Anh vì nó hữu ích cho công việc của họ."
+        }
+      ],
+      "points": 50
+    },
+    {
+      "type": "reading-comprehension",
+      "id": "de-03",
+      "title": "ĐỀ 03: Environmental Pollution",
+      "passage": "More than two hundred years ago, the term \"environmental pollution\" was quite strange to people. They lived healthy, drank pure water, and breathed fresh air. Nowadays, the situation is quite different. People all over the world are worried about things that are happening to the environment. Actually it is man that is destroying the surroundings with many kinds of wastes. Everybody knows that motorbikes and cars emit dangerous gases that cause poisonous air and cancer, but no one wants to travel on foot or by bicycle. Manufacturers know that wastes from factories make water and soil polluted, but they do not want to spend a lot of their money on treating the wastes safely. Scattering rubbish is bad for our health, but no one wants to spend time burying it. Is it worth talking a lot about pollution?",
+      "questions": [
+        {
+          "question": "More than two hundred years ago _____________.",
+          "options": [
+            "the environment was polluted as much as it is today.",
+            "people knew nothing about environmental pollution.",
+            "air was polluted badly",
+            "people was faced with pollution."
+          ],
+          "correctIndex": 1,
+          "explanation": "Đáp án B đúng. Bài viết nói: 'More than two hundred years ago, the term \"environmental pollution\" was quite strange to people' - thuật ngữ 'ô nhiễm môi trường' khá xa lạ với mọi người, nghĩa là họ không biết gì về nó."
+        },
+        {
+          "question": "In former days, people ____________.",
+          "options": [
+            "led a healthy life",
+            "lived in the polluted environment",
+            "were worried about pollution",
+            "drank contaminated water"
+          ],
+          "correctIndex": 0,
+          "explanation": "Đáp án A đúng. Bài viết nói: 'They lived healthy, drank pure water, and breathed fresh air' - Họ sống khỏe mạnh, uống nước sạch, và hít thở không khí trong lành."
+        },
+        {
+          "question": "Nowadays, many people are concerned about ___________.",
+          "options": [
+            "the destruction of the poisonous air.",
+            "the polluted water",
+            "the wastes from the factories.",
+            "the pollution of the environment."
+          ],
+          "correctIndex": 3,
+          "explanation": "Đáp án D đúng. Bài viết nói: 'People all over the world are worried about things that are happening to the environment' - lo lắng về những gì đang xảy ra với MÔI TRƯỜNG (không chỉ nước hay khí thải)."
+        },
+        {
+          "question": "Everybody knows that cars emit dangerous gases ______________.",
+          "options": [
+            "so they do not travel by car",
+            "so they prefer travelling by bicycle",
+            "but they still prefer traveling by car",
+            "and they enjoy traveling on foot."
+          ],
+          "correctIndex": 2,
+          "explanation": "Đáp án C đúng. Bài viết nói: 'Everybody knows... but no one wants to travel on foot or by bicycle' - mọi người đều biết nhưng không ai muốn đi bộ hay đi xe đạp, nghĩa là họ VẪN thích đi ô tô."
+        },
+        {
+          "question": "Factory owners _____________.",
+          "options": [
+            "know nothing about pollution",
+            "have no awareness of pollution",
+            "treat wastes from their factories safely",
+            "do not want to spend money on treating the wastes safely"
+          ],
+          "correctIndex": 3,
+          "explanation": "Đáp án D đúng. Bài viết nói: 'Manufacturers know... but they do not want to spend a lot of their money on treating the wastes safely.'"
+        },
+        {
+          "question": "It's harmful for our health _______________.",
+          "options": [
+            "if rubbish is spread over our area",
+            "If we don't scatter our rubbish",
+            "if we spend time on gathering rubbish",
+            "if rubbish is buried"
+          ],
+          "correctIndex": 0,
+          "explanation": "Đáp án A đúng. Bài viết nói: 'Scattering rubbish is bad for our health' - Vứt rác bừa bãi (scatter = spread) có hại cho sức khỏe. Ngược lại, chôn rác (bury) là tốt."
+        }
+      ],
+      "points": 60
+    },
+    {
+      "type": "reading-comprehension",
+      "id": "de-04",
+      "title": "ĐỀ 04: The Internet",
+      "passage": "It is estimated that about 200 million people who use the Internet computer network around the world. The Internet allows people to work at home instead of traveling to work. The Internet allows businesses to communicate with customers and workers in many parts of the world for the cost of a local telephone call. E-mail allows users to send documents, pictures and other data from one part of the world to another in at least 5 minutes. People can use the Internet to do shopping. This saves a lot of time. It is possible to use the Internet for education – students may connect with their teachers from home to send or receive e-mail or talk their problems through \"online\" rather than attend a class.",
+      "questions": [
+        {
+          "question": "The Internet allows people ______________.",
+          "options": [
+            "to stay at home and rest",
+            "not to work",
+            "to travel to work",
+            "to work at home"
+          ],
+          "correctIndex": 3,
+          "explanation": "Đáp án D đúng. Bài viết nói: 'The Internet allows people to work at home instead of traveling to work' - Internet cho phép mọi người làm việc tại nhà."
+        },
+        {
+          "question": "To a business, the Internet is ____________ to communicate with customers.",
+          "options": [
+            "a cheap way",
+            "a very expensive way",
+            "an inconvenient way",
+            "a difficult way"
+          ],
+          "correctIndex": 0,
+          "explanation": "Đáp án A đúng. Bài viết nói: 'The Internet allows businesses to communicate... for the cost of a local telephone call' - với chi phí của một cuộc gọi điện thoại nội hạt (rẻ)."
+        },
+        {
+          "question": "E-mail can be used to send ________________.",
+          "options": [
+            "documents",
+            "information",
+            "data",
+            "all are correct"
+          ],
+          "correctIndex": 3,
+          "explanation": "Đáp án D đúng. Bài viết nói: 'E-mail allows users to send documents, pictures and other data' - tài liệu, hình ảnh và dữ liệu khác (bao gồm thông tin)."
+        },
+        {
+          "question": "It takes _______________ to do the shopping on the Internet.",
+          "options": [
+            "a lot of time",
+            "a little time",
+            "less time",
+            "more time"
+          ],
+          "correctIndex": 2,
+          "explanation": "Đáp án C đúng. Bài viết nói: 'People can use the Internet to do shopping. This saves a lot of time' - Tiết kiệm nhiều thời gian = mất ÍT thời gian hơn (less time)."
+        },
+        {
+          "question": "To use the Internet for education is ________________.",
+          "options": [
+            "impossible",
+            "possible",
+            "inconvenient",
+            "difficult"
+          ],
+          "correctIndex": 1,
+          "explanation": "Đáp án B đúng. Bài viết nói: 'It is possible to use the Internet for education' - Có thể sử dụng Internet cho giáo dục."
+        }
+      ],
+      "points": 50
+    },
+    {
+      "type": "reading-comprehension",
+      "id": "de-05",
+      "title": "ĐỀ 05: Alternative Energy Resources",
+      "passage": "The search for alternative resources of energy has resulted in different directions. Many communities are burning garbage and other biological waste products to produce electricity.\n\nExperimental work is being done to make synthetic fuels from coal, or coal tars. But to date, that process has proved expensive. Some experts are trying to revive hydroelectric power which is derived from streams and rivers. Fifty years ago, hydroelectric power provided one third of the electricity used in the United States, but today it supplies only four percent. The oceans are another source of energy. Scientists are studying ways to change the energy of ocean currents, tides, and waves into electricity.",
+      "questions": [
+        {
+          "question": "What are many communities doing to produce electricity?",
+          "options": [
+            "burning garbage and other biological waste products.",
+            "changing waste products into power",
+            "searching for alternative resources"
+          ],
+          "correctIndex": 0,
+          "explanation": "Đáp án A đúng. Bài viết nói: 'Many communities are burning garbage and other biological waste products to produce electricity.'"
+        },
+        {
+          "question": "Has the process of making synthetic fuels proved cheap or expensive?",
+          "options": [
+            "It has proved cheap",
+            "It has proved expensive",
+            "It has not proved expensive"
+          ],
+          "correctIndex": 1,
+          "explanation": "Đáp án B đúng. Bài viết nói: 'But to date, that process has proved expensive' - quá trình đó đã được chứng minh là tốn kém."
+        },
+        {
+          "question": "Where is hydroelectric power derived from?",
+          "options": [
+            "rivers and ocean",
+            "lakes and streams",
+            "rivers and streams."
+          ],
+          "correctIndex": 2,
+          "explanation": "Đáp án C đúng. Bài viết nói: 'hydroelectric power which is derived from streams and rivers' - có nguồn gốc từ suối và sông."
+        },
+        {
+          "question": "What percentage of the electricity used in the United States does hydroelectric power provide today?",
+          "options": [
+            "33%",
+            "35%",
+            "4%"
+          ],
+          "correctIndex": 2,
+          "explanation": "Đáp án C đúng. Bài viết nói: 'today it supplies only four percent' - ngày nay nó chỉ cung cấp 4%."
+        },
+        {
+          "question": "What are scientists studying?",
+          "options": [
+            "ways to have electricity from the energy of ocean.",
+            "ways to change the energy of ocean currents, tides, and waves into electricity.",
+            "a and b are correct."
+          ],
+          "correctIndex": 1,
+          "explanation": "Đáp án B đúng và chi tiết hơn. Bài viết nói: 'Scientists are studying ways to change the energy of ocean currents, tides, and waves into electricity.'"
+        }
+      ],
+      "points": 50
+    },
+    {
+      "type": "reading-comprehension",
+      "id": "de-06",
+      "title": "ĐỀ 06: Purpose of Education",
+      "passage": "Education is not an end, but a means to an end. In other words, we do not educate children only for the purpose of educating them; our purpose is to fit them for life. So it is very important to choose a suitable system of education which will really prepare children for life.\n\nWhen we say that all of us must be educated to fit us for life, it means that we must be educated in such a way that, firstly, each of us can do whatever job is suited to his brain and ability, and, secondly, that we can realize that all jobs are necessary to society, and that it is very bad to be ashamed of one's work, or to scorn someone else's. Only such a type of education can be called valuable to society.",
+      "questions": [
+        {
+          "question": "Education is a means _____________.",
+          "options": [
+            "to reach one's goals",
+            "to earn lots of money",
+            "to make up one's personality"
+          ],
+          "correctIndex": 0,
+          "explanation": "Đáp án A gần nhất với ý bài. 'Education is not an end, but a means to an end' - Giáo dục là phương tiện để đạt mục đích (fit them for life = chuẩn bị cho cuộc sống = đạt mục tiêu cuộc sống)."
+        },
+        {
+          "question": "According to the writer, the purpose of education is ___________.",
+          "options": [
+            "simply to provide knowledge for children.",
+            "to fit children for life",
+            "to prepare anything which is suitable for children"
+          ],
+          "correctIndex": 1,
+          "explanation": "Đáp án B đúng. Bài viết nói: 'our purpose is to fit them for life' - mục đích của chúng ta là chuẩn bị cho trẻ em vào đời."
+        },
+        {
+          "question": "Each of us must be educated to do ______________.",
+          "options": [
+            "whatever job that is well-paid",
+            "whatever job that is suitable",
+            "whatever job that is professional"
+          ],
+          "correctIndex": 1,
+          "explanation": "Đáp án B đúng. Bài viết nói: 'each of us can do whatever job is suited to his brain and ability' - công việc phù hợp với khả năng của mình."
+        },
+        {
+          "question": "All jobs are necessary ________________.",
+          "options": [
+            "to the employees",
+            "to us",
+            "to society"
+          ],
+          "correctIndex": 2,
+          "explanation": "Đáp án C đúng. Bài viết nói: 'all jobs are necessary to society' - tất cả các công việc đều cần thiết cho xã hội."
+        },
+        {
+          "question": "It is very bad ______________.",
+          "options": [
+            "to look down on someone else's work",
+            "to feel ashamed of someone else's work",
+            "to think one's work as a means to earn money"
+          ],
+          "correctIndex": 0,
+          "explanation": "Đáp án A đúng. Bài viết nói: 'it is very bad to be ashamed of one's work, or to scorn someone else's' - khinh thường công việc của người khác (scorn = look down on)."
+        },
+        {
+          "question": "Only a type of education ____________ can be called valuable to society.",
+          "options": [
+            "that helps people to get good jobs",
+            "that trains people to do whatever they want",
+            "that fits people for life"
+          ],
+          "correctIndex": 2,
+          "explanation": "Đáp án C đúng. Bài viết nhấn mạnh: giáo dục giá trị là giáo dục chuẩn bị con người cho cuộc sống (fit for life), nhận ra mọi công việc đều quan trọng."
+        }
+      ],
+      "points": 60
+    },
+    {
+      "type": "reading-comprehension",
+      "id": "de-07",
+      "title": "ĐỀ 07: New York - The Big Apple",
+      "passage": "New York is called \"the Big Apple\". Maybe it is not exactly like an apple, it's certainly very big. There are too many people, that's the problem. The streets are always full of cars and trucks; you can never find a place to park.\n\nTravelling around is never easy in the city. If you have enough money, you can take a taxi. New York cabs are yellow. They look all the same. But the drivers are very different. Some were born and raised in New York, but many are newcomers to the United States.\n\nA few drive slowly, but most go very fast. Cab driving is a difficult job. It can be dangerous, too. Thieves often try to steal the drivers' money. Drivers sometimes get hurt.\n\nIf you don't want to take a taxi, you can go by bus or you can take the subway. The subway is quick and it's cheap, but some of its parts are old and dirty. Lights don't always work and there are often fires on the track. On some subway lines, there are new, clean and silver trains. But you can't see the color of the old trains easily. There is too much dirt and too much graffiti, inside and outside.",
+      "questions": [
+        {
+          "question": "What is the problem in New York?",
+          "options": [
+            "It looked like an apple",
+            "It has too many apples.",
+            "It is too long",
+            "It is too crowded."
+          ],
+          "correctIndex": 3,
+          "explanation": "Đáp án D đúng. Bài viết nói: 'There are too many people, that's the problem' - có quá nhiều người = quá đông đúc (crowded)."
+        },
+        {
+          "question": "What does \"a cab\" mean?",
+          "options": [
+            "truck",
+            "a plane",
+            "a taxi",
+            "a bus"
+          ],
+          "correctIndex": 2,
+          "explanation": "Đáp án C đúng. Bài viết nói: 'If you have enough money, you can take a taxi. New York cabs are yellow' - cabs = taxis."
+        },
+        {
+          "question": "Cab drivers in New York _____.",
+          "options": [
+            "can be dangerous",
+            "look the same",
+            "can be attacked by thieves",
+            "were all born in New York"
+          ],
+          "correctIndex": 2,
+          "explanation": "Đáp án C đúng. Bài viết nói: 'Thieves often try to steal the drivers' money. Drivers sometimes get hurt' - tài xế có thể bị tấn công bởi trộm cướp."
+        },
+        {
+          "question": "The word \"subway\" can be replaced by ____.",
+          "options": [
+            "platform",
+            "light bulb",
+            "underground",
+            "station"
+          ],
+          "correctIndex": 2,
+          "explanation": "Đáp án C đúng. 'Subway' (Mỹ) = 'Underground' (Anh) = tàu điện ngầm."
+        },
+        {
+          "question": "Subways in New York ________.",
+          "options": [
+            "have no lights",
+            "are closed",
+            "are quick but dirty",
+            "often cause fire"
+          ],
+          "correctIndex": 2,
+          "explanation": "Đáp án C đúng. Bài viết nói: 'The subway is quick and it's cheap, but some of its parts are old and dirty' - nhanh nhưng bẩn."
+        }
+      ],
+      "points": 50
+    },
+    {
+      "type": "reading-comprehension",
+      "id": "de-09",
+      "title": "ĐỀ 09: London Killer Fog",
+      "passage": "I often hear or read about \"natural disasters\" – the eruption of Mount St. Helen, a volcano in the state of Washington; Hurricane Andrew in Florida; the floods in the American Midwest; terrible earthquakes all over the world; huge fires; and so on. But I'll never forget my first personal experience with the strangeness of nature – \"the London Killer Fog\" of 1952. It began on Thursday, December 4th when a high-pressure system (warm air) covered southern England. With the freezing-cold air below, heavy fog formed. Pollution from factories, cars, and coal stoves mixed with the fog. The humidity was terribly high, there was no breeze at all. Traffic (cars, trains, and boats) stopped. People couldn't see, and some walked onto the railroad tracks or into the river. It was hard to breathe, and many people got sick. Finally on Tuesday, December 9th, the wind came and the fog went away. But after that, even more people got sick, many of them died.",
+      "questions": [
+        {
+          "question": "Which natural disaster isn't mentioned in the text?",
+          "options": [
+            "a volcanic eruption",
+            "a flood",
+            "a hurricane",
+            "a tornado"
+          ],
+          "correctIndex": 3,
+          "explanation": "Đáp án D đúng. Bài viết đề cập: eruption (phun trào núi lửa), Hurricane (bão), floods (lũ lụt), earthquakes (động đất), fires (cháy). KHÔNG đề cập tornado (lốc xoáy)."
+        },
+        {
+          "question": "What is his unforgettable personal experience?",
+          "options": [
+            "the London killer",
+            "the heavy fog in London",
+            "the strangeness of nature",
+            "a high-pressure system"
+          ],
+          "correctIndex": 1,
+          "explanation": "Đáp án B đúng. Bài viết nói: 'I'll never forget my first personal experience... the London Killer Fog of 1952' - trận sương mù dày đặc ở London."
+        },
+        {
+          "question": "What didn't happen during the time of the \"London Killer Fog\"?",
+          "options": [
+            "pollution",
+            "humidity",
+            "heavy rain",
+            "heavy fog"
+          ],
+          "correctIndex": 2,
+          "explanation": "Đáp án C đúng. Bài viết đề cập: pollution (ô nhiễm), humidity (độ ẩm cao), heavy fog (sương mù dày). KHÔNG đề cập heavy rain (mưa lớn)."
+        },
+        {
+          "question": "The traffic stopped because of _________.",
+          "options": [
+            "The rain",
+            "the windy weather",
+            "the humid weather",
+            "the heavy fog"
+          ],
+          "correctIndex": 3,
+          "explanation": "Đáp án D đúng. Bài viết nói: sương mù dày đặc hình thành, giao thông dừng lại vì người ta không nhìn thấy đường (People couldn't see)."
+        }
+      ],
+      "points": 40
+    },
+    {
+      "type": "reading-comprehension",
+      "id": "de-10",
+      "title": "ĐỀ 10: Types of Pollution",
+      "passage": "Pollution is the process of making air, water, soil etc dangerously dirty and not suitable for people to use. For example:\n\n* Air pollution is where there are gases in the air that are harmful, these gases come from objects or buildings like harmful smoke from factories, vehicles, automobiles (cars, trucks, planes, boats) and many more.\n\n* Light pollution is unwanted light, such as the light of cities, street lights, and others makes it hard to see the stars.\n\n* Noise pollution is unwanted noise, such as the sound of cars in a city, loud boats/ships, airplanes, and trains.\n\n* Water pollution is where there are things in the water that are harmful such as crude oil spilled from a shipwrecked tanker, smoke, poison, air pollution, and a lot other things that are not human/plant/animal remains.",
+      "questions": [
+        {
+          "question": "Air pollution comes from harmful __________ from factories, vehicles, etc.",
+          "options": [
+            "trees",
+            "parks",
+            "smoke",
+            "liquid"
+          ],
+          "correctIndex": 2,
+          "explanation": "Đáp án C đúng. Bài viết nói: 'harmful smoke from factories, vehicles' - khói độc hại từ nhà máy, phương tiện."
+        },
+        {
+          "question": "All of the following things cause light pollution EXCEPT ______.",
+          "options": [
+            "traffic light",
+            "light of cities",
+            "street lights",
+            "light of the moon"
+          ],
+          "correctIndex": 3,
+          "explanation": "Đáp án D đúng. Bài viết liệt kê: light of cities, street lights. 'Light of the moon' (ánh trăng) là tự nhiên, KHÔNG gây ô nhiễm ánh sáng."
+        },
+        {
+          "question": "Noise pollution is __________ sound of cars, trains, planes, etc.",
+          "options": [
+            "unwanted",
+            "small",
+            "interesting",
+            "useful"
+          ],
+          "correctIndex": 0,
+          "explanation": "Đáp án A đúng. Bài viết nói: 'Noise pollution is unwanted noise' - tiếng ồn không mong muốn."
+        },
+        {
+          "question": "Which of the following sentences is NOT true?",
+          "options": [
+            "Air pollution comes from harmful gases.",
+            "Light of the stars causes light pollution",
+            "Sound from a loud ship causes noise pollution",
+            "Water pollution can come from the land."
+          ],
+          "correctIndex": 1,
+          "explanation": "Đáp án B KHÔNG ĐÚNG. Bài viết nói light pollution 'makes it hard to see the stars' - ô nhiễm ánh sáng làm khó nhìn thấy sao. Ánh sáng từ các ngôi sao KHÔNG gây ô nhiễm."
+        }
+      ],
+      "points": 40
+    },
+    {
+      "type": "reading-comprehension",
+      "id": "de-11",
+      "title": "ĐỀ 11: Environment and Natural Resources",
+      "passage": "In biology and ecology the environment is all of the natural materials and living things on the Earth. This is also called the natural environment. Some people call themselves environmentalists. These people think that harmony with the environment is important. They think we must protect the environment. The important things in the environment that we value are called natural resources. For example fish, sunlight, and forests. These are renewable natural resources because they grow naturally when we use them. Non-renewable natural resources are important things in the environment that do not come back naturally. For example coal and natural gas.",
+      "questions": [
+        {
+          "question": "What does the word \"environmentalists\" in line 3 mean?",
+          "options": [
+            "living things",
+            "people who protect the environment",
+            "people who destroy the environment",
+            "people who pollute the environment"
+          ],
+          "correctIndex": 1,
+          "explanation": "Đáp án B đúng. Bài viết nói: 'These people think that harmony with the environment is important. They think we must protect the environment' - họ nghĩ rằng phải bảo vệ môi trường."
+        },
+        {
+          "question": "One example of a renewable natural resource is __________.",
+          "options": [
+            "sunlight",
+            "coal",
+            "oil",
+            "natural gas"
+          ],
+          "correctIndex": 0,
+          "explanation": "Đáp án A đúng. Bài viết liệt kê renewable resources: 'fish, sunlight, and forests'. Coal, oil, natural gas đều là non-renewable (không tái tạo)."
+        },
+        {
+          "question": "One example of a NON-renewable natural resource is __________.",
+          "options": [
+            "fish",
+            "forests",
+            "water",
+            "coal"
+          ],
+          "correctIndex": 3,
+          "explanation": "Đáp án D đúng. Bài viết nói: 'Non-renewable natural resources... For example coal and natural gas' - than đá là tài nguyên không tái tạo."
+        },
+        {
+          "question": "All of the following things are renewable natural resources EXCEPT __________.",
+          "options": [
+            "air",
+            "gas",
+            "forests",
+            "fish"
+          ],
+          "correctIndex": 1,
+          "explanation": "Đáp án B đúng. Gas (khí đốt/natural gas) là non-renewable. Fish, forests được liệt kê là renewable. Air (không khí) cũng có thể tái tạo tự nhiên."
+        },
+        {
+          "question": "What does the word \"them\" in line 7 refer to?",
+          "options": [
+            "materials",
+            "environmentalists",
+            "renewable natural resources",
+            "non-renewable natural resources"
+          ],
+          "correctIndex": 2,
+          "explanation": "Đáp án C đúng. Câu: 'These are renewable natural resources because they grow naturally when we use them' - 'them' ở đây chỉ 'renewable natural resources' (tài nguyên tái tạo)."
+        }
+      ],
+      "points": 50
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Grade 9 - Vocabulary: Community, City Life & Wellness | English Grammar Games</title>
+  <meta name="description" content="Practice vocabulary about community helpers, city life, and mental wellness">
+
+  <!-- Shared Styles -->
+  <link rel="stylesheet" href="../css/shared.css">
+</head>
+<body>
+  <!-- Game Header -->
+  <header class="game-header">
+    <div class="container">
+      <div class="game-header__container">
+        <div class="game-header__info-section">
+          <h1 class="game-header__title">Grade 9 - Vocabulary Quiz</h1>
+          <p class="game-header__subtitle">Community, City Life & Wellness</p>
+          <div class="game-info">
+            <div class="game-info__item">
+              <span class="game-info__label">Giáo viên:</span>
+              <span class="game-info__value">Nguyễn Minh Nhựt</span>
+            </div>
+            <div class="game-info__item">
+              <span class="game-info__label">Học sinh:</span>
+              <span class="game-info__value">Lớp 9</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="game-header__stats">
+          <div class="stat">
+            <span class="stat__label">Điểm</span>
+            <span class="stat__value stat__value--primary" id="current-score">⭐ 0</span>
+          </div>
+
+          <div class="stat">
+            <span class="stat__label">Tiến độ</span>
+            <span class="stat__value" id="progress-count">0 / 0</span>
+          </div>
+
+          <div class="stat" id="combo-display" style="display: none;">
+            <span class="stat__label">Combo</span>
+            <span class="stat__value" id="combo-count">0</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Progress Bar -->
+      <div class="progress">
+        <div class="progress__bar" id="progress-bar" style="width: 0%;"></div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Content -->
+  <main class="container">
+    <!-- Theory Panel (Collapsible) -->
+    <div class="theory-panel" id="theory-panel">
+      <button class="theory-panel__toggle" id="theory-toggle">
+        <span>📖 Vocabulary Reference</span>
+        <span class="theory-panel__icon" id="theory-icon">▼</span>
+      </button>
+
+      <div class="theory-panel__content" id="theory-content">
+        <div class="theory-panel__section">
+          <h3 class="theory-panel__heading">Section 1: Community & Occupations</h3>
+          <ul style="column-count: 2; column-gap: 20px;">
+            <li><strong>artisan</strong> /ˌɑːtɪˈzæn/ - thợ làm nghề thủ công</li>
+            <li><strong>community</strong> /kəˈmjuːnəti/ - cộng đồng</li>
+            <li><strong>community helper</strong> - người phục vụ cộng đồng</li>
+            <li><strong>craft village</strong> - làng nghề thủ công</li>
+            <li><strong>delivery person</strong> - nhân viên giao hàng</li>
+            <li><strong>electrician</strong> /ɪˌlekˈtrɪʃn/ - thợ điện</li>
+            <li><strong>firefighter</strong> /ˈfaɪəfaɪtə/ - lính cứu hoả</li>
+            <li><strong>garbage collector</strong> - nhân viên dọn vệ sinh</li>
+            <li><strong>police officer</strong> - công an</li>
+            <li><strong>handicraft</strong> - sản phẩm thủ công</li>
+            <li><strong>facilities</strong> - cơ sở vật chất</li>
+            <li><strong>preserve</strong> /prɪˈzɜːv/ - bảo tồn</li>
+            <li><strong>speciality</strong> - đặc sản</li>
+            <li><strong>tourist attraction</strong> - điểm du lịch</li>
+          </ul>
+        </div>
+
+        <div class="theory-panel__section">
+          <h3 class="theory-panel__heading">Section 2: City Life</h3>
+          <ul style="column-count: 2; column-gap: 20px;">
+            <li><strong>bustling</strong> /ˈbʌslɪŋ/ - hối hả, nhộn nhịp</li>
+            <li><strong>concrete jungle</strong> - rừng bê tông</li>
+            <li><strong>congested</strong> /kənˈdʒestɪd/ - tắc nghẽn</li>
+            <li><strong>downtown</strong> - khu trung tâm thành phố</li>
+            <li><strong>metro</strong> /ˈmetrəʊ/ - hệ thống tàu điện ngầm</li>
+            <li><strong>rush hour</strong> - giờ cao điểm</li>
+            <li><strong>sky train</strong> - tàu điện trên không</li>
+            <li><strong>tram</strong> /træm/ - xe điện</li>
+            <li><strong>underground</strong> - tàu điện ngầm</li>
+            <li><strong>liveable</strong> /ˈlɪvəbl/ - đáng sống</li>
+            <li><strong>suburb</strong> /ˈsʌbɜːb/ - vùng ngoại ô</li>
+            <li><strong>public amenities</strong> - tiện ích công cộng</li>
+            <li><strong>construction site</strong> - công trường xây dựng</li>
+            <li><strong>pricey</strong> - đắt đỏ</li>
+          </ul>
+        </div>
+
+        <div class="theory-panel__section">
+          <h3 class="theory-panel__heading">Section 3: Stress & Achievement</h3>
+          <ul style="column-count: 2; column-gap: 20px;">
+            <li><strong>accomplish</strong> /əˈkʌmplɪʃ/ - hoàn thành, đạt được</li>
+            <li><strong>anxiety</strong> /æŋˈzaɪəti/ - nỗi lo, sự lo lắng</li>
+            <li><strong>deadline</strong> /ˈdedlaɪn/ - thời hạn cuối cùng</li>
+            <li><strong>distraction</strong> /dɪˈstrækʃn/ - điều làm sao lãng</li>
+            <li><strong>mental</strong> /ˈmentl/ - (thuộc) tinh thần</li>
+            <li><strong>minimise</strong> /ˈmɪnɪmaɪz/ - giảm đến mức tối thiểu</li>
+            <li><strong>mood</strong> /muːd/ - tâm trạng</li>
+            <li><strong>optimistic</strong> /ˌɒptɪˈmɪstɪk/ - lạc quan</li>
+            <li><strong>priority</strong> /praɪˈɒrəti/ - sự ưu tiên</li>
+            <li><strong>stressed out</strong> - căng thẳng</li>
+            <li><strong>assignment</strong> - nhiệm vụ, bài tập</li>
+            <li><strong>counsellor</strong> - cố vấn, người tư vấn</li>
+            <li><strong>due date</strong> - hạn chót</li>
+            <li><strong>well-balanced</strong> - cân bằng, đúng mực</li>
+          </ul>
+        </div>
+
+        <div class="theory-panel__section">
+          <h3 class="theory-panel__heading">Important Phrasal Verbs</h3>
+          <ul style="column-count: 2; column-gap: 20px;">
+            <li><strong>cut down on</strong> - cắt giảm</li>
+            <li><strong>hand down / pass down</strong> - truyền lại</li>
+            <li><strong>run out of</strong> - hết, cạn kiệt</li>
+            <li><strong>get on with</strong> - có quan hệ tốt với</li>
+            <li><strong>look around</strong> - ngắm nghía xung quanh</li>
+            <li><strong>carry out</strong> - tiến hành</li>
+            <li><strong>come down with</strong> - bị ốm</li>
+            <li><strong>get around</strong> - đi xung quanh, di chuyển</li>
+            <li><strong>hang out with</strong> - đi chơi (cùng ai)</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <!-- Exercise Container -->
+    <div id="exercise-container" class="mt-3">
+      <!-- Exercises will be rendered here dynamically -->
+      <div class="card text-center">
+        <h2>Loading...</h2>
+        <p>Please wait while we load the exercises.</p>
+      </div>
+    </div>
+  </main>
+
+  <!-- Core JavaScript (loaded first) -->
+  <script src="../js/core/utils.js"></script>
+  <script src="../js/core/storage.js"></script>
+  <script src="../js/core/telegram-sender.js"></script>
+  <script src="../js/core/game-engine.js"></script>
+
+  <!-- Exercise Type Handlers -->
+  <script src="../js/exercises/multiple-choice.js"></script>
+  <script src="../js/exercises/fill-blank.js"></script>
+  <script src="../js/exercises/word-rearrange.js"></script>
+  <script src="../js/exercises/vocabulary-match.js"></script>
+
+  <!-- Initialize Game -->
+  <script>
+    const UNIT_ID = 'g9-vocab-city-life';
+    const DATA_PATH = '../data/g9-vocab-city-life.json';
+
+    // Theory panel toggle
+    const theoryToggle = document.getElementById('theory-toggle');
+    const theoryContent = document.getElementById('theory-content');
+    const theoryIcon = document.getElementById('theory-icon');
+
+    theoryToggle.addEventListener('click', () => {
+      const isExpanded = theoryContent.classList.contains('theory-panel__content--expanded');
+
+      if (isExpanded) {
+        theoryContent.classList.remove('theory-panel__content--expanded');
+        theoryIcon.classList.remove('theory-panel__icon--rotated');
+      } else {
+        theoryContent.classList.add('theory-panel__content--expanded');
+        theoryIcon.classList.add('theory-panel__icon--rotated');
+      }
+    });
+
+    // Combo display logic
+    function updateComboDisplay() {
+      const comboDisplay = document.getElementById('combo-display');
+      const comboCount = document.getElementById('combo-count');
+      const state = GameEngine.getState();
+
+      if (state.comboCount >= 3) {
+        comboDisplay.style.display = 'flex';
+        comboCount.textContent = state.comboCount + 'x 🔥';
+      } else {
+        comboDisplay.style.display = 'none';
+      }
+    }
+
+    // Override GameEngine.updateUI to include combo display
+    const originalUpdateUI = GameEngine.updateUI.bind(GameEngine);
+    GameEngine.updateUI = function() {
+      originalUpdateUI();
+      updateComboDisplay();
+    };
+
+    // Load unit data and start game
+    async function loadAndStartGame() {
+      // Initialize student name
+      StudentNameManager.init();
+      try {
+        const response = await fetch(DATA_PATH);
+
+        if (!response.ok) {
+          throw new Error(`Failed to load data: ${response.status}`);
+        }
+
+        const unitData = await response.json();
+
+        console.log('Unit data loaded:', unitData);
+        console.log('Registered exercise handlers:', Object.keys(GameEngine.exerciseHandlers));
+
+        GameEngine.init(unitData, UNIT_ID);
+
+      } catch (error) {
+        console.error('Error loading game data:', error);
+
+        const container = document.getElementById('exercise-container');
+        container.innerHTML = `
+          <div class="card">
+            <h2 style="color: var(--danger);">Error Loading Game</h2>
+            <p>Sorry, we couldn't load the exercise data. Please try refreshing the page.</p>
+            <p style="font-size: var(--font-size-sm); color: var(--text-light);">Error: ${error.message}</p>
+            <button class="btn btn--primary mt-2" onclick="location.reload()">Reload Page</button>
+          </div>
+        `;
+      }
+    }
+
+    // Start game when page loads
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', loadAndStartGame);
+    } else {
+      loadAndStartGame();
+    }
+  </script>
+</body>
+</html>

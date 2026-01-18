@@ -1,365 +1,169 @@
 # UNIT 7: NATURAL WONDERS OF THE WORLD
 
-## A CLOSER LOOK 2 - Reported speech (Yes/No questions)
+## A CLOSER LOOK 2 - Grammar
 
 <!-- chunk: intro -->
 <teacher_script pause="0">
-Ok lớp 9, tiếp tục <eng>Unit 7 - Natural Wonders of the World</eng>. Phần <eng>A Closer Look 2</eng> học ngữ pháp về câu tường thuật với câu hỏi <eng>Yes/No</eng>. Đây là dạng bài quan trọng cho thi nha.
-</teacher_script>
-
-<teacher_script pause="0">
-Các em mở sách ra trang 75, bài <eng>A Closer Look 2</eng>. Bấm nút "Bắt đầu" bên dưới để học ngữ pháp.
+Chào các em. Mời các em mở sách giáo khoa trang 75. Hôm nay chúng ta qua phần <eng>A Closer Look 2</eng>. Bài học này sẽ giúp các em ôn tập và thực hành ngữ pháp về Câu tường thuật với câu hỏi Yes/No (Reported speech with Yes/No questions).
 </teacher_script>
 
 ---
 
 <!-- chunk: grammar -->
-### Reported speech for Yes/No questions - Câu tường thuật câu hỏi Yes/No
-
-<teacher_script pause="0">
-Hôm nay học cách chuyển câu hỏi <eng>Yes/No</eng> sang câu tường thuật. Câu hỏi <eng>Yes/No</eng> là câu hỏi mà người ta trả lời <eng>Yes</eng> hoặc <eng>No</eng>.
-</teacher_script>
-
 <grammar>
-**Câu tường thuật của câu hỏi Yes/No**
+## Reported Speech: Yes/No Questions
 
-**Công thức:**
-- **S + asked (+O) + if/whether + S + V (lùi thì)**
-- **S + wanted to know + if/whether + S + V (lùi thì)**
+Khi chuyển một câu hỏi Yes/No từ trực tiếp sang gián tiếp (tường thuật), chúng ta thực hiện các bước sau:
+
+**1. Cấu trúc:**
+- `S + asked + (O) + if / whether + S + V (lùi thì)`
+- `S + wanted to know + if / whether + S + V (lùi thì)`
+
+**2. Các thay đổi:**
+- **Dùng "if" hoặc "whether"**: (nghĩa là "liệu có... không").
+- **Đổi trật tự từ**: Chủ ngữ đứng trước động từ (như câu trần thuật). Không đảo ngữ nữa.
+- **Lùi thì**:
+  - Hiện tại đơn -> Quá khứ đơn
+  - Hiện tại tiếp diễn -> Quá khứ tiếp diễn
+  - Quá khứ đơn -> Quá khứ hoàn thành
+  - Can -> Could, Will -> Would, Must -> Had to
+- **Đổi đại từ**: (I -> he/she, my -> his/her...) cho phù hợp.
+- **Đổi từ chỉ thời gian/nơi chốn**: (now -> then, here -> there, tomorrow -> the next day...).
 
 **Ví dụ:**
-- "Do you have such a friendship?" - Ngoc asked Toan
-→ Ngoc asked Toan **if** he had such a friendship.
+- Trực tiếp: "Do you like pop music?" he asked me.
+- Gián tiếp: He asked me **if** I **liked** pop music.
 
-- "Am I handsome?" - Giau asked.
-→ Giau wanted to know **if** he was handsome.
-
-- "Am I handsome or ugly?" - Dang asked
-→ Dang wanted to know **whether** he was handsome or ugly.
+- Trực tiếp: "Can you speak English?" she asked him.
+- Gián tiếp: She asked him **whether** he **could** speak English.
 </grammar>
 
 <teacher_script pause="0">
-Cách nhớ: Khi chuyển câu hỏi <eng>Yes/No</eng> sang tường thuật thì dùng <eng>if</eng> hoặc <eng>whether</eng> thay cho dấu hỏi. Mệnh đề sau không đảo ngữ, giữ trật tự S + V bình thường.
-</teacher_script>
-
-<teacher_script pause="0">
-Lưu ý: Dùng <eng>whether</eng> khi có sự lựa chọn <eng>or</eng>. Ví dụ: <eng>whether he was handsome or ugly</eng>. Còn lại thì dùng <eng>if</eng> hoặc <eng>whether</eng> đều được.
+Lưu ý quan trọng nhất là phải thêm **if** hoặc **whether** và không được đảo ngữ (Do/Does/Did) nữa nhé.
 </teacher_script>
 
 ---
 
-### Quy tắc lùi thì
-
-<teacher_script pause="0">
-Nhớ quy tắc lùi thì nha. Khi chuyển sang câu tường thuật, động từ phải lùi về một thì.
-</teacher_script>
-
-<grammar>
-**Quy tắc lùi thì:**
-| Câu trực tiếp | Câu tường thuật |
-|---------------|-----------------|
-| am/is → | was |
-| are → | were |
-| do/does → | did |
-| will → | would |
-| can → | could |
-| have/has → | had |
-| V (hiện tại) → | V (quá khứ) |
-| V-ed (quá khứ) → | had + V3 |
-
-**Đổi đại từ và trạng từ:**
-| Trực tiếp | Tường thuật |
-|-----------|-------------|
-| I/me → | he/she, him/her |
-| you → | I/we, he/she/they |
-| my → | his/her |
-| your → | my/our, his/her |
-| now → | then |
-| today → | that day |
-| tomorrow → | the next day / the following day |
-| yesterday → | the day before / the previous day |
-| next week → | the following week |
-| this → | that |
-| here → | there |
-</grammar>
-
-<teacher_script pause="0">
-Ví dụ chi tiết: <eng>Are you excited?</eng> - trực tiếp dùng <eng>are</eng> và <eng>you</eng>. Sang tường thuật: <eng>He asked if I was excited</eng> - <eng>are</eng> thành <eng>was</eng>, <eng>you</eng> thành <eng>I</eng>.
-</teacher_script>
-
----
-
-### Bài 1 trang 75 - Choose the best answer
-
-<teacher_script pause="60">
-Bài 1 <eng>Choose the best answer A, B, C, or D to complete each sentence</eng>. Chọn đáp án đúng. 1 phút nha.
-</teacher_script>
-
-<task>
-**Đề:** Choose the best answer A, B, C, or D to complete each sentence.
-**Dịch đề:** Chọn đáp án đúng A, B, C, hoặc D để hoàn thành mỗi câu.
-</task>
-
-<questions type="multiple_choice">
-**1.** "Will pollution endanger the wildlife here?" Kate asked. → Kate _______ if pollution would endanger the wildlife there.
-- A. told me
-- B. said to me
-- C. wanted to know
-- D. questions me
-
-*"Ô nhiễm có gây nguy hiểm cho động vật hoang dã ở đây không?" Kate hỏi. → Kate _______ liệu ô nhiễm có gây nguy hiểm cho động vật hoang dã ở đó không.*
-
-**2.** "Are you enjoying your flight?" the stewardess asked me. → The stewardess asked me if I _______ my flight.
-- A. am enjoying
-- B. was enjoying
-- C. enjoyed
-- D. had been enjoying
-
-*"Bạn có đang thích chuyến bay không?" tiếp viên hỏi tôi. → Tiếp viên hỏi tôi liệu tôi _______ chuyến bay.*
-
-**3.** "Is Ganh Da Dia in Phu Yen Province, Phong?" → She asked Phong _______ in Phu Yen Province.
-- A. was Ganh Da Dia
-- B. if Ganh Da Dia is
-- C. whether Ganh Da Dia was
-- D. if was Ganh Da Dia
-
-*"Gành Đá Đĩa có ở tỉnh Phú Yên không, Phong?" → Cô ấy hỏi Phong _______ ở tỉnh Phú Yên.*
-
-**4.** "Can I take a photo inside the cave?" he said to the guide. → He _______ the guide if he could take a photo inside the cave.
-- A. asked
-- B. said
-- C. told
-- D. spoke
-
-*"Tôi có thể chụp ảnh bên trong hang không?" anh ấy nói với hướng dẫn viên. → Anh ấy _______ hướng dẫn viên liệu anh ấy có thể chụp ảnh bên trong hang.*
-
-**5.** I asked the travel agent _______.
-- A. was the weather good in Sa Pa in the winter
-- B. if the weather is good in Sa Pa in the winter
-- C. whether was the weather good in Sa Pa in the winter
-- D. if the weather was good in Sa Pa in the winter
-
-*Tôi hỏi nhân viên du lịch _______.*
-</questions>
-
-<teacher_script pause="0" type="answer">
-Đáp án nha.
-</teacher_script>
-
-<answer>
-**Đáp án:** 1. C | 2. D | 3. C | 4. A | 5. D
-</answer>
-
-<teacher_script pause="0">
-Câu 1: C - <eng>wanted to know</eng>. Trong câu tường thuật Yes/No, dùng <eng>asked</eng> hoặc <eng>wanted to know</eng>.
-</teacher_script>
-
-<teacher_script pause="0">
-Câu 2: D - <eng>had been enjoying</eng>. Câu trực tiếp ở thì hiện tại tiếp diễn <eng>are enjoying</eng>, sang tường thuật lùi thì thành quá khứ hoàn thành tiếp diễn.
-</teacher_script>
-
-<teacher_script pause="0">
-Câu 3: C - <eng>whether Ganh Da Dia was</eng>. Câu tường thuật giữ trật tự S + V, không đảo ngữ. <eng>is</eng> lùi thì thành <eng>was</eng>.
-</teacher_script>
-
-<teacher_script pause="0">
-Câu 4: A - <eng>asked</eng>. Động từ tường thuật phổ biến: <eng>asked</eng> + O + <eng>if/whether</eng>.
-</teacher_script>
-
-<teacher_script pause="0">
-Câu 5: D - <eng>if the weather was good in Sa Pa in the winter</eng>. Trật tự S + V, <eng>is</eng> lùi thì thành <eng>was</eng>.
-</teacher_script>
-
----
-
-### Bài 2 trang 75 - Change into reported speech
+<!-- chunk: exercise_1 -->
+### Bài 1 trang 75 - Rewrite sentences
 
 <teacher_script pause="90">
-Bài 2 <eng>Change the following questions into reported speech</eng>. Chuyển các câu hỏi sau sang câu tường thuật. 1 phút 30 giây nha. Nhớ lùi thì và đổi đại từ.
+Chúng ta cùng làm Bài 1. Các em hãy viết lại các câu hỏi sau sang dạng câu tường thuật. Các em có 1 phút 30 giây.
 </teacher_script>
 
 <task>
-**Đề:** Change the following questions into reported speech.
-**Dịch đề:** Chuyển các câu hỏi sau sang câu tường thuật.
-</task>
-
-<questions type="complete_sentences">
-**1.** "Are you excited about your upcoming trip to Mui Ne?" He asked the children.
-*"Các con có hào hứng về chuyến đi Mũi Né sắp tới không?" Anh ấy hỏi bọn trẻ.*
-
-**2.** "Do you often meet Angela at school?" She asked us.
-*"Các bạn có thường gặp Angela ở trường không?" Cô ấy hỏi chúng tôi.*
-
-**3.** "Will you visit Giang Dien Waterfall next week?" She asked Mark.
-*"Bạn có thăm thác Giang Điền tuần tới không?" Cô ấy hỏi Mark.*
-
-**4.** "Is Con Dao National Park rich in flora and fauna?" I asked the teacher.
-*"Vườn quốc gia Côn Đảo có phong phú về động thực vật không?" Tôi hỏi giáo viên.*
-
-**5.** "Can we go to the campsite by bike?" Arthur asked.
-*"Chúng ta có thể đi đến khu cắm trại bằng xe đạp không?" Arthur hỏi.*
-</questions>
-
-<teacher_script pause="0" type="answer">
-Đáp án nha.
-</teacher_script>
-
-<answer>
-**Đáp án:**
-1. He asked the children if they were excited about their upcoming trip to Mui Ne.
-2. She asked us whether we often met Angela at school.
-3. She wanted to know if Mark would visit Giang Dien Waterfall the following week.
-4. I asked the teacher if Con Dao National Park was rich in flora and fauna.
-5. Arthur wanted to know if they/we could go to the campsite by bike.
-</answer>
-
-<teacher_script pause="0">
-Câu 1: <eng>Are you excited</eng> thành <eng>if they were excited</eng>. Lùi thì <eng>are</eng> thành <eng>were</eng>, <eng>you</eng> thành <eng>they</eng>.
-</teacher_script>
-
-<teacher_script pause="0">
-Câu 2: <eng>Do you meet</eng> thành <eng>whether we met</eng>. Lùi thì <eng>do meet</eng> thành <eng>met</eng>.
-</teacher_script>
-
-<teacher_script pause="0">
-Câu 3: <eng>Will you visit</eng> thành <eng>if Mark would visit</eng>. <eng>will</eng> thành <eng>would</eng>, <eng>next week</eng> thành <eng>the following week</eng>.
-</teacher_script>
-
-<teacher_script pause="0">
-Câu 4: <eng>Is... rich</eng> thành <eng>if... was rich</eng>. Lùi thì <eng>is</eng> thành <eng>was</eng>.
-</teacher_script>
-
-<teacher_script pause="0">
-Câu 5: <eng>Can we go</eng> thành <eng>if they/we could go</eng>. <eng>can</eng> thành <eng>could</eng>.
-</teacher_script>
-
----
-
-### Bài 3 trang 76 - Complete the sentences
-
-<teacher_script pause="90">
-Bài 3 <eng>Complete the sentences using reported speech</eng>. Hoàn thành câu dùng câu tường thuật. 1 phút 30 giây nha.
-</teacher_script>
-
-<task>
-**Đề:** Complete the sentences using reported speech.
-**Dịch đề:** Hoàn thành các câu sử dụng câu tường thuật.
+**Đề:** Rewrite the following questions in reported speech.
+**Dịch đề:** Viết lại câu hỏi dưới dạng gián tiếp.
 </task>
 
 <questions type="fill_blanks">
-**1.** "Are you still working from home?" I asked my dad.
-→ I asked my dad _______.
+**1.** "Do you enjoy visiting natural wonders?" Lan asked Tom.
+-> Lan asked Tom ________________________________.
 
-**2.** "Do you have to pack your suitcase?" Mark asked Anne.
-→ Mark asked Anne _______.
+**2.** "Is Mount Everest the highest mountain in the world?" she asked.
+-> She asked ________________________________.
 
-**3.** "Are you interested in visiting Phu Quoc Island?" Lan asked Tom.
-→ Lan asked Tom _______.
+**3.** "Can we visit the Grand Canyon next year?" they asked their teacher.
+-> They asked their teacher ________________________________.
 
-**4.** "Can we afford to go to Niagara Falls?" Kay asked her mum.
-→ Kay asked her mum _______.
+**4.** "Are you watching the documentary about the Amazon?" my mom asked me.
+-> My mom asked me ________________________________.
 
-**5.** "Will they visit Sa Pa and climb Fansipan this summer?"
-→ I asked _______.
+**5.** "Did you go to Ha Long Bay last summer?" Ba asked Mai.
+-> Ba asked Mai ________________________________.
 </questions>
 
-<teacher_script pause="0" type="answer">
-Đáp án nha.
+<teacher_script pause="0">
+Đã hết thời gian. Sau đây là đáp án đúng.
 </teacher_script>
 
 <answer>
 **Đáp án:**
-1. I asked my dad **if/whether he was still working from home**.
-2. Mark asked Anne **if/whether she had to pack her suitcase**.
-3. Lan asked Tom **if/whether he was interested in visiting Phu Quoc Island**.
-4. Kay asked her mum **if/whether they could afford to go to Niagara Falls**.
-5. I asked **if/whether they would visit Sa Pa and climb Fansipan that summer**.
+**1.** Lan asked Tom **if he enjoyed** visiting natural wonders.
+**2.** She asked **if Mount Everest was** the highest mountain in the world.
+**3.** They asked their teacher **whether they could visit** the Grand Canyon the following year (or next year).
+**4.** My mom asked me **if I was watching** the documentary about the Amazon.
+**5.** Ba asked Mai **if she had gone** (or went) to Ha Long Bay the previous summer (or last summer).
 </answer>
 
-<teacher_script pause="0">
-Câu 1: <eng>if he was still working</eng>. <eng>are you</eng> thành <eng>he was</eng>.
-</teacher_script>
+<explanation>
+**Giải thích:**
+1. Do you enjoy -> if he enjoyed (lùi thì hiện tại -> quá khứ).
+2. Is Mount Everest -> if Mount Everest was.
+3. Can we visit -> whether they could visit.
+4. Are you watching -> if I was watching.
+5. Did you go -> if she had gone (quá khứ đơn -> quá khứ hoàn thành).
+</explanation>
 
-<teacher_script pause="0">
-Câu 2: <eng>if she had to pack</eng>. <eng>do you have to</eng> thành <eng>she had to</eng>.
-</teacher_script>
-
-<teacher_script pause="0">
-Câu 3: <eng>if he was interested</eng>. <eng>are you interested</eng> thành <eng>he was interested</eng>.
-</teacher_script>
-
-<teacher_script pause="0">
-Câu 4: <eng>if they could afford</eng>. <eng>can we</eng> thành <eng>they could</eng>.
-</teacher_script>
-
-<teacher_script pause="0">
-Câu 5: <eng>if they would visit... that summer</eng>. <eng>will</eng> thành <eng>would</eng>, <eng>this summer</eng> thành <eng>that summer</eng>.
+<teacher_script pause="30">
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
 
-### Bài 4 trang 76 - Find Yes/No questions and report
+<!-- chunk: exercise_2 -->
+### Bài 2 trang 75 - Multiple Choice
 
-<teacher_script pause="120">
-Bài 4 <eng>Read the passage and find the Yes/No questions. Then change them into reported speech</eng>. Đọc đoạn văn, tìm câu hỏi <eng>Yes/No</eng> và chuyển sang tường thuật. 2 phút nha.
+<teacher_script pause="60">
+Chúng ta cùng làm Bài 2 <eng>Choose the correct answer</eng>. Các em hãy chọn đáp án đúng để hoàn thành câu. Các em có 1 phút.
 </teacher_script>
 
-<task>
-**Đề:** Read the passage and find the Yes/No questions. Then change them into reported speech.
-**Dịch đề:** Đọc đoạn văn và tìm các câu hỏi Yes/No. Sau đó chuyển chúng sang câu tường thuật.
-</task>
+<questions type="multiple_choice">
+**1.** She asked me _______ I liked traveling.
+A. what | B. if | C. that
 
-<reading>
-Olivia and Mark are visiting a fishing village. The tour guide introduces them to local life.
+**2.** He wanted to know _______ I could swim.
+A. if | B. what | C. where
 
-**Tour guide:** Welcome to our fishing village! Is it your first time here?
-**Olivia:** Yes, it's beautiful! Do the people here live on fishing?
-**Tour guide:** Yes, most of them do. The fishing industry has been here for generations.
-**Mark:** Interesting! Do their children go to school on land?
-**Tour guide:** Yes, they take boats to school every day.
-</reading>
+**3.** The teacher asked us if we _______ our homework.
+A. finish | B. have finished | C. had finished
 
-<translation>
-Olivia và Mark đang thăm một làng chài. Hướng dẫn viên du lịch giới thiệu cho họ về cuộc sống địa phương.
+**4.** Tom asked _______ I was from Vietnam.
+A. weather | B. whether | C. where
 
-**Hướng dẫn viên:** Chào mừng đến làng chài của chúng tôi! Đây có phải là lần đầu tiên các bạn đến đây không?
-**Olivia:** Vâng, nơi này đẹp quá! Người dân ở đây sống bằng nghề đánh cá phải không?
-**Hướng dẫn viên:** Vâng, hầu hết họ đều làm nghề đó. Ngành đánh cá đã có ở đây qua nhiều thế hệ.
-**Mark:** Thú vị! Con cái họ có đi học trên đất liền không?
-**Hướng dẫn viên:** Vâng, họ đi thuyền đến trường mỗi ngày.
-</translation>
+**5.** My father asked me if I _______ to the cinema the night before.
+A. went | B. go | C. had gone
+</questions>
 
-<teacher_script pause="0" type="answer">
-Đáp án nha.
+<teacher_script pause="0">
+Đã hết thời gian. Sau đây là đáp án đúng.
 </teacher_script>
 
 <answer>
-**Câu hỏi Yes/No và câu tường thuật:**
-
-**1.** "Is it your first time here?" - The tour guide asked.
-→ The tour guide asked them **if it was their first time there**.
-
-**2.** "Do the people here live on fishing?" - Olivia asked the guide.
-→ Olivia asked the guide **if the people there lived on fishing**.
-
-**3.** "Do their children go to school on land?" - Mark asked the guide.
-→ Mark asked the guide **if their children went to school on land**.
+**Đáp án:** 1.B | 2.A | 3.C | 4.B | 5.C
 </answer>
 
-<teacher_script pause="0">
-Câu 1: <eng>Is it your first time here</eng> thành <eng>if it was their first time there</eng>. Chú ý <eng>here</eng> thành <eng>there</eng>.
-</teacher_script>
+<explanation>
+**Giải thích:**
+1. **if**: câu hỏi Yes/No.
+2. **if**: liệu có... không.
+3. **had finished**: lùi thì (finish -> finished -> had finished).
+4. **whether**: liệu có (chú ý chính tả, weather là thời tiết).
+5. **had gone**: the night before là dấu hiệu của quá khứ (yesterday), lùi thì thành quá khứ hoàn thành.
+</explanation>
 
-<teacher_script pause="0">
-Câu 2: <eng>Do the people live on fishing</eng> thành <eng>if the people lived on fishing</eng>. <eng>do live</eng> thành <eng>lived</eng>, <eng>here</eng> thành <eng>there</eng>.
-</teacher_script>
-
-<teacher_script pause="0">
-Câu 3: <eng>Do their children go</eng> thành <eng>if their children went</eng>. <eng>do go</eng> thành <eng>went</eng>.
+<teacher_script pause="30">
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
 
+<!-- chunk: exercise_3 -->
+### Bài 3 trang 75 - Interaction
+
 <teacher_script pause="0">
-Ok hết <eng>A Closer Look 2</eng> rồi. Về nhà nhớ kỹ công thức: <eng>S + asked + if/whether + S + V (lùi thì)</eng>. Đây là dạng bài thi hay ra, luyện nhiều nha. Bài sau qua <eng>Communication</eng> học cách xin phép.
+Bài 3. Các em hãy làm việc theo cặp. Một bạn hỏi câu hỏi Yes/No, bạn kia tường thuật lại cho người thứ ba. Ví dụ:
+- Bạn A: "Do you like spicy food?"
+- Bạn B (nói với C): "A asked me if I liked spicy food."
+</teacher_script>
+
+<teacher_script pause="0" action="record">
+Các em hãy thực hành 2 câu và ghi âm gửi cho thầy nhé.
+</teacher_script>
+
+---
+
+<!-- chunk: end -->
+<teacher_script pause="0">
+Bài học hôm nay kết thúc tại đây. Các em hãy ghi nhớ công thức câu tường thuật Yes/No question nhé. Hẹn gặp lại các em!
 </teacher_script>

@@ -1,0 +1,547 @@
+{
+  "unitId": "g7-unit-7-traffic",
+  "title": "Unit 7: Traffic - Used to",
+  "studentName": "Tran Gia Hung",
+  "grade": 7,
+  "grammarTopics": [
+    "Used to",
+    "Past Habits",
+    "Affirmative/Negative/Questions with Used to",
+    "Traffic Vocabulary"
+  ],
+  "theory": {
+    "brief": "Used to diễn tả thói quen hoặc hành động trong quá khứ nhưng bây giờ không còn nữa. Khẳng định: S + used to + V0. Phủ định: S + didn't use to + V0. Nghi vấn: Did + S + use to + V0? Chú ý: 'used to' (quá khứ) khác 'be used to' (quen với).",
+    "examples": [
+      "I used to walk to school. (Tôi đã từng đi bộ đến trường.)",
+      "She used to ride a bike. (Cô ấy đã từng đi xe đạp.)",
+      "He didn't use to wear a helmet. (Anh ấy đã từng không đội mũ bảo hiểm.)",
+      "Did you use to take the bus? (Bạn đã từng đi xe buýt không?)",
+      "There used to be fewer cars. (Đã từng có ít xe hơi hơn.)"
+    ]
+  },
+  "exercises": [
+    {
+      "id": "g7u7-ex1",
+      "type": "fill-blank",
+      "question": "I _______ (walk) to school when I was young.",
+      "wordHint": "used to",
+      "answer": "used to walk",
+      "acceptedAnswers": [
+        "used to walk"
+      ],
+      "hints": [
+        "used to + V0"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u7-ex2",
+      "type": "fill-blank",
+      "question": "She _______ (ride) a bike to work.",
+      "wordHint": "used to",
+      "answer": "used to ride",
+      "acceptedAnswers": [
+        "used to ride"
+      ],
+      "hints": [
+        "used to + V0"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u7-ex3",
+      "type": "fill-blank",
+      "question": "They _______ (take) the bus every day.",
+      "wordHint": "used to",
+      "answer": "used to take",
+      "acceptedAnswers": [
+        "used to take"
+      ],
+      "hints": [
+        "used to + V0"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u7-ex4",
+      "type": "fill-blank",
+      "question": "There _______ (be) fewer cars on the road.",
+      "wordHint": "used to",
+      "answer": "used to be",
+      "acceptedAnswers": [
+        "used to be"
+      ],
+      "hints": [
+        "There used to be"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u7-ex5",
+      "type": "fill-blank",
+      "question": "We _______ (play) on the street.",
+      "wordHint": "used to",
+      "answer": "used to play",
+      "acceptedAnswers": [
+        "used to play"
+      ],
+      "hints": [
+        "used to + V0"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u7-ex6",
+      "type": "fill-blank",
+      "question": "He _______ (not wear) a helmet.",
+      "wordHint": "didn't use to",
+      "answer": "didn't use to wear",
+      "acceptedAnswers": [
+        "didn't use to wear",
+        "did not use to wear"
+      ],
+      "hints": [
+        "didn't use to + V0"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u7-ex7",
+      "type": "fill-blank",
+      "question": "She _______ (not go) to school by car.",
+      "wordHint": "didn't use to",
+      "answer": "didn't use to go",
+      "acceptedAnswers": [
+        "didn't use to go",
+        "did not use to go"
+      ],
+      "hints": [
+        "didn't use to + V0"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u7-ex8",
+      "type": "fill-blank",
+      "question": "They _______ (not have) traffic lights here.",
+      "wordHint": "didn't use to",
+      "answer": "didn't use to have",
+      "acceptedAnswers": [
+        "didn't use to have",
+        "did not use to have"
+      ],
+      "hints": [
+        "didn't use to + V0"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u7-ex9",
+      "type": "fill-blank",
+      "question": "_______ you _______ (ride) a motorbike?",
+      "wordHint": "Did/use to",
+      "answer": "Did use to ride",
+      "acceptedAnswers": [
+        "Did use to ride",
+        "Did you use to ride",
+        "Did-use to-ride"
+      ],
+      "hints": [
+        "Did + S + use to + V0?"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u7-ex10",
+      "type": "fill-blank",
+      "question": "_______ she _______ (walk) to school?",
+      "wordHint": "Did/use to",
+      "answer": "Did use to walk",
+      "acceptedAnswers": [
+        "Did use to walk",
+        "Did she use to walk",
+        "Did-use to-walk"
+      ],
+      "hints": [
+        "Did + S + use to + V0?"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u7-ex11",
+      "type": "fill-blank",
+      "question": "My father _______ (drive) me to school.",
+      "wordHint": "used to",
+      "answer": "used to drive",
+      "acceptedAnswers": [
+        "used to drive"
+      ],
+      "hints": [
+        "used to + V0"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u7-ex12",
+      "type": "fill-blank",
+      "question": "There _______ (be) a parking lot here.",
+      "wordHint": "used to",
+      "answer": "used to be",
+      "acceptedAnswers": [
+        "used to be"
+      ],
+      "hints": [
+        "There used to be"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u7-ex13",
+      "type": "fill-blank",
+      "question": "People _______ (not obey) traffic rules.",
+      "wordHint": "didn't use to",
+      "answer": "didn't use to obey",
+      "acceptedAnswers": [
+        "didn't use to obey",
+        "did not use to obey"
+      ],
+      "hints": [
+        "didn't use to + V0"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u7-ex14",
+      "type": "fill-blank",
+      "question": "_______ there _______ (be) a traffic jam here?",
+      "wordHint": "Did/use to",
+      "answer": "Did use to be",
+      "acceptedAnswers": [
+        "Did use to be",
+        "Did there use to be",
+        "Did-use to-be"
+      ],
+      "hints": [
+        "Did + there + use to be?"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u7-ex15",
+      "type": "fill-blank",
+      "question": "Children _______ (cycle) to school safely.",
+      "wordHint": "used to",
+      "answer": "used to cycle",
+      "acceptedAnswers": [
+        "used to cycle"
+      ],
+      "hints": [
+        "used to + V0"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u7-ex16",
+      "type": "multiple-choice",
+      "question": "I _______ walk to school.",
+      "options": [
+        "use to",
+        "used to",
+        "am used to",
+        "using to"
+      ],
+      "correctIndex": 1,
+      "explanation": "used to + V0 (thói quen quá khứ)",
+      "hints": [
+        "Thói quen quá khứ → used to"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u7-ex17",
+      "type": "multiple-choice",
+      "question": "She _______ ride a bike when she was young.",
+      "options": [
+        "didn't used to",
+        "didn't use to",
+        "doesn't use to",
+        "not used to"
+      ],
+      "correctIndex": 1,
+      "explanation": "Phủ định: didn't use to + V0",
+      "hints": [
+        "Phủ định → didn't use to"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u7-ex18",
+      "type": "multiple-choice",
+      "question": "_______ you _______ take the bus?",
+      "options": [
+        "Do/use to",
+        "Did/use to",
+        "Did/used to",
+        "Does/use to"
+      ],
+      "correctIndex": 1,
+      "explanation": "Câu hỏi: Did + S + use to + V0?",
+      "hints": [
+        "Câu hỏi → Did + use to"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u7-ex19",
+      "type": "multiple-choice",
+      "question": "There _______ a lot of traffic here.",
+      "options": [
+        "use to be",
+        "used to be",
+        "used to being",
+        "uses to be"
+      ],
+      "correctIndex": 1,
+      "explanation": "There used to be + N",
+      "hints": [
+        "There + used to be"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u7-ex20",
+      "type": "multiple-choice",
+      "question": "My parents _______ travel by train.",
+      "options": [
+        "use to",
+        "used to",
+        "using to",
+        "uses to"
+      ],
+      "correctIndex": 1,
+      "explanation": "used to + V0",
+      "hints": [
+        "Thói quen quá khứ"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u7-ex21",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "I used to walk to school.",
+        "I used to walk to school"
+      ],
+      "hints": [
+        "S + used to + V0"
+      ],
+      "points": 15,
+      "correctSentence": "I used to walk to school.",
+      "words": [
+        "walk",
+        "used to",
+        "I",
+        "school",
+        "to"
+      ]
+    },
+    {
+      "id": "g7u7-ex22",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "She used to ride a bike.",
+        "She used to ride a bike"
+      ],
+      "hints": [
+        "S + used to + V0"
+      ],
+      "points": 15,
+      "correctSentence": "She used to ride a bike.",
+      "words": [
+        "ride",
+        "she",
+        "to",
+        "used",
+        "bike",
+        "a"
+      ]
+    },
+    {
+      "id": "g7u7-ex23",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "He didn't use to wear a helmet.",
+        "He didn't use to wear a helmet"
+      ],
+      "hints": [
+        "S + didn't use to + V0"
+      ],
+      "points": 15,
+      "correctSentence": "He didn't use to wear a helmet.",
+      "words": [
+        "didn't",
+        "he",
+        "to",
+        "helmet",
+        "wear",
+        "use",
+        "a"
+      ]
+    },
+    {
+      "id": "g7u7-ex24",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "Did you use to take the bus?",
+        "Did you use to take the bus"
+      ],
+      "hints": [
+        "Did + S + use to + V0?"
+      ],
+      "points": 15,
+      "correctSentence": "Did you use to take the bus?",
+      "words": [
+        "you",
+        "did",
+        "to",
+        "use",
+        "bus",
+        "the",
+        "take"
+      ]
+    },
+    {
+      "id": "g7u7-ex25",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "There used to be fewer cars.",
+        "There used to be fewer cars"
+      ],
+      "hints": [
+        "There used to be + N"
+      ],
+      "points": 15,
+      "correctSentence": "There used to be fewer cars.",
+      "words": [
+        "be",
+        "there",
+        "to",
+        "used",
+        "cars",
+        "fewer"
+      ]
+    },
+    {
+      "id": "g7u7-ex26",
+      "type": "error-correct",
+      "wrongSentence": "I use to walk to school.",
+      "correctSentence": "I used to walk to school.",
+      "errorWord": "use to",
+      "correction": "used to",
+      "explanation": "Dùng 'used to' (có 'd')",
+      "hints": [
+        "used to (có 'd')"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u7-ex27",
+      "type": "error-correct",
+      "wrongSentence": "She didn't used to ride a bike.",
+      "correctSentence": "She didn't use to ride a bike.",
+      "errorWord": "used to",
+      "correction": "use to",
+      "explanation": "Sau didn't dùng 'use to' (không có 'd')",
+      "hints": [
+        "didn't use to (không có 'd')"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u7-ex28",
+      "type": "error-correct",
+      "wrongSentence": "Did you used to take the bus?",
+      "correctSentence": "Did you use to take the bus?",
+      "errorWord": "used to",
+      "correction": "use to",
+      "explanation": "Sau Did dùng 'use to' (không có 'd')",
+      "hints": [
+        "Did + use to (không có 'd')"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u7-ex29",
+      "type": "error-correct",
+      "wrongSentence": "There used to was a parking lot.",
+      "correctSentence": "There used to be a parking lot.",
+      "errorWord": "was",
+      "correction": "be",
+      "explanation": "used to + V0 (be, không dùng was)",
+      "hints": [
+        "used to + be"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u7-ex30",
+      "type": "error-correct",
+      "wrongSentence": "He used to riding a motorbike.",
+      "correctSentence": "He used to ride a motorbike.",
+      "errorWord": "riding",
+      "correction": "ride",
+      "explanation": "used to + V0 (không dùng V-ing)",
+      "hints": [
+        "used to + V0"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u7-ex31",
+      "type": "translation",
+      "vietnamese": "Tôi đã từng đi bộ đến trường.",
+      "answer": "I used to walk to school.",
+      "acceptedAnswers": [
+        "I used to walk to school.",
+        "I used to walk to school"
+      ],
+      "hints": [
+        "used to + V0"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u7-ex32",
+      "type": "translation",
+      "vietnamese": "Đã từng có ít xe hơi hơn.",
+      "answer": "There used to be fewer cars.",
+      "acceptedAnswers": [
+        "There used to be fewer cars.",
+        "There used to be fewer cars"
+      ],
+      "hints": [
+        "There used to be"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u7-ex33",
+      "type": "translation",
+      "vietnamese": "Bạn đã từng đi xe buýt không?",
+      "answer": "Did you use to take the bus?",
+      "acceptedAnswers": [
+        "Did you use to take the bus?",
+        "Did you use to take the bus"
+      ],
+      "hints": [
+        "Did + S + use to + V0?"
+      ],
+      "points": 10
+    }
+  ]
+}

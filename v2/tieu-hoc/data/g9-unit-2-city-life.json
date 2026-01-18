@@ -1,0 +1,1188 @@
+{
+  "unitId": "g9-unit-2-city-life",
+  "title": "Grade 9 - Unit 2: City Life",
+  "grammarTopics": ["Double Comparatives (The...the...)", "Phrasal Verbs"],
+  "theory": {
+    "brief": "Unit 2 học về cuộc sống thành phố với 2 chủ điểm ngữ pháp: (1) So sánh kép (Double comparatives) dùng cấu trúc 'The + comparative..., the + comparative...' để diễn tả mối quan hệ tỷ lệ thuận giữa hai sự vật/hiện tượng, và (2) Phrasal verbs (cụm động từ) liên quan đến cuộc sống đô thị.",
+    "examples": [
+      "The more crowded the city gets, the more congested the streets are. (Càng đông đúc, đường phố càng tắc nghẽn.)",
+      "The higher you climb, the colder it gets. (Càng leo cao, trời càng lạnh.)",
+      "We need to get around the city by metro. (Chúng ta cần đi vòng quanh thành phố bằng tàu điện ngầm.)",
+      "They carried out a survey about city life. (Họ thực hiện một cuộc khảo sát về cuộc sống thành phố.)"
+    ]
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "type": "multiple-choice",
+      "question": "The more crowded the city is, __________ it becomes.",
+      "options": ["the more noisy", "the noisier", "noisier", "more noisy"],
+      "correctIndex": 1,
+      "explanation": "So sánh kép: The + comparative..., the + comparative... (tính từ ngắn thêm -er)",
+      "hints": ["The + so sánh hơn..., the + so sánh hơn..."],
+      "points": 10
+    },
+    {
+      "id": 2,
+      "type": "multiple-choice",
+      "question": "The __________ you study, the better your grades will be.",
+      "options": ["harder", "more hard", "hardest", "most hard"],
+      "correctIndex": 0,
+      "explanation": "So sánh kép với tính từ ngắn: The harder..., the better...",
+      "hints": ["Tính từ ngắn thêm -er"],
+      "points": 10
+    },
+    {
+      "id": 3,
+      "type": "multiple-choice",
+      "question": "The closer we get to the city center, __________ expensive things become.",
+      "options": ["the most", "most", "the more", "more"],
+      "correctIndex": 2,
+      "explanation": "So sánh kép với tính từ dài: the more expensive",
+      "hints": ["Tính từ dài dùng 'more'"],
+      "points": 10
+    },
+    {
+      "id": 4,
+      "type": "multiple-choice",
+      "question": "The __________ pollution increases, the more health problems people have.",
+      "options": ["more", "most", "much", "many"],
+      "correctIndex": 0,
+      "explanation": "So sánh kép: The more + N, the more + N",
+      "hints": ["The more + danh từ"],
+      "points": 10
+    },
+    {
+      "id": 5,
+      "type": "multiple-choice",
+      "question": "The higher the building is, __________ view we have.",
+      "options": ["the better", "better", "the best", "best"],
+      "correctIndex": 0,
+      "explanation": "So sánh kép: The + comparative..., the + comparative...",
+      "hints": ["Cần 'the' trước so sánh hơn"],
+      "points": 10
+    },
+    {
+      "id": 6,
+      "type": "multiple-choice",
+      "question": "We can __________ the city easily by metro.",
+      "options": ["get around", "get up", "get on", "get off"],
+      "correctIndex": 0,
+      "explanation": "Get around = đi vòng vòng, đi lại (trong thành phố)",
+      "hints": ["Phrasal verb nghĩa 'đi lại trong thành phố'"],
+      "points": 10
+    },
+    {
+      "id": 7,
+      "type": "multiple-choice",
+      "question": "The researchers __________ a study about traffic congestion.",
+      "options": ["carried on", "carried out", "carried off", "carried away"],
+      "correctIndex": 1,
+      "explanation": "Carry out = thực hiện (một nghiên cứu, dự án)",
+      "hints": ["Phrasal verb nghĩa 'thực hiện'"],
+      "points": 10
+    },
+    {
+      "id": 8,
+      "type": "multiple-choice",
+      "question": "Many people __________ the flu in winter.",
+      "options": ["come up with", "come down with", "come across", "come back"],
+      "correctIndex": 1,
+      "explanation": "Come down with = mắc bệnh",
+      "hints": ["Phrasal verb nghĩa 'bị mắc bệnh'"],
+      "points": 10
+    },
+    {
+      "id": 9,
+      "type": "multiple-choice",
+      "question": "Teenagers often __________ with friends at shopping malls.",
+      "options": ["hang up", "hang out", "hang on", "hang off"],
+      "correctIndex": 1,
+      "explanation": "Hang out = đi chơi, đi ra ngoài với bạn bè",
+      "hints": ["Phrasal verb nghĩa 'đi chơi với bạn'"],
+      "points": 10
+    },
+    {
+      "id": 10,
+      "type": "multiple-choice",
+      "question": "The city is trying to __________ noise pollution.",
+      "options": ["cut down on", "cut off", "cut up", "cut in"],
+      "correctIndex": 0,
+      "explanation": "Cut down on = cắt giảm, giảm bớt",
+      "hints": ["Phrasal verb nghĩa 'cắt giảm'"],
+      "points": 10
+    },
+    {
+      "id": 11,
+      "type": "multiple-choice",
+      "question": "The __________ the traffic jam, the later we arrive.",
+      "options": ["worse", "bad", "worst", "badly"],
+      "correctIndex": 0,
+      "explanation": "So sánh kép với tính từ bất quy tắc: worse (so sánh hơn của bad)",
+      "hints": ["Bad → worse → worst"],
+      "points": 10
+    },
+    {
+      "id": 12,
+      "type": "multiple-choice",
+      "question": "The more modern the city becomes, __________ traditional values it loses.",
+      "options": ["the more", "more", "the most", "most"],
+      "correctIndex": 0,
+      "explanation": "So sánh kép: The more..., the more...",
+      "hints": ["The more + N"],
+      "points": 10
+    },
+    {
+      "id": 13,
+      "type": "multiple-choice",
+      "question": "The __________ we live from downtown, the cheaper the rent is.",
+      "options": ["far", "farther", "farthest", "more far"],
+      "correctIndex": 1,
+      "explanation": "So sánh kép với tính từ bất quy tắc: far → farther",
+      "hints": ["Far → farther → farthest"],
+      "points": 10
+    },
+    {
+      "id": 14,
+      "type": "multiple-choice",
+      "question": "The __________ facilities a city has, the more liveable it becomes.",
+      "options": ["better", "good", "best", "well"],
+      "correctIndex": 0,
+      "explanation": "So sánh kép: The better... (good → better → best)",
+      "hints": ["Good → better → best"],
+      "points": 10
+    },
+    {
+      "id": 15,
+      "type": "multiple-choice",
+      "question": "I often get __________ in traffic jams during rush hour.",
+      "options": ["stuck", "stick", "sticking", "to stick"],
+      "correctIndex": 0,
+      "explanation": "Get stuck in = bị kẹt trong (tắc đường)",
+      "hints": ["Cụm từ cố định: get stuck in"],
+      "points": 10
+    },
+    {
+      "id": 16,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["The", "more", "crowded", "the", "city", "gets", "the", "more", "congested", "it", "becomes"],
+      "distractors": ["most", "crowding", "congest"],
+      "correctSentence": "The more crowded the city gets the more congested it becomes",
+      "acceptedAnswers": [
+        "The more crowded the city gets the more congested it becomes",
+        "The more crowded the city gets, the more congested it becomes",
+        "The more crowded the city gets the more congested it becomes.",
+        "The more crowded the city gets, the more congested it becomes."
+      ],
+      "hints": ["The more..., the more..."],
+      "points": 10
+    },
+    {
+      "id": 17,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["The", "higher", "you", "climb", "the", "colder", "it", "gets"],
+      "distractors": ["high", "highest", "cold", "coldest"],
+      "correctSentence": "The higher you climb the colder it gets",
+      "acceptedAnswers": [
+        "The higher you climb the colder it gets",
+        "The higher you climb, the colder it gets",
+        "The higher you climb the colder it gets.",
+        "The higher you climb, the colder it gets."
+      ],
+      "hints": ["The + comparative..., the + comparative..."],
+      "points": 10
+    },
+    {
+      "id": 18,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["We", "can", "get", "around", "the", "city", "by", "metro"],
+      "distractors": ["getting", "gets", "got"],
+      "correctSentence": "We can get around the city by metro",
+      "acceptedAnswers": [
+        "We can get around the city by metro",
+        "We can get around the city by metro."
+      ],
+      "hints": ["get around = đi lại"],
+      "points": 10
+    },
+    {
+      "id": 19,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["They", "carried", "out", "a", "survey", "about", "city", "life"],
+      "distractors": ["carry", "carrying", "carries"],
+      "correctSentence": "They carried out a survey about city life",
+      "acceptedAnswers": [
+        "They carried out a survey about city life",
+        "They carried out a survey about city life."
+      ],
+      "hints": ["carry out = thực hiện"],
+      "points": 10
+    },
+    {
+      "id": 20,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["Teenagers", "hang", "out", "with", "friends", "at", "shopping", "malls"],
+      "distractors": ["hanging", "hangs", "hung"],
+      "correctSentence": "Teenagers hang out with friends at shopping malls",
+      "acceptedAnswers": [
+        "Teenagers hang out with friends at shopping malls",
+        "Teenagers hang out with friends at shopping malls."
+      ],
+      "hints": ["hang out = đi chơi"],
+      "points": 10
+    },
+    {
+      "id": 21,
+      "type": "multiple-choice",
+      "question": "The __________ you practice, the more fluent you become.",
+      "options": ["more", "most", "much", "many"],
+      "correctIndex": 0,
+      "explanation": "So sánh kép: The more + S + V, the + comparative...",
+      "hints": ["The more + động từ"],
+      "points": 10
+    },
+    {
+      "id": 22,
+      "type": "multiple-choice",
+      "question": "The authorities are trying to __________ air pollution in the city.",
+      "options": ["cut down on", "look after", "get on with", "come down with"],
+      "correctIndex": 0,
+      "explanation": "Cut down on = cắt giảm (ô nhiễm, chi phí)",
+      "hints": ["Nghĩa 'cắt giảm'"],
+      "points": 10
+    },
+    {
+      "id": 23,
+      "type": "multiple-choice",
+      "question": "The nearer we get to the construction site, __________ it becomes.",
+      "options": ["the dustier", "dustier", "the more dusty", "more dusty"],
+      "correctIndex": 0,
+      "explanation": "So sánh kép: The + comparative..., the + comparative...",
+      "hints": ["Cần 'the' trước so sánh hơn"],
+      "points": 10
+    },
+    {
+      "id": 24,
+      "type": "multiple-choice",
+      "question": "The faster the city grows, __________ public amenities it needs.",
+      "options": ["the more", "more", "the most", "most"],
+      "correctIndex": 0,
+      "explanation": "So sánh kép: The + comparative..., the more + N",
+      "hints": ["The more + danh từ"],
+      "points": 10
+    },
+    {
+      "id": 25,
+      "type": "multiple-choice",
+      "question": "The __________ the street, the safer it is for children.",
+      "options": ["quieter", "more quiet", "quiet", "most quiet"],
+      "correctIndex": 0,
+      "explanation": "So sánh kép với tính từ: quiet → quieter",
+      "hints": ["Tính từ 2 âm tiết kết thúc -et thêm -er"],
+      "points": 10
+    },
+    {
+      "id": 26,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["The", "city", "is", "trying", "to", "cut", "down", "on", "noise", "pollution"],
+      "distractors": ["cutting", "cuts", "cut off"],
+      "correctSentence": "The city is trying to cut down on noise pollution",
+      "acceptedAnswers": [
+        "The city is trying to cut down on noise pollution",
+        "The city is trying to cut down on noise pollution."
+      ],
+      "hints": ["cut down on = cắt giảm"],
+      "points": 10
+    },
+    {
+      "id": 27,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["Many", "people", "came", "down", "with", "the", "flu", "last", "winter"],
+      "distractors": ["come", "coming", "comes"],
+      "correctSentence": "Many people came down with the flu last winter",
+      "acceptedAnswers": [
+        "Many people came down with the flu last winter",
+        "Many people came down with the flu last winter."
+      ],
+      "hints": ["come down with = mắc bệnh"],
+      "points": 10
+    },
+    {
+      "id": 28,
+      "type": "multiple-choice",
+      "question": "The more expensive the area is, __________ people can afford to live there.",
+      "options": ["the fewer", "fewer", "the less", "less"],
+      "correctIndex": 0,
+      "explanation": "So sánh kép: The more..., the fewer... (với danh từ đếm được)",
+      "hints": ["Few → fewer → fewest"],
+      "points": 10
+    },
+    {
+      "id": 29,
+      "type": "multiple-choice",
+      "question": "The later we leave, __________ traffic we'll encounter.",
+      "options": ["the more", "more", "the most", "most"],
+      "correctIndex": 0,
+      "explanation": "So sánh kép: The later..., the more...",
+      "hints": ["The + comparative..., the more..."],
+      "points": 10
+    },
+    {
+      "id": 30,
+      "type": "multiple-choice",
+      "question": "The __________ the metro system, the easier it is to get around.",
+      "options": ["better", "good", "best", "well"],
+      "correctIndex": 0,
+      "explanation": "So sánh kép với tính từ bất quy tắc: good → better",
+      "hints": ["Good → better → best"],
+      "points": 10
+    },
+    {
+      "id": 31,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["The", "more", "you", "practice", "the", "better", "you", "become"],
+      "distractors": ["good", "best", "well"],
+      "correctSentence": "The more you practice the better you become",
+      "acceptedAnswers": [
+        "The more you practice the better you become",
+        "The more you practice, the better you become",
+        "The more you practice the better you become.",
+        "The more you practice, the better you become."
+      ],
+      "hints": ["The more + S + V, the + comparative"],
+      "points": 10
+    },
+    {
+      "id": 32,
+      "type": "multiple-choice",
+      "question": "The __________ you wake up, the more time you have for breakfast.",
+      "options": ["earlier", "early", "earliest", "more early"],
+      "correctIndex": 0,
+      "explanation": "So sánh kép: early → earlier",
+      "hints": ["Tính từ 2 âm tiết kết thúc -y → -ier"],
+      "points": 10
+    },
+    {
+      "id": 33,
+      "type": "multiple-choice",
+      "question": "The government plans to __________ new jobs in the city.",
+      "options": ["set up", "look around", "turn down", "hang out"],
+      "correctIndex": 0,
+      "explanation": "Set up = thành lập, tạo ra",
+      "hints": ["Nghĩa 'tạo ra việc làm'"],
+      "points": 10
+    },
+    {
+      "id": 34,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["The", "busier", "the", "city", "gets", "the", "noisier", "it", "becomes"],
+      "distractors": ["busy", "noise", "noisy"],
+      "correctSentence": "The busier the city gets the noisier it becomes",
+      "acceptedAnswers": [
+        "The busier the city gets the noisier it becomes",
+        "The busier the city gets, the noisier it becomes",
+        "The busier the city gets the noisier it becomes.",
+        "The busier the city gets, the noisier it becomes."
+      ],
+      "hints": ["Tính từ 2 âm tiết -y → -ier"],
+      "points": 10
+    },
+    {
+      "id": 35,
+      "type": "multiple-choice",
+      "question": "The __________ people move to cities, the more infrastructure is needed.",
+      "options": ["more", "most", "much", "many"],
+      "correctIndex": 0,
+      "explanation": "So sánh kép với động từ: The more + S + V",
+      "hints": ["The more + động từ"],
+      "points": 10
+    },
+    {
+      "id": 36,
+      "type": "multiple-choice",
+      "question": "She had to __________ the invitation because she was busy.",
+      "options": ["turn down", "carry out", "deal with", "live on"],
+      "correctIndex": 0,
+      "explanation": "Turn down = từ chối",
+      "hints": ["Nghĩa 'từ chối lời mời'"],
+      "points": 10
+    },
+    {
+      "id": 37,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["The", "closer", "we", "get", "to", "downtown", "the", "more", "expensive", "it", "is"],
+      "distractors": ["close", "expensively", "expensiveness"],
+      "correctSentence": "The closer we get to downtown the more expensive it is",
+      "acceptedAnswers": [
+        "The closer we get to downtown the more expensive it is",
+        "The closer we get to downtown, the more expensive it is",
+        "The closer we get to downtown the more expensive it is.",
+        "The closer we get to downtown, the more expensive it is."
+      ],
+      "hints": ["The + comparative..., the more + tính từ dài"],
+      "points": 10
+    },
+    {
+      "id": 38,
+      "type": "multiple-choice",
+      "question": "The factory had to __________ due to financial problems.",
+      "options": ["close down", "set up", "hang out", "look around"],
+      "correctIndex": 0,
+      "explanation": "Close down = đóng cửa vĩnh viễn",
+      "hints": ["Nghĩa 'đóng cửa'"],
+      "points": 10
+    },
+    {
+      "id": 39,
+      "type": "multiple-choice",
+      "question": "The __________ the building, the more spectacular the view.",
+      "options": ["taller", "tall", "tallest", "more tall"],
+      "correctIndex": 0,
+      "explanation": "So sánh kép: tall → taller",
+      "hints": ["Tính từ ngắn thêm -er"],
+      "points": 10
+    },
+    {
+      "id": 40,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["The", "government", "needs", "to", "deal", "with", "traffic", "problems"],
+      "distractors": ["dealing", "deals", "dealt"],
+      "correctSentence": "The government needs to deal with traffic problems",
+      "acceptedAnswers": [
+        "The government needs to deal with traffic problems",
+        "The government needs to deal with traffic problems."
+      ],
+      "hints": ["deal with = giải quyết"],
+      "points": 10
+    },
+    {
+      "id": 41,
+      "type": "multiple-choice",
+      "question": "The __________ mistakes you make, the lower your score will be.",
+      "options": ["more", "most", "much", "many"],
+      "correctIndex": 0,
+      "explanation": "So sánh kép với danh từ: The more + N",
+      "hints": ["The more + danh từ"],
+      "points": 10
+    },
+    {
+      "id": 42,
+      "type": "multiple-choice",
+      "question": "Let's __________ the new shopping mall this weekend.",
+      "options": ["look around", "cut down on", "come down with", "get stuck in"],
+      "correctIndex": 0,
+      "explanation": "Look around = ngắm nghía, xem xung quanh",
+      "hints": ["Nghĩa 'ngắm nghía'"],
+      "points": 10
+    },
+    {
+      "id": 43,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["The", "fewer", "cars", "on", "the", "road", "the", "less", "pollution", "there", "is"],
+      "distractors": ["few", "little", "pollute"],
+      "correctSentence": "The fewer cars on the road the less pollution there is",
+      "acceptedAnswers": [
+        "The fewer cars on the road the less pollution there is",
+        "The fewer cars on the road, the less pollution there is",
+        "The fewer cars on the road the less pollution there is.",
+        "The fewer cars on the road, the less pollution there is."
+      ],
+      "hints": ["The fewer + N, the less + N"],
+      "points": 10
+    },
+    {
+      "id": 44,
+      "type": "multiple-choice",
+      "question": "The __________ it gets in winter, the higher the heating bills are.",
+      "options": ["colder", "cold", "coldest", "more cold"],
+      "correctIndex": 0,
+      "explanation": "So sánh kép: cold → colder",
+      "hints": ["Tính từ ngắn thêm -er"],
+      "points": 10
+    },
+    {
+      "id": 45,
+      "type": "multiple-choice",
+      "question": "Many small businesses can't __________ such a low income.",
+      "options": ["live on", "set up", "turn down", "hang out"],
+      "correctIndex": 0,
+      "explanation": "Live on = sống nhờ vào",
+      "hints": ["Nghĩa 'sống bằng thu nhập'"],
+      "points": 10
+    },
+    {
+      "id": 46,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["The", "more", "polluted", "the", "air", "becomes", "the", "more", "health", "issues", "arise"],
+      "distractors": ["pollute", "pollution", "healthy"],
+      "correctSentence": "The more polluted the air becomes the more health issues arise",
+      "acceptedAnswers": [
+        "The more polluted the air becomes the more health issues arise",
+        "The more polluted the air becomes, the more health issues arise",
+        "The more polluted the air becomes the more health issues arise.",
+        "The more polluted the air becomes, the more health issues arise."
+      ],
+      "hints": ["The more + tính từ dài"],
+      "points": 10
+    },
+    {
+      "id": 47,
+      "type": "multiple-choice",
+      "question": "The __________ the population grows, the more housing we need.",
+      "options": ["faster", "fast", "fastest", "more fast"],
+      "correctIndex": 0,
+      "explanation": "So sánh kép: fast → faster",
+      "hints": ["Tính từ ngắn thêm -er"],
+      "points": 10
+    },
+    {
+      "id": 48,
+      "type": "multiple-choice",
+      "question": "The scientist will __________ important research next month.",
+      "options": ["carry out", "hang out", "turn down", "close down"],
+      "correctIndex": 0,
+      "explanation": "Carry out = thực hiện (nghiên cứu)",
+      "hints": ["Nghĩa 'thực hiện nghiên cứu'"],
+      "points": 10
+    },
+    {
+      "id": 49,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["I", "always", "get", "stuck", "in", "traffic", "during", "rush", "hour"],
+      "distractors": ["sticking", "stuck", "sticks"],
+      "correctSentence": "I always get stuck in traffic during rush hour",
+      "acceptedAnswers": [
+        "I always get stuck in traffic during rush hour",
+        "I always get stuck in traffic during rush hour."
+      ],
+      "hints": ["get stuck in = bị kẹt"],
+      "points": 10
+    },
+    {
+      "id": 50,
+      "type": "multiple-choice",
+      "question": "The __________ the service, the more customers you attract.",
+      "options": ["better", "good", "best", "well"],
+      "correctIndex": 0,
+      "explanation": "So sánh kép: good → better",
+      "hints": ["Tính từ bất quy tắc"],
+      "points": 10
+    },
+    {
+      "id": 51,
+      "type": "multiple-choice",
+      "question": "The __________ you live from the center, the cheaper the rent.",
+      "options": ["farther", "far", "farthest", "more far"],
+      "correctIndex": 0,
+      "explanation": "So sánh kép: far → farther",
+      "hints": ["Tính từ bất quy tắc"],
+      "points": 10
+    },
+    {
+      "id": 52,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["The", "sooner", "we", "leave", "the", "earlier", "we", "will", "arrive"],
+      "distractors": ["soon", "early", "earliest"],
+      "correctSentence": "The sooner we leave the earlier we will arrive",
+      "acceptedAnswers": [
+        "The sooner we leave the earlier we will arrive",
+        "The sooner we leave, the earlier we will arrive",
+        "The sooner we leave the earlier we will arrive.",
+        "The sooner we leave, the earlier we will arrive."
+      ],
+      "hints": ["Soon → sooner, early → earlier"],
+      "points": 10
+    },
+    {
+      "id": 53,
+      "type": "multiple-choice",
+      "question": "The __________ children in a family, the more expenses parents have.",
+      "options": ["more", "most", "much", "many"],
+      "correctIndex": 0,
+      "explanation": "So sánh kép với danh từ: The more + N",
+      "hints": ["The more + danh từ đếm được"],
+      "points": 10
+    },
+    {
+      "id": 54,
+      "type": "multiple-choice",
+      "question": "The __________ students study, the higher their test scores are.",
+      "options": ["harder", "hard", "hardest", "more hard"],
+      "correctIndex": 0,
+      "explanation": "So sánh kép: hard → harder",
+      "hints": ["Tính từ ngắn thêm -er"],
+      "points": 10
+    },
+    {
+      "id": 55,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["The", "more", "friends", "you", "have", "the", "happier", "you", "are"],
+      "distractors": ["happy", "happiness", "friend"],
+      "correctSentence": "The more friends you have the happier you are",
+      "acceptedAnswers": [
+        "The more friends you have the happier you are",
+        "The more friends you have, the happier you are",
+        "The more friends you have the happier you are.",
+        "The more friends you have, the happier you are."
+      ],
+      "hints": ["The more + N, the + comparative"],
+      "points": 10
+    },
+    {
+      "id": 56,
+      "type": "multiple-choice",
+      "question": "The __________ public transportation, the less traffic congestion.",
+      "options": ["better", "good", "best", "well"],
+      "correctIndex": 0,
+      "explanation": "So sánh kép: good → better",
+      "hints": ["Tính từ bất quy tắc"],
+      "points": 10
+    },
+    {
+      "id": 57,
+      "type": "multiple-choice",
+      "question": "The __________ the weather gets, the more people stay indoors.",
+      "options": ["worse", "bad", "worst", "badly"],
+      "correctIndex": 0,
+      "explanation": "So sánh kép: bad → worse",
+      "hints": ["Tính từ bất quy tắc"],
+      "points": 10
+    },
+    {
+      "id": 58,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["The", "longer", "you", "wait", "the", "harder", "it", "becomes"],
+      "distractors": ["long", "hard", "waiting"],
+      "correctSentence": "The longer you wait the harder it becomes",
+      "acceptedAnswers": [
+        "The longer you wait the harder it becomes",
+        "The longer you wait, the harder it becomes",
+        "The longer you wait the harder it becomes.",
+        "The longer you wait, the harder it becomes."
+      ],
+      "hints": ["Long → longer, hard → harder"],
+      "points": 10
+    },
+    {
+      "id": 59,
+      "type": "multiple-choice",
+      "question": "The __________ parking spaces, the bigger the parking problem.",
+      "options": ["fewer", "few", "fewest", "less"],
+      "correctIndex": 0,
+      "explanation": "So sánh kép: few → fewer (với danh từ đếm được)",
+      "hints": ["Few → fewer với danh từ đếm được"],
+      "points": 10
+    },
+    {
+      "id": 60,
+      "type": "multiple-choice",
+      "question": "The __________ the city becomes, the more modern facilities it has.",
+      "options": ["richer", "rich", "richest", "more rich"],
+      "correctIndex": 0,
+      "explanation": "So sánh kép: rich → richer",
+      "hints": ["Tính từ ngắn thêm -er"],
+      "points": 10
+    },
+    {
+      "id": 61,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["The", "more", "convenient", "the", "location", "the", "higher", "the", "price"],
+      "distractors": ["convenience", "conveniently", "high"],
+      "correctSentence": "The more convenient the location the higher the price",
+      "acceptedAnswers": [
+        "The more convenient the location the higher the price",
+        "The more convenient the location, the higher the price",
+        "The more convenient the location the higher the price.",
+        "The more convenient the location, the higher the price."
+      ],
+      "hints": ["The more + tính từ dài, the + comparative"],
+      "points": 10
+    },
+    {
+      "id": 62,
+      "type": "multiple-choice",
+      "question": "The __________ time you spend on social media, the less productive you are.",
+      "options": ["more", "most", "much", "many"],
+      "correctIndex": 0,
+      "explanation": "So sánh kép với danh từ: The more + time",
+      "hints": ["The more + danh từ không đếm được"],
+      "points": 10
+    },
+    {
+      "id": 63,
+      "type": "multiple-choice",
+      "question": "The __________ the neighborhood, the safer residents feel.",
+      "options": ["quieter", "quiet", "quietest", "more quiet"],
+      "correctIndex": 0,
+      "explanation": "So sánh kép: quiet → quieter",
+      "hints": ["Tính từ 2 âm tiết -et thêm -er"],
+      "points": 10
+    },
+    {
+      "id": 64,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["The", "less", "noise", "pollution", "the", "better", "quality", "of", "life"],
+      "distractors": ["noisy", "little", "good"],
+      "correctSentence": "The less noise pollution the better quality of life",
+      "acceptedAnswers": [
+        "The less noise pollution the better quality of life",
+        "The less noise pollution, the better quality of life",
+        "The less noise pollution the better quality of life.",
+        "The less noise pollution, the better quality of life."
+      ],
+      "hints": ["The less + N, the better + N"],
+      "points": 10
+    },
+    {
+      "id": 65,
+      "type": "multiple-choice",
+      "question": "The __________ shops in the area, the more shopping options you have.",
+      "options": ["more", "most", "much", "many"],
+      "correctIndex": 0,
+      "explanation": "So sánh kép: The more + N",
+      "hints": ["The more + danh từ"],
+      "points": 10
+    },
+    {
+      "id": 66,
+      "type": "multiple-choice",
+      "question": "The __________ you get to know the city, the more you love it.",
+      "options": ["better", "good", "best", "well"],
+      "correctIndex": 0,
+      "explanation": "So sánh kép: well → better",
+      "hints": ["Well → better → best"],
+      "points": 10
+    },
+    {
+      "id": 67,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["The", "wider", "the", "streets", "the", "easier", "traffic", "flows"],
+      "distractors": ["wide", "easy", "flowing"],
+      "correctSentence": "The wider the streets the easier traffic flows",
+      "acceptedAnswers": [
+        "The wider the streets the easier traffic flows",
+        "The wider the streets, the easier traffic flows",
+        "The wider the streets the easier traffic flows.",
+        "The wider the streets, the easier traffic flows."
+      ],
+      "hints": ["Wide → wider, easy → easier"],
+      "points": 10
+    },
+    {
+      "id": 68,
+      "type": "multiple-choice",
+      "question": "The __________ green spaces in the city, the fresher the air.",
+      "options": ["more", "most", "much", "many"],
+      "correctIndex": 0,
+      "explanation": "So sánh kép: The more + N",
+      "hints": ["The more + danh từ"],
+      "points": 10
+    },
+    {
+      "id": 69,
+      "type": "multiple-choice",
+      "question": "The __________ developed the infrastructure, the more attractive the city is to investors.",
+      "options": ["better", "good", "best", "well"],
+      "correctIndex": 0,
+      "explanation": "So sánh kép: well developed → better developed",
+      "hints": ["Well → better"],
+      "points": 10
+    },
+    {
+      "id": 70,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["The", "more", "entertainment", "options", "the", "more", "tourists", "visit"],
+      "distractors": ["entertain", "tourist", "visiting"],
+      "correctSentence": "The more entertainment options the more tourists visit",
+      "acceptedAnswers": [
+        "The more entertainment options the more tourists visit",
+        "The more entertainment options, the more tourists visit",
+        "The more entertainment options the more tourists visit.",
+        "The more entertainment options, the more tourists visit."
+      ],
+      "hints": ["The more + N, the more + N"],
+      "points": 10
+    },
+    {
+      "id": 71,
+      "type": "multiple-choice",
+      "question": "The __________ the rush hour, the slower the traffic moves.",
+      "options": ["busier", "busy", "busiest", "more busy"],
+      "correctIndex": 0,
+      "explanation": "So sánh kép: busy → busier",
+      "hints": ["Busy → busier"],
+      "points": 10
+    },
+    {
+      "id": 72,
+      "type": "multiple-choice",
+      "question": "The __________ restaurants there are, the more dining choices people have.",
+      "options": ["more", "most", "much", "many"],
+      "correctIndex": 0,
+      "explanation": "So sánh kép: The more + N",
+      "hints": ["The more + danh từ đếm được"],
+      "points": 10
+    },
+    {
+      "id": 73,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["The", "cleaner", "the", "environment", "the", "healthier", "people", "are"],
+      "distractors": ["clean", "health", "healthy"],
+      "correctSentence": "The cleaner the environment the healthier people are",
+      "acceptedAnswers": [
+        "The cleaner the environment the healthier people are",
+        "The cleaner the environment, the healthier people are",
+        "The cleaner the environment the healthier people are.",
+        "The cleaner the environment, the healthier people are."
+      ],
+      "hints": ["Clean → cleaner, healthy → healthier"],
+      "points": 10
+    },
+    {
+      "id": 74,
+      "type": "multiple-choice",
+      "question": "The __________ job opportunities, the more people migrate to the city.",
+      "options": ["more", "most", "much", "many"],
+      "correctIndex": 0,
+      "explanation": "So sánh kép: The more + N",
+      "hints": ["The more + danh từ"],
+      "points": 10
+    },
+    {
+      "id": 75,
+      "type": "multiple-choice",
+      "question": "The __________ educated the workforce, the more competitive the economy.",
+      "options": ["better", "good", "best", "well"],
+      "correctIndex": 0,
+      "explanation": "So sánh kép: well educated → better educated",
+      "hints": ["Well → better"],
+      "points": 10
+    },
+    {
+      "id": 76,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["The", "safer", "the", "city", "the", "more", "families", "want", "to", "live", "there"],
+      "distractors": ["safe", "family", "living"],
+      "correctSentence": "The safer the city the more families want to live there",
+      "acceptedAnswers": [
+        "The safer the city the more families want to live there",
+        "The safer the city, the more families want to live there",
+        "The safer the city the more families want to live there.",
+        "The safer the city, the more families want to live there."
+      ],
+      "hints": ["Safe → safer, the more + N"],
+      "points": 10
+    },
+    {
+      "id": 77,
+      "type": "multiple-choice",
+      "question": "The __________ the city expands, the more land is needed.",
+      "options": ["faster", "fast", "fastest", "more fast"],
+      "correctIndex": 0,
+      "explanation": "So sánh kép: fast → faster",
+      "hints": ["Fast → faster"],
+      "points": 10
+    },
+    {
+      "id": 78,
+      "type": "multiple-choice",
+      "question": "The __________ crime rate, the less safe people feel.",
+      "options": ["higher", "high", "highest", "more high"],
+      "correctIndex": 0,
+      "explanation": "So sánh kép: high → higher",
+      "hints": ["High → higher"],
+      "points": 10
+    },
+    {
+      "id": 79,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["The", "more", "modern", "the", "hospital", "the", "better", "healthcare", "services"],
+      "distractors": ["modernity", "good", "service"],
+      "correctSentence": "The more modern the hospital the better healthcare services",
+      "acceptedAnswers": [
+        "The more modern the hospital the better healthcare services",
+        "The more modern the hospital, the better healthcare services",
+        "The more modern the hospital the better healthcare services.",
+        "The more modern the hospital, the better healthcare services."
+      ],
+      "hints": ["The more + tính từ dài, the better + N"],
+      "points": 10
+    },
+    {
+      "id": 80,
+      "type": "multiple-choice",
+      "question": "The __________ planning, the smoother the project runs.",
+      "options": ["better", "good", "best", "well"],
+      "correctIndex": 0,
+      "explanation": "So sánh kép: good → better",
+      "hints": ["Good → better"],
+      "points": 10
+    },
+    {
+      "id": 81,
+      "type": "multiple-choice",
+      "question": "The __________ public parks, the greener the city becomes.",
+      "options": ["more", "most", "much", "many"],
+      "correctIndex": 0,
+      "explanation": "So sánh kép: The more + N",
+      "hints": ["The more + danh từ"],
+      "points": 10
+    },
+    {
+      "id": 82,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["The", "smaller", "the", "apartment", "the", "cheaper", "the", "rent"],
+      "distractors": ["small", "cheap", "renting"],
+      "correctSentence": "The smaller the apartment the cheaper the rent",
+      "acceptedAnswers": [
+        "The smaller the apartment the cheaper the rent",
+        "The smaller the apartment, the cheaper the rent",
+        "The smaller the apartment the cheaper the rent.",
+        "The smaller the apartment, the cheaper the rent."
+      ],
+      "hints": ["Small → smaller, cheap → cheaper"],
+      "points": 10
+    },
+    {
+      "id": 83,
+      "type": "multiple-choice",
+      "question": "The __________ the city invests in education, the smarter the future workforce.",
+      "options": ["more", "most", "much", "many"],
+      "correctIndex": 0,
+      "explanation": "So sánh kép: The more + S + V",
+      "hints": ["The more + động từ"],
+      "points": 10
+    },
+    {
+      "id": 84,
+      "type": "multiple-choice",
+      "question": "The __________ construction projects, the noisier the city gets.",
+      "options": ["more", "most", "much", "many"],
+      "correctIndex": 0,
+      "explanation": "So sánh kép: The more + N",
+      "hints": ["The more + danh từ"],
+      "points": 10
+    },
+    {
+      "id": 85,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["The", "nearer", "the", "school", "the", "more", "convenient", "for", "students"],
+      "distractors": ["near", "convenience", "student"],
+      "correctSentence": "The nearer the school the more convenient for students",
+      "acceptedAnswers": [
+        "The nearer the school the more convenient for students",
+        "The nearer the school, the more convenient for students",
+        "The nearer the school the more convenient for students.",
+        "The nearer the school, the more convenient for students."
+      ],
+      "hints": ["Near → nearer, the more + tính từ dài"],
+      "points": 10
+    },
+    {
+      "id": 86,
+      "type": "multiple-choice",
+      "question": "The __________ factories operate, the worse the air quality becomes.",
+      "options": ["more", "most", "much", "many"],
+      "correctIndex": 0,
+      "explanation": "So sánh kép: The more + N",
+      "hints": ["The more + danh từ"],
+      "points": 10
+    },
+    {
+      "id": 87,
+      "type": "multiple-choice",
+      "question": "The __________ connected the city, the easier people can travel.",
+      "options": ["better", "good", "best", "well"],
+      "correctIndex": 0,
+      "explanation": "So sánh kép: well connected → better connected",
+      "hints": ["Well → better"],
+      "points": 10
+    },
+    {
+      "id": 88,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["The", "older", "the", "buildings", "the", "more", "maintenance", "they", "need"],
+      "distractors": ["old", "maintain", "needing"],
+      "correctSentence": "The older the buildings the more maintenance they need",
+      "acceptedAnswers": [
+        "The older the buildings the more maintenance they need",
+        "The older the buildings, the more maintenance they need",
+        "The older the buildings the more maintenance they need.",
+        "The older the buildings, the more maintenance they need."
+      ],
+      "hints": ["Old → older, the more + danh từ"],
+      "points": 10
+    },
+    {
+      "id": 89,
+      "type": "multiple-choice",
+      "question": "The __________ bike lanes, the safer cycling becomes.",
+      "options": ["more", "most", "much", "many"],
+      "correctIndex": 0,
+      "explanation": "So sánh kép: The more + N",
+      "hints": ["The more + danh từ"],
+      "points": 10
+    },
+    {
+      "id": 90,
+      "type": "multiple-choice",
+      "question": "The __________ diverse the community, the richer the cultural experience.",
+      "options": ["more", "most", "much", "many"],
+      "correctIndex": 0,
+      "explanation": "So sánh kép: The more + tính từ dài",
+      "hints": ["The more + tính từ dài"],
+      "points": 10
+    },
+    {
+      "id": 91,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["The", "stronger", "the", "economy", "the", "better", "living", "standards"],
+      "distractors": ["strong", "good", "live"],
+      "correctSentence": "The stronger the economy the better living standards",
+      "acceptedAnswers": [
+        "The stronger the economy the better living standards",
+        "The stronger the economy, the better living standards",
+        "The stronger the economy the better living standards.",
+        "The stronger the economy, the better living standards."
+      ],
+      "hints": ["Strong → stronger, good → better"],
+      "points": 10
+    },
+    {
+      "id": 92,
+      "type": "multiple-choice",
+      "question": "The __________ street lights, the darker and more dangerous the area.",
+      "options": ["fewer", "few", "fewest", "less"],
+      "correctIndex": 0,
+      "explanation": "So sánh kép: few → fewer (với danh từ đếm được)",
+      "hints": ["Few → fewer"],
+      "points": 10
+    },
+    {
+      "id": 93,
+      "type": "multiple-choice",
+      "question": "The __________ you wait to buy tickets, the more expensive they become.",
+      "options": ["longer", "long", "longest", "more long"],
+      "correctIndex": 0,
+      "explanation": "So sánh kép: long → longer",
+      "hints": ["Long → longer"],
+      "points": 10
+    },
+    {
+      "id": 94,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["The", "more", "accessible", "public", "transport", "the", "fewer", "private", "cars"],
+      "distractors": ["access", "few", "privately"],
+      "correctSentence": "The more accessible public transport the fewer private cars",
+      "acceptedAnswers": [
+        "The more accessible public transport the fewer private cars",
+        "The more accessible public transport, the fewer private cars",
+        "The more accessible public transport the fewer private cars.",
+        "The more accessible public transport, the fewer private cars."
+      ],
+      "hints": ["The more + tính từ dài, the fewer + N"],
+      "points": 10
+    },
+    {
+      "id": 95,
+      "type": "multiple-choice",
+      "question": "The __________ weather conditions, the more delays in transportation.",
+      "options": ["worse", "bad", "worst", "badly"],
+      "correctIndex": 0,
+      "explanation": "So sánh kép: bad → worse",
+      "hints": ["Bad → worse"],
+      "points": 10
+    },
+    {
+      "id": 96,
+      "type": "multiple-choice",
+      "question": "The __________ recycling programs, the less waste goes to landfills.",
+      "options": ["more", "most", "much", "many"],
+      "correctIndex": 0,
+      "explanation": "So sánh kép: The more + N",
+      "hints": ["The more + danh từ"],
+      "points": 10
+    },
+    {
+      "id": 97,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["The", "brighter", "the", "lights", "the", "easier", "it", "is", "to", "see"],
+      "distractors": ["bright", "easy", "seeing"],
+      "correctSentence": "The brighter the lights the easier it is to see",
+      "acceptedAnswers": [
+        "The brighter the lights the easier it is to see",
+        "The brighter the lights, the easier it is to see",
+        "The brighter the lights the easier it is to see.",
+        "The brighter the lights, the easier it is to see."
+      ],
+      "hints": ["Bright → brighter, easy → easier"],
+      "points": 10
+    },
+    {
+      "id": 98,
+      "type": "multiple-choice",
+      "question": "The __________ schools in the area, the more educational opportunities.",
+      "options": ["more", "most", "much", "many"],
+      "correctIndex": 0,
+      "explanation": "So sánh kép: The more + N",
+      "hints": ["The more + danh từ"],
+      "points": 10
+    },
+    {
+      "id": 99,
+      "type": "multiple-choice",
+      "question": "The __________ prepared you are, the less stressed you feel.",
+      "options": ["better", "good", "best", "well"],
+      "correctIndex": 0,
+      "explanation": "So sánh kép: well prepared → better prepared",
+      "hints": ["Well → better"],
+      "points": 10
+    },
+    {
+      "id": 100,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["The", "more", "you", "explore", "the", "city", "the", "more", "you", "discover"],
+      "distractors": ["exploring", "discovery", "discoverer"],
+      "correctSentence": "The more you explore the city the more you discover",
+      "acceptedAnswers": [
+        "The more you explore the city the more you discover",
+        "The more you explore the city, the more you discover",
+        "The more you explore the city the more you discover.",
+        "The more you explore the city, the more you discover."
+      ],
+      "hints": ["The more + S + V, the more + S + V"],
+      "points": 10
+    }
+  ]
+}

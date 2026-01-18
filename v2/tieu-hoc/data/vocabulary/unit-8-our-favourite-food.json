@@ -1,0 +1,176 @@
+{
+  "unitId": "unit-8-our-favourite-food",
+  "unitTitle": "Unit 8: Our Favourite Food - First Conditional",
+  "vocabularyData": {
+    "grammarTerms": [
+      {
+        "word": "conditional",
+        "vietnamese": "câu điều kiện",
+        "pronunciation": "/kənˈdɪʃənl/",
+        "definition": "A sentence that describes a condition and its result",
+        "example": "If you study, you will pass. (conditional sentence)",
+        "difficulty": "advanced"
+      },
+      {
+        "word": "clause",
+        "vietnamese": "mệnh đề",
+        "pronunciation": "/klɔːz/",
+        "definition": "A part of a sentence with a subject and verb",
+        "example": "The if-clause comes first in this sentence.",
+        "difficulty": "intermediate"
+      },
+      {
+        "word": "affirmative",
+        "vietnamese": "khẳng định",
+        "pronunciation": "/əˈfɜːrmətɪv/",
+        "definition": "A positive statement (not negative)",
+        "example": "If it rains, we will stay home. (affirmative)",
+        "difficulty": "intermediate"
+      },
+      {
+        "word": "negative",
+        "vietnamese": "phủ định",
+        "pronunciation": "/ˈneɡətɪv/",
+        "definition": "A statement that uses 'not'",
+        "example": "If it rains, we won't go out. (negative)",
+        "difficulty": "basic"
+      }
+    ],
+    "difficultWords": [
+      {
+        "word": "biscuits",
+        "vietnamese": "bánh quy",
+        "pronunciation": "/ˈbɪskɪts/",
+        "definition": "Small baked cookies",
+        "example": "If we buy some biscuits, we'll have something for the party.",
+        "difficulty": "basic"
+      },
+      {
+        "word": "additives",
+        "vietnamese": "chất phụ gia",
+        "pronunciation": "/ˈædɪtɪvz/",
+        "definition": "Chemicals added to food",
+        "example": "Healthy food isn't made with additives.",
+        "difficulty": "advanced"
+      },
+      {
+        "word": "vitamins",
+        "vietnamese": "vi-ta-min",
+        "pronunciation": "/ˈvaɪtəmɪnz/",
+        "definition": "Nutrients needed for health",
+        "example": "You'll get all the vitamins you need.",
+        "difficulty": "intermediate"
+      },
+      {
+        "word": "unhealthy",
+        "vietnamese": "không lành mạnh",
+        "pronunciation": "/ʌnˈhelθi/",
+        "definition": "Not good for health",
+        "example": "We won't have to eat unhealthy food.",
+        "difficulty": "basic"
+      },
+      {
+        "word": "junk food",
+        "vietnamese": "đồ ăn vặt không lành mạnh",
+        "pronunciation": "/dʒʌŋk fuːd/",
+        "definition": "Food with little nutritional value",
+        "example": "You'll get tired if you eat too much junk food.",
+        "difficulty": "intermediate"
+      },
+      {
+        "word": "asparagus",
+        "vietnamese": "măng tây",
+        "pronunciation": "/əˈspærəɡəs/",
+        "definition": "A green vegetable with long stems",
+        "example": "If I have good asparagus, I'll make soup.",
+        "difficulty": "advanced"
+      },
+      {
+        "word": "ingredients",
+        "vietnamese": "nguyên liệu",
+        "pronunciation": "/ɪnˈɡriːdiənts/",
+        "definition": "Food items used in cooking",
+        "example": "If you find good ingredients, what will you cook?",
+        "difficulty": "intermediate"
+      },
+      {
+        "word": "chef",
+        "vietnamese": "đầu bếp",
+        "pronunciation": "/ʃef/",
+        "definition": "A professional cook",
+        "example": "TV chef Anton Le Gaston makes delicious food.",
+        "difficulty": "basic"
+      }
+    ],
+    "keyPhrases": [
+      {
+        "phrase": "If + present simple, will + verb",
+        "vietnamese": "Nếu...thì sẽ...",
+        "structure": "If + subject + present simple, subject + will + verb",
+        "definition": "First conditional structure for real future possibilities",
+        "example": "If we buy biscuits, we'll have something for the party.",
+        "usage": "Use for real future conditions"
+      },
+      {
+        "phrase": "If + present simple, won't + verb",
+        "vietnamese": "Nếu...thì sẽ không...",
+        "structure": "If + subject + present simple, subject + won't + verb",
+        "definition": "Negative result in first conditional",
+        "example": "If we take fruit cake, we won't have to eat unhealthy food.",
+        "usage": "Negative result of condition"
+      },
+      {
+        "phrase": "home-made",
+        "vietnamese": "tự làm tại nhà",
+        "structure": "compound adjective",
+        "definition": "Made at home, not bought",
+        "example": "If we take a home-made fruit cake...",
+        "usage": "Describes food made at home"
+      }
+    ],
+    "usefulExpressions": [
+      {
+        "expression": "fruit cake",
+        "vietnamese": "bánh trái cây",
+        "example": "If we take a home-made fruit cake...",
+        "type": "compound noun"
+      },
+      {
+        "expression": "have to eat",
+        "vietnamese": "phải ăn",
+        "example": "We won't have to eat unhealthy food.",
+        "type": "modal + verb"
+      },
+      {
+        "expression": "lots of energy",
+        "vietnamese": "nhiều năng lượng",
+        "example": "You will be strong and have lots of energy.",
+        "type": "collocation"
+      },
+      {
+        "expression": "get ill",
+        "vietnamese": "bị ốm",
+        "example": "If you eat well, you won't get ill very often.",
+        "type": "get + adjective"
+      },
+      {
+        "expression": "do well at school",
+        "vietnamese": "học tốt ở trường",
+        "example": "If you're tired, you won't do as well at school.",
+        "type": "collocation"
+      },
+      {
+        "expression": "eat well",
+        "vietnamese": "ăn uống tốt/lành mạnh",
+        "example": "If you eat well, you won't get ill.",
+        "type": "collocation"
+      },
+      {
+        "expression": "get tired easily",
+        "vietnamese": "dễ mệt",
+        "example": "You'll get tired easily if you eat junk food.",
+        "type": "get + adjective + adverb"
+      }
+    ]
+  }
+}

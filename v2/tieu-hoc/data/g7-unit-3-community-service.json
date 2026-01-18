@@ -1,0 +1,547 @@
+{
+  "unitId": "g7-unit-3-community-service",
+  "title": "Unit 3: Community Service - Past Simple Tense",
+  "studentName": "Tran Gia Hung",
+  "grade": 7,
+  "grammarTopics": [
+    "Past Simple Tense",
+    "Regular and Irregular Verbs",
+    "Time Expressions",
+    "Community Service Vocabulary"
+  ],
+  "theory": {
+    "brief": "Thì quá khứ đơn diễn tả hành động đã xảy ra và kết thúc trong quá khứ. Khẳng định: S + V2/Ved. Phủ định: S + didn't + V0. Nghi vấn: Did + S + V0? Dấu hiệu: yesterday, last week/month/year, ago, in + năm quá khứ.",
+    "examples": [
+      "I volunteered at the hospital last month. (Tôi đã làm tình nguyện ở bệnh viện tháng trước.)",
+      "They helped clean the park yesterday. (Họ đã giúp dọn dẹp công viên hôm qua.)",
+      "She didn't donate books. (Cô ấy đã không quyên góp sách.)",
+      "Did you visit the nursing home? (Bạn đã đi thăm viện dưỡng lão chưa?)",
+      "We planted trees three weeks ago. (Chúng tôi đã trồng cây ba tuần trước.)"
+    ]
+  },
+  "exercises": [
+    {
+      "id": "g7u3-ex1",
+      "type": "fill-blank",
+      "question": "I _______ (volunteer) at the hospital last month.",
+      "wordHint": "(volunteer)",
+      "answer": "volunteered",
+      "acceptedAnswers": [
+        "volunteered"
+      ],
+      "hints": [
+        "Động từ quy tắc: volunteer → volunteered"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u3-ex2",
+      "type": "fill-blank",
+      "question": "They _______ (help) clean the park yesterday.",
+      "wordHint": "(help)",
+      "answer": "helped",
+      "acceptedAnswers": [
+        "helped"
+      ],
+      "hints": [
+        "Động từ quy tắc: help → helped"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u3-ex3",
+      "type": "fill-blank",
+      "question": "She _______ (donate) books to the library.",
+      "wordHint": "(donate)",
+      "answer": "donated",
+      "acceptedAnswers": [
+        "donated"
+      ],
+      "hints": [
+        "donate → donated"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u3-ex4",
+      "type": "fill-blank",
+      "question": "We _______ (plant) trees last Sunday.",
+      "wordHint": "(plant)",
+      "answer": "planted",
+      "acceptedAnswers": [
+        "planted"
+      ],
+      "hints": [
+        "plant → planted"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u3-ex5",
+      "type": "fill-blank",
+      "question": "He _______ (collect) trash on the beach.",
+      "wordHint": "(collect)",
+      "answer": "collected",
+      "acceptedAnswers": [
+        "collected"
+      ],
+      "hints": [
+        "collect → collected"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u3-ex6",
+      "type": "fill-blank",
+      "question": "I _______ (give) clothes to poor children.",
+      "wordHint": "(give)",
+      "answer": "gave",
+      "acceptedAnswers": [
+        "gave"
+      ],
+      "hints": [
+        "Động từ bất quy tắc: give → gave"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u3-ex7",
+      "type": "fill-blank",
+      "question": "They _______ (teach) English to street children.",
+      "wordHint": "(teach)",
+      "answer": "taught",
+      "acceptedAnswers": [
+        "taught"
+      ],
+      "hints": [
+        "Động từ bất quy tắc: teach → taught"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u3-ex8",
+      "type": "fill-blank",
+      "question": "She _______ (take) care of elderly people.",
+      "wordHint": "(take)",
+      "answer": "took",
+      "acceptedAnswers": [
+        "took"
+      ],
+      "hints": [
+        "Động từ bất quy tắc: take → took"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u3-ex9",
+      "type": "fill-blank",
+      "question": "We _______ (make) toys for orphans.",
+      "wordHint": "(make)",
+      "answer": "made",
+      "acceptedAnswers": [
+        "made"
+      ],
+      "hints": [
+        "Động từ bất quy tắc: make → made"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u3-ex10",
+      "type": "fill-blank",
+      "question": "He _______ (write) letters to sick children.",
+      "wordHint": "(write)",
+      "answer": "wrote",
+      "acceptedAnswers": [
+        "wrote"
+      ],
+      "hints": [
+        "Động từ bất quy tắc: write → wrote"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u3-ex11",
+      "type": "fill-blank",
+      "question": "She _______ (not volunteer) last week.",
+      "wordHint": "(not volunteer)",
+      "answer": "didn't volunteer",
+      "acceptedAnswers": [
+        "didn't volunteer",
+        "did not volunteer"
+      ],
+      "hints": [
+        "Phủ định: didn't + V0"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u3-ex12",
+      "type": "fill-blank",
+      "question": "They _______ (not donate) money yesterday.",
+      "wordHint": "(not donate)",
+      "answer": "didn't donate",
+      "acceptedAnswers": [
+        "didn't donate",
+        "did not donate"
+      ],
+      "hints": [
+        "didn't + V0"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u3-ex13",
+      "type": "fill-blank",
+      "question": "_______ you _______ (visit) the nursing home?",
+      "wordHint": "Did/visit",
+      "answer": "Did visit",
+      "acceptedAnswers": [
+        "Did visit",
+        "Did you visit",
+        "Did-visit"
+      ],
+      "hints": [
+        "Câu hỏi: Did + S + V0?"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u3-ex14",
+      "type": "fill-blank",
+      "question": "_______ she _______ (help) the elderly?",
+      "wordHint": "Did/help",
+      "answer": "Did help",
+      "acceptedAnswers": [
+        "Did help",
+        "Did she help",
+        "Did-help"
+      ],
+      "hints": [
+        "Did + S + V0?"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u3-ex15",
+      "type": "fill-blank",
+      "question": "We helped clean the beach _______ weeks ago.",
+      "wordHint": "ba",
+      "answer": "three",
+      "acceptedAnswers": [
+        "three",
+        "3"
+      ],
+      "hints": [
+        "số + weeks/months/years + ago"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u3-ex16",
+      "type": "multiple-choice",
+      "question": "I _______ at a charity event last Saturday.",
+      "options": [
+        "work",
+        "worked",
+        "working",
+        "works"
+      ],
+      "correctIndex": 1,
+      "explanation": "Thì quá khứ đơn: work → worked",
+      "hints": [
+        "'last Saturday' là dấu hiệu quá khứ"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u3-ex17",
+      "type": "multiple-choice",
+      "question": "They _______ food to homeless people yesterday.",
+      "options": [
+        "give",
+        "gave",
+        "giving",
+        "gives"
+      ],
+      "correctIndex": 1,
+      "explanation": "Động từ bất quy tắc: give → gave",
+      "hints": [
+        "give → gave"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u3-ex18",
+      "type": "multiple-choice",
+      "question": "She _______ volunteer last month.",
+      "options": [
+        "doesn't",
+        "didn't",
+        "don't",
+        "isn't"
+      ],
+      "correctIndex": 1,
+      "explanation": "Phủ định quá khứ: didn't + V0",
+      "hints": [
+        "'last month' → quá khứ"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u3-ex19",
+      "type": "multiple-choice",
+      "question": "_______ you donate books to the library?",
+      "options": [
+        "Do",
+        "Does",
+        "Did",
+        "Are"
+      ],
+      "correctIndex": 2,
+      "explanation": "Câu hỏi quá khứ: Did + S + V0?",
+      "hints": [
+        "Câu hỏi quá khứ đơn"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u3-ex20",
+      "type": "multiple-choice",
+      "question": "We planted trees _______ ago.",
+      "options": [
+        "tomorrow",
+        "next week",
+        "two weeks",
+        "yesterday"
+      ],
+      "correctIndex": 2,
+      "explanation": "time + ago (thời gian + trước đây)",
+      "hints": [
+        "số + time + ago"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u3-ex21",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "I volunteered at the hospital last month.",
+        "I volunteered at the hospital last month"
+      ],
+      "hints": [
+        "S + V2 + place + time"
+      ],
+      "points": 15,
+      "correctSentence": "I volunteered at the hospital last month.",
+      "words": [
+        "volunteered",
+        "I",
+        "hospital",
+        "the",
+        "at",
+        "month",
+        "last"
+      ]
+    },
+    {
+      "id": "g7u3-ex22",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "They helped clean the park yesterday.",
+        "They helped clean the park yesterday"
+      ],
+      "hints": [
+        "S + helped + V0 + O"
+      ],
+      "points": 15,
+      "correctSentence": "They helped clean the park yesterday.",
+      "words": [
+        "helped",
+        "they",
+        "park",
+        "clean",
+        "the",
+        "yesterday"
+      ]
+    },
+    {
+      "id": "g7u3-ex23",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "She didn't donate books.",
+        "She didn't donate books"
+      ],
+      "hints": [
+        "S + didn't + V0 + O"
+      ],
+      "points": 15,
+      "correctSentence": "She didn't donate books.",
+      "words": [
+        "didn't",
+        "she",
+        "books",
+        "donate"
+      ]
+    },
+    {
+      "id": "g7u3-ex24",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "Did you visit the nursing home?",
+        "Did you visit the nursing home"
+      ],
+      "hints": [
+        "Did + S + V0 + O?"
+      ],
+      "points": 15,
+      "correctSentence": "Did you visit the nursing home?",
+      "words": [
+        "you",
+        "visit",
+        "did",
+        "home",
+        "nursing",
+        "the"
+      ]
+    },
+    {
+      "id": "g7u3-ex25",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "We planted trees last Sunday.",
+        "We planted trees last Sunday"
+      ],
+      "hints": [
+        "S + V2 + O + time"
+      ],
+      "points": 15,
+      "correctSentence": "We planted trees last Sunday.",
+      "words": [
+        "planted",
+        "we",
+        "trees",
+        "Sunday",
+        "last"
+      ]
+    },
+    {
+      "id": "g7u3-ex26",
+      "type": "error-correct",
+      "wrongSentence": "I help clean the park yesterday.",
+      "correctSentence": "I helped clean the park yesterday.",
+      "errorWord": "help",
+      "correction": "helped",
+      "explanation": "'yesterday' → thì quá khứ đơn",
+      "hints": [
+        "yesterday → V2"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u3-ex27",
+      "type": "error-correct",
+      "wrongSentence": "She gived clothes to poor people.",
+      "correctSentence": "She gave clothes to poor people.",
+      "errorWord": "gived",
+      "correction": "gave",
+      "explanation": "give → gave (bất quy tắc)",
+      "hints": [
+        "give → gave"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u3-ex28",
+      "type": "error-correct",
+      "wrongSentence": "They didn't donated books.",
+      "correctSentence": "They didn't donate books.",
+      "errorWord": "donated",
+      "correction": "donate",
+      "explanation": "didn't + V0 (không thêm -ed)",
+      "hints": [
+        "didn't + V0"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u3-ex29",
+      "type": "error-correct",
+      "wrongSentence": "Do you volunteer last week?",
+      "correctSentence": "Did you volunteer last week?",
+      "errorWord": "Do",
+      "correction": "Did",
+      "explanation": "'last week' → thì quá khứ → Did",
+      "hints": [
+        "last week → Did"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u3-ex30",
+      "type": "error-correct",
+      "wrongSentence": "We taked care of sick children.",
+      "correctSentence": "We took care of sick children.",
+      "errorWord": "taked",
+      "correction": "took",
+      "explanation": "take → took (bất quy tắc)",
+      "hints": [
+        "take → took"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u3-ex31",
+      "type": "translation",
+      "vietnamese": "Tôi đã làm tình nguyện ở bệnh viện tuần trước.",
+      "answer": "I volunteered at the hospital last week.",
+      "acceptedAnswers": [
+        "I volunteered at the hospital last week.",
+        "I volunteered at the hospital last week",
+        "I volunteered in the hospital last week.",
+        "I volunteered in the hospital last week"
+      ],
+      "hints": [
+        "S + V2 + at/in + place + time"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u3-ex32",
+      "type": "translation",
+      "vietnamese": "Họ đã quyên góp sách cho trẻ em nghèo.",
+      "answer": "They donated books to poor children.",
+      "acceptedAnswers": [
+        "They donated books to poor children.",
+        "They donated books to poor children",
+        "They donated books for poor children.",
+        "They donated books for poor children"
+      ],
+      "hints": [
+        "donate + O + to/for + người"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u3-ex33",
+      "type": "translation",
+      "vietnamese": "Cô ấy đã không đi thăm viện dưỡng lão.",
+      "answer": "She didn't visit the nursing home.",
+      "acceptedAnswers": [
+        "She didn't visit the nursing home.",
+        "She didn't visit the nursing home",
+        "She did not visit the nursing home.",
+        "She did not visit the nursing home"
+      ],
+      "hints": [
+        "S + didn't + V0"
+      ],
+      "points": 10
+    }
+  ]
+}

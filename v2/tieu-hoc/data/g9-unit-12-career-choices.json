@@ -1,0 +1,578 @@
+{
+  "unitId": "g9-unit-12-career-choices",
+  "title": "Grade 9 - Unit 12: Career Choices",
+  "grammarTopics": [
+    "Adverbial Clauses"
+  ],
+  "theory": {
+    "brief": "Mệnh đề trạng từ: (1) Nhượng bộ: Although/Though + S + V, S + V (có dấu phẩy nếu mệnh đề phụ đứng trước). (2) Kết quả: S + V + so + adj/adv + that + S + V hoặc such + (a/an) + (adj) + N + that + S + V. (3) Lý do: Because/Since/As + S + V.",
+    "examples": [
+      "Although it was difficult, he passed the exam. (Mặc dù khó, anh ấy đã qua kỳ thi.)",
+      "The job was so hard that she quit. (Công việc khó đến nỗi cô ấy bỏ cuộc.)",
+      "Because he studied hard, he succeeded. (Vì anh ấy học chăm, anh ấy thành công.)",
+      "Since you're not interested, I won't explain. (Vì bạn không quan tâm, tôi sẽ không giải thích.)"
+    ]
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "type": "multiple-choice",
+      "question": "__________ footballers are well-paid, they have short careers.",
+      "options": [
+        "Because",
+        "Although",
+        "So",
+        "That"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mệnh đề nh→→ng b→: Although",
+      "hints": [
+        "Nhượng bộ → Although/Though"
+      ],
+      "points": 10
+    },
+    {
+      "id": 2,
+      "type": "multiple-choice",
+      "question": "She applied for the job __________ she had no experience.",
+      "options": [
+        "because",
+        "although",
+        "so",
+        "since"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nhượng bộ: although/though",
+      "hints": [
+        "Mặc dù → although"
+      ],
+      "points": 10
+    },
+    {
+      "id": 3,
+      "type": "multiple-choice",
+      "question": "The factory was __________ far that he couldn't go there.",
+      "options": [
+        "very",
+        "so",
+        "such",
+        "too"
+      ],
+      "correctIndex": 1,
+      "explanation": "so + adj + that: quá...đến nỗi",
+      "hints": [
+        "so + adj + that"
+      ],
+      "points": 10
+    },
+    {
+      "id": 4,
+      "type": "multiple-choice",
+      "question": "Katie was __________ a lazy worker that nobody hired her.",
+      "options": [
+        "so",
+        "such",
+        "very",
+        "too"
+      ],
+      "correctIndex": 1,
+      "explanation": "such + a/an + adj + N + that",
+      "hints": [
+        "such + a/an + N + that"
+      ],
+      "points": 10
+    },
+    {
+      "id": 5,
+      "type": "multiple-choice",
+      "question": "__________ she was ill, she didn't attend the job fair.",
+      "options": [
+        "Although",
+        "Because",
+        "So",
+        "Such"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lý do: Because",
+      "hints": [
+        "Lý do → Because/Since/As"
+      ],
+      "points": 10
+    },
+    {
+      "id": 6,
+      "type": "multiple-choice",
+      "question": "__________ Henry is excellent at maths, he will become a mathematician.",
+      "options": [
+        "Although",
+        "Because",
+        "Since",
+        "So"
+      ],
+      "correctIndex": 2,
+      "explanation": "Lý do: Since",
+      "hints": [
+        "Since = Because"
+      ],
+      "points": 10
+    },
+    {
+      "id": 7,
+      "type": "multiple-choice",
+      "question": "Your voice is __________ soft that I can't hear you.",
+      "options": [
+        "very",
+        "so",
+        "such",
+        "too"
+      ],
+      "correctIndex": 1,
+      "explanation": "so + adj + that",
+      "hints": [
+        "so + adj + that"
+      ],
+      "points": 10
+    },
+    {
+      "id": 8,
+      "type": "multiple-choice",
+      "question": "He is __________ a handsome man that many think he's an actor.",
+      "options": [
+        "so",
+        "such",
+        "very",
+        "too"
+      ],
+      "correctIndex": 1,
+      "explanation": "such + a/an + adj + N + that",
+      "hints": [
+        "such + a/an + N + that"
+      ],
+      "points": 10
+    },
+    {
+      "id": 9,
+      "type": "multiple-choice",
+      "question": "__________ she had a degree, she couldn't find a job.",
+      "options": [
+        "Because",
+        "Although",
+        "Since",
+        "As"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nhượng bộ: Although",
+      "hints": [
+        "Mặc dù → Although"
+      ],
+      "points": 10
+    },
+    {
+      "id": 10,
+      "type": "multiple-choice",
+      "question": "I couldn't go __________ there was a traffic jam.",
+      "options": [
+        "although",
+        "so",
+        "because",
+        "such"
+      ],
+      "correctIndex": 2,
+      "explanation": "Lý do: because",
+      "hints": [
+        "Vì → because"
+      ],
+      "points": 10
+    },
+    {
+      "id": 11,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": [
+        "Although",
+        "my",
+        "sister",
+        "is",
+        "a",
+        "designer",
+        ",",
+        "she",
+        "struggles"
+      ],
+      "correctSentence": "Although my sister is a designer, she struggles.",
+      "explanation": "Although + S + V, S + V",
+      "hints": [
+        "Although..., S + V"
+      ],
+      "points": 10
+    },
+    {
+      "id": 12,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": [
+        "I",
+        "want",
+        "to",
+        "be",
+        "a",
+        "pilot",
+        "because",
+        "I",
+        "love",
+        "flying"
+      ],
+      "correctSentence": "I want to be a pilot because I love flying.",
+      "explanation": "S + V + because + S + V",
+      "hints": [
+        "S + V + because..."
+      ],
+      "points": 10
+    },
+    {
+      "id": 13,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": [
+        "My",
+        "father",
+        "has",
+        "such",
+        "a",
+        "hard",
+        "job",
+        "that",
+        "he",
+        "works",
+        "overtime"
+      ],
+      "correctSentence": "My father has such a hard job that he works overtime.",
+      "explanation": "such + a + adj + N + that",
+      "hints": [
+        "such + a + N + that"
+      ],
+      "points": 10
+    },
+    {
+      "id": 14,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": [
+        "Since",
+        "courses",
+        "are",
+        "short",
+        ",",
+        "students",
+        "can",
+        "work",
+        "sooner"
+      ],
+      "correctSentence": "Since courses are short, students can work sooner.",
+      "explanation": "Since + S + V, S + V",
+      "hints": [
+        "Since..., S + V"
+      ],
+      "points": 10
+    },
+    {
+      "id": 15,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": [
+        "The",
+        "worker",
+        "felt",
+        "so",
+        "bored",
+        "that",
+        "she",
+        "quit"
+      ],
+      "correctSentence": "The worker felt so bored that she quit.",
+      "explanation": "so + adj + that",
+      "hints": [
+        "so + adj + that"
+      ],
+      "points": 10
+    },
+    {
+      "id": 16,
+      "type": "multiple-choice",
+      "question": "She still applied __________ she had no chance.",
+      "options": [
+        "because",
+        "though",
+        "so",
+        "since"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nhượng bộ: though",
+      "hints": [
+        "though = although"
+      ],
+      "points": 10
+    },
+    {
+      "id": 17,
+      "type": "multiple-choice",
+      "question": "__________ she went early, she couldn't buy tickets.",
+      "options": [
+        "Because",
+        "Although",
+        "Since",
+        "As"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nhượng bộ: Although",
+      "hints": [
+        "Mặc dù → Although"
+      ],
+      "points": 10
+    },
+    {
+      "id": 18,
+      "type": "multiple-choice",
+      "question": "They are __________ creative designers that everyone admires them.",
+      "options": [
+        "so",
+        "such",
+        "very",
+        "too"
+      ],
+      "correctIndex": 1,
+      "explanation": "such + adj + N (s→ nhi→u) + that",
+      "hints": [
+        "such + N + that"
+      ],
+      "points": 10
+    },
+    {
+      "id": 19,
+      "type": "multiple-choice",
+      "question": "She was __________ a skilful florist that her shop attracted customers.",
+      "options": [
+        "so",
+        "such",
+        "very",
+        "too"
+      ],
+      "correctIndex": 1,
+      "explanation": "such + a/an + adj + N + that",
+      "hints": [
+        "such + a + N + that"
+      ],
+      "points": 10
+    },
+    {
+      "id": 20,
+      "type": "multiple-choice",
+      "question": "__________ there was a power cut, Sally couldn't use the computer.",
+      "options": [
+        "Although",
+        "So",
+        "Since",
+        "Such"
+      ],
+      "correctIndex": 2,
+      "explanation": "Lý do: Since",
+      "hints": [
+        "Since = Because"
+      ],
+      "points": 10
+    },
+    {
+      "id": 21,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": [
+        "Though",
+        "Mike",
+        "felt",
+        "tired",
+        ",",
+        "he",
+        "finished",
+        "homework"
+      ],
+      "correctSentence": "Though Mike felt tired, he finished homework.",
+      "explanation": "Though + S + V, S + V",
+      "hints": [
+        "Though..., S + V"
+      ],
+      "points": 10
+    },
+    {
+      "id": 22,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": [
+        "Mai",
+        "practiced",
+        "a",
+        "lot",
+        "because",
+        "she",
+        "wanted",
+        "high",
+        "scores"
+      ],
+      "correctSentence": "Mai practiced a lot because she wanted high scores.",
+      "explanation": "S + V + because + S + V",
+      "hints": [
+        "...because S + V"
+      ],
+      "points": 10
+    },
+    {
+      "id": 23,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": [
+        "The",
+        "test",
+        "was",
+        "so",
+        "difficult",
+        "that",
+        "nobody",
+        "passed"
+      ],
+      "correctSentence": "The test was so difficult that nobody passed.",
+      "explanation": "so + adj + that",
+      "hints": [
+        "so + adj + that"
+      ],
+      "points": 10
+    },
+    {
+      "id": 24,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": [
+        "As",
+        "she",
+        "was",
+        "experienced",
+        ",",
+        "she",
+        "got",
+        "the",
+        "job"
+      ],
+      "correctSentence": "As she was experienced, she got the job.",
+      "explanation": "As + S + V, S + V",
+      "hints": [
+        "As..., S + V"
+      ],
+      "points": 10
+    },
+    {
+      "id": 25,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": [
+        "Although",
+        "she",
+        "has",
+        "a",
+        "degree",
+        ",",
+        "she",
+        "works",
+        "part-time"
+      ],
+      "correctSentence": "Although she has a degree, she works part-time.",
+      "explanation": "Although + S + V, S + V",
+      "hints": [
+        "Although..., S + V"
+      ],
+      "points": 10
+    },
+    {
+      "id": 26,
+      "type": "multiple-choice",
+      "question": "I'm __________ bad at navigation that I can't be a taxi driver.",
+      "options": [
+        "very",
+        "so",
+        "such",
+        "too"
+      ],
+      "correctIndex": 1,
+      "explanation": "so + adj + that",
+      "hints": [
+        "so + adj + that"
+      ],
+      "points": 10
+    },
+    {
+      "id": 27,
+      "type": "multiple-choice",
+      "question": "__________ Ms Nga is away, we'll postpone the meeting.",
+      "options": [
+        "Although",
+        "Because",
+        "Since",
+        "So"
+      ],
+      "correctIndex": 2,
+      "explanation": "Lý do: Since",
+      "hints": [
+        "Since = Because"
+      ],
+      "points": 10
+    },
+    {
+      "id": 28,
+      "type": "multiple-choice",
+      "question": "She does repetitive tasks, __________ she still likes her job.",
+      "options": [
+        "because",
+        "although",
+        "so",
+        "since"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nhượng bộ: although",
+      "hints": [
+        "Mặc dù → although"
+      ],
+      "points": 10
+    },
+    {
+      "id": 29,
+      "type": "multiple-choice",
+      "question": "It was __________ a difficult problem that nobody solved it.",
+      "options": [
+        "so",
+        "such",
+        "very",
+        "too"
+      ],
+      "correctIndex": 1,
+      "explanation": "such + a/an + adj + N + that",
+      "hints": [
+        "such + a + N + that"
+      ],
+      "points": 10
+    },
+    {
+      "id": 30,
+      "type": "multiple-choice",
+      "question": "I couldn't buy the book __________ I forgot money.",
+      "options": [
+        "although",
+        "so",
+        "because",
+        "such"
+      ],
+      "correctIndex": 2,
+      "explanation": "Lý do: because",
+      "hints": [
+        "Vì → because"
+      ],
+      "points": 10
+    }
+  ]
+}

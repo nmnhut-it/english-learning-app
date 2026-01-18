@@ -1,0 +1,406 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Unit 11: Making a Film - The Passive Voice | English Grammar Games</title>
+  <meta name="description" content="Practice the passive voice (present simple) with by and with">
+
+  <!-- Shared Styles -->
+  <link rel="stylesheet" href="../css/shared.css">
+</head>
+<body>
+  <!-- Game Header -->
+  <header class="game-header">
+    <div class="container">
+      <div class="game-header__container">
+        <div class="game-header__info-section">
+          <h1 class="game-header__title">Unit 11: Making a Film</h1>
+          <p class="game-header__subtitle">The Passive Voice</p>
+          <div class="game-info">
+            <div class="game-info__item">
+              <span class="game-info__label">Giáo viên:</span>
+              <span class="game-info__value">Nguyễn Minh Nhựt</span>
+            </div>
+            <div class="game-info__item">
+              <span class="game-info__label">Học sinh:</span>
+              <span class="game-info__value"></span>
+            </div>
+          </div>
+        </div>
+
+        <div class="game-header__stats">
+          <div class="stat">
+            <span class="stat__label">Điểm</span>
+            <span class="stat__value stat__value--primary" id="current-score">⭐ 0</span>
+          </div>
+
+          <div class="stat">
+            <span class="stat__label">Tiến độ</span>
+            <span class="stat__value" id="progress-count">0 / 0</span>
+          </div>
+
+          <div class="stat" id="combo-display" style="display: none;">
+            <span class="stat__label">Combo</span>
+            <span class="stat__value" id="combo-count">0</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Progress Bar -->
+      <div class="progress">
+        <div class="progress__bar" id="progress-bar" style="width: 0%;"></div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Content -->
+  <main class="container">
+    <!-- Theory Panel (Collapsible) -->
+    <div class="theory-panel" id="theory-panel">
+      <button class="theory-panel__toggle" id="theory-toggle">
+        <span>📖 Tài liệu ngữ pháp</span>
+        <span class="theory-panel__icon" id="theory-icon">▼</span>
+      </button>
+
+      <div class="theory-panel__content" id="theory-content">
+        <div class="theory-panel__section">
+          <h3 class="theory-panel__heading">📌 Câu Bị Động là gì? (What is Passive Voice?)</h3>
+          <p><strong>Câu Chủ Động (Active):</strong> Chủ ngữ thực hiện hành động</p>
+          <p><strong>Câu Bị Động (Passive):</strong> Chủ ngữ chịu tác động của hành động</p>
+
+          <div class="theory-panel__example">
+            <strong>Active:</strong> They <strong>make</strong> films in London. <em>(Họ làm phim ở London)</em><br>
+            → Chủ ngữ "They" thực hiện hành động "make"<br><br>
+            <strong>Passive:</strong> Films <strong>are made</strong> in London. <em>(Phim được làm ở London)</em><br>
+            → Chủ ngữ "Films" chịu tác động của hành động "make"
+          </div>
+
+          <p><strong>✨ Khi nào dùng câu bị động?</strong></p>
+          <ul>
+            <li>🤷 Không biết ai làm hành động: <em>"My bike was stolen."</em></li>
+            <li>🎯 Không quan trọng ai làm: <em>"Rice is grown in Asia."</em></li>
+            <li>📢 Muốn nhấn mạnh vào hành động/vật: <em>"The Mona Lisa was painted in 1503."</em></li>
+            <li>📰 Văn phong trang trọng, khách quan: <em>"English is spoken worldwide."</em></li>
+          </ul>
+        </div>
+
+        <div class="theory-panel__section">
+          <h3 class="theory-panel__heading">🔧 Cấu Trúc Câu Bị Động Thì Hiện Tại Đơn</h3>
+          <p><strong>Công thức:</strong></p>
+          <div class="theory-panel__example" style="background: #e3f2fd; padding: 15px; border-left: 4px solid #2196F3;">
+            <strong style="font-size: 1.1em;">S + am/is/are + V3 (past participle)</strong>
+          </div>
+
+          <p style="margin-top: 15px;"><strong>📖 Chi tiết:</strong></p>
+          <table style="width: 100%; border-collapse: collapse; margin-top: 10px;">
+            <tr style="background: var(--bg-light);">
+              <th style="padding: 10px; text-align: left;">Dạng câu</th>
+              <th style="padding: 10px; text-align: left;">Cấu trúc</th>
+              <th style="padding: 10px; text-align: left;">Ví dụ</th>
+            </tr>
+            <tr>
+              <td style="padding: 10px;"><strong>Khẳng định (+)</strong></td>
+              <td style="padding: 10px;">S + am/is/are + V3</td>
+              <td style="padding: 10px;">French <strong>is spoken</strong> here.<br><em>(Tiếng Pháp được nói ở đây)</em></td>
+            </tr>
+            <tr style="background: var(--bg-light);">
+              <td style="padding: 10px;"><strong>Phủ định (-)</strong></td>
+              <td style="padding: 10px;">S + am/is/are + not + V3</td>
+              <td style="padding: 10px;">English <strong>isn't spoken</strong> here.<br><em>(Tiếng Anh không được nói ở đây)</em></td>
+            </tr>
+            <tr>
+              <td style="padding: 10px;"><strong>Nghi vấn (?)</strong></td>
+              <td style="padding: 10px;">Am/Is/Are + S + V3?</td>
+              <td style="padding: 10px;"><strong>Is</strong> French <strong>spoken</strong> here?<br><em>(Tiếng Pháp có được nói ở đây không?)</em></td>
+            </tr>
+          </table>
+
+          <p style="margin-top: 15px;"><strong>💡 Lưu ý quan trọng:</strong></p>
+          <ul>
+            <li><strong>Singular subject (chủ ngữ số ít):</strong> is/isn't<br>
+              <em>The film <strong>is</strong> made, Rice <strong>is</strong> grown</em>
+            </li>
+            <li><strong>Plural subject (chủ ngữ số nhiều):</strong> are/aren't<br>
+              <em>Films <strong>are</strong> made, Books <strong>are</strong> sold</em>
+            </li>
+            <li><strong>Với I (tôi):</strong> am/am not<br>
+              <em>I <strong>am</strong> invited to the party</em>
+            </li>
+          </ul>
+        </div>
+
+        <div class="theory-panel__section">
+          <h3 class="theory-panel__heading">📚 Past Participle (V3) - Quá Khứ Phân Từ</h3>
+          <p><strong>Động từ có quy tắc (Regular Verbs):</strong> Thêm <strong>-ed</strong> (giống Past Simple V2)</p>
+          <div class="theory-panel__example">
+            use → used → <strong>used</strong><br>
+            clean → cleaned → <strong>cleaned</strong><br>
+            decorate → decorated → <strong>decorated</strong>
+          </div>
+
+          <p style="margin-top: 15px;"><strong>Động từ bất quy tắc (Irregular Verbs):</strong> Phải học thuộc lòng</p>
+          <table style="width: 100%; border-collapse: collapse; margin-top: 10px;">
+            <tr style="background: var(--bg-light);">
+              <th style="padding: 8px;">V1 (Base)</th>
+              <th style="padding: 8px;">V2 (Past)</th>
+              <th style="padding: 8px;">V3 (Past Participle)</th>
+              <th style="padding: 8px;">Nghĩa</th>
+            </tr>
+            <tr>
+              <td style="padding: 8px;">speak</td>
+              <td style="padding: 8px;">spoke</td>
+              <td style="padding: 8px;"><strong>spoken</strong></td>
+              <td style="padding: 8px;">nói</td>
+            </tr>
+            <tr style="background: var(--bg-light);">
+              <td style="padding: 8px;">make</td>
+              <td style="padding: 8px;">made</td>
+              <td style="padding: 8px;"><strong>made</strong></td>
+              <td style="padding: 8px;">làm, chế tạo</td>
+            </tr>
+            <tr>
+              <td style="padding: 8px;">write</td>
+              <td style="padding: 8px;">wrote</td>
+              <td style="padding: 8px;"><strong>written</strong></td>
+              <td style="padding: 8px;">viết</td>
+            </tr>
+            <tr style="background: var(--bg-light);">
+              <td style="padding: 8px;">build</td>
+              <td style="padding: 8px;">built</td>
+              <td style="padding: 8px;"><strong>built</strong></td>
+              <td style="padding: 8px;">xây dựng</td>
+            </tr>
+            <tr>
+              <td style="padding: 8px;">sell</td>
+              <td style="padding: 8px;">sold</td>
+              <td style="padding: 8px;"><strong>sold</strong></td>
+              <td style="padding: 8px;">bán</td>
+            </tr>
+            <tr style="background: var(--bg-light);">
+              <td style="padding: 8px;">teach</td>
+              <td style="padding: 8px;">taught</td>
+              <td style="padding: 8px;"><strong>taught</strong></td>
+              <td style="padding: 8px;">dạy</td>
+            </tr>
+            <tr>
+              <td style="padding: 8px;">grow</td>
+              <td style="padding: 8px;">grew</td>
+              <td style="padding: 8px;"><strong>grown</strong></td>
+              <td style="padding: 8px;">trồng, phát triển</td>
+            </tr>
+          </table>
+        </div>
+
+        <div class="theory-panel__section">
+          <h3 class="theory-panel__heading">🔄 Cách Chuyển Từ Active Sang Passive</h3>
+          <p><strong>Các bước thực hiện:</strong></p>
+          <ol style="line-height: 1.8;">
+            <li><strong>Bước 1:</strong> Tân ngữ (Object) trong câu chủ động → Chủ ngữ (Subject) trong câu bị động</li>
+            <li><strong>Bước 2:</strong> Động từ → am/is/are + V3</li>
+            <li><strong>Bước 3:</strong> Chủ ngữ cũ → by + agent (có thể bỏ nếu không quan trọng)</li>
+          </ol>
+
+          <div class="theory-panel__example" style="margin-top: 10px;">
+            <strong>Ví dụ:</strong><br>
+            <strong>Active:</strong> People speak French in Canada.<br>
+            <span style="color: #666;">↓ Chuyển đổi ↓</span><br>
+            <strong>Passive:</strong> French is spoken in Canada (by people).<br><br>
+
+            <strong>Active:</strong> They make films in Hollywood.<br>
+            <span style="color: #666;">↓ Chuyển đổi ↓</span><br>
+            <strong>Passive:</strong> Films are made in Hollywood (by them).
+          </div>
+        </div>
+
+        <div class="theory-panel__section">
+          <h3 class="theory-panel__heading">🎯 BY vs WITH - Phân Biệt Rõ Ràng</h3>
+
+          <div style="background: #fff3e0; padding: 15px; border-left: 4px solid #ff9800; margin-bottom: 15px;">
+            <p><strong>BY</strong> = Ai làm hành động (người/tác nhân)</p>
+            <p style="color: #666; font-style: italic;">Dùng để chỉ người hoặc tác nhân thực hiện hành động</p>
+            <div class="theory-panel__example">
+              ✓ The film is directed <strong>by Spielberg</strong>. <em>(Phim được đạo diễn bởi Spielberg)</em><br>
+              ✓ The food is brought <strong>by a waiter</strong>. <em>(Đồ ăn được mang đến bởi nhân viên phục vụ)</em><br>
+              ✓ This book was written <strong>by J.K. Rowling</strong>. <em>(Cuốn sách được viết bởi J.K. Rowling)</em>
+            </div>
+          </div>
+
+          <div style="background: #e8f5e9; padding: 15px; border-left: 4px solid #4CAF50; margin-bottom: 15px;">
+            <p><strong>WITH</strong> = Dùng công cụ/vật liệu/nguyên liệu gì</p>
+            <p style="color: #666; font-style: italic;">Dùng để chỉ công cụ, vật liệu, hoặc thứ dùng để thực hiện hành động</p>
+            <div class="theory-panel__example">
+              ✓ Bread is cut <strong>with a knife</strong>. <em>(Bánh mì được cắt bằng dao)</em><br>
+              ✓ The streets are decorated <strong>with lights</strong>. <em>(Đường phố được trang trí bằng đèn)</em><br>
+              ✓ The picture is painted <strong>with oil paints</strong>. <em>(Bức tranh được vẽ bằng sơn dầu)</em><br>
+              ✓ The room is filled <strong>with flowers</strong>. <em>(Phòng được lấp đầy bằng hoa)</em>
+            </div>
+          </div>
+
+          <p><strong>💡 Kết hợp cả BY và WITH:</strong></p>
+          <div class="theory-panel__example">
+            The picture was painted <strong>by Picasso</strong> <strong>with oil paints</strong>.<br>
+            <em>(Bức tranh được vẽ bởi Picasso bằng sơn dầu)</em><br>
+            → <strong>by</strong> + người làm, <strong>with</strong> + công cụ
+          </div>
+
+          <p style="margin-top: 15px;"><strong>⚠️ Lỗi thường gặp:</strong></p>
+          <ul>
+            <li>❌ The food is brought <strong>with</strong> a waiter. → ✓ ... <strong>by</strong> a waiter</li>
+            <li>❌ Bread is cut <strong>by</strong> a knife. → ✓ ... <strong>with</strong> a knife</li>
+          </ul>
+        </div>
+
+        <div class="theory-panel__section">
+          <h3 class="theory-panel__heading">⚠️ Lỗi Sai Thường Gặp và Cách Sửa</h3>
+          <table style="width: 100%; border-collapse: collapse;">
+            <tr style="background: #ffebee;">
+              <th style="padding: 10px; width: 50%;">❌ SAI</th>
+              <th style="padding: 10px; width: 50%;">✓ ĐÚNG</th>
+            </tr>
+            <tr>
+              <td style="padding: 10px;">The film is <strong>make</strong> in London.</td>
+              <td style="padding: 10px;">The film is <strong>made</strong> in London.<br><em>(Dùng V3, không dùng V1)</em></td>
+            </tr>
+            <tr style="background: var(--bg-light);">
+              <td style="padding: 10px;">French is <strong>spoke</strong> here.</td>
+              <td style="padding: 10px;">French is <strong>spoken</strong> here.<br><em>(V3 của speak là spoken)</em></td>
+            </tr>
+            <tr>
+              <td style="padding: 10px;">Books <strong>is</strong> sold here.</td>
+              <td style="padding: 10px;">Books <strong>are</strong> sold here.<br><em>(Số nhiều dùng are)</em></td>
+            </tr>
+            <tr style="background: var(--bg-light);">
+              <td style="padding: 10px;">Rice is <strong>grew</strong> in Asia.</td>
+              <td style="padding: 10px;">Rice is <strong>grown</strong> in Asia.<br><em>(V3 của grow là grown)</em></td>
+            </tr>
+            <tr>
+              <td style="padding: 10px;">The house is built <strong>by</strong> bricks.</td>
+              <td style="padding: 10px;">The house is built <strong>with</strong> bricks.<br><em>(Vật liệu dùng with)</em></td>
+            </tr>
+          </table>
+        </div>
+
+        <div class="theory-panel__section">
+          <h3 class="theory-panel__heading">💪 Mẹo Học Hiệu Quả</h3>
+          <ol style="line-height: 1.8;">
+            <li><strong>Học thuộc V3 của động từ bất quy tắc:</strong> Làm flashcard, viết nhiều lần</li>
+            <li><strong>Nhớ công thức:</strong> am/is/are + V3 (không phải V1 hay V2!)</li>
+            <li><strong>BY vs WITH:</strong> BY = người/tác nhân, WITH = công cụ/vật liệu</li>
+            <li><strong>Luyện chuyển đổi:</strong> Viết câu Active rồi chuyển sang Passive</li>
+            <li><strong>Đọc ví dụ thực tế:</strong> Chú ý câu bị động trong sách báo, bài đọc</li>
+          </ol>
+        </div>
+      </div>
+    </div>
+
+    <!-- Exercise Container -->
+    <div id="exercise-container">
+      <!-- Exercises will be rendered here dynamically -->
+      <div class="card text-center">
+        <h2>Loading...</h2>
+        <p>Please wait while we load the exercises.</p>
+      </div>
+    </div>
+  </main>
+
+  <!-- Core JavaScript (loaded first) -->
+  <script src="../js/core/utils.js"></script>
+  <script src="../js/core/storage.js"></script>
+  <script src="../js/core/telegram-sender.js"></script>
+  <script src="../js/core/game-engine.js"></script>
+
+  <!-- Exercise Type Handlers -->
+  <script src="../js/exercises/multiple-choice.js"></script>
+  <script src="../js/exercises/word-rearrange.js"></script>
+  <script src="../js/exercises/fill-blank.js"></script>
+  <script src="../js/exercises/fill-blank-table.js"></script>
+  <script src="../js/exercises/sentence-build.js"></script>
+  <script src="../js/exercises/sentence-rewrite.js"></script>
+  <script src="../js/exercises/error-correct.js"></script>
+  <script src="../js/exercises/translation.js"></script>
+  <script src="../js/exercises/open-ended.js"></script>
+
+  <!-- Initialize Game -->
+  <script>
+    const UNIT_ID = 'unit-11-making-a-film';
+    const DATA_PATH = '../data/unit-11-making-a-film.json';
+
+    // Theory panel toggle
+    const theoryToggle = document.getElementById('theory-toggle');
+    const theoryContent = document.getElementById('theory-content');
+    const theoryIcon = document.getElementById('theory-icon');
+
+    theoryToggle.addEventListener('click', () => {
+      const isExpanded = theoryContent.classList.contains('theory-panel__content--expanded');
+
+      if (isExpanded) {
+        theoryContent.classList.remove('theory-panel__content--expanded');
+        theoryIcon.classList.remove('theory-panel__icon--rotated');
+      } else {
+        theoryContent.classList.add('theory-panel__content--expanded');
+        theoryIcon.classList.add('theory-panel__icon--rotated');
+      }
+    });
+
+    // Combo display logic
+    function updateComboDisplay() {
+      const comboDisplay = document.getElementById('combo-display');
+      const comboCount = document.getElementById('combo-count');
+      const state = GameEngine.getState();
+
+      if (state.comboCount >= 3) {
+        comboDisplay.style.display = 'flex';
+        comboCount.textContent = state.comboCount + 'x 🔥';
+      } else {
+        comboDisplay.style.display = 'none';
+      }
+    }
+
+    // Override GameEngine.updateUI to include combo display
+    const originalUpdateUI = GameEngine.updateUI.bind(GameEngine);
+    GameEngine.updateUI = function() {
+      originalUpdateUI();
+      updateComboDisplay();
+    };
+
+    // Load unit data and start game
+    async function loadAndStartGame() {
+      try {
+        const response = await fetch(DATA_PATH);
+
+        if (!response.ok) {
+          throw new Error(`Failed to load data: ${response.status}`);
+        }
+
+        const unitData = await response.json();
+
+        console.log('Unit data loaded:', unitData);
+        console.log('Registered exercise handlers:', Object.keys(GameEngine.exerciseHandlers));
+
+        GameEngine.init(unitData, UNIT_ID);
+
+      } catch (error) {
+        console.error('Error loading game data:', error);
+
+        const container = document.getElementById('exercise-container');
+        container.innerHTML = `
+          <div class="card">
+            <h2 style="color: var(--danger);">Error Loading Game</h2>
+            <p>Sorry, we couldn't load the exercise data. Please try refreshing the page.</p>
+            <p style="font-size: var(--font-size-sm); color: var(--text-light);">Error: ${error.message}</p>
+            <button class="btn btn--primary mt-2" onclick="location.reload()">Reload Page</button>
+          </div>
+        `;
+      }
+    }
+
+    // Start game when page loads
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', loadAndStartGame);
+    } else {
+      loadAndStartGame();
+    }
+  </script>
+</body>
+</html>

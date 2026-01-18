@@ -4,8 +4,7 @@
 
 <!-- chunk: intro -->
 <teacher_script pause="0">
-Ok lớp 7, bài Communication Unit 7. Mở sách trang 12 đi.
-Bài này học cách hỏi đáp về phương tiện đi lại, và tìm hiểu luật giao thông lạ ở các nước.
+Chào các em. Mời các em mở sách giáo khoa trang 12. Bài học hôm nay là <eng>Communication</eng>, chúng ta sẽ học cách hỏi về phương tiện đi lại và tìm hiểu một số luật giao thông trên thế giới.
 </teacher_script>
 
 ---
@@ -14,8 +13,7 @@ Bài này học cách hỏi đáp về phương tiện đi lại, và tìm hiể
 ### Everyday English - Asking about means of transport
 
 <teacher_script pause="0">
-<eng>Everyday English. Asking about means of transport.</eng>
-Phần Everyday English. Hỏi người khác đi bằng phương tiện gì nha.
+Đầu tiên là phần <eng>Everyday English</eng>. Chúng ta sẽ học cách hỏi ai đó sử dụng phương tiện gì để đi lại.
 </teacher_script>
 
 <grammar>
@@ -42,7 +40,7 @@ Phần Everyday English. Hỏi người khác đi bằng phương tiện gì nha
 </grammar>
 
 <teacher_script pause="30">
-Các em ghi vô tập bài học: <eng>How does</eng> + người + <eng>get to</eng> + nơi? Trả lời bằng <eng>goes by</eng> + phương tiện. 30 giây nha.
+Các em hãy ghi cấu trúc này vào vở nhé. Các em có 30 giây.
 </teacher_script>
 
 ---
@@ -51,7 +49,7 @@ Các em ghi vô tập bài học: <eng>How does</eng> + người + <eng>get to</
 ### Bài 1 trang 12 - Listen and read
 
 <teacher_script pause="0">
-Bài 1 <eng>Listen and read</eng>. Nghe và đọc hội thoại. Chú ý cách hỏi về phương tiện nha.
+Chúng ta cùng làm Bài 1 <eng>Listen and read</eng>. Các em hãy nghe và đọc đoạn hội thoại, chú ý đến các câu hỏi và câu trả lời về phương tiện đi lại.
 </teacher_script>
 
 <dialogue>
@@ -67,9 +65,7 @@ Bài 1 <eng>Listen and read</eng>. Nghe và đọc hội thoại. Chú ý cách 
 </translation>
 
 <teacher_script pause="0">
-<eng>How does your mum get to work? She goes by motorbike.</eng>
-Cấu trúc quan trọng: <eng>How does</eng> + người + <eng>get to</eng> + nơi?
-Trả lời: <eng>goes by</eng> + phương tiện.
+Trong đoạn hội thoại trên, chúng ta thấy cấu trúc: <eng>How does your mum get to work?</eng> và câu trả lời: <eng>She goes by motorbike.</eng>
 </teacher_script>
 
 ---
@@ -78,7 +74,7 @@ Trả lời: <eng>goes by</eng> + phương tiện.
 ### Bài 2 trang 12 - Work in pairs
 
 <teacher_script pause="0">
-Bài 2 <eng>Work in pairs</eng>. Hỏi nhau về phương tiện đi lại của người thân nha.
+Chúng ta cùng làm Bài 2 <eng>Work in pairs</eng>. Các em hãy làm việc theo cặp, thay phiên nhau hỏi và trả lời về phương tiện đi lại của các thành viên trong gia đình mình.
 </teacher_script>
 
 <task>
@@ -113,7 +109,7 @@ A: He often goes by bike. He wants to protect the environment.
 </questions>
 
 <teacher_script pause="0" action="record">
-Ghi âm hỏi đáp về 2 người thân trong gia đình nha.
+Các em hãy ghi âm đoạn hội thoại và gửi cho thầy nhé.
 </teacher_script>
 
 ---
@@ -122,8 +118,7 @@ Ghi âm hỏi đáp về 2 người thân trong gia đình nha.
 ### Strange traffic rules! - Luật giao thông lạ
 
 <teacher_script pause="0">
-<eng>Strange traffic rules!</eng>
-Phần tiếp theo nói về luật giao thông lạ ở các nước. Hay lắm đó!
+Chúng ta cùng chuyển sang phần tiếp theo: <eng>Strange traffic rules</eng>. Chúng ta sẽ tìm hiểu về những luật giao thông kỳ lạ trên thế giới.
 </teacher_script>
 
 ---
@@ -132,8 +127,7 @@ Phần tiếp theo nói về luật giao thông lạ ở các nước. Hay lắm
 ### Bài 3 trang 13 - Left or right?
 
 <teacher_script pause="45">
-Bài 3 <eng>Left or right?</eng> Khi đi trên đường, bạn đi bên nào? Bên phải hay bên trái?
-Những nước nào đi bên trái? Đánh dấu vô. 45 giây nha.
+Chúng ta cùng làm Bài 3 <eng>Left or right</eng>. Các em hãy cho biết những quốc gia nào dưới đây lái xe bên trái? Các em có 45 giây.
 </teacher_script>
 
 <task>
@@ -155,7 +149,7 @@ Những nước nào đi bên trái? Đánh dấu vô. 45 giây nha.
 
 <!-- chunk: answer_3 -->
 <teacher_script pause="0">
-Ok đáp án nè.
+Đã hết thời gian. Sau đây là đáp án đúng.
 </teacher_script>
 
 <answer>
@@ -168,8 +162,7 @@ Ok đáp án nè.
 </answer>
 
 <teacher_script pause="0">
-Anh, Úc, Thái Lan đi bên trái.
-Mỹ với Trung Quốc đi bên phải giống Việt Nam mình. Dễ nhớ hen.
+Các nước Vương quốc Anh, Úc, Thái Lan lái xe bên trái. Còn Mỹ và Trung Quốc lái xe bên phải giống như Việt Nam chúng ta.
 </teacher_script>
 
 <explanation>
@@ -195,7 +188,7 @@ Mỹ với Trung Quốc đi bên phải giống Việt Nam mình. Dễ nhớ hen
 </audio>
 
 <teacher_script pause="30">
-Bài 4 <eng>Listen and complete</eng>. Nghe và điền vào chỗ trống, không quá 3 từ. 30 giây nha.
+Chúng ta cùng làm Bài 4 <eng>Listen and complete</eng>. Các em hãy nghe và điền từ còn thiếu vào chỗ trống. Các em có 30 giây.
 </teacher_script>
 
 <questions type="fill_blanks">
@@ -208,7 +201,7 @@ One explanation is that some countries use _______ as the UK.
 
 <!-- chunk: answer_4 -->
 <teacher_script pause="0">
-Đáp án nè. <eng>The same system</eng> - cùng hệ thống.
+Đã hết thời gian. Sau đây là đáp án đúng.
 </teacher_script>
 
 <answer>
@@ -231,7 +224,7 @@ One explanation is that some countries use **the same system** as the UK.
 ### Bài 5 trang 13 - Strange driving rules
 
 <teacher_script pause="0">
-Bài 5 <eng>Strange driving rules</eng>. Đọc các luật lái xe lạ lùng ở các nước nha. Cười xỉu luôn!
+Chúng ta cùng làm Bài 5 <eng>Strange driving rules</eng>. Các em hãy đọc về một số luật lái xe kỳ lạ dưới đây.
 </teacher_script>
 
 <reading>
@@ -246,7 +239,7 @@ Bài 5 <eng>Strange driving rules</eng>. Đọc các luật lái xe lạ lùng �
 </reading>
 
 <teacher_script pause="0">
-Luật nào lạ nhất theo em? Cá nhân thầy thấy luật số 2 lạ quá - lái xe bẩn cũng bị phạt!
+Theo các em, luật nào là kỳ lạ nhất?
 </teacher_script>
 
 ---
@@ -265,7 +258,7 @@ Luật nào lạ nhất theo em? Cá nhân thầy thấy luật số 2 lạ quá
 
 <!-- chunk: discussion -->
 <teacher_script pause="0">
-Thảo luận nhóm: Luật nào lạ nhất?
+Bây giờ, các em hãy làm việc theo nhóm và thảo luận xem luật nào là kỳ lạ nhất nhé.
 </teacher_script>
 
 <questions type="speaking">
@@ -286,13 +279,12 @@ Thảo luận nhóm: Luật nào lạ nhất?
 </questions>
 
 <teacher_script pause="0" action="record">
-Ghi âm nói về luật giao thông nào em thấy lạ nhất và tại sao nha.
+Các em hãy ghi âm câu trả lời của mình và gửi cho thầy nhé.
 </teacher_script>
 
 ---
 
 <!-- chunk: end -->
 <teacher_script pause="0">
-Ok hết Communication rồi. Về nhà nhớ cấu trúc: <eng>How does</eng> + người + <eng>get to</eng> + nơi?
-Bài sau qua Skills 1. Hẹn gặp lại!
+Bài học hôm nay kết thúc tại đây. Các em về nhà nhớ ôn lại cấu trúc hỏi về phương tiện đi lại nhé. Bài học tiếp theo là <eng>Skills 1</eng>. Hẹn gặp lại các em!
 </teacher_script>

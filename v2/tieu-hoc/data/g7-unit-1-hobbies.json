@@ -1,0 +1,497 @@
+{
+  "unitId": "g7-unit-1-hobbies",
+  "title": "Unit 1: Hobbies - Present Simple Tense",
+  "studentName": "Tran Gia Hung",
+  "grade": 7,
+  "grammarTopics": [
+    "Present Simple Tense",
+    "Adverbs of Frequency",
+    "Verbs of Liking + V-ing/to V",
+    "Hobbies Vocabulary"
+  ],
+  "theory": {
+    "brief": "Thì hiện tại đơn diễn tả thói quen, sở thích. Khẳng định: S + V(s/es). Phủ định: S + don't/doesn't + V0. Nghi vấn: Do/Does + S + V0? Trạng từ tần suất: always, usually, often, sometimes, rarely, never. Động từ thích: like/love/enjoy/hate + V-ing hoặc to V.",
+    "examples": [
+      "I like collecting stamps. (Tôi thích sưu tập tem.)",
+      "She enjoys reading books. (Cô ấy thích đọc sách.)",
+      "He doesn't play video games. (Anh ấy không chơi game.)",
+      "Do you often watch TV? (Bạn có thường xem TV không?)",
+      "They usually go fishing on Sundays. (Họ thường đi câu cá vào Chủ nhật.)"
+    ]
+  },
+  "exercises": [
+    {
+      "id": "g7u1-ex1",
+      "type": "fill-blank",
+      "question": "I _______ (like) collecting stamps.",
+      "wordHint": "(like)",
+      "answer": "like",
+      "acceptedAnswers": [
+        "like"
+      ],
+      "hints": [
+        "Thì hiện tại đơn với 'I'"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u1-ex2",
+      "type": "fill-blank",
+      "question": "She _______ (enjoy) reading books.",
+      "wordHint": "(enjoy)",
+      "answer": "enjoys",
+      "acceptedAnswers": [
+        "enjoys"
+      ],
+      "hints": [
+        "Chủ ngữ số ít thêm -s/-es"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u1-ex3",
+      "type": "fill-blank",
+      "question": "My brother _______ (love) playing the guitar.",
+      "wordHint": "(love)",
+      "answer": "loves",
+      "acceptedAnswers": [
+        "loves"
+      ],
+      "hints": [
+        "He/She/It + V(s/es)"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u1-ex4",
+      "type": "fill-blank",
+      "question": "We _______ (not like) watching horror films.",
+      "wordHint": "(not like)",
+      "answer": "don't like",
+      "acceptedAnswers": [
+        "don't like",
+        "do not like"
+      ],
+      "hints": [
+        "Phủ định: don't + V0"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u1-ex5",
+      "type": "fill-blank",
+      "question": "He _______ (not play) video games.",
+      "wordHint": "(not play)",
+      "answer": "doesn't play",
+      "acceptedAnswers": [
+        "doesn't play",
+        "does not play"
+      ],
+      "hints": [
+        "Phủ định số ít: doesn't + V0"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u1-ex6",
+      "type": "fill-blank",
+      "question": "_______ you _______ (watch) TV every day?",
+      "wordHint": "Do/watch",
+      "answer": "Do watch",
+      "acceptedAnswers": [
+        "Do watch",
+        "Do you watch",
+        "Do-watch"
+      ],
+      "hints": [
+        "Câu hỏi: Do + S + V0?"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u1-ex7",
+      "type": "fill-blank",
+      "question": "_______ she _______ (go) swimming on weekends?",
+      "wordHint": "Does/go",
+      "answer": "Does go",
+      "acceptedAnswers": [
+        "Does go",
+        "Does she go",
+        "Does-go"
+      ],
+      "hints": [
+        "Câu hỏi số ít: Does + S + V0?"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u1-ex8",
+      "type": "fill-blank",
+      "question": "They _______ (usually) play football after school.",
+      "wordHint": "thường xuyên",
+      "answer": "usually",
+      "acceptedAnswers": [
+        "usually",
+        "often"
+      ],
+      "hints": [
+        "Trạng từ tần suất đứng trước động từ thường"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u1-ex9",
+      "type": "fill-blank",
+      "question": "She _______ (always) helps her mom with housework.",
+      "wordHint": "luôn luôn",
+      "answer": "always",
+      "acceptedAnswers": [
+        "always"
+      ],
+      "hints": [
+        "always = luôn luôn"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u1-ex10",
+      "type": "fill-blank",
+      "question": "I _______ (never) get up late.",
+      "wordHint": "không bao giờ",
+      "answer": "never",
+      "acceptedAnswers": [
+        "never"
+      ],
+      "hints": [
+        "never = không bao giờ"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u1-ex11",
+      "type": "fill-blank",
+      "question": "My sister enjoys _______ (paint) pictures.",
+      "wordHint": "(paint)",
+      "answer": "painting",
+      "acceptedAnswers": [
+        "painting"
+      ],
+      "hints": [
+        "enjoy + V-ing"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u1-ex12",
+      "type": "fill-blank",
+      "question": "They love _______ (listen) to music.",
+      "wordHint": "(listen)",
+      "answer": "listening",
+      "acceptedAnswers": [
+        "listening"
+      ],
+      "hints": [
+        "love + V-ing"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u1-ex13",
+      "type": "fill-blank",
+      "question": "I like _______ (take) photos of nature.",
+      "wordHint": "(take)",
+      "answer": "taking",
+      "acceptedAnswers": [
+        "taking",
+        "to take"
+      ],
+      "hints": [
+        "like + V-ing hoặc to V"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u1-ex14",
+      "type": "fill-blank",
+      "question": "He hates _______ (do) homework.",
+      "wordHint": "(do)",
+      "answer": "doing",
+      "acceptedAnswers": [
+        "doing"
+      ],
+      "hints": [
+        "hate + V-ing"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u1-ex15",
+      "type": "fill-blank",
+      "question": "We prefer _______ (play) outdoors.",
+      "wordHint": "(play)",
+      "answer": "playing",
+      "acceptedAnswers": [
+        "playing",
+        "to play"
+      ],
+      "hints": [
+        "prefer + V-ing/to V"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u1-ex16",
+      "type": "multiple-choice",
+      "question": "She _______ jogging every morning.",
+      "options": [
+        "go",
+        "goes",
+        "going",
+        "to go"
+      ],
+      "correctIndex": 1,
+      "explanation": "Chủ ngữ số ít + V(s/es)",
+      "hints": [
+        "She/He/It + V(s/es)"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u1-ex17",
+      "type": "multiple-choice",
+      "question": "They _______ play chess at the club.",
+      "options": [
+        "doesn't",
+        "don't",
+        "isn't",
+        "aren't"
+      ],
+      "correctIndex": 1,
+      "explanation": "Phủ định với They: don't + V0",
+      "hints": [
+        "They/We + don't"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u1-ex18",
+      "type": "multiple-choice",
+      "question": "_______ your brother like cooking?",
+      "options": [
+        "Do",
+        "Does",
+        "Is",
+        "Are"
+      ],
+      "correctIndex": 1,
+      "explanation": "Câu hỏi số ít: Does + S + V0?",
+      "hints": [
+        "He/She/It → Does"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u1-ex19",
+      "type": "multiple-choice",
+      "question": "I _______ watch TV in the evening.",
+      "options": [
+        "never",
+        "doesn't",
+        "don't never",
+        "not"
+      ],
+      "correctIndex": 0,
+      "explanation": "Trạng từ tần suất đứng trước động từ",
+      "hints": [
+        "Trạng từ tần suất"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u1-ex20",
+      "type": "multiple-choice",
+      "question": "My friends enjoy _______ basketball.",
+      "options": [
+        "play",
+        "plays",
+        "playing",
+        "to playing"
+      ],
+      "correctIndex": 2,
+      "explanation": "enjoy + V-ing",
+      "hints": [
+        "enjoy + V-ing"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u1-ex21",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "I like collecting stamps.",
+        "I like collecting stamps"
+      ],
+      "hints": [
+        "like + V-ing"
+      ],
+      "points": 15,
+      "correctSentence": "I like collecting stamps.",
+      "words": [
+        "collecting",
+        "I",
+        "stamps",
+        "like"
+      ]
+    },
+    {
+      "id": "g7u1-ex22",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "She enjoys reading books.",
+        "She enjoys reading books"
+      ],
+      "hints": [
+        "S + enjoys + V-ing"
+      ],
+      "points": 15,
+      "correctSentence": "She enjoys reading books.",
+      "words": [
+        "books",
+        "enjoys",
+        "reading",
+        "she"
+      ]
+    },
+    {
+      "id": "g7u1-ex23",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "He doesn't play video games.",
+        "He doesn't play video games"
+      ],
+      "hints": [
+        "doesn't + V0"
+      ],
+      "points": 15,
+      "correctSentence": "He doesn't play video games.",
+      "words": [
+        "doesn't",
+        "he",
+        "games",
+        "play",
+        "video"
+      ]
+    },
+    {
+      "id": "g7u1-ex24",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "Do you often watch TV?",
+        "Do you often watch TV"
+      ],
+      "hints": [
+        "Do + S + trạng từ + V0?"
+      ],
+      "points": 15,
+      "correctSentence": "Do you often watch TV?",
+      "words": [
+        "you",
+        "watch",
+        "do",
+        "TV",
+        "often"
+      ]
+    },
+    {
+      "id": "g7u1-ex25",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "They usually go fishing on Sundays.",
+        "They usually go fishing on Sundays"
+      ],
+      "hints": [
+        "S + trạng từ + V + time"
+      ],
+      "points": 15,
+      "correctSentence": "They usually go fishing on Sundays.",
+      "words": [
+        "go",
+        "usually",
+        "they",
+        "Sundays",
+        "fishing",
+        "on"
+      ]
+    },
+    {
+      "id": "g7u1-ex26",
+      "type": "error-correct",
+      "wrongSentence": "She like painting pictures.",
+      "correctSentence": "She likes painting pictures.",
+      "errorWord": "like",
+      "correction": "likes",
+      "explanation": "Chủ ngữ số ít (She) cần thêm -s",
+      "hints": [
+        "Chủ ngữ số ít + V(s/es)"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u1-ex27",
+      "type": "error-correct",
+      "wrongSentence": "They doesn't play football.",
+      "correctSentence": "They don't play football.",
+      "errorWord": "doesn't",
+      "correction": "don't",
+      "explanation": "Chủ ngữ số nhiều dùng don't",
+      "hints": [
+        "They/We → don't"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u1-ex28",
+      "type": "error-correct",
+      "wrongSentence": "Do she like dancing?",
+      "correctSentence": "Does she like dancing?",
+      "errorWord": "Do",
+      "correction": "Does",
+      "explanation": "Câu hỏi số ít dùng Does",
+      "hints": [
+        "She/He → Does"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u1-ex29",
+      "type": "error-correct",
+      "wrongSentence": "I enjoy to read comic books.",
+      "correctSentence": "I enjoy reading comic books.",
+      "errorWord": "to read",
+      "correction": "reading",
+      "explanation": "enjoy + V-ing (không dùng to V)",
+      "hints": [
+        "enjoy + V-ing"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u1-ex30",
+      "type": "error-correct",
+      "wrongSentence": "He always go to school early.",
+      "correctSentence": "He always goes to school early.",
+      "errorWord": "go",
+      "correction": "goes",
+      "explanation": "Chủ ngữ số ít: He + V(s/es)",
+      "hints": [
+        "He/She/It + V(s/es)"
+      ],
+      "points": 10
+    }
+  ]
+}

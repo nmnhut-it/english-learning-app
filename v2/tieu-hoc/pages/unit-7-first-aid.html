@@ -1,0 +1,385 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Unit 7: First Aid - Reported Speech | English Grammar Games</title>
+  <meta name="description" content="Practice reported speech with said and told, changing tenses and time words">
+
+  <!-- Shared Styles -->
+  <link rel="stylesheet" href="../css/shared.css">
+</head>
+<body>
+  <!-- Game Header -->
+  <header class="game-header">
+    <div class="container">
+      <div class="game-header__container">
+        <div class="game-header__info-section">
+          <h1 class="game-header__title">Unit 7: First Aid</h1>
+          <p class="game-header__subtitle">Reported Speech</p>
+          <div class="game-info">
+            <div class="game-info__item">
+              <span class="game-info__label">Giáo viên:</span>
+              <span class="game-info__value">Nguyễn Minh Nhựt</span>
+            </div>
+            <div class="game-info__item">
+              <span class="game-info__label">Học sinh:</span>
+              <span class="game-info__value"></span>
+            </div>
+          </div>
+        </div>
+
+        <div class="game-header__stats">
+          <div class="stat">
+            <span class="stat__label">Điểm</span>
+            <span class="stat__value stat__value--primary" id="current-score">⭐ 0</span>
+          </div>
+
+          <div class="stat">
+            <span class="stat__label">Tiến độ</span>
+            <span class="stat__value" id="progress-count">0 / 0</span>
+          </div>
+
+          <div class="stat" id="combo-display" style="display: none;">
+            <span class="stat__label">Combo</span>
+            <span class="stat__value" id="combo-count">0</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Progress Bar -->
+      <div class="progress">
+        <div class="progress__bar" id="progress-bar" style="width: 0%;"></div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Content -->
+  <main class="container">
+    <!-- Theory Panel (Collapsible) -->
+    <div class="theory-panel" id="theory-panel">
+      <button class="theory-panel__toggle" id="theory-toggle">
+        <span>📖 Tài liệu ngữ pháp</span>
+        <span class="theory-panel__icon" id="theory-icon">▼</span>
+      </button>
+
+      <div class="theory-panel__content" id="theory-content">
+        <!-- Phần 1: Giới thiệu Reported Speech -->
+        <div class="theory-panel__section">
+          <h3 class="theory-panel__heading">Câu tường thuật là gì?</h3>
+          <p>Khi bạn kể lại lời ai đó nói, bạn có 2 cách:</p>
+          <p><strong>1. Direct Speech (Câu trực tiếp):</strong> Trích dẫn NGUYÊN VĂN lời họ nói, đặt trong ngoặc kép.</p>
+          <p><strong>2. Reported Speech (Câu tường thuật):</strong> KỂ LẠI lời họ nói theo cách của mình, KHÔNG dùng ngoặc kép.</p>
+          <div class="theory-panel__example">
+            <strong>Tình huống:</strong> Bác sĩ khám và nói "Tay em bị gãy rồi."<br><br>
+            <strong>Direct:</strong> The doctor said, <span style="color: var(--info);">"It's broken."</span><br>
+            <strong>Reported:</strong> The doctor said it <span style="color: var(--primary);">was</span> broken.<br><br>
+            <em>Chú ý: "is" đổi thành "was" - đây là quy tắc quan trọng nhất!</em>
+          </div>
+        </div>
+
+        <!-- Phần 2: Quy tắc lùi thì -->
+        <div class="theory-panel__section">
+          <h3 class="theory-panel__heading">Quy tắc "Lùi một thì" (Backshift)</h3>
+          <p>Khi chuyển sang câu tường thuật, động từ phải <strong>LÙI 1 THÌ</strong> về quá khứ:</p>
+          <table style="width: 100%; border-collapse: collapse; margin: 10px 0;">
+            <tr style="background: var(--info); color: white;">
+              <th style="padding: 10px; text-align: center;">Câu trực tiếp</th>
+              <th style="padding: 10px; text-align: center;"></th>
+              <th style="padding: 10px; text-align: center;">Câu tường thuật</th>
+            </tr>
+            <tr style="background: var(--bg-light);">
+              <td style="padding: 10px; text-align: center;"><strong>am / is / are</strong></td>
+              <td style="padding: 10px; text-align: center;">→</td>
+              <td style="padding: 10px; text-align: center;"><strong>was / were</strong></td>
+            </tr>
+            <tr>
+              <td style="padding: 10px; text-align: center;"><strong>do / does</strong></td>
+              <td style="padding: 10px; text-align: center;">→</td>
+              <td style="padding: 10px; text-align: center;"><strong>did</strong></td>
+            </tr>
+            <tr style="background: var(--bg-light);">
+              <td style="padding: 10px; text-align: center;"><strong>have / has</strong></td>
+              <td style="padding: 10px; text-align: center;">→</td>
+              <td style="padding: 10px; text-align: center;"><strong>had</strong></td>
+            </tr>
+            <tr>
+              <td style="padding: 10px; text-align: center;"><strong>can</strong></td>
+              <td style="padding: 10px; text-align: center;">→</td>
+              <td style="padding: 10px; text-align: center;"><strong>could</strong></td>
+            </tr>
+            <tr style="background: var(--bg-light);">
+              <td style="padding: 10px; text-align: center;"><strong>will</strong></td>
+              <td style="padding: 10px; text-align: center;">→</td>
+              <td style="padding: 10px; text-align: center;"><strong>would</strong></td>
+            </tr>
+            <tr>
+              <td style="padding: 10px; text-align: center;"><strong>have to</strong></td>
+              <td style="padding: 10px; text-align: center;">→</td>
+              <td style="padding: 10px; text-align: center;"><strong>had to</strong></td>
+            </tr>
+            <tr style="background: var(--bg-light);">
+              <td style="padding: 10px; text-align: center;"><strong>don't / doesn't</strong></td>
+              <td style="padding: 10px; text-align: center;">→</td>
+              <td style="padding: 10px; text-align: center;"><strong>didn't</strong></td>
+            </tr>
+          </table>
+          <div class="theory-panel__example">
+            <strong>Ví dụ thực tế:</strong><br>
+            "I <span style="color: var(--danger);">am</span> tired." → He said he <span style="color: var(--primary);">was</span> tired.<br>
+            "I <span style="color: var(--danger);">can</span> help." → She said she <span style="color: var(--primary);">could</span> help.<br>
+            "We <span style="color: var(--danger);">will</span> come." → They said they <span style="color: var(--primary);">would</span> come.
+          </div>
+        </div>
+
+        <!-- Phần 3: Said vs Told -->
+        <div class="theory-panel__section">
+          <h3 class="theory-panel__heading">Khi nào dùng SAID, khi nào dùng TOLD?</h3>
+          <p>Đây là lỗi phổ biến nhất! Ghi nhớ:</p>
+          <table style="width: 100%; border-collapse: collapse; margin: 10px 0;">
+            <tr style="background: var(--primary); color: white;">
+              <th style="padding: 10px;">SAID</th>
+              <th style="padding: 10px;">TOLD</th>
+            </tr>
+            <tr>
+              <td style="padding: 10px; vertical-align: top;">
+                <strong>KHÔNG có người nghe</strong><br>
+                S + <strong>said</strong> + (that) + clause<br><br>
+                <em>She <strong>said</strong> she was tired.</em>
+              </td>
+              <td style="padding: 10px; vertical-align: top;">
+                <strong>CÓ người nghe</strong> (me/you/him/her/us/them)<br>
+                S + <strong>told</strong> + object + (that) + clause<br><br>
+                <em>She <strong>told me</strong> she was tired.</em>
+              </td>
+            </tr>
+          </table>
+          <div class="theory-panel__example" style="background: #ffebee; border-left-color: var(--danger);">
+            <strong>Lỗi sai thường gặp:</strong><br>
+            ❌ He <span style="color: var(--danger); text-decoration: line-through;">said me</span> he was tired. (SAI!)<br>
+            ❌ She <span style="color: var(--danger); text-decoration: line-through;">told</span> she was happy. (SAI - thiếu người nghe!)<br>
+            ❌ He <span style="color: var(--danger); text-decoration: line-through;">told to me</span> he was coming. (SAI - không có "to"!)<br><br>
+            <strong>Cách đúng:</strong><br>
+            ✓ He <span style="color: var(--primary);">told me</span> he was tired.<br>
+            ✓ She <span style="color: var(--primary);">said</span> she was happy.<br>
+            ✓ He <span style="color: var(--primary);">told me</span> he was coming.
+          </div>
+          <p style="margin-top: 10px;"><strong>Mẹo nhớ:</strong> TOLD = TOLD somebody (luôn có ai đó đứng sau)</p>
+        </div>
+
+        <!-- Phần 4: Đổi đại từ -->
+        <div class="theory-panel__section">
+          <h3 class="theory-panel__heading">Đổi đại từ (Pronoun Changes)</h3>
+          <p>Khi kể lại lời người khác, phải đổi đại từ cho phù hợp:</p>
+          <table style="width: 100%; border-collapse: collapse; margin: 10px 0;">
+            <tr style="background: var(--bg-light);">
+              <th style="padding: 8px;">Trực tiếp</th>
+              <th style="padding: 8px;">Tường thuật</th>
+            </tr>
+            <tr>
+              <td style="padding: 8px; text-align: center;"><strong>I</strong></td>
+              <td style="padding: 8px; text-align: center;"><strong>he / she</strong></td>
+            </tr>
+            <tr style="background: var(--bg-light);">
+              <td style="padding: 8px; text-align: center;"><strong>my</strong></td>
+              <td style="padding: 8px; text-align: center;"><strong>his / her</strong></td>
+            </tr>
+            <tr>
+              <td style="padding: 8px; text-align: center;"><strong>we</strong></td>
+              <td style="padding: 8px; text-align: center;"><strong>they</strong></td>
+            </tr>
+            <tr style="background: var(--bg-light);">
+              <td style="padding: 8px; text-align: center;"><strong>you</strong> (nói với ai)</td>
+              <td style="padding: 8px; text-align: center;"><strong>I / me</strong> (người được nói)</td>
+            </tr>
+          </table>
+          <div class="theory-panel__example">
+            <strong>Ví dụ:</strong><br>
+            "<span style="color: var(--danger);">I</span> love <span style="color: var(--danger);">my</span> dog." → He said <span style="color: var(--primary);">he</span> loved <span style="color: var(--primary);">his</span> dog.<br>
+            "<span style="color: var(--danger);">You</span> have to help <span style="color: var(--danger);">me</span>." (nói với tôi) → He told me <span style="color: var(--primary);">I</span> had to help <span style="color: var(--primary);">him</span>.
+          </div>
+        </div>
+
+        <!-- Phần 5: Đổi từ chỉ thời gian -->
+        <div class="theory-panel__section">
+          <h3 class="theory-panel__heading">Đổi từ chỉ thời gian & nơi chốn</h3>
+          <p>Vì câu được kể lại ở thời điểm khác, nên các từ chỉ thời gian cũng phải thay đổi:</p>
+          <table style="width: 100%; border-collapse: collapse; margin: 10px 0;">
+            <tr style="background: var(--info); color: white;">
+              <th style="padding: 10px;">Trực tiếp</th>
+              <th style="padding: 10px;"></th>
+              <th style="padding: 10px;">Tường thuật</th>
+            </tr>
+            <tr style="background: var(--bg-light);">
+              <td style="padding: 8px; text-align: center;"><strong>today</strong></td>
+              <td style="padding: 8px; text-align: center;">→</td>
+              <td style="padding: 8px; text-align: center;"><strong>that day</strong></td>
+            </tr>
+            <tr>
+              <td style="padding: 8px; text-align: center;"><strong>tonight</strong></td>
+              <td style="padding: 8px; text-align: center;">→</td>
+              <td style="padding: 8px; text-align: center;"><strong>that night</strong></td>
+            </tr>
+            <tr style="background: var(--bg-light);">
+              <td style="padding: 8px; text-align: center;"><strong>tomorrow</strong></td>
+              <td style="padding: 8px; text-align: center;">→</td>
+              <td style="padding: 8px; text-align: center;"><strong>the next day / the following day</strong></td>
+            </tr>
+            <tr>
+              <td style="padding: 8px; text-align: center;"><strong>yesterday</strong></td>
+              <td style="padding: 8px; text-align: center;">→</td>
+              <td style="padding: 8px; text-align: center;"><strong>the day before / the previous day</strong></td>
+            </tr>
+            <tr style="background: var(--bg-light);">
+              <td style="padding: 8px; text-align: center;"><strong>now</strong></td>
+              <td style="padding: 8px; text-align: center;">→</td>
+              <td style="padding: 8px; text-align: center;"><strong>then</strong></td>
+            </tr>
+            <tr>
+              <td style="padding: 8px; text-align: center;"><strong>here</strong></td>
+              <td style="padding: 8px; text-align: center;">→</td>
+              <td style="padding: 8px; text-align: center;"><strong>there</strong></td>
+            </tr>
+            <tr style="background: var(--bg-light);">
+              <td style="padding: 8px; text-align: center;"><strong>this</strong></td>
+              <td style="padding: 8px; text-align: center;">→</td>
+              <td style="padding: 8px; text-align: center;"><strong>that</strong></td>
+            </tr>
+            <tr>
+              <td style="padding: 8px; text-align: center;"><strong>next week</strong></td>
+              <td style="padding: 8px; text-align: center;">→</td>
+              <td style="padding: 8px; text-align: center;"><strong>the following week / the next week</strong></td>
+            </tr>
+          </table>
+          <div class="theory-panel__example">
+            <strong>Ví dụ:</strong><br>
+            "I'm working <span style="color: var(--danger);">now</span>." → She said she was working <span style="color: var(--primary);">then</span>.<br>
+            "I'll come <span style="color: var(--danger);">tomorrow</span>." → He said he would come <span style="color: var(--primary);">the next day</span>.
+          </div>
+        </div>
+
+        <!-- Phần 6: Tổng kết với ví dụ hoàn chỉnh -->
+        <div class="theory-panel__section">
+          <h3 class="theory-panel__heading">Tổng kết: 3 bước chuyển câu tường thuật</h3>
+          <p>Khi chuyển từ câu trực tiếp sang câu tường thuật, làm theo 3 bước:</p>
+          <ol>
+            <li><strong>Bước 1:</strong> Chọn <strong>said</strong> hoặc <strong>told</strong> (có người nghe → told)</li>
+            <li><strong>Bước 2:</strong> <strong>Lùi thì</strong> động từ (is→was, can→could, will→would...)</li>
+            <li><strong>Bước 3:</strong> <strong>Đổi đại từ</strong> và <strong>từ chỉ thời gian</strong></li>
+          </ol>
+          <div class="theory-panel__example" style="background: #e8f5e9; border-left-color: var(--primary);">
+            <strong>Ví dụ hoàn chỉnh:</strong><br><br>
+            <strong>Direct:</strong> Tom says to me: "I <span style="color: var(--danger);">can't</span> find <span style="color: var(--danger);">my</span> book <span style="color: var(--danger);">here</span>."<br><br>
+            <strong>Phân tích:</strong><br>
+            - Có "to me" → dùng <strong>told me</strong><br>
+            - can't → <strong>couldn't</strong><br>
+            - I → <strong>he</strong>, my → <strong>his</strong><br>
+            - here → <strong>there</strong><br><br>
+            <strong>Reported:</strong> Tom <span style="color: var(--primary);">told me</span> <span style="color: var(--primary);">he</span> <span style="color: var(--primary);">couldn't</span> find <span style="color: var(--primary);">his</span> book <span style="color: var(--primary);">there</span>.
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Exercise Container -->
+    <div id="exercise-container">
+      <!-- Exercises will be rendered here dynamically -->
+      <div class="card text-center">
+        <h2>Loading...</h2>
+        <p>Please wait while we load the exercises.</p>
+      </div>
+    </div>
+  </main>
+
+  <!-- Core JavaScript (loaded first) -->
+  <script src="../js/core/utils.js"></script>
+  <script src="../js/core/storage.js"></script>
+  <script src="../js/core/telegram-sender.js"></script>
+  <script src="../js/core/game-engine.js"></script>
+
+  <!-- Exercise Type Handlers (mobile-friendly types only) -->
+  <script src="../js/exercises/multiple-choice.js"></script>
+  <script src="../js/exercises/word-rearrange.js"></script>
+
+  <!-- Initialize Game -->
+  <script>
+    const UNIT_ID = 'unit-7-first-aid';
+    const DATA_PATH = '../data/unit-7-first-aid.json';
+
+    // Theory panel toggle
+    const theoryToggle = document.getElementById('theory-toggle');
+    const theoryContent = document.getElementById('theory-content');
+    const theoryIcon = document.getElementById('theory-icon');
+
+    theoryToggle.addEventListener('click', () => {
+      const isExpanded = theoryContent.classList.contains('theory-panel__content--expanded');
+
+      if (isExpanded) {
+        theoryContent.classList.remove('theory-panel__content--expanded');
+        theoryIcon.classList.remove('theory-panel__icon--rotated');
+      } else {
+        theoryContent.classList.add('theory-panel__content--expanded');
+        theoryIcon.classList.add('theory-panel__icon--rotated');
+      }
+    });
+
+    // Combo display logic
+    function updateComboDisplay() {
+      const comboDisplay = document.getElementById('combo-display');
+      const comboCount = document.getElementById('combo-count');
+      const state = GameEngine.getState();
+
+      if (state.comboCount >= 3) {
+        comboDisplay.style.display = 'flex';
+        comboCount.textContent = state.comboCount + 'x 🔥';
+      } else {
+        comboDisplay.style.display = 'none';
+      }
+    }
+
+    // Override GameEngine.updateUI to include combo display
+    const originalUpdateUI = GameEngine.updateUI.bind(GameEngine);
+    GameEngine.updateUI = function() {
+      originalUpdateUI();
+      updateComboDisplay();
+    };
+
+    // Load unit data and start game
+    async function loadAndStartGame() {
+      try {
+        const response = await fetch(DATA_PATH);
+
+        if (!response.ok) {
+          throw new Error(`Failed to load data: ${response.status}`);
+        }
+
+        const unitData = await response.json();
+
+        console.log('Unit data loaded:', unitData);
+        console.log('Registered exercise handlers:', Object.keys(GameEngine.exerciseHandlers));
+
+        GameEngine.init(unitData, UNIT_ID);
+
+      } catch (error) {
+        console.error('Error loading game data:', error);
+
+        const container = document.getElementById('exercise-container');
+        container.innerHTML = `
+          <div class="card">
+            <h2 style="color: var(--danger);">Error Loading Game</h2>
+            <p>Sorry, we couldn't load the exercise data. Please try refreshing the page.</p>
+            <p style="font-size: var(--font-size-sm); color: var(--text-light);">Error: ${error.message}</p>
+            <button class="btn btn--primary mt-2" onclick="location.reload()">Reload Page</button>
+          </div>
+        `;
+      }
+    }
+
+    // Start game when page loads
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', loadAndStartGame);
+    } else {
+      loadAndStartGame();
+    }
+  </script>
+</body>
+</html>

@@ -1,0 +1,565 @@
+{
+  "unitId": "g9-unit-9-world-englishes",
+  "title": "Grade 9 - Unit 9: World Englishes",
+  "grammarTopics": [
+    "Defining Relative Clauses"
+  ],
+  "theory": {
+    "brief": "Mệnh đề quan hệ xác định (Defining Relative Clauses): dùng để xác định danh từ đứng trước. Không có dấu phẩy. Có thể dùng \"that\" thay who/which. Có thể lược bỏ who/which/that khi nó là tân ngữ (sau nó là chủ ngữ + động từ).",
+    "examples": [
+      "The book which I bought is interesting. (Cuốn sách tôi mua rất hay.)",
+      "The girl who sits next to me is friendly. (Cô gái ngồi cạnh tôi rất thân thiện.)",
+      "The cake (that) my mom made is delicious. (Bánh mẹ tôi làm rất ngon.)",
+      "The student whose grades are high can compete. (Học sinh có điểm cao có thể thi.)"
+    ]
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "type": "multiple-choice",
+      "question": "The language __________ people speak in Singapore is English.",
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "where"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Language' là vật nên dùng 'which'",
+      "hints": [
+        "Language = vật → which"
+      ],
+      "points": 10
+    },
+    {
+      "id": 2,
+      "type": "multiple-choice",
+      "question": "People __________ first language is not English use it for work.",
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "that"
+      ],
+      "correctIndex": 2,
+      "explanation": "Whose + first language (sở hữu)",
+      "hints": [
+        "whose + N"
+      ],
+      "points": 10
+    },
+    {
+      "id": 3,
+      "type": "multiple-choice",
+      "question": "The dictionary __________ I bought yesterday is very helpful.",
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "where"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Dictionary' là vật nên dùng 'which'",
+      "hints": [
+        "Dictionary = vật → which"
+      ],
+      "points": 10
+    },
+    {
+      "id": 4,
+      "type": "multiple-choice",
+      "question": "The teacher __________ helped me learn English lives in Paris.",
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "what"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Teacher' là người nên dùng 'who'",
+      "hints": [
+        "Teacher = người → who"
+      ],
+      "points": 10
+    },
+    {
+      "id": 5,
+      "type": "multiple-choice",
+      "question": "Students __________ practice daily improve quickly.",
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "what"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Students' là người nên dùng 'who'",
+      "hints": [
+        "Students = người → who"
+      ],
+      "points": 10
+    },
+    {
+      "id": 6,
+      "type": "multiple-choice",
+      "question": "The book __________ pages are torn needs replacing.",
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "that"
+      ],
+      "correctIndex": 2,
+      "explanation": "Whose + pages (sở hữu)",
+      "hints": [
+        "whose + N"
+      ],
+      "points": 10
+    },
+    {
+      "id": 7,
+      "type": "multiple-choice",
+      "question": "The company __________ employees speak multiple languages is expanding.",
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "where"
+      ],
+      "correctIndex": 2,
+      "explanation": "Whose + employees",
+      "hints": [
+        "whose + N"
+      ],
+      "points": 10
+    },
+    {
+      "id": 8,
+      "type": "multiple-choice",
+      "question": "The app __________ helps people learn English is free.",
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "what"
+      ],
+      "correctIndex": 1,
+      "explanation": "'App' là vật nên dùng 'which'",
+      "hints": [
+        "App = vật → which"
+      ],
+      "points": 10
+    },
+    {
+      "id": 9,
+      "type": "multiple-choice",
+      "question": "The translator __________ works with our team is skilled.",
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "where"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Translator' là người nên dùng 'who'",
+      "hints": [
+        "Translator = người → who"
+      ],
+      "points": 10
+    },
+    {
+      "id": 10,
+      "type": "multiple-choice",
+      "question": "The vocabulary __________ we learned yesterday is difficult.",
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "what"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Vocabulary' là vật nên dùng 'which'",
+      "hints": [
+        "Vocabulary = vật → which"
+      ],
+      "points": 10
+    },
+    {
+      "id": 11,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": [
+        "The",
+        "student",
+        "who",
+        "won",
+        "first",
+        "prize",
+        "studied",
+        "hard"
+      ],
+      "correctSentence": "The student who won first prize studied hard.",
+      "explanation": "who thay cho 'student'",
+      "hints": [
+        "N (người) + who + V"
+      ],
+      "points": 10
+    },
+    {
+      "id": 12,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": [
+        "The",
+        "exercises",
+        "which",
+        "are",
+        "in",
+        "this",
+        "book",
+        "are",
+        "hard"
+      ],
+      "correctSentence": "The exercises which are in this book are hard.",
+      "explanation": "which thay cho 'exercises'",
+      "hints": [
+        "N + which + V"
+      ],
+      "points": 10
+    },
+    {
+      "id": 13,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": [
+        "Students",
+        "whose",
+        "grades",
+        "are",
+        "high",
+        "can",
+        "compete"
+      ],
+      "correctSentence": "Students whose grades are high can compete.",
+      "explanation": "whose + grades",
+      "hints": [
+        "N + whose + N + V"
+      ],
+      "points": 10
+    },
+    {
+      "id": 14,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": [
+        "The",
+        "teacher",
+        "who",
+        "I",
+        "admire",
+        "speaks",
+        "three",
+        "languages"
+      ],
+      "correctSentence": "The teacher who I admire speaks three languages.",
+      "explanation": "who có th→ gi→ l→i ho→c b→",
+      "hints": [
+        "N + who + S + V"
+      ],
+      "points": 10
+    },
+    {
+      "id": 15,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": [
+        "The",
+        "countries",
+        "which",
+        "use",
+        "English",
+        "are",
+        "many"
+      ],
+      "correctSentence": "The countries which use English are many.",
+      "explanation": "which thay cho 'countries'",
+      "hints": [
+        "N + which + V"
+      ],
+      "points": 10
+    },
+    {
+      "id": 16,
+      "type": "multiple-choice",
+      "question": "The website __________ helps with pronunciation is useful.",
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "where"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Website' là vật nên dùng 'which'",
+      "hints": [
+        "Website = vật → which"
+      ],
+      "points": 10
+    },
+    {
+      "id": 17,
+      "type": "multiple-choice",
+      "question": "The professor __________ research focuses on linguistics gave a lecture.",
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "that"
+      ],
+      "correctIndex": 2,
+      "explanation": "Whose + research",
+      "hints": [
+        "whose + N"
+      ],
+      "points": 10
+    },
+    {
+      "id": 18,
+      "type": "multiple-choice",
+      "question": "The tourists __________ visited our center were from Spain.",
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "where"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Tourists' là người nên dùng 'who'",
+      "hints": [
+        "Tourists = người → who"
+      ],
+      "points": 10
+    },
+    {
+      "id": 19,
+      "type": "multiple-choice",
+      "question": "The language school __________ I studied at is recommended.",
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "where"
+      ],
+      "correctIndex": 1,
+      "explanation": "'School' là vật/địa điểm nên dùng 'which'",
+      "hints": [
+        "School = vật → which"
+      ],
+      "points": 10
+    },
+    {
+      "id": 20,
+      "type": "multiple-choice",
+      "question": "The examiner __________ graded my test was thorough.",
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "what"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Examiner' là người nên dùng 'who'",
+      "hints": [
+        "Examiner = người → who"
+      ],
+      "points": 10
+    },
+    {
+      "id": 21,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": [
+        "The",
+        "accent",
+        "which",
+        "she",
+        "has",
+        "is",
+        "British"
+      ],
+      "correctSentence": "The accent which she has is British.",
+      "explanation": "which thay cho 'accent'",
+      "hints": [
+        "N + which + S + V"
+      ],
+      "points": 10
+    },
+    {
+      "id": 22,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": [
+        "The",
+        "man",
+        "who",
+        "translated",
+        "this",
+        "novel",
+        "is",
+        "fluent"
+      ],
+      "correctSentence": "The man who translated this novel is fluent.",
+      "explanation": "who thay cho 'man'",
+      "hints": [
+        "N + who + V"
+      ],
+      "points": 10
+    },
+    {
+      "id": 23,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": [
+        "The",
+        "course",
+        "which",
+        "I",
+        "took",
+        "was",
+        "intensive"
+      ],
+      "correctSentence": "The course which I took was intensive.",
+      "explanation": "which thay cho 'course'",
+      "hints": [
+        "N + which + S + V"
+      ],
+      "points": 10
+    },
+    {
+      "id": 24,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": [
+        "People",
+        "who",
+        "like",
+        "languages",
+        "join",
+        "our",
+        "reading",
+        "club"
+      ],
+      "correctSentence": "People who like languages join our reading club.",
+      "explanation": "who thay cho 'people'",
+      "hints": [
+        "N + who + V"
+      ],
+      "points": 10
+    },
+    {
+      "id": 25,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": [
+        "The",
+        "test",
+        "which",
+        "we",
+        "took",
+        "yesterday",
+        "was",
+        "difficult"
+      ],
+      "correctSentence": "The test which we took yesterday was difficult.",
+      "explanation": "which thay cho 'test'",
+      "hints": [
+        "N + which + S + V"
+      ],
+      "points": 10
+    },
+    {
+      "id": 26,
+      "type": "multiple-choice",
+      "question": "The city __________ we first met has changed.",
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "where"
+      ],
+      "correctIndex": 3,
+      "explanation": "N→i ch→n dùng 'where'",
+      "hints": [
+        "City (n→i ch→n) → where"
+      ],
+      "points": 10
+    },
+    {
+      "id": 27,
+      "type": "multiple-choice",
+      "question": "The partner __________ native language is French helps me.",
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "where"
+      ],
+      "correctIndex": 2,
+      "explanation": "Whose + native language",
+      "hints": [
+        "whose + N"
+      ],
+      "points": 10
+    },
+    {
+      "id": 28,
+      "type": "multiple-choice",
+      "question": "The restaurant __________ serves international cuisine is popular.",
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "what"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Restaurant' là vật/địa điểm nên dùng 'which'",
+      "hints": [
+        "Restaurant = vật → which"
+      ],
+      "points": 10
+    },
+    {
+      "id": 29,
+      "type": "multiple-choice",
+      "question": "The student __________ presentation was about languages did well.",
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "where"
+      ],
+      "correctIndex": 2,
+      "explanation": "Whose + presentation",
+      "hints": [
+        "whose + N"
+      ],
+      "points": 10
+    },
+    {
+      "id": 30,
+      "type": "multiple-choice",
+      "question": "The translator __________ dictionary was lost bought a new one.",
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "where"
+      ],
+      "correctIndex": 2,
+      "explanation": "Whose + dictionary",
+      "hints": [
+        "whose + N"
+      ],
+      "points": 10
+    }
+  ]
+}

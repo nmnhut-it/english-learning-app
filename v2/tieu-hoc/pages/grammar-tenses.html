@@ -1,0 +1,402 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Grammar Tenses - 12 Thi Trong Tieng Anh | English Practice</title>
+  <meta name="description" content="Luyen tap 12 thi trong tieng Anh - Present Simple, Present Continuous, Past Simple, Future...">
+
+  <!-- Shared Styles -->
+  <link rel="stylesheet" href="../css/shared.css">
+</head>
+<body>
+  <!-- Game Header -->
+  <header class="game-header">
+    <div class="container">
+      <div class="game-header__container">
+        <div class="game-header__info-section">
+          <h1 class="game-header__title">Grammar Tenses</h1>
+          <p class="game-header__subtitle">12 Thi Trong Tieng Anh</p>
+
+          <div class="game-info">
+            <div class="game-info__item">
+              <span class="game-info__label">Giao vien:</span>
+              <span class="game-info__value">Nguyen Minh Nhut</span>
+            </div>
+            <div class="game-info__item">
+              <span class="game-info__label">Nam hoc:</span>
+              <span class="game-info__value">2024-2025</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="game-header__stats">
+          <div class="stat">
+            <span class="stat__label">Diem</span>
+            <span class="stat__value stat__value--primary" id="current-score">0</span>
+          </div>
+
+          <div class="stat">
+            <span class="stat__label">Tien do</span>
+            <span class="stat__value" id="progress-count">0 / 0</span>
+          </div>
+
+          <div class="stat" id="combo-display" style="display: none;">
+            <span class="stat__label">Combo</span>
+            <span class="stat__value" id="combo-count">0</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Progress Bar -->
+      <div class="progress">
+        <div class="progress__bar" id="progress-bar" style="width: 0%;"></div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Content -->
+  <main class="container">
+    <!-- Theory Panel (Collapsible) -->
+    <div class="theory-panel" id="theory-panel">
+      <button class="theory-panel__toggle" id="theory-toggle">
+        <span>Ly thuyet 12 Thi Tieng Anh</span>
+        <span class="theory-panel__icon" id="theory-icon">V</span>
+      </button>
+
+      <div class="theory-panel__content" id="theory-content">
+        <!-- Present Simple -->
+        <div class="theory-panel__section" style="background: #e8f5e9; padding: 16px; border-radius: 8px; margin-bottom: 16px;">
+          <h3 class="theory-panel__heading" style="color: #2e7d32;">1. PRESENT SIMPLE (Thi Hien Tai Don)</h3>
+
+          <div class="theory-panel__example">
+            <strong>Cong thuc:</strong><br>
+            (+) S + V(s/es) + O<br>
+            (-) S + do/does + not + V + O<br>
+            (?) Do/Does + S + V + O?<br><br>
+
+            <strong>Dau hieu nhan biet:</strong><br>
+            always, usually, often, sometimes, rarely, never, every day/week/month...<br><br>
+
+            <strong>Cach dung:</strong><br>
+            - Thoi quen: <em style="color: #1976d2;">I go to school every day.</em><br>
+            - Su that hien nhien: <em style="color: #1976d2;">The sun rises in the East.</em><br>
+            - Lich trinh co dinh: <em style="color: #1976d2;">The train leaves at 8 AM.</em>
+          </div>
+
+          <div style="background: #fff3cd; padding: 10px; margin-top: 10px; border-radius: 6px;">
+            <strong>Luu y:</strong> He/She/It + V-s/es | I/You/We/They + V nguyen the
+          </div>
+        </div>
+
+        <!-- Present Continuous -->
+        <div class="theory-panel__section" style="background: #e3f2fd; padding: 16px; border-radius: 8px; margin-bottom: 16px;">
+          <h3 class="theory-panel__heading" style="color: #1565c0;">2. PRESENT CONTINUOUS (Thi Hien Tai Tiep Dien)</h3>
+
+          <div class="theory-panel__example">
+            <strong>Cong thuc:</strong><br>
+            (+) S + am/is/are + V-ing + O<br>
+            (-) S + am/is/are + not + V-ing + O<br>
+            (?) Am/Is/Are + S + V-ing + O?<br><br>
+
+            <strong>Dau hieu nhan biet:</strong><br>
+            now, right now, at the moment, Look!, Listen!, at present<br><br>
+
+            <strong>Cach dung:</strong><br>
+            - Hanh dong dang xay ra: <em style="color: #1976d2;">She is cooking now.</em><br>
+            - Ke hoach tuong lai: <em style="color: #1976d2;">I'm meeting him tomorrow.</em>
+          </div>
+        </div>
+
+        <!-- Past Simple -->
+        <div class="theory-panel__section" style="background: #fff3e0; padding: 16px; border-radius: 8px; margin-bottom: 16px;">
+          <h3 class="theory-panel__heading" style="color: #e65100;">3. PAST SIMPLE (Thi Qua Khu Don)</h3>
+
+          <div class="theory-panel__example">
+            <strong>Cong thuc:</strong><br>
+            (+) S + V-ed/V2 + O<br>
+            (-) S + did + not + V + O<br>
+            (?) Did + S + V + O?<br><br>
+
+            <strong>Dau hieu nhan biet:</strong><br>
+            yesterday, last week/month/year, ago, in 2010...<br><br>
+
+            <strong>Cach dung:</strong><br>
+            - Hanh dong da xay ra va ket thuc trong qua khu: <em style="color: #1976d2;">I visited Paris last year.</em>
+          </div>
+
+          <div style="background: #ffebee; padding: 10px; margin-top: 10px; border-radius: 6px;">
+            <strong>Dong tu bat quy tac:</strong> go-went, see-saw, buy-bought, eat-ate, take-took...
+          </div>
+        </div>
+
+        <!-- Past Continuous -->
+        <div class="theory-panel__section" style="background: #fce4ec; padding: 16px; border-radius: 8px; margin-bottom: 16px;">
+          <h3 class="theory-panel__heading" style="color: #ad1457;">4. PAST CONTINUOUS (Thi Qua Khu Tiep Dien)</h3>
+
+          <div class="theory-panel__example">
+            <strong>Cong thuc:</strong><br>
+            (+) S + was/were + V-ing + O<br>
+            (-) S + was/were + not + V-ing + O<br>
+            (?) Was/Were + S + V-ing + O?<br><br>
+
+            <strong>Dau hieu nhan biet:</strong><br>
+            at + thoi diem qua khu, when, while<br><br>
+
+            <strong>Cach dung:</strong><br>
+            - Hanh dong dang xay ra tai thoi diem trong qua khu:<br>
+            <em style="color: #1976d2;">At 8 PM last night, I was watching TV.</em><br>
+            - Hanh dong dang xay ra thi co hanh dong khac xen vao:<br>
+            <em style="color: #1976d2;">I was cooking when the phone rang.</em>
+          </div>
+        </div>
+
+        <!-- Future Simple -->
+        <div class="theory-panel__section" style="background: #e8eaf6; padding: 16px; border-radius: 8px; margin-bottom: 16px;">
+          <h3 class="theory-panel__heading" style="color: #3f51b5;">5. FUTURE SIMPLE - WILL (Thi Tuong Lai Don)</h3>
+
+          <div class="theory-panel__example">
+            <strong>Cong thuc:</strong><br>
+            (+) S + will + V + O<br>
+            (-) S + will + not (won't) + V + O<br>
+            (?) Will + S + V + O?<br><br>
+
+            <strong>Dau hieu nhan biet:</strong><br>
+            tomorrow, next week, in the future, I think..., I promise...<br><br>
+
+            <strong>Cach dung:</strong><br>
+            - Du doan (khong co bang chung): <em style="color: #1976d2;">I think it will rain.</em><br>
+            - Quyet dinh ngay luc noi: <em style="color: #1976d2;">I'll help you.</em><br>
+            - Loi hua: <em style="color: #1976d2;">I promise I will call you.</em>
+          </div>
+        </div>
+
+        <!-- Be Going To -->
+        <div class="theory-panel__section" style="background: #f3e5f5; padding: 16px; border-radius: 8px; margin-bottom: 16px;">
+          <h3 class="theory-panel__heading" style="color: #6a1b9a;">6. BE GOING TO (Du Dinh / Du Doan Co Bang Chung)</h3>
+
+          <div class="theory-panel__example">
+            <strong>Cong thuc:</strong><br>
+            (+) S + am/is/are + going to + V + O<br>
+            (-) S + am/is/are + not + going to + V + O<br>
+            (?) Am/Is/Are + S + going to + V + O?<br><br>
+
+            <strong>Cach dung:</strong><br>
+            - Du dinh da len ke hoach: <em style="color: #1976d2;">I'm going to study abroad next year.</em><br>
+            - Du doan co bang chung: <em style="color: #1976d2;">Look at those clouds! It's going to rain.</em>
+          </div>
+
+          <div style="background: #fff3cd; padding: 10px; margin-top: 10px; border-radius: 6px;">
+            <strong>WILL vs BE GOING TO:</strong><br>
+            - WILL: quyet dinh ngay luc noi, du doan khong bang chung<br>
+            - BE GOING TO: ke hoach tu truoc, du doan co bang chung
+          </div>
+        </div>
+
+        <!-- Present Perfect -->
+        <div class="theory-panel__section" style="background: #e0f2f1; padding: 16px; border-radius: 8px; margin-bottom: 16px;">
+          <h3 class="theory-panel__heading" style="color: #00695c;">7. PRESENT PERFECT (Thi Hien Tai Hoan Thanh)</h3>
+
+          <div class="theory-panel__example">
+            <strong>Cong thuc:</strong><br>
+            (+) S + have/has + V3/ed + O<br>
+            (-) S + have/has + not + V3/ed + O<br>
+            (?) Have/Has + S + V3/ed + O?<br><br>
+
+            <strong>Dau hieu nhan biet:</strong><br>
+            just, already, yet, ever, never, recently, since, for, so far, up to now<br><br>
+
+            <strong>Cach dung:</strong><br>
+            - Kinh nghiem: <em style="color: #1976d2;">I have visited Paris twice.</em><br>
+            - Hanh dong vua moi xay ra: <em style="color: #1976d2;">She has just left.</em><br>
+            - Hanh dong bat dau tu qua khu, keo dai den hien tai:<br>
+            <em style="color: #1976d2;">I have lived here since 2010. / I have lived here for 14 years.</em>
+          </div>
+
+          <div style="background: #fff3cd; padding: 10px; margin-top: 10px; border-radius: 6px;">
+            <strong>SINCE vs FOR:</strong><br>
+            - SINCE + moc thoi gian (since 2010, since Monday)<br>
+            - FOR + khoang thoi gian (for 2 years, for a week)
+          </div>
+        </div>
+
+        <!-- Past Perfect -->
+        <div class="theory-panel__section" style="background: #ffebee; padding: 16px; border-radius: 8px; margin-bottom: 16px;">
+          <h3 class="theory-panel__heading" style="color: #c62828;">8. PAST PERFECT (Thi Qua Khu Hoan Thanh)</h3>
+
+          <div class="theory-panel__example">
+            <strong>Cong thuc:</strong><br>
+            (+) S + had + V3/ed + O<br>
+            (-) S + had + not + V3/ed + O<br>
+            (?) Had + S + V3/ed + O?<br><br>
+
+            <strong>Dau hieu nhan biet:</strong><br>
+            before, after, by the time, when (+ Past Simple)<br><br>
+
+            <strong>Cach dung:</strong><br>
+            - Hanh dong xay ra TRUOC mot hanh dong khac trong qua khu:<br>
+            <em style="color: #1976d2;">When I arrived, the train had already left.</em><br>
+            <em style="color: #1976d2;">After she had finished dinner, she went to bed.</em>
+          </div>
+
+          <div style="background: #e8f5e9; padding: 10px; margin-top: 10px; border-radius: 6px;">
+            <strong>Meo:</strong> Hanh dong nao xay ra TRUOC thi dung Past Perfect, hanh dong SAU dung Past Simple.
+          </div>
+        </div>
+
+        <!-- Summary Table -->
+        <div class="theory-panel__section">
+          <h3 class="theory-panel__heading">BANG TOM TAT CAC THI</h3>
+          <table style="width: 100%; border-collapse: collapse; font-size: 14px;">
+            <tr style="background: var(--primary); color: white;">
+              <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">Thi</th>
+              <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">Cong thuc (+)</th>
+              <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">Dau hieu</th>
+            </tr>
+            <tr style="background: #e8f5e9;">
+              <td style="padding: 8px; border: 1px solid #ddd;"><strong>Present Simple</strong></td>
+              <td style="padding: 8px; border: 1px solid #ddd;">S + V(s/es)</td>
+              <td style="padding: 8px; border: 1px solid #ddd;">always, usually, every...</td>
+            </tr>
+            <tr style="background: #e3f2fd;">
+              <td style="padding: 8px; border: 1px solid #ddd;"><strong>Present Continuous</strong></td>
+              <td style="padding: 8px; border: 1px solid #ddd;">S + am/is/are + V-ing</td>
+              <td style="padding: 8px; border: 1px solid #ddd;">now, at the moment, Look!</td>
+            </tr>
+            <tr style="background: #fff3e0;">
+              <td style="padding: 8px; border: 1px solid #ddd;"><strong>Past Simple</strong></td>
+              <td style="padding: 8px; border: 1px solid #ddd;">S + V-ed/V2</td>
+              <td style="padding: 8px; border: 1px solid #ddd;">yesterday, last..., ago</td>
+            </tr>
+            <tr style="background: #fce4ec;">
+              <td style="padding: 8px; border: 1px solid #ddd;"><strong>Past Continuous</strong></td>
+              <td style="padding: 8px; border: 1px solid #ddd;">S + was/were + V-ing</td>
+              <td style="padding: 8px; border: 1px solid #ddd;">at + time (past), while, when</td>
+            </tr>
+            <tr style="background: #e8eaf6;">
+              <td style="padding: 8px; border: 1px solid #ddd;"><strong>Future Simple</strong></td>
+              <td style="padding: 8px; border: 1px solid #ddd;">S + will + V</td>
+              <td style="padding: 8px; border: 1px solid #ddd;">tomorrow, next..., I think</td>
+            </tr>
+            <tr style="background: #f3e5f5;">
+              <td style="padding: 8px; border: 1px solid #ddd;"><strong>Be Going To</strong></td>
+              <td style="padding: 8px; border: 1px solid #ddd;">S + am/is/are going to + V</td>
+              <td style="padding: 8px; border: 1px solid #ddd;">ke hoach, bang chung</td>
+            </tr>
+            <tr style="background: #e0f2f1;">
+              <td style="padding: 8px; border: 1px solid #ddd;"><strong>Present Perfect</strong></td>
+              <td style="padding: 8px; border: 1px solid #ddd;">S + have/has + V3</td>
+              <td style="padding: 8px; border: 1px solid #ddd;">just, already, yet, since, for</td>
+            </tr>
+            <tr style="background: #ffebee;">
+              <td style="padding: 8px; border: 1px solid #ddd;"><strong>Past Perfect</strong></td>
+              <td style="padding: 8px; border: 1px solid #ddd;">S + had + V3</td>
+              <td style="padding: 8px; border: 1px solid #ddd;">before, after, by the time</td>
+            </tr>
+          </table>
+        </div>
+      </div>
+    </div>
+
+    <!-- Exercise Container -->
+    <div id="exercise-container">
+      <!-- Exercises will be rendered here dynamically -->
+      <div class="card text-center">
+        <h2>Dang tai...</h2>
+        <p>Vui long doi trong khi chung toi tai bai tap.</p>
+      </div>
+    </div>
+  </main>
+
+  <!-- Core JavaScript (loaded first) -->
+  <script src="../js/core/utils.js"></script>
+  <script src="../js/core/storage.js"></script>
+  <script src="../js/core/telegram-sender.js"></script>
+  <script src="../js/core/game-engine.js"></script>
+
+  <!-- Exercise Type Handlers -->
+  <script src="../js/exercises/multiple-choice.js"></script>
+
+  <!-- Initialize Game -->
+  <script>
+    const UNIT_ID = 'grammar-tenses';
+    const DATA_PATH = '../data/grammar-tenses.json';
+
+    // Theory panel toggle
+    const theoryToggle = document.getElementById('theory-toggle');
+    const theoryContent = document.getElementById('theory-content');
+    const theoryIcon = document.getElementById('theory-icon');
+
+    theoryToggle.addEventListener('click', () => {
+      const isExpanded = theoryContent.classList.contains('theory-panel__content--expanded');
+
+      if (isExpanded) {
+        theoryContent.classList.remove('theory-panel__content--expanded');
+        theoryIcon.classList.remove('theory-panel__icon--rotated');
+      } else {
+        theoryContent.classList.add('theory-panel__content--expanded');
+        theoryIcon.classList.add('theory-panel__icon--rotated');
+      }
+    });
+
+    // Combo display logic
+    function updateComboDisplay() {
+      const comboDisplay = document.getElementById('combo-display');
+      const comboCount = document.getElementById('combo-count');
+      const state = GameEngine.getState();
+
+      if (state.comboCount >= 3) {
+        comboDisplay.style.display = 'flex';
+        comboCount.textContent = state.comboCount + 'x';
+      } else {
+        comboDisplay.style.display = 'none';
+      }
+    }
+
+    // Override GameEngine.updateUI to include combo display
+    const originalUpdateUI = GameEngine.updateUI.bind(GameEngine);
+    GameEngine.updateUI = function() {
+      originalUpdateUI();
+      updateComboDisplay();
+    };
+
+    // Load unit data and start game
+    async function loadAndStartGame() {
+      try {
+        const response = await fetch(DATA_PATH);
+
+        if (!response.ok) {
+          throw new Error(`Failed to load data: ${response.status}`);
+        }
+
+        const unitData = await response.json();
+
+        console.log('Unit data loaded:', unitData);
+        console.log('Registered exercise handlers:', Object.keys(GameEngine.exerciseHandlers));
+
+        GameEngine.init(unitData, UNIT_ID);
+
+      } catch (error) {
+        console.error('Error loading game data:', error);
+
+        const container = document.getElementById('exercise-container');
+        container.innerHTML = `
+          <div class="card">
+            <h2 style="color: var(--danger);">Loi tai bai tap</h2>
+            <p>Xin loi, chung toi khong the tai du lieu bai tap. Vui long thu tai lai trang.</p>
+            <p style="font-size: var(--font-size-sm); color: var(--text-light);">Loi: ${error.message}</p>
+            <button class="btn btn--primary mt-2" onclick="location.reload()">Tai lai trang</button>
+          </div>
+        `;
+      }
+    }
+
+    // Start game when page loads
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', loadAndStartGame);
+    } else {
+      loadAndStartGame();
+    }
+  </script>
+</body>
+</html>

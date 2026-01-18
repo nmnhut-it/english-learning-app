@@ -1,0 +1,153 @@
+{
+  "unitId": "unit-4-world-around-us",
+  "unitTitle": "Unit 4: The World Around Us - Past Continuous & Used To",
+  "vocabularyData": {
+    "grammarTerms": [
+      {
+        "word": "continuous",
+        "vietnamese": "tiếp diễn",
+        "pronunciation": "/kənˈtɪnjuəs/",
+        "definition": "An action that was happening at a specific time",
+        "example": "I was walking home when it started to rain.",
+        "difficulty": "intermediate"
+      },
+      {
+        "word": "used to",
+        "vietnamese": "đã từng",
+        "pronunciation": "/juːst tuː/",
+        "definition": "Past habits or situations that are no longer true",
+        "example": "I used to play football every weekend.",
+        "difficulty": "intermediate"
+      }
+    ],
+    "difficultWords": [
+      {
+        "word": "rubbish",
+        "vietnamese": "rác",
+        "pronunciation": "/ˈrʌbɪʃ/",
+        "definition": "Waste material; garbage",
+        "example": "We saw a bag of rubbish on the street.",
+        "difficulty": "basic"
+      },
+      {
+        "word": "archaeologist",
+        "vietnamese": "nhà khảo cổ học",
+        "pronunciation": "/ˌɑːrkiˈɒlədʒɪst/",
+        "definition": "A person who studies ancient civilizations",
+        "example": "Ancient places are found by archaeologists.",
+        "difficulty": "advanced"
+      },
+      {
+        "word": "polluted",
+        "vietnamese": "bị ô nhiễm",
+        "pronunciation": "/pəˈluːtɪd/",
+        "definition": "Made dirty or harmful with waste",
+        "example": "Did the town use to be polluted?",
+        "difficulty": "intermediate"
+      },
+      {
+        "word": "recycle",
+        "vietnamese": "tái chế",
+        "pronunciation": "/ˌriːˈsaɪkl/",
+        "definition": "Convert waste into reusable material",
+        "example": "We didn't use to recycle rubbish.",
+        "difficulty": "intermediate"
+      },
+      {
+        "word": "drama club",
+        "vietnamese": "câu lạc bộ kịch",
+        "pronunciation": "/ˈdrɑːmə klʌb/",
+        "definition": "A group that performs or studies plays",
+        "example": "Mum didn't use to go to a drama club.",
+        "difficulty": "basic"
+      },
+      {
+        "word": "additives",
+        "vietnamese": "chất phụ gia",
+        "pronunciation": "/ˈædɪtɪvz/",
+        "definition": "Substances added to food",
+        "example": "Healthy food isn't made with additives.",
+        "difficulty": "advanced"
+      }
+    ],
+    "phrasalVerbs": [
+      {
+        "verb": "look after",
+        "vietnamese": "chăm sóc",
+        "definition": "Take care of someone or something",
+        "example": "The old owner didn't use to look after the garden.",
+        "synonyms": ["take care of", "care for"]
+      },
+      {
+        "verb": "throw away",
+        "vietnamese": "vứt bỏ",
+        "definition": "Discard something",
+        "example": "Simon's family used to throw a lot of rubbish away.",
+        "synonyms": ["discard", "get rid of"]
+      },
+      {
+        "verb": "go out",
+        "vietnamese": "tắt (đèn, điện)",
+        "definition": "Stop burning or shining (lights/fire)",
+        "example": "The lights went out while we were watching TV.",
+        "synonyms": ["stop working", "turn off"]
+      }
+    ],
+    "keyPhrases": [
+      {
+        "phrase": "was/were + V-ing",
+        "vietnamese": "đang (quá khứ tiếp diễn)",
+        "structure": "was/were + verb-ing",
+        "definition": "An action in progress at a past time",
+        "example": "I was cycling home when I saw a new house.",
+        "usage": "Past continuous tense"
+      },
+      {
+        "phrase": "when + past simple",
+        "vietnamese": "khi (hành động ngắn xen vào)",
+        "structure": "when + subject + past simple verb",
+        "definition": "A short action that interrupted a longer action",
+        "example": "We were walking when we saw a bag of rubbish.",
+        "usage": "For interruptions in past continuous"
+      },
+      {
+        "phrase": "while + past continuous",
+        "vietnamese": "trong khi (hành động dài đang diễn ra)",
+        "structure": "while + subject + was/were + V-ing",
+        "definition": "A longer background action",
+        "example": "While I was walking to school, I met my friend.",
+        "usage": "For simultaneous past actions"
+      },
+      {
+        "phrase": "used to + verb",
+        "vietnamese": "đã từng",
+        "structure": "used to + base verb",
+        "definition": "Past habit that no longer happens",
+        "example": "We used to spend a lot of money.",
+        "usage": "Only for past, not present"
+      },
+      {
+        "phrase": "didn't use to + verb",
+        "vietnamese": "không từng",
+        "structure": "didn't use to + base verb",
+        "definition": "Something that was not true in the past",
+        "example": "I didn't use to like vegetables.",
+        "usage": "Negative form of used to"
+      }
+    ],
+    "usefulExpressions": [
+      {
+        "expression": "energy bills",
+        "vietnamese": "hóa đơn điện",
+        "example": "The energy bills used to be expensive.",
+        "type": "compound noun"
+      },
+      {
+        "expression": "drop rubbish",
+        "vietnamese": "vứt rác",
+        "example": "People didn't use to drop a lot of rubbish in the park.",
+        "type": "collocation"
+      }
+    ]
+  }
+}

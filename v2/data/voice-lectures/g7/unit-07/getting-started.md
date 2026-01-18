@@ -4,11 +4,11 @@
 
 <!-- chunk: intro -->
 <teacher_script pause="0">
-Chào mấy đứa lớp 7. Hôm nay thầy kẹt lịch nên không dạy ở nhà được. Đây là bài đầu tiên, Unit 7 - <eng>Traffic</eng>, giao thông. Các em có thể học bài này nhiều lần để nhớ lâu hơn hen.
+Chào các em. Chào mừng các em đến với Unit 7 - <eng>Traffic</eng>. Chủ đề về giao thông. Mời các em mở sách giáo khoa trang 8.
 </teacher_script>
 
 <teacher_script pause="0">
-Các em mở sách ra trang 8 tập 2, Unit 7, bài <eng>Getting Started</eng>, ghi tựa bài. Sau đó bấm nút "Bắt đầu" bên dưới để học từ vựng. Máy sẽ đọc và các em đọc theo. Sau đó các em làm bài trắc nghiệm từ vựng rồi ghi từ vựng vô tập.
+Chúng ta cùng bắt đầu với phần từ vựng. Các em hãy nghe và đọc theo, sau đó làm bài tập để ghi nhớ từ mới nhé.
 </teacher_script>
 
 ---
@@ -38,7 +38,7 @@ Các em mở sách ra trang 8 tập 2, Unit 7, bài <eng>Getting Started</eng>, 
 </vocabulary>
 
 <teacher_script pause="0" action="record">
-Bấm nút Ghi âm để đọc từ vựng và gửi cho thầy sửa nha.
+Các em hãy bấm nút Ghi âm để đọc từ vựng và gửi cho thầy nhé.
 </teacher_script>
 
 ---
@@ -51,7 +51,7 @@ Bấm nút Ghi âm để đọc từ vựng và gửi cho thầy sửa nha.
 </audio>
 
 <teacher_script pause="180">
-Bài 1 <eng>Listen and read</eng> nha. Đây là hội thoại Lan với Mark gặp nhau ở sân trường, nói về cách đi lại. Đọc hội thoại và dịch vô tập. 3 phút hen.
+Chúng ta cùng làm Bài 1 <eng>Listen and read</eng>. Các em hãy nghe và đọc đoạn hội thoại giữa Lan và Mark về chủ đề giao thông. Sau đó, hãy dịch đoạn hội thoại này vào vở. Các em có 3 phút.
 </teacher_script>
 
 <dialogue>
@@ -75,7 +75,7 @@ Bài 1 <eng>Listen and read</eng> nha. Đây là hội thoại Lan với Mark g�
 
 <!-- chunk: translation -->
 <teacher_script pause="0">
-Ok đây là bản dịch. So sánh với bài dịch của mình nha.
+Sau đây là bản dịch tham khảo. Các em hãy so sánh với bài làm của mình nhé.
 </teacher_script>
 
 <translation>
@@ -96,11 +96,11 @@ Ok đây là bản dịch. So sánh với bài dịch của mình nha.
 </translation>
 
 <teacher_script pause="0">
-Mấy đứa sửa bài dịch nếu sai. Sau đó qua bài tiếp theo.
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 <teacher_script pause="0" action="record">
-Bấm nút Ghi âm để đọc hội thoại và gửi cho thầy sửa nha.
+Các em hãy bấm nút Ghi âm để đọc lại đoạn hội thoại và gửi cho thầy nhé.
 </teacher_script>
 
 ---
@@ -109,7 +109,7 @@ Bấm nút Ghi âm để đọc hội thoại và gửi cho thầy sửa nha.
 ### Bài 2 trang 8 - Choose the correct answer
 
 <teacher_script pause="60">
-Bài 2 <eng>Choose the correct answer A, B, or C</eng>. Đọc lại hội thoại, chọn đáp án đúng A, B hoặc C. 1 phút nha.
+Chúng ta cùng làm Bài 2 <eng>Choose the correct answer</eng>. Các em hãy đọc lại hội thoại và chọn đáp án đúng A, B hoặc C. Các em có 1 phút.
 </teacher_script>
 
 <questions type="multiple_choice">
@@ -139,7 +139,7 @@ Bài 2 <eng>Choose the correct answer A, B, or C</eng>. Đọc lại hội tho�
 
 <!-- chunk: answer_2 -->
 <teacher_script pause="0">
-Đây là đáp án. Các em đọc lại đáp án và phần giải thích chi tiết bên dưới.
+Đã hết thời gian. Sau đây là đáp án đúng và lời giải thích chi tiết.
 </teacher_script>
 
 <answer>
@@ -164,7 +164,7 @@ Bài 2 <eng>Choose the correct answer A, B, or C</eng>. Đọc lại hội tho�
 </explanation>
 
 <teacher_script pause="30">
-Các em sửa bài nếu có sai. Nếu cần hỏi thầy cái gì thì nhấn nút micro bên dưới để thu âm hen.
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 <teacher_script pause="0" action="record">
@@ -176,7 +176,7 @@ Các em sửa bài nếu có sai. Nếu cần hỏi thầy cái gì thì nhấn 
 ### Bài 3 trang 8 - Complete the sentences
 
 <teacher_script pause="60">
-Bài 3 <eng>Complete the sentences with words from the dialogue</eng>. Viết một từ từ hội thoại để hoàn thành mỗi câu. 1 phút nha.
+Chúng ta cùng làm Bài 3 <eng>Complete the sentences</eng>. Các em hãy tìm từ hoặc cụm từ trong đoạn hội thoại để hoàn thành các câu sau. Các em có 1 phút.
 </teacher_script>
 
 <questions type="fill_blanks">
@@ -205,7 +205,7 @@ Bài 3 <eng>Complete the sentences with words from the dialogue</eng>. Viết m�
 
 <!-- chunk: answer_3 -->
 <teacher_script pause="0">
-Thầy sửa đáp án. Các em kiểm tra lại nha.
+Đã hết thời gian. Sau đây là đáp án đúng.
 </teacher_script>
 
 <answer>
@@ -237,7 +237,7 @@ Thầy sửa đáp án. Các em kiểm tra lại nha.
 </explanation>
 
 <teacher_script pause="30">
-Sửa bài nếu sai. 30 giây nha.
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
@@ -246,7 +246,7 @@ Sửa bài nếu sai. 30 giây nha.
 ### Bài 4 trang 9 - Means of transport
 
 <teacher_script pause="60">
-Bài 4 <eng>Write the means of transport under each picture</eng>. Nhìn hình và viết tên phương tiện giao thông. Ghi vô tập các từ mới. 1 phút nha.
+Chúng ta cùng làm Bài 4 <eng>Means of transport</eng>. Các em hãy viết tên các phương tiện giao thông dưới mỗi tranh. Các em có 1 phút.
 </teacher_script>
 
 <vocabulary>
@@ -261,7 +261,7 @@ Bài 4 <eng>Write the means of transport under each picture</eng>. Nhìn hình v
 </vocabulary>
 
 <teacher_script pause="0" action="record">
-Bấm nút Ghi âm để đọc các phương tiện giao thông và gửi cho thầy sửa nha.
+Các em hãy bấm nút Ghi âm để đọc tên các phương tiện giao thông và gửi cho thầy nhé.
 </teacher_script>
 
 ---
@@ -270,7 +270,7 @@ Bấm nút Ghi âm để đọc các phương tiện giao thông và gửi cho t
 ### Bài 5 trang 9 - Find someone who...
 
 <teacher_script pause="0">
-Bài 5 <eng>Find someone who...</eng> Đây là bài <eng>Speaking</eng>. Tìm bạn trong lớp theo từng tiêu chí.
+Chúng ta cùng làm Bài 5 <eng>Find someone who</eng>. Đây là hoạt động luyện nói. Các em hãy tìm những bạn trong lớp phù hợp với các mô tả sau.
 </teacher_script>
 
 <questions type="speaking">
@@ -304,7 +304,7 @@ Bài 5 <eng>Find someone who...</eng> Đây là bài <eng>Speaking</eng>. Tìm b
 </questions>
 
 <teacher_script pause="0">
-Đây là bài tập nói. Các em ghi âm bên dưới cho thầy, thầy sẽ nghe và sửa lại cho các em nha.
+Các em hãy thực hành hỏi và trả lời, sau đó ghi âm lại và gửi cho thầy nhé.
 </teacher_script>
 
 <teacher_script pause="0" action="record">
@@ -314,7 +314,7 @@ Bài 5 <eng>Find someone who...</eng> Đây là bài <eng>Speaking</eng>. Tìm b
 
 <!-- chunk: end -->
 <teacher_script pause="0">
-Ok hết <eng>Getting Started</eng> rồi. Về nhà học từ vựng nha. Nhớ 2 cấu trúc quan trọng:
+Bài học hôm nay kết thúc tại đây. Các em về nhà nhớ học từ vựng và xem lại hai cấu trúc quan trọng đã học:
 </teacher_script>
 
 <teacher_script pause="0">
@@ -326,5 +326,5 @@ Ok hết <eng>Getting Started</eng> rồi. Về nhà học từ vựng nha. Nh�
 </teacher_script>
 
 <teacher_script pause="0">
-Bài sau qua <eng>A Closer Look 1</eng>. Hẹn gặp lại!
+Bài học tiếp theo là <eng>A Closer Look 1</eng>. Hẹn gặp lại các em!
 </teacher_script>

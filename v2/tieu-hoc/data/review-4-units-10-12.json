@@ -1,0 +1,1026 @@
+{
+  "unitId": "review-4-units-10-12",
+  "title": "Review 4: Units 10-12",
+  "grammarTopics": ["Indefinite pronouns", "Question tags", "The passive: present simple", "With and by", "The passive: past simple", "Passive questions"],
+  "theory": {
+    "brief": "Ôn tập: (1) Đại từ bất định: someone/somebody (ai đó), anything (bất cứ điều gì), nowhere (không ở đâu), everyone/everybody (mọi người). (2) Câu hỏi đuôi: khẳng định + đuôi phủ định, phủ định + đuôi khẳng định. (3) Passive: be + V3/ed. Present passive: am/is/are + V3. Past passive: was/were + V3. By + tác nhân, with + công cụ.",
+    "examples": [
+      "Someone is at the door. / Is there anything I can help?",
+      "You like coffee, don't you? / She isn't coming, is she?",
+      "English is spoken here. / The book was written in 1950.",
+      "The letter was sent by John. / It was cut with a knife."
+    ]
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "type": "multiple-choice",
+      "question": "__________ is knocking at the door.",
+      "options": ["Someone", "Anyone", "No one", "Everyone"],
+      "correctIndex": 0,
+      "explanation": "'Someone' dùng trong câu khẳng định",
+      "hints": ["Câu khẳng định → someone"],
+      "points": 10
+    },
+    {
+      "id": 2,
+      "type": "multiple-choice",
+      "question": "You like coffee, __________?",
+      "options": ["don't you", "do you", "aren't you", "are you"],
+      "correctIndex": 0,
+      "explanation": "Câu hỏi đuôi: khẳng định + đuôi phủ định",
+      "hints": ["like → don't"],
+      "points": 10
+    },
+    {
+      "id": 3,
+      "type": "multiple-choice",
+      "question": "English __________ spoken all over the world.",
+      "options": ["is", "are", "was", "were"],
+      "correctIndex": 0,
+      "explanation": "Passive present: is + V3",
+      "hints": ["English (số ít) + is"],
+      "points": 10
+    },
+    {
+      "id": 4,
+      "type": "multiple-choice",
+      "question": "The letter was written __________ my grandmother.",
+      "options": ["with", "by", "from", "to"],
+      "correctIndex": 1,
+      "explanation": "'by' + tác nhân (người thực hiện hành động)",
+      "hints": ["Người thực hiện → by"],
+      "points": 10
+    },
+    {
+      "id": 5,
+      "type": "multiple-choice",
+      "question": "Is there __________ I can help you with?",
+      "options": ["something", "anything", "nothing", "everything"],
+      "correctIndex": 1,
+      "explanation": "'anything' dùng trong câu hỏi",
+      "hints": ["Câu hỏi → anything"],
+      "points": 10
+    },
+    {
+      "id": 6,
+      "type": "multiple-choice",
+      "question": "She isn't coming, __________?",
+      "options": ["isn't she", "is she", "doesn't she", "does she"],
+      "correctIndex": 1,
+      "explanation": "Câu hỏi đuôi: phủ định + đuôi khẳng định",
+      "hints": ["isn't → is"],
+      "points": 10
+    },
+    {
+      "id": 7,
+      "type": "multiple-choice",
+      "question": "This house __________ built in 1990.",
+      "options": ["is", "was", "were", "are"],
+      "correctIndex": 1,
+      "explanation": "Passive past: was + V3 (số ít)",
+      "hints": ["1990 = quá khứ → was"],
+      "points": 10
+    },
+    {
+      "id": 8,
+      "type": "multiple-choice",
+      "question": "The cake was cut __________ a knife.",
+      "options": ["by", "with", "from", "for"],
+      "correctIndex": 1,
+      "explanation": "'with' + công cụ/phương tiện",
+      "hints": ["Công cụ → with"],
+      "points": 10
+    },
+    {
+      "id": 9,
+      "type": "multiple-choice",
+      "question": "I looked everywhere, but I couldn't find __________ .",
+      "options": ["anyone", "someone", "everyone", "no one"],
+      "correctIndex": 0,
+      "explanation": "'anyone' dùng trong câu phủ định",
+      "hints": ["couldn't = phủ định → anyone"],
+      "points": 10
+    },
+    {
+      "id": 10,
+      "type": "multiple-choice",
+      "question": "They haven't arrived yet, __________?",
+      "options": ["have they", "haven't they", "do they", "don't they"],
+      "correctIndex": 0,
+      "explanation": "haven't + have",
+      "hints": ["haven't → have"],
+      "points": 10
+    },
+    {
+      "id": 11,
+      "type": "multiple-choice",
+      "question": "Many languages __________ spoken in India.",
+      "options": ["is", "are", "was", "were"],
+      "correctIndex": 1,
+      "explanation": "Many languages (số nhiều) + are",
+      "hints": ["Số nhiều → are"],
+      "points": 10
+    },
+    {
+      "id": 12,
+      "type": "multiple-choice",
+      "question": "The door was opened __________ a key.",
+      "options": ["by", "with", "from", "for"],
+      "correctIndex": 1,
+      "explanation": "'with' + công cụ",
+      "hints": ["Công cụ → with"],
+      "points": 10
+    },
+    {
+      "id": 13,
+      "type": "multiple-choice",
+      "question": "There's __________ in the room. It's empty.",
+      "options": ["someone", "anyone", "no one", "everyone"],
+      "correctIndex": 2,
+      "explanation": "'no one' = không có ai",
+      "hints": ["empty = không có ai → no one"],
+      "points": 10
+    },
+    {
+      "id": 14,
+      "type": "multiple-choice",
+      "question": "He can swim, __________?",
+      "options": ["can he", "can't he", "does he", "doesn't he"],
+      "correctIndex": 1,
+      "explanation": "can + can't",
+      "hints": ["can → can't"],
+      "points": 10
+    },
+    {
+      "id": 15,
+      "type": "multiple-choice",
+      "question": "Rice __________ grown in many Asian countries.",
+      "options": ["is", "are", "was", "were"],
+      "correctIndex": 0,
+      "explanation": "Rice (không đếm được) + is",
+      "hints": ["Rice + is"],
+      "points": 10
+    },
+    {
+      "id": 16,
+      "type": "multiple-choice",
+      "question": "The picture was painted __________ Picasso.",
+      "options": ["with", "by", "from", "to"],
+      "correctIndex": 1,
+      "explanation": "'by' + tác nhân (người)",
+      "hints": ["Người thực hiện → by"],
+      "points": 10
+    },
+    {
+      "id": 17,
+      "type": "multiple-choice",
+      "question": "I've looked __________ , but I can't find my keys.",
+      "options": ["somewhere", "anywhere", "everywhere", "nowhere"],
+      "correctIndex": 2,
+      "explanation": "'everywhere' = mọi nơi",
+      "hints": ["Tìm mọi nơi → everywhere"],
+      "points": 10
+    },
+    {
+      "id": 18,
+      "type": "multiple-choice",
+      "question": "You won't forget, __________?",
+      "options": ["won't you", "will you", "do you", "don't you"],
+      "correctIndex": 1,
+      "explanation": "won't + will",
+      "hints": ["won't → will"],
+      "points": 10
+    },
+    {
+      "id": 19,
+      "type": "multiple-choice",
+      "question": "These cars __________ made in Japan.",
+      "options": ["is", "are", "was", "were"],
+      "correctIndex": 1,
+      "explanation": "These cars (số nhiều) + are",
+      "hints": ["Số nhiều → are"],
+      "points": 10
+    },
+    {
+      "id": 20,
+      "type": "multiple-choice",
+      "question": "__________ was the bridge built?",
+      "options": ["When", "Who", "What", "How"],
+      "correctIndex": 0,
+      "explanation": "Câu hỏi bị động với 'When'",
+      "hints": ["Hỏi về thời gian → When"],
+      "points": 10
+    },
+    {
+      "id": 21,
+      "type": "fill-blank",
+      "question": "__________ (Someone/Anyone) is waiting for you outside.",
+      "wordHint": "(Someone/Anyone)",
+      "answer": "Someone",
+      "acceptedAnswers": ["Someone", "Somebody"],
+      "hints": ["Câu khẳng định → Someone"],
+      "points": 10
+    },
+    {
+      "id": 22,
+      "type": "fill-blank",
+      "question": "You're a teacher, __________ (are you/aren't you)?",
+      "wordHint": "(are you/aren't you)",
+      "answer": "aren't you",
+      "acceptedAnswers": ["aren't you"],
+      "hints": ["Khẳng định → đuôi phủ định"],
+      "points": 10
+    },
+    {
+      "id": 23,
+      "type": "fill-blank",
+      "question": "Coffee __________ (is grown/are grown) in Brazil.",
+      "wordHint": "(is grown/are grown)",
+      "answer": "is grown",
+      "acceptedAnswers": ["is grown"],
+      "hints": ["Coffee + is"],
+      "points": 10
+    },
+    {
+      "id": 24,
+      "type": "fill-blank",
+      "question": "The window was broken __________ (by/with) a stone.",
+      "wordHint": "(by/with)",
+      "answer": "with",
+      "acceptedAnswers": ["with"],
+      "hints": ["Công cụ/vật → with"],
+      "points": 10
+    },
+    {
+      "id": 25,
+      "type": "fill-blank",
+      "question": "Is there __________ (something/anything) you want?",
+      "wordHint": "(something/anything)",
+      "answer": "anything",
+      "acceptedAnswers": ["anything"],
+      "hints": ["Câu hỏi → anything"],
+      "points": 10
+    },
+    {
+      "id": 26,
+      "type": "fill-blank",
+      "question": "She doesn't like fish, __________ (does she/doesn't she)?",
+      "wordHint": "(does she/doesn't she)",
+      "answer": "does she",
+      "acceptedAnswers": ["does she"],
+      "hints": ["Phủ định → đuôi khẳng định"],
+      "points": 10
+    },
+    {
+      "id": 27,
+      "type": "fill-blank",
+      "question": "The book __________ (was written/were written) by Mark Twain.",
+      "wordHint": "(was written/were written)",
+      "answer": "was written",
+      "acceptedAnswers": ["was written"],
+      "hints": ["The book (số ít) + was"],
+      "points": 10
+    },
+    {
+      "id": 28,
+      "type": "fill-blank",
+      "question": "The report was typed __________ (by/with) a computer.",
+      "wordHint": "(by/with)",
+      "answer": "with",
+      "acceptedAnswers": ["with"],
+      "hints": ["Phương tiện → with"],
+      "points": 10
+    },
+    {
+      "id": 29,
+      "type": "fill-blank",
+      "question": "There's __________ (no one/anyone) here. Let's go.",
+      "wordHint": "(no one/anyone)",
+      "answer": "no one",
+      "acceptedAnswers": ["no one", "nobody"],
+      "hints": ["Không có ai → no one"],
+      "points": 10
+    },
+    {
+      "id": 30,
+      "type": "fill-blank",
+      "question": "They can speak French, __________ (can they/can't they)?",
+      "wordHint": "(can they/can't they)",
+      "answer": "can't they",
+      "acceptedAnswers": ["can't they"],
+      "hints": ["can → can't"],
+      "points": 10
+    },
+    {
+      "id": 31,
+      "type": "error-correct",
+      "wrongSentence": "Anyone is at the door.",
+      "correctSentence": "Someone is at the door.",
+      "errorWord": "Anyone",
+      "correction": "Someone",
+      "explanation": "Câu khẳng định dùng 'someone'",
+      "hints": ["Câu khẳng định → someone"],
+      "points": 10
+    },
+    {
+      "id": 32,
+      "type": "error-correct",
+      "wrongSentence": "You like coffee, do you?",
+      "correctSentence": "You like coffee, don't you?",
+      "errorWord": "do you",
+      "correction": "don't you",
+      "explanation": "Khẳng định + đuôi phủ định",
+      "hints": ["like → don't"],
+      "points": 10
+    },
+    {
+      "id": 33,
+      "type": "error-correct",
+      "wrongSentence": "English is speak all over the world.",
+      "correctSentence": "English is spoken all over the world.",
+      "errorWord": "speak",
+      "correction": "spoken",
+      "explanation": "Passive: be + V3/ed",
+      "hints": ["speak → spoken"],
+      "points": 10
+    },
+    {
+      "id": 34,
+      "type": "error-correct",
+      "wrongSentence": "The letter was written with my grandmother.",
+      "correctSentence": "The letter was written by my grandmother.",
+      "errorWord": "with",
+      "correction": "by",
+      "explanation": "Người thực hiện hành động dùng 'by'",
+      "hints": ["Người → by"],
+      "points": 10
+    },
+    {
+      "id": 35,
+      "type": "error-correct",
+      "wrongSentence": "Is there something I can help?",
+      "correctSentence": "Is there anything I can help?",
+      "errorWord": "something",
+      "correction": "anything",
+      "explanation": "Câu hỏi dùng 'anything'",
+      "hints": ["Câu hỏi → anything"],
+      "points": 10
+    },
+    {
+      "id": 36,
+      "type": "error-correct",
+      "wrongSentence": "She isn't coming, isn't she?",
+      "correctSentence": "She isn't coming, is she?",
+      "errorWord": "isn't she",
+      "correction": "is she",
+      "explanation": "Phủ định + đuôi khẳng định",
+      "hints": ["isn't → is"],
+      "points": 10
+    },
+    {
+      "id": 37,
+      "type": "error-correct",
+      "wrongSentence": "This house is built in 1990.",
+      "correctSentence": "This house was built in 1990.",
+      "errorWord": "is",
+      "correction": "was",
+      "explanation": "1990 = quá khứ → was",
+      "hints": ["Quá khứ → was"],
+      "points": 10
+    },
+    {
+      "id": 38,
+      "type": "error-correct",
+      "wrongSentence": "The cake was cut by a knife.",
+      "correctSentence": "The cake was cut with a knife.",
+      "errorWord": "by",
+      "correction": "with",
+      "explanation": "Công cụ dùng 'with'",
+      "hints": ["Công cụ → with"],
+      "points": 10
+    },
+    {
+      "id": 39,
+      "type": "error-correct",
+      "wrongSentence": "I couldn't find nobody.",
+      "correctSentence": "I couldn't find anybody.",
+      "errorWord": "nobody",
+      "correction": "anybody",
+      "explanation": "Không dùng phủ định kép",
+      "hints": ["couldn't + anybody"],
+      "points": 10
+    },
+    {
+      "id": 40,
+      "type": "error-correct",
+      "wrongSentence": "He can swim, can he?",
+      "correctSentence": "He can swim, can't he?",
+      "errorWord": "can he",
+      "correction": "can't he",
+      "explanation": "Khẳng định + đuôi phủ định",
+      "hints": ["can → can't"],
+      "points": 10
+    },
+    {
+      "id": 41,
+      "type": "multiple-choice",
+      "question": "Do you want __________ to eat?",
+      "options": ["something", "anything", "nothing", "everything"],
+      "correctIndex": 1,
+      "explanation": "'anything' dùng trong câu hỏi",
+      "hints": ["Câu hỏi → anything"],
+      "points": 10
+    },
+    {
+      "id": 42,
+      "type": "multiple-choice",
+      "question": "He was late, __________?",
+      "options": ["was he", "wasn't he", "did he", "didn't he"],
+      "correctIndex": 1,
+      "explanation": "was + wasn't",
+      "hints": ["was → wasn't"],
+      "points": 10
+    },
+    {
+      "id": 43,
+      "type": "multiple-choice",
+      "question": "This song __________ sung by millions of people.",
+      "options": ["is", "are", "was", "were"],
+      "correctIndex": 0,
+      "explanation": "This song (số ít) + is",
+      "hints": ["Số ít → is"],
+      "points": 10
+    },
+    {
+      "id": 44,
+      "type": "multiple-choice",
+      "question": "The report was sent __________ the manager.",
+      "options": ["with", "by", "from", "for"],
+      "correctIndex": 1,
+      "explanation": "'by' + người thực hiện",
+      "hints": ["Người → by"],
+      "points": 10
+    },
+    {
+      "id": 45,
+      "type": "multiple-choice",
+      "question": "__________ knows the answer. It's a secret.",
+      "options": ["Someone", "Anyone", "No one", "Everyone"],
+      "correctIndex": 2,
+      "explanation": "'No one' = không ai",
+      "hints": ["Bí mật = không ai biết → No one"],
+      "points": 10
+    },
+    {
+      "id": 46,
+      "type": "multiple-choice",
+      "question": "They won't help us, __________?",
+      "options": ["won't they", "will they", "do they", "don't they"],
+      "correctIndex": 1,
+      "explanation": "won't + will",
+      "hints": ["won't → will"],
+      "points": 10
+    },
+    {
+      "id": 47,
+      "type": "multiple-choice",
+      "question": "The windows __________ cleaned yesterday.",
+      "options": ["is", "are", "was", "were"],
+      "correctIndex": 3,
+      "explanation": "Windows (số nhiều) + were (quá khứ)",
+      "hints": ["Số nhiều + quá khứ → were"],
+      "points": 10
+    },
+    {
+      "id": 48,
+      "type": "multiple-choice",
+      "question": "The wood was cut __________ a saw.",
+      "options": ["by", "with", "from", "for"],
+      "correctIndex": 1,
+      "explanation": "'with' + công cụ",
+      "hints": ["Công cụ → with"],
+      "points": 10
+    },
+    {
+      "id": 49,
+      "type": "multiple-choice",
+      "question": "She didn't tell __________ about the party.",
+      "options": ["someone", "anyone", "no one", "everyone"],
+      "correctIndex": 1,
+      "explanation": "'anyone' dùng trong câu phủ định",
+      "hints": ["didn't = phủ định → anyone"],
+      "points": 10
+    },
+    {
+      "id": 50,
+      "type": "multiple-choice",
+      "question": "You've been to Paris, __________?",
+      "options": ["have you", "haven't you", "did you", "didn't you"],
+      "correctIndex": 1,
+      "explanation": "have + haven't",
+      "hints": ["have → haven't"],
+      "points": 10
+    },
+    {
+      "id": 51,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp câu: Someone / is / waiting / for / you",
+      "words": ["Someone", "is", "waiting", "for", "you"],
+      "distractors": ["Anyone", "are", "wait"],
+      "correctSentence": "Someone is waiting for you",
+      "acceptedAnswers": ["Someone is waiting for you", "Someone is waiting for you."],
+      "hints": ["Câu khẳng định → Someone"],
+      "points": 10
+    },
+    {
+      "id": 52,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp câu: You / like / coffee / don't / you?",
+      "words": ["You", "like", "coffee", "don't", "you"],
+      "distractors": ["do", "are", "aren't"],
+      "correctSentence": "You like coffee don't you",
+      "acceptedAnswers": ["You like coffee don't you", "You like coffee, don't you?", "You like coffee don't you?"],
+      "hints": ["like → don't you"],
+      "points": 10
+    },
+    {
+      "id": 53,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp câu: English / is / spoken / here",
+      "words": ["English", "is", "spoken", "here"],
+      "distractors": ["are", "speak", "speaking"],
+      "correctSentence": "English is spoken here",
+      "acceptedAnswers": ["English is spoken here", "English is spoken here."],
+      "hints": ["is + V3 (spoken)"],
+      "points": 10
+    },
+    {
+      "id": 54,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp câu: The / letter / was / written / by / my / grandmother",
+      "words": ["The", "letter", "was", "written", "by", "my", "grandmother"],
+      "distractors": ["with", "is", "write"],
+      "correctSentence": "The letter was written by my grandmother",
+      "acceptedAnswers": ["The letter was written by my grandmother", "The letter was written by my grandmother."],
+      "hints": ["was + V3 + by + người"],
+      "points": 10
+    },
+    {
+      "id": 55,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp câu: Is / there / anything / I / can / help?",
+      "words": ["Is", "there", "anything", "I", "can", "help"],
+      "distractors": ["something", "are", "could"],
+      "correctSentence": "Is there anything I can help",
+      "acceptedAnswers": ["Is there anything I can help", "Is there anything I can help?"],
+      "hints": ["Câu hỏi → anything"],
+      "points": 10
+    },
+    {
+      "id": 56,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp câu: She / isn't / coming / is / she?",
+      "words": ["She", "isn't", "coming", "is", "she"],
+      "distractors": ["isn't", "does", "doesn't"],
+      "correctSentence": "She isn't coming is she",
+      "acceptedAnswers": ["She isn't coming is she", "She isn't coming, is she?"],
+      "hints": ["isn't → is"],
+      "points": 10
+    },
+    {
+      "id": 57,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp câu: This / house / was / built / in / 1990",
+      "words": ["This", "house", "was", "built", "in", "1990"],
+      "distractors": ["is", "build", "were"],
+      "correctSentence": "This house was built in 1990",
+      "acceptedAnswers": ["This house was built in 1990", "This house was built in 1990."],
+      "hints": ["was + V3 (built)"],
+      "points": 10
+    },
+    {
+      "id": 58,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp câu: The / cake / was / cut / with / a / knife",
+      "words": ["The", "cake", "was", "cut", "with", "a", "knife"],
+      "distractors": ["by", "is", "cutting"],
+      "correctSentence": "The cake was cut with a knife",
+      "acceptedAnswers": ["The cake was cut with a knife", "The cake was cut with a knife."],
+      "hints": ["with + công cụ"],
+      "points": 10
+    },
+    {
+      "id": 59,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp câu: I / couldn't / find / anyone",
+      "words": ["I", "couldn't", "find", "anyone"],
+      "distractors": ["someone", "nobody", "can't"],
+      "correctSentence": "I couldn't find anyone",
+      "acceptedAnswers": ["I couldn't find anyone", "I couldn't find anyone."],
+      "hints": ["couldn't + anyone"],
+      "points": 10
+    },
+    {
+      "id": 60,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp câu: He / can / swim / can't / he?",
+      "words": ["He", "can", "swim", "can't", "he"],
+      "distractors": ["can", "does", "doesn't"],
+      "correctSentence": "He can swim can't he",
+      "acceptedAnswers": ["He can swim can't he", "He can swim, can't he?"],
+      "hints": ["can → can't"],
+      "points": 10
+    },
+    {
+      "id": 61,
+      "type": "multiple-choice",
+      "question": "__________ called you while you were out.",
+      "options": ["Someone", "Anyone", "No one", "Everyone"],
+      "correctIndex": 0,
+      "explanation": "'Someone' trong câu khẳng định",
+      "hints": ["Câu khẳng định → Someone"],
+      "points": 10
+    },
+    {
+      "id": 62,
+      "type": "multiple-choice",
+      "question": "She speaks French, __________?",
+      "options": ["does she", "doesn't she", "is she", "isn't she"],
+      "correctIndex": 1,
+      "explanation": "speaks + doesn't",
+      "hints": ["speaks → doesn't"],
+      "points": 10
+    },
+    {
+      "id": 63,
+      "type": "multiple-choice",
+      "question": "These phones __________ made in China.",
+      "options": ["is", "are", "was", "were"],
+      "correctIndex": 1,
+      "explanation": "These phones (số nhiều) + are",
+      "hints": ["Số nhiều → are"],
+      "points": 10
+    },
+    {
+      "id": 64,
+      "type": "multiple-choice",
+      "question": "__________ was the Mona Lisa painted by?",
+      "options": ["What", "Who", "When", "Where"],
+      "correctIndex": 1,
+      "explanation": "Hỏi về người vẽ → Who",
+      "hints": ["Hỏi người → Who"],
+      "points": 10
+    },
+    {
+      "id": 65,
+      "type": "multiple-choice",
+      "question": "I went __________ special for my birthday.",
+      "options": ["somewhere", "anywhere", "nowhere", "everywhere"],
+      "correctIndex": 0,
+      "explanation": "'somewhere' trong câu khẳng định",
+      "hints": ["Câu khẳng định → somewhere"],
+      "points": 10
+    },
+    {
+      "id": 66,
+      "type": "multiple-choice",
+      "question": "He didn't come, __________?",
+      "options": ["didn't he", "did he", "doesn't he", "does he"],
+      "correctIndex": 1,
+      "explanation": "didn't + did",
+      "hints": ["didn't → did"],
+      "points": 10
+    },
+    {
+      "id": 67,
+      "type": "multiple-choice",
+      "question": "The new bridge __________ opened last month.",
+      "options": ["is", "are", "was", "were"],
+      "correctIndex": 2,
+      "explanation": "The bridge (số ít) + was (quá khứ)",
+      "hints": ["last month = quá khứ, số ít → was"],
+      "points": 10
+    },
+    {
+      "id": 68,
+      "type": "multiple-choice",
+      "question": "The message was typed __________ a secretary.",
+      "options": ["with", "by", "from", "for"],
+      "correctIndex": 1,
+      "explanation": "'by' + người thực hiện",
+      "hints": ["Người → by"],
+      "points": 10
+    },
+    {
+      "id": 69,
+      "type": "multiple-choice",
+      "question": "Have you seen my keys __________?",
+      "options": ["somewhere", "anywhere", "nowhere", "everywhere"],
+      "correctIndex": 1,
+      "explanation": "'anywhere' trong câu hỏi",
+      "hints": ["Câu hỏi → anywhere"],
+      "points": 10
+    },
+    {
+      "id": 70,
+      "type": "multiple-choice",
+      "question": "She's very smart, __________?",
+      "options": ["is she", "isn't she", "does she", "doesn't she"],
+      "correctIndex": 1,
+      "explanation": "'s = is → isn't",
+      "hints": ["is → isn't"],
+      "points": 10
+    },
+    {
+      "id": 71,
+      "type": "fill-blank",
+      "question": "I don't need __________ (something/anything) else.",
+      "wordHint": "(something/anything)",
+      "answer": "anything",
+      "acceptedAnswers": ["anything"],
+      "hints": ["Phủ định → anything"],
+      "points": 10
+    },
+    {
+      "id": 72,
+      "type": "fill-blank",
+      "question": "He wasn't angry, __________ (was he/wasn't he)?",
+      "wordHint": "(was he/wasn't he)",
+      "answer": "was he",
+      "acceptedAnswers": ["was he"],
+      "hints": ["wasn't → was"],
+      "points": 10
+    },
+    {
+      "id": 73,
+      "type": "fill-blank",
+      "question": "The movie __________ (is directed/was directed) by Steven Spielberg in 1993.",
+      "wordHint": "(is directed/was directed)",
+      "answer": "was directed",
+      "acceptedAnswers": ["was directed"],
+      "hints": ["1993 = quá khứ → was directed"],
+      "points": 10
+    },
+    {
+      "id": 74,
+      "type": "fill-blank",
+      "question": "The door was locked __________ (by/with) a key.",
+      "wordHint": "(by/with)",
+      "answer": "with",
+      "acceptedAnswers": ["with"],
+      "hints": ["Công cụ → with"],
+      "points": 10
+    },
+    {
+      "id": 75,
+      "type": "fill-blank",
+      "question": "__________ (Everyone/Anyone) enjoyed the party.",
+      "wordHint": "(Everyone/Anyone)",
+      "answer": "Everyone",
+      "acceptedAnswers": ["Everyone", "Everybody"],
+      "hints": ["Mọi người → Everyone"],
+      "points": 10
+    },
+    {
+      "id": 76,
+      "type": "fill-blank",
+      "question": "They're coming tomorrow, __________ (are they/aren't they)?",
+      "wordHint": "(are they/aren't they)",
+      "answer": "aren't they",
+      "acceptedAnswers": ["aren't they"],
+      "hints": ["'re = are → aren't"],
+      "points": 10
+    },
+    {
+      "id": 77,
+      "type": "fill-blank",
+      "question": "French __________ (is spoken/are spoken) in many countries.",
+      "wordHint": "(is spoken/are spoken)",
+      "answer": "is spoken",
+      "acceptedAnswers": ["is spoken"],
+      "hints": ["French + is"],
+      "points": 10
+    },
+    {
+      "id": 78,
+      "type": "fill-blank",
+      "question": "The car was repaired __________ (by/with) a mechanic.",
+      "wordHint": "(by/with)",
+      "answer": "by",
+      "acceptedAnswers": ["by"],
+      "hints": ["Người → by"],
+      "points": 10
+    },
+    {
+      "id": 79,
+      "type": "fill-blank",
+      "question": "There isn't __________ (someone/anyone) at home.",
+      "wordHint": "(someone/anyone)",
+      "answer": "anyone",
+      "acceptedAnswers": ["anyone", "anybody"],
+      "hints": ["isn't = phủ định → anyone"],
+      "points": 10
+    },
+    {
+      "id": 80,
+      "type": "fill-blank",
+      "question": "She can't drive, __________ (can she/can't she)?",
+      "wordHint": "(can she/can't she)",
+      "answer": "can she",
+      "acceptedAnswers": ["can she"],
+      "hints": ["can't → can"],
+      "points": 10
+    },
+    {
+      "id": 81,
+      "type": "multiple-choice",
+      "question": "I haven't told __________ about this.",
+      "options": ["someone", "anyone", "no one", "everyone"],
+      "correctIndex": 1,
+      "explanation": "'anyone' trong câu phủ định",
+      "hints": ["haven't = phủ định → anyone"],
+      "points": 10
+    },
+    {
+      "id": 82,
+      "type": "multiple-choice",
+      "question": "You haven't finished, __________?",
+      "options": ["haven't you", "have you", "don't you", "do you"],
+      "correctIndex": 1,
+      "explanation": "haven't + have",
+      "hints": ["haven't → have"],
+      "points": 10
+    },
+    {
+      "id": 83,
+      "type": "multiple-choice",
+      "question": "The letter __________ sent yesterday.",
+      "options": ["is", "are", "was", "were"],
+      "correctIndex": 2,
+      "explanation": "The letter (số ít) + was (quá khứ)",
+      "hints": ["yesterday = quá khứ → was"],
+      "points": 10
+    },
+    {
+      "id": 84,
+      "type": "multiple-choice",
+      "question": "The photo was taken __________ a professional photographer.",
+      "options": ["with", "by", "from", "for"],
+      "correctIndex": 1,
+      "explanation": "'by' + người thực hiện",
+      "hints": ["Người → by"],
+      "points": 10
+    },
+    {
+      "id": 85,
+      "type": "multiple-choice",
+      "question": "There's __________ I need to tell you.",
+      "options": ["something", "anything", "nothing", "everything"],
+      "correctIndex": 0,
+      "explanation": "'something' trong câu khẳng định",
+      "hints": ["Câu khẳng định → something"],
+      "points": 10
+    },
+    {
+      "id": 86,
+      "type": "multiple-choice",
+      "question": "Let's go, __________?",
+      "options": ["do we", "shall we", "will we", "don't we"],
+      "correctIndex": 1,
+      "explanation": "Let's + shall we",
+      "hints": ["Let's → shall we"],
+      "points": 10
+    },
+    {
+      "id": 87,
+      "type": "multiple-choice",
+      "question": "The pyramids __________ built thousands of years ago.",
+      "options": ["is", "are", "was", "were"],
+      "correctIndex": 3,
+      "explanation": "The pyramids (số nhiều) + were (quá khứ)",
+      "hints": ["Số nhiều + quá khứ → were"],
+      "points": 10
+    },
+    {
+      "id": 88,
+      "type": "multiple-choice",
+      "question": "The paper was cut __________ scissors.",
+      "options": ["by", "with", "from", "for"],
+      "correctIndex": 1,
+      "explanation": "'with' + công cụ",
+      "hints": ["Công cụ → with"],
+      "points": 10
+    },
+    {
+      "id": 89,
+      "type": "multiple-choice",
+      "question": "__________ wants to go to the beach today.",
+      "options": ["Someone", "Anyone", "No one", "Everyone"],
+      "correctIndex": 3,
+      "explanation": "'Everyone' = mọi người",
+      "hints": ["Mọi người → Everyone"],
+      "points": 10
+    },
+    {
+      "id": 90,
+      "type": "multiple-choice",
+      "question": "Don't be late, __________?",
+      "options": ["do you", "will you", "are you", "won't you"],
+      "correctIndex": 1,
+      "explanation": "Don't + will you",
+      "hints": ["Don't → will you"],
+      "points": 10
+    },
+    {
+      "id": 91,
+      "type": "translation",
+      "vietnamese": "Ai đó đang chờ bạn.",
+      "answer": "Someone is waiting for you.",
+      "acceptedAnswers": ["Someone is waiting for you.", "Someone is waiting for you", "Somebody is waiting for you."],
+      "hints": ["Câu khẳng định → Someone"],
+      "points": 10
+    },
+    {
+      "id": 92,
+      "type": "translation",
+      "vietnamese": "Bạn thích cà phê, phải không?",
+      "answer": "You like coffee, don't you?",
+      "acceptedAnswers": ["You like coffee, don't you?", "You like coffee, don't you"],
+      "hints": ["like → don't you"],
+      "points": 10
+    },
+    {
+      "id": 93,
+      "type": "translation",
+      "vietnamese": "Tiếng Anh được nói ở đây.",
+      "answer": "English is spoken here.",
+      "acceptedAnswers": ["English is spoken here.", "English is spoken here"],
+      "hints": ["is + V3 (spoken)"],
+      "points": 10
+    },
+    {
+      "id": 94,
+      "type": "translation",
+      "vietnamese": "Bức thư được viết bởi bà tôi.",
+      "answer": "The letter was written by my grandmother.",
+      "acceptedAnswers": ["The letter was written by my grandmother.", "The letter was written by my grandmother"],
+      "hints": ["was + V3 + by + người"],
+      "points": 10
+    },
+    {
+      "id": 95,
+      "type": "translation",
+      "vietnamese": "Có điều gì tôi có thể giúp không?",
+      "answer": "Is there anything I can help?",
+      "acceptedAnswers": ["Is there anything I can help?", "Is there anything I can help", "Is there anything I can help with?"],
+      "hints": ["Câu hỏi → anything"],
+      "points": 10
+    },
+    {
+      "id": 96,
+      "type": "translation",
+      "vietnamese": "Cô ấy không đến, phải không?",
+      "answer": "She isn't coming, is she?",
+      "acceptedAnswers": ["She isn't coming, is she?", "She isn't coming, is she", "She's not coming, is she?"],
+      "hints": ["isn't → is"],
+      "points": 10
+    },
+    {
+      "id": 97,
+      "type": "translation",
+      "vietnamese": "Ngôi nhà này được xây vào năm 1990.",
+      "answer": "This house was built in 1990.",
+      "acceptedAnswers": ["This house was built in 1990.", "This house was built in 1990"],
+      "hints": ["was + V3 (built)"],
+      "points": 10
+    },
+    {
+      "id": 98,
+      "type": "translation",
+      "vietnamese": "Bánh được cắt bằng một con dao.",
+      "answer": "The cake was cut with a knife.",
+      "acceptedAnswers": ["The cake was cut with a knife.", "The cake was cut with a knife"],
+      "hints": ["with + công cụ"],
+      "points": 10
+    },
+    {
+      "id": 99,
+      "type": "translation",
+      "vietnamese": "Không có ai ở phòng.",
+      "answer": "There is no one in the room.",
+      "acceptedAnswers": ["There is no one in the room.", "There is no one in the room", "There's no one in the room.", "There is nobody in the room.", "There isn't anyone in the room."],
+      "hints": ["no one = không có ai"],
+      "points": 10
+    },
+    {
+      "id": 100,
+      "type": "translation",
+      "vietnamese": "Anh ấy có thể bơi, phải không?",
+      "answer": "He can swim, can't he?",
+      "acceptedAnswers": ["He can swim, can't he?", "He can swim, can't he"],
+      "hints": ["can → can't"],
+      "points": 10
+    }
+  ]
+}

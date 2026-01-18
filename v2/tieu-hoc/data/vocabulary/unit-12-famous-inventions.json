@@ -1,0 +1,208 @@
+{
+  "unitId": "unit-12-famous-inventions",
+  "unitTitle": "Unit 12: Famous Inventions - Passive Voice (Past)",
+  "vocabularyData": {
+    "grammarTerms": [
+      {
+        "word": "invention",
+        "vietnamese": "phát minh",
+        "pronunciation": "/ɪnˈvenʃn/",
+        "definition": "A new thing created by someone",
+        "example": "Television was a great invention.",
+        "difficulty": "intermediate"
+      },
+      {
+        "word": "inventor",
+        "vietnamese": "nhà phát minh",
+        "pronunciation": "/ɪnˈventər/",
+        "definition": "A person who creates new things",
+        "example": "Thomas Edison was a famous inventor.",
+        "difficulty": "intermediate"
+      },
+      {
+        "word": "discovery",
+        "vietnamese": "khám phá",
+        "pronunciation": "/dɪˈskʌvəri/",
+        "definition": "Finding something that existed before",
+        "example": "The discovery of penicillin saved many lives.",
+        "difficulty": "intermediate"
+      },
+      {
+        "word": "explorer",
+        "vietnamese": "nhà thám hiểm",
+        "pronunciation": "/ɪkˈsplɔːrər/",
+        "definition": "A person who travels to discover new places",
+        "example": "The first explorer was an ancient Egyptian.",
+        "difficulty": "intermediate"
+      }
+    ],
+    "difficultWords": [
+      {
+        "word": "aeroplane",
+        "vietnamese": "máy bay",
+        "pronunciation": "/ˈeərəpleɪn/",
+        "definition": "A flying vehicle with wings",
+        "example": "The first aeroplane was flown by the Wright Brothers.",
+        "difficulty": "basic"
+      },
+      {
+        "word": "telephone",
+        "vietnamese": "điện thoại",
+        "pronunciation": "/ˈtelɪfoʊn/",
+        "definition": "A device for talking to people far away",
+        "example": "The telephone was invented by Alexander Graham Bell.",
+        "difficulty": "basic"
+      },
+      {
+        "word": "pyramid",
+        "vietnamese": "kim tự tháp",
+        "pronunciation": "/ˈpɪrəmɪd/",
+        "definition": "Ancient stone structures in Egypt",
+        "example": "The pyramids were built thousands of years ago.",
+        "difficulty": "basic"
+      },
+      {
+        "word": "penicillin",
+        "vietnamese": "thuốc kháng sinh penicillin",
+        "pronunciation": "/ˌpenɪˈsɪlɪn/",
+        "definition": "The first antibiotic medicine",
+        "example": "Penicillin was discovered by Alexander Fleming.",
+        "difficulty": "advanced"
+      },
+      {
+        "word": "light bulb",
+        "vietnamese": "bóng đèn",
+        "pronunciation": "/laɪt bʌlb/",
+        "definition": "An electric lamp",
+        "example": "The light bulb was invented by Thomas Edison.",
+        "difficulty": "basic"
+      },
+      {
+        "word": "rocket",
+        "vietnamese": "tên lửa",
+        "pronunciation": "/ˈrɑːkɪt/",
+        "definition": "A vehicle that travels to space",
+        "example": "The first rocket was sent to the moon in 1969.",
+        "difficulty": "basic"
+      },
+      {
+        "word": "ancient",
+        "vietnamese": "cổ đại",
+        "pronunciation": "/ˈeɪnʃənt/",
+        "definition": "Very old; from long ago",
+        "example": "The first explorer was an ancient Egyptian.",
+        "difficulty": "intermediate"
+      },
+      {
+        "word": "century",
+        "vietnamese": "thế kỷ",
+        "pronunciation": "/ˈsentʃəri/",
+        "definition": "A period of 100 years",
+        "example": "Many inventions were made in the 20th century.",
+        "difficulty": "intermediate"
+      },
+      {
+        "word": "scientist",
+        "vietnamese": "nhà khoa học",
+        "pronunciation": "/ˈsaɪəntɪst/",
+        "definition": "A person who studies science",
+        "example": "Scientists sent the first rocket to the moon.",
+        "difficulty": "basic"
+      }
+    ],
+    "keyPhrases": [
+      {
+        "phrase": "was/were + past participle",
+        "vietnamese": "được (câu bị động quá khứ)",
+        "structure": "was/were + past participle (V3)",
+        "definition": "Past simple passive voice structure",
+        "example": "The telephone was invented by Alexander Graham Bell.",
+        "usage": "For past actions when doer is unknown/unimportant"
+      },
+      {
+        "phrase": "was invented by...",
+        "vietnamese": "được phát minh bởi...",
+        "structure": "was/were invented by + person",
+        "definition": "Shows who invented something",
+        "example": "Television was invented by John Logie Baird.",
+        "usage": "For inventions with known inventors"
+      },
+      {
+        "phrase": "was made in...",
+        "vietnamese": "được làm ở...",
+        "structure": "was/were made in + place",
+        "definition": "Shows where something was made",
+        "example": "The first car was made in Germany.",
+        "usage": "For location of creation"
+      },
+      {
+        "phrase": "Who was...invented by?",
+        "vietnamese": "...được phát minh bởi ai?",
+        "structure": "Who + was/were + subject + past participle + by?",
+        "definition": "Question asking about the person who did something",
+        "example": "Who was the telephone invented by?",
+        "usage": "Use 'by' at the end for passive questions"
+      },
+      {
+        "phrase": "When was...invented?",
+        "vietnamese": "...được phát minh khi nào?",
+        "structure": "When + was/were + subject + past participle?",
+        "definition": "Question asking about time",
+        "example": "When was television invented?",
+        "usage": "For asking about time of past events"
+      },
+      {
+        "phrase": "Where was...made?",
+        "vietnamese": "...được làm ở đâu?",
+        "structure": "Where + was/were + subject + past participle?",
+        "definition": "Question asking about place",
+        "example": "Where was the first car invented?",
+        "usage": "For asking about location"
+      }
+    ],
+    "usefulExpressions": [
+      {
+        "expression": "sail around the world",
+        "vietnamese": "đi thuyền vòng quanh thế giới",
+        "example": "Ferdinand Magellan was the first person to sail around the world.",
+        "type": "collocation"
+      },
+      {
+        "expression": "the first person to...",
+        "vietnamese": "người đầu tiên...",
+        "example": "He was the first person to sail around the world.",
+        "type": "fixed expression"
+      },
+      {
+        "expression": "thousands of years ago",
+        "vietnamese": "hàng nghìn năm trước",
+        "example": "The pyramids were built thousands of years ago.",
+        "type": "time expression"
+      },
+      {
+        "expression": "send to the moon",
+        "vietnamese": "gửi lên mặt trăng",
+        "example": "The first rocket was sent to the moon in 1969.",
+        "type": "collocation"
+      },
+      {
+        "expression": "oil paints",
+        "vietnamese": "sơn dầu",
+        "example": "The picture was painted with oil paints.",
+        "type": "compound noun"
+      },
+      {
+        "expression": "South Pole",
+        "vietnamese": "Nam Cực",
+        "example": "The South Pole was first visited in 1911.",
+        "type": "proper noun"
+      },
+      {
+        "expression": "Pacific Ocean",
+        "vietnamese": "Thái Bình Dương",
+        "example": "The Pacific Ocean was named by Ferdinand Magellan.",
+        "type": "proper noun"
+      }
+    ]
+  }
+}

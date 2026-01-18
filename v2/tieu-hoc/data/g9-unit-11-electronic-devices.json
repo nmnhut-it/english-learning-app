@@ -1,0 +1,550 @@
+{
+  "unitId": "g9-unit-11-electronic-devices",
+  "title": "Grade 9 - Unit 11: Electronic Devices",
+  "grammarTopics": [
+    "Suggest and Recommend"
+  ],
+  "theory": {
+    "brief": "Cấu trúc đề nghị và khuyên: (1) S + suggest/recommend + V-ing, (2) S + suggest/recommend + (that) + S + (should) + V0. Ngoài suggest, recommend còn có advise. Should có thể lược bỏ nhưng động từ vẫn ở dạng nguyên thể.",
+    "examples": [
+      "I suggest buying a tablet instead. (Tôi đề nghị mua máy tính bảng thay vào đó.)",
+      "I recommend you read e-books. (Tôi khuyên bạn đọc sách điện tử.)",
+      "She suggests that you should be quiet. (Cô ấy đề nghị bạn nên im lặng.)",
+      "They recommend using less electronic devices. (Họ khuyên dùng ít thiết bị điện tử hơn.)"
+    ]
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "type": "multiple-choice",
+      "question": "I suggest __________ a new smartphone.",
+      "options": [
+        "to buy",
+        "buy",
+        "buying",
+        "bought"
+      ],
+      "correctIndex": 2,
+      "explanation": "suggest + V-ing",
+      "hints": [
+        "suggest + V-ing"
+      ],
+      "points": 10
+    },
+    {
+      "id": 2,
+      "type": "multiple-choice",
+      "question": "She recommends that you __________ e-books.",
+      "options": [
+        "read",
+        "reads",
+        "reading",
+        "to read"
+      ],
+      "correctIndex": 0,
+      "explanation": "recommend that + S + V0",
+      "hints": [
+        "recommend that + S + V0"
+      ],
+      "points": 10
+    },
+    {
+      "id": 3,
+      "type": "multiple-choice",
+      "question": "They suggest __________ electronic devices at night.",
+      "options": [
+        "to use",
+        "use",
+        "not using",
+        "not use"
+      ],
+      "correctIndex": 2,
+      "explanation": "suggest + not + V-ing",
+      "hints": [
+        "suggest + not + V-ing"
+      ],
+      "points": 10
+    },
+    {
+      "id": 4,
+      "type": "multiple-choice",
+      "question": "I recommend that he __________ a break.",
+      "options": [
+        "takes",
+        "take",
+        "taking",
+        "to take"
+      ],
+      "correctIndex": 1,
+      "explanation": "recommend that + S + V0",
+      "hints": [
+        "recommend that + S + V0"
+      ],
+      "points": 10
+    },
+    {
+      "id": 5,
+      "type": "multiple-choice",
+      "question": "She suggests __________ information online.",
+      "options": [
+        "to collect",
+        "collect",
+        "collecting",
+        "collected"
+      ],
+      "correctIndex": 2,
+      "explanation": "suggest + V-ing",
+      "hints": [
+        "suggest + V-ing"
+      ],
+      "points": 10
+    },
+    {
+      "id": 6,
+      "type": "multiple-choice",
+      "question": "We recommend that students __________ their devices.",
+      "options": [
+        "exchange",
+        "exchanges",
+        "exchanging",
+        "to exchange"
+      ],
+      "correctIndex": 0,
+      "explanation": "recommend that + S + V0",
+      "hints": [
+        "recommend that + S + V0"
+      ],
+      "points": 10
+    },
+    {
+      "id": 7,
+      "type": "multiple-choice",
+      "question": "He suggests __________ the internet responsibly.",
+      "options": [
+        "to access",
+        "access",
+        "accessing",
+        "accessed"
+      ],
+      "correctIndex": 2,
+      "explanation": "suggest + V-ing",
+      "hints": [
+        "suggest + V-ing"
+      ],
+      "points": 10
+    },
+    {
+      "id": 8,
+      "type": "multiple-choice",
+      "question": "They recommend that you __________ screen time.",
+      "options": [
+        "limit",
+        "limits",
+        "limiting",
+        "to limit"
+      ],
+      "correctIndex": 0,
+      "explanation": "recommend that + S + V0",
+      "hints": [
+        "recommend that + S + V0"
+      ],
+      "points": 10
+    },
+    {
+      "id": 9,
+      "type": "multiple-choice",
+      "question": "I suggest __________ old electronics.",
+      "options": [
+        "to recycle",
+        "recycle",
+        "recycling",
+        "recycled"
+      ],
+      "correctIndex": 2,
+      "explanation": "suggest + V-ing",
+      "hints": [
+        "suggest + V-ing"
+      ],
+      "points": 10
+    },
+    {
+      "id": 10,
+      "type": "multiple-choice",
+      "question": "She recommends that we __________ energy.",
+      "options": [
+        "save",
+        "saves",
+        "saving",
+        "to save"
+      ],
+      "correctIndex": 0,
+      "explanation": "recommend that + S + V0",
+      "hints": [
+        "recommend that + S + V0"
+      ],
+      "points": 10
+    },
+    {
+      "id": 11,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": [
+        "I",
+        "suggest",
+        "buying",
+        "a",
+        "tablet",
+        "instead"
+      ],
+      "correctSentence": "I suggest buying a tablet instead.",
+      "explanation": "suggest + V-ing",
+      "hints": [
+        "suggest + V-ing"
+      ],
+      "points": 10
+    },
+    {
+      "id": 12,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": [
+        "She",
+        "recommends",
+        "that",
+        "you",
+        "should",
+        "read",
+        "e-books"
+      ],
+      "correctSentence": "She recommends that you should read e-books.",
+      "explanation": "recommend that + S + should + V",
+      "hints": [
+        "recommend that + should + V"
+      ],
+      "points": 10
+    },
+    {
+      "id": 13,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": [
+        "They",
+        "suggest",
+        "reducing",
+        "screen",
+        "time"
+      ],
+      "correctSentence": "They suggest reducing screen time.",
+      "explanation": "suggest + V-ing",
+      "hints": [
+        "suggest + V-ing"
+      ],
+      "points": 10
+    },
+    {
+      "id": 14,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": [
+        "I",
+        "recommend",
+        "that",
+        "he",
+        "take",
+        "a",
+        "rest"
+      ],
+      "correctSentence": "I recommend that he take a rest.",
+      "explanation": "recommend that + S + V0",
+      "hints": [
+        "recommend that + S + V0"
+      ],
+      "points": 10
+    },
+    {
+      "id": 15,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": [
+        "We",
+        "suggest",
+        "not",
+        "using",
+        "phones",
+        "while",
+        "eating"
+      ],
+      "correctSentence": "We suggest not using phones while eating.",
+      "explanation": "suggest + not + V-ing",
+      "hints": [
+        "suggest + not + V-ing"
+      ],
+      "points": 10
+    },
+    {
+      "id": 16,
+      "type": "multiple-choice",
+      "question": "I advise __________ less time on social media.",
+      "options": [
+        "to spend",
+        "spend",
+        "spending",
+        "spent"
+      ],
+      "correctIndex": 2,
+      "explanation": "advise + V-ing (câu tr→c từ→ng từ suggest)",
+      "hints": [
+        "advise + V-ing"
+      ],
+      "points": 10
+    },
+    {
+      "id": 17,
+      "type": "multiple-choice",
+      "question": "She suggests that students __________ hard.",
+      "options": [
+        "study",
+        "studies",
+        "studying",
+        "to study"
+      ],
+      "correctIndex": 0,
+      "explanation": "suggest that + S + V0",
+      "hints": [
+        "suggest that + S + V0"
+      ],
+      "points": 10
+    },
+    {
+      "id": 18,
+      "type": "multiple-choice",
+      "question": "We recommend __________ healthy food.",
+      "options": [
+        "to eat",
+        "eat",
+        "eating",
+        "ate"
+      ],
+      "correctIndex": 2,
+      "explanation": "recommend + V-ing",
+      "hints": [
+        "recommend + V-ing"
+      ],
+      "points": 10
+    },
+    {
+      "id": 19,
+      "type": "multiple-choice",
+      "question": "He suggests that you __________ waste energy.",
+      "options": [
+        "not",
+        "don't",
+        "not to",
+        "not waste"
+      ],
+      "correctIndex": 0,
+      "explanation": "suggest that + S + not + V0",
+      "hints": [
+        "suggest that + not + V0"
+      ],
+      "points": 10
+    },
+    {
+      "id": 20,
+      "type": "multiple-choice",
+      "question": "They recommend __________ old devices to charity.",
+      "options": [
+        "to donate",
+        "donate",
+        "donating",
+        "donated"
+      ],
+      "correctIndex": 2,
+      "explanation": "recommend + V-ing",
+      "hints": [
+        "recommend + V-ing"
+      ],
+      "points": 10
+    },
+    {
+      "id": 21,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": [
+        "I",
+        "suggest",
+        "trying",
+        "a",
+        "new",
+        "app"
+      ],
+      "correctSentence": "I suggest trying a new app.",
+      "explanation": "suggest + V-ing",
+      "hints": [
+        "suggest + V-ing"
+      ],
+      "points": 10
+    },
+    {
+      "id": 22,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": [
+        "She",
+        "recommends",
+        "that",
+        "we",
+        "have",
+        "regular",
+        "breaks"
+      ],
+      "correctSentence": "She recommends that we have regular breaks.",
+      "explanation": "recommend that + S + V0",
+      "hints": [
+        "recommend that + S + V0"
+      ],
+      "points": 10
+    },
+    {
+      "id": 23,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": [
+        "He",
+        "suggests",
+        "using",
+        "renewable",
+        "energy"
+      ],
+      "correctSentence": "He suggests using renewable energy.",
+      "explanation": "suggest + V-ing",
+      "hints": [
+        "suggest + V-ing"
+      ],
+      "points": 10
+    },
+    {
+      "id": 24,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": [
+        "They",
+        "recommend",
+        "that",
+        "you",
+        "access",
+        "reliable",
+        "sources"
+      ],
+      "correctSentence": "They recommend that you access reliable sources.",
+      "explanation": "recommend that + S + V0",
+      "hints": [
+        "recommend that + S + V0"
+      ],
+      "points": 10
+    },
+    {
+      "id": 25,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": [
+        "I",
+        "suggest",
+        "limiting",
+        "gaming",
+        "time"
+      ],
+      "correctSentence": "I suggest limiting gaming time.",
+      "explanation": "suggest + V-ing",
+      "hints": [
+        "suggest + V-ing"
+      ],
+      "points": 10
+    },
+    {
+      "id": 26,
+      "type": "multiple-choice",
+      "question": "The doctor recommends that patients __________ outside daily.",
+      "options": [
+        "exercise",
+        "exercises",
+        "exercising",
+        "to exercise"
+      ],
+      "correctIndex": 0,
+      "explanation": "recommend that + S + V0",
+      "hints": [
+        "recommend that + S + V0"
+      ],
+      "points": 10
+    },
+    {
+      "id": 27,
+      "type": "multiple-choice",
+      "question": "I suggest __________ blue light filters at night.",
+      "options": [
+        "to use",
+        "use",
+        "using",
+        "used"
+      ],
+      "correctIndex": 2,
+      "explanation": "suggest + V-ing",
+      "hints": [
+        "suggest + V-ing"
+      ],
+      "points": 10
+    },
+    {
+      "id": 28,
+      "type": "multiple-choice",
+      "question": "She recommends that you __________ your privacy settings.",
+      "options": [
+        "check",
+        "checks",
+        "checking",
+        "to check"
+      ],
+      "correctIndex": 0,
+      "explanation": "recommend that + S + V0",
+      "hints": [
+        "recommend that + S + V0"
+      ],
+      "points": 10
+    },
+    {
+      "id": 29,
+      "type": "multiple-choice",
+      "question": "We suggest __________ data regularly.",
+      "options": [
+        "to backup",
+        "backup",
+        "backing up",
+        "backed up"
+      ],
+      "correctIndex": 2,
+      "explanation": "suggest + V-ing",
+      "hints": [
+        "suggest + V-ing"
+      ],
+      "points": 10
+    },
+    {
+      "id": 30,
+      "type": "multiple-choice",
+      "question": "They recommend that she __________ notifications.",
+      "options": [
+        "turn off",
+        "turns off",
+        "turning off",
+        "to turn off"
+      ],
+      "correctIndex": 0,
+      "explanation": "recommend that + S + V0",
+      "hints": [
+        "recommend that + S + V0"
+      ],
+      "points": 10
+    }
+  ]
+}

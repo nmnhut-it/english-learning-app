@@ -3,19 +3,15 @@
 ## A CLOSER LOOK 1 - Vocabulary & Pronunciation
 
 <!-- chunk: intro -->
-<teacher_script pause="0" href="audio/tts_d0a7d076.mp3">
-Các em mở sách ra ngay A Closer look 1. Chúng ta học thêm từ vựng và phát âm
-</teacher_script>
-
-<teacher_script pause="0" href="audio/tts_dbd1495a.mp3">
-Các em nhìn vào bài 1
+<teacher_script pause="0">
+Chào các em. Chào mừng các em đến với bài học hôm nay. Mời các em mở sách giáo khoa.
 </teacher_script>
 
 ---
 
 <!-- chunk: vocabulary -->
-<teacher_script pause="0" href="audio/tts_4e7a8176.mp3">
-Bấm nút "Bắt đầu" bên dưới để học từ vựng. Máy sẽ đọc và các em đọc theo. Sau đó các em làm bài trắc nghiệm từ vựng rồi ghi từ vựng vô tập.
+<teacher_script pause="0">
+Chúng ta cùng học từ vựng mới. Các em hãy nghe và lặp lại theo mẫu nhé.
 </teacher_script>
 
 <vocabulary>
@@ -43,12 +39,8 @@ Bấm nút "Bắt đầu" bên dưới để học từ vựng. Máy sẽ đọc
 ---
 
 <!-- chunk: record_vocabulary -->
-<teacher_script pause="0" action="record" href="audio/tts_b8d1954b.mp3">
-Bấm nút Ghi âm để đọc lại từ vựng và gửi cho thầy sửa hen.
-</teacher_script>
-
-<teacher_script pause="0" href="audio/tts_06f3c362.mp3">
-Record xong thì bấm tiếp tục qua bài tập nha.
+<teacher_script pause="0" action="record">
+Các em hãy ghi âm phần luyện tập của mình và gửi cho thầy nhé.
 </teacher_script>
 
 ---
@@ -56,8 +48,8 @@ Record xong thì bấm tiếp tục qua bài tập nha.
 <!-- chunk: exercise_1 -->
 ### Bài 1 trang 8 - Match definitions
 
-<teacher_script pause="60" href="audio/tts_88f03b89.mp3">
-Bài 1 <eng>Write the words or phrases in the box next to the definition</eng> nha. Đọc định nghĩa tiếng Anh bên dưới, rồi chọn từ trong khung điền vô cho đúng. Bài này luyện hiểu nghĩa từ qua định nghĩa tiếng Anh. 1 phút hen.
+<teacher_script pause="60">
+Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
 <task>
@@ -93,8 +85,8 @@ Bài 1 <eng>Write the words or phrases in the box next to the definition</eng> n
 ---
 
 <!-- chunk: answer_1 -->
-<teacher_script pause="0" href="audio/tts_86c6342a.mp3">
-Ok thầy sửa bài nha. Mấy đứa kiểm tra lại.
+<teacher_script pause="0" type="answer">
+Đã hết thời gian. Sau đây là đáp án gợi ý. Các em hãy so sánh với bài làm của mình nhé.
 </teacher_script>
 
 <answer>
@@ -113,12 +105,12 @@ Ok thầy sửa bài nha. Mấy đứa kiểm tra lại.
 | 5 | A person who watches TV | **viewer** | người xem |
 </explanation>
 
-<teacher_script pause="0" href="audio/tts_5193a6fd.mp3">
-Bài này ai sai câu 5 thì chắc quên từ viewer rồi đó. View là xem, viewer là người xem. Phân biệt với audience là người đến nghe nhạc trực tiếp ở buổi biểu diễn. Viewer là người xem qua ti vi hoặc máy tính. Dễ nhớ hen.
+<teacher_script pause="0">
+Các em hãy lưu ý những điểm ngữ pháp và từ vựng quan trọng nhé.
 </teacher_script>
 
-<teacher_script pause="30" href="audio/tts_5f60b1cd.mp3">
-Mấy đứa sửa bài nếu sai. 30 giây hen.
+<teacher_script pause="30">
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
@@ -126,8 +118,8 @@ Mấy đứa sửa bài nếu sai. 30 giây hen.
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 8 - Fill in the blanks
 
-<teacher_script pause="60" href="audio/tts_0fa7bc2b.mp3">
-Bài 2 <eng>Complete the sentences with the words or phrases in the box</eng> nha. Đọc câu, chọn từ phù hợp trong khung điền vô chỗ trống. Bài này luyện dùng từ vựng trong câu. 1 phút hen.
+<teacher_script pause="60">
+Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
 <task>
@@ -167,8 +159,8 @@ Bài 2 <eng>Complete the sentences with the words or phrases in the box</eng> nh
 ---
 
 <!-- chunk: answer_2 -->
-<teacher_script pause="0" href="audio/tts_8adfec14.mp3">
-Ok thầy sửa bài nha.
+<teacher_script pause="0" type="answer">
+Đã hết thời gian. Sau đây là đáp án gợi ý. Các em hãy so sánh với bài làm của mình nhé.
 </teacher_script>
 
 <answer>
@@ -188,12 +180,8 @@ Ok thầy sửa bài nha.
 | 6 | A popular programme has a lot of ___ | **viewers** | Nhiều người xem |
 </explanation>
 
-<teacher_script pause="0" href="audio/tts_a1bb2101.mp3">
-Câu 5 nhiều bạn hay quên thêm S. <eng>Comedies</eng> là số nhiều vì bố xem nhiều phim hài, không phải chỉ 1 phim đâu nha.
-</teacher_script>
-
-<teacher_script pause="30" href="audio/tts_73b07c99.mp3">
-Sửa bài nếu sai hen. 30 giây.
+<teacher_script pause="30">
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
@@ -201,8 +189,8 @@ Sửa bài nếu sai hen. 30 giây.
 <!-- chunk: exercise_3 -->
 ### Bài 3 trang 8 - Complete with adjectives
 
-<teacher_script pause="60" href="audio/tts_e7e5a3d6.mp3">
-Bài 3 <eng>Complete the sentences with the adjectives in the box</eng> nha. Bài này điền tính từ - tức là từ chỉ tính chất như <eng>boring</eng>, <eng>funny</eng>. Đọc câu rồi chọn tính từ phù hợp trong khung điền vô. 1 phút hen.
+<teacher_script pause="60">
+Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
 <task>
@@ -242,8 +230,8 @@ Bài 3 <eng>Complete the sentences with the adjectives in the box</eng> nha. Bà
 ---
 
 <!-- chunk: answer_3 -->
-<teacher_script pause="0" href="audio/tts_4b2372a6.mp3">
-Ok thầy sửa bài nha. Đọc giải thích bên dưới để hiểu tại sao chọn từng tính từ.
+<teacher_script pause="0" type="answer">
+Đã hết thời gian. Sau đây là đáp án gợi ý. Các em hãy so sánh với bài làm của mình nhé.
 </teacher_script>
 
 <answer>
@@ -263,15 +251,8 @@ Ok thầy sửa bài nha. Đọc giải thích bên dưới để hiểu tại s
 | **educational** | có tính giáo dục | "learn a lot" = học được nhiều |
 </explanation>
 
-<teacher_script pause="0" href="audio/tts_77af79f0.mp3">
-Câu 4 hay bị nhầm lắm đó. <eng>Live</eng> đọc là /laɪv/ nghĩa là trực tiếp, khác với <eng>live</eng> đọc là /lɪv/ nghĩa là sống. Cùng cách viết mà khác nghĩa luôn.
-</teacher_script>
-
-<teacher_script pause="30" href="audio/tts_c03586c8.mp3">
-Sửa bài nếu sai hen. 30 giây. Nếu cần hỏi thì nhấn thu âm bên dưới nha.
-</teacher_script>
-
-<teacher_script pause="0" action="record">
+<teacher_script pause="30">
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
@@ -279,19 +260,15 @@ Sửa bài nếu sai hen. 30 giây. Nếu cần hỏi thì nhấn thu âm bên d
 <!-- chunk: pronunciation_intro -->
 ### PRONUNCIATION - /θ/ và /ð/
 
-<teacher_script pause="0" href="audio/tts_f17fb741.mp3">
-Giờ qua phần <eng>Pronunciation</eng> nha - phát âm. Hôm nay học 2 âm: /θ/ và /ð/. Hai âm này tiếng Việt không có, nên nhiều bạn hay đọc sai. Cần tập kỹ hen.
-</teacher_script>
-
-<teacher_script pause="0" href="audio/tts_69d94c85.mp3">
-Thầy nói trước luôn, 2 âm này khó nhất trong tiếng Anh. Các em cần chú ý.
+<teacher_script pause="0">
+Bây giờ chúng ta sẽ chuyển sang phần phát âm.
 </teacher_script>
 
 ---
 
 <!-- chunk: pronunciation_theory -->
-<teacher_script pause="0" href="audio/tts_232f3fbc.mp3">
-Đây là lý thuyết phát âm. Mấy đứa xem kỹ cách đặt lưỡi.
+<teacher_script pause="0">
+Các em hãy xem kỹ lý thuyết phát âm nhé.
 </teacher_script>
 
 <pronunciation_theory>
@@ -326,34 +303,30 @@ Thầy nói trước luôn, 2 âm này khó nhất trong tiếng Anh. Các em c�
 - ✅ Nhớ: LƯỠI PHẢI CHẠM RĂNG!
 </pronunciation_theory>
 
-<teacher_script pause="0" href="audio/tts_a90dd35b.mp3">
-Các em nhớ: Đặt tay lên cổ họng. Nếu rung thì là /ð/, không rung thì là /θ/. Dễ phân biệt hen.
-</teacher_script>
-
-<teacher_script pause="90" href="audio/tts_ef09653d.mp3">
-Ghi lý thuyết vô tập đi. 1 phút rưỡi hen.
+<teacher_script pause="60">
+Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
 ---
 
 <!-- chunk: pronunciation_audio -->
-<teacher_script pause="0" href="audio/tts_99559c13.mp3">
-Giờ nghe audio mẫu hen. Bấm play để nghe người ta đọc, rồi tập đọc theo.
+<teacher_script pause="0">
+Bây giờ các em sẽ nghe một đoạn băng. Hãy chú ý lắng nghe và lặp lại.
 </teacher_script>
 
 <audio src="<!-- TODO: g6_u07_pronunciation_th_sounds.mp3 -->">
 **Audio mẫu:** Nghe cách phát âm /θ/ và /ð/
 </audio>
 
-<teacher_script pause="30" href="audio/tts_29133f07.mp3">
-Nghe xong chưa? Nghe lại nếu cần hen. Để ý cách người ta đặt lưỡi giữa 2 hàm răng.
+<teacher_script pause="0">
+Các em có thể nghe lại để luyện tập thêm.
 </teacher_script>
 
 ---
 
 <!-- chunk: pronunciation_guide -->
-<teacher_script pause="0" href="audio/tts_1996e9ec.mp3">
-Đây là bảng tóm tắt phân biệt 2 âm hen. Quan trọng là phân biệt được /θ/ không rung cổ và /ð/ có rung cổ.
+<teacher_script pause="60">
+Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
 <vocabulary>
@@ -371,11 +344,11 @@ Nghe xong chưa? Nghe lại nếu cần hen. Để ý cách người ta đặt l
 - **/ð/** thường trong: **th**e, **th**is, **th**at, **th**ey, **th**ose, wea**th**er, fa**th**er
 </vocabulary>
 
-<teacher_script pause="0" href="audio/tts_0742d811.mp3">
+<teacher_script pause="0">
 Mẹo hay nè: Mấy từ như <eng>the</eng>, <eng>this</eng>, <eng>that</eng>, <eng>they</eng> - toàn là mấy từ dùng hoài đó - thì đọc là /ð/ có rung cổ. Còn lại đa số là /θ/ không rung.
 </teacher_script>
 
-<teacher_script pause="60" href="audio/tts_42cf2c0c.mp3">
+<teacher_script pause="60">
 Ghi bảng tóm tắt vô tập đi. 1 phút hen.
 </teacher_script>
 
@@ -384,8 +357,8 @@ Ghi bảng tóm tắt vô tập đi. 1 phút hen.
 <!-- chunk: exercise_4 -->
 ### Bài 4 trang 8 - Listen and repeat
 
-<teacher_script pause="60" href="audio/tts_44ca7a36.mp3">
-Bài 4 <eng>Listen and repeat the words</eng> nha. Nghe audio rồi đọc theo từng cột. Chú ý phân biệt âm /θ/ bên trái và /ð/ bên phải. 1 phút hen.
+<teacher_script pause="60">
+Bây giờ các em sẽ nghe một đoạn băng. Hãy chú ý lắng nghe và lặp lại.
 </teacher_script>
 
 <task>
@@ -411,12 +384,8 @@ Bài 4 <eng>Listen and repeat the words</eng> nha. Nghe audio rồi đọc theo 
 ---
 
 <!-- chunk: record_pronunciation -->
-<teacher_script pause="0" action="record" href="audio/tts_970c0ce6.mp3">
-Bấm nút Ghi âm để đọc lại và gửi cho thầy sửa hen. Đọc cả 2 cột, thầy sẽ nghe và góp ý.
-</teacher_script>
-
-<teacher_script pause="0" href="audio/tts_b6d45be0.mp3">
-Record xong thì bấm tiếp tục qua bài <eng>Tongue Twister</eng> nha.
+<teacher_script pause="0" action="record">
+Các em hãy ghi âm phần luyện tập của mình và gửi cho thầy nhé.
 </teacher_script>
 
 ---
@@ -424,12 +393,8 @@ Record xong thì bấm tiếp tục qua bài <eng>Tongue Twister</eng> nha.
 <!-- chunk: exercise_5 -->
 ### Bài 5 trang 8 - Tongue Twister
 
-<teacher_script pause="0" href="audio/tts_fc674b89.mp3">
-Tongue Twister là câu luyện phát âm khó - người ta hay gọi là các câu xoắn lưỡi. Các em tập đọc theo.
-</teacher_script>
-
-<teacher_script pause="60" href="audio/tts_b9a259d4.mp3">
-Thử đọc 2 câu này nhanh và đúng âm /θ/ với /ð/ hen. 1 phút. Ai đọc trẹo lưỡi là bình thường nha, thầy hồi đầu cũng vậy.
+<teacher_script pause="60">
+Bây giờ chúng ta sẽ luyện tập với các câu xoắn lưỡi. Các em hãy cố gắng đọc nhanh và chính xác nhé.
 </teacher_script>
 
 <task>
@@ -466,25 +431,13 @@ Thử đọc 2 câu này nhanh và đúng âm /θ/ với /ð/ hen. 1 phút. Ai �
 ---
 
 <!-- chunk: record_tongue_twister -->
-<teacher_script pause="0" action="record" href="audio/tts_2c5eac4a.mp3">
-Bấm nút Ghi âm để đọc 2 câu <eng>Tongue Twister</eng> và gửi cho thầy sửa hen. Cố gắng đọc nhanh mà không sai nha.
-</teacher_script>
-
-<teacher_script pause="0" href="audio/tts_cff0eaaa.mp3">
-Record xong thì bấm tiếp tục nha.
+<teacher_script pause="0" action="record">
+Các em hãy ghi âm phần luyện tập của mình và gửi cho thầy nhé.
 </teacher_script>
 
 ---
 
 <!-- chunk: end -->
-<teacher_script pause="0" href="audio/tts_4ac8c7e6.mp3">
-Ok hết A Closer Look 1 rồi. Về nhà luyện phát âm /θ/ và /ð/ nhiều hen - đặt lưỡi giữa 2 hàm răng. Nhớ học kĩ từ vựng nữa, thầy sẽ trả bài và có bảng xếp hạng bạn nào trả bài nhanh nhất.
-</teacher_script>
-
-<teacher_script pause="0" href="audio/tts_2f4d4755.mp3">
-Ai đọc được Tongue Twister mà không trẹo lưỡi thì hay nha. Thầy cũng phải tập mấy tuần mới quen.
-</teacher_script>
-
-<teacher_script pause="0" href="audio/tts_fad81d59.mp3">
-Bài sau qua <eng>A Closer Look 2</eng> - học Grammar. Hẹn gặp lại mấy đứa!
+<teacher_script pause="0">
+Bài học hôm nay kết thúc tại đây. Các em nhớ ôn bài và chuẩn bị cho bài học tiếp theo. Tạm biệt các em.
 </teacher_script>

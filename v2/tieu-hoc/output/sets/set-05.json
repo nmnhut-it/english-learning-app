@@ -1,0 +1,2172 @@
+{
+  "setNumber": 5,
+  "title": "IOE K5 2022-2023 Set 5",
+  "totalQuestions": 200,
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple-choice",
+      "question": "Choose the word that has the underlined part pronounced differently:",
+      "options": [
+        "open",
+        "pencil",
+        "flower",
+        "paper"
+      ],
+      "correctAnswer": "pencil",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: pencil**\n\n**Lý do:**\n- Các từ còn lại có chữ 'e' phát âm là /ə/ (âm schwa - âm nhẹ)\n- Từ 'pencil' có chữ 'e' phát âm là /e/ (âm 'e' rõ ràng)\n\n**Phát âm:**\n- open /ˈəʊpən/, flower /ˈflaʊə/, paper /ˈpeɪpə/ - âm /ə/\n- pencil /ˈpensl/ - âm /e/\n\n**Ghi nhớ:** Chữ 'e' trong pencil phát âm rõ ràng như 'pen'\n\n**Dịch nghĩa:** (Đây là câu hỏi phát âm)",
+      "wordDetails": [
+        {
+          "word": "open",
+          "ipa": "/ˈəʊpən/",
+          "meaning": "mở",
+          "underlinedSound": "/-/",
+          "underlinedWord": "op**e**n"
+        },
+        {
+          "word": "pencil",
+          "ipa": "/ˈpensl/",
+          "meaning": "bút chì",
+          "underlinedSound": "/-/",
+          "underlinedWord": "p**e**ncil"
+        },
+        {
+          "word": "flower",
+          "ipa": "/ˈflaʊə/",
+          "meaning": "hoa",
+          "underlinedSound": "/-/",
+          "underlinedWord": "flow**e**r"
+        },
+        {
+          "word": "paper",
+          "ipa": "/ˈpeɪpə/",
+          "meaning": "giấy",
+          "underlinedSound": "/-/",
+          "underlinedWord": "pap**e**r"
+        }
+      ],
+      "underlinedPart": "e",
+      "correctIndex": 1
+    },
+    {
+      "id": 2,
+      "type": "multiple-choice",
+      "question": "Listen and tick",
+      "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi%20Th%E1%BB%AD/Thi_trai_nghiem_2021/Lop5/tracnghiem/tn-32.mp3",
+      "options": [
+        "The cities were famous all over the world.",
+        "The cities was famous all over the world.",
+        "The city was famous all over the world.",
+        "The city were famous all over the world."
+      ],
+      "correctAnswer": "The city was famous all over the world.",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: The city was famous all over the world.**\n\n**Lý do:**\n- Chủ ngữ 'The city' là số ít nên dùng 'was'\n- 'cities' (số nhiều) dùng 'were'\n- 'city' (số ít) dùng 'was'\n\n**Các đáp án sai:**\n- The cities were: sai vì nghe 'city' (số ít)\n- The city were: sai vì 'city' dùng 'was'\n\n**Dịch nghĩa:** Thành phố này nổi tiếng khắp thế giới.\n\n**Ghi nhớ:** city (số ít) + was, cities (số nhiều) + were"
+    },
+    {
+      "id": 3,
+      "type": "fill-blank",
+      "question": "CLO_ D",
+      "correctAnswer": "U",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: U**\n\n**Lý do:**\n- Từ cần điền: CLO_D\n- Khi thêm U vào: CLOUD (đám mây)\n- Cloud là từ vựng về thời tiết\n\n**Dịch nghĩa:** CLOUD = đám mây\n\n**Ghi nhớ:** cloud = mây, cloudy = nhiều mây, có mây"
+    },
+    {
+      "id": 4,
+      "type": "word-arrangement",
+      "question": "in his/ likes/ Nam/ free time./ watching videos/",
+      "correctAnswer": "Nam likes watching videos in his free time.",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: Nam likes watching videos in his free time.**\n\n**Phân tích:**\n- Câu bắt đầu bằng chủ ngữ 'Nam'\n- 'likes watching' = thích xem\n- 'videos' = video, phim\n- 'in his free time' = vào thời gian rảnh\n\n**Dịch nghĩa:** Nam thích xem video vào thời gian rảnh.\n\n**Ghi nhớ:** in free time = vào thời gian rảnh"
+    },
+    {
+      "id": 5,
+      "type": "fill-blank",
+      "question": "BL_ E",
+      "correctAnswer": "U",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: U**\n\n**Lý do:**\n- Từ cần điền: BL_E\n- Khi thêm U vào: BLUE (màu xanh dương)\n- Blue là từ chỉ màu sắc\n\n**Dịch nghĩa:** BLUE = màu xanh dương\n\n**Ghi nhớ:** blue = xanh dương, green = xanh lá"
+    },
+    {
+      "id": 6,
+      "type": "fill-blank",
+      "question": "Let's go to the mountain and _ _ _ _ a good time there.",
+      "correctAnswer": "have",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: have**\n\n**Lý do:**\n- Từ cần điền có 4 chữ cái: _ _ _ _\n- 'have a good time' = có khoảng thời gian vui vẻ\n- 'Let's' + động từ nguyên mẫu\n\n**Dịch nghĩa:** Hãy đi lên núi và có khoảng thời gian vui vẻ ở đó.\n\n**Ghi nhớ:** have a good time = vui vẻ, have fun = vui chơi"
+    },
+    {
+      "id": 7,
+      "type": "fill-blank",
+      "question": "This is my mother. She is pr_ _ ty.",
+      "correctAnswer": "et",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: et**\n\n**Lý do:**\n- Từ cần điền: pr_ _ ty\n- Khi thêm 'et' vào: pretty (xinh đẹp)\n- Câu nói về mẹ xinh đẹp\n\n**Dịch nghĩa:** Đây là mẹ tôi. Bà ấy xinh đẹp.\n\n**Ghi nhớ:** pretty = xinh đẹp, đẹp (dùng cho phụ nữ)"
+    },
+    {
+      "id": 8,
+      "type": "fill-blank",
+      "question": "C_ Y",
+      "correctAnswer": "R",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: R**\n\n**Lý do:**\n- Từ cần điền: C_Y\n- Khi thêm R vào: CRY (khóc)\n- Cry là động từ chỉ hành động\n\n**Dịch nghĩa:** CRY = khóc\n\n**Ghi nhớ:** cry = khóc, laugh = cười"
+    },
+    {
+      "id": 9,
+      "type": "fill-blank",
+      "question": "We're in the _ _ _ _ _ _ room.",
+      "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2016/11/30/636161155376707341_Audio.mp3",
+      "correctAnswer": "living",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: living**\n\n**Lý do:**\n- Từ cần điền có 6 chữ cái: _ _ _ _ _ _\n- 'living room' = phòng khách\n- Câu nói về đang ở trong phòng khách\n\n**Dịch nghĩa:** Chúng tôi đang ở trong phòng khách.\n\n**Ghi nhớ:** living room = phòng khách, bedroom = phòng ngủ, kitchen = nhà bếp"
+    },
+    {
+      "id": 10,
+      "type": "multiple-choice",
+      "question": "I usually ... my homework at night.",
+      "options": [
+        "am doing",
+        "will do",
+        "do",
+        "did"
+      ],
+      "correctAnswer": "do",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: do**\n\n**Lý do:**\n- 'usually' = thường xuyên (chỉ thói quen)\n- Câu diễn tả thói quen dùng thì hiện tại đơn\n- Chủ ngữ 'I' + động từ nguyên mẫu 'do'\n\n**Các đáp án khác:**\n- am doing: hiện tại tiếp diễn (không phù hợp)\n- will do: tương lai (không phù hợp)\n- did: quá khứ (không phù hợp)\n\n**Dịch nghĩa:** Tôi thường làm bài tập vào buổi tối.\n\n**Ghi nhớ:** usually + hiện tại đơn"
+    },
+    {
+      "id": 11,
+      "type": "word-arrangement",
+      "question": "Chinese restaurant/ go to a/ Why does/ at weekends?/ she often/",
+      "correctAnswer": "Why does she often go to a Chinese restaurant at weekends?",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: Why does she often go to a Chinese restaurant at weekends?**\n\n**Phân tích:**\n- Câu hỏi bắt đầu bằng 'Why does' (tại sao)\n- 'she' + 'does' (số ít)\n- 'go to a Chinese restaurant' = đi đến nhà hàng Trung Quốc\n- 'at weekends' = vào cuối tuần\n\n**Dịch nghĩa:** Tại sao cô ấy thường đi đến nhà hàng Trung Quốc vào cuối tuần?\n\n**Ghi nhớ:** at weekends = vào cuối tuần"
+    },
+    {
+      "id": 12,
+      "type": "multiple-choice",
+      "question": "Is it a ...? - No, it isn't. It's a little box.",
+      "options": [
+        "little",
+        "a big box",
+        "a long ruler",
+        "big box"
+      ],
+      "correctAnswer": "big box",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: big box**\n\n**Lý do:**\n- Câu hỏi: Is it a ...? (Nó có phải là ... không?)\n- Câu trả lời: No, it's a little box (Không, nó là một cái hộp nhỏ)\n- Câu hỏi hỏi về hộp lớn, nên cần 'big box'\n- Không cần 'a' vì đã có 'a' trong câu hỏi\n\n**Dịch nghĩa:** Nó có phải là hộp lớn không? - Không, nó là hộp nhỏ.\n\n**Ghi nhớ:** big = lớn, little = nhỏ"
+    },
+    {
+      "id": 13,
+      "type": "multiple-choice",
+      "question": "What ...? - She is very nice.",
+      "options": [
+        "did Sandra like",
+        "is Sandra like",
+        "does Sandra like",
+        "was Sandra like"
+      ],
+      "correctAnswer": "is Sandra like",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: is Sandra like**\n\n**Lý do:**\n- Câu hỏi về tính cách: What is ... like? (... như thế nào?)\n- Câu trả lời 'She is very nice' (Cô ấy rất tốt)\n- Dùng 'is' vì đang hỏi về hiện tại\n\n**Các đáp án khác:**\n- did Sandra like: quá khứ (sai)\n- does Sandra like: hỏi về sở thích (sai)\n- was Sandra like: quá khứ (sai)\n\n**Dịch nghĩa:** Sandra như thế nào? - Cô ấy rất tốt.\n\n**Ghi nhớ:** What is ... like? = hỏi về tính cách"
+    },
+    {
+      "id": 14,
+      "type": "word-arrangement",
+      "question": "talk/ with/ your friends?/ Do you/ usually/",
+      "correctAnswer": "Do you usually talk with your friends?",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: Do you usually talk with your friends?**\n\n**Phân tích:**\n- Câu hỏi yes/no bắt đầu bằng 'Do'\n- 'usually' = thường xuyên (đứng sau 'you')\n- 'talk with' = nói chuyện với\n- 'your friends' = bạn bè của bạn\n\n**Dịch nghĩa:** Bạn có thường xuyên nói chuyện với bạn bè không?\n\n**Ghi nhớ:** talk with = talk to = nói chuyện với"
+    },
+    {
+      "id": 15,
+      "type": "word-arrangement",
+      "question": "my friend/ The news/ makes/ a lot./ cry/",
+      "correctAnswer": "The news makes my friend cry a lot.",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: The news makes my friend cry a lot.**\n\n**Phân tích:**\n- Câu bắt đầu bằng 'The news' (tin tức)\n- 'makes' + tân ngữ + động từ nguyên mẫu (cấu trúc make)\n- 'my friend cry' = bạn tôi khóc\n- 'a lot' = nhiều\n\n**Dịch nghĩa:** Tin tức làm bạn tôi khóc rất nhiều.\n\n**Ghi nhớ:** make + sb + V = làm ai đó làm gì"
+    },
+    {
+      "id": 16,
+      "type": "multiple-choice",
+      "question": "Choose the word that has the underlined part pronounced differently:",
+      "options": [
+        "farm",
+        "warm",
+        "start",
+        "park"
+      ],
+      "correctAnswer": "warm",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: warm**\n\n**Lý do:**\n- Các từ còn lại có 'ar' phát âm là /ɑː/ (âm a dài)\n- Từ 'warm' có 'ar' phát âm là /ɔː/ (âm ô dài)\n\n**Phát âm:**\n- farm /fɑːm/, start /stɑːt/, park /pɑːk/ - âm /ɑː/\n- warm /wɔːm/ - âm /ɔː/\n\n**Ghi nhớ:** warm có phát âm đặc biệt vì có chữ 'w' đứng trước\n\n**Dịch nghĩa:** (Đây là câu hỏi phát âm)",
+      "wordDetails": [
+        {
+          "word": "farm",
+          "ipa": "/fɑːm/",
+          "meaning": "nông trại",
+          "underlinedSound": "/ɑː/",
+          "underlinedWord": "f**a**rm"
+        },
+        {
+          "word": "warm",
+          "ipa": "/wɔːm/",
+          "meaning": "ấm",
+          "underlinedSound": "/ɔː/",
+          "underlinedWord": "w**a**rm"
+        },
+        {
+          "word": "start",
+          "ipa": "/stɑːt/",
+          "meaning": "bắt đầu",
+          "underlinedSound": "/ɑː/",
+          "underlinedWord": "st**a**rt"
+        },
+        {
+          "word": "park",
+          "ipa": "/pɑːk/",
+          "meaning": "công viên",
+          "underlinedSound": "/ɑː/",
+          "underlinedWord": "p**a**rk"
+        }
+      ],
+      "underlinedPart": "a",
+      "correctIndex": 1
+    },
+    {
+      "id": 17,
+      "type": "fill-blank",
+      "question": "What is the second month of the _ _ _ _ ?",
+      "correctAnswer": "year",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: year**\n\n**Lý do:**\n- Từ cần điền có 4 chữ cái: _ _ _ _\n- Tháng thứ hai của năm là tháng 2 (February)\n- 'second month of the year' = tháng thứ hai của năm\n\n**Dịch nghĩa:** Tháng thứ hai của năm là tháng gì?\n\n**Ghi nhớ:** year = năm, month = tháng, week = tuần"
+    },
+    {
+      "id": 18,
+      "type": "word-arrangement",
+      "question": "to the/ library./ return this book/ You/ need to/",
+      "correctAnswer": "You need to return this book to the library.",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: You need to return this book to the library.**\n\n**Phân tích:**\n- Câu bắt đầu bằng 'You' (bạn)\n- 'need to' = cần phải\n- 'return this book' = trả lại quyển sách này\n- 'to the library' = cho thư viện\n\n**Dịch nghĩa:** Bạn cần trả lại quyển sách này cho thư viện.\n\n**Ghi nhớ:** return = trả lại, borrow = mượn"
+    },
+    {
+      "id": 19,
+      "type": "fill-blank",
+      "question": "_ _ _ do you buy flowers? - Because today is Mary's birthday.",
+      "correctAnswer": "Why",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: Why**\n\n**Lý do:**\n- Từ cần điền có 3 chữ cái: _ _ _\n- Câu trả lời 'Because today is Mary's birthday' (Vì hôm nay là sinh nhật Mary)\n- Hỏi lý do dùng 'Why' (tại sao)\n\n**Dịch nghĩa:** Tại sao bạn mua hoa? - Vì hôm nay là sinh nhật Mary.\n\n**Ghi nhớ:** Why = tại sao, Because = vì"
+    },
+    {
+      "id": 20,
+      "type": "multiple-choice",
+      "question": "Choose the word which is NOT mentioned in the recording.",
+      "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2016/11/29/636160303580564198_Audio.mp3",
+      "options": [
+        "roof",
+        "door",
+        "window",
+        "balcony"
+      ],
+      "correctAnswer": "balcony",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: balcony**\n\n**Lý do:**\n- Câu hỏi yêu cầu chọn từ KHÔNG được nhắc đến trong bản ghi âm\n- Các từ roof (mái nhà), door (cửa), window (cửa sổ) được nhắc đến\n- Từ balcony (ban công) không được nhắc đến\n\n**Dịch nghĩa:** Chọn từ KHÔNG được nhắc đến: balcony (ban công)\n\n**Ghi nhớ:** balcony = ban công"
+    },
+    {
+      "id": 21,
+      "type": "multiple-choice",
+      "question": "Would you like a sandwich?",
+      "options": [
+        "Yes, please.",
+        "Yes, I don't.",
+        "Yes, he does.",
+        "No, I do."
+      ],
+      "correctAnswer": "Yes, please.",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: Yes, please.**\n\n**Lý do:**\n- Câu hỏi 'Would you like ...?' (Bạn có muốn ... không?)\n- Trả lời lịch sự: 'Yes, please' (Vâng, làm ơn)\n\n**Các đáp án khác:**\n- Yes, I don't: mâu thuẫn (Yes nhưng don't)\n- Yes, he does: sai chủ ngữ\n- No, I do: mâu thuẫn (No nhưng do)\n\n**Dịch nghĩa:** Bạn có muốn bánh mì sandwich không? - Vâng, làm ơn.\n\n**Ghi nhớ:** Would you like ...? -> Yes, please / No, thank you"
+    },
+    {
+      "id": 22,
+      "type": "word-arrangement",
+      "question": "school/ can't/ today./ go to/ Linda/",
+      "correctAnswer": "Linda can't go to school today.",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: Linda can't go to school today.**\n\n**Phân tích:**\n- Câu bắt đầu bằng 'Linda'\n- 'can't' = không thể\n- 'go to school' = đi học\n- 'today' = hôm nay (đứng cuối câu)\n\n**Dịch nghĩa:** Linda không thể đi học hôm nay.\n\n**Ghi nhớ:** can't = cannot = không thể"
+    },
+    {
+      "id": 23,
+      "type": "multiple-choice",
+      "question": "Choose the word that has the underlined part pronounced differently:",
+      "options": [
+        "pink",
+        "nice",
+        "like",
+        "rice"
+      ],
+      "correctAnswer": "pink",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: pink**\n\n**Lý do:**\n- Các từ còn lại có chữ 'i' phát âm là /aɪ/ (âm ai)\n- Từ 'pink' có chữ 'i' phát âm là /ɪ/ (âm i ngắn)\n\n**Phát âm:**\n- nice /naɪs/, like /laɪk/, rice /raɪs/ - âm /aɪ/\n- pink /pɪŋk/ - âm /ɪ/\n\n**Ghi nhớ:** Chữ 'i' + k thường phát âm /ɪ/: pink, think, drink\n\n**Dịch nghĩa:** (Đây là câu hỏi phát âm)",
+      "wordDetails": [
+        {
+          "word": "pink",
+          "ipa": "/pɪŋk/",
+          "meaning": "màu hồng",
+          "underlinedSound": "/ɪ/",
+          "underlinedWord": "p**i**nk"
+        },
+        {
+          "word": "nice",
+          "ipa": "/naɪs/",
+          "meaning": "đẹp, tốt",
+          "underlinedSound": "/aɪ/",
+          "underlinedWord": "n**i**ce"
+        },
+        {
+          "word": "like",
+          "ipa": "/laɪk/",
+          "meaning": "thích",
+          "underlinedSound": "/aɪ/",
+          "underlinedWord": "l**i**ke"
+        },
+        {
+          "word": "rice",
+          "ipa": "/raɪs/",
+          "meaning": "gạo, cơm",
+          "underlinedSound": "/aɪ/",
+          "underlinedWord": "r**i**ce"
+        }
+      ],
+      "underlinedPart": "i",
+      "correctIndex": 0
+    },
+    {
+      "id": 24,
+      "type": "fill-blank",
+      "question": "She never goes out and eats at a _ _ _ _ _ _ _ _ _ _ .",
+      "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/1/4/636506646311939299_566X320.jpg",
+      "correctAnswer": "restaurant",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: restaurant**\n\n**Lý do:**\n- Từ cần điền có 10 chữ cái: _ _ _ _ _ _ _ _ _ _\n- Câu nói về đi ra ngoài ăn\n- 'restaurant' = nhà hàng (nơi ăn uống)\n- Hình ảnh là nhà hàng\n\n**Dịch nghĩa:** Cô ấy không bao giờ ra ngoài và ăn ở nhà hàng.\n\n**Ghi nhớ:** restaurant = nhà hàng"
+    },
+    {
+      "id": 25,
+      "type": "multiple-choice",
+      "question": "Are you proud ... your country and its tradition?",
+      "options": [
+        "about",
+        "on",
+        "of",
+        "for"
+      ],
+      "correctAnswer": "of",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: of**\n\n**Lý do:**\n- Cấu trúc: be proud of = tự hào về\n- 'of' = về, của (chỉ đối tượng tự hào)\n\n**Các giới từ khác:**\n- about: về (chỉ chủ đề)\n- on: trên\n- for: cho\n\n**Dịch nghĩa:** Bạn có tự hào về đất nước và truyền thống của mình không?\n\n**Ghi nhớ:** be proud of = tự hào về"
+    },
+    {
+      "id": 26,
+      "type": "multiple-choice",
+      "question": "Listen and tick:",
+      "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/21/635206399120925077_Audio.mp3",
+      "options": [
+        "I always have a shower in the morning.",
+        "I always have a bath in the morning.",
+        "I always do morning exercise.",
+        "I always have breakfast in the morning."
+      ],
+      "correctAnswer": "I always do morning exercise.",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: I always do morning exercise.**\n\n**Lý do:**\n- Nghe file âm thanh để chọn câu đúng\n- Câu nói về thói quen tập thể dục buổi sáng\n- 'do morning exercise' = tập thể dục buổi sáng\n\n**Các đáp án khác:**\n- have a shower: tắm\n- have a bath: tắm bồn\n- have breakfast: ăn sáng\n\n**Dịch nghĩa:** Tôi luôn tập thể dục buổi sáng.\n\n**Ghi nhớ:** do exercise = tập thể dục"
+    },
+    {
+      "id": 27,
+      "type": "word-arrangement",
+      "question": "hard/ practising/ We're/ for Sports Day./",
+      "correctAnswer": "We're practising hard for Sports Day.",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: We're practising hard for Sports Day.**\n\n**Phân tích:**\n- Câu bắt đầu bằng 'We're' (We are - chúng tôi đang)\n- 'practising hard' = luyện tập chăm chỉ\n- 'for Sports Day' = cho Ngày Hội Thể Thao\n\n**Dịch nghĩa:** Chúng tôi đang luyện tập chăm chỉ cho Ngày Hội Thể Thao.\n\n**Ghi nhớ:** practise hard = luyện tập chăm chỉ"
+    },
+    {
+      "id": 28,
+      "type": "multiple-choice",
+      "question": "Choose the word that has the underlined part pronounced differently:",
+      "options": [
+        "like",
+        "think",
+        "drink",
+        "thing"
+      ],
+      "correctAnswer": "like",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: like**\n\n**Lý do:**\n- Các từ còn lại có chữ 'i' phát âm là /ɪ/ (âm i ngắn)\n- Từ 'like' có chữ 'i' phát âm là /aɪ/ (âm ai)\n\n**Phát âm:**\n- think /θɪŋk/, drink /drɪŋk/, thing /θɪŋ/ - âm /ɪ/\n- like /laɪk/ - âm /aɪ/\n\n**Ghi nhớ:** Chữ 'i' + ke thường phát âm /aɪ/: like, bike, Mike\n\n**Dịch nghĩa:** (Đây là câu hỏi phát âm)",
+      "wordDetails": [
+        {
+          "word": "like",
+          "ipa": "/laɪk/",
+          "meaning": "thích",
+          "underlinedSound": "/aɪ/",
+          "underlinedWord": "l**i**ke"
+        },
+        {
+          "word": "think",
+          "ipa": "/θɪŋk/",
+          "meaning": "nghĩ",
+          "underlinedSound": "/ɪ/",
+          "underlinedWord": "th**i**nk"
+        },
+        {
+          "word": "drink",
+          "ipa": "/drɪŋk/",
+          "meaning": "uống",
+          "underlinedSound": "/ɪ/",
+          "underlinedWord": "dr**i**nk"
+        },
+        {
+          "word": "thing",
+          "ipa": "/θɪŋ/",
+          "meaning": "thứ, điều",
+          "underlinedSound": "/ɪ/",
+          "underlinedWord": "th**i**ng"
+        }
+      ],
+      "underlinedPart": "i",
+      "correctIndex": 0
+    },
+    {
+      "id": 29,
+      "type": "word-arrangement",
+      "question": "Does/ every day?/ Tommy/ walk to/ school/",
+      "correctAnswer": "Does Tommy walk to school every day?",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: Does Tommy walk to school every day?**\n\n**Phân tích:**\n- Câu hỏi yes/no bắt đầu bằng 'Does' (vì Tommy là số ít)\n- 'Tommy' là chủ ngữ\n- 'walk to school' = đi bộ đến trường\n- 'every day' = mỗi ngày (đứng cuối câu)\n\n**Dịch nghĩa:** Tommy có đi bộ đến trường mỗi ngày không?\n\n**Ghi nhớ:** walk to = đi bộ đến"
+    },
+    {
+      "id": 30,
+      "type": "fill-blank",
+      "question": "He learns vocabu_ _ _ _ by writing new words and reading them aloud.",
+      "correctAnswer": "lary",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: lary**\n\n**Lý do:**\n- Từ cần điền: vocabu_ _ _ _\n- Khi thêm 'lary' vào: vocabulary (từ vựng)\n- Câu nói về học từ vựng bằng cách viết và đọc\n\n**Dịch nghĩa:** Anh ấy học từ vựng bằng cách viết từ mới và đọc to chúng.\n\n**Ghi nhớ:** vocabulary = từ vựng, learn vocabulary = học từ vựng"
+    },
+    {
+      "id": 31,
+      "type": "multiple-choice",
+      "question": "Choose the odd one:",
+      "options": [
+        "never",
+        "often",
+        "early",
+        "always"
+      ],
+      "correctAnswer": "early",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: early**\n\n**Lý do:**\n- never, often, always là trạng từ chỉ tần suất\n- early là trạng từ chỉ thời gian (sớm)\n\n**Phân loại:**\n- never: không bao giờ (tần suất)\n- often: thường xuyên (tần suất)\n- always: luôn luôn (tần suất)\n- early: sớm (thời gian)\n\n**Dịch nghĩa:** Chọn từ khác loại: early (sớm)\n\n**Ghi nhớ:** early = sớm, late = muộn"
+    },
+    {
+      "id": 32,
+      "type": "odd-one-out",
+      "question": "Choose the odd one out:",
+      "options": [
+        "Often",
+        "Some time",
+        "Always",
+        "Never"
+      ],
+      "correctAnswer": "Some time",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: Some time**\n\n**Lý do:**\n- Often, Always, Never là trạng từ chỉ tần suất (một từ)\n- Some time = một thời gian nào đó (hai từ, không chỉ tần suất)\n\n**Phân loại:**\n- Often: thường xuyên\n- Always: luôn luôn\n- Never: không bao giờ\n- Some time: một khoảng thời gian\n\n**Dịch nghĩa:** Chọn từ khác loại: Some time\n\n**Ghi nhớ:** Sometimes (một từ) = thỉnh thoảng"
+    },
+    {
+      "id": 33,
+      "type": "fill-blank",
+      "question": "This street is quite dange_ _ _ _ . Be careful!",
+      "correctAnswer": "rous",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: rous**\n\n**Lý do:**\n- Từ cần điền: dange_ _ _ _\n- Khi thêm 'rous' vào: dangerous (nguy hiểm)\n- Câu cảnh báo về con đường nguy hiểm\n\n**Dịch nghĩa:** Con đường này khá nguy hiểm. Hãy cẩn thận!\n\n**Ghi nhớ:** dangerous = nguy hiểm, danger = sự nguy hiểm"
+    },
+    {
+      "id": 34,
+      "type": "word-arrangement",
+      "question": "is Music/ because she loves/ Nga's/ favorite subject/ singing./",
+      "correctAnswer": "Nga's favorite subject is Music because she loves singing.",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: Nga's favorite subject is Music because she loves singing.**\n\n**Phân tích:**\n- Câu bắt đầu bằng 'Nga's favorite subject' (môn học yêu thích của Nga)\n- 'is Music' = là Âm nhạc\n- 'because' = bởi vì\n- 'she loves singing' = cô ấy yêu ca hát\n\n**Dịch nghĩa:** Môn học yêu thích của Nga là Âm nhạc vì cô ấy yêu ca hát.\n\n**Ghi nhớ:** favorite subject = môn học yêu thích"
+    },
+    {
+      "id": 35,
+      "type": "word-arrangement",
+      "question": "all/ The monkeys/ tree to tree/ the time./ swung from/",
+      "correctAnswer": "The monkeys swung from tree to tree all the time.",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: The monkeys swung from tree to tree all the time.**\n\n**Phân tích:**\n- Câu bắt đầu bằng 'The monkeys' (những con khỉ)\n- 'swung' = đu đưa (quá khứ của swing)\n- 'from tree to tree' = từ cây này sang cây khác\n- 'all the time' = suốt ngày, luôn luôn\n\n**Dịch nghĩa:** Những con khỉ đu đưa từ cây này sang cây khác suốt ngày.\n\n**Ghi nhớ:** swing - swung - swung (đu đưa)"
+    },
+    {
+      "id": 36,
+      "type": "fill-blank",
+      "question": "Vegetables and fruit are good _ _ _ us.",
+      "correctAnswer": "for",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: for**\n\n**Lý do:**\n- Từ cần điền có 3 chữ cái: _ _ _\n- Cấu trúc: be good for = tốt cho\n- Rau và trái cây tốt cho chúng ta\n\n**Dịch nghĩa:** Rau và trái cây tốt cho chúng ta.\n\n**Ghi nhớ:** good for = tốt cho, bad for = xấu cho"
+    },
+    {
+      "id": 37,
+      "type": "fill-blank",
+      "question": "I live far _ _ _ _ my grandparents, so I usually call them.",
+      "correctAnswer": "from",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: from**\n\n**Lý do:**\n- Từ cần điền có 4 chữ cái: _ _ _ _\n- Cấu trúc: far from = xa cách, xa\n- Câu nói về sống xa ông bà nên gọi điện\n\n**Dịch nghĩa:** Tôi sống xa ông bà, vì vậy tôi thường gọi điện cho họ.\n\n**Ghi nhớ:** far from = xa, near = gần"
+    },
+    {
+      "id": 38,
+      "type": "multiple-choice",
+      "question": "A: __________? - B: Some milk, please.",
+      "options": [
+        "Would you like to drink some milk",
+        "Would you like something to eat",
+        "What would you like to eat",
+        "What would you like to drink"
+      ],
+      "correctAnswer": "What would you like to drink",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: What would you like to drink**\n\n**Lý do:**\n- Câu trả lời 'Some milk, please' (Một ít sữa, làm ơn)\n- Hỏi về đồ uống: What would you like to drink?\n- 'to drink' = để uống (phân biệt với 'to eat' = để ăn)\n\n**Các đáp án khác:**\n- Would you like to drink some milk: câu mời (không hỏi muốn gì)\n- What would you like to eat: hỏi đồ ăn (sai)\n\n**Dịch nghĩa:** Bạn muốn uống gì? - Một ít sữa, làm ơn.\n\n**Ghi nhớ:** What would you like to drink? = Bạn muốn uống gì?"
+    },
+    {
+      "id": 39,
+      "type": "word-arrangement",
+      "question": "to?/ Which park/ take/ him/ will you/",
+      "correctAnswer": "Which park will you take him to?",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: Which park will you take him to?**\n\n**Phân tích:**\n- Câu hỏi bắt đầu bằng 'Which park' (công viên nào)\n- 'will you' = bạn sẽ\n- 'take him to' = đưa anh ấy đến\n- 'to' đứng cuối câu\n\n**Dịch nghĩa:** Bạn sẽ đưa anh ấy đến công viên nào?\n\n**Ghi nhớ:** take sb to = đưa ai đến"
+    },
+    {
+      "id": 40,
+      "type": "word-arrangement",
+      "question": "How often/ do you/ at school?/ have Art/",
+      "correctAnswer": "How often do you have Art at school?",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: How often do you have Art at school?**\n\n**Phân tích:**\n- Câu hỏi bắt đầu bằng 'How often' (bao lâu một lần)\n- 'do you' = bạn có\n- 'have Art' = có môn Mỹ thuật\n- 'at school' = ở trường\n\n**Dịch nghĩa:** Bao lâu một lần bạn có môn Mỹ thuật ở trường?\n\n**Ghi nhớ:** How often = hỏi tần suất"
+    },
+    {
+      "id": 41,
+      "type": "fill-blank",
+      "question": "My mother uses the oven to bake some cookie_ .",
+      "correctAnswer": "s",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: s**\n\n**Lý do:**\n- Từ cần điền: cookie_\n- Khi thêm 's' vào: cookies (những chiếc bánh quy)\n- 'some cookies' = một số bánh quy (số nhiều)\n\n**Dịch nghĩa:** Mẹ tôi dùng lò nướng để nướng một số bánh quy.\n\n**Ghi nhớ:** cookie = bánh quy (số ít), cookies = bánh quy (số nhiều)"
+    },
+    {
+      "id": 42,
+      "type": "multiple-choice",
+      "question": "The bus stop is ... to the cinema.",
+      "options": [
+        "by",
+        "on",
+        "in",
+        "next"
+      ],
+      "correctAnswer": "next",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: next**\n\n**Lý do:**\n- Cấu trúc: next to = bên cạnh\n- Trạm xe buýt bên cạnh rạp chiếu phim\n\n**Các giới từ khác:**\n- by: bởi\n- on: trên\n- in: trong\n\n**Dịch nghĩa:** Trạm xe buýt ở bên cạnh rạp chiếu phim.\n\n**Ghi nhớ:** next to = beside = bên cạnh"
+    },
+    {
+      "id": 43,
+      "type": "fill-blank",
+      "question": "She pr_ _ tices speaking English every day.",
+      "correctAnswer": "ac",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: ac**\n\n**Lý do:**\n- Từ cần điền: pr_ _tices\n- Khi thêm 'ac' vào: practises (luyện tập)\n- Câu nói về luyện tập nói tiếng Anh\n\n**Dịch nghĩa:** Cô ấy luyện tập nói tiếng Anh mỗi ngày.\n\n**Ghi nhớ:** practise = luyện tập (động từ)"
+    },
+    {
+      "id": 44,
+      "type": "fill-blank",
+      "question": "My brother is 17 years old and he is in _ _ _ _ _12.",
+      "correctAnswer": "grade",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: grade**\n\n**Lý do:**\n- Từ cần điền có 5 chữ cái: _ _ _ _ _\n- Anh trai 17 tuổi thường học lớp 12\n- 'grade 12' = lớp 12\n\n**Dịch nghĩa:** Anh trai tôi 17 tuổi và anh ấy học lớp 12.\n\n**Ghi nhớ:** grade = lớp (Mỹ), class = lớp (Anh)"
+    },
+    {
+      "id": 45,
+      "type": "fill-blank",
+      "question": "Please have a look _ _ my new bike. It's very nice.",
+      "correctAnswer": "at",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: at**\n\n**Lý do:**\n- Từ cần điền có 2 chữ cái: _ _\n- Cấu trúc: have a look at = nhìn vào\n- 'look at' = nhìn vào\n\n**Dịch nghĩa:** Hãy nhìn chiếc xe đạp mới của tôi. Nó rất đẹp.\n\n**Ghi nhớ:** look at = nhìn vào"
+    },
+    {
+      "id": 46,
+      "type": "multiple-choice",
+      "question": "Where do you live? I live ... a flat.",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "from"
+      ],
+      "correctAnswer": "in",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: in**\n\n**Lý do:**\n- Câu hỏi về nơi ở: Where do you live?\n- 'live in a flat' = sống trong căn hộ\n- 'in' = trong (không gian kín)\n\n**Các giới từ khác:**\n- on: trên\n- at: tại\n- from: từ\n\n**Dịch nghĩa:** Bạn sống ở đâu? Tôi sống trong một căn hộ.\n\n**Ghi nhớ:** live in + flat/apartment/house"
+    },
+    {
+      "id": 47,
+      "type": "fill-blank",
+      "question": "There are _ _ _ _ fingers in one hand.",
+      "correctAnswer": "five",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: five**\n\n**Lý do:**\n- Từ cần điền có 4 chữ cái: _ _ _ _\n- Một bàn tay có 5 ngón tay\n- 'five fingers' = năm ngón tay\n\n**Dịch nghĩa:** Có năm ngón tay trong một bàn tay.\n\n**Ghi nhớ:** one hand has five fingers"
+    },
+    {
+      "id": 48,
+      "type": "fill-blank",
+      "question": "Mr. Tung is a teacher and he doesn't _ _ _ _ classes in the afternoon.",
+      "correctAnswer": "have",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: have**\n\n**Lý do:**\n- Từ cần điền có 4 chữ cái: _ _ _ _\n- 'have classes' = có tiết học\n- 'doesn't have' = không có\n\n**Dịch nghĩa:** Thầy Tùng là giáo viên và ông ấy không có tiết dạy vào buổi chiều.\n\n**Ghi nhớ:** have classes = có tiết học"
+    },
+    {
+      "id": 49,
+      "type": "fill-blank",
+      "question": "Don't buy those shoes. They _ _ _ too expensive.",
+      "correctAnswer": "are",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: are**\n\n**Lý do:**\n- Từ cần điền có 3 chữ cái: _ _ _\n- Chủ ngữ 'They' (những đôi giày) là số nhiều\n- 'are too expensive' = quá đắt\n\n**Dịch nghĩa:** Đừng mua những đôi giày đó. Chúng quá đắt.\n\n**Ghi nhớ:** They + are, too + tính từ = quá ..."
+    },
+    {
+      "id": 50,
+      "type": "fill-blank",
+      "question": "_ _ _ do you feel today? - I feel much better.",
+      "correctAnswer": "How",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: How**\n\n**Lý do:**\n- Từ cần điền có 3 chữ cái: _ _ _\n- Câu trả lời 'I feel much better' (Tôi cảm thấy tốt hơn nhiều)\n- Hỏi cảm giác: How do you feel? (Bạn cảm thấy thế nào?)\n\n**Dịch nghĩa:** Hôm nay bạn cảm thấy thế nào? - Tôi cảm thấy tốt hơn nhiều.\n\n**Ghi nhớ:** How do you feel? = Bạn cảm thấy thế nào?"
+    },
+    {
+      "id": 51,
+      "type": "multiple-choice",
+      "question": "I'm going to draw my ....",
+      "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/21/635206392872387731_Audio.mp3",
+      "options": [
+        "mouse",
+        "house",
+        "horse",
+        "cow"
+      ],
+      "correctAnswer": "house",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: house**\n\n**Lý do:**\n- Nghe file âm thanh: 'I'm going to draw my ...'\n- Từ 'house' phát âm /haʊs/ (nghe như 'hao-s')\n- Câu nói về vẽ ngôi nhà của mình\n\n**Các đáp án khác:**\n- mouse: con chuột\n- horse: con ngựa\n- cow: con bò\n\n**Dịch nghĩa:** Tôi sẽ vẽ ngôi nhà của tôi.\n\n**Ghi nhớ:** house /haʊs/ = nhà"
+    },
+    {
+      "id": 52,
+      "type": "fill-blank",
+      "question": "Our sons are playing in the play_ _ _ _ _ _ .",
+      "correctAnswer": "ground",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: ground**\n\n**Lý do:**\n- Từ cần điền có 6 chữ cái: play_ _ _ _ _ _\n- Khi thêm 'ground' vào: playground (sân chơi)\n- Các con trai đang chơi ở sân chơi\n\n**Dịch nghĩa:** Các con trai của chúng tôi đang chơi ở sân chơi.\n\n**Ghi nhớ:** playground = sân chơi, play = chơi, ground = mặt đất"
+    },
+    {
+      "id": 53,
+      "type": "multiple-choice",
+      "question": "Tick the word that has the underlined part pronounced differently:",
+      "options": [
+        "engineer",
+        "greeting",
+        "teeth",
+        "street"
+      ],
+      "correctAnswer": "engineer",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: engineer**\n\n**Lý do:**\n- Các từ còn lại có 'ee' phát âm là /iː/ (âm i dài)\n- Từ 'engineer' có 'ee' phát âm là /ɪə/ (âm ia)\n\n**Phát âm:**\n- greeting /ˈɡriːtɪŋ/, teeth /tiːθ/, street /striːt/ - âm /iː/\n- engineer /ˌendʒɪˈnɪə/ - âm /ɪə/\n\n**Ghi nhớ:** engineer có trọng âm ở cuối nên phát âm khác\n\n**Dịch nghĩa:** (Đây là câu hỏi phát âm)",
+      "wordDetails": [
+        {
+          "word": "engineer",
+          "ipa": "/ˌendʒɪˈnɪə/",
+          "meaning": "kỹ sư",
+          "underlinedSound": "/-/",
+          "underlinedWord": "engin**ee**r"
+        },
+        {
+          "word": "greeting",
+          "ipa": "/ˈɡriːtɪŋ/",
+          "meaning": "lời chào",
+          "underlinedSound": "/-/",
+          "underlinedWord": "gr**ee**ting"
+        },
+        {
+          "word": "teeth",
+          "ipa": "/tiːθ/",
+          "meaning": "răng",
+          "underlinedSound": "/-/",
+          "underlinedWord": "t**ee**th"
+        },
+        {
+          "word": "street",
+          "ipa": "/striːt/",
+          "meaning": "đường phố",
+          "underlinedSound": "/-/",
+          "underlinedWord": "str**ee**t"
+        }
+      ],
+      "underlinedPart": "ee",
+      "correctIndex": 0
+    },
+    {
+      "id": 54,
+      "type": "fill-blank",
+      "question": "I can't wai_ to start our holiday.",
+      "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2020-2021/Lop5/Captruong/Audio/03-dt-61.mp3",
+      "correctAnswer": "t",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: t**\n\n**Lý do:**\n- Từ cần điền: wai_\n- Khi thêm 't' vào: wait (chờ đợi)\n- 'can't wait' = không thể chờ được (rất háo hức)\n\n**Dịch nghĩa:** Tôi không thể chờ được để bắt đầu kỳ nghỉ của chúng tôi.\n\n**Ghi nhớ:** can't wait = rất mong chờ, háo hức"
+    },
+    {
+      "id": 55,
+      "type": "word-arrangement",
+      "question": "does/ her homework/ in/ the evening./ She/",
+      "correctAnswer": "She does her homework in the evening.",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: She does her homework in the evening.**\n\n**Phân tích:**\n- Câu bắt đầu bằng 'She' (cô ấy)\n- 'does her homework' = làm bài tập\n- 'in the evening' = vào buổi tối\n\n**Dịch nghĩa:** Cô ấy làm bài tập vào buổi tối.\n\n**Ghi nhớ:** do homework = làm bài tập, in the evening = vào buổi tối"
+    },
+    {
+      "id": 56,
+      "type": "word-arrangement",
+      "question": "Thanks/ inviting/ for/ me./",
+      "correctAnswer": "Thanks for inviting me.",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: Thanks for inviting me.**\n\n**Phân tích:**\n- Câu bắt đầu bằng 'Thanks for' (cảm ơn vì)\n- 'inviting' = mời (dạng V-ing sau giới từ 'for')\n- 'me' = tôi\n\n**Dịch nghĩa:** Cảm ơn vì đã mời tôi.\n\n**Ghi nhớ:** Thanks for + V-ing = Cảm ơn vì đã..."
+    },
+    {
+      "id": 57,
+      "type": "fill-blank",
+      "question": "The food is gre_ _ .",
+      "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2020-2021/Lop5/Captruong/Audio/01-dt-33.mp3",
+      "correctAnswer": "at",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: at**\n\n**Lý do:**\n- Từ cần điền: gre_ _\n- Khi thêm 'at' vào: great (tuyệt vời)\n- Câu nói về đồ ăn tuyệt vời\n\n**Dịch nghĩa:** Đồ ăn rất ngon.\n\n**Ghi nhớ:** great = tuyệt vời, xuất sắc"
+    },
+    {
+      "id": 58,
+      "type": "word-arrangement",
+      "question": "there./ It/ two hours/ takes/ to get/",
+      "correctAnswer": "It takes two hours to get there.",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: It takes two hours to get there.**\n\n**Phân tích:**\n- Câu bắt đầu bằng 'It' (chủ ngữ giả)\n- 'takes two hours' = mất hai giờ\n- 'to get there' = để đến đó\n\n**Dịch nghĩa:** Mất hai giờ để đến đó.\n\n**Ghi nhớ:** It takes + thời gian + to V = Mất ... để làm gì"
+    },
+    {
+      "id": 59,
+      "type": "fill-blank",
+      "question": "Is your little son's birthday _ _ September 25th?",
+      "correctAnswer": "on",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: on**\n\n**Lý do:**\n- Từ cần điền có 2 chữ cái: _ _\n- Dùng 'on' trước ngày tháng cụ thể\n- 'on September 25th' = vào ngày 25 tháng 9\n\n**Dịch nghĩa:** Sinh nhật con trai nhỏ của bạn có phải vào ngày 25 tháng 9 không?\n\n**Ghi nhớ:** on + ngày tháng, in + tháng/năm, at + giờ"
+    },
+    {
+      "id": 60,
+      "type": "fill-blank",
+      "question": "I like Sc_ _ nce best.",
+      "correctAnswer": "ie",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: ie**\n\n**Lý do:**\n- Từ cần điền: Sc_ _nce\n- Khi thêm 'ie' vào: Science (Khoa học)\n- Câu nói về môn học yêu thích\n\n**Dịch nghĩa:** Tôi thích môn Khoa học nhất.\n\n**Ghi nhớ:** Science = Khoa học (viết hoa vì là tên môn học)"
+    },
+    {
+      "id": 61,
+      "type": "multiple-choice",
+      "question": "Please speak ... . We can't hear you.",
+      "options": [
+        "quickly",
+        "softly",
+        "loudly",
+        "quietly"
+      ],
+      "correctAnswer": "loudly",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: loudly**\n\n**Lý do:**\n- Câu nói 'We can't hear you' (Chúng tôi không nghe được bạn)\n- Cần nói to hơn: 'speak loudly' (nói to)\n\n**Các đáp án khác:**\n- quickly: nhanh\n- softly: nhẹ nhàng (sai vì cần to hơn)\n- quietly: yên lặng (sai vì cần to hơn)\n\n**Dịch nghĩa:** Làm ơn nói to lên. Chúng tôi không nghe được bạn.\n\n**Ghi nhớ:** loudly = to, quietly = nhỏ"
+    },
+    {
+      "id": 62,
+      "type": "fill-blank",
+      "question": "How _ _ _ _ is he? - He's 1.5 metres tall.",
+      "correctAnswer": "tall",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: tall**\n\n**Lý do:**\n- Từ cần điền có 4 chữ cái: _ _ _ _\n- Câu trả lời 'He's 1.5 metres tall' (Anh ấy cao 1,5 mét)\n- Hỏi chiều cao: How tall? (Cao bao nhiêu?)\n\n**Dịch nghĩa:** Anh ấy cao bao nhiêu? - Anh ấy cao 1,5 mét.\n\n**Ghi nhớ:** How tall? = Cao bao nhiêu?"
+    },
+    {
+      "id": 63,
+      "type": "fill-blank",
+      "question": "Tam likes fish _ _ _ _ _ _ _ it is good for health.",
+      "correctAnswer": "because",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: because**\n\n**Lý do:**\n- Từ cần điền có 7 chữ cái: _ _ _ _ _ _ _\n- Câu nói lý do thích cá: vì tốt cho sức khỏe\n- 'because' = bởi vì (chỉ lý do)\n\n**Dịch nghĩa:** Tâm thích cá vì nó tốt cho sức khỏe.\n\n**Ghi nhớ:** because = bởi vì (chỉ lý do)"
+    },
+    {
+      "id": 64,
+      "type": "multiple-choice",
+      "question": "Where ... live ? - In a big city.",
+      "options": [
+        "does they",
+        "does we",
+        "do she",
+        "does he"
+      ],
+      "correctAnswer": "does he",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: does he**\n\n**Lý do:**\n- Câu trả lời 'In a big city' (Trong thành phố lớn)\n- Câu hỏi về nơi ở: Where does he live?\n- 'he' là số ít nên dùng 'does'\n\n**Các đáp án khác:**\n- does they: sai (they dùng 'do')\n- does we: sai (we dùng 'do')\n- do she: sai (she dùng 'does')\n\n**Dịch nghĩa:** Anh ấy sống ở đâu? - Trong thành phố lớn.\n\n**Ghi nhớ:** he/she/it + does, I/you/we/they + do"
+    },
+    {
+      "id": 65,
+      "type": "fill-blank",
+      "question": "A_ _ _ _ these three houses, which one is yours?",
+      "correctAnswer": "mong",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: mong**\n\n**Lý do:**\n- Từ cần điền: A_ _ _ _\n- Khi thêm 'mong' vào: Among (ở giữa, trong số)\n- Câu hỏi về ngôi nhà nào trong số 3 ngôi\n\n**Dịch nghĩa:** Trong số ba ngôi nhà này, ngôi nào là của bạn?\n\n**Ghi nhớ:** among = trong số (nhiều hơn 2), between = giữa (2 cái)"
+    },
+    {
+      "id": 66,
+      "type": "multiple-choice",
+      "question": "... Mark and Thomas have on Friday?",
+      "options": [
+        "What do",
+        "What does",
+        "What are",
+        "Which / are"
+      ],
+      "correctAnswer": "What do",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: What do**\n\n**Lý do:**\n- Chủ ngữ 'Mark and Thomas' là số nhiều\n- Dùng 'do' với chủ ngữ số nhiều\n- 'What do' = có gì, làm gì\n\n**Các đáp án khác:**\n- What does: dùng với số ít\n- What are: thiếu động từ chính\n- Which / are: sai cấu trúc\n\n**Dịch nghĩa:** Mark và Thomas có gì vào thứ Sáu?\n\n**Ghi nhớ:** số nhiều + do, số ít + does"
+    },
+    {
+      "id": 67,
+      "type": "word-arrangement",
+      "question": "my son./ the ball/ is/ The boy/ running after/",
+      "correctAnswer": "The boy running after the ball is my son.",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: The boy running after the ball is my son.**\n\n**Phân tích:**\n- Câu bắt đầu bằng 'The boy' (cậu bé)\n- 'running after the ball' = đang chạy theo quả bóng (mệnh đề quan hệ rút gọn)\n- 'is my son' = là con trai tôi\n\n**Dịch nghĩa:** Cậu bé đang chạy theo quả bóng là con trai tôi.\n\n**Ghi nhớ:** run after = chạy theo"
+    },
+    {
+      "id": 68,
+      "type": "word-arrangement",
+      "question": "for his/ an engineer/ works as/ factory./ My father/",
+      "correctAnswer": "My father works as an engineer for his factory.",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: My father works as an engineer for his factory.**\n\n**Phân tích:**\n- Câu bắt đầu bằng 'My father' (bố tôi)\n- 'works as' = làm việc với vai trò là\n- 'an engineer' = một kỹ sư\n- 'for his factory' = cho nhà máy của ông ấy\n\n**Dịch nghĩa:** Bố tôi làm kỹ sư cho nhà máy của ông ấy.\n\n**Ghi nhớ:** work as = làm nghề, work for = làm việc cho"
+    },
+    {
+      "id": 69,
+      "type": "word-arrangement",
+      "question": "around this/ My family/ beautiful city./ are/ travelling/",
+      "correctAnswer": "My family are travelling around this beautiful city.",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: My family are travelling around this beautiful city.**\n\n**Phân tích:**\n- Câu bắt đầu bằng 'My family' (gia đình tôi)\n- 'are travelling' = đang du lịch\n- 'around this beautiful city' = quanh thành phố đẹp này\n\n**Dịch nghĩa:** Gia đình tôi đang du lịch quanh thành phố đẹp này.\n\n**Ghi nhớ:** travel around = du lịch quanh"
+    },
+    {
+      "id": 70,
+      "type": "fill-blank",
+      "question": "I would like to have some milk and pizzas _ _ _ dinner.",
+      "correctAnswer": "for",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: for**\n\n**Lý do:**\n- Từ cần điền có 3 chữ cái: _ _ _\n- Cấu trúc: for + bữa ăn\n- 'for dinner' = cho bữa tối\n\n**Dịch nghĩa:** Tôi muốn có một ít sữa và pizza cho bữa tối.\n\n**Ghi nhớ:** for breakfast/lunch/dinner = cho bữa sáng/trưa/tối"
+    },
+    {
+      "id": 71,
+      "type": "fill-blank",
+      "question": "He is traveling _ _ Hanoi by plane.",
+      "correctAnswer": "to",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: to**\n\n**Lý do:**\n- Từ cần điền có 2 chữ cái: _ _\n- Cấu trúc: travel to + địa điểm\n- 'travel to Hanoi' = đi đến Hà Nội\n\n**Dịch nghĩa:** Anh ấy đang đi đến Hà Nội bằng máy bay.\n\n**Ghi nhớ:** travel to = đi đến, by plane = bằng máy bay"
+    },
+    {
+      "id": 72,
+      "type": "multiple-choice",
+      "question": "Choose the odd one:",
+      "options": [
+        "write",
+        "sing",
+        "read",
+        "friend"
+      ],
+      "correctAnswer": "friend",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: friend**\n\n**Lý do:**\n- write, sing, read là động từ (hành động)\n- friend là danh từ (người)\n\n**Phân loại:**\n- write: viết (động từ)\n- sing: hát (động từ)\n- read: đọc (động từ)\n- friend: bạn (danh từ)\n\n**Dịch nghĩa:** Chọn từ khác loại: friend (bạn)\n\n**Ghi nhớ:** friend = bạn bè"
+    },
+    {
+      "id": 73,
+      "type": "word-arrangement",
+      "question": "too tired/ I'm/ to do/ work./ any/",
+      "correctAnswer": "I'm too tired to do any work.",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: I'm too tired to do any work.**\n\n**Phân tích:**\n- Câu bắt đầu bằng 'I'm' (I am - tôi)\n- 'too tired' = quá mệt\n- 'to do any work' = để làm bất kỳ công việc nào\n\n**Dịch nghĩa:** Tôi quá mệt để làm bất kỳ công việc nào.\n\n**Ghi nhớ:** too + tính từ + to V = quá ... để làm gì"
+    },
+    {
+      "id": 74,
+      "type": "fill-blank",
+      "question": "On Vietnamese Teachers' Day, we often give our teachers beautiful _ _ _ _ _ _ _ .",
+      "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/21/635206258881412388_566X320.jpg",
+      "correctAnswer": "flowers",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: flowers**\n\n**Lý do:**\n- Từ cần điền có 7 chữ cái: _ _ _ _ _ _ _\n- Ngày Nhà giáo Việt Nam tặng hoa cho thầy cô\n- Hình ảnh là những bông hoa\n\n**Dịch nghĩa:** Vào Ngày Nhà giáo Việt Nam, chúng tôi thường tặng thầy cô những bông hoa đẹp.\n\n**Ghi nhớ:** flower = hoa (số ít), flowers = hoa (số nhiều)"
+    },
+    {
+      "id": 75,
+      "type": "multiple-choice",
+      "question": "I ____ the elephants when I was at the zoo.",
+      "options": [
+        "see",
+        "is seeing",
+        "saw",
+        "have seen"
+      ],
+      "correctAnswer": "saw",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: saw**\n\n**Lý do:**\n- Câu có 'when I was at the zoo' (khi tôi ở vườn thú) - thì quá khứ\n- 'saw' là quá khứ của 'see' (nhìn thấy)\n\n**Các đáp án khác:**\n- see: hiện tại (sai)\n- is seeing: hiện tại tiếp diễn (sai)\n- have seen: hiện tại hoàn thành (sai)\n\n**Dịch nghĩa:** Tôi đã nhìn thấy những con voi khi tôi ở vườn thú.\n\n**Ghi nhớ:** see - saw - seen (nhìn thấy)"
+    },
+    {
+      "id": 76,
+      "type": "fill-blank",
+      "question": "I pl_ _ badminton every Monday.",
+      "correctAnswer": "ay",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: ay**\n\n**Lý do:**\n- Từ cần điền: pl_ _\n- Khi thêm 'ay' vào: play (chơi)\n- 'play badminton' = chơi cầu lông\n\n**Dịch nghĩa:** Tôi chơi cầu lông mỗi thứ Hai.\n\n**Ghi nhớ:** play + môn thể thao: play badminton, play football"
+    },
+    {
+      "id": 77,
+      "type": "fill-blank",
+      "question": "CH_ LK",
+      "correctAnswer": "A",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: A**\n\n**Lý do:**\n- Từ cần điền: CH_LK\n- Khi thêm A vào: CHALK (phấn viết bảng)\n- Chalk là dụng cụ học tập\n\n**Dịch nghĩa:** CHALK = phấn viết bảng\n\n**Ghi nhớ:** chalk = phấn, blackboard = bảng đen"
+    },
+    {
+      "id": 78,
+      "type": "word-arrangement",
+      "question": "good/ are very/ students./ us/ All of/",
+      "correctAnswer": "All of us are very good students.",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: All of us are very good students.**\n\n**Phân tích:**\n- Câu bắt đầu bằng 'All of us' (tất cả chúng tôi)\n- 'are' = là (vì 'us' là số nhiều)\n- 'very good students' = những học sinh rất giỏi\n\n**Dịch nghĩa:** Tất cả chúng tôi đều là những học sinh rất giỏi.\n\n**Ghi nhớ:** All of us = tất cả chúng tôi"
+    },
+    {
+      "id": 79,
+      "type": "multiple-choice",
+      "question": "My father is ____ my mother.",
+      "options": [
+        "taller",
+        "taller than",
+        "tall",
+        "tally"
+      ],
+      "correctAnswer": "taller than",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: taller than**\n\n**Lý do:**\n- Câu so sánh hai người: bố và mẹ\n- Dùng so sánh hơn: taller than (cao hơn)\n- 'than' = hơn (bắt buộc có trong câu so sánh)\n\n**Các đáp án khác:**\n- taller: thiếu 'than'\n- tall: không phải so sánh\n- tally: không phải từ đúng\n\n**Dịch nghĩa:** Bố tôi cao hơn mẹ tôi.\n\n**Ghi nhớ:** tính từ ngắn + er + than"
+    },
+    {
+      "id": 80,
+      "type": "multiple-choice",
+      "question": "To make it sweeter, you can put more ____.",
+      "options": [
+        "salt",
+        "lemon",
+        "sugar",
+        "ice"
+      ],
+      "correctAnswer": "sugar",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: sugar**\n\n**Lý do:**\n- Câu nói 'To make it sweeter' (Để làm nó ngọt hơn)\n- Đường (sugar) làm đồ ăn/uống ngọt hơn\n\n**Các đáp án khác:**\n- salt: muối (làm mặn)\n- lemon: chanh (làm chua)\n- ice: đá (làm lạnh)\n\n**Dịch nghĩa:** Để làm nó ngọt hơn, bạn có thể cho thêm đường.\n\n**Ghi nhớ:** sugar = đường, sweet = ngọt"
+    },
+    {
+      "id": 81,
+      "type": "fill-blank",
+      "question": "Thank you _ _ _ your dinner. It's delicious.",
+      "correctAnswer": "for",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: for**\n\n**Lý do:**\n- Từ cần điền có 3 chữ cái: _ _ _\n- Cấu trúc: Thank you for + something\n- 'thank you for your dinner' = cảm ơn vì bữa tối\n\n**Dịch nghĩa:** Cảm ơn vì bữa tối của bạn. Nó rất ngon.\n\n**Ghi nhớ:** Thank you for + danh từ/V-ing"
+    },
+    {
+      "id": 82,
+      "type": "word-arrangement",
+      "question": "They/ on Mondays./ wear/ have to/ uniform/",
+      "correctAnswer": "They have to wear uniform on Mondays.",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: They have to wear uniform on Mondays.**\n\n**Phân tích:**\n- Câu bắt đầu bằng 'They' (họ)\n- 'have to' = phải\n- 'wear uniform' = mặc đồng phục\n- 'on Mondays' = vào các ngày thứ Hai\n\n**Dịch nghĩa:** Họ phải mặc đồng phục vào các ngày thứ Hai.\n\n**Ghi nhớ:** have to = must = phải"
+    },
+    {
+      "id": 83,
+      "type": "multiple-choice",
+      "question": "... you still miss your parents?",
+      "options": [
+        "Are",
+        "Do",
+        "Does",
+        "Will"
+      ],
+      "correctAnswer": "Do",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: Do**\n\n**Lý do:**\n- Chủ ngữ 'you' dùng 'do'\n- 'miss' = nhớ, nhớ nhung\n- Câu hỏi yes/no bắt đầu bằng 'Do'\n\n**Các đáp án khác:**\n- Are: dùng với động từ 'be'\n- Does: dùng với he/she/it\n- Will: hỏi về tương lai\n\n**Dịch nghĩa:** Bạn vẫn còn nhớ bố mẹ không?\n\n**Ghi nhớ:** Do you + V? (câu hỏi yes/no)"
+    },
+    {
+      "id": 84,
+      "type": "word-arrangement",
+      "question": "in/ Please/ your teacher/ describe/ some sentences./",
+      "correctAnswer": "Please describe your teacher in some sentences.",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: Please describe your teacher in some sentences.**\n\n**Phân tích:**\n- Câu bắt đầu bằng 'Please' (làm ơn)\n- 'describe' = miêu tả\n- 'your teacher' = giáo viên của bạn\n- 'in some sentences' = trong vài câu\n\n**Dịch nghĩa:** Làm ơn miêu tả giáo viên của bạn trong vài câu.\n\n**Ghi nhớ:** describe = miêu tả"
+    },
+    {
+      "id": 85,
+      "type": "word-arrangement",
+      "question": "library?/ any students/ in the school's/ Are there/ biggest/",
+      "correctAnswer": "Are there any students in the school's biggest library?",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: Are there any students in the school's biggest library?**\n\n**Phân tích:**\n- Câu hỏi yes/no bắt đầu bằng 'Are there'\n- 'any students' = học sinh nào (dùng trong câu hỏi)\n- 'in the school's biggest library' = trong thư viện lớn nhất của trường\n\n**Dịch nghĩa:** Có học sinh nào trong thư viện lớn nhất của trường không?\n\n**Ghi nhớ:** Are there + any + danh từ số nhiều?"
+    },
+    {
+      "id": 86,
+      "type": "word-arrangement",
+      "question": "next week./ They would/ Ngoc Son Temple/ like to/ visit/",
+      "correctAnswer": "They would like to visit Ngoc Son Temple next week.",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: They would like to visit Ngoc Son Temple next week.**\n\n**Phân tích:**\n- Câu bắt đầu bằng 'They' (họ)\n- 'would like to' = muốn\n- 'visit Ngoc Son Temple' = thăm Đền Ngọc Sơn\n- 'next week' = tuần tới\n\n**Dịch nghĩa:** Họ muốn thăm Đền Ngọc Sơn vào tuần tới.\n\n**Ghi nhớ:** would like to = want to = muốn"
+    },
+    {
+      "id": 87,
+      "type": "fill-blank",
+      "question": "My house is on the ninth _ _ _ _ _ of that tall building.",
+      "correctAnswer": "floor",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: floor**\n\n**Lý do:**\n- Từ cần điền có 5 chữ cái: _ _ _ _ _\n- 'the ninth floor' = tầng chín\n- Nhà cao tầng có nhiều tầng\n\n**Dịch nghĩa:** Nhà tôi ở tầng chín của tòa nhà cao đó.\n\n**Ghi nhớ:** floor = tầng, on the ... floor = ở tầng ..."
+    },
+    {
+      "id": 88,
+      "type": "multiple-choice",
+      "question": "Choose the word that has the underlined part pronounced differently:",
+      "options": [
+        "bread",
+        "clean",
+        "meal",
+        "tea"
+      ],
+      "correctAnswer": "bread",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: bread**\n\n**Lý do:**\n- Các từ còn lại có 'ea' phát âm là /iː/ (âm i dài)\n- Từ 'bread' có 'ea' phát âm là /e/ (âm e ngắn)\n\n**Phát âm:**\n- clean /kliːn/, meal /miːl/, tea /tiː/ - âm /iː/\n- bread /bred/ - âm /e/\n\n**Ghi nhớ:** bread có phát âm đặc biệt /bred/ (giống 'red')\n\n**Dịch nghĩa:** (Đây là câu hỏi phát âm)",
+      "wordDetails": [
+        {
+          "word": "bread",
+          "ipa": "/bred/",
+          "meaning": "bánh mì",
+          "underlinedSound": "/e/",
+          "underlinedWord": "br**ea**d"
+        },
+        {
+          "word": "clean",
+          "ipa": "/kliːn/",
+          "meaning": "sạch",
+          "underlinedSound": "/-/",
+          "underlinedWord": "cl**ea**n"
+        },
+        {
+          "word": "meal",
+          "ipa": "/miːl/",
+          "meaning": "bữa ăn",
+          "underlinedSound": "/iː/",
+          "underlinedWord": "m**ea**l"
+        },
+        {
+          "word": "tea",
+          "ipa": "/tiː/",
+          "meaning": "trà",
+          "underlinedSound": "/-/",
+          "underlinedWord": "t**ea**"
+        }
+      ],
+      "underlinedPart": "ea",
+      "correctIndex": 0
+    },
+    {
+      "id": 89,
+      "type": "word-arrangement",
+      "question": "experiments/ moment./ doing some/ They are/ at the/",
+      "correctAnswer": "They are doing some experiments at the moment.",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: They are doing some experiments at the moment.**\n\n**Phân tích:**\n- Câu bắt đầu bằng 'They' (họ)\n- 'are doing' = đang làm (hiện tại tiếp diễn)\n- 'some experiments' = một số thí nghiệm\n- 'at the moment' = lúc này\n\n**Dịch nghĩa:** Họ đang làm một số thí nghiệm lúc này.\n\n**Ghi nhớ:** at the moment = now = bây giờ"
+    },
+    {
+      "id": 90,
+      "type": "multiple-choice",
+      "question": "I usually ... my friends after school.",
+      "options": [
+        "sees",
+        "watch",
+        "meet",
+        "meets"
+      ],
+      "correctAnswer": "meet",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: meet**\n\n**Lý do:**\n- 'usually' = thường xuyên (thì hiện tại đơn)\n- Chủ ngữ 'I' + động từ nguyên mẫu\n- 'meet friends' = gặp bạn bè\n\n**Các đáp án khác:**\n- sees: số ít (sai chủ ngữ)\n- watch: xem (không phù hợp)\n- meets: số ít (sai chủ ngữ)\n\n**Dịch nghĩa:** Tôi thường gặp bạn bè sau giờ học.\n\n**Ghi nhớ:** meet = gặp gỡ"
+    },
+    {
+      "id": 91,
+      "type": "fill-blank",
+      "question": "There is a _ _ _ _ _ around our garden.",
+      "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/22/635207294981995301_566X320.jpg",
+      "correctAnswer": "fence",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: fence**\n\n**Lý do:**\n- Từ cần điền có 5 chữ cái: _ _ _ _ _\n- Hình ảnh là hàng rào quanh vườn\n- 'fence' = hàng rào\n\n**Dịch nghĩa:** Có một hàng rào quanh vườn của chúng tôi.\n\n**Ghi nhớ:** fence = hàng rào, around = xung quanh"
+    },
+    {
+      "id": 92,
+      "type": "multiple-choice",
+      "question": "According to the recording, what CAN'T Molly do?",
+      "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2016/11/29/636160331494839628_Audio.mp3",
+      "options": [
+        "She can't sail.",
+        "She can't dance.",
+        "She can't sing.",
+        "She can't shout."
+      ],
+      "correctAnswer": "She can't sail.",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: She can't sail.**\n\n**Lý do:**\n- Câu hỏi yêu cầu chọn việc Molly KHÔNG THỂ làm\n- Nghe file âm thanh để xác định\n- Molly không thể chèo thuyền (sail)\n\n**Các đáp án khác:**\n- can dance: có thể nhảy (Molly làm được)\n- can sing: có thể hát (Molly làm được)\n- can shout: có thể hét (Molly làm được)\n\n**Dịch nghĩa:** Theo bản ghi âm, Molly không thể làm gì? - Cô ấy không thể chèo thuyền.\n\n**Ghi nhớ:** sail = chèo thuyền, đi thuyền"
+    },
+    {
+      "id": 93,
+      "type": "multiple-choice",
+      "question": "I'm sorry. I'm not ... to help you lift the table.",
+      "options": [
+        "enough strong",
+        "too strong",
+        "strong enough",
+        "enough strength"
+      ],
+      "correctAnswer": "strong enough",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: strong enough**\n\n**Lý do:**\n- Cấu trúc: tính từ + enough (đủ ...)\n- 'strong enough' = đủ khỏe\n- 'enough' đứng sau tính từ\n\n**Các đáp án khác:**\n- enough strong: sai vị trí (enough sau tính từ)\n- too strong: quá khỏe (không phù hợp)\n- enough strength: sai (strength là danh từ)\n\n**Dịch nghĩa:** Tôi xin lỗi. Tôi không đủ khỏe để giúp bạn nâng cái bàn.\n\n**Ghi nhớ:** tính từ + enough, enough + danh từ"
+    },
+    {
+      "id": 94,
+      "type": "fill-blank",
+      "question": "My school year lasts for ni_ _ months, from September to May.",
+      "correctAnswer": "ne",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: ne**\n\n**Lý do:**\n- Từ cần điền: ni_ _\n- Khi thêm 'ne' vào: nine (chín)\n- Năm học kéo dài 9 tháng từ tháng 9 đến tháng 5\n\n**Dịch nghĩa:** Năm học của tôi kéo dài chín tháng, từ tháng 9 đến tháng 5.\n\n**Ghi nhớ:** nine = 9, nine months = 9 tháng"
+    },
+    {
+      "id": 95,
+      "type": "multiple-choice",
+      "question": "The boys don't enjoy ... lessons. They'd like ... games.",
+      "options": [
+        "do / play",
+        "doing / playing",
+        "to do / to play",
+        "doing / to play"
+      ],
+      "correctAnswer": "doing / to play",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: doing / to play**\n\n**Lý do:**\n- Cấu trúc: enjoy + V-ing (thích làm gì)\n- Cấu trúc: would like + to V (muốn làm gì)\n- 'enjoy doing' và 'would like to play'\n\n**Dịch nghĩa:** Các cậu bé không thích làm bài tập. Họ muốn chơi trò chơi.\n\n**Ghi nhớ:** enjoy + V-ing, would like + to V"
+    },
+    {
+      "id": 96,
+      "type": "multiple-choice",
+      "question": "... do you do? - I'm a doctor.",
+      "options": [
+        "What",
+        "What's",
+        "How",
+        "Who"
+      ],
+      "correctAnswer": "What",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: What**\n\n**Lý do:**\n- Câu trả lời 'I'm a doctor' (Tôi là bác sĩ)\n- Hỏi về nghề nghiệp: What do you do?\n\n**Các đáp án khác:**\n- What's: viết tắt của What is\n- How: như thế nào\n- Who: ai\n\n**Dịch nghĩa:** Bạn làm nghề gì? - Tôi là bác sĩ.\n\n**Ghi nhớ:** What do you do? = Bạn làm nghề gì?"
+    },
+    {
+      "id": 97,
+      "type": "multiple-choice",
+      "question": "Vietnam is doing _____ to prevent COVID-19.",
+      "options": [
+        "good",
+        "most",
+        "well",
+        "best"
+      ],
+      "correctAnswer": "well",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: well**\n\n**Lý do:**\n- 'doing well' = làm tốt\n- 'well' là trạng từ bổ nghĩa cho động từ 'doing'\n\n**Các đáp án khác:**\n- good: tính từ (không bổ nghĩa cho động từ)\n- most: nhất (không phù hợp)\n- best: tốt nhất (không có so sánh)\n\n**Dịch nghĩa:** Việt Nam đang làm tốt để ngăn chặn COVID-19.\n\n**Ghi nhớ:** do well = làm tốt"
+    },
+    {
+      "id": 98,
+      "type": "fill-blank",
+      "question": "Which is the third month of the year? - _ _ _ _ _ .",
+      "correctAnswer": "march",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: march**\n\n**Lý do:**\n- Từ cần điền có 5 chữ cái: _ _ _ _ _\n- Tháng thứ ba của năm là tháng 3\n- 'March' = tháng 3\n\n**Dịch nghĩa:** Tháng thứ ba của năm là tháng nào? - Tháng 3.\n\n**Ghi nhớ:** March = tháng 3 (viết hoa khi là tên tháng)"
+    },
+    {
+      "id": 99,
+      "type": "fill-blank",
+      "question": "I like _ _ _ _ _ _ _ .",
+      "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2016/11/30/636161154909987702_Audio.mp3",
+      "correctAnswer": "animals",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: animals**\n\n**Lý do:**\n- Từ cần điền có 7 chữ cái: _ _ _ _ _ _ _\n- Nghe file âm thanh: 'I like ...'\n- 'animals' = động vật\n\n**Dịch nghĩa:** Tôi thích động vật.\n\n**Ghi nhớ:** animal = động vật, animals = những con vật"
+    },
+    {
+      "id": 100,
+      "type": "fill-blank",
+      "question": "How many floors does your school _ _ _ _ ?",
+      "correctAnswer": "have",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: have**\n\n**Lý do:**\n- Từ cần điền có 4 chữ cái: _ _ _ _\n- Câu hỏi về số tầng: 'How many floors does your school have?'\n- 'have' = có\n\n**Dịch nghĩa:** Trường của bạn có bao nhiêu tầng?\n\n**Ghi nhớ:** How many + danh từ số nhiều + does + S + have?"
+    },
+    {
+      "id": 101,
+      "type": "fill-blank",
+      "question": "French is a difficult language _ _ learn.",
+      "correctAnswer": "to",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: to**\n\n**Lý do:**\n- Từ cần điền có 2 chữ cái: _ _\n- Cấu trúc: tính từ/danh từ + to + động từ nguyên mẫu\n- 'difficult to learn' = khó để học\n\n**Dịch nghĩa:** Tiếng Pháp là một ngôn ngữ khó học.\n\n**Ghi nhớ:** difficult to + V = khó để làm gì"
+    },
+    {
+      "id": 102,
+      "type": "fill-blank",
+      "question": "Give me a cup _ _ tea, Giang!",
+      "correctAnswer": "of",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: of**\n\n**Lý do:**\n- Từ cần điền có 2 chữ cái: _ _\n- Cấu trúc: a cup of + đồ uống\n- 'a cup of tea' = một tách trà\n\n**Dịch nghĩa:** Cho tôi một tách trà, Giang!\n\n**Ghi nhớ:** a cup of tea/coffee = một tách trà/cà phê"
+    },
+    {
+      "id": 103,
+      "type": "fill-blank",
+      "question": "What school do you go _ _ ?",
+      "correctAnswer": "to",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: to**\n\n**Lý do:**\n- Từ cần điền có 2 chữ cái: _ _\n- Cấu trúc: go to + địa điểm\n- 'go to school' = đi học (ở trường nào)\n\n**Dịch nghĩa:** Bạn học ở trường nào?\n\n**Ghi nhớ:** go to school = đi học"
+    },
+    {
+      "id": 104,
+      "type": "multiple-choice",
+      "question": "I met some street ... yesterday. They were very talented and friendly.",
+      "options": [
+        "workers",
+        "entertainers",
+        "businessmen",
+        "speakers"
+      ],
+      "correctAnswer": "entertainers",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: entertainers**\n\n**Lý do:**\n- 'street entertainers' = nghệ sĩ đường phố\n- Câu nói họ rất tài năng và thân thiện\n\n**Các đáp án khác:**\n- workers: công nhân\n- businessmen: doanh nhân\n- speakers: người nói\n\n**Dịch nghĩa:** Tôi gặp một số nghệ sĩ đường phố hôm qua. Họ rất tài năng và thân thiện.\n\n**Ghi nhớ:** entertainer = nghệ sĩ biểu diễn"
+    },
+    {
+      "id": 105,
+      "type": "multiple-choice",
+      "question": "What time is it?",
+      "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2020-2021/Lop5/Captruong/Images/04-tn-10.jpg",
+      "options": [
+        "half past six",
+        "six fifteen",
+        "six thirty",
+        "six thirteen"
+      ],
+      "correctAnswer": "six fifteen",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: six fifteen**\n\n**Lý do:**\n- Nhìn vào hình ảnh đồng hồ\n- Đồng hồ chỉ 6 giờ 15 phút\n- 6:15 = six fifteen hoặc a quarter past six\n\n**Các đáp án khác:**\n- half past six: 6:30 (sai)\n- six thirty: 6:30 (sai)\n- six thirteen: 6:13 (sai)\n\n**Dịch nghĩa:** Mấy giờ rồi? - 6 giờ 15 phút.\n\n**Ghi nhớ:** 6:15 = six fifteen = a quarter past six"
+    },
+    {
+      "id": 106,
+      "type": "multiple-choice",
+      "question": "There are _____ things in the cupboard.",
+      "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2020-2021/Lop5/Captruong/Audio/04-tn-59.mp3",
+      "options": [
+        "a lot of",
+        "a few",
+        "few",
+        "a lot"
+      ],
+      "correctAnswer": "a lot of",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: a lot of**\n\n**Lý do:**\n- Nghe file âm thanh để xác định\n- 'a lot of things' = rất nhiều thứ\n- Dùng với danh từ đếm được và không đếm được\n\n**Các đáp án khác:**\n- a few: một ít (ít hơn a lot of)\n- few: rất ít\n- a lot: thiếu 'of'\n\n**Dịch nghĩa:** Có rất nhiều thứ trong tủ.\n\n**Ghi nhớ:** a lot of = lots of = many/much"
+    },
+    {
+      "id": 107,
+      "type": "fill-blank",
+      "question": "My family will take a boat trip aro_ _ _ the islands.",
+      "correctAnswer": "und",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: und**\n\n**Lý do:**\n- Từ cần điền: aro_ _ _\n- Khi thêm 'und' vào: around (xung quanh)\n- 'around the islands' = quanh các hòn đảo\n\n**Dịch nghĩa:** Gia đình tôi sẽ đi du thuyền quanh các hòn đảo.\n\n**Ghi nhớ:** around = xung quanh, quanh"
+    },
+    {
+      "id": 108,
+      "type": "multiple-choice",
+      "question": "... don't like Arts.",
+      "options": [
+        "Some student",
+        "Some of students",
+        "Some of the students",
+        "Some of the student"
+      ],
+      "correctAnswer": "Some of the students",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: Some of the students**\n\n**Lý do:**\n- Cấu trúc: Some of the + danh từ số nhiều\n- 'the students' = những học sinh (xác định)\n- 'Some of the students' = một số học sinh\n\n**Các đáp án khác:**\n- Some student: thiếu 'of the' và 's'\n- Some of students: thiếu 'the'\n- Some of the student: thiếu 's'\n\n**Dịch nghĩa:** Một số học sinh không thích môn Mỹ thuật.\n\n**Ghi nhớ:** Some of the + danh từ số nhiều"
+    },
+    {
+      "id": 109,
+      "type": "fill-blank",
+      "question": "_ NGLAND",
+      "correctAnswer": "E",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: E**\n\n**Lý do:**\n- Từ cần điền: _NGLAND\n- Khi thêm E vào: ENGLAND (nước Anh)\n- England là một quốc gia\n\n**Dịch nghĩa:** ENGLAND = nước Anh\n\n**Ghi nhớ:** England = nước Anh, English = tiếng Anh"
+    },
+    {
+      "id": 110,
+      "type": "multiple-choice",
+      "question": "A ... tells you the time.",
+      "options": [
+        "clock",
+        "calendar",
+        "book",
+        "fan"
+      ],
+      "correctAnswer": "clock",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: clock**\n\n**Lý do:**\n- Câu nói về vật cho biết thời gian\n- 'clock' = đồng hồ (cho biết giờ)\n\n**Các đáp án khác:**\n- calendar: lịch (cho biết ngày tháng)\n- book: sách\n- fan: quạt\n\n**Dịch nghĩa:** Đồng hồ cho bạn biết giờ.\n\n**Ghi nhớ:** clock = đồng hồ, tell the time = cho biết giờ"
+    },
+    {
+      "id": 111,
+      "type": "multiple-choice",
+      "question": "HCM City is one of ... cities in Vietnam.",
+      "options": [
+        "the most beautiful",
+        "the beautifulest",
+        "beautiful",
+        "most beautiful"
+      ],
+      "correctAnswer": "the most beautiful",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: the most beautiful**\n\n**Lý do:**\n- 'one of the + so sánh nhất + danh từ số nhiều'\n- 'most beautiful' = đẹp nhất (tính từ dài)\n- Phải có 'the' trước so sánh nhất\n\n**Các đáp án khác:**\n- the beautifulest: sai (beautiful dùng most)\n- beautiful: không phải so sánh\n- most beautiful: thiếu 'the'\n\n**Dịch nghĩa:** TP. HCM là một trong những thành phố đẹp nhất ở Việt Nam.\n\n**Ghi nhớ:** one of the + tính từ so sánh nhất + danh từ số nhiều"
+    },
+    {
+      "id": 112,
+      "type": "word-arrangement",
+      "question": "Huong often/ practising listening/ spends/ everyday./30 minutes/",
+      "correctAnswer": "Huong often spends 30 minutes practising listening everyday.",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: Huong often spends 30 minutes practising listening everyday.**\n\n**Phân tích:**\n- Câu bắt đầu bằng 'Huong' (Hương)\n- 'often spends' = thường dành\n- '30 minutes' = 30 phút\n- 'practising listening' = luyện tập nghe\n- 'everyday' = mỗi ngày\n\n**Dịch nghĩa:** Hương thường dành 30 phút luyện tập nghe mỗi ngày.\n\n**Ghi nhớ:** spend + thời gian + V-ing = dành thời gian làm gì"
+    },
+    {
+      "id": 113,
+      "type": "multiple-choice",
+      "question": "Listen and tick:",
+      "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/20/635205575231739621_Audio.mp3",
+      "options": [
+        "My grandmother will prepare some food for the picnic.",
+        "My grandmother will prepare some fruits for the picnic.",
+        "My mother will prepare some food for the picnic.",
+        "My mother will prepare some foot for the picnic."
+      ],
+      "correctAnswer": "My mother will prepare some food for the picnic.",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: My mother will prepare some food for the picnic.**\n\n**Lý do:**\n- Nghe file âm thanh để chọn câu đúng\n- Câu nói về mẹ chuẩn bị đồ ăn cho dã ngoại\n- 'prepare food' = chuẩn bị đồ ăn\n\n**Các đáp án khác:**\n- My grandmother: bà (sai chủ ngữ)\n- some fruits: trái cây (sai)\n- some foot: sai chính tả\n\n**Dịch nghĩa:** Mẹ tôi sẽ chuẩn bị một số đồ ăn cho buổi dã ngoại.\n\n**Ghi nhớ:** prepare = chuẩn bị"
+    },
+    {
+      "id": 114,
+      "type": "fill-blank",
+      "question": "The horses run quick_ _ in the field.",
+      "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2020-2021/Lop5/Captruong/Images/2-dt-56.jpg",
+      "correctAnswer": "ly",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: ly**\n\n**Lý do:**\n- Từ cần điền: quick_ _\n- Khi thêm 'ly' vào: quickly (nhanh chóng)\n- Trạng từ bổ nghĩa cho động từ 'run'\n- Hình ảnh là những con ngựa chạy\n\n**Dịch nghĩa:** Những con ngựa chạy nhanh trên cánh đồng.\n\n**Ghi nhớ:** quick (tính từ) -> quickly (trạng từ)"
+    },
+    {
+      "id": 115,
+      "type": "multiple-choice",
+      "question": "... collecting the empty bottles ? -Yes, that is a good idea.",
+      "options": [
+        "Let's",
+        "What",
+        "What about",
+        "Why don't we"
+      ],
+      "correctAnswer": "What about",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: What about**\n\n**Lý do:**\n- Câu trả lời 'Yes, that is a good idea' (Vâng, đó là ý kiến hay)\n- 'What about + V-ing?' = ... thì sao? (đề nghị)\n- 'What about collecting...?' = Thu thập ... thì sao?\n\n**Các đáp án khác:**\n- Let's: Let's + V nguyên mẫu\n- What: thiếu 'about'\n- Why don't we: Why don't we + V nguyên mẫu\n\n**Dịch nghĩa:** Thu thập những chai rỗng thì sao? - Vâng, đó là ý kiến hay.\n\n**Ghi nhớ:** What about + V-ing? = đề nghị"
+    },
+    {
+      "id": 116,
+      "type": "word-arrangement",
+      "question": "school/ forty classrooms?/ Does/ Phong's/ have/",
+      "correctAnswer": "Does Phong's school have forty classrooms?",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: Does Phong's school have forty classrooms?**\n\n**Phân tích:**\n- Câu hỏi yes/no bắt đầu bằng 'Does' (vì 'school' là số ít)\n- 'Phong's school' = trường của Phong\n- 'have forty classrooms' = có 40 phòng học\n\n**Dịch nghĩa:** Trường của Phong có 40 phòng học không?\n\n**Ghi nhớ:** Does + S (số ít) + have + ...?"
+    },
+    {
+      "id": 117,
+      "type": "fill-blank",
+      "question": "I love tak_ _ _ photos.",
+      "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2020-2021/Lop5/Captruong/Audio/02-dt-59.mp3",
+      "correctAnswer": "ing",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: ing**\n\n**Lý do:**\n- Từ cần điền: tak_ _ _\n- Khi thêm 'ing' vào: taking (chụp)\n- 'love taking photos' = yêu thích chụp ảnh\n\n**Dịch nghĩa:** Tôi yêu thích chụp ảnh.\n\n**Ghi nhớ:** love + V-ing, take photos = chụp ảnh"
+    },
+    {
+      "id": 118,
+      "type": "multiple-choice",
+      "question": "Every morning she gets up ....",
+      "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/20/635205571004288196_Audio.mp3",
+      "options": [
+        "quickly",
+        "rarely",
+        "early",
+        "slowly"
+      ],
+      "correctAnswer": "early",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: early**\n\n**Lý do:**\n- Nghe file âm thanh: 'Every morning she gets up ...'\n- Câu nói về thói quen dậy sớm mỗi sáng\n- 'get up early' = dậy sớm\n\n**Các đáp án khác:**\n- quickly: nhanh chóng\n- rarely: hiếm khi\n- slowly: chậm chạp\n\n**Dịch nghĩa:** Mỗi sáng cô ấy dậy sớm.\n\n**Ghi nhớ:** get up early = dậy sớm"
+    },
+    {
+      "id": 119,
+      "type": "fill-blank",
+      "question": "How _ _ _ _ homework does she have everyday?",
+      "correctAnswer": "much",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: much**\n\n**Lý do:**\n- Từ cần điền có 4 chữ cái: _ _ _ _\n- 'homework' là danh từ không đếm được\n- Dùng 'How much' với danh từ không đếm được\n\n**Dịch nghĩa:** Cô ấy có bao nhiêu bài tập về nhà mỗi ngày?\n\n**Ghi nhớ:** How much + danh từ không đếm được, How many + danh từ đếm được"
+    },
+    {
+      "id": 120,
+      "type": "odd-one-out",
+      "question": "Choose the odd one out",
+      "options": [
+        "teaching",
+        "learning",
+        "studying",
+        "morning"
+      ],
+      "correctAnswer": "morning",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: morning**\n\n**Lý do:**\n- teaching, learning, studying là động từ có '-ing' (hoạt động học tập)\n- morning là danh từ chỉ thời gian, không phải động từ V-ing\n\n**Phân loại:**\n- teaching: dạy học (động từ -ing)\n- learning: học tập (động từ -ing)\n- studying: học (động từ -ing)\n- morning: buổi sáng (danh từ)\n\n**Dịch nghĩa:** Chọn từ khác loại: morning (buổi sáng)\n\n**Ghi nhớ:** morning = buổi sáng"
+    },
+    {
+      "id": 121,
+      "type": "fill-blank",
+      "question": "_ _ _ _ _ you very much for helping me with my housework.",
+      "correctAnswer": "Thank",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: Thank**\n\n**Lý do:**\n- Từ cần điền có 5 chữ cái: _ _ _ _ _\n- 'Thank you very much for ...' = Cảm ơn rất nhiều vì ...\n- Cảm ơn vì giúp làm việc nhà\n\n**Dịch nghĩa:** Cảm ơn bạn rất nhiều vì đã giúp tôi làm việc nhà.\n\n**Ghi nhớ:** Thank you for + V-ing/danh từ"
+    },
+    {
+      "id": 122,
+      "type": "fill-blank",
+      "question": "_ _ _ _ your hands before meals, please!",
+      "correctAnswer": "Wash",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: Wash**\n\n**Lý do:**\n- Từ cần điền có 4 chữ cái: _ _ _ _\n- Câu mệnh lệnh: Wash your hands (Rửa tay)\n- 'before meals' = trước bữa ăn\n\n**Dịch nghĩa:** Rửa tay trước bữa ăn, làm ơn!\n\n**Ghi nhớ:** wash hands = rửa tay"
+    },
+    {
+      "id": 123,
+      "type": "fill-blank",
+      "question": "She was born _ _ France.",
+      "correctAnswer": "in",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: in**\n\n**Lý do:**\n- Từ cần điền có 2 chữ cái: _ _\n- Dùng 'in' trước tên quốc gia\n- 'born in France' = sinh ra ở Pháp\n\n**Dịch nghĩa:** Cô ấy sinh ra ở Pháp.\n\n**Ghi nhớ:** be born in + quốc gia/thành phố"
+    },
+    {
+      "id": 124,
+      "type": "fill-blank",
+      "question": "There are _ _ _ _ _ days in a week.",
+      "correctAnswer": "seven",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: seven**\n\n**Lý do:**\n- Từ cần điền có 5 chữ cái: _ _ _ _ _\n- Một tuần có 7 ngày\n- 'seven days' = bảy ngày\n\n**Dịch nghĩa:** Có bảy ngày trong một tuần.\n\n**Ghi nhớ:** seven = 7, a week has seven days"
+    },
+    {
+      "id": 125,
+      "type": "multiple-choice",
+      "question": "Who's that?",
+      "options": [
+        "That's my school library.",
+        "There're six chairs.",
+        "That's my brother.",
+        "That's a desk."
+      ],
+      "correctAnswer": "That's my brother.",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: That's my brother.**\n\n**Lý do:**\n- Câu hỏi 'Who's that?' (Đó là ai?)\n- Hỏi về người nên trả lời về người\n- 'That's my brother' = Đó là anh trai tôi\n\n**Các đáp án khác:**\n- That's my school library: đó là vật (sai)\n- There're six chairs: có 6 cái ghế (sai)\n- That's a desk: đó là vật (sai)\n\n**Dịch nghĩa:** Đó là ai? - Đó là anh trai tôi.\n\n**Ghi nhớ:** Who = ai (hỏi về người)"
+    },
+    {
+      "id": 126,
+      "type": "fill-blank",
+      "question": "What meat would you like _ _ _ dinner, Jame?",
+      "correctAnswer": "for",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: for**\n\n**Lý do:**\n- Từ cần điền có 3 chữ cái: _ _ _\n- Cấu trúc: for + bữa ăn\n- 'for dinner' = cho bữa tối\n\n**Dịch nghĩa:** Bạn muốn thịt gì cho bữa tối, Jame?\n\n**Ghi nhớ:** for breakfast/lunch/dinner"
+    },
+    {
+      "id": 127,
+      "type": "fill-blank",
+      "question": "I get up at ha_ _ past six in the morning.",
+      "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2020-2021/Lop5/Captruong/Images/3-dt-11.jpg",
+      "correctAnswer": "lf",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: lf**\n\n**Lý do:**\n- Từ cần điền: ha_ _\n- Khi thêm 'lf' vào: half (một nửa)\n- 'half past six' = 6 giờ rưỡi\n- Hình ảnh đồng hồ chỉ 6:30\n\n**Dịch nghĩa:** Tôi dậy lúc 6 giờ rưỡi sáng.\n\n**Ghi nhớ:** half past six = 6:30"
+    },
+    {
+      "id": 128,
+      "type": "fill-blank",
+      "question": "DRE_ M",
+      "correctAnswer": "A",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: A**\n\n**Lý do:**\n- Từ cần điền: DRE_M\n- Khi thêm A vào: DREAM (giấc mơ, mơ ước)\n- Dream là từ vựng cơ bản\n\n**Dịch nghĩa:** DREAM = giấc mơ, mơ ước\n\n**Ghi nhớ:** dream = giấc mơ (danh từ), mơ (động từ)"
+    },
+    {
+      "id": 129,
+      "type": "multiple-choice",
+      "question": "Does she often ... TV after dinner? - Yes, she does.",
+      "options": [
+        "see",
+        "watch",
+        "look",
+        "listen"
+      ],
+      "correctAnswer": "watch",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: watch**\n\n**Lý do:**\n- 'watch TV' = xem TV (cụm cố định)\n- 'often' = thường xuyên (thì hiện tại đơn)\n- Chủ ngữ 'she' + động từ 'watch' (không thêm 'es' vì có 'does')\n\n**Các đáp án khác:**\n- see: nhìn thấy (không dùng với TV)\n- look: nhìn (không dùng với TV)\n- listen: nghe (không dùng với TV)\n\n**Dịch nghĩa:** Cô ấy có thường xem TV sau bữa tối không? - Có.\n\n**Ghi nhớ:** watch TV = xem TV"
+    },
+    {
+      "id": 130,
+      "type": "multiple-choice",
+      "question": "Choose the word that has the underlined part pronounced differently:",
+      "options": [
+        "floor",
+        "school",
+        "afteroon",
+        "room"
+      ],
+      "correctAnswer": "floor",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: floor**\n\n**Lý do:**\n- Các từ còn lại có 'oo' phát âm là /uː/ (âm u dài)\n- Từ 'floor' có 'oo' phát âm là /ɔː/ (âm ô dài)\n\n**Phát âm:**\n- school /skuːl/, afternoon /ˌɑːftəˈnuːn/, room /ruːm/ - âm /uː/\n- floor /flɔː/ - âm /ɔː/\n\n**Ghi nhớ:** floor có phát âm đặc biệt /flɔː/\n\n**Dịch nghĩa:** (Đây là câu hỏi phát âm)",
+      "wordDetails": [
+        {
+          "word": "floor",
+          "ipa": "/flɔː/",
+          "meaning": "sàn nhà",
+          "underlinedSound": "/-/",
+          "underlinedWord": "fl**oo**r"
+        },
+        {
+          "word": "school",
+          "ipa": "/skuːl/",
+          "meaning": "trường học",
+          "underlinedSound": "/uː/",
+          "underlinedWord": "sch**oo**l"
+        },
+        {
+          "word": "afteroon",
+          "ipa": "/ˌɑːftəˈnuːn/",
+          "meaning": "buổi chiều",
+          "underlinedSound": "/-/",
+          "underlinedWord": "after**oo**n"
+        },
+        {
+          "word": "room",
+          "ipa": "/ruːm/",
+          "meaning": "phòng",
+          "underlinedSound": "/uː/",
+          "underlinedWord": "r**oo**m"
+        }
+      ],
+      "underlinedPart": "oo",
+      "correctIndex": 0
+    },
+    {
+      "id": 131,
+      "type": "word-arrangement",
+      "question": "a week./ my parents/ phone/ once/ I/",
+      "correctAnswer": "I phone my parents once a week.",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: I phone my parents once a week.**\n\n**Phân tích:**\n- Câu bắt đầu bằng 'I' (tôi)\n- 'phone my parents' = gọi điện cho bố mẹ\n- 'once a week' = một lần một tuần\n\n**Dịch nghĩa:** Tôi gọi điện cho bố mẹ một lần một tuần.\n\n**Ghi nhớ:** once a week = một lần một tuần"
+    },
+    {
+      "id": 132,
+      "type": "word-arrangement",
+      "question": "Let/ you/ my living room./ me/ show/",
+      "correctAnswer": "Let me show you my living room.",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: Let me show you my living room.**\n\n**Phân tích:**\n- Câu bắt đầu bằng 'Let me' (để tôi)\n- 'show you' = chỉ cho bạn\n- 'my living room' = phòng khách của tôi\n\n**Dịch nghĩa:** Để tôi chỉ cho bạn phòng khách của tôi.\n\n**Ghi nhớ:** Let me + V = Để tôi làm gì"
+    },
+    {
+      "id": 133,
+      "type": "word-arrangement",
+      "question": "looking/ Minh?/ for/ Are/ you/",
+      "correctAnswer": "Are you looking for Minh?",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: Are you looking for Minh?**\n\n**Phân tích:**\n- Câu hỏi yes/no bắt đầu bằng 'Are you'\n- 'looking for' = tìm kiếm\n- 'Minh' = tên người\n\n**Dịch nghĩa:** Bạn đang tìm Minh phải không?\n\n**Ghi nhớ:** look for = tìm kiếm"
+    },
+    {
+      "id": 134,
+      "type": "fill-blank",
+      "question": "FI_ D",
+      "correctAnswer": "N",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: N**\n\n**Lý do:**\n- Từ cần điền: FI_D\n- Khi thêm N vào: FIND (tìm thấy)\n- Find là động từ cơ bản\n\n**Dịch nghĩa:** FIND = tìm thấy\n\n**Ghi nhớ:** find - found - found (tìm thấy)"
+    },
+    {
+      "id": 135,
+      "type": "multiple-choice",
+      "question": "We took a boat trip to the sea. We saw a lot of ______.",
+      "options": [
+        "chickens",
+        "dogs",
+        "cats",
+        "fish"
+      ],
+      "correctAnswer": "fish",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: fish**\n\n**Lý do:**\n- Câu nói về đi thuyền ra biển\n- Ở biển có nhiều cá (fish)\n- 'saw a lot of fish' = nhìn thấy nhiều cá\n\n**Các đáp án khác:**\n- chickens: gà (không ở biển)\n- dogs: chó (không ở biển)\n- cats: mèo (không ở biển)\n\n**Dịch nghĩa:** Chúng tôi đi thuyền ra biển. Chúng tôi thấy rất nhiều cá.\n\n**Ghi nhớ:** fish = cá (số ít và số nhiều đều là fish)"
+    },
+    {
+      "id": 136,
+      "type": "multiple-choice",
+      "question": "In the story \"The Tortoise and the Hare\", the Tortoise ... the race.",
+      "options": [
+        "got",
+        "won",
+        "took",
+        "did"
+      ],
+      "correctAnswer": "won",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: won**\n\n**Lý do:**\n- Câu nói về truyện 'Rùa và Thỏ'\n- 'won the race' = thắng cuộc đua\n- Trong truyện, Rùa thắng Thỏ\n\n**Các đáp án khác:**\n- got: nhận được\n- took: lấy\n- did: làm\n\n**Dịch nghĩa:** Trong truyện 'Rùa và Thỏ', Rùa thắng cuộc đua.\n\n**Ghi nhớ:** win - won - won (thắng)"
+    },
+    {
+      "id": 137,
+      "type": "fill-blank",
+      "question": "I don't have enough _ _ _ _ _ to buy such a thing.",
+      "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2019/11/29/637106366861980601_Audio.mp3",
+      "correctAnswer": "money",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: money**\n\n**Lý do:**\n- Từ cần điền có 5 chữ cái: _ _ _ _ _\n- Nghe file âm thanh\n- 'enough money' = đủ tiền\n- Câu nói về không đủ tiền để mua\n\n**Dịch nghĩa:** Tôi không có đủ tiền để mua một thứ như thế.\n\n**Ghi nhớ:** money = tiền, enough money = đủ tiền"
+    },
+    {
+      "id": 138,
+      "type": "multiple-choice",
+      "question": "They put a big table ... the middle of the room.",
+      "options": [
+        "in",
+        "at",
+        "on",
+        "of"
+      ],
+      "correctAnswer": "in",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: in**\n\n**Lý do:**\n- Cấu trúc: in the middle of = ở giữa\n- 'in the middle of the room' = ở giữa phòng\n\n**Các giới từ khác:**\n- at: ở (điểm cụ thể)\n- on: trên\n- of: của (không dùng một mình)\n\n**Dịch nghĩa:** Họ đặt một cái bàn lớn ở giữa phòng.\n\n**Ghi nhớ:** in the middle of = ở giữa"
+    },
+    {
+      "id": 139,
+      "type": "word-arrangement",
+      "question": "in the morning./ play/ They/ football/ never/",
+      "correctAnswer": "They never play football in the morning.",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: They never play football in the morning.**\n\n**Phân tích:**\n- Câu bắt đầu bằng 'They' (họ)\n- 'never' = không bao giờ (đứng trước động từ)\n- 'play football' = chơi bóng đá\n- 'in the morning' = vào buổi sáng\n\n**Dịch nghĩa:** Họ không bao giờ chơi bóng đá vào buổi sáng.\n\n**Ghi nhớ:** never = không bao giờ (trạng từ phủ định)"
+    },
+    {
+      "id": 140,
+      "type": "fill-blank",
+      "question": "GRO_ P",
+      "correctAnswer": "U",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: U**\n\n**Lý do:**\n- Từ cần điền: GRO_P\n- Khi thêm U vào: GROUP (nhóm)\n- Group là từ vựng cơ bản\n\n**Dịch nghĩa:** GROUP = nhóm\n\n**Ghi nhớ:** group = nhóm, group work = làm việc nhóm"
+    },
+    {
+      "id": 141,
+      "type": "word-arrangement",
+      "question": "nationality?/ your/ is/ What/ friend's/",
+      "correctAnswer": "What is your friend's nationality?",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: What is your friend's nationality?**\n\n**Phân tích:**\n- Câu hỏi bắt đầu bằng 'What' (cái gì)\n- 'is' = là\n- 'your friend's nationality' = quốc tcủa bạn bạn\n\n**Dịch nghĩa:** Quốc tịch của bạn bạn là gì?\n\n**Ghi nhớ:** What is your nationality? = Quốc tịch của bạn là gì?"
+    },
+    {
+      "id": 142,
+      "type": "multiple-choice",
+      "question": "Are there ... pens on the table?",
+      "options": [
+        "some",
+        "any",
+        "a",
+        "an"
+      ],
+      "correctAnswer": "any",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: any**\n\n**Lý do:**\n- Trong câu hỏi dùng 'any' (không dùng 'some')\n- 'any pens' = bút nào\n- 'Are there any ...?' = Có ... nào không?\n\n**Các đáp án khác:**\n- some: dùng trong câu khẳng định\n- a: dùng với danh từ số ít\n- an: dùng với danh từ số ít bắt đầu bằng nguyên âm\n\n**Dịch nghĩa:** Có bút nào trên bàn không?\n\n**Ghi nhớ:** some (câu khẳng định), any (câu hỏi, phủ định)"
+    },
+    {
+      "id": 143,
+      "type": "multiple-choice",
+      "question": "The capital of his country is Kuala Lumpur, so he is from ....",
+      "options": [
+        "Malaysia",
+        "Thailand",
+        "The Phillippines",
+        "Laos"
+      ],
+      "correctAnswer": "Malaysia",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: Malaysia**\n\n**Lý do:**\n- Thủ đô là Kuala Lumpur\n- Kuala Lumpur là thủ đô của Malaysia\n\n**Các đáp án khác:**\n- Thailand: thủ đô Bangkok\n- The Philippines: thủ đô Manila\n- Laos: thủ đô Vientiane\n\n**Dịch nghĩa:** Thủ đô của đất nước anh ấy là Kuala Lumpur, vì vậy anh ấy đến từ Malaysia.\n\n**Ghi nhớ:** Malaysia - Kuala Lumpur"
+    },
+    {
+      "id": 144,
+      "type": "word-arrangement",
+      "question": "a round face/ Does/ oval face?/ oran/ she have/",
+      "correctAnswer": "Does she have a round face oran oval face?",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: Does she have a round face or an oval face?**\n\n**Phân tích:**\n- Câu hỏi lựa chọn bắt đầu bằng 'Does she'\n- 'have a round face or an oval face' = có mặt tròn hay mặt trái xoan\n- 'or' = hoặc (lựa chọn)\n\n**Dịch nghĩa:** Cô ấy có mặt tròn hay mặt trái xoan?\n\n**Ghi nhớ:** round face = mặt tròn, oval face = mặt trái xoan"
+    },
+    {
+      "id": 145,
+      "type": "fill-blank",
+      "question": "My sister loves listening _ _ music.",
+      "correctAnswer": "to",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: to**\n\n**Lý do:**\n- Từ cần điền có 2 chữ cái: _ _\n- Cấu trúc: listen to = nghe\n- 'listen to music' = nghe nhạc\n\n**Dịch nghĩa:** Chị gái tôi yêu thích nghe nhạc.\n\n**Ghi nhớ:** listen to = nghe (cần giới từ 'to')"
+    },
+    {
+      "id": 146,
+      "type": "fill-blank",
+      "question": "C_ TY",
+      "correctAnswer": "I",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: I**\n\n**Lý do:**\n- Từ cần điền: C_TY\n- Khi thêm I vào: CITY (thành phố)\n- City là từ vựng cơ bản\n\n**Dịch nghĩa:** CITY = thành phố\n\n**Ghi nhớ:** city = thành phố, cities = những thành phố"
+    },
+    {
+      "id": 147,
+      "type": "fill-blank",
+      "question": "Which subject is he good _ _ ?",
+      "correctAnswer": "at",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: at**\n\n**Lý do:**\n- Từ cần điền có 2 chữ cái: _ _\n- Cấu trúc: be good at = giỏi về\n- 'good at' = giỏi môn gì\n\n**Dịch nghĩa:** Anh ấy giỏi môn nào?\n\n**Ghi nhớ:** be good at = giỏi về"
+    },
+    {
+      "id": 148,
+      "type": "word-arrangement",
+      "question": "have/ I/ a brother./ a sister/ and/",
+      "correctAnswer": "I have a sister and a brother.",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: I have a sister and a brother.**\n\n**Phân tích:**\n- Câu bắt đầu bằng 'I' (tôi)\n- 'have' = có\n- 'a sister and a brother' = một chị gái và một anh trai\n\n**Dịch nghĩa:** Tôi có một chị gái và một anh trai.\n\n**Ghi nhớ:** and = và (nối hai danh từ)"
+    },
+    {
+      "id": 149,
+      "type": "word-arrangement",
+      "question": "worker./ Lien/ is/ a/ hard/",
+      "correctAnswer": "Lien is a hard worker.",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: Lien is a hard worker.**\n\n**Phân tích:**\n- Câu bắt đầu bằng 'Lien' (Liên)\n- 'is' = là\n- 'a hard worker' = một người làm việc chăm chỉ\n\n**Dịch nghĩa:** Liên là một người làm việc chăm chỉ.\n\n**Ghi nhớ:** hard worker = người chăm chỉ, work hard = làm việc chăm chỉ"
+    },
+    {
+      "id": 150,
+      "type": "multiple-choice",
+      "question": "What lesson does Sandy have every Tuesday after school?",
+      "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2016/12/7/636167053503964452_Audio.mp3",
+      "options": [
+        "guitar",
+        "violin",
+        "piano",
+        "cello"
+      ],
+      "correctAnswer": "piano",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: piano**\n\n**Lý do:**\n- Nghe file âm thanh để xác định\n- Câu hỏi về bài học Sandy có mỗi thứ Ba sau giờ học\n- Sandy học piano\n\n**Các đáp án khác:**\n- guitar: đàn guitar\n- violin: đàn violin\n- cello: đàn cello\n\n**Dịch nghĩa:** Sandy học bài gì mỗi thứ Ba sau giờ học? - Piano.\n\n**Ghi nhớ:** piano = đàn piano"
+    },
+    {
+      "id": 151,
+      "type": "word-arrangement",
+      "question": "and became/ Thanh Giong/ ate/ big and strong./ a lot of rice/",
+      "correctAnswer": "Thanh Giong ate a lot of rice and became big and strong.",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: Thanh Giong ate a lot of rice and became big and strong.**\n\n**Phân tích:**\n- Câu bắt đầu bằng 'Thanh Giong' (Thánh Gióng)\n- 'ate a lot of rice' = ăn rất nhiều cơm\n- 'and became' = và trở nên\n- 'big and strong' = to lớn và khỏe mạnh\n\n**Dịch nghĩa:** Thánh Gióng ăn rất nhiều cơm và trở nên to lớn và khỏe mạnh.\n\n**Ghi nhớ:** ate (quá khứ của eat), became (quá khứ của become)"
+    },
+    {
+      "id": 152,
+      "type": "multiple-choice",
+      "question": "Which sentence is correct?",
+      "options": [
+        "What's your address?",
+        "Where is your address?",
+        "Where do you live in?",
+        "In where do you live?"
+      ],
+      "correctAnswer": "What's your address?",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: What's your address?**\n\n**Lý do:**\n- Hỏi địa chỉ dùng 'What's your address?'\n- Không dùng 'Where' với 'address'\n\n**Các đáp án sai:**\n- Where is your address?: sai (không dùng Where với address)\n- Where do you live in?: sai (thừa 'in')\n- In where do you live?: sai cấu trúc\n\n**Dịch nghĩa:** Địa chỉ của bạn là gì?\n\n**Ghi nhớ:** What's your address? = Địa chỉ của bạn?"
+    },
+    {
+      "id": 153,
+      "type": "multiple-choice",
+      "question": "How ... I get to the Ho Chi Minh Museum? - Go ahead then turn left.",
+      "options": [
+        "will",
+        "do",
+        "can",
+        "have"
+      ],
+      "correctAnswer": "can",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: can**\n\n**Lý do:**\n- Câu hỏi về cách đi: How can I ...? (Làm sao tôi có thể ...?)\n- 'can' = có thể (khả năng)\n\n**Các đáp án khác:**\n- will: sẽ (tương lai)\n- do: làm (không phù hợp)\n- have: có (không phù hợp)\n\n**Dịch nghĩa:** Làm sao tôi có thể đến Bảo tàng Hồ Chí Minh? - Đi thẳng rồi rẽ trái.\n\n**Ghi nhớ:** How can I get to ...? = Làm sao đến ...?"
+    },
+    {
+      "id": 154,
+      "type": "fill-blank",
+      "question": "Does he like bread _ _ _ butter for his breakfast?",
+      "correctAnswer": "and",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: and**\n\n**Lý do:**\n- Từ cần điền có 3 chữ cái: _ _ _\n- 'bread and butter' = bánh mì và bơ (đi cùng nhau)\n- 'and' = và (nối hai danh từ)\n\n**Dịch nghĩa:** Anh ấy có thích bánh mì và bơ cho bữa sáng không?\n\n**Ghi nhớ:** bread and butter = bánh mì bơ"
+    },
+    {
+      "id": 155,
+      "type": "word-arrangement",
+      "question": "you/ give me/ the blue/ shoes?/ Can/",
+      "correctAnswer": "Can you give me the blue shoes?",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: Can you give me the blue shoes?**\n\n**Phân tích:**\n- Câu hỏi bắt đầu bằng 'Can you' (bạn có thể)\n- 'give me' = đưa cho tôi\n- 'the blue shoes' = đôi giày màu xanh\n\n**Dịch nghĩa:** Bạn có thể đưa cho tôi đôi giày màu xanh không?\n\n**Ghi nhớ:** Can you + V? = Bạn có thể ... không?"
+    },
+    {
+      "id": 156,
+      "type": "word-arrangement",
+      "question": "the weather/ tomorrow?/ be like/ What/ will/",
+      "correctAnswer": "What will the weather be like tomorrow?",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: What will the weather be like tomorrow?**\n\n**Phân tích:**\n- Câu hỏi bắt đầu bằng 'What' (cái gì)\n- 'will the weather be like' = thời tiết sẽ như thế nào\n- 'tomorrow' = ngày mai\n\n**Dịch nghĩa:** Thời tiết ngày mai sẽ như thế nào?\n\n**Ghi nhớ:** What will the weather be like? = Thời tiết sẽ như thế nào?"
+    },
+    {
+      "id": 157,
+      "type": "multiple-choice",
+      "question": "There are five ... in one hand.",
+      "options": [
+        "fingers",
+        "arms",
+        "toes",
+        "feet"
+      ],
+      "correctAnswer": "fingers",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: fingers**\n\n**Lý do:**\n- Một bàn tay có 5 ngón tay (fingers)\n- 'five fingers in one hand' = 5 ngón tay trong một bàn tay\n\n**Các đáp án khác:**\n- arms: cánh tay\n- toes: ngón chân\n- feet: bàn chân\n\n**Dịch nghĩa:** Có năm ngón tay trong một bàn tay.\n\n**Ghi nhớ:** finger = ngón tay, toe = ngón chân"
+    },
+    {
+      "id": 158,
+      "type": "multiple-choice",
+      "question": "Where are my books? - ....",
+      "options": [
+        "Here you are",
+        "Here books are",
+        "Here it is",
+        "Here are they"
+      ],
+      "correctAnswer": "Here you are",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: Here you are**\n\n**Lý do:**\n- Câu hỏi 'Where are my books?' (Sách của tôi đâu?)\n- Khi đưa đồ cho ai đó, nói 'Here you are' (Của bạn đây)\n\n**Các đáp án khác:**\n- Here books are: sai cấu trúc\n- Here it is: dùng cho số ít\n- Here are they: sai cấu trúc\n\n**Dịch nghĩa:** Sách của tôi đâu? - Của bạn đây.\n\n**Ghi nhớ:** Here you are = Của bạn đây (khi đưa đồ)"
+    },
+    {
+      "id": 159,
+      "type": "multiple-choice",
+      "question": "...? - Yes, please.",
+      "options": [
+        "Could you like any juice",
+        "Should you like some juice",
+        "Do you like any juice",
+        "Would you like some juice"
+      ],
+      "correctAnswer": "Would you like some juice",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: Would you like some juice**\n\n**Lý do:**\n- Câu trả lời 'Yes, please' (Vâng, làm ơn)\n- Câu mời lịch sự: Would you like some ...?\n- Dùng 'some' trong câu mời (không dùng 'any')\n\n**Các đáp án khác:**\n- Could you like: sai cấu trúc\n- Should you like: sai cấu trúc\n- Do you like any juice: không phải câu mời\n\n**Dịch nghĩa:** Bạn có muốn một ít nước ép không? - Vâng, làm ơn.\n\n**Ghi nhớ:** Would you like some ...? (câu mời)"
+    },
+    {
+      "id": 160,
+      "type": "multiple-choice",
+      "question": "I love drawing, so my favourite subject is _____.",
+      "options": [
+        "Music",
+        "Maths",
+        "Art",
+        "Science"
+      ],
+      "correctAnswer": "Art",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: Art**\n\n**Lý do:**\n- 'I love drawing' (Tôi yêu vẽ)\n- Môn học về vẽ là Art (Mỹ thuật)\n\n**Các đáp án khác:**\n- Music: Âm nhạc (ca hát)\n- Maths: Toán học (tính toán)\n- Science: Khoa học (thí nghiệm)\n\n**Dịch nghĩa:** Tôi yêu vẽ, vì vậy môn học yêu thích của tôi là Mỹ thuật.\n\n**Ghi nhớ:** Art = Mỹ thuật, drawing = vẽ"
+    },
+    {
+      "id": 161,
+      "type": "odd-one-out",
+      "question": "Odd one out:",
+      "options": [
+        "green",
+        "white",
+        "blouse",
+        "orange"
+      ],
+      "correctAnswer": "blouse",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: blouse**\n\n**Lý do:**\n- green, white, orange là màu sắc\n- blouse là quần áo (áo sơ mi nữ)\n\n**Phân loại:**\n- green: màu xanh lá\n- white: màu trắng\n- orange: màu cam\n- blouse: áo sơ mi nữ (quần áo)\n\n**Dịch nghĩa:** Chọn từ khác loại: blouse (áo)\n\n**Ghi nhớ:** blouse = áo sơ mi nữ"
+    },
+    {
+      "id": 162,
+      "type": "multiple-choice",
+      "question": "It's time ... lunch now.",
+      "options": [
+        "at",
+        "for",
+        "to",
+        "of"
+      ],
+      "correctAnswer": "for",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: for**\n\n**Lý do:**\n- Cấu trúc: It's time for + danh từ\n- 'time for lunch' = giờ ăn trưa\n\n**Các giới từ khác:**\n- at: ở\n- to: đến\n- of: của\n\n**Dịch nghĩa:** Bây giờ là giờ ăn trưa.\n\n**Ghi nhớ:** It's time for + danh từ, It's time to + động từ"
+    },
+    {
+      "id": 163,
+      "type": "fill-blank",
+      "question": "Is there a vegetable garden in _ _ _ _ _ of the yard?",
+      "correctAnswer": "front",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: front**\n\n**Lý do:**\n- Từ cần điền có 5 chữ cái: _ _ _ _ _\n- Cấu trúc: in front of = ở phía trước\n- 'in front of the yard' = ở phía trước sân\n\n**Dịch nghĩa:** Có một vườn rau ở phía trước sân không?\n\n**Ghi nhớ:** in front of = ở phía trước, behind = ở phía sau"
+    },
+    {
+      "id": 164,
+      "type": "word-arrangement",
+      "question": "with them?/ don't we/ at home/ Why/ watch TV/",
+      "correctAnswer": "Why don't we watch TV at home with them?",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: Why don't we watch TV at home with them?**\n\n**Phân tích:**\n- Câu đề nghị bắt đầu bằng 'Why don't we' (tại sao chúng ta không)\n- 'watch TV' = xem TV\n- 'at home' = ở nhà\n- 'with them' = cùng với họ\n\n**Dịch nghĩa:** Tại sao chúng ta không xem TV ở nhà cùng với họ?\n\n**Ghi nhớ:** Why don't we + V? = Tại sao chúng ta không ...? (đề nghị)"
+    },
+    {
+      "id": 165,
+      "type": "fill-blank",
+      "question": "A_ NT",
+      "correctAnswer": "U",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: U**\n\n**Lý do:**\n- Từ cần điền: A_NT\n- Khi thêm U vào: AUNT (cô, dì)\n- Aunt là từ chỉ quan hệ gia đình\n\n**Dịch nghĩa:** AUNT = cô, dì\n\n**Ghi nhớ:** aunt = cô/dì, uncle = chú/bác"
+    },
+    {
+      "id": 166,
+      "type": "fill-blank",
+      "question": "My brother is tall_ _ than me.",
+      "correctAnswer": "er",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: er**\n\n**Lý do:**\n- Từ cần điền: tall_ _\n- Khi thêm 'er' vào: taller (cao hơn)\n- Câu so sánh: anh trai cao hơn tôi\n\n**Dịch nghĩa:** Anh trai tôi cao hơn tôi.\n\n**Ghi nhớ:** tall - taller - tallest (cao - cao hơn - cao nhất)"
+    },
+    {
+      "id": 167,
+      "type": "fill-blank",
+      "question": "_ _ _ OF COFFEE",
+      "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2020-2021/Lop5/Captruong/Audio/01-dt-31.mp3",
+      "correctAnswer": "CUP",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: CUP**\n\n**Lý do:**\n- Từ cần điền có 3 chữ cái: _ _ _\n- Nghe file âm thanh: 'CUP OF COFFEE'\n- 'a cup of coffee' = một tách cà phê\n\n**Dịch nghĩa:** CUP OF COFFEE = tách cà phê\n\n**Ghi nhớ:** a cup of = một tách (đơn vị đo)"
+    },
+    {
+      "id": 168,
+      "type": "word-arrangement",
+      "question": "What/ every day?/ do you/ time/ have breakfast/",
+      "correctAnswer": "What time do you have breakfast every day?",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: What time do you have breakfast every day?**\n\n**Phân tích:**\n- Câu hỏi bắt đầu bằng 'What time' (mấy giờ)\n- 'do you' = bạn có\n- 'have breakfast' = ăn sáng\n- 'every day' = mỗi ngày\n\n**Dịch nghĩa:** Bạn ăn sáng lúc mấy giờ mỗi ngày?\n\n**Ghi nhớ:** What time = hỏi giờ"
+    },
+    {
+      "id": 169,
+      "type": "multiple-choice",
+      "question": "What's your ...? - I'm a student.",
+      "options": [
+        "class",
+        "job",
+        "nationality",
+        "name"
+      ],
+      "correctAnswer": "job",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: job**\n\n**Lý do:**\n- Câu trả lời 'I'm a student' (Tôi là học sinh)\n- Hỏi về nghề nghiệp: What's your job?\n\n**Các đáp án khác:**\n- class: lớp học\n- nationality: quốc tịch\n- name: tên\n\n**Dịch nghĩa:** Nghề nghiệp của bạn là gì? - Tôi là học sinh.\n\n**Ghi nhớ:** What's your job? = Nghề của bạn là gì?"
+    },
+    {
+      "id": 170,
+      "type": "fill-blank",
+      "question": "HU_ GRY",
+      "correctAnswer": "N",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: N**\n\n**Lý do:**\n- Từ cần điền: HU_GRY\n- Khi thêm N vào: HUNGRY (đói)\n- Hungry là tính từ chỉ cảm giác\n\n**Dịch nghĩa:** HUNGRY = đói\n\n**Ghi nhớ:** hungry = đói, thirsty = khát"
+    },
+    {
+      "id": 171,
+      "type": "multiple-choice",
+      "question": "Choose the word that has the underlined part pronounced differently:",
+      "options": [
+        "ride",
+        "bike",
+        "like",
+        "winter"
+      ],
+      "correctAnswer": "winter",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: winter**\n\n**Lý do:**\n- Các từ còn lại có chữ 'i' phát âm là /aɪ/ (âm ai)\n- Từ 'winter' có chữ 'i' phát âm là /ɪ/ (âm i ngắn)\n\n**Phát âm:**\n- ride /raɪd/, bike /baɪk/, like /laɪk/ - âm /aɪ/\n- winter /ˈwɪntə/ - âm /ɪ/\n\n**Ghi nhớ:** winter có âm 'i' ngắn /ɪ/\n\n**Dịch nghĩa:** (Đây là câu hỏi phát âm)",
+      "wordDetails": [
+        {
+          "word": "ride",
+          "ipa": "/raɪd/",
+          "meaning": "đi xe",
+          "underlinedSound": "/-/",
+          "underlinedWord": "rid**e**"
+        },
+        {
+          "word": "bike",
+          "ipa": "/baɪk/",
+          "meaning": "xe đạp",
+          "underlinedSound": "/-/",
+          "underlinedWord": "bik**e**"
+        },
+        {
+          "word": "like",
+          "ipa": "/laɪk/",
+          "meaning": "thích",
+          "underlinedSound": "/-/",
+          "underlinedWord": "lik**e**"
+        },
+        {
+          "word": "winter",
+          "ipa": "/ˈwɪntə/",
+          "meaning": "mùa đông",
+          "underlinedSound": "/-/",
+          "underlinedWord": "wint**e**r"
+        }
+      ],
+      "underlinedPart": "e",
+      "correctIndex": 3
+    },
+    {
+      "id": 172,
+      "type": "word-arrangement",
+      "question": "this afternoon./ We have/ with Mr. Smith/ at 5 pm/ an appointment/",
+      "correctAnswer": "We have an appointment with Mr. Smith at 5 pm this afternoon.",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: We have an appointment with Mr. Smith at 5 pm this afternoon.**\n\n**Phân tích:**\n- Câu bắt đầu bằng 'We' (chúng tôi)\n- 'have an appointment' = có cuộc hẹn\n- 'with Mr. Smith' = với ông Smith\n- 'at 5 pm' = lúc 5 giờ chiều\n- 'this afternoon' = chiều nay\n\n**Dịch nghĩa:** Chúng tôi có cuộc hẹn với ông Smith lúc 5 giờ chiều nay.\n\n**Ghi nhớ:** have an appointment = có cuộc hẹn"
+    },
+    {
+      "id": 173,
+      "type": "word-arrangement",
+      "question": "last summer holiday./ a boat trip/ around the islands/ They took/",
+      "correctAnswer": "They took a boat trip around the islands last summer holiday.",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: They took a boat trip around the islands last summer holiday.**\n\n**Phân tích:**\n- Câu bắt đầu bằng 'They' (họ)\n- 'took a boat trip' = đi du thuyền\n- 'around the islands' = quanh các hòn đảo\n- 'last summer holiday' = kỳ nghỉ hè năm ngoái\n\n**Dịch nghĩa:** Họ đã đi du thuyền quanh các hòn đảo vào kỳ nghỉ hè năm ngoái.\n\n**Ghi nhớ:** take a boat trip = đi du thuyền"
+    },
+    {
+      "id": 174,
+      "type": "fill-blank",
+      "question": "In winter, it is very _ _ _ _ .",
+      "correctAnswer": "cold",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: cold**\n\n**Lý do:**\n- Từ cần điền có 4 chữ cái: _ _ _ _\n- Vào mùa đông, thời tiết rất lạnh\n- 'very cold' = rất lạnh\n\n**Dịch nghĩa:** Vào mùa đông, thời tiết rất lạnh.\n\n**Ghi nhớ:** winter = mùa đông, cold = lạnh"
+    },
+    {
+      "id": 175,
+      "type": "multiple-choice",
+      "question": "Listen and tick:",
+      "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/21/635206397184713305_Audio.mp3",
+      "options": [
+        "Where is Kate's birthday party?",
+        "When is Kate's holiday?",
+        "When is Kate's birthday?",
+        "What is the date today?"
+      ],
+      "correctAnswer": "When is Kate's birthday?",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: When is Kate's birthday?**\n\n**Lý do:**\n- Nghe file âm thanh để chọn câu đúng\n- Câu hỏi về sinh nhật của Kate\n- 'When' = khi nào (hỏi thời gian)\n\n**Các đáp án khác:**\n- Where is Kate's birthday party?: ở đâu (sai)\n- When is Kate's holiday?: kỳ nghỉ (sai)\n- What is the date today?: hôm nay (sai)\n\n**Dịch nghĩa:** Sinh nhật của Kate là khi nào?\n\n**Ghi nhớ:** When is your birthday? = Sinh nhật bạn khi nào?"
+    },
+    {
+      "id": 176,
+      "type": "fill-blank",
+      "question": "MY_ ELF",
+      "correctAnswer": "S",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: S**\n\n**Lý do:**\n- Từ cần điền: MY_ELF\n- Khi thêm S vào: MYSELF (bản thân tôi)\n- Myself là đại từ phản thân\n\n**Dịch nghĩa:** MYSELF = bản thân tôi, chính tôi\n\n**Ghi nhớ:** myself = bản thân tôi, yourself = bản thân bạn"
+    },
+    {
+      "id": 177,
+      "type": "fill-blank",
+      "question": "Who can answer the third _ _ _ _ _ _ _ _ ?",
+      "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/11/21/635521680874008622_566X320.jpg",
+      "correctAnswer": "question",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: question**\n\n**Lý do:**\n- Từ cần điền có 8 chữ cái: _ _ _ _ _ _ _ _\n- Hình ảnh là bảng câu hỏi\n- 'answer the question' = trả lời câu hỏi\n\n**Dịch nghĩa:** Ai có thể trả lời câu hỏi thứ ba?\n\n**Ghi nhớ:** question = câu hỏi, answer = câu trả lời"
+    },
+    {
+      "id": 178,
+      "type": "fill-blank",
+      "question": "Mr. Minh is not at home now. He is _ _ work.",
+      "correctAnswer": "at",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: at**\n\n**Lý do:**\n- Từ cần điền có 2 chữ cái: _ _\n- Cấu trúc: at work = đi làm, ở nơi làm việc\n\n**Dịch nghĩa:** Ông Minh không ở nhà bây giờ. Ông ấy đang đi làm.\n\n**Ghi nhớ:** at work = đi làm, at home = ở nhà, at school = ở trường"
+    },
+    {
+      "id": 179,
+      "type": "word-arrangement",
+      "question": "Green Tower/ in the city center./ new buiding/ is a/",
+      "correctAnswer": "Green Tower is a new buiding in the city center.",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: Green Tower is a new building in the city center.**\n\n**Phân tích:**\n- Câu bắt đầu bằng 'Green Tower' (Tòa tháp Xanh)\n- 'is' = là\n- 'a new building' = một tòa nhà mới\n- 'in the city center' = ở trung tâm thành phố\n\n**Dịch nghĩa:** Tòa tháp Xanh là một tòa nhà mới ở trung tâm thành phố.\n\n**Ghi nhớ:** city center = trung tâm thành phố"
+    },
+    {
+      "id": 180,
+      "type": "multiple-choice",
+      "question": "What time does he get up?",
+      "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2016/11/29/636160303006967345_Audio.mp3",
+      "options": [
+        "At 6 a.m",
+        "At 6:30 a.m",
+        "At 6 p.m",
+        "At 7:00 a.m"
+      ],
+      "correctAnswer": "At 6 a.m",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: At 6 a.m**\n\n**Lý do:**\n- Nghe file âm thanh để xác định\n- Câu hỏi về giờ dậy\n- Anh ấy dậy lúc 6 giờ sáng\n\n**Các đáp án khác:**\n- At 6:30 a.m: 6 giờ 30 sáng (sai)\n- At 6 p.m: 6 giờ tối (sai)\n- At 7:00 a.m: 7 giờ sáng (sai)\n\n**Dịch nghĩa:** Anh ấy dậy lúc mấy giờ? - Lúc 6 giờ sáng.\n\n**Ghi nhớ:** a.m = sáng, p.m = chiều/tối"
+    },
+    {
+      "id": 181,
+      "type": "multiple-choice",
+      "question": "Choose the word that has the underlined part pronounced differently:",
+      "options": [
+        "grade",
+        "class",
+        "late",
+        "name"
+      ],
+      "correctAnswer": "class",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: class**\n\n**Lý do:**\n- Các từ còn lại có chữ 'a' phát âm là /eɪ/ (âm ei)\n- Từ 'class' có chữ 'a' phát âm là /ɑː/ (âm a dài)\n\n**Phát âm:**\n- grade /ɡreɪd/, late /leɪt/, name /neɪm/ - âm /eɪ/\n- class /klɑːs/ - âm /ɑː/\n\n**Ghi nhớ:** class có âm 'a' dài /ɑː/\n\n**Dịch nghĩa:** (Đây là câu hỏi phát âm)",
+      "wordDetails": [
+        {
+          "word": "grade",
+          "ipa": "/ɡreɪd/",
+          "meaning": "điểm, lớp",
+          "underlinedSound": "/eɪ/",
+          "underlinedWord": "gr**a**de"
+        },
+        {
+          "word": "class",
+          "ipa": "/klɑːs/",
+          "meaning": "lớp học",
+          "underlinedSound": "/æ/",
+          "underlinedWord": "cl**a**ss"
+        },
+        {
+          "word": "late",
+          "ipa": "/leɪt/",
+          "meaning": "muộn",
+          "underlinedSound": "/eɪ/",
+          "underlinedWord": "l**a**te"
+        },
+        {
+          "word": "name",
+          "ipa": "/neɪm/",
+          "meaning": "tên",
+          "underlinedSound": "/eɪ/",
+          "underlinedWord": "n**a**me"
+        }
+      ],
+      "underlinedPart": "a",
+      "correctIndex": 1
+    },
+    {
+      "id": 182,
+      "type": "word-arrangement",
+      "question": "Don't/ near/ the airport./ at the hotel/ stay/",
+      "correctAnswer": "Don't stay at the hotel near the airport.",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: Don't stay at the hotel near the airport.**\n\n**Phân tích:**\n- Câu mệnh lệnh phủ định bắt đầu bằng 'Don't'\n- 'stay at the hotel' = ở khách sạn\n- 'near the airport' = gần sân bay\n\n**Dịch nghĩa:** Đừng ở khách sạn gần sân bay.\n\n**Ghi nhớ:** Don't + V = Đừng làm gì"
+    },
+    {
+      "id": 183,
+      "type": "multiple-choice",
+      "question": "Tick the odd one:",
+      "options": [
+        "picture",
+        "red",
+        "black",
+        "green"
+      ],
+      "correctAnswer": "picture",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: picture**\n\n**Lý do:**\n- red, black, green là màu sắc\n- picture là đồ vật (bức tranh)\n\n**Phân loại:**\n- red: màu đỏ\n- black: màu đen\n- green: màu xanh lá\n- picture: bức tranh (đồ vật)\n\n**Dịch nghĩa:** Chọn từ khác loại: picture (bức tranh)\n\n**Ghi nhớ:** picture = bức tranh, hình ảnh"
+    },
+    {
+      "id": 184,
+      "type": "multiple-choice",
+      "question": "Choose the word that has the underlined part pronounced differently:",
+      "options": [
+        "is",
+        "sister",
+        "son",
+        "small"
+      ],
+      "correctAnswer": "is",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: is**\n\n**Lý do:**\n- Các từ còn lại có chữ 's' phát âm là /s/ (âm s)\n- Từ 'is' có chữ 's' phát âm là /z/ (âm z)\n\n**Phát âm:**\n- sister /ˈsɪstə/, son /sʌn/, small /smɔːl/ - âm /s/\n- is /ɪz/ - âm /z/\n\n**Ghi nhớ:** 'is' có âm cuối /z/\n\n**Dịch nghĩa:** (Đây là câu hỏi phát âm)",
+      "wordDetails": [
+        {
+          "word": "is",
+          "ipa": "/ɪz/",
+          "meaning": "là"
+        },
+        {
+          "word": "sister",
+          "ipa": "/ˈsɪstə/",
+          "meaning": "chị/em gái"
+        },
+        {
+          "word": "son",
+          "ipa": "/sʌn/",
+          "meaning": "con trai"
+        },
+        {
+          "word": "small",
+          "ipa": "/smɔːl/",
+          "meaning": "nhỏ"
+        }
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 185,
+      "type": "fill-blank",
+      "question": "In January and February, we have to wear _ _ _ _ _ _ s and trousers.",
+      "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2016/11/29/636160354611761324_Audio.mp3",
+      "correctAnswer": "jumper",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: jumper**\n\n**Lý do:**\n- Từ cần điền có 6 chữ cái: _ _ _ _ _ _\n- Nghe file âm thanh\n- Tháng 1 và tháng 2 lạnh, cần mặc áo len (jumper)\n\n**Dịch nghĩa:** Vào tháng 1 và tháng 2, chúng ta phải mặc áo len và quần dài.\n\n**Ghi nhớ:** jumper = áo len (tiếng Anh Anh), sweater = áo len (tiếng Anh Mỹ)"
+    },
+    {
+      "id": 186,
+      "type": "fill-blank",
+      "question": "_ _ _ _ color is it? - It's red.",
+      "correctAnswer": "What",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: What**\n\n**Lý do:**\n- Từ cần điền có 4 chữ cái: _ _ _ _\n- Câu trả lời 'It's red' (Nó màu đỏ)\n- Hỏi về màu sắc: What color? (màu gì?)\n\n**Dịch nghĩa:** Nó màu gì? - Nó màu đỏ.\n\n**Ghi nhớ:** What color? = màu gì?"
+    },
+    {
+      "id": 187,
+      "type": "word-arrangement",
+      "question": "food/ My/ favorite/ chicken./ is/",
+      "correctAnswer": "My favorite food is chicken.",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: My favorite food is chicken.**\n\n**Phân tích:**\n- Câu bắt đầu bằng 'My favorite food' (món ăn yêu thích của tôi)\n- 'is' = là\n- 'chicken' = thịt gà\n\n**Dịch nghĩa:** Món ăn yêu thích của tôi là thịt gà.\n\n**Ghi nhớ:** favorite food = món ăn yêu thích"
+    },
+    {
+      "id": 188,
+      "type": "word-arrangement",
+      "question": "go to/ birthday party/ Did you/ Linda's/ yesterday?/",
+      "correctAnswer": "Did you go to Linda's birthday party yesterday?",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: Did you go to Linda's birthday party yesterday?**\n\n**Phân tích:**\n- Câu hỏi yes/no quá khứ bắt đầu bằng 'Did you'\n- 'go to' = đi đến\n- 'Linda's birthday party' = tiệc sinh nhật của Linda\n- 'yesterday' = hôm qua\n\n**Dịch nghĩa:** Bạn có đi đến tiệc sinh nhật của Linda hôm qua không?\n\n**Ghi nhớ:** Did you + V? (câu hỏi quá khứ)"
+    },
+    {
+      "id": 189,
+      "type": "multiple-choice",
+      "question": "Mrs. and Mr. Pike ... dinner at the moment.",
+      "options": [
+        "is having",
+        "are having",
+        "are eating",
+        "B & C are correct"
+      ],
+      "correctAnswer": "B & C are correct",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: B & C are correct**\n\n**Lý do:**\n- Chủ ngữ 'Mrs. and Mr. Pike' là số nhiều\n- 'are having' = đang có/ăn (hiện tại tiếp diễn)\n- 'are eating' = đang ăn (hiện tại tiếp diễn)\n- Cả 'having' và 'eating' đều đúng với 'dinner'\n\n**Dịch nghĩa:** Bà và ông Pike đang ăn tối lúc này.\n\n**Ghi nhớ:** have dinner = eat dinner = ăn tối"
+    },
+    {
+      "id": 190,
+      "type": "fill-blank",
+      "question": "Where did you spend your _ _ _ _ _ _ ?",
+      "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/19/635204765315451117_Audio.mp3",
+      "correctAnswer": "summer",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: summer**\n\n**Lý do:**\n- Từ cần điền có 6 chữ cái: _ _ _ _ _ _\n- Nghe file âm thanh\n- 'spend your summer' = dành mùa hè của bạn\n\n**Dịch nghĩa:** Bạn đã dành mùa hè ở đâu?\n\n**Ghi nhớ:** summer = mùa hè, summer holiday = kỳ nghỉ hè"
+    },
+    {
+      "id": 191,
+      "type": "multiple-choice",
+      "question": "Mai and her sister went to the bookshop ___ last weekend.",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "ø"
+      ],
+      "correctAnswer": "ø",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: ø (không điền gì)**\n\n**Lý do:**\n- 'last weekend' = cuối tuần trước\n- Không dùng giới từ trước 'last/next/this/every'\n\n**Các giới từ khác:**\n- in: dùng với tháng, năm\n- on: dùng với ngày cụ thể\n- at: dùng với giờ\n\n**Dịch nghĩa:** Mai và chị gái đã đi đến hiệu sách vào cuối tuần trước.\n\n**Ghi nhớ:** Không dùng giới từ với last/next/this/every"
+    },
+    {
+      "id": 192,
+      "type": "word-arrangement",
+      "question": "are/ saying./ understand/ what you/ He doesn't/",
+      "correctAnswer": "He doesn't understand what you are saying.",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: He doesn't understand what you are saying.**\n\n**Phân tích:**\n- Câu bắt đầu bằng 'He' (anh ấy)\n- 'doesn't understand' = không hiểu\n- 'what you are saying' = những gì bạn đang nói\n\n**Dịch nghĩa:** Anh ấy không hiểu những gì bạn đang nói.\n\n**Ghi nhớ:** understand = hiểu"
+    },
+    {
+      "id": 193,
+      "type": "fill-blank",
+      "question": "REPE_ T",
+      "correctAnswer": "A",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: A**\n\n**Lý do:**\n- Từ cần điền: REPE_T\n- Khi thêm A vào: REPEAT (lặp lại)\n- Repeat là động từ cơ bản\n\n**Dịch nghĩa:** REPEAT = lặp lại, nhắc lại\n\n**Ghi nhớ:** repeat = lặp lại, again = lần nữa"
+    },
+    {
+      "id": 194,
+      "type": "word-arrangement",
+      "question": "very hot/ right/ now./ feel/ We/",
+      "correctAnswer": "We feel very hot right now.",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: We feel very hot right now.**\n\n**Phân tích:**\n- Câu bắt đầu bằng 'We' (chúng tôi)\n- 'feel very hot' = cảm thấy rất nóng\n- 'right now' = ngay bây giờ\n\n**Dịch nghĩa:** Chúng tôi cảm thấy rất nóng ngay bây giờ.\n\n**Ghi nhớ:** feel hot = cảm thấy nóng, right now = ngay bây giờ"
+    },
+    {
+      "id": 195,
+      "type": "fill-blank",
+      "question": "There will be a _ _ _ cert at the music school this weekend.",
+      "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi%20Th%E1%BB%AD/Thi_trai_nghiem_2021/Lop5/images1/dt4.jpg",
+      "correctAnswer": "con",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: con**\n\n**Lý do:**\n- Từ cần điền: _ _ _cert\n- Khi thêm 'con' vào: concert (buổi hòa nhạc)\n- Hình ảnh là buổi biểu diễn âm nhạc\n\n**Dịch nghĩa:** Sẽ có một buổi hòa nhạc tại trường âm nhạc vào cuối tuần này.\n\n**Ghi nhớ:** concert = buổi hòa nhạc"
+    },
+    {
+      "id": 196,
+      "type": "word-arrangement",
+      "question": "Hoi An/ When was/ a World/ recognized as/ Heritage Site?/",
+      "correctAnswer": "When was Hoi An recognized as a World Heritage Site?",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: When was Hoi An recognized as a World Heritage Site?**\n\n**Phân tích:**\n- Câu hỏi bắt đầu bằng 'When' (khi nào)\n- 'was Hoi An recognized' = Hội An được công nhận\n- 'as a World Heritage Site' = là Di sản Thế giới\n\n**Dịch nghĩa:** Hội An được công nhận là Di sản Thế giới khi nào?\n\n**Ghi nhớ:** recognize = công nhận, World Heritage Site = Di sản Thế giới"
+    },
+    {
+      "id": 197,
+      "type": "fill-blank",
+      "question": "My friend always has 2 sandwiches and an apple _ _ _ lunch.",
+      "correctAnswer": "for",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: for**\n\n**Lý do:**\n- Từ cần điền có 3 chữ cái: _ _ _\n- Cấu trúc: for + bữa ăn\n- 'for lunch' = cho bữa trưa\n\n**Dịch nghĩa:** Bạn tôi luôn có 2 bánh mì sandwich và một quả táo cho bữa trưa.\n\n**Ghi nhớ:** for breakfast/lunch/dinner"
+    },
+    {
+      "id": 198,
+      "type": "word-arrangement",
+      "question": "house/ in/ is/ the city./ My/",
+      "correctAnswer": "My house is in the city.",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: My house is in the city.**\n\n**Phân tích:**\n- Câu bắt đầu bằng 'My house' (nhà tôi)\n- 'is' = là, ở\n- 'in the city' = trong thành phố\n\n**Dịch nghĩa:** Nhà tôi ở trong thành phố.\n\n**Ghi nhớ:** in the city = trong thành phố, in the country = ở nông thôn"
+    },
+    {
+      "id": 199,
+      "type": "fill-blank",
+      "question": "I don't have _ _ _ apples but I have some bananas.",
+      "correctAnswer": "any",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: any**\n\n**Lý do:**\n- Từ cần điền có 3 chữ cái: _ _ _\n- Câu phủ định dùng 'any' (không dùng 'some')\n- 'don't have any apples' = không có táo nào\n\n**Dịch nghĩa:** Tôi không có táo nào nhưng tôi có một số chuối.\n\n**Ghi nhớ:** some (khẳng định), any (phủ định, nghi vấn)"
+    },
+    {
+      "id": 200,
+      "type": "multiple-choice",
+      "question": "The students learn about the places and weather in ____ lesson.",
+      "options": [
+        "History",
+        "Biology",
+        "Vietnamese",
+        "Geography"
+      ],
+      "correctAnswer": "Geography",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: Geography**\n\n**Lý do:**\n- Câu nói về học về địa điểm và thời tiết\n- Geography = Địa lý (học về địa điểm, thời tiết, bản đồ)\n\n**Các đáp án khác:**\n- History: Lịch sử (học về quá khứ)\n- Biology: Sinh học (học về sinh vật)\n- Vietnamese: Tiếng Việt (học ngôn ngữ)\n\n**Dịch nghĩa:** Học sinh học về địa điểm và thời tiết trong tiết học Địa lý.\n\n**Ghi nhớ:** Geography = Địa lý"
+    }
+  ]
+}

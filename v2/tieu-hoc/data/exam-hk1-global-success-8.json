@@ -1,0 +1,886 @@
+{
+  "unitId": "exam-hk1-global-success-8",
+  "title": "Đề thi cuối HK1 - Tiếng Anh 8 Global Success",
+  "description": "Ôn tập đề thi cuối học kì 1 Tiếng Anh 8 - Global Success với giải thích chi tiết",
+  "grammarTopics": [
+    "First Conditional (Câu điều kiện loại 1)",
+    "Unless = If...not",
+    "Comparatives (So sánh hơn)",
+    "Articles (Mạo từ)",
+    "Quantifiers (A few, a little, many, much)"
+  ],
+  "theory": {
+    "brief": "Đề thi HK1 Tiếng Anh 8 bao gồm các dạng bài: Nghe hiểu (TRUE/FALSE, điền từ), Đọc hiểu, Ngữ pháp, Viết lại câu, và Viết câu từ gợi ý.",
+    "examples": [
+      "If it rains, we will stay at home. (Câu điều kiện loại 1)",
+      "Unless you hurry, you will be late. = If you don't hurry, you will be late.",
+      "This book is more interesting than that one. (So sánh hơn)"
+    ]
+  },
+  "exercises": [
+    {
+      "id": "de1-q1",
+      "section": "ĐỀ 1 - Question 1",
+      "type": "listening",
+      "subtype": "true-false",
+      "title": "Listening - TRUE or FALSE",
+      "instruction": "Nghe đoạn audio và xác định các câu sau đúng (TRUE) hay sai (FALSE)",
+      "audioUrl": "https://vietjack.com/tieng-anh-8-moi/audio/unit-3-ex5.mp3",
+      "audioSource": "Unit 3 - Skills 2",
+      "questions": [
+        {
+          "id": 1,
+          "statement": "Minh feels stressed because his parents force him to study subjects that he is completely bad at.",
+          "answer": "FALSE",
+          "explanation": "Minh cảm thấy căng thẳng vì bố mẹ ép học các môn anh ấy hoàn toàn kém - câu này sai vì trong audio, Minh chỉ căng thẳng về áp lực học tập, không phải vì bị ép học các môn kém."
+        },
+        {
+          "id": 2,
+          "statement": "Minh's parents expect him to achieve good results in both academic subjects and extracurricular activities.",
+          "answer": "TRUE",
+          "explanation": "Bố mẹ Minh kỳ vọng anh ấy đạt kết quả tốt ở cả các môn học và hoạt động ngoại khóa - đây là áp lực chính mà Minh gặp phải."
+        },
+        {
+          "id": 3,
+          "statement": "Ann stopped attending all extra classes after her parents talked to her about their interests.",
+          "answer": "FALSE",
+          "explanation": "Ann ngừng tham gia tất cả các lớp học thêm sau khi bố mẹ nói chuyện về sở thích - câu này sai, Ann không ngừng hẳn mà chỉ giảm bớt."
+        },
+        {
+          "id": 4,
+          "statement": "Ann is satisfied with her body shape and no longer worries about her weight.",
+          "answer": "TRUE",
+          "explanation": "Ann hài lòng với vóc dáng và không còn lo lắng về cân nặng - đúng, Ann đã chấp nhận bản thân."
+        }
+      ],
+      "hints": ["Lắng nghe kỹ về nguyên nhân stress của Minh", "Chú ý từ 'all', 'completely' - từ tuyệt đối"],
+      "points": 25
+    },
+    {
+      "id": "de1-q2",
+      "section": "ĐỀ 1 - Question 2",
+      "type": "listening",
+      "subtype": "fill-blank",
+      "title": "Listening - Fill in the blanks",
+      "instruction": "Nghe và điền từ còn thiếu vào chỗ trống",
+      "audioUrl": "https://vietjack.com/tieng-anh-8-moi/audio/unit-4-ex5.mp3",
+      "audioSource": "Unit 4 - Skills 2",
+      "passage": "Ethnic <strong>(1)_______</strong> children might live life different from that of most Kinh children. They spend some of their time helping their parents inside and outside the house. They learn to work from an early age, usually at six. Girls help look after the house, care for smaller children, weave clothing, and prepare food. Boys learn to do what their fathers do. They grow <strong>(2)_______</strong>, raise the family's livestock, and catch fish.<br><br>In the evening, the family often gathers round the open fire. Children listen to stories or <strong>(3)_______</strong> of heroes from their grandparents. They also listen to adults talk about their work. This is how the elders pass on traditions and <strong>(4)_______</strong> to their children.<br><br>Nowadays, more and more minority children are going to school. There, they meet children from other ethnic groups. They play new games and learn new things.",
+      "questions": [
+        {
+          "id": 1,
+          "answer": "minority",
+          "acceptedAnswers": ["minority"],
+          "hint": "Trẻ em dân tộc thiểu số"
+        },
+        {
+          "id": 2,
+          "answer": "crops",
+          "acceptedAnswers": ["crops"],
+          "hint": "Trồng hoa màu"
+        },
+        {
+          "id": 3,
+          "answer": "legends",
+          "acceptedAnswers": ["legends"],
+          "hint": "Truyền thuyết về anh hùng"
+        },
+        {
+          "id": 4,
+          "answer": "knowledge",
+          "acceptedAnswers": ["knowledge"],
+          "hint": "Kiến thức truyền lại"
+        }
+      ],
+      "hints": ["Từ (1) liên quan đến ethnic group", "Từ (2) là thứ người ta trồng trọt"],
+      "points": 25
+    },
+    {
+      "id": "de1-q3",
+      "section": "ĐỀ 1 - Question 3",
+      "type": "reading-comprehension",
+      "title": "Reading - Fill in the blanks",
+      "passage": [
+        "<strong>Ethnic Markets</strong><br><em>16 – 25 January</em><br>Exhibition of specialities of many ethnic groups featuring vegetables, flowers, crafts, and more. At the ethnic markets, visitors can see and buy (1)______ local products from different ethnic groups. Fresh vegetables, colourful flowers, and handmade crafts are beautifully displayed.",
+        "<strong>Photo Exhibition</strong><br><em>16 – 25 January</em><br>The photo exhibition presents many vivid images of ethnic people in their villages. Through these pictures, visitors can learn more about the simple but (2)_______ life of ethnic communities.",
+        "<strong>Performances</strong><br><em>17 and 24 January</em><br>The performances include more than 20 traditional songs and dances from different ethnic groups. Skilled (3)_______ wear traditional costumes and use ethnic musical instruments.",
+        "<strong>Childhood Fun</strong><br><em>17 – 18 and 24 – 25 January</em><br>This activity offers a great day out for the whole family. Children can enjoy traditional folk games and create simple handicrafts under (4)______ guidance of local artisans."
+      ],
+      "questions": [
+        {
+          "id": 1,
+          "question": "Blank (1): visitors can see and buy ______ local products",
+          "options": ["a wide range for", "a widely range of", "a wide range of", "a widely range for"],
+          "correctIndex": 2,
+          "explanation": "'A wide range of' là cụm từ cố định nghĩa là 'nhiều loại, đa dạng'. 'Wide' là tính từ, không dùng trạng từ 'widely'."
+        },
+        {
+          "id": 2,
+          "question": "Blank (2): the simple but _______ life",
+          "options": ["meaning", "meaningful", "mean", "meaningfully"],
+          "correctIndex": 1,
+          "explanation": "Cần tính từ (adjective) để bổ nghĩa cho danh từ 'life'. 'Meaningful' = có ý nghĩa."
+        },
+        {
+          "id": 3,
+          "question": "Blank (3): Skilled _______ wear traditional costumes",
+          "options": ["performer", "performers", "artisan", "the"],
+          "correctIndex": 1,
+          "explanation": "Cần danh từ số nhiều vì 'wear' không có 's' (động từ số nhiều). 'Performers' = những người biểu diễn."
+        },
+        {
+          "id": 4,
+          "question": "Blank (4): under ______ guidance of local artisans",
+          "options": ["a", "an", "Ø (không có mạo từ)", "the"],
+          "correctIndex": 3,
+          "explanation": "'Under the guidance of' là cụm từ cố định. Dùng 'the' vì 'guidance' được xác định."
+        }
+      ],
+      "hints": ["Chú ý cụm từ cố định", "Xác định từ loại cần điền"],
+      "points": 25
+    },
+    {
+      "id": "de1-q4",
+      "section": "ĐỀ 1 - Question 4",
+      "type": "reading-comprehension",
+      "title": "Reading Comprehension - A Traditional Festival",
+      "passage": [
+        "<strong>A Traditional Festival in My Village</strong>",
+        "I come from a quiet village in northern Viet Nam. Every year, the villagers eagerly wait for a special festival that takes place after Tet. It is a meaningful event that everyone, from children to the elderly, enjoys.",
+        "Early in the morning, people gather along the riverside to take part in exciting activities. One of the most popular events is the rice-cooking contest. Teams must light a fire, cook rice, and complete the task as quickly as possible. Another interesting game is tug of war, where villagers cheer loudly to support their teams.",
+        "Around midday, the elders are invited to the communal house for a traditional meal. At the same time, families return home to prepare their own feasts. We usually make familiar dishes such as banh chung, boiled chicken, and spring rolls.",
+        "The festival is a precious occasion for our village. It allows us to preserve our cultural values, bring people closer together, and create unforgettable memories with our families."
+      ],
+      "questions": [
+        {
+          "id": 1,
+          "question": "Why do the villagers eagerly wait for the festival every year?",
+          "options": [
+            "Because it is held during Tet",
+            "Because it includes international activities",
+            "Because it is a meaningful event enjoyed by people of all ages",
+            "Because it only happens once in a lifetime"
+          ],
+          "correctIndex": 2,
+          "explanation": "Đoạn 1: 'It is a meaningful event that everyone, from children to the elderly, enjoys.'"
+        },
+        {
+          "id": 2,
+          "question": "Which factor determines the winner of the rice-cooking contest?",
+          "options": [
+            "The strength of the team members",
+            "The design of the cooking tools",
+            "Both speed and the quality of cooked rice",
+            "The number of people in each team"
+          ],
+          "correctIndex": 2,
+          "explanation": "Bài nói 'complete the task as quickly as possible' - nhanh nhất + chất lượng cơm."
+        },
+        {
+          "id": 3,
+          "question": "What can be inferred from villagers cheering loudly during the tug of war?",
+          "options": [
+            "The game is difficult to understand",
+            "The villagers are easily distracted",
+            "The event encourages unity and collective participation",
+            "The competition causes conflict"
+          ],
+          "correctIndex": 2,
+          "explanation": "Cổ vũ nhiệt tình → thể hiện tinh thần đoàn kết và tham gia tập thể."
+        },
+        {
+          "id": 4,
+          "question": "Which statement best summarizes the overall message of the passage?",
+          "options": [
+            "Village festivals mainly focus on competitions",
+            "Festivals are expensive and time-consuming",
+            "Traditional festivals play an important role in preserving culture and strengthening social bonds",
+            "Modern life has reduced the value of festivals"
+          ],
+          "correctIndex": 2,
+          "explanation": "Đoạn cuối: 'preserve our cultural values, bring people closer together'."
+        }
+      ],
+      "hints": ["Đọc kỹ đoạn cuối để tìm ý chính"],
+      "points": 25
+    },
+    {
+      "id": "de1-q5-1",
+      "section": "ĐỀ 1 - Question 5",
+      "type": "multiple-choice",
+      "question": "People should protect traditional customs; _______, many cultural values may be lost.",
+      "options": ["Otherwise", "however", "therefore", "although"],
+      "correctIndex": 0,
+      "explanation": "'Otherwise' = nếu không thì (chỉ hậu quả tiêu cực). Nếu không bảo vệ → sẽ mất.",
+      "hints": ["Chú ý nghĩa của liên từ"],
+      "points": 10
+    },
+    {
+      "id": "de1-q5-2",
+      "section": "ĐỀ 1 - Question 5",
+      "type": "multiple-choice",
+      "question": "We stayed in _______ hotel near the river during the festival.",
+      "options": ["a", "an", "the", "Ø"],
+      "correctIndex": 0,
+      "explanation": "'A hotel' - danh từ đếm được số ít, chưa xác định. 'Hotel' phát âm /həʊˈtel/ → dùng 'a'.",
+      "hints": ["Mạo từ a/an dựa vào âm đầu"],
+      "points": 10
+    },
+    {
+      "id": "de1-q5-3",
+      "section": "ĐỀ 1 - Question 5",
+      "type": "multiple-choice",
+      "question": "He usually goes _______ the buffaloes with other boys in his village.",
+      "options": ["herd", "to herd", "herded", "herding"],
+      "correctIndex": 3,
+      "explanation": "'Go + V-ing' cho hoạt động thường xuyên: go swimming, go fishing, go herding (đi chăn trâu).",
+      "hints": ["Cấu trúc go + V-ing"],
+      "points": 10
+    },
+    {
+      "id": "de1-q5-4",
+      "section": "ĐỀ 1 - Question 5",
+      "type": "multiple-choice",
+      "question": "Mai: 'I'm really worried about the English test tomorrow.'<br>Lan: '_______'",
+      "options": [
+        "I am worried too because the test is quite difficult.",
+        "I studied English last night and finished all my exercises.",
+        "Don't worry. I'm sure you'll do well in the test.",
+        "I think the English test will be held tomorrow morning."
+      ],
+      "correctIndex": 2,
+      "explanation": "Khi ai đó lo lắng, ta nên động viên họ. 'Don't worry. I'm sure you'll do well'.",
+      "hints": ["Chọn câu động viên phù hợp"],
+      "points": 10
+    },
+    {
+      "id": "de1-q6-1",
+      "section": "ĐỀ 1 - Question 6",
+      "type": "sentence-rewrite",
+      "original": "We will go camping unless it rains.",
+      "instruction": "Viết lại câu sao cho nghĩa không đổi",
+      "starterText": "If it",
+      "answer": "If it rains, we won't go camping.",
+      "acceptedAnswers": [
+        "If it rains, we won't go camping.",
+        "If it rains, we won't go camping",
+        "If it rains, we will not go camping.",
+        "If it rains, we will not go camping",
+        "If it doesn't rain, we will go camping.",
+        "If it doesn't rain, we will go camping",
+        "If it doesn't rain, we'll go camping.",
+        "If it doesn't rain, we'll go camping",
+        "If it does not rain, we will go camping.",
+        "If it does not rain, we will go camping",
+        "If it does not rain, we'll go camping.",
+        "If it does not rain, we'll go camping"
+      ],
+      "explanation": "Unless = If...not. 'Unless it rains' = 'If it doesn't rain' → đổi lại.",
+      "hints": ["Unless + khẳng định = If + phủ định"],
+      "points": 10
+    },
+    {
+      "id": "de1-q6-2",
+      "section": "ĐỀ 1 - Question 6",
+      "type": "sentence-rewrite",
+      "original": "You won't pass the exam unless you study hard.",
+      "instruction": "Viết lại câu sao cho nghĩa không đổi",
+      "starterText": "If you",
+      "answer": "If you don't study hard, you won't pass the exam.",
+      "acceptedAnswers": [
+        "If you don't study hard, you won't pass the exam.",
+        "If you don't study hard, you won't pass the exam",
+        "If you do not study hard, you won't pass the exam.",
+        "If you do not study hard, you will not pass the exam.",
+        "If you do not study hard, you won't pass the exam",
+        "If you do not study hard, you will not pass the exam",
+        "If you don't study hard, you will not pass the exam.",
+        "If you don't study hard, you will not pass the exam",
+        "If you don't study hard you won't pass the exam.",
+        "If you don't study hard you won't pass the exam",
+        "If you don't study hard you will not pass the exam.",
+        "If you don't study hard you will not pass the exam",
+        "If you do not study hard you won't pass the exam.",
+        "If you do not study hard you will not pass the exam.",
+        "If you study hard, you will pass the exam.",
+        "If you study hard, you will pass the exam",
+        "If you study hard, you'll pass the exam.",
+        "If you study hard, you'll pass the exam"
+      ],
+      "explanation": "'Unless you study hard' = 'If you don't study hard'. Hoặc dùng câu khẳng định: 'If you study hard, you will pass'.",
+      "hints": ["Đảo mệnh đề và đổi unless → if...not"],
+      "points": 10
+    },
+    {
+      "id": "de1-q6-3",
+      "section": "ĐỀ 1 - Question 6",
+      "type": "sentence-rewrite",
+      "original": "Unless she hurries, she will miss the bus.",
+      "instruction": "Viết lại câu sao cho nghĩa không đổi",
+      "starterText": "If she",
+      "answer": "If she doesn't hurry, she will miss the bus.",
+      "acceptedAnswers": [
+        "If she doesn't hurry, she will miss the bus.",
+        "If she doesn't hurry, she will miss the bus",
+        "If she does not hurry, she will miss the bus.",
+        "If she does not hurry, she will miss the bus",
+        "If she doesn't hurry, she'll miss the bus.",
+        "If she doesn't hurry, she'll miss the bus",
+        "If she does not hurry, she'll miss the bus.",
+        "If she does not hurry, she'll miss the bus",
+        "If she doesn't hurry she will miss the bus.",
+        "If she doesn't hurry she will miss the bus",
+        "If she doesn't hurry she'll miss the bus.",
+        "If she doesn't hurry she'll miss the bus",
+        "If she does not hurry she will miss the bus.",
+        "If she does not hurry she'll miss the bus.",
+        "If she hurries, she won't miss the bus.",
+        "If she hurries, she won't miss the bus",
+        "If she hurries, she will not miss the bus.",
+        "If she hurries, she will not miss the bus"
+      ],
+      "explanation": "'Unless she hurries' = 'If she doesn't hurry'. Hoặc dùng câu khẳng định: 'If she hurries, she won't miss the bus'. Chú ý ngôi 3 số ít.",
+      "hints": ["Unless + V khẳng định = If + V phủ định"],
+      "points": 10
+    },
+    {
+      "id": "de1-q6-4",
+      "section": "ĐỀ 1 - Question 6",
+      "type": "sentence-rewrite",
+      "original": "Unless they invite me, I won't go to the party.",
+      "instruction": "Viết lại câu sao cho nghĩa không đổi",
+      "starterText": "If they",
+      "answer": "If they don't invite me, I won't go to the party.",
+      "acceptedAnswers": [
+        "If they don't invite me, I won't go to the party.",
+        "If they don't invite me, I won't go to the party",
+        "If they do not invite me, I won't go to the party.",
+        "If they do not invite me, I will not go to the party.",
+        "If they do not invite me, I won't go to the party",
+        "If they do not invite me, I will not go to the party",
+        "If they don't invite me, I will not go to the party.",
+        "If they don't invite me, I will not go to the party",
+        "If they don't invite me I won't go to the party.",
+        "If they don't invite me I won't go to the party",
+        "If they don't invite me I will not go to the party.",
+        "If they don't invite me I will not go to the party",
+        "If they do not invite me I won't go to the party.",
+        "If they do not invite me I will not go to the party.",
+        "If they invite me, I will go to the party.",
+        "If they invite me, I will go to the party",
+        "If they invite me, I'll go to the party.",
+        "If they invite me, I'll go to the party"
+      ],
+      "explanation": "Thay unless bằng if...not. Hoặc dùng câu khẳng định: 'If they invite me, I will go'.",
+      "hints": ["Giữ nguyên mệnh đề chính"],
+      "points": 10
+    },
+    {
+      "id": "de1-q7-1",
+      "section": "ĐỀ 1 - Question 7",
+      "type": "fill-blank",
+      "question": "If my dad (have)_______ time, he (drive)_______ us to school.",
+      "answer": "has, will drive",
+      "acceptedAnswers": ["has, will drive", "has - will drive", "has/will drive", "has will drive"],
+      "explanation": "Câu điều kiện loại 1: If + S + V(s/es), S + will + V. 'My dad' ngôi 3 số ít → 'has'.",
+      "hints": ["Câu điều kiện loại 1"],
+      "points": 10
+    },
+    {
+      "id": "de1-q7-2",
+      "section": "ĐỀ 1 - Question 7",
+      "type": "fill-blank",
+      "question": "They (not pass)_______ the exam unless they (study)_______ harder.",
+      "answer": "won't pass, study",
+      "acceptedAnswers": ["won't pass, study", "will not pass, study", "won't pass - study"],
+      "explanation": "Unless + V khẳng định, S + will/won't + V.",
+      "hints": ["Unless đi với động từ khẳng định"],
+      "points": 10
+    },
+    {
+      "id": "de1-q7-3",
+      "section": "ĐỀ 1 - Question 7",
+      "type": "fill-blank",
+      "question": "This festival is _______ (interesting) than the one held last year.",
+      "answer": "more interesting",
+      "acceptedAnswers": ["more interesting"],
+      "explanation": "So sánh hơn tính từ dài: more + adj. 'Interesting' có 4 âm tiết → more interesting.",
+      "hints": ["Tính từ dài: more + adj + than"],
+      "points": 10
+    },
+    {
+      "id": "de1-q7-4",
+      "section": "ĐỀ 1 - Question 7",
+      "type": "fill-blank",
+      "question": "People work _______ (careful) during the competition than usual.",
+      "answer": "more carefully",
+      "acceptedAnswers": ["more carefully"],
+      "explanation": "So sánh hơn trạng từ: more + adv. 'Carefully' là trạng từ → more carefully.",
+      "hints": ["Trạng từ: more + adv + than"],
+      "points": 10
+    },
+    {
+      "id": "de1-q8-1",
+      "section": "ĐỀ 1 - Question 8",
+      "type": "sentence-build",
+      "prompt": "culture/ diversity/ ethnic groups/ Vietnam/ be/ reflected/ their festival/ traditional costumes/ daily lifestyles",
+      "instructions": "Viết câu hoàn chỉnh từ các từ gợi ý",
+      "answer": "The cultural diversity of ethnic groups in Vietnam is reflected in their festivals, traditional costumes, and daily lifestyles.",
+      "acceptedAnswers": [
+        "The cultural diversity of ethnic groups in Vietnam is reflected in their festivals, traditional costumes, and daily lifestyles.",
+        "The cultural diversity of ethnic groups in Vietnam is reflected in their festivals, traditional costumes and daily lifestyles."
+      ],
+      "explanation": "Cấu trúc bị động: be reflected in. 'Cultural diversity' = đa dạng văn hóa.",
+      "hints": ["V-ing/V3 làm chủ ngữ", "Cấu trúc bị động"],
+      "points": 10
+    },
+    {
+      "id": "de1-q8-2",
+      "section": "ĐỀ 1 - Question 8",
+      "type": "sentence-build",
+      "prompt": "People/ usually/ spend/ their leisure time/ do/ activity/ they/ enjoy/ after/ busy/ day",
+      "instructions": "Viết câu hoàn chỉnh từ các từ gợi ý",
+      "answer": "People usually spend their leisure time doing activities they enjoy after a busy day.",
+      "acceptedAnswers": [
+        "People usually spend their leisure time doing activities they enjoy after a busy day.",
+        "People usually spend their leisure time doing activities they enjoy after a busy day"
+      ],
+      "explanation": "Cấu trúc: spend time + V-ing. 'Leisure time' = thời gian rảnh.",
+      "hints": ["spend time + V-ing"],
+      "points": 10
+    },
+    {
+      "id": "de1-q8-3",
+      "section": "ĐỀ 1 - Question 8",
+      "type": "sentence-build",
+      "prompt": "Teenager/ often/ experience/ physical/ emotion/ change/ as/ they/ grow/ adulthood",
+      "instructions": "Viết câu hoàn chỉnh từ các từ gợi ý",
+      "answer": "Teenagers often experience physical and emotional changes as they grow into adulthood.",
+      "acceptedAnswers": [
+        "Teenagers often experience physical and emotional changes as they grow into adulthood.",
+        "Teenagers often experience physical and emotional changes as they grow into adulthood"
+      ],
+      "explanation": "Từ vựng: experience (trải nghiệm), adulthood (tuổi trưởng thành).",
+      "hints": ["grow into = trưởng thành thành"],
+      "points": 10
+    },
+    {
+      "id": "de1-q8-4",
+      "section": "ĐỀ 1 - Question 8",
+      "type": "sentence-build",
+      "prompt": "Live/ countryside/ help/ people/ relax/ appreciate/ tradition/ value",
+      "instructions": "Viết câu hoàn chỉnh từ các từ gợi ý",
+      "answer": "Living in the countryside helps people relax and appreciate traditional values.",
+      "acceptedAnswers": [
+        "Living in the countryside helps people relax and appreciate traditional values.",
+        "Living in the countryside helps people relax and appreciate traditional values"
+      ],
+      "explanation": "Cấu trúc: V-ing làm chủ ngữ + V(số ít). 'Appreciate' = trân trọng.",
+      "hints": ["V-ing làm chủ ngữ"],
+      "points": 10
+    },
+    {
+      "id": "de2-q1",
+      "section": "ĐỀ 2 - Question 1",
+      "type": "listening",
+      "subtype": "true-false",
+      "title": "Listening - TRUE or FALSE",
+      "instruction": "Nghe đoạn audio và xác định các câu sau đúng (TRUE) hay sai (FALSE)",
+      "audioUrl": "https://vietjack.com/tieng-anh-8-moi/audio/unit-3-ex5.mp3",
+      "audioSource": "Unit 3 - Online Learning",
+      "questions": [
+        {
+          "id": 1,
+          "statement": "Online lessons never cause any discomfort according to Chris.",
+          "answer": "FALSE",
+          "explanation": "'Never cause ANY discomfort' quá tuyệt đối. Học online vẫn có thể gây khó chịu."
+        },
+        {
+          "id": 2,
+          "statement": "Chris thinks online learning saves time in the morning.",
+          "answer": "TRUE",
+          "explanation": "Học online không cần di chuyển → tiết kiệm thời gian buổi sáng."
+        },
+        {
+          "id": 3,
+          "statement": "Technology has no influence on how people live and work, according to Mai.",
+          "answer": "FALSE",
+          "explanation": "'No influence' sai hoàn toàn. Công nghệ có ảnh hưởng rất lớn."
+        },
+        {
+          "id": 4,
+          "statement": "Mai believes online lessons allow her to interact fully with her teachers.",
+          "answer": "FALSE",
+          "explanation": "Mai tin rằng học online KHÔNG cho phép tương tác đầy đủ. 'Fully' là từ chìa khóa."
+        }
+      ],
+      "hints": ["Chú ý các từ tuyệt đối: never, any, no, fully"],
+      "points": 25
+    },
+    {
+      "id": "de2-q2",
+      "section": "ĐỀ 2 - Question 2",
+      "type": "listening",
+      "subtype": "fill-blank",
+      "title": "Listening - Fill in the blanks",
+      "instruction": "Nghe và điền từ còn thiếu vào chỗ trống",
+      "audioUrl": "https://vietjack.com/tieng-anh-8-moi/audio/unit-4-ex5.mp3",
+      "audioSource": "Unit 4 - Life in the Countryside",
+      "passage": "My grandparents live in the <strong>(1)_________</strong>. Every year, I spend my whole summer <strong>(2)_________</strong> with them. There are many things I like about life there like the open space, the friendly villagers and the traditional <strong>(3)_________</strong> children play. There is one thing which is very different from city life. That is the village open-air market where the villagers sell their <strong>(4)_________</strong> or home-grown products.",
+      "questions": [
+        {
+          "id": 1,
+          "answer": "countryside",
+          "acceptedAnswers": ["countryside"],
+          "hint": "Vùng quê"
+        },
+        {
+          "id": 2,
+          "answer": "holiday",
+          "acceptedAnswers": ["holiday", "vacation", "holidays"],
+          "hint": "Kỳ nghỉ"
+        },
+        {
+          "id": 3,
+          "answer": "games",
+          "acceptedAnswers": ["games"],
+          "hint": "Trò chơi"
+        },
+        {
+          "id": 4,
+          "answer": "fruits",
+          "acceptedAnswers": ["fruits", "products", "fruit"],
+          "hint": "Sản phẩm"
+        }
+      ],
+      "hints": ["Ngữ cảnh về cuộc sống nông thôn"],
+      "points": 25
+    },
+    {
+      "id": "de2-q3",
+      "section": "ĐỀ 2 - Question 3",
+      "type": "reading-comprehension",
+      "title": "Reading - Fill in the blanks (Alaska)",
+      "passage": [
+        "Alaska, the largest state in the United States, offers a unique way of life that many visitors find fascinating. Despite its vast area of nearly 1.7 million square kilometres, Alaska has a relatively small (1)_________.",
+        "(2)_________ native communities in Alaska continue to preserve their cultural heritage. Traditional skills such as fishing, hunting, and (3)_________ handmade tools are still practised today. Each ethnic group has its own customs, stories, and celebrations, which are passed down through generations. Tourists can learn about (4)_________ traditions by visiting local villages, cultural centres, and historical exhibitions."
+      ],
+      "questions": [
+        {
+          "id": 1,
+          "question": "Blank (1): Alaska has a relatively small _________",
+          "options": ["pollution", "pollutions", "populations", "population"],
+          "correctIndex": 3,
+          "explanation": "'Population' = dân số (danh từ không đếm được). 'Small population' = dân số ít."
+        },
+        {
+          "id": 2,
+          "question": "Blank (2): _________ native communities in Alaska",
+          "options": ["Many", "Much", "A lot", "A"],
+          "correctIndex": 0,
+          "explanation": "'Many' + danh từ đếm được số nhiều. 'Communities' là số nhiều → Many."
+        },
+        {
+          "id": 3,
+          "question": "Blank (3): fishing, hunting, and _________ handmade tools",
+          "options": ["make", "making", "do", "doing"],
+          "correctIndex": 1,
+          "explanation": "Cấu trúc song song: fishing, hunting, and making (đều là V-ing)."
+        },
+        {
+          "id": 4,
+          "question": "Blank (4): learn about _________ traditions",
+          "options": ["These", "This", "That", "another"],
+          "correctIndex": 0,
+          "explanation": "'These' + danh từ số nhiều. 'Traditions' là số nhiều → These (chỉ về các truyền thống đã đề cập ở câu trước)."
+        }
+      ],
+      "hints": ["Xác định từ loại cần điền", "Chú ý cấu trúc song song"],
+      "points": 25
+    },
+    {
+      "id": "de2-q4",
+      "section": "ĐỀ 2 - Question 4",
+      "type": "reading-comprehension",
+      "title": "Reading Comprehension - Alaska",
+      "passage": [
+        "If you go to the American state of Alaska, you might find the traditional lifestyle there interesting. Although Alaska is quite large, with nearly 1.7 million square kilometres, it has a small population of about 730,000.",
+        "The native peoples in Alaska still maintain many of their traditions. They keep their old ways of making arts and crafts alive. Various native groups have their own special styles of carving or weaving as well as their unique tribal dances and drumming.",
+        "Alaska is also known for its unusual method of transport - the dogsled. Today, dog sledding (= mushing) is more of a sport than a true means of transport. The best-known race is the Iditarod Trail Sled Dog Race, a 1,510 km race from Anchorage to Nome."
+      ],
+      "questions": [
+        {
+          "id": 1,
+          "question": "What does the word 'there' in the first sentence refer to?",
+          "options": [
+            "The United States",
+            "The traditional lifestyle",
+            "The American state of Alaska",
+            "The population of Alaska"
+          ],
+          "correctIndex": 2,
+          "explanation": "'There' trong câu đầu chỉ nơi chốn vừa nhắc đến = 'the American state of Alaska'."
+        },
+        {
+          "id": 2,
+          "question": "The phrase 'keep their old ways alive' is closest in meaning to:",
+          "options": [
+            "Change their traditions to suit modern life",
+            "Continue practising traditional activities",
+            "Teach visitors about modern culture",
+            "Store traditional objects in museums"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Keep their old ways alive' = giữ cho cách làm cũ còn sống = tiếp tục thực hành."
+        },
+        {
+          "id": 3,
+          "question": "Which activity is NOT mentioned as part of Alaska Native traditions?",
+          "options": [
+            "Carving and weaving",
+            "Tribal dances and drumming",
+            "Making arts and crafts",
+            "Training dogs for sled races"
+          ],
+          "correctIndex": 3,
+          "explanation": "Dog sledding được nói là 'more of a sport' (thể thao) → KHÔNG phải truyền thống."
+        },
+        {
+          "id": 4,
+          "question": "According to the passage, what is the main purpose of the Iditarod Trail Sled Dog Race?",
+          "options": [
+            "It is mainly a sporting event today",
+            "It is the main method of transport in Alaska",
+            "It helps preserve native traditions",
+            "It connects Anchorage to Nome for daily travel"
+          ],
+          "correctIndex": 0,
+          "explanation": "Bài viết nói 'dog sledding is more of a sport than a true means of transport' → chủ yếu là thể thao."
+        }
+      ],
+      "hints": ["Chú ý đại từ 'there' chỉ gì", "Phân biệt tradition và sport"],
+      "points": 25
+    },
+    {
+      "id": "de2-q5-1",
+      "section": "ĐỀ 2 - Question 5",
+      "type": "multiple-choice",
+      "question": "There are _______ apples left in the fridge, so we can make a small pie.",
+      "options": ["a few", "a little", "much", "an"],
+      "correctIndex": 0,
+      "explanation": "'A few' + danh từ đếm được số nhiều (apples). 'A little' dùng với không đếm được.",
+      "hints": ["A few + đếm được"],
+      "points": 10
+    },
+    {
+      "id": "de2-q5-2",
+      "section": "ĐỀ 2 - Question 5",
+      "type": "multiple-choice",
+      "question": "Tet is an occasion for family _______ in Viet Nam.",
+      "options": ["visiting", "meeting", "seeing", "reunions"],
+      "correctIndex": 3,
+      "explanation": "'Family reunions' = sum họp gia đình - cụm từ cố định.",
+      "hints": ["Cụm từ cố định với family"],
+      "points": 10
+    },
+    {
+      "id": "de2-q5-3",
+      "section": "ĐỀ 2 - Question 5",
+      "type": "multiple-choice",
+      "question": "People in the countryside live _______ than those in the city.",
+      "options": ["happy", "happily", "more happily", "less happy"],
+      "correctIndex": 2,
+      "explanation": "So sánh hơn với trạng từ: more + adv + than. 'Live' cần trạng từ.",
+      "hints": ["Trạng từ bổ nghĩa cho động từ"],
+      "points": 10
+    },
+    {
+      "id": "de2-q5-4",
+      "section": "ĐỀ 2 - Question 5",
+      "type": "multiple-choice",
+      "question": "Find the mistake: Legends relate to history because they are based on <u>history</u> events and heroes.",
+      "options": ["history (→ historical)", "because", "are based on", "heroes"],
+      "correctIndex": 0,
+      "explanation": "Cần tính từ 'historical' bổ nghĩa cho danh từ 'events'. 'History' là danh từ.",
+      "hints": ["Tính từ đứng trước danh từ"],
+      "points": 10
+    },
+    {
+      "id": "de2-q6-1",
+      "section": "ĐỀ 2 - Question 6",
+      "type": "sentence-rewrite",
+      "original": "I won't know the result if he doesn't call me.",
+      "instruction": "Viết lại câu sao cho nghĩa không đổi",
+      "starterText": "Unless he",
+      "answer": "Unless he calls me, I won't know the result.",
+      "acceptedAnswers": [
+        "Unless he calls me, I won't know the result.",
+        "Unless he calls me, I won't know the result",
+        "Unless he calls me, I will not know the result.",
+        "Unless he calls me, I will not know the result"
+      ],
+      "explanation": "If + phủ định → Unless + khẳng định.",
+      "hints": ["If...doesn't → Unless"],
+      "points": 10
+    },
+    {
+      "id": "de2-q6-2",
+      "section": "ĐỀ 2 - Question 6",
+      "type": "sentence-rewrite",
+      "original": "If we don't leave now, we will be late.",
+      "instruction": "Viết lại câu sao cho nghĩa không đổi",
+      "starterText": "Unless we",
+      "answer": "Unless we leave now, we will be late.",
+      "acceptedAnswers": [
+        "Unless we leave now, we will be late.",
+        "Unless we leave now, we will be late",
+        "Unless we leave now, we'll be late.",
+        "Unless we leave now, we'll be late"
+      ],
+      "explanation": "Bỏ 'don't', thay 'if' bằng 'unless'.",
+      "hints": ["Bỏ phủ định khi dùng unless"],
+      "points": 10
+    },
+    {
+      "id": "de2-q6-3",
+      "section": "ĐỀ 2 - Question 6",
+      "type": "sentence-rewrite",
+      "original": "If she doesn't apologize, I won't talk to her.",
+      "instruction": "Viết lại câu sao cho nghĩa không đổi",
+      "starterText": "Unless she",
+      "answer": "Unless she apologizes, I won't talk to her.",
+      "acceptedAnswers": [
+        "Unless she apologizes, I won't talk to her.",
+        "Unless she apologizes, I won't talk to her",
+        "Unless she apologizes, I will not talk to her.",
+        "Unless she apologizes, I will not talk to her"
+      ],
+      "explanation": "'If she doesn't apologize' = 'Unless she apologizes'.",
+      "hints": ["apologize = xin lỗi"],
+      "points": 10
+    },
+    {
+      "id": "de2-q6-4",
+      "section": "ĐỀ 2 - Question 6",
+      "type": "sentence-rewrite",
+      "original": "The machine won't work if he doesn't follow the instructions.",
+      "instruction": "Viết lại câu sao cho nghĩa không đổi",
+      "starterText": "Unless he",
+      "answer": "Unless he follows the instructions, the machine won't work.",
+      "acceptedAnswers": [
+        "Unless he follows the instructions, the machine won't work.",
+        "Unless he follows the instructions, the machine won't work",
+        "Unless he follows the instructions, the machine will not work.",
+        "Unless he follows the instructions, the machine will not work"
+      ],
+      "explanation": "Đổi 'if...doesn't' thành 'unless'. 'Instructions' = hướng dẫn.",
+      "hints": ["Đổi thứ tự mệnh đề nếu cần"],
+      "points": 10
+    },
+    {
+      "id": "de2-q7-1",
+      "section": "ĐỀ 2 - Question 7",
+      "type": "fill-blank",
+      "question": "I don't fancy (get)_______ up so early in the morning.",
+      "answer": "getting",
+      "acceptedAnswers": ["getting"],
+      "explanation": "Cấu trúc: fancy + V-ing = thích làm gì. 'Get up' = thức dậy.",
+      "hints": ["fancy + V-ing"],
+      "points": 10
+    },
+    {
+      "id": "de2-q7-2",
+      "section": "ĐỀ 2 - Question 7",
+      "type": "fill-blank",
+      "question": "Life in the countryside is (peaceful)_______ than life in the city.",
+      "answer": "more peaceful",
+      "acceptedAnswers": ["more peaceful"],
+      "explanation": "So sánh hơn: peaceful → more peaceful.",
+      "hints": ["Tính từ dài: more + adj"],
+      "points": 10
+    },
+    {
+      "id": "de2-q7-3",
+      "section": "ĐỀ 2 - Question 7",
+      "type": "fill-blank",
+      "question": "She behaves (polite)_______ when talking to older people.",
+      "answer": "politely",
+      "acceptedAnswers": ["politely"],
+      "explanation": "Cần trạng từ bổ nghĩa cho động từ 'behaves'. polite → politely.",
+      "hints": ["Trạng từ: adj + ly"],
+      "points": 10
+    },
+    {
+      "id": "de2-q7-4",
+      "section": "ĐỀ 2 - Question 7",
+      "type": "fill-blank",
+      "question": "I (not forget)_______ to finish my homework tonight.",
+      "answer": "won't forget",
+      "acceptedAnswers": ["won't forget", "will not forget"],
+      "explanation": "Thì tương lai đơn với 'tonight'.",
+      "hints": ["tonight = tương lai"],
+      "points": 10
+    },
+    {
+      "id": "de2-q8-1",
+      "section": "ĐỀ 2 - Question 8",
+      "type": "sentence-build",
+      "prompt": "Tip / be/ not/ custom/ Vietnam/ you/ do/ have/ tip/ if/ you/ don't/ want/ to",
+      "instructions": "Viết câu hoàn chỉnh từ các từ gợi ý",
+      "answer": "Tipping is not a custom in Vietnam; you don't have to tip if you don't want to.",
+      "acceptedAnswers": [
+        "Tipping is not a custom in Vietnam; you don't have to tip if you don't want to.",
+        "Tipping is not a custom in Vietnam, you don't have to tip if you don't want to."
+      ],
+      "explanation": "V-ing làm chủ ngữ. 'Tip' (v/n) = tiền boa.",
+      "hints": ["V-ing làm chủ ngữ"],
+      "points": 10
+    },
+    {
+      "id": "de2-q8-2",
+      "section": "ĐỀ 2 - Question 8",
+      "type": "sentence-build",
+      "prompt": "We/ have/ take/ our/ shoes/ we/ go/ inside/ pagoda",
+      "instructions": "Viết câu hoàn chỉnh từ các từ gợi ý",
+      "answer": "We have to take off our shoes when we go inside a pagoda.",
+      "acceptedAnswers": [
+        "We have to take off our shoes when we go inside a pagoda.",
+        "We have to take off our shoes when we go inside a pagoda",
+        "We have to take our shoes off when we go inside a pagoda."
+      ],
+      "explanation": "Have to + V. Phrasal verb: take off (cởi ra). 'Pagoda' = chùa.",
+      "hints": ["have to = phải"],
+      "points": 10
+    },
+    {
+      "id": "de2-q8-3",
+      "section": "ĐỀ 2 - Question 8",
+      "type": "sentence-build",
+      "prompt": "We/ should/ use/ chopstick/ spoon/ proper/ eat/ other",
+      "instructions": "Viết câu hoàn chỉnh từ các từ gợi ý",
+      "answer": "We should use chopsticks and spoons properly when eating with others.",
+      "acceptedAnswers": [
+        "We should use chopsticks and spoons properly when eating with others.",
+        "We should use chopsticks and spoons properly when eating with others"
+      ],
+      "explanation": "Modal verb: should (nên). 'Properly' = đúng cách.",
+      "hints": ["should + V nguyên mẫu"],
+      "points": 10
+    },
+    {
+      "id": "de2-q8-4",
+      "section": "ĐỀ 2 - Question 8",
+      "type": "sentence-build",
+      "prompt": "Problem/ friend/ or/ society/ relationship/ also/ make/ teenager/ feel/ stress",
+      "instructions": "Viết câu hoàn chỉnh từ các từ gợi ý",
+      "answer": "Problems with friends or social relationships also make teenagers feel stressed.",
+      "acceptedAnswers": [
+        "Problems with friends or social relationships also make teenagers feel stressed.",
+        "Problems with friends or social relationships also make teenagers feel stressed"
+      ],
+      "explanation": "Cấu trúc: make + O + V/adj. 'Stressed' = căng thẳng (tính từ).",
+      "hints": ["make + O + adj"],
+      "points": 10
+    }
+  ]
+}

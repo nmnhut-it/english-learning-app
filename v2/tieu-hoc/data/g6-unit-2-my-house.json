@@ -1,0 +1,1762 @@
+{
+  "unitId": "g6-unit-2-my-house",
+  "title": "Unit 2: My House - Possessive 's, There is/are, Prepositions",
+  "studentName": "Tran Gia Hung",
+  "grade": 6,
+  "grammarTopics": [
+    "Possessive 's",
+    "There is / There are",
+    "Prepositions of Place",
+    "House Vocabulary"
+  ],
+  "theory": {
+    "brief": "Sở hữu cách 's dùng để chỉ cái gì đó của ai: <ai đó>'s <cái gì>. Ví dụ: Hoa's father (cha của Hoa). Cấu trúc 'There is/are' dùng để nói về sự tồn tại: There is + a/an + N (số ít), There are + số lượng + N (số nhiều). Giới từ chỉ vị trí: in (trong), on (trên), next to (bên cạnh), behind (phía sau), in front of (phía trước), under (dưới), between (giữa).",
+    "examples": [
+      "This is Nick's room. (Đây là phòng của Nick.)",
+      "There is a TV in the living room. (Có một cái TV trong phòng khách.)",
+      "There are two bedrooms in the house. (Có hai phòng ngủ trong nhà.)",
+      "The cat is under the table. (Con mèo ở dưới bàn.)",
+      "The lamp is next to the bed. (Cái đèn ở bên cạnh giường.)"
+    ]
+  },
+  "exercises": [
+    {
+      "id": "g6u2-ex1",
+      "type": "fill-blank",
+      "question": "This is _______ (Nick) room.",
+      "wordHint": "(Nick)",
+      "answer": "Nick's",
+      "acceptedAnswers": [
+        "Nick's"
+      ],
+      "hints": [
+        "Dùng sở hữu cách: thêm 's sau tên người"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u2-ex2",
+      "type": "fill-blank",
+      "question": "My _______ (grandmother) house is in Hanoi.",
+      "wordHint": "(grandmother)",
+      "answer": "grandmother's",
+      "acceptedAnswers": [
+        "grandmother's"
+      ],
+      "hints": [
+        "Sở hữu cách: grandmother's = của bà"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u2-ex3",
+      "type": "fill-blank",
+      "question": "Where is your _______ (sister) desk?",
+      "wordHint": "(sister)",
+      "answer": "sister's",
+      "acceptedAnswers": [
+        "sister's"
+      ],
+      "hints": [
+        "Thêm 's sau sister để chỉ cái gì đó của chị/em gái"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u2-ex4",
+      "type": "fill-blank",
+      "question": "This is my _______ (cousin) bag.",
+      "wordHint": "(cousin)",
+      "answer": "cousin's",
+      "acceptedAnswers": [
+        "cousin's"
+      ],
+      "hints": [
+        "cousin's = của anh/chị em họ"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u2-ex5",
+      "type": "fill-blank",
+      "question": "My _______ (dad) car is very big.",
+      "wordHint": "(dad)",
+      "answer": "dad's",
+      "acceptedAnswers": [
+        "dad's",
+        "father's"
+      ],
+      "hints": [
+        "Sở hữu cách: dad's hoặc father's"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u2-ex6",
+      "type": "fill-blank",
+      "question": "There _______ a TV in the living room.",
+      "wordHint": "is/are",
+      "answer": "is",
+      "acceptedAnswers": [
+        "is"
+      ],
+      "hints": [
+        "Dùng 'is' với danh từ số ít 'a TV'"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u2-ex7",
+      "type": "fill-blank",
+      "question": "There _______ two bedrooms in my house.",
+      "wordHint": "is/are",
+      "answer": "are",
+      "acceptedAnswers": [
+        "are"
+      ],
+      "hints": [
+        "Dùng 'are' với danh từ số nhiều 'two bedrooms'"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u2-ex8",
+      "type": "fill-blank",
+      "question": "There _______ a kitchen and a bathroom in the flat.",
+      "wordHint": "is/are",
+      "answer": "is",
+      "acceptedAnswers": [
+        "is"
+      ],
+      "hints": [
+        "Dùng 'is' vì danh từ đầu tiên là số ít 'a kitchen'"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u2-ex9",
+      "type": "fill-blank",
+      "question": "There _______ four rooms in the house.",
+      "wordHint": "is/are",
+      "answer": "are",
+      "acceptedAnswers": [
+        "are"
+      ],
+      "hints": [
+        "Dùng 'are' với 'four rooms' - số nhiều"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u2-ex10",
+      "type": "fill-blank",
+      "question": "There _______ a big window in my bedroom.",
+      "wordHint": "is/are",
+      "answer": "is",
+      "acceptedAnswers": [
+        "is"
+      ],
+      "hints": [
+        "Dùng 'is' với 'a big window' - số ít"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u2-ex11",
+      "type": "fill-blank",
+      "question": "The cat is _______ the table.",
+      "wordHint": "dưới",
+      "answer": "under",
+      "acceptedAnswers": [
+        "under"
+      ],
+      "hints": [
+        "'under' = ở dưới"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u2-ex12",
+      "type": "fill-blank",
+      "question": "The lamp is _______ the bed.",
+      "wordHint": "bên cạnh",
+      "answer": "next to",
+      "acceptedAnswers": [
+        "next to",
+        "beside"
+      ],
+      "hints": [
+        "'next to' hoặc 'beside' = bên cạnh"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u2-ex13",
+      "type": "fill-blank",
+      "question": "The TV is _______ the door.",
+      "wordHint": "phía sau",
+      "answer": "behind",
+      "acceptedAnswers": [
+        "behind"
+      ],
+      "hints": [
+        "'behind' = phía sau"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u2-ex14",
+      "type": "fill-blank",
+      "question": "The picture is _______ the wall.",
+      "wordHint": "trên",
+      "answer": "on",
+      "acceptedAnswers": [
+        "on"
+      ],
+      "hints": [
+        "'on' = trên (dùng với tường, bàn)"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u2-ex15",
+      "type": "fill-blank",
+      "question": "The dog is _______ the two chairs.",
+      "wordHint": "giữa",
+      "answer": "between",
+      "acceptedAnswers": [
+        "between"
+      ],
+      "hints": [
+        "'between' = ở giữa (hai vật)"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u2-ex16",
+      "type": "fill-blank",
+      "question": "The desk is _______ the window.",
+      "wordHint": "phía trước",
+      "answer": "in front of",
+      "acceptedAnswers": [
+        "in front of"
+      ],
+      "hints": [
+        "'in front of' = ở phía trước"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u2-ex17",
+      "type": "multiple-choice",
+      "question": "How many rooms are there _______ your house?",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "under"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dùng 'in' với nhà, phòng (in your house, in the room)",
+      "hints": [
+        "Giới từ chỉ vị trí trong không gian"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u2-ex18",
+      "type": "multiple-choice",
+      "question": "This is _______ teacher's desk.",
+      "options": [
+        "my",
+        "mine",
+        "I",
+        "me"
+      ],
+      "correctIndex": 0,
+      "explanation": "'my' là tính từ sở hữu, đứng trước danh từ",
+      "hints": [
+        "Cần tính từ sở hữu trước danh từ 'teacher'"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u2-ex19",
+      "type": "multiple-choice",
+      "question": "There _______ a sofa in the living room.",
+      "options": [
+        "is",
+        "are",
+        "be",
+        "am"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dùng 'is' với danh từ số ít 'a sofa'",
+      "hints": [
+        "Chú ý danh từ số ít hay số nhiều"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u2-ex20",
+      "type": "multiple-choice",
+      "question": "The wardrobe is _______ to the bed.",
+      "options": [
+        "next",
+        "near",
+        "between",
+        "under"
+      ],
+      "correctIndex": 0,
+      "explanation": "'next to' = bên cạnh",
+      "hints": [
+        "Cụm từ 'next to' nghĩa là bên cạnh"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u2-ex21",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "Nick's room is very big.",
+        "Nick's room is very big"
+      ],
+      "hints": [
+        "Cấu trúc: Chủ ngữ + động từ to be + tính từ"
+      ],
+      "points": 15,
+      "correctSentence": "Nick's room is very big.",
+      "words": [
+        "room",
+        "is",
+        "Nick's",
+        "big",
+        "very"
+      ]
+    },
+    {
+      "id": "g6u2-ex22",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "There are five rooms in my house.",
+        "There are five rooms in my house"
+      ],
+      "hints": [
+        "Cấu trúc: There are + số lượng + danh từ + in + địa điểm"
+      ],
+      "points": 15,
+      "correctSentence": "There are five rooms in my house.",
+      "words": [
+        "are",
+        "in",
+        "there",
+        "rooms",
+        "house",
+        "my",
+        "five"
+      ]
+    },
+    {
+      "id": "g6u2-ex23",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "The cat is under the table.",
+        "The cat is under the table"
+      ],
+      "hints": [
+        "Cấu trúc: Chủ ngữ + is + giới từ + danh từ"
+      ],
+      "points": 15,
+      "correctSentence": "The cat is under the table.",
+      "words": [
+        "the",
+        "under",
+        "cat",
+        "is",
+        "table",
+        "the"
+      ]
+    },
+    {
+      "id": "g6u2-ex24",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "The lamp is next to the bed.",
+        "The lamp is next to the bed"
+      ],
+      "hints": [
+        "Giới từ 'next to' = bên cạnh"
+      ],
+      "points": 15,
+      "correctSentence": "The lamp is next to the bed.",
+      "words": [
+        "is",
+        "lamp",
+        "next",
+        "the",
+        "bed",
+        "to",
+        "the"
+      ]
+    },
+    {
+      "id": "g6u2-ex25",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "My grandmother's house is in Nam Dinh.",
+        "My grandmother's house is in Nam Dinh"
+      ],
+      "hints": [
+        "Sở hữu cách: my grandmother's house"
+      ],
+      "points": 15,
+      "correctSentence": "My grandmother's house is in Nam Dinh.",
+      "words": [
+        "grandmother's",
+        "in",
+        "house",
+        "my",
+        "is",
+        "Nam Dinh"
+      ]
+    },
+    {
+      "id": "g6u2-ex26",
+      "type": "multiple-choice",
+      "question": "_______ bedroom is very big.",
+      "options": [
+        "Tom",
+        "Toms",
+        "Tom's",
+        "Toms'"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sở hữu cách: Tom's = của Tom",
+      "hints": [
+        "Thêm 's sau tên người"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u2-ex27",
+      "type": "multiple-choice",
+      "question": "There _______ a sofa and two chairs in the room.",
+      "options": [
+        "is",
+        "are",
+        "be",
+        "am"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dùng 'is' vì danh từ đầu tiên là 'a sofa' (số ít)",
+      "hints": [
+        "Chia động từ theo danh từ đầu tiên"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u2-ex28",
+      "type": "multiple-choice",
+      "question": "The books are _______ the shelf.",
+      "options": [
+        "on",
+        "in",
+        "at",
+        "between"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dùng 'on' với bề mặt kệ",
+      "hints": [
+        "Sách ở trên kệ"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u2-ex29",
+      "type": "multiple-choice",
+      "question": "My _______ computer is new.",
+      "options": [
+        "father",
+        "fathers",
+        "father's",
+        "fathers'"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sở hữu cách: father's = của bố",
+      "hints": [
+        "Cần sở hữu cách"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u2-ex30",
+      "type": "multiple-choice",
+      "question": "There _______ any pictures on the wall.",
+      "options": [
+        "isn't",
+        "aren't",
+        "is not",
+        "am not"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dùng 'aren't' với danh từ số nhiều 'pictures'",
+      "hints": [
+        "Pictures là số nhiều"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u2-ex31",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "The bag is under the chair.",
+        "The bag is under the chair"
+      ],
+      "hints": [
+        "Chủ ngữ + is + giới từ + danh từ"
+      ],
+      "points": 15,
+      "correctSentence": "The bag is under the chair.",
+      "words": [
+        "is",
+        "the",
+        "bag",
+        "under",
+        "chair",
+        "the"
+      ]
+    },
+    {
+      "id": "g6u2-ex32",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "My books are on the desk.",
+        "My books are on the desk"
+      ],
+      "hints": [
+        "Tính từ sở hữu + danh từ + động từ"
+      ],
+      "points": 15,
+      "correctSentence": "My books are on the desk.",
+      "words": [
+        "books",
+        "are",
+        "my",
+        "on",
+        "desk",
+        "the"
+      ]
+    },
+    {
+      "id": "g6u2-ex33",
+      "type": "multiple-choice",
+      "question": "The clock is _______ the wall.",
+      "options": [
+        "in",
+        "on",
+        "under",
+        "behind"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đồng hồ treo trên tường dùng 'on'",
+      "hints": [
+        "Đồng hồ treo trên tường"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u2-ex34",
+      "type": "multiple-choice",
+      "question": "_______ is a big garden in front of the house.",
+      "options": [
+        "This",
+        "That",
+        "There",
+        "It"
+      ],
+      "correctIndex": 2,
+      "explanation": "Dùng 'There is' để nói về sự tồn tại",
+      "hints": [
+        "Có một khu vườn..."
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u2-ex35",
+      "type": "multiple-choice",
+      "question": "The dog is sleeping _______ the sofa.",
+      "options": [
+        "on",
+        "in",
+        "at",
+        "between"
+      ],
+      "correctIndex": 0,
+      "explanation": "Chó nằm trên ghế sofa dùng 'on'",
+      "hints": [
+        "Trên bề mặt ghế"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u2-ex36",
+      "type": "fill-blank",
+      "question": "This is my _______ (teacher) office.",
+      "wordHint": "(teacher)",
+      "answer": "teacher's",
+      "acceptedAnswers": [
+        "teacher's"
+      ],
+      "hints": [
+        "Văn phòng của giáo viên"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u2-ex37",
+      "type": "fill-blank",
+      "question": "The _______ (children) toys are in the box.",
+      "wordHint": "(children)",
+      "answer": "children's",
+      "acceptedAnswers": [
+        "children's"
+      ],
+      "hints": [
+        "children là danh từ số nhiều bất quy tắc"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u2-ex38",
+      "type": "multiple-choice",
+      "question": "There _______ three bedrooms upstairs.",
+      "options": [
+        "is",
+        "are",
+        "be",
+        "am"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dùng 'are' với 'three bedrooms' - số nhiều",
+      "hints": [
+        "Three bedrooms là số nhiều"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u2-ex39",
+      "type": "multiple-choice",
+      "question": "The mirror is _______ the bathroom.",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "under"
+      ],
+      "correctIndex": 0,
+      "explanation": "Gương ở trong phòng tắm dùng 'in'",
+      "hints": [
+        "Trong phòng tắm"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u2-ex40",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "There are two cupboards in the kitchen.",
+        "There are two cupboards in the kitchen"
+      ],
+      "hints": [
+        "There are + số lượng + danh từ + in + địa điểm"
+      ],
+      "points": 15,
+      "correctSentence": "There are two cupboards in the kitchen.",
+      "words": [
+        "in",
+        "are",
+        "kitchen",
+        "the",
+        "there",
+        "cupboards",
+        "two"
+      ]
+    },
+    {
+      "id": "g6u2-ex41",
+      "type": "multiple-choice",
+      "question": "The chair is _______ the desk and the bed.",
+      "options": [
+        "between",
+        "in",
+        "on",
+        "under"
+      ],
+      "correctIndex": 0,
+      "explanation": "'between' = ở giữa hai vật",
+      "hints": [
+        "Ở giữa hai vật"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u2-ex42",
+      "type": "multiple-choice",
+      "question": "_______ school is near my house.",
+      "options": [
+        "My friend",
+        "My friends",
+        "My friend's",
+        "My friends'"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sở hữu cách: my friend's = của bạn tôi",
+      "hints": [
+        "Trường của bạn tôi"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u2-ex43",
+      "type": "fill-blank",
+      "question": "The rug is _______ the floor.",
+      "wordHint": "trên",
+      "answer": "on",
+      "acceptedAnswers": [
+        "on"
+      ],
+      "hints": [
+        "Thảm nằm trên sàn"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u2-ex44",
+      "type": "multiple-choice",
+      "question": "There _______ a big fridge in the kitchen.",
+      "options": [
+        "is",
+        "are",
+        "be",
+        "am"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dùng 'is' với danh từ số ít 'a big fridge'",
+      "hints": [
+        "A big fridge là số ít"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u2-ex45",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "The wardrobe is next to the bed.",
+        "The wardrobe is next to the bed"
+      ],
+      "hints": [
+        "next to = bên cạnh"
+      ],
+      "points": 15,
+      "correctSentence": "The wardrobe is next to the bed.",
+      "words": [
+        "wardrobe",
+        "is",
+        "next",
+        "bed",
+        "the",
+        "to",
+        "the"
+      ]
+    },
+    {
+      "id": "g6u2-ex46",
+      "type": "multiple-choice",
+      "question": "The poster is _______ the door.",
+      "options": [
+        "above",
+        "under",
+        "in",
+        "between"
+      ],
+      "correctIndex": 0,
+      "explanation": "'above' = ở phía trên (poster trên cửa)",
+      "hints": [
+        "Poster ở phía trên cửa"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u2-ex47",
+      "type": "multiple-choice",
+      "question": "_______ are many flowers in the garden.",
+      "options": [
+        "This",
+        "That",
+        "There",
+        "It"
+      ],
+      "correctIndex": 2,
+      "explanation": "'There are' để nói về sự tồn tại của nhiều vật",
+      "hints": [
+        "Có nhiều hoa..."
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u2-ex48",
+      "type": "fill-blank",
+      "question": "My _______ (parents) bedroom is upstairs.",
+      "wordHint": "(parents)",
+      "answer": "parents'",
+      "acceptedAnswers": [
+        "parents'"
+      ],
+      "hints": [
+        "Parents đã có 's', chỉ cần thêm '"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u2-ex49",
+      "type": "multiple-choice",
+      "question": "The toys are _______ the box.",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "next"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đồ chơi ở trong hộp dùng 'in'",
+      "hints": [
+        "Trong hộp"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u2-ex50",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "There is a tree behind the house.",
+        "There is a tree behind the house"
+      ],
+      "hints": [
+        "There is + a/an + N + giới từ"
+      ],
+      "points": 15,
+      "correctSentence": "There is a tree behind the house.",
+      "words": [
+        "behind",
+        "tree",
+        "is",
+        "house",
+        "the",
+        "a",
+        "there"
+      ]
+    },
+    {
+      "id": "g6u2-ex51",
+      "type": "multiple-choice",
+      "question": "The vase is _______ the table.",
+      "options": [
+        "on",
+        "in",
+        "under",
+        "behind"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bình hoa ở trên bàn dùng 'on'",
+      "hints": [
+        "Trên bề mặt bàn"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u2-ex52",
+      "type": "multiple-choice",
+      "question": "This is _______ new bike.",
+      "options": [
+        "Anna",
+        "Annas",
+        "Anna's",
+        "Annas'"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sở hữu cách: Anna's = của Anna",
+      "hints": [
+        "Xe đạp của Anna"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u2-ex53",
+      "type": "fill-blank",
+      "question": "There _______ six windows in my living room.",
+      "wordHint": "is/are",
+      "answer": "are",
+      "acceptedAnswers": [
+        "are"
+      ],
+      "hints": [
+        "Six windows là số nhiều"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u2-ex54",
+      "type": "multiple-choice",
+      "question": "The shoes are _______ the bed.",
+      "options": [
+        "under",
+        "on",
+        "in",
+        "above"
+      ],
+      "correctIndex": 0,
+      "explanation": "Giày ở dưới giường dùng 'under'",
+      "hints": [
+        "Dưới giường"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u2-ex55",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "The car is in front of the house.",
+        "The car is in front of the house"
+      ],
+      "hints": [
+        "in front of = phía trước"
+      ],
+      "points": 15,
+      "correctSentence": "The car is in front of the house.",
+      "words": [
+        "front",
+        "car",
+        "in",
+        "is",
+        "the",
+        "of",
+        "house",
+        "the"
+      ]
+    },
+    {
+      "id": "g6u2-ex56",
+      "type": "multiple-choice",
+      "question": "There _______ a bathroom downstairs.",
+      "options": [
+        "is",
+        "are",
+        "be",
+        "am"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dùng 'is' với 'a bathroom' - số ít",
+      "hints": [
+        "A bathroom là số ít"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u2-ex57",
+      "type": "multiple-choice",
+      "question": "The curtains are _______ the window.",
+      "options": [
+        "on",
+        "in",
+        "at",
+        "above"
+      ],
+      "correctIndex": 0,
+      "explanation": "Rèm cửa ở trên cửa sổ dùng 'on'",
+      "hints": [
+        "Rèm trên cửa sổ"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u2-ex58",
+      "type": "fill-blank",
+      "question": "My _______ (uncle) house has a swimming pool.",
+      "wordHint": "(uncle)",
+      "answer": "uncle's",
+      "acceptedAnswers": [
+        "uncle's"
+      ],
+      "hints": [
+        "Nhà của chú/bác"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u2-ex59",
+      "type": "multiple-choice",
+      "question": "The fan is _______ the ceiling.",
+      "options": [
+        "on",
+        "in",
+        "under",
+        "behind"
+      ],
+      "correctIndex": 0,
+      "explanation": "Quạt trên trần nhà dùng 'on'",
+      "hints": [
+        "Trên trần nhà"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u2-ex60",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "There is a big bookshelf in my bedroom.",
+        "There is a big bookshelf in my bedroom"
+      ],
+      "hints": [
+        "There is + a + tính từ + danh từ"
+      ],
+      "points": 15,
+      "correctSentence": "There is a big bookshelf in my bedroom.",
+      "words": [
+        "bookshelf",
+        "there",
+        "big",
+        "is",
+        "bedroom",
+        "a",
+        "in",
+        "my"
+      ]
+    },
+    {
+      "id": "g6u2-ex61",
+      "type": "multiple-choice",
+      "question": "The pillows are _______ the bed.",
+      "options": [
+        "on",
+        "in",
+        "at",
+        "between"
+      ],
+      "correctIndex": 0,
+      "explanation": "Gối ở trên giường dùng 'on'",
+      "hints": [
+        "Trên giường"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u2-ex62",
+      "type": "multiple-choice",
+      "question": "_______ many photos on the shelf.",
+      "options": [
+        "There is",
+        "There are",
+        "There be",
+        "There am"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dùng 'There are' với 'many photos' - số nhiều",
+      "hints": [
+        "Many photos là số nhiều"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u2-ex63",
+      "type": "fill-blank",
+      "question": "The garden is _______ the house.",
+      "wordHint": "phía sau",
+      "answer": "behind",
+      "acceptedAnswers": [
+        "behind"
+      ],
+      "hints": [
+        "behind = phía sau"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u2-ex64",
+      "type": "multiple-choice",
+      "question": "My _______ laptop is on the desk.",
+      "options": [
+        "brother",
+        "brothers",
+        "brother's",
+        "brothers'"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sở hữu cách: brother's = của anh/em trai",
+      "hints": [
+        "Laptop của anh trai"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u2-ex65",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "There is a big table in the dining room.",
+        "There is a big table in the dining room"
+      ],
+      "hints": [
+        "There is + a + adj + N + in + place"
+      ],
+      "points": 15,
+      "correctSentence": "There is a big table in the dining room.",
+      "words": [
+        "dining",
+        "there",
+        "room",
+        "table",
+        "a",
+        "is",
+        "big",
+        "the",
+        "in"
+      ]
+    },
+    {
+      "id": "g6u2-ex66",
+      "type": "multiple-choice",
+      "question": "The waste basket is _______ the desk.",
+      "options": [
+        "next to",
+        "in",
+        "on",
+        "above"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sọt rác ở bên cạnh bàn dùng 'next to'",
+      "hints": [
+        "Bên cạnh bàn"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u2-ex67",
+      "type": "multiple-choice",
+      "question": "There _______ a beautiful garden and a garage.",
+      "options": [
+        "is",
+        "are",
+        "be",
+        "am"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dùng 'is' vì danh từ đầu tiên là 'a garden' - số ít",
+      "hints": [
+        "Chia theo danh từ đầu tiên"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u2-ex68",
+      "type": "fill-blank",
+      "question": "The paintings are _______ the walls.",
+      "wordHint": "trên",
+      "answer": "on",
+      "acceptedAnswers": [
+        "on"
+      ],
+      "hints": [
+        "Tranh treo trên tường"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u2-ex69",
+      "type": "multiple-choice",
+      "question": "The remote control is _______ the TV and the vase.",
+      "options": [
+        "between",
+        "in",
+        "on",
+        "under"
+      ],
+      "correctIndex": 0,
+      "explanation": "'between' = ở giữa hai vật",
+      "hints": [
+        "Ở giữa hai vật"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u2-ex70",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "There is a beautiful picture on the wall.",
+        "There is a beautiful picture on the wall"
+      ],
+      "hints": [
+        "There is + a + adj + N + on + place"
+      ],
+      "points": 15,
+      "correctSentence": "There is a beautiful picture on the wall.",
+      "words": [
+        "is",
+        "picture",
+        "there",
+        "beautiful",
+        "wall",
+        "a",
+        "the",
+        "on"
+      ]
+    },
+    {
+      "id": "g6u2-ex71",
+      "type": "multiple-choice",
+      "question": "_______ cat is sleeping on the sofa.",
+      "options": [
+        "Linda",
+        "Lindas",
+        "Linda's",
+        "Lindas'"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sở hữu cách: Linda's = của Linda",
+      "hints": [
+        "Con mèo của Linda"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u2-ex72",
+      "type": "multiple-choice",
+      "question": "The window is _______ the door.",
+      "options": [
+        "next to",
+        "in",
+        "at",
+        "under"
+      ],
+      "correctIndex": 0,
+      "explanation": "'next to' = bên cạnh",
+      "hints": [
+        "Cửa sổ bên cạnh cửa"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u2-ex73",
+      "type": "fill-blank",
+      "question": "There _______ four chairs around the table.",
+      "wordHint": "is/are",
+      "answer": "are",
+      "acceptedAnswers": [
+        "are"
+      ],
+      "hints": [
+        "Four chairs là số nhiều"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u2-ex74",
+      "type": "multiple-choice",
+      "question": "The slippers are _______ the bed.",
+      "options": [
+        "under",
+        "on",
+        "in",
+        "above"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dép ở dưới giường dùng 'under'",
+      "hints": [
+        "Dưới giường"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u2-ex75",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "There is a big TV in my living room.",
+        "There is a big TV in my living room"
+      ],
+      "hints": [
+        "There is + a + adj + N + in + place"
+      ],
+      "points": 15,
+      "correctSentence": "There is a big TV in my living room.",
+      "words": [
+        "room",
+        "living",
+        "is",
+        "my",
+        "in",
+        "there",
+        "TV",
+        "a",
+        "big"
+      ]
+    },
+    {
+      "id": "g6u2-ex76",
+      "type": "multiple-choice",
+      "question": "The calendar is _______ the wall.",
+      "options": [
+        "on",
+        "in",
+        "at",
+        "under"
+      ],
+      "correctIndex": 0,
+      "explanation": "Lịch treo trên tường dùng 'on'",
+      "hints": [
+        "Treo trên tường"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u2-ex77",
+      "type": "multiple-choice",
+      "question": "_______ isn't a dishwasher in the kitchen.",
+      "options": [
+        "This",
+        "That",
+        "There",
+        "It"
+      ],
+      "correctIndex": 2,
+      "explanation": "'There isn't' để nói không có cái gì đó",
+      "hints": [
+        "Không có máy rửa bát"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u2-ex78",
+      "type": "fill-blank",
+      "question": "My _______ (neighbor) dog is very friendly.",
+      "wordHint": "(neighbor)",
+      "answer": "neighbor's",
+      "acceptedAnswers": [
+        "neighbor's",
+        "neighbour's"
+      ],
+      "hints": [
+        "Con chó của hàng xóm"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u2-ex79",
+      "type": "multiple-choice",
+      "question": "The keys are _______ the drawer.",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "above"
+      ],
+      "correctIndex": 0,
+      "explanation": "Chìa khóa ở trong ngăn kéo dùng 'in'",
+      "hints": [
+        "Trong ngăn kéo"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u2-ex80",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "There is a big clock on the wall.",
+        "There is a big clock on the wall"
+      ],
+      "hints": [
+        "There is + a + adj + N + on + place"
+      ],
+      "points": 15,
+      "correctSentence": "There is a big clock on the wall.",
+      "words": [
+        "is",
+        "clock",
+        "there",
+        "big",
+        "wall",
+        "the",
+        "a",
+        "on"
+      ]
+    },
+    {
+      "id": "g6u2-ex81",
+      "type": "multiple-choice",
+      "question": "The computer is _______ the desk.",
+      "options": [
+        "on",
+        "in",
+        "under",
+        "behind"
+      ],
+      "correctIndex": 0,
+      "explanation": "Máy tính ở trên bàn dùng 'on'",
+      "hints": [
+        "Trên bàn"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u2-ex82",
+      "type": "multiple-choice",
+      "question": "There _______ many trees in the park.",
+      "options": [
+        "is",
+        "are",
+        "be",
+        "am"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dùng 'are' với 'many trees' - số nhiều",
+      "hints": [
+        "Many trees là số nhiều"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u2-ex83",
+      "type": "fill-blank",
+      "question": "The staircase is _______ the hall.",
+      "wordHint": "trong",
+      "answer": "in",
+      "acceptedAnswers": [
+        "in"
+      ],
+      "hints": [
+        "Cầu thang ở trong hành lang"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u2-ex84",
+      "type": "multiple-choice",
+      "question": "_______ pencils are in the pencil case.",
+      "options": [
+        "Sarah",
+        "Sarahs",
+        "Sarah's",
+        "Sarahs'"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sở hữu cách: Sarah's = của Sarah",
+      "hints": [
+        "Bút chì của Sarah"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u2-ex85",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "There are two cars in the garage.",
+        "There are two cars in the garage"
+      ],
+      "hints": [
+        "There are + số lượng + N + in + place"
+      ],
+      "points": 15,
+      "correctSentence": "There are two cars in the garage.",
+      "words": [
+        "garage",
+        "in",
+        "are",
+        "two",
+        "there",
+        "cars",
+        "the"
+      ]
+    },
+    {
+      "id": "g6u2-ex86",
+      "type": "multiple-choice",
+      "question": "The towels are _______ the bathroom.",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "under"
+      ],
+      "correctIndex": 0,
+      "explanation": "Khăn tắm ở trong phòng tắm dùng 'in'",
+      "hints": [
+        "Trong phòng tắm"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u2-ex87",
+      "type": "multiple-choice",
+      "question": "The ball is _______ the chair and the table.",
+      "options": [
+        "between",
+        "in",
+        "on",
+        "above"
+      ],
+      "correctIndex": 0,
+      "explanation": "'between' = ở giữa hai vật",
+      "hints": [
+        "Ở giữa hai vật"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u2-ex88",
+      "type": "fill-blank",
+      "question": "There _______ a microwave in the kitchen.",
+      "wordHint": "is/are",
+      "answer": "is",
+      "acceptedAnswers": [
+        "is"
+      ],
+      "hints": [
+        "A microwave là số ít"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u2-ex89",
+      "type": "multiple-choice",
+      "question": "The flowers are _______ the vase.",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "under"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hoa ở trong bình dùng 'in'",
+      "hints": [
+        "Trong bình"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u2-ex90",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "There is some old furniture in the attic.",
+        "There is some old furniture in the attic"
+      ],
+      "hints": [
+        "There is + some + adj + N + in + place"
+      ],
+      "points": 15,
+      "correctSentence": "There is some old furniture in the attic.",
+      "words": [
+        "attic",
+        "is",
+        "old",
+        "in",
+        "there",
+        "furniture",
+        "the",
+        "some"
+      ]
+    },
+    {
+      "id": "g6u2-ex91",
+      "type": "multiple-choice",
+      "question": "My _______ glasses are on the nightstand.",
+      "options": [
+        "grandfather",
+        "grandfathers",
+        "grandfather's",
+        "grandfathers'"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sở hữu cách: grandfather's = của ông",
+      "hints": [
+        "Kính của ông"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u2-ex92",
+      "type": "multiple-choice",
+      "question": "The plant is _______ the corner.",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "under"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cây ở trong góc phòng dùng 'in'",
+      "hints": [
+        "Trong góc"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u2-ex93",
+      "type": "fill-blank",
+      "question": "There _______ seven days in a week.",
+      "wordHint": "is/are",
+      "answer": "are",
+      "acceptedAnswers": [
+        "are"
+      ],
+      "hints": [
+        "Seven days là số nhiều"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u2-ex94",
+      "type": "multiple-choice",
+      "question": "The magazines are _______ the coffee table.",
+      "options": [
+        "on",
+        "in",
+        "at",
+        "between"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tạp chí ở trên bàn cà phê dùng 'on'",
+      "hints": [
+        "Trên bàn"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u2-ex95",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "There is a big mirror in the bathroom.",
+        "There is a big mirror in the bathroom"
+      ],
+      "hints": [
+        "There is + a + adj + N + in + place"
+      ],
+      "points": 15,
+      "correctSentence": "There is a big mirror in the bathroom.",
+      "words": [
+        "bathroom",
+        "mirror",
+        "is",
+        "big",
+        "there",
+        "the",
+        "a",
+        "in"
+      ]
+    },
+    {
+      "id": "g6u2-ex96",
+      "type": "multiple-choice",
+      "question": "The bicycle is _______ the garage.",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "above"
+      ],
+      "correctIndex": 0,
+      "explanation": "Xe đạp ở trong gara dùng 'in'",
+      "hints": [
+        "Trong gara"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u2-ex97",
+      "type": "multiple-choice",
+      "question": "_______ aren't any cookies in the jar.",
+      "options": [
+        "This",
+        "That",
+        "There",
+        "It"
+      ],
+      "correctIndex": 2,
+      "explanation": "'There aren't' để nói không có (số nhiều)",
+      "hints": [
+        "Không có bánh quy"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u2-ex98",
+      "type": "fill-blank",
+      "question": "The _______ (students) bags are in the classroom.",
+      "wordHint": "(students)",
+      "answer": "students'",
+      "acceptedAnswers": [
+        "students'"
+      ],
+      "hints": [
+        "Students đã có 's', chỉ cần thêm '"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u2-ex99",
+      "type": "multiple-choice",
+      "question": "The blanket is _______ the bed.",
+      "options": [
+        "on",
+        "in",
+        "at",
+        "under"
+      ],
+      "correctIndex": 0,
+      "explanation": "Chăn ở trên giường dùng 'on'",
+      "hints": [
+        "Trên giường"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u2-ex100",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "There is a beautiful balcony in my house.",
+        "There is a beautiful balcony in my house"
+      ],
+      "hints": [
+        "There is + a + adj + N + in + place"
+      ],
+      "points": 15,
+      "correctSentence": "There is a beautiful balcony in my house.",
+      "words": [
+        "house",
+        "there",
+        "my",
+        "balcony",
+        "is",
+        "beautiful",
+        "a",
+        "in"
+      ]
+    }
+  ]
+}

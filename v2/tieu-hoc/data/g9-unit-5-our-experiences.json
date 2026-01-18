@@ -1,0 +1,351 @@
+{
+  "unitId": "g9-unit-5-our-experiences",
+  "title": "Grade 9 - Unit 5: Our Experiences",
+  "grammarTopics": ["Present Perfect Tense"],
+  "theory": {
+    "brief": "Unit 5 học về thì hiện tại hoàn thành (Present Perfect) dùng để diễn tả: (1) Hành động đã hoàn thành nhưng không xác định rõ thời gian, (2) Hành động bắt đầu trong quá khứ và còn tiếp tục ở hiện tại, (3) Kinh nghiệm trong quá khứ. Cấu trúc: S + have/has + V3/ed",
+    "examples": [
+      "I have finished my homework. (Tôi đã hoàn thành bài tập.)",
+      "She has lived here for 5 years. (Cô ấy đã sống ở đây được 5 năm.)",
+      "Have you ever been to Japan? (Bạn đã từng đến Nhật Bản chưa?)",
+      "They have just visited Da Lat. (Họ vừa mới thăm Đà Lạt.)"
+    ]
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "type": "multiple-choice",
+      "question": "I __________ an eco-tour to Mount Langbiang.",
+      "options": ["have taken", "has taken", "took", "take"],
+      "correctIndex": 0,
+      "explanation": "Dùng Present Perfect với 'have' + V3 để diễn tả kinh nghiệm",
+      "hints": ["Dùng have + V3 với chủ ngữ 'I'"],
+      "points": 10
+    },
+    {
+      "id": 2,
+      "type": "multiple-choice",
+      "question": "She __________ many photos of the magnificent scenery.",
+      "options": ["has took", "have taken", "has taken", "taken"],
+      "correctIndex": 2,
+      "explanation": "Dùng 'has' với chủ ngữ số ít + V3 (taken)",
+      "hints": ["Chủ ngữ 'She' đi với 'has'"],
+      "points": 10
+    },
+    {
+      "id": 3,
+      "type": "multiple-choice",
+      "question": "They __________ never __________ a gong show before.",
+      "options": ["have / see", "has / seen", "have / saw", "have / seen"],
+      "correctIndex": 3,
+      "explanation": "Never đi với Present Perfect: have + never + V3",
+      "hints": ["Never là dấu hiệu của Present Perfect"],
+      "points": 10
+    },
+    {
+      "id": 4,
+      "type": "multiple-choice",
+      "question": "__________ you ever __________ to Cu Lan Village?",
+      "options": ["Do / go", "Did / go", "Have / been", "Has / been"],
+      "correctIndex": 2,
+      "explanation": "Ever dùng trong câu hỏi Present Perfect: Have + S + ever + V3?",
+      "hints": ["Ever dùng với Have + V3"],
+      "points": 10
+    },
+    {
+      "id": 5,
+      "type": "multiple-choice",
+      "question": "We __________ just __________ from our trip to Da Lat.",
+      "options": ["have / return", "has / returned", "have / returned", "had / returned"],
+      "correctIndex": 2,
+      "explanation": "Just là dấu hiệu Present Perfect: have/has + just + V3",
+      "hints": ["Just đi với have + V3"],
+      "points": 10
+    },
+    {
+      "id": 6,
+      "type": "multiple-choice",
+      "question": "Tom __________ many thrilling rides in his life.",
+      "options": ["has experienced", "have experienced", "experienced", "experiences"],
+      "correctIndex": 0,
+      "explanation": "Kinh nghiệm trong đời dùng Present Perfect với 'has'",
+      "hints": ["Chủ ngữ 'Tom' đi với 'has'"],
+      "points": 10
+    },
+    {
+      "id": 7,
+      "type": "multiple-choice",
+      "question": "I __________ this area for 10 years.",
+      "options": ["have explored", "has explored", "explore", "explored"],
+      "correctIndex": 0,
+      "explanation": "'For + khoảng thời gian' dùng với Present Perfect",
+      "hints": ["For 10 years là dấu hiệu Present Perfect"],
+      "points": 10
+    },
+    {
+      "id": 8,
+      "type": "multiple-choice",
+      "question": "She __________ a jeep to the top of the mountain yet.",
+      "options": ["hasn't ridden", "haven't ridden", "didn't ride", "doesn't ride"],
+      "correctIndex": 0,
+      "explanation": "Yet trong câu phủ định: hasn't/haven't + V3 + yet",
+      "hints": ["Yet đi với Present Perfect phủ định"],
+      "points": 10
+    },
+    {
+      "id": 9,
+      "type": "multiple-choice",
+      "question": "How long __________ you __________ English?",
+      "options": ["do / study", "did / study", "have / studied", "has / studied"],
+      "correctIndex": 2,
+      "explanation": "'How long' hỏi về thời gian kéo dài dùng Present Perfect",
+      "hints": ["How long + have/has + S + V3"],
+      "points": 10
+    },
+    {
+      "id": 10,
+      "type": "multiple-choice",
+      "question": "They __________ in this village since 2010.",
+      "options": ["have lived", "has lived", "lived", "live"],
+      "correctIndex": 0,
+      "explanation": "'Since + mốc thời gian' dùng với Present Perfect",
+      "hints": ["Since 2010 là dấu hiệu Present Perfect"],
+      "points": 10
+    },
+    {
+      "id": 11,
+      "type": "multiple-choice",
+      "question": "Mi __________ already __________ the flora and fauna there.",
+      "options": ["has / see", "have / seen", "has / saw", "has / seen"],
+      "correctIndex": 3,
+      "explanation": "Already đi với Present Perfect: has + already + V3",
+      "hints": ["Already là dấu hiệu Present Perfect"],
+      "points": 10
+    },
+    {
+      "id": 12,
+      "type": "multiple-choice",
+      "question": "__________ he __________ the stream yet?",
+      "options": ["Do / explore", "Did / explore", "Has / explored", "Have / explored"],
+      "correctIndex": 2,
+      "explanation": "Yet trong câu hỏi: Has/Have + S + V3 + yet?",
+      "hints": ["Yet đi với Has/Have + V3"],
+      "points": 10
+    },
+    {
+      "id": 13,
+      "type": "multiple-choice",
+      "question": "We __________ three amazing experiences this month.",
+      "options": ["have had", "has had", "had", "have"],
+      "correctIndex": 0,
+      "explanation": "'This month' (tháng này) dùng với Present Perfect",
+      "hints": ["This month chỉ thời gian đến hiện tại"],
+      "points": 10
+    },
+    {
+      "id": 14,
+      "type": "multiple-choice",
+      "question": "She __________ never __________ such magnificent scenery.",
+      "options": ["has / saw", "have / seen", "has / seen", "had / seen"],
+      "correctIndex": 2,
+      "explanation": "Never với Present Perfect: has/have + never + V3",
+      "hints": ["Never đi với has + V3"],
+      "points": 10
+    },
+    {
+      "id": 15,
+      "type": "multiple-choice",
+      "question": "I __________ to dance with local people many times.",
+      "options": ["have wanted", "has wanted", "want", "wanted"],
+      "correctIndex": 0,
+      "explanation": "'Many times' (nhiều lần) dùng với Present Perfect",
+      "hints": ["Many times là dấu hiệu Present Perfect"],
+      "points": 10
+    },
+    {
+      "id": 16,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["I", "have", "just", "returned", "from", "an", "eco-tour"],
+      "distractors": ["returned", "returning", "return"],
+      "correctSentence": "I have just returned from an eco-tour",
+      "acceptedAnswers": [
+        "I have just returned from an eco-tour",
+        "I have just returned from an eco-tour."
+      ],
+      "hints": ["Just đi với have + V3"],
+      "points": 10
+    },
+    {
+      "id": 17,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["She", "has", "visited", "Mount", "Langbiang", "twice"],
+      "distractors": ["visit", "visiting", "visits"],
+      "correctSentence": "She has visited Mount Langbiang twice",
+      "acceptedAnswers": [
+        "She has visited Mount Langbiang twice",
+        "She has visited Mount Langbiang twice."
+      ],
+      "hints": ["Twice (2 lần) dùng với Present Perfect"],
+      "points": 10
+    },
+    {
+      "id": 18,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["They", "have", "never", "seen", "a", "gong", "show", "before"],
+      "distractors": ["saw", "see", "seeing"],
+      "correctSentence": "They have never seen a gong show before",
+      "acceptedAnswers": [
+        "They have never seen a gong show before",
+        "They have never seen a gong show before."
+      ],
+      "hints": ["Never đi với have + V3"],
+      "points": 10
+    },
+    {
+      "id": 19,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["Have", "you", "ever", "been", "to", "Cu", "Lan", "Village"],
+      "distractors": ["go", "went", "gone"],
+      "correctSentence": "Have you ever been to Cu Lan Village",
+      "acceptedAnswers": [
+        "Have you ever been to Cu Lan Village",
+        "Have you ever been to Cu Lan Village?",
+        "Have you ever been to Cu Lan Village."
+      ],
+      "hints": ["Ever dùng trong câu hỏi Present Perfect"],
+      "points": 10
+    },
+    {
+      "id": 20,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["We", "have", "lived", "here", "for", "five", "years"],
+      "distractors": ["live", "lived", "living"],
+      "correctSentence": "We have lived here for five years",
+      "acceptedAnswers": [
+        "We have lived here for five years",
+        "We have lived here for five years."
+      ],
+      "hints": ["For + khoảng thời gian dùng Present Perfect"],
+      "points": 10
+    },
+    {
+      "id": 21,
+      "type": "multiple-choice",
+      "question": "Tom __________ already __________ many pictures of the scenery.",
+      "options": ["has / take", "have / taken", "has / taken", "had / taken"],
+      "correctIndex": 2,
+      "explanation": "Already: has + already + V3",
+      "hints": ["Already đi giữa has và V3"],
+      "points": 10
+    },
+    {
+      "id": 22,
+      "type": "multiple-choice",
+      "question": "__________ she __________ riding a horse?",
+      "options": ["Do / finish", "Did / finish", "Has / finished", "Have / finished"],
+      "correctIndex": 2,
+      "explanation": "Câu hỏi Present Perfect với chủ ngữ 'she'",
+      "hints": ["Chủ ngữ 'she' đi với 'Has'"],
+      "points": 10
+    },
+    {
+      "id": 23,
+      "type": "multiple-choice",
+      "question": "I __________ this brilliant stream since I was a child.",
+      "options": ["have known", "has known", "knew", "know"],
+      "correctIndex": 0,
+      "explanation": "'Since + mệnh đề quá khứ' dùng Present Perfect",
+      "hints": ["Since I was a child là dấu hiệu Present Perfect"],
+      "points": 10
+    },
+    {
+      "id": 24,
+      "type": "multiple-choice",
+      "question": "They __________ not __________ that movie yet.",
+      "options": ["have / see", "has / seen", "have / saw", "have / seen"],
+      "correctIndex": 3,
+      "explanation": "Yet trong câu phủ định: have not + V3 + yet",
+      "hints": ["Yet đi với have + V3"],
+      "points": 10
+    },
+    {
+      "id": 25,
+      "type": "multiple-choice",
+      "question": "How many times __________ you __________ to that place?",
+      "options": ["do / go", "did / go", "have / gone", "has / gone"],
+      "correctIndex": 2,
+      "explanation": "'How many times' dùng với Present Perfect",
+      "hints": ["How many times + have + V3"],
+      "points": 10
+    },
+    {
+      "id": 26,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["Tom", "has", "explored", "the", "area", "many", "times"],
+      "distractors": ["explore", "explores", "exploring"],
+      "correctSentence": "Tom has explored the area many times",
+      "acceptedAnswers": [
+        "Tom has explored the area many times",
+        "Tom has explored the area many times."
+      ],
+      "hints": ["Many times dùng Present Perfect"],
+      "points": 10
+    },
+    {
+      "id": 27,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["She", "has", "not", "finished", "her", "work", "yet"],
+      "distractors": ["finish", "finishes", "finishing"],
+      "correctSentence": "She has not finished her work yet",
+      "acceptedAnswers": [
+        "She has not finished her work yet",
+        "She has not finished her work yet.",
+        "She hasn't finished her work yet",
+        "She hasn't finished her work yet."
+      ],
+      "hints": ["Yet đi cuối câu phủ định"],
+      "points": 10
+    },
+    {
+      "id": 28,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["We", "have", "taken", "an", "eco-tour", "this", "month"],
+      "distractors": ["take", "takes", "taking"],
+      "correctSentence": "We have taken an eco-tour this month",
+      "acceptedAnswers": [
+        "We have taken an eco-tour this month",
+        "We have taken an eco-tour this month."
+      ],
+      "hints": ["This month dùng Present Perfect"],
+      "points": 10
+    },
+    {
+      "id": 29,
+      "type": "multiple-choice",
+      "question": "I __________ never __________ such a thrilling ride before.",
+      "options": ["have / experience", "has / experienced", "have / experienced", "had / experienced"],
+      "correctIndex": 2,
+      "explanation": "Never + before dùng Present Perfect",
+      "hints": ["Never before là dấu hiệu rõ của Present Perfect"],
+      "points": 10
+    },
+    {
+      "id": 30,
+      "type": "multiple-choice",
+      "question": "__________ they __________ the local specialities?",
+      "options": ["Do / try", "Did / try", "Have / tried", "Has / tried"],
+      "correctIndex": 2,
+      "explanation": "Câu hỏi về kinh nghiệm dùng Present Perfect",
+      "hints": ["Have + they + V3 để hỏi về kinh nghiệm"],
+      "points": 10
+    }
+  ]
+}

@@ -1,0 +1,1027 @@
+{
+  "unitId": "review-1-units-1-3",
+  "title": "Review 1: Units 1-3",
+  "grammarTopics": ["Present Perfect with for/since", "Present Perfect with already/yet/just/ever/never", "Comparative Adjectives", "Superlative Adjectives", "Too and Enough"],
+  "theory": {
+    "brief": "Ôn tập: (1) Present Perfect - dùng 'for' với khoảng thời gian, 'since' với mốc thời gian, 'already/just' trong khẳng định, 'yet' trong phủ định/câu hỏi. (2) So sánh hơn: short adj + -er / more + long adj. So sánh nhất: the + short adj + -est / the most + long adj. (3) 'too' = quá (tiêu cực), 'enough' = đủ.",
+    "examples": [
+      "I have lived here for 5 years / since 2019.",
+      "She has already finished. / He hasn't arrived yet.",
+      "This book is more interesting than that one.",
+      "This is the tallest building in the city.",
+      "The coffee is too hot to drink. / He is old enough to drive."
+    ]
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "type": "multiple-choice",
+      "question": "I have lived in this city __________ 2015.",
+      "options": ["for", "since", "already", "yet"],
+      "correctIndex": 1,
+      "explanation": "Dùng 'since' với mốc thời gian cụ thể (2015)",
+      "hints": ["2015 là mốc thời gian → since"],
+      "points": 10
+    },
+    {
+      "id": 2,
+      "type": "multiple-choice",
+      "question": "She has worked here __________ ten years.",
+      "options": ["since", "for", "already", "just"],
+      "correctIndex": 1,
+      "explanation": "Dùng 'for' với khoảng thời gian (ten years)",
+      "hints": ["ten years là khoảng thời gian → for"],
+      "points": 10
+    },
+    {
+      "id": 3,
+      "type": "multiple-choice",
+      "question": "Have you finished your homework __________?",
+      "options": ["already", "yet", "just", "ever"],
+      "correctIndex": 1,
+      "explanation": "Dùng 'yet' trong câu hỏi",
+      "hints": ["Câu hỏi → yet"],
+      "points": 10
+    },
+    {
+      "id": 4,
+      "type": "multiple-choice",
+      "question": "I have __________ eaten lunch, so I'm not hungry.",
+      "options": ["yet", "already", "since", "for"],
+      "correctIndex": 1,
+      "explanation": "Dùng 'already' trong câu khẳng định khi việc đã hoàn thành",
+      "hints": ["Đã hoàn thành → already"],
+      "points": 10
+    },
+    {
+      "id": 5,
+      "type": "multiple-choice",
+      "question": "This car is __________ than that one.",
+      "options": ["more expensive", "expensiver", "most expensive", "the most expensive"],
+      "correctIndex": 0,
+      "explanation": "'expensive' là tính từ dài, dùng 'more + adj'",
+      "hints": ["Tính từ dài → more + adj"],
+      "points": 10
+    },
+    {
+      "id": 6,
+      "type": "multiple-choice",
+      "question": "Mount Everest is __________ mountain in the world.",
+      "options": ["the highest", "higher", "highest", "more high"],
+      "correctIndex": 0,
+      "explanation": "So sánh nhất: the + adj-est",
+      "hints": ["So sánh nhất cần 'the'"],
+      "points": 10
+    },
+    {
+      "id": 7,
+      "type": "multiple-choice",
+      "question": "The soup is __________ hot to eat.",
+      "options": ["too", "enough", "very", "so"],
+      "correctIndex": 0,
+      "explanation": "'too' + adj chỉ mức độ quá khiến không thể làm gì",
+      "hints": ["Quá nóng để ăn → too"],
+      "points": 10
+    },
+    {
+      "id": 8,
+      "type": "multiple-choice",
+      "question": "He is tall __________ to reach the shelf.",
+      "options": ["too", "enough", "very", "so"],
+      "correctIndex": 1,
+      "explanation": "'adj + enough' = đủ... để làm gì",
+      "hints": ["Đủ cao để với → enough"],
+      "points": 10
+    },
+    {
+      "id": 9,
+      "type": "multiple-choice",
+      "question": "Have you __________ been to Paris?",
+      "options": ["never", "ever", "already", "yet"],
+      "correctIndex": 1,
+      "explanation": "Dùng 'ever' trong câu hỏi về kinh nghiệm",
+      "hints": ["Hỏi về kinh nghiệm → ever"],
+      "points": 10
+    },
+    {
+      "id": 10,
+      "type": "multiple-choice",
+      "question": "I have __________ seen that movie. It's amazing!",
+      "options": ["yet", "just", "never", "for"],
+      "correctIndex": 1,
+      "explanation": "'just' = vừa mới (hành động xảy ra rất gần hiện tại)",
+      "hints": ["Vừa mới xem → just"],
+      "points": 10
+    },
+    {
+      "id": 11,
+      "type": "multiple-choice",
+      "question": "This exercise is __________ than the last one.",
+      "options": ["more difficult", "difficulter", "most difficult", "the most difficult"],
+      "correctIndex": 0,
+      "explanation": "'difficult' là tính từ dài → more difficult",
+      "hints": ["So sánh hơn với tính từ dài"],
+      "points": 10
+    },
+    {
+      "id": 12,
+      "type": "multiple-choice",
+      "question": "She is the __________ student in our class.",
+      "options": ["smartest", "smarter", "more smart", "most smart"],
+      "correctIndex": 0,
+      "explanation": "'smart' là tính từ ngắn → the smartest",
+      "hints": ["So sánh nhất với tính từ ngắn"],
+      "points": 10
+    },
+    {
+      "id": 13,
+      "type": "multiple-choice",
+      "question": "I haven't seen him __________ last Monday.",
+      "options": ["for", "since", "yet", "already"],
+      "correctIndex": 1,
+      "explanation": "'last Monday' là mốc thời gian → since",
+      "hints": ["Mốc thời gian cụ thể → since"],
+      "points": 10
+    },
+    {
+      "id": 14,
+      "type": "multiple-choice",
+      "question": "They have known each other __________ many years.",
+      "options": ["since", "for", "yet", "already"],
+      "correctIndex": 1,
+      "explanation": "'many years' là khoảng thời gian → for",
+      "hints": ["Khoảng thời gian → for"],
+      "points": 10
+    },
+    {
+      "id": 15,
+      "type": "multiple-choice",
+      "question": "This book isn't interesting __________.",
+      "options": ["too", "enough", "very", "much"],
+      "correctIndex": 1,
+      "explanation": "'adj + enough' = đủ...",
+      "hints": ["Không đủ hấp dẫn → not... enough"],
+      "points": 10
+    },
+    {
+      "id": 16,
+      "type": "multiple-choice",
+      "question": "The room is __________ small for all of us.",
+      "options": ["enough", "too", "very", "so"],
+      "correctIndex": 1,
+      "explanation": "'too' + adj = quá... (tiêu cực)",
+      "hints": ["Quá nhỏ cho tất cả → too"],
+      "points": 10
+    },
+    {
+      "id": 17,
+      "type": "multiple-choice",
+      "question": "I have __________ tried sushi before. It's my first time.",
+      "options": ["ever", "never", "already", "just"],
+      "correctIndex": 1,
+      "explanation": "'never' = chưa bao giờ (phủ định)",
+      "hints": ["Lần đầu tiên = chưa từng → never"],
+      "points": 10
+    },
+    {
+      "id": 18,
+      "type": "multiple-choice",
+      "question": "Tom is __________ than his brother.",
+      "options": ["taller", "more tall", "tallest", "the tallest"],
+      "correctIndex": 0,
+      "explanation": "'tall' là tính từ ngắn → taller",
+      "hints": ["So sánh hơn: adj + -er"],
+      "points": 10
+    },
+    {
+      "id": 19,
+      "type": "multiple-choice",
+      "question": "This is __________ movie I have ever seen.",
+      "options": ["the best", "better", "good", "more good"],
+      "correctIndex": 0,
+      "explanation": "So sánh nhất bất quy tắc: good → the best",
+      "hints": ["good → better → the best"],
+      "points": 10
+    },
+    {
+      "id": 20,
+      "type": "multiple-choice",
+      "question": "Have they arrived __________?",
+      "options": ["already", "yet", "just", "never"],
+      "correctIndex": 1,
+      "explanation": "Dùng 'yet' ở cuối câu hỏi",
+      "hints": ["Câu hỏi → yet"],
+      "points": 10
+    },
+    {
+      "id": 21,
+      "type": "fill-blank",
+      "question": "She has lived in London __________ 2010.",
+      "wordHint": "(for/since)",
+      "answer": "since",
+      "acceptedAnswers": ["since"],
+      "hints": ["2010 là mốc thời gian"],
+      "points": 10
+    },
+    {
+      "id": 22,
+      "type": "fill-blank",
+      "question": "They have been friends __________ a long time.",
+      "wordHint": "(for/since)",
+      "answer": "for",
+      "acceptedAnswers": ["for"],
+      "hints": ["'a long time' là khoảng thời gian"],
+      "points": 10
+    },
+    {
+      "id": 23,
+      "type": "fill-blank",
+      "question": "My sister is __________ (old) than me.",
+      "wordHint": "(old)",
+      "answer": "older",
+      "acceptedAnswers": ["older"],
+      "hints": ["So sánh hơn: adj + -er"],
+      "points": 10
+    },
+    {
+      "id": 24,
+      "type": "fill-blank",
+      "question": "This is the __________ (beautiful) garden in our town.",
+      "wordHint": "(beautiful)",
+      "answer": "most beautiful",
+      "acceptedAnswers": ["most beautiful"],
+      "hints": ["So sánh nhất với tính từ dài: most + adj"],
+      "points": 10
+    },
+    {
+      "id": 25,
+      "type": "fill-blank",
+      "question": "The water is __________ cold to swim.",
+      "wordHint": "(too/enough)",
+      "answer": "too",
+      "acceptedAnswers": ["too"],
+      "hints": ["Quá lạnh để bơi → too"],
+      "points": 10
+    },
+    {
+      "id": 26,
+      "type": "fill-blank",
+      "question": "She is smart __________ to solve this problem.",
+      "wordHint": "(too/enough)",
+      "answer": "enough",
+      "acceptedAnswers": ["enough"],
+      "hints": ["Đủ thông minh → enough"],
+      "points": 10
+    },
+    {
+      "id": 27,
+      "type": "fill-blank",
+      "question": "Have you __________ visited Japan?",
+      "wordHint": "(ever/never)",
+      "answer": "ever",
+      "acceptedAnswers": ["ever"],
+      "hints": ["Hỏi về kinh nghiệm → ever"],
+      "points": 10
+    },
+    {
+      "id": 28,
+      "type": "fill-blank",
+      "question": "I have __________ finished my homework.",
+      "wordHint": "(already/yet)",
+      "answer": "already",
+      "acceptedAnswers": ["already"],
+      "hints": ["Câu khẳng định, đã hoàn thành → already"],
+      "points": 10
+    },
+    {
+      "id": 29,
+      "type": "fill-blank",
+      "question": "This exercise is __________ (easy) than the previous one.",
+      "wordHint": "(easy)",
+      "answer": "easier",
+      "acceptedAnswers": ["easier"],
+      "hints": ["easy → easier (đổi y thành i, thêm -er)"],
+      "points": 10
+    },
+    {
+      "id": 30,
+      "type": "fill-blank",
+      "question": "He is the __________ (bad) player on the team.",
+      "wordHint": "(bad)",
+      "answer": "worst",
+      "acceptedAnswers": ["worst"],
+      "hints": ["bad → worse → the worst"],
+      "points": 10
+    },
+    {
+      "id": 31,
+      "type": "error-correct",
+      "wrongSentence": "I have lived here since five years.",
+      "correctSentence": "I have lived here for five years.",
+      "errorWord": "since",
+      "correction": "for",
+      "explanation": "'five years' là khoảng thời gian, dùng 'for'",
+      "hints": ["Khoảng thời gian → for"],
+      "points": 10
+    },
+    {
+      "id": 32,
+      "type": "error-correct",
+      "wrongSentence": "She is more tall than her sister.",
+      "correctSentence": "She is taller than her sister.",
+      "errorWord": "more tall",
+      "correction": "taller",
+      "explanation": "'tall' là tính từ ngắn, dùng adj + -er",
+      "hints": ["Tính từ ngắn không dùng 'more'"],
+      "points": 10
+    },
+    {
+      "id": 33,
+      "type": "error-correct",
+      "wrongSentence": "This is the most easy question.",
+      "correctSentence": "This is the easiest question.",
+      "errorWord": "most easy",
+      "correction": "easiest",
+      "explanation": "'easy' là tính từ ngắn, dùng the + adj-est",
+      "hints": ["Tính từ ngắn: the + adj-est"],
+      "points": 10
+    },
+    {
+      "id": 34,
+      "type": "error-correct",
+      "wrongSentence": "Have you finished your work already?",
+      "correctSentence": "Have you finished your work yet?",
+      "errorWord": "already",
+      "correction": "yet",
+      "explanation": "Dùng 'yet' trong câu hỏi",
+      "hints": ["Câu hỏi → yet"],
+      "points": 10
+    },
+    {
+      "id": 35,
+      "type": "error-correct",
+      "wrongSentence": "The bag is too heavy enough to carry.",
+      "correctSentence": "The bag is too heavy to carry.",
+      "errorWord": "too heavy enough",
+      "correction": "too heavy",
+      "explanation": "Không dùng 'too' và 'enough' cùng nhau",
+      "hints": ["Chọn một: too hoặc enough"],
+      "points": 10
+    },
+    {
+      "id": 36,
+      "type": "error-correct",
+      "wrongSentence": "I haven't seen him for last week.",
+      "correctSentence": "I haven't seen him since last week.",
+      "errorWord": "for",
+      "correction": "since",
+      "explanation": "'last week' là mốc thời gian, dùng 'since'",
+      "hints": ["Mốc thời gian → since"],
+      "points": 10
+    },
+    {
+      "id": 37,
+      "type": "error-correct",
+      "wrongSentence": "This is the goodest cake I've ever had.",
+      "correctSentence": "This is the best cake I've ever had.",
+      "errorWord": "goodest",
+      "correction": "best",
+      "explanation": "good → better → the best (bất quy tắc)",
+      "hints": ["good là tính từ bất quy tắc"],
+      "points": 10
+    },
+    {
+      "id": 38,
+      "type": "error-correct",
+      "wrongSentence": "I have just not finished my homework.",
+      "correctSentence": "I have not finished my homework yet.",
+      "errorWord": "just not",
+      "correction": "not ... yet",
+      "explanation": "Phủ định dùng 'not... yet'",
+      "hints": ["Phủ định: haven't... yet"],
+      "points": 10
+    },
+    {
+      "id": 39,
+      "type": "error-correct",
+      "wrongSentence": "He is enough old to drive.",
+      "correctSentence": "He is old enough to drive.",
+      "errorWord": "enough old",
+      "correction": "old enough",
+      "explanation": "'enough' đứng sau tính từ",
+      "hints": ["adj + enough"],
+      "points": 10
+    },
+    {
+      "id": 40,
+      "type": "error-correct",
+      "wrongSentence": "She has never been to Japan ever.",
+      "correctSentence": "She has never been to Japan.",
+      "errorWord": "never ... ever",
+      "correction": "never",
+      "explanation": "Không dùng 'never' và 'ever' cùng nhau",
+      "hints": ["Chỉ cần 'never'"],
+      "points": 10
+    },
+    {
+      "id": 41,
+      "type": "multiple-choice",
+      "question": "The weather today is __________ than yesterday.",
+      "options": ["better", "good", "best", "more better"],
+      "correctIndex": 0,
+      "explanation": "good → better (so sánh hơn bất quy tắc)",
+      "hints": ["good → better → best"],
+      "points": 10
+    },
+    {
+      "id": 42,
+      "type": "multiple-choice",
+      "question": "She has __________ been to Australia. She really wants to go.",
+      "options": ["ever", "never", "already", "just"],
+      "correctIndex": 1,
+      "explanation": "'never' = chưa bao giờ (chưa có kinh nghiệm)",
+      "hints": ["Chưa từng đi → never"],
+      "points": 10
+    },
+    {
+      "id": 43,
+      "type": "multiple-choice",
+      "question": "This box is __________ heavy for me to lift.",
+      "options": ["enough", "too", "very", "so"],
+      "correctIndex": 1,
+      "explanation": "'too' + adj = quá... không thể làm gì",
+      "hints": ["Quá nặng → too"],
+      "points": 10
+    },
+    {
+      "id": 44,
+      "type": "multiple-choice",
+      "question": "We have lived in this house __________ we got married.",
+      "options": ["for", "since", "already", "just"],
+      "correctIndex": 1,
+      "explanation": "'since' + mệnh đề/sự kiện",
+      "hints": ["since + mệnh đề"],
+      "points": 10
+    },
+    {
+      "id": 45,
+      "type": "multiple-choice",
+      "question": "This is the __________ restaurant in town.",
+      "options": ["more popular", "most popular", "popularer", "popular"],
+      "correctIndex": 1,
+      "explanation": "So sánh nhất với tính từ dài: the most + adj",
+      "hints": ["the most + tính từ dài"],
+      "points": 10
+    },
+    {
+      "id": 46,
+      "type": "multiple-choice",
+      "question": "I haven't finished reading this book __________.",
+      "options": ["already", "yet", "just", "ever"],
+      "correctIndex": 1,
+      "explanation": "Dùng 'yet' trong câu phủ định",
+      "hints": ["Phủ định → yet"],
+      "points": 10
+    },
+    {
+      "id": 47,
+      "type": "multiple-choice",
+      "question": "My English is not good __________ to understand him.",
+      "options": ["too", "enough", "very", "much"],
+      "correctIndex": 1,
+      "explanation": "'adj + enough' = đủ...",
+      "hints": ["Không đủ tốt → not good enough"],
+      "points": 10
+    },
+    {
+      "id": 48,
+      "type": "multiple-choice",
+      "question": "She has worked at this company __________ January.",
+      "options": ["for", "since", "already", "yet"],
+      "correctIndex": 1,
+      "explanation": "'January' là mốc thời gian → since",
+      "hints": ["Tháng cụ thể → since"],
+      "points": 10
+    },
+    {
+      "id": 49,
+      "type": "multiple-choice",
+      "question": "The elephant is __________ than the lion.",
+      "options": ["bigger", "more big", "biggest", "the biggest"],
+      "correctIndex": 0,
+      "explanation": "'big' là tính từ ngắn, gấp đôi phụ âm cuối",
+      "hints": ["big → bigger"],
+      "points": 10
+    },
+    {
+      "id": 50,
+      "type": "multiple-choice",
+      "question": "Have you __________ tried Vietnamese food?",
+      "options": ["never", "ever", "already", "yet"],
+      "correctIndex": 1,
+      "explanation": "Hỏi về kinh nghiệm → ever",
+      "hints": ["Câu hỏi về kinh nghiệm → ever"],
+      "points": 10
+    },
+    {
+      "id": 51,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp câu: I / have / lived / here / since / 2018",
+      "words": ["I", "have", "lived", "here", "since", "2018"],
+      "distractors": ["for", "already", "am"],
+      "correctSentence": "I have lived here since 2018",
+      "acceptedAnswers": ["I have lived here since 2018", "I have lived here since 2018."],
+      "hints": ["have + past participle + since + mốc thời gian"],
+      "points": 10
+    },
+    {
+      "id": 52,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp câu: This / is / the / tallest / building / in / the / city",
+      "words": ["This", "is", "the", "tallest", "building", "in", "the", "city"],
+      "distractors": ["taller", "tall", "most"],
+      "correctSentence": "This is the tallest building in the city",
+      "acceptedAnswers": ["This is the tallest building in the city", "This is the tallest building in the city."],
+      "hints": ["the + adj-est + noun"],
+      "points": 10
+    },
+    {
+      "id": 53,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp câu: The / coffee / is / too / hot / to / drink",
+      "words": ["The", "coffee", "is", "too", "hot", "to", "drink"],
+      "distractors": ["enough", "very", "so"],
+      "correctSentence": "The coffee is too hot to drink",
+      "acceptedAnswers": ["The coffee is too hot to drink", "The coffee is too hot to drink."],
+      "hints": ["too + adj + to + verb"],
+      "points": 10
+    },
+    {
+      "id": 54,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp câu: Have / you / ever / been / to / Paris?",
+      "words": ["Have", "you", "ever", "been", "to", "Paris"],
+      "distractors": ["never", "already", "yet"],
+      "correctSentence": "Have you ever been to Paris",
+      "acceptedAnswers": ["Have you ever been to Paris", "Have you ever been to Paris?"],
+      "hints": ["Have + you + ever + past participle...?"],
+      "points": 10
+    },
+    {
+      "id": 55,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp câu: She / is / more / intelligent / than / her / brother",
+      "words": ["She", "is", "more", "intelligent", "than", "her", "brother"],
+      "distractors": ["most", "intelligenter", "the"],
+      "correctSentence": "She is more intelligent than her brother",
+      "acceptedAnswers": ["She is more intelligent than her brother", "She is more intelligent than her brother."],
+      "hints": ["more + adj dài + than"],
+      "points": 10
+    },
+    {
+      "id": 56,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp câu: He / is / old / enough / to / vote",
+      "words": ["He", "is", "old", "enough", "to", "vote"],
+      "distractors": ["too", "very", "so"],
+      "correctSentence": "He is old enough to vote",
+      "acceptedAnswers": ["He is old enough to vote", "He is old enough to vote."],
+      "hints": ["adj + enough + to + verb"],
+      "points": 10
+    },
+    {
+      "id": 57,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp câu: They / have / already / finished / their / homework",
+      "words": ["They", "have", "already", "finished", "their", "homework"],
+      "distractors": ["yet", "just", "never"],
+      "correctSentence": "They have already finished their homework",
+      "acceptedAnswers": ["They have already finished their homework", "They have already finished their homework."],
+      "hints": ["have + already + past participle"],
+      "points": 10
+    },
+    {
+      "id": 58,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp câu: This / is / the / most / expensive / car / I / have / ever / seen",
+      "words": ["This", "is", "the", "most", "expensive", "car", "I", "have", "ever", "seen"],
+      "distractors": ["expensivest", "more", "never"],
+      "correctSentence": "This is the most expensive car I have ever seen",
+      "acceptedAnswers": ["This is the most expensive car I have ever seen", "This is the most expensive car I have ever seen."],
+      "hints": ["the most + adj + noun + I have ever + past participle"],
+      "points": 10
+    },
+    {
+      "id": 59,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp câu: The / room / is / too / small / for / all / of / us",
+      "words": ["The", "room", "is", "too", "small", "for", "all", "of", "us"],
+      "distractors": ["enough", "very", "so"],
+      "correctSentence": "The room is too small for all of us",
+      "acceptedAnswers": ["The room is too small for all of us", "The room is too small for all of us."],
+      "hints": ["too + adj + for + object"],
+      "points": 10
+    },
+    {
+      "id": 60,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp câu: I / haven't / seen / her / since / last / month",
+      "words": ["I", "haven't", "seen", "her", "since", "last", "month"],
+      "distractors": ["for", "already", "yet"],
+      "correctSentence": "I haven't seen her since last month",
+      "acceptedAnswers": ["I haven't seen her since last month", "I haven't seen her since last month."],
+      "hints": ["haven't + past participle + since + mốc thời gian"],
+      "points": 10
+    },
+    {
+      "id": 61,
+      "type": "multiple-choice",
+      "question": "This test is __________ than the one we did last week.",
+      "options": ["easier", "more easy", "easiest", "most easy"],
+      "correctIndex": 0,
+      "explanation": "'easy' là tính từ ngắn, đổi y → i, thêm -er",
+      "hints": ["easy → easier"],
+      "points": 10
+    },
+    {
+      "id": 62,
+      "type": "multiple-choice",
+      "question": "I have known her __________ I was a child.",
+      "options": ["for", "since", "already", "yet"],
+      "correctIndex": 1,
+      "explanation": "'since' + mệnh đề (I was a child)",
+      "hints": ["since + mệnh đề"],
+      "points": 10
+    },
+    {
+      "id": 63,
+      "type": "multiple-choice",
+      "question": "She hasn't called me __________.",
+      "options": ["already", "yet", "just", "ever"],
+      "correctIndex": 1,
+      "explanation": "Dùng 'yet' trong câu phủ định",
+      "hints": ["Phủ định → yet"],
+      "points": 10
+    },
+    {
+      "id": 64,
+      "type": "multiple-choice",
+      "question": "This dress is __________ expensive for me to buy.",
+      "options": ["enough", "too", "very", "much"],
+      "correctIndex": 1,
+      "explanation": "'too' + adj = quá... không thể làm gì",
+      "hints": ["Quá đắt → too"],
+      "points": 10
+    },
+    {
+      "id": 65,
+      "type": "multiple-choice",
+      "question": "My brother is the __________ person in our family.",
+      "options": ["funnier", "funniest", "most funny", "more funny"],
+      "correctIndex": 1,
+      "explanation": "'funny' là tính từ ngắn → funniest",
+      "hints": ["funny → funniest"],
+      "points": 10
+    },
+    {
+      "id": 66,
+      "type": "multiple-choice",
+      "question": "Have you __________ finished reading that book?",
+      "options": ["yet", "already", "never", "ever"],
+      "correctIndex": 1,
+      "explanation": "'already' có thể dùng trong câu hỏi để thể hiện sự ngạc nhiên",
+      "hints": ["Hỏi với sự ngạc nhiên → already"],
+      "points": 10
+    },
+    {
+      "id": 67,
+      "type": "multiple-choice",
+      "question": "The movie was not interesting __________.",
+      "options": ["too", "enough", "very", "so"],
+      "correctIndex": 1,
+      "explanation": "'not + adj + enough' = không đủ...",
+      "hints": ["Không đủ hấp dẫn → not... enough"],
+      "points": 10
+    },
+    {
+      "id": 68,
+      "type": "multiple-choice",
+      "question": "He has worked here __________ three months.",
+      "options": ["since", "for", "already", "yet"],
+      "correctIndex": 1,
+      "explanation": "'three months' là khoảng thời gian → for",
+      "hints": ["Khoảng thời gian → for"],
+      "points": 10
+    },
+    {
+      "id": 69,
+      "type": "multiple-choice",
+      "question": "Summer is __________ than winter in Vietnam.",
+      "options": ["hot", "hotter", "hottest", "more hot"],
+      "correctIndex": 1,
+      "explanation": "'hot' là tính từ ngắn, gấp đôi phụ âm cuối",
+      "hints": ["hot → hotter"],
+      "points": 10
+    },
+    {
+      "id": 70,
+      "type": "multiple-choice",
+      "question": "This is the __________ day of my life!",
+      "options": ["happier", "happiest", "more happy", "most happy"],
+      "correctIndex": 1,
+      "explanation": "'happy' → happiest (so sánh nhất)",
+      "hints": ["happy → happiest"],
+      "points": 10
+    },
+    {
+      "id": 71,
+      "type": "fill-blank",
+      "question": "I have waited here __________ two hours.",
+      "wordHint": "(for/since)",
+      "answer": "for",
+      "acceptedAnswers": ["for"],
+      "hints": ["'two hours' là khoảng thời gian"],
+      "points": 10
+    },
+    {
+      "id": 72,
+      "type": "fill-blank",
+      "question": "She hasn't eaten anything __________ yesterday.",
+      "wordHint": "(for/since)",
+      "answer": "since",
+      "acceptedAnswers": ["since"],
+      "hints": ["'yesterday' là mốc thời gian"],
+      "points": 10
+    },
+    {
+      "id": 73,
+      "type": "fill-blank",
+      "question": "This movie is __________ (boring) than the last one.",
+      "wordHint": "(boring)",
+      "answer": "more boring",
+      "acceptedAnswers": ["more boring"],
+      "hints": ["So sánh hơn với tính từ dài"],
+      "points": 10
+    },
+    {
+      "id": 74,
+      "type": "fill-blank",
+      "question": "He is the __________ (young) child in his family.",
+      "wordHint": "(young)",
+      "answer": "youngest",
+      "acceptedAnswers": ["youngest"],
+      "hints": ["So sánh nhất: the + adj-est"],
+      "points": 10
+    },
+    {
+      "id": 75,
+      "type": "fill-blank",
+      "question": "This bag is __________ heavy for me to carry.",
+      "wordHint": "(too/enough)",
+      "answer": "too",
+      "acceptedAnswers": ["too"],
+      "hints": ["Quá nặng để mang → too"],
+      "points": 10
+    },
+    {
+      "id": 76,
+      "type": "fill-blank",
+      "question": "She is not tall __________ to ride this roller coaster.",
+      "wordHint": "(too/enough)",
+      "answer": "enough",
+      "acceptedAnswers": ["enough"],
+      "hints": ["Không đủ cao → not... enough"],
+      "points": 10
+    },
+    {
+      "id": 77,
+      "type": "fill-blank",
+      "question": "I have __________ arrived home. The traffic was terrible!",
+      "wordHint": "(just/yet)",
+      "answer": "just",
+      "acceptedAnswers": ["just"],
+      "hints": ["Vừa mới đến → just"],
+      "points": 10
+    },
+    {
+      "id": 78,
+      "type": "fill-blank",
+      "question": "Has the bus left __________?",
+      "wordHint": "(already/yet)",
+      "answer": "yet",
+      "acceptedAnswers": ["yet"],
+      "hints": ["Câu hỏi → yet"],
+      "points": 10
+    },
+    {
+      "id": 79,
+      "type": "fill-blank",
+      "question": "This problem is __________ (difficult) than I thought.",
+      "wordHint": "(difficult)",
+      "answer": "more difficult",
+      "acceptedAnswers": ["more difficult"],
+      "hints": ["So sánh hơn với tính từ dài"],
+      "points": 10
+    },
+    {
+      "id": 80,
+      "type": "fill-blank",
+      "question": "She is the __________ (good) singer in our school.",
+      "wordHint": "(good)",
+      "answer": "best",
+      "acceptedAnswers": ["best"],
+      "hints": ["good → the best"],
+      "points": 10
+    },
+    {
+      "id": 81,
+      "type": "multiple-choice",
+      "question": "The train is __________ than the bus.",
+      "options": ["faster", "more fast", "fastest", "most fast"],
+      "correctIndex": 0,
+      "explanation": "'fast' là tính từ ngắn → faster",
+      "hints": ["fast → faster"],
+      "points": 10
+    },
+    {
+      "id": 82,
+      "type": "multiple-choice",
+      "question": "She has __________ finished cleaning her room.",
+      "options": ["yet", "already", "since", "for"],
+      "correctIndex": 1,
+      "explanation": "'already' trong câu khẳng định khi việc đã hoàn thành",
+      "hints": ["Đã hoàn thành → already"],
+      "points": 10
+    },
+    {
+      "id": 83,
+      "type": "multiple-choice",
+      "question": "The pizza is not warm __________.",
+      "options": ["too", "enough", "very", "much"],
+      "correctIndex": 1,
+      "explanation": "'not + adj + enough' = không đủ...",
+      "hints": ["Không đủ ấm → not warm enough"],
+      "points": 10
+    },
+    {
+      "id": 84,
+      "type": "multiple-choice",
+      "question": "I have studied English __________ I was five years old.",
+      "options": ["for", "since", "already", "yet"],
+      "correctIndex": 1,
+      "explanation": "'since' + mệnh đề",
+      "hints": ["since + I was five years old"],
+      "points": 10
+    },
+    {
+      "id": 85,
+      "type": "multiple-choice",
+      "question": "This is the __________ problem we have ever faced.",
+      "options": ["biggest", "bigger", "more big", "most big"],
+      "correctIndex": 0,
+      "explanation": "'big' → biggest (so sánh nhất)",
+      "hints": ["big → biggest"],
+      "points": 10
+    },
+    {
+      "id": 86,
+      "type": "multiple-choice",
+      "question": "I have __________ met him before. Nice to meet you!",
+      "options": ["ever", "never", "already", "just"],
+      "correctIndex": 1,
+      "explanation": "'never' = chưa bao giờ gặp",
+      "hints": ["Lần đầu gặp → never met before"],
+      "points": 10
+    },
+    {
+      "id": 87,
+      "type": "multiple-choice",
+      "question": "This exercise is __________ difficult for children.",
+      "options": ["enough", "too", "very", "so"],
+      "correctIndex": 1,
+      "explanation": "'too' + adj = quá... cho ai",
+      "hints": ["Quá khó → too"],
+      "points": 10
+    },
+    {
+      "id": 88,
+      "type": "multiple-choice",
+      "question": "They have been married __________ a long time.",
+      "options": ["since", "for", "already", "yet"],
+      "correctIndex": 1,
+      "explanation": "'a long time' là khoảng thời gian → for",
+      "hints": ["Khoảng thời gian → for"],
+      "points": 10
+    },
+    {
+      "id": 89,
+      "type": "multiple-choice",
+      "question": "My city is __________ polluted than it was 10 years ago.",
+      "options": ["less", "more", "most", "least"],
+      "correctIndex": 1,
+      "explanation": "So sánh hơn: more + adj",
+      "hints": ["more polluted"],
+      "points": 10
+    },
+    {
+      "id": 90,
+      "type": "multiple-choice",
+      "question": "This is the __________ interesting book I've ever read.",
+      "options": ["more", "most", "much", "very"],
+      "correctIndex": 1,
+      "explanation": "So sánh nhất: the most + adj dài",
+      "hints": ["the most interesting"],
+      "points": 10
+    },
+    {
+      "id": 91,
+      "type": "translation",
+      "vietnamese": "Tôi đã sống ở đây từ năm 2020.",
+      "answer": "I have lived here since 2020.",
+      "acceptedAnswers": ["I have lived here since 2020.", "I have lived here since 2020", "I've lived here since 2020.", "I've lived here since 2020"],
+      "hints": ["have lived + since + mốc thời gian"],
+      "points": 10
+    },
+    {
+      "id": 92,
+      "type": "translation",
+      "vietnamese": "Đây là cuốn sách hay nhất tôi từng đọc.",
+      "answer": "This is the best book I have ever read.",
+      "acceptedAnswers": ["This is the best book I have ever read.", "This is the best book I have ever read", "This is the best book I've ever read.", "This is the best book I've ever read"],
+      "hints": ["the best + noun + I have ever + past participle"],
+      "points": 10
+    },
+    {
+      "id": 93,
+      "type": "translation",
+      "vietnamese": "Cà phê này quá nóng để uống.",
+      "answer": "This coffee is too hot to drink.",
+      "acceptedAnswers": ["This coffee is too hot to drink.", "This coffee is too hot to drink", "The coffee is too hot to drink.", "The coffee is too hot to drink"],
+      "hints": ["too + adj + to + verb"],
+      "points": 10
+    },
+    {
+      "id": 94,
+      "type": "translation",
+      "vietnamese": "Cô ấy cao hơn anh trai cô ấy.",
+      "answer": "She is taller than her brother.",
+      "acceptedAnswers": ["She is taller than her brother.", "She is taller than her brother", "She's taller than her brother.", "She's taller than her brother"],
+      "hints": ["taller than"],
+      "points": 10
+    },
+    {
+      "id": 95,
+      "type": "translation",
+      "vietnamese": "Bạn đã bao giờ đến Nhật Bản chưa?",
+      "answer": "Have you ever been to Japan?",
+      "acceptedAnswers": ["Have you ever been to Japan?", "Have you ever been to Japan"],
+      "hints": ["Have you ever + past participle...?"],
+      "points": 10
+    },
+    {
+      "id": 96,
+      "type": "translation",
+      "vietnamese": "Tôi chưa hoàn thành bài tập về nhà.",
+      "answer": "I haven't finished my homework yet.",
+      "acceptedAnswers": ["I haven't finished my homework yet.", "I haven't finished my homework yet", "I have not finished my homework yet.", "I have not finished my homework yet"],
+      "hints": ["haven't + past participle + yet"],
+      "points": 10
+    },
+    {
+      "id": 97,
+      "type": "translation",
+      "vietnamese": "Anh ấy đủ cao để chơi bóng rổ.",
+      "answer": "He is tall enough to play basketball.",
+      "acceptedAnswers": ["He is tall enough to play basketball.", "He is tall enough to play basketball", "He's tall enough to play basketball.", "He's tall enough to play basketball"],
+      "hints": ["adj + enough + to + verb"],
+      "points": 10
+    },
+    {
+      "id": 98,
+      "type": "translation",
+      "vietnamese": "Cô ấy vừa mới về đến nhà.",
+      "answer": "She has just arrived home.",
+      "acceptedAnswers": ["She has just arrived home.", "She has just arrived home", "She's just arrived home.", "She's just arrived home", "She has just got home.", "She has just got home"],
+      "hints": ["has + just + past participle"],
+      "points": 10
+    },
+    {
+      "id": 99,
+      "type": "translation",
+      "vietnamese": "Đây là tòa nhà cao nhất trong thành phố.",
+      "answer": "This is the tallest building in the city.",
+      "acceptedAnswers": ["This is the tallest building in the city.", "This is the tallest building in the city", "This is the highest building in the city.", "This is the highest building in the city"],
+      "hints": ["the + adj-est + noun"],
+      "points": 10
+    },
+    {
+      "id": 100,
+      "type": "translation",
+      "vietnamese": "Tôi đã biết cô ấy được mười năm rồi.",
+      "answer": "I have known her for ten years.",
+      "acceptedAnswers": ["I have known her for ten years.", "I have known her for ten years", "I've known her for ten years.", "I've known her for ten years", "I have known her for 10 years.", "I have known her for 10 years"],
+      "hints": ["have + past participle + for + khoảng thời gian"],
+      "points": 10
+    }
+  ]
+}

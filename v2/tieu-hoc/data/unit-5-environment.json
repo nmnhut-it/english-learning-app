@@ -1,0 +1,1813 @@
+{
+  "unitId": "unit-5-environment",
+  "title": "Unit 5: The Environment",
+  "grammarTopics": [
+    "Will and Won't",
+    "Present Continuous with Future Meaning"
+  ],
+  "theory": {
+    "brief": "📌 WILL/WON'T: 💭 Đoán tương lai (chưa chắc 100%) • 💡 Quyết định ngay lúc nói • 🤔 Điều mình nghĩ/tin sẽ xảy ra. 📌 AM/IS/ARE + V-ING: 📅 Kế hoạch đã hẹn/đặt trước (chắc chắn 100%).",
+    "examples": [
+      "💭 I think it will rain. (đoán thời tiết)",
+      "💡 I'll help you! (quyết định ngay)",
+      "📅 We're visiting grandma tomorrow. (đã hẹn trước)"
+    ]
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "type": "multiple-choice",
+      "question": "In the future, we __________ use so much energy.",
+      "options": ["won't", "will", "aren't", "don't"],
+      "correctIndex": 0,
+      "explanation": "Dự đoán phủ định về tương lai dùng 'won't'",
+      "hints": ["'so much' (quá nhiều) mang nghĩa tiêu cực → câu này nói về việc SẼ KHÔNG dùng nhiều năng lượng → won't"],
+      "points": 10
+    },
+    {
+      "id": 2,
+      "type": "multiple-choice",
+      "question": "Mum __________ stop driving the car to work.",
+      "options": ["will", "won't", "is", "does"],
+      "correctIndex": 0,
+      "explanation": "Dự đoán khẳng định: will + động từ nguyên mẫu",
+      "hints": ["'stop driving' (ngừng lái xe) là hành động tốt cho môi trường → Mẹ SẼ LÀM điều tốt → will"],
+      "points": 10
+    },
+    {
+      "id": 3,
+      "type": "multiple-choice",
+      "question": "Instead she __________ walk.",
+      "options": ["will", "won't", "is", "does"],
+      "correctIndex": 0,
+      "explanation": "Dự đoán tương lai với will",
+      "hints": ["'Instead' (thay vào đó) = mẹ sẽ đi bộ THAY VÌ lái xe → hành động mới sẽ xảy ra → will"],
+      "points": 10
+    },
+    {
+      "id": 4,
+      "type": "multiple-choice",
+      "question": "Dad __________ grow more vegetables in the garden.",
+      "options": ["will", "won't", "is", "does"],
+      "correctIndex": 0,
+      "explanation": "Tương lai khẳng định dùng 'will'",
+      "hints": ["'grow more vegetables' (trồng thêm rau) là điều tốt → Bố SẼ LÀM → will"],
+      "points": 10
+    },
+    {
+      "id": 5,
+      "type": "multiple-choice",
+      "question": "My friends and I __________ throw bottles away – instead we'll recycle them. (negative prediction)",
+      "options": ["won't", "will", "aren't", "don't"],
+      "correctIndex": 0,
+      "explanation": "Dự đoán phủ định về tương lai dùng 'won't'",
+      "hints": ["'throw bottles away' (vứt chai) = xấu, nhưng 'instead we'll recycle' = THAY VÀO ĐÓ tái chế → SẼ KHÔNG vứt → won't"],
+      "points": 10
+    },
+    {
+      "id": 6,
+      "type": "multiple-choice",
+      "question": "I won't print my emails – that way I __________ save paper. (positive prediction)",
+      "options": ["will", "won't", "am", "do"],
+      "correctIndex": 0,
+      "explanation": "Dự đoán khẳng định dùng 'will'",
+      "hints": ["'that way' (bằng cách đó) = kết quả tốt của việc không in email → SẼ tiết kiệm giấy → will"],
+      "points": 10
+    },
+    {
+      "id": 7,
+      "type": "multiple-choice",
+      "question": "I think the earth __________ be a better place in the future.",
+      "options": ["will", "won't", "is", "was"],
+      "correctIndex": 0,
+      "explanation": "'I think' (tôi nghĩ) + will cho dự đoán tích cực",
+      "hints": ["'I think' (tôi nghĩ) + 'a better place' (nơi tốt hơn) = dự đoán tích cực về tương lai → will"],
+      "points": 10
+    },
+    {
+      "id": 8,
+      "type": "multiple-choice",
+      "question": "I believe we __________ have cleaner streets in the future.",
+      "options": ["will", "won't", "are", "do"],
+      "correctIndex": 0,
+      "explanation": "'I believe' (tôi tin) + will cho dự đoán",
+      "hints": ["'I believe' (tôi tin) + 'cleaner streets' (đường phố sạch hơn) = niềm tin tích cực → will"],
+      "points": 10
+    },
+    {
+      "id": 9,
+      "type": "word-rearrange",
+      "words": ["People", "will", "live", "on", "Mars."],
+      "correctSentence": "People will live on Mars.",
+      "acceptedAnswers": ["People will live on Mars."],
+      "hints": ["Sắp xếp: Chủ ngữ (People) + will + động từ (live) + địa điểm (on Mars)"],
+      "points": 10
+    },
+    {
+      "id": 10,
+      "type": "word-rearrange",
+      "words": ["Cars", "will", "use", "electricity."],
+      "correctSentence": "Cars will use electricity.",
+      "acceptedAnswers": ["Cars will use electricity."],
+      "hints": ["Sắp xếp: Chủ ngữ (Cars) + will + động từ (use) + tân ngữ (electricity)"],
+      "points": 10
+    },
+    {
+      "id": 11,
+      "type": "word-rearrange",
+      "words": ["Schools", "won't", "exist", "in", "50", "years."],
+      "correctSentence": "Schools won't exist in 50 years.",
+      "acceptedAnswers": ["Schools won't exist in 50 years."],
+      "hints": ["Sắp xếp: Chủ ngữ (Schools) + won't + động từ (exist) + thời gian (in 50 years)"],
+      "points": 10
+    },
+    {
+      "id": 12,
+      "type": "word-rearrange",
+      "words": ["Robots", "will", "do", "all", "the", "housework."],
+      "correctSentence": "Robots will do all the housework.",
+      "acceptedAnswers": ["Robots will do all the housework."],
+      "hints": ["Sắp xếp: Chủ ngữ (Robots) + will + động từ (do) + tân ngữ (all the housework)"],
+      "points": 10
+    },
+    {
+      "id": 13,
+      "type": "word-rearrange",
+      "words": ["People", "won't", "speak", "only", "English."],
+      "correctSentence": "People won't speak only English.",
+      "acceptedAnswers": ["People won't speak only English."],
+      "hints": ["Sắp xếp: Chủ ngữ (People) + won't + động từ (speak) + trạng từ (only) + tân ngữ (English)"],
+      "points": 10
+    },
+    {
+      "id": 14,
+      "type": "word-rearrange",
+      "words": ["Will", "the", "earth", "be", "a", "better", "place?"],
+      "correctSentence": "Will the earth be a better place?",
+      "acceptedAnswers": ["Will the earth be a better place?"],
+      "hints": ["Câu hỏi Yes/No: Will + chủ ngữ (the earth) + động từ (be) + phần còn lại + dấu ?"],
+      "points": 10
+    },
+    {
+      "id": 15,
+      "type": "multiple-choice",
+      "question": "We __________ on our holiday next week. We've already booked the hotel.",
+      "options": ["are going", "will go", "go", "went"],
+      "correctIndex": 0,
+      "explanation": "Đã đặt khách sạn = kế hoạch đã sắp xếp, dùng thì hiện tại tiếp diễn",
+      "hints": ["'already booked' (đã đặt rồi) = kế hoạch CHẮC CHẮN, đã chuẩn bị → are going (thì HTTD)"],
+      "points": 10
+    },
+    {
+      "id": 16,
+      "type": "multiple-choice",
+      "question": "My Dad and I __________ to my grandma's house this weekend. It's all arranged.",
+      "options": ["are travelling", "will travel", "travel", "travelled"],
+      "correctIndex": 0,
+      "explanation": "'It's all arranged' (đã sắp xếp hết) = dùng thì hiện tại tiếp diễn",
+      "hints": ["'It's all arranged' (đã sắp xếp hết) = kế hoạch CHẮC CHẮN 100% → are travelling (thì HTTD)"],
+      "points": 10
+    },
+    {
+      "id": 17,
+      "type": "multiple-choice",
+      "question": "We __________ by car. We decided to take the train instead. (negative arranged plan)",
+      "options": ["aren't driving", "won't drive", "don't drive", "didn't drive"],
+      "correctIndex": 0,
+      "explanation": "Kế hoạch đã quyết định (phủ định), dùng thì hiện tại tiếp diễn",
+      "hints": ["'decided' (đã quyết định) + 'instead' (thay vào đó) = kế hoạch đã chọn KHÔNG đi xe → aren't driving"],
+      "points": 10
+    },
+    {
+      "id": 18,
+      "type": "multiple-choice",
+      "question": "We __________ there instead. We've planned the route. (arranged plan)",
+      "options": ["are walking", "will walk", "walk", "walked"],
+      "correctIndex": 0,
+      "explanation": "Đã lên kế hoạch đường đi = kế hoạch cụ thể",
+      "hints": ["'planned the route' (đã lên lộ trình) = kế hoạch CỤ THỂ, đã chuẩn bị → are walking (thì HTTD)"],
+      "points": 10
+    },
+    {
+      "id": 19,
+      "type": "multiple-choice",
+      "question": "We __________ our house at 8 o'clock in the morning. Everything is ready.",
+      "options": ["are leaving", "will leave", "leave", "left"],
+      "correctIndex": 0,
+      "explanation": "Thời gian cụ thể đã sắp xếp, dùng thì hiện tại tiếp diễn",
+      "hints": ["'8 o'clock' (giờ cụ thể) + 'Everything is ready' (mọi thứ đã sẵn sàng) = kế hoạch chắc chắn → are leaving"],
+      "points": 10
+    },
+    {
+      "id": 20,
+      "type": "word-rearrange",
+      "words": ["I", "am", "meeting", "my", "friends", "tomorrow."],
+      "correctSentence": "I am meeting my friends tomorrow.",
+      "acceptedAnswers": ["I am meeting my friends tomorrow."],
+      "hints": ["Sắp xếp: I + am + V-ing (meeting) + tân ngữ (my friends) + thời gian (tomorrow)"],
+      "points": 10
+    },
+    {
+      "id": 21,
+      "type": "word-rearrange",
+      "words": ["We", "are", "having", "dinner", "at", "7pm", "tonight."],
+      "correctSentence": "We are having dinner at 7pm tonight.",
+      "acceptedAnswers": ["We are having dinner at 7pm tonight."],
+      "hints": ["Sắp xếp: We + are + V-ing (having) + tân ngữ (dinner) + thời gian (at 7pm tonight)"],
+      "points": 10
+    },
+    {
+      "id": 22,
+      "type": "word-rearrange",
+      "words": ["She", "is", "visiting", "her", "grandmother", "next", "weekend."],
+      "correctSentence": "She is visiting her grandmother next weekend.",
+      "acceptedAnswers": ["She is visiting her grandmother next weekend."],
+      "hints": ["Sắp xếp: She + is + V-ing (visiting) + tân ngữ (her grandmother) + thời gian (next weekend)"],
+      "points": 10
+    },
+    {
+      "id": 23,
+      "type": "multiple-choice",
+      "question": "I think it __________ tomorrow.",
+      "options": [
+        "will rain",
+        "is raining",
+        "rains",
+        "rained"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dùng 'will' cho dự đoán về tương lai",
+      "hints": [
+        "'I think' (tôi nghĩ) + 'rain' (mưa) = đang DỰ ĐOÁN thời tiết → will rain"
+      ],
+      "points": 10
+    },
+    {
+      "id": 24,
+      "type": "multiple-choice",
+      "question": "We __________ to the cinema tonight. I've already bought the tickets.",
+      "options": [
+        "will go",
+        "are going",
+        "went",
+        "goes"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đã mua vé = kế hoạch đã sắp xếp, dùng thì hiện tại tiếp diễn",
+      "hints": [
+        "'already bought the tickets' (đã mua vé rồi) = kế hoạch CHẮC CHẮN → are going (thì HTTD)"
+      ],
+      "points": 10
+    },
+    {
+      "id": 25,
+      "type": "multiple-choice",
+      "question": "Don't worry! I __________ you with your homework. (spontaneous decision)",
+      "options": [
+        "will help",
+        "am helping",
+        "helped",
+        "helps"
+      ],
+      "correctIndex": 0,
+      "explanation": "Quyết định ngay lập tức để giúp đỡ, dùng 'will'",
+      "hints": [
+        "'Don't worry!' = phản ứng TỨC THÌ, quyết định NGAY LÚC ĐÓ để giúp đỡ → will help"
+      ],
+      "points": 10
+    },
+    {
+      "id": 26,
+      "type": "multiple-choice",
+      "question": "They __________ a party on Saturday. They've already sent invitations.",
+      "options": [
+        "will have",
+        "are having",
+        "had",
+        "have"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đã gửi thiệp mời = kế hoạch đã sắp xếp, dùng thì hiện tại tiếp diễn",
+      "hints": [
+        "'already sent invitations' (đã gửi thiệp mời) = kế hoạch CHẮC CHẮN, đã chuẩn bị → are having"
+      ],
+      "points": 10
+    },
+    {
+      "id": 27,
+      "type": "multiple-choice",
+      "question": "In the future, people __________ longer.",
+      "options": [
+        "will live",
+        "are living",
+        "lived",
+        "lives"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dự đoán về tương lai dùng 'will'",
+      "hints": [
+        "'In the future' (trong tương lai) + 'longer' (lâu hơn) = DỰ ĐOÁN về tương lai → will live"
+      ],
+      "points": 10
+    },
+    {
+      "id": 28,
+      "type": "multiple-choice",
+      "question": "I __________ Tom at 5 o'clock. We arranged it yesterday.",
+      "options": [
+        "will meet",
+        "am meeting",
+        "met",
+        "meets"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đã sắp xếp = thì hiện tại tiếp diễn",
+      "hints": [
+        "'arranged it yesterday' (đã sắp xếp hôm qua) + '5 o'clock' = kế hoạch CỤ THỂ → am meeting"
+      ],
+      "points": 10
+    },
+    {
+      "id": 29,
+      "type": "error-correct",
+      "wrongSentence": "I think he will wins the race.",
+      "correctSentence": "I think he will win the race.",
+      "errorWord": "will wins",
+      "correction": "will win",
+      "explanation": "Sau 'will', dùng động từ nguyên mẫu (không có -s)",
+      "hints": [
+        "Sau 'will' KHÔNG thêm -s vào động từ. 'wins' sai → phải là 'win' (động từ nguyên mẫu)"
+      ],
+      "points": 10
+    },
+    {
+      "id": 30,
+      "type": "error-correct",
+      "wrongSentence": "We are go to the beach tomorrow.",
+      "correctSentence": "We are going to the beach tomorrow.",
+      "errorWord": "are go",
+      "correction": "are going",
+      "explanation": "Thì hiện tại tiếp diễn: are + V-ing",
+      "hints": [
+        "Thì HTTD: are + V-ing. 'are go' sai → phải là 'are going' (thêm -ing)"
+      ],
+      "points": 10
+    },
+    {
+      "id": 31,
+      "type": "error-correct",
+      "wrongSentence": "She will be goes to university next year.",
+      "correctSentence": "She will go to university next year.",
+      "errorWord": "will be goes",
+      "correction": "will go",
+      "explanation": "Will + động từ nguyên mẫu (không phải 'will be goes')",
+      "hints": [
+        "'will be goes' sai hoàn toàn! Cấu trúc đúng: will + động từ nguyên mẫu → 'will go'"
+      ],
+      "points": 10
+    },
+    {
+      "id": 32,
+      "type": "error-correct",
+      "wrongSentence": "They are going visit Paris next month.",
+      "correctSentence": "They are going to visit Paris next month.",
+      "errorWord": "going visit",
+      "correction": "going to visit",
+      "explanation": "Thì hiện tại tiếp diễn cần: are going to visit HOẶC are visiting",
+      "hints": [
+        "'going visit' thiếu 'to'. Phải là 'going to visit' (be going to + V) hoặc 'are visiting' (HTTD)"
+      ],
+      "points": 10
+    },
+    {
+      "id": 33,
+      "type": "error-correct",
+      "wrongSentence": "Will people lives on Mars in the future?",
+      "correctSentence": "Will people live on Mars in the future?",
+      "errorWord": "lives",
+      "correction": "live",
+      "explanation": "Sau 'will', dùng động từ nguyên mẫu (không -s)",
+      "hints": [
+        "Sau 'Will' KHÔNG thêm -s. 'lives' sai → phải là 'live' (động từ nguyên mẫu)"
+      ],
+      "points": 10
+    },
+    {
+      "id": 34,
+      "type": "error-correct",
+      "wrongSentence": "I'm meet my teacher at 3pm today.",
+      "correctSentence": "I'm meeting my teacher at 3pm today.",
+      "errorWord": "I'm meet",
+      "correction": "I'm meeting",
+      "explanation": "Thì hiện tại tiếp diễn: I'm + V-ing",
+      "hints": [
+        "Thì HTTD: I'm + V-ing. 'I'm meet' sai → phải là 'I'm meeting' (thêm -ing)"
+      ],
+      "points": 10
+    },
+    {
+      "id": 35,
+      "type": "multiple-choice",
+      "question": "Dịch: 'Tôi nghĩ trời sẽ mưa vào chiều nay.' (prediction with 'I think')",
+      "options": ["I think it will rain this afternoon.", "I think it is raining this afternoon.", "I think it rains this afternoon.", "I think it rained this afternoon."],
+      "correctIndex": 0,
+      "explanation": "'I think' (tôi nghĩ) + will cho dự đoán về tương lai",
+      "hints": ["'Tôi nghĩ' = dự đoán cá nhân về tương lai → dùng will"],
+      "points": 10
+    },
+    {
+      "id": 36,
+      "type": "multiple-choice",
+      "question": "Dịch: 'Chúng tôi sẽ gặp bạn bè vào tối mai.' (arranged plan - we've already contacted them)",
+      "options": ["We are meeting our friends tomorrow evening.", "We will meet our friends tomorrow evening.", "We meet our friends tomorrow evening.", "We met our friends tomorrow evening."],
+      "correctIndex": 0,
+      "explanation": "Kế hoạch đã sắp xếp (đã liên lạc) dùng thì hiện tại tiếp diễn",
+      "hints": ["'already contacted' (đã liên lạc) = kế hoạch CHẮC CHẮN → are meeting (thì HTTD)"],
+      "points": 10
+    },
+    {
+      "id": 37,
+      "type": "multiple-choice",
+      "question": "Dịch: 'Trái đất sẽ nóng hơn trong tương lai.' (prediction about the future)",
+      "options": ["The earth will be hotter in the future.", "The earth is being hotter in the future.", "The earth is hotter in the future.", "The earth was hotter in the future."],
+      "correctIndex": 0,
+      "explanation": "Dự đoán về tương lai dùng 'will'",
+      "hints": ["'trong tương lai' + 'nóng hơn' = DỰ ĐOÁN về khí hậu → will be"],
+      "points": 10
+    },
+    {
+      "id": 38,
+      "type": "multiple-choice",
+      "question": "Sarah: 'What __________ this summer?' Tom: 'My family and I are going to Spain.' (asking about arranged plans)",
+      "options": ["are you doing", "will you do", "do you do", "did you do"],
+      "correctIndex": 0,
+      "explanation": "Hỏi về kế hoạch đã sắp xếp dùng thì hiện tại tiếp diễn",
+      "hints": ["Tom trả lời 'are going to Spain' (đã lên kế hoạch) → Sarah hỏi bằng 'are you doing' (thì HTTD)"],
+      "points": 10
+    },
+    {
+      "id": 39,
+      "type": "open-ended",
+      "title": "Viết dự đoán về thành phố/thị trấn của bạn",
+      "instruction": "Viết 5 câu về bạn nghĩ thành phố/thị trấn của bạn sẽ thay đổi như thế nào trong tương lai. Dùng 'will' hoặc 'won't'.",
+      "example": "Example: My city will have more parks. There won't be so much traffic. People will use electric cars...",
+      "minSentences": 5,
+      "maxWords": 150,
+      "scored": false,
+      "displayOnly": true,
+      "points": 0
+    },
+    {
+      "id": 40,
+      "type": "open-ended",
+      "title": "Viết về kế hoạch của bạn",
+      "instruction": "Viết 5 câu về kế hoạch của bạn cho tuần tới. Dùng thì hiện tại tiếp diễn (am/is/are + V-ing) để nói về kế hoạch đã sắp xếp.",
+      "example": "Example: I'm meeting my friends on Monday. We're going to the cinema. I'm studying for my exam on Tuesday...",
+      "minSentences": 5,
+      "maxWords": 150,
+      "scored": false,
+      "displayOnly": true,
+      "points": 0
+    },
+    {
+      "id": 41,
+      "type": "multiple-choice",
+      "question": "Look at those dark clouds! It __________ soon.",
+      "options": [
+        "will rain",
+        "is raining",
+        "rains",
+        "rained"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dự đoán dựa trên bằng chứng hiện tại (mây đen)",
+      "hints": [
+        "'dark clouds' (mây đen) = bằng chứng nhìn thấy NGAY BÂY GIỜ → dự đoán SẮP mưa → will rain"
+      ],
+      "points": 10
+    },
+    {
+      "id": 42,
+      "type": "multiple-choice",
+      "question": "We __________ a new car next month. We've already ordered it.",
+      "options": [
+        "will buy",
+        "are buying",
+        "buy",
+        "bought"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đã đặt mua = kế hoạch đã sắp xếp",
+      "hints": [
+        "'already ordered' (đã đặt mua rồi) = kế hoạch CHẮC CHẮN 100% → are buying (thì HTTD)"
+      ],
+      "points": 10
+    },
+    {
+      "id": 43,
+      "type": "multiple-choice",
+      "question": "I'm sure robots __________ more popular in the future.",
+      "options": [
+        "will be",
+        "are being",
+        "are",
+        "were"
+      ],
+      "correctIndex": 0,
+      "explanation": "'I'm sure' (tôi chắc chắn) = dự đoán về tương lai",
+      "hints": [
+        "'I'm sure' (tôi chắc chắn) + 'in the future' = DỰ ĐOÁN mạnh về tương lai → will be"
+      ],
+      "points": 10
+    },
+    {
+      "id": 44,
+      "type": "multiple-choice",
+      "question": "She __________ her exam results tomorrow at 9am. The school sent a letter about it.",
+      "options": [
+        "will get",
+        "is getting",
+        "gets",
+        "got"
+      ],
+      "correctIndex": 1,
+      "explanation": "Trường đã gửi thư thông báo = kế hoạch đã sắp xếp",
+      "hints": [
+        "'sent a letter' (đã gửi thư) + '9am' = thời gian CỤ THỂ đã định → is getting (thì HTTD)"
+      ],
+      "points": 10
+    },
+    {
+      "id": 45,
+      "type": "multiple-choice",
+      "question": "Perhaps people __________ flying cars in 2050.",
+      "options": [
+        "will have",
+        "are having",
+        "have",
+        "had"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Perhaps' (có lẽ/có thể) = dự đoán không chắc chắn",
+      "hints": [
+        "'Perhaps' (có lẽ) = KHÔNG CHẮC CHẮN, chỉ là dự đoán về năm 2050 → will have"
+      ],
+      "points": 10
+    },
+    {
+      "id": 46,
+      "type": "multiple-choice",
+      "question": "My parents __________ to Thailand next summer. They booked the flights yesterday.",
+      "options": [
+        "will travel",
+        "are travelling",
+        "travel",
+        "travelled"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đã đặt vé máy bay = kế hoạch đã sắp xếp",
+      "hints": [
+        "'booked the flights yesterday' (đã đặt vé máy bay) = kế hoạch CHẮC CHẮN → are travelling (thì HTTD)"
+      ],
+      "points": 10
+    },
+    {
+      "id": 47,
+      "type": "multiple-choice",
+      "question": "A: 'I'm cold.' - B: 'I __________ the heater for you.' (spontaneous offer)",
+      "options": [
+        "will turn on",
+        "am turning on",
+        "turn on",
+        "turned on"
+      ],
+      "correctIndex": 0,
+      "explanation": "Quyết định tức thì khi nghe ai đó nói lạnh",
+      "hints": [
+        "'I'm cold' (tôi lạnh) → B quyết định giúp NGAY LÚC ĐÓ → will turn on (quyết định tức thì)"
+      ],
+      "points": 10
+    },
+    {
+      "id": 48,
+      "type": "multiple-choice",
+      "question": "The movie __________ at 7pm tonight. It says so on the cinema's schedule.",
+      "options": [
+        "will start",
+        "is starting",
+        "starts",
+        "started"
+      ],
+      "correctIndex": 2,
+      "explanation": "Lịch chiếu phim cố định dùng thì hiện tại đơn",
+      "hints": [
+        "'cinema's schedule' (lịch chiếu) = thời gian CỐ ĐỊNH, không thay đổi → starts (thì HTĐ cho lịch trình)"
+      ],
+      "points": 10
+    },
+    {
+      "id": 49,
+      "type": "multiple-choice",
+      "question": "I don't think she __________ the competition.",
+      "options": [
+        "will win",
+        "is winning",
+        "wins",
+        "won"
+      ],
+      "correctIndex": 0,
+      "explanation": "'I don't think' (tôi không nghĩ) = dự đoán phủ định",
+      "hints": [
+        "'I don't think' (tôi không nghĩ) = DỰ ĐOÁN TIÊU CỰC → will win (dự đoán với will)"
+      ],
+      "points": 10
+    },
+    {
+      "id": 50,
+      "type": "multiple-choice",
+      "question": "We __________ a meeting with the principal at 10am tomorrow. It's in our calendar.",
+      "options": [
+        "will have",
+        "are having",
+        "have",
+        "had"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đã ghi vào lịch = kế hoạch đã sắp xếp",
+      "hints": [
+        "'in our calendar' (trong lịch) + '10am' = cuộc họp ĐÃ LÊN LỊCH → are having (thì HTTD)"
+      ],
+      "points": 10
+    },
+    {
+      "id": 51,
+      "type": "word-rearrange",
+      "words": ["People", "will", "live", "in", "underwater", "cities."],
+      "acceptedAnswers": ["People will live in underwater cities."],
+      "hints": ["Sắp xếp: People + will + live + địa điểm (in underwater cities)"],
+      "points": 10,
+      "correctSentence": "People will live in underwater cities."
+    },
+    {
+      "id": 52,
+      "type": "word-rearrange",
+      "words": ["We", "are", "visiting", "the", "museum", "on", "Sunday."],
+      "acceptedAnswers": ["We are visiting the museum on Sunday."],
+      "hints": ["Sắp xếp: We + are + V-ing (visiting) + địa điểm (the museum) + thời gian (on Sunday)"],
+      "points": 10,
+      "correctSentence": "We are visiting the museum on Sunday."
+    },
+    {
+      "id": 53,
+      "type": "word-rearrange",
+      "words": ["There", "won't", "be", "so", "much", "traffic."],
+      "acceptedAnswers": ["There won't be so much traffic."],
+      "hints": ["Sắp xếp: There + won't + be + tân ngữ (so much traffic) - câu phủ định về tương lai"],
+      "points": 10,
+      "correctSentence": "There won't be so much traffic."
+    },
+    {
+      "id": 54,
+      "type": "word-rearrange",
+      "words": ["She", "is", "starting", "her", "new", "job", "on", "Monday."],
+      "acceptedAnswers": ["She is starting her new job on Monday."],
+      "hints": ["Sắp xếp: She + is + V-ing (starting) + tân ngữ (her new job) + thời gian (on Monday)"],
+      "points": 10,
+      "correctSentence": "She is starting her new job on Monday."
+    },
+    {
+      "id": 55,
+      "type": "word-rearrange",
+      "words": ["Students", "will", "study", "online", "at", "home."],
+      "acceptedAnswers": ["Students will study online at home.", "Students will study at home online."],
+      "hints": ["Sắp xếp: Students + will + study + cách thức (online) + địa điểm (at home)"],
+      "points": 10,
+      "correctSentence": "Students will study online at home."
+    },
+    {
+      "id": 56,
+      "type": "multiple-choice",
+      "question": "Scientists predict that climate change __________ a serious problem in the future.",
+      "options": [
+        "will be",
+        "is being",
+        "is",
+        "was"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Scientists predict' (các nhà khoa học dự đoán) = dự đoán về tương lai",
+      "hints": [
+        "'Scientists predict' (các nhà khoa học dự đoán) + 'in the future' = DỰ ĐOÁN khoa học → will be"
+      ],
+      "points": 10
+    },
+    {
+      "id": 57,
+      "type": "multiple-choice",
+      "question": "They __________ their grandparents this weekend. It's all arranged.",
+      "options": [
+        "will visit",
+        "are visiting",
+        "visit",
+        "visited"
+      ],
+      "correctIndex": 1,
+      "explanation": "'It's all arranged' (đã sắp xếp hết) = kế hoạch đã cố định",
+      "hints": [
+        "'It's all arranged' (đã sắp xếp hết rồi) = kế hoạch CHẮC CHẮN 100% → are visiting (thì HTTD)"
+      ],
+      "points": 10
+    },
+    {
+      "id": 58,
+      "type": "multiple-choice",
+      "question": "Maybe it __________ snow tomorrow.",
+      "options": [
+        "will",
+        "is",
+        "does",
+        "was"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Maybe' (có lẽ/có thể) = dự đoán không chắc chắn",
+      "hints": [
+        "'Maybe' (có lẽ) = KHÔNG CHẮC CHẮN, chỉ là phỏng đoán → will snow"
+      ],
+      "points": 10
+    },
+    {
+      "id": 59,
+      "type": "multiple-choice",
+      "question": "The train __________ at 6:30pm according to the timetable. Don't be late!",
+      "options": [
+        "will leave",
+        "is leaving",
+        "leaves",
+        "left"
+      ],
+      "correctIndex": 2,
+      "explanation": "Lịch tàu cố định dùng thì hiện tại đơn",
+      "hints": [
+        "'timetable' (thời khóa biểu) = lịch trình CỐ ĐỊNH, không thay đổi → leaves (thì HTĐ)"
+      ],
+      "points": 10
+    },
+    {
+      "id": 60,
+      "type": "multiple-choice",
+      "question": "I believe technology __________ our lives easier.",
+      "options": [
+        "will make",
+        "is making",
+        "makes",
+        "made"
+      ],
+      "correctIndex": 0,
+      "explanation": "'I believe' (tôi tin) = niềm tin, dự đoán cá nhân",
+      "hints": [
+        "'I believe' (tôi tin) + 'easier' (dễ dàng hơn) = niềm tin về tương lai → will make"
+      ],
+      "points": 10
+    },
+    {
+      "id": 61,
+      "type": "word-rearrange",
+      "words": ["I", "am", "meeting", "the", "dentist", "at", "3pm", "tomorrow."],
+      "acceptedAnswers": ["I am meeting the dentist at 3pm tomorrow.", "I am meeting the dentist tomorrow at 3pm."],
+      "hints": ["Sắp xếp: I + am + V-ing (meeting) + tân ngữ (the dentist) + thời gian (at 3pm tomorrow)"],
+      "points": 10,
+      "correctSentence": "I am meeting the dentist at 3pm tomorrow."
+    },
+    {
+      "id": 62,
+      "type": "word-rearrange",
+      "words": ["Cars", "won't", "use", "petrol", "in", "the", "future."],
+      "acceptedAnswers": ["Cars won't use petrol in the future."],
+      "hints": ["Sắp xếp: Cars + won't + use + tân ngữ (petrol) + thời gian (in the future)"],
+      "points": 10,
+      "correctSentence": "Cars won't use petrol in the future."
+    },
+    {
+      "id": 63,
+      "type": "word-rearrange",
+      "words": ["They", "are", "having", "a", "party", "on", "Friday", "night."],
+      "acceptedAnswers": ["They are having a party on Friday night."],
+      "hints": ["Sắp xếp: They + are + V-ing (having) + tân ngữ (a party) + thời gian (on Friday night)"],
+      "points": 10,
+      "correctSentence": "They are having a party on Friday night."
+    },
+    {
+      "id": 64,
+      "type": "word-rearrange",
+      "words": ["Scientists", "will", "find", "a", "cure", "for", "cancer."],
+      "acceptedAnswers": ["Scientists will find a cure for cancer."],
+      "hints": ["Sắp xếp: Scientists + will + find + tân ngữ (a cure for cancer)"],
+      "points": 10,
+      "correctSentence": "Scientists will find a cure for cancer."
+    },
+    {
+      "id": 65,
+      "type": "word-rearrange",
+      "words": ["He", "is", "taking", "his", "driving", "test", "next", "week."],
+      "acceptedAnswers": ["He is taking his driving test next week."],
+      "hints": ["Sắp xếp: He + is + V-ing (taking) + tân ngữ (his driving test) + thời gian (next week)"],
+      "points": 10,
+      "correctSentence": "He is taking his driving test next week."
+    },
+    {
+      "id": 66,
+      "type": "multiple-choice",
+      "question": "I think electric cars __________ more common in the next decade.",
+      "options": [
+        "will become",
+        "are becoming",
+        "become",
+        "became"
+      ],
+      "correctIndex": 0,
+      "explanation": "'I think' (tôi nghĩ) = dự đoán về xu hướng tương lai",
+      "hints": [
+        "'I think' (tôi nghĩ) + 'in the next decade' (thập kỷ tới) = DỰ ĐOÁN xu hướng → will become"
+      ],
+      "points": 10
+    },
+    {
+      "id": 67,
+      "type": "multiple-choice",
+      "question": "We __________ dinner at that new restaurant tonight. I made a reservation.",
+      "options": [
+        "will have",
+        "are having",
+        "have",
+        "had"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đã đặt bàn = kế hoạch cụ thể",
+      "hints": [
+        "'made a reservation' (đã đặt bàn) = kế hoạch CHẮC CHẮN, đã book trước → are having (thì HTTD)"
+      ],
+      "points": 10
+    },
+    {
+      "id": 68,
+      "type": "multiple-choice",
+      "question": "Probably we __________ to the beach this summer.",
+      "options": [
+        "will go",
+        "are going",
+        "go",
+        "went"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Probably' (có lẽ/chắc là) = dự đoán",
+      "hints": [
+        "'Probably' (có lẽ/chắc là) = KHÔNG CHẮC CHẮN, chỉ là phỏng đoán → will go"
+      ],
+      "points": 10
+    },
+    {
+      "id": 69,
+      "type": "multiple-choice",
+      "question": "The concert __________ at 8pm. It says so on the ticket.",
+      "options": [
+        "will begin",
+        "is beginning",
+        "begins",
+        "began"
+      ],
+      "correctIndex": 2,
+      "explanation": "Lịch biểu diễn cố định",
+      "hints": [
+        "'on the ticket' (trên vé) = thời gian CỐ ĐỊNH chính thức → begins (thì HTĐ cho lịch trình)"
+      ],
+      "points": 10
+    },
+    {
+      "id": 70,
+      "type": "multiple-choice",
+      "question": "I expect he __________ the job offer.",
+      "options": [
+        "will accept",
+        "is accepting",
+        "accepts",
+        "accepted"
+      ],
+      "correctIndex": 0,
+      "explanation": "'I expect' (tôi kỳ vọng/mong đợi) = dự đoán",
+      "hints": [
+        "'I expect' (tôi mong đợi/kỳ vọng) = DỰ ĐOÁN cá nhân về tương lai → will accept"
+      ],
+      "points": 10
+    },
+    {
+      "id": 71,
+      "type": "word-rearrange",
+      "words": ["People", "won't", "use", "paper", "money", "anymore."],
+      "acceptedAnswers": ["People won't use paper money anymore."],
+      "hints": ["Sắp xếp: People + won't + use + tân ngữ (paper money) + anymore"],
+      "points": 10,
+      "correctSentence": "People won't use paper money anymore."
+    },
+    {
+      "id": 72,
+      "type": "word-rearrange",
+      "words": ["I", "am", "playing", "football", "with", "my", "friends", "on", "Saturday."],
+      "acceptedAnswers": ["I am playing football with my friends on Saturday."],
+      "hints": ["Sắp xếp: I + am + V-ing (playing) + tân ngữ (football with my friends) + thời gian (on Saturday)"],
+      "points": 10,
+      "correctSentence": "I am playing football with my friends on Saturday."
+    },
+    {
+      "id": 73,
+      "type": "word-rearrange",
+      "words": ["It", "will", "be", "sunny", "tomorrow."],
+      "acceptedAnswers": ["It will be sunny tomorrow."],
+      "hints": ["Sắp xếp: It + will + be + tính từ (sunny) + thời gian (tomorrow)"],
+      "points": 10,
+      "correctSentence": "It will be sunny tomorrow."
+    },
+    {
+      "id": 74,
+      "type": "word-rearrange",
+      "words": ["We", "are", "moving", "to", "a", "new", "house", "next", "month."],
+      "acceptedAnswers": ["We are moving to a new house next month."],
+      "hints": ["Sắp xếp: We + are + V-ing (moving) + địa điểm (to a new house) + thời gian (next month)"],
+      "points": 10,
+      "correctSentence": "We are moving to a new house next month."
+    },
+    {
+      "id": 75,
+      "type": "word-rearrange",
+      "words": ["Schools", "will", "have", "more", "virtual", "classes."],
+      "acceptedAnswers": ["Schools will have more virtual classes."],
+      "hints": ["Sắp xếp: Schools + will + have + tân ngữ (more virtual classes)"],
+      "points": 10,
+      "correctSentence": "Schools will have more virtual classes."
+    },
+    {
+      "id": 76,
+      "type": "multiple-choice",
+      "question": "Experts believe renewable energy __________ fossil fuels eventually.",
+      "options": [
+        "will replace",
+        "is replacing",
+        "replaces",
+        "replaced"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Experts believe' (các chuyên gia tin rằng) = dự đoán về tương lai",
+      "hints": [
+        "'Experts believe' (chuyên gia tin rằng) = DỰ ĐOÁN chuyên môn về tương lai → will replace"
+      ],
+      "points": 10
+    },
+    {
+      "id": 77,
+      "type": "multiple-choice",
+      "question": "My sister __________ married next June. The date is set.",
+      "options": [
+        "will get",
+        "is getting",
+        "gets",
+        "got"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ngày cưới đã định = kế hoạch cụ thể",
+      "hints": [
+        "'The date is set' (ngày đã định) = kế hoạch CHẮC CHẮN, đã lên lịch → is getting (thì HTTD)"
+      ],
+      "points": 10
+    },
+    {
+      "id": 78,
+      "type": "multiple-choice",
+      "question": "I'm not sure but I think I __________ go to university.",
+      "options": [
+        "will",
+        "am",
+        "do",
+        "can"
+      ],
+      "correctIndex": 0,
+      "explanation": "'I'm not sure' (tôi không chắc) + 'I think' (tôi nghĩ) = dự đoán",
+      "hints": [
+        "'I'm not sure' (tôi không chắc) + 'I think' (tôi nghĩ) = DỰ ĐOÁN không chắc chắn → will"
+      ],
+      "points": 10
+    },
+    {
+      "id": 79,
+      "type": "multiple-choice",
+      "question": "The bus __________ in five minutes according to the timetable.",
+      "options": [
+        "will arrive",
+        "is arriving",
+        "arrives",
+        "arrived"
+      ],
+      "correctIndex": 2,
+      "explanation": "Lịch xe buýt cố định",
+      "hints": [
+        "'timetable' (thời khóa biểu) = lịch trình CỐ ĐỊNH của xe buýt → arrives (thì HTĐ)"
+      ],
+      "points": 10
+    },
+    {
+      "id": 80,
+      "type": "multiple-choice",
+      "question": "I hope it __________ rain on my birthday.",
+      "options": [
+        "won't",
+        "isn't",
+        "doesn't",
+        "hasn't"
+      ],
+      "correctIndex": 0,
+      "explanation": "'I hope' + dự đoán với won't",
+      "hints": [
+        "'I hope' (tôi hy vọng) + 'not rain' = hy vọng điều KHÔNG xảy ra → won't rain"
+      ],
+      "points": 10
+    },
+    {
+      "id": 81,
+      "type": "word-rearrange",
+      "words": ["She", "is", "attending", "a", "conference", "in", "London", "next", "week."],
+      "acceptedAnswers": ["She is attending a conference in London next week."],
+      "hints": ["Sắp xếp: She + is + V-ing (attending) + tân ngữ (a conference) + địa điểm (in London) + thời gian (next week)"],
+      "points": 10,
+      "correctSentence": "She is attending a conference in London next week."
+    },
+    {
+      "id": 82,
+      "type": "word-rearrange",
+      "words": ["Robots", "will", "do", "all", "the", "housework."],
+      "acceptedAnswers": ["Robots will do all the housework."],
+      "hints": ["Sắp xếp: Robots + will + do + tân ngữ (all the housework)"],
+      "points": 10,
+      "correctSentence": "Robots will do all the housework."
+    },
+    {
+      "id": 83,
+      "type": "word-rearrange",
+      "words": ["Are", "you", "coming", "to", "my", "party", "tonight?"],
+      "acceptedAnswers": ["Are you coming to my party tonight?"],
+      "hints": ["Câu hỏi HTTD: Are + you + V-ing (coming) + địa điểm (to my party) + thời gian (tonight) + ?"],
+      "points": 10,
+      "correctSentence": "Are you coming to my party tonight?"
+    },
+    {
+      "id": 84,
+      "type": "word-rearrange",
+      "words": ["There", "won't", "be", "any", "pollution."],
+      "acceptedAnswers": ["There won't be any pollution."],
+      "hints": ["Sắp xếp: There + won't + be + tân ngữ (any pollution) - câu phủ định"],
+      "points": 10,
+      "correctSentence": "There won't be any pollution."
+    },
+    {
+      "id": 85,
+      "type": "word-rearrange",
+      "words": ["I", "am", "seeing", "the", "doctor", "this", "afternoon."],
+      "acceptedAnswers": ["I am seeing the doctor this afternoon."],
+      "hints": ["Sắp xếp: I + am + V-ing (seeing) + tân ngữ (the doctor) + thời gian (this afternoon)"],
+      "points": 10,
+      "correctSentence": "I am seeing the doctor this afternoon."
+    },
+    {
+      "id": 86,
+      "type": "multiple-choice",
+      "question": "I think space tourism __________ affordable for everyone in 50 years.",
+      "options": [
+        "will be",
+        "is being",
+        "is",
+        "was"
+      ],
+      "correctIndex": 0,
+      "explanation": "'I think' (tôi nghĩ) = dự đoán về tương lai",
+      "hints": [
+        "'I think' (tôi nghĩ) + 'in 50 years' = DỰ ĐOÁN về tương lai xa → will be"
+      ],
+      "points": 10
+    },
+    {
+      "id": 87,
+      "type": "multiple-choice",
+      "question": "We __________ to Paris for our anniversary. Everything is booked.",
+      "options": [
+        "will go",
+        "are going",
+        "go",
+        "went"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đã đặt tất cả = kế hoạch hoàn chỉnh",
+      "hints": [
+        "'Everything is booked' (đã đặt hết rồi) = kế hoạch CHẮC CHẮN 100% → are going (thì HTTD)"
+      ],
+      "points": 10
+    },
+    {
+      "id": 88,
+      "type": "multiple-choice",
+      "question": "I doubt she __________ on time. She's always late.",
+      "options": [
+        "will arrive",
+        "is arriving",
+        "arrives",
+        "arrived"
+      ],
+      "correctIndex": 0,
+      "explanation": "'I doubt' (tôi nghi ngờ/không tin) = dự đoán tiêu cực",
+      "hints": [
+        "'I doubt' (tôi ngờ) + 'always late' = DỰ ĐOÁN TIÊU CỰC (không tin cô ấy đến đúng giờ) → will arrive"
+      ],
+      "points": 10
+    },
+    {
+      "id": 89,
+      "type": "multiple-choice",
+      "question": "The exam __________ at 9am sharp tomorrow. It's on the official schedule.",
+      "options": [
+        "will start",
+        "is starting",
+        "starts",
+        "started"
+      ],
+      "correctIndex": 2,
+      "explanation": "Lịch thi cố định dùng thì hiện tại đơn",
+      "hints": [
+        "'official schedule' (lịch chính thức) = thời gian CỐ ĐỊNH không thay đổi → starts (thì HTĐ)"
+      ],
+      "points": 10
+    },
+    {
+      "id": 90,
+      "type": "multiple-choice",
+      "question": "I'm certain that AI __________ change many industries.",
+      "options": [
+        "will",
+        "is",
+        "does",
+        "can"
+      ],
+      "correctIndex": 0,
+      "explanation": "'I'm certain' (tôi chắc chắn) = dự đoán mạnh",
+      "hints": [
+        "'I'm certain' (tôi chắc chắn) = DỰ ĐOÁN RẤT MẠNH về tương lai → will change"
+      ],
+      "points": 10
+    },
+    {
+      "id": 91,
+      "type": "word-rearrange",
+      "words": ["Cities", "will", "be", "cleaner", "and", "greener."],
+      "acceptedAnswers": ["Cities will be cleaner and greener.", "Cities will be greener and cleaner."],
+      "hints": ["Sắp xếp: Cities + will + be + tính từ (cleaner and greener)"],
+      "points": 10,
+      "correctSentence": "Cities will be cleaner and greener."
+    },
+    {
+      "id": 92,
+      "type": "word-rearrange",
+      "words": ["They", "are", "leaving", "early", "tomorrow", "morning."],
+      "acceptedAnswers": ["They are leaving early tomorrow morning.", "They are leaving tomorrow morning early."],
+      "hints": ["Sắp xếp: They + are + V-ing (leaving) + trạng từ (early) + thời gian (tomorrow morning)"],
+      "points": 10,
+      "correctSentence": "They are leaving early tomorrow morning."
+    },
+    {
+      "id": 93,
+      "type": "word-rearrange",
+      "words": ["People", "will", "work", "from", "home", "more."],
+      "acceptedAnswers": ["People will work from home more.", "People will work more from home."],
+      "hints": ["Sắp xếp: People + will + work + địa điểm (from home) + trạng từ (more)"],
+      "points": 10,
+      "correctSentence": "People will work from home more."
+    },
+    {
+      "id": 94,
+      "type": "word-rearrange",
+      "words": ["The", "teacher", "is", "giving", "a", "test", "on", "Friday."],
+      "acceptedAnswers": ["The teacher is giving a test on Friday."],
+      "hints": ["Sắp xếp: The teacher + is + V-ing (giving) + tân ngữ (a test) + thời gian (on Friday)"],
+      "points": 10,
+      "correctSentence": "The teacher is giving a test on Friday."
+    },
+    {
+      "id": 95,
+      "type": "word-rearrange",
+      "words": ["We", "won't", "need", "keys", "anymore."],
+      "acceptedAnswers": ["We won't need keys anymore."],
+      "hints": ["Sắp xếp: We + won't + need + tân ngữ (keys) + anymore - câu phủ định"],
+      "points": 10,
+      "correctSentence": "We won't need keys anymore."
+    },
+    {
+      "id": 96,
+      "type": "multiple-choice",
+      "question": "I believe self-driving cars __________ normal in 20 years.",
+      "options": [
+        "will be",
+        "are being",
+        "are",
+        "were"
+      ],
+      "correctIndex": 0,
+      "explanation": "'I believe' (tôi tin) = dự đoán về tương lai",
+      "hints": [
+        "'I believe' (tôi tin) + 'in 20 years' = DỰ ĐOÁN về tương lai xa → will be"
+      ],
+      "points": 10
+    },
+    {
+      "id": 97,
+      "type": "multiple-choice",
+      "question": "John __________ his presentation at 2pm. It's in his calendar.",
+      "options": [
+        "will give",
+        "is giving",
+        "gives",
+        "gave"
+      ],
+      "correctIndex": 1,
+      "explanation": "Trong lịch = kế hoạch đã sắp xếp",
+      "hints": [
+        "'in his calendar' (trong lịch của anh ấy) + '2pm' = kế hoạch ĐÃ LÊN LỊCH → is giving (thì HTTD)"
+      ],
+      "points": 10
+    },
+    {
+      "id": 98,
+      "type": "multiple-choice",
+      "question": "I guess traffic __________ worse in big cities.",
+      "options": [
+        "will get",
+        "is getting",
+        "gets",
+        "got"
+      ],
+      "correctIndex": 0,
+      "explanation": "'I guess' (tôi đoán) = dự đoán",
+      "hints": [
+        "'I guess' (tôi đoán) = KHÔNG CHẮC CHẮN, chỉ là phỏng đoán về tương lai → will get"
+      ],
+      "points": 10
+    },
+    {
+      "id": 99,
+      "type": "multiple-choice",
+      "question": "The shop __________ at 9am every day.",
+      "options": [
+        "will open",
+        "is opening",
+        "opens",
+        "opened"
+      ],
+      "correctIndex": 2,
+      "explanation": "Giờ mở cửa cố định hàng ngày",
+      "hints": [
+        "'every day' (mỗi ngày) = giờ mở cửa CỐ ĐỊNH, lặp lại hàng ngày → opens (thì HTĐ)"
+      ],
+      "points": 10
+    },
+    {
+      "id": 100,
+      "type": "multiple-choice",
+      "question": "It's likely that temperatures __________ rise globally.",
+      "options": [
+        "will",
+        "are",
+        "do",
+        "can"
+      ],
+      "correctIndex": 0,
+      "explanation": "'It's likely' (có khả năng) = dự đoán",
+      "hints": [
+        "'It's likely' (có khả năng) = DỰ ĐOÁN về xu hướng tương lai → will rise"
+      ],
+      "points": 10
+    },
+    {
+      "id": 101,
+      "type": "word-rearrange",
+      "words": ["I", "am", "studying", "at", "the", "library", "tonight."],
+      "acceptedAnswers": ["I am studying at the library tonight."],
+      "hints": ["Sắp xếp: I + am + V-ing (studying) + địa điểm (at the library) + thời gian (tonight)"],
+      "points": 10,
+      "correctSentence": "I am studying at the library tonight."
+    },
+    {
+      "id": 102,
+      "type": "word-rearrange",
+      "words": ["Technology", "will", "solve", "many", "problems."],
+      "acceptedAnswers": ["Technology will solve many problems."],
+      "hints": ["Sắp xếp: Technology + will + solve + tân ngữ (many problems)"],
+      "points": 10,
+      "correctSentence": "Technology will solve many problems."
+    },
+    {
+      "id": 103,
+      "type": "word-rearrange",
+      "words": ["We", "are", "watching", "a", "movie", "at", "the", "cinema", "on", "Saturday."],
+      "acceptedAnswers": ["We are watching a movie at the cinema on Saturday."],
+      "hints": ["Sắp xếp: We + are + V-ing (watching) + tân ngữ (a movie) + địa điểm (at the cinema) + thời gian (on Saturday)"],
+      "points": 10,
+      "correctSentence": "We are watching a movie at the cinema on Saturday."
+    },
+    {
+      "id": 104,
+      "type": "word-rearrange",
+      "words": ["Printed", "books", "won't", "exist", "in", "the", "future."],
+      "acceptedAnswers": ["Printed books won't exist in the future."],
+      "hints": ["Sắp xếp: Printed books + won't + exist + thời gian (in the future) - câu phủ định"],
+      "points": 10,
+      "correctSentence": "Printed books won't exist in the future."
+    },
+    {
+      "id": 105,
+      "type": "word-rearrange",
+      "words": ["She", "is", "doing", "her", "project", "presentation", "on", "Monday."],
+      "acceptedAnswers": ["She is doing her project presentation on Monday."],
+      "hints": ["Sắp xếp: She + is + V-ing (doing) + tân ngữ (her project presentation) + thời gian (on Monday)"],
+      "points": 10,
+      "correctSentence": "She is doing her project presentation on Monday."
+    },
+    {
+      "id": 106,
+      "type": "multiple-choice",
+      "question": "Scientists predict that ocean levels __________ continue to rise due to climate change.",
+      "options": [
+        "will",
+        "are",
+        "do",
+        "can"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Scientists predict' (các nhà khoa học dự đoán) = dự đoán về tương lai",
+      "hints": [
+        "'Scientists predict' (các nhà khoa học dự đoán) = DỰ ĐOÁN chuyên môn về khí hậu → will continue"
+      ],
+      "points": 10
+    },
+    {
+      "id": 107,
+      "type": "multiple-choice",
+      "question": "We __________ our relatives during the holiday. We've already told them we're coming.",
+      "options": [
+        "will visit",
+        "are visiting",
+        "visit",
+        "visited"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đã thông báo = kế hoạch đã sắp xếp",
+      "hints": [
+        "'already told them' (đã nói với họ rồi) = kế hoạch CHẮC CHẮN → are visiting (thì HTTD)"
+      ],
+      "points": 10
+    },
+    {
+      "id": 108,
+      "type": "multiple-choice",
+      "question": "I predict robots __________ teach classes someday.",
+      "options": [
+        "will",
+        "are",
+        "do",
+        "can"
+      ],
+      "correctIndex": 0,
+      "explanation": "'I predict' (tôi dự đoán) = dự đoán tương lai",
+      "hints": [
+        "'I predict' (tôi dự đoán) + 'someday' (một ngày nào đó) = DỰ ĐOÁN về tương lai → will teach"
+      ],
+      "points": 10
+    },
+    {
+      "id": 109,
+      "type": "multiple-choice",
+      "question": "The flight __________ at 11:45pm tonight according to the airline schedule.",
+      "options": [
+        "will depart",
+        "is departing",
+        "departs",
+        "departed"
+      ],
+      "correctIndex": 2,
+      "explanation": "Lịch bay cố định dùng thì hiện tại đơn",
+      "hints": [
+        "'airline schedule' (lịch bay) = thời gian CỐ ĐỊNH chính thức → departs (thì HTĐ)"
+      ],
+      "points": 10
+    },
+    {
+      "id": 110,
+      "type": "multiple-choice",
+      "question": "Most likely, she __________ accept the job.",
+      "options": [
+        "will",
+        "is",
+        "does",
+        "can"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Most likely' (rất có thể) = dự đoán",
+      "hints": [
+        "'Most likely' (rất có thể) = DỰ ĐOÁN có xác suất cao → will accept"
+      ],
+      "points": 10
+    },
+    {
+      "id": 111,
+      "type": "word-rearrange",
+      "words": ["Medicine", "will", "cure", "more", "diseases."],
+      "acceptedAnswers": ["Medicine will cure more diseases."],
+      "hints": ["Sắp xếp: Medicine + will + cure + tân ngữ (more diseases)"],
+      "points": 10,
+      "correctSentence": "Medicine will cure more diseases."
+    },
+    {
+      "id": 112,
+      "type": "word-rearrange",
+      "words": ["Are", "you", "taking", "your", "exam", "next", "week?"],
+      "acceptedAnswers": ["Are you taking your exam next week?"],
+      "hints": ["Câu hỏi HTTD: Are + you + V-ing (taking) + tân ngữ (your exam) + thời gian (next week) + ?"],
+      "points": 10,
+      "correctSentence": "Are you taking your exam next week?"
+    },
+    {
+      "id": 113,
+      "type": "word-rearrange",
+      "words": ["Children", "won't", "go", "to", "school", "buildings."],
+      "acceptedAnswers": ["Children won't go to school buildings."],
+      "hints": ["Sắp xếp: Children + won't + go + địa điểm (to school buildings) - câu phủ định"],
+      "points": 10,
+      "correctSentence": "Children won't go to school buildings."
+    },
+    {
+      "id": 114,
+      "type": "word-rearrange",
+      "words": ["He", "is", "joining", "the", "English", "club", "next", "month."],
+      "acceptedAnswers": ["He is joining the English club next month."],
+      "hints": ["Sắp xếp: He + is + V-ing (joining) + tân ngữ (the English club) + thời gian (next month)"],
+      "points": 10,
+      "correctSentence": "He is joining the English club next month."
+    },
+    {
+      "id": 115,
+      "type": "word-rearrange",
+      "words": ["Life", "will", "be", "very", "different", "in", "2100."],
+      "acceptedAnswers": ["Life will be very different in 2100."],
+      "hints": ["Sắp xếp: Life + will + be + tính từ (very different) + thời gian (in 2100)"],
+      "points": 10,
+      "correctSentence": "Life will be very different in 2100."
+    },
+    {
+      "id": 116,
+      "type": "multiple-choice",
+      "question": "Experts believe 3D printing __________ revolutionize manufacturing.",
+      "options": [
+        "will",
+        "is",
+        "does",
+        "can"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Experts believe' (các chuyên gia tin rằng) = dự đoán về tương lai",
+      "hints": [
+        "'Experts believe' (chuyên gia tin rằng) = DỰ ĐOÁN chuyên môn về công nghiệp → will revolutionize"
+      ],
+      "points": 10
+    },
+    {
+      "id": 117,
+      "type": "multiple-choice",
+      "question": "My brother __________ his new apartment next weekend. He's already bought the paint.",
+      "options": [
+        "will paint",
+        "is painting",
+        "paints",
+        "painted"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đã mua sơn = kế hoạch đã sắp xếp",
+      "hints": [
+        "'already bought the paint' (đã mua sơn rồi) = kế hoạch CHẮC CHẮN, đã chuẩn bị → is painting (thì HTTD)"
+      ],
+      "points": 10
+    },
+    {
+      "id": 118,
+      "type": "multiple-choice",
+      "question": "I assume the weather __________ improve next week.",
+      "options": [
+        "will",
+        "is",
+        "does",
+        "can"
+      ],
+      "correctIndex": 0,
+      "explanation": "'I assume' (tôi cho rằng/giả định) = dự đoán",
+      "hints": [
+        "'I assume' (tôi cho rằng/giả định) = DỰ ĐOÁN cá nhân không chắc chắn → will improve"
+      ],
+      "points": 10
+    },
+    {
+      "id": 119,
+      "type": "multiple-choice",
+      "question": "School __________ at 7:30am as usual.",
+      "options": [
+        "will start",
+        "is starting",
+        "starts",
+        "started"
+      ],
+      "correctIndex": 2,
+      "explanation": "Giờ học cố định hàng ngày",
+      "hints": [
+        "'as usual' (như thường lệ) = giờ học CỐ ĐỊNH, lặp lại hàng ngày → starts (thì HTĐ)"
+      ],
+      "points": 10
+    },
+    {
+      "id": 120,
+      "type": "multiple-choice",
+      "question": "Chances are that he __________ late again.",
+      "options": [
+        "will be",
+        "is being",
+        "is",
+        "was"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Chances are' (có khả năng là) = dự đoán",
+      "hints": [
+        "'Chances are' (có khả năng) + 'again' (lại) = DỰ ĐOÁN dựa trên thói quen → will be late"
+      ],
+      "points": 10
+    },
+    {
+      "id": 121,
+      "type": "word-rearrange",
+      "words": ["We", "are", "celebrating", "New", "Year", "at", "home."],
+      "acceptedAnswers": ["We are celebrating New Year at home."],
+      "hints": ["Sắp xếp: We + are + V-ing (celebrating) + tân ngữ (New Year) + địa điểm (at home)"],
+      "points": 10,
+      "correctSentence": "We are celebrating New Year at home."
+    },
+    {
+      "id": 122,
+      "type": "word-rearrange",
+      "words": ["The", "sun", "will", "still", "shine", "tomorrow."],
+      "acceptedAnswers": ["The sun will still shine tomorrow."],
+      "hints": ["Sắp xếp: The sun + will + still + shine + thời gian (tomorrow)"],
+      "points": 10,
+      "correctSentence": "The sun will still shine tomorrow."
+    },
+    {
+      "id": 123,
+      "type": "word-rearrange",
+      "words": ["I", "am", "not", "working", "tomorrow."],
+      "acceptedAnswers": ["I am not working tomorrow."],
+      "hints": ["Câu phủ định HTTD: I + am + not + V-ing (working) + thời gian (tomorrow)"],
+      "points": 10,
+      "correctSentence": "I am not working tomorrow."
+    },
+    {
+      "id": 124,
+      "type": "word-rearrange",
+      "words": ["Smartphones", "won't", "be", "necessary", "in", "the", "future."],
+      "acceptedAnswers": ["Smartphones won't be necessary in the future."],
+      "hints": ["Sắp xếp: Smartphones + won't + be + tính từ (necessary) + thời gian (in the future)"],
+      "points": 10,
+      "correctSentence": "Smartphones won't be necessary in the future."
+    },
+    {
+      "id": 125,
+      "type": "word-rearrange",
+      "words": ["She", "is", "graduating", "from", "university", "in", "June."],
+      "acceptedAnswers": ["She is graduating from university in June."],
+      "hints": ["Sắp xếp: She + is + V-ing (graduating) + nguồn (from university) + thời gian (in June)"],
+      "points": 10,
+      "correctSentence": "She is graduating from university in June."
+    },
+    {
+      "id": 126,
+      "type": "multiple-choice",
+      "question": "I believe virtual reality __________ transform education in the future.",
+      "options": [
+        "will",
+        "is",
+        "does",
+        "can"
+      ],
+      "correctIndex": 0,
+      "explanation": "'I believe' (tôi tin) = dự đoán về tương lai",
+      "hints": [
+        "'I believe' (tôi tin) + 'in the future' = DỰ ĐOÁN về công nghệ giáo dục → will transform"
+      ],
+      "points": 10
+    },
+    {
+      "id": 127,
+      "type": "multiple-choice",
+      "question": "They __________ to a new house next month. The moving date is fixed.",
+      "options": [
+        "will move",
+        "are moving",
+        "move",
+        "moved"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ngày chuyển nhà đã định = kế hoạch cụ thể",
+      "hints": [
+        "'The moving date is fixed' (ngày chuyển nhà đã định) = kế hoạch CHẮC CHẮN → are moving (thì HTTD)"
+      ],
+      "points": 10
+    },
+    {
+      "id": 128,
+      "type": "multiple-choice",
+      "question": "I reckon prices __________ increase next year.",
+      "options": [
+        "will",
+        "are",
+        "do",
+        "can"
+      ],
+      "correctIndex": 0,
+      "explanation": "'I reckon' (tôi cho rằng) = dự đoán",
+      "hints": [
+        "'I reckon' (tôi cho rằng) = DỰ ĐOÁN cá nhân về xu hướng giá cả → will increase"
+      ],
+      "points": 10
+    },
+    {
+      "id": 129,
+      "type": "multiple-choice",
+      "question": "The meeting __________ at 10am tomorrow morning. It's on the company calendar.",
+      "options": [
+        "will be",
+        "is being",
+        "is",
+        "was"
+      ],
+      "correctIndex": 2,
+      "explanation": "Lịch họp cố định dùng thì hiện tại đơn",
+      "hints": [
+        "'company calendar' (lịch công ty) = thời gian CỐ ĐỊNH, đã định sẵn → is (thì HTĐ cho lịch trình)"
+      ],
+      "points": 10
+    },
+    {
+      "id": 130,
+      "type": "multiple-choice",
+      "question": "Without doubt, technology __________ advance rapidly.",
+      "options": [
+        "will",
+        "is",
+        "does",
+        "can"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Without doubt' (không nghi ngờ gì) = dự đoán chắc chắn",
+      "hints": [
+        "'Without doubt' (chắc chắn không nghi ngờ) = DỰ ĐOÁN RẤT MẠNH → will advance"
+      ],
+      "points": 10
+    },
+    {
+      "id": 131,
+      "type": "word-rearrange",
+      "words": ["Everyone", "will", "speak", "English", "in", "the", "future."],
+      "acceptedAnswers": ["Everyone will speak English in the future."],
+      "hints": ["Sắp xếp: Everyone + will + speak + tân ngữ (English) + thời gian (in the future)"],
+      "points": 10,
+      "correctSentence": "Everyone will speak English in the future."
+    },
+    {
+      "id": 132,
+      "type": "word-rearrange",
+      "words": ["They", "are", "getting", "their", "results", "on", "Friday."],
+      "acceptedAnswers": ["They are getting their results on Friday."],
+      "hints": ["Sắp xếp: They + are + V-ing (getting) + tân ngữ (their results) + thời gian (on Friday)"],
+      "points": 10,
+      "correctSentence": "They are getting their results on Friday."
+    },
+    {
+      "id": 133,
+      "type": "word-rearrange",
+      "words": ["It", "won't", "be", "easy", "to", "make", "changes."],
+      "acceptedAnswers": ["It won't be easy to make changes."],
+      "hints": ["Sắp xếp: It + won't + be + tính từ (easy) + to + động từ (make changes) - câu phủ định"],
+      "points": 10,
+      "correctSentence": "It won't be easy to make changes."
+    },
+    {
+      "id": 134,
+      "type": "word-rearrange",
+      "words": ["I", "am", "babysitting", "my", "little", "sister", "tonight."],
+      "acceptedAnswers": ["I am babysitting my little sister tonight."],
+      "hints": ["Sắp xếp: I + am + V-ing (babysitting) + tân ngữ (my little sister) + thời gian (tonight)"],
+      "points": 10,
+      "correctSentence": "I am babysitting my little sister tonight."
+    },
+    {
+      "id": 135,
+      "type": "word-rearrange",
+      "words": ["Many", "forests", "will", "disappear", "soon."],
+      "acceptedAnswers": ["Many forests will disappear soon."],
+      "hints": ["Sắp xếp: Many forests + will + disappear + trạng từ (soon)"],
+      "points": 10,
+      "correctSentence": "Many forests will disappear soon."
+    },
+    {
+      "id": 136,
+      "type": "multiple-choice",
+      "question": "I predict AI assistants __________ help us with daily tasks in the future.",
+      "options": [
+        "will",
+        "are",
+        "do",
+        "can"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dự đoán về trợ lý AI tương lai",
+      "hints": [
+        "'I predict' (tôi dự đoán) + 'in the future' = DỰ ĐOÁN về công nghệ AI → will help"
+      ],
+      "points": 10
+    },
+    {
+      "id": 137,
+      "type": "multiple-choice",
+      "question": "We __________ our grandparents tomorrow. We promised them.",
+      "options": [
+        "will call",
+        "are calling",
+        "call",
+        "called"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đã hứa = kế hoạch đã cam kết",
+      "hints": [
+        "'promised them' (đã hứa với họ) = kế hoạch đã CAM KẾT → are calling (thì HTTD)"
+      ],
+      "points": 10
+    },
+    {
+      "id": 138,
+      "type": "multiple-choice",
+      "question": "I suspect he __________ forget about the meeting.",
+      "options": [
+        "will",
+        "is",
+        "does",
+        "can"
+      ],
+      "correctIndex": 0,
+      "explanation": "'I suspect' (tôi ngờ rằng) = dự đoán",
+      "hints": [
+        "'I suspect' (tôi ngờ rằng) = DỰ ĐOÁN TIÊU CỰC (sợ anh ấy sẽ quên) → will forget"
+      ],
+      "points": 10
+    },
+    {
+      "id": 139,
+      "type": "multiple-choice",
+      "question": "The store __________ at 10pm every night.",
+      "options": [
+        "will close",
+        "is closing",
+        "closes",
+        "closed"
+      ],
+      "correctIndex": 2,
+      "explanation": "Giờ đóng cửa cố định hàng ngày",
+      "hints": [
+        "'every night' (mỗi tối) = giờ đóng cửa CỐ ĐỊNH, lặp lại hàng ngày → closes (thì HTĐ)"
+      ],
+      "points": 10
+    },
+    {
+      "id": 140,
+      "type": "multiple-choice",
+      "question": "No doubt, renewable energy __________ become cheaper.",
+      "options": [
+        "will",
+        "is",
+        "does",
+        "can"
+      ],
+      "correctIndex": 0,
+      "explanation": "'No doubt' (không nghi ngờ gì) = dự đoán chắc chắn",
+      "hints": [
+        "'No doubt' (chắc chắn không nghi ngờ) = DỰ ĐOÁN RẤT MẠNH về tương lai → will become"
+      ],
+      "points": 10
+    }
+  ]
+}

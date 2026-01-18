@@ -3,19 +3,19 @@
 ## SKILLS 2 - Listening & Writing
 
 <!-- chunk: intro -->
-<teacher_script pause="0" href="audio/tts_742eb6b9.mp3">
-Ok lớp 6, <eng>Skills 2</eng> nha - <eng>Listening</eng> và <eng>Writing</eng>.
+<teacher_script pause="0">
+Chào các em. Chào mừng các em đến với bài học hôm nay. Mời các em mở sách giáo khoa.
 </teacher_script>
 
-<teacher_script pause="0" href="audio/tts_81b9572b.mp3">
-Mở sách trang 13 tập 2 đi.
+<teacher_script pause="0">
+Chúng ta sẽ cùng học phần <eng>Skills 2</eng>.
 </teacher_script>
 
 ---
 
 <!-- chunk: vocabulary -->
-<teacher_script pause="0" href="audio/tts_64b223bf.mp3">
-Bấm nút "Bắt đầu" bên dưới để học từ vựng bài nghe. Máy sẽ đọc và các em đọc theo. Sau đó các em làm bài trắc nghiệm từ vựng rồi ghi từ vựng vô tập.
+<teacher_script pause="0">
+Chúng ta cùng học từ vựng mới. Các em hãy nghe và lặp lại theo mẫu nhé.
 </teacher_script>
 
 <vocabulary>
@@ -36,12 +36,12 @@ Bấm nút "Bắt đầu" bên dưới để học từ vựng bài nghe. Máy s
 ---
 
 <!-- chunk: record_vocabulary -->
-<teacher_script pause="0" action="record" href="audio/tts_8222070e.mp3">
-Bấm nút Ghi âm để đọc lại và gửi cho thầy sửa nha.
+<teacher_script pause="0" action="record">
+Các em hãy bấm nút Ghi âm để đọc lại và gửi cho thầy sửa nhé.
 </teacher_script>
 
-<teacher_script pause="0" href="audio/tts_70429b99.mp3">
-Xong rồi thì bấm tiếp tục nha.
+<teacher_script pause="0">
+Khi nào xong thì bấm tiếp tục nhé.
 </teacher_script>
 
 ---
@@ -49,15 +49,15 @@ Xong rồi thì bấm tiếp tục nha.
 ## LISTENING
 
 <!-- chunk: listening_intro -->
-<teacher_script pause="0" href="audio/tts_8219a75f.mp3">
-Phần <eng>Listening</eng> nha. Có 2 bài tập.
+<teacher_script pause="0">
+Chúng ta cùng đến với phần <eng>Listening</eng>. Có 2 bài tập.
 </teacher_script>
 
 ---
 
 <!-- chunk: tapescript -->
-<teacher_script pause="0" href="audio/tts_2cdfac88.mp3">
-Đây là nội dung bài nghe nha. Đọc trước để hiểu, đỡ bị lạc khi nghe audio.
+<teacher_script pause="0">
+Đây là nội dung bài nghe. Các em hãy đọc trước để hiểu.
 </teacher_script>
 
 <reading>
@@ -76,8 +76,8 @@ Phần <eng>Listening</eng> nha. Có 2 bài tập.
 | Enjoy and have a great time. | Hãy tận hưởng và có khoảng thời gian tuyệt vời. |
 </reading>
 
-<teacher_script pause="60" href="audio/tts_ac357512.mp3">
-Đọc hiểu bài nghe. 1 phút nha.
+<teacher_script pause="60">
+Các em có 1 phút để đọc hiểu bài nghe.
 </teacher_script>
 
 ---
@@ -85,8 +85,8 @@ Phần <eng>Listening</eng> nha. Có 2 bài tập.
 <!-- chunk: exercise_1 -->
 ### Bài 1 trang 13 - Listen and tick
 
-<teacher_script pause="60" href="audio/tts_6f6832f5.mp3">
-Bài 1 <eng>Listen and tick</eng> nha. Nghe audio, đánh dấu kênh đúng cho mỗi chương trình. Đọc tên chương trình trước, rồi nghe và tick vào cột kênh phù hợp. 1 phút nha.
+<teacher_script pause="60">
+Chúng ta cùng làm Bài 1 <eng>Listen and tick</eng>. Các em hãy nghe audio và đánh dấu kênh đúng cho mỗi chương trình. Các em có 1 phút.
 </teacher_script>
 
 <task>
@@ -115,8 +115,8 @@ Bài 1 <eng>Listen and tick</eng> nha. Nghe audio, đánh dấu kênh đúng cho
 ---
 
 <!-- chunk: answer_1 -->
-<teacher_script pause="0" href="audio/tts_a43b7c53.mp3">
-Ok đáp án nha.
+<teacher_script pause="0">
+Đã hết thời gian. Sau đây là đáp án gợi ý. Các em hãy đối chiếu với bài làm của mình nhé.
 </teacher_script>
 
 <answer>
@@ -130,24 +130,24 @@ Ok đáp án nha.
 | English and Fun | ✓ | | |
 </answer>
 
-<teacher_script pause="0" href="audio/tts_3e9e625b.mp3">
-Giải thích nha. <eng>Green Summer</eng> - Mùa Hè Xanh, chiếu trên kênh 1.
+<teacher_script pause="0">
+Thầy giải thích nhé. <eng>Green Summer</eng> - Mùa Hè Xanh, chiếu trên kênh 1.
 </teacher_script>
 
-<teacher_script pause="0" href="audio/tts_a9c6d4ea.mp3">
+<teacher_script pause="0">
 <eng>My Childhood</eng> - Tuổi Thơ Của Tôi, chiếu trên kênh 2.
 </teacher_script>
 
-<teacher_script pause="0" href="audio/tts_b5596537.mp3">
-<eng>Harry Potter</eng> - bộ phim nổi tiếng, chiếu trên kênh 3. Ai chưa xem Harry Potter thì nên xem thử nha.
+<teacher_script pause="0">
+<eng>Harry Potter</eng> - bộ phim nổi tiếng, chiếu trên kênh 3.
 </teacher_script>
 
-<teacher_script pause="0" href="audio/tts_eb0ef8dc.mp3">
-<eng>English and Fun</eng> - Tiếng Anh Vui, cũng chiếu trên kênh 1 giống <eng>Green Summer</eng>.
+<teacher_script pause="0">
+<eng>English and Fun</eng> - Tiếng Anh Vui, cũng chiếu trên kênh 1.
 </teacher_script>
 
-<teacher_script pause="30" href="audio/tts_47734bdf.mp3">
-Sửa bài nếu sai. 30 giây nha.
+<teacher_script pause="30">
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
@@ -155,8 +155,8 @@ Sửa bài nếu sai. 30 giây nha.
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 13 - True or False
 
-<teacher_script pause="45" href="audio/tts_d9505ad9.mp3">
-Bài 2 <eng>True or False</eng> nha. Nghe lại audio, xác định các câu sau Đúng hay Sai. 45 giây nha.
+<teacher_script pause="45">
+Chúng ta cùng làm Bài 2 <eng>True or False</eng>. Các em hãy nghe lại audio và xác định các câu sau Đúng hay Sai. Các em có 45 giây.
 </teacher_script>
 
 <task>
@@ -190,36 +190,36 @@ Bài 2 <eng>True or False</eng> nha. Nghe lại audio, xác định các câu sa
 ---
 
 <!-- chunk: answer_2 -->
-<teacher_script pause="0" href="audio/tts_a43b7c53.mp3">
-Ok đáp án nha.
+<teacher_script pause="0">
+Đã hết thời gian. Sau đây là đáp án gợi ý. Các em hãy đối chiếu với bài làm của mình nhé.
 </teacher_script>
 
 <answer>
 **Đáp án:** 1. T | 2. F | 3. T | 4. F
 </answer>
 
-<teacher_script pause="0" href="audio/tts_f7f5556f.mp3">
-Giải thích từng câu nha.
+<teacher_script pause="0">
+Thầy sẽ giải thích từng câu.
 </teacher_script>
 
-<teacher_script pause="0" href="audio/tts_ef8a0bbe.mp3">
+<teacher_script pause="0">
 Câu 1 là <eng>TRUE</eng> - Đúng. Bài nghe nói: <eng>Green Summer, a music programme, is on channel 1</eng>. Rõ ràng <eng>Green Summer</eng> là <eng>music programme</eng>.
 </teacher_script>
 
-<teacher_script pause="0" href="audio/tts_0878d846.mp3">
-Câu 2 là <eng>FALSE</eng> - Sai. Bài nghe nói: <eng>It's the story of a country BOY and his dog Billy</eng>. Bài nghe nói "a country BOY" - cậu bé, không phải "a girl" - cô gái. Đây là bẫy đề hay ra, cẩn thận nha.
+<teacher_script pause="0">
+Câu 2 là <eng>FALSE</eng> - Sai. Bài nghe nói: <eng>It's the story of a country BOY and his dog Billy</eng>. Bài nghe nói "boy", không phải "girl".
 </teacher_script>
 
-<teacher_script pause="0" href="audio/tts_c8da0b9d.mp3">
+<teacher_script pause="0">
 Câu 3 là <eng>TRUE</eng> - Đúng. Bài nghe nói: <eng>Children all over the world love this film</eng>. Trẻ em trên thế giới đều thích Harry Potter.
 </teacher_script>
 
-<teacher_script pause="0" href="audio/tts_8bdb7886.mp3">
-Câu 4 là <eng>FALSE</eng> - Sai. Bài nghe nói: <eng>It's at nine o'clock</eng>. <eng>English and Fun</eng> chiếu lúc 9 giờ - <eng>nine o'clock</eng>, không phải 5 giờ - <eng>five o'clock</eng>.
+<teacher_script pause="0">
+Câu 4 là <eng>FALSE</eng> - Sai. Bài nghe nói: <eng>It's at nine o'clock</eng>. <eng>English and Fun</eng> chiếu lúc 9 giờ, không phải 5 giờ.
 </teacher_script>
 
-<teacher_script pause="30" href="audio/tts_47734bdf.mp3">
-Sửa bài nếu sai. 30 giây nha.
+<teacher_script pause="30">
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
@@ -227,8 +227,8 @@ Sửa bài nếu sai. 30 giây nha.
 ## WRITING
 
 <!-- chunk: writing_intro -->
-<teacher_script pause="0" href="audio/tts_60612528.mp3">
-Phần <eng>Writing</eng> nha. Viết về thói quen xem TV của mình.
+<teacher_script pause="0">
+Chúng ta cùng chuyển sang phần <eng>Writing</eng>. Viết về thói quen xem TV của mình.
 </teacher_script>
 
 ---
@@ -236,8 +236,8 @@ Phần <eng>Writing</eng> nha. Viết về thói quen xem TV của mình.
 <!-- chunk: exercise_3 -->
 ### Bài 3 trang 13 - Answer the questions
 
-<teacher_script pause="0" href="audio/tts_74d70e4a.mp3">
-Bài 3 <eng>Answer the questions</eng> nha. Trả lời các câu hỏi về thói quen xem TV của mình.
+<teacher_script pause="0">
+Chúng ta cùng làm Bài 3 <eng>Answer the questions</eng>. Các em hãy trả lời các câu hỏi về thói quen xem TV của mình.
 </teacher_script>
 
 <task>
@@ -283,15 +283,15 @@ Bài 3 <eng>Answer the questions</eng> nha. Trả lời các câu hỏi về th�
 *Bạn xem chương trình gì nhiều nhất?*
 </questions>
 
-<teacher_script pause="60" href="audio/tts_f0860d33.mp3">
-Đọc câu hỏi và chọn đáp án phù hợp với mình nha. 1 phút.
+<teacher_script pause="60">
+Các em hãy đọc câu hỏi và chọn đáp án phù hợp với mình. Các em có 1 phút.
 </teacher_script>
 
 ---
 
 <!-- chunk: sample_answers_3 -->
-<teacher_script pause="0" href="audio/tts_3c06beff.mp3">
-Đây là mẫu câu trả lời nha. Xem để tham khảo.
+<teacher_script pause="0">
+Đây là mẫu câu trả lời để các em tham khảo.
 </teacher_script>
 
 <answer>
@@ -307,8 +307,8 @@ Bài 3 <eng>Answer the questions</eng> nha. Trả lời các câu hỏi về th�
 5. **A** - Science programme: Thích xem chương trình khoa học
 </explanation>
 
-<teacher_script pause="0" href="audio/tts_1c079f85.mp3">
-Mình chọn đáp án phù hợp với thói quen của mình nha, không nhất thiết phải giống mẫu. Mỗi người mỗi kiểu.
+<teacher_script pause="0">
+Các em hãy chọn đáp án phù hợp với thói quen của mình, không nhất thiết phải giống mẫu nhé.
 </teacher_script>
 
 ---
@@ -316,8 +316,8 @@ Mình chọn đáp án phù hợp với thói quen của mình nha, không nhấ
 <!-- chunk: exercise_4 -->
 ### Bài 4 trang 13 - Write a paragraph
 
-<teacher_script pause="0" href="audio/tts_d1cb12e1.mp3">
-Bài 4 <eng>Write a paragraph</eng> nha. Viết một đoạn văn về thói quen xem TV dựa vào câu trả lời ở bài 3.
+<teacher_script pause="0">
+Chúng ta cùng làm Bài 4 <eng>Write a paragraph</eng>. Các em hãy viết một đoạn văn về thói quen xem TV dựa vào câu trả lời ở bài 3.
 </teacher_script>
 
 <task>
@@ -348,26 +348,26 @@ Bài 4 <eng>Write a paragraph</eng> nha. Viết một đoạn văn về thói qu
 - I watch ... the most
 </questions>
 
-<teacher_script pause="300" href="audio/tts_60b169c8.mp3">
-Viết đoạn văn đi. 5 phút nha. Nhớ dùng liên từ <eng>and</eng>, <eng>but</eng>, <eng>so</eng> để nối câu cho hay.
+<teacher_script pause="300">
+Bây giờ các em hãy viết đoạn văn vào vở. Các em nhớ dùng liên từ <eng>and, but, so</eng> để nối câu nhé. Các em có 5 phút.
 </teacher_script>
 
 ---
 
 <!-- chunk: photo_writing -->
-<teacher_script pause="0" action="photo" href="audio/tts_536da473.mp3">
-Viết xong thì chụp bài gửi cho thầy sửa nha.
+<teacher_script pause="0" action="photo">
+Viết xong thì chụp bài gửi cho thầy sửa nhé.
 </teacher_script>
 
-<teacher_script pause="0" href="audio/tts_3664e357.mp3">
-Chụp xong bấm tiếp tục nha.
+<teacher_script pause="0">
+Chụp xong thì bấm tiếp tục.
 </teacher_script>
 
 ---
 
 <!-- chunk: sample_writing -->
-<teacher_script pause="0" href="audio/tts_9dd57249.mp3">
-Đây là bài mẫu nha. So sánh với bài của mình xem có giống không.
+<teacher_script pause="0">
+Đây là bài mẫu. Các em có thể so sánh với bài của mình.
 </teacher_script>
 
 <reading>
@@ -382,25 +382,21 @@ Chụp xong bấm tiếp tục nha.
 | It has interesting educational programmes for children. | Nó có những chương trình giáo dục thú vị cho trẻ em. |
 </reading>
 
-<teacher_script pause="0" href="audio/tts_4223fb77.mp3">
+<teacher_script pause="0">
 Bài mẫu dùng các cấu trúc: <eng>I like watching TV... I only watch TV in the... On Saturday and Sunday, I watch more</eng>.
 </teacher_script>
 
-<teacher_script pause="0" href="audio/tts_f11ca5b7.mp3">
+<teacher_script pause="0">
 Và dùng liên từ <eng>but</eng> để nối câu: <eng>Sometimes I watch TV when I'm eating, but I never watch TV when I'm studying</eng>.
 </teacher_script>
 
-<teacher_script pause="60" href="audio/tts_f59cd3af.mp3">
-Đọc bài mẫu và so sánh với bài của mình nha. 1 phút.
+<teacher_script pause="60">
+Các em hãy đọc bài mẫu và so sánh với bài của mình. Các em có 1 phút.
 </teacher_script>
 
 ---
 
 <!-- chunk: end -->
-<teacher_script pause="0" href="audio/tts_59576d05.mp3">
-Ok hết <eng>Skills 2</eng> rồi. Về nhà ôn lại từ vựng và luyện viết thêm nha.
-</teacher_script>
-
-<teacher_script pause="0" href="audio/tts_8abcfb72.mp3">
-Bài sau qua <eng>Looking Back</eng> - Ôn tập. Hẹn gặp lại!
+<teacher_script pause="0">
+Bài học hôm nay kết thúc tại đây. Bài học tiếp theo là <eng>Looking Back</eng> - Ôn tập. Hẹn gặp lại các em.
 </teacher_script>

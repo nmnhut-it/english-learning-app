@@ -1,0 +1,441 @@
+{
+  "unitId": "g6-unit-10-our-houses-in-the-future",
+  "title": "Unit 10: Our Houses in the Future - Will for Predictions & Might",
+  "studentName": "Tran Gia Hung",
+  "grade": 6,
+  "grammarTopics": [
+    "Will for future predictions",
+    "Might for possibility",
+    "Future Houses Vocabulary"
+  ],
+  "theory": {
+    "brief": "Will dùng để dự đoán tương lai: S + will + V0. Might diễn tả khả năng có thể xảy ra (không chắc chắn): S + might + V0. Might có nghĩa yếu hơn will (có thể, có lẽ). Ví dụ: Houses will be smarter. (Nhà sẽ thông minh hơn). We might live on the Moon. (Chúng ta có thể sống trên Mặt Trăng).",
+    "examples": [
+      "Houses will have robots in the future. (Nhà sẽ có robot trong tương lai.)",
+      "We might live under the sea. (Chúng ta có thể sống dưới biển.)",
+      "People will use solar energy. (Mọi người sẽ sử dụng năng lượng mặt trời.)",
+      "It might rain tomorrow. (Trời có thể mưa ngày mai.)"
+    ]
+  },
+  "exercises": [
+    {
+      "id": "g6u10-ex1",
+      "type": "fill-blank",
+      "question": "People _______ (live) in smart houses in the future.",
+      "wordHint": "will/might",
+      "answer": "will live",
+      "acceptedAnswers": [
+        "will live",
+        "might live"
+      ],
+      "hints": [
+        "Dự đoán tương lai: will/might + V0"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u10-ex2",
+      "type": "fill-blank",
+      "question": "Houses _______ (have) robots to help us.",
+      "wordHint": "will/might",
+      "answer": "will have",
+      "acceptedAnswers": [
+        "will have",
+        "might have"
+      ],
+      "hints": [
+        "Tương lai: will/might + have"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u10-ex3",
+      "type": "fill-blank",
+      "question": "We _______ (use) solar energy in our homes.",
+      "wordHint": "will",
+      "answer": "will use",
+      "acceptedAnswers": [
+        "will use"
+      ],
+      "hints": [
+        "Dự đoán chắc chắn: will + V0"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u10-ex4",
+      "type": "fill-blank",
+      "question": "People _______ (live) on the Moon someday.",
+      "wordHint": "might",
+      "answer": "might live",
+      "acceptedAnswers": [
+        "might live"
+      ],
+      "hints": [
+        "Khả năng: might + V0"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u10-ex5",
+      "type": "fill-blank",
+      "question": "We _______ (not have) enough water in the future.",
+      "wordHint": "might not",
+      "answer": "might not have",
+      "acceptedAnswers": [
+        "might not have",
+        "won't have"
+      ],
+      "hints": [
+        "Phủ định: might not/won't + V0"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u10-ex6",
+      "type": "fill-blank",
+      "question": "Cars _______ (fly) in the future.",
+      "wordHint": "will",
+      "answer": "will fly",
+      "acceptedAnswers": [
+        "will fly",
+        "might fly"
+      ],
+      "hints": [
+        "Dự đoán: will/might + fly"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u10-ex7",
+      "type": "fill-blank",
+      "question": "Smart homes _______ (control) everything automatically.",
+      "wordHint": "will",
+      "answer": "will control",
+      "acceptedAnswers": [
+        "will control"
+      ],
+      "hints": [
+        "will + V0"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u10-ex8",
+      "type": "fill-blank",
+      "question": "We _______ (build) houses under the sea.",
+      "wordHint": "might",
+      "answer": "might build",
+      "acceptedAnswers": [
+        "might build"
+      ],
+      "hints": [
+        "Khả năng không chắc chắn"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u10-ex9",
+      "type": "fill-blank",
+      "question": "Robots _______ (do) all the housework.",
+      "wordHint": "will",
+      "answer": "will do",
+      "acceptedAnswers": [
+        "will do",
+        "might do"
+      ],
+      "hints": [
+        "Dự đoán tương lai"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u10-ex10",
+      "type": "fill-blank",
+      "question": "It _______ (rain) tomorrow.",
+      "wordHint": "might",
+      "answer": "might rain",
+      "acceptedAnswers": [
+        "might rain",
+        "will rain"
+      ],
+      "hints": [
+        "Dự đoán thời tiết"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u10-ex11",
+      "type": "fill-blank",
+      "question": "Houses _______ (be) more eco-friendly.",
+      "wordHint": "will",
+      "answer": "will be",
+      "acceptedAnswers": [
+        "will be"
+      ],
+      "hints": [
+        "will + be + adj"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u10-ex12",
+      "type": "fill-blank",
+      "question": "We _______ (need) less electricity.",
+      "wordHint": "might",
+      "answer": "might need",
+      "acceptedAnswers": [
+        "might need",
+        "will need"
+      ],
+      "hints": [
+        "Khả năng tương lai"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u10-ex13",
+      "type": "fill-blank",
+      "question": "People _______ (travel) to Mars.",
+      "wordHint": "might",
+      "answer": "might travel",
+      "acceptedAnswers": [
+        "might travel",
+        "will travel"
+      ],
+      "hints": [
+        "Dự đoán xa"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u10-ex14",
+      "type": "fill-blank",
+      "question": "Smart fridges _______ (order) food automatically.",
+      "wordHint": "will",
+      "answer": "will order",
+      "acceptedAnswers": [
+        "will order"
+      ],
+      "hints": [
+        "Dự đoán về công nghệ"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u10-ex15",
+      "type": "fill-blank",
+      "question": "We _______ (not need) keys to open doors.",
+      "wordHint": "won't",
+      "answer": "won't need",
+      "acceptedAnswers": [
+        "won't need",
+        "will not need"
+      ],
+      "hints": [
+        "Phủ định: won't + V0"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u10-ex16",
+      "type": "multiple-choice",
+      "question": "Houses _______ have solar panels in the future.",
+      "options": [
+        "will",
+        "won't",
+        "might not",
+        "can"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dự đoán chắc chắn: will",
+      "hints": [
+        "Dự đoán tích cực"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u10-ex17",
+      "type": "multiple-choice",
+      "question": "We _______ live on other planets.",
+      "options": [
+        "must",
+        "might",
+        "should",
+        "can"
+      ],
+      "correctIndex": 1,
+      "explanation": "Khả năng: might (có thể)",
+      "hints": [
+        "Không chắc chắn"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u10-ex18",
+      "type": "multiple-choice",
+      "question": "Robots _______ clean the house for us.",
+      "options": [
+        "will",
+        "won't",
+        "might not",
+        "must"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dự đoán về robot",
+      "hints": [
+        "Chắc chắn sẽ xảy ra"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u10-ex19",
+      "type": "multiple-choice",
+      "question": "It _______ be sunny tomorrow.",
+      "options": [
+        "will",
+        "might",
+        "must",
+        "should"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dự đoán thời tiết không chắc chắn",
+      "hints": [
+        "Có thể xảy ra"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u10-ex20",
+      "type": "multiple-choice",
+      "question": "People _______ use flying cars in 2050.",
+      "options": [
+        "might",
+        "must",
+        "should",
+        "can"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dự đoán tương lai xa",
+      "hints": [
+        "Khả năng trong tương lai"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u10-ex21",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "People will live in smart houses in the future.",
+        "People will live in smart houses in the future"
+      ],
+      "hints": [
+        "S + will + V0"
+      ],
+      "points": 15,
+      "correctSentence": "People will live in smart houses in the future.",
+      "words": [
+        "will",
+        "people",
+        "live",
+        "in",
+        "houses",
+        "smart",
+        "future",
+        "the"
+      ]
+    },
+    {
+      "id": "g6u10-ex22",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "We might live on the Moon.",
+        "We might live on the Moon"
+      ],
+      "hints": [
+        "S + might + V0"
+      ],
+      "points": 15,
+      "correctSentence": "We might live on the Moon.",
+      "words": [
+        "might",
+        "we",
+        "on",
+        "live",
+        "Moon",
+        "the"
+      ]
+    },
+    {
+      "id": "g6u10-ex23",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "Houses will have robots to help us.",
+        "Houses will have robots to help us"
+      ],
+      "hints": [
+        "will + have + N + to V"
+      ],
+      "points": 15,
+      "correctSentence": "Houses will have robots to help us.",
+      "words": [
+        "have",
+        "will",
+        "robots",
+        "houses",
+        "to",
+        "us",
+        "help"
+      ]
+    },
+    {
+      "id": "g6u10-ex24",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "We will use solar energy in our homes.",
+        "We will use solar energy in our homes"
+      ],
+      "hints": [
+        "will + use + N"
+      ],
+      "points": 15,
+      "correctSentence": "We will use solar energy in our homes.",
+      "words": [
+        "use",
+        "will",
+        "we",
+        "energy",
+        "solar",
+        "homes",
+        "our",
+        "in"
+      ]
+    },
+    {
+      "id": "g6u10-ex25",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "Cars might fly in the future.",
+        "Cars might fly in the future"
+      ],
+      "hints": [
+        "S + might + V0"
+      ],
+      "points": 15,
+      "correctSentence": "Cars might fly in the future.",
+      "words": [
+        "fly",
+        "might",
+        "cars",
+        "future",
+        "the",
+        "in"
+      ]
+    }
+  ]
+}

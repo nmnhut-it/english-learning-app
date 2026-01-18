@@ -1,0 +1,538 @@
+{
+  "unitId": "g7-unit-5-food-and-drink",
+  "title": "Unit 5: Food and Drink - Some/Any & How much/How many",
+  "studentName": "Tran Gia Hung",
+  "grade": 7,
+  "grammarTopics": [
+    "Some and Any",
+    "How much and How many",
+    "Countable and Uncountable Nouns",
+    "A/An with food",
+    "Food Vocabulary"
+  ],
+  "theory": {
+    "brief": "Some (một vài) dùng câu khẳng định và lời mời. Any dùng câu phủ định và nghi vấn. How many + danh từ đếm được số nhiều. How much + danh từ không đếm được. A/An + danh từ đếm được số ít. Danh từ đếm được: apple, egg. Danh từ không đếm được: water, rice, milk.",
+    "examples": [
+      "I have some apples. (Tôi có một vài quả táo.)",
+      "There isn't any milk. (Không có sữa.)",
+      "Would you like some tea? (Bạn muốn một ít trà không?)",
+      "How many eggs do you need? (Bạn cần bao nhiêu quả trứng?)",
+      "How much sugar is there? (Có bao nhiêu đường?)"
+    ]
+  },
+  "exercises": [
+    {
+      "id": "g7u5-ex1",
+      "type": "fill-blank",
+      "question": "I have _______ apples in my bag.",
+      "wordHint": "một vài",
+      "answer": "some",
+      "acceptedAnswers": [
+        "some"
+      ],
+      "hints": [
+        "Câu khẳng định → some"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u5-ex2",
+      "type": "fill-blank",
+      "question": "There isn't _______ milk in the fridge.",
+      "wordHint": "bất kỳ",
+      "answer": "any",
+      "acceptedAnswers": [
+        "any"
+      ],
+      "hints": [
+        "Câu phủ định → any"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u5-ex3",
+      "type": "fill-blank",
+      "question": "Do you have _______ eggs?",
+      "wordHint": "một ít",
+      "answer": "any",
+      "acceptedAnswers": [
+        "any",
+        "some"
+      ],
+      "hints": [
+        "Câu hỏi → any (hoặc some nếu lời mời)"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u5-ex4",
+      "type": "fill-blank",
+      "question": "Would you like _______ coffee?",
+      "wordHint": "một ít",
+      "answer": "some",
+      "acceptedAnswers": [
+        "some"
+      ],
+      "hints": [
+        "Lời mời → some"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u5-ex5",
+      "type": "fill-blank",
+      "question": "She doesn't have _______ money.",
+      "wordHint": "chút",
+      "answer": "any",
+      "acceptedAnswers": [
+        "any"
+      ],
+      "hints": [
+        "doesn't → any"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u5-ex6",
+      "type": "fill-blank",
+      "question": "We need _______ bread for breakfast.",
+      "wordHint": "một ít",
+      "answer": "some",
+      "acceptedAnswers": [
+        "some"
+      ],
+      "hints": [
+        "Câu khẳng định + need → some"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u5-ex7",
+      "type": "fill-blank",
+      "question": "There are _______ oranges on the table.",
+      "wordHint": "một vài",
+      "answer": "some",
+      "acceptedAnswers": [
+        "some"
+      ],
+      "hints": [
+        "Câu khẳng định → some"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u5-ex8",
+      "type": "fill-blank",
+      "question": "I don't want _______ sugar in my tea.",
+      "wordHint": "chút",
+      "answer": "any",
+      "acceptedAnswers": [
+        "any"
+      ],
+      "hints": [
+        "don't → any"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u5-ex9",
+      "type": "fill-blank",
+      "question": "_______ apples do you need?",
+      "wordHint": "How many/much",
+      "answer": "How many",
+      "acceptedAnswers": [
+        "How many"
+      ],
+      "hints": [
+        "apples đếm được → How many"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u5-ex10",
+      "type": "fill-blank",
+      "question": "_______ water do you drink every day?",
+      "wordHint": "How many/much",
+      "answer": "How much",
+      "acceptedAnswers": [
+        "How much"
+      ],
+      "hints": [
+        "water không đếm được → How much"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u5-ex11",
+      "type": "fill-blank",
+      "question": "_______ rice is there in the pot?",
+      "wordHint": "How many/much",
+      "answer": "How much",
+      "acceptedAnswers": [
+        "How much"
+      ],
+      "hints": [
+        "rice không đếm được"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u5-ex12",
+      "type": "fill-blank",
+      "question": "_______ eggs are in the basket?",
+      "wordHint": "How many/much",
+      "answer": "How many",
+      "acceptedAnswers": [
+        "How many"
+      ],
+      "hints": [
+        "eggs đếm được số nhiều"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u5-ex13",
+      "type": "fill-blank",
+      "question": "_______ milk do we need?",
+      "wordHint": "How many/much",
+      "answer": "How much",
+      "acceptedAnswers": [
+        "How much"
+      ],
+      "hints": [
+        "milk không đếm được"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u5-ex14",
+      "type": "fill-blank",
+      "question": "_______ bottles of water did you buy?",
+      "wordHint": "How many/much",
+      "answer": "How many",
+      "acceptedAnswers": [
+        "How many"
+      ],
+      "hints": [
+        "bottles đếm được"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u5-ex15",
+      "type": "fill-blank",
+      "question": "_______ sugar does she put in her coffee?",
+      "wordHint": "How many/much",
+      "answer": "How much",
+      "acceptedAnswers": [
+        "How much"
+      ],
+      "hints": [
+        "sugar không đếm được"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u5-ex16",
+      "type": "multiple-choice",
+      "question": "There is _______ juice in the glass.",
+      "options": [
+        "some",
+        "any",
+        "many",
+        "a"
+      ],
+      "correctIndex": 0,
+      "explanation": "Câu khẳng định → some",
+      "hints": [
+        "Câu khẳng định với uncountable noun"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u5-ex17",
+      "type": "multiple-choice",
+      "question": "I don't have _______ money.",
+      "options": [
+        "some",
+        "any",
+        "many",
+        "much"
+      ],
+      "correctIndex": 1,
+      "explanation": "Câu phủ định → any",
+      "hints": [
+        "don't have → any"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u5-ex18",
+      "type": "multiple-choice",
+      "question": "_______ bananas are there?",
+      "options": [
+        "How much",
+        "How many",
+        "How",
+        "What"
+      ],
+      "correctIndex": 1,
+      "explanation": "bananas đếm được → How many",
+      "hints": [
+        "Danh từ đếm được số nhiều"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u5-ex19",
+      "type": "multiple-choice",
+      "question": "Would you like _______ tea?",
+      "options": [
+        "any",
+        "some",
+        "many",
+        "much"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lời mời → some",
+      "hints": [
+        "Would you like → some"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u5-ex20",
+      "type": "multiple-choice",
+      "question": "_______ cheese do we need for the pizza?",
+      "options": [
+        "How many",
+        "How much",
+        "How",
+        "What"
+      ],
+      "correctIndex": 1,
+      "explanation": "cheese không đếm được → How much",
+      "hints": [
+        "cheese = uncountable"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u5-ex21",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "I have some apples.",
+        "I have some apples"
+      ],
+      "hints": [
+        "S + have + some + N"
+      ],
+      "points": 15,
+      "correctSentence": "I have some apples.",
+      "words": [
+        "some",
+        "have",
+        "I",
+        "apples"
+      ]
+    },
+    {
+      "id": "g7u5-ex22",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "There isn't any milk in the fridge.",
+        "There isn't any milk in the fridge"
+      ],
+      "hints": [
+        "There isn't + any"
+      ],
+      "points": 15,
+      "correctSentence": "There isn't any milk in the fridge.",
+      "words": [
+        "any",
+        "there",
+        "milk",
+        "isn't",
+        "fridge",
+        "in",
+        "the"
+      ]
+    },
+    {
+      "id": "g7u5-ex23",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "How many eggs do you need?",
+        "How many eggs do you need"
+      ],
+      "hints": [
+        "How many + N + do/does + S + V?"
+      ],
+      "points": 15,
+      "correctSentence": "How many eggs do you need?",
+      "words": [
+        "how",
+        "eggs",
+        "many",
+        "need",
+        "you",
+        "do"
+      ]
+    },
+    {
+      "id": "g7u5-ex24",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "How much water do you drink?",
+        "How much water do you drink"
+      ],
+      "hints": [
+        "How much + N + do + S + V?"
+      ],
+      "points": 15,
+      "correctSentence": "How much water do you drink?",
+      "words": [
+        "water",
+        "much",
+        "how",
+        "drink",
+        "you",
+        "do"
+      ]
+    },
+    {
+      "id": "g7u5-ex25",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "Would you like some tea?",
+        "Would you like some tea"
+      ],
+      "hints": [
+        "Would you like + some + N?"
+      ],
+      "points": 15,
+      "correctSentence": "Would you like some tea?",
+      "words": [
+        "like",
+        "some",
+        "you",
+        "would",
+        "tea"
+      ]
+    },
+    {
+      "id": "g7u5-ex26",
+      "type": "error-correct",
+      "wrongSentence": "I have any apples.",
+      "correctSentence": "I have some apples.",
+      "errorWord": "any",
+      "correction": "some",
+      "explanation": "Câu khẳng định dùng some",
+      "hints": [
+        "Câu khẳng định → some"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u5-ex27",
+      "type": "error-correct",
+      "wrongSentence": "There isn't some milk.",
+      "correctSentence": "There isn't any milk.",
+      "errorWord": "some",
+      "correction": "any",
+      "explanation": "Câu phủ định dùng any",
+      "hints": [
+        "isn't → any"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u5-ex28",
+      "type": "error-correct",
+      "wrongSentence": "How much eggs do you need?",
+      "correctSentence": "How many eggs do you need?",
+      "errorWord": "How much",
+      "correction": "How many",
+      "explanation": "eggs đếm được → How many",
+      "hints": [
+        "Danh từ đếm được → How many"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u5-ex29",
+      "type": "error-correct",
+      "wrongSentence": "How many water do you drink?",
+      "correctSentence": "How much water do you drink?",
+      "errorWord": "How many",
+      "correction": "How much",
+      "explanation": "water không đếm được → How much",
+      "hints": [
+        "water = uncountable"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u5-ex30",
+      "type": "error-correct",
+      "wrongSentence": "Would you like any tea?",
+      "correctSentence": "Would you like some tea?",
+      "errorWord": "any",
+      "correction": "some",
+      "explanation": "Lời mời dùng some",
+      "hints": [
+        "Would you like → some"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u5-ex31",
+      "type": "translation",
+      "vietnamese": "Tôi có một ít táo trong túi.",
+      "answer": "I have some apples in my bag.",
+      "acceptedAnswers": [
+        "I have some apples in my bag.",
+        "I have some apples in my bag"
+      ],
+      "hints": [
+        "some + countable noun"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u5-ex32",
+      "type": "translation",
+      "vietnamese": "Không có sữa trong tủ lạnh.",
+      "answer": "There isn't any milk in the fridge.",
+      "acceptedAnswers": [
+        "There isn't any milk in the fridge.",
+        "There isn't any milk in the fridge",
+        "There is no milk in the fridge.",
+        "There is no milk in the fridge"
+      ],
+      "hints": [
+        "There isn't any / There is no"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u5-ex33",
+      "type": "translation",
+      "vietnamese": "Bạn cần bao nhiêu quả trứng?",
+      "answer": "How many eggs do you need?",
+      "acceptedAnswers": [
+        "How many eggs do you need?",
+        "How many eggs do you need"
+      ],
+      "hints": [
+        "How many + countable noun"
+      ],
+      "points": 10
+    }
+  ]
+}

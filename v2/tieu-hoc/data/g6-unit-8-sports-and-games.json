@@ -1,0 +1,433 @@
+{
+  "unitId": "g6-unit-8-sports-and-games",
+  "title": "Unit 8: Sports and Games - Past Simple Tense",
+  "studentName": "Tran Gia Hung",
+  "grade": 6,
+  "grammarTopics": [
+    "Past Simple Tense",
+    "Irregular Verbs",
+    "Imperatives",
+    "Sports Vocabulary"
+  ],
+  "theory": {
+    "brief": "Thì quá khứ đơn diễn tả hành động đã xảy ra và kết thúc trong quá khứ. Khẳng định: S + V2/Ved. Phủ định: S + didn't + V0. Nghi vấn: Did + S + V0? Dấu hiệu: yesterday, last week/month/year, ago, in 2020. Câu mệnh lệnh: V0 (khẳng định), Don't + V0 (phủ định).",
+    "examples": [
+      "I played football yesterday. (Tôi đã chơi bóng đá hôm qua.)",
+      "She went to the gym last week. (Cô ấy đã đến phòng tập tuần trước.)",
+      "Did you watch the match? (Bạn đã xem trận đấu chưa?)",
+      "Don't run in the classroom. (Đừng chạy trong lớp.)",
+      "Close the door. (Đóng cửa lại.)"
+    ]
+  },
+  "exercises": [
+    {
+      "id": "g6u8-ex1",
+      "type": "fill-blank",
+      "question": "I _______ (play) football yesterday.",
+      "wordHint": "(play)",
+      "answer": "played",
+      "acceptedAnswers": [
+        "played"
+      ],
+      "hints": [
+        "Động từ quy tắc: play → played"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u8-ex2",
+      "type": "fill-blank",
+      "question": "She _______ (go) to the gym last week.",
+      "wordHint": "(go)",
+      "answer": "went",
+      "acceptedAnswers": [
+        "went"
+      ],
+      "hints": [
+        "Động từ bất quy tắc: go → went"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u8-ex3",
+      "type": "fill-blank",
+      "question": "We _______ (watch) a tennis match on TV.",
+      "wordHint": "(watch)",
+      "answer": "watched",
+      "acceptedAnswers": [
+        "watched"
+      ],
+      "hints": [
+        "Động từ quy tắc: watch → watched"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u8-ex4",
+      "type": "fill-blank",
+      "question": "They _______ (have) a great time at the stadium.",
+      "wordHint": "(have)",
+      "answer": "had",
+      "acceptedAnswers": [
+        "had"
+      ],
+      "hints": [
+        "Động từ bất quy tắc: have → had"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u8-ex5",
+      "type": "fill-blank",
+      "question": "He _______ (do) his homework last night.",
+      "wordHint": "(do)",
+      "answer": "did",
+      "acceptedAnswers": [
+        "did"
+      ],
+      "hints": [
+        "Động từ bất quy tắc: do → did"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u8-ex6",
+      "type": "fill-blank",
+      "question": "I _______ (eat) lunch at 12 o'clock.",
+      "wordHint": "(eat)",
+      "answer": "ate",
+      "acceptedAnswers": [
+        "ate"
+      ],
+      "hints": [
+        "Động từ bất quy tắc: eat → ate"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u8-ex7",
+      "type": "fill-blank",
+      "question": "My team _______ (win) the match yesterday.",
+      "wordHint": "(win)",
+      "answer": "won",
+      "acceptedAnswers": [
+        "won"
+      ],
+      "hints": [
+        "Động từ bất quy tắc: win → won"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u8-ex8",
+      "type": "fill-blank",
+      "question": "She _______ (not go) to school yesterday.",
+      "wordHint": "(not go)",
+      "answer": "didn't go",
+      "acceptedAnswers": [
+        "didn't go",
+        "did not go"
+      ],
+      "hints": [
+        "Phủ định: didn't + V0"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u8-ex9",
+      "type": "fill-blank",
+      "question": "We _______ (not play) badminton last week.",
+      "wordHint": "(not play)",
+      "answer": "didn't play",
+      "acceptedAnswers": [
+        "didn't play",
+        "did not play"
+      ],
+      "hints": [
+        "Câu phủ định quá khứ đơn"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u8-ex10",
+      "type": "fill-blank",
+      "question": "_______ you _______ (watch) the game last night?",
+      "wordHint": "Did/watch",
+      "answer": "Did watch",
+      "acceptedAnswers": [
+        "Did watch",
+        "Did you watch",
+        "Did-watch"
+      ],
+      "hints": [
+        "Câu hỏi: Did + S + V0?"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u8-ex11",
+      "type": "fill-blank",
+      "question": "_______ the door, please.",
+      "wordHint": "đóng",
+      "answer": "Close",
+      "acceptedAnswers": [
+        "Close",
+        "Open"
+      ],
+      "hints": [
+        "Câu mệnh lệnh: V0"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u8-ex12",
+      "type": "fill-blank",
+      "question": "_______ run in the classroom.",
+      "wordHint": "đừng",
+      "answer": "Don't",
+      "acceptedAnswers": [
+        "Don't",
+        "Do not"
+      ],
+      "hints": [
+        "Câu mệnh lệnh phủ định: Don't + V0"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u8-ex13",
+      "type": "fill-blank",
+      "question": "_______ silent in the library.",
+      "wordHint": "giữ",
+      "answer": "Keep",
+      "acceptedAnswers": [
+        "Keep",
+        "Be"
+      ],
+      "hints": [
+        "Câu mệnh lệnh: Keep/Be + adj"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u8-ex14",
+      "type": "fill-blank",
+      "question": "_______ your best in the game.",
+      "wordHint": "cố gắng",
+      "answer": "Try",
+      "acceptedAnswers": [
+        "Try",
+        "Do"
+      ],
+      "hints": [
+        "Try your best = cố gắng hết sức"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u8-ex15",
+      "type": "fill-blank",
+      "question": "_______ late for practice.",
+      "wordHint": "đừng",
+      "answer": "Don't be",
+      "acceptedAnswers": [
+        "Don't be",
+        "Do not be"
+      ],
+      "hints": [
+        "Don't be + adj"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u8-ex16",
+      "type": "multiple-choice",
+      "question": "I _______ swimming last Sunday.",
+      "options": [
+        "go",
+        "went",
+        "going",
+        "goes"
+      ],
+      "correctIndex": 1,
+      "explanation": "Thì quá khứ đơn: go → went",
+      "hints": [
+        "'last Sunday' là dấu hiệu quá khứ"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u8-ex17",
+      "type": "multiple-choice",
+      "question": "She _______ play tennis yesterday.",
+      "options": [
+        "doesn't",
+        "didn't",
+        "don't",
+        "isn't"
+      ],
+      "correctIndex": 1,
+      "explanation": "Phủ định quá khứ đơn: didn't + V0",
+      "hints": [
+        "'yesterday' → thì quá khứ"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u8-ex18",
+      "type": "multiple-choice",
+      "question": "_______ you see the football match last night?",
+      "options": [
+        "Do",
+        "Does",
+        "Did",
+        "Are"
+      ],
+      "correctIndex": 2,
+      "explanation": "Câu hỏi quá khứ đơn: Did + S + V0?",
+      "hints": [
+        "'last night' → quá khứ"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u8-ex19",
+      "type": "multiple-choice",
+      "question": "_______ quietly in the exam room.",
+      "options": [
+        "Work",
+        "Working",
+        "Works",
+        "Worked"
+      ],
+      "correctIndex": 0,
+      "explanation": "Câu mệnh lệnh bắt đầu bằng V0",
+      "hints": [
+        "Câu mệnh lệnh"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u8-ex20",
+      "type": "multiple-choice",
+      "question": "_______ touch the ball with your hands in football.",
+      "options": [
+        "Do",
+        "Don't",
+        "Doesn't",
+        "Didn't"
+      ],
+      "correctIndex": 1,
+      "explanation": "Câu mệnh lệnh phủ định: Don't + V0",
+      "hints": [
+        "Cấm làm gì → Don't"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u8-ex21",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "I played football yesterday.",
+        "I played football yesterday"
+      ],
+      "hints": [
+        "Cấu trúc: S + V2 + O + time"
+      ],
+      "points": 15,
+      "correctSentence": "I played football yesterday.",
+      "words": [
+        "played",
+        "I",
+        "yesterday",
+        "football"
+      ]
+    },
+    {
+      "id": "g6u8-ex22",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "She went to the gym last week.",
+        "She went to the gym last week"
+      ],
+      "hints": [
+        "Cấu trúc quá khứ đơn"
+      ],
+      "points": 15,
+      "correctSentence": "She went to the gym last week.",
+      "words": [
+        "went",
+        "she",
+        "gym",
+        "the",
+        "to",
+        "week",
+        "last"
+      ]
+    },
+    {
+      "id": "g6u8-ex23",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "We didn't play badminton last week.",
+        "We didn't play badminton last week"
+      ],
+      "hints": [
+        "Phủ định: S + didn't + V0"
+      ],
+      "points": 15,
+      "correctSentence": "We didn't play badminton last week.",
+      "words": [
+        "didn't",
+        "we",
+        "badminton",
+        "play",
+        "week",
+        "last"
+      ]
+    },
+    {
+      "id": "g6u8-ex24",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "Close the door.",
+        "Close the door"
+      ],
+      "hints": [
+        "Câu mệnh lệnh: V0 + O"
+      ],
+      "points": 15,
+      "correctSentence": "Close the door.",
+      "words": [
+        "door",
+        "the",
+        "close"
+      ]
+    },
+    {
+      "id": "g6u8-ex25",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "Don't run in the classroom.",
+        "Don't run in the classroom"
+      ],
+      "hints": [
+        "Cấm đoán: Don't + V0"
+      ],
+      "points": 15,
+      "correctSentence": "Don't run in the classroom.",
+      "words": [
+        "run",
+        "don't",
+        "classroom",
+        "the",
+        "in"
+      ]
+    }
+  ]
+}
