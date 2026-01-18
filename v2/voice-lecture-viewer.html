@@ -105,6 +105,44 @@
     .spinner{width:22px;height:22px;border:3px solid rgba(255,255,255,.3);border-top-color:#fff;border-radius:50%;animation:spin .8s linear infinite}
     @keyframes spin{to{transform:rotate(360deg)}}
 
+    /* ========== EXERCISE SYSTEM ========== */
+    .exercise-container{background:linear-gradient(135deg,#f0f9ff,#e0f2fe);border-radius:16px;padding:16px;margin:12px 0;border:2px solid #bae6fd}
+    .exercise-header{background:linear-gradient(135deg,#8b5cf6,#7c3aed);color:#fff;padding:12px 16px;border-radius:12px;margin-bottom:16px;display:flex;align-items:center;gap:10px}
+    .exercise-icon{font-size:1.5rem}
+    .exercise-title{flex:1;font-weight:600}
+    .exercise-count{font-size:.85rem;opacity:.9}
+    .exercise-start{background:#fff;border-radius:16px;padding:24px;text-align:center;box-shadow:0 4px 16px rgba(0,0,0,.08);border:2px dashed #a78bfa}
+    .exercise-start-icon{font-size:3rem;margin-bottom:12px}
+    .exercise-start-title{font-size:1.1rem;font-weight:600;color:#7c3aed;margin-bottom:8px}
+    .exercise-start-desc{font-size:.9rem;color:#64748b;margin-bottom:16px}
+    .exercise-start-btn{background:linear-gradient(135deg,#8b5cf6,#7c3aed);color:#fff;border:none;padding:16px 32px;border-radius:50px;font-size:1.1rem;font-weight:600;cursor:pointer;transition:all .2s;box-shadow:0 4px 16px rgba(139,92,246,.4)}
+    .exercise-start-btn:hover{transform:scale(1.05)}
+    .exercise-loading{text-align:center;padding:32px;color:#64748b}
+    .exercise-question{background:#fff;border-radius:16px;padding:20px;margin-bottom:16px;box-shadow:0 4px 12px rgba(0,0,0,.06)}
+    .exercise-q-num{font-size:.85rem;color:#8b5cf6;font-weight:600;margin-bottom:8px}
+    .exercise-q-text{font-size:1.1rem;font-weight:500;color:#0f172a;margin-bottom:12px}
+    .exercise-options{display:flex;flex-direction:column;gap:10px}
+    .exercise-option{background:#f8fafc;border:2px solid #e2e8f0;border-radius:12px;padding:14px 16px;cursor:pointer;transition:all .2s;text-align:left;font-size:1rem}
+    .exercise-option:hover{border-color:#8b5cf6;background:#f5f3ff}
+    .exercise-option.selected{border-color:#8b5cf6;background:#ede9fe}
+    .exercise-option.correct{border-color:#10b981;background:#d1fae5}
+    .exercise-option.wrong{border-color:#ef4444;background:#fee2e2}
+    .exercise-explanation{background:#fef3c7;border-radius:10px;padding:12px;margin-top:12px;font-size:.9rem;color:#92400e;display:none}
+    .exercise-explanation.show{display:block}
+    .exercise-progress{display:flex;gap:6px;margin-bottom:16px;flex-wrap:wrap}
+    .exercise-progress-dot{width:10px;height:10px;border-radius:50%;background:#cbd5e1;transition:all .3s}
+    .exercise-progress-dot.done{background:#10b981}
+    .exercise-progress-dot.wrong{background:#ef4444}
+    .exercise-progress-dot.current{background:#8b5cf6;transform:scale(1.3);box-shadow:0 0 8px rgba(139,92,246,.5)}
+    .exercise-nav{display:flex;gap:10px;margin-top:16px;justify-content:center}
+    .exercise-btn{background:linear-gradient(135deg,#8b5cf6,#7c3aed);color:#fff;border:none;padding:14px 28px;border-radius:50px;font-size:1rem;font-weight:600;cursor:pointer;transition:all .2s;box-shadow:0 4px 12px rgba(139,92,246,.3)}
+    .exercise-btn:hover{transform:scale(1.05)}
+    .exercise-btn.secondary{background:transparent;color:#7c3aed;border:2px solid #8b5cf6;box-shadow:none}
+    .exercise-result{background:#fff;border-radius:16px;padding:24px;text-align:center;box-shadow:0 4px 16px rgba(0,0,0,.08)}
+    .exercise-result-icon{font-size:3rem;margin-bottom:12px}
+    .exercise-result-score{font-size:1.5rem;font-weight:700;color:#7c3aed;margin-bottom:8px}
+    .exercise-result-text{color:#64748b}
+
     /* Current chunk highlight - softer with scroll allowed */
     .chunk{opacity:.5;transition:all .3s}
     .chunk.current{opacity:1;background:rgba(224,242,254,.4);border-radius:16px;margin:0 -12px;padding:20px 12px;box-shadow:0 4px 20px rgba(14,165,233,.1)}
@@ -552,6 +590,8 @@ const LM = {
       if (el.classList.contains('task-box')) return true;
       // Completed vocab
       if (el.classList.contains('vocab-interactive') && el.classList.contains('vocab-completed')) return true;
+      // Completed exercise
+      if (el.classList.contains('exercise-container') && el.classList.contains('exercise-completed')) return true;
       return false;
     };
 
@@ -564,6 +604,7 @@ const LM = {
     if (next) {
       if (next.classList.contains('ts')) type = this.TYPES.TS;
       else if (next.classList.contains('vocab-interactive')) type = this.TYPES.VOCAB;
+      else if (next.classList.contains('exercise-container')) type = this.TYPES.VOCAB; // Exercises work like vocab
       else if (next.classList.contains('chunk-nav')) type = this.TYPES.CHUNK_NAV;
       else type = this.TYPES.CONTENT;
     }
@@ -786,12 +827,92 @@ const vocabState={
   currentInstance:null
 };
 
+// Exercise Interactive State
+const exerciseState={
+  instances:{} // Multiple exercise sections possible
+};
+
 // Init
 document.addEventListener('DOMContentLoaded',()=>{
   parseParams();
   if(CONFIG.skip){document.getElementById('gate').classList.add('hidden');load();}
   else initCamera();
+
+  // ArrowRight keyboard navigation for skip/next
+  setupKeyboardNav();
 });
+
+// Keyboard navigation - ArrowRight to skip through all states
+function setupKeyboardNav(){
+  document.addEventListener('keydown',(e)=>{
+    if(e.key!=='ArrowRight')return;
+    e.preventDefault();
+    handleSkipKey();
+  });
+}
+
+function handleSkipKey(){
+  const st=LM.state;
+  const STATES=LM.STATES;
+
+  // NPC speaking: cancel TTS, hide NPC, continue flow
+  if(st===STATES.NPC_SPEAKING){
+    speechSynthesis.cancel();
+    LM.npcStopAnimation();
+    LM.hideNPC();
+    // Trigger the end of speech callback logic
+    const pause=parseInt(LM.currentTSEl?.dataset?.pause)||0;
+    if(pause>0){
+      LM.startTimer(LM.currentTSId,pause);
+    }else{
+      LM.state=STATES.IDLE;
+      LM.processPending();
+    }
+    return;
+  }
+
+  // NPC waiting for click: same as clicking continue
+  if(st===STATES.NPC_WAITING){
+    LM.onNPCContinue();
+    return;
+  }
+
+  // Timer running: skip timer
+  if(st===STATES.TIMER_RUNNING){
+    LM.skipTimer();
+    LM.state=STATES.IDLE;
+    LM.processPending();
+    return;
+  }
+
+  // Exercise active: skip to next question or finish
+  const activeEx=document.querySelector('.exercise-container:not([style*="display: none"]) #\\:scope-content[style*="display: block"]');
+  for(const exId in exerciseState.instances){
+    const inst=exerciseState.instances[exId];
+    const contentEl=document.getElementById(`${exId}-content`);
+    if(contentEl&&contentEl.style.display==='block'&&inst.exercises.length>0){
+      // Exercise in progress - skip to next or show result
+      inst.answers.push(false); // Mark as skipped (wrong)
+      const dot=document.getElementById(`${exId}-dot-${inst.currentQ}`);
+      if(dot){dot.classList.remove('current');dot.classList.add('wrong');}
+      inst.currentQ++;
+      if(inst.currentQ<inst.exercises.length){
+        showExerciseQuestion(exId);
+      }else{
+        showExerciseResult(exId);
+      }
+      return;
+    }
+  }
+
+  // Chunk done or idle with nav enabled: go next
+  if(st===STATES.CHUNK_DONE||st===STATES.IDLE){
+    const navBtn=document.getElementById(`nav-${LM.currentChunk}`);
+    if(navBtn&&!navBtn.disabled){
+      LM.goNextChunk();
+    }
+  }
+}
 
 function parseParams(){
   const p=new URLSearchParams(location.search);
@@ -926,7 +1047,26 @@ function renderContent(md){
   h=h.replace(/<content_table>([\s\S]*?)<\/content_table>/gi,(_,c)=>`<div class="card">${renderMD(c)}</div>`);
   h=h.replace(/<audio\s+src="([^"]*)"[^>]*>([\s\S]*?)<\/audio>/gi,(_,src,label)=>src.includes('TODO')?`<div class="audio-box"><div class="audio-placeholder">🔇 ${label||'Audio chưa sẵn sàng'}</div></div>`:`<div class="audio-box"><audio controls src="${src}"></audio></div>`);
 
-  return renderMD(h);
+  // EXERCISE - Interactive exercise from JSON
+  // Use placeholder technique to protect exercise HTML from renderMD corruption
+  const exercisePlaceholders = [];
+  h=h.replace(/<exercise([^>]*)>([\s\S]*?)<\/exercise>/gi,(_,attrs,content)=>{
+    const source=(attrs.match(/data-source="([^"]+)"/)||[])[1]||'';
+    const count=(attrs.match(/data-count="(\d+)"/)||[])[1]||'10';
+    const exId='ex'+Math.random().toString(36).slice(2,8);
+    exerciseState.instances[exId]={source,count:parseInt(count),exercises:[],currentQ:0,answers:[]};
+    const exerciseHtml = buildExerciseContainer(exId,content.trim(),source,count);
+    const placeholder = `__EXERCISE_PLACEHOLDER_${exercisePlaceholders.length}__`;
+    exercisePlaceholders.push(exerciseHtml);
+    return placeholder;
+  });
+
+  // Run renderMD, then restore exercise containers
+  let result = renderMD(h);
+  exercisePlaceholders.forEach((html, i) => {
+    result = result.replace(`__EXERCISE_PLACEHOLDER_${i}__`, html);
+  });
+  return result;
 }
 
 function renderMD(md){
@@ -1608,6 +1748,215 @@ async function playRepeatSignal(){
   await delay(80);
   await playBeep(1100,100);
 }
+
+// ========== EXERCISE SYSTEM ==========
+
+function buildExerciseContainer(id,content,source,count){
+  return`
+<div class="exercise-container" id="${id}">
+  <div class="exercise-start" id="${id}-start">
+    <div class="exercise-start-icon">📝</div>
+    <div class="exercise-start-title">${content||'Bài tập thực hành'}</div>
+    <div class="exercise-start-desc">${count} câu hỏi trắc nghiệm</div>
+    <button class="exercise-start-btn" onclick="startExercise('${id}')">Bắt đầu làm bài</button>
+  </div>
+  <div id="${id}-content" style="display:none"></div>
+</div>`;
+}
+
+async function startExercise(id){
+  const inst=exerciseState.instances[id];
+  if(!inst)return;
+
+  const startEl=document.getElementById(`${id}-start`);
+  const contentEl=document.getElementById(`${id}-content`);
+  if(startEl)startEl.style.display='none';
+  if(contentEl){
+    contentEl.style.display='block';
+    contentEl.innerHTML='<div class="exercise-loading"><div class="spinner"></div> Đang tải bài tập...</div>';
+  }
+
+  try{
+    // Resolve the source path relative to the content URL
+    let jsonUrl=inst.source;
+    if(CONFIG.contentUrl&&!inst.source.startsWith('http')){
+      const baseUrl=CONFIG.contentUrl.substring(0,CONFIG.contentUrl.lastIndexOf('/'));
+      jsonUrl=new URL(inst.source,baseUrl+'/').href;
+    }
+
+    const res=await fetch(jsonUrl);
+    const data=await res.json();
+
+    if(!data.exercises||data.exercises.length===0){
+      contentEl.innerHTML='<div class="exercise-loading">Không có bài tập</div>';
+      return;
+    }
+
+    // Shuffle and pick random exercises
+    const shuffled=[...data.exercises].sort(()=>Math.random()-0.5);
+    inst.exercises=shuffled.slice(0,inst.count);
+    inst.currentQ=0;
+    inst.answers=[];
+
+    renderExerciseUI(id);
+    showExerciseQuestion(id);
+  }catch(e){
+    contentEl.innerHTML=`<div class="exercise-loading" style="color:#ef4444">Lỗi tải bài tập: ${e.message}</div>`;
+  }
+}
+window.startExercise=startExercise;
+
+function renderExerciseUI(id){
+  const inst=exerciseState.instances[id];
+  const contentEl=document.getElementById(`${id}-content`);
+  const progressDots=inst.exercises.map((_,i)=>`<div class="exercise-progress-dot" id="${id}-dot-${i}"></div>`).join('');
+
+  contentEl.innerHTML=`
+    <div class="exercise-header">
+      <span class="exercise-icon">📝</span>
+      <span class="exercise-title">Bài tập thực hành</span>
+      <span class="exercise-count">Câu <span id="${id}-q-num">1</span>/${inst.exercises.length}</span>
+    </div>
+    <div class="exercise-progress">${progressDots}</div>
+    <div id="${id}-question-area"></div>
+    <div id="${id}-result-area" style="display:none"></div>
+  `;
+}
+
+function showExerciseQuestion(id){
+  const inst=exerciseState.instances[id];
+  const q=inst.exercises[inst.currentQ];
+  const qArea=document.getElementById(`${id}-question-area`);
+
+  // Update progress
+  document.getElementById(`${id}-q-num`).textContent=inst.currentQ+1;
+  document.querySelectorAll(`#${id} .exercise-progress-dot`).forEach((dot,i)=>{
+    dot.classList.remove('current','done','wrong');
+    if(i<inst.currentQ){
+      dot.classList.add(inst.answers[i]?'done':'wrong');
+    }
+    if(i===inst.currentQ)dot.classList.add('current');
+  });
+
+  const optionsHtml=q.options.map((opt,i)=>`<div class="exercise-option" data-idx="${i}" onclick="selectExerciseOption('${id}',${i})">${opt}</div>`).join('');
+
+  qArea.innerHTML=`
+    <div class="exercise-question">
+      <div class="exercise-q-num">Câu ${inst.currentQ+1}/${inst.exercises.length}</div>
+      <div class="exercise-q-text">${q.question}</div>
+      <div class="exercise-options" id="${id}-options">${optionsHtml}</div>
+      <div class="exercise-explanation" id="${id}-explanation">${q.explanation||''}</div>
+    </div>
+  `;
+}
+
+async function selectExerciseOption(id,idx){
+  const inst=exerciseState.instances[id];
+  const q=inst.exercises[inst.currentQ];
+  const correct=q.correctIndex===idx;
+
+  // Mark answer
+  inst.answers.push(correct);
+
+  // Update UI
+  const options=document.querySelectorAll(`#${id}-options .exercise-option`);
+  options.forEach((opt,i)=>{
+    opt.style.pointerEvents='none';
+    if(i===q.correctIndex)opt.classList.add('correct');
+    if(i===idx&&!correct)opt.classList.add('wrong');
+  });
+
+  // Show explanation
+  const explEl=document.getElementById(`${id}-explanation`);
+  if(explEl&&q.explanation){
+    explEl.classList.add('show');
+  }
+
+  // Sound feedback
+  if(correct){
+    await playBeep(880,150);
+    await playBeep(1100,200);
+  }else{
+    await playBeep(300,300);
+  }
+
+  // Update progress dot
+  const dot=document.getElementById(`${id}-dot-${inst.currentQ}`);
+  if(dot){
+    dot.classList.remove('current');
+    dot.classList.add(correct?'done':'wrong');
+  }
+
+  // Next question or show result
+  setTimeout(()=>{
+    inst.currentQ++;
+    if(inst.currentQ<inst.exercises.length){
+      showExerciseQuestion(id);
+    }else{
+      showExerciseResult(id);
+    }
+  },2000);
+}
+window.selectExerciseOption=selectExerciseOption;
+
+function showExerciseResult(id){
+  const inst=exerciseState.instances[id];
+  const correct=inst.answers.filter(a=>a).length;
+  const total=inst.answers.length;
+  const pct=Math.round((correct/total)*100);
+
+  const qArea=document.getElementById(`${id}-question-area`);
+  const resultArea=document.getElementById(`${id}-result-area`);
+
+  qArea.style.display='none';
+  resultArea.style.display='block';
+
+  let icon='🎉',text='Xuất sắc!';
+  if(pct<50){icon='😔';text='Cần cố gắng thêm!';}
+  else if(pct<80){icon='👍';text='Khá tốt!';}
+  else if(pct<100){icon='🌟';text='Tuyệt vời!';}
+
+  resultArea.innerHTML=`
+    <div class="exercise-result">
+      <div class="exercise-result-icon">${icon}</div>
+      <div class="exercise-result-score">${correct}/${total} câu đúng (${pct}%)</div>
+      <div class="exercise-result-text">${text}</div>
+    </div>
+    <div class="exercise-nav">
+      <button class="exercise-btn secondary" onclick="retryExercise('${id}')">Làm lại</button>
+      <button class="exercise-btn" onclick="finishExercise('${id}')">Tiếp tục →</button>
+    </div>
+  `;
+
+  speakAsync(`Kết quả: ${correct} trên ${total} câu đúng. ${text}`,'vi-VN');
+}
+
+function retryExercise(id){
+  const inst=exerciseState.instances[id];
+  inst.currentQ=0;
+  inst.answers=[];
+  // Re-shuffle exercises
+  inst.exercises.sort(()=>Math.random()-0.5);
+
+  const qArea=document.getElementById(`${id}-question-area`);
+  const resultArea=document.getElementById(`${id}-result-area`);
+  qArea.style.display='block';
+  resultArea.style.display='none';
+
+  showExerciseQuestion(id);
+}
+window.retryExercise=retryExercise;
+
+function finishExercise(id){
+  const exEl=document.getElementById(id);
+  if(exEl)exEl.classList.add('exercise-completed');
+
+  // Resume lecture flow
+  setTimeout(()=>{
+    LM.onVocabComplete(); // Reuse same callback since exercises work similarly
+  },500);
+}
+window.finishExercise=finishExercise;
 </script>
 </body>
 </html>
