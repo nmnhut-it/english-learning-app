@@ -59,8 +59,10 @@ Bấm nút Ghi âm để đọc lại và gửi cho thầy sửa nha.
 
 ### Bài 1 trang 72 - Listen and read
 
+<audio src="https://img.loigiaihay.com/picture/2024/0515/41.mp3"></audio>
+
 <teacher_script pause="0">
-Bài 1 <eng>Listen and read</eng>. Nghe và đọc hội thoại. Lan gặp Tom ở hành lang trường, tụi nó nói về cuộc thi Kỳ quan Thiên nhiên. Chú ý cấu trúc câu hỏi gián tiếp trong bài nha, quan trọng cho phần grammar sau.
+Bài 1 <eng>Listen and read</eng>. Bấm nút nghe bên trên rồi đọc theo hội thoại. Lan gặp Tom ở hành lang trường, tụi nó nói về cuộc thi Kỳ quan Thiên nhiên. Chú ý cấu trúc câu hỏi gián tiếp trong bài nha, quan trọng cho phần grammar sau.
 </teacher_script>
 
 <task>
