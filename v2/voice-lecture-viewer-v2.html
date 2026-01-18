@@ -441,8 +441,12 @@
     .action-btn svg{flex-shrink:0}
     .action-btn.recording{border-color:#ef4444;background:linear-gradient(135deg,#fef2f2,#fee2e2);animation:recordPulse 1s infinite;color:#dc2626}
     @keyframes recordPulse{50%{opacity:.7}}
-    .audio-box{margin-top:12px}
-    .audio-box audio{width:100%;max-width:300px;border-radius:8px}
+    .audio-box{margin-top:12px;border-left:4px solid #a855f7;background:linear-gradient(135deg,#faf5ff,#f3e8ff)}
+    .audio-box audio{width:100%;max-width:400px;border-radius:8px}
+    .audio-label{font-weight:600;color:#7c3aed;margin-bottom:8px}
+    .audio-player{margin:12px 0}
+    .audio-hint{font-size:0.85rem;color:#6b7280;font-style:italic}
+    .audio-missing{color:#ef4444;font-style:italic;padding:8px;background:#fef2f2;border-radius:4px}
   </style>
 </head>
 <body>
@@ -982,6 +986,31 @@ function renderContent(md, chunkIndex) {
     placeholder(`<div class="card" data-testid="questions">${renderMD(c)}</div>`));
   h = h.replace(/<explanation>([\s\S]*?)<\/explanation>/gi, (_, c) =>
     placeholder(`<div class="card" data-testid="explanation">${renderMD(c)}</div>`));
+
+  // Audio tag - render as playable audio player for listening exercises
+  h = h.replace(/<audio([^>]*)>([\s\S]*?)<\/audio>/gi, (_, attrs, content) => {
+    const srcMatch = attrs.match(/src="([^"]+)"/);
+    const src = srcMatch ? srcMatch[1] : '';
+
+    // Skip TODO placeholders
+    if (!src || src.includes('TODO')) {
+      return placeholder(`<div class="card audio-box" data-testid="audio">
+        <div class="audio-label">${renderMD(content)}</div>
+        <div class="audio-missing">Audio chưa có</div>
+      </div>`);
+    }
+
+    return placeholder(`<div class="card audio-box" data-testid="audio">
+      <div class="audio-label">${renderMD(content)}</div>
+      <div class="audio-player">
+        <audio controls preload="metadata" style="width:100%;max-width:400px;">
+          <source src="${src}" type="audio/mpeg">
+          Trình duyệt không hỗ trợ audio.
+        </audio>
+      </div>
+      <div class="audio-hint">Nhấn play để nghe bài nghe</div>
+    </div>`);
+  });
 
   // Exercise tag - interactive exercise from JSON
   h = h.replace(/<exercise([^>]*)>([\s\S]*?)<\/exercise>/gi, (_, attrs, content) => {
