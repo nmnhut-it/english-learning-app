@@ -67,7 +67,7 @@ Các em hãy ghi chép ngữ pháp vào vở nhé.
   *(Bạn sống **ở đâu**? → Tôi sống ở Hà Nội.)*
 </grammar>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_e308ffc2.mp3">
 <eng>Where do you live?</eng> - Nghĩa là "Bạn sống ở đâu?" Nếu câu trả lời là nơi chốn, địa điểm, thì dùng <eng>Where</eng> hen.
 </teacher_script>
 
