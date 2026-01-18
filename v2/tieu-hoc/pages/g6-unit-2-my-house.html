@@ -1,0 +1,358 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Grade 6 - Unit 2: My House | English Grammar Games</title>
+  <meta name="description" content="Practice Possessive 's, There is/are, and Prepositions of Place for Grade 6">
+
+  <!-- Shared Styles -->
+  <link rel="stylesheet" href="../css/shared.css">
+</head>
+<body>
+  <!-- Game Header -->
+  <header class="game-header">
+    <div class="container">
+      <div class="game-header__container">
+        <div class="game-header__info-section">
+          <h1 class="game-header__title">Grade 6 - Unit 2: My House</h1>
+          <p class="game-header__subtitle">Possessive 's, There is/are & Prepositions of Place</p>
+          <div class="game-info">
+            <div class="game-info__item">
+              <span class="game-info__label">Giáo viên:</span>
+              <span class="game-info__value">Nguyễn Minh Nhựt</span>
+            </div>
+            <div class="game-info__item">
+              <span class="game-info__label">Học sinh:</span>
+              <span class="game-info__value">Lớp 6</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="game-header__stats">
+          <div class="stat">
+            <span class="stat__label">Điểm</span>
+            <span class="stat__value stat__value--primary" id="current-score">⭐ 0</span>
+          </div>
+
+          <div class="stat">
+            <span class="stat__label">Tiến độ</span>
+            <span class="stat__value" id="progress-count">0 / 0</span>
+          </div>
+
+          <div class="stat" id="combo-display" style="display: none;">
+            <span class="stat__label">Combo</span>
+            <span class="stat__value" id="combo-count">0</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Progress Bar -->
+      <div class="progress">
+        <div class="progress__bar" id="progress-bar" style="width: 0%;"></div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Content -->
+  <main class="container">
+    <!-- Theory Panel (Collapsible) -->
+    <div class="theory-panel" id="theory-panel">
+      <button class="theory-panel__toggle" id="theory-toggle">
+        <span>📖 Tài liệu ngữ pháp</span>
+        <span class="theory-panel__icon" id="theory-icon">▼</span>
+      </button>
+
+      <div class="theory-panel__content" id="theory-content">
+        <div class="theory-panel__section">
+          <h3 class="theory-panel__heading">1. Sở hữu cách (Possessive 's)</h3>
+
+          <p><strong>🎯 Công dụng:</strong> Dùng để chỉ cái gì đó thuộc về ai đó</p>
+
+          <p><strong>📝 Cấu trúc:</strong></p>
+          <p class="text-center" style="font-size: 1.2em; color: var(--primary); background: var(--bg-light); padding: 10px; border-radius: 8px;">
+            <strong>Tên người/vật + 's + danh từ</strong>
+          </p>
+
+          <div class="theory-panel__example">
+            <strong>✅ Ví dụ:</strong><br>
+            • <strong>Hoa's father</strong> = cha của Hoa<br>
+            • <strong>Nick's room</strong> = phòng của Nick<br>
+            • <strong>My brother's pen</strong> = cây viết của anh trai tôi<br>
+            • <strong>The dog's house</strong> = nhà của con chó<br>
+            • <strong>My sister's bag</strong> = cặp của chị/em gái tôi
+          </div>
+
+          <p class="text-note"><strong>💡 Mẹo nhớ:</strong></p>
+          <ul>
+            <li>Với danh từ số ít: thêm <strong>'s</strong> (Nick → Nick's)</li>
+            <li>Với danh từ số nhiều có 's': chỉ thêm <strong>'</strong> (students → students')</li>
+            <li>Với danh từ số nhiều không có 's': thêm <strong>'s</strong> (children → children's)</li>
+          </ul>
+        </div>
+
+        <div class="theory-panel__section">
+          <h3 class="theory-panel__heading">2. There is / There are</h3>
+
+          <p><strong>🎯 Công dụng:</strong> Dùng để diễn tả sự tồn tại, có cái gì đó ở đâu đó</p>
+
+          <p><strong>📝 Cấu trúc:</strong></p>
+          <table style="width: 100%; border-collapse: collapse; margin: 10px 0;">
+            <tr style="background: var(--bg-light);">
+              <th style="padding: 10px; text-align: center; border: 1px solid #ddd;">Khẳng định</th>
+              <th style="padding: 10px; text-align: center; border: 1px solid #ddd;">Phủ định</th>
+              <th style="padding: 10px; text-align: center; border: 1px solid #ddd;">Nghi vấn</th>
+            </tr>
+            <tr>
+              <td style="padding: 10px; border: 1px solid #ddd;">
+                There <strong>is</strong> + a/an + N (số ít)<br>
+                There <strong>are</strong> + N (số nhiều)
+              </td>
+              <td style="padding: 10px; border: 1px solid #ddd;">
+                There <strong>isn't</strong> + a/an + N<br>
+                There <strong>aren't</strong> + N (số nhiều)
+              </td>
+              <td style="padding: 10px; border: 1px solid #ddd;">
+                <strong>Is there</strong> + a/an + N?<br>
+                <strong>Are there</strong> + N (số nhiều)?
+              </td>
+            </tr>
+          </table>
+
+          <div class="theory-panel__example">
+            <strong>✅ Ví dụ:</strong><br>
+            • There <strong>is</strong> a cat next to the window. (Có một con mèo bên cạnh cửa sổ.)<br>
+            • There <strong>are</strong> two cats next to the window. (Có hai con mèo bên cạnh cửa sổ.)<br>
+            • There <strong>isn't</strong> a TV in my room. (Không có TV trong phòng tôi.)<br>
+            • There <strong>aren't</strong> any books on the desk. (Không có quyển sách nào trên bàn.)<br>
+            • <strong>Is there</strong> a kitchen in your house? (Có nhà bếp trong nhà bạn không?)<br>
+            • <strong>Are there</strong> five rooms in your house? (Có năm phòng trong nhà bạn không?)
+          </div>
+
+          <p class="text-note"><strong>⚠️ Lưu ý quan trọng:</strong></p>
+          <ul>
+            <li><strong>Số ít (1 cái):</strong> dùng <strong>is</strong> → There is <u>a</u> desk</li>
+            <li><strong>Số nhiều (2+ cái):</strong> dùng <strong>are</strong> → There are <u>two</u> desks</li>
+            <li><strong>Có nhiều danh từ:</strong> chia động từ theo danh từ đầu tiên<br>
+              → There <strong>is</strong> a kitchen and two bedrooms. (vì 'a kitchen' là số ít)</li>
+          </ul>
+        </div>
+
+        <div class="theory-panel__section">
+          <h3 class="theory-panel__heading">3. Giới từ chỉ vị trí (Prepositions of Place)</h3>
+
+          <p><strong>🎯 Công dụng:</strong> Dùng để chỉ vị trí của người hoặc vật</p>
+
+          <table style="width: 100%; border-collapse: collapse;">
+            <tr style="background: var(--bg-light);">
+              <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">Giới từ</th>
+              <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">Nghĩa</th>
+              <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">Ví dụ</th>
+            </tr>
+            <tr>
+              <td style="padding: 10px; border: 1px solid #ddd;"><strong>in</strong></td>
+              <td style="padding: 10px; border: 1px solid #ddd;">trong, ở bên trong</td>
+              <td style="padding: 10px; border: 1px solid #ddd;">The cat is <strong>in</strong> the box. (Mèo ở trong hộp.)</td>
+            </tr>
+            <tr style="background: var(--bg-light);">
+              <td style="padding: 10px; border: 1px solid #ddd;"><strong>on</strong></td>
+              <td style="padding: 10px; border: 1px solid #ddd;">trên, ở trên bề mặt</td>
+              <td style="padding: 10px; border: 1px solid #ddd;">The book is <strong>on</strong> the table. (Sách ở trên bàn.)</td>
+            </tr>
+            <tr>
+              <td style="padding: 10px; border: 1px solid #ddd;"><strong>under</strong></td>
+              <td style="padding: 10px; border: 1px solid #ddd;">dưới, ở phía dưới</td>
+              <td style="padding: 10px; border: 1px solid #ddd;">The bag is <strong>under</strong> the bed. (Cặp ở dưới giường.)</td>
+            </tr>
+            <tr style="background: var(--bg-light);">
+              <td style="padding: 10px; border: 1px solid #ddd;"><strong>next to / beside</strong></td>
+              <td style="padding: 10px; border: 1px solid #ddd;">bên cạnh</td>
+              <td style="padding: 10px; border: 1px solid #ddd;">The lamp is <strong>next to</strong> the bed. (Đèn ở bên cạnh giường.)</td>
+            </tr>
+            <tr>
+              <td style="padding: 10px; border: 1px solid #ddd;"><strong>behind</strong></td>
+              <td style="padding: 10px; border: 1px solid #ddd;">phía sau, đằng sau</td>
+              <td style="padding: 10px; border: 1px solid #ddd;">The TV is <strong>behind</strong> you. (TV ở phía sau bạn.)</td>
+            </tr>
+            <tr style="background: var(--bg-light);">
+              <td style="padding: 10px; border: 1px solid #ddd;"><strong>in front of</strong></td>
+              <td style="padding: 10px; border: 1px solid #ddd;">phía trước, đằng trước</td>
+              <td style="padding: 10px; border: 1px solid #ddd;">The dog is <strong>in front of</strong> the house. (Chó ở trước nhà.)</td>
+            </tr>
+            <tr>
+              <td style="padding: 10px; border: 1px solid #ddd;"><strong>between</strong></td>
+              <td style="padding: 10px; border: 1px solid #ddd;">ở giữa (hai vật)</td>
+              <td style="padding: 10px; border: 1px solid #ddd;">The sofa is <strong>between</strong> the door and the window. (Ghế sofa ở giữa cửa và cửa sổ.)</td>
+            </tr>
+            <tr style="background: var(--bg-light);">
+              <td style="padding: 10px; border: 1px solid #ddd;"><strong>among</strong></td>
+              <td style="padding: 10px; border: 1px solid #ddd;">ở giữa (nhiều vật)</td>
+              <td style="padding: 10px; border: 1px solid #ddd;">She sits <strong>among</strong> her friends. (Cô ấy ngồi giữa bạn bè.)</td>
+            </tr>
+            <tr>
+              <td style="padding: 10px; border: 1px solid #ddd;"><strong>above / over</strong></td>
+              <td style="padding: 10px; border: 1px solid #ddd;">ở phía trên (không chạm)</td>
+              <td style="padding: 10px; border: 1px solid #ddd;">The clock is <strong>above</strong> the door. (Đồng hồ ở trên cửa.)</td>
+            </tr>
+            <tr style="background: var(--bg-light);">
+              <td style="padding: 10px; border: 1px solid #ddd;"><strong>below</strong></td>
+              <td style="padding: 10px; border: 1px solid #ddd;">ở phía dưới (không chạm)</td>
+              <td style="padding: 10px; border: 1px solid #ddd;">The picture is <strong>below</strong> the window. (Tranh ở dưới cửa sổ.)</td>
+            </tr>
+          </table>
+
+          <p class="text-note"><strong>💡 Phân biệt các giới từ:</strong></p>
+          <ul>
+            <li><strong>in</strong> = trong không gian kín (in the box, in the room, in the house)</li>
+            <li><strong>on</strong> = trên bề mặt có tiếp xúc (on the table, on the wall, on the floor)</li>
+            <li><strong>at</strong> = tại một điểm cụ thể (at the door, at the window, at home)</li>
+          </ul>
+        </div>
+
+        <div class="theory-panel__section">
+          <h3 class="theory-panel__heading">4. Từ vựng về nhà cửa (House Vocabulary)</h3>
+
+          <p><strong>🏠 Loại nhà (Types of Houses):</strong></p>
+          <ul>
+            <li><strong>town house</strong> (nhà phố) - nhà trong thành phố</li>
+            <li><strong>country house</strong> (nhà nông thôn) - nhà ở vùng quê</li>
+            <li><strong>flat / apartment</strong> (căn hộ) - nhà trong chung cư</li>
+            <li><strong>villa</strong> (biệt thự) - nhà sang trọng, rộng rãi</li>
+            <li><strong>stilt house</strong> (nhà sàn) - nhà truyền thống miền núi</li>
+          </ul>
+
+          <p><strong>🚪 Các phòng (Rooms):</strong></p>
+          <ul>
+            <li><strong>living room</strong> (phòng khách) - nơi tiếp khách, xem TV</li>
+            <li><strong>bedroom</strong> (phòng ngủ) - nơi ngủ nghỉ</li>
+            <li><strong>kitchen</strong> (nhà bếp) - nơi nấu ăn</li>
+            <li><strong>bathroom</strong> (phòng tắm) - nơi tắm rửa</li>
+            <li><strong>dining room</strong> (phòng ăn) - nơi ăn cơm</li>
+            <li><strong>hall / hallway</strong> (hành lang) - lối đi trong nhà</li>
+            <li><strong>attic</strong> (gác mái) - phòng trên gác</li>
+            <li><strong>garage</strong> (nhà để xe) - nơi đỗ xe</li>
+          </ul>
+
+          <p><strong>🛋️ Đồ nội thất (Furniture):</strong></p>
+          <ul>
+            <li><strong>sofa</strong> (ghế sofa) - ghế dài trong phòng khách</li>
+            <li><strong>lamp</strong> (đèn) - đèn chiếu sáng</li>
+            <li><strong>wardrobe</strong> (tủ quần áo) - nơi treo quần áo</li>
+            <li><strong>desk</strong> (bàn học/làm việc) - bàn để học bài</li>
+            <li><strong>bed</strong> (giường) - nơi ngủ</li>
+            <li><strong>table</strong> (bàn) - bàn ăn, bàn trà</li>
+            <li><strong>chair</strong> (ghế) - ghế ngồi</li>
+            <li><strong>bookshelf</strong> (kệ sách) - nơi để sách</li>
+            <li><strong>TV</strong> (tivi) - để xem phim</li>
+            <li><strong>fridge</strong> (tủ lạnh) - để đồ ăn, đồ uống</li>
+            <li><strong>cupboard</strong> (tủ chén) - để bát đĩa</li>
+            <li><strong>curtain</strong> (rèm cửa) - che cửa sổ</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <!-- Exercise Container -->
+    <div id="exercise-container">
+      <!-- Exercises will be rendered here dynamically -->
+      <div class="card text-center">
+        <h2>Loading...</h2>
+        <p>Please wait while we load the exercises.</p>
+      </div>
+    </div>
+  </main>
+
+  <!-- Core JavaScript (loaded first) -->
+  <script src="../js/core/utils.js"></script>
+  <script src="../js/core/storage.js"></script>
+  <script src="../js/core/telegram-sender.js"></script>
+  <script src="../js/core/game-engine.js"></script>
+
+  <!-- Exercise Type Handlers (mobile-friendly types only) -->
+  <script src="../js/exercises/fill-blank.js"></script>
+  <script src="../js/exercises/multiple-choice.js"></script>
+  <script src="../js/exercises/word-rearrange.js"></script>
+
+  <!-- Initialize Game -->
+  <script>
+    const UNIT_ID = 'g6-unit-2-my-house';
+    const DATA_PATH = '../data/g6-unit-2-my-house.json';
+
+    // Theory panel toggle
+    const theoryToggle = document.getElementById('theory-toggle');
+    const theoryContent = document.getElementById('theory-content');
+    const theoryIcon = document.getElementById('theory-icon');
+
+    theoryToggle.addEventListener('click', () => {
+      const isExpanded = theoryContent.classList.contains('theory-panel__content--expanded');
+
+      if (isExpanded) {
+        theoryContent.classList.remove('theory-panel__content--expanded');
+        theoryIcon.classList.remove('theory-panel__icon--rotated');
+      } else {
+        theoryContent.classList.add('theory-panel__content--expanded');
+        theoryIcon.classList.add('theory-panel__icon--rotated');
+      }
+    });
+
+    // Combo display logic
+    function updateComboDisplay() {
+      const comboDisplay = document.getElementById('combo-display');
+      const comboCount = document.getElementById('combo-count');
+      const state = GameEngine.getState();
+
+      if (state.comboCount >= 3) {
+        comboDisplay.style.display = 'flex';
+        comboCount.textContent = state.comboCount + 'x 🔥';
+      } else {
+        comboDisplay.style.display = 'none';
+      }
+    }
+
+    // Override GameEngine.updateUI to include combo display
+    const originalUpdateUI = GameEngine.updateUI.bind(GameEngine);
+    GameEngine.updateUI = function() {
+      originalUpdateUI();
+      updateComboDisplay();
+    };
+
+    // Load unit data and start game
+    async function loadAndStartGame() {
+      try {
+        const response = await fetch(DATA_PATH);
+
+        if (!response.ok) {
+          throw new Error(`Failed to load data: ${response.status}`);
+        }
+
+        const unitData = await response.json();
+
+        console.log('Unit data loaded:', unitData);
+        console.log('Registered exercise handlers:', Object.keys(GameEngine.exerciseHandlers));
+
+        GameEngine.init(unitData, UNIT_ID);
+
+      } catch (error) {
+        console.error('Error loading game data:', error);
+
+        const container = document.getElementById('exercise-container');
+        container.innerHTML = `
+          <div class="card">
+            <h2 style="color: var(--danger);">Error Loading Game</h2>
+            <p>Sorry, we couldn't load the exercise data. Please try refreshing the page.</p>
+            <p style="font-size: var(--font-size-sm); color: var(--text-light);">Error: ${error.message}</p>
+            <button class="btn btn--primary mt-2" onclick="location.reload()">Reload Page</button>
+          </div>
+        `;
+      }
+    }
+
+    // Start game when page loads
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', loadAndStartGame);
+    } else {
+      loadAndStartGame();
+    }
+  </script>
+</body>
+</html>

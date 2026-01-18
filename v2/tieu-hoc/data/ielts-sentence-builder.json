@@ -1,0 +1,747 @@
+{
+  "title": "IELTS Writing Task 2 - Sentence Builder",
+  "description": "Transform Vietnamese ideas into natural English sentences using clear structures",
+  "targetLevel": "Pre-intermediate to Intermediate (IELTS 4.5-6.0)",
+  "topics": [
+    {
+      "topicId": "education",
+      "topicName": "Education (Giáo dục)",
+      "icon": "🎓",
+      "examples": [
+        {
+          "id": "edu-1",
+          "vietnamese": "Chính phủ nên đầu tư nhiều hơn vào giáo dục để nâng cao chất lượng nguồn nhân lực.",
+
+          "step2_breakdown": {
+            "title": "Step 2: Break into building blocks (Phân tích thành phần)",
+            "components": {
+              "subject": "Chính phủ",
+              "verb": "nên đầu tư",
+              "object": "nhiều hơn vào giáo dục",
+              "purpose": "để nâng cao chất lượng nguồn nhân lực"
+            },
+            "keyVocabulary": [
+              {"vi": "chính phủ", "en": "the government", "note": ""},
+              {"vi": "đầu tư vào", "en": "invest in", "note": "collocation"},
+              {"vi": "giáo dục", "en": "education", "note": ""},
+              {"vi": "nâng cao", "en": "improve / enhance", "note": "formal"},
+              {"vi": "chất lượng nguồn nhân lực", "en": "quality of the workforce / human capital", "note": "academic phrase"}
+            ]
+          },
+
+          "step3_structure": {
+            "title": "Step 3: Choose structure (Chọn cấu trúc)",
+            "formula": "S + should + V0 + O + in order to + V0",
+            "explanation": "'should' = nên (suggestion). 'in order to' = để (purpose). Use base verb after both.",
+            "pluggedIn": "The government + should + invest more in education + in order to + improve the quality of the workforce"
+          },
+
+          "step4_finalAnswer": {
+            "title": "Step 4: Final answer (Câu hoàn chỉnh)",
+            "basic": "The government should invest more in education in order to improve the quality of the workforce.",
+            "enriched": "The government should significantly invest more in public education in order to improve the quality of the workforce, which is essential for economic growth.",
+            "enrichmentTips": [
+              "Add adverb: 'significantly' (đáng kể) for emphasis",
+              "Add adjective: 'public' (công lập) to be specific",
+              "Add relative clause: 'which is essential for...' to extend the idea"
+            ]
+          },
+
+          "practicePrompts": [
+            "Chính phủ nên xây thêm bệnh viện để cải thiện dịch vụ y tế.",
+            "Chính phủ nên tăng lương giáo viên để thu hút nhân tài.",
+            "Chính phủ nên cải thiện giao thông công cộng để giảm ùn tắc giao thông.",
+            "Chính phủ nên xây thêm thư viện để khuyến khích văn hóa đọc.",
+            "Chính phủ nên đầu tư vào nghiên cứu khoa học để phát triển đổi mới sáng tạo."
+          ]
+        },
+        {
+          "id": "edu-2",
+          "vietnamese": "Học sinh nên học các kỹ năng thực tế hơn là chỉ học lý thuyết.",
+
+          "step2_breakdown": {
+            "title": "Step 2: Break into building blocks",
+            "components": {
+              "subject": "Học sinh",
+              "verb": "nên học",
+              "object1": "các kỹ năng thực tế",
+              "comparison": "hơn là chỉ học lý thuyết"
+            },
+            "keyVocabulary": [
+              {"vi": "học sinh", "en": "students", "note": ""},
+              {"vi": "kỹ năng thực tế", "en": "practical skills", "note": "collocation"},
+              {"vi": "lý thuyết", "en": "theory / theoretical knowledge", "note": ""},
+              {"vi": "hơn là", "en": "rather than / instead of", "note": "comparison"}
+            ]
+          },
+
+          "step3_structure": {
+            "title": "Step 3: Choose structure",
+            "formula": "S + should + V + O1 + rather than + V + O2",
+            "explanation": "'rather than' = hơn là (showing preference). Both verbs can be V-ing form.",
+            "pluggedIn": "Students + should + learn practical skills + rather than + only study theory"
+          },
+
+          "step4_finalAnswer": {
+            "title": "Step 4: Final answer",
+            "basic": "Students should learn practical skills rather than only studying theory.",
+            "enriched": "Students should learn more practical skills rather than only studying theoretical knowledge, which will help them in their future careers.",
+            "enrichmentTips": [
+              "Add 'more' before 'practical skills' for emphasis",
+              "Replace 'theory' with 'theoretical knowledge' (more formal)",
+              "Add purpose clause: 'which will help them in...'"
+            ]
+          },
+
+          "practicePrompts": [
+            "Trường học nên dạy kỹ năng mềm hơn là chỉ tập trung vào điểm số.",
+            "Sinh viên nên học kinh nghiệm thực tế hơn là chỉ ngồi trong lớp.",
+            "Giáo viên nên khuyến khích sáng tạo hơn là chỉ yêu cầu học thuộc.",
+            "Học sinh nên phát triển tư duy phản biện hơn là chỉ ghi nhớ kiến thức.",
+            "Trẻ em nên chơi ngoài trời hơn là chỉ chơi game điện tử."
+          ]
+        },
+        {
+          "id": "edu-3",
+          "vietnamese": "Giáo dục đại học nên miễn phí vì nó mang lại lợi ích cho toàn xã hội.",
+
+          "step2_breakdown": {
+            "title": "Step 2: Break into building blocks",
+            "components": {
+              "subject": "Giáo dục đại học",
+              "verb": "nên",
+              "complement": "miễn phí",
+              "reason": "vì nó mang lại lợi ích cho toàn xã hội"
+            },
+            "keyVocabulary": [
+              {"vi": "giáo dục đại học", "en": "university education / higher education", "note": ""},
+              {"vi": "miễn phí", "en": "free / free of charge", "note": ""},
+              {"vi": "mang lại lợi ích", "en": "bring benefits / benefit", "note": ""},
+              {"vi": "toàn xã hội", "en": "the whole society / society as a whole", "note": ""}
+            ]
+          },
+
+          "step3_structure": {
+            "title": "Step 3: Choose structure",
+            "formula": "S + should + be + adj + because + S + V + O",
+            "explanation": "'should be' = nên là (for states). 'because' = vì (giving reason).",
+            "pluggedIn": "University education + should + be free + because + it benefits the whole society"
+          },
+
+          "step4_finalAnswer": {
+            "title": "Step 4: Final answer",
+            "basic": "University education should be free because it benefits the whole society.",
+            "enriched": "University education should be completely free because it brings significant benefits to society as a whole, including economic growth and social equality.",
+            "enrichmentTips": [
+              "Add adverb: 'completely' before 'free'",
+              "Use 'brings significant benefits' (stronger than just 'benefits')",
+              "Add specific examples: 'including economic growth and social equality'"
+            ]
+          },
+
+          "practicePrompts": [
+            "Sách giáo khoa nên rẻ hơn vì nhiều gia đình không đủ khả năng chi trả.",
+            "Giao thông công cộng nên miễn phí vì nó giúp giảm ô nhiễm không khí.",
+            "Internet nên miễn phí vì nó là quyền cơ bản trong xã hội hiện đại.",
+            "Các bảo tàng nên miễn phí vào cuối tuần vì nó khuyến khích giáo dục văn hóa.",
+            "Nước sạch nên miễn phí vì nó là nhu cầu thiết yếu của con người."
+          ]
+        }
+      ]
+    },
+    {
+      "topicId": "technology",
+      "topicName": "Technology (Công nghệ)",
+      "icon": "💻",
+      "examples": [
+        {
+          "id": "tech-1",
+          "vietnamese": "Nhiều người trẻ sử dụng mạng xã hội quá nhiều vì họ muốn kết nối với bạn bè.",
+
+          "step2_breakdown": {
+            "title": "Step 2: Break into building blocks",
+            "components": {
+              "subject": "Nhiều người trẻ",
+              "verb": "sử dụng",
+              "object": "mạng xã hội quá nhiều",
+              "reason": "vì họ muốn kết nối với bạn bè"
+            },
+            "keyVocabulary": [
+              {"vi": "người trẻ", "en": "young people / youth", "note": ""},
+              {"vi": "sử dụng", "en": "use", "note": ""},
+              {"vi": "mạng xã hội", "en": "social media", "note": "uncountable"},
+              {"vi": "quá nhiều", "en": "excessively / too much", "note": "adverb"},
+              {"vi": "kết nối với", "en": "connect with / stay connected with", "note": "collocation"}
+            ]
+          },
+
+          "step3_structure": {
+            "title": "Step 3: Choose structure",
+            "formula": "S + adv + V + O + because + S + V + O",
+            "explanation": "'because' = vì (giving reason). Adverb (excessively) goes after verb or at end.",
+            "pluggedIn": "Many young people + use social media excessively + because + they want to connect with their friends"
+          },
+
+          "step4_finalAnswer": {
+            "title": "Step 4: Final answer",
+            "basic": "Many young people use social media excessively because they want to connect with their friends.",
+            "enriched": "Many young people nowadays use social media excessively because they want to stay connected with their friends, which may lead to reduced face-to-face communication.",
+            "enrichmentTips": [
+              "Add time marker: 'nowadays' (ngày nay)",
+              "Use 'stay connected with' (stronger collocation)",
+              "Add consequence: 'which may lead to...' to show critical thinking"
+            ]
+          },
+
+          "practicePrompts": [
+            "Nhiều người dùng smartphone suốt ngày vì họ sợ bỏ lỡ thông tin.",
+            "Nhiều thanh thiếu niên xem TikTok quá nhiều vì họ muốn giải trí.",
+            "Nhiều người lướt Facebook mỗi ngày vì họ muốn cập nhật tin tức.",
+            "Nhiều học sinh chơi game online thường xuyên vì họ muốn thư giãn.",
+            "Nhiều người làm việc từ xa sử dụng Zoom liên tục vì họ cần họp trực tuyến."
+          ]
+        },
+        {
+          "id": "tech-2",
+          "vietnamese": "Công nghệ AI đang thay đổi cách chúng ta làm việc và học tập.",
+
+          "step2_breakdown": {
+            "title": "Step 2: Break into building blocks",
+            "components": {
+              "subject": "Công nghệ AI",
+              "verb": "đang thay đổi",
+              "object": "cách chúng ta làm việc và học tập"
+            },
+            "keyVocabulary": [
+              {"vi": "công nghệ AI", "en": "AI technology / artificial intelligence", "note": ""},
+              {"vi": "đang thay đổi", "en": "is changing / is transforming", "note": "present continuous"},
+              {"vi": "cách", "en": "the way / how", "note": ""},
+              {"vi": "làm việc", "en": "work", "note": ""},
+              {"vi": "học tập", "en": "learn / study", "note": ""}
+            ]
+          },
+
+          "step3_structure": {
+            "title": "Step 3: Choose structure",
+            "formula": "S + be + V-ing + the way + S + V",
+            "explanation": "'is changing' = đang thay đổi (ongoing action). 'the way + we + verb' = cách chúng ta...",
+            "pluggedIn": "AI technology + is changing + the way + we work and learn"
+          },
+
+          "step4_finalAnswer": {
+            "title": "Step 4: Final answer",
+            "basic": "AI technology is changing the way we work and learn.",
+            "enriched": "AI technology is rapidly transforming the way we work and learn, making many tasks more efficient but also raising concerns about job security.",
+            "enrichmentTips": [
+              "Replace 'changing' with 'transforming' (stronger verb)",
+              "Add adverb: 'rapidly' (nhanh chóng)",
+              "Add both positive and negative: 'making... but also raising...'"
+            ]
+          },
+
+          "practicePrompts": [
+            "Internet đang thay đổi cách chúng ta mua sắm và giải trí.",
+            "Robot đang thay đổi cách chúng ta sản xuất hàng hóa.",
+            "Mạng xã hội đang thay đổi cách chúng ta giao tiếp với nhau.",
+            "Smartphone đang thay đổi cách chúng ta tiếp cận thông tin.",
+            "Công nghệ blockchain đang thay đổi cách chúng ta giao dịch tài chính."
+          ]
+        },
+        {
+          "id": "tech-3",
+          "vietnamese": "Trẻ em không nên sử dụng điện thoại quá nhiều vì nó ảnh hưởng đến sức khỏe.",
+
+          "step2_breakdown": {
+            "title": "Step 2: Break into building blocks",
+            "components": {
+              "subject": "Trẻ em",
+              "verb": "không nên sử dụng",
+              "object": "điện thoại quá nhiều",
+              "reason": "vì nó ảnh hưởng đến sức khỏe"
+            },
+            "keyVocabulary": [
+              {"vi": "trẻ em", "en": "children", "note": ""},
+              {"vi": "không nên", "en": "should not / shouldn't", "note": "negative advice"},
+              {"vi": "điện thoại", "en": "phones / smartphones", "note": ""},
+              {"vi": "ảnh hưởng đến", "en": "affect / impact / harm", "note": ""},
+              {"vi": "sức khỏe", "en": "health", "note": "uncountable"}
+            ]
+          },
+
+          "step3_structure": {
+            "title": "Step 3: Choose structure",
+            "formula": "S + should not + V + O + because + S + V + O",
+            "explanation": "'should not' = không nên (negative advice). Can contract to 'shouldn't'.",
+            "pluggedIn": "Children + should not + use phones too much + because + it affects their health"
+          },
+
+          "step4_finalAnswer": {
+            "title": "Step 4: Final answer",
+            "basic": "Children should not use phones too much because it affects their health.",
+            "enriched": "Children should not use smartphones excessively because it can harm their physical and mental health, particularly their eyesight and sleep quality.",
+            "enrichmentTips": [
+              "Use 'smartphones' (more specific than 'phones')",
+              "Use 'excessively' instead of 'too much' (more formal)",
+              "Add 'can harm' (stronger than 'affects')",
+              "Give specific examples: 'their eyesight and sleep quality'"
+            ]
+          },
+
+          "practicePrompts": [
+            "Học sinh không nên copy bài trên mạng vì nó không giúp họ học được gì.",
+            "Người lái xe không nên dùng điện thoại vì nó gây nguy hiểm cho an toàn.",
+            "Trẻ em không nên xem video bạo lực vì nó ảnh hưởng đến tâm lý.",
+            "Người dùng không nên chia sẻ thông tin cá nhân trên mạng vì nó có thể bị lợi dụng.",
+            "Nhân viên không nên lướt mạng xã hội trong giờ làm việc vì nó giảm năng suất."
+          ]
+        }
+      ]
+    },
+    {
+      "topicId": "environment",
+      "topicName": "Environment (Môi trường)",
+      "icon": "🌍",
+      "examples": [
+        {
+          "id": "env-1",
+          "vietnamese": "Các thành phố lớn đang xây thêm công viên để cải thiện chất lượng cuộc sống cho người dân.",
+
+          "step2_breakdown": {
+            "title": "Step 2: Break into building blocks",
+            "components": {
+              "subject": "Các thành phố lớn",
+              "verb": "đang xây thêm",
+              "object": "công viên",
+              "purpose": "để cải thiện chất lượng cuộc sống",
+              "beneficiary": "cho người dân"
+            },
+            "keyVocabulary": [
+              {"vi": "thành phố lớn", "en": "major cities / large cities", "note": ""},
+              {"vi": "đang xây", "en": "are building / are constructing", "note": "present continuous"},
+              {"vi": "công viên", "en": "parks / public parks", "note": ""},
+              {"vi": "cải thiện", "en": "improve / enhance", "note": ""},
+              {"vi": "chất lượng cuộc sống", "en": "quality of life", "note": "fixed phrase"},
+              {"vi": "người dân", "en": "residents / citizens", "note": ""}
+            ]
+          },
+
+          "step3_structure": {
+            "title": "Step 3: Choose structure",
+            "formula": "S + be + V-ing + O + in order to + V + O + for + N",
+            "explanation": "'are building' = đang xây (ongoing action). 'in order to' = để (purpose). 'for + noun' = cho ai.",
+            "pluggedIn": "Major cities + are building + more parks + in order to + improve the quality of life + for residents"
+          },
+
+          "step4_finalAnswer": {
+            "title": "Step 4: Final answer",
+            "basic": "Major cities are building more parks in order to improve the quality of life for residents.",
+            "enriched": "Major cities are actively building more public parks in order to improve the quality of life for residents, which can enhance community well-being and reduce stress.",
+            "enrichmentTips": [
+              "Add adverb: 'actively' (tích cực)",
+              "Specify: 'public parks' instead of just 'parks'",
+              "Add consequence: 'which can enhance...' with specific benefits"
+            ]
+          },
+
+          "practicePrompts": [
+            "Chính phủ đang trồng thêm cây xanh để giảm ô nhiễm không khí.",
+            "Nhiều thành phố đang xây khu vực đi bộ để khuyến khích lối sống xanh.",
+            "Các nước đang phát triển năng lượng tái tạo để giảm phát thải carbon.",
+            "Các tổ chức đang tổ chức chiến dịch dọn rác để nâng cao nhận thức môi trường.",
+            "Nhiều doanh nghiệp đang giảm sử dụng nhựa để bảo vệ đại dương."
+          ]
+        },
+        {
+          "id": "env-2",
+          "vietnamese": "Mọi người nên tái chế rác thải để bảo vệ môi trường.",
+
+          "step2_breakdown": {
+            "title": "Step 2: Break into building blocks",
+            "components": {
+              "subject": "Mọi người",
+              "verb": "nên tái chế",
+              "object": "rác thải",
+              "purpose": "để bảo vệ môi trường"
+            },
+            "keyVocabulary": [
+              {"vi": "mọi người", "en": "people / everyone", "note": ""},
+              {"vi": "tái chế", "en": "recycle", "note": "verb"},
+              {"vi": "rác thải", "en": "waste / garbage", "note": ""},
+              {"vi": "bảo vệ", "en": "protect", "note": ""},
+              {"vi": "môi trường", "en": "the environment", "note": "use 'the'"}
+            ]
+          },
+
+          "step3_structure": {
+            "title": "Step 3: Choose structure",
+            "formula": "S + should + V + O + in order to + V + O",
+            "explanation": "'should' = nên (advice). 'in order to' = để (purpose). Use base verb after both.",
+            "pluggedIn": "People + should + recycle waste + in order to + protect the environment"
+          },
+
+          "step4_finalAnswer": {
+            "title": "Step 4: Final answer",
+            "basic": "People should recycle waste in order to protect the environment.",
+            "enriched": "People should regularly recycle household waste in order to protect the environment and reduce the amount of garbage in landfills.",
+            "enrichmentTips": [
+              "Add frequency adverb: 'regularly' (thường xuyên)",
+              "Be specific: 'household waste' instead of just 'waste'",
+              "Add additional benefit: 'and reduce the amount of garbage in landfills'"
+            ]
+          },
+
+          "practicePrompts": [
+            "Các công ty nên giảm lượng nhựa để giảm rác thải nhựa.",
+            "Mọi người nên tiết kiệm nước để bảo vệ nguồn tài nguyên.",
+            "Học sinh nên tắt đèn khi không dùng để tiết kiệm năng lượng.",
+            "Người dân nên sử dụng túi vải để giảm túi ni-lông.",
+            "Chúng ta nên trồng cây xanh để cải thiện không khí."
+          ]
+        },
+        {
+          "id": "env-3",
+          "vietnamese": "Ô nhiễm không khí ngày càng tệ vì có quá nhiều xe cộ trên đường.",
+
+          "step2_breakdown": {
+            "title": "Step 2: Break into building blocks",
+            "components": {
+              "subject": "Ô nhiễm không khí",
+              "verb": "ngày càng tệ",
+              "reason": "vì có quá nhiều xe cộ trên đường"
+            },
+            "keyVocabulary": [
+              {"vi": "ô nhiễm không khí", "en": "air pollution", "note": "uncountable"},
+              {"vi": "ngày càng tệ", "en": "is getting worse / is becoming worse", "note": "progressive"},
+              {"vi": "xe cộ", "en": "vehicles / cars", "note": ""},
+              {"vi": "trên đường", "en": "on the roads", "note": ""}
+            ]
+          },
+
+          "step3_structure": {
+            "title": "Step 3: Choose structure",
+            "formula": "S + be + getting + comparative adj + because + there + be + too many + N",
+            "explanation": "'is getting worse' = ngày càng tệ (progressive change). 'there are too many' = có quá nhiều.",
+            "pluggedIn": "Air pollution + is getting worse + because + there are too many vehicles on the roads"
+          },
+
+          "step4_finalAnswer": {
+            "title": "Step 4: Final answer",
+            "basic": "Air pollution is getting worse because there are too many vehicles on the roads.",
+            "enriched": "Air pollution in major cities is getting significantly worse because there are too many private vehicles on the roads, which contributes to serious health problems.",
+            "enrichmentTips": [
+              "Add location: 'in major cities' to be specific",
+              "Add adverb: 'significantly' for emphasis",
+              "Specify: 'private vehicles' (xe riêng)",
+              "Add consequence: 'which contributes to serious health problems'"
+            ]
+          },
+
+          "practicePrompts": [
+            "Biến đổi khí hậu ngày càng nghiêm trọng vì con người phá rừng quá nhiều.",
+            "Tình trạng rác thải nhựa ngày càng tồi tệ vì người dân sử dụng đồ nhựa một lần.",
+            "Chất lượng nước ngày càng giảm vì các nhà máy xả thải ra sông.",
+            "Mực nước biển ngày càng tăng vì băng ở hai cực đang tan chảy.",
+            "Nhiệt độ toàn cầu ngày càng cao vì lượng khí thải carbon tăng."
+          ]
+        }
+      ]
+    },
+    {
+      "topicId": "health",
+      "topicName": "Health (Sức khỏe)",
+      "icon": "🏥",
+      "examples": [
+        {
+          "id": "health-1",
+          "vietnamese": "Tập thể dục thường xuyên giúp cải thiện sức khỏe thể chất và tinh thần.",
+
+          "step2_breakdown": {
+            "title": "Step 2: Break into building blocks",
+            "components": {
+              "subject": "Tập thể dục thường xuyên",
+              "verb": "giúp",
+              "object": "cải thiện sức khỏe thể chất và tinh thần"
+            },
+            "keyVocabulary": [
+              {"vi": "tập thể dục", "en": "exercise / work out", "note": "can be noun or verb"},
+              {"vi": "thường xuyên", "en": "regularly / frequently", "note": "adverb"},
+              {"vi": "giúp", "en": "help / help to", "note": ""},
+              {"vi": "cải thiện", "en": "improve", "note": ""},
+              {"vi": "sức khỏe thể chất", "en": "physical health", "note": ""},
+              {"vi": "sức khỏe tinh thần", "en": "mental health", "note": ""}
+            ]
+          },
+
+          "step3_structure": {
+            "title": "Step 3: Choose structure",
+            "formula": "V-ing + adv + helps (to) + V + O",
+            "explanation": "Gerund (V-ing) as subject. 'helps to improve' = giúp cải thiện. 'to' is optional.",
+            "pluggedIn": "Exercising regularly + helps + improve physical and mental health"
+          },
+
+          "step4_finalAnswer": {
+            "title": "Step 4: Final answer",
+            "basic": "Exercising regularly helps improve physical and mental health.",
+            "enriched": "Exercising regularly helps improve both physical and mental health, which can lead to a better quality of life and increased productivity.",
+            "enrichmentTips": [
+              "Add 'both... and...' for parallel structure",
+              "Add consequence: 'which can lead to...'",
+              "Give specific benefits: 'better quality of life and increased productivity'"
+            ]
+          },
+
+          "practicePrompts": [
+            "Ăn nhiều rau củ giúp tăng cường hệ miễn dịch.",
+            "Ngủ đủ giấc giúp cải thiện trí nhớ và tập trung.",
+            "Uống nhiều nước giúp thanh lọc cơ thể và làm đẹp da.",
+            "Thiền định thường xuyên giúp giảm căng thẳng và lo âu.",
+            "Đi bộ mỗi ngày giúp cải thiện tim mạch và kiểm soát cân nặng."
+          ]
+        },
+        {
+          "id": "health-2",
+          "vietnamese": "Nhiều người trẻ bị căng thẳng vì áp lực công việc và học tập.",
+
+          "step2_breakdown": {
+            "title": "Step 2: Break into building blocks",
+            "components": {
+              "subject": "Nhiều người trẻ",
+              "verb": "bị căng thẳng",
+              "reason": "vì áp lực công việc và học tập"
+            },
+            "keyVocabulary": [
+              {"vi": "người trẻ", "en": "young people", "note": ""},
+              {"vi": "bị căng thẳng", "en": "suffer from stress / experience stress", "note": ""},
+              {"vi": "áp lực", "en": "pressure", "note": "uncountable"},
+              {"vi": "công việc", "en": "work", "note": ""},
+              {"vi": "học tập", "en": "study / studies", "note": ""}
+            ]
+          },
+
+          "step3_structure": {
+            "title": "Step 3: Choose structure",
+            "formula": "S + suffer from + N + because of + N",
+            "explanation": "'suffer from' = bị (for health problems). 'because of + noun' = vì (giving reason).",
+            "pluggedIn": "Many young people + suffer from stress + because of + pressure from work and study"
+          },
+
+          "step4_finalAnswer": {
+            "title": "Step 4: Final answer",
+            "basic": "Many young people suffer from stress because of pressure from work and study.",
+            "enriched": "Many young people nowadays suffer from severe stress because of increasing pressure from work and academic studies, which can negatively affect their well-being.",
+            "enrichmentTips": [
+              "Add time marker: 'nowadays' (ngày nay)",
+              "Add adjective: 'severe' (nghiêm trọng)",
+              "Add adjective: 'increasing' (ngày càng tăng)",
+              "Specify: 'academic studies' instead of just 'study'",
+              "Add consequence: 'which can negatively affect their well-being'"
+            ]
+          },
+
+          "practicePrompts": [
+            "Nhiều người bị mất ngủ vì lo lắng về tương lai.",
+            "Nhiều trẻ em bị béo phì vì ăn quá nhiều đồ ăn nhanh.",
+            "Nhiều người bị đau mắt vì nhìn màn hình máy tính quá lâu.",
+            "Nhiều học sinh bị đau lưng vì ngồi sai tư thế.",
+            "Nhiều người bị trầm cảm vì cô đơn và thiếu kết nối xã hội."
+          ]
+        },
+        {
+          "id": "health-3",
+          "vietnamese": "Chính phủ nên cung cấp dịch vụ y tế miễn phí cho người nghèo.",
+
+          "step2_breakdown": {
+            "title": "Step 2: Break into building blocks",
+            "components": {
+              "subject": "Chính phủ",
+              "verb": "nên cung cấp",
+              "object": "dịch vụ y tế miễn phí",
+              "beneficiary": "cho người nghèo"
+            },
+            "keyVocabulary": [
+              {"vi": "chính phủ", "en": "the government", "note": "use 'the'"},
+              {"vi": "cung cấp", "en": "provide / offer", "note": ""},
+              {"vi": "dịch vụ y tế", "en": "healthcare services / medical services", "note": ""},
+              {"vi": "miễn phí", "en": "free", "note": "adjective"},
+              {"vi": "người nghèo", "en": "the poor / poor people", "note": ""}
+            ]
+          },
+
+          "step3_structure": {
+            "title": "Step 3: Choose structure",
+            "formula": "S + should + provide + adj + N + for + N",
+            "explanation": "'should provide' = nên cung cấp. Adjective (free) goes before noun. 'for + noun' = cho ai.",
+            "pluggedIn": "The government + should + provide free healthcare services + for the poor"
+          },
+
+          "step4_finalAnswer": {
+            "title": "Step 4: Final answer",
+            "basic": "The government should provide free healthcare services for the poor.",
+            "enriched": "The government should provide free and accessible healthcare services for the poor and disadvantaged, ensuring that everyone has equal access to medical treatment.",
+            "enrichmentTips": [
+              "Add adjective: 'accessible' (dễ tiếp cận)",
+              "Expand beneficiary: 'the poor and disadvantaged' (người nghèo và kém may mắn)",
+              "Add purpose clause: 'ensuring that everyone has equal access...'"
+            ]
+          },
+
+          "practicePrompts": [
+            "Bệnh viện nên mở cửa 24/7 để phục vụ bệnh nhân cấp cứu.",
+            "Chính phủ nên xây thêm phòng khám ở vùng xa để phục vụ người dân nông thôn.",
+            "Trường học nên cung cấp bữa trưa miễn phí cho học sinh nghèo.",
+            "Công ty nên cung cấp bảo hiểm y tế cho tất cả nhân viên.",
+            "Các tổ chức nên tổ chức khám sức khỏe miễn phí cho người cao tuổi."
+          ]
+        }
+      ]
+    },
+    {
+      "topicId": "work-career",
+      "topicName": "Work & Career (Công việc & Nghề nghiệp)",
+      "icon": "💼",
+      "examples": [
+        {
+          "id": "work-1",
+          "vietnamese": "Làm việc từ xa ngày càng phổ biến vì nó mang lại sự linh hoạt.",
+
+          "step2_breakdown": {
+            "title": "Step 2: Break into building blocks",
+            "components": {
+              "subject": "Làm việc từ xa",
+              "verb": "ngày càng phổ biến",
+              "reason": "vì nó mang lại sự linh hoạt"
+            },
+            "keyVocabulary": [
+              {"vi": "làm việc từ xa", "en": "remote work / working from home", "note": ""},
+              {"vi": "ngày càng phổ biến", "en": "is becoming more popular / increasingly popular", "note": ""},
+              {"vi": "mang lại", "en": "bring / provide / offer", "note": ""},
+              {"vi": "sự linh hoạt", "en": "flexibility", "note": "uncountable"}
+            ]
+          },
+
+          "step3_structure": {
+            "title": "Step 3: Choose structure",
+            "formula": "S + be + becoming + comparative adj + because + S + V + O",
+            "explanation": "'is becoming more popular' = ngày càng phổ biến (progressive change). 'because' = vì.",
+            "pluggedIn": "Remote work + is becoming more popular + because + it provides flexibility"
+          },
+
+          "step4_finalAnswer": {
+            "title": "Step 4: Final answer",
+            "basic": "Remote work is becoming more popular because it provides flexibility.",
+            "enriched": "Remote work is becoming increasingly popular because it provides greater flexibility for employees, allowing them to achieve better work-life balance.",
+            "enrichmentTips": [
+              "Use 'increasingly popular' (more formal than 'more popular')",
+              "Add adjective: 'greater' before 'flexibility'",
+              "Add beneficiary: 'for employees'",
+              "Add result clause: 'allowing them to achieve better work-life balance'"
+            ]
+          },
+
+          "practicePrompts": [
+            "Làm việc bán thời gian ngày càng được ưa chuộng vì nó cho phép học sinh có thêm thu nhập.",
+            "Làm việc linh hoạt ngày càng phổ biến vì nó giúp cân bằng công việc và cuộc sống.",
+            "Học trực tuyến ngày càng được ưa chuộng vì nó tiết kiệm thời gian di chuyển.",
+            "Khởi nghiệp ngày càng thu hút giới trẻ vì nó mang lại cơ hội làm giàu.",
+            "Du lịch kết hợp công việc ngày càng phổ biến vì nó cho phép khám phá thế giới."
+          ]
+        },
+        {
+          "id": "work-2",
+          "vietnamese": "Nhân viên nên được đào tạo kỹ năng mới để theo kịp sự thay đổi của công nghệ.",
+
+          "step2_breakdown": {
+            "title": "Step 2: Break into building blocks",
+            "components": {
+              "subject": "Nhân viên",
+              "verb": "nên được đào tạo",
+              "object": "kỹ năng mới",
+              "purpose": "để theo kịp sự thay đổi của công nghệ"
+            },
+            "keyVocabulary": [
+              {"vi": "nhân viên", "en": "employees / workers", "note": ""},
+              {"vi": "nên được đào tạo", "en": "should be trained", "note": "passive voice"},
+              {"vi": "kỹ năng mới", "en": "new skills", "note": ""},
+              {"vi": "theo kịp", "en": "keep up with / keep pace with", "note": "phrasal verb"},
+              {"vi": "sự thay đổi", "en": "changes / developments", "note": ""}
+            ]
+          },
+
+          "step3_structure": {
+            "title": "Step 3: Choose structure",
+            "formula": "S + should be + past participle + O + in order to + V + O",
+            "explanation": "'should be trained' = nên được đào tạo (passive). 'in order to' = để (purpose).",
+            "pluggedIn": "Employees + should be trained + in new skills + in order to + keep up with technological changes"
+          },
+
+          "step4_finalAnswer": {
+            "title": "Step 4: Final answer",
+            "basic": "Employees should be trained in new skills in order to keep up with technological changes.",
+            "enriched": "Employees should be regularly trained in new skills in order to keep up with rapid technological changes, which will help companies remain competitive.",
+            "enrichmentTips": [
+              "Add frequency: 'regularly' (thường xuyên)",
+              "Add adjective: 'rapid' before 'technological changes'",
+              "Add consequence: 'which will help companies remain competitive'"
+            ]
+          },
+
+          "practicePrompts": [
+            "Sinh viên nên được hướng dẫn nghề nghiệp để chọn công việc phù hợp.",
+            "Giáo viên nên được đào tạo công nghệ để dạy học hiện đại hơn.",
+            "Lao động nên được đào tạo lại để phù hợp với nhu cầu thị trường mới.",
+            "Nhân viên bán hàng nên được đào tạo kỹ năng mềm để giao tiếp tốt hơn.",
+            "Người quản lý nên được đào tạo lãnh đạo để quản lý đội ngũ hiệu quả."
+          ]
+        },
+        {
+          "id": "work-3",
+          "vietnamese": "Nhiều người thích làm việc tự do hơn là làm công ăn lương vì họ muốn tự chủ hơn.",
+
+          "step2_breakdown": {
+            "title": "Step 2: Break into building blocks",
+            "components": {
+              "subject": "Nhiều người",
+              "verb": "thích",
+              "object1": "làm việc tự do",
+              "comparison": "hơn là làm công ăn lương",
+              "reason": "vì họ muốn tự chủ hơn"
+            },
+            "keyVocabulary": [
+              {"vi": "làm việc tự do", "en": "freelancing / working as a freelancer", "note": ""},
+              {"vi": "làm công ăn lương", "en": "working for a company / being an employee", "note": ""},
+              {"vi": "hơn là", "en": "rather than / more than", "note": "comparison"},
+              {"vi": "tự chủ", "en": "independent / autonomy", "note": ""}
+            ]
+          },
+
+          "step3_structure": {
+            "title": "Step 3: Choose structure",
+            "formula": "S + prefer + V-ing/N + to + V-ing/N + because + S + V + adj",
+            "explanation": "'prefer A to B' = thích A hơn B. Both can be V-ing or noun. 'because' = vì.",
+            "pluggedIn": "Many people + prefer + freelancing + to + being an employee + because + they want more independence"
+          },
+
+          "step4_finalAnswer": {
+            "title": "Step 4: Final answer",
+            "basic": "Many people prefer freelancing to being an employee because they want more independence.",
+            "enriched": "Many people nowadays prefer freelancing to working for a company because they want greater independence and control over their work schedule.",
+            "enrichmentTips": [
+              "Add time marker: 'nowadays'",
+              "Use 'working for a company' (clearer than 'being an employee')",
+              "Use 'greater independence' (stronger than 'more independence')",
+              "Add specific benefit: 'and control over their work schedule'"
+            ]
+          },
+
+          "practicePrompts": [
+            "Nhiều người thích khởi nghiệp hơn là làm cho người khác vì họ muốn tự làm chủ.",
+            "Nhiều nhân viên thích làm việc từ xa hơn là đến văn phòng vì họ muốn tiết kiệm thời gian.",
+            "Nhiều người thích công việc sáng tạo hơn là công việc hành chính vì họ muốn phát triển bản thân.",
+            "Nhiều ứng viên thích công ty nhỏ hơn là tập đoàn lớn vì họ muốn được tham gia nhiều dự án.",
+            "Nhiều bạn trẻ thích đi du học hơn là học trong nước vì họ muốn mở rộng tầm nhìn."
+          ]
+        }
+      ]
+    }
+  ]
+}

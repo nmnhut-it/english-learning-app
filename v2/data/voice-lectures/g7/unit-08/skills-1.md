@@ -4,7 +4,7 @@
 
 <!-- chunk: intro -->
 <teacher_script pause="0">
-Chào các em. Qua bài <eng>Skills 1</eng>. Hôm nay mình luyện tập kỹ năng Đọc và Nói về bộ phim Harry Potter. Mở sách trang 88 nha.
+Chào các em. Mời các em mở sách giáo khoa trang 88. Hôm nay chúng ta qua bài <eng>Skills 1</eng>. Bài học này sẽ giúp các em luyện tập kỹ năng Đọc và Nói về bộ phim Harry Potter.
 </teacher_script>
 
 ---
@@ -26,7 +26,7 @@ Chào các em. Qua bài <eng>Skills 1</eng>. Hôm nay mình luyện tập kỹ n
 ### Bài 2 trang 88 - Match words with meanings
 
 <teacher_script pause="60">
-Bài 2 đọc blog của Mark về phim Harry Potter và nối từ với nghĩa. 1 phút nha.
+Chúng ta cùng làm Bài 2 <eng>Match words with meanings</eng>. Các em hãy đọc blog của Mark về phim Harry Potter và nối các từ với nghĩa thích hợp. Các em có 1 phút.
 </teacher_script>
 
 <task>
@@ -52,7 +52,7 @@ d. a man who has magical powers
 
 <!-- chunk: answer_2 -->
 <teacher_script pause="0">
-Đáp án nè.
+Đã hết thời gian. Sau đây là đáp án đúng.
 </teacher_script>
 
 <answer>
@@ -68,14 +68,14 @@ d. a man who has magical powers
 </explanation>
 
 <teacher_script pause="30">
-Sửa bài nếu sai nha.
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
 
 <!-- chunk: reading_text -->
 <teacher_script pause="0">
-Bây giờ chúng ta cùng đọc bài về phim Harry Potter nha.
+Bây giờ chúng ta cùng đọc bài về phim Harry Potter nhé.
 </teacher_script>
 
 <reading>
@@ -99,7 +99,7 @@ Although Harry Potter and the Sorcerer's Stone is a little **frightening** at ti
 ### Bài 3 trang 88 - Answer questions
 
 <teacher_script pause="120">
-Bài 3 trả lời câu hỏi dựa vào bài đọc. 2 phút nha.
+Chúng ta cùng làm Bài 3 <eng>Answer questions</eng>. Các em hãy đọc lại bài blog và trả lời các câu hỏi bên dưới. Các em có 2 phút.
 </teacher_script>
 
 <task>
@@ -123,7 +123,7 @@ Bài 3 trả lời câu hỏi dựa vào bài đọc. 2 phút nha.
 </answer>
 
 <teacher_script pause="60">
-Các em kiểm tra câu trả lời của mình nhé.
+Các em hãy so sánh và kiểm tra lại câu trả lời của mình nhé.
 </teacher_script>
 
 ---
@@ -132,7 +132,7 @@ Các em kiểm tra câu trả lời của mình nhé.
 ### Bài 4 trang 88 - Kungfu Boy
 
 <teacher_script pause="0">
-Bài 4 phần Nói. Hỏi và trả lời về phim *Kungfu Boy*. Dựa vào bảng thông tin nhé.
+Chúng ta cùng làm Bài 4 <eng>Speaking</eng>. Các em hãy hỏi và trả lời về bộ phim <eng>Kungfu Boy</eng> dựa trên bảng thông tin được cung cấp.
 </teacher_script>
 
 <task>
@@ -158,12 +158,12 @@ Bài 4 phần Nói. Hỏi và trả lời về phim *Kungfu Boy*. Dựa vào b�
 </dialogue>
 
 <teacher_script pause="0" action="record">
-Em hãy đóng vai và giới thiệu về bộ phim Kungfu Boy dựa trên các thông tin trên. Ghi âm và gửi cho thầy.
+Các em hãy đóng vai và giới thiệu về bộ phim <eng>Kungfu Boy</eng> dựa trên các thông tin đã học. Hãy ghi âm và gửi cho thầy nhé.
 </teacher_script>
 
 ---
 
 <!-- chunk: end -->
 <teacher_script pause="0">
-Xong bài <eng>Skills 1</eng>. Các em nhớ từ vựng về phim ảnh và cách hỏi thông tin về một bộ phim nhé. Tạm biệt!
+Bài học hôm nay kết thúc tại đây. Các em hãy ghi nhớ các từ vựng về phim ảnh và cách hỏi thông tin về một bộ phim nhé. Tạm biệt các em!
 </teacher_script>

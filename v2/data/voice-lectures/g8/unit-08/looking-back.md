@@ -4,7 +4,7 @@
 
 <!-- chunk: intro -->
 <teacher_script pause="0">
-Chào các em. Bài cuối cùng của Unit 8: <eng>Looking Back</eng>. Mình sẽ ôn tập từ vựng và ngữ pháp nhé.
+Chào các em. Hôm nay chúng ta sẽ ôn tập lại kiến thức đã học.
 </teacher_script>
 
 ---
@@ -13,7 +13,7 @@ Chào các em. Bài cuối cùng của Unit 8: <eng>Looking Back</eng>. Mình s�
 ### Bài 1 trang 90 - Match meanings
 
 <teacher_script pause="60">
-Bài 1 nối từ với nghĩa của nó. 1 phút nha.
+Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
 <task>
@@ -46,7 +46,7 @@ e. Great number of goods.
 </explanation>
 
 <teacher_script pause="30">
-Sửa bài vào nha.
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
@@ -55,7 +55,7 @@ Sửa bài vào nha.
 ### Bài 2 trang 90 - Fill blanks
 
 <teacher_script pause="60">
-Bài 2 điền từ vào chỗ trống. 1 phút nha.
+Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
 <questions type="fill_blanks">
@@ -78,7 +78,7 @@ Bài 2 điền từ vào chỗ trống. 1 phút nha.
 </answer>
 
 <teacher_script pause="30">
-Sửa bài nhanh nha.
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
@@ -87,7 +87,7 @@ Sửa bài nhanh nha.
 ### Bài 3 trang 90 - Adverbs of frequency
 
 <teacher_script pause="60">
-Bài 3 điền trạng từ chỉ tần suất phù hợp.
+Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
 <questions type="fill_blanks">
@@ -113,7 +113,7 @@ Bài 3 điền trạng từ chỉ tần suất phù hợp.
 ### Bài 4 trang 90 - Correct tense
 
 <teacher_script pause="60">
-Bài 4 chia động từ (chú ý thì hiện tại đơn cho lịch trình tương lai).
+Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
 <questions type="fill_blanks">
@@ -141,5 +141,5 @@ Sửa bài vào nha. Tất cả đều dùng thì hiện tại đơn (hoặc mod
 
 <!-- chunk: end -->
 <teacher_script pause="0">
-Chúc mừng các em đã hoàn thành Unit 8 <eng>Shopping</eng>. Hãy ôn tập lại từ vựng và ngữ pháp chuẩn bị cho bài kiểm tra nhé. Tạm biệt!
+Bài học hôm nay kết thúc tại đây. Các em nhớ ôn bài và chuẩn bị cho bài học tiếp theo. Tạm biệt các em.
 </teacher_script>

@@ -4,7 +4,7 @@
 
 <!-- chunk: intro -->
 <teacher_script pause="0">
-Chào các em. Qua bài <eng>Skills 1</eng>. Hôm nay mình đọc về hai loại hình du lịch phổ biến: Tour trọn gói và Du lịch tự túc. Mở sách trang 26 nha.
+Chào các em. Chào mừng các em đến với bài học hôm nay. Mời các em mở sách giáo khoa.
 </teacher_script>
 
 ---
@@ -21,7 +21,7 @@ Chào các em. Qua bài <eng>Skills 1</eng>. Hôm nay mình đọc về hai lo�
 </vocabulary>
 
 <teacher_script pause="0">
-Các em nghe và lặp lại từ vựng.
+Chúng ta cùng học từ vựng mới. Các em hãy nghe và lặp lại theo mẫu nhé.
 </teacher_script>
 
 ---
@@ -30,7 +30,7 @@ Các em nghe và lặp lại từ vựng.
 ### Bài 2 trang 26 - Reading Match
 
 <teacher_script pause="120">
-Bài 2 đọc đoạn văn và nối từ với định nghĩa của nó. 2 phút nha.
+Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
 <reading>
@@ -67,7 +67,7 @@ d. look for
 ### Bài 3 trang 26 - Answer questions
 
 <teacher_script pause="120">
-Bài 3 đọc lại và trả lời câu hỏi. 2 phút nha.
+Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
 <questions type="open_ended">
@@ -88,7 +88,7 @@ Bài 3 đọc lại và trả lời câu hỏi. 2 phút nha.
 </answer>
 
 <teacher_script pause="30">
-Sửa bài vào nha.
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
@@ -97,7 +97,7 @@ Sửa bài vào nha.
 ### Bài 4 trang 26 - Interview partner
 
 <teacher_script pause="0">
-Bài 4 phỏng vấn bạn về chuyến đi gần đây.
+Bây giờ là phần thực hành nói. Các em hãy luyện tập theo cặp hoặc theo nhóm nhé.
 </teacher_script>
 
 <dialogue>
@@ -110,12 +110,12 @@ Bài 4 phỏng vấn bạn về chuyến đi gần đây.
 </dialogue>
 
 <teacher_script pause="0" action="record">
-Em hãy kể lại ngắn gọn về chuyến đi của bạn mình (hoặc của chính em).
+Các em hãy ghi âm phần luyện tập của mình và gửi cho thầy nhé.
 </teacher_script>
 
 ---
 
 <!-- chunk: end -->
 <teacher_script pause="0">
-Xong bài <eng>Skills 1</eng>. Các em nhớ lợi ích của hai loại hình du lịch này nhé. Tạm biệt!
+Bài học hôm nay kết thúc tại đây. Các em nhớ ôn bài và chuẩn bị cho bài học tiếp theo. Tạm biệt các em.
 </teacher_script>

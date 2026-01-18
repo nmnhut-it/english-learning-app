@@ -1,0 +1,434 @@
+{
+  "unitId": "g6-unit-9-cities-of-the-world",
+  "title": "Unit 9: Cities of the World - Superlatives & Present Perfect",
+  "studentName": "Tran Gia Hung",
+  "grade": 6,
+  "grammarTopics": [
+    "Superlative Adjectives",
+    "Present Perfect (have been to)",
+    "Cities Vocabulary"
+  ],
+  "theory": {
+    "brief": "So sánh nhất (Superlative) dùng để so sánh một người/vật với tất cả những người/vật khác. Tính từ ngắn: the + adj-est. Tính từ dài: the most + adj. Present Perfect với 'have been to' diễn tả kinh nghiệm đã từng đến nơi nào đó. Cấu trúc: S + have/has + been to + địa điểm.",
+    "examples": [
+      "Tokyo is the biggest city in Japan. (Tokyo là thành phố lớn nhất ở Nhật Bản.)",
+      "This is the most beautiful place I've ever seen. (Đây là nơi đẹp nhất tôi từng thấy.)",
+      "I have been to Paris twice. (Tôi đã từng đến Paris hai lần.)",
+      "She has never been to London. (Cô ấy chưa bao giờ đến London.)"
+    ]
+  },
+  "exercises": [
+    {
+      "id": "g6u9-ex1",
+      "type": "fill-blank",
+      "question": "Tokyo is _______ (big) city in Japan.",
+      "wordHint": "(big)",
+      "answer": "the biggest",
+      "acceptedAnswers": [
+        "the biggest"
+      ],
+      "hints": [
+        "Tính từ ngắn: the + adj-est"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u9-ex2",
+      "type": "fill-blank",
+      "question": "This is _______ (beautiful) beach in the world.",
+      "wordHint": "(beautiful)",
+      "answer": "the most beautiful",
+      "acceptedAnswers": [
+        "the most beautiful"
+      ],
+      "hints": [
+        "Tính từ dài: the most + adj"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u9-ex3",
+      "type": "fill-blank",
+      "question": "Mount Everest is _______ (high) mountain in the world.",
+      "wordHint": "(high)",
+      "answer": "the highest",
+      "acceptedAnswers": [
+        "the highest"
+      ],
+      "hints": [
+        "Tính từ ngắn + -est"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u9-ex4",
+      "type": "fill-blank",
+      "question": "Paris is _______ (famous) city in France.",
+      "wordHint": "(famous)",
+      "answer": "the most famous",
+      "acceptedAnswers": [
+        "the most famous"
+      ],
+      "hints": [
+        "Tính từ dài: the most + famous"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u9-ex5",
+      "type": "fill-blank",
+      "question": "This is _______ (old) building in the city.",
+      "wordHint": "(old)",
+      "answer": "the oldest",
+      "acceptedAnswers": [
+        "the oldest"
+      ],
+      "hints": [
+        "Tính từ ngắn: old → the oldest"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u9-ex6",
+      "type": "fill-blank",
+      "question": "London is _______ (expensive) city in Europe.",
+      "wordHint": "(expensive)",
+      "answer": "the most expensive",
+      "acceptedAnswers": [
+        "the most expensive"
+      ],
+      "hints": [
+        "Tính từ dài"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u9-ex7",
+      "type": "fill-blank",
+      "question": "She is _______ (good) student in the class.",
+      "wordHint": "(good)",
+      "answer": "the best",
+      "acceptedAnswers": [
+        "the best"
+      ],
+      "hints": [
+        "Bất quy tắc: good → the best"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u9-ex8",
+      "type": "fill-blank",
+      "question": "This is _______ (bad) movie I've ever seen.",
+      "wordHint": "(bad)",
+      "answer": "the worst",
+      "acceptedAnswers": [
+        "the worst"
+      ],
+      "hints": [
+        "Bất quy tắc: bad → the worst"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u9-ex9",
+      "type": "fill-blank",
+      "question": "I _______ (be) to Paris twice.",
+      "wordHint": "have/has been",
+      "answer": "have been",
+      "acceptedAnswers": [
+        "have been"
+      ],
+      "hints": [
+        "Present Perfect: have been to"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u9-ex10",
+      "type": "fill-blank",
+      "question": "She _______ (be) to London before.",
+      "wordHint": "have/has been",
+      "answer": "has been",
+      "acceptedAnswers": [
+        "has been"
+      ],
+      "hints": [
+        "'She' → has been"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u9-ex11",
+      "type": "fill-blank",
+      "question": "We _______ never _______ (be) to Australia.",
+      "wordHint": "have/has/been",
+      "answer": "have been",
+      "acceptedAnswers": [
+        "have been"
+      ],
+      "hints": [
+        "'We' → have been"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u9-ex12",
+      "type": "fill-blank",
+      "question": "_______ you ever _______ (be) to Japan?",
+      "wordHint": "Have/been",
+      "answer": "Have been",
+      "acceptedAnswers": [
+        "Have been",
+        "Have you been"
+      ],
+      "hints": [
+        "Câu hỏi: Have + S + been to?"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u9-ex13",
+      "type": "fill-blank",
+      "question": "He _______ (visit) many countries.",
+      "wordHint": "have/has visited",
+      "answer": "has visited",
+      "acceptedAnswers": [
+        "has visited"
+      ],
+      "hints": [
+        "'He' → has + V3"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u9-ex14",
+      "type": "fill-blank",
+      "question": "They _______ (see) the Eiffel Tower.",
+      "wordHint": "have/has seen",
+      "answer": "have seen",
+      "acceptedAnswers": [
+        "have seen"
+      ],
+      "hints": [
+        "'They' → have + V3"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u9-ex15",
+      "type": "fill-blank",
+      "question": "I _______ never _______ (eat) sushi.",
+      "wordHint": "have/eaten",
+      "answer": "have eaten",
+      "acceptedAnswers": [
+        "have eaten"
+      ],
+      "hints": [
+        "Present Perfect: have + V3"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u9-ex16",
+      "type": "multiple-choice",
+      "question": "What is _______ river in the world?",
+      "options": [
+        "the longest",
+        "longest",
+        "the most long",
+        "more long"
+      ],
+      "correctIndex": 0,
+      "explanation": "So sánh nhất: the + adj-est",
+      "hints": [
+        "Tính từ ngắn"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u9-ex17",
+      "type": "multiple-choice",
+      "question": "This is _______ interesting book I've read.",
+      "options": [
+        "the most",
+        "the more",
+        "most",
+        "more"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tính từ dài: the most + adj",
+      "hints": [
+        "Tính từ dài"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u9-ex18",
+      "type": "multiple-choice",
+      "question": "She _______ to New York three times.",
+      "options": [
+        "has been",
+        "have been",
+        "was",
+        "is"
+      ],
+      "correctIndex": 0,
+      "explanation": "'She' → has been to",
+      "hints": [
+        "Present Perfect với 'she'"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u9-ex19",
+      "type": "multiple-choice",
+      "question": "Have you _______ visited Ha Long Bay?",
+      "options": [
+        "ever",
+        "never",
+        "already",
+        "yet"
+      ],
+      "correctIndex": 0,
+      "explanation": "'ever' dùng trong câu hỏi Present Perfect",
+      "hints": [
+        "Câu hỏi về kinh nghiệm"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u9-ex20",
+      "type": "multiple-choice",
+      "question": "This is _______ city in Vietnam.",
+      "options": [
+        "the crowdedest",
+        "the most crowded",
+        "most crowded",
+        "crowdedest"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tính từ dài: the most + crowded",
+      "hints": [
+        "'crowded' là tính từ dài"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u9-ex21",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "Tokyo is the biggest city in Japan.",
+        "Tokyo is the biggest city in Japan"
+      ],
+      "hints": [
+        "Cấu trúc: S + is + the + adj-est + N"
+      ],
+      "points": 15,
+      "correctSentence": "Tokyo is the biggest city in Japan.",
+      "words": [
+        "Tokyo",
+        "biggest",
+        "is",
+        "city",
+        "the",
+        "Japan",
+        "in"
+      ]
+    },
+    {
+      "id": "g6u9-ex22",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "This is the most beautiful place in the world.",
+        "This is the most beautiful place in the world"
+      ],
+      "hints": [
+        "the most + adj + N"
+      ],
+      "points": 15,
+      "correctSentence": "This is the most beautiful place in the world.",
+      "words": [
+        "most",
+        "this",
+        "beautiful",
+        "the",
+        "is",
+        "place",
+        "world",
+        "in",
+        "the"
+      ]
+    },
+    {
+      "id": "g6u9-ex23",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "I have been to Paris twice.",
+        "I have been to Paris twice"
+      ],
+      "hints": [
+        "Present Perfect: have been to"
+      ],
+      "points": 15,
+      "correctSentence": "I have been to Paris twice.",
+      "words": [
+        "been",
+        "I",
+        "to",
+        "have",
+        "Paris",
+        "twice"
+      ]
+    },
+    {
+      "id": "g6u9-ex24",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "She has never been to London.",
+        "She has never been to London"
+      ],
+      "hints": [
+        "S + has + never + been to"
+      ],
+      "points": 15,
+      "correctSentence": "She has never been to London.",
+      "words": [
+        "never",
+        "she",
+        "been",
+        "has",
+        "to",
+        "London"
+      ]
+    },
+    {
+      "id": "g6u9-ex25",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "She is the best student in the class.",
+        "She is the best student in the class"
+      ],
+      "hints": [
+        "Bất quy tắc: good → the best"
+      ],
+      "points": 15,
+      "correctSentence": "She is the best student in the class.",
+      "words": [
+        "best",
+        "is",
+        "she",
+        "student",
+        "the",
+        "class",
+        "the",
+        "in"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,436 @@
+{
+  "unitId": "g6-unit-7-television",
+  "title": "Unit 7: Television - Question Words & Conjunctions",
+  "studentName": "Tran Gia Hung",
+  "grade": 6,
+  "grammarTopics": [
+    "Question Words (Wh-questions)",
+    "Conjunctions (and, but, or, so)",
+    "Television Vocabulary"
+  ],
+  "theory": {
+    "brief": "Từ để hỏi (Wh-words): What (cái gì), Where (ở đâu), When (khi nào), Who (ai), Why (tại sao), How (như thế nào), How often (bao lâu một lần), How many (bao nhiêu - đếm được). Liên từ: and (và), but (nhưng), or (hoặc), so (vì vậy) dùng để nối câu.",
+    "examples": [
+      "What do you like? (Bạn thích cái gì?)",
+      "Where is the TV? (Cái TV ở đâu?)",
+      "I like cartoons, and my sister likes them too. (Tôi thích phim hoạt hình, và chị tôi cũng thích.)",
+      "I'm tired, so I'll go to bed. (Tôi mệt, vì vậy tôi sẽ đi ngủ.)",
+      "The film is good, but it's too long. (Phim hay, nhưng nó quá dài.)"
+    ]
+  },
+  "exercises": [
+    {
+      "id": "g6u7-ex1",
+      "type": "fill-blank",
+      "question": "_______ do you watch TV? - Every day.",
+      "wordHint": "bao lâu một lần",
+      "answer": "How often",
+      "acceptedAnswers": [
+        "How often"
+      ],
+      "hints": [
+        "'How often' hỏi về tần suất"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u7-ex2",
+      "type": "fill-blank",
+      "question": "_______ is your favourite programme? - It's cartoons.",
+      "wordHint": "cái gì",
+      "answer": "What",
+      "acceptedAnswers": [
+        "What"
+      ],
+      "hints": [
+        "'What' hỏi về sự vật"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u7-ex3",
+      "type": "fill-blank",
+      "question": "_______ do you like watching TV? - Because it's fun.",
+      "wordHint": "tại sao",
+      "answer": "Why",
+      "acceptedAnswers": [
+        "Why"
+      ],
+      "hints": [
+        "'Why' hỏi về lý do"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u7-ex4",
+      "type": "fill-blank",
+      "question": "_______ is the remote control? - On the table.",
+      "wordHint": "ở đâu",
+      "answer": "Where",
+      "acceptedAnswers": [
+        "Where"
+      ],
+      "hints": [
+        "'Where' hỏi về địa điểm"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u7-ex5",
+      "type": "fill-blank",
+      "question": "_______ does the show start? - At 7 PM.",
+      "wordHint": "khi nào",
+      "answer": "When",
+      "acceptedAnswers": [
+        "When"
+      ],
+      "hints": [
+        "'When' hỏi về thời gian"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u7-ex6",
+      "type": "fill-blank",
+      "question": "_______ is your favourite MC? - Mr. Bean.",
+      "wordHint": "ai",
+      "answer": "Who",
+      "acceptedAnswers": [
+        "Who"
+      ],
+      "hints": [
+        "'Who' hỏi về người"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u7-ex7",
+      "type": "fill-blank",
+      "question": "_______ channels are there? - More than 100.",
+      "wordHint": "bao nhiêu",
+      "answer": "How many",
+      "acceptedAnswers": [
+        "How many"
+      ],
+      "hints": [
+        "'How many' hỏi về số lượng"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u7-ex8",
+      "type": "fill-blank",
+      "question": "I like sports, _______ my brother likes cartoons.",
+      "wordHint": "and/but/or/so",
+      "answer": "and",
+      "acceptedAnswers": [
+        "and",
+        "but"
+      ],
+      "hints": [
+        "Dùng 'and' để thêm thông tin, hoặc 'but' để diễn tả sự tương phản"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u7-ex9",
+      "type": "fill-blank",
+      "question": "The film is good, _______ it's too long.",
+      "wordHint": "and/but/or/so",
+      "answer": "but",
+      "acceptedAnswers": [
+        "but"
+      ],
+      "hints": [
+        "'but' = nhưng (đối lập)"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u7-ex10",
+      "type": "fill-blank",
+      "question": "I'm tired, _______ I'll go to bed early.",
+      "wordHint": "and/but/or/so",
+      "answer": "so",
+      "acceptedAnswers": [
+        "so"
+      ],
+      "hints": [
+        "'so' = vì vậy (kết quả)"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u7-ex11",
+      "type": "fill-blank",
+      "question": "Do you want tea _______ coffee?",
+      "wordHint": "and/but/or/so",
+      "answer": "or",
+      "acceptedAnswers": [
+        "or"
+      ],
+      "hints": [
+        "'or' = hoặc (lựa chọn)"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u7-ex12",
+      "type": "fill-blank",
+      "question": "We trained hard, _______ we won the game.",
+      "wordHint": "and/but/or/so",
+      "answer": "so",
+      "acceptedAnswers": [
+        "so"
+      ],
+      "hints": [
+        "Kết quả của việc tập luyện"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u7-ex13",
+      "type": "fill-blank",
+      "question": "She can sing _______ she can't dance.",
+      "wordHint": "and/but/or/so",
+      "answer": "but",
+      "acceptedAnswers": [
+        "but"
+      ],
+      "hints": [
+        "Hai khả năng đối lập"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u7-ex14",
+      "type": "fill-blank",
+      "question": "I like reading _______ watching TV.",
+      "wordHint": "and/but/or/so",
+      "answer": "and",
+      "acceptedAnswers": [
+        "and"
+      ],
+      "hints": [
+        "Hai sở thích cùng loại"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u7-ex15",
+      "type": "fill-blank",
+      "question": "Study hard, _______ you will fail.",
+      "wordHint": "and/but/or/so",
+      "answer": "or",
+      "acceptedAnswers": [
+        "or"
+      ],
+      "hints": [
+        "'or' = nếu không thì (cảnh báo)"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u7-ex16",
+      "type": "multiple-choice",
+      "question": "_______ do you go to school? - By bike.",
+      "options": [
+        "How",
+        "What",
+        "Where",
+        "When"
+      ],
+      "correctIndex": 0,
+      "explanation": "'How' hỏi về phương thức",
+      "hints": [
+        "Hỏi về phương tiện"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u7-ex17",
+      "type": "multiple-choice",
+      "question": "_______ is the weather today? - It's sunny.",
+      "options": [
+        "How",
+        "What",
+        "Where",
+        "Who"
+      ],
+      "correctIndex": 0,
+      "explanation": "'How' hỏi về tình trạng",
+      "hints": [
+        "Hỏi về tình trạng thời tiết"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u7-ex18",
+      "type": "multiple-choice",
+      "question": "I love music, _______ I play the guitar every day.",
+      "options": [
+        "and",
+        "but",
+        "or",
+        "so"
+      ],
+      "correctIndex": 3,
+      "explanation": "'so' diễn tả kết quả",
+      "hints": [
+        "Kết quả của việc yêu âm nhạc"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u7-ex19",
+      "type": "multiple-choice",
+      "question": "The programme is interesting, _______ the sound is bad.",
+      "options": [
+        "and",
+        "but",
+        "or",
+        "so"
+      ],
+      "correctIndex": 1,
+      "explanation": "'but' diễn tả sự đối lập",
+      "hints": [
+        "Hai điều đối lập nhau"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u7-ex20",
+      "type": "multiple-choice",
+      "question": "Would you like orange juice _______ apple juice?",
+      "options": [
+        "and",
+        "but",
+        "or",
+        "so"
+      ],
+      "correctIndex": 2,
+      "explanation": "'or' dùng để lựa chọn",
+      "hints": [
+        "Lựa chọn giữa hai thứ"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u7-ex21",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "What is your favourite programme?",
+        "What is your favourite programme"
+      ],
+      "hints": [
+        "Cấu trúc: What + is + N?"
+      ],
+      "points": 15,
+      "correctSentence": "What is your favourite programme?",
+      "words": [
+        "what",
+        "your",
+        "is",
+        "programme",
+        "favourite"
+      ]
+    },
+    {
+      "id": "g6u7-ex22",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "How often do you watch TV?",
+        "How often do you watch TV"
+      ],
+      "hints": [
+        "Cấu trúc: How often + do + S + V?"
+      ],
+      "points": 15,
+      "correctSentence": "How often do you watch TV?",
+      "words": [
+        "often",
+        "how",
+        "you",
+        "watch",
+        "do",
+        "TV"
+      ]
+    },
+    {
+      "id": "g6u7-ex23",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "I like sports and my brother likes cartoons.",
+        "I like sports and my brother likes cartoons"
+      ],
+      "hints": [
+        "Dùng 'and' để nối hai câu"
+      ],
+      "points": 15,
+      "correctSentence": "I like sports and my brother likes cartoons.",
+      "words": [
+        "like",
+        "I",
+        "sports",
+        "and",
+        "brother",
+        "my",
+        "cartoons",
+        "likes"
+      ]
+    },
+    {
+      "id": "g6u7-ex24",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "I'm tired, so I'll go to bed early.",
+        "I'm tired, so I'll go to bed early",
+        "I'm tired so I'll go to bed early"
+      ],
+      "hints": [
+        "Dùng 'so' để chỉ kết quả"
+      ],
+      "points": 15,
+      "correctSentence": "I'm tired, so I'll go to bed early.",
+      "words": [
+        "tired",
+        "I'm",
+        "so",
+        "early",
+        "bed",
+        "to",
+        "I'll",
+        "go"
+      ]
+    },
+    {
+      "id": "g6u7-ex25",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "The film is good, but it's too long.",
+        "The film is good, but it's too long",
+        "The film is good but it's too long"
+      ],
+      "hints": [
+        "Dùng 'but' để chỉ sự đối lập"
+      ],
+      "points": 15,
+      "correctSentence": "The film is good, but it's too long.",
+      "words": [
+        "good",
+        "is",
+        "film",
+        "the",
+        "but",
+        "long",
+        "too",
+        "it's"
+      ]
+    }
+  ]
+}

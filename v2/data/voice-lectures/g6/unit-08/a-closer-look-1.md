@@ -4,11 +4,11 @@
 
 <!-- chunk: intro -->
 <teacher_script pause="0">
-Các em mở sách trang 18 nha. Bài <eng>A Closer Look 1</eng> - học thêm từ vựng về dụng cụ thể thao và phát âm.
+Chào các em. Mời các em mở sách giáo khoa trang 18. Bài học hôm nay là <eng>A Closer Look 1</eng>, chúng ta sẽ học thêm từ vựng về dụng cụ thể thao và cách phát âm.
 </teacher_script>
 
 <teacher_script pause="0">
-Bấm nút "Bắt đầu" để học từ vựng.
+Các em hãy bấm nút "Bắt đầu" để học từ vựng mới nhé.
 </teacher_script>
 
 ---
@@ -36,11 +36,11 @@ Bấm nút "Bắt đầu" để học từ vựng.
 
 <!-- chunk: record_vocabulary -->
 <teacher_script pause="0" action="record">
-Bấm nút Ghi âm để đọc lại từ vựng và gửi cho thầy sửa.
+Các em hãy bấm nút Ghi âm để đọc lại từ vựng và gửi cho thầy sửa nhé.
 </teacher_script>
 
 <teacher_script pause="0">
-Record xong thì bấm tiếp tục qua bài tập nha.
+Sau khi ghi âm xong, các em hãy bấm tiếp tục để chuyển sang phần bài tập.
 </teacher_script>
 
 ---
@@ -49,7 +49,7 @@ Record xong thì bấm tiếp tục qua bài tập nha.
 ### Bài 1 trang 18 - Write the right words under the pictures
 
 <teacher_script pause="45">
-Bài 1 <eng>Write the right words under the pictures</eng>. Viết từ đúng dưới mỗi tranh. Nhìn tranh các dụng cụ thể thao rồi chọn từ trong khung. 45 giây nha.
+Chúng ta cùng làm Bài 1 <eng>Write the right words under the pictures</eng>. Các em hãy viết từ đúng dưới mỗi tranh. Nhìn tranh các dụng cụ thể thao rồi chọn từ trong khung. Các em có 45 giây.
 </teacher_script>
 
 <task>
@@ -74,7 +74,7 @@ Bài 1 <eng>Write the right words under the pictures</eng>. Viết từ đúng d
 
 <!-- chunk: answer_1 -->
 <teacher_script pause="0">
-Đáp án nè.
+Sau đây là đáp án đúng.
 </teacher_script>
 
 <answer>
@@ -94,11 +94,11 @@ Bài 1 <eng>Write the right words under the pictures</eng>. Viết từ đúng d
 </explanation>
 
 <teacher_script pause="0">
-Chú ý: <eng>goggles</eng> luôn ở dạng số nhiều vì kính có 2 mắt. Tương tự như <eng>glasses</eng> - kính mắt.
+Các em chú ý: <eng>goggles</eng> luôn ở dạng số nhiều vì kính có 2 mắt, tương tự như <eng>glasses</eng> - kính mắt.
 </teacher_script>
 
 <teacher_script pause="30">
-Sửa bài nếu sai. 30 giây nha.
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
@@ -107,7 +107,7 @@ Sửa bài nếu sai. 30 giây nha.
 ### Bài 2 trang 18 - Match things with sports
 
 <teacher_script pause="45">
-Bài 2 <eng>Match each thing with a sport</eng>. Nối dụng cụ ở cột A với môn thể thao ở cột B. 45 giây nha.
+Chúng ta cùng làm Bài 2 <eng>Match each thing with a sport</eng>. Các em hãy nối dụng cụ ở cột A với môn thể thao tương ứng ở cột B. Các em có 45 giây.
 </teacher_script>
 
 <task>
@@ -130,7 +130,7 @@ Bài 2 <eng>Match each thing with a sport</eng>. Nối dụng cụ ở cột A v
 
 <!-- chunk: answer_2 -->
 <teacher_script pause="0">
-Thầy sửa bài nha.
+Đã hết thời gian. Sau đây là đáp án gợi ý.
 </teacher_script>
 
 <answer>
@@ -155,7 +155,7 @@ Thầy sửa bài nha.
 </explanation>
 
 <teacher_script pause="30">
-Sửa bài nếu sai. 30 giây nha.
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
@@ -164,7 +164,7 @@ Sửa bài nếu sai. 30 giây nha.
 ### Bài 3 trang 18 - Fill in the blanks
 
 <teacher_script pause="60">
-Bài 3 <eng>Fill each blank with one of the words from the box</eng>. Điền từ trong khung vào chỗ trống. 1 phút nha.
+Chúng ta cùng làm Bài 3 <eng>Fill each blank with one of the words from the box</eng>. Các em hãy điền từ trong khung vào chỗ trống thích hợp. Các em có 1 phút.
 </teacher_script>
 
 <task>
@@ -201,7 +201,7 @@ Bài 3 <eng>Fill each blank with one of the words from the box</eng>. Điền t�
 
 <!-- chunk: answer_3 -->
 <teacher_script pause="0">
-Thầy sửa bài nha.
+Đã hết thời gian. Sau đây là đáp án gợi ý.
 </teacher_script>
 
 <answer>
@@ -226,15 +226,15 @@ Thầy sửa bài nha.
 </explanation>
 
 <teacher_script pause="0">
-Câu 5 hay nhầm lắm đó. <eng>Marathon</eng> là cuộc chạy đường dài 42km. Marathon đầu tiên trong Olympic diễn ra năm 1896 ở Athens, Hy Lạp.
+Câu 5 rất dễ nhầm lẫn. Các em nhớ nhé: <eng>Marathon</eng> là cuộc chạy đường dài 42km. Cuộc thi Marathon đầu tiên trong lịch sử Olympic diễn ra vào năm 1896 tại Athens, Hy Lạp.
 </teacher_script>
 
 <teacher_script pause="30">
-Sửa bài nếu sai. 30 giây nha.
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 <teacher_script pause="0" action="record">
-Nếu cần hỏi thì nhấn thu âm bên dưới nha.
+Nếu có thắc mắc, các em hãy nhấn nút thu âm bên dưới để hỏi thầy nhé.
 </teacher_script>
 
 ---
@@ -243,14 +243,14 @@ Nếu cần hỏi thì nhấn thu âm bên dưới nha.
 ### PRONUNCIATION - /e/ và /æ/
 
 <teacher_script pause="0">
-Giờ qua phần <eng>Pronunciation</eng> - phát âm. Hôm nay học phân biệt 2 âm: /e/ và /æ/. Hai âm này dễ nhầm lắm nha.
+Chúng ta cùng chuyển sang phần <eng>Pronunciation</eng> (Phát âm). Hôm nay chúng ta sẽ học cách phân biệt hai âm /e/ và /æ/. Hai âm này rất dễ gây nhầm lẫn.
 </teacher_script>
 
 ---
 
 <!-- chunk: pronunciation_theory -->
 <teacher_script pause="0">
-Đây là lý thuyết phát âm. Mấy đứa xem kỹ cách phát âm.
+Đây là phần lý thuyết phát âm. Các em hãy xem kỹ cách phát âm nhé.
 </teacher_script>
 
 <pronunciation_theory>
@@ -275,11 +275,11 @@ Giờ qua phần <eng>Pronunciation</eng> - phát âm. Hôm nay học phân bi�
 </pronunciation_theory>
 
 <teacher_script pause="0">
-Mẹo nhớ: /e/ miệng hẹp như chữ "e" hẹp. /æ/ miệng mở rộng như chữ "a" rộng. Đơn giản vậy thôi.
+Mẹo ghi nhớ: Âm /e/ miệng mở hẹp, phát âm ngắn gọn. Âm /æ/ miệng mở rộng, phát âm lai giữa a và e.
 </teacher_script>
 
 <teacher_script pause="60">
-Ghi lý thuyết vô tập. 1 phút nha.
+Các em hãy ghi chép lý thuyết vào vở. Các em có 1 phút.
 </teacher_script>
 
 ---
@@ -288,7 +288,7 @@ Ghi lý thuyết vô tập. 1 phút nha.
 ### Bài 4 trang 18 - Listen and repeat
 
 <teacher_script pause="0">
-Bài 4 <eng>Listen and repeat. Pay attention to the sounds /e/ and /æ/</eng>. Nghe và lặp lại, chú ý phân biệt 2 âm.
+Chúng ta cùng làm Bài 4 <eng>Listen and repeat</eng>. Các em hãy nghe và lặp lại, chú ý phân biệt hai âm /e/ và /æ/ nhé.
 </teacher_script>
 
 <task>
@@ -311,18 +311,18 @@ Bài 4 <eng>Listen and repeat. Pay attention to the sounds /e/ and /æ/</eng>. N
 </questions>
 
 <teacher_script pause="60">
-Nghe audio rồi đọc theo từng từ. 1 phút nha.
+Các em hãy nghe audio rồi đọc theo từng từ. Các em có 1 phút.
 </teacher_script>
 
 ---
 
 <!-- chunk: record_pronunciation -->
 <teacher_script pause="0" action="record">
-Bấm nút Ghi âm để đọc lại và gửi cho thầy sửa. Đọc cả 2 cột, thầy sẽ nghe và góp ý.
+Các em hãy bấm nút Ghi âm để đọc lại và gửi cho thầy sửa. Hãy đọc cả hai cột để thầy nghe và góp ý nhé.
 </teacher_script>
 
 <teacher_script pause="0">
-Record xong thì bấm tiếp tục qua bài 5 nha.
+Sau khi ghi âm xong, các em hãy bấm tiếp tục để chuyển sang bài 5.
 </teacher_script>
 
 ---
@@ -331,7 +331,7 @@ Record xong thì bấm tiếp tục qua bài 5 nha.
 ### Bài 5 trang 18 - Listen and underline
 
 <teacher_script pause="0">
-Bài 5 <eng>Listen and repeat. Underline the words having the sounds /e/ and /æ/</eng>. Nghe và gạch chân các từ có âm /e/ và /æ/.
+Chúng ta cùng làm Bài 5 <eng>Listen and underline</eng>. Các em hãy nghe và gạch chân dưới các từ có chứa âm /e/ và /æ/.
 </teacher_script>
 
 <task>
@@ -367,14 +367,14 @@ Bài 5 <eng>Listen and repeat. Underline the words having the sounds /e/ and /æ
 </questions>
 
 <teacher_script pause="60">
-Nghe audio rồi gạch chân từ có /e/ và /æ/. 1 phút nha.
+Các em hãy nghe audio và thực hiện yêu cầu. Các em có 1 phút.
 </teacher_script>
 
 ---
 
 <!-- chunk: answer_5 -->
 <teacher_script pause="0">
-Đáp án nè. Thầy liệt kê từng âm.
+Đây là đáp án. Thầy sẽ liệt kê từ ngữ chứa từng âm để các em dễ theo dõi.
 </teacher_script>
 
 <answer>
@@ -411,11 +411,11 @@ Nghe audio rồi gạch chân từ có /e/ và /æ/. 1 phút nha.
 </explanation>
 
 <teacher_script pause="0">
-Nhớ nha: Chữ "a" thường đọc là /æ/, chữ "e" thường đọc là /e/. Nhưng không phải lúc nào cũng vậy, cần học từng từ.
+Các em nhớ nhé: Chữ "a" thường được phát âm là /æ/, chữ "e" thường được phát âm là /e/. Tuy nhiên, cũng có nhiều trường hợp ngoại lệ nên các em cần học cách phát âm của từng từ nhé.
 </teacher_script>
 
 <teacher_script pause="30">
-Sửa bài nếu sai. 30 giây nha.
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
@@ -426,9 +426,9 @@ Ok hết <eng>A Closer Look 1</eng> rồi. Về nhà luyện phát âm /e/ và /
 </teacher_script>
 
 <teacher_script pause="0">
-Nhớ: /e/ miệng hẹp như "chess", /æ/ miệng rộng như "match". Đọc sai là người ta không hiểu đâu!
+Lưu ý: Âm /e/ miệng mở hẹp như trong từ "chess", âm /æ/ miệng mở rộng như trong từ "match". Phát âm sai sẽ dẫn đến hiểu nhầm đó.
 </teacher_script>
 
 <teacher_script pause="0">
-Bài sau qua <eng>A Closer Look 2</eng> - học Grammar về thì Quá khứ đơn. Quan trọng lắm nha! Hẹn gặp lại mấy đứa!
+Bài học hôm nay kết thúc tại đây. Bài học tiếp theo chúng ta sẽ học <eng>A Closer Look 2</eng> về thì Quá khứ đơn. Hẹn gặp lại các em!
 </teacher_script>

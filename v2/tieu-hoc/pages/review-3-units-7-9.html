@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Review 3: Units 7-9 | Grammar Friends</title>
+  <meta name="description" content="Review exercises for Units 7-9 covering First Conditional, Modal Verbs, Relative Pronouns">
+
+  <!-- Shared Styles -->
+  <link rel="stylesheet" href="../css/shared.css">
+</head>
+<body>
+  <!-- Game Header -->
+  <header class="game-header">
+    <div class="container">
+      <div class="game-header__container">
+        <div class="game-header__info-section">
+          <h1 class="game-header__title">Review 3: Units 7-9</h1>
+          <p class="game-header__subtitle">First Conditional, Modal Verbs, Relative Pronouns</p>
+
+          <div class="game-info">
+            <div class="game-info__item">
+              <span class="game-info__label">Giáo viên:</span>
+              <span class="game-info__value">Nguyễn Minh Nhựt</span>
+            </div>
+            <div class="game-info__item">
+              <span class="game-info__label">Học sinh:</span>
+              <span class="game-info__value" id="student-name-display"></span>
+            </div>
+          </div>
+        </div>
+
+        <div class="game-header__stats">
+          <div class="stat">
+            <span class="stat__label">Điểm</span>
+            <span class="stat__value stat__value--primary" id="current-score">⭐ 0</span>
+          </div>
+
+          <div class="stat">
+            <span class="stat__label">Tiến độ</span>
+            <span class="stat__value" id="progress-count">0 / 0</span>
+          </div>
+
+          <div class="stat" id="combo-display" style="display: none;">
+            <span class="stat__label">Combo</span>
+            <span class="stat__value" id="combo-count">0</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Progress Bar -->
+      <div class="progress">
+        <div class="progress__bar" id="progress-bar" style="width: 0%;"></div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Content -->
+  <main class="container">
+    <!-- Theory Panel (Collapsible) -->
+    <div class="theory-panel" id="theory-panel">
+      <button class="theory-panel__toggle" id="theory-toggle">
+        <span>📖 Tài liệu ngữ pháp</span>
+        <span class="theory-panel__icon" id="theory-icon">▼</span>
+      </button>
+
+      <div class="theory-panel__content" id="theory-content">
+        <div class="theory-panel__section">
+          <h3 class="theory-panel__heading">Grammar Points Covered</h3>
+          <ul>
+            <li><strong>Unit 7:</strong> First Conditional / If and When</li>
+            <li><strong>Unit 8:</strong> Modal Verbs (should, must, have to)</li>
+            <li><strong>Unit 9:</strong> Modal Verbs for Possibility (may, might, could)</li>
+          </ul>
+        </div>
+
+        <div class="theory-panel__section">
+          <h3 class="theory-panel__heading">First Conditional</h3>
+          <p>Form: If + present simple, will + V0</p>
+          <div class="theory-panel__example">
+            If it rains, we will stay at home.<br>
+            I'll call you if I need help.
+          </div>
+        </div>
+
+        <div class="theory-panel__section">
+          <h3 class="theory-panel__heading">Modal Verbs (Obligation)</h3>
+          <p>should, must, have to</p>
+          <div class="theory-panel__example">
+            You should study more.<br>
+            You must wear a seatbelt.<br>
+            I have to go to school.
+          </div>
+        </div>
+
+        <div class="theory-panel__section">
+          <h3 class="theory-panel__heading">Modal Verbs (Possibility)</h3>
+          <p>may, might, could</p>
+          <div class="theory-panel__example">
+            It might rain tomorrow.<br>
+            She could be at home.<br>
+            They may arrive late.
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Exercise Container -->
+    <div id="exercise-container">
+      <!-- Exercises will be rendered here dynamically -->
+      <div class="card text-center">
+        <h2>Đang tải...</h2>
+        <p>Vui lòng đợi trong khi chúng tôi tải bài tập.</p>
+      </div>
+    </div>
+  </main>
+
+  <!-- Core JavaScript (loaded first) -->
+  <script src="../js/core/utils.js"></script>
+  <script src="../js/core/storage.js"></script>
+  <script src="../js/core/student-name-manager.js"></script>
+  <script src="../js/core/telegram-sender.js"></script>
+  <script src="../js/core/game-engine.js"></script>
+
+  <!-- Exercise Type Handlers -->
+  <script src="../js/exercises/fill-blank.js"></script>
+  <script src="../js/exercises/fill-blank-table.js"></script>
+  <script src="../js/exercises/fill-blank-mixed.js"></script>
+  <script src="../js/exercises/multiple-choice.js"></script>
+  <script src="../js/exercises/word-rearrange.js"></script>
+  <script src="../js/exercises/sentence-build.js"></script>
+  <script src="../js/exercises/error-correct.js"></script>
+  <script src="../js/exercises/translation.js"></script>
+  <script src="../js/exercises/dialogue-complete.js"></script>
+  <script src="../js/exercises/open-ended.js"></script>
+
+  <!-- Initialize Game -->
+  <script>
+    const UNIT_ID = 'review-3-units-7-9';
+    const DATA_PATH = '../data/review-3-units-7-9.json';
+
+    // Initialize student name
+    if (typeof StudentNameManager !== 'undefined') {
+      StudentNameManager.init();
+    }
+
+    // Theory panel toggle
+    const theoryToggle = document.getElementById('theory-toggle');
+    const theoryContent = document.getElementById('theory-content');
+    const theoryIcon = document.getElementById('theory-icon');
+
+    theoryToggle.addEventListener('click', () => {
+      const isExpanded = theoryContent.classList.contains('theory-panel__content--expanded');
+
+      if (isExpanded) {
+        theoryContent.classList.remove('theory-panel__content--expanded');
+        theoryIcon.classList.remove('theory-panel__icon--rotated');
+      } else {
+        theoryContent.classList.add('theory-panel__content--expanded');
+        theoryIcon.classList.add('theory-panel__icon--rotated');
+      }
+    });
+
+    // Combo display logic
+    function updateComboDisplay() {
+      const comboDisplay = document.getElementById('combo-display');
+      const comboCount = document.getElementById('combo-count');
+      const state = GameEngine.getState();
+
+      if (state.comboCount >= 3) {
+        comboDisplay.style.display = 'flex';
+        comboCount.textContent = state.comboCount + 'x 🔥';
+      } else {
+        comboDisplay.style.display = 'none';
+      }
+    }
+
+    // Override GameEngine.updateUI to include combo display
+    const originalUpdateUI = GameEngine.updateUI.bind(GameEngine);
+    GameEngine.updateUI = function() {
+      originalUpdateUI();
+      updateComboDisplay();
+    };
+
+    // Load unit data and start game
+    async function loadAndStartGame() {
+      try {
+        const response = await fetch(DATA_PATH);
+
+        if (!response.ok) {
+          throw new Error(`Failed to load data: ${response.status}`);
+        }
+
+        const unitData = await response.json();
+
+        console.log('Unit data loaded:', unitData);
+        console.log('Registered exercise handlers:', Object.keys(GameEngine.exerciseHandlers));
+
+        GameEngine.init(unitData, UNIT_ID);
+
+      } catch (error) {
+        console.error('Error loading game data:', error);
+
+        const container = document.getElementById('exercise-container');
+        container.innerHTML = `
+          <div class="card">
+            <h2 style="color: var(--danger);">Lỗi tải trò chơi</h2>
+            <p>Xin lỗi, chúng tôi không thể tải dữ liệu bài tập. Vui lòng thử tải lại trang.</p>
+            <p style="font-size: var(--font-size-sm); color: var(--text-light);">Lỗi: ${error.message}</p>
+            <button class="btn btn--primary mt-2" onclick="location.reload()">Tải lại trang</button>
+          </div>
+        `;
+      }
+    }
+
+    // Start game when page loads
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', loadAndStartGame);
+    } else {
+      loadAndStartGame();
+    }
+  </script>
+</body>
+</html>

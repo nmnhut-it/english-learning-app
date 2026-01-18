@@ -1,0 +1,160 @@
+{
+  "unitId": "unit-3-carnival",
+  "unitTitle": "Unit 3: Carnival - Comparatives & Superlatives",
+  "vocabularyData": {
+    "grammarTerms": [
+      {
+        "word": "comparative",
+        "vietnamese": "so sánh hơn",
+        "pronunciation": "/kəmˈpærətɪv/",
+        "definition": "A form of adjective used to compare two things",
+        "example": "This book is more interesting than that one.",
+        "difficulty": "advanced"
+      },
+      {
+        "word": "superlative",
+        "vietnamese": "so sánh nhất",
+        "pronunciation": "/suːˈpɜːrlətɪv/",
+        "definition": "A form of adjective used to compare three or more things",
+        "example": "This is the most beautiful place I've ever seen.",
+        "difficulty": "advanced"
+      },
+      {
+        "word": "syllable",
+        "vietnamese": "âm tiết",
+        "pronunciation": "/ˈsɪləbl/",
+        "definition": "A unit of pronunciation having one vowel sound",
+        "example": "The word 'beautiful' has three syllables: beau-ti-ful.",
+        "difficulty": "intermediate"
+      },
+      {
+        "word": "adjective",
+        "vietnamese": "tính từ",
+        "pronunciation": "/ˈædʒɪktɪv/",
+        "definition": "A word that describes a noun",
+        "example": "In 'tall building', 'tall' is an adjective.",
+        "difficulty": "basic"
+      }
+    ],
+    "difficultWords": [
+      {
+        "word": "expensive",
+        "vietnamese": "đắt tiền, đắt đỏ",
+        "pronunciation": "/ɪkˈspensɪv/",
+        "definition": "Costing a lot of money",
+        "example": "This restaurant is too expensive for me.",
+        "difficulty": "basic"
+      },
+      {
+        "word": "beautiful",
+        "vietnamese": "đẹp",
+        "pronunciation": "/ˈbjuːtɪfl/",
+        "definition": "Very pleasant to look at",
+        "example": "She is the most beautiful girl in the class.",
+        "difficulty": "basic"
+      },
+      {
+        "word": "crowded",
+        "vietnamese": "đông đúc",
+        "pronunciation": "/ˈkraʊdɪd/",
+        "definition": "Full of people",
+        "example": "Hanoi is more crowded than Hue.",
+        "difficulty": "basic"
+      },
+      {
+        "word": "variety",
+        "vietnamese": "sự đa dạng, nhiều loại",
+        "pronunciation": "/vəˈraɪəti/",
+        "definition": "A number of different types of things",
+        "example": "The supermarket has enough variety to choose from.",
+        "difficulty": "intermediate"
+      },
+      {
+        "word": "neighborhood",
+        "vietnamese": "khu phố, vùng lân cận",
+        "pronunciation": "/ˈneɪbərhʊd/",
+        "definition": "An area of a town or city",
+        "example": "John's house is the biggest in the neighborhood.",
+        "difficulty": "basic"
+      }
+    ],
+    "keyPhrases": [
+      {
+        "phrase": "as...as",
+        "vietnamese": "bằng, ngang nhau",
+        "structure": "as + adjective + as",
+        "definition": "Used to show two things are equal",
+        "example": "A tiger is as dangerous as a lion.",
+        "usage": "For equality comparisons"
+      },
+      {
+        "phrase": "not as...as",
+        "vietnamese": "không bằng, không ngang",
+        "structure": "not as + adjective + as",
+        "definition": "Used to show two things are not equal",
+        "example": "London is not as big as Cairo.",
+        "usage": "For inequality comparisons"
+      },
+      {
+        "phrase": "too + adjective",
+        "vietnamese": "quá (mang nghĩa tiêu cực)",
+        "structure": "too + adjective",
+        "definition": "More than necessary or wanted (negative meaning)",
+        "example": "This hat is too big for you!",
+        "usage": "To show something is excessive"
+      },
+      {
+        "phrase": "adjective + enough",
+        "vietnamese": "đủ (theo sau tính từ)",
+        "structure": "adjective + enough",
+        "definition": "As much as needed (positive meaning)",
+        "example": "It smells good enough to eat!",
+        "usage": "Enough comes AFTER adjectives"
+      },
+      {
+        "phrase": "enough + noun",
+        "vietnamese": "đủ (trước danh từ)",
+        "structure": "enough + noun",
+        "definition": "As much of something as needed",
+        "example": "There's enough cake for everyone.",
+        "usage": "Enough comes BEFORE nouns"
+      },
+      {
+        "phrase": "more...than",
+        "vietnamese": "nhiều hơn...hơn",
+        "structure": "more + adjective + than",
+        "definition": "Used with long adjectives for comparison",
+        "example": "This book is more interesting than that one.",
+        "usage": "For long adjectives (3+ syllables)"
+      },
+      {
+        "phrase": "the most",
+        "vietnamese": "...nhất",
+        "structure": "the most + adjective",
+        "definition": "Used to show the highest degree",
+        "example": "She is the most intelligent girl in the school.",
+        "usage": "Superlative for long adjectives"
+      }
+    ],
+    "usefulExpressions": [
+      {
+        "expression": "good enough to eat",
+        "vietnamese": "đủ ngon để ăn",
+        "example": "It smells good enough to eat!",
+        "type": "fixed expression"
+      },
+      {
+        "expression": "too big for",
+        "vietnamese": "quá to đối với",
+        "example": "That hat is too big for you!",
+        "type": "common pattern"
+      },
+      {
+        "expression": "enough for everyone",
+        "vietnamese": "đủ cho mọi người",
+        "example": "There's enough cake for everyone.",
+        "type": "common pattern"
+      }
+    ]
+  }
+}

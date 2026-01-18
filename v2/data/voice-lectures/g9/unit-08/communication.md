@@ -4,7 +4,7 @@
 
 <!-- chunk: intro -->
 <teacher_script pause="0">
-Chào các em. Bài <eng>Communication</eng> hôm nay chúng ta học cách diễn đạt sự bắt buộc và đọc về trải nghiệm du lịch. Mở sách trang 25 nha.
+Chào các em. Chào mừng các em đến với bài học hôm nay. Mời các em mở sách giáo khoa.
 </teacher_script>
 
 ---
@@ -12,8 +12,8 @@ Chào các em. Bài <eng>Communication</eng> hôm nay chúng ta học cách di�
 <!-- chunk: everyday_english -->
 ### Bài 1 trang 25 - Expressing obligation
 
-<teacher_script pause="60">
-Bài 1 nghe và đọc đoạn hội thoại. Chú ý cách diễn đạt sự bắt buộc.
+<teacher_script pause="0">
+Bây giờ các em sẽ nghe một đoạn băng. Hãy chú ý lắng nghe để tìm thông tin trả lời câu hỏi.
 </teacher_script>
 
 <audio src="https://img.loigiaihay.com/picture/2024/0515/50.mp3">
@@ -33,7 +33,7 @@ Bài 1 nghe và đọc đoạn hội thoại. Chú ý cách diễn đạt sự b
 ### Bài 2 trang 25 - Practice obligation
 
 <teacher_script pause="60">
-Bài 2 luyện tập. Diễn đạt sự bắt buộc trong các tình huống.
+Bây giờ là phần thực hành nói. Các em hãy luyện tập theo cặp hoặc theo nhóm nhé.
 </teacher_script>
 
 <task>
@@ -49,7 +49,7 @@ Bài 2 luyện tập. Diễn đạt sự bắt buộc trong các tình huống.
 ### Bài 3 trang 25 - Read travel experiences
 
 <teacher_script pause="90">
-Bài 3 đọc về chuyến đi của Nam, Agi và Haruto. Sau đó điền thông tin vào bảng.
+Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
 <reading>
@@ -80,7 +80,7 @@ Bài 3 đọc về chuyến đi của Nam, Agi và Haruto. Sau đó điền thô
 </answer>
 
 <teacher_script pause="30">
-Sửa bài vào nha.
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
@@ -89,7 +89,7 @@ Sửa bài vào nha.
 ### Bài 4 trang 25 - Share your holiday
 
 <teacher_script pause="0" action="record">
-Bài 4. Em hãy kể về một kỳ nghỉ đáng nhớ của mình (địa điểm, phương tiện, chỗ ở, hoạt động).
+Các em hãy ghi âm phần luyện tập của mình và gửi cho thầy nhé.
 </teacher_script>
 
 <dialogue>
@@ -102,5 +102,5 @@ It was a peaceful experience.
 </dialogue>
 
 <teacher_script pause="0">
-Kết thúc bài học. Các em nhớ luyện tập nói về kỳ nghỉ của mình nhé. Tạm biệt!
+Bài học hôm nay kết thúc tại đây. Các em nhớ ôn bài và chuẩn bị cho bài học tiếp theo. Tạm biệt các em.
 </teacher_script>

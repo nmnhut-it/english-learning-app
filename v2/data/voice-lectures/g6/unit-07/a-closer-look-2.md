@@ -3,49 +3,29 @@
 ## A CLOSER LOOK 2 - Grammar
 
 <!-- chunk: intro -->
-<teacher_script pause="0" href="audio/tts_8f3a6b22.mp3">
-Ok lớp 6, bài này là A Closer Look 2 - học Grammar. Các em chú ý, lên tinh thần 120% cho thầy.
-</teacher_script>
-
-<teacher_script pause="0" href="audio/tts_e4b8253a.mp3">
-Mở sách ra. Bài này dài nên tập trung nha. Ai mà lơ là là thầy biết liền đó.
+<teacher_script pause="0">
+Chào các em. Chào mừng các em đến với bài học hôm nay. Mời các em mở sách giáo khoa.
 </teacher_script>
 
 ---
 
 <!-- chunk: grammar_overview -->
-<teacher_script pause="0" href="audio/tts_3e7f9911.mp3">
-Hôm nay học 2 điểm ngữ pháp hen.
-</teacher_script>
-
-<teacher_script pause="0" href="audio/tts_c54b9079.mp3">
-Một là Wh-questions - câu hỏi với các từ What, Where, When... Gọi là Wh-question vì các từ này đều bắt đầu bằng Wh- hoặc H-
-</teacher_script>
-
-<teacher_script pause="0" href="audio/tts_50ea646f.mp3">
-Hai là liên từ and, but, so - dùng để nối các câu lại với nhau.
-</teacher_script>
-
-<teacher_script pause="0" href="audio/tts_a8a3e559.mp3">
-Bắt đầu với <eng>Wh-questions</eng> trước nha.
+<teacher_script pause="0">
+Hôm nay chúng ta sẽ học về Wh-questions và Conjunctions.
 </teacher_script>
 
 ---
 
 <!-- chunk: grammar_wh_intro -->
-<teacher_script pause="0" href="audio/tts_c326e91e.mp3">
-<eng>Wh-questions</eng> là gì hen? Đó là các câu hỏi bắt đầu bằng chữ W-H. Mấy đứa thấy <eng>What</eng>, <eng>Where</eng>, <eng>When</eng>, <eng>Who</eng>, <eng>Why</eng> đều có W-H ở đầu không?
-</teacher_script>
-
-<teacher_script pause="0" href="audio/tts_0e1fe9a8.mp3">
-Mỗi từ hỏi khác nhau sẽ hỏi về một thông tin khác nhau. Giờ đi qua từng từ một nha. Thầy sẽ giải thích từ từ, ai chưa hiểu thì hỏi.
+<teacher_script pause="0">
+Các em hãy xem kỹ lý thuyết ngữ pháp nhé.
 </teacher_script>
 
 ---
 
 <!-- chunk: grammar_what -->
-<teacher_script pause="0" href="audio/tts_8621c126.mp3">
-Đầu tiên là <eng>WHAT</eng> - nghĩa là "cái gì".
+<teacher_script pause="30">
+Các em hãy ghi chép ngữ pháp vào vở nhé.
 </teacher_script>
 
 <grammar>
@@ -71,8 +51,8 @@ Ghi vô tập: <eng>WHAT</eng> = cái gì, hỏi về sự vật. 30 giây nha.
 ---
 
 <!-- chunk: grammar_where -->
-<teacher_script pause="0" href="audio/tts_d4302a20.mp3">
-Tiếp theo là <eng>WHERE</eng> - nghĩa là "ở đâu".
+<teacher_script pause="30">
+Các em hãy ghi chép ngữ pháp vào vở nhé.
 </teacher_script>
 
 <grammar>
@@ -98,8 +78,8 @@ Ghi vô tập: <eng>WHERE</eng> = ở đâu, hỏi về nơi chốn. 30 giây nh
 ---
 
 <!-- chunk: grammar_when -->
-<teacher_script pause="0" href="audio/tts_52ee286c.mp3">
-Tiếp theo là <eng>WHEN</eng> - nghĩa là "khi nào".
+<teacher_script pause="30">
+Các em hãy ghi chép ngữ pháp vào vở nhé.
 </teacher_script>
 
 <grammar>
@@ -125,8 +105,8 @@ Ghi vô tập: <eng>WHEN</eng> = khi nào, hỏi về thời gian. 30 giây nha.
 ---
 
 <!-- chunk: grammar_who -->
-<teacher_script pause="0" href="audio/tts_8565217a.mp3">
-Tiếp theo là <eng>WHO</eng> - nghĩa là "ai".
+<teacher_script pause="30">
+Các em hãy ghi chép ngữ pháp vào vở nhé.
 </teacher_script>
 
 <grammar>
@@ -152,8 +132,8 @@ Ghi vô tập: <eng>WHO</eng> = ai, hỏi về người. 30 giây nha.
 ---
 
 <!-- chunk: grammar_why -->
-<teacher_script pause="0" href="audio/tts_d25d720d.mp3">
-Tiếp theo là <eng>WHY</eng> - nghĩa là "tại sao".
+<teacher_script pause="30">
+Các em hãy ghi chép ngữ pháp vào vở nhé.
 </teacher_script>
 
 <grammar>
@@ -179,8 +159,8 @@ Ghi vô tập: <eng>WHY</eng> = tại sao, hỏi về lý do. Trả lời bằng
 ---
 
 <!-- chunk: grammar_how -->
-<teacher_script pause="0" href="audio/tts_3ba7119d.mp3">
-Giờ đến các từ hỏi <eng>HOW</eng> hen. <eng>HOW</eng> có nhiều dạng khác nhau, thầy sẽ đi qua từng dạng.
+<teacher_script pause="30">
+Các em hãy ghi chép ngữ pháp vào vở nhé.
 </teacher_script>
 
 <grammar>
@@ -206,8 +186,8 @@ Ghi vô tập: <eng>HOW</eng> = như thế nào. 30 giây nha.
 ---
 
 <!-- chunk: grammar_how_often -->
-<teacher_script pause="0" href="audio/tts_0d781842.mp3">
-<eng>HOW OFTEN</eng> - nghĩa là "thường xuyên thế nào", hỏi về tần suất.
+<teacher_script pause="30">
+Các em hãy ghi chép ngữ pháp vào vở nhé.
 </teacher_script>
 
 <grammar>
@@ -233,8 +213,8 @@ Ghi vô tập: <eng>HOW OFTEN</eng> = thường xuyên thế nào, hỏi về t�
 ---
 
 <!-- chunk: grammar_how_many -->
-<teacher_script pause="0" href="audio/tts_066d8bef.mp3">
-<eng>HOW MANY</eng> - nghĩa là "bao nhiêu", hỏi về số lượng.
+<teacher_script pause="30">
+Các em hãy ghi chép ngữ pháp vào vở nhé.
 </teacher_script>
 
 <grammar>
@@ -260,8 +240,8 @@ Ghi vô tập: <eng>HOW MANY</eng> = bao nhiêu, hỏi về số lượng. 30 gi
 ---
 
 <!-- chunk: grammar_how_long -->
-<teacher_script pause="0" href="audio/tts_b1a6ab9b.mp3">
-<eng>HOW LONG</eng> - nghĩa là "bao lâu", hỏi về khoảng thời gian.
+<teacher_script pause="30">
+Các em hãy ghi chép ngữ pháp vào vở nhé.
 </teacher_script>
 
 <grammar>
@@ -287,8 +267,8 @@ Ghi vô tập: <eng>HOW LONG</eng> = bao lâu, hỏi về khoảng thời gian. 
 ---
 
 <!-- chunk: grammar_wh_structure -->
-<teacher_script pause="0" href="audio/tts_acd3b175.mp3">
-Ok giờ xem cấu trúc câu hỏi WH hen. Phần này quan trọng để đặt câu hỏi đúng ngữ pháp.
+<teacher_script pause="45">
+Các em hãy ghi chép ngữ pháp vào vở nhé.
 </teacher_script>
 
 <grammar>
@@ -320,8 +300,8 @@ Ghi công thức vô tập đi. 45 giây hen.
 ---
 
 <!-- chunk: grammar_wh_summary -->
-<teacher_script pause="0" href="audio/tts_b775ba5e.mp3">
-Đây là bảng tóm tắt tất cả từ hỏi WH hen. Mấy đứa ghi lại bảng này để học thuộc nha.
+<teacher_script pause="60">
+Các em hãy ghi chép bảng tóm tắt vào vở để học thuộc nhé.
 </teacher_script>
 
 <grammar>
@@ -349,8 +329,8 @@ Ghi bảng tóm tắt vô tập đi. 1 phút hen. Bảng này quan trọng, cầ
 <!-- chunk: exercise_1 -->
 ### Bài 1 trang 9 - Read and underline
 
-<teacher_script pause="30" href="audio/tts_0d5824cd.mp3">
-Bài 1 <eng>Read the conversation and underline the question words</eng> nha. Đọc hội thoại và gạch dưới các từ hỏi WH. Bài này dễ ẹt, tìm những từ bắt đầu bằng W-H thôi. 30 giây hen.
+<teacher_script pause="30">
+Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
 <task>
@@ -380,8 +360,8 @@ Bài 1 <eng>Read the conversation and underline the question words</eng> nha. Đ
 ---
 
 <!-- chunk: answer_1 -->
-<teacher_script pause="0" href="audio/tts_8adfec14.mp3">
-Ok thầy sửa bài nha.
+<teacher_script pause="0" type="answer">
+Đã hết thời gian. Sau đây là đáp án gợi ý. Các em hãy so sánh với bài làm của mình nhé.
 </teacher_script>
 
 <answer>
@@ -414,8 +394,8 @@ Có 3 từ hỏi trong hội thoại hen. Ai tìm đủ 3 từ chưa?
 | **How long** is it on? | How long | Thời gian bao lâu |
 </explanation>
 
-<teacher_script pause="30" href="audio/tts_3497ed1f.mp3">
-Mấy đứa sửa bài nếu sai hen. 30 giây.
+<teacher_script pause="30">
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
@@ -423,8 +403,8 @@ Mấy đứa sửa bài nếu sai hen. 30 giây.
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 9 - Match
 
-<teacher_script pause="45" href="audio/tts_3d7adf8d.mp3">
-Bài 2 <eng>Match each question word with the information it needs</eng> nha. Nối từ hỏi với loại thông tin nó hỏi. Ví dụ: <eng>Where</eng> hỏi về nơi chốn, nên nối với <eng>Place</eng>. Dùng kiến thức vừa học để làm hen. 45 giây.
+<teacher_script pause="45">
+Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
 <task>
@@ -448,8 +428,8 @@ Bài 2 <eng>Match each question word with the information it needs</eng> nha. N�
 ---
 
 <!-- chunk: answer_2 -->
-<teacher_script pause="0" href="audio/tts_8adfec14.mp3">
-Ok thầy sửa bài nha.
+<teacher_script pause="0" type="answer">
+Đã hết thời gian. Sau đây là đáp án gợi ý. Các em hãy so sánh với bài làm của mình nhé.
 </teacher_script>
 
 <answer>
@@ -502,12 +482,8 @@ Thầy đi qua từng cặp hen.
 | **Why** | Reason (lý do) | Why? → Because it's fun |
 </explanation>
 
-<teacher_script pause="30" href="audio/tts_f82c3e86.mp3">
-Sửa bài nếu sai hen. 30 giây. Bài này ai sai nhiều thì đọc lại bảng tóm tắt ở trên nha.
-</teacher_script>
-
-<teacher_script pause="0" action="record" href="audio/tts_6f7c382e.mp3">
-Nếu cần hỏi thì nhấn thu âm bên dưới nha.
+<teacher_script pause="30">
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
@@ -515,8 +491,8 @@ Nếu cần hỏi thì nhấn thu âm bên dưới nha.
 <!-- chunk: exercise_3 -->
 ### Bài 3 trang 9 - Complete conversations
 
-<teacher_script pause="60" href="audio/tts_9fc4b120.mp3">
-Bài 3 <eng>Use the question words in the box to complete the conversations</eng> nha. Điền từ hỏi để hoàn thành hội thoại. Mẹo quan trọng: Nhìn câu trả lời để đoán từ hỏi hen. 1 phút.
+<teacher_script pause="60">
+Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
 <task>
@@ -552,8 +528,8 @@ B: In the yard.
 ---
 
 <!-- chunk: answer_3 -->
-<teacher_script pause="0" href="audio/tts_8adfec14.mp3">
-Ok thầy sửa bài nha.
+<teacher_script pause="0" type="answer">
+Đã hết thời gian. Sau đây là đáp án gợi ý. Các em hãy so sánh với bài làm của mình nhé.
 </teacher_script>
 
 <answer>
@@ -601,15 +577,15 @@ Conversation 3, câu sau: Trả lời là <eng>In the yard</eng> - đây là nơ
 **Mẹo:** Nhìn câu trả lời để đoán từ hỏi!
 </explanation>
 
-<teacher_script pause="30" href="audio/tts_73b07c99.mp3">
-Sửa bài nếu sai hen. 30 giây.
+<teacher_script pause="30">
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
 
 <!-- chunk: grammar_conjunctions_intro -->
-<teacher_script pause="0" href="audio/tts_738233c2.mp3">
-Giờ qua phần 2 hen - <eng>Conjunctions</eng>: <eng>and</eng>, <eng>but</eng>, <eng>so</eng>. Phần này cũng quan trọng không kém.
+<teacher_script pause="0">
+Bây giờ chúng ta sẽ học về liên từ: and, but, so.
 </teacher_script>
 
 <teacher_script pause="0" href="audio/tts_bf44ee70.mp3">
@@ -731,8 +707,8 @@ Ghi vô tập: <eng>SO</eng> = vì vậy, nên. Nối nguyên nhân dẫn đến
 ---
 
 <!-- chunk: grammar_conjunctions_summary -->
-<teacher_script pause="0" href="audio/tts_95ad6aec.mp3">
-Đây là bảng tóm tắt 3 liên từ hen. Ghi lại bảng này để nhớ nha.
+<teacher_script pause="45">
+Các em hãy ghi chép bảng tóm tắt vào vở để học thuộc nhé.
 </teacher_script>
 
 <grammar>
@@ -776,8 +752,8 @@ Ghi bảng tóm tắt vô tập đi. 45 giây hen.
 <!-- chunk: exercise_4 -->
 ### Bài 4 trang 10 - Match
 
-<teacher_script pause="45" href="audio/tts_6f6ba044.mp3">
-Bài 4 <eng>Match the beginnings with the endings</eng> nha. Nối phần đầu với phần đuôi. Mẹo: Nhìn liên từ <eng>and</eng>, <eng>but</eng>, <eng>so</eng> để biết nối với vế nào hen. 45 giây.
+<teacher_script pause="45">
+Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
 <task>

@@ -1,0 +1,539 @@
+{
+  "unitId": "g7-unit-9-festivals",
+  "title": "Unit 9: Festivals Around the World - Adverbial Phrases and H/Wh Questions",
+  "studentName": "Tran Gia Hung",
+  "grade": 7,
+  "grammarTopics": [
+    "Adverbial Phrases",
+    "H/Wh Questions",
+    "When/Where/Why/How/What/Which",
+    "Festival Vocabulary"
+  ],
+  "theory": {
+    "brief": "Cụm trạng từ chỉ thời gian (when), nơi chốn (where), cách thức (how), lý do (why). Câu hỏi H/Wh: What (cái gì), When (khi nào), Where (ở đâu), Who (ai), Why (tại sao), How (như thế nào), Which (cái nào). Cấu trúc: Wh + do/does/did + S + V? hoặc Wh + be + S?",
+    "examples": [
+      "When is the festival? - It's in April. (Lễ hội khi nào? - Vào tháng 4.)",
+      "Where do people celebrate it? - In Rio. (Người ta tổ chức ở đâu? - Ở Rio.)",
+      "Why do they celebrate? - To honor the dead. (Tại sao họ tổ chức? - Để tôn vinh người đã mất.)",
+      "How long does it last? - For 3 days. (Nó kéo dài bao lâu? - 3 ngày.)",
+      "What do people do? - They wear costumes. (Người ta làm gì? - Họ mặc trang phục.)"
+    ]
+  },
+  "exercises": [
+    {
+      "id": "g7u9-ex1",
+      "type": "fill-blank",
+      "question": "_______ is the festival celebrated? - In Brazil.",
+      "wordHint": "ở đâu",
+      "answer": "Where",
+      "acceptedAnswers": [
+        "Where"
+      ],
+      "hints": [
+        "Hỏi nơi chốn → Where"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u9-ex2",
+      "type": "fill-blank",
+      "question": "_______ is the carnival held? - In February.",
+      "wordHint": "khi nào",
+      "answer": "When",
+      "acceptedAnswers": [
+        "When"
+      ],
+      "hints": [
+        "Hỏi thời gian → When"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u9-ex3",
+      "type": "fill-blank",
+      "question": "_______ do people celebrate this festival? - To welcome spring.",
+      "wordHint": "tại sao",
+      "answer": "Why",
+      "acceptedAnswers": [
+        "Why"
+      ],
+      "hints": [
+        "Hỏi lý do → Why"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u9-ex4",
+      "type": "fill-blank",
+      "question": "_______ do they celebrate? - By dancing and singing.",
+      "wordHint": "như thế nào",
+      "answer": "How",
+      "acceptedAnswers": [
+        "How"
+      ],
+      "hints": [
+        "Hỏi cách thức → How"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u9-ex5",
+      "type": "fill-blank",
+      "question": "_______ festival do you like best? - The music festival.",
+      "wordHint": "cái nào",
+      "answer": "Which",
+      "acceptedAnswers": [
+        "Which",
+        "What"
+      ],
+      "hints": [
+        "Hỏi lựa chọn → Which/What"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u9-ex6",
+      "type": "fill-blank",
+      "question": "_______ long does the festival last? - For one week.",
+      "wordHint": "bao lâu",
+      "answer": "How",
+      "acceptedAnswers": [
+        "How"
+      ],
+      "hints": [
+        "How long = bao lâu"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u9-ex7",
+      "type": "fill-blank",
+      "question": "_______ do people do at the festival? - They wear costumes.",
+      "wordHint": "cái gì",
+      "answer": "What",
+      "acceptedAnswers": [
+        "What"
+      ],
+      "hints": [
+        "Hỏi hành động → What"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u9-ex8",
+      "type": "fill-blank",
+      "question": "_______ organizes the festival? - The local government.",
+      "wordHint": "ai",
+      "answer": "Who",
+      "acceptedAnswers": [
+        "Who"
+      ],
+      "hints": [
+        "Hỏi người → Who"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u9-ex9",
+      "type": "fill-blank",
+      "question": "_______ often is the festival held? - Every year.",
+      "wordHint": "how often",
+      "answer": "How",
+      "acceptedAnswers": [
+        "How"
+      ],
+      "hints": [
+        "How often = bao lâu một lần"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u9-ex10",
+      "type": "fill-blank",
+      "question": "_______ many people attend? - About 10,000.",
+      "wordHint": "bao nhiêu",
+      "answer": "How",
+      "acceptedAnswers": [
+        "How"
+      ],
+      "hints": [
+        "How many = bao nhiêu"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u9-ex11",
+      "type": "fill-blank",
+      "question": "The festival is held _______ April.",
+      "wordHint": "in/on/at",
+      "answer": "in",
+      "acceptedAnswers": [
+        "in"
+      ],
+      "hints": [
+        "Tháng → in"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u9-ex12",
+      "type": "fill-blank",
+      "question": "People celebrate _______ the main square.",
+      "wordHint": "in/on/at",
+      "answer": "in",
+      "acceptedAnswers": [
+        "in",
+        "at"
+      ],
+      "hints": [
+        "Địa điểm → in/at"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u9-ex13",
+      "type": "fill-blank",
+      "question": "The parade starts _______ 9 AM.",
+      "wordHint": "in/on/at",
+      "answer": "at",
+      "acceptedAnswers": [
+        "at"
+      ],
+      "hints": [
+        "Giờ → at"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u9-ex14",
+      "type": "fill-blank",
+      "question": "It takes place _______ the first Sunday of May.",
+      "wordHint": "in/on/at",
+      "answer": "on",
+      "acceptedAnswers": [
+        "on"
+      ],
+      "hints": [
+        "Ngày cụ thể → on"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u9-ex15",
+      "type": "fill-blank",
+      "question": "People gather _______ the evening.",
+      "wordHint": "in/on/at",
+      "answer": "in",
+      "acceptedAnswers": [
+        "in"
+      ],
+      "hints": [
+        "Buổi trong ngày → in"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u9-ex16",
+      "type": "multiple-choice",
+      "question": "_______ is Diwali celebrated? - In India.",
+      "options": [
+        "What",
+        "When",
+        "Where",
+        "Why"
+      ],
+      "correctIndex": 2,
+      "explanation": "Hỏi nơi chốn → Where",
+      "hints": [
+        "In India → nơi chốn"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u9-ex17",
+      "type": "multiple-choice",
+      "question": "_______ does the festival last? - For 5 days.",
+      "options": [
+        "How long",
+        "How far",
+        "How much",
+        "How many"
+      ],
+      "correctIndex": 0,
+      "explanation": "How long = bao lâu (khoảng thời gian)",
+      "hints": [
+        "Hỏi thời gian kéo dài"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u9-ex18",
+      "type": "multiple-choice",
+      "question": "_______ do people celebrate New Year? - To welcome a new beginning.",
+      "options": [
+        "What",
+        "When",
+        "Why",
+        "How"
+      ],
+      "correctIndex": 2,
+      "explanation": "Why = tại sao (hỏi lý do)",
+      "hints": [
+        "To welcome → lý do"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u9-ex19",
+      "type": "multiple-choice",
+      "question": "_______ do they celebrate? - By lighting candles.",
+      "options": [
+        "What",
+        "Where",
+        "Why",
+        "How"
+      ],
+      "correctIndex": 3,
+      "explanation": "How = như thế nào (cách thức)",
+      "hints": [
+        "By lighting → cách thức"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u9-ex20",
+      "type": "multiple-choice",
+      "question": "The festival is held _______ October 31st.",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "for"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ngày tháng cụ thể → on",
+      "hints": [
+        "Ngày 31 tháng 10 → on"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u9-ex21",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hỏi hoàn chỉnh",
+      "acceptedAnswers": [
+        "Where is the festival celebrated?",
+        "Where is the festival celebrated"
+      ],
+      "hints": [
+        "Wh + be + S + V3?"
+      ],
+      "points": 15,
+      "correctSentence": "Where is the festival celebrated?",
+      "words": [
+        "is",
+        "where",
+        "festival",
+        "the",
+        "celebrated"
+      ]
+    },
+    {
+      "id": "g7u9-ex22",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hỏi hoàn chỉnh",
+      "acceptedAnswers": [
+        "When is the carnival held?",
+        "When is the carnival held"
+      ],
+      "hints": [
+        "Wh + be + S + V3?"
+      ],
+      "points": 15,
+      "correctSentence": "When is the carnival held?",
+      "words": [
+        "when",
+        "carnival",
+        "is",
+        "the",
+        "held"
+      ]
+    },
+    {
+      "id": "g7u9-ex23",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hỏi hoàn chỉnh",
+      "acceptedAnswers": [
+        "Why do people celebrate this festival?",
+        "Why do people celebrate this festival"
+      ],
+      "hints": [
+        "Wh + do + S + V?"
+      ],
+      "points": 15,
+      "correctSentence": "Why do people celebrate this festival?",
+      "words": [
+        "why",
+        "people",
+        "do",
+        "celebrate",
+        "festival",
+        "this"
+      ]
+    },
+    {
+      "id": "g7u9-ex24",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hỏi hoàn chỉnh",
+      "acceptedAnswers": [
+        "How do they celebrate?",
+        "How do they celebrate"
+      ],
+      "hints": [
+        "Wh + do + S + V?"
+      ],
+      "points": 15,
+      "correctSentence": "How do they celebrate?",
+      "words": [
+        "how",
+        "they",
+        "do",
+        "celebrate"
+      ]
+    },
+    {
+      "id": "g7u9-ex25",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hỏi hoàn chỉnh",
+      "acceptedAnswers": [
+        "What do people do at the festival?",
+        "What do people do at the festival"
+      ],
+      "hints": [
+        "What + do + S + do?"
+      ],
+      "points": 15,
+      "correctSentence": "What do people do at the festival?",
+      "words": [
+        "what",
+        "people",
+        "do",
+        "do",
+        "festival",
+        "the",
+        "at"
+      ]
+    },
+    {
+      "id": "g7u9-ex26",
+      "type": "error-correct",
+      "wrongSentence": "Where the festival is celebrated?",
+      "correctSentence": "Where is the festival celebrated?",
+      "errorWord": "Where the festival is",
+      "correction": "Where is the festival",
+      "explanation": "Câu hỏi: Wh + be + S?",
+      "hints": [
+        "Wh + be + S (đảo ngữ)"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u9-ex27",
+      "type": "error-correct",
+      "wrongSentence": "When does hold the festival?",
+      "correctSentence": "When do they hold the festival?",
+      "errorWord": "does hold",
+      "correction": "do they hold",
+      "explanation": "Cần chủ ngữ: When + do/does + S + V?",
+      "hints": [
+        "Câu hỏi cần chủ ngữ"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u9-ex28",
+      "type": "error-correct",
+      "wrongSentence": "Why people celebrate this festival?",
+      "correctSentence": "Why do people celebrate this festival?",
+      "errorWord": "Why people",
+      "correction": "Why do people",
+      "explanation": "Câu hỏi: Wh + do/does + S + V?",
+      "hints": [
+        "Cần 'do' trong câu hỏi"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u9-ex29",
+      "type": "error-correct",
+      "wrongSentence": "The festival is held at April.",
+      "correctSentence": "The festival is held in April.",
+      "errorWord": "at",
+      "correction": "in",
+      "explanation": "Tháng dùng 'in', không dùng 'at'",
+      "hints": [
+        "Tháng → in"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u9-ex30",
+      "type": "error-correct",
+      "wrongSentence": "It takes place in the first of May.",
+      "correctSentence": "It takes place on the first of May.",
+      "errorWord": "in",
+      "correction": "on",
+      "explanation": "Ngày cụ thể dùng 'on'",
+      "hints": [
+        "Ngày → on"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u9-ex31",
+      "type": "translation",
+      "vietnamese": "Lễ hội được tổ chức ở đâu?",
+      "answer": "Where is the festival celebrated?",
+      "acceptedAnswers": [
+        "Where is the festival celebrated?",
+        "Where is the festival celebrated",
+        "Where is the festival held?",
+        "Where is the festival held"
+      ],
+      "hints": [
+        "Where + be + S + V3?"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u9-ex32",
+      "type": "translation",
+      "vietnamese": "Tại sao người ta tổ chức lễ hội này?",
+      "answer": "Why do people celebrate this festival?",
+      "acceptedAnswers": [
+        "Why do people celebrate this festival?",
+        "Why do people celebrate this festival",
+        "Why do they celebrate this festival?",
+        "Why do they celebrate this festival"
+      ],
+      "hints": [
+        "Why + do + S + V?"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u9-ex33",
+      "type": "translation",
+      "vietnamese": "Lễ hội kéo dài bao lâu?",
+      "answer": "How long does the festival last?",
+      "acceptedAnswers": [
+        "How long does the festival last?",
+        "How long does the festival last"
+      ],
+      "hints": [
+        "How long + do/does + S + V?"
+      ],
+      "points": 10
+    }
+  ]
+}

@@ -4,7 +4,7 @@
 
 <!-- chunk: intro -->
 <teacher_script pause="0">
-Hi everyone. Welcome to Unit 8 <eng>Tourism</eng>. Chúng ta sẽ tìm hiểu về các loại hình du lịch và các địa điểm nổi tiếng nhé. Mở sách trang 20 nào.
+Chào các em. Chào mừng các em đến với bài học hôm nay. Mời các em mở sách giáo khoa.
 </teacher_script>
 
 ---
@@ -24,7 +24,7 @@ Hi everyone. Welcome to Unit 8 <eng>Tourism</eng>. Chúng ta sẽ tìm hiểu v�
 </vocabulary>
 
 <teacher_script pause="0">
-Các em nghe và lặp lại từ vựng nhé.
+Chúng ta cùng học từ vựng mới. Các em hãy nghe và lặp lại theo mẫu nhé.
 </teacher_script>
 
 ---
@@ -33,7 +33,7 @@ Các em nghe và lặp lại từ vựng nhé.
 ### Bài 1 trang 20 - Listen and read
 
 <teacher_script pause="0">
-Bài 1 <eng>Listen and read</eng>. Nghe Tom và An nói về kỳ nghỉ của họ ở Bali và Đà Nẵng.
+Bây giờ các em sẽ nghe một đoạn băng. Hãy chú ý lắng nghe để tìm thông tin trả lời câu hỏi.
 </teacher_script>
 
 <audio src="https://img.loigiaihay.com/picture/2024/0515/47.mp3">
@@ -55,7 +55,7 @@ Bài 1 <eng>Listen and read</eng>. Nghe Tom và An nói về kỳ nghỉ của h
 ### Bài 2 trang 21 - True or False
 
 <teacher_script pause="60">
-Bài 2 <eng>Read and tick True or False</eng>. 1 phút nha.
+Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
 <questions type="true_false">
@@ -80,7 +80,7 @@ Bài 2 <eng>Read and tick True or False</eng>. 1 phút nha.
 </explanation>
 
 <teacher_script pause="30">
-Sửa bài vào nha.
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
@@ -89,7 +89,7 @@ Sửa bài vào nha.
 ### Bài 3 trang 21 - Match words
 
 <teacher_script pause="60">
-Bài 3 <eng>Match a word in A with B</eng>. Nối từ để tạo cụm từ có nghĩa.
+Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
 <task>
@@ -112,7 +112,7 @@ Bài 3 <eng>Match a word in A with B</eng>. Nối từ để tạo cụm từ c�
 ### Bài 4 trang 21 - Complete sentences
 
 <teacher_script pause="60">
-Bài 4 điền từ vào chỗ trống.
+Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
 <questions type="fill_blanks">
@@ -140,7 +140,7 @@ Bài 4 điền từ vào chỗ trống.
 ### Bài 5 trang 21 - Quiz: Tourism in Viet Nam
 
 <teacher_script pause="60">
-Bài 5 đố vui về địa điểm du lịch Việt Nam.
+Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
 <task>
@@ -157,12 +157,12 @@ Bài 5 đố vui về địa điểm du lịch Việt Nam.
 </answer>
 
 <teacher_script pause="30">
-Sửa bài vào nha.
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
 
 <!-- chunk: end -->
 <teacher_script pause="0">
-Xong bài <eng>Getting Started</eng>. Các em nhớ các từ vựng về du lịch và các địa điểm nổi tiếng nhé. Tạm biệt!
+Bài học hôm nay kết thúc tại đây. Các em nhớ ôn bài và chuẩn bị cho bài học tiếp theo. Tạm biệt các em.
 </teacher_script>

@@ -1,0 +1,837 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>IELTS Sentence Builder - Interactive Exercises</title>
+  <meta name="description" content="Practice IELTS Writing Task 2 sentence structures with interactive exercises">
+  <link rel="stylesheet" href="../css/shared.css">
+  <style>
+    /* Exercise Type Tabs */
+    .exercise-tabs {
+      display: flex;
+      gap: 0.5rem;
+      margin-bottom: 1.5rem;
+      flex-wrap: wrap;
+    }
+
+    .exercise-tab {
+      padding: 0.75rem 1.25rem;
+      border: 2px solid var(--border);
+      border-radius: 8px;
+      background: white;
+      cursor: pointer;
+      font-weight: 600;
+      transition: all 0.2s;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+
+    .exercise-tab:hover {
+      border-color: var(--primary);
+      background: var(--bg-light);
+    }
+
+    .exercise-tab.active {
+      background: var(--primary);
+      color: white;
+      border-color: var(--primary);
+    }
+
+    .exercise-tab .tab-count {
+      background: rgba(0,0,0,0.1);
+      padding: 0.2rem 0.5rem;
+      border-radius: 12px;
+      font-size: 0.85em;
+    }
+
+    .exercise-tab.active .tab-count {
+      background: rgba(255,255,255,0.2);
+    }
+
+    /* Filter Bar */
+    .filter-bar {
+      display: flex;
+      gap: 1rem;
+      margin-bottom: 1.5rem;
+      flex-wrap: wrap;
+      align-items: center;
+    }
+
+    .filter-group {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+
+    .filter-group label {
+      font-weight: 500;
+      color: var(--text-secondary);
+    }
+
+    .filter-select {
+      padding: 0.5rem 1rem;
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      background: white;
+      font-size: 0.95rem;
+      cursor: pointer;
+    }
+
+    .filter-select:focus {
+      outline: none;
+      border-color: var(--primary);
+    }
+
+    /* Start Button */
+    .start-section {
+      text-align: center;
+      padding: 2rem;
+      background: var(--bg-light);
+      border-radius: 12px;
+      margin-bottom: 1.5rem;
+    }
+
+    .start-section h3 {
+      margin-bottom: 0.5rem;
+      color: var(--text-primary);
+    }
+
+    .start-section p {
+      color: var(--text-secondary);
+      margin-bottom: 1rem;
+    }
+
+    .btn-start {
+      padding: 1rem 2.5rem;
+      font-size: 1.1rem;
+    }
+
+    /* Theory Panel Enhancements */
+    .structure-family {
+      margin-bottom: 1.5rem;
+      padding: 1rem;
+      background: white;
+      border-radius: 8px;
+      border-left: 4px solid var(--primary);
+    }
+
+    .structure-family h4 {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      margin-bottom: 0.75rem;
+      color: var(--primary);
+    }
+
+    .structure-family .icon {
+      width: 28px;
+      height: 28px;
+      background: var(--primary);
+      color: white;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 0.9rem;
+      font-weight: bold;
+    }
+
+    .structure-item {
+      padding: 0.75rem;
+      margin: 0.5rem 0;
+      background: var(--bg-light);
+      border-radius: 6px;
+    }
+
+    .structure-item .formula {
+      font-family: monospace;
+      color: var(--info);
+      margin: 0.25rem 0;
+    }
+
+    .structure-item .example {
+      color: var(--text-secondary);
+      font-style: italic;
+    }
+
+    .structure-item .example-vi {
+      color: #d32f2f;
+      font-size: 0.9em;
+    }
+
+    /* Vietnamese context display */
+    .vietnamese-context {
+      background: #fff3e0;
+      border-left: 4px solid #ff9800;
+      padding: 1rem;
+      margin-bottom: 1rem;
+      border-radius: 0 8px 8px 0;
+    }
+
+    .vietnamese-context .label {
+      font-weight: 600;
+      color: #e65100;
+      font-size: 0.9em;
+      margin-bottom: 0.25rem;
+    }
+
+    .vietnamese-context .text {
+      color: #d32f2f;
+      font-weight: 500;
+    }
+
+    /* Multi-structure context */
+    .multi-context {
+      background: linear-gradient(135deg, #e3f2fd, #bbdefb);
+      padding: 1rem;
+      border-radius: 8px;
+      margin-bottom: 1rem;
+    }
+
+    .multi-context .base-sentence {
+      font-size: 1.1em;
+      color: var(--text-primary);
+      margin-bottom: 0.5rem;
+    }
+
+    .multi-context .base-vi {
+      color: #d32f2f;
+    }
+
+    .multi-context .structure-target {
+      background: white;
+      padding: 0.5rem 1rem;
+      border-radius: 6px;
+      margin-top: 0.5rem;
+      font-weight: 500;
+      color: var(--primary);
+    }
+
+    /* Results summary */
+    .results-summary {
+      text-align: center;
+      padding: 2rem;
+    }
+
+    .results-summary h2 {
+      color: var(--primary);
+      margin-bottom: 1rem;
+    }
+
+    .results-stats {
+      display: flex;
+      justify-content: center;
+      gap: 2rem;
+      margin: 1.5rem 0;
+      flex-wrap: wrap;
+    }
+
+    .result-stat {
+      text-align: center;
+    }
+
+    .result-stat .value {
+      font-size: 2rem;
+      font-weight: bold;
+      color: var(--primary);
+    }
+
+    .result-stat .label {
+      color: var(--text-secondary);
+    }
+
+    /* Loading state */
+    .loading {
+      text-align: center;
+      padding: 3rem;
+      color: var(--text-secondary);
+    }
+
+    .loading-spinner {
+      width: 40px;
+      height: 40px;
+      border: 4px solid var(--border);
+      border-top-color: var(--primary);
+      border-radius: 50%;
+      animation: spin 1s linear infinite;
+      margin: 0 auto 1rem;
+    }
+
+    @keyframes spin {
+      to { transform: rotate(360deg); }
+    }
+
+    /* Responsive */
+    @media (max-width: 768px) {
+      .exercise-tabs {
+        flex-direction: column;
+      }
+
+      .exercise-tab {
+        justify-content: center;
+      }
+
+      .filter-bar {
+        flex-direction: column;
+        align-items: stretch;
+      }
+
+      .filter-group {
+        flex-direction: column;
+        align-items: stretch;
+      }
+    }
+  </style>
+</head>
+<body>
+  <!-- Game Header -->
+  <header class="game-header">
+    <div class="container">
+      <div class="game-header__container">
+        <div class="game-header__info-section">
+          <h1 class="game-header__title">IELTS Sentence Builder</h1>
+          <p class="game-header__subtitle">Practice Writing Task 2 Structures</p>
+          <div class="game-info">
+            <div class="game-info__item">
+              <span class="game-info__label">Level:</span>
+              <span class="game-info__value">IELTS 4.5 - 6.5</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="game-header__stats">
+          <div class="stat">
+            <span class="stat__label">Điểm</span>
+            <span class="stat__value stat__value--primary" id="current-score">0</span>
+          </div>
+          <div class="stat">
+            <span class="stat__label">Tiến độ</span>
+            <span class="stat__value" id="progress-count">0 / 0</span>
+          </div>
+          <div class="stat" id="combo-display" style="display: none;">
+            <span class="stat__label">Combo</span>
+            <span class="stat__value" id="combo-count">0</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="progress">
+        <div class="progress__bar" id="progress-bar" style="width: 0%;"></div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Content -->
+  <main class="container">
+    <!-- Theory Panel -->
+    <div class="theory-panel" id="theory-panel">
+      <button class="theory-panel__toggle" id="theory-toggle">
+        <span>📖 Cấu trúc ngữ pháp IELTS Writing</span>
+        <span class="theory-panel__icon" id="theory-icon">▼</span>
+      </button>
+      <div class="theory-panel__content" id="theory-content">
+        <div id="theory-structures">
+          <div class="loading">
+            <div class="loading-spinner"></div>
+            <p>Đang tải...</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Exercise Type Tabs -->
+    <div class="exercise-tabs" id="exercise-tabs">
+      <button class="exercise-tab active" data-type="wordArrange">
+        🔤 Sắp xếp từ
+        <span class="tab-count" id="count-wordArrange">0</span>
+      </button>
+      <button class="exercise-tab" data-type="fillOneWord">
+        ✏️ Điền từ
+        <span class="tab-count" id="count-fillOneWord">0</span>
+      </button>
+      <button class="exercise-tab" data-type="sentenceTransform">
+        🔄 Viết lại câu
+        <span class="tab-count" id="count-sentenceTransform">0</span>
+      </button>
+      <button class="exercise-tab" data-type="multiStructure">
+        🎯 Đa cấu trúc
+        <span class="tab-count" id="count-multiStructure">0</span>
+      </button>
+    </div>
+
+    <!-- Filter Bar -->
+    <div class="filter-bar">
+      <div class="filter-group">
+        <label for="topic-filter">Chủ đề:</label>
+        <select id="topic-filter" class="filter-select">
+          <option value="all">Tất cả</option>
+          <option value="education">Education</option>
+          <option value="technology">Technology</option>
+          <option value="environment">Environment</option>
+          <option value="health">Health</option>
+          <option value="work">Work</option>
+        </select>
+      </div>
+      <div class="filter-group">
+        <label for="difficulty-filter">Độ khó:</label>
+        <select id="difficulty-filter" class="filter-select">
+          <option value="all">Tất cả</option>
+          <option value="easy">Dễ</option>
+          <option value="medium">Trung bình</option>
+          <option value="hard">Khó</option>
+        </select>
+      </div>
+    </div>
+
+    <!-- Start Section -->
+    <div class="start-section" id="start-section">
+      <h3 id="exercise-type-title">🔤 Sắp xếp từ thành câu</h3>
+      <p id="exercise-count-info">Chọn bộ lọc và bắt đầu luyện tập</p>
+      <button class="btn btn--primary btn-start" id="start-btn">
+        Bắt đầu luyện tập
+      </button>
+    </div>
+
+    <!-- Exercise Container -->
+    <div id="exercise-container" style="display: none;"></div>
+
+    <!-- Results Section -->
+    <div id="results-section" class="results-summary" style="display: none;">
+      <h2>🎉 Hoàn thành!</h2>
+      <div class="results-stats">
+        <div class="result-stat">
+          <div class="value" id="result-score">0</div>
+          <div class="label">Điểm</div>
+        </div>
+        <div class="result-stat">
+          <div class="value" id="result-correct">0/0</div>
+          <div class="label">Câu đúng</div>
+        </div>
+        <div class="result-stat">
+          <div class="value" id="result-accuracy">0%</div>
+          <div class="label">Độ chính xác</div>
+        </div>
+      </div>
+      <button class="btn btn--primary" id="retry-btn">Làm lại</button>
+      <button class="btn btn--secondary" id="change-type-btn">Đổi bài tập</button>
+    </div>
+
+    <!-- Back Home -->
+    <div class="back-home" style="margin-top: 2rem; text-align: center;">
+      <a href="../index.html" class="btn btn--secondary">← Về trang chủ</a>
+    </div>
+  </main>
+
+  <!-- Scripts -->
+  <script src="../js/core/utils.js"></script>
+  <script src="../js/core/storage.js"></script>
+  <script src="../js/core/game-engine.js"></script>
+  <script src="../js/exercises/word-rearrange.js"></script>
+  <script src="../js/exercises/fill-blank.js"></script>
+  <script src="../js/exercises/sentence-rewrite.js"></script>
+
+  <script>
+    // Constants
+    const UNIT_ID = 'ielts-sentence-builder';
+    const DATA_PATH = '../data/ielts-sentence-builder-exercises.json';
+
+    const EXERCISE_TYPE_CONFIG = {
+      wordArrange: {
+        title: '🔤 Sắp xếp từ thành câu',
+        handler: 'word-rearrange',
+        description: 'Sắp xếp các từ cho sẵn thành câu hoàn chỉnh'
+      },
+      fillOneWord: {
+        title: '✏️ Điền một từ vào chỗ trống',
+        handler: 'fill-blank',
+        description: 'Điền từ thích hợp vào chỗ trống trong câu'
+      },
+      sentenceTransform: {
+        title: '🔄 Viết lại câu',
+        handler: 'sentence-rewrite',
+        description: 'Viết lại câu sử dụng cấu trúc được yêu cầu'
+      },
+      multiStructure: {
+        title: '🎯 Đa cấu trúc',
+        handler: 'fill-blank',
+        description: 'Viết câu theo nhiều cấu trúc khác nhau'
+      }
+    };
+
+    // State
+    let exerciseData = null;
+    let currentType = 'wordArrange';
+    let currentExercises = [];
+    let currentIndex = 0;
+    let score = 0;
+    let correctCount = 0;
+    let comboCount = 0;
+
+    // Load data
+    async function loadData() {
+      try {
+        const response = await fetch(DATA_PATH);
+        exerciseData = await response.json();
+        initializePage();
+      } catch (error) {
+        console.error('Error loading data:', error);
+        document.getElementById('start-section').innerHTML =
+          '<p style="color: var(--danger);">Lỗi tải dữ liệu. Vui lòng tải lại trang.</p>';
+      }
+    }
+
+    // Initialize page
+    function initializePage() {
+      renderTheoryPanel();
+      updateTabCounts();
+      setupEventListeners();
+      updateStartSection();
+    }
+
+    // Render theory panel
+    function renderTheoryPanel() {
+      const container = document.getElementById('theory-structures');
+      if (!exerciseData.structureFamilies) {
+        container.innerHTML = '<p>Không có dữ liệu cấu trúc.</p>';
+        return;
+      }
+
+      let html = '';
+      exerciseData.structureFamilies.forEach((family, index) => {
+        html += `
+          <div class="structure-family">
+            <h4>
+              <span class="icon">${family.icon || (index + 1)}</span>
+              ${family.familyName} - ${family.familyNameVi}
+            </h4>
+            <p style="color: var(--text-secondary); margin-bottom: 0.75rem;">${family.description}</p>
+            ${family.structures.map(s => `
+              <div class="structure-item">
+                <strong>${s.name}</strong>
+                <div class="formula">${s.formula}</div>
+                <div class="example">${s.example}</div>
+                <div class="example-vi">${s.exampleVi}</div>
+              </div>
+            `).join('')}
+          </div>
+        `;
+      });
+
+      container.innerHTML = html;
+    }
+
+    // Update tab counts
+    function updateTabCounts() {
+      const exercises = exerciseData.exercises;
+
+      document.getElementById('count-wordArrange').textContent =
+        exercises.wordArrange?.length || 0;
+      document.getElementById('count-fillOneWord').textContent =
+        exercises.fillOneWord?.length || 0;
+      document.getElementById('count-sentenceTransform').textContent =
+        exercises.sentenceTransform?.length || 0;
+
+      // Count multiStructure transformations
+      let multiCount = 0;
+      if (exercises.multiStructure) {
+        exercises.multiStructure.forEach(item => {
+          multiCount += item.transformations?.length || 0;
+        });
+      }
+      document.getElementById('count-multiStructure').textContent = multiCount;
+    }
+
+    // Setup event listeners
+    function setupEventListeners() {
+      // Tab clicks
+      document.querySelectorAll('.exercise-tab').forEach(tab => {
+        tab.addEventListener('click', () => {
+          document.querySelectorAll('.exercise-tab').forEach(t => t.classList.remove('active'));
+          tab.classList.add('active');
+          currentType = tab.dataset.type;
+          updateStartSection();
+        });
+      });
+
+      // Filter changes
+      document.getElementById('topic-filter').addEventListener('change', updateStartSection);
+      document.getElementById('difficulty-filter').addEventListener('change', updateStartSection);
+
+      // Start button
+      document.getElementById('start-btn').addEventListener('click', startExercise);
+
+      // Retry button
+      document.getElementById('retry-btn').addEventListener('click', startExercise);
+
+      // Change type button
+      document.getElementById('change-type-btn').addEventListener('click', () => {
+        document.getElementById('results-section').style.display = 'none';
+        document.getElementById('start-section').style.display = 'block';
+      });
+
+      // Theory toggle
+      document.getElementById('theory-toggle').addEventListener('click', () => {
+        const content = document.getElementById('theory-content');
+        const icon = document.getElementById('theory-icon');
+        content.classList.toggle('theory-panel__content--expanded');
+        icon.textContent = content.classList.contains('theory-panel__content--expanded') ? '▲' : '▼';
+      });
+    }
+
+    // Update start section
+    function updateStartSection() {
+      const config = EXERCISE_TYPE_CONFIG[currentType];
+      document.getElementById('exercise-type-title').textContent = config.title;
+
+      const filteredExercises = getFilteredExercises();
+      const count = filteredExercises.length;
+
+      document.getElementById('exercise-count-info').textContent =
+        `${config.description} - ${count} câu hỏi`;
+
+      document.getElementById('start-btn').disabled = count === 0;
+    }
+
+    // Get filtered exercises
+    function getFilteredExercises() {
+      const topic = document.getElementById('topic-filter').value;
+      const difficulty = document.getElementById('difficulty-filter').value;
+
+      let exercises = [];
+
+      if (currentType === 'multiStructure') {
+        // Flatten multiStructure into individual questions
+        exerciseData.exercises.multiStructure?.forEach(item => {
+          item.transformations.forEach((trans, idx) => {
+            exercises.push({
+              id: `${item.id}-${idx}`,
+              type: 'multiStructure',
+              topic: item.topic,
+              difficulty: item.difficulty,
+              baseVietnamese: item.baseVietnamese,
+              baseEnglish: item.baseEnglish,
+              structureName: trans.structureName,
+              formula: trans.formula,
+              hint: trans.hint,
+              answer: trans.answer,
+              acceptedAnswers: trans.acceptedAnswers
+            });
+          });
+        });
+      } else {
+        exercises = exerciseData.exercises[currentType] || [];
+      }
+
+      // Apply filters
+      if (topic !== 'all') {
+        exercises = exercises.filter(e => e.topic === topic);
+      }
+      if (difficulty !== 'all') {
+        exercises = exercises.filter(e => e.difficulty === difficulty);
+      }
+
+      return exercises;
+    }
+
+    // Transform exercise for handler
+    function transformExercise(exercise, index) {
+      const transformed = {
+        id: index + 1,
+        type: getHandlerType(currentType),
+        hints: exercise.hint ? [exercise.hint] : [],
+        acceptedAnswers: exercise.acceptedAnswers || [exercise.answer]
+      };
+
+      switch (currentType) {
+        case 'wordArrange':
+          transformed.shuffledWords = exercise.words;
+          transformed.correctSentence = exercise.answer;
+          transformed.instruction = `Sắp xếp các từ thành câu đúng`;
+          transformed.vietnamese = exercise.vietnamese;
+          break;
+
+        case 'fillOneWord':
+          transformed.question = exercise.sentence;
+          transformed.answer = exercise.answer;
+          transformed.vietnamese = exercise.vietnamese;
+          break;
+
+        case 'sentenceTransform':
+          transformed.original = exercise.original;
+          transformed.instruction = exercise.instruction;
+          transformed.answer = exercise.answer;
+          transformed.starterText = exercise.hint || '';
+          transformed.vietnamese = exercise.vietnamese;
+          break;
+
+        case 'multiStructure':
+          transformed.question = `<div class="multi-context">
+            <div class="base-sentence">${exercise.baseEnglish}</div>
+            <div class="base-vi">${exercise.baseVietnamese}</div>
+            <div class="structure-target">➤ Viết theo cấu trúc: <strong>${exercise.structureName}</strong></div>
+          </div>
+          <p style="margin-top: 0.5rem;"><em>Formula: ${exercise.formula}</em></p>`;
+          transformed.answer = exercise.answer;
+          break;
+      }
+
+      return transformed;
+    }
+
+    // Get handler type
+    function getHandlerType(type) {
+      const mapping = {
+        wordArrange: 'word-rearrange',
+        fillOneWord: 'fill-blank',
+        sentenceTransform: 'sentence-rewrite',
+        multiStructure: 'fill-blank'
+      };
+      return mapping[type] || 'fill-blank';
+    }
+
+    // Start exercise
+    function startExercise() {
+      currentExercises = getFilteredExercises();
+      if (currentExercises.length === 0) return;
+
+      // Shuffle exercises
+      currentExercises = Utils.shuffleArray([...currentExercises]);
+
+      // Reset state
+      currentIndex = 0;
+      score = 0;
+      correctCount = 0;
+      comboCount = 0;
+
+      // Update UI
+      document.getElementById('start-section').style.display = 'none';
+      document.getElementById('results-section').style.display = 'none';
+      document.getElementById('exercise-container').style.display = 'block';
+
+      updateProgress();
+      renderCurrentExercise();
+    }
+
+    // Render current exercise
+    function renderCurrentExercise() {
+      if (currentIndex >= currentExercises.length) {
+        showResults();
+        return;
+      }
+
+      const exercise = currentExercises[currentIndex];
+      const transformed = transformExercise(exercise, currentIndex);
+      const container = document.getElementById('exercise-container');
+      const handlerType = getHandlerType(currentType);
+      const handler = GameEngine.exerciseHandlers[handlerType];
+
+      if (!handler) {
+        container.innerHTML = '<p style="color: var(--danger);">Lỗi: Không tìm thấy handler.</p>';
+        return;
+      }
+
+      // Add Vietnamese context if available
+      let contextHtml = '';
+      if (exercise.vietnamese && currentType !== 'multiStructure') {
+        contextHtml = `
+          <div class="vietnamese-context">
+            <div class="label">Nghĩa tiếng Việt:</div>
+            <div class="text">${exercise.vietnamese}</div>
+          </div>
+        `;
+      }
+
+      container.innerHTML = contextHtml;
+      const exerciseDiv = document.createElement('div');
+      container.appendChild(exerciseDiv);
+
+      handler.render(transformed, exerciseDiv, {
+        onAnswer: (userAnswer) => handleAnswer(userAnswer, transformed, handler, exerciseDiv),
+        onHint: () => showHint(transformed)
+      });
+    }
+
+    // Handle answer
+    function handleAnswer(userAnswer, question, handler, container) {
+      const isCorrect = handler.validate(userAnswer, question);
+
+      if (isCorrect) {
+        correctCount++;
+        comboCount++;
+        score += 10 + (comboCount > 1 ? Math.floor(comboCount * 1.5) : 0);
+      } else {
+        comboCount = 0;
+      }
+
+      handler.showFeedback(container, isCorrect, question);
+      updateProgress();
+      updateCombo();
+
+      // Auto advance after delay
+      setTimeout(() => {
+        currentIndex++;
+        renderCurrentExercise();
+      }, isCorrect ? 1500 : 2500);
+    }
+
+    // Show hint
+    function showHint(question) {
+      if (question.hints && question.hints.length > 0) {
+        Utils.showToast(question.hints[0], 'info');
+        score = Math.max(0, score - 2);
+        updateProgress();
+      }
+    }
+
+    // Update progress
+    function updateProgress() {
+      const total = currentExercises.length;
+      const progress = total > 0 ? (currentIndex / total) * 100 : 0;
+
+      document.getElementById('progress-bar').style.width = `${progress}%`;
+      document.getElementById('progress-count').textContent = `${currentIndex} / ${total}`;
+      document.getElementById('current-score').textContent = score;
+    }
+
+    // Update combo display
+    function updateCombo() {
+      const comboDisplay = document.getElementById('combo-display');
+      const comboCountEl = document.getElementById('combo-count');
+
+      if (comboCount > 1) {
+        comboDisplay.style.display = 'block';
+        comboCountEl.textContent = `🔥 ${comboCount}`;
+      } else {
+        comboDisplay.style.display = 'none';
+      }
+    }
+
+    // Show results
+    function showResults() {
+      document.getElementById('exercise-container').style.display = 'none';
+      document.getElementById('results-section').style.display = 'block';
+
+      const total = currentExercises.length;
+      const accuracy = total > 0 ? Math.round((correctCount / total) * 100) : 0;
+
+      document.getElementById('result-score').textContent = score;
+      document.getElementById('result-correct').textContent = `${correctCount}/${total}`;
+      document.getElementById('result-accuracy').textContent = `${accuracy}%`;
+
+      // Save to storage
+      Storage.saveProgress(UNIT_ID, {
+        score,
+        correct: correctCount,
+        total,
+        type: currentType,
+        lastPlayed: new Date().toISOString()
+      });
+    }
+
+    // Initialize
+    loadData();
+  </script>
+</body>
+</html>

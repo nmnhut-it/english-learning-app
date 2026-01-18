@@ -1,0 +1,2324 @@
+{
+  "unitId": "unit-3-carnival",
+  "title": "Unit 3: Carnival - Comparatives & Superlatives",
+  "subtitle": "Learn comparative and superlative adjectives, plus too and enough",
+  "grammarTopics": [
+    "Comparative Adjectives",
+    "Superlative Adjectives",
+    "As...as comparisons",
+    "Too and Enough"
+  ],
+  "theory": {
+    "sections": [
+      {
+        "title": "Comparative Adjectives",
+        "content": "Use comparative adjectives to compare two people or things. Short adjectives (1-2 syllables): add -er + than. Long adjectives (3+ syllables): use more + adjective + than.",
+        "examples": [
+          "tall → taller than",
+          "happy → happier than",
+          "expensive → more expensive than"
+        ]
+      },
+      {
+        "title": "Superlative Adjectives",
+        "content": "Use superlative adjectives to compare one person or thing with a whole group. Short adjectives: the + adjective + -est. Long adjectives: the most + adjective.",
+        "examples": [
+          "tall → the tallest",
+          "happy → the happiest",
+          "expensive → the most expensive"
+        ]
+      },
+      {
+        "title": "Too and Enough",
+        "content": "TOO = more than necessary (negative meaning). ENOUGH = sufficient amount (positive meaning). Position: too + adjective, but adjective + enough.",
+        "examples": [
+          "This coffee is too hot. (I can't drink it)",
+          "Are you tall enough to reach the shelf?"
+        ]
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "id": 1,
+      "question": "tall → _____",
+      "options": ["taller", "more tall", "tallest", "most tall"],
+      "correctIndex": 0,
+      "explanation": "Tính từ ngắn (1 âm tiết) thêm -er cho so sánh hơn",
+      "hints": ["Tính từ ngắn thêm -er"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 2,
+      "question": "tall → the _____",
+      "options": ["tallest", "most tall", "taller", "more tall"],
+      "correctIndex": 0,
+      "explanation": "Tính từ ngắn thêm -est cho so sánh nhất",
+      "hints": ["the + tính từ ngắn + -est"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 3,
+      "question": "happy → _____",
+      "options": ["happier", "more happy", "happyer", "more happier"],
+      "correctIndex": 0,
+      "explanation": "Tính từ kết thúc bằng 'y', đổi y thành i rồi thêm -er",
+      "hints": ["y → i + er"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 4,
+      "question": "happy → the _____",
+      "options": ["happiest", "most happy", "happyest", "most happiest"],
+      "correctIndex": 0,
+      "explanation": "Đổi y thành i rồi thêm -est",
+      "hints": ["y → i + est"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 5,
+      "question": "expensive → _____",
+      "options": ["more expensive", "expensiver", "most expensive", "expensivest"],
+      "correctIndex": 0,
+      "explanation": "Tính từ dài (3+ âm tiết) dùng more + tính từ",
+      "hints": ["Tính từ dài dùng 'more'"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 6,
+      "question": "expensive → the _____",
+      "options": ["most expensive", "expensivest", "more expensive", "expensiver"],
+      "correctIndex": 0,
+      "explanation": "Tính từ dài dùng the most + tính từ",
+      "hints": ["the most + tính từ dài"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 7,
+      "question": "good → _____",
+      "options": ["better", "gooder", "more good", "best"],
+      "correctIndex": 0,
+      "explanation": "good-better-best là dạng bất quy tắc",
+      "hints": ["Dạng bất quy tắc"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 8,
+      "question": "good → the _____",
+      "options": ["best", "goodest", "most good", "better"],
+      "correctIndex": 0,
+      "explanation": "good-better-best",
+      "hints": ["Bất quy tắc: the best"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 9,
+      "question": "hot → _____",
+      "options": ["hotter", "hoter", "more hot", "hottest"],
+      "correctIndex": 0,
+      "explanation": "Tính từ 1 âm tiết kết thúc bằng 1 phụ âm: nhân đôi phụ âm + er",
+      "hints": ["Nhân đôi phụ âm cuối + er"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 10,
+      "question": "hot → the _____",
+      "options": ["hottest", "hotest", "most hot", "hotter"],
+      "correctIndex": 0,
+      "explanation": "Nhân đôi phụ âm cuối + est",
+      "hints": ["Nhân đôi + est"],
+      "points": 10
+    },
+    {
+      "type": "word-rearrange",
+      "id": 11,
+      "instruction": "Sắp xếp các từ để tạo câu so sánh hơn",
+      "words": ["Mount", "Everest", "is", "higher", "than", "Mount", "Fuji."],
+      "distractors": ["high", "highest", "more"],
+      "correctSentence": "Mount Everest is higher than Mount Fuji.",
+      "acceptedAnswers": [
+        "Mount Everest is higher than Mount Fuji",
+        "Mount Everest is higher than Mount Fuji."
+      ],
+      "hints": [
+        "Dùng dạng so sánh hơn của 'high'",
+        "Đừng quên 'than'"
+      ],
+      "points": 10
+    },
+    {
+      "type": "word-rearrange",
+      "id": 12,
+      "instruction": "Sắp xếp các từ để tạo câu so sánh hơn",
+      "words": ["A", "car", "is", "faster", "than", "a", "bicycle."],
+      "distractors": ["fast", "fastest", "more"],
+      "correctSentence": "A car is faster than a bicycle.",
+      "acceptedAnswers": [
+        "A car is faster than a bicycle",
+        "A car is faster than a bicycle."
+      ],
+      "hints": ["Dùng dạng so sánh hơn của 'fast'"],
+      "points": 10
+    },
+    {
+      "type": "word-rearrange",
+      "id": 13,
+      "instruction": "Sắp xếp các từ để tạo câu so sánh nhất",
+      "words": ["The", "blue", "whale", "is", "the", "largest", "animal", "in", "the", "world."],
+      "distractors": ["large", "larger", "most"],
+      "correctSentence": "The blue whale is the largest animal in the world.",
+      "acceptedAnswers": [
+        "The blue whale is the largest animal in the world",
+        "The blue whale is the largest animal in the world."
+      ],
+      "hints": [
+        "Dùng dạng so sánh nhất của 'large'",
+        "Đừng quên 'the' trước dạng so sánh nhất"
+      ],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 14,
+      "question": "A tiger is _____ a lion.",
+      "options": ["as dangerous as", "more dangerous", "dangerouser than", "the most dangerous"],
+      "correctIndex": 0,
+      "explanation": "Dùng cấu trúc 'as...as' cho so sánh bằng",
+      "hints": ["So sánh bằng: as...as"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 15,
+      "question": "Coffee is _____ tea in England.",
+      "options": ["not as popular as", "more popular as", "popular than", "as popular"],
+      "correctIndex": 0,
+      "explanation": "Trà phổ biến hơn cà phê ở Anh, dùng 'not as...as'",
+      "hints": ["So sánh không bằng: not as...as"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 16,
+      "question": "This exercise is _____ than the last one.",
+      "options": ["easier", "the easiest", "more easy", "most easy"],
+      "correctIndex": 0,
+      "explanation": "Dùng dạng so sánh hơn 'easier' với 'than'. 'Easy' là tính từ ngắn.",
+      "hints": ["Tìm từ 'than' trong câu - đây là dấu hiệu của so sánh hơn"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 17,
+      "question": "She is _____ girl in the school.",
+      "options": ["the most intelligent", "more intelligent", "intelligenter", "most intelligent"],
+      "correctIndex": 0,
+      "explanation": "Dùng dạng so sánh nhất 'the most intelligent' khi so sánh với cả nhóm ('in the school').",
+      "hints": ["So sánh với cả nhóm cần dùng so sánh nhất", "Đừng quên 'the'"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 18,
+      "question": "This coffee is _____ hot to drink.",
+      "options": ["too", "very", "enough", "so"],
+      "correctIndex": 0,
+      "explanation": "Cấu trúc 'too + adjective + to + verb' nghĩa là quá... để làm gì đó",
+      "hints": ["Cấu trúc: too + adj + to + V"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 19,
+      "question": "Are you tall _____ to reach the top shelf?",
+      "options": ["enough", "too", "very", "so"],
+      "correctIndex": 0,
+      "explanation": "Enough = đủ. Enough đứng SAU tính từ",
+      "hints": ["Enough đứng SAU tính từ"],
+      "points": 10
+    },
+    {
+      "type": "word-rearrange",
+      "id": 20,
+      "instruction": "Sắp xếp các từ để viết lại câu sử dụng 'too'",
+      "words": ["The", "shoes", "are", "too", "small", "for", "me", "to", "wear."],
+      "distractors": ["very", "enough", "can't"],
+      "correctSentence": "The shoes are too small for me to wear.",
+      "acceptedAnswers": [
+        "The shoes are too small for me to wear",
+        "The shoes are too small for me to wear.",
+        "The shoes are too small to wear",
+        "The shoes are too small to wear."
+      ],
+      "hints": [
+        "Cấu trúc: too + tính từ + to + động từ",
+        "Too chỉ điều gì đó quá mức cần thiết"
+      ],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 21,
+      "question": "Sarah is _____ her sister, but Maria is _____ girl in the class.",
+      "options": ["taller than, the tallest", "tall than, tallest", "taller, the taller", "more tall, most tall"],
+      "correctIndex": 0,
+      "explanation": "Chỗ trống 1: so sánh hai người (Sarah và chị/em gái) - dùng so sánh hơn. Chỗ trống 2: so sánh với cả lớp - dùng so sánh nhất",
+      "hints": [
+        "Chỗ trống 1: so sánh hơn (taller than)",
+        "Chỗ trống 2: so sánh nhất (the tallest)"
+      ],
+      "points": 15
+    },
+    {
+      "type": "multiple-choice",
+      "id": 22,
+      "question": "She is more tall than her brother.",
+      "options": ["She is taller than her brother.", "She is the tallest than her brother.", "She is more taller than her brother.", "She is most tall than her brother."],
+      "correctIndex": 0,
+      "explanation": "'Tall' là tính từ ngắn (1 âm tiết), nên dùng dạng -er, không dùng 'more'.",
+      "hints": [
+        "Kiểm tra dạng tính từ - ngắn hay dài?",
+        "Tính từ ngắn không dùng 'more'"
+      ],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 23,
+      "question": "This is the most cheap restaurant in town.",
+      "options": ["This is the cheapest restaurant in town.", "This is the cheaper restaurant in town.", "This is the most cheaper restaurant in town.", "This is cheap restaurant in town."],
+      "correctIndex": 0,
+      "explanation": "'Cheap' là tính từ ngắn, nên dùng dạng -est, không dùng 'most'.",
+      "hints": ["Tính từ ngắn không dùng 'most'"],
+      "points": 10
+    },
+    {
+      "type": "word-rearrange",
+      "id": 24,
+      "instruction": "Dịch câu tiếng Việt sang tiếng Anh",
+      "words": ["This", "shirt", "is", "too", "small", "for", "me."],
+      "distractors": ["very", "enough", "dress"],
+      "correctSentence": "This shirt is too small for me.",
+      "acceptedAnswers": [
+        "This shirt is too small for me",
+        "This shirt is too small for me.",
+        "This dress is too small for me",
+        "This dress is too small for me.",
+        "This shirt's too small for me",
+        "This shirt's too small for me."
+      ],
+      "hints": [
+        "Dùng 'too' + tính từ",
+        "'Chiếc áo' có thể là 'shirt' hoặc 'dress'"
+      ],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 25,
+      "question": "This room is _____ than my bedroom.",
+      "options": ["bigger", "more big", "the biggest", "biggest"],
+      "correctIndex": 0,
+      "explanation": "So sánh 2 phòng, dùng so sánh hơn với tính từ ngắn",
+      "hints": ["So sánh 2 đối tượng dùng so sánh hơn"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 26,
+      "question": "Winter is _____ season of the year.",
+      "options": ["the coldest", "colder", "more cold", "the most cold"],
+      "correctIndex": 0,
+      "explanation": "So sánh với tất cả các mùa, dùng so sánh nhất",
+      "hints": ["Đừng quên 'the' với so sánh nhất"],
+      "points": 10
+    },
+    {
+      "type": "word-rearrange",
+      "id": 27,
+      "instruction": "Sắp xếp các từ để tạo câu hoàn chỉnh",
+      "words": ["This", "test", "is", "more", "difficult", "than", "the", "last", "one."],
+      "distractors": ["difficulter", "most", "difficultiest"],
+      "correctSentence": "This test is more difficult than the last one.",
+      "acceptedAnswers": [
+        "This test is more difficult than the last one",
+        "This test is more difficult than the last one."
+      ],
+      "hints": ["Tính từ dài dùng 'more'"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 28,
+      "question": "My house is _____ from school than yours.",
+      "options": ["farther", "more far", "farthest", "the farthest"],
+      "correctIndex": 0,
+      "explanation": "Far là tính từ bất quy tắc: far-farther-farthest",
+      "hints": ["Dạng bất quy tắc của 'far'"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 29,
+      "question": "She is _____ student in our class.",
+      "options": ["the best", "better", "gooder", "the goodest"],
+      "correctIndex": 0,
+      "explanation": "Good là dạng bất quy tắc: good-better-the best",
+      "hints": ["Dạng so sánh nhất của 'good'"],
+      "points": 10
+    },
+    {
+      "type": "word-rearrange",
+      "id": 30,
+      "instruction": "Sắp xếp các từ thành câu đúng",
+      "words": ["My", "sister", "is", "as", "smart", "as", "me."],
+      "distractors": ["smarter", "smartest", "more"],
+      "correctSentence": "My sister is as smart as me.",
+      "acceptedAnswers": [
+        "My sister is as smart as me",
+        "My sister is as smart as me."
+      ],
+      "hints": ["So sánh bằng dùng as...as"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 31,
+      "question": "This bag is _____ heavy. I can't carry it.",
+      "options": ["too", "very", "enough", "not"],
+      "correctIndex": 0,
+      "explanation": "'Too' = quá mức, không thể làm được",
+      "hints": ["Nghĩa phủ định, không thể carry"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 32,
+      "question": "Is this ladder long _____ to reach the roof?",
+      "options": ["enough", "too", "very", "so"],
+      "correctIndex": 0,
+      "explanation": "Enough đứng sau tính từ, nghĩa là 'đủ'",
+      "hints": ["Tính từ + enough"],
+      "points": 10
+    },
+    {
+      "type": "word-rearrange",
+      "id": 33,
+      "instruction": "Sắp xếp thành câu hoàn chỉnh",
+      "words": ["The", "Nile", "is", "the", "longest", "river", "in", "the", "world."],
+      "distractors": ["long", "longer", "most"],
+      "correctSentence": "The Nile is the longest river in the world.",
+      "acceptedAnswers": [
+        "The Nile is the longest river in the world",
+        "The Nile is the longest river in the world.",
+        "The Nile river is the longest in the world",
+        "The Nile river is the longest in the world.",
+        "The longest river in the world is the Nile",
+        "The longest river in the world is the Nile.",
+        "The Nile is the longest in the world",
+        "The Nile is the longest in the world."
+      ],
+      "hints": ["Dùng so sánh nhất"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 34,
+      "question": "Today is _____ than yesterday.",
+      "options": ["hotter", "hoter", "more hot", "the hottest"],
+      "correctIndex": 0,
+      "explanation": "Hot là tính từ ngắn, nhân đôi 't' rồi thêm -er",
+      "hints": ["Nhân đôi phụ âm cuối"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 35,
+      "question": "An elephant is _____ than a mouse.",
+      "options": ["bigger", "more big", "biger", "the biggest"],
+      "correctIndex": 0,
+      "explanation": "Big nhân đôi 'g' rồi thêm -er",
+      "hints": ["Nhân đôi phụ âm"],
+      "points": 10
+    },
+    {
+      "type": "word-rearrange",
+      "id": 36,
+      "instruction": "Sắp xếp thành câu đúng",
+      "words": ["This", "movie", "is", "more", "interesting", "than", "that", "one."],
+      "distractors": ["interestinger", "most", "interestingest"],
+      "correctSentence": "This movie is more interesting than that one.",
+      "acceptedAnswers": [
+        "This movie is more interesting than that one",
+        "This movie is more interesting than that one."
+      ],
+      "hints": ["Tính từ dài dùng 'more'"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 37,
+      "question": "She is _____ person I have ever met.",
+      "options": ["the kindest", "kinder", "more kind", "the most kind"],
+      "correctIndex": 0,
+      "explanation": "Kind là tính từ ngắn, dùng -est",
+      "hints": ["So sánh với tất cả mọi người từng gặp"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 38,
+      "question": "Gold is _____ than silver.",
+      "options": ["more expensive", "expensiver", "the most expensive", "most expensive"],
+      "correctIndex": 0,
+      "explanation": "Expensive là tính từ dài, dùng 'more'",
+      "hints": ["Tính từ dài dùng 'more'"],
+      "points": 10
+    },
+    {
+      "type": "word-rearrange",
+      "id": 39,
+      "instruction": "Sắp xếp thành câu hoàn chỉnh",
+      "words": ["This", "book", "is", "as", "thick", "as", "that", "one."],
+      "distractors": ["thicker", "thickest", "more"],
+      "correctSentence": "This book is as thick as that one.",
+      "acceptedAnswers": [
+        "This book is as thick as that one",
+        "This book is as thick as that one."
+      ],
+      "hints": ["So sánh bằng"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 40,
+      "question": "This computer is _____ modern than mine.",
+      "options": ["more", "most", "moderner", "the most"],
+      "correctIndex": 0,
+      "explanation": "Modern là tính từ dài, dùng 'more modern than'",
+      "hints": ["Tính từ dài + than"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 41,
+      "question": "Mount Everest is _____ mountain in the world.",
+      "options": ["the highest", "higher", "more high", "the most high"],
+      "correctIndex": 0,
+      "explanation": "High là tính từ ngắn, dùng -est",
+      "hints": ["So sánh với tất cả núi trên thế giới"],
+      "points": 10
+    },
+    {
+      "type": "word-rearrange",
+      "id": 42,
+      "instruction": "Sắp xếp thành câu đúng",
+      "words": ["A", "snail", "is", "slower", "than", "a", "rabbit."],
+      "distractors": ["slow", "slowest", "more"],
+      "correctSentence": "A snail is slower than a rabbit.",
+      "acceptedAnswers": [
+        "A snail is slower than a rabbit",
+        "A snail is slower than a rabbit."
+      ],
+      "hints": ["So sánh hơn của slow"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 43,
+      "question": "The weather today is _____ than yesterday.",
+      "options": ["worse", "badder", "more bad", "the worst"],
+      "correctIndex": 0,
+      "explanation": "Bad là dạng bất quy tắc: bad-worse-the worst",
+      "hints": ["Dạng bất quy tắc"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 44,
+      "question": "This is _____ restaurant in town.",
+      "options": ["the most expensive", "more expensive", "expensivest", "most expensive"],
+      "correctIndex": 0,
+      "explanation": "Tính từ dài dùng 'the most', đừng quên 'the'",
+      "hints": ["Đừng quên 'the'"],
+      "points": 10
+    },
+    {
+      "type": "word-rearrange",
+      "id": 45,
+      "instruction": "Sắp xếp thành câu hoàn chỉnh",
+      "words": ["She", "is", "more", "beautiful", "than", "her", "sister."],
+      "distractors": ["beautifuler", "most", "beautifulest"],
+      "correctSentence": "She is more beautiful than her sister.",
+      "acceptedAnswers": [
+        "She is more beautiful than her sister",
+        "She is more beautiful than her sister."
+      ],
+      "hints": ["Tính từ dài"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 46,
+      "question": "This exercise is _____ for me. I can do it.",
+      "options": ["easy enough", "too easy", "enough easy", "easy too"],
+      "correctIndex": 0,
+      "explanation": "Tích cực, làm được → dùng enough. Enough đứng SAU tính từ",
+      "hints": ["Tính từ + enough"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 47,
+      "question": "I'm _____ tired. I need to rest.",
+      "options": ["too", "enough", "very", "so"],
+      "correctIndex": 0,
+      "explanation": "Quá mức, cần nghỉ → dùng too",
+      "hints": ["Nghĩa phủ định"],
+      "points": 10
+    },
+    {
+      "type": "word-rearrange",
+      "id": 48,
+      "instruction": "Sắp xếp thành câu đúng",
+      "words": ["The", "red", "dress", "is", "prettier", "than", "the", "blue", "one."],
+      "distractors": ["pretty", "prettiest", "more"],
+      "correctSentence": "The red dress is prettier than the blue one.",
+      "acceptedAnswers": [
+        "The red dress is prettier than the blue one",
+        "The red dress is prettier than the blue one."
+      ],
+      "hints": ["Pretty → prettier"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 49,
+      "question": "A cheetah is _____ land animal.",
+      "options": ["the fastest", "faster", "more fast", "the most fast"],
+      "correctIndex": 0,
+      "explanation": "So sánh với tất cả động vật trên cạn",
+      "hints": ["So sánh nhất"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 50,
+      "question": "This book is _____ interesting _____ that one.",
+      "options": ["as, as", "more, than", "the most, in", "so, as"],
+      "correctIndex": 0,
+      "explanation": "So sánh bằng nhau dùng as...as",
+      "hints": ["So sánh bằng"],
+      "points": 10
+    },
+    {
+      "type": "word-rearrange",
+      "id": 51,
+      "instruction": "Sắp xếp thành câu hoàn chỉnh",
+      "words": ["This", "is", "the", "worst", "day", "of", "my", "life."],
+      "distractors": ["bad", "worse", "baddest"],
+      "correctSentence": "This is the worst day of my life.",
+      "acceptedAnswers": [
+        "This is the worst day of my life",
+        "This is the worst day of my life.",
+        "This day is the worst of my life",
+        "This day is the worst of my life.",
+        "The worst day of my life is this",
+        "The worst day of my life is this."
+      ],
+      "hints": ["Dạng bất quy tắc của bad"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 52,
+      "question": "My brother is _____ than me.",
+      "options": ["younger", "more young", "the youngest", "youngest"],
+      "correctIndex": 0,
+      "explanation": "Young là tính từ ngắn, thêm -er",
+      "hints": ["So sánh 2 người"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 53,
+      "question": "This is _____ car in the showroom.",
+      "options": ["the newest", "newer", "more new", "most new"],
+      "correctIndex": 0,
+      "explanation": "New là tính từ ngắn, dùng -est",
+      "hints": ["So sánh với tất cả xe trong showroom"],
+      "points": 10
+    },
+    {
+      "type": "word-rearrange",
+      "id": 54,
+      "instruction": "Sắp xếp thành câu đúng",
+      "words": ["Winter", "is", "colder", "than", "autumn."],
+      "distractors": ["cold", "coldest", "more"],
+      "correctSentence": "Winter is colder than autumn.",
+      "acceptedAnswers": [
+        "Winter is colder than autumn",
+        "Winter is colder than autumn."
+      ],
+      "hints": ["Cold → colder"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 55,
+      "question": "History is _____ than Math for most students.",
+      "options": ["more interesting", "interestinger", "the most interesting", "interesting"],
+      "correctIndex": 0,
+      "explanation": "Interesting là tính từ dài (4 âm tiết), dùng 'more' + tính từ + 'than'",
+      "hints": ["Tính từ dài dùng 'more'"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 56,
+      "question": "This puzzle is _____ than the previous one.",
+      "options": ["more complicated", "complicateder", "most complicated", "the most complicated"],
+      "correctIndex": 0,
+      "explanation": "Complicated là tính từ dài, dùng more",
+      "hints": ["Tính từ dài"],
+      "points": 10
+    },
+    {
+      "type": "word-rearrange",
+      "id": 57,
+      "instruction": "Sắp xếp thành câu hoàn chỉnh",
+      "words": ["He", "is", "the", "shortest", "boy", "in", "his", "class."],
+      "distractors": ["short", "shorter", "most"],
+      "correctSentence": "He is the shortest boy in his class.",
+      "acceptedAnswers": [
+        "He is the shortest boy in his class",
+        "He is the shortest boy in his class."
+      ],
+      "hints": ["So sánh nhất + in"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 58,
+      "question": "This shelf is _____ high for me to reach.",
+      "options": ["too", "very", "enough", "so"],
+      "correctIndex": 0,
+      "explanation": "Quá cao, không thể với tới được → too",
+      "hints": ["Nghĩa phủ định, không thể reach"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 59,
+      "question": "Are you strong _____ to move this table?",
+      "options": ["enough", "too", "very", "so"],
+      "correctIndex": 0,
+      "explanation": "Đủ mạnh để... → enough",
+      "hints": ["Tính từ + enough"],
+      "points": 10
+    },
+    {
+      "type": "word-rearrange",
+      "id": 60,
+      "instruction": "Sắp xếp thành câu đúng",
+      "words": ["This", "city", "is", "more", "crowded", "than", "my", "hometown."],
+      "distractors": ["crowdeder", "most", "crowdedest"],
+      "correctSentence": "This city is more crowded than my hometown.",
+      "acceptedAnswers": [
+        "This city is more crowded than my hometown",
+        "This city is more crowded than my hometown."
+      ],
+      "hints": ["Tính từ dài"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 61,
+      "question": "Peter is _____ runner in our team.",
+      "options": ["the fastest", "faster", "more fast", "the most fast"],
+      "correctIndex": 0,
+      "explanation": "So sánh với cả đội, dùng so sánh nhất",
+      "hints": ["So sánh nhất"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 62,
+      "question": "Learning English is _____ than I thought.",
+      "options": ["easier", "more easy", "the easiest", "most easy"],
+      "correctIndex": 0,
+      "explanation": "Easy là tính từ ngắn: y → i + er",
+      "hints": ["Easy → easier"],
+      "points": 10
+    },
+    {
+      "type": "word-rearrange",
+      "id": 63,
+      "instruction": "Sắp xếp thành câu hoàn chỉnh",
+      "words": ["The", "Amazon", "is", "the", "widest", "river", "in", "South", "America."],
+      "distractors": ["wide", "wider", "most"],
+      "correctSentence": "The Amazon is the widest river in South America.",
+      "acceptedAnswers": [
+        "The Amazon is the widest river in South America",
+        "The Amazon is the widest river in South America.",
+        "The Amazon river is the widest in South America",
+        "The Amazon river is the widest in South America.",
+        "The widest river in South America is the Amazon",
+        "The widest river in South America is the Amazon.",
+        "The Amazon is the widest in South America",
+        "The Amazon is the widest in South America."
+      ],
+      "hints": ["So sánh nhất"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 64,
+      "question": "This problem is _____ than the last one.",
+      "options": ["simpler", "more simple", "simplest", "the simplest"],
+      "correctIndex": 0,
+      "explanation": "Simple là tính từ ngắn, dùng -er",
+      "hints": ["Tính từ ngắn"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 65,
+      "question": "She speaks English _____ of all the students.",
+      "options": ["the best", "better", "gooder", "more good"],
+      "correctIndex": 0,
+      "explanation": "Dạng bất quy tắc: well-better-the best",
+      "hints": ["Dạng so sánh nhất của good/well"],
+      "points": 10
+    },
+    {
+      "type": "word-rearrange",
+      "id": 66,
+      "instruction": "Sắp xếp thành câu đúng",
+      "words": ["This", "phone", "is", "as", "expensive", "as", "that", "one."],
+      "distractors": ["expensiver", "more", "most"],
+      "correctSentence": "This phone is as expensive as that one.",
+      "acceptedAnswers": [
+        "This phone is as expensive as that one",
+        "This phone is as expensive as that one."
+      ],
+      "hints": ["So sánh bằng"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 67,
+      "question": "Today's exam was _____ than last week's.",
+      "options": ["harder", "more hard", "hardest", "the hardest"],
+      "correctIndex": 0,
+      "explanation": "Hard là tính từ ngắn, dùng -er",
+      "hints": ["Tính từ ngắn + than"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 68,
+      "question": "This is _____ building in the city.",
+      "options": ["the oldest", "older", "more old", "most old"],
+      "correctIndex": 0,
+      "explanation": "So sánh với tất cả tòa nhà trong thành phố",
+      "hints": ["So sánh nhất + in the city"],
+      "points": 10
+    },
+    {
+      "type": "word-rearrange",
+      "id": 69,
+      "instruction": "Sắp xếp thành câu hoàn chỉnh",
+      "words": ["The", "water", "is", "too", "cold", "to", "swim."],
+      "distractors": ["very", "enough", "for"],
+      "correctSentence": "The water is too cold to swim.",
+      "acceptedAnswers": [
+        "The water is too cold to swim",
+        "The water is too cold to swim.",
+        "The water is too cold to swim in",
+        "The water is too cold to swim in."
+      ],
+      "hints": ["too + tính từ + to + động từ"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 70,
+      "question": "A plane is _____ than a train.",
+      "options": ["faster", "more fast", "fastest", "the fastest"],
+      "correctIndex": 0,
+      "explanation": "So sánh 2 phương tiện, dùng so sánh hơn",
+      "hints": ["So sánh 2 đối tượng"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 71,
+      "question": "She is _____ careful driver I know.",
+      "options": ["the most", "more", "carefullest", "the carefullest"],
+      "correctIndex": 0,
+      "explanation": "Careful là tính từ dài, dùng 'the most'",
+      "hints": ["Tính từ dài"],
+      "points": 10
+    },
+    {
+      "type": "word-rearrange",
+      "id": 72,
+      "instruction": "Sắp xếp thành câu đúng",
+      "words": ["My", "room", "is", "cleaner", "than", "yours."],
+      "distractors": ["clean", "cleanest", "more"],
+      "correctSentence": "My room is cleaner than yours.",
+      "acceptedAnswers": [
+        "My room is cleaner than yours",
+        "My room is cleaner than yours."
+      ],
+      "hints": ["Clean → cleaner"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 73,
+      "question": "This road is _____ than the highway.",
+      "options": ["narrower", "more narrow", "narrowest", "the narrowest"],
+      "correctIndex": 0,
+      "explanation": "Narrow là tính từ dài nhưng có thể dùng cả -er hoặc more. Narrower phổ biến hơn",
+      "hints": ["Narrow có thể dùng -er"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 74,
+      "question": "The Pacific is _____ ocean in the world.",
+      "options": ["the largest", "larger", "more large", "most large"],
+      "correctIndex": 0,
+      "explanation": "So sánh với tất cả đại dương",
+      "hints": ["So sánh nhất"],
+      "points": 10
+    },
+    {
+      "type": "word-rearrange",
+      "id": 75,
+      "instruction": "Sắp xếp thành câu hoàn chỉnh",
+      "words": ["He", "is", "old", "enough", "to", "drive", "a", "car."],
+      "distractors": ["too", "very", "so"],
+      "correctSentence": "He is old enough to drive a car.",
+      "acceptedAnswers": [
+        "He is old enough to drive a car",
+        "He is old enough to drive a car."
+      ],
+      "hints": ["Tính từ + enough + to"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 76,
+      "question": "Math is _____ subject for me.",
+      "options": ["the most difficult", "more difficult", "difficultest", "the difficultest"],
+      "correctIndex": 0,
+      "explanation": "So sánh với tất cả môn học",
+      "hints": ["So sánh nhất, tính từ dài"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 77,
+      "question": "This hotel is _____ comfortable _____ the one we stayed last year.",
+      "options": ["as, as", "more, than", "the most, in", "so, than"],
+      "correctIndex": 0,
+      "explanation": "So sánh bằng nhau",
+      "hints": ["So sánh bằng"],
+      "points": 10
+    },
+    {
+      "type": "word-rearrange",
+      "id": 78,
+      "instruction": "Sắp xếp thành câu đúng",
+      "words": ["She", "is", "the", "smartest", "girl", "in", "the", "school"],
+      "distractors": ["smart", "smarter", "most"],
+      "correctSentence": "She is the smartest girl in the school",
+      "acceptedAnswers": [
+        "She is the smartest girl in the school",
+        "She is the smartest girl in the school."
+      ],
+      "hints": ["So sánh nhất"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 79,
+      "question": "This lesson is _____ than the previous one.",
+      "options": ["less difficult", "little difficult", "least difficult", "the least difficult"],
+      "correctIndex": 0,
+      "explanation": "Less + tính từ = ít hơn, kém hơn",
+      "hints": ["Less = ít hơn"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 80,
+      "question": "Diamonds are _____ than glass.",
+      "options": ["harder", "more hard", "hardest", "the hardest"],
+      "correctIndex": 0,
+      "explanation": "Hard là tính từ ngắn",
+      "hints": ["Tính từ ngắn"],
+      "points": 10
+    },
+    {
+      "type": "word-rearrange",
+      "id": 81,
+      "instruction": "Sắp xếp thành câu hoàn chỉnh",
+      "words": ["This", "problem", "is", "too", "hard", "for", "me", "to", "solve"],
+      "distractors": ["very", "enough", "so"],
+      "correctSentence": "This problem is too hard for me to solve",
+      "acceptedAnswers": [
+        "This problem is too hard for me to solve",
+        "This problem is too hard for me to solve."
+      ],
+      "hints": ["too + tính từ + for sb + to + V"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 82,
+      "question": "Your score is _____ than mine.",
+      "options": ["higher", "more high", "highest", "the highest"],
+      "correctIndex": 0,
+      "explanation": "High là tính từ ngắn, dùng -er",
+      "hints": ["Tính từ ngắn"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 83,
+      "question": "This is _____ game I've ever played.",
+      "options": ["the most exciting", "more exciting", "excitingest", "the excitingest"],
+      "correctIndex": 0,
+      "explanation": "Exciting là tính từ dài, dùng 'the most'",
+      "hints": ["Tính từ dài, so sánh nhất"],
+      "points": 10
+    },
+    {
+      "type": "word-rearrange",
+      "id": 84,
+      "instruction": "Sắp xếp thành câu đúng",
+      "words": ["My", "dog", "is", "bigger", "than", "your", "cat"],
+      "distractors": ["big", "biggest", "more"],
+      "correctSentence": "My dog is bigger than your cat",
+      "acceptedAnswers": [
+        "My dog is bigger than your cat",
+        "My dog is bigger than your cat."
+      ],
+      "hints": ["Nhân đôi g + er"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 85,
+      "question": "This chair is _____ for the baby. He might fall.",
+      "options": ["too high", "high enough", "enough high", "very high"],
+      "correctIndex": 0,
+      "explanation": "Quá cao, em bé có thể ngã → nghĩa phủ định, dùng too",
+      "hints": ["Nghĩa phủ định"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 86,
+      "question": "His garden is _____ than ours.",
+      "options": ["more beautiful", "beautifuler", "the most beautiful", "beautifullest"],
+      "correctIndex": 0,
+      "explanation": "Beautiful là tính từ dài, dùng more",
+      "hints": ["Tính từ dài"],
+      "points": 10
+    },
+    {
+      "type": "word-rearrange",
+      "id": 87,
+      "instruction": "Sắp xếp thành câu hoàn chỉnh",
+      "words": ["This", "is", "the", "best", "movie", "I", "have", "ever", "seen"],
+      "distractors": ["good", "better", "goodest"],
+      "correctSentence": "This is the best movie I have ever seen",
+      "acceptedAnswers": [
+        "This is the best movie I have ever seen",
+        "This is the best movie I have ever seen."
+      ],
+      "hints": ["Dạng bất quy tắc của good"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 88,
+      "question": "A motorcycle is _____ than a bicycle but _____ than a car.",
+      "options": ["faster, slower", "more fast, more slow", "fastest, slowest", "the fastest, the slowest"],
+      "correctIndex": 0,
+      "explanation": "So sánh 2 đối tượng, dùng so sánh hơn",
+      "hints": ["So sánh hơn ở cả 2 chỗ trống"],
+      "points": 15
+    },
+    {
+      "type": "multiple-choice",
+      "id": 89,
+      "question": "This test is not _____ difficult _____ the last one.",
+      "options": ["as, as", "more, than", "so, than", "the most, in"],
+      "correctIndex": 0,
+      "explanation": "Not as...as = không bằng",
+      "hints": ["So sánh không bằng"],
+      "points": 10
+    },
+    {
+      "type": "word-rearrange",
+      "id": 90,
+      "instruction": "Sắp xếp thành câu đúng",
+      "words": ["She", "is", "more", "talented", "than", "anyone", "else"],
+      "distractors": ["talenteder", "most", "talentedest"],
+      "correctSentence": "She is more talented than anyone else",
+      "acceptedAnswers": [
+        "She is more talented than anyone else",
+        "She is more talented than anyone else."
+      ],
+      "hints": ["Tính từ dài"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 91,
+      "question": "The blue whale is _____ animal on Earth.",
+      "options": ["the largest", "larger", "more large", "most large"],
+      "correctIndex": 0,
+      "explanation": "So sánh với tất cả động vật trên Trái Đất",
+      "hints": ["So sánh nhất"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 92,
+      "question": "This book is _____ thick for me to finish in one day.",
+      "options": ["too", "enough", "very", "so"],
+      "correctIndex": 0,
+      "explanation": "Quá dày, không thể đọc hết trong 1 ngày",
+      "hints": ["Nghĩa phủ định"],
+      "points": 10
+    },
+    {
+      "type": "word-rearrange",
+      "id": 93,
+      "instruction": "Sắp xếp thành câu hoàn chỉnh",
+      "words": ["She", "swims", "better", "than", "all", "her", "classmates"],
+      "distractors": ["good", "best", "more"],
+      "correctSentence": "She swims better than all her classmates",
+      "acceptedAnswers": [
+        "She swims better than all her classmates",
+        "She swims better than all her classmates."
+      ],
+      "hints": ["Good/well → better"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 94,
+      "question": "The library is _____ down the road than the pharmacy.",
+      "options": ["further", "more far", "furthest", "the furthest"],
+      "correctIndex": 0,
+      "explanation": "Far là dạng bất quy tắc: far-further/farther-furthest/farthest. 'Further' thường dùng cho khoảng cách trừu tượng hơn",
+      "hints": ["Dạng bất quy tắc của 'far'"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 95,
+      "question": "This coffee is not hot _____ to drink.",
+      "options": ["enough", "too", "very", "so"],
+      "correctIndex": 0,
+      "explanation": "Không đủ nóng để uống → not...enough",
+      "hints": ["Không đủ = not...enough"],
+      "points": 10
+    },
+    {
+      "type": "word-rearrange",
+      "id": 96,
+      "instruction": "Sắp xếp thành câu đúng",
+      "words": ["The", "Sahara", "is", "the", "hottest", "desert", "in", "the", "world"],
+      "distractors": ["hot", "hotter", "most"],
+      "correctSentence": "The Sahara is the hottest desert in the world",
+      "acceptedAnswers": [
+        "The Sahara is the hottest desert in the world",
+        "The Sahara is the hottest desert in the world.",
+        "The Sahara desert is the hottest in the world",
+        "The Sahara desert is the hottest in the world.",
+        "The hottest desert in the world is the Sahara",
+        "The hottest desert in the world is the Sahara.",
+        "The Sahara is the hottest in the world",
+        "The Sahara is the hottest in the world."
+      ],
+      "hints": ["Nhân đôi t + est"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 97,
+      "question": "Today is _____ day of my life.",
+      "options": ["the happiest", "happier", "more happy", "most happy"],
+      "correctIndex": 0,
+      "explanation": "So sánh với tất cả các ngày trong đời",
+      "hints": ["So sánh nhất, y → i + est"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 98,
+      "question": "This solution is _____ effective than the previous one.",
+      "options": ["more", "most", "effectiver", "the most"],
+      "correctIndex": 0,
+      "explanation": "Effective là tính từ dài, dùng more",
+      "hints": ["Tính từ dài"],
+      "points": 10
+    },
+    {
+      "type": "word-rearrange",
+      "id": 99,
+      "instruction": "Sắp xếp thành câu hoàn chỉnh",
+      "words": ["This", "question", "is", "easier", "than", "I", "expected"],
+      "distractors": ["easy", "easiest", "more"],
+      "correctSentence": "This question is easier than I expected",
+      "acceptedAnswers": [
+        "This question is easier than I expected",
+        "This question is easier than I expected."
+      ],
+      "hints": ["Easy → easier"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 100,
+      "question": "She is _____ intelligent student in our school.",
+      "options": ["the most", "more", "intelligenter", "the intelligenttest"],
+      "correctIndex": 0,
+      "explanation": "Intelligent là tính từ dài, dùng 'the most'",
+      "hints": ["Tính từ dài, so sánh nhất"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 101,
+      "question": "The sun is _____ than the moon.",
+      "options": ["brighter", "more bright", "brightest", "most bright"],
+      "correctIndex": 0,
+      "explanation": "📚 Từ mới: bright /braɪt/ (adj) = sáng, rực rỡ. Tính từ ngắn 1 âm tiết, thêm -er cho so sánh hơn.",
+      "hints": ["Tính từ ngắn + -er + than"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 102,
+      "question": "This lake is _____ than that river.",
+      "options": ["calmer", "more calm", "calmest", "most calm"],
+      "correctIndex": 0,
+      "explanation": "📚 Từ mới: calm /kɑːm/ (adj) = bình tĩnh, yên lặng | lake /leɪk/ (n) = hồ. Tính từ ngắn 1 âm tiết, thêm -er.",
+      "hints": ["Tính từ ngắn + -er"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 103,
+      "question": "Today is _____ than yesterday.",
+      "options": ["cooler", "more cool", "coolest", "most cool"],
+      "correctIndex": 0,
+      "explanation": "📚 Từ mới: cool /kuːl/ (adj) = mát mẻ, tuyệt vời. Tính từ ngắn, thêm -er cho so sánh hơn.",
+      "hints": ["Tính từ ngắn + -er + than"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 104,
+      "question": "This puppy is _____ than that one.",
+      "options": ["cuter", "more cute", "cutest", "most cute"],
+      "correctIndex": 0,
+      "explanation": "📚 Từ mới: cute /kjuːt/ (adj) = dễ thương | puppy /ˈpʌpi/ (n) = chó con. Tính từ kết thúc bằng -e, chỉ thêm -r.",
+      "hints": ["Tính từ kết thúc bằng -e, thêm -r"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 105,
+      "question": "This room is _____ than the living room.",
+      "options": ["darker", "more dark", "darkest", "most dark"],
+      "correctIndex": 0,
+      "explanation": "📚 Từ mới: dark /dɑːk/ (adj) = tối, đen. Tính từ ngắn 1 âm tiết, thêm -er.",
+      "hints": ["Tính từ ngắn + -er"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 106,
+      "question": "The ocean is _____ than the swimming pool.",
+      "options": ["deeper", "more deep", "deepest", "most deep"],
+      "correctIndex": 0,
+      "explanation": "📚 Từ mới: deep /diːp/ (adj) = sâu | ocean /ˈəʊʃn/ (n) = đại dương. Tính từ ngắn 1 âm tiết, thêm -er cho so sánh hơn.",
+      "hints": ["Tính từ ngắn + -er + than"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 107,
+      "question": "Summer is _____ than winter.",
+      "options": ["drier", "more dry", "driest", "most dry"],
+      "correctIndex": 0,
+      "explanation": "📚 Từ mới: dry /draɪ/ (adj) = khô. Tính từ kết thúc bằng -y, đổi y thành i + er.",
+      "hints": ["y → i + er"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 108,
+      "question": "This bread is _____ than the cake.",
+      "options": ["fresher", "more fresh", "freshest", "most fresh"],
+      "correctIndex": 0,
+      "explanation": "📚 Từ mới: fresh /freʃ/ (adj) = tươi, mát mẻ | bread /bred/ (n) = bánh mì. Tính từ ngắn 1 âm tiết, thêm -er.",
+      "hints": ["Tính từ ngắn + -er"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 109,
+      "question": "This glass is _____ than that one.",
+      "options": ["fuller", "more full", "fullest", "most full"],
+      "correctIndex": 0,
+      "explanation": "📚 Từ mới: full /fʊl/ (adj) = đầy | glass /ɡlɑːs/ (n) = cốc, ly. Tính từ ngắn 1 âm tiết, thêm -er.",
+      "hints": ["Tính từ ngắn + -er + than"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 110,
+      "question": "This mountain is _____ than that hill.",
+      "options": ["greater", "more great", "greatest", "most great"],
+      "correctIndex": 0,
+      "explanation": "📚 Từ mới: great /ɡreɪt/ (adj) = tuyệt vời, vĩ đại | hill /hɪl/ (n) = đồi. Tính từ ngắn, thêm -er.",
+      "hints": ["Tính từ ngắn + -er"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 111,
+      "question": "An airplane is _____ than a bus.",
+      "options": ["huger", "more huge", "the hugest", "most huge"],
+      "correctIndex": 1,
+      "explanation": "📚 Từ mới: huge /hjuːdʒ/ (adj) = khổng lồ | airplane /ˈeəpleɪn/ (n) = máy bay. 'Huge' có thể dùng cả 'huger' và 'more huge', nhưng 'more huge' phổ biến hơn.",
+      "hints": ["'Huge' thường dùng 'more huge'"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 112,
+      "question": "This feather is _____ than that stone.",
+      "options": ["lighter", "more light", "lightest", "most light"],
+      "correctIndex": 0,
+      "explanation": "📚 Từ mới: light /laɪt/ (adj) = nhẹ, sáng | feather /ˈfeðə/ (n) = lông vũ | stone /stəʊn/ (n) = đá. Tính từ ngắn 1 âm tiết, thêm -er.",
+      "hints": ["Tính từ ngắn + -er + than"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 113,
+      "question": "The music is _____ than before.",
+      "options": ["louder", "more loud", "loudest", "most loud"],
+      "correctIndex": 0,
+      "explanation": "📚 Từ mới: loud /laʊd/ (adj) = ồn ào, to. Tính từ ngắn 1 âm tiết, thêm -er.",
+      "hints": ["Tính từ ngắn + -er"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 114,
+      "question": "The price is _____ than I expected.",
+      "options": ["lower", "more low", "lowest", "most low"],
+      "correctIndex": 0,
+      "explanation": "📚 Từ mới: low /ləʊ/ (adj) = thấp | price /praɪs/ (n) = giá. Tính từ ngắn 1 âm tiết, thêm -er cho so sánh hơn.",
+      "hints": ["Tính từ ngắn + -er + than"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 115,
+      "question": "This weather is _____ than last week.",
+      "options": ["milder", "more mild", "mildest", "most mild"],
+      "correctIndex": 0,
+      "explanation": "📚 Từ mới: mild /maɪld/ (adj) = ôn hòa, nhẹ nhàng | weather /ˈweðə/ (n) = thời tiết. Tính từ ngắn 1 âm tiết, thêm -er.",
+      "hints": ["Tính từ ngắn + -er"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 116,
+      "question": "Her room is _____ than mine.",
+      "options": ["neater", "more neat", "neatest", "most neat"],
+      "correctIndex": 0,
+      "explanation": "📚 Từ mới: neat /niːt/ (adj) = gọn gàng, ngăn nắp. Tính từ ngắn 1 âm tiết, thêm -er.",
+      "hints": ["Tính từ ngắn + -er + than"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 117,
+      "question": "He is _____ than his brother.",
+      "options": ["prouder", "more proud", "proudest", "most proud"],
+      "correctIndex": 0,
+      "explanation": "📚 Từ mới: proud /praʊd/ (adj) = tự hào. Tính từ ngắn 1 âm tiết, thêm -er.",
+      "hints": ["Tính từ ngắn + -er"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 118,
+      "question": "A rabbit is _____ than a turtle.",
+      "options": ["quicker", "more quick", "quickest", "most quick"],
+      "correctIndex": 0,
+      "explanation": "📚 Từ mới: quick /kwɪk/ (adj) = nhanh | rabbit /ˈræbɪt/ (n) = con thỏ | turtle /ˈtɜːtl/ (n) = con rùa. Tính từ ngắn 1 âm tiết, thêm -er cho so sánh hơn.",
+      "hints": ["Tính từ ngắn + -er + than"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 119,
+      "question": "The library is _____ than the classroom.",
+      "options": ["quieter", "more quiet", "quietest", "most quiet"],
+      "correctIndex": 0,
+      "explanation": "📚 Từ mới: quiet /ˈkwaɪət/ (adj) = yên tĩnh | library /ˈlaɪbrəri/ (n) = thư viện. Có thể dùng cả 'quieter' và 'more quiet', nhưng 'quieter' phổ biến hơn.",
+      "hints": ["Quiet → quieter"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 120,
+      "question": "Gold is _____ than silver.",
+      "options": ["rarer", "more rare", "rarest", "most rare"],
+      "correctIndex": 0,
+      "explanation": "📚 Từ mới: rare /reə/ (adj) = hiếm, quý | gold /ɡəʊld/ (n) = vàng | silver /ˈsɪlvə/ (n) = bạc. Tính từ kết thúc bằng -e, chỉ thêm -r.",
+      "hints": ["Tính từ + -e → thêm -r"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 121,
+      "question": "This movie is _____ than that one.",
+      "options": ["more amazing", "amazinger", "most amazing", "the amazingest"],
+      "correctIndex": 0,
+      "explanation": "📚 Từ mới: amazing /əˈmeɪzɪŋ/ (adj) = tuyệt vời, đáng kinh ngạc. Tính từ dài (3 âm tiết), dùng more + adj.",
+      "hints": ["Tính từ dài dùng 'more'"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 122,
+      "question": "This sound is _____ than that one.",
+      "options": ["more annoying", "annoyinger", "most annoying", "the annoyingest"],
+      "correctIndex": 0,
+      "explanation": "📚 Từ mới: annoying /əˈnɔɪɪŋ/ (adj) = khó chịu, phiền phức | sound /saʊnd/ (n) = âm thanh. Tính từ dài, dùng more + adj + than.",
+      "hints": ["Tính từ dài dùng 'more'"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 123,
+      "question": "She is _____ than her friend.",
+      "options": ["more attractive", "attractiver", "most attractive", "the attractivest"],
+      "correctIndex": 0,
+      "explanation": "📚 Từ mới: attractive /əˈtræktɪv/ (adj) = hấp dẫn, thu hút. Tính từ dài, dùng more + adj.",
+      "hints": ["Tính từ dài + more"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 124,
+      "question": "This book is _____ than that magazine.",
+      "options": ["more boring", "boringer", "most boring", "the boringest"],
+      "correctIndex": 0,
+      "explanation": "📚 Từ mới: boring /ˈbɔːrɪŋ/ (adj) = nhàm chán | magazine /ˌmæɡəˈziːn/ (n) = tạp chí. Tính từ dài, dùng more + adj + than.",
+      "hints": ["Tính từ dài dùng 'more'"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 125,
+      "question": "Tom is _____ than his sister.",
+      "options": ["more cheerful", "cheerfullest", "most cheerful", "cheerfuller"],
+      "correctIndex": 0,
+      "explanation": "📚 Từ mới: cheerful /ˈtʃɪəfl/ (adj) = vui vẻ, hớn hở. Tính từ dài, dùng more + adj.",
+      "hints": ["Tính từ dài + more + than"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 126,
+      "question": "This sofa is _____ than that chair.",
+      "options": ["more comfortable", "comfortabler", "most comfortable", "comfortablest"],
+      "correctIndex": 0,
+      "explanation": "📚 Từ mới: comfortable /ˈkʌmftəbl/ (adj) = thoải mái | sofa /ˈsəʊfə/ (n) = ghế sofa. Tính từ dài (4 âm tiết), dùng more + adj.",
+      "hints": ["Tính từ dài dùng 'more'"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 127,
+      "question": "She seems _____ than before.",
+      "options": ["more confident", "confidenter", "most confident", "confidentest"],
+      "correctIndex": 0,
+      "explanation": "📚 Từ mới: confident /ˈkɒnfɪdənt/ (adj) = tự tin. Tính từ dài (3 âm tiết), dùng more + adj.",
+      "hints": ["Tính từ dài + more"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 128,
+      "question": "This artist is _____ than that one.",
+      "options": ["more creative", "creativer", "most creative", "creativest"],
+      "correctIndex": 0,
+      "explanation": "📚 Từ mới: creative /kriˈeɪtɪv/ (adj) = sáng tạo | artist /ˈɑːtɪst/ (n) = nghệ sĩ. Tính từ dài, dùng more + adj + than.",
+      "hints": ["Tính từ dài dùng 'more'"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 129,
+      "question": "This cake is _____ than that pie.",
+      "options": ["more delicious", "deliciouser", "most delicious", "deliciousest"],
+      "correctIndex": 0,
+      "explanation": "📚 Từ mới: delicious /dɪˈlɪʃəs/ (adj) = ngon | pie /paɪ/ (n) = bánh nướng. Tính từ dài (4 âm tiết), dùng more + adj.",
+      "hints": ["Tính từ dài + more"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 130,
+      "question": "This story is _____ than that one.",
+      "options": ["more fantastic", "fantasticker", "most fantastic", "fantasticest"],
+      "correctIndex": 0,
+      "explanation": "📚 Từ mới: fantastic /fænˈtæstɪk/ (adj) = tuyệt vời, kỳ diệu. Tính từ dài, dùng more + adj.",
+      "hints": ["Tính từ dài dùng 'more'"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 131,
+      "question": "He is _____ than his brother.",
+      "options": ["more generous", "generouser", "most generous", "generousest"],
+      "correctIndex": 0,
+      "explanation": "📚 Từ mới: generous /ˈdʒenərəs/ (adj) = hào phóng, rộng lượng. Tính từ dài, dùng more + adj.",
+      "hints": ["Tính từ dài + more + than"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 132,
+      "question": "This news is _____ than I thought.",
+      "options": ["more horrible", "horribler", "most horrible", "horriblest"],
+      "correctIndex": 0,
+      "explanation": "📚 Từ mới: horrible /ˈhɒrəbl/ (adj) = kinh khủng, ghê tởm. Tính từ dài, dùng more + adj.",
+      "hints": ["Tính từ dài dùng 'more'"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 133,
+      "question": "This place is _____ than the city.",
+      "options": ["more peaceful", "peacefuller", "most peaceful", "peacefullest"],
+      "correctIndex": 0,
+      "explanation": "📚 Từ mới: peaceful /ˈpiːsfl/ (adj) = yên bình, thanh bình. Tính từ dài, dùng more + adj.",
+      "hints": ["Tính từ dài + more"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 134,
+      "question": "She is _____ than her classmate.",
+      "options": ["more polite", "politer", "most polite", "politest"],
+      "correctIndex": 0,
+      "explanation": "📚 Từ mới: polite /pəˈlaɪt/ (adj) = lịch sự | classmate /ˈklɑːsmeɪt/ (n) = bạn cùng lớp. Có thể dùng cả 'politer' và 'more polite', nhưng 'more polite' phổ biến hơn.",
+      "hints": ["Polite thường dùng 'more polite'"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 135,
+      "question": "This watch is _____ than that ring.",
+      "options": ["more precious", "preciouser", "most precious", "preciousest"],
+      "correctIndex": 0,
+      "explanation": "📚 Từ mới: precious /ˈpreʃəs/ (adj) = quý giá, quý báu. Tính từ dài, dùng more + adj.",
+      "hints": ["Tính từ dài dùng 'more'"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 136,
+      "question": "The stars are _____ at night.",
+      "options": ["the brightest", "brighter", "more bright", "most bright"],
+      "correctIndex": 0,
+      "explanation": "📚 Từ mới: bright /braɪt/ (adj) = sáng, rực rỡ | star /stɑː/ (n) = ngôi sao. So sánh nhất: the + tính từ ngắn + -est.",
+      "hints": ["So sánh nhất: the + adj + -est"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 137,
+      "question": "This is _____ place in the park.",
+      "options": ["the calmest", "calmer", "more calm", "most calm"],
+      "correctIndex": 0,
+      "explanation": "📚 Từ mới: calm /kɑːm/ (adj) = bình tĩnh, yên lặng. So sánh nhất: the + adj + -est.",
+      "hints": ["The + tính từ ngắn + -est"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 138,
+      "question": "December is _____ month of the year.",
+      "options": ["the coolest", "cooler", "more cool", "most cool"],
+      "correctIndex": 0,
+      "explanation": "📚 Từ mới: cool /kuːl/ (adj) = mát mẻ. So sánh nhất: the + adj + -est.",
+      "hints": ["So sánh nhất + of the year"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 139,
+      "question": "That is _____ baby I have ever seen.",
+      "options": ["the cutest", "cuter", "more cute", "most cute"],
+      "correctIndex": 0,
+      "explanation": "📚 Từ mới: cute /kjuːt/ (adj) = dễ thương. So sánh nhất: the + adj + -st (kết thúc bằng -e).",
+      "hints": ["The + adj + -st"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 140,
+      "question": "This is _____ room in the house.",
+      "options": ["the darkest", "darker", "more dark", "most dark"],
+      "correctIndex": 0,
+      "explanation": "📚 Từ mới: dark /dɑːk/ (adj) = tối. So sánh nhất: the + adj + -est.",
+      "hints": ["The + tính từ ngắn + -est"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 141,
+      "question": "The Mariana Trench is _____ place in the ocean.",
+      "options": ["the deepest", "deeper", "more deep", "most deep"],
+      "correctIndex": 0,
+      "explanation": "📚 Từ mới: deep /diːp/ (adj) = sâu | trench /trentʃ/ (n) = rãnh, hào. So sánh nhất: the + adj + -est.",
+      "hints": ["So sánh nhất + in the ocean"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 142,
+      "question": "August is _____ month in Vietnam.",
+      "options": ["the driest", "drier", "more dry", "most dry"],
+      "correctIndex": 0,
+      "explanation": "📚 Từ mới: dry /draɪ/ (adj) = khô. So sánh nhất: đổi y → i + -est.",
+      "hints": ["y → i + -est"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 143,
+      "question": "This is _____ bread in the bakery.",
+      "options": ["the freshest", "fresher", "more fresh", "most fresh"],
+      "correctIndex": 0,
+      "explanation": "📚 Từ mới: fresh /freʃ/ (adj) = tươi | bakery /ˈbeɪkəri/ (n) = tiệm bánh. So sánh nhất: the + adj + -est.",
+      "hints": ["The + tính từ ngắn + -est"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 144,
+      "question": "He is _____ person I know.",
+      "options": ["the proudest", "prouder", "more proud", "most proud"],
+      "correctIndex": 0,
+      "explanation": "📚 Từ mới: proud /praʊd/ (adj) = tự hào. So sánh nhất: the + adj + -est.",
+      "hints": ["So sánh nhất + I know"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 145,
+      "question": "She is _____ runner in the team.",
+      "options": ["the quickest", "quicker", "more quick", "most quick"],
+      "correctIndex": 0,
+      "explanation": "📚 Từ mới: quick /kwɪk/ (adj) = nhanh | runner /ˈrʌnə/ (n) = người chạy. So sánh nhất: the + adj + -est.",
+      "hints": ["The + tính từ ngắn + -est"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 146,
+      "question": "This is _____ library in the city.",
+      "options": ["the quietest", "quieter", "more quiet", "most quiet"],
+      "correctIndex": 0,
+      "explanation": "📚 Từ mới: quiet /ˈkwaɪət/ (adj) = yên tĩnh. So sánh nhất: the + adj + -est.",
+      "hints": ["So sánh nhất + in the city"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 147,
+      "question": "Bill Gates is one of _____ people in the world.",
+      "options": ["the richest", "richer", "more rich", "most rich"],
+      "correctIndex": 0,
+      "explanation": "📚 Từ mới: rich /rɪtʃ/ (adj) = giàu có. So sánh nhất: the + adj + -est.",
+      "hints": ["One of + the + adj + -est"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 148,
+      "question": "This knife is _____ one in the kitchen.",
+      "options": ["the sharpest", "sharper", "more sharp", "most sharp"],
+      "correctIndex": 0,
+      "explanation": "📚 Từ mới: sharp /ʃɑːp/ (adj) = sắc, bén | knife /naɪf/ (n) = con dao. So sánh nhất: the + adj + -est.",
+      "hints": ["The + tính từ ngắn + -est"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 149,
+      "question": "Honey is _____ food in the world.",
+      "options": ["the sweetest", "sweeter", "more sweet", "most sweet"],
+      "correctIndex": 0,
+      "explanation": "📚 Từ mới: sweet /swiːt/ (adj) = ngọt | honey /ˈhʌni/ (n) = mật ong. So sánh nhất: the + adj + -est.",
+      "hints": ["So sánh nhất + in the world"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 150,
+      "question": "She is _____ student in the class.",
+      "options": ["the wisest", "wiser", "more wise", "most wise"],
+      "correctIndex": 0,
+      "explanation": "📚 Từ mới: wise /waɪz/ (adj) = khôn ngoan. So sánh nhất: the + adj + -st (kết thúc bằng -e).",
+      "hints": ["The + adj + -st"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 151,
+      "question": "This is _____ movie I have ever watched.",
+      "options": ["the most amazing", "more amazing", "amazingest", "most amazing"],
+      "correctIndex": 0,
+      "explanation": "📚 Từ mới: amazing /əˈmeɪzɪŋ/ (adj) = tuyệt vời. So sánh nhất tính từ dài: the most + adj.",
+      "hints": ["The most + tính từ dài"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 152,
+      "question": "He is _____ teacher in the school.",
+      "options": ["the most cheerful", "more cheerful", "cheerfullest", "most cheerful"],
+      "correctIndex": 0,
+      "explanation": "📚 Từ mới: cheerful /ˈtʃɪəfl/ (adj) = vui vẻ. So sánh nhất tính từ dài: the most + adj.",
+      "hints": ["The most + tính từ dài"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 153,
+      "question": "This is _____ bed in the hotel.",
+      "options": ["the most comfortable", "more comfortable", "comfortablest", "most comfortable"],
+      "correctIndex": 0,
+      "explanation": "📚 Từ mới: comfortable /ˈkʌmftəbl/ (adj) = thoải mái | hotel /həʊˈtel/ (n) = khách sạn. So sánh nhất: the most + adj.",
+      "hints": ["The most + tính từ dài + in"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 154,
+      "question": "She is _____ person in the group.",
+      "options": ["the most creative", "more creative", "creativest", "most creative"],
+      "correctIndex": 0,
+      "explanation": "📚 Từ mới: creative /kriˈeɪtɪv/ (adj) = sáng tạo. So sánh nhất: the most + adj.",
+      "hints": ["The most + tính từ dài"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 155,
+      "question": "This is _____ cake I have ever eaten.",
+      "options": ["the most delicious", "more delicious", "deliciousest", "most delicious"],
+      "correctIndex": 0,
+      "explanation": "📚 Từ mới: delicious /dɪˈlɪʃəs/ (adj) = ngon. So sánh nhất: the most + adj.",
+      "hints": ["The most + tính từ dài + I have ever"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 156,
+      "question": "He is _____ man I know.",
+      "options": ["the most generous", "more generous", "generousest", "most generous"],
+      "correctIndex": 0,
+      "explanation": "📚 Từ mới: generous /ˈdʒenərəs/ (adj) = hào phóng. So sánh nhất: the most + adj.",
+      "hints": ["The most + tính từ dài"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 157,
+      "question": "This is _____ place in the country.",
+      "options": ["the most peaceful", "more peaceful", "peacefullest", "most peaceful"],
+      "correctIndex": 0,
+      "explanation": "📚 Từ mới: peaceful /ˈpiːsfl/ (adj) = yên bình. So sánh nhất: the most + adj.",
+      "hints": ["The most + tính từ dài + in"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 158,
+      "question": "She is _____ girl in the school.",
+      "options": ["the most polite", "more polite", "politest", "most polite"],
+      "correctIndex": 0,
+      "explanation": "📚 Từ mới: polite /pəˈlaɪt/ (adj) = lịch sự. So sánh nhất: the most + adj.",
+      "hints": ["The most + adj + in"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 159,
+      "question": "This is _____ ring in the shop.",
+      "options": ["the most precious", "more precious", "preciousest", "most precious"],
+      "correctIndex": 0,
+      "explanation": "📚 Từ mới: precious /ˈpreʃəs/ (adj) = quý giá | ring /rɪŋ/ (n) = nhẫn. So sánh nhất: the most + adj.",
+      "hints": ["The most + tính từ dài"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 160,
+      "question": "That was _____ day of my life.",
+      "options": ["the most wonderful", "more wonderful", "wonderfullest", "most wonderful"],
+      "correctIndex": 0,
+      "explanation": "📚 Từ mới: wonderful /ˈwʌndəfl/ (adj) = tuyệt vời. So sánh nhất: the most + adj.",
+      "hints": ["The most + tính từ dài + of"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 161,
+      "question": "This box is _____ heavy for me to carry.",
+      "options": ["too", "enough", "very", "so"],
+      "correctIndex": 0,
+      "explanation": "📚 Từ mới: heavy /ˈhevi/ (adj) = nặng | carry /ˈkæri/ (v) = mang, xách. Cấu trúc: too + adj + (for sb) + to V = quá...để làm gì.",
+      "hints": ["Quá nặng = không thể carry → dùng 'too'"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 162,
+      "question": "The tea is _____ hot to drink right now.",
+      "options": ["too", "enough", "very", "so"],
+      "correctIndex": 0,
+      "explanation": "📚 Từ mới: hot /hɒt/ (adj) = nóng | tea /tiː/ (n) = trà. Cấu trúc: too + adj + to V = quá...để làm gì (nghĩa phủ định).",
+      "hints": ["Too + adj + to + V"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 163,
+      "question": "This question is _____ difficult for young children to answer.",
+      "options": ["too", "enough", "very", "so"],
+      "correctIndex": 0,
+      "explanation": "📚 Từ mới: difficult /ˈdɪfɪkəlt/ (adj) = khó. Cấu trúc: too + adj + for sb + to V = quá...để ai đó làm gì.",
+      "hints": ["Too + adj + for sb + to V"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 164,
+      "question": "The music is _____ loud. I can't concentrate.",
+      "options": ["too", "enough", "very", "so"],
+      "correctIndex": 0,
+      "explanation": "📚 Từ mới: loud /laʊd/ (adj) = ồn ào | concentrate /ˈkɒnsntreɪt/ (v) = tập trung. Too = quá mức (nghĩa tiêu cực).",
+      "hints": ["Không thể concentrate → nghĩa tiêu cực → 'too'"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 165,
+      "question": "This shirt is _____ tight. I need a bigger size.",
+      "options": ["too", "enough", "very", "so"],
+      "correctIndex": 0,
+      "explanation": "📚 Từ mới: tight /taɪt/ (adj) = chật. Too = quá mức. Áo quá chật nên cần size lớn hơn.",
+      "hints": ["Cần size lớn hơn → áo quá chật → 'too'"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 166,
+      "question": "Is this rope long _____ to reach the ground?",
+      "options": ["enough", "too", "very", "so"],
+      "correctIndex": 0,
+      "explanation": "📚 Từ mới: rope /rəʊp/ (n) = dây thừng | reach /riːtʃ/ (v) = với tới. Cấu trúc: adj + enough + to V = đủ...để làm gì.",
+      "hints": ["Adj + enough + to V"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 167,
+      "question": "He is smart _____ to solve this problem.",
+      "options": ["enough", "too", "very", "so"],
+      "correctIndex": 0,
+      "explanation": "📚 Từ mới: smart /smɑːt/ (adj) = thông minh | solve /sɒlv/ (v) = giải quyết. Cấu trúc: adj + enough + to V.",
+      "hints": ["Adj + enough + to V"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 168,
+      "question": "The water is warm _____ to swim.",
+      "options": ["enough", "too", "very", "so"],
+      "correctIndex": 0,
+      "explanation": "📚 Từ mới: warm /wɔːm/ (adj) = ấm | swim /swɪm/ (v) = bơi. Adj + enough = đủ. Nước đủ ấm để bơi.",
+      "hints": ["Đủ ấm để bơi → adj + enough"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 169,
+      "question": "She is not brave _____ to speak in public.",
+      "options": ["enough", "too", "very", "so"],
+      "correctIndex": 0,
+      "explanation": "📚 Từ mới: brave /breɪv/ (adj) = dũng cảm | public /ˈpʌblɪk/ (n) = công chúng. Not + adj + enough = không đủ...để làm gì.",
+      "hints": ["Not + adj + enough + to V"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 170,
+      "question": "This knife is sharp _____ to cut the meat.",
+      "options": ["enough", "too", "very", "so"],
+      "correctIndex": 0,
+      "explanation": "📚 Từ mới: sharp /ʃɑːp/ (adj) = sắc | meat /miːt/ (n) = thịt. Adj + enough = đủ. Dao đủ sắc để cắt thịt.",
+      "hints": ["Đủ sắc → adj + enough"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 171,
+      "question": "The soup is _____ salty. I can't eat it.",
+      "options": ["too", "enough", "very", "so"],
+      "correctIndex": 0,
+      "explanation": "📚 Từ mới: salty /ˈsɔːlti/ (adj) = mặn | soup /suːp/ (n) = súp, canh. Too = quá mức (không thể ăn được).",
+      "hints": ["Không thể eat → nghĩa tiêu cực → 'too'"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 172,
+      "question": "Is this room bright _____ for reading?",
+      "options": ["enough", "too", "very", "so"],
+      "correctIndex": 0,
+      "explanation": "📚 Từ mới: bright /braɪt/ (adj) = sáng. Adj + enough + for + V-ing = đủ...để làm gì.",
+      "hints": ["Adj + enough + for + V-ing"],
+      "points": 10
+    },
+    {
+      "type": "multiple-choice",
+      "id": 173,
+      "question": "The bag is light _____ for a child to carry.",
+      "options": ["enough", "too", "very", "so"],
+      "correctIndex": 0,
+      "explanation": "📚 Từ mới: light /laɪt/ (adj) = nhẹ | bag /bæɡ/ (n) = túi | child /tʃaɪld/ (n) = trẻ em. Adj + enough + for sb + to V = đủ nhẹ để trẻ em mang.",
+      "hints": ["Adj + enough + for sb + to V"],
+      "points": 10
+    },
+    {
+      "type": "word-rearrange",
+      "id": 174,
+      "instruction": "Sắp xếp các từ để tạo câu so sánh hơn",
+      "words": ["The", "sun", "is", "brighter", "than", "the", "moon"],
+      "distractors": ["bright", "brightest", "more"],
+      "correctSentence": "The sun is brighter than the moon",
+      "acceptedAnswers": [
+        "The sun is brighter than the moon",
+        "The sun is brighter than the moon."
+      ],
+      "hints": ["📚 bright /braɪt/ = sáng | sun /sʌn/ = mặt trời | moon /muːn/ = mặt trăng", "Tính từ ngắn + -er + than"],
+      "points": 10
+    },
+    {
+      "type": "word-rearrange",
+      "id": 175,
+      "instruction": "Sắp xếp các từ để tạo câu so sánh hơn",
+      "words": ["This", "lake", "is", "deeper", "than", "that", "river"],
+      "distractors": ["deep", "deepest", "more"],
+      "correctSentence": "This lake is deeper than that river",
+      "acceptedAnswers": [
+        "This lake is deeper than that river",
+        "This lake is deeper than that river."
+      ],
+      "hints": ["📚 deep /diːp/ = sâu | lake /leɪk/ = hồ | river /ˈrɪvə/ = sông", "Tính từ ngắn + -er + than"],
+      "points": 10
+    },
+    {
+      "type": "word-rearrange",
+      "id": 176,
+      "instruction": "Sắp xếp các từ để tạo câu so sánh hơn",
+      "words": ["Her", "voice", "is", "softer", "than", "his", "voice"],
+      "distractors": ["soft", "softest", "more"],
+      "correctSentence": "Her voice is softer than his voice",
+      "acceptedAnswers": [
+        "Her voice is softer than his voice",
+        "Her voice is softer than his voice.",
+        "Her voice is softer than his"
+      ],
+      "hints": ["📚 soft /sɒft/ = mềm, nhẹ nhàng | voice /vɔɪs/ = giọng nói", "Tính từ ngắn + -er"],
+      "points": 10
+    },
+    {
+      "type": "word-rearrange",
+      "id": 177,
+      "instruction": "Sắp xếp các từ để tạo câu so sánh hơn",
+      "words": ["A", "rabbit", "is", "quicker", "than", "a", "turtle"],
+      "distractors": ["quick", "quickest", "more"],
+      "correctSentence": "A rabbit is quicker than a turtle",
+      "acceptedAnswers": [
+        "A rabbit is quicker than a turtle",
+        "A rabbit is quicker than a turtle."
+      ],
+      "hints": ["📚 quick /kwɪk/ = nhanh | rabbit /ˈræbɪt/ = con thỏ | turtle /ˈtɜːtl/ = con rùa", "Tính từ ngắn + -er + than"],
+      "points": 10
+    },
+    {
+      "type": "word-rearrange",
+      "id": 178,
+      "instruction": "Sắp xếp các từ để tạo câu so sánh hơn",
+      "words": ["Gold", "is", "rarer", "than", "silver"],
+      "distractors": ["rare", "rarest", "more"],
+      "correctSentence": "Gold is rarer than silver",
+      "acceptedAnswers": [
+        "Gold is rarer than silver",
+        "Gold is rarer than silver."
+      ],
+      "hints": ["📚 rare /reə/ = hiếm | gold /ɡəʊld/ = vàng | silver /ˈsɪlvə/ = bạc", "Tính từ + -e → thêm -r"],
+      "points": 10
+    },
+    {
+      "type": "word-rearrange",
+      "id": 179,
+      "instruction": "Sắp xếp các từ để tạo câu so sánh hơn (tính từ dài)",
+      "words": ["This", "story", "is", "more", "exciting", "than", "that", "one"],
+      "distractors": ["excitinger", "most", "excitingest"],
+      "correctSentence": "This story is more exciting than that one",
+      "acceptedAnswers": [
+        "This story is more exciting than that one",
+        "This story is more exciting than that one."
+      ],
+      "hints": ["📚 exciting /ɪkˈsaɪtɪŋ/ = thú vị, hào hứng | story /ˈstɔːri/ = câu chuyện", "Tính từ dài dùng 'more'"],
+      "points": 10
+    },
+    {
+      "type": "word-rearrange",
+      "id": 180,
+      "instruction": "Sắp xếp các từ để tạo câu so sánh hơn (tính từ dài)",
+      "words": ["This", "sofa", "is", "more", "comfortable", "than", "that", "chair"],
+      "distractors": ["comfortabler", "most", "comfortablest"],
+      "correctSentence": "This sofa is more comfortable than that chair",
+      "acceptedAnswers": [
+        "This sofa is more comfortable than that chair",
+        "This sofa is more comfortable than that chair."
+      ],
+      "hints": ["📚 comfortable /ˈkʌmftəbl/ = thoải mái | sofa /ˈsəʊfə/ = ghế sofa | chair /tʃeə/ = ghế", "Tính từ dài + more + than"],
+      "points": 10
+    },
+    {
+      "type": "word-rearrange",
+      "id": 181,
+      "instruction": "Sắp xếp các từ để tạo câu so sánh hơn (tính từ dài)",
+      "words": ["She", "is", "more", "generous", "than", "her", "brother"],
+      "distractors": ["generouser", "most", "generousest"],
+      "correctSentence": "She is more generous than her brother",
+      "acceptedAnswers": [
+        "She is more generous than her brother",
+        "She is more generous than her brother."
+      ],
+      "hints": ["📚 generous /ˈdʒenərəs/ = hào phóng | brother /ˈbrʌðə/ = anh/em trai", "Tính từ dài dùng 'more'"],
+      "points": 10
+    },
+    {
+      "type": "word-rearrange",
+      "id": 182,
+      "instruction": "Sắp xếp các từ để tạo câu so sánh nhất",
+      "words": ["This", "is", "the", "brightest", "star", "in", "the", "sky"],
+      "distractors": ["bright", "brighter", "most"],
+      "correctSentence": "This is the brightest star in the sky",
+      "acceptedAnswers": [
+        "This is the brightest star in the sky",
+        "This is the brightest star in the sky."
+      ],
+      "hints": ["📚 bright /braɪt/ = sáng | star /stɑː/ = ngôi sao | sky /skaɪ/ = bầu trời", "The + tính từ ngắn + -est"],
+      "points": 10
+    },
+    {
+      "type": "word-rearrange",
+      "id": 183,
+      "instruction": "Sắp xếp các từ để tạo câu so sánh nhất",
+      "words": ["She", "is", "the", "sweetest", "girl", "in", "the", "class"],
+      "distractors": ["sweet", "sweeter", "most"],
+      "correctSentence": "She is the sweetest girl in the class",
+      "acceptedAnswers": [
+        "She is the sweetest girl in the class",
+        "She is the sweetest girl in the class."
+      ],
+      "hints": ["📚 sweet /swiːt/ = ngọt ngào, dễ thương | girl /ɡɜːl/ = cô gái | class /klɑːs/ = lớp học", "The + adj + -est + in"],
+      "points": 10
+    },
+    {
+      "type": "word-rearrange",
+      "id": 184,
+      "instruction": "Sắp xếp các từ để tạo câu so sánh nhất",
+      "words": ["He", "is", "the", "proudest", "father", "in", "the", "world"],
+      "distractors": ["proud", "prouder", "most"],
+      "correctSentence": "He is the proudest father in the world",
+      "acceptedAnswers": [
+        "He is the proudest father in the world",
+        "He is the proudest father in the world."
+      ],
+      "hints": ["📚 proud /praʊd/ = tự hào | father /ˈfɑːðə/ = cha | world /wɜːld/ = thế giới", "The + adj + -est"],
+      "points": 10
+    },
+    {
+      "type": "word-rearrange",
+      "id": 185,
+      "instruction": "Sắp xếp các từ để tạo câu so sánh nhất (tính từ dài)",
+      "words": ["This", "is", "the", "most", "delicious", "cake", "I", "have", "ever", "eaten"],
+      "distractors": ["deliciouser", "deliciousest", "more"],
+      "correctSentence": "This is the most delicious cake I have ever eaten",
+      "acceptedAnswers": [
+        "This is the most delicious cake I have ever eaten",
+        "This is the most delicious cake I have ever eaten."
+      ],
+      "hints": ["📚 delicious /dɪˈlɪʃəs/ = ngon | cake /keɪk/ = bánh", "The most + tính từ dài"],
+      "points": 10
+    },
+    {
+      "type": "word-rearrange",
+      "id": 186,
+      "instruction": "Sắp xếp các từ để tạo câu so sánh nhất (tính từ dài)",
+      "words": ["She", "is", "the", "most", "creative", "student", "in", "our", "school"],
+      "distractors": ["creativer", "creativest", "more"],
+      "correctSentence": "She is the most creative student in our school",
+      "acceptedAnswers": [
+        "She is the most creative student in our school",
+        "She is the most creative student in our school."
+      ],
+      "hints": ["📚 creative /kriˈeɪtɪv/ = sáng tạo | student /ˈstjuːdnt/ = học sinh | school /skuːl/ = trường", "The most + adj + in"],
+      "points": 10
+    },
+    {
+      "type": "word-rearrange",
+      "id": 187,
+      "instruction": "Sắp xếp các từ để tạo câu so sánh nhất (tính từ dài)",
+      "words": ["This", "is", "the", "most", "peaceful", "place", "in", "the", "city"],
+      "distractors": ["peacefuller", "peacefullest", "more"],
+      "correctSentence": "This is the most peaceful place in the city",
+      "acceptedAnswers": [
+        "This is the most peaceful place in the city",
+        "This is the most peaceful place in the city."
+      ],
+      "hints": ["📚 peaceful /ˈpiːsfl/ = yên bình | place /pleɪs/ = nơi, địa điểm | city /ˈsɪti/ = thành phố", "The most + tính từ dài"],
+      "points": 10
+    },
+    {
+      "type": "word-rearrange",
+      "id": 188,
+      "instruction": "Sắp xếp các từ để tạo câu so sánh bằng",
+      "words": ["This", "pen", "is", "as", "cheap", "as", "that", "one"],
+      "distractors": ["cheaper", "cheapest", "more"],
+      "correctSentence": "This pen is as cheap as that one",
+      "acceptedAnswers": [
+        "This pen is as cheap as that one",
+        "This pen is as cheap as that one."
+      ],
+      "hints": ["📚 cheap /tʃiːp/ = rẻ | pen /pen/ = bút", "So sánh bằng: as + adj + as"],
+      "points": 10
+    },
+    {
+      "type": "word-rearrange",
+      "id": 189,
+      "instruction": "Sắp xếp các từ để tạo câu so sánh bằng",
+      "words": ["Her", "bag", "is", "as", "light", "as", "mine"],
+      "distractors": ["lighter", "lightest", "more"],
+      "correctSentence": "Her bag is as light as mine",
+      "acceptedAnswers": [
+        "Her bag is as light as mine",
+        "Her bag is as light as mine."
+      ],
+      "hints": ["📚 light /laɪt/ = nhẹ | bag /bæɡ/ = túi", "As + adj + as"],
+      "points": 10
+    },
+    {
+      "type": "word-rearrange",
+      "id": 190,
+      "instruction": "Sắp xếp các từ để tạo câu so sánh bằng",
+      "words": ["This", "test", "is", "as", "difficult", "as", "the", "last", "one"],
+      "distractors": ["difficulter", "more", "most"],
+      "correctSentence": "This test is as difficult as the last one",
+      "acceptedAnswers": [
+        "This test is as difficult as the last one",
+        "This test is as difficult as the last one."
+      ],
+      "hints": ["📚 difficult /ˈdɪfɪkəlt/ = khó | test /test/ = bài kiểm tra", "So sánh bằng: as + adj + as"],
+      "points": 10
+    },
+    {
+      "type": "word-rearrange",
+      "id": 191,
+      "instruction": "Sắp xếp các từ để tạo câu với 'too...to'",
+      "words": ["The", "box", "is", "too", "heavy", "to", "carry"],
+      "distractors": ["enough", "very", "so"],
+      "correctSentence": "The box is too heavy to carry",
+      "acceptedAnswers": [
+        "The box is too heavy to carry",
+        "The box is too heavy to carry."
+      ],
+      "hints": ["📚 heavy /ˈhevi/ = nặng | box /bɒks/ = hộp | carry /ˈkæri/ = mang, xách", "Too + adj + to + V = quá...để làm gì"],
+      "points": 10
+    },
+    {
+      "type": "word-rearrange",
+      "id": 192,
+      "instruction": "Sắp xếp các từ để tạo câu với 'too...to'",
+      "words": ["This", "coffee", "is", "too", "bitter", "to", "drink"],
+      "distractors": ["enough", "very", "so"],
+      "correctSentence": "This coffee is too bitter to drink",
+      "acceptedAnswers": [
+        "This coffee is too bitter to drink",
+        "This coffee is too bitter to drink."
+      ],
+      "hints": ["📚 bitter /ˈbɪtə/ = đắng | coffee /ˈkɒfi/ = cà phê | drink /drɪŋk/ = uống", "Too + adj + to + V"],
+      "points": 10
+    },
+    {
+      "type": "word-rearrange",
+      "id": 193,
+      "instruction": "Sắp xếp các từ để tạo câu với 'too...for...to'",
+      "words": ["The", "movie", "is", "too", "scary", "for", "children", "to", "watch"],
+      "distractors": ["enough", "very", "so"],
+      "correctSentence": "The movie is too scary for children to watch",
+      "acceptedAnswers": [
+        "The movie is too scary for children to watch",
+        "The movie is too scary for children to watch."
+      ],
+      "hints": ["📚 scary /ˈskeəri/ = đáng sợ | movie /ˈmuːvi/ = phim | children /ˈtʃɪldrən/ = trẻ em | watch /wɒtʃ/ = xem", "Too + adj + for sb + to V"],
+      "points": 10
+    },
+    {
+      "type": "word-rearrange",
+      "id": 194,
+      "instruction": "Sắp xếp các từ để tạo câu với 'too...to'",
+      "words": ["The", "music", "is", "too", "loud", "to", "concentrate"],
+      "distractors": ["enough", "very", "so"],
+      "correctSentence": "The music is too loud to concentrate",
+      "acceptedAnswers": [
+        "The music is too loud to concentrate",
+        "The music is too loud to concentrate."
+      ],
+      "hints": ["📚 loud /laʊd/ = ồn ào | music /ˈmjuːzɪk/ = âm nhạc | concentrate /ˈkɒnsntreɪt/ = tập trung", "Too + adj + to + V"],
+      "points": 10
+    },
+    {
+      "type": "word-rearrange",
+      "id": 195,
+      "instruction": "Sắp xếp các từ để tạo câu với 'enough...to'",
+      "words": ["He", "is", "strong", "enough", "to", "lift", "this", "box"],
+      "distractors": ["too", "very", "so"],
+      "correctSentence": "He is strong enough to lift this box",
+      "acceptedAnswers": [
+        "He is strong enough to lift this box",
+        "He is strong enough to lift this box."
+      ],
+      "hints": ["📚 strong /strɒŋ/ = khỏe | lift /lɪft/ = nâng | box /bɒks/ = hộp", "Adj + enough + to + V"],
+      "points": 10
+    },
+    {
+      "type": "word-rearrange",
+      "id": 196,
+      "instruction": "Sắp xếp các từ để tạo câu với 'enough...to'",
+      "words": ["She", "is", "brave", "enough", "to", "try", "new", "things"],
+      "distractors": ["too", "very", "so"],
+      "correctSentence": "She is brave enough to try new things",
+      "acceptedAnswers": [
+        "She is brave enough to try new things",
+        "She is brave enough to try new things."
+      ],
+      "hints": ["📚 brave /breɪv/ = dũng cảm | try /traɪ/ = thử | things /θɪŋz/ = những thứ, điều", "Adj + enough + to + V"],
+      "points": 10
+    },
+    {
+      "type": "word-rearrange",
+      "id": 197,
+      "instruction": "Sắp xếp các từ để tạo câu với 'enough...to'",
+      "words": ["The", "water", "is", "warm", "enough", "to", "swim"],
+      "distractors": ["too", "very", "so"],
+      "correctSentence": "The water is warm enough to swim",
+      "acceptedAnswers": [
+        "The water is warm enough to swim",
+        "The water is warm enough to swim.",
+        "The water is warm enough to swim in",
+        "The water is warm enough to swim in."
+      ],
+      "hints": ["📚 warm /wɔːm/ = ấm | water /ˈwɔːtə/ = nước | swim /swɪm/ = bơi", "Adj + enough + to + V"],
+      "points": 10
+    },
+    {
+      "type": "word-rearrange",
+      "id": 198,
+      "instruction": "Sắp xếp các từ để tạo câu với 'enough...for...to'",
+      "words": ["This", "book", "is", "easy", "enough", "for", "beginners", "to", "read"],
+      "distractors": ["too", "very", "so"],
+      "correctSentence": "This book is easy enough for beginners to read",
+      "acceptedAnswers": [
+        "This book is easy enough for beginners to read",
+        "This book is easy enough for beginners to read."
+      ],
+      "hints": ["📚 easy /ˈiːzi/ = dễ | book /bʊk/ = sách | beginners /bɪˈɡɪnəz/ = người mới bắt đầu | read /riːd/ = đọc", "Adj + enough + for sb + to V"],
+      "points": 10
+    },
+    {
+      "type": "word-rearrange",
+      "id": 199,
+      "instruction": "Sắp xếp các từ để tạo câu với 'enough...to'",
+      "words": ["The", "room", "is", "bright", "enough", "to", "study"],
+      "distractors": ["too", "very", "so"],
+      "correctSentence": "The room is bright enough to study",
+      "acceptedAnswers": [
+        "The room is bright enough to study",
+        "The room is bright enough to study.",
+        "The room is bright enough to study in",
+        "The room is bright enough to study in."
+      ],
+      "hints": ["📚 bright /braɪt/ = sáng | room /ruːm/ = phòng | study /ˈstʌdi/ = học", "Adj + enough + to + V"],
+      "points": 10
+    },
+    {
+      "type": "word-rearrange",
+      "id": 200,
+      "instruction": "Sắp xếp các từ để tạo câu với 'enough...to'",
+      "words": ["She", "is", "calm", "enough", "to", "handle", "the", "situation"],
+      "distractors": ["too", "very", "so"],
+      "correctSentence": "She is calm enough to handle the situation",
+      "acceptedAnswers": [
+        "She is calm enough to handle the situation",
+        "She is calm enough to handle the situation."
+      ],
+      "hints": ["📚 calm /kɑːm/ = bình tĩnh | handle /ˈhændl/ = xử lý | situation /ˌsɪtʃuˈeɪʃn/ = tình huống", "Adj + enough + to + V"],
+      "points": 10
+    }
+  ]
+}

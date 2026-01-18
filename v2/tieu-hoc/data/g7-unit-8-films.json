@@ -1,0 +1,565 @@
+{
+  "unitId": "g7-unit-8-films",
+  "title": "Unit 8: Films - Although, Despite/In spite of",
+  "studentName": "Tran Gia Hung",
+  "grade": 7,
+  "grammarTopics": [
+    "Although/Though",
+    "Despite/In spite of",
+    "Contrast Connectors",
+    "However/Nevertheless",
+    "Film Vocabulary"
+  ],
+  "theory": {
+    "brief": "Although/Though + S + V (mặc dù + mệnh đề). Despite/In spite of + N/V-ing (mặc dù + danh từ/V-ing). However/Nevertheless (tuy nhiên) - đứng đầu câu hoặc giữa 2 câu, có dấu phẩy hoặc chấm phẩy. Tất cả đều diễn tả sự tương phản.",
+    "examples": [
+      "Although the film was long, it was interesting. (Mặc dù phim dài, nó rất thú vị.)",
+      "Despite the bad weather, we went to the cinema. (Mặc dù thời tiết xấu, chúng tôi vẫn đi xem phim.)",
+      "In spite of being tired, she watched the movie. (Mặc dù mệt, cô ấy vẫn xem phim.)",
+      "The film was scary. However, I enjoyed it. (Phim đáng sợ. Tuy nhiên, tôi thích nó.)",
+      "Though it was expensive, he bought the ticket. (Mặc dù đắt, anh ấy vẫn mua vé.)"
+    ]
+  },
+  "exercises": [
+    {
+      "id": "g7u8-ex1",
+      "type": "fill-blank",
+      "question": "_______ the film was long, it was interesting.",
+      "wordHint": "mặc dù",
+      "answer": "Although",
+      "acceptedAnswers": [
+        "Although",
+        "Though"
+      ],
+      "hints": [
+        "Although/Though + S + V"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u8-ex2",
+      "type": "fill-blank",
+      "question": "_______ the bad reviews, the movie was popular.",
+      "wordHint": "mặc dù",
+      "answer": "Despite",
+      "acceptedAnswers": [
+        "Despite",
+        "In spite of"
+      ],
+      "hints": [
+        "Despite/In spite of + N"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u8-ex3",
+      "type": "fill-blank",
+      "question": "_______ it was expensive, we bought tickets.",
+      "wordHint": "mặc dù",
+      "answer": "Although",
+      "acceptedAnswers": [
+        "Although",
+        "Though"
+      ],
+      "hints": [
+        "Although + S + V"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u8-ex4",
+      "type": "fill-blank",
+      "question": "_______ being tired, she watched the film.",
+      "wordHint": "mặc dù",
+      "answer": "Despite",
+      "acceptedAnswers": [
+        "Despite",
+        "In spite of"
+      ],
+      "hints": [
+        "Despite + V-ing"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u8-ex5",
+      "type": "fill-blank",
+      "question": "The film was scary. _______, I enjoyed it.",
+      "wordHint": "tuy nhiên",
+      "answer": "However",
+      "acceptedAnswers": [
+        "However",
+        "Nevertheless"
+      ],
+      "hints": [
+        "However/Nevertheless + dấu phẩy"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u8-ex6",
+      "type": "fill-blank",
+      "question": "_______ she was sick, she went to the cinema.",
+      "wordHint": "mặc dù",
+      "answer": "Although",
+      "acceptedAnswers": [
+        "Although",
+        "Though"
+      ],
+      "hints": [
+        "Although + S + V"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u8-ex7",
+      "type": "fill-blank",
+      "question": "_______ the rain, they went to see the movie.",
+      "wordHint": "mặc dù",
+      "answer": "Despite",
+      "acceptedAnswers": [
+        "Despite",
+        "In spite of"
+      ],
+      "hints": [
+        "Despite + N"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u8-ex8",
+      "type": "fill-blank",
+      "question": "_______ having little money, he bought a ticket.",
+      "wordHint": "mặc dù",
+      "answer": "Despite",
+      "acceptedAnswers": [
+        "Despite",
+        "In spite of"
+      ],
+      "hints": [
+        "Despite + V-ing/having"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u8-ex9",
+      "type": "fill-blank",
+      "question": "The film got bad reviews. _______, it was successful.",
+      "wordHint": "tuy nhiên",
+      "answer": "However",
+      "acceptedAnswers": [
+        "However",
+        "Nevertheless"
+      ],
+      "hints": [
+        "Câu 1. However, câu 2"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u8-ex10",
+      "type": "fill-blank",
+      "question": "_______ the plot was simple, the film was moving.",
+      "wordHint": "mặc dù",
+      "answer": "Although",
+      "acceptedAnswers": [
+        "Although",
+        "Though"
+      ],
+      "hints": [
+        "Although + S + V"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u8-ex11",
+      "type": "fill-blank",
+      "question": "_______ his young age, he is a great actor.",
+      "wordHint": "mặc dù",
+      "answer": "Despite",
+      "acceptedAnswers": [
+        "Despite",
+        "In spite of"
+      ],
+      "hints": [
+        "Despite + N"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u8-ex12",
+      "type": "fill-blank",
+      "question": "_______ we arrived late, we didn't miss the beginning.",
+      "wordHint": "mặc dù",
+      "answer": "Although",
+      "acceptedAnswers": [
+        "Although",
+        "Though"
+      ],
+      "hints": [
+        "Although + S + V"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u8-ex13",
+      "type": "fill-blank",
+      "question": "_______ the noise, I could hear the dialogue.",
+      "wordHint": "mặc dù",
+      "answer": "Despite",
+      "acceptedAnswers": [
+        "Despite",
+        "In spite of"
+      ],
+      "hints": [
+        "Despite + N"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u8-ex14",
+      "type": "fill-blank",
+      "question": "It was a comedy. _______, I didn't laugh much.",
+      "wordHint": "tuy nhiên",
+      "answer": "However",
+      "acceptedAnswers": [
+        "However",
+        "Nevertheless"
+      ],
+      "hints": [
+        "However đứng đầu câu 2"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u8-ex15",
+      "type": "fill-blank",
+      "question": "_______ trying hard, the actor failed.",
+      "wordHint": "mặc dù",
+      "answer": "Despite",
+      "acceptedAnswers": [
+        "Despite",
+        "In spite of"
+      ],
+      "hints": [
+        "Despite + V-ing"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u8-ex16",
+      "type": "multiple-choice",
+      "question": "_______ the film was boring, I watched it all.",
+      "options": [
+        "Despite",
+        "In spite of",
+        "Although",
+        "However"
+      ],
+      "correctIndex": 2,
+      "explanation": "Although + S + V (mệnh đề)",
+      "hints": [
+        "Sau chỗ trống là S + V"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u8-ex17",
+      "type": "multiple-choice",
+      "question": "_______ the bad weather, we went out.",
+      "options": [
+        "Although",
+        "Though",
+        "Despite",
+        "However"
+      ],
+      "correctIndex": 2,
+      "explanation": "Despite + N (danh từ)",
+      "hints": [
+        "Sau chỗ trống là danh từ"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u8-ex18",
+      "type": "multiple-choice",
+      "question": "The film was long. _______, it was enjoyable.",
+      "options": [
+        "Although",
+        "Despite",
+        "In spite of",
+        "However"
+      ],
+      "correctIndex": 3,
+      "explanation": "However đứng giữa 2 câu độc lập",
+      "hints": [
+        "Nối 2 câu độc lập"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u8-ex19",
+      "type": "multiple-choice",
+      "question": "_______ being young, she is very talented.",
+      "options": [
+        "Although",
+        "Though",
+        "Despite",
+        "However"
+      ],
+      "correctIndex": 2,
+      "explanation": "Despite + V-ing",
+      "hints": [
+        "Sau chỗ trống là V-ing"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u8-ex20",
+      "type": "multiple-choice",
+      "question": "_______ he practiced a lot, he failed the audition.",
+      "options": [
+        "Despite",
+        "In spite of",
+        "However",
+        "Although"
+      ],
+      "correctIndex": 3,
+      "explanation": "Although + S + V",
+      "hints": [
+        "Sau chỗ trống là mệnh đề"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u8-ex21",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "Although the film was long, it was interesting.",
+        "Although the film was long it was interesting."
+      ],
+      "hints": [
+        "Although + S + V, S + V"
+      ],
+      "points": 15,
+      "correctSentence": "Although the film was long, it was interesting.",
+      "words": [
+        "although",
+        "was",
+        "the",
+        "long",
+        "film",
+        "interesting",
+        "it",
+        "was"
+      ]
+    },
+    {
+      "id": "g7u8-ex22",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "Despite the bad reviews, the movie was popular.",
+        "Despite the bad reviews the movie was popular."
+      ],
+      "hints": [
+        "Despite + N, S + V"
+      ],
+      "points": 15,
+      "correctSentence": "Despite the bad reviews, the movie was popular.",
+      "words": [
+        "despite",
+        "reviews",
+        "bad",
+        "the",
+        "popular",
+        "movie",
+        "was",
+        "the"
+      ]
+    },
+    {
+      "id": "g7u8-ex23",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "Despite being tired, she watched the film.",
+        "Despite being tired she watched the film."
+      ],
+      "hints": [
+        "Despite + V-ing, S + V"
+      ],
+      "points": 15,
+      "correctSentence": "Despite being tired, she watched the film.",
+      "words": [
+        "tired",
+        "being",
+        "despite",
+        "watched",
+        "she",
+        "film",
+        "the"
+      ]
+    },
+    {
+      "id": "g7u8-ex24",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "The film was scary. However, I enjoyed it.",
+        "The film was scary however I enjoyed it.",
+        "The film was scary; however, I enjoyed it."
+      ],
+      "hints": [
+        "S + V. However, S + V"
+      ],
+      "points": 15,
+      "correctSentence": "The film was scary. However, I enjoyed it.",
+      "words": [
+        "scary",
+        "was",
+        "film",
+        "the",
+        "however",
+        "enjoyed",
+        "I",
+        "it"
+      ]
+    },
+    {
+      "id": "g7u8-ex25",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "Though it was expensive, he bought the ticket.",
+        "Though it was expensive he bought the ticket."
+      ],
+      "hints": [
+        "Though + S + V, S + V"
+      ],
+      "points": 15,
+      "correctSentence": "Though it was expensive, he bought the ticket.",
+      "words": [
+        "though",
+        "expensive",
+        "was",
+        "it",
+        "bought",
+        "he",
+        "ticket",
+        "the"
+      ]
+    },
+    {
+      "id": "g7u8-ex26",
+      "type": "error-correct",
+      "wrongSentence": "Despite it was late, we watched the film.",
+      "correctSentence": "Although it was late, we watched the film.",
+      "errorWord": "Despite it was",
+      "correction": "Although it was",
+      "explanation": "Despite + N/V-ing, không dùng với mệnh đề. Dùng Although + S + V",
+      "hints": [
+        "Despite không đi với S + V"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u8-ex27",
+      "type": "error-correct",
+      "wrongSentence": "Although the rain, we went out.",
+      "correctSentence": "Despite the rain, we went out.",
+      "errorWord": "Although the rain",
+      "correction": "Despite the rain",
+      "explanation": "Although + S + V. Với danh từ dùng Despite/In spite of",
+      "hints": [
+        "Although không đi với danh từ"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u8-ex28",
+      "type": "error-correct",
+      "wrongSentence": "Despite he was tired, he continued.",
+      "correctSentence": "Although he was tired, he continued.",
+      "errorWord": "Despite he was",
+      "correction": "Although he was",
+      "explanation": "Despite + N/V-ing. Với mệnh đề dùng Although",
+      "hints": [
+        "Despite không đi với S + V"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u8-ex29",
+      "type": "error-correct",
+      "wrongSentence": "The film was good, although I didn't like it.",
+      "correctSentence": "The film was good. However, I didn't like it.",
+      "errorWord": "although",
+      "correction": "However",
+      "explanation": "Although nối 2 mệnh đề tương phản trong 1 câu. However nối 2 câu độc lập",
+      "hints": [
+        "Nối 2 câu độc lập → However"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u8-ex30",
+      "type": "error-correct",
+      "wrongSentence": "In spite he tried, he failed.",
+      "correctSentence": "Although he tried, he failed.",
+      "errorWord": "In spite he",
+      "correction": "Although he",
+      "explanation": "In spite of + N/V-ing. Với mệnh đề dùng Although",
+      "hints": [
+        "In spite of không đi với S + V"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u8-ex31",
+      "type": "translation",
+      "vietnamese": "Mặc dù phim dài, nó rất thú vị.",
+      "answer": "Although the film was long, it was interesting.",
+      "acceptedAnswers": [
+        "Although the film was long, it was interesting.",
+        "Although the film was long it was interesting.",
+        "Though the film was long, it was interesting."
+      ],
+      "hints": [
+        "Although + S + V, S + V"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u8-ex32",
+      "type": "translation",
+      "vietnamese": "Mặc dù thời tiết xấu, chúng tôi vẫn đi xem phim.",
+      "answer": "Despite the bad weather, we went to the cinema.",
+      "acceptedAnswers": [
+        "Despite the bad weather, we went to the cinema.",
+        "Despite the bad weather we went to the cinema.",
+        "In spite of the bad weather, we went to the cinema."
+      ],
+      "hints": [
+        "Despite + N, S + V"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u8-ex33",
+      "type": "translation",
+      "vietnamese": "Phim đáng sợ. Tuy nhiên, tôi thích nó.",
+      "answer": "The film was scary. However, I enjoyed it.",
+      "acceptedAnswers": [
+        "The film was scary. However, I enjoyed it.",
+        "The film was scary however I enjoyed it.",
+        "The film was scary; however, I enjoyed it."
+      ],
+      "hints": [
+        "S + V. However, S + V"
+      ],
+      "points": 10
+    }
+  ]
+}

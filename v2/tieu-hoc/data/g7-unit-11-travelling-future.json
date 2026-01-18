@@ -1,0 +1,540 @@
+{
+  "unitId": "g7-unit-11-travelling-future",
+  "title": "Unit 11: Travelling in the Future - Possessive Pronouns & Future Simple",
+  "studentName": "Tran Gia Hung",
+  "grade": 7,
+  "grammarTopics": [
+    "Possessive Pronouns",
+    "mine/yours/his/hers/ours/theirs",
+    "Future Simple Review",
+    "Transport Vocabulary"
+  ],
+  "theory": {
+    "brief": "Đại từ sở hữu thay thế tính từ sở hữu + danh từ. My → mine, your → yours, his → his, her → hers, our → ours, their → theirs, its → its. Dùng để tránh lặp danh từ. This is my car. → This car is mine. That's your bike. → That bike is yours.",
+    "examples": [
+      "This is my car. = This car is mine. (Đây là xe của tôi.)",
+      "That's your bike. = That bike is yours. (Kia là xe đạp của bạn.)",
+      "These are our tickets. = These tickets are ours. (Đây là vé của chúng tôi.)",
+      "Is this her pen? = Is this pen hers? (Đây có phải bút của cô ấy không?)",
+      "Their house is big. Ours is small. (Nhà họ lớn. Nhà chúng tôi nhỏ.)"
+    ]
+  },
+  "exercises": [
+    {
+      "id": "g7u11-ex1",
+      "type": "fill-blank",
+      "question": "This is my car. This car is _______.",
+      "wordHint": "của tôi",
+      "answer": "mine",
+      "acceptedAnswers": [
+        "mine"
+      ],
+      "hints": [
+        "my → mine"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u11-ex2",
+      "type": "fill-blank",
+      "question": "That's your bike. That bike is _______.",
+      "wordHint": "của bạn",
+      "answer": "yours",
+      "acceptedAnswers": [
+        "yours"
+      ],
+      "hints": [
+        "your → yours"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u11-ex3",
+      "type": "fill-blank",
+      "question": "This is his book. This book is _______.",
+      "wordHint": "của anh ấy",
+      "answer": "his",
+      "acceptedAnswers": [
+        "his"
+      ],
+      "hints": [
+        "his → his (không đổi)"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u11-ex4",
+      "type": "fill-blank",
+      "question": "That's her bag. That bag is _______.",
+      "wordHint": "của cô ấy",
+      "answer": "hers",
+      "acceptedAnswers": [
+        "hers"
+      ],
+      "hints": [
+        "her → hers"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u11-ex5",
+      "type": "fill-blank",
+      "question": "These are our tickets. These tickets are _______.",
+      "wordHint": "của chúng tôi",
+      "answer": "ours",
+      "acceptedAnswers": [
+        "ours"
+      ],
+      "hints": [
+        "our → ours"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u11-ex6",
+      "type": "fill-blank",
+      "question": "Those are their seats. Those seats are _______.",
+      "wordHint": "của họ",
+      "answer": "theirs",
+      "acceptedAnswers": [
+        "theirs"
+      ],
+      "hints": [
+        "their → theirs"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u11-ex7",
+      "type": "fill-blank",
+      "question": "Is this _______ pen? (you)",
+      "wordHint": "của bạn",
+      "answer": "your",
+      "acceptedAnswers": [
+        "your"
+      ],
+      "hints": [
+        "Trước danh từ dùng your"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u11-ex8",
+      "type": "fill-blank",
+      "question": "Is this pen _______? (you)",
+      "wordHint": "của bạn",
+      "answer": "yours",
+      "acceptedAnswers": [
+        "yours"
+      ],
+      "hints": [
+        "Sau 'is' dùng yours"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u11-ex9",
+      "type": "fill-blank",
+      "question": "My car is red. _______ is blue. (she)",
+      "wordHint": "của cô ấy",
+      "answer": "Hers",
+      "acceptedAnswers": [
+        "Hers"
+      ],
+      "hints": [
+        "Đại từ sở hữu đầu câu"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u11-ex10",
+      "type": "fill-blank",
+      "question": "Their house is big. _______ is small. (we)",
+      "wordHint": "của chúng tôi",
+      "answer": "Ours",
+      "acceptedAnswers": [
+        "Ours"
+      ],
+      "hints": [
+        "our → Ours"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u11-ex11",
+      "type": "fill-blank",
+      "question": "We _______ (travel) by flying cars in the future.",
+      "wordHint": "sẽ",
+      "answer": "will travel",
+      "acceptedAnswers": [
+        "will travel"
+      ],
+      "hints": [
+        "will + V0"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u11-ex12",
+      "type": "fill-blank",
+      "question": "People _______ (not drive) normal cars.",
+      "wordHint": "sẽ không",
+      "answer": "won't drive",
+      "acceptedAnswers": [
+        "won't drive",
+        "will not drive"
+      ],
+      "hints": [
+        "won't + V0"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u11-ex13",
+      "type": "fill-blank",
+      "question": "_______ we _______ (have) flying motorbikes?",
+      "wordHint": "Will/have",
+      "answer": "Will have",
+      "acceptedAnswers": [
+        "Will have",
+        "Will we have",
+        "Will-have"
+      ],
+      "hints": [
+        "Will + S + V0?"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u11-ex14",
+      "type": "fill-blank",
+      "question": "Trains _______ (move) faster than now.",
+      "wordHint": "sẽ",
+      "answer": "will move",
+      "acceptedAnswers": [
+        "will move"
+      ],
+      "hints": [
+        "will + V0"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u11-ex15",
+      "type": "fill-blank",
+      "question": "Flying cars _______ (be) expensive at first.",
+      "wordHint": "sẽ",
+      "answer": "will be",
+      "acceptedAnswers": [
+        "will be"
+      ],
+      "hints": [
+        "will + be"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u11-ex16",
+      "type": "multiple-choice",
+      "question": "This is my bag. That bag is _______.",
+      "options": [
+        "my",
+        "mine",
+        "me",
+        "I"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đại từ sở hữu: mine",
+      "hints": [
+        "my → mine"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u11-ex17",
+      "type": "multiple-choice",
+      "question": "Is this pen _______?",
+      "options": [
+        "you",
+        "your",
+        "yours",
+        "you're"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sau 'is' dùng đại từ sở hữu: yours",
+      "hints": [
+        "Đứng sau 'is'"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u11-ex18",
+      "type": "multiple-choice",
+      "question": "My house is small. _______ is big.",
+      "options": [
+        "Their",
+        "Theirs",
+        "They",
+        "Them"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đại từ sở hữu đầu câu: Theirs",
+      "hints": [
+        "their → Theirs"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u11-ex19",
+      "type": "multiple-choice",
+      "question": "We _______ by solar-powered trains.",
+      "options": [
+        "travel",
+        "will travel",
+        "traveled",
+        "are traveling"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tương lai: will travel",
+      "hints": [
+        "Tương lai đơn"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u11-ex20",
+      "type": "multiple-choice",
+      "question": "_______ flying cars be popular?",
+      "options": [
+        "Do",
+        "Does",
+        "Did",
+        "Will"
+      ],
+      "correctIndex": 3,
+      "explanation": "Câu hỏi tương lai: Will",
+      "hints": [
+        "Câu hỏi tương lai"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u11-ex21",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "This car is mine.",
+        "This car is mine"
+      ],
+      "hints": [
+        "This + N + is + possessive pronoun"
+      ],
+      "points": 15,
+      "correctSentence": "This car is mine.",
+      "words": [
+        "car",
+        "this",
+        "mine",
+        "is"
+      ]
+    },
+    {
+      "id": "g7u11-ex22",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "That bike is yours.",
+        "That bike is yours"
+      ],
+      "hints": [
+        "That + N + is + yours"
+      ],
+      "points": 15,
+      "correctSentence": "That bike is yours.",
+      "words": [
+        "bike",
+        "yours",
+        "that",
+        "is"
+      ]
+    },
+    {
+      "id": "g7u11-ex23",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành 2 câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "My car is red. Hers is blue.",
+        "My car is red hers is blue"
+      ],
+      "hints": [
+        "2 câu với đại từ sở hữu"
+      ],
+      "points": 15,
+      "correctSentence": "My car is red. Hers is blue.",
+      "words": [
+        "red",
+        "is",
+        "car",
+        "my",
+        "hers",
+        "blue",
+        "is"
+      ]
+    },
+    {
+      "id": "g7u11-ex24",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "We will travel by flying cars.",
+        "We will travel by flying cars"
+      ],
+      "hints": [
+        "S + will + V0"
+      ],
+      "points": 15,
+      "correctSentence": "We will travel by flying cars.",
+      "words": [
+        "will",
+        "travel",
+        "we",
+        "cars",
+        "flying",
+        "by"
+      ]
+    },
+    {
+      "id": "g7u11-ex25",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "People won't drive normal cars.",
+        "People won't drive normal cars"
+      ],
+      "hints": [
+        "S + won't + V0"
+      ],
+      "points": 15,
+      "correctSentence": "People won't drive normal cars.",
+      "words": [
+        "won't",
+        "people",
+        "cars",
+        "drive",
+        "normal"
+      ]
+    },
+    {
+      "id": "g7u11-ex26",
+      "type": "error-correct",
+      "wrongSentence": "This car is my.",
+      "correctSentence": "This car is mine.",
+      "errorWord": "my",
+      "correction": "mine",
+      "explanation": "Sau 'is' dùng đại từ sở hữu: mine",
+      "hints": [
+        "my → mine"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u11-ex27",
+      "type": "error-correct",
+      "wrongSentence": "That bike is your.",
+      "correctSentence": "That bike is yours.",
+      "errorWord": "your",
+      "correction": "yours",
+      "explanation": "Sau 'is' dùng yours",
+      "hints": [
+        "your → yours"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u11-ex28",
+      "type": "error-correct",
+      "wrongSentence": "Is this pen you?",
+      "correctSentence": "Is this pen yours?",
+      "errorWord": "you",
+      "correction": "yours",
+      "explanation": "Dùng yours (không dùng you)",
+      "hints": [
+        "you → yours"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u11-ex29",
+      "type": "error-correct",
+      "wrongSentence": "My house is big. Their is small.",
+      "correctSentence": "My house is big. Theirs is small.",
+      "errorWord": "Their",
+      "correction": "Theirs",
+      "explanation": "Đại từ sở hữu: Theirs",
+      "hints": [
+        "their → Theirs"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u11-ex30",
+      "type": "error-correct",
+      "wrongSentence": "These tickets are our.",
+      "correctSentence": "These tickets are ours.",
+      "errorWord": "our",
+      "correction": "ours",
+      "explanation": "Đại từ sở hữu: ours",
+      "hints": [
+        "our → ours"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u11-ex31",
+      "type": "translation",
+      "vietnamese": "Đây là xe của tôi.",
+      "answer": "This is my car.",
+      "acceptedAnswers": [
+        "This is my car.",
+        "This is my car",
+        "This car is mine.",
+        "This car is mine"
+      ],
+      "hints": [
+        "This is + my + N / This + N + is mine"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u11-ex32",
+      "type": "translation",
+      "vietnamese": "Cái túi kia là của bạn à?",
+      "answer": "Is that bag yours?",
+      "acceptedAnswers": [
+        "Is that bag yours?",
+        "Is that bag yours",
+        "Is that your bag?",
+        "Is that your bag"
+      ],
+      "hints": [
+        "Is that + N + yours? / Is that + your + N?"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u11-ex33",
+      "type": "translation",
+      "vietnamese": "Chúng ta sẽ di chuyển bằng xe bay.",
+      "answer": "We will travel by flying cars.",
+      "acceptedAnswers": [
+        "We will travel by flying cars.",
+        "We will travel by flying cars",
+        "We will move by flying cars."
+      ],
+      "hints": [
+        "will + travel/move + by"
+      ],
+      "points": 10
+    }
+  ]
+}

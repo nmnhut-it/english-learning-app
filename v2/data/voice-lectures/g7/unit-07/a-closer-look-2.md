@@ -3,19 +3,19 @@
 ## A CLOSER LOOK 2
 
 <!-- chunk: intro -->
-<teacher_script pause="0" href="audio/tts_7f09f777.mp3">
-Ok lớp 7, <eng>A Closer Look 2</eng> nha. Mở sách trang 11 đi.
+<teacher_script pause="0">
+Chào các em. Mời các em mở sách giáo khoa trang 11. Bài học hôm nay là <eng>A Closer Look 2</eng>, chúng ta sẽ tập trung vào ngữ pháp.
 </teacher_script>
 
 <teacher_script pause="0">
-Bài này học 2 cái: hỏi khoảng cách bao xa, và <eng>should/shouldn't</eng> - nên hay không nên làm gì.
+Hôm nay chúng ta sẽ học hai điểm ngữ pháp: cách hỏi về khoảng cách và cách dùng <eng>should/shouldn't</eng>.
 </teacher_script>
 
 ---
 
 <!-- chunk: grammar_it_intro -->
 <teacher_script pause="0">
-Cái đầu tiên nè. Muốn hỏi từ đây đến đó bao xa thì hỏi sao?
+Đầu tiên, chúng ta sẽ tìm hiểu cách hỏi về khoảng cách giữa hai địa điểm.
 </teacher_script>
 
 <grammar>
@@ -36,7 +36,7 @@ It is (about) + khoảng cách + from + địa điểm 1 + to + địa điểm 2
 ```
 </grammar>
 
-<teacher_script pause="0" href="audio/tts_74383f3a.mp3">
+<teacher_script pause="0">
 <eng>How far is it from A to B?</eng> - Từ A đến B bao xa?
 </teacher_script>
 
@@ -48,7 +48,7 @@ It is (about) + khoảng cách + from + địa điểm 1 + to + địa điểm 2
 
 <!-- chunk: grammar_it_examples -->
 <teacher_script pause="0">
-Xem ví dụ nha.
+Chúng ta cùng xem một số ví dụ sau đây.
 </teacher_script>
 
 <grammar>
@@ -67,7 +67,7 @@ Xem ví dụ nha.
 </grammar>
 
 <teacher_script pause="30">
-Các em ghi vô tập bài học: <eng>How far is it from A to B?</eng> 30 giây.
+Các em hãy ghi cấu trúc này vào vở nhé. Các em có 30 giây.
 </teacher_script>
 
 ---
@@ -76,7 +76,7 @@ Các em ghi vô tập bài học: <eng>How far is it from A to B?</eng> 30 giây
 ### Bài 1 trang 11 - Write sentences with It
 
 <teacher_script pause="90">
-Bài 1 <eng>Write sentences with "It". Use these cues</eng>. Viết câu theo mẫu, ghép số km với 2 địa điểm. 1 phút rưỡi nha.
+Chúng ta cùng làm Bài 1 <eng>Write sentences with It</eng>. Các em hãy viết câu hoàn chỉnh với <eng>It</eng> dựa vào các gợi ý cho sẵn. Các em có 1 phút 30 giây.
 </teacher_script>
 
 <task>
@@ -108,8 +108,8 @@ Bài 1 <eng>Write sentences with "It". Use these cues</eng>. Viết câu theo m�
 ---
 
 <!-- chunk: answer_1 -->
-<teacher_script pause="0" href="audio/tts_a43b7c53.mp3">
-Ok đáp án nha.
+<teacher_script pause="0">
+Đã hết thời gian. Sau đây là đáp án đúng.
 </teacher_script>
 
 <answer>
@@ -122,11 +122,7 @@ Ok đáp án nha.
 </answer>
 
 <teacher_script pause="0">
-Câu 1: <eng>It is about 700 metres from my flat to the Youth Club.</eng> Từ căn hộ của tôi đến Câu lạc bộ Thanh niên khoảng 700 mét.
-</teacher_script>
-
-<teacher_script pause="0">
-Câu 5: <eng>It is not very far from Ha Noi centre to Noi Bai Airport.</eng> Từ trung tâm Hà Nội đến sân bay Nội Bài không xa lắm. Câu này không có số cụ thể, dùng <eng>not very far</eng> - không xa lắm.
+Các em lưu ý câu 5: <eng>It is not very far from Ha Noi centre to Noi Bai Airport.</eng> Vì không có số đo cụ thể nên chúng ta dùng cụm từ <eng>not very far</eng> (không xa lắm).
 </teacher_script>
 
 <explanation>
@@ -155,7 +151,7 @@ Câu 5: <eng>It is not very far from Ha Noi centre to Noi Bai Airport.</eng> T�
 </explanation>
 
 <teacher_script pause="30">
-Sửa bài nếu sai. 30 giây.
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
@@ -164,7 +160,7 @@ Sửa bài nếu sai. 30 giây.
 ### Bài 2 trang 11 - Work in pairs
 
 <teacher_script pause="0">
-Bài 2 <eng>Work in pairs. Ask and answer questions about distances in your neighbourhood</eng>. Hỏi nhau từ nhà đến chợ, đến trường bao xa.
+Chúng ta cùng làm Bài 2 <eng>Work in pairs</eng>. Các em hãy làm việc theo cặp, hỏi và trả lời về khoảng cách giữa các địa điểm trong khu vực nhà mình.
 </teacher_script>
 
 <task>
@@ -198,14 +194,14 @@ Bài 2 <eng>Work in pairs. Ask and answer questions about distances in your neig
 </questions>
 
 <teacher_script pause="0" action="record">
-Ghi âm hỏi đáp về 2 nơi gần nhà em nha.
+Các em hãy ghi âm đoạn hội thoại hỏi đáp về khoảng cách và gửi cho thầy nhé.
 </teacher_script>
 
 ---
 
 <!-- chunk: grammar_should_intro -->
 <teacher_script pause="0">
-Ok giờ qua cái thứ hai: <eng>should</eng> với <eng>shouldn't</eng>. Nên hay không nên làm gì đó.
+Chúng ta cùng chuyển sang phần ngữ pháp thứ hai: <eng>should</eng> và <eng>shouldn't</eng>. Chúng ta dùng cấu trúc này để đưa ra lời khuyên.
 </teacher_script>
 
 <grammar>
@@ -225,22 +221,22 @@ Ok giờ qua cái thứ hai: <eng>should</eng> với <eng>shouldn't</eng>. Nên 
 </grammar>
 
 <teacher_script pause="0">
-<eng>Should</eng> là nên. <eng>Shouldn't</eng> là không nên. Dùng khi muốn khuyên ai đó.
+<eng>Should</eng> nghĩa là nên làm gì đó. <eng>Shouldn't</eng> là không nên làm gì đó.
 </teacher_script>
 
 <teacher_script pause="0">
-<eng>You should study.</eng> - Bạn nên học.
+Ví dụ: <eng>You should study.</eng> (Bạn nên học bài.)
 </teacher_script>
 
 <teacher_script pause="0">
-<eng>You shouldn't play games.</eng> - Bạn không nên chơi game. Thầy nói vậy chứ thầy cũng chơi game hoài luôn á.
+<eng>You shouldn't play games too much.</eng> (Bạn không nên chơi game quá nhiều.)
 </teacher_script>
 
 ---
 
 <!-- chunk: grammar_should_examples -->
 <teacher_script pause="0">
-Thêm mấy ví dụ nữa nè.
+Chúng ta cùng xem thêm một số ví dụ.
 </teacher_script>
 
 <grammar>
@@ -264,14 +260,14 @@ Thêm mấy ví dụ nữa nè.
 </grammar>
 
 <teacher_script pause="30">
-Các em ghi vô tập bài học: <eng>should + động từ</eng> = nên, <eng>shouldn't + động từ</eng> = không nên. 30 giây.
+Các em hãy ghi cấu trúc này vào vở nhé: <eng>should + V</eng> (nên), <eng>shouldn't + V</eng> (không nên). Các em có 30 giây.
 </teacher_script>
 
 ---
 
 <!-- chunk: grammar_must_have_to -->
 <teacher_script pause="0">
-Mở rộng thêm nha. Ngoài <eng>should</eng> còn có <eng>must</eng> với <eng>have to</eng>. Cùng nghĩa là "phải" nhưng khác nhau.
+Sau đây là phần mở rộng. Ngoài <eng>should</eng>, chúng ta còn có <eng>must</eng> và <eng>have to</eng>. Cả ba đều có nghĩa liên quan đến "phải" hoặc "nên", nhưng mức độ khác nhau.
 </teacher_script>
 
 <grammar>
@@ -297,11 +293,11 @@ Mở rộng thêm nha. Ngoài <eng>should</eng> còn có <eng>must</eng> với <
 </grammar>
 
 <teacher_script pause="0">
-Tóm lại: <eng>should</eng> = nên (khuyên), <eng>must</eng> = phải (tự mình), <eng>have to</eng> = phải (bị ép), <eng>mustn't</eng> = cấm.
+Tóm lại: <eng>should</eng> là lời khuyên (nên), <eng>must</eng> và <eng>have to</eng> là bắt buộc (phải), <eng>mustn't</eng> là cấm (không được phép).
 </teacher_script>
 
 <teacher_script pause="30">
-Ghi vô tập bảng so sánh này. 30 giây.
+Các em hãy ghi bảng so sánh này vào vở. Các em có 30 giây.
 </teacher_script>
 
 ---
@@ -310,7 +306,7 @@ Ghi vô tập bảng so sánh này. 30 giây.
 ### Bài 3 trang 12 - Choose the correct option
 
 <teacher_script pause="60">
-Bài 3 <eng>Choose the correct option in brackets</eng>. Chọn <eng>should</eng> hay <eng>shouldn't</eng>. 1 phút.
+Chúng ta cùng làm Bài 3 <eng>Choose the correct option</eng>. Các em hãy chọn <eng>should</eng> hoặc <eng>shouldn't</eng> để hoàn thành câu. Các em có 1 phút.
 </teacher_script>
 
 <task>
@@ -345,7 +341,7 @@ Bài 3 <eng>Choose the correct option in brackets</eng>. Chọn <eng>should</eng
 
 <!-- chunk: answer_3 -->
 <teacher_script pause="0">
-Ok đáp án.
+Đã hết thời gian. Sau đây là đáp án đúng.
 </teacher_script>
 
 <answer>
@@ -353,23 +349,23 @@ Ok đáp án.
 </answer>
 
 <teacher_script pause="0">
-Câu 1: <eng>should</eng>. Sách hay thì nên đọc chứ.
+Câu 1: <eng>should</eng>. Đây là cuốn sách hay, nên đọc.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 2: <eng>should</eng>. Suýt ngã thì nên cẩn thận hơn.
+Câu 2: <eng>should</eng>. Bạn suýt ngã, vì vậy nên cẩn thận hơn.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 3: <eng>shouldn't</eng>. Ăn xong đi bơi liền dễ bị chuột rút lắm.
+Câu 3: <eng>shouldn't</eng>. Không nên đi bơi ngay sau khi ăn.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 4: <eng>should</eng>. Mập quá thì nên ăn ít lại.
+Câu 4: <eng>should</eng>. Anh ấy đang thừa cân, nên ăn ít lại.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 5: <eng>shouldn't</eng>. Đường đông mà lái nhanh nguy hiểm.
+Câu 5: <eng>shouldn't</eng>. Hôm nay đường đông, anh ấy không nên lái xe nhanh.
 </teacher_script>
 
 <explanation>
@@ -389,7 +385,7 @@ Câu 5: <eng>shouldn't</eng>. Đường đông mà lái nhanh nguy hiểm.
 </explanation>
 
 <teacher_script pause="30">
-Sửa bài đi. 30 giây.
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
@@ -398,7 +394,7 @@ Sửa bài đi. 30 giây.
 ### Bài 4 trang 12 - Complete each sentence
 
 <teacher_script pause="60">
-Bài 4 <eng>Complete each sentence, using should or shouldn't</eng>. Điền <eng>should</eng> hay <eng>shouldn't</eng> vô chỗ trống. 1 phút.
+Chúng ta cùng làm Bài 4 <eng>Complete each sentence</eng>. Các em hãy điền <eng>should</eng> hoặc <eng>shouldn't</eng> vào chỗ trống. Các em có 1 phút.
 </teacher_script>
 
 <task>
@@ -436,7 +432,7 @@ Bài 4 <eng>Complete each sentence, using should or shouldn't</eng>. Điền <en
 
 <!-- chunk: answer_4 -->
 <teacher_script pause="0">
-Ok đáp án.
+Đã hết thời gian. Sau đây là đáp án đúng.
 </teacher_script>
 
 <answer>
@@ -450,27 +446,27 @@ Ok đáp án.
 </answer>
 
 <teacher_script pause="0">
-Câu 1: <eng>shouldn't</eng>. Đi nhanh trong mưa nguy hiểm lắm.
+Câu 1: <eng>shouldn't</eng>. Đi xe máy nhanh trong mưa rất nguy hiểm.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 2: <eng>should</eng>. Học đi, đừng có xem YouTube hoài.
+Câu 2: <eng>should</eng>. Bạn nên học bài thay vì xem YouTube.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 3: <eng>shouldn't</eng>. Khuya rồi còn chơi ngoài đường làm gì.
+Câu 3: <eng>shouldn't</eng>. Trẻ nhỏ không nên chơi ngoài trời khuya.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 4: <eng>should</eng>. Giúp mẹ rửa chén là việc tốt.
+Câu 4: <eng>should</eng>. Giúp mẹ rửa bát là việc nên làm.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 5: <eng>should</eng>. Mệt thì ngủ đi.
+Câu 5: <eng>should</eng>. Bạn trông mệt mỏi, nên ngủ một chút.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 6: <eng>shouldn't</eng>. Ăn kem nhiều không tốt đâu.
+Câu 6: <eng>shouldn't</eng>. Trẻ em không nên ăn quá nhiều kem.
 </teacher_script>
 
 <explanation>
@@ -487,7 +483,7 @@ Câu 6: <eng>shouldn't</eng>. Ăn kem nhiều không tốt đâu.
 </explanation>
 
 <teacher_script pause="30">
-Sửa bài đi. 30 giây.
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
@@ -496,7 +492,7 @@ Sửa bài đi. 30 giây.
 ### Bài 5 trang 12 - Look at the pictures
 
 <teacher_script pause="90">
-Bài 5 <eng>Look at the pictures. Make sentences, using should or shouldn't and the cues</eng>. Nhìn tranh rồi đặt câu với <eng>should</eng> hoặc <eng>shouldn't</eng>. 1 phút rưỡi.
+Chúng ta cùng làm Bài 5 <eng>Look at the pictures</eng>. Các em hãy nhìn tranh và đặt câu với <eng>should</eng> hoặc <eng>shouldn't</eng> dựa trên các gợi ý. Các em có 1 phút 30 giây.
 </teacher_script>
 
 <task>
@@ -524,7 +520,7 @@ Bài 5 <eng>Look at the pictures. Make sentences, using should or shouldn't and 
 
 <!-- chunk: answer_5 -->
 <teacher_script pause="0">
-Ok đáp án.
+Đã hết thời gian. Sau đây là đáp án gợi ý.
 </teacher_script>
 
 <answer>
@@ -537,11 +533,11 @@ Ok đáp án.
 </answer>
 
 <teacher_script pause="0">
-Câu 1: <eng>We shouldn't waste water.</eng> Chúng ta không nên lãng phí nước. Lãng phí nước là điều xấu nên dùng <eng>shouldn't</eng>.
+Câu 1: <eng>We shouldn't waste water.</eng> Chúng ta không nên lãng phí nước.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 2: <eng>Children should wear their helmets when cycling.</eng> Trẻ em nên đội mũ bảo hiểm khi đạp xe. Đội mũ bảo hiểm là điều tốt, an toàn nên dùng <eng>should</eng>.
+Câu 2: <eng>Children should wear their helmets when cycling.</eng> Trẻ em nên đội mũ bảo hiểm khi đi xe đạp.
 </teacher_script>
 
 <explanation>
@@ -569,14 +565,14 @@ Câu 2: <eng>Children should wear their helmets when cycling.</eng> Trẻ em nê
 </explanation>
 
 <teacher_script pause="30">
-Sửa bài đi. 30 giây.
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
 
 <!-- chunk: summary -->
 <teacher_script pause="0">
-Ok tóm tắt bài này.
+Chúng ta cùng tóm tắt lại bài học hôm nay.
 </teacher_script>
 
 <grammar>
@@ -608,13 +604,13 @@ Ok tóm tắt bài này.
 
 <!-- chunk: end -->
 <teacher_script pause="0">
-Ok hết <eng>A Closer Look 2</eng> rồi. Về nhà nhớ 2 cái:
+Bài học hôm nay kết thúc tại đây. Các em hãy ghi nhớ hai điểm ngữ pháp quan trọng:
 </teacher_script>
 
 <teacher_script pause="0">
-<eng>How far is it from A to B?</eng> - Hỏi khoảng cách.
+Thứ nhất: <eng>How far is it from A to B?</eng> để hỏi về khoảng cách.
 </teacher_script>
 
 <teacher_script pause="0">
-<eng>Should</eng> và <eng>shouldn't</eng> - Khuyên nên hay không nên làm gì. Bài sau qua <eng>Communication</eng>. Hẹn gặp lại!
+Thứ hai: <eng>Should</eng> và <eng>shouldn't</eng> để đưa ra lời khuyên. Bài học tiếp theo là <eng>Communication</eng>. Hẹn gặp lại các em!
 </teacher_script>

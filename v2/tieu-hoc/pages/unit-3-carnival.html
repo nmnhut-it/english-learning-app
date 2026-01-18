@@ -1,0 +1,407 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Unit 3: Carnival - Comparatives & Superlatives | English Grammar Games</title>
+  <meta name="description" content="Practice comparative and superlative adjectives with interactive exercises">
+
+  <!-- Shared Styles -->
+  <link rel="stylesheet" href="../css/shared.css">
+</head>
+<body>
+  <!-- Game Header -->
+  <header class="game-header">
+    <div class="container">
+      <div class="game-header__container">
+        <div class="game-header__info-section">
+          <h1 class="game-header__title">Unit 3: Carnival</h1>
+          <p class="game-header__subtitle">Comparatives & Superlatives</p>
+
+          <div class="game-info">
+            <div class="game-info__item">
+              <span class="game-info__label">Giáo viên:</span>
+              <span class="game-info__value">Nguyễn Minh Nhựt</span>
+            </div>
+            <div class="game-info__item">
+              <span class="game-info__label">Học sinh:</span>
+              <span class="game-info__value"></span>
+            </div>
+          </div>
+        </div>
+
+        <div class="game-header__stats">
+          <div class="stat">
+            <span class="stat__label">Điểm</span>
+            <span class="stat__value stat__value--primary" id="current-score">⭐ 0</span>
+          </div>
+
+          <div class="stat">
+            <span class="stat__label">Tiến độ</span>
+            <span class="stat__value" id="progress-count">0 / 0</span>
+          </div>
+
+          <div class="stat" id="combo-display" style="display: none;">
+            <span class="stat__label">Combo</span>
+            <span class="stat__value" id="combo-count">0</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Progress Bar -->
+      <div class="progress">
+        <div class="progress__bar" id="progress-bar" style="width: 0%;"></div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Content -->
+  <main class="container">
+    <!-- Theory Panel (Collapsible) -->
+    <div class="theory-panel" id="theory-panel">
+      <button class="theory-panel__toggle" id="theory-toggle">
+        <span>📖 Tài liệu ngữ pháp</span>
+        <span class="theory-panel__icon" id="theory-icon">▼</span>
+      </button>
+
+      <div class="theory-panel__content" id="theory-content">
+        <!-- Section 1: Comparative Adjectives -->
+        <div class="theory-panel__section">
+          <h3 class="theory-panel__heading">1️⃣ So Sánh Hơn (Comparative Adjectives)</h3>
+          <p><strong>Khi nào dùng?</strong> So sánh giữa HAI người, vật, hoặc sự việc.</p>
+
+          <h4 style="margin-top: 1rem; color: var(--primary);">📌 Quy tắc tạo dạng so sánh hơn:</h4>
+
+          <div style="margin-left: 1rem;">
+            <p><strong>A. Tính từ ngắn (1 âm tiết hoặc 2 âm tiết kết thúc -y):</strong></p>
+            <div class="theory-panel__example">
+              <strong>Công thức:</strong> Tính từ + <strong>-er</strong> + <strong>than</strong><br><br>
+              ✓ tall → tall<strong>er</strong> than (cao hơn)<br>
+              ✓ fast → fast<strong>er</strong> than (nhanh hơn)<br>
+              ✓ cheap → cheap<strong>er</strong> than (rẻ hơn)<br><br>
+
+              <strong>Lưu ý đặc biệt:</strong><br>
+              • Kết thúc -y: đổi <strong>y → i</strong> + er<br>
+              &nbsp;&nbsp;happy → happ<strong>ier</strong> than, easy → eas<strong>ier</strong> than<br><br>
+
+              • Kết thúc bằng 1 phụ âm (sau 1 nguyên âm): <strong>nhân đôi</strong> phụ âm + er<br>
+              &nbsp;&nbsp;big → big<strong>ger</strong> than, hot → hot<strong>ter</strong> than, thin → thin<strong>ner</strong> than
+            </div>
+
+            <p style="margin-top: 1rem;"><strong>B. Tính từ dài (2+ âm tiết):</strong></p>
+            <div class="theory-panel__example">
+              <strong>Công thức:</strong> <strong>more</strong> + tính từ + <strong>than</strong><br><br>
+              ✓ <strong>more</strong> beautiful than (đẹp hơn)<br>
+              ✓ <strong>more</strong> expensive than (đắt hơn)<br>
+              ✓ <strong>more</strong> difficult than (khó hơn)<br>
+              ✓ <strong>more</strong> intelligent than (thông minh hơn)
+            </div>
+
+            <p style="margin-top: 1rem;"><strong>C. Dạng bất quy tắc (phải thuộc lòng):</strong></p>
+            <div class="theory-panel__example">
+              good → <strong>better</strong> than (tốt hơn)<br>
+              bad → <strong>worse</strong> than (tệ hơn)<br>
+              far → <strong>farther/further</strong> than (xa hơn)<br>
+              many/much → <strong>more</strong> than (nhiều hơn)<br>
+              little → <strong>less</strong> than (ít hơn)
+            </div>
+          </div>
+
+          <div style="background: #fff3cd; padding: 0.8rem; margin-top: 1rem; border-radius: 4px;">
+            <strong>💡 Mẹo nhận biết:</strong> Thấy từ <strong>"than"</strong> → Dùng so sánh hơn!
+          </div>
+        </div>
+
+        <!-- Section 2: Superlative Adjectives -->
+        <div class="theory-panel__section">
+          <h3 class="theory-panel__heading">2️⃣ So Sánh Nhất (Superlative Adjectives)</h3>
+          <p><strong>Khi nào dùng?</strong> So sánh MỘT người/vật với CẢ NHÓM (3 người trở lên).</p>
+
+          <h4 style="margin-top: 1rem; color: var(--primary);">📌 Quy tắc tạo dạng so sánh nhất:</h4>
+
+          <div style="margin-left: 1rem;">
+            <p><strong>A. Tính từ ngắn:</strong></p>
+            <div class="theory-panel__example">
+              <strong>Công thức:</strong> <strong>the</strong> + tính từ + <strong>-est</strong><br><br>
+              ✓ <strong>the</strong> tall<strong>est</strong> (cao nhất)<br>
+              ✓ <strong>the</strong> fast<strong>est</strong> (nhanh nhất)<br>
+              ✓ <strong>the</strong> cheap<strong>est</strong> (rẻ nhất)<br><br>
+
+              <strong>Lưu ý đặc biệt:</strong><br>
+              • Kết thúc -y: đổi <strong>y → i</strong> + est<br>
+              &nbsp;&nbsp;<strong>the</strong> happ<strong>iest</strong>, <strong>the</strong> eas<strong>iest</strong><br><br>
+
+              • Nhân đôi phụ âm cuối: <strong>the</strong> big<strong>gest</strong>, <strong>the</strong> hot<strong>test</strong>
+            </div>
+
+            <p style="margin-top: 1rem;"><strong>B. Tính từ dài:</strong></p>
+            <div class="theory-panel__example">
+              <strong>Công thức:</strong> <strong>the most</strong> + tính từ<br><br>
+              ✓ <strong>the most</strong> beautiful (đẹp nhất)<br>
+              ✓ <strong>the most</strong> expensive (đắt nhất)<br>
+              ✓ <strong>the most</strong> difficult (khó nhất)<br>
+              ✓ <strong>the most</strong> intelligent (thông minh nhất)
+            </div>
+
+            <p style="margin-top: 1rem;"><strong>C. Dạng bất quy tắc:</strong></p>
+            <div class="theory-panel__example">
+              good → <strong>the best</strong> (tốt nhất)<br>
+              bad → <strong>the worst</strong> (tệ nhất)<br>
+              far → <strong>the farthest/furthest</strong> (xa nhất)<br>
+              many/much → <strong>the most</strong> (nhiều nhất)<br>
+              little → <strong>the least</strong> (ít nhất)
+            </div>
+          </div>
+
+          <div style="background: #fff3cd; padding: 0.8rem; margin-top: 1rem; border-radius: 4px;">
+            <strong>💡 Mẹo nhận biết:</strong> Thấy <strong>"in/of the..."</strong> (trong..., của...) → Dùng so sánh nhất!<br>
+            Ví dụ: the tallest <strong>in</strong> the class, the best <strong>of</strong> all
+          </div>
+        </div>
+
+        <!-- Section 3: As...as Comparisons -->
+        <div class="theory-panel__section">
+          <h3 class="theory-panel__heading">3️⃣ So Sánh Bằng (As...as)</h3>
+          <p><strong>Khi nào dùng?</strong> So sánh hai người/vật có mức độ BẰNG NHAU hoặc KHÔNG BẰNG NHAU.</p>
+
+          <div class="theory-panel__example">
+            <strong>Khẳng định:</strong> <strong>as</strong> + tính từ + <strong>as</strong><br>
+            ✓ Tom is <strong>as tall as</strong> John. (Tom cao bằng John)<br>
+            ✓ This book is <strong>as interesting as</strong> that one.<br><br>
+
+            <strong>Phủ định:</strong> <strong>not as</strong> + tính từ + <strong>as</strong><br>
+            ✓ Coffee is <strong>not as popular as</strong> tea in England.<br>
+            &nbsp;&nbsp;(Cà phê không phổ biến bằng trà ở Anh)<br>
+            ✓ This exercise is <strong>not as difficult as</strong> the last one.
+          </div>
+
+          <div style="background: #d1ecf1; padding: 0.8rem; margin-top: 1rem; border-radius: 4px;">
+            <strong>⚠️ Lưu ý:</strong> Không dùng "more" hay "-er" với cấu trúc as...as!<br>
+            ❌ as more tall as ❌ as taller as<br>
+            ✅ as tall as
+          </div>
+        </div>
+
+        <!-- Section 4: Too and Enough -->
+        <div class="theory-panel__section">
+          <h3 class="theory-panel__heading">4️⃣ Too và Enough</h3>
+
+          <div style="margin-left: 1rem;">
+            <p><strong>A. TOO (quá - mang nghĩa phủ định)</strong></p>
+            <div class="theory-panel__example">
+              <strong>Công thức:</strong> <strong>too</strong> + tính từ + (for sb) + to + động từ<br>
+              <strong>Nghĩa:</strong> Quá...đến nỗi không thể...<br><br>
+
+              ✓ This coffee is <strong>too hot</strong>. I can't drink it.<br>
+              &nbsp;&nbsp;(Cà phê quá nóng, tôi không thể uống được)<br><br>
+
+              ✓ The box is <strong>too heavy for me to</strong> carry.<br>
+              &nbsp;&nbsp;(Cái hộp quá nặng, tôi không thể mang được)<br><br>
+
+              ✓ He is <strong>too young to</strong> drive a car.<br>
+              &nbsp;&nbsp;(Anh ấy quá trẻ để lái xe)
+            </div>
+
+            <p style="margin-top: 1rem;"><strong>B. ENOUGH (đủ - mang nghĩa tích cực)</strong></p>
+            <div class="theory-panel__example">
+              <strong>Công thức:</strong> tính từ + <strong>enough</strong> + (for sb) + to + động từ<br>
+              <strong>Nghĩa:</strong> Đủ...để có thể...<br><br>
+
+              ✓ Are you <strong>tall enough to</strong> reach the shelf?<br>
+              &nbsp;&nbsp;(Bạn có đủ cao để với tới kệ không?)<br><br>
+
+              ✓ She is <strong>old enough to</strong> go to school.<br>
+              &nbsp;&nbsp;(Cô bé đủ tuổi để đi học)<br><br>
+
+              ✓ The room is <strong>big enough for</strong> 20 people.<br>
+              &nbsp;&nbsp;(Căn phòng đủ lớn cho 20 người)
+            </div>
+
+            <div style="background: #f8d7da; padding: 0.8rem; margin-top: 1rem; border-radius: 4px;">
+              <strong>⚠️ VỊ TRÍ QUAN TRỌNG:</strong><br>
+              <strong>too</strong> + tính từ (too đứng TRƯỚC)<br>
+              tính từ + <strong>enough</strong> (enough đứng SAU)<br><br>
+
+              ✅ too big / big enough<br>
+              ❌ big too / enough big
+            </div>
+          </div>
+        </div>
+
+        <!-- Section 5: Common Mistakes -->
+        <div class="theory-panel__section">
+          <h3 class="theory-panel__heading">❌ Lỗi Thường Gặp</h3>
+
+          <div class="theory-panel__example">
+            <strong>1. Nhầm lẫn giữa so sánh hơn và so sánh nhất:</strong><br>
+            ❌ She is the taller than me. → ✅ She is <strong>taller</strong> than me.<br>
+            ❌ He is the most tall in class. → ✅ He is <strong>the tallest</strong> in class.<br><br>
+
+            <strong>2. Dùng "more" với tính từ ngắn:</strong><br>
+            ❌ more tall → ✅ <strong>taller</strong><br>
+            ❌ more cheap → ✅ <strong>cheaper</strong><br>
+            ❌ more good → ✅ <strong>better</strong><br><br>
+
+            <strong>3. Dùng "-er/-est" với tính từ dài:</strong><br>
+            ❌ beautifuler → ✅ <strong>more beautiful</strong><br>
+            ❌ expensivest → ✅ <strong>the most expensive</strong><br><br>
+
+            <strong>4. Quên "the" trong so sánh nhất:</strong><br>
+            ❌ She is tallest girl. → ✅ She is <strong>the</strong> tallest girl.<br>
+            ❌ This is most expensive car. → ✅ This is <strong>the</strong> most expensive car.<br><br>
+
+            <strong>5. Nhầm lẫn vị trí too và enough:</strong><br>
+            ❌ big too → ✅ <strong>too big</strong><br>
+            ❌ enough big → ✅ <strong>big enough</strong>
+          </div>
+        </div>
+
+        <!-- Quick Reference Table -->
+        <div class="theory-panel__section">
+          <h3 class="theory-panel__heading">📊 Bảng Tham Khảo Nhanh</h3>
+          <div class="theory-panel__example">
+            <table style="width: 100%; border-collapse: collapse; font-size: 0.9rem;">
+              <tr style="background: var(--primary); color: white;">
+                <th style="padding: 0.5rem; border: 1px solid #ddd;">Tính từ gốc</th>
+                <th style="padding: 0.5rem; border: 1px solid #ddd;">So sánh hơn</th>
+                <th style="padding: 0.5rem; border: 1px solid #ddd;">So sánh nhất</th>
+              </tr>
+              <tr>
+                <td style="padding: 0.5rem; border: 1px solid #ddd;">tall</td>
+                <td style="padding: 0.5rem; border: 1px solid #ddd;">taller than</td>
+                <td style="padding: 0.5rem; border: 1px solid #ddd;">the tallest</td>
+              </tr>
+              <tr style="background: #f5f5f5;">
+                <td style="padding: 0.5rem; border: 1px solid #ddd;">happy</td>
+                <td style="padding: 0.5rem; border: 1px solid #ddd;">happier than</td>
+                <td style="padding: 0.5rem; border: 1px solid #ddd;">the happiest</td>
+              </tr>
+              <tr>
+                <td style="padding: 0.5rem; border: 1px solid #ddd;">big</td>
+                <td style="padding: 0.5rem; border: 1px solid #ddd;">bigger than</td>
+                <td style="padding: 0.5rem; border: 1px solid #ddd;">the biggest</td>
+              </tr>
+              <tr style="background: #f5f5f5;">
+                <td style="padding: 0.5rem; border: 1px solid #ddd;">beautiful</td>
+                <td style="padding: 0.5rem; border: 1px solid #ddd;">more beautiful than</td>
+                <td style="padding: 0.5rem; border: 1px solid #ddd;">the most beautiful</td>
+              </tr>
+              <tr>
+                <td style="padding: 0.5rem; border: 1px solid #ddd;">good</td>
+                <td style="padding: 0.5rem; border: 1px solid #ddd;">better than</td>
+                <td style="padding: 0.5rem; border: 1px solid #ddd;">the best</td>
+              </tr>
+              <tr style="background: #f5f5f5;">
+                <td style="padding: 0.5rem; border: 1px solid #ddd;">bad</td>
+                <td style="padding: 0.5rem; border: 1px solid #ddd;">worse than</td>
+                <td style="padding: 0.5rem; border: 1px solid #ddd;">the worst</td>
+              </tr>
+            </table>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Exercise Container -->
+    <div id="exercise-container">
+      <!-- Exercises will be rendered here dynamically -->
+      <div class="card text-center">
+        <h2>Đang tải...</h2>
+        <p>Vui lòng đợi trong khi chúng tôi tải bài tập.</p>
+      </div>
+    </div>
+  </main>
+
+  <!-- Core JavaScript (loaded first) -->
+  <script src="../js/core/utils.js"></script>
+  <script src="../js/core/storage.js"></script>
+  <script src="../js/core/telegram-sender.js"></script>
+  <script src="../js/core/game-engine.js"></script>
+
+  <!-- Exercise Type Handlers (mobile-friendly types only) -->
+  <script src="../js/exercises/multiple-choice.js"></script>
+  <script src="../js/exercises/word-rearrange.js"></script>
+
+  <!-- Initialize Game -->
+  <script>
+    const UNIT_ID = 'unit-3-carnival';
+    const DATA_PATH = '../data/unit-3-carnival.json';
+
+    // Theory panel toggle
+    const theoryToggle = document.getElementById('theory-toggle');
+    const theoryContent = document.getElementById('theory-content');
+    const theoryIcon = document.getElementById('theory-icon');
+
+    theoryToggle.addEventListener('click', () => {
+      const isExpanded = theoryContent.classList.contains('theory-panel__content--expanded');
+
+      if (isExpanded) {
+        theoryContent.classList.remove('theory-panel__content--expanded');
+        theoryIcon.classList.remove('theory-panel__icon--rotated');
+      } else {
+        theoryContent.classList.add('theory-panel__content--expanded');
+        theoryIcon.classList.add('theory-panel__icon--rotated');
+      }
+    });
+
+    // Combo display logic
+    function updateComboDisplay() {
+      const comboDisplay = document.getElementById('combo-display');
+      const comboCount = document.getElementById('combo-count');
+      const state = GameEngine.getState();
+
+      if (state.comboCount >= 3) {
+        comboDisplay.style.display = 'flex';
+        comboCount.textContent = state.comboCount + 'x 🔥';
+      } else {
+        comboDisplay.style.display = 'none';
+      }
+    }
+
+    // Override GameEngine.updateUI to include combo display
+    const originalUpdateUI = GameEngine.updateUI.bind(GameEngine);
+    GameEngine.updateUI = function() {
+      originalUpdateUI();
+      updateComboDisplay();
+    };
+
+    // Load unit data and start game
+    async function loadAndStartGame() {
+      try {
+        const response = await fetch(DATA_PATH);
+
+        if (!response.ok) {
+          throw new Error(`Failed to load data: ${response.status}`);
+        }
+
+        const unitData = await response.json();
+
+        console.log('Unit data loaded:', unitData);
+        console.log('Registered exercise handlers:', Object.keys(GameEngine.exerciseHandlers));
+
+        GameEngine.init(unitData, UNIT_ID);
+
+      } catch (error) {
+        console.error('Error loading game data:', error);
+
+        const container = document.getElementById('exercise-container');
+        container.innerHTML = `
+          <div class="card">
+            <h2 style="color: var(--danger);">Lỗi tải trò chơi</h2>
+            <p>Xin lỗi, chúng tôi không thể tải dữ liệu bài tập. Vui lòng thử tải lại trang.</p>
+            <p style="font-size: var(--font-size-sm); color: var(--text-light);">Lỗi: ${error.message}</p>
+            <button class="btn btn--primary mt-2" onclick="location.reload()">Tải lại trang</button>
+          </div>
+        `;
+      }
+    }
+
+    // Start game when page loads
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', loadAndStartGame);
+    } else {
+      loadAndStartGame();
+    }
+  </script>
+</body>
+</html>

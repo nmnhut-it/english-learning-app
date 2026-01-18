@@ -1,0 +1,344 @@
+{
+  "unitId": "g6-review-3-units-7-9",
+  "title": "Review 3: Units 7-9 - Question Words, Conjunctions, Past Simple, Superlatives",
+  "studentName": "Tran Gia Hung",
+  "grade": 6,
+  "grammarTopics": [
+    "Question Words (Wh-questions)",
+    "Conjunctions (and, but, or, so)",
+    "Past Simple Tense",
+    "Superlative Adjectives",
+    "Present Perfect (have been to)"
+  ],
+  "theory": {
+    "brief": "Ôn tập Units 7-9: Từ để hỏi (What, Where, When, Who, Why, How), Liên từ (and, but, or, so), Thì quá khứ đơn (Past Simple), So sánh nhất (Superlative), Present Perfect (have been to).",
+    "examples": [
+      "What do you like? (Bạn thích gì?)",
+      "I like sports, and my brother likes cartoons. (Tôi thích thể thao, và anh tôi thích phim hoạt hình.)",
+      "I played football yesterday. (Tôi đã chơi bóng hôm qua.)",
+      "Tokyo is the biggest city in Japan. (Tokyo là thành phố lớn nhất Nhật Bản.)",
+      "I have been to Paris twice. (Tôi đã từng đến Paris hai lần.)"
+    ]
+  },
+  "exercises": [
+    {
+      "id": "g6r3-ex1",
+      "type": "fill-blank",
+      "question": "_______ do you watch TV? - Every day.",
+      "wordHint": "bao lâu một lần",
+      "answer": "How often",
+      "acceptedAnswers": [
+        "How often"
+      ],
+      "hints": [
+        "'How often' hỏi về tần suất"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6r3-ex2",
+      "type": "fill-blank",
+      "question": "_______ is your favorite programme? - Cartoons.",
+      "wordHint": "cái gì",
+      "answer": "What",
+      "acceptedAnswers": [
+        "What"
+      ],
+      "hints": [
+        "'What' hỏi về sự vật"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6r3-ex3",
+      "type": "fill-blank",
+      "question": "I like sports, _______ my brother likes cartoons.",
+      "wordHint": "and/but",
+      "answer": "and",
+      "acceptedAnswers": [
+        "and",
+        "but"
+      ],
+      "hints": [
+        "Nối hai câu"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6r3-ex4",
+      "type": "fill-blank",
+      "question": "The film is good, _______ it's too long.",
+      "wordHint": "but/and",
+      "answer": "but",
+      "acceptedAnswers": [
+        "but"
+      ],
+      "hints": [
+        "Đối lập = but"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6r3-ex5",
+      "type": "fill-blank",
+      "question": "I'm tired, _______ I'll go to bed.",
+      "wordHint": "so/but",
+      "answer": "so",
+      "acceptedAnswers": [
+        "so"
+      ],
+      "hints": [
+        "Kết quả = so"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6r3-ex6",
+      "type": "fill-blank",
+      "question": "I _______ (play) football yesterday.",
+      "wordHint": "(play)",
+      "answer": "played",
+      "acceptedAnswers": [
+        "played"
+      ],
+      "hints": [
+        "Thì quá khứ đơn"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6r3-ex7",
+      "type": "fill-blank",
+      "question": "She _______ (go) to the gym last week.",
+      "wordHint": "(go)",
+      "answer": "went",
+      "acceptedAnswers": [
+        "went"
+      ],
+      "hints": [
+        "Bất quy tắc: go → went"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6r3-ex8",
+      "type": "fill-blank",
+      "question": "We _______ (not play) tennis yesterday.",
+      "wordHint": "(not play)",
+      "answer": "didn't play",
+      "acceptedAnswers": [
+        "didn't play",
+        "did not play"
+      ],
+      "hints": [
+        "Phủ định: didn't + V0"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6r3-ex9",
+      "type": "fill-blank",
+      "question": "Tokyo is _______ (big) city in Japan.",
+      "wordHint": "(big)",
+      "answer": "the biggest",
+      "acceptedAnswers": [
+        "the biggest"
+      ],
+      "hints": [
+        "So sánh nhất: the + adj-est"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6r3-ex10",
+      "type": "fill-blank",
+      "question": "This is _______ (beautiful) place in the world.",
+      "wordHint": "(beautiful)",
+      "answer": "the most beautiful",
+      "acceptedAnswers": [
+        "the most beautiful"
+      ],
+      "hints": [
+        "Tính từ dài: the most + adj"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6r3-ex11",
+      "type": "fill-blank",
+      "question": "I _______ (be) to Paris twice.",
+      "wordHint": "have been",
+      "answer": "have been",
+      "acceptedAnswers": [
+        "have been"
+      ],
+      "hints": [
+        "Present Perfect: have been to"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6r3-ex12",
+      "type": "fill-blank",
+      "question": "She _______ (be) to London before.",
+      "wordHint": "has been",
+      "answer": "has been",
+      "acceptedAnswers": [
+        "has been"
+      ],
+      "hints": [
+        "'She' → has been"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6r3-ex13",
+      "type": "multiple-choice",
+      "question": "_______ do you go to school? - By bike.",
+      "options": [
+        "How",
+        "What",
+        "Where",
+        "When"
+      ],
+      "correctIndex": 0,
+      "explanation": "'How' hỏi về phương thức",
+      "hints": [
+        "Hỏi về phương tiện"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6r3-ex14",
+      "type": "multiple-choice",
+      "question": "I love music, _______ I play guitar every day.",
+      "options": [
+        "and",
+        "but",
+        "or",
+        "so"
+      ],
+      "correctIndex": 3,
+      "explanation": "'so' = vì vậy (kết quả)",
+      "hints": [
+        "Kết quả"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6r3-ex15",
+      "type": "multiple-choice",
+      "question": "I _______ swimming last Sunday.",
+      "options": [
+        "go",
+        "went",
+        "going",
+        "goes"
+      ],
+      "correctIndex": 1,
+      "explanation": "Quá khứ: go → went",
+      "hints": [
+        "'last Sunday' → quá khứ"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6r3-ex16",
+      "type": "multiple-choice",
+      "question": "What is _______ river in the world?",
+      "options": [
+        "the longest",
+        "longest",
+        "the most long",
+        "more long"
+      ],
+      "correctIndex": 0,
+      "explanation": "So sánh nhất: the + adj-est",
+      "hints": [
+        "Tính từ ngắn"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6r3-ex17",
+      "type": "multiple-choice",
+      "question": "She _______ to New York three times.",
+      "options": [
+        "has been",
+        "have been",
+        "was",
+        "is"
+      ],
+      "correctIndex": 0,
+      "explanation": "'She' → has been to",
+      "hints": [
+        "Present Perfect"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6r3-ex18",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "What is your favourite programme?",
+        "What is your favourite programme"
+      ],
+      "hints": [
+        "What + is + N?"
+      ],
+      "points": 15,
+      "correctSentence": "What is your favourite programme?",
+      "words": [
+        "what",
+        "your",
+        "is",
+        "programme",
+        "favourite"
+      ]
+    },
+    {
+      "id": "g6r3-ex19",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "I played football yesterday.",
+        "I played football yesterday"
+      ],
+      "hints": [
+        "S + V2 + O + time"
+      ],
+      "points": 15,
+      "correctSentence": "I played football yesterday.",
+      "words": [
+        "played",
+        "I",
+        "yesterday",
+        "football"
+      ]
+    },
+    {
+      "id": "g6r3-ex20",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "Tokyo is the biggest city in Japan.",
+        "Tokyo is the biggest city in Japan"
+      ],
+      "hints": [
+        "S + is + the + adj-est + N"
+      ],
+      "points": 15,
+      "correctSentence": "Tokyo is the biggest city in Japan.",
+      "words": [
+        "Tokyo",
+        "biggest",
+        "is",
+        "city",
+        "the",
+        "Japan",
+        "in"
+      ]
+    }
+  ]
+}

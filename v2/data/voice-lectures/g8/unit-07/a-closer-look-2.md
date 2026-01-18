@@ -4,7 +4,7 @@
 
 <!-- chunk: intro -->
 <teacher_script pause="0">
-Chào các em. Qua bài <eng>A Closer Look 2</eng>. Hôm nay mình học ngữ pháp về **Câu phức với mệnh đề trạng ngữ chỉ thời gian** (Complex sentences with adverb clauses of time). Mở sách trang 75 nha.
+Chào các em. Chào mừng các em đến với bài học hôm nay. Mời các em mở sách giáo khoa.
 </teacher_script>
 
 ---
@@ -35,7 +35,7 @@ Gồm một mệnh đề độc lập (Independent clause - I.C) và một mện
 ### Bài 1 trang 75 - Independent or Dependent Clause
 
 <teacher_script pause="60">
-Bài 1 xác định mệnh đề I.C (Độc lập) hay D.C (Phụ thuộc). 1 phút nha.
+Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
 <task>
@@ -54,7 +54,7 @@ Bài 1 xác định mệnh đề I.C (Độc lập) hay D.C (Phụ thuộc). 1 p
 
 <!-- chunk: answer_1 -->
 <teacher_script pause="0">
-Đáp án nè. Mẹo: Mệnh đề nào có liên từ (when, until...) đứng đầu thường là D.C.
+Đã hết thời gian. Sau đây là đáp án gợi ý. Các em hãy đối chiếu với bài làm của mình nhé.
 </teacher_script>
 
 <answer>
@@ -67,7 +67,7 @@ Bài 1 xác định mệnh đề I.C (Độc lập) hay D.C (Phụ thuộc). 1 p
 </answer>
 
 <teacher_script pause="30">
-Sửa bài nếu sai nha.
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
@@ -76,7 +76,7 @@ Sửa bài nếu sai nha.
 ### Bài 2 trang 75 - Choose Correct Conjunction
 
 <teacher_script pause="60">
-Bài 2 chọn liên từ đúng. 1 phút nha.
+Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
 <questions type="multiple_choice">
@@ -100,7 +100,7 @@ A. until | B. before | C. while
 
 <!-- chunk: answer_2 -->
 <teacher_script pause="0">
-Đáp án nè.
+Đã hết thời gian. Sau đây là đáp án gợi ý. Các em hãy đối chiếu với bài làm của mình nhé.
 </teacher_script>
 
 <answer>
@@ -117,7 +117,7 @@ A. until | B. before | C. while
 </explanation>
 
 <teacher_script pause="30">
-Sửa bài nếu sai nha.
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
@@ -126,7 +126,7 @@ Sửa bài nếu sai nha.
 ### Bài 3 trang 76 - Match Clauses
 
 <teacher_script pause="60">
-Bài 3 nối hai mệnh đề để tạo thành câu hoàn chỉnh. 1 phút nha.
+Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
 <task>
@@ -149,7 +149,7 @@ e. when you get on the train.
 
 <!-- chunk: answer_3 -->
 <teacher_script pause="0">
-Đáp án nè.
+Đã hết thời gian. Sau đây là đáp án gợi ý. Các em hãy đối chiếu với bài làm của mình nhé.
 </teacher_script>
 
 <answer>
@@ -166,7 +166,7 @@ e. when you get on the train.
 </explanation>
 
 <teacher_script pause="30">
-Sửa bài nếu sai nha.
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
@@ -175,7 +175,7 @@ Sửa bài nếu sai nha.
 ### Bài 4 trang 76 - Combine sentences
 
 <teacher_script pause="120">
-Bài 4 nối 2 câu dùng liên từ trong ngoặc. 2 phút nha.
+Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
 <task>
@@ -194,7 +194,7 @@ Bài 4 nối 2 câu dùng liên từ trong ngoặc. 2 phút nha.
 
 <!-- chunk: answer_4 -->
 <teacher_script pause="0">
-Đáp án nè.
+Đã hết thời gian. Sau đây là đáp án gợi ý. Các em hãy đối chiếu với bài làm của mình nhé.
 </teacher_script>
 
 <answer>
@@ -207,12 +207,12 @@ Bài 4 nối 2 câu dùng liên từ trong ngoặc. 2 phút nha.
 </answer>
 
 <teacher_script pause="30">
-Sửa bài nếu sai nha. Chú ý vị trí của liên từ.
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
 
 <!-- chunk: end -->
 <teacher_script pause="0">
-Xong bài <eng>A Closer Look 2</eng>. Các em nhớ nắm chắc các liên từ chỉ thời gian nhé: when, while, before, after, as soon as, until. Hẹn gặp lại!
+Bài học hôm nay kết thúc tại đây. Các em nhớ ôn bài và chuẩn bị cho bài học tiếp theo. Tạm biệt các em.
 </teacher_script>

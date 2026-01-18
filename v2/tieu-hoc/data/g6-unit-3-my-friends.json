@@ -1,0 +1,431 @@
+{
+  "unitId": "g6-unit-3-my-friends",
+  "title": "Unit 3: My Friends - Present Continuous & Appearance",
+  "studentName": "Tran Gia Hung",
+  "grade": 6,
+  "grammarTopics": [
+    "Present Continuous Tense",
+    "Appearance Adjectives",
+    "Personality Adjectives",
+    "Body Parts Vocabulary"
+  ],
+  "theory": {
+    "brief": "Thì Hiện Tại Tiếp Diễn (Present Continuous) diễn tả hành động đang diễn ra tại thời điểm nói. Công thức: (+) S + am/is/are + V-ing, (-) S + am/is/are + not + V-ing, (?) Am/Is/Are + S + V-ing? Dấu hiệu: now, at the moment, Look!, Listen! Tính từ miêu tả ngoại hình: long/short hair, big/small eyes, round/oval face. Tính từ tính cách: friendly, kind, hard-working, creative, funny.",
+    "examples": [
+      "I am learning English now. (Tôi đang học tiếng Anh bây giờ.)",
+      "She is reading a book. (Cô ấy đang đọc sách.)",
+      "They are not playing football. (Họ không đang chơi bóng đá.)",
+      "Are you listening to music? (Bạn đang nghe nhạc phải không?)",
+      "She has long black hair. (Cô ấy có mái tóc đen dài.)",
+      "He is friendly and kind. (Anh ấy thân thiện và tốt bụng.)"
+    ]
+  },
+  "exercises": [
+    {
+      "id": "g6u3-ex1",
+      "type": "fill-blank",
+      "question": "Look! The boys _______ (play) football in the yard.",
+      "wordHint": "(play)",
+      "answer": "are playing",
+      "acceptedAnswers": [
+        "are playing"
+      ],
+      "hints": [
+        "Có 'Look!' - dấu hiệu thì hiện tại tiếp diễn, chủ từ 'The boys' số nhiều dùng 'are'"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u3-ex2",
+      "type": "fill-blank",
+      "question": "She _______ (read) her favourite magazine now.",
+      "wordHint": "(read)",
+      "answer": "is reading",
+      "acceptedAnswers": [
+        "is reading"
+      ],
+      "hints": [
+        "Có 'now' - thì hiện tại tiếp diễn, chủ từ 'She' dùng 'is'"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u3-ex3",
+      "type": "fill-blank",
+      "question": "Mi and Mai _______ (talk) about their new friends.",
+      "wordHint": "(talk)",
+      "answer": "are talking",
+      "acceptedAnswers": [
+        "are talking"
+      ],
+      "hints": [
+        "Chủ từ 'Mi and Mai' số nhiều, dùng 'are + V-ing'"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u3-ex4",
+      "type": "fill-blank",
+      "question": "Nam _______ (not do) his homework now. He is reading.",
+      "wordHint": "(not do)",
+      "answer": "is not doing",
+      "acceptedAnswers": [
+        "is not doing",
+        "isn't doing"
+      ],
+      "hints": [
+        "Câu phủ định hiện tại tiếp diễn: is not + V-ing"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u3-ex5",
+      "type": "fill-blank",
+      "question": "_______ they _______ (listen) to music at the moment?",
+      "wordHint": "(listen)",
+      "answer": "Are they listening",
+      "acceptedAnswers": [
+        "Are they listening"
+      ],
+      "hints": [
+        "Câu hỏi hiện tại tiếp diễn: Are + chủ từ + V-ing?"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u3-ex6",
+      "type": "fill-blank",
+      "question": "What _______ he _______ (do) now?",
+      "wordHint": "(do)",
+      "answer": "is he doing",
+      "acceptedAnswers": [
+        "is he doing"
+      ],
+      "hints": [
+        "Câu hỏi có từ hỏi: What + is + chủ từ + V-ing?"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u3-ex7",
+      "type": "fill-blank",
+      "question": "I _______ (write) an email to my friend at present.",
+      "wordHint": "(write)",
+      "answer": "am writing",
+      "acceptedAnswers": [
+        "am writing"
+      ],
+      "hints": [
+        "Có 'at present' - thì hiện tại tiếp diễn, chủ từ 'I' dùng 'am'"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u3-ex8",
+      "type": "fill-blank",
+      "question": "Look! The children _______ (swim) in the pool.",
+      "wordHint": "(swim)",
+      "answer": "are swimming",
+      "acceptedAnswers": [
+        "are swimming"
+      ],
+      "hints": [
+        "Có 'Look!' và chủ từ số nhiều 'The children'"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u3-ex9",
+      "type": "fill-blank",
+      "question": "She has long _______ hair.",
+      "wordHint": "đen",
+      "answer": "black",
+      "acceptedAnswers": [
+        "black"
+      ],
+      "hints": [
+        "Tính từ chỉ màu sắc của tóc"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u3-ex10",
+      "type": "fill-blank",
+      "question": "My friend is very _______. She likes to help people.",
+      "wordHint": "tốt bụng",
+      "answer": "kind",
+      "acceptedAnswers": [
+        "kind"
+      ],
+      "hints": [
+        "Tính từ miêu tả tính cách, nghĩa là 'tốt bụng'"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u3-ex11",
+      "type": "fill-blank",
+      "question": "Nam is very _______. He likes to draw and has many new ideas.",
+      "wordHint": "sáng tạo",
+      "answer": "creative",
+      "acceptedAnswers": [
+        "creative"
+      ],
+      "hints": [
+        "Tính từ chỉ tính cách, nghĩa là 'sáng tạo'"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u3-ex12",
+      "type": "fill-blank",
+      "question": "My sister is _______. She always does her homework before class.",
+      "wordHint": "chăm chỉ",
+      "answer": "hard-working",
+      "acceptedAnswers": [
+        "hard-working",
+        "hardworking"
+      ],
+      "hints": [
+        "Tính từ chỉ tính cách, nghĩa là 'chăm chỉ'"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u3-ex13",
+      "type": "fill-blank",
+      "question": "He is very _______. He likes to meet new people.",
+      "wordHint": "thân thiện",
+      "answer": "friendly",
+      "acceptedAnswers": [
+        "friendly"
+      ],
+      "hints": [
+        "Tính từ chỉ tính cách, nghĩa là 'thân thiện'"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u3-ex14",
+      "type": "fill-blank",
+      "question": "Nick is _______. He makes everyone laugh.",
+      "wordHint": "hài hước",
+      "answer": "funny",
+      "acceptedAnswers": [
+        "funny"
+      ],
+      "hints": [
+        "Tính từ chỉ tính cách, nghĩa là 'hài hước'"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u3-ex15",
+      "type": "fill-blank",
+      "question": "Mai has big _______ and a small nose.",
+      "wordHint": "mắt",
+      "answer": "eyes",
+      "acceptedAnswers": [
+        "eyes"
+      ],
+      "hints": [
+        "Bộ phận cơ thể, số nhiều của 'eye'"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u3-ex16",
+      "type": "multiple-choice",
+      "question": "My best friend _______ to school every day. Sometimes she cycles.",
+      "options": [
+        "doesn't walk",
+        "isn't walking",
+        "don't walk",
+        "aren't walking"
+      ],
+      "correctIndex": 0,
+      "explanation": "Có 'every day' - thì hiện tại đơn, chủ từ 'friend' số ít dùng 'doesn't'",
+      "hints": [
+        "Dấu hiệu 'every day' - thì hiện tại đơn"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u3-ex17",
+      "type": "multiple-choice",
+      "question": "Look! What _______ he playing?",
+      "options": [
+        "is",
+        "are",
+        "does",
+        "do"
+      ],
+      "correctIndex": 0,
+      "explanation": "Có 'Look!' - thì hiện tại tiếp diễn, chủ từ 'he' dùng 'is'",
+      "hints": [
+        "'Look!' là dấu hiệu thì hiện tại tiếp diễn"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u3-ex18",
+      "type": "multiple-choice",
+      "question": "_______ your friends study in the library every afternoon?",
+      "options": [
+        "Do",
+        "Does",
+        "Are",
+        "Is"
+      ],
+      "correctIndex": 0,
+      "explanation": "Có 'every afternoon' - thì hiện tại đơn, chủ từ 'friends' số nhiều dùng 'Do'",
+      "hints": [
+        "'every afternoon' - thì hiện tại đơn, chủ từ số nhiều"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u3-ex19",
+      "type": "multiple-choice",
+      "question": "She _______ a round face and long hair.",
+      "options": [
+        "has",
+        "have",
+        "is",
+        "are"
+      ],
+      "correctIndex": 0,
+      "explanation": "Miêu tả ngoại hình dùng 'have/has', chủ từ 'She' dùng 'has'",
+      "hints": [
+        "Cấu trúc: S + have/has + danh từ chỉ ngoại hình"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u3-ex20",
+      "type": "multiple-choice",
+      "question": "Nam and Phong _______ badminton at the moment.",
+      "options": [
+        "are playing",
+        "is playing",
+        "play",
+        "plays"
+      ],
+      "correctIndex": 0,
+      "explanation": "Có 'at the moment' - thì hiện tại tiếp diễn, chủ từ số nhiều dùng 'are'",
+      "hints": [
+        "'at the moment' - dấu hiệu thì hiện tại tiếp diễn"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u3-ex21",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "She is reading a book now.",
+        "She is reading a book now"
+      ],
+      "hints": [
+        "Cấu trúc: S + am/is/are + V-ing + O + time"
+      ],
+      "points": 15,
+      "correctSentence": "She is reading a book now.",
+      "words": [
+        "now",
+        "reading",
+        "is",
+        "she",
+        "book",
+        "a"
+      ]
+    },
+    {
+      "id": "g6u3-ex22",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "They are listening to music now.",
+        "They are listening to music now"
+      ],
+      "hints": [
+        "listen to music = nghe nhạc"
+      ],
+      "points": 15,
+      "correctSentence": "They are listening to music now.",
+      "words": [
+        "they",
+        "music",
+        "listening",
+        "are",
+        "to",
+        "now"
+      ]
+    },
+    {
+      "id": "g6u3-ex23",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "She has long black hair.",
+        "She has long black hair"
+      ],
+      "hints": [
+        "Cấu trúc: S + have/has + tính từ + danh từ"
+      ],
+      "points": 15,
+      "correctSentence": "She has long black hair.",
+      "words": [
+        "has",
+        "she",
+        "hair",
+        "black",
+        "long"
+      ]
+    },
+    {
+      "id": "g6u3-ex24",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "My friend is very friendly and kind.",
+        "My friend is very friendly and kind"
+      ],
+      "hints": [
+        "Cấu trúc: S + is + very + tính từ + and + tính từ"
+      ],
+      "points": 15,
+      "correctSentence": "My friend is very friendly and kind.",
+      "words": [
+        "is",
+        "my",
+        "friendly",
+        "friend",
+        "very",
+        "and",
+        "kind"
+      ]
+    },
+    {
+      "id": "g6u3-ex25",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "What are you doing now?",
+        "What are you doing now"
+      ],
+      "hints": [
+        "Câu hỏi có từ hỏi: What + are + you + V-ing?"
+      ],
+      "points": 15,
+      "correctSentence": "What are you doing now?",
+      "words": [
+        "doing",
+        "what",
+        "you",
+        "now",
+        "are"
+      ]
+    }
+  ]
+}

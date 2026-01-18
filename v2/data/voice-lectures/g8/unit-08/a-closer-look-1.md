@@ -4,7 +4,7 @@
 
 <!-- chunk: intro -->
 <teacher_script pause="0">
-Chào các em. Hôm nay mình học bài <eng>A Closer Look 1</eng>. Mình sẽ học từ vựng về các địa điểm mua sắm và phát âm hai cụm phụ âm /sp/ và /st/. Mở sách trang 84 nha.
+Chào các em. Chào mừng các em đến với bài học hôm nay. Mời các em mở sách giáo khoa.
 </teacher_script>
 
 ---
@@ -23,7 +23,7 @@ Chào các em. Hôm nay mình học bài <eng>A Closer Look 1</eng>. Mình sẽ 
 </vocabulary>
 
 <teacher_script pause="0">
-Nghe và lặp lại từ vựng nào.
+Chúng ta cùng học từ vựng mới. Các em hãy nghe và lặp lại theo mẫu nhé.
 </teacher_script>
 
 ---
@@ -32,7 +32,7 @@ Nghe và lặp lại từ vựng nào.
 ### Bài 1 trang 84 - Word and Pictures
 
 <teacher_script pause="60">
-Bài 1 <eng>Write words under pictures</eng>. Nhìn tranh và viết từ. 1 phút nha.
+Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
 <task>
@@ -54,7 +54,7 @@ Bài 1 <eng>Write words under pictures</eng>. Nhìn tranh và viết từ. 1 ph�
 </answer>
 
 <teacher_script pause="30">
-Sửa bài nhanh nha.
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
@@ -63,7 +63,7 @@ Sửa bài nhanh nha.
 ### Bài 2 trang 84 - Match shopping places
 
 <teacher_script pause="60">
-Bài 2 <eng>Match the shopping places with their characteristics</eng>. Nối địa điểm với đặc điểm. 1 phút nha.
+Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
 <task>
@@ -96,7 +96,7 @@ e. Offers one or two specific kinds of goods.
 </explanation>
 
 <teacher_script pause="30">
-Sửa bài nếu sai nha.
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
@@ -105,7 +105,7 @@ Sửa bài nếu sai nha.
 ### Bài 3 trang 84 - Complete sentences
 
 <teacher_script pause="60">
-Bài 3 điền từ vào chỗ trống. 1 phút bắt đầu.
+Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
 <questions type="fill_blanks">
@@ -123,7 +123,7 @@ Bài 3 điền từ vào chỗ trống. 1 phút bắt đầu.
 </answer>
 
 <teacher_script pause="30">
-Sửa bài vào nha.
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
@@ -132,7 +132,7 @@ Sửa bài vào nha.
 ### Bài 4 trang 84 - Pronunciation /sp/ & /st/
 
 <teacher_script pause="0">
-Qua phần phát âm. Hai âm hôm nay là **/sp/** và **/st/**. Nghe và lặp lại nha.
+Các em nghe và thực hành theo nhé.
 </teacher_script>
 
 <audio src="https://img.loigiaihay.com/picture/2023/0616/track-47.mp3">
@@ -150,7 +150,7 @@ Qua phần phát âm. Hai âm hôm nay là **/sp/** và **/st/**. Nghe và lặp
 ### Bài 5 trang 84 - Listen and repeat sentences
 
 <teacher_script pause="0">
-Bài 5 nghe và thực hành câu. Chú ý từ chứa âm /sp/ và /st/.
+Các em nghe và thực hành theo nhé.
 </teacher_script>
 
 <audio src="https://img.loigiaihay.com/picture/2023/0616/track-48.mp3">
@@ -166,12 +166,12 @@ Bài 5 nghe và thực hành câu. Chú ý từ chứa âm /sp/ và /st/.
 </reading>
 
 <teacher_script pause="0" action="record">
-Em hãy ghi âm 5 câu này gửi cho thầy nhé. Cố gắng phát âm rõ /sp/ và /st/.
+Các em hãy ghi âm phần luyện tập của mình và gửi cho thầy nhé.
 </teacher_script>
 
 ---
 
 <!-- chunk: end -->
 <teacher_script pause="0">
-Xong bài <eng>A Closer Look 1</eng>. Các em nhớ từ vựng và luyện phát âm nhé. Tạm biệt!
+Bài học hôm nay kết thúc tại đây. Các em nhớ ôn bài và chuẩn bị cho bài học tiếp theo. Tạm biệt các em.
 </teacher_script>

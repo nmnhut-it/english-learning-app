@@ -1,0 +1,409 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Unit 6: Day Trip - Be Going To | English Grammar Games</title>
+  <meta name="description" content="Practice 'be going to' for plans, intentions, and predictions">
+
+  <!-- Shared Styles -->
+  <link rel="stylesheet" href="../css/shared.css">
+</head>
+<body>
+  <!-- Game Header -->
+  <header class="game-header">
+    <div class="container">
+      <div class="game-header__container">
+        <div class="game-header__info-section">
+          <h1 class="game-header__title">Unit 6: Day Trip</h1>
+          <p class="game-header__subtitle">Be Going To - Plans & Predictions</p>
+          <div class="game-info">
+            <div class="game-info__item">
+              <span class="game-info__label">Giáo viên:</span>
+              <span class="game-info__value">Nguyễn Minh Nhựt</span>
+            </div>
+            <div class="game-info__item">
+              <span class="game-info__label">Học sinh:</span>
+              <span class="game-info__value"></span>
+            </div>
+          </div>
+        </div>
+
+        <div class="game-header__stats">
+          <div class="stat">
+            <span class="stat__label">Điểm</span>
+            <span class="stat__value stat__value--primary" id="current-score">⭐ 0</span>
+          </div>
+
+          <div class="stat">
+            <span class="stat__label">Tiến độ</span>
+            <span class="stat__value" id="progress-count">0 / 0</span>
+          </div>
+
+          <div class="stat" id="combo-display" style="display: none;">
+            <span class="stat__label">Combo</span>
+            <span class="stat__value" id="combo-count">0</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Progress Bar -->
+      <div class="progress">
+        <div class="progress__bar" id="progress-bar" style="width: 0%;"></div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Content -->
+  <main class="container">
+    <!-- Theory Panel (Collapsible) -->
+    <div class="theory-panel" id="theory-panel">
+      <button class="theory-panel__toggle" id="theory-toggle">
+        <span>Tài liệu ngữ pháp (Grammar notes)</span>
+        <span class="theory-panel__icon" id="theory-icon">▼</span>
+      </button>
+
+      <div class="theory-panel__content" id="theory-content">
+        <div class="theory-panel__section">
+          <h3 class="theory-panel__heading">1. Khi nào dùng 'BE GOING TO'?</h3>
+
+          <p><strong>A. Nói về KẾ HOẠCH / Ý ĐỊNH đã quyết định từ TRƯỚC:</strong></p>
+          <ul>
+            <li>Bạn đã suy nghĩ và quyết định trước khi nói</li>
+            <li><em>I'm going to visit my grandmother next week.</em> (Tôi sẽ thăm bà tuần tới - đã lên kế hoạch)</li>
+            <li><em>We're going to buy a new car.</em> (Chúng tôi sẽ mua xe mới - đã quyết định)</li>
+          </ul>
+
+          <p><strong>B. Dự đoán dựa trên BẰNG CHỨNG NHÌN THẤY (evidence you can see):</strong></p>
+          <ul>
+            <li>Bạn THẤY điều gì đó và dự đoán chuyện sẽ xảy ra</li>
+            <li><em>Look at those clouds! It's going to rain.</em> (Nhìn mây đen kìa! Trời sắp mưa - thấy mây đen)</li>
+            <li><em>Watch out! You're going to fall!</em> (Coi chừng! Bạn sắp ngã! - thấy người đó sắp ngã)</li>
+            <li><em>She looks tired. She's going to sit down.</em> (Cô ấy trông mệt. Cô ấy sẽ ngồi xuống - thấy vẻ mệt)</li>
+          </ul>
+        </div>
+
+        <div class="theory-panel__section">
+          <h3 class="theory-panel__heading">2. Cấu trúc câu KHẲNG ĐỊNH</h3>
+          <p><strong>Công thức:</strong> Subject + am/is/are + going to + Verb (nguyên mẫu)</p>
+
+          <div class="theory-panel__example">
+            <table style="width:100%; border-collapse: collapse; margin: 10px 0;">
+              <tr style="background: var(--bg-light);">
+                <th style="border: 1px solid #ddd; padding: 8px; text-align: left;">Chủ ngữ</th>
+                <th style="border: 1px solid #ddd; padding: 8px; text-align: left;">Be</th>
+                <th style="border: 1px solid #ddd; padding: 8px; text-align: left;">Ví dụ</th>
+              </tr>
+              <tr>
+                <td style="border: 1px solid #ddd; padding: 8px;">I</td>
+                <td style="border: 1px solid #ddd; padding: 8px;"><strong>am</strong></td>
+                <td style="border: 1px solid #ddd; padding: 8px;">I <strong>am going to visit</strong> the zoo.</td>
+              </tr>
+              <tr>
+                <td style="border: 1px solid #ddd; padding: 8px;">He/She/It</td>
+                <td style="border: 1px solid #ddd; padding: 8px;"><strong>is</strong></td>
+                <td style="border: 1px solid #ddd; padding: 8px;">He <strong>is going to see</strong> the lions.</td>
+              </tr>
+              <tr>
+                <td style="border: 1px solid #ddd; padding: 8px;">We/You/They</td>
+                <td style="border: 1px solid #ddd; padding: 8px;"><strong>are</strong></td>
+                <td style="border: 1px solid #ddd; padding: 8px;">They <strong>are going to learn</strong> about reptiles.</td>
+              </tr>
+            </table>
+            <p><strong>Viết tắt thông dụng:</strong> I'm going to... / He's going to... / They're going to...</p>
+          </div>
+        </div>
+
+        <div class="theory-panel__section">
+          <h3 class="theory-panel__heading">3. Cấu trúc câu PHỦ ĐỊNH</h3>
+          <p><strong>Công thức:</strong> Subject + am/is/are + NOT + going to + Verb</p>
+
+          <div class="theory-panel__example">
+            <table style="width:100%; border-collapse: collapse; margin: 10px 0;">
+              <tr style="background: var(--bg-light);">
+                <th style="border: 1px solid #ddd; padding: 8px; text-align: left;">Chủ ngữ</th>
+                <th style="border: 1px solid #ddd; padding: 8px; text-align: left;">Phủ định</th>
+                <th style="border: 1px solid #ddd; padding: 8px; text-align: left;">Ví dụ</th>
+              </tr>
+              <tr>
+                <td style="border: 1px solid #ddd; padding: 8px;">I</td>
+                <td style="border: 1px solid #ddd; padding: 8px;"><strong>am not</strong> going to</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">I <strong>am not going to</strong> eat that.</td>
+              </tr>
+              <tr>
+                <td style="border: 1px solid #ddd; padding: 8px;">He/She/It</td>
+                <td style="border: 1px solid #ddd; padding: 8px;"><strong>is not / isn't</strong> going to</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">She <strong>isn't going to</strong> come.</td>
+              </tr>
+              <tr>
+                <td style="border: 1px solid #ddd; padding: 8px;">We/You/They</td>
+                <td style="border: 1px solid #ddd; padding: 8px;"><strong>are not / aren't</strong> going to</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">They <strong>aren't going to</strong> play.</td>
+              </tr>
+            </table>
+            <p><strong>Lưu ý:</strong> 'I am not' KHÔNG viết tắt thành 'I amn't' - chỉ viết 'I'm not'</p>
+          </div>
+        </div>
+
+        <div class="theory-panel__section">
+          <h3 class="theory-panel__heading">4. Cấu trúc câu HỎI</h3>
+
+          <p><strong>A. Câu hỏi Yes/No:</strong></p>
+          <p><strong>Công thức:</strong> Am/Is/Are + Subject + going to + Verb...?</p>
+
+          <div class="theory-panel__example">
+            <table style="width:100%; border-collapse: collapse; margin: 10px 0;">
+              <tr style="background: var(--bg-light);">
+                <th style="border: 1px solid #ddd; padding: 8px; text-align: left;">Câu hỏi</th>
+                <th style="border: 1px solid #ddd; padding: 8px; text-align: left;">Trả lời KHẲNG ĐỊNH</th>
+                <th style="border: 1px solid #ddd; padding: 8px; text-align: left;">Trả lời PHỦ ĐỊNH</th>
+              </tr>
+              <tr>
+                <td style="border: 1px solid #ddd; padding: 8px;"><strong>Am</strong> I going to pass?</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">Yes, you <strong>are</strong>.</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">No, you <strong>aren't</strong>.</td>
+              </tr>
+              <tr>
+                <td style="border: 1px solid #ddd; padding: 8px;"><strong>Is</strong> he going to come?</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">Yes, he <strong>is</strong>.</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">No, he <strong>isn't</strong>.</td>
+              </tr>
+              <tr>
+                <td style="border: 1px solid #ddd; padding: 8px;"><strong>Are</strong> they going to play?</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">Yes, they <strong>are</strong>.</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">No, they <strong>aren't</strong>.</td>
+              </tr>
+            </table>
+            <p style="color: var(--danger);"><strong>⚠️ QUY TẮC QUAN TRỌNG về trả lời ngắn:</strong></p>
+            <ul>
+              <li>Trả lời KHẲNG ĐỊNH: <strong>KHÔNG</strong> viết tắt → 'Yes, I am.' (không phải 'Yes, I'm.')</li>
+              <li>Trả lời PHỦ ĐỊNH: CÓ THỂ viết tắt → 'No, I'm not.' hoặc 'No, he isn't.'</li>
+            </ul>
+          </div>
+
+          <p><strong>B. Câu hỏi WH- (What, Where, When, Why, How, Who):</strong></p>
+          <p><strong>Công thức:</strong> WH-word + am/is/are + Subject + going to + Verb...?</p>
+
+          <div class="theory-panel__example">
+            <table style="width:100%; border-collapse: collapse; margin: 10px 0;">
+              <tr style="background: var(--bg-light);">
+                <th style="border: 1px solid #ddd; padding: 8px; text-align: left;">Từ hỏi</th>
+                <th style="border: 1px solid #ddd; padding: 8px; text-align: left;">Ví dụ</th>
+              </tr>
+              <tr>
+                <td style="border: 1px solid #ddd; padding: 8px;"><strong>What</strong></td>
+                <td style="border: 1px solid #ddd; padding: 8px;"><strong>What are</strong> you <strong>going to do</strong>? (Bạn định làm gì?)</td>
+              </tr>
+              <tr>
+                <td style="border: 1px solid #ddd; padding: 8px;"><strong>Where</strong></td>
+                <td style="border: 1px solid #ddd; padding: 8px;"><strong>Where is</strong> she <strong>going to go</strong>? (Cô ấy định đi đâu?)</td>
+              </tr>
+              <tr>
+                <td style="border: 1px solid #ddd; padding: 8px;"><strong>When</strong></td>
+                <td style="border: 1px solid #ddd; padding: 8px;"><strong>When are</strong> they <strong>going to arrive</strong>? (Họ định đến khi nào?)</td>
+              </tr>
+              <tr>
+                <td style="border: 1px solid #ddd; padding: 8px;"><strong>Why</strong></td>
+                <td style="border: 1px solid #ddd; padding: 8px;"><strong>Why is</strong> he <strong>going to leave</strong>? (Tại sao anh ấy định đi?)</td>
+              </tr>
+              <tr>
+                <td style="border: 1px solid #ddd; padding: 8px;"><strong>How</strong></td>
+                <td style="border: 1px solid #ddd; padding: 8px;"><strong>How are</strong> you <strong>going to travel</strong>? (Bạn định đi bằng gì?)</td>
+              </tr>
+            </table>
+          </div>
+        </div>
+
+        <div class="theory-panel__section">
+          <h3 class="theory-panel__heading">5. Phân biệt 'BE GOING TO' và 'WILL'</h3>
+
+          <div class="theory-panel__example">
+            <table style="width:100%; border-collapse: collapse; margin: 10px 0;">
+              <tr style="background: var(--bg-light);">
+                <th style="border: 1px solid #ddd; padding: 8px; text-align: left; width: 50%;">BE GOING TO</th>
+                <th style="border: 1px solid #ddd; padding: 8px; text-align: left; width: 50%;">WILL</th>
+              </tr>
+              <tr>
+                <td style="border: 1px solid #ddd; padding: 8px;">Kế hoạch đã quyết định <strong>TRƯỚC</strong></td>
+                <td style="border: 1px solid #ddd; padding: 8px;">Quyết định <strong>NGAY LÚC NÓI</strong></td>
+              </tr>
+              <tr>
+                <td style="border: 1px solid #ddd; padding: 8px;"><em>I'm going to buy a car.</em> (đã lên kế hoạch)</td>
+                <td style="border: 1px solid #ddd; padding: 8px;"><em>I'll buy a car.</em> (quyết định ngay)</td>
+              </tr>
+              <tr>
+                <td style="border: 1px solid #ddd; padding: 8px;">Dự đoán có <strong>BẰNG CHỨNG NHÌN THẤY</strong></td>
+                <td style="border: 1px solid #ddd; padding: 8px;">Dự đoán <strong>CHUNG CHUNG</strong> (nghĩ, tin)</td>
+              </tr>
+              <tr>
+                <td style="border: 1px solid #ddd; padding: 8px;"><em>Look! It's going to rain.</em> (thấy mây)</td>
+                <td style="border: 1px solid #ddd; padding: 8px;"><em>I think it will rain tomorrow.</em> (nghĩ vậy)</td>
+              </tr>
+            </table>
+            <p><strong>Ví dụ so sánh:</strong></p>
+            <ul>
+              <li>Phone rings → 'I<strong>'ll</strong> answer it!' (quyết định ngay khi nghe chuông)</li>
+              <li>'I<strong>'m going to</strong> call Mom tonight.' (đã lên kế hoạch từ trước)</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="theory-panel__section">
+          <h3 class="theory-panel__heading">6. Các lỗi thường gặp (Common Mistakes)</h3>
+          <div class="theory-panel__example">
+            <table style="width:100%; border-collapse: collapse; margin: 10px 0;">
+              <tr style="background: var(--bg-light);">
+                <th style="border: 1px solid #ddd; padding: 8px; text-align: left;">❌ SAI</th>
+                <th style="border: 1px solid #ddd; padding: 8px; text-align: left;">✅ ĐÚNG</th>
+                <th style="border: 1px solid #ddd; padding: 8px; text-align: left;">Giải thích</th>
+              </tr>
+              <tr>
+                <td style="border: 1px solid #ddd; padding: 8px;">I going to visit...</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">I <strong>am</strong> going to visit...</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">Thiếu 'am/is/are'</td>
+              </tr>
+              <tr>
+                <td style="border: 1px solid #ddd; padding: 8px;">She is go to study...</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">She is <strong>going</strong> to study...</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">Phải là 'going' (thêm -ing)</td>
+              </tr>
+              <tr>
+                <td style="border: 1px solid #ddd; padding: 8px;">Are you going visit...?</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">Are you going <strong>to</strong> visit...?</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">Thiếu 'to'</td>
+              </tr>
+              <tr>
+                <td style="border: 1px solid #ddd; padding: 8px;">going to watching...</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">going to <strong>watch</strong>...</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">Sau 'to' dùng V nguyên mẫu</td>
+              </tr>
+              <tr>
+                <td style="border: 1px solid #ddd; padding: 8px;">Does she going to...?</td>
+                <td style="border: 1px solid #ddd; padding: 8px;"><strong>Is</strong> she going to...?</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">Dùng 'Is/Are', không dùng 'Does/Do'</td>
+              </tr>
+              <tr>
+                <td style="border: 1px solid #ddd; padding: 8px;">gonna (viết)</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">going to</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">'gonna' chỉ dùng nói, không viết</td>
+              </tr>
+              <tr>
+                <td style="border: 1px solid #ddd; padding: 8px;">Yes, I'm.</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">Yes, I <strong>am</strong>.</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">Trả lời khẳng định không viết tắt</td>
+              </tr>
+            </table>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Exercise Container -->
+    <div id="exercise-container">
+      <!-- Exercises will be rendered here dynamically -->
+      <div class="card text-center">
+        <h2>Loading...</h2>
+        <p>Please wait while we load the exercises.</p>
+      </div>
+    </div>
+  </main>
+
+  <!-- Core JavaScript (loaded first) -->
+  <script src="../js/core/utils.js"></script>
+  <script src="../js/core/storage.js"></script>
+  <script src="../js/core/telegram-sender.js"></script>
+  <script src="../js/core/game-engine.js"></script>
+
+  <!-- Exercise Type Handlers (mobile-friendly types only) -->
+  <script src="../js/exercises/multiple-choice.js"></script>
+  <script src="../js/exercises/word-rearrange.js"></script>
+  <script src="../js/exercises/fill-blank.js"></script>
+  <script src="../js/exercises/sentence-build.js"></script>
+  <script src="../js/exercises/error-correct.js"></script>
+  <script src="../js/exercises/dialogue-complete.js"></script>
+  <script src="../js/exercises/translation.js"></script>
+  <script src="../js/exercises/open-ended.js"></script>
+
+  <!-- Initialize Game -->
+  <script>
+    const UNIT_ID = 'unit-6-day-trip';
+    const DATA_PATH = '../data/unit-6-day-trip.json';
+
+    // Theory panel toggle
+    const theoryToggle = document.getElementById('theory-toggle');
+    const theoryContent = document.getElementById('theory-content');
+    const theoryIcon = document.getElementById('theory-icon');
+
+    theoryToggle.addEventListener('click', () => {
+      const isExpanded = theoryContent.classList.contains('theory-panel__content--expanded');
+
+      if (isExpanded) {
+        theoryContent.classList.remove('theory-panel__content--expanded');
+        theoryIcon.classList.remove('theory-panel__icon--rotated');
+      } else {
+        theoryContent.classList.add('theory-panel__content--expanded');
+        theoryIcon.classList.add('theory-panel__icon--rotated');
+      }
+    });
+
+    // Combo display logic
+    function updateComboDisplay() {
+      const comboDisplay = document.getElementById('combo-display');
+      const comboCount = document.getElementById('combo-count');
+      const state = GameEngine.getState();
+
+      if (state.comboCount >= 3) {
+        comboDisplay.style.display = 'flex';
+        comboCount.textContent = state.comboCount + 'x 🔥';
+      } else {
+        comboDisplay.style.display = 'none';
+      }
+    }
+
+    // Override GameEngine.updateUI to include combo display
+    const originalUpdateUI = GameEngine.updateUI.bind(GameEngine);
+    GameEngine.updateUI = function() {
+      originalUpdateUI();
+      updateComboDisplay();
+    };
+
+    // Load unit data and start game
+    async function loadAndStartGame() {
+      try {
+        const response = await fetch(DATA_PATH);
+
+        if (!response.ok) {
+          throw new Error(`Failed to load data: ${response.status}`);
+        }
+
+        const unitData = await response.json();
+
+        console.log('Unit data loaded:', unitData);
+        console.log('Registered exercise handlers:', Object.keys(GameEngine.exerciseHandlers));
+
+        GameEngine.init(unitData, UNIT_ID);
+
+      } catch (error) {
+        console.error('Error loading game data:', error);
+
+        const container = document.getElementById('exercise-container');
+        container.innerHTML = `
+          <div class="card">
+            <h2 style="color: var(--danger);">Error Loading Game</h2>
+            <p>Sorry, we couldn't load the exercise data. Please try refreshing the page.</p>
+            <p style="font-size: var(--font-size-sm); color: var(--text-light);">Error: ${error.message}</p>
+            <button class="btn btn--primary mt-2" onclick="location.reload()">Reload Page</button>
+          </div>
+        `;
+      }
+    }
+
+    // Start game when page loads
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', loadAndStartGame);
+    } else {
+      loadAndStartGame();
+    }
+  </script>
+</body>
+</html>

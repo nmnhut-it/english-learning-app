@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Unit 4: The World Around Us - Past Continuous & Used To | English Grammar Games</title>
+  <meta name="description" content="Practice past continuous, past simple, and used to with interactive exercises">
+
+  <!-- Shared Styles -->
+  <link rel="stylesheet" href="../css/shared.css">
+</head>
+<body>
+  <!-- Game Header -->
+  <header class="game-header">
+    <div class="container">
+      <div class="game-header__container">
+        <div class="game-header__info-section">
+          <h1 class="game-header__title">Unit 4: The World Around Us</h1>
+          <p class="game-header__subtitle">Past Continuous & Used To</p>
+
+          <div class="game-info">
+            <div class="game-info__item">
+              <span class="game-info__label">Giáo viên:</span>
+              <span class="game-info__value">Nguyễn Minh Nhựt</span>
+            </div>
+            <div class="game-info__item">
+              <span class="game-info__label">Học sinh:</span>
+              <span class="game-info__value"></span>
+            </div>
+          </div>
+        </div>
+
+        <div class="game-header__stats">
+          <div class="stat">
+            <span class="stat__label">Điểm</span>
+            <span class="stat__value stat__value--primary" id="current-score">⭐ 0</span>
+          </div>
+
+          <div class="stat">
+            <span class="stat__label">Tiến độ</span>
+            <span class="stat__value" id="progress-count">0 / 0</span>
+          </div>
+
+          <div class="stat" id="combo-display" style="display: none;">
+            <span class="stat__label">Combo</span>
+            <span class="stat__value" id="combo-count">0</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Progress Bar -->
+      <div class="progress">
+        <div class="progress__bar" id="progress-bar" style="width: 0%;"></div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Content -->
+  <main class="container">
+    <!-- Theory Panel (Collapsible) -->
+    <div class="theory-panel" id="theory-panel">
+      <button class="theory-panel__toggle" id="theory-toggle">
+        <span>📖 Tài liệu ngữ pháp</span>
+        <span class="theory-panel__icon" id="theory-icon">▼</span>
+      </button>
+
+      <div class="theory-panel__content" id="theory-content">
+        <div class="theory-panel__section">
+          <h3 class="theory-panel__heading">📚 1. Past Continuous (Quá khứ tiếp diễn)</h3>
+
+          <p><strong>🎯 Khi nào dùng?</strong></p>
+          <p>Dùng để diễn tả một hành động <strong>đang xảy ra</strong> tại một thời điểm cụ thể trong quá khứ.</p>
+
+          <p><strong>📝 Cấu trúc:</strong></p>
+          <ul>
+            <li><strong>✅ Khẳng định:</strong> S + was/were + V-ing
+              <div class="theory-panel__example">
+                I <strong>was watching</strong> TV at 8 PM yesterday. <em>(Tôi đang xem TV lúc 8 giờ tối hôm qua)</em><br>
+                They <strong>were playing</strong> football. <em>(Họ đang chơi bóng đá)</em>
+              </div>
+            </li>
+            <li><strong>❌ Phủ định:</strong> S + was/were + not + V-ing
+              <div class="theory-panel__example">
+                I <strong>wasn't studying</strong> at that time. <em>(Tôi không học vào lúc đó)</em><br>
+                We <strong>weren't sleeping</strong>. <em>(Chúng tôi không ngủ)</em>
+              </div>
+            </li>
+            <li><strong>❓ Câu hỏi:</strong> Was/Were + S + V-ing?
+              <div class="theory-panel__example">
+                <strong>Were</strong> you <strong>doing</strong> homework? <em>(Bạn có đang làm bài tập không?)</em><br>
+                What <strong>were</strong> they <strong>eating</strong>? <em>(Họ đang ăn gì?)</em>
+              </div>
+            </li>
+          </ul>
+
+          <p><strong>💡 Lưu ý:</strong></p>
+          <ul>
+            <li>Dùng <strong>was</strong> với: I, he, she, it</li>
+            <li>Dùng <strong>were</strong> với: you, we, they</li>
+          </ul>
+        </div>
+
+        <div class="theory-panel__section">
+          <h3 class="theory-panel__heading">⚡ 2. Past Continuous + Past Simple với WHEN</h3>
+
+          <p><strong>🎯 Khi nào dùng?</strong></p>
+          <p>Khi có <strong>hai hành động</strong> xảy ra trong quá khứ:</p>
+          <ul>
+            <li><strong>Hành động dài</strong> (đang diễn ra) → dùng <strong>Past Continuous</strong></li>
+            <li><strong>Hành động ngắn</strong> (xen vào) → dùng <strong>Past Simple</strong></li>
+          </ul>
+
+          <p><strong>📝 Cấu trúc:</strong></p>
+          <div class="theory-panel__example">
+            <strong>S + was/were + V-ing + when + S + V2/V-ed</strong><br><br>
+            I <strong>was cooking</strong> dinner <strong>when</strong> the phone <strong>rang</strong>.<br>
+            <em>(Tôi đang nấu bữa tối thì điện thoại reo)</em><br><br>
+            They <strong>were driving</strong> home <strong>when</strong> it <strong>started</strong> to rain.<br>
+            <em>(Họ đang lái xe về nhà thì trời bắt đầu mưa)</em>
+          </div>
+
+          <p><strong>💡 Cách nhớ:</strong></p>
+          <p>Hãy tưởng tượng bạn đang làm một việc gì đó (hành động dài), rồi bỗng nhiên có chuyện khác xảy ra (hành động ngắn xen vào)!</p>
+
+          <div class="theory-panel__example">
+            <strong>Ví dụ thực tế:</strong><br>
+            • She <strong>was reading</strong> a book when her mom <strong>called</strong>. <em>(Cô ấy đang đọc sách thì mẹ gọi)</em><br>
+            • We <strong>were having</strong> lunch when someone <strong>knocked</strong> on the door. <em>(Chúng tôi đang ăn trưa thì có người gõ cửa)</em>
+          </div>
+        </div>
+
+        <div class="theory-panel__section">
+          <h3 class="theory-panel__heading">🕰️ 3. Used to (Đã từng / Thường)</h3>
+
+          <p><strong>🎯 Khi nào dùng?</strong></p>
+          <p>Dùng để nói về <strong>thói quen</strong> hoặc <strong>tình huống</strong> trong quá khứ mà <strong>hiện tại không còn nữa</strong>.</p>
+
+          <p><strong>📝 Cấu trúc:</strong></p>
+          <ul>
+            <li><strong>✅ Khẳng định:</strong> S + used to + V (nguyên mẫu)
+              <div class="theory-panel__example">
+                I <strong>used to play</strong> football every day. <em>(Tôi từng chơi bóng mỗi ngày - bây giờ không còn)</em><br>
+                She <strong>used to live</strong> in Hanoi. <em>(Cô ấy từng sống ở Hà Nội - giờ không còn)</em>
+              </div>
+            </li>
+            <li><strong>❌ Phủ định:</strong> S + didn't use to + V (nguyên mẫu)
+              <div class="theory-panel__example">
+                I <strong>didn't use to like</strong> vegetables. <em>(Tôi không thích rau trước đây - giờ thích)</em><br>
+                We <strong>didn't use to have</strong> a car. <em>(Chúng tôi không có xe trước đây)</em>
+              </div>
+            </li>
+            <li><strong>❓ Câu hỏi:</strong> Did + S + use to + V (nguyên mẫu)?
+              <div class="theory-panel__example">
+                <strong>Did</strong> you <strong>use to play</strong> games? <em>(Bạn có thường chơi game không?)</em><br>
+                <strong>Did</strong> they <strong>use to travel</strong> a lot? <em>(Họ có thường đi du lịch không?)</em>
+              </div>
+            </li>
+          </ul>
+
+          <p><strong>💡 Lưu ý quan trọng:</strong></p>
+          <ul>
+            <li>✅ Khẳng định: <strong>used to</strong> (có -d)</li>
+            <li>❌ Phủ định/Câu hỏi: <strong>use to</strong> (không có -d) vì đã có "didn't" hoặc "did"</li>
+          </ul>
+
+          <div class="theory-panel__example">
+            <strong>So sánh:</strong><br>
+            • I <strong>used to</strong> drink coffee. ✅ (Khẳng định - có -d)<br>
+            • I didn't <strong>use to</strong> drink coffee. ✅ (Phủ định - không -d)<br>
+            • Did you <strong>use to</strong> drink coffee? ✅ (Câu hỏi - không -d)
+          </div>
+        </div>
+
+        <div class="theory-panel__section" style="background: #fff3cd; padding: 15px; border-radius: 8px; margin-top: 20px;">
+          <h3 class="theory-panel__heading">🎓 Tóm tắt cho Giáo viên</h3>
+          <ul style="margin: 10px 0;">
+            <li><strong>Past Continuous:</strong> Nhấn mạnh hành động đang diễn ra trong quá khứ (was/were + V-ing)</li>
+            <li><strong>When kết hợp:</strong> Hành động dài (Past Continuous) + hành động ngắn xen vào (Past Simple)</li>
+            <li><strong>Used to:</strong> Thói quen/tình huống quá khứ không còn (khẳng định có -d, phủ định/hỏi không -d)</li>
+            <li><strong>Điểm hay nhầm:</strong> Học sinh thường quên -ing trong Past Continuous, hoặc nhầm "used to" vs "use to"</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <!-- Exercise Container -->
+    <div id="exercise-container">
+      <!-- Exercises will be rendered here dynamically -->
+      <div class="card text-center">
+        <h2>Loading...</h2>
+        <p>Please wait while we load the exercises.</p>
+      </div>
+    </div>
+  </main>
+
+  <!-- Core JavaScript (loaded first) -->
+  <script src="../js/core/utils.js"></script>
+  <script src="../js/core/storage.js"></script>
+  <script src="../js/core/telegram-sender.js"></script>
+  <script src="../js/core/game-engine.js"></script>
+
+  <!-- Exercise Type Handlers (mobile-friendly types only) -->
+  <script src="../js/exercises/multiple-choice.js"></script>
+  <script src="../js/exercises/word-rearrange.js"></script>
+
+  <!-- Initialize Game -->
+  <script>
+    const UNIT_ID = 'unit-4-world-around-us';
+    const DATA_PATH = '../data/unit-4-world-around-us.json';
+
+    // Theory panel toggle
+    const theoryToggle = document.getElementById('theory-toggle');
+    const theoryContent = document.getElementById('theory-content');
+    const theoryIcon = document.getElementById('theory-icon');
+
+    theoryToggle.addEventListener('click', () => {
+      const isExpanded = theoryContent.classList.contains('theory-panel__content--expanded');
+
+      if (isExpanded) {
+        theoryContent.classList.remove('theory-panel__content--expanded');
+        theoryIcon.classList.remove('theory-panel__icon--rotated');
+      } else {
+        theoryContent.classList.add('theory-panel__content--expanded');
+        theoryIcon.classList.add('theory-panel__icon--rotated');
+      }
+    });
+
+    // Combo display logic
+    function updateComboDisplay() {
+      const comboDisplay = document.getElementById('combo-display');
+      const comboCount = document.getElementById('combo-count');
+      const state = GameEngine.getState();
+
+      if (state.comboCount >= 3) {
+        comboDisplay.style.display = 'flex';
+        comboCount.textContent = state.comboCount + 'x 🔥';
+      } else {
+        comboDisplay.style.display = 'none';
+      }
+    }
+
+    // Override GameEngine.updateUI to include combo display
+    const originalUpdateUI = GameEngine.updateUI.bind(GameEngine);
+    GameEngine.updateUI = function() {
+      originalUpdateUI();
+      updateComboDisplay();
+    };
+
+    // Load unit data and start game
+    async function loadAndStartGame() {
+      try {
+        const response = await fetch(DATA_PATH);
+
+        if (!response.ok) {
+          throw new Error(`Failed to load data: ${response.status}`);
+        }
+
+        const unitData = await response.json();
+
+        console.log('Unit data loaded:', unitData);
+        console.log('Registered exercise handlers:', Object.keys(GameEngine.exerciseHandlers));
+
+        GameEngine.init(unitData, UNIT_ID);
+
+      } catch (error) {
+        console.error('Error loading game data:', error);
+
+        const container = document.getElementById('exercise-container');
+        container.innerHTML = `
+          <div class="card">
+            <h2 style="color: var(--danger);">Error Loading Game</h2>
+            <p>Sorry, we couldn't load the exercise data. Please try refreshing the page.</p>
+            <p style="font-size: var(--font-size-sm); color: var(--text-light);">Error: ${error.message}</p>
+            <button class="btn btn--primary mt-2" onclick="location.reload()">Reload Page</button>
+          </div>
+        `;
+      }
+    }
+
+    // Start game when page loads
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', loadAndStartGame);
+    } else {
+      loadAndStartGame();
+    }
+  </script>
+</body>
+</html>

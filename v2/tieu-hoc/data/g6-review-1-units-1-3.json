@@ -1,0 +1,364 @@
+{
+  "unitId": "g6-review-1-units-1-3",
+  "title": "Review 1: Units 1-3 - Present Simple, Adverbs, Possessive Case & Prepositions",
+  "studentName": "Tran Gia Hung",
+  "grade": 6,
+  "grammarTopics": [
+    "Present Simple Tense",
+    "Adverbs of Frequency",
+    "Possessive 's",
+    "There is/are",
+    "Prepositions of Place",
+    "Present Continuous"
+  ],
+  "theory": {
+    "brief": "Ôn tập Units 1-3: Present Simple (thì hiện tại đơn), Adverbs of Frequency (trạng từ tần suất), Possessive's (sở hữu cách), There is/are (có), Prepositions (giới từ vị trí), Present Continuous (hiện tại tiếp diễn).",
+    "examples": [
+      "I go to school every day. (Tôi đi học mỗi ngày.)",
+      "She is reading a book now. (Cô ấy đang đọc sách bây giờ.)",
+      "This is Nick's room. (Đây là phòng của Nick.)",
+      "There are two cats on the table. (Có hai con mèo trên bàn.)",
+      "The book is under the desk. (Cuốn sách ở dưới bàn.)"
+    ]
+  },
+  "exercises": [
+    {
+      "id": "g6r1-ex1",
+      "type": "fill-blank",
+      "question": "I _______ (go) to school every day.",
+      "wordHint": "(go)",
+      "answer": "go",
+      "acceptedAnswers": [
+        "go"
+      ],
+      "hints": [
+        "Present Simple với 'I'"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6r1-ex2",
+      "type": "fill-blank",
+      "question": "She _______ (study) hard for exams.",
+      "wordHint": "(study)",
+      "answer": "studies",
+      "acceptedAnswers": [
+        "studies"
+      ],
+      "hints": [
+        "'She' → thêm -es vì kết thúc bằng -y"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6r1-ex3",
+      "type": "fill-blank",
+      "question": "They _______ (play) football on Sundays.",
+      "wordHint": "(play)",
+      "answer": "play",
+      "acceptedAnswers": [
+        "play"
+      ],
+      "hints": [
+        "'They' → giữ nguyên động từ"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6r1-ex4",
+      "type": "fill-blank",
+      "question": "I _______ (always) have breakfast before school.",
+      "wordHint": "luôn luôn",
+      "answer": "always",
+      "acceptedAnswers": [
+        "always"
+      ],
+      "hints": [
+        "Trạng từ tần suất đứng trước động từ thường"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6r1-ex5",
+      "type": "fill-blank",
+      "question": "She _______ (never) eats fast food.",
+      "wordHint": "không bao giờ",
+      "answer": "never",
+      "acceptedAnswers": [
+        "never"
+      ],
+      "hints": [
+        "'never' = không bao giờ"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6r1-ex6",
+      "type": "fill-blank",
+      "question": "This is my _______ (brother) bike.",
+      "wordHint": "(brother)",
+      "answer": "brother's",
+      "acceptedAnswers": [
+        "brother's"
+      ],
+      "hints": [
+        "Sở hữu cách: thêm 's"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6r1-ex7",
+      "type": "fill-blank",
+      "question": "There _______ (is/are) five books on the shelf.",
+      "wordHint": "is/are",
+      "answer": "are",
+      "acceptedAnswers": [
+        "are"
+      ],
+      "hints": [
+        "'five books' → số nhiều → are"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6r1-ex8",
+      "type": "fill-blank",
+      "question": "The cat is _______ the table.",
+      "wordHint": "dưới",
+      "answer": "under",
+      "acceptedAnswers": [
+        "under",
+        "on"
+      ],
+      "hints": [
+        "'under' = ở dưới",
+        "on = ở trên"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6r1-ex9",
+      "type": "fill-blank",
+      "question": "She _______ (read) a book now.",
+      "wordHint": "(read)",
+      "answer": "is reading",
+      "acceptedAnswers": [
+        "is reading"
+      ],
+      "hints": [
+        "'now' → Present Continuous"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6r1-ex10",
+      "type": "fill-blank",
+      "question": "They _______ (play) football at the moment.",
+      "wordHint": "(play)",
+      "answer": "are playing",
+      "acceptedAnswers": [
+        "are playing"
+      ],
+      "hints": [
+        "'at the moment' → hiện tại tiếp diễn"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6r1-ex11",
+      "type": "multiple-choice",
+      "question": "My sister _______ to school by bus every day.",
+      "options": [
+        "go",
+        "goes",
+        "going",
+        "is going"
+      ],
+      "correctIndex": 1,
+      "explanation": "'My sister' (số ít) → goes",
+      "hints": [
+        "Chủ ngữ số ít"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6r1-ex12",
+      "type": "multiple-choice",
+      "question": "How _______ do you play sports? - Twice a week.",
+      "options": [
+        "many",
+        "much",
+        "often",
+        "long"
+      ],
+      "correctIndex": 2,
+      "explanation": "'How often' hỏi về tần suất",
+      "hints": [
+        "Hỏi về tần suất"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6r1-ex13",
+      "type": "multiple-choice",
+      "question": "There _______ a pen on the desk.",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "correctIndex": 0,
+      "explanation": "'a pen' → số ít → is",
+      "hints": [
+        "Danh từ số ít"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6r1-ex14",
+      "type": "multiple-choice",
+      "question": "The lamp is _______ the bed.",
+      "options": [
+        "next to",
+        "on to",
+        "in to",
+        "at to"
+      ],
+      "correctIndex": 0,
+      "explanation": "'next to' = bên cạnh",
+      "hints": [
+        "Giới từ chỉ vị trí"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6r1-ex15",
+      "type": "multiple-choice",
+      "question": "What _______ you doing now?",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "do"
+      ],
+      "correctIndex": 1,
+      "explanation": "'you' → are",
+      "hints": [
+        "Present Continuous với 'you'"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6r1-ex16",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "She goes to school every day.",
+        "She goes to school every day"
+      ],
+      "hints": [
+        "Present Simple: S + V"
+      ],
+      "points": 15,
+      "correctSentence": "She goes to school every day.",
+      "words": [
+        "school",
+        "goes",
+        "she",
+        "to",
+        "day",
+        "every"
+      ]
+    },
+    {
+      "id": "g6r1-ex17",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "I usually have breakfast at 7 o'clock.",
+        "I usually have breakfast at 7 o'clock"
+      ],
+      "hints": [
+        "Trạng từ tần suất trước động từ"
+      ],
+      "points": 15,
+      "correctSentence": "I usually have breakfast at 7 o'clock.",
+      "words": [
+        "usually",
+        "I",
+        "breakfast",
+        "have",
+        "7",
+        "at",
+        "o'clock"
+      ]
+    },
+    {
+      "id": "g6r1-ex18",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "This is my sister's room.",
+        "This is my sister's room"
+      ],
+      "hints": [
+        "Possessive 's"
+      ],
+      "points": 15,
+      "correctSentence": "This is my sister's room.",
+      "words": [
+        "is",
+        "this",
+        "sister's",
+        "my",
+        "room"
+      ]
+    },
+    {
+      "id": "g6r1-ex19",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "There are two bedrooms in my house.",
+        "There are two bedrooms in my house"
+      ],
+      "hints": [
+        "There are + số nhiều"
+      ],
+      "points": 15,
+      "correctSentence": "There are two bedrooms in my house.",
+      "words": [
+        "there",
+        "two",
+        "are",
+        "bedrooms",
+        "in",
+        "house",
+        "my"
+      ]
+    },
+    {
+      "id": "g6r1-ex20",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "She is reading a book now.",
+        "She is reading a book now"
+      ],
+      "hints": [
+        "Present Continuous: S + is/are + V-ing"
+      ],
+      "points": 15,
+      "correctSentence": "She is reading a book now.",
+      "words": [
+        "is",
+        "she",
+        "reading",
+        "book",
+        "a",
+        "now"
+      ]
+    }
+  ]
+}

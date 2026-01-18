@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Unit 12: Famous Inventions - Passive Past Simple | English Grammar Games</title>
+  <meta name="description" content="Practice the passive voice in past simple and passive questions">
+
+  <!-- Shared Styles -->
+  <link rel="stylesheet" href="../css/shared.css">
+</head>
+<body>
+  <!-- Game Header -->
+  <header class="game-header">
+    <div class="container">
+      <div class="game-header__container">
+        <div class="game-header__info-section">
+          <h1 class="game-header__title">Unit 12: Famous Inventions</h1>
+          <p class="game-header__subtitle">Passive Voice - Past Simple & Questions</p>
+          <div class="game-info">
+            <div class="game-info__item">
+              <span class="game-info__label">Giáo viên:</span>
+              <span class="game-info__value">Nguyễn Minh Nhựt</span>
+            </div>
+            <div class="game-info__item">
+              <span class="game-info__label">Học sinh:</span>
+              <span class="game-info__value"></span>
+            </div>
+          </div>
+        </div>
+
+        <div class="game-header__stats">
+          <div class="stat">
+            <span class="stat__label">Điểm</span>
+            <span class="stat__value stat__value--primary" id="current-score">⭐ 0</span>
+          </div>
+
+          <div class="stat">
+            <span class="stat__label">Tiến độ</span>
+            <span class="stat__value" id="progress-count">0 / 0</span>
+          </div>
+
+          <div class="stat" id="combo-display" style="display: none;">
+            <span class="stat__label">Combo</span>
+            <span class="stat__value" id="combo-count">0</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Progress Bar -->
+      <div class="progress">
+        <div class="progress__bar" id="progress-bar" style="width: 0%;"></div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Content -->
+  <main class="container">
+    <!-- Theory Panel (Collapsible) -->
+    <div class="theory-panel" id="theory-panel">
+      <button class="theory-panel__toggle" id="theory-toggle">
+        <span>📖 Tài liệu ngữ pháp</span>
+        <span class="theory-panel__icon" id="theory-icon">▼</span>
+      </button>
+
+      <div class="theory-panel__content" id="theory-content">
+        <div class="theory-panel__section">
+          <h3 class="theory-panel__heading">🎯 Câu Bị Động là gì?</h3>
+          <p>Khi nói về phát minh, khám phá, chúng ta thường quan tâm đến <strong>cái gì được tạo ra</strong> hơn là <strong>ai đã tạo ra nó</strong>. Đó là lúc ta dùng câu bị động!</p>
+
+          <div class="theory-panel__example" style="background: #e3f2fd; padding: 12px; border-radius: 8px; margin: 10px 0;">
+            <strong>So sánh:</strong><br>
+            ✏️ Chủ động (Active): <em>Alexander Graham Bell invented the telephone in 1876.</em><br>
+            📱 Bị động (Passive): <em><strong>The telephone was invented</strong> in 1876 (by Alexander Graham Bell).</em><br><br>
+            → Nhấn mạnh vào "điện thoại" chứ không phải "Bell"
+          </div>
+        </div>
+
+        <div class="theory-panel__section">
+          <h3 class="theory-panel__heading">📝 Cấu Trúc: was/were + V3 (past participle)</h3>
+
+          <table style="width: 100%; border-collapse: collapse; margin: 10px 0;">
+            <tr style="background: #4CAF50; color: white;">
+              <th style="padding: 10px; text-align: left;">Loại câu</th>
+              <th style="padding: 10px; text-align: left;">Công thức</th>
+              <th style="padding: 10px; text-align: left;">Ví dụ</th>
+            </tr>
+            <tr>
+              <td style="padding: 10px; border: 1px solid #ddd;"><strong>Khẳng định (+)</strong></td>
+              <td style="padding: 10px; border: 1px solid #ddd;">S + was/were + V3</td>
+              <td style="padding: 10px; border: 1px solid #ddd;">The car <strong>was made</strong> in Germany.</td>
+            </tr>
+            <tr style="background: var(--bg-light);">
+              <td style="padding: 10px; border: 1px solid #ddd;"><strong>Phủ định (-)</strong></td>
+              <td style="padding: 10px; border: 1px solid #ddd;">S + wasn't/weren't + V3</td>
+              <td style="padding: 10px; border: 1px solid #ddd;">It <strong>wasn't built</strong> in France.</td>
+            </tr>
+            <tr>
+              <td style="padding: 10px; border: 1px solid #ddd;"><strong>Câu hỏi (?)</strong></td>
+              <td style="padding: 10px; border: 1px solid #ddd;">Was/Were + S + V3?</td>
+              <td style="padding: 10px; border: 1px solid #ddd;"><strong>Was</strong> television <strong>invented</strong> in 1927?</td>
+            </tr>
+          </table>
+
+          <div class="theory-panel__example" style="background: #fff3e0; padding: 12px; border-radius: 8px; margin-top: 10px;">
+            <strong>💡 Mẹo nhớ V3 (Past Participle):</strong><br>
+            • invent → invent<strong>ed</strong> (có quy tắc)<br>
+            • make → ma<strong>de</strong> (bất quy tắc)<br>
+            • fly → flo<strong>wn</strong> (bất quy tắc)<br>
+            • build → buil<strong>t</strong> (bất quy tắc)
+          </div>
+        </div>
+
+        <div class="theory-panel__section">
+          <h3 class="theory-panel__heading">🔄 Was hay Were? Phân biệt dễ dàng!</h3>
+
+          <table style="width: 100%; border-collapse: collapse;">
+            <tr style="background: #2196F3; color: white;">
+              <th style="padding: 10px; text-align: center;">Chủ ngữ</th>
+              <th style="padding: 10px; text-align: center;">Dùng</th>
+              <th style="padding: 10px; text-align: left;">Ví dụ</th>
+            </tr>
+            <tr>
+              <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">
+                I / He / She / It<br>
+                <small>(số ít)</small>
+              </td>
+              <td style="padding: 10px; text-align: center; border: 1px solid #ddd; font-size: 20px;"><strong>was</strong></td>
+              <td style="padding: 10px; border: 1px solid #ddd;">
+                The car <strong>was</strong> invented.<br>
+                It <strong>was</strong> built in 1886.
+              </td>
+            </tr>
+            <tr style="background: var(--bg-light);">
+              <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">
+                You / We / They<br>
+                <small>(số nhiều)</small>
+              </td>
+              <td style="padding: 10px; text-align: center; border: 1px solid #ddd; font-size: 20px;"><strong>were</strong></td>
+              <td style="padding: 10px; border: 1px solid #ddd;">
+                The cars <strong>were</strong> made.<br>
+                They <strong>were</strong> sold worldwide.
+              </td>
+            </tr>
+          </table>
+        </div>
+
+        <div class="theory-panel__section">
+          <h3 class="theory-panel__heading">❓ Câu Hỏi Bị Động - Hỏi như thế nào?</h3>
+
+          <p><strong>1️⃣ Yes/No Questions (Câu hỏi trả lời Có/Không):</strong></p>
+          <div class="theory-panel__example">
+            Đảo <strong>was/were</strong> lên trước chủ ngữ:<br>
+            ✓ <strong>Was</strong> television <strong>invented</strong> in 1927? → Yes, it was.<br>
+            ✓ <strong>Were</strong> the first cars <strong>made</strong> in the USA? → No, they weren't.
+          </div>
+
+          <p style="margin-top: 15px;"><strong>2️⃣ WH-Questions (Câu hỏi có từ để hỏi):</strong></p>
+          <table style="width: 100%; border-collapse: collapse; margin-top: 10px;">
+            <tr style="background: #ff9800; color: white;">
+              <th style="padding: 8px;">Từ hỏi</th>
+              <th style="padding: 8px;">Công thức</th>
+              <th style="padding: 8px;">Ví dụ</th>
+            </tr>
+            <tr>
+              <td style="padding: 8px; border: 1px solid #ddd;"><strong>Who</strong><br><small>(Ai?)</small></td>
+              <td style="padding: 8px; border: 1px solid #ddd;">Who + was/were + S + V3 + <strong>by?</strong></td>
+              <td style="padding: 8px; border: 1px solid #ddd;">Who was it invented <strong>by?</strong></td>
+            </tr>
+            <tr style="background: var(--bg-light);">
+              <td style="padding: 8px; border: 1px solid #ddd;"><strong>When</strong><br><small>(Khi nào?)</small></td>
+              <td style="padding: 8px; border: 1px solid #ddd;">When + was/were + S + V3?</td>
+              <td style="padding: 8px; border: 1px solid #ddd;">When was the telephone invented?</td>
+            </tr>
+            <tr>
+              <td style="padding: 8px; border: 1px solid #ddd;"><strong>Where</strong><br><small>(Ở đâu?)</small></td>
+              <td style="padding: 8px; border: 1px solid #ddd;">Where + was/were + S + V3?</td>
+              <td style="padding: 8px; border: 1px solid #ddd;">Where was the first car made?</td>
+            </tr>
+            <tr style="background: var(--bg-light);">
+              <td style="padding: 8px; border: 1px solid #ddd;"><strong>What</strong><br><small>(Cái gì?)</small></td>
+              <td style="padding: 8px; border: 1px solid #ddd;">What + was/were + V3...?</td>
+              <td style="padding: 8px; border: 1px solid #ddd;">What was invented in 1876?</td>
+            </tr>
+          </table>
+
+          <div class="theory-panel__example" style="background: #ffebee; padding: 12px; border-radius: 8px; margin-top: 10px;">
+            <strong>⚠️ Chú ý:</strong> Với câu hỏi <strong>"Who"</strong>, nhớ thêm <strong>"by"</strong> ở cuối câu!<br>
+            ❌ Who was the film directed? (Sai)<br>
+            ✅ Who was the film directed <strong>by</strong>? (Đúng)
+          </div>
+        </div>
+
+        <div class="theory-panel__section">
+          <h3 class="theory-panel__heading">⚠️ Những Lỗi Thường Gặp - Tránh ngay!</h3>
+          <table style="width: 100%; border-collapse: collapse;">
+            <tr style="background: #f44336; color: white;">
+              <th style="padding: 10px; width: 50%;">❌ SAI</th>
+              <th style="padding: 10px; width: 50%;">✅ ĐÚNG</th>
+            </tr>
+            <tr>
+              <td style="padding: 10px; border: 1px solid #ddd;">was <strong>invent</strong></td>
+              <td style="padding: 10px; border: 1px solid #ddd;">was <strong>invented</strong> (phải dùng V3)</td>
+            </tr>
+            <tr style="background: var(--bg-light);">
+              <td style="padding: 10px; border: 1px solid #ddd;">was <strong>flew</strong></td>
+              <td style="padding: 10px; border: 1px solid #ddd;">was <strong>flown</strong> (V3 của fly)</td>
+            </tr>
+            <tr>
+              <td style="padding: 10px; border: 1px solid #ddd;">The car <strong>were</strong> made</td>
+              <td style="padding: 10px; border: 1px solid #ddd;">The car <strong>was</strong> made (số ít)</td>
+            </tr>
+            <tr style="background: var(--bg-light);">
+              <td style="padding: 10px; border: 1px solid #ddd;">The cars <strong>was</strong> made</td>
+              <td style="padding: 10px; border: 1px solid #ddd;">The cars <strong>were</strong> made (số nhiều)</td>
+            </tr>
+            <tr>
+              <td style="padding: 10px; border: 1px solid #ddd;">When the phone <strong>was invented</strong>?</td>
+              <td style="padding: 10px; border: 1px solid #ddd;">When <strong>was the phone invented</strong>?</td>
+            </tr>
+          </table>
+        </div>
+
+        <div class="theory-panel__section">
+          <h3 class="theory-panel__heading">🎓 Khi nào dùng Câu Bị Động?</h3>
+          <ul style="line-height: 1.8;">
+            <li>✅ Khi <strong>không biết</strong> ai đã làm hành động đó</li>
+            <li>✅ Khi người làm <strong>không quan trọng</strong> (quan trọng là kết quả)</li>
+            <li>✅ Khi muốn <strong>nhấn mạnh vào sự vật/việc</strong>, không phải người làm</li>
+            <li>✅ Trong văn viết <strong>trang trọng</strong>, khoa học, lịch sử</li>
+          </ul>
+
+          <div class="theory-panel__example" style="background: #e8f5e9; padding: 12px; border-radius: 8px; margin-top: 10px;">
+            <strong>📚 Ví dụ thực tế:</strong><br>
+            • Penicillin <strong>was discovered</strong> in 1928. (Ai phát hiện? Không quan trọng bằng việc nó được phát hiện!)<br>
+            • The pyramids <strong>were built</strong> thousands of years ago. (Ai xây? Không ai biết chắc!)<br>
+            • My bike <strong>was stolen</strong> yesterday. (Tôi không biết ai lấy!)
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Exercise Container -->
+    <div id="exercise-container">
+      <!-- Exercises will be rendered here dynamically -->
+      <div class="card text-center">
+        <h2>Loading...</h2>
+        <p>Please wait while we load the exercises.</p>
+      </div>
+    </div>
+  </main>
+
+  <!-- Core JavaScript (loaded first) -->
+  <script src="../js/core/utils.js"></script>
+  <script src="../js/core/storage.js"></script>
+  <script src="../js/core/telegram-sender.js"></script>
+  <script src="../js/core/game-engine.js"></script>
+
+  <!-- Exercise Type Handlers -->
+  <script src="../js/exercises/multiple-choice.js"></script>
+  <script src="../js/exercises/word-rearrange.js"></script>
+  <script src="../js/exercises/fill-blank.js"></script>
+  <script src="../js/exercises/sentence-build.js"></script>
+  <script src="../js/exercises/sentence-rewrite.js"></script>
+  <script src="../js/exercises/error-correct.js"></script>
+  <script src="../js/exercises/translation.js"></script>
+  <script src="../js/exercises/open-ended.js"></script>
+
+  <!-- Initialize Game -->
+  <script>
+    const UNIT_ID = 'unit-12-famous-inventions';
+    const DATA_PATH = '../data/unit-12-famous-inventions.json';
+
+    // Theory panel toggle
+    const theoryToggle = document.getElementById('theory-toggle');
+    const theoryContent = document.getElementById('theory-content');
+    const theoryIcon = document.getElementById('theory-icon');
+
+    theoryToggle.addEventListener('click', () => {
+      const isExpanded = theoryContent.classList.contains('theory-panel__content--expanded');
+
+      if (isExpanded) {
+        theoryContent.classList.remove('theory-panel__content--expanded');
+        theoryIcon.classList.remove('theory-panel__icon--rotated');
+      } else {
+        theoryContent.classList.add('theory-panel__content--expanded');
+        theoryIcon.classList.add('theory-panel__icon--rotated');
+      }
+    });
+
+    // Combo display logic
+    function updateComboDisplay() {
+      const comboDisplay = document.getElementById('combo-display');
+      const comboCount = document.getElementById('combo-count');
+      const state = GameEngine.getState();
+
+      if (state.comboCount >= 3) {
+        comboDisplay.style.display = 'flex';
+        comboCount.textContent = state.comboCount + 'x 🔥';
+      } else {
+        comboDisplay.style.display = 'none';
+      }
+    }
+
+    // Override GameEngine.updateUI to include combo display
+    const originalUpdateUI = GameEngine.updateUI.bind(GameEngine);
+    GameEngine.updateUI = function() {
+      originalUpdateUI();
+      updateComboDisplay();
+    };
+
+    // Load unit data and start game
+    async function loadAndStartGame() {
+      try {
+        const response = await fetch(DATA_PATH);
+
+        if (!response.ok) {
+          throw new Error(`Failed to load data: ${response.status}`);
+        }
+
+        const unitData = await response.json();
+
+        console.log('Unit data loaded:', unitData);
+        console.log('Registered exercise handlers:', Object.keys(GameEngine.exerciseHandlers));
+
+        GameEngine.init(unitData, UNIT_ID);
+
+      } catch (error) {
+        console.error('Error loading game data:', error);
+
+        const container = document.getElementById('exercise-container');
+        container.innerHTML = `
+          <div class="card">
+            <h2 style="color: var(--danger);">Error Loading Game</h2>
+            <p>Sorry, we couldn't load the exercise data. Please try refreshing the page.</p>
+            <p style="font-size: var(--font-size-sm); color: var(--text-light);">Error: ${error.message}</p>
+            <button class="btn btn--primary mt-2" onclick="location.reload()">Reload Page</button>
+          </div>
+        `;
+      }
+    }
+
+    // Start game when page loads
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', loadAndStartGame);
+    } else {
+      loadAndStartGame();
+    }
+  </script>
+</body>
+</html>

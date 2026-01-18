@@ -4,7 +4,7 @@
 
 <!-- chunk: intro -->
 <teacher_script pause="0">
-Chào các em. Qua bài <eng>A Closer Look 2</eng>. Hôm nay mình học ngữ pháp về các từ chỉ sự tương phản: <eng>Although, Though, However</eng>. Mở sách trang 85 nha.
+Chào các em. Mời các em mở sách giáo khoa trang 85. Hôm nay chúng ta qua phần <eng>A Closer Look 2</eng>, tìm hiểu về ngữ pháp chỉ sự tương phản với các từ <eng>Although, Though</eng> và <eng>However</eng>.
 </teacher_script>
 
 ---
@@ -35,7 +35,7 @@ Dùng để diễn tả sự **tương phản** (hai ý trái ngược nhau).
 </grammar>
 
 <teacher_script pause="0">
-Nhớ kỹ nha: <eng>Although</eng> nối 2 mệnh đề trong 1 câu (có phẩy ở giữa nếu Although đứng đầu). Còn <eng>However</eng> thường nối 2 câu riêng biệt và sau nó phải có dấu phẩy.
+Các em lưu ý: <eng>Although</eng> và <eng>Though</eng> dùng để nối hai mệnh đề trong cùng một câu, còn <eng>However</eng> thường được dùng để nối hai câu riêng biệt, và sau nó luôn có dấu phẩy.
 </teacher_script>
 
 ---
@@ -44,7 +44,7 @@ Nhớ kỹ nha: <eng>Although</eng> nối 2 mệnh đề trong 1 câu (có phẩ
 ### Bài 1 trang 85 - Combine sentences
 
 <teacher_script pause="90">
-Bài 1 <eng>Combine the two sentences, using although/though</eng>. Nối 2 câu dùng Although. 1 phút rưỡi nha.
+Chúng ta cùng làm Bài 1 <eng>Combine combined sentences</eng>. Các em hãy nối hai câu lại với nhau sử dụng <eng>Although</eng> hoặc <eng>Though</eng>. Các em có 1 phút 30 giây.
 </teacher_script>
 
 <task>
@@ -70,14 +70,14 @@ Bài 1 <eng>Combine the two sentences, using although/though</eng>. Nối 2 câu
 </questions>
 
 <teacher_script pause="0">
-Lưu ý: <eng>Although</eng> có thể đặt đầu hoặc giữa câu đều được.
+Lưu ý: <eng>Although</eng> hoặc <eng>Though</eng> có thể đứng đầu câu hoặc giữa câu đều được.
 </teacher_script>
 
 ---
 
 <!-- chunk: answer_1 -->
 <teacher_script pause="0">
-Đáp án nè.
+Đã hết thời gian. Sau đây là đáp án đúng.
 </teacher_script>
 
 <answer>
@@ -97,7 +97,7 @@ Lưu ý: <eng>Although</eng> có thể đặt đầu hoặc giữa câu đều �
 </explanation>
 
 <teacher_script pause="30">
-Sửa bài nếu sai nha.
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
@@ -106,7 +106,7 @@ Sửa bài nếu sai nha.
 ### Bài 2 trang 85 - Although or However
 
 <teacher_script pause="60">
-Bài 2 điền <eng>although</eng> hoặc <eng>however</eng>. Nhìn dấu câu để chọn cho nhanh nha. 1 phút.
+Chúng ta cùng làm Bài 2 <eng>Complete the sentences</eng>. Các em hãy điền <eng>although</eng> hoặc <eng>however</eng> vào chỗ trống, chú ý đến dấu câu nhé. Các em có 1 phút.
 </teacher_script>
 
 <task>
@@ -126,7 +126,7 @@ Bài 2 điền <eng>although</eng> hoặc <eng>however</eng>. Nhìn dấu câu �
 
 <!-- chunk: answer_2 -->
 <teacher_script pause="0">
-Đáp án nè.
+Đã hết thời gian. Sau đây là đáp án đúng.
 </teacher_script>
 
 <answer>
@@ -140,7 +140,7 @@ Bài 2 điền <eng>although</eng> hoặc <eng>however</eng>. Nhìn dấu câu �
 </explanation>
 
 <teacher_script pause="30">
-Sửa bài nếu sai nha.
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
@@ -149,7 +149,7 @@ Sửa bài nếu sai nha.
 ### Bài 3 trang 85 - Use your own ideas
 
 <teacher_script pause="120">
-Bài 3 <eng>Use your own ideas</eng>. Tự điền ý của mình vào câu. Bài này mở, các em viết sao cho hợp lý là được. 2 phút nha.
+Chúng ta cùng làm Bài 3 <eng>Use your own ideas</eng>. Các em hãy tự hoàn thành các câu theo ý của mình sao cho hợp lý. Các em có 2 phút.
 </teacher_script>
 
 <task>
@@ -169,7 +169,7 @@ Bài 3 <eng>Use your own ideas</eng>. Tự điền ý của mình vào câu. Bà
 
 <!-- chunk: answer_3 -->
 <teacher_script pause="0">
-Thầy gợi ý đáp án mẫu nha.
+Sau đây là một vài gợi ý mẫu.
 </teacher_script>
 
 <answer>
@@ -182,7 +182,7 @@ Thầy gợi ý đáp án mẫu nha.
 </answer>
 
 <teacher_script pause="30">
-Các em kiểm tra xem câu của mình có nghĩa tương phản không nha.
+Các em hãy kiểm tra lại câu của mình xem đã thể hiện đúng sự tương phản chưa nhé.
 </teacher_script>
 
 ---
@@ -191,7 +191,7 @@ Các em kiểm tra xem câu của mình có nghĩa tương phản không nha.
 ### Bài 4 trang 86 - Multiple Choice
 
 <teacher_script pause="60">
-Bài 4 trắc nghiệm. Chọn A, B hoặc C. 1 phút nha.
+Chúng ta cùng làm Bài 4 <eng>Multiple Choice</eng>. Các em hãy chọn đáp án đúng A, B hoặc C. Các em có 1 phút.
 </teacher_script>
 
 <task>
@@ -219,7 +219,7 @@ A. Despite | B. Although | C. However
 
 <!-- chunk: answer_4 -->
 <teacher_script pause="0">
-Đáp án nè.
+Đã hết thời gian. Sau đây là đáp án đúng.
 </teacher_script>
 
 <answer>
@@ -236,12 +236,12 @@ A. Despite | B. Although | C. However
 </explanation>
 
 <teacher_script pause="30">
-Sửa bài nếu sai nha. Nhớ cấu trúc <eng>Despite</eng> + Danh từ/V-ing hoặc <eng>the fact that</eng>.
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé. Hãy nhớ cấu trúc <eng>Despite</eng> + Danh từ hoặc V-ing.
 </teacher_script>
 
 ---
 
 <!-- chunk: end -->
 <teacher_script pause="0">
-Xong bài <eng>A Closer Look 2</eng>. Các em nhớ nắm chắc cách dùng <eng>Although</eng> và <eng>However</eng> nha. Hẹn gặp lại!
+Bài học hôm nay kết thúc tại đây. Các em hãy ghi nhớ cách dùng của <eng>Although, Though</eng> và <eng>However</eng> nhé. Hẹn gặp lại các em!
 </teacher_script>

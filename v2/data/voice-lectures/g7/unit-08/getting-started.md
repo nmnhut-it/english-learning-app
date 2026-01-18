@@ -4,11 +4,11 @@
 
 <!-- chunk: intro -->
 <teacher_script pause="0">
-Chào các em. Hôm nay chúng ta qua Unit 8 với chủ đề <eng>Films</eng> - Phim ảnh. Mở sách trang 82 nha.
+Chào các em. Mời các em mở sách giáo khoa trang 82. Hôm nay chúng ta sẽ bắt đầu Unit 8 với chủ đề <eng>Films</eng> - Phim ảnh.
 </teacher_script>
 
 <teacher_script pause="0">
-Bài <eng>Getting Started</eng> hôm nay có tựa đề "Let's go to the cinema tonight!" - Tối nay đi xem phim nhé!
+Bài <eng>Getting Started</eng> hôm nay có tựa đề <eng>Let's go to the cinema tonight!</eng> - Tối nay chúng ta đi xem phim nhé!
 </teacher_script>
 
 ---
@@ -33,7 +33,7 @@ Bài <eng>Getting Started</eng> hôm nay có tựa đề "Let's go to the cinema
 ### Bài 1 trang 82 - Listen and read
 
 <teacher_script pause="0">
-Bài 1 <eng>Listen and read</eng>. Nghe cuộc hội thoại giữa Mark và Mi nhé. Họ đang bàn về việc đi xem phim.
+Chúng ta cùng làm Bài 1 <eng>Listen and read</eng>. Các em hãy nghe và đọc theo đoạn hội thoại giữa Mark và Mi. Hai bạn đang bàn về việc đi xem phim.
 </teacher_script>
 
 <audio src="https://img.loigiaihay.com/picture/2022/0815/054.mp3">
@@ -59,14 +59,14 @@ Bài 1 <eng>Listen and read</eng>. Nghe cuộc hội thoại giữa Mark và Mi 
 </dialogue>
 
 <teacher_script pause="180">
-Các em đọc và dịch đoạn hội thoại trong 3 phút nhé.
+Các em hãy đọc thầm và dịch đoạn hội thoại trong 3 phút nhé.
 </teacher_script>
 
 ---
 
 <!-- chunk: translation -->
 <teacher_script pause="0">
-Đây là bản dịch tham khảo. Các em so sánh với bài dịch của mình nha.
+Sau đây là bản dịch tham khảo. Các em hãy so sánh với bài dịch của mình nhé.
 </teacher_script>
 
 <translation>
@@ -93,7 +93,7 @@ Các em đọc và dịch đoạn hội thoại trong 3 phút nhé.
 ### Bài 2 trang 83 - Read and answer
 
 <teacher_script pause="60">
-Bài 2 <eng>Read the conversation again and choose the correct answer</eng>. Đọc lại hội thoại và chọn đáp án đúng. 1 phút nha.
+Chúng ta cùng làm Bài 2 <eng>Read the conversation again and choose the correct answer</eng>. Các em hãy đọc lại đoạn hội thoại và chọn câu trả lời đúng. Các em có 1 phút.
 </teacher_script>
 
 <task>
@@ -127,7 +127,7 @@ C. Most people like it.
 
 <!-- chunk: answer_2 -->
 <teacher_script pause="0">
-Đáp án nhé.
+Đã hết thời gian. Sau đây là đáp án đúng.
 </teacher_script>
 
 <answer>
@@ -143,7 +143,7 @@ C. Most people like it.
 </explanation>
 
 <teacher_script pause="30">
-Sửa bài nếu sai nha.
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
@@ -152,7 +152,7 @@ Sửa bài nếu sai nha.
 ### Bài 3 trang 83 - Types of film
 
 <teacher_script pause="60">
-Bài 3 <eng>Choose the correct word or phrase</eng>. Chọn từ đúng để điền vào câu định nghĩa về các loại phim. 1 phút nha.
+Chúng ta cùng làm Bài 3 <eng>Choose the correct word or phrase</eng>. Các em hãy chọn từ hoặc cụm từ đúng để hoàn thành câu. Các em có 1 phút.
 </teacher_script>
 
 <task>
@@ -181,7 +181,7 @@ Bài 3 <eng>Choose the correct word or phrase</eng>. Chọn từ đúng để đ
 
 <!-- chunk: answer_3 -->
 <teacher_script pause="0">
-Đáp án nhé.
+Đã hết thời gian. Sau đây là đáp án đúng.
 </teacher_script>
 
 <answer>
@@ -198,7 +198,7 @@ Bài 3 <eng>Choose the correct word or phrase</eng>. Chọn từ đúng để đ
 </explanation>
 
 <teacher_script pause="30">
-Sửa bài nếu sai nha.
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
@@ -207,7 +207,7 @@ Sửa bài nếu sai nha.
 ### Bài 4 trang 83 - Adjectives describing films
 
 <teacher_script pause="60">
-Bài 4 <eng>Complete the sentences with the words in the box</eng>. Điền tính từ thích hợp vào chỗ trống. 1 phút nha.
+Chúng ta cùng làm Bài 4 <eng>Complete the sentences</eng>. Các em hãy chọn tính từ trong khung để hoàn thành các câu. Các em có 1 phút.
 </teacher_script>
 
 <task>
@@ -229,7 +229,7 @@ Bài 4 <eng>Complete the sentences with the words in the box</eng>. Điền tín
 
 <!-- chunk: answer_4 -->
 <teacher_script pause="0">
-Đáp án nhé.
+Đã hết thời gian. Sau đây là đáp án đúng.
 </teacher_script>
 
 <answer>
@@ -246,7 +246,7 @@ Bài 4 <eng>Complete the sentences with the words in the box</eng>. Điền tín
 </explanation>
 
 <teacher_script pause="30">
-Sửa bài nếu sai nha.
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
@@ -255,7 +255,7 @@ Sửa bài nếu sai nha.
 ### Bài 5 trang 83 - Ask and answer
 
 <teacher_script pause="0">
-Bài 5 <eng>Work in pairs</eng>. Hỏi và trả lời về các loại phim. Các em thực hành nói theo cặp nhé.
+Chúng ta cùng làm Bài 5 <eng>Ask and answer</eng>. Các em hãy luyện tập theo cặp, hỏi và trả lời về các loại phim mà mình thích hoặc không thích.
 </teacher_script>
 
 <dialogue>
@@ -267,12 +267,12 @@ B: I think they're boring.
 </dialogue>
 
 <teacher_script pause="0" action="record">
-Em hãy ghi âm câu trả lời của mình về một loại phim mình thích hoặc không thích. Ví dụ: "I like comedies because they are funny."
+Các em hãy bấm ghi âm câu trả lời của mình về một loại phim mình thích hoặc không thích và gửi cho thầy nhé.
 </teacher_script>
 
 ---
 
 <!-- chunk: end -->
 <teacher_script pause="0">
-Chúng ta đã xong bài <eng>Getting Started</eng>. Các em nhớ học từ vựng về các loại phim và tính từ miêu tả phim nhé. Hẹn gặp lại các em ở bài sau!
+Bài học hôm nay kết thúc tại đây. Các em hãy ôn lại từ vựng về các loại phim và các tính từ miêu tả cảm xúc nhé. Hẹn gặp lại các em ở bài sau!
 </teacher_script>

@@ -1,0 +1,433 @@
+{
+  "unitId": "g6-unit-4-my-neighbourhood",
+  "title": "Unit 4: My Neighbourhood - Comparative Adjectives & Directions",
+  "studentName": "Tran Gia Hung",
+  "grade": 6,
+  "grammarTopics": [
+    "Comparative Adjectives",
+    "Giving Directions",
+    "Neighbourhood Vocabulary"
+  ],
+  "theory": {
+    "brief": "So sánh hơn (Comparative) dùng để so sánh 2 người/vật. Tính từ ngắn (1 âm tiết): thêm -er (bigger, taller). Tính từ dài (2+ âm tiết): more + tính từ (more beautiful, more expensive). Cấu trúc: A + be + adj-er/more adj + than + B. Chỉ đường: Go straight (đi thẳng), Turn left/right (rẽ trái/phải), Take the first/second turning (rẽ ở ngã rẽ thứ nhất/hai).",
+    "examples": [
+      "My house is bigger than your house. (Nhà tôi lớn hơn nhà bạn.)",
+      "This street is more modern than that street. (Đường này hiện đại hơn đường kia.)",
+      "Go straight, then turn left. (Đi thẳng, sau đó rẽ trái.)",
+      "Take the second turning on the right. (Rẽ phải ở ngã rẽ thứ hai.)"
+    ]
+  },
+  "exercises": [
+    {
+      "id": "g6u4-ex1",
+      "type": "fill-blank",
+      "question": "My house is _______ (big) than yours.",
+      "wordHint": "(big)",
+      "answer": "bigger",
+      "acceptedAnswers": [
+        "bigger"
+      ],
+      "hints": [
+        "'big' là tính từ ngắn, thêm -er"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u4-ex2",
+      "type": "fill-blank",
+      "question": "This city is _______ (modern) than my hometown.",
+      "wordHint": "(modern)",
+      "answer": "more modern",
+      "acceptedAnswers": [
+        "more modern"
+      ],
+      "hints": [
+        "'modern' là tính từ dài, dùng 'more'"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u4-ex3",
+      "type": "fill-blank",
+      "question": "The streets here are _______ (narrow) than those in my city.",
+      "wordHint": "(narrow)",
+      "answer": "narrower",
+      "acceptedAnswers": [
+        "narrower"
+      ],
+      "hints": [
+        "Tính từ 2 âm tiết kết thúc bằng -ow thêm -er"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u4-ex4",
+      "type": "fill-blank",
+      "question": "Life in the country is _______ (peaceful) than life in the city.",
+      "wordHint": "(peaceful)",
+      "answer": "more peaceful",
+      "acceptedAnswers": [
+        "more peaceful"
+      ],
+      "hints": [
+        "'peaceful' là tính từ dài, dùng 'more'"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u4-ex5",
+      "type": "fill-blank",
+      "question": "The park is _______ (beautiful) than the square.",
+      "wordHint": "(beautiful)",
+      "answer": "more beautiful",
+      "acceptedAnswers": [
+        "more beautiful"
+      ],
+      "hints": [
+        "'beautiful' là tính từ dài"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u4-ex6",
+      "type": "fill-blank",
+      "question": "My neighbourhood is _______ (quiet) than your neighbourhood.",
+      "wordHint": "(quiet)",
+      "answer": "quieter",
+      "acceptedAnswers": [
+        "quieter"
+      ],
+      "hints": [
+        "'quiet' là tính từ ngắn, thêm -er"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u4-ex7",
+      "type": "fill-blank",
+      "question": "These shops are _______ (expensive) than those in the mall.",
+      "wordHint": "(expensive)",
+      "answer": "more expensive",
+      "acceptedAnswers": [
+        "more expensive"
+      ],
+      "hints": [
+        "'expensive' là tính từ dài"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u4-ex8",
+      "type": "fill-blank",
+      "question": "This building is _______ (tall) than that one.",
+      "wordHint": "(tall)",
+      "answer": "taller",
+      "acceptedAnswers": [
+        "taller"
+      ],
+      "hints": [
+        "'tall' là tính từ ngắn, thêm -er"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u4-ex9",
+      "type": "fill-blank",
+      "question": "The weather today is _______ (good) than yesterday.",
+      "wordHint": "(good)",
+      "answer": "better",
+      "acceptedAnswers": [
+        "better"
+      ],
+      "hints": [
+        "'good' bất quy tắc: good → better"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u4-ex10",
+      "type": "fill-blank",
+      "question": "My new school is _______ (far) than my old school.",
+      "wordHint": "(far)",
+      "answer": "farther",
+      "acceptedAnswers": [
+        "farther",
+        "further"
+      ],
+      "hints": [
+        "'far' bất quy tắc: far → farther/further"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u4-ex11",
+      "type": "fill-blank",
+      "question": "Go _______, then turn left at the corner.",
+      "wordHint": "đi thẳng",
+      "answer": "straight",
+      "acceptedAnswers": [
+        "straight"
+      ],
+      "hints": [
+        "'go straight' = đi thẳng"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u4-ex12",
+      "type": "fill-blank",
+      "question": "Turn _______ at the traffic lights.",
+      "wordHint": "phải",
+      "answer": "right",
+      "acceptedAnswers": [
+        "right"
+      ],
+      "hints": [
+        "'turn right' = rẽ phải"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u4-ex13",
+      "type": "fill-blank",
+      "question": "_______ the road carefully.",
+      "wordHint": "băng qua",
+      "answer": "Cross",
+      "acceptedAnswers": [
+        "Cross"
+      ],
+      "hints": [
+        "'cross' = băng qua"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u4-ex14",
+      "type": "fill-blank",
+      "question": "Take the _______ turning on the left.",
+      "wordHint": "thứ hai",
+      "answer": "second",
+      "acceptedAnswers": [
+        "second"
+      ],
+      "hints": [
+        "số thứ tự: first, second, third"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u4-ex15",
+      "type": "fill-blank",
+      "question": "The post office is _______ your right.",
+      "wordHint": "trên/ở",
+      "answer": "on",
+      "acceptedAnswers": [
+        "on"
+      ],
+      "hints": [
+        "'on your right/left' = ở bên phải/trái"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u4-ex16",
+      "type": "multiple-choice",
+      "question": "A city house is _______ than a country house.",
+      "options": [
+        "more expensive",
+        "expensiver",
+        "most expensive",
+        "the expensiver"
+      ],
+      "correctIndex": 0,
+      "explanation": "'expensive' là tính từ dài, dùng 'more expensive'",
+      "hints": [
+        "Tính từ dài dùng 'more'"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u4-ex17",
+      "type": "multiple-choice",
+      "question": "The weather is _______ today than yesterday.",
+      "options": [
+        "worse",
+        "badder",
+        "more bad",
+        "worser"
+      ],
+      "correctIndex": 0,
+      "explanation": "'bad' bất quy tắc: bad → worse",
+      "hints": [
+        "'bad' là tính từ bất quy tắc"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u4-ex18",
+      "type": "multiple-choice",
+      "question": "This street is _______ than that street.",
+      "options": [
+        "noisier",
+        "more noisy",
+        "noisyer",
+        "more noisier"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tính từ 2 âm tiết kết thúc bằng -y, đổi y thành i và thêm -er",
+      "hints": [
+        "Tính từ kết thúc bằng -y: noisy → noisier"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u4-ex19",
+      "type": "multiple-choice",
+      "question": "Excuse me. Can you tell me the way _______ the post office?",
+      "options": [
+        "to",
+        "at",
+        "in",
+        "on"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cấu trúc: the way to + địa điểm",
+      "hints": [
+        "the way to = đường đến"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u4-ex20",
+      "type": "multiple-choice",
+      "question": "Go straight, then _______ the first turning on the right.",
+      "options": [
+        "take",
+        "make",
+        "do",
+        "have"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cấu trúc: take the first/second turning",
+      "hints": [
+        "'take the turning' = rẽ ở ngã rẽ"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u4-ex21",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "My house is bigger than yours.",
+        "My house is bigger than yours"
+      ],
+      "hints": [
+        "Cấu trúc: S + be + adj-er + than + O"
+      ],
+      "points": 15,
+      "correctSentence": "My house is bigger than yours.",
+      "words": [
+        "is",
+        "house",
+        "my",
+        "than",
+        "bigger",
+        "yours"
+      ]
+    },
+    {
+      "id": "g6u4-ex22",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "The countryside is more peaceful than the city.",
+        "The countryside is more peaceful than the city"
+      ],
+      "hints": [
+        "Tính từ dài dùng 'more'"
+      ],
+      "points": 15,
+      "correctSentence": "The countryside is more peaceful than the city.",
+      "words": [
+        "more",
+        "city",
+        "the",
+        "is",
+        "peaceful",
+        "than",
+        "countryside",
+        "the"
+      ]
+    },
+    {
+      "id": "g6u4-ex23",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "Go straight, then turn left.",
+        "Go straight, then turn left",
+        "Go straight then turn left"
+      ],
+      "hints": [
+        "Chỉ đường: Go straight, then turn left/right"
+      ],
+      "points": 15,
+      "correctSentence": "Go straight, then turn left.",
+      "words": [
+        "straight",
+        "go",
+        "then",
+        "left",
+        "turn"
+      ]
+    },
+    {
+      "id": "g6u4-ex24",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "Take the second turning on the right.",
+        "Take the second turning on the right"
+      ],
+      "hints": [
+        "take the second turning = rẽ ở ngã rẽ thứ hai"
+      ],
+      "points": 15,
+      "correctSentence": "Take the second turning on the right.",
+      "words": [
+        "turning",
+        "take",
+        "second",
+        "the",
+        "right",
+        "on",
+        "the"
+      ]
+    },
+    {
+      "id": "g6u4-ex25",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "The weather today is better than yesterday.",
+        "The weather today is better than yesterday",
+        "The weather is better today than yesterday"
+      ],
+      "hints": [
+        "'good' bất quy tắc: good → better"
+      ],
+      "points": 15,
+      "correctSentence": "The weather today is better than yesterday.",
+      "words": [
+        "better",
+        "weather",
+        "the",
+        "today",
+        "is",
+        "than",
+        "yesterday"
+      ]
+    }
+  ]
+}

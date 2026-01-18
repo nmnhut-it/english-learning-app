@@ -1,0 +1,539 @@
+{
+  "unitId": "g7-unit-6-visit-to-school",
+  "title": "Unit 6: A Visit to a School - Present Perfect Tense",
+  "studentName": "Tran Gia Hung",
+  "grade": 7,
+  "grammarTopics": [
+    "Present Perfect Tense",
+    "Have/Has + Past Participle",
+    "Ever/Never/Just/Already/Yet",
+    "For and Since",
+    "School Vocabulary"
+  ],
+  "theory": {
+    "brief": "Thì hiện tại hoàn thành diễn tả hành động đã xảy ra nhưng không rõ thời gian, hoặc vẫn còn liên quan đến hiện tại. Công thức: S + have/has + V3/Ved. Phủ định: S + haven't/hasn't + V3. Nghi vấn: Have/Has + S + V3? Dấu hiệu: ever, never, just, already, yet, for, since, recently.",
+    "examples": [
+      "I have visited this school before. (Tôi đã đến thăm trường này trước đây.)",
+      "She has just finished her homework. (Cô ấy vừa mới hoàn thành bài tập.)",
+      "Have you ever been to the library? (Bạn đã từng đến thư viện chưa?)",
+      "We haven't seen the principal yet. (Chúng tôi chưa gặp hiệu trưởng.)",
+      "He has lived here for 5 years. (Anh ấy đã sống ở đây được 5 năm.)"
+    ]
+  },
+  "exercises": [
+    {
+      "id": "g7u6-ex1",
+      "type": "fill-blank",
+      "question": "I _______ (visit) this school before.",
+      "wordHint": "(visit)",
+      "answer": "have visited",
+      "acceptedAnswers": [
+        "have visited"
+      ],
+      "hints": [
+        "I + have + V3"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u6-ex2",
+      "type": "fill-blank",
+      "question": "She _______ (finish) her homework.",
+      "wordHint": "(finish)",
+      "answer": "has finished",
+      "acceptedAnswers": [
+        "has finished"
+      ],
+      "hints": [
+        "She + has + V3"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u6-ex3",
+      "type": "fill-blank",
+      "question": "They _______ (study) English for 3 years.",
+      "wordHint": "(study)",
+      "answer": "have studied",
+      "acceptedAnswers": [
+        "have studied"
+      ],
+      "hints": [
+        "They + have + V3"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u6-ex4",
+      "type": "fill-blank",
+      "question": "He _______ (be) to the library many times.",
+      "wordHint": "(be)",
+      "answer": "has been",
+      "acceptedAnswers": [
+        "has been"
+      ],
+      "hints": [
+        "be → been (bất quy tắc)"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u6-ex5",
+      "type": "fill-blank",
+      "question": "We _______ (see) that movie before.",
+      "wordHint": "(see)",
+      "answer": "have seen",
+      "acceptedAnswers": [
+        "have seen"
+      ],
+      "hints": [
+        "see → seen"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u6-ex6",
+      "type": "fill-blank",
+      "question": "She _______ (not finish) her project yet.",
+      "wordHint": "(not finish)",
+      "answer": "hasn't finished",
+      "acceptedAnswers": [
+        "hasn't finished",
+        "has not finished"
+      ],
+      "hints": [
+        "hasn't + V3"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u6-ex7",
+      "type": "fill-blank",
+      "question": "They _______ (not see) the principal yet.",
+      "wordHint": "(not see)",
+      "answer": "haven't seen",
+      "acceptedAnswers": [
+        "haven't seen",
+        "have not seen"
+      ],
+      "hints": [
+        "haven't + V3"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u6-ex8",
+      "type": "fill-blank",
+      "question": "_______ you _______ (visit) the science lab?",
+      "wordHint": "Have/visited",
+      "answer": "Have visited",
+      "acceptedAnswers": [
+        "Have visited",
+        "Have you visited",
+        "Have-visited"
+      ],
+      "hints": [
+        "Have + S + V3?"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u6-ex9",
+      "type": "fill-blank",
+      "question": "_______ she _______ (eat) lunch?",
+      "wordHint": "Has/eaten",
+      "answer": "Has eaten",
+      "acceptedAnswers": [
+        "Has eaten",
+        "Has she eaten",
+        "Has-eaten"
+      ],
+      "hints": [
+        "Has + S + V3?"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u6-ex10",
+      "type": "fill-blank",
+      "question": "I have _______ been to Paris.",
+      "wordHint": "chưa bao giờ",
+      "answer": "never",
+      "acceptedAnswers": [
+        "never"
+      ],
+      "hints": [
+        "never = chưa bao giờ"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u6-ex11",
+      "type": "fill-blank",
+      "question": "Have you _______ visited London?",
+      "wordHint": "đã từng",
+      "answer": "ever",
+      "acceptedAnswers": [
+        "ever"
+      ],
+      "hints": [
+        "ever = đã từng (câu hỏi)"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u6-ex12",
+      "type": "fill-blank",
+      "question": "She has _______ finished her test.",
+      "wordHint": "vừa mới",
+      "answer": "just",
+      "acceptedAnswers": [
+        "just"
+      ],
+      "hints": [
+        "just = vừa mới"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u6-ex13",
+      "type": "fill-blank",
+      "question": "We have _______ done our homework.",
+      "wordHint": "đã...rồi",
+      "answer": "already",
+      "acceptedAnswers": [
+        "already"
+      ],
+      "hints": [
+        "already = đã...rồi (khẳng định)"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u6-ex14",
+      "type": "fill-blank",
+      "question": "They haven't arrived _______.",
+      "wordHint": "chưa",
+      "answer": "yet",
+      "acceptedAnswers": [
+        "yet"
+      ],
+      "hints": [
+        "yet = chưa (cuối câu phủ định)"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u6-ex15",
+      "type": "fill-blank",
+      "question": "I have lived here _______ 5 years.",
+      "wordHint": "for/since",
+      "answer": "for",
+      "acceptedAnswers": [
+        "for"
+      ],
+      "hints": [
+        "for + khoảng thời gian"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u6-ex16",
+      "type": "fill-blank",
+      "question": "She has studied English _______ 2020.",
+      "wordHint": "for/since",
+      "answer": "since",
+      "acceptedAnswers": [
+        "since"
+      ],
+      "hints": [
+        "since + mốc thời gian"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u6-ex17",
+      "type": "multiple-choice",
+      "question": "I _______ my homework already.",
+      "options": [
+        "finish",
+        "finished",
+        "have finished",
+        "has finished"
+      ],
+      "correctIndex": 2,
+      "explanation": "Present Perfect: have + V3",
+      "hints": [
+        "'already' → Present Perfect"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u6-ex18",
+      "type": "multiple-choice",
+      "question": "She _______ to that school before.",
+      "options": [
+        "go",
+        "goes",
+        "has gone",
+        "have gone"
+      ],
+      "correctIndex": 2,
+      "explanation": "She + has + V3",
+      "hints": [
+        "She → has"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u6-ex19",
+      "type": "multiple-choice",
+      "question": "_______ you ever _______ Japanese food?",
+      "options": [
+        "Do/eat",
+        "Did/eat",
+        "Have/eaten",
+        "Has/eaten"
+      ],
+      "correctIndex": 2,
+      "explanation": "'ever' → Present Perfect",
+      "hints": [
+        "ever → Have + V3"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u6-ex20",
+      "type": "multiple-choice",
+      "question": "We haven't finished _______.",
+      "options": [
+        "already",
+        "never",
+        "yet",
+        "ever"
+      ],
+      "correctIndex": 2,
+      "explanation": "yet dùng cuối câu phủ định",
+      "hints": [
+        "haven't → yet"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u6-ex21",
+      "type": "multiple-choice",
+      "question": "He has lived here _______ 2015.",
+      "options": [
+        "for",
+        "since",
+        "in",
+        "at"
+      ],
+      "correctIndex": 1,
+      "explanation": "since + năm (mốc thời gian)",
+      "hints": [
+        "năm → since"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u6-ex22",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "I have visited this school before.",
+        "I have visited this school before"
+      ],
+      "hints": [
+        "S + have + V3"
+      ],
+      "points": 15,
+      "correctSentence": "I have visited this school before.",
+      "words": [
+        "visited",
+        "I",
+        "school",
+        "this",
+        "have",
+        "before"
+      ]
+    },
+    {
+      "id": "g7u6-ex23",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "She has just finished her homework.",
+        "She has just finished her homework"
+      ],
+      "hints": [
+        "S + has + just + V3"
+      ],
+      "points": 15,
+      "correctSentence": "She has just finished her homework.",
+      "words": [
+        "has",
+        "she",
+        "finished",
+        "homework",
+        "her",
+        "just"
+      ]
+    },
+    {
+      "id": "g7u6-ex24",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "Have you ever been to the library?",
+        "Have you ever been to the library"
+      ],
+      "hints": [
+        "Have + S + ever + V3?"
+      ],
+      "points": 15,
+      "correctSentence": "Have you ever been to the library?",
+      "words": [
+        "you",
+        "ever",
+        "have",
+        "to",
+        "been",
+        "library",
+        "the"
+      ]
+    },
+    {
+      "id": "g7u6-ex25",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "We haven't seen the principal yet.",
+        "We haven't seen the principal yet"
+      ],
+      "hints": [
+        "S + haven't + V3 + yet"
+      ],
+      "points": 15,
+      "correctSentence": "We haven't seen the principal yet.",
+      "words": [
+        "haven't",
+        "we",
+        "principal",
+        "the",
+        "seen",
+        "yet"
+      ]
+    },
+    {
+      "id": "g7u6-ex26",
+      "type": "error-correct",
+      "wrongSentence": "I have visit this school before.",
+      "correctSentence": "I have visited this school before.",
+      "errorWord": "visit",
+      "correction": "visited",
+      "explanation": "have + V3 (không dùng V0)",
+      "hints": [
+        "have + V3"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u6-ex27",
+      "type": "error-correct",
+      "wrongSentence": "She have finished her homework.",
+      "correctSentence": "She has finished her homework.",
+      "errorWord": "have",
+      "correction": "has",
+      "explanation": "She → has (không dùng have)",
+      "hints": [
+        "She/He/It → has"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u6-ex28",
+      "type": "error-correct",
+      "wrongSentence": "Have you ever ate sushi?",
+      "correctSentence": "Have you ever eaten sushi?",
+      "errorWord": "ate",
+      "correction": "eaten",
+      "explanation": "Have + V3 (eat → eaten)",
+      "hints": [
+        "eat → eaten"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u6-ex29",
+      "type": "error-correct",
+      "wrongSentence": "They haven't finish yet.",
+      "correctSentence": "They haven't finished yet.",
+      "errorWord": "finish",
+      "correction": "finished",
+      "explanation": "haven't + V3",
+      "hints": [
+        "haven't + V3"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u6-ex30",
+      "type": "error-correct",
+      "wrongSentence": "He has lived here since 5 years.",
+      "correctSentence": "He has lived here for 5 years.",
+      "errorWord": "since",
+      "correction": "for",
+      "explanation": "for + khoảng thời gian, since + mốc thời gian",
+      "hints": [
+        "khoảng thời gian → for"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u6-ex31",
+      "type": "translation",
+      "vietnamese": "Tôi đã từng đến thăm trường này.",
+      "answer": "I have visited this school.",
+      "acceptedAnswers": [
+        "I have visited this school.",
+        "I have visited this school",
+        "I have visited this school before.",
+        "I have been to this school."
+      ],
+      "hints": [
+        "have + V3"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u6-ex32",
+      "type": "translation",
+      "vietnamese": "Cô ấy vừa mới hoàn thành bài tập.",
+      "answer": "She has just finished her homework.",
+      "acceptedAnswers": [
+        "She has just finished her homework.",
+        "She has just finished her homework",
+        "She's just finished her homework."
+      ],
+      "hints": [
+        "has + just + V3"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u6-ex33",
+      "type": "translation",
+      "vietnamese": "Bạn đã bao giờ ăn sushi chưa?",
+      "answer": "Have you ever eaten sushi?",
+      "acceptedAnswers": [
+        "Have you ever eaten sushi?",
+        "Have you ever eaten sushi"
+      ],
+      "hints": [
+        "Have + S + ever + V3?"
+      ],
+      "points": 10
+    }
+  ]
+}

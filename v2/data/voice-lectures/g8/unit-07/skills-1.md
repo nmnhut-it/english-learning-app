@@ -4,7 +4,7 @@
 
 <!-- chunk: intro -->
 <teacher_script pause="0">
-Chào các em. Hôm nay qua <eng>Skills 1</eng>. Mình sẽ đọc về các vườn quốc gia (National Parks) và luyện nói về Vườn quốc gia Vũ Quang. Mở sách trang 78 nha.
+Chào các em. Chào mừng các em đến với bài học hôm nay. Mời các em mở sách giáo khoa.
 </teacher_script>
 
 ---
@@ -29,7 +29,7 @@ Chào các em. Hôm nay qua <eng>Skills 1</eng>. Mình sẽ đọc về các vư
 ### Bài 2 trang 78 - Reading Comprehension
 
 <teacher_script pause="120">
-Bài 2 đọc bài về Vườn quốc gia Côn Đảo. Sau đó chọn từ đúng để hoàn thành câu. 2 phút nha.
+Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
 <reading>
@@ -65,7 +65,7 @@ A. environment | B. small islands
 </explanation>
 
 <teacher_script pause="30">
-Sửa bài nếu sai nha.
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
@@ -74,7 +74,7 @@ Sửa bài nếu sai nha.
 ### Bài 3 trang 78 - Choose Correct Choice
 
 <teacher_script pause="60">
-Bài 3 chọn đáp án đúng. 1 phút nha.
+Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
 <questions type="multiple_choice">
@@ -109,7 +109,7 @@ B. Con Dao National Park's mission is to help other national parks.
 </explanation>
 
 <teacher_script pause="30">
-Sửa bài nếu sai nha.
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
@@ -118,7 +118,7 @@ Sửa bài nếu sai nha.
 ### Bài 4 & 5 trang 78 - Speaking about Vu Quang National Park
 
 <teacher_script pause="0">
-Qua phần Nói. Làm việc cặp hỏi và trả lời về Vườn quốc gia Vũ Quang.
+Bây giờ là phần thực hành nói. Các em hãy luyện tập theo cặp hoặc theo nhóm nhé.
 </teacher_script>
 
 <task>
@@ -143,12 +143,12 @@ Qua phần Nói. Làm việc cặp hỏi và trả lời về Vườn quốc gia
 </dialogue>
 
 <teacher_script pause="0" action="record">
-Em hãy giới thiệu ngắn gọn về Vườn quốc gia Vũ Quang dựa trên thông tin trên. Ghi âm gửi thầy.
+Các em hãy ghi âm phần luyện tập của mình và gửi cho thầy nhé.
 </teacher_script>
 
 ---
 
 <!-- chunk: end -->
 <teacher_script pause="0">
-Xong bài <eng>Skills 1</eng>. Các em nhớ từ vựng về vườn quốc gia và thông tin về VQG Côn Đảo nhé. Tạm biệt!
+Bài học hôm nay kết thúc tại đây. Các em nhớ ôn bài và chuẩn bị cho bài học tiếp theo. Tạm biệt các em.
 </teacher_script>

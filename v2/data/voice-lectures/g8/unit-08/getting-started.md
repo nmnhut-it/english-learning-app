@@ -4,7 +4,7 @@
 
 <!-- chunk: intro -->
 <teacher_script pause="0">
-Hi everyone. Welcome to Unit 8 <eng>Shopping</eng>. Chủ đề mua sắm rất thú vị và quen thuộc đúng không? Mở sách trang 82 cùng thầy khám phá nha.
+Chào các em. Chào mừng các em đến với bài học hôm nay. Mời các em mở sách giáo khoa.
 </teacher_script>
 
 ---
@@ -24,7 +24,7 @@ Hi everyone. Welcome to Unit 8 <eng>Shopping</eng>. Chủ đề mua sắm rất 
 </vocabulary>
 
 <teacher_script pause="0">
-Nghe và đọc theo từ vựng nha lớp.
+Chúng ta cùng học từ vựng mới. Các em hãy nghe và lặp lại theo mẫu nhé.
 </teacher_script>
 
 ---
@@ -33,7 +33,7 @@ Nghe và đọc theo từ vựng nha lớp.
 ### Bài 1 trang 82 - Listen and read
 
 <teacher_script pause="0">
-Bài 1 <eng>Listen and read</eng>. Nghe Mai và Alice nói về chuyến đi Bắc Hà và sở thích mua sắm.
+Bây giờ các em sẽ nghe một đoạn băng. Hãy chú ý lắng nghe để tìm thông tin trả lời câu hỏi.
 </teacher_script>
 
 <audio src="https://img.loigiaihay.com/picture/2023/0616/track-46.mp3">
@@ -57,7 +57,7 @@ Bài 1 <eng>Listen and read</eng>. Nghe Mai và Alice nói về chuyến đi B�
 ### Bài 2 trang 83 - Complete the list
 
 <teacher_script pause="60">
-Bài 2 <eng>Mai and Alice mentioned four places where they can buy things</eng>. Tìm 4 địa điểm mua sắm được nhắc đến. 1 phút nha.
+Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
 <task>
@@ -83,7 +83,7 @@ Bài 2 <eng>Mai and Alice mentioned four places where they can buy things</eng>.
 </explanation>
 
 <teacher_script pause="30">
-Sửa bài vào nha.
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
@@ -92,7 +92,7 @@ Sửa bài vào nha.
 ### Bài 3 trang 83 - Match types of markets
 
 <teacher_script pause="60">
-Bài 3 <eng>Match the types of markets with the features</eng>. Nối loại chợ với đặc điểm của nó. 1 phút nha.
+Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
 <task>
@@ -121,7 +121,7 @@ e. The weather does not affect shopping.
 </explanation>
 
 <teacher_script pause="30">
-Sửa bài nếu sai nha.
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
@@ -130,7 +130,7 @@ Sửa bài nếu sai nha.
 ### Bài 4 trang 83 - Complete sentences
 
 <teacher_script pause="60">
-Bài 4 điền từ vào câu. 1 phút bắt đầu.
+Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
 <questions type="fill_blanks">
@@ -148,17 +148,12 @@ Bài 4 điền từ vào câu. 1 phút bắt đầu.
 </answer>
 
 <teacher_script pause="30">
-Sửa nhanh nha.
-1. bargain (trả giá)
-2. convenience store (cửa hàng tiện lợi)
-3. home-grown (nhà trồng)
-4. price tag (nhãn giá)
-5. home-made (nhà làm)
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
 
 <!-- chunk: end -->
 <teacher_script pause="0">
-Xong bài <eng>Getting Started</eng>. Các em nhớ từ vựng về các loại hình mua sắm nhé. Hẹn gặp lại ở bài sau!
+Bài học hôm nay kết thúc tại đây. Các em nhớ ôn bài và chuẩn bị cho bài học tiếp theo. Tạm biệt các em.
 </teacher_script>

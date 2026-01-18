@@ -4,7 +4,7 @@
 
 <!-- chunk: intro -->
 <teacher_script pause="0">
-Chào các em. Bài <eng>A Closer Look 2</eng> hôm nay chúng ta học về Đại từ quan hệ: who, which và whose. Mở sách trang 23 nhé.
+Chào các em. Chào mừng các em đến với bài học hôm nay. Mời các em mở sách giáo khoa.
 </teacher_script>
 
 ---
@@ -30,7 +30,7 @@ Các em nhớ: **who** cho người, **which** cho vật, và **whose** biểu t
 ### Bài 1 trang 23 - Identify noun referred to
 
 <teacher_script pause="60">
-Bài 1 gạch chân danh từ mà **who** hoặc **which** thay thế.
+Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
 <questions type="fill_blanks">
@@ -56,7 +56,7 @@ Bài 1 gạch chân danh từ mà **who** hoặc **which** thay thế.
 ### Bài 2 trang 23 - Choose correct relative pronoun
 
 <teacher_script pause="60">
-Bài 2 chọn đại từ quan hệ đúng (who / which).
+Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
 <questions type="multiple_choice">
@@ -77,7 +77,7 @@ Bài 2 chọn đại từ quan hệ đúng (who / which).
 </answer>
 
 <teacher_script pause="30">
-Sửa bài vào nha.
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
@@ -86,7 +86,7 @@ Sửa bài vào nha.
 ### Bài 3 trang 24 - Who or Whose
 
 <teacher_script pause="60">
-Bài 3 điền **who** hoặc **whose**.
+Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
 <questions type="fill_blanks">
@@ -112,7 +112,7 @@ Bài 3 điền **who** hoặc **whose**.
 ### Bài 4 trang 24 - Match clauses
 
 <teacher_script pause="60">
-Bài 4 nối hai mệnh đề để tạo câu hoàn chỉnh.
+Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
 <task>
@@ -146,7 +146,7 @@ e. who is arranging accommodation.
 ### Bài 5 trang 24 - Finish sentences
 
 <teacher_script pause="0">
-Bài 5 thảo luận và hoàn thành câu với ý tưởng của em.
+Bây giờ là phần thực hành nói. Các em hãy luyện tập theo cặp hoặc theo nhóm nhé.
 </teacher_script>
 
 <dialogue>
@@ -157,5 +157,5 @@ Bài 5 thảo luận và hoàn thành câu với ý tưởng của em.
 </dialogue>
 
 <teacher_script pause="0">
-Kết thúc bài học. Các em nhớ luyện tập sử dụng Who, Which, Whose nhé. Tạm biệt!
+Bài học hôm nay kết thúc tại đây. Các em nhớ ôn bài và chuẩn bị cho bài học tiếp theo. Tạm biệt các em.
 </teacher_script>

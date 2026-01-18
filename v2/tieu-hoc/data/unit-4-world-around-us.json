@@ -1,0 +1,1221 @@
+{
+  "unitId": "unit-4-world-around-us",
+  "title": "Unit 4: The World Around Us",
+  "grammarTopics": ["Past Continuous", "Past Simple", "Used to"],
+  "theory": {
+    "brief": "Bài học này gồm 3 điểm ngữ pháp quan trọng:\n\n**1. THÌ QUÁ KHỨ TIẾP DIỄN (PAST CONTINUOUS)**\n\n• Công thức:\n  - Khẳng định: S + was/were + V-ing\n  - Phủ định: S + was/were + not + V-ing\n  - Câu hỏi: Was/Were + S + V-ing?\n\n• Quy tắc chọn was/were:\n  - WAS: I, he, she, it (số ít)\n  - WERE: you, we, they (số nhiều và 'you')\n\n• Cách dùng chính:\n  a) Hành động đang diễn ra tại một thời điểm trong quá khứ\n     VD: At 8 PM last night, I was studying. (Lúc 8 giờ tối qua, tôi đang học bài)\n  b) Hành động đang diễn ra thì bị hành động khác xen vào (dùng với 'when')\n     VD: I was watching TV when the phone rang. (Tôi đang xem TV thì điện thoại reo)\n  c) Hai hành động cùng diễn ra song song (dùng với 'while')\n     VD: Mom was cooking while Dad was reading. (Mẹ nấu ăn trong khi bố đọc báo)\n\n**2. KẾT HỢP QUÁ KHỨ TIẾP DIỄN VÀ QUÁ KHỨ ĐƠN**\n\n• Quy tắc vàng: Khi có 'when' hoặc 'while':\n  - Hành động DÀI (đang diễn ra) → Past Continuous (was/were + V-ing)\n  - Hành động NGẮN (xen vào, ngắt quãng) → Past Simple (V-ed / V2)\n\n• Cách nhận biết:\n  - Hành động dài: thường là hoạt động có thể kéo dài (walk, read, sleep, watch...)\n  - Hành động ngắn: thường là sự kiện đột ngột (ring, arrive, start, fall...)\n\n• VD phân tích: 'I was walking home when I saw a new house.'\n  - was walking = hành động dài (đang đi bộ)\n  - saw = hành động ngắn (nhìn thấy - xảy ra trong tích tắc)\n\n**3. CẤU TRÚC 'USED TO' (THÓI QUEN QUÁ KHỨ)**\n\n• Công thức:\n  - Khẳng định: S + used to + V (nguyên mẫu)\n  - Phủ định: S + didn't use to + V (nguyên mẫu) ⚠️ LƯU Ý: 'use' không có 'd'\n  - Câu hỏi: Did + S + use to + V? ⚠️ LƯU Ý: 'use' không có 'd'\n\n• Cách dùng: Diễn tả thói quen hoặc trạng thái trong quá khứ KHÔNG CÒN NỮA ở hiện tại\n\n• VD: I used to drink coffee, but now I drink tea.\n  (Tôi từng uống cà phê, nhưng giờ tôi uống trà)\n\n• Lỗi thường gặp:\n  ❌ Did you used to...? → ✅ Did you use to...?\n  ❌ She didn't used to... → ✅ She didn't use to...\n  ❌ We use to live... → ✅ We used to live...",
+    "examples": [
+      "I was walking home when I saw a new house. (Tôi đang đi bộ về nhà thì nhìn thấy một ngôi nhà mới)",
+      "We used to spend a lot of money. (Chúng tôi từng tiêu nhiều tiền - giờ không còn nữa)",
+      "The phone rang while I was having dinner. (Điện thoại reo trong khi tôi đang ăn tối)",
+      "Did you use to play football? (Bạn có từng chơi bóng đá không?)",
+      "What were you doing at 9 PM? (Bạn đang làm gì lúc 9 giờ tối?)"
+    ]
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "type": "multiple-choice",
+      "question": "Mr Smith __________ home when the storm started.",
+      "options": ["drove", "was driving", "is driving", "drives"],
+      "correctIndex": 1,
+      "explanation": "✅ Đáp án: 'was driving'\n\n📚 Giải thích: Câu có 'when the storm started' (khi bão bắt đầu) - đây là hành động ngắn xen vào. Hành động 'drive home' (lái xe về nhà) đang diễn ra thì bị bão cắt ngang → dùng thì Quá khứ tiếp diễn.\n\n📝 Công thức: S + was/were + V-ing\n• Mr Smith = He (ngôi thứ 3 số ít) → dùng 'was'\n• drive → driving (thêm -ing)\n\n💡 Mẹo nhớ: Khi thấy 'when + hành động ngắn', hành động còn lại thường ở thì Quá khứ tiếp diễn.",
+      "hints": ["(drive) - Hành động đang diễn ra trong quá khứ bị ngắt quãng bởi 'when the storm started'"],
+      "points": 10
+    },
+    {
+      "id": 2,
+      "type": "multiple-choice",
+      "question": "I __________ a DVD on my computer when it stopped working.",
+      "options": ["watch", "watched", "was watching", "am watching"],
+      "correctIndex": 2,
+      "explanation": "✅ Đáp án: 'was watching'\n\n📚 Giải thích: Câu có 'when it stopped working' (khi nó ngừng hoạt động) - sự kiện đột ngột xen vào. Hành động 'watch a DVD' đang diễn ra thì máy tính dừng → Quá khứ tiếp diễn.\n\n📝 Quy tắc chọn was/were:\n• I, he, she, it → WAS\n• You, we, they → WERE\n\n• Chủ ngữ 'I' → dùng 'was'\n• watch → watching\n\n💡 Cấu trúc thường gặp: S + was/were + V-ing + when + S + V2/Ved",
+      "hints": ["(watch) - Quá khứ tiếp diễn vì đang xem thì máy tính dừng"],
+      "points": 10
+    },
+    {
+      "id": 3,
+      "type": "multiple-choice",
+      "question": "We __________ on the bus when we saw the new shops.",
+      "options": ["travelled", "were travelling", "are travelling", "travel"],
+      "correctIndex": 1,
+      "explanation": "✅ Đáp án: 'were travelling'\n\n📚 Giải thích: Chúng tôi đang đi trên xe buýt (hành động dài) thì nhìn thấy các cửa hàng mới (hành động ngắn xen vào). Hành động dài → Quá khứ tiếp diễn.\n\n📝 Quy tắc:\n• Chủ ngữ 'We' (số nhiều) → dùng 'WERE'\n• travel → travelling (gấp đôi 'l' trước khi thêm -ing)\n\n⚠️ Lưu ý cách viết: Trong tiếng Anh-Anh, các động từ kết thúc bằng 'l' thường gấp đôi 'l' khi thêm -ing: travel → travelling, cancel → cancelling",
+      "hints": ["(travel) - 'We' dùng 'were', hành động đang xảy ra dùng V-ing"],
+      "points": 10
+    },
+    {
+      "id": 4,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp câu hỏi: What / you / do / when / the phone / rang?",
+      "words": ["What", "were", "you", "doing", "when", "the", "phone", "rang?"],
+      "distractors": ["did", "do", "was"],
+      "correctSentence": "What were you doing when the phone rang?",
+      "acceptedAnswers": [
+        "What were you doing when the phone rang",
+        "What were you doing when the phone rang?"
+      ],
+      "hints": ["Câu hỏi Quá khứ tiếp diễn với 'you': Were you + V-ing? Hành động ngắn 'rang' dùng Past Simple"],
+      "points": 10
+    },
+    {
+      "id": 5,
+      "type": "multiple-choice",
+      "question": "We were walking home when we __________ a bag of rubbish.",
+      "options": ["find", "found", "were finding", "are finding"],
+      "correctIndex": 1,
+      "explanation": "✅ Đáp án: 'found'\n\n📚 Giải thích: Câu này có 2 hành động:\n• 'were walking home' = hành động DÀI (đang đi bộ về nhà) → Past Continuous\n• 'find a bag' = hành động NGẮN (tìm thấy túi rác - xảy ra trong tích tắc) → Past Simple\n\n📝 Quy tắc: Khi 2 hành động xảy ra cùng lúc với 'when':\n• Hành động dài, đang diễn ra → was/were + V-ing\n• Hành động ngắn, xen vào → V2/Ved\n\n💡 'find' là động từ bất quy tắc: find → found → found",
+      "hints": ["(find) - Hành động ngắn xen vào hành động dài → dùng Past Simple (found)"],
+      "points": 10
+    },
+    {
+      "id": 6,
+      "type": "multiple-choice",
+      "question": "I was cycling home when I __________ a new house.",
+      "options": ["see", "saw", "was seeing", "am seeing"],
+      "correctIndex": 1,
+      "explanation": "✅ Đáp án: 'saw'\n\n📚 Giải thích: Tương tự câu trước:\n• 'was cycling home' = hành động dài (đang đạp xe về nhà)\n• 'see a new house' = hành động ngắn (nhìn thấy ngôi nhà mới)\n\n📝 Động từ 'see' là động từ bất quy tắc:\n• see → saw → seen\n• Các động từ chỉ giác quan (see, hear, smell, taste, feel) thường không dùng ở dạng tiếp diễn vì chúng mô tả trạng thái, không phải hành động kéo dài.\n\n❌ Tại sao không chọn 'was seeing'?\n'See' thường không dùng ở thể tiếp diễn khi mang nghĩa 'nhìn thấy' (perception). Chỉ dùng 'was seeing' khi nghĩa là 'hẹn hò' (dating).",
+      "hints": ["(see) - Động từ bất quy tắc: see → saw. Không dùng 'was seeing' vì 'see' là động từ chỉ giác quan"],
+      "points": 10
+    },
+    {
+      "id": 7,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp câu: They / watch TV / when / the lights / go out",
+      "words": ["They", "were", "watching", "TV", "when", "the", "lights", "went", "out."],
+      "distractors": ["watch", "go", "was"],
+      "correctSentence": "They were watching TV when the lights went out.",
+      "acceptedAnswers": [
+        "They were watching TV when the lights went out",
+        "They were watching TV when the lights went out.",
+        "When the lights went out, they were watching TV",
+        "When the lights went out, they were watching TV."
+      ],
+      "hints": ["'were watching' = hành động dài (Past Continuous), 'went out' = hành động ngắn (Past Simple). 'go out' là động từ bất quy tắc: go → went"],
+      "points": 10
+    },
+    {
+      "id": 8,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp câu: We / have lunch // someone / knock on the door",
+      "words": ["We", "were", "having", "lunch", "when", "someone", "knocked", "on", "the", "door."],
+      "distractors": ["have", "knock", "was"],
+      "correctSentence": "We were having lunch when someone knocked on the door.",
+      "acceptedAnswers": [
+        "We were having lunch when someone knocked on the door",
+        "We were having lunch when someone knocked on the door.",
+        "When someone knocked on the door, we were having lunch",
+        "When someone knocked on the door, we were having lunch."
+      ],
+      "hints": ["'were having lunch' = hành động dài (Past Continuous với We), 'knocked' = hành động ngắn đột ngột (Past Simple)"],
+      "points": 10
+    },
+    {
+      "id": 9,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp câu: She / read a book // her phone / ring",
+      "words": ["She", "was", "reading", "a", "book", "when", "her", "phone", "rang."],
+      "distractors": ["read", "ring", "were"],
+      "correctSentence": "She was reading a book when her phone rang.",
+      "acceptedAnswers": [
+        "She was reading a book when her phone rang",
+        "She was reading a book when her phone rang.",
+        "When her phone rang, she was reading a book",
+        "When her phone rang, she was reading a book."
+      ],
+      "hints": ["'was reading' cho She (số ít), 'rang' = hành động ngắn. Ring là động từ bất quy tắc: ring → rang → rung"],
+      "points": 10
+    },
+    {
+      "id": 10,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp câu: I / do my homework // the lights / go out",
+      "words": ["I", "was", "doing", "my", "homework", "when", "the", "lights", "went", "out."],
+      "distractors": ["do", "go", "am"],
+      "correctSentence": "I was doing my homework when the lights went out.",
+      "acceptedAnswers": [
+        "I was doing my homework when the lights went out",
+        "I was doing my homework when the lights went out.",
+        "When the lights went out, I was doing my homework",
+        "When the lights went out, I was doing my homework."
+      ],
+      "hints": ["I dùng 'was doing' (Past Continuous), 'went out' = hành động ngắn (Past Simple). go → went"],
+      "points": 10
+    },
+    {
+      "id": 11,
+      "type": "multiple-choice",
+      "question": "While I (walked / was walking) to school, I (met / was meeting) my friend.",
+      "options": ["walked, met", "was walking, met", "walked, was meeting", "was walking, was meeting"],
+      "correctIndex": 1,
+      "explanation": "✅ Đáp án: 'was walking, met'\n\n📚 Phân tích 2 hành động:\n• 'walk to school' = hành động DÀI (đi bộ đến trường mất nhiều thời gian) → Past Continuous: was walking\n• 'meet my friend' = hành động NGẮN (gặp bạn - xảy ra trong tích tắc) → Past Simple: met\n\n📝 Quy tắc với 'while':\n• 'While' thường đi với hành động dài (Past Continuous)\n• Cấu trúc: While + S + was/were + V-ing, S + V2/Ved\n\n💡 Động từ 'meet' là bất quy tắc: meet → met → met",
+      "hints": ["'While + hành động dài' dùng Past Continuous. 'Meet' là hành động ngắn → Past Simple: met"],
+      "points": 10
+    },
+    {
+      "id": 12,
+      "type": "multiple-choice",
+      "question": "What (did you do / were you doing) when I (called / was calling) you?",
+      "options": ["did you do, called", "were you doing, called", "did you do, was calling", "were you doing, was calling"],
+      "correctIndex": 1,
+      "explanation": "✅ Đáp án: 'were you doing, called'\n\n📚 Phân tích:\n• 'What were you doing?' = Hỏi về hành động đang diễn ra (Past Continuous)\n   - Câu hỏi: What + were + you + V-ing?\n• 'when I called' = Hành động ngắn, xen vào (Past Simple)\n   - 'call' là động từ thường → called (thêm -ed)\n\n📝 Dịch nghĩa: 'Bạn đang làm gì khi tôi gọi cho bạn?'\n\n💡 Mẹo: Hành động 'gọi điện thoại' thường chỉ kéo dài vài giây → Past Simple",
+      "hints": ["'were you doing' = hỏi hành động đang diễn ra. 'called' = hành động ngắn (gọi điện)"],
+      "points": 10
+    },
+    {
+      "id": 13,
+      "type": "multiple-choice",
+      "question": "The children (played / were playing) in the garden when it (started / was starting) to rain.",
+      "options": ["played, started", "were playing, started", "played, was starting", "were playing, was starting"],
+      "correctIndex": 1,
+      "explanation": "✅ Đáp án: 'were playing, started'\n\n📚 Phân tích 2 hành động:\n• 'play in the garden' = hành động DÀI (chơi trong vườn có thể kéo dài hàng giờ)\n   - The children = They (số nhiều) → WERE playing\n• 'start to rain' = hành động NGẮN (mưa bắt đầu - thời điểm cụ thể)\n   - 'start' là động từ thường → started\n\n📝 Dịch nghĩa: 'Bọn trẻ đang chơi trong vườn thì trời bắt đầu mưa.'\n\n💡 Mẹo nhận biết: 'Start' (bắt đầu), 'stop' (dừng), 'arrive' (đến) thường là hành động ngắn → Past Simple",
+      "hints": ["'were playing' cho 'children' (số nhiều). 'started' = hành động ngắn (bắt đầu mưa)"],
+      "points": 10
+    },
+    {
+      "id": 14,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp câu hỏi: they / watch TV / when / you / arrive?",
+      "words": ["Were", "they", "watching", "TV", "when", "you", "arrived?"],
+      "distractors": ["Did", "watch", "arrive"],
+      "correctSentence": "Were they watching TV when you arrived?",
+      "acceptedAnswers": [
+        "Were they watching TV when you arrived",
+        "Were they watching TV when you arrived?"
+      ],
+      "hints": ["Câu hỏi Yes/No Past Continuous: Were + they + V-ing...? 'arrived' = Past Simple vì là hành động ngắn"],
+      "points": 10
+    },
+    {
+      "id": 15,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp câu hỏi: she / study / when / the phone / ring?",
+      "words": ["Was", "she", "studying", "when", "the", "phone", "rang?"],
+      "distractors": ["Did", "study", "ring"],
+      "correctSentence": "Was she studying when the phone rang?",
+      "acceptedAnswers": [
+        "Was she studying when the phone rang",
+        "Was she studying when the phone rang?"
+      ],
+      "hints": ["Câu hỏi Yes/No Past Continuous với She: Was + she + V-ing...? 'rang' (ring → rang) = hành động ngắn"],
+      "points": 10
+    },
+    {
+      "id": 16,
+      "type": "multiple-choice",
+      "question": "The energy bills __________ expensive, but now they are cheap.",
+      "options": ["are", "used to be", "have been", "will be"],
+      "correctIndex": 1,
+      "explanation": "✅ Đáp án: 'used to be'\n\n📚 Giải thích: Câu có 'but now they are cheap' (nhưng bây giờ chúng rẻ) → cho thấy TRƯỚC ĐÂY đắt, BÂY GIỜ rẻ. Đây là tình trạng trong quá khứ KHÔNG CÒN NỮA.\n\n📝 Cấu trúc 'used to':\n• Khẳng định: S + used to + V (nguyên mẫu)\n• 'be' giữ nguyên dạng nguyên mẫu sau 'used to'\n\n💡 Dấu hiệu nhận biết: Khi thấy 'but now...' (nhưng bây giờ...) → thường dùng 'used to' cho phần trước\n\n📝 Dịch: 'Hóa đơn điện từng đắt, nhưng bây giờ chúng rẻ.'",
+      "hints": ["(be) - 'but now' cho thấy tình trạng đã thay đổi → dùng 'used to + be'"],
+      "points": 10
+    },
+    {
+      "id": 17,
+      "type": "multiple-choice",
+      "question": "We __________ a lot of money, but now we save more.",
+      "options": ["spend", "used to spend", "are spending", "will spend"],
+      "correctIndex": 1,
+      "explanation": "✅ Đáp án: 'used to spend'\n\n📚 Giải thích: 'but now we save more' (nhưng bây giờ tiết kiệm hơn) → TRƯỚC ĐÂY tiêu nhiều tiền, BÂY GIỜ tiết kiệm. Thói quen đã thay đổi!\n\n📝 Cấu trúc: used to + V (nguyên mẫu)\n• 'spend' giữ nguyên dạng nguyên mẫu sau 'used to'\n\n❌ Tại sao không chọn các đáp án khác?\n• 'spend' = hiện tại đơn → sai vì nói về quá khứ\n• 'are spending' = hiện tại tiếp diễn → sai vì nói về quá khứ\n• 'will spend' = tương lai → sai vì nói về quá khứ\n\n📝 Dịch: 'Chúng tôi từng tiêu nhiều tiền, nhưng bây giờ tiết kiệm hơn.'",
+      "hints": ["(spend) - 'but now' báo hiệu thói quen đã thay đổi → used to + spend"],
+      "points": 10
+    },
+    {
+      "id": 18,
+      "type": "multiple-choice",
+      "question": "Simon and Alice's family __________ a lot of rubbish away, but now they recycle everything.",
+      "options": ["throw", "threw", "used to throw", "are throwing"],
+      "correctIndex": 2,
+      "explanation": "✅ Đáp án: 'used to throw'\n\n📚 Giải thích: 'but now they recycle everything' (nhưng bây giờ họ tái chế mọi thứ) → TRƯỚC ĐÂY vứt rác, BÂY GIỜ tái chế. Thói quen đã thay đổi hoàn toàn!\n\n📝 Cấu trúc: used to + V (nguyên mẫu)\n• throw → giữ nguyên dạng nguyên mẫu\n\n❌ Tại sao không chọn 'threw' (Past Simple)?\n'Threw' chỉ diễn tả một hành động đã xảy ra và kết thúc, không nhấn mạnh sự thay đổi thói quen như 'used to'.\n\n💡 Chủ đề: Môi trường - So sánh thói quen cũ (vứt rác) với thói quen mới (tái chế)",
+      "hints": ["(throw) - 'but now they recycle' = thói quen đã thay đổi → used to + throw"],
+      "points": 10
+    },
+    {
+      "id": 19,
+      "type": "multiple-choice",
+      "question": "The garden was full of weeds because the old owner __________ it.",
+      "options": ["looked after", "didn't use to look after", "doesn't look after", "won't look after"],
+      "correctIndex": 1,
+      "explanation": "✅ Đáp án: 'didn't use to look after'\n\n📚 Giải thích: Vườn đầy cỏ dại VÌ chủ cũ KHÔNG TỪNG chăm sóc nó. Đây là thói quen (không làm) trong quá khứ.\n\n📝 Dạng PHỦ ĐỊNH của 'used to':\n• didn't use to + V (nguyên mẫu)\n⚠️ LƯU Ý QUAN TRỌNG: Sau 'didn't', dùng 'use to' (KHÔNG CÓ 'd')\n• Sai: didn't used to ❌\n• Đúng: didn't use to ✅\n\n📝 'look after' = chăm sóc (phrasal verb)\n\n📝 Dịch: 'Vườn đầy cỏ dại vì chủ cũ không từng chăm sóc nó.'",
+      "hints": ["(look after) - Phủ định quá khứ: didn't use to (KHÔNG có 'd' sau 'didn't')"],
+      "points": 10
+    },
+    {
+      "id": 20,
+      "type": "multiple-choice",
+      "question": "Mum __________ to a drama club when she was young.",
+      "options": ["goes", "didn't use to go", "doesn't go", "won't go"],
+      "correctIndex": 1,
+      "explanation": "✅ Đáp án: 'didn't use to go'\n\n📚 Giải thích: 'when she was young' (khi còn trẻ) → nói về quá khứ. Mẹ KHÔNG TỪNG đi câu lạc bộ kịch.\n\n📝 Dạng phủ định: didn't use to + V\n• Sau 'didn't' → dùng 'use to' (không có 'd')\n• 'go' giữ nguyên dạng nguyên mẫu\n\n⚠️ Nhớ quy tắc:\n• Khẳng định: used to (CÓ 'd')\n• Phủ định: didn't use to (KHÔNG 'd')\n• Câu hỏi: Did...use to (KHÔNG 'd')\n\n📝 Dịch: 'Mẹ không từng đến câu lạc bộ kịch khi còn trẻ.'",
+      "hints": ["(go) - 'when she was young' = quá khứ. Phủ định: didn't use to go"],
+      "points": 10
+    },
+    {
+      "id": 21,
+      "type": "multiple-choice",
+      "question": "I __________ vegetables when I was young, but now I eat them every day.",
+      "options": ["like", "didn't use to like", "don't like", "liked"],
+      "correctIndex": 1,
+      "explanation": "✅ Đáp án: 'didn't use to like'\n\n📚 Giải thích: 'when I was young' (khi tôi còn nhỏ) + 'but now I eat them' (nhưng bây giờ tôi ăn) → TRƯỚC không thích, GIỜĐÂY thích. Sự thay đổi sở thích!\n\n📝 Cấu trúc phủ định: didn't use to + V\n• 'like' là động từ trạng thái (stative verb) nhưng vẫn dùng được với 'used to'\n\n💡 So sánh:\n• 'didn't use to like' = nhấn mạnh thói quen/sở thích đã thay đổi\n• 'didn't like' = chỉ đơn giản là không thích trong quá khứ\n\n📝 Dịch: 'Tôi không từng thích rau khi còn nhỏ, nhưng bây giờ tôi ăn chúng mỗi ngày.'",
+      "hints": ["(like) - 'when young...but now' = thói quen thay đổi → didn't use to like"],
+      "points": 10
+    },
+    {
+      "id": 22,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp câu hỏi: they / use a lot of energy?",
+      "words": ["Did", "they", "use", "to", "use", "a", "lot", "of", "energy?"],
+      "distractors": ["used", "are", "do"],
+      "correctSentence": "Did they use to use a lot of energy?",
+      "acceptedAnswers": [
+        "Did they use to use a lot of energy",
+        "Did they use to use a lot of energy?"
+      ],
+      "hints": ["Câu hỏi Yes/No với 'used to': Did + S + use to + V? ⚠️ 'use' KHÔNG có 'd' sau 'Did'"],
+      "points": 10
+    },
+    {
+      "id": 23,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp câu hỏi: you / like school / when you were five?",
+      "words": ["Did", "you", "use", "to", "like", "school", "when", "you", "were", "five?"],
+      "distractors": ["used", "did", "do"],
+      "correctSentence": "Did you use to like school when you were five?",
+      "acceptedAnswers": [
+        "Did you use to like school when you were five",
+        "Did you use to like school when you were five?",
+        "When you were five, did you use to like school",
+        "When you were five, did you use to like school?"
+      ],
+      "hints": ["Câu hỏi: Did + you + use to + like...? 'use to' (không có 'd') vì đã có 'Did'"],
+      "points": 10
+    },
+    {
+      "id": 24,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp câu hỏi: people / travel by car / 100 years ago?",
+      "words": ["Did", "people", "use", "to", "travel", "by", "car", "100", "years", "ago?"],
+      "distractors": ["used", "traveled", "do"],
+      "correctSentence": "Did people use to travel by car 100 years ago?",
+      "acceptedAnswers": [
+        "Did people use to travel by car 100 years ago",
+        "Did people use to travel by car 100 years ago?"
+      ],
+      "hints": ["Câu hỏi về thói quen xa xưa: Did + people + use to + travel...? '100 years ago' = quá khứ"],
+      "points": 10
+    },
+    {
+      "id": 25,
+      "type": "multiple-choice",
+      "question": "I __________ a lot of fruit juice, but now I drink water.",
+      "options": ["drink", "used to drink", "am drinking", "will drink"],
+      "correctIndex": 1,
+      "explanation": "✅ Đáp án: 'used to drink'\n\n📚 Giải thích: 'but now I drink water' (nhưng bây giờ tôi uống nước) → TRƯỚC uống nước ép, GIỜTHAY ĐỔI sang uống nước lọc.\n\n📝 Cấu trúc khẳng định: S + used to + V (nguyên mẫu)\n• 'drink' giữ nguyên dạng nguyên mẫu sau 'used to'\n\n💡 Mẹo: 'but now' là dấu hiệu rõ ràng nhất để dùng 'used to'\n\n📝 Dịch: 'Tôi từng uống nhiều nước ép trái cây, nhưng bây giờ tôi uống nước lọc.'",
+      "hints": ["(drink) - 'but now' = thói quen thay đổi → used to + drink"],
+      "points": 10
+    },
+    {
+      "id": 26,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp câu hỏi: you / tidy your own room / when you were five?",
+      "words": ["Did", "you", "use", "to", "tidy", "your", "own", "room", "when", "you", "were", "five?"],
+      "distractors": ["used", "tidied", "do"],
+      "correctSentence": "Did you use to tidy your own room when you were five?",
+      "acceptedAnswers": [
+        "Did you use to tidy your own room when you were five",
+        "Did you use to tidy your own room when you were five?",
+        "When you were five, did you use to tidy your own room",
+        "When you were five, did you use to tidy your own room?"
+      ],
+      "hints": ["Câu hỏi về khi còn nhỏ: Did + you + use to + tidy...? 'when you were five' = thời thơ ấu"],
+      "points": 10
+    },
+    {
+      "id": 27,
+      "type": "multiple-choice",
+      "question": "People __________ mobile phones 50 years ago.",
+      "options": ["use", "used", "didn't use to use", "don't use"],
+      "correctIndex": 2,
+      "explanation": "✅ Đáp án: 'didn't use to use'\n\n📚 Giải thích: '50 years ago' (50 năm trước) → KHÔNG CÓ điện thoại di động vào thời đó. Đây là thực tế trong quá khứ không còn đúng nữa (bây giờ ai cũng dùng).\n\n📝 Cấu trúc phủ định: didn't use to + V\n⚠️ Lưu ý: 'use' xuất hiện 2 lần:\n• 'use to' = cấu trúc ngữ pháp\n• 'use mobile phones' = động từ chính (sử dụng điện thoại)\n\n💡 Câu đúng: 'didn't use to use' - nghe lạ nhưng đúng ngữ pháp!\n\n📝 Dịch: 'Người ta không từng sử dụng điện thoại di động 50 năm trước.'",
+      "hints": ["(use) - '50 years ago' = quá khứ xa. Phủ định: didn't use to use"],
+      "points": 10
+    },
+    {
+      "id": 28,
+      "type": "multiple-choice",
+      "question": "Sửa lỗi: 'I was study when you called me.'",
+      "options": [
+        "I was studying when you called me",
+        "I was study when you called me",
+        "I am studying when you called me",
+        "I were studying when you called me"
+      ],
+      "correctIndex": 0,
+      "explanation": "✅ Đáp án đúng: 'I was studying when you called me.'\n\n📚 Phân tích lỗi sai:\n❌ 'I was study' - SAI vì thiếu đuôi '-ing'\n\n📝 Quy tắc Past Continuous:\n• Công thức: S + was/were + V-ing\n• Sau 'was/were' PHẢI là động từ thêm '-ing'\n• 'study' → 'studying' (bỏ 'y', thêm 'ying')\n\n❌ Tại sao các đáp án khác sai?\n• 'I am studying...' - SAI vì 'am' là hiện tại, nhưng 'called' là quá khứ\n• 'I were studying...' - SAI vì 'I' dùng 'was', không dùng 'were'\n\n💡 Mẹo nhớ: was/were + V-ing - KHÔNG BAO GIỜ là was/were + V nguyên mẫu",
+      "hints": ["Lỗi: thiếu '-ing'. Past Continuous = was/were + V-ing, không phải was/were + V"],
+      "points": 10
+    },
+    {
+      "id": 29,
+      "type": "multiple-choice",
+      "question": "Sửa lỗi: 'Did you used to like vegetables?'",
+      "options": [
+        "Did you use to like vegetables",
+        "Did you used to like vegetables",
+        "Do you used to like vegetables",
+        "Were you used to like vegetables"
+      ],
+      "correctIndex": 0,
+      "explanation": "✅ Đáp án đúng: 'Did you use to like vegetables?'\n\n📚 Phân tích lỗi sai:\n❌ 'Did you used to...' - SAI vì sau 'Did' không dùng 'used' (có 'd')\n\n📝 Quy tắc QUAN TRỌNG:\n• Câu khẳng định: S + used to + V ✅ (CÓ 'd')\n• Câu phủ định: S + didn't use to + V ✅ (KHÔNG 'd')\n• Câu hỏi: Did + S + use to + V? ✅ (KHÔNG 'd')\n\n💡 Giải thích: 'Did' đã mang nghĩa quá khứ rồi, nên động từ sau nó phải ở dạng nguyên mẫu (use), không phải dạng quá khứ (used).\n\n⚠️ LỖI PHỔ BIẾN NHẤT: Thêm 'd' vào 'use' sau 'Did' hoặc 'didn't'",
+      "hints": ["Lỗi: 'used' sau 'Did'. Quy tắc: Did + S + use to (KHÔNG 'd')"],
+      "points": 10
+    },
+    {
+      "id": 30,
+      "type": "multiple-choice",
+      "question": "Sửa lỗi: 'They were play football when it started raining.'",
+      "options": [
+        "They were playing football when it started raining",
+        "They were play football when it started raining",
+        "They are playing football when it started raining",
+        "They was playing football when it started raining"
+      ],
+      "correctIndex": 0,
+      "explanation": "✅ Đáp án đúng: 'They were playing football when it started raining.'\n\n📚 Phân tích lỗi sai:\n❌ 'They were play...' - SAI vì thiếu '-ing' sau 'were'\n\n📝 Quy tắc Past Continuous:\n• Công thức: S + was/were + V-ing\n• 'They' (số nhiều) → dùng 'were'\n• 'play' → 'playing'\n\n❌ Tại sao các đáp án khác sai?\n• 'They are playing...' - SAI vì 'are' là hiện tại, không khớp với 'started' (quá khứ)\n• 'They was playing...' - SAI vì 'They' phải dùng 'were', không dùng 'was'\n\n💡 Nhớ: was/were + V-ing (phải có -ing!)",
+      "hints": ["Lỗi: thiếu '-ing'. 'They' + were + playing (không phải were + play)"],
+      "points": 10
+    },
+    {
+      "id": 31,
+      "type": "multiple-choice",
+      "question": "Sửa lỗi: 'She didn't used to wear glasses.'",
+      "options": [
+        "She didn't use to wear glasses",
+        "She didn't used to wear glasses",
+        "She doesn't used to wear glasses",
+        "She wasn't used to wear glasses"
+      ],
+      "correctIndex": 0,
+      "explanation": "✅ Đáp án đúng: 'She didn't use to wear glasses.'\n\n📚 Phân tích lỗi sai:\n❌ 'She didn't used to...' - SAI vì sau 'didn't' không dùng 'used' (có 'd')\n\n📝 Quy tắc phủ định 'used to':\n• Công thức: S + didn't use to + V (nguyên mẫu)\n• 'didn't' đã mang nghĩa quá khứ → sau đó dùng 'use' (nguyên mẫu)\n\n⚠️ SO SÁNH:\n• Khẳng định: She used to wear glasses ✅ (CÓ 'd')\n• Phủ định: She didn't use to wear glasses ✅ (KHÔNG 'd')\n\n📝 Dịch: 'Cô ấy không từng đeo kính.' (bây giờ có thể đeo rồi)",
+      "hints": ["Lỗi: 'used' sau 'didn't'. Phủ định: didn't use to (KHÔNG 'd')"],
+      "points": 10
+    },
+    {
+      "id": 32,
+      "type": "multiple-choice",
+      "question": "Sửa lỗi: 'What was you doing at 8 o'clock?'",
+      "options": [
+        "What were you doing at 8 o'clock",
+        "What was you doing at 8 o'clock",
+        "What are you doing at 8 o'clock",
+        "What did you doing at 8 o'clock"
+      ],
+      "correctIndex": 0,
+      "explanation": "✅ Đáp án đúng: 'What were you doing at 8 o'clock?'\n\n📚 Phân tích lỗi sai:\n❌ 'What was you doing...' - SAI vì 'you' PHẢI dùng 'were'\n\n📝 Quy tắc was/were:\n• WAS: I, he, she, it (số ít)\n• WERE: you, we, they (số nhiều VÀ 'you')\n\n⚠️ LƯU Ý ĐẶC BIỆT:\n'You' (dù là 1 người hay nhiều người) LUÔN dùng 'were', KHÔNG BAO GIỜ dùng 'was'\n\n❌ Tại sao các đáp án khác sai?\n• 'What are you doing...' - SAI vì 'at 8 o'clock' là quá khứ\n• 'What did you doing...' - SAI vì sau 'did' không dùng V-ing\n\n📝 Dịch: 'Bạn đang làm gì lúc 8 giờ?' (hỏi về quá khứ)",
+      "hints": ["Lỗi: 'was you'. 'You' LUÔN dùng 'were' trong Past Continuous"],
+      "points": 10
+    },
+    {
+      "id": 33,
+      "type": "multiple-choice",
+      "question": "Sửa lỗi: 'We use to live in Paris.'",
+      "options": [
+        "We used to live in Paris",
+        "We use to live in Paris",
+        "We are used to live in Paris",
+        "We using to live in Paris"
+      ],
+      "correctIndex": 0,
+      "explanation": "✅ Đáp án đúng: 'We used to live in Paris.'\n\n📚 Phân tích lỗi sai:\n❌ 'We use to live...' - SAI vì câu KHẲNG ĐỊNH phải dùng 'used to' (CÓ 'd')\n\n📝 Quy tắc 'used to':\n• Khẳng định: S + used to + V ✅ (CÓ 'd')\n• Phủ định: S + didn't use to + V ✅ (KHÔNG 'd')\n• Câu hỏi: Did + S + use to + V? ✅ (KHÔNG 'd')\n\n⚠️ PHÂN BIỆT:\n• 'used to' (thói quen quá khứ) ≠ 'be used to' (quen với)\n• 'We are used to living in Paris' = Chúng tôi quen sống ở Paris (KHÁC NGHĨA!)\n\n📝 Dịch: 'Chúng tôi từng sống ở Paris.' (giờ không còn ở đó)",
+      "hints": ["Lỗi: thiếu 'd'. Khẳng định: used to (CÓ 'd'), không phải 'use to'"],
+      "points": 10
+    },
+    {
+      "id": 34,
+      "type": "multiple-choice",
+      "question": "My brother __________ video games when I came home and interrupted him.",
+      "options": ["plays", "played", "was playing", "is playing"],
+      "correctIndex": 2,
+      "explanation": "✅ Đáp án: 'was playing'\n\n📚 Giải thích: Em trai tôi ĐANG chơi game (hành động dài) thì tôi về nhà VÀ ngắt quãng anh ấy (hành động ngắn).\n\n📝 Phân tích:\n• 'play video games' = hành động dài, đang diễn ra → Past Continuous\n• 'came home and interrupted' = hai hành động ngắn liên tiếp → Past Simple\n\n📝 Quy tắc: My brother = He (số ít) → dùng 'was'\n\n💡 Từ 'interrupted' (ngắt quãng) là dấu hiệu rõ ràng cho thấy có hành động đang diễn ra bị cắt ngang.\n\n📝 Dịch: 'Em trai tôi đang chơi game khi tôi về nhà và làm gián đoạn cậu ấy.'",
+      "hints": ["(play) - 'interrupted' cho thấy hành động đang bị ngắt quãng → was playing"],
+      "points": 10
+    },
+    {
+      "id": 35,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp câu: The children / sleep / when / the storm / start",
+      "words": ["The", "children", "were", "sleeping", "when", "the", "storm", "started."],
+      "distractors": ["sleep", "start", "was"],
+      "correctSentence": "The children were sleeping when the storm started.",
+      "acceptedAnswers": [
+        "The children were sleeping when the storm started",
+        "The children were sleeping when the storm started.",
+        "When the storm started, the children were sleeping",
+        "When the storm started, the children were sleeping."
+      ],
+      "hints": ["'The children' (số nhiều) + were sleeping. 'started' = hành động ngắn (Past Simple)"],
+      "points": 10
+    },
+    {
+      "id": 36,
+      "type": "multiple-choice",
+      "question": "She __________ to school by bike when she was younger, but now she takes the bus.",
+      "options": ["goes", "went", "used to go", "is going"],
+      "correctIndex": 2,
+      "explanation": "✅ Đáp án: 'used to go'\n\n📚 Giải thích: 'when she was younger' (khi cô ấy còn trẻ hơn) + 'but now she takes the bus' (nhưng bây giờ cô ấy đi xe buýt) → Thói quen ĐÃ THAY ĐỔI!\n\n📝 So sánh 'used to go' vs 'went':\n• 'used to go' = nhấn mạnh đây là thói quen thường xuyên trong quá khứ, giờ không còn\n• 'went' = chỉ đơn giản là đã đi (một lần hoặc nhiều lần, không nhấn mạnh sự thay đổi)\n\n💡 Dấu hiệu: 'but now' luôn là dấu hiệu mạnh để dùng 'used to'\n\n📝 Dịch: 'Cô ấy từng đạp xe đến trường khi còn nhỏ, nhưng bây giờ cô ấy đi xe buýt.'",
+      "hints": ["(go) - 'when younger...but now' = thói quen thay đổi → used to go"],
+      "points": 10
+    },
+    {
+      "id": 37,
+      "type": "multiple-choice",
+      "question": "While mom __________ dinner, dad __________ the newspaper.",
+      "options": ["cooked, read", "was cooking, was reading", "cooks, reads", "is cooking, is reading"],
+      "correctIndex": 1,
+      "explanation": "✅ Đáp án: 'was cooking, was reading'\n\n📚 Giải thích: Đây là 2 hành động SONG SONG cùng diễn ra trong quá khứ. Cả hai đều là hành động DÀI.\n\n📝 Quy tắc với 'while':\n• Khi 2 hành động dài diễn ra CÙNG LÚC → cả hai dùng Past Continuous\n• Cấu trúc: While + S1 + was/were + V-ing, S2 + was/were + V-ing\n\n💡 So sánh 'when' vs 'while':\n• WHEN: thường 1 hành động dài + 1 hành động ngắn\n• WHILE: thường 2 hành động dài, song song\n\n📝 Phân tích:\n• mom = she → was cooking\n• dad = he → was reading\n\n📝 Dịch: 'Trong khi mẹ nấu ăn, bố đọc báo.' (cả hai diễn ra cùng lúc)",
+      "hints": ["'While' + 2 hành động dài song song → cả hai dùng Past Continuous"],
+      "points": 10
+    },
+    {
+      "id": 38,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp câu hỏi: What / she / do / at 6 PM yesterday?",
+      "words": ["What", "was", "she", "doing", "at", "6", "PM", "yesterday?"],
+      "distractors": ["did", "do", "does"],
+      "correctSentence": "What was she doing at 6 PM yesterday?",
+      "acceptedAnswers": [
+        "What was she doing at 6 PM yesterday",
+        "What was she doing at 6 PM yesterday?"
+      ],
+      "hints": ["Câu hỏi Wh- với Past Continuous: What + was + she + doing...? 'at 6 PM yesterday' = thời điểm cụ thể trong quá khứ"],
+      "points": 10
+    },
+    {
+      "id": 39,
+      "type": "multiple-choice",
+      "question": "Tom __________ football every weekend, but now he plays basketball.",
+      "options": ["plays", "played", "used to play", "is playing"],
+      "correctIndex": 2,
+      "explanation": "✅ Đáp án: 'used to play'\n\n📚 Giải thích: 'every weekend' + 'but now he plays basketball' → Tom TỪNG chơi bóng đá mỗi cuối tuần (thói quen lặp đi lặp lại), nhưng BÂY GIỜ chơi bóng rổ.\n\n📝 'used to' vs 'played':\n• 'used to play' = nhấn mạnh đây là thói quen THƯỜNG XUYÊN trong quá khứ, giờ ĐÃ THAY ĐỔI\n• 'played' = chỉ nói đã chơi trong quá khứ, không nhấn mạnh sự thay đổi\n\n💡 Dấu hiệu: 'every weekend' (mỗi cuối tuần) + 'but now' = thói quen đã thay đổi → used to\n\n📝 Dịch: 'Tom từng chơi bóng đá mỗi cuối tuần, nhưng bây giờ anh ấy chơi bóng rổ.'",
+      "hints": ["(play) - 'every weekend...but now' = thói quen thường xuyên đã thay đổi → used to play"],
+      "points": 10
+    },
+    {
+      "id": 40,
+      "type": "multiple-choice",
+      "question": "I __________ breakfast when the doorbell rang.",
+      "options": ["have", "had", "was having", "am having"],
+      "correctIndex": 2,
+      "explanation": "✅ Đáp án: 'was having'\n\n📚 Giải thích: Tôi ĐANG ăn sáng (hành động dài) thì chuông cửa reo (hành động ngắn, đột ngột).\n\n📝 Phân tích:\n• 'have breakfast' = hành động dài, đang diễn ra → Past Continuous\n• 'rang' = hành động ngắn, xen vào → Past Simple (ring → rang)\n\n📝 Quy tắc: I → dùng 'was'\n• 'have' → 'having' (bỏ 'e' trước khi thêm '-ing')\n\n💡 'have breakfast/lunch/dinner' = ăn sáng/trưa/tối. Đây là hành động kéo dài → có thể dùng Past Continuous.\n\n📝 Dịch: 'Tôi đang ăn sáng thì chuông cửa reo.'",
+      "hints": ["(have) - 'rang' = hành động ngắn, 'have breakfast' = hành động dài → was having"],
+      "points": 10
+    },
+    {
+      "id": 41,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp câu: My sister / draw pictures / when / I / call her",
+      "words": ["My", "sister", "was", "drawing", "pictures", "when", "I", "called", "her."],
+      "distractors": ["draw", "call", "am"],
+      "correctSentence": "My sister was drawing pictures when I called her.",
+      "acceptedAnswers": [
+        "My sister was drawing pictures when I called her",
+        "My sister was drawing pictures when I called her.",
+        "When I called her, my sister was drawing pictures",
+        "When I called her, my sister was drawing pictures."
+      ],
+      "hints": ["'My sister' (số ít) + was drawing. 'called' = hành động ngắn (Past Simple)"],
+      "points": 10
+    },
+    {
+      "id": 42,
+      "type": "multiple-choice",
+      "question": "__________ you __________ comic books when you were a child?",
+      "options": ["Do, read", "Did, use to read", "Are, reading", "Were, reading"],
+      "correctIndex": 1,
+      "explanation": "✅ Đáp án: 'Did, use to read'\n\n📚 Giải thích: 'when you were a child' (khi bạn còn nhỏ) → hỏi về thói quen trong quá khứ, KHÔNG PHẢI hành động đang diễn ra.\n\n📝 Câu hỏi Yes/No với 'used to':\n• Công thức: Did + S + use to + V?\n• ⚠️ LƯU Ý: 'use' (KHÔNG có 'd') vì đã có 'Did'\n\n❌ Tại sao không chọn 'Were you reading'?\n'Were you reading' = hỏi về hành động đang diễn ra tại một thời điểm cụ thể. Nhưng 'when you were a child' = cả quãng thời gian thơ ấu, không phải một thời điểm.\n\n📝 Dịch: 'Bạn có từng đọc truyện tranh khi còn nhỏ không?'",
+      "hints": ["'when you were a child' = thói quen quá khứ → Did + use to + read (không có 'd' sau Did)"],
+      "points": 10
+    },
+    {
+      "id": 43,
+      "type": "multiple-choice",
+      "question": "They __________ in the park when it started to snow.",
+      "options": ["run", "ran", "were running", "are running"],
+      "correctIndex": 2,
+      "explanation": "✅ Đáp án: 'were running'\n\n📚 Giải thích: Họ ĐANG chạy trong công viên (hành động dài) thì tuyết bắt đầu rơi (hành động ngắn, đột ngột).\n\n📝 Phân tích:\n• 'run in the park' = hành động dài → Past Continuous\n• 'started to snow' = sự kiện đột ngột → Past Simple\n\n📝 Quy tắc:\n• They (số nhiều) → dùng 'WERE'\n• run → running (gấp đôi 'n' vì động từ 1 âm tiết kết thúc bằng phụ âm sau nguyên âm)\n\n💡 Cách thêm '-ing' cho 'run': run → run + n + ing = running\n\n📝 Dịch: 'Họ đang chạy trong công viên thì tuyết bắt đầu rơi.'",
+      "hints": ["(run) - They + were + running. 'started' = hành động ngắn (Past Simple)"],
+      "points": 10
+    },
+    {
+      "id": 44,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp câu: He / not / watch TV / at 9 PM last night",
+      "words": ["He", "wasn't", "watching", "TV", "at", "9", "PM", "last", "night."],
+      "distractors": ["didn't", "watch", "not"],
+      "correctSentence": "He wasn't watching TV at 9 PM last night.",
+      "acceptedAnswers": [
+        "He wasn't watching TV at 9 PM last night",
+        "He wasn't watching TV at 9 PM last night."
+      ],
+      "hints": ["Phủ định Past Continuous với He: wasn't + watching. 'at 9 PM last night' = thời điểm cụ thể trong quá khứ"],
+      "points": 10
+    },
+    {
+      "id": 45,
+      "type": "multiple-choice",
+      "question": "My grandparents __________ in the countryside, but now they live in the city.",
+      "options": ["live", "lived", "used to live", "are living"],
+      "correctIndex": 2,
+      "explanation": "✅ Đáp án: 'used to live'\n\n📚 Giải thích: 'but now they live in the city' (nhưng bây giờ họ sống ở thành phố) → Ông bà TỪNG sống ở nông thôn, nhưng ĐÃ CHUYỂN đến thành phố.\n\n📝 'used to' diễn tả:\n• Trạng thái trong quá khứ không còn nữa (sống ở đâu, làm nghề gì...)\n• Thói quen trong quá khứ đã thay đổi\n\n💡 Dấu hiệu: 'but now' = sự thay đổi giữa quá khứ và hiện tại → used to\n\n📝 Dịch: 'Ông bà tôi từng sống ở nông thôn, nhưng bây giờ họ sống ở thành phố.'",
+      "hints": ["(live) - 'but now they live in the city' = nơi ở đã thay đổi → used to live"],
+      "points": 10
+    },
+    {
+      "id": 46,
+      "type": "multiple-choice",
+      "question": "Sarah __________ her homework when the fire alarm rang.",
+      "options": ["does", "did", "was doing", "is doing"],
+      "correctIndex": 2,
+      "explanation": "✅ Đáp án: 'was doing'\n\n📚 Giải thích: Sarah ĐANG làm bài tập (hành động dài) thì chuông báo cháy reo (hành động ngắn, đột ngột).\n\n📝 Cấu trúc quen thuộc:\n• S + was/were + V-ing + when + S + V2/Ved\n\n📝 Phân tích:\n• Sarah (She - số ít) → was\n• do → doing\n• rang = Past Simple của 'ring' (động từ bất quy tắc)\n\n💡 'do homework' = làm bài tập. Đây là hành động kéo dài → có thể dùng Past Continuous.\n\n📝 Dịch: 'Sarah đang làm bài tập khi chuông báo cháy reo.'",
+      "hints": ["(do) - Sarah + was doing. 'rang' (ring → rang) = hành động ngắn"],
+      "points": 10
+    },
+    {
+      "id": 47,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp câu hỏi: they / live / in London / before?",
+      "words": ["Did", "they", "use", "to", "live", "in", "London", "before?"],
+      "distractors": ["used", "lived", "do"],
+      "correctSentence": "Did they use to live in London before?",
+      "acceptedAnswers": [
+        "Did they use to live in London before",
+        "Did they use to live in London before?"
+      ],
+      "hints": ["Câu hỏi về nơi ở trước đây"],
+      "points": 10
+    },
+    {
+      "id": 48,
+      "type": "multiple-choice",
+      "question": "We __________ a board game when suddenly the doorbell rang.",
+      "options": ["play", "played", "were playing", "are playing"],
+      "correctIndex": 2,
+      "explanation": "Đang chơi cờ khi chuông cửa reo đột ngột",
+      "hints": ["(play) - Hành động đang xảy ra"],
+      "points": 10
+    },
+    {
+      "id": 49,
+      "type": "multiple-choice",
+      "question": "John __________ to wear glasses, but now he has contact lenses.",
+      "options": ["uses", "used", "used to", "is using"],
+      "correctIndex": 2,
+      "explanation": "Thói quen quá khứ: từng đeo kính",
+      "hints": ["(wear) - Điều từng làm"],
+      "points": 10
+    },
+    {
+      "id": 50,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp câu: The baby / cry / when / his mother / leave",
+      "words": ["The", "baby", "was", "crying", "when", "his", "mother", "left."],
+      "distractors": ["cry", "leave", "were"],
+      "correctSentence": "The baby was crying when his mother left.",
+      "acceptedAnswers": [
+        "The baby was crying when his mother left",
+        "The baby was crying when his mother left.",
+        "When his mother left, the baby was crying",
+        "When his mother left, the baby was crying."
+      ],
+      "hints": ["Em bé đang khóc khi mẹ rời đi"],
+      "points": 10
+    },
+    {
+      "id": 51,
+      "type": "multiple-choice",
+      "question": "__________ it __________ at the moment when you left home this morning?",
+      "options": ["Does, rain", "Did, rain", "Was, raining", "Is, raining"],
+      "correctIndex": 2,
+      "explanation": "Hỏi về thời tiết đang diễn ra tại thời điểm cụ thể trong quá khứ",
+      "hints": ["Thời tiết đang xảy ra ngay lúc bạn ra khỏi nhà"],
+      "points": 10
+    },
+    {
+      "id": 52,
+      "type": "multiple-choice",
+      "question": "I __________ coffee, but now I love it.",
+      "options": ["like", "liked", "didn't use to like", "don't like"],
+      "correctIndex": 2,
+      "explanation": "✅ Đáp án: 'didn't use to like'\n\n📚 Giải thích: 'but now I love it' (nhưng bây giờ tôi yêu thích nó) → TRƯỚC ĐÂY không thích, BÂY GIỜ thích. Sở thích đã THAY ĐỔI!\n\n📝 Cấu trúc phủ định: didn't use to + V\n• ⚠️ 'use' không có 'd' sau 'didn't'\n\n💡 So sánh:\n• 'didn't use to like' = nhấn mạnh sự THAY ĐỔI sở thích\n• 'didn't like' = chỉ đơn giản là không thích trong quá khứ\n\n📝 Dịch: 'Tôi không từng thích cà phê, nhưng bây giờ tôi yêu thích nó.'",
+      "hints": ["(like) - 'but now I love it' = sở thích thay đổi → didn't use to like"],
+      "points": 10
+    },
+    {
+      "id": 53,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp câu: She / listen to music / while / she / clean the house",
+      "words": ["She", "was", "listening", "to", "music", "while", "she", "was", "cleaning", "the", "house."],
+      "distractors": ["listen", "clean", "is"],
+      "correctSentence": "She was listening to music while she was cleaning the house.",
+      "acceptedAnswers": [
+        "She was listening to music while she was cleaning the house",
+        "She was listening to music while she was cleaning the house.",
+        "While she was cleaning the house, she was listening to music",
+        "While she was cleaning the house, she was listening to music."
+      ],
+      "hints": ["Hai hành động cùng xảy ra: while"],
+      "points": 10
+    },
+    {
+      "id": 54,
+      "type": "multiple-choice",
+      "question": "The students __________ when the teacher entered the classroom.",
+      "options": ["talk", "talked", "were talking", "are talking"],
+      "correctIndex": 2,
+      "explanation": "Học sinh đang nói chuyện khi giáo viên vào lớp",
+      "hints": ["(talk) - Hành động đang diễn ra"],
+      "points": 10
+    },
+    {
+      "id": 55,
+      "type": "multiple-choice",
+      "question": "My dad __________ a motorcycle to work, now he drives a car.",
+      "options": ["rides", "rode", "used to ride", "is riding"],
+      "correctIndex": 2,
+      "explanation": "Thói quen đi làm trong quá khứ",
+      "hints": ["(ride) - Phương tiện từng dùng"],
+      "points": 10
+    },
+    {
+      "id": 56,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp câu hỏi: you / wear / uniform / to school?",
+      "words": ["Did", "you", "use", "to", "wear", "a", "uniform", "to", "school?"],
+      "distractors": ["used", "wore", "do"],
+      "correctSentence": "Did you use to wear a uniform to school?",
+      "acceptedAnswers": [
+        "Did you use to wear a uniform to school",
+        "Did you use to wear a uniform to school?"
+      ],
+      "hints": ["Hỏi về việc mặc đồng phục trước đây"],
+      "points": 10
+    },
+    {
+      "id": 57,
+      "type": "multiple-choice",
+      "question": "The dog __________ happily in the garden when I looked out the window.",
+      "options": ["plays", "played", "was playing", "is playing"],
+      "correctIndex": 2,
+      "explanation": "Con chó đang chơi khi tôi nhìn ra cửa sổ",
+      "hints": ["(play) - Hành động đang diễn ra tại thời điểm quan sát"],
+      "points": 10
+    },
+    {
+      "id": 58,
+      "type": "multiple-choice",
+      "question": "We __________ meat, but now we're vegetarians.",
+      "options": ["eat", "ate", "used to eat", "are eating"],
+      "correctIndex": 2,
+      "explanation": "Thói quen ăn uống đã thay đổi",
+      "hints": ["(eat) - Điều từng làm"],
+      "points": 10
+    },
+    {
+      "id": 59,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp câu: The birds / sing / when / the sun / rise",
+      "words": ["The", "birds", "were", "singing", "when", "the", "sun", "rose."],
+      "distractors": ["sing", "rise", "was"],
+      "correctSentence": "The birds were singing when the sun rose.",
+      "acceptedAnswers": [
+        "The birds were singing when the sun rose",
+        "The birds were singing when the sun rose.",
+        "When the sun rose, the birds were singing",
+        "When the sun rose, the birds were singing."
+      ],
+      "hints": ["Chim đang hót khi mặt trời mọc"],
+      "points": 10
+    },
+    {
+      "id": 60,
+      "type": "multiple-choice",
+      "question": "Anna __________ her bike when she fell.",
+      "options": ["rides", "rode", "was riding", "is riding"],
+      "correctIndex": 2,
+      "explanation": "Đang đạp xe khi ngã",
+      "hints": ["(ride) - Hành động bị gián đoạn"],
+      "points": 10
+    },
+    {
+      "id": 61,
+      "type": "multiple-choice",
+      "question": "__________ your brother __________ cartoons when he was little?",
+      "options": ["Does, watch", "Did, use to watch", "Is, watching", "Was, watching"],
+      "correctIndex": 1,
+      "explanation": "Câu hỏi về thói quen xem phim khi còn nhỏ",
+      "hints": ["Hỏi về thói quen thời thơ ấu"],
+      "points": 10
+    },
+    {
+      "id": 62,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp câu: I / not / sleep / when / you / call",
+      "words": ["I", "wasn't", "sleeping", "when", "you", "called."],
+      "distractors": ["didn't", "sleep", "call"],
+      "correctSentence": "I wasn't sleeping when you called.",
+      "acceptedAnswers": [
+        "I wasn't sleeping when you called",
+        "I wasn't sleeping when you called.",
+        "When you called, I wasn't sleeping",
+        "When you called, I wasn't sleeping."
+      ],
+      "hints": ["Phủ định: wasn't + V-ing"],
+      "points": 10
+    },
+    {
+      "id": 63,
+      "type": "multiple-choice",
+      "question": "The children __________ loudly when the teacher arrived.",
+      "options": ["laugh", "laughed", "were laughing", "are laughing"],
+      "correctIndex": 2,
+      "explanation": "Trẻ em đang cười ồn khi giáo viên đến",
+      "hints": ["(laugh) - Hành động đang xảy ra"],
+      "points": 10
+    },
+    {
+      "id": 64,
+      "type": "multiple-choice",
+      "question": "My sister __________ long hair, but she cut it short last month.",
+      "options": ["has", "had", "used to have", "is having"],
+      "correctIndex": 2,
+      "explanation": "Từng có tóc dài (giờ không còn)",
+      "hints": ["(have) - Điều không còn đúng nữa"],
+      "points": 10
+    },
+    {
+      "id": 65,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp câu hỏi: Where / you / go / when / I / see you?",
+      "words": ["Where", "were", "you", "going", "when", "I", "saw", "you?"],
+      "distractors": ["did", "go", "see"],
+      "correctSentence": "Where were you going when I saw you?",
+      "acceptedAnswers": [
+        "Where were you going when I saw you",
+        "Where were you going when I saw you?"
+      ],
+      "hints": ["Câu hỏi về hành động đang diễn ra"],
+      "points": 10
+    },
+    {
+      "id": 66,
+      "type": "multiple-choice",
+      "question": "It __________ heavily when we left the cinema, so we had to wait inside.",
+      "options": ["rains", "rained", "was raining", "is raining"],
+      "correctIndex": 2,
+      "explanation": "Trời đang mưa to khi chúng tôi rời rạp nên phải đợi bên trong",
+      "hints": ["(rain) - Thời tiết đang diễn ra tại thời điểm đó"],
+      "points": 10
+    },
+    {
+      "id": 67,
+      "type": "multiple-choice",
+      "question": "People __________ letters, now they send emails.",
+      "options": ["write", "wrote", "used to write", "are writing"],
+      "correctIndex": 2,
+      "explanation": "Thói quen giao tiếp đã thay đổi",
+      "hints": ["(write) - Cách liên lạc xưa"],
+      "points": 10
+    },
+    {
+      "id": 68,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp câu: They / dance / at the party / when / the music / stop",
+      "words": ["They", "were", "dancing", "at", "the", "party", "when", "the", "music", "stopped."],
+      "distractors": ["dance", "stop", "was"],
+      "correctSentence": "They were dancing at the party when the music stopped.",
+      "acceptedAnswers": [
+        "They were dancing at the party when the music stopped",
+        "They were dancing at the party when the music stopped.",
+        "When the music stopped, they were dancing at the party",
+        "When the music stopped, they were dancing at the party."
+      ],
+      "hints": ["Đang nhảy khi nhạc dừng"],
+      "points": 10
+    },
+    {
+      "id": 69,
+      "type": "multiple-choice",
+      "question": "I __________ an email when my computer crashed.",
+      "options": ["write", "wrote", "was writing", "am writing"],
+      "correctIndex": 2,
+      "explanation": "Đang viết email khi máy tính bị treo",
+      "hints": ["(write) - Hành động bị gián đoạn"],
+      "points": 10
+    },
+    {
+      "id": 70,
+      "type": "multiple-choice",
+      "question": "My teacher __________ very strict, but now she's friendly.",
+      "options": ["is", "has been", "used to be", "will be"],
+      "correctIndex": 2,
+      "explanation": "Tính cách đã thay đổi theo thời gian",
+      "hints": ["(be) - Điều từng như vậy trong quá khứ"],
+      "points": 10
+    },
+    {
+      "id": 71,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp câu hỏi: she / study / English / before / she / move / to America?",
+      "words": ["Did", "she", "use", "to", "study", "English", "before", "she", "moved", "to", "America?"],
+      "distractors": ["used", "studies", "do"],
+      "correctSentence": "Did she use to study English before she moved to America?",
+      "acceptedAnswers": [
+        "Did she use to study English before she moved to America",
+        "Did she use to study English before she moved to America?"
+      ],
+      "hints": ["Hỏi về việc học trước khi chuyển đi"],
+      "points": 10
+    },
+    {
+      "id": 72,
+      "type": "multiple-choice",
+      "question": "The cat __________ on the sofa when the mouse ran across the room.",
+      "options": ["sleeps", "slept", "was sleeping", "is sleeping"],
+      "correctIndex": 2,
+      "explanation": "Mèo đang ngủ khi chuột chạy qua",
+      "hints": ["(sleep) - Hành động đang diễn ra"],
+      "points": 10
+    },
+    {
+      "id": 73,
+      "type": "multiple-choice",
+      "question": "We __________ in a small apartment before we bought this house.",
+      "options": ["live", "lived", "used to live", "are living"],
+      "correctIndex": 2,
+      "explanation": "Nơi ở trước đây (giờ đã đổi)",
+      "hints": ["(live) - Chỗ ở cũ"],
+      "points": 10
+    },
+    {
+      "id": 74,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp câu: My mom / cook / while / my dad / work / in the garden",
+      "words": ["My", "mom", "was", "cooking", "while", "my", "dad", "was", "working", "in", "the", "garden."],
+      "distractors": ["cook", "work", "is"],
+      "correctSentence": "My mom was cooking while my dad was working in the garden.",
+      "acceptedAnswers": [
+        "My mom was cooking while my dad was working in the garden",
+        "My mom was cooking while my dad was working in the garden.",
+        "While my dad was working in the garden, my mom was cooking",
+        "While my dad was working in the garden, my mom was cooking.",
+        "My dad was working in the garden while my mom was cooking",
+        "My dad was working in the garden while my mom was cooking."
+      ],
+      "hints": ["Hai hành động song song: while"],
+      "points": 10
+    },
+    {
+      "id": 75,
+      "type": "multiple-choice",
+      "question": "The phone __________ while I was taking a shower.",
+      "options": ["rings", "rang", "was ringing", "is ringing"],
+      "correctIndex": 1,
+      "explanation": "✅ Đáp án: 'rang'\n\n📚 Giải thích: Điện thoại reo (hành động NGẮN) trong khi tôi đang tắm (hành động DÀI).\n\n⚠️ LƯU Ý ĐẶC BIỆT: Mặc dù có 'while', hành động ngắn vẫn dùng Past Simple!\n\n📝 Quy tắc với 'while':\n• 'while' thường đi với hành động DÀI (Past Continuous)\n• Nhưng hành động NGẮN vẫn dùng Past Simple, dù đứng trước hay sau 'while'\n\n📝 Phân tích:\n• 'was taking a shower' = hành động dài (đang tắm)\n• 'rang' = hành động ngắn (điện thoại reo - chỉ vài giây)\n• ring → rang → rung (bất quy tắc)\n\n📝 Dịch: 'Điện thoại reo trong khi tôi đang tắm.'",
+      "hints": ["'rang' vì điện thoại reo là hành động ngắn, dù có 'while'. ring → rang"],
+      "points": 10
+    },
+    {
+      "id": 76,
+      "type": "multiple-choice",
+      "question": "Children __________ outside more often in the past.",
+      "options": ["play", "played", "used to play", "are playing"],
+      "correctIndex": 2,
+      "explanation": "Thói quen của trẻ em xưa (giờ ít hơn)",
+      "hints": ["(play) - Hoạt động xưa"],
+      "points": 10
+    },
+    {
+      "id": 77,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp câu: The students / not / listen / when / the teacher / explain",
+      "words": ["The", "students", "weren't", "listening", "when", "the", "teacher", "explained."],
+      "distractors": ["didn't", "listen", "explain"],
+      "correctSentence": "The students weren't listening when the teacher explained.",
+      "acceptedAnswers": [
+        "The students weren't listening when the teacher explained",
+        "The students weren't listening when the teacher explained.",
+        "When the teacher explained, the students weren't listening",
+        "When the teacher explained, the students weren't listening."
+      ],
+      "hints": ["Phủ định: weren't + V-ing"],
+      "points": 10
+    },
+    {
+      "id": 78,
+      "type": "multiple-choice",
+      "question": "I __________ a strange noise while I was reading.",
+      "options": ["hear", "heard", "was hearing", "am hearing"],
+      "correctIndex": 1,
+      "explanation": "✅ Đáp án: 'heard'\n\n📚 Giải thích: Tôi NGHE THẤY tiếng động lạ (hành động ngắn) trong khi đang đọc sách (hành động dài).\n\n📝 'Hear' là động từ chỉ giác quan (sense verb):\n• Các động từ: see, hear, smell, taste, feel\n• Thường KHÔNG dùng ở thể tiếp diễn vì chúng mô tả NHẬN THỨC tức thời, không phải hành động kéo dài\n\n❌ 'was hearing' - KHÔNG DÙNG vì 'hear' là động từ trạng thái\n\n📝 Động từ bất quy tắc: hear → heard → heard\n\n💡 So sánh:\n• hear = nghe thấy (không cố ý) → không dùng tiếp diễn\n• listen = lắng nghe (cố ý) → có thể dùng tiếp diễn: was listening",
+      "hints": ["'hear' là động từ giác quan, thường dùng Past Simple. hear → heard"],
+      "points": 10
+    },
+    {
+      "id": 79,
+      "type": "multiple-choice",
+      "question": "My grandpa __________ stories every night when I was young.",
+      "options": ["tells", "told", "used to tell", "is telling"],
+      "correctIndex": 2,
+      "explanation": "Thói quen kể chuyện khi tôi còn nhỏ",
+      "hints": ["(tell) - Điều ông thường làm"],
+      "points": 10
+    },
+    {
+      "id": 80,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp câu hỏi: What / they / do / when / the earthquake / happen?",
+      "words": ["What", "were", "they", "doing", "when", "the", "earthquake", "happened?"],
+      "distractors": ["did", "do", "happen"],
+      "correctSentence": "What were they doing when the earthquake happened?",
+      "acceptedAnswers": [
+        "What were they doing when the earthquake happened",
+        "What were they doing when the earthquake happened?"
+      ],
+      "hints": ["Hỏi về hành động khi động đất xảy ra"],
+      "points": 10
+    },
+    {
+      "id": 81,
+      "type": "multiple-choice",
+      "question": "She __________ a beautiful song when I entered the room.",
+      "options": ["sings", "sang", "was singing", "is singing"],
+      "correctIndex": 2,
+      "explanation": "Đang hát khi tôi vào phòng",
+      "hints": ["(sing) - Hành động đang diễn ra"],
+      "points": 10
+    },
+    {
+      "id": 82,
+      "type": "multiple-choice",
+      "question": "I __________ fast food, but now I try to eat healthy.",
+      "options": ["eat", "ate", "used to eat", "am eating"],
+      "correctIndex": 2,
+      "explanation": "Thói quen ăn uống đã thay đổi",
+      "hints": ["(eat) - Điều từng làm"],
+      "points": 10
+    },
+    {
+      "id": 83,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp câu: He / fix his car / when / his friend / arrive",
+      "words": ["He", "was", "fixing", "his", "car", "when", "his", "friend", "arrived."],
+      "distractors": ["fix", "arrive", "is"],
+      "correctSentence": "He was fixing his car when his friend arrived.",
+      "acceptedAnswers": [
+        "He was fixing his car when his friend arrived",
+        "He was fixing his car when his friend arrived.",
+        "When his friend arrived, he was fixing his car",
+        "When his friend arrived, he was fixing his car."
+      ],
+      "hints": ["Đang sửa xe khi bạn đến"],
+      "points": 10
+    },
+    {
+      "id": 84,
+      "type": "multiple-choice",
+      "question": "The lights suddenly went out while we __________ dinner.",
+      "options": ["have", "had", "were having", "are having"],
+      "correctIndex": 2,
+      "explanation": "Đèn tắt đột ngột khi đang ăn tối",
+      "hints": ["(have) - Hành động đang diễn ra"],
+      "points": 10
+    },
+    {
+      "id": 85,
+      "type": "multiple-choice",
+      "question": "__________ people __________ horses for transportation?",
+      "options": ["Do, use", "Did, use to use", "Are, using", "Were, using"],
+      "correctIndex": 1,
+      "explanation": "Hỏi về phương tiện di chuyển xưa",
+      "hints": ["Thói quen giao thông thời xưa"],
+      "points": 10
+    },
+    {
+      "id": 86,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp câu: The wind / blow / hard / when / we / reach / the top",
+      "words": ["The", "wind", "was", "blowing", "hard", "when", "we", "reached", "the", "top."],
+      "distractors": ["blow", "reach", "is"],
+      "correctSentence": "The wind was blowing hard when we reached the top.",
+      "acceptedAnswers": [
+        "The wind was blowing hard when we reached the top",
+        "The wind was blowing hard when we reached the top.",
+        "When we reached the top, the wind was blowing hard",
+        "When we reached the top, the wind was blowing hard."
+      ],
+      "hints": ["Gió đang thổi mạnh khi chúng tôi lên đỉnh"],
+      "points": 10
+    },
+    {
+      "id": 87,
+      "type": "multiple-choice",
+      "question": "My neighbor __________ a guitar every evening, but he sold it last year.",
+      "options": ["plays", "played", "used to play", "is playing"],
+      "correctIndex": 2,
+      "explanation": "Thói quen chơi đàn của hàng xóm",
+      "hints": ["(play) - Điều thường làm mỗi tối"],
+      "points": 10
+    },
+    {
+      "id": 88,
+      "type": "multiple-choice",
+      "question": "I __________ my keys while I was shopping.",
+      "options": ["lose", "lost", "was losing", "am losing"],
+      "correctIndex": 1,
+      "explanation": "✅ Đáp án: 'lost'\n\n📚 Giải thích: Tôi làm mất chìa khóa (hành động NGẮN, xảy ra tại một thời điểm) trong khi đang mua sắm (hành động DÀI).\n\n⚠️ Giống câu 75: Mặc dù có 'while', hành động ngắn vẫn dùng Past Simple!\n\n📝 Động từ bất quy tắc: lose → lost → lost\n\n❌ 'was losing' - SAI vì 'lose' (làm mất) là hành động xảy ra trong tích tắc, không kéo dài\n\n💡 So sánh:\n• lose = mất (xảy ra tức thời) → Past Simple: lost\n• shop = mua sắm (kéo dài) → Past Continuous: was shopping\n\n📝 Dịch: 'Tôi làm mất chìa khóa trong khi đang mua sắm.'",
+      "hints": ["'lost' vì làm mất xảy ra trong tích tắc, dù có 'while'. lose → lost"],
+      "points": 10
+    },
+    {
+      "id": 89,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp câu hỏi: you / play / any sports / when / you / be / younger?",
+      "words": ["Did", "you", "use", "to", "play", "any", "sports", "when", "you", "were", "younger?"],
+      "distractors": ["used", "played", "do"],
+      "correctSentence": "Did you use to play any sports when you were younger?",
+      "acceptedAnswers": [
+        "Did you use to play any sports when you were younger",
+        "Did you use to play any sports when you were younger?",
+        "When you were younger, did you use to play any sports",
+        "When you were younger, did you use to play any sports?"
+      ],
+      "hints": ["Hỏi về hoạt động thể thao khi còn trẻ"],
+      "points": 10
+    },
+    {
+      "id": 90,
+      "type": "multiple-choice",
+      "question": "The teacher __________ on the board when a student asked a question.",
+      "options": ["writes", "wrote", "was writing", "is writing"],
+      "correctIndex": 2,
+      "explanation": "Giáo viên đang viết khi học sinh hỏi",
+      "hints": ["(write) - Hành động đang diễn ra"],
+      "points": 10
+    },
+    {
+      "id": 91,
+      "type": "multiple-choice",
+      "question": "This town __________ very quiet, but now it's very busy.",
+      "options": ["is", "has been", "used to be", "will be"],
+      "correctIndex": 2,
+      "explanation": "Thị trấn từng yên tĩnh (giờ đã thay đổi)",
+      "hints": ["(be) - Tình trạng trước đây không còn nữa"],
+      "points": 10
+    },
+    {
+      "id": 92,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp câu: It / rain / when / we / leave / the office",
+      "words": ["It", "was", "raining", "when", "we", "left", "the", "office."],
+      "distractors": ["rain", "leave", "is"],
+      "correctSentence": "It was raining when we left the office.",
+      "acceptedAnswers": [
+        "It was raining when we left the office",
+        "It was raining when we left the office.",
+        "When we left the office, it was raining",
+        "When we left the office, it was raining."
+      ],
+      "hints": ["Trời đang mưa khi chúng tôi rời văn phòng"],
+      "points": 10
+    },
+    {
+      "id": 93,
+      "type": "multiple-choice",
+      "question": "They __________ a movie when their friends came over.",
+      "options": ["watch", "watched", "were watching", "are watching"],
+      "correctIndex": 2,
+      "explanation": "Đang xem phim khi bạn bè đến",
+      "hints": ["(watch) - Hành động đang xảy ra"],
+      "points": 10
+    },
+    {
+      "id": 94,
+      "type": "multiple-choice",
+      "question": "My uncle __________ a taxi driver before he retired.",
+      "options": ["is", "has been", "used to be", "will be"],
+      "correctIndex": 2,
+      "explanation": "Nghề nghiệp trước đây (đã nghỉ hưu)",
+      "hints": ["(be) - Công việc cũ không còn nữa"],
+      "points": 10
+    },
+    {
+      "id": 95,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp câu: She / not / drive / when / the accident / occur",
+      "words": ["She", "wasn't", "driving", "when", "the", "accident", "occurred."],
+      "distractors": ["didn't", "drive", "occur"],
+      "correctSentence": "She wasn't driving when the accident occurred.",
+      "acceptedAnswers": [
+        "She wasn't driving when the accident occurred",
+        "She wasn't driving when the accident occurred.",
+        "When the accident occurred, she wasn't driving",
+        "When the accident occurred, she wasn't driving."
+      ],
+      "hints": ["Phủ định: wasn't + V-ing"],
+      "points": 10
+    },
+    {
+      "id": 96,
+      "type": "multiple-choice",
+      "question": "I __________ my favorite TV show when the internet stopped working.",
+      "options": ["stream", "streamed", "was streaming", "am streaming"],
+      "correctIndex": 2,
+      "explanation": "Đang xem phim khi mất mạng",
+      "hints": ["(stream) - Hành động bị gián đoạn"],
+      "points": 10
+    },
+    {
+      "id": 97,
+      "type": "multiple-choice",
+      "question": "Kids __________ more board games before video games became popular.",
+      "options": ["play", "played", "used to play", "are playing"],
+      "correctIndex": 2,
+      "explanation": "Thói quen chơi trò chơi của trẻ em xưa",
+      "hints": ["(play) - Hoạt động giải trí xưa"],
+      "points": 10
+    },
+    {
+      "id": 98,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp câu hỏi: Where / she / work / before / she / get / this job?",
+      "words": ["Did", "she", "use", "to", "work", "anywhere", "before", "she", "got", "this", "job?"],
+      "distractors": ["used", "worked", "do"],
+      "correctSentence": "Did she use to work anywhere before she got this job?",
+      "acceptedAnswers": [
+        "Did she use to work anywhere before she got this job",
+        "Did she use to work anywhere before she got this job?"
+      ],
+      "hints": ["Hỏi về công việc trước đây"],
+      "points": 10
+    },
+    {
+      "id": 99,
+      "type": "multiple-choice",
+      "question": "The baby __________ peacefully when the dog started barking.",
+      "options": ["sleeps", "slept", "was sleeping", "is sleeping"],
+      "correctIndex": 2,
+      "explanation": "Em bé đang ngủ khi chó sủa",
+      "hints": ["(sleep) - Hành động đang diễn ra"],
+      "points": 10
+    },
+    {
+      "id": 100,
+      "type": "multiple-choice",
+      "question": "We __________ get up early on weekends, but now we wake up at 6 AM to exercise.",
+      "options": ["don't", "didn't", "didn't use to", "aren't"],
+      "correctIndex": 2,
+      "explanation": "✅ Đáp án: 'didn't use to'\n\n📚 Giải thích: 'but now we wake up at 6 AM' (nhưng bây giờ chúng tôi dậy lúc 6 giờ sáng) → TRƯỚC ĐÂY không dậy sớm, BÂY GIỜ dậy sớm để tập thể dục.\n\n📝 Cấu trúc phủ định 'used to':\n• didn't use to + V (nguyên mẫu)\n• ⚠️ 'use' KHÔNG có 'd' sau 'didn't'\n\n💡 Dấu hiệu: 'but now' = thói quen đã thay đổi → dùng 'used to'\n\n📝 So sánh:\n• 'didn't use to' = nhấn mạnh thói quen trong quá khứ ĐÃ THAY ĐỔI\n• 'didn't' = chỉ đơn giản là không làm trong quá khứ\n\n📝 Dịch: 'Chúng tôi không từng dậy sớm vào cuối tuần, nhưng bây giờ chúng tôi thức dậy lúc 6 giờ sáng để tập thể dục.'",
+      "hints": ["'but now we wake up at 6 AM' = thói quen thay đổi → didn't use to get up"],
+      "points": 10
+    }
+  ]
+}

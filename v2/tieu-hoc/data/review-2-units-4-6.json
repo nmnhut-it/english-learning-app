@@ -1,0 +1,1027 @@
+{
+  "unitId": "review-2-units-4-6",
+  "title": "Review 2: Units 4-6",
+  "grammarTopics": ["Past Continuous and Past Simple", "Used to", "Will and won't", "Present Continuous (future meaning)", "Be going to (plans and predictions)"],
+  "theory": {
+    "brief": "Ôn tập: (1) Past Continuous: was/were + V-ing, dùng cho hành động đang xảy ra khi hành động khác xen vào (Past Simple). (2) Used to + V: thói quen/tình trạng trong quá khứ không còn nữa. (3) Will/Won't: dự đoán, quyết định tức thời. (4) Be going to: kế hoạch đã định hoặc dự đoán có bằng chứng.",
+    "examples": [
+      "I was watching TV when the phone rang.",
+      "I used to play football every day when I was young.",
+      "It will rain tomorrow. / I'll help you!",
+      "I'm meeting my friends at 7pm tonight.",
+      "Look at those clouds! It's going to rain."
+    ]
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "type": "multiple-choice",
+      "question": "I __________ TV when the phone rang.",
+      "options": ["watched", "was watching", "watch", "am watching"],
+      "correctIndex": 1,
+      "explanation": "Past Continuous cho hành động đang xảy ra khi hành động khác xen vào",
+      "hints": ["was/were + V-ing"],
+      "points": 10
+    },
+    {
+      "id": 2,
+      "type": "multiple-choice",
+      "question": "She __________ to play the piano when she was young.",
+      "options": ["use", "used", "is used", "using"],
+      "correctIndex": 1,
+      "explanation": "'used to' + verb cho thói quen trong quá khứ",
+      "hints": ["used to + động từ nguyên mẫu"],
+      "points": 10
+    },
+    {
+      "id": 3,
+      "type": "multiple-choice",
+      "question": "I think it __________ rain tomorrow.",
+      "options": ["is going to", "will", "going to", "is"],
+      "correctIndex": 1,
+      "explanation": "'will' cho dự đoán (I think...)",
+      "hints": ["I think + will"],
+      "points": 10
+    },
+    {
+      "id": 4,
+      "type": "multiple-choice",
+      "question": "Look at those clouds! It __________ rain.",
+      "options": ["will", "is going to", "going to", "rains"],
+      "correctIndex": 1,
+      "explanation": "'be going to' cho dự đoán có bằng chứng (clouds)",
+      "hints": ["Có bằng chứng → be going to"],
+      "points": 10
+    },
+    {
+      "id": 5,
+      "type": "multiple-choice",
+      "question": "We __________ dinner with our friends tonight.",
+      "options": ["have", "are having", "had", "having"],
+      "correctIndex": 1,
+      "explanation": "Present Continuous cho kế hoạch đã sắp xếp trong tương lai",
+      "hints": ["Kế hoạch đã sắp xếp → Present Continuous"],
+      "points": 10
+    },
+    {
+      "id": 6,
+      "type": "multiple-choice",
+      "question": "While I __________, my brother was playing games.",
+      "options": ["study", "studied", "was studying", "am studying"],
+      "correctIndex": 2,
+      "explanation": "Hai hành động đang xảy ra song song trong quá khứ → cả hai dùng Past Continuous",
+      "hints": ["While + Past Continuous"],
+      "points": 10
+    },
+    {
+      "id": 7,
+      "type": "multiple-choice",
+      "question": "He __________ live in the countryside, but now he lives in the city.",
+      "options": ["use to", "used to", "is used to", "was used to"],
+      "correctIndex": 1,
+      "explanation": "'used to' cho tình trạng trong quá khứ không còn nữa",
+      "hints": ["used to + động từ nguyên mẫu"],
+      "points": 10
+    },
+    {
+      "id": 8,
+      "type": "multiple-choice",
+      "question": "Don't worry, I __________ help you with your homework.",
+      "options": ["am going to", "will", "'m", "going to"],
+      "correctIndex": 1,
+      "explanation": "'will' cho quyết định tức thời",
+      "hints": ["Quyết định ngay lúc nói → will"],
+      "points": 10
+    },
+    {
+      "id": 9,
+      "type": "multiple-choice",
+      "question": "What __________ you doing at 8 o'clock last night?",
+      "options": ["was", "were", "are", "did"],
+      "correctIndex": 1,
+      "explanation": "you + were + V-ing",
+      "hints": ["you dùng với 'were'"],
+      "points": 10
+    },
+    {
+      "id": 10,
+      "type": "multiple-choice",
+      "question": "She __________ meet her friends tomorrow. They've already made plans.",
+      "options": ["will", "is going to", "meets", "met"],
+      "correctIndex": 1,
+      "explanation": "'be going to' cho kế hoạch đã định trước",
+      "hints": ["Kế hoạch đã định → be going to"],
+      "points": 10
+    },
+    {
+      "id": 11,
+      "type": "multiple-choice",
+      "question": "When I arrived, everyone __________.",
+      "options": ["slept", "was sleeping", "were sleeping", "is sleeping"],
+      "correctIndex": 2,
+      "explanation": "everyone + were sleeping (chỉ nhiều người)",
+      "hints": ["Past Continuous khi hành động khác xen vào"],
+      "points": 10
+    },
+    {
+      "id": 12,
+      "type": "multiple-choice",
+      "question": "Did you __________ have a pet when you were a child?",
+      "options": ["use to", "used to", "using", "uses to"],
+      "correctIndex": 0,
+      "explanation": "Trong câu hỏi với 'did', dùng 'use to' (không có d)",
+      "hints": ["Did + subject + use to...?"],
+      "points": 10
+    },
+    {
+      "id": 13,
+      "type": "multiple-choice",
+      "question": "I promise I __________ be late again.",
+      "options": ["won't", "am not going to", "don't", "didn't"],
+      "correctIndex": 0,
+      "explanation": "'won't' cho lời hứa",
+      "hints": ["Promise → will/won't"],
+      "points": 10
+    },
+    {
+      "id": 14,
+      "type": "multiple-choice",
+      "question": "What time __________ the movie starting tonight?",
+      "options": ["does", "is", "will", "was"],
+      "correctIndex": 1,
+      "explanation": "Present Continuous cho sự kiện đã được lên lịch",
+      "hints": ["Lịch trình → Present Continuous"],
+      "points": 10
+    },
+    {
+      "id": 15,
+      "type": "multiple-choice",
+      "question": "The teacher __________ when the student entered the classroom.",
+      "options": ["talked", "was talking", "talks", "is talking"],
+      "correctIndex": 1,
+      "explanation": "Past Continuous cho hành động đang diễn ra khi hành động khác xen vào",
+      "hints": ["was/were + V-ing"],
+      "points": 10
+    },
+    {
+      "id": 16,
+      "type": "multiple-choice",
+      "question": "My grandmother __________ tell us stories every night.",
+      "options": ["use to", "used to", "is used to", "uses to"],
+      "correctIndex": 1,
+      "explanation": "'used to' cho thói quen trong quá khứ",
+      "hints": ["used to + động từ nguyên mẫu"],
+      "points": 10
+    },
+    {
+      "id": 17,
+      "type": "multiple-choice",
+      "question": "A: The phone's ringing! B: I __________ answer it.",
+      "options": ["am going to", "will", "'m", "going"],
+      "correctIndex": 1,
+      "explanation": "Quyết định tức thời → will",
+      "hints": ["Quyết định ngay lúc nói → will"],
+      "points": 10
+    },
+    {
+      "id": 18,
+      "type": "multiple-choice",
+      "question": "Be careful! You __________ fall!",
+      "options": ["will", "are going to", "fall", "fell"],
+      "correctIndex": 1,
+      "explanation": "Dự đoán có bằng chứng hiện tại → be going to",
+      "hints": ["Có bằng chứng → be going to"],
+      "points": 10
+    },
+    {
+      "id": 19,
+      "type": "multiple-choice",
+      "question": "I __________ my friend at the mall tomorrow at 3pm.",
+      "options": ["meet", "am meeting", "met", "will meet"],
+      "correctIndex": 1,
+      "explanation": "Kế hoạch cụ thể đã sắp xếp → Present Continuous",
+      "hints": ["Đã sắp xếp cụ thể → Present Continuous"],
+      "points": 10
+    },
+    {
+      "id": 20,
+      "type": "multiple-choice",
+      "question": "What __________ you doing when I called you?",
+      "options": ["was", "were", "are", "did"],
+      "correctIndex": 1,
+      "explanation": "you + were + V-ing",
+      "hints": ["What were you doing...?"],
+      "points": 10
+    },
+    {
+      "id": 21,
+      "type": "fill-blank",
+      "question": "I __________ (watch) TV when the lights went out.",
+      "wordHint": "(watch)",
+      "answer": "was watching",
+      "acceptedAnswers": ["was watching"],
+      "hints": ["Past Continuous: was/were + V-ing"],
+      "points": 10
+    },
+    {
+      "id": 22,
+      "type": "fill-blank",
+      "question": "She __________ (use) to live in Paris.",
+      "wordHint": "(use)",
+      "answer": "used",
+      "acceptedAnswers": ["used"],
+      "hints": ["used to + động từ nguyên mẫu"],
+      "points": 10
+    },
+    {
+      "id": 23,
+      "type": "fill-blank",
+      "question": "I think it __________ (be) sunny tomorrow.",
+      "wordHint": "(be)",
+      "answer": "will be",
+      "acceptedAnswers": ["will be", "'ll be"],
+      "hints": ["I think + will"],
+      "points": 10
+    },
+    {
+      "id": 24,
+      "type": "fill-blank",
+      "question": "We __________ (go) to visit our grandparents next weekend. We bought the tickets.",
+      "wordHint": "(go)",
+      "answer": "are going to go",
+      "acceptedAnswers": ["are going to go", "'re going to go", "are going"],
+      "hints": ["Kế hoạch đã định → be going to"],
+      "points": 10
+    },
+    {
+      "id": 25,
+      "type": "fill-blank",
+      "question": "I __________ (have) dinner with Tom tonight at 7pm.",
+      "wordHint": "(have)",
+      "answer": "am having",
+      "acceptedAnswers": ["am having", "'m having"],
+      "hints": ["Kế hoạch đã sắp xếp → Present Continuous"],
+      "points": 10
+    },
+    {
+      "id": 26,
+      "type": "fill-blank",
+      "question": "While she __________ (cook), her husband was cleaning the house.",
+      "wordHint": "(cook)",
+      "answer": "was cooking",
+      "acceptedAnswers": ["was cooking"],
+      "hints": ["While + Past Continuous"],
+      "points": 10
+    },
+    {
+      "id": 27,
+      "type": "fill-blank",
+      "question": "He didn't __________ (use) to like vegetables.",
+      "wordHint": "(use)",
+      "answer": "use",
+      "acceptedAnswers": ["use"],
+      "hints": ["didn't + use to (không có d)"],
+      "points": 10
+    },
+    {
+      "id": 28,
+      "type": "fill-blank",
+      "question": "I promise I __________ (not forget) your birthday.",
+      "wordHint": "(not forget)",
+      "answer": "won't forget",
+      "acceptedAnswers": ["won't forget", "will not forget"],
+      "hints": ["Promise → won't"],
+      "points": 10
+    },
+    {
+      "id": 29,
+      "type": "fill-blank",
+      "question": "Look! The bus __________ (leave) soon!",
+      "wordHint": "(leave)",
+      "answer": "is going to leave",
+      "acceptedAnswers": ["is going to leave", "'s going to leave", "is leaving"],
+      "hints": ["Dự đoán có bằng chứng → be going to"],
+      "points": 10
+    },
+    {
+      "id": 30,
+      "type": "fill-blank",
+      "question": "What __________ (you/do) at 9pm last night?",
+      "wordHint": "(you/do)",
+      "answer": "were you doing",
+      "acceptedAnswers": ["were you doing"],
+      "hints": ["What + were + you + V-ing?"],
+      "points": 10
+    },
+    {
+      "id": 31,
+      "type": "error-correct",
+      "wrongSentence": "I was watch TV when she called.",
+      "correctSentence": "I was watching TV when she called.",
+      "errorWord": "was watch",
+      "correction": "was watching",
+      "explanation": "Past Continuous: was/were + V-ing",
+      "hints": ["was/were + V-ing"],
+      "points": 10
+    },
+    {
+      "id": 32,
+      "type": "error-correct",
+      "wrongSentence": "He use to play football every day.",
+      "correctSentence": "He used to play football every day.",
+      "errorWord": "use",
+      "correction": "used",
+      "explanation": "Câu khẳng định dùng 'used to' (có d)",
+      "hints": ["used to + verb"],
+      "points": 10
+    },
+    {
+      "id": 33,
+      "type": "error-correct",
+      "wrongSentence": "Look! It will rain!",
+      "correctSentence": "Look! It is going to rain!",
+      "errorWord": "will",
+      "correction": "is going to",
+      "explanation": "Có bằng chứng hiện tại → be going to",
+      "hints": ["Look! = có bằng chứng → be going to"],
+      "points": 10
+    },
+    {
+      "id": 34,
+      "type": "error-correct",
+      "wrongSentence": "I am meet my friends tomorrow.",
+      "correctSentence": "I am meeting my friends tomorrow.",
+      "errorWord": "am meet",
+      "correction": "am meeting",
+      "explanation": "Present Continuous: am/is/are + V-ing",
+      "hints": ["am/is/are + V-ing"],
+      "points": 10
+    },
+    {
+      "id": 35,
+      "type": "error-correct",
+      "wrongSentence": "Did you used to live here?",
+      "correctSentence": "Did you use to live here?",
+      "errorWord": "used",
+      "correction": "use",
+      "explanation": "Sau 'did', dùng 'use to' (không có d)",
+      "hints": ["Did + subject + use to...?"],
+      "points": 10
+    },
+    {
+      "id": 36,
+      "type": "error-correct",
+      "wrongSentence": "While I studied, my phone rang.",
+      "correctSentence": "While I was studying, my phone rang.",
+      "errorWord": "studied",
+      "correction": "was studying",
+      "explanation": "While + Past Continuous",
+      "hints": ["While + was/were + V-ing"],
+      "points": 10
+    },
+    {
+      "id": 37,
+      "type": "error-correct",
+      "wrongSentence": "I think it is going to rain tomorrow.",
+      "correctSentence": "I think it will rain tomorrow.",
+      "errorWord": "is going to",
+      "correction": "will",
+      "explanation": "'I think' + will cho dự đoán",
+      "hints": ["I think + will"],
+      "points": 10
+    },
+    {
+      "id": 38,
+      "type": "error-correct",
+      "wrongSentence": "She was sleeping when I was arriving.",
+      "correctSentence": "She was sleeping when I arrived.",
+      "errorWord": "was arriving",
+      "correction": "arrived",
+      "explanation": "Hành động xen vào dùng Past Simple",
+      "hints": ["when + Past Simple"],
+      "points": 10
+    },
+    {
+      "id": 39,
+      "type": "error-correct",
+      "wrongSentence": "We going to visit Paris next month.",
+      "correctSentence": "We are going to visit Paris next month.",
+      "errorWord": "going",
+      "correction": "are going",
+      "explanation": "be going to: cần động từ 'be'",
+      "hints": ["are/is/am going to"],
+      "points": 10
+    },
+    {
+      "id": 40,
+      "type": "error-correct",
+      "wrongSentence": "I willn't tell anyone your secret.",
+      "correctSentence": "I won't tell anyone your secret.",
+      "errorWord": "willn't",
+      "correction": "won't",
+      "explanation": "will not = won't",
+      "hints": ["won't = will not"],
+      "points": 10
+    },
+    {
+      "id": 41,
+      "type": "multiple-choice",
+      "question": "They __________ soccer when it started to rain.",
+      "options": ["played", "were playing", "play", "are playing"],
+      "correctIndex": 1,
+      "explanation": "Past Continuous cho hành động đang xảy ra khi hành động khác xen vào",
+      "hints": ["were + V-ing"],
+      "points": 10
+    },
+    {
+      "id": 42,
+      "type": "multiple-choice",
+      "question": "There __________ be a park here, but now there's a shopping mall.",
+      "options": ["use to", "used to", "is used to", "uses to"],
+      "correctIndex": 1,
+      "explanation": "'used to' cho tình trạng không còn nữa",
+      "hints": ["used to + động từ nguyên mẫu"],
+      "points": 10
+    },
+    {
+      "id": 43,
+      "type": "multiple-choice",
+      "question": "I'm sure she __________ pass the exam. She's very smart.",
+      "options": ["is going to", "will", "going to", "is"],
+      "correctIndex": 1,
+      "explanation": "Dự đoán với 'I'm sure' → will",
+      "hints": ["I'm sure + will"],
+      "points": 10
+    },
+    {
+      "id": 44,
+      "type": "multiple-choice",
+      "question": "Watch out! You __________ hit that car!",
+      "options": ["will", "are going to", "hit", "hitting"],
+      "correctIndex": 1,
+      "explanation": "Dự đoán có bằng chứng → be going to",
+      "hints": ["Có bằng chứng → be going to"],
+      "points": 10
+    },
+    {
+      "id": 45,
+      "type": "multiple-choice",
+      "question": "What __________ you doing this weekend?",
+      "options": ["do", "are", "will", "did"],
+      "correctIndex": 1,
+      "explanation": "Hỏi về kế hoạch → Present Continuous",
+      "hints": ["What are you doing...?"],
+      "points": 10
+    },
+    {
+      "id": 46,
+      "type": "multiple-choice",
+      "question": "When I __________ home, my mom was cooking dinner.",
+      "options": ["get", "got", "was getting", "am getting"],
+      "correctIndex": 1,
+      "explanation": "Hành động xen vào dùng Past Simple",
+      "hints": ["When + Past Simple"],
+      "points": 10
+    },
+    {
+      "id": 47,
+      "type": "multiple-choice",
+      "question": "My father __________ smoke, but he stopped 5 years ago.",
+      "options": ["use to", "used to", "is used to", "uses to"],
+      "correctIndex": 1,
+      "explanation": "Thói quen trong quá khứ không còn nữa",
+      "hints": ["used to + động từ nguyên mẫu"],
+      "points": 10
+    },
+    {
+      "id": 48,
+      "type": "multiple-choice",
+      "question": "It's cold. I __________ close the window.",
+      "options": ["am going to", "will", "'m", "going"],
+      "correctIndex": 1,
+      "explanation": "Quyết định tức thời → will",
+      "hints": ["Quyết định ngay lúc nói → will"],
+      "points": 10
+    },
+    {
+      "id": 49,
+      "type": "multiple-choice",
+      "question": "We __________ visit our grandparents next Sunday. We've already told them.",
+      "options": ["will", "are going to", "visit", "visited"],
+      "correctIndex": 1,
+      "explanation": "Kế hoạch đã định trước → be going to",
+      "hints": ["Đã thông báo = đã lên kế hoạch → be going to"],
+      "points": 10
+    },
+    {
+      "id": 50,
+      "type": "multiple-choice",
+      "question": "She __________ English at the university next year.",
+      "options": ["studies", "is studying", "studied", "study"],
+      "correctIndex": 1,
+      "explanation": "Kế hoạch tương lai đã sắp xếp → Present Continuous",
+      "hints": ["Đã sắp xếp → Present Continuous"],
+      "points": 10
+    },
+    {
+      "id": 51,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp câu: I / was / watching / TV / when / the / phone / rang",
+      "words": ["I", "was", "watching", "TV", "when", "the", "phone", "rang"],
+      "distractors": ["watched", "ring", "am"],
+      "correctSentence": "I was watching TV when the phone rang",
+      "acceptedAnswers": ["I was watching TV when the phone rang", "I was watching TV when the phone rang."],
+      "hints": ["was + V-ing + when + Past Simple"],
+      "points": 10
+    },
+    {
+      "id": 52,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp câu: She / used / to / live / in / London",
+      "words": ["She", "used", "to", "live", "in", "London"],
+      "distractors": ["use", "lives", "living"],
+      "correctSentence": "She used to live in London",
+      "acceptedAnswers": ["She used to live in London", "She used to live in London."],
+      "hints": ["used to + động từ nguyên mẫu"],
+      "points": 10
+    },
+    {
+      "id": 53,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp câu: I / think / it / will / rain / tomorrow",
+      "words": ["I", "think", "it", "will", "rain", "tomorrow"],
+      "distractors": ["is going to", "rains", "rained"],
+      "correctSentence": "I think it will rain tomorrow",
+      "acceptedAnswers": ["I think it will rain tomorrow", "I think it will rain tomorrow."],
+      "hints": ["I think + will"],
+      "points": 10
+    },
+    {
+      "id": 54,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp câu: Look / at / those / clouds / It / is / going / to / rain",
+      "words": ["Look", "at", "those", "clouds", "It", "is", "going", "to", "rain"],
+      "distractors": ["will", "rains", "rained"],
+      "correctSentence": "Look at those clouds It is going to rain",
+      "acceptedAnswers": ["Look at those clouds It is going to rain", "Look at those clouds. It is going to rain.", "Look at those clouds! It is going to rain!"],
+      "hints": ["Có bằng chứng → is going to"],
+      "points": 10
+    },
+    {
+      "id": 55,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp câu: We / are / meeting / our / friends / tonight",
+      "words": ["We", "are", "meeting", "our", "friends", "tonight"],
+      "distractors": ["meet", "met", "will"],
+      "correctSentence": "We are meeting our friends tonight",
+      "acceptedAnswers": ["We are meeting our friends tonight", "We are meeting our friends tonight."],
+      "hints": ["Present Continuous cho kế hoạch"],
+      "points": 10
+    },
+    {
+      "id": 56,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp câu: While / she / was / sleeping / I / was / reading",
+      "words": ["While", "she", "was", "sleeping", "I", "was", "reading"],
+      "distractors": ["slept", "read", "am"],
+      "correctSentence": "While she was sleeping I was reading",
+      "acceptedAnswers": ["While she was sleeping I was reading", "While she was sleeping, I was reading"],
+      "hints": ["While + Past Continuous, Past Continuous"],
+      "points": 10
+    },
+    {
+      "id": 57,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp câu: Did / you / use / to / play / tennis?",
+      "words": ["Did", "you", "use", "to", "play", "tennis"],
+      "distractors": ["used", "playing", "played"],
+      "correctSentence": "Did you use to play tennis",
+      "acceptedAnswers": ["Did you use to play tennis", "Did you use to play tennis?"],
+      "hints": ["Did + subject + use to...?"],
+      "points": 10
+    },
+    {
+      "id": 58,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp câu: I / promise / I / will / help / you",
+      "words": ["I", "promise", "I", "will", "help", "you"],
+      "distractors": ["am going to", "helping", "helped"],
+      "correctSentence": "I promise I will help you",
+      "acceptedAnswers": ["I promise I will help you", "I promise I will help you."],
+      "hints": ["Promise → will"],
+      "points": 10
+    },
+    {
+      "id": 59,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp câu: What / were / you / doing / at / 8pm?",
+      "words": ["What", "were", "you", "doing", "at", "8pm"],
+      "distractors": ["was", "did", "do"],
+      "correctSentence": "What were you doing at 8pm",
+      "acceptedAnswers": ["What were you doing at 8pm", "What were you doing at 8pm?"],
+      "hints": ["What + were + you + V-ing?"],
+      "points": 10
+    },
+    {
+      "id": 60,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp câu: We / are / going / to / visit / Paris / next / month",
+      "words": ["We", "are", "going", "to", "visit", "Paris", "next", "month"],
+      "distractors": ["will", "visited", "visiting"],
+      "correctSentence": "We are going to visit Paris next month",
+      "acceptedAnswers": ["We are going to visit Paris next month", "We are going to visit Paris next month."],
+      "hints": ["be going to + động từ nguyên mẫu"],
+      "points": 10
+    },
+    {
+      "id": 61,
+      "type": "multiple-choice",
+      "question": "He __________ breakfast when I called him.",
+      "options": ["has", "had", "was having", "is having"],
+      "correctIndex": 2,
+      "explanation": "Past Continuous cho hành động đang xảy ra",
+      "hints": ["was/were + V-ing"],
+      "points": 10
+    },
+    {
+      "id": 62,
+      "type": "multiple-choice",
+      "question": "__________ you use to walk to school?",
+      "options": ["Do", "Did", "Are", "Were"],
+      "correctIndex": 1,
+      "explanation": "Câu hỏi với 'used to' dùng 'Did'",
+      "hints": ["Did + subject + use to...?"],
+      "points": 10
+    },
+    {
+      "id": 63,
+      "type": "multiple-choice",
+      "question": "I __________ probably be late tonight.",
+      "options": ["am going to", "will", "'m", "going"],
+      "correctIndex": 1,
+      "explanation": "'probably' + will cho dự đoán",
+      "hints": ["probably + will"],
+      "points": 10
+    },
+    {
+      "id": 64,
+      "type": "multiple-choice",
+      "question": "She __________ a baby in June.",
+      "options": ["has", "is having", "had", "will have"],
+      "correctIndex": 1,
+      "explanation": "Sự kiện đã sắp xếp → Present Continuous",
+      "hints": ["Đã biết chắc → Present Continuous"],
+      "points": 10
+    },
+    {
+      "id": 65,
+      "type": "multiple-choice",
+      "question": "This time yesterday, I __________ on the beach.",
+      "options": ["sit", "sat", "was sitting", "am sitting"],
+      "correctIndex": 2,
+      "explanation": "'This time yesterday' → Past Continuous",
+      "hints": ["This time + thời gian quá khứ → Past Continuous"],
+      "points": 10
+    },
+    {
+      "id": 66,
+      "type": "multiple-choice",
+      "question": "My sister __________ be afraid of dogs, but now she loves them.",
+      "options": ["use to", "used to", "is used to", "was used"],
+      "correctIndex": 1,
+      "explanation": "Tình trạng trong quá khứ không còn nữa",
+      "hints": ["used to + động từ nguyên mẫu"],
+      "points": 10
+    },
+    {
+      "id": 67,
+      "type": "multiple-choice",
+      "question": "The train __________ at 9 o'clock tomorrow morning.",
+      "options": ["leave", "leaves", "is leaving", "left"],
+      "correctIndex": 2,
+      "explanation": "Lịch trình cá nhân → Present Continuous",
+      "hints": ["Kế hoạch đã sắp xếp → Present Continuous"],
+      "points": 10
+    },
+    {
+      "id": 68,
+      "type": "multiple-choice",
+      "question": "I don't think she __________ come to the party.",
+      "options": ["is going to", "will", "going to", "comes"],
+      "correctIndex": 1,
+      "explanation": "I don't think + will cho dự đoán",
+      "hints": ["I think/don't think + will"],
+      "points": 10
+    },
+    {
+      "id": 69,
+      "type": "multiple-choice",
+      "question": "While I __________ the house, I found an old photo.",
+      "options": ["clean", "cleaned", "was cleaning", "am cleaning"],
+      "correctIndex": 2,
+      "explanation": "While + Past Continuous",
+      "hints": ["While + was/were + V-ing"],
+      "points": 10
+    },
+    {
+      "id": 70,
+      "type": "multiple-choice",
+      "question": "Look at that car! It __________ crash!",
+      "options": ["will", "is going to", "crashes", "crashed"],
+      "correctIndex": 1,
+      "explanation": "Dự đoán có bằng chứng → be going to",
+      "hints": ["Look! = có bằng chứng → be going to"],
+      "points": 10
+    },
+    {
+      "id": 71,
+      "type": "fill-blank",
+      "question": "They __________ (play) in the garden when it started raining.",
+      "wordHint": "(play)",
+      "answer": "were playing",
+      "acceptedAnswers": ["were playing"],
+      "hints": ["were + V-ing"],
+      "points": 10
+    },
+    {
+      "id": 72,
+      "type": "fill-blank",
+      "question": "He __________ (not use) to like vegetables.",
+      "wordHint": "(not use)",
+      "answer": "didn't use",
+      "acceptedAnswers": ["didn't use", "did not use"],
+      "hints": ["didn't + use to"],
+      "points": 10
+    },
+    {
+      "id": 73,
+      "type": "fill-blank",
+      "question": "I think they __________ (win) the match.",
+      "wordHint": "(win)",
+      "answer": "will win",
+      "acceptedAnswers": ["will win", "'ll win"],
+      "hints": ["I think + will"],
+      "points": 10
+    },
+    {
+      "id": 74,
+      "type": "fill-blank",
+      "question": "She __________ (fly) to London tomorrow. She has the tickets.",
+      "wordHint": "(fly)",
+      "answer": "is flying",
+      "acceptedAnswers": ["is flying", "'s flying"],
+      "hints": ["Đã có vé = đã sắp xếp → Present Continuous"],
+      "points": 10
+    },
+    {
+      "id": 75,
+      "type": "fill-blank",
+      "question": "What __________ (she/do) when you saw her?",
+      "wordHint": "(she/do)",
+      "answer": "was she doing",
+      "acceptedAnswers": ["was she doing"],
+      "hints": ["What + was + she + V-ing?"],
+      "points": 10
+    },
+    {
+      "id": 76,
+      "type": "fill-blank",
+      "question": "We __________ (not go) to the party tonight. We're too tired.",
+      "wordHint": "(not go)",
+      "answer": "aren't going",
+      "acceptedAnswers": ["aren't going", "are not going", "'re not going"],
+      "hints": ["Kế hoạch → Present Continuous"],
+      "points": 10
+    },
+    {
+      "id": 77,
+      "type": "fill-blank",
+      "question": "He __________ (use) to be very shy.",
+      "wordHint": "(use)",
+      "answer": "used",
+      "acceptedAnswers": ["used"],
+      "hints": ["used to + động từ nguyên mẫu"],
+      "points": 10
+    },
+    {
+      "id": 78,
+      "type": "fill-blank",
+      "question": "I __________ (not tell) anyone. I promise!",
+      "wordHint": "(not tell)",
+      "answer": "won't tell",
+      "acceptedAnswers": ["won't tell", "will not tell"],
+      "hints": ["Promise → won't"],
+      "points": 10
+    },
+    {
+      "id": 79,
+      "type": "fill-blank",
+      "question": "Look! The baby __________ (cry). Pick her up!",
+      "wordHint": "(cry)",
+      "answer": "is going to cry",
+      "acceptedAnswers": ["is going to cry", "'s going to cry", "is crying"],
+      "hints": ["Có bằng chứng → be going to"],
+      "points": 10
+    },
+    {
+      "id": 80,
+      "type": "fill-blank",
+      "question": "At this time last week, we __________ (swim) in the sea.",
+      "wordHint": "(swim)",
+      "answer": "were swimming",
+      "acceptedAnswers": ["were swimming"],
+      "hints": ["At this time last week → Past Continuous"],
+      "points": 10
+    },
+    {
+      "id": 81,
+      "type": "multiple-choice",
+      "question": "I __________ a book when the doorbell rang.",
+      "options": ["read", "was reading", "am reading", "reads"],
+      "correctIndex": 1,
+      "explanation": "Past Continuous cho hành động đang xảy ra",
+      "hints": ["was + V-ing"],
+      "points": 10
+    },
+    {
+      "id": 82,
+      "type": "multiple-choice",
+      "question": "We __________ live in a small village when I was a child.",
+      "options": ["use to", "used to", "are used to", "were used to"],
+      "correctIndex": 1,
+      "explanation": "Tình trạng trong quá khứ",
+      "hints": ["used to + động từ nguyên mẫu"],
+      "points": 10
+    },
+    {
+      "id": 83,
+      "type": "multiple-choice",
+      "question": "Don't worry, everything __________ be fine.",
+      "options": ["is going to", "will", "is", "was"],
+      "correctIndex": 1,
+      "explanation": "Động viên/an ủi → will",
+      "hints": ["Don't worry + will"],
+      "points": 10
+    },
+    {
+      "id": 84,
+      "type": "multiple-choice",
+      "question": "I __________ my dentist at 3pm tomorrow.",
+      "options": ["see", "am seeing", "saw", "will see"],
+      "correctIndex": 1,
+      "explanation": "Cuộc hẹn đã sắp xếp → Present Continuous",
+      "hints": ["Cuộc hẹn → Present Continuous"],
+      "points": 10
+    },
+    {
+      "id": 85,
+      "type": "multiple-choice",
+      "question": "The children __________ in the pool when it started to thunder.",
+      "options": ["swim", "swam", "were swimming", "are swimming"],
+      "correctIndex": 2,
+      "explanation": "Past Continuous cho hành động đang xảy ra",
+      "hints": ["were + V-ing"],
+      "points": 10
+    },
+    {
+      "id": 86,
+      "type": "multiple-choice",
+      "question": "She didn't __________ have long hair.",
+      "options": ["use to", "used to", "using to", "uses to"],
+      "correctIndex": 0,
+      "explanation": "Sau didn't dùng 'use to' (không có d)",
+      "hints": ["didn't + use to"],
+      "points": 10
+    },
+    {
+      "id": 87,
+      "type": "multiple-choice",
+      "question": "I'm hungry. I __________ make a sandwich.",
+      "options": ["am going to", "will", "'m", "going"],
+      "correctIndex": 1,
+      "explanation": "Quyết định tức thời → will",
+      "hints": ["Quyết định ngay lúc nói → will"],
+      "points": 10
+    },
+    {
+      "id": 88,
+      "type": "multiple-choice",
+      "question": "We __________ to Spain next summer. We've booked the hotel.",
+      "options": ["go", "are going", "went", "goes"],
+      "correctIndex": 1,
+      "explanation": "Đã đặt khách sạn = đã sắp xếp → Present Continuous",
+      "hints": ["Đã sắp xếp → Present Continuous"],
+      "points": 10
+    },
+    {
+      "id": 89,
+      "type": "multiple-choice",
+      "question": "At 7pm yesterday, I __________ dinner.",
+      "options": ["eat", "ate", "was eating", "am eating"],
+      "correctIndex": 2,
+      "explanation": "At + thời điểm cụ thể trong quá khứ → Past Continuous",
+      "hints": ["At + time → Past Continuous"],
+      "points": 10
+    },
+    {
+      "id": 90,
+      "type": "multiple-choice",
+      "question": "Look! He __________ fall off the ladder!",
+      "options": ["will", "is going to", "falls", "fell"],
+      "correctIndex": 1,
+      "explanation": "Dự đoán có bằng chứng → be going to",
+      "hints": ["Look! → be going to"],
+      "points": 10
+    },
+    {
+      "id": 91,
+      "type": "translation",
+      "vietnamese": "Tôi đang xem TV thì điện thoại reo.",
+      "answer": "I was watching TV when the phone rang.",
+      "acceptedAnswers": ["I was watching TV when the phone rang.", "I was watching TV when the phone rang"],
+      "hints": ["was watching + when + Past Simple"],
+      "points": 10
+    },
+    {
+      "id": 92,
+      "type": "translation",
+      "vietnamese": "Anh ấy từng sống ở Paris.",
+      "answer": "He used to live in Paris.",
+      "acceptedAnswers": ["He used to live in Paris.", "He used to live in Paris"],
+      "hints": ["used to + động từ nguyên mẫu"],
+      "points": 10
+    },
+    {
+      "id": 93,
+      "type": "translation",
+      "vietnamese": "Tôi nghĩ ngày mai trời sẽ mưa.",
+      "answer": "I think it will rain tomorrow.",
+      "acceptedAnswers": ["I think it will rain tomorrow.", "I think it will rain tomorrow", "I think it's going to rain tomorrow.", "I think it's going to rain tomorrow"],
+      "hints": ["I think + will"],
+      "points": 10
+    },
+    {
+      "id": 94,
+      "type": "translation",
+      "vietnamese": "Nhìn những đám mây kia! Trời sắp mưa!",
+      "answer": "Look at those clouds! It's going to rain!",
+      "acceptedAnswers": ["Look at those clouds! It's going to rain!", "Look at those clouds! It is going to rain!", "Look at those clouds. It's going to rain."],
+      "hints": ["Có bằng chứng → be going to"],
+      "points": 10
+    },
+    {
+      "id": 95,
+      "type": "translation",
+      "vietnamese": "Chúng tôi sẽ gặp bạn bè tối nay.",
+      "answer": "We are meeting our friends tonight.",
+      "acceptedAnswers": ["We are meeting our friends tonight.", "We are meeting our friends tonight", "We're meeting our friends tonight."],
+      "hints": ["Kế hoạch đã sắp xếp → Present Continuous"],
+      "points": 10
+    },
+    {
+      "id": 96,
+      "type": "translation",
+      "vietnamese": "Bạn đang làm gì lúc 8 giờ tối qua?",
+      "answer": "What were you doing at 8 o'clock last night?",
+      "acceptedAnswers": ["What were you doing at 8 o'clock last night?", "What were you doing at 8 o'clock last night", "What were you doing at 8pm last night?"],
+      "hints": ["What were you doing...?"],
+      "points": 10
+    },
+    {
+      "id": 97,
+      "type": "translation",
+      "vietnamese": "Cô ấy từng sợ chó.",
+      "answer": "She used to be afraid of dogs.",
+      "acceptedAnswers": ["She used to be afraid of dogs.", "She used to be afraid of dogs", "She used to be scared of dogs."],
+      "hints": ["used to + be + adj"],
+      "points": 10
+    },
+    {
+      "id": 98,
+      "type": "translation",
+      "vietnamese": "Tôi hứa tôi sẽ không nói với ai.",
+      "answer": "I promise I won't tell anyone.",
+      "acceptedAnswers": ["I promise I won't tell anyone.", "I promise I won't tell anyone", "I promise I will not tell anyone."],
+      "hints": ["Promise → won't"],
+      "points": 10
+    },
+    {
+      "id": 99,
+      "type": "translation",
+      "vietnamese": "Chúng tôi sẽ đi thăm ông bà vào tuần tới.",
+      "answer": "We are going to visit our grandparents next week.",
+      "acceptedAnswers": ["We are going to visit our grandparents next week.", "We are going to visit our grandparents next week", "We're going to visit our grandparents next week."],
+      "hints": ["Kế hoạch đã định → be going to"],
+      "points": 10
+    },
+    {
+      "id": 100,
+      "type": "translation",
+      "vietnamese": "Trong khi tôi đang nấu ăn, chồng tôi đang dọn nhà.",
+      "answer": "While I was cooking, my husband was cleaning the house.",
+      "acceptedAnswers": ["While I was cooking, my husband was cleaning the house.", "While I was cooking, my husband was cleaning the house", "While I was cooking my husband was cleaning the house"],
+      "hints": ["While + Past Continuous, Past Continuous"],
+      "points": 10
+    }
+  ]
+}

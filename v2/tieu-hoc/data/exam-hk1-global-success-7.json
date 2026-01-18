@@ -1,0 +1,1195 @@
+{
+  "unitId": "exam-hk1-global-success-7",
+  "title": "Ôn tập kiểm tra cuối kỳ 1 - Tiếng Anh 7 Global Success",
+  "description": "Ôn tập đề thi cuối học kỳ 1 Tiếng Anh 7 - Global Success với giải thích chi tiết",
+  "grammarTopics": [
+    "Present Simple (Hiện tại đơn)",
+    "Present Continuous (Hiện tại tiếp diễn)",
+    "Past Simple (Quá khứ đơn)",
+    "Some/Any",
+    "Comparatives (So sánh hơn)",
+    "The same as / Different from"
+  ],
+  "theory": {
+    "brief": "Đề thi HK1 Tiếng Anh 7 bao gồm các dạng bài: Nghe hiểu (TRUE/FALSE, chọn đáp án), Đọc hiểu, Ngữ pháp, Viết lại câu, và Viết câu từ gợi ý.",
+    "examples": [
+      "I don't have any oranges, but I have some apples. (Some/Any)",
+      "This film is more exciting than the TV show. (So sánh hơn)",
+      "He didn't go to school last Monday. (Quá khứ đơn)"
+    ]
+  },
+  "exercises": [
+    {
+      "id": "de1-q1",
+      "section": "ĐỀ 1 - Question 1",
+      "type": "listening",
+      "subtype": "true-false",
+      "title": "Listening - Minh's Area TRUE/FALSE",
+      "instruction": "Nghe đoạn audio và xác định các câu sau đúng (TRUE) hay sai (FALSE)",
+      "audioUrl": "https://img.loigiaihay.com/picture/2022/0712/036.mp3",
+      "audioSource": "Loigiaihay.com - Bài tập 225200",
+      "tapescript": "People in my area often have three meals a day: breakfast, lunch and dinner. For breakfast, we usually have pho or eel soup with bread. Sometimes we have instant noodles or xoi (sticky rice). Lunch often starts at 11:30 a.m. Most of us have lunch at home. We often have rice, fish, meat, and vegetables. Dinner is the main meal of the day. It's also the time when family members gather at home, so it takes a bit longer than the other meals. It often starts at around 7:30 p.m. We usually have rice with a lot of fresh vegetables and seafood or meat. We normally talk about everyday activities during the meal. Then we have some fruit and green tea. I think the food in my area is fabulous. It's very healthy and delicious.",
+      "questions": [
+        {
+          "id": 1,
+          "statement": "People in Minh's area often have four meals a day.",
+          "answer": "FALSE",
+          "explanation": "Người dân thường ăn BA bữa một ngày, không phải bốn bữa."
+        },
+        {
+          "id": 2,
+          "statement": "Most of them have lunch at home.",
+          "answer": "TRUE",
+          "explanation": "Đúng. Bài nghe nói: 'Most of us have lunch at home' - Hầu hết chúng tôi ăn trưa ở nhà."
+        },
+        {
+          "id": 3,
+          "statement": "Lunch is the main meal of the day in his area.",
+          "answer": "FALSE",
+          "explanation": "Bữa TỐI mới là bữa chính, không phải bữa trưa."
+        },
+        {
+          "id": 4,
+          "statement": "After dinner, they often have some fruit and green tea.",
+          "answer": "TRUE",
+          "explanation": "Sau bữa tối, họ thường ăn trái cây và uống trà xanh."
+        }
+      ],
+      "hints": ["Chú ý số bữa ăn trong ngày", "Bữa nào là bữa chính?"],
+      "points": 25
+    },
+    {
+      "id": "de1-q2",
+      "section": "ĐỀ 1 - Question 2",
+      "type": "listening",
+      "subtype": "multiple-choice",
+      "title": "Listening - Street Painting",
+      "instruction": "Nghe và chọn đáp án đúng",
+      "audioUrl": "https://img.loigiaihay.com/picture/2022/0706/028_1.mp3",
+      "audioSource": "Loigiaihay.com - Unit 4 Skills 2",
+      "tapescript": "Street painting - or street art - is an old type of art. In the 16th century artists began to draw on the pavement using chalk. Today, you can see street painting events everywhere. They attract many people who come to enjoy and take part in them. Many of them are free too. So join in and become an artist yourself! One of the largest events in the United States is the Lake Worth Street Painting Festival. It began in 1994 and now occurs every February with the support of artists and volunteers. It is free for everyone. About 100,000 visitors come to enjoy it. About 600 artists work on the pavement to make the street a huge art gallery!",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Street painting began...",
+          "options": ["in the 6th century", "in the 16th century", "in 1994", "in 1999"],
+          "correctIndex": 1,
+          "explanation": "Bài nghe nói: 'In the 16th century artists began to draw on the pavement' - Vào thế kỷ 16, các nghệ sĩ bắt đầu vẽ trên vỉa hè."
+        },
+        {
+          "id": 2,
+          "question": "At the street painting event, you can...",
+          "options": ["buy a painting", "talk to artists", "become an artist", "hang a painting"],
+          "correctIndex": 2,
+          "explanation": "Bài nghe nói: 'So join in and become an artist yourself!' - Hãy tham gia và trở thành một nghệ sĩ!"
+        },
+        {
+          "id": 3,
+          "question": "The Lake Worth Street Painting Festival happens...",
+          "options": ["only sometimes", "every month", "everyday", "every year"],
+          "correctIndex": 3,
+          "explanation": "Bài nghe nói: 'now occurs every February' - Diễn ra hàng năm vào tháng 2."
+        },
+        {
+          "id": 4,
+          "question": "About ___ artists take part in the Lake Worth Street Painting Festival.",
+          "options": ["100,000", "600", "60", "660"],
+          "correctIndex": 1,
+          "explanation": "Bài nghe nói: 'About 600 artists work on the pavement' - Khoảng 600 nghệ sĩ làm việc trên vỉa hè."
+        }
+      ],
+      "hints": ["Chú ý các số liệu về thời gian và số lượng"],
+      "points": 25
+    },
+    {
+      "id": "de1-q3",
+      "section": "ĐỀ 1 - Question 3",
+      "type": "reading-comprehension",
+      "title": "Reading - Quoc Hoc Hue School",
+      "passage": [
+        "Quoc Hoc - Hue is one of the (1)___ schools in Viet Nam. It is on the bank of the Huong River, in Hue. It was founded in (2)___. It used to be a school for children from rich and royal families.",
+        "Well-known people such as Ho Chi Minh, Vo Nguyen Giap, Xuan Dieu studied there. Nowadays, the school is for gifted students. They are intelligent and study hard. They have to pass an entrance exam to enter the school.",
+        "The school has over (3)___ classrooms with TVs, projectors, and computers. It also has a swimming pool, a library, two English labs, four computer rooms, and many other modern facilities. The school is one of the (4)___ and most beautiful schools in Viet Nam."
+      ],
+      "questions": [
+        {
+          "id": 1,
+          "question": "Blank (1): Quoc Hoc is one of the ___ schools",
+          "options": ["biggest", "smallest", "oldest", "most modern"],
+          "correctIndex": 2,
+          "explanation": "Trường Quốc Học là một trong những trường LÂU ĐỜI NHẤT (oldest) ở Việt Nam, thành lập năm 1896."
+        },
+        {
+          "id": 2,
+          "question": "Blank (2): It was founded in ___",
+          "options": ["in 1696", "in 1996", "1886", "in 1896"],
+          "correctIndex": 3,
+          "explanation": "Trường được thành lập năm 1896."
+        },
+        {
+          "id": 3,
+          "question": "Blank (3): The school has over ___ classrooms",
+          "options": ["50", "30", "40", "20"],
+          "correctIndex": 0,
+          "explanation": "Trường có hơn 50 phòng học (theo SGK Unit 6 Skills 1)."
+        },
+        {
+          "id": 4,
+          "question": "Blank (4): one of the ___ and most beautiful schools",
+          "options": ["larger", "largest", "smaller", "smallest"],
+          "correctIndex": 1,
+          "explanation": "Dùng so sánh nhất 'largest' để đi cùng với 'most beautiful'. Cấu trúc: one of the + adj (so sánh nhất) + N."
+        }
+      ],
+      "hints": ["Chú ý cấu trúc so sánh nhất", "Đọc kỹ thông tin về năm thành lập"],
+      "points": 25
+    },
+    {
+      "id": "de1-q4",
+      "section": "ĐỀ 1 - Question 4",
+      "type": "reading-comprehension",
+      "title": "Reading - Water Puppetry",
+      "passage": [
+        "Yesterday Mary went to see a water puppet show at the Thang Long Water Puppet Theatre in Ha Noi. She found the show fascinating.",
+        "The puppets were made from wood and the artists controlled them in the water by using long sticks behind a screen. The show was about the daily life of Vietnamese people and famous folk tales.",
+        "The puppets danced and moved beautifully on the water. There were also singers and musicians who played traditional music. Mary loved the show very much and she took many photos."
+      ],
+      "questions": [
+        {
+          "id": 1,
+          "question": "Mary went to see a ___ yesterday.",
+          "options": ["movie", "cartoon", "water puppet show", "game show"],
+          "correctIndex": 2,
+          "explanation": "Mary đi xem múa rối nước (water puppet show)."
+        },
+        {
+          "id": 2,
+          "question": "The artists perform the show ___ the pool.",
+          "options": ["in", "on", "at", "of"],
+          "correctIndex": 0,
+          "explanation": "Nghệ sĩ biểu diễn TRONG (in) hồ nước. Giới từ 'in' dùng cho không gian bên trong."
+        },
+        {
+          "id": 3,
+          "question": "___ controlled the puppet.",
+          "options": ["The singers", "The players", "The doctors", "The artists"],
+          "correctIndex": 3,
+          "explanation": "NGHỆ SĨ (artists) điều khiển con rối."
+        },
+        {
+          "id": 4,
+          "question": "These shows are normally about everyday ___.",
+          "options": ["park", "beach", "pool", "life"],
+          "correctIndex": 3,
+          "explanation": "Các buổi biểu diễn thường về cuộc sống hàng ngày (everyday life)."
+        }
+      ],
+      "hints": ["Đọc kỹ đoạn văn để tìm thông tin"],
+      "points": 25
+    },
+    {
+      "id": "de1-q5-1",
+      "section": "ĐỀ 1 - Question 5",
+      "type": "multiple-choice",
+      "question": "I don't drink ___ mineral water for breakfast.",
+      "options": ["some", "any", "an", "a"],
+      "correctIndex": 1,
+      "explanation": "Dùng 'any' trong câu phủ định: I don't drink ANY mineral water.",
+      "hints": ["Some dùng trong câu khẳng định, any dùng trong câu phủ định và nghi vấn"],
+      "points": 10
+    },
+    {
+      "id": "de1-q5-2",
+      "section": "ĐỀ 1 - Question 5",
+      "type": "multiple-choice",
+      "question": "I do not have ___ oranges, but I have ___ apples.",
+      "options": ["some/some", "some/any", "any/some", "an/an"],
+      "correctIndex": 2,
+      "explanation": "Câu phủ định dùng 'any', câu khẳng định dùng 'some': I don't have ANY oranges, but I have SOME apples.",
+      "hints": ["Phân biệt câu phủ định và khẳng định"],
+      "points": 10
+    },
+    {
+      "id": "de1-q5-3",
+      "section": "ĐỀ 1 - Question 5",
+      "type": "multiple-choice",
+      "question": "Children ___ plastic bottles for recycling a month ago.",
+      "options": ["are collecting", "collect", "collected", "collecting"],
+      "correctIndex": 2,
+      "explanation": "Thì quá khứ đơn với 'a month ago': Children COLLECTED plastic bottles.",
+      "hints": ["'a month ago' là dấu hiệu của thì quá khứ đơn"],
+      "points": 10
+    },
+    {
+      "id": "de1-q5-4",
+      "section": "ĐỀ 1 - Question 5",
+      "type": "multiple-choice",
+      "question": "Find the word which has the OPPOSITE meaning to 'entrance':",
+      "options": ["exit", "final", "mid-term", "admission"],
+      "correctIndex": 0,
+      "explanation": "Từ trái nghĩa: entrance (lối vào) ≠ EXIT (lối ra).",
+      "hints": ["entrance = lối vào, cần tìm từ chỉ lối ra"],
+      "points": 10
+    },
+    {
+      "id": "de1-q6-1",
+      "section": "ĐỀ 1 - Question 6",
+      "type": "sentence-rewrite",
+      "original": "The characters in the film are not the same as the ones in the play.",
+      "instruction": "Viết lại câu sao cho nghĩa không đổi",
+      "starterText": "The characters in the film are",
+      "answer": "The characters in the film are different from the ones in the play.",
+      "acceptedAnswers": [
+        "The characters in the film are different from the ones in the play.",
+        "The characters in the film are different from the ones in the play"
+      ],
+      "explanation": "'not the same as' = 'different from' (khác với).",
+      "hints": ["not the same as = different from"],
+      "points": 10
+    },
+    {
+      "id": "de1-q6-2",
+      "section": "ĐỀ 1 - Question 6",
+      "type": "sentence-rewrite",
+      "original": "Our maths homework is more difficult than our history homework.",
+      "instruction": "Viết lại câu sao cho nghĩa không đổi",
+      "starterText": "Our history homework is",
+      "answer": "Our history homework is easier than our maths homework.",
+      "acceptedAnswers": [
+        "Our history homework is easier than our maths homework.",
+        "Our history homework is easier than our maths homework",
+        "Our history homework is not as difficult as our maths homework.",
+        "Our history homework is not as difficult as our maths homework",
+        "Our history homework isn't as difficult as our maths homework.",
+        "Our history homework isn't as difficult as our maths homework"
+      ],
+      "explanation": "Đảo ngược so sánh: more difficult -> easier, hoặc dùng 'not as difficult as'.",
+      "hints": ["Đảo ngược tính từ so sánh"],
+      "points": 10
+    },
+    {
+      "id": "de1-q6-3",
+      "section": "ĐỀ 1 - Question 6",
+      "type": "sentence-rewrite",
+      "original": "This film is more exciting than the TV show.",
+      "instruction": "Viết lại câu sao cho nghĩa không đổi",
+      "starterText": "The TV show is",
+      "answer": "The TV show is not as exciting as this film.",
+      "acceptedAnswers": [
+        "The TV show is not as exciting as this film.",
+        "The TV show is not as exciting as this film",
+        "The TV show isn't as exciting as this film.",
+        "The TV show isn't as exciting as this film",
+        "The TV show is less exciting than this film.",
+        "The TV show is less exciting than this film"
+      ],
+      "explanation": "A is more adj than B = B is not as adj as A.",
+      "hints": ["Dùng cấu trúc 'not as...as' hoặc 'less...than'"],
+      "points": 10
+    },
+    {
+      "id": "de1-q6-4",
+      "section": "ĐỀ 1 - Question 6",
+      "type": "sentence-rewrite",
+      "original": "The old dress is not as beautiful as the new one.",
+      "instruction": "Viết lại câu sao cho nghĩa không đổi",
+      "starterText": "The new dress is",
+      "answer": "The new dress is more beautiful than the old one.",
+      "acceptedAnswers": [
+        "The new dress is more beautiful than the old one.",
+        "The new dress is more beautiful than the old one"
+      ],
+      "explanation": "A is not as adj as B = B is more adj than A.",
+      "hints": ["Đổi từ 'not as...as' sang so sánh hơn"],
+      "points": 10
+    },
+    {
+      "id": "de1-q7-1",
+      "section": "ĐỀ 1 - Question 7",
+      "type": "fill-blank",
+      "question": "Look! Toby (have) ___ some fast food again!",
+      "answer": "is having",
+      "acceptedAnswers": ["is having"],
+      "explanation": "Hiện tại tiếp diễn với 'Look!': Look! Toby IS HAVING some fast food again!",
+      "hints": ["'Look!' là dấu hiệu của thì hiện tại tiếp diễn"],
+      "points": 10
+    },
+    {
+      "id": "de1-q7-2",
+      "section": "ĐỀ 1 - Question 7",
+      "type": "fill-blank",
+      "question": "___ Ron (listen) ___ to music after school last Sunday?",
+      "answer": "Did, listen",
+      "acceptedAnswers": ["Did, listen", "Did - listen", "Did/listen", "Did Ron listen"],
+      "explanation": "Quá khứ đơn dạng hỏi với 'last Sunday': DID Ron LISTEN to music?",
+      "hints": ["'last Sunday' là dấu hiệu của thì quá khứ đơn"],
+      "points": 10
+    },
+    {
+      "id": "de1-q7-3",
+      "section": "ĐỀ 1 - Question 7",
+      "type": "fill-blank",
+      "question": "What time ___ she (get up) ___?",
+      "answer": "does, get up",
+      "acceptedAnswers": ["does, get up", "does - get up", "does/get up", "does she get up"],
+      "explanation": "Hiện tại đơn dạng hỏi: What time DOES she GET UP?",
+      "hints": ["Câu hỏi về lịch trình hàng ngày - dùng hiện tại đơn"],
+      "points": 10
+    },
+    {
+      "id": "de1-q7-4",
+      "section": "ĐỀ 1 - Question 7",
+      "type": "fill-blank",
+      "question": "He (not go) ___ to school last Monday.",
+      "answer": "didn't go",
+      "acceptedAnswers": ["didn't go", "did not go"],
+      "explanation": "Quá khứ đơn phủ định với 'last Monday': He DIDN'T GO to school.",
+      "hints": ["'last Monday' -> quá khứ đơn, phủ định -> didn't + V"],
+      "points": 10
+    },
+    {
+      "id": "de1-q8-1",
+      "section": "ĐỀ 1 - Question 8",
+      "type": "sentence-build",
+      "prompt": "The train / arrive / the station / 11 a.m.",
+      "instructions": "Viết câu hoàn chỉnh từ các từ gợi ý",
+      "answer": "The train arrives at the station at 11 a.m.",
+      "acceptedAnswers": [
+        "The train arrives at the station at 11 a.m.",
+        "The train arrives at the station at 11 a.m"
+      ],
+      "explanation": "Hiện tại đơn diễn tả lịch trình. Giới từ: at the station, at 11 a.m.",
+      "hints": ["Dùng hiện tại đơn cho lịch trình cố định"],
+      "points": 10
+    },
+    {
+      "id": "de1-q8-2",
+      "section": "ĐỀ 1 - Question 8",
+      "type": "sentence-build",
+      "prompt": "The meeting / Friday / 10 a.m. / classroom.",
+      "instructions": "Viết câu hoàn chỉnh từ các từ gợi ý",
+      "answer": "The meeting is on Friday at 10 a.m. in the classroom.",
+      "acceptedAnswers": [
+        "The meeting is on Friday at 10 a.m. in the classroom.",
+        "The meeting is on Friday at 10 a.m. in the classroom"
+      ],
+      "explanation": "Giới từ thời gian: on Friday (ngày), at 10 a.m. (giờ), in the classroom (nơi chốn).",
+      "hints": ["on + ngày, at + giờ, in + nơi chốn"],
+      "points": 10
+    },
+    {
+      "id": "de1-q8-3",
+      "section": "ĐỀ 1 - Question 8",
+      "type": "sentence-build",
+      "prompt": "My father / not / exercise / every morning.",
+      "instructions": "Viết câu hoàn chỉnh từ các từ gợi ý",
+      "answer": "My father doesn't exercise every morning.",
+      "acceptedAnswers": [
+        "My father doesn't exercise every morning.",
+        "My father doesn't exercise every morning",
+        "My father does not exercise every morning.",
+        "My father does not exercise every morning"
+      ],
+      "explanation": "Hiện tại đơn phủ định, ngôi 3 số ít: My father DOESN'T exercise.",
+      "hints": ["every morning -> hiện tại đơn, ngôi 3 số ít -> doesn't"],
+      "points": 10
+    },
+    {
+      "id": "de1-q8-4",
+      "section": "ĐỀ 1 - Question 8",
+      "type": "sentence-build",
+      "prompt": "Last year / our club / donate / books / children / rural areas.",
+      "instructions": "Viết câu hoàn chỉnh từ các từ gợi ý",
+      "answer": "Last year, our club donated books to children in rural areas.",
+      "acceptedAnswers": [
+        "Last year, our club donated books to children in rural areas.",
+        "Last year, our club donated books to children in rural areas",
+        "Last year our club donated books to children in rural areas.",
+        "Last year our club donated books to children in rural areas"
+      ],
+      "explanation": "Quá khứ đơn với 'Last year'. Giới từ: to children, in rural areas.",
+      "hints": ["Last year -> quá khứ đơn, donate -> donated"],
+      "points": 10
+    },
+    {
+      "id": "de2-q1",
+      "section": "ĐỀ 2 - Question 1",
+      "type": "listening",
+      "subtype": "true-false",
+      "title": "Listening - TRUE or FALSE",
+      "instruction": "Nghe đoạn audio và xác định các câu sau đúng (TRUE) hay sai (FALSE)",
+      "audioNote": "Bài nghe về gia đình Mark tại nhà hàng Việt Nam",
+      "questions": [
+        {
+          "id": 1,
+          "statement": "Mark's family is at a Vietnamese restaurant.",
+          "answer": "TRUE",
+          "explanation": "Gia đình Mark đang ở một nhà hàng Việt Nam."
+        },
+        {
+          "id": 2,
+          "statement": "Mark wants fried tofu and beef for dinner.",
+          "answer": "FALSE",
+          "explanation": "Mark muốn đậu hũ chiên và THỊT GÀ (không phải thịt bò)."
+        },
+        {
+          "id": 3,
+          "statement": "They don't order canh chua.",
+          "answer": "FALSE",
+          "explanation": "Họ CÓ GỌI canh chua."
+        },
+        {
+          "id": 4,
+          "statement": "His mum doesn't allow her children to drink juice.",
+          "answer": "TRUE",
+          "explanation": "Mẹ Mark không cho phép con uống nước ngọt có gas, chỉ được uống nước trái cây."
+        }
+      ],
+      "hints": ["Chú ý các món ăn được gọi"],
+      "points": 25
+    },
+    {
+      "id": "de2-q2",
+      "section": "ĐỀ 2 - Question 2",
+      "type": "listening",
+      "subtype": "multiple-choice",
+      "title": "Listening - Trang and Phong's Clubs",
+      "instruction": "Nghe và chọn đáp án đúng",
+      "audioNote": "Bài nghe về các câu lạc bộ mà Trang và Phong tham gia",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Trang and Phong are talking about...",
+          "options": ["outdoor activities", "school timetables", "school subjects", "their friends"],
+          "correctIndex": 0,
+          "explanation": "Trang và Phong đang nói về các hoạt động ngoài trời."
+        },
+        {
+          "id": 2,
+          "question": "They are members of ___ club(s).",
+          "options": ["one", "four", "three", "two"],
+          "correctIndex": 3,
+          "explanation": "Họ là thành viên của HAI câu lạc bộ."
+        },
+        {
+          "id": 3,
+          "question": "The Go Green Club cleans streets on...",
+          "options": ["Saturday mornings", "Saturday afternoons", "Sunday mornings", "Sunday afternoons"],
+          "correctIndex": 0,
+          "explanation": "Câu lạc bộ Go Green dọn đường vào SÁNG THỨ BẢY."
+        },
+        {
+          "id": 4,
+          "question": "___ grow in the school garden.",
+          "options": ["Vegetables", "Flowers", "Trees", "Plants"],
+          "correctIndex": 0,
+          "explanation": "RAU mọc trong vườn trường."
+        }
+      ],
+      "hints": ["Chú ý thông tin về các hoạt động của câu lạc bộ"],
+      "points": 25
+    },
+    {
+      "id": "de2-q3",
+      "section": "ĐỀ 2 - Question 3",
+      "type": "reading-comprehension",
+      "title": "Reading - Acne (Fill in the blanks)",
+      "passage": [
+        "Acne is a skin condition. It causes small (1)___ spots on the face and neck.",
+        "It affects 70-80% of young people between (2)___. More girls have acne than boys. It's not a serious disease but young people want to avoid it. Here are some tips for taking care of skin with acne:",
+        "- Go to bed early and get enough sleep",
+        "- Eat more fruit and (3)___, and less fast food",
+        "- Wash your face with special soap for acne, but no more than (4)___ a day",
+        "- Don't touch or pop spots, especially when your hands are dirty",
+        "- If it gets serious, see a doctor"
+      ],
+      "questions": [
+        {
+          "id": 1,
+          "question": "Blank (1): small ___ spots",
+          "options": ["12-20", "yellow", "70-80", "white"],
+          "correctIndex": 1,
+          "explanation": "Mụn gây ra các đốm nhỏ màu VÀNG (yellow) trên mặt và cổ."
+        },
+        {
+          "id": 2,
+          "question": "Blank (2): young people between ___",
+          "options": ["12-20", "12-30", "70-80", "12-40"],
+          "correctIndex": 0,
+          "explanation": "Mụn ảnh hưởng 70-80% thanh thiếu niên từ 12-20 tuổi."
+        },
+        {
+          "id": 3,
+          "question": "Blank (3): Eat more fruit and ___",
+          "options": ["vegetables", "fish", "meat", "snack"],
+          "correctIndex": 0,
+          "explanation": "Nên ăn nhiều trái cây và RAU (vegetables), ít đồ ăn nhanh."
+        },
+        {
+          "id": 4,
+          "question": "Blank (4): no more than ___ a day",
+          "options": ["three times", "twice", "four times", "once"],
+          "correctIndex": 1,
+          "explanation": "Rửa mặt không quá HAI LẦN (twice) một ngày."
+        }
+      ],
+      "hints": ["Đọc kỹ thông tin về cách phòng ngừa mụn"],
+      "points": 25
+    },
+    {
+      "id": "de2-q4",
+      "section": "ĐỀ 2 - Question 4",
+      "type": "reading-comprehension",
+      "title": "Reading - Pho",
+      "passage": [
+        "Pho is one of the most popular dishes in Viet Nam. It is made mainly with rice noodles and beef or chicken.",
+        "The broth is made by slowly cooking beef or chicken bones for a long time. People add fresh herbs, bean sprouts, and chili sauce to their pho.",
+        "Vietnamese people can enjoy pho at any time of the day - for breakfast, lunch, or dinner. Many restaurants serve pho 24 hours a day!"
+      ],
+      "questions": [
+        {
+          "id": 1,
+          "question": "The text is mainly about:",
+          "options": ["Pho, a popular dish in Viet Nam", "Popular dishes in Viet Nam", "Different ways to cook pho", "Main kinds of Pho"],
+          "correctIndex": 0,
+          "explanation": "Bài viết chủ yếu về phở - món ăn phổ biến ở Việt Nam."
+        },
+        {
+          "id": 2,
+          "question": "Pho is made mainly with:",
+          "options": ["rice noodles and beef or chicken", "rice, pork, and vegetables", "fish, shrimp, and noodles", "rice, fish, shrimp"],
+          "correctIndex": 0,
+          "explanation": "Phở được làm từ bánh phở và thịt bò hoặc gà."
+        },
+        {
+          "id": 3,
+          "question": "We can enjoy pho:",
+          "options": ["only for breakfast", "for lunch and dinner", "at any time of the day", "for a late night snack"],
+          "correctIndex": 2,
+          "explanation": "Có thể ăn phở vào bất kỳ lúc nào trong ngày."
+        },
+        {
+          "id": 4,
+          "question": "The broth for pho is made by:",
+          "options": ["boiling beef bones with fish sauce", "boiling potatoes and chicken for a long time", "cooking chicken with fish sauce", "slowly cooking beef or chicken bones"],
+          "correctIndex": 3,
+          "explanation": "Nước dùng được nấu từ việc hầm xương bò hoặc gà trong thời gian dài."
+        }
+      ],
+      "hints": ["Đọc kỹ thông tin về nguyên liệu và cách nấu phở"],
+      "points": 25
+    },
+    {
+      "id": "de2-q5-1",
+      "section": "ĐỀ 2 - Question 5",
+      "type": "multiple-choice",
+      "question": "His daughter wants to become a well-known ___ but she has no talent at all.",
+      "options": ["act", "actress", "actor", "action"],
+      "correctIndex": 1,
+      "explanation": "Con gái -> dùng ACTRESS (nữ diễn viên). Actor dành cho nam.",
+      "hints": ["daughter = con gái -> cần từ chỉ nữ diễn viên"],
+      "points": 10
+    },
+    {
+      "id": "de2-q5-2",
+      "section": "ĐỀ 2 - Question 5",
+      "type": "multiple-choice",
+      "question": "Find the word which has the OPPOSITE meaning to 'luxurious':",
+      "options": ["expensive", "private", "simple", "modern"],
+      "correctIndex": 2,
+      "explanation": "Từ trái nghĩa: luxurious (sang trọng) ≠ SIMPLE (đơn giản).",
+      "hints": ["luxurious = sang trọng, xa hoa"],
+      "points": 10
+    },
+    {
+      "id": "de2-q5-3",
+      "section": "ĐỀ 2 - Question 5",
+      "type": "multiple-choice",
+      "question": "You can see many interesting portraits in the ___:",
+      "options": ["cinema", "supermarket", "hospital", "art gallery"],
+      "correctIndex": 3,
+      "explanation": "Bạn có thể xem tranh chân dung ở PHÒNG TRANH (art gallery).",
+      "hints": ["portrait = tranh chân dung"],
+      "points": 10
+    },
+    {
+      "id": "de2-q5-4",
+      "section": "ĐỀ 2 - Question 5",
+      "type": "multiple-choice",
+      "question": "Children collected plastic bottles for recycling ___ Sunday a month ago.",
+      "options": ["in", "on", "at", "of"],
+      "correctIndex": 1,
+      "explanation": "Dùng ON + ngày trong tuần: on Sunday.",
+      "hints": ["Giới từ thời gian: on + ngày"],
+      "points": 10
+    },
+    {
+      "id": "de2-q6-1",
+      "section": "ĐỀ 2 - Question 6",
+      "type": "sentence-rewrite",
+      "original": "This lesson is more difficult than that one.",
+      "instruction": "Viết lại câu sao cho nghĩa không đổi",
+      "starterText": "That lesson is",
+      "answer": "That lesson is not as difficult as this one.",
+      "acceptedAnswers": [
+        "That lesson is not as difficult as this one.",
+        "That lesson is not as difficult as this one",
+        "That lesson isn't as difficult as this one.",
+        "That lesson isn't as difficult as this one",
+        "That lesson is easier than this one.",
+        "That lesson is easier than this one"
+      ],
+      "explanation": "A is more adj than B = B is not as adj as A.",
+      "hints": ["Dùng 'not as...as' hoặc tính từ trái nghĩa"],
+      "points": 10
+    },
+    {
+      "id": "de2-q6-2",
+      "section": "ĐỀ 2 - Question 6",
+      "type": "sentence-rewrite",
+      "original": "The poster in the gallery is the same as the one in my house.",
+      "instruction": "Viết lại câu sao cho nghĩa không đổi",
+      "starterText": "The poster in the gallery is",
+      "answer": "The poster in the gallery is not different from the one in my house.",
+      "acceptedAnswers": [
+        "The poster in the gallery is not different from the one in my house.",
+        "The poster in the gallery is not different from the one in my house",
+        "The poster in the gallery isn't different from the one in my house.",
+        "The poster in the gallery isn't different from the one in my house"
+      ],
+      "explanation": "'the same as' = 'not different from' (không khác với).",
+      "hints": ["the same as = not different from"],
+      "points": 10
+    },
+    {
+      "id": "de2-q6-3",
+      "section": "ĐỀ 2 - Question 6",
+      "type": "sentence-rewrite",
+      "original": "This picture is brighter than that one.",
+      "instruction": "Viết lại câu sao cho nghĩa không đổi",
+      "starterText": "That picture is",
+      "answer": "That picture is not as bright as this one.",
+      "acceptedAnswers": [
+        "That picture is not as bright as this one.",
+        "That picture is not as bright as this one",
+        "That picture isn't as bright as this one.",
+        "That picture isn't as bright as this one"
+      ],
+      "explanation": "A is adj-er than B = B is not as adj as A.",
+      "hints": ["brighter -> dùng 'not as bright as'"],
+      "points": 10
+    },
+    {
+      "id": "de2-q6-4",
+      "section": "ĐỀ 2 - Question 6",
+      "type": "sentence-rewrite",
+      "original": "This year's music contest is different from last year's.",
+      "instruction": "Viết lại câu sao cho nghĩa không đổi",
+      "starterText": "This year's music contest is",
+      "answer": "This year's music contest is not the same as last year's.",
+      "acceptedAnswers": [
+        "This year's music contest is not the same as last year's.",
+        "This year's music contest is not the same as last year's",
+        "This year's music contest isn't the same as last year's.",
+        "This year's music contest isn't the same as last year's"
+      ],
+      "explanation": "'different from' = 'not the same as'.",
+      "hints": ["different from = not the same as"],
+      "points": 10
+    },
+    {
+      "id": "de2-q7-1",
+      "section": "ĐỀ 2 - Question 7",
+      "type": "fill-blank",
+      "question": "Alice often does judo at 5 p.m. every day, then she (do) ___ some homework.",
+      "answer": "does",
+      "acceptedAnswers": ["does"],
+      "explanation": "Hiện tại đơn, ngôi 3 số ít với 'every day': then she DOES some homework.",
+      "hints": ["every day -> hiện tại đơn, she -> does"],
+      "points": 10
+    },
+    {
+      "id": "de2-q7-2",
+      "section": "ĐỀ 2 - Question 7",
+      "type": "fill-blank",
+      "question": "Yesterday, I (not watch) ___ a show on TV. It was so boring.",
+      "answer": "didn't watch",
+      "acceptedAnswers": ["didn't watch", "did not watch"],
+      "explanation": "Quá khứ đơn phủ định với 'Yesterday': I DIDN'T WATCH a show on TV.",
+      "hints": ["Yesterday -> quá khứ đơn, phủ định -> didn't + V"],
+      "points": 10
+    },
+    {
+      "id": "de2-q7-3",
+      "section": "ĐỀ 2 - Question 7",
+      "type": "fill-blank",
+      "question": "My mother and I (not like) ___ doing judo.",
+      "answer": "don't like",
+      "acceptedAnswers": ["don't like", "do not like"],
+      "explanation": "Hiện tại đơn phủ định: My mother and I DON'T LIKE doing judo.",
+      "hints": ["My mother and I = We -> don't"],
+      "points": 10
+    },
+    {
+      "id": "de2-q7-4",
+      "section": "ĐỀ 2 - Question 7",
+      "type": "fill-blank",
+      "question": "___ your English lesson (start) ___ at 8 a.m. tomorrow?",
+      "answer": "Does, start",
+      "acceptedAnswers": ["Does, start", "Does - start", "Does/start", "Does your English lesson start", "Will, start", "Will - start", "Will/start"],
+      "explanation": "Hỏi về lịch trình - dùng hiện tại đơn hoặc tương lai đơn: DOES your English lesson START?",
+      "hints": ["Lịch trình tương lai có thể dùng hiện tại đơn"],
+      "points": 10
+    },
+    {
+      "id": "de2-q8-1",
+      "section": "ĐỀ 2 - Question 8",
+      "type": "sentence-build",
+      "prompt": "We / teach / English / children / a primary school / last summer.",
+      "instructions": "Viết câu hoàn chỉnh từ các từ gợi ý",
+      "answer": "We taught English to children at a primary school last summer.",
+      "acceptedAnswers": [
+        "We taught English to children at a primary school last summer.",
+        "We taught English to children at a primary school last summer"
+      ],
+      "explanation": "Quá khứ đơn với 'last summer': teach -> taught.",
+      "hints": ["last summer -> quá khứ đơn, teach -> taught"],
+      "points": 10
+    },
+    {
+      "id": "de2-q8-2",
+      "section": "ĐỀ 2 - Question 8",
+      "type": "sentence-build",
+      "prompt": "Our school club / make / gloves / old people / nursing home / now.",
+      "instructions": "Viết câu hoàn chỉnh từ các từ gợi ý",
+      "answer": "Our school club is making gloves for old people at the nursing home now.",
+      "acceptedAnswers": [
+        "Our school club is making gloves for old people at the nursing home now.",
+        "Our school club is making gloves for old people at the nursing home now"
+      ],
+      "explanation": "Hiện tại tiếp diễn với 'now': is making.",
+      "hints": ["now -> hiện tại tiếp diễn, is/are + V-ing"],
+      "points": 10
+    },
+    {
+      "id": "de2-q8-3",
+      "section": "ĐỀ 2 - Question 8",
+      "type": "sentence-build",
+      "prompt": "Exercising / good / than / playing video games.",
+      "instructions": "Viết câu hoàn chỉnh từ các từ gợi ý",
+      "answer": "Exercising is better than playing video games.",
+      "acceptedAnswers": [
+        "Exercising is better than playing video games.",
+        "Exercising is better than playing video games"
+      ],
+      "explanation": "So sánh hơn bất quy tắc: good -> better than.",
+      "hints": ["good -> better (bất quy tắc)"],
+      "points": 10
+    },
+    {
+      "id": "de2-q8-4",
+      "section": "ĐỀ 2 - Question 8",
+      "type": "sentence-build",
+      "prompt": "How many / banana / you / eat / every week?",
+      "instructions": "Viết câu hoàn chỉnh từ các từ gợi ý",
+      "answer": "How many bananas do you eat every week?",
+      "acceptedAnswers": [
+        "How many bananas do you eat every week?",
+        "How many bananas do you eat every week"
+      ],
+      "explanation": "How many + danh từ số nhiều + do/does + S + V? Banana -> bananas.",
+      "hints": ["How many + danh từ số nhiều"],
+      "points": 10
+    },
+    {
+      "id": "de3-q1",
+      "section": "ĐỀ 3 - Question 1",
+      "type": "listening",
+      "subtype": "true-false",
+      "title": "Listening - Street Painting TRUE/FALSE",
+      "instruction": "Nghe đoạn audio và xác định các câu sau đúng (TRUE) hay sai (FALSE)",
+      "audioUrl": "https://img.loigiaihay.com/picture/2022/0706/028_1.mp3",
+      "audioSource": "Loigiaihay.com - Unit 4 Skills 2",
+      "tapescript": "Street painting - or street art - is an old type of art. In the 16th century artists began to draw on the pavement using chalk. Today, you can see street painting events everywhere. They attract many people who come to enjoy and take part in them. Many of them are free too. So join in and become an artist yourself! One of the largest events in the United States is the Lake Worth Street Painting Festival. It began in 1994 and now occurs every February with the support of artists and volunteers. It is free for everyone. About 100,000 visitors come to enjoy it. About 600 artists work on the pavement to make the street a huge art gallery!",
+      "questions": [
+        {
+          "id": 1,
+          "statement": "Street painting began in the 6th century.",
+          "answer": "FALSE",
+          "explanation": "SAI. Bài nghe nói: 'In the 16th century artists began to draw' - Street painting bắt đầu từ thế kỷ 16, không phải thế kỷ 6."
+        },
+        {
+          "id": 2,
+          "statement": "At a street painting event you can become an artist.",
+          "answer": "TRUE",
+          "explanation": "ĐÚNG. Bài nghe nói: 'So join in and become an artist yourself!' - Hãy tham gia và trở thành một nghệ sĩ!"
+        },
+        {
+          "id": 3,
+          "statement": "The Lake Worth Street Painting Festival happens every month.",
+          "answer": "FALSE",
+          "explanation": "SAI. Bài nghe nói: 'now occurs every February' - Lễ hội diễn ra HÀNG NĂM vào tháng 2, không phải hàng tháng."
+        },
+        {
+          "id": 4,
+          "statement": "About 6,000 artists take part in the Lake Worth Street Painting Festival.",
+          "answer": "FALSE",
+          "explanation": "SAI. Bài nghe nói: 'About 600 artists work on the pavement' - Khoảng 600 nghệ sĩ tham gia, không phải 6,000."
+        }
+      ],
+      "hints": ["Chú ý các con số", "16th century = thế kỷ 16"],
+      "points": 25
+    },
+    {
+      "id": "de3-q2",
+      "section": "ĐỀ 3 - Question 2",
+      "type": "listening",
+      "subtype": "multiple-choice",
+      "title": "Listening - Minh's Area",
+      "instruction": "Nghe và chọn đáp án đúng",
+      "audioUrl": "https://img.loigiaihay.com/picture/2022/0712/036.mp3",
+      "audioSource": "Loigiaihay.com - Bài tập 225200",
+      "tapescript": "People in my area often have three meals a day: breakfast, lunch and dinner. For breakfast, we usually have pho or eel soup with bread. Sometimes we have instant noodles or xoi (sticky rice). Lunch often starts at 11:30 a.m. Most of us have lunch at home. We often have rice, fish, meat, and vegetables. Dinner is the main meal of the day. It's also the time when family members gather at home, so it takes a bit longer than the other meals. It often starts at around 7:30 p.m. We usually have rice with a lot of fresh vegetables and seafood or meat. We normally talk about everyday activities during the meal. Then we have some fruit and green tea. I think the food in my area is fabulous. It's very healthy and delicious.",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What do they usually have for breakfast?",
+          "options": ["beef noodle soup", "bread and milk", "pho or eel soup with bread", "rice or eel soup with bread"],
+          "correctIndex": 2,
+          "explanation": "Họ thường ăn phở hoặc cháo lươn với bánh mì cho bữa sáng."
+        },
+        {
+          "id": 2,
+          "question": "What time does lunch start?",
+          "options": ["at eleven", "at half past eleven", "at twelve", "at twelve thirty"],
+          "correctIndex": 1,
+          "explanation": "Bữa trưa bắt đầu lúc 11 giờ 30."
+        },
+        {
+          "id": 3,
+          "question": "What do they normally do during the meal?",
+          "options": ["have many dishes", "have rice with a lot of fresh vegetables and seafood", "have some fruit and green tea", "talk about everyday activities"],
+          "correctIndex": 3,
+          "explanation": "Trong bữa ăn, họ thường nói chuyện về các hoạt động hàng ngày."
+        },
+        {
+          "id": 4,
+          "question": "What does the writer think about the food in his area?",
+          "options": ["fresh", "good", "fabulous", "unhealthy"],
+          "correctIndex": 2,
+          "explanation": "Tác giả nghĩ đồ ăn ở vùng anh ấy rất tuyệt vời (fabulous)."
+        }
+      ],
+      "hints": ["Chú ý thông tin về bữa ăn và thời gian"],
+      "points": 25
+    },
+    {
+      "id": "de3-q3",
+      "section": "ĐỀ 3 - Question 3",
+      "type": "reading-comprehension",
+      "title": "Reading - Pho (Fill in the blanks)",
+      "passage": [
+        "Pho is a special kind of traditional Vietnamese dish. Its main (1)___ are rice noodles and slices of beef or chicken.",
+        "It is one of (2)___ common dishes you will find in Viet Nam. The rice noodles are made (3)___ the best kind of rice.",
+        "The meat (beef and chicken) (4)___ with pho is boneless and cut into thin slices."
+      ],
+      "questions": [
+        {
+          "id": 1,
+          "question": "Blank (1): Its main ___ are rice noodles",
+          "options": ["dishes", "ingredients", "recipes", "food"],
+          "correctIndex": 1,
+          "explanation": "Main INGREDIENTS = nguyên liệu chính."
+        },
+        {
+          "id": 2,
+          "question": "Blank (2): one of ___ common dishes",
+          "options": ["the most", "more", "most", "the more"],
+          "correctIndex": 0,
+          "explanation": "Cấu trúc: one of + THE MOST + adj + N = một trong những... nhất."
+        },
+        {
+          "id": 3,
+          "question": "Blank (3): made ___ the best kind of rice",
+          "options": ["from", "with", "to", "with"],
+          "correctIndex": 0,
+          "explanation": "Made FROM = được làm từ (khi nguyên liệu đã biến đổi)."
+        },
+        {
+          "id": 4,
+          "question": "Blank (4): The meat ___ with pho is boneless",
+          "options": ["to serve", "serving", "served", "serves"],
+          "correctIndex": 2,
+          "explanation": "SERVED là phân từ quá khứ dùng như tính từ bổ nghĩa cho 'meat'. The meat served with pho = thịt được phục vụ kèm phở."
+        }
+      ],
+      "hints": ["Chú ý cấu trúc so sánh nhất và giới từ"],
+      "points": 25
+    },
+    {
+      "id": "de3-q4",
+      "section": "ĐỀ 3 - Question 4",
+      "type": "reading-comprehension",
+      "title": "Reading - Imperial Academy",
+      "passage": [
+        "The Imperial Academy (Quoc Tu Giam) was the first university in Viet Nam. It was founded in 1076 by Emperor Ly Nhan Tong.",
+        "The Academy trained talented students for the country. One of the most famous teachers there was Chu Van An.",
+        "In 2003, four statues of Confucius, Chu Van An, and two other scholars were built. The Doctors' tablets at the Imperial Academy were recognized as a Memory of the World by UNESCO."
+      ],
+      "questions": [
+        {
+          "id": 1,
+          "question": "When was the Imperial Academy founded?",
+          "options": ["in 1070", "1076", "in 1999", "2003"],
+          "correctIndex": 1,
+          "explanation": "Quốc Tử Giám được thành lập năm 1076."
+        },
+        {
+          "id": 2,
+          "question": "Who was one of the most famous teachers?",
+          "options": ["Ly Nhan Tong", "Ly Thanh Tong", "Chu Van An", "Le Thanh Tong"],
+          "correctIndex": 2,
+          "explanation": "Chu Văn An là một trong những thầy giáo nổi tiếng nhất."
+        },
+        {
+          "id": 3,
+          "question": "When were four statues built?",
+          "options": ["in 1999", "2003", "2010", "1976"],
+          "correctIndex": 1,
+          "explanation": "Bốn bức tượng được xây dựng năm 2003."
+        },
+        {
+          "id": 4,
+          "question": "Which sentence is NOT TRUE?",
+          "options": ["Imperial Academy is the first university in Viet Nam", "Doctors' tablets were recognized by UNESCO", "Vietnamese scholars graduated there", "Imperial Academy was built by Le Thanh Tong"],
+          "correctIndex": 3,
+          "explanation": "SAI vì Quốc Tử Giám được xây bởi Lý Nhân Tông, không phải Lê Thánh Tông."
+        }
+      ],
+      "hints": ["Đọc kỹ thông tin về năm thành lập và người sáng lập"],
+      "points": 25
+    },
+    {
+      "id": "de3-q5-1",
+      "section": "ĐỀ 3 - Question 5",
+      "type": "multiple-choice",
+      "question": "The ___ has a fascinating collection of Picasso's paintings.",
+      "options": ["museum", "cinema", "theatre", "stadium"],
+      "correctIndex": 0,
+      "explanation": "Bạn có thể xem bộ sưu tập tranh Picasso ở BẢO TÀNG (museum).",
+      "hints": ["collection of paintings = bộ sưu tập tranh"],
+      "points": 10
+    },
+    {
+      "id": "de3-q5-2",
+      "section": "ĐỀ 3 - Question 5",
+      "type": "multiple-choice",
+      "question": "Julia doesn't usually ___ part in any of the class activities.",
+      "options": ["have", "put", "go", "take"],
+      "correctIndex": 3,
+      "explanation": "Cụm từ cố định: TAKE PART IN = tham gia.",
+      "hints": ["take part in = tham gia"],
+      "points": 10
+    },
+    {
+      "id": "de3-q5-3",
+      "section": "ĐỀ 3 - Question 5",
+      "type": "multiple-choice",
+      "question": "People in my city often have three ___ a day.",
+      "options": ["foods", "meals", "recipes", "dishes"],
+      "correctIndex": 1,
+      "explanation": "Three MEALS a day = ba bữa ăn một ngày.",
+      "hints": ["meal = bữa ăn"],
+      "points": 10
+    },
+    {
+      "id": "de3-q5-4",
+      "section": "ĐỀ 3 - Question 5",
+      "type": "multiple-choice",
+      "question": "My father ___ exercise every morning, so he is healthy.",
+      "options": ["is doing", "did", "does", "do"],
+      "correctIndex": 2,
+      "explanation": "Hiện tại đơn, ngôi 3 số ít với 'every morning': My father DOES exercise.",
+      "hints": ["every morning -> hiện tại đơn, he -> does"],
+      "points": 10
+    },
+    {
+      "id": "de3-q6-1",
+      "section": "ĐỀ 3 - Question 6",
+      "type": "sentence-rewrite",
+      "original": "This year's music contest is different from last year's.",
+      "instruction": "Viết lại câu sao cho nghĩa không đổi",
+      "starterText": "This year's music contest is",
+      "answer": "This year's music contest is not the same as last year's.",
+      "acceptedAnswers": [
+        "This year's music contest is not the same as last year's.",
+        "This year's music contest is not the same as last year's",
+        "This year's music contest isn't the same as last year's.",
+        "This year's music contest isn't the same as last year's"
+      ],
+      "explanation": "'different from' = 'not the same as'.",
+      "hints": ["different from = not the same as"],
+      "points": 10
+    },
+    {
+      "id": "de3-q6-2",
+      "section": "ĐỀ 3 - Question 6",
+      "type": "sentence-rewrite",
+      "original": "Your bag is not as heavy as my bag.",
+      "instruction": "Viết lại câu sao cho nghĩa không đổi",
+      "starterText": "My bag is",
+      "answer": "My bag is heavier than your bag.",
+      "acceptedAnswers": [
+        "My bag is heavier than your bag.",
+        "My bag is heavier than your bag",
+        "My bag is heavier than yours.",
+        "My bag is heavier than yours"
+      ],
+      "explanation": "A is not as adj as B = B is adj-er than A.",
+      "hints": ["not as heavy as -> heavier than"],
+      "points": 10
+    },
+    {
+      "id": "de3-q6-3",
+      "section": "ĐỀ 3 - Question 6",
+      "type": "sentence-rewrite",
+      "original": "The second version of the play is not different from the first.",
+      "instruction": "Viết lại câu sao cho nghĩa không đổi",
+      "starterText": "The second version of the play is",
+      "answer": "The second version of the play is the same as the first.",
+      "acceptedAnswers": [
+        "The second version of the play is the same as the first.",
+        "The second version of the play is the same as the first"
+      ],
+      "explanation": "'not different from' = 'the same as'.",
+      "hints": ["not different from = the same as"],
+      "points": 10
+    },
+    {
+      "id": "de3-q6-4",
+      "section": "ĐỀ 3 - Question 6",
+      "type": "sentence-rewrite",
+      "original": "Pop music is more popular than rock music all over the world.",
+      "instruction": "Viết lại câu sao cho nghĩa không đổi",
+      "starterText": "Rock music is",
+      "answer": "Rock music is not as popular as pop music all over the world.",
+      "acceptedAnswers": [
+        "Rock music is not as popular as pop music all over the world.",
+        "Rock music is not as popular as pop music all over the world",
+        "Rock music isn't as popular as pop music all over the world.",
+        "Rock music isn't as popular as pop music all over the world",
+        "Rock music is less popular than pop music all over the world.",
+        "Rock music is less popular than pop music all over the world"
+      ],
+      "explanation": "A is more adj than B = B is not as adj as A.",
+      "hints": ["Dùng 'not as...as' hoặc 'less...than'"],
+      "points": 10
+    },
+    {
+      "id": "de3-q7-1",
+      "section": "ĐỀ 3 - Question 7",
+      "type": "fill-blank",
+      "question": "I usually (get up) ___ late on Sundays.",
+      "answer": "get up",
+      "acceptedAnswers": ["get up"],
+      "explanation": "Hiện tại đơn với 'usually': I usually GET UP late on Sundays.",
+      "hints": ["usually -> hiện tại đơn, I -> V nguyên mẫu"],
+      "points": 10
+    },
+    {
+      "id": "de3-q7-2",
+      "section": "ĐỀ 3 - Question 7",
+      "type": "fill-blank",
+      "question": "___ she (like) ___ reading books?",
+      "answer": "Does, like",
+      "acceptedAnswers": ["Does, like", "Does - like", "Does/like", "Does she like"],
+      "explanation": "Hiện tại đơn dạng hỏi: DOES she LIKE reading books?",
+      "hints": ["Câu hỏi hiện tại đơn: Do/Does + S + V?"],
+      "points": 10
+    },
+    {
+      "id": "de3-q7-3",
+      "section": "ĐỀ 3 - Question 7",
+      "type": "fill-blank",
+      "question": "The children (play) ___ football at the moment.",
+      "answer": "are playing",
+      "acceptedAnswers": ["are playing"],
+      "explanation": "Hiện tại tiếp diễn với 'at the moment': The children ARE PLAYING football.",
+      "hints": ["at the moment -> hiện tại tiếp diễn"],
+      "points": 10
+    },
+    {
+      "id": "de3-q7-4",
+      "section": "ĐỀ 3 - Question 7",
+      "type": "fill-blank",
+      "question": "Ha (not write) ___ a letter last summer.",
+      "answer": "didn't write",
+      "acceptedAnswers": ["didn't write", "did not write"],
+      "explanation": "Quá khứ đơn phủ định với 'last summer': Ha DIDN'T WRITE a letter.",
+      "hints": ["last summer -> quá khứ đơn, phủ định -> didn't + V"],
+      "points": 10
+    },
+    {
+      "id": "de3-q8-1",
+      "section": "ĐỀ 3 - Question 8",
+      "type": "sentence-build",
+      "prompt": "He / love / make / dollhouses / postcards.",
+      "instructions": "Viết câu hoàn chỉnh từ các từ gợi ý",
+      "answer": "He loves making dollhouses and postcards.",
+      "acceptedAnswers": [
+        "He loves making dollhouses and postcards.",
+        "He loves making dollhouses and postcards"
+      ],
+      "explanation": "love + V-ing: He loves making. Liên kết 2 danh từ bằng 'and'.",
+      "hints": ["love + V-ing"],
+      "points": 10
+    },
+    {
+      "id": "de3-q8-2",
+      "section": "ĐỀ 3 - Question 8",
+      "type": "sentence-build",
+      "prompt": "How / you / help / people / flooded areas / last year?",
+      "instructions": "Viết câu hoàn chỉnh từ các từ gợi ý",
+      "answer": "How did you help people in flooded areas last year?",
+      "acceptedAnswers": [
+        "How did you help people in flooded areas last year?",
+        "How did you help people in flooded areas last year"
+      ],
+      "explanation": "Câu hỏi quá khứ đơn: How did you + V?",
+      "hints": ["last year -> quá khứ đơn, câu hỏi -> did"],
+      "points": 10
+    },
+    {
+      "id": "de3-q8-3",
+      "section": "ĐỀ 3 - Question 8",
+      "type": "sentence-build",
+      "prompt": "His hobbies / be / collecting postcards / taking photos.",
+      "instructions": "Viết câu hoàn chỉnh từ các từ gợi ý",
+      "answer": "His hobbies are collecting postcards and taking photos.",
+      "acceptedAnswers": [
+        "His hobbies are collecting postcards and taking photos.",
+        "His hobbies are collecting postcards and taking photos"
+      ],
+      "explanation": "Số nhiều (hobbies) -> are. Liên kết bằng 'and'.",
+      "hints": ["hobbies -> are"],
+      "points": 10
+    },
+    {
+      "id": "de3-q8-4",
+      "section": "ĐỀ 3 - Question 8",
+      "type": "sentence-build",
+      "prompt": "Last summer / we / teach / English / children / a primary school.",
+      "instructions": "Viết câu hoàn chỉnh từ các từ gợi ý",
+      "answer": "Last summer, we taught English to children at a primary school.",
+      "acceptedAnswers": [
+        "Last summer, we taught English to children at a primary school.",
+        "Last summer, we taught English to children at a primary school",
+        "Last summer we taught English to children at a primary school.",
+        "Last summer we taught English to children at a primary school"
+      ],
+      "explanation": "Quá khứ đơn: teach -> taught. Giới từ: to children, at a primary school.",
+      "hints": ["Last summer -> quá khứ đơn, teach -> taught"],
+      "points": 10
+    }
+  ]
+}

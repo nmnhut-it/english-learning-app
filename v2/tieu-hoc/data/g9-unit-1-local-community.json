@@ -1,0 +1,1554 @@
+{
+  "unitId": "g9-unit-1-local-community",
+  "title": "Grade 9 - Unit 1: Local Community",
+  "grammarTopics": ["Question Words Before To-Infinitives", "Phrasal Verbs"],
+  "theory": {
+    "brief": "Unit 1 học về cộng đồng địa phương với 2 chủ điểm ngữ pháp chính: (1) Từ để hỏi + to-V (question word + to-infinitive) dùng để diễn đạt câu hỏi gián tiếp về việc nên làm gì, và (2) Phrasal verbs (cụm động từ) gồm động từ + giới từ/trạng từ tạo thành nghĩa đặc biệt.",
+    "examples": [
+      "I don't know what to do. (Tôi không biết phải làm gì.)",
+      "She asked me where to go. (Cô ấy hỏi tôi nên đi đâu.)",
+      "We look after our grandparents. (Chúng tôi chăm sóc ông bà.)",
+      "They get on with their neighbors. (Họ hòa thuận với hàng xóm.)"
+    ]
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "type": "multiple-choice",
+      "question": "I don't know __________ this traditional craft.",
+      "options": ["how to make", "to make how", "how making", "make how"],
+      "correctIndex": 0,
+      "explanation": "Từ để hỏi + to-V: how to + động từ nguyên thể",
+      "hints": ["Cấu trúc: question word + to + V0"],
+      "points": 10
+    },
+    {
+      "id": 2,
+      "type": "multiple-choice",
+      "question": "She asked me __________ for help.",
+      "options": ["who contact", "who to contact", "to contact who", "whom contact"],
+      "correctIndex": 1,
+      "explanation": "Question word + to-infinitive: who/whom to contact",
+      "hints": ["who/whom + to + động từ"],
+      "points": 10
+    },
+    {
+      "id": 3,
+      "type": "multiple-choice",
+      "question": "They haven't decided __________ the community meeting.",
+      "options": ["when to hold", "to hold when", "when holding", "hold when"],
+      "correctIndex": 0,
+      "explanation": "Sau 'decide' dùng question word + to-V",
+      "hints": ["when + to + V0"],
+      "points": 10
+    },
+    {
+      "id": 4,
+      "type": "multiple-choice",
+      "question": "Could you tell me __________ this pottery vase?",
+      "options": ["where buy", "where to buy", "to buy where", "buy where"],
+      "correctIndex": 1,
+      "explanation": "Question word + to-infinitive sau 'tell'",
+      "hints": ["where + to + V0"],
+      "points": 10
+    },
+    {
+      "id": 5,
+      "type": "multiple-choice",
+      "question": "We are wondering __________ our traditional festival.",
+      "options": ["how preserve", "how to preserve", "to preserve how", "preserving how"],
+      "correctIndex": 1,
+      "explanation": "Sau 'wonder' dùng how + to-V",
+      "hints": ["how + to + động từ nguyên thể"],
+      "points": 10
+    },
+    {
+      "id": 6,
+      "type": "multiple-choice",
+      "question": "The artisan showed us __________ the clay pot.",
+      "options": ["how shape", "to shape how", "how to shape", "shaping how"],
+      "correctIndex": 2,
+      "explanation": "Show somebody + question word + to-V",
+      "hints": ["how + to + V0"],
+      "points": 10
+    },
+    {
+      "id": 7,
+      "type": "multiple-choice",
+      "question": "I'm not sure __________ in this traditional costume.",
+      "options": ["what wear", "what to wear", "to wear what", "wear what"],
+      "correctIndex": 1,
+      "explanation": "Question word + to-V: what to wear",
+      "hints": ["what + to + động từ"],
+      "points": 10
+    },
+    {
+      "id": 8,
+      "type": "multiple-choice",
+      "question": "Can you show me __________ to the community center?",
+      "options": ["how get", "how to get", "to get how", "getting how"],
+      "correctIndex": 1,
+      "explanation": "How + to-infinitive để chỉ cách thức",
+      "hints": ["how + to + V0"],
+      "points": 10
+    },
+    {
+      "id": 9,
+      "type": "multiple-choice",
+      "question": "The children __________ well with each other in the village.",
+      "options": ["get on", "get off", "get up", "get down"],
+      "correctIndex": 0,
+      "explanation": "Get on with = hòa thuận với ai đó",
+      "hints": ["Phrasal verb nghĩa là 'hòa thuận'"],
+      "points": 10
+    },
+    {
+      "id": 10,
+      "type": "multiple-choice",
+      "question": "My grandmother often __________ my younger sister when my parents are busy.",
+      "options": ["looks up", "looks after", "looks for", "looks at"],
+      "correctIndex": 1,
+      "explanation": "Look after = chăm sóc ai đó",
+      "hints": ["Phrasal verb nghĩa là 'chăm sóc'"],
+      "points": 10
+    },
+    {
+      "id": 11,
+      "type": "multiple-choice",
+      "question": "We should __________ this tradition for future generations.",
+      "options": ["hand down", "hand up", "hand in", "hand out"],
+      "correctIndex": 0,
+      "explanation": "Hand down = truyền lại (truyền thống, di sản)",
+      "hints": ["Phrasal verb nghĩa là 'truyền lại'"],
+      "points": 10
+    },
+    {
+      "id": 12,
+      "type": "multiple-choice",
+      "question": "The community project was __________ by local volunteers.",
+      "options": ["set up", "set down", "set off", "set in"],
+      "correctIndex": 0,
+      "explanation": "Set up = thành lập, thiết lập",
+      "hints": ["Phrasal verb nghĩa là 'thành lập'"],
+      "points": 10
+    },
+    {
+      "id": 13,
+      "type": "multiple-choice",
+      "question": "I'm __________ information about traditional crafts in our area.",
+      "options": ["looking after", "looking for", "looking up", "looking forward"],
+      "correctIndex": 1,
+      "explanation": "Look for = tìm kiếm",
+      "hints": ["Phrasal verb nghĩa là 'tìm kiếm'"],
+      "points": 10
+    },
+    {
+      "id": 14,
+      "type": "multiple-choice",
+      "question": "The old factory was __________ to build a community park.",
+      "options": ["pulled down", "pulled up", "pulled in", "pulled off"],
+      "correctIndex": 0,
+      "explanation": "Pull down = phá bỏ (tòa nhà)",
+      "hints": ["Phrasal verb nghĩa là 'phá bỏ'"],
+      "points": 10
+    },
+    {
+      "id": 15,
+      "type": "multiple-choice",
+      "question": "She __________ the word 'artisan' in the dictionary.",
+      "options": ["looked after", "looked for", "looked up", "looked at"],
+      "correctIndex": 2,
+      "explanation": "Look up = tra cứu (từ điển, thông tin)",
+      "hints": ["Phrasal verb nghĩa là 'tra cứu'"],
+      "points": 10
+    },
+    {
+      "id": 16,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["I", "don't", "know", "where", "to", "find", "a", "good", "artisan"],
+      "distractors": ["where", "finding", "found"],
+      "correctSentence": "I don't know where to find a good artisan",
+      "acceptedAnswers": [
+        "I don't know where to find a good artisan",
+        "I don't know where to find a good artisan."
+      ],
+      "hints": ["where + to + động từ nguyên thể"],
+      "points": 10
+    },
+    {
+      "id": 17,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["She", "asked", "me", "how", "to", "make", "pottery"],
+      "distractors": ["making", "made", "makes"],
+      "correctSentence": "She asked me how to make pottery",
+      "acceptedAnswers": [
+        "She asked me how to make pottery",
+        "She asked me how to make pottery."
+      ],
+      "hints": ["how + to + V0"],
+      "points": 10
+    },
+    {
+      "id": 18,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["They", "haven't", "decided", "when", "to", "visit", "the", "craft", "village"],
+      "distractors": ["visiting", "visits", "visited"],
+      "correctSentence": "They haven't decided when to visit the craft village",
+      "acceptedAnswers": [
+        "They haven't decided when to visit the craft village",
+        "They haven't decided when to visit the craft village."
+      ],
+      "hints": ["when + to + động từ"],
+      "points": 10
+    },
+    {
+      "id": 19,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["Can", "you", "tell", "me", "what", "to", "do", "next"],
+      "distractors": ["doing", "does", "did"],
+      "correctSentence": "Can you tell me what to do next",
+      "acceptedAnswers": [
+        "Can you tell me what to do next",
+        "Can you tell me what to do next?",
+        "Can you tell me what to do next."
+      ],
+      "hints": ["what + to + V0"],
+      "points": 10
+    },
+    {
+      "id": 20,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["We", "get", "on", "well", "with", "our", "neighbors"],
+      "distractors": ["gets", "getting", "got"],
+      "correctSentence": "We get on well with our neighbors",
+      "acceptedAnswers": [
+        "We get on well with our neighbors",
+        "We get on well with our neighbors."
+      ],
+      "hints": ["get on with = hòa thuận với"],
+      "points": 10
+    },
+    {
+      "id": 21,
+      "type": "multiple-choice",
+      "question": "Could you show me __________ to weave this basket?",
+      "options": ["how", "how to", "what", "what to"],
+      "correctIndex": 1,
+      "explanation": "How to + động từ = cách làm gì",
+      "hints": ["Câu hỏi về cách thức"],
+      "points": 10
+    },
+    {
+      "id": 22,
+      "type": "multiple-choice",
+      "question": "The elders __________ their knowledge to the younger generation.",
+      "options": ["pass down", "pass up", "pass by", "pass through"],
+      "correctIndex": 0,
+      "explanation": "Pass down = truyền lại (kiến thức, kỹ năng)",
+      "hints": ["Nghĩa 'truyền lại cho thế hệ sau'"],
+      "points": 10
+    },
+    {
+      "id": 23,
+      "type": "multiple-choice",
+      "question": "We need to __________ ways to preserve our local culture.",
+      "options": ["find out", "find up", "find down", "find off"],
+      "correctIndex": 0,
+      "explanation": "Find out = tìm ra, khám phá",
+      "hints": ["Phrasal verb nghĩa 'tìm ra'"],
+      "points": 10
+    },
+    {
+      "id": 24,
+      "type": "multiple-choice",
+      "question": "The community center __________ activities for teenagers every weekend.",
+      "options": ["puts on", "puts off", "puts up", "puts down"],
+      "correctIndex": 0,
+      "explanation": "Put on = tổ chức (sự kiện, hoạt động)",
+      "hints": ["Nghĩa 'tổ chức hoạt động'"],
+      "points": 10
+    },
+    {
+      "id": 25,
+      "type": "multiple-choice",
+      "question": "I need to __________ the meaning of 'craftsman' in this context.",
+      "options": ["work out", "work on", "work off", "work up"],
+      "correctIndex": 0,
+      "explanation": "Work out = tìm hiểu, hiểu ra",
+      "hints": ["Nghĩa 'hiểu ra, tìm ra nghĩa'"],
+      "points": 10
+    },
+    {
+      "id": 26,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["The", "artisan", "showed", "us", "how", "to", "carve", "wood"],
+      "distractors": ["carving", "carved", "carves"],
+      "correctSentence": "The artisan showed us how to carve wood",
+      "acceptedAnswers": [
+        "The artisan showed us how to carve wood",
+        "The artisan showed us how to carve wood."
+      ],
+      "hints": ["show somebody + how to + V0"],
+      "points": 10
+    },
+    {
+      "id": 27,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["My", "grandmother", "looks", "after", "the", "children", "every", "day"],
+      "distractors": ["looking", "looked", "look"],
+      "correctSentence": "My grandmother looks after the children every day",
+      "acceptedAnswers": [
+        "My grandmother looks after the children every day",
+        "My grandmother looks after the children every day."
+      ],
+      "hints": ["look after = chăm sóc"],
+      "points": 10
+    },
+    {
+      "id": 28,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["They", "set", "up", "a", "new", "workshop", "last", "month"],
+      "distractors": ["setting", "sets", "to set"],
+      "correctSentence": "They set up a new workshop last month",
+      "acceptedAnswers": [
+        "They set up a new workshop last month",
+        "They set up a new workshop last month."
+      ],
+      "hints": ["set up = thành lập"],
+      "points": 10
+    },
+    {
+      "id": 29,
+      "type": "multiple-choice",
+      "question": "We're trying to __________ the best way to promote our local crafts.",
+      "options": ["find out", "look up", "get on", "hand down"],
+      "correctIndex": 0,
+      "explanation": "Find out = tìm ra (giải pháp, cách thức)",
+      "hints": ["Nghĩa 'tìm ra, khám phá'"],
+      "points": 10
+    },
+    {
+      "id": 30,
+      "type": "multiple-choice",
+      "question": "He doesn't know __________ the traditional dance performance.",
+      "options": ["where watch", "where to watch", "to watch where", "watching where"],
+      "correctIndex": 1,
+      "explanation": "Where + to-infinitive",
+      "hints": ["where + to + V0"],
+      "points": 10
+    },
+    {
+      "id": 31,
+      "type": "multiple-choice",
+      "question": "The community __________ a craft fair every summer.",
+      "options": ["puts on", "puts off", "puts up", "puts down"],
+      "correctIndex": 0,
+      "explanation": "Put on = tổ chức (sự kiện)",
+      "hints": ["Nghĩa 'tổ chức'"],
+      "points": 10
+    },
+    {
+      "id": 32,
+      "type": "multiple-choice",
+      "question": "Can you tell me __________ this pottery?",
+      "options": ["how to make", "to make how", "how making", "make how"],
+      "correctIndex": 0,
+      "explanation": "How + to-infinitive",
+      "hints": ["how + to + V0"],
+      "points": 10
+    },
+    {
+      "id": 33,
+      "type": "multiple-choice",
+      "question": "They need to __________ who will lead the project.",
+      "options": ["find out", "look after", "get on", "hand down"],
+      "correctIndex": 0,
+      "explanation": "Find out = tìm ra, khám phá",
+      "hints": ["Nghĩa 'tìm ra'"],
+      "points": 10
+    },
+    {
+      "id": 34,
+      "type": "multiple-choice",
+      "question": "She learned __________ traditional baskets from her grandmother.",
+      "options": ["how weaving", "how to weave", "to weave how", "weaving how"],
+      "correctIndex": 1,
+      "explanation": "How + to-infinitive sau động từ learn",
+      "hints": ["learn + how to + V0"],
+      "points": 10
+    },
+    {
+      "id": 35,
+      "type": "multiple-choice",
+      "question": "My parents __________ well with all their neighbors.",
+      "options": ["get on", "get off", "get up", "get over"],
+      "correctIndex": 0,
+      "explanation": "Get on with = hòa thuận với",
+      "hints": ["Phrasal verb nghĩa 'hòa thuận'"],
+      "points": 10
+    },
+    {
+      "id": 36,
+      "type": "multiple-choice",
+      "question": "I wonder __________ about this issue.",
+      "options": ["what do", "what to do", "to do what", "doing what"],
+      "correctIndex": 1,
+      "explanation": "Wonder + what to do",
+      "hints": ["wonder + what + to + V0"],
+      "points": 10
+    },
+    {
+      "id": 37,
+      "type": "multiple-choice",
+      "question": "The elders __________ their traditions to young people.",
+      "options": ["pass down", "pass up", "pass by", "pass out"],
+      "correctIndex": 0,
+      "explanation": "Pass down = truyền lại",
+      "hints": ["Nghĩa 'truyền lại'"],
+      "points": 10
+    },
+    {
+      "id": 38,
+      "type": "multiple-choice",
+      "question": "They haven't decided __________ the festival.",
+      "options": ["when hold", "when to hold", "to hold when", "holding when"],
+      "correctIndex": 1,
+      "explanation": "When + to-infinitive",
+      "hints": ["when + to + V0"],
+      "points": 10
+    },
+    {
+      "id": 39,
+      "type": "multiple-choice",
+      "question": "We __________ the meaning of that word in the dictionary.",
+      "options": ["looked up", "looked after", "looked for", "looked at"],
+      "correctIndex": 0,
+      "explanation": "Look up = tra cứu (từ điển)",
+      "hints": ["Nghĩa 'tra cứu'"],
+      "points": 10
+    },
+    {
+      "id": 40,
+      "type": "multiple-choice",
+      "question": "She asked me __________ her with the homework.",
+      "options": ["how help", "how to help", "to help how", "helping how"],
+      "correctIndex": 1,
+      "explanation": "How + to-infinitive",
+      "hints": ["how + to + V0"],
+      "points": 10
+    },
+    {
+      "id": 41,
+      "type": "multiple-choice",
+      "question": "The old building was __________ last month.",
+      "options": ["pulled down", "pulled up", "pulled in", "pulled off"],
+      "correctIndex": 0,
+      "explanation": "Pull down = phá bỏ (tòa nhà)",
+      "hints": ["Nghĩa 'phá bỏ'"],
+      "points": 10
+    },
+    {
+      "id": 42,
+      "type": "multiple-choice",
+      "question": "Do you know __________ this machine?",
+      "options": ["how using", "how to use", "to use how", "use how"],
+      "correctIndex": 1,
+      "explanation": "Know + how to use",
+      "hints": ["know + how + to + V0"],
+      "points": 10
+    },
+    {
+      "id": 43,
+      "type": "multiple-choice",
+      "question": "The volunteers __________ a library for children.",
+      "options": ["set up", "set down", "set off", "set in"],
+      "correctIndex": 0,
+      "explanation": "Set up = thành lập, thiết lập",
+      "hints": ["Nghĩa 'thành lập'"],
+      "points": 10
+    },
+    {
+      "id": 44,
+      "type": "multiple-choice",
+      "question": "I need to __________ which course to choose.",
+      "options": ["decide", "decide to", "deciding", "decides"],
+      "correctIndex": 0,
+      "explanation": "Decide + which + to-infinitive",
+      "hints": ["decide + which course to choose"],
+      "points": 10
+    },
+    {
+      "id": 45,
+      "type": "multiple-choice",
+      "question": "She __________ her younger brother while her parents work.",
+      "options": ["looks after", "looks for", "looks up", "looks at"],
+      "correctIndex": 0,
+      "explanation": "Look after = chăm sóc",
+      "hints": ["Nghĩa 'chăm sóc'"],
+      "points": 10
+    },
+    {
+      "id": 46,
+      "type": "multiple-choice",
+      "question": "Could you show me __________ to the museum?",
+      "options": ["how getting", "how to get", "to get how", "getting how"],
+      "correctIndex": 1,
+      "explanation": "Show + how to get",
+      "hints": ["show + how + to + V0"],
+      "points": 10
+    },
+    {
+      "id": 47,
+      "type": "multiple-choice",
+      "question": "We're trying to __________ information about local history.",
+      "options": ["find out", "look up", "get on", "hand down"],
+      "correctIndex": 0,
+      "explanation": "Find out = tìm ra, khám phá",
+      "hints": ["Nghĩa 'tìm ra'"],
+      "points": 10
+    },
+    {
+      "id": 48,
+      "type": "multiple-choice",
+      "question": "I'm not sure __________ for the interview.",
+      "options": ["what wear", "what to wear", "to wear what", "wearing what"],
+      "correctIndex": 1,
+      "explanation": "What + to-infinitive",
+      "hints": ["what + to + V0"],
+      "points": 10
+    },
+    {
+      "id": 49,
+      "type": "multiple-choice",
+      "question": "He didn't __________ at the meeting yesterday.",
+      "options": ["turn up", "turn down", "turn on", "turn off"],
+      "correctIndex": 0,
+      "explanation": "Turn up = xuất hiện, đến",
+      "hints": ["Nghĩa 'xuất hiện'"],
+      "points": 10
+    },
+    {
+      "id": 50,
+      "type": "multiple-choice",
+      "question": "They explained __________ the traditional craft.",
+      "options": ["how preserve", "how to preserve", "to preserve how", "preserving how"],
+      "correctIndex": 1,
+      "explanation": "How + to-infinitive",
+      "hints": ["how + to + V0"],
+      "points": 10
+    },
+    {
+      "id": 51,
+      "type": "multiple-choice",
+      "question": "The company __________ the job offer because it was too low.",
+      "options": ["turned down", "turned up", "turned on", "turned off"],
+      "correctIndex": 0,
+      "explanation": "Turn down = từ chối",
+      "hints": ["Nghĩa 'từ chối'"],
+      "points": 10
+    },
+    {
+      "id": 52,
+      "type": "multiple-choice",
+      "question": "She understands __________ the problem.",
+      "options": ["how solving", "how to solve", "to solve how", "solve how"],
+      "correctIndex": 1,
+      "explanation": "Understand + how to solve",
+      "hints": ["understand + how + to + V0"],
+      "points": 10
+    },
+    {
+      "id": 53,
+      "type": "multiple-choice",
+      "question": "We're __________ a new community center.",
+      "options": ["looking for", "looking after", "looking up", "looking forward"],
+      "correctIndex": 0,
+      "explanation": "Look for = tìm kiếm",
+      "hints": ["Nghĩa 'tìm kiếm'"],
+      "points": 10
+    },
+    {
+      "id": 54,
+      "type": "multiple-choice",
+      "question": "Can you tell me __________ contact for more information?",
+      "options": ["who", "who to", "to who", "whom"],
+      "correctIndex": 1,
+      "explanation": "Who/whom + to-infinitive",
+      "hints": ["who + to + V0"],
+      "points": 10
+    },
+    {
+      "id": 55,
+      "type": "multiple-choice",
+      "question": "It took him a long time to __________ his illness.",
+      "options": ["get over", "get on", "get up", "get off"],
+      "correctIndex": 0,
+      "explanation": "Get over = vượt qua (khó khăn, bệnh tật)",
+      "hints": ["Nghĩa 'vượt qua'"],
+      "points": 10
+    },
+    {
+      "id": 56,
+      "type": "multiple-choice",
+      "question": "They are learning __________ traditional instruments.",
+      "options": ["how playing", "how to play", "to play how", "play how"],
+      "correctIndex": 1,
+      "explanation": "Learn + how to play",
+      "hints": ["learn + how + to + V0"],
+      "points": 10
+    },
+    {
+      "id": 57,
+      "type": "multiple-choice",
+      "question": "The teacher showed us __________ the answer.",
+      "options": ["how finding", "how to find", "to find how", "find how"],
+      "correctIndex": 1,
+      "explanation": "Show + how to find",
+      "hints": ["show + how + to + V0"],
+      "points": 10
+    },
+    {
+      "id": 58,
+      "type": "multiple-choice",
+      "question": "Our family __________ this recipe for generations.",
+      "options": ["has handed down", "has looked after", "has set up", "has turned down"],
+      "correctIndex": 0,
+      "explanation": "Hand down = truyền lại",
+      "hints": ["Nghĩa 'truyền lại'"],
+      "points": 10
+    },
+    {
+      "id": 59,
+      "type": "multiple-choice",
+      "question": "I don't know __________ start the project.",
+      "options": ["when", "when to", "to when", "when for"],
+      "correctIndex": 1,
+      "explanation": "When + to-infinitive",
+      "hints": ["when + to + V0"],
+      "points": 10
+    },
+    {
+      "id": 60,
+      "type": "multiple-choice",
+      "question": "They __________ the truth about what happened.",
+      "options": ["found out", "looked up", "got on", "handed down"],
+      "correctIndex": 0,
+      "explanation": "Find out = tìm ra, khám phá",
+      "hints": ["Nghĩa 'tìm ra'"],
+      "points": 10
+    },
+    {
+      "id": 61,
+      "type": "multiple-choice",
+      "question": "I wonder __________ buy fresh vegetables.",
+      "options": ["where", "where to", "to where", "where for"],
+      "correctIndex": 1,
+      "explanation": "Where + to-infinitive",
+      "hints": ["where + to + V0"],
+      "points": 10
+    },
+    {
+      "id": 62,
+      "type": "multiple-choice",
+      "question": "The organization was __________ ten years ago.",
+      "options": ["set up", "pulled down", "turned down", "got over"],
+      "correctIndex": 0,
+      "explanation": "Set up = thành lập",
+      "hints": ["Nghĩa 'thành lập'"],
+      "points": 10
+    },
+    {
+      "id": 63,
+      "type": "multiple-choice",
+      "question": "She knows __________ Vietnamese food.",
+      "options": ["how cooking", "how to cook", "to cook how", "cook how"],
+      "correctIndex": 1,
+      "explanation": "Know + how to cook",
+      "hints": ["know + how + to + V0"],
+      "points": 10
+    },
+    {
+      "id": 64,
+      "type": "multiple-choice",
+      "question": "We __________ our grandparents every weekend.",
+      "options": ["look after", "look for", "look up", "look forward"],
+      "correctIndex": 0,
+      "explanation": "Look after = chăm sóc",
+      "hints": ["Nghĩa 'chăm sóc'"],
+      "points": 10
+    },
+    {
+      "id": 65,
+      "type": "multiple-choice",
+      "question": "Do you know __________ this word?",
+      "options": ["what mean", "what means", "what to mean", "what it means"],
+      "correctIndex": 3,
+      "explanation": "Câu hỏi gián tiếp dùng what + S + V",
+      "hints": ["what + it + means"],
+      "points": 10
+    },
+    {
+      "id": 66,
+      "type": "multiple-choice",
+      "question": "The festival __________ thousands of visitors each year.",
+      "options": ["puts on", "pulls down", "turns down", "finds out"],
+      "correctIndex": 0,
+      "explanation": "Put on có thể nghĩa là tổ chức hoặc thu hút",
+      "hints": ["Put on"],
+      "points": 10
+    },
+    {
+      "id": 67,
+      "type": "multiple-choice",
+      "question": "He learned __________ a bike when he was five.",
+      "options": ["how riding", "how to ride", "to ride how", "ride how"],
+      "correctIndex": 1,
+      "explanation": "Learn + how to ride",
+      "hints": ["learn + how + to + V0"],
+      "points": 10
+    },
+    {
+      "id": 68,
+      "type": "multiple-choice",
+      "question": "They need to __________ how to solve this problem.",
+      "options": ["work out", "look after", "get on", "hand down"],
+      "correctIndex": 0,
+      "explanation": "Work out = tìm hiểu, giải quyết",
+      "hints": ["Nghĩa 'giải quyết'"],
+      "points": 10
+    },
+    {
+      "id": 69,
+      "type": "multiple-choice",
+      "question": "I can't decide __________ buy.",
+      "options": ["which", "which to", "to which", "which for"],
+      "correctIndex": 1,
+      "explanation": "Which + to-infinitive",
+      "hints": ["which + to + V0"],
+      "points": 10
+    },
+    {
+      "id": 70,
+      "type": "multiple-choice",
+      "question": "She __________ information in the encyclopedia.",
+      "options": ["looked up", "looked after", "looked for", "looked forward"],
+      "correctIndex": 0,
+      "explanation": "Look up = tra cứu",
+      "hints": ["Nghĩa 'tra cứu'"],
+      "points": 10
+    },
+    {
+      "id": 71,
+      "type": "multiple-choice",
+      "question": "We haven't figured out __________ the event.",
+      "options": ["where hold", "where to hold", "to hold where", "holding where"],
+      "correctIndex": 1,
+      "explanation": "Where + to-infinitive",
+      "hints": ["where + to + V0"],
+      "points": 10
+    },
+    {
+      "id": 72,
+      "type": "multiple-choice",
+      "question": "The craftsmen __________ their skills to apprentices.",
+      "options": ["pass down", "pull down", "turn down", "get over"],
+      "correctIndex": 0,
+      "explanation": "Pass down = truyền lại (kỹ năng, kiến thức)",
+      "hints": ["Nghĩa 'truyền lại'"],
+      "points": 10
+    },
+    {
+      "id": 73,
+      "type": "multiple-choice",
+      "question": "Could you explain __________ this device?",
+      "options": ["how using", "how to use", "to use how", "use how"],
+      "correctIndex": 1,
+      "explanation": "Explain + how to use",
+      "hints": ["explain + how + to + V0"],
+      "points": 10
+    },
+    {
+      "id": 74,
+      "type": "multiple-choice",
+      "question": "They __________ really well despite their differences.",
+      "options": ["get on", "get over", "get up", "get off"],
+      "correctIndex": 0,
+      "explanation": "Get on (with someone) = hòa thuận",
+      "hints": ["Nghĩa 'hòa thuận'"],
+      "points": 10
+    },
+    {
+      "id": 75,
+      "type": "multiple-choice",
+      "question": "I'm trying to __________ begin my presentation.",
+      "options": ["decide when", "decide when to", "deciding when", "decided when"],
+      "correctIndex": 1,
+      "explanation": "Decide + when to begin",
+      "hints": ["decide + when + to + V0"],
+      "points": 10
+    },
+    {
+      "id": 76,
+      "type": "multiple-choice",
+      "question": "The museum __________ an exhibition on local culture.",
+      "options": ["puts on", "pulls down", "turns down", "looks after"],
+      "correctIndex": 0,
+      "explanation": "Put on = tổ chức (triển lãm, sự kiện)",
+      "hints": ["Nghĩa 'tổ chức'"],
+      "points": 10
+    },
+    {
+      "id": 77,
+      "type": "multiple-choice",
+      "question": "She wants to learn __________ pottery.",
+      "options": ["how making", "how to make", "to make how", "make how"],
+      "correctIndex": 1,
+      "explanation": "Learn + how to make",
+      "hints": ["learn + how + to + V0"],
+      "points": 10
+    },
+    {
+      "id": 78,
+      "type": "multiple-choice",
+      "question": "We need to __________ a solution to this issue.",
+      "options": ["work out", "look up", "hand down", "turn down"],
+      "correctIndex": 0,
+      "explanation": "Work out = tìm ra (giải pháp)",
+      "hints": ["Nghĩa 'tìm ra giải pháp'"],
+      "points": 10
+    },
+    {
+      "id": 79,
+      "type": "multiple-choice",
+      "question": "I don't know __________ ask for advice.",
+      "options": ["who", "who to", "to who", "whom"],
+      "correctIndex": 1,
+      "explanation": "Who/whom + to-infinitive",
+      "hints": ["who + to + V0"],
+      "points": 10
+    },
+    {
+      "id": 80,
+      "type": "multiple-choice",
+      "question": "They're __________ their lost dog.",
+      "options": ["looking for", "looking after", "looking up", "looking forward"],
+      "correctIndex": 0,
+      "explanation": "Look for = tìm kiếm",
+      "hints": ["Nghĩa 'tìm kiếm'"],
+      "points": 10
+    },
+    {
+      "id": 81,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["I", "know", "how", "to", "swim"],
+      "distractors": ["swimming", "swims", "swam"],
+      "correctSentence": "I know how to swim",
+      "acceptedAnswers": [
+        "I know how to swim",
+        "I know how to swim."
+      ],
+      "hints": ["know + how + to + V0"],
+      "points": 10
+    },
+    {
+      "id": 82,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["She", "looks", "after", "her", "grandparents"],
+      "distractors": ["looking", "looked", "look"],
+      "correctSentence": "She looks after her grandparents",
+      "acceptedAnswers": [
+        "She looks after her grandparents",
+        "She looks after her grandparents."
+      ],
+      "hints": ["look after = chăm sóc"],
+      "points": 10
+    },
+    {
+      "id": 83,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["They", "set", "up", "a", "community", "garden"],
+      "distractors": ["setting", "sets", "to set"],
+      "correctSentence": "They set up a community garden",
+      "acceptedAnswers": [
+        "They set up a community garden",
+        "They set up a community garden."
+      ],
+      "hints": ["set up = thành lập"],
+      "points": 10
+    },
+    {
+      "id": 84,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["Do", "you", "know", "where", "to", "go"],
+      "distractors": ["going", "goes", "went"],
+      "correctSentence": "Do you know where to go",
+      "acceptedAnswers": [
+        "Do you know where to go",
+        "Do you know where to go?",
+        "Do you know where to go."
+      ],
+      "hints": ["where + to + V0"],
+      "points": 10
+    },
+    {
+      "id": 85,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["We", "get", "on", "well", "with", "each", "other"],
+      "distractors": ["getting", "gets", "got"],
+      "correctSentence": "We get on well with each other",
+      "acceptedAnswers": [
+        "We get on well with each other",
+        "We get on well with each other."
+      ],
+      "hints": ["get on with = hòa thuận"],
+      "points": 10
+    },
+    {
+      "id": 86,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["She", "asked", "me", "what", "to", "do"],
+      "distractors": ["doing", "does", "did"],
+      "correctSentence": "She asked me what to do",
+      "acceptedAnswers": [
+        "She asked me what to do",
+        "She asked me what to do."
+      ],
+      "hints": ["what + to + V0"],
+      "points": 10
+    },
+    {
+      "id": 87,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["They", "hand", "down", "traditions", "to", "their", "children"],
+      "distractors": ["handing", "hands", "handed"],
+      "correctSentence": "They hand down traditions to their children",
+      "acceptedAnswers": [
+        "They hand down traditions to their children",
+        "They hand down traditions to their children."
+      ],
+      "hints": ["hand down = truyền lại"],
+      "points": 10
+    },
+    {
+      "id": 88,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["Can", "you", "show", "me", "how", "to", "cook", "this"],
+      "distractors": ["cooking", "cooks", "cooked"],
+      "correctSentence": "Can you show me how to cook this",
+      "acceptedAnswers": [
+        "Can you show me how to cook this",
+        "Can you show me how to cook this?",
+        "Can you show me how to cook this."
+      ],
+      "hints": ["show + how + to + V0"],
+      "points": 10
+    },
+    {
+      "id": 89,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["I'm", "looking", "for", "my", "keys"],
+      "distractors": ["look", "looked", "looks"],
+      "correctSentence": "I'm looking for my keys",
+      "acceptedAnswers": [
+        "I'm looking for my keys",
+        "I'm looking for my keys."
+      ],
+      "hints": ["look for = tìm kiếm"],
+      "points": 10
+    },
+    {
+      "id": 90,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["He", "doesn't", "know", "when", "to", "leave"],
+      "distractors": ["leaving", "leaves", "left"],
+      "correctSentence": "He doesn't know when to leave",
+      "acceptedAnswers": [
+        "He doesn't know when to leave",
+        "He doesn't know when to leave."
+      ],
+      "hints": ["when + to + V0"],
+      "points": 10
+    },
+    {
+      "id": 91,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["The", "old", "factory", "was", "pulled", "down"],
+      "distractors": ["pulling", "pulls", "pull"],
+      "correctSentence": "The old factory was pulled down",
+      "acceptedAnswers": [
+        "The old factory was pulled down",
+        "The old factory was pulled down."
+      ],
+      "hints": ["pull down = phá bỏ"],
+      "points": 10
+    },
+    {
+      "id": 92,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["They", "need", "to", "find", "out", "the", "truth"],
+      "distractors": ["finding", "finds", "found"],
+      "correctSentence": "They need to find out the truth",
+      "acceptedAnswers": [
+        "They need to find out the truth",
+        "They need to find out the truth."
+      ],
+      "hints": ["find out = tìm ra"],
+      "points": 10
+    },
+    {
+      "id": 93,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["I", "wonder", "where", "to", "buy", "this"],
+      "distractors": ["buying", "buys", "bought"],
+      "correctSentence": "I wonder where to buy this",
+      "acceptedAnswers": [
+        "I wonder where to buy this",
+        "I wonder where to buy this."
+      ],
+      "hints": ["wonder + where + to + V0"],
+      "points": 10
+    },
+    {
+      "id": 94,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["She", "turned", "down", "the", "job", "offer"],
+      "distractors": ["turning", "turns", "turn"],
+      "correctSentence": "She turned down the job offer",
+      "acceptedAnswers": [
+        "She turned down the job offer",
+        "She turned down the job offer."
+      ],
+      "hints": ["turn down = từ chối"],
+      "points": 10
+    },
+    {
+      "id": 95,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["We", "looked", "up", "the", "word", "in", "the", "dictionary"],
+      "distractors": ["looking", "looks", "look"],
+      "correctSentence": "We looked up the word in the dictionary",
+      "acceptedAnswers": [
+        "We looked up the word in the dictionary",
+        "We looked up the word in the dictionary."
+      ],
+      "hints": ["look up = tra cứu"],
+      "points": 10
+    },
+    {
+      "id": 96,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["He", "learned", "how", "to", "play", "the", "guitar"],
+      "distractors": ["playing", "plays", "played"],
+      "correctSentence": "He learned how to play the guitar",
+      "acceptedAnswers": [
+        "He learned how to play the guitar",
+        "He learned how to play the guitar."
+      ],
+      "hints": ["learn + how + to + V0"],
+      "points": 10
+    },
+    {
+      "id": 97,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["The", "community", "puts", "on", "events", "every", "month"],
+      "distractors": ["putting", "put", "to put"],
+      "correctSentence": "The community puts on events every month",
+      "acceptedAnswers": [
+        "The community puts on events every month",
+        "The community puts on events every month."
+      ],
+      "hints": ["put on = tổ chức"],
+      "points": 10
+    },
+    {
+      "id": 98,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["I", "can't", "decide", "which", "to", "choose"],
+      "distractors": ["choosing", "chooses", "chose"],
+      "correctSentence": "I can't decide which to choose",
+      "acceptedAnswers": [
+        "I can't decide which to choose",
+        "I can't decide which to choose."
+      ],
+      "hints": ["which + to + V0"],
+      "points": 10
+    },
+    {
+      "id": 99,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["They", "got", "over", "the", "difficult", "situation"],
+      "distractors": ["getting", "gets", "get"],
+      "correctSentence": "They got over the difficult situation",
+      "acceptedAnswers": [
+        "They got over the difficult situation",
+        "They got over the difficult situation."
+      ],
+      "hints": ["get over = vượt qua"],
+      "points": 10
+    },
+    {
+      "id": 100,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["She", "showed", "me", "where", "to", "find", "it"],
+      "distractors": ["finding", "finds", "found"],
+      "correctSentence": "She showed me where to find it",
+      "acceptedAnswers": [
+        "She showed me where to find it",
+        "She showed me where to find it."
+      ],
+      "hints": ["show + where + to + V0"],
+      "points": 10
+    },
+    {
+      "id": 101,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["We", "pass", "down", "our", "culture", "to", "future", "generations"],
+      "distractors": ["passing", "passes", "passed"],
+      "correctSentence": "We pass down our culture to future generations",
+      "acceptedAnswers": [
+        "We pass down our culture to future generations",
+        "We pass down our culture to future generations."
+      ],
+      "hints": ["pass down = truyền lại"],
+      "points": 10
+    },
+    {
+      "id": 102,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["Do", "you", "know", "who", "to", "contact"],
+      "distractors": ["contacting", "contacts", "contacted"],
+      "correctSentence": "Do you know who to contact",
+      "acceptedAnswers": [
+        "Do you know who to contact",
+        "Do you know who to contact?",
+        "Do you know who to contact."
+      ],
+      "hints": ["who + to + V0"],
+      "points": 10
+    },
+    {
+      "id": 103,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["He", "didn't", "turn", "up", "at", "the", "party"],
+      "distractors": ["turning", "turns", "turned"],
+      "correctSentence": "He didn't turn up at the party",
+      "acceptedAnswers": [
+        "He didn't turn up at the party",
+        "He didn't turn up at the party."
+      ],
+      "hints": ["turn up = xuất hiện"],
+      "points": 10
+    },
+    {
+      "id": 104,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["They", "work", "out", "the", "problem", "together"],
+      "distractors": ["working", "works", "worked"],
+      "correctSentence": "They work out the problem together",
+      "acceptedAnswers": [
+        "They work out the problem together",
+        "They work out the problem together."
+      ],
+      "hints": ["work out = giải quyết"],
+      "points": 10
+    },
+    {
+      "id": 105,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["I", "need", "to", "know", "how", "to", "start"],
+      "distractors": ["starting", "starts", "started"],
+      "correctSentence": "I need to know how to start",
+      "acceptedAnswers": [
+        "I need to know how to start",
+        "I need to know how to start."
+      ],
+      "hints": ["know + how + to + V0"],
+      "points": 10
+    },
+    {
+      "id": 106,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["The", "volunteers", "set", "up", "a", "food", "bank"],
+      "distractors": ["setting", "sets", "to set"],
+      "correctSentence": "The volunteers set up a food bank",
+      "acceptedAnswers": [
+        "The volunteers set up a food bank",
+        "The volunteers set up a food bank."
+      ],
+      "hints": ["set up = thành lập"],
+      "points": 10
+    },
+    {
+      "id": 107,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["She", "is", "looking", "for", "a", "new", "job"],
+      "distractors": ["look", "looked", "looks"],
+      "correctSentence": "She is looking for a new job",
+      "acceptedAnswers": [
+        "She is looking for a new job",
+        "She is looking for a new job."
+      ],
+      "hints": ["look for = tìm kiếm"],
+      "points": 10
+    },
+    {
+      "id": 108,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["They", "haven't", "decided", "what", "to", "eat"],
+      "distractors": ["eating", "eats", "ate"],
+      "correctSentence": "They haven't decided what to eat",
+      "acceptedAnswers": [
+        "They haven't decided what to eat",
+        "They haven't decided what to eat."
+      ],
+      "hints": ["what + to + V0"],
+      "points": 10
+    },
+    {
+      "id": 109,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["My", "grandmother", "hands", "down", "her", "recipes"],
+      "distractors": ["handing", "hand", "handed"],
+      "correctSentence": "My grandmother hands down her recipes",
+      "acceptedAnswers": [
+        "My grandmother hands down her recipes",
+        "My grandmother hands down her recipes."
+      ],
+      "hints": ["hand down = truyền lại"],
+      "points": 10
+    },
+    {
+      "id": 110,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["Can", "you", "tell", "me", "when", "to", "arrive"],
+      "distractors": ["arriving", "arrives", "arrived"],
+      "correctSentence": "Can you tell me when to arrive",
+      "acceptedAnswers": [
+        "Can you tell me when to arrive",
+        "Can you tell me when to arrive?",
+        "Can you tell me when to arrive."
+      ],
+      "hints": ["when + to + V0"],
+      "points": 10
+    },
+    {
+      "id": 111,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["We", "found", "out", "the", "answer"],
+      "distractors": ["finding", "finds", "find"],
+      "correctSentence": "We found out the answer",
+      "acceptedAnswers": [
+        "We found out the answer",
+        "We found out the answer."
+      ],
+      "hints": ["find out = tìm ra"],
+      "points": 10
+    },
+    {
+      "id": 112,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["He", "gets", "on", "with", "his", "colleagues"],
+      "distractors": ["getting", "get", "got"],
+      "correctSentence": "He gets on with his colleagues",
+      "acceptedAnswers": [
+        "He gets on with his colleagues",
+        "He gets on with his colleagues."
+      ],
+      "hints": ["get on with = hòa thuận"],
+      "points": 10
+    },
+    {
+      "id": 113,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["I", "understand", "how", "to", "solve", "this"],
+      "distractors": ["solving", "solves", "solved"],
+      "correctSentence": "I understand how to solve this",
+      "acceptedAnswers": [
+        "I understand how to solve this",
+        "I understand how to solve this."
+      ],
+      "hints": ["understand + how + to + V0"],
+      "points": 10
+    },
+    {
+      "id": 114,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["They", "look", "after", "stray", "animals"],
+      "distractors": ["looking", "looked", "looks"],
+      "correctSentence": "They look after stray animals",
+      "acceptedAnswers": [
+        "They look after stray animals",
+        "They look after stray animals."
+      ],
+      "hints": ["look after = chăm sóc"],
+      "points": 10
+    },
+    {
+      "id": 115,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["She", "asked", "where", "to", "park", "the", "car"],
+      "distractors": ["parking", "parks", "parked"],
+      "correctSentence": "She asked where to park the car",
+      "acceptedAnswers": [
+        "She asked where to park the car",
+        "She asked where to park the car."
+      ],
+      "hints": ["where + to + V0"],
+      "points": 10
+    },
+    {
+      "id": 116,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["The", "old", "building", "will", "be", "pulled", "down"],
+      "distractors": ["pulling", "pulls", "pull"],
+      "correctSentence": "The old building will be pulled down",
+      "acceptedAnswers": [
+        "The old building will be pulled down",
+        "The old building will be pulled down."
+      ],
+      "hints": ["pull down = phá bỏ"],
+      "points": 10
+    },
+    {
+      "id": 117,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["We", "need", "to", "work", "out", "a", "plan"],
+      "distractors": ["working", "works", "worked"],
+      "correctSentence": "We need to work out a plan",
+      "acceptedAnswers": [
+        "We need to work out a plan",
+        "We need to work out a plan."
+      ],
+      "hints": ["work out = tìm ra"],
+      "points": 10
+    },
+    {
+      "id": 118,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["I", "wonder", "how", "to", "fix", "this"],
+      "distractors": ["fixing", "fixes", "fixed"],
+      "correctSentence": "I wonder how to fix this",
+      "acceptedAnswers": [
+        "I wonder how to fix this",
+        "I wonder how to fix this."
+      ],
+      "hints": ["wonder + how + to + V0"],
+      "points": 10
+    },
+    {
+      "id": 119,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["They", "put", "on", "a", "great", "show"],
+      "distractors": ["putting", "puts", "to put"],
+      "correctSentence": "They put on a great show",
+      "acceptedAnswers": [
+        "They put on a great show",
+        "They put on a great show."
+      ],
+      "hints": ["put on = tổ chức"],
+      "points": 10
+    },
+    {
+      "id": 120,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["He", "turned", "down", "the", "invitation"],
+      "distractors": ["turning", "turns", "turn"],
+      "correctSentence": "He turned down the invitation",
+      "acceptedAnswers": [
+        "He turned down the invitation",
+        "He turned down the invitation."
+      ],
+      "hints": ["turn down = từ chối"],
+      "points": 10
+    },
+    {
+      "id": 121,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["She", "knows", "what", "to", "say"],
+      "distractors": ["saying", "says", "said"],
+      "correctSentence": "She knows what to say",
+      "acceptedAnswers": [
+        "She knows what to say",
+        "She knows what to say."
+      ],
+      "hints": ["what + to + V0"],
+      "points": 10
+    },
+    {
+      "id": 122,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["They", "get", "over", "their", "problems", "quickly"],
+      "distractors": ["getting", "gets", "got"],
+      "correctSentence": "They get over their problems quickly",
+      "acceptedAnswers": [
+        "They get over their problems quickly",
+        "They get over their problems quickly."
+      ],
+      "hints": ["get over = vượt qua"],
+      "points": 10
+    },
+    {
+      "id": 123,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["I", "looked", "up", "his", "phone", "number"],
+      "distractors": ["looking", "looks", "look"],
+      "correctSentence": "I looked up his phone number",
+      "acceptedAnswers": [
+        "I looked up his phone number",
+        "I looked up his phone number."
+      ],
+      "hints": ["look up = tra cứu"],
+      "points": 10
+    },
+    {
+      "id": 124,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["Can", "you", "teach", "me", "how", "to", "dance"],
+      "distractors": ["dancing", "dances", "danced"],
+      "correctSentence": "Can you teach me how to dance",
+      "acceptedAnswers": [
+        "Can you teach me how to dance",
+        "Can you teach me how to dance?",
+        "Can you teach me how to dance."
+      ],
+      "hints": ["teach + how + to + V0"],
+      "points": 10
+    },
+    {
+      "id": 125,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["The", "elders", "pass", "down", "their", "wisdom"],
+      "distractors": ["passing", "passes", "passed"],
+      "correctSentence": "The elders pass down their wisdom",
+      "acceptedAnswers": [
+        "The elders pass down their wisdom",
+        "The elders pass down their wisdom."
+      ],
+      "hints": ["pass down = truyền lại"],
+      "points": 10
+    },
+    {
+      "id": 126,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["We", "are", "looking", "for", "volunteers"],
+      "distractors": ["look", "looked", "looks"],
+      "correctSentence": "We are looking for volunteers",
+      "acceptedAnswers": [
+        "We are looking for volunteers",
+        "We are looking for volunteers."
+      ],
+      "hints": ["look for = tìm kiếm"],
+      "points": 10
+    },
+    {
+      "id": 127,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["He", "explained", "how", "to", "use", "the", "app"],
+      "distractors": ["using", "uses", "used"],
+      "correctSentence": "He explained how to use the app",
+      "acceptedAnswers": [
+        "He explained how to use the app",
+        "He explained how to use the app."
+      ],
+      "hints": ["explain + how + to + V0"],
+      "points": 10
+    },
+    {
+      "id": 128,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["They", "set", "up", "the", "tent", "quickly"],
+      "distractors": ["setting", "sets", "to set"],
+      "correctSentence": "They set up the tent quickly",
+      "acceptedAnswers": [
+        "They set up the tent quickly",
+        "They set up the tent quickly."
+      ],
+      "hints": ["set up = dựng lên, thiết lập"],
+      "points": 10
+    },
+    {
+      "id": 129,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["I", "don't", "know", "which", "way", "to", "go"],
+      "distractors": ["going", "goes", "went"],
+      "correctSentence": "I don't know which way to go",
+      "acceptedAnswers": [
+        "I don't know which way to go",
+        "I don't know which way to go."
+      ],
+      "hints": ["which + to + V0"],
+      "points": 10
+    },
+    {
+      "id": 130,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["She", "finally", "got", "over", "her", "fear"],
+      "distractors": ["getting", "gets", "get"],
+      "correctSentence": "She finally got over her fear",
+      "acceptedAnswers": [
+        "She finally got over her fear",
+        "She finally got over her fear."
+      ],
+      "hints": ["get over = vượt qua"],
+      "points": 10
+    }
+  ]
+}

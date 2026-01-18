@@ -4,7 +4,7 @@
 
 <!-- chunk: intro -->
 <teacher_script pause="0">
-Chào các em. Hôm nay mình qua phần <eng>A Closer Look 1</eng>. Bài này sẽ học thêm từ vựng về môi trường và phát âm hai cụm phụ âm /bl/ và /kl/. Mở sách trang 74 nha.
+Chào các em. Chào mừng các em đến với bài học hôm nay. Mời các em mở sách giáo khoa.
 </teacher_script>
 
 ---
@@ -22,7 +22,7 @@ Chào các em. Hôm nay mình qua phần <eng>A Closer Look 1</eng>. Bài này s
 </vocabulary>
 
 <teacher_script pause="0">
-Các em nghe và lặp lại từ vựng nhé.
+Chúng ta cùng học từ vựng mới. Các em hãy nghe và lặp lại theo mẫu nhé.
 </teacher_script>
 
 ---
@@ -31,7 +31,7 @@ Các em nghe và lặp lại từ vựng nhé.
 ### Bài 1 trang 74 - Label pictures
 
 <teacher_script pause="60">
-Bài 1 <eng>Label each picture with a phrase from the list</eng>. Dán nhãn cho bức tranh. Đánh dấu (✓) vào hành động bảo vệ môi trường. 1 phút nha.
+Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
 <task>
@@ -51,7 +51,7 @@ e. saving water
 
 <!-- chunk: answer_1 -->
 <teacher_script pause="0">
-Đáp án nè.
+Đã hết thời gian. Sau đây là đáp án gợi ý. Các em hãy đối chiếu với bài làm của mình nhé.
 </teacher_script>
 
 <answer>
@@ -69,7 +69,7 @@ e. saving water
 </explanation>
 
 <teacher_script pause="30">
-Sửa bài nếu sai nha.
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
@@ -78,7 +78,7 @@ Sửa bài nếu sai nha.
 ### Bài 2 trang 74 - Match words with meanings
 
 <teacher_script pause="60">
-Bài 2 <eng>Match each word or phrase in column A with its meaning in column B</eng>. Nối từ với nghĩa. 1 phút nha.
+Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
 <task>
@@ -101,7 +101,7 @@ e. The place where a type of plant or animal lives.
 
 <!-- chunk: answer_2 -->
 <teacher_script pause="0">
-Đáp án nè.
+Đã hết thời gian. Sau đây là đáp án gợi ý. Các em hãy đối chiếu với bài làm của mình nhé.
 </teacher_script>
 
 <answer>
@@ -128,7 +128,7 @@ Lưu ý: **Hospital** là nơi ở, **Ecosystem** là hệ sinh thái (mối qua
 </teacher_script>
 
 <teacher_script pause="30">
-Các em sửa bài cẩn thận nha, dễ nhầm giữa Habitat và Ecosystem.
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
@@ -137,7 +137,7 @@ Các em sửa bài cẩn thận nha, dễ nhầm giữa Habitat và Ecosystem.
 ### Bài 3 trang 74 - Complete sentences
 
 <teacher_script pause="60">
-Bài 3 điền từ vào chỗ trống. 1 phút nha.
+Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
 <questions type="fill_blanks">
@@ -155,7 +155,7 @@ Bài 3 điền từ vào chỗ trống. 1 phút nha.
 </answer>
 
 <teacher_script pause="30">
-Sửa bài nếu sai nha.
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
@@ -164,7 +164,7 @@ Sửa bài nếu sai nha.
 ### Bài 4 trang 74 - Pronunciation /bl/ & /kl/
 
 <teacher_script pause="0">
-Qua phần phát âm. Hai âm hôm nay là **/bl/** và **/kl/**. Nghe và lặp lại nha.
+Các em nghe và thực hành theo nhé.
 </teacher_script>
 
 <audio src="https://img.loigiaihay.com/picture/2023/0613/track-41.mp3">
@@ -182,7 +182,7 @@ Qua phần phát âm. Hai âm hôm nay là **/bl/** và **/kl/**. Nghe và lặp
 ### Bài 5 trang 74 - Listen and practise sentences
 
 <teacher_script pause="0">
-Bài 5 nghe và thực hành câu. Chú ý từ chứa âm /bl/ và /kl/.
+Các em nghe và thực hành theo nhé.
 </teacher_script>
 
 <audio src="https://img.loigiaihay.com/picture/2023/0613/track-42.mp3">
@@ -205,5 +205,5 @@ Em hãy ghi âm 5 câu này gửi cho thầy nhé. Cố gắng phát âm rõ /bl
 
 <!-- chunk: end -->
 <teacher_script pause="0">
-Xong bài <eng>A Closer Look 1</eng>. Các em nhớ từ vựng về môi trường và phân biệt habitat/ecosystem nhé. Hẹn gặp lại!
+Bài học hôm nay kết thúc tại đây. Các em nhớ ôn bài và chuẩn bị cho bài học tiếp theo. Tạm biệt các em.
 </teacher_script>

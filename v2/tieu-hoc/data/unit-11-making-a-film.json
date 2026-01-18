@@ -1,0 +1,4746 @@
+{
+  "unitId": "unit-11-making-a-film",
+  "title": "Unit 11: Making a Film",
+  "grammarTopics": [
+    "The Passive: Present Simple",
+    "With and By"
+  ],
+  "theory": {
+    "brief": "## CÂU BỊ ĐỘNG THÌ HIỆN TẠI ĐƠN (The Passive: Present Simple)\n\n### 1. Khi nào dùng câu bị động?\n\nDùng câu bị động khi:\n- **Không biết** ai làm hành động: *My bike was stolen.* (Xe đạp của tôi bị đánh cắp - không biết ai đánh cắp)\n- **Không quan trọng** ai làm: *Rice is grown in Asia.* (Lúa được trồng ở châu Á - ai trồng không quan trọng)\n- **Muốn nhấn mạnh** đối tượng chịu tác động: *The film is directed by Spielberg.* (Nhấn mạnh phim, không phải đạo diễn)\n\n### 2. Cấu trúc câu bị động thì hiện tại đơn\n\n**Công thức:** Subject + am/is/are + Past Participle (V3)\n\n| Chủ ngữ | Động từ to be | Ví dụ |\n|---------|---------------|-------|\n| I | am | I am invited to the party. |\n| He/She/It (số ít) | is | The film **is made** in Hollywood. |\n| We/You/They (số nhiều) | are | Books **are sold** in bookshops. |\n\n**Cách nhận biết số ít/số nhiều:**\n- Số ít: a film, the car, rice (danh từ không đếm được), coffee, English, this book\n- Số nhiều: films, books, these toys, the children, roses\n\n### 3. Past Participle (Quá khứ phân từ - V3)\n\n**Động từ có quy tắc:** thêm -ed\n- produce → produc**ed** (sản xuất)\n- wash → wash**ed** (rửa)\n- clean → clean**ed** (dọn dẹp)\n\n**Động từ bất quy tắc:** phải học thuộc\n| Base form | Past simple | Past participle (V3) |\n|-----------|-------------|----------------------|\n| make | made | **made** |\n| speak | spoke | **spoken** |\n| write | wrote | **written** |\n| grow | grew | **grown** |\n| build | built | **built** |\n| sell | sold | **sold** |\n| teach | taught | **taught** |\n| sing | sang | **sung** |\n| take | took | **taken** |\n\n### 4. BY và WITH - Sự khác biệt quan trọng\n\n**BY + người/tổ chức (ai làm hành động)**\n- The film is directed **by** Spielberg. (Spielberg = người đạo diễn)\n- The homework is done **by** students. (students = người làm)\n- This computer is made **by** Dell. (Dell = công ty sản xuất)\n\n**WITH + công cụ/vật liệu/nguyên liệu (dùng gì để làm)**\n- Bread is cut **with** a knife. (knife = dao - công cụ)\n- The house is built **with** bricks. (bricks = gạch - vật liệu)\n- The soup is made **with** fresh vegetables. (vegetables = nguyên liệu)\n- The cake is decorated **with** chocolate. (chocolate = vật trang trí)\n\n**Mẹo nhớ:**\n- BY = ai? (người, công ty, tổ chức)\n- WITH = bằng gì? (dao, kéo, vật liệu, nguyên liệu)\n\n### 5. Chuyển câu chủ động sang bị động\n\n**Bước 1:** Lấy tân ngữ (object) làm chủ ngữ mới\n**Bước 2:** Thêm am/is/are (tùy theo số ít/số nhiều)\n**Bước 3:** Đổi động từ thành V3\n**Bước 4:** (Tùy chọn) Thêm by + chủ ngữ cũ\n\n**Ví dụ:**\n- Active: They **make** lots of films in London.\n- Passive: Lots of films **are made** in London (by them).\n\n- Active: People **speak** French here.\n- Passive: French **is spoken** here.\n\n### 6. Câu hỏi bị động\n\n**Công thức:** Am/Is/Are + Subject + V3...?\n\n- **Are** films **made** in Hollywood? (Phim có được làm ở Hollywood không?)\n- **Is** French **spoken** in Canada? (Tiếng Pháp có được nói ở Canada không?)",
+    "examples": [
+      "Films are made in Hollywood. → Phim được làm ở Hollywood. (are + made vì 'films' số nhiều)",
+      "French is spoken here. → Tiếng Pháp được nói ở đây. (is + spoken vì 'French' số ít)",
+      "The film is directed by Spielberg. → Bộ phim được đạo diễn bởi Spielberg. (by = người làm)",
+      "The houses are built with bricks. → Những ngôi nhà được xây bằng gạch. (with = vật liệu)",
+      "Rice is grown in many Asian countries. → Lúa được trồng ở nhiều nước châu Á. (is + grown, 'rice' không đếm được = số ít)",
+      "These books are sold in bookshops everywhere. → Những cuốn sách này được bán ở các hiệu sách khắp nơi. (are + sold vì 'books' số nhiều)"
+    ]
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "type": "fill-blank-table",
+      "title": "Complete the irregular verbs table",
+      "instructions": "Fill in the missing forms",
+      "headers": [
+        "Base form",
+        "Past simple",
+        "Past participle"
+      ],
+      "rows": [
+        {
+          "rowId": "r1",
+          "cells": [
+            "speak",
+            "spoke",
+            "___"
+          ],
+          "answers": [
+            "spoken"
+          ],
+          "cellsToFill": [
+            2
+          ],
+          "points": 5
+        },
+        {
+          "rowId": "r2",
+          "cells": [
+            "make",
+            "made",
+            "___"
+          ],
+          "answers": [
+            "made"
+          ],
+          "cellsToFill": [
+            2
+          ],
+          "points": 5
+        },
+        {
+          "rowId": "r3",
+          "cells": [
+            "give",
+            "___",
+            "given"
+          ],
+          "answers": [
+            "gave"
+          ],
+          "cellsToFill": [
+            1
+          ],
+          "points": 5
+        },
+        {
+          "rowId": "r4",
+          "cells": [
+            "write",
+            "___",
+            "written"
+          ],
+          "answers": [
+            "wrote"
+          ],
+          "cellsToFill": [
+            1
+          ],
+          "points": 5
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "sentence-rewrite",
+      "original": "They make lots of films in London. (active)",
+      "instruction": "Change to passive",
+      "starterText": "Lots of films",
+      "answer": "Lots of films are made in London.",
+      "acceptedAnswers": [
+        "Lots of films are made in London.",
+        "Lots of films are made in London"
+      ],
+      "hints": [
+        "are + past participle (made)"
+      ],
+      "explanation": "**Phân tích từng bước:**\n1. Câu gốc: 'They make lots of films in London' - 'They' là chủ ngữ (người làm), 'lots of films' là tân ngữ (đối tượng bị tác động)\n2. Chuyển bị động: Lấy tân ngữ 'lots of films' làm chủ ngữ mới\n3. 'Lots of films' là số nhiều → dùng 'are'\n4. Động từ 'make' → V3 là 'made' (make-made-made)\n5. Kết quả: 'Lots of films ARE MADE in London'\n6. Không cần 'by them' vì không quan trọng ai làm",
+      "points": 10
+    },
+    {
+      "id": 3,
+      "type": "sentence-rewrite",
+      "original": "People speak French here. (active)",
+      "instruction": "Change to passive",
+      "starterText": "French",
+      "answer": "French is spoken here.",
+      "acceptedAnswers": [
+        "French is spoken here.",
+        "French is spoken here"
+      ],
+      "hints": [
+        "is + spoken"
+      ],
+      "explanation": "**Phân tích từng bước:**\n1. Câu gốc: 'People speak French here' - 'People' là chủ ngữ, 'French' là tân ngữ\n2. Chuyển bị động: 'French' trở thành chủ ngữ mới\n3. 'French' (tiếng Pháp) là danh từ số ít → dùng 'is'\n4. Động từ 'speak' → V3 là 'spoken' (speak-spoke-spoken) ⚠️ Lưu ý: 'spoke' là V2, 'spoken' là V3\n5. Kết quả: 'French IS SPOKEN here'\n6. Bỏ 'by people' vì không cần thiết",
+      "points": 10
+    },
+    {
+      "id": 4,
+      "type": "sentence-rewrite",
+      "original": "They grow rice in Asia. (active)",
+      "instruction": "Change to passive",
+      "starterText": "Rice",
+      "answer": "Rice is grown in Asia.",
+      "acceptedAnswers": [
+        "Rice is grown in Asia.",
+        "Rice is grown in Asia"
+      ],
+      "hints": [
+        "is + grown"
+      ],
+      "points": 10
+    },
+    {
+      "id": 5,
+      "type": "sentence-rewrite",
+      "original": "People produce coffee in Brazil. (active)",
+      "instruction": "Change to passive",
+      "starterText": "Coffee",
+      "answer": "Coffee is produced in Brazil.",
+      "acceptedAnswers": [
+        "Coffee is produced in Brazil.",
+        "Coffee is produced in Brazil"
+      ],
+      "hints": [
+        "is + produced"
+      ],
+      "points": 10
+    },
+    {
+      "id": 6,
+      "type": "fill-blank",
+      "question": "Lots of films __________ (make) in London.",
+      "wordHint": "(make)",
+      "answer": "are made",
+      "acceptedAnswers": [
+        "are made"
+      ],
+      "hints": [
+        "Passive: are + past participle"
+      ],
+      "explanation": "**Giải thích chi tiết:**\n• 'Lots of films' = nhiều bộ phim → số nhiều → dùng 'ARE'\n• Động từ trong ngoặc là 'make' → V3 là 'MADE' (make-made-made)\n• Câu bị động vì phim không tự làm ra, phim được làm ra (bởi ai đó)\n• Ghép lại: ARE + MADE = 'are made'",
+      "points": 10
+    },
+    {
+      "id": 7,
+      "type": "fill-blank",
+      "question": "French __________ (speak) here.",
+      "wordHint": "(speak)",
+      "answer": "is spoken",
+      "acceptedAnswers": [
+        "is spoken"
+      ],
+      "hints": [
+        "is + spoken"
+      ],
+      "points": 10
+    },
+    {
+      "id": 8,
+      "type": "fill-blank",
+      "question": "Our clothes __________ (make) from more modern material.",
+      "wordHint": "(make)",
+      "answer": "are made",
+      "acceptedAnswers": [
+        "are made"
+      ],
+      "hints": [
+        "Plural: are + made"
+      ],
+      "points": 10
+    },
+    {
+      "id": 9,
+      "type": "fill-blank",
+      "question": "Rice __________ (grow) in many Asian countries.",
+      "wordHint": "(grow)",
+      "answer": "is grown",
+      "acceptedAnswers": [
+        "is grown"
+      ],
+      "hints": [
+        "Singular: is + grown"
+      ],
+      "points": 10
+    },
+    {
+      "id": 10,
+      "type": "fill-blank",
+      "question": "These books __________ (sell) in bookshops everywhere.",
+      "wordHint": "(sell)",
+      "answer": "are sold",
+      "acceptedAnswers": [
+        "are sold"
+      ],
+      "hints": [
+        "are + sold"
+      ],
+      "points": 10
+    },
+    {
+      "id": 11,
+      "type": "fill-blank",
+      "question": "Coffee __________ (produce) in Brazil and Colombia.",
+      "wordHint": "(produce)",
+      "answer": "is produced",
+      "acceptedAnswers": [
+        "is produced"
+      ],
+      "hints": [
+        "is + produced"
+      ],
+      "points": 10
+    },
+    {
+      "id": 12,
+      "type": "fill-blank",
+      "question": "English __________ (teach) in schools around the world.",
+      "wordHint": "(teach)",
+      "answer": "is taught",
+      "acceptedAnswers": [
+        "is taught"
+      ],
+      "hints": [
+        "teach → taught → taught"
+      ],
+      "points": 10
+    },
+    {
+      "id": 13,
+      "type": "fill-blank",
+      "question": "Guitars are played __________ musicians all over the world.",
+      "wordHint": "",
+      "answer": "by",
+      "acceptedAnswers": [
+        "by"
+      ],
+      "hints": [
+        "Who does it? Use 'by'"
+      ],
+      "explanation": "**BY hay WITH?**\n• 'Musicians' = nhạc sĩ/người chơi nhạc → đây là NGƯỜI thực hiện hành động\n• Khi nói về NGƯỜI làm việc gì đó → dùng 'BY'\n• Cách nhớ: BY + người/tổ chức/động vật\n• So sánh: 'Guitars are played WITH a pick' (pick = dụng cụ gảy đàn → dùng WITH)",
+      "points": 10
+    },
+    {
+      "id": 14,
+      "type": "fill-blank",
+      "question": "Libraries are filled __________ books.",
+      "wordHint": "",
+      "answer": "with",
+      "acceptedAnswers": [
+        "with"
+      ],
+      "hints": [
+        "What fills it? Use 'with'"
+      ],
+      "explanation": "**WITH dùng cho vật/nguyên liệu:**\n• 'Books' = sách → đây là VẬT dùng để lấp đầy thư viện\n• 'Filled with' = được lấp đầy bởi cái gì (vật chất)\n• Cách nhớ: WITH + vật/nguyên liệu/công cụ\n• ⚠️ Nếu nói 'Libraries are managed BY librarians' → dùng BY vì librarian là người",
+      "points": 10
+    },
+    {
+      "id": 15,
+      "type": "fill-blank",
+      "question": "Tennis is played __________ rackets and a ball.",
+      "wordHint": "",
+      "answer": "with",
+      "acceptedAnswers": [
+        "with"
+      ],
+      "hints": [
+        "Tool/instrument: use 'with'"
+      ],
+      "points": 10
+    },
+    {
+      "id": 16,
+      "type": "fill-blank",
+      "question": "The food is brought __________ a waiter.",
+      "wordHint": "",
+      "answer": "by",
+      "acceptedAnswers": [
+        "by"
+      ],
+      "hints": [
+        "Person who does it: 'by'"
+      ],
+      "points": 10
+    },
+    {
+      "id": 17,
+      "type": "fill-blank",
+      "question": "Bread is cut __________ a knife.",
+      "wordHint": "",
+      "answer": "with",
+      "acceptedAnswers": [
+        "with"
+      ],
+      "hints": [
+        "Tool: use 'with'"
+      ],
+      "points": 10
+    },
+    {
+      "id": 18,
+      "type": "fill-blank",
+      "question": "Ancient places are found __________ archaeologists.",
+      "wordHint": "",
+      "answer": "by",
+      "acceptedAnswers": [
+        "by"
+      ],
+      "hints": [
+        "People who do it: 'by'"
+      ],
+      "points": 10
+    },
+    {
+      "id": 19,
+      "type": "fill-blank",
+      "question": "Hollywood is filled __________ famous people.",
+      "wordHint": "",
+      "answer": "with",
+      "acceptedAnswers": [
+        "with"
+      ],
+      "hints": [
+        "What it contains: 'with'"
+      ],
+      "points": 10
+    },
+    {
+      "id": 20,
+      "type": "fill-blank",
+      "question": "The main streets are decorated __________ bright lights.",
+      "wordHint": "",
+      "answer": "with",
+      "acceptedAnswers": [
+        "with"
+      ],
+      "hints": [
+        "Materials/objects: 'with'"
+      ],
+      "points": 10
+    },
+    {
+      "id": 21,
+      "type": "sentence-build",
+      "prompt": "these books / sell / in bookshops",
+      "instructions": "Write a passive sentence",
+      "answer": "These books are sold in bookshops.",
+      "acceptedAnswers": [
+        "These books are sold in bookshops.",
+        "These books are sold in bookshops"
+      ],
+      "hints": [
+        "are + sold"
+      ],
+      "points": 10
+    },
+    {
+      "id": 22,
+      "type": "sentence-build",
+      "prompt": "the movie / direct / by Steven Spielberg",
+      "instructions": "Write a passive sentence with 'by'",
+      "answer": "The movie is directed by Steven Spielberg.",
+      "acceptedAnswers": [
+        "The movie is directed by Steven Spielberg.",
+        "The movie is directed by Steven Spielberg"
+      ],
+      "hints": [
+        "is directed by"
+      ],
+      "points": 10
+    },
+    {
+      "id": 23,
+      "type": "sentence-build",
+      "prompt": "the houses / build / with bricks",
+      "instructions": "Write a passive sentence with 'with'",
+      "answer": "The houses are built with bricks.",
+      "acceptedAnswers": [
+        "The houses are built with bricks.",
+        "The houses are built with bricks"
+      ],
+      "hints": [
+        "are built with"
+      ],
+      "points": 10
+    },
+    {
+      "id": 24,
+      "type": "sentence-build",
+      "prompt": "films / make / in Hollywood?",
+      "instructions": "Write a passive question",
+      "answer": "Are films made in Hollywood?",
+      "acceptedAnswers": [
+        "Are films made in Hollywood?",
+        "Are films made in Hollywood"
+      ],
+      "hints": [
+        "Are + films + made...?"
+      ],
+      "points": 10
+    },
+    {
+      "id": 25,
+      "type": "sentence-build",
+      "prompt": "French / speak / in Canada?",
+      "instructions": "Write a passive question",
+      "answer": "Is French spoken in Canada?",
+      "acceptedAnswers": [
+        "Is French spoken in Canada?",
+        "Is French spoken in Canada"
+      ],
+      "hints": [
+        "Is + French + spoken...?"
+      ],
+      "points": 10
+    },
+    {
+      "id": 26,
+      "type": "multiple-choice",
+      "question": "They (make / are made) lots of films in Hollywood.",
+      "options": [
+        "make",
+        "are made"
+      ],
+      "correctIndex": 0,
+      "explanation": "**Phân biệt câu chủ động và bị động:**\n• Câu này có chủ ngữ 'They' (họ) - đây là NGƯỜI thực hiện hành động\n• 'They' làm phim → They MAKE films (chủ động)\n• Nếu dùng bị động 'are made' thì câu sẽ vô nghĩa: 'They are made lots of films' (?)\n• Cách phân biệt: Nếu chủ ngữ LÀM hành động → chủ động. Nếu chủ ngữ BỊ/ĐƯỢC tác động → bị động\n• So sánh: 'Films ARE MADE in Hollywood' (Films không tự làm, films được làm ra)",
+      "hints": [
+        "Who makes films? They do = active"
+      ],
+      "points": 10
+    },
+    {
+      "id": 27,
+      "type": "multiple-choice",
+      "question": "French (speaks / is spoken) in many countries.",
+      "options": [
+        "speaks",
+        "is spoken"
+      ],
+      "correctIndex": 1,
+      "explanation": "French doesn't speak itself, it is spoken = passive",
+      "hints": [
+        "French receives the action = passive"
+      ],
+      "points": 10
+    },
+    {
+      "id": 28,
+      "type": "multiple-choice",
+      "question": "These books (sell / are sold) in bookshops.",
+      "options": [
+        "sell",
+        "are sold"
+      ],
+      "correctIndex": 1,
+      "explanation": "Books don't sell themselves, they are sold = passive",
+      "hints": [
+        "Books receive the action = passive"
+      ],
+      "points": 10
+    },
+    {
+      "id": 29,
+      "type": "multiple-choice",
+      "question": "The film (directs / is directed) by a famous director.",
+      "options": [
+        "directs",
+        "is directed"
+      ],
+      "correctIndex": 1,
+      "explanation": "The film receives the action, passive voice",
+      "hints": [
+        "by a director = passive"
+      ],
+      "points": 10
+    },
+    {
+      "id": 30,
+      "type": "error-correct",
+      "wrongSentence": "The film is make in London.",
+      "correctSentence": "The film is made in London.",
+      "errorWord": "make",
+      "correction": "made",
+      "explanation": "**Lỗi thường gặp: Dùng V1 thay vì V3**\n• Câu sai dùng 'make' (V1 - nguyên mẫu)\n• Câu bị động PHẢI dùng V3 (Past Participle)\n• make → made → MADE (V3)\n• Công thức: am/is/are + V3 (KHÔNG phải V1)\n• ❌ is make → ✓ is MADE\n• Tương tự: is speak → is SPOKEN, is write → is WRITTEN",
+      "hints": [
+        "is + past participle (made)"
+      ],
+      "points": 10
+    },
+    {
+      "id": 31,
+      "type": "error-correct",
+      "wrongSentence": "French is spoke here.",
+      "correctSentence": "French is spoken here.",
+      "errorWord": "spoke",
+      "correction": "spoken",
+      "explanation": "**Lỗi thường gặp: Nhầm V2 với V3**\n• Câu sai dùng 'spoke' - đây là V2 (Past Simple)\n• Câu bị động cần V3 (Past Participle), không phải V2!\n• speak → spoke (V2) → SPOKEN (V3)\n• ❌ is spoke → ✓ is SPOKEN\n• Mẹo nhớ động từ bất quy tắc thường có 3 dạng khác nhau:\n  - speak-spoke-spoken\n  - write-wrote-written\n  - grow-grew-grown\n  - sing-sang-sung",
+      "hints": [
+        "speak → spoke → spoken"
+      ],
+      "points": 10
+    },
+    {
+      "id": 32,
+      "type": "error-correct",
+      "wrongSentence": "The houses are build by bricks.",
+      "correctSentence": "The houses are built with bricks.",
+      "errorWord": "build by bricks",
+      "correction": "built with bricks",
+      "explanation": "**Câu này có 2 LỖI:**\n\n**Lỗi 1: Dùng V1 thay vì V3**\n• 'build' là V1 (nguyên mẫu)\n• Cần dùng V3: build → built → BUILT\n• ❌ are build → ✓ are BUILT\n\n**Lỗi 2: Dùng BY thay vì WITH**\n• 'Bricks' (gạch) là VẬT LIỆU, không phải người\n• VẬT LIỆU dùng 'WITH', không dùng 'BY'\n• ❌ by bricks → ✓ WITH bricks\n\n**Nhớ quy tắc:**\n• BY + người/tổ chức: 'built BY workers'\n• WITH + vật liệu/công cụ: 'built WITH bricks'",
+      "hints": [
+        "built (not build), with (not by) for materials"
+      ],
+      "points": 10
+    },
+    {
+      "id": 33,
+      "type": "error-correct",
+      "wrongSentence": "Rice is grew in Asia.",
+      "correctSentence": "Rice is grown in Asia.",
+      "errorWord": "grew",
+      "correction": "grown",
+      "explanation": "Past participle of grow is grown, not grew",
+      "hints": [
+        "grow → grew → grown"
+      ],
+      "points": 10
+    },
+    {
+      "id": 34,
+      "type": "error-correct",
+      "wrongSentence": "The food is brought with a waiter.",
+      "correctSentence": "The food is brought by a waiter.",
+      "errorWord": "with",
+      "correction": "by",
+      "explanation": "Person who does action uses 'by', not 'with'",
+      "hints": [
+        "People use 'by', not 'with'"
+      ],
+      "points": 10
+    },
+    {
+      "id": 35,
+      "type": "error-correct",
+      "wrongSentence": "Books is sold in bookshops.",
+      "correctSentence": "Books are sold in bookshops.",
+      "errorWord": "is",
+      "correction": "are",
+      "explanation": "**Lỗi thường gặp: Sai is/are với số ít/số nhiều**\n• 'Books' = sách (số nhiều) → phải dùng 'ARE'\n• Quy tắc nhớ:\n  - Số ít (a book, the car, rice, coffee) → IS\n  - Số nhiều (books, the cars, these toys) → ARE\n• ❌ Books IS sold → ✓ Books ARE sold\n• Mẹo: Nhìn chủ ngữ trước, xác định số ít/nhiều, rồi chọn is/are",
+      "hints": [
+        "Books (plural) = are"
+      ],
+      "points": 10
+    },
+    {
+      "id": 36,
+      "type": "translation",
+      "vietnamese": "Tiếng Anh được nói ở nhiều quốc gia.",
+      "answer": "English is spoken in many countries.",
+      "acceptedAnswers": [
+        "English is spoken in many countries.",
+        "English is spoken in many countries"
+      ],
+      "hints": [
+        "is spoken"
+      ],
+      "explanation": "**Phân tích câu dịch:**\n• 'Tiếng Anh' = English (chủ ngữ số ít)\n• 'được nói' = is spoken (câu bị động)\n• 'ở nhiều quốc gia' = in many countries\n\n**Cách làm:**\n1. Xác định: Tiếng Anh không tự nói, tiếng Anh ĐƯỢC nói → bị động\n2. English = số ít → dùng IS\n3. speak → V3 = SPOKEN\n4. Ghép: English IS SPOKEN in many countries",
+      "points": 10
+    },
+    {
+      "id": 37,
+      "type": "translation",
+      "vietnamese": "Những bộ phim này được làm ở Hollywood.",
+      "answer": "These films are made in Hollywood.",
+      "acceptedAnswers": [
+        "These films are made in Hollywood.",
+        "These films are made in Hollywood",
+        "These movies are made in Hollywood."
+      ],
+      "hints": [
+        "are made"
+      ],
+      "points": 10
+    },
+    {
+      "id": 38,
+      "type": "translation",
+      "vietnamese": "Lúa được trồng ở châu Á.",
+      "answer": "Rice is grown in Asia.",
+      "acceptedAnswers": [
+        "Rice is grown in Asia.",
+        "Rice is grown in Asia"
+      ],
+      "hints": [
+        "is grown"
+      ],
+      "points": 10
+    },
+    {
+      "id": 39,
+      "type": "translation",
+      "vietnamese": "Những ngôi nhà này được xây dựng bằng gạch.",
+      "answer": "These houses are built with bricks.",
+      "acceptedAnswers": [
+        "These houses are built with bricks.",
+        "These houses are built with bricks"
+      ],
+      "hints": [
+        "are built with (material)"
+      ],
+      "explanation": "**Phân tích câu dịch:**\n• 'Những ngôi nhà này' = These houses (số nhiều → ARE)\n• 'được xây dựng' = are built (build-built-BUILT)\n• 'bằng gạch' = WITH bricks (gạch là VẬT LIỆU → dùng WITH)\n\n**Tại sao dùng WITH không dùng BY?**\n• BY dùng cho NGƯỜI: 'built BY workers' (xây bởi công nhân)\n• WITH dùng cho VẬT LIỆU: 'built WITH bricks' (xây bằng gạch)\n• Gạch không phải người nên dùng WITH",
+      "points": 10
+    },
+    {
+      "id": 40,
+      "type": "translation",
+      "vietnamese": "Bức tranh được vẽ bằng sơn dầu.",
+      "answer": "The picture is painted with oil paints.",
+      "acceptedAnswers": [
+        "The picture is painted with oil paints.",
+        "The picture is painted with oil paints",
+        "The painting is painted with oil paints."
+      ],
+      "hints": [
+        "is painted with"
+      ],
+      "points": 10
+    },
+    {
+      "id": 41,
+      "type": "translation",
+      "vietnamese": "Hollywood được thăm bởi hàng nghìn khách du lịch.",
+      "answer": "Hollywood is visited by thousands of tourists.",
+      "acceptedAnswers": [
+        "Hollywood is visited by thousands of tourists.",
+        "Hollywood is visited by thousands of tourists"
+      ],
+      "hints": [
+        "is visited by (people)"
+      ],
+      "explanation": "**Phân tích câu dịch:**\n• 'Hollywood' = Hollywood (danh từ riêng, số ít → IS)\n• 'được thăm' = is visited (visit-visited-VISITED)\n• 'bởi hàng nghìn khách du lịch' = BY thousands of tourists\n\n**Tại sao dùng BY?**\n• 'Tourists' (khách du lịch) là NGƯỜI thực hiện hành động thăm\n• NGƯỜI → luôn dùng BY\n• So sánh: 'Hollywood is decorated WITH lights' (lights = vật → dùng WITH)",
+      "points": 10
+    },
+    {
+      "id": 42,
+      "type": "open-ended",
+      "title": "Describe your school",
+      "instruction": "Write 6-8 sentences about your school using the passive voice. Use 'by' and 'with' where appropriate. Describe what is taught, where things are located, how classrooms are decorated, etc.",
+      "example": "Example: English is taught by Ms. Smith. The classrooms are decorated with posters. Lunch is served in the cafeteria...",
+      "minSentences": 6,
+      "maxWords": 150,
+      "scored": false,
+      "displayOnly": true,
+      "points": 0
+    },
+    {
+      "id": 43,
+      "type": "open-ended",
+      "title": "Famous places",
+      "instruction": "Write a paragraph (6-8 sentences) about a famous place (city, building, or landmark) using the passive voice. Describe what is made, built, visited, etc. there.",
+      "example": "Example: Paris is visited by millions of tourists every year. The Eiffel Tower is located in the center. French food is served in many restaurants...",
+      "minSentences": 6,
+      "maxWords": 150,
+      "scored": false,
+      "displayOnly": true,
+      "points": 0
+    },
+    {
+      "id": 44,
+      "type": "multiple-choice",
+      "question": "Rice _____ in many Asian countries.",
+      "options": [
+        "grows",
+        "is grown",
+        "is grow",
+        "are grown"
+      ],
+      "correctIndex": 1,
+      "explanation": "**Phân tích từng đáp án:**\n• A. 'grows' ❌ - Đây là câu chủ động. Lúa không tự mọc, lúa ĐƯỢC trồng\n• B. 'is grown' ✓ - ĐÚNG! Rice (không đếm được = số ít) + IS + GROWN (V3)\n• C. 'is grow' ❌ - Sai vì dùng V1 'grow', cần V3 'grown'\n• D. 'are grown' ❌ - Sai vì 'rice' là danh từ không đếm được, dùng IS không dùng ARE\n\n**Lưu ý:** Rice, coffee, tea, water... là danh từ không đếm được → luôn dùng IS",
+      "hints": [
+        "Singular subject uses 'is'"
+      ],
+      "points": 10
+    },
+    {
+      "id": 45,
+      "type": "multiple-choice",
+      "question": "Choose the correct passive form: The movie _____ in 2020.",
+      "options": [
+        "is made",
+        "was made",
+        "makes",
+        "made"
+      ],
+      "correctIndex": 1,
+      "explanation": "**Câu này nói về QUÁ KHỨ (2020):**\n• A. 'is made' ❌ - Đây là bị động hiện tại, nhưng 2020 là quá khứ\n• B. 'was made' ✓ - ĐÚNG! Bị động quá khứ: was/were + V3\n• C. 'makes' ❌ - Câu chủ động, nhưng movie không tự làm ra\n• D. 'made' ❌ - Thiếu động từ to be (was/were)\n\n**So sánh:**\n• Hiện tại: 'Movies ARE MADE every year' (mỗi năm → hiện tại)\n• Quá khứ: 'The movie WAS MADE in 2020' (2020 → quá khứ)",
+      "hints": [
+        "2020 is in the past"
+      ],
+      "points": 10
+    },
+    {
+      "id": 46,
+      "type": "multiple-choice",
+      "question": "Books _____ in libraries.",
+      "options": [
+        "is kept",
+        "are kept",
+        "keeps",
+        "keeping"
+      ],
+      "correctIndex": 1,
+      "explanation": "Books (plural) + are + kept (V3)",
+      "hints": [
+        "Plural subject needs 'are'"
+      ],
+      "points": 10
+    },
+    {
+      "id": 47,
+      "type": "multiple-choice",
+      "question": "The letter _____ by my teacher.",
+      "options": [
+        "is written",
+        "writes",
+        "are written",
+        "writing"
+      ],
+      "correctIndex": 0,
+      "explanation": "The letter (singular) + is + written (V3) + by (agent)",
+      "hints": [
+        "Use 'by' with person who does it"
+      ],
+      "points": 10
+    },
+    {
+      "id": 48,
+      "type": "multiple-choice",
+      "question": "English _____ all over the world.",
+      "options": [
+        "speaks",
+        "is spoke",
+        "is spoken",
+        "are spoken"
+      ],
+      "correctIndex": 2,
+      "explanation": "V3 of speak is 'spoken', not 'spoke'",
+      "hints": [
+        "speak → spoke → spoken"
+      ],
+      "points": 10
+    },
+    {
+      "id": 49,
+      "type": "multiple-choice",
+      "question": "The house _____ with wood and bricks.",
+      "options": [
+        "is built",
+        "builds",
+        "are built",
+        "is build"
+      ],
+      "correctIndex": 0,
+      "explanation": "House (singular) + is + built (V3). Materials use 'with'",
+      "hints": [
+        "V3 of build is 'built'"
+      ],
+      "points": 10
+    },
+    {
+      "id": 50,
+      "type": "multiple-choice",
+      "question": "Oranges _____ in Florida.",
+      "options": [
+        "is grown",
+        "grows",
+        "are grown",
+        "are grow"
+      ],
+      "correctIndex": 2,
+      "explanation": "Oranges (plural) + are + grown (V3)",
+      "hints": [
+        "Plural needs 'are'"
+      ],
+      "points": 10
+    },
+    {
+      "id": 51,
+      "type": "multiple-choice",
+      "question": "The dishes _____ by my mother.",
+      "options": [
+        "is washed",
+        "are washed",
+        "washes",
+        "wash"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dishes (plural) + are + washed + by (person)",
+      "hints": [
+        "Agent = person who does it"
+      ],
+      "points": 10
+    },
+    {
+      "id": 52,
+      "type": "multiple-choice",
+      "question": "Coffee _____ in many countries.",
+      "options": [
+        "are produced",
+        "produces",
+        "is produced",
+        "is produce"
+      ],
+      "correctIndex": 2,
+      "explanation": "Coffee (singular) + is + produced (V3)",
+      "hints": [
+        "Coffee is uncountable, use 'is'"
+      ],
+      "points": 10
+    },
+    {
+      "id": 53,
+      "type": "multiple-choice",
+      "question": "The picture _____ with watercolors.",
+      "options": [
+        "is painted",
+        "paints",
+        "are painted",
+        "painting"
+      ],
+      "correctIndex": 0,
+      "explanation": "Picture (singular) + is + painted. 'With' for materials",
+      "hints": [
+        "Material/tool uses 'with'"
+      ],
+      "points": 10
+    },
+    {
+      "id": 54,
+      "type": "multiple-choice",
+      "question": "These toys _____ in China.",
+      "options": [
+        "is made",
+        "makes",
+        "are made",
+        "making"
+      ],
+      "correctIndex": 2,
+      "explanation": "These toys (plural) + are + made",
+      "hints": [
+        "'These' indicates plural"
+      ],
+      "points": 10
+    },
+    {
+      "id": 55,
+      "type": "multiple-choice",
+      "question": "Spanish _____ in Mexico.",
+      "options": [
+        "is spoke",
+        "speaks",
+        "is spoken",
+        "are spoken"
+      ],
+      "correctIndex": 2,
+      "explanation": "Spanish (singular) + is + spoken (not spoke)",
+      "hints": [
+        "V3 of speak is 'spoken'"
+      ],
+      "points": 10
+    },
+    {
+      "id": 56,
+      "type": "multiple-choice",
+      "question": "The car _____ every week.",
+      "options": [
+        "is washed",
+        "washes",
+        "are washed",
+        "wash"
+      ],
+      "correctIndex": 0,
+      "explanation": "The car (singular) + is + washed",
+      "hints": [
+        "Singular subject"
+      ],
+      "points": 10
+    },
+    {
+      "id": 57,
+      "type": "multiple-choice",
+      "question": "Emails _____ every day.",
+      "options": [
+        "is sent",
+        "sends",
+        "are sent",
+        "are send"
+      ],
+      "correctIndex": 2,
+      "explanation": "Emails (plural) + are + sent (V3)",
+      "hints": [
+        "V3 of send is 'sent'"
+      ],
+      "points": 10
+    },
+    {
+      "id": 58,
+      "type": "multiple-choice",
+      "question": "This song _____ by famous singers.",
+      "options": [
+        "is sang",
+        "is sung",
+        "sings",
+        "are sung"
+      ],
+      "correctIndex": 1,
+      "explanation": "Song (singular) + is + sung (not sang). V3 of sing is 'sung'",
+      "hints": [
+        "sing → sang → sung"
+      ],
+      "points": 10
+    },
+    {
+      "id": 59,
+      "type": "multiple-choice",
+      "question": "The windows _____ twice a month.",
+      "options": [
+        "is cleaned",
+        "cleans",
+        "are cleaned",
+        "cleaning"
+      ],
+      "correctIndex": 2,
+      "explanation": "Windows (plural) + are + cleaned",
+      "hints": [
+        "Plural subject"
+      ],
+      "points": 10
+    },
+    {
+      "id": 60,
+      "type": "multiple-choice",
+      "question": "Pizza _____ in Italy.",
+      "options": [
+        "is invented",
+        "invents",
+        "are invented",
+        "invented"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pizza (singular) + is + invented",
+      "hints": [
+        "Pizza is singular/uncountable"
+      ],
+      "points": 10
+    },
+    {
+      "id": 61,
+      "type": "multiple-choice",
+      "question": "The door _____ with a key.",
+      "options": [
+        "is opened",
+        "opens",
+        "are opened",
+        "opening"
+      ],
+      "correctIndex": 0,
+      "explanation": "Door (singular) + is + opened. 'With' for tool",
+      "hints": [
+        "Tool = key → use 'with'"
+      ],
+      "points": 10
+    },
+    {
+      "id": 62,
+      "type": "multiple-choice",
+      "question": "New houses _____ every year.",
+      "options": [
+        "is built",
+        "builds",
+        "are built",
+        "are build"
+      ],
+      "correctIndex": 2,
+      "explanation": "Houses (plural) + are + built (V3)",
+      "hints": [
+        "build → built → built"
+      ],
+      "points": 10
+    },
+    {
+      "id": 63,
+      "type": "multiple-choice",
+      "question": "The test _____ by the teacher.",
+      "options": [
+        "is checked",
+        "checks",
+        "are checked",
+        "checking"
+      ],
+      "correctIndex": 0,
+      "explanation": "Test (singular) + is + checked + by (person)",
+      "hints": [
+        "Person who does = teacher"
+      ],
+      "points": 10
+    },
+    {
+      "id": 64,
+      "type": "multiple-choice",
+      "question": "Chocolate _____ from cocoa beans.",
+      "options": [
+        "is made",
+        "makes",
+        "are made",
+        "making"
+      ],
+      "correctIndex": 0,
+      "explanation": "Chocolate (singular/uncountable) + is + made",
+      "hints": [
+        "Chocolate is uncountable"
+      ],
+      "points": 10
+    },
+    {
+      "id": 65,
+      "type": "multiple-choice",
+      "question": "Stories _____ by writers.",
+      "options": [
+        "is written",
+        "writes",
+        "are written",
+        "writing"
+      ],
+      "correctIndex": 2,
+      "explanation": "Stories (plural) + are + written + by (agent)",
+      "hints": [
+        "write → wrote → written"
+      ],
+      "points": 10
+    },
+    {
+      "id": 66,
+      "type": "multiple-choice",
+      "question": "The museum _____ at 9 AM.",
+      "options": [
+        "is opened",
+        "opens",
+        "are opened",
+        "opening"
+      ],
+      "correctIndex": 0,
+      "explanation": "Museum (singular) + is + opened",
+      "hints": [
+        "Singular building"
+      ],
+      "points": 10
+    },
+    {
+      "id": 67,
+      "type": "multiple-choice",
+      "question": "Soccer _____ in many countries.",
+      "options": [
+        "is played",
+        "plays",
+        "are played",
+        "playing"
+      ],
+      "correctIndex": 0,
+      "explanation": "Soccer (singular) + is + played",
+      "hints": [
+        "Sport names are singular"
+      ],
+      "points": 10
+    },
+    {
+      "id": 68,
+      "type": "multiple-choice",
+      "question": "The streets _____ every morning.",
+      "options": [
+        "is cleaned",
+        "cleans",
+        "are cleaned",
+        "cleaning"
+      ],
+      "correctIndex": 2,
+      "explanation": "Streets (plural) + are + cleaned",
+      "hints": [
+        "Plural subject"
+      ],
+      "points": 10
+    },
+    {
+      "id": 69,
+      "type": "multiple-choice",
+      "question": "This computer _____ by Dell.",
+      "options": [
+        "is made",
+        "makes",
+        "are made",
+        "making"
+      ],
+      "correctIndex": 0,
+      "explanation": "Computer (singular) + is + made + by (company)",
+      "hints": [
+        "Company = agent (by)"
+      ],
+      "points": 10
+    },
+    {
+      "id": 70,
+      "type": "multiple-choice",
+      "question": "The homework _____ by students.",
+      "options": [
+        "is done",
+        "does",
+        "are done",
+        "doing"
+      ],
+      "correctIndex": 0,
+      "explanation": "Homework (singular/uncountable) + is + done",
+      "hints": [
+        "Homework is uncountable"
+      ],
+      "points": 10
+    },
+    {
+      "id": 71,
+      "type": "multiple-choice",
+      "question": "Roses _____ in the garden.",
+      "options": [
+        "is grown",
+        "grows",
+        "are grown",
+        "growing"
+      ],
+      "correctIndex": 2,
+      "explanation": "Roses (plural) + are + grown",
+      "hints": [
+        "Plural flowers"
+      ],
+      "points": 10
+    },
+    {
+      "id": 72,
+      "type": "multiple-choice",
+      "question": "The news _____ on TV every evening.",
+      "options": [
+        "is shown",
+        "shows",
+        "are shown",
+        "showing"
+      ],
+      "correctIndex": 0,
+      "explanation": "**Đây là 'bẫy' thường gặp về từ 'NEWS':**\n• 'News' tuy có đuôi 's' nhưng là danh từ SỐ ÍT!\n• News = tin tức (không đếm được, luôn số ít)\n• News IS shown (không phải news ARE shown)\n\n**Các từ tương tự (có 's' nhưng số ít):**\n• news (tin tức)\n• mathematics (toán)\n• physics (vật lý)\n• economics (kinh tế học)\n\n**Đáp án:** A. 'is shown' ✓ - News (số ít) + IS + shown (V3)",
+      "hints": [
+        "'News' is always singular"
+      ],
+      "points": 10
+    },
+    {
+      "id": 73,
+      "type": "multiple-choice",
+      "question": "Paper _____ from trees.",
+      "options": [
+        "is made",
+        "makes",
+        "are made",
+        "making"
+      ],
+      "correctIndex": 0,
+      "explanation": "Paper (singular/uncountable) + is + made",
+      "hints": [
+        "Paper is uncountable"
+      ],
+      "points": 10
+    },
+    {
+      "id": 74,
+      "type": "multiple-choice",
+      "question": "The letters _____ by the postman.",
+      "options": [
+        "is delivered",
+        "delivers",
+        "are delivered",
+        "delivering"
+      ],
+      "correctIndex": 2,
+      "explanation": "Letters (plural) + are + delivered + by (person)",
+      "hints": [
+        "Plural subject"
+      ],
+      "points": 10
+    },
+    {
+      "id": 75,
+      "type": "multiple-choice",
+      "question": "Ice cream _____ in the freezer.",
+      "options": [
+        "is kept",
+        "keeps",
+        "are kept",
+        "keeping"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ice cream (singular/uncountable) + is + kept",
+      "hints": [
+        "Ice cream is uncountable"
+      ],
+      "points": 10
+    },
+    {
+      "id": 76,
+      "type": "multiple-choice",
+      "question": "The rooms _____ every day.",
+      "options": [
+        "is cleaned",
+        "cleans",
+        "are cleaned",
+        "cleaning"
+      ],
+      "correctIndex": 2,
+      "explanation": "Rooms (plural) + are + cleaned",
+      "hints": [
+        "Plural rooms"
+      ],
+      "points": 10
+    },
+    {
+      "id": 77,
+      "type": "multiple-choice",
+      "question": "Gold _____ in South Africa.",
+      "options": [
+        "is found",
+        "finds",
+        "are found",
+        "finding"
+      ],
+      "correctIndex": 0,
+      "explanation": "Gold (singular/uncountable) + is + found",
+      "hints": [
+        "Gold is uncountable"
+      ],
+      "points": 10
+    },
+    {
+      "id": 78,
+      "type": "multiple-choice",
+      "question": "The children _____ to school by bus.",
+      "options": [
+        "is taken",
+        "takes",
+        "are taken",
+        "taking"
+      ],
+      "correctIndex": 2,
+      "explanation": "Children (plural) + are + taken",
+      "hints": [
+        "Children is plural"
+      ],
+      "points": 10
+    },
+    {
+      "id": 79,
+      "type": "multiple-choice",
+      "question": "This dress _____ by a famous designer.",
+      "options": [
+        "is designed",
+        "designs",
+        "are designed",
+        "designing"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dress (singular) + is + designed + by (person)",
+      "hints": [
+        "Designer = person (by)"
+      ],
+      "points": 10
+    },
+    {
+      "id": 80,
+      "type": "multiple-choice",
+      "question": "The trees _____ every spring.",
+      "options": [
+        "is planted",
+        "plants",
+        "are planted",
+        "planting"
+      ],
+      "correctIndex": 2,
+      "explanation": "Trees (plural) + are + planted",
+      "hints": [
+        "Plural trees"
+      ],
+      "points": 10
+    },
+    {
+      "id": 81,
+      "type": "multiple-choice",
+      "question": "Milk _____ by cows.",
+      "options": [
+        "is produced",
+        "produces",
+        "are produced",
+        "producing"
+      ],
+      "correctIndex": 0,
+      "explanation": "Milk (singular/uncountable) + is + produced + by (animal)",
+      "hints": [
+        "Milk is uncountable"
+      ],
+      "points": 10
+    },
+    {
+      "id": 82,
+      "type": "multiple-choice",
+      "question": "The gifts _____ in colorful paper.",
+      "options": [
+        "is wrapped",
+        "wraps",
+        "are wrapped",
+        "wrapping"
+      ],
+      "correctIndex": 2,
+      "explanation": "Gifts (plural) + are + wrapped + in (location/material)",
+      "hints": [
+        "Plural gifts"
+      ],
+      "points": 10
+    },
+    {
+      "id": 83,
+      "type": "multiple-choice",
+      "question": "The cake _____ with chocolate.",
+      "options": [
+        "is decorated",
+        "decorates",
+        "are decorated",
+        "decorating"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cake (singular) + is + decorated + with (material)",
+      "hints": [
+        "'With' for decoration material"
+      ],
+      "points": 10
+    },
+    {
+      "id": 84,
+      "type": "multiple-choice",
+      "question": "Oil _____ from underground.",
+      "options": [
+        "is extracted",
+        "extracts",
+        "are extracted",
+        "extracting"
+      ],
+      "correctIndex": 0,
+      "explanation": "Oil (singular/uncountable) + is + extracted",
+      "hints": [
+        "Oil is uncountable"
+      ],
+      "points": 10
+    },
+    {
+      "id": 85,
+      "type": "multiple-choice",
+      "question": "The questions _____ by the students.",
+      "options": [
+        "is answered",
+        "answers",
+        "are answered",
+        "answering"
+      ],
+      "correctIndex": 2,
+      "explanation": "Questions (plural) + are + answered + by (person)",
+      "hints": [
+        "Plural questions"
+      ],
+      "points": 10
+    },
+    {
+      "id": 86,
+      "type": "multiple-choice",
+      "question": "The bridge _____ in 1990.",
+      "options": [
+        "is built",
+        "was built",
+        "builds",
+        "are built"
+      ],
+      "correctIndex": 1,
+      "explanation": "1990 (past) requires 'was built' (past passive)",
+      "hints": [
+        "Past time = was/were"
+      ],
+      "points": 10
+    },
+    {
+      "id": 87,
+      "type": "multiple-choice",
+      "question": "Jewelry _____ with precious stones.",
+      "options": [
+        "is made",
+        "makes",
+        "are made",
+        "making"
+      ],
+      "correctIndex": 0,
+      "explanation": "Jewelry (singular/uncountable) + is + made + with (material)",
+      "hints": [
+        "Jewelry is uncountable"
+      ],
+      "points": 10
+    },
+    {
+      "id": 88,
+      "type": "multiple-choice",
+      "question": "The laptops _____ in the office.",
+      "options": [
+        "is used",
+        "uses",
+        "are used",
+        "using"
+      ],
+      "correctIndex": 2,
+      "explanation": "Laptops (plural) + are + used",
+      "hints": [
+        "Plural laptops"
+      ],
+      "points": 10
+    },
+    {
+      "id": 89,
+      "type": "multiple-choice",
+      "question": "The song _____ by millions of people.",
+      "options": [
+        "is loved",
+        "loves",
+        "are loved",
+        "loving"
+      ],
+      "correctIndex": 0,
+      "explanation": "Song (singular) + is + loved + by (people)",
+      "hints": [
+        "One song = singular"
+      ],
+      "points": 10
+    },
+    {
+      "id": 90,
+      "type": "multiple-choice",
+      "question": "Bread _____ in the bakery.",
+      "options": [
+        "is baked",
+        "bakes",
+        "are baked",
+        "baking"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bread (singular/uncountable) + is + baked",
+      "hints": [
+        "Bread is uncountable"
+      ],
+      "points": 10
+    },
+    {
+      "id": 91,
+      "type": "multiple-choice",
+      "question": "The documents _____ in the drawer.",
+      "options": [
+        "is stored",
+        "stores",
+        "are stored",
+        "storing"
+      ],
+      "correctIndex": 2,
+      "explanation": "Documents (plural) + are + stored",
+      "hints": [
+        "Plural documents"
+      ],
+      "points": 10
+    },
+    {
+      "id": 92,
+      "type": "multiple-choice",
+      "question": "Tea _____ in many Asian countries.",
+      "options": [
+        "is grown",
+        "grows",
+        "are grown",
+        "growing"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tea (singular/uncountable) + is + grown",
+      "hints": [
+        "Tea is uncountable"
+      ],
+      "points": 10
+    },
+    {
+      "id": 93,
+      "type": "multiple-choice",
+      "question": "The walls _____ white.",
+      "options": [
+        "is painted",
+        "paints",
+        "are painted",
+        "painting"
+      ],
+      "correctIndex": 2,
+      "explanation": "Walls (plural) + are + painted",
+      "hints": [
+        "Plural walls"
+      ],
+      "points": 10
+    },
+    {
+      "id": 94,
+      "type": "word-rearrange",
+      "words": [
+        "is",
+        "French",
+        "spoken",
+        "in",
+        "France"
+      ],
+      "hints": [
+        "Subject + is + V3 + place"
+      ],
+      "points": 10,
+      "correctSentence": "French is spoken in France"
+    },
+    {
+      "id": 95,
+      "type": "word-rearrange",
+      "words": [
+        "are",
+        "made",
+        "films",
+        "in",
+        "Hollywood"
+      ],
+      "hints": [
+        "Plural subject first"
+      ],
+      "points": 10,
+      "correctSentence": "Films are made in Hollywood"
+    },
+    {
+      "id": 96,
+      "type": "word-rearrange",
+      "words": [
+        "is",
+        "rice",
+        "grown",
+        "in",
+        "Asia"
+      ],
+      "hints": [
+        "Rice + is + grown + place"
+      ],
+      "points": 10,
+      "correctSentence": "Rice is grown in Asia"
+    },
+    {
+      "id": 97,
+      "type": "word-rearrange",
+      "words": [
+        "the",
+        "is",
+        "by",
+        "directed",
+        "film",
+        "Spielberg"
+      ],
+      "hints": [
+        "Subject + is + V3 + by + person"
+      ],
+      "points": 10,
+      "correctSentence": "The film is directed by Spielberg"
+    },
+    {
+      "id": 98,
+      "type": "word-rearrange",
+      "words": [
+        "are",
+        "books",
+        "sold",
+        "in",
+        "bookshops"
+      ],
+      "hints": [
+        "Plural + are + V3 + place"
+      ],
+      "points": 10,
+      "correctSentence": "Books are sold in bookshops"
+    },
+    {
+      "id": 99,
+      "type": "word-rearrange",
+      "words": [
+        "is",
+        "English",
+        "taught",
+        "in",
+        "schools"
+      ],
+      "hints": [
+        "Subject + is + V3 + place"
+      ],
+      "points": 10,
+      "correctSentence": "English is taught in schools"
+    },
+    {
+      "id": 100,
+      "type": "word-rearrange",
+      "words": [
+        "bread",
+        "is",
+        "cut",
+        "with",
+        "a",
+        "knife"
+      ],
+      "hints": [
+        "Tool = with"
+      ],
+      "points": 10,
+      "correctSentence": "Bread is cut with a knife"
+    },
+    {
+      "id": 101,
+      "type": "word-rearrange",
+      "words": [
+        "the",
+        "are",
+        "streets",
+        "with",
+        "decorated",
+        "lights"
+      ],
+      "hints": [
+        "Plural + are + V3 + with + material"
+      ],
+      "points": 10,
+      "correctSentence": "The streets are decorated with lights"
+    },
+    {
+      "id": 102,
+      "type": "word-rearrange",
+      "words": [
+        "is",
+        "coffee",
+        "produced",
+        "in",
+        "Brazil"
+      ],
+      "hints": [
+        "Coffee + is + V3 + place"
+      ],
+      "points": 10,
+      "correctSentence": "Coffee is produced in Brazil"
+    },
+    {
+      "id": 103,
+      "type": "word-rearrange",
+      "words": [
+        "the",
+        "is",
+        "brought",
+        "by",
+        "food",
+        "a",
+        "waiter"
+      ],
+      "hints": [
+        "Person = by"
+      ],
+      "points": 10,
+      "correctSentence": "The food is brought by a waiter"
+    },
+    {
+      "id": 104,
+      "type": "word-rearrange",
+      "words": [
+        "are",
+        "houses",
+        "built",
+        "with",
+        "bricks"
+      ],
+      "hints": [
+        "Material = with"
+      ],
+      "points": 10,
+      "correctSentence": "Houses are built with bricks"
+    },
+    {
+      "id": 105,
+      "type": "word-rearrange",
+      "words": [
+        "the",
+        "is",
+        "picture",
+        "painted",
+        "with",
+        "oil",
+        "paints"
+      ],
+      "hints": [
+        "Tool/material = with"
+      ],
+      "points": 10,
+      "correctSentence": "The picture is painted with oil paints"
+    },
+    {
+      "id": 106,
+      "type": "word-rearrange",
+      "words": [
+        "is",
+        "Spanish",
+        "spoken",
+        "in",
+        "Mexico"
+      ],
+      "hints": [
+        "Language + is + spoken + place"
+      ],
+      "points": 10,
+      "correctSentence": "Spanish is spoken in Mexico"
+    },
+    {
+      "id": 107,
+      "type": "word-rearrange",
+      "words": [
+        "are",
+        "emails",
+        "sent",
+        "every",
+        "day"
+      ],
+      "hints": [
+        "Plural + are + V3 + time"
+      ],
+      "points": 10,
+      "correctSentence": "Emails are sent every day"
+    },
+    {
+      "id": 108,
+      "type": "word-rearrange",
+      "words": [
+        "the",
+        "car",
+        "is",
+        "washed",
+        "every",
+        "week"
+      ],
+      "hints": [
+        "Singular + is + V3 + time"
+      ],
+      "points": 10,
+      "correctSentence": "The car is washed every week"
+    },
+    {
+      "id": 109,
+      "type": "word-rearrange",
+      "words": [
+        "is",
+        "chocolate",
+        "made",
+        "from",
+        "cocoa",
+        "beans"
+      ],
+      "hints": [
+        "Subject + is + made + from + material"
+      ],
+      "points": 10,
+      "correctSentence": "Chocolate is made from cocoa beans"
+    },
+    {
+      "id": 110,
+      "type": "word-rearrange",
+      "words": [
+        "the",
+        "windows",
+        "are",
+        "cleaned",
+        "twice",
+        "a",
+        "month"
+      ],
+      "hints": [
+        "Plural + are + V3 + frequency"
+      ],
+      "points": 10,
+      "correctSentence": "The windows are cleaned twice a month"
+    },
+    {
+      "id": 111,
+      "type": "word-rearrange",
+      "words": [
+        "pizza",
+        "is",
+        "invented",
+        "in",
+        "Italy"
+      ],
+      "hints": [
+        "Food + is + V3 + place"
+      ],
+      "points": 10,
+      "correctSentence": "Pizza is invented in Italy"
+    },
+    {
+      "id": 112,
+      "type": "word-rearrange",
+      "words": [
+        "the",
+        "door",
+        "is",
+        "opened",
+        "with",
+        "a",
+        "key"
+      ],
+      "hints": [
+        "Tool = with"
+      ],
+      "points": 10,
+      "correctSentence": "The door is opened with a key"
+    },
+    {
+      "id": 113,
+      "type": "word-rearrange",
+      "words": [
+        "new",
+        "houses",
+        "are",
+        "built",
+        "every",
+        "year"
+      ],
+      "hints": [
+        "Adjective + plural + are + V3 + time"
+      ],
+      "points": 10,
+      "correctSentence": "New houses are built every year"
+    },
+    {
+      "id": 114,
+      "type": "word-rearrange",
+      "words": [
+        "the",
+        "test",
+        "is",
+        "checked",
+        "by",
+        "the",
+        "teacher"
+      ],
+      "hints": [
+        "Singular + is + V3 + by + person"
+      ],
+      "points": 10,
+      "correctSentence": "The test is checked by the teacher"
+    },
+    {
+      "id": 115,
+      "type": "word-rearrange",
+      "words": [
+        "stories",
+        "are",
+        "written",
+        "by",
+        "writers"
+      ],
+      "hints": [
+        "Plural + are + V3 + by + people"
+      ],
+      "points": 10,
+      "correctSentence": "Stories are written by writers"
+    },
+    {
+      "id": 116,
+      "type": "word-rearrange",
+      "words": [
+        "the",
+        "museum",
+        "is",
+        "opened",
+        "at",
+        "9",
+        "AM"
+      ],
+      "hints": [
+        "Building + is + V3 + time"
+      ],
+      "points": 10,
+      "correctSentence": "The museum is opened at 9 AM"
+    },
+    {
+      "id": 117,
+      "type": "word-rearrange",
+      "words": [
+        "soccer",
+        "is",
+        "played",
+        "in",
+        "many",
+        "countries"
+      ],
+      "hints": [
+        "Sport + is + V3 + place"
+      ],
+      "points": 10,
+      "correctSentence": "Soccer is played in many countries"
+    },
+    {
+      "id": 118,
+      "type": "word-rearrange",
+      "words": [
+        "the",
+        "streets",
+        "are",
+        "cleaned",
+        "every",
+        "morning"
+      ],
+      "hints": [
+        "Plural + are + V3 + time"
+      ],
+      "points": 10,
+      "correctSentence": "The streets are cleaned every morning"
+    },
+    {
+      "id": 119,
+      "type": "word-rearrange",
+      "words": [
+        "this",
+        "computer",
+        "is",
+        "made",
+        "by",
+        "Dell"
+      ],
+      "hints": [
+        "Product + is + made + by + company"
+      ],
+      "points": 10,
+      "correctSentence": "This computer is made by Dell"
+    },
+    {
+      "id": 120,
+      "type": "word-rearrange",
+      "words": [
+        "the",
+        "homework",
+        "is",
+        "done",
+        "by",
+        "students"
+      ],
+      "hints": [
+        "Homework + is + V3 + by + people"
+      ],
+      "points": 10,
+      "correctSentence": "The homework is done by students"
+    },
+    {
+      "id": 121,
+      "type": "word-rearrange",
+      "words": [
+        "roses",
+        "are",
+        "grown",
+        "in",
+        "the",
+        "garden"
+      ],
+      "hints": [
+        "Plural flowers + are + V3 + place"
+      ],
+      "points": 10,
+      "correctSentence": "Roses are grown in the garden"
+    },
+    {
+      "id": 122,
+      "type": "word-rearrange",
+      "words": [
+        "the",
+        "news",
+        "is",
+        "shown",
+        "on",
+        "TV"
+      ],
+      "hints": [
+        "News is singular"
+      ],
+      "points": 10,
+      "correctSentence": "The news is shown on TV"
+    },
+    {
+      "id": 123,
+      "type": "word-rearrange",
+      "words": [
+        "paper",
+        "is",
+        "made",
+        "from",
+        "trees"
+      ],
+      "hints": [
+        "Subject + is + made from + source"
+      ],
+      "points": 10,
+      "correctSentence": "Paper is made from trees"
+    },
+    {
+      "id": 124,
+      "type": "word-rearrange",
+      "words": [
+        "the",
+        "letters",
+        "are",
+        "delivered",
+        "by",
+        "the",
+        "postman"
+      ],
+      "hints": [
+        "Plural + are + V3 + by + person"
+      ],
+      "points": 10,
+      "correctSentence": "The letters are delivered by the postman"
+    },
+    {
+      "id": 125,
+      "type": "word-rearrange",
+      "words": [
+        "ice",
+        "cream",
+        "is",
+        "kept",
+        "in",
+        "the",
+        "freezer"
+      ],
+      "hints": [
+        "Ice cream + is + V3 + place"
+      ],
+      "points": 10,
+      "correctSentence": "Ice cream is kept in the freezer"
+    },
+    {
+      "id": 126,
+      "type": "word-rearrange",
+      "words": [
+        "the",
+        "rooms",
+        "are",
+        "cleaned",
+        "every",
+        "day"
+      ],
+      "hints": [
+        "Plural + are + V3 + frequency"
+      ],
+      "points": 10,
+      "correctSentence": "The rooms are cleaned every day"
+    },
+    {
+      "id": 127,
+      "type": "word-rearrange",
+      "words": [
+        "gold",
+        "is",
+        "found",
+        "in",
+        "South",
+        "Africa"
+      ],
+      "hints": [
+        "Material + is + V3 + place"
+      ],
+      "points": 10,
+      "correctSentence": "Gold is found in South Africa"
+    },
+    {
+      "id": 128,
+      "type": "word-rearrange",
+      "words": [
+        "the",
+        "children",
+        "are",
+        "taken",
+        "to",
+        "school"
+      ],
+      "hints": [
+        "Children is plural"
+      ],
+      "points": 10,
+      "correctSentence": "The children are taken to school"
+    },
+    {
+      "id": 129,
+      "type": "word-rearrange",
+      "words": [
+        "this",
+        "dress",
+        "is",
+        "designed",
+        "by",
+        "a",
+        "designer"
+      ],
+      "hints": [
+        "Product + is + V3 + by + person"
+      ],
+      "points": 10,
+      "correctSentence": "This dress is designed by a designer"
+    },
+    {
+      "id": 130,
+      "type": "word-rearrange",
+      "words": [
+        "the",
+        "trees",
+        "are",
+        "planted",
+        "every",
+        "spring"
+      ],
+      "hints": [
+        "Plural + are + V3 + time"
+      ],
+      "points": 10,
+      "correctSentence": "The trees are planted every spring"
+    },
+    {
+      "id": 131,
+      "type": "word-rearrange",
+      "words": [
+        "milk",
+        "is",
+        "produced",
+        "by",
+        "cows"
+      ],
+      "hints": [
+        "Product + is + V3 + by + animal"
+      ],
+      "points": 10,
+      "correctSentence": "Milk is produced by cows"
+    },
+    {
+      "id": 132,
+      "type": "word-rearrange",
+      "words": [
+        "the",
+        "gifts",
+        "are",
+        "wrapped",
+        "in",
+        "paper"
+      ],
+      "hints": [
+        "Plural + are + V3 + in + material"
+      ],
+      "points": 10,
+      "correctSentence": "The gifts are wrapped in paper"
+    },
+    {
+      "id": 133,
+      "type": "word-rearrange",
+      "words": [
+        "the",
+        "cake",
+        "is",
+        "decorated",
+        "with",
+        "chocolate"
+      ],
+      "hints": [
+        "Decoration material = with"
+      ],
+      "points": 10,
+      "correctSentence": "The cake is decorated with chocolate"
+    },
+    {
+      "id": 134,
+      "type": "word-rearrange",
+      "words": [
+        "oil",
+        "is",
+        "extracted",
+        "from",
+        "underground"
+      ],
+      "hints": [
+        "Material + is + V3 + from + source"
+      ],
+      "points": 10,
+      "correctSentence": "Oil is extracted from underground"
+    },
+    {
+      "id": 135,
+      "type": "word-rearrange",
+      "words": [
+        "the",
+        "questions",
+        "are",
+        "answered",
+        "by",
+        "students"
+      ],
+      "hints": [
+        "Plural + are + V3 + by + people"
+      ],
+      "points": 10,
+      "correctSentence": "The questions are answered by students"
+    },
+    {
+      "id": 136,
+      "type": "word-rearrange",
+      "words": [
+        "jewelry",
+        "is",
+        "made",
+        "with",
+        "precious",
+        "stones"
+      ],
+      "hints": [
+        "Material = with"
+      ],
+      "points": 10,
+      "correctSentence": "Jewelry is made with precious stones"
+    },
+    {
+      "id": 137,
+      "type": "word-rearrange",
+      "words": [
+        "the",
+        "laptops",
+        "are",
+        "used",
+        "in",
+        "the",
+        "office"
+      ],
+      "hints": [
+        "Plural + are + V3 + place"
+      ],
+      "points": 10,
+      "correctSentence": "The laptops are used in the office"
+    },
+    {
+      "id": 138,
+      "type": "word-rearrange",
+      "words": [
+        "the",
+        "song",
+        "is",
+        "loved",
+        "by",
+        "millions"
+      ],
+      "hints": [
+        "Singular + is + V3 + by + people"
+      ],
+      "points": 10,
+      "correctSentence": "The song is loved by millions"
+    },
+    {
+      "id": 139,
+      "type": "word-rearrange",
+      "words": [
+        "bread",
+        "is",
+        "baked",
+        "in",
+        "the",
+        "bakery"
+      ],
+      "hints": [
+        "Food + is + V3 + place"
+      ],
+      "points": 10,
+      "correctSentence": "Bread is baked in the bakery"
+    },
+    {
+      "id": 140,
+      "type": "word-rearrange",
+      "words": [
+        "the",
+        "documents",
+        "are",
+        "stored",
+        "in",
+        "the",
+        "drawer"
+      ],
+      "hints": [
+        "Plural + are + V3 + place"
+      ],
+      "points": 10,
+      "correctSentence": "The documents are stored in the drawer"
+    },
+    {
+      "id": 141,
+      "type": "word-rearrange",
+      "words": [
+        "tea",
+        "is",
+        "grown",
+        "in",
+        "China"
+      ],
+      "hints": [
+        "Crop + is + V3 + place"
+      ],
+      "points": 10,
+      "correctSentence": "Tea is grown in China"
+    },
+    {
+      "id": 142,
+      "type": "word-rearrange",
+      "words": [
+        "the",
+        "walls",
+        "are",
+        "painted",
+        "white"
+      ],
+      "hints": [
+        "Plural + are + V3 + color"
+      ],
+      "points": 10,
+      "correctSentence": "The walls are painted white"
+    },
+    {
+      "id": 143,
+      "type": "word-rearrange",
+      "words": [
+        "oranges",
+        "are",
+        "grown",
+        "in",
+        "Florida"
+      ],
+      "hints": [
+        "Plural fruit + are + V3 + place"
+      ],
+      "points": 10,
+      "correctSentence": "Oranges are grown in Florida"
+    },
+    {
+      "id": 144,
+      "type": "multiple-choice",
+      "question": "The movie _____ watched by millions of people every year.",
+      "options": [
+        "is",
+        "are",
+        "was",
+        "were"
+      ],
+      "correctIndex": 0,
+      "explanation": "Movie (singular) + is + V3",
+      "hints": [
+        "Singular subject = is"
+      ],
+      "points": 10
+    },
+    {
+      "id": 145,
+      "type": "multiple-choice",
+      "question": "The packages _____ delivered to the customers.",
+      "options": [
+        "is",
+        "are",
+        "was",
+        "been"
+      ],
+      "correctIndex": 1,
+      "explanation": "Packages (plural) + are + V3",
+      "hints": [
+        "Plural = are"
+      ],
+      "points": 10
+    },
+    {
+      "id": 146,
+      "type": "multiple-choice",
+      "question": "Vietnamese food _____ loved around the world.",
+      "options": [
+        "is",
+        "are",
+        "was",
+        "were"
+      ],
+      "correctIndex": 0,
+      "explanation": "Food (uncountable/singular) + is + V3",
+      "hints": [
+        "Food = singular"
+      ],
+      "points": 10
+    },
+    {
+      "id": 147,
+      "type": "multiple-choice",
+      "question": "The flowers _____ watered _____ the gardener.",
+      "options": [
+        "are / by",
+        "is / by",
+        "are / with",
+        "is / with"
+      ],
+      "correctIndex": 0,
+      "explanation": "**Phân tích 2 chỗ trống:**\n\n**Chỗ trống 1: is hay are?**\n• 'Flowers' = hoa (số nhiều) → dùng ARE\n• ❌ is / ✓ are\n\n**Chỗ trống 2: by hay with?**\n• 'Gardener' = người làm vườn → NGƯỜI\n• NGƯỜI thực hiện hành động → dùng BY\n• ❌ with / ✓ by\n\n**So sánh:**\n• 'Flowers are watered BY the gardener' (người tưới)\n• 'Flowers are watered WITH a hose' (dùng vòi → công cụ)",
+      "hints": [
+        "Plural + person = are...by"
+      ],
+      "points": 10
+    },
+    {
+      "id": 148,
+      "type": "multiple-choice",
+      "question": "The soup _____ made _____ fresh vegetables.",
+      "options": [
+        "is / by",
+        "are / by",
+        "is / with",
+        "are / with"
+      ],
+      "correctIndex": 2,
+      "explanation": "**Phân tích 2 chỗ trống:**\n\n**Chỗ trống 1: is hay are?**\n• 'Soup' = súp (không đếm được = số ít) → dùng IS\n• ❌ are / ✓ is\n\n**Chỗ trống 2: by hay with?**\n• 'Fresh vegetables' = rau tươi → NGUYÊN LIỆU\n• NGUYÊN LIỆU để làm món ăn → dùng WITH\n• ❌ by / ✓ with\n\n**So sánh:**\n• 'Soup is made WITH vegetables' (nguyên liệu)\n• 'Soup is made BY the chef' (người nấu)",
+      "hints": [
+        "Singular + ingredients = is...with"
+      ],
+      "points": 10
+    },
+    {
+      "id": 149,
+      "type": "multiple-choice",
+      "question": "The walls _____ painted _____ bright colors.",
+      "options": [
+        "is / by",
+        "are / by",
+        "is / with",
+        "are / with"
+      ],
+      "correctIndex": 3,
+      "explanation": "Walls (plural) + are + V3. Materials = with",
+      "hints": [
+        "Plural + materials = are...with"
+      ],
+      "points": 10
+    },
+    {
+      "id": 150,
+      "type": "word-rearrange",
+      "words": [
+        "the",
+        "car",
+        "is",
+        "washed",
+        "by",
+        "my",
+        "dad"
+      ],
+      "hints": [
+        "Person = by"
+      ],
+      "points": 10,
+      "correctSentence": "The car is washed by my dad"
+    },
+    {
+      "id": 151,
+      "type": "word-rearrange",
+      "words": [
+        "the",
+        "floor",
+        "is",
+        "cleaned",
+        "with",
+        "a",
+        "mop"
+      ],
+      "hints": [
+        "Tool = with"
+      ],
+      "points": 10,
+      "correctSentence": "The floor is cleaned with a mop"
+    },
+    {
+      "id": 152,
+      "type": "word-rearrange",
+      "words": [
+        "vegetables",
+        "are",
+        "sold",
+        "in",
+        "the",
+        "market"
+      ],
+      "hints": [
+        "Plural + are + V3 + place"
+      ],
+      "points": 10,
+      "correctSentence": "Vegetables are sold in the market"
+    },
+    {
+      "id": 153,
+      "type": "word-rearrange",
+      "words": [
+        "the",
+        "meals",
+        "are",
+        "cooked",
+        "by",
+        "the",
+        "chef"
+      ],
+      "hints": [
+        "Person = by"
+      ],
+      "points": 10,
+      "correctSentence": "The meals are cooked by the chef"
+    },
+    {
+      "id": 154,
+      "type": "multiple-choice",
+      "question": "The report _____ written in English.",
+      "options": [
+        "is",
+        "are",
+        "was",
+        "been"
+      ],
+      "correctIndex": 0,
+      "explanation": "Report (singular) + is + V3",
+      "hints": [
+        "Singular = is"
+      ],
+      "points": 10
+    },
+    {
+      "id": 155,
+      "type": "multiple-choice",
+      "question": "These toys _____ designed for children aged 5-10.",
+      "options": [
+        "is",
+        "are",
+        "was",
+        "been"
+      ],
+      "correctIndex": 1,
+      "explanation": "Toys (plural) + are + V3",
+      "hints": [
+        "These = plural = are"
+      ],
+      "points": 10
+    },
+    {
+      "id": 156,
+      "type": "multiple-choice",
+      "question": "The music _____ composed _____ a famous musician.",
+      "options": [
+        "is / by",
+        "are / by",
+        "is / with",
+        "are / with"
+      ],
+      "correctIndex": 0,
+      "explanation": "Music (singular) + is + composed + by (person)",
+      "hints": [
+        "Singular + person = is...by"
+      ],
+      "points": 10
+    },
+    {
+      "id": 157,
+      "type": "multiple-choice",
+      "question": "The sandwiches _____ filled _____ cheese and ham.",
+      "options": [
+        "is / by",
+        "are / by",
+        "is / with",
+        "are / with"
+      ],
+      "correctIndex": 3,
+      "explanation": "Sandwiches (plural) + are + filled + with (ingredients)",
+      "hints": [
+        "Plural + ingredients = are...with"
+      ],
+      "points": 10
+    },
+    {
+      "id": 158,
+      "type": "word-rearrange",
+      "words": [
+        "the",
+        "book",
+        "is",
+        "read",
+        "by",
+        "students"
+      ],
+      "hints": [
+        "Singular + is + V3 + by + people"
+      ],
+      "points": 10,
+      "correctSentence": "The book is read by students"
+    },
+    {
+      "id": 159,
+      "type": "word-rearrange",
+      "words": [
+        "the",
+        "lawn",
+        "is",
+        "cut",
+        "with",
+        "a",
+        "mower"
+      ],
+      "hints": [
+        "Tool = with"
+      ],
+      "points": 10,
+      "correctSentence": "The lawn is cut with a mower"
+    },
+    {
+      "id": 160,
+      "type": "word-rearrange",
+      "words": [
+        "newspapers",
+        "are",
+        "delivered",
+        "every",
+        "morning"
+      ],
+      "hints": [
+        "Plural + are + V3 + time"
+      ],
+      "points": 10,
+      "correctSentence": "Newspapers are delivered every morning"
+    },
+    {
+      "id": 161,
+      "type": "multiple-choice",
+      "question": "The website _____ updated regularly.",
+      "options": [
+        "is",
+        "are",
+        "was",
+        "been"
+      ],
+      "correctIndex": 0,
+      "explanation": "Website (singular) + is + V3",
+      "hints": [
+        "Singular = is"
+      ],
+      "points": 10
+    },
+    {
+      "id": 162,
+      "type": "multiple-choice",
+      "question": "Messages _____ sent instantly these days.",
+      "options": [
+        "is",
+        "are",
+        "was",
+        "been"
+      ],
+      "correctIndex": 1,
+      "explanation": "Messages (plural) + are + V3",
+      "hints": [
+        "Plural = are"
+      ],
+      "points": 10
+    },
+    {
+      "id": 163,
+      "type": "multiple-choice",
+      "question": "This smartphone _____ manufactured _____ Samsung.",
+      "options": [
+        "is / by",
+        "are / by",
+        "is / with",
+        "are / with"
+      ],
+      "correctIndex": 0,
+      "explanation": "Smartphone (singular) + is + V3 + by (company)",
+      "hints": [
+        "Singular + company = is...by"
+      ],
+      "points": 10
+    },
+    {
+      "id": 164,
+      "type": "multiple-choice",
+      "question": "The pizza _____ topped _____ cheese and tomatoes.",
+      "options": [
+        "is / by",
+        "are / by",
+        "is / with",
+        "are / with"
+      ],
+      "correctIndex": 2,
+      "explanation": "Pizza (singular) + is + V3 + with (ingredients)",
+      "hints": [
+        "Singular + ingredients = is...with"
+      ],
+      "points": 10
+    },
+    {
+      "id": 165,
+      "type": "word-rearrange",
+      "words": [
+        "the",
+        "stadium",
+        "is",
+        "filled",
+        "with",
+        "fans"
+      ],
+      "hints": [
+        "is filled with"
+      ],
+      "points": 10,
+      "correctSentence": "The stadium is filled with fans"
+    },
+    {
+      "id": 166,
+      "type": "word-rearrange",
+      "words": [
+        "the",
+        "clothes",
+        "are",
+        "designed",
+        "by",
+        "famous",
+        "designers"
+      ],
+      "hints": [
+        "Person = by"
+      ],
+      "points": 10,
+      "correctSentence": "The clothes are designed by famous designers"
+    },
+    {
+      "id": 167,
+      "type": "word-rearrange",
+      "words": [
+        "water",
+        "is",
+        "stored",
+        "in",
+        "tanks"
+      ],
+      "hints": [
+        "Uncountable + is + V3"
+      ],
+      "points": 10,
+      "correctSentence": "Water is stored in tanks"
+    },
+    {
+      "id": 168,
+      "type": "word-rearrange",
+      "words": [
+        "the",
+        "dishes",
+        "are",
+        "washed",
+        "with",
+        "soap"
+      ],
+      "hints": [
+        "Material = with"
+      ],
+      "points": 10,
+      "correctSentence": "The dishes are washed with soap"
+    },
+    {
+      "id": 169,
+      "type": "multiple-choice",
+      "question": "Smartphones _____ by millions of people every day.",
+      "options": [
+        "is used",
+        "are used",
+        "uses",
+        "using"
+      ],
+      "correctIndex": 1,
+      "explanation": "**Phân tích:**\n• 'Smartphones' = điện thoại thông minh (số nhiều) → dùng ARE\n• Điện thoại không tự sử dụng, điện thoại ĐƯỢC sử dụng → bị động\n• ARE + used (V3 của use)",
+      "hints": [
+        "Plural subject = are"
+      ],
+      "points": 10
+    },
+    {
+      "id": 170,
+      "type": "multiple-choice",
+      "question": "Wi-Fi _____ in most coffee shops.",
+      "options": [
+        "is provided",
+        "are provided",
+        "provides",
+        "providing"
+      ],
+      "correctIndex": 0,
+      "explanation": "**Phân tích:**\n• 'Wi-Fi' = không đếm được, số ít → dùng IS\n• Wi-Fi không tự cung cấp, Wi-Fi ĐƯỢC cung cấp → bị động\n• IS + provided",
+      "hints": [
+        "Wi-Fi is uncountable = singular"
+      ],
+      "points": 10
+    },
+    {
+      "id": 171,
+      "type": "fill-blank",
+      "question": "Apps __________ (download) from the App Store.",
+      "wordHint": "(download)",
+      "answer": "are downloaded",
+      "acceptedAnswers": [
+        "are downloaded"
+      ],
+      "hints": [
+        "Apps = plural → are + V3"
+      ],
+      "explanation": "**Giải thích:**\n• 'Apps' = ứng dụng (số nhiều) → ARE\n• download → downloaded (V3, thêm -ed)\n• Ứng dụng được tải xuống (bị động)",
+      "points": 10
+    },
+    {
+      "id": 172,
+      "type": "fill-blank",
+      "question": "This website __________ (visit) by thousands of users daily.",
+      "wordHint": "(visit)",
+      "answer": "is visited",
+      "acceptedAnswers": [
+        "is visited"
+      ],
+      "hints": [
+        "This website = singular → is + V3"
+      ],
+      "explanation": "**Giải thích:**\n• 'This website' = trang web này (số ít) → IS\n• visit → visited (V3)\n• Trang web được truy cập bởi người dùng",
+      "points": 10
+    },
+    {
+      "id": 173,
+      "type": "multiple-choice",
+      "question": "Sushi _____ with fresh fish and rice.",
+      "options": [
+        "is made",
+        "are made",
+        "makes",
+        "made"
+      ],
+      "correctIndex": 0,
+      "explanation": "**Phân tích:**\n• 'Sushi' = món sushi (không đếm được = số ít) → IS\n• 'fresh fish and rice' = nguyên liệu → dùng WITH\n• Sushi được làm từ nguyên liệu (bị động)",
+      "hints": [
+        "Sushi = uncountable, ingredients = with"
+      ],
+      "points": 10
+    },
+    {
+      "id": 174,
+      "type": "multiple-choice",
+      "question": "Phở _____ in Vietnam.",
+      "options": [
+        "is eaten",
+        "are eaten",
+        "eats",
+        "eating"
+      ],
+      "correctIndex": 0,
+      "explanation": "**Phân tích:**\n• 'Phở' = món phở (không đếm được = số ít) → IS\n• Phở được ăn ở Việt Nam (bị động)\n• eat → eaten (V3)",
+      "hints": [
+        "Phở is a Vietnamese dish = singular"
+      ],
+      "points": 10
+    },
+    {
+      "id": 175,
+      "type": "fill-blank",
+      "question": "Tacos __________ (serve) with salsa and guacamole.",
+      "wordHint": "(serve)",
+      "answer": "are served",
+      "acceptedAnswers": [
+        "are served"
+      ],
+      "hints": [
+        "Tacos = plural → are"
+      ],
+      "explanation": "**Giải thích:**\n• 'Tacos' = bánh taco (số nhiều) → ARE\n• serve → served (V3)\n• 'salsa and guacamole' = đồ ăn kèm → WITH",
+      "points": 10
+    },
+    {
+      "id": 176,
+      "type": "multiple-choice",
+      "question": "Football _____ by billions of fans worldwide.",
+      "options": [
+        "is watched",
+        "are watched",
+        "watches",
+        "watching"
+      ],
+      "correctIndex": 0,
+      "explanation": "**Phân tích:**\n• 'Football' = bóng đá (môn thể thao = số ít) → IS\n• 'billions of fans' = người xem → dùng BY\n• Football được xem bởi người hâm mộ (bị động)",
+      "hints": [
+        "Sports names are singular"
+      ],
+      "points": 10
+    },
+    {
+      "id": 177,
+      "type": "multiple-choice",
+      "question": "The Olympic Games _____ every four years.",
+      "options": [
+        "is held",
+        "are held",
+        "holds",
+        "holding"
+      ],
+      "correctIndex": 1,
+      "explanation": "**Phân tích:**\n• 'The Olympic Games' = Thế vận hội (dùng 'Games' → số nhiều) → ARE\n• Thế vận hội được tổ chức (bị động)\n• hold → held → held (V3)",
+      "hints": [
+        "Games = plural"
+      ],
+      "points": 10
+    },
+    {
+      "id": 178,
+      "type": "fill-blank",
+      "question": "Basketball __________ (play) with a ball and two hoops.",
+      "wordHint": "(play)",
+      "answer": "is played",
+      "acceptedAnswers": [
+        "is played"
+      ],
+      "hints": [
+        "Basketball = singular sport → is"
+      ],
+      "explanation": "**Giải thích:**\n• 'Basketball' = bóng rổ (môn thể thao = số ít) → IS\n• 'a ball and two hoops' = dụng cụ → WITH\n• play → played (V3)",
+      "points": 10
+    },
+    {
+      "id": 179,
+      "type": "multiple-choice",
+      "question": "Trees _____ to produce oxygen.",
+      "options": [
+        "is needed",
+        "are needed",
+        "needs",
+        "needing"
+      ],
+      "correctIndex": 1,
+      "explanation": "**Phân tích:**\n• 'Trees' = cây cối (số nhiều) → ARE\n• Cây cối được cần để tạo ra oxy (bị động)\n• need → needed (V3)",
+      "hints": [
+        "Trees = plural"
+      ],
+      "points": 10
+    },
+    {
+      "id": 180,
+      "type": "multiple-choice",
+      "question": "Plastic _____ in the ocean every day.",
+      "options": [
+        "is dumped",
+        "are dumped",
+        "dumps",
+        "dumping"
+      ],
+      "correctIndex": 0,
+      "explanation": "**Phân tích:**\n• 'Plastic' = nhựa (không đếm được = số ít) → IS\n• Nhựa được vứt xuống đại dương (bị động)\n• dump → dumped (V3)",
+      "hints": [
+        "Plastic = uncountable"
+      ],
+      "points": 10
+    },
+    {
+      "id": 181,
+      "type": "fill-blank",
+      "question": "Endangered animals __________ (protect) by wildlife organizations.",
+      "wordHint": "(protect)",
+      "answer": "are protected",
+      "acceptedAnswers": [
+        "are protected"
+      ],
+      "hints": [
+        "Animals = plural, organizations = by"
+      ],
+      "explanation": "**Giải thích:**\n• 'Endangered animals' = động vật có nguy cơ tuyệt chủng (số nhiều) → ARE\n• 'wildlife organizations' = tổ chức → BY\n• protect → protected (V3)",
+      "points": 10
+    },
+    {
+      "id": 182,
+      "type": "multiple-choice",
+      "question": "Pop songs _____ on the radio every hour.",
+      "options": [
+        "is played",
+        "are played",
+        "plays",
+        "playing"
+      ],
+      "correctIndex": 1,
+      "explanation": "**Phân tích:**\n• 'Pop songs' = các bài hát pop (số nhiều) → ARE\n• Bài hát được phát trên radio (bị động)\n• play → played (V3)",
+      "hints": [
+        "Songs = plural"
+      ],
+      "points": 10
+    },
+    {
+      "id": 183,
+      "type": "multiple-choice",
+      "question": "Concerts _____ by famous singers.",
+      "options": [
+        "is performed",
+        "are performed",
+        "performs",
+        "performing"
+      ],
+      "correctIndex": 1,
+      "explanation": "**Phân tích:**\n• 'Concerts' = các buổi hòa nhạc (số nhiều) → ARE\n• 'famous singers' = ca sĩ nổi tiếng → BY\n• perform → performed (V3)",
+      "hints": [
+        "Concerts = plural, singers = by"
+      ],
+      "points": 10
+    },
+    {
+      "id": 184,
+      "type": "fill-blank",
+      "question": "Music videos __________ (upload) to YouTube daily.",
+      "wordHint": "(upload)",
+      "answer": "are uploaded",
+      "acceptedAnswers": [
+        "are uploaded"
+      ],
+      "hints": [
+        "Videos = plural → are"
+      ],
+      "explanation": "**Giải thích:**\n• 'Music videos' = video âm nhạc (số nhiều) → ARE\n• upload → uploaded (V3)\n• Video được tải lên YouTube (bị động)",
+      "points": 10
+    },
+    {
+      "id": 185,
+      "type": "multiple-choice",
+      "question": "Exams _____ at the end of each semester.",
+      "options": [
+        "is given",
+        "are given",
+        "gives",
+        "giving"
+      ],
+      "correctIndex": 1,
+      "explanation": "**Phân tích:**\n• 'Exams' = các kỳ thi (số nhiều) → ARE\n• Kỳ thi được tổ chức (bị động)\n• give → gave → given (V3)",
+      "hints": [
+        "Exams = plural"
+      ],
+      "points": 10
+    },
+    {
+      "id": 186,
+      "type": "multiple-choice",
+      "question": "Homework _____ by students every day.",
+      "options": [
+        "is completed",
+        "are completed",
+        "completes",
+        "completing"
+      ],
+      "correctIndex": 0,
+      "explanation": "**Phân tích:**\n• 'Homework' = bài tập về nhà (không đếm được = số ít) → IS\n• 'students' = học sinh → BY\n• complete → completed (V3)",
+      "hints": [
+        "Homework = uncountable"
+      ],
+      "points": 10
+    },
+    {
+      "id": 187,
+      "type": "fill-blank",
+      "question": "School uniforms __________ (wear) by students in many countries.",
+      "wordHint": "(wear)",
+      "answer": "are worn",
+      "acceptedAnswers": [
+        "are worn"
+      ],
+      "hints": [
+        "Uniforms = plural, wear-wore-worn"
+      ],
+      "explanation": "**Giải thích:**\n• 'School uniforms' = đồng phục (số nhiều) → ARE\n• wear → wore → WORN (V3 bất quy tắc)\n• Đồng phục được mặc bởi học sinh",
+      "points": 10
+    },
+    {
+      "id": 188,
+      "type": "multiple-choice",
+      "question": "Flights _____ at the airport.",
+      "options": [
+        "is announced",
+        "are announced",
+        "announces",
+        "announcing"
+      ],
+      "correctIndex": 1,
+      "explanation": "**Phân tích:**\n• 'Flights' = các chuyến bay (số nhiều) → ARE\n• Chuyến bay được thông báo (bị động)\n• announce → announced (V3)",
+      "hints": [
+        "Flights = plural"
+      ],
+      "points": 10
+    },
+    {
+      "id": 189,
+      "type": "multiple-choice",
+      "question": "Luggage _____ by security officers.",
+      "options": [
+        "is checked",
+        "are checked",
+        "checks",
+        "checking"
+      ],
+      "correctIndex": 0,
+      "explanation": "**Phân tích:**\n• 'Luggage' = hành lý (không đếm được = số ít) → IS\n• 'security officers' = nhân viên an ninh → BY\n• check → checked (V3)",
+      "hints": [
+        "Luggage = uncountable"
+      ],
+      "points": 10
+    },
+    {
+      "id": 190,
+      "type": "fill-blank",
+      "question": "Tickets __________ (sell) online and at the station.",
+      "wordHint": "(sell)",
+      "answer": "are sold",
+      "acceptedAnswers": [
+        "are sold"
+      ],
+      "hints": [
+        "Tickets = plural, sell-sold-sold"
+      ],
+      "explanation": "**Giải thích:**\n• 'Tickets' = vé (số nhiều) → ARE\n• sell → sold → SOLD (V3)\n• Vé được bán trực tuyến và tại nhà ga",
+      "points": 10
+    },
+    {
+      "id": 191,
+      "type": "multiple-choice",
+      "question": "Patients _____ by doctors and nurses.",
+      "options": [
+        "is treated",
+        "are treated",
+        "treats",
+        "treating"
+      ],
+      "correctIndex": 1,
+      "explanation": "**Phân tích:**\n• 'Patients' = bệnh nhân (số nhiều) → ARE\n• 'doctors and nurses' = người làm → BY\n• treat → treated (V3)",
+      "hints": [
+        "Patients = plural"
+      ],
+      "points": 10
+    },
+    {
+      "id": 192,
+      "type": "multiple-choice",
+      "question": "Medicine _____ at the pharmacy.",
+      "options": [
+        "is sold",
+        "are sold",
+        "sells",
+        "selling"
+      ],
+      "correctIndex": 0,
+      "explanation": "**Phân tích:**\n• 'Medicine' = thuốc (không đếm được = số ít) → IS\n• Thuốc được bán tại nhà thuốc (bị động)\n• sell → sold → sold (V3)",
+      "hints": [
+        "Medicine = uncountable"
+      ],
+      "points": 10
+    },
+    {
+      "id": 193,
+      "type": "fill-blank",
+      "question": "Vaccinations __________ (give) to children at health centers.",
+      "wordHint": "(give)",
+      "answer": "are given",
+      "acceptedAnswers": [
+        "are given"
+      ],
+      "hints": [
+        "Vaccinations = plural, give-gave-given"
+      ],
+      "explanation": "**Giải thích:**\n• 'Vaccinations' = tiêm chủng (số nhiều) → ARE\n• give → gave → GIVEN (V3)\n• Tiêm chủng được thực hiện cho trẻ em",
+      "points": 10
+    },
+    {
+      "id": 194,
+      "type": "multiple-choice",
+      "question": "Fashion shows _____ in Paris and Milan.",
+      "options": [
+        "is held",
+        "are held",
+        "holds",
+        "holding"
+      ],
+      "correctIndex": 1,
+      "explanation": "**Phân tích:**\n• 'Fashion shows' = các buổi trình diễn thời trang (số nhiều) → ARE\n• Buổi trình diễn được tổ chức (bị động)\n• hold → held → held (V3)",
+      "hints": [
+        "Shows = plural"
+      ],
+      "points": 10
+    },
+    {
+      "id": 195,
+      "type": "multiple-choice",
+      "question": "Clothing _____ from cotton and silk.",
+      "options": [
+        "is made",
+        "are made",
+        "makes",
+        "making"
+      ],
+      "correctIndex": 0,
+      "explanation": "**Phân tích:**\n• 'Clothing' = quần áo (không đếm được = số ít) → IS\n• 'cotton and silk' = nguyên liệu → FROM (nguồn gốc)\n• make → made → made (V3)",
+      "hints": [
+        "Clothing = uncountable"
+      ],
+      "points": 10
+    },
+    {
+      "id": 196,
+      "type": "fill-blank",
+      "question": "Designer bags __________ (sell) at high prices.",
+      "wordHint": "(sell)",
+      "answer": "are sold",
+      "acceptedAnswers": [
+        "are sold"
+      ],
+      "hints": [
+        "Bags = plural"
+      ],
+      "explanation": "**Giải thích:**\n• 'Designer bags' = túi hiệu (số nhiều) → ARE\n• sell → sold → SOLD (V3)\n• Túi hiệu được bán với giá cao",
+      "points": 10
+    },
+    {
+      "id": 197,
+      "type": "multiple-choice",
+      "question": "Ancient artifacts _____ in museums.",
+      "options": [
+        "is displayed",
+        "are displayed",
+        "displays",
+        "displaying"
+      ],
+      "correctIndex": 1,
+      "explanation": "**Phân tích:**\n• 'Ancient artifacts' = cổ vật (số nhiều) → ARE\n• Cổ vật được trưng bày (bị động)\n• display → displayed (V3)",
+      "hints": [
+        "Artifacts = plural"
+      ],
+      "points": 10
+    },
+    {
+      "id": 198,
+      "type": "multiple-choice",
+      "question": "History _____ to students in schools.",
+      "options": [
+        "is taught",
+        "are taught",
+        "teaches",
+        "teaching"
+      ],
+      "correctIndex": 0,
+      "explanation": "**Phân tích:**\n• 'History' = lịch sử (môn học = số ít) → IS\n• Lịch sử được dạy cho học sinh (bị động)\n• teach → taught → taught (V3)",
+      "hints": [
+        "History = subject = singular"
+      ],
+      "points": 10
+    },
+    {
+      "id": 199,
+      "type": "fill-blank",
+      "question": "Traditional festivals __________ (celebrate) every year.",
+      "wordHint": "(celebrate)",
+      "answer": "are celebrated",
+      "acceptedAnswers": [
+        "are celebrated"
+      ],
+      "hints": [
+        "Festivals = plural"
+      ],
+      "explanation": "**Giải thích:**\n• 'Traditional festivals' = lễ hội truyền thống (số nhiều) → ARE\n• celebrate → celebrated (V3)\n• Lễ hội được tổ chức hàng năm",
+      "points": 10
+    },
+    {
+      "id": 200,
+      "type": "error-correct",
+      "wrongSentence": "Social media is use by teenagers.",
+      "correctSentence": "Social media is used by teenagers.",
+      "errorWord": "use",
+      "correction": "used",
+      "explanation": "**Lỗi: Dùng V1 thay vì V3**\n• Câu sai dùng 'use' (V1)\n• Câu bị động cần V3: use → USED\n• is + V3 (KHÔNG phải V1)",
+      "hints": [
+        "use → used (V3)"
+      ],
+      "points": 10
+    },
+    {
+      "id": 201,
+      "type": "error-correct",
+      "wrongSentence": "Emails is sent every day.",
+      "correctSentence": "Emails are sent every day.",
+      "errorWord": "is",
+      "correction": "are",
+      "explanation": "**Lỗi: Sai is/are**\n• 'Emails' = số nhiều → cần ARE, không phải IS\n• Emails ARE sent (số nhiều + are)",
+      "hints": [
+        "Emails = plural → are"
+      ],
+      "points": 10
+    },
+    {
+      "id": 202,
+      "type": "error-correct",
+      "wrongSentence": "Pizza is delivered with a driver.",
+      "correctSentence": "Pizza is delivered by a driver.",
+      "errorWord": "with",
+      "correction": "by",
+      "explanation": "**Lỗi: Nhầm BY với WITH**\n• 'A driver' = người giao hàng → NGƯỜI\n• NGƯỜI thực hiện hành động → dùng BY\n• WITH chỉ dùng cho công cụ/vật liệu",
+      "hints": [
+        "Person = by, not with"
+      ],
+      "points": 10
+    },
+    {
+      "id": 203,
+      "type": "error-correct",
+      "wrongSentence": "The grass is cut by a lawnmower.",
+      "correctSentence": "The grass is cut with a lawnmower.",
+      "errorWord": "by",
+      "correction": "with",
+      "explanation": "**Lỗi: Nhầm WITH với BY**\n• 'A lawnmower' = máy cắt cỏ → CÔNG CỤ\n• CÔNG CỤ → dùng WITH\n• BY chỉ dùng cho người/tổ chức",
+      "hints": [
+        "Tool = with, not by"
+      ],
+      "points": 10
+    },
+    {
+      "id": 204,
+      "type": "error-correct",
+      "wrongSentence": "Video games is played by children.",
+      "correctSentence": "Video games are played by children.",
+      "errorWord": "is",
+      "correction": "are",
+      "explanation": "**Lỗi: Sai is/are**\n• 'Video games' = trò chơi điện tử (số nhiều) → ARE\n• Video games ARE played",
+      "hints": [
+        "Games = plural → are"
+      ],
+      "points": 10
+    },
+    {
+      "id": 205,
+      "type": "error-correct",
+      "wrongSentence": "English is spoke in many countries.",
+      "correctSentence": "English is spoken in many countries.",
+      "errorWord": "spoke",
+      "correction": "spoken",
+      "explanation": "**Lỗi: Nhầm V2 với V3**\n• 'spoke' = V2 (Past Simple)\n• Cần V3: speak → spoke → SPOKEN\n• is + SPOKEN (V3)",
+      "hints": [
+        "speak-spoke-spoken"
+      ],
+      "points": 10
+    },
+    {
+      "id": 206,
+      "type": "translation",
+      "vietnamese": "Điện thoại được sản xuất ở Trung Quốc.",
+      "answer": "Phones are made in China.",
+      "acceptedAnswers": [
+        "Phones are made in China.",
+        "Phones are made in China",
+        "Mobile phones are made in China.",
+        "Cell phones are made in China."
+      ],
+      "hints": [
+        "Phones = số nhiều → are made"
+      ],
+      "explanation": "**Phân tích:**\n• 'Điện thoại' = Phones (số nhiều) → ARE\n• 'được sản xuất' = are made\n• 'ở Trung Quốc' = in China",
+      "points": 10
+    },
+    {
+      "id": 207,
+      "type": "translation",
+      "vietnamese": "Bánh mì được nướng mỗi sáng.",
+      "answer": "Bread is baked every morning.",
+      "acceptedAnswers": [
+        "Bread is baked every morning.",
+        "Bread is baked every morning"
+      ],
+      "hints": [
+        "Bread = không đếm được → is baked"
+      ],
+      "explanation": "**Phân tích:**\n• 'Bánh mì' = Bread (không đếm được = số ít) → IS\n• 'được nướng' = is baked\n• 'mỗi sáng' = every morning",
+      "points": 10
+    },
+    {
+      "id": 208,
+      "type": "translation",
+      "vietnamese": "Thư được gửi bởi người đưa thư.",
+      "answer": "Letters are delivered by the postman.",
+      "acceptedAnswers": [
+        "Letters are delivered by the postman.",
+        "Letters are delivered by the postman",
+        "Mail is delivered by the postman."
+      ],
+      "hints": [
+        "Letters = số nhiều, postman = người → by"
+      ],
+      "explanation": "**Phân tích:**\n• 'Thư' = Letters (số nhiều) → ARE\n• 'được gửi' = are delivered\n• 'bởi người đưa thư' = BY the postman (người → BY)",
+      "points": 10
+    },
+    {
+      "id": 209,
+      "type": "translation",
+      "vietnamese": "Cơm được nấu bằng nồi cơm điện.",
+      "answer": "Rice is cooked with a rice cooker.",
+      "acceptedAnswers": [
+        "Rice is cooked with a rice cooker.",
+        "Rice is cooked with a rice cooker"
+      ],
+      "hints": [
+        "Rice = không đếm được, rice cooker = công cụ → with"
+      ],
+      "explanation": "**Phân tích:**\n• 'Cơm' = Rice (không đếm được = số ít) → IS\n• 'được nấu' = is cooked\n• 'bằng nồi cơm điện' = WITH a rice cooker (công cụ → WITH)",
+      "points": 10
+    },
+    {
+      "id": 210,
+      "type": "translation",
+      "vietnamese": "Trẻ em được đưa đến trường bằng xe buýt.",
+      "answer": "Children are taken to school by bus.",
+      "acceptedAnswers": [
+        "Children are taken to school by bus.",
+        "Children are taken to school by bus"
+      ],
+      "hints": [
+        "Children = số nhiều, take-took-taken"
+      ],
+      "explanation": "**Phân tích:**\n• 'Trẻ em' = Children (số nhiều) → ARE\n• 'được đưa' = are taken (take-took-TAKEN)\n• 'bằng xe buýt' = by bus (phương tiện)",
+      "points": 10
+    },
+    {
+      "id": 211,
+      "type": "sentence-build",
+      "prompt": "coffee / grow / in / Brazil",
+      "instructions": "Write a passive sentence",
+      "answer": "Coffee is grown in Brazil.",
+      "acceptedAnswers": [
+        "Coffee is grown in Brazil.",
+        "Coffee is grown in Brazil"
+      ],
+      "hints": [
+        "Coffee = singular → is grown"
+      ],
+      "explanation": "**Cách làm:**\n1. Coffee = số ít → IS\n2. grow → V3 = GROWN\n3. Ghép: Coffee IS GROWN in Brazil",
+      "points": 10
+    },
+    {
+      "id": 212,
+      "type": "sentence-build",
+      "prompt": "cars / manufacture / in / Japan",
+      "instructions": "Write a passive sentence",
+      "answer": "Cars are manufactured in Japan.",
+      "acceptedAnswers": [
+        "Cars are manufactured in Japan.",
+        "Cars are manufactured in Japan"
+      ],
+      "hints": [
+        "Cars = plural → are manufactured"
+      ],
+      "explanation": "**Cách làm:**\n1. Cars = số nhiều → ARE\n2. manufacture → V3 = MANUFACTURED\n3. Ghép: Cars ARE MANUFACTURED in Japan",
+      "points": 10
+    },
+    {
+      "id": 213,
+      "type": "sentence-build",
+      "prompt": "the house / clean / by / a maid",
+      "instructions": "Write a passive sentence with 'by'",
+      "answer": "The house is cleaned by a maid.",
+      "acceptedAnswers": [
+        "The house is cleaned by a maid.",
+        "The house is cleaned by a maid"
+      ],
+      "hints": [
+        "House = singular, maid = person → by"
+      ],
+      "explanation": "**Cách làm:**\n1. The house = số ít → IS\n2. clean → V3 = CLEANED\n3. a maid = người → BY\n4. Ghép: The house IS CLEANED BY a maid",
+      "points": 10
+    },
+    {
+      "id": 214,
+      "type": "sentence-build",
+      "prompt": "the door / open / with / a key",
+      "instructions": "Write a passive sentence with 'with'",
+      "answer": "The door is opened with a key.",
+      "acceptedAnswers": [
+        "The door is opened with a key.",
+        "The door is opened with a key"
+      ],
+      "hints": [
+        "Door = singular, key = tool → with"
+      ],
+      "explanation": "**Cách làm:**\n1. The door = số ít → IS\n2. open → V3 = OPENED\n3. a key = công cụ → WITH\n4. Ghép: The door IS OPENED WITH a key",
+      "points": 10
+    },
+    {
+      "id": 215,
+      "type": "sentence-build",
+      "prompt": "emails / send / every day",
+      "instructions": "Write a passive sentence",
+      "answer": "Emails are sent every day.",
+      "acceptedAnswers": [
+        "Emails are sent every day.",
+        "Emails are sent every day"
+      ],
+      "hints": [
+        "Emails = plural, send-sent-sent"
+      ],
+      "explanation": "**Cách làm:**\n1. Emails = số nhiều → ARE\n2. send → V3 = SENT\n3. Ghép: Emails ARE SENT every day",
+      "points": 10
+    },
+    {
+      "id": 216,
+      "type": "word-rearrange",
+      "words": [
+        "videos",
+        "are",
+        "watched",
+        "on",
+        "YouTube"
+      ],
+      "hints": [
+        "Plural + are + V3"
+      ],
+      "points": 10,
+      "correctSentence": "Videos are watched on YouTube"
+    },
+    {
+      "id": 217,
+      "type": "word-rearrange",
+      "words": [
+        "the",
+        "pizza",
+        "is",
+        "delivered",
+        "by",
+        "the",
+        "driver"
+      ],
+      "hints": [
+        "Person = by"
+      ],
+      "points": 10,
+      "correctSentence": "The pizza is delivered by the driver"
+    },
+    {
+      "id": 218,
+      "type": "word-rearrange",
+      "words": [
+        "homework",
+        "is",
+        "done",
+        "every",
+        "evening"
+      ],
+      "hints": [
+        "Homework = uncountable → is"
+      ],
+      "points": 10,
+      "correctSentence": "Homework is done every evening"
+    },
+    {
+      "id": 219,
+      "type": "word-rearrange",
+      "words": [
+        "the",
+        "food",
+        "is",
+        "cooked",
+        "with",
+        "fresh",
+        "ingredients"
+      ],
+      "hints": [
+        "Ingredients = material → with"
+      ],
+      "points": 10,
+      "correctSentence": "The food is cooked with fresh ingredients"
+    },
+    {
+      "id": 220,
+      "type": "word-rearrange",
+      "words": [
+        "movies",
+        "are",
+        "shown",
+        "at",
+        "the",
+        "cinema"
+      ],
+      "hints": [
+        "Movies = plural → are"
+      ],
+      "points": 10,
+      "correctSentence": "Movies are shown at the cinema"
+    },
+    {
+      "id": 221,
+      "type": "multiple-choice",
+      "question": "K-pop _____ by fans all over the world.",
+      "options": [
+        "is loved",
+        "are loved",
+        "loves",
+        "loving"
+      ],
+      "correctIndex": 0,
+      "explanation": "**Phân tích:**\n• 'K-pop' = nhạc Hàn Quốc (thể loại nhạc = số ít) → IS\n• 'fans' = người hâm mộ → BY\n• K-pop được yêu thích (bị động)",
+      "hints": [
+        "K-pop = singular genre"
+      ],
+      "points": 10
+    },
+    {
+      "id": 222,
+      "type": "multiple-choice",
+      "question": "TikTok videos _____ millions of times.",
+      "options": [
+        "is viewed",
+        "are viewed",
+        "views",
+        "viewing"
+      ],
+      "correctIndex": 1,
+      "explanation": "**Phân tích:**\n• 'TikTok videos' = video TikTok (số nhiều) → ARE\n• Video được xem hàng triệu lần (bị động)\n• view → viewed (V3)",
+      "hints": [
+        "Videos = plural"
+      ],
+      "points": 10
+    },
+    {
+      "id": 223,
+      "type": "multiple-choice",
+      "question": "WhatsApp messages _____ with encryption.",
+      "options": [
+        "is protected",
+        "are protected",
+        "protects",
+        "protecting"
+      ],
+      "correctIndex": 1,
+      "explanation": "**Phân tích:**\n• 'Messages' = tin nhắn (số nhiều) → ARE\n• 'encryption' = mã hóa → WITH (công nghệ/công cụ)\n• Tin nhắn được bảo vệ (bị động)",
+      "hints": [
+        "Messages = plural, technology = with"
+      ],
+      "points": 10
+    },
+    {
+      "id": 224,
+      "type": "multiple-choice",
+      "question": "Vegetables _____ at the local market.",
+      "options": [
+        "is bought",
+        "are bought",
+        "buys",
+        "buying"
+      ],
+      "correctIndex": 1,
+      "explanation": "**Phân tích:**\n• 'Vegetables' = rau củ (số nhiều) → ARE\n• Rau củ được mua (bị động)\n• buy → bought → bought (V3)",
+      "hints": [
+        "Vegetables = plural"
+      ],
+      "points": 10
+    },
+    {
+      "id": 225,
+      "type": "multiple-choice",
+      "question": "Meat _____ in the refrigerator.",
+      "options": [
+        "is kept",
+        "are kept",
+        "keeps",
+        "keeping"
+      ],
+      "correctIndex": 0,
+      "explanation": "**Phân tích:**\n• 'Meat' = thịt (không đếm được = số ít) → IS\n• Thịt được giữ trong tủ lạnh (bị động)\n• keep → kept → kept (V3)",
+      "hints": [
+        "Meat = uncountable"
+      ],
+      "points": 10
+    },
+    {
+      "id": 226,
+      "type": "multiple-choice",
+      "question": "The winners _____ prizes.",
+      "options": [
+        "is given",
+        "are given",
+        "gives",
+        "giving"
+      ],
+      "correctIndex": 1,
+      "explanation": "**Phân tích:**\n• 'The winners' = người chiến thắng (số nhiều) → ARE\n• Người chiến thắng được trao giải (bị động)\n• give → gave → given (V3)",
+      "hints": [
+        "Winners = plural"
+      ],
+      "points": 10
+    },
+    {
+      "id": 227,
+      "type": "multiple-choice",
+      "question": "The match _____ on television.",
+      "options": [
+        "is broadcast",
+        "are broadcast",
+        "broadcasts",
+        "broadcasting"
+      ],
+      "correctIndex": 0,
+      "explanation": "**Phân tích:**\n• 'The match' = trận đấu (số ít) → IS\n• Trận đấu được phát sóng (bị động)\n• broadcast → broadcast → broadcast (V3 giữ nguyên)",
+      "hints": [
+        "Match = singular"
+      ],
+      "points": 10
+    },
+    {
+      "id": 228,
+      "type": "multiple-choice",
+      "question": "Pollution _____ by factories.",
+      "options": [
+        "is caused",
+        "are caused",
+        "causes",
+        "causing"
+      ],
+      "correctIndex": 0,
+      "explanation": "**Phân tích:**\n• 'Pollution' = ô nhiễm (không đếm được = số ít) → IS\n• 'factories' = nhà máy → BY\n• Ô nhiễm được gây ra bởi nhà máy",
+      "hints": [
+        "Pollution = uncountable"
+      ],
+      "points": 10
+    },
+    {
+      "id": 229,
+      "type": "multiple-choice",
+      "question": "Coral reefs _____ by climate change.",
+      "options": [
+        "is damaged",
+        "are damaged",
+        "damages",
+        "damaging"
+      ],
+      "correctIndex": 1,
+      "explanation": "**Phân tích:**\n• 'Coral reefs' = rạn san hô (số nhiều) → ARE\n• 'climate change' = biến đổi khí hậu → BY (nguyên nhân)\n• Rạn san hô bị hư hại (bị động)",
+      "hints": [
+        "Reefs = plural"
+      ],
+      "points": 10
+    },
+    {
+      "id": 230,
+      "type": "multiple-choice",
+      "question": "Electricity _____ from solar panels.",
+      "options": [
+        "is generated",
+        "are generated",
+        "generates",
+        "generating"
+      ],
+      "correctIndex": 0,
+      "explanation": "**Phân tích:**\n• 'Electricity' = điện (không đếm được = số ít) → IS\n• 'solar panels' = tấm pin mặt trời → FROM (nguồn)\n• Điện được tạo ra từ pin mặt trời",
+      "hints": [
+        "Electricity = uncountable"
+      ],
+      "points": 10
+    },
+    {
+      "id": 231,
+      "type": "fill-blank",
+      "question": "Online orders __________ (deliver) to your door.",
+      "wordHint": "(deliver)",
+      "answer": "are delivered",
+      "acceptedAnswers": [
+        "are delivered"
+      ],
+      "hints": [
+        "Orders = plural"
+      ],
+      "explanation": "**Giải thích:**\n• 'Online orders' = đơn hàng trực tuyến (số nhiều) → ARE\n• deliver → delivered (V3)\n• Đơn hàng được giao đến tận nhà",
+      "points": 10
+    },
+    {
+      "id": 232,
+      "type": "fill-blank",
+      "question": "Data __________ (store) in the cloud.",
+      "wordHint": "(store)",
+      "answer": "is stored",
+      "acceptedAnswers": [
+        "is stored"
+      ],
+      "hints": [
+        "Data = uncountable"
+      ],
+      "explanation": "**Giải thích:**\n• 'Data' = dữ liệu (thường dùng số ít trong tiếng Anh hiện đại) → IS\n• store → stored (V3)\n• Dữ liệu được lưu trữ trên đám mây",
+      "points": 10
+    },
+    {
+      "id": 233,
+      "type": "fill-blank",
+      "question": "The garbage __________ (collect) every Monday.",
+      "wordHint": "(collect)",
+      "answer": "is collected",
+      "acceptedAnswers": [
+        "is collected"
+      ],
+      "hints": [
+        "Garbage = uncountable"
+      ],
+      "explanation": "**Giải thích:**\n• 'The garbage' = rác (không đếm được = số ít) → IS\n• collect → collected (V3)\n• Rác được thu gom mỗi thứ Hai",
+      "points": 10
+    },
+    {
+      "id": 234,
+      "type": "fill-blank",
+      "question": "New employees __________ (train) by experienced staff.",
+      "wordHint": "(train)",
+      "answer": "are trained",
+      "acceptedAnswers": [
+        "are trained"
+      ],
+      "hints": [
+        "Employees = plural, staff = by"
+      ],
+      "explanation": "**Giải thích:**\n• 'New employees' = nhân viên mới (số nhiều) → ARE\n• 'experienced staff' = nhân viên có kinh nghiệm → BY\n• train → trained (V3)",
+      "points": 10
+    },
+    {
+      "id": 235,
+      "type": "fill-blank",
+      "question": "The garden __________ (water) with a hose.",
+      "wordHint": "(water)",
+      "answer": "is watered",
+      "acceptedAnswers": [
+        "is watered"
+      ],
+      "hints": [
+        "Garden = singular, hose = with"
+      ],
+      "explanation": "**Giải thích:**\n• 'The garden' = khu vườn (số ít) → IS\n• 'a hose' = vòi nước → WITH (công cụ)\n• water → watered (V3)",
+      "points": 10
+    },
+    {
+      "id": 236,
+      "type": "fill-blank",
+      "question": "Korean dramas __________ (watch) by millions of fans.",
+      "wordHint": "(watch)",
+      "answer": "are watched",
+      "acceptedAnswers": [
+        "are watched"
+      ],
+      "hints": [
+        "Dramas = plural, fans = by"
+      ],
+      "explanation": "**Giải thích:**\n• 'Korean dramas' = phim Hàn (số nhiều) → ARE\n• 'millions of fans' = người hâm mộ → BY\n• watch → watched (V3)",
+      "points": 10
+    },
+    {
+      "id": 237,
+      "type": "fill-blank",
+      "question": "Spaghetti __________ (eat) with a fork.",
+      "wordHint": "(eat)",
+      "answer": "is eaten",
+      "acceptedAnswers": [
+        "is eaten"
+      ],
+      "hints": [
+        "Spaghetti = uncountable, fork = with"
+      ],
+      "explanation": "**Giải thích:**\n• 'Spaghetti' = mì Ý (không đếm được = số ít) → IS\n• 'a fork' = nĩa → WITH (dụng cụ)\n• eat → ate → EATEN (V3)",
+      "points": 10
+    },
+    {
+      "id": 238,
+      "type": "fill-blank",
+      "question": "Diamonds __________ (find) in South Africa.",
+      "wordHint": "(find)",
+      "answer": "are found",
+      "acceptedAnswers": [
+        "are found"
+      ],
+      "hints": [
+        "Diamonds = plural, find-found-found"
+      ],
+      "explanation": "**Giải thích:**\n• 'Diamonds' = kim cương (số nhiều) → ARE\n• find → found → FOUND (V3)\n• Kim cương được tìm thấy ở Nam Phi",
+      "points": 10
+    },
+    {
+      "id": 239,
+      "type": "fill-blank",
+      "question": "The meeting __________ (hold) every Friday.",
+      "wordHint": "(hold)",
+      "answer": "is held",
+      "acceptedAnswers": [
+        "is held"
+      ],
+      "hints": [
+        "Meeting = singular, hold-held-held"
+      ],
+      "explanation": "**Giải thích:**\n• 'The meeting' = cuộc họp (số ít) → IS\n• hold → held → HELD (V3)\n• Cuộc họp được tổ chức mỗi thứ Sáu",
+      "points": 10
+    },
+    {
+      "id": 240,
+      "type": "fill-blank",
+      "question": "The lawns __________ (mow) once a week.",
+      "wordHint": "(mow)",
+      "answer": "are mowed",
+      "acceptedAnswers": [
+        "are mowed",
+        "are mown"
+      ],
+      "hints": [
+        "Lawns = plural"
+      ],
+      "explanation": "**Giải thích:**\n• 'The lawns' = bãi cỏ (số nhiều) → ARE\n• mow → mowed/mown (V3)\n• Bãi cỏ được cắt mỗi tuần một lần",
+      "points": 10
+    },
+    {
+      "id": 241,
+      "type": "error-correct",
+      "wrongSentence": "Computers is used in every office.",
+      "correctSentence": "Computers are used in every office.",
+      "errorWord": "is",
+      "correction": "are",
+      "explanation": "**Lỗi: Sai is/are**\n• 'Computers' = máy tính (số nhiều) → ARE\n• Computers ARE used",
+      "hints": [
+        "Computers = plural → are"
+      ],
+      "points": 10
+    },
+    {
+      "id": 242,
+      "type": "error-correct",
+      "wrongSentence": "The song is sang by a famous singer.",
+      "correctSentence": "The song is sung by a famous singer.",
+      "errorWord": "sang",
+      "correction": "sung",
+      "explanation": "**Lỗi: Nhầm V2 với V3**\n• 'sang' = V2\n• Cần V3: sing → sang → SUNG\n• is + SUNG",
+      "hints": [
+        "sing-sang-sung"
+      ],
+      "points": 10
+    },
+    {
+      "id": 243,
+      "type": "error-correct",
+      "wrongSentence": "Food are wasted every day.",
+      "correctSentence": "Food is wasted every day.",
+      "errorWord": "are",
+      "correction": "is",
+      "explanation": "**Lỗi: Sai is/are**\n• 'Food' = thức ăn (không đếm được = số ít) → IS\n• Food IS wasted",
+      "hints": [
+        "Food = uncountable → is"
+      ],
+      "points": 10
+    },
+    {
+      "id": 244,
+      "type": "error-correct",
+      "wrongSentence": "The report is wrote by the manager.",
+      "correctSentence": "The report is written by the manager.",
+      "errorWord": "wrote",
+      "correction": "written",
+      "explanation": "**Lỗi: Nhầm V2 với V3**\n• 'wrote' = V2\n• Cần V3: write → wrote → WRITTEN\n• is + WRITTEN",
+      "hints": [
+        "write-wrote-written"
+      ],
+      "points": 10
+    },
+    {
+      "id": 245,
+      "type": "error-correct",
+      "wrongSentence": "Photos is taken with cameras.",
+      "correctSentence": "Photos are taken with cameras.",
+      "errorWord": "is",
+      "correction": "are",
+      "explanation": "**Lỗi: Sai is/are**\n• 'Photos' = ảnh (số nhiều) → ARE\n• Photos ARE taken",
+      "hints": [
+        "Photos = plural → are"
+      ],
+      "points": 10
+    },
+    {
+      "id": 246,
+      "type": "translation",
+      "vietnamese": "Xe hơi được rửa mỗi tuần.",
+      "answer": "Cars are washed every week.",
+      "acceptedAnswers": [
+        "Cars are washed every week.",
+        "Cars are washed every week",
+        "The cars are washed every week."
+      ],
+      "hints": [
+        "Cars = số nhiều → are washed"
+      ],
+      "explanation": "**Phân tích:**\n• 'Xe hơi' = Cars (số nhiều) → ARE\n• 'được rửa' = are washed\n• 'mỗi tuần' = every week",
+      "points": 10
+    },
+    {
+      "id": 247,
+      "type": "translation",
+      "vietnamese": "Tin tức được phát mỗi tối.",
+      "answer": "The news is broadcast every evening.",
+      "acceptedAnswers": [
+        "The news is broadcast every evening.",
+        "The news is broadcast every evening",
+        "News is broadcast every evening."
+      ],
+      "hints": [
+        "News = luôn số ít → is broadcast"
+      ],
+      "explanation": "**Phân tích:**\n• 'Tin tức' = News (luôn số ít dù có 's') → IS\n• 'được phát' = is broadcast\n• 'mỗi tối' = every evening",
+      "points": 10
+    },
+    {
+      "id": 248,
+      "type": "translation",
+      "vietnamese": "Thư rác được xóa tự động.",
+      "answer": "Spam is deleted automatically.",
+      "acceptedAnswers": [
+        "Spam is deleted automatically.",
+        "Spam is deleted automatically",
+        "Spam emails are deleted automatically."
+      ],
+      "hints": [
+        "Spam = không đếm được → is deleted"
+      ],
+      "explanation": "**Phân tích:**\n• 'Thư rác' = Spam (không đếm được = số ít) → IS\n• 'được xóa' = is deleted\n• 'tự động' = automatically",
+      "points": 10
+    },
+    {
+      "id": 249,
+      "type": "translation",
+      "vietnamese": "Cà phê được pha bằng máy pha cà phê.",
+      "answer": "Coffee is made with a coffee machine.",
+      "acceptedAnswers": [
+        "Coffee is made with a coffee machine.",
+        "Coffee is made with a coffee machine",
+        "Coffee is made with a coffee maker."
+      ],
+      "hints": [
+        "Coffee = không đếm được, machine = công cụ → with"
+      ],
+      "explanation": "**Phân tích:**\n• 'Cà phê' = Coffee (không đếm được = số ít) → IS\n• 'được pha' = is made\n• 'bằng máy pha cà phê' = WITH a coffee machine (công cụ → WITH)",
+      "points": 10
+    },
+    {
+      "id": 250,
+      "type": "translation",
+      "vietnamese": "Bài hát được viết bởi một nhạc sĩ nổi tiếng.",
+      "answer": "The song is written by a famous musician.",
+      "acceptedAnswers": [
+        "The song is written by a famous musician.",
+        "The song is written by a famous musician",
+        "Songs are written by famous musicians."
+      ],
+      "hints": [
+        "Song = số ít, musician = người → by"
+      ],
+      "explanation": "**Phân tích:**\n• 'Bài hát' = The song (số ít) → IS\n• 'được viết' = is written (write-wrote-WRITTEN)\n• 'bởi nhạc sĩ' = BY a musician (người → BY)",
+      "points": 10
+    },
+    {
+      "id": 251,
+      "type": "sentence-build",
+      "prompt": "photos / take / by / tourists",
+      "instructions": "Write a passive sentence with 'by'",
+      "answer": "Photos are taken by tourists.",
+      "acceptedAnswers": [
+        "Photos are taken by tourists.",
+        "Photos are taken by tourists"
+      ],
+      "hints": [
+        "Photos = plural, tourists = by"
+      ],
+      "explanation": "**Cách làm:**\n1. Photos = số nhiều → ARE\n2. take → V3 = TAKEN\n3. tourists = người → BY\n4. Ghép: Photos ARE TAKEN BY tourists",
+      "points": 10
+    },
+    {
+      "id": 252,
+      "type": "sentence-build",
+      "prompt": "the windows / clean / with / a cloth",
+      "instructions": "Write a passive sentence with 'with'",
+      "answer": "The windows are cleaned with a cloth.",
+      "acceptedAnswers": [
+        "The windows are cleaned with a cloth.",
+        "The windows are cleaned with a cloth"
+      ],
+      "hints": [
+        "Windows = plural, cloth = with"
+      ],
+      "explanation": "**Cách làm:**\n1. The windows = số nhiều → ARE\n2. clean → V3 = CLEANED\n3. a cloth = công cụ → WITH\n4. Ghép: The windows ARE CLEANED WITH a cloth",
+      "points": 10
+    },
+    {
+      "id": 253,
+      "type": "sentence-build",
+      "prompt": "Spanish / speak / in / South America",
+      "instructions": "Write a passive sentence",
+      "answer": "Spanish is spoken in South America.",
+      "acceptedAnswers": [
+        "Spanish is spoken in South America.",
+        "Spanish is spoken in South America"
+      ],
+      "hints": [
+        "Spanish = singular language"
+      ],
+      "explanation": "**Cách làm:**\n1. Spanish = ngôn ngữ số ít → IS\n2. speak → V3 = SPOKEN\n3. Ghép: Spanish IS SPOKEN in South America",
+      "points": 10
+    },
+    {
+      "id": 254,
+      "type": "sentence-build",
+      "prompt": "homework / do / every evening",
+      "instructions": "Write a passive sentence",
+      "answer": "Homework is done every evening.",
+      "acceptedAnswers": [
+        "Homework is done every evening.",
+        "Homework is done every evening"
+      ],
+      "hints": [
+        "Homework = uncountable"
+      ],
+      "explanation": "**Cách làm:**\n1. Homework = không đếm được → IS\n2. do → V3 = DONE\n3. Ghép: Homework IS DONE every evening",
+      "points": 10
+    },
+    {
+      "id": 255,
+      "type": "sentence-build",
+      "prompt": "bananas / export / from / Ecuador",
+      "instructions": "Write a passive sentence",
+      "answer": "Bananas are exported from Ecuador.",
+      "acceptedAnswers": [
+        "Bananas are exported from Ecuador.",
+        "Bananas are exported from Ecuador"
+      ],
+      "hints": [
+        "Bananas = plural"
+      ],
+      "explanation": "**Cách làm:**\n1. Bananas = số nhiều → ARE\n2. export → V3 = EXPORTED\n3. Ghép: Bananas ARE EXPORTED from Ecuador",
+      "points": 10
+    },
+    {
+      "id": 256,
+      "type": "word-rearrange",
+      "words": [
+        "recycled",
+        "paper",
+        "is",
+        "to",
+        "save",
+        "trees"
+      ],
+      "hints": [
+        "Paper = uncountable → is"
+      ],
+      "points": 10,
+      "correctSentence": "Paper is recycled to save trees"
+    },
+    {
+      "id": 257,
+      "type": "word-rearrange",
+      "words": [
+        "are",
+        "diamonds",
+        "sold",
+        "at",
+        "high",
+        "prices"
+      ],
+      "hints": [
+        "Diamonds = plural → are"
+      ],
+      "points": 10,
+      "correctSentence": "Diamonds are sold at high prices"
+    },
+    {
+      "id": 258,
+      "type": "word-rearrange",
+      "words": [
+        "the",
+        "game",
+        "is",
+        "played",
+        "by",
+        "millions"
+      ],
+      "hints": [
+        "Game = singular, people = by"
+      ],
+      "points": 10,
+      "correctSentence": "The game is played by millions"
+    },
+    {
+      "id": 259,
+      "type": "word-rearrange",
+      "words": [
+        "is",
+        "information",
+        "shared",
+        "on",
+        "social",
+        "media"
+      ],
+      "hints": [
+        "Information = uncountable → is"
+      ],
+      "points": 10,
+      "correctSentence": "Information is shared on social media"
+    },
+    {
+      "id": 260,
+      "type": "word-rearrange",
+      "words": [
+        "the",
+        "paintings",
+        "are",
+        "displayed",
+        "in",
+        "the",
+        "gallery"
+      ],
+      "hints": [
+        "Paintings = plural → are"
+      ],
+      "points": 10,
+      "correctSentence": "The paintings are displayed in the gallery"
+    },
+    {
+      "id": 261,
+      "type": "multiple-choice",
+      "question": "Anime _____ in Japan.",
+      "options": [
+        "is produced",
+        "are produced",
+        "produces",
+        "producing"
+      ],
+      "correctIndex": 0,
+      "explanation": "**Phân tích:**\n• 'Anime' = phim hoạt hình Nhật (thể loại = số ít) → IS\n• Anime được sản xuất ở Nhật (bị động)",
+      "hints": [
+        "Anime = singular genre"
+      ],
+      "points": 10
+    },
+    {
+      "id": 262,
+      "type": "multiple-choice",
+      "question": "iPhones _____ by Apple.",
+      "options": [
+        "is manufactured",
+        "are manufactured",
+        "manufactures",
+        "manufacturing"
+      ],
+      "correctIndex": 1,
+      "explanation": "**Phân tích:**\n• 'iPhones' = số nhiều → ARE\n• 'Apple' = công ty → BY\n• iPhones được sản xuất bởi Apple",
+      "hints": [
+        "iPhones = plural, company = by"
+      ],
+      "points": 10
+    },
+    {
+      "id": 263,
+      "type": "multiple-choice",
+      "question": "Traffic _____ controlled by traffic lights.",
+      "options": [
+        "is",
+        "are",
+        "be",
+        "being"
+      ],
+      "correctIndex": 0,
+      "explanation": "**Phân tích:**\n• 'Traffic' = giao thông (không đếm được = số ít) → IS\n• Traffic IS controlled",
+      "hints": [
+        "Traffic = uncountable"
+      ],
+      "points": 10
+    },
+    {
+      "id": 264,
+      "type": "multiple-choice",
+      "question": "Passports _____ at the border.",
+      "options": [
+        "is checked",
+        "are checked",
+        "checks",
+        "checking"
+      ],
+      "correctIndex": 1,
+      "explanation": "**Phân tích:**\n• 'Passports' = hộ chiếu (số nhiều) → ARE\n• Hộ chiếu được kiểm tra (bị động)",
+      "hints": [
+        "Passports = plural"
+      ],
+      "points": 10
+    },
+    {
+      "id": 265,
+      "type": "multiple-choice",
+      "question": "The temperature _____ measured in Celsius.",
+      "options": [
+        "is",
+        "are",
+        "be",
+        "being"
+      ],
+      "correctIndex": 0,
+      "explanation": "**Phân tích:**\n• 'The temperature' = nhiệt độ (số ít) → IS\n• Temperature IS measured",
+      "hints": [
+        "Temperature = singular"
+      ],
+      "points": 10
+    },
+    {
+      "id": 266,
+      "type": "multiple-choice",
+      "question": "Furniture _____ made of wood.",
+      "options": [
+        "is",
+        "are",
+        "be",
+        "being"
+      ],
+      "correctIndex": 0,
+      "explanation": "**Phân tích:**\n• 'Furniture' = đồ nội thất (LUÔN số ít dù có nhiều đồ) → IS\n• Furniture IS made",
+      "hints": [
+        "Furniture = always singular"
+      ],
+      "points": 10
+    },
+    {
+      "id": 267,
+      "type": "multiple-choice",
+      "question": "Equipment _____ checked before the experiment.",
+      "options": [
+        "is",
+        "are",
+        "be",
+        "being"
+      ],
+      "correctIndex": 0,
+      "explanation": "**Phân tích:**\n• 'Equipment' = thiết bị (LUÔN số ít) → IS\n• Equipment IS checked",
+      "hints": [
+        "Equipment = always singular"
+      ],
+      "points": 10
+    },
+    {
+      "id": 268,
+      "type": "multiple-choice",
+      "question": "The police _____ called in emergencies.",
+      "options": [
+        "is",
+        "are",
+        "be",
+        "being"
+      ],
+      "correctIndex": 1,
+      "explanation": "**Phân tích:**\n• 'The police' = cảnh sát (LUÔN số nhiều trong tiếng Anh) → ARE\n• The police ARE called",
+      "hints": [
+        "Police = always plural"
+      ],
+      "points": 10
+    },
+    {
+      "id": 269,
+      "type": "fill-blank",
+      "question": "Advice __________ (give) by experts.",
+      "wordHint": "(give)",
+      "answer": "is given",
+      "acceptedAnswers": [
+        "is given"
+      ],
+      "hints": [
+        "Advice = uncountable, give-gave-given"
+      ],
+      "explanation": "**Giải thích:**\n• 'Advice' = lời khuyên (không đếm được = số ít) → IS\n• give → gave → GIVEN (V3)\n• 'experts' = chuyên gia → BY",
+      "points": 10
+    },
+    {
+      "id": 270,
+      "type": "fill-blank",
+      "question": "The children __________ (pick up) from school at 4 PM.",
+      "wordHint": "(pick up)",
+      "answer": "are picked up",
+      "acceptedAnswers": [
+        "are picked up"
+      ],
+      "hints": [
+        "Children = plural"
+      ],
+      "explanation": "**Giải thích:**\n• 'The children' = trẻ em (số nhiều) → ARE\n• pick up → picked up (V3)\n• Trẻ em được đón từ trường lúc 4 giờ",
+      "points": 10
+    },
+    {
+      "id": 271,
+      "type": "fill-blank",
+      "question": "The salary __________ (pay) monthly.",
+      "wordHint": "(pay)",
+      "answer": "is paid",
+      "acceptedAnswers": [
+        "is paid"
+      ],
+      "hints": [
+        "Salary = singular, pay-paid-paid"
+      ],
+      "explanation": "**Giải thích:**\n• 'The salary' = lương (số ít) → IS\n• pay → paid → PAID (V3)\n• Lương được trả hàng tháng",
+      "points": 10
+    },
+    {
+      "id": 272,
+      "type": "fill-blank",
+      "question": "Crops __________ (harvest) in autumn.",
+      "wordHint": "(harvest)",
+      "answer": "are harvested",
+      "acceptedAnswers": [
+        "are harvested"
+      ],
+      "hints": [
+        "Crops = plural"
+      ],
+      "explanation": "**Giải thích:**\n• 'Crops' = mùa màng (số nhiều) → ARE\n• harvest → harvested (V3)\n• Mùa màng được thu hoạch vào mùa thu",
+      "points": 10
+    },
+    {
+      "id": 273,
+      "type": "fill-blank",
+      "question": "The baby __________ (feed) every three hours.",
+      "wordHint": "(feed)",
+      "answer": "is fed",
+      "acceptedAnswers": [
+        "is fed"
+      ],
+      "hints": [
+        "Baby = singular, feed-fed-fed"
+      ],
+      "explanation": "**Giải thích:**\n• 'The baby' = em bé (số ít) → IS\n• feed → fed → FED (V3)\n• Em bé được cho ăn mỗi 3 tiếng",
+      "points": 10
+    },
+    {
+      "id": 274,
+      "type": "fill-blank",
+      "question": "Packages __________ (ship) worldwide.",
+      "wordHint": "(ship)",
+      "answer": "are shipped",
+      "acceptedAnswers": [
+        "are shipped"
+      ],
+      "hints": [
+        "Packages = plural"
+      ],
+      "explanation": "**Giải thích:**\n• 'Packages' = gói hàng (số nhiều) → ARE\n• ship → shipped (V3)\n• Gói hàng được gửi đi toàn cầu",
+      "points": 10
+    },
+    {
+      "id": 275,
+      "type": "fill-blank",
+      "question": "The bed __________ (make) every morning.",
+      "wordHint": "(make)",
+      "answer": "is made",
+      "acceptedAnswers": [
+        "is made"
+      ],
+      "hints": [
+        "Bed = singular"
+      ],
+      "explanation": "**Giải thích:**\n• 'The bed' = giường (số ít) → IS\n• make → made → MADE (V3)\n• Giường được dọn mỗi sáng",
+      "points": 10
+    },
+    {
+      "id": 276,
+      "type": "fill-blank",
+      "question": "Waste __________ (recycle) to protect the environment.",
+      "wordHint": "(recycle)",
+      "answer": "is recycled",
+      "acceptedAnswers": [
+        "is recycled"
+      ],
+      "hints": [
+        "Waste = uncountable"
+      ],
+      "explanation": "**Giải thích:**\n• 'Waste' = rác thải (không đếm được = số ít) → IS\n• recycle → recycled (V3)\n• Rác thải được tái chế để bảo vệ môi trường",
+      "points": 10
+    },
+    {
+      "id": 277,
+      "type": "error-correct",
+      "wrongSentence": "Money is earn by working hard.",
+      "correctSentence": "Money is earned by working hard.",
+      "errorWord": "earn",
+      "correction": "earned",
+      "explanation": "**Lỗi: Dùng V1 thay vì V3**\n• 'earn' = V1\n• Cần V3: earn → EARNED\n• is + EARNED",
+      "hints": [
+        "earn → earned (V3)"
+      ],
+      "points": 10
+    },
+    {
+      "id": 278,
+      "type": "error-correct",
+      "wrongSentence": "The homework are done by students.",
+      "correctSentence": "The homework is done by students.",
+      "errorWord": "are",
+      "correction": "is",
+      "explanation": "**Lỗi: Sai is/are**\n• 'Homework' = không đếm được = số ít → IS\n• Homework IS done",
+      "hints": [
+        "Homework = uncountable → is"
+      ],
+      "points": 10
+    },
+    {
+      "id": 279,
+      "type": "error-correct",
+      "wrongSentence": "The cake is decorated by candles.",
+      "correctSentence": "The cake is decorated with candles.",
+      "errorWord": "by",
+      "correction": "with",
+      "explanation": "**Lỗi: Nhầm BY với WITH**\n• 'Candles' = nến → VẬT trang trí\n• VẬT → dùng WITH, không dùng BY\n• BY chỉ dùng cho người/tổ chức",
+      "hints": [
+        "Decoration material = with"
+      ],
+      "points": 10
+    },
+    {
+      "id": 280,
+      "type": "error-correct",
+      "wrongSentence": "The luggage are checked at the airport.",
+      "correctSentence": "The luggage is checked at the airport.",
+      "errorWord": "are",
+      "correction": "is",
+      "explanation": "**Lỗi: Sai is/are**\n• 'Luggage' = hành lý (không đếm được = số ít) → IS\n• Luggage IS checked",
+      "hints": [
+        "Luggage = uncountable → is"
+      ],
+      "points": 10
+    },
+    {
+      "id": 281,
+      "type": "error-correct",
+      "wrongSentence": "Music is listen to every day.",
+      "correctSentence": "Music is listened to every day.",
+      "errorWord": "listen",
+      "correction": "listened",
+      "explanation": "**Lỗi: Dùng V1 thay vì V3**\n• 'listen' = V1\n• Cần V3: listen → LISTENED\n• is + LISTENED",
+      "hints": [
+        "listen → listened (V3)"
+      ],
+      "points": 10
+    },
+    {
+      "id": 282,
+      "type": "translation",
+      "vietnamese": "Đường được sản xuất từ mía.",
+      "answer": "Sugar is produced from sugarcane.",
+      "acceptedAnswers": [
+        "Sugar is produced from sugarcane.",
+        "Sugar is produced from sugarcane",
+        "Sugar is made from sugarcane."
+      ],
+      "hints": [
+        "Sugar = không đếm được, sugarcane = nguồn → from"
+      ],
+      "explanation": "**Phân tích:**\n• 'Đường' = Sugar (không đếm được = số ít) → IS\n• 'được sản xuất' = is produced\n• 'từ mía' = FROM sugarcane (nguồn gốc → FROM)",
+      "points": 10
+    },
+    {
+      "id": 283,
+      "type": "translation",
+      "vietnamese": "Trận đấu được xem bởi hàng triệu người.",
+      "answer": "The match is watched by millions of people.",
+      "acceptedAnswers": [
+        "The match is watched by millions of people.",
+        "The match is watched by millions of people",
+        "The game is watched by millions of people."
+      ],
+      "hints": [
+        "Match = số ít, people = by"
+      ],
+      "explanation": "**Phân tích:**\n• 'Trận đấu' = The match (số ít) → IS\n• 'được xem' = is watched\n• 'bởi hàng triệu người' = BY millions of people (người → BY)",
+      "points": 10
+    },
+    {
+      "id": 284,
+      "type": "translation",
+      "vietnamese": "Sách được viết bằng nhiều ngôn ngữ.",
+      "answer": "Books are written in many languages.",
+      "acceptedAnswers": [
+        "Books are written in many languages.",
+        "Books are written in many languages"
+      ],
+      "hints": [
+        "Books = số nhiều, write-wrote-written"
+      ],
+      "explanation": "**Phân tích:**\n• 'Sách' = Books (số nhiều) → ARE\n• 'được viết' = are written (write-wrote-WRITTEN)\n• 'bằng nhiều ngôn ngữ' = IN many languages",
+      "points": 10
+    },
+    {
+      "id": 285,
+      "type": "translation",
+      "vietnamese": "Thực phẩm được giữ trong tủ lạnh.",
+      "answer": "Food is kept in the refrigerator.",
+      "acceptedAnswers": [
+        "Food is kept in the refrigerator.",
+        "Food is kept in the refrigerator",
+        "Food is kept in the fridge."
+      ],
+      "hints": [
+        "Food = không đếm được, keep-kept-kept"
+      ],
+      "explanation": "**Phân tích:**\n• 'Thực phẩm' = Food (không đếm được = số ít) → IS\n• 'được giữ' = is kept (keep-kept-KEPT)\n• 'trong tủ lạnh' = IN the refrigerator",
+      "points": 10
+    },
+    {
+      "id": 286,
+      "type": "word-rearrange",
+      "words": [
+        "the",
+        "rules",
+        "are",
+        "followed",
+        "by",
+        "everyone"
+      ],
+      "hints": [
+        "Rules = plural, everyone = by"
+      ],
+      "points": 10,
+      "correctSentence": "The rules are followed by everyone"
+    },
+    {
+      "id": 287,
+      "type": "word-rearrange",
+      "words": [
+        "butter",
+        "is",
+        "made",
+        "from",
+        "milk"
+      ],
+      "hints": [
+        "Butter = uncountable, milk = source → from"
+      ],
+      "points": 10,
+      "correctSentence": "Butter is made from milk"
+    },
+    {
+      "id": 288,
+      "type": "word-rearrange",
+      "words": [
+        "the",
+        "packages",
+        "are",
+        "delivered",
+        "by",
+        "couriers"
+      ],
+      "hints": [
+        "Packages = plural, couriers = by"
+      ],
+      "points": 10,
+      "correctSentence": "The packages are delivered by couriers"
+    },
+    {
+      "id": 289,
+      "type": "word-rearrange",
+      "words": [
+        "wine",
+        "is",
+        "made",
+        "from",
+        "grapes"
+      ],
+      "hints": [
+        "Wine = uncountable, grapes = source → from"
+      ],
+      "points": 10,
+      "correctSentence": "Wine is made from grapes"
+    },
+    {
+      "id": 290,
+      "type": "word-rearrange",
+      "words": [
+        "the",
+        "students",
+        "are",
+        "taught",
+        "by",
+        "professors"
+      ],
+      "hints": [
+        "Students = plural, professors = by"
+      ],
+      "points": 10,
+      "correctSentence": "The students are taught by professors"
+    }
+  ]
+}

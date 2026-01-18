@@ -4,7 +4,7 @@
 
 <!-- chunk: intro -->
 <teacher_script pause="0">
-Chào các em. Bài cuối cùng <eng>Looking Back</eng> - Ôn tập Unit 8. Chúng ta sẽ ôn lại từ vựng và ngữ pháp nhé. Mở sách trang 90.
+Chào các em. Mời các em mở sách giáo khoa trang 90. Chúng ta sẽ làm bài cuối cùng của Unit 8: <eng>Looking Back</eng>. Bài học này sẽ giúp các em ôn tập lại từ vựng và ngữ pháp đã học.
 </teacher_script>
 
 ---
@@ -13,7 +13,7 @@ Chào các em. Bài cuối cùng <eng>Looking Back</eng> - Ôn tập Unit 8. Ch�
 ### Bài 1 trang 90 - Match film types
 
 <teacher_script pause="60">
-Bài 1 nối loại phim với định nghĩa. 1 phút nha.
+Chúng ta cùng làm Bài 1 <eng>Match film types</eng>. Các em hãy nối các loại phim với định nghĩa tương ứng. Các em có 1 phút.
 </teacher_script>
 
 <task>
@@ -41,7 +41,7 @@ e. A film that features cartoon characters.
 
 <!-- chunk: answer_1 -->
 <teacher_script pause="0">
-Đáp án nè.
+Đã hết thời gian. Sau đây là đáp án đúng.
 </teacher_script>
 
 <answer>
@@ -58,7 +58,7 @@ e. A film that features cartoon characters.
 </explanation>
 
 <teacher_script pause="30">
-Sửa bài nếu sai nha.
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
@@ -67,7 +67,7 @@ Sửa bài nếu sai nha.
 ### Bài 3 trang 90 - Choose correct answer (Adjectives)
 
 <teacher_script pause="60">
-Bài 3 chọn tính từ đúng. 1 phút nha.
+Chúng ta cùng làm Bài 3 <eng>Choose correct answer</eng>. Các em hãy chọn tính từ đúng để hoàn thành câu. Các em có 1 phút.
 </teacher_script>
 
 <task>
@@ -98,7 +98,7 @@ A. confusing | B. shocking | C. interesting
 
 <!-- chunk: answer_3 -->
 <teacher_script pause="0">
-Đáp án nè.
+Đã hết thời gian. Sau đây là đáp án đúng.
 </teacher_script>
 
 <answer>
@@ -116,7 +116,7 @@ A. confusing | B. shocking | C. interesting
 </explanation>
 
 <teacher_script pause="30">
-Sửa bài nếu sai nha.
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
@@ -125,7 +125,7 @@ Sửa bài nếu sai nha.
 ### Bài 4 trang 90 - Grammar (Although/However)
 
 <teacher_script pause="60">
-Bài 4 nối câu dùng Although/However. 1 phút nha.
+Chúng ta cùng làm Bài 4 <eng>Grammar</eng>. Các em hãy nối các câu hoặc nửa câu ở cột A với cột B sử dụng <eng>Although</eng> hoặc <eng>However</eng>. Các em có 1 phút.
 </teacher_script>
 
 <task>
@@ -149,14 +149,14 @@ e. many people still buy them.
 </questions>
 
 <teacher_script pause="0">
-Lưu ý: <eng>However</eng> thường đứng đầu câu thứ 2. <eng>Although</eng> nối 2 vế.
+Lưu ý: <eng>However</eng> thường đứng đầu câu thứ hai, còn <eng>Although</eng> dùng để nối hai mệnh đề.
 </teacher_script>
 
 ---
 
 <!-- chunk: answer_4 -->
 <teacher_script pause="0">
-Đáp án nè.
+Đã hết thời gian. Sau đây là đáp án đúng.
 </teacher_script>
 
 <answer>
@@ -175,16 +175,16 @@ Lưu ý: <eng>However</eng> thường đứng đầu câu thứ 2. <eng>Although
 </explanation>
 
 <teacher_script pause="0">
-Lưu ý câu 4: Trong sách giáo khoa mới, câu B thường là "However, the number of people going to cinemas is increasing". Nếu sách các em khác thì chọn câu phù hợp nghĩa tương phản nhé.
+Các em lưu ý câu 4: Trong một số sách giáo khoa mới, nội dung câu B có thể là "However, the number of people going to cinemas is increasing". Các em hãy chọn đáp án phù hợp với sách của mình nhé.
 </teacher_script>
 
 <teacher_script pause="30">
-Sửa bài nếu sai nha.
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
 
 <!-- chunk: end -->
 <teacher_script pause="0">
-Vậy là chúng ta đã hoàn thành Unit 8 <eng>Films</eng>. Các em về nhà ôn lại từ vựng và cấu trúc <eng>Although/However</eng> nhé. Chào tạm biệt và hẹn gặp lại ở Unit 9!
+Chúng ta đã hoàn thành Unit 8 <eng>Films</eng>. Các em hãy ôn tập lại từ vựng và cấu trúc <eng>Although, However</eng> nhé. Chào tạm biệt và hẹn gặp lại các em ở Unit 9!
 </teacher_script>

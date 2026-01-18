@@ -1,0 +1,184 @@
+{
+  "unitId": "unit-11-making-a-film",
+  "unitTitle": "Unit 11: Making a Film - Passive Voice (Present)",
+  "vocabularyData": {
+    "grammarTerms": [
+      {
+        "word": "passive",
+        "vietnamese": "bị động",
+        "pronunciation": "/ˈpæsɪv/",
+        "definition": "A form where the subject receives the action",
+        "example": "Films are made in London. (passive voice)",
+        "difficulty": "advanced"
+      },
+      {
+        "word": "active",
+        "vietnamese": "chủ động",
+        "pronunciation": "/ˈæktɪv/",
+        "definition": "A form where the subject does the action",
+        "example": "They make films. (active voice)",
+        "difficulty": "advanced"
+      },
+      {
+        "word": "agent",
+        "vietnamese": "tác nhân (người làm hành động)",
+        "pronunciation": "/ˈeɪdʒənt/",
+        "definition": "The person or thing doing the action",
+        "example": "The film is made by the director. (director = agent)",
+        "difficulty": "advanced"
+      },
+      {
+        "word": "instrument",
+        "vietnamese": "công cụ",
+        "pronunciation": "/ˈɪnstrəmənt/",
+        "definition": "A tool used to do something",
+        "example": "Bread is cut with a knife. (knife = instrument)",
+        "difficulty": "intermediate"
+      },
+      {
+        "word": "material",
+        "vietnamese": "vật liệu",
+        "pronunciation": "/məˈtɪriəl/",
+        "definition": "What something is made from",
+        "example": "The picture is painted with oil paints. (oil paints = material)",
+        "difficulty": "intermediate"
+      }
+    ],
+    "difficultWords": [
+      {
+        "word": "souvenirs",
+        "vietnamese": "đồ lưu niệm",
+        "pronunciation": "/ˌsuːvəˈnɪrz/",
+        "definition": "Things kept as reminders of places",
+        "example": "Their houses are decorated with old film souvenirs.",
+        "difficulty": "intermediate"
+      },
+      {
+        "word": "studio",
+        "vietnamese": "phim trường",
+        "pronunciation": "/ˈstuːdioʊ/",
+        "definition": "A place where films are made",
+        "example": "They want to see the famous film studios.",
+        "difficulty": "basic"
+      },
+      {
+        "word": "musicians",
+        "vietnamese": "nhạc sĩ",
+        "pronunciation": "/mjuːˈzɪʃnz/",
+        "definition": "People who play music",
+        "example": "Evening shows are put on by dancers and musicians.",
+        "difficulty": "basic"
+      },
+      {
+        "word": "decorated",
+        "vietnamese": "được trang trí",
+        "pronunciation": "/ˈdekəreɪtɪd/",
+        "definition": "Made more attractive with additions",
+        "example": "The main streets are decorated with bright lights.",
+        "difficulty": "basic"
+      },
+      {
+        "word": "tourists",
+        "vietnamese": "khách du lịch",
+        "pronunciation": "/ˈtʊrɪsts/",
+        "definition": "People visiting places for pleasure",
+        "example": "Hollywood is visited by thousands of tourists.",
+        "difficulty": "basic"
+      },
+      {
+        "word": "Hollywood",
+        "vietnamese": "Hollywood (khu vực làm phim ở Mỹ)",
+        "pronunciation": "/ˈhɑːliwʊd/",
+        "definition": "Famous film-making area in California",
+        "example": "Lots of films are made in Hollywood.",
+        "difficulty": "basic"
+      },
+      {
+        "word": "director",
+        "vietnamese": "đạo diễn",
+        "pronunciation": "/dəˈrektər/",
+        "definition": "Person in charge of making a film",
+        "example": "The actors' names are written by the director.",
+        "difficulty": "basic"
+      },
+      {
+        "word": "actress",
+        "vietnamese": "nữ diễn viên",
+        "pronunciation": "/ˈæktrəs/",
+        "definition": "A woman who acts in films",
+        "example": "Lots of actors and actresses live in Hollywood.",
+        "difficulty": "basic"
+      }
+    ],
+    "keyPhrases": [
+      {
+        "phrase": "am/is/are + past participle",
+        "vietnamese": "được (câu bị động hiện tại)",
+        "structure": "am/is/are + past participle (V3)",
+        "definition": "Present simple passive voice structure",
+        "example": "Films are made in London.",
+        "usage": "When we don't know/care who does the action"
+      },
+      {
+        "phrase": "by + agent",
+        "vietnamese": "bởi (người làm)",
+        "structure": "by + person/thing",
+        "definition": "Shows who does the action in passive",
+        "example": "Hollywood is visited by thousands of tourists.",
+        "usage": "Use 'by' to show WHO does it"
+      },
+      {
+        "phrase": "with + instrument/material",
+        "vietnamese": "bằng, với (công cụ/vật liệu)",
+        "structure": "with + tool/material",
+        "definition": "Shows what tool or material is used",
+        "example": "Bread is cut with a knife.",
+        "usage": "Use 'with' to show WHAT is used"
+      }
+    ],
+    "usefulExpressions": [
+      {
+        "expression": "be filled with",
+        "vietnamese": "được lấp đầy với",
+        "example": "Hollywood is filled with famous people.",
+        "type": "passive + with"
+      },
+      {
+        "expression": "be made from",
+        "vietnamese": "được làm từ",
+        "example": "Our clothes are made from modern material.",
+        "type": "passive + from"
+      },
+      {
+        "expression": "be decorated with",
+        "vietnamese": "được trang trí bằng",
+        "example": "The main streets are decorated with bright lights.",
+        "type": "passive + with"
+      },
+      {
+        "expression": "be put on",
+        "vietnamese": "được tổ chức",
+        "example": "Evening shows are put on by dancers and musicians.",
+        "type": "passive phrasal verb"
+      },
+      {
+        "expression": "film studios",
+        "vietnamese": "phim trường",
+        "example": "They want to see the famous film studios.",
+        "type": "compound noun"
+      },
+      {
+        "expression": "bright lights",
+        "vietnamese": "đèn sáng",
+        "example": "The streets are decorated with bright lights.",
+        "type": "collocation"
+      },
+      {
+        "expression": "famous people",
+        "vietnamese": "người nổi tiếng",
+        "example": "Hollywood is filled with famous people.",
+        "type": "collocation"
+      }
+    ]
+  }
+}

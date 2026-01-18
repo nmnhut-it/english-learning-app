@@ -1,0 +1,1491 @@
+{
+  "unitId": "g6-unit-1-my-new-school",
+  "title": "Unit 1: My New School - Present Simple Tense",
+  "studentName": "Tran Gia Hung",
+  "grade": 6,
+  "grammarTopics": [
+    "Present Simple Tense",
+    "School Vocabulary",
+    "Verbs: play, do, have, study",
+    "Adverbs of Frequency"
+  ],
+  "theory": {
+    "brief": "Thì Hiện Tại Đơn (Present Simple) diễn tả sự thật hiển nhiên, thói quen, hành động lặp đi lặp lại. Công thức: I/You/We/They + V0, He/She/It + V-s/es. Phủ định dùng don't/doesn't + V0. Nghi vấn dùng Do/Does + S + V0?",
+    "examples": [
+      "I study English every day. (Tôi học tiếng Anh mỗi ngày.)",
+      "She goes to school by bike. (Cô ấy đi học bằng xe đạp.)",
+      "Do you like music? (Bạn có thích âm nhạc không?)",
+      "They don't play football on Mondays. (Họ không chơi bóng đá vào thứ Hai.)"
+    ]
+  },
+  "exercises": [
+    {
+      "id": "g6u1-ex1",
+      "type": "fill-blank",
+      "question": "Students _______ (wear) their uniforms on Monday.",
+      "wordHint": "(wear)",
+      "answer": "wear",
+      "acceptedAnswers": ["wear"],
+      "hints": ["Chủ từ 'Students' là số nhiều, dùng động từ nguyên mẫu"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex2",
+      "type": "fill-blank",
+      "question": "Vy _______ (have) a new friend, Duy.",
+      "wordHint": "(have)",
+      "answer": "has",
+      "acceptedAnswers": ["has"],
+      "hints": ["Chủ từ 'Vy' là số ít ngôi thứ 3, động từ 'have' biến thành 'has'"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex3",
+      "type": "fill-blank",
+      "question": "- Do Phong, Vy, and Duy _______ (go) to the same school? - Yes, they do.",
+      "wordHint": "(go)",
+      "answer": "go",
+      "acceptedAnswers": ["go"],
+      "hints": ["Sau 'Do' dùng động từ nguyên mẫu"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex4",
+      "type": "fill-blank",
+      "question": "Students always look smart in their _______.",
+      "wordHint": "đồng phục (số nhiều)",
+      "answer": "uniforms",
+      "acceptedAnswers": ["uniforms"],
+      "hints": ["Từ này nghĩa là 'đồng phục' và ở dạng số nhiều"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex5",
+      "type": "fill-blank",
+      "question": "- What _______ (subjects) do you like to study? - I like to study English and history.",
+      "wordHint": "(subjects)",
+      "answer": "subjects",
+      "acceptedAnswers": ["subjects"],
+      "hints": ["Danh từ 'môn học' ở dạng số nhiều"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex6",
+      "type": "fill-blank",
+      "question": "Vy and I often do our _______ (homework) after school.",
+      "wordHint": "(homework)",
+      "answer": "homework",
+      "acceptedAnswers": ["homework"],
+      "hints": ["Homework là danh từ không đếm được, không thêm 's'"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex7",
+      "type": "fill-blank",
+      "question": "Nick plays _______ (football) for the school team.",
+      "wordHint": "(football)",
+      "answer": "football",
+      "acceptedAnswers": ["football", "soccer"],
+      "hints": ["Môn thể thao với quả bóng tròn"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex8",
+      "type": "fill-blank",
+      "question": "Mrs Nguyen teaches all my history _______ (lessons).",
+      "wordHint": "(lessons)",
+      "answer": "lessons",
+      "acceptedAnswers": ["lessons"],
+      "hints": ["'Bài học' ở dạng số nhiều"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex9",
+      "type": "fill-blank",
+      "question": "They are healthy. They do _______ (exercise) every day.",
+      "wordHint": "(exercise)",
+      "answer": "exercise",
+      "acceptedAnswers": ["exercise", "exercises"],
+      "hints": ["Hoạt động thể dục"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex10",
+      "type": "fill-blank",
+      "question": "I study maths, English and _______ (science) on Monday.",
+      "wordHint": "(science)",
+      "answer": "science",
+      "acceptedAnswers": ["science"],
+      "hints": ["Môn học về khoa học"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex11",
+      "type": "fill-blank",
+      "question": "She _______ (study) English every day.",
+      "wordHint": "(study)",
+      "answer": "studies",
+      "acceptedAnswers": ["studies"],
+      "hints": ["Chủ từ 'She' ngôi thứ 3 số ít, thêm '-es' vào động từ kết thúc bằng 'y' → studies"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex12",
+      "type": "fill-blank",
+      "question": "They _______ (do) their homework in the evening.",
+      "wordHint": "(do)",
+      "answer": "do",
+      "acceptedAnswers": ["do"],
+      "hints": ["Chủ từ 'They' số nhiều, dùng động từ nguyên mẫu"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex13",
+      "type": "fill-blank",
+      "question": "He _______ (like) to play football after school.",
+      "wordHint": "(like)",
+      "answer": "likes",
+      "acceptedAnswers": ["likes"],
+      "hints": ["Chủ từ 'He' ngôi thứ 3 số ít, thêm '-s'"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex14",
+      "type": "fill-blank",
+      "question": "The teacher _______ (give) us history lessons on Mondays.",
+      "wordHint": "(give)",
+      "answer": "gives",
+      "acceptedAnswers": ["gives"],
+      "hints": ["Chủ từ 'The teacher' ngôi thứ 3 số ít, thêm '-s'"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex15",
+      "type": "fill-blank",
+      "question": "We _______ (have) science class every Wednesday.",
+      "wordHint": "(have)",
+      "answer": "have",
+      "acceptedAnswers": ["have"],
+      "hints": ["Chủ từ 'We' số nhiều, dùng động từ nguyên mẫu"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex16",
+      "type": "sentence-build",
+      "prompt": "English / she / every day / studies",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "answer": "She studies English every day.",
+      "acceptedAnswers": [
+        "She studies English every day.",
+        "She studies English every day"
+      ],
+      "hints": ["Thứ tự: Chủ ngữ + động từ + tân ngữ + trạng từ chỉ thời gian"],
+      "points": 15
+    },
+    {
+      "id": "g6u1-ex17",
+      "type": "sentence-build",
+      "prompt": "their / do / they / homework / evening / in / the",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "answer": "They do their homework in the evening.",
+      "acceptedAnswers": [
+        "They do their homework in the evening.",
+        "They do their homework in the evening"
+      ],
+      "hints": ["do their homework = làm bài tập về nhà của họ"],
+      "points": 15
+    },
+    {
+      "id": "g6u1-ex18",
+      "type": "sentence-build",
+      "prompt": "football / he / play / after / school / likes / to",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "answer": "He likes to play football after school.",
+      "acceptedAnswers": [
+        "He likes to play football after school.",
+        "He likes to play football after school"
+      ],
+      "hints": ["like to + V = thích làm gì"],
+      "points": 15
+    },
+    {
+      "id": "g6u1-ex19",
+      "type": "fill-blank",
+      "question": "Mai _______ (not have) a ruler.",
+      "wordHint": "(not have)",
+      "answer": "doesn't have",
+      "acceptedAnswers": ["doesn't have", "does not have"],
+      "hints": ["Câu phủ định với chủ từ số ít ngôi thứ 3: doesn't + V0"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex20",
+      "type": "fill-blank",
+      "question": "My father _______ (not go) to bed early.",
+      "wordHint": "(not go)",
+      "answer": "doesn't go",
+      "acceptedAnswers": ["doesn't go", "does not go"],
+      "hints": ["Câu phủ định với chủ từ số ít ngôi thứ 3"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex21",
+      "type": "fill-blank",
+      "question": "I _______ (always) get up at 6.",
+      "wordHint": "(always - luôn luôn)",
+      "answer": "always",
+      "acceptedAnswers": ["always"],
+      "hints": ["Trạng từ tần suất đứng trước động từ thường"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex22",
+      "type": "fill-blank",
+      "question": "He _______ (usually) studies English.",
+      "wordHint": "(usually - thường xuyên)",
+      "answer": "usually",
+      "acceptedAnswers": ["usually"],
+      "hints": ["Trạng từ tần suất đứng trước động từ thường"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex23",
+      "type": "fill-blank",
+      "question": "She _______ (sometimes) studies French.",
+      "wordHint": "(sometimes - thỉnh thoảng)",
+      "answer": "sometimes",
+      "acceptedAnswers": ["sometimes"],
+      "hints": ["Trạng từ tần suất đứng trước động từ thường"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex24",
+      "type": "multiple-choice",
+      "question": "We _______ new subjects for this school year.",
+      "options": ["have", "has", "having", "to have"],
+      "correctIndex": 0,
+      "explanation": "Chủ từ 'We' số nhiều, dùng động từ nguyên mẫu 'have'",
+      "hints": ["Chủ từ là 'We' - số nhiều"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex25",
+      "type": "multiple-choice",
+      "question": "Duy _______ to school every day.",
+      "options": ["cycle", "cycles", "cycling", "to cycle"],
+      "correctIndex": 1,
+      "explanation": "Chủ từ 'Duy' là ngôi thứ 3 số ít, thêm '-s' vào động từ",
+      "hints": ["Duy là chủ từ số ít ngôi thứ 3"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex26",
+      "type": "multiple-choice",
+      "question": "My friends _______ football every weekend.",
+      "options": ["plays", "play", "playing", "to play"],
+      "correctIndex": 1,
+      "explanation": "Chủ từ 'My friends' số nhiều nên dùng động từ nguyên mẫu",
+      "hints": ["Chủ từ số nhiều dùng động từ nguyên mẫu"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex27",
+      "type": "multiple-choice",
+      "question": "She _______ her homework after dinner.",
+      "options": ["do", "does", "doing", "to do"],
+      "correctIndex": 1,
+      "explanation": "Chủ từ 'She' ngôi thứ 3 số ít nên thêm -es",
+      "hints": ["She/He/It + V-s/es"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex28",
+      "type": "multiple-choice",
+      "question": "_______ you like English?",
+      "options": ["Does", "Do", "Are", "Is"],
+      "correctIndex": 1,
+      "explanation": "Câu nghi vấn với 'you' dùng 'Do'",
+      "hints": ["Do + I/you/we/they + V0?"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex29",
+      "type": "multiple-choice",
+      "question": "My teacher _______ us Math and Science.",
+      "options": ["teach", "teaches", "teaching", "to teach"],
+      "correctIndex": 1,
+      "explanation": "Chủ từ 'My teacher' số ít ngôi 3, thêm -es",
+      "hints": ["Ngôi thứ 3 số ít thêm -s/-es"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex30",
+      "type": "multiple-choice",
+      "question": "We _______ to school by bus.",
+      "options": ["go", "goes", "going", "to go"],
+      "correctIndex": 0,
+      "explanation": "Chủ từ 'We' số nhiều dùng động từ nguyên mẫu",
+      "hints": ["We/They + V0"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex31",
+      "type": "multiple-choice",
+      "question": "He _______ breakfast at 7 o'clock.",
+      "options": ["have", "has", "having", "to have"],
+      "correctIndex": 1,
+      "explanation": "Have biến thành has với ngôi thứ 3 số ít",
+      "hints": ["He/She/It + has"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex32",
+      "type": "multiple-choice",
+      "question": "They _______ English on Monday and Wednesday.",
+      "options": ["study", "studies", "studying", "to study"],
+      "correctIndex": 0,
+      "explanation": "They là số nhiều nên dùng study",
+      "hints": ["Chủ từ số nhiều + V0"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex33",
+      "type": "multiple-choice",
+      "question": "_______ she go to school by bike?",
+      "options": ["Do", "Does", "Is", "Are"],
+      "correctIndex": 1,
+      "explanation": "Câu hỏi với she dùng Does",
+      "hints": ["Does + he/she/it + V0?"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex34",
+      "type": "multiple-choice",
+      "question": "I _______ get up early on Sundays.",
+      "options": ["am not", "don't", "doesn't", "isn't"],
+      "correctIndex": 1,
+      "explanation": "Phủ định với I dùng don't",
+      "hints": ["I/You/We/They + don't + V0"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex35",
+      "type": "multiple-choice",
+      "question": "My sister _______ TV every evening.",
+      "options": ["watch", "watches", "watching", "to watch"],
+      "correctIndex": 1,
+      "explanation": "Động từ kết thúc -ch thêm -es",
+      "hints": ["watch + es = watches"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex36",
+      "type": "multiple-choice",
+      "question": "We _______ have lessons on Saturday.",
+      "options": ["aren't", "don't", "doesn't", "isn't"],
+      "correctIndex": 1,
+      "explanation": "Phủ định với we dùng don't",
+      "hints": ["We + don't + V0"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex37",
+      "type": "multiple-choice",
+      "question": "_______ your brother play the guitar?",
+      "options": ["Do", "Does", "Is", "Are"],
+      "correctIndex": 1,
+      "explanation": "Your brother là số ít ngôi 3 nên dùng Does",
+      "hints": ["Does + he/she/it + V0?"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex38",
+      "type": "multiple-choice",
+      "question": "She _______ to music in her free time.",
+      "options": ["listen", "listens", "listening", "to listen"],
+      "correctIndex": 1,
+      "explanation": "She là ngôi 3 số ít thêm -s",
+      "hints": ["She + V-s"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex39",
+      "type": "multiple-choice",
+      "question": "My parents _______ at a hospital.",
+      "options": ["work", "works", "working", "to work"],
+      "correctIndex": 0,
+      "explanation": "My parents số nhiều dùng work",
+      "hints": ["Số nhiều + V0"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex40",
+      "type": "multiple-choice",
+      "question": "He _______ like spicy food.",
+      "options": ["don't", "doesn't", "isn't", "aren't"],
+      "correctIndex": 1,
+      "explanation": "Phủ định với he dùng doesn't",
+      "hints": ["He/She/It + doesn't + V0"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex41",
+      "type": "multiple-choice",
+      "question": "The school _______ at 7:30 a.m.",
+      "options": ["start", "starts", "starting", "to start"],
+      "correctIndex": 1,
+      "explanation": "The school số ít ngôi 3 thêm -s",
+      "hints": ["It + V-s"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex42",
+      "type": "multiple-choice",
+      "question": "I _______ my teeth twice a day.",
+      "options": ["brush", "brushes", "brushing", "to brush"],
+      "correctIndex": 0,
+      "explanation": "Chủ từ I dùng động từ nguyên mẫu",
+      "hints": ["I + V0"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex43",
+      "type": "multiple-choice",
+      "question": "_______ they live in the city?",
+      "options": ["Does", "Do", "Is", "Are"],
+      "correctIndex": 1,
+      "explanation": "Câu hỏi với they dùng Do",
+      "hints": ["Do + they + V0?"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex44",
+      "type": "multiple-choice",
+      "question": "She _______ her room every Sunday.",
+      "options": ["clean", "cleans", "cleaning", "to clean"],
+      "correctIndex": 1,
+      "explanation": "She số ít ngôi 3 thêm -s",
+      "hints": ["She + V-s"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex45",
+      "type": "multiple-choice",
+      "question": "My best friend _______ near my house.",
+      "options": ["live", "lives", "living", "to live"],
+      "correctIndex": 1,
+      "explanation": "My best friend số ít ngôi 3 thêm -s",
+      "hints": ["Ngôi 3 số ít + V-s"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex46",
+      "type": "multiple-choice",
+      "question": "We _______ wear uniforms at school.",
+      "options": ["always", "are always", "always are", "be always"],
+      "correctIndex": 0,
+      "explanation": "Trạng từ tần suất đứng trước động từ thường",
+      "hints": ["always + V"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex47",
+      "type": "multiple-choice",
+      "question": "He _______ late for school.",
+      "options": ["is never", "never is", "never be", "be never"],
+      "correctIndex": 0,
+      "explanation": "Trạng từ tần suất đứng sau động từ to be",
+      "hints": ["be + never"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex48",
+      "type": "multiple-choice",
+      "question": "The students _______ in the library after school.",
+      "options": ["study", "studies", "studying", "to study"],
+      "correctIndex": 0,
+      "explanation": "The students số nhiều dùng study",
+      "hints": ["Số nhiều + V0"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex49",
+      "type": "multiple-choice",
+      "question": "_______ your sister like Math?",
+      "options": ["Do", "Does", "Is", "Are"],
+      "correctIndex": 1,
+      "explanation": "Your sister số ít ngôi 3 dùng Does",
+      "hints": ["Does + she + V0?"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex50",
+      "type": "multiple-choice",
+      "question": "My father _______ newspaper every morning.",
+      "options": ["read", "reads", "reading", "to read"],
+      "correctIndex": 1,
+      "explanation": "My father số ít ngôi 3 thêm -s",
+      "hints": ["He + V-s"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex51",
+      "type": "multiple-choice",
+      "question": "They _______ swimming on Saturdays.",
+      "options": ["go", "goes", "going", "to go"],
+      "correctIndex": 0,
+      "explanation": "They số nhiều dùng go",
+      "hints": ["They + V0"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex52",
+      "type": "multiple-choice",
+      "question": "She _______ speak three languages.",
+      "options": ["can", "cans", "canes", "to can"],
+      "correctIndex": 0,
+      "explanation": "Can là động từ khuyết thiếu không thêm -s",
+      "hints": ["can không thay đổi"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex53",
+      "type": "multiple-choice",
+      "question": "I _______ go to bed late on weekdays.",
+      "options": ["rarely", "am rarely", "rarely am", "be rarely"],
+      "correctIndex": 0,
+      "explanation": "Trạng từ tần suất đứng trước động từ thường",
+      "hints": ["rarely + V"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex54",
+      "type": "multiple-choice",
+      "question": "The sun _______ in the east.",
+      "options": ["rise", "rises", "rising", "to rise"],
+      "correctIndex": 1,
+      "explanation": "Sự thật hiển nhiên, the sun số ít thêm -s",
+      "hints": ["Chân lý + V-s"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex55",
+      "type": "multiple-choice",
+      "question": "My brother and I _______ video games together.",
+      "options": ["play", "plays", "playing", "to play"],
+      "correctIndex": 0,
+      "explanation": "My brother and I = We (số nhiều)",
+      "hints": ["Số nhiều + V0"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex56",
+      "type": "multiple-choice",
+      "question": "_______ it rain a lot in your city?",
+      "options": ["Do", "Does", "Is", "Are"],
+      "correctIndex": 1,
+      "explanation": "It là ngôi 3 số ít dùng Does",
+      "hints": ["Does + it + V0?"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex57",
+      "type": "multiple-choice",
+      "question": "She _______ her grandparents every month.",
+      "options": ["visit", "visits", "visiting", "to visit"],
+      "correctIndex": 1,
+      "explanation": "She số ít ngôi 3 thêm -s",
+      "hints": ["She + V-s"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex58",
+      "type": "multiple-choice",
+      "question": "We _______ lunch at 12 o'clock.",
+      "options": ["have", "has", "having", "to have"],
+      "correctIndex": 0,
+      "explanation": "We số nhiều dùng have",
+      "hints": ["We + have"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex59",
+      "type": "multiple-choice",
+      "question": "He _______ his bike to school.",
+      "options": ["ride", "rides", "riding", "to ride"],
+      "correctIndex": 1,
+      "explanation": "He số ít ngôi 3 thêm -s",
+      "hints": ["He + V-s"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex60",
+      "type": "multiple-choice",
+      "question": "_______ you and your friends play sports?",
+      "options": ["Does", "Do", "Is", "Are"],
+      "correctIndex": 1,
+      "explanation": "You and your friends số nhiều dùng Do",
+      "hints": ["Do + số nhiều + V0?"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex61",
+      "type": "multiple-choice",
+      "question": "My mother _______ delicious food.",
+      "options": ["cook", "cooks", "cooking", "to cook"],
+      "correctIndex": 1,
+      "explanation": "My mother số ít ngôi 3 thêm -s",
+      "hints": ["She + V-s"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex62",
+      "type": "multiple-choice",
+      "question": "The library _______ at 8 a.m.",
+      "options": ["open", "opens", "opening", "to open"],
+      "correctIndex": 1,
+      "explanation": "The library số ít ngôi 3 thêm -s",
+      "hints": ["It + V-s"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex63",
+      "type": "multiple-choice",
+      "question": "I _______ understand this lesson.",
+      "options": ["am not", "don't", "doesn't", "isn't"],
+      "correctIndex": 1,
+      "explanation": "Phủ định với I + động từ thường dùng don't",
+      "hints": ["I + don't + V0"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex64",
+      "type": "multiple-choice",
+      "question": "She _______ coffee in the morning.",
+      "options": ["drink", "drinks", "drinking", "to drink"],
+      "correctIndex": 1,
+      "explanation": "She số ít ngôi 3 thêm -s",
+      "hints": ["She + V-s"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex65",
+      "type": "multiple-choice",
+      "question": "My classmates _______ friendly and helpful.",
+      "options": ["am", "is", "are", "be"],
+      "correctIndex": 2,
+      "explanation": "My classmates số nhiều dùng are",
+      "hints": ["Số nhiều + are"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex66",
+      "type": "multiple-choice",
+      "question": "He _______ early happy.",
+      "options": ["often is", "is often", "often be", "be often"],
+      "correctIndex": 1,
+      "explanation": "Trạng từ tần suất đứng sau to be",
+      "hints": ["be + often"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex67",
+      "type": "multiple-choice",
+      "question": "_______ the students wear uniforms?",
+      "options": ["Does", "Do", "Is", "Are"],
+      "correctIndex": 1,
+      "explanation": "The students số nhiều dùng Do",
+      "hints": ["Do + số nhiều + V0?"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex68",
+      "type": "multiple-choice",
+      "question": "Water _______ at 100 degrees Celsius.",
+      "options": ["boil", "boils", "boiling", "to boil"],
+      "correctIndex": 1,
+      "explanation": "Sự thật hiển nhiên, water số ít thêm -s",
+      "hints": ["Chân lý + V-s"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex69",
+      "type": "multiple-choice",
+      "question": "They _______ have PE lessons on Friday.",
+      "options": ["aren't", "don't", "doesn't", "isn't"],
+      "correctIndex": 1,
+      "explanation": "Phủ định với they dùng don't",
+      "hints": ["They + don't + V0"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex70",
+      "type": "multiple-choice",
+      "question": "She _______ shopping with her mother on weekends.",
+      "options": ["go", "goes", "going", "to go"],
+      "correctIndex": 1,
+      "explanation": "She số ít ngôi 3, go thêm -es",
+      "hints": ["go + es = goes"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex71",
+      "type": "multiple-choice",
+      "question": "My dog _______ in the garden.",
+      "options": ["play", "plays", "playing", "to play"],
+      "correctIndex": 1,
+      "explanation": "My dog số ít ngôi 3 thêm -s",
+      "hints": ["It + V-s"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex72",
+      "type": "multiple-choice",
+      "question": "_______ she have long hair?",
+      "options": ["Do", "Does", "Is", "Are"],
+      "correctIndex": 1,
+      "explanation": "She số ít ngôi 3 dùng Does",
+      "hints": ["Does + she + V0?"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex73",
+      "type": "multiple-choice",
+      "question": "I _______ take the bus to school.",
+      "options": ["sometimes", "am sometimes", "sometimes am", "be sometimes"],
+      "correctIndex": 0,
+      "explanation": "Trạng từ tần suất đứng trước động từ thường",
+      "hints": ["sometimes + V"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex74",
+      "type": "multiple-choice",
+      "question": "The Earth _______ around the Sun.",
+      "options": ["move", "moves", "moving", "to move"],
+      "correctIndex": 1,
+      "explanation": "Sự thật hiển nhiên, the Earth số ít thêm -s",
+      "hints": ["Chân lý + V-s"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex75",
+      "type": "multiple-choice",
+      "question": "My friends and I _______ excited about the school trip.",
+      "options": ["am", "is", "are", "be"],
+      "correctIndex": 2,
+      "explanation": "My friends and I số nhiều dùng are",
+      "hints": ["Số nhiều + are"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex76",
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["I", "go", "to", "school", "every", "day"],
+      "distractors": ["goes", "going", "went"],
+      "correctSentence": "I go to school every day",
+      "acceptedAnswers": [
+        "I go to school every day",
+        "I go to school every day."
+      ],
+      "hints": ["Chủ từ I + động từ nguyên mẫu"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex77",
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["She", "plays", "the", "piano", "beautifully"],
+      "distractors": ["play", "playing", "played"],
+      "correctSentence": "She plays the piano beautifully",
+      "acceptedAnswers": [
+        "She plays the piano beautifully",
+        "She plays the piano beautifully."
+      ],
+      "hints": ["She + V-s"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex78",
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["We", "have", "Math", "on", "Monday"],
+      "distractors": ["has", "having", "had"],
+      "correctSentence": "We have Math on Monday",
+      "acceptedAnswers": [
+        "We have Math on Monday",
+        "We have Math on Monday."
+      ],
+      "hints": ["We + have"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex79",
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["Do", "you", "like", "English"],
+      "distractors": ["likes", "liking", "Does"],
+      "correctSentence": "Do you like English",
+      "acceptedAnswers": [
+        "Do you like English",
+        "Do you like English?",
+        "Do you like English."
+      ],
+      "hints": ["Do + you + V0?"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex80",
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["My", "brother", "watches", "TV", "every", "evening"],
+      "distractors": ["watch", "watching", "watched"],
+      "correctSentence": "My brother watches TV every evening",
+      "acceptedAnswers": [
+        "My brother watches TV every evening",
+        "My brother watches TV every evening."
+      ],
+      "hints": ["He + V-es"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex81",
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["They", "don't", "play", "football", "on", "Sundays"],
+      "distractors": ["doesn't", "plays", "playing"],
+      "correctSentence": "They don't play football on Sundays",
+      "acceptedAnswers": [
+        "They don't play football on Sundays",
+        "They don't play football on Sundays."
+      ],
+      "hints": ["They + don't + V0"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex82",
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["Does", "she", "study", "hard"],
+      "distractors": ["Do", "studies", "studying"],
+      "correctSentence": "Does she study hard",
+      "acceptedAnswers": [
+        "Does she study hard",
+        "Does she study hard?",
+        "Does she study hard."
+      ],
+      "hints": ["Does + she + V0?"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex83",
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["The", "teacher", "teaches", "us", "Science"],
+      "distractors": ["teach", "teaching", "taught"],
+      "correctSentence": "The teacher teaches us Science",
+      "acceptedAnswers": [
+        "The teacher teaches us Science",
+        "The teacher teaches us Science."
+      ],
+      "hints": ["The teacher + V-es"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex84",
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["I", "always", "do", "my", "homework"],
+      "distractors": ["does", "doing", "am"],
+      "correctSentence": "I always do my homework",
+      "acceptedAnswers": [
+        "I always do my homework",
+        "I always do my homework."
+      ],
+      "hints": ["I + always + V0"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex85",
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["He", "doesn't", "like", "spicy", "food"],
+      "distractors": ["don't", "likes", "liking"],
+      "correctSentence": "He doesn't like spicy food",
+      "acceptedAnswers": [
+        "He doesn't like spicy food",
+        "He doesn't like spicy food."
+      ],
+      "hints": ["He + doesn't + V0"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex86",
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["We", "study", "English", "and", "Math"],
+      "distractors": ["studies", "studying", "studied"],
+      "correctSentence": "We study English and Math",
+      "acceptedAnswers": [
+        "We study English and Math",
+        "We study English and Math."
+      ],
+      "hints": ["We + V0"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex87",
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["She", "is", "always", "happy"],
+      "distractors": ["always is", "am", "are"],
+      "correctSentence": "She is always happy",
+      "acceptedAnswers": [
+        "She is always happy",
+        "She is always happy."
+      ],
+      "hints": ["be + always"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex88",
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["My", "friends", "play", "basketball", "after", "school"],
+      "distractors": ["plays", "playing", "played"],
+      "correctSentence": "My friends play basketball after school",
+      "acceptedAnswers": [
+        "My friends play basketball after school",
+        "My friends play basketball after school."
+      ],
+      "hints": ["Số nhiều + V0"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex89",
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["Does", "your", "father", "work", "in", "a", "hospital"],
+      "distractors": ["Do", "works", "working"],
+      "correctSentence": "Does your father work in a hospital",
+      "acceptedAnswers": [
+        "Does your father work in a hospital",
+        "Does your father work in a hospital?",
+        "Does your father work in a hospital."
+      ],
+      "hints": ["Does + he + V0?"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex90",
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["The", "sun", "rises", "in", "the", "east"],
+      "distractors": ["rise", "rising", "rose"],
+      "correctSentence": "The sun rises in the east",
+      "acceptedAnswers": [
+        "The sun rises in the east",
+        "The sun rises in the east."
+      ],
+      "hints": ["Chân lý + V-s"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex91",
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["I", "usually", "get", "up", "at", "6", "a.m."],
+      "distractors": ["gets", "getting", "got"],
+      "correctSentence": "I usually get up at 6 a.m.",
+      "acceptedAnswers": [
+        "I usually get up at 6 a.m.",
+        "I usually get up at 6 a.m"
+      ],
+      "hints": ["I + usually + V0"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex92",
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["They", "have", "lunch", "at", "school"],
+      "distractors": ["has", "having", "had"],
+      "correctSentence": "They have lunch at school",
+      "acceptedAnswers": [
+        "They have lunch at school",
+        "They have lunch at school."
+      ],
+      "hints": ["They + have"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex93",
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["My", "sister", "loves", "reading", "books"],
+      "distractors": ["love", "loving", "loved"],
+      "correctSentence": "My sister loves reading books",
+      "acceptedAnswers": [
+        "My sister loves reading books",
+        "My sister loves reading books."
+      ],
+      "hints": ["She + V-s"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex94",
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["Do", "they", "speak", "English"],
+      "distractors": ["Does", "speaks", "speaking"],
+      "correctSentence": "Do they speak English",
+      "acceptedAnswers": [
+        "Do they speak English",
+        "Do they speak English?",
+        "Do they speak English."
+      ],
+      "hints": ["Do + they + V0?"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex95",
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["He", "often", "plays", "the", "guitar"],
+      "distractors": ["play", "playing", "played"],
+      "correctSentence": "He often plays the guitar",
+      "acceptedAnswers": [
+        "He often plays the guitar",
+        "He often plays the guitar."
+      ],
+      "hints": ["He + often + V-s"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex96",
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["The", "students", "are", "friendly"],
+      "distractors": ["is", "am", "be"],
+      "correctSentence": "The students are friendly",
+      "acceptedAnswers": [
+        "The students are friendly",
+        "The students are friendly."
+      ],
+      "hints": ["Số nhiều + are"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex97",
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["She", "doesn't", "eat", "meat"],
+      "distractors": ["don't", "eats", "eating"],
+      "correctSentence": "She doesn't eat meat",
+      "acceptedAnswers": [
+        "She doesn't eat meat",
+        "She doesn't eat meat."
+      ],
+      "hints": ["She + doesn't + V0"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex98",
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["We", "sometimes", "go", "swimming"],
+      "distractors": ["goes", "going", "went"],
+      "correctSentence": "We sometimes go swimming",
+      "acceptedAnswers": [
+        "We sometimes go swimming",
+        "We sometimes go swimming."
+      ],
+      "hints": ["We + sometimes + V0"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex99",
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["The", "school", "starts", "at", "7:30"],
+      "distractors": ["start", "starting", "started"],
+      "correctSentence": "The school starts at 7:30",
+      "acceptedAnswers": [
+        "The school starts at 7:30",
+        "The school starts at 7:30."
+      ],
+      "hints": ["It + V-s"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex100",
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["My", "mother", "cooks", "dinner", "every", "day"],
+      "distractors": ["cook", "cooking", "cooked"],
+      "correctSentence": "My mother cooks dinner every day",
+      "acceptedAnswers": [
+        "My mother cooks dinner every day",
+        "My mother cooks dinner every day."
+      ],
+      "hints": ["She + V-s"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex101",
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["Is", "she", "a", "good", "student"],
+      "distractors": ["Are", "Am", "be"],
+      "correctSentence": "Is she a good student",
+      "acceptedAnswers": [
+        "Is she a good student",
+        "Is she a good student?",
+        "Is she a good student."
+      ],
+      "hints": ["Is + she + ...?"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex102",
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["They", "walk", "to", "school", "together"],
+      "distractors": ["walks", "walking", "walked"],
+      "correctSentence": "They walk to school together",
+      "acceptedAnswers": [
+        "They walk to school together",
+        "They walk to school together."
+      ],
+      "hints": ["They + V0"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex103",
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["He", "never", "tells", "lies"],
+      "distractors": ["tell", "telling", "told"],
+      "correctSentence": "He never tells lies",
+      "acceptedAnswers": [
+        "He never tells lies",
+        "He never tells lies."
+      ],
+      "hints": ["He + never + V-s"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex104",
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["Do", "you", "have", "a", "pet"],
+      "distractors": ["Does", "has", "having"],
+      "correctSentence": "Do you have a pet",
+      "acceptedAnswers": [
+        "Do you have a pet",
+        "Do you have a pet?",
+        "Do you have a pet."
+      ],
+      "hints": ["Do + you + V0?"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex105",
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["Water", "boils", "at", "100", "degrees"],
+      "distractors": ["boil", "boiling", "boiled"],
+      "correctSentence": "Water boils at 100 degrees",
+      "acceptedAnswers": [
+        "Water boils at 100 degrees",
+        "Water boils at 100 degrees."
+      ],
+      "hints": ["Chân lý + V-s"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex106",
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["My", "dad", "drives", "to", "work"],
+      "distractors": ["drive", "driving", "drove"],
+      "correctSentence": "My dad drives to work",
+      "acceptedAnswers": [
+        "My dad drives to work",
+        "My dad drives to work."
+      ],
+      "hints": ["He + V-s"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex107",
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["I", "am", "not", "lazy"],
+      "distractors": ["is", "are", "be"],
+      "correctSentence": "I am not lazy",
+      "acceptedAnswers": [
+        "I am not lazy",
+        "I am not lazy."
+      ],
+      "hints": ["I + am + not"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex108",
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["She", "studies", "Math", "and", "Science"],
+      "distractors": ["study", "studying", "studied"],
+      "correctSentence": "She studies Math and Science",
+      "acceptedAnswers": [
+        "She studies Math and Science",
+        "She studies Math and Science."
+      ],
+      "hints": ["She + V-ies"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex109",
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["We", "don't", "have", "school", "on", "Sunday"],
+      "distractors": ["doesn't", "has", "having"],
+      "correctSentence": "We don't have school on Sunday",
+      "acceptedAnswers": [
+        "We don't have school on Sunday",
+        "We don't have school on Sunday."
+      ],
+      "hints": ["We + don't + V0"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex110",
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["Does", "he", "live", "near", "here"],
+      "distractors": ["Do", "lives", "living"],
+      "correctSentence": "Does he live near here",
+      "acceptedAnswers": [
+        "Does he live near here",
+        "Does he live near here?",
+        "Does he live near here."
+      ],
+      "hints": ["Does + he + V0?"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex111",
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["The", "cat", "sleeps", "on", "the", "sofa"],
+      "distractors": ["sleep", "sleeping", "slept"],
+      "correctSentence": "The cat sleeps on the sofa",
+      "acceptedAnswers": [
+        "The cat sleeps on the sofa",
+        "The cat sleeps on the sofa."
+      ],
+      "hints": ["It + V-s"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex112",
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["My", "classmates", "are", "helpful"],
+      "distractors": ["is", "am", "be"],
+      "correctSentence": "My classmates are helpful",
+      "acceptedAnswers": [
+        "My classmates are helpful",
+        "My classmates are helpful."
+      ],
+      "hints": ["Số nhiều + are"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex113",
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["I", "rarely", "eat", "fast", "food"],
+      "distractors": ["eats", "eating", "ate"],
+      "correctSentence": "I rarely eat fast food",
+      "acceptedAnswers": [
+        "I rarely eat fast food",
+        "I rarely eat fast food."
+      ],
+      "hints": ["I + rarely + V0"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex114",
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["She", "washes", "her", "hands", "before", "meals"],
+      "distractors": ["wash", "washing", "washed"],
+      "correctSentence": "She washes her hands before meals",
+      "acceptedAnswers": [
+        "She washes her hands before meals",
+        "She washes her hands before meals."
+      ],
+      "hints": ["She + V-es"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex115",
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["They", "enjoy", "playing", "video", "games"],
+      "distractors": ["enjoys", "enjoyed", "enjoying"],
+      "correctSentence": "They enjoy playing video games",
+      "acceptedAnswers": [
+        "They enjoy playing video games",
+        "They enjoy playing video games."
+      ],
+      "hints": ["They + V0"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex116",
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["Does", "your", "sister", "play", "tennis"],
+      "distractors": ["Do", "plays", "playing"],
+      "correctSentence": "Does your sister play tennis",
+      "acceptedAnswers": [
+        "Does your sister play tennis",
+        "Does your sister play tennis?",
+        "Does your sister play tennis."
+      ],
+      "hints": ["Does + she + V0?"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex117",
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["The", "library", "opens", "at", "8", "a.m."],
+      "distractors": ["open", "opening", "opened"],
+      "correctSentence": "The library opens at 8 a.m.",
+      "acceptedAnswers": [
+        "The library opens at 8 a.m.",
+        "The library opens at 8 a.m"
+      ],
+      "hints": ["It + V-s"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex118",
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["He", "is", "usually", "on", "time"],
+      "distractors": ["usually is", "am", "are"],
+      "correctSentence": "He is usually on time",
+      "acceptedAnswers": [
+        "He is usually on time",
+        "He is usually on time."
+      ],
+      "hints": ["be + usually"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex119",
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["We", "learn", "new", "words", "every", "lesson"],
+      "distractors": ["learns", "learning", "learned"],
+      "correctSentence": "We learn new words every lesson",
+      "acceptedAnswers": [
+        "We learn new words every lesson",
+        "We learn new words every lesson."
+      ],
+      "hints": ["We + V0"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex120",
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["My", "parents", "work", "hard"],
+      "distractors": ["works", "working", "worked"],
+      "correctSentence": "My parents work hard",
+      "acceptedAnswers": [
+        "My parents work hard",
+        "My parents work hard."
+      ],
+      "hints": ["Số nhiều + V0"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex121",
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["She", "doesn't", "drink", "coffee"],
+      "distractors": ["don't", "drinks", "drinking"],
+      "correctSentence": "She doesn't drink coffee",
+      "acceptedAnswers": [
+        "She doesn't drink coffee",
+        "She doesn't drink coffee."
+      ],
+      "hints": ["She + doesn't + V0"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex122",
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["Do", "you", "need", "help"],
+      "distractors": ["Does", "needs", "needing"],
+      "correctSentence": "Do you need help",
+      "acceptedAnswers": [
+        "Do you need help",
+        "Do you need help?",
+        "Do you need help."
+      ],
+      "hints": ["Do + you + V0?"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex123",
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["The", "Earth", "moves", "around", "the", "Sun"],
+      "distractors": ["move", "moving", "moved"],
+      "correctSentence": "The Earth moves around the Sun",
+      "acceptedAnswers": [
+        "The Earth moves around the Sun",
+        "The Earth moves around the Sun."
+      ],
+      "hints": ["Chân lý + V-s"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex124",
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["I", "often", "help", "my", "parents"],
+      "distractors": ["helps", "helping", "helped"],
+      "correctSentence": "I often help my parents",
+      "acceptedAnswers": [
+        "I often help my parents",
+        "I often help my parents."
+      ],
+      "hints": ["I + often + V0"],
+      "points": 10
+    },
+    {
+      "id": "g6u1-ex125",
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["My", "school", "has", "many", "students"],
+      "distractors": ["have", "having", "had"],
+      "correctSentence": "My school has many students",
+      "acceptedAnswers": [
+        "My school has many students",
+        "My school has many students."
+      ],
+      "hints": ["It + has"],
+      "points": 10
+    }
+  ]
+}

@@ -1,0 +1,545 @@
+{
+  "unitId": "g7-unit-10-energy-sources",
+  "title": "Unit 10: Energy Sources - Future Simple with Will",
+  "studentName": "Tran Gia Hung",
+  "grade": 7,
+  "grammarTopics": [
+    "Future Simple: Will",
+    "Affirmative/Negative/Questions",
+    "Predictions",
+    "Promises and Decisions",
+    "Energy Vocabulary"
+  ],
+  "theory": {
+    "brief": "Thì tương lai đơn với 'will' diễn tả dự đoán, hứa hẹn, quyết định tức thời. Khẳng định: S + will + V0. Phủ định: S + won't (will not) + V0. Nghi vấn: Will + S + V0? Dấu hiệu: tomorrow, next week/month/year, in the future, soon, probably.",
+    "examples": [
+      "We will use solar energy in the future. (Chúng ta sẽ dùng năng lượng mặt trời trong tương lai.)",
+      "They won't need fossil fuels. (Họ sẽ không cần nhiên liệu hóa thạch.)",
+      "Will cars run on electricity? (Xe hơi sẽ chạy bằng điện chứ?)",
+      "I will help you with this. (Tôi sẽ giúp bạn việc này.)",
+      "It will probably rain tomorrow. (Có thể ngày mai sẽ mưa.)"
+    ]
+  },
+  "exercises": [
+    {
+      "id": "g7u10-ex1",
+      "type": "fill-blank",
+      "question": "We _______ (use) solar energy in the future.",
+      "wordHint": "(use)",
+      "answer": "will use",
+      "acceptedAnswers": [
+        "will use"
+      ],
+      "hints": [
+        "will + V0"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u10-ex2",
+      "type": "fill-blank",
+      "question": "People _______ (travel) by flying cars.",
+      "wordHint": "(travel)",
+      "answer": "will travel",
+      "acceptedAnswers": [
+        "will travel"
+      ],
+      "hints": [
+        "will + V0"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u10-ex3",
+      "type": "fill-blank",
+      "question": "The world _______ (need) more clean energy.",
+      "wordHint": "(need)",
+      "answer": "will need",
+      "acceptedAnswers": [
+        "will need"
+      ],
+      "hints": [
+        "will + V0"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u10-ex4",
+      "type": "fill-blank",
+      "question": "Renewable energy _______ (be) cheaper.",
+      "wordHint": "(be)",
+      "answer": "will be",
+      "acceptedAnswers": [
+        "will be"
+      ],
+      "hints": [
+        "will + be"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u10-ex5",
+      "type": "fill-blank",
+      "question": "Scientists _______ (find) new energy sources.",
+      "wordHint": "(find)",
+      "answer": "will find",
+      "acceptedAnswers": [
+        "will find"
+      ],
+      "hints": [
+        "will + V0"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u10-ex6",
+      "type": "fill-blank",
+      "question": "We _______ (not use) coal in the future.",
+      "wordHint": "(not use)",
+      "answer": "won't use",
+      "acceptedAnswers": [
+        "won't use",
+        "will not use"
+      ],
+      "hints": [
+        "won't + V0"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u10-ex7",
+      "type": "fill-blank",
+      "question": "They _______ (not need) fossil fuels.",
+      "wordHint": "(not need)",
+      "answer": "won't need",
+      "acceptedAnswers": [
+        "won't need",
+        "will not need"
+      ],
+      "hints": [
+        "won't + V0"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u10-ex8",
+      "type": "fill-blank",
+      "question": "Cars _______ (not run) on petrol.",
+      "wordHint": "(not run)",
+      "answer": "won't run",
+      "acceptedAnswers": [
+        "won't run",
+        "will not run"
+      ],
+      "hints": [
+        "won't + V0"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u10-ex9",
+      "type": "fill-blank",
+      "question": "_______ we _______ (have) enough energy?",
+      "wordHint": "Will/have",
+      "answer": "Will have",
+      "acceptedAnswers": [
+        "Will have",
+        "Will we have",
+        "Will-have"
+      ],
+      "hints": [
+        "Will + S + V0?"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u10-ex10",
+      "type": "fill-blank",
+      "question": "_______ solar panels _______ (be) popular?",
+      "wordHint": "Will/be",
+      "answer": "Will be",
+      "acceptedAnswers": [
+        "Will be",
+        "Will solar panels be",
+        "Will-be"
+      ],
+      "hints": [
+        "Will + S + be?"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u10-ex11",
+      "type": "fill-blank",
+      "question": "_______ electric cars _______ (replace) petrol cars?",
+      "wordHint": "Will/replace",
+      "answer": "Will replace",
+      "acceptedAnswers": [
+        "Will replace",
+        "Will electric cars replace",
+        "Will-replace"
+      ],
+      "hints": [
+        "Will + S + V0?"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u10-ex12",
+      "type": "fill-blank",
+      "question": "I think it _______ (rain) tomorrow.",
+      "wordHint": "sẽ",
+      "answer": "will rain",
+      "acceptedAnswers": [
+        "will rain"
+      ],
+      "hints": [
+        "Dự đoán: will + V0"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u10-ex13",
+      "type": "fill-blank",
+      "question": "I _______ (help) you with your homework.",
+      "wordHint": "sẽ giúp",
+      "answer": "will help",
+      "acceptedAnswers": [
+        "will help"
+      ],
+      "hints": [
+        "Hứa hẹn: will + V0"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u10-ex14",
+      "type": "fill-blank",
+      "question": "She _______ (probably) arrive late.",
+      "wordHint": "có lẽ",
+      "answer": "will probably",
+      "acceptedAnswers": [
+        "will probably"
+      ],
+      "hints": [
+        "will + probably + V0"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u10-ex15",
+      "type": "fill-blank",
+      "question": "People _______ (definitely) use more renewable energy.",
+      "wordHint": "chắc chắn",
+      "answer": "will definitely",
+      "acceptedAnswers": [
+        "will definitely"
+      ],
+      "hints": [
+        "will + definitely + V0"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u10-ex16",
+      "type": "multiple-choice",
+      "question": "We _______ solar energy next year.",
+      "options": [
+        "use",
+        "will use",
+        "used",
+        "are using"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tương lai đơn: will + V0",
+      "hints": [
+        "'next year' → will"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u10-ex17",
+      "type": "multiple-choice",
+      "question": "They _______ fossil fuels in the future.",
+      "options": [
+        "won't need",
+        "don't need",
+        "didn't need",
+        "aren't needing"
+      ],
+      "correctIndex": 0,
+      "explanation": "Phủ định tương lai: won't + V0",
+      "hints": [
+        "'in the future' → won't"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u10-ex18",
+      "type": "multiple-choice",
+      "question": "_______ electric cars be cheaper?",
+      "options": [
+        "Do",
+        "Does",
+        "Did",
+        "Will"
+      ],
+      "correctIndex": 3,
+      "explanation": "Câu hỏi tương lai: Will + S + V0?",
+      "hints": [
+        "Câu hỏi tương lai"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u10-ex19",
+      "type": "multiple-choice",
+      "question": "I think renewable energy _______ more popular.",
+      "options": [
+        "is",
+        "was",
+        "will be",
+        "has been"
+      ],
+      "correctIndex": 2,
+      "explanation": "Dự đoán: will be",
+      "hints": [
+        "I think → dự đoán"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u10-ex20",
+      "type": "multiple-choice",
+      "question": "Don't worry. I _______ you.",
+      "options": [
+        "help",
+        "helped",
+        "will help",
+        "am helping"
+      ],
+      "correctIndex": 2,
+      "explanation": "Hứa hẹn: will help",
+      "hints": [
+        "Quyết định tức thời"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u10-ex21",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "We will use solar energy in the future.",
+        "We will use solar energy in the future"
+      ],
+      "hints": [
+        "S + will + V0 + O"
+      ],
+      "points": 15,
+      "correctSentence": "We will use solar energy in the future.",
+      "words": [
+        "use",
+        "will",
+        "we",
+        "energy",
+        "solar",
+        "future",
+        "the",
+        "in"
+      ]
+    },
+    {
+      "id": "g7u10-ex22",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "They won't need fossil fuels.",
+        "They won't need fossil fuels"
+      ],
+      "hints": [
+        "S + won't + V0 + O"
+      ],
+      "points": 15,
+      "correctSentence": "They won't need fossil fuels.",
+      "words": [
+        "won't",
+        "they",
+        "fuels",
+        "need",
+        "fossil"
+      ]
+    },
+    {
+      "id": "g7u10-ex23",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "Cars will run on electricity.",
+        "Cars will run on electricity"
+      ],
+      "hints": [
+        "S + will + V0"
+      ],
+      "points": 15,
+      "correctSentence": "Cars will run on electricity.",
+      "words": [
+        "cars",
+        "will",
+        "run",
+        "electricity",
+        "on"
+      ]
+    },
+    {
+      "id": "g7u10-ex24",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hỏi hoàn chỉnh",
+      "acceptedAnswers": [
+        "Will we have enough energy?",
+        "Will we have enough energy"
+      ],
+      "hints": [
+        "Will + S + V0 + O?"
+      ],
+      "points": 15,
+      "correctSentence": "Will we have enough energy?",
+      "words": [
+        "will",
+        "energy",
+        "have",
+        "we",
+        "enough"
+      ]
+    },
+    {
+      "id": "g7u10-ex25",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hỏi hoàn chỉnh",
+      "acceptedAnswers": [
+        "Will solar panels be popular?",
+        "Will solar panels be popular"
+      ],
+      "hints": [
+        "Will + S + be + adj?"
+      ],
+      "points": 15,
+      "correctSentence": "Will solar panels be popular?",
+      "words": [
+        "panels",
+        "be",
+        "will",
+        "popular",
+        "solar"
+      ]
+    },
+    {
+      "id": "g7u10-ex26",
+      "type": "error-correct",
+      "wrongSentence": "We will using solar energy.",
+      "correctSentence": "We will use solar energy.",
+      "errorWord": "using",
+      "correction": "use",
+      "explanation": "will + V0 (không dùng V-ing)",
+      "hints": [
+        "will + V0"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u10-ex27",
+      "type": "error-correct",
+      "wrongSentence": "They won't needs fossil fuels.",
+      "correctSentence": "They won't need fossil fuels.",
+      "errorWord": "needs",
+      "correction": "need",
+      "explanation": "won't + V0 (không thêm -s)",
+      "hints": [
+        "won't + V0"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u10-ex28",
+      "type": "error-correct",
+      "wrongSentence": "Will cars runs on electricity?",
+      "correctSentence": "Will cars run on electricity?",
+      "errorWord": "runs",
+      "correction": "run",
+      "explanation": "Will + S + V0 (không thêm -s)",
+      "hints": [
+        "Will + S + V0"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u10-ex29",
+      "type": "error-correct",
+      "wrongSentence": "I will to help you.",
+      "correctSentence": "I will help you.",
+      "errorWord": "to help",
+      "correction": "help",
+      "explanation": "will + V0 (không có 'to')",
+      "hints": [
+        "will + V0 (không có to)"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u10-ex30",
+      "type": "error-correct",
+      "wrongSentence": "She will probably arrives late.",
+      "correctSentence": "She will probably arrive late.",
+      "errorWord": "arrives",
+      "correction": "arrive",
+      "explanation": "will + probably + V0",
+      "hints": [
+        "will + adverb + V0"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u10-ex31",
+      "type": "translation",
+      "vietnamese": "Chúng ta sẽ sử dụng năng lượng mặt trời trong tương lai.",
+      "answer": "We will use solar energy in the future.",
+      "acceptedAnswers": [
+        "We will use solar energy in the future.",
+        "We will use solar energy in the future"
+      ],
+      "hints": [
+        "will + V0"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u10-ex32",
+      "type": "translation",
+      "vietnamese": "Họ sẽ không cần nhiên liệu hóa thạch.",
+      "answer": "They won't need fossil fuels.",
+      "acceptedAnswers": [
+        "They won't need fossil fuels.",
+        "They won't need fossil fuels",
+        "They will not need fossil fuels."
+      ],
+      "hints": [
+        "won't + V0"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u10-ex33",
+      "type": "translation",
+      "vietnamese": "Xe hơi sẽ chạy bằng điện chứ?",
+      "answer": "Will cars run on electricity?",
+      "acceptedAnswers": [
+        "Will cars run on electricity?",
+        "Will cars run on electricity"
+      ],
+      "hints": [
+        "Will + S + V0?"
+      ],
+      "points": 10
+    }
+  ]
+}

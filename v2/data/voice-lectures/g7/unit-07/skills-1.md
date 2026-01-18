@@ -4,15 +4,14 @@
 
 <!-- chunk: intro -->
 <teacher_script pause="0">
-Ok lớp 7, Skills 1 Unit 7 nha. Mở sách trang 14 đi.
-Bài này học về luật an toàn giao thông. Có phần Reading và Speaking.
+Chào các em. Mời các em mở sách giáo khoa trang 14. Bài học hôm nay là <eng>Skills 1</eng>, chúng ta sẽ luyện tập hai kỹ năng Đọc và Nói về chủ đề an toàn giao thông.
 </teacher_script>
 
 ---
 
 <!-- chunk: vocabulary -->
 <teacher_script pause="0">
-Bấm nút "Bắt đầu" bên dưới để học từ vựng bài đọc. Máy sẽ đọc và các em đọc theo. Sau đó các em làm bài trắc nghiệm từ vựng rồi ghi từ vựng vô tập.
+Trước khi vào bài đọc, chúng ta cùng học một số từ vựng mới. Các em hãy nghe và đọc theo, sau đó làm bài tập để ghi nhớ nhé.
 </teacher_script>
 
 <vocabulary>
@@ -44,11 +43,11 @@ Bấm nút "Bắt đầu" bên dưới để học từ vựng bài đọc. Máy
 </vocabulary>
 
 <teacher_script pause="120">
-Từ vựng bài Reading nè. Click vô nghe phát âm, ghi vô tập. 2 phút nha.
+Các em hãy dành 2 phút để nghe phát âm và ghi chép từ vựng vào vở nhé.
 </teacher_script>
 
 <teacher_script pause="0" action="record">
-Ghi âm đọc từ vựng gửi thầy sửa nha.
+Các em hãy bấm nút Ghi âm để đọc từ vựng và gửi cho thầy nhé.
 </teacher_script>
 
 ---
@@ -57,7 +56,7 @@ Ghi âm đọc từ vựng gửi thầy sửa nha.
 ### Bài 1 trang 14 - Look at the picture
 
 <teacher_script pause="30">
-Bài 1 <eng>Look at the picture</eng>. Nhìn hình và tìm xem có gì nguy hiểm không. 30 giây nha.
+Chúng ta cùng làm Bài 1 <eng>Look at the picture</eng>. Các em hãy quan sát bức tranh và cho biết điều gì nguy hiểm đang xảy ra. Các em có 30 giây.
 </teacher_script>
 
 <task>
@@ -77,8 +76,7 @@ Yes, we can see some potential danger as the students do not walk across the str
 </answer>
 
 <teacher_script pause="0">
-Các bạn học sinh đi qua đường không đúng chỗ, không đi trên <eng>zebra crossing</eng>, và không chú ý xe cộ.
-Đây là hành vi nguy hiểm, dễ bị tai nạn. Mấy đứa đừng làm vậy nghen!
+Các bạn học sinh đi qua đường không đúng chỗ, không đi trên vạch kẻ đường dành cho người đi bộ, và không chú ý đến xe cộ. Đây là hành vi rất nguy hiểm, dễ gây tai nạn. Các em tuyệt đối không được làm như vậy nhé!
 </teacher_script>
 
 ---
@@ -87,14 +85,14 @@ Các bạn học sinh đi qua đường không đúng chỗ, không đi trên <e
 ### Bài 2 trang 14 - Read and choose
 
 <teacher_script pause="0">
-Bài 2 <eng>Read and choose the best answer</eng>. Đọc bài về luật an toàn giao thông, rồi chọn đáp án đúng nha.
+Chúng ta cùng làm Bài 2 <eng>Read and choose</eng>. Các em hãy đọc đoạn văn về luật an toàn giao thông và chọn đáp án đúng nhất.
 </teacher_script>
 
 ---
 
 <!-- chunk: reading -->
 <teacher_script pause="0">
-Đây là bài đọc. Đọc kỹ từng phần nha.
+Mời các em đọc kỹ bài đọc sau.
 </teacher_script>
 
 <reading>
@@ -107,7 +105,7 @@ Bài 2 <eng>Read and choose the best answer</eng>. Đọc bài về luật an to
 
 <!-- chunk: reading_pedestrians -->
 <teacher_script pause="0">
-<eng>Pedestrians.</eng> Phần 1 - Luật cho người đi bộ.
+Phần 1: <eng>Pedestrians</eng> - Luật giao thông dành cho người đi bộ.
 </teacher_script>
 
 <reading>
@@ -121,15 +119,14 @@ Bài 2 <eng>Read and choose the best answer</eng>. Đọc bài về luật an to
 </reading>
 
 <teacher_script pause="0">
-4 luật quan trọng cho người đi bộ:
-Quan sát cẩn thận, đi trên vỉa hè, qua đường ở <eng>zebra crossing</eng>, không sang đường khi đèn đỏ.
+Có 4 quy tắc quan trọng cho người đi bộ: Luôn quan sát cẩn thận, đi trên vỉa hè hoặc lề đường, qua đường tại vạch kẻ đường, và không qua đường khi đèn đỏ.
 </teacher_script>
 
 ---
 
 <!-- chunk: reading_cyclists -->
 <teacher_script pause="0">
-<eng>Cyclists.</eng> Phần 2 - Luật cho người đi xe đạp.
+Phần 2: <eng>Cyclists</eng> - Luật giao thông dành cho người đi xe đạp.
 </teacher_script>
 
 <reading>
@@ -143,15 +140,14 @@ Quan sát cẩn thận, đi trên vỉa hè, qua đường ở <eng>zebra crossi
 </reading>
 
 <teacher_script pause="0">
-4 luật cho người đi xe đạp:
-Giữ 2 tay trên <eng>handlebars</eng>, đội mũ bảo hiểm đi đúng làn, ra tín hiệu khi rẽ, không chở quá 1 người.
+Có 4 quy tắc cho người đi xe đạp: Luôn giữ hai tay trên ghi đông, đội mũ bảo hiểm và đi đúng làn đường, ra tín hiệu trước khi rẽ, và không chở quá một người.
 </teacher_script>
 
 ---
 
 <!-- chunk: reading_passengers -->
 <teacher_script pause="0">
-<eng>Passengers.</eng> Phần 3 - Luật cho hành khách.
+Phần 3: <eng>Passengers</eng> - Luật giao thông dành cho hành khách.
 </teacher_script>
 
 <reading>
@@ -165,16 +161,14 @@ Giữ 2 tay trên <eng>handlebars</eng>, đội mũ bảo hiểm đi đúng làn
 </reading>
 
 <teacher_script pause="0">
-4 luật cho hành khách:
-<eng>Fasten your seatbelt</eng> - thắt dây an toàn khi ngồi xe hơi, đợi xe buýt dừng hẳn mới lên xuống, không nói chuyện với tài xế, không thò tay chân ra cửa sổ xe đang chạy.
-Cái cuối quan trọng lắm nha, nguy hiểm lắm đó!
+Có 4 quy tắc cho hành khách: Thắt dây an toàn khi đi ô tô, đợi xe buýt dừng hẳn mới lên xuống, không nói chuyện với tài xế khi xe đang chạy, và không đưa tay hay đầu ra ngoài cửa sổ xe. Quy tắc cuối cùng rất quan trọng để đảm bảo an toàn.
 </teacher_script>
 
 ---
 
 <!-- chunk: exercise_2_question -->
 <teacher_script pause="30">
-Giờ trả lời câu hỏi: Bài đọc này nói về cái gì? 30 giây nha.
+Bây giờ các em hãy trả lời câu hỏi: Bài đọc này nói về chủ đề gì? Các em có 30 giây.
 </teacher_script>
 
 <questions type="multiple_choice">
@@ -189,7 +183,7 @@ Giờ trả lời câu hỏi: Bài đọc này nói về cái gì? 30 giây nha.
 
 <!-- chunk: answer_2 -->
 <teacher_script pause="0">
-Đáp án là C. <eng>Traffic rules.</eng>
+Đáp án đúng là C. <eng>Traffic rules</eng>.
 </teacher_script>
 
 <answer>
@@ -212,7 +206,7 @@ Nên đáp án không phải A (chỉ nói về người đi bộ) hay B (đèn 
 ### Bài 3 trang 14 - Read and answer
 
 <teacher_script pause="90">
-Bài 3 <eng>Read the text again and answer the questions</eng>. Đọc lại bài và trả lời 5 câu hỏi. 1 phút rưỡi nha.
+Chúng ta cùng làm Bài 3 <eng>Read the text again</eng>. Các em hãy đọc lại bài và trả lời các câu hỏi sau. Các em có 1 phút 30 giây.
 </teacher_script>
 
 <questions type="read_answer">
@@ -246,7 +240,7 @@ Bài 3 <eng>Read the text again and answer the questions</eng>. Đọc lại bà
 
 <!-- chunk: answer_3 -->
 <teacher_script pause="0">
-Ok đáp án nè.
+Đã hết thời gian. Sau đây là đáp án đúng.
 </teacher_script>
 
 <answer>
@@ -259,28 +253,23 @@ Ok đáp án nè.
 </answer>
 
 <teacher_script pause="0">
-Câu 1: <eng>At the zebra crossing</eng> - Ở vạch kẻ đường.
-Trong bài có câu: <eng>Walk across the street at the zebra crossing.</eng>
+Câu 1: <eng>At the zebra crossing</eng> - Tại vạch kẻ đường dành cho người đi bộ.
 </teacher_script>
 
 <teacher_script pause="0">
 Câu 2: <eng>The cycle lane</eng> - Làn đường dành cho xe đạp.
-Trong bài: <eng>always use the cycle lane.</eng>
 </teacher_script>
 
 <teacher_script pause="0">
 Câu 3: <eng>Give a signal</eng> - Ra tín hiệu.
-Trong bài: <eng>Give a signal before you turn.</eng>
 </teacher_script>
 
 <teacher_script pause="0">
 Câu 4: <eng>Wait for buses to fully stop</eng> - Đợi xe buýt dừng hẳn.
-Trong bài: <eng>Wait for buses to fully stop before getting on or off.</eng>
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 5: <eng>Don't stick any body parts out of the window</eng> - Không đưa bộ phận cơ thể ra ngoài cửa sổ.
-Trong bài: <eng>Don't stick any body parts out of the window of a moving vehicle.</eng>
+Câu 5: <eng>Don't stick any body parts out of the window</eng> - Không đưa bất kỳ bộ phận cơ thể nào ra ngoài cửa sổ.
 </teacher_script>
 
 <explanation>
@@ -296,7 +285,7 @@ Trong bài: <eng>Don't stick any body parts out of the window of a moving vehicl
 </explanation>
 
 <teacher_script pause="30">
-Sửa bài đi. 30 giây nha.
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
@@ -305,7 +294,7 @@ Sửa bài đi. 30 giây nha.
 ### Speaking
 
 <teacher_script pause="0">
-<eng>Speaking.</eng> Giờ qua phần Speaking nha.
+Chúng ta cùng chuyển sang phần <eng>Speaking</eng>.
 </teacher_script>
 
 ---
@@ -314,7 +303,7 @@ Sửa bài đi. 30 giây nha.
 ### Bài 4 trang 14 - Work in groups
 
 <teacher_script pause="0">
-Bài 4 <eng>Work in groups</eng>. Làm việc nhóm, trả lời câu hỏi: Khi tham gia giao thông, bạn KHÔNG NÊN làm gì?
+Chúng ta cùng làm Bài 4 <eng>Work in groups</eng>. Các em hãy thảo luận trong nhóm và trả lời câu hỏi: Những điều KHÔNG NÊN làm khi tham gia giao thông là gì? Hãy lập danh sách cùng nhau nhé.
 </teacher_script>
 
 <task>
@@ -345,7 +334,7 @@ Bài 4 <eng>Work in groups</eng>. Làm việc nhóm, trả lời câu hỏi: Khi
 </questions>
 
 <teacher_script pause="0" action="record">
-Ghi âm nói 3 điều không nên làm khi tham gia giao thông nha.
+Các em hãy ghi âm 3 điều không nên làm khi tham gia giao thông và gửi cho thầy nhé.
 </teacher_script>
 
 ---
@@ -354,7 +343,7 @@ Ghi âm nói 3 điều không nên làm khi tham gia giao thông nha.
 ### Bài 5 trang 14 - Who is being safe?
 
 <teacher_script pause="0">
-Bài 5 <eng>Who is being safe?</eng> Đọc các tình huống và thảo luận: Ai đang an toàn, ai không?
+Chúng ta cùng làm Bài 5 <eng>Who is being safe?</eng> Các em hãy đọc các tình huống và thảo luận xem ai đang tham gia giao thông an toàn và ai không nhé.
 </teacher_script>
 
 <task>
@@ -385,32 +374,27 @@ Bài 5 <eng>Who is being safe?</eng> Đọc các tình huống và thảo luận
 
 <!-- chunk: answer_5 -->
 <teacher_script pause="0">
-Ok thầy phân tích từng tình huống nha.
+Sau đây là phân tích từng tình huống.
 </teacher_script>
 
 <teacher_script pause="0">
-Tình huống 1: Hoàng đội mũ bảo hiểm khi đạp xe.
-Đây là hành vi AN TOÀN. Đội mũ bảo hiểm bảo vệ đầu khi có tai nạn. Giỏi lắm Hoàng!
+Tình huống 1: Hoàng đội mũ bảo hiểm khi đạp xe. Đây là hành vi AN TOÀN.
 </teacher_script>
 
 <teacher_script pause="0">
-Tình huống 2: Chú Long lái xe nhanh khi trời mưa to.
-Đây là hành vi KHÔNG AN TOÀN. Đường trơn, lái nhanh dễ trượt, nguy hiểm lắm đó!
+Tình huống 2: Chú Long lái xe nhanh khi trời mưa to. Đây là hành vi KHÔNG AN TOÀN vì đường trơn dễ gây tai nạn.
 </teacher_script>
 
 <teacher_script pause="0">
-Tình huống 3: Học sinh xếp hàng lên xe buýt.
-Đây là hành vi AN TOÀN. Đợi xe dừng, xếp hàng lên xe đúng cách.
+Tình huống 3: Học sinh xếp hàng lên xe buýt. Đây là hành vi AN TOÀN.
 </teacher_script>
 
 <teacher_script pause="0">
-Tình huống 4: Chú Bình để con gái ngồi phía trước khi chở xe máy.
-Đây là hành vi KHÔNG AN TOÀN. Trẻ em ngồi phía trước dễ bị văng ra khi phanh gấp. Nguy hiểm lắm!
+Tình huống 4: Chú Bình để con gái ngồi phía trước xe máy. Đây là hành vi KHÔNG AN TOÀN, rất nguy hiểm cho trẻ em.
 </teacher_script>
 
 <teacher_script pause="0">
-Tình huống 5: Michelle vẫy tay hét gọi bạn khi đang đạp xe.
-Đây là hành vi KHÔNG AN TOÀN. Mất tập trung khi lái xe rất nguy hiểm. Michelle ơi tập trung đi!
+Tình huống 5: Michelle vẫy tay và hét lớn khi đang đạp xe. Đây là hành vi KHÔNG AN TOÀN vì gây mất tập trung.
 </teacher_script>
 
 <answer>
@@ -450,16 +434,12 @@ Tình huống 5: Michelle vẫy tay hét gọi bạn khi đang đạp xe.
 </explanation>
 
 <teacher_script pause="0" action="record">
-Ghi âm phân tích 1 tình huống an toàn và 1 tình huống không an toàn nha.
+Các em hãy ghi âm phân tích một tình huống an toàn và một tình huống không an toàn rồi gửi cho thầy nhé.
 </teacher_script>
 
 ---
 
 <!-- chunk: end -->
 <teacher_script pause="0">
-Ok hết Skills 1 rồi. Nhớ mấy cái quan trọng nha:
-Người đi bộ: qua đường ở <eng>zebra crossing</eng>, không sang đường khi đèn đỏ.
-Người đi xe đạp: đội mũ bảo hiểm, <eng>give a signal</eng> khi rẽ.
-Hành khách: <eng>fasten your seatbelt</eng>, đợi xe dừng hẳn mới lên xuống.
-Bài sau qua Skills 2. Hẹn gặp lại!
+Bài học hôm nay kết thúc tại đây. Các em hãy ghi nhớ các luật an toàn giao thông quan trọng cho người đi bộ, đi xe đạp và hành khách nhé. Bài học tiếp theo là <eng>Skills 2</eng>. Hẹn gặp lại các em!
 </teacher_script>

@@ -1,0 +1,2044 @@
+{
+  "unitId": "unit-12-famous-inventions",
+  "title": "Unit 12: Famous Inventions",
+  "grammarTopics": [
+    "The Passive: Past Simple",
+    "Passive Questions"
+  ],
+  "theory": {
+    "brief": "Câu bị động thì quá khứ đơn: was/were + past participle (V3). Dùng để nói về hành động đã hoàn thành trong quá khứ khi không biết/không quan trọng ai làm. Câu hỏi: Was/Were + S + V3? Hoặc dùng Who/When/Where/What.",
+    "examples": [
+      "The first aeroplane was flown by the Wright Brothers.",
+      "Television was invented in 1927.",
+      "Who was the film directed by?"
+    ]
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "type": "sentence-rewrite",
+      "original": "Orville and Wilbur Wright flew the first aeroplane. (active)",
+      "instruction": "Change to passive (past simple)",
+      "starterText": "The first aeroplane",
+      "answer": "The first aeroplane was flown by Orville and Wilbur Wright.",
+      "acceptedAnswers": [
+        "The first aeroplane was flown by Orville and Wilbur Wright.",
+        "The first aeroplane was flown by Orville and Wilbur Wright",
+        "The first aeroplane was flown by the Wright Brothers."
+      ],
+      "hints": [
+        "was + flown"
+      ],
+      "points": 10
+    },
+    {
+      "id": 2,
+      "type": "sentence-rewrite",
+      "original": "John Logie Baird invented television in 1927. (active)",
+      "instruction": "Change to passive",
+      "starterText": "Television",
+      "answer": "Television was invented in 1927 by John Logie Baird.",
+      "acceptedAnswers": [
+        "Television was invented in 1927 by John Logie Baird.",
+        "Television was invented in 1927 by John Logie Baird",
+        "Television was invented by John Logie Baird in 1927."
+      ],
+      "hints": [
+        "was + invented"
+      ],
+      "points": 10
+    },
+    {
+      "id": 3,
+      "type": "sentence-rewrite",
+      "original": "Karl Benz made the first car in Germany. (active)",
+      "instruction": "Change to passive",
+      "starterText": "The first car",
+      "answer": "The first car was made by Karl Benz in Germany.",
+      "acceptedAnswers": [
+        "The first car was made by Karl Benz in Germany.",
+        "The first car was made by Karl Benz in Germany",
+        "The first car was made in Germany by Karl Benz."
+      ],
+      "hints": [
+        "was + made"
+      ],
+      "points": 10
+    },
+    {
+      "id": 4,
+      "type": "sentence-rewrite",
+      "original": "Ferdinand Magellan named the Pacific Ocean. (active)",
+      "instruction": "Change to passive",
+      "starterText": "The Pacific Ocean",
+      "answer": "The Pacific Ocean was named by Ferdinand Magellan.",
+      "acceptedAnswers": [
+        "The Pacific Ocean was named by Ferdinand Magellan.",
+        "The Pacific Ocean was named by Ferdinand Magellan"
+      ],
+      "hints": [
+        "was + named"
+      ],
+      "points": 10
+    },
+    {
+      "id": 5,
+      "type": "fill-blank",
+      "question": "The first aeroplane __________ flown by the Wright Brothers.",
+      "wordHint": "",
+      "answer": "was",
+      "acceptedAnswers": [
+        "was"
+      ],
+      "hints": [
+        "Singular subject uses 'was'"
+      ],
+      "points": 10
+    },
+    {
+      "id": 6,
+      "type": "fill-blank",
+      "question": "Many inventions __________ made in the 20th century.",
+      "wordHint": "",
+      "answer": "were",
+      "acceptedAnswers": [
+        "were"
+      ],
+      "hints": [
+        "Plural subject uses 'were'"
+      ],
+      "points": 10
+    },
+    {
+      "id": 7,
+      "type": "fill-blank",
+      "question": "Television __________ invented in 1927.",
+      "wordHint": "",
+      "answer": "was",
+      "acceptedAnswers": [
+        "was"
+      ],
+      "hints": [
+        "Singular: was"
+      ],
+      "points": 10
+    },
+    {
+      "id": 8,
+      "type": "fill-blank",
+      "question": "The first cars __________ built in Germany.",
+      "wordHint": "",
+      "answer": "were",
+      "acceptedAnswers": [
+        "were"
+      ],
+      "hints": [
+        "Plural: were"
+      ],
+      "points": 10
+    },
+    {
+      "id": 9,
+      "type": "fill-blank",
+      "question": "The first aeroplane __________ (fly) by Orville and Wilbur Wright.",
+      "wordHint": "(fly)",
+      "answer": "was flown",
+      "acceptedAnswers": [
+        "was flown"
+      ],
+      "hints": [
+        "was + past participle (flown)"
+      ],
+      "points": 10
+    },
+    {
+      "id": 10,
+      "type": "fill-blank",
+      "question": "Television __________ (invent) in 1927 by John Logie Baird.",
+      "wordHint": "(invent)",
+      "answer": "was invented",
+      "acceptedAnswers": [
+        "was invented"
+      ],
+      "hints": [
+        "was + invented"
+      ],
+      "points": 10
+    },
+    {
+      "id": 11,
+      "type": "fill-blank",
+      "question": "The first car __________ (make) by Karl Benz in Germany.",
+      "wordHint": "(make)",
+      "answer": "was made",
+      "acceptedAnswers": [
+        "was made"
+      ],
+      "hints": [
+        "was + made"
+      ],
+      "points": 10
+    },
+    {
+      "id": 12,
+      "type": "fill-blank",
+      "question": "The Pacific Ocean __________ (name) by Ferdinand Magellan.",
+      "wordHint": "(name)",
+      "answer": "was named",
+      "acceptedAnswers": [
+        "was named"
+      ],
+      "hints": [
+        "was + named"
+      ],
+      "points": 10
+    },
+    {
+      "id": 13,
+      "type": "fill-blank",
+      "question": "The first rocket __________ (send) to the moon in 1969.",
+      "wordHint": "(send)",
+      "answer": "was sent",
+      "acceptedAnswers": [
+        "was sent"
+      ],
+      "hints": [
+        "send → sent → sent"
+      ],
+      "points": 10
+    },
+    {
+      "id": 14,
+      "type": "sentence-build",
+      "prompt": "films / make / in the United Kingdom?",
+      "instructions": "Write a passive question (past simple)",
+      "answer": "Were films made in the United Kingdom?",
+      "acceptedAnswers": [
+        "Were films made in the United Kingdom?",
+        "Were films made in the United Kingdom"
+      ],
+      "hints": [
+        "Were + films + made...?"
+      ],
+      "points": 10
+    },
+    {
+      "id": 15,
+      "type": "sentence-build",
+      "prompt": "the film / make / last year?",
+      "instructions": "Write a passive question",
+      "answer": "Was the film made last year?",
+      "acceptedAnswers": [
+        "Was the film made last year?",
+        "Was the film made last year"
+      ],
+      "hints": [
+        "Was + the film + made...?"
+      ],
+      "points": 10
+    },
+    {
+      "id": 16,
+      "type": "sentence-build",
+      "prompt": "television / invent / in 1927?",
+      "instructions": "Write a passive question",
+      "answer": "Was television invented in 1927?",
+      "acceptedAnswers": [
+        "Was television invented in 1927?",
+        "Was television invented in 1927"
+      ],
+      "hints": [
+        "Was + television + invented...?"
+      ],
+      "points": 10
+    },
+    {
+      "id": 17,
+      "type": "sentence-build",
+      "prompt": "the first plane / invent? (WHO)",
+      "instructions": "Write a passive question with 'Who'",
+      "answer": "Who was the first plane invented by?",
+      "acceptedAnswers": [
+        "Who was the first plane invented by?",
+        "Who was the first plane invented by"
+      ],
+      "hints": [
+        "Who was + subject + invented by?"
+      ],
+      "points": 10
+    },
+    {
+      "id": 18,
+      "type": "sentence-build",
+      "prompt": "television / invent? (WHO)",
+      "instructions": "Write a passive question with 'Who'",
+      "answer": "Who was television invented by?",
+      "acceptedAnswers": [
+        "Who was television invented by?",
+        "Who was television invented by"
+      ],
+      "hints": [
+        "Who was + television + invented by?"
+      ],
+      "points": 10
+    },
+    {
+      "id": 19,
+      "type": "sentence-build",
+      "prompt": "the Mona Lisa / paint? (WHO)",
+      "instructions": "Write a passive question with 'Who'",
+      "answer": "Who was the Mona Lisa painted by?",
+      "acceptedAnswers": [
+        "Who was the Mona Lisa painted by?",
+        "Who was the Mona Lisa painted by"
+      ],
+      "hints": [
+        "Who was + subject + painted by?"
+      ],
+      "points": 10
+    },
+    {
+      "id": 20,
+      "type": "sentence-build",
+      "prompt": "television / invent? (WHEN)",
+      "instructions": "Write a passive question with 'When'",
+      "answer": "When was television invented?",
+      "acceptedAnswers": [
+        "When was television invented?",
+        "When was television invented"
+      ],
+      "hints": [
+        "When was + television + invented?"
+      ],
+      "points": 10
+    },
+    {
+      "id": 21,
+      "type": "sentence-build",
+      "prompt": "the first telephone call / make? (WHEN)",
+      "instructions": "Write a passive question with 'When'",
+      "answer": "When was the first telephone call made?",
+      "acceptedAnswers": [
+        "When was the first telephone call made?",
+        "When was the first telephone call made"
+      ],
+      "hints": [
+        "When was + subject + made?"
+      ],
+      "points": 10
+    },
+    {
+      "id": 22,
+      "type": "sentence-build",
+      "prompt": "the pyramids / build? (WHEN)",
+      "instructions": "Write a passive question with 'When'",
+      "answer": "When were the pyramids built?",
+      "acceptedAnswers": [
+        "When were the pyramids built?",
+        "When were the pyramids built"
+      ],
+      "hints": [
+        "When were + the pyramids + built?"
+      ],
+      "points": 10
+    },
+    {
+      "id": 23,
+      "type": "sentence-build",
+      "prompt": "the first car / invent? (WHERE)",
+      "instructions": "Write a passive question with 'Where'",
+      "answer": "Where was the first car invented?",
+      "acceptedAnswers": [
+        "Where was the first car invented?",
+        "Where was the first car invented"
+      ],
+      "hints": [
+        "Where was + subject + invented?"
+      ],
+      "points": 10
+    },
+    {
+      "id": 24,
+      "type": "sentence-build",
+      "prompt": "the film / make? (WHERE)",
+      "instructions": "Write a passive question with 'Where'",
+      "answer": "Where was the film made?",
+      "acceptedAnswers": [
+        "Where was the film made?",
+        "Where was the film made"
+      ],
+      "hints": [
+        "Where was + the film + made?"
+      ],
+      "points": 10
+    },
+    {
+      "id": 25,
+      "type": "sentence-build",
+      "prompt": "what / invent / on 10th March 1876?",
+      "instructions": "Write a passive question with 'What'",
+      "answer": "What was invented on 10th March 1876?",
+      "acceptedAnswers": [
+        "What was invented on 10th March 1876?",
+        "What was invented on 10th March 1876"
+      ],
+      "hints": [
+        "What was + invented...?"
+      ],
+      "points": 10
+    },
+    {
+      "id": 26,
+      "type": "sentence-build",
+      "prompt": "what / discover / in 1492?",
+      "instructions": "Write a passive question with 'What'",
+      "answer": "What was discovered in 1492?",
+      "acceptedAnswers": [
+        "What was discovered in 1492?",
+        "What was discovered in 1492"
+      ],
+      "hints": [
+        "What was + discovered...?"
+      ],
+      "points": 10
+    },
+    {
+      "id": 27,
+      "type": "multiple-choice",
+      "question": "(Is / Are / Was) films made in the United Kingdom?",
+      "options": [
+        "Is",
+        "Are",
+        "Was",
+        "Were"
+      ],
+      "correctIndex": 3,
+      "explanation": "Past simple passive with plural subject uses 'Were'",
+      "hints": [
+        "Past + plural = Were"
+      ],
+      "points": 10
+    },
+    {
+      "id": 28,
+      "type": "multiple-choice",
+      "question": "(Was / Is / Are) the film made last year?",
+      "options": [
+        "Was",
+        "Is",
+        "Are",
+        "Were"
+      ],
+      "correctIndex": 0,
+      "explanation": "'last year' = past, singular subject uses 'Was'",
+      "hints": [
+        "Past + singular = Was"
+      ],
+      "points": 10
+    },
+    {
+      "id": 29,
+      "type": "error-correct",
+      "wrongSentence": "The first aeroplane was flew by the Wright Brothers.",
+      "correctSentence": "The first aeroplane was flown by the Wright Brothers.",
+      "errorWord": "flew",
+      "correction": "flown",
+      "explanation": "Past participle of fly is 'flown', not 'flew'",
+      "hints": [
+        "fly → flew → flown"
+      ],
+      "points": 10
+    },
+    {
+      "id": 30,
+      "type": "error-correct",
+      "wrongSentence": "Television was invent in 1927.",
+      "correctSentence": "Television was invented in 1927.",
+      "errorWord": "invent",
+      "correction": "invented",
+      "explanation": "Need past participle 'invented'",
+      "hints": [
+        "was + past participle"
+      ],
+      "points": 10
+    },
+    {
+      "id": 31,
+      "type": "error-correct",
+      "wrongSentence": "The first car were made by Karl Benz.",
+      "correctSentence": "The first car was made by Karl Benz.",
+      "errorWord": "were",
+      "correction": "was",
+      "explanation": "Singular subject 'car' needs 'was', not 'were'",
+      "hints": [
+        "Singular = was"
+      ],
+      "points": 10
+    },
+    {
+      "id": 32,
+      "type": "error-correct",
+      "wrongSentence": "When the telephone was invented?",
+      "correctSentence": "When was the telephone invented?",
+      "errorWord": "When the telephone was",
+      "correction": "When was the telephone",
+      "explanation": "In questions, 'was' comes after question word and before subject",
+      "hints": [
+        "When + was + subject + V3?"
+      ],
+      "points": 10
+    },
+    {
+      "id": 33,
+      "type": "error-correct",
+      "wrongSentence": "Who was the film directed?",
+      "correctSentence": "Who was the film directed by?",
+      "errorWord": "directed?",
+      "correction": "directed by?",
+      "explanation": "Need 'by' at the end when asking 'who' in passive",
+      "hints": [
+        "Who was + subject + V3 + by?"
+      ],
+      "points": 10
+    },
+    {
+      "id": 34,
+      "type": "error-correct",
+      "wrongSentence": "The picture was paint with oil paints.",
+      "correctSentence": "The picture was painted with oil paints.",
+      "errorWord": "paint",
+      "correction": "painted",
+      "explanation": "Need past participle 'painted'",
+      "hints": [
+        "was + painted"
+      ],
+      "points": 10
+    },
+    {
+      "id": 35,
+      "type": "translation",
+      "vietnamese": "Máy bay đầu tiên được bay bởi anh em nhà Wright.",
+      "answer": "The first aeroplane was flown by the Wright Brothers.",
+      "acceptedAnswers": [
+        "The first aeroplane was flown by the Wright Brothers.",
+        "The first aeroplane was flown by the Wright Brothers",
+        "The first airplane was flown by the Wright Brothers."
+      ],
+      "hints": [
+        "was flown by"
+      ],
+      "points": 10
+    },
+    {
+      "id": 36,
+      "type": "translation",
+      "vietnamese": "Truyền hình được phát minh vào năm 1927.",
+      "answer": "Television was invented in 1927.",
+      "acceptedAnswers": [
+        "Television was invented in 1927.",
+        "Television was invented in 1927"
+      ],
+      "hints": [
+        "was invented"
+      ],
+      "points": 10
+    },
+    {
+      "id": 37,
+      "type": "translation",
+      "vietnamese": "Chiếc xe hơi đầu tiên được làm ở Đức.",
+      "answer": "The first car was made in Germany.",
+      "acceptedAnswers": [
+        "The first car was made in Germany.",
+        "The first car was made in Germany"
+      ],
+      "hints": [
+        "was made"
+      ],
+      "points": 10
+    },
+    {
+      "id": 38,
+      "type": "translation",
+      "vietnamese": "Điện thoại được phát minh bởi ai?",
+      "answer": "Who was the telephone invented by?",
+      "acceptedAnswers": [
+        "Who was the telephone invented by?",
+        "Who was the telephone invented by"
+      ],
+      "hints": [
+        "Who was + subject + invented by?"
+      ],
+      "points": 10
+    },
+    {
+      "id": 39,
+      "type": "translation",
+      "vietnamese": "Truyền hình được phát minh khi nào?",
+      "answer": "When was television invented?",
+      "acceptedAnswers": [
+        "When was television invented?",
+        "When was television invented"
+      ],
+      "hints": [
+        "When was + subject + invented?"
+      ],
+      "points": 10
+    },
+    {
+      "id": 40,
+      "type": "translation",
+      "vietnamese": "Chiếc xe hơi đầu tiên được làm ở đâu?",
+      "answer": "Where was the first car made?",
+      "acceptedAnswers": [
+        "Where was the first car made?",
+        "Where was the first car made"
+      ],
+      "hints": [
+        "Where was + subject + made?"
+      ],
+      "points": 10
+    },
+    {
+      "id": 41,
+      "type": "translation",
+      "vietnamese": "Cái gì được phát minh vào ngày 10 tháng 3 năm 1876?",
+      "answer": "What was invented on 10th March 1876?",
+      "acceptedAnswers": [
+        "What was invented on 10th March 1876?",
+        "What was invented on 10th March 1876",
+        "What was invented on March 10th, 1876?"
+      ],
+      "hints": [
+        "What was + invented...?"
+      ],
+      "points": 10
+    },
+    {
+      "id": 42,
+      "type": "open-ended",
+      "title": "Famous inventions or discoveries",
+      "instruction": "Write a paragraph (6-8 sentences) about famous inventions or discoveries using the passive voice (past simple). Include information about who invented/discovered them, when, and where.",
+      "example": "Example: The telephone was invented by Alexander Graham Bell in 1876. The light bulb was created by Thomas Edison. Penicillin was discovered by Alexander Fleming...",
+      "minSentences": 6,
+      "maxWords": 150,
+      "scored": false,
+      "displayOnly": true,
+      "points": 0
+    },
+    {
+      "id": 43,
+      "type": "multiple-choice",
+      "question": "The first computer _____ built in the 1940s.",
+      "options": [
+        "was",
+        "were",
+        "is",
+        "are"
+      ],
+      "correctIndex": 0,
+      "explanation": "Singular subject 'computer' uses 'was'",
+      "hints": [
+        "Singular + past = was"
+      ],
+      "points": 10
+    },
+    {
+      "id": 44,
+      "type": "multiple-choice",
+      "question": "Where _____ the pyramids built?",
+      "options": [
+        "was",
+        "were",
+        "is",
+        "did"
+      ],
+      "correctIndex": 1,
+      "explanation": "Plural subject 'pyramids' uses 'were'",
+      "hints": [
+        "Plural + past = were"
+      ],
+      "points": 10
+    },
+    {
+      "id": 45,
+      "type": "multiple-choice",
+      "question": "The light bulb was _____ by Thomas Edison.",
+      "options": [
+        "invented",
+        "invent",
+        "invents",
+        "inventing"
+      ],
+      "correctIndex": 0,
+      "explanation": "Need past participle 'invented' after 'was'",
+      "hints": [
+        "was + V3"
+      ],
+      "points": 10
+    },
+    {
+      "id": 46,
+      "type": "multiple-choice",
+      "question": "When _____ penicillin discovered?",
+      "options": [
+        "was",
+        "were",
+        "is",
+        "did"
+      ],
+      "correctIndex": 0,
+      "explanation": "Singular 'penicillin' uses 'was'",
+      "hints": [
+        "When + was + singular subject"
+      ],
+      "points": 10
+    },
+    {
+      "id": 47,
+      "type": "multiple-choice",
+      "question": "The first films _____ made in black and white.",
+      "options": [
+        "was",
+        "were",
+        "is",
+        "been"
+      ],
+      "correctIndex": 1,
+      "explanation": "Plural 'films' uses 'were'",
+      "hints": [
+        "Plural subject = were"
+      ],
+      "points": 10
+    },
+    {
+      "id": 48,
+      "type": "word-rearrange",
+      "words": [
+        "The",
+        "radio",
+        "was",
+        "invented",
+        "by",
+        "Guglielmo",
+        "Marconi"
+      ],
+      "hints": [
+        "Start with 'The radio'"
+      ],
+      "points": 10,
+      "correctSentence": "The radio was invented by Guglielmo Marconi."
+    },
+    {
+      "id": 49,
+      "type": "word-rearrange",
+      "words": [
+        "Penicillin",
+        "was",
+        "discovered",
+        "in",
+        "1928"
+      ],
+      "hints": [
+        "Subject + was + V3"
+      ],
+      "points": 10,
+      "correctSentence": "Penicillin was discovered in 1928."
+    },
+    {
+      "id": 50,
+      "type": "word-rearrange",
+      "words": [
+        "The",
+        "first",
+        "bicycle",
+        "was",
+        "made",
+        "in",
+        "Germany"
+      ],
+      "hints": [
+        "was made in..."
+      ],
+      "points": 10,
+      "correctSentence": "The first bicycle was made in Germany."
+    },
+    {
+      "id": 51,
+      "type": "multiple-choice",
+      "question": "America _____ discovered by Christopher Columbus in 1492.",
+      "options": [
+        "was",
+        "were",
+        "is",
+        "has"
+      ],
+      "correctIndex": 0,
+      "explanation": "Singular 'America' uses 'was'",
+      "hints": [
+        "Singular country name = was"
+      ],
+      "points": 10
+    },
+    {
+      "id": 52,
+      "type": "multiple-choice",
+      "question": "The Beatles' songs _____ loved by millions of people.",
+      "options": [
+        "was",
+        "were",
+        "is",
+        "been"
+      ],
+      "correctIndex": 1,
+      "explanation": "Plural 'songs' uses 'were'",
+      "hints": [
+        "Plural = were"
+      ],
+      "points": 10
+    },
+    {
+      "id": 53,
+      "type": "word-rearrange",
+      "words": [
+        "When",
+        "was",
+        "the",
+        "telephone",
+        "invented"
+      ],
+      "hints": [
+        "Question word + was + subject + V3"
+      ],
+      "points": 10,
+      "correctSentence": "When was the telephone invented?"
+    },
+    {
+      "id": 54,
+      "type": "word-rearrange",
+      "words": [
+        "Where",
+        "were",
+        "the",
+        "first",
+        "cars",
+        "made"
+      ],
+      "hints": [
+        "Where + were + plural subject"
+      ],
+      "points": 10,
+      "correctSentence": "Where were the first cars made?"
+    },
+    {
+      "id": 55,
+      "type": "multiple-choice",
+      "question": "The movie _____ directed by Steven Spielberg.",
+      "options": [
+        "was",
+        "were",
+        "is",
+        "been"
+      ],
+      "correctIndex": 0,
+      "explanation": "Singular 'movie' uses 'was'",
+      "hints": [
+        "Singular = was"
+      ],
+      "points": 10
+    },
+    {
+      "id": 56,
+      "type": "multiple-choice",
+      "question": "These buildings _____ built over 100 years ago.",
+      "options": [
+        "was",
+        "were",
+        "is",
+        "been"
+      ],
+      "correctIndex": 1,
+      "explanation": "Plural 'buildings' uses 'were'",
+      "hints": [
+        "These/those = plural = were"
+      ],
+      "points": 10
+    },
+    {
+      "id": 57,
+      "type": "word-rearrange",
+      "words": [
+        "The",
+        "first",
+        "airplane",
+        "was",
+        "flown",
+        "in",
+        "1903"
+      ],
+      "hints": [
+        "was flown (not flew)"
+      ],
+      "points": 10,
+      "correctSentence": "The first airplane was flown in 1903."
+    },
+    {
+      "id": 58,
+      "type": "word-rearrange",
+      "words": [
+        "Who",
+        "was",
+        "the",
+        "book",
+        "written",
+        "by"
+      ],
+      "hints": [
+        "Don't forget 'by' at the end"
+      ],
+      "points": 10,
+      "correctSentence": "Who was the book written by?"
+    },
+    {
+      "id": 59,
+      "type": "multiple-choice",
+      "question": "The letter _____ sent yesterday.",
+      "options": [
+        "was",
+        "were",
+        "is",
+        "been"
+      ],
+      "correctIndex": 0,
+      "explanation": "Singular 'letter' uses 'was'",
+      "hints": [
+        "letter = singular"
+      ],
+      "points": 10
+    },
+    {
+      "id": 60,
+      "type": "multiple-choice",
+      "question": "Many pictures _____ taken at the party.",
+      "options": [
+        "was",
+        "were",
+        "is",
+        "been"
+      ],
+      "correctIndex": 1,
+      "explanation": "Plural 'pictures' uses 'were'",
+      "hints": [
+        "Many = plural"
+      ],
+      "points": 10
+    },
+    {
+      "id": 61,
+      "type": "word-rearrange",
+      "words": [
+        "The",
+        "painting",
+        "was",
+        "created",
+        "by",
+        "Picasso"
+      ],
+      "hints": [
+        "was created by"
+      ],
+      "points": 10,
+      "correctSentence": "The painting was created by Picasso."
+    },
+    {
+      "id": 62,
+      "type": "word-rearrange",
+      "words": [
+        "These",
+        "photos",
+        "were",
+        "taken",
+        "last",
+        "summer"
+      ],
+      "hints": [
+        "These = plural = were"
+      ],
+      "points": 10,
+      "correctSentence": "These photos were taken last summer."
+    },
+    {
+      "id": 63,
+      "type": "multiple-choice",
+      "question": "The email _____ received this morning.",
+      "options": [
+        "was",
+        "were",
+        "is",
+        "been"
+      ],
+      "correctIndex": 0,
+      "explanation": "Singular 'email' uses 'was'",
+      "hints": [
+        "email = singular"
+      ],
+      "points": 10
+    },
+    {
+      "id": 64,
+      "type": "multiple-choice",
+      "question": "All the documents _____ signed by the manager.",
+      "options": [
+        "was",
+        "were",
+        "is",
+        "been"
+      ],
+      "correctIndex": 1,
+      "explanation": "Plural 'documents' uses 'were'",
+      "hints": [
+        "All the = plural"
+      ],
+      "points": 10
+    },
+    {
+      "id": 65,
+      "type": "word-rearrange",
+      "words": [
+        "The",
+        "cake",
+        "was",
+        "baked",
+        "by",
+        "my",
+        "mother"
+      ],
+      "hints": [
+        "was baked by"
+      ],
+      "points": 10,
+      "correctSentence": "The cake was baked by my mother."
+    },
+    {
+      "id": 66,
+      "type": "word-rearrange",
+      "words": [
+        "What",
+        "was",
+        "discovered",
+        "in",
+        "America"
+      ],
+      "hints": [
+        "What + was + V3"
+      ],
+      "points": 10,
+      "correctSentence": "What was discovered in America?"
+    },
+    {
+      "id": 67,
+      "type": "multiple-choice",
+      "question": "The window _____ broken last night.",
+      "options": [
+        "was",
+        "were",
+        "is",
+        "been"
+      ],
+      "correctIndex": 0,
+      "explanation": "Singular 'window' uses 'was'",
+      "hints": [
+        "window = singular"
+      ],
+      "points": 10
+    },
+    {
+      "id": 68,
+      "type": "multiple-choice",
+      "question": "The flowers _____ watered every day.",
+      "options": [
+        "was",
+        "were",
+        "is",
+        "been"
+      ],
+      "correctIndex": 1,
+      "explanation": "Plural 'flowers' uses 'were'",
+      "hints": [
+        "flowers = plural"
+      ],
+      "points": 10
+    },
+    {
+      "id": 69,
+      "type": "word-rearrange",
+      "words": [
+        "The",
+        "computer",
+        "was",
+        "invented",
+        "in",
+        "the",
+        "1940s"
+      ],
+      "hints": [
+        "was invented in"
+      ],
+      "points": 10,
+      "correctSentence": "The computer was invented in the 1940s."
+    },
+    {
+      "id": 70,
+      "type": "word-rearrange",
+      "words": [
+        "Was",
+        "the",
+        "homework",
+        "finished",
+        "yesterday"
+      ],
+      "hints": [
+        "Was + subject + V3"
+      ],
+      "points": 10,
+      "correctSentence": "Was the homework finished yesterday?"
+    },
+    {
+      "id": 71,
+      "type": "multiple-choice",
+      "question": "This song _____ sung by Elvis Presley.",
+      "options": [
+        "was",
+        "were",
+        "is",
+        "been"
+      ],
+      "correctIndex": 0,
+      "explanation": "Singular 'song' uses 'was'",
+      "hints": [
+        "This = singular"
+      ],
+      "points": 10
+    },
+    {
+      "id": 72,
+      "type": "multiple-choice",
+      "question": "Those houses _____ built in the 1950s.",
+      "options": [
+        "was",
+        "were",
+        "is",
+        "been"
+      ],
+      "correctIndex": 1,
+      "explanation": "Plural 'houses' uses 'were'",
+      "hints": [
+        "Those = plural"
+      ],
+      "points": 10
+    },
+    {
+      "id": 73,
+      "type": "word-rearrange",
+      "words": [
+        "The",
+        "story",
+        "was",
+        "told",
+        "by",
+        "my",
+        "grandfather"
+      ],
+      "hints": [
+        "was told by"
+      ],
+      "points": 10,
+      "correctSentence": "The story was told by my grandfather."
+    },
+    {
+      "id": 74,
+      "type": "word-rearrange",
+      "words": [
+        "Were",
+        "the",
+        "pyramids",
+        "built",
+        "in",
+        "Egypt"
+      ],
+      "hints": [
+        "Were + plural subject + V3"
+      ],
+      "points": 10,
+      "correctSentence": "Were the pyramids built in Egypt?"
+    },
+    {
+      "id": 75,
+      "type": "multiple-choice",
+      "question": "The bridge _____ designed by a famous architect.",
+      "options": [
+        "was",
+        "were",
+        "is",
+        "been"
+      ],
+      "correctIndex": 0,
+      "explanation": "Singular 'bridge' uses 'was'",
+      "hints": [
+        "bridge = singular"
+      ],
+      "points": 10
+    },
+    {
+      "id": 76,
+      "type": "multiple-choice",
+      "question": "These books _____ written in the 19th century.",
+      "options": [
+        "was",
+        "were",
+        "is",
+        "been"
+      ],
+      "correctIndex": 1,
+      "explanation": "Plural 'books' uses 'were'",
+      "hints": [
+        "These = plural"
+      ],
+      "points": 10
+    },
+    {
+      "id": 77,
+      "type": "word-rearrange",
+      "words": [
+        "The",
+        "door",
+        "was",
+        "opened",
+        "by",
+        "the",
+        "teacher"
+      ],
+      "hints": [
+        "was opened by"
+      ],
+      "points": 10,
+      "correctSentence": "The door was opened by the teacher."
+    },
+    {
+      "id": 78,
+      "type": "word-rearrange",
+      "words": [
+        "When",
+        "were",
+        "these",
+        "clothes",
+        "bought"
+      ],
+      "hints": [
+        "When + were + plural"
+      ],
+      "points": 10,
+      "correctSentence": "When were these clothes bought?"
+    },
+    {
+      "id": 79,
+      "type": "multiple-choice",
+      "question": "The message _____ delivered on time.",
+      "options": [
+        "was",
+        "were",
+        "is",
+        "been"
+      ],
+      "correctIndex": 0,
+      "explanation": "Singular 'message' uses 'was'",
+      "hints": [
+        "message = singular"
+      ],
+      "points": 10
+    },
+    {
+      "id": 80,
+      "type": "multiple-choice",
+      "question": "All the tickets _____ sold out.",
+      "options": [
+        "was",
+        "were",
+        "is",
+        "been"
+      ],
+      "correctIndex": 1,
+      "explanation": "Plural 'tickets' uses 'were'",
+      "hints": [
+        "All the = plural"
+      ],
+      "points": 10
+    },
+    {
+      "id": 81,
+      "type": "word-rearrange",
+      "words": [
+        "The",
+        "museum",
+        "was",
+        "opened",
+        "in",
+        "1990"
+      ],
+      "hints": [
+        "was opened in"
+      ],
+      "points": 10,
+      "correctSentence": "The museum was opened in 1990."
+    },
+    {
+      "id": 82,
+      "type": "word-rearrange",
+      "words": [
+        "Where",
+        "was",
+        "the",
+        "meeting",
+        "held"
+      ],
+      "hints": [
+        "Where + was + singular"
+      ],
+      "points": 10,
+      "correctSentence": "Where was the meeting held?"
+    },
+    {
+      "id": 83,
+      "type": "multiple-choice",
+      "question": "The statue _____ made of bronze.",
+      "options": [
+        "was",
+        "were",
+        "is",
+        "been"
+      ],
+      "correctIndex": 0,
+      "explanation": "Singular 'statue' uses 'was'",
+      "hints": [
+        "statue = singular"
+      ],
+      "points": 10
+    },
+    {
+      "id": 84,
+      "type": "multiple-choice",
+      "question": "The roads _____ repaired last month.",
+      "options": [
+        "was",
+        "were",
+        "is",
+        "been"
+      ],
+      "correctIndex": 1,
+      "explanation": "Plural 'roads' uses 'were'",
+      "hints": [
+        "roads = plural"
+      ],
+      "points": 10
+    },
+    {
+      "id": 85,
+      "type": "word-rearrange",
+      "words": [
+        "The",
+        "song",
+        "was",
+        "written",
+        "in",
+        "English"
+      ],
+      "hints": [
+        "was written in"
+      ],
+      "points": 10,
+      "correctSentence": "The song was written in English."
+    },
+    {
+      "id": 86,
+      "type": "word-rearrange",
+      "words": [
+        "Who",
+        "was",
+        "the",
+        "poem",
+        "written",
+        "by"
+      ],
+      "hints": [
+        "Who + was + subject + V3 + by"
+      ],
+      "points": 10,
+      "correctSentence": "Who was the poem written by?"
+    },
+    {
+      "id": 87,
+      "type": "multiple-choice",
+      "question": "The test _____ taken last week.",
+      "options": [
+        "was",
+        "were",
+        "is",
+        "been"
+      ],
+      "correctIndex": 0,
+      "explanation": "Singular 'test' uses 'was'",
+      "hints": [
+        "test = singular"
+      ],
+      "points": 10
+    },
+    {
+      "id": 88,
+      "type": "multiple-choice",
+      "question": "The students _____ taught by Mr. Smith.",
+      "options": [
+        "was",
+        "were",
+        "is",
+        "been"
+      ],
+      "correctIndex": 1,
+      "explanation": "Plural 'students' uses 'were'",
+      "hints": [
+        "students = plural"
+      ],
+      "points": 10
+    },
+    {
+      "id": 89,
+      "type": "word-rearrange",
+      "words": [
+        "The",
+        "prize",
+        "was",
+        "won",
+        "by",
+        "our",
+        "team"
+      ],
+      "hints": [
+        "was won by"
+      ],
+      "points": 10,
+      "correctSentence": "The prize was won by our team."
+    },
+    {
+      "id": 90,
+      "type": "word-rearrange",
+      "words": [
+        "Were",
+        "the",
+        "rules",
+        "explained",
+        "clearly"
+      ],
+      "hints": [
+        "Were + plural + V3"
+      ],
+      "points": 10,
+      "correctSentence": "Were the rules explained clearly?"
+    },
+    {
+      "id": 91,
+      "type": "multiple-choice",
+      "question": "The gold _____ found in California.",
+      "options": [
+        "was",
+        "were",
+        "is",
+        "been"
+      ],
+      "correctIndex": 0,
+      "explanation": "Uncountable 'gold' uses 'was'",
+      "hints": [
+        "gold = uncountable = singular"
+      ],
+      "points": 10
+    },
+    {
+      "id": 92,
+      "type": "multiple-choice",
+      "question": "The chairs _____ arranged in a circle.",
+      "options": [
+        "was",
+        "were",
+        "is",
+        "been"
+      ],
+      "correctIndex": 1,
+      "explanation": "Plural 'chairs' uses 'were'",
+      "hints": [
+        "chairs = plural"
+      ],
+      "points": 10
+    },
+    {
+      "id": 93,
+      "type": "word-rearrange",
+      "words": [
+        "The",
+        "news",
+        "was",
+        "announced",
+        "yesterday"
+      ],
+      "hints": [
+        "news = singular verb"
+      ],
+      "points": 10,
+      "correctSentence": "The news was announced yesterday."
+    },
+    {
+      "id": 94,
+      "type": "word-rearrange",
+      "words": [
+        "What",
+        "was",
+        "built",
+        "in",
+        "ancient",
+        "times"
+      ],
+      "hints": [
+        "What + was + V3"
+      ],
+      "points": 10,
+      "correctSentence": "What was built in ancient times?"
+    },
+    {
+      "id": 95,
+      "type": "multiple-choice",
+      "question": "The city _____ founded in 1850.",
+      "options": [
+        "was",
+        "were",
+        "is",
+        "been"
+      ],
+      "correctIndex": 0,
+      "explanation": "Singular 'city' uses 'was'",
+      "hints": [
+        "city = singular"
+      ],
+      "points": 10
+    },
+    {
+      "id": 96,
+      "type": "multiple-choice",
+      "question": "The children _____ excited about the trip.",
+      "options": [
+        "was",
+        "were",
+        "is",
+        "been"
+      ],
+      "correctIndex": 1,
+      "explanation": "Plural 'children' uses 'were'",
+      "hints": [
+        "children = plural"
+      ],
+      "points": 10
+    },
+    {
+      "id": 97,
+      "type": "word-rearrange",
+      "words": [
+        "The",
+        "lesson",
+        "was",
+        "taught",
+        "very",
+        "well"
+      ],
+      "hints": [
+        "was taught"
+      ],
+      "points": 10,
+      "correctSentence": "The lesson was taught very well."
+    },
+    {
+      "id": 98,
+      "type": "word-rearrange",
+      "words": [
+        "Where",
+        "were",
+        "the",
+        "Olympic",
+        "Games",
+        "held"
+      ],
+      "hints": [
+        "Where + were + plural"
+      ],
+      "points": 10,
+      "correctSentence": "Where were the Olympic Games held?"
+    },
+    {
+      "id": 99,
+      "type": "multiple-choice",
+      "question": "The plan _____ discussed at the meeting.",
+      "options": [
+        "was",
+        "were",
+        "is",
+        "been"
+      ],
+      "correctIndex": 0,
+      "explanation": "Singular 'plan' uses 'was'",
+      "hints": [
+        "plan = singular"
+      ],
+      "points": 10
+    },
+    {
+      "id": 100,
+      "type": "multiple-choice",
+      "question": "These traditions _____ passed down through generations.",
+      "options": [
+        "was",
+        "were",
+        "is",
+        "been"
+      ],
+      "correctIndex": 1,
+      "explanation": "Plural 'traditions' uses 'were'",
+      "hints": [
+        "These = plural"
+      ],
+      "points": 10
+    },
+    {
+      "id": 101,
+      "type": "multiple-choice",
+      "question": "The printing press _____ invented by Johannes Gutenberg.",
+      "options": [
+        "was",
+        "were",
+        "is",
+        "are"
+      ],
+      "correctIndex": 0,
+      "explanation": "Singular 'printing press' uses 'was'",
+      "hints": [
+        "Singular = was"
+      ],
+      "points": 10
+    },
+    {
+      "id": 102,
+      "type": "multiple-choice",
+      "question": "When _____ the steam engine invented?",
+      "options": [
+        "was",
+        "were",
+        "is",
+        "did"
+      ],
+      "correctIndex": 0,
+      "explanation": "Steam engine (singular) uses 'was'",
+      "hints": [
+        "When + was + singular"
+      ],
+      "points": 10
+    },
+    {
+      "id": 103,
+      "type": "multiple-choice",
+      "question": "Many important discoveries _____ made in the 19th century.",
+      "options": [
+        "was",
+        "were",
+        "is",
+        "are"
+      ],
+      "correctIndex": 1,
+      "explanation": "Plural 'discoveries' uses 'were'",
+      "hints": [
+        "Many = plural = were"
+      ],
+      "points": 10
+    },
+    {
+      "id": 104,
+      "type": "multiple-choice",
+      "question": "The Eiffel Tower _____ built in 1889.",
+      "options": [
+        "was",
+        "were",
+        "is",
+        "are"
+      ],
+      "correctIndex": 0,
+      "explanation": "Singular building, past time (1889) = was",
+      "hints": [
+        "1889 = past"
+      ],
+      "points": 10
+    },
+    {
+      "id": 105,
+      "type": "multiple-choice",
+      "question": "Who _____ the vaccine for smallpox developed by?",
+      "options": [
+        "was",
+        "were",
+        "is",
+        "did"
+      ],
+      "correctIndex": 0,
+      "explanation": "Singular 'vaccine' uses 'was'",
+      "hints": [
+        "Who + was + singular"
+      ],
+      "points": 10
+    },
+    {
+      "id": 106,
+      "type": "word-rearrange",
+      "words": [
+        "The",
+        "telescope",
+        "was",
+        "invented",
+        "by",
+        "Galileo"
+      ],
+      "hints": [
+        "was invented by"
+      ],
+      "points": 10,
+      "correctSentence": "The telescope was invented by Galileo."
+    },
+    {
+      "id": 107,
+      "type": "word-rearrange",
+      "words": [
+        "Many",
+        "languages",
+        "were",
+        "spoken",
+        "in",
+        "ancient",
+        "Rome"
+      ],
+      "hints": [
+        "Many = plural = were"
+      ],
+      "points": 10,
+      "correctSentence": "Many languages were spoken in ancient Rome."
+    },
+    {
+      "id": 108,
+      "type": "word-rearrange",
+      "words": [
+        "When",
+        "was",
+        "electricity",
+        "discovered"
+      ],
+      "hints": [
+        "Question word + was"
+      ],
+      "points": 10,
+      "correctSentence": "When was electricity discovered?"
+    },
+    {
+      "id": 109,
+      "type": "word-rearrange",
+      "words": [
+        "The",
+        "Great",
+        "Wall",
+        "was",
+        "built",
+        "over",
+        "many",
+        "centuries"
+      ],
+      "hints": [
+        "was built"
+      ],
+      "points": 10,
+      "correctSentence": "The Great Wall was built over many centuries."
+    },
+    {
+      "id": 110,
+      "type": "word-rearrange",
+      "words": [
+        "Who",
+        "was",
+        "the",
+        "Mona",
+        "Lisa",
+        "painted",
+        "by"
+      ],
+      "hints": [
+        "Who + was + subject + V3 + by"
+      ],
+      "points": 10,
+      "correctSentence": "Who was the Mona Lisa painted by?"
+    },
+    {
+      "id": 111,
+      "type": "multiple-choice",
+      "question": "The zipper _____ patented in 1893.",
+      "options": [
+        "was",
+        "were",
+        "is",
+        "are"
+      ],
+      "correctIndex": 0,
+      "explanation": "Singular 'zipper', past time (1893) = was",
+      "hints": [
+        "1893 = past"
+      ],
+      "points": 10
+    },
+    {
+      "id": 112,
+      "type": "multiple-choice",
+      "question": "Where _____ the first Olympic Games held?",
+      "options": [
+        "was",
+        "were",
+        "is",
+        "are"
+      ],
+      "correctIndex": 1,
+      "explanation": "Plural 'Games' uses 'were'",
+      "hints": [
+        "Games = plural = were"
+      ],
+      "points": 10
+    },
+    {
+      "id": 113,
+      "type": "multiple-choice",
+      "question": "The ancient city _____ destroyed by a volcano.",
+      "options": [
+        "was",
+        "were",
+        "is",
+        "are"
+      ],
+      "correctIndex": 0,
+      "explanation": "Singular 'city' uses 'was'",
+      "hints": [
+        "city = singular"
+      ],
+      "points": 10
+    },
+    {
+      "id": 114,
+      "type": "multiple-choice",
+      "question": "Paper _____ invented in China around 100 AD.",
+      "options": [
+        "was",
+        "were",
+        "is",
+        "are"
+      ],
+      "correctIndex": 0,
+      "explanation": "Uncountable 'paper' uses singular 'was'",
+      "hints": [
+        "Paper = uncountable = singular"
+      ],
+      "points": 10
+    },
+    {
+      "id": 115,
+      "type": "multiple-choice",
+      "question": "What _____ built by the ancient Egyptians?",
+      "options": [
+        "was",
+        "were",
+        "is",
+        "did"
+      ],
+      "correctIndex": 0,
+      "explanation": "What + was + V3 (expecting singular answer)",
+      "hints": [
+        "What + was"
+      ],
+      "points": 10
+    },
+    {
+      "id": 116,
+      "type": "word-rearrange",
+      "words": [
+        "The",
+        "camera",
+        "was",
+        "invented",
+        "in",
+        "the",
+        "1800s"
+      ],
+      "hints": [
+        "was invented in"
+      ],
+      "points": 10,
+      "correctSentence": "The camera was invented in the 1800s."
+    },
+    {
+      "id": 117,
+      "type": "word-rearrange",
+      "words": [
+        "These",
+        "ruins",
+        "were",
+        "discovered",
+        "by",
+        "archaeologists"
+      ],
+      "hints": [
+        "These = plural = were"
+      ],
+      "points": 10,
+      "correctSentence": "These ruins were discovered by archaeologists."
+    },
+    {
+      "id": 118,
+      "type": "word-rearrange",
+      "words": [
+        "Where",
+        "was",
+        "the",
+        "first",
+        "train",
+        "built"
+      ],
+      "hints": [
+        "Where + was + singular"
+      ],
+      "points": 10,
+      "correctSentence": "Where was the first train built?"
+    },
+    {
+      "id": 119,
+      "type": "word-rearrange",
+      "words": [
+        "The",
+        "vaccine",
+        "was",
+        "developed",
+        "in",
+        "record",
+        "time"
+      ],
+      "hints": [
+        "was developed"
+      ],
+      "points": 10,
+      "correctSentence": "The vaccine was developed in record time."
+    },
+    {
+      "id": 120,
+      "type": "word-rearrange",
+      "words": [
+        "How",
+        "was",
+        "the",
+        "problem",
+        "solved"
+      ],
+      "hints": [
+        "How + was + singular"
+      ],
+      "points": 10,
+      "correctSentence": "How was the problem solved?"
+    },
+    {
+      "id": 121,
+      "type": "multiple-choice",
+      "question": "The DNA structure _____ discovered in 1953.",
+      "options": [
+        "was",
+        "were",
+        "is",
+        "are"
+      ],
+      "correctIndex": 0,
+      "explanation": "Singular 'structure' uses 'was'",
+      "hints": [
+        "1953 = past"
+      ],
+      "points": 10
+    },
+    {
+      "id": 122,
+      "type": "multiple-choice",
+      "question": "All the passengers _____ rescued safely.",
+      "options": [
+        "was",
+        "were",
+        "is",
+        "are"
+      ],
+      "correctIndex": 1,
+      "explanation": "Plural 'passengers' uses 'were'",
+      "hints": [
+        "All the = plural = were"
+      ],
+      "points": 10
+    },
+    {
+      "id": 123,
+      "type": "multiple-choice",
+      "question": "The Titanic _____ sunk in 1912.",
+      "options": [
+        "was",
+        "were",
+        "is",
+        "are"
+      ],
+      "correctIndex": 0,
+      "explanation": "Singular ship name uses 'was'",
+      "hints": [
+        "1912 = past"
+      ],
+      "points": 10
+    },
+    {
+      "id": 124,
+      "type": "multiple-choice",
+      "question": "X-rays _____ discovered by Wilhelm Röntgen.",
+      "options": [
+        "was",
+        "were",
+        "is",
+        "are"
+      ],
+      "correctIndex": 1,
+      "explanation": "Plural 'X-rays' uses 'were'",
+      "hints": [
+        "X-rays = plural"
+      ],
+      "points": 10
+    },
+    {
+      "id": 125,
+      "type": "multiple-choice",
+      "question": "Why _____ the old building demolished?",
+      "options": [
+        "was",
+        "were",
+        "is",
+        "did"
+      ],
+      "correctIndex": 0,
+      "explanation": "Singular 'building' uses 'was'",
+      "hints": [
+        "Why + was + singular"
+      ],
+      "points": 10
+    }
+  ]
+}

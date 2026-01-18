@@ -1,0 +1,748 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Speaking Practice - Grade 8</title>
+    <link rel="stylesheet" href="../css/shared.css">
+    <style>
+        .speaking-container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        .topic-card {
+            background: white;
+            border-radius: 12px;
+            padding: 24px;
+            margin-bottom: 24px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+
+        .topic-header {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            margin-bottom: 20px;
+            padding-bottom: 16px;
+            border-bottom: 2px solid var(--primary);
+        }
+
+        .topic-number {
+            background: var(--primary);
+            color: white;
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+            font-size: 1.2rem;
+        }
+
+        .topic-title {
+            font-size: 1.4rem;
+            color: var(--text-dark);
+            margin: 0;
+        }
+
+        .question-item {
+            background: #f8f9fa;
+            border-radius: 8px;
+            padding: 16px;
+            margin-bottom: 16px;
+            border-left: 4px solid var(--info);
+        }
+
+        .question-row {
+            display: flex;
+            align-items: flex-start;
+            gap: 12px;
+        }
+
+        .question-number {
+            background: var(--info);
+            color: white;
+            min-width: 28px;
+            height: 28px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+            font-size: 0.9rem;
+        }
+
+        .question-content {
+            flex: 1;
+        }
+
+        .question-text {
+            font-size: 1.1rem;
+            color: var(--text-dark);
+            line-height: 1.5;
+            margin-bottom: 8px;
+        }
+
+        .question-phonetic {
+            font-size: 0.95rem;
+            color: #e65100;
+            font-style: italic;
+            margin-bottom: 6px;
+            padding: 4px 8px;
+            background: #fff3e0;
+            border-radius: 4px;
+            display: inline-block;
+        }
+
+        .question-translation {
+            font-size: 0.95rem;
+            color: #666;
+            font-style: italic;
+        }
+
+        .btn-speak {
+            background: var(--primary);
+            color: white;
+            border: none;
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.3s ease;
+            flex-shrink: 0;
+        }
+
+        .btn-speak:hover {
+            background: #45a049;
+            transform: scale(1.1);
+        }
+
+        .btn-speak:active {
+            transform: scale(0.95);
+        }
+
+        .btn-speak.speaking {
+            background: var(--danger);
+            animation: pulse 1s infinite;
+        }
+
+        @keyframes pulse {
+            0%, 100% { transform: scale(1); }
+            50% { transform: scale(1.1); }
+        }
+
+        .btn-speak svg {
+            width: 20px;
+            height: 20px;
+            fill: currentColor;
+        }
+
+        .sample-answer {
+            margin-top: 20px;
+            padding: 20px;
+            background: #e8f5e9;
+            border-radius: 8px;
+            border: 2px solid #a5d6a7;
+        }
+
+        .sample-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: 16px;
+            padding-bottom: 12px;
+            border-bottom: 1px solid #a5d6a7;
+        }
+
+        .sample-label {
+            font-weight: 600;
+            color: #2e7d32;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            font-size: 1.1rem;
+        }
+
+        .sample-paragraph {
+            margin-bottom: 16px;
+            padding: 12px;
+            background: white;
+            border-radius: 6px;
+        }
+
+        .sample-paragraph:last-child {
+            margin-bottom: 0;
+        }
+
+        .sample-english {
+            font-size: 1.05rem;
+            color: #1b5e20;
+            line-height: 1.6;
+            margin-bottom: 8px;
+        }
+
+        .sample-phonetic {
+            font-size: 0.95rem;
+            color: #e65100;
+            font-style: italic;
+            margin-bottom: 6px;
+            padding: 6px 10px;
+            background: #fff3e0;
+            border-radius: 4px;
+            line-height: 1.6;
+        }
+
+        .sample-vietnamese {
+            font-size: 0.95rem;
+            color: #555;
+            font-style: italic;
+            line-height: 1.5;
+        }
+
+        .controls-bar {
+            background: white;
+            padding: 16px 24px;
+            border-radius: 12px;
+            margin-bottom: 24px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+            display: flex;
+            align-items: center;
+            gap: 20px;
+            flex-wrap: wrap;
+        }
+
+        .control-group {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .control-group label {
+            font-weight: 500;
+            color: #666;
+        }
+
+        .control-group select,
+        .control-group input {
+            padding: 8px 12px;
+            border: 1px solid #ddd;
+            border-radius: 6px;
+            font-size: 0.95rem;
+        }
+
+        .speed-value {
+            min-width: 40px;
+            text-align: center;
+            font-weight: 600;
+            color: var(--primary);
+        }
+
+        .btn-stop-all {
+            background: var(--danger);
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 6px;
+            cursor: pointer;
+            font-weight: 500;
+            margin-left: auto;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .btn-stop-all:hover {
+            background: #d32f2f;
+        }
+
+        .page-header {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        .page-header h1 {
+            color: var(--primary);
+            margin-bottom: 8px;
+        }
+
+        .page-header p {
+            color: #666;
+            font-size: 1.1rem;
+        }
+
+        .instructions {
+            background: #fff3e0;
+            border-left: 4px solid var(--warning);
+            padding: 16px;
+            border-radius: 0 8px 8px 0;
+            margin-bottom: 24px;
+        }
+
+        .instructions h3 {
+            color: #e65100;
+            margin: 0 0 8px 0;
+        }
+
+        .instructions ul {
+            margin: 0;
+            padding-left: 20px;
+        }
+
+        .instructions li {
+            margin-bottom: 4px;
+        }
+
+        .legend {
+            display: flex;
+            gap: 20px;
+            flex-wrap: wrap;
+            margin-top: 12px;
+            padding-top: 12px;
+            border-top: 1px dashed #ffcc80;
+        }
+
+        .legend-item {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            font-size: 0.9rem;
+        }
+
+        .legend-color {
+            width: 16px;
+            height: 16px;
+            border-radius: 3px;
+        }
+
+        .legend-english { background: #e3f2fd; border: 1px solid #90caf9; }
+        .legend-phonetic { background: #fff3e0; border: 1px solid #ffcc80; }
+        .legend-vietnamese { background: #f5f5f5; border: 1px solid #bdbdbd; }
+
+        @media (max-width: 600px) {
+            .controls-bar {
+                flex-direction: column;
+                align-items: stretch;
+            }
+
+            .btn-stop-all {
+                margin-left: 0;
+                justify-content: center;
+            }
+
+            .question-row {
+                flex-wrap: wrap;
+            }
+
+            .legend {
+                flex-direction: column;
+                gap: 8px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="speaking-container">
+        <div class="page-header">
+            <h1>Speaking Practice - Grade 8</h1>
+            <p>Luyện thi nói Tiếng Anh lớp 8 với Text-to-Speech</p>
+        </div>
+
+        <div class="instructions">
+            <h3>Hướng dẫn sử dụng:</h3>
+            <ul>
+                <li>Nhấn nút <strong>loa</strong> để nghe câu hỏi hoặc câu trả lời mẫu</li>
+                <li>Đọc <strong style="color: #e65100;">phiên âm tiếng Việt</strong> để biết cách phát âm</li>
+                <li>Điều chỉnh <strong>tốc độ đọc</strong> theo khả năng nghe của bạn</li>
+                <li>Chọn <strong>giọng đọc</strong> phù hợp (nên chọn giọng tiếng Anh)</li>
+            </ul>
+            <div class="legend">
+                <div class="legend-item">
+                    <div class="legend-color legend-english"></div>
+                    <span>Tiếng Anh</span>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-color legend-phonetic"></div>
+                    <span>Phiên âm Việt</span>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-color legend-vietnamese"></div>
+                    <span>Nghĩa tiếng Việt</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="controls-bar">
+            <div class="control-group">
+                <label>Tốc độ:</label>
+                <input type="range" id="speedRange" min="0.5" max="1.5" step="0.1" value="0.9">
+                <span class="speed-value" id="speedValue">0.9x</span>
+            </div>
+            <div class="control-group">
+                <label>Giọng đọc:</label>
+                <select id="voiceSelect">
+                    <option value="">Đang tải...</option>
+                </select>
+            </div>
+            <button class="btn-stop-all" id="btnStopAll">
+                <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor">
+                    <rect x="6" y="6" width="12" height="12"/>
+                </svg>
+                Dừng tất cả
+            </button>
+        </div>
+
+        <!-- Topic 1: Free Time -->
+        <div class="topic-card">
+            <div class="topic-header">
+                <div class="topic-number">1</div>
+                <h2 class="topic-title">Talking about your free time</h2>
+            </div>
+
+            <!-- Question 1 -->
+            <div class="question-item">
+                <div class="question-row">
+                    <div class="question-number">1</div>
+                    <div class="question-content">
+                        <div class="question-text">What is your favourite leisure activity?</div>
+                        <div class="question-phonetic">Goát ì-z do phây-vơ-rịt le-giơ ắc-ti-vi-ti?</div>
+                        <div class="question-translation">Hoạt động giải trí yêu thích của bạn là gì?</div>
+                    </div>
+                    <button class="btn-speak" data-text="What is your favourite leisure activity?" title="Nghe câu hỏi">
+                        <svg viewBox="0 0 24 24"><path d="M3 9v6h4l5 5V4L7 9H3zm13.5 3c0-1.77-1.02-3.29-2.5-4.03v8.05c1.48-.73 2.5-2.25 2.5-4.02zM14 3.23v2.06c2.89.86 5 3.54 5 6.71s-2.11 5.85-5 6.71v2.06c4.01-.91 7-4.49 7-8.77s-2.99-7.86-7-8.77z"/></svg>
+                    </button>
+                </div>
+            </div>
+
+            <!-- Question 2 -->
+            <div class="question-item">
+                <div class="question-row">
+                    <div class="question-number">2</div>
+                    <div class="question-content">
+                        <div class="question-text">When do you usually do this activity?</div>
+                        <div class="question-phonetic">Uen đu diu du-giơ-li đu đít ắc-ti-vi-ti?</div>
+                        <div class="question-translation">Bạn thường làm hoạt động này khi nào?</div>
+                    </div>
+                    <button class="btn-speak" data-text="When do you usually do this activity?" title="Nghe câu hỏi">
+                        <svg viewBox="0 0 24 24"><path d="M3 9v6h4l5 5V4L7 9H3zm13.5 3c0-1.77-1.02-3.29-2.5-4.03v8.05c1.48-.73 2.5-2.25 2.5-4.02zM14 3.23v2.06c2.89.86 5 3.54 5 6.71s-2.11 5.85-5 6.71v2.06c4.01-.91 7-4.49 7-8.77s-2.99-7.86-7-8.77z"/></svg>
+                    </button>
+                </div>
+            </div>
+
+            <!-- Question 3 -->
+            <div class="question-item">
+                <div class="question-row">
+                    <div class="question-number">3</div>
+                    <div class="question-content">
+                        <div class="question-text">Why do you like this activity?</div>
+                        <div class="question-phonetic">Goai đu diu lái-kờ đít ắc-ti-vi-ti?</div>
+                        <div class="question-translation">Tại sao bạn thích hoạt động này?</div>
+                    </div>
+                    <button class="btn-speak" data-text="Why do you like this activity?" title="Nghe câu hỏi">
+                        <svg viewBox="0 0 24 24"><path d="M3 9v6h4l5 5V4L7 9H3zm13.5 3c0-1.77-1.02-3.29-2.5-4.03v8.05c1.48-.73 2.5-2.25 2.5-4.02zM14 3.23v2.06c2.89.86 5 3.54 5 6.71s-2.11 5.85-5 6.71v2.06c4.01-.91 7-4.49 7-8.77s-2.99-7.86-7-8.77z"/></svg>
+                    </button>
+                </div>
+            </div>
+
+            <!-- Question 4 -->
+            <div class="question-item">
+                <div class="question-row">
+                    <div class="question-number">4</div>
+                    <div class="question-content">
+                        <div class="question-text">How does this activity make you feel?</div>
+                        <div class="question-phonetic">Hao đớz đít ắc-ti-vi-ti mây-kờ diu phi-ồ?</div>
+                        <div class="question-translation">Hoạt động này khiến bạn cảm thấy như thế nào?</div>
+                    </div>
+                    <button class="btn-speak" data-text="How does this activity make you feel?" title="Nghe câu hỏi">
+                        <svg viewBox="0 0 24 24"><path d="M3 9v6h4l5 5V4L7 9H3zm13.5 3c0-1.77-1.02-3.29-2.5-4.03v8.05c1.48-.73 2.5-2.25 2.5-4.02zM14 3.23v2.06c2.89.86 5 3.54 5 6.71s-2.11 5.85-5 6.71v2.06c4.01-.91 7-4.49 7-8.77s-2.99-7.86-7-8.77z"/></svg>
+                    </button>
+                </div>
+            </div>
+
+            <!-- Sample Answer -->
+            <div class="sample-answer">
+                <div class="sample-header">
+                    <span class="sample-label">
+                        <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"/></svg>
+                        Câu trả lời mẫu
+                    </span>
+                    <button class="btn-speak" data-text="My favourite leisure activity is listening to music. I enjoy it very much because it helps me relax after a stressful day at school. When I listen to music, I feel calm and comfortable. I usually listen to music in my free time, especially in the evening or before going to bed. This activity helps me reduce stress, improve my mood, and feel happier and more relaxed every day." title="Nghe câu trả lời mẫu">
+                        <svg viewBox="0 0 24 24"><path d="M3 9v6h4l5 5V4L7 9H3zm13.5 3c0-1.77-1.02-3.29-2.5-4.03v8.05c1.48-.73 2.5-2.25 2.5-4.02zM14 3.23v2.06c2.89.86 5 3.54 5 6.71s-2.11 5.85-5 6.71v2.06c4.01-.91 7-4.49 7-8.77s-2.99-7.86-7-8.77z"/></svg>
+                    </button>
+                </div>
+
+                <div class="sample-paragraph">
+                    <div class="sample-english">My favourite leisure activity is <strong>listening to music</strong>. I enjoy it very much because it helps me relax after a stressful day at school. When I listen to music, I feel calm and comfortable.</div>
+                    <div class="sample-phonetic">Mai phây-vơ-rịt le-giơ ắc-ti-vi-ti ì-z lít-xơ-ning tu miu-zíc. Ai en-gioi ịt ve-ri mấc bi-coz ịt help-xờ mi ri-lắc áp-tơ ơ xtrét-phồ đây ét xku-ồ. Uen ai lít-xơn tu miu-zíc, ai phi-ồ cam en kơm-phơ-tơ-bồ.</div>
+                    <div class="sample-vietnamese">Hoạt động giải trí yêu thích của tôi là nghe nhạc. Tôi rất thích vì nó giúp tôi thư giãn sau một ngày căng thẳng ở trường. Khi nghe nhạc, tôi cảm thấy bình tĩnh và thoải mái.</div>
+                </div>
+
+                <div class="sample-paragraph">
+                    <div class="sample-english">I usually listen to music in my free time, especially <strong>in the evening</strong> or <strong>before going to bed</strong>.</div>
+                    <div class="sample-phonetic">Ai du-giơ-li lít-xơn tu miu-zíc in mai phri tai-mờ, i-xpé-shơ-li in đờ íp-ning o bi-pho gâu-ing tu bét.</div>
+                    <div class="sample-vietnamese">Tôi thường nghe nhạc vào thời gian rảnh, đặc biệt là vào buổi tối hoặc trước khi đi ngủ.</div>
+                </div>
+
+                <div class="sample-paragraph">
+                    <div class="sample-english">This activity helps me <strong>reduce stress</strong>, <strong>improve my mood</strong>, and feel happier and more relaxed every day.</div>
+                    <div class="sample-phonetic">Đít ắc-ti-vi-ti help-xờ mi ri-điu-xờ xtrét, im-pru-vờ mai mu-đờ, en phi-ồ hắp-pi-ơ en mo ri-lắc-xờ e-vơ-ri đây.</div>
+                    <div class="sample-vietnamese">Hoạt động này giúp tôi giảm căng thẳng, cải thiện tâm trạng, và cảm thấy vui vẻ và thư giãn hơn mỗi ngày.</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Topic 2: Your Home -->
+        <div class="topic-card">
+            <div class="topic-header">
+                <div class="topic-number">2</div>
+                <h2 class="topic-title">Talking about your home</h2>
+            </div>
+
+            <!-- Question 1 -->
+            <div class="question-item">
+                <div class="question-row">
+                    <div class="question-number">1</div>
+                    <div class="question-content">
+                        <div class="question-text">What kind of home do you live in?</div>
+                        <div class="question-phonetic">Goát kai-nờ đóp hôm đu diu lív in?</div>
+                        <div class="question-translation">Bạn sống trong loại nhà nào?</div>
+                    </div>
+                    <button class="btn-speak" data-text="What kind of home do you live in?" title="Nghe câu hỏi">
+                        <svg viewBox="0 0 24 24"><path d="M3 9v6h4l5 5V4L7 9H3zm13.5 3c0-1.77-1.02-3.29-2.5-4.03v8.05c1.48-.73 2.5-2.25 2.5-4.02zM14 3.23v2.06c2.89.86 5 3.54 5 6.71s-2.11 5.85-5 6.71v2.06c4.01-.91 7-4.49 7-8.77s-2.99-7.86-7-8.77z"/></svg>
+                    </button>
+                </div>
+            </div>
+
+            <!-- Question 2 -->
+            <div class="question-item">
+                <div class="question-row">
+                    <div class="question-number">2</div>
+                    <div class="question-content">
+                        <div class="question-text">What materials is it made from?</div>
+                        <div class="question-phonetic">Goát mơ-ti-ri-ồz ì-z ịt mây-đờ phrom?</div>
+                        <div class="question-translation">Nhà được làm từ vật liệu gì?</div>
+                    </div>
+                    <button class="btn-speak" data-text="What materials is it made from?" title="Nghe câu hỏi">
+                        <svg viewBox="0 0 24 24"><path d="M3 9v6h4l5 5V4L7 9H3zm13.5 3c0-1.77-1.02-3.29-2.5-4.03v8.05c1.48-.73 2.5-2.25 2.5-4.02zM14 3.23v2.06c2.89.86 5 3.54 5 6.71s-2.11 5.85-5 6.71v2.06c4.01-.91 7-4.49 7-8.77s-2.99-7.86-7-8.77z"/></svg>
+                    </button>
+                </div>
+            </div>
+
+            <!-- Question 3 -->
+            <div class="question-item">
+                <div class="question-row">
+                    <div class="question-number">3</div>
+                    <div class="question-content">
+                        <div class="question-text">What is your favourite place in your house?</div>
+                        <div class="question-phonetic">Goát ì-z do phây-vơ-rịt plây-xờ in do hao-xờ?</div>
+                        <div class="question-translation">Nơi yêu thích của bạn trong nhà là gì?</div>
+                    </div>
+                    <button class="btn-speak" data-text="What is your favourite place in your house?" title="Nghe câu hỏi">
+                        <svg viewBox="0 0 24 24"><path d="M3 9v6h4l5 5V4L7 9H3zm13.5 3c0-1.77-1.02-3.29-2.5-4.03v8.05c1.48-.73 2.5-2.25 2.5-4.02zM14 3.23v2.06c2.89.86 5 3.54 5 6.71s-2.11 5.85-5 6.71v2.06c4.01-.91 7-4.49 7-8.77s-2.99-7.86-7-8.77z"/></svg>
+                    </button>
+                </div>
+            </div>
+
+            <!-- Question 4 -->
+            <div class="question-item">
+                <div class="question-row">
+                    <div class="question-number">4</div>
+                    <div class="question-content">
+                        <div class="question-text">What do you usually do there?</div>
+                        <div class="question-phonetic">Goát đu diu du-giơ-li đu đe-ơ?</div>
+                        <div class="question-translation">Bạn thường làm gì ở đó?</div>
+                    </div>
+                    <button class="btn-speak" data-text="What do you usually do there?" title="Nghe câu hỏi">
+                        <svg viewBox="0 0 24 24"><path d="M3 9v6h4l5 5V4L7 9H3zm13.5 3c0-1.77-1.02-3.29-2.5-4.03v8.05c1.48-.73 2.5-2.25 2.5-4.02zM14 3.23v2.06c2.89.86 5 3.54 5 6.71s-2.11 5.85-5 6.71v2.06c4.01-.91 7-4.49 7-8.77s-2.99-7.86-7-8.77z"/></svg>
+                    </button>
+                </div>
+            </div>
+
+            <!-- Sample Answer -->
+            <div class="sample-answer">
+                <div class="sample-header">
+                    <span class="sample-label">
+                        <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"/></svg>
+                        Câu trả lời mẫu
+                    </span>
+                    <button class="btn-speak" data-text="I live in a small brick house. It is made from strong materials such as bricks, cement, and wood. My favourite place in the house is my bedroom because it is quiet and comfortable. I often study, read books, and listen to music there. It is a place where I can relax after a long day. I really like my house because it makes me feel safe and happy." title="Nghe câu trả lời mẫu">
+                        <svg viewBox="0 0 24 24"><path d="M3 9v6h4l5 5V4L7 9H3zm13.5 3c0-1.77-1.02-3.29-2.5-4.03v8.05c1.48-.73 2.5-2.25 2.5-4.02zM14 3.23v2.06c2.89.86 5 3.54 5 6.71s-2.11 5.85-5 6.71v2.06c4.01-.91 7-4.49 7-8.77s-2.99-7.86-7-8.77z"/></svg>
+                    </button>
+                </div>
+
+                <div class="sample-paragraph">
+                    <div class="sample-english">I live in a <strong>small brick house</strong>. It is made from strong materials such as <strong>bricks, cement, and wood</strong>.</div>
+                    <div class="sample-phonetic">Ai lív in ơ xmo-ồ brích hao-xờ. Ịt ì-z mây-đờ phrom xtrong mơ-ti-ri-ồz sớt-chờ ét bríc-xờ, xi-mén, en wu-đờ.</div>
+                    <div class="sample-vietnamese">Tôi sống trong một ngôi nhà gạch nhỏ. Nó được làm từ các vật liệu chắc chắn như gạch, xi măng và gỗ.</div>
+                </div>
+
+                <div class="sample-paragraph">
+                    <div class="sample-english">My favourite place in the house is <strong>my bedroom</strong> because it is quiet and comfortable.</div>
+                    <div class="sample-phonetic">Mai phây-vơ-rịt plây-xờ in đờ hao-xờ ì-z mai bét-rum bi-coz ịt ì-z quai-ợt en kơm-phơ-tơ-bồ.</div>
+                    <div class="sample-vietnamese">Nơi yêu thích của tôi trong nhà là phòng ngủ vì nó yên tĩnh và thoải mái.</div>
+                </div>
+
+                <div class="sample-paragraph">
+                    <div class="sample-english">I often <strong>study, read books, and listen to music</strong> there. It is a place where I can relax after a long day.</div>
+                    <div class="sample-phonetic">Ai óp-phờn xtá-đi, rít buc-xờ, en lít-xơn tu miu-zíc đe-ơ. Ịt ì-z ơ plây-xờ ue-ơ ai ken ri-lắc áp-tơ ơ long đây.</div>
+                    <div class="sample-vietnamese">Tôi thường học, đọc sách và nghe nhạc ở đó. Đó là nơi tôi có thể thư giãn sau một ngày dài.</div>
+                </div>
+
+                <div class="sample-paragraph">
+                    <div class="sample-english">I really like my house because it makes me feel <strong>safe and happy</strong>.</div>
+                    <div class="sample-phonetic">Ai ri-ơ-li lai-kờ mai hao-xờ bi-coz ịt mây-kờ mi phi-ồ xây-phờ en hắp-pi.</div>
+                    <div class="sample-vietnamese">Tôi thực sự thích ngôi nhà của mình vì nó khiến tôi cảm thấy an toàn và hạnh phúc.</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Back to home -->
+        <div style="text-align: center; margin-top: 30px;">
+            <a href="../index.html" style="color: var(--primary); text-decoration: none; font-weight: 500;">
+                ← Quay về trang chủ
+            </a>
+        </div>
+    </div>
+
+    <script>
+        // TTS Configuration
+        const TTS = {
+            synth: window.speechSynthesis,
+            voices: [],
+            currentUtterance: null,
+            speed: 0.9,
+            selectedVoice: null,
+
+            init() {
+                this.loadVoices();
+                if (speechSynthesis.onvoiceschanged !== undefined) {
+                    speechSynthesis.onvoiceschanged = () => this.loadVoices();
+                }
+                this.setupControls();
+                this.setupButtons();
+            },
+
+            loadVoices() {
+                this.voices = this.synth.getVoices();
+                const select = document.getElementById('voiceSelect');
+                select.innerHTML = '';
+
+                const englishVoices = this.voices.filter(v => v.lang.startsWith('en'));
+
+                const defaultOption = document.createElement('option');
+                defaultOption.value = '';
+                defaultOption.textContent = '-- Chọn giọng đọc --';
+                select.appendChild(defaultOption);
+
+                englishVoices.forEach((voice, index) => {
+                    const option = document.createElement('option');
+                    option.value = index;
+                    option.textContent = `${voice.name} (${voice.lang})`;
+                    option.dataset.voiceName = voice.name;
+                    select.appendChild(option);
+                });
+
+                const preferredVoices = ['Google US English', 'Microsoft Zira', 'Samantha', 'Karen', 'Google UK English Female'];
+                for (const preferred of preferredVoices) {
+                    const found = englishVoices.find(v => v.name.includes(preferred));
+                    if (found) {
+                        this.selectedVoice = found;
+                        for (const opt of select.options) {
+                            if (opt.dataset.voiceName === found.name) {
+                                opt.selected = true;
+                                break;
+                            }
+                        }
+                        break;
+                    }
+                }
+
+                if (!this.selectedVoice && englishVoices.length > 0) {
+                    this.selectedVoice = englishVoices[0];
+                    select.options[1].selected = true;
+                }
+            },
+
+            setupControls() {
+                const speedRange = document.getElementById('speedRange');
+                const speedValue = document.getElementById('speedValue');
+                speedRange.addEventListener('input', () => {
+                    this.speed = parseFloat(speedRange.value);
+                    speedValue.textContent = this.speed.toFixed(1) + 'x';
+                });
+
+                const voiceSelect = document.getElementById('voiceSelect');
+                voiceSelect.addEventListener('change', () => {
+                    const selectedIndex = voiceSelect.value;
+                    if (selectedIndex !== '') {
+                        const englishVoices = this.voices.filter(v => v.lang.startsWith('en'));
+                        this.selectedVoice = englishVoices[parseInt(selectedIndex)];
+                    }
+                });
+
+                document.getElementById('btnStopAll').addEventListener('click', () => {
+                    this.stop();
+                });
+            },
+
+            setupButtons() {
+                document.querySelectorAll('.btn-speak').forEach(btn => {
+                    btn.addEventListener('click', () => {
+                        const text = btn.dataset.text;
+                        if (btn.classList.contains('speaking')) {
+                            this.stop();
+                        } else {
+                            this.speak(text, btn);
+                        }
+                    });
+                });
+            },
+
+            speak(text, button) {
+                this.stop();
+
+                const utterance = new SpeechSynthesisUtterance(text);
+                utterance.rate = this.speed;
+                utterance.pitch = 1;
+                utterance.volume = 1;
+
+                if (this.selectedVoice) {
+                    utterance.voice = this.selectedVoice;
+                }
+
+                button.classList.add('speaking');
+                this.currentUtterance = utterance;
+
+                utterance.onend = () => {
+                    button.classList.remove('speaking');
+                    this.currentUtterance = null;
+                };
+
+                utterance.onerror = () => {
+                    button.classList.remove('speaking');
+                    this.currentUtterance = null;
+                };
+
+                this.synth.speak(utterance);
+            },
+
+            stop() {
+                this.synth.cancel();
+                document.querySelectorAll('.btn-speak.speaking').forEach(btn => {
+                    btn.classList.remove('speaking');
+                });
+                this.currentUtterance = null;
+            }
+        };
+
+        document.addEventListener('DOMContentLoaded', () => {
+            TTS.init();
+        });
+    </script>
+</body>
+</html>

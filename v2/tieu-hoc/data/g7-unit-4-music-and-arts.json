@@ -1,0 +1,559 @@
+{
+  "unitId": "g7-unit-4-music-and-arts",
+  "title": "Unit 4: Music and Arts - Comparatives and Superlatives",
+  "studentName": "Tran Gia Hung",
+  "grade": 7,
+  "grammarTopics": [
+    "Comparative Adjectives",
+    "Superlative Adjectives",
+    "As...as",
+    "Not as...as",
+    "Arts Vocabulary"
+  ],
+  "theory": {
+    "brief": "So sánh hơn: adj-er + than (tính từ ngắn), more + adj + than (tính từ dài). So sánh nhất: the + adj-est (ngắn), the most + adj (dài). So sánh bằng: as + adj + as (bằng nhau), not as + adj + as (không bằng). Tính từ bất quy tắc: good→better→best, bad→worse→worst.",
+    "examples": [
+      "This painting is more beautiful than that one. (Bức tranh này đẹp hơn bức kia.)",
+      "He is the best musician in our school. (Anh ấy là nhạc sĩ giỏi nhất trường.)",
+      "Rock music is as popular as pop music. (Nhạc rock phổ biến như nhạc pop.)",
+      "This song is not as long as that one. (Bài hát này không dài bằng bài kia.)",
+      "Jazz is more relaxing than heavy metal. (Nhạc jazz thư giãn hơn nhạc heavy metal.)"
+    ]
+  },
+  "exercises": [
+    {
+      "id": "g7u4-ex1",
+      "type": "fill-blank",
+      "question": "This painting is _______ (beautiful) than that one.",
+      "wordHint": "(beautiful)",
+      "answer": "more beautiful",
+      "acceptedAnswers": [
+        "more beautiful"
+      ],
+      "hints": [
+        "Tính từ dài: more + adj + than"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u4-ex2",
+      "type": "fill-blank",
+      "question": "The piano is _______ (big) than the guitar.",
+      "wordHint": "(big)",
+      "answer": "bigger",
+      "acceptedAnswers": [
+        "bigger"
+      ],
+      "hints": [
+        "Tính từ ngắn: adj-er + than, nhớ gấp đôi phụ âm"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u4-ex3",
+      "type": "fill-blank",
+      "question": "Rock music is _______ (exciting) than classical music.",
+      "wordHint": "(exciting)",
+      "answer": "more exciting",
+      "acceptedAnswers": [
+        "more exciting"
+      ],
+      "hints": [
+        "exciting là tính từ dài"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u4-ex4",
+      "type": "fill-blank",
+      "question": "This song is _______ (short) than the previous one.",
+      "wordHint": "(short)",
+      "answer": "shorter",
+      "acceptedAnswers": [
+        "shorter"
+      ],
+      "hints": [
+        "short + er"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u4-ex5",
+      "type": "fill-blank",
+      "question": "Jazz is _______ (relaxing) than rock.",
+      "wordHint": "(relaxing)",
+      "answer": "more relaxing",
+      "acceptedAnswers": [
+        "more relaxing"
+      ],
+      "hints": [
+        "more + tính từ dài"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u4-ex6",
+      "type": "fill-blank",
+      "question": "She is _______ (good) singer in the class.",
+      "wordHint": "(good)",
+      "answer": "the best",
+      "acceptedAnswers": [
+        "the best"
+      ],
+      "hints": [
+        "Bất quy tắc: good → the best"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u4-ex7",
+      "type": "fill-blank",
+      "question": "This is _______ (expensive) painting in the gallery.",
+      "wordHint": "(expensive)",
+      "answer": "the most expensive",
+      "acceptedAnswers": [
+        "the most expensive"
+      ],
+      "hints": [
+        "So sánh nhất dài: the most + adj"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u4-ex8",
+      "type": "fill-blank",
+      "question": "He is _______ (talented) artist I know.",
+      "wordHint": "(talented)",
+      "answer": "the most talented",
+      "acceptedAnswers": [
+        "the most talented"
+      ],
+      "hints": [
+        "the most + tính từ dài"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u4-ex9",
+      "type": "fill-blank",
+      "question": "That was _______ (bad) concert ever.",
+      "wordHint": "(bad)",
+      "answer": "the worst",
+      "acceptedAnswers": [
+        "the worst"
+      ],
+      "hints": [
+        "Bất quy tắc: bad → the worst"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u4-ex10",
+      "type": "fill-blank",
+      "question": "This museum is _______ (large) in the city.",
+      "wordHint": "(large)",
+      "answer": "the largest",
+      "acceptedAnswers": [
+        "the largest"
+      ],
+      "hints": [
+        "So sánh nhất ngắn: the + adj-est"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u4-ex11",
+      "type": "fill-blank",
+      "question": "Pop music is _______ popular _______ rock music.",
+      "wordHint": "as/as",
+      "answer": "as popular as",
+      "acceptedAnswers": [
+        "as popular as",
+        "as-popular-as"
+      ],
+      "hints": [
+        "So sánh bằng: as + adj + as"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u4-ex12",
+      "type": "fill-blank",
+      "question": "The violin is _______ difficult _______ the piano.",
+      "wordHint": "as/as",
+      "answer": "as difficult as",
+      "acceptedAnswers": [
+        "as difficult as",
+        "as-difficult-as"
+      ],
+      "hints": [
+        "as + adj + as"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u4-ex13",
+      "type": "fill-blank",
+      "question": "This sculpture is not _______ beautiful _______ that one.",
+      "wordHint": "as/as",
+      "answer": "as beautiful as",
+      "acceptedAnswers": [
+        "as beautiful as",
+        "as-beautiful-as"
+      ],
+      "hints": [
+        "not as + adj + as = không bằng"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u4-ex14",
+      "type": "fill-blank",
+      "question": "Drawing is not _______ easy _______ painting.",
+      "wordHint": "as/as",
+      "answer": "as easy as",
+      "acceptedAnswers": [
+        "as easy as",
+        "as-easy-as"
+      ],
+      "hints": [
+        "not as + adj + as"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u4-ex15",
+      "type": "fill-blank",
+      "question": "This gallery is _______ interesting _______ the museum.",
+      "wordHint": "as/as",
+      "answer": "as interesting as",
+      "acceptedAnswers": [
+        "as interesting as",
+        "as-interesting-as"
+      ],
+      "hints": [
+        "as + adj + as"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u4-ex16",
+      "type": "multiple-choice",
+      "question": "Classical music is _______ than pop music.",
+      "options": [
+        "peaceful",
+        "more peaceful",
+        "most peaceful",
+        "the most peaceful"
+      ],
+      "correctIndex": 1,
+      "explanation": "So sánh hơn với tính từ dài: more + adj + than",
+      "hints": [
+        "Có 'than' → so sánh hơn"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u4-ex17",
+      "type": "multiple-choice",
+      "question": "This is _______ song I've ever heard.",
+      "options": [
+        "better",
+        "the best",
+        "good",
+        "well"
+      ],
+      "correctIndex": 1,
+      "explanation": "So sánh nhất: the best",
+      "hints": [
+        "Có 'I've ever' → so sánh nhất"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u4-ex18",
+      "type": "multiple-choice",
+      "question": "The guitar is _______ to play than the drums.",
+      "options": [
+        "easy",
+        "easier",
+        "easiest",
+        "the easiest"
+      ],
+      "correctIndex": 1,
+      "explanation": "So sánh hơn: easier + than",
+      "hints": [
+        "easy → easier (y→i+er)"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u4-ex19",
+      "type": "multiple-choice",
+      "question": "This painting is _______ in the exhibition.",
+      "options": [
+        "expensive",
+        "more expensive",
+        "most expensive",
+        "the most expensive"
+      ],
+      "correctIndex": 3,
+      "explanation": "So sánh nhất: the most + adj",
+      "hints": [
+        "'in the exhibition' → so sánh nhất"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u4-ex20",
+      "type": "multiple-choice",
+      "question": "Jazz is _______ popular _______ blues.",
+      "options": [
+        "as/as",
+        "more/than",
+        "most/in",
+        "the/of"
+      ],
+      "correctIndex": 0,
+      "explanation": "So sánh bằng: as...as",
+      "hints": [
+        "Bằng nhau → as...as"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u4-ex21",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "This painting is more beautiful than that one.",
+        "This painting is more beautiful than that one"
+      ],
+      "hints": [
+        "S + be + more + adj + than"
+      ],
+      "points": 15,
+      "correctSentence": "This painting is more beautiful than that one.",
+      "words": [
+        "beautiful",
+        "more",
+        "this",
+        "is",
+        "painting",
+        "that",
+        "than",
+        "one"
+      ]
+    },
+    {
+      "id": "g7u4-ex22",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "She is the best singer in the class.",
+        "She is the best singer in the class"
+      ],
+      "hints": [
+        "S + be + the best + N"
+      ],
+      "points": 15,
+      "correctSentence": "She is the best singer in the class.",
+      "words": [
+        "the",
+        "she",
+        "best",
+        "is",
+        "singer",
+        "class",
+        "in",
+        "the"
+      ]
+    },
+    {
+      "id": "g7u4-ex23",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "Rock music is as popular as pop music.",
+        "Rock music is as popular as pop music",
+        "Pop music is as popular as rock music.",
+        "Pop music is as popular as rock music"
+      ],
+      "hints": [
+        "S + be + as + adj + as"
+      ],
+      "points": 15,
+      "correctSentence": "Rock music is as popular as pop music.",
+      "words": [
+        "as",
+        "rock",
+        "popular",
+        "is",
+        "music",
+        "pop",
+        "as",
+        "music"
+      ]
+    },
+    {
+      "id": "g7u4-ex24",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "The piano is bigger than the guitar.",
+        "The piano is bigger than the guitar"
+      ],
+      "hints": [
+        "S + be + adj-er + than"
+      ],
+      "points": 15,
+      "correctSentence": "The piano is bigger than the guitar.",
+      "words": [
+        "than",
+        "the",
+        "bigger",
+        "piano",
+        "is",
+        "guitar",
+        "the"
+      ]
+    },
+    {
+      "id": "g7u4-ex25",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "This is the most expensive painting.",
+        "This is the most expensive painting",
+        "This painting is the most expensive.",
+        "This painting is the most expensive"
+      ],
+      "hints": [
+        "S + be + the most + adj"
+      ],
+      "points": 15,
+      "correctSentence": "This is the most expensive painting.",
+      "words": [
+        "the",
+        "expensive",
+        "most",
+        "this",
+        "painting",
+        "is"
+      ]
+    },
+    {
+      "id": "g7u4-ex26",
+      "type": "error-correct",
+      "wrongSentence": "This song is more better than that one.",
+      "correctSentence": "This song is better than that one.",
+      "errorWord": "more better",
+      "correction": "better",
+      "explanation": "good → better (không dùng 'more')",
+      "hints": [
+        "good → better (bất quy tắc)"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u4-ex27",
+      "type": "error-correct",
+      "wrongSentence": "She is the most good singer.",
+      "correctSentence": "She is the best singer.",
+      "errorWord": "the most good",
+      "correction": "the best",
+      "explanation": "good → the best (bất quy tắc)",
+      "hints": [
+        "good → best"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u4-ex28",
+      "type": "error-correct",
+      "wrongSentence": "This painting is beautifuler than that one.",
+      "correctSentence": "This painting is more beautiful than that one.",
+      "errorWord": "beautifuler",
+      "correction": "more beautiful",
+      "explanation": "Tính từ dài dùng 'more'",
+      "hints": [
+        "Tính từ dài → more + adj"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u4-ex29",
+      "type": "error-correct",
+      "wrongSentence": "The piano is more big than the guitar.",
+      "correctSentence": "The piano is bigger than the guitar.",
+      "errorWord": "more big",
+      "correction": "bigger",
+      "explanation": "Tính từ ngắn dùng -er",
+      "hints": [
+        "big → bigger (nhân đôi g)"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u4-ex30",
+      "type": "error-correct",
+      "wrongSentence": "This is the more expensive painting.",
+      "correctSentence": "This is the most expensive painting.",
+      "errorWord": "the more",
+      "correction": "the most",
+      "explanation": "So sánh nhất: the most + adj",
+      "hints": [
+        "So sánh nhất → the most"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u4-ex31",
+      "type": "translation",
+      "vietnamese": "Bức tranh này đẹp hơn bức tranh kia.",
+      "answer": "This painting is more beautiful than that one.",
+      "acceptedAnswers": [
+        "This painting is more beautiful than that one.",
+        "This painting is more beautiful than that one",
+        "This painting is more beautiful than that painting.",
+        "This painting is more beautiful than that painting"
+      ],
+      "hints": [
+        "more + adj + than"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u4-ex32",
+      "type": "translation",
+      "vietnamese": "Anh ấy là nhạc sĩ giỏi nhất trong trường.",
+      "answer": "He is the best musician in the school.",
+      "acceptedAnswers": [
+        "He is the best musician in the school.",
+        "He is the best musician in the school",
+        "He is the best musician in our school.",
+        "He's the best musician in the school."
+      ],
+      "hints": [
+        "the best + N"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u4-ex33",
+      "type": "translation",
+      "vietnamese": "Nhạc rock phổ biến như nhạc pop.",
+      "answer": "Rock music is as popular as pop music.",
+      "acceptedAnswers": [
+        "Rock music is as popular as pop music.",
+        "Rock music is as popular as pop music",
+        "Pop music is as popular as rock music.",
+        "Pop music is as popular as rock music"
+      ],
+      "hints": [
+        "as + adj + as"
+      ],
+      "points": 10
+    }
+  ]
+}

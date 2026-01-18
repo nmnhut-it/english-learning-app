@@ -1,0 +1,1949 @@
+{
+  "unitId": "g8-review-1-additional-exercise",
+  "title": "Grade 8 Review 1 - Additional Exercises",
+  "grammarTopics": [
+    "Verbs of liking + V-ing",
+    "Comparative Adverbs",
+    "Compound Sentences",
+    "Complex Sentences"
+  ],
+  "theory": {
+    "brief": "Comprehensive practice covering: Verbs of liking/disliking + gerund, Comparative adverbs, Compound and complex sentences with conjunctions",
+    "examples": [
+      "I enjoy doing puzzles. (verb + V-ing)",
+      "She runs faster than me. (comparative adverb)",
+      "I study hard, so I get good grades. (compound sentence)"
+    ]
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "type": "sentence-rewrite",
+      "original": "I like doing puzzles in my free time.",
+      "instruction": "Rewrite using 'enjoy'",
+      "starterText": "I enjoy",
+      "answer": "I enjoy doing puzzles in my free time.",
+      "acceptedAnswers": [
+        "I enjoy doing puzzles in my free time",
+        "I enjoy doing puzzles in my free time."
+      ],
+      "hints": [
+        "Keep the same V-ing form after 'enjoy'"
+      ],
+      "points": 10,
+      "timeLimit": 30
+    },
+    {
+      "id": 2,
+      "type": "sentence-rewrite",
+      "original": "She loves messaging her friends every evening.",
+      "instruction": "Rewrite using 'be keen on'",
+      "starterText": "She is keen on",
+      "answer": "She is keen on messaging her friends every evening.",
+      "acceptedAnswers": [
+        "She is keen on messaging her friends every evening",
+        "She is keen on messaging her friends every evening."
+      ],
+      "hints": [
+        "Use 'be keen on' + V-ing"
+      ],
+      "points": 10,
+      "timeLimit": 30
+    },
+    {
+      "id": 3,
+      "type": "sentence-rewrite",
+      "original": "They hate going shopping at crowded malls.",
+      "instruction": "Rewrite using 'detest'",
+      "starterText": "They detest",
+      "answer": "They detest going shopping at crowded malls.",
+      "acceptedAnswers": [
+        "They detest going shopping at crowded malls",
+        "They detest going shopping at crowded malls."
+      ],
+      "hints": [
+        "'detest' and 'hate' have the same meaning"
+      ],
+      "points": 10,
+      "timeLimit": 30
+    },
+    {
+      "id": 4,
+      "type": "sentence-rewrite",
+      "original": "My brother likes playing computer games.",
+      "instruction": "Rewrite using 'be fond of'",
+      "starterText": "My brother is fond of",
+      "answer": "My brother is fond of playing computer games.",
+      "acceptedAnswers": [
+        "My brother is fond of playing computer games",
+        "My brother is fond of playing computer games."
+      ],
+      "hints": [
+        "Use 'be fond of' + V-ing"
+      ],
+      "points": 10,
+      "timeLimit": 30
+    },
+    {
+      "id": 5,
+      "type": "sentence-rewrite",
+      "original": "We love cooking together on weekends.",
+      "instruction": "Rewrite using 'be interested in'",
+      "starterText": "We are interested in",
+      "answer": "We are interested in cooking together on weekends.",
+      "acceptedAnswers": [
+        "We are interested in cooking together on weekends",
+        "We are interested in cooking together on weekends."
+      ],
+      "hints": [
+        "Use 'be interested in' + V-ing"
+      ],
+      "points": 10,
+      "timeLimit": 30
+    },
+    {
+      "id": 6,
+      "type": "sentence-rewrite",
+      "original": "He doesn't like surfing the internet for hours.",
+      "instruction": "Rewrite using 'be keen on'",
+      "starterText": "He isn't keen on",
+      "answer": "He isn't keen on surfing the internet for hours.",
+      "acceptedAnswers": [
+        "He isn't keen on surfing the internet for hours",
+        "He isn't keen on surfing the internet for hours.",
+        "He is not keen on surfing the internet for hours",
+        "He is not keen on surfing the internet for hours."
+      ],
+      "hints": [
+        "Use negative form: isn't keen on"
+      ],
+      "points": 10,
+      "timeLimit": 30
+    },
+    {
+      "id": 7,
+      "type": "sentence-rewrite",
+      "original": "I enjoy doing DIY projects.",
+      "instruction": "Rewrite using 'be crazy about'",
+      "starterText": "I am crazy about",
+      "answer": "I am crazy about doing DIY projects.",
+      "acceptedAnswers": [
+        "I am crazy about doing DIY projects",
+        "I am crazy about doing DIY projects."
+      ],
+      "hints": [
+        "Use 'be crazy about' + V-ing"
+      ],
+      "points": 10,
+      "timeLimit": 30
+    },
+    {
+      "id": 8,
+      "type": "sentence-rewrite",
+      "original": "She hates getting up early for school.",
+      "instruction": "Rewrite using 'can't stand'",
+      "starterText": "She can't stand",
+      "answer": "She can't stand getting up early for school.",
+      "acceptedAnswers": [
+        "She can't stand getting up early for school",
+        "She can't stand getting up early for school.",
+        "She cannot stand getting up early for school",
+        "She cannot stand getting up early for school."
+      ],
+      "hints": [
+        "'can't stand' means the same as 'hate'"
+      ],
+      "points": 10,
+      "timeLimit": 30
+    },
+    {
+      "id": 9,
+      "type": "sentence-rewrite",
+      "original": "They like participating in school clubs.",
+      "instruction": "Rewrite using 'be into'",
+      "starterText": "They are into",
+      "answer": "They are into participating in school clubs.",
+      "acceptedAnswers": [
+        "They are into participating in school clubs",
+        "They are into participating in school clubs."
+      ],
+      "hints": [
+        "Use 'be into' + V-ing (informal)"
+      ],
+      "points": 10,
+      "timeLimit": 30
+    },
+    {
+      "id": 10,
+      "type": "sentence-rewrite",
+      "original": "Tom prefers reading books to watching TV.",
+      "instruction": "Rewrite using 'like...more than'",
+      "starterText": "Tom likes reading books more",
+      "answer": "Tom likes reading books more than watching TV.",
+      "acceptedAnswers": [
+        "Tom likes reading books more than watching TV",
+        "Tom likes reading books more than watching TV."
+      ],
+      "hints": [
+        "Use 'like A more than B'"
+      ],
+      "points": 10,
+      "timeLimit": 30
+    },
+    {
+      "id": 11,
+      "type": "sentence-rewrite",
+      "original": "People in the city don't work as hard as people in the countryside.",
+      "instruction": "Rewrite using comparative form",
+      "starterText": "People in the countryside work",
+      "answer": "People in the countryside work harder than people in the city.",
+      "acceptedAnswers": [
+        "People in the countryside work harder than people in the city",
+        "People in the countryside work harder than people in the city."
+      ],
+      "hints": [
+        "Use 'harder than'"
+      ],
+      "points": 10,
+      "timeLimit": 30
+    },
+    {
+      "id": 12,
+      "type": "sentence-rewrite",
+      "original": "I can't run as fast as my brother.",
+      "instruction": "Rewrite using comparative form",
+      "starterText": "My brother runs",
+      "answer": "My brother runs faster than me.",
+      "acceptedAnswers": [
+        "My brother runs faster than me",
+        "My brother runs faster than me.",
+        "My brother runs faster than I do",
+        "My brother runs faster than I do."
+      ],
+      "hints": [
+        "Use 'faster than'"
+      ],
+      "points": 10,
+      "timeLimit": 30
+    },
+    {
+      "id": 13,
+      "type": "sentence-rewrite",
+      "original": "The farmers don't get up as late as the workers.",
+      "instruction": "Rewrite using comparative form",
+      "starterText": "The farmers get up",
+      "answer": "The farmers get up earlier than the workers.",
+      "acceptedAnswers": [
+        "The farmers get up earlier than the workers",
+        "The farmers get up earlier than the workers."
+      ],
+      "hints": [
+        "Opposite of 'late' is 'early'"
+      ],
+      "points": 10,
+      "timeLimit": 30
+    },
+    {
+      "id": 14,
+      "type": "sentence-rewrite",
+      "original": "She speaks English more fluently than her classmates.",
+      "instruction": "Rewrite using 'not as...as'",
+      "starterText": "Her classmates don't speak English",
+      "answer": "Her classmates don't speak English as fluently as she does.",
+      "acceptedAnswers": [
+        "Her classmates don't speak English as fluently as she does",
+        "Her classmates don't speak English as fluently as she does.",
+        "Her classmates do not speak English as fluently as she does",
+        "Her classmates do not speak English as fluently as she does."
+      ],
+      "hints": [
+        "Use 'as fluently as'"
+      ],
+      "points": 10,
+      "timeLimit": 30
+    },
+    {
+      "id": 15,
+      "type": "sentence-rewrite",
+      "original": "Life in the countryside is quieter than life in the city.",
+      "instruction": "Rewrite using 'not as...as'",
+      "starterText": "Life in the city isn't",
+      "answer": "Life in the city isn't as quiet as life in the countryside.",
+      "acceptedAnswers": [
+        "Life in the city isn't as quiet as life in the countryside",
+        "Life in the city isn't as quiet as life in the countryside.",
+        "Life in the city is not as quiet as life in the countryside",
+        "Life in the city is not as quiet as life in the countryside."
+      ],
+      "hints": [
+        "Use 'as quiet as'"
+      ],
+      "points": 10,
+      "timeLimit": 30
+    },
+    {
+      "id": 16,
+      "type": "sentence-rewrite",
+      "original": "Children adapt to technology faster than adults.",
+      "instruction": "Rewrite starting with 'Adults'",
+      "starterText": "Adults adapt to technology",
+      "answer": "Adults adapt to technology more slowly than children.",
+      "acceptedAnswers": [
+        "Adults adapt to technology more slowly than children",
+        "Adults adapt to technology more slowly than children."
+      ],
+      "hints": [
+        "Opposite of 'faster' is 'more slowly'"
+      ],
+      "points": 10,
+      "timeLimit": 30
+    },
+    {
+      "id": 17,
+      "type": "sentence-rewrite",
+      "original": "My mother cooks more skillfully than anyone in our family.",
+      "instruction": "Rewrite using 'No one'",
+      "starterText": "No one in our family cooks",
+      "answer": "No one in our family cooks as skillfully as my mother.",
+      "acceptedAnswers": [
+        "No one in our family cooks as skillfully as my mother",
+        "No one in our family cooks as skillfully as my mother."
+      ],
+      "hints": [
+        "Use 'as skillfully as'"
+      ],
+      "points": 10,
+      "timeLimit": 30
+    },
+    {
+      "id": 18,
+      "type": "sentence-rewrite",
+      "original": "He drives more carefully at night than during the day.",
+      "instruction": "Rewrite using 'not as...as'",
+      "starterText": "He doesn't drive as",
+      "answer": "He doesn't drive as carefully during the day as at night.",
+      "acceptedAnswers": [
+        "He doesn't drive as carefully during the day as at night",
+        "He doesn't drive as carefully during the day as at night.",
+        "He does not drive as carefully during the day as at night",
+        "He does not drive as carefully during the day as at night."
+      ],
+      "hints": [
+        "Use 'as carefully...as'"
+      ],
+      "points": 10,
+      "timeLimit": 30
+    },
+    {
+      "id": 19,
+      "type": "sentence-rewrite",
+      "original": "City people live less happily than countryside people.",
+      "instruction": "Rewrite starting with 'Countryside people'",
+      "starterText": "Countryside people live",
+      "answer": "Countryside people live more happily than city people.",
+      "acceptedAnswers": [
+        "Countryside people live more happily than city people",
+        "Countryside people live more happily than city people."
+      ],
+      "hints": [
+        "Use 'more happily than'"
+      ],
+      "points": 10,
+      "timeLimit": 30
+    },
+    {
+      "id": 20,
+      "type": "sentence-rewrite",
+      "original": "Horses can run faster than buffaloes.",
+      "instruction": "Rewrite starting with 'Buffaloes'",
+      "starterText": "Buffaloes can't run",
+      "answer": "Buffaloes can't run as fast as horses.",
+      "acceptedAnswers": [
+        "Buffaloes can't run as fast as horses",
+        "Buffaloes can't run as fast as horses.",
+        "Buffaloes cannot run as fast as horses",
+        "Buffaloes cannot run as fast as horses."
+      ],
+      "hints": [
+        "Use 'as fast as'"
+      ],
+      "points": 10,
+      "timeLimit": 30
+    },
+    {
+      "id": 21,
+      "type": "sentence-build",
+      "prompt": "She joined the music club. She wanted to learn guitar.",
+      "instructions": "Combine using 'because'",
+      "answer": "She joined the music club because she wanted to learn guitar.",
+      "acceptedAnswers": [
+        "She joined the music club because she wanted to learn guitar",
+        "She joined the music club because she wanted to learn guitar."
+      ],
+      "hints": [
+        "Use 'because' to show reason"
+      ],
+      "points": 10,
+      "timeLimit": 30
+    },
+    {
+      "id": 22,
+      "type": "sentence-build",
+      "prompt": "He plays chess to relax. He also enters competitions.",
+      "instructions": "Combine using 'but'",
+      "answer": "He plays chess to relax, but he also enters competitions.",
+      "acceptedAnswers": [
+        "He plays chess to relax, but he also enters competitions",
+        "He plays chess to relax, but he also enters competitions.",
+        "He plays chess to relax but he also enters competitions",
+        "He plays chess to relax but he also enters competitions."
+      ],
+      "hints": [
+        "Use 'but' to show contrast"
+      ],
+      "points": 10,
+      "timeLimit": 30
+    },
+    {
+      "id": 23,
+      "type": "sentence-build",
+      "prompt": "They feel stressed. They don't talk to anyone.",
+      "instructions": "Combine using 'although'",
+      "answer": "Although they feel stressed, they don't talk to anyone.",
+      "acceptedAnswers": [
+        "Although they feel stressed, they don't talk to anyone",
+        "Although they feel stressed, they don't talk to anyone.",
+        "They don't talk to anyone although they feel stressed",
+        "They don't talk to anyone although they feel stressed."
+      ],
+      "hints": [
+        "Use 'although' to show concession"
+      ],
+      "points": 10,
+      "timeLimit": 30
+    },
+    {
+      "id": 24,
+      "type": "sentence-build",
+      "prompt": "You should exercise regularly. You will become unhealthy.",
+      "instructions": "Combine using 'or'",
+      "answer": "You should exercise regularly, or you will become unhealthy.",
+      "acceptedAnswers": [
+        "You should exercise regularly, or you will become unhealthy",
+        "You should exercise regularly, or you will become unhealthy.",
+        "You should exercise regularly or you will become unhealthy",
+        "You should exercise regularly or you will become unhealthy."
+      ],
+      "hints": [
+        "Use 'or' to show alternative/consequence"
+      ],
+      "points": 10,
+      "timeLimit": 30
+    },
+    {
+      "id": 25,
+      "type": "sentence-build",
+      "prompt": "Teens use social media a lot. They feel more connected.",
+      "instructions": "Combine using 'so'",
+      "answer": "Teens use social media a lot, so they feel more connected.",
+      "acceptedAnswers": [
+        "Teens use social media a lot, so they feel more connected",
+        "Teens use social media a lot, so they feel more connected.",
+        "Teens use social media a lot so they feel more connected",
+        "Teens use social media a lot so they feel more connected."
+      ],
+      "hints": [
+        "Use 'so' to show result"
+      ],
+      "points": 10,
+      "timeLimit": 30
+    },
+    {
+      "id": 26,
+      "type": "sentence-build",
+      "prompt": "The test was difficult. Everyone passed it.",
+      "instructions": "Combine using 'however'",
+      "answer": "The test was difficult; however, everyone passed it.",
+      "acceptedAnswers": [
+        "The test was difficult; however, everyone passed it",
+        "The test was difficult; however, everyone passed it.",
+        "The test was difficult. However, everyone passed it",
+        "The test was difficult. However, everyone passed it."
+      ],
+      "hints": [
+        "Use semicolon or period before 'however'"
+      ],
+      "points": 10,
+      "timeLimit": 30
+    },
+    {
+      "id": 27,
+      "type": "sentence-build",
+      "prompt": "I like swimming. My sister prefers cycling.",
+      "instructions": "Combine using 'whereas'",
+      "answer": "I like swimming, whereas my sister prefers cycling.",
+      "acceptedAnswers": [
+        "I like swimming, whereas my sister prefers cycling",
+        "I like swimming, whereas my sister prefers cycling.",
+        "I like swimming whereas my sister prefers cycling",
+        "I like swimming whereas my sister prefers cycling."
+      ],
+      "hints": [
+        "Use 'whereas' to show contrast"
+      ],
+      "points": 10,
+      "timeLimit": 30
+    },
+    {
+      "id": 28,
+      "type": "sentence-build",
+      "prompt": "She studies hard. She wants to get good grades.",
+      "instructions": "Combine using 'in order to'",
+      "answer": "She studies hard in order to get good grades.",
+      "acceptedAnswers": [
+        "She studies hard in order to get good grades",
+        "She studies hard in order to get good grades."
+      ],
+      "hints": [
+        "Use 'in order to' to show purpose"
+      ],
+      "points": 10,
+      "timeLimit": 30
+    },
+    {
+      "id": 29,
+      "type": "sentence-build",
+      "prompt": "He didn't know the answer. He didn't ask for help.",
+      "instructions": "Combine using 'yet'",
+      "answer": "He didn't know the answer, yet he didn't ask for help.",
+      "acceptedAnswers": [
+        "He didn't know the answer, yet he didn't ask for help",
+        "He didn't know the answer, yet he didn't ask for help.",
+        "He didn't know the answer yet he didn't ask for help",
+        "He didn't know the answer yet he didn't ask for help."
+      ],
+      "hints": [
+        "Use 'yet' to show unexpected result"
+      ],
+      "points": 10,
+      "timeLimit": 30
+    },
+    {
+      "id": 30,
+      "type": "sentence-build",
+      "prompt": "Stop playing games all day. You will fail your exams.",
+      "instructions": "Combine using 'otherwise'",
+      "answer": "Stop playing games all day; otherwise, you will fail your exams.",
+      "acceptedAnswers": [
+        "Stop playing games all day; otherwise, you will fail your exams",
+        "Stop playing games all day; otherwise, you will fail your exams.",
+        "Stop playing games all day. Otherwise, you will fail your exams",
+        "Stop playing games all day. Otherwise, you will fail your exams."
+      ],
+      "hints": [
+        "Use semicolon or period before 'otherwise'"
+      ],
+      "points": 10,
+      "timeLimit": 30
+    },
+    {
+      "id": 31,
+      "type": "word-rearrange",
+      "words": [
+        "doing",
+        "enjoys",
+        "puzzles",
+        "she",
+        "free",
+        "in",
+        "time",
+        "her"
+      ],
+      "acceptedAnswers": [
+        "She enjoys doing puzzles in her free time",
+        "She enjoys doing puzzles in her free time."
+      ],
+      "hints": [
+        "Subject + verb + V-ing + object"
+      ],
+      "points": 10,
+      "timeLimit": 30,
+      "correctSentence": "She enjoys doing puzzles in her free time."
+    },
+    {
+      "id": 32,
+      "type": "word-rearrange",
+      "words": [
+        "on",
+        "keen",
+        "not",
+        "I",
+        "am",
+        "shopping",
+        "going",
+        "very"
+      ],
+      "acceptedAnswers": [
+        "I am not very keen on going shopping",
+        "I am not very keen on going shopping."
+      ],
+      "hints": [
+        "be + not + very keen on + V-ing"
+      ],
+      "points": 10,
+      "timeLimit": 30,
+      "correctSentence": "I am not very keen on going shopping."
+    },
+    {
+      "id": 33,
+      "type": "word-rearrange",
+      "words": [
+        "friends",
+        "teenagers",
+        "messaging",
+        "love",
+        "their",
+        "most"
+      ],
+      "acceptedAnswers": [
+        "Most teenagers love messaging their friends",
+        "Most teenagers love messaging their friends."
+      ],
+      "hints": [
+        "Most + noun + verb + V-ing"
+      ],
+      "points": 10,
+      "timeLimit": 30,
+      "correctSentence": "Most teenagers love messaging their friends."
+    },
+    {
+      "id": 34,
+      "type": "word-rearrange",
+      "words": [
+        "DIY",
+        "interested",
+        "are",
+        "projects",
+        "in",
+        "they",
+        "doing"
+      ],
+      "acceptedAnswers": [
+        "They are interested in doing DIY projects",
+        "They are interested in doing DIY projects."
+      ],
+      "hints": [
+        "be interested in + V-ing"
+      ],
+      "points": 10,
+      "timeLimit": 30,
+      "correctSentence": "They are interested in doing DIY projects."
+    },
+    {
+      "id": 35,
+      "type": "word-rearrange",
+      "words": [
+        "computer",
+        "playing",
+        "he",
+        "games",
+        "detests",
+        "violent"
+      ],
+      "acceptedAnswers": [
+        "He detests playing violent computer games",
+        "He detests playing violent computer games."
+      ],
+      "hints": [
+        "verb + V-ing + adjective + noun"
+      ],
+      "points": 10,
+      "timeLimit": 30,
+      "correctSentence": "He detests playing violent computer games."
+    },
+    {
+      "id": 36,
+      "type": "word-rearrange",
+      "words": [
+        "social",
+        "hours",
+        "media",
+        "spend",
+        "on",
+        "teenagers",
+        "many"
+      ],
+      "acceptedAnswers": [
+        "Teenagers spend many hours on social media",
+        "Teenagers spend many hours on social media."
+      ],
+      "hints": [
+        "Subject + spend + time + on + noun"
+      ],
+      "points": 10,
+      "timeLimit": 30,
+      "correctSentence": "Teenagers spend many hours on social media."
+    },
+    {
+      "id": 37,
+      "type": "word-rearrange",
+      "words": [
+        "cooking",
+        "mother",
+        "my",
+        "fond",
+        "is",
+        "of",
+        "Italian",
+        "food"
+      ],
+      "acceptedAnswers": [
+        "My mother is fond of cooking Italian food",
+        "My mother is fond of cooking Italian food."
+      ],
+      "hints": [
+        "be fond of + V-ing + adjective + noun"
+      ],
+      "points": 10,
+      "timeLimit": 30,
+      "correctSentence": "My mother is fond of cooking Italian food."
+    },
+    {
+      "id": 38,
+      "type": "word-rearrange",
+      "words": [
+        "internet",
+        "prefer",
+        "the",
+        "surfing",
+        "to",
+        "I",
+        "reading",
+        "books"
+      ],
+      "acceptedAnswers": [
+        "I prefer surfing the internet to reading books",
+        "I prefer surfing the internet to reading books."
+      ],
+      "hints": [
+        "prefer + V-ing + to + V-ing"
+      ],
+      "points": 10,
+      "timeLimit": 30,
+      "correctSentence": "I prefer surfing the internet to reading books."
+    },
+    {
+      "id": 39,
+      "type": "word-rearrange",
+      "words": [
+        "board",
+        "crazy",
+        "games",
+        "about",
+        "are",
+        "playing",
+        "they"
+      ],
+      "acceptedAnswers": [
+        "They are crazy about playing board games",
+        "They are crazy about playing board games."
+      ],
+      "hints": [
+        "be crazy about + V-ing"
+      ],
+      "points": 10,
+      "timeLimit": 30,
+      "correctSentence": "They are crazy about playing board games."
+    },
+    {
+      "id": 40,
+      "type": "word-rearrange",
+      "words": [
+        "leisure",
+        "what",
+        "favorite",
+        "is",
+        "activity",
+        "your",
+        "?"
+      ],
+      "acceptedAnswers": [
+        "What is your favorite leisure activity",
+        "What is your favorite leisure activity?"
+      ],
+      "hints": [
+        "What + be + possessive + adjective + noun?"
+      ],
+      "points": 10,
+      "timeLimit": 30,
+      "correctSentence": "What is your favorite leisure activity?"
+    },
+    {
+      "id": 41,
+      "type": "word-rearrange",
+      "words": [
+        "harder",
+        "countryside",
+        "work",
+        "people",
+        "city",
+        "than",
+        "people",
+        "in",
+        "the"
+      ],
+      "acceptedAnswers": [
+        "People in the countryside work harder than city people",
+        "People in the countryside work harder than city people."
+      ],
+      "hints": [
+        "Subject + verb + comparative adverb + than"
+      ],
+      "points": 10,
+      "timeLimit": 30,
+      "correctSentence": "People in the countryside work harder than city people."
+    },
+    {
+      "id": 42,
+      "type": "word-rearrange",
+      "words": [
+        "earlier",
+        "farmers",
+        "workers",
+        "get",
+        "than",
+        "up",
+        "office"
+      ],
+      "acceptedAnswers": [
+        "Farmers get up earlier than office workers",
+        "Farmers get up earlier than office workers."
+      ],
+      "hints": [
+        "Subject + verb + comparative adverb + than"
+      ],
+      "points": 10,
+      "timeLimit": 30,
+      "correctSentence": "Farmers get up earlier than office workers."
+    },
+    {
+      "id": 43,
+      "type": "word-rearrange",
+      "words": [
+        "peacefully",
+        "more",
+        "countryside",
+        "people",
+        "live",
+        "the",
+        "in"
+      ],
+      "acceptedAnswers": [
+        "People in the countryside live more peacefully",
+        "People in the countryside live more peacefully."
+      ],
+      "hints": [
+        "Subject + verb + more + adverb"
+      ],
+      "points": 10,
+      "timeLimit": 30,
+      "correctSentence": "People in the countryside live more peacefully."
+    },
+    {
+      "id": 44,
+      "type": "word-rearrange",
+      "words": [
+        "slowly",
+        "rural",
+        "areas",
+        "develop",
+        "than",
+        "more",
+        "cities"
+      ],
+      "acceptedAnswers": [
+        "Rural areas develop more slowly than cities",
+        "Rural areas develop more slowly than cities."
+      ],
+      "hints": [
+        "Subject + verb + more + adverb + than"
+      ],
+      "points": 10,
+      "timeLimit": 30,
+      "correctSentence": "Rural areas develop more slowly than cities."
+    },
+    {
+      "id": 45,
+      "type": "word-rearrange",
+      "words": [
+        "fresher",
+        "countryside",
+        "air",
+        "has",
+        "the",
+        "city",
+        "than",
+        "the"
+      ],
+      "acceptedAnswers": [
+        "The countryside has fresher air than the city",
+        "The countryside has fresher air than the city."
+      ],
+      "hints": [
+        "Subject + verb + comparative adjective + noun + than"
+      ],
+      "points": 10,
+      "timeLimit": 30,
+      "correctSentence": "The countryside has fresher air than the city."
+    },
+    {
+      "id": 46,
+      "type": "word-rearrange",
+      "words": [
+        "happily",
+        "villagers",
+        "city",
+        "live",
+        "more",
+        "than",
+        "dwellers"
+      ],
+      "acceptedAnswers": [
+        "Villagers live more happily than city dwellers",
+        "Villagers live more happily than city dwellers."
+      ],
+      "hints": [
+        "Subject + verb + more + adverb + than"
+      ],
+      "points": 10,
+      "timeLimit": 30,
+      "correctSentence": "Villagers live more happily than city dwellers."
+    },
+    {
+      "id": 47,
+      "type": "word-rearrange",
+      "words": [
+        "buffaloes",
+        "slowly",
+        "horses",
+        "more",
+        "run",
+        "than"
+      ],
+      "acceptedAnswers": [
+        "Buffaloes run more slowly than horses",
+        "Buffaloes run more slowly than horses."
+      ],
+      "hints": [
+        "Subject + verb + more + adverb + than"
+      ],
+      "points": 10,
+      "timeLimit": 30,
+      "correctSentence": "Buffaloes run more slowly than horses."
+    },
+    {
+      "id": 48,
+      "type": "word-rearrange",
+      "words": [
+        "carefully",
+        "countryside",
+        "people",
+        "money",
+        "more",
+        "spend",
+        "in",
+        "the"
+      ],
+      "acceptedAnswers": [
+        "People in the countryside spend money more carefully",
+        "People in the countryside spend money more carefully."
+      ],
+      "hints": [
+        "Subject + verb + object + more + adverb"
+      ],
+      "points": 10,
+      "timeLimit": 30,
+      "correctSentence": "People in the countryside spend money more carefully."
+    },
+    {
+      "id": 49,
+      "type": "word-rearrange",
+      "words": [
+        "quickly",
+        "children",
+        "technology",
+        "adapt",
+        "to",
+        "more",
+        "adults",
+        "than"
+      ],
+      "acceptedAnswers": [
+        "Children adapt to technology more quickly than adults",
+        "Children adapt to technology more quickly than adults."
+      ],
+      "hints": [
+        "Subject + verb + to + object + more + adverb + than"
+      ],
+      "points": 10,
+      "timeLimit": 30,
+      "correctSentence": "Children adapt to technology more quickly than adults."
+    },
+    {
+      "id": 50,
+      "type": "word-rearrange",
+      "words": [
+        "heavily",
+        "city",
+        "rains",
+        "the",
+        "it",
+        "in",
+        "more",
+        "winter",
+        "in"
+      ],
+      "acceptedAnswers": [
+        "It rains more heavily in the city in winter",
+        "It rains more heavily in the city in winter."
+      ],
+      "hints": [
+        "It + verb + more + adverb + in + place + in + time"
+      ],
+      "points": 10,
+      "timeLimit": 30,
+      "correctSentence": "It rains more heavily in the city in winter."
+    },
+    {
+      "id": 51,
+      "type": "word-rearrange",
+      "words": [
+        "peer",
+        "teenagers",
+        "pressure",
+        "feel",
+        "often",
+        "from",
+        "friends"
+      ],
+      "acceptedAnswers": [
+        "Teenagers often feel pressure from peer friends",
+        "Teenagers often feel pressure from peer friends.",
+        "Teenagers often feel peer pressure from friends",
+        "Teenagers often feel peer pressure from friends."
+      ],
+      "hints": [
+        "Subject + adverb + verb + noun + from + noun"
+      ],
+      "points": 10,
+      "timeLimit": 30,
+      "correctSentence": "Teenagers often feel pressure from peer friends."
+    },
+    {
+      "id": 52,
+      "type": "word-rearrange",
+      "words": [
+        "stressed",
+        "feel",
+        "they",
+        "exams",
+        "because",
+        "have",
+        "teens",
+        "many"
+      ],
+      "acceptedAnswers": [
+        "Teens feel stressed because they have many exams",
+        "Teens feel stressed because they have many exams."
+      ],
+      "hints": [
+        "Subject + verb + adjective + because + clause"
+      ],
+      "points": 10,
+      "timeLimit": 30,
+      "correctSentence": "Teens feel stressed because they have many exams."
+    },
+    {
+      "id": 53,
+      "type": "word-rearrange",
+      "words": [
+        "school",
+        "participate",
+        "should",
+        "in",
+        "students",
+        "clubs"
+      ],
+      "acceptedAnswers": [
+        "Students should participate in school clubs",
+        "Students should participate in school clubs."
+      ],
+      "hints": [
+        "Subject + should + verb + in + noun"
+      ],
+      "points": 10,
+      "timeLimit": 30,
+      "correctSentence": "Students should participate in school clubs."
+    },
+    {
+      "id": 54,
+      "type": "word-rearrange",
+      "words": [
+        "bullies",
+        "know",
+        "to",
+        "don't",
+        "how",
+        "avoid",
+        "they"
+      ],
+      "acceptedAnswers": [
+        "They don't know how to avoid bullies",
+        "They don't know how to avoid bullies.",
+        "They do not know how to avoid bullies",
+        "They do not know how to avoid bullies."
+      ],
+      "hints": [
+        "Subject + verb + question word + to-infinitive"
+      ],
+      "points": 10,
+      "timeLimit": 30,
+      "correctSentence": "They don't know how to avoid bullies."
+    },
+    {
+      "id": 55,
+      "type": "word-rearrange",
+      "words": [
+        "parents",
+        "problems",
+        "their",
+        "with",
+        "share",
+        "should",
+        "teenagers"
+      ],
+      "acceptedAnswers": [
+        "Teenagers should share their problems with parents",
+        "Teenagers should share their problems with parents."
+      ],
+      "hints": [
+        "Subject + should + verb + possessive + noun + with + noun"
+      ],
+      "points": 10,
+      "timeLimit": 30,
+      "correctSentence": "Teenagers should share their problems with parents."
+    },
+    {
+      "id": 56,
+      "type": "word-rearrange",
+      "words": [
+        "social",
+        "too",
+        "media",
+        "much",
+        "use",
+        "shouldn't",
+        "teens"
+      ],
+      "acceptedAnswers": [
+        "Teens shouldn't use social media too much",
+        "Teens shouldn't use social media too much.",
+        "Teens should not use social media too much",
+        "Teens should not use social media too much."
+      ],
+      "hints": [
+        "Subject + shouldn't + verb + noun + adverb"
+      ],
+      "points": 10,
+      "timeLimit": 30,
+      "correctSentence": "Teens shouldn't use social media too much."
+    },
+    {
+      "id": 57,
+      "type": "word-rearrange",
+      "words": [
+        "friends",
+        "new",
+        "joining",
+        "helps",
+        "clubs",
+        "make",
+        "students"
+      ],
+      "acceptedAnswers": [
+        "Joining clubs helps students make new friends",
+        "Joining clubs helps students make new friends."
+      ],
+      "hints": [
+        "V-ing subject + verb + object + verb + noun"
+      ],
+      "points": 10,
+      "timeLimit": 30,
+      "correctSentence": "Joining clubs helps students make new friends."
+    },
+    {
+      "id": 58,
+      "type": "word-rearrange",
+      "words": [
+        "group",
+        "to",
+        "want",
+        "fit",
+        "teenagers",
+        "in",
+        "a",
+        "often"
+      ],
+      "acceptedAnswers": [
+        "Teenagers often want to fit in a group",
+        "Teenagers often want to fit in a group."
+      ],
+      "hints": [
+        "Subject + adverb + verb + to-infinitive + in + noun"
+      ],
+      "points": 10,
+      "timeLimit": 30,
+      "correctSentence": "Teenagers often want to fit in a group."
+    },
+    {
+      "id": 59,
+      "type": "word-rearrange",
+      "words": [
+        "enough",
+        "confident",
+        "competitions",
+        "to",
+        "she",
+        "enter",
+        "is"
+      ],
+      "acceptedAnswers": [
+        "She is confident enough to enter competitions",
+        "She is confident enough to enter competitions."
+      ],
+      "hints": [
+        "Subject + be + adjective + enough + to-infinitive"
+      ],
+      "points": 10,
+      "timeLimit": 30,
+      "correctSentence": "She is confident enough to enter competitions."
+    },
+    {
+      "id": 60,
+      "type": "word-rearrange",
+      "words": [
+        "stress",
+        "exercise",
+        "with",
+        "helps",
+        "regular",
+        "deal",
+        "teenagers"
+      ],
+      "acceptedAnswers": [
+        "Regular exercise helps teenagers deal with stress",
+        "Regular exercise helps teenagers deal with stress."
+      ],
+      "hints": [
+        "Adjective + noun + verb + object + verb + with + noun"
+      ],
+      "points": 10,
+      "timeLimit": 30,
+      "correctSentence": "Regular exercise helps teenagers deal with stress."
+    },
+    {
+      "id": 61,
+      "type": "sentence-build",
+      "prompt": "She / enjoy / play / piano / after / school",
+      "instructions": "Write a complete sentence",
+      "answer": "She enjoys playing the piano after school.",
+      "acceptedAnswers": [
+        "She enjoys playing the piano after school",
+        "She enjoys playing the piano after school.",
+        "She enjoys playing piano after school",
+        "She enjoys playing piano after school."
+      ],
+      "hints": [
+        "enjoy + V-ing"
+      ],
+      "points": 10,
+      "timeLimit": 30
+    },
+    {
+      "id": 62,
+      "type": "sentence-build",
+      "prompt": "They / love / do / puzzles / together",
+      "instructions": "Write a complete sentence",
+      "answer": "They love doing puzzles together.",
+      "acceptedAnswers": [
+        "They love doing puzzles together",
+        "They love doing puzzles together."
+      ],
+      "hints": [
+        "love + V-ing"
+      ],
+      "points": 10,
+      "timeLimit": 30
+    },
+    {
+      "id": 63,
+      "type": "sentence-build",
+      "prompt": "I / not / keen / go / shopping / weekends",
+      "instructions": "Write a complete sentence",
+      "answer": "I am not keen on going shopping on weekends.",
+      "acceptedAnswers": [
+        "I am not keen on going shopping on weekends",
+        "I am not keen on going shopping on weekends.",
+        "I'm not keen on going shopping on weekends",
+        "I'm not keen on going shopping on weekends."
+      ],
+      "hints": [
+        "be not keen on + V-ing"
+      ],
+      "points": 10,
+      "timeLimit": 30
+    },
+    {
+      "id": 64,
+      "type": "sentence-build",
+      "prompt": "He / fond / surf / internet / free time",
+      "instructions": "Write a complete sentence",
+      "answer": "He is fond of surfing the internet in his free time.",
+      "acceptedAnswers": [
+        "He is fond of surfing the internet in his free time",
+        "He is fond of surfing the internet in his free time.",
+        "He's fond of surfing the internet in his free time",
+        "He's fond of surfing the internet in his free time."
+      ],
+      "hints": [
+        "be fond of + V-ing"
+      ],
+      "points": 10,
+      "timeLimit": 30
+    },
+    {
+      "id": 65,
+      "type": "sentence-build",
+      "prompt": "We / interested / learn / new / languages",
+      "instructions": "Write a complete sentence",
+      "answer": "We are interested in learning new languages.",
+      "acceptedAnswers": [
+        "We are interested in learning new languages",
+        "We are interested in learning new languages.",
+        "We're interested in learning new languages",
+        "We're interested in learning new languages."
+      ],
+      "hints": [
+        "be interested in + V-ing"
+      ],
+      "points": 10,
+      "timeLimit": 30
+    },
+    {
+      "id": 66,
+      "type": "sentence-build",
+      "prompt": "My sister / crazy / watch / Korean / dramas",
+      "instructions": "Write a complete sentence",
+      "answer": "My sister is crazy about watching Korean dramas.",
+      "acceptedAnswers": [
+        "My sister is crazy about watching Korean dramas",
+        "My sister is crazy about watching Korean dramas.",
+        "My sister's crazy about watching Korean dramas",
+        "My sister's crazy about watching Korean dramas."
+      ],
+      "hints": [
+        "be crazy about + V-ing"
+      ],
+      "points": 10,
+      "timeLimit": 30
+    },
+    {
+      "id": 67,
+      "type": "sentence-build",
+      "prompt": "They / detest / get up / early / morning",
+      "instructions": "Write a complete sentence",
+      "answer": "They detest getting up early in the morning.",
+      "acceptedAnswers": [
+        "They detest getting up early in the morning",
+        "They detest getting up early in the morning."
+      ],
+      "hints": [
+        "detest + V-ing"
+      ],
+      "points": 10,
+      "timeLimit": 30
+    },
+    {
+      "id": 68,
+      "type": "sentence-build",
+      "prompt": "I / prefer / message / friends / call / them",
+      "instructions": "Write a complete sentence",
+      "answer": "I prefer messaging friends to calling them.",
+      "acceptedAnswers": [
+        "I prefer messaging friends to calling them",
+        "I prefer messaging friends to calling them.",
+        "I prefer messaging my friends to calling them",
+        "I prefer messaging my friends to calling them."
+      ],
+      "hints": [
+        "prefer + V-ing + to + V-ing"
+      ],
+      "points": 10,
+      "timeLimit": 30
+    },
+    {
+      "id": 69,
+      "type": "sentence-build",
+      "prompt": "Students / hate / do / homework / holidays",
+      "instructions": "Write a complete sentence",
+      "answer": "Students hate doing homework on holidays.",
+      "acceptedAnswers": [
+        "Students hate doing homework on holidays",
+        "Students hate doing homework on holidays."
+      ],
+      "hints": [
+        "hate + V-ing"
+      ],
+      "points": 10,
+      "timeLimit": 30
+    },
+    {
+      "id": 70,
+      "type": "sentence-build",
+      "prompt": "She / not / into / play / computer / games",
+      "instructions": "Write a complete sentence",
+      "answer": "She is not into playing computer games.",
+      "acceptedAnswers": [
+        "She is not into playing computer games",
+        "She is not into playing computer games.",
+        "She isn't into playing computer games",
+        "She isn't into playing computer games.",
+        "She's not into playing computer games",
+        "She's not into playing computer games."
+      ],
+      "hints": [
+        "be not into + V-ing"
+      ],
+      "points": 10,
+      "timeLimit": 30
+    },
+    {
+      "id": 71,
+      "type": "sentence-build",
+      "prompt": "Farmers / work / hard / than / office / workers",
+      "instructions": "Write a complete sentence",
+      "answer": "Farmers work harder than office workers.",
+      "acceptedAnswers": [
+        "Farmers work harder than office workers",
+        "Farmers work harder than office workers."
+      ],
+      "hints": [
+        "comparative adverb + than"
+      ],
+      "points": 10,
+      "timeLimit": 30
+    },
+    {
+      "id": 72,
+      "type": "sentence-build",
+      "prompt": "Children / rural areas / get up / early / urban children",
+      "instructions": "Write a complete sentence using comparative",
+      "answer": "Children in rural areas get up earlier than urban children.",
+      "acceptedAnswers": [
+        "Children in rural areas get up earlier than urban children",
+        "Children in rural areas get up earlier than urban children."
+      ],
+      "hints": [
+        "earlier than"
+      ],
+      "points": 10,
+      "timeLimit": 30
+    },
+    {
+      "id": 73,
+      "type": "sentence-build",
+      "prompt": "Life / countryside / peaceful / than / city",
+      "instructions": "Write a complete sentence using comparative",
+      "answer": "Life in the countryside is more peaceful than in the city.",
+      "acceptedAnswers": [
+        "Life in the countryside is more peaceful than in the city",
+        "Life in the countryside is more peaceful than in the city.",
+        "Life in the countryside is more peaceful than the city",
+        "Life in the countryside is more peaceful than the city."
+      ],
+      "hints": [
+        "more peaceful than"
+      ],
+      "points": 10,
+      "timeLimit": 30
+    },
+    {
+      "id": 74,
+      "type": "sentence-build",
+      "prompt": "People / cities / adapt / quick / changes / than / villagers",
+      "instructions": "Write a complete sentence using comparative",
+      "answer": "People in cities adapt to changes more quickly than villagers.",
+      "acceptedAnswers": [
+        "People in cities adapt to changes more quickly than villagers",
+        "People in cities adapt to changes more quickly than villagers."
+      ],
+      "hints": [
+        "more quickly than"
+      ],
+      "points": 10,
+      "timeLimit": 30
+    },
+    {
+      "id": 75,
+      "type": "sentence-build",
+      "prompt": "My mother / cook / skillful / than / my sister",
+      "instructions": "Write a complete sentence using comparative",
+      "answer": "My mother cooks more skillfully than my sister.",
+      "acceptedAnswers": [
+        "My mother cooks more skillfully than my sister",
+        "My mother cooks more skillfully than my sister."
+      ],
+      "hints": [
+        "more skillfully than"
+      ],
+      "points": 10,
+      "timeLimit": 30
+    },
+    {
+      "id": 76,
+      "type": "sentence-build",
+      "prompt": "Horses / run / fast / buffaloes",
+      "instructions": "Write a complete sentence using comparative",
+      "answer": "Horses run faster than buffaloes.",
+      "acceptedAnswers": [
+        "Horses run faster than buffaloes",
+        "Horses run faster than buffaloes."
+      ],
+      "hints": [
+        "faster than"
+      ],
+      "points": 10,
+      "timeLimit": 30
+    },
+    {
+      "id": 77,
+      "type": "sentence-build",
+      "prompt": "Students / city / study / serious / than / rural students",
+      "instructions": "Write a complete sentence using comparative",
+      "answer": "Students in the city study more seriously than rural students.",
+      "acceptedAnswers": [
+        "Students in the city study more seriously than rural students",
+        "Students in the city study more seriously than rural students."
+      ],
+      "hints": [
+        "more seriously than"
+      ],
+      "points": 10,
+      "timeLimit": 30
+    },
+    {
+      "id": 78,
+      "type": "sentence-build",
+      "prompt": "It / rain / heavy / mountains / than / plains",
+      "instructions": "Write a complete sentence using comparative",
+      "answer": "It rains more heavily in the mountains than in the plains.",
+      "acceptedAnswers": [
+        "It rains more heavily in the mountains than in the plains",
+        "It rains more heavily in the mountains than in the plains.",
+        "It rains more heavily in the mountains than the plains",
+        "It rains more heavily in the mountains than the plains."
+      ],
+      "hints": [
+        "more heavily than"
+      ],
+      "points": 10,
+      "timeLimit": 30
+    },
+    {
+      "id": 79,
+      "type": "sentence-build",
+      "prompt": "Teenagers / learn / technology / quick / than / parents",
+      "instructions": "Write a complete sentence using comparative",
+      "answer": "Teenagers learn technology more quickly than their parents.",
+      "acceptedAnswers": [
+        "Teenagers learn technology more quickly than their parents",
+        "Teenagers learn technology more quickly than their parents.",
+        "Teenagers learn technology more quickly than parents",
+        "Teenagers learn technology more quickly than parents."
+      ],
+      "hints": [
+        "more quickly than"
+      ],
+      "points": 10,
+      "timeLimit": 30
+    },
+    {
+      "id": 80,
+      "type": "sentence-build",
+      "prompt": "People / countryside / live / happy / city people",
+      "instructions": "Write a complete sentence using comparative",
+      "answer": "People in the countryside live more happily than city people.",
+      "acceptedAnswers": [
+        "People in the countryside live more happily than city people",
+        "People in the countryside live more happily than city people."
+      ],
+      "hints": [
+        "more happily than"
+      ],
+      "points": 10,
+      "timeLimit": 30
+    },
+    {
+      "id": 81,
+      "type": "sentence-build",
+      "prompt": "She / feel / stressed / so / she / talk / counselor",
+      "instructions": "Write a complete sentence using 'so'",
+      "answer": "She feels stressed, so she talks to a counselor.",
+      "acceptedAnswers": [
+        "She feels stressed, so she talks to a counselor",
+        "She feels stressed, so she talks to a counselor.",
+        "She feels stressed so she talks to a counselor",
+        "She feels stressed so she talks to a counselor."
+      ],
+      "hints": [
+        "Use 'so' to connect cause and result"
+      ],
+      "points": 10,
+      "timeLimit": 30
+    },
+    {
+      "id": 82,
+      "type": "sentence-build",
+      "prompt": "He / study / hard / but / he / still / fail / test",
+      "instructions": "Write a complete sentence using 'but'",
+      "answer": "He studied hard, but he still failed the test.",
+      "acceptedAnswers": [
+        "He studied hard, but he still failed the test",
+        "He studied hard, but he still failed the test.",
+        "He studied hard but he still failed the test",
+        "He studied hard but he still failed the test."
+      ],
+      "hints": [
+        "Use past tense for both verbs"
+      ],
+      "points": 10,
+      "timeLimit": 30
+    },
+    {
+      "id": 83,
+      "type": "sentence-build",
+      "prompt": "They / join / club / because / they / want / make / friends",
+      "instructions": "Write a complete sentence using 'because'",
+      "answer": "They joined the club because they wanted to make friends.",
+      "acceptedAnswers": [
+        "They joined the club because they wanted to make friends",
+        "They joined the club because they wanted to make friends.",
+        "They join the club because they want to make friends",
+        "They join the club because they want to make friends."
+      ],
+      "hints": [
+        "Use past tense or present tense consistently"
+      ],
+      "points": 10,
+      "timeLimit": 30
+    },
+    {
+      "id": 84,
+      "type": "sentence-build",
+      "prompt": "I / like / swimming / and / my brother / like / cycling",
+      "instructions": "Write a complete sentence using 'and'",
+      "answer": "I like swimming, and my brother likes cycling.",
+      "acceptedAnswers": [
+        "I like swimming, and my brother likes cycling",
+        "I like swimming, and my brother likes cycling.",
+        "I like swimming and my brother likes cycling",
+        "I like swimming and my brother likes cycling."
+      ],
+      "hints": [
+        "Don't forget 's' for third person singular"
+      ],
+      "points": 10,
+      "timeLimit": 30
+    },
+    {
+      "id": 85,
+      "type": "sentence-build",
+      "prompt": "You / should / exercise / or / you / become / unhealthy",
+      "instructions": "Write a complete sentence using 'or'",
+      "answer": "You should exercise, or you will become unhealthy.",
+      "acceptedAnswers": [
+        "You should exercise, or you will become unhealthy",
+        "You should exercise, or you will become unhealthy.",
+        "You should exercise or you will become unhealthy",
+        "You should exercise or you will become unhealthy."
+      ],
+      "hints": [
+        "Use 'will' for future consequence"
+      ],
+      "points": 10,
+      "timeLimit": 30
+    },
+    {
+      "id": 86,
+      "type": "sentence-build",
+      "prompt": "Teens / use / social media / however / they / limit / time",
+      "instructions": "Write a complete sentence using 'however'",
+      "answer": "Teens use social media; however, they should limit their time.",
+      "acceptedAnswers": [
+        "Teens use social media; however, they should limit their time",
+        "Teens use social media; however, they should limit their time.",
+        "Teens use social media. However, they should limit their time",
+        "Teens use social media. However, they should limit their time."
+      ],
+      "hints": [
+        "Use semicolon or period before 'however'"
+      ],
+      "points": 10,
+      "timeLimit": 30
+    },
+    {
+      "id": 87,
+      "type": "sentence-build",
+      "prompt": "She / tired / although / she / continue / work",
+      "instructions": "Write a complete sentence using 'although'",
+      "answer": "She was tired, although she continued to work.",
+      "acceptedAnswers": [
+        "She was tired, although she continued to work",
+        "She was tired, although she continued to work.",
+        "Although she was tired, she continued to work",
+        "Although she was tired, she continued to work."
+      ],
+      "hints": [
+        "Use past tense for both verbs"
+      ],
+      "points": 10,
+      "timeLimit": 30
+    },
+    {
+      "id": 88,
+      "type": "sentence-build",
+      "prompt": "We / play / sports / therefore / we / stay / fit",
+      "instructions": "Write a complete sentence using 'therefore'",
+      "answer": "We play sports; therefore, we stay fit.",
+      "acceptedAnswers": [
+        "We play sports; therefore, we stay fit",
+        "We play sports; therefore, we stay fit.",
+        "We play sports. Therefore, we stay fit",
+        "We play sports. Therefore, we stay fit."
+      ],
+      "hints": [
+        "Use semicolon or period before 'therefore'"
+      ],
+      "points": 10,
+      "timeLimit": 30
+    },
+    {
+      "id": 89,
+      "type": "sentence-build",
+      "prompt": "He / not / know / answer / yet / he / not / ask / help",
+      "instructions": "Write a complete sentence using 'yet'",
+      "answer": "He did not know the answer, yet he did not ask for help.",
+      "acceptedAnswers": [
+        "He did not know the answer, yet he did not ask for help",
+        "He did not know the answer, yet he did not ask for help.",
+        "He didn't know the answer, yet he didn't ask for help",
+        "He didn't know the answer, yet he didn't ask for help."
+      ],
+      "hints": [
+        "Use past tense for both verbs"
+      ],
+      "points": 10,
+      "timeLimit": 30
+    },
+    {
+      "id": 90,
+      "type": "sentence-build",
+      "prompt": "Study / hard / otherwise / you / not / pass / exam",
+      "instructions": "Write a complete sentence using 'otherwise'",
+      "answer": "Study hard; otherwise, you will not pass the exam.",
+      "acceptedAnswers": [
+        "Study hard; otherwise, you will not pass the exam",
+        "Study hard; otherwise, you will not pass the exam.",
+        "Study hard. Otherwise, you will not pass the exam",
+        "Study hard. Otherwise, you will not pass the exam.",
+        "Study hard; otherwise, you won't pass the exam",
+        "Study hard; otherwise, you won't pass the exam."
+      ],
+      "hints": [
+        "Start with imperative, use semicolon before 'otherwise'"
+      ],
+      "points": 10,
+      "timeLimit": 30
+    },
+    {
+      "id": 91,
+      "type": "sentence-build",
+      "prompt": "Although / countryside / quiet / some people / find / boring",
+      "instructions": "Write a complete sentence",
+      "answer": "Although the countryside is quiet, some people find it boring.",
+      "acceptedAnswers": [
+        "Although the countryside is quiet, some people find it boring",
+        "Although the countryside is quiet, some people find it boring."
+      ],
+      "hints": [
+        "Although + clause, main clause"
+      ],
+      "points": 10,
+      "timeLimit": 30
+    },
+    {
+      "id": 92,
+      "type": "sentence-build",
+      "prompt": "The more / teens / use / phones / the less / they / sleep",
+      "instructions": "Write a complete sentence",
+      "answer": "The more teens use phones, the less they sleep.",
+      "acceptedAnswers": [
+        "The more teens use phones, the less they sleep",
+        "The more teens use phones, the less they sleep."
+      ],
+      "hints": [
+        "The more..., the less..."
+      ],
+      "points": 10,
+      "timeLimit": 30
+    },
+    {
+      "id": 93,
+      "type": "sentence-build",
+      "prompt": "Not only / he / play / guitar / but also / sing / well",
+      "instructions": "Write a complete sentence",
+      "answer": "Not only does he play guitar, but he also sings well.",
+      "acceptedAnswers": [
+        "Not only does he play guitar, but he also sings well",
+        "Not only does he play guitar, but he also sings well.",
+        "Not only does he play the guitar, but he also sings well",
+        "Not only does he play the guitar, but he also sings well."
+      ],
+      "hints": [
+        "Not only + auxiliary + subject + verb"
+      ],
+      "points": 10,
+      "timeLimit": 30
+    },
+    {
+      "id": 94,
+      "type": "sentence-build",
+      "prompt": "If / you / not / sleep / enough / you / feel / tired",
+      "instructions": "Write a complete sentence",
+      "answer": "If you don't sleep enough, you will feel tired.",
+      "acceptedAnswers": [
+        "If you don't sleep enough, you will feel tired",
+        "If you don't sleep enough, you will feel tired.",
+        "If you do not sleep enough, you will feel tired",
+        "If you do not sleep enough, you will feel tired."
+      ],
+      "hints": [
+        "If + present simple, will + verb"
+      ],
+      "points": 10,
+      "timeLimit": 30
+    },
+    {
+      "id": 95,
+      "type": "sentence-build",
+      "prompt": "When / students / stress / they / should / talk / someone",
+      "instructions": "Write a complete sentence",
+      "answer": "When students feel stressed, they should talk to someone.",
+      "acceptedAnswers": [
+        "When students feel stressed, they should talk to someone",
+        "When students feel stressed, they should talk to someone.",
+        "When students are stressed, they should talk to someone",
+        "When students are stressed, they should talk to someone."
+      ],
+      "hints": [
+        "When + clause, main clause"
+      ],
+      "points": 10,
+      "timeLimit": 30
+    },
+    {
+      "id": 96,
+      "type": "sentence-build",
+      "prompt": "Neither / Tom / nor / Mary / interested / join / drama club",
+      "instructions": "Write a complete sentence",
+      "answer": "Neither Tom nor Mary is interested in joining the drama club.",
+      "acceptedAnswers": [
+        "Neither Tom nor Mary is interested in joining the drama club",
+        "Neither Tom nor Mary is interested in joining the drama club."
+      ],
+      "hints": [
+        "Neither...nor uses singular verb"
+      ],
+      "points": 10,
+      "timeLimit": 30
+    },
+    {
+      "id": 97,
+      "type": "sentence-build",
+      "prompt": "Because / have / much / homework / students / feel / pressure",
+      "instructions": "Write a complete sentence",
+      "answer": "Because they have so much homework, students feel pressure.",
+      "acceptedAnswers": [
+        "Because they have so much homework, students feel pressure",
+        "Because they have so much homework, students feel pressure.",
+        "Students feel pressure because they have so much homework",
+        "Students feel pressure because they have so much homework."
+      ],
+      "hints": [
+        "Because + clause, main clause"
+      ],
+      "points": 10,
+      "timeLimit": 30
+    },
+    {
+      "id": 98,
+      "type": "sentence-build",
+      "prompt": "In order / keep fit / teenagers / should / exercise / regular",
+      "instructions": "Write a complete sentence",
+      "answer": "In order to keep fit, teenagers should exercise regularly.",
+      "acceptedAnswers": [
+        "In order to keep fit, teenagers should exercise regularly",
+        "In order to keep fit, teenagers should exercise regularly."
+      ],
+      "hints": [
+        "In order to + verb, main clause"
+      ],
+      "points": 10,
+      "timeLimit": 30
+    },
+    {
+      "id": 99,
+      "type": "sentence-build",
+      "prompt": "Even though / difficult / she / not / give up",
+      "instructions": "Write a complete sentence",
+      "answer": "Even though it was difficult, she did not give up.",
+      "acceptedAnswers": [
+        "Even though it was difficult, she did not give up",
+        "Even though it was difficult, she did not give up.",
+        "Even though it was difficult, she didn't give up",
+        "Even though it was difficult, she didn't give up."
+      ],
+      "hints": [
+        "Even though + clause, main clause"
+      ],
+      "points": 10,
+      "timeLimit": 30
+    },
+    {
+      "id": 100,
+      "type": "sentence-build",
+      "prompt": "Both / parents / teachers / should / understand / teenage / problems",
+      "instructions": "Write a complete sentence",
+      "answer": "Both parents and teachers should understand teenage problems.",
+      "acceptedAnswers": [
+        "Both parents and teachers should understand teenage problems",
+        "Both parents and teachers should understand teenage problems."
+      ],
+      "hints": [
+        "Both...and uses plural verb"
+      ],
+      "points": 10,
+      "timeLimit": 30
+    }
+  ]
+}

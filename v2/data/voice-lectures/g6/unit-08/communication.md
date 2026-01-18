@@ -4,11 +4,11 @@
 
 <!-- chunk: intro -->
 <teacher_script pause="0">
-Chào mấy đứa. Bài <eng>Communication</eng> nha. Mở sách trang 21 đi.
+Chào các em. Mời các em mở sách giáo khoa trang 21. Bài học hôm nay là <eng>Communication</eng>.
 </teacher_script>
 
 <teacher_script pause="0">
-Hôm nay học giao tiếp về chủ đề: Chúc mừng <eng>Congratulations</eng> và hỏi đáp về thể thao.
+Hôm nay chúng ta sẽ học về cách chúc mừng - <eng>Congratulations</eng> và cách hỏi đáp về chủ đề thể thao nhé.
 </teacher_script>
 
 ---
@@ -33,11 +33,11 @@ Hôm nay học giao tiếp về chủ đề: Chúc mừng <eng>Congratulations</
 </grammar>
 
 <teacher_script pause="0">
-Cấu trúc đơn giản thôi. Ai thắng được gì thì nói <eng>Congratulations!</eng> - Chúc mừng bạn! Người ta sẽ đáp lại <eng>Thank you!</eng>
+Cấu trúc rất đơn giản. Khi ai đó đạt được thành tích gì, chúng ta nói <eng>Congratulations!</eng> để chúc mừng. Người được chúc mừng sẽ đáp lại bằng <eng>Thank you!</eng>
 </teacher_script>
 
 <teacher_script pause="30">
-Ghi cấu trúc vô tập. 30 giây nha.
+Các em hãy ghi lại các cấu trúc này vào vở nhé. Các em có 30 giây.
 </teacher_script>
 
 ---
@@ -46,7 +46,7 @@ Ghi cấu trúc vô tập. 30 giây nha.
 ### Bài 1 trang 21 - Listen and read
 
 <teacher_script pause="0">
-Bài 1 <eng>Listen and read the short conversation</eng>. Nghe và đọc hội thoại ngắn, chú ý phần được làm nổi bật.
+Chúng ta cùng làm Bài 1 <eng>Listen and read the short conversation</eng>. Các em hãy nghe và đọc đoạn hội thoại ngắn, chú ý những phần được làm nổi bật nhé.
 </teacher_script>
 
 <audio src="https://img.loigiaihay.com/picture/2021/1104/u8-communication-ex1.mp3">
@@ -63,7 +63,7 @@ Bài 1 <eng>Listen and read the short conversation</eng>. Nghe và đọc hội 
 </dialogue>
 
 <teacher_script pause="0">
-Dương thắng trận bóng bàn, Mai chúc mừng: <eng>Congratulations!</eng> Dương đáp lại: <eng>Thank you!</eng> Đơn giản vậy thôi.
+Trong đoạn hội thoại, khi Dương thông báo đã thắng trận bóng bàn, Mai nói: <eng>Congratulations!</eng>. Sau đó Dương đáp lại: <eng>Thank you, Mai.</eng>
 </teacher_script>
 
 ---
@@ -72,7 +72,7 @@ Dương thắng trận bóng bàn, Mai chúc mừng: <eng>Congratulations!</eng>
 ### Bài 2 trang 21 - Work in pairs
 
 <teacher_script pause="0">
-Bài 2 <eng>Work in pairs</eng>. Tạo hội thoại tương tự. Một bạn thắng cuộc thi, bạn kia chúc mừng.
+Chúng ta cùng làm Bài 2 <eng>Work in pairs</eng>. Các em hãy tạo một đoạn hội thoại tương tự. Một bạn đóng vai người chiến thắng một cuộc thi, bạn còn lại sẽ chúc mừng nhé.
 </teacher_script>
 
 <task>
@@ -93,11 +93,11 @@ Bài 2 <eng>Work in pairs</eng>. Tạo hội thoại tương tự. Một bạn t
 </dialogue>
 
 <teacher_script pause="60">
-Viết hội thoại của mình vô tập. 1 phút nha.
+Các em hãy viết hội thoại của mình vào vở. Các em có 1 phút.
 </teacher_script>
 
 <teacher_script pause="0" action="record">
-Bấm nút Ghi âm để đọc hội thoại và gửi cho thầy.
+Các em hãy bấm nút Ghi âm để thực hành đoạn hội thoại và gửi cho thầy nhé.
 </teacher_script>
 
 ---
@@ -106,7 +106,7 @@ Bấm nút Ghi âm để đọc hội thoại và gửi cho thầy.
 ### Bài 3 trang 21 - Sports Quiz
 
 <teacher_script pause="90">
-Bài 3 <eng>Work in pairs. Do the quiz</eng>. Làm câu đố về thể thao. 1 phút rưỡi nha.
+Chúng ta cùng làm Bài 3 <eng>Sports Quiz</eng>. Các em hãy làm việc theo cặp và trả lời các câu đố về thể thao. Các em có 1 phút 30 giây.
 </teacher_script>
 
 <task>
@@ -141,7 +141,7 @@ Bài 3 <eng>Work in pairs. Do the quiz</eng>. Làm câu đố về thể thao. 1
 
 <!-- chunk: answer_3 -->
 <teacher_script pause="0">
-Đáp án nè. Đây là kiến thức chung về thể thao.
+Sau đây là đáp án. Đây là những kiến thức chung rất thú vị về thể thao.
 </teacher_script>
 
 <answer>
@@ -166,11 +166,11 @@ Bài 3 <eng>Work in pairs. Do the quiz</eng>. Làm câu đố về thể thao. 1
 </explanation>
 
 <teacher_script pause="0">
-Câu 5 hay thi ra hoài đó. Olympic đầu tiên ở <eng>Olympia</eng>, Hy Lạp cổ đại, năm 776 trước Công nguyên. Từ <eng>Olympic</eng> cũng lấy từ tên thành phố <eng>Olympia</eng> luôn.
+Câu 5 là một kiến thức lịch sử quan trọng. Thế vận hội Olympic đầu tiên được tổ chức tại <eng>Olympia</eng>, Hy Lạp cổ đại vào năm 776 trước Công nguyên. Tên gọi <eng>Olympic</eng> cũng xuất phát từ địa danh <eng>Olympia</eng>.
 </teacher_script>
 
 <teacher_script pause="30">
-Sửa bài nếu sai. 30 giây nha.
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
@@ -179,7 +179,7 @@ Sửa bài nếu sai. 30 giây nha.
 ### Bài 4 trang 21 - Interview your partners
 
 <teacher_script pause="0">
-Bài 4 <eng>Work in groups. Interview your partners</eng>. Phỏng vấn bạn về thể thao.
+Chúng ta cùng làm Bài 4 <eng>Interview your partners</eng>. Các em hãy làm việc theo nhóm, phỏng vấn các bạn trong nhóm về chủ đề thể thao.
 </teacher_script>
 
 <task>
@@ -214,14 +214,14 @@ Bài 4 <eng>Work in groups. Interview your partners</eng>. Phỏng vấn bạn v
 </dialogue>
 
 <teacher_script pause="0" action="record">
-Bấm nút Ghi âm để trả lời 6 câu hỏi về thể thao của mình và gửi cho thầy.
+Các em hãy ghi âm câu trả lời cho 6 câu hỏi về thói quen thể thao của mình và gửi cho thầy nhé.
 </teacher_script>
 
 ---
 
 <!-- chunk: end -->
 <teacher_script pause="0">
-Ok hết <eng>Communication</eng> rồi. Nhớ:
+Bài học hôm nay kết thúc tại đây. Các em hãy ghi nhớ:
 </teacher_script>
 
 <grammar>
@@ -237,5 +237,5 @@ Ok hết <eng>Communication</eng> rồi. Nhớ:
 </grammar>
 
 <teacher_script pause="0">
-Bài sau qua <eng>Skills 1</eng> - Reading và Speaking về Pelé. Hẹn gặp lại!
+Bài học tiếp theo là <eng>Skills 1</eng>, chúng ta sẽ luyện kỹ năng đọc và nói về vua bóng đá Pelé. Hẹn gặp lại các em!
 </teacher_script>

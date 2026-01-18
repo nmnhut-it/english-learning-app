@@ -1,0 +1,448 @@
+{
+  "unitId": "g6-unit-11-our-greener-world",
+  "title": "Unit 11: Our Greener World - Conditional Type 1",
+  "studentName": "Tran Gia Hung",
+  "grade": 6,
+  "grammarTopics": [
+    "Conditional Type 1 (If... will)",
+    "Environmental Vocabulary",
+    "Imperatives for advice"
+  ],
+  "theory": {
+    "brief": "Câu điều kiện loại 1 diễn tả điều có thể xảy ra ở hiện tại hoặc tương lai nếu điều kiện được đáp ứng. Cấu trúc: If + S + V (hiện tại đơn), S + will + V0. Ví dụ: If we recycle more, we will help the Earth. (Nếu chúng ta tái chế nhiều hơn, chúng ta sẽ giúp Trái Đất). Mệnh đề If có thể đứng trước hoặc sau.",
+    "examples": [
+      "If we recycle, we will save the environment. (Nếu chúng ta tái chế, chúng ta sẽ cứu môi trường.)",
+      "If you plant trees, the air will be cleaner. (Nếu bạn trồng cây, không khí sẽ sạch hơn.)",
+      "We will reduce pollution if we use bikes. (Chúng ta sẽ giảm ô nhiễm nếu chúng ta dùng xe đạp.)",
+      "If it rains, we won't go out. (Nếu trời mưa, chúng ta sẽ không ra ngoài.)"
+    ]
+  },
+  "exercises": [
+    {
+      "id": "g6u11-ex1",
+      "type": "fill-blank",
+      "question": "If we _______ (recycle) more, we will help the Earth.",
+      "wordHint": "(recycle)",
+      "answer": "recycle",
+      "acceptedAnswers": [
+        "recycle"
+      ],
+      "hints": [
+        "Mệnh đề If dùng thì hiện tại đơn"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u11-ex2",
+      "type": "fill-blank",
+      "question": "If you _______ (plant) trees, the air will be cleaner.",
+      "wordHint": "(plant)",
+      "answer": "plant",
+      "acceptedAnswers": [
+        "plant"
+      ],
+      "hints": [
+        "If + S + V (hiện tại đơn)"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u11-ex3",
+      "type": "fill-blank",
+      "question": "We _______ (save) energy if we turn off lights.",
+      "wordHint": "will save",
+      "answer": "will save",
+      "acceptedAnswers": [
+        "will save"
+      ],
+      "hints": [
+        "Mệnh đề chính: will + V0"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u11-ex4",
+      "type": "fill-blank",
+      "question": "If people _______ (use) bikes, there will be less pollution.",
+      "wordHint": "(use)",
+      "answer": "use",
+      "acceptedAnswers": [
+        "use"
+      ],
+      "hints": [
+        "Mệnh đề If: hiện tại đơn"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u11-ex5",
+      "type": "fill-blank",
+      "question": "The Earth _______ (be) greener if we plant more trees.",
+      "wordHint": "will be",
+      "answer": "will be",
+      "acceptedAnswers": [
+        "will be"
+      ],
+      "hints": [
+        "Mệnh đề chính: will + be"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u11-ex6",
+      "type": "fill-blank",
+      "question": "If we _______ (not recycle), we will harm the environment.",
+      "wordHint": "(not recycle)",
+      "answer": "don't recycle",
+      "acceptedAnswers": [
+        "don't recycle",
+        "do not recycle"
+      ],
+      "hints": [
+        "Phủ định trong If: don't + V0"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u11-ex7",
+      "type": "fill-blank",
+      "question": "We _______ (reduce) waste if we reuse bottles.",
+      "wordHint": "will reduce",
+      "answer": "will reduce",
+      "acceptedAnswers": [
+        "will reduce"
+      ],
+      "hints": [
+        "will + V0"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u11-ex8",
+      "type": "fill-blank",
+      "question": "If it _______ (rain), we won't go to the park.",
+      "wordHint": "(rain)",
+      "answer": "rains",
+      "acceptedAnswers": [
+        "rains"
+      ],
+      "hints": [
+        "'it' → rains (thêm -s)"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u11-ex9",
+      "type": "fill-blank",
+      "question": "People _______ (be) healthier if they breathe clean air.",
+      "wordHint": "will be",
+      "answer": "will be",
+      "acceptedAnswers": [
+        "will be"
+      ],
+      "hints": [
+        "Kết quả: will + be"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u11-ex10",
+      "type": "fill-blank",
+      "question": "If we _______ (protect) the environment, our children will have a better future.",
+      "wordHint": "(protect)",
+      "answer": "protect",
+      "acceptedAnswers": [
+        "protect"
+      ],
+      "hints": [
+        "Điều kiện: hiện tại đơn"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u11-ex11",
+      "type": "fill-blank",
+      "question": "We _______ (waste) less water if we turn off the tap.",
+      "wordHint": "will waste",
+      "answer": "will waste",
+      "acceptedAnswers": [
+        "will waste"
+      ],
+      "hints": [
+        "Kết quả trong tương lai"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u11-ex12",
+      "type": "fill-blank",
+      "question": "If people _______ (throw) rubbish on the street, the city will be dirty.",
+      "wordHint": "(throw)",
+      "answer": "throw",
+      "acceptedAnswers": [
+        "throw"
+      ],
+      "hints": [
+        "Điều kiện hiện tại"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u11-ex13",
+      "type": "fill-blank",
+      "question": "The sea _______ (be) cleaner if we don't throw plastic.",
+      "wordHint": "will be",
+      "answer": "will be",
+      "acceptedAnswers": [
+        "will be"
+      ],
+      "hints": [
+        "will + be + adj"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u11-ex14",
+      "type": "fill-blank",
+      "question": "If we _______ (walk) more, we will be healthier.",
+      "wordHint": "(walk)",
+      "answer": "walk",
+      "acceptedAnswers": [
+        "walk"
+      ],
+      "hints": [
+        "If + S + V (hiện tại)"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u11-ex15",
+      "type": "fill-blank",
+      "question": "Animals _______ (have) better homes if we protect forests.",
+      "wordHint": "will have",
+      "answer": "will have",
+      "acceptedAnswers": [
+        "will have"
+      ],
+      "hints": [
+        "Kết quả: will + have"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u11-ex16",
+      "type": "multiple-choice",
+      "question": "If we _______ less plastic, we will help the ocean.",
+      "options": [
+        "use",
+        "uses",
+        "will use",
+        "using"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mệnh đề If dùng hiện tại đơn",
+      "hints": [
+        "If + S + V (hiện tại đơn)"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u11-ex17",
+      "type": "multiple-choice",
+      "question": "We _______ pollution if we cycle to school.",
+      "options": [
+        "reduce",
+        "will reduce",
+        "reduces",
+        "reducing"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mệnh đề chính: will + V0",
+      "hints": [
+        "Mệnh đề chính dùng 'will'"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u11-ex18",
+      "type": "multiple-choice",
+      "question": "If it _______ sunny, we will go to the beach.",
+      "options": [
+        "is",
+        "will be",
+        "be",
+        "are"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mệnh đề If: hiện tại đơn",
+      "hints": [
+        "'it' + is"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u11-ex19",
+      "type": "multiple-choice",
+      "question": "People will save money if they _______ energy.",
+      "options": [
+        "save",
+        "will save",
+        "saves",
+        "saving"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mệnh đề If: V (hiện tại)",
+      "hints": [
+        "Sau 'if' dùng hiện tại đơn"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u11-ex20",
+      "type": "multiple-choice",
+      "question": "If we don't protect the Earth, we _______ in danger.",
+      "options": [
+        "are",
+        "will be",
+        "be",
+        "were"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mệnh đề chính: will + be",
+      "hints": [
+        "Kết quả: will + be"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6u11-ex21",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "If we recycle more, we will help the Earth.",
+        "If we recycle more, we will help the Earth",
+        "We will help the Earth if we recycle more"
+      ],
+      "hints": [
+        "If + S + V, S + will + V"
+      ],
+      "points": 15,
+      "correctSentence": "If we recycle more, we will help the Earth.",
+      "words": [
+        "recycle",
+        "we",
+        "if",
+        "will",
+        "we",
+        "help",
+        "more",
+        "Earth",
+        "the"
+      ]
+    },
+    {
+      "id": "g6u11-ex22",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "If you plant trees, the air will be cleaner.",
+        "If you plant trees, the air will be cleaner",
+        "The air will be cleaner if you plant trees"
+      ],
+      "hints": [
+        "Câu điều kiện loại 1"
+      ],
+      "points": 15,
+      "correctSentence": "If you plant trees, the air will be cleaner.",
+      "words": [
+        "plant",
+        "if",
+        "trees",
+        "you",
+        "will",
+        "air",
+        "be",
+        "the",
+        "cleaner"
+      ]
+    },
+    {
+      "id": "g6u11-ex23",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "If people use bikes, there will be less pollution.",
+        "If people use bikes, there will be less pollution",
+        "There will be less pollution if people use bikes"
+      ],
+      "hints": [
+        "If + S + V, there will be..."
+      ],
+      "points": 15,
+      "correctSentence": "If people use bikes, there will be less pollution.",
+      "words": [
+        "use",
+        "if",
+        "people",
+        "bikes",
+        "be",
+        "will",
+        "less",
+        "there",
+        "pollution"
+      ]
+    },
+    {
+      "id": "g6u11-ex24",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "We will save energy if we turn off lights.",
+        "We will save energy if we turn off lights",
+        "If we turn off lights, we will save energy"
+      ],
+      "hints": [
+        "S + will + V + if + S + V"
+      ],
+      "points": 15,
+      "correctSentence": "We will save energy if we turn off lights.",
+      "words": [
+        "save",
+        "will",
+        "we",
+        "energy",
+        "turn",
+        "if",
+        "off",
+        "we",
+        "lights"
+      ]
+    },
+    {
+      "id": "g6u11-ex25",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "If we don't recycle, we will harm the environment.",
+        "If we don't recycle, we will harm the environment",
+        "We will harm the environment if we don't recycle"
+      ],
+      "hints": [
+        "If + phủ định, will + V"
+      ],
+      "points": 15,
+      "correctSentence": "If we don't recycle, we will harm the environment.",
+      "words": [
+        "don't",
+        "if",
+        "we",
+        "recycle",
+        "will",
+        "we",
+        "harm",
+        "environment",
+        "the"
+      ]
+    }
+  ]
+}

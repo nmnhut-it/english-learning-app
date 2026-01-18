@@ -4,8 +4,7 @@
 
 <!-- chunk: intro -->
 <teacher_script pause="0">
-Ok lớp 7, Looking Back Unit 7 nha. Mở sách trang 16 đi.
-Bài này ôn lại từ vựng và ngữ pháp đã học trong Unit 7. Chuẩn bị thi nè!
+Chào các em. Mời các em mở sách giáo khoa trang 16. Bài học hôm nay là <eng>Looking Back</eng>, chúng ta sẽ ôn tập lại từ vựng và ngữ pháp của Unit 7.
 </teacher_script>
 
 ---
@@ -14,7 +13,7 @@ Bài này ôn lại từ vựng và ngữ pháp đã học trong Unit 7. Chuẩn
 ### Vocabulary
 
 <teacher_script pause="0">
-Bấm nút "Bắt đầu" bên dưới để ôn lại từ vựng Unit 7. Máy sẽ đọc và các em đọc theo. Sau đó các em làm bài trắc nghiệm từ vựng.
+Đầu tiên, chúng ta cùng ôn lại từ vựng. Các em hãy nghe và đọc theo, sau đó làm bài tập trắc nghiệm để kiểm tra lại trí nhớ nhé.
 </teacher_script>
 
 <vocabulary>
@@ -41,7 +40,7 @@ Bấm nút "Bắt đầu" bên dưới để ôn lại từ vựng Unit 7. Máy 
 </vocabulary>
 
 <teacher_script pause="60">
-Xem lại từ vựng 1 phút. Click vô nghe phát âm nha.
+Các em hãy dành 1 phút để xem lại từ vựng và nghe phát âm nhé.
 </teacher_script>
 
 ---
@@ -50,7 +49,7 @@ Xem lại từ vựng 1 phút. Click vô nghe phát âm nha.
 ### Bài 1 trang 16 - Label the signs
 
 <teacher_script pause="60">
-Bài 1 <eng>Label each sign</eng>. Nhìn biển báo và viết tên. 1 phút nha.
+Chúng ta cùng làm Bài 1 <eng>Label the signs</eng>. Các em hãy nhìn các biển báo và viết tên tương ứng. Các em có 1 phút.
 </teacher_script>
 
 <task>
@@ -75,7 +74,7 @@ Bài 1 <eng>Label each sign</eng>. Nhìn biển báo và viết tên. 1 phút nh
 
 <!-- chunk: answer_1 -->
 <teacher_script pause="0">
-Ok đáp án nè.
+Đã hết thời gian. Sau đây là đáp án đúng.
 </teacher_script>
 
 <answer>
@@ -104,7 +103,7 @@ Câu 6: <eng>no cycling</eng> - biển báo cấm đạp xe.
 
 <!-- chunk: exercise_1b -->
 <teacher_script pause="60">
-Giờ viết câu giải thích ý nghĩa mỗi biển báo. 1 phút nha.
+Bây giờ, các em hãy viết câu giải thích ý nghĩa của mỗi biển báo. Các em có 1 phút.
 </teacher_script>
 
 <questions type="complete_sentences">
@@ -125,7 +124,7 @@ Giờ viết câu giải thích ý nghĩa mỗi biển báo. 1 phút nha.
 
 <!-- chunk: answer_1b -->
 <teacher_script pause="0">
-Đáp án các câu giải thích nha.
+Sau đây là đáp án đúng.
 </teacher_script>
 
 <answer>
@@ -149,7 +148,7 @@ Giờ viết câu giải thích ý nghĩa mỗi biển báo. 1 phút nha.
 </explanation>
 
 <teacher_script pause="30">
-Sửa bài đi. 30 giây nha.
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
@@ -158,7 +157,7 @@ Sửa bài đi. 30 giây nha.
 ### Bài 2 trang 16 - Fill in the gaps
 
 <teacher_script pause="60">
-Bài 2 <eng>Fill in each gap with one word to complete the sentences</eng>. Điền 1 từ vào chỗ trống để hoàn thành câu. 1 phút nha.
+Chúng ta cùng làm Bài 2 <eng>Fill in the gaps</eng>. Các em hãy điền một từ thích hợp vào mỗi chỗ trống để hoàn thành câu. Các em có 1 phút.
 </teacher_script>
 
 <task>
@@ -192,7 +191,7 @@ Bài 2 <eng>Fill in each gap with one word to complete the sentences</eng>. Đi�
 
 <!-- chunk: answer_2 -->
 <teacher_script pause="0">
-Ok đáp án nè.
+Đã hết thời gian. Sau đây là đáp án đúng.
 </teacher_script>
 
 <answer>
@@ -205,23 +204,23 @@ Ok đáp án nè.
 </answer>
 
 <teacher_script pause="0">
-Câu 1: <eng>user</eng>. <eng>Road user</eng> = người tham gia giao thông.
+Câu 1: <eng>user</eng>. <eng>Road user</eng> nghĩa là người tham gia giao thông.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 2: <eng>ride</eng>. <eng>Ride a motorbike</eng> = đi xe máy.
+Câu 2: <eng>ride</eng>. <eng>Ride a motorbike</eng> nghĩa là đi xe máy.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 3: <eng>passenger</eng>. <eng>Passenger</eng> = hành khách, người đi xe nhưng không lái.
+Câu 3: <eng>passenger</eng>. <eng>Passenger</eng> nghĩa là hành khách.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 4: <eng>fly</eng>. <eng>Learn to fly planes</eng> = học lái máy bay. Phi công phải học lái máy bay nha.
+Câu 4: <eng>fly</eng>. Phi công thì phải học <eng>fly planes</eng> (lái máy bay).
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 5: <eng>traffic</eng>. <eng>Traffic light</eng> = đèn giao thông.
+Câu 5: <eng>traffic</eng>. <eng>Traffic light</eng> nghĩa là đèn giao thông.
 </teacher_script>
 
 <explanation>
@@ -237,7 +236,7 @@ Câu 5: <eng>traffic</eng>. <eng>Traffic light</eng> = đèn giao thông.
 </explanation>
 
 <teacher_script pause="30">
-Sửa bài đi. 30 giây nha.
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
@@ -246,7 +245,7 @@ Sửa bài đi. 30 giây nha.
 ### Grammar
 
 <teacher_script pause="0">
-<eng>Grammar.</eng> Giờ qua phần ôn ngữ pháp nha.
+Chúng ta cùng chuyển sang phần ôn tập Ngữ pháp.
 </teacher_script>
 
 ---
@@ -255,7 +254,7 @@ Sửa bài đi. 30 giây nha.
 ### Bài 3 trang 16 - Write sentences with It
 
 <teacher_script pause="90">
-Bài 3 <eng>Write sentences with "It" based on the cues given</eng>. Viết câu với "It" dựa vào gợi ý. 1 phút rưỡi nha.
+Chúng ta cùng làm Bài 3 <eng>Write sentences with It</eng>. Các em hãy viết câu hoàn chỉnh với <eng>It</eng> dựa trên các gợi ý cho sẵn. Các em có 1 phút 30 giây.
 </teacher_script>
 
 <grammar>
@@ -289,7 +288,7 @@ Bài 3 <eng>Write sentences with "It" based on the cues given</eng>. Viết câu
 
 <!-- chunk: answer_3 -->
 <teacher_script pause="0">
-Ok đáp án nè.
+Đã hết thời gian. Sau đây là đáp án đúng.
 </teacher_script>
 
 <answer>
@@ -303,31 +302,26 @@ Ok đáp án nè.
 
 <teacher_script pause="0">
 Câu 1: <eng>It is over 100 km from my home town to Ho Chi Minh City.</eng>
-Từ quê tôi đến TP.HCM hơn 100 km.
 </teacher_script>
 
 <teacher_script pause="0">
 Câu 2: <eng>It is about 25 km from here to my grandparents' house.</eng>
-Từ đây đến nhà ông bà khoảng 25 km.
 </teacher_script>
 
 <teacher_script pause="0">
 Câu 3: <eng>It is not very far from our school to the city museum.</eng>
-Từ trường đến bảo tàng thành phố không xa lắm.
 </teacher_script>
 
 <teacher_script pause="0">
 Câu 4: <eng>How far is it from your house to the gym?</eng>
-Từ nhà bạn đến phòng gym bao xa?
 </teacher_script>
 
 <teacher_script pause="0">
 Câu 5: <eng>Is it a long distance from Ha Noi to Ban Gioc Waterfall?</eng>
-Từ Hà Nội đến thác Bản Giốc có xa không?
 </teacher_script>
 
 <teacher_script pause="30">
-Sửa bài đi. 30 giây nha.
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
@@ -336,7 +330,7 @@ Sửa bài đi. 30 giây nha.
 ### Bài 4 trang 16 - Choose the correct modal verb
 
 <teacher_script pause="60">
-Bài 4 <eng>Choose the correct option to complete each sentence</eng>. Chọn từ đúng để hoàn thành câu. 1 phút nha. Bài này quan trọng lắm đó!
+Chúng ta cùng làm Bài 4 <eng>Choose the correct modal verb</eng>. Các em hãy chọn động từ khuyết thiếu phù hợp để hoàn thành câu. Các em có 1 phút.
 </teacher_script>
 
 <grammar>
@@ -400,7 +394,7 @@ Bài 4 <eng>Choose the correct option to complete each sentence</eng>. Chọn t�
 
 <!-- chunk: answer_4 -->
 <teacher_script pause="0">
-Ok đáp án nè.
+Đã hết thời gian. Sau đây là đáp án đúng.
 </teacher_script>
 
 <answer>
@@ -414,27 +408,27 @@ Ok đáp án nè.
 </answer>
 
 <teacher_script pause="0">
-Câu 1: A - <eng>should</eng>. Bỏ rác vào thùng là điều nên làm.
+Câu 1: A - <eng>should</eng>. Bỏ rác vào thùng là việc nên làm.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 2: B - <eng>must</eng>. Phải trên 18 tuổi mới được đi xe máy - đây là luật bắt buộc. Nhớ kỹ nha!
+Câu 2: B - <eng>must</eng>. Phải trên 18 tuổi mới được đi xe máy, đây là luật bắt buộc.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 3: C - <eng>shouldn't</eng>. Trẻ em không nên đạp xe quá nhanh vì nguy hiểm.
+Câu 3: C - <eng>shouldn't</eng>. Trẻ em không nên đạp xe quá nhanh.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 4: A - <eng>Could</eng>. Dùng <eng>Could</eng> để hỏi xin giúp đỡ một cách lịch sự. Bài này hay ra thi đó!
+Câu 4: A - <eng>Could</eng>. Chúng ta dùng <eng>Could</eng> để hỏi xin giúp đỡ một cách lịch sự.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 5: C - <eng>shouldn't</eng>. Không nên ăn quá nhiều bánh quy vì đường không tốt cho sức khỏe.
+Câu 5: C - <eng>shouldn't</eng>. Không nên ăn quá nhiều bánh quy.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 6: B - <eng>can</eng>. Công viên lớn, có thể chạy hoặc đạp xe ở đây - nói về khả năng được phép.
+Câu 6: B - <eng>can</eng>. Bạn được phép chạy hoặc đạp xe ở đây.
 </teacher_script>
 
 <explanation>
@@ -451,14 +445,14 @@ Câu 6: B - <eng>can</eng>. Công viên lớn, có thể chạy hoặc đạp xe
 </explanation>
 
 <teacher_script pause="30">
-Sửa bài đi. 30 giây nha.
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
 
 <!-- chunk: summary -->
 <teacher_script pause="0">
-Ok tóm tắt Unit 7 nha.
+Chúng ta cùng tóm tắt lại nội dung của Unit 7.
 </teacher_script>
 
 <grammar>
@@ -494,10 +488,5 @@ Ok tóm tắt Unit 7 nha.
 
 <!-- chunk: end -->
 <teacher_script pause="0">
-Ok hết Unit 7 rồi. Các em về ôn lại nha:
-Từ vựng về giao thông và biển báo.
-<eng>How far is it from A to B?</eng>
-<eng>should, shouldn't</eng> để khuyên ai đó.
-<eng>must</eng> khi nói về luật bắt buộc.
-Hẹn gặp lại ở Unit 8!
+Chúng ta đã hoàn thành bài <eng>Looking Back</eng>, và cũng kết thúc Unit 7 tại đây. Các em hãy ôn tập kỹ từ vựng và ngữ pháp nhé. Hẹn gặp lại các em ở Unit 8!
 </teacher_script>

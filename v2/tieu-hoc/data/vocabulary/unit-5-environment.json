@@ -1,0 +1,154 @@
+{
+  "unitId": "unit-5-environment",
+  "unitTitle": "Unit 5: The Environment - Will/Won't & Present Continuous (Future)",
+  "vocabularyData": {
+    "grammarTerms": [
+      {
+        "word": "prediction",
+        "vietnamese": "dự đoán",
+        "pronunciation": "/prɪˈdɪkʃn/",
+        "definition": "A statement about what will happen in the future",
+        "example": "I think it will rain tomorrow. (prediction)",
+        "difficulty": "intermediate"
+      },
+      {
+        "word": "arrangement",
+        "vietnamese": "sự sắp xếp, kế hoạch",
+        "pronunciation": "/əˈreɪndʒmənt/",
+        "definition": "A plan that has been organized",
+        "example": "I'm meeting my friend at 5pm. (arrangement)",
+        "difficulty": "intermediate"
+      }
+    ],
+    "difficultWords": [
+      {
+        "word": "environment",
+        "vietnamese": "môi trường",
+        "pronunciation": "/ɪnˈvaɪrənmənt/",
+        "definition": "The natural world around us",
+        "example": "We need to protect the environment.",
+        "difficulty": "intermediate"
+      },
+      {
+        "word": "electricity",
+        "vietnamese": "điện",
+        "pronunciation": "/ɪˌlekˈtrɪsəti/",
+        "definition": "Energy from power sources",
+        "example": "Cars will use electricity in the future.",
+        "difficulty": "intermediate"
+      },
+      {
+        "word": "planet",
+        "vietnamese": "hành tinh",
+        "pronunciation": "/ˈplænɪt/",
+        "definition": "A large celestial body like Earth",
+        "example": "We will travel to other planets.",
+        "difficulty": "basic"
+      },
+      {
+        "word": "energy",
+        "vietnamese": "năng lượng",
+        "pronunciation": "/ˈenərdʒi/",
+        "definition": "Power from sources like electricity or fuel",
+        "example": "We won't use so much energy.",
+        "difficulty": "intermediate"
+      },
+      {
+        "word": "Mars",
+        "vietnamese": "sao Hỏa",
+        "pronunciation": "/mɑːrz/",
+        "definition": "The red planet, fourth from the sun",
+        "example": "People will live on Mars.",
+        "difficulty": "basic"
+      },
+      {
+        "word": "robot",
+        "vietnamese": "người máy, rô-bốt",
+        "pronunciation": "/ˈroʊbɑːt/",
+        "definition": "A machine that can do tasks automatically",
+        "example": "Robots will do all the housework.",
+        "difficulty": "basic"
+      }
+    ],
+    "keyPhrases": [
+      {
+        "phrase": "will + verb",
+        "vietnamese": "sẽ (dự đoán tương lai)",
+        "structure": "will + base verb",
+        "definition": "Used for predictions and spontaneous decisions",
+        "example": "I think it will rain tomorrow.",
+        "usage": "Future predictions, opinions, instant decisions"
+      },
+      {
+        "phrase": "won't + verb",
+        "vietnamese": "sẽ không",
+        "structure": "won't (will not) + base verb",
+        "definition": "Negative form of will",
+        "example": "We won't drive big cars.",
+        "usage": "Negative future predictions"
+      },
+      {
+        "phrase": "am/is/are + V-ing (future)",
+        "vietnamese": "sẽ (kế hoạch đã sắp xếp)",
+        "structure": "am/is/are + verb-ing",
+        "definition": "Used for arranged plans in the future",
+        "example": "We're going on holiday next week.",
+        "usage": "For definite arrangements with time/place"
+      },
+      {
+        "phrase": "in the future",
+        "vietnamese": "trong tương lai",
+        "structure": "time phrase",
+        "definition": "At some time after now",
+        "example": "In the future, we'll use less energy.",
+        "usage": "Common with will/won't"
+      },
+      {
+        "phrase": "next week/month/year",
+        "vietnamese": "tuần sau/tháng sau/năm sau",
+        "structure": "time phrase",
+        "definition": "The week/month/year after this one",
+        "example": "We're going on holiday next week.",
+        "usage": "Common with present continuous (future)"
+      }
+    ],
+    "usefulExpressions": [
+      {
+        "expression": "be going on holiday",
+        "vietnamese": "đi nghỉ",
+        "example": "We're going on a walking holiday.",
+        "type": "fixed expression"
+      },
+      {
+        "expression": "travel by train",
+        "vietnamese": "đi bằng tàu",
+        "example": "I'm travelling to Germany by train.",
+        "type": "collocation"
+      },
+      {
+        "expression": "save paper",
+        "vietnamese": "tiết kiệm giấy",
+        "example": "I won't print my emails – that way I'll save paper.",
+        "type": "collocation"
+      },
+      {
+        "expression": "live on Mars",
+        "vietnamese": "sống trên sao Hỏa",
+        "example": "People will live on Mars in the future.",
+        "type": "collocation"
+      },
+      {
+        "expression": "get warmer",
+        "vietnamese": "trở nên ấm hơn",
+        "example": "The weather will get warmer.",
+        "type": "verb + comparative"
+      },
+      {
+        "expression": "clean water",
+        "vietnamese": "nước sạch",
+        "example": "Everyone will have clean water.",
+        "type": "collocation"
+      }
+    ]
+  }
+}

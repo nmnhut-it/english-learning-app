@@ -1,0 +1,553 @@
+{
+  "unitId": "g7-unit-12-english-speaking-countries",
+  "title": "Unit 12: English Speaking Countries - Articles A/An/The",
+  "studentName": "Tran Gia Hung",
+  "grade": 7,
+  "grammarTopics": [
+    "Indefinite Articles: A/An",
+    "Definite Article: The",
+    "Zero Article",
+    "Country and Language Names",
+    "Geography Vocabulary"
+  ],
+  "theory": {
+    "brief": "A/An (mạo từ không xác định): dùng với danh từ đếm được số ít lần đầu nhắc đến. A + phụ âm (a book), An + nguyên âm (an apple). The (mạo từ xác định): danh từ đã nhắc đến, duy nhất. Zero article: không dùng mạo từ với tên nước (trừ có 'of'), môn học, bữa ăn, ngôn ngữ.",
+    "examples": [
+      "I have a book. The book is interesting. (Tôi có một cuốn sách. Cuốn sách này thú vị.)",
+      "She is an English teacher. (Cô ấy là giáo viên tiếng Anh.)",
+      "The USA is a large country. (Mỹ là nước lớn.)",
+      "I speak English and Vietnamese. (Tôi nói tiếng Anh và tiếng Việt.)",
+      "We have breakfast at 7. (Chúng tôi ăn sáng lúc 7 giờ.)"
+    ]
+  },
+  "exercises": [
+    {
+      "id": "g7u12-ex1",
+      "type": "fill-blank",
+      "question": "I have _______ book.",
+      "wordHint": "a/an",
+      "answer": "a",
+      "acceptedAnswers": [
+        "a"
+      ],
+      "hints": [
+        "book bắt đầu bằng phụ âm → a"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u12-ex2",
+      "type": "fill-blank",
+      "question": "She is _______ English teacher.",
+      "wordHint": "a/an",
+      "answer": "an",
+      "acceptedAnswers": [
+        "an"
+      ],
+      "hints": [
+        "English bắt đầu bằng nguyên âm → an"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u12-ex3",
+      "type": "fill-blank",
+      "question": "There is _______ orange on the table.",
+      "wordHint": "a/an",
+      "answer": "an",
+      "acceptedAnswers": [
+        "an"
+      ],
+      "hints": [
+        "orange bắt đầu bằng nguyên âm"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u12-ex4",
+      "type": "fill-blank",
+      "question": "He has _______ umbrella.",
+      "wordHint": "a/an",
+      "answer": "an",
+      "acceptedAnswers": [
+        "an"
+      ],
+      "hints": [
+        "umbrella bắt đầu bằng nguyên âm"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u12-ex5",
+      "type": "fill-blank",
+      "question": "I saw _______ cat. _______ cat was black.",
+      "wordHint": "a/the",
+      "answer": "a The",
+      "acceptedAnswers": [
+        "a The",
+        "a the",
+        "a, The",
+        "a, the"
+      ],
+      "hints": [
+        "Lần đầu: a, lần 2: the"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u12-ex6",
+      "type": "fill-blank",
+      "question": "_______ sun is very hot today.",
+      "wordHint": "the",
+      "answer": "The",
+      "acceptedAnswers": [
+        "The",
+        "the"
+      ],
+      "hints": [
+        "Duy nhất trên thế giới → the"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u12-ex7",
+      "type": "fill-blank",
+      "question": "_______ Earth is our home.",
+      "wordHint": "the",
+      "answer": "The",
+      "acceptedAnswers": [
+        "The",
+        "the"
+      ],
+      "hints": [
+        "Hành tinh duy nhất → the"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u12-ex8",
+      "type": "fill-blank",
+      "question": "_______ USA is a large country.",
+      "wordHint": "the",
+      "answer": "The",
+      "acceptedAnswers": [
+        "The",
+        "the"
+      ],
+      "hints": [
+        "Tên nước có 'of' hoặc viết tắt → the"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u12-ex9",
+      "type": "fill-blank",
+      "question": "I live in _______ Vietnam.",
+      "wordHint": "a/an/the/0",
+      "answer": "0",
+      "acceptedAnswers": [
+        "",
+        "0",
+        "zero"
+      ],
+      "hints": [
+        "Tên nước không dùng mạo từ"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u12-ex10",
+      "type": "fill-blank",
+      "question": "She speaks _______ English.",
+      "wordHint": "a/an/the/0",
+      "answer": "0",
+      "acceptedAnswers": [
+        "",
+        "0",
+        "zero"
+      ],
+      "hints": [
+        "Ngôn ngữ không dùng mạo từ"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u12-ex11",
+      "type": "fill-blank",
+      "question": "We have _______ breakfast at 7 AM.",
+      "wordHint": "a/an/the/0",
+      "answer": "0",
+      "acceptedAnswers": [
+        "",
+        "0",
+        "zero"
+      ],
+      "hints": [
+        "Bữa ăn không dùng mạo từ"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u12-ex12",
+      "type": "fill-blank",
+      "question": "I study _______ Math and _______ Science.",
+      "wordHint": "a/an/the/0",
+      "answer": "0 0",
+      "acceptedAnswers": [
+        "",
+        "0",
+        "0 0",
+        "zero zero"
+      ],
+      "hints": [
+        "Môn học không dùng mạo từ"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u12-ex13",
+      "type": "fill-blank",
+      "question": "_______ Philippines is in Asia.",
+      "wordHint": "the",
+      "answer": "The",
+      "acceptedAnswers": [
+        "The",
+        "the"
+      ],
+      "hints": [
+        "Tên nước số nhiều → the"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u12-ex14",
+      "type": "fill-blank",
+      "question": "_______ United Kingdom is famous for Big Ben.",
+      "wordHint": "the",
+      "answer": "The",
+      "acceptedAnswers": [
+        "The",
+        "the"
+      ],
+      "hints": [
+        "United Kingdom có 'Kingdom' → the"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u12-ex15",
+      "type": "fill-blank",
+      "question": "_______ Australia is _______ island continent.",
+      "wordHint": "0/an",
+      "answer": "an",
+      "acceptedAnswers": [
+        "an",
+        "0 an",
+        "zero an"
+      ],
+      "hints": [
+        "Australia: zero, island bắt đầu bằng nguyên âm"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u12-ex16",
+      "type": "multiple-choice",
+      "question": "I need _______ pencil.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "0"
+      ],
+      "correctIndex": 0,
+      "explanation": "pencil bắt đầu bằng phụ âm → a",
+      "hints": [
+        "pencil → phụ âm"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u12-ex17",
+      "type": "multiple-choice",
+      "question": "She is _______ honest person.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "0"
+      ],
+      "correctIndex": 1,
+      "explanation": "honest bắt đầu bằng nguyên âm (âm /ɒ/) → an",
+      "hints": [
+        "honest phát âm bắt đầu bằng nguyên âm"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u12-ex18",
+      "type": "multiple-choice",
+      "question": "_______ moon is beautiful tonight.",
+      "options": [
+        "A",
+        "An",
+        "The",
+        "0"
+      ],
+      "correctIndex": 2,
+      "explanation": "Duy nhất → the",
+      "hints": [
+        "Mặt trăng duy nhất"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u12-ex19",
+      "type": "multiple-choice",
+      "question": "I speak _______ French.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "0"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ngôn ngữ không dùng mạo từ",
+      "hints": [
+        "Ngôn ngữ → zero article"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u12-ex20",
+      "type": "multiple-choice",
+      "question": "_______ Canada is a beautiful country.",
+      "options": [
+        "A",
+        "An",
+        "The",
+        "0"
+      ],
+      "correctIndex": 3,
+      "explanation": "Tên nước không dùng mạo từ",
+      "hints": [
+        "Tên nước → zero article"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u12-ex21",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "I have a book.",
+        "I have a book"
+      ],
+      "hints": [
+        "I have + a + N"
+      ],
+      "points": 15,
+      "correctSentence": "I have a book.",
+      "words": [
+        "have",
+        "I",
+        "book",
+        "a"
+      ]
+    },
+    {
+      "id": "g7u12-ex22",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "She is an English teacher.",
+        "She is an English teacher"
+      ],
+      "hints": [
+        "She is + an + adj + N"
+      ],
+      "points": 15,
+      "correctSentence": "She is an English teacher.",
+      "words": [
+        "is",
+        "she",
+        "teacher",
+        "English",
+        "an"
+      ]
+    },
+    {
+      "id": "g7u12-ex23",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "The sun is very hot.",
+        "The sun is very hot"
+      ],
+      "hints": [
+        "The + N + is + adj"
+      ],
+      "points": 15,
+      "correctSentence": "The sun is very hot.",
+      "words": [
+        "sun",
+        "the",
+        "hot",
+        "is",
+        "very"
+      ]
+    },
+    {
+      "id": "g7u12-ex24",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "The USA is a large country.",
+        "The USA is a large country"
+      ],
+      "hints": [
+        "The USA is + a + adj + N"
+      ],
+      "points": 15,
+      "correctSentence": "The USA is a large country.",
+      "words": [
+        "USA",
+        "the",
+        "large",
+        "is",
+        "country",
+        "a"
+      ]
+    },
+    {
+      "id": "g7u12-ex25",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "I speak English and Vietnamese.",
+        "I speak English and Vietnamese",
+        "I speak Vietnamese and English."
+      ],
+      "hints": [
+        "I speak + language (no article)"
+      ],
+      "points": 15,
+      "correctSentence": "I speak English and Vietnamese.",
+      "words": [
+        "speak",
+        "I",
+        "English",
+        "Vietnamese",
+        "and"
+      ]
+    },
+    {
+      "id": "g7u12-ex26",
+      "type": "error-correct",
+      "wrongSentence": "I have book.",
+      "correctSentence": "I have a book.",
+      "errorWord": "book",
+      "correction": "a book",
+      "explanation": "Danh từ đếm được số ít cần mạo từ a/an",
+      "hints": [
+        "Cần mạo từ a"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u12-ex27",
+      "type": "error-correct",
+      "wrongSentence": "She is a English teacher.",
+      "correctSentence": "She is an English teacher.",
+      "errorWord": "a",
+      "correction": "an",
+      "explanation": "English bắt đầu bằng nguyên âm → an",
+      "hints": [
+        "English → an"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u12-ex28",
+      "type": "error-correct",
+      "wrongSentence": "Sun is very hot.",
+      "correctSentence": "The sun is very hot.",
+      "errorWord": "Sun",
+      "correction": "The sun",
+      "explanation": "Duy nhất trên thế giới → the",
+      "hints": [
+        "Cần 'the'"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u12-ex29",
+      "type": "error-correct",
+      "wrongSentence": "I speak the English.",
+      "correctSentence": "I speak English.",
+      "errorWord": "the",
+      "correction": "",
+      "explanation": "Ngôn ngữ không dùng mạo từ",
+      "hints": [
+        "Bỏ 'the'"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u12-ex30",
+      "type": "error-correct",
+      "wrongSentence": "I live in the Vietnam.",
+      "correctSentence": "I live in Vietnam.",
+      "errorWord": "the",
+      "correction": "",
+      "explanation": "Tên nước không dùng mạo từ (trừ the USA, the UK...)",
+      "hints": [
+        "Bỏ 'the'"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u12-ex31",
+      "type": "translation",
+      "vietnamese": "Tôi có một cuốn sách.",
+      "answer": "I have a book.",
+      "acceptedAnswers": [
+        "I have a book.",
+        "I have a book"
+      ],
+      "hints": [
+        "have + a + N"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u12-ex32",
+      "type": "translation",
+      "vietnamese": "Cô ấy là giáo viên tiếng Anh.",
+      "answer": "She is an English teacher.",
+      "acceptedAnswers": [
+        "She is an English teacher.",
+        "She is an English teacher"
+      ],
+      "hints": [
+        "is + an + adj + N"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g7u12-ex33",
+      "type": "translation",
+      "vietnamese": "Tôi nói tiếng Anh và tiếng Việt.",
+      "answer": "I speak English and Vietnamese.",
+      "acceptedAnswers": [
+        "I speak English and Vietnamese.",
+        "I speak English and Vietnamese",
+        "I speak Vietnamese and English."
+      ],
+      "hints": [
+        "speak + language (no article)"
+      ],
+      "points": 10
+    }
+  ]
+}

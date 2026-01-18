@@ -4,7 +4,7 @@
 
 <!-- chunk: intro -->
 <teacher_script pause="0">
-Chào các em. Hôm nay chúng ta qua bài <eng>Communication</eng>. Bài này sẽ học cách chấp nhận hoặc từ chối lời đề nghị và làm khảo sát về phim. Mở sách trang 86 nha.
+Chào các em. Mời các em mở sách giáo khoa trang 86. Hôm nay chúng ta qua bài <eng>Communication</eng>. Bài học này sẽ giúp các em biết cách chấp nhận hoặc từ chối lời đề nghị và thực hiện khảo sát về phim.
 </teacher_script>
 
 ---
@@ -13,7 +13,7 @@ Chào các em. Hôm nay chúng ta qua bài <eng>Communication</eng>. Bài này s
 ### Bài 1 trang 86 - Accepting and declining suggestions
 
 <teacher_script pause="0">
-Bài 1 <eng>Listen and read the conversations</eng>. Nghe và đọc các đoạn hội thoại. Chú ý các câu được tô đậm nha.
+Chúng ta cùng làm Bài 1 <eng>Listen and read the conversations</eng>. Các em hãy nghe và đọc các đoạn hội thoại, chú ý đến những câu được tô đậm nhé.
 </teacher_script>
 
 <audio src="https://img.loigiaihay.com/picture/2022/0815/056_1.mp3">
@@ -58,7 +58,7 @@ Bài 1 <eng>Listen and read the conversations</eng>. Nghe và đọc các đoạ
 ### Bài 2 trang 87 - Make similar conversations
 
 <teacher_script pause="0">
-Bài 2 thực hành theo cặp. Các em tự tạo hội thoại tương tự nhé. Ví dụ:
+Chúng ta cùng làm Bài 2 <eng>Make similar conversations</eng>. Các em hãy thực hành theo cặp, tự tạo các đoạn hội thoại tương tự nhé. Ví dụ:
 </teacher_script>
 
 <dialogue>
@@ -75,7 +75,7 @@ Bài 2 thực hành theo cặp. Các em tự tạo hội thoại tương tự nh
 ### Bài 3 trang 87 - Listen and fill in the blanks
 
 <teacher_script pause="60">
-Bài 3 <eng>Listen to the conversation and fill in the blanks</eng>. Nghe và điền từ vào chỗ trống. 1 phút nha.
+Chúng ta cùng làm Bài 3 <eng>Listen and fill in the blanks</eng>. Các em hãy nghe đoạn hội thoại và điền từ thích hợp vào chỗ trống. Các em có 1 phút.
 </teacher_script>
 
 <audio src="https://img.loigiaihay.com/picture/2022/0815/058.mp3">
@@ -102,7 +102,7 @@ Bài 3 <eng>Listen to the conversation and fill in the blanks</eng>. Nghe và đ
 
 <!-- chunk: answer_3 -->
 <teacher_script pause="0">
-Đáp án nè.
+Đã hết thời gian. Sau đây là đáp án đúng.
 </teacher_script>
 
 <answer>
@@ -119,7 +119,7 @@ Bài 3 <eng>Listen to the conversation and fill in the blanks</eng>. Nghe và đ
 </explanation>
 
 <teacher_script pause="30">
-Sửa bài nếu sai nha.
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
@@ -128,7 +128,7 @@ Sửa bài nếu sai nha.
 ### Bài 4 trang 87 - Survey group members
 
 <teacher_script pause="0">
-Bài 4 làm việc nhóm. Hỏi các bạn trong nhóm về bộ phim yêu thích của họ. Các em dùng các câu hỏi như trong bài 3 nhé.
+Chúng ta cùng làm Bài 4 <eng>Survey group members</eng>. Các em hãy làm việc theo nhóm, hỏi các bạn trong nhóm về bộ phim yêu thích của họ, sử dụng các câu hỏi như trong Bài 3 nhé.
 </teacher_script>
 
 <dialogue>
@@ -140,12 +140,12 @@ Bài 4 làm việc nhóm. Hỏi các bạn trong nhóm về bộ phim yêu thíc
 </dialogue>
 
 <teacher_script pause="0" action="record">
-Em hãy đóng vai người phỏng vấn, tự hỏi và trả lời về bộ phim yêu thích của mình. Ghi âm lại nhé.
+Em hãy đóng vai người phỏng vấn, tự hỏi và trả lời về bộ phim yêu thích của mình và ghi âm lại gửi cho thầy nhé.
 </teacher_script>
 
 ---
 
 <!-- chunk: end -->
 <teacher_script pause="0">
-Xong bài <eng>Communication</eng>. Các em nhớ mẫu câu đề nghị và cách hỏi về phim nhé. Hẹn gặp lại!
+Bài học hôm nay kết thúc tại đây. Các em hãy ghi nhớ các mẫu câu đề nghị và cách hỏi về phim nhé. Hẹn gặp lại các em!
 </teacher_script>

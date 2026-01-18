@@ -4,7 +4,7 @@
 
 <!-- chunk: intro -->
 <teacher_script pause="0">
-Chào các em. Qua bài <eng>Communication</eng>. Hôm nay mình học cách đưa ra lời phàn nàn (Making complaints) và nghe về sở thích mua sắm. Mở sách trang 86 nha.
+Chào các em. Chào mừng các em đến với bài học hôm nay. Mời các em mở sách giáo khoa.
 </teacher_script>
 
 ---
@@ -13,7 +13,7 @@ Chào các em. Qua bài <eng>Communication</eng>. Hôm nay mình học cách đ�
 ### Everyday English - Making complaints
 
 <teacher_script pause="0">
-Bài 1 <eng>Listen and read the conversation</eng>. Nghe và đọc hội thoại. Chú ý các câu phàn nàn.
+Bây giờ các em sẽ nghe một đoạn băng. Hãy chú ý lắng nghe để tìm thông tin trả lời câu hỏi.
 </teacher_script>
 
 <audio src="https://img.loigiaihay.com/picture/2023/0616/track-49.mp3">
@@ -50,7 +50,7 @@ Bài 1 <eng>Listen and read the conversation</eng>. Nghe và đọc hội thoạ
 ### Bài 2 trang 87 - Role-play complaints
 
 <teacher_script pause="0">
-Bài 2 đóng vai đưa ra lời phàn nàn cho các tình huống sau.
+Bây giờ là phần thực hành nói. Các em hãy luyện tập theo cặp hoặc theo nhóm nhé.
 </teacher_script>
 
 <task>
@@ -70,7 +70,7 @@ Bài 2 đóng vai đưa ra lời phàn nàn cho các tình huống sau.
 </dialogue>
 
 <teacher_script pause="0" action="record">
-Em hãy chọn 1 tình huống và ghi âm hội thoại khiếu nại nhé.
+Các em hãy ghi âm phần luyện tập của mình và gửi cho thầy nhé.
 </teacher_script>
 
 ---
@@ -79,7 +79,7 @@ Em hãy chọn 1 tình huống và ghi âm hội thoại khiếu nại nhé.
 ### Bài 3 trang 87 - Listen and tick
 
 <teacher_script pause="60">
-Bài 3 nghe 3 bạn nói về nơi mua sắm yêu thích và đánh dấu chọn. 1 phút nha.
+Bây giờ các em sẽ nghe một đoạn băng. Hãy chú ý lắng nghe để tìm thông tin trả lời câu hỏi.
 </teacher_script>
 
 <audio src="https://img.loigiaihay.com/picture/2023/0616/track-50.mp3">
@@ -110,7 +110,7 @@ Bài 3 nghe 3 bạn nói về nơi mua sắm yêu thích và đánh dấu chọn
 </explanation>
 
 <teacher_script pause="30">
-Sửa bài nếu sai nha.
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
@@ -119,7 +119,7 @@ Sửa bài nếu sai nha.
 ### Bài 4 trang 87 - Ask and answer
 
 <teacher_script pause="0">
-Bài 4 hỏi và trả lời về lý do họ thích nơi đó.
+Bây giờ là phần thực hành nói. Các em hãy luyện tập theo cặp hoặc theo nhóm nhé.
 </teacher_script>
 
 <dialogue>
@@ -134,5 +134,5 @@ Bài 4 hỏi và trả lời về lý do họ thích nơi đó.
 
 <!-- chunk: end -->
 <teacher_script pause="0">
-Xong bài <eng>Communication</eng>. Các em nhớ mẫu câu phàn nàn và các lý do chọn nơi mua sắm nhé. Tạm biệt!
+Bài học hôm nay kết thúc tại đây. Các em nhớ ôn bài và chuẩn bị cho bài học tiếp theo. Tạm biệt các em.
 </teacher_script>

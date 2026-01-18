@@ -4,7 +4,7 @@
 
 <!-- chunk: intro -->
 <teacher_script pause="0">
-Chào các em. Qua bài <eng>Skills 1</eng>. Hôm nay mình đọc về lý do đi trung tâm thương mại và tập nói về một trung tâm mua sắm mới. Mở sách trang 88 nha.
+Chào các em. Chào mừng các em đến với bài học hôm nay. Mời các em mở sách giáo khoa.
 </teacher_script>
 
 ---
@@ -26,7 +26,7 @@ Chào các em. Qua bài <eng>Skills 1</eng>. Hôm nay mình đọc về lý do �
 ### Bài 2 trang 88 - Reading Comprehension
 
 <teacher_script pause="120">
-Bài 2 đọc đoạn văn và chọn đáp án đúng. 2 phút nha.
+Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
 <reading>
@@ -66,7 +66,7 @@ A. always | B. sometimes | C. rarely
 </explanation>
 
 <teacher_script pause="30">
-Sửa bài nếu sai nha.
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
@@ -75,7 +75,7 @@ Sửa bài nếu sai nha.
 ### Bài 3 trang 88 - Fill in blanks
 
 <teacher_script pause="60">
-Bài 3 điền từ vào chỗ trống. 1 phút nha.
+Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
 <questions type="fill_blanks">
@@ -92,7 +92,7 @@ Bài 3 điền từ vào chỗ trống. 1 phút nha.
 </answer>
 
 <teacher_script pause="30">
-Sửa bài vào nha.
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
@@ -101,7 +101,7 @@ Sửa bài vào nha.
 ### Bài 4 trang 88 - Ask and answer
 
 <teacher_script pause="0">
-Bài 4 hỏi và trả lời thông tin về trung tâm mua sắm mới **Northwood Shopping Centre**.
+Bây giờ là phần thực hành nói. Các em hãy luyện tập theo cặp hoặc theo nhóm nhé.
 </teacher_script>
 
 <task>
@@ -121,12 +121,12 @@ Bài 4 hỏi và trả lời thông tin về trung tâm mua sắm mới **Northw
 </dialogue>
 
 <teacher_script pause="0" action="record">
-Em hãy giới thiệu ngắn gọn về Northwood Shopping Centre. Ghi âm gửi thầy.
+Các em hãy ghi âm phần luyện tập của mình và gửi cho thầy nhé.
 </teacher_script>
 
 ---
 
 <!-- chunk: end -->
 <teacher_script pause="0">
-Xong bài <eng>Skills 1</eng>. Các em nhớ từ vựng và luyện tập giới thiệu địa điểm mua sắm nhé. Tạm biệt!
+Bài học hôm nay kết thúc tại đây. Các em nhớ ôn bài và chuẩn bị cho bài học tiếp theo. Tạm biệt các em.
 </teacher_script>

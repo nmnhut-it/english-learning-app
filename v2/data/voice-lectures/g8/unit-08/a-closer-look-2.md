@@ -4,7 +4,7 @@
 
 <!-- chunk: intro -->
 <teacher_script pause="0">
-Chào các em. Qua bài <eng>A Closer Look 2</eng>. Hôm nay mình học hai điểm ngữ pháp: Trạng từ chỉ tần suất (Adverbs of frequency) và Thì hiện tại đơn cho sự kiện tương lai (Present simple for future events). Mở sách trang 85 nha.
+Chào các em. Chào mừng các em đến với bài học hôm nay. Mời các em mở sách giáo khoa.
 </teacher_script>
 
 ---
@@ -33,7 +33,7 @@ Dùng để diễn tả mức độ thường xuyên của hành động.
 ### Bài 1 trang 85 - Complete sentences
 
 <teacher_script pause="60">
-Bài 1 điền trạng từ vào chỗ trống. 1 phút nha.
+Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
 <questions type="fill_blanks">
@@ -51,7 +51,7 @@ Bài 1 điền trạng từ vào chỗ trống. 1 phút nha.
 </answer>
 
 <teacher_script pause="30">
-Sửa bài vào nha.
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
@@ -72,7 +72,7 @@ Dùng để nói về lịch trình, thời khóa biểu đã định sẵn (tà
 ### Bài 3 trang 85 - Schedule vs Unplanned
 
 <teacher_script pause="60">
-Bài 3 <eng>Write A if it refers to a schedule, B if it is unplanned</eng>. Viết A nếu là lịch trình, B nếu không có kế hoạch. 1 phút nha.
+Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
 <questions type="multiple_choice">
@@ -94,7 +94,7 @@ Bài 3 <eng>Write A if it refers to a schedule, B if it is unplanned</eng>. Vi�
 </explanation>
 
 <teacher_script pause="30">
-Sửa bài nếu sai nha.
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
@@ -103,7 +103,7 @@ Sửa bài nếu sai nha.
 ### Bài 4 trang 86 - Choose correct option
 
 <teacher_script pause="60">
-Bài 4 chọn đáp án đúng. 1 phút nha.
+Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
 <questions type="multiple_choice">
@@ -137,7 +137,7 @@ Lưu ý: Lịch trình chung dùng hiện tại đơn. Quyết định cá nhân
 ### Bài 5 trang 86 - Community Fair Schedule
 
 <teacher_script pause="60">
-Bài 5 hỏi và trả lời về lịch hội chợ.
+Bây giờ là phần thực hành nói. Các em hãy luyện tập theo cặp hoặc theo nhóm nhé.
 </teacher_script>
 
 <task>
@@ -157,12 +157,12 @@ Bài 5 hỏi và trả lời về lịch hội chợ.
 </dialogue>
 
 <teacher_script pause="0" action="record">
-Em hãy hỏi và trả lời 1 câu về lịch hội chợ và ghi âm lại nhé.
+Các em hãy ghi âm phần luyện tập của mình và gửi cho thầy nhé.
 </teacher_script>
 
 ---
 
 <!-- chunk: end -->
 <teacher_script pause="0">
-Xong bài <eng>A Closer Look 2</eng>. Các em nhớ phân biệt khi nào dùng thì hiện tại đơn cho tương lai nhé (chỉ dùng cho lịch trình cố định). Hẹn gặp các em bài sau!
+Bài học hôm nay kết thúc tại đây. Các em nhớ ôn bài và chuẩn bị cho bài học tiếp theo. Tạm biệt các em.
 </teacher_script>

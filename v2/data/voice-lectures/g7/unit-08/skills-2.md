@@ -4,7 +4,7 @@
 
 <!-- chunk: intro -->
 <teacher_script pause="0">
-Chào các em. Hôm nay qua <eng>Skills 2</eng> - Listening và Writing. Mình sẽ nghe về bộ phim *Naughty Twins* và tập viết về bộ phim yêu thích. Mở sách trang 89 nha.
+Chào các em. Mời các em mở sách giáo khoa trang 89. Hôm nay chúng ta qua bài <eng>Skills 2</eng>. Bài học này sẽ giúp các em luyện tập kỹ năng Nghe về bộ phim <eng>Naughty Twins</eng> và kỹ năng Viết thông qua việc viết đoạn văn giới thiệu về bộ phim yêu thích.
 </teacher_script>
 
 ---
@@ -13,7 +13,7 @@ Chào các em. Hôm nay qua <eng>Skills 2</eng> - Listening và Writing. Mình s
 ### Bài 2 trang 89 - Listen and identify star
 
 <teacher_script pause="60">
-Bài 2 <eng>Listen to the conversation</eng>. Nghe và trả lời: Ai đóng vai chính trong phim? 1 phút.
+Chúng ta cùng làm Bài 2 <eng>Listen to the conversation</eng>. Các em hãy nghe đoạn hội thoại và trả lời câu hỏi: Ai đóng vai chính trong phim? Các em có 1 phút.
 </teacher_script>
 
 <audio src="https://img.loigiaihay.com/picture/2022/0815/059.mp3">
@@ -30,7 +30,7 @@ Bài 2 <eng>Listen to the conversation</eng>. Nghe và trả lời: Ai đóng va
 </answer>
 
 <teacher_script pause="0">
-Đáp án là Linda Brown và Susan Smith nhé.
+Đáp án chính xác là Linda Brown và Susan Smith.
 </teacher_script>
 
 ---
@@ -39,7 +39,7 @@ Bài 2 <eng>Listen to the conversation</eng>. Nghe và trả lời: Ai đóng va
 ### Bài 3 trang 89 - Listen and choose correct answer
 
 <teacher_script pause="60">
-Bài 3 <eng>Listen again and choose the best answer</eng>. Nghe lại và chọn đáp án đúng. 1 phút nha.
+Chúng ta cùng làm Bài 3 <eng>Listen again and choose the best answer</eng>. Các em hãy nghe lại đoạn hội thoại và chọn đáp án đúng cho các câu hỏi. Các em có 1 phút.
 </teacher_script>
 
 <audio src="https://img.loigiaihay.com/picture/2022/0815/060.mp3">
@@ -72,7 +72,7 @@ C. is shocking
 
 <!-- chunk: answer_3 -->
 <teacher_script pause="0">
-Đáp án nè.
+Đã hết thời gian. Sau đây là đáp án đúng.
 </teacher_script>
 
 <answer>
@@ -88,7 +88,7 @@ C. is shocking
 </explanation>
 
 <teacher_script pause="30">
-Sửa bài nếu sai nha.
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
@@ -97,7 +97,7 @@ Sửa bài nếu sai nha.
 ### Bài 4 trang 89 - Make notes about favourite film
 
 <teacher_script pause="60">
-Bài 4 <eng>Make notes about one of your favourite films</eng>. Ghi chú về bộ phim em thích. Điền vào các mục sau. 1 phút chuẩn bị.
+Chúng ta cùng làm Bài 4 <eng>Make notes about one of your favourite films</eng>. Các em hãy chuẩn bị ghi chú về một bộ phim mà em yêu thích theo các gợi ý bên dưới. Các em có 1 phút.
 </teacher_script>
 
 <task>
@@ -116,7 +116,7 @@ Bài 4 <eng>Make notes about one of your favourite films</eng>. Ghi chú về b�
 ### Bài 5 trang 89 - Write a paragraph
 
 <teacher_script pause="180">
-Bài 5 <eng>Write a paragraph</eng>. Viết đoạn văn khoảng 70 từ về bộ phim đó dựa trên ghi chú của em. 3 phút nha.
+Chúng ta cùng làm Bài 5 <eng>Write a paragraph</eng>. Dựa vào các ghi chú ở Bài 4, các em hãy viết một đoạn văn khoảng 70 từ về bộ phim đó. Các em có 3 phút.
 </teacher_script>
 
 <task>
@@ -130,12 +130,12 @@ My favourite film is *Harry Potter and the Sorcerer's Stone*. It is a fantasy fi
 </dialogue>
 
 <teacher_script pause="0" action="record">
-Em hãy đọc to đoạn văn mình vừa viết và ghi âm gửi cho thầy nhé.
+Các em hãy đọc to đoạn văn mình vừa viết, ghi âm và gửi cho thầy nhé.
 </teacher_script>
 
 ---
 
 <!-- chunk: end -->
 <teacher_script pause="0">
-Xong bài <eng>Skills 2</eng>. Chúc các em viết được bài văn hay về bộ phim mình yêu thích! Hẹn gặp lại.
+Bài học hôm nay kết thúc tại đây. Thầy mong rằng các em sẽ viết được một đoạn văn hay về bộ phim mình yêu thích. Hẹn gặp lại các em!
 </teacher_script>

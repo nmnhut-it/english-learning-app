@@ -1,0 +1,1620 @@
+{
+  "title": "IELTS Sentence Builder - Interactive Exercises",
+  "description": "Practice transforming sentences using various grammatical structures",
+  "targetLevel": "Pre-intermediate to Intermediate (IELTS 4.5-6.5)",
+
+  "structureFamilies": [
+    {
+      "familyId": "basic-svo",
+      "familyName": "Basic S + V + O",
+      "familyNameVi": "Cấu trúc cơ bản S + V + O",
+      "icon": "1",
+      "description": "Simple subject-verb-object sentences",
+      "structures": [
+        {
+          "id": "svo-simple",
+          "name": "S + V + O",
+          "formula": "Subject + Verb + Object",
+          "example": "The government invests in education.",
+          "exampleVi": "Chính phủ đầu tư vào giáo dục."
+        },
+        {
+          "id": "svo-adverb",
+          "name": "S + V + adv + O",
+          "formula": "Subject + Verb + Adverb + Object",
+          "example": "The government invests significantly in education.",
+          "exampleVi": "Chính phủ đầu tư đáng kể vào giáo dục."
+        }
+      ]
+    },
+    {
+      "familyId": "passive",
+      "familyName": "Passive Voice",
+      "familyNameVi": "Câu bị động",
+      "icon": "2",
+      "description": "Focus on the receiver of the action",
+      "structures": [
+        {
+          "id": "passive-basic",
+          "name": "O + be + V3 + (by S)",
+          "formula": "Object + be + Past Participle + (by Subject)",
+          "example": "Education is prioritized by the government.",
+          "exampleVi": "Giáo dục được chính phủ ưu tiên."
+        },
+        {
+          "id": "passive-modal",
+          "name": "O + modal + be + V3",
+          "formula": "Object + modal + be + Past Participle",
+          "example": "Education should be prioritized.",
+          "exampleVi": "Giáo dục nên được ưu tiên."
+        },
+        {
+          "id": "passive-it-that",
+          "name": "It + be + V3 + that",
+          "formula": "It + be + Past Participle + that + clause",
+          "example": "It is believed that education is essential.",
+          "exampleVi": "Người ta tin rằng giáo dục là thiết yếu."
+        }
+      ]
+    },
+    {
+      "familyId": "relative-clause",
+      "familyName": "Relative Clauses",
+      "familyNameVi": "Mệnh đề quan hệ",
+      "icon": "3",
+      "description": "Add information using who, which, that, where, when",
+      "structures": [
+        {
+          "id": "rel-which-v",
+          "name": "S + V + O, which + V",
+          "formula": "Main clause + , which + Verb",
+          "example": "Technology improves efficiency, which benefits companies.",
+          "exampleVi": "Công nghệ cải thiện hiệu suất, điều này có lợi cho các công ty."
+        },
+        {
+          "id": "rel-who-v",
+          "name": "N + who + V",
+          "formula": "Noun + who + verb (defining relative clause for people)",
+          "example": "Students who study hard achieve better results.",
+          "exampleVi": "Học sinh chăm chỉ đạt kết quả tốt hơn."
+        },
+        {
+          "id": "rel-that-v",
+          "name": "N + that + S + V",
+          "formula": "Noun + that + subject + verb (defining relative clause)",
+          "example": "The skills that employers require include communication and teamwork.",
+          "exampleVi": "Các kỹ năng mà nhà tuyển dụng yêu cầu bao gồm giao tiếp và làm việc nhóm."
+        },
+        {
+          "id": "rel-where",
+          "name": "N + where + S + V",
+          "formula": "Place noun + where + clause",
+          "example": "Schools where technology is used produce better results.",
+          "exampleVi": "Trường học sử dụng công nghệ đạt kết quả tốt hơn."
+        },
+        {
+          "id": "rel-reduced-ving",
+          "name": "N + V-ing",
+          "formula": "Noun + Present Participle + Object",
+          "example": "Students studying abroad gain valuable experience.",
+          "exampleVi": "Sinh viên du học có được kinh nghiệm quý báu."
+        }
+      ]
+    },
+    {
+      "familyId": "noun-clause",
+      "familyName": "Noun Clauses",
+      "familyNameVi": "Mệnh đề danh từ",
+      "icon": "4",
+      "description": "What/That/Whether clauses as subject or object",
+      "structures": [
+        {
+          "id": "nc-what-is",
+          "name": "What + S + V + is + N",
+          "formula": "What + Subject + Verb + is + Noun/Clause",
+          "example": "What students need is practical training.",
+          "exampleVi": "Điều học sinh cần là đào tạo thực tế."
+        },
+        {
+          "id": "nc-that-adj",
+          "name": "It + be + adj + that",
+          "formula": "It + be + Adjective + that + clause",
+          "example": "It is essential that students practice daily.",
+          "exampleVi": "Điều cần thiết là học sinh luyện tập hàng ngày."
+        },
+        {
+          "id": "nc-fact-that",
+          "name": "The fact that + clause",
+          "formula": "The fact that + clause + Verb",
+          "example": "The fact that pollution is increasing is alarming.",
+          "exampleVi": "Việc ô nhiễm đang tăng lên là đáng báo động."
+        },
+        {
+          "id": "nc-reason-why",
+          "name": "The reason why + clause",
+          "formula": "The reason why + clause + is + explanation",
+          "example": "The reason why students fail is poor preparation.",
+          "exampleVi": "Lý do học sinh thất bại là chuẩn bị kém."
+        }
+      ]
+    },
+    {
+      "familyId": "adverbial-clause",
+      "familyName": "Adverbial Clauses",
+      "familyNameVi": "Mệnh đề trạng từ",
+      "icon": "5",
+      "description": "Because, although, if, when, while clauses",
+      "structures": [
+        {
+          "id": "adv-because",
+          "name": "Because + clause, S + V",
+          "formula": "Because + reason clause, + main clause",
+          "example": "Because technology advances, jobs change.",
+          "exampleVi": "Vì công nghệ phát triển, công việc thay đổi."
+        },
+        {
+          "id": "adv-although",
+          "name": "Although + clause, S + V",
+          "formula": "Although + concession, + main clause",
+          "example": "Although costs are high, benefits are greater.",
+          "exampleVi": "Mặc dù chi phí cao, lợi ích lớn hơn."
+        },
+        {
+          "id": "adv-if",
+          "name": "If + clause, S + V",
+          "formula": "If + condition, + result clause",
+          "example": "If governments invest more, education improves.",
+          "exampleVi": "Nếu chính phủ đầu tư nhiều hơn, giáo dục cải thiện."
+        },
+        {
+          "id": "adv-while",
+          "name": "While + clause, S + V",
+          "formula": "While + contrast clause, + main clause",
+          "example": "While some disagree, most support this policy.",
+          "exampleVi": "Trong khi một số người phản đối, đa số ủng hộ chính sách này."
+        }
+      ]
+    },
+    {
+      "familyId": "there-be",
+      "familyName": "There be + N",
+      "familyNameVi": "Cấu trúc There be",
+      "icon": "6",
+      "description": "Express existence or occurrence",
+      "structures": [
+        {
+          "id": "there-basic",
+          "name": "There is/are + N",
+          "formula": "There + is/are + Noun phrase",
+          "example": "There are many benefits to education.",
+          "exampleVi": "Có nhiều lợi ích của giáo dục."
+        },
+        {
+          "id": "there-that",
+          "name": "There is + N + that + V",
+          "formula": "There + is + Noun + that + relative clause",
+          "example": "There is evidence that supports this claim.",
+          "exampleVi": "Có bằng chứng ủng hộ nhận định này."
+        },
+        {
+          "id": "there-perfect",
+          "name": "There has been + N",
+          "formula": "There + has/have been + Noun phrase",
+          "example": "There has been an increase in online learning.",
+          "exampleVi": "Đã có sự gia tăng học trực tuyến."
+        }
+      ]
+    },
+    {
+      "familyId": "cleft",
+      "familyName": "Cleft Sentences",
+      "familyNameVi": "Cấu trúc nhấn mạnh",
+      "icon": "7",
+      "description": "Emphasize specific parts using It is...that",
+      "structures": [
+        {
+          "id": "cleft-it-n-that",
+          "name": "It is + N + that + V",
+          "formula": "It + is + Noun + that + clause",
+          "example": "It is the government that should invest.",
+          "exampleVi": "Chính là chính phủ nên đầu tư."
+        },
+        {
+          "id": "cleft-it-who",
+          "name": "It is + N + who + V",
+          "formula": "It + is + Person + who + clause",
+          "example": "It is students who benefit most.",
+          "exampleVi": "Chính là học sinh hưởng lợi nhiều nhất."
+        },
+        {
+          "id": "cleft-what-is",
+          "name": "What + S + V + is + N",
+          "formula": "What + Subject + Verb + is + Noun/Action",
+          "example": "What we need is better resources.",
+          "exampleVi": "Điều chúng ta cần là nguồn lực tốt hơn."
+        }
+      ]
+    },
+    {
+      "familyId": "nominalization",
+      "familyName": "Nominalization",
+      "familyNameVi": "Danh từ hóa",
+      "icon": "8",
+      "description": "Use noun phrases as subjects",
+      "structures": [
+        {
+          "id": "nom-the-of",
+          "name": "The + N + of + N",
+          "formula": "The + Noun + of + Noun + Verb",
+          "example": "The improvement of education requires funding.",
+          "exampleVi": "Việc cải thiện giáo dục cần kinh phí."
+        },
+        {
+          "id": "nom-ving",
+          "name": "V-ing + O + V",
+          "formula": "Gerund + Object + Verb",
+          "example": "Investing in education helps the economy.",
+          "exampleVi": "Đầu tư vào giáo dục giúp nền kinh tế."
+        },
+        {
+          "id": "nom-compound",
+          "name": "N + N + V",
+          "formula": "Compound Noun + Verb",
+          "example": "Government investment leads to economic and social progress.",
+          "exampleVi": "Đầu tư của chính phủ dẫn đến tiến bộ kinh tế và xã hội."
+        }
+      ]
+    },
+    {
+      "familyId": "cause-effect",
+      "familyName": "Cause & Effect",
+      "familyNameVi": "Nguyên nhân và kết quả",
+      "icon": "9",
+      "description": "Show relationships between causes and effects",
+      "structures": [
+        {
+          "id": "ce-lead-to",
+          "name": "N + lead to + N",
+          "formula": "Cause + lead to + Effect",
+          "example": "Pollution leads to health problems.",
+          "exampleVi": "Ô nhiễm dẫn đến vấn đề sức khỏe."
+        },
+        {
+          "id": "ce-result-in",
+          "name": "N + result in + N",
+          "formula": "Cause + result in + Effect",
+          "example": "Poor diet results in obesity.",
+          "exampleVi": "Chế độ ăn kém dẫn đến béo phì."
+        },
+        {
+          "id": "ce-caused-by",
+          "name": "N + is caused by + N",
+          "formula": "Effect + is caused by + Cause",
+          "example": "Obesity is caused by poor diet.",
+          "exampleVi": "Béo phì là do chế độ ăn kém gây ra."
+        },
+        {
+          "id": "ce-due-to",
+          "name": "Due to + N, clause",
+          "formula": "Due to + Cause, + Effect clause",
+          "example": "Due to pollution, there is an increase in health problems.",
+          "exampleVi": "Do ô nhiễm, có sự gia tăng các vấn đề sức khỏe."
+        }
+      ]
+    },
+    {
+      "familyId": "enable-facilitate",
+      "familyName": "Enable/Facilitate",
+      "familyNameVi": "Cho phép/Tạo điều kiện",
+      "icon": "10",
+      "description": "Show how something makes another possible",
+      "structures": [
+        {
+          "id": "ef-allow",
+          "name": "N + allow + O + to V",
+          "formula": "Subject + allow + Object + to + Verb",
+          "example": "Technology allows people to work remotely.",
+          "exampleVi": "Công nghệ cho phép mọi người làm việc từ xa."
+        },
+        {
+          "id": "ef-enable",
+          "name": "N + enable + O + to V",
+          "formula": "Subject + enable + Object + to + Verb",
+          "example": "Education enables students to succeed.",
+          "exampleVi": "Giáo dục giúp học sinh thành công."
+        },
+        {
+          "id": "ef-help",
+          "name": "N + help + O + (to) V",
+          "formula": "Subject + help + Object + (to) + Verb",
+          "example": "Exercise helps people stay healthy.",
+          "exampleVi": "Tập thể dục giúp mọi người khỏe mạnh."
+        },
+        {
+          "id": "ef-make-possible",
+          "name": "N + make it possible for + O + to V",
+          "formula": "Subject + make it possible for + Object + to + Verb",
+          "example": "Grants make it possible for students to study.",
+          "exampleVi": "Học bổng giúp sinh viên có thể học."
+        }
+      ]
+    },
+    {
+      "familyId": "participle",
+      "familyName": "Participle Phrases",
+      "familyNameVi": "Cụm phân từ",
+      "icon": "11",
+      "description": "Use V-ing or V3 phrases to add information",
+      "structures": [
+        {
+          "id": "part-by-ving",
+          "name": "By V-ing, S + V",
+          "formula": "By + Gerund, + main clause",
+          "example": "By studying hard, students succeed.",
+          "exampleVi": "Bằng cách học chăm chỉ, học sinh thành công."
+        },
+        {
+          "id": "part-ving-sv",
+          "name": "V-ing, S + V",
+          "formula": "Present Participle, + main clause",
+          "example": "Working from home, employees save time.",
+          "exampleVi": "Làm việc tại nhà, nhân viên tiết kiệm thời gian."
+        },
+        {
+          "id": "part-v3-sv",
+          "name": "V3, S + V",
+          "formula": "Past Participle, + main clause",
+          "example": "Faced with challenges, they adapted.",
+          "exampleVi": "Đối mặt với thách thức, họ thích nghi."
+        }
+      ]
+    },
+    {
+      "familyId": "comparison",
+      "familyName": "Comparison",
+      "familyNameVi": "So sánh",
+      "icon": "12",
+      "description": "Compare using more, most, as...as, rather than",
+      "structures": [
+        {
+          "id": "comp-more-than",
+          "name": "S + V + more + adj + than",
+          "formula": "Subject + Verb + more + Adjective + than + Object",
+          "example": "Online learning is more flexible than traditional classroom learning.",
+          "exampleVi": "Học trực tuyến linh hoạt hơn học truyền thống trong lớp."
+        },
+        {
+          "id": "comp-the-most",
+          "name": "S + V + the most + adj",
+          "formula": "Subject + Verb + the most + Adjective",
+          "example": "This is the most effective method.",
+          "exampleVi": "Đây là phương pháp hiệu quả nhất."
+        },
+        {
+          "id": "comp-the-more",
+          "name": "The more..., the more...",
+          "formula": "The more + clause, the more + clause",
+          "example": "The more you practice, the better you become.",
+          "exampleVi": "Càng luyện tập nhiều, bạn càng giỏi hơn."
+        },
+        {
+          "id": "comp-rather-than",
+          "name": "S + V + rather than + V",
+          "formula": "Subject + Verb + rather than + Verb",
+          "example": "Students should practice rather than memorize.",
+          "exampleVi": "Học sinh nên thực hành thay vì học thuộc."
+        }
+      ]
+    }
+  ],
+
+  "exercises": {
+    "wordArrange": [
+      {
+        "id": "wa-edu-001",
+        "topic": "education",
+        "difficulty": "easy",
+        "words": ["should", "The", "in", "government", "education", "invest"],
+        "answer": "The government should invest in education.",
+        "acceptedAnswers": [
+          "The government should invest in education."
+        ],
+        "hint": "Start with 'The government'",
+        "structureId": "svo-simple",
+        "vietnamese": "Chính phủ nên đầu tư vào giáo dục."
+      },
+      {
+        "id": "wa-edu-002",
+        "topic": "education",
+        "difficulty": "easy",
+        "words": ["Students", "hard", "who", "better", "study", "achieve", "results"],
+        "answer": "Students who study hard achieve better results.",
+        "acceptedAnswers": [
+          "Students who study hard achieve better results."
+        ],
+        "hint": "Use 'who' to connect the subject with the relative clause",
+        "structureId": "rel-who-v",
+        "vietnamese": "Học sinh chăm chỉ đạt kết quả tốt hơn."
+      },
+      {
+        "id": "wa-edu-003",
+        "topic": "education",
+        "difficulty": "medium",
+        "words": ["is", "It", "that", "students", "essential", "practice", "daily"],
+        "answer": "It is essential that students practice daily.",
+        "acceptedAnswers": [
+          "It is essential that students practice daily."
+        ],
+        "hint": "Use 'It is + adjective + that + clause' structure",
+        "structureId": "nc-that-adj",
+        "vietnamese": "Điều cần thiết là học sinh luyện tập hàng ngày."
+      },
+      {
+        "id": "wa-edu-004",
+        "topic": "education",
+        "difficulty": "medium",
+        "words": ["of", "The", "education", "improvement", "requires", "funding"],
+        "answer": "The improvement of education requires funding.",
+        "acceptedAnswers": [
+          "The improvement of education requires funding."
+        ],
+        "hint": "Use 'The + noun + of + noun' structure",
+        "structureId": "nom-the-of",
+        "vietnamese": "Việc cải thiện giáo dục cần kinh phí."
+      },
+      {
+        "id": "wa-edu-005",
+        "topic": "education",
+        "difficulty": "medium",
+        "words": ["in", "Investing", "education", "the", "helps", "economy"],
+        "answer": "Investing in education helps the economy.",
+        "acceptedAnswers": [
+          "Investing in education helps the economy."
+        ],
+        "hint": "Start with the gerund (V-ing) as subject",
+        "structureId": "nom-ving",
+        "vietnamese": "Đầu tư vào giáo dục giúp nền kinh tế."
+      },
+      {
+        "id": "wa-tech-001",
+        "topic": "technology",
+        "difficulty": "easy",
+        "words": ["is", "Technology", "we", "changing", "the", "way", "work"],
+        "answer": "Technology is changing the way we work.",
+        "acceptedAnswers": [
+          "Technology is changing the way we work."
+        ],
+        "hint": "Subject + is + V-ing + object",
+        "structureId": "svo-simple",
+        "vietnamese": "Công nghệ đang thay đổi cách chúng ta làm việc."
+      },
+      {
+        "id": "wa-tech-002",
+        "topic": "technology",
+        "difficulty": "medium",
+        "words": ["allows", "Technology", "to", "people", "remotely", "work"],
+        "answer": "Technology allows people to work remotely.",
+        "acceptedAnswers": [
+          "Technology allows people to work remotely."
+        ],
+        "hint": "Use 'allow + object + to + verb' structure",
+        "structureId": "ef-allow",
+        "vietnamese": "Công nghệ cho phép mọi người làm việc từ xa."
+      },
+      {
+        "id": "wa-tech-003",
+        "topic": "technology",
+        "difficulty": "medium",
+        "words": ["leads", "technology", "to", "Using", "efficiency", "greater"],
+        "answer": "Using technology leads to greater efficiency.",
+        "acceptedAnswers": [
+          "Using technology leads to greater efficiency."
+        ],
+        "hint": "Start with gerund, then 'leads to'",
+        "structureId": "ce-lead-to",
+        "vietnamese": "Sử dụng công nghệ dẫn đến hiệu quả cao hơn."
+      },
+      {
+        "id": "wa-env-001",
+        "topic": "environment",
+        "difficulty": "easy",
+        "words": ["leads", "Pollution", "health", "to", "problems"],
+        "answer": "Pollution leads to health problems.",
+        "acceptedAnswers": [
+          "Pollution leads to health problems."
+        ],
+        "hint": "Cause + leads to + effect",
+        "structureId": "ce-lead-to",
+        "vietnamese": "Ô nhiễm dẫn đến vấn đề sức khỏe."
+      },
+      {
+        "id": "wa-env-002",
+        "topic": "environment",
+        "difficulty": "medium",
+        "words": ["recycling", "By", "we", "waste", "can", "reduce"],
+        "answer": "By recycling, we can reduce waste.",
+        "acceptedAnswers": [
+          "By recycling, we can reduce waste."
+        ],
+        "hint": "Use 'By + V-ing' to show method",
+        "structureId": "part-by-ving",
+        "vietnamese": "Bằng cách tái chế, chúng ta có thể giảm rác thải."
+      },
+      {
+        "id": "wa-env-003",
+        "topic": "environment",
+        "difficulty": "medium",
+        "words": ["is", "There", "that", "evidence", "rising", "are", "temperatures"],
+        "answer": "There is evidence that temperatures are rising.",
+        "acceptedAnswers": [
+          "There is evidence that temperatures are rising."
+        ],
+        "hint": "Use 'There is + noun + that + clause'",
+        "structureId": "there-that",
+        "vietnamese": "Có bằng chứng cho thấy nhiệt độ đang tăng."
+      },
+      {
+        "id": "wa-health-001",
+        "topic": "health",
+        "difficulty": "easy",
+        "words": ["helps", "regularly", "Exercising", "health", "improve"],
+        "answer": "Exercising regularly helps improve health.",
+        "acceptedAnswers": [
+          "Exercising regularly helps improve health."
+        ],
+        "hint": "Gerund + adverb + verb",
+        "structureId": "nom-ving",
+        "vietnamese": "Tập thể dục thường xuyên giúp cải thiện sức khỏe."
+      },
+      {
+        "id": "wa-health-002",
+        "topic": "health",
+        "difficulty": "medium",
+        "words": ["is", "It", "that", "believed", "reduces", "exercise", "stress"],
+        "answer": "It is believed that exercise reduces stress.",
+        "acceptedAnswers": [
+          "It is believed that exercise reduces stress."
+        ],
+        "hint": "Use 'It is + V3 + that' passive structure",
+        "structureId": "passive-it-that",
+        "vietnamese": "Người ta tin rằng tập thể dục giảm căng thẳng."
+      },
+      {
+        "id": "wa-work-001",
+        "topic": "work",
+        "difficulty": "medium",
+        "words": ["enables", "Technology", "to", "employees", "from", "home", "work"],
+        "answer": "Technology enables employees to work from home.",
+        "acceptedAnswers": [
+          "Technology enables employees to work from home."
+        ],
+        "hint": "Use 'enable + object + to + verb'",
+        "structureId": "ef-enable",
+        "vietnamese": "Công nghệ cho phép nhân viên làm việc tại nhà."
+      },
+      {
+        "id": "wa-work-002",
+        "topic": "work",
+        "difficulty": "medium",
+        "words": ["more", "The", "the", "you", "practice", "better", "become", "you"],
+        "answer": "The more you practice, the better you become.",
+        "acceptedAnswers": [
+          "The more you practice, the better you become."
+        ],
+        "hint": "Use 'The more..., the more...' comparison",
+        "structureId": "comp-the-more",
+        "vietnamese": "Càng luyện tập nhiều, bạn càng giỏi hơn."
+      }
+    ],
+
+    "fillOneWord": [
+      {
+        "id": "fb-edu-001",
+        "topic": "education",
+        "difficulty": "easy",
+        "sentence": "The government _____ invest more in education.",
+        "blankPosition": 2,
+        "answer": "should",
+        "acceptedAnswers": ["should", "must", "will", "could"],
+        "hint": "Modal verb for advice/recommendation",
+        "structureId": "svo-simple",
+        "vietnamese": "Chính phủ nên đầu tư nhiều hơn vào giáo dục."
+      },
+      {
+        "id": "fb-edu-002",
+        "topic": "education",
+        "difficulty": "easy",
+        "sentence": "Students _____ study hard achieve better results.",
+        "blankPosition": 1,
+        "answer": "who",
+        "acceptedAnswers": ["who", "that"],
+        "hint": "Relative pronoun for people",
+        "structureId": "rel-who-v",
+        "vietnamese": "Học sinh chăm chỉ đạt kết quả tốt hơn."
+      },
+      {
+        "id": "fb-edu-003",
+        "topic": "education",
+        "difficulty": "medium",
+        "sentence": "It is essential _____ students practice regularly.",
+        "blankPosition": 3,
+        "answer": "that",
+        "acceptedAnswers": ["that"],
+        "hint": "Conjunction after 'It is + adjective'",
+        "structureId": "nc-that-adj",
+        "vietnamese": "Điều cần thiết là học sinh luyện tập thường xuyên."
+      },
+      {
+        "id": "fb-edu-004",
+        "topic": "education",
+        "difficulty": "medium",
+        "sentence": "_____ students need is practical training.",
+        "blankPosition": 0,
+        "answer": "What",
+        "acceptedAnswers": ["What"],
+        "hint": "Start a noun clause as subject",
+        "structureId": "nc-what-is",
+        "vietnamese": "Điều học sinh cần là đào tạo thực tế."
+      },
+      {
+        "id": "fb-edu-005",
+        "topic": "education",
+        "difficulty": "medium",
+        "sentence": "The improvement _____ education requires more funding.",
+        "blankPosition": 2,
+        "answer": "in",
+        "acceptedAnswers": ["in"],
+        "hint": "Preposition connecting nouns",
+        "structureId": "nom-the-of",
+        "vietnamese": "Việc cải thiện giáo dục cần nhiều kinh phí hơn."
+      },
+      {
+        "id": "fb-tech-001",
+        "topic": "technology",
+        "difficulty": "easy",
+        "sentence": "Technology allows people _____ work remotely.",
+        "blankPosition": 3,
+        "answer": "to",
+        "acceptedAnswers": ["to"],
+        "hint": "Infinitive marker after 'allow + object'",
+        "structureId": "ef-allow",
+        "vietnamese": "Công nghệ cho phép mọi người làm việc từ xa."
+      },
+      {
+        "id": "fb-tech-002",
+        "topic": "technology",
+        "difficulty": "medium",
+        "sentence": "Technology, _____ is constantly evolving, affects our daily lives.",
+        "blankPosition": 1,
+        "answer": "which",
+        "acceptedAnswers": ["which"],
+        "hint": "Non-defining relative pronoun for things (with comma)",
+        "structureId": "rel-which-v",
+        "vietnamese": "Công nghệ, mà liên tục phát triển, ảnh hưởng đến cuộc sống hàng ngày của chúng ta."
+      },
+      {
+        "id": "fb-tech-003",
+        "topic": "technology",
+        "difficulty": "medium",
+        "sentence": "Using technology _____ to greater efficiency.",
+        "blankPosition": 2,
+        "answer": "leads",
+        "acceptedAnswers": ["leads"],
+        "hint": "Cause-effect verb",
+        "structureId": "ce-lead-to",
+        "vietnamese": "Sử dụng công nghệ dẫn đến hiệu quả cao hơn."
+      },
+      {
+        "id": "fb-tech-004",
+        "topic": "technology",
+        "difficulty": "medium",
+        "sentence": "It is _____ that technology has changed our lives.",
+        "blankPosition": 2,
+        "answer": "clear",
+        "acceptedAnswers": ["clear", "obvious", "evident", "true", "undeniable"],
+        "hint": "Adjective describing certainty",
+        "structureId": "nc-that-adj",
+        "vietnamese": "Rõ ràng là công nghệ đã thay đổi cuộc sống của chúng ta."
+      },
+      {
+        "id": "fb-env-001",
+        "topic": "environment",
+        "difficulty": "easy",
+        "sentence": "Pollution _____ to health problems.",
+        "blankPosition": 1,
+        "answer": "leads",
+        "acceptedAnswers": ["leads"],
+        "hint": "Verb showing cause-effect",
+        "structureId": "ce-lead-to",
+        "vietnamese": "Ô nhiễm dẫn đến các vấn đề sức khỏe."
+      },
+      {
+        "id": "fb-env-002",
+        "topic": "environment",
+        "difficulty": "medium",
+        "sentence": "_____ recycling regularly, we can reduce waste.",
+        "blankPosition": 0,
+        "answer": "By",
+        "acceptedAnswers": ["By"],
+        "hint": "Preposition showing method/means",
+        "structureId": "part-by-ving",
+        "vietnamese": "Bằng cách tái chế thường xuyên, chúng ta có thể giảm rác thải."
+      },
+      {
+        "id": "fb-env-003",
+        "topic": "environment",
+        "difficulty": "medium",
+        "sentence": "There _____ evidence that climate change is real.",
+        "blankPosition": 1,
+        "answer": "is",
+        "acceptedAnswers": ["is"],
+        "hint": "'There + be' for existence",
+        "structureId": "there-that",
+        "vietnamese": "Có bằng chứng cho thấy biến đổi khí hậu là có thật."
+      },
+      {
+        "id": "fb-env-004",
+        "topic": "environment",
+        "difficulty": "medium",
+        "sentence": "_____ to pollution, many species are endangered.",
+        "blankPosition": 0,
+        "answer": "Due",
+        "acceptedAnswers": ["Due", "Owing"],
+        "hint": "Phrase showing cause (+ to)",
+        "structureId": "ce-due-to",
+        "vietnamese": "Do ô nhiễm, nhiều loài đang bị đe dọa."
+      },
+      {
+        "id": "fb-health-001",
+        "topic": "health",
+        "difficulty": "easy",
+        "sentence": "Exercising regularly _____ improve health.",
+        "blankPosition": 2,
+        "answer": "helps",
+        "acceptedAnswers": ["helps", "can"],
+        "hint": "Verb meaning 'assists'",
+        "structureId": "ef-help",
+        "vietnamese": "Tập thể dục thường xuyên giúp cải thiện sức khỏe."
+      },
+      {
+        "id": "fb-health-002",
+        "topic": "health",
+        "difficulty": "medium",
+        "sentence": "It is _____ that exercise reduces stress.",
+        "blankPosition": 2,
+        "answer": "believed",
+        "acceptedAnswers": ["believed", "known", "proven", "shown"],
+        "hint": "Past participle of a reporting verb",
+        "structureId": "passive-it-that",
+        "vietnamese": "Người ta tin rằng tập thể dục giảm căng thẳng."
+      },
+      {
+        "id": "fb-health-003",
+        "topic": "health",
+        "difficulty": "medium",
+        "sentence": "Poor diet results _____ various health problems.",
+        "blankPosition": 2,
+        "answer": "in",
+        "acceptedAnswers": ["in"],
+        "hint": "Preposition after 'results'",
+        "structureId": "ce-result-in",
+        "vietnamese": "Chế độ ăn kém dẫn đến nhiều vấn đề sức khỏe."
+      },
+      {
+        "id": "fb-work-001",
+        "topic": "work",
+        "difficulty": "easy",
+        "sentence": "Technology _____ employees to work from home.",
+        "blankPosition": 1,
+        "answer": "enables",
+        "acceptedAnswers": ["enables", "allows", "permits"],
+        "hint": "Verb meaning 'makes possible'",
+        "structureId": "ef-enable",
+        "vietnamese": "Công nghệ cho phép nhân viên làm việc tại nhà."
+      },
+      {
+        "id": "fb-work-002",
+        "topic": "work",
+        "difficulty": "medium",
+        "sentence": "The more you practice, _____ better you become.",
+        "blankPosition": 4,
+        "answer": "the",
+        "acceptedAnswers": ["the"],
+        "hint": "Article in comparative structure",
+        "structureId": "comp-the-more",
+        "vietnamese": "Càng luyện tập nhiều, bạn càng giỏi hơn."
+      },
+      {
+        "id": "fb-work-003",
+        "topic": "work",
+        "difficulty": "medium",
+        "sentence": "Employees _____ work hard are often promoted.",
+        "blankPosition": 1,
+        "answer": "who",
+        "acceptedAnswers": ["who", "that"],
+        "hint": "Relative pronoun for people",
+        "structureId": "rel-who-v",
+        "vietnamese": "Nhân viên làm việc chăm chỉ thường được thăng chức."
+      },
+      {
+        "id": "fb-work-004",
+        "topic": "work",
+        "difficulty": "medium",
+        "sentence": "_____ is important is teamwork and communication.",
+        "blankPosition": 0,
+        "answer": "What",
+        "acceptedAnswers": ["What"],
+        "hint": "Start a noun clause emphasizing something",
+        "structureId": "nc-what-is",
+        "vietnamese": "Điều quan trọng là làm việc nhóm và giao tiếp."
+      }
+    ],
+
+    "sentenceTransform": [
+      {
+        "id": "st-edu-001",
+        "topic": "education",
+        "difficulty": "medium",
+        "original": "The government funds public schools.",
+        "targetStructure": "passive-basic",
+        "targetStructureName": "Passive Voice",
+        "instruction": "Rewrite using passive voice",
+        "instructionVi": "Viết lại bằng câu bị động",
+        "hint": "Start with 'Public schools...'",
+        "answer": "Public schools are funded by the government.",
+        "acceptedAnswers": [
+          "Public schools are funded by the government.",
+          "Public schools are funded by the government"
+        ],
+        "vietnamese": "Trường công được chính phủ tài trợ."
+      },
+      {
+        "id": "st-edu-002",
+        "topic": "education",
+        "difficulty": "medium",
+        "original": "Students study hard. They achieve better results.",
+        "targetStructure": "rel-who-v",
+        "targetStructureName": "Relative Clause (who)",
+        "instruction": "Combine using 'who'",
+        "instructionVi": "Kết hợp bằng 'who'",
+        "hint": "Students who...",
+        "answer": "Students who study hard achieve better results.",
+        "acceptedAnswers": [
+          "Students who study hard achieve better results.",
+          "Students who study hard achieve better results"
+        ],
+        "vietnamese": "Học sinh chăm chỉ đạt kết quả tốt hơn."
+      },
+      {
+        "id": "st-edu-003",
+        "topic": "education",
+        "difficulty": "medium",
+        "original": "Students need practical training.",
+        "targetStructure": "nc-what-is",
+        "targetStructureName": "What-clause",
+        "instruction": "Rewrite starting with 'What'",
+        "instructionVi": "Viết lại bắt đầu bằng 'What'",
+        "hint": "What students need is...",
+        "answer": "What students need is practical training.",
+        "acceptedAnswers": [
+          "What students need is practical training.",
+          "What students need is practical training"
+        ],
+        "vietnamese": "Điều học sinh cần là đào tạo thực tế."
+      },
+      {
+        "id": "st-edu-004",
+        "topic": "education",
+        "difficulty": "medium",
+        "original": "Investing in education helps the economy.",
+        "targetStructure": "ce-lead-to",
+        "targetStructureName": "Cause & Effect (lead to)",
+        "instruction": "Rewrite using 'leads to'",
+        "instructionVi": "Viết lại dùng 'leads to'",
+        "hint": "Investment in education leads to...",
+        "answer": "Investment in education leads to economic benefits.",
+        "acceptedAnswers": [
+          "Investment in education leads to economic benefits.",
+          "Investment in education leads to economic growth.",
+          "Investment in education leads to a better economy.",
+          "Investing in education leads to economic benefits."
+        ],
+        "vietnamese": "Đầu tư vào giáo dục dẫn đến lợi ích kinh tế."
+      },
+      {
+        "id": "st-edu-005",
+        "topic": "education",
+        "difficulty": "hard",
+        "original": "The government should invest in education.",
+        "targetStructure": "cleft-it-n-that",
+        "targetStructureName": "Cleft Sentence (It is...that)",
+        "instruction": "Rewrite to emphasize 'the government' using 'It is...that'",
+        "instructionVi": "Viết lại để nhấn mạnh 'the government' dùng 'It is...that'",
+        "hint": "It is the government that...",
+        "answer": "It is the government that should invest in education.",
+        "acceptedAnswers": [
+          "It is the government that should invest in education.",
+          "It is the government that should invest in education"
+        ],
+        "vietnamese": "Chính là chính phủ nên đầu tư vào giáo dục."
+      },
+      {
+        "id": "st-tech-001",
+        "topic": "technology",
+        "difficulty": "medium",
+        "original": "Social media connects people worldwide.",
+        "targetStructure": "nom-ving",
+        "targetStructureName": "Gerund as Subject",
+        "instruction": "Rewrite using V-ing as subject",
+        "instructionVi": "Viết lại dùng V-ing làm chủ ngữ",
+        "hint": "Using social media...",
+        "answer": "Using social media connects people worldwide.",
+        "acceptedAnswers": [
+          "Using social media connects people worldwide.",
+          "Using social media connects people worldwide"
+        ],
+        "vietnamese": "Sử dụng mạng xã hội kết nối mọi người trên toàn thế giới."
+      },
+      {
+        "id": "st-tech-002",
+        "topic": "technology",
+        "difficulty": "medium",
+        "original": "Technology helps people work remotely.",
+        "targetStructure": "ef-allow",
+        "targetStructureName": "Allow + O + to V",
+        "instruction": "Rewrite using 'allows...to'",
+        "instructionVi": "Viết lại dùng 'allows...to'",
+        "hint": "Technology allows people to...",
+        "answer": "Technology allows people to work remotely.",
+        "acceptedAnswers": [
+          "Technology allows people to work remotely.",
+          "Technology allows people to work remotely"
+        ],
+        "vietnamese": "Công nghệ cho phép mọi người làm việc từ xa."
+      },
+      {
+        "id": "st-tech-003",
+        "topic": "technology",
+        "difficulty": "hard",
+        "original": "Technology improves efficiency. This benefits companies.",
+        "targetStructure": "rel-which-v",
+        "targetStructureName": "Non-defining Relative (which)",
+        "instruction": "Combine using ', which'",
+        "instructionVi": "Kết hợp dùng ', which'",
+        "hint": "Technology improves efficiency, which...",
+        "answer": "Technology improves efficiency, which benefits companies.",
+        "acceptedAnswers": [
+          "Technology improves efficiency, which benefits companies.",
+          "Technology improves efficiency, which benefits companies"
+        ],
+        "vietnamese": "Công nghệ cải thiện hiệu suất, điều này có lợi cho các công ty."
+      },
+      {
+        "id": "st-tech-004",
+        "topic": "technology",
+        "difficulty": "hard",
+        "original": "People believe technology has changed our lives.",
+        "targetStructure": "passive-it-that",
+        "targetStructureName": "It is + V3 + that",
+        "instruction": "Rewrite using 'It is believed that...'",
+        "instructionVi": "Viết lại dùng 'It is believed that...'",
+        "hint": "It is believed that...",
+        "answer": "It is believed that technology has changed our lives.",
+        "acceptedAnswers": [
+          "It is believed that technology has changed our lives.",
+          "It is believed that technology has changed our lives"
+        ],
+        "vietnamese": "Người ta tin rằng công nghệ đã thay đổi cuộc sống của chúng ta."
+      },
+      {
+        "id": "st-env-001",
+        "topic": "environment",
+        "difficulty": "medium",
+        "original": "Pollution causes health problems.",
+        "targetStructure": "ce-lead-to",
+        "targetStructureName": "Lead to",
+        "instruction": "Rewrite using 'leads to'",
+        "instructionVi": "Viết lại dùng 'leads to'",
+        "hint": "Pollution leads to...",
+        "answer": "Pollution leads to health problems.",
+        "acceptedAnswers": [
+          "Pollution leads to health problems.",
+          "Pollution leads to health problems"
+        ],
+        "vietnamese": "Ô nhiễm dẫn đến các vấn đề sức khỏe."
+      },
+      {
+        "id": "st-env-002",
+        "topic": "environment",
+        "difficulty": "medium",
+        "original": "Poor diet causes obesity.",
+        "targetStructure": "ce-caused-by",
+        "targetStructureName": "Passive Cause (is caused by)",
+        "instruction": "Rewrite focusing on the effect",
+        "instructionVi": "Viết lại tập trung vào kết quả",
+        "hint": "Obesity is caused by...",
+        "answer": "Obesity is caused by poor diet.",
+        "acceptedAnswers": [
+          "Obesity is caused by poor diet.",
+          "Obesity is caused by poor diet",
+          "Obesity is caused by a poor diet.",
+          "Obesity is caused by a poor diet"
+        ],
+        "vietnamese": "Béo phì là do chế độ ăn kém gây ra."
+      },
+      {
+        "id": "st-env-003",
+        "topic": "environment",
+        "difficulty": "medium",
+        "original": "We recycle regularly. We can reduce waste.",
+        "targetStructure": "part-by-ving",
+        "targetStructureName": "By + V-ing",
+        "instruction": "Combine using 'By + V-ing'",
+        "instructionVi": "Kết hợp dùng 'By + V-ing'",
+        "hint": "By recycling regularly, ...",
+        "answer": "By recycling regularly, we can reduce waste.",
+        "acceptedAnswers": [
+          "By recycling regularly, we can reduce waste.",
+          "By recycling regularly, we can reduce waste"
+        ],
+        "vietnamese": "Bằng cách tái chế thường xuyên, chúng ta có thể giảm rác thải."
+      },
+      {
+        "id": "st-env-004",
+        "topic": "environment",
+        "difficulty": "hard",
+        "original": "There is a lot of pollution. Many species are endangered.",
+        "targetStructure": "ce-due-to",
+        "targetStructureName": "Due to",
+        "instruction": "Combine using 'Due to'",
+        "instructionVi": "Kết hợp dùng 'Due to'",
+        "hint": "Due to pollution, ...",
+        "answer": "Due to pollution, many species are endangered.",
+        "acceptedAnswers": [
+          "Due to pollution, many species are endangered.",
+          "Due to pollution, many species are endangered",
+          "Due to a lot of pollution, many species are endangered."
+        ],
+        "vietnamese": "Do ô nhiễm, nhiều loài đang bị đe dọa."
+      },
+      {
+        "id": "st-health-001",
+        "topic": "health",
+        "difficulty": "medium",
+        "original": "Exercise improves health.",
+        "targetStructure": "nom-ving",
+        "targetStructureName": "Gerund as Subject",
+        "instruction": "Rewrite using V-ing as subject",
+        "instructionVi": "Viết lại dùng V-ing làm chủ ngữ",
+        "hint": "Exercising...",
+        "answer": "Exercising improves health.",
+        "acceptedAnswers": [
+          "Exercising improves health.",
+          "Exercising improves health",
+          "Exercising regularly improves health."
+        ],
+        "vietnamese": "Tập thể dục cải thiện sức khỏe."
+      },
+      {
+        "id": "st-health-002",
+        "topic": "health",
+        "difficulty": "medium",
+        "original": "People suffer from stress. They work too much.",
+        "targetStructure": "rel-who-v",
+        "targetStructureName": "Relative Clause (who)",
+        "instruction": "Combine using 'who'",
+        "instructionVi": "Kết hợp bằng 'who'",
+        "hint": "People who work too much...",
+        "answer": "People who work too much suffer from stress.",
+        "acceptedAnswers": [
+          "People who work too much suffer from stress.",
+          "People who work too much suffer from stress"
+        ],
+        "vietnamese": "Người làm việc quá nhiều bị căng thẳng."
+      },
+      {
+        "id": "st-health-003",
+        "topic": "health",
+        "difficulty": "hard",
+        "original": "We need better healthcare.",
+        "targetStructure": "nc-what-is",
+        "targetStructureName": "What-clause",
+        "instruction": "Rewrite starting with 'What'",
+        "instructionVi": "Viết lại bắt đầu bằng 'What'",
+        "hint": "What we need is...",
+        "answer": "What we need is better healthcare.",
+        "acceptedAnswers": [
+          "What we need is better healthcare.",
+          "What we need is better healthcare"
+        ],
+        "vietnamese": "Điều chúng ta cần là dịch vụ y tế tốt hơn."
+      },
+      {
+        "id": "st-work-001",
+        "topic": "work",
+        "difficulty": "medium",
+        "original": "Technology helps employees work from home.",
+        "targetStructure": "ef-enable",
+        "targetStructureName": "Enable + O + to V",
+        "instruction": "Rewrite using 'enables...to'",
+        "instructionVi": "Viết lại dùng 'enables...to'",
+        "hint": "Technology enables employees to...",
+        "answer": "Technology enables employees to work from home.",
+        "acceptedAnswers": [
+          "Technology enables employees to work from home.",
+          "Technology enables employees to work from home"
+        ],
+        "vietnamese": "Công nghệ cho phép nhân viên làm việc tại nhà."
+      },
+      {
+        "id": "st-work-002",
+        "topic": "work",
+        "difficulty": "hard",
+        "original": "Good communication is important in the workplace.",
+        "targetStructure": "nc-what-is",
+        "targetStructureName": "What-clause",
+        "instruction": "Rewrite starting with 'What'",
+        "instructionVi": "Viết lại bắt đầu bằng 'What'",
+        "hint": "What is important in the workplace is...",
+        "answer": "What is important in the workplace is good communication.",
+        "acceptedAnswers": [
+          "What is important in the workplace is good communication.",
+          "What is important in the workplace is good communication"
+        ],
+        "vietnamese": "Điều quan trọng ở nơi làm việc là giao tiếp tốt."
+      },
+      {
+        "id": "st-work-003",
+        "topic": "work",
+        "difficulty": "hard",
+        "original": "Employees work hard. They often get promoted.",
+        "targetStructure": "rel-who-v",
+        "targetStructureName": "Relative Clause (who)",
+        "instruction": "Combine using 'who'",
+        "instructionVi": "Kết hợp bằng 'who'",
+        "hint": "Employees who work hard...",
+        "answer": "Employees who work hard often get promoted.",
+        "acceptedAnswers": [
+          "Employees who work hard often get promoted.",
+          "Employees who work hard often get promoted",
+          "Employees who work hard are often promoted."
+        ],
+        "vietnamese": "Nhân viên làm việc chăm chỉ thường được thăng chức."
+      },
+      {
+        "id": "st-work-004",
+        "topic": "work",
+        "difficulty": "medium",
+        "original": "Students should practice. They will improve faster.",
+        "targetStructure": "adv-if",
+        "targetStructureName": "If-clause",
+        "instruction": "Combine using 'If'",
+        "instructionVi": "Kết hợp dùng 'If'",
+        "hint": "If students practice, ...",
+        "answer": "If students practice, they will improve faster.",
+        "acceptedAnswers": [
+          "If students practice, they will improve faster.",
+          "If students practice, they will improve faster"
+        ],
+        "vietnamese": "Nếu học sinh luyện tập, họ sẽ tiến bộ nhanh hơn."
+      }
+    ],
+
+    "multiStructure": [
+      {
+        "id": "ms-edu-001",
+        "topic": "education",
+        "difficulty": "medium",
+        "baseVietnamese": "Chính phủ đầu tư vào giáo dục giúp cải thiện chất lượng nguồn nhân lực.",
+        "baseEnglish": "Government investment in education improves workforce quality.",
+        "transformations": [
+          {
+            "familyId": "basic-svo",
+            "structureId": "svo-simple",
+            "structureName": "S + V + O",
+            "formula": "Subject + Verb + Object",
+            "answer": "The government invests in education to improve workforce quality.",
+            "acceptedAnswers": [
+              "The government invests in education to improve workforce quality.",
+              "Government investment improves workforce quality."
+            ],
+            "hint": "Simple subject-verb-object structure"
+          },
+          {
+            "familyId": "relative-clause",
+            "structureId": "rel-which-v",
+            "structureName": "S + V + O, which + V",
+            "formula": "Main clause + , which + Verb",
+            "answer": "The government invests in education, which improves workforce quality.",
+            "acceptedAnswers": [
+              "The government invests in education, which improves workforce quality.",
+              "The government invests in education, which helps improve workforce quality."
+            ],
+            "hint": "Add 'which' to show the result"
+          },
+          {
+            "familyId": "cause-effect",
+            "structureId": "ce-lead-to",
+            "structureName": "N + lead to + N",
+            "formula": "Cause + lead to + Effect",
+            "answer": "Government investment in education leads to improved workforce quality.",
+            "acceptedAnswers": [
+              "Government investment in education leads to improved workforce quality.",
+              "Investment in education leads to better workforce quality."
+            ],
+            "hint": "Use 'leads to' to show cause and effect"
+          },
+          {
+            "familyId": "participle",
+            "structureId": "part-by-ving",
+            "structureName": "By V-ing, S + V",
+            "formula": "By + Gerund, + main clause",
+            "answer": "By investing in education, the government improves workforce quality.",
+            "acceptedAnswers": [
+              "By investing in education, the government improves workforce quality.",
+              "By investing in education, the government can improve workforce quality."
+            ],
+            "hint": "Start with 'By investing...'"
+          },
+          {
+            "familyId": "enable-facilitate",
+            "structureId": "ef-enable",
+            "structureName": "N + enable + O + to V",
+            "formula": "Subject + enable + Object + to + Verb",
+            "answer": "Government investment in education enables the workforce to improve.",
+            "acceptedAnswers": [
+              "Government investment in education enables the workforce to improve.",
+              "Investment in education enables workers to develop better skills."
+            ],
+            "hint": "Use 'enables...to' to show possibility"
+          }
+        ]
+      },
+      {
+        "id": "ms-tech-001",
+        "topic": "technology",
+        "difficulty": "medium",
+        "baseVietnamese": "Công nghệ giúp mọi người làm việc từ xa hiệu quả hơn.",
+        "baseEnglish": "Technology helps people work remotely more effectively.",
+        "transformations": [
+          {
+            "familyId": "basic-svo",
+            "structureId": "svo-simple",
+            "structureName": "S + V + O",
+            "formula": "Subject + Verb + Object",
+            "answer": "Technology helps people work remotely more effectively.",
+            "acceptedAnswers": [
+              "Technology helps people work remotely more effectively.",
+              "Technology helps people work from home more effectively."
+            ],
+            "hint": "Simple subject-verb-object structure"
+          },
+          {
+            "familyId": "enable-facilitate",
+            "structureId": "ef-allow",
+            "structureName": "N + allow + O + to V",
+            "formula": "Subject + allow + Object + to + Verb",
+            "answer": "Technology allows people to work remotely more effectively.",
+            "acceptedAnswers": [
+              "Technology allows people to work remotely more effectively.",
+              "Technology allows employees to work from home more effectively."
+            ],
+            "hint": "Use 'allows...to' structure"
+          },
+          {
+            "familyId": "enable-facilitate",
+            "structureId": "ef-make-possible",
+            "structureName": "N + make it possible for + O + to V",
+            "formula": "Subject + make it possible for + Object + to + Verb",
+            "answer": "Technology makes it possible for people to work remotely more effectively.",
+            "acceptedAnswers": [
+              "Technology makes it possible for people to work remotely more effectively.",
+              "Technology makes it possible for employees to work from home."
+            ],
+            "hint": "Use 'makes it possible for...to'"
+          },
+          {
+            "familyId": "nominalization",
+            "structureId": "nom-ving",
+            "structureName": "V-ing + O + V",
+            "formula": "Gerund + Object + Verb",
+            "answer": "Using technology helps people work remotely more effectively.",
+            "acceptedAnswers": [
+              "Using technology helps people work remotely more effectively.",
+              "Using technology enables remote work to be more effective."
+            ],
+            "hint": "Start with 'Using technology...'"
+          },
+          {
+            "familyId": "there-be",
+            "structureId": "there-that",
+            "structureName": "There is + N + that + V",
+            "formula": "There + is + Noun + that + relative clause",
+            "answer": "There are technologies that help people work remotely more effectively.",
+            "acceptedAnswers": [
+              "There are technologies that help people work remotely more effectively.",
+              "There are technologies that enable effective remote work."
+            ],
+            "hint": "Start with 'There are technologies that...'"
+          }
+        ]
+      },
+      {
+        "id": "ms-env-001",
+        "topic": "environment",
+        "difficulty": "medium",
+        "baseVietnamese": "Ô nhiễm không khí gây ra nhiều vấn đề sức khỏe cho người dân.",
+        "baseEnglish": "Air pollution causes many health problems for citizens.",
+        "transformations": [
+          {
+            "familyId": "basic-svo",
+            "structureId": "svo-simple",
+            "structureName": "S + V + O",
+            "formula": "Subject + Verb + Object",
+            "answer": "Air pollution causes many health problems for citizens.",
+            "acceptedAnswers": [
+              "Air pollution causes many health problems for citizens.",
+              "Air pollution causes health problems for people."
+            ],
+            "hint": "Simple cause-effect with 'causes'"
+          },
+          {
+            "familyId": "cause-effect",
+            "structureId": "ce-lead-to",
+            "structureName": "N + lead to + N",
+            "formula": "Cause + lead to + Effect",
+            "answer": "Air pollution leads to many health problems for citizens.",
+            "acceptedAnswers": [
+              "Air pollution leads to many health problems for citizens.",
+              "Air pollution leads to various health issues."
+            ],
+            "hint": "Use 'leads to' for cause-effect"
+          },
+          {
+            "familyId": "cause-effect",
+            "structureId": "ce-caused-by",
+            "structureName": "N + is caused by + N",
+            "formula": "Effect + is caused by + Cause",
+            "answer": "Many health problems are caused by air pollution.",
+            "acceptedAnswers": [
+              "Many health problems are caused by air pollution.",
+              "Health problems in citizens are caused by air pollution."
+            ],
+            "hint": "Focus on the effect, use passive 'is caused by'"
+          },
+          {
+            "familyId": "cause-effect",
+            "structureId": "ce-due-to",
+            "structureName": "Due to + N, clause",
+            "formula": "Due to + Cause, + Effect clause",
+            "answer": "Due to air pollution, many citizens suffer from health problems.",
+            "acceptedAnswers": [
+              "Due to air pollution, many citizens suffer from health problems.",
+              "Due to air pollution, people face many health issues."
+            ],
+            "hint": "Start with 'Due to air pollution,...'"
+          },
+          {
+            "familyId": "cause-effect",
+            "structureId": "ce-result-in",
+            "structureName": "N + result in + N",
+            "formula": "Cause + result in + Effect",
+            "answer": "Air pollution results in many health problems for citizens.",
+            "acceptedAnswers": [
+              "Air pollution results in many health problems for citizens.",
+              "Air pollution results in various health issues."
+            ],
+            "hint": "Use 'results in' for cause-effect"
+          }
+        ]
+      },
+      {
+        "id": "ms-health-001",
+        "topic": "health",
+        "difficulty": "medium",
+        "baseVietnamese": "Tập thể dục thường xuyên giúp cải thiện sức khỏe thể chất và tinh thần.",
+        "baseEnglish": "Regular exercise helps improve physical and mental health.",
+        "transformations": [
+          {
+            "familyId": "nominalization",
+            "structureId": "nom-ving",
+            "structureName": "V-ing + O + V",
+            "formula": "Gerund + Object + Verb",
+            "answer": "Exercising regularly helps improve physical and mental health.",
+            "acceptedAnswers": [
+              "Exercising regularly helps improve physical and mental health.",
+              "Exercising regularly improves physical and mental health."
+            ],
+            "hint": "Start with gerund 'Exercising...'"
+          },
+          {
+            "familyId": "cause-effect",
+            "structureId": "ce-lead-to",
+            "structureName": "N + lead to + N",
+            "formula": "Cause + lead to + Effect",
+            "answer": "Regular exercise leads to improved physical and mental health.",
+            "acceptedAnswers": [
+              "Regular exercise leads to improved physical and mental health.",
+              "Regular exercise leads to better health."
+            ],
+            "hint": "Use 'leads to' for cause-effect"
+          },
+          {
+            "familyId": "passive",
+            "structureId": "passive-modal",
+            "structureName": "O + can be + V3",
+            "formula": "Object + can be + Past Participle",
+            "answer": "Physical and mental health can be improved by regular exercise.",
+            "acceptedAnswers": [
+              "Physical and mental health can be improved by regular exercise.",
+              "Health can be improved through regular exercise."
+            ],
+            "hint": "Use modal passive 'can be improved by...'"
+          },
+          {
+            "familyId": "participle",
+            "structureId": "part-by-ving",
+            "structureName": "By V-ing, S + V",
+            "formula": "By + Gerund, + main clause",
+            "answer": "By exercising regularly, people can improve their physical and mental health.",
+            "acceptedAnswers": [
+              "By exercising regularly, people can improve their physical and mental health.",
+              "By exercising regularly, we can improve our health."
+            ],
+            "hint": "Start with 'By exercising regularly,...'"
+          },
+          {
+            "familyId": "noun-clause",
+            "structureId": "nc-what-is",
+            "structureName": "What + S + V + is + N",
+            "formula": "What + Subject + Verb + is + Noun",
+            "answer": "What helps improve physical and mental health is regular exercise.",
+            "acceptedAnswers": [
+              "What helps improve physical and mental health is regular exercise.",
+              "What improves both physical and mental health is regular exercise."
+            ],
+            "hint": "Start with 'What helps...is...'"
+          }
+        ]
+      },
+      {
+        "id": "ms-work-001",
+        "topic": "work",
+        "difficulty": "medium",
+        "baseVietnamese": "Nhân viên làm việc chăm chỉ thường được thăng chức.",
+        "baseEnglish": "Employees who work hard are often promoted.",
+        "transformations": [
+          {
+            "familyId": "relative-clause",
+            "structureId": "rel-who-v",
+            "structureName": "N + who + V + V",
+            "formula": "Noun + who + relative clause + main Verb",
+            "answer": "Employees who work hard are often promoted.",
+            "acceptedAnswers": [
+              "Employees who work hard are often promoted.",
+              "Workers who work hard are often promoted."
+            ],
+            "hint": "Use 'who' to describe which employees"
+          },
+          {
+            "familyId": "relative-clause",
+            "structureId": "rel-reduced-ving",
+            "structureName": "N + V-ing",
+            "formula": "Noun + Present Participle",
+            "answer": "Employees working hard are often promoted.",
+            "acceptedAnswers": [
+              "Employees working hard are often promoted.",
+              "Hard-working employees are often promoted."
+            ],
+            "hint": "Use reduced relative clause with V-ing"
+          },
+          {
+            "familyId": "adverbial-clause",
+            "structureId": "adv-if",
+            "structureName": "If + clause, S + V",
+            "formula": "If + condition, + result clause",
+            "answer": "If employees work hard, they are often promoted.",
+            "acceptedAnswers": [
+              "If employees work hard, they are often promoted.",
+              "If employees work hard, they will often be promoted."
+            ],
+            "hint": "Use conditional 'If...then...'"
+          },
+          {
+            "familyId": "nominalization",
+            "structureId": "nom-ving",
+            "structureName": "V-ing + O + V",
+            "formula": "Gerund + Object + Verb",
+            "answer": "Working hard often leads to promotion for employees.",
+            "acceptedAnswers": [
+              "Working hard often leads to promotion for employees.",
+              "Working hard often results in promotion."
+            ],
+            "hint": "Start with gerund 'Working hard...'"
+          },
+          {
+            "familyId": "comparison",
+            "structureId": "comp-the-more",
+            "structureName": "The more..., the more...",
+            "formula": "The more + clause, the more + clause",
+            "answer": "The harder employees work, the more likely they are to be promoted.",
+            "acceptedAnswers": [
+              "The harder employees work, the more likely they are to be promoted.",
+              "The harder you work, the more likely you are to be promoted."
+            ],
+            "hint": "Use 'The harder..., the more likely...'"
+          }
+        ]
+      },
+      {
+        "id": "ms-edu-002",
+        "topic": "education",
+        "difficulty": "hard",
+        "baseVietnamese": "Học sinh cần thực hành nhiều hơn để thành công.",
+        "baseEnglish": "Students need to practice more to succeed.",
+        "transformations": [
+          {
+            "familyId": "basic-svo",
+            "structureId": "svo-simple",
+            "structureName": "S + V + O",
+            "formula": "Subject + Verb + Object",
+            "answer": "Students need to practice more to succeed.",
+            "acceptedAnswers": [
+              "Students need to practice more to succeed.",
+              "Students need more practice to succeed."
+            ],
+            "hint": "Simple structure with infinitive of purpose"
+          },
+          {
+            "familyId": "noun-clause",
+            "structureId": "nc-what-is",
+            "structureName": "What + S + V + is + N",
+            "formula": "What + Subject + Verb + is + Noun",
+            "answer": "What students need is more practice.",
+            "acceptedAnswers": [
+              "What students need is more practice.",
+              "What students need to succeed is more practice."
+            ],
+            "hint": "Start with 'What students need is...'"
+          },
+          {
+            "familyId": "adverbial-clause",
+            "structureId": "adv-if",
+            "structureName": "If + clause, S + V",
+            "formula": "If + condition, + result clause",
+            "answer": "If students practice more, they will succeed.",
+            "acceptedAnswers": [
+              "If students practice more, they will succeed.",
+              "If students practice more, they can succeed."
+            ],
+            "hint": "Use conditional 'If students practice more,...'"
+          },
+          {
+            "familyId": "comparison",
+            "structureId": "comp-the-more",
+            "structureName": "The more..., the more...",
+            "formula": "The more + clause, the more + clause",
+            "answer": "The more students practice, the more likely they are to succeed.",
+            "acceptedAnswers": [
+              "The more students practice, the more likely they are to succeed.",
+              "The more students practice, the more successful they become."
+            ],
+            "hint": "Use 'The more..., the more...'"
+          },
+          {
+            "familyId": "participle",
+            "structureId": "part-by-ving",
+            "structureName": "By V-ing, S + V",
+            "formula": "By + Gerund, + main clause",
+            "answer": "By practicing more, students can succeed.",
+            "acceptedAnswers": [
+              "By practicing more, students can succeed.",
+              "By practicing more, students will succeed."
+            ],
+            "hint": "Start with 'By practicing more,...'"
+          }
+        ]
+      }
+    ]
+  }
+}

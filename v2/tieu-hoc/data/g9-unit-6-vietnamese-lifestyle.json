@@ -1,0 +1,348 @@
+{
+  "unitId": "g9-unit-6-vietnamese-lifestyle",
+  "title": "Grade 9 - Unit 6: Vietnamese Lifestyle",
+  "grammarTopics": ["V-ing after verbs", "To-Infinitive after verbs"],
+  "theory": {
+    "brief": "Một số động từ theo sau bởi V-ing (enjoy, finish, mind, avoid, suggest) và một số theo sau bởi to-V (want, promise, decide, agree, learn, plan)",
+    "examples": [
+      "I enjoy playing traditional games.",
+      "She finished doing her homework.",
+      "We decided to visit the museum.",
+      "He promised to help us."
+    ]
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "type": "multiple-choice",
+      "question": "Vietnamese people enjoy __________ traditional food during Tet.",
+      "options": ["eating", "to eat", "eat", "eaten"],
+      "correctIndex": 0,
+      "explanation": "Enjoy + V-ing",
+      "hints": ["Enjoy theo sau bởi V-ing"],
+      "points": 10
+    },
+    {
+      "id": 2,
+      "type": "multiple-choice",
+      "question": "My grandmother finished __________ bánh chưng for Tet.",
+      "options": ["to make", "making", "make", "made"],
+      "correctIndex": 1,
+      "explanation": "Finish + V-ing",
+      "hints": ["Finish theo sau bởi V-ing"],
+      "points": 10
+    },
+    {
+      "id": 3,
+      "type": "multiple-choice",
+      "question": "We decided __________ a traditional Vietnamese wedding.",
+      "options": ["attending", "to attend", "attend", "attended"],
+      "correctIndex": 1,
+      "explanation": "Decide + to-infinitive",
+      "hints": ["Decide theo sau bởi to-V"],
+      "points": 10
+    },
+    {
+      "id": 4,
+      "type": "multiple-choice",
+      "question": "He promised __________ Vietnamese to his children.",
+      "options": ["teaching", "to teach", "teach", "taught"],
+      "correctIndex": 1,
+      "explanation": "Promise + to-infinitive",
+      "hints": ["Promise theo sau bởi to-V"],
+      "points": 10
+    },
+    {
+      "id": 5,
+      "type": "multiple-choice",
+      "question": "They avoid __________ street food late at night.",
+      "options": ["to eat", "eating", "eat", "eaten"],
+      "correctIndex": 1,
+      "explanation": "Avoid + V-ing",
+      "hints": ["Avoid theo sau bởi V-ing"],
+      "points": 10
+    },
+    {
+      "id": 6,
+      "type": "multiple-choice",
+      "question": "She wants __________ more about Vietnamese culture.",
+      "options": ["learning", "to learn", "learn", "learned"],
+      "correctIndex": 1,
+      "explanation": "Want + to-infinitive",
+      "hints": ["Want theo sau bởi to-V"],
+      "points": 10
+    },
+    {
+      "id": 7,
+      "type": "multiple-choice",
+      "question": "Do you mind __________ your shoes before entering the house?",
+      "options": ["to remove", "removing", "remove", "removed"],
+      "correctIndex": 1,
+      "explanation": "Mind + V-ing",
+      "hints": ["Mind theo sau bởi V-ing"],
+      "points": 10
+    },
+    {
+      "id": 8,
+      "type": "multiple-choice",
+      "question": "We plan __________ the water puppet show tomorrow.",
+      "options": ["watching", "to watch", "watch", "watched"],
+      "correctIndex": 1,
+      "explanation": "Plan + to-infinitive",
+      "hints": ["Plan theo sau bởi to-V"],
+      "points": 10
+    },
+    {
+      "id": 9,
+      "type": "multiple-choice",
+      "question": "I suggest __________ a traditional ao dai for the festival.",
+      "options": ["to wear", "wearing", "wear", "worn"],
+      "correctIndex": 1,
+      "explanation": "Suggest + V-ing",
+      "hints": ["Suggest theo sau bởi V-ing"],
+      "points": 10
+    },
+    {
+      "id": 10,
+      "type": "multiple-choice",
+      "question": "They agreed __________ the community project.",
+      "options": ["joining", "to join", "join", "joined"],
+      "correctIndex": 1,
+      "explanation": "Agree + to-infinitive",
+      "hints": ["Agree theo sau bởi to-V"],
+      "points": 10
+    },
+    {
+      "id": 11,
+      "type": "multiple-choice",
+      "question": "She fancies __________ to Vietnamese folk music.",
+      "options": ["to listen", "listening", "listen", "listened"],
+      "correctIndex": 1,
+      "explanation": "Fancy + V-ing",
+      "hints": ["Fancy theo sau bởi V-ing"],
+      "points": 10
+    },
+    {
+      "id": 12,
+      "type": "multiple-choice",
+      "question": "He learned __________ bánh mì at a young age.",
+      "options": ["making", "to make", "make", "made"],
+      "correctIndex": 1,
+      "explanation": "Learn + to-infinitive",
+      "hints": ["Learn theo sau bởi to-V"],
+      "points": 10
+    },
+    {
+      "id": 13,
+      "type": "multiple-choice",
+      "question": "They finished __________ the traditional dance performance.",
+      "options": ["to prepare", "preparing", "prepare", "prepared"],
+      "correctIndex": 1,
+      "explanation": "Finish + V-ing",
+      "hints": ["Finish theo sau bởi V-ing"],
+      "points": 10
+    },
+    {
+      "id": 14,
+      "type": "multiple-choice",
+      "question": "I want __________ more about Vietnamese customs.",
+      "options": ["knowing", "to know", "know", "knew"],
+      "correctIndex": 1,
+      "explanation": "Want + to-infinitive",
+      "hints": ["Want theo sau bởi to-V"],
+      "points": 10
+    },
+    {
+      "id": 15,
+      "type": "multiple-choice",
+      "question": "We enjoy __________ bánh xèo on weekends.",
+      "options": ["to make", "making", "make", "made"],
+      "correctIndex": 1,
+      "explanation": "Enjoy + V-ing",
+      "hints": ["Enjoy theo sau bởi V-ing"],
+      "points": 10
+    },
+    {
+      "id": 16,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["I", "enjoy", "celebrating", "Tet", "with", "my", "family"],
+      "distractors": ["to celebrate", "celebration", "celebrates"],
+      "correctSentence": "I enjoy celebrating Tet with my family",
+      "acceptedAnswers": [
+        "I enjoy celebrating Tet with my family",
+        "I enjoy celebrating Tet with my family."
+      ],
+      "hints": ["enjoy + V-ing"],
+      "points": 10
+    },
+    {
+      "id": 17,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["She", "decided", "to", "learn", "Vietnamese", "cooking"],
+      "distractors": ["learning", "learns", "learned"],
+      "correctSentence": "She decided to learn Vietnamese cooking",
+      "acceptedAnswers": [
+        "She decided to learn Vietnamese cooking",
+        "She decided to learn Vietnamese cooking."
+      ],
+      "hints": ["decide + to-V"],
+      "points": 10
+    },
+    {
+      "id": 18,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["We", "avoid", "talking", "loudly", "in", "temples"],
+      "distractors": ["to talk", "talk", "talks"],
+      "correctSentence": "We avoid talking loudly in temples",
+      "acceptedAnswers": [
+        "We avoid talking loudly in temples",
+        "We avoid talking loudly in temples."
+      ],
+      "hints": ["avoid + V-ing"],
+      "points": 10
+    },
+    {
+      "id": 19,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["They", "promised", "to", "preserve", "traditional", "values"],
+      "distractors": ["preserving", "preserve", "preserves"],
+      "correctSentence": "They promised to preserve traditional values",
+      "acceptedAnswers": [
+        "They promised to preserve traditional values",
+        "They promised to preserve traditional values."
+      ],
+      "hints": ["promise + to-V"],
+      "points": 10
+    },
+    {
+      "id": 20,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["He", "finished", "writing", "about", "Vietnamese", "festivals"],
+      "distractors": ["to write", "write", "writes"],
+      "correctSentence": "He finished writing about Vietnamese festivals",
+      "acceptedAnswers": [
+        "He finished writing about Vietnamese festivals",
+        "He finished writing about Vietnamese festivals."
+      ],
+      "hints": ["finish + V-ing"],
+      "points": 10
+    },
+    {
+      "id": 21,
+      "type": "multiple-choice",
+      "question": "She agreed __________ us to the pagoda.",
+      "options": ["accompanying", "to accompany", "accompany", "accompanied"],
+      "correctIndex": 1,
+      "explanation": "Agree + to-infinitive",
+      "hints": ["Agree theo sau bởi to-V"],
+      "points": 10
+    },
+    {
+      "id": 22,
+      "type": "multiple-choice",
+      "question": "Do you mind __________ off your shoes in the house?",
+      "options": ["to take", "taking", "take", "took"],
+      "correctIndex": 1,
+      "explanation": "Mind + V-ing",
+      "hints": ["Mind theo sau bởi V-ing"],
+      "points": 10
+    },
+    {
+      "id": 23,
+      "type": "multiple-choice",
+      "question": "They plan __________ a traditional wedding ceremony.",
+      "options": ["having", "to have", "have", "had"],
+      "correctIndex": 1,
+      "explanation": "Plan + to-infinitive",
+      "hints": ["Plan theo sau bởi to-V"],
+      "points": 10
+    },
+    {
+      "id": 24,
+      "type": "multiple-choice",
+      "question": "I suggest __________ the Mid-Autumn Festival this year.",
+      "options": ["to celebrate", "celebrating", "celebrate", "celebrated"],
+      "correctIndex": 1,
+      "explanation": "Suggest + V-ing",
+      "hints": ["Suggest theo sau bởi V-ing"],
+      "points": 10
+    },
+    {
+      "id": 25,
+      "type": "multiple-choice",
+      "question": "We want __________ traditional Vietnamese games.",
+      "options": ["learning", "to learn", "learn", "learned"],
+      "correctIndex": 1,
+      "explanation": "Want + to-infinitive",
+      "hints": ["Want theo sau bởi to-V"],
+      "points": 10
+    },
+    {
+      "id": 26,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["I", "want", "to", "visit", "Hoi", "An", "next", "summer"],
+      "distractors": ["visiting", "visit", "visits"],
+      "correctSentence": "I want to visit Hoi An next summer",
+      "acceptedAnswers": [
+        "I want to visit Hoi An next summer",
+        "I want to visit Hoi An next summer."
+      ],
+      "hints": ["want + to-V"],
+      "points": 10
+    },
+    {
+      "id": 27,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["She", "enjoys", "making", "traditional", "Vietnamese", "crafts"],
+      "distractors": ["to make", "make", "makes"],
+      "correctSentence": "She enjoys making traditional Vietnamese crafts",
+      "acceptedAnswers": [
+        "She enjoys making traditional Vietnamese crafts",
+        "She enjoys making traditional Vietnamese crafts."
+      ],
+      "hints": ["enjoy + V-ing"],
+      "points": 10
+    },
+    {
+      "id": 28,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["We", "agreed", "to", "follow", "traditional", "customs"],
+      "distractors": ["following", "follow", "follows"],
+      "correctSentence": "We agreed to follow traditional customs",
+      "acceptedAnswers": [
+        "We agreed to follow traditional customs",
+        "We agreed to follow traditional customs."
+      ],
+      "hints": ["agree + to-V"],
+      "points": 10
+    },
+    {
+      "id": 29,
+      "type": "multiple-choice",
+      "question": "My family enjoys __________ bánh tét during Tet holidays.",
+      "options": ["to prepare", "preparing", "prepare", "prepared"],
+      "correctIndex": 1,
+      "explanation": "Enjoy + V-ing",
+      "hints": ["Enjoy theo sau bởi V-ing"],
+      "points": 10
+    },
+    {
+      "id": 30,
+      "type": "multiple-choice",
+      "question": "The children learned __________ traditional songs at school.",
+      "options": ["singing", "to sing", "sing", "sang"],
+      "correctIndex": 1,
+      "explanation": "Learn + to-infinitive",
+      "hints": ["Learn theo sau bởi to-V"],
+      "points": 10
+    }
+  ]
+}

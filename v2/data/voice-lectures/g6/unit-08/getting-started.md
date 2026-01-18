@@ -4,11 +4,11 @@
 
 <!-- chunk: intro -->
 <teacher_script pause="0">
-Chào mấy đứa. Hôm nay học Unit 8 - <eng>Sports and Games</eng>. Thể thao và Trò chơi. Mở sách trang 16 nha.
+Chào các em. Hôm nay chúng ta sẽ bắt đầu Unit 8 với chủ đề <eng>Sports and Games</eng> - Thể thao và Trò chơi. Mời các em mở sách giáo khoa trang 16.
 </teacher_script>
 
 <teacher_script pause="0">
-Bài này là <eng>Getting Started</eng>, tựa đề <eng>At the gym</eng> - Ở phòng tập. Các em ghi tựa bài rồi bấm nút "Bắt đầu" để học từ vựng.
+Bài học đầu tiên là <eng>Getting Started</eng> với tựa đề <eng>At the gym</eng> - Ở phòng tập. Các em hãy ghi tựa bài vào vở rồi bấm nút "Bắt đầu" để học từ vựng nhé.
 </teacher_script>
 
 ---
@@ -39,7 +39,7 @@ Bài này là <eng>Getting Started</eng>, tựa đề <eng>At the gym</eng> - �
 ### Bài 1 trang 16 - Listen and read
 
 <teacher_script pause="0">
-Bài 1 <eng>Listen and read</eng> nha. Đây là hội thoại giữa Dương và Mai ở phòng tập gym. Bấm play để nghe.
+Chúng ta cùng làm Bài 1 <eng>Listen and read</eng>. Đây là cuộc hội thoại giữa bạn Dương và bạn Mai tại phòng tập gym. Các em hãy nghe đoạn hội thoại nhé.
 </teacher_script>
 
 <audio src="https://img.loigiaihay.com/picture/2024/0427/tieng-anh-6-tap-2-global-success-unit-8-sports-and-games-getting-started-1-listen-and-read-sach-mem.mp3">
@@ -62,14 +62,14 @@ Bài 1 <eng>Listen and read</eng> nha. Đây là hội thoại giữa Dương v�
 </dialogue>
 
 <teacher_script pause="180">
-Các em dịch hội thoại vô tập. 3 phút nha.
+Các em hãy dành 3 phút để dịch đoạn hội thoại này vào vở nhé.
 </teacher_script>
 
 ---
 
 <!-- chunk: translation -->
 <teacher_script pause="0">
-Ok đây là bản dịch. So sánh với bài dịch của mình nha.
+Đây là bản dịch tham khảo. Các em hãy so sánh với bài dịch của mình nhé.
 </teacher_script>
 
 <translation>
@@ -88,7 +88,7 @@ Ok đây là bản dịch. So sánh với bài dịch của mình nha.
 </translation>
 
 <teacher_script pause="0">
-Sửa bài dịch nếu sai nha. Sau đó qua bài tiếp theo.
+Các em hãy sửa lại nếu có chỗ nào chưa đúng nhé.
 </teacher_script>
 
 ---
@@ -97,7 +97,7 @@ Sửa bài dịch nếu sai nha. Sau đó qua bài tiếp theo.
 ### Bài 2 trang 17 - Put a word from the conversation in each gap
 
 <teacher_script pause="60">
-Bài 2 <eng>Put a word from the conversation in each gap</eng>. Điền từ từ hội thoại vào chỗ trống. Đọc lại hội thoại để tìm từ đúng nha. 1 phút.
+Chúng ta cùng làm Bài 2 <eng>Put a word from the conversation in each gap</eng>. Các em hãy đọc lại đoạn hội thoại và điền từ thích hợp vào chỗ trống. Các em có 1 phút.
 </teacher_script>
 
 <task>
@@ -132,7 +132,7 @@ Bài 2 <eng>Put a word from the conversation in each gap</eng>. Điền từ t�
 
 <!-- chunk: answer_2 -->
 <teacher_script pause="0">
-Ok thầy sửa bài nha.
+Đã hết thời gian. Sau đây là đáp án đúng.
 </teacher_script>
 
 <answer>
@@ -156,7 +156,7 @@ Ai sai câu 5 thì nhớ: <eng>cycle</eng> là đạp xe, <eng>go</eng> cũng đ
 </teacher_script>
 
 <teacher_script pause="30">
-Sửa bài nếu sai. 30 giây nha.
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
@@ -165,7 +165,7 @@ Sửa bài nếu sai. 30 giây nha.
 ### Bài 3 trang 17 - Name these sports and games
 
 <teacher_script pause="45">
-Bài 3 <eng>Name these sports and games</eng>. Gọi tên các môn thể thao trong tranh. Nhìn tranh trong sách rồi chọn từ trong khung điền vô. 45 giây nha.
+Chúng ta cùng chuyển sang Bài 3 <eng>Name these sports and games</eng>. Các em hãy nhìn tranh và chọn từ trong khung để điền tên các môn thể thao. Các em có 45 giây.
 </teacher_script>
 
 <task>
@@ -191,7 +191,7 @@ Bài 3 <eng>Name these sports and games</eng>. Gọi tên các môn thể thao t
 
 <!-- chunk: answer_3 -->
 <teacher_script pause="0">
-Đáp án nè.
+Sau đây là đáp án.
 </teacher_script>
 
 <answer>
@@ -212,11 +212,11 @@ Bài 3 <eng>Name these sports and games</eng>. Gọi tên các môn thể thao t
 </vocabulary>
 
 <teacher_script pause="0">
-Nhớ phân biệt: <eng>cycling</eng> là MÔN đạp xe (danh từ), còn <eng>cycle</eng> là HÀNH ĐỘNG đạp xe (động từ). Ví dụ: <eng>I like cycling</eng> - Tôi thích môn đạp xe. <eng>I cycle to school</eng> - Tôi đạp xe đến trường.
+Các em lưu ý phân biệt: <eng>cycling</eng> là danh từ chỉ môn đạp xe, còn <eng>cycle</eng> là động từ chỉ hành động đạp xe. Ví dụ: <eng>I like cycling</eng> - Tôi thích môn đạp xe. <eng>I cycle to school</eng> - Tôi đạp xe đến trường.
 </teacher_script>
 
 <teacher_script pause="30">
-Sửa bài nếu sai. 30 giây nha.
+Các em hãy kiểm tra và sửa bài nhé.
 </teacher_script>
 
 ---
@@ -225,7 +225,7 @@ Sửa bài nếu sai. 30 giây nha.
 ### Bài 4 trang 17 - Work in pairs
 
 <teacher_script pause="0">
-Bài 4 <eng>Work in pairs</eng>. Làm việc theo cặp, hỏi đáp để tìm ra bạn có yêu thể thao không.
+Chúng ta cùng làm Bài 4 <eng>Work in pairs</eng>. Các em hãy làm việc theo cặp, hỏi và trả lời các câu hỏi để xem mình có yêu thích thể thao không nhé.
 </teacher_script>
 
 <task>
@@ -251,18 +251,18 @@ Bài 4 <eng>Work in pairs</eng>. Làm việc theo cặp, hỏi đáp để tìm 
 </questions>
 
 <teacher_script pause="0">
-Đây là bài nói, các em ghi âm trả lời 5 câu hỏi nha. Nói bằng tiếng Anh. Ví dụ: <eng>Yes, I can swim. I play outdoors every day...</eng>
+Đây là bài luyện nói. Các em hãy ghi âm câu trả lời cho 5 câu hỏi bằng tiếng Anh.
 </teacher_script>
 
 <teacher_script pause="0" action="record">
-Bấm nút Ghi âm để trả lời 5 câu hỏi và gửi cho thầy.
+Các em hãy bấm nút Ghi âm để thực hiện bài nói và gửi cho thầy nhé.
 </teacher_script>
 
 ---
 
 <!-- chunk: end -->
 <teacher_script pause="0">
-Ok hết <eng>Getting Started</eng> rồi. Về nhà học thuộc từ vựng về thể thao nha. Nhớ phân biệt <eng>do sports</eng> với <eng>play sports</eng>:
+Bài học hôm nay kết thúc tại đây. Các em về nhà nhớ học thuộc từ vựng về thể thao và phân biệt cách dùng <eng>do</eng>, <eng>play</eng> với <eng>sports</eng> nhé.
 </teacher_script>
 
 <grammar>
@@ -276,9 +276,9 @@ Ok hết <eng>Getting Started</eng> rồi. Về nhà học thuộc từ vựng v
 </grammar>
 
 <teacher_script pause="0">
-Mẹo nhớ: <eng>DO</eng> dùng cho mấy môn tập một mình như võ, yoga. <eng>PLAY</eng> dùng cho mấy môn có đối thủ như bóng đá, cờ. <eng>GO</eng> dùng cho mấy môn phải đi đến nơi cụ thể như bơi, câu cá.
+Mẹo nhớ: <eng>DO</eng> dùng cho những môn tập cá nhân như võ, yoga. <eng>PLAY</eng> dùng cho những môn có tính đồng đội, đối kháng hoặc dùng bóng, bàn cờ. <eng>GO</eng> dùng cho những môn có đuôi -ing mà phải di chuyển.
 </teacher_script>
 
 <teacher_script pause="0">
-Bài sau qua <eng>A Closer Look 1</eng> - học thêm từ vựng và phát âm. Hẹn gặp lại mấy đứa!
+Bài học tiếp theo chúng ta sẽ học phần <eng>A Closer Look 1</eng>. Hẹn gặp lại các em.
 </teacher_script>

@@ -1,0 +1,2449 @@
+{
+  "unitId": "unit-10-indefinite-pronouns",
+  "title": "Unit 10: Indefinite Pronouns & Question Tags",
+  "grammarTopics": [
+    "Indefinite Pronouns",
+    "Question Tags"
+  ],
+  "theory": {
+    "sections": [
+      {
+        "title": "🎯 PHẦN 1: TỪ CHỈ NGƯỜI/VẬT/NƠI CHỐN KHÔNG RÕ",
+        "intro": "Khi bạn nói 'Có AI ĐÓ gõ cửa' nhưng không biết là ai → dùng những từ đặc biệt này!",
+        "mainIdea": "Có 4 nhóm từ, mỗi nhóm dùng cho tình huống khác nhau:",
+        "groups": [
+          {
+            "icon": "✅",
+            "groupName": "NHÓM 1: Từ có chữ SOME",
+            "whenToUse": "Dùng khi nói câu BÌNH THƯỜNG (câu có 'có', không nói 'không')",
+            "vietnameseMeaning": "nghĩa là: AI ĐÓ / CÁI GÌ ĐÓ / ĐÂU ĐÓ",
+            "wordList": [
+              {
+                "word": "someone",
+                "alsoWritten": "somebody",
+                "meaning": "AI ĐÓ (người)",
+                "example": "Ai đó đang gọi bạn đấy."
+              },
+              {
+                "word": "something",
+                "meaning": "CÁI GÌ ĐÓ (đồ vật)",
+                "example": "Mình cần cái gì đó để ăn."
+              },
+              {
+                "word": "somewhere",
+                "meaning": "ĐÂU ĐÓ (nơi chốn)",
+                "example": "Đi đâu đó vui vui nào!"
+              }
+            ],
+            "trick": "💡 MẸO GHI NHỚ: SOME = CÓ → Câu nói 'CÓ' thì dùng SOME!",
+            "moreExamples": [
+              "Có ai đó ở cửa → Someone is at the door",
+              "Tớ thấy cái gì đó lạ → I saw something strange"
+            ]
+          },
+          {
+            "icon": "❓",
+            "groupName": "NHÓM 2: Từ có chữ ANY",
+            "whenToUse": "Dùng khi HỎI (có dấu ?) hoặc nói 'KHÔNG'",
+            "vietnameseMeaning": "nghĩa là: AI / CÁI GÌ / ĐÂU (bất kỳ)",
+            "wordList": [
+              {
+                "word": "anyone",
+                "alsoWritten": "anybody",
+                "meaning": "AI / BẤT KỲ AI",
+                "example": "Có ai ở nhà không?"
+              },
+              {
+                "word": "anything",
+                "meaning": "CÁI GÌ / BẤT KỲ THỨ GÌ",
+                "example": "Mình không có gì cả."
+              },
+              {
+                "word": "anywhere",
+                "meaning": "ĐÂU / BẤT KỲ NƠI ĐÂU",
+                "example": "Hôm nay không đi đâu được."
+              }
+            ],
+            "trick": "💡 MẸO GHI NHỚ: Thấy dấu HỎI (?) hoặc từ KHÔNG → dùng ANY!",
+            "moreExamples": [
+              "Có ai biết không? → Does anyone know?",
+              "Tớ không tìm thấy ở đâu cả → I can't find it anywhere"
+            ]
+          },
+          {
+            "icon": "❌",
+            "groupName": "NHÓM 3: Từ có chữ NO",
+            "whenToUse": "Dùng khi muốn nói KHÔNG MỘT AI / KHÔNG MỘT CÁI NÀO (nhấn mạnh)",
+            "vietnameseMeaning": "nghĩa là: KHÔNG AI / KHÔNG GÌ / KHÔNG ĐÂU",
+            "wordList": [
+              {
+                "word": "no one",
+                "alsoWritten": "nobody",
+                "meaning": "KHÔNG AI",
+                "example": "Không ai đến bữa tiệc cả."
+              },
+              {
+                "word": "nothing",
+                "meaning": "KHÔNG GÌ / KHÔNG CÓ GÌ",
+                "example": "Không có gì trong tủ lạnh."
+              },
+              {
+                "word": "nowhere",
+                "meaning": "KHÔNG NƠI NÀO / KHÔNG ĐÂU",
+                "example": "Mình không có chỗ ngồi."
+              }
+            ],
+            "trick": "💡 MẸO GHI NHỚ: NO = KHÔNG",
+            "warning": "⚠️ SIÊU QUAN TRỌNG: ĐỪNG nói 'không...không gì' (sai!) → nói 'không...cái gì' (đúng!)",
+            "warningExample": "❌ SAI: I don't have nothing | ✅ ĐÚNG: I don't have anything"
+          },
+          {
+            "icon": "🌟",
+            "groupName": "NHÓM 4: Từ có chữ EVERY",
+            "whenToUse": "Dùng khi nói về TẤT CẢ MỌI NGƯỜI / MỌI THỨ / MỌI NƠI",
+            "vietnameseMeaning": "nghĩa là: MỌI NGƯỜI / MỌI THỨ / MỌI NƠI",
+            "wordList": [
+              {
+                "word": "everyone",
+                "alsoWritten": "everybody",
+                "meaning": "MỌI NGƯỜI",
+                "example": "Mọi người đều yêu kem!"
+              },
+              {
+                "word": "everything",
+                "meaning": "MỌI THỨ / TẤT CẢ",
+                "example": "Mọi thứ đã sẵn sàng rồi."
+              },
+              {
+                "word": "everywhere",
+                "meaning": "MỌI NƠI / KHẮP NƠI",
+                "example": "Đồ chơi ở khắp nơi!"
+              }
+            ],
+            "trick": "💡 MẸO GHI NHỚ: EVERY = TẤT CẢ",
+            "specialNote": "🎯 Lưu ý: Everyone + IS (không dùng ARE) vì coi như số ít!"
+          }
+        ],
+        "quickTable": {
+          "title": "📊 BẢNG TRA NHANH",
+          "explanation": "Tìm theo hàng ngang để biết dùng từ nào:",
+          "rows": [
+            {
+              "situation": "✅ Câu bình thường (có 'có')",
+              "person": "someone (ai đó)",
+              "thing": "something (cái gì đó)",
+              "place": "somewhere (đâu đó)"
+            },
+            {
+              "situation": "❓ Câu hỏi hoặc câu phủ định",
+              "person": "anyone (ai)",
+              "thing": "anything (cái gì)",
+              "place": "anywhere (đâu)"
+            },
+            {
+              "situation": "❌ Không có ai/gì/đâu",
+              "person": "no one (không ai)",
+              "thing": "nothing (không gì)",
+              "place": "nowhere (không đâu)"
+            },
+            {
+              "situation": "🌟 Tất cả mọi người/thứ/nơi",
+              "person": "everyone (mọi người)",
+              "thing": "everything (mọi thứ)",
+              "place": "everywhere (mọi nơi)"
+            }
+          ]
+        }
+      },
+      {
+        "title": "🔖 PHẦN 2: CÂU HỎI ĐUÔI (hỏi 'phải không?')",
+        "intro": "Giống như tiếng Việt nói: 'Hôm nay trời đẹp, PHẢI KHÔNG?' hoặc 'Em không thích cơm, ĐÚNG KHÔNG?' → Tiếng Anh cũng thêm câu hỏi ngắn vào cuối!",
+        "goldenRule": {
+          "title": "⭐ QUY TẮC VÀNG - SIÊU DỄ NHỚ",
+          "rule1": "Câu đầu nói 'CÓ' → Câu đuôi hỏi 'KHÔNG phải' ❓",
+          "rule2": "Câu đầu nói 'KHÔNG' → Câu đuôi hỏi 'CÓ phải' ❓",
+          "visual": "😊 CÓ → ❌ KHÔNG? | ❌ KHÔNG → ✅ CÓ?",
+          "simpleExamples": [
+            "Bạn vui (CÓ vui) → phải KHÔNG? → You are happy, aren't you?",
+            "Bạn không buồn → phải CÓ? → You aren't sad, are you?"
+          ]
+        },
+        "howToMake": {
+          "title": "🔧 CÁCH LÀM - 3 BƯỚC ĐơN GIẢN",
+          "steps": [
+            {
+              "stepNumber": 1,
+              "name": "BƯỚC 1: Với từ là/thì/ở (am/is/are/was/were)",
+              "howTo": "Lấy từ 'là/thì/ở' ra, đảo ngược 'có/không'",
+              "vietnameseExamples": [
+                "Cô ấy cao (IS cao) → KHÔNG cao phải không?",
+                "Họ là bạn (ARE bạn) → KHÔNG phải bạn à?",
+                "Trời không lạnh (KHÔNG IS lạnh) → CÓ lạnh không?"
+              ],
+              "englishExamples": [
+                "She is tall → isn't she?",
+                "They are friends → aren't they?",
+                "It isn't cold → is it?"
+              ],
+              "specialCase": "🎯 Trường hợp đặc biệt: 'Tôi là' → aren't I? (ghi nhớ riêng!)"
+            },
+            {
+              "stepNumber": 2,
+              "name": "BƯỚC 2: Với động từ thường (thích/đi/chơi/ăn...)",
+              "howTo": "Dùng từ DO/DOES/DID rồi đảo ngược",
+              "vietnameseExamples": [
+                "Bạn thích kẹo → KHÔNG thích à?",
+                "Cậu ấy chơi bóng → KHÔNG chơi à?",
+                "Họ về nhà rồi → KHÔNG về à?"
+              ],
+              "englishExamples": [
+                "You like candy → don't you?",
+                "He plays soccer → doesn't he?",
+                "They went home → didn't they?"
+              ],
+              "reminder": "🎯 Nhớ: He/She/It dùng doesn't | Bạn/Chúng ta/Họ dùng don't | Đã làm rồi dùng didn't"
+            },
+            {
+              "stepNumber": 3,
+              "name": "BƯỚC 3: Với từ đặc biệt (biết/sẽ/nên/có thể...)",
+              "howTo": "Lấy từ đặc biệt ra, đảo ngược 'có/không'",
+              "vietnameseExamples": [
+                "Bạn biết bơi (CAN bơi) → KHÔNG biết à?",
+                "Cô ấy sẽ đến (WILL đến) → KHÔNG đến à?",
+                "Chúng ta nên đi (SHOULD đi) → KHÔNG nên à?"
+              ],
+              "englishExamples": [
+                "You can swim → can't you?",
+                "She will come → won't she?",
+                "We should go → shouldn't we?"
+              ],
+              "tip": "🎯 Mẹo: Cứ lấy từ đặc biệt ra, đổi có/không là xong!"
+            }
+          ]
+        },
+        "practiceCorner": {
+          "title": "🎮 GÓC LUYỆN TẬP NHANH",
+          "instruction": "Điền từ vào chỗ trống:",
+          "exercises": [
+            {
+              "question": "Hôm nay trời nắng, _____ phải không?",
+              "hint": "Trời nắng (IS nắng) → không nắng?",
+              "answer": "isn't"
+            },
+            {
+              "question": "Bạn không thích cá, _____ phải không?",
+              "hint": "Không thích → có thích?",
+              "answer": "do"
+            },
+            {
+              "question": "Cô ấy biết nhảy, _____ phải không?",
+              "hint": "Biết (CAN) → không biết?",
+              "answer": "can't"
+            },
+            {
+              "question": "Họ không muộn, _____ phải không?",
+              "hint": "Không muộn → có muộn?",
+              "answer": "were"
+            }
+          ]
+        },
+        "importantReminders": [
+          "⚠️ LƯU Ý QUAN TRỌNG:",
+          "Trong câu đuôi LUÔN LUÔN dùng HE/SHE/IT/THEY, KHÔNG dùng tên người!",
+          "",
+          "VÍ DỤ:",
+          "✅ ĐÚNG: Tom cao, isn't HE? (dùng HE thay cho Tom)",
+          "❌ SAI: Tom cao, isn't Tom?",
+          "",
+          "✅ ĐÚNG: Mary và Lan là bạn, aren't THEY? (dùng THEY)",
+          "❌ SAI: Mary và Lan là bạn, aren't Mary and Lan?"
+        ]
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "type": "multiple-choice",
+      "question": "Who's there? __________ is knocking on the door.",
+      "options": [
+        "Anyone",
+        "Someone",
+        "No one",
+        "Everyone"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đây là câu khẳng định nói về một người không xác định đang gõ cửa → dùng 'someone' (ai đó). Dịch: Ai đó đang gõ cửa. Quy tắc: Câu khẳng định + người không rõ = SOMEONE/SOMEBODY. Không dùng 'anyone' vì đây không phải câu hỏi hay câu phủ định.",
+      "hints": [
+        "Người nào đó (không biết rõ)"
+      ],
+      "points": 10
+    },
+    {
+      "id": 2,
+      "type": "multiple-choice",
+      "question": "Who's going to be there? __________, the whole class.",
+      "options": [
+        "Someone",
+        "Anyone",
+        "Everyone",
+        "No one"
+      ],
+      "correctIndex": 2,
+      "explanation": "Cụm 'the whole class' (cả lớp) cho thấy đang nói về TẤT CẢ mọi người → dùng 'everyone'. Dịch: Ai sẽ đến đó? - Mọi người, cả lớp. Quy tắc: Khi nói về tất cả mọi người không trừ ai = EVERYONE/EVERYBODY. Lưu ý: Everyone + động từ số ít (is, was, has...).",
+      "hints": [
+        "Cả lớp = tất cả mọi người"
+      ],
+      "points": 10
+    },
+    {
+      "id": 3,
+      "type": "multiple-choice",
+      "question": "It was very quiet. There was __________ at the park.",
+      "options": [
+        "someone",
+        "anyone",
+        "everyone",
+        "no one"
+      ],
+      "correctIndex": 3,
+      "explanation": "'Very quiet' (rất yên tĩnh) gợi ý rằng KHÔNG CÓ AI ở công viên → dùng 'no one'. Dịch: Trời rất yên tĩnh. Không có ai ở công viên. Quy tắc: 'No one/Nobody' = không có người nào (nhấn mạnh sự vắng người). Lưu ý: 'No one' đã mang nghĩa phủ định nên KHÔNG dùng thêm 'not' (There was no one ✓, There wasn't no one ✗).",
+      "hints": [
+        "Không có người nào"
+      ],
+      "points": 10
+    },
+    {
+      "id": 4,
+      "type": "multiple-choice",
+      "question": "What's that noise? __________ is talking in the garden.",
+      "options": [
+        "Anyone",
+        "Someone",
+        "No one",
+        "Everyone"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nghe thấy tiếng động nhưng không biết ai → đây là câu khẳng định nói về người không xác định → dùng 'someone'. Dịch: Tiếng gì thế? Ai đó đang nói chuyện trong vườn. Quy tắc: Câu khẳng định + người chưa rõ danh tính = SOMEONE. So sánh: 'Is anyone talking?' (câu hỏi dùng anyone) vs 'Someone is talking' (câu khẳng định dùng someone).",
+      "hints": [
+        "Ai đó đang nói chuyện"
+      ],
+      "points": 10
+    },
+    {
+      "id": 5,
+      "type": "multiple-choice",
+      "question": "I haven't got __________ nice to wear for the party.",
+      "options": [
+        "something",
+        "anything",
+        "nothing",
+        "everything"
+      ],
+      "correctIndex": 1,
+      "explanation": "Có 'haven't' (phủ định) trong câu → phải dùng 'anything' (không dùng 'something'). Dịch: Tôi không có gì đẹp để mặc đi tiệc. QUY TẮC QUAN TRỌNG: Câu phủ định (có not/n't) + ANYTHING. Lỗi thường gặp: ✗ 'I haven't got something' → ✓ 'I haven't got anything'. Tương tự với anywhere, anyone.",
+      "hints": [
+        "haven't = phủ định → anything"
+      ],
+      "points": 10
+    },
+    {
+      "id": 6,
+      "type": "multiple-choice",
+      "question": "What's on TV? __________. It's boring.",
+      "options": [
+        "Something",
+        "Anything",
+        "Everything",
+        "Nothing"
+      ],
+      "correctIndex": 3,
+      "explanation": "'It's boring' (chán quá) gợi ý là KHÔNG CÓ GÌ hay trên TV → dùng 'nothing'. Dịch: TV có gì? - Không có gì cả. Chán lắm. Quy tắc: 'Nothing' = không có gì (tự nó đã mang nghĩa phủ định). Phân biệt: 'There is nothing' = 'There isn't anything' (cùng nghĩa nhưng cấu trúc khác). Không nói: ✗ 'There isn't nothing' (sai - phủ định kép).",
+      "hints": [
+        "Không có chương trình nào"
+      ],
+      "points": 10
+    },
+    {
+      "id": 7,
+      "type": "multiple-choice",
+      "question": "Are you ready? Yes, I've packed __________.",
+      "options": [
+        "something",
+        "anything",
+        "nothing",
+        "everything"
+      ],
+      "correctIndex": 3,
+      "explanation": "'Are you ready?' hỏi đã sẵn sàng chưa và câu trả lời là đã đóng gói TẤT CẢ mọi thứ → dùng 'everything'. Dịch: Bạn sẵn sàng chưa? - Rồi, tôi đã đóng gói mọi thứ. Quy tắc: 'Everything' = tất cả mọi thứ, mọi điều. Lưu ý: Everything + động từ số ít (Everything IS ready ✓, Everything ARE ready ✗).",
+      "hints": [
+        "Đã đóng gói tất cả"
+      ],
+      "points": 10
+    },
+    {
+      "id": 8,
+      "type": "multiple-choice",
+      "question": "It's boring here. There isn't __________ to go.",
+      "options": [
+        "somewhere",
+        "anywhere",
+        "nowhere",
+        "everywhere"
+      ],
+      "correctIndex": 1,
+      "explanation": "Có 'isn't' (phủ định) trong câu → dùng 'anywhere' (bất kỳ đâu) thay vì 'somewhere'. Dịch: Ở đây chán quá. Không có chỗ nào để đi cả. Quy tắc: Câu PHỦ ĐỊNH + ANYWHERE. So sánh: 'There is somewhere to go' (khẳng định) ↔ 'There isn't anywhere to go' (phủ định). Tương tự: isn't anyone, isn't anything.",
+      "hints": [
+        "isn't = phủ định → anywhere"
+      ],
+      "points": 10
+    },
+    {
+      "id": 9,
+      "type": "multiple-choice",
+      "question": "Where are you going? __________. I'm staying home.",
+      "options": [
+        "Somewhere",
+        "Anywhere",
+        "Nowhere",
+        "Everywhere"
+      ],
+      "correctIndex": 2,
+      "explanation": "'I'm staying home' (ở nhà) cho thấy người này KHÔNG ĐI ĐÂU cả → dùng 'nowhere'. Dịch: Bạn đi đâu đấy? - Không đi đâu cả. Tôi ở nhà. Quy tắc: 'Nowhere' = không nơi nào, không đâu cả (tự mang nghĩa phủ định). Lưu ý: 'Nowhere' thường đứng một mình trả lời câu hỏi hoặc làm chủ ngữ (Nowhere is safe = Không nơi nào an toàn).",
+      "hints": [
+        "Không đi nơi nào"
+      ],
+      "points": 10
+    },
+    {
+      "id": 10,
+      "type": "multiple-choice",
+      "question": "The famous explorer has travelled almost __________ in Africa.",
+      "options": [
+        "somewhere",
+        "nowhere",
+        "everywhere",
+        "anywhere"
+      ],
+      "correctIndex": 2,
+      "explanation": "Nhà thám hiểm nổi tiếng đã đi 'almost' (gần như) TẤT CẢ CÁC NƠI ở châu Phi → dùng 'everywhere'. Dịch: Nhà thám hiểm nổi tiếng đã đi gần như khắp nơi ở châu Phi. Quy tắc: 'Everywhere' = tất cả các nơi, khắp mọi nơi. Ví dụ thêm: 'I looked everywhere but couldn't find it' (Tôi tìm khắp nơi nhưng không thấy).",
+      "hints": [
+        "Tất cả các nơi ở châu Phi"
+      ],
+      "points": 10
+    },
+    {
+      "id": 11,
+      "type": "multiple-choice",
+      "question": "We saw __________ very exciting at the zoo yesterday.",
+      "options": [
+        "something",
+        "everything",
+        "anything",
+        "nothing"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đây là câu khẳng định kể lại việc đã xảy ra ('We saw...') → dùng 'something'. Dịch: Chúng tôi đã thấy cái gì đó rất thú vị ở sở thú hôm qua. Quy tắc: Câu KHẲNG ĐỊNH + SOMETHING. Lưu ý cấu trúc: something + tính từ (something exciting, something new, something interesting).",
+      "hints": [
+        "Câu khẳng định = something"
+      ],
+      "points": 10
+    },
+    {
+      "id": 12,
+      "type": "multiple-choice",
+      "question": "__________ was very quiet before the storm.",
+      "options": [
+        "Everything",
+        "Everywhere",
+        "Something",
+        "Somewhere"
+      ],
+      "correctIndex": 0,
+      "explanation": "Trước cơn bão, TOÀN BỘ mọi thứ đều yên tĩnh → dùng 'everything'. Dịch: Mọi thứ đều rất yên tĩnh trước cơn bão. Quy tắc: 'Everything' = tất cả mọi thứ (dùng khi nói về toàn bộ tình huống). Lưu ý ngữ pháp: Everything + IS (số ít) vì coi như một tổng thể. 'Everywhere' chỉ nơi chốn nên không phù hợp ở đây.",
+      "hints": [
+        "Tất cả mọi thứ đều yên tĩnh"
+      ],
+      "points": 10
+    },
+    {
+      "id": 13,
+      "type": "multiple-choice",
+      "question": "I've never been __________ really cold.",
+      "options": [
+        "anywhere",
+        "nowhere",
+        "somewhere",
+        "everywhere"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Never' mang nghĩa phủ định (không bao giờ) → dùng 'anywhere'. Dịch: Tôi chưa bao giờ đến nơi nào thực sự lạnh. Quy tắc: Các từ mang nghĩa phủ định (never, hardly, rarely, seldom) + ANYWHERE/ANYONE/ANYTHING. Ví dụ tương tự: 'I never tell anyone' (Tôi không bao giờ kể cho ai), 'She hardly eats anything' (Cô ấy hầu như không ăn gì).",
+      "hints": [
+        "'never' là phủ định, dùng 'anywhere'"
+      ],
+      "points": 10
+    },
+    {
+      "id": 14,
+      "type": "multiple-choice",
+      "question": "I looked for the keys __________, but I couldn't find them __________.",
+      "options": [
+        "somewhere, somewhere",
+        "everywhere, anywhere",
+        "anywhere, somewhere",
+        "everywhere, everywhere"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hai chỗ trống cần phân tích riêng: (1) 'looked ___' = tìm ở đâu? → EVERYWHERE (khắp nơi - câu khẳng định). (2) 'couldn't find them ___' = có 'couldn't' (phủ định) → ANYWHERE. Dịch: Tôi đã tìm khắp nơi, nhưng không thể tìm thấy chúng ở đâu cả. QUY TẮC: looked EVERYWHERE (tìm khắp nơi) + couldn't find ANYWHERE (không tìm thấy ở đâu).",
+      "hints": [
+        "Tìm khắp nơi, không tìm thấy ở bất cứ đâu"
+      ],
+      "points": 10
+    },
+    {
+      "id": 15,
+      "type": "multiple-choice",
+      "question": "__________ had a great time at Zoe's party.",
+      "options": [
+        "Everyone",
+        "Someone",
+        "Anyone",
+        "No one"
+      ],
+      "correctIndex": 0,
+      "explanation": "'A great time' (thời gian vui vẻ) ở bữa tiệc cho thấy TẤT CẢ MỌI NGƯỜI đều vui → dùng 'everyone'. Dịch: Mọi người đều vui vẻ ở bữa tiệc của Zoe. Quy tắc: 'Everyone/Everybody' = tất cả mọi người (100%, không ai bị loại trừ). So sánh: Someone (ai đó - không rõ) ≠ Everyone (tất cả - rõ ràng là toàn bộ).",
+      "hints": [
+        "Tất cả mọi người ở bữa tiệc"
+      ],
+      "points": 10
+    },
+    {
+      "id": 16,
+      "type": "multiple-choice",
+      "question": "Is there __________ there?",
+      "options": [
+        "anywhere",
+        "no one",
+        "anyone",
+        "everyone"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đây là câu hỏi ('Is there...?') hỏi về người → dùng 'anyone'. Dịch: Có ai ở đó không? Quy tắc: CÂU HỎI về người = ANYONE/ANYBODY. So sánh: 'Is there anyone?' (hỏi) ↔ 'There is someone' (khẳng định) ↔ 'There isn't anyone' (phủ định). Đáp án 'anywhere' sai vì 'anywhere' chỉ nơi chốn, không chỉ người.",
+      "hints": [
+        "Câu hỏi dùng 'anyone'"
+      ],
+      "points": 10
+    },
+    {
+      "id": 17,
+      "type": "multiple-choice",
+      "question": "You were happy at school today, __________?",
+      "options": [
+        "were you",
+        "weren't you",
+        "are you",
+        "aren't you"
+      ],
+      "correctIndex": 1,
+      "explanation": "Câu chính dùng 'were' (khẳng định) → question tag phải là PHỦ ĐỊNH: 'weren't you'. Dịch: Bạn vui ở trường hôm nay, phải không? CÔNG THỨC: Câu KHẲNG ĐỊNH + tag PHỦ ĐỊNH. Cách làm: (1) Tìm động từ trong câu chính: 'were'. (2) Đổi sang phủ định: 'weren't'. (3) Thêm chủ ngữ: 'you'. → weren't you?",
+      "hints": [
+        "were (khẳng định) → weren't you?"
+      ],
+      "points": 10
+    },
+    {
+      "id": 18,
+      "type": "multiple-choice",
+      "question": "They're lucky to see the pyramids, __________?",
+      "options": [
+        "are they",
+        "aren't they",
+        "were they",
+        "weren't they"
+      ],
+      "correctIndex": 1,
+      "explanation": "'They're' = 'They are' (khẳng định) → question tag phải là 'aren't they' (phủ định). Dịch: Họ may mắn được thấy kim tự tháp, phải không? CÁCH LÀM: (1) Câu có 'are' (khẳng định). (2) Tag dùng 'aren't'. (3) Chủ ngữ 'They' → 'they'. Lưu ý: Không dùng 'were' vì câu ở thì hiện tại (They're = They are).",
+      "hints": [
+        "are (khẳng định) → aren't?"
+      ],
+      "points": 10
+    },
+    {
+      "id": 19,
+      "type": "multiple-choice",
+      "question": "The class is visiting a museum next week, __________?",
+      "options": [
+        "is it",
+        "isn't it",
+        "does it",
+        "doesn't it"
+      ],
+      "correctIndex": 1,
+      "explanation": "'The class IS visiting' (khẳng định, dùng 'is') → question tag là 'isn't it'. Dịch: Lớp sẽ đi thăm bảo tàng tuần sau, phải không? PHÂN TÍCH: (1) Động từ chính: 'is' (trong 'is visiting'). (2) Chủ ngữ 'The class' là số ít → dùng 'it'. (3) is (khẳng định) → isn't (phủ định). Không dùng 'does/doesn't' vì câu có sẵn 'is'.",
+      "hints": [
+        "Khẳng định → phủ định"
+      ],
+      "points": 10
+    },
+    {
+      "id": 20,
+      "type": "multiple-choice",
+      "question": "They haven't visited the school before, __________?",
+      "options": [
+        "haven't they",
+        "have they",
+        "did they",
+        "didn't they"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Haven't visited' (PHỦ ĐỊNH) → question tag phải là KHẲNG ĐỊNH: 'have they'. Dịch: Họ chưa từng đến trường này trước đây, đúng không? CÔNG THỨC: Câu PHỦ ĐỊNH + tag KHẲNG ĐỊNH. CÁCH LÀM: (1) Câu có 'haven't' (phủ định). (2) Đổi sang khẳng định: 'have'. (3) Thêm chủ ngữ: 'they'. → have they?",
+      "hints": [
+        "Phủ định → khẳng định"
+      ],
+      "points": 10
+    },
+    {
+      "id": 21,
+      "type": "multiple-choice",
+      "question": "We didn't make any smoothies, __________?",
+      "options": [
+        "didn't we",
+        "did we",
+        "do we",
+        "don't we"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Didn't make' (PHỦ ĐỊNH) → question tag là KHẲNG ĐỊNH: 'did we'. Dịch: Chúng ta không làm sinh tố, đúng không? PHÂN TÍCH: (1) Động từ 'make' đi với trợ động từ 'didn't' (quá khứ phủ định). (2) Phủ định → tag khẳng định: 'did'. (3) Chủ ngữ: 'we'. Lưu ý: Không dùng 'do/don't' vì câu ở thì quá khứ (didn't).",
+      "hints": [
+        "Phủ định → khẳng định"
+      ],
+      "points": 10
+    },
+    {
+      "id": 22,
+      "type": "multiple-choice",
+      "question": "You know the test is today, __________?",
+      "options": [
+        "do you",
+        "don't you",
+        "are you",
+        "aren't you"
+      ],
+      "correctIndex": 1,
+      "explanation": "'You know' (khẳng định với động từ thường) → question tag là 'don't you'. Dịch: Bạn biết bài kiểm tra là hôm nay, phải không? CÁCH LÀM VỚI ĐỘNG TỪ THƯỜNG: (1) Không có trợ động từ (is/are/have/can...) → dùng DO/DOES/DID. (2) Chủ ngữ 'You' → dùng 'do'. (3) Khẳng định → phủ định: 'don't'. → don't you?",
+      "hints": [
+        "Khẳng định → phủ định"
+      ],
+      "points": 10
+    },
+    {
+      "id": 23,
+      "type": "multiple-choice",
+      "question": "You didn't go on holiday last year, __________?",
+      "options": [
+        "didn't you",
+        "did you",
+        "do you",
+        "don't you"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Didn't go' (PHỦ ĐỊNH quá khứ) → question tag là KHẲNG ĐỊNH: 'did you'. Dịch: Bạn không đi nghỉ mát năm ngoái, đúng không? PHÂN TÍCH: (1) 'didn't' = phủ định ở thì quá khứ. (2) Phủ định → tag khẳng định. (3) Dùng 'did' (cùng thì với câu chính). Nhớ: KHÔNG dùng 'do you' vì câu ở quá khứ (last year).",
+      "hints": [
+        "Phủ định → khẳng định"
+      ],
+      "points": 10
+    },
+    {
+      "id": 24,
+      "type": "multiple-choice",
+      "question": "Annie didn't live in Rome, __________?",
+      "options": [
+        "didn't she",
+        "did she",
+        "does she",
+        "doesn't she"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Didn't live' (PHỦ ĐỊNH) → question tag là KHẲNG ĐỊNH: 'did she'. Dịch: Annie không sống ở Rome, đúng không? CÁCH LÀM: (1) Câu phủ định với 'didn't'. (2) Tag đổi sang khẳng định: 'did'. (3) 'Annie' là nữ → dùng 'she'. QUY TẮC QUAN TRỌNG: Trong question tag luôn dùng đại từ (he/she/it/they), KHÔNG dùng tên riêng. ✗ 'did Annie' → ✓ 'did she'.",
+      "hints": [
+        "Phủ định → khẳng định"
+      ],
+      "points": 10
+    },
+    {
+      "id": 25,
+      "type": "multiple-choice",
+      "question": "Her sister speaks English, __________?",
+      "options": [
+        "does she",
+        "doesn't she",
+        "is she",
+        "isn't she"
+      ],
+      "correctIndex": 1,
+      "explanation": "'speaks' (động từ thường, khẳng định, ngôi thứ 3 số ít) → question tag là 'doesn't she'. Dịch: Chị gái cô ấy nói tiếng Anh, phải không? CÁCH LÀM VỚI HE/SHE/IT: (1) Động từ thường có đuôi -s (speaks) → dùng DOES. (2) Khẳng định → phủ định: 'doesn't'. (3) 'Her sister' = she. Lưu ý: 'is she/isn't she' sai vì câu KHÔNG có 'is', chỉ có động từ thường 'speaks'.",
+      "hints": [
+        "Khẳng định → phủ định"
+      ],
+      "points": 10
+    },
+    {
+      "id": 26,
+      "type": "multiple-choice",
+      "question": "You're going to read that book, __________?",
+      "options": [
+        "are you",
+        "aren't you",
+        "do you",
+        "don't you"
+      ],
+      "correctIndex": 1,
+      "explanation": "'You're going' = 'You ARE going' (khẳng định) → question tag là 'aren't you'. Dịch: Bạn sắp đọc quyển sách đó, phải không? PHÂN TÍCH: (1) 'You're' = 'You are' → động từ chính là 'are'. (2) Khẳng định → phủ định: 'aren't'. (3) Chủ ngữ: 'you'. KHÔNG dùng 'do/don't' vì câu đã có trợ động từ 'are' (trong cấu trúc 'be going to').",
+      "hints": [
+        "are (khẳng định) → aren't?"
+      ],
+      "points": 10
+    },
+    {
+      "id": 27,
+      "type": "multiple-choice",
+      "question": "She can swim, __________?",
+      "options": [
+        "can she",
+        "can't she",
+        "does she",
+        "doesn't she"
+      ],
+      "correctIndex": 1,
+      "explanation": "'can swim' (khẳng định với modal verb CAN) → question tag là 'can't she'. Dịch: Cô ấy biết bơi, phải không? CÁCH LÀM VỚI MODAL VERBS (can, will, should, must...): (1) Lấy modal verb ra: 'can'. (2) Đổi khẳng định → phủ định: 'can't'. (3) Thêm chủ ngữ: 'she'. Các modal verb khác: will → won't, should → shouldn't, must → mustn't.",
+      "hints": [
+        "Modal khẳng định → phủ định"
+      ],
+      "points": 10
+    },
+    {
+      "id": 28,
+      "type": "multiple-choice",
+      "question": "They won't come tomorrow, __________?",
+      "options": [
+        "won't they",
+        "will they",
+        "do they",
+        "don't they"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Won't come' (PHỦ ĐỊNH với modal verb WILL) → question tag là KHẲNG ĐỊNH: 'will they'. Dịch: Họ sẽ không đến ngày mai, đúng không? CÁCH LÀM: (1) 'won't' = will not (phủ định). (2) Đổi sang khẳng định: 'will'. (3) Chủ ngữ: 'they'. Nhớ: won't là dạng rút gọn của 'will not', KHÔNG phải 'would not' (would not = wouldn't).",
+      "hints": [
+        "Phủ định → khẳng định"
+      ],
+      "points": 10
+    },
+    {
+      "id": 29,
+      "type": "multiple-choice",
+      "question": "Sửa lỗi: 'There is anybody at the door.'",
+      "options": [
+        "There is somebody at the door",
+        "There is anybody at the door",
+        "There is nobody at the door",
+        "There is everyone at the door"
+      ],
+      "correctIndex": 0,
+      "explanation": "LỖI SAI: Dùng 'anybody' trong câu khẳng định. SỬA: Đổi 'anybody' → 'somebody'. Dịch đúng: Có ai đó ở cửa. QUY TẮC: Câu KHẲNG ĐỊNH (There is...) + SOMEBODY/SOMEONE. 'Anybody' chỉ dùng trong câu hỏi hoặc phủ định. Ví dụ đúng: 'Is there anybody?' (hỏi) hoặc 'There isn't anybody' (phủ định).",
+      "hints": [
+        "Câu khẳng định dùng somebody/someone"
+      ],
+      "points": 10
+    },
+    {
+      "id": 30,
+      "type": "multiple-choice",
+      "question": "Sửa lỗi: 'I don't have nothing to do.'",
+      "options": [
+        "I don't have anything to do",
+        "I don't have nothing to do",
+        "I doesn't have anything to do",
+        "I haven't nothing to do"
+      ],
+      "correctIndex": 0,
+      "explanation": "LỖI SAI NGHIÊM TRỌNG: Phủ định kép (don't + nothing). Trong tiếng Anh chuẩn, KHÔNG được dùng 2 từ phủ định trong 1 câu. SỬA: 'don't have nothing' → 'don't have anything'. Dịch đúng: Tôi không có gì để làm. QUY TẮC: don't/doesn't/didn't + ANYTHING (không phải nothing). Hoặc có thể viết: 'I have nothing to do' (không có don't).",
+      "hints": [
+        "Don't + anything (KHÔNG phải nothing)"
+      ],
+      "points": 10
+    },
+    {
+      "id": 31,
+      "type": "multiple-choice",
+      "question": "Sửa lỗi: 'You are happy, are you?'",
+      "options": [
+        "You are happy, aren't you",
+        "You are happy, are you",
+        "You are happy, don't you",
+        "You are happy, do you"
+      ],
+      "correctIndex": 0,
+      "explanation": "LỖI SAI: Question tag không đối lập với câu chính. Câu 'You are happy' là KHẲNG ĐỊNH → tag phải là PHỦ ĐỊNH 'aren't you', không phải 'are you'. SỬA: 'are you' → 'aren't you'. Dịch đúng: Bạn vui, phải không? QUY TẮC VÀNG: Câu khẳng định (+) → tag phủ định (-). Câu phủ định (-) → tag khẳng định (+).",
+      "hints": [
+        "Khẳng định → tag phủ định"
+      ],
+      "points": 10
+    },
+    {
+      "id": 32,
+      "type": "multiple-choice",
+      "question": "Sửa lỗi: 'She doesn't like coffee, doesn't she?'",
+      "options": [
+        "She doesn't like coffee, does she",
+        "She doesn't like coffee, doesn't she",
+        "She doesn't like coffee, do she",
+        "She doesn't like coffee, don't she"
+      ],
+      "correctIndex": 0,
+      "explanation": "LỖI SAI: Question tag không đối lập với câu chính. Câu 'She doesn't like' là PHỦ ĐỊNH → tag phải là KHẲNG ĐỊNH 'does she', không phải 'doesn't she'. SỬA: 'doesn't she' → 'does she'. Dịch đúng: Cô ấy không thích cà phê, đúng không? QUY TẮC: PHỦ ĐỊNH (doesn't) → tag KHẲNG ĐỊNH (does). Lỗi này rất phổ biến - nhớ phải đảo ngược!",
+      "hints": [
+        "Phủ định → tag khẳng định"
+      ],
+      "points": 10
+    },
+    {
+      "id": 33,
+      "type": "multiple-choice",
+      "question": "It is a beautiful day, __________?",
+      "options": [
+        "isn't it",
+        "is it",
+        "doesn't it",
+        "does it"
+      ],
+      "correctIndex": 0,
+      "explanation": "'It IS a beautiful day' (khẳng định với be) → question tag là 'isn't it'. Dịch: Hôm nay trời đẹp, phải không? PHÂN TÍCH TỪNG BƯỚC: (1) Tìm động từ: 'is'. (2) Xác định khẳng định/phủ định: khẳng định. (3) Đảo ngược: is → isn't. (4) Thêm chủ ngữ: 'it'. Lưu ý: 'It' dùng cho thời tiết, thời gian.",
+      "hints": [
+        "is (khẳng định) → isn't"
+      ],
+      "points": 10
+    },
+    {
+      "id": 34,
+      "type": "multiple-choice",
+      "question": "They were at the party, __________?",
+      "options": [
+        "weren't they",
+        "were they",
+        "didn't they",
+        "did they"
+      ],
+      "correctIndex": 0,
+      "explanation": "'They WERE at the party' (khẳng định, quá khứ của be) → tag là 'weren't they'. Dịch: Họ đã ở bữa tiệc, phải không? CÁCH LÀM: (1) Động từ 'were' (quá khứ của are). (2) Khẳng định → phủ định: were → weren't. (3) Chủ ngữ: 'they'. Lưu ý: Không dùng 'did/didn't' vì câu có động từ 'be' (were), không phải động từ thường.",
+      "hints": [
+        "were (khẳng định) → weren't"
+      ],
+      "points": 10
+    },
+    {
+      "id": 35,
+      "type": "multiple-choice",
+      "question": "You aren't tired, __________?",
+      "options": [
+        "are you",
+        "aren't you",
+        "do you",
+        "don't you"
+      ],
+      "correctIndex": 0,
+      "explanation": "'You AREN'T tired' (PHỦ ĐỊNH) → tag là KHẲNG ĐỊNH 'are you'. Dịch: Bạn không mệt, đúng không? CÔNG THỨC: PHỦ ĐỊNH → TAG KHẲNG ĐỊNH. CÁCH LÀM: (1) Câu có 'aren't' (phủ định). (2) Đổi sang khẳng định: 'are'. (3) Chủ ngữ: 'you'. Đây là ví dụ điển hình của quy tắc đảo ngược.",
+      "hints": [
+        "aren't (phủ định) → are"
+      ],
+      "points": 10
+    },
+    {
+      "id": 36,
+      "type": "multiple-choice",
+      "question": "He wasn't angry, __________?",
+      "options": [
+        "was he",
+        "wasn't he",
+        "did he",
+        "didn't he"
+      ],
+      "correctIndex": 0,
+      "explanation": "'He WASN'T angry' (PHỦ ĐỊNH quá khứ) → tag là KHẲNG ĐỊNH 'was he'. Dịch: Anh ấy không giận, đúng không? CÁCH LÀM: (1) Động từ 'wasn't' = was not (quá khứ phủ định của be). (2) Phủ định → khẳng định: was. (3) Chủ ngữ: 'he'. Nhớ: wasn't ↔ was, weren't ↔ were (đảo ngược).",
+      "hints": [
+        "wasn't (phủ định) → was"
+      ],
+      "points": 10
+    },
+    {
+      "id": 37,
+      "type": "multiple-choice",
+      "question": "We are friends, __________?",
+      "options": [
+        "aren't we",
+        "are we",
+        "don't we",
+        "do we"
+      ],
+      "correctIndex": 0,
+      "explanation": "'We ARE friends' (khẳng định) → tag là 'aren't we'. Dịch: Chúng ta là bạn, phải không? CÁCH LÀM: (1) Động từ 'are' (khẳng định). (2) Khẳng định → phủ định: aren't. (3) Chủ ngữ: 'we'. Đây là cấu trúc cơ bản nhất của question tag với động từ BE.",
+      "hints": [
+        "are (khẳng định) → aren't"
+      ],
+      "points": 10
+    },
+    {
+      "id": 38,
+      "type": "multiple-choice",
+      "question": "She likes ice cream, __________?",
+      "options": [
+        "doesn't she",
+        "does she",
+        "isn't she",
+        "is she"
+      ],
+      "correctIndex": 0,
+      "explanation": "'She LIKES ice cream' - động từ thường 'likes' (không có be/have/can...) → dùng DOES/DOESN'T. Vì khẳng định → 'doesn't she'. Dịch: Cô ấy thích kem, phải không? QUY TẮC ĐỘNG TỪ THƯỜNG: (1) Không có trợ động từ → mượn DO/DOES/DID. (2) He/She/It + động từ có -s → DOES. (3) Khẳng định → doesn't.",
+      "hints": [
+        "likes → doesn't"
+      ],
+      "points": 10
+    },
+    {
+      "id": 39,
+      "type": "multiple-choice",
+      "question": "They don't live here, __________?",
+      "options": [
+        "do they",
+        "don't they",
+        "are they",
+        "aren't they"
+      ],
+      "correctIndex": 0,
+      "explanation": "'They DON'T live here' (PHỦ ĐỊNH với động từ thường) → tag là KHẲNG ĐỊNH 'do they'. Dịch: Họ không sống ở đây, đúng không? CÁCH LÀM: (1) Câu có 'don't' (phủ định). (2) Phủ định → khẳng định: do. (3) Chủ ngữ: 'they'. Lưu ý: 'don't' dùng cho I/You/We/They. He/She/It dùng 'doesn't'.",
+      "hints": [
+        "don't (phủ định) → do"
+      ],
+      "points": 10
+    },
+    {
+      "id": 40,
+      "type": "multiple-choice",
+      "question": "Tom plays football, __________?",
+      "options": [
+        "doesn't he",
+        "does he",
+        "isn't he",
+        "is he"
+      ],
+      "correctIndex": 0,
+      "explanation": "Câu khẳng định với động từ thường (plays) → dùng doesn't he. Dịch: Tom chơi bóng đá, phải không?",
+      "hints": [
+        "plays → doesn't"
+      ],
+      "points": 10
+    },
+    {
+      "id": 41,
+      "type": "multiple-choice",
+      "question": "You didn't call me, __________?",
+      "options": [
+        "did you",
+        "didn't you",
+        "do you",
+        "don't you"
+      ],
+      "correctIndex": 0,
+      "explanation": "Câu phủ định quá khứ (didn't) → tag khẳng định (did you). Dịch: Bạn không gọi cho tôi, đúng không?",
+      "hints": [
+        "didn't (phủ định) → did"
+      ],
+      "points": 10
+    },
+    {
+      "id": 42,
+      "type": "multiple-choice",
+      "question": "Sarah went to school yesterday, __________?",
+      "options": [
+        "didn't she",
+        "did she",
+        "wasn't she",
+        "was she"
+      ],
+      "correctIndex": 0,
+      "explanation": "Câu khẳng định quá khứ (went) → dùng didn't she. Dịch: Sarah đi học hôm qua, phải không?",
+      "hints": [
+        "went → didn't"
+      ],
+      "points": 10
+    },
+    {
+      "id": 43,
+      "type": "multiple-choice",
+      "question": "You can swim, __________?",
+      "options": [
+        "can't you",
+        "can you",
+        "don't you",
+        "do you"
+      ],
+      "correctIndex": 0,
+      "explanation": "Câu khẳng định với can → tag phủ định (can't you). Dịch: Bạn biết bơi, phải không?",
+      "hints": [
+        "can (khẳng định) → can't"
+      ],
+      "points": 10
+    },
+    {
+      "id": 44,
+      "type": "multiple-choice",
+      "question": "He can't drive, __________?",
+      "options": [
+        "can he",
+        "can't he",
+        "does he",
+        "doesn't he"
+      ],
+      "correctIndex": 0,
+      "explanation": "Câu phủ định (can't) → tag khẳng định (can he). Dịch: Anh ấy không biết lái xe, đúng không?",
+      "hints": [
+        "can't (phủ định) → can"
+      ],
+      "points": 10
+    },
+    {
+      "id": 45,
+      "type": "multiple-choice",
+      "question": "They will come tomorrow, __________?",
+      "options": [
+        "won't they",
+        "will they",
+        "don't they",
+        "do they"
+      ],
+      "correctIndex": 0,
+      "explanation": "Câu khẳng định với will → tag phủ định (won't they). Dịch: Họ sẽ đến ngày mai, phải không?",
+      "hints": [
+        "will (khẳng định) → won't"
+      ],
+      "points": 10
+    },
+    {
+      "id": 46,
+      "type": "multiple-choice",
+      "question": "She won't be late, __________?",
+      "options": [
+        "will she",
+        "won't she",
+        "is she",
+        "isn't she"
+      ],
+      "correctIndex": 0,
+      "explanation": "Câu phủ định (won't) → tag khẳng định (will she). Dịch: Cô ấy sẽ không muộn, đúng không?",
+      "hints": [
+        "won't (phủ định) → will"
+      ],
+      "points": 10
+    },
+    {
+      "id": 47,
+      "type": "multiple-choice",
+      "question": "We should study harder, __________?",
+      "options": [
+        "shouldn't we",
+        "should we",
+        "don't we",
+        "do we"
+      ],
+      "correctIndex": 0,
+      "explanation": "Câu khẳng định với should → tag phủ định (shouldn't we). Dịch: Chúng ta nên học chăm hơn, phải không?",
+      "hints": [
+        "should (khẳng định) → shouldn't"
+      ],
+      "points": 10
+    },
+    {
+      "id": 48,
+      "type": "multiple-choice",
+      "question": "You shouldn't eat too much, __________?",
+      "options": [
+        "should you",
+        "shouldn't you",
+        "do you",
+        "don't you"
+      ],
+      "correctIndex": 0,
+      "explanation": "Câu phủ định (shouldn't) → tag khẳng định (should you). Dịch: Bạn không nên ăn quá nhiều, đúng không?",
+      "hints": [
+        "shouldn't (phủ định) → should"
+      ],
+      "points": 10
+    },
+    {
+      "id": 49,
+      "type": "multiple-choice",
+      "question": "I am right, __________?",
+      "options": [
+        "aren't I",
+        "am I",
+        "don't I",
+        "do I"
+      ],
+      "correctIndex": 0,
+      "explanation": "⭐ TRƯỜNG HỢP ĐẶC BIỆT QUAN TRỌNG: 'I am' → question tag là 'aren't I' (KHÔNG dùng 'amn't I' vì từ này không tồn tại). Dịch: Tôi đúng, phải không? GHI NHỚ: Đây là trường hợp duy nhất question tag không theo quy tắc thông thường. Lý do: 'am not' viết tắt thành 'aren't' trong question tag. Ví dụ khác: 'I'm late, aren't I?' (Tôi muộn, phải không?)",
+      "hints": [
+        "I am → aren't I (đặc biệt)"
+      ],
+      "points": 10
+    },
+    {
+      "id": 50,
+      "type": "multiple-choice",
+      "question": "She has a car, __________?",
+      "options": [
+        "doesn't she",
+        "hasn't she",
+        "does she",
+        "has she"
+      ],
+      "correctIndex": 0,
+      "explanation": "⭐ PHÂN BIỆT QUAN TRỌNG: 'has a car' - 'has' ở đây nghĩa là SỞ HỮU (có) → dùng DOES/DOESN'T, không dùng has/hasn't. Dịch: Cô ấy có xe hơi, phải không? QUY TẮC: (1) 'have/has' = CÓ (sở hữu) → dùng do/does. (2) 'have/has' = trợ động từ (have done, has eaten...) → dùng have/hasn't. So sánh: 'She HAS a car, doesn't she?' (có xe) ≠ 'She HAS finished, hasn't she?' (đã xong).",
+      "hints": [
+        "has (sở hữu) → doesn't"
+      ],
+      "points": 10
+    },
+    {
+      "id": 51,
+      "type": "multiple-choice",
+      "question": "They have finished their homework, __________?",
+      "options": [
+        "haven't they",
+        "have they",
+        "don't they",
+        "do they"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Have FINISHED' - 'have' ở đây là TRỢ ĐỘNG TỪ trong thì hiện tại hoàn thành → dùng HAVE/HAVEN'T trong question tag. Dịch: Họ đã làm xong bài tập, phải không? CÁCH NHẬN BIẾT: (1) have/has + V3 (finished, done, eaten...) = thì hoàn thành → dùng have/hasn't. (2) Khẳng định (have finished) → phủ định (haven't they).",
+      "hints": [
+        "have finished → haven't"
+      ],
+      "points": 10
+    },
+    {
+      "id": 52,
+      "type": "multiple-choice",
+      "question": "He hasn't seen the movie, __________?",
+      "options": [
+        "has he",
+        "hasn't he",
+        "does he",
+        "doesn't he"
+      ],
+      "correctIndex": 0,
+      "explanation": "Câu phủ định (hasn't) → tag khẳng định (has he). Dịch: Anh ấy chưa xem phim, đúng không?",
+      "hints": [
+        "hasn't (phủ định) → has"
+      ],
+      "points": 10
+    },
+    {
+      "id": 53,
+      "type": "multiple-choice",
+      "question": "You could help me, __________?",
+      "options": [
+        "couldn't you",
+        "could you",
+        "can't you",
+        "can you"
+      ],
+      "correctIndex": 0,
+      "explanation": "Câu khẳng định với could → tag phủ định (couldn't you). Dịch: Bạn có thể giúp tôi, phải không?",
+      "hints": [
+        "could (khẳng định) → couldn't"
+      ],
+      "points": 10
+    },
+    {
+      "id": 54,
+      "type": "multiple-choice",
+      "question": "She would like some tea, __________?",
+      "options": [
+        "wouldn't she",
+        "would she",
+        "doesn't she",
+        "does she"
+      ],
+      "correctIndex": 0,
+      "explanation": "Câu khẳng định với would → tag phủ định (wouldn't she). Dịch: Cô ấy muốn một ít trà, phải không?",
+      "hints": [
+        "would (khẳng định) → wouldn't"
+      ],
+      "points": 10
+    },
+    {
+      "id": 55,
+      "type": "multiple-choice",
+      "question": "They must study for the test, __________?",
+      "options": [
+        "mustn't they",
+        "must they",
+        "don't they",
+        "do they"
+      ],
+      "correctIndex": 0,
+      "explanation": "Câu khẳng định với must → tag phủ định (mustn't they). Dịch: Họ phải học cho bài kiểm tra, phải không?",
+      "hints": [
+        "must (khẳng định) → mustn't"
+      ],
+      "points": 10
+    },
+    {
+      "id": 56,
+      "type": "multiple-choice",
+      "question": "It wasn't expensive, __________?",
+      "options": [
+        "was it",
+        "wasn't it",
+        "did it",
+        "didn't it"
+      ],
+      "correctIndex": 0,
+      "explanation": "Câu phủ định (wasn't) → tag khẳng định (was it). Dịch: Nó không đắt, đúng không?",
+      "hints": [
+        "wasn't (phủ định) → was"
+      ],
+      "points": 10
+    },
+    {
+      "id": 57,
+      "type": "multiple-choice",
+      "question": "Your sister lives in Hanoi, __________?",
+      "options": [
+        "doesn't she",
+        "does she",
+        "isn't she",
+        "is she"
+      ],
+      "correctIndex": 0,
+      "explanation": "Câu khẳng định với động từ thường (lives) → doesn't she. Dịch: Chị gái bạn sống ở Hà Nội, phải không?",
+      "hints": [
+        "lives → doesn't"
+      ],
+      "points": 10
+    },
+    {
+      "id": 58,
+      "type": "multiple-choice",
+      "question": "The children were playing in the park, __________?",
+      "options": [
+        "weren't they",
+        "were they",
+        "didn't they",
+        "did they"
+      ],
+      "correctIndex": 0,
+      "explanation": "Câu khẳng định (were) → tag phủ định (weren't they). Dịch: Bọn trẻ đang chơi ở công viên, phải không?",
+      "hints": [
+        "were (khẳng định) → weren't"
+      ],
+      "points": 10
+    },
+    {
+      "id": 59,
+      "type": "multiple-choice",
+      "question": "You haven't been to Japan, __________?",
+      "options": [
+        "have you",
+        "haven't you",
+        "do you",
+        "don't you"
+      ],
+      "correctIndex": 0,
+      "explanation": "Câu phủ định (haven't) → tag khẳng định (have you). Dịch: Bạn chưa từng đến Nhật, đúng không?",
+      "hints": [
+        "haven't (phủ định) → have"
+      ],
+      "points": 10
+    },
+    {
+      "id": 60,
+      "type": "multiple-choice",
+      "question": "Let's go to the movies, __________?",
+      "options": [
+        "shall we",
+        "will we",
+        "do we",
+        "don't we"
+      ],
+      "correctIndex": 0,
+      "explanation": "⭐ TRƯỜNG HỢP ĐẶC BIỆT: 'Let's' (Let us = Chúng ta hãy...) LUÔN đi với question tag 'shall we'. Dịch: Đi xem phim nào? GHI NHỚ: Let's + động từ + ..., shall we? Không dùng 'will we', 'do we' hay bất kỳ tag nào khác. Ví dụ khác: 'Let's have lunch, shall we?' (Đi ăn trưa nào?).",
+      "hints": [
+        "Let's → shall we (đặc biệt)"
+      ],
+      "points": 10
+    },
+    {
+      "id": 61,
+      "type": "multiple-choice",
+      "question": "He never eats vegetables, __________?",
+      "options": [
+        "does he",
+        "doesn't he",
+        "is he",
+        "isn't he"
+      ],
+      "correctIndex": 0,
+      "explanation": "⭐ TỪ MANG NGHĨA PHỦ ĐỊNH: 'NEVER' (không bao giờ) mang nghĩa phủ định → question tag là KHẲNG ĐỊNH 'does he'. Dịch: Anh ấy không bao giờ ăn rau, đúng không? QUY TẮC QUAN TRỌNG: Các từ sau đây mang nghĩa phủ định: never, rarely, seldom, hardly, scarcely, barely, little, few. Khi câu có các từ này → tag luôn là KHẲNG ĐỊNH.",
+      "hints": [
+        "never = phủ định → does"
+      ],
+      "points": 10
+    },
+    {
+      "id": 62,
+      "type": "multiple-choice",
+      "question": "She rarely goes out, __________?",
+      "options": [
+        "does she",
+        "doesn't she",
+        "is she",
+        "isn't she"
+      ],
+      "correctIndex": 0,
+      "explanation": "'RARELY' (hiếm khi) cũng mang nghĩa phủ định như 'never' → question tag là KHẲNG ĐỊNH 'does she'. Dịch: Cô ấy hiếm khi đi chơi, đúng không? Các từ tương tự: rarely = seldom = hiếm khi. Đều cần tag KHẲNG ĐỊNH. Ví dụ: 'She rarely/seldom cooks, does she?' (Cô ấy hiếm khi nấu ăn, đúng không?).",
+      "hints": [
+        "rarely = phủ định → does"
+      ],
+      "points": 10
+    },
+    {
+      "id": 63,
+      "type": "multiple-choice",
+      "question": "There is a book on the table, __________?",
+      "options": [
+        "isn't there",
+        "is there",
+        "doesn't there",
+        "does there"
+      ],
+      "correctIndex": 0,
+      "explanation": "⭐ CẤU TRÚC 'THERE IS/ARE': Với câu bắt đầu bằng 'There is/are', question tag dùng 'there' (không dùng 'it'). Dịch: Có một quyển sách trên bàn, phải không? QUY TẮC: There is (khẳng định) → isn't there? There are → aren't there? Lưu ý: 'There' đóng vai trò như chủ ngữ giả trong question tag.",
+      "hints": [
+        "There is → isn't there"
+      ],
+      "points": 10
+    },
+    {
+      "id": 64,
+      "type": "multiple-choice",
+      "question": "There aren't any apples, __________?",
+      "options": [
+        "are there",
+        "aren't there",
+        "do there",
+        "don't there"
+      ],
+      "correctIndex": 0,
+      "explanation": "Câu phủ định (aren't) → tag khẳng định (are there). Dịch: Không có quả táo nào, đúng không?",
+      "hints": [
+        "aren't (phủ định) → are"
+      ],
+      "points": 10
+    },
+    {
+      "id": 65,
+      "type": "multiple-choice",
+      "question": "Nobody called, __________?",
+      "options": [
+        "did they",
+        "didn't they",
+        "was there",
+        "wasn't there"
+      ],
+      "correctIndex": 0,
+      "explanation": "⭐ ĐẠI TỪ BẤT ĐỊNH VỚI QUESTION TAG: 'NOBODY/NO ONE' (không ai) mang nghĩa phủ định → tag KHẲNG ĐỊNH. Dùng 'they' (không dùng 'he' hay 'she') vì không biết giới tính. Dịch: Không ai gọi, đúng không? QUY TẮC: Nobody/No one/Somebody/Someone/Everybody/Everyone → dùng 'they' trong question tag.",
+      "hints": [
+        "Nobody = phủ định → did they"
+      ],
+      "points": 10
+    },
+    {
+      "id": 66,
+      "type": "multiple-choice",
+      "question": "Everything is ready, __________?",
+      "options": [
+        "isn't it",
+        "is it",
+        "aren't they",
+        "are they"
+      ],
+      "correctIndex": 0,
+      "explanation": "⭐ EVERYTHING/SOMETHING/NOTHING + QUESTION TAG: Các từ này được coi như số ít và chỉ VẬT → dùng 'IT' trong question tag (không dùng 'they'). Dịch: Mọi thứ đã sẵn sàng, phải không? QUY TẮC: Everything/Something/Nothing/Anything → dùng 'it'. So sánh: Everyone/Someone/Nobody → dùng 'they' (chỉ người).",
+      "hints": [
+        "Everything → it (số ít)"
+      ],
+      "points": 10
+    },
+    {
+      "id": 67,
+      "type": "multiple-choice",
+      "question": "Nothing happened, __________?",
+      "options": [
+        "did it",
+        "didn't it",
+        "was it",
+        "wasn't it"
+      ],
+      "correctIndex": 0,
+      "explanation": "'NOTHING' mang nghĩa PHỦ ĐỊNH và chỉ VẬT → tag là KHẲNG ĐỊNH + dùng 'IT'. Dịch: Không có gì xảy ra, đúng không? PHÂN TÍCH: (1) Nothing = phủ định → tag khẳng định. (2) Nothing chỉ vật → dùng 'it'. (3) Động từ 'happened' (quá khứ) → dùng 'did'. Kết quả: 'did it'.",
+      "hints": [
+        "Nothing = phủ định → did it"
+      ],
+      "points": 10
+    },
+    {
+      "id": 68,
+      "type": "multiple-choice",
+      "question": "You used to live here, __________?",
+      "options": [
+        "didn't you",
+        "did you",
+        "usedn't you",
+        "use you"
+      ],
+      "correctIndex": 0,
+      "explanation": "⭐ 'USED TO' (từng/đã từng): Question tag dùng 'DIDN'T' (không dùng 'usedn't' - đã lỗi thời). Dịch: Bạn từng sống ở đây, phải không? QUY TẮC: 'used to' được xử lý như động từ thường ở quá khứ → dùng did/didn't. Ví dụ: 'She used to work here, didn't she?' (Cô ấy từng làm việc ở đây, phải không?).",
+      "hints": [
+        "used to → didn't"
+      ],
+      "points": 10
+    },
+    {
+      "id": 69,
+      "type": "multiple-choice",
+      "question": "She'd rather stay home, __________?",
+      "options": [
+        "wouldn't she",
+        "would she",
+        "doesn't she",
+        "does she"
+      ],
+      "correctIndex": 0,
+      "explanation": "⭐ 'WOULD RATHER' (thà... hơn): 'She'd' = 'She would' → question tag dùng 'WOULDN'T'. Dịch: Cô ấy thà ở nhà hơn, phải không? CÁCH NHẬN BIẾT: 'd = would khi đi với 'rather'. So sánh: 'd = had khi đi với V3 (She'd finished = She had finished). Lưu ý: 'd rather + V-nguyên mẫu (stay, not stays).",
+      "hints": [
+        "would rather → wouldn't"
+      ],
+      "points": 10
+    },
+    {
+      "id": 70,
+      "type": "multiple-choice",
+      "question": "I'm late, __________?",
+      "options": [
+        "aren't I",
+        "am I",
+        "don't I",
+        "do I"
+      ],
+      "correctIndex": 0,
+      "explanation": "⭐ NHẮC LẠI TRƯỜNG HỢP ĐẶC BIỆT: 'I'm' = 'I am' → question tag là 'aren't I' (ngoại lệ quan trọng). Dịch: Tôi muộn rồi, phải không? GHI NHỚ: Đây là trường hợp duy nhất không theo quy tắc thông thường. Các câu khác: 'I'm right, aren't I?', 'I'm your friend, aren't I?'.",
+      "hints": [
+        "I am → aren't I"
+      ],
+      "points": 10
+    },
+    {
+      "id": 71,
+      "type": "multiple-choice",
+      "question": "Open the door, __________?",
+      "options": [
+        "will you",
+        "won't you",
+        "do you",
+        "don't you"
+      ],
+      "correctIndex": 0,
+      "explanation": "⭐ CÂU MỆNH LỆNH (IMPERATIVE): 'Open the door' là câu yêu cầu/mệnh lệnh (không có chủ ngữ) → question tag LUÔN dùng 'WILL YOU' hoặc 'WON'T YOU'. Dịch: Mở cửa đi, được không? QUY TẮC: Câu mệnh lệnh khẳng định → 'will you?' hoặc 'won't you?'. Cả hai đều được chấp nhận. Ví dụ: 'Help me, will you?' (Giúp tôi với, được không?).",
+      "hints": [
+        "Câu mệnh lệnh → will you"
+      ],
+      "points": 10
+    },
+    {
+      "id": 72,
+      "type": "multiple-choice",
+      "question": "Don't be late, __________?",
+      "options": [
+        "will you",
+        "won't you",
+        "do you",
+        "are you"
+      ],
+      "correctIndex": 0,
+      "explanation": "⭐ CÂU MỆNH LỆNH PHỦ ĐỊNH: 'Don't be late' là câu mệnh lệnh phủ định (Don't + V) → question tag dùng 'WILL YOU' (không dùng 'won't you'). Dịch: Đừng muộn nhé? QUY TẮC: Don't + V ..., will you? Ví dụ: 'Don't forget, will you?' (Đừng quên nhé?), 'Don't worry, will you?' (Đừng lo nhé?).",
+      "hints": [
+        "Don't... → will you"
+      ],
+      "points": 10
+    },
+    {
+      "id": 73,
+      "type": "multiple-choice",
+      "question": "She seldom cooks, __________?",
+      "options": [
+        "does she",
+        "doesn't she",
+        "is she",
+        "isn't she"
+      ],
+      "correctIndex": 0,
+      "explanation": "'SELDOM' = 'RARELY' (hiếm khi) - cả hai đều mang nghĩa phủ định → tag KHẲNG ĐỊNH. Dịch: Cô ấy hiếm khi nấu ăn, đúng không? DANH SÁCH CÁC TỪ MANG NGHĨA PHỦ ĐỊNH: never, rarely, seldom, hardly, scarcely, barely, little, few. Tất cả đều cần tag KHẲNG ĐỊNH.",
+      "hints": [
+        "seldom = phủ định → does"
+      ],
+      "points": 10
+    },
+    {
+      "id": 74,
+      "type": "multiple-choice",
+      "question": "We had a great time, __________?",
+      "options": [
+        "didn't we",
+        "did we",
+        "hadn't we",
+        "had we"
+      ],
+      "correctIndex": 0,
+      "explanation": "'had' ở đây là động từ thường (có) → dùng 'didn't'. Dịch: Chúng ta đã vui lắm, phải không?",
+      "hints": [
+        "had (động từ thường) → didn't"
+      ],
+      "points": 10
+    },
+    {
+      "id": 75,
+      "type": "multiple-choice",
+      "question": "They'd better hurry, __________?",
+      "options": [
+        "hadn't they",
+        "had they",
+        "wouldn't they",
+        "would they"
+      ],
+      "correctIndex": 0,
+      "explanation": "⭐ 'HAD BETTER' (nên/tốt hơn nên): 'They'd better' = 'They had better' → question tag dùng 'HADN'T' (không dùng 'wouldn't'). Dịch: Họ nên nhanh lên, phải không? CÁCH NHẬN BIẾT: 'd better = had better (lời khuyên). So sánh: 'd rather = would rather (sở thích). Ví dụ: 'You'd better study, hadn't you?' (Bạn nên học đi, phải không?).",
+      "hints": [
+        "had better → hadn't"
+      ],
+      "points": 10
+    },
+    {
+      "id": 76,
+      "type": "multiple-choice",
+      "question": "You won't forget, __________?",
+      "options": [
+        "will you",
+        "won't you",
+        "do you",
+        "don't you"
+      ],
+      "correctIndex": 0,
+      "explanation": "Câu phủ định (won't) → tag khẳng định (will you). Dịch: Bạn sẽ không quên chứ?",
+      "hints": [
+        "won't (phủ định) → will"
+      ],
+      "points": 10
+    },
+    {
+      "id": 77,
+      "type": "multiple-choice",
+      "question": "Mary has two brothers, __________?",
+      "options": [
+        "doesn't she",
+        "hasn't she",
+        "does she",
+        "has she"
+      ],
+      "correctIndex": 0,
+      "explanation": "'has' nghĩa 'có' (sở hữu) → dùng 'doesn't'. Dịch: Mary có hai anh trai, phải không?",
+      "hints": [
+        "has (sở hữu) → doesn't"
+      ],
+      "points": 10
+    },
+    {
+      "id": 78,
+      "type": "multiple-choice",
+      "question": "They might come later, __________?",
+      "options": [
+        "mightn't they",
+        "might they",
+        "don't they",
+        "do they"
+      ],
+      "correctIndex": 0,
+      "explanation": "Câu khẳng định với 'might' → tag phủ định (mightn't they). Dịch: Họ có thể đến muộn hơn, phải không?",
+      "hints": [
+        "might (khẳng định) → mightn't"
+      ],
+      "points": 10
+    },
+    {
+      "id": 79,
+      "type": "multiple-choice",
+      "question": "It hardly ever rains here, __________?",
+      "options": [
+        "does it",
+        "doesn't it",
+        "is it",
+        "isn't it"
+      ],
+      "correctIndex": 0,
+      "explanation": "'HARDLY EVER' (hầu như không bao giờ) mang nghĩa PHỦ ĐỊNH → tag KHẲNG ĐỊNH 'does it'. Dịch: Ở đây hầu như không bao giờ mưa, đúng không? PHÂN TÍCH: (1) 'hardly' = hầu như không (phủ định). (2) Phủ định → tag khẳng định. (3) Chủ ngữ 'It' (thời tiết). (4) Động từ 'rains' → dùng 'does'. Các từ tương tự: hardly, scarcely, barely.",
+      "hints": [
+        "hardly = phủ định → does"
+      ],
+      "points": 10
+    },
+    {
+      "id": 80,
+      "type": "multiple-choice",
+      "question": "Someone is waiting outside, __________?",
+      "options": [
+        "aren't they",
+        "isn't he",
+        "isn't it",
+        "aren't he"
+      ],
+      "correctIndex": 0,
+      "explanation": "⭐ SOMEONE/SOMEBODY + QUESTION TAG: 'Someone IS waiting' → dùng 'THEY' (không dùng 'he' hay 'she' vì không biết giới tính). Dịch: Có ai đó đang đợi bên ngoài, phải không? QUY TẮC: Someone/Somebody/Anyone/Everyone/Nobody → dùng 'THEY' trong tag. Câu khẳng định (is) → tag phủ định (aren't they).",
+      "hints": [
+        "someone → they"
+      ],
+      "points": 10
+    },
+    {
+      "id": 81,
+      "type": "multiple-choice",
+      "question": "That was a good movie, __________?",
+      "options": [
+        "wasn't it",
+        "was it",
+        "didn't it",
+        "did it"
+      ],
+      "correctIndex": 0,
+      "explanation": "Câu khẳng định (was) → tag phủ định (wasn't it). Dịch: Đó là một bộ phim hay, phải không?",
+      "hints": [
+        "was (khẳng định) → wasn't"
+      ],
+      "points": 10
+    },
+    {
+      "id": 82,
+      "type": "multiple-choice",
+      "question": "These books aren't yours, __________?",
+      "options": [
+        "are they",
+        "aren't they",
+        "do they",
+        "don't they"
+      ],
+      "correctIndex": 0,
+      "explanation": "Câu phủ định (aren't) → tag khẳng định (are they). Dịch: Những quyển sách này không phải của bạn, đúng không?",
+      "hints": [
+        "aren't (phủ định) → are"
+      ],
+      "points": 10
+    },
+    {
+      "id": 83,
+      "type": "word-rearrange",
+      "question": "is/ at the door./ knocking/ Someone/",
+      "explanation": "Thứ tự: Someone (chủ ngữ) + is knocking (động từ) + at the door (nơi chốn). Dịch: Ai đó đang gõ cửa.",
+      "hints": [
+        "Someone đứng đầu câu",
+        "is knocking là động từ"
+      ],
+      "points": 10,
+      "correctSentence": "Someone is knocking at the door.",
+      "words": [
+        "is",
+        "at the door.",
+        "knocking",
+        "Someone"
+      ]
+    },
+    {
+      "id": 84,
+      "type": "word-rearrange",
+      "question": "anyone/ know/ Does/ the answer?/",
+      "explanation": "Câu hỏi với 'anyone'. Thứ tự: Does + anyone + know + the answer? Dịch: Có ai biết câu trả lời không?",
+      "hints": [
+        "Câu hỏi bắt đầu bằng Does",
+        "anyone sau Does"
+      ],
+      "points": 10,
+      "correctSentence": "Does anyone know the answer?",
+      "words": [
+        "anyone",
+        "know",
+        "Does",
+        "the answer?"
+      ]
+    },
+    {
+      "id": 85,
+      "type": "word-rearrange",
+      "question": "to/ came/ No one/ the party./",
+      "explanation": "Thứ tự: No one (chủ ngữ) + came (động từ quá khứ) + to the party. Dịch: Không ai đến bữa tiệc.",
+      "hints": [
+        "No one đứng đầu",
+        "came là động từ quá khứ"
+      ],
+      "points": 10,
+      "correctSentence": "No one came to the party.",
+      "words": [
+        "to",
+        "came",
+        "No one",
+        "the party."
+      ]
+    },
+    {
+      "id": 86,
+      "type": "word-rearrange",
+      "question": "the exam./ passed/ Everyone/",
+      "explanation": "Thứ tự: Everyone (chủ ngữ) + passed (động từ) + the exam (tân ngữ). Dịch: Mọi người đều đã đỗ kỳ thi.",
+      "hints": [
+        "Everyone đứng đầu",
+        "Everyone + động từ số ít"
+      ],
+      "points": 10,
+      "correctSentence": "Everyone passed the exam.",
+      "words": [
+        "the exam.",
+        "passed",
+        "Everyone"
+      ]
+    },
+    {
+      "id": 87,
+      "type": "word-rearrange",
+      "question": "I/ something/ need/ to eat./",
+      "explanation": "Thứ tự: I + need + something + to eat. Dịch: Tôi cần cái gì đó để ăn.",
+      "hints": [
+        "something đứng sau need",
+        "to eat đứng cuối"
+      ],
+      "points": 10,
+      "correctSentence": "I need something to eat.",
+      "words": [
+        "I",
+        "something",
+        "need",
+        "to eat."
+      ]
+    },
+    {
+      "id": 88,
+      "type": "word-rearrange",
+      "question": "see/ anything/ I/ can't/ in the dark./",
+      "explanation": "Câu phủ định dùng 'anything'. Thứ tự: I + can't see + anything + in the dark. Dịch: Tôi không thấy gì trong bóng tối.",
+      "hints": [
+        "Câu phủ định dùng anything",
+        "in the dark cuối câu"
+      ],
+      "points": 10,
+      "correctSentence": "I can't see anything in the dark.",
+      "words": [
+        "see",
+        "anything",
+        "I",
+        "can't",
+        "in the dark."
+      ]
+    },
+    {
+      "id": 89,
+      "type": "word-rearrange",
+      "question": "is/ wrong./ Nothing/",
+      "explanation": "Thứ tự: Nothing (chủ ngữ) + is (động từ) + wrong (tính từ). Dịch: Không có gì sai cả.",
+      "hints": [
+        "Nothing đứng đầu làm chủ ngữ",
+        "Nothing + is"
+      ],
+      "points": 10,
+      "correctSentence": "Nothing is wrong.",
+      "words": [
+        "is",
+        "wrong.",
+        "Nothing"
+      ]
+    },
+    {
+      "id": 90,
+      "type": "word-rearrange",
+      "question": "ready./ is/ Everything/",
+      "explanation": "Thứ tự: Everything (chủ ngữ) + is (động từ) + ready (tính từ). Dịch: Mọi thứ đã sẵn sàng.",
+      "hints": [
+        "Everything đứng đầu",
+        "Everything + is (số ít)"
+      ],
+      "points": 10,
+      "correctSentence": "Everything is ready.",
+      "words": [
+        "ready.",
+        "is",
+        "Everything"
+      ]
+    },
+    {
+      "id": 91,
+      "type": "word-rearrange",
+      "question": "to go/ somewhere/ Let's/ fun./",
+      "explanation": "Thứ tự: Let's go + somewhere + fun (tính từ bổ nghĩa). Dịch: Đi đâu đó vui vui nào!",
+      "hints": [
+        "Let's go đầu câu",
+        "fun bổ nghĩa cho somewhere"
+      ],
+      "points": 10,
+      "correctSentence": "Let's go somewhere fun.",
+      "words": [
+        "go",
+        "somewhere",
+        "Let's",
+        "fun."
+      ]
+    },
+    {
+      "id": 92,
+      "type": "word-rearrange",
+      "question": "anywhere/ find/ can't/ I/ my keys./",
+      "explanation": "Câu phủ định dùng 'anywhere'. Thứ tự: I + can't find + my keys + anywhere. Dịch: Tôi không tìm thấy chìa khóa ở đâu cả.",
+      "hints": [
+        "can't = phủ định",
+        "anywhere cuối câu"
+      ],
+      "points": 10,
+      "correctSentence": "I can't find my keys anywhere.",
+      "words": [
+        "anywhere.",
+        "find",
+        "can't",
+        "I",
+        "my keys"
+      ]
+    },
+    {
+      "id": 93,
+      "type": "word-rearrange",
+      "question": "She/ happy,/ is/ isn't she?/",
+      "explanation": "Câu khẳng định + question tag phủ định. Thứ tự: She is happy + , + isn't she? Dịch: Cô ấy vui, phải không?",
+      "hints": [
+        "is (khẳng định) → isn't",
+        "Dấu phẩy trước isn't"
+      ],
+      "points": 10,
+      "correctSentence": "She is happy, isn't she?",
+      "words": [
+        "She",
+        "happy,",
+        "is",
+        "isn't she?"
+      ]
+    },
+    {
+      "id": 94,
+      "type": "word-rearrange",
+      "question": "don't/ They/ here,/ live/ do they?/",
+      "explanation": "Câu phủ định + question tag khẳng định. Thứ tự: They don't live here + , + do they? Dịch: Họ không sống ở đây, đúng không?",
+      "hints": [
+        "don't (phủ định) → do",
+        "Dấu phẩy trước do they"
+      ],
+      "points": 10,
+      "correctSentence": "They don't live here, do they?",
+      "words": [
+        "don't",
+        "They",
+        "here,",
+        "live",
+        "do they?"
+      ]
+    },
+    {
+      "id": 95,
+      "type": "word-rearrange",
+      "question": "can/ You/ can't you?/ swim,/",
+      "explanation": "Câu khẳng định với 'can' + question tag phủ định. Dịch: Bạn biết bơi, phải không?",
+      "hints": [
+        "can (khẳng định) → can't",
+        "Dấu phẩy sau swim"
+      ],
+      "points": 10,
+      "correctSentence": "You can swim, can't you?",
+      "words": [
+        "can",
+        "You",
+        "can't you?",
+        "swim,"
+      ]
+    },
+    {
+      "id": 96,
+      "type": "word-rearrange",
+      "question": "won't/ tomorrow,/ They/ will they?/ come/",
+      "explanation": "Câu phủ định với 'won't' + question tag khẳng định. Dịch: Họ sẽ không đến ngày mai, đúng không?",
+      "hints": [
+        "won't (phủ định) → will",
+        "tomorrow sau come"
+      ],
+      "points": 10,
+      "correctSentence": "They won't come tomorrow, will they?",
+      "words": [
+        "won't",
+        "tomorrow,",
+        "They",
+        "will they?",
+        "come"
+      ]
+    },
+    {
+      "id": 97,
+      "type": "word-rearrange",
+      "question": "in the box./ isn't/ anything/ There/",
+      "explanation": "Câu phủ định với 'There isn't' + anything. Thứ tự: There isn't + anything + in the box. Dịch: Không có gì trong hộp.",
+      "hints": [
+        "There isn't anything",
+        "in the box cuối câu"
+      ],
+      "points": 10,
+      "correctSentence": "There isn't anything in the box.",
+      "words": [
+        "in the box.",
+        "isn't",
+        "anything",
+        "There"
+      ]
+    },
+    {
+      "id": 98,
+      "type": "word-rearrange",
+      "question": "visited/ has/ everywhere/ She/ in Europe./",
+      "explanation": "Thứ tự: She + has visited + everywhere + in Europe. Dịch: Cô ấy đã đi thăm khắp nơi ở châu Âu.",
+      "hints": [
+        "has visited là thì hiện tại hoàn thành",
+        "everywhere trước in Europe"
+      ],
+      "points": 10,
+      "correctSentence": "She has visited everywhere in Europe.",
+      "words": [
+        "visited",
+        "has",
+        "everywhere",
+        "She",
+        "in Europe."
+      ]
+    },
+    {
+      "id": 99,
+      "type": "word-rearrange",
+      "question": "at home./ is/ nobody/ There/",
+      "explanation": "Thứ tự: There is + nobody + at home. Dịch: Không có ai ở nhà.",
+      "hints": [
+        "There is nobody",
+        "at home cuối câu"
+      ],
+      "points": 10,
+      "correctSentence": "There is nobody at home.",
+      "words": [
+        "at home.",
+        "is",
+        "nobody",
+        "There"
+      ]
+    },
+    {
+      "id": 100,
+      "type": "word-rearrange",
+      "question": "wants/ to help./ Everyone/",
+      "explanation": "Thứ tự: Everyone (chủ ngữ) + wants (động từ số ít) + to help. Dịch: Mọi người đều muốn giúp đỡ.",
+      "hints": [
+        "Everyone đứng đầu",
+        "wants (số ít) vì Everyone = số ít"
+      ],
+      "points": 10,
+      "correctSentence": "Everyone wants to help.",
+      "words": [
+        "wants",
+        "to help.",
+        "Everyone"
+      ]
+    },
+    {
+      "id": 101,
+      "type": "word-rearrange",
+      "question": "right,/ I'm/ aren't I?/",
+      "explanation": "Trường hợp đặc biệt: I'm (I am) + question tag là 'aren't I'. Dịch: Tôi đúng, phải không?",
+      "hints": [
+        "I'm = I am",
+        "I am → aren't I (đặc biệt)"
+      ],
+      "points": 10,
+      "correctSentence": "I'm right, aren't I?",
+      "words": [
+        "right,",
+        "I'm",
+        "aren't I?"
+      ]
+    },
+    {
+      "id": 102,
+      "type": "word-rearrange",
+      "question": "special/ for you./ something/ I/ have/",
+      "explanation": "Thứ tự: I + have + something + special (tính từ) + for you. Dịch: Tôi có cái gì đó đặc biệt dành cho bạn.",
+      "hints": [
+        "something đứng sau have",
+        "special bổ nghĩa cho something"
+      ],
+      "points": 10,
+      "correctSentence": "I have something special for you.",
+      "words": [
+        "special",
+        "for you.",
+        "something",
+        "I",
+        "have"
+      ]
+    },
+    {
+      "id": 103,
+      "type": "multiple-choice",
+      "question": "There was __________ in the room. It was empty.",
+      "options": [
+        "someone",
+        "anyone",
+        "no one",
+        "everyone"
+      ],
+      "correctIndex": 2,
+      "explanation": "Phòng trống = không ai trong phòng. Dịch: Không có ai trong phòng. Phòng trống rỗng.",
+      "hints": [
+        "empty = trống rỗng"
+      ],
+      "points": 10
+    },
+    {
+      "id": 104,
+      "type": "multiple-choice",
+      "question": "Can you hear __________? I think there's a noise outside.",
+      "options": [
+        "something",
+        "anything",
+        "nothing",
+        "everything"
+      ],
+      "correctIndex": 1,
+      "explanation": "Câu hỏi dùng 'anything'. Dịch: Bạn có nghe thấy gì không? Tôi nghĩ có tiếng động bên ngoài.",
+      "hints": [
+        "Câu hỏi = anything"
+      ],
+      "points": 10
+    },
+    {
+      "id": 105,
+      "type": "multiple-choice",
+      "question": "__________ knows the answer. It's too difficult.",
+      "options": [
+        "Someone",
+        "Anyone",
+        "Nobody",
+        "Everybody"
+      ],
+      "correctIndex": 2,
+      "explanation": "Quá khó = không ai biết. Dịch: Không ai biết câu trả lời. Nó quá khó.",
+      "hints": [
+        "too difficult = không ai biết"
+      ],
+      "points": 10
+    },
+    {
+      "id": 106,
+      "type": "multiple-choice",
+      "question": "I looked __________ for my phone but couldn't find it.",
+      "options": [
+        "somewhere",
+        "anywhere",
+        "nowhere",
+        "everywhere"
+      ],
+      "correctIndex": 3,
+      "explanation": "Tìm khắp nơi. Dịch: Tôi đã tìm khắp nơi nhưng không thể tìm thấy điện thoại.",
+      "hints": [
+        "looked everywhere = tìm khắp nơi"
+      ],
+      "points": 10
+    },
+    {
+      "id": 107,
+      "type": "multiple-choice",
+      "question": "You don't have to go __________. You can stay home.",
+      "options": [
+        "somewhere",
+        "anywhere",
+        "nowhere",
+        "everywhere"
+      ],
+      "correctIndex": 1,
+      "explanation": "Câu phủ định dùng 'anywhere'. Dịch: Bạn không cần phải đi đâu. Bạn có thể ở nhà.",
+      "hints": [
+        "don't = phủ định → anywhere"
+      ],
+      "points": 10
+    },
+    {
+      "id": 108,
+      "type": "multiple-choice",
+      "question": "Tom wasn't at the party yesterday, __________?",
+      "options": [
+        "was he",
+        "wasn't he",
+        "did he",
+        "didn't he"
+      ],
+      "correctIndex": 0,
+      "explanation": "Câu phủ định (wasn't) → tag khẳng định (was he). Dịch: Tom không có ở bữa tiệc hôm qua, phải không?",
+      "hints": [
+        "wasn't → was"
+      ],
+      "points": 10
+    },
+    {
+      "id": 109,
+      "type": "multiple-choice",
+      "question": "Mary can play the piano, __________?",
+      "options": [
+        "can she",
+        "can't she",
+        "does she",
+        "doesn't she"
+      ],
+      "correctIndex": 1,
+      "explanation": "Câu khẳng định (can) → tag phủ định (can't she). Dịch: Mary biết chơi piano, phải không?",
+      "hints": [
+        "can → can't"
+      ],
+      "points": 10
+    },
+    {
+      "id": 110,
+      "type": "multiple-choice",
+      "question": "We won't be late, __________?",
+      "options": [
+        "will we",
+        "won't we",
+        "do we",
+        "don't we"
+      ],
+      "correctIndex": 0,
+      "explanation": "Câu phủ định (won't) → tag khẳng định (will we). Dịch: Chúng ta sẽ không muộn, đúng không?",
+      "hints": [
+        "won't → will"
+      ],
+      "points": 10
+    },
+    {
+      "id": 111,
+      "type": "multiple-choice",
+      "question": "The students have to wear uniforms, __________?",
+      "options": [
+        "have they",
+        "haven't they",
+        "do they",
+        "don't they"
+      ],
+      "correctIndex": 3,
+      "explanation": "Với 'have to' dùng do/don't. Dịch: Học sinh phải mặc đồng phục, phải không?",
+      "hints": [
+        "have to → do/don't"
+      ],
+      "points": 10
+    },
+    {
+      "id": 112,
+      "type": "multiple-choice",
+      "question": "There isn't __________ milk in the fridge.",
+      "options": [
+        "some",
+        "any",
+        "no",
+        "every"
+      ],
+      "correctIndex": 1,
+      "explanation": "Câu phủ định dùng 'any'. Dịch: Không có sữa trong tủ lạnh.",
+      "hints": [
+        "isn't → any"
+      ],
+      "points": 10
+    },
+    {
+      "id": 113,
+      "type": "multiple-choice",
+      "question": "__________ left their bag in the classroom.",
+      "options": [
+        "Anyone",
+        "Someone",
+        "No one",
+        "Everyone"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ai đó để quên túi. Dịch: Ai đó đã để quên túi trong lớp học.",
+      "hints": [
+        "Ai đó = someone"
+      ],
+      "points": 10
+    },
+    {
+      "id": 114,
+      "type": "multiple-choice",
+      "question": "I don't want to go __________ tonight. I'm tired.",
+      "options": [
+        "somewhere",
+        "anywhere",
+        "nowhere",
+        "everywhere"
+      ],
+      "correctIndex": 1,
+      "explanation": "Câu phủ định dùng 'anywhere'. Dịch: Tôi không muốn đi đâu tối nay. Tôi mệt.",
+      "hints": [
+        "don't → anywhere"
+      ],
+      "points": 10
+    },
+    {
+      "id": 115,
+      "type": "multiple-choice",
+      "question": "Peter speaks French, __________?",
+      "options": [
+        "does he",
+        "doesn't he",
+        "is he",
+        "isn't he"
+      ],
+      "correctIndex": 1,
+      "explanation": "Câu khẳng định với động từ thường → doesn't. Dịch: Peter nói tiếng Pháp, phải không?",
+      "hints": [
+        "speaks → doesn't"
+      ],
+      "points": 10
+    },
+    {
+      "id": 116,
+      "type": "multiple-choice",
+      "question": "The children aren't playing outside, __________?",
+      "options": [
+        "are they",
+        "aren't they",
+        "do they",
+        "don't they"
+      ],
+      "correctIndex": 0,
+      "explanation": "Câu phủ định (aren't) → tag khẳng định (are they). Dịch: Bọn trẻ không chơi bên ngoài, phải không?",
+      "hints": [
+        "aren't → are"
+      ],
+      "points": 10
+    },
+    {
+      "id": 117,
+      "type": "word-rearrange",
+      "question": "waiting/ is/ at the door./ Someone/",
+      "explanation": "Thứ tự: Someone (chủ ngữ) + is waiting (động từ) + at the door (nơi chốn). Dịch: Ai đó đang đợi ở cửa.",
+      "hints": [
+        "Someone đứng đầu câu"
+      ],
+      "points": 10,
+      "correctSentence": "Someone is waiting at the door.",
+      "words": [
+        "waiting",
+        "is",
+        "at the door.",
+        "Someone"
+      ]
+    },
+    {
+      "id": 118,
+      "type": "word-rearrange",
+      "question": "is/ wrong,/ Nothing/ is it?/",
+      "explanation": "Nothing mang nghĩa phủ định → tag khẳng định (is it). Dịch: Không có gì sai, đúng không?",
+      "hints": [
+        "Nothing = phủ định → is it"
+      ],
+      "points": 10,
+      "correctSentence": "Nothing is wrong, is it?",
+      "words": [
+        "is",
+        "wrong,",
+        "Nothing",
+        "is it?"
+      ]
+    },
+    {
+      "id": 119,
+      "type": "word-rearrange",
+      "question": "nice/ She/ bought/ to wear./ something/",
+      "explanation": "Thứ tự: She + bought + something + nice (tính từ) + to wear. Dịch: Cô ấy đã mua một thứ gì đó đẹp để mặc.",
+      "hints": [
+        "Tính từ đứng sau something"
+      ],
+      "points": 10,
+      "correctSentence": "She bought something nice to wear.",
+      "words": [
+        "nice",
+        "She",
+        "bought",
+        "to wear.",
+        "something"
+      ]
+    },
+    {
+      "id": 120,
+      "type": "word-rearrange",
+      "question": "you,/ help/ can/ Can/ anyone?/",
+      "explanation": "Câu hỏi với anyone. Dịch: Có ai có thể giúp bạn không?",
+      "hints": [
+        "Câu hỏi dùng anyone"
+      ],
+      "points": 10,
+      "correctSentence": "Can anyone help you?",
+      "words": [
+        "you,",
+        "help",
+        "can",
+        "Can",
+        "anyone?"
+      ]
+    },
+    {
+      "id": 121,
+      "type": "word-rearrange",
+      "question": "is/ are/ delicious,/ The cakes/ aren't they?/",
+      "explanation": "Câu khẳng định (are) → tag phủ định (aren't they). Dịch: Những chiếc bánh ngon, phải không?",
+      "hints": [
+        "are → aren't"
+      ],
+      "points": 10,
+      "correctSentence": "The cakes are delicious, aren't they?",
+      "words": [
+        "is",
+        "are",
+        "delicious,",
+        "The cakes",
+        "aren't they?"
+      ]
+    },
+    {
+      "id": 122,
+      "type": "multiple-choice",
+      "question": "Little is known about the accident, __________?",
+      "options": [
+        "is it",
+        "isn't it",
+        "does it",
+        "doesn't it"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Little' mang nghĩa phủ định → tag khẳng định (is it). Dịch: Ít người biết về vụ tai nạn, phải không?",
+      "hints": [
+        "Little = phủ định"
+      ],
+      "points": 10
+    },
+    {
+      "id": 123,
+      "type": "multiple-choice",
+      "question": "Few people came to the meeting, __________?",
+      "options": [
+        "did they",
+        "didn't they",
+        "were they",
+        "weren't they"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Few' mang nghĩa phủ định → tag khẳng định (did they). Dịch: Ít người đến cuộc họp, phải không?",
+      "hints": [
+        "Few = phủ định"
+      ],
+      "points": 10
+    },
+    {
+      "id": 124,
+      "type": "multiple-choice",
+      "question": "Don't forget to call me, __________?",
+      "options": [
+        "will you",
+        "won't you",
+        "do you",
+        "don't you"
+      ],
+      "correctIndex": 0,
+      "explanation": "Câu mệnh lệnh phủ định → 'will you'. Dịch: Đừng quên gọi cho tôi nhé?",
+      "hints": [
+        "Don't... → will you"
+      ],
+      "points": 10
+    },
+    {
+      "id": 125,
+      "type": "multiple-choice",
+      "question": "Let's have a break, __________?",
+      "options": [
+        "shall we",
+        "will we",
+        "do we",
+        "don't we"
+      ],
+      "correctIndex": 0,
+      "explanation": "Với 'Let's' dùng 'shall we'. Dịch: Nghỉ giải lao một chút nhé?",
+      "hints": [
+        "Let's → shall we"
+      ],
+      "points": 10
+    },
+    {
+      "id": 126,
+      "type": "word-rearrange",
+      "question": "to hide./ has/ There/ nowhere/",
+      "explanation": "Thứ tự: There has + nowhere + to hide. Dịch: Không có chỗ nào để trốn.",
+      "hints": [
+        "nowhere = không nơi nào"
+      ],
+      "points": 10,
+      "correctSentence": "There has nowhere to hide.",
+      "words": [
+        "to hide.",
+        "has",
+        "There",
+        "nowhere"
+      ]
+    },
+    {
+      "id": 127,
+      "type": "word-rearrange",
+      "question": "was/ Everyone/ happy,/ weren't they?/",
+      "explanation": "Everyone → they trong question tag. Dịch: Mọi người đều vui, phải không?",
+      "hints": [
+        "Everyone → they"
+      ],
+      "points": 10,
+      "correctSentence": "Everyone was happy, weren't they?",
+      "words": [
+        "was",
+        "Everyone",
+        "happy,",
+        "weren't they?"
+      ]
+    }
+  ]
+}

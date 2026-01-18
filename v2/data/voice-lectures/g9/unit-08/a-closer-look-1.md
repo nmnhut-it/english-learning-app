@@ -4,7 +4,7 @@
 
 <!-- chunk: intro -->
 <teacher_script pause="0">
-Chào các em. Bài <eng>A Closer Look 1</eng> hôm nay mình học thêm từ vựng về du lịch và cách đánh trọng âm các đuôi -ic và -ious nhé. Mở sách trang 22 nào.
+Chào các em. Chào mừng các em đến với bài học hôm nay. Mời các em mở sách giáo khoa.
 </teacher_script>
 
 ---
@@ -22,7 +22,7 @@ Chào các em. Bài <eng>A Closer Look 1</eng> hôm nay mình học thêm từ v
 </vocabulary>
 
 <teacher_script pause="0">
-Các em nghe và lặp lại từ vựng.
+Chúng ta cùng học từ vựng mới. Các em hãy nghe và lặp lại theo mẫu nhé.
 </teacher_script>
 
 ---
@@ -31,7 +31,7 @@ Các em nghe và lặp lại từ vựng.
 ### Bài 1 trang 22 - Match words with explanations
 
 <teacher_script pause="60">
-Bài 1 nối từ với nghĩa của nó.
+Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
 <task>
@@ -60,7 +60,7 @@ e. vacation organised by travel agent.
 ### Bài 2 trang 22 - Replace 'it' with phrases
 
 <teacher_script pause="60">
-Bài 2 thay thế từ "it" bằng cụm từ thích hợp.
+Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
 <questions type="fill_blanks">
@@ -88,7 +88,7 @@ Bài 2 thay thế từ "it" bằng cụm từ thích hợp.
 ### Bài 3 trang 22 - Complete sentences
 
 <teacher_script pause="60">
-Bài 3 hoàn thành câu với từ cho sẵn.
+Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
 <questions type="fill_blanks">
@@ -111,7 +111,7 @@ Bài 3 hoàn thành câu với từ cho sẵn.
 </answer>
 
 <teacher_script pause="30">
-Sửa bài vào nha.
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
@@ -146,7 +146,7 @@ Ví dụ: **bas**ic, de**lic**ious.
 ### Bài 5 trang 23 - Mark stress
 
 <teacher_script pause="60">
-Bài 5 đánh dấu trọng âm và lặp lại câu.
+Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
 <audio src="https://img.loigiaihay.com/picture/2024/0515/49.mp3">
@@ -163,5 +163,5 @@ Bài 5 đánh dấu trọng âm và lặp lại câu.
 </explanation>
 
 <teacher_script pause="30">
-Các em nhớ quy tắc: trọng âm rơi vào âm trước -ic và -ious nhé. Tạm biệt!
+Bài học hôm nay kết thúc tại đây. Các em nhớ ôn bài và chuẩn bị cho bài học tiếp theo. Tạm biệt các em.
 </teacher_script>

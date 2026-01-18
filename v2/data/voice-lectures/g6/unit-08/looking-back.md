@@ -4,11 +4,11 @@
 
 <!-- chunk: intro -->
 <teacher_script pause="0">
-Chào mấy đứa. Bài <eng>Looking Back</eng> - ôn tập toàn bộ Unit 8. Mở sách trang 24 nha.
+Chào các em. Mời các em mở sách giáo khoa trang 24. Bài học hôm nay là <eng>Looking Back</eng>, chúng ta sẽ ôn tập lại toàn bộ kiến thức của Unit 8.
 </teacher_script>
 
 <teacher_script pause="0">
-Bài này ôn lại từ vựng, ngữ pháp đã học. Ai mà sai nhiều thì cần xem lại các bài trước nha!
+Bài này sẽ giúp chúng ta củng cố từ vựng và ngữ pháp đã học. Các em hãy chú ý làm bài để xem mình còn sai sót ở đâu nhé.
 </teacher_script>
 
 ---
@@ -19,7 +19,7 @@ Bài này ôn lại từ vựng, ngữ pháp đã học. Ai mà sai nhiều thì
 ### Bài 1 trang 24 - Find one odd word
 
 <teacher_script pause="60">
-Bài 1 <eng>Find one odd word/phrase in each question</eng>. Tìm từ không cùng loại. 1 phút nha.
+Chúng ta cùng làm Bài 1 <eng>Find one odd word</eng>. Các em hãy tìm một từ không cùng nhóm trong mỗi câu hỏi. Các em có 1 phút.
 </teacher_script>
 
 <task>
@@ -44,7 +44,7 @@ Bài 1 <eng>Find one odd word/phrase in each question</eng>. Tìm từ không c�
 
 <!-- chunk: answer_1 -->
 <teacher_script pause="0">
-Đáp án nè.
+Đã hết thời gian. Sau đây là đáp án đúng.
 </teacher_script>
 
 <answer>
@@ -64,11 +64,11 @@ Bài 1 <eng>Find one odd word/phrase in each question</eng>. Tìm từ không c�
 </explanation>
 
 <teacher_script pause="0">
-Mẹo làm bài này: Tìm điểm chung của 2 từ, từ còn lại là đáp án.
+Mẹo làm bài này là các em hãy tìm điểm chung của 2 từ, từ còn lại khác biệt sẽ là đáp án.
 </teacher_script>
 
 <teacher_script pause="30">
-Sửa bài nếu sai. 30 giây nha.
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
@@ -77,7 +77,7 @@ Sửa bài nếu sai. 30 giây nha.
 ### Bài 2 trang 24 - DO / PLAY / GO
 
 <teacher_script pause="90">
-Bài 2 <eng>Put the correct form of the verbs play, do or go in the blanks</eng>. Chia động từ <eng>play, do</eng> hoặc <eng>go</eng> đúng dạng. 1 phút rưỡi nha.
+Chúng ta cùng làm Bài 2 <eng>Put the correct form of the verbs</eng>. Các em hãy điền động từ <eng>play, do</eng> hoặc <eng>go</eng> ở dạng đúng vào chỗ trống. Các em có 1 phút 30 giây.
 </teacher_script>
 
 <task>
@@ -114,7 +114,7 @@ Bài 2 <eng>Put the correct form of the verbs play, do or go in the blanks</eng>
 
 <!-- chunk: answer_2 -->
 <teacher_script pause="0">
-Đáp án nè.
+Đã hết thời gian. Sau đây là đáp án đúng.
 </teacher_script>
 
 <answer>
@@ -137,11 +137,11 @@ Bài 2 <eng>Put the correct form of the verbs play, do or go in the blanks</eng>
 </explanation>
 
 <teacher_script pause="0">
-Câu 4 hay sai: Đi câu cá là <eng>go fishing</eng>, quá khứ là <eng>went fishing</eng>, không phải "played fishing" hay "did fishing"!
+Các em lưu ý câu 4 rất dễ nhầm lẫn: Đi câu cá là <eng>go fishing</eng>, quá khứ là <eng>went fishing</eng>, không phải "played fishing" hay "did fishing" đâu nhé.
 </teacher_script>
 
 <teacher_script pause="30">
-Sửa bài nếu sai. 30 giây nha.
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
@@ -152,7 +152,7 @@ Sửa bài nếu sai. 30 giây nha.
 ### Bài 3 trang 24 - Past simple
 
 <teacher_script pause="60">
-Bài 3 <eng>Put the verbs in brackets in the correct form</eng>. Chia động từ đúng dạng quá khứ. 1 phút nha.
+Chúng ta cùng làm Bài 3 <eng>Put the verbs in brackets in the correct form</eng>. Các em hãy chia động từ trong ngoặc ở thì quá khứ đơn. Các em có 1 phút.
 </teacher_script>
 
 <task>
@@ -176,7 +176,7 @@ Bài 3 <eng>Put the verbs in brackets in the correct form</eng>. Chia động t�
 
 <!-- chunk: answer_3 -->
 <teacher_script pause="0">
-Đáp án nè.
+Đã hết thời gian. Sau đây là đáp án đúng.
 </teacher_script>
 
 <answer>
@@ -201,11 +201,11 @@ Bài 3 <eng>Put the verbs in brackets in the correct form</eng>. Chia động t�
 </explanation>
 
 <teacher_script pause="0">
-Olympic đầu tiên <eng>took place</eng> năm 776 trước Công nguyên ở Hy Lạp. Nhớ nha!
+Thế vận hội Olympic mùa hè đầu tiên <eng>took place</eng> diễn ra vào năm 776 trước Công nguyên tại Hy Lạp cổ đại. Các em nhớ sự kiện này nhé.
 </teacher_script>
 
 <teacher_script pause="30">
-Sửa bài nếu sai. 30 giây nha.
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
@@ -214,7 +214,7 @@ Sửa bài nếu sai. 30 giây nha.
 ### Bài 4 trang 24 - Imperatives
 
 <teacher_script pause="60">
-Bài 4 <eng>What do you say in these situations?</eng> Nói gì trong các tình huống này? 1 phút nha.
+Chúng ta cùng làm Bài 4 <eng>What do you say in these situations?</eng> Các em sẽ nói gì trong các tình huống này? Hãy sử dụng câu mệnh lệnh. Các em có 1 phút.
 </teacher_script>
 
 <task>
@@ -254,7 +254,7 @@ Bài 4 <eng>What do you say in these situations?</eng> Nói gì trong các tình
 
 <!-- chunk: answer_4 -->
 <teacher_script pause="0">
-Đáp án nè.
+Đã hết thời gian. Sau đây là đáp án gợi ý.
 </teacher_script>
 
 <answer>
@@ -281,7 +281,7 @@ Bài 4 <eng>What do you say in these situations?</eng> Nói gì trong các tình
 </explanation>
 
 <teacher_script pause="30">
-Sửa bài nếu sai. 30 giây nha.
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
@@ -290,7 +290,7 @@ Sửa bài nếu sai. 30 giây nha.
 ### Bài 5 trang 24 - Fill in the passage
 
 <teacher_script pause="90">
-Bài 5 <eng>Fill each blank with ONE word to complete the passage</eng>. Điền 1 từ vào mỗi chỗ trống để hoàn thành đoạn văn. 1 phút rưỡi nha.
+Chúng ta cùng làm Bài 5 <eng>Fill in the passage</eng>. Các em hãy điền một từ thích hợp vào mỗi chỗ trống để hoàn thành đoạn văn. Các em có 1 phút 30 giây.
 </teacher_script>
 
 <task>
@@ -306,7 +306,7 @@ Sports and games are very important in our lives. We all can (1) _______ a sport
 
 <!-- chunk: answer_5 -->
 <teacher_script pause="0">
-Đáp án nè.
+Đã hết thời gian. Sau đây là đáp án đúng.
 </teacher_script>
 
 <answer>
@@ -332,14 +332,14 @@ Thể thao và trò chơi rất quan trọng trong cuộc sống của chúng ta
 </translation>
 
 <teacher_script pause="30">
-Sửa bài nếu sai. 30 giây nha.
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
 
 <!-- chunk: summary -->
 <teacher_script pause="0">
-Ok tóm tắt lại Unit 8 nha.
+Chúng ta cùng tóm tắt lại kiến thức của Unit 8 nhé.
 </teacher_script>
 
 <grammar>
@@ -374,13 +374,13 @@ Ok tóm tắt lại Unit 8 nha.
 
 <!-- chunk: end -->
 <teacher_script pause="0">
-Ok hết Unit 8 rồi! Mấy đứa làm tốt lắm. Về ôn lại và chuẩn bị kiểm tra nha.
+Bài học hôm nay kết thúc tại đây. Chúc mừng các em đã hoàn thành Unit 8. Các em nhớ ôn tập lại bài để chuẩn bị cho các bài kiểm tra sắp tới nhé.
 </teacher_script>
 
 <teacher_script pause="0">
-Nhớ học thuộc: DO karate, PLAY volleyball, GO swimming. Và động từ bất quy tắc: go-went, take-took, win-won!
+Các em nhớ học thuộc cách dùng: DO karate, PLAY volleyball, GO swimming. Và các động từ bất quy tắc như: go-went, take-took, win-won nhé!
 </teacher_script>
 
 <teacher_script pause="0">
-Hẹn gặp lại ở Unit tiếp theo! Chúc mấy đứa học tốt!
+Hẹn gặp lại các em ở bài học tiếp theo!
 </teacher_script>

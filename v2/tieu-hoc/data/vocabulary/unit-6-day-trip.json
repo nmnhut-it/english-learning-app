@@ -1,0 +1,163 @@
+{
+  "unitId": "unit-6-day-trip",
+  "unitTitle": "Unit 6: Day Trip - Be Going To",
+  "vocabularyData": {
+    "grammarTerms": [
+      {
+        "word": "intention",
+        "vietnamese": "ý định",
+        "pronunciation": "/ɪnˈtenʃn/",
+        "definition": "A plan or purpose to do something",
+        "example": "I'm going to visit the zoo. (intention)",
+        "difficulty": "intermediate"
+      },
+      {
+        "word": "evidence",
+        "vietnamese": "bằng chứng",
+        "pronunciation": "/ˈevɪdəns/",
+        "definition": "Signs that show something will happen",
+        "example": "Look at those clouds! It's going to rain. (evidence)",
+        "difficulty": "advanced"
+      }
+    ],
+    "difficultWords": [
+      {
+        "word": "reptile",
+        "vietnamese": "loài bò sát",
+        "pronunciation": "/ˈreptaɪl/",
+        "definition": "Cold-blooded animals like snakes and lizards",
+        "example": "I'm going to see the reptile house first.",
+        "difficulty": "intermediate"
+      },
+      {
+        "word": "elephant",
+        "vietnamese": "con voi",
+        "pronunciation": "/ˈelɪfənt/",
+        "definition": "Large mammal with a trunk",
+        "example": "I'm going to visit the elephant house.",
+        "difficulty": "basic"
+      },
+      {
+        "word": "asparagus",
+        "vietnamese": "măng tây",
+        "pronunciation": "/əˈspærəɡəs/",
+        "definition": "A green vegetable with long stems",
+        "example": "If I have good asparagus, I'll make soup.",
+        "difficulty": "advanced"
+      },
+      {
+        "word": "ingredients",
+        "vietnamese": "nguyên liệu",
+        "pronunciation": "/ɪnˈɡriːdiənts/",
+        "definition": "Food items used in cooking",
+        "example": "If you find good ingredients, what will you cook?",
+        "difficulty": "intermediate"
+      },
+      {
+        "word": "keeper",
+        "vietnamese": "người trông coi (động vật)",
+        "pronunciation": "/ˈkiːpər/",
+        "definition": "A person who takes care of animals",
+        "example": "The keeper is throwing fish to the dolphins.",
+        "difficulty": "intermediate"
+      },
+      {
+        "word": "dolphins",
+        "vietnamese": "cá heo",
+        "pronunciation": "/ˈdɒlfɪnz/",
+        "definition": "Intelligent sea mammals",
+        "example": "The dolphins are going to eat the fish.",
+        "difficulty": "basic"
+      },
+      {
+        "word": "eagle",
+        "vietnamese": "đại bàng",
+        "pronunciation": "/ˈiːɡl/",
+        "definition": "A large bird of prey",
+        "example": "The eagle's going to catch the fish.",
+        "difficulty": "basic"
+      }
+    ],
+    "keyPhrases": [
+      {
+        "phrase": "be going to + verb",
+        "vietnamese": "sắp, dự định",
+        "structure": "am/is/are going to + base verb",
+        "definition": "Used for plans and predictions with evidence",
+        "example": "I'm going to visit the elephant house.",
+        "usage": "For intentions and predictions based on evidence"
+      },
+      {
+        "phrase": "am/is/are + not going to",
+        "vietnamese": "sẽ không",
+        "structure": "am/is/are not going to + base verb",
+        "definition": "Negative form of be going to",
+        "example": "I'm not going to visit the reptile house.",
+        "usage": "For negative plans/predictions"
+      },
+      {
+        "phrase": "Are you going to...?",
+        "vietnamese": "Bạn có sẽ...không?",
+        "structure": "Are/Is + subject + going to + verb?",
+        "definition": "Question form",
+        "example": "Are you going to visit the reptile house first?",
+        "usage": "To ask about plans/intentions"
+      }
+    ],
+    "phrasalVerbs": [
+      {
+        "verb": "feed the snakes",
+        "vietnamese": "cho rắn ăn",
+        "definition": "Give food to snakes",
+        "example": "They're going to feed the snakes soon.",
+        "synonyms": ["give food to"]
+      },
+      {
+        "verb": "put on",
+        "vietnamese": "tổ chức (buổi biểu diễn)",
+        "definition": "Organize or present a show",
+        "example": "Evening shows are put on by dancers.",
+        "synonyms": ["organize", "present", "stage"]
+      },
+      {
+        "verb": "fly towards",
+        "vietnamese": "bay về phía",
+        "definition": "Move through the air in a direction",
+        "example": "The eagle's flying towards the fish.",
+        "synonyms": ["head toward", "approach"]
+      }
+    ],
+    "usefulExpressions": [
+      {
+        "expression": "filled with",
+        "vietnamese": "đầy, lấp đầy với",
+        "example": "Hollywood is filled with famous people.",
+        "type": "phrasal verb"
+      },
+      {
+        "expression": "throw fish to",
+        "vietnamese": "ném cá cho",
+        "example": "The keeper is throwing fish to the dolphins.",
+        "type": "collocation"
+      },
+      {
+        "expression": "catch the fish",
+        "vietnamese": "bắt cá",
+        "example": "The eagle's going to catch the fish.",
+        "type": "collocation"
+      },
+      {
+        "expression": "look tired",
+        "vietnamese": "trông mệt mỏi",
+        "example": "Dad looks tired. He's going to sit down.",
+        "type": "look + adjective"
+      },
+      {
+        "expression": "black clouds in the sky",
+        "vietnamese": "mây đen trên trời",
+        "example": "There are black clouds. It's going to rain.",
+        "type": "description phrase"
+      }
+    ]
+  }
+}

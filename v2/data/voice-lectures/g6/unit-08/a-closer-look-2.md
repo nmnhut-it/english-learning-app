@@ -4,11 +4,11 @@
 
 <!-- chunk: intro -->
 <teacher_script pause="0">
-Ok lớp 6, bài này là <eng>A Closer Look 2</eng> - học Grammar. Mở sách trang 19 nha.
+Chào các em. Mời các em mở sách giáo khoa trang 19. Bài học hôm nay là <eng>A Closer Look 2</eng>, chúng ta sẽ tập trung vào ngữ pháp.
 </teacher_script>
 
 <teacher_script pause="0">
-Hôm nay học 2 điểm ngữ pháp: Thì Quá khứ đơn <eng>Past Simple</eng> và Câu mệnh lệnh <eng>Imperatives</eng>. Quan trọng lắm nha!
+Hôm nay chúng ta sẽ học hai điểm ngữ pháp quan trọng: Thì Quá khứ đơn (<eng>Past Simple</eng>) và Câu mệnh lệnh (<eng>Imperatives</eng>).
 </teacher_script>
 
 ---
@@ -17,7 +17,7 @@ Hôm nay học 2 điểm ngữ pháp: Thì Quá khứ đơn <eng>Past Simple</en
 ### THÌ QUÁ KHỨ ĐƠN (Past Simple)
 
 <teacher_script pause="0">
-Đầu tiên là <eng>Past Simple</eng> - Thì quá khứ đơn. Dùng để nói về việc ĐÃ XẢY RA và KẾT THÚC trong quá khứ.
+Phần đầu tiên là <eng>Past Simple</eng> - Thì quá khứ đơn. Chúng ta dùng thì này để nói về những sự việc đã xảy ra và kết thúc trong quá khứ.
 </teacher_script>
 
 ---
@@ -55,18 +55,18 @@ Dùng để diễn tả:
 </grammar>
 
 <teacher_script pause="0">
-Nhớ nha: Câu khẳng định dùng V-ed hoặc V2 (động từ bất quy tắc). Câu phủ định và nghi vấn dùng <eng>did</eng> + V nguyên mẫu.
+Các em lưu ý: Trong câu khẳng định, chúng ta dùng động từ thêm đuôi -ed hoặc động từ cột 2 (đối với động từ bất quy tắc). Trong câu phủ định và nghi vấn, chúng ta dùng trợ động từ <eng>did</eng> và động từ chính ở dạng nguyên mẫu.
 </teacher_script>
 
 <teacher_script pause="60">
-Ghi công thức vô tập. 1 phút nha.
+Các em hãy ghi công thức vào vở. Các em có 1 phút.
 </teacher_script>
 
 ---
 
 <!-- chunk: grammar_irregular_verbs -->
 <teacher_script pause="0">
-Đây là các động từ bất quy tắc thường gặp.
+Sau đây là một số động từ bất quy tắc thường gặp mà các em cần ghi nhớ.
 </teacher_script>
 
 <vocabulary>
@@ -85,11 +85,11 @@ Ghi công thức vô tập. 1 phút nha.
 </vocabulary>
 
 <teacher_script pause="0">
-Mấy từ này phải học thuộc nha. <eng>Go - went, have - had, do - did, eat - ate</eng>. Không có quy tắc, phải nhớ thôi!
+Các động từ này không tuân theo quy tắc thêm -ed, nên các em buộc phải học thuộc lòng nhé: <eng>Go - went, have - had, do - did, eat - ate</eng>.
 </teacher_script>
 
 <teacher_script pause="45">
-Ghi bảng động từ vô tập. 45 giây nha.
+Các em hãy ghi bảng động từ này vào vở. Các em có 45 giây.
 </teacher_script>
 
 ---
@@ -98,7 +98,7 @@ Ghi bảng động từ vô tập. 45 giây nha.
 ### Bài 1 trang 19 - Choose the correct answer
 
 <teacher_script pause="60">
-Bài 1 <eng>Choose the correct answer A, B, or C</eng>. Chọn đáp án đúng. Bài này kiểm tra cấu trúc thì quá khứ đơn. 1 phút nha.
+Chúng ta cùng làm Bài 1 <eng>Choose the correct answer</eng>. Các em hãy chọn đáp án đúng A, B hoặc C. Bài tập này giúp các em ôn luyện cấu trúc thì quá khứ đơn. Các em có 1 phút.
 </teacher_script>
 
 <task>
@@ -148,7 +148,7 @@ Bài 1 <eng>Choose the correct answer A, B, or C</eng>. Chọn đáp án đúng.
 
 <!-- chunk: answer_1 -->
 <teacher_script pause="0">
-Đáp án nè.
+Đã hết thời gian. Sau đây là đáp án đúng.
 </teacher_script>
 
 <answer>
@@ -172,11 +172,11 @@ Bài 1 <eng>Choose the correct answer A, B, or C</eng>. Chọn đáp án đúng.
 </explanation>
 
 <teacher_script pause="0">
-Câu 3 và 4 hay sai nhất. Nhớ: Phủ định quá khứ luôn là <eng>didn't + V nguyên mẫu</eng>. Không được nói <eng>not saw</eng> hay <eng>not asking</eng>.
+Các em đặc biệt chú ý câu 3 và 4. Trong thì quá khứ đơn, thể phủ định luôn là <eng>didn't</eng> cộng với động từ nguyên mẫu. Chúng ta không dùng <eng>not saw</eng> hay <eng>not asking</eng>.
 </teacher_script>
 
 <teacher_script pause="30">
-Sửa bài nếu sai. 30 giây nha.
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
@@ -185,7 +185,7 @@ Sửa bài nếu sai. 30 giây nha.
 ### Bài 2 trang 19 - Complete the conversation
 
 <teacher_script pause="90">
-Bài 2 <eng>Write the correct form of the verbs to complete the conversation</eng>. Chia động từ đúng để hoàn thành hội thoại. 1 phút rưỡi nha.
+Chúng ta cùng làm Bài 2 <eng>Write the correct form of the verbs</eng>. Các em hãy chia động từ trong ngoặc ở thì quá khứ đơn để hoàn thành đoạn hội thoại. Các em có 1 phút 30 giây.
 </teacher_script>
 
 <task>
@@ -216,7 +216,7 @@ Bài 2 <eng>Write the correct form of the verbs to complete the conversation</en
 
 <!-- chunk: answer_2 -->
 <teacher_script pause="0">
-Đáp án nè.
+Đã hết thời gian. Sau đây là đáp án gợi ý.
 </teacher_script>
 
 <answer>
@@ -237,11 +237,11 @@ Bài 2 <eng>Write the correct form of the verbs to complete the conversation</en
 </explanation>
 
 <teacher_script pause="0">
-Chú ý câu 3: <eng>What did you do?</eng> - Đây là câu hỏi với từ hỏi <eng>What</eng>. Cấu trúc: <eng>What + did + S + V0?</eng>
+Các em lưu ý câu 3: <eng>What did you do?</eng>. Đây là câu hỏi có từ để hỏi <eng>What</eng>. Cấu trúc là: <eng>What + did + Chủ ngữ + Động từ nguyên mẫu?</eng>
 </teacher_script>
 
 <teacher_script pause="30">
-Sửa bài nếu sai. 30 giây nha.
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
@@ -250,7 +250,7 @@ Sửa bài nếu sai. 30 giây nha.
 ### Bài 3 trang 19 - Work in groups
 
 <teacher_script pause="0">
-Bài 3 <eng>Work in groups. Ask and answer questions about last weekend</eng>. Hỏi đáp về cuối tuần trước.
+Chúng ta cùng chuyển sang Bài 3 <eng>Work in groups</eng>. Các em hãy hỏi và trả lời các câu hỏi về những hoạt động cuối tuần trước của mình.
 </teacher_script>
 
 <task>
@@ -283,7 +283,7 @@ Bài 3 <eng>Work in groups. Ask and answer questions about last weekend</eng>. H
 </grammar>
 
 <teacher_script pause="0" action="record">
-Bấm nút Ghi âm để nói về cuối tuần trước của mình. Dùng thì quá khứ đơn nha.
+Các em hãy bấm nút Ghi âm để chia sẻ về cuối tuần trước của mình. Nhớ sử dụng thì quá khứ đơn nhé.
 </teacher_script>
 
 ---
@@ -292,7 +292,7 @@ Bấm nút Ghi âm để nói về cuối tuần trước của mình. Dùng th�
 ### CÂU MỆNH LỆNH (Imperatives)
 
 <teacher_script pause="0">
-Giờ qua phần 2: <eng>Imperatives</eng> - Câu mệnh lệnh. Dùng để ra lệnh, yêu cầu, hoặc đưa ra hướng dẫn.
+Chúng ta cùng chuyển sang phần 2: <eng>Imperatives</eng> - Câu mệnh lệnh. Chúng ta dùng câu mệnh lệnh để đưa ra yêu cầu, đề nghị hoặc hướng dẫn.
 </teacher_script>
 
 ---
@@ -322,11 +322,11 @@ Giờ qua phần 2: <eng>Imperatives</eng> - Câu mệnh lệnh. Dùng để ra 
 </grammar>
 
 <teacher_script pause="0">
-Đơn giản thôi: Muốn ai làm gì → Dùng V nguyên mẫu. Muốn ai ĐỪNG làm gì → Thêm <eng>Don't</eng> phía trước.
+Rất đơn giản: Nếu muốn ai đó làm gì, chúng ta dùng động từ nguyên mẫu. Nếu muốn ai đó KHÔNG làm gì, chúng ta thêm <eng>Don't</eng> vào trước động từ nguyên mẫu.
 </teacher_script>
 
 <teacher_script pause="45">
-Ghi công thức vô tập. 45 giây nha.
+Các em hãy ghi công thức vào vở. Các em có 45 giây.
 </teacher_script>
 
 ---
@@ -335,7 +335,7 @@ Ghi công thức vô tập. 45 giây nha.
 ### Bài 4 trang 20 - Choose the correct answer
 
 <teacher_script pause="45">
-Bài 4 <eng>Look at each picture and choose the correct answer</eng>. Nhìn tranh và chọn đáp án đúng. 45 giây nha.
+Chúng ta cùng làm Bài 4 <eng>Look at each picture and choose the correct answer</eng>. Các em hãy nhìn tranh và chọn đáp án đúng. Các em có 45 giây.
 </teacher_script>
 
 <task>
@@ -370,7 +370,7 @@ Bài 4 <eng>Look at each picture and choose the correct answer</eng>. Nhìn tran
 
 <!-- chunk: answer_4 -->
 <teacher_script pause="0">
-Đáp án nè.
+Sau đây là đáp án đúng.
 </teacher_script>
 
 <answer>
@@ -390,11 +390,11 @@ Bài 4 <eng>Look at each picture and choose the correct answer</eng>. Nhìn tran
 </explanation>
 
 <teacher_script pause="0">
-Câu 4 quan trọng nha. Khi có cháy, TUYỆT ĐỐI không dùng thang máy vì có thể bị kẹt hoặc hít khói. Phải dùng cầu thang bộ.
+Các em lưu ý câu 4 nhé. Khi có cháy, điều quan trọng là TUYỆT ĐỐI không sử dụng thang máy vì rất nguy hiểm. Chúng ta phải sử dụng cầu thang bộ để thoát hiểm.
 </teacher_script>
 
 <teacher_script pause="30">
-Sửa bài nếu sai. 30 giây nha.
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
@@ -403,7 +403,7 @@ Sửa bài nếu sai. 30 giây nha.
 ### Bài 5 trang 20 - Gym Rules
 
 <teacher_script pause="0">
-Bài 5 <eng>Tell your friends what to do and what not to do at the gym</eng>. Nói với bạn những gì nên làm và không nên làm ở phòng tập.
+Chúng ta cùng làm Bài 5 <eng>Gym Rules</eng>. Các em hãy nói cho bạn mình biết những điều nên làm và không nên làm tại phòng tập.
 </teacher_script>
 
 <task>
@@ -435,18 +435,18 @@ Bài 5 <eng>Tell your friends what to do and what not to do at the gym</eng>. N�
 </grammar>
 
 <teacher_script pause="60">
-Viết 5 câu về quy định phòng tập vô tập. 3 câu <eng>Do</eng> và 2 câu <eng>Don't</eng>. 1 phút nha.
+Các em hãy viết 5 câu quy định phòng tập vào vở, gồm 3 câu mệnh lệnh khẳng định (<eng>Do</eng>) và 2 câu mệnh lệnh phủ định (<eng>Don't</eng>). Các em có 1 phút.
 </teacher_script>
 
 <teacher_script pause="0" action="record">
-Bấm nút Ghi âm để đọc các quy định phòng tập và gửi cho thầy.
+Các em hãy bấm nút Ghi âm để đọc các quy định phòng tập và gửi cho thầy nhé.
 </teacher_script>
 
 ---
 
 <!-- chunk: end -->
 <teacher_script pause="0">
-Ok hết <eng>A Closer Look 2</eng> rồi. Về nhà học thuộc:
+Bài học hôm nay kết thúc tại đây. Các em về nhà nhớ ôn tập lại các cấu trúc đã học:
 </teacher_script>
 
 <grammar>
@@ -463,9 +463,9 @@ Ok hết <eng>A Closer Look 2</eng> rồi. Về nhà học thuộc:
 </grammar>
 
 <teacher_script pause="0">
-Nhớ học thuộc động từ bất quy tắc: <eng>go-went, have-had, do-did, eat-ate, see-saw, win-won</eng>. Mai mốt kiểm tra hoài đó!
+Các em nhớ học thuộc các động từ bất quy tắc như: <eng>go-went, have-had, do-did, eat-ate, see-saw, win-won</eng>. Chúng ta sẽ gặp lại chúng rất nhiều trong các bài kiểm tra.
 </teacher_script>
 
 <teacher_script pause="0">
-Bài sau qua <eng>Communication</eng>. Hẹn gặp lại mấy đứa!
+Bài học tiếp theo chúng ta sẽ học phần <eng>Communication</eng>. Hẹn gặp lại các em!
 </teacher_script>

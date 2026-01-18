@@ -4,7 +4,7 @@
 
 <!-- chunk: intro -->
 <teacher_script pause="0">
-Chào các em. Qua bài <eng>Communication</eng>. Hôm nay mình học cách hỏi để làm rõ thông tin (Asking for clarification) và nói về Ngày Trái Đất (Earth Day). Mở sách trang 76 nha.
+Chào các em. Chào mừng các em đến với bài học hôm nay. Mời các em mở sách giáo khoa.
 </teacher_script>
 
 ---
@@ -13,7 +13,7 @@ Chào các em. Qua bài <eng>Communication</eng>. Hôm nay mình học cách h�
 ### Everyday English - Asking for clarification
 
 <teacher_script pause="0">
-Bài 1 <eng>Listen and read the dialogue</eng>. Nghe và đọc hội thoại. Chú ý các câu hỏi để làm rõ nghĩa.
+Chúng ta cùng học từ vựng mới. Các em hãy nghe và lặp lại theo mẫu nhé.
 </teacher_script>
 
 <audio src="https://img.loigiaihay.com/picture/2023/0613/track-43.mp3">
@@ -52,7 +52,7 @@ Bài 1 <eng>Listen and read the dialogue</eng>. Nghe và đọc hội thoại. C
 ### Bài 2 trang 77 - Make similar conversations
 
 <teacher_script pause="0">
-Bài 2 làm việc cặp. Tạo đoạn hội thoại hỏi nghĩa của từ "single-use products" và "global warming".
+Bây giờ là phần thực hành nói. Các em hãy luyện tập theo cặp hoặc theo nhóm nhé.
 </teacher_script>
 
 <dialogue>
@@ -65,7 +65,7 @@ Bài 2 làm việc cặp. Tạo đoạn hội thoại hỏi nghĩa của từ "s
 </dialogue>
 
 <teacher_script pause="0" action="record">
-Em hãy thử đóng vai hỏi và trả lời về 'global warming'. Ghi âm gửi thầy nha.
+Các em hãy ghi âm phần luyện tập của mình và gửi cho thầy nhé.
 </teacher_script>
 
 ---
@@ -74,7 +74,7 @@ Em hãy thử đóng vai hỏi và trả lời về 'global warming'. Ghi âm g�
 ### Bài 3 trang 77 - Earth Day Reading
 
 <teacher_script pause="90">
-Bài 3 đọc đoạn văn về Ngày Trái Đất và đánh dấu vào các hoạt động. 1 phút rưỡi nha.
+Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
 <reading>
@@ -97,7 +97,7 @@ You can also do things like **buying green products** and practising **reduce, r
 </answer>
 
 <teacher_script pause="0">
-Đáp án là 1, 3, 4 nhé. Bài đọc có nhắc đến *picking up litter*, *planting trees* và *buying green products*.
+Đã hết thời gian. Sau đây là đáp án gợi ý. Các em hãy đối chiếu với bài làm của mình nhé.
 </teacher_script>
 
 ---
@@ -106,7 +106,7 @@ You can also do things like **buying green products** and practising **reduce, r
 ### Bài 4 trang 77 - Match activities with results
 
 <teacher_script pause="60">
-Bài 4 nối hoạt động với kết quả của nó. 1 phút nha.
+Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
 <task>
@@ -127,7 +127,7 @@ d. improving our health, reducing pollution
 
 <!-- chunk: answer_4 -->
 <teacher_script pause="0">
-Đáp án nè.
+Đã hết thời gian. Sau đây là đáp án gợi ý. Các em hãy đối chiếu với bài làm của mình nhé.
 </teacher_script>
 
 <answer>
@@ -144,12 +144,12 @@ d. improving our health, reducing pollution
 </explanation>
 
 <teacher_script pause="30">
-Sửa bài nếu sai nha.
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
 
 <!-- chunk: end -->
 <teacher_script pause="0">
-Xong bài <eng>Communication</eng>. Các em nhớ cách hỏi giải thích nghĩa của từ và các hoạt động bảo vệ môi trường nhé. Tạm biệt!
+Bài học hôm nay kết thúc tại đây. Các em nhớ ôn bài và chuẩn bị cho bài học tiếp theo. Tạm biệt các em.
 </teacher_script>

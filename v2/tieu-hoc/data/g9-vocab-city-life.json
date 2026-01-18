@@ -1,0 +1,1146 @@
+{
+  "unitId": "g9-vocab-city-life",
+  "title": "Grade 9 - Vocabulary: Community, City Life & Wellness",
+  "grammarTopics": [
+    "Community Helpers",
+    "City Life Terms",
+    "Stress & Achievement"
+  ],
+  "theory": {
+    "brief": "Từ vựng quan trọng về cộng đồng, cuộc sống thành phố và sức khỏe tinh thần",
+    "sections": [
+      {
+        "title": "Section 1: Community & Occupations",
+        "vocabulary": [
+          "artisan (n) /ˌɑːtɪˈzæn/ - thợ làm nghề thủ công",
+          "community (n) /kəˈmjuːnəti/ - cộng đồng",
+          "community helper /kəˈmjuːnəti ˈhelpə/ - người phục vụ cộng đồng",
+          "craft village /ˌkrɑːft ˈvɪlɪdʒ/ - làng nghề thủ công",
+          "delivery person /dɪˈlɪvəri ˈpɜːsn/ - nhân viên giao hàng",
+          "electrician (n) /ɪˌlekˈtrɪʃn/ - thợ điện",
+          "firefighter (n) /ˈfaɪəfaɪtə/ - lính cứu hoả",
+          "garbage collector (n) /ˈɡɑːbɪdʒ kəlektə/ - nhân viên dọn vệ sinh",
+          "police officer (n) /pəˈliːs ɒfɪsə/ - công an",
+          "handicraft (n) /ˈhændikrɑːft/ - sản phẩm thủ công"
+        ]
+      },
+      {
+        "title": "Section 2: City Life",
+        "vocabulary": [
+          "bustling (adj) /ˈbʌslɪŋ/ - hối hả, nhộn nhịp, náo nhiệt",
+          "concrete jungle (n) /ˌkɒŋkriːt ˈdʒʌŋɡl/ - rừng bê tông",
+          "congested (adj) /kənˈdʒestɪd/ - tắc nghẽn (giao thông)",
+          "downtown (n) /ˌdaʊnˈtaʊn/ - khu trung tâm thành phố",
+          "metro (n) /ˈmetrəʊ/ - hệ thống tàu điện ngầm",
+          "rush hour (n) /ˈrʌʃ aʊə/ - giờ cao điểm",
+          "sky train /skaɪ treɪn/ - tàu điện trên không",
+          "tram (n) /træm/ - xe điện",
+          "underground (n) /ˌʌndəˈɡraʊnd/ - (hệ thống) tàu điện ngầm",
+          "liveable (adj) /ˈlɪvəbl/ - (nơi, địa điểm) đáng sống"
+        ]
+      },
+      {
+        "title": "Section 3: Stress & Achievement",
+        "vocabulary": [
+          "accomplish (v) /əˈkʌmplɪʃ/ - hoàn thành, đạt được",
+          "anxiety (n) /æŋˈzaɪəti/ - nỗi lo, mối băn khoăn",
+          "deadline (n) /ˈdedlaɪn/ - thời hạn cuối cùng, hạn cuối",
+          "distraction (n) /dɪˈstrækʃn/ - điều làm sao lãng",
+          "mental (adj) /ˈmentl/ - (thuộc) tinh thần, (thuộc) trí tuệ",
+          "minimise (v) /ˈmɪnɪmaɪz/ - giảm đến mức tối thiểu",
+          "mood (n) /muːd/ - tâm trạng",
+          "optimistic (adj) /ˌɒptɪˈmɪstɪk/ - lạc quan",
+          "priority (n) /praɪˈɒrəti/ - sự ưu tiên",
+          "stressed out (adj) /strest aʊt/ - căng thẳng"
+        ]
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "type": "multiple-choice",
+      "question": "A(n) _______ is a skilled worker who makes things by hand.",
+      "options": [
+        "artisan",
+        "electrician",
+        "delivery person",
+        "garbage collector"
+      ],
+      "correctIndex": 0,
+      "explanation": "An artisan is a craftsperson who makes items by hand",
+      "hints": [
+        "This person creates handicrafts"
+      ],
+      "points": 10
+    },
+    {
+      "id": 2,
+      "type": "fill-blank",
+      "question": "The _______ arrived quickly to put out the fire. (firefighter)",
+      "wordHint": "(firefighter)",
+      "answer": "firefighter",
+      "acceptedAnswers": [
+        "firefighter",
+        "firefighters"
+      ],
+      "hints": [
+        "This person fights fires"
+      ],
+      "points": 10
+    },
+    {
+      "id": 3,
+      "type": "vocabulary-match",
+      "pairs": [
+        {
+          "english": "community helper",
+          "vietnamese": "người phục vụ cộng đồng"
+        },
+        {
+          "english": "craft village",
+          "vietnamese": "làng nghề thủ công"
+        },
+        {
+          "english": "police officer",
+          "vietnamese": "công an"
+        }
+      ],
+      "hints": [
+        "Match each English term with its Vietnamese meaning"
+      ],
+      "points": 10
+    },
+    {
+      "id": 4,
+      "type": "multiple-choice",
+      "question": "The _______ fixed the broken wiring in our house.",
+      "options": [
+        "firefighter",
+        "electrician",
+        "garbage collector",
+        "delivery person"
+      ],
+      "correctIndex": 1,
+      "explanation": "An electrician works with electrical systems",
+      "hints": [
+        "This person works with electricity"
+      ],
+      "points": 10
+    },
+    {
+      "id": 5,
+      "type": "fill-blank",
+      "question": "We need to call the _______ to remove all this trash. (garbage collector)",
+      "wordHint": "(garbage collector)",
+      "answer": "garbage collector",
+      "acceptedAnswers": [
+        "garbage collector",
+        "garbage collectors"
+      ],
+      "hints": [
+        "This person collects waste"
+      ],
+      "points": 10
+    },
+    {
+      "id": 6,
+      "type": "word-rearrange",
+      "correctSentence": "The craft village is famous for pottery",
+      "acceptedAnswers": [
+        "The craft village is famous for pottery",
+        "The craft village is famous for pottery."
+      ],
+      "hints": [
+        "Start with 'The'"
+      ],
+      "points": 10,
+      "words": [
+        "village",
+        "famous",
+        "is",
+        "craft",
+        "The",
+        "for",
+        "pottery"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "multiple-choice",
+      "question": "What does 'handicraft' mean?",
+      "options": [
+        "sản phẩm thủ công",
+        "người thợ thủ công",
+        "làng nghề",
+        "cộng đồng"
+      ],
+      "correctIndex": 0,
+      "explanation": "Handicraft means handmade products",
+      "hints": [
+        "It refers to the product, not the person"
+      ],
+      "points": 10
+    },
+    {
+      "id": 8,
+      "type": "fill-blank",
+      "question": "The _______ brought the package to my door. (delivery person)",
+      "wordHint": "(delivery person)",
+      "answer": "delivery person",
+      "acceptedAnswers": [
+        "delivery person",
+        "delivery man",
+        "delivery woman"
+      ],
+      "hints": [
+        "This person delivers packages"
+      ],
+      "points": 10
+    },
+    {
+      "id": 9,
+      "type": "vocabulary-match",
+      "pairs": [
+        {
+          "english": "artisan",
+          "vietnamese": "thợ làm nghề thủ công"
+        },
+        {
+          "english": "community",
+          "vietnamese": "cộng đồng"
+        },
+        {
+          "english": "handicraft",
+          "vietnamese": "sản phẩm thủ công"
+        }
+      ],
+      "hints": [
+        "Match each English word with its Vietnamese translation"
+      ],
+      "points": 10
+    },
+    {
+      "id": 10,
+      "type": "word-rearrange",
+      "correctSentence": "The community helper helps people in need",
+      "acceptedAnswers": [
+        "The community helper helps people in need",
+        "The community helper helps people in need."
+      ],
+      "hints": [
+        "Start with 'The community helper'"
+      ],
+      "points": 10,
+      "words": [
+        "helps",
+        "community",
+        "The",
+        "helper",
+        "people",
+        "in",
+        "need"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "multiple-choice",
+      "question": "A _______ is a very busy and noisy place with lots of activity.",
+      "options": [
+        "bustling city",
+        "quiet town",
+        "small village",
+        "peaceful area"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bustling means full of activity and energy",
+      "hints": [
+        "Think of a place with lots of movement"
+      ],
+      "points": 10
+    },
+    {
+      "id": 12,
+      "type": "fill-blank",
+      "question": "Traffic gets very _______ during rush hour. (congested)",
+      "wordHint": "(congested)",
+      "answer": "congested",
+      "acceptedAnswers": [
+        "congested"
+      ],
+      "hints": [
+        "This word means blocked or jammed"
+      ],
+      "points": 10
+    },
+    {
+      "id": 13,
+      "type": "vocabulary-match",
+      "pairs": [
+        {
+          "english": "metro",
+          "vietnamese": "hệ thống tàu điện ngầm"
+        },
+        {
+          "english": "tram",
+          "vietnamese": "xe điện"
+        },
+        {
+          "english": "sky train",
+          "vietnamese": "tàu điện trên không"
+        }
+      ],
+      "hints": [
+        "Match each type of public transport with its Vietnamese meaning"
+      ],
+      "points": 10
+    },
+    {
+      "id": 14,
+      "type": "multiple-choice",
+      "question": "What does 'concrete jungle' refer to?",
+      "options": [
+        "rừng bê tông (khu vực có nhiều nhà cao tầng)",
+        "khu rừng nhiệt đới",
+        "công viên trong thành phố",
+        "vườn thú"
+      ],
+      "correctIndex": 0,
+      "explanation": "Concrete jungle describes urban areas with many tall buildings",
+      "hints": [
+        "It's a metaphor for cities with many buildings"
+      ],
+      "points": 10
+    },
+    {
+      "id": 15,
+      "type": "fill-blank",
+      "question": "Let's take the _______ to the city center. (underground)",
+      "wordHint": "(underground)",
+      "answer": "underground",
+      "acceptedAnswers": [
+        "underground",
+        "metro",
+        "subway"
+      ],
+      "hints": [
+        "Another word for metro or subway"
+      ],
+      "points": 10
+    },
+    {
+      "id": 16,
+      "type": "word-rearrange",
+      "correctSentence": "Traffic is terrible during rush hour",
+      "acceptedAnswers": [
+        "Traffic is terrible during rush hour",
+        "Traffic is terrible during rush hour."
+      ],
+      "hints": [
+        "Start with 'Traffic'"
+      ],
+      "points": 10,
+      "words": [
+        "is",
+        "during",
+        "hour",
+        "Traffic",
+        "terrible",
+        "rush"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "multiple-choice",
+      "question": "_______ refers to the central business area of a city.",
+      "options": [
+        "Downtown",
+        "Suburb",
+        "Village",
+        "Countryside"
+      ],
+      "correctIndex": 0,
+      "explanation": "Downtown is the main commercial and business area",
+      "hints": [
+        "It's the center of the city"
+      ],
+      "points": 10
+    },
+    {
+      "id": 18,
+      "type": "fill-blank",
+      "question": "Singapore is a very _______ city with good facilities. (liveable)",
+      "wordHint": "(liveable)",
+      "answer": "liveable",
+      "acceptedAnswers": [
+        "liveable",
+        "livable"
+      ],
+      "hints": [
+        "This word means suitable or pleasant to live in"
+      ],
+      "points": 10
+    },
+    {
+      "id": 19,
+      "type": "vocabulary-match",
+      "pairs": [
+        {
+          "english": "bustling",
+          "vietnamese": "hối hả, nhộn nhịp"
+        },
+        {
+          "english": "congested",
+          "vietnamese": "tắc nghẽn"
+        },
+        {
+          "english": "liveable",
+          "vietnamese": "đáng sống"
+        }
+      ],
+      "hints": [
+        "Match each adjective with its Vietnamese meaning"
+      ],
+      "points": 10
+    },
+    {
+      "id": 20,
+      "type": "word-rearrange",
+      "correctSentence": "We go downtown for shopping",
+      "acceptedAnswers": [
+        "We go downtown for shopping",
+        "We go downtown for shopping."
+      ],
+      "hints": [
+        "Start with 'We'"
+      ],
+      "points": 10,
+      "words": [
+        "to",
+        "downtown",
+        "We",
+        "shopping",
+        "go",
+        "for"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "multiple-choice",
+      "question": "To _______ means to successfully complete or achieve something.",
+      "options": [
+        "accomplish",
+        "distract",
+        "minimise",
+        "worry"
+      ],
+      "correctIndex": 0,
+      "explanation": "Accomplish means to finish or achieve successfully",
+      "hints": [
+        "Think of finishing a task successfully"
+      ],
+      "points": 10
+    },
+    {
+      "id": 22,
+      "type": "fill-blank",
+      "question": "I feel a lot of _______ before exams. (anxiety)",
+      "wordHint": "(anxiety)",
+      "answer": "anxiety",
+      "acceptedAnswers": [
+        "anxiety"
+      ],
+      "hints": [
+        "This is a feeling of worry or nervousness"
+      ],
+      "points": 10
+    },
+    {
+      "id": 23,
+      "type": "vocabulary-match",
+      "pairs": [
+        {
+          "english": "deadline",
+          "vietnamese": "thời hạn cuối cùng"
+        },
+        {
+          "english": "priority",
+          "vietnamese": "sự ưu tiên"
+        },
+        {
+          "english": "mood",
+          "vietnamese": "tâm trạng"
+        }
+      ],
+      "hints": [
+        "Match each word with its Vietnamese meaning"
+      ],
+      "points": 10
+    },
+    {
+      "id": 24,
+      "type": "multiple-choice",
+      "question": "What does 'stressed out' mean?",
+      "options": [
+        "căng thẳng",
+        "vui vẻ",
+        "lạc quan",
+        "buồn bã"
+      ],
+      "correctIndex": 0,
+      "explanation": "Stressed out means very anxious or tense",
+      "hints": [
+        "It's a negative feeling related to pressure"
+      ],
+      "points": 10
+    },
+    {
+      "id": 25,
+      "type": "fill-blank",
+      "question": "Try to _______ distractions when studying. (minimise)",
+      "wordHint": "(minimise)",
+      "answer": "minimise",
+      "acceptedAnswers": [
+        "minimise",
+        "minimize"
+      ],
+      "hints": [
+        "This means to reduce to the smallest amount"
+      ],
+      "points": 10
+    },
+    {
+      "id": 26,
+      "type": "word-rearrange",
+      "correctSentence": "The deadline for the project is tomorrow",
+      "acceptedAnswers": [
+        "The deadline for the project is tomorrow",
+        "The deadline for the project is tomorrow."
+      ],
+      "hints": [
+        "Start with 'The deadline'"
+      ],
+      "points": 10,
+      "words": [
+        "is",
+        "The",
+        "tomorrow",
+        "deadline",
+        "for",
+        "the",
+        "project"
+      ]
+    },
+    {
+      "id": 27,
+      "type": "multiple-choice",
+      "question": "Someone who is _______ expects good things to happen.",
+      "options": [
+        "optimistic",
+        "stressed",
+        "anxious",
+        "distracted"
+      ],
+      "correctIndex": 0,
+      "explanation": "Optimistic means hopeful and positive about the future",
+      "hints": [
+        "This is a positive attitude"
+      ],
+      "points": 10
+    },
+    {
+      "id": 28,
+      "type": "fill-blank",
+      "question": "Health should be your top _______. (priority)",
+      "wordHint": "(priority)",
+      "answer": "priority",
+      "acceptedAnswers": [
+        "priority"
+      ],
+      "hints": [
+        "This means something that is most important"
+      ],
+      "points": 10
+    },
+    {
+      "id": 29,
+      "type": "vocabulary-match",
+      "pairs": [
+        {
+          "english": "mental",
+          "vietnamese": "(thuộc) tinh thần"
+        },
+        {
+          "english": "distraction",
+          "vietnamese": "điều làm sao lãng"
+        },
+        {
+          "english": "optimistic",
+          "vietnamese": "lạc quan"
+        }
+      ],
+      "hints": [
+        "Match each word with its Vietnamese translation"
+      ],
+      "points": 10
+    },
+    {
+      "id": 30,
+      "type": "word-rearrange",
+      "correctSentence": "Physical health is as important as mental health",
+      "acceptedAnswers": [
+        "Physical health is as important as mental health",
+        "Physical health is as important as mental health."
+      ],
+      "hints": [
+        "Compare physical and mental health"
+      ],
+      "points": 10,
+      "words": [
+        "health",
+        "as",
+        "important",
+        "is",
+        "Physical",
+        "mental",
+        "as",
+        "health"
+      ]
+    },
+    {
+      "id": 31,
+      "type": "fill-blank",
+      "question": "The _______ is known for its beautiful pottery. (craft village)",
+      "wordHint": "(craft village)",
+      "answer": "craft village",
+      "acceptedAnswers": [
+        "craft village"
+      ],
+      "hints": [
+        "A place where artisans make handicrafts"
+      ],
+      "points": 10
+    },
+    {
+      "id": 32,
+      "type": "multiple-choice",
+      "question": "Which phrasal verb means 'to reduce or decrease'?",
+      "options": [
+        "cut down on",
+        "hand down",
+        "pass down",
+        "run out of"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Cut down on' means to reduce the amount of something",
+      "hints": [
+        "Think about reducing consumption"
+      ],
+      "points": 10
+    },
+    {
+      "id": 33,
+      "type": "fill-blank",
+      "question": "The family traditions were _______ from generation to generation. (pass down)",
+      "wordHint": "(pass down)",
+      "answer": "passed down",
+      "acceptedAnswers": [
+        "passed down",
+        "handed down"
+      ],
+      "hints": [
+        "This phrasal verb means to give to the next generation"
+      ],
+      "points": 10
+    },
+    {
+      "id": 34,
+      "type": "vocabulary-match",
+      "pairs": [
+        {
+          "english": "facilities",
+          "vietnamese": "cơ sở vật chất"
+        },
+        {
+          "english": "fragrance",
+          "vietnamese": "hương thơm"
+        },
+        {
+          "english": "function",
+          "vietnamese": "chức năng"
+        }
+      ],
+      "hints": [
+        "Match each noun with its Vietnamese meaning"
+      ],
+      "points": 10
+    },
+    {
+      "id": 35,
+      "type": "multiple-choice",
+      "question": "A _______ is the main product or feature that makes a place special.",
+      "options": [
+        "speciality",
+        "facility",
+        "suburb",
+        "pottery"
+      ],
+      "correctIndex": 0,
+      "explanation": "Speciality refers to a special feature or product of a region",
+      "hints": [
+        "Each region has its own special product"
+      ],
+      "points": 10
+    },
+    {
+      "id": 36,
+      "type": "fill-blank",
+      "question": "We need to _______ these ancient buildings for future generations. (preserve)",
+      "wordHint": "(preserve)",
+      "answer": "preserve",
+      "acceptedAnswers": [
+        "preserve"
+      ],
+      "hints": [
+        "This means to protect and maintain"
+      ],
+      "points": 10
+    },
+    {
+      "id": 37,
+      "type": "word-rearrange",
+      "correctSentence": "The suburb is quieter than the city center",
+      "acceptedAnswers": [
+        "The suburb is quieter than the city center",
+        "The suburb is quieter than the city center."
+      ],
+      "hints": [
+        "Compare suburb and city center"
+      ],
+      "points": 10,
+      "words": [
+        "The",
+        "suburb",
+        "is",
+        "quieter",
+        "than",
+        "the",
+        "city",
+        "center"
+      ]
+    },
+    {
+      "id": 38,
+      "type": "multiple-choice",
+      "question": "What does 'tourist attraction' mean?",
+      "options": [
+        "điểm du lịch",
+        "khách du lịch",
+        "làng nghề",
+        "cơ sở vật chất"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tourist attraction refers to interesting places tourists visit",
+      "hints": [
+        "Places where tourists like to go"
+      ],
+      "points": 10
+    },
+    {
+      "id": 39,
+      "type": "fill-blank",
+      "question": "I'm trying to _______ with my new classmates. (get on with)",
+      "wordHint": "(get on with)",
+      "answer": "get on with",
+      "acceptedAnswers": [
+        "get on with",
+        "get along with"
+      ],
+      "hints": [
+        "This means to have a good relationship"
+      ],
+      "points": 10
+    },
+    {
+      "id": 40,
+      "type": "vocabulary-match",
+      "pairs": [
+        {
+          "english": "original",
+          "vietnamese": "nguyên bản"
+        },
+        {
+          "english": "preserve",
+          "vietnamese": "bảo tồn"
+        },
+        {
+          "english": "suburb",
+          "vietnamese": "vùng ngoại ô"
+        }
+      ],
+      "hints": [
+        "Match the words with their meanings"
+      ],
+      "points": 10
+    },
+    {
+      "id": 41,
+      "type": "fill-blank",
+      "question": "We're _______ milk. Can you buy some? (run out of)",
+      "wordHint": "(run out of)",
+      "answer": "running out of",
+      "acceptedAnswers": [
+        "running out of",
+        "run out of"
+      ],
+      "hints": [
+        "This means to have no more of something"
+      ],
+      "points": 10
+    },
+    {
+      "id": 42,
+      "type": "multiple-choice",
+      "question": "A _______ area with many buildings and few green spaces.",
+      "options": [
+        "concrete jungle",
+        "craft village",
+        "suburb",
+        "downtown"
+      ],
+      "correctIndex": 0,
+      "explanation": "Concrete jungle metaphorically describes a heavily built urban area",
+      "hints": [
+        "A city with too many buildings"
+      ],
+      "points": 10
+    },
+    {
+      "id": 43,
+      "type": "word-rearrange",
+      "correctSentence": "I like to look around the market",
+      "acceptedAnswers": [
+        "I like to look around the market",
+        "I like to look around the market."
+      ],
+      "hints": [
+        "Use the phrasal verb 'look around'"
+      ],
+      "points": 10,
+      "words": [
+        "to",
+        "like",
+        "I",
+        "around",
+        "look",
+        "the",
+        "market"
+      ]
+    },
+    {
+      "id": 44,
+      "type": "fill-blank",
+      "question": "The company will _______ a study next month. (carry out)",
+      "wordHint": "(carry out)",
+      "answer": "carry out",
+      "acceptedAnswers": [
+        "carry out",
+        "conduct"
+      ],
+      "hints": [
+        "This means to perform or conduct"
+      ],
+      "points": 10
+    },
+    {
+      "id": 45,
+      "type": "vocabulary-match",
+      "pairs": [
+        {
+          "english": "construction site",
+          "vietnamese": "công trường xây dựng"
+        },
+        {
+          "english": "public amenities",
+          "vietnamese": "tiện ích công cộng"
+        },
+        {
+          "english": "hygiene",
+          "vietnamese": "vệ sinh"
+        }
+      ],
+      "hints": [
+        "Match the compound nouns with their meanings"
+      ],
+      "points": 10
+    },
+    {
+      "id": 46,
+      "type": "multiple-choice",
+      "question": "I think I'm _______ a cold. I feel terrible.",
+      "options": [
+        "coming down with",
+        "getting on with",
+        "hanging out with",
+        "running out of"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Come down with' means to become sick with an illness",
+      "hints": [
+        "This phrasal verb is about getting sick"
+      ],
+      "points": 10
+    },
+    {
+      "id": 47,
+      "type": "fill-blank",
+      "question": "It's easy to _______ in this city using public transport. (get around)",
+      "wordHint": "(get around)",
+      "answer": "get around",
+      "acceptedAnswers": [
+        "get around"
+      ],
+      "hints": [
+        "This means to move from place to place"
+      ],
+      "points": 10
+    },
+    {
+      "id": 48,
+      "type": "word-rearrange",
+      "correctSentence": "I hang out with my friends on weekends",
+      "acceptedAnswers": [
+        "I hang out with my friends on weekends",
+        "I hang out with my friends on weekends."
+      ],
+      "hints": [
+        "Use 'hang out with'"
+      ],
+      "points": 10,
+      "words": [
+        "friends",
+        "with",
+        "hang",
+        "I",
+        "my",
+        "out",
+        "on",
+        "weekends"
+      ]
+    },
+    {
+      "id": 49,
+      "type": "multiple-choice",
+      "question": "What does 'pricey' mean?",
+      "options": [
+        "đắt đỏ",
+        "rẻ",
+        "miễn phí",
+        "hợp lý"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pricey is an informal word meaning expensive",
+      "hints": [
+        "It's an informal word for expensive"
+      ],
+      "points": 10
+    },
+    {
+      "id": 50,
+      "type": "fill-blank",
+      "question": "The factory _______ waste before releasing it into the river. (process)",
+      "wordHint": "(process)",
+      "answer": "processes",
+      "acceptedAnswers": [
+        "processes",
+        "process"
+      ],
+      "hints": [
+        "This means to treat or handle something"
+      ],
+      "points": 10
+    },
+    {
+      "id": 51,
+      "type": "vocabulary-match",
+      "pairs": [
+        {
+          "english": "itchy",
+          "vietnamese": "ngứa, gây ngứa"
+        },
+        {
+          "english": "leftover",
+          "vietnamese": "thức ăn thừa"
+        },
+        {
+          "english": "pricey",
+          "vietnamese": "đắt đỏ"
+        }
+      ],
+      "hints": [
+        "Match the informal/everyday words"
+      ],
+      "points": 10
+    },
+    {
+      "id": 52,
+      "type": "multiple-choice",
+      "question": "An _______ is a task given to students to complete.",
+      "options": [
+        "assignment",
+        "anxiety",
+        "distraction",
+        "deadline"
+      ],
+      "correctIndex": 0,
+      "explanation": "An assignment is homework or a task for students",
+      "hints": [
+        "Teachers give these to students"
+      ],
+      "points": 10
+    },
+    {
+      "id": 53,
+      "type": "fill-blank",
+      "question": "You should eat _______ meals with vegetables and protein. (well-balanced)",
+      "wordHint": "(well-balanced)",
+      "answer": "well-balanced",
+      "acceptedAnswers": [
+        "well-balanced"
+      ],
+      "hints": [
+        "This means having the right proportions"
+      ],
+      "points": 10
+    },
+    {
+      "id": 54,
+      "type": "word-rearrange",
+      "correctSentence": "The due date is next Friday",
+      "acceptedAnswers": [
+        "The due date is next Friday",
+        "The due date is next Friday."
+      ],
+      "hints": [
+        "Start with 'The due date'"
+      ],
+      "points": 10,
+      "words": [
+        "The",
+        "is",
+        "next",
+        "due",
+        "date",
+        "Friday"
+      ]
+    },
+    {
+      "id": 55,
+      "type": "multiple-choice",
+      "question": "A _______ is someone who gives advice and guidance.",
+      "options": [
+        "counsellor",
+        "delivery person",
+        "firefighter",
+        "electrician"
+      ],
+      "correctIndex": 0,
+      "explanation": "A counsellor provides professional advice and support",
+      "hints": [
+        "This person helps with problems and decisions"
+      ],
+      "points": 10
+    },
+    {
+      "id": 56,
+      "type": "fill-blank",
+      "question": "Eating too much fast food can be _______. (fattening)",
+      "wordHint": "(fattening)",
+      "answer": "fattening",
+      "acceptedAnswers": [
+        "fattening"
+      ],
+      "hints": [
+        "This means causing weight gain"
+      ],
+      "points": 10
+    },
+    {
+      "id": 57,
+      "type": "vocabulary-match",
+      "pairs": [
+        {
+          "english": "additional",
+          "vietnamese": "thêm, thêm vào"
+        },
+        {
+          "english": "appropriately",
+          "vietnamese": "phù hợp, thích đáng"
+        },
+        {
+          "english": "counsellor",
+          "vietnamese": "cố vấn, người tư vấn"
+        }
+      ],
+      "hints": [
+        "Match the formal words with meanings"
+      ],
+      "points": 10
+    },
+    {
+      "id": 58,
+      "type": "multiple-choice",
+      "question": "_______ health relates to the mind and emotions.",
+      "options": [
+        "Mental",
+        "Physical",
+        "Additional",
+        "Original"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mental health concerns the state of one's mind",
+      "hints": [
+        "Not about the body, but the mind"
+      ],
+      "points": 10
+    },
+    {
+      "id": 59,
+      "type": "fill-blank",
+      "question": "She felt _______ about her exam results. (optimistic)",
+      "wordHint": "(optimistic)",
+      "answer": "optimistic",
+      "acceptedAnswers": [
+        "optimistic"
+      ],
+      "hints": [
+        "Having a positive outlook"
+      ],
+      "points": 10
+    },
+    {
+      "id": 60,
+      "type": "word-rearrange",
+      "correctSentence": "We need to minimise distractions while studying",
+      "acceptedAnswers": [
+        "We need to minimise distractions while studying",
+        "We need to minimise distractions while studying.",
+        "We need to minimize distractions while studying",
+        "We need to minimize distractions while studying."
+      ],
+      "hints": [
+        "Start with 'We need to'"
+      ],
+      "points": 10,
+      "words": [
+        "We",
+        "need",
+        "to",
+        "minimise",
+        "distractions",
+        "while",
+        "studying"
+      ]
+    }
+  ]
+}

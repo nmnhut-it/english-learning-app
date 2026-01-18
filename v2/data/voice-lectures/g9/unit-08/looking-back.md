@@ -4,7 +4,7 @@
 
 <!-- chunk: intro -->
 <teacher_script pause="0">
-Chào các em. Bài cuối cùng của Unit 8 <eng>Looking Back</eng>. Chúng ta cùng ôn tập từ vựng về du lịch và ngữ pháp về đại từ quan hệ nhé.
+Chào các em. Hôm nay chúng ta sẽ ôn tập lại kiến thức đã học.
 </teacher_script>
 
 ---
@@ -13,7 +13,7 @@ Chào các em. Bài cuối cùng của Unit 8 <eng>Looking Back</eng>. Chúng ta
 ### Bài 1 trang 28 - Choose correct answer
 
 <teacher_script pause="60">
-Bài 1 chọn đáp án đúng.
+Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
 <questions type="multiple_choice">
@@ -34,7 +34,7 @@ A. Food tourism | B. Domestic | C. Ecotourism | D. Shopping
 </answer>
 
 <teacher_script pause="30">
-Sửa bài vào nha.
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
@@ -43,7 +43,7 @@ Sửa bài vào nha.
 ### Bài 2 trang 28 - Fill blanks
 
 <teacher_script pause="60">
-Bài 2 điền từ vào chỗ trống (từ gợi ý bằng chữ cái đầu).
+Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
 <questions type="fill_blanks">
@@ -71,7 +71,7 @@ Bài 2 điền từ vào chỗ trống (từ gợi ý bằng chữ cái đầu).
 ### Bài 3 trang 28 - Who, Which, Whose
 
 <teacher_script pause="60">
-Bài 3 điền đại từ quan hệ: who, which, whose.
+Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
 <questions type="fill_blanks">
@@ -97,7 +97,7 @@ Bài 3 điền đại từ quan hệ: who, which, whose.
 ### Bài 4 trang 28 - Combine sentences
 
 <teacher_script pause="60">
-Bài 4 nối hai câu dùng đại từ quan hệ.
+Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
 <questions type="fill_blanks">
@@ -117,6 +117,6 @@ Bài 4 nối hai câu dùng đại từ quan hệ.
 5. Local people, **who** were friendly...
 </answer>
 
-<teacher_script pause="30">
-Sửa bài vào nha. Chúc mừng các em đã hoàn thành Unit 8!
+<teacher_script pause="0">
+Bài học hôm nay kết thúc tại đây. Các em nhớ ôn bài và chuẩn bị cho bài học tiếp theo. Tạm biệt các em.
 </teacher_script>

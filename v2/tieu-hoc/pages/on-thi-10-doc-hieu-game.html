@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ôn Thi Vào Lớp 10 - Đọc Hiểu | English Grammar Games</title>
+  <meta name="description" content="Luyện tập đọc hiểu tiếng Anh thi vào lớp 10 với bài tập tương tác">
+
+  <!-- Shared Styles -->
+  <link rel="stylesheet" href="../css/shared.css">
+</head>
+<body>
+  <!-- Game Header -->
+  <header class="game-header">
+    <div class="container">
+      <div class="game-header__container">
+        <div class="game-header__info-section">
+          <h1 class="game-header__title">Ôn Thi Vào Lớp 10</h1>
+          <p class="game-header__subtitle">Reading Comprehension - Đọc Hiểu</p>
+
+          <div class="game-info">
+            <div class="game-info__item">
+              <span class="game-info__label">Giáo viên:</span>
+              <span class="game-info__value">Nguyễn Minh Nhựt</span>
+            </div>
+            <div class="game-info__item">
+              <span class="game-info__label">Học sinh:</span>
+              <span class="game-info__value"></span>
+            </div>
+          </div>
+        </div>
+
+        <div class="game-header__stats">
+          <div class="stat">
+            <span class="stat__label">Điểm</span>
+            <span class="stat__value stat__value--primary" id="current-score">⭐ 0</span>
+          </div>
+
+          <div class="stat">
+            <span class="stat__label">Tiến độ</span>
+            <span class="stat__value" id="progress-count">0 / 0</span>
+          </div>
+
+          <div class="stat" id="combo-display" style="display: none;">
+            <span class="stat__label">Combo</span>
+            <span class="stat__value" id="combo-count">0</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Progress Bar -->
+      <div class="progress">
+        <div class="progress__bar" id="progress-bar" style="width: 0%;"></div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Content -->
+  <main class="container">
+    <!-- Tips Panel (Collapsible) -->
+    <div class="theory-panel" id="theory-panel">
+      <button class="theory-panel__toggle" id="theory-toggle">
+        <span>💡 Mẹo làm bài đọc hiểu</span>
+        <span class="theory-panel__icon" id="theory-icon">▼</span>
+      </button>
+
+      <div class="theory-panel__content" id="theory-content">
+        <div class="theory-panel__section">
+          <h3 class="theory-panel__heading">📖 Chiến lược làm bài đọc hiểu</h3>
+
+          <h4 style="margin-top: 1rem; color: var(--primary);">1. Đọc câu hỏi trước</h4>
+          <p>Đọc lướt qua các câu hỏi để biết cần tìm thông tin gì trong bài.</p>
+
+          <h4 style="margin-top: 1rem; color: var(--primary);">2. Xác định từ khóa</h4>
+          <p>Gạch chân từ khóa trong câu hỏi, sau đó tìm từ đó hoặc từ đồng nghĩa trong bài đọc.</p>
+
+          <h4 style="margin-top: 1rem; color: var(--primary);">3. Các dạng câu hỏi thường gặp</h4>
+          <div class="theory-panel__example">
+            <strong>Main idea:</strong> "What is the passage mainly about?" → Đọc câu đầu mỗi đoạn<br><br>
+            <strong>Detail:</strong> "According to the passage..." → Tìm chi tiết cụ thể trong bài<br><br>
+            <strong>Reference:</strong> "The word 'it' refers to..." → Xem danh từ ở câu trước<br><br>
+            <strong>NOT true:</strong> "Which is NOT mentioned?" → Loại 3 đáp án đúng<br><br>
+            <strong>Inference:</strong> "It can be inferred that..." → Suy luận từ thông tin trong bài
+          </div>
+
+          <h4 style="margin-top: 1rem; color: var(--primary);">4. Quản lý thời gian</h4>
+          <p>Không dành quá nhiều thời gian cho một câu. Nếu khó, đánh dấu và quay lại sau.</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Exercise Container -->
+    <div id="exercise-container" class="exercise-container">
+      <!-- Loading state -->
+      <div class="card loading-card">
+        <div class="loading-spinner"></div>
+        <p>Đang tải bài tập...</p>
+      </div>
+    </div>
+  </main>
+
+  <!-- Footer -->
+  <footer class="game-footer">
+    <div class="container">
+      <p>© 2024 English Grammar Games - Nguyễn Minh Nhựt</p>
+      <a href="../index.html" class="btn btn--secondary btn--small">🏠 Về trang chủ</a>
+    </div>
+  </footer>
+
+  <!-- Core JavaScript (loaded first) -->
+  <script src="../js/core/utils.js"></script>
+  <script src="../js/core/storage.js"></script>
+  <script src="../js/core/telegram-sender.js"></script>
+  <script src="../js/core/game-engine.js"></script>
+
+  <!-- Exercise Type Handlers -->
+  <script src="../js/exercises/reading-comprehension.js"></script>
+
+  <!-- Initialize Game -->
+  <script>
+    const UNIT_ID = 'on-thi-10-doc-hieu';
+    const DATA_PATH = '../data/on-thi-10-doc-hieu.json';
+
+    // Theory panel toggle
+    const theoryToggle = document.getElementById('theory-toggle');
+    const theoryContent = document.getElementById('theory-content');
+    const theoryIcon = document.getElementById('theory-icon');
+
+    theoryToggle.addEventListener('click', () => {
+      const isExpanded = theoryContent.classList.contains('theory-panel__content--expanded');
+
+      if (isExpanded) {
+        theoryContent.classList.remove('theory-panel__content--expanded');
+        theoryIcon.classList.remove('theory-panel__icon--rotated');
+      } else {
+        theoryContent.classList.add('theory-panel__content--expanded');
+        theoryIcon.classList.add('theory-panel__icon--rotated');
+      }
+    });
+
+    // Combo display logic
+    function updateComboDisplay() {
+      const comboDisplay = document.getElementById('combo-display');
+      const comboCount = document.getElementById('combo-count');
+      const state = GameEngine.getState();
+
+      if (state.comboCount >= 3) {
+        comboDisplay.style.display = 'flex';
+        comboCount.textContent = state.comboCount + 'x 🔥';
+      } else {
+        comboDisplay.style.display = 'none';
+      }
+    }
+
+    // Override GameEngine.updateUI to include combo display
+    const originalUpdateUI = GameEngine.updateUI.bind(GameEngine);
+    GameEngine.updateUI = function() {
+      originalUpdateUI();
+      updateComboDisplay();
+    };
+
+    // Custom question counter for reading comprehension
+    // Since each exercise is a passage with multiple questions
+    GameEngine.calculateTotalQuestions = function(exercises) {
+      return exercises.reduce((total, exercise) => {
+        if (exercise.type === 'reading-comprehension') {
+          return total + (exercise.questions?.length || 1);
+        }
+        return total + 1;
+      }, 0);
+    };
+
+    // Custom answer handler for reading comprehension
+    const originalHandleAnswer = GameEngine.handleAnswer.bind(GameEngine);
+    GameEngine.handleAnswer = function(userAnswer, exercise) {
+      if (exercise.type === 'reading-comprehension' && typeof userAnswer === 'object') {
+        // Handle reading comprehension with partial scoring
+        const correctCount = userAnswer.correctCount || 0;
+        const totalQuestions = userAnswer.totalQuestions || 1;
+        const pointsPerQuestion = (exercise.points || 50) / totalQuestions;
+
+        // Update state
+        this.state.correctAnswers += correctCount;
+        this.state.score += Math.round(correctCount * pointsPerQuestion);
+
+        // Track answer history
+        const answerRecord = {
+          questionId: exercise.id,
+          questionText: exercise.title,
+          userAnswer: `${correctCount}/${totalQuestions} đúng`,
+          correctAnswer: `Xem chi tiết bên trên`,
+          isCorrect: correctCount === totalQuestions,
+          exercise: exercise,
+          timeSpent: Date.now() - this.questionStartTime,
+          points: Math.round(correctCount * pointsPerQuestion)
+        };
+
+        this.state.answerHistory.push(answerRecord);
+
+        // Show feedback
+        const container = document.getElementById('exercise-container');
+        const handler = this.exerciseHandlers[exercise.type];
+        if (handler) {
+          handler.showFeedback(container, correctCount > 0, exercise);
+        }
+
+        // Play sound based on results
+        if (correctCount === totalQuestions) {
+          Utils.playSound('correct');
+        } else if (correctCount > 0) {
+          Utils.playSound('correct'); // partial success
+        } else {
+          Utils.playSound('wrong');
+        }
+
+        this.updateUI();
+        this.enableNextButton();
+      } else {
+        // Default handling for other exercise types
+        originalHandleAnswer(userAnswer, exercise);
+      }
+    };
+
+    // Load unit data and start game
+    async function loadAndStartGame() {
+      try {
+        const response = await fetch(DATA_PATH);
+
+        if (!response.ok) {
+          throw new Error(`Failed to load data: ${response.status}`);
+        }
+
+        const unitData = await response.json();
+        GameEngine.init(unitData, UNIT_ID);
+
+      } catch (error) {
+        console.error('Error loading game data:', error);
+        const container = document.getElementById('exercise-container');
+        container.innerHTML = `
+          <div class="card error-card">
+            <h2>⚠️ Lỗi tải dữ liệu</h2>
+            <p>Không thể tải bài tập. Vui lòng thử lại.</p>
+            <button class="btn btn--primary" onclick="location.reload()">Tải lại</button>
+          </div>
+        `;
+      }
+    }
+
+    // Start game when page loads
+    loadAndStartGame();
+  </script>
+</body>
+</html>

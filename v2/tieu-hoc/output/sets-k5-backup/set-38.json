@@ -1,0 +1,1841 @@
+{
+  "setNumber": 38,
+  "title": "IOE K5 2022-2023 Set 38",
+  "totalQuestions": 200,
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple-choice",
+      "question": "... or riding a bike will help you to stay fit and healthy.",
+      "options": [
+        "Taking",
+        "Going",
+        "Walking",
+        "Having"
+      ],
+      "correctAnswer": "Walking"
+    },
+    {
+      "id": 2,
+      "type": "fill-blank",
+      "question": "Are there any good programs _ _ _ children on TV tonight?",
+      "correctAnswer": "for"
+    },
+    {
+      "id": 3,
+      "type": "fill-blank",
+      "question": "_ _ one in my class is taller than Anh.",
+      "correctAnswer": "No"
+    },
+    {
+      "id": 4,
+      "type": "fill-blank",
+      "question": "I would like to be a nurse because I\\'d like to look after _ _ _ _ _ _ _ _ .",
+      "correctAnswer": "patients"
+    },
+    {
+      "id": 5,
+      "type": "multiple-choice",
+      "question": "Choose the word that has the underlined part pronounced differently from the others:",
+      "options": [
+        "black",
+        "knife",
+        "lock",
+        "work"
+      ],
+      "correctAnswer": "knife",
+      "wordDetails": [
+        {
+          "word": "black",
+          "ipa": "/blæk/",
+          "meaning": "màu đen"
+        },
+        {
+          "word": "knife",
+          "ipa": "/naɪf/",
+          "meaning": "con dao"
+        },
+        {
+          "word": "lock",
+          "ipa": "/lɒk/",
+          "meaning": "khóa"
+        },
+        {
+          "word": "work",
+          "ipa": "/wɜːk/",
+          "meaning": "làm việc"
+        }
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 6,
+      "type": "fill-blank",
+      "question": "Have you got a _ _ _ _ _ _ ?",
+      "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/12/635302325078288445_Audio.mp3",
+      "correctAnswer": "garden"
+    },
+    {
+      "id": 7,
+      "type": "fill-blank",
+      "question": "Do you know anything _ _ _ _ _ my school?",
+      "correctAnswer": "about"
+    },
+    {
+      "id": 8,
+      "type": "fill-blank",
+      "question": "The Bright family had a _ _ _ _ _ _ _ _ on Friday.",
+      "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/1/636239833270849671_Audio.mp3",
+      "correctAnswer": "campfire"
+    },
+    {
+      "id": 9,
+      "type": "multiple-choice",
+      "question": "There is a … water in the bottle.",
+      "options": [
+        "much",
+        "lot",
+        "little",
+        "few"
+      ],
+      "correctAnswer": "little"
+    },
+    {
+      "id": 10,
+      "type": "fill-blank",
+      "question": "Can you bring me your _ _ _ _ _ book tomorrow?",
+      "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/4/2/636582609538895078_566X320.jpg",
+      "correctAnswer": "comic"
+    },
+    {
+      "id": 11,
+      "type": "fill-blank",
+      "question": "My house has a _ _ _ bathroom.",
+      "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/1/636239821725983169_Audio.mp3",
+      "correctAnswer": "big"
+    },
+    {
+      "id": 12,
+      "type": "fill-blank",
+      "question": "My mother bought a new _ _ _ _ _ yesterday.",
+      "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2019/2/22/636864571968783942_566X320.jpg",
+      "correctAnswer": "towel"
+    },
+    {
+      "id": 13,
+      "type": "word-arrangement",
+      "question": "in Vietnam?/ are there/ seasons/ many/ How/",
+      "correctAnswer": "How many seasons are there in Vietnam?"
+    },
+    {
+      "id": 14,
+      "type": "multiple-choice",
+      "question": "I think she looks ....",
+      "options": [
+        "happy",
+        "happily",
+        "to happy",
+        "to be happy"
+      ],
+      "correctAnswer": "happy"
+    },
+    {
+      "id": 15,
+      "type": "fill-blank",
+      "question": "Don\\'t let your small children play with knives or they may hurt them_ _ _ _ _ _ .",
+      "correctAnswer": "selves"
+    },
+    {
+      "id": 16,
+      "type": "word-arrangement",
+      "question": "and a musician./ both/ an artist/ Trinh Cong Son/ is/",
+      "correctAnswer": "Trinh Cong Son is both an artist and a musician."
+    },
+    {
+      "id": 17,
+      "type": "fill-blank",
+      "question": "Hurry up or we will be _ _ _ _ for the last bus.",
+      "correctAnswer": "late"
+    },
+    {
+      "id": 18,
+      "type": "fill-blank",
+      "question": "Mai will be at the _ _ _ _ _ _ _ on Saturday.",
+      "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/4/3/636583529880466864_Audio.mp3",
+      "correctAnswer": "seaside"
+    },
+    {
+      "id": 19,
+      "type": "fill-blank",
+      "question": "_ NIFORM",
+      "correctAnswer": "U"
+    },
+    {
+      "id": 20,
+      "type": "fill-blank",
+      "question": "_ _ _ _ is your brother\\'s birthday? – It\\'s in November.",
+      "correctAnswer": "when"
+    },
+    {
+      "id": 21,
+      "type": "fill-blank",
+      "question": "_ UILDING",
+      "correctAnswer": "B"
+    },
+    {
+      "id": 22,
+      "type": "odd-one-out",
+      "question": "Odd one out:",
+      "options": [
+        "village",
+        "town",
+        "city",
+        "ocean"
+      ],
+      "correctAnswer": "ocean"
+    },
+    {
+      "id": 23,
+      "type": "word-arrangement",
+      "question": "I don't/ buy books/ from the library./ borrow them/ and I always/",
+      "correctAnswer": "I don't buy books and I always borrow them from the library."
+    },
+    {
+      "id": 24,
+      "type": "multiple-choice",
+      "question": "... is a colder season than spring.",
+      "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/12/635302318133780248_Audio.mp3",
+      "options": [
+        "Autumn",
+        "Spring",
+        "Summer",
+        "Winter"
+      ],
+      "correctAnswer": "Winter"
+    },
+    {
+      "id": 25,
+      "type": "fill-blank",
+      "question": "MAR_ ER",
+      "correctAnswer": "K"
+    },
+    {
+      "id": 26,
+      "type": "fill-blank",
+      "question": "What is Anne doing now? – She\\'s _ _ _ _ _ _ _ _ .",
+      "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/1/636239633627646660_566X320.jpg",
+      "correctAnswer": "sleeping"
+    },
+    {
+      "id": 27,
+      "type": "word-arrangement",
+      "question": "I won't visit/ look after my sister./ because I have to/ my class next Sunday/ the museum with/",
+      "correctAnswer": "I won't visit the museum with my class next Sunday because I have to look after my sister."
+    },
+    {
+      "id": 28,
+      "type": "word-arrangement",
+      "question": "Is there/ the table?/ any/ cheese/ on/",
+      "correctAnswer": "Is there any cheese on the table?"
+    },
+    {
+      "id": 29,
+      "type": "multiple-choice",
+      "question": "... come to the meeting last night? – Because I was busy.",
+      "options": [
+        "Why did you",
+        "When did you",
+        "Why didn\\'t you",
+        "How didn\\'t you"
+      ],
+      "correctAnswer": "Why didn\\'t you"
+    },
+    {
+      "id": 30,
+      "type": "odd-one-out",
+      "question": "Odd one out:",
+      "options": [
+        "read",
+        "movie",
+        "watch",
+        "listen"
+      ],
+      "correctAnswer": "movie"
+    },
+    {
+      "id": 31,
+      "type": "word-arrangement",
+      "question": "would/ box of/ like a/ chocolate./ I/",
+      "correctAnswer": "I would like a box of chocolate."
+    },
+    {
+      "id": 32,
+      "type": "word-arrangement",
+      "question": "before you/ open/ Turn off/ the lights/ the box./",
+      "correctAnswer": "Turn off the lights before you open the box."
+    },
+    {
+      "id": 33,
+      "type": "fill-blank",
+      "question": "Lindsay usually plays the v_ _ _ _ _ in the music room.",
+      "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/19/635308239757379195_566X320.jpg",
+      "correctAnswer": "iolin"
+    },
+    {
+      "id": 34,
+      "type": "multiple-choice",
+      "question": "Where … Max come from?",
+      "options": [
+        "does",
+        "were",
+        "do",
+        "are"
+      ],
+      "correctAnswer": "does"
+    },
+    {
+      "id": 35,
+      "type": "fill-blank",
+      "question": "My grandmother was a _ _ _ _ _ in World War II.",
+      "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/1/636239825035052201_Audio.mp3",
+      "correctAnswer": "nurse"
+    },
+    {
+      "id": 36,
+      "type": "fill-blank",
+      "question": "His idea is quite different _ _ _ _ mine.",
+      "correctAnswer": "from"
+    },
+    {
+      "id": 37,
+      "type": "multiple-choice",
+      "question": "Please tell me ... about your study.",
+      "options": [
+        "many",
+        "more",
+        "few",
+        "much"
+      ],
+      "correctAnswer": "more"
+    },
+    {
+      "id": 38,
+      "type": "multiple-choice",
+      "question": "Choose the word that has the underlined part pronounced differently from the others:",
+      "options": [
+        "thank",
+        "mother",
+        "birthday",
+        "third"
+      ],
+      "correctAnswer": "mother",
+      "wordDetails": [
+        {
+          "word": "thank",
+          "ipa": "/θæŋk/",
+          "meaning": "cảm ơn",
+          "underlinedSound": "/θ/",
+          "underlinedWord": "**th**ank"
+        },
+        {
+          "word": "mother",
+          "ipa": "/ˈmʌðə/",
+          "meaning": "mẹ",
+          "underlinedSound": "/ð/",
+          "underlinedWord": "mo**th**er"
+        },
+        {
+          "word": "birthday",
+          "ipa": "/ˈbɜːθdeɪ/",
+          "meaning": "sinh nhật",
+          "underlinedSound": "/-/",
+          "underlinedWord": "bir**th**day"
+        },
+        {
+          "word": "third",
+          "ipa": "/θɜːd/",
+          "meaning": "thứ ba",
+          "underlinedSound": "/-/",
+          "underlinedWord": "**th**ird"
+        }
+      ],
+      "underlinedPart": "th",
+      "correctIndex": 1
+    },
+    {
+      "id": 39,
+      "type": "multiple-choice",
+      "question": "How ... wine can he drink?",
+      "options": [
+        "far",
+        "much",
+        "many",
+        "long"
+      ],
+      "correctAnswer": "much"
+    },
+    {
+      "id": 40,
+      "type": "fill-blank",
+      "question": "I always brush my teeth after _ _ _ _ _ _ _ up in the morning.",
+      "correctAnswer": "getting"
+    },
+    {
+      "id": 41,
+      "type": "word-arrangement",
+      "question": "or not?/ cut flowers/ your aunt/ Is/ going to/",
+      "correctAnswer": "Is your aunt going to cut flowers or not?"
+    },
+    {
+      "id": 42,
+      "type": "word-arrangement",
+      "question": "many/ I love/ for/ reasons./ my house/",
+      "correctAnswer": "I love my house for many reasons."
+    },
+    {
+      "id": 43,
+      "type": "fill-blank",
+      "question": "You should wash your hands _ _ _ _ _ _ and after meals.",
+      "correctAnswer": "before"
+    },
+    {
+      "id": 44,
+      "type": "fill-blank",
+      "question": "I\\'d like some mineral _ _ _ _ _ . I\\'m thirsty.",
+      "correctAnswer": "water"
+    },
+    {
+      "id": 45,
+      "type": "fill-blank",
+      "question": "PUZZ_ E",
+      "correctAnswer": "L"
+    },
+    {
+      "id": 46,
+      "type": "multiple-choice",
+      "question": "Choose the word that has the underlined part pronounced differently:",
+      "options": [
+        "hotel",
+        "restaurant",
+        "market",
+        "send"
+      ],
+      "correctAnswer": "market",
+      "wordDetails": [
+        {
+          "word": "hotel",
+          "ipa": "/həʊˈtel/",
+          "meaning": "khách sạn",
+          "underlinedSound": "/-/",
+          "underlinedWord": "hot**e**l"
+        },
+        {
+          "word": "restaurant",
+          "ipa": "/ˈrestrɒnt/",
+          "meaning": "nhà hàng",
+          "underlinedSound": "/-/",
+          "underlinedWord": "r**e**staurant"
+        },
+        {
+          "word": "market",
+          "ipa": "/ˈmɑːkɪt/",
+          "meaning": "chợ",
+          "underlinedSound": "/-/",
+          "underlinedWord": "mark**e**t"
+        },
+        {
+          "word": "send",
+          "ipa": "/send/",
+          "meaning": "gửi",
+          "underlinedSound": "/e/",
+          "underlinedWord": "s**e**nd"
+        }
+      ],
+      "underlinedPart": "e",
+      "correctIndex": 2
+    },
+    {
+      "id": 47,
+      "type": "fill-blank",
+      "question": "When it\\'s hot, Danny goes _ _ _ _ _ _ _ _ .",
+      "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/1/636239674590070552_566X320.jpg",
+      "correctAnswer": "swimming"
+    },
+    {
+      "id": 48,
+      "type": "fill-blank",
+      "question": "Please help me carry the bag. It\\'s so _ _ _ _ _ .",
+      "correctAnswer": "heavy"
+    },
+    {
+      "id": 49,
+      "type": "word-arrangement",
+      "question": "my house./ is/ There/ a rice paddy/ near/",
+      "correctAnswer": "There is a rice paddy near my house."
+    },
+    {
+      "id": 50,
+      "type": "fill-blank",
+      "question": "Andy is in the music room now and he is learning to _ _ _ _ the guitar.",
+      "correctAnswer": "play"
+    },
+    {
+      "id": 51,
+      "type": "multiple-choice",
+      "question": "A ... tells you the time.",
+      "options": [
+        "clock",
+        "calendar",
+        "book",
+        "fan"
+      ],
+      "correctAnswer": "clock"
+    },
+    {
+      "id": 52,
+      "type": "word-arrangement",
+      "question": "not/ my favorite sport,/ but/ Fishing is/ jogging./",
+      "correctAnswer": "Fishing is my favorite sport, but not jogging."
+    },
+    {
+      "id": 53,
+      "type": "multiple-choice",
+      "question": "Where is Paula? - She ....",
+      "options": [
+        "is in her room studying",
+        "in her room is studying",
+        "studies in her room",
+        "was in her room studying"
+      ],
+      "correctAnswer": "is in her room studying"
+    },
+    {
+      "id": 54,
+      "type": "multiple-choice",
+      "question": "He often travels ... car ... my father.",
+      "options": [
+        "by / for",
+        "by / with",
+        "with / by",
+        "to / for"
+      ],
+      "correctAnswer": "by / with"
+    },
+    {
+      "id": 55,
+      "type": "multiple-choice",
+      "question": "Will you go to the ... to borrow some books this afternoon?",
+      "options": [
+        "bookstore",
+        "library",
+        "museum",
+        "spaceship"
+      ],
+      "correctAnswer": "library"
+    },
+    {
+      "id": 56,
+      "type": "multiple-choice",
+      "question": "She wasn\\'t happy … she couldn\\'t walk.",
+      "options": [
+        "because",
+        "so",
+        "next",
+        "then"
+      ],
+      "correctAnswer": "because"
+    },
+    {
+      "id": 57,
+      "type": "multiple-choice",
+      "question": "Do you go to school on ... or by bike?",
+      "options": [
+        "foot",
+        "leg",
+        "knee",
+        "feet"
+      ],
+      "correctAnswer": "foot"
+    },
+    {
+      "id": 58,
+      "type": "multiple-choice",
+      "question": "What will the pupils do?",
+      "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/4/3/636583532139765356_Audio.mp3",
+      "options": [
+        "They will learn about the insects and draw some pictures of the farmer.",
+        "They will draw when the farmer is working.",
+        "They will learn about the farmer\\'s work and draw pictures of insects.",
+        "They will draw some pictures of the fields."
+      ],
+      "correctAnswer": "They will learn about the farmer\\'s work and draw pictures of insects."
+    },
+    {
+      "id": 59,
+      "type": "word-arrangement",
+      "question": "return/ at 9.30/ They always/ home/ in the evening./",
+      "correctAnswer": "They always return home at 9.30 in the evening."
+    },
+    {
+      "id": 60,
+      "type": "word-arrangement",
+      "question": "interesting/ lots of/ photos of/ I'm taking/ places./",
+      "correctAnswer": "I'm taking lots of photos of interesting places."
+    },
+    {
+      "id": 61,
+      "type": "multiple-choice",
+      "question": "When it becomes hot, people often feel ….",
+      "options": [
+        "hungry",
+        "thirsty",
+        "happy",
+        "worried"
+      ],
+      "correctAnswer": "thirsty"
+    },
+    {
+      "id": 62,
+      "type": "multiple-choice",
+      "question": "... noodles last night?",
+      "options": [
+        "Did you eat",
+        "Were you eat",
+        "Did you ate",
+        "Do you ate"
+      ],
+      "correctAnswer": "Did you eat"
+    },
+    {
+      "id": 63,
+      "type": "fill-blank",
+      "question": "MU_ ICIAN",
+      "correctAnswer": "S"
+    },
+    {
+      "id": 64,
+      "type": "multiple-choice",
+      "question": "Who are you going ...? – Jamie and Sam.",
+      "options": [
+        "to",
+        "with",
+        "at",
+        "from"
+      ],
+      "correctAnswer": "with"
+    },
+    {
+      "id": 65,
+      "type": "word-arrangement",
+      "question": "going to/ We are/ celebrate the/ our 50th wedding./ anniversary of/",
+      "correctAnswer": "We are going to celebrate the anniversary of our 50th wedding."
+    },
+    {
+      "id": 66,
+      "type": "multiple-choice",
+      "question": "When the weather is cold and wet, they move to a ... and make a home there.",
+      "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/12/635302321140841529_Audio.mp3",
+      "options": [
+        "hotel",
+        "house",
+        "cave",
+        "tent"
+      ],
+      "correctAnswer": "cave"
+    },
+    {
+      "id": 67,
+      "type": "odd-one-out",
+      "question": "Odd one out:",
+      "options": [
+        "warm",
+        "wind",
+        "snow",
+        "cloud"
+      ],
+      "correctAnswer": "warm"
+    },
+    {
+      "id": 68,
+      "type": "multiple-choice",
+      "question": "Does she have … round face or … oval face?",
+      "options": [
+        "Ø / Ø",
+        "aa",
+        "the / the",
+        "a / an"
+      ],
+      "correctAnswer": "a / an"
+    },
+    {
+      "id": 69,
+      "type": "fill-blank",
+      "question": "Carrots and cabbages are my favorite _ _ _ _ _ _ _ _ _ _ .",
+      "correctAnswer": "vegetables"
+    },
+    {
+      "id": 70,
+      "type": "fill-blank",
+      "question": "CIRC_ E",
+      "correctAnswer": "L"
+    },
+    {
+      "id": 71,
+      "type": "multiple-choice",
+      "question": "Which sentence is correct?",
+      "options": [
+        "When we don\\'t need a light, turn it off.",
+        "When we not need a light, turn it off.",
+        "When we don\\'t need a light, off turn it.",
+        "When we don\\'t need light, it switches off."
+      ],
+      "correctAnswer": "When we don\\'t need a light, turn it off."
+    },
+    {
+      "id": 72,
+      "type": "fill-blank",
+      "question": "He must _ _ _ the money back to his dad.",
+      "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/1/636239834799915219_Audio.mp3",
+      "correctAnswer": "pay"
+    },
+    {
+      "id": 73,
+      "type": "fill-blank",
+      "question": "They will make a cake because she is _ _ _ _ ry.",
+      "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/2/636240648616375097_Audio.mp3",
+      "correctAnswer": "hung"
+    },
+    {
+      "id": 74,
+      "type": "fill-blank",
+      "question": "Can you go to the supermarket and buy some _ _ _ _ _ _ es?",
+      "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2015/3/4/635610734003485791_566X320.jpg",
+      "correctAnswer": "tomato"
+    },
+    {
+      "id": 75,
+      "type": "multiple-choice",
+      "question": "Are there ... people in the garden?",
+      "options": [
+        "some",
+        "not",
+        "any",
+        "one"
+      ],
+      "correctAnswer": "any"
+    },
+    {
+      "id": 76,
+      "type": "fill-blank",
+      "question": "Where _ _ _ _ she come from?",
+      "correctAnswer": "does"
+    },
+    {
+      "id": 77,
+      "type": "multiple-choice",
+      "question": "Would you like to go to the movies with me tonight? – Yes, ....",
+      "options": [
+        "I\\'d love to",
+        "it is",
+        "I am",
+        "I do"
+      ],
+      "correctAnswer": "I\\'d love to"
+    },
+    {
+      "id": 78,
+      "type": "fill-blank",
+      "question": "A_ AY",
+      "correctAnswer": "W"
+    },
+    {
+      "id": 79,
+      "type": "word-arrangement",
+      "question": "star./ about her/ favorite film/ talking/ Lien enjoyed/",
+      "correctAnswer": "Lien enjoyed talking about her favorite film star."
+    },
+    {
+      "id": 80,
+      "type": "fill-blank",
+      "question": "COM_ LETE",
+      "correctAnswer": "P"
+    },
+    {
+      "id": 81,
+      "type": "word-arrangement",
+      "question": "of TV program/ What kinds/ best?/ does your/ daughter like/",
+      "correctAnswer": "What kinds of TV program does your daughter like best?"
+    },
+    {
+      "id": 82,
+      "type": "fill-blank",
+      "question": "My friend, David, lives _ _57 Victoria Street.",
+      "correctAnswer": "at"
+    },
+    {
+      "id": 83,
+      "type": "fill-blank",
+      "question": "_ _ _ _ _ book is this, yours or mine?",
+      "correctAnswer": "Whose"
+    },
+    {
+      "id": 84,
+      "type": "word-arrangement",
+      "question": "speak?/ he/ language/ Which/ does/",
+      "correctAnswer": "Which language does he speak?"
+    },
+    {
+      "id": 85,
+      "type": "word-arrangement",
+      "question": "see a/ in the/ I can/ hill/ distance./",
+      "correctAnswer": "I can see a hill in the distance."
+    },
+    {
+      "id": 86,
+      "type": "fill-blank",
+      "question": "John listens _ _ the radio before going to bed.",
+      "correctAnswer": "to"
+    },
+    {
+      "id": 87,
+      "type": "multiple-choice",
+      "question": "Close the door .... It\\'s cold in here.",
+      "options": [
+        "Ø",
+        "up",
+        "to",
+        "have"
+      ],
+      "correctAnswer": "Ø"
+    },
+    {
+      "id": 88,
+      "type": "fill-blank",
+      "question": "My family is having _ _ _ _ _ _ _ _ _ in the dining room.",
+      "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2019/2/22/636864553709926720_566X320.jpg",
+      "correctAnswer": "breakfast"
+    },
+    {
+      "id": 89,
+      "type": "word-arrangement",
+      "question": "back/ night./ from their/ They went/ holiday last/",
+      "correctAnswer": "They went back from their holiday last night."
+    },
+    {
+      "id": 90,
+      "type": "fill-blank",
+      "question": "December is the _ _ _ _ month of the year.",
+      "correctAnswer": "last"
+    },
+    {
+      "id": 91,
+      "type": "fill-blank",
+      "question": "Wait a minute. I\\'d like to buy some chocolate _ _ _ Sue.",
+      "correctAnswer": "for"
+    },
+    {
+      "id": 92,
+      "type": "fill-blank",
+      "question": "My father gave up smoking be_ _ _ _ _ of his coughs.",
+      "correctAnswer": "cause"
+    },
+    {
+      "id": 93,
+      "type": "multiple-choice",
+      "question": "Choose the word that has the underlined part pronounced differently:",
+      "options": [
+        "uncle",
+        "music",
+        "bus",
+        "summer"
+      ],
+      "correctAnswer": "music",
+      "wordDetails": [
+        {
+          "word": "uncle",
+          "ipa": "/ˈʌŋkl/",
+          "meaning": "chú, bác",
+          "underlinedSound": "/ʌ/",
+          "underlinedWord": "**u**ncle"
+        },
+        {
+          "word": "music",
+          "ipa": "/ˈmjuːzɪk/",
+          "meaning": "âm nhạc",
+          "underlinedSound": "/juː/",
+          "underlinedWord": "m**u**sic"
+        },
+        {
+          "word": "bus",
+          "ipa": "/bʌs/",
+          "meaning": "xe buýt",
+          "underlinedSound": "/ʌ/",
+          "underlinedWord": "b**u**s"
+        },
+        {
+          "word": "summer",
+          "ipa": "/ˈsʌmə/",
+          "meaning": "mùa hè",
+          "underlinedSound": "/-/",
+          "underlinedWord": "s**u**mmer"
+        }
+      ],
+      "underlinedPart": "u",
+      "correctIndex": 1
+    },
+    {
+      "id": 94,
+      "type": "fill-blank",
+      "question": "Mom wants to make a _ _ _ _ but there isn\\'t any milk in the bottle.",
+      "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/1/636239634642336252_566X320.jpg",
+      "correctAnswer": "cake"
+    },
+    {
+      "id": 95,
+      "type": "fill-blank",
+      "question": "BELO_",
+      "correctAnswer": "W"
+    },
+    {
+      "id": 96,
+      "type": "fill-blank",
+      "question": "_ _ _ many cities is Linda going to visit this summer?",
+      "correctAnswer": "How"
+    },
+    {
+      "id": 97,
+      "type": "fill-blank",
+      "question": "- Bye, Nick. - Bye, Quan. See you s_ _ _ .",
+      "correctAnswer": "oon"
+    },
+    {
+      "id": 98,
+      "type": "word-arrangement",
+      "question": "won't/ at the meeting/ tomorrow./ be/ Mr. Smith/",
+      "correctAnswer": "Mr. Smith won't be at the meeting tomorrow."
+    },
+    {
+      "id": 99,
+      "type": "multiple-choice",
+      "question": "Are you waiting ... the train? – Yes, I am.",
+      "options": [
+        "for",
+        "at",
+        "on",
+        "to"
+      ],
+      "correctAnswer": "for"
+    },
+    {
+      "id": 100,
+      "type": "multiple-choice",
+      "question": "... pink pens on the box?",
+      "options": [
+        "How many",
+        "Are there",
+        "Do",
+        "How much"
+      ],
+      "correctAnswer": "Are there"
+    },
+    {
+      "id": 101,
+      "type": "multiple-choice",
+      "question": "...? - He\\'s in grade 12.",
+      "options": [
+        "Your brother grade12",
+        "How old is your brother",
+        "Which grade is your brother in",
+        "Is this room 12"
+      ],
+      "correctAnswer": "Which grade is your brother in"
+    },
+    {
+      "id": 102,
+      "type": "multiple-choice",
+      "question": "Where ... Lan and Mai live?",
+      "options": [
+        "is",
+        "are",
+        "does",
+        "do"
+      ],
+      "correctAnswer": "do"
+    },
+    {
+      "id": 103,
+      "type": "fill-blank",
+      "question": "The Bright family went _ _ _ _ _ _ _ on the weekend.",
+      "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/1/636239821438951609_Audio.mp3",
+      "correctAnswer": "camping"
+    },
+    {
+      "id": 104,
+      "type": "fill-blank",
+      "question": "I don\\'t have to do any home_ _ _ _ in the holidays.",
+      "correctAnswer": "work"
+    },
+    {
+      "id": 105,
+      "type": "word-arrangement",
+      "question": "breakfast./ I'd like/ for/ some chicken/ and bread/",
+      "correctAnswer": "I'd like some chicken and bread for breakfast."
+    },
+    {
+      "id": 106,
+      "type": "word-arrangement",
+      "question": "my/ piano/ It's/ time for/ class./",
+      "correctAnswer": "It's time for my piano class."
+    },
+    {
+      "id": 107,
+      "type": "multiple-choice",
+      "question": "This is ... bike of all.",
+      "options": [
+        "the cheaper",
+        "the cheapest",
+        "a cheaper",
+        "a cheapest"
+      ],
+      "correctAnswer": "the cheapest"
+    },
+    {
+      "id": 108,
+      "type": "fill-blank",
+      "question": "We say “_ _ _ hundred” and we write “100”.",
+      "correctAnswer": "one"
+    },
+    {
+      "id": 109,
+      "type": "fill-blank",
+      "question": "My name is Sarah. I am _ _ _ _ _ _ _ _ years old.",
+      "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/1/636239840163365403_Audio.mp3",
+      "correctAnswer": "fourteen"
+    },
+    {
+      "id": 110,
+      "type": "multiple-choice",
+      "question": "Come in and ... a seat.",
+      "options": [
+        "do",
+        "give",
+        "go",
+        "have"
+      ],
+      "correctAnswer": "have"
+    },
+    {
+      "id": 111,
+      "type": "multiple-choice",
+      "question": "When you meet your friend at 3 pm, you say:",
+      "options": [
+        "Good morning",
+        "Good afternoon",
+        "Good evening",
+        "Good night"
+      ],
+      "correctAnswer": "Good afternoon"
+    },
+    {
+      "id": 112,
+      "type": "multiple-choice",
+      "question": "My parents are ... work now.",
+      "options": [
+        "at",
+        "in",
+        "on",
+        "over"
+      ],
+      "correctAnswer": "at"
+    },
+    {
+      "id": 113,
+      "type": "word-arrangement",
+      "question": "on your next/ you be/ How old/ birthday?/ will/",
+      "correctAnswer": "How old will you be on your next birthday?"
+    },
+    {
+      "id": 114,
+      "type": "fill-blank",
+      "question": "BR_ AK",
+      "correctAnswer": "E"
+    },
+    {
+      "id": 115,
+      "type": "fill-blank",
+      "question": "She usually _ _ _ _ _ her bike in the fall.",
+      "correctAnswer": "rides"
+    },
+    {
+      "id": 116,
+      "type": "fill-blank",
+      "question": "My backyard has a _ _ _ _ _ _ _ _ pool.",
+      "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/1/636239821821295939_Audio.mp3",
+      "correctAnswer": "swimming"
+    },
+    {
+      "id": 117,
+      "type": "multiple-choice",
+      "question": "They go ... a picnic every summer.",
+      "options": [
+        "on",
+        "with",
+        "to",
+        "of"
+      ],
+      "correctAnswer": "on"
+    },
+    {
+      "id": 118,
+      "type": "fill-blank",
+      "question": "Mr. Parker calls out children\\'s _ _ _ _ _ .",
+      "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/1/636239820876919288_Audio.mp3",
+      "correctAnswer": "names"
+    },
+    {
+      "id": 119,
+      "type": "fill-blank",
+      "question": "LU_ KY",
+      "correctAnswer": "C"
+    },
+    {
+      "id": 120,
+      "type": "word-arrangement",
+      "question": "at the/ picture on/ the wall,/ please./ Look/",
+      "correctAnswer": "Look at the picture on the wall, please."
+    },
+    {
+      "id": 121,
+      "type": "multiple-choice",
+      "question": "My father likes coffee, but my mother ....",
+      "options": [
+        "don\\'t",
+        "doesn\\'t",
+        "don\\'t like",
+        "doesn\\'t like"
+      ],
+      "correctAnswer": "doesn\\'t"
+    },
+    {
+      "id": 122,
+      "type": "word-arrangement",
+      "question": "much/ I don't/ have/ freetime/ these days./",
+      "correctAnswer": "I don't have much freetime these days."
+    },
+    {
+      "id": 123,
+      "type": "multiple-choice",
+      "question": "We\\'re going to stay there for ... days.",
+      "options": [
+        "one",
+        "once",
+        "second",
+        "three"
+      ],
+      "correctAnswer": "three"
+    },
+    {
+      "id": 124,
+      "type": "word-arrangement",
+      "question": "going/ read a comic/ to/ book tonight?/ Are you/",
+      "correctAnswer": "Are you going to read a comic book tonight?"
+    },
+    {
+      "id": 125,
+      "type": "multiple-choice",
+      "question": "How many windows are there in your house? - ... six.",
+      "options": [
+        "There is",
+        "There are",
+        "There has",
+        "There have"
+      ],
+      "correctAnswer": "There are"
+    },
+    {
+      "id": 126,
+      "type": "multiple-choice",
+      "question": "Which word has the underlined part pronounced differently:",
+      "options": [
+        "bean",
+        "bread",
+        "head",
+        "ready"
+      ],
+      "correctAnswer": "bean",
+      "wordDetails": [
+        {
+          "word": "bean",
+          "ipa": "/biːn/",
+          "meaning": "đậu",
+          "underlinedSound": "/-/",
+          "underlinedWord": "b**ea**n"
+        },
+        {
+          "word": "bread",
+          "ipa": "/bred/",
+          "meaning": "bánh mì",
+          "underlinedSound": "/e/",
+          "underlinedWord": "br**ea**d"
+        },
+        {
+          "word": "head",
+          "ipa": "/hed/",
+          "meaning": "đầu",
+          "underlinedSound": "/e/",
+          "underlinedWord": "h**ea**d"
+        },
+        {
+          "word": "ready",
+          "ipa": "/ˈredi/",
+          "meaning": "sẵn sàng",
+          "underlinedSound": "/e/",
+          "underlinedWord": "r**ea**dy"
+        }
+      ],
+      "underlinedPart": "ea",
+      "correctIndex": 0
+    },
+    {
+      "id": 127,
+      "type": "fill-blank",
+      "question": "She listens to music three _ _ _ _ _ a week.",
+      "correctAnswer": "times"
+    },
+    {
+      "id": 128,
+      "type": "multiple-choice",
+      "question": "What … you do last night?",
+      "options": [
+        "do",
+        "can",
+        "did",
+        "are"
+      ],
+      "correctAnswer": "did"
+    },
+    {
+      "id": 129,
+      "type": "fill-blank",
+      "question": "My mother often goes to bed _ _ midnight.",
+      "correctAnswer": "at"
+    },
+    {
+      "id": 130,
+      "type": "fill-blank",
+      "question": "My mother and my sister are teachers. My mother _ _ _ _ _ _ _ English at a primary school near my house.",
+      "correctAnswer": "teaches"
+    },
+    {
+      "id": 131,
+      "type": "multiple-choice",
+      "question": "My favorite ... is beef.",
+      "options": [
+        "drink",
+        "vegetables",
+        "food",
+        "sports"
+      ],
+      "correctAnswer": "food"
+    },
+    {
+      "id": 132,
+      "type": "fill-blank",
+      "question": "Could you tell me how to get to the bus stop? - Go straight _ _ _ _ _ for 100 meters.",
+      "correctAnswer": "ahead"
+    },
+    {
+      "id": 133,
+      "type": "word-arrangement",
+      "question": "visiting/ She is/ in Hanoi./ a lot of/ interesting places/",
+      "correctAnswer": "She is visiting a lot of interesting places in Hanoi."
+    },
+    {
+      "id": 134,
+      "type": "fill-blank",
+      "question": "There were lots of _ _ _ _ _ _ in the countryside.",
+      "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/12/635302324426207300_Audio.mp3",
+      "correctAnswer": "horses"
+    },
+    {
+      "id": 135,
+      "type": "multiple-choice",
+      "question": "Choose the word that has the underlined part pronounced differently:",
+      "options": [
+        "lazy",
+        "parent",
+        "patient",
+        "day"
+      ],
+      "correctAnswer": "parent",
+      "wordDetails": [
+        {
+          "word": "lazy",
+          "ipa": "/ˈleɪzi/",
+          "meaning": "lười biếng",
+          "underlinedSound": "/eɪ/",
+          "underlinedWord": "l**a**zy"
+        },
+        {
+          "word": "parent",
+          "ipa": "/ˈpeərənt/",
+          "meaning": "cha mẹ",
+          "underlinedSound": "/-/",
+          "underlinedWord": "p**a**rent"
+        },
+        {
+          "word": "patient",
+          "ipa": "/ˈpeɪʃnt/",
+          "meaning": "bệnh nhân, kiên nhẫn",
+          "underlinedSound": "/-/",
+          "underlinedWord": "p**a**tient"
+        },
+        {
+          "word": "day",
+          "ipa": "/deɪ/",
+          "meaning": "ngày",
+          "underlinedSound": "/-/",
+          "underlinedWord": "d**a**y"
+        }
+      ],
+      "underlinedPart": "a",
+      "correctIndex": 1
+    },
+    {
+      "id": 136,
+      "type": "word-arrangement",
+      "question": "photo./ there and/ Stand/ take your/ I'll/",
+      "correctAnswer": "Stand there and I'll take your photo."
+    },
+    {
+      "id": 137,
+      "type": "fill-blank",
+      "question": "S_ OULD",
+      "correctAnswer": "H"
+    },
+    {
+      "id": 138,
+      "type": "word-arrangement",
+      "question": "from here to/ It's/ four kilometers/ the city hall./ nearly/",
+      "correctAnswer": "It's nearly four kilometers from here to the city hall."
+    },
+    {
+      "id": 139,
+      "type": "word-arrangement",
+      "question": "big effort to be/ Nancy./ David is/ making a/ nice to/",
+      "correctAnswer": "David is making a big effort to be nice to Nancy."
+    },
+    {
+      "id": 140,
+      "type": "word-arrangement",
+      "question": "my home/ I do/ dinner./ work/ after/",
+      "correctAnswer": "I do my home work after dinner."
+    },
+    {
+      "id": 141,
+      "type": "word-arrangement",
+      "question": "has/ beautiful/ My country/ lots of/ sceneries./",
+      "correctAnswer": "My country has lots of beautiful sceneries."
+    },
+    {
+      "id": 142,
+      "type": "word-arrangement",
+      "question": "the dishes/ Do you/ to wash/ have/ after dinner?/",
+      "correctAnswer": "Do you have to wash the dishes after dinner?"
+    },
+    {
+      "id": 143,
+      "type": "odd-one-out",
+      "question": "Odd one out:",
+      "options": [
+        "classroom",
+        "desk",
+        "board",
+        "street"
+      ],
+      "correctAnswer": "street"
+    },
+    {
+      "id": 144,
+      "type": "fill-blank",
+      "question": "August is the hottest _ _ _ _ _ this year.",
+      "correctAnswer": "month"
+    },
+    {
+      "id": 145,
+      "type": "multiple-choice",
+      "question": "When will Sport Day be?",
+      "options": [
+        "In Saturday.",
+        "On March 10th.",
+        "On November.",
+        "In Sunday morning."
+      ],
+      "correctAnswer": "On March 10th."
+    },
+    {
+      "id": 146,
+      "type": "multiple-choice",
+      "question": "Peter is ....",
+      "options": [
+        "shortly and thin",
+        "short and thinly",
+        "shortly and thinly",
+        "short and thin"
+      ],
+      "correctAnswer": "short and thin"
+    },
+    {
+      "id": 147,
+      "type": "word-arrangement",
+      "question": "your friends?/ out with/ do/ When/ you go/",
+      "correctAnswer": "When do you go out with your friends?"
+    },
+    {
+      "id": 148,
+      "type": "fill-blank",
+      "question": "_ _ _ _ will you prepare for Tonny\\'s birthday? – I will cook something for him.",
+      "correctAnswer": "What"
+    },
+    {
+      "id": 149,
+      "type": "multiple-choice",
+      "question": "It\\'s ... and it snows in winter.",
+      "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/12/635302317274686739_Audio.mp3",
+      "options": [
+        "sunny",
+        "windy",
+        "cool",
+        "cold"
+      ],
+      "correctAnswer": "cold"
+    },
+    {
+      "id": 150,
+      "type": "word-arrangement",
+      "question": "old/ My brother/ is/ drive a car./ enough to/",
+      "correctAnswer": "My brother is old enough to drive a car."
+    },
+    {
+      "id": 151,
+      "type": "word-arrangement",
+      "question": "to get/ the bus stop./ We walk/ to school from/ for five minutes/",
+      "correctAnswer": "We walk for five minutes to get to school from the bus stop."
+    },
+    {
+      "id": 152,
+      "type": "word-arrangement",
+      "question": "some bananas./ apples but/ have any/ I have/ I don't/",
+      "correctAnswer": "I don't have any apples but I have some bananas."
+    },
+    {
+      "id": 153,
+      "type": "multiple-choice",
+      "question": "Her hat is beautiful. It means ….",
+      "options": [
+        "It\\'s a beautiful hat",
+        "It\\'s a hat beautiful",
+        "She has a beautiful hat",
+        "She has a hat beautiful"
+      ],
+      "correctAnswer": "She has a beautiful hat"
+    },
+    {
+      "id": 154,
+      "type": "multiple-choice",
+      "question": "Does she want to design a video game?",
+      "options": [
+        "Yes, she will.",
+        "Yes, she does.",
+        "Yes, she like.",
+        "Yes, she want"
+      ],
+      "correctAnswer": "Yes, she does."
+    },
+    {
+      "id": 155,
+      "type": "word-arrangement",
+      "question": "drawing/ a/ picture of/ Jane is/ an elephant./",
+      "correctAnswer": "Jane is drawing a picture of an elephant."
+    },
+    {
+      "id": 156,
+      "type": "fill-blank",
+      "question": "A: How long is it? - B: It\\'s _ _ _ _ _ _ _4 and10 meters long.",
+      "correctAnswer": "between"
+    },
+    {
+      "id": 157,
+      "type": "multiple-choice",
+      "question": "… potato chips are there in the kitchen?",
+      "options": [
+        "How many bags of",
+        "How much bag of",
+        "How much of"
+      ],
+      "correctAnswer": "How many bags of"
+    },
+    {
+      "id": 158,
+      "type": "word-arrangement",
+      "question": "vegetable/ a bottle of/ She needs/ oil and/ some rice./",
+      "correctAnswer": "She needs a bottle of vegetable oil and some rice."
+    },
+    {
+      "id": 159,
+      "type": "fill-blank",
+      "question": "Cars, bikes and buses are means of _ _ _ _ _ _ _ _ _ .",
+      "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/1/636239635491869323_566X320.jpg",
+      "correctAnswer": "transport"
+    },
+    {
+      "id": 160,
+      "type": "fill-blank",
+      "question": "Please look _ _ _ _ _ my dog when I\\'m away from home.",
+      "correctAnswer": "after"
+    },
+    {
+      "id": 161,
+      "type": "fill-blank",
+      "question": "An Tiem\\'s family _ _ _ _ _ _ _ _ _ the watermelons for food and drink.",
+      "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/4/3/636583528046556210_Audio.mp3",
+      "correctAnswer": "exchanged"
+    },
+    {
+      "id": 162,
+      "type": "fill-blank",
+      "question": "FE_ ER",
+      "correctAnswer": "V"
+    },
+    {
+      "id": 163,
+      "type": "multiple-choice",
+      "question": "What is the capital of the United States?",
+      "options": [
+        "London",
+        "New York",
+        "Washington, DC.",
+        "Los Angeles"
+      ],
+      "correctAnswer": "Washington, DC."
+    },
+    {
+      "id": 164,
+      "type": "multiple-choice",
+      "question": "What does Ms. Julie do? - She\\'s ... teacher at a big primary school.",
+      "options": [
+        "one",
+        "Ø",
+        "a",
+        "an"
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": 165,
+      "type": "word-arrangement",
+      "question": "a letter/ Remember/ to/ me./ to write/",
+      "correctAnswer": "Remember to write a letter to me."
+    },
+    {
+      "id": 166,
+      "type": "fill-blank",
+      "question": "I am writing a _ _ _ _ _ _ to my pen friend Tommy.",
+      "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/1/636239677515388685_566X320.jpg",
+      "correctAnswer": "letter"
+    },
+    {
+      "id": 167,
+      "type": "fill-blank",
+      "question": "_ _ _ _ _ _ _ _ in my neighbourhood don\\'t know where to play.",
+      "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/4/2/636582621133776016_566X320.jpg",
+      "correctAnswer": "children"
+    },
+    {
+      "id": 168,
+      "type": "fill-blank",
+      "question": "Nam usually plays sports after school, but at the moment he is _ _ _ _ _ _ his kite.",
+      "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2015/3/4/635610735890153104_566X320.jpg",
+      "correctAnswer": "flying"
+    },
+    {
+      "id": 169,
+      "type": "word-arrangement",
+      "question": "They/ are very/ happy to/ activities./ join our winter/",
+      "correctAnswer": "They are very happy to join our winter activities."
+    },
+    {
+      "id": 170,
+      "type": "word-arrangement",
+      "question": "fables for children in/ Aesop's famous/ the world./ “The Tortoise and the Hare”/ is one of/",
+      "correctAnswer": "“The Tortoise and the Hare” is one of Aesop's famous fables for children in the world."
+    },
+    {
+      "id": 171,
+      "type": "word-arrangement",
+      "question": "We had/ nice food/ at the/ and drinks/ restaurant./",
+      "correctAnswer": "We had nice food and drinks at the restaurant."
+    },
+    {
+      "id": 172,
+      "type": "word-arrangement",
+      "question": "We use/ camping./ we go/ a tent/ when/",
+      "correctAnswer": "We use a tent when we go camping."
+    },
+    {
+      "id": 173,
+      "type": "fill-blank",
+      "question": "The past form of \"wear\" is \"_ _ _ _ \".",
+      "correctAnswer": "wore"
+    },
+    {
+      "id": 174,
+      "type": "fill-blank",
+      "question": "It\\'s12 p.m. We are having _ _ _ _ _ .",
+      "correctAnswer": "lunch"
+    },
+    {
+      "id": 175,
+      "type": "fill-blank",
+      "question": "I am _ _ _ tired to do all my homework today.",
+      "correctAnswer": "too"
+    },
+    {
+      "id": 176,
+      "type": "fill-blank",
+      "question": "My mother is an English teacher and my father is a _ _ _ _ _ .",
+      "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2015/3/4/635610733267008497_566X320.jpg",
+      "correctAnswer": "pilot"
+    },
+    {
+      "id": 177,
+      "type": "word-arrangement",
+      "question": "My friends/ to school/ the moment./ are travelling/ by bus at/",
+      "correctAnswer": "My friends are travelling to school by bus at the moment."
+    },
+    {
+      "id": 178,
+      "type": "word-arrangement",
+      "question": "Sometimes,/ we/ play games/ like blindman's/ bluff or hide-and-seek./",
+      "correctAnswer": "Sometimes, we play games like blindman's bluff or hide-and-seek."
+    },
+    {
+      "id": 179,
+      "type": "multiple-choice",
+      "question": "Many wild animals are ... danger because of pollution.",
+      "options": [
+        "to",
+        "for",
+        "at",
+        "in"
+      ],
+      "correctAnswer": "in"
+    },
+    {
+      "id": 180,
+      "type": "fill-blank",
+      "question": "This woman has more _ _ _ _ _ than all of her daughters.",
+      "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/19/635308249216465809_566X320.jpg",
+      "correctAnswer": "money"
+    },
+    {
+      "id": 181,
+      "type": "multiple-choice",
+      "question": "Do you know ...?",
+      "options": [
+        "the address from them",
+        "their address",
+        "there address",
+        "them address"
+      ],
+      "correctAnswer": "their address"
+    },
+    {
+      "id": 182,
+      "type": "fill-blank",
+      "question": "There are two _ _ _ _ _ _ in the car.",
+      "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2015/3/6/635612595422410431_Audio.mp3",
+      "correctAnswer": "people"
+    },
+    {
+      "id": 183,
+      "type": "word-arrangement",
+      "question": "There will/ dream cottage./ a big garden/ behind my/ be/",
+      "correctAnswer": "There will be a big garden behind my dream cottage."
+    },
+    {
+      "id": 184,
+      "type": "word-arrangement",
+      "question": "Should all/ develop their/ social skill?/ children play/ outdoors and/",
+      "correctAnswer": "Should all children play outdoors and develop their social skill?"
+    },
+    {
+      "id": 185,
+      "type": "fill-blank",
+      "question": "The parents do not understand that people making rap music have _ _ _ _ _ _ _ _ _ abilities.",
+      "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/4/3/636583529026557989_Audio.mp3",
+      "correctAnswer": "important"
+    },
+    {
+      "id": 186,
+      "type": "multiple-choice",
+      "question": "Doraemon is one of … comic book characters in the world.",
+      "options": [
+        "the popularest",
+        "the most popular",
+        "most popular",
+        "popularest"
+      ],
+      "correctAnswer": "the most popular"
+    },
+    {
+      "id": 187,
+      "type": "fill-blank",
+      "question": "Hoang goes to school _ _ foot every day.",
+      "correctAnswer": "on"
+    },
+    {
+      "id": 188,
+      "type": "multiple-choice",
+      "question": "...? – Two, please.",
+      "options": [
+        "What do you need?",
+        "How many apples do you need?",
+        "How many apples are there?",
+        "How much is an apple?"
+      ],
+      "correctAnswer": "How many apples do you need?"
+    },
+    {
+      "id": 189,
+      "type": "fill-blank",
+      "question": "We write \"May10\" and we say \"the _ _ _ _ _ of May\".",
+      "correctAnswer": "tenth"
+    },
+    {
+      "id": 190,
+      "type": "word-arrangement",
+      "question": "do/ wear/ they always/ What/ in the autumn?/",
+      "correctAnswer": "What do they always wear in the autumn?"
+    },
+    {
+      "id": 191,
+      "type": "multiple-choice",
+      "question": "...? - She often has breakfast at 6 am.",
+      "options": [
+        "What does Sara often do at 6 am",
+        "What time does Sara often have breakfast",
+        "When does Sara often have breakfast",
+        "All are correct"
+      ],
+      "correctAnswer": "All are correct"
+    },
+    {
+      "id": 192,
+      "type": "multiple-choice",
+      "question": "Choose the word that has the underlined part pronounced differently:",
+      "options": [
+        "late",
+        "take",
+        "grade",
+        "orange"
+      ],
+      "correctAnswer": "orange",
+      "wordDetails": [
+        {
+          "word": "late",
+          "ipa": "/leɪt/",
+          "meaning": "muộn",
+          "underlinedSound": "/eɪ/",
+          "underlinedWord": "l**a**te"
+        },
+        {
+          "word": "take",
+          "ipa": "/teɪk/",
+          "meaning": "lấy",
+          "underlinedSound": "/eɪ/",
+          "underlinedWord": "t**a**ke"
+        },
+        {
+          "word": "grade",
+          "ipa": "/ɡreɪd/",
+          "meaning": "điểm, lớp",
+          "underlinedSound": "/eɪ/",
+          "underlinedWord": "gr**a**de"
+        },
+        {
+          "word": "orange",
+          "ipa": "/ˈɒrɪndʒ/",
+          "meaning": "cam",
+          "underlinedSound": "/-/",
+          "underlinedWord": "or**a**nge"
+        }
+      ],
+      "underlinedPart": "a",
+      "correctIndex": 3
+    },
+    {
+      "id": 193,
+      "type": "fill-blank",
+      "question": "PRA_ TISE",
+      "correctAnswer": "C"
+    },
+    {
+      "id": 194,
+      "type": "fill-blank",
+      "question": "Do you like to travel to _ _ _ _ _ _ _ _ _ _ _ places?",
+      "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/4/2/636582772519470858_Audio.mp3",
+      "correctAnswer": "interesting"
+    },
+    {
+      "id": 195,
+      "type": "word-arrangement",
+      "question": "an engineer/ for this factory./ My father/ works/ as/",
+      "correctAnswer": "My father works as an engineer for this factory."
+    },
+    {
+      "id": 196,
+      "type": "multiple-choice",
+      "question": "... do Mrs. Fiona\\'s hens produce?",
+      "options": [
+        "How much egg",
+        "How many eggs",
+        "How much eggs",
+        "How many egg"
+      ],
+      "correctAnswer": "How many eggs"
+    },
+    {
+      "id": 197,
+      "type": "fill-blank",
+      "question": "Why don\\'t we go to the _ _ _ _ _ this Sunday?",
+      "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/19/635308253222552846_566X320.jpg",
+      "correctAnswer": "beach"
+    },
+    {
+      "id": 198,
+      "type": "fill-blank",
+      "question": "What _ _ _ _ do you have?",
+      "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/4/2/636582608309363487_566X320.jpg",
+      "correctAnswer": "pets"
+    },
+    {
+      "id": 199,
+      "type": "odd-one-out",
+      "question": "Odd one out:",
+      "options": [
+        "boring",
+        "quiet",
+        "carefully",
+        "lovely"
+      ],
+      "correctAnswer": "carefully"
+    },
+    {
+      "id": 200,
+      "type": "fill-blank",
+      "question": "Linda is twenty years old. Jenny is eleven years old. Jenny is _ _ _ _ _ _ _ than Linda.",
+      "correctAnswer": "younger"
+    }
+  ]
+}

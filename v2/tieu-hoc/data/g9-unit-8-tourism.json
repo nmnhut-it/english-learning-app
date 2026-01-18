@@ -1,0 +1,568 @@
+{
+  "unitId": "g9-unit-8-tourism",
+  "title": "Grade 9 - Unit 8: Tourism",
+  "grammarTopics": [
+    "Relative Pronouns (which, who, whose)"
+  ],
+  "theory": {
+    "brief": "Đại từ quan hệ (Relative Pronouns): dùng để nối hai câu và thay thế cho danh từ. Which (vật), Who (người), Whose (sở hữu). Cấu trúc: N + which/who/whose + V/S + V. Whose + danh từ (không có \"the\").",
+    "examples": [
+      "The hotel which we stayed in was amazing. (Khách sạn mà chúng tôi ở rất tuyệt.)",
+      "The guide who helped us was very friendly. (Hướng dẫn viên người đó giúp chúng tôi rất thân thiện.)",
+      "The tourist whose passport was missing reported to the police. (Du khách bị mất hộ chiếu đó báo cáo với cảnh sát.)",
+      "Bali is a place which is famous for its beaches. (Bali là nơi nổi tiếng vì bãi biển.)"
+    ]
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "type": "multiple-choice",
+      "question": "The hotel __________ we stayed in was very comfortable.",
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "where"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Hotel' là vật nên dùng 'which'",
+      "hints": [
+        "Hotel = vật → which"
+      ],
+      "points": 10
+    },
+    {
+      "id": 2,
+      "type": "multiple-choice",
+      "question": "The guide __________ showed us around was very knowledgeable.",
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "what"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Guide' là người nên dùng 'who'",
+      "hints": [
+        "Guide = người → who"
+      ],
+      "points": 10
+    },
+    {
+      "id": 3,
+      "type": "multiple-choice",
+      "question": "The tourist __________ passport was lost went to the embassy.",
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "that"
+      ],
+      "correctIndex": 2,
+      "explanation": "Whose + danh từ (passport)",
+      "hints": [
+        "whose + N",
+        "Sở hữu"
+      ],
+      "points": 10
+    },
+    {
+      "id": 4,
+      "type": "multiple-choice",
+      "question": "Bali is a destination __________ attracts many tourists.",
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "what"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Destination' là vật/địa điểm nên dùng 'which'",
+      "hints": [
+        "Destination = vật → which"
+      ],
+      "points": 10
+    },
+    {
+      "id": 5,
+      "type": "multiple-choice",
+      "question": "The travel agent __________ helped us book the tickets was efficient.",
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "where"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Agent' là người nên dùng 'who'",
+      "hints": [
+        "Agent = người → who"
+      ],
+      "points": 10
+    },
+    {
+      "id": 6,
+      "type": "multiple-choice",
+      "question": "The app __________ we used for booking was very convenient.",
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "what"
+      ],
+      "correctIndex": 1,
+      "explanation": "'App' là vật nên dùng 'which'",
+      "hints": [
+        "App = vật → which"
+      ],
+      "points": 10
+    },
+    {
+      "id": 7,
+      "type": "multiple-choice",
+      "question": "The holidaymakers __________ we met were from Australia.",
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "what"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Holidaymakers' là người nên dùng 'who'",
+      "hints": [
+        "Holidaymakers = người → who"
+      ],
+      "points": 10
+    },
+    {
+      "id": 8,
+      "type": "multiple-choice",
+      "question": "Da Nang is a city __________ beaches are beautiful.",
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "that"
+      ],
+      "correctIndex": 2,
+      "explanation": "Whose + beaches (sở hữu)",
+      "hints": [
+        "whose + N",
+        "Beaches của city"
+      ],
+      "points": 10
+    },
+    {
+      "id": 9,
+      "type": "multiple-choice",
+      "question": "The food __________ we tried was delicious.",
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "where"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Food' là vật nên dùng 'which'",
+      "hints": [
+        "Food = vật → which"
+      ],
+      "points": 10
+    },
+    {
+      "id": 10,
+      "type": "multiple-choice",
+      "question": "The photographer __________ camera was stolen reported it.",
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "that"
+      ],
+      "correctIndex": 2,
+      "explanation": "Whose + camera (sở hữu)",
+      "hints": [
+        "whose + N",
+        "Camera của người"
+      ],
+      "points": 10
+    },
+    {
+      "id": 11,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": [
+        "The",
+        "temple",
+        "which",
+        "we",
+        "visited",
+        "was",
+        "ancient"
+      ],
+      "correctSentence": "The temple which we visited was ancient.",
+      "explanation": "which thay cho 'temple'",
+      "hints": [
+        "N + which + S + V"
+      ],
+      "points": 10
+    },
+    {
+      "id": 12,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": [
+        "The",
+        "pilot",
+        "who",
+        "flew",
+        "the",
+        "plane",
+        "was",
+        "experienced"
+      ],
+      "correctSentence": "The pilot who flew the plane was experienced.",
+      "explanation": "who thay cho 'pilot'",
+      "hints": [
+        "N (người) + who + V"
+      ],
+      "points": 10
+    },
+    {
+      "id": 13,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": [
+        "The",
+        "country",
+        "whose",
+        "culture",
+        "is",
+        "unique",
+        "is",
+        "India"
+      ],
+      "correctSentence": "The country whose culture is unique is India.",
+      "explanation": "whose + culture (sở hữu)",
+      "hints": [
+        "N + whose + N"
+      ],
+      "points": 10
+    },
+    {
+      "id": 14,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": [
+        "The",
+        "accommodation",
+        "which",
+        "we",
+        "rented",
+        "was",
+        "cheap"
+      ],
+      "correctSentence": "The accommodation which we rented was cheap.",
+      "explanation": "which thay cho 'accommodation'",
+      "hints": [
+        "N (vật) + which + S + V"
+      ],
+      "points": 10
+    },
+    {
+      "id": 15,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": [
+        "The",
+        "tourists",
+        "who",
+        "visited",
+        "Ha",
+        "Long",
+        "Bay",
+        "loved",
+        "it"
+      ],
+      "correctSentence": "The tourists who visited Ha Long Bay loved it.",
+      "explanation": "who thay cho 'tourists'",
+      "hints": [
+        "N (người) + who + V"
+      ],
+      "points": 10
+    },
+    {
+      "id": 16,
+      "type": "multiple-choice",
+      "question": "Sa Pa is a place __________ terraced fields are stunning.",
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "where"
+      ],
+      "correctIndex": 2,
+      "explanation": "Whose + terraced fields",
+      "hints": [
+        "whose + N",
+        "Fields của place"
+      ],
+      "points": 10
+    },
+    {
+      "id": 17,
+      "type": "multiple-choice",
+      "question": "The visa __________ allows you to enter is important.",
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "what"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Visa' là vật nên dùng 'which'",
+      "hints": [
+        "Visa = vật → which"
+      ],
+      "points": 10
+    },
+    {
+      "id": 18,
+      "type": "multiple-choice",
+      "question": "The traveler __________ luggage was heavy struggled.",
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "that"
+      ],
+      "correctIndex": 2,
+      "explanation": "Whose + luggage",
+      "hints": [
+        "whose + N"
+      ],
+      "points": 10
+    },
+    {
+      "id": 19,
+      "type": "multiple-choice",
+      "question": "The museum __________ we visited had many artifacts.",
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "where"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Museum' là vật nên dùng 'which'",
+      "hints": [
+        "Museum = vật → which"
+      ],
+      "points": 10
+    },
+    {
+      "id": 20,
+      "type": "multiple-choice",
+      "question": "The tour guide __________ explained the history was excellent.",
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "what"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Tour guide' là người nên dùng 'who'",
+      "hints": [
+        "Tour guide = người → who"
+      ],
+      "points": 10
+    },
+    {
+      "id": 21,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": [
+        "The",
+        "airline",
+        "which",
+        "offers",
+        "cheap",
+        "tickets",
+        "is",
+        "popular"
+      ],
+      "correctSentence": "The airline which offers cheap tickets is popular.",
+      "explanation": "which thay cho 'airline'",
+      "hints": [
+        "N + which + V"
+      ],
+      "points": 10
+    },
+    {
+      "id": 22,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": [
+        "The",
+        "receptionist",
+        "who",
+        "helped",
+        "us",
+        "was",
+        "kind"
+      ],
+      "correctSentence": "The receptionist who helped us was kind.",
+      "explanation": "who thay cho 'receptionist'",
+      "hints": [
+        "N (người) + who + V"
+      ],
+      "points": 10
+    },
+    {
+      "id": 23,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": [
+        "Hue",
+        "is",
+        "a",
+        "city",
+        "whose",
+        "history",
+        "is",
+        "rich"
+      ],
+      "correctSentence": "Hue is a city whose history is rich.",
+      "explanation": "whose + history",
+      "hints": [
+        "N + whose + N + V"
+      ],
+      "points": 10
+    },
+    {
+      "id": 24,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": [
+        "The",
+        "souvenir",
+        "which",
+        "I",
+        "bought",
+        "was",
+        "beautiful"
+      ],
+      "correctSentence": "The souvenir which I bought was beautiful.",
+      "explanation": "which thay cho 'souvenir'",
+      "hints": [
+        "N + which + S + V"
+      ],
+      "points": 10
+    },
+    {
+      "id": 25,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": [
+        "The",
+        "family",
+        "who",
+        "we",
+        "met",
+        "were",
+        "friendly"
+      ],
+      "correctSentence": "The family who we met were friendly.",
+      "explanation": "who thay cho 'family'",
+      "hints": [
+        "N (người) + who + S + V"
+      ],
+      "points": 10
+    },
+    {
+      "id": 26,
+      "type": "multiple-choice",
+      "question": "The street __________ name is Bui Vien is famous for tourists.",
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "where"
+      ],
+      "correctIndex": 2,
+      "explanation": "Whose + name",
+      "hints": [
+        "whose + N"
+      ],
+      "points": 10
+    },
+    {
+      "id": 27,
+      "type": "multiple-choice",
+      "question": "The resort __________ we stayed at had a pool.",
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "what"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Resort' là vật nên dùng 'which'",
+      "hints": [
+        "Resort = vật → which"
+      ],
+      "points": 10
+    },
+    {
+      "id": 28,
+      "type": "multiple-choice",
+      "question": "The driver __________ took us to the airport was punctual.",
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "where"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Driver' là người nên dùng 'who'",
+      "hints": [
+        "Driver = người → who"
+      ],
+      "points": 10
+    },
+    {
+      "id": 29,
+      "type": "multiple-choice",
+      "question": "Can Tho is a city __________ floating markets are unique.",
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "where"
+      ],
+      "correctIndex": 2,
+      "explanation": "Whose + floating markets",
+      "hints": [
+        "whose + N"
+      ],
+      "points": 10
+    },
+    {
+      "id": 30,
+      "type": "multiple-choice",
+      "question": "The itinerary __________ they gave us was detailed.",
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "what"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Itinerary' là vật nên dùng 'which'",
+      "hints": [
+        "Itinerary = vật → which"
+      ],
+      "points": 10
+    }
+  ]
+}

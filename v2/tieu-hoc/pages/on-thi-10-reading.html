@@ -1,0 +1,2988 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ôn Thi Lớp 10 - Reading Comprehension | English Practice</title>
+  <meta name="description" content="Luyện tập đọc hiểu tiếng Anh thi vào lớp 10 với các bài đọc, từ vựng khó và giải thích chi tiết">
+
+  <!-- Shared Styles -->
+  <link rel="stylesheet" href="../css/shared.css">
+
+  <style>
+    /* Reading Page Specific Styles */
+    .reading-section {
+      background: var(--bg-white);
+      border-radius: var(--radius-lg);
+      padding: var(--spacing-lg);
+      margin-bottom: var(--spacing-lg);
+      box-shadow: 0 2px 8px var(--shadow-color);
+    }
+
+    .section-title {
+      display: flex;
+      align-items: center;
+      gap: var(--spacing-sm);
+      font-size: var(--font-size-xl);
+      color: var(--primary-dark);
+      margin-bottom: var(--spacing-md);
+      padding-bottom: var(--spacing-sm);
+      border-bottom: 2px solid var(--primary-light);
+    }
+
+    /* Vocabulary/Phrases Section */
+    .vocab-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+      gap: var(--spacing-md);
+    }
+
+    .vocab-card {
+      background: linear-gradient(135deg, #f0f9ff 0%, #e0f2fe 100%);
+      border-radius: var(--radius-md);
+      padding: var(--spacing-md);
+      border-left: 4px solid var(--info);
+      transition: transform var(--transition-fast), box-shadow var(--transition-fast);
+    }
+
+    .vocab-card:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 4px 12px var(--shadow-hover);
+    }
+
+    .vocab-card__phrase {
+      font-weight: 600;
+      color: var(--info);
+      font-size: var(--font-size-md);
+      margin-bottom: var(--spacing-xs);
+    }
+
+    .vocab-card__meaning {
+      color: var(--text-dark);
+      margin-bottom: var(--spacing-xs);
+    }
+
+    .vocab-card__example {
+      font-style: italic;
+      color: var(--text-light);
+      font-size: var(--font-size-sm);
+    }
+
+    /* Reading Passage */
+    .passage-box {
+      background: #fffbeb;
+      border: 1px solid #fcd34d;
+      border-radius: var(--radius-md);
+      padding: var(--spacing-lg);
+      margin-bottom: var(--spacing-md);
+      line-height: 1.8;
+    }
+
+    .passage-box p {
+      text-indent: 2em;
+      margin-bottom: var(--spacing-sm);
+    }
+
+    .passage-box p:first-child {
+      text-indent: 0;
+    }
+
+    /* Questions */
+    .question-item {
+      background: var(--bg-light);
+      border-radius: var(--radius-md);
+      padding: var(--spacing-md);
+      margin-bottom: var(--spacing-md);
+      border: 2px solid transparent;
+      transition: border-color var(--transition-fast);
+    }
+
+    .question-item.correct {
+      border-color: var(--success);
+      background: var(--success-light);
+    }
+
+    .question-item.incorrect {
+      border-color: var(--danger);
+      background: var(--danger-light);
+    }
+
+    .question-text {
+      font-weight: 500;
+      margin-bottom: var(--spacing-sm);
+      color: var(--text-dark);
+    }
+
+    .options-list {
+      list-style: none;
+      padding: 0;
+    }
+
+    .option-item {
+      display: flex;
+      align-items: center;
+      gap: var(--spacing-sm);
+      padding: var(--spacing-sm) var(--spacing-md);
+      margin-bottom: var(--spacing-xs);
+      border-radius: var(--radius-sm);
+      cursor: pointer;
+      transition: background var(--transition-fast);
+    }
+
+    .option-item:hover {
+      background: var(--primary-light);
+    }
+
+    .option-item input[type="radio"] {
+      width: 18px;
+      height: 18px;
+      cursor: pointer;
+    }
+
+    .option-item label {
+      cursor: pointer;
+      flex: 1;
+    }
+
+    .option-item.selected {
+      background: var(--info-light);
+    }
+
+    .option-item.correct-answer {
+      background: var(--success-light);
+      border: 2px solid var(--success);
+    }
+
+    .option-item.wrong-answer {
+      background: var(--danger-light);
+      border: 2px solid var(--danger);
+    }
+
+    /* Explanation Box */
+    .explanation-box {
+      display: none;
+      background: linear-gradient(135deg, #ecfdf5 0%, #d1fae5 100%);
+      border-left: 4px solid var(--success);
+      border-radius: var(--radius-sm);
+      padding: var(--spacing-md);
+      margin-top: var(--spacing-sm);
+    }
+
+    .explanation-box.show {
+      display: block;
+      animation: fadeIn 0.3s ease;
+    }
+
+    .explanation-box__title {
+      font-weight: 600;
+      color: var(--success);
+      margin-bottom: var(--spacing-xs);
+    }
+
+    .explanation-box__content {
+      color: var(--text-dark);
+      line-height: 1.6;
+    }
+
+    /* Gap Fill Section */
+    .gap-fill-passage {
+      background: #f0fdf4;
+      border: 1px solid var(--success);
+      border-radius: var(--radius-md);
+      padding: var(--spacing-lg);
+      margin-bottom: var(--spacing-md);
+      line-height: 2;
+    }
+
+    .gap-select {
+      padding: var(--spacing-xs) var(--spacing-sm);
+      border: 2px solid var(--info);
+      border-radius: var(--radius-sm);
+      background: white;
+      font-size: var(--font-size-sm);
+      cursor: pointer;
+      min-width: 120px;
+    }
+
+    .gap-select.correct {
+      border-color: var(--success);
+      background: var(--success-light);
+    }
+
+    .gap-select.incorrect {
+      border-color: var(--danger);
+      background: var(--danger-light);
+    }
+
+    /* Buttons */
+    .btn-check {
+      background: var(--primary);
+      color: white;
+      border: none;
+      padding: var(--spacing-sm) var(--spacing-lg);
+      border-radius: var(--radius-md);
+      font-size: var(--font-size-md);
+      font-weight: 500;
+      cursor: pointer;
+      transition: background var(--transition-fast), transform var(--transition-fast);
+    }
+
+    .btn-check:hover {
+      background: var(--primary-dark);
+      transform: translateY(-1px);
+    }
+
+    .btn-reset {
+      background: var(--text-light);
+      color: white;
+      border: none;
+      padding: var(--spacing-sm) var(--spacing-lg);
+      border-radius: var(--radius-md);
+      font-size: var(--font-size-md);
+      cursor: pointer;
+      margin-left: var(--spacing-sm);
+    }
+
+    .btn-reset:hover {
+      background: var(--text-dark);
+    }
+
+    /* Score Display */
+    .score-display {
+      background: linear-gradient(135deg, var(--purple) 0%, #7c3aed 100%);
+      color: white;
+      padding: var(--spacing-md) var(--spacing-lg);
+      border-radius: var(--radius-md);
+      text-align: center;
+      margin-bottom: var(--spacing-lg);
+    }
+
+    .score-display__label {
+      font-size: var(--font-size-sm);
+      opacity: 0.9;
+    }
+
+    .score-display__value {
+      font-size: var(--font-size-xxl);
+      font-weight: 700;
+    }
+
+    /* Tip Box */
+    .tip-box {
+      background: #fef3c7;
+      border: 1px solid #f59e0b;
+      border-radius: var(--radius-md);
+      padding: var(--spacing-md);
+      margin-bottom: var(--spacing-md);
+    }
+
+    .tip-box__title {
+      font-weight: 600;
+      color: #b45309;
+      margin-bottom: var(--spacing-xs);
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(-5px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    /* Responsive */
+    @media (max-width: 768px) {
+      .vocab-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .reading-section {
+        padding: var(--spacing-md);
+      }
+    }
+  </style>
+</head>
+<body>
+  <!-- Header -->
+  <header class="game-header">
+    <div class="container">
+      <div class="game-header__container">
+        <div class="game-header__info-section">
+          <h1 class="game-header__title">Ôn Thi Vào Lớp 10</h1>
+          <p class="game-header__subtitle">Reading Comprehension - Đọc Hiểu</p>
+          <div class="game-info">
+            <div class="game-info__item">
+              <span class="game-info__label">Giáo viên:</span>
+              <span class="game-info__value">Nguyễn Minh Nhựt</span>
+            </div>
+            <div class="game-info__item">
+              <span class="game-info__label">Năm học:</span>
+              <span class="game-info__value">2024-2025</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="game-header__stats">
+          <div class="stat">
+            <span class="stat__label">Điểm số</span>
+            <span class="stat__value stat__value--primary" id="total-score">0 / 0</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Content -->
+  <main class="container" style="padding-top: var(--spacing-lg); padding-bottom: var(--spacing-xxl);">
+
+    <!-- SECTION 1: Difficult Phrases -->
+    <section id="vocab-section" class="reading-section">
+      <h2 class="section-title">
+        <span>📚</span> Từ Vựng & Cụm Từ Khó (Difficult Phrases)
+      </h2>
+
+      <div class="tip-box">
+        <p class="tip-box__title">💡 Mẹo học từ vựng:</p>
+        <p>Đọc kỹ nghĩa và ví dụ trước khi làm bài. Những từ này thường xuất hiện trong các bài đọc thi vào lớp 10.</p>
+      </div>
+
+      <div class="vocab-grid">
+        <!-- Vocab 1 -->
+        <div class="vocab-card">
+          <div class="vocab-card__phrase">trash pile</div>
+          <div class="vocab-card__meaning"><strong>Nghĩa:</strong> đống rác, bãi rác</div>
+          <div class="vocab-card__example">"Mt. Everest is the highest trash pile in the world." - Đỉnh Everest là bãi rác cao nhất thế giới.</div>
+        </div>
+
+        <!-- Vocab 2 -->
+        <div class="vocab-card">
+          <div class="vocab-card__phrase">rip (v)</div>
+          <div class="vocab-card__meaning"><strong>Nghĩa:</strong> xé toạc, làm rách</div>
+          <div class="vocab-card__example">"Strong winds rip their tents." - Gió mạnh xé toạc lều của họ.</div>
+        </div>
+
+        <!-- Vocab 3 -->
+        <div class="vocab-card">
+          <div class="vocab-card__phrase">donate (v)</div>
+          <div class="vocab-card__meaning"><strong>Nghĩa:</strong> quyên góp, hiến tặng</div>
+          <div class="vocab-card__example">"People are asked to help by donating food." - Mọi người được yêu cầu giúp đỡ bằng cách quyên góp thực phẩm.</div>
+        </div>
+
+        <!-- Vocab 4 -->
+        <div class="vocab-card">
+          <div class="vocab-card__phrase">disrupt (v)</div>
+          <div class="vocab-card__meaning"><strong>Nghĩa:</strong> làm gián đoạn, phá vỡ</div>
+          <div class="vocab-card__example">"The floods have disrupted the local water supply." - Lũ lụt đã làm gián đoạn nguồn cung cấp nước địa phương.</div>
+        </div>
+
+        <!-- Vocab 5 -->
+        <div class="vocab-card">
+          <div class="vocab-card__phrase">fluctuate (v)</div>
+          <div class="vocab-card__meaning"><strong>Nghĩa:</strong> dao động, thay đổi thất thường</div>
+          <div class="vocab-card__example">"The price of holidays can fluctuate a great deal." - Giá các kỳ nghỉ có thể dao động rất nhiều.</div>
+        </div>
+
+        <!-- Vocab 6 -->
+        <div class="vocab-card">
+          <div class="vocab-card__phrase">peak season</div>
+          <div class="vocab-card__meaning"><strong>Nghĩa:</strong> mùa cao điểm</div>
+          <div class="vocab-card__example">"Avoid peak holiday times to save money." - Tránh thời gian nghỉ lễ cao điểm để tiết kiệm tiền.</div>
+        </div>
+
+        <!-- Vocab 7 -->
+        <div class="vocab-card">
+          <div class="vocab-card__phrase">temperate (adj)</div>
+          <div class="vocab-card__meaning"><strong>Nghĩa:</strong> ôn hòa, điều độ (về khí hậu)</div>
+          <div class="vocab-card__example">"Its climate is sub-equatorial with a temperate weather." - Khí hậu cận xích đạo với thời tiết ôn hòa.</div>
+        </div>
+
+        <!-- Vocab 8 -->
+        <div class="vocab-card">
+          <div class="vocab-card__phrase">intrigue (v)</div>
+          <div class="vocab-card__meaning"><strong>Nghĩa:</strong> hấp dẫn, kích thích sự tò mò</div>
+          <div class="vocab-card__example">"The coastline will intrigue you to visit Phu Quoc." - Bờ biển sẽ hấp dẫn bạn đến thăm Phú Quốc.</div>
+        </div>
+
+        <!-- Vocab 9 -->
+        <div class="vocab-card">
+          <div class="vocab-card__phrase">stunt (v)</div>
+          <div class="vocab-card__meaning"><strong>Nghĩa:</strong> làm chậm lại, cản trở sự phát triển</div>
+          <div class="vocab-card__example">"Wars have stunted the city's development." - Chiến tranh đã cản trở sự phát triển của thành phố.</div>
+        </div>
+
+        <!-- Vocab 10 -->
+        <div class="vocab-card">
+          <div class="vocab-card__phrase">occurrence (n)</div>
+          <div class="vocab-card__meaning"><strong>Nghĩa:</strong> sự kiện, sự việc xảy ra</div>
+          <div class="vocab-card__example">"Various occurrences have affected the city." - Nhiều sự kiện đã ảnh hưởng đến thành phố.</div>
+        </div>
+
+        <!-- Vocab 11 -->
+        <div class="vocab-card">
+          <div class="vocab-card__phrase">devastating (adj)</div>
+          <div class="vocab-card__meaning"><strong>Nghĩa:</strong> tàn phá, hủy diệt</div>
+          <div class="vocab-card__example">"Devastating floods have left many people homeless." - Lũ lụt tàn phá đã khiến nhiều người mất nhà.</div>
+        </div>
+
+        <!-- Vocab 12 -->
+        <div class="vocab-card">
+          <div class="vocab-card__phrase">prominent (adj)</div>
+          <div class="vocab-card__meaning"><strong>Nghĩa:</strong> nổi bật, dễ thấy</div>
+          <div class="vocab-card__example">"Store a copy in a prominent place." - Lưu một bản sao ở nơi dễ thấy.</div>
+        </div>
+      </div>
+    </section>
+
+    <!-- SECTION 2: Reading Passage 1 - Natural Gas -->
+    <section id="passage-1" class="reading-section">
+      <h2 class="section-title">
+        <span>📖</span> Bài Đọc 1: Natural Gas (Khí Đốt Tự Nhiên)
+      </h2>
+
+      <div class="tip-box">
+        <p class="tip-box__title">📝 Hướng dẫn làm bài:</p>
+        <p>Đọc kỹ đoạn văn, sau đó chọn đáp án đúng nhất cho mỗi câu hỏi. Nhấn "Kiểm tra" để xem kết quả và giải thích chi tiết.</p>
+      </div>
+
+      <!-- Reading Passage -->
+      <div class="passage-box">
+        <p><strong>[1]</strong> One of the most important discoveries of the nineteenth century was a method of using natural gas for cooking and heating. Large amounts of natural gas are found in the United States, usually several feet below the surface of the Earth. Natural gas is most often found in places where petroleum, the oil from which gasoline is made, is found. Often the natural gas must be removed before the oil itself can be reached.</p>
+
+        <p><strong>[2]</strong> For many years after natural gas was first discovered, it was thought to have no value. Finally, however, people began to understand its use and to find ways of storing it and moving it from place to place. Today natural gas is stored in large tanks and used for lighting, cooking and heating. It has also been used for electric generators and hybrid cars recently. In many ways natural gas is one of our finest fuels. It can be used for cooking without making the room hot. It is cheap and can be moved easily from one place to another through long pipelines, some of which are hundreds of miles in length.</p>
+      </div>
+
+      <!-- Questions -->
+      <div id="passage1-questions">
+        <!-- Question 1 -->
+        <div class="question-item" data-question="p1q1" data-correct="D">
+          <p class="question-text"><strong>1.</strong> This passage as a whole is about ________.</p>
+          <ul class="options-list">
+            <li class="option-item">
+              <input type="radio" name="p1q1" id="p1q1a" value="A">
+              <label for="p1q1a">A. discovering natural gas</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p1q1" id="p1q1b" value="B">
+              <label for="p1q1b">B. finding petroleum</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p1q1" id="p1q1c" value="C">
+              <label for="p1q1c">C. using natural gas and petroleum</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p1q1" id="p1q1d" value="D">
+              <label for="p1q1d">D. natural gas and its use</label>
+            </li>
+          </ul>
+          <div class="explanation-box" id="exp-p1q1">
+            <p class="explanation-box__title">Giải thích:</p>
+            <div class="explanation-box__content">
+              <p><strong>Đáp án D</strong> là đúng vì đây là câu hỏi về <em>ý chính (main idea)</em> của toàn bài.</p>
+              <p>📌 <strong>Phân tích:</strong></p>
+              <ul>
+                <li><strong>Đoạn 1:</strong> Giới thiệu khí đốt tự nhiên và nơi tìm thấy nó</li>
+                <li><strong>Đoạn 2:</strong> Nói về cách sử dụng và lợi ích của khí đốt tự nhiên (lighting, cooking, heating, electric generators, hybrid cars)</li>
+              </ul>
+              <p>❌ Loại A vì chỉ nói về "discovering" (phát hiện) - quá hẹp</p>
+              <p>❌ Loại B vì bài không chủ yếu nói về petroleum</p>
+              <p>❌ Loại C vì petroleum chỉ được nhắc qua, không phải trọng tâm</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Question 2 -->
+        <div class="question-item" data-question="p1q2" data-correct="A">
+          <p class="question-text"><strong>2.</strong> Which of the following is NOT true about natural gas?</p>
+          <ul class="options-list">
+            <li class="option-item">
+              <input type="radio" name="p1q2" id="p1q2a" value="A">
+              <label for="p1q2a">A. It is not used for heating.</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p1q2" id="p1q2b" value="B">
+              <label for="p1q2b">B. It moves through pipes.</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p1q2" id="p1q2c" value="C">
+              <label for="p1q2c">C. It is cheap.</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p1q2" id="p1q2d" value="D">
+              <label for="p1q2d">D. It can be stored.</label>
+            </li>
+          </ul>
+          <div class="explanation-box" id="exp-p1q2">
+            <p class="explanation-box__title">Giải thích:</p>
+            <div class="explanation-box__content">
+              <p><strong>Đáp án A</strong> là đúng vì đây là câu hỏi <em>NOT true</em> - tìm thông tin SAI.</p>
+              <p>📌 <strong>Kiểm tra từng đáp án trong bài:</strong></p>
+              <ul>
+                <li>✅ B đúng: "moved easily... through long pipelines" → di chuyển qua ống</li>
+                <li>✅ C đúng: "It is cheap" → rẻ</li>
+                <li>✅ D đúng: "stored in large tanks" → có thể lưu trữ</li>
+                <li>❌ A sai: Bài viết nói "used for... heating" → ĐƯỢC dùng để sưởi ấm</li>
+              </ul>
+              <p>💡 <strong>Mẹo:</strong> Với câu hỏi NOT true, cần tìm 3 đáp án đúng trong bài và loại, đáp án còn lại là đáp án cần chọn.</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Question 3 -->
+        <div class="question-item" data-question="p1q3" data-correct="D">
+          <p class="question-text"><strong>3.</strong> How many uses of natural gas are mentioned?</p>
+          <ul class="options-list">
+            <li class="option-item">
+              <input type="radio" name="p1q3" id="p1q3a" value="A">
+              <label for="p1q3a">A. two</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p1q3" id="p1q3b" value="B">
+              <label for="p1q3b">B. three</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p1q3" id="p1q3c" value="C">
+              <label for="p1q3c">C. four</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p1q3" id="p1q3d" value="D">
+              <label for="p1q3d">D. five</label>
+            </li>
+          </ul>
+          <div class="explanation-box" id="exp-p1q3">
+            <p class="explanation-box__title">Giải thích:</p>
+            <div class="explanation-box__content">
+              <p><strong>Đáp án D</strong> - có 5 công dụng được đề cập.</p>
+              <p>📌 <strong>Đếm các công dụng trong đoạn 2:</strong></p>
+              <ol>
+                <li><strong>lighting</strong> - thắp sáng</li>
+                <li><strong>cooking</strong> - nấu ăn</li>
+                <li><strong>heating</strong> - sưởi ấm</li>
+                <li><strong>electric generators</strong> - máy phát điện</li>
+                <li><strong>hybrid cars</strong> - xe hybrid</li>
+              </ol>
+              <p>💡 <strong>Mẹo:</strong> Câu hỏi đếm số lượng yêu cầu đọc kỹ và liệt kê ra giấy để tránh bỏ sót.</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Question 4 -->
+        <div class="question-item" data-question="p1q4" data-correct="A">
+          <p class="question-text"><strong>4.</strong> What does the word "it" in the passage refer to?</p>
+          <ul class="options-list">
+            <li class="option-item">
+              <input type="radio" name="p1q4" id="p1q4a" value="A">
+              <label for="p1q4a">A. natural gas</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p1q4" id="p1q4b" value="B">
+              <label for="p1q4b">B. electric generator</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p1q4" id="p1q4c" value="C">
+              <label for="p1q4c">C. pipeline</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p1q4" id="p1q4d" value="D">
+              <label for="p1q4d">D. tank</label>
+            </li>
+          </ul>
+          <div class="explanation-box" id="exp-p1q4">
+            <p class="explanation-box__title">Giải thích:</p>
+            <div class="explanation-box__content">
+              <p><strong>Đáp án A</strong> - "it" ám chỉ "natural gas".</p>
+              <p>📌 <strong>Phương pháp xác định đại từ:</strong></p>
+              <ul>
+                <li>Tìm câu chứa "it": "<em>It</em> is cheap and can be moved easily..."</li>
+                <li>Đọc câu trước đó: "In many ways <strong>natural gas</strong> is one of our finest fuels."</li>
+                <li>Thay "it" bằng "natural gas": "Natural gas is cheap and can be moved easily..." → Nghĩa hoàn toàn hợp lý!</li>
+              </ul>
+              <p>💡 <strong>Mẹo:</strong> Đại từ thường thay thế cho danh từ gần nhất ở câu trước. Thử thay vào để kiểm tra nghĩa.</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Question 5 -->
+        <div class="question-item" data-question="p1q5" data-correct="B">
+          <p class="question-text"><strong>5.</strong> Which of the following is closest meaning to "discovered"?</p>
+          <ul class="options-list">
+            <li class="option-item">
+              <input type="radio" name="p1q5" id="p1q5a" value="A">
+              <label for="p1q5a">A. invented</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p1q5" id="p1q5b" value="B">
+              <label for="p1q5b">B. found</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p1q5" id="p1q5c" value="C">
+              <label for="p1q5c">C. used</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p1q5" id="p1q5d" value="D">
+              <label for="p1q5d">D. stored</label>
+            </li>
+          </ul>
+          <div class="explanation-box" id="exp-p1q5">
+            <p class="explanation-box__title">Giải thích:</p>
+            <div class="explanation-box__content">
+              <p><strong>Đáp án B</strong> - "discovered" = "found" (tìm thấy, phát hiện)</p>
+              <p>📌 <strong>Phân biệt các từ:</strong></p>
+              <ul>
+                <li><strong>discover/find:</strong> tìm thấy thứ đã tồn tại (ví dụ: discover a new island)</li>
+                <li><strong>invent:</strong> phát minh ra thứ mới chưa có (ví dụ: invent the telephone)</li>
+                <li><strong>use:</strong> sử dụng</li>
+                <li><strong>store:</strong> lưu trữ</li>
+              </ul>
+              <p>💡 <strong>Lưu ý:</strong> Natural gas là thứ có sẵn trong tự nhiên, nên chúng ta "discover/find" (tìm thấy) chứ không "invent" (phát minh).</p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div style="margin-top: var(--spacing-lg); display: flex; gap: var(--spacing-sm);">
+        <button class="btn-check" onclick="checkPassage1()">Kiểm Tra Bài 1</button>
+        <button class="btn-reset" onclick="resetPassage1()">Làm Lại</button>
+      </div>
+
+      <div id="passage1-result" style="margin-top: var(--spacing-md); display: none;"></div>
+    </section>
+
+    <!-- SECTION 3: Reading Passage 2 - Phu Quoc Island -->
+    <section id="passage-2" class="reading-section">
+      <h2 class="section-title">
+        <span>📖</span> Bài Đọc 2: Phu Quoc Island (Đảo Phú Quốc)
+      </h2>
+
+      <!-- Reading Passage -->
+      <div class="passage-box">
+        <p><strong>[1]</strong> After only 50 minutes flying from Ho Chi Minh City, you will set foot on the tropical paradise of Vietnam and the world: Phu Quoc Island.</p>
+
+        <p><strong>[2]</strong> The island has a roughly triangular shape with a north-south length of 50km and a west-east width of 25km. A great part of the terrain is filled with beautiful sandy beaches, but there is a mountainous region with 99 peaks, among which the Peak of Chua Mountain is the tallest one at 603 meters. Due to Phu Quoc's location in the Gulf of Thailand, its climate is sub-equatorial with a temperate weather all year round, making trips to Phu Quoc possible any time in the year. However, the best time to travel to this island is during the dry season, from November until March, when the sky is blue and clear and the rains are away.</p>
+
+        <p><strong>[3]</strong> Phu Quoc is most famous for its cuisines and a natural wonderful coastline. The most famous food of Phu Quoc is fish sauce, which has become quite popular all over Vietnam and the world. Besides, another thing worth trying there is the spicy yet interesting black pepper. However, the factor that will definitely intrigue you to visit Phu Quoc is its untouched coastline featuring several heavenly beaches. They have yet to be explored to their full ability, but this fact might be actually positive as it gives the shores a romantic beauty that you can find in nowhere else in the world.</p>
+      </div>
+
+      <!-- Questions -->
+      <div id="passage2-questions">
+        <!-- Question 1 -->
+        <div class="question-item" data-question="p2q1" data-correct="B">
+          <p class="question-text"><strong>1.</strong> What is Phu Quoc Island regarded as?</p>
+          <ul class="options-list">
+            <li class="option-item">
+              <input type="radio" name="p2q1" id="p2q1a" value="A">
+              <label for="p2q1a">A. Pearl of the Orient</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p2q1" id="p2q1b" value="B">
+              <label for="p2q1b">B. Tropical Paradise</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p2q1" id="p2q1c" value="C">
+              <label for="p2q1c">C. City of Eternal Spring</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p2q1" id="p2q1d" value="D">
+              <label for="p2q1d">D. Lanterns Paradise</label>
+            </li>
+          </ul>
+          <div class="explanation-box" id="exp-p2q1">
+            <p class="explanation-box__title">Giải thích:</p>
+            <div class="explanation-box__content">
+              <p><strong>Đáp án B</strong> - Phu Quoc được gọi là "Tropical Paradise" (Thiên đường nhiệt đới).</p>
+              <p>📌 <strong>Tìm thông tin trong bài:</strong></p>
+              <ul>
+                <li>Đoạn 1 viết: "...you will set foot on the <strong>tropical paradise</strong> of Vietnam and the world: Phu Quoc Island."</li>
+                <li>Từ khóa "tropical paradise" xuất hiện rõ ràng → Đáp án B</li>
+              </ul>
+              <p>💡 <strong>Mẹo:</strong> Câu hỏi "regarded as" (được xem là) thường liên quan đến biệt danh hoặc cách gọi của địa điểm. Tìm từ khóa ở đầu bài.</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Question 2 -->
+        <div class="question-item" data-question="p2q2" data-correct="A">
+          <p class="question-text"><strong>2.</strong> According to the passage, Phu Quoc Island __________.</p>
+          <ul class="options-list">
+            <li class="option-item">
+              <input type="radio" name="p2q2" id="p2q2a" value="A">
+              <label for="p2q2a">A. has both beaches and mountains</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p2q2" id="p2q2b" value="B">
+              <label for="p2q2b">B. doesn't have much tourist attraction</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p2q2" id="p2q2c" value="C">
+              <label for="p2q2c">C. has the tallest mountain in Vietnam</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p2q2" id="p2q2d" value="D">
+              <label for="p2q2d">D. doesn't have rains all the year round</label>
+            </li>
+          </ul>
+          <div class="explanation-box" id="exp-p2q2">
+            <p class="explanation-box__title">Giải thích:</p>
+            <div class="explanation-box__content">
+              <p><strong>Đáp án A</strong> - Phú Quốc có cả bãi biển và núi.</p>
+              <p>📌 <strong>Kiểm tra từng đáp án:</strong></p>
+              <ul>
+                <li>✅ A đúng: "beautiful sandy <strong>beaches</strong>" + "a <strong>mountainous region</strong> with 99 peaks" → Có cả hai!</li>
+                <li>❌ B sai: Bài nói đảo có nhiều điểm thu hút (beaches, fish sauce, pepper)</li>
+                <li>❌ C sai: Đỉnh Chúa cao 603m, không phải cao nhất Việt Nam</li>
+                <li>❌ D sai: Bài nói "the rains are away" chỉ trong mùa khô, không phải cả năm</li>
+              </ul>
+              <p>💡 <strong>Lưu ý:</strong> Đọc kỹ để phân biệt "tallest on the island" và "tallest in Vietnam".</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Question 3 -->
+        <div class="question-item" data-question="p2q3" data-correct="C">
+          <p class="question-text"><strong>3.</strong> Tourists can visit Phu Quoc anytime in the year thanks to __________.</p>
+          <ul class="options-list">
+            <li class="option-item">
+              <input type="radio" name="p2q3" id="p2q3a" value="A">
+              <label for="p2q3a">A. its location by the sea</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p2q3" id="p2q3b" value="B">
+              <label for="p2q3b">B. its friendly local people</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p2q3" id="p2q3c" value="C">
+              <label for="p2q3c">C. its temperate climate</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p2q3" id="p2q3d" value="D">
+              <label for="p2q3d">D. its dry season</label>
+            </li>
+          </ul>
+          <div class="explanation-box" id="exp-p2q3">
+            <p class="explanation-box__title">Giải thích:</p>
+            <div class="explanation-box__content">
+              <p><strong>Đáp án C</strong> - Nhờ khí hậu ôn hòa.</p>
+              <p>📌 <strong>Tìm từ khóa "any time in the year":</strong></p>
+              <ul>
+                <li>Bài viết: "its climate is sub-equatorial with a <strong>temperate weather</strong> all year round, <strong>making trips to Phu Quoc possible any time in the year</strong>."</li>
+                <li>Cấu trúc "making... possible" chỉ nguyên nhân → Vì khí hậu ôn hòa nên du lịch được quanh năm</li>
+              </ul>
+              <p>💡 <strong>Phân biệt:</strong></p>
+              <ul>
+                <li>"temperate climate" = khí hậu ôn hòa → Đây là LÝ DO có thể đến quanh năm</li>
+                <li>"dry season" = mùa khô → Chỉ là thời điểm TỐT NHẤT, không phải lý do</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+        <!-- Question 4 -->
+        <div class="question-item" data-question="p2q4" data-correct="A">
+          <p class="question-text"><strong>4.</strong> The word "intrigue" in paragraph 3 has the closest meaning to __________.</p>
+          <ul class="options-list">
+            <li class="option-item">
+              <input type="radio" name="p2q4" id="p2q4a" value="A">
+              <label for="p2q4a">A. attract</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p2q4" id="p2q4b" value="B">
+              <label for="p2q4b">B. promote</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p2q4" id="p2q4c" value="C">
+              <label for="p2q4c">C. inspire</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p2q4" id="p2q4d" value="D">
+              <label for="p2q4d">D. pay attention to</label>
+            </li>
+          </ul>
+          <div class="explanation-box" id="exp-p2q4">
+            <p class="explanation-box__title">Giải thích:</p>
+            <div class="explanation-box__content">
+              <p><strong>Đáp án A</strong> - "intrigue" = "attract" (thu hút, hấp dẫn)</p>
+              <p>📌 <strong>Phân tích ngữ cảnh:</strong></p>
+              <ul>
+                <li>Câu gốc: "the factor that will definitely <strong>intrigue</strong> you to visit Phu Quoc"</li>
+                <li>Nghĩa: yếu tố sẽ <strong>hấp dẫn/thu hút</strong> bạn đến thăm Phú Quốc</li>
+              </ul>
+              <p>📌 <strong>Phân biệt các từ:</strong></p>
+              <ul>
+                <li><strong>intrigue/attract:</strong> thu hút, khiến ai đó muốn làm gì</li>
+                <li><strong>promote:</strong> quảng bá, thúc đẩy</li>
+                <li><strong>inspire:</strong> truyền cảm hứng</li>
+                <li><strong>pay attention to:</strong> chú ý đến</li>
+              </ul>
+              <p>💡 <strong>Mẹo:</strong> Thử thay từ vào câu: "attract you to visit" nghĩa hợp lý hơn "promote/inspire you to visit".</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Question 5 -->
+        <div class="question-item" data-question="p2q5" data-correct="B">
+          <p class="question-text"><strong>5.</strong> Which of the following statements is NOT true?</p>
+          <ul class="options-list">
+            <li class="option-item">
+              <input type="radio" name="p2q5" id="p2q5a" value="A">
+              <label for="p2q5a">A. Phu Quoc Island is located in the Gulf of Thailand.</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p2q5" id="p2q5b" value="B">
+              <label for="p2q5b">B. The beaches in Phu Quoc Island have been explored to their full potentials.</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p2q5" id="p2q5c" value="C">
+              <label for="p2q5c">C. Phu Quoc's dry season begins from November and lasts through March.</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p2q5" id="p2q5d" value="D">
+              <label for="p2q5d">D. The island is roughly triangular in shape.</label>
+            </li>
+          </ul>
+          <div class="explanation-box" id="exp-p2q5">
+            <p class="explanation-box__title">Giải thích:</p>
+            <div class="explanation-box__content">
+              <p><strong>Đáp án B</strong> - Câu này KHÔNG đúng.</p>
+              <p>📌 <strong>Kiểm tra từng đáp án:</strong></p>
+              <ul>
+                <li>✅ A đúng: "Due to Phu Quoc's location in the <strong>Gulf of Thailand</strong>"</li>
+                <li>❌ B sai: Bài nói "They have <strong>yet to be explored</strong> to their full ability" = CHƯA được khai thác hết tiềm năng</li>
+                <li>✅ C đúng: "the dry season, <strong>from November until March</strong>"</li>
+                <li>✅ D đúng: "a roughly <strong>triangular shape</strong>"</li>
+              </ul>
+              <p>💡 <strong>Lưu ý cấu trúc:</strong></p>
+              <ul>
+                <li>"have yet to be explored" = chưa được khám phá</li>
+                <li>"have been explored" = đã được khám phá</li>
+                <li>Hai cấu trúc này TRÁI NGHĨA nhau!</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div style="margin-top: var(--spacing-lg); display: flex; gap: var(--spacing-sm);">
+        <button class="btn-check" onclick="checkPassage2()">Kiểm Tra Bài 2</button>
+        <button class="btn-reset" onclick="resetPassage2()">Làm Lại</button>
+      </div>
+
+      <div id="passage2-result" style="margin-top: var(--spacing-md); display: none;"></div>
+    </section>
+
+    <!-- SECTION: Reading Passage 3 - Learning Foreign Languages -->
+    <section id="passage-3" class="reading-section">
+      <h2 class="section-title">
+        <span>📖</span> Bài Đọc 3: Learning Foreign Languages (Học Ngoại Ngữ)
+      </h2>
+
+      <div class="passage-box">
+        <p>Why should you learn a foreign language, such as English? First, learning a foreign language opens up job opportunities. Most companies look for people with foreign language skills. Second, learning a foreign language can offer a special experience to travellers. You can easily find the places, ask for directions, and even order food in the countries. Speaking a language also gives you a better understanding of the country's culture. Another reason why you should learn a foreign language is that it helps you to learn other subjects better. Learning a foreign language is hard and requires a lot of mental exercise. This, in turn, helps the brain to work better and strengthen the ability to memorize and analyze.</p>
+      </div>
+
+      <div id="passage3-questions">
+        <!-- Question 1 -->
+        <div class="question-item" data-question="p3q1" data-correct="A">
+          <p class="question-text"><strong>1.</strong> What is the topic of the passage?</p>
+          <ul class="options-list">
+            <li class="option-item">
+              <input type="radio" name="p3q1" id="p3q1a" value="A">
+              <label for="p3q1a">A. The reasons for learning a foreign language</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p3q1" id="p3q1b" value="B">
+              <label for="p3q1b">B. The benefits of learning English</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p3q1" id="p3q1c" value="C">
+              <label for="p3q1c">C. The ways to learn a foreign language</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p3q1" id="p3q1d" value="D">
+              <label for="p3q1d">D. The importance of communication with people</label>
+            </li>
+          </ul>
+          <div class="explanation-box" id="exp-p3q1">
+            <p class="explanation-box__title">Giải thích:</p>
+            <div class="explanation-box__content">
+              <p><strong>Đáp án A</strong> - Chủ đề bài là "Lý do học ngoại ngữ"</p>
+              <p>📌 <strong>Phân tích:</strong></p>
+              <ul>
+                <li>Câu đầu tiên đặt câu hỏi: "Why should you learn a foreign language?"</li>
+                <li>Các từ khóa chỉ lý do: "First...", "Second...", "Another reason..."</li>
+              </ul>
+              <p>❌ Loại B vì bài nói về "foreign language" nói chung, không chỉ English</p>
+              <p>❌ Loại C vì bài không nói về cách học</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Question 2 -->
+        <div class="question-item" data-question="p3q2" data-correct="B">
+          <p class="question-text"><strong>2.</strong> The word "it" refers to _____.</p>
+          <ul class="options-list">
+            <li class="option-item">
+              <input type="radio" name="p3q2" id="p3q2a" value="A">
+              <label for="p3q2a">A. another reason</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p3q2" id="p3q2b" value="B">
+              <label for="p3q2b">B. learning a foreign language</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p3q2" id="p3q2c" value="C">
+              <label for="p3q2c">C. subject</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p3q2" id="p3q2d" value="D">
+              <label for="p3q2d">D. mental exercise</label>
+            </li>
+          </ul>
+          <div class="explanation-box" id="exp-p3q2">
+            <p class="explanation-box__title">Giải thích:</p>
+            <div class="explanation-box__content">
+              <p><strong>Đáp án B</strong> - "it" ám chỉ "learning a foreign language"</p>
+              <p>📌 <strong>Xác định "it" trong câu:</strong></p>
+              <ul>
+                <li>Câu: "Another reason why you should learn a foreign language is that <strong>it</strong> helps you to learn other subjects better."</li>
+                <li>Thay thế: "learning a foreign language helps you to learn other subjects better" → Nghĩa hợp lý!</li>
+              </ul>
+              <p>💡 <strong>Mẹo:</strong> Đại từ "it" thường thay thế cho chủ ngữ hoặc danh từ chính được nhắc đến trước đó.</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Question 3 -->
+        <div class="question-item" data-question="p3q3" data-correct="D">
+          <p class="question-text"><strong>3.</strong> According to the text, which of the following statements is NOT true?</p>
+          <ul class="options-list">
+            <li class="option-item">
+              <input type="radio" name="p3q3" id="p3q3a" value="A">
+              <label for="p3q3a">A. Most companies look for people with foreign language skills.</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p3q3" id="p3q3b" value="B">
+              <label for="p3q3b">B. Learning a foreign language helps you to learn other subjects better.</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p3q3" id="p3q3c" value="C">
+              <label for="p3q3c">C. Speaking a language gives you a better understanding of the country's culture.</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p3q3" id="p3q3d" value="D">
+              <label for="p3q3d">D. It isn't necessary to know a foreign language.</label>
+            </li>
+          </ul>
+          <div class="explanation-box" id="exp-p3q3">
+            <p class="explanation-box__title">Giải thích:</p>
+            <div class="explanation-box__content">
+              <p><strong>Đáp án D</strong> - Câu này KHÔNG đúng với nội dung bài.</p>
+              <p>📌 <strong>Kiểm tra từng đáp án:</strong></p>
+              <ul>
+                <li>✅ A đúng: "Most companies look for people with foreign language skills" → có trong bài</li>
+                <li>✅ B đúng: "it helps you to learn other subjects better" → có trong bài</li>
+                <li>✅ C đúng: "Speaking a language also gives you a better understanding of the country's culture" → có trong bài</li>
+                <li>❌ D sai: Bài khuyến khích học ngoại ngữ, không nói "không cần thiết"</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+        <!-- Question 4 -->
+        <div class="question-item" data-question="p3q4" data-correct="C">
+          <p class="question-text"><strong>4.</strong> How many benefits of learning a foreign language are listed in the text?</p>
+          <ul class="options-list">
+            <li class="option-item">
+              <input type="radio" name="p3q4" id="p3q4a" value="A">
+              <label for="p3q4a">A. One</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p3q4" id="p3q4b" value="B">
+              <label for="p3q4b">B. Two</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p3q4" id="p3q4c" value="C">
+              <label for="p3q4c">C. Three</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p3q4" id="p3q4d" value="D">
+              <label for="p3q4d">D. Four</label>
+            </li>
+          </ul>
+          <div class="explanation-box" id="exp-p3q4">
+            <p class="explanation-box__title">Giải thích:</p>
+            <div class="explanation-box__content">
+              <p><strong>Đáp án C</strong> - Có 3 lợi ích được nêu ra.</p>
+              <p>📌 <strong>Đếm lợi ích:</strong></p>
+              <ol>
+                <li><strong>First</strong>: opens up job opportunities (mở ra cơ hội việc làm)</li>
+                <li><strong>Second</strong>: offers a special experience to travellers (trải nghiệm đặc biệt khi du lịch)</li>
+                <li><strong>Another reason</strong>: helps you to learn other subjects better (giúp học các môn khác tốt hơn)</li>
+              </ol>
+              <p>💡 <strong>Mẹo:</strong> Tìm các từ tín hiệu: "First", "Second", "Another reason", "Finally", "In addition"...</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Question 5 -->
+        <div class="question-item" data-question="p3q5" data-correct="B">
+          <p class="question-text"><strong>5.</strong> The word "hard" is closest in meaning to ______.</p>
+          <ul class="options-list">
+            <li class="option-item">
+              <input type="radio" name="p3q5" id="p3q5a" value="A">
+              <label for="p3q5a">A. easy</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p3q5" id="p3q5b" value="B">
+              <label for="p3q5b">B. difficult</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p3q5" id="p3q5c" value="C">
+              <label for="p3q5c">C. interesting</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p3q5" id="p3q5d" value="D">
+              <label for="p3q5d">D. boring</label>
+            </li>
+          </ul>
+          <div class="explanation-box" id="exp-p3q5">
+            <p class="explanation-box__title">Giải thích:</p>
+            <div class="explanation-box__content">
+              <p><strong>Đáp án B</strong> - "hard" = "difficult" (khó khăn)</p>
+              <p>📌 <strong>Ngữ cảnh:</strong></p>
+              <ul>
+                <li>Câu gốc: "Learning a foreign language is <strong>hard</strong> and requires a lot of mental exercise."</li>
+                <li>Nghĩa: Học ngoại ngữ thì <strong>khó</strong> và đòi hỏi nhiều hoạt động trí não.</li>
+              </ul>
+              <p>📌 <strong>Từ vựng:</strong></p>
+              <ul>
+                <li><strong>hard = difficult:</strong> khó khăn</li>
+                <li><strong>easy:</strong> dễ dàng (trái nghĩa)</li>
+                <li><strong>interesting:</strong> thú vị</li>
+                <li><strong>boring:</strong> nhàm chán</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div style="margin-top: var(--spacing-lg); display: flex; gap: var(--spacing-sm);">
+        <button class="btn-check" onclick="checkPassage3()">Kiểm Tra Bài 3</button>
+        <button class="btn-reset" onclick="resetPassage3()">Làm Lại</button>
+      </div>
+
+      <div id="passage3-result" style="margin-top: var(--spacing-md); display: none;"></div>
+    </section>
+
+    <!-- SECTION: Reading Passage 4 - Tropical Cyclones -->
+    <section id="passage-4" class="reading-section">
+      <h2 class="section-title">
+        <span>📖</span> Bài Đọc 4: Tropical Cyclones (Bão Nhiệt Đới)
+      </h2>
+
+      <div class="tip-box">
+        <p class="tip-box__title">📝 Từ vựng quan trọng:</p>
+        <ul>
+          <li><strong>tropical cyclone:</strong> bão nhiệt đới</li>
+          <li><strong>typhoon:</strong> bão (ở châu Á)</li>
+          <li><strong>hurricane:</strong> bão (ở Bắc/Nam Mỹ)</li>
+          <li><strong>meteorologist:</strong> nhà khí tượng học</li>
+          <li><strong>keep an eye out for:</strong> theo dõi, canh chừng</li>
+        </ul>
+      </div>
+
+      <!-- Reading Passage -->
+      <div class="passage-box">
+        <p><strong>[1]</strong> Tropical cyclones are called typhoons in Asia and hurricanes in North and South America. These forms go around like a wheel turning to the left when they hit in the northern part of the world. They have wind speeds of 60 kph or more. In the United States, the Tropical Prediction Center in Miami, Florida keeps an eye out for hurricanes.</p>
+
+        <p><strong>[2]</strong> When meteorologists discover a hurricane, they give it a name. They can use either a male or female name. Why should tropical cyclones have names? The name makes it easy for people to keep up with information about a hurricane and its possible dangers.</p>
+
+        <p><strong>[3]</strong> The World Meteorological Organization (WMO), an international weather group decides what names will be used. The WMO makes lists of names using the English alphabet. Each name on the list starts with a different letter. The first hurricane of the year gets the first name on that year's list. The second hurricane gets the next name. For examples, if the first hurricane is named Abel, the second might be named Betty. The name lists do not include names beginning with the letters Q, U, X, Y and Z. There aren't many names that begin with these letters.</p>
+
+        <p><strong>[4]</strong> Asian countries use a different list, <strong>which</strong> is made up by the WMO's Typhoon Committee. This list has a few personal names, but most of the names are of flowers, animals, trees, and other similar things.</p>
+      </div>
+
+      <!-- Questions -->
+      <div id="passage4-questions">
+        <!-- Question 1 -->
+        <div class="question-item" data-question="p4q1" data-correct="C">
+          <p class="question-text"><strong>1.</strong> What is the main idea of this reading?</p>
+          <ul class="options-list">
+            <li class="option-item">
+              <input type="radio" name="p4q1" id="p4q1a" value="A">
+              <label for="p4q1a">A. When tropical cyclones are named</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p4q1" id="p4q1b" value="B">
+              <label for="p4q1b">B. What tropical cyclones can do</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p4q1" id="p4q1c" value="C">
+              <label for="p4q1c">C. How tropical cyclones are named</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p4q1" id="p4q1d" value="D">
+              <label for="p4q1d">D. Who watches for tropical cyclones</label>
+            </li>
+          </ul>
+          <div class="explanation-box" id="exp-p4q1">
+            <p class="explanation-box__title">Giải thích:</p>
+            <div class="explanation-box__content">
+              <p><strong>Đáp án C</strong> - Ý chính là "Cách đặt tên cho bão nhiệt đới".</p>
+              <p>📌 <strong>Phân tích nội dung từng đoạn:</strong></p>
+              <ul>
+                <li><strong>Đoạn 1:</strong> Giới thiệu bão nhiệt đới và tên gọi khác nhau</li>
+                <li><strong>Đoạn 2:</strong> Lý do tại sao cần đặt tên cho bão</li>
+                <li><strong>Đoạn 3:</strong> Cách WMO đặt tên theo bảng chữ cái</li>
+                <li><strong>Đoạn 4:</strong> Cách đặt tên khác ở châu Á</li>
+              </ul>
+              <p>💡 <strong>Kết luận:</strong> Toàn bài tập trung vào <strong>CÁCH</strong> (how) đặt tên, không phải khi nào (when), làm gì (what) hay ai theo dõi (who).</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Question 2 -->
+        <div class="question-item" data-question="p4q2" data-correct="A">
+          <p class="question-text"><strong>2.</strong> What does the word "which" in the last paragraph refer to?</p>
+          <ul class="options-list">
+            <li class="option-item">
+              <input type="radio" name="p4q2" id="p4q2a" value="A">
+              <label for="p4q2a">A. a different list</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p4q2" id="p4q2b" value="B">
+              <label for="p4q2b">B. a female name</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p4q2" id="p4q2c" value="C">
+              <label for="p4q2c">C. the alphabet</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p4q2" id="p4q2d" value="D">
+              <label for="p4q2d">D. a male name</label>
+            </li>
+          </ul>
+          <div class="explanation-box" id="exp-p4q2">
+            <p class="explanation-box__title">Giải thích:</p>
+            <div class="explanation-box__content">
+              <p><strong>Đáp án A</strong> - "which" ám chỉ "a different list".</p>
+              <p>📌 <strong>Phân tích cấu trúc câu:</strong></p>
+              <p>Câu gốc: "Asian countries use <strong>a different list</strong>, <strong>which</strong> is made up by the WMO's Typhoon Committee."</p>
+              <p>📌 <strong>Quy tắc ngữ pháp:</strong></p>
+              <ul>
+                <li>Đại từ quan hệ "which" thường thay thế cho danh từ/cụm danh từ đứng ngay trước dấu phẩy</li>
+                <li>Ở đây: "a different list" + ", which..." → which = a different list</li>
+              </ul>
+              <p>💡 <strong>Mẹo:</strong> Thử thay "which" bằng từng đáp án: "a different list is made up by the WMO's Typhoon Committee" → nghĩa hoàn toàn hợp lý!</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Question 3 -->
+        <div class="question-item" data-question="p4q3" data-correct="B">
+          <p class="question-text"><strong>3.</strong> What is the wind speed of a cyclone?</p>
+          <ul class="options-list">
+            <li class="option-item">
+              <input type="radio" name="p4q3" id="p4q3a" value="A">
+              <label for="p4q3a">A. 50 kph</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p4q3" id="p4q3b" value="B">
+              <label for="p4q3b">B. 60 kph or more</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p4q3" id="p4q3c" value="C">
+              <label for="p4q3c">C. 70 kph</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p4q3" id="p4q3d" value="D">
+              <label for="p4q3d">D. 80 kph</label>
+            </li>
+          </ul>
+          <div class="explanation-box" id="exp-p4q3">
+            <p class="explanation-box__title">Giải thích:</p>
+            <div class="explanation-box__content">
+              <p><strong>Đáp án B</strong> - Tốc độ gió của bão nhiệt đới là 60 kph hoặc hơn.</p>
+              <p>📌 <strong>Bằng chứng trong bài:</strong></p>
+              <p>Đoạn 1: "They have wind speeds of <strong>60 kph or more</strong>."</p>
+              <p>💡 <strong>Mẹo:</strong> Đây là câu hỏi chi tiết (stated detail) - chỉ cần tìm đúng thông tin trong bài và chọn đáp án khớp nhất.</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Question 4 -->
+        <div class="question-item" data-question="p4q4" data-correct="D">
+          <p class="question-text"><strong>4.</strong> Which of the following letters are NOT used to name hurricanes?</p>
+          <ul class="options-list">
+            <li class="option-item">
+              <input type="radio" name="p4q4" id="p4q4a" value="A">
+              <label for="p4q4a">A. D</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p4q4" id="p4q4b" value="B">
+              <label for="p4q4b">B. T</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p4q4" id="p4q4c" value="C">
+              <label for="p4q4c">C. M</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p4q4" id="p4q4d" value="D">
+              <label for="p4q4d">D. Q</label>
+            </li>
+          </ul>
+          <div class="explanation-box" id="exp-p4q4">
+            <p class="explanation-box__title">Giải thích:</p>
+            <div class="explanation-box__content">
+              <p><strong>Đáp án D</strong> - Chữ Q KHÔNG được dùng để đặt tên bão.</p>
+              <p>📌 <strong>Bằng chứng trong bài:</strong></p>
+              <p>Đoạn 3: "The name lists do not include names beginning with the letters <strong>Q, U, X, Y and Z</strong>."</p>
+              <p>📌 <strong>Kiểm tra các đáp án:</strong></p>
+              <ul>
+                <li>D, T, M → KHÔNG nằm trong danh sách bị loại → vẫn được dùng</li>
+                <li><strong>Q</strong> → nằm trong danh sách bị loại → KHÔNG được dùng</li>
+              </ul>
+              <p>💡 <strong>Lý do:</strong> Không có nhiều tên bắt đầu bằng các chữ Q, U, X, Y, Z.</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Question 5 -->
+        <div class="question-item" data-question="p4q5" data-correct="B">
+          <p class="question-text"><strong>5.</strong> What does the word "discover" in paragraph 2 mean?</p>
+          <ul class="options-list">
+            <li class="option-item">
+              <input type="radio" name="p4q5" id="p4q5a" value="A">
+              <label for="p4q5a">A. look for</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p4q5" id="p4q5b" value="B">
+              <label for="p4q5b">B. find out</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p4q5" id="p4q5c" value="C">
+              <label for="p4q5c">C. look at</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p4q5" id="p4q5d" value="D">
+              <label for="p4q5d">D. take off</label>
+            </li>
+          </ul>
+          <div class="explanation-box" id="exp-p4q5">
+            <p class="explanation-box__title">Giải thích:</p>
+            <div class="explanation-box__content">
+              <p><strong>Đáp án B</strong> - "discover" = "find out" (phát hiện ra)</p>
+              <p>📌 <strong>Ngữ cảnh:</strong></p>
+              <p>"When meteorologists <strong>discover</strong> a hurricane, they give it a name."</p>
+              <p>→ Khi các nhà khí tượng học <strong>phát hiện</strong> ra một cơn bão, họ đặt tên cho nó.</p>
+              <p>📌 <strong>Từ vựng:</strong></p>
+              <ul>
+                <li><strong>discover = find out:</strong> phát hiện, tìm ra</li>
+                <li><strong>look for:</strong> tìm kiếm (đang tìm, chưa thấy)</li>
+                <li><strong>look at:</strong> nhìn vào</li>
+                <li><strong>take off:</strong> cất cánh, cởi (áo)</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div style="margin-top: var(--spacing-lg); display: flex; gap: var(--spacing-sm);">
+        <button class="btn-check" onclick="checkPassage4()">Kiểm Tra Bài 4</button>
+        <button class="btn-reset" onclick="resetPassage4()">Làm Lại</button>
+      </div>
+
+      <div id="passage4-result" style="margin-top: var(--spacing-md); display: none;"></div>
+    </section>
+
+    <!-- SECTION: Reading Passage 5 - Travel Advice -->
+    <section id="passage-5" class="reading-section">
+      <h2 class="section-title">
+        <span>📖</span> Bài Đọc 5: Travel Advice (Lời Khuyên Du Lịch)
+      </h2>
+
+      <div class="tip-box">
+        <p class="tip-box__title">📝 Từ vựng quan trọng:</p>
+        <ul>
+          <li><strong>fluctuate:</strong> dao động, biến động</li>
+          <li><strong>peak holiday times:</strong> mùa cao điểm du lịch</li>
+          <li><strong>departure:</strong> sự khởi hành</li>
+          <li><strong>itinerary:</strong> lịch trình</li>
+          <li><strong>prominent:</strong> nổi bật, dễ thấy</li>
+        </ul>
+      </div>
+
+      <!-- Reading Passage -->
+      <div class="passage-box">
+        <p>The price of holidays can fluctuate a great deal throughout the year, so you can save a lot if you are flexible with your travel dates and avoid peak holiday times. It can be also cheaper if you book well in advance. Before your departure, make sure you get as much information about your destination as you can. Find out if you require any special visas or permits to travel there.</p>
+
+        <p>Think about spending money as well. Will you be able to access your own money easily enough or will you need to take cash with you? Think about eating larger lunches and smaller evening meals to help your money go further, as lunch is generally cheaper. Make sure that you keep sufficient identification with you at all times.</p>
+
+        <p>It may also help to email a copy of your passport details to yourself, in case <strong>it</strong> is lost or stolen. Label your suitcases clearly so that they can be easily identified as yours. It can be useful to store a copy of your itinerary in a prominent place in your suitcase so that the airline will know where to find you if your luggage gets lost.</p>
+
+        <p>Be sure to pack any medication or other essential items in your hand luggage. If your flight is delayed, or your luggage is lost, these can be difficult to obtain in an airport or foreign country.</p>
+      </div>
+
+      <!-- Questions -->
+      <div id="passage5-questions">
+        <!-- Question 1 -->
+        <div class="question-item" data-question="p5q1" data-correct="B">
+          <p class="question-text"><strong>1.</strong> Which can be the best title for the passage?</p>
+          <ul class="options-list">
+            <li class="option-item">
+              <input type="radio" name="p5q1" id="p5q1a" value="A">
+              <label for="p5q1a">A. Travel procedures</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p5q1" id="p5q1b" value="B">
+              <label for="p5q1b">B. Travel advice</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p5q1" id="p5q1c" value="C">
+              <label for="p5q1c">C. How to adjust travel dates</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p5q1" id="p5q1d" value="D">
+              <label for="p5q1d">D. Protect your luggage</label>
+            </li>
+          </ul>
+          <div class="explanation-box" id="exp-p5q1">
+            <p class="explanation-box__title">Giải thích:</p>
+            <div class="explanation-box__content">
+              <p><strong>Đáp án B</strong> - Tiêu đề phù hợp nhất là "Travel advice" (Lời khuyên du lịch).</p>
+              <p>📌 <strong>Phân tích:</strong></p>
+              <ul>
+                <li>Bài viết đưa ra nhiều lời khuyên khác nhau: đặt vé sớm, tránh mùa cao điểm, mang theo giấy tờ, bảo vệ hành lý...</li>
+                <li>Không chỉ tập trung vào một khía cạnh (thủ tục, lịch trình hay hành lý)</li>
+              </ul>
+              <p>❌ Loại A vì không chỉ nói về thủ tục</p>
+              <p>❌ Loại C vì chỉ là một phần nhỏ của bài</p>
+              <p>❌ Loại D vì chỉ là một trong nhiều lời khuyên</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Question 2 -->
+        <div class="question-item" data-question="p5q2" data-correct="D">
+          <p class="question-text"><strong>2.</strong> Which one of these is NOT advisable according to the passage?</p>
+          <ul class="options-list">
+            <li class="option-item">
+              <input type="radio" name="p5q2" id="p5q2a" value="A">
+              <label for="p5q2a">A. Research your destination</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p5q2" id="p5q2b" value="B">
+              <label for="p5q2b">B. Always bring identification</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p5q2" id="p5q2c" value="C">
+              <label for="p5q2c">C. Apply for visas if necessary</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p5q2" id="p5q2d" value="D">
+              <label for="p5q2d">D. Save money by cutting out dinner</label>
+            </li>
+          </ul>
+          <div class="explanation-box" id="exp-p5q2">
+            <p class="explanation-box__title">Giải thích:</p>
+            <div class="explanation-box__content">
+              <p><strong>Đáp án D</strong> - Bài KHÔNG khuyên "bỏ bữa tối để tiết kiệm".</p>
+              <p>📌 <strong>Kiểm tra từng đáp án:</strong></p>
+              <ul>
+                <li>✅ A đúng: "get as much information about your destination as you can"</li>
+                <li>✅ B đúng: "keep sufficient identification with you at all times"</li>
+                <li>✅ C đúng: "Find out if you require any special visas or permits"</li>
+                <li>❌ D sai: Bài viết nói "eating larger lunches and <strong>smaller</strong> evening meals" (ăn bữa tối nhỏ hơn, KHÔNG PHẢI bỏ bữa tối)</li>
+              </ul>
+              <p>💡 <strong>Lưu ý:</strong> "Smaller meals" ≠ "cutting out dinner". Đây là bẫy thường gặp!</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Question 3 -->
+        <div class="question-item" data-question="p5q3" data-correct="B">
+          <p class="question-text"><strong>3.</strong> According to the passage, your luggage should be ___________.</p>
+          <ul class="options-list">
+            <li class="option-item">
+              <input type="radio" name="p5q3" id="p5q3a" value="A">
+              <label for="p5q3a">A. stored in a safe place</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p5q3" id="p5q3b" value="B">
+              <label for="p5q3b">B. tagged in case of being lost</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p5q3" id="p5q3c" value="C">
+              <label for="p5q3c">C. packed with your passport</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p5q3" id="p5q3d" value="D">
+              <label for="p5q3d">D. painted a bright colour</label>
+            </li>
+          </ul>
+          <div class="explanation-box" id="exp-p5q3">
+            <p class="explanation-box__title">Giải thích:</p>
+            <div class="explanation-box__content">
+              <p><strong>Đáp án B</strong> - Hành lý nên được gắn nhãn phòng trường hợp bị thất lạc.</p>
+              <p>📌 <strong>Bằng chứng trong bài:</strong></p>
+              <p>"<strong>Label your suitcases clearly</strong> so that they can be easily identified as yours... so that the airline will know where to find you <strong>if your luggage gets lost</strong>."</p>
+              <p>📌 <strong>Phân tích:</strong></p>
+              <ul>
+                <li>"tagged" = "labeled" (gắn nhãn)</li>
+                <li>"in case of being lost" = "if your luggage gets lost" (phòng khi bị mất)</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+        <!-- Question 4 -->
+        <div class="question-item" data-question="p5q4" data-correct="C">
+          <p class="question-text"><strong>4.</strong> The underlined word 'it' refers to your ___________.</p>
+          <ul class="options-list">
+            <li class="option-item">
+              <input type="radio" name="p5q4" id="p5q4a" value="A">
+              <label for="p5q4a">A. identification</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p5q4" id="p5q4b" value="B">
+              <label for="p5q4b">B. luggage</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p5q4" id="p5q4c" value="C">
+              <label for="p5q4c">C. passport</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p5q4" id="p5q4d" value="D">
+              <label for="p5q4d">D. flight</label>
+            </li>
+          </ul>
+          <div class="explanation-box" id="exp-p5q4">
+            <p class="explanation-box__title">Giải thích:</p>
+            <div class="explanation-box__content">
+              <p><strong>Đáp án C</strong> - "it" ám chỉ "passport".</p>
+              <p>📌 <strong>Phân tích cấu trúc câu:</strong></p>
+              <p>Câu gốc: "email a copy of your <strong>passport</strong> details to yourself, in case <strong>it</strong> is lost or stolen"</p>
+              <p>📌 <strong>Logic:</strong></p>
+              <ul>
+                <li>Tại sao gửi email bản sao hộ chiếu? → Phòng khi HỘ CHIẾU bị mất hoặc bị đánh cắp</li>
+                <li>Thử thay: "in case your passport is lost or stolen" → Hoàn toàn hợp lý!</li>
+              </ul>
+              <p>💡 <strong>Mẹo:</strong> "it" thường thay cho danh từ gần nhất và phù hợp về nghĩa.</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Question 5 -->
+        <div class="question-item" data-question="p5q5" data-correct="A">
+          <p class="question-text"><strong>5.</strong> It can be inferred from the passage that ___________.</p>
+          <ul class="options-list">
+            <li class="option-item">
+              <input type="radio" name="p5q5" id="p5q5a" value="A">
+              <label for="p5q5a">A. travelling may cost more in peak season</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p5q5" id="p5q5b" value="B">
+              <label for="p5q5b">B. you must always take cash with you</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p5q5" id="p5q5c" value="C">
+              <label for="p5q5c">C. larger lunches cost more than smaller ones</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p5q5" id="p5q5d" value="D">
+              <label for="p5q5d">D. you can't get back your lost luggage overseas</label>
+            </li>
+          </ul>
+          <div class="explanation-box" id="exp-p5q5">
+            <p class="explanation-box__title">Giải thích:</p>
+            <div class="explanation-box__content">
+              <p><strong>Đáp án A</strong> - Có thể suy ra rằng du lịch vào mùa cao điểm sẽ đắt hơn.</p>
+              <p>📌 <strong>Câu hỏi suy luận (inference):</strong></p>
+              <p>Bài viết: "you can save a lot if you... <strong>avoid peak holiday times</strong>"</p>
+              <p>→ Suy ra: Nếu tránh mùa cao điểm thì tiết kiệm được → Du lịch vào mùa cao điểm sẽ đắt hơn</p>
+              <p>📌 <strong>Loại các đáp án khác:</strong></p>
+              <ul>
+                <li>❌ B: Bài hỏi "Will you be able to access your own money" → không bắt buộc mang tiền mặt</li>
+                <li>❌ C: Ngược lại! Bài nói "lunch is generally <strong>cheaper</strong>" (bữa trưa rẻ hơn)</li>
+                <li>❌ D: Bài nói về việc gắn nhãn để tìm lại hành lý, không nói không thể lấy lại</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div style="margin-top: var(--spacing-lg); display: flex; gap: var(--spacing-sm);">
+        <button class="btn-check" onclick="checkPassage5()">Kiểm Tra Bài 5</button>
+        <button class="btn-reset" onclick="resetPassage5()">Làm Lại</button>
+      </div>
+
+      <div id="passage5-result" style="margin-top: var(--spacing-md); display: none;"></div>
+    </section>
+
+    <!-- SECTION: Reading Passage 6 - Solar Energy -->
+    <section id="passage-6" class="reading-section">
+      <h2 class="section-title">
+        <span>📖</span> Bài Đọc 6: Solar Energy (Năng Lượng Mặt Trời)
+      </h2>
+
+      <div class="tip-box">
+        <p class="tip-box__title">📝 Từ vựng quan trọng:</p>
+        <ul>
+          <li><strong>solar energy:</strong> năng lượng mặt trời</li>
+          <li><strong>natural resources:</strong> tài nguyên thiên nhiên</li>
+          <li><strong>solar panels:</strong> tấm pin mặt trời</li>
+          <li><strong>nuclear power:</strong> năng lượng hạt nhân</li>
+          <li><strong>population:</strong> dân số</li>
+        </ul>
+      </div>
+
+      <!-- Reading Passage -->
+      <div class="passage-box">
+        <p>Are you looking for a cheap, clean, effective source of power that doesn't cause pollution or waste natural resources? Look no further than solar energy from our sun. At present, most of our electricity comes from the use of coal and gas, oil or nuclear power. This power could be provided by the sun.</p>
+
+        <p>One percent of the solar energy that reaches the earth is enough to provide power for the total population. Many countries have already used solar energy. Solar panels are placed on the roofs of our house and the Sun's energy is used to heat water. The energy can be stored for a number of days, so on cloudy days you can use solar energy, too.</p>
+
+        <p>Sweden has an advanced solar energy program. <strong>There</strong>, all buildings will be heated by solar energy and cars will use solar energy instead of gas by the year 2015.</p>
+      </div>
+
+      <!-- Questions -->
+      <div id="passage6-questions">
+        <!-- Question 1 -->
+        <div class="question-item" data-question="p6q1" data-correct="B">
+          <p class="question-text"><strong>1.</strong> What is the main idea of the passage?</p>
+          <ul class="options-list">
+            <li class="option-item">
+              <input type="radio" name="p6q1" id="p6q1a" value="A">
+              <label for="p6q1a">A. Energy</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p6q1" id="p6q1b" value="B">
+              <label for="p6q1b">B. Solar energy</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p6q1" id="p6q1c" value="C">
+              <label for="p6q1c">C. Pollution</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p6q1" id="p6q1d" value="D">
+              <label for="p6q1d">D. Nuclear power</label>
+            </li>
+          </ul>
+          <div class="explanation-box" id="exp-p6q1">
+            <p class="explanation-box__title">Giải thích:</p>
+            <div class="explanation-box__content">
+              <p><strong>Đáp án B</strong> - Ý chính của bài là "Năng lượng mặt trời".</p>
+              <p>📌 <strong>Phân tích:</strong></p>
+              <ul>
+                <li>Đoạn 1: Giới thiệu năng lượng mặt trời như nguồn năng lượng sạch</li>
+                <li>Đoạn 2: Cách sử dụng và lưu trữ năng lượng mặt trời</li>
+                <li>Đoạn 3: Ví dụ về chương trình năng lượng mặt trời ở Thụy Điển</li>
+              </ul>
+              <p>❌ Loại A vì quá chung chung</p>
+              <p>❌ Loại C, D vì chỉ được nhắc qua, không phải chủ đề chính</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Question 2 -->
+        <div class="question-item" data-question="p6q2" data-correct="C">
+          <p class="question-text"><strong>2.</strong> How much solar energy is enough for the world's population?</p>
+          <ul class="options-list">
+            <li class="option-item">
+              <input type="radio" name="p6q2" id="p6q2a" value="A">
+              <label for="p6q2a">A. Two percent of the solar energy</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p6q2" id="p6q2b" value="B">
+              <label for="p6q2b">B. One-third of the solar energy</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p6q2" id="p6q2c" value="C">
+              <label for="p6q2c">C. One percent of the solar energy</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p6q2" id="p6q2d" value="D">
+              <label for="p6q2d">D. One-fifth of the solar energy</label>
+            </li>
+          </ul>
+          <div class="explanation-box" id="exp-p6q2">
+            <p class="explanation-box__title">Giải thích:</p>
+            <div class="explanation-box__content">
+              <p><strong>Đáp án C</strong> - 1% năng lượng mặt trời là đủ.</p>
+              <p>📌 <strong>Bằng chứng trong bài:</strong></p>
+              <p>"<strong>One percent</strong> of the solar energy that reaches the earth is enough to provide power for the <strong>total population</strong>."</p>
+              <p>💡 Đây là câu hỏi chi tiết - chỉ cần tìm đúng con số trong bài.</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Question 3 -->
+        <div class="question-item" data-question="p6q3" data-correct="B">
+          <p class="question-text"><strong>3.</strong> Where are solar panels installed?</p>
+          <ul class="options-list">
+            <li class="option-item">
+              <input type="radio" name="p6q3" id="p6q3a" value="A">
+              <label for="p6q3a">A. They are placed in the garden of the house</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p6q3" id="p6q3b" value="B">
+              <label for="p6q3b">B. They are placed on the roofs of the house</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p6q3" id="p6q3c" value="C">
+              <label for="p6q3c">C. They are placed on the floor of the house</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p6q3" id="p6q3d" value="D">
+              <label for="p6q3d">D. They are placed on the branches of trees</label>
+            </li>
+          </ul>
+          <div class="explanation-box" id="exp-p6q3">
+            <p class="explanation-box__title">Giải thích:</p>
+            <div class="explanation-box__content">
+              <p><strong>Đáp án B</strong> - Tấm pin mặt trời được đặt trên mái nhà.</p>
+              <p>📌 <strong>Bằng chứng trong bài:</strong></p>
+              <p>"Solar panels are placed <strong>on the roofs</strong> of our house."</p>
+              <p>💡 Đây là vị trí hợp lý vì mái nhà nhận được nhiều ánh sáng mặt trời nhất.</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Question 4 -->
+        <div class="question-item" data-question="p6q4" data-correct="D">
+          <p class="question-text"><strong>4.</strong> What is the word "placed" closest in meaning to?</p>
+          <ul class="options-list">
+            <li class="option-item">
+              <input type="radio" name="p6q4" id="p6q4a" value="A">
+              <label for="p6q4a">A. put on</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p6q4" id="p6q4b" value="B">
+              <label for="p6q4b">B. installed</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p6q4" id="p6q4c" value="C">
+              <label for="p6q4c">C. put</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p6q4" id="p6q4d" value="D">
+              <label for="p6q4d">D. B & C (installed / put)</label>
+            </li>
+          </ul>
+          <div class="explanation-box" id="exp-p6q4">
+            <p class="explanation-box__title">Giải thích:</p>
+            <div class="explanation-box__content">
+              <p><strong>Đáp án D</strong> - "placed" có nghĩa tương đương với cả "installed" và "put".</p>
+              <p>📌 <strong>Từ vựng:</strong></p>
+              <ul>
+                <li><strong>placed = put = installed:</strong> đặt, lắp đặt</li>
+                <li><strong>put on:</strong> mặc (quần áo), bật (đèn) - nghĩa khác</li>
+              </ul>
+              <p>💡 Khi có đáp án kết hợp "B & C", cần kiểm tra cả hai xem có đúng không.</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Question 5 -->
+        <div class="question-item" data-question="p6q5" data-correct="B">
+          <p class="question-text"><strong>5.</strong> What does the word "There" refer to?</p>
+          <ul class="options-list">
+            <li class="option-item">
+              <input type="radio" name="p6q5" id="p6q5a" value="A">
+              <label for="p6q5a">A. Many countries</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p6q5" id="p6q5b" value="B">
+              <label for="p6q5b">B. Sweden</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p6q5" id="p6q5c" value="C">
+              <label for="p6q5c">C. On the roofs</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p6q5" id="p6q5d" value="D">
+              <label for="p6q5d">D. The sun</label>
+            </li>
+          </ul>
+          <div class="explanation-box" id="exp-p6q5">
+            <p class="explanation-box__title">Giải thích:</p>
+            <div class="explanation-box__content">
+              <p><strong>Đáp án B</strong> - "There" ám chỉ "Sweden".</p>
+              <p>📌 <strong>Phân tích cấu trúc:</strong></p>
+              <p>"<strong>Sweden</strong> has an advanced solar energy program. <strong>There</strong>, all buildings will be heated by solar energy..."</p>
+              <p>📌 <strong>Logic:</strong></p>
+              <ul>
+                <li>"There" là trạng từ chỉ nơi chốn, thay thế cho địa điểm vừa nhắc ở câu trước</li>
+                <li>Câu trước nhắc đến Sweden → There = Sweden</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div style="margin-top: var(--spacing-lg); display: flex; gap: var(--spacing-sm);">
+        <button class="btn-check" onclick="checkPassage6()">Kiểm Tra Bài 6</button>
+        <button class="btn-reset" onclick="resetPassage6()">Làm Lại</button>
+      </div>
+
+      <div id="passage6-result" style="margin-top: var(--spacing-md); display: none;"></div>
+    </section>
+
+    <!-- SECTION: Reading Passage 7 - Long Dinh Mat Weaving -->
+    <section id="passage-7" class="reading-section">
+      <h2 class="section-title">
+        <span>📖</span> Bài Đọc 7: Long Dinh Mat Weaving (Nghề Dệt Chiếu Long Đình)
+      </h2>
+
+      <div class="tip-box">
+        <p class="tip-box__title">📝 Từ vựng quan trọng:</p>
+        <ul>
+          <li><strong>traditional craft:</strong> nghề truyền thống</li>
+          <li><strong>sedge mats:</strong> chiếu cói</li>
+          <li><strong>immigrants:</strong> người nhập cư</li>
+          <li><strong>water hyacinth:</strong> lục bình, bèo tây</li>
+          <li><strong>living standards:</strong> mức sống</li>
+        </ul>
+      </div>
+
+      <!-- Reading Passage -->
+      <div class="passage-box">
+        <p>In the Mekong Delta, Long Dinh village of Tien Giang province is famous for its traditional craft of weaving flowered mats. The mat's high quality makes them popular domestically, and they are also exported to markets worldwide including Korea, Japan and America.</p>
+
+        <p>In spite of its well-established reputation for this traditional craft, mat weaving only started here some 50 years ago. It was first introduced by immigrants from Kim Son, a famous mat weaving village in the northern province of Ninh Binh. However, the technique of weaving sedge mats in Long Dinh, as compared with other places in the South, is somewhat different. Long Dinh branded mats are thicker and have more attractive colours and patterns.</p>
+
+        <p>Weaving sedge mats is similar to growing rice. Long Dinh mat production mainly occurs during the dry season, from January to April. Weavers have to work their hardest in May and June, otherwise, when the rainy season starts in July, they will have to put off finishing their products till the next dry season. No matter how much work it requires, Long Dinh mat producers stick with this occupation, as it brings a higher income than growing rice.</p>
+
+        <p>This trade provides employment for thousands of local labourers. At present, nearly 1,000 households in Long Dinh village live on weaving mats. To better meet market demands, Long Dinh mat weavers have created more products in addition to the traditional sedge mats. Particularly, they are producing a new type of mat made from the dried stalks of water hyacinth, a common material in the Mekong Delta.</p>
+
+        <p>Thanks to the planning and further investment, the mat weaving occupation has indeed brought in more income for local residents. Their living standards have improved considerably, resulting in better conditions for the whole village.</p>
+      </div>
+
+      <!-- Questions -->
+      <div id="passage7-questions">
+        <!-- Question 1 -->
+        <div class="question-item" data-question="p7q1" data-correct="A">
+          <p class="question-text"><strong>1.</strong> In order to meet market demands, artisans in Long Dinh __________.</p>
+          <ul class="options-list">
+            <li class="option-item">
+              <input type="radio" name="p7q1" id="p7q1a" value="A">
+              <label for="p7q1a">A. try to produce various types of products</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p7q1" id="p7q1b" value="B">
+              <label for="p7q1b">B. stop producing the traditional sedge mats</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p7q1" id="p7q1c" value="C">
+              <label for="p7q1c">C. produce new products from rare material</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p7q1" id="p7q1d" value="D">
+              <label for="p7q1d">D. employ thousands of local labourers</label>
+            </li>
+          </ul>
+          <div class="explanation-box" id="exp-p7q1">
+            <p class="explanation-box__title">Giải thích:</p>
+            <div class="explanation-box__content">
+              <p><strong>Đáp án A</strong> - Để đáp ứng nhu cầu thị trường, họ sản xuất nhiều loại sản phẩm.</p>
+              <p>📌 <strong>Bằng chứng trong bài:</strong></p>
+              <p>"To better meet market demands, Long Dinh mat weavers have <strong>created more products</strong> in addition to the traditional sedge mats."</p>
+              <p>📌 <strong>Loại các đáp án khác:</strong></p>
+              <ul>
+                <li>❌ B: Họ vẫn làm chiếu truyền thống, chỉ thêm sản phẩm mới</li>
+                <li>❌ C: Lục bình là nguyên liệu phổ biến (common), không phải hiếm (rare)</li>
+                <li>❌ D: Đây là kết quả, không phải cách đáp ứng nhu cầu</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+        <!-- Question 2 -->
+        <div class="question-item" data-question="p7q2" data-correct="C">
+          <p class="question-text"><strong>2.</strong> We can infer from the sentence "Weaving sedge mats is similar to growing rice" that __________.</p>
+          <ul class="options-list">
+            <li class="option-item">
+              <input type="radio" name="p7q2" id="p7q2a" value="A">
+              <label for="p7q2a">A. both bring similar income</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p7q2" id="p7q2b" value="B">
+              <label for="p7q2b">B. both occur at the same time</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p7q2" id="p7q2c" value="C">
+              <label for="p7q2c">C. both depend on weather conditions</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p7q2" id="p7q2d" value="D">
+              <label for="p7q2d">D. both occur on the same land</label>
+            </li>
+          </ul>
+          <div class="explanation-box" id="exp-p7q2">
+            <p class="explanation-box__title">Giải thích:</p>
+            <div class="explanation-box__content">
+              <p><strong>Đáp án C</strong> - Cả hai đều phụ thuộc vào điều kiện thời tiết.</p>
+              <p>📌 <strong>Phân tích ngữ cảnh:</strong></p>
+              <p>Câu tiếp theo giải thích: "Long Dinh mat production mainly occurs during the <strong>dry season</strong>... when the <strong>rainy season</strong> starts in July, they will have to put off..."</p>
+              <p>→ Việc dệt chiếu phụ thuộc vào mùa khô/mưa = phụ thuộc thời tiết</p>
+              <p>→ Trồng lúa cũng phụ thuộc thời tiết</p>
+              <p>📌 <strong>Loại các đáp án khác:</strong></p>
+              <ul>
+                <li>❌ A: Bài nói dệt chiếu thu nhập CAO HƠN trồng lúa</li>
+                <li>❌ B: Không có thông tin về thời gian giống nhau</li>
+                <li>❌ D: Không có thông tin về đất canh tác</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+        <!-- Question 3 -->
+        <div class="question-item" data-question="p7q3" data-correct="B">
+          <p class="question-text"><strong>3.</strong> Despite difficulties, people in Long Dinh try to follow the craft because __________.</p>
+          <ul class="options-list">
+            <li class="option-item">
+              <input type="radio" name="p7q3" id="p7q3a" value="A">
+              <label for="p7q3a">A. they can make the techniques of weaving different</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p7q3" id="p7q3b" value="B">
+              <label for="p7q3b">B. they can earn more money than growing rice</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p7q3" id="p7q3c" value="C">
+              <label for="p7q3c">C. they can have jobs in the rainy months</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p7q3" id="p7q3d" value="D">
+              <label for="p7q3d">D. they can go to Korea, Japan and America</label>
+            </li>
+          </ul>
+          <div class="explanation-box" id="exp-p7q3">
+            <p class="explanation-box__title">Giải thích:</p>
+            <div class="explanation-box__content">
+              <p><strong>Đáp án B</strong> - Họ kiếm được nhiều tiền hơn so với trồng lúa.</p>
+              <p>📌 <strong>Bằng chứng trong bài:</strong></p>
+              <p>"No matter how much work it requires, Long Dinh mat producers stick with this occupation, as it brings a <strong>higher income than growing rice</strong>."</p>
+              <p>💡 Từ khóa "stick with" (bám trụ) và "higher income" (thu nhập cao hơn) cho thấy lý do họ theo nghề.</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Question 4 -->
+        <div class="question-item" data-question="p7q4" data-correct="A">
+          <p class="question-text"><strong>4.</strong> We can infer from the passage that __________.</p>
+          <ul class="options-list">
+            <li class="option-item">
+              <input type="radio" name="p7q4" id="p7q4a" value="A">
+              <label for="p7q4a">A. the craft contributes much to the village economy</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p7q4" id="p7q4b" value="B">
+              <label for="p7q4b">B. most of the households in Long Dinh village live on weaving mats</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p7q4" id="p7q4c" value="C">
+              <label for="p7q4c">C. the new technique makes labourers work in the dry season</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p7q4" id="p7q4d" value="D">
+              <label for="p7q4d">D. Long Dinh mat production is only well-known in foreign markets</label>
+            </li>
+          </ul>
+          <div class="explanation-box" id="exp-p7q4">
+            <p class="explanation-box__title">Giải thích:</p>
+            <div class="explanation-box__content">
+              <p><strong>Đáp án A</strong> - Nghề này đóng góp nhiều cho kinh tế làng.</p>
+              <p>📌 <strong>Bằng chứng trong bài:</strong></p>
+              <ul>
+                <li>"provides employment for <strong>thousands of local labourers</strong>"</li>
+                <li>"brought in <strong>more income</strong> for local residents"</li>
+                <li>"<strong>living standards have improved</strong> considerably"</li>
+              </ul>
+              <p>📌 <strong>Loại các đáp án khác:</strong></p>
+              <ul>
+                <li>❌ B: Chỉ "nearly 1,000 households" (gần 1000 hộ), không phải "most" (đa số)</li>
+                <li>❌ C: Họ làm vào mùa khô vì thời tiết, không phải vì kỹ thuật mới</li>
+                <li>❌ D: Bài nói "popular domestically" + xuất khẩu → nổi tiếng cả trong và ngoài nước</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+        <!-- Question 5 -->
+        <div class="question-item" data-question="p7q5" data-correct="D">
+          <p class="question-text"><strong>5.</strong> All of the following are true about the craft in Long Dinh EXCEPT that __________.</p>
+          <ul class="options-list">
+            <li class="option-item">
+              <input type="radio" name="p7q5" id="p7q5a" value="A">
+              <label for="p7q5a">A. the techniques are a little bit different from those in other regions</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p7q5" id="p7q5b" value="B">
+              <label for="p7q5b">B. the mats have more attractive colours and designs</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p7q5" id="p7q5c" value="C">
+              <label for="p7q5c">C. it has the origin from Kim Son, Ninh Binh</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p7q5" id="p7q5d" value="D">
+              <label for="p7q5d">D. it has had the reputation for more than 50 years</label>
+            </li>
+          </ul>
+          <div class="explanation-box" id="exp-p7q5">
+            <p class="explanation-box__title">Giải thích:</p>
+            <div class="explanation-box__content">
+              <p><strong>Đáp án D</strong> - KHÔNG đúng vì nghề này mới có khoảng 50 năm (không phải hơn 50 năm).</p>
+              <p>📌 <strong>Kiểm tra từng đáp án:</strong></p>
+              <ul>
+                <li>✅ A đúng: "the technique... is <strong>somewhat different</strong>"</li>
+                <li>✅ B đúng: "more attractive <strong>colours and patterns</strong>"</li>
+                <li>✅ C đúng: "first introduced by immigrants from <strong>Kim Son... Ninh Binh</strong>"</li>
+                <li>❌ D sai: Bài viết nói "mat weaving only started here <strong>some 50 years ago</strong>" (khoảng 50 năm), không phải "more than 50 years" (hơn 50 năm)</li>
+              </ul>
+              <p>💡 <strong>Lưu ý:</strong> "some 50 years" ≈ khoảng 50 năm, khác với "more than 50 years" = hơn 50 năm</p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div style="margin-top: var(--spacing-lg); display: flex; gap: var(--spacing-sm);">
+        <button class="btn-check" onclick="checkPassage7()">Kiểm Tra Bài 7</button>
+        <button class="btn-reset" onclick="resetPassage7()">Làm Lại</button>
+      </div>
+
+      <div id="passage7-result" style="margin-top: var(--spacing-md); display: none;"></div>
+    </section>
+
+    <!-- SECTION: Reading Passage 8 - Big City Life -->
+    <section id="passage-8" class="reading-section">
+      <h2 class="section-title">
+        <span>📖</span> Bài Đọc 8: Big City Life (Cuộc Sống Thành Phố Lớn)
+      </h2>
+
+      <div class="tip-box">
+        <p class="tip-box__title">📝 Từ vựng quan trọng:</p>
+        <ul>
+          <li><strong>face-paced:</strong> nhịp sống nhanh</li>
+          <li><strong>cost of living:</strong> chi phí sinh hoạt</li>
+          <li><strong>cost an arm and a leg:</strong> rất đắt đỏ</li>
+          <li><strong>overwhelming:</strong> quá sức chịu đựng</li>
+          <li><strong>premature deaths:</strong> chết yểu</li>
+        </ul>
+      </div>
+
+      <!-- Reading Passage -->
+      <div class="passage-box">
+        <p>Life in the big city is face-paced, fun and exciting. There are countless job opportunities and activities to occupy your time. However, with the good, there also comes the bad. Although the big city has more job opportunities; there are also more people competing for a single job. This can make your job search frustrating. Oddly enough, you will see hundreds, if not thousands of jobs available each week, but you still might remain unemployed, especially when the economy is down.</p>
+
+        <p>In addition, the cost of living is typically higher in big cities, and it can <strong>cost you an arm and a leg</strong> for a small apartment in a decent area of the city, not to mention other costs to fulfill your basic demands. Diversity is a good thing, but the amount of people can be a bit overwhelming if you are not accustomed to it. There will always be crowds and always be people around.</p>
+
+        <p>Moreover, traffic can be a nightmare in the big city. It can get so bad that it can turn you into an evil person. If you hate driving in traffic, then the big city life is not for you. Heavy traffic also contributes to the pollution, which is one of the biggest disadvantages of living in the city. Obviously, our health is affected most with certain diseases relating to respiratory system and other body parts. A lot of premature deaths are supposed to be the result of long-term exposure to small particles.</p>
+
+        <p>Most importantly, there is always more crime in a big city, causing you second case your decision for living in a big city. You are much more likely to be a victim of a crime living in a big city than in a small town.</p>
+      </div>
+
+      <!-- Questions -->
+      <div id="passage8-questions">
+        <!-- Question 1 -->
+        <div class="question-item" data-question="p8q1" data-correct="C">
+          <p class="question-text"><strong>1.</strong> According to the passage, some good things of living in the city are __________.</p>
+          <ul class="options-list">
+            <li class="option-item">
+              <input type="radio" name="p8q1" id="p8q1a" value="A">
+              <label for="p8q1a">A. excellent educational system and recreational activities</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p8q1" id="p8q1b" value="B">
+              <label for="p8q1b">B. excellent educational system and countless job opportunities</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p8q1" id="p8q1c" value="C">
+              <label for="p8q1c">C. countless job opportunities and activities to occupy your time</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p8q1" id="p8q1d" value="D">
+              <label for="p8q1d">D. a lot of kinds of entertainment and shopping centers</label>
+            </li>
+          </ul>
+          <div class="explanation-box" id="exp-p8q1">
+            <p class="explanation-box__title">Giải thích:</p>
+            <div class="explanation-box__content">
+              <p><strong>Đáp án C</strong> - Điều tốt là "cơ hội việc làm và các hoạt động".</p>
+              <p>📌 <strong>Bằng chứng trong bài:</strong></p>
+              <p>Đoạn 1: "There are <strong>countless job opportunities</strong> and <strong>activities to occupy your time</strong>."</p>
+              <p>💡 Câu hỏi yêu cầu tìm thông tin trực tiếp trong bài, không được suy luận thêm.</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Question 2 -->
+        <div class="question-item" data-question="p8q2" data-correct="A">
+          <p class="question-text"><strong>2.</strong> While big cities have more job opportunities, it also gives __________.</p>
+          <ul class="options-list">
+            <li class="option-item">
+              <input type="radio" name="p8q2" id="p8q2a" value="A">
+              <label for="p8q2a">A. more competition for a single job</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p8q2" id="p8q2b" value="B">
+              <label for="p8q2b">B. higher salary</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p8q2" id="p8q2c" value="C">
+              <label for="p8q2c">C. growing economic crisis</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p8q2" id="p8q2d" value="D">
+              <label for="p8q2d">D. greater chances of being unemployed</label>
+            </li>
+          </ul>
+          <div class="explanation-box" id="exp-p8q2">
+            <p class="explanation-box__title">Giải thích:</p>
+            <div class="explanation-box__content">
+              <p><strong>Đáp án A</strong> - Thành phố lớn cũng có nhiều cạnh tranh cho một công việc.</p>
+              <p>📌 <strong>Bằng chứng trong bài:</strong></p>
+              <p>"Although the big city has more job opportunities; there are also <strong>more people competing for a single job</strong>."</p>
+              <p>💡 Câu hỏi dùng từ "while" giống với "although" trong bài - đây là manh mối tìm câu trả lời.</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Question 3 -->
+        <div class="question-item" data-question="p8q3" data-correct="D">
+          <p class="question-text"><strong>3.</strong> What does the phrase "cost an arm and a leg" mean?</p>
+          <ul class="options-list">
+            <li class="option-item">
+              <input type="radio" name="p8q3" id="p8q3a" value="A">
+              <label for="p8q3a">A. your legs and arms have good value</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p8q3" id="p8q3b" value="B">
+              <label for="p8q3b">B. cost a small amount of money</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p8q3" id="p8q3c" value="C">
+              <label for="p8q3c">C. you must work hard to earn money</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p8q3" id="p8q3d" value="D">
+              <label for="p8q3d">D. cost a lot of money</label>
+            </li>
+          </ul>
+          <div class="explanation-box" id="exp-p8q3">
+            <p class="explanation-box__title">Giải thích:</p>
+            <div class="explanation-box__content">
+              <p><strong>Đáp án D</strong> - "cost an arm and a leg" = rất đắt đỏ.</p>
+              <p>📌 <strong>Đây là thành ngữ (idiom):</strong></p>
+              <ul>
+                <li><strong>cost an arm and a leg:</strong> tốn rất nhiều tiền, đắt cắt cổ</li>
+                <li>Nghĩa đen: tốn cả tay và chân → quý giá như bộ phận cơ thể</li>
+              </ul>
+              <p>📌 <strong>Ngữ cảnh:</strong></p>
+              <p>"the cost of living is typically <strong>higher</strong> in big cities, and it can cost you an arm and a leg for a <strong>small</strong> apartment"</p>
+              <p>→ Căn hộ nhỏ mà đắt = rất tốn kém</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Question 4 -->
+        <div class="question-item" data-question="p8q4" data-correct="C">
+          <p class="question-text"><strong>4.</strong> According to the paragraph, city is not a perfect place for __________.</p>
+          <ul class="options-list">
+            <li class="option-item">
+              <input type="radio" name="p8q4" id="p8q4a" value="A">
+              <label for="p8q4a">A. extroverted people</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p8q4" id="p8q4b" value="B">
+              <label for="p8q4b">B. introverted people</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p8q4" id="p8q4c" value="C">
+              <label for="p8q4c">C. people who hate driving in traffic</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p8q4" id="p8q4d" value="D">
+              <label for="p8q4d">D. people who prefer a busy life</label>
+            </li>
+          </ul>
+          <div class="explanation-box" id="exp-p8q4">
+            <p class="explanation-box__title">Giải thích:</p>
+            <div class="explanation-box__content">
+              <p><strong>Đáp án C</strong> - Thành phố không phù hợp với người ghét lái xe trong giao thông.</p>
+              <p>📌 <strong>Bằng chứng trong bài:</strong></p>
+              <p>"If you <strong>hate driving in traffic</strong>, then the big city life is <strong>not for you</strong>."</p>
+              <p>💡 Câu này nói rõ ràng ai không nên sống ở thành phố lớn.</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Question 5 -->
+        <div class="question-item" data-question="p8q5" data-correct="D">
+          <p class="question-text"><strong>5.</strong> Which of the following sentences is NOT true?</p>
+          <ul class="options-list">
+            <li class="option-item">
+              <input type="radio" name="p8q5" id="p8q5a" value="A">
+              <label for="p8q5a">A. Pollution causes health problems.</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p8q5" id="p8q5b" value="B">
+              <label for="p8q5b">B. Cities are always crowded.</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p8q5" id="p8q5c" value="C">
+              <label for="p8q5c">C. It costs a lot of money to live in a big city.</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p8q5" id="p8q5d" value="D">
+              <label for="p8q5d">D. Crime is not a serious problem in big cities.</label>
+            </li>
+          </ul>
+          <div class="explanation-box" id="exp-p8q5">
+            <p class="explanation-box__title">Giải thích:</p>
+            <div class="explanation-box__content">
+              <p><strong>Đáp án D</strong> - Câu này KHÔNG đúng.</p>
+              <p>📌 <strong>Kiểm tra từng đáp án:</strong></p>
+              <ul>
+                <li>✅ A đúng: "our health is affected... diseases relating to respiratory system"</li>
+                <li>✅ B đúng: "There will always be <strong>crowds</strong> and always be people around"</li>
+                <li>✅ C đúng: "the cost of living is typically <strong>higher</strong> in big cities"</li>
+                <li>❌ D sai: Bài viết nói "there is always <strong>more crime</strong> in a big city" → Tội phạm LÀ vấn đề nghiêm trọng</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div style="margin-top: var(--spacing-lg); display: flex; gap: var(--spacing-sm);">
+        <button class="btn-check" onclick="checkPassage8()">Kiểm Tra Bài 8</button>
+        <button class="btn-reset" onclick="resetPassage8()">Làm Lại</button>
+      </div>
+
+      <div id="passage8-result" style="margin-top: var(--spacing-md); display: none;"></div>
+    </section>
+
+    <!-- SECTION: Reading Passage 9 - Orbis Eye Hospital -->
+    <section id="passage-9" class="reading-section">
+      <h2 class="section-title">
+        <span>📖</span> Bài Đọc 9: Orbis Eye Hospital (Bệnh Viện Mắt Orbis)
+      </h2>
+
+      <div class="tip-box">
+        <p class="tip-box__title">📝 Từ vựng quan trọng:</p>
+        <ul>
+          <li><strong>blind:</strong> mù, khiếm thị</li>
+          <li><strong>aeroplane:</strong> máy bay</li>
+          <li><strong>operation:</strong> ca phẫu thuật</li>
+          <li><strong>bandages:</strong> băng gạc</li>
+          <li><strong>wipe away tears:</strong> lau nước mắt</li>
+        </ul>
+      </div>
+
+      <!-- Reading Passage -->
+      <div class="passage-box">
+        <p>Orbis is an organisation which helps blind people of everywhere. It has built an eye hospital inside an aeroplane and flown in all over the world with an international medical team. Samantha Graham, a fourteen-year-old schoolgirl from England, went with the plane to Mongolia. Samantha tells the story of the Eukhtuul, a young Mongolian girl.</p>
+
+        <p>"Last year, when Eukhtuul was walking home school, <strong>she</strong> was attacked by boys with sticks and her eyes were badly damaged. Dr. Duffey, an Orbis doctor, said that without an operation she would never see again. I thought about all the things I do that she couldn't, things like reading schoolbooks, watching television, seeing friends, and I realised how lucky I am."</p>
+
+        <p>"The Orbis team agreed to operate on Eukhtuul and I was allowed to watch, together with some Mongolian medical students. I prayed the operation would be successful. The next day I waited nervously with Eukhtuul while Dr. Duffey removed her bandages. 'In six months your sight will be back to normal,' he said. Eukhtuul smiled, her mother cried, and I had to wipe away some tears, too!"</p>
+
+        <p>"Now Eukhtuul wants to study hard to become a doctor. Her whole future has changed, thanks to a simple operation. We should all think more about how much our sight means to us."</p>
+      </div>
+
+      <!-- Questions -->
+      <div id="passage9-questions">
+        <!-- Question 1 -->
+        <div class="question-item" data-question="p9q1" data-correct="B">
+          <p class="question-text"><strong>1.</strong> What information can be learned from this passage?</p>
+          <ul class="options-list">
+            <li class="option-item">
+              <input type="radio" name="p9q1" id="p9q1a" value="A">
+              <label for="p9q1a">A. the best way of studying medicine</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p9q1" id="p9q1b" value="B">
+              <label for="p9q1b">B. the international work of some eye doctors</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p9q1" id="p9q1c" value="C">
+              <label for="p9q1c">C. the difficulties for blind travelers</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p9q1" id="p9q1d" value="D">
+              <label for="p9q1d">D. the life of schoolchildren in Mongolia</label>
+            </li>
+          </ul>
+          <div class="explanation-box" id="exp-p9q1">
+            <p class="explanation-box__title">Giải thích:</p>
+            <div class="explanation-box__content">
+              <p><strong>Đáp án B</strong> - Bài viết nói về công việc quốc tế của các bác sĩ nhãn khoa.</p>
+              <p>📌 <strong>Phân tích:</strong></p>
+              <ul>
+                <li>Orbis là tổ chức quốc tế giúp người mù</li>
+                <li>Họ có bệnh viện mắt trên máy bay và bay khắp thế giới</li>
+                <li>Câu chuyện kể về ca phẫu thuật thành công cho cô bé Mông Cổ</li>
+              </ul>
+              <p>💡 Bài tập trung vào hoạt động y tế quốc tế, không phải cách học y, du lịch hay cuộc sống học sinh.</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Question 2 -->
+        <div class="question-item" data-question="p9q2" data-correct="C">
+          <p class="question-text"><strong>2.</strong> The word "she" in paragraph 2 refers to __________.</p>
+          <ul class="options-list">
+            <li class="option-item">
+              <input type="radio" name="p9q2" id="p9q2a" value="A">
+              <label for="p9q2a">A. the writer</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p9q2" id="p9q2b" value="B">
+              <label for="p9q2b">B. the nurse</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p9q2" id="p9q2c" value="C">
+              <label for="p9q2c">C. Eukhtuul</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p9q2" id="p9q2d" value="D">
+              <label for="p9q2d">D. the medical student</label>
+            </li>
+          </ul>
+          <div class="explanation-box" id="exp-p9q2">
+            <p class="explanation-box__title">Giải thích:</p>
+            <div class="explanation-box__content">
+              <p><strong>Đáp án C</strong> - "she" ám chỉ Eukhtuul.</p>
+              <p>📌 <strong>Phân tích cấu trúc:</strong></p>
+              <p>"Last year, when <strong>Eukhtuul</strong> was walking home school, <strong>she</strong> was attacked by boys..."</p>
+              <p>→ "she" thay thế cho "Eukhtuul" - người vừa được nhắc đến</p>
+              <p>💡 Đại từ thường thay cho danh từ gần nhất cùng giới tính và số.</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Question 3 -->
+        <div class="question-item" data-question="p9q3" data-correct="B">
+          <p class="question-text"><strong>3.</strong> After meeting Eukhtuul, Samantha felt __________.</p>
+          <ul class="options-list">
+            <li class="option-item">
+              <input type="radio" name="p9q3" id="p9q3a" value="A">
+              <label for="p9q3a">A. angry about Eukhtuul's experience</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p9q3" id="p9q3b" value="B">
+              <label for="p9q3b">B. grateful for her own sight</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p9q3" id="p9q3c" value="C">
+              <label for="p9q3c">C. proud of the doctor's skill</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p9q3" id="p9q3d" value="D">
+              <label for="p9q3d">D. surprised by Eukhtuul's ability</label>
+            </li>
+          </ul>
+          <div class="explanation-box" id="exp-p9q3">
+            <p class="explanation-box__title">Giải thích:</p>
+            <div class="explanation-box__content">
+              <p><strong>Đáp án B</strong> - Samantha cảm thấy biết ơn vì thị lực của mình.</p>
+              <p>📌 <strong>Bằng chứng trong bài:</strong></p>
+              <p>"I thought about all the things I do that she couldn't... and I realised <strong>how lucky I am</strong>."</p>
+              <p>→ "lucky" = may mắn = biết ơn (grateful) vì có thị lực tốt</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Question 4 -->
+        <div class="question-item" data-question="p9q4" data-correct="A">
+          <p class="question-text"><strong>4.</strong> What is the result of Eukhtuul's operation?</p>
+          <ul class="options-list">
+            <li class="option-item">
+              <input type="radio" name="p9q4" id="p9q4a" value="A">
+              <label for="p9q4a">A. After some time she will see as well as before</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p9q4" id="p9q4b" value="B">
+              <label for="p9q4b">B. Before she recovers, she needs another operation</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p9q4" id="p9q4c" value="C">
+              <label for="p9q4c">C. She can see better but can never have normal eyes</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p9q4" id="p9q4d" value="D">
+              <label for="p9q4d">D. She can't see perfectly again</label>
+            </li>
+          </ul>
+          <div class="explanation-box" id="exp-p9q4">
+            <p class="explanation-box__title">Giải thích:</p>
+            <div class="explanation-box__content">
+              <p><strong>Đáp án A</strong> - Sau một thời gian, cô ấy sẽ nhìn thấy bình thường như trước.</p>
+              <p>📌 <strong>Bằng chứng trong bài:</strong></p>
+              <p>Dr. Duffey nói: "In <strong>six months</strong> your sight will be <strong>back to normal</strong>."</p>
+              <p>→ "back to normal" = trở lại bình thường = nhìn thấy như trước</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Question 5 -->
+        <div class="question-item" data-question="p9q5" data-correct="C">
+          <p class="question-text"><strong>5.</strong> What is the writer's main purpose in writing this passage?</p>
+          <ul class="options-list">
+            <li class="option-item">
+              <input type="radio" name="p9q5" id="p9q5a" value="A">
+              <label for="p9q5a">A. To describe a dangerous trip</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p9q5" id="p9q5b" value="B">
+              <label for="p9q5b">B. To explain how sight can be lost</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p9q5" id="p9q5c" value="C">
+              <label for="p9q5c">C. To report a patient's cure</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p9q5" id="p9q5d" value="D">
+              <label for="p9q5d">D. To warn against playing with sticks</label>
+            </li>
+          </ul>
+          <div class="explanation-box" id="exp-p9q5">
+            <p class="explanation-box__title">Giải thích:</p>
+            <div class="explanation-box__content">
+              <p><strong>Đáp án C</strong> - Mục đích chính là tường thuật việc chữa khỏi cho bệnh nhân.</p>
+              <p>📌 <strong>Phân tích:</strong></p>
+              <ul>
+                <li>Bài viết kể câu chuyện Eukhtuul được phẫu thuật thành công</li>
+                <li>"Her whole future has changed, thanks to a <strong>simple operation</strong>"</li>
+                <li>Kết bài nhấn mạnh tầm quan trọng của thị lực</li>
+              </ul>
+              <p>💡 "cure" = chữa khỏi, phù hợp với nội dung bài về ca phẫu thuật thành công.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div style="margin-top: var(--spacing-lg); display: flex; gap: var(--spacing-sm);">
+        <button class="btn-check" onclick="checkPassage9()">Kiểm Tra Bài 9</button>
+        <button class="btn-reset" onclick="resetPassage9()">Làm Lại</button>
+      </div>
+
+      <div id="passage9-result" style="margin-top: var(--spacing-md); display: none;"></div>
+    </section>
+
+    <!-- SECTION: Reading Passage 10 - Saigon History -->
+    <section id="passage-10" class="reading-section">
+      <h2 class="section-title">
+        <span>📖</span> Bài Đọc 10: Saigon History (Lịch Sử Sài Gòn)
+      </h2>
+
+      <div class="tip-box">
+        <p class="tip-box__title">📝 Từ vựng quan trọng:</p>
+        <ul>
+          <li><strong>uninhabited:</strong> không có người ở</li>
+          <li><strong>cultural hub:</strong> trung tâm văn hóa</li>
+          <li><strong>Pearl of the Far East:</strong> Hòn ngọc Viễn Đông</li>
+          <li><strong>occurrences:</strong> sự kiện, biến cố</li>
+          <li><strong>stunted:</strong> bị kìm hãm, chậm phát triển</li>
+        </ul>
+      </div>
+
+      <!-- Reading Passage -->
+      <div class="passage-box">
+        <p>In the early 17th century, most of the southern region of Vietnam was nearly uninhabited and in the position of Ho Chi Minh City, there was a small village formed with a few residents. However, thanks to its advantage in location, the town grew both economically and politically. By the 19th century, this had become a cultural hub of the South as well as an important trading center of the country.</p>
+
+        <p>You might not know that there was a time Saigon was referred to as the Pearl of the Far East. Sadly, having been through various <strong>occurrences</strong> and two disastrous wars has stunted the city's development. Only after the political instabilities had settled, Saigon recovered miraculously and maintained its leading position in terms of both the economics and culture. Officially named as Ho Chi Minh City, Saigon today has 22 districts in total and attracts hundreds of thousands of tourists annually.</p>
+      </div>
+
+      <!-- Questions -->
+      <div id="passage10-questions">
+        <!-- Question 1 -->
+        <div class="question-item" data-question="p10q1" data-correct="C">
+          <p class="question-text"><strong>1.</strong> What is the best title of the passage?</p>
+          <ul class="options-list">
+            <li class="option-item">
+              <input type="radio" name="p10q1" id="p10q1a" value="A">
+              <label for="p10q1a">A. Saigon: Lost and Found</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p10q1" id="p10q1b" value="B">
+              <label for="p10q1b">B. Saigon: Now and Then</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p10q1" id="p10q1c" value="C">
+              <label for="p10q1c">C. Saigon: Then and Now</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p10q1" id="p10q1d" value="D">
+              <label for="p10q1d">D. Saigon: Hub of the South East Vietnam</label>
+            </li>
+          </ul>
+          <div class="explanation-box" id="exp-p10q1">
+            <p class="explanation-box__title">Giải thích:</p>
+            <div class="explanation-box__content">
+              <p><strong>Đáp án C</strong> - Tiêu đề phù hợp là "Saigon: Then and Now" (Sài Gòn: Xưa và Nay).</p>
+              <p>📌 <strong>Phân tích cấu trúc bài:</strong></p>
+              <ul>
+                <li><strong>Then (Xưa):</strong> Thế kỷ 17 - làng nhỏ → Thế kỷ 19 - trung tâm văn hóa/thương mại</li>
+                <li><strong>Now (Nay):</strong> Hiện tại - 22 quận, thu hút du khách</li>
+              </ul>
+              <p>💡 "Then and Now" = Xưa và Nay, đúng thứ tự thời gian của bài viết.</p>
+              <p>❌ Loại B vì "Now and Then" sai thứ tự (bài viết từ quá khứ → hiện tại)</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Question 2 -->
+        <div class="question-item" data-question="p10q2" data-correct="B">
+          <p class="question-text"><strong>2.</strong> What happened with Saigon in the 19th century?</p>
+          <ul class="options-list">
+            <li class="option-item">
+              <input type="radio" name="p10q2" id="p10q2a" value="A">
+              <label for="p10q2a">A. It became popular all over Asia.</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p10q2" id="p10q2b" value="B">
+              <label for="p10q2b">B. It became a cultural hub of the South and an important trading center of Vietnam.</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p10q2" id="p10q2c" value="C">
+              <label for="p10q2c">C. It became the most important trading center in the world.</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p10q2" id="p10q2d" value="D">
+              <label for="p10q2d">D. It was no longer visited by international tourists.</label>
+            </li>
+          </ul>
+          <div class="explanation-box" id="exp-p10q2">
+            <p class="explanation-box__title">Giải thích:</p>
+            <div class="explanation-box__content">
+              <p><strong>Đáp án B</strong> - Thế kỷ 19, Sài Gòn trở thành trung tâm văn hóa và thương mại.</p>
+              <p>📌 <strong>Bằng chứng trong bài:</strong></p>
+              <p>"By the 19th century, this had become a <strong>cultural hub of the South</strong> as well as an <strong>important trading center of the country</strong>."</p>
+              <p>💡 Chú ý: "of the country" = của đất nước (Việt Nam), không phải "in the world".</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Question 3 -->
+        <div class="question-item" data-question="p10q3" data-correct="D">
+          <p class="question-text"><strong>3.</strong> The city's development has been stunted because of __________.</p>
+          <ul class="options-list">
+            <li class="option-item">
+              <input type="radio" name="p10q3" id="p10q3a" value="A">
+              <label for="p10q3a">A. two disastrous wars</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p10q3" id="p10q3b" value="B">
+              <label for="p10q3b">B. some major historic events</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p10q3" id="p10q3c" value="C">
+              <label for="p10q3c">C. natural disasters and disastrous wars</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p10q3" id="p10q3d" value="D">
+              <label for="p10q3d">D. different occurrences and disastrous wars</label>
+            </li>
+          </ul>
+          <div class="explanation-box" id="exp-p10q3">
+            <p class="explanation-box__title">Giải thích:</p>
+            <div class="explanation-box__content">
+              <p><strong>Đáp án D</strong> - Sự phát triển bị kìm hãm vì các biến cố và chiến tranh.</p>
+              <p>📌 <strong>Bằng chứng trong bài:</strong></p>
+              <p>"having been through <strong>various occurrences</strong> and <strong>two disastrous wars</strong> has stunted the city's development"</p>
+              <p>📌 <strong>Loại các đáp án khác:</strong></p>
+              <ul>
+                <li>❌ A chưa đầy đủ (thiếu "various occurrences")</li>
+                <li>❌ B quá chung chung</li>
+                <li>❌ C sai - bài không nhắc "natural disasters" (thiên tai)</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+        <!-- Question 4 -->
+        <div class="question-item" data-question="p10q4" data-correct="C">
+          <p class="question-text"><strong>4.</strong> The word "occurrences" is closest in meaning to __________.</p>
+          <ul class="options-list">
+            <li class="option-item">
+              <input type="radio" name="p10q4" id="p10q4a" value="A">
+              <label for="p10q4a">A. situations</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p10q4" id="p10q4b" value="B">
+              <label for="p10q4b">B. adventures</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p10q4" id="p10q4c" value="C">
+              <label for="p10q4c">C. incidents</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p10q4" id="p10q4d" value="D">
+              <label for="p10q4d">D. affairs</label>
+            </li>
+          </ul>
+          <div class="explanation-box" id="exp-p10q4">
+            <p class="explanation-box__title">Giải thích:</p>
+            <div class="explanation-box__content">
+              <p><strong>Đáp án C</strong> - "occurrences" = "incidents" (sự kiện, biến cố).</p>
+              <p>📌 <strong>Từ vựng:</strong></p>
+              <ul>
+                <li><strong>occurrences = incidents:</strong> sự kiện, biến cố (thường mang nghĩa tiêu cực trong ngữ cảnh này)</li>
+                <li><strong>situations:</strong> tình huống (quá chung chung)</li>
+                <li><strong>adventures:</strong> cuộc phiêu lưu (nghĩa tích cực)</li>
+                <li><strong>affairs:</strong> công việc, vụ việc</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+        <!-- Question 5 -->
+        <div class="question-item" data-question="p10q5" data-correct="D">
+          <p class="question-text"><strong>5.</strong> Which of the following sentences is NOT true?</p>
+          <ul class="options-list">
+            <li class="option-item">
+              <input type="radio" name="p10q5" id="p10q5a" value="A">
+              <label for="p10q5a">A. In the early 17th century, there were only a few residents living on the position of Saigon.</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p10q5" id="p10q5b" value="B">
+              <label for="p10q5b">B. The location of Saigon helped the town develop its economy and politics.</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p10q5" id="p10q5c" value="C">
+              <label for="p10q5c">C. Saigon was once referred as the Pearl of the Far East.</label>
+            </li>
+            <li class="option-item">
+              <input type="radio" name="p10q5" id="p10q5d" value="D">
+              <label for="p10q5d">D. Saigon had recovered and held its leading position before the political instabilities settled.</label>
+            </li>
+          </ul>
+          <div class="explanation-box" id="exp-p10q5">
+            <p class="explanation-box__title">Giải thích:</p>
+            <div class="explanation-box__content">
+              <p><strong>Đáp án D</strong> - Câu này KHÔNG đúng.</p>
+              <p>📌 <strong>Kiểm tra:</strong></p>
+              <ul>
+                <li>✅ A đúng: "a small village formed with a few residents"</li>
+                <li>✅ B đúng: "thanks to its advantage in location, the town grew"</li>
+                <li>✅ C đúng: "Saigon was referred to as the Pearl of the Far East"</li>
+                <li>❌ D sai: Bài viết nói "<strong>Only after</strong> the political instabilities had settled, Saigon recovered"</li>
+              </ul>
+              <p>💡 <strong>Phân tích:</strong> "Only after X, Y happened" = Y chỉ xảy ra SAU KHI X xong</p>
+              <p>→ Sài Gòn phục hồi SAU KHI tình hình ổn định, không phải TRƯỚC.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div style="margin-top: var(--spacing-lg); display: flex; gap: var(--spacing-sm);">
+        <button class="btn-check" onclick="checkPassage10()">Kiểm Tra Bài 10</button>
+        <button class="btn-reset" onclick="resetPassage10()">Làm Lại</button>
+      </div>
+
+      <div id="passage10-result" style="margin-top: var(--spacing-md); display: none;"></div>
+    </section>
+
+    <!-- SECTION 4: Gap Fill Exercise - Coronavirus -->
+    <section id="gap-fill-section" class="reading-section">
+      <h2 class="section-title">
+        <span>✏️</span> Điền Từ Vào Đoạn Văn (Gap Filling)
+      </h2>
+
+      <div class="tip-box">
+        <p class="tip-box__title">📝 Hướng dẫn:</p>
+        <p>Chọn từ phù hợp nhất để điền vào mỗi chỗ trống. Chú ý đến ngữ pháp, từ loại và nghĩa của câu.</p>
+      </div>
+
+      <!-- Gap Fill Passage -->
+      <div class="gap-fill-passage">
+        <p><strong>The Coronavirus</strong></p>
+        <p>The coronavirus is a kind of virus. Viruses are tiny germs that are so small that you can't see them. They are so
+          <select class="gap-select" id="gap1" data-correct="B">
+            <option value="">-- Chọn --</option>
+            <option value="A">A. big</option>
+            <option value="B">B. small</option>
+            <option value="C">C. light</option>
+            <option value="D">D. heavy</option>
+          </select>
+          (1) that they can float through the air in tiny drops of water, and they can sit on your skin without you feeling them. If some of these germs get inside you, they can use your body to make more germs, and that can make you ill.
+        </p>
+
+        <p>There are lots of different sorts
+          <select class="gap-select" id="gap2" data-correct="D">
+            <option value="">-- Chọn --</option>
+            <option value="A">A. about</option>
+            <option value="B">B. for</option>
+            <option value="C">C. with</option>
+            <option value="D">D. of</option>
+          </select>
+          (2) coronaviruses and some of them infect people. If you have been infected with one of these coronaviruses, all you probably
+          <select class="gap-select" id="gap3" data-correct="A">
+            <option value="">-- Chọn --</option>
+            <option value="A">A. had</option>
+            <option value="B">B. made</option>
+            <option value="C">C. took</option>
+            <option value="D">D. caught</option>
+          </select>
+          (3) was a snotty nose or a cough.
+        </p>
+
+        <p>But when this completely new coronavirus germ gets inside a human body, it causes
+          <select class="gap-select" id="gap4" data-correct="B">
+            <option value="">-- Chọn --</option>
+            <option value="A">A. a</option>
+            <option value="B">B. an</option>
+            <option value="C">C. the</option>
+            <option value="D">D. (no article)</option>
+          </select>
+          (4) illness called COVID-19. When people talk about "catching the coronavirus", they are talking about this illness. Because this coronavirus is new, scientists don't know everything about it yet. But they think that there are two main
+          <select class="gap-select" id="gap5" data-correct="B">
+            <option value="">-- Chọn --</option>
+            <option value="A">A. roads</option>
+            <option value="B">B. ways</option>
+            <option value="C">C. behaviours</option>
+            <option value="D">D. habits</option>
+          </select>
+          (5) that people can catch it.
+        </p>
+      </div>
+
+      <!-- Gap Fill Explanations -->
+      <div id="gap-explanations" style="display: none;">
+        <h3 style="margin-bottom: var(--spacing-md); color: var(--primary-dark);">Giải thích chi tiết:</h3>
+
+        <div class="explanation-box show" style="margin-bottom: var(--spacing-md);">
+          <p class="explanation-box__title">Câu 1: Đáp án B - small</p>
+          <div class="explanation-box__content">
+            <p>📌 <strong>Phân tích ngữ cảnh:</strong></p>
+            <ul>
+              <li>Câu trước nói "Viruses are tiny germs that are so <strong>small</strong> that you can't see them"</li>
+              <li>Câu sau tiếp tục: "They are so _____ that they can <strong>float through the air</strong>"</li>
+              <li>Vật nhỏ mới có thể bay lơ lửng trong không khí → <strong>small</strong></li>
+            </ul>
+            <p>💡 <strong>Mẹo:</strong> Tìm từ khóa ở câu trước/sau để xác định nghĩa phù hợp.</p>
+          </div>
+        </div>
+
+        <div class="explanation-box show" style="margin-bottom: var(--spacing-md);">
+          <p class="explanation-box__title">Câu 2: Đáp án D - of</p>
+          <div class="explanation-box__content">
+            <p>📌 <strong>Cấu trúc cố định:</strong></p>
+            <ul>
+              <li><strong>sorts of</strong> = loại, kiểu (đi với danh từ)</li>
+              <li>Tương tự: kinds of, types of, lots of</li>
+            </ul>
+            <p>💡 <strong>Ghi nhớ:</strong> "sorts/kinds/types/lots" luôn đi với <strong>of</strong> + danh từ.</p>
+          </div>
+        </div>
+
+        <div class="explanation-box show" style="margin-bottom: var(--spacing-md);">
+          <p class="explanation-box__title">Câu 3: Đáp án A - had</p>
+          <div class="explanation-box__content">
+            <p>📌 <strong>Phân tích cấu trúc:</strong></p>
+            <ul>
+              <li>Câu: "all you probably _____ was a snotty nose or a cough"</li>
+              <li>Chủ ngữ "all" + động từ → cần động từ phù hợp với triệu chứng bệnh</li>
+              <li><strong>had</strong> = có (triệu chứng) → "all you had was..." = tất cả những gì bạn có là...</li>
+            </ul>
+            <p>📌 <strong>Phân biệt:</strong></p>
+            <ul>
+              <li><strong>have/had</strong> a cold/cough/fever = bị cảm/ho/sốt</li>
+              <li><strong>catch</strong> a cold = nhiễm cảm lạnh (lúc bắt đầu bị)</li>
+              <li><strong>make</strong> không dùng với triệu chứng bệnh</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="explanation-box show" style="margin-bottom: var(--spacing-md);">
+          <p class="explanation-box__title">Câu 4: Đáp án B - an</p>
+          <div class="explanation-box__content">
+            <p>📌 <strong>Quy tắc mạo từ:</strong></p>
+            <ul>
+              <li>"illness" bắt đầu bằng nguyên âm /ɪ/ → dùng <strong>an</strong></li>
+              <li>Đây là danh từ đếm được số ít, lần đầu được nhắc đến → dùng mạo từ không xác định</li>
+            </ul>
+            <p>💡 <strong>Ghi nhớ:</strong> Dùng "an" trước từ bắt đầu bằng âm nguyên âm (a, e, i, o, u).</p>
+          </div>
+        </div>
+
+        <div class="explanation-box show">
+          <p class="explanation-box__title">Câu 5: Đáp án B - ways</p>
+          <div class="explanation-box__content">
+            <p>📌 <strong>Phân tích nghĩa:</strong></p>
+            <ul>
+              <li>Câu: "two main _____ that people can catch it" = hai _____ chính mà người ta có thể nhiễm bệnh</li>
+              <li><strong>ways</strong> = cách, phương thức → nghĩa hợp lý nhất</li>
+            </ul>
+            <p>📌 <strong>Loại các đáp án khác:</strong></p>
+            <ul>
+              <li><strong>roads</strong> = con đường (vật lý) ❌</li>
+              <li><strong>behaviours</strong> = hành vi ❌</li>
+              <li><strong>habits</strong> = thói quen ❌</li>
+            </ul>
+            <p>💡 <strong>Collocations:</strong> "two ways to do sth" = hai cách để làm gì.</p>
+          </div>
+        </div>
+      </div>
+
+      <div style="margin-top: var(--spacing-lg); display: flex; gap: var(--spacing-sm);">
+        <button class="btn-check" onclick="checkGapFill()">Kiểm Tra</button>
+        <button class="btn-reset" onclick="resetGapFill()">Làm Lại</button>
+      </div>
+
+      <div id="gap-fill-result" style="margin-top: var(--spacing-md); display: none;"></div>
+    </section>
+
+  </main>
+
+  <!-- Footer -->
+  <footer style="background: var(--text-dark); color: white; padding: var(--spacing-lg); text-align: center;">
+    <p>Ôn Thi Vào Lớp 10 - English Reading Practice</p>
+    <p style="font-size: var(--font-size-sm); opacity: 0.7; margin-top: var(--spacing-xs);">
+      <a href="../index.html" style="color: var(--primary-light);">Quay về trang chủ</a>
+    </p>
+  </footer>
+
+  <!-- JavaScript for interactivity - MODULAR VERSION -->
+  <script>
+    /**
+     * ===== MODULAR READING EXERCISE SYSTEM =====
+     * To add a new passage:
+     * 1. Copy an existing passage section HTML
+     * 2. Change passage-N to next number (e.g., passage-3)
+     * 3. Update data-question prefixes (p3q1, p3q2, etc.)
+     * 4. Update button onclick to checkPassage(3) and resetPassage(3)
+     * 5. The system will automatically detect and score it!
+     */
+
+    // ===== GENERIC PASSAGE FUNCTIONS =====
+    function checkPassage(passageNum) {
+      const containerId = `passage${passageNum}-questions`;
+      const questions = document.querySelectorAll(`#${containerId} .question-item`);
+      let correct = 0;
+      const total = questions.length;
+
+      questions.forEach(q => {
+        const questionName = q.dataset.question;
+        const correctAnswer = q.dataset.correct;
+        const selected = document.querySelector(`input[name="${questionName}"]:checked`);
+
+        // Reset previous styling
+        q.querySelectorAll('.option-item').forEach(opt => {
+          opt.classList.remove('correct-answer', 'wrong-answer', 'selected');
+        });
+
+        if (selected) {
+          const selectedValue = selected.value;
+          const selectedItem = selected.closest('.option-item');
+
+          if (selectedValue === correctAnswer) {
+            selectedItem.classList.add('correct-answer');
+            q.classList.remove('incorrect');
+            q.classList.add('correct');
+            correct++;
+          } else {
+            selectedItem.classList.add('wrong-answer');
+            q.classList.remove('correct');
+            q.classList.add('incorrect');
+            // Highlight correct answer
+            const correctOption = q.querySelector(`input[value="${correctAnswer}"]`);
+            if (correctOption) {
+              correctOption.closest('.option-item').classList.add('correct-answer');
+            }
+          }
+        }
+
+        // Show explanation
+        const expBox = document.getElementById(`exp-${questionName}`);
+        if (expBox) {
+          expBox.classList.add('show');
+        }
+      });
+
+      // Show result
+      const resultDiv = document.getElementById(`passage${passageNum}-result`);
+      if (resultDiv) {
+        resultDiv.style.display = 'block';
+        resultDiv.innerHTML = `
+          <div class="score-display">
+            <p class="score-display__label">Kết quả Bài Đọc ${passageNum}</p>
+            <p class="score-display__value">${correct} / ${total}</p>
+          </div>
+        `;
+      }
+
+      updateTotalScore();
+    }
+
+    function resetPassage(passageNum) {
+      const containerId = `passage${passageNum}-questions`;
+      const questions = document.querySelectorAll(`#${containerId} .question-item`);
+
+      questions.forEach(q => {
+        q.classList.remove('correct', 'incorrect');
+        q.querySelectorAll('.option-item').forEach(opt => {
+          opt.classList.remove('correct-answer', 'wrong-answer', 'selected');
+        });
+        q.querySelectorAll('input[type="radio"]').forEach(radio => {
+          radio.checked = false;
+        });
+        const expBox = document.getElementById(`exp-${q.dataset.question}`);
+        if (expBox) {
+          expBox.classList.remove('show');
+        }
+      });
+
+      const resultDiv = document.getElementById(`passage${passageNum}-result`);
+      if (resultDiv) {
+        resultDiv.style.display = 'none';
+      }
+
+      updateTotalScore();
+    }
+
+    // ===== GENERIC GAP FILL FUNCTIONS =====
+    function checkGapFill(gapNum) {
+      const sectionId = gapNum ? `gap-fill-section-${gapNum}` : 'gap-fill-section';
+      const section = document.getElementById(sectionId) || document.querySelector('.gap-fill-section');
+      if (!section) return;
+
+      const gaps = section.querySelectorAll('.gap-select');
+      let correct = 0;
+      const total = gaps.length;
+
+      gaps.forEach(gap => {
+        const correctAnswer = gap.dataset.correct;
+        const selectedValue = gap.value;
+
+        gap.classList.remove('correct', 'incorrect');
+
+        if (selectedValue === correctAnswer) {
+          gap.classList.add('correct');
+          correct++;
+        } else if (selectedValue !== '') {
+          gap.classList.add('incorrect');
+        }
+      });
+
+      // Show explanations
+      const expId = gapNum ? `gap-explanations-${gapNum}` : 'gap-explanations';
+      const expDiv = document.getElementById(expId);
+      if (expDiv) {
+        expDiv.style.display = 'block';
+      }
+
+      // Show result
+      const resultId = gapNum ? `gap-fill-result-${gapNum}` : 'gap-fill-result';
+      const resultDiv = document.getElementById(resultId);
+      if (resultDiv) {
+        resultDiv.style.display = 'block';
+        const label = gapNum ? `Kết quả Điền Từ ${gapNum}` : 'Kết quả Điền Từ';
+        resultDiv.innerHTML = `
+          <div class="score-display">
+            <p class="score-display__label">${label}</p>
+            <p class="score-display__value">${correct} / ${total}</p>
+          </div>
+        `;
+      }
+
+      updateTotalScore();
+    }
+
+    function resetGapFill(gapNum) {
+      const sectionId = gapNum ? `gap-fill-section-${gapNum}` : 'gap-fill-section';
+      const section = document.getElementById(sectionId) || document.querySelector('.gap-fill-section');
+      if (!section) return;
+
+      const gaps = section.querySelectorAll('.gap-select');
+      gaps.forEach(gap => {
+        gap.value = '';
+        gap.classList.remove('correct', 'incorrect');
+      });
+
+      const expId = gapNum ? `gap-explanations-${gapNum}` : 'gap-explanations';
+      const expDiv = document.getElementById(expId);
+      if (expDiv) {
+        expDiv.style.display = 'none';
+      }
+
+      const resultId = gapNum ? `gap-fill-result-${gapNum}` : 'gap-fill-result';
+      const resultDiv = document.getElementById(resultId);
+      if (resultDiv) {
+        resultDiv.style.display = 'none';
+      }
+
+      updateTotalScore();
+    }
+
+    // ===== SCORE CALCULATION (AUTO-DETECTS ALL SECTIONS) =====
+    function getTotalScore() {
+      // Count all correct passage questions
+      const correctPassageQuestions = document.querySelectorAll('.question-item.correct').length;
+
+      // Count all correct gap fills
+      const correctGapFills = document.querySelectorAll('.gap-select.correct').length;
+
+      return correctPassageQuestions + correctGapFills;
+    }
+
+    function getTotalQuestions() {
+      // Count all passage questions
+      const passageQuestions = document.querySelectorAll('.question-item').length;
+
+      // Count all gap fills
+      const gapFills = document.querySelectorAll('.gap-select').length;
+
+      return passageQuestions + gapFills;
+    }
+
+    function updateTotalScore() {
+      const correct = getTotalScore();
+      const total = getTotalQuestions();
+      document.getElementById('total-score').textContent = `${correct} / ${total}`;
+    }
+
+    // ===== LEGACY SUPPORT (for existing onclick handlers) =====
+    function checkPassage1() { checkPassage(1); }
+    function checkPassage2() { checkPassage(2); }
+    function checkPassage3() { checkPassage(3); }
+    function checkPassage4() { checkPassage(4); }
+    function checkPassage5() { checkPassage(5); }
+    function checkPassage6() { checkPassage(6); }
+    function checkPassage7() { checkPassage(7); }
+    function checkPassage8() { checkPassage(8); }
+    function checkPassage9() { checkPassage(9); }
+    function checkPassage10() { checkPassage(10); }
+
+    function resetPassage1() { resetPassage(1); }
+    function resetPassage2() { resetPassage(2); }
+    function resetPassage3() { resetPassage(3); }
+    function resetPassage4() { resetPassage(4); }
+    function resetPassage5() { resetPassage(5); }
+    function resetPassage6() { resetPassage(6); }
+    function resetPassage7() { resetPassage(7); }
+    function resetPassage8() { resetPassage(8); }
+    function resetPassage9() { resetPassage(9); }
+    function resetPassage10() { resetPassage(10); }
+
+    // ===== EVENT LISTENERS =====
+    document.addEventListener('DOMContentLoaded', function() {
+      // Add click handlers for option items
+      document.querySelectorAll('.option-item').forEach(item => {
+        item.addEventListener('click', function() {
+          const radio = this.querySelector('input[type="radio"]');
+          if (radio) {
+            radio.checked = true;
+            // Visual feedback
+            const parentList = this.closest('.options-list');
+            parentList.querySelectorAll('.option-item').forEach(opt => {
+              opt.classList.remove('selected');
+            });
+            this.classList.add('selected');
+          }
+        });
+      });
+
+      // Initialize score display
+      updateTotalScore();
+    });
+  </script>
+</body>
+</html>

@@ -4,7 +4,7 @@
 
 <!-- chunk: intro -->
 <teacher_script pause="0">
-Chào các em. Qua bài <eng>Skills 2</eng>. Hôm nay mình nghe về mua sắm trực tuyến và viết về ưu nhược điểm của các hình thức mua sắm. Mở sách trang 89 nha.
+Chào các em. Chào mừng các em đến với bài học hôm nay. Mời các em mở sách giáo khoa.
 </teacher_script>
 
 ---
@@ -13,7 +13,7 @@ Chào các em. Qua bài <eng>Skills 2</eng>. Hôm nay mình nghe về mua sắm 
 ### Bài 1 trang 89 - Tick items
 
 <teacher_script pause="30">
-Bài 1 đánh dấu những thứ liên quan đến mua sắm trực tuyến.
+Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
 <task>
@@ -34,7 +34,7 @@ Bài 1 đánh dấu những thứ liên quan đến mua sắm trực tuyến.
 ### Bài 2 trang 89 - Listening: Fill blanks
 
 <teacher_script pause="60">
-Bài 2 nghe về mua sắm trực tuyến và điền từ. 1 phút nha.
+Bây giờ các em sẽ nghe một đoạn băng. Hãy chú ý lắng nghe để tìm thông tin trả lời câu hỏi.
 </teacher_script>
 
 <audio src="https://img.loigiaihay.com/picture/2023/0803/track-51.mp3">
@@ -70,7 +70,7 @@ Bài 2 nghe về mua sắm trực tuyến và điền từ. 1 phút nha.
 </explanation>
 
 <teacher_script pause="30">
-Sửa bài vào nha.
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
@@ -79,7 +79,7 @@ Sửa bài vào nha.
 ### Bài 3 trang 89 - Listening: Multiple Choice
 
 <teacher_script pause="60">
-Bài 3 nghe lại và chọn đáp án đúng.
+Bây giờ các em sẽ nghe một đoạn băng. Hãy chú ý lắng nghe để tìm thông tin trả lời câu hỏi.
 </teacher_script>
 
 <audio src="https://img.loigiaihay.com/picture/2023/0803/track-52.mp3">
@@ -109,7 +109,7 @@ A. popularity | B. convenience | C. advantages and disadvantages
 </explanation>
 
 <teacher_script pause="30">
-Sửa bài nếu sai nha.
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
@@ -118,7 +118,7 @@ Sửa bài nếu sai nha.
 ### Bài 5 trang 89 - Write a paragraph
 
 <teacher_script pause="0">
-Bài 5 viết đoạn văn về ưu hoặc nhược điểm của một loại hình mua sắm (80-100 từ).
+Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
 <reading>
@@ -127,12 +127,12 @@ There are many benefits of online shopping. First, it is very convenient. You ca
 </reading>
 
 <teacher_script pause="0" action="record">
-Em hãy viết một đoạn văn ngắn và đọc ghi âm gửi thầy nhé.
+Các em hãy ghi âm phần luyện tập của mình và gửi cho thầy nhé.
 </teacher_script>
 
 ---
 
 <!-- chunk: end -->
 <teacher_script pause="0">
-Xong bài <eng>Skills 2</eng>. Các em nhớ luyện nghe và viết về chủ đề mua sắm nhé. Tạm biệt!
+Bài học hôm nay kết thúc tại đây. Các em nhớ ôn bài và chuẩn bị cho bài học tiếp theo. Tạm biệt các em.
 </teacher_script>

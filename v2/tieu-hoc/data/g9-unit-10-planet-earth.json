@@ -1,0 +1,597 @@
+{
+  "unitId": "g9-unit-10-planet-earth",
+  "title": "Grade 9 - Unit 10: Planet Earth",
+  "grammarTopics": [
+    "Non-defining Relative Clauses"
+  ],
+  "theory": {
+    "brief": "Mệnh đề quan hệ không xác định (Non-defining Relative Clauses): bổ sung thông tin cho danh từ, có thể bỏ mà không ảnh hưởng nghĩa chính. Phải có dấu phẩy ngăn cách. Không dùng \"that\". Dùng who, which, whose.",
+    "examples": [
+      "The Moon, whose surface is dark, is Earth's satellite. (Mặt trăng, có bề mặt tối, là vệ tinh của Trái Đất.)",
+      "Mars, which is a rocky planet, has mountains. (Sao Hỏa, một hành tinh đá, có núi.)",
+      "My sister, who lives in London, is a doctor. (Chị tôi, người sống ở London, là bác sĩ.)",
+      "Paris, which is the capital of France, is beautiful. (Paris, thủ đô của Pháp, rất đẹp.)"
+    ]
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "type": "multiple-choice",
+      "question": "The Moon, __________ surface is dark, is Earth's satellite.",
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "that"
+      ],
+      "correctIndex": 2,
+      "explanation": "Whose + surface, có dấu phẩy",
+      "hints": [
+        "whose + N",
+        "Có d→u ph→y"
+      ],
+      "points": 10
+    },
+    {
+      "id": 2,
+      "type": "multiple-choice",
+      "question": "Mars, __________ is a rocky planet, has canyons.",
+      "options": [
+        "who",
+        "which",
+        "that",
+        "what"
+      ],
+      "correctIndex": 1,
+      "explanation": "Có d→u ph→y, dùng which (kh→ng dùng that)",
+      "hints": [
+        "Có d→u ph→y → which",
+        "Không dùng that"
+      ],
+      "points": 10
+    },
+    {
+      "id": 3,
+      "type": "multiple-choice",
+      "question": "Venus, __________ has a similar size to Earth, is considered Earth's twin.",
+      "options": [
+        "who",
+        "which",
+        "that",
+        "whose"
+      ],
+      "correctIndex": 1,
+      "explanation": "Có d→u ph→y, dùng which",
+      "hints": [
+        "Có d→u ph→y → which"
+      ],
+      "points": 10
+    },
+    {
+      "id": 4,
+      "type": "multiple-choice",
+      "question": "The Nile, __________ is the longest river, flows into the Mediterranean.",
+      "options": [
+        "who",
+        "which",
+        "that",
+        "whose"
+      ],
+      "correctIndex": 1,
+      "explanation": "Có d→u ph→y, dùng which",
+      "hints": [
+        "Có d→u ph→y → which"
+      ],
+      "points": 10
+    },
+    {
+      "id": 5,
+      "type": "multiple-choice",
+      "question": "Mount Fansipan, __________ is Vietnam's highest peak, is called 'Roof of Indochina'.",
+      "options": [
+        "who",
+        "which",
+        "that",
+        "whose"
+      ],
+      "correctIndex": 1,
+      "explanation": "Có d→u ph→y, dùng which",
+      "hints": [
+        "Có d→u ph→y → which"
+      ],
+      "points": 10
+    },
+    {
+      "id": 6,
+      "type": "multiple-choice",
+      "question": "The Sahara, __________ is the largest desert, has almost no rainfall.",
+      "options": [
+        "who",
+        "which",
+        "that",
+        "whose"
+      ],
+      "correctIndex": 1,
+      "explanation": "Có d→u ph→y, dùng which",
+      "hints": [
+        "Có d→u ph→y → which"
+      ],
+      "points": 10
+    },
+    {
+      "id": 7,
+      "type": "multiple-choice",
+      "question": "Vietnam, __________ has the shape of letter S, has a long coastline.",
+      "options": [
+        "who",
+        "which",
+        "that",
+        "whose"
+      ],
+      "correctIndex": 1,
+      "explanation": "Có d→u ph→y, dùng which",
+      "hints": [
+        "Có d→u ph→y → which"
+      ],
+      "points": 10
+    },
+    {
+      "id": 8,
+      "type": "multiple-choice",
+      "question": "The Pacific Ocean, __________ covers 30% of Earth's surface, is the largest.",
+      "options": [
+        "who",
+        "which",
+        "that",
+        "whose"
+      ],
+      "correctIndex": 1,
+      "explanation": "Có d→u ph→y, dùng which",
+      "hints": [
+        "Có d→u ph→y → which"
+      ],
+      "points": 10
+    },
+    {
+      "id": 9,
+      "type": "multiple-choice",
+      "question": "Cat Ba National Park, __________ has unique species, is famous.",
+      "options": [
+        "who",
+        "which",
+        "that",
+        "whose"
+      ],
+      "correctIndex": 1,
+      "explanation": "Có d→u ph→y, dùng which",
+      "hints": [
+        "Có d→u ph→y → which"
+      ],
+      "points": 10
+    },
+    {
+      "id": 10,
+      "type": "multiple-choice",
+      "question": "Mr. An, __________ explained ecological balance, is knowledgeable.",
+      "options": [
+        "who",
+        "which",
+        "that",
+        "whose"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ng→→i, có dấu phẩy → who",
+      "hints": [
+        "Ng→→i + d→u ph→y → who"
+      ],
+      "points": 10
+    },
+    {
+      "id": 11,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": [
+        "The",
+        "Sahara",
+        ",",
+        "which",
+        "is",
+        "the",
+        "largest",
+        "desert",
+        ",",
+        "is",
+        "in",
+        "Africa"
+      ],
+      "correctSentence": "The Sahara, which is the largest desert, is in Africa.",
+      "explanation": "Non-defining với d→u ph→y",
+      "hints": [
+        "N, which + V, V"
+      ],
+      "points": 10
+    },
+    {
+      "id": 12,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": [
+        "Mars",
+        ",",
+        "which",
+        "has",
+        "mountains",
+        ",",
+        "is",
+        "a",
+        "rocky",
+        "planet"
+      ],
+      "correctSentence": "Mars, which has mountains, is a rocky planet.",
+      "explanation": "Non-defining với d→u ph→y",
+      "hints": [
+        "N, which + V, V"
+      ],
+      "points": 10
+    },
+    {
+      "id": 13,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": [
+        "The",
+        "Moon",
+        ",",
+        "whose",
+        "surface",
+        "is",
+        "dark",
+        ",",
+        "orbits",
+        "Earth"
+      ],
+      "correctSentence": "The Moon, whose surface is dark, orbits Earth.",
+      "explanation": "Non-defining với whose",
+      "hints": [
+        "N, whose + N + V, V"
+      ],
+      "points": 10
+    },
+    {
+      "id": 14,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": [
+        "Venus",
+        ",",
+        "which",
+        "is",
+        "similar",
+        "to",
+        "Earth",
+        ",",
+        "is",
+        "very",
+        "hot"
+      ],
+      "correctSentence": "Venus, which is similar to Earth, is very hot.",
+      "explanation": "Non-defining với d→u ph→y",
+      "hints": [
+        "N, which + V, V"
+      ],
+      "points": 10
+    },
+    {
+      "id": 15,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": [
+        "The",
+        "Nile",
+        ",",
+        "which",
+        "flows",
+        "north",
+        ",",
+        "is",
+        "very",
+        "long"
+      ],
+      "correctSentence": "The Nile, which flows north, is very long.",
+      "explanation": "Non-defining với d→u ph→y",
+      "hints": [
+        "N, which + V, V"
+      ],
+      "points": 10
+    },
+    {
+      "id": 16,
+      "type": "multiple-choice",
+      "question": "Mount Everest, __________ is the highest mountain, is in the Himalayas.",
+      "options": [
+        "who",
+        "which",
+        "that",
+        "whose"
+      ],
+      "correctIndex": 1,
+      "explanation": "Có d→u ph→y → which",
+      "hints": [
+        "Có d→u ph→y → which"
+      ],
+      "points": 10
+    },
+    {
+      "id": 17,
+      "type": "multiple-choice",
+      "question": "The Amazon, __________ is the largest rainforest, is in South America.",
+      "options": [
+        "who",
+        "which",
+        "that",
+        "whose"
+      ],
+      "correctIndex": 1,
+      "explanation": "Có d→u ph→y → which",
+      "hints": [
+        "Có d→u ph→y → which"
+      ],
+      "points": 10
+    },
+    {
+      "id": 18,
+      "type": "multiple-choice",
+      "question": "Professor Smith, __________ studies planets, gave a lecture.",
+      "options": [
+        "who",
+        "which",
+        "that",
+        "whose"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ng→→i + d→u ph→y → who",
+      "hints": [
+        "Ng→→i, who + V"
+      ],
+      "points": 10
+    },
+    {
+      "id": 19,
+      "type": "multiple-choice",
+      "question": "The Atlantic Ocean, __________ separates continents, is deep.",
+      "options": [
+        "who",
+        "which",
+        "that",
+        "whose"
+      ],
+      "correctIndex": 1,
+      "explanation": "Có d→u ph→y → which",
+      "hints": [
+        "Có d→u ph→y → which"
+      ],
+      "points": 10
+    },
+    {
+      "id": 20,
+      "type": "multiple-choice",
+      "question": "Dr. Nguyen, __________ research focuses on climate, won an award.",
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "that"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ng→→i + whose + N",
+      "hints": [
+        "whose + research"
+      ],
+      "points": 10
+    },
+    {
+      "id": 21,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": [
+        "Jupiter",
+        ",",
+        "which",
+        "is",
+        "the",
+        "largest",
+        "planet",
+        ",",
+        "has",
+        "many",
+        "moons"
+      ],
+      "correctSentence": "Jupiter, which is the largest planet, has many moons.",
+      "explanation": "Non-defining với d→u ph→y",
+      "hints": [
+        "N, which + V, V"
+      ],
+      "points": 10
+    },
+    {
+      "id": 22,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": [
+        "Antarctica",
+        ",",
+        "which",
+        "is",
+        "the",
+        "coldest",
+        "continent",
+        ",",
+        "has",
+        "no",
+        "trees"
+      ],
+      "correctSentence": "Antarctica, which is the coldest continent, has no trees.",
+      "explanation": "Non-defining với d→u ph→y",
+      "hints": [
+        "N, which + V, V"
+      ],
+      "points": 10
+    },
+    {
+      "id": 23,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": [
+        "Earth",
+        ",",
+        "whose",
+        "radius",
+        "is",
+        "4000",
+        "miles",
+        ",",
+        "is",
+        "the",
+        "fifth",
+        "largest"
+      ],
+      "correctSentence": "Earth, whose radius is 4000 miles, is the fifth largest.",
+      "explanation": "Non-defining với whose",
+      "hints": [
+        "N, whose + N + V, V"
+      ],
+      "points": 10
+    },
+    {
+      "id": 24,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": [
+        "My",
+        "teacher",
+        ",",
+        "who",
+        "loves",
+        "astronomy",
+        ",",
+        "showed",
+        "us",
+        "photos"
+      ],
+      "correctSentence": "My teacher, who loves astronomy, showed us photos.",
+      "explanation": "Non-defining với who",
+      "hints": [
+        "N, who + V, V"
+      ],
+      "points": 10
+    },
+    {
+      "id": 25,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": [
+        "The",
+        "Mediterranean",
+        "Sea",
+        ",",
+        "which",
+        "is",
+        "warm",
+        ",",
+        "is",
+        "popular"
+      ],
+      "correctSentence": "The Mediterranean Sea, which is warm, is popular.",
+      "explanation": "Non-defining với d→u ph→y",
+      "hints": [
+        "N, which + V, V"
+      ],
+      "points": 10
+    },
+    {
+      "id": 26,
+      "type": "multiple-choice",
+      "question": "Moonquakes, __________ can last half an hour, are weaker than Earthquakes.",
+      "options": [
+        "who",
+        "which",
+        "that",
+        "whose"
+      ],
+      "correctIndex": 1,
+      "explanation": "Có d→u ph→y → which",
+      "hints": [
+        "Có d→u ph→y → which"
+      ],
+      "points": 10
+    },
+    {
+      "id": 27,
+      "type": "multiple-choice",
+      "question": "My father, __________ job is a geologist, studies rocks.",
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "that"
+      ],
+      "correctIndex": 2,
+      "explanation": "whose + job",
+      "hints": [
+        "whose + N"
+      ],
+      "points": 10
+    },
+    {
+      "id": 28,
+      "type": "multiple-choice",
+      "question": "The Mekong River, __________ flows through Vietnam, is important.",
+      "options": [
+        "who",
+        "which",
+        "that",
+        "whose"
+      ],
+      "correctIndex": 1,
+      "explanation": "Có d→u ph→y → which",
+      "hints": [
+        "Có d→u ph→y → which"
+      ],
+      "points": 10
+    },
+    {
+      "id": 29,
+      "type": "multiple-choice",
+      "question": "Ha Long Bay, __________ has limestone karsts, is a UNESCO site.",
+      "options": [
+        "who",
+        "which",
+        "that",
+        "whose"
+      ],
+      "correctIndex": 1,
+      "explanation": "Có d→u ph→y → which",
+      "hints": [
+        "Có d→u ph→y → which"
+      ],
+      "points": 10
+    },
+    {
+      "id": 30,
+      "type": "multiple-choice",
+      "question": "Rivers and lakes, __________ provide fresh water, should be protected.",
+      "options": [
+        "who",
+        "which",
+        "that",
+        "whose"
+      ],
+      "correctIndex": 1,
+      "explanation": "Có d→u ph→y → which",
+      "hints": [
+        "Có d→u ph→y → which"
+      ],
+      "points": 10
+    }
+  ]
+}

@@ -1,0 +1,358 @@
+{
+  "unitId": "g9-unit-3-healthy-living",
+  "title": "Grade 9 - Unit 3: Healthy Living for Teens",
+  "grammarTopics": ["First Conditional with Modal Verbs"],
+  "theory": {
+    "brief": "Unit 3 học về lối sống lành mạnh cho thanh thiếu niên với Câu điều kiện loại 1 kết hợp động từ khuyết thiếu (modal verbs). Cấu trúc: If + S + V (present simple), S + modal verb (can/must/should/might/may) + V0. Dùng để diễn tả điều có thể xảy ra trong tương lai với các sắc thái khác nhau về khả năng, lời khuyên, sự cần thiết.",
+    "examples": [
+      "If you want to stay healthy, you must exercise regularly. (Nếu bạn muốn khỏe mạnh, bạn phải tập thể dục đều đặn.)",
+      "If you eat healthy food, you can be strong. (Nếu bạn ăn thực phẩm lành mạnh, bạn có thể khỏe mạnh.)",
+      "If you feel stressed, you should talk to a counselor. (Nếu bạn cảm thấy căng thẳng, bạn nên nói chuyện với cố vấn.)",
+      "If you stay up late, you might feel tired tomorrow. (Nếu bạn thức khuya, bạn có thể cảm thấy mệt ngày mai.)"
+    ]
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "type": "multiple-choice",
+      "question": "If you want to lose weight, you __________ eat less junk food.",
+      "options": ["should", "will", "would", "can"],
+      "correctIndex": 0,
+      "explanation": "Should = nên (lời khuyên)",
+      "hints": ["Động từ khuyết thiếu chỉ lời khuyên"],
+      "points": 10
+    },
+    {
+      "id": 2,
+      "type": "multiple-choice",
+      "question": "If you don't sleep enough, you __________ have health problems.",
+      "options": ["will", "might", "must", "should"],
+      "correctIndex": 1,
+      "explanation": "Might = có thể (khả năng xảy ra)",
+      "hints": ["Động từ khuyết thiếu chỉ khả năng không chắc chắn"],
+      "points": 10
+    },
+    {
+      "id": 3,
+      "type": "multiple-choice",
+      "question": "If you want to pass the exam, you __________ study hard.",
+      "options": ["can", "must", "might", "may"],
+      "correctIndex": 1,
+      "explanation": "Must = phải (sự cần thiết)",
+      "hints": ["Động từ khuyết thiếu chỉ sự bắt buộc"],
+      "points": 10
+    },
+    {
+      "id": 4,
+      "type": "multiple-choice",
+      "question": "If you exercise regularly, you __________ improve your health.",
+      "options": ["can", "must", "should", "would"],
+      "correctIndex": 0,
+      "explanation": "Can = có thể (khả năng làm được)",
+      "hints": ["Động từ khuyết thiếu chỉ khả năng"],
+      "points": 10
+    },
+    {
+      "id": 5,
+      "type": "multiple-choice",
+      "question": "If you feel sick, you __________ go to see a doctor.",
+      "options": ["might", "can", "should", "may"],
+      "correctIndex": 2,
+      "explanation": "Should = nên (lời khuyên)",
+      "hints": ["Lời khuyên khi bị ốm"],
+      "points": 10
+    },
+    {
+      "id": 6,
+      "type": "multiple-choice",
+      "question": "If you don't manage your time well, you __________ feel stressed.",
+      "options": ["must", "should", "might", "can"],
+      "correctIndex": 2,
+      "explanation": "Might = có thể sẽ (khả năng xảy ra)",
+      "hints": ["Khả năng không chắc chắn"],
+      "points": 10
+    },
+    {
+      "id": 7,
+      "type": "multiple-choice",
+      "question": "If you want to maintain a healthy lifestyle, you __________ balance study and rest.",
+      "options": ["can", "must", "will", "would"],
+      "correctIndex": 1,
+      "explanation": "Must = phải (sự cần thiết)",
+      "hints": ["Sự cần thiết phải làm"],
+      "points": 10
+    },
+    {
+      "id": 8,
+      "type": "multiple-choice",
+      "question": "If you eat a well-balanced diet, you __________ get all the vitamins you need.",
+      "options": ["can", "must", "should", "might"],
+      "correctIndex": 0,
+      "explanation": "Can = có thể (khả năng)",
+      "hints": ["Khả năng làm được điều gì"],
+      "points": 10
+    },
+    {
+      "id": 9,
+      "type": "multiple-choice",
+      "question": "If you're feeling stressed out, you __________ take a short break.",
+      "options": ["must", "might", "should", "will"],
+      "correctIndex": 2,
+      "explanation": "Should = nên (lời khuyên)",
+      "hints": ["Lời khuyên khi căng thẳng"],
+      "points": 10
+    },
+    {
+      "id": 10,
+      "type": "multiple-choice",
+      "question": "If you don't drink enough water, you __________ become dehydrated.",
+      "options": ["must", "should", "can", "would"],
+      "correctIndex": 2,
+      "explanation": "Can = có thể (khả năng xảy ra)",
+      "hints": ["Khả năng xảy ra"],
+      "points": 10
+    },
+    {
+      "id": 11,
+      "type": "multiple-choice",
+      "question": "If you have a due date tomorrow, you __________ delay your work.",
+      "options": ["shouldn't", "can't", "mustn't", "won't"],
+      "correctIndex": 0,
+      "explanation": "Shouldn't = không nên (lời khuyên phủ định)",
+      "hints": ["Lời khuyên không nên làm gì"],
+      "points": 10
+    },
+    {
+      "id": 12,
+      "type": "multiple-choice",
+      "question": "If you set clear priorities, you __________ accomplish your goals more easily.",
+      "options": ["must", "can", "should", "might"],
+      "correctIndex": 1,
+      "explanation": "Can = có thể (khả năng làm được)",
+      "hints": ["Khả năng đạt được mục tiêu"],
+      "points": 10
+    },
+    {
+      "id": 13,
+      "type": "multiple-choice",
+      "question": "If students __________ help, they should ask their counselors.",
+      "options": ["need", "needs", "will need", "needed"],
+      "correctIndex": 0,
+      "explanation": "Mệnh đề if dùng present simple (không dùng will)",
+      "hints": ["Present simple trong mệnh đề if"],
+      "points": 10
+    },
+    {
+      "id": 14,
+      "type": "multiple-choice",
+      "question": "If you __________ optimistic, you can overcome difficulties.",
+      "options": ["are", "is", "will be", "were"],
+      "correctIndex": 0,
+      "explanation": "Câu điều kiện loại 1 dùng present simple trong mệnh đề if",
+      "hints": ["Present simple: are"],
+      "points": 10
+    },
+    {
+      "id": 15,
+      "type": "multiple-choice",
+      "question": "If she __________ physical exercise daily, she will stay fit.",
+      "options": ["do", "does", "will do", "did"],
+      "correctIndex": 1,
+      "explanation": "Ngôi thứ 3 số ít thêm -s/-es",
+      "hints": ["She = ngôi thứ 3 số ít"],
+      "points": 10
+    },
+    {
+      "id": 16,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["If", "you", "want", "to", "stay", "healthy", "you", "must", "exercise", "regularly"],
+      "distractors": ["exercises", "exercising", "exercised"],
+      "correctSentence": "If you want to stay healthy you must exercise regularly",
+      "acceptedAnswers": [
+        "If you want to stay healthy you must exercise regularly",
+        "If you want to stay healthy, you must exercise regularly",
+        "If you want to stay healthy you must exercise regularly.",
+        "If you want to stay healthy, you must exercise regularly."
+      ],
+      "hints": ["must + động từ nguyên thể"],
+      "points": 10
+    },
+    {
+      "id": 17,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["If", "you", "eat", "healthy", "food", "you", "can", "be", "strong"],
+      "distractors": ["eating", "eats", "ate"],
+      "correctSentence": "If you eat healthy food you can be strong",
+      "acceptedAnswers": [
+        "If you eat healthy food you can be strong",
+        "If you eat healthy food, you can be strong",
+        "If you eat healthy food you can be strong.",
+        "If you eat healthy food, you can be strong."
+      ],
+      "hints": ["can + V0"],
+      "points": 10
+    },
+    {
+      "id": 18,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["If", "you", "feel", "stressed", "you", "should", "talk", "to", "a", "counselor"],
+      "distractors": ["feeling", "feels", "felt"],
+      "correctSentence": "If you feel stressed you should talk to a counselor",
+      "acceptedAnswers": [
+        "If you feel stressed you should talk to a counselor",
+        "If you feel stressed, you should talk to a counselor",
+        "If you feel stressed you should talk to a counselor.",
+        "If you feel stressed, you should talk to a counselor."
+      ],
+      "hints": ["should + động từ nguyên thể"],
+      "points": 10
+    },
+    {
+      "id": 19,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["If", "you", "don't", "sleep", "enough", "you", "might", "have", "health", "problems"],
+      "distractors": ["sleeping", "sleeps", "slept"],
+      "correctSentence": "If you don't sleep enough you might have health problems",
+      "acceptedAnswers": [
+        "If you don't sleep enough you might have health problems",
+        "If you don't sleep enough, you might have health problems",
+        "If you don't sleep enough you might have health problems.",
+        "If you don't sleep enough, you might have health problems."
+      ],
+      "hints": ["might + V0"],
+      "points": 10
+    },
+    {
+      "id": 20,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["If", "you", "manage", "your", "time", "well", "you", "can", "reduce", "stress"],
+      "distractors": ["managing", "manages", "managed"],
+      "correctSentence": "If you manage your time well you can reduce stress",
+      "acceptedAnswers": [
+        "If you manage your time well you can reduce stress",
+        "If you manage your time well, you can reduce stress",
+        "If you manage your time well you can reduce stress.",
+        "If you manage your time well, you can reduce stress."
+      ],
+      "hints": ["can + động từ nguyên thể"],
+      "points": 10
+    },
+    {
+      "id": 21,
+      "type": "multiple-choice",
+      "question": "If you complete your assignments on time, you __________ avoid stress.",
+      "options": ["can", "must", "should", "might"],
+      "correctIndex": 0,
+      "explanation": "Can = có thể (khả năng)",
+      "hints": ["Khả năng tránh được stress"],
+      "points": 10
+    },
+    {
+      "id": 22,
+      "type": "multiple-choice",
+      "question": "If there are too many distractions, you __________ focus on your work.",
+      "options": ["can", "can't", "must", "mustn't"],
+      "correctIndex": 1,
+      "explanation": "Can't = không thể (không có khả năng)",
+      "hints": ["Phủ định của can"],
+      "points": 10
+    },
+    {
+      "id": 23,
+      "type": "multiple-choice",
+      "question": "If you divide your tasks into smaller parts, you __________ accomplish them more easily.",
+      "options": ["can", "must", "should", "would"],
+      "correctIndex": 0,
+      "explanation": "Can = có thể làm được",
+      "hints": ["Khả năng hoàn thành dễ dàng hơn"],
+      "points": 10
+    },
+    {
+      "id": 24,
+      "type": "multiple-choice",
+      "question": "If she __________ anxious about the exam, she should practice meditation.",
+      "options": ["feel", "feels", "will feel", "felt"],
+      "correctIndex": 1,
+      "explanation": "Ngôi thứ 3 số ít thêm -s",
+      "hints": ["She = ngôi thứ 3 số ít"],
+      "points": 10
+    },
+    {
+      "id": 25,
+      "type": "multiple-choice",
+      "question": "If you maintain a well-balanced lifestyle, you __________ be both mentally and physically healthy.",
+      "options": ["must", "can", "should", "might"],
+      "correctIndex": 1,
+      "explanation": "Can = có thể đạt được",
+      "hints": ["Khả năng đạt được sức khỏe tốt"],
+      "points": 10
+    },
+    {
+      "id": 26,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["If", "you", "set", "clear", "priorities", "you", "can", "organize", "your", "work", "better"],
+      "distractors": ["setting", "sets", "to set"],
+      "correctSentence": "If you set clear priorities you can organize your work better",
+      "acceptedAnswers": [
+        "If you set clear priorities you can organize your work better",
+        "If you set clear priorities, you can organize your work better",
+        "If you set clear priorities you can organize your work better.",
+        "If you set clear priorities, you can organize your work better."
+      ],
+      "hints": ["can + V0"],
+      "points": 10
+    },
+    {
+      "id": 27,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["If", "you", "stay", "up", "late", "you", "might", "feel", "tired", "tomorrow"],
+      "distractors": ["staying", "stays", "stayed"],
+      "correctSentence": "If you stay up late you might feel tired tomorrow",
+      "acceptedAnswers": [
+        "If you stay up late you might feel tired tomorrow",
+        "If you stay up late, you might feel tired tomorrow",
+        "If you stay up late you might feel tired tomorrow.",
+        "If you stay up late, you might feel tired tomorrow."
+      ],
+      "hints": ["might + động từ nguyên thể"],
+      "points": 10
+    },
+    {
+      "id": 28,
+      "type": "multiple-choice",
+      "question": "If you want to achieve your goals, you __________ give up easily.",
+      "options": ["shouldn't", "should", "can't", "must"],
+      "correctIndex": 0,
+      "explanation": "Shouldn't = không nên (lời khuyên phủ định)",
+      "hints": ["Lời khuyên không nên từ bỏ"],
+      "points": 10
+    },
+    {
+      "id": 29,
+      "type": "multiple-choice",
+      "question": "If the assignment is too difficult, you __________ ask your teacher for help.",
+      "options": ["must", "can", "will", "would"],
+      "correctIndex": 1,
+      "explanation": "Can = có thể (lựa chọn)",
+      "hints": ["Khả năng xin giúp đỡ"],
+      "points": 10
+    },
+    {
+      "id": 30,
+      "type": "multiple-choice",
+      "question": "If they __________ a well-balanced diet, they will stay healthy.",
+      "options": ["maintain", "maintains", "will maintain", "maintained"],
+      "correctIndex": 0,
+      "explanation": "Present simple trong mệnh đề if (they = số nhiều)",
+      "hints": ["They + động từ nguyên thể"],
+      "points": 10
+    }
+  ]
+}

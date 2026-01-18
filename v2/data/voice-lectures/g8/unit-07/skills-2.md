@@ -4,7 +4,7 @@
 
 <!-- chunk: intro -->
 <teacher_script pause="0">
-Chào các em. Đến bài <eng>Skills 2</eng>. Hôm nay mình nghe về ô nhiễm nước và tập viết thông báo tham dự bài giảng. Mở sách trang 79 nha.
+Chào các em. Chào mừng các em đến với bài học hôm nay. Mời các em mở sách giáo khoa.
 </teacher_script>
 
 ---
@@ -13,7 +13,7 @@ Chào các em. Đến bài <eng>Skills 2</eng>. Hôm nay mình nghe về ô nhi�
 ### Bài 2 trang 79 - Listen and choose word
 
 <teacher_script pause="0">
-Bài 2 <eng>Listen to a talk</eng>. Nghe và chọn từ đúng.
+Bây giờ các em sẽ nghe một đoạn băng. Hãy chú ý lắng nghe để tìm thông tin trả lời câu hỏi.
 </teacher_script>
 
 <audio src="https://img.loigiaihay.com/picture/2023/0613/track-44.mp3">
@@ -40,7 +40,7 @@ Bài 2 <eng>Listen to a talk</eng>. Nghe và chọn từ đúng.
 </explanation>
 
 <teacher_script pause="30">
-Sửa bài nếu sai nha.
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
@@ -49,7 +49,7 @@ Sửa bài nếu sai nha.
 ### Bài 3 trang 79 - Listen and answer
 
 <teacher_script pause="60">
-Bài 3 <eng>Listen again and answer the questions</eng>. Nghe lại và trả lời ngắn gọn. 1 phút nha.
+Bây giờ các em sẽ nghe một đoạn băng. Hãy chú ý lắng nghe để tìm thông tin trả lời câu hỏi.
 </teacher_script>
 
 <audio src="https://img.loigiaihay.com/picture/2023/0613/track-45.mp3">
@@ -74,7 +74,7 @@ Bài 3 <eng>Listen again and answer the questions</eng>. Nghe lại và trả l�
 </answer>
 
 <teacher_script pause="30">
-Sửa bài nếu sai nha.
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
@@ -83,7 +83,7 @@ Sửa bài nếu sai nha.
 ### Bài 4 trang 79 - Match notice parts
 
 <teacher_script pause="60">
-Bài 4 <eng>Read the notice and match the headings</eng>. Đọc thông báo và nối tiêu đề. 1 phút nha.
+Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
 <task>
@@ -100,7 +100,7 @@ Bài 4 <eng>Read the notice and match the headings</eng>. Đọc thông báo và
 ### Bài 5 trang 79 - Write a notice
 
 <teacher_script pause="180">
-Bài 5 <eng>Write a notice</eng>. Viết thông báo mời các bạn tham gia bài giảng về ô nhiễm nước. 3 phút nha.
+Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
 <task>
@@ -135,12 +135,12 @@ If you have questions, please contact the club leader.
 </dialogue>
 
 <teacher_script pause="0" action="record">
-Em hãy đọc to thông báo mình vừa viết và ghi âm gửi thầy nhé.
+Các em hãy ghi âm phần luyện tập của mình và gửi cho thầy nhé.
 </teacher_script>
 
 ---
 
 <!-- chunk: end -->
 <teacher_script pause="0">
-Xong bài <eng>Skills 2</eng>. Chúc các em viết được thông báo thật chuẩn nhé. Hẹn gặp lại!
+Bài học hôm nay kết thúc tại đây. Các em nhớ ôn bài và chuẩn bị cho bài học tiếp theo. Tạm biệt các em.
 </teacher_script>

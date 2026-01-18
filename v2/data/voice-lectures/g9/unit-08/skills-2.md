@@ -4,7 +4,7 @@
 
 <!-- chunk: intro -->
 <teacher_script pause="0">
-Chào các em. Bài <eng>Skills 2</eng> hôm nay chúng ta luyện nghe về chuyến đi đến bảo tàng nhà Brontes và viết lịch trình cho một tour du lịch ở Huế. Mở sách trang 27 nào.
+Chào các em. Chào mừng các em đến với bài học hôm nay. Mời các em mở sách giáo khoa.
 </teacher_script>
 
 ---
@@ -13,7 +13,7 @@ Chào các em. Bài <eng>Skills 2</eng> hôm nay chúng ta luyện nghe về chu
 ### Bài 2 trang 27 - Listening: Fill blanks
 
 <teacher_script pause="60">
-Bài 2 nghe về lịch trình chuyến đi đến nhà của gia đình Brontes. Điền thông tin còn thiếu.
+Bây giờ các em sẽ nghe một đoạn băng. Hãy chú ý lắng nghe để tìm thông tin trả lời câu hỏi.
 </teacher_script>
 
 <audio src="https://img.loigiaihay.com/picture/2024/0515/51.mp3">
@@ -42,7 +42,7 @@ Bài 2 nghe về lịch trình chuyến đi đến nhà của gia đình Brontes
 </answer>
 
 <teacher_script pause="30">
-Sửa bài vào nha.
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
@@ -51,7 +51,7 @@ Sửa bài vào nha.
 ### Bài 3 trang 27 - Tick pictures
 
 <teacher_script pause="30">
-Bài 3 nghe lại và đánh dấu vào 2 bức tranh minh họa đúng ý bài nghe.
+Bây giờ các em sẽ nghe một đoạn băng. Hãy chú ý lắng nghe để tìm thông tin trả lời câu hỏi.
 </teacher_script>
 
 <audio src="https://img.loigiaihay.com/picture/2024/0515/52.mp3">
@@ -87,9 +87,7 @@ So correct is: 1, 3, 4.
 ### Bài 5 trang 27 - Write a tour itinerary
 
 <teacher_script pause="0">
-Bài 5 viết một đoạn văn giới thiệu tour nửa ngày ở Huế (100-120 từ).
-- Thời lượng: 5 giờ, xe buýt nhỏ.
-- Địa điểm: Chùa Thiên Mụ, Đại Nội (The Citadel), Chợ Đông Ba.
+Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
 <reading>
@@ -102,12 +100,12 @@ The tour ends at 1:00 PM.
 </reading>
 
 <teacher_script pause="0" action="record">
-Em hãy viết lịch trình và đọc ghi âm gửi thầy nhé.
+Các em hãy ghi âm phần luyện tập của mình và gửi cho thầy nhé.
 </teacher_script>
 
 ---
 
 <!-- chunk: end -->
 <teacher_script pause="0">
-Kết thúc bài học. Các em nhớ luyện nghe và tập viết lịch trình du lịch nhé. Tạm biệt!
+Bài học hôm nay kết thúc tại đây. Các em nhớ ôn bài và chuẩn bị cho bài học tiếp theo. Tạm biệt các em.
 </teacher_script>

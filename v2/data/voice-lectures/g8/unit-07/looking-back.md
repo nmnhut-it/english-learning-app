@@ -4,7 +4,7 @@
 
 <!-- chunk: intro -->
 <teacher_script pause="0">
-Chào các em. Bài cuối cùng <eng>Looking Back</eng>. Ôn tập từ vựng về môi trường và ngữ pháp câu phức. Mở sách trang 80 nha.
+Chào các em. Hôm nay chúng ta sẽ ôn tập lại kiến thức đã học.
 </teacher_script>
 
 ---
@@ -13,7 +13,7 @@ Chào các em. Bài cuối cùng <eng>Looking Back</eng>. Ôn tập từ vựng 
 ### Bài 1 trang 80 - Complete sentences
 
 <teacher_script pause="60">
-Bài 1 chọn đáp án A, B hoặc C. 1 phút nha.
+Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
 <questions type="multiple_choice">
@@ -47,7 +47,7 @@ A. Watering | B. Cleaning up | C. Cutting down
 </explanation>
 
 <teacher_script pause="30">
-Sửa bài nếu sai nha.
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
@@ -56,7 +56,7 @@ Sửa bài nếu sai nha.
 ### Bài 2 trang 80 - Fill in the blanks
 
 <teacher_script pause="60">
-Bài 2 điền từ vào chỗ trống. 1 phút nha.
+Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
 <questions type="fill_blanks">
@@ -74,7 +74,7 @@ Bài 2 điền từ vào chỗ trống. 1 phút nha.
 </answer>
 
 <teacher_script pause="30">
-Sửa bài nếu sai nha.
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
@@ -83,7 +83,7 @@ Sửa bài nếu sai nha.
 ### Bài 3 trang 80 - Complete clauses
 
 <teacher_script pause="120">
-Bài 3 hoàn thành câu. Dùng ý riêng của em. 2 phút nha.
+Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
 <task>
@@ -109,7 +109,7 @@ Bài 3 hoàn thành câu. Dùng ý riêng của em. 2 phút nha.
 ### Bài 4 trang 80 - Find mistakes
 
 <teacher_script pause="60">
-Bài 4 tìm lỗi sai A, B hoặc C. 1 phút nha.
+Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
 <questions type="multiple_choice">
@@ -139,12 +139,12 @@ Bài 4 tìm lỗi sai A, B hoặc C. 1 phút nha.
 </explanation>
 
 <teacher_script pause="30">
-Sửa bài kỹ nha, ngữ pháp phần này quan trọng.
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
 
 <!-- chunk: end -->
 <teacher_script pause="0">
-Vậy là xong Unit 7 <eng>Environmental Protection</eng>. Các em về nhà ôn lại từ vựng môi trường và cấu trúc câu phức nhé. Hẹn gặp lại ở Unit 8!
+Bài học hôm nay kết thúc tại đây. Các em nhớ ôn bài và chuẩn bị cho bài học tiếp theo. Tạm biệt các em.
 </teacher_script>

@@ -1,0 +1,587 @@
+{
+  "unitId": "grammar-tenses",
+  "title": "Grammar Tenses - English Verb Tenses Practice",
+  "subtitle": "12 Thì Trong Tiếng Anh",
+  "grammarTopics": [
+    "Present Simple",
+    "Present Continuous",
+    "Past Simple",
+    "Past Continuous",
+    "Future Simple (will)",
+    "Be Going To",
+    "Present Perfect",
+    "Past Perfect"
+  ],
+  "theory": {
+    "sections": [
+      {
+        "title": "Present Simple",
+        "content": "Diễn tả thói quen, sự thật hiển nhiên, lịch trình cố định."
+      },
+      {
+        "title": "Present Continuous",
+        "content": "Diễn tả hành động đang xảy ra ngay lúc nói."
+      },
+      {
+        "title": "Past Simple",
+        "content": "Diễn tả hành động đã xảy ra và kết thúc trong quá khứ."
+      },
+      {
+        "title": "Future Simple",
+        "content": "Diễn tả hành động sẽ xảy ra trong tương lai."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "id": 1,
+      "question": "She _______ to school every day.",
+      "options": ["go", "goes", "going", "went"],
+      "correctIndex": 1,
+      "explanation": "Present Simple với chủ ngữ ngôi 3 số ít (She) phải thêm -s/-es vào động từ. 'Go' trở thành 'goes'.",
+      "hints": ["Đây là thói quen hàng ngày (every day) → dùng Present Simple"],
+      "points": 10,
+      "topic": "Present Simple"
+    },
+    {
+      "type": "multiple-choice",
+      "id": 2,
+      "question": "Look! The children _______ in the garden now.",
+      "options": ["play", "plays", "are playing", "played"],
+      "correctIndex": 2,
+      "explanation": "'Look!' và 'now' cho thấy hành động đang xảy ra ngay lúc này → dùng Present Continuous: am/is/are + V-ing.",
+      "hints": ["'Look!' và 'now' là dấu hiệu của thì Present Continuous"],
+      "points": 10,
+      "topic": "Present Continuous"
+    },
+    {
+      "type": "multiple-choice",
+      "id": 3,
+      "question": "They _______ a new house last year.",
+      "options": ["buy", "buys", "bought", "are buying"],
+      "correctIndex": 2,
+      "explanation": "'Last year' là dấu hiệu của Past Simple. 'Buy' là động từ bất quy tắc, quá khứ là 'bought'.",
+      "hints": ["'Last year' = năm ngoái → quá khứ"],
+      "points": 10,
+      "topic": "Past Simple"
+    },
+    {
+      "type": "multiple-choice",
+      "id": 4,
+      "question": "I _______ my homework when my mother came home.",
+      "options": ["do", "did", "was doing", "am doing"],
+      "correctIndex": 2,
+      "explanation": "Hành động 'làm bài tập' đang diễn ra khi hành động khác 'mẹ về' xảy ra → dùng Past Continuous cho hành động đang diễn ra.",
+      "hints": ["Hành động đang xảy ra trong quá khứ khi có hành động khác xen vào"],
+      "points": 10,
+      "topic": "Past Continuous"
+    },
+    {
+      "type": "multiple-choice",
+      "id": 5,
+      "question": "I think it _______ tomorrow.",
+      "options": ["rain", "rains", "will rain", "is raining"],
+      "correctIndex": 2,
+      "explanation": "'I think' + hành động trong tương lai → dùng 'will' để dự đoán về tương lai.",
+      "hints": ["Dự đoán về tương lai thường dùng 'will'"],
+      "points": 10,
+      "topic": "Future Simple (will)"
+    },
+    {
+      "type": "multiple-choice",
+      "id": 6,
+      "question": "Look at those dark clouds! It _______ rain soon.",
+      "options": ["will", "is going to", "is", "was going to"],
+      "correctIndex": 1,
+      "explanation": "Khi có bằng chứng rõ ràng (mây đen) để dự đoán → dùng 'be going to'.",
+      "hints": ["Có bằng chứng (dark clouds) → dùng 'be going to'"],
+      "points": 10,
+      "topic": "Be Going To"
+    },
+    {
+      "type": "multiple-choice",
+      "id": 7,
+      "question": "I _______ this movie three times.",
+      "options": ["see", "saw", "have seen", "am seeing"],
+      "correctIndex": 2,
+      "explanation": "Hành động đã xảy ra nhiều lần và có thể tiếp tục → Present Perfect: have/has + V3/ed.",
+      "hints": ["'Three times' - kinh nghiệm → Present Perfect"],
+      "points": 10,
+      "topic": "Present Perfect"
+    },
+    {
+      "type": "multiple-choice",
+      "id": 8,
+      "question": "The train _______ before we arrived at the station.",
+      "options": ["leaves", "left", "had left", "has left"],
+      "correctIndex": 2,
+      "explanation": "Hành động 'tàu rời đi' xảy ra TRƯỚC hành động 'chúng tôi đến' (cả hai đều trong quá khứ) → Past Perfect: had + V3/ed.",
+      "hints": ["Hành động xảy ra trước một hành động khác trong quá khứ → Past Perfect"],
+      "points": 10,
+      "topic": "Past Perfect"
+    },
+    {
+      "type": "multiple-choice",
+      "id": 9,
+      "question": "Water _______ at 100 degrees Celsius.",
+      "options": ["boil", "boils", "is boiling", "boiled"],
+      "correctIndex": 1,
+      "explanation": "Sự thật khoa học, luôn đúng → Present Simple. 'Water' là ngôi 3 số ít nên động từ thêm -s.",
+      "hints": ["Sự thật hiển nhiên/khoa học → Present Simple"],
+      "points": 10,
+      "topic": "Present Simple"
+    },
+    {
+      "type": "multiple-choice",
+      "id": 10,
+      "question": "Be quiet! The baby _______.",
+      "options": ["sleeps", "is sleeping", "slept", "has slept"],
+      "correctIndex": 1,
+      "explanation": "'Be quiet!' cho thấy hành động đang xảy ra ngay lúc này → Present Continuous.",
+      "hints": ["Lệnh 'Be quiet!' cho thấy em bé đang ngủ ngay lúc này"],
+      "points": 10,
+      "topic": "Present Continuous"
+    },
+    {
+      "type": "multiple-choice",
+      "id": 11,
+      "question": "She _______ born in 1995.",
+      "options": ["is", "was", "has been", "had been"],
+      "correctIndex": 1,
+      "explanation": "'In 1995' là mốc thời gian cụ thể trong quá khứ → Past Simple với 'was'.",
+      "hints": ["Năm 1995 là thời điểm trong quá khứ"],
+      "points": 10,
+      "topic": "Past Simple"
+    },
+    {
+      "type": "multiple-choice",
+      "id": 12,
+      "question": "At 8 PM last night, I _______ TV.",
+      "options": ["watch", "watched", "was watching", "have watched"],
+      "correctIndex": 2,
+      "explanation": "'At 8 PM last night' - thời điểm cụ thể trong quá khứ, hành động đang diễn ra → Past Continuous.",
+      "hints": ["Hành động đang xảy ra tại thời điểm cụ thể trong quá khứ"],
+      "points": 10,
+      "topic": "Past Continuous"
+    },
+    {
+      "type": "multiple-choice",
+      "id": 13,
+      "question": "The movie _______ at 7 PM tonight.",
+      "options": ["start", "starts", "is starting", "started"],
+      "correctIndex": 1,
+      "explanation": "Lịch trình cố định (phim chiếu) → dùng Present Simple cho tương lai.",
+      "hints": ["Lịch trình phim, xe buýt, máy bay → Present Simple"],
+      "points": 10,
+      "topic": "Present Simple"
+    },
+    {
+      "type": "multiple-choice",
+      "id": 14,
+      "question": "I _______ to Paris next month. I've already bought the ticket.",
+      "options": ["go", "will go", "am going", "went"],
+      "correctIndex": 2,
+      "explanation": "Kế hoạch đã sắp đặt trước (đã mua vé) → Present Continuous cho tương lai.",
+      "hints": ["Kế hoạch đã lên lịch, đã chuẩn bị → Present Continuous"],
+      "points": 10,
+      "topic": "Present Continuous"
+    },
+    {
+      "type": "multiple-choice",
+      "id": 15,
+      "question": "I _______ never _______ sushi before.",
+      "options": ["have / eaten", "has / eaten", "had / eat", "have / eat"],
+      "correctIndex": 0,
+      "explanation": "Kinh nghiệm chưa từng làm trước đây → Present Perfect: have/has + never + V3/ed. 'I' đi với 'have'.",
+      "hints": ["'Never... before' là dấu hiệu của Present Perfect"],
+      "points": 10,
+      "topic": "Present Perfect"
+    },
+    {
+      "type": "multiple-choice",
+      "id": 16,
+      "question": "She _______ in this company since 2010.",
+      "options": ["works", "worked", "has worked", "is working"],
+      "correctIndex": 2,
+      "explanation": "'Since 2010' (từ năm 2010 đến nay) → Present Perfect để diễn tả hành động bắt đầu trong quá khứ và còn tiếp tục.",
+      "hints": ["'Since' + mốc thời gian → Present Perfect"],
+      "points": 10,
+      "topic": "Present Perfect"
+    },
+    {
+      "type": "multiple-choice",
+      "id": 17,
+      "question": "After he _______ dinner, he went to bed.",
+      "options": ["has", "had", "had had", "was having"],
+      "correctIndex": 2,
+      "explanation": "'After' + hành động xảy ra trước → Past Perfect. 'Had had' vì 'have dinner' là cụm cố định.",
+      "hints": ["Hành động xảy ra trước (after) trong quá khứ → Past Perfect"],
+      "points": 10,
+      "topic": "Past Perfect"
+    },
+    {
+      "type": "multiple-choice",
+      "id": 18,
+      "question": "My brother usually _______ up at 6 AM.",
+      "options": ["get", "gets", "is getting", "got"],
+      "correctIndex": 1,
+      "explanation": "'Usually' là trạng từ chỉ tần suất → Present Simple. 'My brother' là ngôi 3 số ít nên động từ thêm -s.",
+      "hints": ["'Usually' - thói quen → Present Simple"],
+      "points": 10,
+      "topic": "Present Simple"
+    },
+    {
+      "type": "multiple-choice",
+      "id": 19,
+      "question": "What _______ you _______ at 9 PM yesterday?",
+      "options": ["do / do", "did / do", "were / doing", "are / doing"],
+      "correctIndex": 2,
+      "explanation": "'At 9 PM yesterday' - thời điểm cụ thể trong quá khứ, hỏi về hành động đang làm → Past Continuous.",
+      "hints": ["Hỏi về hành động đang làm tại thời điểm trong quá khứ"],
+      "points": 10,
+      "topic": "Past Continuous"
+    },
+    {
+      "type": "multiple-choice",
+      "id": 20,
+      "question": "I promise I _______ help you tomorrow.",
+      "options": ["will", "am going to", "am", "would"],
+      "correctIndex": 0,
+      "explanation": "'Promise' + quyết định ngay lúc nói → dùng 'will'.",
+      "hints": ["Lời hứa (promise) thường dùng 'will'"],
+      "points": 10,
+      "topic": "Future Simple (will)"
+    },
+    {
+      "type": "multiple-choice",
+      "id": 21,
+      "question": "The sun _______ in the East.",
+      "options": ["rise", "rises", "is rising", "rose"],
+      "correctIndex": 1,
+      "explanation": "Sự thật hiển nhiên về tự nhiên → Present Simple. 'The sun' là ngôi 3 số ít.",
+      "hints": ["Sự thật về tự nhiên → Present Simple"],
+      "points": 10,
+      "topic": "Present Simple"
+    },
+    {
+      "type": "multiple-choice",
+      "id": 22,
+      "question": "We _______ dinner when the phone rang.",
+      "options": ["have", "had", "were having", "are having"],
+      "correctIndex": 2,
+      "explanation": "Hành động 'ăn tối' đang diễn ra thì 'điện thoại reo' → Past Continuous cho hành động đang diễn ra.",
+      "hints": ["Hành động đang xảy ra khi có hành động khác chen vào"],
+      "points": 10,
+      "topic": "Past Continuous"
+    },
+    {
+      "type": "multiple-choice",
+      "id": 23,
+      "question": "He _______ already _______ the homework.",
+      "options": ["has / finished", "have / finished", "had / finish", "is / finishing"],
+      "correctIndex": 0,
+      "explanation": "'Already' (đã rồi) → Present Perfect. 'He' đi với 'has'.",
+      "hints": ["'Already' là dấu hiệu của Present Perfect"],
+      "points": 10,
+      "topic": "Present Perfect"
+    },
+    {
+      "type": "multiple-choice",
+      "id": 24,
+      "question": "They _______ football when it started to rain.",
+      "options": ["play", "played", "were playing", "had played"],
+      "correctIndex": 2,
+      "explanation": "Hành động 'chơi bóng' đang diễn ra khi 'trời bắt đầu mưa' → Past Continuous.",
+      "hints": ["Hành động đang xảy ra khi có sự kiện khác"],
+      "points": 10,
+      "topic": "Past Continuous"
+    },
+    {
+      "type": "multiple-choice",
+      "id": 25,
+      "question": "I _______ this book yet.",
+      "options": ["don't read", "didn't read", "haven't read", "am not reading"],
+      "correctIndex": 2,
+      "explanation": "'Yet' (chưa) → Present Perfect với câu phủ định: haven't/hasn't + V3/ed.",
+      "hints": ["'Yet' thường đi với Present Perfect"],
+      "points": 10,
+      "topic": "Present Perfect"
+    },
+    {
+      "type": "multiple-choice",
+      "id": 26,
+      "question": "The plane _______ at 10 AM tomorrow.",
+      "options": ["leave", "leaves", "is leaving", "will leave"],
+      "correctIndex": 1,
+      "explanation": "Lịch trình máy bay cố định → Present Simple cho tương lai.",
+      "hints": ["Lịch trình giao thông (máy bay, tàu) → Present Simple"],
+      "points": 10,
+      "topic": "Present Simple"
+    },
+    {
+      "type": "multiple-choice",
+      "id": 27,
+      "question": "She _______ to music right now.",
+      "options": ["listen", "listens", "is listening", "listened"],
+      "correctIndex": 2,
+      "explanation": "'Right now' = ngay bây giờ → Present Continuous.",
+      "hints": ["'Right now' là dấu hiệu rõ ràng của Present Continuous"],
+      "points": 10,
+      "topic": "Present Continuous"
+    },
+    {
+      "type": "multiple-choice",
+      "id": 28,
+      "question": "I _______ my keys yesterday.",
+      "options": ["lose", "lost", "have lost", "was losing"],
+      "correctIndex": 1,
+      "explanation": "'Yesterday' → Past Simple. 'Lose' là động từ bất quy tắc: lose - lost - lost.",
+      "hints": ["'Yesterday' = hôm qua → Past Simple"],
+      "points": 10,
+      "topic": "Past Simple"
+    },
+    {
+      "type": "multiple-choice",
+      "id": 29,
+      "question": "By the time I arrived, the meeting _______.",
+      "options": ["starts", "started", "had started", "has started"],
+      "correctIndex": 2,
+      "explanation": "'By the time I arrived' - hành động 'cuộc họp bắt đầu' xảy ra TRƯỚC → Past Perfect.",
+      "hints": ["Hành động xảy ra trước 'I arrived' → Past Perfect"],
+      "points": 10,
+      "topic": "Past Perfect"
+    },
+    {
+      "type": "multiple-choice",
+      "id": 30,
+      "question": "We _______ to the beach tomorrow if the weather is nice.",
+      "options": ["go", "goes", "will go", "went"],
+      "correctIndex": 2,
+      "explanation": "Câu điều kiện loại 1: If + Present Simple, will + V nguyên thể.",
+      "hints": ["Câu điều kiện loại 1 với 'if' → 'will' ở mệnh đề chính"],
+      "points": 10,
+      "topic": "Future Simple (will)"
+    },
+    {
+      "type": "multiple-choice",
+      "id": 31,
+      "question": "How long _______ you _______ English?",
+      "options": ["do / learn", "did / learn", "have / learned", "are / learning"],
+      "correctIndex": 2,
+      "explanation": "'How long' hỏi về khoảng thời gian từ quá khứ đến nay → Present Perfect.",
+      "hints": ["'How long' + hành động kéo dài → Present Perfect"],
+      "points": 10,
+      "topic": "Present Perfect"
+    },
+    {
+      "type": "multiple-choice",
+      "id": 32,
+      "question": "The children _______ outside while their parents _______ dinner.",
+      "options": ["played / were cooking", "were playing / cooked", "were playing / were cooking", "play / cook"],
+      "correctIndex": 2,
+      "explanation": "Hai hành động cùng xảy ra song song trong quá khứ → cả hai dùng Past Continuous.",
+      "hints": ["Hai hành động xảy ra đồng thời trong quá khứ"],
+      "points": 10,
+      "topic": "Past Continuous"
+    },
+    {
+      "type": "multiple-choice",
+      "id": 33,
+      "question": "He _______ breakfast yet, so he's very hungry.",
+      "options": ["doesn't have", "didn't have", "hasn't had", "isn't having"],
+      "correctIndex": 2,
+      "explanation": "'Yet' + kết quả ở hiện tại (đói) → Present Perfect phủ định.",
+      "hints": ["'Yet' và kết quả hiện tại → Present Perfect"],
+      "points": 10,
+      "topic": "Present Perfect"
+    },
+    {
+      "type": "multiple-choice",
+      "id": 34,
+      "question": "I _______ my grandmother next weekend.",
+      "options": ["visit", "visited", "am visiting", "have visited"],
+      "correctIndex": 2,
+      "explanation": "'Next weekend' + kế hoạch đã sắp đặt → Present Continuous cho tương lai.",
+      "hints": ["Kế hoạch cá nhân đã lên lịch → Present Continuous"],
+      "points": 10,
+      "topic": "Present Continuous"
+    },
+    {
+      "type": "multiple-choice",
+      "id": 35,
+      "question": "The Earth _______ around the Sun.",
+      "options": ["move", "moves", "is moving", "moved"],
+      "correctIndex": 1,
+      "explanation": "Sự thật khoa học về vũ trụ → Present Simple.",
+      "hints": ["Quy luật tự nhiên/khoa học → Present Simple"],
+      "points": 10,
+      "topic": "Present Simple"
+    },
+    {
+      "type": "multiple-choice",
+      "id": 36,
+      "question": "She _______ just _______ back from vacation.",
+      "options": ["has / come", "have / come", "had / came", "is / coming"],
+      "correctIndex": 0,
+      "explanation": "'Just' (vừa mới) → Present Perfect. 'She' đi với 'has'.",
+      "hints": ["'Just' là dấu hiệu của Present Perfect"],
+      "points": 10,
+      "topic": "Present Perfect"
+    },
+    {
+      "type": "multiple-choice",
+      "id": 37,
+      "question": "What time _______ the show _______ last night?",
+      "options": ["does / start", "did / start", "has / started", "was / starting"],
+      "correctIndex": 1,
+      "explanation": "'Last night' → Past Simple. Câu hỏi: Did + S + V nguyên thể.",
+      "hints": ["'Last night' = tối qua → Past Simple"],
+      "points": 10,
+      "topic": "Past Simple"
+    },
+    {
+      "type": "multiple-choice",
+      "id": 38,
+      "question": "I'm tired. I think I _______ to bed early tonight.",
+      "options": ["go", "went", "will go", "am going"],
+      "correctIndex": 2,
+      "explanation": "'I think' + quyết định ngay lúc nói → 'will'.",
+      "hints": ["Quyết định tức thời khi nói → 'will'"],
+      "points": 10,
+      "topic": "Future Simple (will)"
+    },
+    {
+      "type": "multiple-choice",
+      "id": 39,
+      "question": "They _______ married for 20 years.",
+      "options": ["are", "were", "have been", "had been"],
+      "correctIndex": 2,
+      "explanation": "'For 20 years' - khoảng thời gian kéo dài đến hiện tại → Present Perfect.",
+      "hints": ["'For + khoảng thời gian' → Present Perfect"],
+      "points": 10,
+      "topic": "Present Perfect"
+    },
+    {
+      "type": "multiple-choice",
+      "id": 40,
+      "question": "When I got home, my mother _______ already _______ dinner.",
+      "options": ["has / cooked", "have / cooked", "had / cooked", "was / cooking"],
+      "correctIndex": 2,
+      "explanation": "Hành động 'nấu xong' xảy ra TRƯỚC 'tôi về nhà' → Past Perfect.",
+      "hints": ["'Already' + hành động trước hành động quá khứ khác → Past Perfect"],
+      "points": 10,
+      "topic": "Past Perfect"
+    },
+    {
+      "type": "multiple-choice",
+      "id": 41,
+      "question": "He _______ TV every evening.",
+      "options": ["watch", "watches", "is watching", "watched"],
+      "correctIndex": 1,
+      "explanation": "'Every evening' → thói quen → Present Simple. 'He' cần động từ thêm -es.",
+      "hints": ["'Every + thời gian' → thói quen → Present Simple"],
+      "points": 10,
+      "topic": "Present Simple"
+    },
+    {
+      "type": "multiple-choice",
+      "id": 42,
+      "question": "Look! Someone _______ to break into that car!",
+      "options": ["try", "tries", "is trying", "tried"],
+      "correctIndex": 2,
+      "explanation": "'Look!' → hành động đang xảy ra ngay lúc này → Present Continuous.",
+      "hints": ["'Look!' = Nhìn kìa! → đang xảy ra"],
+      "points": 10,
+      "topic": "Present Continuous"
+    },
+    {
+      "type": "multiple-choice",
+      "id": 43,
+      "question": "I _______ my car last week. It was expensive!",
+      "options": ["repair", "repaired", "have repaired", "was repairing"],
+      "correctIndex": 1,
+      "explanation": "'Last week' → Past Simple. Đã sửa xong tuần trước.",
+      "hints": ["'Last week' = tuần trước → Past Simple"],
+      "points": 10,
+      "topic": "Past Simple"
+    },
+    {
+      "type": "multiple-choice",
+      "id": 44,
+      "question": "She _______ for 3 hours when I called her.",
+      "options": ["studies", "studied", "was studying", "had been studying"],
+      "correctIndex": 3,
+      "explanation": "Hành động 'học' diễn ra trong khoảng thời gian TRƯỚC thời điểm 'tôi gọi' → Past Perfect Continuous.",
+      "hints": ["Hành động kéo dài trước một thời điểm trong quá khứ"],
+      "points": 10,
+      "topic": "Past Perfect"
+    },
+    {
+      "type": "multiple-choice",
+      "id": 45,
+      "question": "My father _______ to work by car. He always takes the bus.",
+      "options": ["don't go", "doesn't go", "isn't going", "didn't go"],
+      "correctIndex": 1,
+      "explanation": "'Always' → thói quen → Present Simple phủ định. 'My father' là ngôi 3 số ít → doesn't.",
+      "hints": ["Thói quen + ngôi 3 số ít → doesn't + V"],
+      "points": 10,
+      "topic": "Present Simple"
+    },
+    {
+      "type": "multiple-choice",
+      "id": 46,
+      "question": "_______ you ever _______ to Japan?",
+      "options": ["Do / go", "Did / go", "Have / been", "Are / going"],
+      "correctIndex": 2,
+      "explanation": "'Ever' (đã từng) hỏi về kinh nghiệm → Present Perfect. 'Have you been to...' = Bạn đã từng đến...?",
+      "hints": ["'Ever' trong câu hỏi → Present Perfect"],
+      "points": 10,
+      "topic": "Present Perfect"
+    },
+    {
+      "type": "multiple-choice",
+      "id": 47,
+      "question": "While I _______, my phone rang.",
+      "options": ["shower", "showered", "was showering", "have showered"],
+      "correctIndex": 2,
+      "explanation": "Hành động 'tắm' đang diễn ra khi 'điện thoại reo' → Past Continuous.",
+      "hints": ["'While' + hành động đang xảy ra → Past Continuous"],
+      "points": 10,
+      "topic": "Past Continuous"
+    },
+    {
+      "type": "multiple-choice",
+      "id": 48,
+      "question": "By 2030, scientists _______ a cure for cancer.",
+      "options": ["find", "found", "will have found", "have found"],
+      "correctIndex": 2,
+      "explanation": "'By 2030' → thời điểm trong tương lai mà hành động sẽ hoàn thành trước đó → Future Perfect: will have + V3/ed.",
+      "hints": ["'By + thời điểm tương lai' → Future Perfect"],
+      "points": 10,
+      "topic": "Future Simple (will)"
+    },
+    {
+      "type": "multiple-choice",
+      "id": 49,
+      "question": "She _______ English since she was 10.",
+      "options": ["learn", "learned", "has learned", "is learning"],
+      "correctIndex": 2,
+      "explanation": "'Since she was 10' → từ 10 tuổi đến nay → Present Perfect.",
+      "hints": ["'Since' + mốc thời gian quá khứ → Present Perfect"],
+      "points": 10,
+      "topic": "Present Perfect"
+    },
+    {
+      "type": "multiple-choice",
+      "id": 50,
+      "question": "I _______ already _______ when you called.",
+      "options": ["had / left", "have / left", "was / leaving", "am / leaving"],
+      "correctIndex": 0,
+      "explanation": "Hành động 'đi rồi' xảy ra TRƯỚC 'bạn gọi' (cả hai trong quá khứ) → Past Perfect.",
+      "hints": ["'Already' + hành động trước một hành động quá khứ khác"],
+      "points": 10,
+      "topic": "Past Perfect"
+    }
+  ]
+}

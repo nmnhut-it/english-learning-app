@@ -1,0 +1,366 @@
+{
+  "unitId": "g6-review-2-units-4-6",
+  "title": "Review 2: Units 4-6 - Comparatives, Must/Mustn't, Should/Shouldn't, Will",
+  "studentName": "Tran Gia Hung",
+  "grade": 6,
+  "grammarTopics": [
+    "Comparative Adjectives",
+    "Must/Mustn't",
+    "Should/Shouldn't",
+    "Will/Won't",
+    "Some/Any",
+    "Countable/Uncountable Nouns"
+  ],
+  "theory": {
+    "brief": "Ôn tập Units 4-6: So sánh hơn (Comparative), Must/Mustn't (phải/cấm), Should/Shouldn't (nên/không nên), Will/Won't (tương lai đơn), Some/Any (một vài), Countable/Uncountable Nouns (danh từ đếm được/không đếm được).",
+    "examples": [
+      "My house is bigger than yours. (Nhà tôi lớn hơn nhà bạn.)",
+      "You must do your homework. (Bạn phải làm bài tập.)",
+      "You should eat vegetables. (Bạn nên ăn rau.)",
+      "We will visit grandparents. (Chúng ta sẽ thăm ông bà.)",
+      "I have some books. (Tôi có vài cuốn sách.)"
+    ]
+  },
+  "exercises": [
+    {
+      "id": "g6r2-ex1",
+      "type": "fill-blank",
+      "question": "This city is _______ (modern) than my hometown.",
+      "wordHint": "(modern)",
+      "answer": "more modern",
+      "acceptedAnswers": [
+        "more modern"
+      ],
+      "hints": [
+        "Tính từ dài: more + adj"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6r2-ex2",
+      "type": "fill-blank",
+      "question": "My house is _______ (big) than yours.",
+      "wordHint": "(big)",
+      "answer": "bigger",
+      "acceptedAnswers": [
+        "bigger"
+      ],
+      "hints": [
+        "Tính từ ngắn: adj + -er"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6r2-ex3",
+      "type": "fill-blank",
+      "question": "You _______ be quiet in the library.",
+      "wordHint": "phải",
+      "answer": "must",
+      "acceptedAnswers": [
+        "must"
+      ],
+      "hints": [
+        "Bắt buộc = must"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6r2-ex4",
+      "type": "fill-blank",
+      "question": "You _______ eat in the computer room.",
+      "wordHint": "không được",
+      "answer": "mustn't",
+      "acceptedAnswers": [
+        "mustn't",
+        "must not"
+      ],
+      "hints": [
+        "Cấm = mustn't"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6r2-ex5",
+      "type": "fill-blank",
+      "question": "You _______ behave well at Tet.",
+      "wordHint": "nên",
+      "answer": "should",
+      "acceptedAnswers": [
+        "should"
+      ],
+      "hints": [
+        "Lời khuyên = should"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6r2-ex6",
+      "type": "fill-blank",
+      "question": "Children _______ eat too many sweets.",
+      "wordHint": "không nên",
+      "answer": "shouldn't",
+      "acceptedAnswers": [
+        "shouldn't",
+        "should not"
+      ],
+      "hints": [
+        "Không nên = shouldn't"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6r2-ex7",
+      "type": "fill-blank",
+      "question": "We _______ visit our grandparents next week.",
+      "wordHint": "sẽ",
+      "answer": "will",
+      "acceptedAnswers": [
+        "will"
+      ],
+      "hints": [
+        "Tương lai = will"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6r2-ex8",
+      "type": "fill-blank",
+      "question": "There are _______ (many/much) students in the class.",
+      "wordHint": "many/much",
+      "answer": "many",
+      "acceptedAnswers": [
+        "many"
+      ],
+      "hints": [
+        "'students' đếm được → many"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6r2-ex9",
+      "type": "fill-blank",
+      "question": "There isn't _______ (many/much) water in the bottle.",
+      "wordHint": "many/much",
+      "answer": "much",
+      "acceptedAnswers": [
+        "much"
+      ],
+      "hints": [
+        "'water' không đếm được → much"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6r2-ex10",
+      "type": "fill-blank",
+      "question": "I have _______ (some/any) pens.",
+      "wordHint": "some/any",
+      "answer": "some",
+      "acceptedAnswers": [
+        "some"
+      ],
+      "hints": [
+        "Câu khẳng định → some"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6r2-ex11",
+      "type": "multiple-choice",
+      "question": "Life in the city is _______ than in the countryside.",
+      "options": [
+        "busy",
+        "busier",
+        "more busy",
+        "busiest"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tính từ ngắn: busy → busier",
+      "hints": [
+        "Đổi y → i + er"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6r2-ex12",
+      "type": "multiple-choice",
+      "question": "Students _______ wear uniforms at school.",
+      "options": [
+        "must",
+        "mustn't",
+        "should",
+        "will"
+      ],
+      "correctIndex": 0,
+      "explanation": "Quy định bắt buộc → must",
+      "hints": [
+        "Bắt buộc"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6r2-ex13",
+      "type": "multiple-choice",
+      "question": "You _______ help your parents with housework.",
+      "options": [
+        "must",
+        "mustn't",
+        "should",
+        "will"
+      ],
+      "correctIndex": 2,
+      "explanation": "Lời khuyên → should",
+      "hints": [
+        "Nên làm"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6r2-ex14",
+      "type": "multiple-choice",
+      "question": "It _______ rain tomorrow.",
+      "options": [
+        "must",
+        "should",
+        "will",
+        "can"
+      ],
+      "correctIndex": 2,
+      "explanation": "Dự đoán tương lai → will",
+      "hints": [
+        "Tương lai"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6r2-ex15",
+      "type": "multiple-choice",
+      "question": "Do you have _______ questions?",
+      "options": [
+        "some",
+        "any",
+        "a",
+        "an"
+      ],
+      "correctIndex": 1,
+      "explanation": "Câu hỏi → any",
+      "hints": [
+        "Câu nghi vấn"
+      ],
+      "points": 10
+    },
+    {
+      "id": "g6r2-ex16",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "My house is bigger than yours.",
+        "My house is bigger than yours"
+      ],
+      "hints": [
+        "S + be + adj-er + than + O"
+      ],
+      "points": 15,
+      "correctSentence": "My house is bigger than yours.",
+      "words": [
+        "is",
+        "house",
+        "my",
+        "bigger",
+        "yours",
+        "than"
+      ]
+    },
+    {
+      "id": "g6r2-ex17",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "You must be quiet in the library.",
+        "You must be quiet in the library"
+      ],
+      "hints": [
+        "S + must + V0"
+      ],
+      "points": 15,
+      "correctSentence": "You must be quiet in the library.",
+      "words": [
+        "must",
+        "you",
+        "quiet",
+        "be",
+        "library",
+        "the",
+        "in"
+      ]
+    },
+    {
+      "id": "g6r2-ex18",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "You should behave well at Tet.",
+        "You should behave well at Tet"
+      ],
+      "hints": [
+        "S + should + V0"
+      ],
+      "points": 15,
+      "correctSentence": "You should behave well at Tet.",
+      "words": [
+        "should",
+        "you",
+        "well",
+        "behave",
+        "Tet",
+        "at"
+      ]
+    },
+    {
+      "id": "g6r2-ex19",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "We will visit our grandparents next week.",
+        "We will visit our grandparents next week"
+      ],
+      "hints": [
+        "S + will + V0"
+      ],
+      "points": 15,
+      "correctSentence": "We will visit our grandparents next week.",
+      "words": [
+        "will",
+        "we",
+        "visit",
+        "grandparents",
+        "our",
+        "week",
+        "next"
+      ]
+    },
+    {
+      "id": "g6r2-ex20",
+      "type": "word-rearrange",
+      "instructions": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "acceptedAnswers": [
+        "There are many students in the classroom.",
+        "There are many students in the classroom"
+      ],
+      "hints": [
+        "There are + many + N số nhiều"
+      ],
+      "points": 15,
+      "correctSentence": "There are many students in the classroom.",
+      "words": [
+        "many",
+        "are",
+        "there",
+        "in",
+        "students",
+        "classroom",
+        "the"
+      ]
+    }
+  ]
+}

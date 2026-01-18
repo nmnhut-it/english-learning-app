@@ -1,0 +1,346 @@
+{
+  "unitId": "g9-unit-4-remembering-the-past",
+  "title": "Grade 9 - Unit 4: Remembering the Past",
+  "grammarTopics": ["Past Continuous", "Wish + Past Simple"],
+  "theory": {
+    "brief": "Unit 4 học về việc nhớ về quá khứ với 2 chủ điểm ngữ pháp: (1) Thì quá khứ tiếp diễn (Past Continuous) dùng để diễn tả hành động đang xảy ra tại một thời điểm trong quá khứ, và (2) Câu ước với Wish + past simple để diễn tả mong ước về điều không có thật ở hiện tại hoặc khó thực hiện được.",
+    "examples": [
+      "I was visiting Hoi An when I met my old friend. (Tôi đang thăm Hội An khi tôi gặp bạn cũ.)",
+      "While she was sleeping, someone knocked on the door. (Khi cô ấy đang ngủ, có người gõ cửa.)",
+      "I wish I had more time to travel. (Tôi ước mình có nhiều thời gian hơn để đi du lịch.)",
+      "She wishes she could visit the ancient castle. (Cô ấy ước mình có thể thăm lâu đài cổ.)"
+    ]
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "type": "multiple-choice",
+      "question": "My dad first met my mum when he __________ Hoi An Ancient Town.",
+      "options": ["visited", "was visiting", "visits", "has visited"],
+      "correctIndex": 1,
+      "explanation": "Past continuous: was/were + V-ing (hành động đang xảy ra trong quá khứ)",
+      "hints": ["Dùng past continuous: was + V-ing"],
+      "points": 10
+    },
+    {
+      "id": 2,
+      "type": "multiple-choice",
+      "question": "Tom had a nightmare while he __________ in the camp.",
+      "options": ["sleeps", "slept", "was sleeping", "has slept"],
+      "correctIndex": 2,
+      "explanation": "While + past continuous (hành động đang diễn ra)",
+      "hints": ["While + was/were + V-ing"],
+      "points": 10
+    },
+    {
+      "id": 3,
+      "type": "multiple-choice",
+      "question": "David hurt his foot while he __________ down the steps of the pagoda.",
+      "options": ["went", "was going", "goes", "has gone"],
+      "correctIndex": 1,
+      "explanation": "Past continuous với 'while' (đang làm gì thì có sự việc khác xảy ra)",
+      "hints": ["while + was/were + V-ing"],
+      "points": 10
+    },
+    {
+      "id": 4,
+      "type": "multiple-choice",
+      "question": "__________ you watching TV at 9 p.m. last night?",
+      "options": ["Was", "Were", "Did", "Do"],
+      "correctIndex": 1,
+      "explanation": "Câu hỏi past continuous: Were + you + V-ing?",
+      "hints": ["You → were"],
+      "points": 10
+    },
+    {
+      "id": 5,
+      "type": "multiple-choice",
+      "question": "People __________ the monument for years because it had great value.",
+      "options": ["preserve", "preserved", "were preserving", "are preserving"],
+      "correctIndex": 2,
+      "explanation": "Past continuous với 'people' (số nhiều): were + V-ing",
+      "hints": ["People → were + V-ing"],
+      "points": 10
+    },
+    {
+      "id": 6,
+      "type": "multiple-choice",
+      "question": "When I finished school, my family __________ in the countryside.",
+      "options": ["lived", "was living", "lives", "has lived"],
+      "correctIndex": 1,
+      "explanation": "Past continuous: family (số ít) → was + V-ing",
+      "hints": ["Family = số ít → was + V-ing"],
+      "points": 10
+    },
+    {
+      "id": 7,
+      "type": "multiple-choice",
+      "question": "I wish I __________ more presents every Christmas.",
+      "options": ["get", "got", "have got", "will get"],
+      "correctIndex": 1,
+      "explanation": "Wish + past simple (mong ước không có thật ở hiện tại)",
+      "hints": ["wish + quá khứ đơn"],
+      "points": 10
+    },
+    {
+      "id": 8,
+      "type": "multiple-choice",
+      "question": "I wish I __________ enough money to visit London.",
+      "options": ["have", "had", "will have", "have had"],
+      "correctIndex": 1,
+      "explanation": "Wish + past simple để diễn tả mong ước về hiện tại",
+      "hints": ["wish + V2/Ved"],
+      "points": 10
+    },
+    {
+      "id": 9,
+      "type": "multiple-choice",
+      "question": "Do you wish we __________ a swimming pool in our school?",
+      "options": ["have", "had", "will have", "would have"],
+      "correctIndex": 1,
+      "explanation": "Wish + past simple",
+      "hints": ["wish + quá khứ đơn"],
+      "points": 10
+    },
+    {
+      "id": 10,
+      "type": "multiple-choice",
+      "question": "We wish we __________ spend our summer holiday on the seaside.",
+      "options": ["can", "could", "will", "would"],
+      "correctIndex": 1,
+      "explanation": "Wish + could (quá khứ của can) để diễn tả mong ước",
+      "hints": ["can → could trong câu ước"],
+      "points": 10
+    },
+    {
+      "id": 11,
+      "type": "multiple-choice",
+      "question": "I wish I __________ go back to my grandparents' time.",
+      "options": ["can", "could", "will", "would"],
+      "correctIndex": 1,
+      "explanation": "Wish + could để diễn tả mong ước về khả năng",
+      "hints": ["wish + could + V0"],
+      "points": 10
+    },
+    {
+      "id": 12,
+      "type": "multiple-choice",
+      "question": "I __________ a presentation when the microphone stopped working.",
+      "options": ["made", "was making", "make", "have made"],
+      "correctIndex": 1,
+      "explanation": "Past continuous (đang làm gì thì có sự việc khác xảy ra)",
+      "hints": ["was/were + V-ing"],
+      "points": 10
+    },
+    {
+      "id": 13,
+      "type": "multiple-choice",
+      "question": "__________ you still working on the farm when the war broke out?",
+      "options": ["Was", "Were", "Did", "Do"],
+      "correctIndex": 1,
+      "explanation": "Past continuous question: Were + you + V-ing?",
+      "hints": ["you → were"],
+      "points": 10
+    },
+    {
+      "id": 14,
+      "type": "multiple-choice",
+      "question": "People __________ the Taj Mahal while Shah Jahan was emperor.",
+      "options": ["built", "were building", "build", "have built"],
+      "correctIndex": 1,
+      "explanation": "Past continuous với 'while' (hai hành động song song)",
+      "hints": ["while + were + V-ing"],
+      "points": 10
+    },
+    {
+      "id": 15,
+      "type": "multiple-choice",
+      "question": "She wishes she __________ her own room.",
+      "options": ["has", "had", "will have", "have"],
+      "correctIndex": 1,
+      "explanation": "Wish + past simple",
+      "hints": ["wish + V2/Ved"],
+      "points": 10
+    },
+    {
+      "id": 16,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["I", "was", "visiting", "Hoi", "An", "when", "I", "met", "my", "friend"],
+      "distractors": ["visit", "visiting", "visits"],
+      "correctSentence": "I was visiting Hoi An when I met my friend",
+      "acceptedAnswers": [
+        "I was visiting Hoi An when I met my friend",
+        "I was visiting Hoi An when I met my friend."
+      ],
+      "hints": ["was/were + V-ing"],
+      "points": 10
+    },
+    {
+      "id": 17,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["While", "he", "was", "sleeping", "someone", "knocked", "on", "the", "door"],
+      "distractors": ["sleep", "sleeps", "slept"],
+      "correctSentence": "While he was sleeping someone knocked on the door",
+      "acceptedAnswers": [
+        "While he was sleeping someone knocked on the door",
+        "While he was sleeping, someone knocked on the door",
+        "While he was sleeping someone knocked on the door.",
+        "While he was sleeping, someone knocked on the door."
+      ],
+      "hints": ["while + was/were + V-ing"],
+      "points": 10
+    },
+    {
+      "id": 18,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["I", "wish", "I", "had", "more", "time", "to", "travel"],
+      "distractors": ["have", "has", "having"],
+      "correctSentence": "I wish I had more time to travel",
+      "acceptedAnswers": [
+        "I wish I had more time to travel",
+        "I wish I had more time to travel."
+      ],
+      "hints": ["wish + past simple"],
+      "points": 10
+    },
+    {
+      "id": 19,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["We", "wish", "we", "could", "spend", "our", "holiday", "by", "the", "sea"],
+      "distractors": ["can", "will", "would"],
+      "correctSentence": "We wish we could spend our holiday by the sea",
+      "acceptedAnswers": [
+        "We wish we could spend our holiday by the sea",
+        "We wish we could spend our holiday by the sea."
+      ],
+      "hints": ["wish + could + V0"],
+      "points": 10
+    },
+    {
+      "id": 20,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["People", "were", "preserving", "the", "monument", "for", "many", "years"],
+      "distractors": ["preserve", "preserved", "preserves"],
+      "correctSentence": "People were preserving the monument for many years",
+      "acceptedAnswers": [
+        "People were preserving the monument for many years",
+        "People were preserving the monument for many years."
+      ],
+      "hints": ["were + V-ing"],
+      "points": 10
+    },
+    {
+      "id": 21,
+      "type": "multiple-choice",
+      "question": "My brother __________ just sitting while I was looking around.",
+      "options": ["is", "was", "were", "has been"],
+      "correctIndex": 1,
+      "explanation": "Past continuous: my brother (số ít) → was + V-ing",
+      "hints": ["Số ít → was"],
+      "points": 10
+    },
+    {
+      "id": 22,
+      "type": "multiple-choice",
+      "question": "I wish I __________ clean my room every day.",
+      "options": ["don't have to", "didn't have to", "won't have to", "haven't had to"],
+      "correctIndex": 1,
+      "explanation": "Wish + didn't have to (mong ước không phải làm gì)",
+      "hints": ["wish + didn't + V0"],
+      "points": 10
+    },
+    {
+      "id": 23,
+      "type": "multiple-choice",
+      "question": "She wishes her sister __________ put dirty clothes on her bed.",
+      "options": ["doesn't", "didn't", "won't", "hasn't"],
+      "correctIndex": 1,
+      "explanation": "Wish + past simple (phủ định)",
+      "hints": ["wish + didn't + V0"],
+      "points": 10
+    },
+    {
+      "id": 24,
+      "type": "multiple-choice",
+      "question": "What __________ you doing at 8 p.m. yesterday?",
+      "options": ["was", "were", "did", "do"],
+      "correctIndex": 1,
+      "explanation": "Past continuous question: What + were + you + doing?",
+      "hints": ["you → were"],
+      "points": 10
+    },
+    {
+      "id": 25,
+      "type": "multiple-choice",
+      "question": "The children __________ in the yard when it started to rain.",
+      "options": ["play", "played", "were playing", "are playing"],
+      "correctIndex": 2,
+      "explanation": "Past continuous (đang chơi thì trời mưa)",
+      "hints": ["were + V-ing"],
+      "points": 10
+    },
+    {
+      "id": 26,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["She", "wishes", "she", "could", "visit", "the", "ancient", "castle"],
+      "distractors": ["can", "will", "would"],
+      "correctSentence": "She wishes she could visit the ancient castle",
+      "acceptedAnswers": [
+        "She wishes she could visit the ancient castle",
+        "She wishes she could visit the ancient castle."
+      ],
+      "hints": ["wish + could + V0"],
+      "points": 10
+    },
+    {
+      "id": 27,
+      "type": "word-rearrange",
+      "instruction": "Sắp xếp các từ thành câu hoàn chỉnh",
+      "words": ["They", "were", "building", "the", "bridge", "when", "the", "storm", "came"],
+      "distractors": ["build", "built", "builds"],
+      "correctSentence": "They were building the bridge when the storm came",
+      "acceptedAnswers": [
+        "They were building the bridge when the storm came",
+        "They were building the bridge when the storm came."
+      ],
+      "hints": ["were + V-ing"],
+      "points": 10
+    },
+    {
+      "id": 28,
+      "type": "multiple-choice",
+      "question": "I wish the weather __________ better today.",
+      "options": ["is", "was", "were", "will be"],
+      "correctIndex": 2,
+      "explanation": "Wish + were (dùng 'were' cho tất cả ngôi trong câu ước)",
+      "hints": ["Câu ước dùng 'were' cho mọi chủ ngữ"],
+      "points": 10
+    },
+    {
+      "id": 29,
+      "type": "multiple-choice",
+      "question": "He __________ along the street when he saw the accident.",
+      "options": ["walks", "walked", "was walking", "has walked"],
+      "correctIndex": 2,
+      "explanation": "Past continuous (đang đi thì thấy tai nạn)",
+      "hints": ["was/were + V-ing"],
+      "points": 10
+    },
+    {
+      "id": 30,
+      "type": "multiple-choice",
+      "question": "I wish I __________ speak French fluently.",
+      "options": ["can", "could", "will", "would"],
+      "correctIndex": 1,
+      "explanation": "Wish + could (mong ước có khả năng)",
+      "hints": ["wish + could + V0"],
+      "points": 10
+    }
+  ]
+}

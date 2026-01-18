@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Grade 6 - Unit 4: My Neighbourhood | English Grammar Games</title>
+  <meta name="description" content="Practice Comparative Adjectives and Giving Directions for Grade 6">
+
+  <!-- Shared Styles -->
+  <link rel="stylesheet" href="../css/shared.css">
+</head>
+<body>
+  <!-- Game Header -->
+  <header class="game-header">
+    <div class="container">
+      <div class="game-header__container">
+        <div class="game-header__info-section">
+          <h1 class="game-header__title">Grade 6 - Unit 4: My Neighbourhood</h1>
+          <p class="game-header__subtitle">Comparative Adjectives & Giving Directions</p>
+          <div class="game-info">
+            <div class="game-info__item">
+              <span class="game-info__label">Giáo viên:</span>
+              <span class="game-info__value">Nguyễn Minh Nhựt</span>
+            </div>
+            <div class="game-info__item">
+              <span class="game-info__label">Học sinh:</span>
+              <span class="game-info__value">Lớp 6</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="game-header__stats">
+          <div class="stat">
+            <span class="stat__label">Điểm</span>
+            <span class="stat__value stat__value--primary" id="current-score">⭐ 0</span>
+          </div>
+
+          <div class="stat">
+            <span class="stat__label">Tiến độ</span>
+            <span class="stat__value" id="progress-count">0 / 0</span>
+          </div>
+
+          <div class="stat" id="combo-display" style="display: none;">
+            <span class="stat__label">Combo</span>
+            <span class="stat__value" id="combo-count">0</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Progress Bar -->
+      <div class="progress">
+        <div class="progress__bar" id="progress-bar" style="width: 0%;"></div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Content -->
+  <main class="container">
+    <!-- Theory Panel (Collapsible) -->
+    <div class="theory-panel" id="theory-panel">
+      <button class="theory-panel__toggle" id="theory-toggle">
+        <span>📖 Tài liệu ngữ pháp</span>
+        <span class="theory-panel__icon" id="theory-icon">▼</span>
+      </button>
+
+      <div class="theory-panel__content" id="theory-content">
+        <div class="theory-panel__section">
+          <h3 class="theory-panel__heading">1. So sánh hơn (Comparative Adjectives)</h3>
+          <p><strong>Công thức:</strong> So sánh 2 người/vật với nhau</p>
+
+          <p><strong>Tính từ ngắn (1 âm tiết):</strong></p>
+          <p class="text-center" style="font-size: 1.2em; color: var(--primary);"><strong>S + be + adj-er + than + O</strong></p>
+
+          <div class="theory-panel__example">
+            <strong>Ví dụ:</strong><br>
+            • My house is <strong>bigger</strong> than your house. (Nhà tôi lớn hơn nhà bạn.)<br>
+            • This street is <strong>narrower</strong> than that street. (Đường này hẹp hơn đường kia.)<br>
+            • She is <strong>taller</strong> than her sister. (Cô ấy cao hơn chị gái.)
+          </div>
+
+          <p><strong>Tính từ dài (2+ âm tiết):</strong></p>
+          <p class="text-center" style="font-size: 1.2em; color: var(--primary);"><strong>S + be + more + adj + than + O</strong></p>
+
+          <div class="theory-panel__example">
+            <strong>Ví dụ:</strong><br>
+            • This city is <strong>more modern</strong> than my hometown. (Thành phố này hiện đại hơn quê tôi.)<br>
+            • The park is <strong>more beautiful</strong> than the square. (Công viên đẹp hơn quảng trường.)<br>
+            • Life here is <strong>more peaceful</strong> than in the city. (Cuộc sống ở đây yên bình hơn ở thành phố.)
+          </div>
+
+          <p class="text-note"><strong>Lưu ý:</strong> Tính từ kết thúc bằng -y: đổi y thành i + er<br>
+          • happy → happier, noisy → noisier, easy → easier</p>
+
+          <p class="text-note"><strong>Tính từ bất quy tắc:</strong><br>
+          • good → better (tốt hơn)<br>
+          • bad → worse (tệ hơn)<br>
+          • far → farther/further (xa hơn)</p>
+        </div>
+
+        <div class="theory-panel__section">
+          <h3 class="theory-panel__heading">2. Chỉ đường (Giving Directions)</h3>
+          <table style="width: 100%; border-collapse: collapse;">
+            <tr style="background: var(--bg-light);">
+              <th style="padding: 8px; text-align: left;">Cụm từ</th>
+              <th style="padding: 8px; text-align: left;">Nghĩa</th>
+            </tr>
+            <tr>
+              <td style="padding: 8px;"><strong>Go straight</strong></td>
+              <td style="padding: 8px;">Đi thẳng</td>
+            </tr>
+            <tr style="background: var(--bg-light);">
+              <td style="padding: 8px;"><strong>Turn left/right</strong></td>
+              <td style="padding: 8px;">Rẽ trái/phải</td>
+            </tr>
+            <tr>
+              <td style="padding: 8px;"><strong>Cross the road</strong></td>
+              <td style="padding: 8px;">Băng qua đường</td>
+            </tr>
+            <tr style="background: var(--bg-light);">
+              <td style="padding: 8px;"><strong>Take the first/second turning</strong></td>
+              <td style="padding: 8px;">Rẽ ở ngã rẽ thứ nhất/hai</td>
+            </tr>
+            <tr>
+              <td style="padding: 8px;"><strong>On your left/right</strong></td>
+              <td style="padding: 8px;">Ở bên trái/phải của bạn</td>
+            </tr>
+            <tr style="background: var(--bg-light);">
+              <td style="padding: 8px;"><strong>The way to...</strong></td>
+              <td style="padding: 8px;">Đường đến...</td>
+            </tr>
+          </table>
+        </div>
+
+        <div class="theory-panel__section">
+          <h3 class="theory-panel__heading">3. Từ vựng về khu phố (Neighbourhood Vocabulary)</h3>
+          <p><strong>Places:</strong> post office (bưu điện), bank (ngân hàng), supermarket (siêu thị), museum (bảo tàng), park (công viên), square (quảng trường)</p>
+          <p><strong>Adjectives:</strong> modern (hiện đại), peaceful (yên bình), noisy (ồn ào), quiet (yên tĩnh), expensive (đắt đỏ), crowded (đông đúc)</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Exercise Container -->
+    <div id="exercise-container">
+      <!-- Exercises will be rendered here dynamically -->
+      <div class="card text-center">
+        <h2>Loading...</h2>
+        <p>Please wait while we load the exercises.</p>
+      </div>
+    </div>
+  </main>
+
+  <!-- Core JavaScript (loaded first) -->
+  <script src="../js/core/utils.js"></script>
+  <script src="../js/core/storage.js"></script>
+  <script src="../js/core/telegram-sender.js"></script>
+  <script src="../js/core/game-engine.js"></script>
+
+  <!-- Exercise Type Handlers (mobile-friendly types only) -->
+  <script src="../js/exercises/fill-blank.js"></script>
+  <script src="../js/exercises/multiple-choice.js"></script>
+  <script src="../js/exercises/word-rearrange.js"></script>
+
+  <!-- Initialize Game -->
+  <script>
+    const UNIT_ID = 'g6-unit-4-my-neighbourhood';
+    const DATA_PATH = '../data/g6-unit-4-my-neighbourhood.json';
+
+    // Theory panel toggle
+    const theoryToggle = document.getElementById('theory-toggle');
+    const theoryContent = document.getElementById('theory-content');
+    const theoryIcon = document.getElementById('theory-icon');
+
+    theoryToggle.addEventListener('click', () => {
+      const isExpanded = theoryContent.classList.contains('theory-panel__content--expanded');
+
+      if (isExpanded) {
+        theoryContent.classList.remove('theory-panel__content--expanded');
+        theoryIcon.classList.remove('theory-panel__icon--rotated');
+      } else {
+        theoryContent.classList.add('theory-panel__content--expanded');
+        theoryIcon.classList.add('theory-panel__icon--rotated');
+      }
+    });
+
+    // Combo display logic
+    function updateComboDisplay() {
+      const comboDisplay = document.getElementById('combo-display');
+      const comboCount = document.getElementById('combo-count');
+      const state = GameEngine.getState();
+
+      if (state.comboCount >= 3) {
+        comboDisplay.style.display = 'flex';
+        comboCount.textContent = state.comboCount + 'x 🔥';
+      } else {
+        comboDisplay.style.display = 'none';
+      }
+    }
+
+    // Override GameEngine.updateUI to include combo display
+    const originalUpdateUI = GameEngine.updateUI.bind(GameEngine);
+    GameEngine.updateUI = function() {
+      originalUpdateUI();
+      updateComboDisplay();
+    };
+
+    // Load unit data and start game
+    async function loadAndStartGame() {
+      try {
+        const response = await fetch(DATA_PATH);
+
+        if (!response.ok) {
+          throw new Error(`Failed to load data: ${response.status}`);
+        }
+
+        const unitData = await response.json();
+
+        console.log('Unit data loaded:', unitData);
+        console.log('Registered exercise handlers:', Object.keys(GameEngine.exerciseHandlers));
+
+        GameEngine.init(unitData, UNIT_ID);
+
+      } catch (error) {
+        console.error('Error loading game data:', error);
+
+        const container = document.getElementById('exercise-container');
+        container.innerHTML = `
+          <div class="card">
+            <h2 style="color: var(--danger);">Error Loading Game</h2>
+            <p>Sorry, we couldn't load the exercise data. Please try refreshing the page.</p>
+            <p style="font-size: var(--font-size-sm); color: var(--text-light);">Error: ${error.message}</p>
+            <button class="btn btn--primary mt-2" onclick="location.reload()">Reload Page</button>
+          </div>
+        `;
+      }
+    }
+
+    // Start game when page loads
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', loadAndStartGame);
+    } else {
+      loadAndStartGame();
+    }
+  </script>
+</body>
+</html>

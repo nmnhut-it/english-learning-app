@@ -4,11 +4,11 @@
 
 <!-- chunk: intro -->
 <teacher_script pause="0">
-Ok lớp 9, <eng>Unit 7 - Natural Wonders of the World</eng>. Các kỳ quan thiên nhiên thế giới. Chủ đề này quan trọng, hay ra trong đề thi vào 10 luôn.
+Chào các em. Chào mừng các em đến với bài học hôm nay. Mời các em mở sách giáo khoa.
 </teacher_script>
 
 <teacher_script pause="0">
-Các em mở sách ra trang 72, Unit 7, bài <eng>Getting Started</eng>, ghi tựa bài. Sau đó bấm nút "Bắt đầu" bên dưới để học từ vựng. Máy sẽ đọc và các em đọc theo. Sau đó các em làm bài trắc nghiệm từ vựng rồi ghi từ vựng vô tập.
+Chúng ta cùng học từ vựng mới. Các em hãy nghe và lặp lại theo mẫu nhé.
 </teacher_script>
 
 ---
@@ -52,7 +52,7 @@ Các em mở sách ra trang 72, Unit 7, bài <eng>Getting Started</eng>, ghi t�
 
 
 <teacher_script pause="0" action="record">
-Bấm nút Ghi âm để đọc lại và gửi cho thầy sửa nha.
+Các em hãy ghi âm phần luyện tập của mình và gửi cho thầy nhé.
 </teacher_script>
 
 ---
@@ -60,7 +60,7 @@ Bấm nút Ghi âm để đọc lại và gửi cho thầy sửa nha.
 ### Bài 1 trang 72 - Listen and read
 
 <teacher_script pause="0">
-Bài 1 <eng>Listen and read</eng>. Nghe và đọc hội thoại. Lan gặp Tom ở hành lang trường, tụi nó nói về cuộc thi Kỳ quan Thiên nhiên. Chú ý cấu trúc câu hỏi gián tiếp trong bài nha, quan trọng cho phần grammar sau.
+Bây giờ các em sẽ nghe một đoạn băng. Hãy chú ý lắng nghe để tìm thông tin trả lời câu hỏi.
 </teacher_script>
 
 <task>
@@ -102,15 +102,15 @@ Bài 1 <eng>Listen and read</eng>. Nghe và đọc hội thoại. Lan gặp Tom 
 </translation>
 
 <teacher_script pause="240">
-Nghe hội thoại rồi dịch ra tiếng Việt nha. 4 phút vì bài dài.
+Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
 <teacher_script pause="60">
-Ok sửa bài dịch nha. Đối chiếu với bản dịch trên màn hình.
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 <teacher_script pause="0" action="record">
-Bấm nút Ghi âm để đọc hội thoại và gửi cho thầy sửa nha.
+Các em hãy ghi âm phần luyện tập của mình và gửi cho thầy nhé.
 </teacher_script>
 
 ---
@@ -118,7 +118,7 @@ Bấm nút Ghi âm để đọc hội thoại và gửi cho thầy sửa nha.
 ### Bài 2 trang 73 - True or False
 
 <teacher_script pause="60">
-Bài 2 <eng>Decide if the following statements are true or false</eng>. Đúng hay sai. 1 phút nha. Dạng bài này cần đọc kỹ, đừng vội vàng.
+Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
 <task>
@@ -150,7 +150,7 @@ Bài 2 <eng>Decide if the following statements are true or false</eng>. Đúng h
 </questions>
 
 <teacher_script pause="0" type="answer">
-Ok đáp án nha.
+Đã hết thời gian. Sau đây là đáp án gợi ý. Các em hãy so sánh với bài làm của mình nhé.
 </teacher_script>
 
 <answer>
@@ -186,7 +186,7 @@ Câu 4 là <eng>False</eng>. Cẩn thận câu này. <eng>The host asked me if I
 ### Bài 3 trang 73 - Fill in the blanks
 
 <teacher_script pause="60">
-Bài 3 <eng>Fill in the blanks with the words from the conversation</eng>. Điền từ vào chỗ trống. 1 phút nha. Từ vựng trong bài này quan trọng, hay ra trong bài viết và bài đọc thi vào 10.
+Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
 <task>
@@ -208,7 +208,7 @@ Bài 3 <eng>Fill in the blanks with the words from the conversation</eng>. Đi�
 </questions>
 
 <teacher_script pause="0" type="answer">
-Ok đáp án nha.
+Đã hết thời gian. Sau đây là đáp án gợi ý. Các em hãy so sánh với bài làm của mình nhé.
 </teacher_script>
 
 <answer>
@@ -249,7 +249,7 @@ Câu 5 là <eng>development</eng>. <eng>Sustainable development</eng> = phát tr
 ### Bài 4 trang 73 - Complete the sentences
 
 <teacher_script pause="60">
-Bài 4 <eng>Complete the sentences with the correct form of the words given</eng>. Hoàn thành câu với dạng đúng của từ cho sẵn. Chú ý chia động từ hoặc biến đổi từ cho phù hợp. 1 phút nha. Dạng bài <eng>word form</eng> này rất quan trọng cho thi.
+Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
 <task>
@@ -273,7 +273,7 @@ Bài 4 <eng>Complete the sentences with the correct form of the words given</eng
 </questions>
 
 <teacher_script pause="0" type="answer">
-Đáp án nha.
+Đã hết thời gian. Sau đây là đáp án gợi ý. Các em hãy so sánh với bài làm của mình nhé.
 </teacher_script>
 
 <answer>
@@ -312,5 +312,5 @@ Câu 5: <eng>contributes</eng>. <eng>Tourism</eng> là danh từ số ít, nên 
 ---
 
 <teacher_script pause="0">
-Ok hết <eng>Getting Started</eng> rồi. Về nhà học từ vựng về kỳ quan thiên nhiên nha. Chủ đề này quan trọng cho thi vào 10, từ vựng hay ra trong bài đọc hiểu. Bài sau qua <eng>A Closer Look 1</eng>.
+Bài học hôm nay kết thúc tại đây. Các em nhớ ôn bài và chuẩn bị cho bài học tiếp theo. Tạm biệt các em.
 </teacher_script>

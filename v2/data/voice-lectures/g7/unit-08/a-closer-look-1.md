@@ -4,7 +4,7 @@
 
 <!-- chunk: intro -->
 <teacher_script pause="0">
-Chào các em. Hôm nay chúng ta qua phần <eng>A Closer Look 1</eng>. Bài này sẽ học thêm từ vựng tính từ chỉ phim và phát âm âm /ɪə/ và /eə/. Mở sách trang 84 nha.
+Chào các em. Mời các em mở sách giáo khoa trang 84. Hôm nay chúng ta qua phần <eng>A Closer Look 1</eng>. Bài học này sẽ giúp các em học thêm từ vựng chỉ phim và luyện phát âm hai âm /ɪə/ và /eə/.
 </teacher_script>
 
 ---
@@ -25,7 +25,7 @@ Chào các em. Hôm nay chúng ta qua phần <eng>A Closer Look 1</eng>. Bài n�
 ### Bài 1 trang 84 - Match adjectives with meanings
 
 <teacher_script pause="60">
-Bài 1 <eng>Match the following adjectives with their meanings</eng>. Nối tính từ với nghĩa thích hợp. 1 phút nha.
+Chúng ta cùng làm Bài 1 <eng>Match adjectives with meanings</eng>. Các em hãy nối các tính từ với nghĩa thích hợp. Các em có 1 phút.
 </teacher_script>
 
 <task>
@@ -53,7 +53,7 @@ e. very surprising and difficult to believe
 
 <!-- chunk: answer_1 -->
 <teacher_script pause="0">
-Đáp án nhé.
+Đã hết thời gian. Sau đây là đáp án đúng.
 </teacher_script>
 
 <answer>
@@ -70,7 +70,7 @@ e. very surprising and difficult to believe
 </explanation>
 
 <teacher_script pause="30">
-Sửa bài nếu sai nha.
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
@@ -79,7 +79,7 @@ Sửa bài nếu sai nha.
 ### Bài 2 trang 84 - Complete sentences
 
 <teacher_script pause="60">
-Bài 2 điền tính từ vào chỗ trống. Dùng các từ ở bài 1 nha. 1 phút thực hiện.
+Chúng ta cùng làm Bài 2 <eng>Complete sentences</eng>. Các em hãy điền các tính từ ở Bài 1 vào chỗ trống thích hợp để hoàn thành câu. Các em có 1 phút.
 </teacher_script>
 
 <task>
@@ -101,7 +101,7 @@ Bài 2 điền tính từ vào chỗ trống. Dùng các từ ở bài 1 nha. 1 
 
 <!-- chunk: answer_2 -->
 <teacher_script pause="0">
-Đáp án nhé.
+Đã hết thời gian. Sau đây là đáp án đúng.
 </teacher_script>
 
 <answer>
@@ -118,14 +118,14 @@ Bài 2 điền tính từ vào chỗ trống. Dùng các từ ở bài 1 nha. 1 
 </explanation>
 
 <teacher_script pause="30">
-Sửa bài nếu sai nha.
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
 
 <!-- chunk: pronunciation_intro -->
 <teacher_script pause="0">
-Bây giờ chúng ta qua phần Phát âm (Pronunciation). Hôm nay học 2 nguyên âm đôi: **/ɪə/** và **/eə/**.
+Chúng ta cùng chuyển sang phần Phát âm (Pronunciation). Hôm nay chúng ta sẽ luyện tập hai nguyên âm đôi: **/ɪə/** và **/eə/**.
 </teacher_script>
 
 <pronunciation_theory>
@@ -144,7 +144,7 @@ Bây giờ chúng ta qua phần Phát âm (Pronunciation). Hôm nay học 2 nguy
 ### Bài 4 trang 84 - Listen and repeat
 
 <teacher_script pause="0">
-Bài 4 <eng>Listen and repeat</eng>. Nghe và lặp lại các từ chứa âm /ɪə/ và /eə/ nha.
+Chúng ta cùng làm Bài 4 <eng>Listen and repeat</eng>. Các em hãy nghe và lặp lại các từ chứa âm /ɪə/ và /eə/ nhé.
 </teacher_script>
 
 <audio src="https://img.loigiaihay.com/picture/2022/0815/055.mp3">
@@ -157,7 +157,7 @@ Bài 4 <eng>Listen and repeat</eng>. Nghe và lặp lại các từ chứa âm /
 </task>
 
 <teacher_script pause="60">
-Các em tự luyện đọc 2 nhóm từ này trong 1 phút nhé.
+Các em hãy tự luyện đọc 2 nhóm từ này trong 1 phút nhé.
 </teacher_script>
 
 ---
@@ -166,7 +166,7 @@ Các em tự luyện đọc 2 nhóm từ này trong 1 phút nhé.
 ### Bài 5 trang 84 - Listen and practice sentences
 
 <teacher_script pause="0">
-Bài 5 <eng>Listen and repeat sentence</eng>. Nghe và lặp lại các câu. Chú ý các từ gạch chân.
+Chúng ta cùng làm Bài 5 <eng>Listen and practice sentences</eng>. Các em hãy nghe và lặp lại các câu, chú ý đến những từ được gạch chân.
 </teacher_script>
 
 <audio src="https://img.loigiaihay.com/picture/2022/0815/056.mp3">
@@ -182,12 +182,12 @@ Bài 5 <eng>Listen and repeat sentence</eng>. Nghe và lặp lại các câu. Ch
 </reading>
 
 <teacher_script pause="0" action="record">
-Bấm ghi âm và đọc lại 5 câu này gửi cho thầy nhé.
+Các em hãy bấm ghi âm và đọc lại 5 câu này gửi cho thầy nhé.
 </teacher_script>
 
 ---
 
 <!-- chunk: end -->
 <teacher_script pause="0">
-Xong bài <eng>A Closer Look 1</eng>. Nhớ phân biệt cách phát âm /ɪə/ và /eə/ nhé. Bài sau chúng ta sẽ học Ngữ pháp. Tạm biệt các em!
+Bài học hôm nay kết thúc tại đây. Các em hãy nhớ phân biệt cách phát âm /ɪə/ và /eə/ nhé. Bài học tiếp theo chúng ta sẽ học về Ngữ pháp. Tạm biệt các em!
 </teacher_script>
