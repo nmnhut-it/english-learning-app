@@ -436,7 +436,7 @@ Các em hãy luyện nói với bạn. Các em có 1 phút.
 Các em hãy bấm nút Ghi âm để nói ý kiến về 2-3 người trong bảng và gửi cho thầy sửa nhé.
 </teacher_script>
 
-<teacher_script pause="0" href="audio/tts_e6e7c5fa.mp3">
+<teacher_script pause="0">
 Nói theo cấu trúc: <eng>I think the best programme for [name] is [programme] because [reason]</eng>.
 </teacher_script>
 
@@ -486,19 +486,19 @@ Bài nói cần có 4 thông tin. Các em nhớ kỹ 4 thông tin này nhé.
 | Reason | I like it because... / The reason I like it is... |
 </grammar>
 
-<teacher_script pause="0" href="audio/tts_ce1261e2.mp3">
+<teacher_script pause="0">
 Thông tin 1: Tên chương trình. <eng>My favourite programme is...</eng>
 </teacher_script>
 
-<teacher_script pause="0" href="audio/tts_b7d4da25.mp3">
+<teacher_script pause="0">
 Thông tin 2: Kênh. <eng>It's on VTV3, Cartoon Network...</eng>
 </teacher_script>
 
-<teacher_script pause="0" href="audio/tts_fbca34bd.mp3">
+<teacher_script pause="0">
 Thông tin 3: Nội dung. <eng>It's about...</eng>
 </teacher_script>
 
-<teacher_script pause="0" href="audio/tts_d975c541.mp3">
+<teacher_script pause="0">
 Thông tin 4: Lý do. <eng>I like it because...</eng>
 </teacher_script>
 
@@ -519,15 +519,15 @@ Thông tin 4: Lý do. <eng>I like it because...</eng>
 | I like watching it because **I love animals and want to know more about their life**. | Tôi thích xem nó vì **tôi yêu động vật và muốn biết thêm về cuộc sống của chúng**. |
 </dialogue>
 
-<teacher_script pause="0" href="audio/tts_94948c4b.mp3">
+<teacher_script pause="0">
 Bài mẫu 1: <eng>The World of Animals</eng>. Tên: <eng>My favourite TV programme is The World of Animals</eng>.
 </teacher_script>
 
-<teacher_script pause="0" href="audio/tts_159f4151.mp3">
+<teacher_script pause="0">
 Kênh: <eng>It's on VTV2</eng>. Nội dung: <eng>This programme provides many interesting knowledge about animals</eng>.
 </teacher_script>
 
-<teacher_script pause="0" href="audio/tts_178eb133.mp3">
+<teacher_script pause="0">
 Lý do: <eng>I love animals and want to know more about their life</eng>.
 </teacher_script>
 
@@ -547,15 +547,15 @@ Lý do: <eng>I love animals and want to know more about their life</eng>.
 | I like it because **it makes me laugh a lot and the characters are really cute**. | Tôi thích nó vì **nó làm cho tôi cười rất nhiều và các nhân vật thực sự rất dễ thương**. |
 </dialogue>
 
-<teacher_script pause="0" href="audio/tts_ba04e204.mp3">
+<teacher_script pause="0">
 Bài mẫu 2: <eng>Tom and Jerry</eng>. Tên: <eng>My favourite programme is Tom and Jerry</eng>.
 </teacher_script>
 
-<teacher_script pause="0" href="audio/tts_81929505.mp3">
+<teacher_script pause="0">
 Kênh: <eng>It's on Cartoon Network</eng>. Nội dung: <eng>The cartoon is about funny tricks between a mouse and a cat</eng>.
 </teacher_script>
 
-<teacher_script pause="0" href="audio/tts_67b60718.mp3">
+<teacher_script pause="0">
 Lý do: <eng>It makes me laugh a lot and the characters are cute</eng>.
 </teacher_script>
 
@@ -581,7 +581,7 @@ Chụp xong thì bấm tiếp tục.
 Các em hãy bấm nút Ghi âm để nói về chương trình yêu thích của mình và gửi cho thầy sửa nhé.
 </teacher_script>
 
-<teacher_script pause="0" href="audio/tts_c564d934.mp3">
+<teacher_script pause="0">
 Nhớ nói đủ 4 thông tin: Tên, Kênh, Nội dung, Lý do.
 </teacher_script>
 
@@ -620,11 +620,11 @@ Chúng ta cùng tóm tắt bài học <eng>Skills 1</eng>.
 | Reason | I like it because... |
 </grammar>
 
-<teacher_script pause="0" href="audio/tts_c1fd1b7c.mp3">
+<teacher_script pause="0">
 <eng>Reading</eng>: Đọc TV guide, tìm thông tin, matching sở thích với chương trình.
 </teacher_script>
 
-<teacher_script pause="0" href="audio/tts_2c359a8b.mp3">
+<teacher_script pause="0">
 <eng>Speaking</eng>: Thảo luận với <eng>I think, I agree, I disagree</eng>. Nói về chương trình yêu thích với 4 thông tin: Name, Channel, Content, Reason.
 </teacher_script>
 

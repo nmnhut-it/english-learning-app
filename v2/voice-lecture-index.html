@@ -122,6 +122,7 @@
       <div class="tab" data-grade="7" onclick="switchGrade(7)">Lớp 7</div>
       <div class="tab" data-grade="8" onclick="switchGrade(8)">Lớp 8</div>
       <div class="tab" data-grade="9" onclick="switchGrade(9)">Lớp 9</div>
+      <div class="tab" data-grade="grammar" onclick="switchGrade('grammar')">Ngữ pháp</div>
     </div>
 
     <!-- Grade 6 Units -->
@@ -184,6 +185,24 @@
           <button class="section-btn disabled">S1</button>
           <button class="section-btn disabled">S2</button>
           <button class="section-btn disabled">LB</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Grammar Topics -->
+    <div class="units" id="grade-grammar">
+      <div class="unit">
+        <div class="unit-title">Các chủ đề ngữ pháp</div>
+        <div class="sections">
+          <button class="section-btn" data-topic="comparatives-superlatives">So sánh hơn/nhất</button>
+          <button class="section-btn" data-topic="past-continuous">Quá khứ tiếp diễn</button>
+          <button class="section-btn" data-topic="future-tenses">Thì tương lai</button>
+          <button class="section-btn" data-topic="reported-speech">Câu tường thuật</button>
+          <button class="section-btn" data-topic="first-conditional">Câu điều kiện loại 1</button>
+          <button class="section-btn" data-topic="modals">Động từ khuyết thiếu</button>
+          <button class="section-btn" data-topic="indefinite-pronouns">Đại từ bất định</button>
+          <button class="section-btn" data-topic="passive-voice">Câu bị động</button>
+          <button class="section-btn" data-topic="passive-past">Bị động quá khứ</button>
         </div>
       </div>
     </div>
@@ -306,7 +325,14 @@
 
     // Build content URL
     function getContentUrl(data, forShare = false) {
-      const path = `g${data.grade}/unit-0${data.unit}/${data.section}.md`;
+      let path;
+      if (data.topic) {
+        // Grammar topic
+        path = `grammar/${data.topic}.md`;
+      } else {
+        // Grade/unit/section
+        path = `g${data.grade}/unit-0${data.unit}/${data.section}.md`;
+      }
       if (forShare || !isLocal) {
         return `${GITHUB_RAW_BASE}/${path}`;
       }
@@ -325,8 +351,8 @@
       if (forShare) {
         return `${GITHUB_PAGES_VIEWER}?${params}`;
       }
-      // Local: relative viewer path
-      return `voice-lecture-viewer-v2.html?${params}`;
+      // Local: relative viewer path (no .html to avoid serve's clean URL redirect dropping params)
+      return `voice-lecture-viewer-v2?${params}`;
     }
 
     // Open viewer

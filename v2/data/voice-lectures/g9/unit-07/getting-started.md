@@ -63,6 +63,10 @@ Các em hãy ghi âm phần luyện tập của mình và gửi cho thầy nhé.
 Bây giờ các em sẽ nghe một đoạn băng. Hãy chú ý lắng nghe để tìm thông tin trả lời câu hỏi.
 </teacher_script>
 
+<audio src="https://img.loigiaihay.com/picture/2024/0515/41.mp3">
+**Audio:** Listen and read
+</audio>
+
 <task>
 **Đề:** Listen and read.
 **Dịch đề:** Nghe và đọc.

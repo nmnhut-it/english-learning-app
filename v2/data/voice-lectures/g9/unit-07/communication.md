@@ -16,6 +16,10 @@ Chào các em. Mời các em mở sách giáo khoa trang 76. Hôm nay chúng ta 
 Đầu tiên, chúng ta cùng học cấu trúc hỏi xin phép. Các em hãy nghe và đọc đoạn hội thoại sau.
 </teacher_script>
 
+<audio src="https://img.loigiaihay.com/picture/2024/0515/44.mp3">
+**Audio:** Asking for permission
+</audio>
+
 <dialogue>
 **Girl:** Can I watch a horror film, Mum?
 **Mom:** No, dear, you can't. It's late now.

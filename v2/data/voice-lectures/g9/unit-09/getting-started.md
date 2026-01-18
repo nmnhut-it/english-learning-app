@@ -34,6 +34,10 @@ Các em hãy nghe và lặp lại từ vựng nhé.
 Cô giáo đang giới thiệu một bạn học sinh mới. Các em hãy nghe đoạn hội thoại nhé.
 </teacher_script>
 
+<audio src="https://img.loigiaihay.com/picture/2024/0515/53.mp3">
+**Audio:** Listen and read
+</audio>
+
 <dialogue>
 **Teacher:** Hi class. I'd like to introduce an exchange student who comes from New York. Welcome Jack!
 **Students:** Hello, Jack. Nice to meet you.

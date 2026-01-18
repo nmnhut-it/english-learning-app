@@ -344,11 +344,11 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 - **/ð/** thường trong: **th**e, **th**is, **th**at, **th**ey, **th**ose, wea**th**er, fa**th**er
 </vocabulary>
 
-<teacher_script pause="0" href="audio/tts_0742d811.mp3">
+<teacher_script pause="0">
 Mẹo hay nè: Mấy từ như <eng>the</eng>, <eng>this</eng>, <eng>that</eng>, <eng>they</eng> - toàn là mấy từ dùng hoài đó - thì đọc là /ð/ có rung cổ. Còn lại đa số là /θ/ không rung.
 </teacher_script>
 
-<teacher_script pause="60" href="audio/tts_42cf2c0c.mp3">
+<teacher_script pause="60">
 Ghi bảng tóm tắt vô tập đi. 1 phút hen.
 </teacher_script>
 

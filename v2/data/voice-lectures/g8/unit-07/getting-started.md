@@ -62,6 +62,10 @@ Các em nghe và thực hành theo nhé.
 Bây giờ các em sẽ nghe một đoạn băng. Hãy chú ý lắng nghe để tìm thông tin trả lời câu hỏi.
 </teacher_script>
 
+<audio src="https://img.loigiaihay.com/picture/2023/0613/track-40.mp3">
+**Audio:** Listen and read
+</audio>
+
 <task>
 **Đề:** Listen and read.
 **Dịch đề:** Nghe và đọc.

@@ -38,6 +38,10 @@ Các em hãy nghe các mẫu câu sau.
 Nghe đoạn hội thoại mẫu.
 </teacher_script>
 
+<audio src="https://img.loigiaihay.com/picture/2024/0515/56.mp3">
+**Audio:** Good luck!
+</audio>
+
 <dialogue>
 **Mai:** I'm taking the IELTS test tomorrow.
 **Nam:** Good luck with your exam!
