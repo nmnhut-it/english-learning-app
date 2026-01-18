@@ -87,7 +87,7 @@ C. is shocking
 4. **A** (young people should see) - Mark nói: "it's a must-see for young people".
 </explanation>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 

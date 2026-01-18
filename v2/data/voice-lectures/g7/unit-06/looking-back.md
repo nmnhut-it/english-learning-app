@@ -1,12 +1,12 @@
 # G7 UNIT-06 LOOKING BACK
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_fd00461e.mp3">
 Chào các em. Chào mừng các em đến với bài học hôm nay. Mời các em mở sách giáo khoa.
 </teacher_script>
 
 <!-- chunk: vocabulary -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_c0841176.mp3">
 Chúng ta cùng học từ vựng mới. Các em hãy nghe và lặp lại theo mẫu nhé.
 </teacher_script>
 
@@ -17,7 +17,7 @@ Chúng ta cùng học từ vựng mới. Các em hãy nghe và lặp lại theo 
 </vocabulary>
 
 <!-- chunk: content -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_d5b1d729.mp3">
 Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
@@ -118,6 +118,6 @@ Dấu hiệu: school (trường học) , chỉ vị trí tại 1 điểm \=\> at
 Tom là học sinh tại một trường tư thục ở ngoại ô Manchester. Cậy ấy sống với bố mẹ trong một ngôi nhà nhỏ gần trường học của cậu ấy. cậu ấy thường học ở trường vào các buổi sáng.  Vào các buổi chiều thứ Hai và thứ Năm, cậu ấy tham gia các hoạt động ngoài trời khác nhau với các bạn cùng trường. Cậu ấy hát  tại Little Bees 'Club vào thứ Ba và thứ Sáu. Cậu ấy đi xem phim với bạn bè của mình vào cuối tuần. Cậu ấy thấy việc học và các hoạt động ngoài trời của mình rất thú vị.
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_ba688992.mp3">
 Bài học hôm nay kết thúc tại đây. Các em nhớ ôn bài và chuẩn bị cho bài học tiếp theo. Tạm biệt các em.
 </teacher_script>

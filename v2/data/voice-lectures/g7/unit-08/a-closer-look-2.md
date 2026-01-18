@@ -96,7 +96,7 @@ Lưu ý: <eng>Although</eng> hoặc <eng>Though</eng> có thể đứng đầu c
 - Câu 5: Không thắng mặc dù chơi tốt.
 </explanation>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -139,7 +139,7 @@ Chúng ta cùng làm Bài 2 <eng>Complete the sentences</eng>. Các em hãy đi�
 - **However**: Câu 2, 4 vì đứng sau dấu chấm phẩy (;) hoặc dấu chấm (.), và theo sau là dấu phẩy (,).
 </explanation>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 

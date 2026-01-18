@@ -1,12 +1,12 @@
 # G9 UNIT-02 LOOKING BACK
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_fd00461e.mp3">
 Chào các em. Chào mừng các em đến với bài học hôm nay. Mời các em mở sách giáo khoa.
 </teacher_script>
 
 <!-- chunk: content -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_d5b1d729.mp3">
 Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
@@ -53,6 +53,6 @@ come down with: ngã bệnh
 5\.	the more slow  the slower
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_ba688992.mp3">
 Bài học hôm nay kết thúc tại đây. Các em nhớ ôn bài và chuẩn bị cho bài học tiếp theo. Tạm biệt các em.
 </teacher_script>

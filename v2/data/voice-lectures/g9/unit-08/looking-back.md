@@ -3,7 +3,7 @@
 ## LOOKING BACK
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_5d14bde3.mp3">
 Chào các em. Hôm nay chúng ta sẽ ôn tập lại kiến thức đã học.
 </teacher_script>
 
@@ -12,7 +12,7 @@ Chào các em. Hôm nay chúng ta sẽ ôn tập lại kiến thức đã học.
 <!-- chunk: vocabulary_1 -->
 ### Bài 1 trang 28 - Choose correct answer
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_d5b1d729.mp3">
 Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
@@ -33,7 +33,7 @@ A. Food tourism | B. Domestic | C. Ecotourism | D. Shopping
 **Đáp án:** 1.B | 2.C | 3.C | 4.D | 5.A
 </answer>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -42,7 +42,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 <!-- chunk: vocabulary_2 -->
 ### Bài 2 trang 28 - Fill blanks
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_d5b1d729.mp3">
 Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
@@ -70,7 +70,7 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 <!-- chunk: grammar_3 -->
 ### Bài 3 trang 28 - Who, Which, Whose
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_d5b1d729.mp3">
 Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
@@ -96,7 +96,7 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 <!-- chunk: grammar_4 -->
 ### Bài 4 trang 28 - Combine sentences
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_d5b1d729.mp3">
 Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
@@ -117,6 +117,6 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 5. Local people, **who** were friendly...
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_ba688992.mp3">
 Bài học hôm nay kết thúc tại đây. Các em nhớ ôn bài và chuẩn bị cho bài học tiếp theo. Tạm biệt các em.
 </teacher_script>

@@ -3,7 +3,7 @@
 ## SKILLS 2 - Listening & Writing
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_fd00461e.mp3">
 Chào các em. Chào mừng các em đến với bài học hôm nay. Mời các em mở sách giáo khoa.
 </teacher_script>
 
@@ -14,7 +14,7 @@ Chúng ta sẽ cùng học phần <eng>Skills 2</eng>.
 ---
 
 <!-- chunk: vocabulary -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_c0841176.mp3">
 Chúng ta cùng học từ vựng mới. Các em hãy nghe và lặp lại theo mẫu nhé.
 </teacher_script>
 
@@ -115,7 +115,7 @@ Chúng ta cùng làm Bài 1 <eng>Listen and tick</eng>. Các em hãy nghe audio 
 ---
 
 <!-- chunk: answer_1 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_aca3c861.mp3">
 Đã hết thời gian. Sau đây là đáp án gợi ý. Các em hãy đối chiếu với bài làm của mình nhé.
 </teacher_script>
 
@@ -134,7 +134,7 @@ Chúng ta cùng làm Bài 1 <eng>Listen and tick</eng>. Các em hãy nghe audio 
 Thầy giải thích nhé. <eng>Green Summer</eng> - Mùa Hè Xanh, chiếu trên kênh 1.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_a9c6d4ea.mp3">
 <eng>My Childhood</eng> - Tuổi Thơ Của Tôi, chiếu trên kênh 2.
 </teacher_script>
 
@@ -146,7 +146,7 @@ Thầy giải thích nhé. <eng>Green Summer</eng> - Mùa Hè Xanh, chiếu trê
 <eng>English and Fun</eng> - Tiếng Anh Vui, cũng chiếu trên kênh 1.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -190,7 +190,7 @@ Chúng ta cùng làm Bài 2 <eng>True or False</eng>. Các em hãy nghe lại au
 ---
 
 <!-- chunk: answer_2 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_aca3c861.mp3">
 Đã hết thời gian. Sau đây là đáp án gợi ý. Các em hãy đối chiếu với bài làm của mình nhé.
 </teacher_script>
 
@@ -198,11 +198,11 @@ Chúng ta cùng làm Bài 2 <eng>True or False</eng>. Các em hãy nghe lại au
 **Đáp án:** 1. T | 2. F | 3. T | 4. F
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_e70b2510.mp3">
 Thầy sẽ giải thích từng câu.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_ef8a0bbe.mp3">
 Câu 1 là <eng>TRUE</eng> - Đúng. Bài nghe nói: <eng>Green Summer, a music programme, is on channel 1</eng>. Rõ ràng <eng>Green Summer</eng> là <eng>music programme</eng>.
 </teacher_script>
 
@@ -210,7 +210,7 @@ Câu 1 là <eng>TRUE</eng> - Đúng. Bài nghe nói: <eng>Green Summer, a music 
 Câu 2 là <eng>FALSE</eng> - Sai. Bài nghe nói: <eng>It's the story of a country BOY and his dog Billy</eng>. Bài nghe nói "boy", không phải "girl".
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_c8da0b9d.mp3">
 Câu 3 là <eng>TRUE</eng> - Đúng. Bài nghe nói: <eng>Children all over the world love this film</eng>. Trẻ em trên thế giới đều thích Harry Potter.
 </teacher_script>
 
@@ -218,7 +218,7 @@ Câu 3 là <eng>TRUE</eng> - Đúng. Bài nghe nói: <eng>Children all over the 
 Câu 4 là <eng>FALSE</eng> - Sai. Bài nghe nói: <eng>It's at nine o'clock</eng>. <eng>English and Fun</eng> chiếu lúc 9 giờ, không phải 5 giờ.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -382,11 +382,11 @@ Chụp xong thì bấm tiếp tục.
 | It has interesting educational programmes for children. | Nó có những chương trình giáo dục thú vị cho trẻ em. |
 </reading>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_4223fb77.mp3">
 Bài mẫu dùng các cấu trúc: <eng>I like watching TV... I only watch TV in the... On Saturday and Sunday, I watch more</eng>.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_f11ca5b7.mp3">
 Và dùng liên từ <eng>but</eng> để nối câu: <eng>Sometimes I watch TV when I'm eating, but I never watch TV when I'm studying</eng>.
 </teacher_script>
 

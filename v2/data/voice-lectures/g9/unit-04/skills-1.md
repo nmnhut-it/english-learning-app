@@ -1,12 +1,12 @@
 # G9 UNIT-04 SKILLS 1
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_fd00461e.mp3">
 Chào các em. Chào mừng các em đến với bài học hôm nay. Mời các em mở sách giáo khoa.
 </teacher_script>
 
 <!-- chunk: vocabulary -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_c0841176.mp3">
 Chúng ta cùng học từ vựng mới. Các em hãy nghe và lặp lại theo mẫu nhé.
 </teacher_script>
 
@@ -38,7 +38,7 @@ Chúng ta cùng học từ vựng mới. Các em hãy nghe và lặp lại theo 
 </vocabulary>
 
 <!-- chunk: content -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_d5b1d729.mp3">
 Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
@@ -71,6 +71,6 @@ started at 7.AM and finished at 11.AM. They studied Vietnamese, Math,
 Science, History and Geography. At break time/during break time, they usually played traditional games like marbles, tic-tac-toe or soccer. They had a three-month long summer holiday and they could fully enjoy it. Some students went to school by bike, but most of them walked to school .
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_ba688992.mp3">
 Bài học hôm nay kết thúc tại đây. Các em nhớ ôn bài và chuẩn bị cho bài học tiếp theo. Tạm biệt các em.
 </teacher_script>

@@ -3,7 +3,7 @@
 ## COMMUNICATION
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_2cfd64fd.webm">
 Chào các em. Mời các em mở sách giáo khoa trang 12. Bài học hôm nay là <eng>Communication</eng>, chúng ta sẽ học cách hỏi về phương tiện đi lại và tìm hiểu một số luật giao thông trên thế giới.
 </teacher_script>
 
@@ -12,7 +12,7 @@ Chào các em. Mời các em mở sách giáo khoa trang 12. Bài học hôm nay
 <!-- chunk: everyday_english -->
 ### Everyday English - Asking about means of transport
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_715334eb.webm">
 Đầu tiên là phần <eng>Everyday English</eng>. Chúng ta sẽ học cách hỏi ai đó sử dụng phương tiện gì để đi lại.
 </teacher_script>
 
@@ -39,7 +39,7 @@ Chào các em. Mời các em mở sách giáo khoa trang 12. Bài học hôm nay
 | *(Ba bạn đi làm bằng gì?)* | *(Ba tui thường đi xe buýt.)* |
 </grammar>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_ca214b31.webm">
 Các em hãy ghi cấu trúc này vào vở nhé. Các em có 30 giây.
 </teacher_script>
 
@@ -48,7 +48,7 @@ Các em hãy ghi cấu trúc này vào vở nhé. Các em có 30 giây.
 <!-- chunk: exercise_1 -->
 ### Bài 1 trang 12 - Listen and read
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_ae745b39.webm">
 Chúng ta cùng làm Bài 1 <eng>Listen and read</eng>. Các em hãy nghe và đọc đoạn hội thoại, chú ý đến các câu hỏi và câu trả lời về phương tiện đi lại.
 </teacher_script>
 
@@ -64,7 +64,7 @@ Chúng ta cùng làm Bài 1 <eng>Listen and read</eng>. Các em hãy nghe và đ
 **Nick:** Mẹ tui thường đi xe buýt. Đôi khi mẹ đạp xe.
 </translation>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_6e5bd41f.webm">
 Trong đoạn hội thoại trên, chúng ta thấy cấu trúc: <eng>How does your mum get to work?</eng> và câu trả lời: <eng>She goes by motorbike.</eng>
 </teacher_script>
 
@@ -73,7 +73,7 @@ Trong đoạn hội thoại trên, chúng ta thấy cấu trúc: <eng>How does y
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 12 - Work in pairs
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_873dd4a7.webm">
 Chúng ta cùng làm Bài 2 <eng>Work in pairs</eng>. Các em hãy làm việc theo cặp, thay phiên nhau hỏi và trả lời về phương tiện đi lại của các thành viên trong gia đình mình.
 </teacher_script>
 
@@ -108,7 +108,7 @@ B: He goes to work by car. What about your dad?
 A: He often goes by bike. He wants to protect the environment.
 </questions>
 
-<teacher_script pause="0" action="record">
+<teacher_script pause="0" action="record" href="audio/tts_6b237e52.webm">
 Các em hãy ghi âm đoạn hội thoại và gửi cho thầy nhé.
 </teacher_script>
 
@@ -117,7 +117,7 @@ Các em hãy ghi âm đoạn hội thoại và gửi cho thầy nhé.
 <!-- chunk: strange_rules_intro -->
 ### Strange traffic rules! - Luật giao thông lạ
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_43d0b250.webm">
 Chúng ta cùng chuyển sang phần tiếp theo: <eng>Strange traffic rules</eng>. Chúng ta sẽ tìm hiểu về những luật giao thông kỳ lạ trên thế giới.
 </teacher_script>
 
@@ -126,7 +126,7 @@ Chúng ta cùng chuyển sang phần tiếp theo: <eng>Strange traffic rules</en
 <!-- chunk: exercise_3 -->
 ### Bài 3 trang 13 - Left or right?
 
-<teacher_script pause="45">
+<teacher_script pause="45" href="audio/tts_e1d99e4a.webm">
 Chúng ta cùng làm Bài 3 <eng>Left or right</eng>. Các em hãy cho biết những quốc gia nào dưới đây lái xe bên trái? Các em có 45 giây.
 </teacher_script>
 
@@ -148,7 +148,7 @@ Chúng ta cùng làm Bài 3 <eng>Left or right</eng>. Các em hãy cho biết nh
 ---
 
 <!-- chunk: answer_3 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_778f802f.webm">
 Đã hết thời gian. Sau đây là đáp án đúng.
 </teacher_script>
 
@@ -161,7 +161,7 @@ Chúng ta cùng làm Bài 3 <eng>Left or right</eng>. Các em hãy cho biết nh
 5. China ✗
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_bea637aa.webm">
 Các nước Vương quốc Anh, Úc, Thái Lan lái xe bên trái. Còn Mỹ và Trung Quốc lái xe bên phải giống như Việt Nam chúng ta.
 </teacher_script>
 
@@ -187,7 +187,7 @@ Các nước Vương quốc Anh, Úc, Thái Lan lái xe bên trái. Còn Mỹ v�
 **Audio:** Bài 4 - Listen and complete
 </audio>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_7168638e.webm">
 Chúng ta cùng làm Bài 4 <eng>Listen and complete</eng>. Các em hãy nghe và điền từ còn thiếu vào chỗ trống. Các em có 30 giây.
 </teacher_script>
 
@@ -200,7 +200,7 @@ One explanation is that some countries use _______ as the UK.
 ---
 
 <!-- chunk: answer_4 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_778f802f.webm">
 Đã hết thời gian. Sau đây là đáp án đúng.
 </teacher_script>
 
@@ -223,7 +223,7 @@ One explanation is that some countries use **the same system** as the UK.
 <!-- chunk: exercise_5 -->
 ### Bài 5 trang 13 - Strange driving rules
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_3115f910.mp3">
 Chúng ta cùng làm Bài 5 <eng>Strange driving rules</eng>. Các em hãy đọc về một số luật lái xe kỳ lạ dưới đây.
 </teacher_script>
 
@@ -238,7 +238,7 @@ Chúng ta cùng làm Bài 5 <eng>Strange driving rules</eng>. Các em hãy đọ
 | 6. In Wisconsin, USA, you must always ride your bike with your hands on the handlebars. | 6. Ở Wisconsin, Mỹ, bạn phải luôn để tay trên ghi đông khi đạp xe. |
 </reading>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_3e9e3f71.webm">
 Theo các em, luật nào là kỳ lạ nhất?
 </teacher_script>
 
@@ -257,7 +257,7 @@ Theo các em, luật nào là kỳ lạ nhất?
 ---
 
 <!-- chunk: discussion -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_8772a4f8.webm">
 Bây giờ, các em hãy làm việc theo nhóm và thảo luận xem luật nào là kỳ lạ nhất nhé.
 </teacher_script>
 
@@ -278,13 +278,13 @@ Bây giờ, các em hãy làm việc theo nhóm và thảo luận xem luật nà
 | In my opinion, rule number 2 is the strangest - you get fined for driving a dirty car in Moscow. | Theo tui, luật số 2 lạ nhất - bị phạt vì lái xe bẩn ở Moscow. |
 </questions>
 
-<teacher_script pause="0" action="record">
+<teacher_script pause="0" action="record" href="audio/tts_cda47f13.webm">
 Các em hãy ghi âm câu trả lời của mình và gửi cho thầy nhé.
 </teacher_script>
 
 ---
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_d8dc1516.webm">
 Bài học hôm nay kết thúc tại đây. Các em về nhà nhớ ôn lại cấu trúc hỏi về phương tiện đi lại nhé. Bài học tiếp theo là <eng>Skills 1</eng>. Hẹn gặp lại các em!
 </teacher_script>

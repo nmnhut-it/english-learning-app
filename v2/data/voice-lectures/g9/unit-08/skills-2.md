@@ -3,7 +3,7 @@
 ## SKILLS 2 - Listening & Writing
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_fd00461e.mp3">
 Chào các em. Chào mừng các em đến với bài học hôm nay. Mời các em mở sách giáo khoa.
 </teacher_script>
 
@@ -12,7 +12,7 @@ Chào các em. Chào mừng các em đến với bài học hôm nay. Mời các
 <!-- chunk: listening_exercise_2 -->
 ### Bài 2 trang 27 - Listening: Fill blanks
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_c08c1d7b.mp3">
 Bây giờ các em sẽ nghe một đoạn băng. Hãy chú ý lắng nghe để tìm thông tin trả lời câu hỏi.
 </teacher_script>
 
@@ -41,7 +41,7 @@ Bây giờ các em sẽ nghe một đoạn băng. Hãy chú ý lắng nghe để
 6. change
 </answer>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -50,7 +50,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 <!-- chunk: listening_exercise_3 -->
 ### Bài 3 trang 27 - Tick pictures
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_c08c1d7b.mp3">
 Bây giờ các em sẽ nghe một đoạn băng. Hãy chú ý lắng nghe để tìm thông tin trả lời câu hỏi.
 </teacher_script>
 
@@ -67,7 +67,7 @@ Bây giờ các em sẽ nghe một đoạn băng. Hãy chú ý lắng nghe để
 <!-- chunk: writing_prep -->
 ### Bài 4 trang 27 - Writing Prep
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_8b9be64e.mp3">
 Bài 4. Thảo luận xem hướng dẫn viên đã đề cập đến những gì?
 1. Length of tour
 2. Cost
@@ -86,7 +86,7 @@ So correct is: 1, 3, 4.
 <!-- chunk: writing -->
 ### Bài 5 trang 27 - Write a tour itinerary
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_d5b1d729.mp3">
 Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
@@ -99,13 +99,13 @@ Finally, we stop at **Dong Ba Market** to buy souvenirs and enjoy local food.
 The tour ends at 1:00 PM.
 </reading>
 
-<teacher_script pause="0" action="record">
+<teacher_script pause="0" action="record" href="audio/tts_508f13d8.mp3">
 Các em hãy ghi âm phần luyện tập của mình và gửi cho thầy nhé.
 </teacher_script>
 
 ---
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_ba688992.mp3">
 Bài học hôm nay kết thúc tại đây. Các em nhớ ôn bài và chuẩn bị cho bài học tiếp theo. Tạm biệt các em.
 </teacher_script>

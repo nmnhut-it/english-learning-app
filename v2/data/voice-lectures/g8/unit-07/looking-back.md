@@ -3,7 +3,7 @@
 ## LOOKING BACK - Review
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_5d14bde3.mp3">
 Chào các em. Hôm nay chúng ta sẽ ôn tập lại kiến thức đã học.
 </teacher_script>
 
@@ -12,7 +12,7 @@ Chào các em. Hôm nay chúng ta sẽ ôn tập lại kiến thức đã học.
 <!-- chunk: exercise_1 -->
 ### Bài 1 trang 80 - Complete sentences
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_d5b1d729.mp3">
 Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
@@ -46,7 +46,7 @@ A. Watering | B. Cleaning up | C. Cutting down
 5. Cutting down (chặt cây).
 </explanation>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -55,7 +55,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 80 - Fill in the blanks
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_d5b1d729.mp3">
 Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
@@ -73,7 +73,7 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 **Đáp án:** 1. littering | 2. carbon footprint | 3. picking up rubbish | 4. habitat | 5. endangered species
 </answer>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -82,7 +82,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 <!-- chunk: exercise_3 -->
 ### Bài 3 trang 80 - Complete clauses
 
-<teacher_script pause="120">
+<teacher_script pause="120" href="audio/tts_d5b1d729.mp3">
 Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
@@ -108,7 +108,7 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 <!-- chunk: exercise_4 -->
 ### Bài 4 trang 80 - Find mistakes
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_d5b1d729.mp3">
 Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
@@ -138,13 +138,13 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 5. "this year" trong ngữ cảnh hỏi về sự kiện đã qua -> quá khứ đơn (did).
 </explanation>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_ba688992.mp3">
 Bài học hôm nay kết thúc tại đây. Các em nhớ ôn bài và chuẩn bị cho bài học tiếp theo. Tạm biệt các em.
 </teacher_script>

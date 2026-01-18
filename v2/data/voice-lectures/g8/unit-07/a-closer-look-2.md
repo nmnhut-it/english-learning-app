@@ -3,7 +3,7 @@
 ## A CLOSER LOOK 2 - Grammar
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_fd00461e.mp3">
 Chào các em. Chào mừng các em đến với bài học hôm nay. Mời các em mở sách giáo khoa.
 </teacher_script>
 
@@ -34,7 +34,7 @@ Gồm một mệnh đề độc lập (Independent clause - I.C) và một mện
 <!-- chunk: exercise_1 -->
 ### Bài 1 trang 75 - Independent or Dependent Clause
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_d5b1d729.mp3">
 Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
@@ -53,7 +53,7 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 ---
 
 <!-- chunk: answer_1 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_aca3c861.mp3">
 Đã hết thời gian. Sau đây là đáp án gợi ý. Các em hãy đối chiếu với bài làm của mình nhé.
 </teacher_script>
 
@@ -66,7 +66,7 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 5. D.C (Bắt đầu bằng 'As soon as')
 </answer>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -75,7 +75,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 75 - Choose Correct Conjunction
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_d5b1d729.mp3">
 Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
@@ -99,7 +99,7 @@ A. until | B. before | C. while
 ---
 
 <!-- chunk: answer_2 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_aca3c861.mp3">
 Đã hết thời gian. Sau đây là đáp án gợi ý. Các em hãy đối chiếu với bài làm của mình nhé.
 </teacher_script>
 
@@ -116,7 +116,7 @@ A. until | B. before | C. while
 5. **before**: trước khi rời đi.
 </explanation>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -125,7 +125,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 <!-- chunk: exercise_3 -->
 ### Bài 3 trang 76 - Match Clauses
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_d5b1d729.mp3">
 Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
@@ -148,7 +148,7 @@ e. when you get on the train.
 ---
 
 <!-- chunk: answer_3 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_aca3c861.mp3">
 Đã hết thời gian. Sau đây là đáp án gợi ý. Các em hãy đối chiếu với bài làm của mình nhé.
 </teacher_script>
 
@@ -165,7 +165,7 @@ e. when you get on the train.
 5. Cố gắng **until** (cho đến khi) thành công bóng đèn.
 </explanation>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -174,7 +174,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 <!-- chunk: exercise_4 -->
 ### Bài 4 trang 76 - Combine sentences
 
-<teacher_script pause="120">
+<teacher_script pause="120" href="audio/tts_d5b1d729.mp3">
 Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
@@ -193,7 +193,7 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 ---
 
 <!-- chunk: answer_4 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_aca3c861.mp3">
 Đã hết thời gian. Sau đây là đáp án gợi ý. Các em hãy đối chiếu với bài làm của mình nhé.
 </teacher_script>
 
@@ -206,13 +206,13 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 5. There were only a few houses left standing **after** the tornado hit.
 </answer>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_ba688992.mp3">
 Bài học hôm nay kết thúc tại đây. Các em nhớ ôn bài và chuẩn bị cho bài học tiếp theo. Tạm biệt các em.
 </teacher_script>

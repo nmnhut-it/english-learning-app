@@ -1,12 +1,12 @@
 # G6 UNIT-10 SKILLS 1
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_fd00461e.mp3">
 Chào các em. Chào mừng các em đến với bài học hôm nay. Mời các em mở sách giáo khoa.
 </teacher_script>
 
 <!-- chunk: vocabulary -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_c0841176.mp3">
 Chúng ta cùng học từ vựng mới. Các em hãy nghe và lặp lại theo mẫu nhé.
 </teacher_script>
 
@@ -29,7 +29,7 @@ Chúng ta cùng học từ vựng mới. Các em hãy nghe và lặp lại theo 
 </vocabulary>
 
 <!-- chunk: content -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_d5b1d729.mp3">
 Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
@@ -85,6 +85,6 @@ B: It will have smart appliances: a household robot, a dishwasher, a washing mac
 My future house will be a very big and beautiful villa. It'll be on the hill. There will be ten rooms with smart appliances in each room. They will help us do all the housework easily and quickly.
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_ba688992.mp3">
 Bài học hôm nay kết thúc tại đây. Các em nhớ ôn bài và chuẩn bị cho bài học tiếp theo. Tạm biệt các em.
 </teacher_script>

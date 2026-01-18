@@ -1,12 +1,12 @@
 # G9 UNIT-02 SKILLS 1
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_fd00461e.mp3">
 Chào các em. Chào mừng các em đến với bài học hôm nay. Mời các em mở sách giáo khoa.
 </teacher_script>
 
 <!-- chunk: content -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_d5b1d729.mp3">
 Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
@@ -86,6 +86,6 @@ Bài 5 trang 25
 I love city life. First, I enjoy easy shopping because it is convenient to have everything I need close by. Second, I appreciate the good health service available in the city, as it ensures that I have access to quality medical care whenever I need it. Third, I admire the beautiful buildings that add charm and character to the city. In conclusion, despite some challenges, the benefits of city life make it an enjoyable experience for me.
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_ba688992.mp3">
 Bài học hôm nay kết thúc tại đây. Các em nhớ ôn bài và chuẩn bị cho bài học tiếp theo. Tạm biệt các em.
 </teacher_script>

@@ -53,12 +53,15 @@
     .units{display:none}
     .units.active{display:block}
     .unit{background:var(--card);border-radius:var(--radius);padding:16px;margin-bottom:12px;box-shadow:0 2px 8px rgba(0,0,0,.06);border:1px solid var(--border)}
-    .unit-title{font-weight:700;color:var(--primary-dark);margin-bottom:12px;font-size:1rem}
+    .unit-title{display:flex;align-items:center;font-weight:700;color:var(--primary-dark);margin-bottom:12px;font-size:1rem}
     .sections{display:flex;flex-wrap:wrap;gap:8px}
     .section-btn{padding:10px 14px;background:linear-gradient(135deg,#f0f9ff,#e0f2fe);border:2px solid #bae6fd;border-radius:10px;font-weight:600;font-size:.85rem;color:#0369a1;cursor:pointer;transition:all .2s;user-select:none;-webkit-user-select:none;touch-action:manipulation}
     .section-btn:hover{border-color:#0ea5e9;background:linear-gradient(135deg,#e0f2fe,#bae6fd);transform:scale(1.02)}
     .section-btn:active{transform:scale(.98)}
     .section-btn.disabled{opacity:.4;cursor:not-allowed;pointer-events:none}
+    .copy-all-btn{display:inline-flex;align-items:center;gap:6px;padding:6px 12px;background:#fff;border:2px solid #10b981;border-radius:8px;font-size:.75rem;font-weight:600;color:#059669;cursor:pointer;transition:all .2s;margin-left:auto}
+    .copy-all-btn:hover{background:#ecfdf5;transform:scale(1.02)}
+    .copy-all-btn svg{width:14px;height:14px}
 
     /* Toast */
     .toast{position:fixed;bottom:80px;left:50%;transform:translateX(-50%) translateY(100px);background:linear-gradient(135deg,#0c4a6e,#075985);color:#fff;padding:12px 24px;border-radius:50px;font-weight:500;z-index:1000;opacity:0;transition:all .3s;box-shadow:0 4px 16px rgba(0,0,0,.2)}
@@ -128,7 +131,13 @@
     <!-- Grade 6 Units -->
     <div class="units active" id="grade-6">
       <div class="unit">
-        <div class="unit-title">Unit 7: Television</div>
+        <div class="unit-title">
+          <span>Unit 7: Television</span>
+          <button class="copy-all-btn" onclick="copyAllLinks(this)">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 01-2-2V4a2 2 0 012-2h9a2 2 0 012 2v1"/></svg>
+            Copy All
+          </button>
+        </div>
         <div class="sections">
           <button class="section-btn" data-section="getting-started" data-grade="6" data-unit="7">GS</button>
           <button class="section-btn" data-section="a-closer-look-1" data-grade="6" data-unit="7">AC1</button>
@@ -144,7 +153,13 @@
     <!-- Grade 7 Units -->
     <div class="units" id="grade-7">
       <div class="unit">
-        <div class="unit-title">Unit 7: Traffic</div>
+        <div class="unit-title">
+          <span>Unit 7: Traffic</span>
+          <button class="copy-all-btn" onclick="copyAllLinks(this)">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 01-2-2V4a2 2 0 012-2h9a2 2 0 012 2v1"/></svg>
+            Copy All
+          </button>
+        </div>
         <div class="sections">
           <button class="section-btn" data-section="getting-started" data-grade="7" data-unit="7">GS</button>
           <button class="section-btn" data-section="a-closer-look-1" data-grade="7" data-unit="7">AC1</button>
@@ -160,7 +175,13 @@
     <!-- Grade 8 Units -->
     <div class="units" id="grade-8">
       <div class="unit">
-        <div class="unit-title">Unit 7: Pollution</div>
+        <div class="unit-title">
+          <span>Unit 7: Pollution</span>
+          <button class="copy-all-btn" onclick="copyAllLinks(this)">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 01-2-2V4a2 2 0 012-2h9a2 2 0 012 2v1"/></svg>
+            Copy All
+          </button>
+        </div>
         <div class="sections">
           <button class="section-btn" data-section="getting-started" data-grade="8" data-unit="7">GS</button>
           <button class="section-btn disabled">AC1</button>
@@ -176,7 +197,13 @@
     <!-- Grade 9 Units -->
     <div class="units" id="grade-9">
       <div class="unit">
-        <div class="unit-title">Unit 7: Recipes and Eating Habits</div>
+        <div class="unit-title">
+          <span>Unit 7: Recipes and Eating Habits</span>
+          <button class="copy-all-btn" onclick="copyAllLinks(this)">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 01-2-2V4a2 2 0 012-2h9a2 2 0 012 2v1"/></svg>
+            Copy All
+          </button>
+        </div>
         <div class="sections">
           <button class="section-btn" data-section="getting-started" data-grade="9" data-unit="7">GS</button>
           <button class="section-btn disabled">AC1</button>
@@ -219,7 +246,7 @@
   <script>
     // Configuration
     const GITHUB_RAW_BASE = 'https://raw.githubusercontent.com/nmnhut-it/english-learning-app/main/v2/data/voice-lectures';
-    const GITHUB_PAGES_VIEWER = 'https://nmnhut-it.github.io/english-learning-app/voice-lecture-viewer-v2.html';
+    const GITHUB_PAGES_VIEWER = 'https://nmnhut-it.github.io/english-learning-app/v2/voice-lecture-viewer-v2.html';
 
     // Environment detection
     const isLocal = ['localhost', '127.0.0.1'].includes(location.hostname)
@@ -378,6 +405,44 @@
         document.execCommand('copy');
         document.body.removeChild(textarea);
         showToast('Đã copy link');
+      }
+    }
+
+    // Section name mapping
+    const SECTION_NAMES = {
+      'getting-started': 'Getting Started',
+      'a-closer-look-1': 'A Closer Look 1',
+      'a-closer-look-2': 'A Closer Look 2',
+      'communication': 'Communication',
+      'skills-1': 'Skills 1',
+      'skills-2': 'Skills 2',
+      'looking-back': 'Looking Back'
+    };
+
+    // Copy all links in a unit
+    async function copyAllLinks(btn) {
+      const unit = btn.closest('.unit');
+      const buttons = unit.querySelectorAll('.section-btn:not(.disabled)');
+      const lines = [];
+      buttons.forEach(b => {
+        const { grade, section } = b.dataset;
+        const url = buildViewerUrl(b.dataset, true);
+        const sectionName = SECTION_NAMES[section] || section;
+        lines.push(`- Lop ${grade} - ${sectionName} : ${url}`);
+      });
+      const text = lines.join('\n');
+      try {
+        await navigator.clipboard.writeText(text);
+        showToast(`Đã copy ${lines.length} links`);
+      } catch (err) {
+        const ta = document.createElement('textarea');
+        ta.value = text;
+        ta.style.cssText = 'position:fixed;opacity:0';
+        document.body.appendChild(ta);
+        ta.select();
+        document.execCommand('copy');
+        document.body.removeChild(ta);
+        showToast(`Đã copy ${lines.length} links`);
       }
     }
 

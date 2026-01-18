@@ -175,7 +175,7 @@ Chúng ta cùng làm Bài 1 <eng>Choose the correct answer</eng>. Các em hãy c
 Các em đặc biệt chú ý câu 3 và 4. Trong thì quá khứ đơn, thể phủ định luôn là <eng>didn't</eng> cộng với động từ nguyên mẫu. Chúng ta không dùng <eng>not saw</eng> hay <eng>not asking</eng>.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -240,7 +240,7 @@ Chúng ta cùng làm Bài 2 <eng>Write the correct form of the verbs</eng>. Các
 Các em lưu ý câu 3: <eng>What did you do?</eng>. Đây là câu hỏi có từ để hỏi <eng>What</eng>. Cấu trúc là: <eng>What + did + Chủ ngữ + Động từ nguyên mẫu?</eng>
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -393,7 +393,7 @@ Sau đây là đáp án đúng.
 Các em lưu ý câu 4 nhé. Khi có cháy, điều quan trọng là TUYỆT ĐỐI không sử dụng thang máy vì rất nguy hiểm. Chúng ta phải sử dụng cầu thang bộ để thoát hiểm.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 

@@ -3,7 +3,7 @@
 ## A CLOSER LOOK 2 - Grammar
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_228ed7ba.mp3">
 Chào các em. Mời các em mở sách trang 35. Hôm nay chúng ta học <eng>A Closer Look 2</eng> về Mệnh đề quan hệ (Relative Clauses).
 </teacher_script>
 
@@ -34,7 +34,7 @@ Mệnh đề quan hệ dùng để bổ sung ý nghĩa cho danh từ đứng tr�
 <!-- chunk: exercise_1 -->
 ### Bài 1 trang 35 - Circle the correct word
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_4e6e9fc1.mp3">
 Bài 1. Khoanh tròn từ đúng. 1 phút.
 </teacher_script>
 
@@ -45,7 +45,7 @@ Bài 1. Khoanh tròn từ đúng. 1 phút.
 **4.** The language (who / that) you are learning is global.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_adb48248.mp3">
 Đáp án:
 </teacher_script>
 
@@ -58,7 +58,7 @@ Bài 1. Khoanh tròn từ đúng. 1 phút.
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 35 - Combine sentences
 
-<teacher_script pause="120">
+<teacher_script pause="120" href="audio/tts_3265312c.mp3">
 Bài 2. Nối hai câu thành một, sử dụng đại từ quan hệ. 2 phút.
 </teacher_script>
 
@@ -73,7 +73,7 @@ Bài 2. Nối hai câu thành một, sử dụng đại từ quan hệ. 2 phút.
 -> She meets a woman ________________________________.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_adb48248.mp3">
 Đáp án:
 </teacher_script>
 
@@ -90,13 +90,13 @@ Bài 2. Nối hai câu thành một, sử dụng đại từ quan hệ. 2 phút.
 - Câu 3: The woman's -> whose.
 </explanation>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_bb311dd4.mp3">
 Kiểm tra bài làm nhé các em.
 </teacher_script>
 
 ---
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_0fec88f3.mp3">
 Bài học kết thúc. Các em nhớ ôn công thức mệnh đề quan hệ nhé.
 </teacher_script>

@@ -155,7 +155,7 @@ Chúng ta cùng làm Bài 2 <eng>Put a word from the conversation in each gap</e
 Ai sai câu 5 thì nhớ: <eng>cycle</eng> là đạp xe, <eng>go</eng> cũng được nhưng trong hội thoại Dương nói <eng>cycle</eng> cụ thể hơn.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 

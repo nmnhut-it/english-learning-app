@@ -25,27 +25,38 @@
       background: var(--bg);
       color: var(--text);
       line-height: 1.6;
+      height: 100vh;
+      overflow: hidden;
     }
 
-    .container { max-width: 900px; margin: 0 auto; padding: 20px; }
+    /* Main layout container */
+    .app-container {
+      display: flex;
+      flex-direction: column;
+      height: 100vh;
+    }
 
     header {
       display: flex;
       justify-content: space-between;
       align-items: center;
-      margin-bottom: 24px;
-      padding-bottom: 16px;
+      padding: 12px 20px;
       border-bottom: 1px solid var(--border);
+      background: var(--card);
+      flex-shrink: 0;
     }
 
-    h1 { font-size: 1.5rem; font-weight: 600; }
+    h1 { font-size: 1.25rem; font-weight: 600; }
     .quota { font-size: 0.875rem; color: var(--text-muted); }
 
     .controls {
       display: flex;
       gap: 12px;
-      margin-bottom: 20px;
+      padding: 12px 20px;
+      background: var(--card);
+      border-bottom: 1px solid var(--border);
       flex-wrap: wrap;
+      flex-shrink: 0;
     }
 
     select, button, textarea {
@@ -80,36 +91,132 @@
     .btn-danger { background: var(--danger); }
     .btn-danger:hover:not(:disabled) { background: #dc2626; }
 
+    /* Split view container */
+    .split-container {
+      display: flex;
+      flex: 1;
+      overflow: hidden;
+    }
+
+    /* Sidebar - script list */
+    .sidebar {
+      width: 30%;
+      min-width: 280px;
+      max-width: 400px;
+      border-right: 1px solid var(--border);
+      display: flex;
+      flex-direction: column;
+      background: var(--card);
+      overflow: hidden;
+    }
+
+    .sidebar-header {
+      padding: 12px 16px;
+      border-bottom: 1px solid var(--border);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-shrink: 0;
+    }
+
+    .sidebar-header h3 { font-size: 0.9rem; font-weight: 600; }
+
+    .sidebar-stats {
+      font-size: 0.75rem;
+      color: var(--text-muted);
+    }
+
+    .sidebar-actions {
+      padding: 8px 12px;
+      border-bottom: 1px solid var(--border);
+      display: flex;
+      gap: 8px;
+      flex-shrink: 0;
+    }
+
+    .sidebar-actions button {
+      flex: 1;
+      padding: 8px 12px;
+      font-size: 0.8rem;
+    }
+
+    .script-list {
+      flex: 1;
+      overflow-y: auto;
+      padding: 8px;
+      min-height: 0; /* Allow shrinking in flex container */
+    }
+
+    /* Scripts section needs to be scrollable */
+    #scriptsSection {
+      display: flex;
+      flex-direction: column;
+      flex: 1;
+      min-height: 0;
+      overflow: hidden;
+    }
+
+    .script-item {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      padding: 10px 12px;
+      border-radius: 8px;
+      cursor: pointer;
+      margin-bottom: 4px;
+      transition: background 0.15s;
+    }
+
+    .script-item:hover { background: var(--bg); }
+    .script-item.active { background: #dbeafe; border: 1px solid #93c5fd; }
+
+    .script-item-index {
+      font-size: 0.75rem;
+      font-weight: 600;
+      min-width: 28px;
+      color: var(--text-muted);
+    }
+
+    .script-item-status {
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+      flex-shrink: 0;
+    }
+
+    .script-item-status.linked { background: var(--success); }
+    .script-item-status.found { background: var(--warning); }
+    .script-item-status.none { background: #d1d5db; }
+
+    .script-item-text {
+      flex: 1;
+      font-size: 0.85rem;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      color: var(--text);
+    }
+
+    .script-item-checkbox {
+      width: 16px;
+      height: 16px;
+      cursor: pointer;
+      flex-shrink: 0;
+    }
+
+    /* Detail panel */
+    .detail-panel {
+      flex: 1;
+      overflow-y: auto;
+      padding: 20px;
+    }
+
     .card {
       background: var(--card);
       border-radius: 12px;
       padding: 24px;
       margin-bottom: 20px;
       box-shadow: 0 1px 3px rgba(0,0,0,0.1);
-    }
-
-    .progress-bar {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      margin-bottom: 16px;
-      font-size: 0.9rem;
-    }
-
-    .progress-track {
-      flex: 1;
-      height: 8px;
-      background: var(--border);
-      border-radius: 4px;
-      margin: 0 16px;
-      overflow: hidden;
-    }
-
-    .progress-fill {
-      height: 100%;
-      background: var(--primary);
-      border-radius: 4px;
-      transition: width 0.3s;
     }
 
     .script-header {
@@ -155,9 +262,7 @@
       font-weight: 500;
     }
 
-    .tts-section {
-      margin-bottom: 16px;
-    }
+    .tts-section { margin-bottom: 16px; }
 
     .tts-section label {
       display: flex;
@@ -189,8 +294,6 @@
       flex-wrap: wrap;
       align-items: center;
     }
-
-    .nav-buttons { display: flex; gap: 8px; }
 
     .loading {
       display: none;
@@ -224,7 +327,7 @@
     .status-message.success { display: block; background: #d1fae5; color: #065f46; }
     .status-message.error { display: block; background: #fee2e2; color: #991b1b; }
 
-    /* Batch checkbox */
+    /* Queue checkbox in detail view */
     .queue-check {
       display: flex;
       align-items: center;
@@ -313,87 +416,351 @@
     .batch-item-status.done { background: #d1fae5; color: #065f46; }
     .batch-item-status.error { background: #fee2e2; color: #991b1b; }
     .modal-actions { display: flex; gap: 12px; justify-content: flex-end; }
+
+    /* Tree section wrapper */
+    .tree-section {
+      display: flex;
+      flex-direction: column;
+      flex: 1;
+      min-height: 120px;
+      max-height: 50%;
+      border-bottom: 2px solid var(--border);
+      overflow: hidden;
+    }
+
+    /* Unit Tree View Styles */
+    .unit-tree {
+      flex: 1;
+      overflow-y: auto;
+      padding: 8px;
+      min-height: 0;
+    }
+
+    .tree-grade {
+      margin-bottom: 4px;
+    }
+
+    .tree-grade-header {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      padding: 8px 12px;
+      cursor: pointer;
+      border-radius: 6px;
+      font-weight: 600;
+      font-size: 0.9rem;
+      color: var(--text);
+      transition: background 0.15s;
+    }
+
+    .tree-grade-header:hover {
+      background: var(--bg);
+    }
+
+    .tree-toggle {
+      width: 16px;
+      height: 16px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 0.7rem;
+      color: var(--text-muted);
+      transition: transform 0.2s;
+    }
+
+    .tree-toggle.expanded {
+      transform: rotate(90deg);
+    }
+
+    .tree-grade-content {
+      display: none;
+      padding-left: 16px;
+    }
+
+    .tree-grade-content.expanded {
+      display: block;
+    }
+
+    .tree-unit {
+      margin-bottom: 2px;
+    }
+
+    .tree-unit-header {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      padding: 6px 12px;
+      cursor: pointer;
+      border-radius: 6px;
+      font-size: 0.85rem;
+      color: var(--text);
+      transition: background 0.15s;
+    }
+
+    .tree-unit-header:hover {
+      background: var(--bg);
+    }
+
+    .tree-unit-content {
+      display: none;
+      padding-left: 24px;
+    }
+
+    .tree-unit-content.expanded {
+      display: block;
+    }
+
+    .tree-section {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 6px 12px;
+      cursor: pointer;
+      border-radius: 6px;
+      font-size: 0.8rem;
+      color: var(--text);
+      transition: background 0.15s;
+    }
+
+    .tree-section:hover {
+      background: var(--bg);
+    }
+
+    .tree-section.active {
+      background: #dbeafe;
+      border: 1px solid #93c5fd;
+    }
+
+    .tree-section-name {
+      flex: 1;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .tree-section-stats {
+      font-size: 0.75rem;
+      color: var(--text-muted);
+      margin-left: 8px;
+    }
+
+    .tree-section-status {
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+      flex-shrink: 0;
+      margin-left: 8px;
+    }
+
+    .tree-section-status.all-linked { background: var(--success); }
+    .tree-section-status.partial { background: var(--warning); }
+    .tree-section-status.none-linked { background: #d1d5db; }
+
+    /* Loading overlay for startup scan */
+    .scan-loading {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 40px 20px;
+      color: var(--text-muted);
+      text-align: center;
+    }
+
+    .scan-loading .spinner {
+      width: 32px;
+      height: 32px;
+      margin-bottom: 12px;
+    }
+
+    .scan-progress-text {
+      font-size: 0.85rem;
+      margin-top: 8px;
+    }
+
+    /* Global action button in header */
+    .header-actions {
+      display: flex;
+      gap: 12px;
+      align-items: center;
+    }
+
+    .btn-global {
+      padding: 8px 16px;
+      font-size: 0.85rem;
+    }
+
+    /* Tree summary stats */
+    .tree-summary {
+      padding: 8px 16px;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      border-bottom: 1px solid var(--border);
+      background: var(--bg);
+    }
+
+    /* Recording styles */
+    .btn-record {
+      background: var(--danger);
+      position: relative;
+    }
+
+    .btn-record:hover:not(:disabled) {
+      background: #dc2626;
+    }
+
+    .btn-record.recording {
+      animation: pulse-recording 1s infinite;
+    }
+
+    @keyframes pulse-recording {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.6; }
+    }
+
+    .recording-indicator {
+      display: none;
+      align-items: center;
+      gap: 8px;
+      padding: 8px 12px;
+      background: #fee2e2;
+      border-radius: 8px;
+      color: var(--danger);
+      font-size: 0.85rem;
+      margin-bottom: 16px;
+    }
+
+    .recording-indicator.active {
+      display: flex;
+    }
+
+    .recording-dot {
+      width: 12px;
+      height: 12px;
+      background: var(--danger);
+      border-radius: 50%;
+      animation: blink 1s infinite;
+    }
+
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.3; }
+    }
+
+    .recording-time {
+      font-family: monospace;
+      font-weight: 600;
+    }
   </style>
 </head>
 <body>
-  <div class="container">
+  <div class="app-container">
     <header>
       <h1>TTS Admin</h1>
-      <div class="quota" id="quota">Loading quota...</div>
+      <div class="header-actions">
+        <button id="globalLinkBtn" class="btn-success btn-global">Link All Audio</button>
+        <select id="voiceSelect">
+          <option value="">Select a voice...</option>
+        </select>
+        <div class="quota" id="quota">Loading quota...</div>
+      </div>
     </header>
-
-    <div class="controls">
-      <select id="fileSelect">
-        <option value="">Select a markdown file...</option>
-      </select>
-      <select id="voiceSelect">
-        <option value="">Select a voice...</option>
-      </select>
-    </div>
 
     <div id="statusMessage" class="status-message"></div>
 
-    <div id="scriptContainer" class="card" style="display: none;">
-      <div class="progress-bar">
-        <span id="progressText">Script 1/10</span>
-        <div class="progress-track">
-          <div class="progress-fill" id="progressFill" style="width: 0%"></div>
+    <!-- Split view: sidebar (tree + scripts) + detail panel -->
+    <div class="split-container" id="splitContainer">
+      <!-- Left sidebar: unit tree + script list -->
+      <div class="sidebar">
+        <!-- Unit Tree Section -->
+        <div class="tree-section">
+          <div class="sidebar-header">
+            <h3>Files</h3>
+            <span class="sidebar-stats" id="treeSummary">Loading...</span>
+          </div>
+          <div class="unit-tree" id="unitTree">
+            <div class="scan-loading" id="scanLoading">
+              <div class="spinner"></div>
+              <span>Scanning files...</span>
+              <span class="scan-progress-text" id="scanProgressText">0 / 0</span>
+            </div>
+          </div>
         </div>
-        <span id="generatedCount">0 generated</span>
-      </div>
 
-      <div class="script-header">
-        <div class="script-meta">
-          <span class="badge badge-pause" id="pauseBadge">pause: 0</span>
-          <span class="badge badge-hash" id="hashBadge">hash: --------</span>
-          <span class="badge" id="audioBadge">No audio</span>
-          <label class="queue-check" id="queueCheck">
-            <input type="checkbox" id="queueCheckbox" />
-            <span>Queued</span>
-          </label>
-        </div>
-        <div class="loading" id="loading">
-          <div class="spinner"></div>
-          <span>Processing...</span>
+        <!-- Scripts Section (shown when file selected) -->
+        <div id="scriptsSection" style="display: none;">
+          <div class="sidebar-header">
+            <h3 id="scriptsTitle">Scripts</h3>
+            <span class="sidebar-stats" id="sidebarStats">0/0 linked</span>
+          </div>
+          <div class="sidebar-actions">
+            <button id="selectUnlinkedBtn" class="btn-secondary">Select Unlinked</button>
+            <button id="autoLinkBtn" class="btn-warning">Auto-Link</button>
+            <button id="batchBtn" class="btn-primary">Generate (0)</button>
+          </div>
+          <div class="script-list" id="scriptList"></div>
         </div>
       </div>
 
-      <div class="script-text" id="scriptText"></div>
+      <!-- Right panel: script detail -->
+      <div class="detail-panel">
+        <div class="card" id="scriptCard">
+          <div class="script-header">
+            <div class="script-meta">
+              <span class="badge badge-pause" id="pauseBadge">pause: 0</span>
+              <span class="badge badge-hash" id="hashBadge">hash: --------</span>
+              <span class="badge" id="audioBadge">No audio</span>
+              <label class="queue-check" id="queueCheck">
+                <input type="checkbox" id="queueCheckbox" />
+                <span>Queued</span>
+              </label>
+            </div>
+            <div class="loading" id="loading">
+              <div class="spinner"></div>
+              <span>Processing...</span>
+            </div>
+          </div>
 
-      <div class="tts-section">
-        <label>
-          <span>TTS Text (editable):</span>
-          <select id="templateSelect" class="template-select">
-            <option value="">-- Templates --</option>
-            <option value="Sửa bài nếu sai. 30 giây nha.">Sửa bài (30s)</option>
-            <option value="Ok đáp án nè.">Ok đáp án nè</option>
-            <option value="Nếu cần hỏi thì nhấn thu âm bên dưới nha.">Nhấn thu âm</option>
-            <option value="Mấy đứa sửa bài dịch nếu sai. Sau đó qua bài tiếp theo.">Sửa bài dịch</option>
-          </select>
-        </label>
-        <textarea id="ttsTextarea" class="tts-textarea"></textarea>
-      </div>
+          <div class="script-text" id="scriptText"></div>
 
-      <div class="audio-player" id="audioPlayer" style="display: none;">
-        <audio id="audioElement" controls></audio>
-      </div>
+          <div class="tts-section">
+            <label>
+              <span>TTS Text (editable):</span>
+              <select id="templateSelect" class="template-select">
+                <option value="">-- Templates --</option>
+                <option value="Sửa bài nếu sai. 30 giây nha.">Sửa bài (30s)</option>
+                <option value="Ok đáp án nè.">Ok đáp án nè</option>
+                <option value="Nếu cần hỏi thì nhấn thu âm bên dưới nha.">Nhấn thu âm</option>
+                <option value="Mấy đứa sửa bài dịch nếu sai. Sau đó qua bài tiếp theo.">Sửa bài dịch</option>
+              </select>
+            </label>
+            <textarea id="ttsTextarea" class="tts-textarea"></textarea>
+          </div>
 
-      <div class="action-buttons">
-        <button id="generateBtn" class="btn-success">Generate Audio</button>
-        <button id="regenBtn" class="btn-danger" style="display: none;">Regenerate</button>
-        <button id="linkBtn" class="btn-warning" style="display: none;">Link Existing</button>
-        <button id="saveTextBtn" class="btn-secondary">Save Text</button>
-        <button id="batchBtn" class="btn-primary" style="display: none;">Generate Checked (0)</button>
-        <div style="flex: 1;"></div>
-        <div class="nav-buttons">
-          <button id="prevBtn" class="btn-secondary">← Prev</button>
-          <button id="nextBtn" class="btn-secondary">Next →</button>
+          <div class="audio-player" id="audioPlayer" style="display: none;">
+            <audio id="audioElement" controls></audio>
+          </div>
+
+          <div class="recording-indicator" id="recordingIndicator">
+            <span class="recording-dot"></span>
+            <span>Recording...</span>
+            <span class="recording-time" id="recordingTime">00:00</span>
+          </div>
+
+          <div class="action-buttons">
+            <button id="generateBtn" class="btn-success">Generate TTS</button>
+            <button id="recordBtn" class="btn-record">Record</button>
+            <button id="stopRecordBtn" class="btn-danger" style="display: none;">Stop</button>
+            <button id="regenBtn" class="btn-danger" style="display: none;">Regenerate</button>
+            <button id="linkBtn" class="btn-warning" style="display: none;">Link Existing</button>
+            <button id="saveTextBtn" class="btn-secondary">Save Text</button>
+          </div>
         </div>
       </div>
     </div>
 
-    <div id="emptyState" class="card empty-state">
-      <p>Select a markdown file to start reviewing teacher scripts.</p>
+    <div id="emptyState" class="empty-state" style="padding: 80px 20px; display: none;">
+      <p>Select a section from the tree to review teacher scripts.</p>
     </div>
 
     <!-- Batch Generation Modal -->
@@ -418,6 +785,26 @@
         </div>
       </div>
     </div>
+
+    <!-- Auto-Link Progress Modal -->
+    <div id="autoLinkModal" class="modal">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h2>Auto-Link Progress</h2>
+          <button class="modal-close" id="autoLinkModalClose">&times;</button>
+        </div>
+        <div class="batch-progress" id="autoLinkProgressText">
+          Scanning scripts...
+          <div class="batch-progress-bar">
+            <div class="batch-progress-fill" id="autoLinkProgressFill" style="width: 0%"></div>
+          </div>
+        </div>
+        <div class="batch-list" id="autoLinkList"></div>
+        <div class="modal-actions">
+          <button id="closeAutoLinkBtn" class="btn-secondary">Close</button>
+        </div>
+      </div>
+    </div>
   </div>
 
   <script>
@@ -426,15 +813,30 @@
       files: [],
       voices: [],
       scripts: [],
-      currentIndex: 0,
+      selectedIndex: 0,
       currentFile: '',
       selectedVoiceId: '',
       editedText: '',
       currentHash: '',
       audioLookup: null,
+      // Cache script audio status: { hash: 'linked'|'found'|'none' }
+      scriptStatuses: [],
       // Map of filePath -> Set of script indices (persists across files)
       checkedScriptsMap: new Map(),
-      batchRunning: false
+      batchRunning: false,
+      autoLinkInProgress: false,
+      // Tree view state
+      expandedGrades: new Set(),
+      expandedUnits: new Map(), // grade -> Set of unit numbers
+      fileSummaries: new Map(), // filePath -> { total, linked }
+      startupScanComplete: false,
+      globalLinkInProgress: false,
+      // Recording state
+      isRecording: false,
+      mediaRecorder: null,
+      recordedChunks: [],
+      recordingStartTime: null,
+      recordingTimer: null
     };
 
     // Helper: get checked scripts for current file
@@ -447,19 +849,34 @@
       state.checkedScriptsMap.set(state.currentFile, set);
     }
 
-    // Helper: get total checked count across all files
-    function getTotalCheckedCount() {
-      let count = 0;
-      state.checkedScriptsMap.forEach(set => count += set.size);
-      return count;
+    // Helper: get total checked count for current file only
+    function getCurrentFileCheckedCount() {
+      const set = getCheckedScripts();
+      return set.size;
     }
 
     // DOM Elements
     const el = {
-      fileSelect: document.getElementById('fileSelect'),
       voiceSelect: document.getElementById('voiceSelect'),
-      scriptContainer: document.getElementById('scriptContainer'),
+      splitContainer: document.getElementById('splitContainer'),
       emptyState: document.getElementById('emptyState'),
+      // Tree view elements
+      unitTree: document.getElementById('unitTree'),
+      scanLoading: document.getElementById('scanLoading'),
+      scanProgressText: document.getElementById('scanProgressText'),
+      treeSummary: document.getElementById('treeSummary'),
+      // Scripts section elements
+      scriptsSection: document.getElementById('scriptsSection'),
+      scriptsTitle: document.getElementById('scriptsTitle'),
+      scriptList: document.getElementById('scriptList'),
+      sidebarStats: document.getElementById('sidebarStats'),
+      selectUnlinkedBtn: document.getElementById('selectUnlinkedBtn'),
+      globalLinkBtn: document.getElementById('globalLinkBtn'),
+      // Recording elements
+      recordBtn: document.getElementById('recordBtn'),
+      stopRecordBtn: document.getElementById('stopRecordBtn'),
+      recordingIndicator: document.getElementById('recordingIndicator'),
+      recordingTime: document.getElementById('recordingTime'),
       scriptText: document.getElementById('scriptText'),
       ttsTextarea: document.getElementById('ttsTextarea'),
       templateSelect: document.getElementById('templateSelect'),
@@ -472,18 +889,15 @@
       regenBtn: document.getElementById('regenBtn'),
       linkBtn: document.getElementById('linkBtn'),
       saveTextBtn: document.getElementById('saveTextBtn'),
-      prevBtn: document.getElementById('prevBtn'),
-      nextBtn: document.getElementById('nextBtn'),
-      progressText: document.getElementById('progressText'),
-      progressFill: document.getElementById('progressFill'),
-      generatedCount: document.getElementById('generatedCount'),
       loading: document.getElementById('loading'),
       quota: document.getElementById('quota'),
       statusMessage: document.getElementById('statusMessage'),
-      // Batch elements
+      // Sidebar buttons
+      autoLinkBtn: document.getElementById('autoLinkBtn'),
+      batchBtn: document.getElementById('batchBtn'),
+      // Batch modal elements
       queueCheck: document.getElementById('queueCheck'),
       queueCheckbox: document.getElementById('queueCheckbox'),
-      batchBtn: document.getElementById('batchBtn'),
       batchModal: document.getElementById('batchModal'),
       batchList: document.getElementById('batchList'),
       batchTotal: document.getElementById('batchTotal'),
@@ -493,7 +907,14 @@
       forceRegenBtn: document.getElementById('forceRegenBtn'),
       stopBatchBtn: document.getElementById('stopBatchBtn'),
       closeBatchBtn: document.getElementById('closeBatchBtn'),
-      modalClose: document.getElementById('modalClose')
+      modalClose: document.getElementById('modalClose'),
+      // Auto-link modal elements
+      autoLinkModal: document.getElementById('autoLinkModal'),
+      autoLinkList: document.getElementById('autoLinkList'),
+      autoLinkProgressText: document.getElementById('autoLinkProgressText'),
+      autoLinkProgressFill: document.getElementById('autoLinkProgressFill'),
+      autoLinkModalClose: document.getElementById('autoLinkModalClose'),
+      closeAutoLinkBtn: document.getElementById('closeAutoLinkBtn')
     };
 
     // API helper
@@ -504,24 +925,6 @@
         body: options.body ? JSON.stringify(options.body) : undefined
       });
       return response.json();
-    }
-
-    // Hash function (same as server)
-    async function computeHash(text) {
-      const encoder = new TextEncoder();
-      const data = encoder.encode(text);
-      const hashBuffer = await crypto.subtle.digest('MD5', data).catch(() => null);
-      if (!hashBuffer) {
-        // Fallback: simple hash
-        let hash = 0;
-        for (let i = 0; i < text.length; i++) {
-          hash = ((hash << 5) - hash) + text.charCodeAt(i);
-          hash |= 0;
-        }
-        return Math.abs(hash).toString(16).slice(0, 8).padStart(8, '0');
-      }
-      const hashArray = Array.from(new Uint8Array(hashBuffer));
-      return hashArray.map(b => b.toString(16).padStart(2, '0')).join('').slice(0, 8);
     }
 
     // Simple hash for client side
@@ -544,11 +947,6 @@
           api('/subscription')
         ]);
 
-        if (filesRes.success) {
-          state.files = filesRes.files;
-          populateFileSelect();
-        }
-
         if (voicesRes.success) {
           state.voices = voicesRes.voices;
           populateVoiceSelect();
@@ -559,30 +957,203 @@
           const limit = subRes.character_limit || 0;
           el.quota.textContent = `${used.toLocaleString()} / ${limit.toLocaleString()} chars`;
         }
+
+        if (filesRes.success) {
+          state.files = filesRes.files;
+          // Start pre-scan of all files
+          await prescanAllFiles();
+        }
       } catch (error) {
         showStatus('Failed to load data: ' + error.message, 'error');
       }
     }
 
-    function populateFileSelect() {
-      const groups = {};
+    // Pre-scan all files to get linked counts
+    async function prescanAllFiles() {
+      const total = state.files.length;
+      el.scanProgressText.textContent = `0 / ${total}`;
+
+      // Process files in batches of 5 for performance
+      const BATCH_SIZE = 5;
+      let processed = 0;
+
+      for (let i = 0; i < total; i += BATCH_SIZE) {
+        const batch = state.files.slice(i, i + BATCH_SIZE);
+        const promises = batch.map(async (file) => {
+          try {
+            const res = await api(`/file/${file.path}`);
+            if (res.success) {
+              const totalScripts = res.scripts.length;
+              const linkedCount = res.scripts.filter(s => s.href).length;
+              state.fileSummaries.set(file.path, { total: totalScripts, linked: linkedCount });
+            }
+          } catch (error) {
+            state.fileSummaries.set(file.path, { total: 0, linked: 0 });
+          }
+        });
+
+        await Promise.all(promises);
+        processed += batch.length;
+        el.scanProgressText.textContent = `${processed} / ${total}`;
+      }
+
+      state.startupScanComplete = true;
+      renderUnitTree();
+    }
+
+    // Build tree structure from files
+    function buildTreeStructure() {
+      const tree = new Map(); // grade -> Map(unit -> [files])
+
       state.files.forEach(file => {
-        const key = file.grade;
-        if (!groups[key]) groups[key] = [];
-        groups[key].push(file);
+        const grade = file.grade;
+        const unit = file.unit;
+
+        if (!tree.has(grade)) {
+          tree.set(grade, new Map());
+        }
+        if (!tree.get(grade).has(unit)) {
+          tree.get(grade).set(unit, []);
+        }
+        tree.get(grade).get(unit).push(file);
       });
 
-      Object.entries(groups).forEach(([grade, files]) => {
-        const optgroup = document.createElement('optgroup');
-        optgroup.label = grade.toUpperCase();
-        files.forEach(file => {
-          const option = document.createElement('option');
-          option.value = file.path;
-          option.textContent = `${file.unit} / ${file.section}`;
-          optgroup.appendChild(option);
-        });
-        el.fileSelect.appendChild(optgroup);
+      return tree;
+    }
+
+    // Render the unit tree
+    function renderUnitTree() {
+      const tree = buildTreeStructure();
+
+      // Calculate total summary
+      let totalFiles = 0;
+      let totalLinked = 0;
+      let totalScripts = 0;
+      state.fileSummaries.forEach(({ total, linked }) => {
+        totalFiles++;
+        totalLinked += linked;
+        totalScripts += total;
       });
+      el.treeSummary.textContent = `${totalLinked}/${totalScripts} linked`;
+
+      // Clear loading state
+      el.scanLoading.style.display = 'none';
+
+      // Build tree HTML
+      let html = '';
+      const sortedGrades = Array.from(tree.keys()).sort();
+
+      sortedGrades.forEach(grade => {
+        const units = tree.get(grade);
+        const gradeExpanded = state.expandedGrades.has(grade);
+
+        html += `
+          <div class="tree-grade" data-grade="${grade}">
+            <div class="tree-grade-header" data-grade="${grade}">
+              <span class="tree-toggle ${gradeExpanded ? 'expanded' : ''}">▶</span>
+              <span>${grade.toUpperCase()}</span>
+            </div>
+            <div class="tree-grade-content ${gradeExpanded ? 'expanded' : ''}">
+        `;
+
+        const sortedUnits = Array.from(units.keys()).sort();
+        const unitExpanded = state.expandedUnits.get(grade) || new Set();
+
+        sortedUnits.forEach(unit => {
+          const files = units.get(unit);
+          const isUnitExpanded = unitExpanded.has(unit);
+
+          html += `
+            <div class="tree-unit" data-grade="${grade}" data-unit="${unit}">
+              <div class="tree-unit-header" data-grade="${grade}" data-unit="${unit}">
+                <span class="tree-toggle ${isUnitExpanded ? 'expanded' : ''}">▶</span>
+                <span>${unit}</span>
+              </div>
+              <div class="tree-unit-content ${isUnitExpanded ? 'expanded' : ''}">
+          `;
+
+          files.forEach(file => {
+            const summary = state.fileSummaries.get(file.path) || { total: 0, linked: 0 };
+            const statusClass = getStatusClass(summary);
+            const isActive = file.path === state.currentFile;
+
+            html += `
+              <div class="tree-section ${isActive ? 'active' : ''}" data-path="${file.path}">
+                <span class="tree-section-name">${file.section}</span>
+                <span class="tree-section-stats">${summary.linked}/${summary.total}</span>
+                <span class="tree-section-status ${statusClass}"></span>
+              </div>
+            `;
+          });
+
+          html += `</div></div>`;
+        });
+
+        html += `</div></div>`;
+      });
+
+      el.unitTree.innerHTML = html;
+      attachTreeEventListeners();
+    }
+
+    // Get status class based on linked count
+    function getStatusClass(summary) {
+      if (summary.total === 0) return 'none-linked';
+      if (summary.linked === summary.total) return 'all-linked';
+      if (summary.linked > 0) return 'partial';
+      return 'none-linked';
+    }
+
+    // Attach event listeners to tree elements
+    function attachTreeEventListeners() {
+      // Grade toggle
+      el.unitTree.querySelectorAll('.tree-grade-header').forEach(header => {
+        header.addEventListener('click', () => {
+          const grade = header.dataset.grade;
+          toggleGrade(grade);
+        });
+      });
+
+      // Unit toggle
+      el.unitTree.querySelectorAll('.tree-unit-header').forEach(header => {
+        header.addEventListener('click', () => {
+          const grade = header.dataset.grade;
+          const unit = header.dataset.unit;
+          toggleUnit(grade, unit);
+        });
+      });
+
+      // Section click
+      el.unitTree.querySelectorAll('.tree-section').forEach(section => {
+        section.addEventListener('click', () => {
+          const path = section.dataset.path;
+          loadFile(path);
+        });
+      });
+    }
+
+    // Toggle grade expansion
+    function toggleGrade(grade) {
+      if (state.expandedGrades.has(grade)) {
+        state.expandedGrades.delete(grade);
+      } else {
+        state.expandedGrades.add(grade);
+      }
+      renderUnitTree();
+    }
+
+    // Toggle unit expansion
+    function toggleUnit(grade, unit) {
+      if (!state.expandedUnits.has(grade)) {
+        state.expandedUnits.set(grade, new Set());
+      }
+      const unitSet = state.expandedUnits.get(grade);
+      if (unitSet.has(unit)) {
+        unitSet.delete(unit);
+      } else {
+        unitSet.add(unit);
+      }
+      renderUnitTree();
     }
 
     function populateVoiceSelect() {
@@ -610,7 +1181,7 @@
 
     async function loadFile(filePath) {
       if (!filePath) {
-        el.scriptContainer.style.display = 'none';
+        el.scriptsSection.style.display = 'none';
         el.emptyState.style.display = 'block';
         return;
       }
@@ -620,19 +1191,95 @@
         if (res.success) {
           state.scripts = res.scripts;
           state.currentFile = filePath;
-          state.currentIndex = 0;
-          // Don't clear - preserve checked scripts across files
+          state.selectedIndex = 0;
+          state.scriptStatuses = new Array(res.scripts.length).fill('none');
           el.emptyState.style.display = 'none';
-          el.scriptContainer.style.display = 'block';
-          await renderScript();
+          el.scriptsSection.style.display = 'block';
+
+          // Update scripts section title
+          const file = state.files.find(f => f.path === filePath);
+          if (file) {
+            el.scriptsTitle.textContent = file.section;
+          }
+
+          // Scan all scripts for audio status
+          await scanScriptStatuses();
+
+          // Update file summary in tree
+          updateFileSummary(filePath);
+
+          // Auto-select unlinked scripts
+          autoSelectUnlinked();
+
+          renderSidebar();
+          renderUnitTree(); // Update tree to show active state
+          await renderSelectedScript();
         }
       } catch (error) {
         showStatus('Failed to load file: ' + error.message, 'error');
       }
     }
 
-    async function renderScript() {
-      const script = state.scripts[state.currentIndex];
+    // Update file summary after operations
+    function updateFileSummary(filePath) {
+      const linkedCount = state.scriptStatuses.filter(s => s === 'linked').length;
+      const totalCount = state.scripts.length;
+      state.fileSummaries.set(filePath, { total: totalCount, linked: linkedCount });
+    }
+
+    // Scan all scripts to determine their audio status
+    async function scanScriptStatuses() {
+      const promises = state.scripts.map(async (script, index) => {
+        if (script.href) {
+          state.scriptStatuses[index] = 'linked';
+          return;
+        }
+        try {
+          const res = await api(`/audio-lookup/${script.hash}`);
+          state.scriptStatuses[index] = (res.success && res.exists) ? 'found' : 'none';
+        } catch {
+          state.scriptStatuses[index] = 'none';
+        }
+      });
+      await Promise.all(promises);
+    }
+
+    // Render the sidebar script list
+    function renderSidebar() {
+      const checkedSet = getCheckedScripts();
+      const linkedCount = state.scriptStatuses.filter(s => s === 'linked').length;
+      el.sidebarStats.textContent = `${linkedCount}/${state.scripts.length} linked`;
+
+      el.scriptList.innerHTML = state.scripts.map((script, index) => {
+        const status = state.scriptStatuses[index];
+        const isActive = index === state.selectedIndex;
+        const isChecked = checkedSet.has(index);
+        const truncatedText = script.cleanedText.slice(0, 60) + (script.cleanedText.length > 60 ? '...' : '');
+
+        return `
+          <div class="script-item ${isActive ? 'active' : ''}" data-index="${index}">
+            <span class="script-item-index">#${index + 1}</span>
+            <span class="script-item-status ${status}"></span>
+            <span class="script-item-text">${escapeHtml(truncatedText)}</span>
+            <input type="checkbox" class="script-item-checkbox"
+                   data-index="${index}" ${isChecked ? 'checked' : ''}
+                   onclick="event.stopPropagation()">
+          </div>
+        `;
+      }).join('');
+
+      updateBatchButton();
+    }
+
+    function escapeHtml(text) {
+      const div = document.createElement('div');
+      div.textContent = text;
+      return div.innerHTML;
+    }
+
+    // Render the selected script in detail panel
+    async function renderSelectedScript() {
+      const script = state.scripts[state.selectedIndex];
       if (!script) return;
 
       // Update raw text display
@@ -651,38 +1298,25 @@
       // Check audio status
       await checkAudioStatus(script);
 
-      // Update progress
-      const total = state.scripts.length;
-      const current = state.currentIndex + 1;
-      const generated = state.scripts.filter(s => s.href).length;
-
-      el.progressText.textContent = `Script ${current}/${total}`;
-      el.progressFill.style.width = `${(current / total) * 100}%`;
-      el.generatedCount.textContent = `${generated} linked`;
-
-      // Update nav buttons
-      el.prevBtn.disabled = state.currentIndex === 0;
-      // Next button: disabled only if last script AND last file
-      const currentFileIndex = state.files.findIndex(f => f.path === state.currentFile);
-      const isLastFile = currentFileIndex === state.files.length - 1;
-      el.nextBtn.disabled = state.currentIndex === total - 1 && isLastFile;
-
       // Update queue checkbox
       updateQueueCheckbox();
-      updateBatchButton();
+
+      // Update sidebar to show active state
+      document.querySelectorAll('.script-item').forEach((item, idx) => {
+        item.classList.toggle('active', idx === state.selectedIndex);
+      });
     }
 
     function updateQueueCheckbox() {
       const checked = getCheckedScripts();
-      const isChecked = checked.has(state.currentIndex);
+      const isChecked = checked.has(state.selectedIndex);
       el.queueCheckbox.checked = isChecked;
       el.queueCheck.classList.toggle('checked', isChecked);
     }
 
     function updateBatchButton() {
-      const totalCount = getTotalCheckedCount();
-      el.batchBtn.textContent = `Generate Checked (${totalCount})`;
-      el.batchBtn.style.display = totalCount > 0 ? 'inline-block' : 'none';
+      const count = getCurrentFileCheckedCount();
+      el.batchBtn.textContent = `Generate (${count})`;
     }
 
     function toggleQueueScript(index, checked) {
@@ -707,6 +1341,7 @@
         el.linkBtn.style.display = 'none';
         el.regenBtn.style.display = 'inline-block';
         state.audioLookup = { exists: true, href: script.href };
+        state.scriptStatuses[state.selectedIndex] = 'linked';
         return;
       }
 
@@ -723,12 +1358,14 @@
           el.audioElement.src = '/' + res.href;
           el.linkBtn.style.display = 'inline-block';
           state.audioLookup = res;
+          state.scriptStatuses[state.selectedIndex] = 'found';
         } else {
           el.audioBadge.className = 'badge badge-no-audio';
           el.audioBadge.textContent = 'No audio';
           el.audioPlayer.style.display = 'none';
           el.linkBtn.style.display = 'none';
           state.audioLookup = null;
+          state.scriptStatuses[state.selectedIndex] = 'none';
         }
       } catch (error) {
         el.audioBadge.className = 'badge badge-no-audio';
@@ -736,6 +1373,7 @@
         el.audioPlayer.style.display = 'none';
         el.linkBtn.style.display = 'none';
         state.audioLookup = null;
+        state.scriptStatuses[state.selectedIndex] = 'none';
       }
     }
 
@@ -781,7 +1419,7 @@
     }, 500);
 
     async function generateAudio(forceRegenerate = false) {
-      const script = state.scripts[state.currentIndex];
+      const script = state.scripts[state.selectedIndex];
       const voiceId = el.voiceSelect.value;
       const text = el.ttsTextarea.value.trim();
 
@@ -816,9 +1454,13 @@
           script.href = res.href;
           script.cleanedText = text;
           script.hash = state.currentHash;
+          state.scriptStatuses[state.selectedIndex] = 'linked';
           const msg = forceRegenerate ? 'Audio regenerated!' : (res.cached ? 'Audio reused!' : 'Audio generated!');
           showStatus(msg, 'success');
-          await renderScript();
+          updateFileSummary(state.currentFile);
+          renderSidebar();
+          renderUnitTree();
+          await renderSelectedScript();
         } else {
           showStatus('Failed: ' + res.error, 'error');
         }
@@ -834,7 +1476,7 @@
     async function linkExisting() {
       if (!state.audioLookup || !state.audioLookup.href) return;
 
-      const script = state.scripts[state.currentIndex];
+      const script = state.scripts[state.selectedIndex];
       el.loading.classList.add('active');
 
       try {
@@ -849,8 +1491,12 @@
 
         if (res.success) {
           script.href = state.audioLookup.href;
+          state.scriptStatuses[state.selectedIndex] = 'linked';
           showStatus('Audio linked!', 'success');
-          await renderScript();
+          updateFileSummary(state.currentFile);
+          renderSidebar();
+          renderUnitTree();
+          await renderSelectedScript();
         } else {
           showStatus('Failed: ' + res.error, 'error');
         }
@@ -861,8 +1507,115 @@
       }
     }
 
+    // === Recording Functions ===
+    async function startRecording() {
+      if (state.isRecording) return;
+
+      try {
+        const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
+        state.mediaRecorder = new MediaRecorder(stream, { mimeType: 'audio/webm' });
+        state.recordedChunks = [];
+
+        state.mediaRecorder.ondataavailable = (e) => {
+          if (e.data.size > 0) {
+            state.recordedChunks.push(e.data);
+          }
+        };
+
+        state.mediaRecorder.onstop = async () => {
+          // Stop all tracks
+          stream.getTracks().forEach(track => track.stop());
+
+          // Create blob and upload
+          const blob = new Blob(state.recordedChunks, { type: 'audio/webm' });
+          await uploadRecordedAudio(blob);
+        };
+
+        state.mediaRecorder.start();
+        state.isRecording = true;
+        state.recordingStartTime = Date.now();
+
+        // Update UI
+        el.recordBtn.style.display = 'none';
+        el.stopRecordBtn.style.display = 'inline-block';
+        el.recordingIndicator.classList.add('active');
+        el.generateBtn.disabled = true;
+
+        // Start timer
+        updateRecordingTime();
+        state.recordingTimer = setInterval(updateRecordingTime, 1000);
+
+      } catch (error) {
+        showStatus('Microphone access denied: ' + error.message, 'error');
+      }
+    }
+
+    function stopRecording() {
+      if (!state.isRecording || !state.mediaRecorder) return;
+
+      state.mediaRecorder.stop();
+      state.isRecording = false;
+
+      // Clear timer
+      if (state.recordingTimer) {
+        clearInterval(state.recordingTimer);
+        state.recordingTimer = null;
+      }
+
+      // Update UI
+      el.recordBtn.style.display = 'inline-block';
+      el.stopRecordBtn.style.display = 'none';
+      el.recordingIndicator.classList.remove('active');
+      el.generateBtn.disabled = false;
+      el.loading.classList.add('active');
+    }
+
+    function updateRecordingTime() {
+      if (!state.recordingStartTime) return;
+      const elapsed = Math.floor((Date.now() - state.recordingStartTime) / 1000);
+      const mins = Math.floor(elapsed / 60).toString().padStart(2, '0');
+      const secs = (elapsed % 60).toString().padStart(2, '0');
+      el.recordingTime.textContent = `${mins}:${secs}`;
+    }
+
+    async function uploadRecordedAudio(blob) {
+      const script = state.scripts[state.selectedIndex];
+
+      try {
+        // Create form data with the audio blob
+        const formData = new FormData();
+        formData.append('audio', blob, 'recording.webm');
+        formData.append('filePath', state.currentFile);
+        formData.append('scriptIndex', script.index);
+        formData.append('hash', state.currentHash);
+
+        const response = await fetch('/api/upload-recording', {
+          method: 'POST',
+          body: formData
+        });
+
+        const res = await response.json();
+
+        if (res.success) {
+          script.href = res.href;
+          state.scriptStatuses[state.selectedIndex] = 'linked';
+          showStatus('Recording saved!', 'success');
+          updateFileSummary(state.currentFile);
+          renderSidebar();
+          renderUnitTree();
+          await renderSelectedScript();
+        } else {
+          showStatus('Failed to save recording: ' + res.error, 'error');
+        }
+      } catch (error) {
+        showStatus('Error uploading recording: ' + error.message, 'error');
+      } finally {
+        el.loading.classList.remove('active');
+      }
+    }
+
     async function saveText() {
-      const script = state.scripts[state.currentIndex];
+      const script = state.scripts[state.selectedIndex];
       const newText = el.ttsTextarea.value.trim();
 
       if (newText === script.cleanedText) {
@@ -889,6 +1642,7 @@
           el.hashBadge.textContent = `#${res.newHash}`;
           showStatus('Text saved to markdown!', 'success');
           await checkAudioStatus(script);
+          renderSidebar();
         } else {
           showStatus('Failed: ' + res.error, 'error');
         }
@@ -907,53 +1661,276 @@
       }, 3000);
     }
 
-    // === Batch Generation ===
-    function openBatchModal() {
-      const totalCount = getTotalCheckedCount();
-      if (totalCount === 0) {
-        showStatus('No scripts queued for generation', 'error');
+    // === Auto-Link All ===
+    async function autoLinkAll() {
+      if (state.autoLinkInProgress) return;
+      state.autoLinkInProgress = true;
+
+      // Find unlinked scripts that have audio available
+      const unlinked = state.scripts
+        .map((script, index) => ({ script, index }))
+        .filter(({ script }) => !script.href);
+
+      if (unlinked.length === 0) {
+        showStatus('All scripts are already linked!', 'success');
+        state.autoLinkInProgress = false;
         return;
       }
 
-      // Build list of scripts from all files
-      el.batchList.innerHTML = '';
-      let toGenerateCount = 0;
+      // Show modal
+      el.autoLinkList.innerHTML = '';
+      el.autoLinkProgressFill.style.width = '0%';
+      el.autoLinkProgressText.firstChild.textContent = `Scanning ${unlinked.length} unlinked scripts...`;
+      el.autoLinkModal.classList.add('active');
 
-      state.checkedScriptsMap.forEach((indices, filePath) => {
-        if (indices.size === 0) return;
+      let linked = 0;
+      let notFound = 0;
 
-        // Add file header
-        const fileInfo = state.files.find(f => f.path === filePath);
-        const fileName = fileInfo ? `${fileInfo.unit}/${fileInfo.section}` : filePath;
-        const header = document.createElement('div');
-        header.className = 'batch-item';
-        header.style.background = '#e2e8f0';
-        header.style.fontWeight = '600';
-        header.innerHTML = `<span>${fileName}</span>`;
-        el.batchList.appendChild(header);
+      for (let i = 0; i < unlinked.length; i++) {
+        const { script, index } = unlinked[i];
 
-        // Add script items (need to load scripts if not current file)
-        const sorted = Array.from(indices).sort((a, b) => a - b);
-        sorted.forEach(i => {
-          const item = document.createElement('div');
-          item.className = 'batch-item';
-          item.id = `batch-item-${filePath}-${i}`;
-          item.dataset.filePath = filePath;
-          item.dataset.scriptIndex = i;
-          item.innerHTML = `
-            <span class="batch-item-index">#${i + 1}</span>
-            <span class="batch-item-text">Script ${i + 1}</span>
-            <span class="batch-item-status pending">Pending</span>
-          `;
-          el.batchList.appendChild(item);
-          toGenerateCount++;
-        });
+        // Create item in list
+        const item = document.createElement('div');
+        item.className = 'batch-item current';
+        item.innerHTML = `
+          <span class="batch-item-index">#${index + 1}</span>
+          <span class="batch-item-text">${escapeHtml(script.cleanedText.slice(0, 40))}...</span>
+          <span class="batch-item-status generating">Checking...</span>
+        `;
+        el.autoLinkList.appendChild(item);
+        el.autoLinkList.scrollTop = el.autoLinkList.scrollHeight;
+
+        try {
+          // Lookup by hash
+          const lookupRes = await api(`/audio-lookup/${script.hash}`);
+
+          if (lookupRes.success && lookupRes.exists) {
+            // Link it
+            const linkRes = await api('/update-href', {
+              method: 'POST',
+              body: {
+                filePath: state.currentFile,
+                scriptIndex: script.index,
+                href: lookupRes.href
+              }
+            });
+
+            if (linkRes.success) {
+              script.href = lookupRes.href;
+              state.scriptStatuses[index] = 'linked';
+              item.className = 'batch-item done';
+              item.querySelector('.batch-item-status').className = 'batch-item-status done';
+              item.querySelector('.batch-item-status').textContent = 'Linked!';
+              linked++;
+            } else {
+              item.className = 'batch-item error';
+              item.querySelector('.batch-item-status').className = 'batch-item-status error';
+              item.querySelector('.batch-item-status').textContent = 'Error';
+            }
+          } else {
+            state.scriptStatuses[index] = 'none';
+            item.className = 'batch-item';
+            item.querySelector('.batch-item-status').className = 'batch-item-status pending';
+            item.querySelector('.batch-item-status').textContent = 'No audio';
+            notFound++;
+          }
+        } catch (error) {
+          item.className = 'batch-item error';
+          item.querySelector('.batch-item-status').className = 'batch-item-status error';
+          item.querySelector('.batch-item-status').textContent = 'Error';
+        }
+
+        // Update progress
+        const progress = ((i + 1) / unlinked.length) * 100;
+        el.autoLinkProgressFill.style.width = `${progress}%`;
+        el.autoLinkProgressText.firstChild.textContent = `Processed ${i + 1} of ${unlinked.length}`;
+      }
+
+      state.autoLinkInProgress = false;
+      el.autoLinkProgressText.firstChild.textContent = `Done! Linked ${linked}, ${notFound} no audio found`;
+
+      // Update file summary
+      updateFileSummary(state.currentFile);
+
+      // Refresh sidebar, tree and detail
+      renderSidebar();
+      renderUnitTree();
+      await renderSelectedScript();
+      showStatus(`Auto-linked ${linked} scripts`, 'success');
+    }
+
+    function closeAutoLinkModal() {
+      el.autoLinkModal.classList.remove('active');
+    }
+
+    // === Select Unlinked Scripts ===
+    function selectUnlinked() {
+      if (!state.scripts.length) return;
+      const addedCount = autoSelectUnlinked();
+      showStatus(`Selected ${addedCount} unlinked scripts`, 'success');
+    }
+
+    // Auto-select unlinked scripts (silent, no status message)
+    function autoSelectUnlinked() {
+      if (!state.scripts.length) return 0;
+
+      const set = getCheckedScripts();
+      let addedCount = 0;
+
+      state.scripts.forEach((script, index) => {
+        const status = state.scriptStatuses[index];
+        // Select scripts that are not linked (status is 'none' or 'found')
+        if (status !== 'linked') {
+          set.add(index);
+          addedCount++;
+        }
       });
 
-      el.batchTotal.textContent = toGenerateCount;
+      setCheckedScripts(set);
+      updateBatchButton();
+      return addedCount;
+    }
+
+    // === Global Auto-Link All Files ===
+    async function globalAutoLinkAll() {
+      if (state.globalLinkInProgress) return;
+      state.globalLinkInProgress = true;
+
+      // Show modal
+      el.autoLinkList.innerHTML = '';
+      el.autoLinkProgressFill.style.width = '0%';
+      el.autoLinkProgressText.firstChild.textContent = `Preparing to scan all files...`;
+      el.autoLinkModal.classList.add('active');
+
+      const totalFiles = state.files.length;
+      let totalLinked = 0;
+      let totalSkipped = 0;
+      let totalErrors = 0;
+      let processedFiles = 0;
+
+      for (const file of state.files) {
+        // Add file header to list
+        const fileItem = document.createElement('div');
+        fileItem.className = 'batch-item current';
+        fileItem.innerHTML = `
+          <span class="batch-item-index">${file.grade}</span>
+          <span class="batch-item-text">${file.unit}/${file.section}</span>
+          <span class="batch-item-status generating">Scanning...</span>
+        `;
+        el.autoLinkList.appendChild(fileItem);
+        el.autoLinkList.scrollTop = el.autoLinkList.scrollHeight;
+
+        try {
+          // Load file scripts
+          const fileRes = await api(`/file/${file.path}`);
+          if (!fileRes.success) {
+            fileItem.className = 'batch-item error';
+            fileItem.querySelector('.batch-item-status').textContent = 'Load error';
+            totalErrors++;
+            continue;
+          }
+
+          const scripts = fileRes.scripts;
+          let fileLinked = 0;
+          let fileSkipped = 0;
+
+          // Process each unlinked script
+          for (const script of scripts) {
+            if (script.href) {
+              fileSkipped++;
+              continue; // Already linked
+            }
+
+            // Lookup by hash
+            const lookupRes = await api(`/audio-lookup/${script.hash}`);
+            if (lookupRes.success && lookupRes.exists) {
+              // Link it
+              const linkRes = await api('/update-href', {
+                method: 'POST',
+                body: {
+                  filePath: file.path,
+                  scriptIndex: script.index,
+                  href: lookupRes.href
+                }
+              });
+
+              if (linkRes.success) {
+                fileLinked++;
+              }
+            }
+          }
+
+          totalLinked += fileLinked;
+          totalSkipped += fileSkipped;
+
+          // Update file summary in state
+          const newLinked = scripts.filter(s => s.href).length + fileLinked;
+          state.fileSummaries.set(file.path, { total: scripts.length, linked: newLinked });
+
+          // Update item status
+          if (fileLinked > 0) {
+            fileItem.className = 'batch-item done';
+            fileItem.querySelector('.batch-item-status').className = 'batch-item-status done';
+            fileItem.querySelector('.batch-item-status').textContent = `+${fileLinked} linked`;
+          } else {
+            fileItem.className = 'batch-item';
+            fileItem.querySelector('.batch-item-status').className = 'batch-item-status pending';
+            fileItem.querySelector('.batch-item-status').textContent = 'No matches';
+          }
+        } catch (error) {
+          fileItem.className = 'batch-item error';
+          fileItem.querySelector('.batch-item-status').className = 'batch-item-status error';
+          fileItem.querySelector('.batch-item-status').textContent = 'Error';
+          totalErrors++;
+        }
+
+        processedFiles++;
+        const progress = (processedFiles / totalFiles) * 100;
+        el.autoLinkProgressFill.style.width = `${progress}%`;
+        el.autoLinkProgressText.firstChild.textContent = `Processed ${processedFiles} / ${totalFiles} files`;
+      }
+
+      state.globalLinkInProgress = false;
+      el.autoLinkProgressText.firstChild.textContent = `Done! Linked ${totalLinked} scripts across all files`;
+
+      // Refresh tree and current file if any
+      renderUnitTree();
+      if (state.currentFile) {
+        await loadFile(state.currentFile);
+      }
+
+      showStatus(`Global link complete: ${totalLinked} linked`, 'success');
+    }
+
+    // === Batch Generation ===
+    function openBatchModal() {
+      const checked = getCheckedScripts();
+      if (checked.size === 0) {
+        showStatus('No scripts checked for generation', 'error');
+        return;
+      }
+
+      // Build list of checked scripts
+      el.batchList.innerHTML = '';
+      const sorted = Array.from(checked).sort((a, b) => a - b);
+
+      sorted.forEach(index => {
+        const script = state.scripts[index];
+        const item = document.createElement('div');
+        item.className = 'batch-item';
+        item.id = `batch-item-${index}`;
+        item.innerHTML = `
+          <span class="batch-item-index">#${index + 1}</span>
+          <span class="batch-item-text">${escapeHtml(script.cleanedText.slice(0, 50))}...</span>
+          <span class="batch-item-status pending">Pending</span>
+        `;
+        el.batchList.appendChild(item);
+      });
+
+      el.batchTotal.textContent = sorted.length;
       el.batchProgressFill.style.width = '0%';
-      el.startBatchBtn.style.display = toGenerateCount > 0 ? 'inline-block' : 'none';
-      el.forceRegenBtn.style.display = toGenerateCount > 0 ? 'inline-block' : 'none';
+      el.startBatchBtn.style.display = 'inline-block';
+      el.forceRegenBtn.style.display = 'inline-block';
       el.stopBatchBtn.style.display = 'none';
       el.closeBatchBtn.style.display = 'inline-block';
       el.batchModal.classList.add('active');
@@ -967,17 +1944,10 @@
     }
 
     async function startBatchGeneration(forceRegenerate = false) {
-      // Build list of all items to process
-      const allItems = [];
-      document.querySelectorAll('.batch-item[data-file-path]').forEach(item => {
-        allItems.push({
-          filePath: item.dataset.filePath,
-          scriptIndex: parseInt(item.dataset.scriptIndex),
-          element: item
-        });
-      });
+      const checked = getCheckedScripts();
+      const indices = Array.from(checked).sort((a, b) => a - b);
 
-      if (allItems.length === 0) {
+      if (indices.length === 0) {
         showStatus('No scripts to generate', 'error');
         return;
       }
@@ -991,10 +1961,14 @@
       let completed = 0;
       let errors = 0;
       const voiceId = el.voiceSelect.value;
-      const total = allItems.length;
+      const total = indices.length;
 
-      for (const { filePath, scriptIndex, element } of allItems) {
+      for (const index of indices) {
         if (!state.batchRunning) break;
+
+        const script = state.scripts[index];
+        const element = document.getElementById(`batch-item-${index}`);
+        if (!element) continue;
 
         // Update UI to show current
         element.className = 'batch-item current';
@@ -1002,16 +1976,6 @@
         element.querySelector('.batch-item-status').textContent = 'Generating...';
 
         try {
-          // Load file scripts if needed
-          const fileRes = await api(`/file/${filePath}`);
-          if (!fileRes.success) throw new Error('Failed to load file');
-
-          const script = fileRes.scripts[scriptIndex];
-          if (!script) throw new Error('Script not found');
-
-          // Update item text
-          element.querySelector('.batch-item-text').textContent = script.cleanedText.slice(0, 50) + '...';
-
           // Skip if already has audio and not force regenerate
           if (script.href && !forceRegenerate) {
             element.className = 'batch-item done';
@@ -1027,8 +1991,10 @@
             if (lookupRes.success && lookupRes.exists) {
               await api('/update-href', {
                 method: 'POST',
-                body: { filePath, scriptIndex: script.index, href: lookupRes.href }
+                body: { filePath: state.currentFile, scriptIndex: script.index, href: lookupRes.href }
               });
+              script.href = lookupRes.href;
+              state.scriptStatuses[index] = 'linked';
               element.className = 'batch-item done';
               element.querySelector('.batch-item-status').className = 'batch-item-status done';
               element.querySelector('.batch-item-status').textContent = 'Linked';
@@ -1041,7 +2007,7 @@
           const res = await api('/generate', {
             method: 'POST',
             body: {
-              filePath,
+              filePath: state.currentFile,
               scriptIndex: script.index,
               voiceId,
               cleanedText: script.cleanedText,
@@ -1051,6 +2017,8 @@
           });
 
           if (res.success) {
+            script.href = res.href;
+            state.scriptStatuses[index] = 'linked';
             element.className = 'batch-item done';
             element.querySelector('.batch-item-status').className = 'batch-item-status done';
             element.querySelector('.batch-item-status').textContent = 'Done';
@@ -1076,18 +2044,24 @@
       el.stopBatchBtn.style.display = 'none';
       el.closeBatchBtn.style.display = 'inline-block';
 
-      // Clear all checked scripts
-      state.checkedScriptsMap.clear();
+      // Clear checked scripts
+      setCheckedScripts(new Set());
       updateBatchButton();
 
-      // Refresh current script display
-      await renderScript();
+      // Update file summary and tree
+      updateFileSummary(state.currentFile);
+
+      // Refresh display
+      renderSidebar();
+      renderUnitTree();
+      await renderSelectedScript();
       showStatus(`Batch complete: ${completed - errors} succeeded, ${errors} failed`, errors > 0 ? 'error' : 'success');
     }
 
     // Event listeners
-    el.fileSelect.addEventListener('change', (e) => loadFile(e.target.value));
     el.voiceSelect.addEventListener('change', (e) => state.selectedVoiceId = e.target.value);
+    el.selectUnlinkedBtn.addEventListener('click', selectUnlinked);
+    el.globalLinkBtn.addEventListener('click', globalAutoLinkAll);
     el.ttsTextarea.addEventListener('input', handleTextChange);
     el.templateSelect.addEventListener('change', (e) => {
       if (e.target.value) {
@@ -1100,40 +2074,39 @@
     el.regenBtn.addEventListener('click', () => generateAudio(true));
     el.linkBtn.addEventListener('click', linkExisting);
     el.saveTextBtn.addEventListener('click', saveText);
-    el.prevBtn.addEventListener('click', async () => {
-      if (state.currentIndex > 0) {
-        state.currentIndex--;
-        await renderScript();
-      }
-    });
-    el.nextBtn.addEventListener('click', async () => {
-      // Auto-check current script before moving
-      const set = getCheckedScripts();
-      set.add(state.currentIndex);
-      setCheckedScripts(set);
+    el.recordBtn.addEventListener('click', startRecording);
+    el.stopRecordBtn.addEventListener('click', stopRecording);
 
-      if (state.currentIndex < state.scripts.length - 1) {
-        // Move to next script in current file
-        state.currentIndex++;
-        await renderScript();
-      } else {
-        // Current file done - switch to next file
-        const currentFileIndex = state.files.findIndex(f => f.path === state.currentFile);
-        if (currentFileIndex >= 0 && currentFileIndex < state.files.length - 1) {
-          const nextFile = state.files[currentFileIndex + 1];
-          el.fileSelect.value = nextFile.path;
-          showStatus(`Switching to ${nextFile.unit}/${nextFile.section}...`, 'success');
-          await loadFile(nextFile.path);
-        } else {
-          showStatus('All files completed!', 'success');
-        }
+    // Sidebar click handlers
+    el.scriptList.addEventListener('click', async (e) => {
+      const item = e.target.closest('.script-item');
+      if (!item) return;
+
+      const index = parseInt(item.dataset.index);
+      if (!isNaN(index) && index !== state.selectedIndex) {
+        state.selectedIndex = index;
+        await renderSelectedScript();
       }
     });
 
-    // Batch event listeners
+    // Sidebar checkbox handlers
+    el.scriptList.addEventListener('change', (e) => {
+      if (e.target.classList.contains('script-item-checkbox')) {
+        const index = parseInt(e.target.dataset.index);
+        toggleQueueScript(index, e.target.checked);
+      }
+    });
+
+    // Detail panel queue checkbox
     el.queueCheckbox.addEventListener('change', (e) => {
-      toggleQueueScript(state.currentIndex, e.target.checked);
+      toggleQueueScript(state.selectedIndex, e.target.checked);
+      // Also update sidebar checkbox
+      const sidebarCheckbox = el.scriptList.querySelector(`.script-item-checkbox[data-index="${state.selectedIndex}"]`);
+      if (sidebarCheckbox) sidebarCheckbox.checked = e.target.checked;
     });
+
+    // Auto-link and batch buttons
+    el.autoLinkBtn.addEventListener('click', autoLinkAll);
     el.batchBtn.addEventListener('click', openBatchModal);
     el.startBatchBtn.addEventListener('click', () => startBatchGeneration(false));
     el.forceRegenBtn.addEventListener('click', () => startBatchGeneration(true));
@@ -1141,18 +2114,40 @@
     el.closeBatchBtn.addEventListener('click', closeBatchModal);
     el.modalClose.addEventListener('click', closeBatchModal);
 
-    // Keyboard shortcuts: ←→ nav, G generate, R regen, L link, B batch, Space play
+    // Auto-link modal
+    el.autoLinkModalClose.addEventListener('click', closeAutoLinkModal);
+    el.closeAutoLinkBtn.addEventListener('click', closeAutoLinkModal);
+
+    // Keyboard shortcuts
     document.addEventListener('keydown', (e) => {
       if (e.target.tagName === 'TEXTAREA' || e.target.tagName === 'SELECT') return;
-      if (el.batchModal.classList.contains('active')) {
-        if (e.key === 'Escape') closeBatchModal();
+      if (el.batchModal.classList.contains('active') || el.autoLinkModal.classList.contains('active')) {
+        if (e.key === 'Escape') {
+          closeBatchModal();
+          closeAutoLinkModal();
+        }
         return;
       }
-      if (e.key === 'ArrowLeft') el.prevBtn.click();
-      if (e.key === 'ArrowRight') el.nextBtn.click();
+
+      // Arrow keys for navigation
+      if (e.key === 'ArrowUp' || e.key === 'ArrowLeft') {
+        e.preventDefault();
+        if (state.selectedIndex > 0) {
+          state.selectedIndex--;
+          renderSelectedScript();
+        }
+      }
+      if (e.key === 'ArrowDown' || e.key === 'ArrowRight') {
+        e.preventDefault();
+        if (state.selectedIndex < state.scripts.length - 1) {
+          state.selectedIndex++;
+          renderSelectedScript();
+        }
+      }
       if (e.key === 'g' || e.key === 'G') el.generateBtn.click();
       if (e.key === 'r' || e.key === 'R') el.regenBtn.click();
       if (e.key === 'l' || e.key === 'L') el.linkBtn.click();
+      if (e.key === 'a' || e.key === 'A') autoLinkAll();
       if (e.key === 'b' || e.key === 'B') openBatchModal();
       if (e.key === ' ') { e.preventDefault(); el.audioElement.play(); }
     });

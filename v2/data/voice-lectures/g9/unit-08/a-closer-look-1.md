@@ -3,7 +3,7 @@
 ## A CLOSER LOOK 1
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_fd00461e.mp3">
 Chào các em. Chào mừng các em đến với bài học hôm nay. Mời các em mở sách giáo khoa.
 </teacher_script>
 
@@ -21,7 +21,7 @@ Chào các em. Chào mừng các em đến với bài học hôm nay. Mời các
 7. **entrance ticket** : (n) vé vào cổng /ˈentrəns ˈtɪkɪt/
 </vocabulary>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_c0841176.mp3">
 Chúng ta cùng học từ vựng mới. Các em hãy nghe và lặp lại theo mẫu nhé.
 </teacher_script>
 
@@ -30,7 +30,7 @@ Chúng ta cùng học từ vựng mới. Các em hãy nghe và lặp lại theo 
 <!-- chunk: exercise_1 -->
 ### Bài 1 trang 22 - Match words with explanations
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_d5b1d729.mp3">
 Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
@@ -59,7 +59,7 @@ e. vacation organised by travel agent.
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 22 - Replace 'it' with phrases
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_d5b1d729.mp3">
 Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
@@ -87,7 +87,7 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 <!-- chunk: exercise_3 -->
 ### Bài 3 trang 22 - Complete sentences
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_d5b1d729.mp3">
 Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
@@ -110,7 +110,7 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 5. apps
 </answer>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -119,7 +119,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 <!-- chunk: pronunciation -->
 ### Pronunciation: Stress in -ic and -ious
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_b28990cd.mp3">
 Phần phát âm. Trọng âm thường rơi vào âm tiết **ngay trước** các đuôi **-ic** và **-ious**.
 Ví dụ: **bas**ic, de**lic**ious.
 </teacher_script>
@@ -145,7 +145,7 @@ Ví dụ: **bas**ic, de**lic**ious.
 <!-- chunk: exercise_5 -->
 ### Bài 5 trang 23 - Mark stress
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_d5b1d729.mp3">
 Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
@@ -162,6 +162,6 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 5. ro'mantic, 'various
 </explanation>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_ba688992.mp3">
 Bài học hôm nay kết thúc tại đây. Các em nhớ ôn bài và chuẩn bị cho bài học tiếp theo. Tạm biệt các em.
 </teacher_script>

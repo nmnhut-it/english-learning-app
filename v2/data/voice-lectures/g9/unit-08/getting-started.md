@@ -3,7 +3,7 @@
 ## GETTING STARTED - A trip to the country
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_fd00461e.mp3">
 Chào các em. Chào mừng các em đến với bài học hôm nay. Mời các em mở sách giáo khoa.
 </teacher_script>
 
@@ -23,7 +23,7 @@ Chào các em. Chào mừng các em đến với bài học hôm nay. Mời các
 9. **terrace field** : (n) ruộng bậc thang /ˈterəs fiːld/
 </vocabulary>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_c0841176.mp3">
 Chúng ta cùng học từ vựng mới. Các em hãy nghe và lặp lại theo mẫu nhé.
 </teacher_script>
 
@@ -32,7 +32,7 @@ Chúng ta cùng học từ vựng mới. Các em hãy nghe và lặp lại theo 
 <!-- chunk: diet -->
 ### Bài 1 trang 20 - Listen and read
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_c08c1d7b.mp3">
 Bây giờ các em sẽ nghe một đoạn băng. Hãy chú ý lắng nghe để tìm thông tin trả lời câu hỏi.
 </teacher_script>
 
@@ -54,7 +54,7 @@ Bây giờ các em sẽ nghe một đoạn băng. Hãy chú ý lắng nghe để
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 21 - True or False
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_d5b1d729.mp3">
 Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
@@ -79,7 +79,7 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 5. **True** (food, shopping, sports tourism).
 </explanation>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -88,7 +88,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 <!-- chunk: exercise_3 -->
 ### Bài 3 trang 21 - Match words
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_d5b1d729.mp3">
 Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
@@ -111,7 +111,7 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 <!-- chunk: exercise_4 -->
 ### Bài 4 trang 21 - Complete sentences
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_d5b1d729.mp3">
 Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
@@ -139,7 +139,7 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 <!-- chunk: exercise_5 -->
 ### Bài 5 trang 21 - Quiz: Tourism in Viet Nam
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_d5b1d729.mp3">
 Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
@@ -156,13 +156,13 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 **Đáp án:** 1. Hue | 2. Can Tho | 3. Da Lat | 4. Lao Cai | 5. Quang Ninh
 </answer>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_ba688992.mp3">
 Bài học hôm nay kết thúc tại đây. Các em nhớ ôn bài và chuẩn bị cho bài học tiếp theo. Tạm biệt các em.
 </teacher_script>

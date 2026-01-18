@@ -142,7 +142,7 @@ C. Most people like it.
 4. **C** (Most people like it) - Mark nói: "most say it's funny and interesting."
 </explanation>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -197,7 +197,7 @@ Chúng ta cùng làm Bài 3 <eng>Choose the correct word or phrase</eng>. Các e
 5. **horror film**: phim kinh dị (frightening things - những điều đáng sợ)
 </explanation>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -245,7 +245,7 @@ Chúng ta cùng làm Bài 4 <eng>Complete the sentences</eng>. Các em hãy ch�
 5. **interesting** (thú vị): có nhiều thông tin hữu ích (useful information).
 </explanation>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 

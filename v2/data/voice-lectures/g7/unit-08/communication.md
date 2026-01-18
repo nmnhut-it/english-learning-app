@@ -118,7 +118,7 @@ Chúng ta cùng làm Bài 3 <eng>Listen and fill in the blanks</eng>. Các em h�
 5. It's very **funny**. (Nó rất hài hước)
 </explanation>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 

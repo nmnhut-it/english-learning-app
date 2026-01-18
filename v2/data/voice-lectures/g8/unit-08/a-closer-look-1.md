@@ -3,7 +3,7 @@
 ## A CLOSER LOOK 1 - Vocabulary & Pronunciation
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_fd00461e.mp3">
 Chào các em. Chào mừng các em đến với bài học hôm nay. Mời các em mở sách giáo khoa.
 </teacher_script>
 
@@ -22,7 +22,7 @@ Chào các em. Chào mừng các em đến với bài học hôm nay. Mời các
 8. **range of products** : (n) nhiều loại sản phẩm /reɪndʒ əv ˈprɒdʌkts/
 </vocabulary>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_c0841176.mp3">
 Chúng ta cùng học từ vựng mới. Các em hãy nghe và lặp lại theo mẫu nhé.
 </teacher_script>
 
@@ -31,7 +31,7 @@ Chúng ta cùng học từ vựng mới. Các em hãy nghe và lặp lại theo 
 <!-- chunk: exercise_1 -->
 ### Bài 1 trang 84 - Word and Pictures
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_d5b1d729.mp3">
 Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
@@ -53,7 +53,7 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 5. Internet access
 </answer>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -62,7 +62,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 84 - Match shopping places
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_d5b1d729.mp3">
 Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
@@ -95,7 +95,7 @@ e. Offers one or two specific kinds of goods.
 5-c: open-air market (chợ trời) - outdoor, bargain.
 </explanation>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -104,7 +104,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 <!-- chunk: exercise_3 -->
 ### Bài 3 trang 84 - Complete sentences
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_d5b1d729.mp3">
 Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
@@ -122,7 +122,7 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 **Đáp án:** 1. speciality shops | 2. browsing | 3. bargain | 4. range of products | 5. shopaholic
 </answer>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -131,7 +131,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 <!-- chunk: pronunciation -->
 ### Bài 4 trang 84 - Pronunciation /sp/ & /st/
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_9546697f.mp3">
 Các em nghe và thực hành theo nhé.
 </teacher_script>
 
@@ -149,7 +149,7 @@ Các em nghe và thực hành theo nhé.
 <!-- chunk: exercise_5 -->
 ### Bài 5 trang 84 - Listen and repeat sentences
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_9546697f.mp3">
 Các em nghe và thực hành theo nhé.
 </teacher_script>
 
@@ -165,13 +165,13 @@ Các em nghe và thực hành theo nhé.
 5. Tom **sp**ent half of his savings in that music **st**ore.
 </reading>
 
-<teacher_script pause="0" action="record">
+<teacher_script pause="0" action="record" href="audio/tts_508f13d8.mp3">
 Các em hãy ghi âm phần luyện tập của mình và gửi cho thầy nhé.
 </teacher_script>
 
 ---
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_ba688992.mp3">
 Bài học hôm nay kết thúc tại đây. Các em nhớ ôn bài và chuẩn bị cho bài học tiếp theo. Tạm biệt các em.
 </teacher_script>

@@ -3,11 +3,11 @@
 ## GETTING STARTED - The Natural Wonders Contest
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_fd00461e.mp3">
 Chào các em. Chào mừng các em đến với bài học hôm nay. Mời các em mở sách giáo khoa.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_c0841176.mp3">
 Chúng ta cùng học từ vựng mới. Các em hãy nghe và lặp lại theo mẫu nhé.
 </teacher_script>
 
@@ -51,7 +51,7 @@ Chúng ta cùng học từ vựng mới. Các em hãy nghe và lặp lại theo 
 </vocabulary>
 
 
-<teacher_script pause="0" action="record">
+<teacher_script pause="0" action="record" href="audio/tts_508f13d8.mp3">
 Các em hãy ghi âm phần luyện tập của mình và gửi cho thầy nhé.
 </teacher_script>
 
@@ -59,7 +59,7 @@ Các em hãy ghi âm phần luyện tập của mình và gửi cho thầy nhé.
 
 ### Bài 1 trang 72 - Listen and read
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_c08c1d7b.mp3">
 Bây giờ các em sẽ nghe một đoạn băng. Hãy chú ý lắng nghe để tìm thông tin trả lời câu hỏi.
 </teacher_script>
 
@@ -105,15 +105,15 @@ Bây giờ các em sẽ nghe một đoạn băng. Hãy chú ý lắng nghe để
 **Lan:** Tôi cũng muốn đến thăm chúng.
 </translation>
 
-<teacher_script pause="240">
+<teacher_script pause="240" href="audio/tts_d5b1d729.mp3">
 Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
-<teacher_script pause="0" action="record">
+<teacher_script pause="0" action="record" href="audio/tts_508f13d8.mp3">
 Các em hãy ghi âm phần luyện tập của mình và gửi cho thầy nhé.
 </teacher_script>
 
@@ -121,7 +121,7 @@ Các em hãy ghi âm phần luyện tập của mình và gửi cho thầy nhé.
 
 ### Bài 2 trang 73 - True or False
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_d5b1d729.mp3">
 Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
@@ -153,7 +153,7 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 *Tom hỏi người dẫn chương trình xem anh ấy có muốn đi Vịnh Hạ Long không.*
 </questions>
 
-<teacher_script pause="0" type="answer">
+<teacher_script pause="0" type="answer" href="audio/tts_d5fd6a66.mp3">
 Đã hết thời gian. Sau đây là đáp án gợi ý. Các em hãy so sánh với bài làm của mình nhé.
 </teacher_script>
 
@@ -189,7 +189,7 @@ Câu 4 là <eng>False</eng>. Cẩn thận câu này. <eng>The host asked me if I
 
 ### Bài 3 trang 73 - Fill in the blanks
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_d5b1d729.mp3">
 Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
@@ -211,7 +211,7 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 **5.** The goals of sustainable _______ will guide us to create a more sustainable future for everyone.
 </questions>
 
-<teacher_script pause="0" type="answer">
+<teacher_script pause="0" type="answer" href="audio/tts_d5fd6a66.mp3">
 Đã hết thời gian. Sau đây là đáp án gợi ý. Các em hãy so sánh với bài làm của mình nhé.
 </teacher_script>
 
@@ -252,7 +252,7 @@ Câu 5 là <eng>development</eng>. <eng>Sustainable development</eng> = phát tr
 
 ### Bài 4 trang 73 - Complete the sentences
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_d5b1d729.mp3">
 Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
@@ -276,7 +276,7 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 **5.** Tourism _______ millions of dollars to our country's economy.
 </questions>
 
-<teacher_script pause="0" type="answer">
+<teacher_script pause="0" type="answer" href="audio/tts_d5fd6a66.mp3">
 Đã hết thời gian. Sau đây là đáp án gợi ý. Các em hãy so sánh với bài làm của mình nhé.
 </teacher_script>
 
@@ -315,6 +315,6 @@ Câu 5: <eng>contributes</eng>. <eng>Tourism</eng> là danh từ số ít, nên 
 
 ---
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_ba688992.mp3">
 Bài học hôm nay kết thúc tại đây. Các em nhớ ôn bài và chuẩn bị cho bài học tiếp theo. Tạm biệt các em.
 </teacher_script>

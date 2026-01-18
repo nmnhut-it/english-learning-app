@@ -291,7 +291,7 @@ Ok xong bài câu bị động hiện tại đơn rồi nha! Nhớ công thức:
 ---
 
 <!-- chunk: exercise_practice -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_a55b37e3.mp3">
 Giờ làm bài tập thực hành nha! Bấm nút bên dưới để bắt đầu làm bài.
 </teacher_script>
 

@@ -415,9 +415,51 @@
     .exercise-check-btn:disabled{background:#cbd5e1;cursor:not-allowed;transform:none}
     .answer-correct{border-color:#10b981;background:#d1fae5}
     .answer-wrong{border-color:#ef4444;background:#fee2e2}
+
+    /* Camera gate - Ocean theme */
+    #gate{position:fixed;inset:0;background:linear-gradient(135deg,#0c4a6e,#0369a1,#0ea5e9);display:flex;flex-direction:column;align-items:center;justify-content:center;z-index:1000;padding:20px}
+    #gate.hidden{display:none}
+    #gate h1{color:#fff;margin-bottom:8px;font-size:1.5rem}
+    #gate p{color:rgba(255,255,255,.9);margin-bottom:16px;text-align:center}
+    #gate video,#gate img{width:100%;max-width:240px;aspect-ratio:4/3;object-fit:cover;border-radius:14px;background:#000;border:3px solid rgba(255,255,255,.3)}
+    .gate-input{width:100%;max-width:240px;padding:14px;border:2px solid rgba(255,255,255,.4);border-radius:12px;background:rgba(255,255,255,.15);color:#fff;font-size:1rem;margin:12px 0;text-align:center}
+    .gate-input::placeholder{color:rgba(255,255,255,.7)}
+    .gate-btn{background:#fff;color:#0369a1;border:none;padding:14px 28px;border-radius:50px;font-size:1rem;font-weight:600;cursor:pointer;margin:4px;box-shadow:0 4px 12px rgba(0,0,0,.15);transition:transform .2s}
+    .gate-btn:hover{transform:scale(1.05)}
+    .gate-btn.secondary{background:transparent;color:#fff;border:2px solid rgba(255,255,255,.5);box-shadow:none}
+
+    /* Sending indicator */
+    .sending{position:fixed;top:50%;left:50%;transform:translate(-50%,-50%);background:linear-gradient(135deg,#0c4a6e,#075985);color:#fff;padding:18px 32px;border-radius:16px;z-index:1001;display:none;box-shadow:0 8px 24px rgba(0,0,0,.3)}
+    .sending.active{display:flex;align-items:center;gap:12px}
+    .spinner{width:22px;height:22px;border:3px solid rgba(255,255,255,.3);border-top-color:#fff;border-radius:50%;animation:spin .8s linear infinite}
+    @keyframes spin{to{transform:rotate(360deg)}}
+
+    /* Action buttons (record, photo) */
+    .action-row{margin:12px 0}
+    .action-btn{display:inline-flex;align-items:center;gap:8px;background:#fff;border:2px solid #0ea5e9;color:#0284c7;padding:12px 20px;border-radius:25px;font-size:1rem;font-weight:600;cursor:pointer;transition:all .2s;box-shadow:0 2px 8px rgba(14,165,233,.15)}
+    .action-btn:hover{background:#e0f2fe;transform:scale(1.02)}
+    .action-btn svg{flex-shrink:0}
+    .action-btn.recording{border-color:#ef4444;background:linear-gradient(135deg,#fef2f2,#fee2e2);animation:recordPulse 1s infinite;color:#dc2626}
+    @keyframes recordPulse{50%{opacity:.7}}
+    .audio-box{margin-top:12px}
+    .audio-box audio{width:100%;max-width:300px;border-radius:8px}
   </style>
 </head>
 <body>
+  <!-- Attendance Gate -->
+  <div id="gate">
+    <h1>Điểm danh</h1>
+    <p>Nhập tên và chụp ảnh để bắt đầu</p>
+    <input type="text" id="student-name" class="gate-input" placeholder="Tên của bạn...">
+    <video id="cam-video" autoplay playsinline muted></video>
+    <div style="margin-top:12px">
+      <button class="gate-btn" id="capture-btn" disabled>Chụp ảnh</button>
+      <button class="gate-btn secondary" id="skip-btn">Bỏ qua</button>
+    </div>
+  </div>
+  <div class="sending" id="sending"><div class="spinner"></div> Đang gửi...</div>
+  <canvas id="canvas" style="display:none"></canvas>
+
   <!-- Test Mode Banner -->
   <div class="test-banner hidden" id="test-banner" data-testid="test-banner">
     🧪 TEST MODE - Timers: <span id="time-scale">1</span>x | <button onclick="window.__voiceLecture.setTimerScale(1000)">Instant</button>
@@ -478,6 +520,9 @@ const CONFIG = {
   instantTimers: params.get('speed') === 'instant',
   contentUrl: null,
   contentBasePath: null, // Base path for resolving relative audio URLs
+  tgToken: params.get('token') || params.get('tg_token'),
+  tgChat: params.get('chat') || params.get('tg_chat'),
+  skip: params.get('skip') === '1',
 };
 
 // Decode content URL and extract base path for audio resolution
@@ -973,7 +1018,14 @@ function renderContent(md, chunkIndex) {
         </div>`;
     }
     if (ts.action === 'record') {
-      timersHtml += `<div class="action-row" data-testid="action-record-${ts.id}"><button class="action-btn">🎤 Ghi âm</button></div>`;
+      timersHtml += `<div class="action-row" data-testid="action-record-${ts.id}">
+        <button class="action-btn" id="${ts.id}-rec" onclick="window.toggleRec('${ts.id}')">
+          <svg viewBox="0 0 24 24" fill="currentColor" width="22" height="22">
+            <path d="M12 14c1.66 0 3-1.34 3-3V5c0-1.66-1.34-3-3-3S9 3.34 9 5v6c0 1.66 1.34 3 3 3zm5-3c0 2.76-2.24 5-5 5s-5-2.24-5-5H5c0 3.53 2.61 6.43 6 6.92V21h2v-3.08c3.39-.49 6-3.39 6-6.92h-2z"/>
+          </svg>
+          <span>Ghi âm</span>
+        </button>
+      </div><div id="${ts.id}-player"></div>`;
     }
   });
 
@@ -1929,6 +1981,172 @@ window.__voiceLecture = {
   handleSkipKey,
 };
 
+// ============ TELEGRAM INTEGRATION ============
+// State for attendance
+const telegramState = { name: '', photo: null };
+
+// Initialize camera for attendance gate
+async function initCamera() {
+  const video = document.getElementById('cam-video');
+  const capBtn = document.getElementById('capture-btn');
+  const skipBtn = document.getElementById('skip-btn');
+
+  skipBtn.onclick = () => {
+    telegramState.name = document.getElementById('student-name').value || 'Học sinh';
+    document.getElementById('gate').classList.add('hidden');
+    load();
+  };
+
+  try {
+    const stream = await navigator.mediaDevices.getUserMedia({ video: { facingMode: 'user', width: { ideal: 480 } }, audio: false });
+    video.srcObject = stream;
+    capBtn.disabled = false;
+    capBtn.onclick = () => {
+      telegramState.name = document.getElementById('student-name').value || 'Học sinh';
+      const canvas = document.getElementById('canvas');
+      canvas.width = video.videoWidth;
+      canvas.height = video.videoHeight;
+      canvas.getContext('2d').drawImage(video, 0, 0);
+      telegramState.photo = canvas.toDataURL('image/jpeg', 0.8);
+      video.style.display = 'none';
+      const img = document.createElement('img');
+      img.src = telegramState.photo;
+      video.parentNode.insertBefore(img, video);
+      capBtn.textContent = 'Vào học';
+      capBtn.onclick = async () => {
+        stream.getTracks().forEach(t => t.stop());
+        await sendPhoto(telegramState.photo, `Điểm danh\n${telegramState.name}\n${new Date().toLocaleString('vi-VN')}`);
+        document.getElementById('gate').classList.add('hidden');
+        load();
+      };
+    };
+  } catch (e) {
+    capBtn.style.display = 'none';
+  }
+}
+
+// Send photo to Telegram
+async function sendPhoto(data, caption) {
+  if (!CONFIG.tgToken || !CONFIG.tgChat) return;
+  document.getElementById('sending').classList.add('active');
+  try {
+    const blob = await (await fetch(data)).blob();
+    const fd = new FormData();
+    fd.append('chat_id', CONFIG.tgChat);
+    fd.append('photo', blob, 'photo.jpg');
+    fd.append('caption', caption);
+    await fetch(`https://api.telegram.org/bot${CONFIG.tgToken}/sendPhoto`, { method: 'POST', body: fd });
+  } catch (e) { /* silent fail */ }
+  document.getElementById('sending').classList.remove('active');
+}
+
+// Send audio to Telegram
+async function sendAudio(blob, caption) {
+  if (!CONFIG.tgToken || !CONFIG.tgChat) return;
+  document.getElementById('sending').classList.add('active');
+  try {
+    const fd = new FormData();
+    fd.append('chat_id', CONFIG.tgChat);
+    fd.append('voice', blob, 'voice.ogg');
+    fd.append('caption', caption);
+    await fetch(`https://api.telegram.org/bot${CONFIG.tgToken}/sendVoice`, { method: 'POST', body: fd });
+  } catch (e) { /* silent fail */ }
+  document.getElementById('sending').classList.remove('active');
+}
+
+// Capture homework photo
+async function captureHW(id) {
+  const div = document.getElementById(`${id}-photo`);
+  try {
+    const stream = await navigator.mediaDevices.getUserMedia({ video: { facingMode: 'environment' } });
+    const modal = document.createElement('div');
+    modal.style.cssText = 'position:fixed;inset:0;background:rgba(0,0,0,.95);z-index:1000;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:16px';
+    modal.innerHTML = `<video autoplay playsinline style="max-width:100%;max-height:70vh;border-radius:10px"></video><div style="margin-top:12px"><button class="gate-btn" id="hw-cap">Chụp</button><button class="gate-btn secondary" onclick="this.closest('div').parentElement.remove()">Hủy</button></div>`;
+    document.body.appendChild(modal);
+    modal.querySelector('video').srcObject = stream;
+    modal.querySelector('#hw-cap').onclick = async () => {
+      const v = modal.querySelector('video');
+      const c = document.createElement('canvas');
+      c.width = v.videoWidth;
+      c.height = v.videoHeight;
+      c.getContext('2d').drawImage(v, 0, 0);
+      const url = c.toDataURL('image/jpeg', 0.85);
+      stream.getTracks().forEach(t => t.stop());
+      modal.remove();
+      div.innerHTML = `<img src="${url}" style="max-width:100%;border-radius:8px;margin-top:8px">`;
+      await sendPhoto(url, `Bài làm\n${telegramState.name}\n${new Date().toLocaleString('vi-VN')}`);
+    };
+  } catch (e) {
+    alert('Không thể mở camera: ' + e.message);
+  }
+}
+
+// Expose functions to window
+window.captureHW = captureHW;
+window.sendPhoto = sendPhoto;
+window.sendAudio = sendAudio;
+
+// ============ VOICE RECORDING ============
+let recorder = null;
+let recordChunks = [];
+
+// Extract lesson info from content URL for caption
+function getLessonInfo() {
+  const url = CONFIG.contentUrl || '';
+  // Match pattern: g{grade}/unit-{unit}/{section}.md
+  const match = url.match(/g(\d+)\/unit-(\d+)\/([^\/]+)\.md/);
+  if (match) {
+    return `Lớp ${match[1]} - Unit ${parseInt(match[2])} - ${match[3]}`;
+  }
+  // Check for grammar topic
+  const grammarMatch = url.match(/grammar\/([^\/]+)\.md/);
+  if (grammarMatch) {
+    return `Ngữ pháp - ${grammarMatch[1]}`;
+  }
+  return 'Bài học';
+}
+
+// Toggle recording on/off
+async function toggleRec(id) {
+  const btn = document.getElementById(`${id}-rec`);
+  const player = document.getElementById(`${id}-player`);
+  if (!btn) return;
+
+  // Stop if already recording
+  if (recorder && recorder.state === 'recording') {
+    recorder.stop();
+    btn.classList.remove('recording');
+    btn.querySelector('span').textContent = 'Ghi âm';
+    return;
+  }
+
+  try {
+    const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
+    recorder = new MediaRecorder(stream);
+    recordChunks = [];
+
+    recorder.ondataavailable = e => recordChunks.push(e.data);
+
+    recorder.onstop = async () => {
+      const blob = new Blob(recordChunks, { type: 'audio/webm' });
+      player.innerHTML = `<div class="audio-box"><audio controls src="${URL.createObjectURL(blob)}"></audio></div>`;
+      // Build caption with lesson info and student name
+      const lessonInfo = getLessonInfo();
+      const caption = `Ghi âm\n${lessonInfo}\n${telegramState.name}\n${new Date().toLocaleString('vi-VN')}`;
+      await sendAudio(blob, caption);
+      stream.getTracks().forEach(t => t.stop());
+    };
+
+    recorder.start();
+    btn.classList.add('recording');
+    btn.querySelector('span').textContent = 'Dừng';
+  } catch (e) {
+    alert('Không thể ghi âm: ' + e.message);
+  }
+}
+
+window.toggleRec = toggleRec;
+
 // ============ KEYBOARD NAVIGATION ============
 function setupKeyboardNav() {
   document.addEventListener('keydown', (e) => {
@@ -1960,7 +2178,13 @@ function handleSkipKey() {
 // Start
 document.addEventListener('DOMContentLoaded', () => {
   setupKeyboardNav();
-  load();
+  // Skip gate if: skip flag, no Telegram config, or test mode
+  if (CONFIG.skip || !CONFIG.tgToken || !CONFIG.tgChat || CONFIG.testMode) {
+    document.getElementById('gate').classList.add('hidden');
+    load();
+  } else {
+    initCamera();
+  }
 });
 </script>
 </body>

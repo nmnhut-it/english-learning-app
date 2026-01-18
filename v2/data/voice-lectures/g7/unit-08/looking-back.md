@@ -57,7 +57,7 @@ e. A film that features cartoon characters.
 5. **documentary** - a (useful info, animals... - thông tin hữu ích)
 </explanation>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -115,7 +115,7 @@ A. confusing | B. shocking | C. interesting
 6. **confusing** (khó hiểu) -> bị lạc (got lost).
 </explanation>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -178,7 +178,7 @@ Lưu ý: <eng>However</eng> thường đứng đầu câu thứ hai, còn <eng>A
 Các em lưu ý câu 4: Trong một số sách giáo khoa mới, nội dung câu B có thể là "However, the number of people going to cinemas is increasing". Các em hãy chọn đáp án phù hợp với sách của mình nhé.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 

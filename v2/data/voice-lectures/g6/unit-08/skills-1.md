@@ -170,7 +170,7 @@ Chúng ta cùng làm Bài 3 <eng>Answer the questions</eng>. Các em hãy đọc
 1.281 bàn thắng là một kỷ lục vô cùng ấn tượng. Tính trung bình, mỗi năm ông ghi hơn 50 bàn thắng. Chính vì vậy, ông được mệnh danh là "Vua bóng đá".
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 

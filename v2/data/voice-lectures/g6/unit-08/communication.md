@@ -169,7 +169,7 @@ Sau đây là đáp án. Đây là những kiến thức chung rất thú vị v
 Câu 5 là một kiến thức lịch sử quan trọng. Thế vận hội Olympic đầu tiên được tổ chức tại <eng>Olympia</eng>, Hy Lạp cổ đại vào năm 776 trước Công nguyên. Tên gọi <eng>Olympic</eng> cũng xuất phát từ địa danh <eng>Olympia</eng>.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 

@@ -3,7 +3,7 @@
 ## SKILLS 1 - Reading & Speaking
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_fd00461e.mp3">
 Chào các em. Chào mừng các em đến với bài học hôm nay. Mời các em mở sách giáo khoa.
 </teacher_script>
 
@@ -28,7 +28,7 @@ Chào các em. Chào mừng các em đến với bài học hôm nay. Mời các
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 78 - Reading Comprehension
 
-<teacher_script pause="120">
+<teacher_script pause="120" href="audio/tts_d5b1d729.mp3">
 Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
@@ -64,7 +64,7 @@ A. environment | B. small islands
 4. **environment**: bảo vệ môi trường.
 </explanation>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -73,7 +73,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 <!-- chunk: exercise_3 -->
 ### Bài 3 trang 78 - Choose Correct Choice
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_d5b1d729.mp3">
 Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
@@ -108,7 +108,7 @@ B. Con Dao National Park's mission is to help other national parks.
 5. **B**: Bài không nói nhiệm vụ là giúp các vườn khác.
 </explanation>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -117,7 +117,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 <!-- chunk: speaking -->
 ### Bài 4 & 5 trang 78 - Speaking about Vu Quang National Park
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_6273c698.mp3">
 Bây giờ là phần thực hành nói. Các em hãy luyện tập theo cặp hoặc theo nhóm nhé.
 </teacher_script>
 
@@ -142,13 +142,13 @@ Bây giờ là phần thực hành nói. Các em hãy luyện tập theo cặp h
 **B:** Saolas and "black deer".
 </dialogue>
 
-<teacher_script pause="0" action="record">
+<teacher_script pause="0" action="record" href="audio/tts_508f13d8.mp3">
 Các em hãy ghi âm phần luyện tập của mình và gửi cho thầy nhé.
 </teacher_script>
 
 ---
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_ba688992.mp3">
 Bài học hôm nay kết thúc tại đây. Các em nhớ ôn bài và chuẩn bị cho bài học tiếp theo. Tạm biệt các em.
 </teacher_script>

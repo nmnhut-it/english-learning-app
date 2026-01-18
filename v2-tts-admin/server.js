@@ -8,10 +8,15 @@ require('dotenv').config();
 const express = require('express');
 const cors = require('cors');
 const path = require('path');
+const multer = require('multer');
+const fs = require('fs').promises;
 
 const markdownService = require('./services/markdownService');
 const elevenLabsService = require('./services/elevenLabsService');
 const audioService = require('./services/audioService');
+
+// Configure multer for file uploads
+const upload = multer({ storage: multer.memoryStorage() });
 
 const app = express();
 const PORT = process.env.PORT || 5003;
@@ -230,6 +235,47 @@ app.post('/api/update-script', async (req, res) => {
     });
 
   } catch (error) {
+    res.status(500).json({ success: false, error: error.message });
+  }
+});
+
+/**
+ * POST /api/upload-recording - Upload recorded audio from browser
+ * Body: multipart form with audio blob, filePath, scriptIndex, hash
+ */
+app.post('/api/upload-recording', upload.single('audio'), async (req, res) => {
+  try {
+    const { filePath, scriptIndex, hash } = req.body;
+    const audioBuffer = req.file?.buffer;
+
+    if (!audioBuffer || !filePath || scriptIndex === undefined || !hash) {
+      return res.status(400).json({
+        success: false,
+        error: 'Missing required fields: audio, filePath, scriptIndex, hash'
+      });
+    }
+
+    // Generate filename based on hash (webm extension for recordings)
+    const filename = `tts_${hash}.webm`;
+    const audioDir = path.join(__dirname, '../v2/audio');
+    const finalPath = path.join(audioDir, filename);
+
+    // Save webm file directly
+    await fs.writeFile(finalPath, audioBuffer);
+
+    // Update markdown file with href
+    const relativePath = `audio/${filename}`;
+    await markdownService.updateScriptHref(filePath, parseInt(scriptIndex), relativePath);
+
+    res.json({
+      success: true,
+      filename,
+      href: relativePath,
+      message: 'Recording saved'
+    });
+
+  } catch (error) {
+    console.error('Upload recording error:', error);
     res.status(500).json({ success: false, error: error.message });
   }
 });

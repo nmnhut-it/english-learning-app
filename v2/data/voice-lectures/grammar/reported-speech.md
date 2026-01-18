@@ -276,6 +276,6 @@ Giờ làm bài tập thực hành nha! Bấm nút bên dưới để bắt đ�
 **Bài tập thực hành:** Câu tường thuật (Reported Speech)
 </exercise>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_48cb533b.mp3">
 Làm xong bài tập thì kiểm tra kết quả nha. Nhớ xem lại những câu sai để hiểu tại sao.
 </teacher_script>

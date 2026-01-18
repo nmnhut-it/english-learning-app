@@ -3,7 +3,7 @@
 ## A CLOSER LOOK 2 - Grammar
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_fd00461e.mp3">
 Chào các em. Chào mừng các em đến với bài học hôm nay. Mời các em mở sách giáo khoa.
 </teacher_script>
 
@@ -32,7 +32,7 @@ Dùng để diễn tả mức độ thường xuyên của hành động.
 <!-- chunk: exercise_1 -->
 ### Bài 1 trang 85 - Complete sentences
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_d5b1d729.mp3">
 Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
@@ -50,7 +50,7 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 **Đáp án:** 1. always | 2. rarely | 3. never | 4. often | 5. sometimes
 </answer>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -71,7 +71,7 @@ Dùng để nói về lịch trình, thời khóa biểu đã định sẵn (tà
 <!-- chunk: exercise_3 -->
 ### Bài 3 trang 85 - Schedule vs Unplanned
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_d5b1d729.mp3">
 Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
@@ -93,7 +93,7 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 - **B (Không kế hoạch/Quyết định tức thời):** Câu 1 (sẽ đi trả đồ), Câu 5 (bận nên sẽ đi sau).
 </explanation>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -102,7 +102,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 <!-- chunk: exercise_4 -->
 ### Bài 4 trang 86 - Choose correct option
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_d5b1d729.mp3">
 Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
@@ -136,7 +136,7 @@ Lưu ý: Lịch trình chung dùng hiện tại đơn. Quyết định cá nhân
 <!-- chunk: exercise_5 -->
 ### Bài 5 trang 86 - Community Fair Schedule
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_6273c698.mp3">
 Bây giờ là phần thực hành nói. Các em hãy luyện tập theo cặp hoặc theo nhóm nhé.
 </teacher_script>
 
@@ -156,13 +156,13 @@ Bây giờ là phần thực hành nói. Các em hãy luyện tập theo cặp h
 **B:** It opens at 8:30 on April 1st.
 </dialogue>
 
-<teacher_script pause="0" action="record">
+<teacher_script pause="0" action="record" href="audio/tts_508f13d8.mp3">
 Các em hãy ghi âm phần luyện tập của mình và gửi cho thầy nhé.
 </teacher_script>
 
 ---
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_ba688992.mp3">
 Bài học hôm nay kết thúc tại đây. Các em nhớ ôn bài và chuẩn bị cho bài học tiếp theo. Tạm biệt các em.
 </teacher_script>

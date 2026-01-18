@@ -3,7 +3,7 @@
 ## SKILLS 1 - Reading & Speaking
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_7e18d301.mp3">
 Chào các em. Mời các em mở sách trang 38. Bài <eng>Skills 1</eng> hôm nay chúng ta sẽ đọc về "World Englishes" - Các biến thể của tiếng Anh trên thế giới.
 </teacher_script>
 
@@ -26,7 +26,7 @@ Chào các em. Mời các em mở sách trang 38. Bài <eng>Skills 1</eng> hôm 
 <!-- chunk: reading_text -->
 ### Reading: The Three Circles of English
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_68b04db3.mp3">
 Các em hãy đọc bài văn về mô hình 3 vòng tròn tiếng Anh của Kachru.
 </teacher_script>
 
@@ -47,7 +47,7 @@ The last circle is the **Expanding Circle**. People in this circle speak English
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 38 - Complete the table
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_fa69465e.mp3">
 Bài 2. Dựa vào bài đọc, điền thông tin vào bảng. 1 phút.
 </teacher_script>
 
@@ -70,7 +70,7 @@ Bài 2. Dựa vào bài đọc, điền thông tin vào bảng. 1 phút.
 <!-- chunk: speaking -->
 ### Bài 4 trang 38 - Discussion
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_8b729de7.mp3">
 Chúng ta chuyển sang phần Nói.
 </teacher_script>
 
@@ -78,7 +78,7 @@ Chúng ta chuyển sang phần Nói.
 **Topic:** Discuss the roles of English in the Expanding Circle.
 </task>
 
-<teacher_script pause="0" action="record">
+<teacher_script pause="0" action="record" href="audio/tts_56ad4396.mp3">
 Em hãy trả lời câu hỏi: "How do people in Viet Nam use English?" (Mọi người ở Việt Nam dùng tiếng Anh làm gì?)
 (Gợi ý: for business, education, tourism...)
 </teacher_script>
@@ -86,6 +86,6 @@ Em hãy trả lời câu hỏi: "How do people in Viet Nam use English?" (Mọi 
 ---
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_2c9f6df9.mp3">
 Bài học kết thúc. Các em nhớ bài đọc về 3 vòng tròn tiếng Anh nhé.
 </teacher_script>

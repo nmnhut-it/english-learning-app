@@ -70,7 +70,7 @@ e. to allow something
 5. **urgent** = needing immediate attention (khẩn cấp)
 </explanation>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -110,7 +110,7 @@ Chúng ta cùng làm Bài 2 <eng>Complete the sentences</eng>. Các em hãy đi�
 5. **access**: tiếp cận/đi vào.
 </explanation>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 

@@ -90,7 +90,7 @@ Chúng ta cùng làm Bài 1 <eng>Put words in groups</eng>. Các em hãy phân l
 ---
 
 <!-- chunk: answer_1 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_aca3c861.mp3">
 Đã hết thời gian. Sau đây là đáp án gợi ý. Các em hãy đối chiếu với bài làm của mình nhé.
 </teacher_script>
 
@@ -107,7 +107,7 @@ Chúng ta cùng làm Bài 1 <eng>Put words in groups</eng>. Các em hãy phân l
 Thầy giải thích nhé. <eng>Programmes</eng> là các chương trình: <eng>English in a Minute, animated films, sports, wildlife</eng>.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_dbdc714c.mp3">
 <eng>Adjectives</eng> là tính từ mô tả: <eng>educational, interesting, funny, popular</eng>.
 </teacher_script>
 
@@ -115,7 +115,7 @@ Thầy giải thích nhé. <eng>Programmes</eng> là các chương trình: <eng>
 Mẹo phân biệt: Tính từ thường kết thúc bằng -ing, -ful, -al, -ar. Các em nhớ kỹ nhé.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -154,7 +154,7 @@ VTV1 is a popular TV channel in Viet Nam. It attracts many **(1)** _______ becau
 ---
 
 <!-- chunk: answer_2 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_aca3c861.mp3">
 Đã hết thời gian. Sau đây là đáp án gợi ý. Các em hãy đối chiếu với bài làm của mình nhé.
 </teacher_script>
 
@@ -162,7 +162,7 @@ VTV1 is a popular TV channel in Viet Nam. It attracts many **(1)** _______ becau
 **Đáp án:** 1. viewers | 2. animal | 3. sports | 4. funny | 5. educational
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_e70b2510.mp3">
 Thầy sẽ giải thích từng câu.
 </teacher_script>
 
@@ -186,7 +186,7 @@ Câu 4: <eng>FUNNY</eng> - hài hước. <eng>Comedies make people laugh because
 Câu 5: <eng>EDUCATIONAL</eng> - có tính giáo dục. <eng>Game shows are both fun and educational</eng>. Game shows vừa vui vừa có tính giáo dục. Học mà chơi, chơi mà học.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -221,11 +221,11 @@ Chúng ta cùng ôn lại ngữ pháp <eng>Wh-questions</eng> và <eng>Conjuncti
 | **so** | vì vậy | Nối nguyên nhân → kết quả |
 </grammar>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_0712d26b.mp3">
 <eng>Wh-questions</eng> là câu hỏi bắt đầu bằng Wh: <eng>What, Where, When, Who, Why, How often, How many</eng>.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_753ba8ee.mp3">
 <eng>Conjunctions</eng> là liên từ: <eng>and, but, so</eng>. Mẹo nhớ: <eng>AND</eng> là cộng, <eng>BUT</eng> là đối, <eng>SO</eng> là kết quả.
 </teacher_script>
 
@@ -283,7 +283,7 @@ Chúng ta cùng làm Bài 3 <eng>Complete each question with a suitable question
 ---
 
 <!-- chunk: answer_3 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_aca3c861.mp3">
 Đã hết thời gian. Sau đây là đáp án gợi ý. Các em hãy đối chiếu với bài làm của mình nhé.
 </teacher_script>
 
@@ -291,7 +291,7 @@ Chúng ta cùng làm Bài 3 <eng>Complete each question with a suitable question
 **Đáp án:** 1. How many | 2. What | 3. Why | 4. Who | 5. How many
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_e70b2510.mp3">
 Thầy sẽ giải thích từng câu.
 </teacher_script>
 
@@ -315,7 +315,7 @@ Câu 4: <eng>WHO</eng> - Hỏi "ai". <eng>Who is your favourite person on TV?</e
 Câu 5: <eng>HOW MANY</eng> - Hỏi "bao nhiêu giờ". <eng>How many hours a day do you watch TV?</eng> Trả lời "half an hour".
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -363,7 +363,7 @@ Chúng ta cùng làm Bài 4 <eng>Complete with conjunctions</eng>. Các em hãy 
 ---
 
 <!-- chunk: answer_4 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_aca3c861.mp3">
 Đã hết thời gian. Sau đây là đáp án gợi ý. Các em hãy đối chiếu với bài làm của mình nhé.
 </teacher_script>
 
@@ -371,7 +371,7 @@ Chúng ta cùng làm Bài 4 <eng>Complete with conjunctions</eng>. Các em hãy 
 **Đáp án:** 1. and | 2. so | 3. but | 4. but | 5. so
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_e70b2510.mp3">
 Thầy sẽ giải thích từng câu.
 </teacher_script>
 
@@ -395,7 +395,7 @@ Câu 4: <eng>BUT</eng> - Famous đối lập don't like. <eng>Along the Coast is
 Câu 5: <eng>SO</eng> - Có bài tập nên không xem được. <eng>I have a lot of homework tonight, so I can't watch Eight Feet Below</eng>. Nguyên nhân dẫn đến kết quả.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -422,15 +422,15 @@ Chúng ta cùng tóm tắt lại kiến thức Unit 7.
 - /ð/ (this, that, weather) - hữu thanh
 </grammar>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_8142c469.mp3">
 Từ vựng: Các loại chương trình TV và tính từ mô tả.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_40b33a66.mp3">
 Ngữ pháp: <eng>Wh-questions</eng> và <eng>Conjunctions</eng>.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_f6d49fd3.mp3">
 Phát âm: Hai âm <eng>th</eng> - một âm vô thanh, một âm hữu thanh.
 </teacher_script>
 

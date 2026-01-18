@@ -69,7 +69,7 @@ e. very surprising and difficult to believe
 5. **shocking** = e. very surprising (rất ngạc nhiên, gây sốc)
 </explanation>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -117,7 +117,7 @@ Chúng ta cùng làm Bài 2 <eng>Complete sentences</eng>. Các em hãy điền 
 5. **confusing**: didn't really understand (không hiểu) -> khó hiểu.
 </explanation>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 

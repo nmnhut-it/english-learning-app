@@ -67,7 +67,7 @@ Chúng ta cùng làm Bài 1 <eng>Find one odd word</eng>. Các em hãy tìm mộ
 Mẹo làm bài này là các em hãy tìm điểm chung của 2 từ, từ còn lại khác biệt sẽ là đáp án.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -140,7 +140,7 @@ Chúng ta cùng làm Bài 2 <eng>Put the correct form of the verbs</eng>. Các e
 Các em lưu ý câu 4 rất dễ nhầm lẫn: Đi câu cá là <eng>go fishing</eng>, quá khứ là <eng>went fishing</eng>, không phải "played fishing" hay "did fishing" đâu nhé.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -204,7 +204,7 @@ Chúng ta cùng làm Bài 3 <eng>Put the verbs in brackets in the correct form</
 Thế vận hội Olympic mùa hè đầu tiên <eng>took place</eng> diễn ra vào năm 776 trước Công nguyên tại Hy Lạp cổ đại. Các em nhớ sự kiện này nhé.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -280,7 +280,7 @@ Chúng ta cùng làm Bài 4 <eng>What do you say in these situations?</eng> Các
 **Nhớ:** Câu mệnh lệnh bắt đầu bằng động từ nguyên mẫu. Cấm = **Don't** + V
 </explanation>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -331,7 +331,7 @@ Sports and games are very important in our lives. We all can (1) _______ a sport
 Thể thao và trò chơi rất quan trọng trong cuộc sống của chúng ta. Tất cả chúng ta có thể **chơi** một môn thể thao, hoặc một trò chơi, hoặc xem các sự kiện thể thao trên TV hoặc tại sân vận động. Khi bạn nghe đài hàng ngày, bạn luôn có thể **nghe** tin tức thể thao. Khi bạn mở một tờ báo, bạn sẽ luôn tìm thấy một bài báo về loại trò chơi **yêu thích** của bạn. Các chương trình truyền hình về **thể thao** cũng rất phổ biến và bạn có thể xem nội dung thú vị mỗi ngày. Những câu chuyện về các ngôi sao thể thao **nổi tiếng** thường rất thú vị.
 </translation>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 

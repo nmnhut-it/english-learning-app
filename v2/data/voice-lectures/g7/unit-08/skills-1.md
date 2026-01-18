@@ -67,7 +67,7 @@ d. a man who has magical powers
 4. **gripping** = c (lôi cuốn -> exciting or interesting)
 </explanation>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 

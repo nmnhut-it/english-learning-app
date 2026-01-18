@@ -3,7 +3,7 @@
 ## A CLOSER LOOK 2 - Grammar
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_fd00461e.mp3">
 Chào các em. Chào mừng các em đến với bài học hôm nay. Mời các em mở sách giáo khoa.
 </teacher_script>
 
@@ -20,7 +20,7 @@ Chào các em. Chào mừng các em đến với bài học hôm nay. Mời các
    - Example: The man **whose** book you are reading is my friend.
 </grammar>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_509a0695.mp3">
 Các em nhớ: **who** cho người, **which** cho vật, và **whose** biểu thị sở hữu.
 </teacher_script>
 
@@ -29,7 +29,7 @@ Các em nhớ: **who** cho người, **which** cho vật, và **whose** biểu t
 <!-- chunk: exercise_1 -->
 ### Bài 1 trang 23 - Identify noun referred to
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_d5b1d729.mp3">
 Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
@@ -55,7 +55,7 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 23 - Choose correct relative pronoun
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_d5b1d729.mp3">
 Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
@@ -76,7 +76,7 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 5. who (tourists - people)
 </answer>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -85,7 +85,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 <!-- chunk: exercise_3 -->
 ### Bài 3 trang 24 - Who or Whose
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_d5b1d729.mp3">
 Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
@@ -111,7 +111,7 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 <!-- chunk: exercise_4 -->
 ### Bài 4 trang 24 - Match clauses
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_d5b1d729.mp3">
 Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
@@ -145,7 +145,7 @@ e. who is arranging accommodation.
 <!-- chunk: exercise_5 -->
 ### Bài 5 trang 24 - Finish sentences
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_6273c698.mp3">
 Bây giờ là phần thực hành nói. Các em hãy luyện tập theo cặp hoặc theo nhóm nhé.
 </teacher_script>
 
@@ -156,6 +156,6 @@ Bây giờ là phần thực hành nói. Các em hãy luyện tập theo cặp h
 **3.** We met two Germans **whose hobby is hiking**.
 </dialogue>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_ba688992.mp3">
 Bài học hôm nay kết thúc tại đây. Các em nhớ ôn bài và chuẩn bị cho bài học tiếp theo. Tạm biệt các em.
 </teacher_script>

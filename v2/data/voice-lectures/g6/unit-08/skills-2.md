@@ -135,7 +135,7 @@ Chúng ta cùng làm Bài 2 <eng>True or False</eng>. Các em hãy nghe lại v�
 Các em lưu ý câu 1 và 5 rất dễ sai. Ở câu 1, Hải và Alice chỉ là học sinh yêu thích thể thao, không phải là vận động viên. Ở câu 5, Alice thỉnh thoảng mới chơi game, không phải chơi mỗi ngày.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -184,7 +184,7 @@ Chúng ta cùng làm Bài 3 <eng>Fill in the blanks</eng>. Các em hãy nghe l�
 | 4 | **chess** | "My friend and I play chess every Saturday" |
 </explanation>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 

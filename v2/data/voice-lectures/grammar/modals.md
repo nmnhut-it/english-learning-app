@@ -257,7 +257,7 @@ Ok xong bài rồi nha! May, might, could là khả năng - có thể xảy ra. 
 ---
 
 <!-- chunk: exercise_practice -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_a55b37e3.mp3">
 Giờ làm bài tập thực hành nha! Bấm nút bên dưới để bắt đầu làm bài.
 </teacher_script>
 
@@ -265,6 +265,6 @@ Giờ làm bài tập thực hành nha! Bấm nút bên dưới để bắt đ�
 **Bài tập thực hành:** Động từ khuyết thiếu - May, Might, Could & Have to (Modals)
 </exercise>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_48cb533b.mp3">
 Làm xong bài tập thì kiểm tra kết quả nha. Nhớ xem lại những câu sai để hiểu tại sao.
 </teacher_script>

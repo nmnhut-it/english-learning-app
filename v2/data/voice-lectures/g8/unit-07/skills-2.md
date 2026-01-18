@@ -3,7 +3,7 @@
 ## SKILLS 2 - Listening & Writing
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_fd00461e.mp3">
 Chào các em. Chào mừng các em đến với bài học hôm nay. Mời các em mở sách giáo khoa.
 </teacher_script>
 
@@ -12,7 +12,7 @@ Chào các em. Chào mừng các em đến với bài học hôm nay. Mời các
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 79 - Listen and choose word
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_c08c1d7b.mp3">
 Bây giờ các em sẽ nghe một đoạn băng. Hãy chú ý lắng nghe để tìm thông tin trả lời câu hỏi.
 </teacher_script>
 
@@ -39,7 +39,7 @@ Bây giờ các em sẽ nghe một đoạn băng. Hãy chú ý lắng nghe để
 4. **shouldn't** throw litter.
 </explanation>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -48,7 +48,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 <!-- chunk: exercise_3 -->
 ### Bài 3 trang 79 - Listen and answer
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_c08c1d7b.mp3">
 Bây giờ các em sẽ nghe một đoạn băng. Hãy chú ý lắng nghe để tìm thông tin trả lời câu hỏi.
 </teacher_script>
 
@@ -73,7 +73,7 @@ Bây giờ các em sẽ nghe một đoạn băng. Hãy chú ý lắng nghe để
 5. Green products (Sản phẩm xanh).
 </answer>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -82,7 +82,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 <!-- chunk: writing_prep -->
 ### Bài 4 trang 79 - Match notice parts
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_d5b1d729.mp3">
 Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
@@ -99,7 +99,7 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 <!-- chunk: writing_task -->
 ### Bài 5 trang 79 - Write a notice
 
-<teacher_script pause="180">
+<teacher_script pause="180" href="audio/tts_d5b1d729.mp3">
 Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
@@ -134,13 +134,13 @@ If you have questions, please contact the club leader.
 (Signed)
 </dialogue>
 
-<teacher_script pause="0" action="record">
+<teacher_script pause="0" action="record" href="audio/tts_508f13d8.mp3">
 Các em hãy ghi âm phần luyện tập của mình và gửi cho thầy nhé.
 </teacher_script>
 
 ---
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_ba688992.mp3">
 Bài học hôm nay kết thúc tại đây. Các em nhớ ôn bài và chuẩn bị cho bài học tiếp theo. Tạm biệt các em.
 </teacher_script>

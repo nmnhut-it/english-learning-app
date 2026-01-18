@@ -3,7 +3,7 @@
 ## COMMUNICATION
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_fd00461e.mp3">
 Chào các em. Chào mừng các em đến với bài học hôm nay. Mời các em mở sách giáo khoa.
 </teacher_script>
 
@@ -12,7 +12,7 @@ Chào các em. Chào mừng các em đến với bài học hôm nay. Mời các
 <!-- chunk: everyday_english -->
 ### Everyday English - Asking for clarification
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_c0841176.mp3">
 Chúng ta cùng học từ vựng mới. Các em hãy nghe và lặp lại theo mẫu nhé.
 </teacher_script>
 
@@ -51,7 +51,7 @@ Chúng ta cùng học từ vựng mới. Các em hãy nghe và lặp lại theo 
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 77 - Make similar conversations
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_6273c698.mp3">
 Bây giờ là phần thực hành nói. Các em hãy luyện tập theo cặp hoặc theo nhóm nhé.
 </teacher_script>
 
@@ -64,7 +64,7 @@ Bây giờ là phần thực hành nói. Các em hãy luyện tập theo cặp h
 **A:** Oh, I understand. Thanks.
 </dialogue>
 
-<teacher_script pause="0" action="record">
+<teacher_script pause="0" action="record" href="audio/tts_508f13d8.mp3">
 Các em hãy ghi âm phần luyện tập của mình và gửi cho thầy nhé.
 </teacher_script>
 
@@ -73,7 +73,7 @@ Các em hãy ghi âm phần luyện tập của mình và gửi cho thầy nhé.
 <!-- chunk: exercise_3 -->
 ### Bài 3 trang 77 - Earth Day Reading
 
-<teacher_script pause="90">
+<teacher_script pause="90" href="audio/tts_d5b1d729.mp3">
 Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
@@ -96,7 +96,7 @@ You can also do things like **buying green products** and practising **reduce, r
 **Đáp án:** 1, 3, 4.
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_aca3c861.mp3">
 Đã hết thời gian. Sau đây là đáp án gợi ý. Các em hãy đối chiếu với bài làm của mình nhé.
 </teacher_script>
 
@@ -105,7 +105,7 @@ You can also do things like **buying green products** and practising **reduce, r
 <!-- chunk: exercise_4 -->
 ### Bài 4 trang 77 - Match activities with results
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_d5b1d729.mp3">
 Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
@@ -126,7 +126,7 @@ d. improving our health, reducing pollution
 ---
 
 <!-- chunk: answer_4 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_aca3c861.mp3">
 Đã hết thời gian. Sau đây là đáp án gợi ý. Các em hãy đối chiếu với bài làm của mình nhé.
 </teacher_script>
 
@@ -143,13 +143,13 @@ d. improving our health, reducing pollution
 1-d, 2-b, 3-a, 4-c.
 </explanation>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_ba688992.mp3">
 Bài học hôm nay kết thúc tại đây. Các em nhớ ôn bài và chuẩn bị cho bài học tiếp theo. Tạm biệt các em.
 </teacher_script>

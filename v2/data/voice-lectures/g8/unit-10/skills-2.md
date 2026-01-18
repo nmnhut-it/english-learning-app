@@ -1,12 +1,12 @@
 # G8 UNIT-10 SKILLS 2
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_fd00461e.mp3">
 Chào các em. Chào mừng các em đến với bài học hôm nay. Mời các em mở sách giáo khoa.
 </teacher_script>
 
 <!-- chunk: audio -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_c08c1d7b.mp3">
 Bây giờ các em sẽ nghe một đoạn băng. Hãy chú ý lắng nghe để tìm thông tin trả lời câu hỏi.
 </teacher_script>
 
@@ -15,7 +15,7 @@ Bây giờ các em sẽ nghe một đoạn băng. Hãy chú ý lắng nghe để
 </audio>
 
 <!-- chunk: content -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_d5b1d729.mp3">
 Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
@@ -65,6 +65,6 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 Social networks help people talk to each other. You can use apps like Facebook, Instagram, and Zalo. These apps let you send messages to friends and share photos and videos. You can talk to family who live far away. You can also learn new things happening in the world. Social media lets us talk to people all around the world very quickly with just a few clicks\!
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_ba688992.mp3">
 Bài học hôm nay kết thúc tại đây. Các em nhớ ôn bài và chuẩn bị cho bài học tiếp theo. Tạm biệt các em.
 </teacher_script>

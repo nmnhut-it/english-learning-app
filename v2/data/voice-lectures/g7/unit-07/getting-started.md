@@ -3,11 +3,11 @@
 ## GETTING STARTED - Meeting in the schoolyard
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_95d3e0d8.webm">
 Chào các em. Chào mừng các em đến với Unit 7 - <eng>Traffic</eng>. Chủ đề về giao thông. Mời các em mở sách giáo khoa trang 8.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_fd063718.webm">
 Chúng ta cùng bắt đầu với phần từ vựng. Các em hãy nghe và đọc theo, sau đó làm bài tập để ghi nhớ từ mới nhé.
 </teacher_script>
 
@@ -37,7 +37,7 @@ Chúng ta cùng bắt đầu với phần từ vựng. Các em hãy nghe và đ�
 20. **How long does it take...?** : Mất bao lâu để...?
 </vocabulary>
 
-<teacher_script pause="0" action="record">
+<teacher_script pause="0" action="record" href="audio/tts_e4cf0019.webm">
 Các em hãy bấm nút Ghi âm để đọc từ vựng và gửi cho thầy nhé.
 </teacher_script>
 
@@ -50,7 +50,7 @@ Các em hãy bấm nút Ghi âm để đọc từ vựng và gửi cho thầy nh
 **Audio:** Listen and read - Meeting in the schoolyard
 </audio>
 
-<teacher_script pause="180">
+<teacher_script pause="180" href="audio/tts_c1dc8fe2.webm">
 Chúng ta cùng làm Bài 1 <eng>Listen and read</eng>. Các em hãy nghe và đọc đoạn hội thoại giữa Lan và Mark về chủ đề giao thông. Sau đó, hãy dịch đoạn hội thoại này vào vở. Các em có 3 phút.
 </teacher_script>
 
@@ -74,7 +74,7 @@ Chúng ta cùng làm Bài 1 <eng>Listen and read</eng>. Các em hãy nghe và đ
 ---
 
 <!-- chunk: translation -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_48417619.webm">
 Sau đây là bản dịch tham khảo. Các em hãy so sánh với bài làm của mình nhé.
 </teacher_script>
 
@@ -95,11 +95,11 @@ Sau đây là bản dịch tham khảo. Các em hãy so sánh với bài làm c�
 **Mark:** OK, Lan. Hẹn gặp lại.
 </translation>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
-<teacher_script pause="0" action="record">
+<teacher_script pause="0" action="record" href="audio/tts_f7f57d9d.webm">
 Các em hãy bấm nút Ghi âm để đọc lại đoạn hội thoại và gửi cho thầy nhé.
 </teacher_script>
 
@@ -108,7 +108,7 @@ Các em hãy bấm nút Ghi âm để đọc lại đoạn hội thoại và g�
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 8 - Choose the correct answer
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_0143f87a.webm">
 Chúng ta cùng làm Bài 2 <eng>Choose the correct answer</eng>. Các em hãy đọc lại hội thoại và chọn đáp án đúng A, B hoặc C. Các em có 1 phút.
 </teacher_script>
 
@@ -138,7 +138,7 @@ Chúng ta cùng làm Bài 2 <eng>Choose the correct answer</eng>. Các em hãy �
 ---
 
 <!-- chunk: answer_2 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_d333e5bd.webm">
 Đã hết thời gian. Sau đây là đáp án đúng và lời giải thích chi tiết.
 </teacher_script>
 
@@ -163,7 +163,7 @@ Chúng ta cùng làm Bài 2 <eng>Choose the correct answer</eng>. Các em hãy �
 - <eng>Sunday</eng> = chủ nhật = cuối tuần (<eng>weekend</eng>)
 </explanation>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.webm">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -175,7 +175,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 <!-- chunk: exercise_3 -->
 ### Bài 3 trang 8 - Complete the sentences
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_59bfd9fc.webm">
 Chúng ta cùng làm Bài 3 <eng>Complete the sentences</eng>. Các em hãy tìm từ hoặc cụm từ trong đoạn hội thoại để hoàn thành các câu sau. Các em có 1 phút.
 </teacher_script>
 
@@ -204,7 +204,7 @@ Chúng ta cùng làm Bài 3 <eng>Complete the sentences</eng>. Các em hãy tìm
 ---
 
 <!-- chunk: answer_3 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_778f802f.webm">
 Đã hết thời gian. Sau đây là đáp án đúng.
 </teacher_script>
 
@@ -236,7 +236,7 @@ Chúng ta cùng làm Bài 3 <eng>Complete the sentences</eng>. Các em hãy tìm
 - <eng>crowded</eng> = đông đúc
 </explanation>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.webm">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -245,7 +245,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 <!-- chunk: exercise_4 -->
 ### Bài 4 trang 9 - Means of transport
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_253c11a1.webm">
 Chúng ta cùng làm Bài 4 <eng>Means of transport</eng>. Các em hãy viết tên các phương tiện giao thông dưới mỗi tranh. Các em có 1 phút.
 </teacher_script>
 
@@ -260,7 +260,7 @@ Chúng ta cùng làm Bài 4 <eng>Means of transport</eng>. Các em hãy viết t
 8. **ship** : (n) tàu thủy /ʃɪp/
 </vocabulary>
 
-<teacher_script pause="0" action="record">
+<teacher_script pause="0" action="record" href="audio/tts_f47c4e96.webm">
 Các em hãy bấm nút Ghi âm để đọc tên các phương tiện giao thông và gửi cho thầy nhé.
 </teacher_script>
 
@@ -269,7 +269,7 @@ Các em hãy bấm nút Ghi âm để đọc tên các phương tiện giao thô
 <!-- chunk: exercise_5 -->
 ### Bài 5 trang 9 - Find someone who...
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_ef36ce80.webm">
 Chúng ta cùng làm Bài 5 <eng>Find someone who</eng>. Đây là hoạt động luyện nói. Các em hãy tìm những bạn trong lớp phù hợp với các mô tả sau.
 </teacher_script>
 
@@ -303,7 +303,7 @@ Chúng ta cùng làm Bài 5 <eng>Find someone who</eng>. Đây là hoạt độn
 | Lan never goes to school by bus. | Lan không bao giờ đi học bằng xe buýt. |
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_7723aa26.webm">
 Các em hãy thực hành hỏi và trả lời, sau đó ghi âm lại và gửi cho thầy nhé.
 </teacher_script>
 
@@ -313,18 +313,18 @@ Các em hãy thực hành hỏi và trả lời, sau đó ghi âm lại và gử
 ---
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_e947557f.webm">
 Bài học hôm nay kết thúc tại đây. Các em về nhà nhớ học từ vựng và xem lại hai cấu trúc quan trọng đã học:
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_74383f3a.webm">
 <eng>How far is it from A to B?</eng> - Từ A đến B bao xa?
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_2fbd8e8d.webm">
 <eng>How long does it take?</eng> - Mất bao lâu?
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_43436460.webm">
 Bài học tiếp theo là <eng>A Closer Look 1</eng>. Hẹn gặp lại các em!
 </teacher_script>

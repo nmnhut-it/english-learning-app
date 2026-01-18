@@ -97,7 +97,7 @@ Sau đây là đáp án đúng.
 Các em chú ý: <eng>goggles</eng> luôn ở dạng số nhiều vì kính có 2 mắt, tương tự như <eng>glasses</eng> - kính mắt.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -154,7 +154,7 @@ Chúng ta cùng làm Bài 2 <eng>Match each thing with a sport</eng>. Các em h�
 - swim → swimm**ing**
 </explanation>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -229,7 +229,7 @@ Chúng ta cùng làm Bài 3 <eng>Fill each blank with one of the words from the 
 Câu 5 rất dễ nhầm lẫn. Các em nhớ nhé: <eng>Marathon</eng> là cuộc chạy đường dài 42km. Cuộc thi Marathon đầu tiên trong lịch sử Olympic diễn ra vào năm 1896 tại Athens, Hy Lạp.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -414,7 +414,7 @@ Các em hãy nghe audio và thực hiện yêu cầu. Các em có 1 phút.
 Các em nhớ nhé: Chữ "a" thường được phát âm là /æ/, chữ "e" thường được phát âm là /e/. Tuy nhiên, cũng có nhiều trường hợp ngoại lệ nên các em cần học cách phát âm của từng từ nhé.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 

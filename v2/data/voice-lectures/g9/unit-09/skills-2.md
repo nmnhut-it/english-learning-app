@@ -3,7 +3,7 @@
 ## SKILLS 2 - Listening & Writing
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_3e7ef365.mp3">
 Chào các em. Mời các em mở sách trang 39. Bài <eng>Skills 2</eng> hôm nay chúng ta sẽ nghe bạn Trang chia sẻ về cách học tiếng Anh hiệu quả.
 </teacher_script>
 
@@ -12,7 +12,7 @@ Chào các em. Mời các em mở sách trang 39. Bài <eng>Skills 2</eng> hôm 
 <!-- chunk: exercise_1 -->
 ### Bài 1 trang 39 - Listen
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_fbd2aa5c.mp3">
 Các em hãy nghe bài nói của Trang.
 </teacher_script>
 
@@ -35,7 +35,7 @@ For pronunciation, she listens to English podcasts and repeats after them.
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 39 - True or False
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_15c997dc.mp3">
 Bài 2. Xác định câu Đúng/Sai.
 </teacher_script>
 
@@ -59,7 +59,7 @@ Bài 2. Xác định câu Đúng/Sai.
 <!-- chunk: writing_prep -->
 ### Bài 3 trang 39 - Writing
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_c4c49485.mp3">
 Phần Viết. Chủ đề: **Cách em học từ vựng tiếng Anh**.
 </teacher_script>
 
@@ -76,7 +76,7 @@ Phần Viết. Chủ đề: **Cách em học từ vựng tiếng Anh**.
 <!-- chunk: writing_task -->
 ### Bài 4 trang 39 - Write paragraph
 
-<teacher_script pause="180">
+<teacher_script pause="180" href="audio/tts_c889ecef.mp3">
 Các em có 3 phút để viết đoạn văn.
 </teacher_script>
 
@@ -85,13 +85,13 @@ Các em có 3 phút để viết đoạn văn.
 I learn English vocabulary in several ways. Firstly, I read short stories and news in English. This helps me see how words are used in context. Secondly, I use a notebook to write down new words with their meanings and examples. I review this notebook every weekend. Thirdly, I use sticky notes to label objects in my room. Finally, I practice speaking with my friends to use the new words. I think these methods help me remember words longer and use them naturally.
 </dialogue>
 
-<teacher_script pause="0" action="record">
+<teacher_script pause="0" action="record" href="audio/tts_984e90d8.mp3">
 Em hãy đọc đoạn văn của mình và ghi âm gửi thầy nhé.
 </teacher_script>
 
 ---
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_85fdfc9e.mp3">
 Bài học kết thúc. Chúc các em tìm được phương pháp học tiếng Anh phù hợp!
 </teacher_script>

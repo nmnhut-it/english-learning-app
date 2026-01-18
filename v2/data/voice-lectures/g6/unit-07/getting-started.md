@@ -3,11 +3,11 @@
 ## GETTING STARTED - What's on today?
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_fd00461e.mp3">
 Chào các em. Chào mừng các em đến với bài học hôm nay. Mời các em mở sách giáo khoa.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_c0841176.mp3">
 Chúng ta cùng học từ vựng mới. Các em hãy nghe và lặp lại theo mẫu nhé.
 </teacher_script>
 
@@ -36,7 +36,7 @@ Chúng ta cùng học từ vựng mới. Các em hãy nghe và lặp lại theo 
 <!-- chunk: exercise_1 -->
 ### Bài 1 trang 6 - Listen and read
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_c08c1d7b.mp3">
 Bây giờ các em sẽ nghe một đoạn băng. Hãy chú ý lắng nghe để tìm thông tin trả lời câu hỏi.
 </teacher_script>
 
@@ -59,7 +59,7 @@ Bây giờ các em sẽ nghe một đoạn băng. Hãy chú ý lắng nghe để
 ---
 
 <!-- chunk: translation -->
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -78,7 +78,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 **Hùng:** Nghe hay đấy. Tôi cũng sẽ xem.
 </translation>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_d5b1d729.mp3">
 Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
@@ -87,7 +87,7 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 7 - Choose the correct answer
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_d5b1d729.mp3">
 Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
@@ -124,7 +124,7 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 ---
 
 <!-- chunk: answer_2 -->
-<teacher_script pause="0" type="answer">
+<teacher_script pause="0" type="answer" href="audio/tts_d5fd6a66.mp3">
 Đã hết thời gian. Sau đây là đáp án gợi ý. Các em hãy so sánh với bài làm của mình nhé.
 </teacher_script>
 
@@ -148,11 +148,11 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 - Phong nói <eng>This channel has many educational programmes</eng>.
 </explanation>
 
-<teacher_script pause="0" type="answer">
+<teacher_script pause="0" type="answer" href="audio/tts_d5fd6a66.mp3">
 Đã hết thời gian. Sau đây là đáp án gợi ý. Các em hãy so sánh với bài làm của mình nhé.
 </teacher_script>
 
-<teacher_script pause="0" action="record">
+<teacher_script pause="0" action="record" href="audio/tts_508f13d8.mp3">
 Các em hãy ghi âm phần luyện tập của mình và gửi cho thầy nhé.
 </teacher_script>
 
@@ -164,7 +164,7 @@ Các em hãy ghi âm phần luyện tập của mình và gửi cho thầy nhé.
 <!-- chunk: exercise_3 -->
 ### Bài 3 trang 7 - Match
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_d5b1d729.mp3">
 Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
@@ -181,7 +181,7 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 ---
 
 <!-- chunk: answer_3 -->
-<teacher_script pause="0" type="answer">
+<teacher_script pause="0" type="answer" href="audio/tts_d5fd6a66.mp3">
 Đã hết thời gian. Sau đây là đáp án gợi ý. Các em hãy so sánh với bài làm của mình nhé.
 </teacher_script>
 
@@ -205,7 +205,7 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 - **Cartoon**: hoạt hình NGẮN, từng tập (Tom & Jerry, SpongeBob...)
 </explanation>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -214,7 +214,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 <!-- chunk: exercise_4 -->
 ### Bài 4 trang 7 - Find adjectives
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_d5b1d729.mp3">
 Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
@@ -228,7 +228,7 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 ---
 
 <!-- chunk: answer_4 -->
-<teacher_script pause="0" type="answer">
+<teacher_script pause="0" type="answer" href="audio/tts_d5fd6a66.mp3">
 Đã hết thời gian. Sau đây là đáp án gợi ý. Các em hãy so sánh với bài làm của mình nhé.
 </teacher_script>
 
@@ -253,11 +253,11 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 **Lưu ý:** Tính từ đứng trước danh từ hoặc sau động từ "be" (is, are, am).
 </explanation>
 
-<teacher_script pause="0" type="answer">
+<teacher_script pause="0" type="answer" href="audio/tts_d5fd6a66.mp3">
 Đã hết thời gian. Sau đây là đáp án gợi ý. Các em hãy so sánh với bài làm của mình nhé.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -266,7 +266,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 <!-- chunk: exercise_5 -->
 ### Bài 5 trang 7 - Work in groups
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_6273c698.mp3">
 Bây giờ là phần thực hành nói. Các em hãy luyện tập theo cặp hoặc theo nhóm nhé.
 </teacher_script>
 
@@ -298,7 +298,7 @@ Bây giờ là phần thực hành nói. Các em hãy luyện tập theo cặp h
 | He watches them every afternoon. | Bạn ấy xem vào mỗi buổi chiều. |
 </questions>
 
-<teacher_script pause="0" action="record">
+<teacher_script pause="0" action="record" href="audio/tts_508f13d8.mp3">
 Các em hãy ghi âm phần luyện tập của mình và gửi cho thầy nhé.
 </teacher_script>
 

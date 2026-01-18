@@ -3,7 +3,7 @@
 ## GETTING STARTED - English Club
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_d8fb948d.mp3">
 Chào các em. Chào mừng các em đến với Unit 9: <eng>English in the World</eng>. Hôm nay chúng ta sẽ bắt đầu với phần <eng>Getting Started</eng>.
 </teacher_script>
 
@@ -21,7 +21,7 @@ Chào các em. Chào mừng các em đến với Unit 9: <eng>English in the Wor
 8. **trousers** : (n) quần dài (Anh) /ˈtraʊzəz/
 </vocabulary>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_4ec3284e.mp3">
 Các em hãy nghe và lặp lại từ vựng nhé.
 </teacher_script>
 
@@ -30,7 +30,7 @@ Các em hãy nghe và lặp lại từ vựng nhé.
 <!-- chunk: dialogue -->
 ### Bài 1 trang 30 - Listen and read
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_d4bf779c.mp3">
 Cô giáo đang giới thiệu một bạn học sinh mới. Các em hãy nghe đoạn hội thoại nhé.
 </teacher_script>
 
@@ -59,7 +59,7 @@ Cô giáo đang giới thiệu một bạn học sinh mới. Các em hãy nghe �
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 31 - Answer the questions
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_b0cde84b.mp3">
 Các em hãy dựa vào đoạn hội thoại để trả lời các câu hỏi sau. 1 phút nhé.
 </teacher_script>
 
@@ -71,7 +71,7 @@ Các em hãy dựa vào đoạn hội thoại để trả lời các câu hỏi 
 **5.** Do they all speak English at school?
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_6130ada9.mp3">
 Sau đây là đáp án.
 </teacher_script>
 
@@ -84,7 +84,7 @@ Sau đây là đáp án.
 **5.** Yes, they do.
 </answer>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_643c3ede.mp3">
 Các em kiểm tra lại câu trả lời của mình nhé.
 </teacher_script>
 
@@ -93,7 +93,7 @@ Các em kiểm tra lại câu trả lời của mình nhé.
 <!-- chunk: exercise_3 -->
 ### Bài 3 trang 31 - Find words
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_eea814ee.mp3">
 Bài 3. Các em hãy tìm từ trong hội thoại có nghĩa như sau.
 </teacher_script>
 
@@ -105,7 +105,7 @@ Bài 3. Các em hãy tìm từ trong hội thoại có nghĩa như sau.
 4. clothes worn by students at school
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_8f0c191d.mp3">
 Đáp án là:
 </teacher_script>
 
@@ -117,13 +117,13 @@ Bài 3. Các em hãy tìm từ trong hội thoại có nghĩa như sau.
 4. **school uniforms**
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_0f2c474b.mp3">
 Lưu ý: Trong bài này chúng ta tìm thấy từ <eng>immigrants</eng> và <eng>school uniforms</eng>.
 </teacher_script>
 
 ---
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_96004b0c.mp3">
 Bài học hôm nay kết thúc tại đây. Các em hãy nhớ luyện tập đoạn hội thoại nhé.
 </teacher_script>

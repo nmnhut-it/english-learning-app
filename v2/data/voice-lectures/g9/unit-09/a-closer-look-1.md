@@ -3,7 +3,7 @@
 ## A CLOSER LOOK 1 - Vocabulary & Pronunciation
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_295d2275.mp3">
 Chào các em. Mời các em mở sách trang 33. Hôm nay chúng ta học phần <eng>A Closer Look 1</eng>. Chúng ta sẽ học về các từ vựng liên quan đến ngôn ngữ và phân biệt Anh-Anh (BrE) và Anh-Mỹ (AmE).
 </teacher_script>
 
@@ -20,7 +20,7 @@ Chào các em. Mời các em mở sách trang 33. Hôm nay chúng ta học phầ
 7. **mother tongue** : (n) tiếng mẹ đẻ /ˈmʌðə tʌŋ/
 </vocabulary>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_913cb4bc.mp3">
 Các em hãy nghe và lặp lại.
 </teacher_script>
 
@@ -29,7 +29,7 @@ Các em hãy nghe và lặp lại.
 <!-- chunk: exercise_1 -->
 ### Bài 1 trang 33 - Match words with definitions
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_b70b5b62.mp3">
 Bài 1. Nối từ với định nghĩa. 1 phút bắt đầu.
 </teacher_script>
 
@@ -40,7 +40,7 @@ Bài 1. Nối từ với định nghĩa. 1 phút bắt đầu.
 4. mother tongue - d. the first language you learn as a baby
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_adb48248.mp3">
 Đáp án:
 </teacher_script>
 
@@ -51,7 +51,7 @@ Bài 1. Nối từ với định nghĩa. 1 phút bắt đầu.
 ---
 
 <!-- chunk: pronunciation_intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_d00a0183.mp3">
 Chuyển sang phần Phát âm. Chúng ta sẽ tìm hiểu sự khác biệt về dấu nhấn và phát âm giữa Tiếng Anh Anh (BrE) và Tiếng Anh Mỹ (AmE).
 </teacher_script>
 
@@ -70,7 +70,7 @@ Chuyển sang phần Phát âm. Chúng ta sẽ tìm hiểu sự khác biệt v�
 <!-- chunk: exercise_4 -->
 ### Bài 4 trang 33 - Listen and practice
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_ed0714fc.mp3">
 Các em hãy nghe và nhận biết sự khác biệt nhé.
 </teacher_script>
 
@@ -81,13 +81,13 @@ Các em hãy nghe và nhận biết sự khác biệt nhé.
 3. centre (BrE) - center (AmE)
 </task>
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_2b2f1221.mp3">
 Các em hãy tự luyện đọc theo cả hai cách.
 </teacher_script>
 
 ---
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c22691.mp3">
 Bài học kết thúc. Các em nhớ ôn tập từ vựng và luyện phát âm nhé.
 </teacher_script>

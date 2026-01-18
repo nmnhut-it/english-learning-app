@@ -3,7 +3,7 @@
 ## LOOKING BACK - Review
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_7588653c.mp3">
 Chào các em. Mời các em mở sách trang 40. Chúng ta cùng ôn tập lại Unit 9 qua bài <eng>Looking Back</eng>.
 </teacher_script>
 
@@ -12,7 +12,7 @@ Chào các em. Mời các em mở sách trang 40. Chúng ta cùng ôn tập lạ
 <!-- chunk: exercise_1 -->
 ### Bài 1 trang 40 - Vocabulary
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_b6f73b62.mp3">
 Bài 1. Điền từ thích hợp vào chỗ trống.
 </teacher_script>
 
@@ -35,7 +35,7 @@ Bài 1. Điền từ thích hợp vào chỗ trống.
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 40 - Grammar: Relative Clauses
 
-<teacher_script pause="90">
+<teacher_script pause="90" href="audio/tts_e65ba564.mp3">
 Bài 2. Nối câu dùng mệnh đề quan hệ.
 </teacher_script>
 
@@ -57,13 +57,13 @@ Bài 2. Nối câu dùng mệnh đề quan hệ.
 3. The boy **whose father is a teacher** is smart.
 </answer>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_838f018b.mp3">
 Các em kiểm tra lại ngữ pháp nhé.
 </teacher_script>
 
 ---
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_62ac0324.mp3">
 Chúng ta đã hoàn thành Unit 9. Các em nhớ ôn tập lại các từ vựng về ngôn ngữ và mệnh đề quan hệ nhé. Hẹn gặp lại các em ở bài học sau. Tạm biệt!
 </teacher_script>

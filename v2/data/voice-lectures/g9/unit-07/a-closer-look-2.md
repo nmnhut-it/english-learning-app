@@ -95,7 +95,7 @@ Chúng ta cùng làm Bài 1. Các em hãy viết lại các câu hỏi sau sang 
 5. Did you go -> if she had gone (quá khứ đơn -> quá khứ hoàn thành).
 </explanation>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -142,7 +142,7 @@ A. went | B. go | C. had gone
 5. **had gone**: the night before là dấu hiệu của quá khứ (yesterday), lùi thì thành quá khứ hoàn thành.
 </explanation>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
