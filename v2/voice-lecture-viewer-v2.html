@@ -246,7 +246,7 @@
     .npc-avatar[data-speaking="true"]{animation:npcBounce 0.5s ease infinite}
     .npc-avatar-img{font-size:2.8rem}
     @keyframes npcBounce{0%,100%{transform:translateY(0) scale(1)}50%{transform:translateY(-5px) scale(1.05)}}
-    .speech-bubble{background:#fff;border-radius:20px;padding:16px 20px;max-width:min(320px,calc(100vw - 140px));box-shadow:0 8px 32px rgba(0,0,0,.2);opacity:0;transform:translateY(10px) scale(0.95);transition:all .3s}
+    .speech-bubble{background:#fff;border-radius:20px;padding:16px 20px;max-width:min(360px,calc(100vw - 120px));max-height:50vh;overflow-y:auto;box-shadow:0 8px 32px rgba(0,0,0,.2);opacity:0;transform:translateY(10px) scale(0.95);transition:all .3s}
     .speech-bubble[data-visible="true"]{opacity:1;transform:translateY(0) scale(1)}
     .speech-bubble-text{font-size:1rem;line-height:1.5;color:#0f172a;white-space:pre-wrap}
     .speech-continue{margin-top:12px;text-align:right;display:none}
