@@ -1,0 +1,164 @@
+# UNIT 8: SHOPPING
+
+## GETTING STARTED - My favourite shopping place
+
+<!-- chunk: intro -->
+<teacher_script pause="0">
+Hi everyone. Welcome to Unit 8 <eng>Shopping</eng>. Chủ đề mua sắm rất thú vị và quen thuộc đúng không? Mở sách trang 82 cùng thầy khám phá nha.
+</teacher_script>
+
+---
+
+<!-- chunk: vocabulary -->
+<vocabulary>
+**Vocabulary:**
+1. **fair** : (n) hội chợ /feə/
+2. **open-air market** : (n) chợ ngoài trời /ˌəʊpən ˈeə ˈmɑːkɪt/
+3. **costume** : (n) trang phục /ˈkɒstjuːm/
+4. **home-grown** : (adj) nhà trồng /ˌhəʊm ˈɡrəʊn/
+5. **home-made** : (adj) nhà làm /ˌhəʊm ˈmeɪd/
+6. **bargain** : (v) mặc cả, trả giá /ˈbɑːɡən/
+7. **fixed price** : (n) giá cố định /ˌfɪkst ˈpraɪs/
+8. **price tag** : (n) nhãn giá /ˈpraɪs tæɡ/
+9. **convenience store** : (n) cửa hàng tiện lợi /kənˈviːniəns stɔː/
+</vocabulary>
+
+<teacher_script pause="0">
+Nghe và đọc theo từ vựng nha lớp.
+</teacher_script>
+
+---
+
+<!-- chunk: dialogue -->
+### Bài 1 trang 82 - Listen and read
+
+<teacher_script pause="0">
+Bài 1 <eng>Listen and read</eng>. Nghe Mai và Alice nói về chuyến đi Bắc Hà và sở thích mua sắm.
+</teacher_script>
+
+<audio src="https://img.loigiaihay.com/picture/2023/0616/track-46.mp3">
+**Audio:** Mai and Alice talking about shopping
+</audio>
+
+<dialogue>
+**Mai:** How was your trip to Bac Ha, Alice?
+(Chuyến đi Bắc Hà thế nào Alice?)
+**Alice:** It's awesome. I like **Bac Ha Fair** most. It's an **open-air market** in Lao Cai.
+(Tuyệt lắm. Mình thích chợ phiên Bắc Hà nhất. Đó là chợ ngoài trời ở Lào Cai.)
+**Alice:** ...most of the products sold at the market were **home-grown** and **home-made**.
+(...hầu hết sản phẩm là đồ nhà trồng và nhà làm.)
+**Mai:** I prefer shopping at the supermarket. I can find almost everything... and I don't have to **bargain**. All the items have **fixed prices** on their **price tags**.
+(Mình thích siêu thị hơn... không phải trả giá. Mọi thứ đều có giá niêm yết.)
+</dialogue>
+
+---
+
+<!-- chunk: exercise_2 -->
+### Bài 2 trang 83 - Complete the list
+
+<teacher_script pause="60">
+Bài 2 <eng>Mai and Alice mentioned four places where they can buy things</eng>. Tìm 4 địa điểm mua sắm được nhắc đến. 1 phút nha.
+</teacher_script>
+
+<task>
+**List of shopping places:**
+1. open-air market
+2. _______
+3. _______
+4. _______
+</task>
+
+<answer>
+**Đáp án:**
+1. open-air market
+2. farmers' market
+3. supermarket
+4. convenience store
+</answer>
+
+<explanation>
+**Giải thích:**
+- **Alice** nhắc đến *Bac Ha Fair (open-air market)* và *farmers' market* ở Auckland.
+- **Mai** nhắc đến *supermarket* và *convenience store*.
+</explanation>
+
+<teacher_script pause="30">
+Sửa bài vào nha.
+</teacher_script>
+
+---
+
+<!-- chunk: exercise_3 -->
+### Bài 3 trang 83 - Match types of markets
+
+<teacher_script pause="60">
+Bài 3 <eng>Match the types of markets with the features</eng>. Nối loại chợ với đặc điểm của nó. 1 phút nha.
+</teacher_script>
+
+<task>
+**Types:**
+1. Open-air market
+2. Supermarket
+
+**Features:**
+a. It's outdoor.
+b. Goods are displayed on shelves.
+c. Shoppers can bargain.
+d. All items have fixed prices.
+e. The weather does not affect shopping.
+</task>
+
+<answer>
+**Đáp án:**
+1. **Open-air market**: a, c
+2. **Supermarket**: b, d, e
+</answer>
+
+<explanation>
+**Giải thích:**
+- Chợ trời (Open-air): ngoài trời (a), trả giá được (c).
+- Siêu thị (Supermarket): trên kệ (b), giá cố định (d), không lo thời tiết (e).
+</explanation>
+
+<teacher_script pause="30">
+Sửa bài nếu sai nha.
+</teacher_script>
+
+---
+
+<!-- chunk: exercise_4 -->
+### Bài 4 trang 83 - Complete sentences
+
+<teacher_script pause="60">
+Bài 4 điền từ vào câu. 1 phút bắt đầu.
+</teacher_script>
+
+<questions type="fill_blanks">
+**Word bank:** *bargain | convenience store | home-grown | price tag | home-made*
+
+**1.** What is '_______'? - It's when buyers talk to sellers to get a lower price.
+**2.** A _______ is a small shop and is usually open 24/7.
+**3.** This salad is made of _______ vegetables.
+**4.** How much is this T-shirt? I cannot see the _______.
+**5.** Try our _______ bread, Mai. My mother made it this morning.
+</questions>
+
+<answer>
+**Đáp án:** 1. bargain | 2. convenience store | 3. home-grown | 4. price tag | 5. home-made
+</answer>
+
+<teacher_script pause="30">
+Sửa nhanh nha.
+1. bargain (trả giá)
+2. convenience store (cửa hàng tiện lợi)
+3. home-grown (nhà trồng)
+4. price tag (nhãn giá)
+5. home-made (nhà làm)
+</teacher_script>
+
+---
+
+<!-- chunk: end -->
+<teacher_script pause="0">
+Xong bài <eng>Getting Started</eng>. Các em nhớ từ vựng về các loại hình mua sắm nhé. Hẹn gặp lại ở bài sau!
+</teacher_script>
