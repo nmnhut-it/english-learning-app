@@ -423,10 +423,10 @@ if (c) {
   // Audio files are in /v2/audio/ relative to site root
   // Content URL format: data/voice-lectures/... or v2/data/voice-lectures/...
   const contentUrl = CONFIG.contentUrl;
-  if (contentUrl.includes('/data/voice-lectures/')) {
+  if (contentUrl.includes('data/voice-lectures/')) {
     // Find the base that contains the audio folder (parent of data folder)
-    const dataIndex = contentUrl.indexOf('/data/voice-lectures/');
-    CONFIG.audioBasePath = contentUrl.substring(0, dataIndex + 1) + 'audio/';
+    const dataIndex = contentUrl.indexOf('data/voice-lectures/');
+    CONFIG.audioBasePath = contentUrl.substring(0, dataIndex) + 'audio/';
   } else {
     // Fallback: extract directory from content URL
     const lastSlash = contentUrl.lastIndexOf('/');
