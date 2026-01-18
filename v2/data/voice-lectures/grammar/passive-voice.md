@@ -287,3 +287,18 @@ Nhớ mấy lỗi này nha!
 <teacher_script pause="0">
 Ok xong bài câu bị động hiện tại đơn rồi nha! Nhớ công thức: S + am/is/are + V3. Số ít dùng is, số nhiều dùng are. V3 có quy tắc thêm ed, bất quy tắc thì học thuộc. BY dùng với người làm, WITH dùng với công cụ vật liệu. Ôn lại rồi làm bài tập hen!
 </teacher_script>
+
+---
+
+<!-- chunk: exercise_practice -->
+<teacher_script pause="0">
+Giờ làm bài tập thực hành nha! Bấm nút bên dưới để bắt đầu làm bài.
+</teacher_script>
+
+<exercise data-source="../../../tieu-hoc/data/unit-11-making-a-film.json">
+**Bài tập thực hành:** Câu bị động - Hiện tại đơn (Passive Voice - Present Simple)
+</exercise>
+
+<teacher_script pause="0">
+Làm xong bài tập thì kiểm tra kết quả nha. Nhớ xem lại những câu sai để hiểu tại sao.
+</teacher_script>

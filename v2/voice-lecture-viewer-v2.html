@@ -354,6 +354,67 @@
       #bottom-nav{padding:16px 12px}
       #main-nav-btn{padding:14px 20px;font-size:1rem}
     }
+
+    /* ========== EXERCISE SYSTEM ========== */
+    .exercise-container{background:linear-gradient(135deg,#f0f9ff,#e0f2fe);border-radius:16px;padding:16px;margin:12px 0;border:2px solid #bae6fd}
+    .exercise-header{background:linear-gradient(135deg,#8b5cf6,#7c3aed);color:#fff;padding:12px 16px;border-radius:12px;margin-bottom:16px;display:flex;align-items:center;gap:10px}
+    .exercise-icon{font-size:1.5rem}
+    .exercise-title{flex:1;font-weight:600}
+    .exercise-count{font-size:.85rem;opacity:.9}
+    .exercise-start{background:#fff;border-radius:16px;padding:24px;text-align:center;box-shadow:0 4px 16px rgba(0,0,0,.08);border:2px dashed #a78bfa}
+    .exercise-start-icon{font-size:3rem;margin-bottom:12px}
+    .exercise-start-title{font-size:1.1rem;font-weight:600;color:#7c3aed;margin-bottom:8px}
+    .exercise-start-desc{font-size:.9rem;color:#64748b;margin-bottom:16px}
+    .exercise-start-btn{background:linear-gradient(135deg,#8b5cf6,#7c3aed);color:#fff;border:none;padding:16px 32px;border-radius:50px;font-size:1.1rem;font-weight:600;cursor:pointer;transition:all .2s;box-shadow:0 4px 16px rgba(139,92,246,.4)}
+    .exercise-start-btn:hover{transform:scale(1.05)}
+    .exercise-loading{text-align:center;padding:32px;color:#64748b}
+    .exercise-question{background:#fff;border-radius:16px;padding:20px;margin-bottom:16px;box-shadow:0 4px 12px rgba(0,0,0,.06)}
+    .exercise-q-num{font-size:.85rem;color:#8b5cf6;font-weight:600;margin-bottom:8px}
+    .exercise-q-text{font-size:1.1rem;font-weight:500;color:#0f172a;margin-bottom:12px}
+    .exercise-options{display:flex;flex-direction:column;gap:10px}
+    .exercise-option{background:#f8fafc;border:2px solid #e2e8f0;border-radius:12px;padding:14px 16px;cursor:pointer;transition:all .2s;text-align:left;font-size:1rem}
+    .exercise-option:hover{border-color:#8b5cf6;background:#f5f3ff}
+    .exercise-option[data-selected="true"]{border-color:#8b5cf6;background:#ede9fe}
+    .exercise-option[data-result="correct"]{border-color:#10b981;background:#d1fae5}
+    .exercise-option[data-result="wrong"]{border-color:#ef4444;background:#fee2e2}
+    .exercise-explanation{background:#fef3c7;border-radius:10px;padding:12px;margin-top:12px;font-size:.9rem;color:#92400e;display:none}
+    .exercise-explanation[data-visible="true"]{display:block}
+    .exercise-progress{display:flex;gap:6px;margin-bottom:16px;flex-wrap:wrap}
+    .exercise-progress-dot{width:10px;height:10px;border-radius:50%;background:#cbd5e1;transition:all .3s}
+    .exercise-progress-dot[data-status="done"]{background:#10b981}
+    .exercise-progress-dot[data-status="wrong"]{background:#ef4444}
+    .exercise-progress-dot[data-status="current"]{background:#8b5cf6;transform:scale(1.3);box-shadow:0 0 8px rgba(139,92,246,.5)}
+    .exercise-nav{display:flex;gap:10px;margin-top:16px;justify-content:center}
+    .exercise-btn{background:linear-gradient(135deg,#8b5cf6,#7c3aed);color:#fff;border:none;padding:14px 28px;border-radius:50px;font-size:1rem;font-weight:600;cursor:pointer;transition:all .2s;box-shadow:0 4px 12px rgba(139,92,246,.3)}
+    .exercise-btn:hover{transform:scale(1.05)}
+    .exercise-btn.secondary{background:transparent;color:#7c3aed;border:2px solid #8b5cf6;box-shadow:none}
+    .exercise-result{background:#fff;border-radius:16px;padding:24px;text-align:center;box-shadow:0 4px 16px rgba(0,0,0,.08)}
+    .exercise-result-icon{font-size:3rem;margin-bottom:12px}
+    .exercise-result-score{font-size:1.5rem;font-weight:700;color:#7c3aed;margin-bottom:8px}
+    .exercise-result-text{color:#64748b}
+    .exercise-completed{opacity:.7;pointer-events:none}
+    .exercise-start-btn.secondary{background:transparent;color:#7c3aed;border:2px solid #8b5cf6}
+
+    /* Exercise Modal (iframe) */
+    .exercise-modal{position:fixed;inset:0;z-index:10000;background:rgba(0,0,0,.8);display:flex;align-items:center;justify-content:center;padding:16px}
+    .exercise-modal-content{width:100%;max-width:900px;height:90vh;max-height:800px;background:#fff;border-radius:16px;overflow:hidden;box-shadow:0 20px 60px rgba(0,0,0,.3)}
+    .exercise-iframe{width:100%;height:100%;border:none}
+
+    /* Word Rearrange Exercise Type */
+    .word-bank{display:flex;flex-wrap:wrap;gap:8px;margin:12px 0;min-height:50px;padding:12px;background:#f1f5f9;border-radius:12px;border:2px dashed #cbd5e1}
+    .word-chip{background:linear-gradient(135deg,#8b5cf6,#7c3aed);color:#fff;padding:10px 16px;border-radius:8px;cursor:pointer;font-size:1rem;user-select:none;transition:all .2s;box-shadow:0 2px 8px rgba(139,92,246,.3)}
+    .word-chip:hover{transform:scale(1.05)}
+    .word-chip[data-selected="true"]{opacity:.4;cursor:not-allowed}
+    .word-chip.distractor{background:linear-gradient(135deg,#94a3b8,#64748b)}
+    .answer-area{display:flex;flex-wrap:wrap;gap:8px;margin:12px 0;min-height:60px;padding:16px;background:#e0f2fe;border-radius:12px;border:2px solid #7dd3fc}
+    .answer-area .word-chip{background:#0ea5e9;cursor:pointer}
+    .answer-area .word-chip:hover{background:#0284c7}
+    .exercise-instruction{font-size:.9rem;color:#64748b;margin-bottom:12px;font-style:italic}
+    .exercise-check-btn{background:linear-gradient(135deg,#10b981,#059669);color:#fff;border:none;padding:12px 24px;border-radius:25px;font-size:1rem;font-weight:600;cursor:pointer;margin-top:12px;transition:all .2s}
+    .exercise-check-btn:hover{transform:scale(1.05)}
+    .exercise-check-btn:disabled{background:#cbd5e1;cursor:not-allowed;transform:none}
+    .answer-correct{border-color:#10b981;background:#d1fae5}
+    .answer-wrong{border-color:#ef4444;background:#fee2e2}
   </style>
 </head>
 <body>
@@ -547,6 +608,12 @@ const state = {
   }
 };
 
+// Exercise State - tracks exercise instances
+const exerciseState = {
+  instances: {}, // {exId: {source, count, exercises, currentQ, answers}}
+  counter: 0
+};
+
 // Timer Service
 const timerService = {
   timers: new Map(),
@@ -706,6 +773,24 @@ function delay(ms) {
   return new Promise(r => setTimeout(r, ms));
 }
 
+// Resolve relative paths (handles ../ segments)
+function resolveRelativePath(basePath, relativePath) {
+  // Split paths into segments
+  const baseSegments = basePath.split('/').filter(s => s);
+  const relativeSegments = relativePath.split('/');
+
+  // Process relative path segments
+  for (const segment of relativeSegments) {
+    if (segment === '..') {
+      baseSegments.pop(); // Go up one directory
+    } else if (segment !== '.' && segment !== '') {
+      baseSegments.push(segment);
+    }
+  }
+
+  return baseSegments.join('/');
+}
+
 // ============ PARSER ============
 function parseLesson(md) {
   const titleMatch = md.match(/^#\s+(.+)$/m);
@@ -853,6 +938,21 @@ function renderContent(md, chunkIndex) {
   h = h.replace(/<explanation>([\s\S]*?)<\/explanation>/gi, (_, c) =>
     placeholder(`<div class="card" data-testid="explanation">${renderMD(c)}</div>`));
 
+  // Exercise tag - interactive exercise from JSON
+  h = h.replace(/<exercise([^>]*)>([\s\S]*?)<\/exercise>/gi, (_, attrs, content) => {
+    const source = (attrs.match(/data-source="([^"]+)"/) || [])[1] || '';
+    const count = (attrs.match(/data-count="(\d+)"/) || [])[1] || '10';
+    const exId = `ex-${exerciseState.counter++}`;
+    exerciseState.instances[exId] = {
+      source,
+      count: parseInt(count),
+      exercises: [],
+      currentQ: 0,
+      answers: []
+    };
+    return placeholder(buildExerciseContainer(exId, content.trim(), source, count));
+  });
+
   // Render remaining markdown (headings outside tags)
   let result = renderMD(h);
 
@@ -991,6 +1091,116 @@ function buildVocabHTML(id, words) {
     </div>
   </div>
 </div>`;
+}
+
+// ============ EXERCISE SYSTEM ============
+// Uses the comprehensive game engine from tieu-hoc via iframe modal
+
+function buildExerciseContainer(id, content, source, count) {
+  return `
+<div class="exercise-container" id="${id}" data-testid="exercise-${id}">
+  <div class="exercise-start" id="${id}-start" data-testid="exercise-start-${id}">
+    <div class="exercise-start-icon">📝</div>
+    <div class="exercise-start-title">${content || 'Bài tập thực hành'}</div>
+    <div class="exercise-start-desc">Bài tập tương tác đa dạng</div>
+    <button class="exercise-start-btn" data-testid="exercise-start-btn-${id}" onclick="window.__voiceLecture.startExercise('${id}')">Bắt đầu làm bài</button>
+  </div>
+</div>`;
+}
+
+function startExercise(id) {
+  const inst = exerciseState.instances[id];
+  if (!inst) return;
+
+  // Resolve the JSON URL
+  let jsonUrl = inst.source;
+  if (CONFIG.contentUrl && !inst.source.startsWith('http')) {
+    const basePath = CONFIG.contentUrl.substring(0, CONFIG.contentUrl.lastIndexOf('/'));
+    jsonUrl = resolveRelativePath(basePath, inst.source);
+  }
+
+  // Build game wrapper URL
+  const gameWrapperUrl = 'tieu-hoc/pages/game-wrapper.html?embedded=true&data=' + encodeURIComponent(jsonUrl);
+
+  eventBus.emit('exercise:start', { id, source: jsonUrl });
+
+  // Open exercise modal
+  openExerciseModal(id, gameWrapperUrl);
+}
+
+// Exercise modal management
+function openExerciseModal(id, url) {
+  // Create modal overlay
+  const modal = document.createElement('div');
+  modal.id = 'exercise-modal';
+  modal.className = 'exercise-modal';
+  modal.innerHTML = `
+    <div class="exercise-modal-content">
+      <iframe src="${url}" id="exercise-iframe" class="exercise-iframe"></iframe>
+    </div>
+  `;
+  document.body.appendChild(modal);
+  document.body.style.overflow = 'hidden';
+
+  // Store current exercise ID
+  exerciseState.currentModalId = id;
+
+  // Listen for messages from iframe
+  window.addEventListener('message', handleExerciseMessage);
+
+  eventBus.emit('exercise:modal:open', { id, url });
+}
+
+function handleExerciseMessage(event) {
+  if (event.data.type === 'exercise-close') {
+    closeExerciseModal(false);
+  } else if (event.data.type === 'exercise-complete') {
+    const results = event.data.results;
+    eventBus.emit('exercise:complete', {
+      id: exerciseState.currentModalId,
+      ...results
+    });
+    closeExerciseModal(true, results);
+  }
+}
+
+function closeExerciseModal(completed, results) {
+  const modal = document.getElementById('exercise-modal');
+  if (modal) {
+    modal.remove();
+    document.body.style.overflow = '';
+  }
+
+  window.removeEventListener('message', handleExerciseMessage);
+
+  const id = exerciseState.currentModalId;
+
+  // Mark exercise as completed if finished
+  if (completed && id) {
+    const exEl = document.getElementById(id);
+    if (exEl) {
+      exEl.classList.add('exercise-completed');
+      const startEl = document.getElementById(`${id}-start`);
+      if (startEl) {
+        const pct = results?.percentage || 0;
+        startEl.innerHTML = `
+          <div class="exercise-start-icon">✅</div>
+          <div class="exercise-start-title">Hoàn thành!</div>
+          <div class="exercise-start-desc">${results?.correctAnswers || 0}/${results?.totalQuestions || 0} câu đúng (${pct}%)</div>
+          <button class="exercise-start-btn secondary" onclick="window.__voiceLecture.startExercise('${id}')">Làm lại</button>
+        `;
+      }
+    }
+
+    // Resume lecture flow
+    setTimeout(() => {
+      state.setState('idle');
+      playNextTS();
+    }, 500);
+  }
+
+  exerciseState.currentModalId = null;
+  eventBus.emit('exercise:modal:close', { id, completed });
 }
 
 // ============ UI UPDATES ============
@@ -1686,6 +1896,11 @@ window.__voiceLecture = {
   finishVocab,
   skipVocab,
 
+  // Exercise (uses iframe modal with tieu-hoc game engine)
+  startExercise,
+  closeExerciseModal,
+  getExerciseState: () => exerciseState,
+
   // NPC
   npcContinue: () => {
     if (state.getState() === 'npc_waiting') {
@@ -1709,10 +1924,44 @@ window.__voiceLecture = {
   // Event bus direct access
   on: (event, cb) => eventBus.on(event, cb),
   emit: (event, data) => eventBus.emit(event, data),
+
+  // Keyboard navigation
+  handleSkipKey,
 };
 
+// ============ KEYBOARD NAVIGATION ============
+function setupKeyboardNav() {
+  document.addEventListener('keydown', (e) => {
+    if (e.key !== 'ArrowRight') return;
+    e.preventDefault();
+    handleSkipKey();
+  });
+}
+
+function handleSkipKey() {
+  // Try to click visible skip/continue buttons in priority order
+  const selectors = [
+    '#skip-speaking-btn',                      // Skip TTS
+    '[data-testid="speech-continue-btn"]',     // NPC continue
+    '.timer-skip',                             // Skip timer
+    '.vocab-skip-btn',                         // Skip vocab
+    '#main-nav-btn[data-ready="true"]',        // Main nav (next chunk / start)
+  ];
+
+  for (const sel of selectors) {
+    const btn = document.querySelector(sel);
+    if (btn && btn.offsetParent !== null) {
+      btn.click();
+      return;
+    }
+  }
+}
+
 // Start
-document.addEventListener('DOMContentLoaded', load);
+document.addEventListener('DOMContentLoaded', () => {
+  setupKeyboardNav();
+  load();
+});
 </script>
 </body>
 </html>

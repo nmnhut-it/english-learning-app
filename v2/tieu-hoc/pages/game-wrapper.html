@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bài tập ngữ pháp</title>
+
+  <!-- Shared Styles -->
+  <link rel="stylesheet" href="../css/shared.css">
+  <style>
+    /* Compact header for embedded mode */
+    .game-header { padding: 12px 0; }
+    .game-header__title { font-size: 1.1rem; margin-bottom: 4px; }
+    .game-header__subtitle { font-size: 0.85rem; }
+    .game-header__stats { gap: 16px; }
+    .stat { padding: 8px 12px; }
+    .stat__value { font-size: 1rem; }
+
+    /* Close button for embedded mode */
+    .close-btn {
+      position: fixed;
+      top: 10px;
+      right: 10px;
+      z-index: 1000;
+      background: #ef4444;
+      color: white;
+      border: none;
+      border-radius: 50%;
+      width: 36px;
+      height: 36px;
+      font-size: 1.2rem;
+      cursor: pointer;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+    }
+    .close-btn:hover { background: #dc2626; }
+
+    /* Loading state */
+    .loading-container {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      min-height: 300px;
+      gap: 16px;
+    }
+    .loading-spinner {
+      width: 48px;
+      height: 48px;
+      border: 4px solid #e2e8f0;
+      border-top-color: #8b5cf6;
+      border-radius: 50%;
+      animation: spin 1s linear infinite;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+  </style>
+</head>
+<body>
+  <!-- Close button (for iframe/modal mode) -->
+  <button class="close-btn" id="close-btn" onclick="closeGame()" title="Đóng">×</button>
+
+  <!-- Game Header -->
+  <header class="game-header">
+    <div class="container">
+      <div class="game-header__container">
+        <div class="game-header__info-section">
+          <h1 class="game-header__title" id="game-title">Bài tập thực hành</h1>
+          <p class="game-header__subtitle" id="game-subtitle">Ngữ pháp tiếng Anh</p>
+        </div>
+
+        <div class="game-header__stats">
+          <div class="stat">
+            <span class="stat__label">Điểm</span>
+            <span class="stat__value stat__value--primary" id="current-score">⭐ 0</span>
+          </div>
+          <div class="stat">
+            <span class="stat__label">Tiến độ</span>
+            <span class="stat__value" id="progress-count">0 / 0</span>
+          </div>
+          <div class="stat" id="combo-display" style="display: none;">
+            <span class="stat__label">Combo</span>
+            <span class="stat__value" id="combo-count">0</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Progress Bar -->
+      <div class="progress">
+        <div class="progress__bar" id="progress-bar" style="width: 0%;"></div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Content -->
+  <main class="container">
+    <div id="exercise-container" class="exercise-container">
+      <div class="loading-container">
+        <div class="loading-spinner"></div>
+        <div>Đang tải bài tập...</div>
+      </div>
+    </div>
+  </main>
+
+  <!-- Core JavaScript -->
+  <script src="../js/core/utils.js"></script>
+  <script src="../js/core/storage.js"></script>
+  <script src="../js/core/telegram-sender.js"></script>
+  <script src="../js/core/game-engine.js"></script>
+
+  <!-- All Exercise Type Handlers -->
+  <script src="../js/exercises/multiple-choice.js"></script>
+  <script src="../js/exercises/word-rearrange.js"></script>
+  <script src="../js/exercises/fill-blank.js"></script>
+  <script src="../js/exercises/fill-blank-table.js"></script>
+  <script src="../js/exercises/fill-blank-mixed.js"></script>
+  <script src="../js/exercises/vocabulary-match.js"></script>
+  <script src="../js/exercises/dialogue-complete.js"></script>
+  <script src="../js/exercises/sentence-build.js"></script>
+  <script src="../js/exercises/sentence-rewrite.js"></script>
+  <script src="../js/exercises/error-correct.js"></script>
+  <script src="../js/exercises/sequence-order.js"></script>
+  <script src="../js/exercises/listening.js"></script>
+  <script src="../js/exercises/reading-comprehension.js"></script>
+  <script src="../js/exercises/translation.js"></script>
+  <script src="../js/exercises/open-ended.js"></script>
+
+  <script>
+    // Get data URL from query params
+    const params = new URLSearchParams(window.location.search);
+    const dataUrl = params.get('data');
+    const embedded = params.get('embedded') === 'true';
+
+    // Hide close button if not embedded
+    if (!embedded) {
+      document.getElementById('close-btn').style.display = 'none';
+    }
+
+    // Close game function (for embedded mode)
+    function closeGame() {
+      if (window.parent && window.parent !== window) {
+        // In iframe - send message to parent
+        window.parent.postMessage({ type: 'exercise-close' }, '*');
+      } else {
+        // Not in iframe - go back or close
+        window.history.back();
+      }
+    }
+
+    // Notify parent of completion
+    function notifyCompletion(results) {
+      if (window.parent && window.parent !== window) {
+        window.parent.postMessage({
+          type: 'exercise-complete',
+          results: results
+        }, '*');
+      }
+    }
+
+    // Combo display logic
+    function updateComboDisplay() {
+      const comboDisplay = document.getElementById('combo-display');
+      const comboCount = document.getElementById('combo-count');
+      const state = GameEngine.getState();
+
+      if (state.comboCount >= 3) {
+        comboDisplay.style.display = 'flex';
+        comboCount.textContent = state.comboCount + 'x';
+      } else {
+        comboDisplay.style.display = 'none';
+      }
+    }
+
+    // Override GameEngine methods for embedded mode
+    const originalUpdateUI = GameEngine.updateUI.bind(GameEngine);
+    GameEngine.updateUI = function() {
+      originalUpdateUI();
+      updateComboDisplay();
+    };
+
+    const originalCompleteGame = GameEngine.completeGame.bind(GameEngine);
+    GameEngine.completeGame = function() {
+      originalCompleteGame();
+
+      // Notify parent of completion
+      const state = this.getState();
+      notifyCompletion({
+        score: state.score,
+        correctAnswers: state.correctAnswers,
+        totalQuestions: state.totalQuestions,
+        percentage: Math.round((state.correctAnswers / state.totalQuestions) * 100)
+      });
+    };
+
+    // Load and start game
+    async function loadAndStartGame() {
+      if (!dataUrl) {
+        document.getElementById('exercise-container').innerHTML = `
+          <div class="card">
+            <h2 style="color: var(--danger);">Lỗi</h2>
+            <p>Không tìm thấy URL dữ liệu bài tập.</p>
+          </div>
+        `;
+        return;
+      }
+
+      // Normalize path: relative paths need /v2/ prefix for absolute resolution
+      let fetchUrl = dataUrl;
+      if (!dataUrl.startsWith('/') && !dataUrl.startsWith('http')) {
+        fetchUrl = '/v2/' + dataUrl;
+      }
+
+      try {
+        const response = await fetch(fetchUrl);
+        if (!response.ok) {
+          throw new Error(`HTTP ${response.status}`);
+        }
+
+        const unitData = await response.json();
+
+        // Update header with unit info
+        if (unitData.title) {
+          document.getElementById('game-title').textContent = unitData.title;
+        }
+        if (unitData.grammarTopics && unitData.grammarTopics.length > 0) {
+          document.getElementById('game-subtitle').textContent = unitData.grammarTopics.join(', ');
+        }
+
+        // Extract unit ID from URL
+        const unitId = dataUrl.split('/').pop().replace('.json', '');
+
+        console.log('Loaded unit data:', unitData.title, 'with', unitData.exercises?.length, 'exercises');
+        console.log('Registered handlers:', Object.keys(GameEngine.exerciseHandlers));
+
+        GameEngine.init(unitData, unitId);
+
+      } catch (error) {
+        console.error('Error loading game:', error);
+        document.getElementById('exercise-container').innerHTML = `
+          <div class="card">
+            <h2 style="color: var(--danger);">Lỗi tải bài tập</h2>
+            <p>Không thể tải dữ liệu bài tập.</p>
+            <p style="font-size: 0.85rem; color: #64748b;">URL: ${fetchUrl}</p>
+            <p style="font-size: 0.85rem; color: #64748b;">Lỗi: ${error.message}</p>
+            <button class="btn btn--primary mt-2" onclick="location.reload()">Thử lại</button>
+          </div>
+        `;
+      }
+    }
+
+    // Start when DOM ready
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', loadAndStartGame);
+    } else {
+      loadAndStartGame();
+    }
+  </script>
+</body>
+</html>

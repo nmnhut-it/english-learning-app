@@ -290,3 +290,18 @@ Học mấy câu này để làm bài tập nha!
 <teacher_script pause="0">
 Ok xong bài câu bị động quá khứ đơn rồi nha! Nhớ công thức: S + was/were + V3. Số ít dùng was, số nhiều dùng were. Câu hỏi thì đảo was/were lên trước. Hỏi WHO thì nhớ thêm BY ở cuối. V3 có quy tắc thêm ed, bất quy tắc thì học thuộc. Ôn lại rồi làm bài tập hen!
 </teacher_script>
+
+---
+
+<!-- chunk: exercise_practice -->
+<teacher_script pause="0">
+Giờ làm bài tập thực hành nha! Bấm nút bên dưới để bắt đầu làm bài.
+</teacher_script>
+
+<exercise data-source="../../../tieu-hoc/data/unit-12-famous-inventions.json">
+**Bài tập thực hành:** Câu bị động - Quá khứ đơn (Passive Voice - Past Simple)
+</exercise>
+
+<teacher_script pause="0">
+Làm xong bài tập thì kiểm tra kết quả nha. Nhớ xem lại những câu sai để hiểu tại sao.
+</teacher_script>

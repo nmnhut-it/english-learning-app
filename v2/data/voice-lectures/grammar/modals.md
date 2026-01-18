@@ -1,7 +1,7 @@
 # GRAMMAR: MODALS - May, Might, Could & Have To
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_abb2d6df.mp3">
 Hôm nay mình học về modal verbs nha, là những động từ đặc biệt. Có 2 nhóm: May, might, could để nói về khả năng, có thể xảy ra. Và have to để nói về sự bắt buộc, phải làm. Bắt đầu học thôi nha!
 </teacher_script>
 
@@ -22,7 +22,7 @@ Diễn tả khả năng, điều có thể xảy ra (không chắc chắn 100%)
 **Lưu ý:** Ba từ này có nghĩa giống nhau khi nói về khả năng!
 </grammar>
 
-<teacher_script pause="90">
+<teacher_script pause="90" href="audio/tts_01fde1d9.mp3">
 May, might, could đều dùng để nói CÓ THỂ nha. Khi mình không chắc chắn 100% mà chỉ nghĩ là có thể xảy ra thì dùng mấy từ này.
 
 Ví dụ: Anh ấy có thể thắng. He MIGHT win. Mình không chắc chắn anh ấy sẽ thắng, nhưng có khả năng.
@@ -53,7 +53,7 @@ May, might, could đều nghĩa giống nhau nha, dùng cái nào cũng được
 - They **may not** come to the party. *(Họ có thể không đến)*
 </grammar>
 
-<teacher_script pause="120">
+<teacher_script pause="120" href="audio/tts_09ac50ff.mp3">
 Cấu trúc đơn giản lắm nha. Chủ ngữ + may/might/could + động từ nguyên mẫu. Động từ nguyên mẫu là động từ không chia, giữ nguyên.
 
 He MIGHT WIN. Không phải might wins hay might to win. Sau might là động từ nguyên mẫu WIN.
@@ -85,7 +85,7 @@ Diễn tả sự bắt buộc, cần thiết, phải làm.
 Em phải mặc đồng phục đi học. Em phải làm bài tập về nhà.
 </grammar>
 
-<teacher_script pause="90">
+<teacher_script pause="90" href="audio/tts_9114b892.mp3">
 Have to nghĩa là PHẢI nha. Bắt buộc phải làm, không có lựa chọn.
 
 Ví dụ: Tôi phải học chăm. I HAVE TO study hard. Bắt buộc phải học, không học thì rớt.
@@ -120,7 +120,7 @@ Chú ý: HE, SHE, IT dùng HAS TO, không phải have to. Các ngôi khác dùng
 - S + **didn't have to** + base verb
 </grammar>
 
-<teacher_script pause="120">
+<teacher_script pause="120" href="audio/tts_5a6f78b4.mp3">
 Cấu trúc have to nha. I, you, we, they dùng HAVE TO. He, she, it dùng HAS TO.
 
 I HAVE TO study. Tôi phải học.
@@ -252,4 +252,19 @@ Nhưng sau do/does/did thì dùng HAVE TO. Does she HAVE TO? Không phải does 
 
 <teacher_script pause="0">
 Ok xong bài rồi nha! May, might, could là khả năng - có thể xảy ra. Have to là bắt buộc - phải làm. Don't have to là không cần - tùy ý. Mustn't là cấm - tuyệt đối không. Nhớ: modal verbs không thêm s, không có to. Ôn lại rồi làm bài tập hen!
+</teacher_script>
+
+---
+
+<!-- chunk: exercise_practice -->
+<teacher_script pause="0">
+Giờ làm bài tập thực hành nha! Bấm nút bên dưới để bắt đầu làm bài.
+</teacher_script>
+
+<exercise data-source="../../../tieu-hoc/data/unit-9-possibilities.json">
+**Bài tập thực hành:** Động từ khuyết thiếu - May, Might, Could & Have to (Modals)
+</exercise>
+
+<teacher_script pause="0">
+Làm xong bài tập thì kiểm tra kết quả nha. Nhớ xem lại những câu sai để hiểu tại sao.
 </teacher_script>

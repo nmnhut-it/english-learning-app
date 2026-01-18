@@ -301,3 +301,18 @@ Ghi nhớ mấy lỗi này nha!
 <teacher_script pause="0">
 Ok xong bài so sánh rồi nha! Nhớ mấy điểm quan trọng: Tính từ ngắn thêm ER và EST. Tính từ dài dùng MORE và MOST. Bất quy tắc phải học thuộc. So sánh nhất phải có THE. As...as giữ nguyên tính từ. TOO trước, ENOUGH sau. Học thuộc bảng này rồi làm bài tập hen!
 </teacher_script>
+
+---
+
+<!-- chunk: exercise_practice -->
+<teacher_script pause="0">
+Giờ làm bài tập thực hành nha! Bấm nút bên dưới để bắt đầu làm bài.
+</teacher_script>
+
+<exercise data-source="../../../tieu-hoc/data/unit-3-carnival.json">
+**Bài tập thực hành:** So sánh hơn và so sánh nhất (Comparative & Superlative)
+</exercise>
+
+<teacher_script pause="0">
+Làm xong bài tập thì kiểm tra kết quả nha. Nhớ xem lại những câu sai để hiểu tại sao.
+</teacher_script>

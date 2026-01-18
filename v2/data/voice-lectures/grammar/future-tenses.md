@@ -238,6 +238,25 @@ Giờ xem mấy lỗi hay sai nha để tránh. Lỗi 1: Thiếu am/is/are. Khô
 - Thấy "Look!", có kế hoạch → BE GOING TO
 </grammar>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_955ba7cb.mp3">
 Ok xong bài tương lai rồi! Nhớ 2 cách nói: WILL và BE GOING TO. WILL dùng khi đoán, quyết định ngay, hứa. BE GOING TO dùng khi đã có kế hoạch hoặc thấy bằng chứng. Thấy "I think" thì dùng WILL. Thấy "Look!" hoặc đã lên kế hoạch thì dùng BE GOING TO. Ôn lại rồi làm bài tập hen!
+</teacher_script>
+
+---
+
+<!-- chunk: exercise_practice -->
+<teacher_script pause="0" href="audio/tts_a55b37e3.mp3">
+Giờ làm bài tập thực hành nha! Bấm nút bên dưới để bắt đầu làm bài.
+</teacher_script>
+
+<exercise data-source="../../../tieu-hoc/data/unit-5-environment.json">
+**Bài tập thực hành:** Thì tương lai - Will và Be going to (Future Tenses)
+</exercise>
+
+<exercise data-source="../../../tieu-hoc/data/unit-6-day-trip.json">
+**Bài tập thực hành:** Be going to - Kế hoạch và dự đoán
+</exercise>
+
+<teacher_script pause="0" href="audio/tts_48cb533b.mp3">
+Làm xong bài tập thì kiểm tra kết quả nha. Nhớ xem lại những câu sai để hiểu tại sao.
 </teacher_script>

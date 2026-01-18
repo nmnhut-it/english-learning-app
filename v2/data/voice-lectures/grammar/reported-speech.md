@@ -261,6 +261,21 @@ Thấy chưa? Làm từng bước thì dễ lắm!
 | Đổi thời gian: today→that day, here→there | He said he was busy **that day**. |
 </grammar>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_aa9c5b22.mp3">
 Ok xong bài câu tường thuật rồi nha! Nhớ 3 bước: chọn said hay told, lùi thì, đổi đại từ và từ chỉ thời gian. Quan trọng nhất là nhớ: SAID không có người, TOLD có người. Và lùi thì: is thành was, can thành could, will thành would. Ôn lại rồi làm bài tập hen!
+</teacher_script>
+
+---
+
+<!-- chunk: exercise_practice -->
+<teacher_script pause="0" href="audio/tts_a55b37e3.mp3">
+Giờ làm bài tập thực hành nha! Bấm nút bên dưới để bắt đầu làm bài.
+</teacher_script>
+
+<exercise data-source="../../../tieu-hoc/data/unit-7-first-aid.json">
+**Bài tập thực hành:** Câu tường thuật (Reported Speech)
+</exercise>
+
+<teacher_script pause="0">
+Làm xong bài tập thì kiểm tra kết quả nha. Nhớ xem lại những câu sai để hiểu tại sao.
 </teacher_script>

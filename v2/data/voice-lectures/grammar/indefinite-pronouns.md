@@ -1,7 +1,7 @@
 # GRAMMAR: INDEFINITE PRONOUNS & QUESTION TAGS
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_ce246f11.mp3">
 Hôm nay mình học 2 phần nha. Phần 1 là những từ như someone, anyone, nothing, everyone - gọi là đại từ bất định. Phần 2 là câu hỏi đuôi - giống như tiếng Việt mình nói "phải không?". Bắt đầu thôi nha!
 </teacher_script>
 
@@ -20,7 +20,7 @@ Khi bạn nói **"Có AI ĐÓ gõ cửa"** nhưng không biết là ai → dùng
 - **EVERY** = mọi người / mọi thứ / mọi nơi
 </grammar>
 
-<teacher_script pause="120">
+<teacher_script pause="120" href="audio/tts_ef726ac5.mp3">
 Đại từ bất định là những từ mình dùng khi không biết chính xác là AI, là CÁI GÌ, hay ở ĐÂU.
 
 Tiếng Việt mình nói: "Có ai đó gọi cửa" - mình không biết ai gọi. Hoặc: "Có cái gì đó trong túi" - mình không biết cái gì. Tiếng Anh cũng có những từ tương tự.
@@ -45,7 +45,7 @@ Có 4 nhóm từ, mỗi nhóm bắt đầu bằng 1 chữ khác nhau: SOME, ANY,
 **Mẹo:** SOME = CÓ → Câu nói "CÓ" thì dùng SOME!
 </grammar>
 
-<teacher_script pause="150">
+<teacher_script pause="150" href="audio/tts_1128006d.mp3">
 Nhóm 1 là những từ bắt đầu bằng SOME nha. SOME nghĩa là CÓ, AI ĐÓ, CÁI GÌ ĐÓ.
 
 SOMEONE hoặc SOMEBODY nghĩa là AI ĐÓ, chỉ người. Ví dụ: SOMEONE is calling you - Ai đó đang gọi bạn. Mình không biết ai gọi nhưng CÓ người gọi.
@@ -74,7 +74,7 @@ Mẹo nhớ nè: Thấy câu nói "CÓ" bình thường, không hỏi không ph�
 **Mẹo:** Thấy dấu HỎI (?) hoặc từ KHÔNG → dùng ANY!
 </grammar>
 
-<teacher_script pause="150">
+<teacher_script pause="150" href="audio/tts_14b08307.mp3">
 Nhóm 2 là những từ bắt đầu bằng ANY nha. ANY dùng khi HỎI hoặc khi nói KHÔNG.
 
 ANYONE hoặc ANYBODY nghĩa là AI, bất kỳ ai. Dùng trong câu hỏi: Is ANYONE home? - Có ai ở nhà không? Hoặc câu phủ định: I don't know ANYONE here - Tôi không biết ai ở đây.
@@ -105,7 +105,7 @@ Mẹo siêu dễ: Thấy dấu CHẤM HỎI hoặc thấy chữ KHÔNG (don't, c
 - ✅ ĐÚNG: I don't have anything HOẶC I have nothing
 </grammar>
 
-<teacher_script pause="180">
+<teacher_script pause="180" href="audio/tts_ffbb5065.mp3">
 Nhóm 3 là những từ bắt đầu bằng NO nha. NO nghĩa là KHÔNG. Nhóm này dùng để nhấn mạnh là KHÔNG có gì hết, KHÔNG có ai hết.
 
 NOBODY hoặc NO ONE nghĩa là KHÔNG AI. Ví dụ: NOBODY came to the party - Không ai đến bữa tiệc. Không một người nào hết.
@@ -140,7 +140,7 @@ Nhớ kỹ nha, lỗi này rất phổ biến!
 **Lưu ý quan trọng:** Everyone + IS (không dùng ARE) vì coi như số ít!
 </grammar>
 
-<teacher_script pause="150">
+<teacher_script pause="150" href="audio/tts_073eb148.mp3">
 Nhóm 4 là những từ bắt đầu bằng EVERY nha. EVERY nghĩa là MỌI, TẤT CẢ.
 
 EVERYONE hoặc EVERYBODY nghĩa là MỌI NGƯỜI. Ví dụ: EVERYONE loves ice cream - Mọi người đều yêu kem. Tất cả mọi người luôn!
@@ -168,7 +168,7 @@ Ghi nhớ: EVERY + IS. Không phải EVERY + ARE!
 | 🌟 Tất cả | **everyone** | **everything** | **everywhere** |
 </grammar>
 
-<teacher_script pause="90">
+<teacher_script pause="90" href="audio/tts_dfdf2f03.mp3">
 Xem bảng tổng kết nha. Câu thường bình thường dùng SOME: someone, something, somewhere. Câu hỏi hoặc phủ định dùng ANY: anyone, anything, anywhere. Muốn nhấn mạnh không có gì dùng NO: no one, nothing, nowhere. Nói về tất cả dùng EVERY: everyone, everything, everywhere.
 
 Ghi bảng này vô tập, sau này làm bài tra cho nhanh nha!
@@ -188,7 +188,7 @@ Giống như tiếng Việt nói: "Hôm nay trời đẹp, **PHẢI KHÔNG?**"
 Thêm câu hỏi ngắn vào cuối câu để xác nhận.
 </grammar>
 
-<teacher_script pause="90">
+<teacher_script pause="90" href="audio/tts_3200eea3.mp3">
 Giờ học phần 2 là câu hỏi đuôi nha. Câu hỏi đuôi tiếng Anh gọi là Question Tags.
 
 Tiếng Việt mình hay nói: "Hôm nay trời đẹp, PHẢI KHÔNG?" hoặc "Bạn thích kem, ĐÚNG KHÔNG?" Phần "phải không", "đúng không" ở cuối câu đó gọi là câu hỏi đuôi.
@@ -214,7 +214,7 @@ Nhưng tiếng Anh có quy tắc riêng. Học quy tắc nha!
 | You aren't sad **(KHÔNG buồn)** | are you? **(CÓ phải?)** |
 </grammar>
 
-<teacher_script pause="150">
+<teacher_script pause="150" href="audio/tts_d88017d4.mp3">
 Đây là quy tắc quan trọng nhất nha, gọi là QUY TẮC VÀNG. Nghe kỹ: CÓ thì hỏi KHÔNG, KHÔNG thì hỏi CÓ.
 
 Nếu câu đầu là câu khẳng định, nói CÓ, thì câu đuôi phải là phủ định, hỏi KHÔNG. Ví dụ: You are happy - bạn vui (CÓ vui). Câu đuôi là: AREN'T you? - không phải sao?
@@ -241,7 +241,7 @@ Ghi nhớ: CÓ → KHÔNG? và KHÔNG → CÓ? Đối ngược nhau!
 **Trường hợp đặc biệt:** I am → **aren't I?** (ghi nhớ riêng!)
 </grammar>
 
-<teacher_script pause="150">
+<teacher_script pause="150" href="audio/tts_4cb817fe.mp3">
 Với động từ TO BE là am, is, are, was, were thì làm như sau: lấy động từ BE ra, rồi đảo ngược có thành không, không thành có.
 
 She IS tall, isn't she? IS là có, đổi thành ISN'T là không. Cô ấy cao, phải không?
@@ -273,7 +273,7 @@ Có một trường hợp đặc biệt phải nhớ nè: I AM thì câu đuôi 
 - Quá khứ → didn't
 </grammar>
 
-<teacher_script pause="180">
+<teacher_script pause="180" href="audio/tts_c5e100e4.mp3">
 Với động từ thường như play, eat, like, go thì phải dùng trợ động từ DO, DOES hoặc DID nha.
 
 You like candy, DON'T you? Bạn thích kẹo, phải không? Câu chính không có trợ động từ, câu đuôi phải thêm DON'T.
@@ -302,7 +302,7 @@ Nhớ chia cho đúng nha: He, she, it dùng DOESN'T và DOES. I, you, we, they 
 - He **can't** drive → **can** he? *(Anh ấy không biết lái xe, có phải không?)*
 </grammar>
 
-<teacher_script pause="120">
+<teacher_script pause="120" href="audio/tts_14febd8a.mp3">
 Với modal verbs như can, will, should, must thì dễ lắm. Cứ lấy modal verb ra, rồi đảo ngược có thành không, không thành có.
 
 You CAN swim, CAN'T you? CAN đổi thành CAN'T. Bạn biết bơi, phải không?
@@ -331,7 +331,7 @@ Dễ không? Cứ đảo ngược thôi!
 | Tom and Lan are friends, aren't **they**? | ...aren't **Tom and Lan**? |
 </grammar>
 
-<teacher_script pause="90">
+<teacher_script pause="90" href="audio/tts_3ed88920.mp3">
 Có một lưu ý quan trọng nè. Trong câu đuôi phải dùng ĐẠI TỪ như he, she, it, they. KHÔNG được dùng tên người!
 
 ĐÚNG: Tom is tall, isn't HE? Dùng HE thay cho Tom.
@@ -363,6 +363,21 @@ Nhớ nha: Câu đuôi luôn dùng đại từ!
 - Luôn dùng đại từ trong câu đuôi (he/she/it/they)
 </grammar>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_735f8fa3.mp3">
 Ok xong bài rồi nha! Phần 1: Nhớ SOME dùng câu thường, ANY dùng câu hỏi và phủ định, NO dùng khi nhấn mạnh không có, EVERY là tất cả. Phần 2: Câu hỏi đuôi nhớ quy tắc CÓ thì hỏi KHÔNG, KHÔNG thì hỏi CÓ. Và câu đuôi luôn dùng đại từ! Ôn lại rồi làm bài tập hen!
+</teacher_script>
+
+---
+
+<!-- chunk: exercise_practice -->
+<teacher_script pause="0" href="audio/tts_a55b37e3.mp3">
+Giờ làm bài tập thực hành nha! Bấm nút bên dưới để bắt đầu làm bài.
+</teacher_script>
+
+<exercise data-source="../../../tieu-hoc/data/unit-10-indefinite-pronouns.json">
+**Bài tập thực hành:** Đại từ bất định và Câu hỏi đuôi (Indefinite Pronouns & Question Tags)
+</exercise>
+
+<teacher_script pause="0" href="audio/tts_48cb533b.mp3">
+Làm xong bài tập thì kiểm tra kết quả nha. Nhớ xem lại những câu sai để hiểu tại sao.
 </teacher_script>

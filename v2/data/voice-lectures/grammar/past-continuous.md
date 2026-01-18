@@ -254,3 +254,18 @@ Mẹo nhớ nè: Khi câu đã có trợ động từ Did hoặc didn't rồi th
 <teacher_script pause="0" href="audio/tts_87722b15.mp3">
 Ok xong bài rồi nha! Nhớ 2 cấu trúc: Past Continuous là was/were + V-ing, dùng khi nói đang làm gì trong quá khứ. Used to là used to + V nguyên mẫu, dùng khi nói thói quen ngày xưa không còn nữa. Nhớ: khẳng định useD to có D, phủ định và câu hỏi use to không D. Ôn lại rồi làm bài tập hen!
 </teacher_script>
+
+---
+
+<!-- chunk: exercise_practice -->
+<teacher_script pause="0" href="audio/tts_a55b37e3.mp3">
+Giờ làm bài tập thực hành nha! Bấm nút bên dưới để bắt đầu làm bài.
+</teacher_script>
+
+<exercise data-source="../../../tieu-hoc/data/unit-4-world-around-us.json">
+**Bài tập thực hành:** Quá khứ tiếp diễn và Used to (Past Continuous & Used to)
+</exercise>
+
+<teacher_script pause="0" href="audio/tts_48cb533b.mp3">
+Làm xong bài tập thì kiểm tra kết quả nha. Nhớ xem lại những câu sai để hiểu tại sao.
+</teacher_script>

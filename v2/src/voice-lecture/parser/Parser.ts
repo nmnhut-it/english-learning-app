@@ -323,7 +323,7 @@ export function renderTables(markdown: string): string {
 export const CUSTOM_TAGS = [
   'vocabulary', 'teacher_script', 'dialogue', 'reading', 'translation',
   'grammar', 'task', 'questions', 'answer', 'explanation',
-  'pronunciation_theory', 'audio', 'content_table',
+  'pronunciation_theory', 'audio', 'content_table', 'exercise',
 ];
 
 /**
@@ -371,6 +371,15 @@ export function renderFullContent(
       return `<div class="${tagClass}"
         data-question-type="${questionsConfig.type}"
         ${questionsConfig.feedback ? `data-feedback="${questionsConfig.feedback}"` : ''}>\n${renderMarkdown(inner)}\n</div>`;
+    }
+
+    // Special handling for exercise tag to parse data-source and data-count
+    if (tag === 'exercise') {
+      const sourceMatch = attrs.match(/data-source="([^"]+)"/);
+      const countMatch = attrs.match(/data-count="(\d+)"/);
+      const source = sourceMatch ? sourceMatch[1] : '';
+      const count = countMatch ? countMatch[1] : '10';
+      return `<div class="${tagClass}" data-source="${source}" data-count="${count}">\n${renderMarkdown(inner)}\n</div>`;
     }
 
     return `<div class="${tagClass}"${attrs}>\n${renderMarkdown(inner)}\n</div>`;

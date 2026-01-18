@@ -226,3 +226,18 @@ Có thể đảo thứ tự: I will stay home IF it rains. Vẫn đúng, chỉ k
 <teacher_script pause="0">
 Ok xong bài câu điều kiện loại 1 rồi nha! Nhớ công thức: If + hiện tại đơn, will + động từ. Quan trọng nhất là: VẾ IF KHÔNG DÙNG WILL! Vế if dùng hiện tại đơn, dù đang nói về tương lai. If it rains, không phải if it will rain. Nhớ kỹ rồi làm bài tập hen!
 </teacher_script>
+
+---
+
+<!-- chunk: exercise_practice -->
+<teacher_script pause="0">
+Giờ làm bài tập thực hành nha! Bấm nút bên dưới để bắt đầu làm bài.
+</teacher_script>
+
+<exercise data-source="../../../tieu-hoc/data/unit-8-our-favourite-food.json">
+**Bài tập thực hành:** Câu điều kiện loại 1 (First Conditional)
+</exercise>
+
+<teacher_script pause="0">
+Làm xong bài tập thì kiểm tra kết quả nha. Nhớ xem lại những câu sai để hiểu tại sao.
+</teacher_script>
