@@ -34,8 +34,22 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 
 <reading>
 **Con Dao National Park**
-In Viet Nam, there are now 34 national parks. **Con Dao National Park** is one of them. It contains 16 small islands covering 20,000 hectares. The ecosystem here is very diverse with thousands of species, including marine animals. Many species of corals as well as sea turtles, dolphins, and **endangered dugongs** live here. The park is home to valuable woods and medicinal plants.
-Con Dao National Park plays a key role in saving endangered species and protecting the **environment**. It also helps raise the awareness of local residents.
+
+| English | Vietnamese |
+|---------|------------|
+| Today, there are national parks all over the world, and the number is rising all the time. | Ngày nay, có các vườn quốc gia trên khắp thế giới, và số lượng đang tăng lên liên tục. |
+| A national park is a special area for the protection of the environment and wildlife. | Vườn quốc gia là một khu vực đặc biệt để bảo vệ môi trường và động vật hoang dã. |
+| In Viet Nam, there are now 34 national parks. | Ở Việt Nam, hiện có 34 vườn quốc gia. |
+| Con Dao National Park is one of them. | Vườn Quốc gia Côn Đảo là một trong số đó. |
+| It became a national park in 1993. | Nó trở thành vườn quốc gia vào năm 1993. |
+| The park is in Con Dao District, Ba Ria-Vung Tau Province. | Vườn quốc gia nằm ở huyện Côn Đảo, tỉnh Bà Rịa - Vũng Tàu. |
+| It contains 16 small islands covering 20,000 hectares. | Nó bao gồm 16 đảo nhỏ với diện tích 20.000 héc-ta. |
+| The ecosystem here is very diverse with thousands of species, including marine animals. | Hệ sinh thái ở đây rất đa dạng với hàng nghìn loài, bao gồm cả động vật biển. |
+| Many species of corals as well as sea turtles, dolphins, and endangered dugongs live here as well. | Nhiều loài san hô cũng như rùa biển, cá heo và cá cúi (bò biển) đang bị đe dọa cũng sống ở đây. |
+| The park is also home to a lot of valuable kinds of woods and medicinal plants. | Vườn quốc gia cũng là nơi sinh sống của nhiều loại gỗ quý và cây thuốc. |
+| Three ancient trees in the park were named "Vietnamese Heritage Trees". | Ba cây cổ thụ trong vườn được công nhận là "Cây Di sản Việt Nam". |
+| Con Dao National Park, like other national parks, plays a key role in saving endangered species as well as protecting the environment and natural resources. | Vườn Quốc gia Côn Đảo, giống như các vườn quốc gia khác, đóng vai trò quan trọng trong việc cứu các loài nguy cấp cũng như bảo vệ môi trường và tài nguyên thiên nhiên. |
+| It also helps raise the awareness of local residents about the importance of nature. | Nó cũng giúp nâng cao nhận thức của cư dân địa phương về tầm quan trọng của thiên nhiên. |
 </reading>
 
 <questions type="multiple_choice">

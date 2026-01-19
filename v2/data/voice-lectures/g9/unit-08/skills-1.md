@@ -35,8 +35,22 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 
 <reading>
 **Package Tour vs Self-guided Tour**
-...Package tour: agency takes care of almost everything... follow a **fixed** itinerary.
-...Self-guided tour: require them to do everything on their own... **hunt for** tickets... **smooth** trip...
+
+| English | Vietnamese |
+|---------|------------|
+| The two most popular types of tours now are package and self-guided tours. | Hai loại hình du lịch phổ biến nhất hiện nay là tour trọn gói và tour tự túc. |
+| When you buy a package tour, a travel agency takes care of almost everything for you. | Khi bạn mua tour trọn gói, công ty du lịch lo liệu hầu hết mọi thứ cho bạn. |
+| You will get a notice about the places of your visit, the detailed itinerary, and the cost. | Bạn sẽ nhận được thông báo về các địa điểm tham quan, lịch trình chi tiết và chi phí. |
+| They will protect you if something goes wrong during the trip. | Họ sẽ bảo vệ bạn nếu có sự cố xảy ra trong chuyến đi. |
+| This type of holiday saves time and reduces stress for travellers. | Loại hình kỳ nghỉ này tiết kiệm thời gian và giảm căng thẳng cho du khách. |
+| It is a convenient option for people who are elderly, who do not want to spend much time searching on their own, or who are not confident about using online apps. | Đây là lựa chọn thuận tiện cho những người cao tuổi, những người không muốn mất nhiều thời gian tự tìm kiếm, hoặc những người không tự tin sử dụng ứng dụng trực tuyến. |
+| One disadvantage of this type is you have to follow a fixed itinerary. | Một nhược điểm của loại hình này là bạn phải theo lịch trình cố định. |
+| Nowadays, more young people choose self-guided tours which require them to do everything on their own. | Ngày nay, nhiều người trẻ chọn tour tự túc, loại tour yêu cầu họ tự làm mọi thứ. |
+| They have to look for a destination, work out an itinerary, and estimate the cost. | Họ phải tìm điểm đến, lên lịch trình và ước tính chi phí. |
+| They then hunt for tickets and accommodation, usually homestay. | Sau đó họ săn vé và chỗ ở, thường là homestay. |
+| This type of holiday may require people more time and effort, but it is cheaper and more flexible than a package holiday. | Loại hình kỳ nghỉ này có thể đòi hỏi nhiều thời gian và công sức hơn, nhưng rẻ hơn và linh hoạt hơn tour trọn gói. |
+| It gives travellers more freedom to decide where to go and how much time and money to spend at a place. | Nó cho du khách nhiều tự do hơn để quyết định đi đâu và dành bao nhiêu thời gian và tiền bạc ở một nơi. |
+| However, to have a smooth trip and avoid trouble, these travellers should be good at using apps. | Tuy nhiên, để có chuyến đi suôn sẻ và tránh rắc rối, những du khách này nên giỏi sử dụng ứng dụng. |
 </reading>
 
 <task>

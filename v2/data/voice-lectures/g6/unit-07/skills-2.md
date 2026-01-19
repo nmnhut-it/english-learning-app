@@ -108,7 +108,7 @@ Chúng ta cùng làm Bài 1 <eng>Listen and tick</eng>. Các em hãy nghe audio 
 | English and Fun | | | |
 </questions>
 
-<audio src="<!-- TODO: g6_u07_skills2_listening.mp3 -->">
+<audio src="https://img.loigiaihay.com/picture/2021/1104/u7-skills-2-ex1.mp3">
 **Audio:** Listen to the passage about TV programmes
 </audio>
 
@@ -183,7 +183,7 @@ Chúng ta cùng làm Bài 2 <eng>True or False</eng>. Các em hãy nghe lại au
 *English and Fun chiếu lúc 5 giờ.*
 </questions>
 
-<audio src="<!-- TODO: g6_u07_skills2_listening.mp3 -->">
+<audio src="https://img.loigiaihay.com/picture/2021/1111/u7-skills2-ex2.mp3">
 **Audio:** Listen again
 </audio>
 

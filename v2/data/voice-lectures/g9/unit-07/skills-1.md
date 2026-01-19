@@ -37,13 +37,20 @@ Bây giờ các em hãy đọc bài văn về dãy núi Dolomites ở Ý nhé.
 <reading>
 **The Dolomites - Paradise at Your Feet**
 
-If you haven't decided where to go for your holiday, you should visit the Dolomites. They are a mountain range in northeastern Italy. In 2009, the Dolomites were recognised as a UNESCO World Heritage Site.
-
-The Dolomites are a majestic site. They offer some of the most attractive mountain landscapes in the world, with steep rocky cliffs, sharp peaks, and narrow, deep valleys. There are 18 peaks which are more than 3,000 metres high.
-
-The natural beauty of the Dolomites attracts millions of tourists every year. In winter, people come here to ski. In summer, they enjoy climbing, hiking, and cycling. There is an annual bicycle race which takes place in the first week of July.
-
-Don't hesitate! Book a tour to the Dolomites today to enjoy "Paradise at Your Feet".
+| English | Vietnamese |
+|---------|------------|
+| If you haven't decided where to go for your holiday, you should visit the Dolomites. | Nếu bạn chưa quyết định đi đâu cho kỳ nghỉ, bạn nên đến dãy núi Dolomites. |
+| They are a mountain range in northeastern Italy. | Chúng là dãy núi ở đông bắc nước Ý. |
+| In 2009, the Dolomites were recognised as a UNESCO World Heritage Site. | Năm 2009, Dolomites được công nhận là Di sản Thế giới UNESCO. |
+| The Dolomites are a majestic site. | Dolomites là một địa điểm hùng vĩ. |
+| They offer some of the most attractive mountain landscapes in the world, with steep rocky cliffs, sharp peaks, and narrow, deep valleys. | Chúng có một số cảnh quan núi hấp dẫn nhất thế giới, với những vách đá dựng đứng, đỉnh núi nhọn và thung lũng hẹp, sâu. |
+| There are 18 peaks which are more than 3,000 metres high. | Có 18 đỉnh núi cao hơn 3.000 mét. |
+| The natural beauty of the Dolomites attracts millions of tourists every year. | Vẻ đẹp tự nhiên của Dolomites thu hút hàng triệu du khách mỗi năm. |
+| In winter, people come here to ski. | Vào mùa đông, mọi người đến đây để trượt tuyết. |
+| In summer, they enjoy climbing, hiking, and cycling. | Vào mùa hè, họ thích leo núi, đi bộ đường dài và đạp xe. |
+| There is an annual bicycle race which takes place in the first week of July. | Có một cuộc đua xe đạp hàng năm diễn ra vào tuần đầu tiên của tháng Bảy. |
+| Don't hesitate! | Đừng do dự! |
+| Book a tour to the Dolomites today to enjoy "Paradise at Your Feet". | Hãy đặt tour đến Dolomites ngay hôm nay để tận hưởng "Thiên đường dưới chân bạn". |
 </reading>
 
 ---
