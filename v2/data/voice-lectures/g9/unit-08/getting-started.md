@@ -45,16 +45,36 @@ Bài 1 <eng>Listen and read</eng> nha. Nghe Tom và An nói về kỳ nghỉ c�
 </audio>
 
 <dialogue>
-**Tom:** I've just got back from Bali... My family flew there for a holiday.
-(Tôi vừa về từ Bali... Gia đình tôi bay đến đó nghỉ lễ.)
-**An:** Last year my family travelled to Da Nang. We ate different types of local food... perfect destination for **food tourists**.
-(Năm ngoái nhà tôi đi Đà Nẵng... điểm đến tuyệt vời cho du khách yêu ẩm thực.)
-**Tom:** Yes, I love **food tourism**. There are also **shopping tourism** or **sports tourism**.
-(Mình cũng thích du lịch ẩm thực. Còn có du lịch mua sắm và du lịch thể thao nữa.)
+| English | Vietnamese |
+|---------|------------|
+| **Tom:** Hi, An. | **Tom:** Chào An. |
+| **An:** Hi, Tom. You've got a nice tan. | **An:** Chào Tom. Bạn có làn da rám nắng đẹp đấy. |
+| **Tom:** Well, I've just got back from Bali. | **Tom:** À, tôi vừa trở về từ Bali. |
+| **An:** Bali? Where is it? | **An:** Bali? Nó ở đâu vậy? |
+| **Tom:** It's in Indonesia. My family flew there for a holiday, and we spent most of the time on the beach. That's how I got this tan. | **Tom:** Nó ở Indonesia. Gia đình tôi bay đến đó để nghỉ lễ và chúng tôi dành phần lớn thời gian trên bãi biển. Đó là lý do tôi có được làn da rám nắng này. |
+| **An:** Awesome. Tell me more about Bali. | **An:** Tuyệt vời. Hãy kể cho tôi thêm về Bali. |
+| **Tom:** Sure. It's an **ideal destination** for holidaymakers, especially those who love the sea. | **Tom:** Chắc chắn rồi. Đó là một **điểm đến lý tưởng** cho du khách, đặc biệt là những người yêu thích biển. |
+| **An:** It must be beautiful! | **An:** Nó chắc hẳn đẹp! |
+| **Tom:** Very. It's well-known for its **natural beauty**, sunny beaches, and terraced fields. | **Tom:** Rất đẹp. Nó nổi tiếng với **vẻ đẹp tự nhiên**, những bãi biển đầy nắng và những thửa ruộng bậc thang. |
+| **An:** Is it expensive to travel there? | **An:** Đi du lịch ở đó có đắt không? |
+| **Tom:** Not really. My father was able to buy cheap air tickets and rent cheap accommodation. He usually uses travel apps for our **domestic** and **international** holidays. | **Tom:** Không hẳn. Cha tôi đã có thể mua được vé máy bay giá rẻ và thuê chỗ ở giá rẻ. Ông ấy thường sử dụng các ứng dụng du lịch cho các kỳ nghỉ **trong nước** và **quốc tế** của chúng tôi. |
+| **An:** Where did you stay? | **An:** Bạn đã ở đâu? |
+| **Tom:** We stayed in a three-star hotel which is just a ten-minute walk from the sea. Have you been somewhere for holiday? | **Tom:** Chúng tôi ở trong một khách sạn ba sao cách biển chỉ mười phút đi bộ. Bạn đã đi đâu đó vào kỳ nghỉ chưa? |
+| **An:** Yeah. Last year my family travelled to Da Nang. We ate different types of **local food**, and they all were so delicious. My brother said it was a perfect destination for **food tourists**. | **An:** Vâng. Năm ngoái gia đình tôi có đi du lịch Đà Nẵng. Chúng tôi đã ăn nhiều loại **món ăn địa phương** khác nhau và tất cả đều rất ngon. Anh tôi nói đây là một điểm đến hoàn hảo cho **khách du lịch ẩm thực**. |
+| **Tom:** Yes, I love **food tourism**, too. There are also other types of tourism like **shopping tourism** or **sports tourism**. | **Tom:** Vâng, tôi cũng thích **du lịch ẩm thực**. Ngoài ra còn có các loại hình du lịch khác như **du lịch mua sắm** hay **du lịch thể thao**. |
+| **An:** I didn't know that. Well, I'll try one of those someday. | **An:** Tôi không biết điều đó. Chà, một ngày nào đó tôi sẽ thử một trong những thứ đó. |
 </dialogue>
 
 <teacher_script pause="0">
+Hội thoại nói về 2 chuyến đi: Tom đi Bali (Indonesia) - điểm đến lý tưởng cho người yêu biển, nổi tiếng với vẻ đẹp tự nhiên. An đi Đà Nẵng - điểm đến cho du lịch ẩm thực.
+</teacher_script>
+
+<teacher_script pause="0">
 Có nhiều loại hình du lịch lắm nha! <eng>Food tourism</eng> là du lịch ẩm thực - đi để ăn món ngon. <eng>Shopping tourism</eng> là du lịch mua sắm. <eng>Sports tourism</eng> là du lịch thể thao - đi xem World Cup chẳng hạn.
+</teacher_script>
+
+<teacher_script pause="180">
+Đọc và dịch hội thoại vô vở đi. 3 phút nha.
 </teacher_script>
 
 ---
