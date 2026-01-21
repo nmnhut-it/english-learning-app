@@ -1,204 +1,318 @@
 # G8 UNIT-09 A CLOSER LOOK 2
 
 <!-- chunk: intro -->
-<teacher_script pause="0" href="audio/tts_fd00461e.mp3">
-Chào các em. Chào mừng các em đến với bài học hôm nay. Mời các em mở sách giáo khoa.
+<teacher_script pause="0">
+Ok lớp 8, hôm nay học phần <eng>A Closer Look 2</eng> Unit 9: <eng>Natural Disasters</eng> - ngữ pháp về Thì quá khứ tiếp diễn (<eng>Past Continuous</eng>) nha. Đây là thì rất quan trọng để kể chuyện, đặc biệt khi nói về thiên tai - "đang làm gì thì thiên tai xảy ra". Mở sách trang 95 đi.
 </teacher_script>
 
 <!-- chunk: vocabulary -->
-<teacher_script pause="0" href="audio/tts_c0841176.mp3">
-Chúng ta cùng học từ vựng mới. Các em hãy nghe và lặp lại theo mẫu nhé.
+<teacher_script pause="0">
+Học thêm từ vựng bổ sung nha.
 </teacher_script>
 
 <vocabulary>
 **Vocabulary**
-1. **that \+ adj** : ... tới nỗi như vậy /ðæt/
-2. **landslide** : (n) lở đất, sạt lở;
-3. **mud** : (n) bùn, bùn đất /mʌd/
-4. **shake \- shook \- shaken** : (v) lắc, rung, rung lắc /ʃeɪk \- ʃʊk \- ˈʃeɪkən/
-5. **hide \- hid \- hidden** : (v) giấu, ẩn, trốn /haɪd \- hɪd \- ˈhɪdn/
-6. **scale** : (n) vảy (cá, rồng); thang đo; cái cân /skeɪl/
-7. **thunderstorm** : (n) cơn giông, bão có sấm sét /ˈθʌndəstɔːm/
-8. **South Pacific** : Nam Thái Bình Dương /saʊθ pəˈsɪfɪk/
-9. **still** : (adj) yên lặng, tĩnh lặng, (adv) vẫn, vẫn còn, (conj) tuy nhiên, tuy vậy /stɪl/
-10. **missing** : (adj) bị mất tích, thiếu, không có mặt /ˈmɪsɪŋ/
+1. **landslide** : (n) lở đất, sạt lở /ˈlændslaɪd/
+2. **mud** : (n) bùn, bùn đất /mʌd/
+3. **shake - shook - shaken** : (v) lắc, rung /ʃeɪk/
+4. **hide - hid - hidden** : (v) giấu, trốn /haɪd/
+5. **thunderstorm** : (n) cơn giông có sấm sét /ˈθʌndəstɔːm/
+6. **volcanic eruption** : núi lửa phun trào /vɒlˈkænɪk ɪˈrʌpʃn/
+7. **donate** : (v) quyên góp /dəʊˈneɪt/
+8. **camp** : (v) cắm trại /kæmp/
 </vocabulary>
 
-<!-- chunk: content -->
-<teacher_script pause="0" href="audio/tts_d5b1d729.mp3">
-Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
+---
+
+<!-- chunk: grammar -->
+### PAST CONTINUOUS (Thì Quá khứ tiếp diễn)
+
+<teacher_script pause="0">
+Giờ học ngữ pháp nha. Thì quá khứ tiếp diễn dùng để nói về hành động đang diễn ra tại một thời điểm trong quá khứ.
 </teacher_script>
 
-**UNIT 9: NATURAL DISASTERS****
+<grammar>
+**Thì quá khứ tiếp diễn (Past Continuous)**
+
+**1. Cấu trúc:**
+- **(+)** S + **was/were** + V-**ing**
+- **(-)** S + **was/were** + **not** + V-**ing**
+- **(?)** **Was/Were** + S + V-**ing**?
+
+**2. Cách dùng:**
+Diễn tả một hành động **đang diễn ra** tại một thời điểm nhất định trong quá khứ.
+
+**3. Dấu hiệu nhận biết:**
+- at + giờ + yesterday/last night (at 9 o'clock yesterday)
+- when + mệnh đề quá khứ đơn
+- while + mệnh đề quá khứ tiếp diễn
+
+**4. Quy tắc quan trọng:**
+Hành động **DÀI** (đang diễn ra) → quá khứ tiếp diễn
+Hành động **NGẮN** (cắt ngang) → quá khứ đơn
+
+**Ví dụ:** When I **was sleeping** (dài), the earthquake **hit** (ngắn).
+</grammar>
+
+<teacher_script pause="0">
+Mẹo nhớ nè: Như phim đang chạy thì ai đó bấm pause - phim đang chạy là quá khứ tiếp diễn, bấm pause là quá khứ đơn.
+</teacher_script>
 
-**A CLOSER LOOK 2** 
+---
 
-**Thì quá khứ tiếp diễn**: Tại một thời điểm nào đó trong quá khứ, ai đó đang làm gì 
+<!-- chunk: exercise_1 -->
+### Bài 1 trang 95 - Past Continuous
 
-(+) Chủ từ \+ was/were \+ V-ing 
+<teacher_script pause="90">
+Bài 1. Hoàn thành câu bằng cách chia động từ trong ngoặc ở thì quá khứ tiếp diễn. 90 giây.
+</teacher_script>
 
-(-) Chủ từ \+ was/were \+not \+ V-ing 
+<task>
+**Đề:** Complete the sentences by putting the verbs in brackets into the past continuous.
+**Dịch đề:** Hoàn thành câu bằng cách chia động từ trong ngoặc ở thì quá khứ tiếp diễn.
+</task>
 
-(?) ….. was/were  \+ Chủ từ \+ \+ V-ing ? 
+<questions type="fill_blanks">
+1. They (help) _______ the flood victims at 10 o'clock last night.
+   *(Họ _______ những nạn nhân lũ lụt lúc 10 giờ đêm qua.)*
 
-**Cách dùng phổ biến**
+2. It (not snow) _______ when I left home this afternoon.
+   *(Trời _______ khi tôi rời nhà chiều nay.)*
 
-A đang diễn ra (chia quá khứ tiếp diễn) thì B cắt ngang (chia quá khứ đơn) 
+3. While she (work) _______ the field, the tornado came.
+   *(Trong khi cô ấy _______ trên cánh đồng, lốc xoáy đến.)*
 
-**Ví dụ**: Khi tôi đang ngủ thì mẹ vào phòng 
+4. - What _______ you (do) _______ at 9 o'clock yesterday morning?
+   - I (watch) _______ the news about a volcanic eruption.
+   *(- Cậu _______ gì lúc 9 giờ sáng hôm qua?)*
+   *(- Mình _______ tin tức về núi lửa phun trào.)*
 
-When I was sleeping, my mom came into the room. 
+5. - _______ you (cry) _______ when I saw you two days ago?
+   - No, I wasn't.
+   *(- Cậu có _______ khi mình thấy cậu hai ngày trước không?)*
+   *(- Không.)*
+</questions>
 
-**Bài tập bổ sung** 
+<teacher_script pause="0">
+Ok đáp án nè.
+</teacher_script>
 
-1. People \_\_were sleeping\_\_\_ (sleep) in their houses when the earthquake \_\_\_hit\_\_ (hit).  
-2. It \_\_\_\_was raining\_ (rain) heavily when the flood \_started\_\_\_\_ (start).  
-3. My family \_\_\_\_\_ (watch) TV when the storm \_\_\_\_\_ (come).  
-4. The police \_\_\_\_\_ (help) people when the second earthquake \_\_\_\_\_ (happen).  
-5. While we \_\_\_\_\_ (stay) at home, the strong wind \_\_\_\_\_ (break) our windows.  
-6. They \_\_\_\_\_ (run) away when the fire \_\_\_\_\_ (spread).  
-7. I \_\_\_\_\_ (walk) to school when the rain \_\_\_\_\_ (begin).  
-8. All the students \_\_\_\_\_ (study) when they \_\_\_\_\_ (feel) the ground shake.  
-9. The children \_\_\_\_\_ (play) outside when the storm clouds \_\_\_\_\_ (appear).  
-10. We \_\_\_\_\_ (drive) on the road when the trees \_\_\_\_\_ (fall) down.  
-1. were sleeping / hit  
-2. was raining / started  
-3. was watching / came  
-4. were helping / happened  
-5. were staying / broke  
-6. were running / spread  
-7. was walking / began  
-8. were studying / felt  
-9. were playing / appeared  
-10. were driving / fell
+<answer>
+**Đáp án:**
+1. They **were helping** the flood victims at 10 o'clock last night.
+2. It **wasn't snowing** when I left home this afternoon.
+3. While she **was working** the field, the tornado came.
+4. - What **were** you **doing** at 9 o'clock yesterday morning?
+   - I **was watching** the news about a volcanic eruption.
+5. - **Were** you **crying** when I saw you two days ago?
+   - No, I wasn't.
 
-**Bài 1** 
+**Giải thích:**
+- Câu 1, 4, 5: có thời điểm cụ thể (at 10 o'clock, at 9 o'clock) → quá khứ tiếp diễn
+- Câu 2: hành động đang diễn ra khi hành động khác xảy ra (when I left)
+- Câu 3: có **while** → quá khứ tiếp diễn
+</answer>
 
-(Hoàn thành câu bằng cách chia động từ trong ngoặc ở thì quá khứ tiếp diễn.) 
+---
 
-1\. They were helping the flood victims at 10 o'clock last night.
+<!-- chunk: exercise_2 -->
+### Bài 2 trang 95 - Choose the correct form
 
-(Họ đang giúp đỡ những nạn nhân của trận lũ vào 10 giờ đêm qua.)
+<teacher_script pause="90">
+Bài 2. Khoanh tròn đáp án đúng. Bài này khó hơn vì em phải phân biệt quá khứ đơn và quá khứ tiếp diễn. 90 giây.
+</teacher_script>
 
-2\. It wasn't snowing when I left home this afternoon.
+<task>
+**Đề:** Circle the correct answer to complete each sentence.
+**Dịch đề:** Khoanh tròn đáp án đúng để hoàn thành mỗi câu.
+</task>
 
-(Lúc tôi rời khỏi nhà vào chiều nay thì trời không có tuyết.)
+<questions type="multiple_choice">
+**1.** We **donated / were donating** money to help the earthquake victims last month.
+*(Chúng tôi _______ tiền để giúp nạn nhân động đất tháng trước.)*
 
-3\. While she was working the field, the tornado came.
+**2.** - What **did you do / were you doing** when the volcano erupted?
+    - I **slept / was sleeping** in my bed.
+*(- Cậu _______ gì khi núi lửa phun trào?)*
+*(- Mình _______ trên giường.)*
 
-(Khi cô ấy đang làm việc trên cánh đồng thì lốc xoáy đến.)
+**3.** While they **camped / were camping** near the river, the flood **was coming / came** suddenly.
+*(Trong khi họ _______ gần sông, lũ _______ bất ngờ.)*
 
-4\. \- What were you doing at 9 o'clock yesterday morning?
+**4.** After Tom **ran / was running** out of his house, he **moved / was moving** quickly to a safer place.
+*(Sau khi Tom _______ ra khỏi nhà, anh ấy _______ nhanh chóng đến nơi an toàn hơn.)*
 
-(Bạn làm gì vào 9 giờ sáng hôm qua vậy?)
+**5.** I **didn't read / wasn't reading** a newspaper at 9 a.m. yesterday, but I **watched / was watching** the news about the tornado.
+*(Mình _______ báo lúc 9 giờ sáng hôm qua, nhưng mình _______ tin về lốc xoáy.)*
+</questions>
 
-\- I was watching the news about a volcanic eruption.
+<teacher_script pause="0">
+Ok đáp án nè.
+</teacher_script>
 
-(Lúc đó tôi đang xem tin tức về một vụ núi lửa phun trào.)
+<answer>
+**Đáp án:** 1. donated | 2. were you doing - was sleeping | 3. were camping - came | 4. ran - moved | 5. wasn't reading - watched
 
-5\. \- Were you crying when I saw you two days ago?
+**Giải thích chi tiết:**
 
-(Có phải bạn đang khóc lúc tôi thấy bạn hai ngày trước không?)
+**1. donated** - Hành động hoàn thành trong quá khứ (last month) → quá khứ đơn
 
-\- No, I wasn't. (Không phải.)
+**2. were you doing - was sleeping** - Hành động đang diễn ra khi núi lửa phun (cắt ngang) → quá khứ tiếp diễn
 
-**Bài 2**
+**3. were camping - came** - Đang cắm trại (dài, quá khứ tiếp diễn) thì lũ đến (ngắn, quá khứ đơn)
 
-1\. We donated money to help the earthquake victims last month.
+**4. ran - moved** - Hai hành động liên tiếp xảy ra và kết thúc trong quá khứ → đều dùng quá khứ đơn
 
-(Chúng tôi quyên góp tiền để giúp đỡ những nạn nhân của trận động đất tháng trước.)
+**5. wasn't reading - watched** - Tại 9 a.m. (thời điểm cụ thể) → quá khứ tiếp diễn. Xem tin là hành động hoàn thành → quá khứ đơn
+</answer>
 
-Lí do: Đây là một hành động xảy ra và kết thúc vào một thời điểm trong quá khứ, nên ta sẽ dùng thì quá khứ đơn, đáp án cần chọn là donated.
+---
 
-2\.
+<!-- chunk: exercise_3 -->
+### Bài 3 trang 95 - Describe the picture
 
-\- What were you doing when the volcano erupted?
+<teacher_script pause="90">
+Bài 3. Nhìn tranh và viết câu mô tả mọi người trong gia đình Lan đang làm gì khi động đất xảy ra. Dùng các từ trong hộp. 90 giây.
+</teacher_script>
 
-(Bạn đang làm gì khi núi lửa phun trào?)
+<task>
+**Đề:** Look at the picture and write what each person in Lan's family was doing when the earthquake happened. Use the given words and phrases from the box.
+**Dịch đề:** Nhìn vào bức tranh và viết những gì mọi người trong gia đình Lan đang làm khi trận động đất xảy ra. Sử dụng các từ và cụm từ trong hộp.
+</task>
 
-\- I was sleeping in my bed.
+<questions type="fill_blanks">
+**Từ để dùng:**
+| watch TV | draw | read a book | drink tea | talk on the phone |
 
-(Tôi đang ngủ trên giường của tôi.)
+*(Nhìn tranh gia đình Lan và viết câu)*
+1. Lan's mother _______ while Lan's grandparents _______.
+2. Lan's father _______ while he _______.
+3. Lan's family _______ when she _______.
+4. Lan's brother _______ when she _______.
+</questions>
 
-Lí do: Một hành động đang xảy ra ở quá khứ thì bị hành động khác chen ngang vào, do đó chúng ta sẽ dùng thì quá khứ tiếp diễn để chia các động từ, đáp án cần điền là were you doing – was sleeping.
+<teacher_script pause="0">
+Ok đáp án nè.
+</teacher_script>
 
-3\. While they were camping near the river, the flood came suddenly.
+<answer>
+**Đáp án:**
+1. Lan's mother **was reading a book** while Lan's grandparents **watched TV**.
+   *(Mẹ Lan đang đọc sách trong khi ông bà xem TV.)*
 
-(Khi họ đang đi cắm trại gần con sông, bất ngờ cơn lũ kéo tới.)
+2. Lan's father **was drinking tea** while he **watched TV**.
+   *(Bố Lan đang uống trà trong khi xem TV.)*
 
-Lí do: Một hành động đang xảy ra ở quá khứ thì bị hành động khác chen ngang vào, do đó chúng ta sẽ dùng thì quá khứ tiếp diễn chia động từ đầu tiên, động từ thứ hai chia thì quá khứ đơn, đáp án là were camping – came.
+3. Lan's family **was watching TV** when she **talked on the phone**.
+   *(Gia đình Lan đang xem TV khi cô ấy nói chuyện điện thoại.)*
 
-4\. After Tom ran out of his house, he moved quickly to a safer place.
+4. Lan's brother **was drawing** when she **talked on the phone**.
+   *(Em trai Lan đang vẽ khi cô ấy nói chuyện điện thoại.)*
 
-(Sau khi Tom chạy ra khỏi nhà, anh ấy nhanh chóng di chuyển đến nơi an toàn hơn.)
+**Quy tắc:** Hành động **while** đi với quá khứ tiếp diễn, hành động **when** có thể đi với quá khứ đơn hoặc quá khứ tiếp diễn tùy ngữ cảnh.
+</answer>
 
-Lí do: Những hành động liên tiếp xảy ra và kết thúc trong quá khứ, ta sẽ dùng thì quá khứ đơn để chia các động từ, đáp án là ran – moved.
+---
 
-5\. I wasn't reading a newspaper at 9 a.m. yesterday, but I watched the news about the tornado.
+<!-- chunk: exercise_4 -->
+### Bài 4 trang 95 - Form questions
 
-Lí do: Trong vế đầu tiên của câu, đây là một hành động đang xảy ra tại một thời điểm chính xác trong quá khứ, nên ta sẽ dùng thì quá khứ tiếp diễn, còn về sau là một hành động xảy ra và kết thúc trong quá khứ nên ta dùng thì quá khứ đơn., đáp án cần điền là wasn't reading – watched.
+<teacher_script pause="90">
+Bài 4. Tạo câu hỏi sử dụng thì quá khứ tiếp diễn. Hỏi và trả lời về những gì em đang làm vào các thời điểm tối qua. 90 giây.
+</teacher_script>
 
-**Bài 3**
+<task>
+**Đề:** Form questions using the past continuous. Then in pairs, ask and answer the questions.
+**Dịch đề:** Tạo câu hỏi sử dụng thì quá khứ tiếp diễn. Sau đó theo cặp, hỏi và trả lời các câu hỏi.
+</task>
 
-1\. Lan's mother was reading a book while Lan's grandparents were watching TV.
+<questions type="speaking">
+**Example:**
+you / play / football / 5 o'clock yesterday afternoon?
+→ **Were you playing football at 5 o'clock yesterday afternoon?**
+- Yes, I was. / No, I wasn't. I was doing my homework.
 
-(Mẹ của Lan đang đọc một cuốn sách trong khi ông bà Lan xem TV.)
+**Form questions:**
+1. you / have dinner / 7 o'clock yesterday evening?
+2. you / do / homework / 8 o'clock yesterday evening?
+3. you / watch / film / 9 o'clock yesterday evening?
+</questions>
 
-2\. Lan's father was drinking tea while he was watching TV.
+<teacher_script pause="0">
+Ok đáp án nè.
+</teacher_script>
 
-(Bố Lan đang uống trà trong khi đang xem TV.)
+<answer>
+**Đáp án:**
 
-3\. Lan's family was watching TV when she was talking on the phone.
+**1.** Were you having dinner at 7 o'clock yesterday evening?
+*(Cậu có đang ăn tối lúc 7 giờ tối qua không?)*
+- Yes, I was. / No, I wasn't. I was playing piano.
+*(Có. / Không, mình đang chơi đàn.)*
 
-(Gia đình Lan đang xem phim trên TV khi cô ấy nói chuyện trên điện thoại.)
+**2.** Were you doing homework at 8 o'clock yesterday evening?
+*(Cậu có đang làm bài tập lúc 8 giờ tối qua không?)*
+- Yes, I was. / No, I wasn't. I was watching TV.
+*(Có. / Không, mình đang xem TV.)*
 
-4\. Lan's brother was drawing when she was talking on the phone.
+**3.** Were you watching film at 9 o'clock yesterday evening?
+*(Cậu có đang xem phim lúc 9 giờ tối qua không?)*
+- Yes, I was. / No, I wasn't. I was sleeping.
+*(Có. / Không, mình đang ngủ.)*
 
-(Em trai Lan đang vẽ tranh khi cô ấy nói chuyện trên điện thoại.)
+**Cấu trúc câu hỏi:** **Were** + you + V-**ing** + at + giờ + yesterday?
+</answer>
 
-**Bài 4**
+---
 
-1\. Were you having dinner at 7 o'clock yesterday evening?
+<!-- chunk: exercise_5 -->
+### Bài 5 trang 96 - Memory challenge
 
-(Có phải bạn đang ăn tối vào 7 giờ tối qua không?)
+<teacher_script pause="90">
+Bài 5. Thử thách trí nhớ! Nhìn tranh và nói câu mô tả mỗi người đang làm gì. 90 giây.
+</teacher_script>
 
-Yes, I was. / No, I wasn't. I was playing piano.
+<task>
+**Đề:** Memory challenge. Work in groups. Take turns to say a sentence that describes what each person in the picture was doing.
+**Dịch đề:** Thử thách trí nhớ. Làm việc nhóm. Thay phiên nhau nói một câu mô tả mỗi người trong tranh đang làm gì.
+</task>
 
-(Đúng rồi./ Không phải. Lúc đó tôi đang chơi đàn.)
+<questions type="speaking">
+*(Nhìn tranh lớp học và mô tả)*
+- Ann và Lan đang làm gì?
+- Nam đang làm gì?
+- Phong và Nick đang làm gì?
+- Mai đang làm gì?
+- Ha và Mi đang làm gì?
+</questions>
 
-2\. Were you doing homework at 8 o'clock yesterday evening?
+<teacher_script pause="0">
+Ok đáp án nè.
+</teacher_script>
 
-(Có phải bạn đang làm bài tập vào 8 giờ tối qua không?)
+<answer>
+**Đáp án:**
 
-Yes, I was. / No, I wasn't. I was watching TV.
+1. **Ann and Lan were singing** while **Nam was cleaning the board**.
+   *(Ann và Lan đang hát trong khi Nam đang lau bảng.)*
 
-(Đúng rồi./ Không phải. Lúc đó tôi đang xem TV.)
+2. **Phong and Nick were playing chess** while **Mai was reading a book**.
+   *(Phong và Nick đang chơi cờ trong khi Mai đang đọc sách.)*
 
-3\. Were you watching film at 9 o'clock yesterday evening?
+3. **Ha and Mi were talking to each other**.
+   *(Hà và Mi đang nói chuyện với nhau.)*
 
-(Có phải bạn đang làm xem phim vào 9 giờ tối qua không?)
+**Lưu ý:** Dùng **while** khi hai hành động cùng xảy ra song song trong quá khứ.
+</answer>
 
-Yes, I was. / No, I wasn't. I was sleeping.
-
-(Đúng rồi./ Không phải. Lúc đó tôi đang ngủ.)
-
-**Bài 5**
-
-1\. Ann and Lan were singing while Nam was cleaning the board.
-
-(Ann và Lan đang hát trong khi Nam đang lau bảng.)
-
-2\. Phong and Nick were playing chess while Mai was reading a book.
-
-(Phong và Nick đang chơi cờ vua trong khi Mai đang đọc sách.)
-
-3\. Ha and Mi were talking to each other.
-
-(Hà và Mi đang nói chuyện với nhau.)
-
-**COMMUNICATION \+ SKILLS 1**
+---
 
 <!-- chunk: end -->
-<teacher_script pause="0" href="audio/tts_ba688992.mp3">
-Bài học hôm nay kết thúc tại đây. Các em nhớ ôn bài và chuẩn bị cho bài học tiếp theo. Tạm biệt các em.
+<teacher_script pause="0">
+Ok hết bài <eng>A Closer Look 2</eng> Unit 9 rồi. Tóm tắt thì quá khứ tiếp diễn nha:
+- Công thức: S + <eng>was/were</eng> + V-<eng>ing</eng>
+- Dùng khi: diễn tả hành động đang xảy ra tại một thời điểm trong quá khứ
+- Hay đi với: <eng>when, while, at + giờ + yesterday</eng>
+
+Nhớ quy tắc vàng: Hành động DÀI (đang diễn ra) → quá khứ tiếp diễn, hành động NGẮN (cắt ngang) → quá khứ đơn. Bài sau học Communication và Skills. Bye!
 </teacher_script>

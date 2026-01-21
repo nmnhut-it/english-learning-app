@@ -3,8 +3,8 @@
 ## SKILLS 2 - Listening & Writing
 
 <!-- chunk: intro -->
-<teacher_script pause="0" href="audio/tts_3e7ef365.mp3">
-Chào các em. Mời các em mở sách trang 39. Bài <eng>Skills 2</eng> hôm nay chúng ta sẽ nghe bạn Trang chia sẻ về cách học tiếng Anh hiệu quả.
+<teacher_script pause="0">
+Ok lớp 9, hôm nay học <eng>Skills 2</eng> - Nghe và Viết nha. Bài nghe về cách bạn Trang học tiếng Anh hiệu quả, rồi em sẽ viết về phương pháp học của mình. Đây là bài rất thực tế - em có thể áp dụng ngay các mẹo học tiếng Anh! Mở sách trang 39 đi.
 </teacher_script>
 
 ---
@@ -12,31 +12,52 @@ Chào các em. Mời các em mở sách trang 39. Bài <eng>Skills 2</eng> hôm 
 <!-- chunk: exercise_1 -->
 ### Bài 1 trang 39 - Listen
 
-<teacher_script pause="0" href="audio/tts_fbd2aa5c.mp3">
-Các em hãy nghe bài nói của Trang.
+<teacher_script pause="0">
+Nghe bạn Trang chia sẻ về cách học tiếng Anh nha. Chú ý các phương pháp của bạn ấy.
 </teacher_script>
 
 <audio src="https://img.loigiaihay.com/picture/2024/0515/51.mp3">
 **Audio:** Trang talks about how she learns English.
 </audio>
 
-<script>
-(Summary)
-Trang has learned English for seven years.
-First, she reads books in English. She guesses meanings from context.
-Second, she uses a good dictionary to check meanings and pronunciation.
-Third, she keeps a vocabulary notebook to write down new words.
-Finally, she speaks English whenever she can with friends or teachers.
-For pronunciation, she listens to English podcasts and repeats after them.
-</script>
+<reading>
+**Tapescript - Bài nghe:**
+
+| English | Vietnamese |
+|---------|------------|
+| Hi, my name is Trang. | Xin chào, tên tôi là Trang. |
+| I have learned English for seven years. | Tôi đã học tiếng Anh được bảy năm. |
+| Today I want to share with you how I learn English. | Hôm nay tôi muốn chia sẻ với các bạn cách tôi học tiếng Anh. |
+| First, I read books in English. | Đầu tiên, tôi đọc sách bằng tiếng Anh. |
+| When I see a new word, I try to guess its meaning from the context. | Khi tôi thấy một từ mới, tôi cố gắng đoán nghĩa của nó từ ngữ cảnh. |
+| Second, I use a good dictionary. | Thứ hai, tôi dùng một cuốn từ điển tốt. |
+| I check the meaning and pronunciation of new words. | Tôi tra nghĩa và cách phát âm của các từ mới. |
+| Third, I keep a vocabulary notebook. | Thứ ba, tôi có một cuốn sổ từ vựng. |
+| I write down new words with their meanings and example sentences. | Tôi ghi lại các từ mới cùng với nghĩa và câu ví dụ. |
+| I review my notebook every day. | Tôi ôn lại sổ tay mỗi ngày. |
+| Finally, I practice speaking English whenever I can. | Cuối cùng, tôi luyện nói tiếng Anh bất cứ khi nào có thể. |
+| I speak with my friends and teachers at school. | Tôi nói chuyện với bạn bè và thầy cô ở trường. |
+| For pronunciation, I listen to English podcasts and repeat after them. | Về phát âm, tôi nghe podcast tiếng Anh và nhắc lại theo. |
+| These methods have helped me improve my English a lot. | Những phương pháp này đã giúp tôi cải thiện tiếng Anh rất nhiều. |
+</reading>
+
+<teacher_script pause="0">
+Tóm tắt 4 phương pháp của Trang nha:
+1. Đọc sách tiếng Anh, đoán nghĩa từ ngữ cảnh
+2. Dùng từ điển tra nghĩa VÀ phát âm
+3. Ghi từ mới vào sổ tay
+4. Luyện nói với bạn bè, thầy cô
+
+Đây là những phương pháp rất hiệu quả mà em có thể áp dụng!
+</teacher_script>
 
 ---
 
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 39 - True or False
 
-<teacher_script pause="60" href="audio/tts_15c997dc.mp3">
-Bài 2. Xác định câu Đúng/Sai.
+<teacher_script pause="60">
+Bài 2. Nghe lại và xác định Đúng (<eng>T</eng>) hoặc Sai (<eng>F</eng>). 1 phút.
 </teacher_script>
 
 <questions type="true_false">
@@ -54,13 +75,21 @@ Bài 2. Xác định câu Đúng/Sai.
 4. T
 </answer>
 
+<teacher_script pause="0">
+Giải thích nha:
+- Câu 1: Sai vì Trang học 7 năm, không phải 3 năm
+- Câu 3: Sai vì Trang dùng từ điển tra NGHĨA và PHÁT ÂM, không chỉ chính tả
+
+Mẹo: Khi nghe, ghi nhanh các con số và từ khóa quan trọng!
+</teacher_script>
+
 ---
 
 <!-- chunk: writing_prep -->
 ### Bài 3 trang 39 - Writing
 
-<teacher_script pause="0" href="audio/tts_c4c49485.mp3">
-Phần Viết. Chủ đề: **Cách em học từ vựng tiếng Anh**.
+<teacher_script pause="0">
+Phần Viết nha. Chủ đề: Cách em học từ vựng tiếng Anh.
 </teacher_script>
 
 <task>
@@ -71,13 +100,20 @@ Phần Viết. Chủ đề: **Cách em học từ vựng tiếng Anh**.
 - Why is it effective?
 </task>
 
+<teacher_script pause="0">
+Mẹo viết nha:
+- Dùng từ nối: <eng>Firstly, Secondly, Finally</eng> để liệt kê phương pháp
+- Giải thích TẠI SAO mỗi phương pháp hiệu quả
+- Viết 100-120 từ = khoảng 8-10 câu
+</teacher_script>
+
 ---
 
 <!-- chunk: writing_task -->
 ### Bài 4 trang 39 - Write paragraph
 
-<teacher_script pause="180" href="audio/tts_c889ecef.mp3">
-Các em có 3 phút để viết đoạn văn.
+<teacher_script pause="300">
+Viết đoạn văn về cách học từ vựng của em. 5 phút nha.
 </teacher_script>
 
 <dialogue>
@@ -85,13 +121,24 @@ Các em có 3 phút để viết đoạn văn.
 I learn English vocabulary in several ways. Firstly, I read short stories and news in English. This helps me see how words are used in context. Secondly, I use a notebook to write down new words with their meanings and examples. I review this notebook every weekend. Thirdly, I use sticky notes to label objects in my room. Finally, I practice speaking with my friends to use the new words. I think these methods help me remember words longer and use them naturally.
 </dialogue>
 
-<teacher_script pause="0" action="record" href="audio/tts_984e90d8.mp3">
-Em hãy đọc đoạn văn của mình và ghi âm gửi thầy nhé.
+<teacher_script pause="0">
+Phân tích bài mẫu nha:
+- Câu mở: <eng>I learn English vocabulary in several ways.</eng> - giới thiệu chủ đề
+- Thân bài: liệt kê 4 phương pháp với <eng>Firstly, Secondly, Thirdly, Finally</eng>
+- Kết: <eng>I think these methods help me...</eng> - đánh giá hiệu quả
+</teacher_script>
+
+<teacher_script pause="0" action="record">
+Đọc bài viết của em và ghi âm gửi thầy nha.
 </teacher_script>
 
 ---
 
 <!-- chunk: end -->
-<teacher_script pause="0" href="audio/tts_85fdfc9e.mp3">
-Bài học kết thúc. Chúc các em tìm được phương pháp học tiếng Anh phù hợp!
+<teacher_script pause="0">
+Ok hết bài <eng>Skills 2</eng>. Hôm nay em học được:
+- Phương pháp học tiếng Anh của Trang: đọc sách, dùng từ điển, ghi sổ tay, luyện nói
+- Cách viết đoạn văn về phương pháp học: dùng từ nối + giải thích lý do
+
+Mẹo thực tế: Chọn 2-3 phương pháp phù hợp với mình và kiên trì áp dụng mỗi ngày. Chúc em học tiếng Anh hiệu quả! Bye!
 </teacher_script>

@@ -1,13 +1,13 @@
 # G8 UNIT-09 SKILLS 2
 
 <!-- chunk: intro -->
-<teacher_script pause="0" href="audio/tts_fd00461e.mp3">
-Chào các em. Chào mừng các em đến với bài học hôm nay. Mời các em mở sách giáo khoa.
+<teacher_script pause="0">
+Ok lớp 8, hôm nay học <eng>Skills 2</eng> - Nghe và Viết về cách ứng phó bão nha. Bài nghe là chương trình đài phát thanh hướng dẫn người dân chuẩn bị trước, trong và sau bão. Rất thực tế vì Việt Nam mình hay có bão mùa mưa. Mở sách trang 98 đi.
 </teacher_script>
 
 <!-- chunk: vocabulary -->
-<teacher_script pause="0" href="audio/tts_c0841176.mp3">
-Chúng ta cùng học từ vựng mới. Các em hãy nghe và lặp lại theo mẫu nhé.
+<teacher_script pause="0">
+Học từ vựng trước nha. Bài này có nhiều từ về chuẩn bị ứng phó bão - rất hữu ích trong thực tế.
 </teacher_script>
 
 <vocabulary>
@@ -36,63 +36,106 @@ Chúng ta cùng học từ vựng mới. Các em hãy nghe và lặp lại theo 
 22. **broken power lines** : đường dây điện bị đứt /ˈbrəʊkən ˈpaʊə laɪnz/
 </vocabulary>
 
+<teacher_script pause="0">
+Mẹo nhớ từ nha:
+- <eng>Emergency kit</eng> = hộp khẩn cấp - gồm đèn pin, nước, thuốc, còi
+- <eng>Strengthen</eng> = làm mạnh thêm - gia cố nhà cửa trước bão
+- <eng>Broken power lines</eng> = dây điện đứt - RẤT NGUY HIỂM sau bão, tuyệt đối tránh xa!
+</teacher_script>
+
 <!-- chunk: audio -->
-<teacher_script pause="0" href="audio/tts_c08c1d7b.mp3">
-Bây giờ các em sẽ nghe một đoạn băng. Hãy chú ý lắng nghe để tìm thông tin trả lời câu hỏi.
+<teacher_script pause="0">
+Nghe chương trình đài phát thanh hướng dẫn ứng phó bão nha. Chú ý nghe 3 giai đoạn: trước bão (<eng>before</eng>), trong bão (<eng>during</eng>), sau bão (<eng>after</eng>).
 </teacher_script>
 
 <audio src="https://img.loigiaihay.com/picture/2023/0804/track-58.mp3">
 **Audio:** Skills 2
 </audio>
 
-<!-- chunk: content -->
-<teacher_script pause="0" href="audio/tts_d5b1d729.mp3">
-Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
+<!-- chunk: exercise_2 -->
+<teacher_script pause="60">
+Bài 2 trang 98. Nghe và phân loại các hành động vào 3 giai đoạn: trước, trong và sau bão. 1 phút.
 </teacher_script>
 
-**UNIT 9: NATURAL DISASTERS****
+**UNIT 9: NATURAL DISASTERS**
 
-**SKILLS 2** 
+**SKILLS 2**
 
-**Bài 2** 
+**Bài 2 trang 98 - Listening**
 
-Before a storm (Trước bão) 2, 6
+Phân loại các hành động:
 
-During a storm (Trong bão) 3,5
+| Before a storm | During a storm | After a storm |
+|----------------|----------------|---------------|
+| 2, 6 | 3, 5 | 1, 4 |
 
-After a storm (Sau bão) 1,4 
+<teacher_script pause="0">
+Giải thích nha:
+- **Trước bão (2, 6)**: Chuẩn bị <eng>emergency kit</eng>, gia cố nhà cửa - làm trước khi bão đến
+- **Trong bão (3, 5)**: Ở trong nhà, tránh xa cửa kính - an toàn khi bão đang hoành hành
+- **Sau bão (1, 4)**: Nghe hướng dẫn chính quyền, tránh dây điện đứt - khi bão đã qua
+</teacher_script>
 
-**Bài 3**
+<!-- chunk: exercise_3 -->
+<teacher_script pause="60">
+Bài 3 trang 98. Nghe lại và đánh dấu True (<eng>T</eng>) hoặc False (<eng>F</eng>). 1 phút.
+</teacher_script>
 
-1\. F
+**Bài 3 trang 98**
 
-2\. T
+1. **F** - An emergency kit should have essential things, not only water.
+   (Hộp khẩn cấp cần có nhiều thứ thiết yếu, không chỉ nước.)
 
-3\. F
+2. **T** - You should stay inside during a storm.
+   (Bạn nên ở trong nhà khi có bão.)
 
-4\. T
+3. **F** - You shouldn't stand near glass doors because they can break and hurt you.
+   (Không nên đứng gần cửa kính vì có thể vỡ và làm bạn bị thương.)
 
-**Writing** 
+4. **T** - Broken power lines are dangerous and should be avoided.
+   (Dây điện đứt rất nguy hiểm và nên tránh xa.)
 
-Before a flood (Trước khi có lũ):
+<teacher_script pause="0">
+Giải thích nha:
+- Câu 1: Sai vì <eng>emergency kit</eng> cần có đèn pin, thuốc, còi, ĐỒ ĂN và nước - không chỉ nước thôi
+- Câu 3: Sai vì cửa kính RẤT NGUY HIỂM trong bão - gió có thể làm vỡ và mảnh kính bay vào người
+</teacher_script>
 
-1. Prepare an emergency kit. (Chuẩn bị bộ dụng cụ khẩn cấp.)  
-2. Listen to local radio. (Lắng nghe đài phát thanh địa phương.)  
-3. Protect your valuables in waterproof containers. Place them above potential water levels. (Bảo vệ tài sản của bạn trong những thùng chống nước. Đặt chúng lên trên mực nước có thể dâng lên.)
+<!-- chunk: writing -->
+<teacher_script pause="300">
+Bài 4 trang 98 - <eng>Writing</eng>. Viết hướng dẫn ứng phó lũ lụt theo 3 giai đoạn như bài nghe về bão. 5 phút viết nha.
+</teacher_script>
 
-During a flood (Trong khi có lũ):
+**Bài 4 trang 98 - Writing**
 
-1. Stay inside a safe and high place. (Ở trong nơi an toàn và cao.)  
-2. Follow the routes specified by officials. (Làm theo những quy trình của các cơ quan có thẩm quyền.)  
-3. If Time allows, leave a note informing others when you left and where you went. (Nếu còn đủ thời gian, để lại lời nhắn cho những người khác khi nào bạn rời đi và đi đâu.)
+**Before a flood (Trước lũ):**
+1. Prepare an emergency kit. (Chuẩn bị bộ dụng cụ khẩn cấp.)
+2. Listen to local radio. (Nghe đài phát thanh địa phương.)
+3. Protect your valuables in waterproof containers. Place them above potential water levels. (Bảo vệ tài sản trong thùng chống nước. Đặt lên cao.)
 
-After a flood (Sau khi có lũ):
+**During a flood (Trong lũ):**
+1. Stay inside a safe and high place. (Ở nơi an toàn và cao.)
+2. Follow the routes specified by officials. (Đi theo đường chính quyền chỉ dẫn.)
+3. If time allows, leave a note informing others when you left and where you went. (Nếu kịp, để lại tin nhắn cho người khác.)
 
-1. Avoid moving water. (Tránh những dòng nước đang chảy.)  
-2. Emergency workers will be assisting people in flooded areas. (Nhân viên cứu hộ sẽ chỉ dẫn cho những người dân trong vùng lũ.)  
-3. Return home only when authorities indicate it is safe. (Quay về nhà chỉ khi các nhà chức trách chỉ ra là mọi thứ đã an toàn.)
+**After a flood (Sau lũ):**
+1. Avoid moving water. (Tránh dòng nước đang chảy.)
+2. Emergency workers will be assisting people in flooded areas. (Nhân viên cứu hộ sẽ hỗ trợ.)
+3. Return home only when authorities indicate it is safe. (Chỉ về nhà khi chính quyền nói an toàn.)
+
+<teacher_script pause="0">
+Mẹo viết nha:
+- Dùng câu mệnh lệnh ngắn gọn: <eng>Prepare...</eng>, <eng>Stay...</eng>, <eng>Avoid...</eng>
+- Chia theo 3 giai đoạn rõ ràng: <eng>Before/During/After</eng>
+- Giải thích lý do nếu cần: tránh nước chảy vì có thể cuốn trôi hoặc có dây điện
+</teacher_script>
 
 <!-- chunk: end -->
-<teacher_script pause="0" href="audio/tts_ba688992.mp3">
-Bài học hôm nay kết thúc tại đây. Các em nhớ ôn bài và chuẩn bị cho bài học tiếp theo. Tạm biệt các em.
+<teacher_script pause="0">
+Ok hết bài <eng>Skills 2</eng>. Hôm nay em học được:
+- Từ vựng ứng phó bão: <eng>emergency kit, strengthen, broken power lines</eng>
+- Cách viết hướng dẫn theo 3 giai đoạn: <eng>Before/During/After</eng>
+- Kiến thức thực tế: tránh cửa kính trong bão, tránh dây điện đứt sau bão
+
+Kiến thức này rất quan trọng vì Việt Nam mình hay có bão lũ. Nhớ áp dụng thực tế nha. Bye!
 </teacher_script>
