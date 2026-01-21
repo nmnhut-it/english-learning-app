@@ -114,11 +114,11 @@ Bài 2. Nhìn hình và viết câu cảm thán với <eng>What</eng>. Nhớ quy
 - beautiful / colourful apple trees
 
 **Viết câu cảm thán:**
-1. _______ children! (happy)
-2. _______ picture! (colourful)
-3. _______ weather! (sunny)
-4. _______ boy! (cute)
-5. _______ apple trees! (beautiful)
+1. _______ children! (happy / beautiful)
+2. _______ picture! (colourful / nice)
+3. _______ weather! (sunny / beautiful)
+4. _______ boy! (small / cute)
+5. _______ apple trees! (beautiful / colourful)
 </questions>
 
 <teacher_script pause="0">
@@ -127,16 +127,17 @@ Ok đáp án nè.
 
 <answer>
 **Đáp án:**
-1. What happy children! *(children - số nhiều → KHÔNG có a)*
-2. What a colourful picture! *(picture - số ít → có a)*
-3. What sunny weather! *(weather - không đếm được → KHÔNG có a)*
-4. What a cute boy! *(boy - số ít → có a)*
-5. What beautiful apple trees! *(trees - số nhiều → KHÔNG có a)*
+1. What happy and beautiful children! *(children - số nhiều → KHÔNG có a)*
+2. What a colourful and nice picture! *(picture - số ít → có a)*
+3. What sunny and beautiful weather! *(weather - không đếm được → KHÔNG có a)*
+4. What a small and cute boy! *(boy - số ít → có a)*
+5. What beautiful and colourful apple trees! *(trees - số nhiều → KHÔNG có a)*
 
 **Giải thích:**
 - <eng>children, trees</eng> là số nhiều (có s) nên KHÔNG có <eng>a</eng>
 - <eng>weather</eng> là danh từ không đếm được nên KHÔNG có <eng>a</eng>
 - <eng>picture, boy</eng> là số ít đếm được nên có <eng>a</eng>
+- Dùng <eng>and</eng> để nối hai tính từ lại với nhau
 </answer>
 
 ---

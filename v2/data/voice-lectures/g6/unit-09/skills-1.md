@@ -13,7 +13,7 @@ Học từ vựng trước nha. Bài này có nhiều từ về du lịch và vi
 <vocabulary>
 **Vocabulary**
 1. **postcard** : (n) bưu thiếp /ˈpəʊstkɑːd/
-2. **fantastic** : (adj) tuyệt vời /fænˈtæstɪk/
+2. **fantastic** : (adj) tuyệt vời (= amazing) /fænˈtæstɪk/
 3. **perfect** : (adj) hoàn hảo /ˈpɜːfɪkt/
 4. **sunny** : (adj) nắng, có nắng /ˈsʌni/
 5. **swimming pool** : (n) hồ bơi /ˈswɪmɪŋ puːl/
@@ -58,11 +58,11 @@ Bài 1. Thảo luận về bưu thiếp. Khi nào người ta viết bưu thiế
 <answer>
 **Đáp án gợi ý:**
 
-**1.** When they are away from home, often on holiday or business. They want to tell their family or friends what they see and do.
-*(Khi họ xa nhà, thường là đi nghỉ hoặc công tác. Họ muốn kể cho gia đình, bạn bè những gì họ thấy và làm.)*
+**1.** When they are away from home, often on holiday or business. They want to tell their family or friends what they see and do, and how they feel about their experience there.
+*(Khi họ vắng nhà, thường đi nghỉ hoặc đi công tác. Họ muốn nói với gia đình hoặc bạn bè của họ những gì họ nhìn thấy và làm, cũng như cảm nhận của họ về trải nghiệm của họ ở đó.)*
 
-**2.** The sender often writes about his/her stay in a city or country - the weather, food, places they visit, and how they feel.
-*(Người gửi thường viết về thời gian ở một thành phố - thời tiết, đồ ăn, nơi họ thăm, và cảm nhận.)*
+**2.** The sender often writes about his/her stay in a city or country.
+*(Người gửi thường viết về thời gian ở thành phố hoặc đất nước của họ.)*
 </answer>
 
 <teacher_script pause="0">
@@ -217,10 +217,17 @@ Bài 4. Phần Nói. Chọn một thành phố em biết và trả lời các c�
 <answer>
 **Bài mẫu - Vũng Tàu:**
 
-- **What city is it?** → It's Vung Tau city.
-- **What is it like?** → It has many beautiful beaches. The weather is usually cool. Seafood is fresh, cheap and delicious.
-- **What can you see and do there?** → I can cycle along the beach, do sightseeing, climb mountains, swim in the sea, enjoy seafood, and buy souvenirs.
-- **How do you feel about it?** → It's really great! It's a liveable place.
+- **What city is it?** → It's Vũng Tàu city.
+*(Đó là thành phố Vũng Tàu.)*
+
+- **What is it like?** → It has many beautiful beaches, the weather is usually cool, seafood is fresh, cheap and delicious.
+*(Nơi đây có nhiều bãi biển đẹp, thời tiết mát mẻ, hải sản tươi, rẻ và ngon.)*
+
+- **What can you see and do there?** → In Vũng Tàu city, I can cycle along the beach, do sightseeing, climb mountains, take beautiful photos, swim in the sea and play on the beach, enjoy special food and seafood, buy souvenirs.
+*(Tại thành phố Vũng Tàu, tôi có thể đạp xe dọc theo bãi biển, ngắm cảnh, leo núi, chụp ảnh đẹp, tắm biển và vui chơi trên bãi biển, thưởng thức hải sản đặc sản, mua quà lưu niệm.)*
+
+- **How do you feel about it?** → It's really great to be in Vũng Tàu city. It's a liveable place.
+*(Thật tuyệt khi ở thành phố Vũng Tàu. Đó là một nơi đáng sống.)*
 </answer>
 
 <teacher_script pause="0">
@@ -248,9 +255,9 @@ Bài 5. Chia sẻ với cả lớp về thành phố em chọn. Bắt đầu b�
 <answer>
 **Bài mẫu hoàn chỉnh:**
 
-We're going to tell you about Vung Tau city. It has many beautiful beaches. The weather is usually cool. Seafood is fresh, cheap and delicious. In Vung Tau, we can cycle along the beach, do sightseeing, climb mountains, take beautiful photos, swim in the sea, enjoy seafood, and buy souvenirs. It's really great to be in Vung Tau city. For us, it's a wonderful place!
+We're going to tell you about Vũng Tàu city. It has many beautiful beaches, the weather is usually cool, seafood is fresh, cheap and delicious. In Vũng Tàu city, I can cycle along the beach, do sightseeing, climb mountains, take beautiful photos, swim in the sea and play on the beach, enjoy special food and seafood, buy souvenirs. It's really great to be in Vũng Tàu city. For me, it's a liveable place.
 
-*(Chúng tôi sẽ kể về thành phố Vũng Tàu. Nơi đây có nhiều bãi biển đẹp. Thời tiết thường mát mẻ. Hải sản tươi, rẻ và ngon. Ở Vũng Tàu, chúng tôi có thể đạp xe dọc bãi biển, ngắm cảnh, leo núi, chụp ảnh đẹp, tắm biển, thưởng thức hải sản và mua quà lưu niệm. Thật tuyệt khi ở Vũng Tàu. Với chúng tôi, đó là một nơi tuyệt vời!)*
+*(Chúng tôi sẽ cho bạn biết về thành phố Vũng Tàu. Nơi đây có nhiều bãi biển đẹp, thời tiết mát mẻ, hải sản tươi, rẻ và ngon. Tại thành phố Vũng Tàu, tôi có thể đạp xe dọc theo bãi biển, ngắm cảnh, leo núi, chụp những bức ảnh đẹp, tắm biển và vui chơi trên bãi biển, thưởng thức hải sản, mua quà lưu niệm. Thật tuyệt khi ở thành phố Vũng Tàu. Đối với tôi, đó là một nơi đáng sống.)*
 </answer>
 
 ---

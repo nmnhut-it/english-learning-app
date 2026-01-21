@@ -78,9 +78,9 @@ Câu 5 chọn B - <eng>intelligent</eng>. <eng>Sporty</eng> (năng động) và 
 |---|---|---|---|--------|-------|
 | 1 | volleyball (bóng chuyền) | badminton (cầu lông) | bicycle (xe đạp) | **C** | A, B là môn thể thao; C là phương tiện |
 | 2 | playground (sân chơi) | ball (bóng) | racket (vợt) | **A** | B, C là dụng cụ; A là địa điểm |
-| 3 | running (chạy) | cycling (đạp xe) | driving (lái xe) | **C** | A, B là thể thao; C là hoạt động thường ngày |
-| 4 | sports shoes (giày) | winter sports (thể thao mùa đông) | goggles (kính bơi) | **B** | A, C là dụng cụ; B là loại thể thao |
-| 5 | sporty (năng động) | intelligent (thông minh) | fit (khỏe) | **B** | A, C liên quan thể thao; B liên quan trí tuệ |
+| 3 | running (chạy) | cycling (đi xe đạp) | driving (lái xe) | **C** | A, B là thể thao; C là hoạt động thường ngày |
+| 4 | sports shoes (giày thể thao) | winter sports (thể thao mùa đông) | goggles (kính bơi) | **B** | A, C là dụng cụ; B là loại thể thao |
+| 5 | sporty (dáng vẻ thể thao) | intelligent (thông minh) | fit (vừa vặn/ cân đối) | **B** | A, C liên quan thể thao; B liên quan trí tuệ |
 
 **Mẹo:** Tìm điểm chung của 2 từ, từ còn lại khác biệt chính là đáp án.
 </explanation>
@@ -297,7 +297,7 @@ Bài 4 <eng>What do you say in these situations?</eng> nha. Nói gì trong các 
 
 <answer>
 **Đáp án:**
-1. Please, stop **making noise**.
+1. Please stop **making noise**.
 2. **Go out** to play with your friends.
 3. **Don't feed** the animals.
 4. **Stand in line**, boys!
@@ -366,7 +366,7 @@ Sports and games are very important in our lives. We all can (1) _______ a sport
 <translation>
 **Dịch đoạn văn:**
 
-Thể thao và trò chơi rất quan trọng trong cuộc sống của chúng ta. Tất cả chúng ta có thể **chơi** một môn thể thao, hoặc một trò chơi, hoặc xem các sự kiện thể thao trên TV hoặc tại sân vận động. Khi bạn nghe đài hàng ngày, bạn luôn có thể **nghe** tin tức thể thao. Khi bạn mở một tờ báo, bạn sẽ luôn tìm thấy một bài báo về loại trò chơi **yêu thích** của bạn. Các chương trình truyền hình về **thể thao** cũng rất phổ biến và bạn có thể xem nội dung thú vị mỗi ngày. Những câu chuyện về các ngôi sao thể thao **nổi tiếng** thường rất thú vị.
+Thể thao và trò chơi rất quan trọng trong cuộc sống của chúng ta. Tất cả chúng ta có thể **chơi** một môn thể thao, hoặc một trò chơi, hoặc xem các sự kiện thể thao trên TV hoặc tại sân vận động. Khi bạn nghe đài hàng ngày, bạn luôn có thể **nghe** được tin tức thể thao. Khi bạn mở một tờ báo, bạn sẽ luôn tìm thấy một bài báo về trò chơi mà bạn **yêu thích**. Các chương trình truyền hình về **thể thao** cũng rất phổ biến và bạn có thể xem nội dung nào đó thú vị mỗi ngày. Những câu chuyện về các ngôi sao thể thao **nổi tiếng** thường rất thú vị.
 </translation>
 
 <teacher_script pause="30" href="audio/tts_75ebc937.mp3">

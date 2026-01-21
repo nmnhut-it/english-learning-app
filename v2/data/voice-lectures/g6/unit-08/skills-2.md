@@ -10,6 +10,10 @@ Ok lớp 6, <eng>Skills 2</eng> nha. Mở sách trang 23 đi. Hôm nay luyện n
 ---
 
 <!-- chunk: vocabulary -->
+<teacher_script pause="0">
+Các em mở sách ra, Unit 8, bài <eng>Skills 2</eng>, ghi tựa bài. Sau đó bấm nút "Bắt đầu" bên dưới để học từ vựng. Máy sẽ đọc và các em đọc theo. Sau đó các em làm bài trắc nghiệm từ vựng rồi ghi từ vựng vô tập.
+</teacher_script>
+
 <vocabulary>
 1. **go cycling** : đi xe đạp /ɡəʊ ˈsaɪklɪŋ/
 2. **at the weekend** : vào cuối tuần /æt ðə ˈwiːkend/
@@ -173,6 +177,11 @@ Bài 3 <eng>Fill in the blanks</eng> nha. Nghe lại rồi điền từ vô ch�
 **Audio:** Listen and fill blanks
 </audio>
 
+<task>
+**Đề:** Listen again and fill each blank with a word to complete each sentence.
+**Dịch đề:** Nghe lại và điền vào mỗi chỗ trống với một từ để hoàn thành mỗi câu.
+</task>
+
 <questions type="fill_blanks">
 **1.** Hai plays _______ at school.
 
@@ -300,8 +309,8 @@ Football is a fun sport. There are 11 players on each team. People play football
 Viết đoạn văn vô vở đi. 3 phút nha. Nhớ viết theo thứ tự: Tên môn - Số người chơi - Tần suất - Dụng cụ - Lý do thích.
 </teacher_script>
 
-<teacher_script pause="0" action="record">
-Các em hãy bấm nút Ghi âm để đọc bài viết của mình và gửi cho thầy nhé.
+<teacher_script pause="0" action="photo">
+Các em hãy bấm nút Chụp ảnh để chụp bài viết của mình và gửi cho thầy nhé.
 </teacher_script>
 
 ---

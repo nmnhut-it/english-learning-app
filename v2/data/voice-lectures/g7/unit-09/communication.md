@@ -1,34 +1,40 @@
-# G7 UNIT-09 COMMUNICATION
+# UNIT 9: FESTIVALS AROUND THE WORLD
+## COMMUNICATION - Expressing Disappointment
 
 <!-- chunk: intro -->
 <teacher_script pause="0">
-Ok lớp 7, hôm nay học phần <eng>Communication</eng> nha. Mình sẽ học cách diễn đạt sự thất vọng - <eng>Expressing disappointment</eng>. Đây là kỹ năng quan trọng khi em muốn nói về điều gì đó không như mong đợi. Mở sách trang 96 đi.
+Ok lop 7, hom nay hoc phan <eng>Communication</eng> nha. Minh se hoc cach dien dat su that vong - <eng>Expressing disappointment</eng>. Day la ky nang quan trong khi em muon noi ve dieu gi do khong nhu mong doi. Mo sach trang 96 di.
 </teacher_script>
 
 <!-- chunk: vocabulary -->
 <teacher_script pause="0">
-Học từ vựng về cách diễn đạt sự thất vọng trước nha.
+Hoc tu vung ve cach dien dat su that vong truoc nha.
 </teacher_script>
 
 <vocabulary>
 **Vocabulary - Expressing Disappointment**
-1. **It was disappointing** : thật đáng thất vọng /ɪt wɒz dɪsəˈpɔɪntɪŋ/
-2. **It was a big disappointment** : đó là một sự thất vọng lớn /ɪt wɒz ə bɪɡ dɪsəˈpɔɪntmənt/
-3. **decoration** : (n) đồ trang trí /ˌdekəˈreɪʃən/
-4. **symbol** : (n) biểu tượng /ˈsɪmbəl/
+1. **It was disappointing** : that dang that vong /ɪt wɒz dɪsəˈpɔɪntɪŋ/
+2. **It was a big disappointment** : do la mot su that vong lon /ɪt wɒz ə bɪɡ dɪsəˈpɔɪntmənt/
+3. **decoration** : (n) do trang tri, vat trang tri /ˌdekəˈreɪʃən/
+4. **symbol** : (n) bieu tuong, ky hieu /ˈsɪmbəl/
 </vocabulary>
 
 <teacher_script pause="0">
-Khi muốn nói điều gì đó thất vọng, em có thể dùng: <eng>It was disappointing</eng> (Thật thất vọng), <eng>It was a big disappointment</eng> (Đó là sự thất vọng lớn), hoặc <eng>That sounds disheartening</eng> (Nghe thật nản).
+Khi muon noi dieu gi do that vong, em co the dung: <eng>It was disappointing</eng> (That that vong), <eng>It was a big disappointment</eng> (Do la su that vong lon), hoac <eng>That sounds disheartening</eng> (Nghe that nan).
 </teacher_script>
 
 ---
 
+<!-- chunk: everyday_english -->
+### Everyday English
+
+**Expressing disappointment** *(The hien su that vong)*
+
 <!-- chunk: exercise_1 -->
-### Bài 1 trang 96 - Listen and read
+### Bai 1 trang 96 - Listen and read
 
 <teacher_script pause="0">
-Bài 1. Nghe và đọc hội thoại. Chú ý các câu thể hiện sự thất vọng.
+Bai 1. Nghe va doc hoi thoai. Chu y cac cau the hien su that vong.
 </teacher_script>
 
 <audio src="https://img.loigiaihay.com/picture/2022/0815/064.mp3">
@@ -36,47 +42,47 @@ Bài 1. Nghe và đọc hội thoại. Chú ý các câu thể hiện sự thấ
 </audio>
 
 <task>
-**Đề:** Listen and read the conversation. Pay attention to the highlighted sentences.
-**Dịch đề:** Nghe và đọc đoạn hội thoại. Chú ý đến những câu được đánh dấu.
+**De:** Listen and read the conversation. Pay attention to the highlighted sentences.
+**Dich de:** Nghe va doc doan hoi thoai. Chu y den nhung cau duoc danh dau.
 </task>
 
 <dialogue>
 | English | Vietnamese |
 |---------|------------|
-| **Mi:** How was the music festival last Sunday? | Mi: Lễ hội âm nhạc diễn ra vào Chủ nhật tuần trước thế nào? |
-| **Mark:** **It was disappointing!** | Mark: **Thật đáng thất vọng!** |
-| **Mi:** Why? | Mi: Tại sao vậy? |
-| **Mark:** The band was late. | Mark: Ban nhạc đã đến muộn. |
-| **Trang:** And the singers weren't very good either. **It was a big disappointment.** | Trang: Và các ca sĩ hát cũng không tốt lắm. **Đó là một sự thất vọng lớn.** |
+| **Mi:** How was the music festival last Sunday? | Mi: Le hoi am nhac dien ra vao Chu nhat tuan truoc the nao? |
+| **Mark:** **It was disappointing!** | Mark: **That dang that vong!** |
+| **Mi:** Why? | Mi: Tai sao vay? |
+| **Mark:** The band was late. | Mark: Ban nhac da den muon. |
+| **Trang:** And the singers weren't very good either. **It was a big disappointment.** | Trang: Va cac ca si hat cung khong tot lam. **Do la mot su that vong lon.** |
 </dialogue>
 
 <teacher_script pause="0">
-Hai cách diễn đạt thất vọng nè:
-- <eng>It was disappointing!</eng> = Thật đáng thất vọng!
-- <eng>It was a big disappointment.</eng> = Đó là sự thất vọng lớn.
-Em có thể dùng những câu này khi muốn nói điều gì đó không như mong đợi.
+Hai cach dien dat that vong ne:
+- <eng>It was disappointing!</eng> = That dang that vong!
+- <eng>It was a big disappointment.</eng> = Do la su that vong lon.
+Em co the dung nhung cau nay khi muon noi dieu gi do khong nhu mong doi.
 </teacher_script>
 
 ---
 
 <!-- chunk: exercise_2 -->
-### Bài 2 trang 96 - Make conversations
+### Bai 2 trang 96 - Make conversations
 
 <teacher_script pause="60">
-Bài 2. Đọc hai tình huống và tạo hội thoại tương tự. Dùng các cách diễn đạt thất vọng đã học. 1 phút.
+Bai 2. Doc hai tinh huong va tao hoi thoai tuong tu. Dung cac cach dien dat that vong da hoc. 1 phut.
 </teacher_script>
 
 <task>
-**Đề:** Work in groups. Make a similar conversation for each situation below.
-**Dịch đề:** Làm việc nhóm. Tạo một cuộc hội thoại tương tự cho mỗi tình huống dưới đây.
+**De:** Work in groups. Make a similar conversation for each situation below.
+**Dich de:** Lam viec nhom. Tao mot cuoc hoi thoai tuong tu cho moi tinh huong duoi day.
 </task>
 
 <questions type="speaking">
-**Situation 1:** Your friend went to a film festival for teenagers, but there were not many films he/she liked.
-*(Bạn của bạn đã đến một liên hoan phim dành cho thanh thiếu niên, nhưng không có nhiều bộ phim mà bạn ấy thích.)*
+**Situation 1:** Your friend went to a film festival for teenagers, but there were not many films he / she liked.
+*(Ban cua ban da den mot lien hoan phim danh cho lua tuoi thanh thieu nien, nhung khong co nhieu bo phim ma anh ay / co ay thich.)*
 
 **Situation 2:** Your friend went to the market to buy decorations for the Mid-Autumn Festival. But there were not many decorations to choose from.
-*(Bạn của bạn đi chợ mua đồ trang trí cho Tết Trung Thu. Nhưng không có nhiều đồ trang trí để lựa chọn.)*
+*(Ban cua ban di cho de mua do trang tri cho ngay Tet Trung Thu. Nhung khong co nhieu do trang tri de lua chon.)*
 </questions>
 
 <answer>
@@ -84,31 +90,34 @@ Bài 2. Đọc hai tình huống và tạo hội thoại tương tự. Dùng cá
 
 | English | Vietnamese |
 |---------|------------|
-| **A:** How was the film festival yesterday? | A: Liên hoan phim hôm qua thế nào? |
-| **B:** It was dull and boring. | B: Nó thật buồn tẻ và chán. |
-| **A:** What's the problem? | A: Vấn đề là gì? |
-| **B:** Almost all of the films were not interesting. | B: Hầu như tất cả các bộ phim đều không thú vị. |
+| **A:** How was the film festival yesterday? | A: Lien hoan phim hom qua the nao? |
+| **B:** It was dull and boring. | B: No that buon te va buon te. |
+| **A:** What's the problem? | A: Van de la gi? |
+| **B:** Almost all of the films were not interesting. | B: Hau nhu tat ca cac bo phim deu khong thu vi. |
 
 **Situation 2:**
 
 | English | Vietnamese |
 |---------|------------|
-| **A:** Did you buy anything when you went to the market? | A: Bạn có mua gì khi đi chợ không? |
-| **B:** Unfortunately, I could not choose anything as there is not a wide range of decorations for the Mid-Autumn Festival. | B: Thật không may, mình không thể chọn được gì vì không có nhiều đồ trang trí cho Tết Trung thu. |
-| **A:** That sounds disheartening. | A: Nghe thật đáng thất vọng! |
+| **A:** Did you buy anything when you went to the market? | A: Ban co mua gi khi di cho khong? |
+| **B:** Unfortunately, I could not choose anything as there is not a wide range of decorations for the Mid-Autumn Festival. | B: That khong may, minh da khong the chon bat cu thu gi vi khong co nhieu do trang tri cho Tet Trung thu. |
+| **A:** That sounds disheartening. | A: Dieu do nghe that dang that vong! |
 </answer>
 
 <teacher_script pause="0">
-Thêm một số cách diễn đạt thất vọng nữa nè: <eng>It was dull and boring</eng> (Thật buồn chán), <eng>That sounds disheartening</eng> (Nghe thật nản), <eng>What a pity!</eng> (Thật đáng tiếc!).
+Them mot so cach dien dat that vong nua ne: <eng>It was dull and boring</eng> (That buon chan), <eng>That sounds disheartening</eng> (Nghe that nan), <eng>What a pity!</eng> (That dang tiec!).
 </teacher_script>
 
 ---
 
+<!-- chunk: festival_symbols_header -->
+### Festival symbols
+
 <!-- chunk: exercise_3 -->
-### Bài 3 trang 97 - Festival symbols
+### Bai 3 trang 96 - Listen and fill in the blanks
 
 <teacher_script pause="60">
-Bài 3. Nghe Mark nói về biểu tượng lễ hội và điền từ vào chỗ trống. Mỗi chỗ trống chỉ điền MỘT từ. 1 phút.
+Bai 3. Nghe Mark noi ve bieu tuong le hoi va dien tu vao cho trong. Moi cho trong chi dien MOT tu. 1 phut.
 </teacher_script>
 
 <audio src="https://img.loigiaihay.com/picture/2022/0815/065.mp3">
@@ -116,8 +125,8 @@ Bài 3. Nghe Mark nói về biểu tượng lễ hội và điền từ vào ch�
 </audio>
 
 <task>
-**Đề:** Listen to Mark talking about festival symbols. Fill in each blank with ONE word.
-**Dịch đề:** Nghe Mark nói về các biểu tượng lễ hội. Điền vào mỗi chỗ trống MỘT từ.
+**De:** Listen to Mark talking about festival symbols. Fill in each blank with ONE word.
+**Dich de:** Nghe Mark noi ve cac bieu tuong le hoi. Dien vao moi cho trong MOT tu.
 </task>
 
 <reading>
@@ -125,126 +134,126 @@ Bài 3. Nghe Mark nói về biểu tượng lễ hội và điền từ vào ch�
 
 | English | Vietnamese |
 |---------|------------|
-| A lot of festivals have their own symbols. | Rất nhiều lễ hội có những biểu tượng riêng của chúng. |
-| A festival symbol is an image we use or think of when we celebrate a festival. | Biểu tượng lễ hội là hình ảnh mà ta sử dụng hoặc nghĩ đến khi tổ chức một lễ hội. |
-| It usually has a special meaning. | Nó thường mang một ý nghĩa đặc biệt. |
-| For example, when we talk about Christmas, we think of the Christmas tree. | Ví dụ, khi nói về Giáng sinh, ta nghĩ đến cây thông Noel. |
-| It's the symbol of a long life. | Nó là biểu tượng của một cuộc sống lâu dài. |
-| We can also think of Santa Claus. | Ta cũng nghĩ đến ông già Noel. |
-| He's the symbol of joy and happiness. | Ông ấy là biểu tượng của niềm vui và hạnh phúc. |
+| A lot of festivals have their own symbols. | Rat nhieu le hoi co nhung bieu tuong rieng cua chung. |
+| A festival symbol is an image we use or think of when we celebrate a festival. | Bieu tuong le hoi la hinh anh ma ta su dung hoac nghi den khi to chuc mot le hoi. |
+| It usually has a special meaning. | No thuong mang mot y nghia dac biet. |
+| For example, when we talk about Christmas, we think of the Christmas tree. | Vi du, khi noi ve Giang sinh, ta nghi den cay thong Noel. |
+| It's the symbol of a long life. | No la bieu tuong cua mot cuoc song lau dai. |
+| We can also think of Santa Claus. | Ta cung nghi den ong gia Noel. |
+| He's the symbol of joy and happiness. | Ong ay la bieu tuong cua niem vui va hanh phuc. |
 </reading>
 
 <questions type="fill_blanks">
 1. A symbol is an image we use or _______ of when celebrating a festival.
-   *(Một biểu tượng là hình ảnh mà ta sử dụng hoặc _______ đến khi tổ chức một lễ hội.)*
+   *(Mot bieu tuong la hinh anh ma ta su dung hoac _______ den khi to chuc mot le hoi.)*
 
 2. A symbol usually has a special _______.
-   *(Một biểu tượng thường mang một _______ đặc biệt.)*
+   *(Mot bieu tuong thuong mang mot _______ dac biet.)*
 
 3. The Christmas tree is the symbol of a long _______.
-   *(Cây thông Noel là biểu tượng của một cuộc _______ lâu dài.)*
+   *(Cay thong Noel la bieu tuong cua mot cuoc _______ lau dai.)*
 
 4. Santa Claus is the symbol of joy and _______.
-   *(Ông già Noel là biểu tượng của niềm vui và sự _______.)*
+   *(Ong gia Noel la bieu tuong cua niem vui va su _______.)*
 </questions>
 
 <teacher_script pause="0">
-Ok đáp án nè.
+Ok dap an ne.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. think | 2. meaning | 3. life | 4. happiness
+**Dap an:** 1. think | 2. meaning | 3. life | 4. happiness
 
-**Giải thích:**
-1. **think** - "an image we use or **think** of" = hình ảnh ta sử dụng hoặc nghĩ đến
-2. **meaning** - "a special **meaning**" = ý nghĩa đặc biệt
-3. **life** - "symbol of a long **life**" = biểu tượng của cuộc sống lâu dài
-4. **happiness** - "joy and **happiness**" = niềm vui và hạnh phúc
+**Giai thich:**
+1. **think** - "an image we use or **think** of" = hinh anh ta su dung hoac nghi den
+2. **meaning** - "a special **meaning**" = y nghia dac biet
+3. **life** - "symbol of a long **life**" = bieu tuong cua cuoc song lau dai
+4. **happiness** - "joy and **happiness**" = niem vui va hanh phuc
 </answer>
 
 ---
 
 <!-- chunk: exercise_4 -->
-### Bài 4 trang 97 - Match festivals with symbols
+### Bai 4 trang 96 - Match festivals with symbols
 
 <teacher_script pause="60">
-Bài 4. Nối mỗi lễ hội với biểu tượng và ý nghĩa của nó. Cần nối 3 cột: lễ hội - biểu tượng - ý nghĩa. 1 phút.
+Bai 4. Noi moi le hoi voi bieu tuong va y nghia cua no. Can noi 3 cot: le hoi - bieu tuong - y nghia. 1 phut.
 </teacher_script>
 
 <task>
-**Đề:** Work in pairs. Match each festival with its symbol and meaning.
-**Dịch đề:** Làm việc theo cặp. Nối mỗi lễ hội với biểu tượng và ý nghĩa của nó.
+**De:** Work in pairs. Match each festival with its symbol and meaning.
+**Dich de:** Lam viec theo cap. Noi moi le hoi voi bieu tuong va y nghia cua no.
 </task>
 
 <questions type="matching">
 | Festival | Symbol | Meaning |
 |----------|--------|---------|
-| 1. Mid-Autumn Festival | A. black cat *(mèo đen)* | a. It is the symbol of a new life because it has a lot of babies. *(Biểu tượng của cuộc sống mới vì nó có nhiều con.)* |
-| 2. Halloween | B. The Golden Palm *(Cành Cọ Vàng)* | b. It is the symbol of the moon, prosperity and family reunion. *(Biểu tượng của mặt trăng, thịnh vượng và đoàn tụ gia đình.)* |
-| 3. Easter | C. moon cake *(bánh trung thu)* | c. It is the symbol of bad luck. *(Biểu tượng của sự xui xẻo.)* |
-| 4. Cannes Film Festival | D. Easter Bunny *(Thỏ Phục sinh)* | d. It is the symbol of the winner's prize. *(Biểu tượng của giải thưởng cho người chiến thắng.)* |
+| 1. Mid-Autumn Festival | A. black cat *(meo den)* | a. It is the symbol of a new life because it has a lot of babies. *(Bieu tuong cua cuoc song moi vi no co nhieu con.)* |
+| 2. Halloween | B. The Golden Palm *(Canh Co Vang)* | b. It is the symbol of the moon, prosperity and family reunion. *(Bieu tuong cua mat trang, thinh vuong va doan tu gia dinh.)* |
+| 3. Easter | C. moon cake *(banh trung thu)* | c. It is the symbol of bad luck. *(Bieu tuong cua su kem may man.)* |
+| 4. Cannes Film Festival | D. Easter Bunny *(Tho Phuc sinh)* | d. It is the symbol of the winner's prize. *(Bieu tuong cua giai thuong cho nguoi chien thang.)* |
 </questions>
 
 <teacher_script pause="0">
-Ok đáp án nè.
+Ok dap an ne.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1 - C - b | 2 - A - c | 3 - D - a | 4 - B - d
+**Dap an:** 1 - C - b | 2 - A - c | 3 - D - a | 4 - B - d
 
-**Giải thích:**
-- **Mid-Autumn Festival** → **C. moon cake** → **b. moon, prosperity, family reunion**
-  (Tết Trung thu có bánh trung thu - biểu tượng mặt trăng, thịnh vượng và đoàn tụ gia đình)
+**Giai thich:**
+- **Mid-Autumn Festival** -> **C. moon cake** -> **b. moon, prosperity, family reunion**
+  (Tet Trung thu co banh trung thu - bieu tuong mat trang, thinh vuong va doan tu gia dinh)
 
-- **Halloween** → **A. black cat** → **c. bad luck**
-  (Halloween có mèo đen - biểu tượng của sự xui xẻo, bí ẩn)
+- **Halloween** -> **A. black cat** -> **c. bad luck**
+  (Halloween co meo den - bieu tuong cua su kem may man)
 
-- **Easter** → **D. Easter Bunny** → **a. new life, many babies**
-  (Lễ Phục sinh có Thỏ Phục sinh - biểu tượng cuộc sống mới vì thỏ đẻ nhiều con)
+- **Easter** -> **D. Easter Bunny** -> **a. new life, many babies**
+  (Le Phuc sinh co Tho Phuc sinh - bieu tuong cuoc song moi vi tho de nhieu con)
 
-- **Cannes Film Festival** → **B. The Golden Palm** → **d. winner's prize**
-  (Liên hoan phim Cannes có Cành Cọ Vàng - giải thưởng cao quý nhất)
+- **Cannes Film Festival** -> **B. The Golden Palm** -> **d. winner's prize**
+  (Lien hoan phim Cannes co Canh Co Vang - giai thuong cao quy nhat)
 </answer>
 
 ---
 
 <!-- chunk: exercise_5 -->
-### Bài 5 trang 97 - Talk about festival symbols
+### Bai 5 trang 97 - Talk about festival symbols
 
 <teacher_script pause="120">
-Bài 5. Chọn một lễ hội và nói về biểu tượng và ý nghĩa của nó. Dùng mẫu câu: <eng>When we talk about..., we think of...</eng> 2 phút.
+Bai 5. Chon mot le hoi va noi ve bieu tuong va y nghia cua no. Dung mau cau: <eng>When we talk about..., we think of...</eng> 2 phut.
 </teacher_script>
 
 <task>
-**Đề:** Work in groups. Choose a festival and talk about its symbol(s) and meaning.
-**Dịch đề:** Làm việc nhóm. Chọn một lễ hội và nói về (các) biểu tượng và ý nghĩa của nó.
+**De:** Work in groups. Choose a festival and talk about its symbol(s) and meaning.
+**Dich de:** Lam viec nhom. Chon mot le hoi va noi ve (cac) bieu tuong va y nghia cua no.
 </task>
 
 <dialogue>
-**Ví dụ mẫu:**
+**Vi du mau:**
 | English | Vietnamese |
 |---------|------------|
-| When we talk about Christmas, we think of the Christmas tree. | Khi nói về Giáng sinh, ta nghĩ đến cây thông Noel. |
-| It is the symbol of a long life. | Nó là biểu tượng của cuộc sống lâu dài. |
+| When we talk about Christmas, we think of the Christmas tree. | Khi noi ve Giang sinh, ta nghi den cay thong Noel. |
+| It is the symbol of a long life. | No la bieu tuong cua cuoc song lau dai. |
 </dialogue>
 
 <answer>
-**Bài mẫu 1 - Tết:**
+**Bai mau 1 - Tet:**
 When we talk about Tet holiday, we often think of peach blossoms, apricot blossoms and kumquat trees. They are the symbols of good luck and prosperity.
-*(Nhắc đến ngày Tết, ta thường nghĩ đến hoa đào, hoa mai và cây quất. Chúng là biểu tượng của may mắn và thịnh vượng.)*
+*(Nhac den ngay Tet, ta thuong nghi den hoa dao, hoa mai va cay quat. Chung la bieu tuong cua may man va thinh vuong.)*
 
-**Bài mẫu 2 - Tết Trung thu:**
+**Bai mau 2 - Tet Trung thu:**
 When we talk about Mid-Autumn Festival, we think of the moon cake. It is the symbol of the moon, prosperity and family reunion.
-*(Nói đến Tết Trung thu, ta nghĩ ngay đến bánh trung thu. Nó là biểu tượng của mặt trăng, sự thịnh vượng và đoàn tụ gia đình.)*
+*(Noi den Tet Trung thu, ta nghi ngay den banh trung thu. No la bieu tuong cua mat trang, su thinh vuong va doan tu gia dinh.)*
 </answer>
 
 <teacher_script pause="0">
-Mẹo nói nha:
-- Bắt đầu: <eng>When we talk about [lễ hội], we think of [biểu tượng].</eng>
-- Giải thích ý nghĩa: <eng>It is the symbol of [ý nghĩa].</eng>
+Meo noi nha:
+- Bat dau: <eng>When we talk about [le hoi], we think of [bieu tuong].</eng>
+- Giai thich y nghia: <eng>It is the symbol of [y nghia].</eng>
 </teacher_script>
 
 <!-- chunk: end -->
 <teacher_script pause="0">
-Ok hết bài <eng>Communication</eng>. Hôm nay em học được cách diễn đạt sự thất vọng: <eng>It was disappointing</eng>, <eng>That sounds disheartening</eng>. Cũng học về ý nghĩa biểu tượng trong các lễ hội: <eng>moon cake</eng> = sum họp, <eng>peach flower</eng> = khởi đầu mới, <eng>pumpkin</eng> = mùa thu hoạch. Bài sau học <eng>Skills 1</eng>. Bye!
+Ok het bai <eng>Communication</eng>. Hom nay em hoc duoc cach dien dat su that vong: <eng>It was disappointing</eng>, <eng>That sounds disheartening</eng>. Cung hoc ve y nghia bieu tuong trong cac le hoi: <eng>moon cake</eng> = sum hop, <eng>peach flower</eng> = khoi dau moi, <eng>pumpkin</eng> = mua thu hoach. Bai sau hoc <eng>Skills 1</eng>. Bye!
 </teacher_script>

@@ -216,7 +216,7 @@ Câu 5 chọn B - <eng>Did you</eng>. Câu hỏi quá khứ đơn có cấu trú
 - ❌ "doesn't ask" → Sai! Phải dùng "didn't ask" (quá khứ)
 </explanation>
 
-<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
+<teacher_script pause="30">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -301,7 +301,7 @@ Câu 6 điền <eng>scored</eng>. <eng>Score</eng> (ghi bàn) là động từ c
 | 6 | score | **scored** | Quy tắc (+d vì đã có e) |
 </explanation>
 
-<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
+<teacher_script pause="30">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -321,27 +321,36 @@ Bài 3 <eng>Work in groups</eng> nha. Hỏi đáp về hoạt động cuối tu�
 </task>
 
 <dialogue>
-**Mẫu hội thoại:**
+**Example - Mẫu hội thoại:**
 
 | English | Vietnamese |
 |---------|------------|
 | **A:** Did you do any sports last weekend? | A: Cuối tuần trước bạn có chơi thể thao không? |
-| **B:** Oh, yes, I played football. | B: Có, mình đã chơi bóng đá. |
-| **A:** Really? Did you win? | A: Thật à? Bạn có thắng không? |
-| **B:** Yes, we won! I scored a goal. | B: Có, chúng mình thắng! Mình ghi được 1 bàn. |
+| **B:** Oh, yes, and I was exhausted. | B: Ồ, có chứ, và mình rất mệt luôn. |
+| **C:** Really? What did you do? | C: Thật à? Bạn đã làm gì? |
 </dialogue>
 
-<grammar>
-**Các câu hỏi gợi ý:**
+<teacher_script pause="0">
+Đây là hội thoại gợi ý nè. Đọc và tham khảo cách hỏi đáp nha.
+</teacher_script>
 
-| Question | Vietnamese |
-|----------|------------|
-| Did you do any sports last weekend? | Cuối tuần bạn có chơi thể thao không? |
-| What did you do? | Bạn đã làm gì? |
-| Where did you go? | Bạn đã đi đâu? |
-| Who did you go with? | Bạn đi với ai? |
-| Did you have fun? | Bạn có vui không? |
-</grammar>
+<dialogue>
+**Lời giải chi tiết:**
+
+| English | Vietnamese |
+|---------|------------|
+| **A:** Did you do any sports last weekend? | A: Cuối tuần trước bạn có chơi thể thao không? |
+| **B:** Oh, yes, and I was exhausted. | B: Ồ, có chứ, và mình rất mệt luôn. |
+| **C:** Really? What did you do? | C: Thật à? Bạn đã làm gì? |
+| **A:** I played football with my neighbours at the stadium. We had a great football match. | A: Tôi đã đá bóng với những người hàng xóm của mình tại sân vận động. Chúng mình đã có một trận đấu bóng đá tuyệt vời. |
+| **B:** What was the result? | B: Kết quả thế nào? |
+| **A:** We won and I scored a beautiful goal. How about you? | A: Chúng mình đã thắng và mình đã ghi một bàn thắng đẹp. Còn bạn thì sao? |
+| **B:** I also had a nice weekend with my family. We had a barbecue in the park near our house. | B: Mình cũng đã có một ngày cuối tuần vui vẻ với gia đình. Chúng mình đã có một bữa tiệc nướng trong công viên gần nhà. |
+| **C:** Did you fly the kites? It was windy last weekend. | C: Bạn có thả diều không? Cuối tuần trước trời có gió đấy. |
+| **B:** Oh, yes. I had a lot of fun. How was your last weekend? | B: Ồ, có chứ. Mình đã có rất nhiều niềm vui. Cuối tuần trước của bạn thế nào? |
+| **C:** I came back my hometown to visit my grandparents. I swam in the river with the children there. It was really interesting. | C: Mình về quê thăm ông bà. Mình đã tắm với lũ trẻ ở đó. Nó thật sự thú vị. |
+| **A:** It sounds great! | A: Nghe có vẻ vui đó! |
+</dialogue>
 
 <teacher_script pause="0" action="record">
 Các em hãy bấm nút Ghi âm để chia sẻ về cuối tuần trước của mình. Nhớ sử dụng thì quá khứ đơn nhé.
@@ -486,12 +495,12 @@ Câu 5 chọn <eng>Try</eng>. Tranh người đang tập thể dục buổi sán
 | 5 | **Try** | Tập thể dục | Khuyến khích dậy sớm |
 
 **Quy tắc an toàn:** Khi có cháy:
-- ❌ KHÔNG dùng thang máy
-- ✅ Dùng cầu thang bộ
-- ✅ Bò sát mặt đất (tránh khói)
+- Không dùng thang máy
+- Dùng cầu thang bộ
+- Bò sát mặt đất (tránh khói)
 </explanation>
 
-<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
+<teacher_script pause="30">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -513,23 +522,27 @@ Bài 5 <eng>Gym Rules</eng> nha. Nói cho bạn biết những điều nên làm
 <grammar>
 ## GYM RULES - Quy định phòng tập
 
-**Nên làm (Do):**
+**Examples - Ví dụ:**
 | English | Vietnamese |
 |---------|------------|
 | Change your clothes. | Thay quần áo. |
-| Put on your sports shoes. | Mang giày thể thao. |
-| Listen to the instructor carefully. | Lắng nghe người hướng dẫn cẩn thận. |
-| Pay your fee first. | Trả phí trước. |
-| Bring your own towel. | Mang khăn của riêng bạn. |
+| Don't speak loudly. | Không nói to. |
+</grammar>
 
-**Không nên làm (Don't):**
+<teacher_script pause="0">
+Đây là lời giải chi tiết nè. Các em tham khảo thêm các câu gợi ý nha.
+</teacher_script>
+
+<grammar>
+**Lời giải chi tiết:**
+
 | English | Vietnamese |
 |---------|------------|
-| Don't speak loudly. | Không nói to. |
+| Pay your fee first. | Trả phí trước. |
+| Put on your trainers/ sports shoes. | Mang giày thể thao. |
+| Listen to the instructor carefully. | Lắng nghe thật kỹ người hướng dẫn bạn. |
 | Don't litter. | Không xả rác. |
-| Don't eat or drink at the gym. | Không ăn uống trong phòng tập. |
-| Don't use your phone. | Không dùng điện thoại. |
-| Don't leave your belongings. | Không bỏ quên đồ đạc. |
+| Don't eat or drink at the gym. | Không ăn hoặc uống trong phòng tập. |
 </grammar>
 
 <teacher_script pause="60">
@@ -538,280 +551,6 @@ Viết 5 câu quy định phòng tập vô vở đi, gồm 3 câu mệnh lệnh 
 
 <teacher_script pause="0" action="record">
 Các em hãy bấm nút Ghi âm để đọc các quy định phòng tập và gửi cho thầy nhé.
-</teacher_script>
-
----
-
-<!-- chunk: additional_practice -->
-### Bài tập thực hành bổ sung
-
-<teacher_script pause="0">
-Làm thêm bài tập thực hành để củng cố ngữ pháp nha. Bài này quan trọng lắm đó!
-</teacher_script>
-
----
-
-<!-- chunk: practice_1 -->
-### Bài tập 1 - Past Simple Practice
-
-<teacher_script pause="120">
-Bài tập 1 nha. Chia động từ trong ngoặc ở thì quá khứ đơn đi. 2 phút.
-</teacher_script>
-
-<questions type="fill_blanks">
-**1.** We (play) _______ football yesterday.
-
-*Chúng tôi chơi bóng đá hôm qua.*
-
-**2.** She (not watch) _______ TV last night.
-
-*Cô ấy không xem TV tối qua.*
-
-**3.** _______ you (go) _______ to the gym last week?
-
-*Bạn có đi phòng tập tuần trước không?*
-
-**4.** They (win) _______ the match last Sunday.
-
-*Họ đã thắng trận đấu Chủ nhật tuần trước.*
-
-**5.** He (be) _______ at school yesterday.
-
-*Anh ấy ở trường hôm qua.*
-</questions>
-
----
-
-<!-- chunk: answer_practice_1 -->
-<teacher_script pause="0">
-Đã hết thời gian. Ok đáp án nè.
-</teacher_script>
-
-<answer>
-**Đáp án:** 1. played | 2. didn't watch | 3. Did you go | 4. won | 5. was
-</answer>
-
-<teacher_script pause="0">
-Câu 1: <eng>played</eng> - động từ có quy tắc, thêm -ed. Có "yesterday" nên dùng quá khứ đơn.
-</teacher_script>
-
-<teacher_script pause="0">
-Câu 2: <eng>didn't watch</eng> - câu phủ định: didn't + động từ nguyên mẫu.
-</teacher_script>
-
-<teacher_script pause="0">
-Câu 3: <eng>Did you go</eng> - câu hỏi: Did + chủ ngữ + động từ nguyên mẫu?
-</teacher_script>
-
-<teacher_script pause="0">
-Câu 4: <eng>won</eng> - động từ bất quy tắc: win-won-won. Thắng trận là "won".
-</teacher_script>
-
-<teacher_script pause="0">
-Câu 5: <eng>was</eng> - động từ to be ở quá khứ: he/she/it → was.
-</teacher_script>
-
-<teacher_script pause="30">
-Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
-</teacher_script>
-
----
-
-<!-- chunk: practice_2 -->
-### Bài tập 2 - Imperatives Practice
-
-<teacher_script pause="180">
-Bài tập 2 nè. Viết câu mệnh lệnh phù hợp với từng tình huống đi. 3 phút.
-</teacher_script>
-
-<questions type="complete_sentences">
-**1.** Your friend is making noise in the library. (quiet)
-→ _______________________________________
-
-*Bạn của bạn đang làm ồn trong thư viện.*
-
-**2.** Your brother wants to cross the street when the light is red. (cross)
-→ _______________________________________
-
-*Em trai bạn muốn qua đường khi đèn đỏ.*
-
-**3.** Your sister is going out without a coat on a cold day. (wear)
-→ _______________________________________
-
-*Em gái bạn ra ngoài không mặc áo khoác trong ngày lạnh.*
-
-**4.** Your friend is touching a hot pan. (touch)
-→ _______________________________________
-
-*Bạn của bạn đang chạm vào chảo nóng.*
-
-**5.** You want your classmate to open the window. (open)
-→ _______________________________________
-
-*Bạn muốn bạn cùng lớp mở cửa sổ.*
-
-**6.** Your friend is about to eat food without washing hands. (wash)
-→ _______________________________________
-
-*Bạn của bạn sắp ăn mà không rửa tay.*
-
-**7.** You want your teammate to pass you the ball. (pass)
-→ _______________________________________
-
-*Bạn muốn đồng đội chuyền bóng cho bạn.*
-
-**8.** Your friend is running in the corridor. (run)
-→ _______________________________________
-
-*Bạn của bạn đang chạy trong hành lang.*
-</questions>
-
----
-
-<!-- chunk: answer_practice_2 -->
-<teacher_script pause="0">
-Đã hết thời gian. Ok đáp án nè.
-</teacher_script>
-
-<answer>
-**Đáp án:**
-
-1. Be quiet! / Don't make noise!
-2. Don't cross the street!
-3. Wear a coat!
-4. Don't touch it!
-5. Open the window, please!
-6. Wash your hands first!
-7. Pass me the ball!
-8. Don't run in the corridor!
-</answer>
-
-<teacher_script pause="0">
-Câu 1: <eng>Be quiet!</eng> hoặc <eng>Don't make noise!</eng> - Cần yên tĩnh trong thư viện.
-</teacher_script>
-
-<teacher_script pause="0">
-Câu 2: <eng>Don't cross the street!</eng> - Cấm qua đường khi đèn đỏ, nguy hiểm lắm.
-</teacher_script>
-
-<teacher_script pause="0">
-Câu 3: <eng>Wear a coat!</eng> - Yêu cầu mặc áo khoác vì trời lạnh.
-</teacher_script>
-
-<teacher_script pause="0">
-Câu 4: <eng>Don't touch it!</eng> - Cấm chạm vào vì nóng, bỏng tay.
-</teacher_script>
-
-<teacher_script pause="0">
-Câu 5: <eng>Open the window, please!</eng> - Yêu cầu lịch sự, thêm "please".
-</teacher_script>
-
-<teacher_script pause="0">
-Câu 6: <eng>Wash your hands first!</eng> - Yêu cầu rửa tay trước khi ăn, vệ sinh quan trọng.
-</teacher_script>
-
-<teacher_script pause="0">
-Câu 7: <eng>Pass me the ball!</eng> - Yêu cầu chuyền bóng khi chơi.
-</teacher_script>
-
-<teacher_script pause="0">
-Câu 8: <eng>Don't run in the corridor!</eng> - Cấm chạy trong hành lang, không an toàn.
-</teacher_script>
-
-<teacher_script pause="30">
-Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
-</teacher_script>
-
----
-
-<!-- chunk: practice_3 -->
-### Bài tập 3 - Mixed Practice
-
-<teacher_script pause="120">
-Bài tập cuối kết hợp cả hai phần nè. Chọn đáp án đúng đi. 2 phút.
-</teacher_script>
-
-<questions type="multiple_choice">
-**1.** We _______ to the beach last summer.
-- A. go
-- B. went
-- C. goes
-
-*Chúng tôi đi biển mùa hè năm ngoái.*
-
-**2.** _______ your homework now!
-- A. Do
-- B. Did
-- C. Does
-
-*Làm bài tập ngay đi!*
-
-**3.** She _______ any sports yesterday.
-- A. doesn't play
-- B. didn't play
-- C. don't play
-
-*Cô ấy không chơi thể thao nào hôm qua.*
-
-**4.** _______ late for school!
-- A. Don't be
-- B. Doesn't be
-- C. Didn't be
-
-*Đừng đi học muộn!*
-
-**5.** _______ you watch the match last night?
-- A. Do
-- B. Does
-- C. Did
-
-*Bạn có xem trận đấu tối qua không?*
-
-**6.** _______ me when you need help!
-- A. Call
-- B. Called
-- C. Calling
-
-*Gọi tôi khi bạn cần giúp đỡ!*
-</questions>
-
----
-
-<!-- chunk: answer_practice_3 -->
-<teacher_script pause="0">
-Đã hết thời gian. Ok đáp án nè.
-</teacher_script>
-
-<answer>
-**Đáp án:** 1.B | 2.A | 3.B | 4.A | 5.C | 6.A
-</answer>
-
-<teacher_script pause="0">
-Câu 1: <eng>went</eng> - quá khứ của "go", có "last summer" nên dùng quá khứ.
-</teacher_script>
-
-<teacher_script pause="0">
-Câu 2: <eng>Do</eng> - câu mệnh lệnh, dùng động từ nguyên mẫu. "Do your homework!"
-</teacher_script>
-
-<teacher_script pause="0">
-Câu 3: <eng>didn't play</eng> - câu phủ định quá khứ, có "yesterday".
-</teacher_script>
-
-<teacher_script pause="0">
-Câu 4: <eng>Don't be</eng> - câu mệnh lệnh phủ định với "be": Don't + be.
-</teacher_script>
-
-<teacher_script pause="0">
-Câu 5: <eng>Did</eng> - câu hỏi quá khứ, có "last night".
-</teacher_script>
-
-<teacher_script pause="0">
-Câu 6: <eng>Call</eng> - câu mệnh lệnh, dùng động từ nguyên mẫu.
-</teacher_script>
-
-<teacher_script pause="30">
-Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---

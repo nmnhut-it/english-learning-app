@@ -1,182 +1,291 @@
-# G6 UNIT-09 A CLOSER LOOK 1
+# UNIT 9: CITIES OF THE WORLD
+## A CLOSER LOOK 1 - Vocabulary & Pronunciation
 
 <!-- chunk: intro -->
 <teacher_script pause="0">
-Ok lớp 6, hôm nay mình học tiếp Unit 9 phần <eng>A Closer Look 1</eng> nha. Phần này mình học thêm từ vựng mô tả thành phố và cách phát âm. Mở sách trang 28 đi.
+Ok lớp 6, hôm nay mình học tiếp Unit 9 phần <eng>A Closer Look 1</eng> nha. Phần này mình học thêm từ vựng mô tả thành phố và cách phát âm hai âm /əʊ/ và /aʊ/. Mở sách trang 28 đi.
 </teacher_script>
 
 <!-- chunk: vocabulary -->
 <teacher_script pause="0">
-Trước hết học từ vựng nha. Bài này có nhiều tính từ hay lắm để mô tả người và đồ ăn ở một thành phố. Ví dụ <eng>friendly</eng> là thân thiện - dùng để nói người dân thân thiện. <eng>Delicious</eng> và <eng>tasty</eng> đều là ngon - dùng để khen đồ ăn. Em nghe và đọc theo hen.
+Trước hết học từ vựng nha. Bài này có nhiều tính từ hay lắm để mô tả thành phố, đồ ăn, con người và thời tiết. Em nghe và đọc theo hen.
 </teacher_script>
 
 <vocabulary>
-**Vocabulary**
-1. **landmark** : (n) địa danh, thắng cảnh /ˈlændmɑːk/
-2. **rainy** : (adj) mưa, có mưa /ˈreɪni/
-3. **friendly** : (adj) thân thiện, thân thiết /ˈfrendli/
-4. **tasty** : (adj) ngon miệng /ˈteɪsti/
-5. **old** : (adj) cũ, già /əʊld/
-6. **exciting** : (adj) thú vị, hào hứng /ɪkˈsaɪtɪŋ/
-7. **helpful** : (adj) hữu ích, hay giúp đỡ /ˈhelpfʊl/
-8. **delicious** : (adj) ngon, thơm ngon /dɪˈlɪʃəs/
-9. **sunny** : (adj) nắng, có nắng /ˈsʌni/
-10. **city** : (n) thành phố /ˈsɪti/
-11. **food** : (n) thức ăn, đồ ăn /fuːd/
-12. **people** : (n) người, dân /ˈpiːpl/
-13. **weather** : (n) thời tiết /ˈweðə/
-14. **famous** : (adj) nổi tiếng /ˈfeɪməs/
-15. **street food** : món ăn đường phố /striːt fuːd/
-16. **building** : (n) tòa nhà, công trình /ˈbɪldɪŋ/
-17. **tell stories** : kể chuyện /tel ˈstɔːriz/
-18. **floating market** : chợ nổi /ˈfləʊtɪŋ ˈmɑːkɪt/
-19. **stall** : (n) quầy hàng, gian hàng /stɔːl/
-20. **palace** : (n) cung điện, lâu đài /ˈpælɪs/
+1. **rainy** : (adj) có mưa /ˈreɪni/
+2. **friendly** : (adj) thân thiện /ˈfrendli/
+3. **tasty** : (adj) ngon /ˈteɪsti/
+4. **old** : (adj) cũ, cổ /əʊld/
+5. **exciting** : (adj) thú vị /ɪkˈsaɪtɪŋ/
+6. **helpful** : (adj) hay giúp đỡ, hữu ích /ˈhelpfʊl/
+7. **delicious** : (adj) ngon tuyệt /dɪˈlɪʃəs/
+8. **sunny** : (adj) có nắng /ˈsʌni/
+9. **weather** : (n) thời tiết /ˈweðə(r)/
+10. **palace** : (n) cung điện, dinh thự /ˈpæləs/
+11. **floating market** : (np) chợ nổi /ˈfləʊtɪŋ ˈmɑːkɪt/
+12. **street food** : (np) thức ăn đường phố /striːt fuːd/
+13. **stall** : (n) quầy hàng /stɔːl/
+14. **boat** : (n) thuyền /bəʊt/
+15. **house** : (n) nhà /haʊs/
+16. **town** : (n) thị trấn /taʊn/
+17. **tower** : (n) tháp /ˈtaʊə(r)/
+18. **postcard** : (n) bưu thiếp /ˈpəʊstkɑːd/
+19. **crowded** : (adj) đông đúc /ˈkraʊdɪd/
+20. **coast** : (n) bờ biển /kəʊst/
+21. **pagoda** : (n) chùa /pəˈɡəʊdə/
 </vocabulary>
 
 <!-- chunk: exercise_1 -->
-<teacher_script pause="45">
-Bài 1 trang 28. Nối tính từ với danh từ phù hợp. Mẹo nè: <eng>friendly</eng> và <eng>helpful</eng> thường đi với <eng>people</eng> (người). <eng>Delicious</eng> và <eng>tasty</eng> thường đi với <eng>food</eng> (đồ ăn). <eng>Rainy</eng> và <eng>sunny</eng> thì đi với <eng>weather</eng> (thời tiết). 45 giây nha.
+<teacher_script pause="60">
+Bài 1 trang 28. <eng>Fill each box with an adjective</eng> - Điền vào mỗi ô với một tính từ. Có 8 tính từ và 4 danh từ: <eng>city, food, people, weather</eng>. Mẹo nè: <eng>friendly</eng> và <eng>helpful</eng> thường đi với <eng>people</eng>. <eng>Delicious</eng> và <eng>tasty</eng> thường đi với <eng>food</eng>. 1 phút nha.
 </teacher_script>
 
-**Bài 1 trang 28 - Match the adjectives to the nouns**
+### Bài 1 trang 28 - Fill each box with an adjective
 
 <task>
-**Đề:** Match the adjectives in A to the nouns in B.
-**Dịch đề:** Nối các tính từ ở cột A với các danh từ ở cột B.
+**Đề:** Fill each box with an adjective.
+**Dịch đề:** Điền vào mỗi ô với một tính từ.
 </task>
 
 <questions type="matching">
-| A (Adjectives) | B (Nouns) |
-|----------------|-----------|
-| 1. friendly | a. food |
-| 2. delicious | b. weather |
-| 3. rainy | c. people |
-| 4. exciting | d. city |
-| 5. tasty | |
-| 6. helpful | |
-| 7. sunny | |
-| 8. old | |
+**Word bank:** rainy | friendly | tasty | old | exciting | helpful | delicious | sunny
+
+| Noun | Adjectives |
+|------|------------|
+| **city** | ______, ______ |
+| **food** | ______, ______ |
+| **people** | ______, ______ |
+| **weather** | ______, ______ |
+
+*Điền tính từ phù hợp cho mỗi danh từ: thành phố, đồ ăn, con người, thời tiết*
 </questions>
+
+<teacher_script pause="0">
+Ok đáp án nè.
+</teacher_script>
 
 <answer>
 **Đáp án:**
-- friendly → people (người thân thiện)
-- delicious → food (đồ ăn ngon)
-- rainy → weather (thời tiết mưa)
-- exciting → city (thành phố thú vị)
-- tasty → food (đồ ăn ngon)
-- helpful → people (người hay giúp đỡ)
-- sunny → weather (thời tiết nắng)
-- old → city (thành phố cổ)
+- **city** - old, exciting *(thành phố - cũ/cổ, thú vị)*
+- **food** - tasty, delicious *(đồ ăn - ngon, ngon tuyệt)*
+- **people** - friendly, helpful *(con người - thân thiện, hay giúp đỡ)*
+- **weather** - rainy, sunny *(thời tiết - có mưa, có nắng)*
 </answer>
 
-<teacher_script pause="0">
-Giải thích nha:
-- <eng>Friendly/helpful</eng> mô tả NGƯỜI → đi với <eng>people</eng>
-- <eng>Delicious/tasty</eng> mô tả ĐỒ ĂN → đi với <eng>food</eng>
-- <eng>Rainy/sunny</eng> mô tả THỜI TIẾT → đi với <eng>weather</eng>
-- <eng>Exciting/old</eng> mô tả THÀNH PHỐ → đi với <eng>city</eng>
-</teacher_script>
+<explanation>
+- <eng>old, exciting</eng> → mô tả THÀNH PHỐ: thành phố cổ, thành phố thú vị
+- <eng>tasty, delicious</eng> → mô tả ĐỒ ĂN: đồ ăn ngon
+- <eng>friendly, helpful</eng> → mô tả CON NGƯỜI: người thân thiện, hay giúp đỡ
+- <eng>rainy, sunny</eng> → mô tả THỜI TIẾT: trời mưa, trời nắng
+</explanation>
 
 <!-- chunk: exercise_2 -->
 <teacher_script pause="60">
-Bài 2 trang 28. Điền tính từ vào chỗ trống. Nhớ quy tắc: mô tả đồ ăn thì dùng <eng>delicious/tasty</eng>, mô tả thành phố thì dùng <eng>exciting/old</eng>. 1 phút.
+Bài 2 trang 28. <eng>Complete the sentences with the words in 1</eng> - Hoàn thành các câu với các từ ở bài 1. Dùng 8 tính từ vừa học để điền vào chỗ trống. 1 phút nha.
 </teacher_script>
 
-**Bài 2 trang 28 - Complete the sentences**
+### Bài 2 trang 28 - Complete the sentences
 
 <task>
-**Đề:** Complete the sentences with the adjectives in the box.
-**Dịch đề:** Hoàn thành các câu với các tính từ trong khung.
+**Đề:** Complete the sentences with the words in 1.
+**Dịch đề:** Hoàn thành các câu với các từ trong bài 1.
 </task>
 
-**Word bank:** *friendly | delicious | old | exciting | tasty*
-
 <questions type="fill_blanks">
-1. The people in my town are very _______. They always say hello and help each other.
-   *(Người dân trong thị trấn của tôi rất _______. Họ luôn chào hỏi và giúp đỡ nhau.)*
+**1.** - What's the weather like in Sydney in summer? - It's ________ and dry.
+*Thời tiết ở Sydney vào mùa hè như thế nào? - Trời ________ và khô.*
 
-2. This building is very _______. It was built 500 years ago.
-   *(Tòa nhà này rất _______. Nó được xây dựng 500 năm trước.)*
+**2.** I love the ________ buildings in Edinburgh. I feel that they can tell stories.
+*Tôi yêu những tòa nhà ________ ở Edinburgh. Tôi cảm thấy rằng chúng có thể kể những câu chuyện.*
 
-3. There are so many things to do in New York. It's very _______.
-   *(Có rất nhiều thứ để làm ở New York. Nó rất _______.)*
+**3.** There are so many things to do in New York. It's very ________.
+*Có quá nhiều thứ để làm ở New York. Nó rất ________.*
 
-4. The _______ at the floating market are amazing!
-   *(_______ ở chợ nổi rất tuyệt vời!)*
+**4.** The people in my city are ________ and helpful.
+*Người dân trong thành phố của tôi rất ________ và hay giúp đỡ.*
 
-5. Ha Noi is famous for its _______ street food.
-   *(Hà Nội nổi tiếng với đồ ăn đường phố _______.)*
+**5.** Ha Noi is famous for its ________ street food.
+*Hà Nội nổi tiếng với những món ăn đường phố ________.*
 </questions>
 
+<teacher_script pause="0">
+Ok đáp án nè.
+</teacher_script>
+
 <answer>
-**Đáp án:**
-1. **friendly** - vì mô tả người dân thân thiện
-2. **old** - vì tòa nhà được xây 500 năm trước
-3. **exciting** - vì New York có nhiều thứ thú vị
-4. **tasty** / **delicious** - vì mô tả đồ ăn ngon
-5. **delicious** / **tasty** - vì mô tả street food ngon
+**Đáp án:** 1. sunny | 2. old | 3. exciting | 4. friendly | 5. delicious/tasty
 </answer>
 
-<teacher_script pause="0">
-Đáp án nè. Câu 1 điền <eng>friendly</eng> vì nói về người dân hay chào hỏi và giúp đỡ. Câu 2 điền <eng>old</eng> vì tòa nhà 500 tuổi - rất cổ. Câu 3 điền <eng>exciting</eng> vì New York có rất nhiều thứ để làm - thành phố sôi động thú vị. Câu 5 điền <eng>delicious</eng> hoặc <eng>tasty</eng> vì nói về <eng>street food</eng> - đồ ăn đường phố của Hà Nội nổi tiếng là ngon.
-</teacher_script>
+<explanation>
+**Câu 1:** Điền <eng>sunny</eng> vì hỏi về thời tiết mùa hè Sydney - trời nắng và khô.
+
+**Câu 2:** Điền <eng>old</eng> vì Edinburgh có nhiều tòa nhà cổ kính có thể "kể chuyện" - tức là có lịch sử lâu đời.
+
+**Câu 3:** Điền <eng>exciting</eng> vì New York có rất nhiều thứ để làm - thành phố sôi động, thú vị.
+
+**Câu 4:** Điền <eng>friendly</eng> vì đi cùng với <eng>helpful</eng> - người dân thân thiện và hay giúp đỡ.
+
+**Câu 5:** Điền <eng>delicious</eng> hoặc <eng>tasty</eng> vì mô tả đồ ăn đường phố Hà Nội nổi tiếng là ngon.
+</explanation>
 
 <!-- chunk: exercise_3 -->
 <teacher_script pause="45">
-Bài 3. Nhìn hình và viết từ. Đây là những địa danh và vật ở các thành phố nổi tiếng. 45 giây.
+Bài 3 trang 28. <eng>Write the words or phrases below under the correct pictures</eng> - Viết các từ hoặc cụm từ bên dưới dưới các hình ảnh đúng. Có 4 từ: <eng>stall, street food, palace, floating market</eng>. 45 giây nha.
 </teacher_script>
 
-**Bài 3 trang 28 - Look at the pictures and write the words**
+### Bài 3 trang 28 - Write the words under the pictures
 
 <task>
-**Đề:** Look at the pictures. Write the words for these things you can see in a city.
-**Dịch đề:** Nhìn các hình ảnh. Viết từ cho những thứ em có thể thấy ở một thành phố.
+**Đề:** Write the words/phrases below under the correct pictures.
+**Dịch đề:** Viết các từ / cụm từ bên dưới dưới các hình ảnh đúng.
 </task>
 
-<questions type="fill_blanks">
-1. [Picture of a grand royal building] → p _ _ _ _ _
-   *(Hình một tòa nhà hoàng gia lộng lẫy)*
+<questions type="matching">
+**Word bank:** stall | street food | palace | floating market
 
-2. [Picture of boats selling goods on water] → f _ _ _ _ _ _ _ m _ _ _ _ _
-   *(Hình những chiếc thuyền bán hàng trên nước)*
-
-3. [Picture of food sold on the street] → s _ _ _ _ _ f _ _ _
-   *(Hình đồ ăn bán trên đường phố)*
-
-4. [Picture of a small shop or booth] → s _ _ _ _
-   *(Hình một quầy hàng hoặc gian hàng nhỏ)*
+| Picture | Description | Answer |
+|---------|-------------|--------|
+| 1 | [Hình tòa nhà hoàng gia lộng lẫy] | ________ |
+| 2 | [Hình thuyền bán hàng trên sông] | ________ |
+| 3 | [Hình đồ ăn bán trên đường phố] | ________ |
+| 4 | [Hình quầy hàng nhỏ bán đồ] | ________ |
 </questions>
+
+<teacher_script pause="0">
+Ok đáp án nè.
+</teacher_script>
+
+<answer>
+**Đáp án:** 1. palace | 2. floating market | 3. street food | 4. stall
+</answer>
+
+<explanation>
+**1. palace** /ˈpæləs/ - cung điện, dinh thự (như Cung điện Buckingham ở London)
+
+**2. floating market** /ˈfləʊtɪŋ ˈmɑːkɪt/ - chợ nổi (đặc sản miền Tây Việt Nam mình nè)
+
+**3. street food** /striːt fuːd/ - thức ăn đường phố (phở, bánh mì, bún chả...)
+
+**4. stall** /stɔːl/ - quầy hàng nhỏ bán đồ ăn hoặc hàng hóa
+</explanation>
+
+<!-- chunk: pronunciation_intro -->
+<teacher_script pause="0">
+Chuyển qua phần <eng>Pronunciation</eng> - Phát âm nha. Hôm nay mình học hai âm /əʊ/ và /aʊ/. Hai âm này giống nhau ở chỗ đều kết thúc bằng /ʊ/, nhưng khác nhau ở âm đầu. Âm /əʊ/ bắt đầu bằng "ơ" còn âm /aʊ/ bắt đầu bằng "a".
+</teacher_script>
+
+### PRONUNCIATION: /əʊ/ và /aʊ/
+
+<grammar>
+**Âm /əʊ/** (như trong "go", "no", "boat")
+- Bắt đầu từ vị trí "ơ" rồi chuyển sang "u"
+- Ví dụ: boat /bəʊt/, coast /kəʊst/, postcard /ˈpəʊstkɑːd/
+
+**Âm /aʊ/** (như trong "how", "now", "house")
+- Bắt đầu từ vị trí "a" rồi chuyển sang "u"
+- Ví dụ: house /haʊs/, town /taʊn/, crowded /ˈkraʊdɪd/
+</grammar>
+
+<!-- chunk: exercise_4 -->
+<teacher_script pause="60">
+Bài 4 trang 28. <eng>Listen and write the words in the correct column. Then listen and repeat.</eng> - Nghe và viết các từ vào đúng cột, sau đó nghe và lặp lại. Có 8 từ, em phân loại vào 2 cột: âm /əʊ/ và âm /aʊ/. 1 phút nha.
+</teacher_script>
+
+### Bài 4 trang 28 - Listen and classify
+
+<task>
+**Đề:** Listen and write the words in the correct column. Then listen and repeat.
+**Dịch đề:** Nghe và viết các từ vào đúng cột. Sau đó nghe và lặp lại.
+</task>
+
+<audio src="https://img.loigiaihay.com/picture/2021/1104/gs-u9-a-closer-look-1-ex4.mp3">
+**Audio:** A Closer Look 1 - Exercise 4
+</audio>
+
+<questions type="matching">
+**Word bank:** boat | house | town | tower | postcard | crowded | coast | pagoda
+
+| /əʊ/ | /aʊ/ |
+|------|------|
+| ________ | ________ |
+| ________ | ________ |
+| ________ | ________ |
+| ________ | ________ |
+</questions>
+
+<teacher_script pause="0">
+Ok đáp án nè.
+</teacher_script>
 
 <answer>
 **Đáp án:**
-1. **palace** - cung điện (tòa nhà hoàng gia như Buckingham Palace)
-2. **floating market** - chợ nổi (đặc sản miền Tây Việt Nam)
-3. **street food** - đồ ăn đường phố (phở, bánh mì...)
-4. **stall** - quầy hàng, gian hàng nhỏ
+| /əʊ/ | /aʊ/ |
+|------|------|
+| boat /bəʊt/ | house /haʊs/ |
+| postcard /ˈpəʊstkɑːd/ | town /taʊn/ |
+| coast /kəʊst/ | crowded /ˈkraʊdɪd/ |
+| pagoda /pəˈɡəʊdə/ | tower /ˈtaʊə(r)/ |
 </answer>
 
+<explanation>
+**Âm /əʊ/:**
+- **boat** /b**əʊ**t/ - thuyền
+- **postcard** /ˈp**əʊ**stkɑːd/ - bưu thiếp
+- **coast** /k**əʊ**st/ - bờ biển
+- **pagoda** /pəˈɡ**əʊ**də/ - chùa
+
+**Âm /aʊ/:**
+- **house** /h**aʊ**s/ - nhà
+- **town** /t**aʊ**n/ - thị trấn
+- **crowded** /ˈkr**aʊ**dɪd/ - đông đúc
+- **tower** /ˈt**aʊ**ə(r)/ - tháp
+</explanation>
+
+<!-- chunk: exercise_5 -->
 <teacher_script pause="0">
-Đáp án nè. <eng>Palace</eng> là cung điện - như Cung điện Buckingham ở London. <eng>Floating market</eng> là chợ nổi - đặc sản miền Tây Việt Nam mình luôn đó. <eng>Street food</eng> là đồ ăn đường phố - Hà Nội nổi tiếng về cái này. <eng>Stall</eng> là quầy hàng nhỏ bán đồ ăn hay hàng hóa.
+Bài 5 trang 28. <eng>Listen and repeat. Pay attention to the underlined words.</eng> - Nghe và lặp lại. Chú ý đến những từ được gạch chân. Mình sẽ luyện phát âm /əʊ/ và /aʊ/ trong câu hoàn chỉnh.
 </teacher_script>
 
-<!-- chunk: pronunciation -->
-<teacher_script pause="0">
-Chuyển qua phần <eng>Pronunciation</eng> - Phát âm nha. Mình sẽ luyện phát âm hai âm /əʊ/ và /aʊ/. Hai âm này giống nhau ở chỗ đều có /ʊ/ ở cuối, nhưng khác nhau ở âm đầu.
-</teacher_script>
+### Bài 5 trang 28 - Listen and repeat
 
-**PRONUNCIATION**
+<task>
+**Đề:** Listen and repeat. Pay attention to the underlined words.
+**Dịch đề:** Lắng nghe và lặp lại. Chú ý đến những từ được gạch chân.
+</task>
 
-<teacher_script pause="0">
-Nghe bài nghe và để ý cách phát âm nha.
-</teacher_script>
-
-<audio src="https://img.loigiaihay.com/picture/2021/1104/gs-u9-a-closer-look-1-ex4.mp3">
-**Audio:** A Closer Look 1
+<audio src="https://img.loigiaihay.com/picture/2021/1104/gs-u9-a-closer-look-1-ex5.mp3">
+**Audio:** A Closer Look 1 - Exercise 5
 </audio>
+
+<reading>
+**1.** The **town** is **crowded** at the weekend.
+*Thị trấn cuối tuần đông đúc.*
+
+**2.** There's lots of **snow** in Tokyo in winter.
+*Có rất nhiều tuyết ở Tokyo vào mùa đông.*
+
+**3.** It's very cold on the **boat**.
+*Trên thuyền rất lạnh.*
+
+**4.** He's running a**round** the **house**.
+*Anh ấy đang chạy quanh nhà.*
+</reading>
+
+<teacher_script pause="30">
+Em đọc theo 4 câu này nha. Chú ý phát âm đúng âm /əʊ/ và /aʊ/. 30 giây.
+</teacher_script>
+
+<explanation>
+**Câu 1:** **town** /taʊn/ và **crowded** /ˈkraʊdɪd/ - cả hai đều có âm /aʊ/
+
+**Câu 2:** **snow** /snəʊ/ - có âm /əʊ/
+
+**Câu 3:** **boat** /bəʊt/ - có âm /əʊ/
+
+**Câu 4:** a**round** /əˈraʊnd/ và **house** /haʊs/ - cả hai đều có âm /aʊ/
+</explanation>
 
 <!-- chunk: end -->
 <teacher_script pause="0">
-Ok hết bài <eng>A Closer Look 1</eng>. Hôm nay em học được nhiều tính từ mô tả thành phố: <eng>friendly people</eng> = người thân thiện, <eng>delicious food</eng> = đồ ăn ngon, <eng>exciting city</eng> = thành phố thú vị. Bài sau mình học ngữ pháp về tính từ sở hữu và đại từ sở hữu nha. Bye!
+Ok hết bài <eng>A Closer Look 1</eng> Unit 9 rồi nha. Hôm nay em học được nhiều tính từ mô tả thành phố: <eng>friendly people</eng> là người thân thiện, <eng>delicious food</eng> là đồ ăn ngon, <eng>exciting city</eng> là thành phố thú vị, <eng>sunny weather</eng> là thời tiết nắng. Còn 4 từ về địa điểm: <eng>palace</eng> là cung điện, <eng>floating market</eng> là chợ nổi, <eng>street food</eng> là đồ ăn đường phố, <eng>stall</eng> là quầy hàng. Và hai âm phát âm /əʊ/ như trong <eng>boat, coast</eng> và /aʊ/ như trong <eng>house, town</eng>. Bài sau mình học ngữ pháp về tính từ sở hữu và đại từ sở hữu nha. Bye!
 </teacher_script>
