@@ -45,17 +45,72 @@ Bài 1-3 trang 97. Đọc bài về núi lửa phun trào ở Nhật Bản và t
 
 **SKILLS 1**
 
-**Bài 1-3 trang 97 - Reading**
+**Bài 1 trang 97 - Read the text**
 
-Câu hỏi đọc hiểu:
-1. Vụ phun trào xảy ra ở đâu và khi nào?
-2. Vụ phun trào đã gây ra điều gì?
-3. Những tác động khác của vụ phun trào là gì?
-4. Các tòa nhà rung lắc trong bao lâu?
-5. Điều gì gây ra cơn rung lắc?
+<task>
+**Đề:** Read the text about a volcanic eruption in Japan.
+**Dịch đề:** Đọc bài văn về vụ phun trào núi lửa ở Nhật Bản.
+</task>
+
+<reading>
+| English | Vietnamese |
+|---------|------------|
+| Japan is an island country and is home to over 100 active volcanoes. | Nhật Bản là một quốc gia đảo và là nơi có hơn 100 núi lửa đang hoạt động. |
+| Last Friday, a volcano on Kuchinoerabu Island suddenly erupted at about 10 a.m. | Thứ Sáu tuần trước, một ngọn núi lửa trên đảo Kuchinoerabu đột ngột phun trào vào khoảng 10 giờ sáng. |
+| A cloud of ash and gas shot high into the sky. | Một đám mây tro bụi và khí bắn cao lên bầu trời. |
+| The eruption caused a lot of damage to properties in the area. | Vụ phun trào đã gây ra nhiều thiệt hại về tài sản trong khu vực. |
+| Besides, there were no victims. | Ngoài ra, không có nạn nhân. |
+| When the volcano erupted, residents in a nearby town felt buildings tremble for about 20 seconds. | Khi núi lửa phun trào, cư dân trong một thị trấn gần đó cảm thấy các tòa nhà rung lắc trong khoảng 20 giây. |
+| Many of them were frightened and ran out in fear. | Nhiều người trong số họ sợ hãi và chạy ra ngoài trong hoảng loạn. |
+| According to scientists, it was the volcanic eruption, not an earthquake, that caused the trembling. | Theo các nhà khoa học, chính vụ phun trào núi lửa, không phải động đất, đã gây ra sự rung lắc. |
+</reading>
+
+**Bài 2 trang 97 - Answer the questions**
+
+<task>
+**Đề:** Answer the questions.
+**Dịch đề:** Trả lời các câu hỏi.
+</task>
+
+<questions type="fill_blanks">
+1. Where and when did the eruption happen?
+   *(Vụ phun trào xảy ra ở đâu và khi nào?)*
+
+2. What did the eruption cause?
+   *(Vụ phun trào đã gây ra điều gì?)*
+
+3. What were the other effects of the eruption?
+   *(Những tác động khác của vụ phun trào là gì?)*
+
+4. How long did the buildings tremble?
+   *(Các tòa nhà rung lắc trong bao lâu?)*
+
+5. What caused the trembling?
+   *(Điều gì gây ra cơn rung lắc?)*
+</questions>
+
+<answer>
+**Đáp án:**
+1. It happened on Kuchinoerabu Island, last Friday at about 10 a.m.
+   *(Xảy ra trên đảo Kuchinoerabu, thứ Sáu tuần trước vào khoảng 10 giờ sáng.)*
+
+2. It caused a lot of damage to properties in the area.
+   *(Nó gây ra nhiều thiệt hại về tài sản trong khu vực.)*
+
+3. Residents felt buildings tremble and many were frightened.
+   *(Cư dân cảm thấy các tòa nhà rung lắc và nhiều người sợ hãi.)*
+
+4. About 20 seconds.
+   *(Khoảng 20 giây.)*
+
+5. The volcanic eruption caused the trembling.
+   *(Vụ phun trào núi lửa gây ra sự rung lắc.)*
+</answer>
 
 <teacher_script pause="0">
 Khi đọc bài về thiên tai, em tìm các thông tin chính: Loại thiên tai gì? Xảy ra ở đâu, khi nào? Nguyên nhân? Hậu quả? Cách ứng phó? Đây là cấu trúc tin tức về thiên tai thường gặp.
+
+Lưu ý: Câu 5 hỏi nguyên nhân rung lắc - nhiều người tưởng là động đất nhưng thực ra là do núi lửa phun!
 </teacher_script>
 
 <!-- chunk: speaking -->

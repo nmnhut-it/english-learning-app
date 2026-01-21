@@ -20,15 +20,26 @@ Nghe bạn Trang chia sẻ về cách học tiếng Anh nha. Chú ý các phươ
 **Audio:** Trang talks about how she learns English.
 </audio>
 
-<script>
-(Summary)
-Trang has learned English for seven years.
-First, she reads books in English. She guesses meanings from context.
-Second, she uses a good dictionary to check meanings and pronunciation.
-Third, she keeps a vocabulary notebook to write down new words.
-Finally, she speaks English whenever she can with friends or teachers.
-For pronunciation, she listens to English podcasts and repeats after them.
-</script>
+<reading>
+**Tapescript - Bài nghe:**
+
+| English | Vietnamese |
+|---------|------------|
+| Hi, my name is Trang. | Xin chào, tên tôi là Trang. |
+| I have learned English for seven years. | Tôi đã học tiếng Anh được bảy năm. |
+| Today I want to share with you how I learn English. | Hôm nay tôi muốn chia sẻ với các bạn cách tôi học tiếng Anh. |
+| First, I read books in English. | Đầu tiên, tôi đọc sách bằng tiếng Anh. |
+| When I see a new word, I try to guess its meaning from the context. | Khi tôi thấy một từ mới, tôi cố gắng đoán nghĩa của nó từ ngữ cảnh. |
+| Second, I use a good dictionary. | Thứ hai, tôi dùng một cuốn từ điển tốt. |
+| I check the meaning and pronunciation of new words. | Tôi tra nghĩa và cách phát âm của các từ mới. |
+| Third, I keep a vocabulary notebook. | Thứ ba, tôi có một cuốn sổ từ vựng. |
+| I write down new words with their meanings and example sentences. | Tôi ghi lại các từ mới cùng với nghĩa và câu ví dụ. |
+| I review my notebook every day. | Tôi ôn lại sổ tay mỗi ngày. |
+| Finally, I practice speaking English whenever I can. | Cuối cùng, tôi luyện nói tiếng Anh bất cứ khi nào có thể. |
+| I speak with my friends and teachers at school. | Tôi nói chuyện với bạn bè và thầy cô ở trường. |
+| For pronunciation, I listen to English podcasts and repeat after them. | Về phát âm, tôi nghe podcast tiếng Anh và nhắc lại theo. |
+| These methods have helped me improve my English a lot. | Những phương pháp này đã giúp tôi cải thiện tiếng Anh rất nhiều. |
+</reading>
 
 <teacher_script pause="0">
 Tóm tắt 4 phương pháp của Trang nha:
