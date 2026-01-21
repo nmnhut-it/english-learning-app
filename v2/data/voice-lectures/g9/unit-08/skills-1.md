@@ -3,13 +3,17 @@
 ## SKILLS 1 - Reading & Speaking
 
 <!-- chunk: intro -->
-<teacher_script pause="0" href="audio/tts_fd00461e.mp3">
-Chào các em. Chào mừng các em đến với bài học hôm nay. Mời các em mở sách giáo khoa.
+<teacher_script pause="0">
+Ok lớp 9, qua bài <eng>Skills 1</eng> nha. Mở sách trang 26 đi. Hôm nay đọc về tour trọn gói và tour tự túc rồi thực hành nói.
 </teacher_script>
 
 ---
 
 <!-- chunk: vocabulary -->
+<teacher_script pause="0">
+Các em mở sách ra, Unit 8, bài <eng>Skills 1</eng>, ghi tựa bài. Sau đó bấm nút "Bắt đầu" bên dưới để học từ vựng.
+</teacher_script>
+
 <vocabulary>
 **Vocabulary:**
 1. **package tour** : (n) tour trọn gói /ˌpækɪdʒ ˈtʊə(r)/
@@ -20,8 +24,8 @@ Chào các em. Chào mừng các em đến với bài học hôm nay. Mời các
 6. **smooth** : (adj) trơn tru, suôn sẻ /smuːð/
 </vocabulary>
 
-<teacher_script pause="0" href="audio/tts_c0841176.mp3">
-Chúng ta cùng học từ vựng mới. Các em hãy nghe và lặp lại theo mẫu nhé.
+<teacher_script pause="0">
+<eng>Package tour</eng> là tour trọn gói - công ty lo hết. <eng>Self-guided tour</eng> là tour tự túc - mình tự lo. <eng>Budget</eng> là ngân sách. <eng>Hunt for</eng> là săn lùng tìm kiếm. <eng>Fixed</eng> là cố định. <eng>Smooth</eng> là suôn sẻ.
 </teacher_script>
 
 ---
@@ -29,8 +33,12 @@ Chúng ta cùng học từ vựng mới. Các em hãy nghe và lặp lại theo 
 <!-- chunk: reading_exercise_1 -->
 ### Bài 2 trang 26 - Reading Match
 
-<teacher_script pause="120" href="audio/tts_d5b1d729.mp3">
-Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
+<teacher_script pause="0">
+Đọc bài so sánh tour trọn gói và tour tự túc nha. Mỗi loại có ưu nhược điểm riêng.
+</teacher_script>
+
+<teacher_script pause="120">
+Bài 2 <eng>Match</eng> nha. Nối từ với định nghĩa đi. 2 phút nha.
 </teacher_script>
 
 <reading>
@@ -75,13 +83,21 @@ d. look for
 4 - a (smooth - happening without problems)
 </answer>
 
+<teacher_script pause="0">
+<eng>Cost</eng> nối với b - tiền chi tiêu. <eng>Fixed</eng> nối với c - không thay đổi. <eng>Hunt for</eng> nối với d - tìm kiếm. <eng>Smooth</eng> nối với a - không có vấn đề.
+</teacher_script>
+
+<teacher_script pause="30">
+Sửa lỗi sai vô bài làm nếu có nha.
+</teacher_script>
+
 ---
 
 <!-- chunk: reading_exercise_2 -->
 ### Bài 3 trang 26 - Answer questions
 
-<teacher_script pause="120" href="audio/tts_d5b1d729.mp3">
-Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
+<teacher_script pause="120">
+Bài 3 <eng>Answer</eng> nha. Trả lời câu hỏi về bài đọc đi. 2 phút nha.
 </teacher_script>
 
 <questions type="open_ended">
@@ -101,8 +117,12 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 5. Good at using apps.
 </answer>
 
-<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
-Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
+<teacher_script pause="0">
+Câu 1: Tour trọn gói tiết kiệm thời gian và giảm căng thẳng. Câu 2: Nhược điểm là phải theo lịch trình cố định. Câu 3: Tour tự túc phải tự tìm điểm đến, lên lịch trình, ước tính chi phí, săn vé. Câu 4: Ưu điểm là rẻ hơn và linh hoạt hơn. Câu 5: Cần giỏi sử dụng app.
+</teacher_script>
+
+<teacher_script pause="30">
+Sửa lỗi sai vô bài làm nếu có nha.
 </teacher_script>
 
 ---
@@ -110,8 +130,8 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 <!-- chunk: speaking -->
 ### Bài 4 trang 26 - Interview partner
 
-<teacher_script pause="0" href="audio/tts_6273c698.mp3">
-Bây giờ là phần thực hành nói. Các em hãy luyện tập theo cặp hoặc theo nhóm nhé.
+<teacher_script pause="0">
+Bài 4 <eng>Speaking</eng> nha. Phỏng vấn bạn về chuyến du lịch gần đây đi.
 </teacher_script>
 
 <dialogue>
@@ -123,13 +143,17 @@ Bây giờ là phần thực hành nói. Các em hãy luyện tập theo cặp h
 **B:** I flew there.
 </dialogue>
 
-<teacher_script pause="0" action="record" href="audio/tts_508f13d8.mp3">
-Các em hãy ghi âm phần luyện tập của mình và gửi cho thầy nhé.
+<teacher_script pause="0">
+Hỏi về: đi đâu (Where), tour trọn gói hay tự túc (Package or self-guided), đi bằng gì (How did you travel).
+</teacher_script>
+
+<teacher_script pause="0" action="record">
+Ghi âm hội thoại rồi gửi cho thầy nha.
 </teacher_script>
 
 ---
 
 <!-- chunk: end -->
-<teacher_script pause="0" href="audio/tts_ba688992.mp3">
-Bài học hôm nay kết thúc tại đây. Các em nhớ ôn bài và chuẩn bị cho bài học tiếp theo. Tạm biệt các em.
+<teacher_script pause="0">
+Hết bài rồi nha. Nhớ phân biệt tour trọn gói và tour tự túc nha. Bài tiếp theo là <eng>Skills 2</eng> - nghe về chuyến đi Haworth và viết lịch trình tour. Hẹn gặp lại!
 </teacher_script>

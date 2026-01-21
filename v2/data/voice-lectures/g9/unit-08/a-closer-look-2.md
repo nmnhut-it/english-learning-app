@@ -3,8 +3,8 @@
 ## A CLOSER LOOK 2 - Grammar
 
 <!-- chunk: intro -->
-<teacher_script pause="0" href="audio/tts_fd00461e.mp3">
-Chào các em. Chào mừng các em đến với bài học hôm nay. Mời các em mở sách giáo khoa.
+<teacher_script pause="0">
+Ok lớp 9, qua bài <eng>A Closer Look 2</eng> nha. Mở sách trang 23 đi. Hôm nay học ngữ pháp về đại từ quan hệ: <eng>who</eng>, <eng>which</eng>, <eng>whose</eng>. Quan trọng lắm đó!
 </teacher_script>
 
 ---
@@ -20,8 +20,28 @@ Chào các em. Chào mừng các em đến với bài học hôm nay. Mời các
    - Example: The man **whose** book you are reading is my friend.
 </grammar>
 
-<teacher_script pause="0" href="audio/tts_509a0695.mp3">
-Các em nhớ: **who** cho người, **which** cho vật, và **whose** biểu thị sở hữu.
+<teacher_script pause="0">
+Đại từ quan hệ dùng để nối hai câu thành một và bổ sung thông tin cho danh từ đứng trước nha.
+</teacher_script>
+
+<teacher_script pause="0">
+Nhớ nè! <eng>Who</eng> dùng cho NGƯỜI. Ví dụ: The girl <eng>who</eng> works here is my friend - Cô gái làm việc ở đây là bạn tôi.
+</teacher_script>
+
+<teacher_script pause="0">
+<eng>Which</eng> dùng cho VẬT hoặc SỰ VIỆC. Ví dụ: The book <eng>which</eng> I bought is interesting - Cuốn sách tôi mua rất hay.
+</teacher_script>
+
+<teacher_script pause="0">
+<eng>Whose</eng> dùng để chỉ SỞ HỮU (của ai). Ví dụ: The man <eng>whose</eng> car was stolen called the police - Người đàn ông mà xe bị mất đã gọi cảnh sát.
+</teacher_script>
+
+<teacher_script pause="0">
+Mẹo nhớ siêu dễ: WHO = người (W-H-O như "ai"), WHICH = vật (Which thing?), WHOSE = của ai (Whose + noun = sở hữu).
+</teacher_script>
+
+<teacher_script pause="30">
+Ghi vô tập: Đại từ quan hệ: WHO = người, WHICH = vật, WHOSE = sở hữu. 30 giây nha.
 </teacher_script>
 
 ---
@@ -29,8 +49,8 @@ Các em nhớ: **who** cho người, **which** cho vật, và **whose** biểu t
 <!-- chunk: exercise_1 -->
 ### Bài 1 trang 23 - Identify noun referred to
 
-<teacher_script pause="60" href="audio/tts_d5b1d729.mp3">
-Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
+<teacher_script pause="60">
+Bài 1 nha. Xác định danh từ mà đại từ quan hệ đang chỉ đi. 1 phút nha.
 </teacher_script>
 
 <questions type="fill_blanks">
@@ -50,13 +70,21 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 5. a city
 </answer>
 
+<teacher_script pause="0">
+Câu 1: <eng>who</eng> chỉ <eng>People</eng> - người. Câu 2: <eng>which</eng> chỉ <eng>The brochure</eng> - tờ rơi. Câu 3: <eng>which</eng> chỉ <eng>the video</eng> - video. Câu 4: <eng>who</eng> chỉ <eng>a local tour guide</eng> - hướng dẫn viên. Câu 5: <eng>which</eng> chỉ <eng>a city</eng> - thành phố.
+</teacher_script>
+
+<teacher_script pause="30">
+Sửa lỗi sai vô bài làm nếu có nha.
+</teacher_script>
+
 ---
 
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 23 - Choose correct relative pronoun
 
-<teacher_script pause="60" href="audio/tts_d5b1d729.mp3">
-Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
+<teacher_script pause="60">
+Bài 2 <eng>Choose</eng> nha. Chọn <eng>who</eng> hoặc <eng>which</eng> đúng đi. Nhớ: who cho người, which cho vật. 1 phút nha.
 </teacher_script>
 
 <questions type="multiple_choice">
@@ -76,8 +104,12 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 5. who (tourists - people)
 </answer>
 
-<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
-Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
+<teacher_script pause="0">
+Câu 1: <eng>which</eng> - brochure là vật. Câu 2: <eng>which</eng> - company là vật (công ty không phải người). Câu 3: <eng>who</eng> - elders là người lớn tuổi. Câu 4: <eng>which</eng> - bus là vật. Câu 5: <eng>who</eng> - tourists là khách du lịch (người).
+</teacher_script>
+
+<teacher_script pause="30">
+Sửa lỗi sai vô bài làm nếu có nha.
 </teacher_script>
 
 ---
@@ -85,8 +117,8 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 <!-- chunk: exercise_3 -->
 ### Bài 3 trang 24 - Who or Whose
 
-<teacher_script pause="60" href="audio/tts_d5b1d729.mp3">
-Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
+<teacher_script pause="60">
+Bài 3 nha. Chọn <eng>who</eng> hoặc <eng>whose</eng> đi. Nhớ: who = người làm gì, whose = của ai. 1 phút nha.
 </teacher_script>
 
 <questions type="fill_blanks">
@@ -106,13 +138,25 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 5. whose (locals' stories)
 </answer>
 
+<teacher_script pause="0">
+Câu 1: <eng>who</eng> - Mr Minh sẽ hướng dẫn (người làm hành động). Câu 2: <eng>whose</eng> - sách CỦA nhà văn (sở hữu). Câu 3: <eng>who</eng> - con trai là fan (người). Câu 4: <eng>whose</eng> - vẻ đẹp CỦA Hà Giang. Câu 5: <eng>whose</eng> - câu chuyện CỦA người địa phương.
+</teacher_script>
+
+<teacher_script pause="0">
+Mẹo phân biệt: Sau <eng>who</eng> là động từ (who will guide, who is). Sau <eng>whose</eng> là danh từ (whose book, whose beauty, whose stories).
+</teacher_script>
+
+<teacher_script pause="30">
+Sửa lỗi sai vô bài làm nếu có nha.
+</teacher_script>
+
 ---
 
 <!-- chunk: exercise_4 -->
 ### Bài 4 trang 24 - Match clauses
 
-<teacher_script pause="60" href="audio/tts_d5b1d729.mp3">
-Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
+<teacher_script pause="60">
+Bài 4 <eng>Match</eng> nha. Nối mệnh đề ở cột A với cột B đi. 1 phút nha.
 </teacher_script>
 
 <task>
@@ -140,13 +184,21 @@ e. who is arranging accommodation.
 5 - a (Artisans whose products...)
 </answer>
 
+<teacher_script pause="0">
+Câu 1: Museum - <eng>whose collection</eng> (bộ sưu tập CỦA bảo tàng). Câu 2: Pierre - <eng>who is arranging</eng> (Pierre LÀ người sắp xếp). Câu 3: Hall - <eng>which appeared</eng> (hội trường xuất hiện trong phim - vật). Câu 4: Tour guide - <eng>who knows</eng> (hướng dẫn viên biết - người). Câu 5: Artisans - <eng>whose products</eng> (sản phẩm CỦA nghệ nhân).
+</teacher_script>
+
+<teacher_script pause="30">
+Sửa lỗi sai vô bài làm nếu có nha.
+</teacher_script>
+
 ---
 
 <!-- chunk: exercise_5 -->
 ### Bài 5 trang 24 - Finish sentences
 
-<teacher_script pause="0" href="audio/tts_6273c698.mp3">
-Bây giờ là phần thực hành nói. Các em hãy luyện tập theo cặp hoặc theo nhóm nhé.
+<teacher_script pause="0">
+Bài 5 <eng>Speaking</eng> nha. Hoàn thành câu với mệnh đề quan hệ đi. Xem ví dụ bên dưới.
 </teacher_script>
 
 <dialogue>
@@ -156,8 +208,12 @@ Bây giờ là phần thực hành nói. Các em hãy luyện tập theo cặp h
 **3.** We met two Germans **whose hobby is hiking**.
 </dialogue>
 
-<teacher_script pause="0" href="audio/tts_ba688992.mp3">
-Bài học hôm nay kết thúc tại đây. Các em nhớ ôn bài và chuẩn bị cho bài học tiếp theo. Tạm biệt các em.
+<teacher_script pause="0">
+Ví dụ 1: travellers <eng>who love adventure</eng> - du khách yêu thích phiêu lưu. Ví dụ 2: tours <eng>which harm</eng> - tour gây hại môi trường. Ví dụ 3: Germans <eng>whose hobby</eng> - người Đức mà sở thích là đi bộ leo núi.
+</teacher_script>
+
+<teacher_script pause="0" action="record">
+Ghi âm câu của em rồi gửi cho thầy nha.
 </teacher_script>
 
 ---
@@ -166,7 +222,7 @@ Bài học hôm nay kết thúc tại đây. Các em nhớ ôn bài và chuẩn 
 ### Bài tập thực hành bổ sung
 
 <teacher_script pause="0">
-Các em làm thêm bài tập thực hành để củng cố ngữ pháp đại từ quan hệ nha. Bài tập này rất quan trọng đó!
+Giờ làm thêm bài tập thực hành để củng cố ngữ pháp đại từ quan hệ nha. Quan trọng lắm đó!
 </teacher_script>
 
 ---
@@ -175,7 +231,7 @@ Các em làm thêm bài tập thực hành để củng cố ngữ pháp đại 
 ### Bài tập 1 - Who, Which, or Whose?
 
 <teacher_script pause="120">
-Chúng ta cùng làm Bài tập 1. Các em hãy chọn đại từ quan hệ đúng để hoàn thành các câu về du lịch. Các em có 2 phút.
+Bài tập 1 nha. Chọn <eng>who</eng>, <eng>which</eng>, hoặc <eng>whose</eng> đúng đi. 2 phút nha.
 </teacher_script>
 
 <questions type="fill_blanks">
@@ -202,7 +258,7 @@ Chúng ta cùng làm Bài tập 1. Các em hãy chọn đại từ quan hệ đ�
 
 <!-- chunk: answer_practice_1 -->
 <teacher_script pause="0">
-Đã hết thời gian. Ok đáp án nè.
+Hết giờ rồi. Ok đáp án nè.
 </teacher_script>
 
 <answer>
@@ -239,7 +295,7 @@ Mẹo nhớ: <eng>who</eng> cho người, <eng>which</eng> cho vật, <eng>whose
 </teacher_script>
 
 <teacher_script pause="30">
-Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
+Sửa lỗi sai vô bài làm nếu có nha.
 </teacher_script>
 
 ---
@@ -248,7 +304,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 ### Bài tập 2 - Combine Sentences
 
 <teacher_script pause="150">
-Chúng ta cùng làm Bài tập 2. Các em hãy nối hai câu thành một câu sử dụng đại từ quan hệ. Các em có 2 phút 30 giây.
+Bài tập 2 <eng>Combine</eng> nha. Nối hai câu thành một câu sử dụng đại từ quan hệ đi. 2 phút 30 giây nha.
 </teacher_script>
 
 <questions type="complete_sentences">
@@ -277,7 +333,7 @@ Chúng ta cùng làm Bài tập 2. Các em hãy nối hai câu thành một câu
 
 <!-- chunk: answer_practice_2 -->
 <teacher_script pause="0">
-Đã hết thời gian. Ok đáp án nè.
+Hết giờ rồi. Ok đáp án nè.
 </teacher_script>
 
 <answer>
@@ -321,7 +377,7 @@ Câu 6: <eng>which many backpackers recommend</eng> - nhà trọ mà nhiều du 
 </teacher_script>
 
 <teacher_script pause="30">
-Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
+Sửa lỗi sai vô bài làm nếu có nha.
 </teacher_script>
 
 ---
@@ -330,7 +386,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 ### Bài tập 3 - Error Correction
 
 <teacher_script pause="120">
-Bài tập cuối cùng. Các em hãy tìm và sửa lỗi sai trong các câu. Các em có 2 phút.
+Bài tập cuối cùng <eng>Error correction</eng> nha. Tìm và sửa lỗi sai trong các câu đi. 2 phút nha.
 </teacher_script>
 
 <questions type="error_correction">
@@ -357,7 +413,7 @@ Bài tập cuối cùng. Các em hãy tìm và sửa lỗi sai trong các câu. 
 
 <!-- chunk: answer_practice_3 -->
 <teacher_script pause="0">
-Đã hết thời gian. Ok đáp án nè.
+Hết giờ rồi. Ok đáp án nè.
 </teacher_script>
 
 <answer>
@@ -394,7 +450,12 @@ Nhớ nha: <eng>who</eng> = người, <eng>which</eng> = vật, <eng>whose</eng>
 </teacher_script>
 
 <teacher_script pause="30">
-Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
+Sửa lỗi sai vô bài làm nếu có nha.
+</teacher_script>
+
+<!-- chunk: end -->
+<teacher_script pause="0">
+Hết bài rồi nha. Nhớ đại từ quan hệ: WHO = người, WHICH = vật, WHOSE = sở hữu. Bài tiếp theo là <eng>Communication</eng> - học cách diễn đạt nghĩa vụ. Hẹn gặp lại!
 </teacher_script>
 
 ---
