@@ -40,70 +40,183 @@ Giờ nghe hội thoại giữa Tom và Mai nha. Tom đang khoe ảnh đi du l�
 
 <!-- chunk: dialogue -->
 <teacher_script pause="0">
-Đây là nội dung hội thoại. Em đọc và hiểu ý nghĩa nhé.
+Đây là nội dung hội thoại. Em đọc theo bảng song ngữ - cột trái là tiếng Anh, cột phải là tiếng Việt. Chú ý cách Mai hỏi <eng>What's it like?</eng> và Tom dùng tính từ để mô tả thành phố nhé.
 </teacher_script>
 
 **UNIT 9: CITIES OF THE WORLD**
 
-**GETTING STARTED**
-Tom: Vâng, đúng vậy. Đây là Sydney, một thành phố ở Australia.
-Mai: Nơi đó như thế nào?
-Tom: Nơi đó rất thú vị với nhiều bãi biển.
-Mai: Một nơi đẹp quá\!
-Tom: Vâng, các bãi biển ở đó rất sạch sẽ.
-Mai: Tuyệt vời. Ồ, đây là London. Trời đang mưa phải không? Thời tiết xấu quá\!
-Tom: Vâng, ở đó mưa suốt. Bạn có thấy tháp Big Ben không?
-Mai: Có... bên bờ sông Thames. Đó là một địa danh của London.
-Tom: Đúng vậy. Và đây là Quảng trường Times Square ở New York, đông đúc nhưng thú vị.
-Mai: Bạn thật may mắn khi được đi nhiều nơi.
-Tom: Đúng vậy. Còn kỳ nghỉ của bạn thì sao?
-Mai: Đây là vài tấm ảnh của tôi. Đây là...
+**GETTING STARTED - What nice photos!**
 
-<!-- chunk: exercise_2 -->
-<teacher_script pause="45">
-Bài 2 trang 27. Nhìn hình và viết tên thành phố. Em để ý đặc điểm của mỗi thành phố: New York có Times Square đông đúc, London có Big Ben và sông Thames, Sydney có bãi biển đẹp. 45 giây nha.
+<dialogue>
+| English | Vietnamese |
+|---------|------------|
+| **Mai:** Tom, are these photos from your holidays? | **Mai:** Tom, đây có phải là những bức ảnh chụp trong kỳ nghỉ của bạn không? |
+| **Tom:** Yes, they are. This is Sydney, a city in Australia. | **Tom:** Đúng vậy. Đây là Sydney, một thành phố ở Úc. |
+| **Mai:** What's it like? | **Mai:** Nó như thế nào? |
+| **Tom:** It's exciting with a lot of beaches. | **Tom:** Rất thú vị với rất nhiều bãi biển. |
+| **Mai:** What a beautiful place! | **Mai:** Thật là một nơi tuyệt đẹp! |
+| **Tom:** Yes, its beaches are very clean. | **Tom:** Đúng vậy, những bãi biển của nó rất sạch. |
+| **Mai:** Wonderful. Oh, this is London. Isn't it raining? What bad weather! | **Mai:** Tuyệt vời. Ồ, đây là London. Không phải là trời đang mưa đó chứ? Thời tiết thật tệ! |
+| **Tom:** Yes, it rains all the time. Can you see Big Ben? | **Tom:** Đúng vậy, trời mưa suốt. Bạn có thấy Big Ben không? |
+| **Mai:** Yeah... on the River Thames. It's a landmark of London. | **Mai:** Ừ... trên sông Thames. Đó là một địa danh của London. |
+| **Tom:** It is. And this is Times Square in New York, crowded but interesting. | **Tom:** Đúng vậy. Còn đây là Quảng trường Thời đại ở New York, đông đúc nhưng thú vị. |
+| **Mai:** You're lucky to visit many places. | **Mai:** Bạn thật may mắn khi được đến tham quan nhiều nơi. |
+| **Tom:** I am. What about your holidays? | **Tom:** Đúng vậy. Còn kỳ nghỉ của bạn thì sao? |
+| **Mai:** Here are some photos of mine. This is... | **Mai:** Đây là một số hình ảnh của tôi. Đây là... |
+</dialogue>
+
+<teacher_script pause="180">
+Dịch hội thoại vô vở. 3 phút nha.
 </teacher_script>
 
-**Bài 2 trang 27**
+---
 
+<!-- chunk: exercise_2 -->
+### Bài 2 trang 27 - Write the cities
+
+<teacher_script pause="45">
+Bài 2. Nhìn hình và viết tên thành phố. Em để ý đặc điểm của mỗi thành phố: New York có Times Square đông đúc, London có Big Ben và sông Thames, Sydney có bãi biển đẹp và nhà hát Opera. 45 giây nha.
+</teacher_script>
+
+<task>
+**Đề:** Write the name of the cities in the correct place.
+**Dịch đề:** Viết tên các thành phố vào đúng chỗ.
+</task>
+
+<questions type="fill_blanks">
+*(Nhìn 3 hình ảnh và điền tên thành phố)*
+1. _______ (có Times Square, đông đúc)
+2. _______ (có Big Ben, sông Thames)
+3. _______ (có bãi biển đẹp, nhà hát Opera)
+</questions>
+
+<teacher_script pause="0">
+Ok đáp án nè.
+</teacher_script>
+
+<answer>
+**Đáp án:**
 1. New York
 2. London
 3. Sydney
+</answer>
+
+---
 
 <!-- chunk: exercise_3 -->
+### Bài 3 trang 27 - Matching
+
 <teacher_script pause="60">
-Bài 3. Mỗi thành phố được mô tả bằng những tính từ nào? Sydney thì <eng>exciting</eng> và <eng>beautiful</eng> vì có nhiều bãi biển đẹp. London thì <eng>rainy</eng> vì mưa suốt. New York thì <eng>crowded</eng> và <eng>interesting</eng>. 1 phút.
+Bài 3. Đọc lại hội thoại và nối thành phố với tính từ mô tả. Sydney được mô tả là gì? London thì sao? New York thì sao? Đọc kỹ lại hội thoại để tìm câu trả lời nha. 1 phút.
 </teacher_script>
 
-**Bài 3 trang 27**
+<task>
+**Đề:** Read the conversation again and match the cities with the adjectives describing them.
+**Dịch đề:** Đọc lại đoạn hội thoại và nối các thành phố với các tính từ mô tả chúng.
+</task>
 
-1. **Sydney** : exciting, beautiful
-2. **London** : rainy
-3. **New York** : crowded, interesting
+<questions type="matching">
+| Cities | Adjectives |
+|--------|-----------|
+| 1. Sydney | a. rainy *(hay mưa)* |
+| 2. London | b. crowded *(đông đúc)* |
+| 3. New York | c. exciting *(thú vị)* |
+| | d. beautiful *(đẹp)* |
+| | e. interesting *(hấp dẫn)* |
+</questions>
 
 <teacher_script pause="0">
-Đáp án nè. Em thấy không, mỗi thành phố có đặc điểm riêng. Sydney thì thú vị vì có biển đẹp, London thì hay mưa, còn New York thì đông đúc nhưng rất hấp dẫn. Khi mô tả thành phố, em dùng những tính từ này để người nghe hình dung được luôn.
+Ok đáp án nè.
 </teacher_script>
+
+<answer>
+**Đáp án:** 1 - c, d | 2 - a | 3 - b, e
+
+**Giải thích:**
+- **Sydney** → c. exciting, d. beautiful (Tom nói "It's exciting with a lot of beaches" và Mai khen "What a beautiful place!")
+- **London** → a. rainy (Tom nói "it rains all the time" - trời mưa suốt)
+- **New York** → b. crowded, e. interesting (Tom nói "crowded but interesting" - đông đúc nhưng thú vị)
+</answer>
+
+---
 
 <!-- chunk: exercise_4 -->
+### Bài 4 trang 27 - Match cities with landmarks
+
 <teacher_script pause="45">
-Bài 4. Nối thành phố với đặc điểm. Hà Nội của mình cũng rất đẹp nha. 45 giây.
+Bài 4. Nối thành phố với địa danh nổi tiếng của nó. Hà Nội của mình có Tháp Rùa nổi tiếng nè. London có Big Ben. New York có tượng Nữ thần Tự do. Sydney có nhà hát Opera hình con sò. 45 giây.
 </teacher_script>
 
-**Bài 4 trang 27**
+<task>
+**Đề:** Match the cities with their landmark.
+**Dịch đề:** Ghép các thành phố với địa danh của chúng.
+</task>
 
-1. Ha Noi
-2. London
-3. New York
-4. Sydney
+<questions type="matching">
+| Cities | Landmarks |
+|--------|-----------|
+| 1. Ha Noi | a. Statue of Liberty *(Tượng Nữ thần Tự do)* |
+| 2. London | b. Opera House *(Nhà hát Opera)* |
+| 3. New York | c. Turtle Tower *(Tháp Rùa)* |
+| 4. Sydney | d. Big Ben |
+</questions>
+
+<teacher_script pause="0">
+Ok đáp án nè.
+</teacher_script>
+
+<answer>
+**Đáp án:** 1 - c | 2 - d | 3 - a | 4 - b
+
+**Giải thích:**
+- **Ha Noi** → c. Turtle Tower (Tháp Rùa ở Hồ Hoàn Kiếm)
+- **London** → d. Big Ben (tháp đồng hồ nổi tiếng bên sông Thames)
+- **New York** → a. Statue of Liberty (Tượng Nữ thần Tự do)
+- **Sydney** → b. Opera House (Nhà hát Opera hình con sò)
+</answer>
+
+---
 
 <!-- chunk: exercise_5 -->
+### Bài 5 trang 27 - Game: What city is it?
+
 <teacher_script pause="60">
-Bài 5. Giờ em tập nói về một thành phố em biết. Dùng mẫu câu <eng>What's it like?</eng> để hỏi, và trả lời bằng <eng>It's exciting / crowded / beautiful</eng>. 1 phút tập nói nha.
+Bài 5. Trò chơi đoán thành phố. Một người mô tả thành phố, người khác đoán. Dùng câu hỏi <eng>What's it like?</eng> để hỏi đặc điểm, rồi <eng>Is it in...?</eng> để hỏi vị trí. Xem ví dụ mẫu rồi tập nói nha. 1 phút.
 </teacher_script>
 
-**Bài 5 trang 27**
-![][image2]
+<task>
+**Đề:** Game: What city is it?
+**Dịch đề:** Trò chơi: Nó là thành phố nào?
+</task>
+
+<dialogue>
+**Ví dụ mẫu:**
+| English | Vietnamese |
+|---------|------------|
+| **A:** What's it like? | **A:** Nó như thế nào? |
+| **B:** It has beautiful beaches. | **B:** Nó có những bãi biển đẹp. |
+| **C:** Is it in Australia? | **C:** Nó ở Úc phải không? |
+| **B:** Yes, it is. | **B:** Đúng vậy. |
+| **A:** It's Sydney. | **A:** Đó là Sydney. |
+| **B:** Right! | **B:** Đúng rồi! |
+</dialogue>
+
+<answer>
+**Bài mẫu - Đoán Hà Nội:**
+
+| English | Vietnamese |
+|---------|------------|
+| **A:** What's it like? | **A:** Nó như thế nào? |
+| **B:** It has a lot of historic places. | **B:** Nó có rất nhiều địa điểm lịch sử. |
+| **A:** Is it in Viet Nam? | **A:** Nó ở Việt Nam phải không? |
+| **B:** Yes, it is. | **B:** Đúng vậy. |
+| **A:** It's Ha Noi. | **A:** Đó là Hà Nội. |
+| **B:** Right! | **B:** Đúng rồi! |
+</answer>
+
+<teacher_script pause="0">
+Em có thể tập nói về các thành phố khác: Đà Nẵng có biển đẹp, Hồ Chí Minh có nhiều trung tâm thương mại, Huế có nhiều di tích lịch sử. Thử tập nói với bạn nha!
+</teacher_script>
 
 <!-- chunk: end -->
 <teacher_script pause="0">
