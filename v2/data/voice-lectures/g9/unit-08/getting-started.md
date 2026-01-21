@@ -88,10 +88,19 @@ Bài 2 <eng>True or False</eng> nha. Đọc câu rồi đánh T cho đúng, F ch
 
 <questions type="true_false">
 **1.** Tom and An are talking about their holidays. (T/F)
-**2.** Bali is interesting for mountain lovers. (T/F)
+*Tom và An đang nói chuyện về kỳ nghỉ của họ.*
+
+**2.** Bali is especially interesting for mountain lovers. (T/F)
+*Bali đặc biệt thú vị với những người yêu thích núi.*
+
 **3.** People can use online apps for booking tickets and accommodation. (T/F)
-**4.** An did not enjoy Da Nang's local food. (T/F)
+*Mọi người có thể sử dụng các ứng dụng trực tuyến để đặt vé và chỗ ở.*
+
+**4.** An did not enjoy some of Da Nang's local food. (T/F)
+*An không thích một số món ăn địa phương của Đà Nẵng.*
+
 **5.** Tom mentions some types of tourism. (T/F)
+*Tom đề cập đến một số loại hình du lịch.*
 </questions>
 
 <answer>
@@ -155,14 +164,26 @@ Sửa lỗi sai vô bài làm nếu có nha.
 Bài 4 <eng>Fill in</eng> nha. Điền từ vô chỗ trống đi. 1 phút nha.
 </teacher_script>
 
-<questions type="fill_blanks">
-**Word bank:** *sports tourism | destination | safari | online apps | domestic*
+<task>
+**Complete the sentences with the words and phrases from the box:**
+*sports tourism | destination | safari | online apps | domestic*
+</task>
 
-**1.** If you go on _______, you can see wild animals.
-**2.** Noi Bai Airport has two terminals: international and _______.
-**3.** Use _______ for booking.
+<questions type="fill_blanks">
+**1.** If you go on _______, you can see wild animals in their natural habitat.
+*Nếu bạn đi safari, bạn có thể nhìn thấy động vật hoang dã trong môi trường sống tự nhiên của chúng.*
+
+**2.** Noi Bai Airport has two terminals: one for international flights and one for _______ flights.
+*Sân bay Nội Bài có hai nhà ga: một dành cho các chuyến bay quốc tế và một dành cho các chuyến bay nội địa.*
+
+**3.** You should learn how to use _______ for booking transportation and accommodation.
+*Bạn nên học cách sử dụng các ứng dụng trực tuyến để đặt phương tiện đi lại và chỗ ở.*
+
 **4.** _______ is travelling to watch a sports event.
-**5.** Japan is a must-go _______.
+*Du lịch thể thao là đi xem một sự kiện thể thao.*
+
+**5.** Japan is a must-go _______ for me.
+*Nhật Bản là điểm đến không thể bỏ qua đối với tôi.*
 </questions>
 
 <answer>
@@ -192,12 +213,22 @@ Bài 5 <eng>Quiz</eng> nha. Đoán xem các địa điểm du lịch này ở t�
 </teacher_script>
 
 <task>
-**Where is it?**
-1. Ancient city, used to be capital: _______ (Hue)
-2. Famous for floating market: _______ (Can Tho)
-3. Flower Festival in December: _______ (Da Lat)
-4. Northern province, famous waterfall: _______ (Lao Cai / Cao Bang?) -> *Lao Cai (Sa Pa?)*
-5. World Heritage Site Ha Long Bay: _______ (Quang Ninh)
+**Work in pairs. Discuss and write the names of the places next to the sentences:**
+
+**1.** This ancient city in central Viet Nam used to be the capital of our country. _______
+*Thành phố cổ ở miền Trung Việt Nam này từng là thủ đô của nước ta.*
+
+**2.** This city in the South is famous for its floating market. _______
+*Thành phố phía Nam này nổi tiếng với chợ nổi.*
+
+**3.** This central highland city usually holds a Flower Festival in December. _______
+*Thành phố Tây Nguyên này thường tổ chức Lễ hội hoa vào tháng 12.*
+
+**4.** This northern province has a famous waterfall. _______
+*Tỉnh phía bắc này có một thác nước nổi tiếng.*
+
+**5.** This province possesses a World Heritage Site, Ha Long Bay. _______
+*Tỉnh này có Di sản Thế giới Vịnh Hạ Long.*
 </task>
 
 <answer>

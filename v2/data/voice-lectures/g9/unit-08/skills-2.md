@@ -105,15 +105,19 @@ Bài 2 <eng>Listen and fill</eng> nha. Nghe về chuyến đi Haworth rồi đi�
 **Audio:** Day Trip to Haworth
 </audio>
 
-<questions type="fill_blanks">
-**DAY TRIP: Haworth and the Brontes**
+<task>
+**A tour guide is announcing the schedule for a one-day trip to the home of the Brontes. Listen and complete the missing information:**
+</task>
 
-1. Trip will take: _______ hours.
-2. Jane Eyre: a _______ book.
-3. At Haworth, we see: house, school, and _______
-4. Tour includes: _______ ticket to the house.
-5. Brontes lived in Haworth: _______ years ago.
-6. Main street has witnessed little _______.
+<questions type="fill_blanks">
+| **DAY TRIP: Haworth and the Brontes** | |
+|---------------------------------------|---|
+| Trip will take: | (1) _______ hours |
+| Jane Eyre: | (2) a _______ book |
+| At Haworth, we see: | the Brontes' house, school, and (3) _______ |
+| The tour includes: | (4) _______ ticket to the house |
+| The Brontes lived in Haworth: | (5) _______ years ago |
+| The main street of the village: | has witnessed little (6) _______ |
 </questions>
 
 <answer>
@@ -169,14 +173,20 @@ Bài 4 nha. Thảo luận xem hướng dẫn viên đã đề cập đến nhữ
 </teacher_script>
 
 <task>
-1. Length of tour
-2. Cost
-3. Places to visit
-4. Brief details
+**Work in pairs. Discuss and tick (✔) the thing(s) that the tour guide in the listening passage mentions in her announcement at the beginning of the tour:**
+
+1. The length of the tour *(Thời lượng của chuyến tham quan)*
+2. The cost of the tour *(Chi phí chuyến tham quan)*
+3. The place(s) they visit *(Những địa điểm họ ghé thăm)*
+4. Some brief details about each place *(Một số chi tiết ngắn gọn về từng địa điểm)*
 </task>
 
 <answer>
-**Đáp án:** 1, 3, 4 (Length, Places, Details).
+**Đáp án:**
+✓ 1. The length of the tour (9 hours)
+✗ 2. The cost of the tour (không được nhắc đến)
+✓ 3. The place(s) they visit (Clapham, Wycoller, Haworth)
+✓ 4. Some brief details about each place (Jane Eyre, graveyard, 150 years ago)
 </answer>
 
 <teacher_script pause="0">
@@ -189,20 +199,51 @@ Hướng dẫn viên đề cập đến: độ dài chuyến đi (9 tiếng), c�
 ### Bài 5 trang 27 - Write a tour itinerary
 
 <teacher_script pause="0">
-Bài 5 <eng>Write</eng> nha. Viết lịch trình tour cho một chuyến đi ở Việt Nam đi. Xem bài mẫu bên dưới.
+Bài 5 <eng>Write</eng> nha. Viết đoạn văn 100-120 từ giới thiệu chuyến du lịch Huế nửa ngày đi.
 </teacher_script>
 
+<task>
+**Write a paragraph (100-120 words) introducing this half day tour in Hue. Use the clues below:**
+
+1. **Length of the tour:** 5 hours *(Thời lượng: 5 giờ)*
+2. **Transportation:** mini bus *(Phương tiện: xe buýt nhỏ)*
+3. **The place(s):**
+   - **Thien Mu Pagoda:** oldest pagoda in central and south Viet Nam, built in 1602.
+   *(Chùa Thiên Mụ: ngôi chùa cổ nhất miền Trung và Nam Bộ, được xây dựng năm 1602.)*
+   - **The Citadel:** see the palace ruins, learn about the history of the Nguyen Dynasty, and visit the altars of the Kings.
+   *(Đại Nội: tham quan di tích cung điện, tìm hiểu về lịch sử triều Nguyễn và tham quan bàn thờ các Vua.)*
+   - **Dong Ba Market + lunch (at tourists' own expense):** biggest market in the city. Get to know about the local products and chat with the locals.
+   *(Chợ Đông Ba + ăn trưa (du khách tự túc): chợ lớn nhất thành phố.)*
+
+**You can start with:**
+This is the itinerary for a five-hour tour....
+</task>
+
 <reading>
-**Sample:**
-This is the itinerary for a five-hour tour in Hue.
-We start at 8:00 AM with a mini bus ride to **Thien Mu Pagoda**, the oldest pagoda in central Viet Nam.
-Next, we visit **The Citadel** to see the palace ruins and learn about the Nguyen Dynasty.
-Finally, we stop at **Dong Ba Market** to buy souvenirs and enjoy local food.
-The tour ends at 1:00 PM.
+**Sample answer:**
+
+This is the itinerary for a five-hour tour in Hue. The tour begins with a ride on a mini bus to **Thien Mu Pagoda**, the oldest pagoda in central and south Vietnam, built in 1602.
+
+Next, we visit **The Citadel**, where you can see the palace ruins, learn about the history of the Nguyen Dynasty, and visit the altars of the Kings.
+
+After that, we go to **Dong Ba Market**, the biggest market in the city. Here, you can explore local products and chat with the friendly locals. Finally, you can enjoy a delicious lunch at a nearby restaurant (at your own expense).
+
+This tour is a great way to discover Hue's history and culture in just half a day!
 </reading>
 
+<translation>
+**Dịch:**
+Đây là hành trình cho chuyến tham quan kéo dài năm giờ ở Huế. Chuyến tham quan bắt đầu bằng chuyến đi trên xe buýt nhỏ đến Chùa Thiên Mụ, ngôi chùa cổ nhất ở miền Trung và miền Nam Việt Nam, được xây dựng vào năm 1602.
+
+Tiếp theo, chúng ta sẽ đến thăm Đại Nội, nơi bạn có thể nhìn thấy tàn tích của cung điện, tìm hiểu về lịch sử của Triều đại nhà Nguyễn và tham quan các bàn thờ của các vị vua.
+
+Sau đó, chúng ta sẽ đến Chợ Đông Ba, khu chợ lớn nhất thành phố. Tại đây, bạn có thể khám phá các sản phẩm địa phương và trò chuyện với người dân địa phương thân thiện. Cuối cùng, bạn có thể thưởng thức bữa trưa ngon miệng tại một nhà hàng gần đó (chi phí tự túc).
+
+Chuyến tham quan này là một cách tuyệt vời để khám phá lịch sử và văn hóa của Huế chỉ trong nửa ngày!
+</translation>
+
 <teacher_script pause="0">
-Bài mẫu có cấu trúc: mở đầu (độ dài tour, địa điểm), sau đó liệt kê các điểm dừng theo thứ tự (First/Next/Finally), cuối cùng là kết thúc tour. Các em viết theo mẫu này nha.
+Bài mẫu có cấu trúc: mở đầu (độ dài tour, phương tiện), sau đó liệt kê các điểm dừng theo thứ tự (First/Next/Finally), kèm chi tiết ngắn về mỗi địa điểm.
 </teacher_script>
 
 <teacher_script pause="300">

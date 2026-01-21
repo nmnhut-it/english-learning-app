@@ -53,12 +53,25 @@ Ghi vô tập: Đại từ quan hệ: WHO = người, WHICH = vật, WHOSE = s�
 Bài 1 nha. Xác định danh từ mà đại từ quan hệ đang chỉ đi. 1 phút nha.
 </teacher_script>
 
+<task>
+**Underline the noun or noun phrase in each sentence that which or who refers to:**
+</task>
+
 <questions type="fill_blanks">
-**1.** People **who** travel abroad... (who -> _______)
-**2.** The brochure **which** you can get... (which -> _______)
-**3.** Is this the video **which** explains... (which -> _______)
-**4.** A local tour guide **who** can speak English... (who -> _______)
-**5.** A city **which** is famous... (which -> _______)
+**1.** People **who** travel abroad usually use travel apps.
+*Những người đi du lịch nước ngoài thường sử dụng các ứng dụng du lịch.*
+
+**2.** The brochure **which** you can get free at the airport is useful for your stay in Bangkok.
+*Tài liệu quảng cáo mà bạn có thể nhận miễn phí tại sân bay sẽ rất hữu ích cho kỳ nghỉ của bạn ở Bangkok.*
+
+**3.** Is this the video **which** explains some new trends in tourism?
+*Đây có phải là video giải thích một số xu hướng mới trong du lịch không?*
+
+**4.** Could you recommend to me a local tour guide **who** can speak English?
+*Bạn có thể giới thiệu cho tôi một hướng dẫn viên du lịch địa phương có thể nói được tiếng Anh không?*
+
+**5.** They want to visit a city **which** is famous for its rich history.
+*Họ muốn đến thăm một thành phố nổi tiếng với lịch sử phong phú.*
 </questions>
 
 <answer>
@@ -87,12 +100,25 @@ Sửa lỗi sai vô bài làm nếu có nha.
 Bài 2 <eng>Choose</eng> nha. Chọn <eng>who</eng> hoặc <eng>which</eng> đúng đi. Nhớ: who cho người, which cho vật. 1 phút nha.
 </teacher_script>
 
+<task>
+**Underline the correct relative pronoun for each sentence:**
+</task>
+
 <questions type="multiple_choice">
-**1.** This is the brochure **which / who** provides information...
-**2.** ABC is the company **which / who** won the award...
-**3.** The elders **which / who** are not good at using apps...
-**4.** A hop-on hop-off bus **which / who** runs from here...
-**5.** Food tourism is for tourists **which / who** want to explore...
+**1.** This is the brochure **which / who** provides the information you need for your visit to Beijing.
+*Đây là tập tài liệu cung cấp thông tin bạn cần cho chuyến thăm Bắc Kinh.*
+
+**2.** ABC is the company **which / who** won the Best Travel Agency Award last year.
+*ABC là công ty đã giành được Giải thưởng Đại lý Du lịch Tốt nhất năm ngoái.*
+
+**3.** The elders **which / who** are not good at using online apps prefer package tours.
+*Những người lớn tuổi không giỏi sử dụng các ứng dụng trực tuyến thì thích các chuyến tham quan trọn gói hơn.*
+
+**4.** A hop-on hop-off bus **which / who** runs from here every hour is the fastest way to visit a city.
+*Xe buýt hop-on hop-off chạy từ đây mỗi giờ là cách nhanh nhất để tham quan thành phố.*
+
+**5.** Food tourism is for tourists **which / who** want to explore the unique dishes of a place.
+*Du lịch ẩm thực dành cho du khách muốn khám phá những món ăn độc đáo của một nơi.*
 </questions>
 
 <answer>
@@ -121,12 +147,25 @@ Sửa lỗi sai vô bài làm nếu có nha.
 Bài 3 nha. Chọn <eng>who</eng> hoặc <eng>whose</eng> đi. Nhớ: who = người làm gì, whose = của ai. 1 phút nha.
 </teacher_script>
 
+<task>
+**Complete each sentence with who or whose:**
+</task>
+
 <questions type="fill_blanks">
-**1.** Mr Minh, _______ will guide us...
-**2.** This is the writer _______ book is my favourite...
-**3.** My son, _______ is a huge fan of Taylor Swift...
-**4.** Ha Giang, _______ beauty and history are appealing...
-**5.** Locals _______ stories are interesting...
+**1.** Mr Minh, _______ will guide us on our Cu Chi Tunnel tour, is on his way.
+*Anh Minh, người sẽ hướng dẫn chúng tôi trong chuyến tham quan Địa đạo Củ Chi, đang trên đường đến đây.*
+
+**2.** This is the writer _______ book Travel on $50 a Day is my favourite travel guide.
+*Đây là nhà văn có cuốn Du lịch với $50 một ngày là cẩm nang du lịch yêu thích của tôi.*
+
+**3.** My son, _______ is a huge fan of Taylor Swift, is on a music tour to see her in concert.
+*Con trai tôi, một fan cuồng nhiệt của Taylor Swift, đang có chuyến lưu diễn âm nhạc để xem buổi hòa nhạc của cô ấy.*
+
+**4.** Ha Giang, _______ beauty and history are appealing, is a must-go in my tour list.
+*Hà Giang, nơi có vẻ đẹp và lịch sử hấp dẫn, là một địa điểm không thể bỏ qua trong danh sách du lịch của tôi.*
+
+**5.** While travelling, my father often spends time talking with the locals _______ stories, he says, are interesting about the land we are visiting.
+*Trong khi đi du lịch, bố tôi thường dành thời gian trò chuyện với những người dân địa phương, theo ông, những câu chuyện của họ rất thú vị về vùng đất chúng tôi đang đến thăm.*
 </questions>
 
 <answer>
@@ -160,28 +199,33 @@ Bài 4 <eng>Match</eng> nha. Nối mệnh đề ở cột A với cột B đi. 1
 </teacher_script>
 
 <task>
-**A:**
-1. Visit Museum...
-2. Phoned Pierre...
-3. See ruinous hall...
-4. Recommend tour guide...
-5. Meet artisans...
+**Match a clause in A with a clause in B to make a complete sentence:**
 
-**B:**
-a. whose products consist of handicrafts.
-b. who knows history of area?
-c. which appeared in "Jane Eyre".
-d. whose collection is must-see.
-e. who is arranging accommodation.
+| A | B |
+|---|---|
+| 1. Don't forget to visit the National Air and Space Museum | a. whose products are on display at the Handicraft Show. |
+| 2. Yesterday I phoned Pierre, | b. who knows a lot about the history of this area? |
+| 3. There, I could see the ruinous hall | c. which appeared in the film "Jane Eyre". |
+| 4. Could you recommend a local tour guide | d. whose breathtaking collection is a must-to-see. |
+| 5. We were lucky to meet some artisans | e. who is arranging accommodation for our stay in Paris. |
 </task>
 
 <answer>
 **Đáp án:**
-1 - d (Museum whose collection...)
-2 - e (Pierre who is arranging...)
-3 - c (Hall which appeared...)
-4 - b (Guide who knows...)
-5 - a (Artisans whose products...)
+1 - d. Don't forget to visit the National Air and Space Museum, **whose** breathtaking collection is a must-to-see.
+*Đừng quên ghé thăm Bảo tàng Hàng không và Vũ trụ Quốc gia, nơi có bộ sưu tập ngoạn mục không thể bỏ qua.*
+
+2 - e. Yesterday I phoned Pierre, **who** is arranging accommodation for our stay in Paris.
+*Hôm qua tôi đã gọi điện cho Pierre, người đang sắp xếp chỗ ở cho chúng tôi ở Paris.*
+
+3 - c. There, I could see the ruinous hall **which** appeared in the film "Jane Eyre".
+*Ở đó, tôi có thể nhìn thấy căn phòng đổ nát từng xuất hiện trong bộ phim "Jane Eyre".*
+
+4 - b. Could you recommend a local tour guide **who** knows a lot about the history of this area?
+*Bạn có thể giới thiệu một hướng dẫn viên du lịch địa phương biết nhiều về lịch sử của khu vực này không?*
+
+5 - a. We were lucky to meet some artisans **whose** products are on display at the Handicraft Show.
+*Chúng tôi may mắn được gặp một số nghệ nhân có sản phẩm được trưng bày tại Triển lãm Thủ công mỹ nghệ.*
 </answer>
 
 <teacher_script pause="0">
@@ -198,18 +242,39 @@ Sửa lỗi sai vô bài làm nếu có nha.
 ### Bài 5 trang 24 - Finish sentences
 
 <teacher_script pause="0">
-Bài 5 <eng>Speaking</eng> nha. Hoàn thành câu với mệnh đề quan hệ đi. Xem ví dụ bên dưới.
+Bài 5 <eng>Speaking</eng> nha. Hoàn thành câu với mệnh đề quan hệ đi.
 </teacher_script>
 
-<dialogue>
-**Example:**
-**1.** Son Doong is destination for travellers **who love adventure**.
-**2.** I'm against tours **which harm the environment**.
-**3.** We met two Germans **whose hobby is hiking**.
-</dialogue>
+<task>
+**Work in pairs. Discuss and finish the sentences:**
+
+**1.** Son Doong is now a world-famous destination for travellers who _______.
+**2.** I'm personally against tours which _______.
+**3.** We shared a holiday home with two Germans whose _______.
+**4.** I bought a city map which _______.
+**5.** Most travellers prefer working with tour guides who _______.
+</task>
+
+<answer>
+**Gợi ý đáp án:**
+1. Son Doong is now a world-famous destination for travelers **who crave adventure.**
+*Sơn Đoòng hiện là điểm đến nổi tiếng thế giới dành cho du khách đam mê phiêu lưu.*
+
+2. I'm personally against tours **which don't respect local customs and traditions.**
+*Cá nhân tôi phản đối những tour du lịch không tôn trọng phong tục và truyền thống địa phương.*
+
+3. We shared a holiday home with two Germans **whose hiking enthusiasm matched ours.**
+*Chúng tôi ở chung nhà nghỉ dưỡng với hai người Đức có niềm đam mê đi bộ đường dài giống như chúng tôi.*
+
+4. I bought a city map **which included public transportation routes.**
+*Tôi mua một bản đồ thành phố trong đó có các tuyến giao thông công cộng.*
+
+5. Most travelers prefer working with tour guides **who are friendly and knowledgeable.**
+*Hầu hết du khách thích làm việc với hướng dẫn viên du lịch thân thiện và hiểu biết.*
+</answer>
 
 <teacher_script pause="0">
-Ví dụ 1: travellers <eng>who love adventure</eng> - du khách yêu thích phiêu lưu. Ví dụ 2: tours <eng>which harm</eng> - tour gây hại môi trường. Ví dụ 3: Germans <eng>whose hobby</eng> - người Đức mà sở thích là đi bộ leo núi.
+Ví dụ câu 1: travellers <eng>who crave adventure</eng> - du khách yêu thích phiêu lưu. Câu 2: tours <eng>which don't respect</eng> - tour không tôn trọng. Câu 3: Germans <eng>whose enthusiasm</eng> - người Đức mà sự nhiệt huyết.
 </teacher_script>
 
 <teacher_script pause="0" action="record">

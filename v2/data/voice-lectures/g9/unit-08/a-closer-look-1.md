@@ -39,19 +39,15 @@ Bài 1 <eng>Match</eng> nha. Nối từ với định nghĩa đi. 1 phút nha.
 </teacher_script>
 
 <task>
-**Words:**
-1. package holiday
-2. self-guided tour
-3. trip itinerary
-4. homestay
-5. Google Maps
+**Match the words and phrases with the explanations:**
 
-**Explanations:**
-a. plan of a journey.
-b. accommodation in a family's home.
-c. trip where traveller does everything on own.
-d. shows directions.
-e. vacation organised by travel agent.
+| Words | Explanations |
+|-------|--------------|
+| 1. package holiday | a. a plan of a journey, including the route and the places that you visit |
+| 2. self-guided tour | b. accommodation provided in the home of a family in exchange for payment |
+| 3. trip itinerary | c. a trip where a traveller does everything on his/her own |
+| 4. homestay | d. a web platform which shows directions to a destination |
+| 5. Google Maps | e. a vacation where a travel agent organises everything for you |
 </task>
 
 <answer>
@@ -75,14 +71,26 @@ Sửa lỗi sai vô bài làm nếu có nha.
 Bài 2 <eng>Replace</eng> nha. Thay từ "it" bằng cụm từ phù hợp đi. 1 phút nha.
 </teacher_script>
 
-<questions type="fill_blanks">
-**Word bank:** *ruinous site | entrance ticket | smooth trip | fixed itinerary | travel agency*
+<task>
+**Write a phrase from the box next to the sentence to replace 'it':**
+*ruinous site | entrance ticket | smooth trip | fixed itinerary | travel agency*
+</task>
 
-**1.** If you want to go in... buy **it**. -> _______
-**2.** Colosseum... see only parts of **it**. -> _______
-**3.** **It** takes care of everything... -> _______
-**4.** I don't like **it** because cannot change... -> _______
-**5.** No trouble during **it**. -> _______
+<questions type="fill_blanks">
+**1.** If you want to go into a place to see what is inside, you have to buy **it**. → _______
+*Nếu bạn muốn vào một nơi để xem bên trong có gì thì phải mua vé vào cổng.*
+
+**2.** The Colosseum in Rome is not in its original condition. You can see only parts of **it**. → _______
+*Đấu trường La Mã ở Rome không còn ở tình trạng ban đầu. Bạn chỉ có thể nhìn thấy một phần của khu đổ nát.*
+
+**3.** **It** takes care of everything for travellers. → _______
+*Công ty du lịch lo mọi việc cho du khách.*
+
+**4.** I don't like **it** because I cannot change anything: the time, the destination, ... → _______
+*Tôi không thích hành trình cố định vì tôi không thể thay đổi bất cứ điều gì: thời gian, điểm đến,...*
+
+**5.** We had no trouble at all during **it**. Everything was OK. → _______
+*Chúng tôi không gặp khó khăn gì trong suốt chuyến đi suôn sẻ. Tất cả mọi thứ đều ổn.*
 </questions>
 
 <answer>
@@ -111,14 +119,26 @@ Sửa lỗi sai vô bài làm nếu có nha.
 Bài 3 <eng>Fill in</eng> nha. Điền từ vô chỗ trống đi. 1 phút nha.
 </teacher_script>
 
-<questions type="fill_blanks">
-**Word bank:** *entrance | apps | package | self-guided | itinerary*
+<task>
+**Complete the sentences with the words from the box:**
+*entrance | apps | package | self-guided | itinerary*
+</task>
 
-**1.** We'd like a _______ tour within our budget.
-**2.** Lan sent us the _______ of her trip.
-**3.** Have to buy _______ tickets.
-**4.** If take a _______ holiday, follow fixed itinerary.
-**5.** Download these _______ for info.
+<questions type="fill_blanks">
+**1.** We'd like to go on a(n) _______ tour which will be interesting and be within our budget.
+*Chúng tôi muốn thực hiện một chuyến tham quan tự túc thú vị và phù hợp với túi tiền của chúng tôi.*
+
+**2.** Lan sent us the _______ of her trip to Sa Pa for reference.
+*Lan gửi cho chúng tôi lịch trình chuyến đi Sa Pa của cô ấy để tham khảo.*
+
+**3.** During the tour, we have to buy the _______ tickets for the Glass Museum and the Art Gallery.
+*Trong chuyến tham quan, chúng ta phải mua vé vào cửa Bảo tàng Thủy tinh và Phòng trưng bày Nghệ thuật.*
+
+**4.** If you take a(n) _______ holiday, you have to follow a fixed itinerary.
+*Nếu bạn đi nghỉ trọn gói, bạn phải tuân theo một hành trình cố định.*
+
+**5.** If you want to get information about domestic tourist destinations, download these _______.
+*Nếu bạn muốn nhận thông tin về các địa điểm du lịch trong nước, hãy tải xuống các ứng dụng này.*
 </questions>
 
 <answer>
@@ -188,14 +208,33 @@ Bài 5 <eng>Mark stress</eng> nha. Nghe và đánh dấu trọng âm cho các t�
 **Audio:** Sentences
 </audio>
 
-<explanation>
+<task>
+**Mark the stress in the underlined words. Then listen and repeat the sentences:**
+
+**1.** The visitors are **curious** about the history of the old **public** building.
+*Du khách tò mò về lịch sử của tòa nhà công cộng cũ.*
+
+**2.** They have an **ambitious** goal which is to go on a cruise across the **Pacific**.
+*Họ có một mục tiêu đầy tham vọng đó là thực hiện một chuyến du ngoạn xuyên Thái Bình Dương.*
+
+**3.** We watched some **classic** movies while we were here on our **previous** holiday.
+*Chúng tôi đã xem một số bộ phim kinh điển khi chúng tôi ở đây vào kỳ nghỉ trước.*
+
+**4.** We stayed at a **luxurious** hotel near a **terrific** beach.
+*Chúng tôi ở tại một khách sạn sang trọng gần một bãi biển tuyệt vời.*
+
+**5.** The village has a **romantic** landscape with **various** flower beds.
+*Ngôi làng có phong cảnh lãng mạn với nhiều luống hoa khác nhau.*
+</task>
+
+<answer>
 **Đáp án:**
-1. 'curious, 'public
-2. am'bitious, Pa'cific
-3. 'classic, 'previous
-4. lu'xurious, ter'rific
-5. ro'mantic, 'various
-</explanation>
+1. 'curious /ˈkjʊə.ri.əs/, 'public /ˈpʌb.lɪk/
+2. am'bitious /æmˈbɪʃ.əs/, Pa'cific /pəˈsɪf.ɪk/
+3. 'classic /ˈklæs.ɪk/, 'previous /ˈpriː.vi.əs/
+4. lu'xurious /lʌɡˈʒʊə.ri.əs/, ter'rific /təˈrɪf.ɪk/
+5. ro'mantic /rəʊˈmæn.tɪk/, 'various /ˈveə.ri.əs/
+</answer>
 
 <teacher_script pause="0">
 Câu 1: CU-ri-ous và PUB-lic - nhấn âm đầu. Câu 2: am-BI-tious và Pa-CI-fic - nhấn âm thứ hai. Câu 3: CLAS-sic và PRE-vi-ous - nhấn âm đầu. Câu 4: lu-XU-ri-ous và ter-RI-fic - nhấn âm thứ hai. Câu 5: ro-MAN-tic và VA-ri-ous - romantic nhấn âm thứ hai, various nhấn âm đầu.
