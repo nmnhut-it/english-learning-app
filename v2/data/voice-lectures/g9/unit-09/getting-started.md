@@ -3,13 +3,17 @@
 ## GETTING STARTED - English Club
 
 <!-- chunk: intro -->
-<teacher_script pause="0" href="audio/tts_d8fb948d.mp3">
-Chào các em. Chào mừng các em đến với Unit 9: <eng>English in the World</eng>. Hôm nay chúng ta sẽ bắt đầu với phần <eng>Getting Started</eng>.
+<teacher_script pause="0">
+Ok lớp 9, hôm nay học Unit 9: <eng>English in the World</eng> nha. Đây là bài rất thú vị vì học về tiếng Anh toàn cầu - tại sao tiếng Anh lại phổ biến nhất thế giới và sự khác biệt giữa tiếng Anh Anh (<eng>British English</eng>) và tiếng Anh Mỹ (<eng>American English</eng>). Mở sách trang 30 đi.
 </teacher_script>
 
 ---
 
 <!-- chunk: vocabulary -->
+<teacher_script pause="0">
+Học từ vựng trước nha. Bài này có nhiều từ về ngôn ngữ: <eng>native speaker</eng> là người bản ngữ, <eng>mother tongue</eng> là tiếng mẹ đẻ, <eng>immigrant</eng> là người nhập cư. Quan trọng cho bài đọc sau này.
+</teacher_script>
+
 <vocabulary>
 1. **official language** : (n) ngôn ngữ chính thức /əˈfɪʃl ˈlæŋɡwɪdʒ/
 2. **native speaker** : (n) người bản ngữ /ˈneɪtɪv ˈspiːkər/
@@ -21,8 +25,11 @@ Chào các em. Chào mừng các em đến với Unit 9: <eng>English in the Wor
 8. **trousers** : (n) quần dài (Anh) /ˈtraʊzəz/
 </vocabulary>
 
-<teacher_script pause="0" href="audio/tts_4ec3284e.mp3">
-Các em hãy nghe và lặp lại từ vựng nhé.
+<teacher_script pause="0">
+Mẹo phân biệt nha:
+- <eng>Native speaker</eng>: người nói tiếng đó từ nhỏ, như tiếng mẹ đẻ
+- <eng>Mother tongue</eng> = <eng>first language</eng>: ngôn ngữ đầu tiên học được
+- <eng>Immigrant</eng>: người từ nước khác đến sống - họ mang theo ngôn ngữ gốc
 </teacher_script>
 
 ---
@@ -30,8 +37,8 @@ Các em hãy nghe và lặp lại từ vựng nhé.
 <!-- chunk: dialogue -->
 ### Bài 1 trang 30 - Listen and read
 
-<teacher_script pause="0" href="audio/tts_d4bf779c.mp3">
-Cô giáo đang giới thiệu một bạn học sinh mới. Các em hãy nghe đoạn hội thoại nhé.
+<teacher_script pause="0">
+Nghe hội thoại giữa cô giáo, học sinh Việt Nam và Jack - học sinh trao đổi từ Mỹ nha. Chú ý sự khác biệt từ vựng Anh-Mỹ: <eng>pants</eng> (Mỹ) = <eng>trousers</eng> (Anh) = quần dài.
 </teacher_script>
 
 <audio src="https://img.loigiaihay.com/picture/2024/0515/53.mp3">
@@ -59,8 +66,8 @@ Cô giáo đang giới thiệu một bạn học sinh mới. Các em hãy nghe �
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 31 - Answer the questions
 
-<teacher_script pause="60" href="audio/tts_b0cde84b.mp3">
-Các em hãy dựa vào đoạn hội thoại để trả lời các câu hỏi sau. 1 phút nhé.
+<teacher_script pause="60">
+Bài 2 trang 31. Trả lời câu hỏi dựa vào hội thoại. Đọc kỹ và tìm thông tin chi tiết nha. 1 phút.
 </teacher_script>
 
 <questions type="open_ended">
@@ -71,8 +78,8 @@ Các em hãy dựa vào đoạn hội thoại để trả lời các câu hỏi 
 **5.** Do they all speak English at school?
 </questions>
 
-<teacher_script pause="0" href="audio/tts_6130ada9.mp3">
-Sau đây là đáp án.
+<teacher_script pause="0">
+Ok đáp án nè.
 </teacher_script>
 
 <answer>
@@ -84,8 +91,9 @@ Sau đây là đáp án.
 **5.** Yes, they do.
 </answer>
 
-<teacher_script pause="30" href="audio/tts_643c3ede.mp3">
-Các em kiểm tra lại câu trả lời của mình nhé.
+<teacher_script pause="0">
+Giải thích nha:
+- Câu 4 thú vị: Trường học Mỹ có nhiều học sinh nhập cư từ Việt Nam, Ấn Độ, Mexico. Tiếng mẹ đẻ của họ khác nhau nhưng đều dùng tiếng Anh ở trường → tiếng Anh là ngôn ngữ chung (<eng>lingua franca</eng>).
 </teacher_script>
 
 ---
@@ -93,8 +101,8 @@ Các em kiểm tra lại câu trả lời của mình nhé.
 <!-- chunk: exercise_3 -->
 ### Bài 3 trang 31 - Find words
 
-<teacher_script pause="60" href="audio/tts_eea814ee.mp3">
-Bài 3. Các em hãy tìm từ trong hội thoại có nghĩa như sau.
+<teacher_script pause="60">
+Bài 3 trang 31. Tìm từ trong hội thoại có nghĩa như các định nghĩa sau. 1 phút.
 </teacher_script>
 
 <questions type="matching">
@@ -105,25 +113,33 @@ Bài 3. Các em hãy tìm từ trong hội thoại có nghĩa như sau.
 4. clothes worn by students at school
 </questions>
 
-<teacher_script pause="0" href="audio/tts_8f0c191d.mp3">
-Đáp án là:
+<teacher_script pause="0">
+Ok đáp án nè.
 </teacher_script>
 
 <answer>
 **Đáp án:**
-1. native speakers (implied in context) / *Answer in text might be implied or "native speaker" isn't explicitly in text but "first language" is mentioned. Let's use words from text: "immigrants", "uniforms".*
-**Correction based on text:**
-3. **immigrants**
-4. **school uniforms**
+1. **native speakers** - người nói ngôn ngữ đó như tiếng mẹ đẻ
+2. **English** (implied) - ngôn ngữ giao tiếp chung
+3. **immigrants** - người nhập cư đến sống lâu dài
+4. **school uniforms** - đồng phục học sinh
 </answer>
 
-<teacher_script pause="0" href="audio/tts_0f2c474b.mp3">
-Lưu ý: Trong bài này chúng ta tìm thấy từ <eng>immigrants</eng> và <eng>school uniforms</eng>.
+<teacher_script pause="0">
+Giải thích nha:
+- <eng>Native speaker</eng>: người nói bản ngữ, học ngôn ngữ đó từ nhỏ
+- <eng>Immigrant</eng>: người nhập cư, đến từ nước khác → tiếng Anh là ngôn ngữ thứ 2 của họ
+- Ở Mỹ, học sinh không bắt buộc mặc đồng phục như Việt Nam - đó là sự khác biệt văn hóa thú vị!
 </teacher_script>
 
 ---
 
 <!-- chunk: end -->
-<teacher_script pause="0" href="audio/tts_96004b0c.mp3">
-Bài học hôm nay kết thúc tại đây. Các em hãy nhớ luyện tập đoạn hội thoại nhé.
+<teacher_script pause="0">
+Ok hết bài <eng>Getting Started</eng>. Hôm nay em học được:
+- Từ vựng về ngôn ngữ: <eng>native speaker, mother tongue, immigrant</eng>
+- Sự khác biệt Anh-Mỹ: <eng>pants</eng> (Mỹ) = <eng>trousers</eng> (Anh)
+- Tiếng Anh là ngôn ngữ chung cho người từ nhiều quốc gia khác nhau
+
+Bài sau học thêm về sự khác biệt từ vựng và phát âm giữa tiếng Anh Anh và Mỹ. Bye!
 </teacher_script>

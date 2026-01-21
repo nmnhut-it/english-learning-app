@@ -1,204 +1,185 @@
 # G8 UNIT-09 A CLOSER LOOK 2
 
 <!-- chunk: intro -->
-<teacher_script pause="0" href="audio/tts_fd00461e.mp3">
-Chào các em. Chào mừng các em đến với bài học hôm nay. Mời các em mở sách giáo khoa.
+<teacher_script pause="0">
+Ok lớp 8, hôm nay học phần <eng>A Closer Look 2</eng> - ngữ pháp về Thì quá khứ tiếp diễn (<eng>Past Continuous</eng>) nha. Đây là thì rất quan trọng để kể chuyện, đặc biệt khi nói về thiên tai - "đang làm gì thì thiên tai xảy ra". Mở sách trang 95 đi.
 </teacher_script>
 
 <!-- chunk: vocabulary -->
-<teacher_script pause="0" href="audio/tts_c0841176.mp3">
-Chúng ta cùng học từ vựng mới. Các em hãy nghe và lặp lại theo mẫu nhé.
+<teacher_script pause="0">
+Trước tiên học thêm từ vựng bổ sung nha.
 </teacher_script>
 
 <vocabulary>
 **Vocabulary**
-1. **that \+ adj** : ... tới nỗi như vậy /ðæt/
-2. **landslide** : (n) lở đất, sạt lở;
-3. **mud** : (n) bùn, bùn đất /mʌd/
-4. **shake \- shook \- shaken** : (v) lắc, rung, rung lắc /ʃeɪk \- ʃʊk \- ˈʃeɪkən/
-5. **hide \- hid \- hidden** : (v) giấu, ẩn, trốn /haɪd \- hɪd \- ˈhɪdn/
-6. **scale** : (n) vảy (cá, rồng); thang đo; cái cân /skeɪl/
-7. **thunderstorm** : (n) cơn giông, bão có sấm sét /ˈθʌndəstɔːm/
-8. **South Pacific** : Nam Thái Bình Dương /saʊθ pəˈsɪfɪk/
-9. **still** : (adj) yên lặng, tĩnh lặng, (adv) vẫn, vẫn còn, (conj) tuy nhiên, tuy vậy /stɪl/
-10. **missing** : (adj) bị mất tích, thiếu, không có mặt /ˈmɪsɪŋ/
+1. **landslide** : (n) lở đất, sạt lở /ˈlændslaɪd/
+2. **mud** : (n) bùn, bùn đất /mʌd/
+3. **shake - shook - shaken** : (v) lắc, rung /ʃeɪk - ʃʊk - ˈʃeɪkən/
+4. **hide - hid - hidden** : (v) giấu, trốn /haɪd - hɪd - ˈhɪdn/
+5. **scale** : (n) thang đo; cái cân /skeɪl/
+6. **thunderstorm** : (n) cơn giông có sấm sét /ˈθʌndəstɔːm/
+7. **South Pacific** : Nam Thái Bình Dương /saʊθ pəˈsɪfɪk/
+8. **still** : (adv) vẫn còn /stɪl/
+9. **missing** : (adj) bị mất tích /ˈmɪsɪŋ/
 </vocabulary>
 
-<!-- chunk: content -->
-<teacher_script pause="0" href="audio/tts_d5b1d729.mp3">
-Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
+<!-- chunk: grammar -->
+<teacher_script pause="0">
+Giờ học ngữ pháp nha. Thì quá khứ tiếp diễn dùng để nói về hành động đang diễn ra tại một thời điểm trong quá khứ.
 </teacher_script>
 
-**UNIT 9: NATURAL DISASTERS****
+**UNIT 9: NATURAL DISASTERS**
 
-**A CLOSER LOOK 2** 
+**A CLOSER LOOK 2**
 
-**Thì quá khứ tiếp diễn**: Tại một thời điểm nào đó trong quá khứ, ai đó đang làm gì 
+**Thì quá khứ tiếp diễn (Past Continuous)**
 
-(+) Chủ từ \+ was/were \+ V-ing 
+<teacher_script pause="0">
+Công thức: Chủ ngữ + <eng>was/were</eng> + V-<eng>ing</eng>. Dùng <eng>was</eng> với <eng>I, he, she, it</eng>. Dùng <eng>were</eng> với <eng>you, we, they</eng>.
+</teacher_script>
 
-(-) Chủ từ \+ was/were \+not \+ V-ing 
+**Công thức:**
+- (+) S + was/were + V-ing
+- (-) S + was/were + not + V-ing
+- (?) Was/Were + S + V-ing?
 
-(?) ….. was/were  \+ Chủ từ \+ \+ V-ing ? 
+<teacher_script pause="0">
+Cách dùng quan trọng nhất: Hành động A đang diễn ra (quá khứ tiếp diễn) thì hành động B cắt ngang (quá khứ đơn). Ví dụ: <eng>When I was sleeping, the earthquake hit.</eng> - Khi tôi đang ngủ thì động đất xảy ra.
+</teacher_script>
 
-**Cách dùng phổ biến**
+**Cách dùng phổ biến:**
+A đang diễn ra (quá khứ tiếp diễn) thì B cắt ngang (quá khứ đơn)
 
-A đang diễn ra (chia quá khứ tiếp diễn) thì B cắt ngang (chia quá khứ đơn) 
+**Ví dụ:** When I **was sleeping**, my mom **came** into the room.
+(Khi tôi đang ngủ thì mẹ vào phòng)
 
-**Ví dụ**: Khi tôi đang ngủ thì mẹ vào phòng 
+<teacher_script pause="0">
+Mẹo nhớ nè: Hành động DÀI (đang diễn ra) → quá khứ tiếp diễn. Hành động NGẮN (cắt ngang) → quá khứ đơn. Như phim đang chạy thì ai đó bấm pause - phim đang chạy là quá khứ tiếp diễn, bấm pause là quá khứ đơn.
+</teacher_script>
 
-When I was sleeping, my mom came into the room. 
+<!-- chunk: practice -->
+<teacher_script pause="60">
+Bài tập thực hành. Điền thì đúng vào chỗ trống. 1 phút.
+</teacher_script>
 
-**Bài tập bổ sung** 
+**Bài tập bổ sung**
 
-1. People \_\_were sleeping\_\_\_ (sleep) in their houses when the earthquake \_\_\_hit\_\_ (hit).  
-2. It \_\_\_\_was raining\_ (rain) heavily when the flood \_started\_\_\_\_ (start).  
-3. My family \_\_\_\_\_ (watch) TV when the storm \_\_\_\_\_ (come).  
-4. The police \_\_\_\_\_ (help) people when the second earthquake \_\_\_\_\_ (happen).  
-5. While we \_\_\_\_\_ (stay) at home, the strong wind \_\_\_\_\_ (break) our windows.  
-6. They \_\_\_\_\_ (run) away when the fire \_\_\_\_\_ (spread).  
-7. I \_\_\_\_\_ (walk) to school when the rain \_\_\_\_\_ (begin).  
-8. All the students \_\_\_\_\_ (study) when they \_\_\_\_\_ (feel) the ground shake.  
-9. The children \_\_\_\_\_ (play) outside when the storm clouds \_\_\_\_\_ (appear).  
-10. We \_\_\_\_\_ (drive) on the road when the trees \_\_\_\_\_ (fall) down.  
-1. were sleeping / hit  
-2. was raining / started  
-3. was watching / came  
-4. were helping / happened  
-5. were staying / broke  
-6. were running / spread  
-7. was walking / began  
-8. were studying / felt  
-9. were playing / appeared  
-10. were driving / fell
+1. People **were sleeping** (sleep) in their houses when the earthquake **hit** (hit).
+2. It **was raining** (rain) heavily when the flood **started** (start).
+3. My family **was watching** (watch) TV when the storm **came** (come).
+4. The police **were helping** (help) people when the second earthquake **happened** (happen).
+5. While we **were staying** (stay) at home, the strong wind **broke** (break) our windows.
 
-**Bài 1** 
+<teacher_script pause="0">
+Giải thích nè: Hành động đầu tiên (ngủ, mưa, xem TV, giúp đỡ, ở nhà) là hành động DÀI đang diễn ra → chia quá khứ tiếp diễn. Hành động sau (động đất xảy ra, lũ bắt đầu, bão đến, gió làm vỡ cửa) là hành động NGẮN cắt ngang → chia quá khứ đơn.
+</teacher_script>
 
-(Hoàn thành câu bằng cách chia động từ trong ngoặc ở thì quá khứ tiếp diễn.) 
+<!-- chunk: exercise_1 -->
+<teacher_script pause="60">
+Bài 1 trang 95. Hoàn thành câu bằng thì quá khứ tiếp diễn. 1 phút.
+</teacher_script>
 
-1\. They were helping the flood victims at 10 o'clock last night.
+**Bài 1 trang 95**
 
-(Họ đang giúp đỡ những nạn nhân của trận lũ vào 10 giờ đêm qua.)
+1. They **were helping** the flood victims at 10 o'clock last night.
+   (Họ đang giúp đỡ những nạn nhân của trận lũ vào 10 giờ đêm qua.)
 
-2\. It wasn't snowing when I left home this afternoon.
+2. It **wasn't snowing** when I left home this afternoon.
+   (Lúc tôi rời khỏi nhà vào chiều nay thì trời không có tuyết.)
 
-(Lúc tôi rời khỏi nhà vào chiều nay thì trời không có tuyết.)
+3. While she **was working** the field, the tornado came.
+   (Khi cô ấy đang làm việc trên cánh đồng thì lốc xoáy đến.)
 
-3\. While she was working the field, the tornado came.
+4. - What **were you doing** at 9 o'clock yesterday morning?
+   - I **was watching** the news about a volcanic eruption.
+   (Bạn đang làm gì lúc 9 giờ sáng hôm qua? - Tôi đang xem tin về núi lửa phun.)
 
-(Khi cô ấy đang làm việc trên cánh đồng thì lốc xoáy đến.)
+5. - **Were you crying** when I saw you two days ago?
+   - No, I **wasn't**.
+   (Bạn đang khóc khi tôi gặp bạn hai ngày trước à? - Không.)
 
-4\. \- What were you doing at 9 o'clock yesterday morning?
+<!-- chunk: exercise_2 -->
+<teacher_script pause="90">
+Bài 2 trang 95. Chọn thì đúng - quá khứ đơn hay quá khứ tiếp diễn. Bài này khó hơn vì em phải phân biệt hai thì. 90 giây.
+</teacher_script>
 
-(Bạn làm gì vào 9 giờ sáng hôm qua vậy?)
+**Bài 2 trang 95**
 
-\- I was watching the news about a volcanic eruption.
+1. We **donated** money to help the earthquake victims last month.
+   → Quá khứ đơn vì hành động hoàn thành (quyên góp xong rồi)
 
-(Lúc đó tôi đang xem tin tức về một vụ núi lửa phun trào.)
+2. - What **were you doing** when the volcano erupted?
+   - I **was sleeping** in my bed.
+   → Quá khứ tiếp diễn vì đang diễn ra khi núi lửa phun
 
-5\. \- Were you crying when I saw you two days ago?
+3. While they **were camping** near the river, the flood **came** suddenly.
+   → camping: đang cắm trại (quá khứ tiếp diễn), came: lũ đến (quá khứ đơn)
 
-(Có phải bạn đang khóc lúc tôi thấy bạn hai ngày trước không?)
+4. After Tom **ran** out of his house, he **moved** quickly to a safer place.
+   → Hai hành động liên tiếp hoàn thành → đều dùng quá khứ đơn
 
-\- No, I wasn't. (Không phải.)
+5. I **wasn't reading** a newspaper at 9 a.m. yesterday, but I **watched** the news about the tornado.
+   → 9 a.m.: thời điểm cụ thể → quá khứ tiếp diễn. Xem tin: hành động hoàn thành → quá khứ đơn
 
-**Bài 2**
+<teacher_script pause="0">
+Tóm tắt cách phân biệt:
+- Hành động đang diễn ra (dài, chưa xong) → quá khứ tiếp diễn
+- Hành động hoàn thành (ngắn, xong rồi) → quá khứ đơn
+- Hai hành động liên tiếp xong → đều quá khứ đơn
+</teacher_script>
 
-1\. We donated money to help the earthquake victims last month.
+<!-- chunk: exercise_3 -->
+<teacher_script pause="60">
+Bài 3. Nhìn tranh và viết câu mô tả mọi người đang làm gì. 1 phút.
+</teacher_script>
 
-(Chúng tôi quyên góp tiền để giúp đỡ những nạn nhân của trận động đất tháng trước.)
+**Bài 3 trang 95**
 
-Lí do: Đây là một hành động xảy ra và kết thúc vào một thời điểm trong quá khứ, nên ta sẽ dùng thì quá khứ đơn, đáp án cần chọn là donated.
+1. Lan's mother **was reading** a book while Lan's grandparents **were watching** TV.
+   (Mẹ Lan đang đọc sách trong khi ông bà đang xem TV.)
 
-2\.
+2. Lan's father **was drinking** tea while he **was watching** TV.
+   (Bố Lan đang uống trà trong khi đang xem TV.)
 
-\- What were you doing when the volcano erupted?
+3. Lan's family **was watching** TV when she **was talking** on the phone.
+   (Gia đình Lan đang xem TV khi cô ấy đang nói chuyện điện thoại.)
 
-(Bạn đang làm gì khi núi lửa phun trào?)
+4. Lan's brother **was drawing** when she **was talking** on the phone.
+   (Em trai Lan đang vẽ khi cô ấy đang nói chuyện điện thoại.)
 
-\- I was sleeping in my bed.
+<!-- chunk: exercise_4 -->
+<teacher_script pause="60">
+Bài 4. Hỏi và trả lời về những gì em đang làm vào các thời điểm tối qua. 1 phút.
+</teacher_script>
 
-(Tôi đang ngủ trên giường của tôi.)
+**Bài 4 trang 95**
 
-Lí do: Một hành động đang xảy ra ở quá khứ thì bị hành động khác chen ngang vào, do đó chúng ta sẽ dùng thì quá khứ tiếp diễn để chia các động từ, đáp án cần điền là were you doing – was sleeping.
+1. **Were you having dinner** at 7 o'clock yesterday evening?
+   - Yes, I was. / No, I wasn't. I was playing piano.
 
-3\. While they were camping near the river, the flood came suddenly.
+2. **Were you doing homework** at 8 o'clock yesterday evening?
+   - Yes, I was. / No, I wasn't. I was watching TV.
 
-(Khi họ đang đi cắm trại gần con sông, bất ngờ cơn lũ kéo tới.)
+3. **Were you watching film** at 9 o'clock yesterday evening?
+   - Yes, I was. / No, I wasn't. I was sleeping.
 
-Lí do: Một hành động đang xảy ra ở quá khứ thì bị hành động khác chen ngang vào, do đó chúng ta sẽ dùng thì quá khứ tiếp diễn chia động từ đầu tiên, động từ thứ hai chia thì quá khứ đơn, đáp án là were camping – came.
+<!-- chunk: exercise_5 -->
+<teacher_script pause="60">
+Bài 5. Nhìn tranh và viết câu. 1 phút.
+</teacher_script>
 
-4\. After Tom ran out of his house, he moved quickly to a safer place.
+**Bài 5 trang 96**
 
-(Sau khi Tom chạy ra khỏi nhà, anh ấy nhanh chóng di chuyển đến nơi an toàn hơn.)
-
-Lí do: Những hành động liên tiếp xảy ra và kết thúc trong quá khứ, ta sẽ dùng thì quá khứ đơn để chia các động từ, đáp án là ran – moved.
-
-5\. I wasn't reading a newspaper at 9 a.m. yesterday, but I watched the news about the tornado.
-
-Lí do: Trong vế đầu tiên của câu, đây là một hành động đang xảy ra tại một thời điểm chính xác trong quá khứ, nên ta sẽ dùng thì quá khứ tiếp diễn, còn về sau là một hành động xảy ra và kết thúc trong quá khứ nên ta dùng thì quá khứ đơn., đáp án cần điền là wasn't reading – watched.
-
-**Bài 3**
-
-1\. Lan's mother was reading a book while Lan's grandparents were watching TV.
-
-(Mẹ của Lan đang đọc một cuốn sách trong khi ông bà Lan xem TV.)
-
-2\. Lan's father was drinking tea while he was watching TV.
-
-(Bố Lan đang uống trà trong khi đang xem TV.)
-
-3\. Lan's family was watching TV when she was talking on the phone.
-
-(Gia đình Lan đang xem phim trên TV khi cô ấy nói chuyện trên điện thoại.)
-
-4\. Lan's brother was drawing when she was talking on the phone.
-
-(Em trai Lan đang vẽ tranh khi cô ấy nói chuyện trên điện thoại.)
-
-**Bài 4**
-
-1\. Were you having dinner at 7 o'clock yesterday evening?
-
-(Có phải bạn đang ăn tối vào 7 giờ tối qua không?)
-
-Yes, I was. / No, I wasn't. I was playing piano.
-
-(Đúng rồi./ Không phải. Lúc đó tôi đang chơi đàn.)
-
-2\. Were you doing homework at 8 o'clock yesterday evening?
-
-(Có phải bạn đang làm bài tập vào 8 giờ tối qua không?)
-
-Yes, I was. / No, I wasn't. I was watching TV.
-
-(Đúng rồi./ Không phải. Lúc đó tôi đang xem TV.)
-
-3\. Were you watching film at 9 o'clock yesterday evening?
-
-(Có phải bạn đang làm xem phim vào 9 giờ tối qua không?)
-
-Yes, I was. / No, I wasn't. I was sleeping.
-
-(Đúng rồi./ Không phải. Lúc đó tôi đang ngủ.)
-
-**Bài 5**
-
-1\. Ann and Lan were singing while Nam was cleaning the board.
-
-(Ann và Lan đang hát trong khi Nam đang lau bảng.)
-
-2\. Phong and Nick were playing chess while Mai was reading a book.
-
-(Phong và Nick đang chơi cờ vua trong khi Mai đang đọc sách.)
-
-3\. Ha and Mi were talking to each other.
-
-(Hà và Mi đang nói chuyện với nhau.)
-
-**COMMUNICATION \+ SKILLS 1**
+1. Ann and Lan **were singing** while Nam **was cleaning** the board.
+2. Phong and Nick **were playing** chess while Mai **was reading** a book.
+3. Ha and Mi **were talking** to each other.
 
 <!-- chunk: end -->
-<teacher_script pause="0" href="audio/tts_ba688992.mp3">
-Bài học hôm nay kết thúc tại đây. Các em nhớ ôn bài và chuẩn bị cho bài học tiếp theo. Tạm biệt các em.
+<teacher_script pause="0">
+Ok hết bài ngữ pháp. Tóm tắt thì quá khứ tiếp diễn nha:
+- Công thức: S + <eng>was/were</eng> + V-<eng>ing</eng>
+- Dùng khi: diễn tả hành động đang xảy ra tại một thời điểm trong quá khứ
+- Hay đi với: <eng>when, while, at + giờ + yesterday</eng>
+
+Nhớ: hành động DÀI → quá khứ tiếp diễn, hành động NGẮN cắt ngang → quá khứ đơn. Bài sau học Communication và Skills. Bye!
 </teacher_script>

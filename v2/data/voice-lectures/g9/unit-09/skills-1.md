@@ -3,13 +3,17 @@
 ## SKILLS 1 - Reading & Speaking
 
 <!-- chunk: intro -->
-<teacher_script pause="0" href="audio/tts_7e18d301.mp3">
-Chào các em. Mời các em mở sách trang 38. Bài <eng>Skills 1</eng> hôm nay chúng ta sẽ đọc về "World Englishes" - Các biến thể của tiếng Anh trên thế giới.
+<teacher_script pause="0">
+Ok lớp 9, hôm nay học <eng>Skills 1</eng> - Đọc và Nói về <eng>World Englishes</eng> nha. Bài đọc về mô hình 3 vòng tròn của Kachru - giải thích tại sao tiếng Anh có nhiều biến thể khác nhau trên thế giới và Việt Nam nằm ở đâu trong bức tranh đó. Mở sách trang 38 đi.
 </teacher_script>
 
 ---
 
 <!-- chunk: vocabulary -->
+<teacher_script pause="0">
+Học từ vựng bài đọc trước nha.
+</teacher_script>
+
 <vocabulary>
 **Reading Vocabulary:**
 1. **concentric** : (adj) đồng tâm /kənˈsentrɪk/
@@ -21,13 +25,20 @@ Chào các em. Mời các em mở sách trang 38. Bài <eng>Skills 1</eng> hôm 
 7. **establish** : (v) thiết lập /ɪˈstæblɪʃ/
 </vocabulary>
 
+<teacher_script pause="0">
+Giải thích nha:
+- <eng>Concentric circles</eng>: vòng tròn đồng tâm - như bia bắn cung, có vòng trong, vòng ngoài, cùng tâm
+- <eng>Inner</eng> = trong, <eng>Outer</eng> = ngoài, <eng>Expanding</eng> = đang mở rộng
+- Mô hình này cho thấy tiếng Anh lan rộng ra thế giới như thế nào
+</teacher_script>
+
 ---
 
 <!-- chunk: reading_text -->
 ### Reading: The Three Circles of English
 
-<teacher_script pause="0" href="audio/tts_68b04db3.mp3">
-Các em hãy đọc bài văn về mô hình 3 vòng tròn tiếng Anh của Kachru.
+<teacher_script pause="0">
+Đọc bài về mô hình 3 vòng tròn của Kachru nha. Đây là lý thuyết nổi tiếng trong ngôn ngữ học giải thích sự phổ biến của tiếng Anh.
 </teacher_script>
 
 <reading>
@@ -55,8 +66,8 @@ Các em hãy đọc bài văn về mô hình 3 vòng tròn tiếng Anh của Kac
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 38 - Complete the table
 
-<teacher_script pause="60" href="audio/tts_fa69465e.mp3">
-Bài 2. Dựa vào bài đọc, điền thông tin vào bảng. 1 phút.
+<teacher_script pause="60">
+Bài 2 trang 38. Điền các quốc gia vào đúng vòng tròn. 1 phút.
 </teacher_script>
 
 <task>
@@ -73,27 +84,44 @@ Bài 2. Dựa vào bài đọc, điền thông tin vào bảng. 1 phút.
 3. Expanding Circle: Viet Nam, Japan, Russia, Brazil...
 </answer>
 
+<teacher_script pause="0">
+Giải thích nha:
+- **Inner Circle** (Vòng trong): Các nước tiếng Anh là ngôn ngữ MẸ ĐẺ - Anh, Mỹ, Úc, Canada, New Zealand. Họ đặt ra "chuẩn" tiếng Anh.
+- **Outer Circle** (Vòng ngoài): Tiếng Anh là ngôn ngữ THỨ HAI hoặc CHÍNH THỨC - Ấn Độ, Singapore, Philippines. Do lịch sử thuộc địa Anh/Mỹ.
+- **Expanding Circle** (Vòng mở rộng): Tiếng Anh là NGOẠI NGỮ - Việt Nam, Nhật, Nga, Brazil. Chúng ta học tiếng Anh ở trường!
+</teacher_script>
+
 ---
 
 <!-- chunk: speaking -->
 ### Bài 4 trang 38 - Discussion
 
-<teacher_script pause="0" href="audio/tts_8b729de7.mp3">
-Chúng ta chuyển sang phần Nói.
+<teacher_script pause="0">
+Chuyển sang phần Nói nha. Thảo luận về vai trò tiếng Anh ở Việt Nam.
 </teacher_script>
 
 <task>
 **Topic:** Discuss the roles of English in the Expanding Circle.
 </task>
 
-<teacher_script pause="0" action="record" href="audio/tts_56ad4396.mp3">
-Em hãy trả lời câu hỏi: "How do people in Viet Nam use English?" (Mọi người ở Việt Nam dùng tiếng Anh làm gì?)
-(Gợi ý: for business, education, tourism...)
+<teacher_script pause="0" action="record">
+Trả lời câu hỏi: <eng>How do people in Viet Nam use English?</eng> (Người Việt Nam dùng tiếng Anh làm gì?)
+
+Gợi ý:
+- <eng>For education</eng>: học tiếng Anh ở trường, thi IELTS/TOEFL để du học
+- <eng>For business</eng>: làm việc với công ty nước ngoài, xuất nhập khẩu
+- <eng>For tourism</eng>: hướng dẫn du lịch, khách sạn, nhà hàng
+- <eng>For entertainment</eng>: xem phim, nghe nhạc, chơi game
 </teacher_script>
 
 ---
 
 <!-- chunk: end -->
-<teacher_script pause="0" href="audio/tts_2c9f6df9.mp3">
-Bài học kết thúc. Các em nhớ bài đọc về 3 vòng tròn tiếng Anh nhé.
+<teacher_script pause="0">
+Ok hết bài <eng>Skills 1</eng>. Hôm nay em học được mô hình 3 vòng tròn tiếng Anh:
+- <eng>Inner Circle</eng>: tiếng Anh là tiếng mẹ đẻ (Anh, Mỹ, Úc...)
+- <eng>Outer Circle</eng>: tiếng Anh là ngôn ngữ thứ hai (Ấn Độ, Singapore...)
+- <eng>Expanding Circle</eng>: tiếng Anh là ngoại ngữ (Việt Nam, Nhật...)
+
+Việt Nam đang ở <eng>Expanding Circle</eng> và tiếng Anh ngày càng quan trọng cho công việc, học tập. Học giỏi tiếng Anh = nhiều cơ hội hơn! Bye!
 </teacher_script>

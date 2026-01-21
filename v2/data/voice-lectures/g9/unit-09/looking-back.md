@@ -3,8 +3,8 @@
 ## LOOKING BACK - Review
 
 <!-- chunk: intro -->
-<teacher_script pause="0" href="audio/tts_7588653c.mp3">
-Chào các em. Mời các em mở sách trang 40. Chúng ta cùng ôn tập lại Unit 9 qua bài <eng>Looking Back</eng>.
+<teacher_script pause="0">
+Ok lớp 9, hôm nay ôn tập Unit 9 về <eng>English in the World</eng> nha. Bài này ôn lại từ vựng về ngôn ngữ và ngữ pháp mệnh đề quan hệ. Mở sách trang 40 đi.
 </teacher_script>
 
 ---
@@ -12,8 +12,8 @@ Chào các em. Mời các em mở sách trang 40. Chúng ta cùng ôn tập lạ
 <!-- chunk: exercise_1 -->
 ### Bài 1 trang 40 - Vocabulary
 
-<teacher_script pause="60" href="audio/tts_b6f73b62.mp3">
-Bài 1. Điền từ thích hợp vào chỗ trống.
+<teacher_script pause="60">
+Bài 1. Điền từ thích hợp từ ngân hàng từ. Nhớ lại các từ về ngôn ngữ đã học nha. 1 phút.
 </teacher_script>
 
 <questions type="fill_blanks">
@@ -30,13 +30,22 @@ Bài 1. Điền từ thích hợp vào chỗ trống.
 **Đáp án:** 1. accent | 2. official | 3. bilingual | 4. fluent | 5. dialect
 </answer>
 
+<teacher_script pause="0">
+Giải thích nha:
+- Câu 1: <eng>Scottish accent</eng> = giọng Scotland - cách phát âm đặc trưng của vùng đó
+- Câu 2: <eng>official languages</eng> = ngôn ngữ chính thức - Singapore có 4: Anh, Hoa, Mã Lai, Tamil
+- Câu 3: <eng>bilingual</eng> = song ngữ - nói 2 ngôn ngữ thành thạo như nhau
+- Câu 4: <eng>fluent in Japanese</eng> = thông thạo tiếng Nhật - nói trôi chảy
+- Câu 5: <eng>local dialect</eng> = phương ngữ địa phương - tiếng địa phương riêng
+</teacher_script>
+
 ---
 
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 40 - Grammar: Relative Clauses
 
-<teacher_script pause="90" href="audio/tts_e65ba564.mp3">
-Bài 2. Nối câu dùng mệnh đề quan hệ.
+<teacher_script pause="90">
+Bài 2. Nối câu dùng mệnh đề quan hệ. Nhớ: <eng>who</eng> = người, <eng>which</eng> = vật, <eng>whose</eng> = sở hữu. 90 giây.
 </teacher_script>
 
 <questions type="fill_blanks">
@@ -57,13 +66,30 @@ Bài 2. Nối câu dùng mệnh đề quan hệ.
 3. The boy **whose father is a teacher** is smart.
 </answer>
 
-<teacher_script pause="30" href="audio/tts_838f018b.mp3">
-Các em kiểm tra lại ngữ pháp nhé.
+<teacher_script pause="0">
+Giải thích cách làm nha:
+- Câu 1: <eng>her</eng> = <eng>the girl</eng> → thay bằng <eng>who</eng> → "The girl <eng>who you met yesterday</eng> is my sister."
+- Câu 2: <eng>it</eng> = <eng>the book</eng> → thay bằng <eng>which</eng> → "This is the book <eng>which I bought in London</eng>."
+- Câu 3: <eng>His</eng> = <eng>the boy's</eng> → có sở hữu → dùng <eng>whose</eng> → "The boy <eng>whose father is a teacher</eng> is smart."
+
+Mẹo: Tìm từ lặp lại, xác định người/vật/sở hữu, rồi thay bằng đại từ quan hệ phù hợp!
 </teacher_script>
 
 ---
 
 <!-- chunk: end -->
-<teacher_script pause="0" href="audio/tts_62ac0324.mp3">
-Chúng ta đã hoàn thành Unit 9. Các em nhớ ôn tập lại các từ vựng về ngôn ngữ và mệnh đề quan hệ nhé. Hẹn gặp lại các em ở bài học sau. Tạm biệt!
+<teacher_script pause="0">
+Ok hết bài ôn tập Unit 9. Tóm tắt nha:
+
+**Từ vựng:**
+- <eng>accent</eng> = giọng điệu, <eng>dialect</eng> = phương ngữ
+- <eng>bilingual</eng> = song ngữ, <eng>fluent</eng> = thông thạo
+- <eng>official language</eng> = ngôn ngữ chính thức
+
+**Ngữ pháp Mệnh đề quan hệ:**
+- <eng>WHO</eng> → người
+- <eng>WHICH</eng> → vật
+- <eng>WHOSE</eng> → sở hữu
+
+Ôn kỹ để kiểm tra nha. Bye!
 </teacher_script>
