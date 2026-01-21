@@ -119,6 +119,26 @@ Chúng ta cùng làm Bài 2 <eng>True or False</eng>. Các em hãy nghe lại v�
 **Đáp án:** 1.F | 2.T | 3.T | 4.T | 5.F
 </answer>
 
+<teacher_script pause="0">
+Câu 1 chọn F - sai. <eng>Sportsmen</eng> là vận động viên nam. Nhưng Hải và Alice chỉ là học sinh bình thường, không phải vận động viên chuyên nghiệp. Hải thì thích thể thao, còn Alice thì không thích lắm. Chú ý: <eng>sportsmen</eng> (vận động viên nam), <eng>sportswomen</eng> (vận động viên nữ), <eng>sportspeople</eng> (vận động viên chung).
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 2 chọn T - đúng. Hải nói rõ ràng: <eng>I often go cycling with my dad at the weekend</eng> - Tôi thường đạp xe với bố vào cuối tuần. Vậy là Hải đi đạp xe vào cuối tuần, đúng rồi nha.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 3 chọn T - đúng. Hải nói: <eng>My favourite sport is karate</eng> - Môn thể thao yêu thích của tôi là karate. Rõ ràng luôn, karate là môn yêu thích của Hải. Hải luyện karate 3 lần một tuần đó.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 4 chọn T - đúng. Alice nói thẳng: <eng>I don't like doing sport very much</eng> - Tôi không thích chơi thể thao lắm. Vậy Alice không thích thể thao, khác với Hải nha. Alice thích chơi cờ và game máy tính hơn.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 5 chọn F - sai. Câu này rất dễ nhầm. Alice nói: <eng>I **sometimes** play computer games</eng> - Tôi **thỉnh thoảng** chơi game máy tính. <eng>Sometimes</eng> là thỉnh thoảng, không phải <eng>every day</eng> (mỗi ngày). Nếu đề nói Alice chơi game thỉnh thoảng thì đúng, nhưng đề nói mỗi ngày thì sai nha.
+</teacher_script>
+
 <explanation>
 **Giải thích:**
 
@@ -129,11 +149,12 @@ Chúng ta cùng làm Bài 2 <eng>True or False</eng>. Các em hãy nghe lại v�
 | 3 | Hai's favourite sport is karate. | **T** | "my favourite sport is karate" |
 | 4 | Alice doesn't like doing sport very much. | **T** | "I don't like doing sport very much" |
 | 5 | Alice plays computer games every day. | **F** | "I **sometimes** play computer games" (không phải every day) |
-</explanation>
 
-<teacher_script pause="0">
-Các em lưu ý câu 1 và 5 rất dễ sai. Ở câu 1, Hải và Alice chỉ là học sinh yêu thích thể thao, không phải là vận động viên. Ở câu 5, Alice thỉnh thoảng mới chơi game, không phải chơi mỗi ngày.
-</teacher_script>
+**Từ vựng:**
+- **sportsmen** = vận động viên nam
+- **sportswomen** = vận động viên nữ
+- **sometimes** = thỉnh thoảng ≠ every day
+</explanation>
 
 <teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.

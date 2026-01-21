@@ -51,6 +51,26 @@ Chúng ta cùng làm Bài 1 <eng>Find one odd word</eng>. Các em hãy tìm mộ
 **Đáp án:** 1.C | 2.A | 3.C | 4.B | 5.B
 </answer>
 
+<teacher_script pause="0">
+Câu 1 chọn C - <eng>bicycle</eng>. <eng>Volleyball</eng> và <eng>badminton</eng> đều là môn thể thao. Còn <eng>bicycle</eng> (xe đạp) là phương tiện đi lại, không phải môn thể thao. Chú ý: môn thể thao đạp xe gọi là <eng>cycling</eng>, còn <eng>bicycle</eng> là cái xe.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 2 chọn A - <eng>playground</eng>. <eng>Ball</eng> (bóng) và <eng>racket</eng> (vợt) là dụng cụ thể thao. Còn <eng>playground</eng> (sân chơi) là địa điểm, nơi chốn. Một cái là vật, một cái là chỗ, khác nhau hoàn toàn nha.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 3 chọn C - <eng>driving</eng>. <eng>Running</eng> (chạy) và <eng>cycling</eng> (đạp xe) là các môn thể thao. Còn <eng>driving</eng> (lái xe) là hoạt động bình thường hàng ngày, không phải thể thao. Ai cũng lái xe để đi làm đi học, nhưng không ai gọi đó là chơi thể thao.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 4 chọn B - <eng>winter sports</eng>. <eng>Sports shoes</eng> (giày thể thao) và <eng>goggles</eng> (kính bơi) là dụng cụ thể thao cụ thể. Còn <eng>winter sports</eng> (thể thao mùa đông) là TÊN NHÓM các môn thể thao, không phải dụng cụ. Ví dụ winter sports gồm: trượt tuyết, trượt băng, hockey.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 5 chọn B - <eng>intelligent</eng>. <eng>Sporty</eng> (năng động) và <eng>fit</eng> (khỏe mạnh) đều liên quan đến thể thao và sức khỏe. Còn <eng>intelligent</eng> (thông minh) liên quan đến trí tuệ, học hành. Một người có thể vừa intelligent vừa sporty, nhưng 2 từ này thuộc 2 lĩnh vực khác nhau.
+</teacher_script>
+
 <explanation>
 **Giải thích:**
 
@@ -61,11 +81,9 @@ Chúng ta cùng làm Bài 1 <eng>Find one odd word</eng>. Các em hãy tìm mộ
 | 3 | running (chạy) | cycling (đạp xe) | driving (lái xe) | **C** | A, B là thể thao; C là hoạt động thường ngày |
 | 4 | sports shoes (giày) | winter sports (thể thao mùa đông) | goggles (kính bơi) | **B** | A, C là dụng cụ; B là loại thể thao |
 | 5 | sporty (năng động) | intelligent (thông minh) | fit (khỏe) | **B** | A, C liên quan thể thao; B liên quan trí tuệ |
-</explanation>
 
-<teacher_script pause="0">
-Mẹo làm bài này là các em hãy tìm điểm chung của 2 từ, từ còn lại khác biệt sẽ là đáp án.
-</teacher_script>
+**Mẹo:** Tìm điểm chung của 2 từ, từ còn lại khác biệt chính là đáp án.
+</explanation>
 
 <teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
@@ -121,6 +139,30 @@ Chúng ta cùng làm Bài 2 <eng>Put the correct form of the verbs</eng>. Các e
 **Đáp án:** 1. do | 2. is playing | 3. goes | 4. went | 5. played | 6. are doing
 </answer>
 
+<teacher_script pause="0">
+Câu 1 điền <eng>do</eng>. Sau <eng>can</eng> luôn là động từ nguyên mẫu. <eng>Can do karate</eng> - có thể tập karate. Nhớ: karate thuộc nhóm dùng với <eng>DO</eng> (do karate, do judo, do taekwondo).
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 2 điền <eng>is playing</eng>. Có từ <eng>now</eng> (bây giờ) nên dùng thì hiện tại tiếp diễn. Cấu trúc: is/am/are + V-ing. Table tennis thuộc nhóm dùng <eng>PLAY</eng> (play table tennis, play tennis, play badminton).
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 3 điền <eng>goes</eng>. Có <eng>nearly every day</eng> (gần như mỗi ngày) nên dùng hiện tại đơn. Michael là he nên động từ thêm s: goes. Swimming thuộc nhóm dùng <eng>GO</eng> (go swimming, go fishing, go cycling).
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 4 điền <eng>went</eng>. Có <eng>yesterday</eng> (hôm qua) nên dùng quá khứ đơn. Fishing (câu cá) dùng với <eng>GO</eng>. Quá khứ của go là went. Vậy là <eng>went fishing</eng> - đã đi câu cá. Các em chú ý: KHÔNG BAO GIỜ nói "played fishing" hay "did fishing" nha.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 5 điền <eng>played</eng>. Có <eng>last Saturday</eng> (thứ Bảy tuần trước) nên dùng quá khứ đơn. Volleyball dùng với <eng>PLAY</eng>. Quá khứ của play là played (thêm -ed).
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 6 điền <eng>are doing</eng>. Có <eng>now</eng> (bây giờ) nên dùng hiện tại tiếp diễn. The girls là they nên dùng are. Aerobics dùng với <eng>DO</eng>. Vậy là <eng>are doing aerobics</eng> - đang tập aerobics.
+</teacher_script>
+
 <explanation>
 **Giải thích:**
 
@@ -135,10 +177,6 @@ Chúng ta cùng làm Bài 2 <eng>Put the correct form of the verbs</eng>. Các e
 
 **Nhớ:** karate, aerobics → **DO** | volleyball, table tennis → **PLAY** | swimming, fishing → **GO**
 </explanation>
-
-<teacher_script pause="0">
-Các em lưu ý câu 4 rất dễ nhầm lẫn: Đi câu cá là <eng>go fishing</eng>, quá khứ là <eng>went fishing</eng>, không phải "played fishing" hay "did fishing" đâu nhé.
-</teacher_script>
 
 <teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.

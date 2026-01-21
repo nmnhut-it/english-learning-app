@@ -52,12 +52,28 @@ d. a man who has magical powers
 
 <!-- chunk: answer_2 -->
 <teacher_script pause="0">
-Đã hết thời gian. Sau đây là đáp án đúng.
+Đã hết thời gian. Ok đáp án nè.
 </teacher_script>
 
 <answer>
 **Đáp án:** 1.b | 2.d | 3.a | 4.c
 </answer>
+
+<teacher_script pause="0">
+Câu 1 nối với b. Series nghĩa là loạt phim, nên nối với "related films that tell stories about the same characters" - các phim liên quan kể về cùng nhân vật. Như Harry Potter có 8 phần, đó là film series á.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 2 nối với d. Wizard nghĩa là phù thủy, nên nối với "a man who has magical powers" - người đàn ông có sức mạnh phép thuật. Harry Potter là wizard, có phép thuật đó nha.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 3 nối với a. Must-see nghĩa là phải xem, nên nối với "something that is so good that you think others should see it" - cái gì đó hay đến nỗi bạn nghĩ người khác nên xem. Must-see là phim đáng xem, không xem thì phí luôn.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 4 nối với c. Gripping nghĩa là lôi cuốn, hấp dẫn, nên nối với "very exciting or interesting" - rất thú vị hoặc hấp dẫn. Gripping story là câu chuyện lôi cuốn, xem không rời mắt á.
+</teacher_script>
 
 <explanation>
 **Giải thích:**
@@ -67,7 +83,7 @@ d. a man who has magical powers
 4. **gripping** = c (lôi cuốn -> exciting or interesting)
 </explanation>
 
-<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
+<teacher_script pause="30">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 

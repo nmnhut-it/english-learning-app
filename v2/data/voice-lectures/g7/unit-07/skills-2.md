@@ -131,14 +131,18 @@ Chúng ta cùng làm Bài 2 <eng>Listen and choose</eng>. Các em hãy nghe đo�
 ---
 
 <!-- chunk: answer_2 -->
-<teacher_script pause="0" href="audio/tts_24e71d75.webm">
-Đáp án đúng là C. <eng>Traffic problems in Mumbai</eng>.
+<teacher_script pause="0" href="audio/tts_778f802f.webm">
+Đã hết thời gian. Ok đáp án nè.
 </teacher_script>
 
 <answer>
 **Đáp án:** C - Traffic problems in Mumbai
 *(Vấn đề giao thông ở Mumbai)*
 </answer>
+
+<teacher_script pause="0" href="audio/tts_24e71d75.webm">
+Đáp án đúng là C - Traffic problems in Mumbai nha. Tại sao? Vì bài nghe nói về vấn đề giao thông ở Mumbai á. Bài nói Mumbai là một trong những thành phố tắc nghẽn nhất thế giới. Sau đó bài giải thích các lý do gây tắc đường: dân số tăng lên gần 20 triệu người, đường hẹp và không tốt, người dân không tuân thủ luật. Kết quả là tình trạng ngày càng tệ hơn. Vậy chủ đề chính của bài là vấn đề giao thông ở Mumbai, không phải về du lịch ở Mumbai hay chỉ nói về nguyên nhân thôi hen.
+</teacher_script>
 
 <explanation>
 **Giải thích:**
@@ -149,6 +153,10 @@ Bài nghe nói về:
 
 → Chủ đề chính là "Traffic problems in Mumbai" (Vấn đề giao thông ở Mumbai)
 </explanation>
+
+<teacher_script pause="30" href="audio/tts_75ebc937.webm">
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
+</teacher_script>
 
 ---
 
@@ -185,7 +193,7 @@ Chúng ta cùng làm Bài 3 <eng>Listen and fill</eng>. Các em hãy nghe lại 
 
 <!-- chunk: answer_3 -->
 <teacher_script pause="0" href="audio/tts_778f802f.webm">
-Đã hết thời gian. Sau đây là đáp án đúng.
+Đã hết thời gian. Ok đáp án nè.
 </teacher_script>
 
 <answer>
@@ -198,23 +206,23 @@ Chúng ta cùng làm Bài 3 <eng>Listen and fill</eng>. Các em hãy nghe lại 
 </answer>
 
 <teacher_script pause="0" href="audio/tts_bc013f56.webm">
-Câu 1: <eng>jams</eng>. <eng>Traffic jams</eng> nghĩa là tắc đường.
+Câu 1 điền "jams" nha. Câu đầy đủ là "Traffic jams happen every day in Mumbai". Traffic jams nghĩa là tắc đường, ùn tắc giao thông á. Trong bài nghe có nói rõ là "Traffic jams happen nearly every day" - tắc đường xảy ra gần như mỗi ngày.
 </teacher_script>
 
 <teacher_script pause="0" href="audio/tts_f06b0919.webm">
-Câu 2: <eng>jams</eng> hoặc <eng>problems</eng>. Cả hai từ đều có thể chấp nhận được.
+Câu 2 điền "jams" hoặc "problems" đều được nha. Câu đầy đủ là "There are several reasons for the traffic jams" hoặc "traffic problems". Cả hai từ đều có thể chấp nhận được vì bài nói về lý do gây ra tắc đường hay vấn đề giao thông.
 </teacher_script>
 
 <teacher_script pause="0" href="audio/tts_8be6bc2d.webm">
-Câu 3: <eng>Twenty</eng> hoặc 20. Có khoảng 20 triệu người sống ở Mumbai.
+Câu 3 điền "Twenty" hoặc viết số "20". Câu đầy đủ là "Twenty million people live and work in Mumbai". Bài nghe nói rõ là "With nearly 20 million" - với gần 20 triệu dân, Mumbai có quá nhiều người trên đường, đây là một lý do gây tắc nghẽn.
 </teacher_script>
 
 <teacher_script pause="0" href="audio/tts_60ed64dd.webm">
-Câu 4: <eng>roads</eng>. Nhiều con đường hẹp và không trong tình trạng tốt.
+Câu 4 điền "roads" nha. Câu đầy đủ là "Many roads are narrow and not in good condition". Bài nghe nói "the roads in Mumbai are narrow, and many are not in good condition" - nhiều con đường hẹp và không trong tình trạng tốt, gồ ghề, đây là lý do thứ hai gây tắc đường á.
 </teacher_script>
 
 <teacher_script pause="0" href="audio/tts_f7c79a81.webm">
-Câu 5: <eng>obey</eng>. Nhiều người không tuân thủ luật giao thông.
+Câu 5 điền "obey". Câu đầy đủ là "Many people don't obey the traffic rules". Obey nghĩa là tuân thủ, tuân theo. Bài nghe nói "many road users do not obey the traffic rules" - nhiều người tham gia giao thông không tuân thủ luật giao thông, làm cho tình hình càng tệ hơn hen.
 </teacher_script>
 
 <explanation>
@@ -229,7 +237,7 @@ Câu 5: <eng>obey</eng>. Nhiều người không tuân thủ luật giao thông.
 | 5 | obey | Many people don't **obey** the traffic rules. |
 </explanation>
 
-<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
+<teacher_script pause="30" href="audio/tts_75ebc937.webm">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -271,8 +279,8 @@ Chúng ta cùng làm Bài 4 <eng>Tick the traffic problems</eng>. Các em hãy �
 ---
 
 <!-- chunk: answer_4 -->
-<teacher_script pause="0" href="audio/tts_46c4ca67.webm">
-Sau đây là đáp án dựa trên thực tế giao thông tại Việt Nam.
+<teacher_script pause="0" href="audio/tts_778f802f.webm">
+Đã hết thời gian. Ok đáp án nè.
 </teacher_script>
 
 <answer>
@@ -287,8 +295,33 @@ Sau đây là đáp án dựa trên thực tế giao thông tại Việt Nam.
 | 5 | Wild animals on roads | ✗ Không phổ biến ở thành phố lớn |
 </answer>
 
-<teacher_script pause="0" href="audio/tts_98379bfc.webm">
+<teacher_script pause="0" href="audio/tts_c8a3d9f2.webm">
+Vấn đề số 1 - Too many vehicles - quá nhiều phương tiện. Tick nha, vì ở Việt Nam đặc biệt là Sài Gòn, Hà Nội có rất nhiều xe máy, ô tô trên đường, đông nghịt luôn.
+</teacher_script>
+
+<teacher_script pause="0" href="audio/tts_e7b2a4c1.webm">
+Vấn đề số 2 - Narrow and bumpy roads - đường hẹp và gồ ghề. Tick. Ở Việt Nam có nhiều đường nhỏ, hẻm hẹp, và một số đường bị ổ gà, gồ ghề á.
+</teacher_script>
+
+<teacher_script pause="0" href="audio/tts_f9d5b3e8.webm">
+Vấn đề số 3 - Some people don't obey traffic rules - một số người không tuân thủ luật giao thông. Tick. Đây là vấn đề khá phổ biến: vượt đèn đỏ, không đội mũ bảo hiểm, đi sai làn đường hen.
+</teacher_script>
+
+<teacher_script pause="0" href="audio/tts_a2c6e8f4.webm">
+Vấn đề số 4 - Children cycling dangerously - trẻ em đạp xe nguy hiểm. Tick. Ở một số nơi vẫn có trẻ em đạp xe không an toàn, không đội mũ bảo hiểm, đi sai làn đường.
+</teacher_script>
+
+<teacher_script pause="0" href="audio/tts_d1f7b9a5.webm">
+Vấn đề số 5 - Wild animals running across the roads - động vật hoang dã chạy qua đường. Không tick nha. Vấn đề này không phổ biến ở các thành phố lớn Việt Nam. Có thể gặp ở vùng núi, vùng nông thôn, nhưng không phải vấn đề chính của giao thông đô thị.
+</teacher_script>
+
+<explanation>
+**Giải thích:**
 Ở Việt Nam, 4 vấn đề đầu tiên khá phổ biến ở các thành phố lớn. Riêng vấn đề số 5 về động vật hoang dã thì ít gặp hơn tại các đô thị.
+</explanation>
+
+<teacher_script pause="30" href="audio/tts_75ebc937.webm">
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---

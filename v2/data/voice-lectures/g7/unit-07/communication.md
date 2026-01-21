@@ -149,7 +149,7 @@ Chúng ta cùng làm Bài 3 <eng>Left or right</eng>. Các em hãy cho biết nh
 
 <!-- chunk: answer_3 -->
 <teacher_script pause="0" href="audio/tts_778f802f.webm">
-Đã hết thời gian. Sau đây là đáp án đúng.
+Đã hết thời gian. Ok đáp án nè.
 </teacher_script>
 
 <answer>
@@ -162,7 +162,23 @@ Chúng ta cùng làm Bài 3 <eng>Left or right</eng>. Các em hãy cho biết nh
 </answer>
 
 <teacher_script pause="0" href="audio/tts_bea637aa.webm">
-Các nước Vương quốc Anh, Úc, Thái Lan lái xe bên trái. Còn Mỹ và Trung Quốc lái xe bên phải giống như Việt Nam chúng ta.
+Câu 1 là The United Kingdom, đánh dấu tick nha. Vương quốc Anh là quốc gia lái xe bên trái từ thời xưa luôn. Đây là hệ thống gốc, nhiều nước khác học theo.
+</teacher_script>
+
+<teacher_script pause="0" href="audio/tts_c8f4d231.webm">
+Câu 2 là The United States, không tick nha. Mỹ lái xe bên phải á. Họ muốn khác biệt với Anh nên chọn cách ngược lại.
+</teacher_script>
+
+<teacher_script pause="0" href="audio/tts_a9e2f8b4.webm">
+Câu 3 là Australia, đánh tick. Úc trước kia là thuộc địa của Anh nên dùng hệ thống lái xe bên trái giống Anh luôn.
+</teacher_script>
+
+<teacher_script pause="0" href="audio/tts_d7b5c3a2.webm">
+Câu 4 là Thailand, đánh tick. Thái Lan chịu ảnh hưởng từ Anh nên cũng lái xe bên trái hen.
+</teacher_script>
+
+<teacher_script pause="0" href="audio/tts_e3a1f9c5.webm">
+Câu 5 là China, không tick. Trung Quốc lái xe bên phải giống đa số các nước và giống Việt Nam mình nè.
 </teacher_script>
 
 <explanation>
@@ -177,6 +193,10 @@ Các nước Vương quốc Anh, Úc, Thái Lan lái xe bên trái. Còn Mỹ v�
 | China (Trung Quốc) | Phải ✗ | Giống đa số các nước |
 | Vietnam (Việt Nam) | Phải | Giống Mỹ, Trung Quốc |
 </explanation>
+
+<teacher_script pause="30" href="audio/tts_75ebc937.webm">
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
+</teacher_script>
 
 ---
 
@@ -201,7 +221,7 @@ One explanation is that some countries use _______ as the UK.
 
 <!-- chunk: answer_4 -->
 <teacher_script pause="0" href="audio/tts_778f802f.webm">
-Đã hết thời gian. Sau đây là đáp án đúng.
+Đã hết thời gian. Ok đáp án nè.
 </teacher_script>
 
 <answer>
@@ -211,12 +231,20 @@ One explanation is that some countries use **the same system** as the UK.
 *(Một cách giải thích là một số nước sử dụng **cùng hệ thống** giống như Anh.)*
 </answer>
 
+<teacher_script pause="0" href="audio/tts_f8c2a9d1.webm">
+Đáp án là "the same system" nha. Câu đầy đủ là: One explanation is that some countries use the same system as the UK. Nghĩa là một số nước dùng cùng hệ thống với Anh á. Vì sao? Vì Anh là nước đầu tiên có luật đi bên trái từ thời xưa. Các nước từng là thuộc địa của Anh như Úc, Ấn Độ, Thái Lan họ dùng the same system - cùng hệ thống với Anh, nên họ cũng đi bên trái luôn.
+</teacher_script>
+
 <explanation>
 **Giải thích:**
 - Anh là nước đầu tiên có luật đi bên trái
 - Các nước từng là thuộc địa Anh (Úc, Ấn Độ, Thái Lan...) dùng **the same system** (cùng hệ thống)
 - Nên họ cũng đi bên trái
 </explanation>
+
+<teacher_script pause="30" href="audio/tts_75ebc937.webm">
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
+</teacher_script>
 
 ---
 

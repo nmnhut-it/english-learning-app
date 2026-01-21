@@ -171,6 +171,231 @@ Các em hãy ghi âm phần luyện tập của mình và gửi cho thầy nhé.
 
 ---
 
+<!-- chunk: additional_practice -->
+### Bài tập thực hành bổ sung
+
+<teacher_script pause="0">
+Các em làm thêm bài tập thực hành để củng cố từ vựng nha. Bài tập này rất quan trọng đó!
+</teacher_script>
+
+---
+
+<!-- chunk: practice_1 -->
+### Bài tập 1 - Shopping vocabulary practice
+
+<teacher_script pause="120">
+Chúng ta cùng làm Bài tập 1. Các em hãy hoàn thành các câu về mua sắm. Các em có 2 phút.
+</teacher_script>
+
+<questions type="fill_blanks">
+**Word bank:** *shopaholic | browsing | on sale | bargain | speciality shop*
+
+**1.** My sister is a _______. She shops almost every day!
+*Chị tôi là một _______. Chị ấy mua sắm gần như mỗi ngày!*
+
+**2.** These shoes are _______ today. They're 50% off!
+*Những đôi giày này đang _______ hôm nay. Giảm 50%!*
+
+**3.** I spent two hours _______ online for a new phone.
+*Tôi dành hai giờ _______ trực tuyến để tìm điện thoại mới.*
+
+**4.** If you want fresh bread, go to the _______ on the corner.
+*Nếu bạn muốn bánh mì tươi, hãy đến _______ ở góc phố.*
+
+**5.** She knows how to _______ well, so she always gets good prices.
+*Cô ấy biết cách _______ giỏi, nên luôn mua được giá tốt.*
+</questions>
+
+---
+
+<!-- chunk: answer_practice_1 -->
+<teacher_script pause="0">
+Đã hết thời gian. Ok đáp án nè.
+</teacher_script>
+
+<answer>
+**Đáp án:**
+1. shopaholic
+2. on sale
+3. browsing
+4. speciality shop
+5. bargain
+</answer>
+
+<teacher_script pause="0">
+Câu 1: <eng>shopaholic</eng> - người nghiện mua sắm. Mua sắm mỗi ngày là dấu hiệu của shopaholic nha.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 2: <eng>on sale</eng> - đang giảm giá. Khi thấy 50% off là đang sale đó.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 3: <eng>browsing</eng> - xem lướt qua. Lướt xem hàng trực tuyến gọi là browsing.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 4: <eng>speciality shop</eng> - cửa hàng chuyên doanh. Tiệm bánh mì chuyên bán bánh mì thôi.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 5: <eng>bargain</eng> - mặc cả. Mặc cả giỏi thì mua được giá rẻ.
+</teacher_script>
+
+<teacher_script pause="30">
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
+</teacher_script>
+
+---
+
+<!-- chunk: practice_2 -->
+### Bài tập 2 - Types of shops
+
+<teacher_script pause="120">
+Chúng ta cùng làm Bài tập 2. Các em hãy chọn loại cửa hàng phù hợp. Các em có 2 phút.
+</teacher_script>
+
+<questions type="multiple_choice">
+**Chọn loại cửa hàng đúng:**
+
+**1.** I want to buy fresh vegetables and meat in one place. I'll go to a _______.
+A. speciality shop | B. supermarket | C. online shop
+*Tôi muốn mua rau tươi và thịt ở một nơi. Tôi sẽ đến _______.*
+
+**2.** You can find the cheapest prices at a _______.
+A. discount shop | B. speciality shop | C. open-air market
+*Bạn có thể tìm giá rẻ nhất ở _______.*
+
+**3.** If you need Internet access to shop, use an _______.
+A. open-air market | B. online shop | C. supermarket
+*Nếu bạn cần truy cập Internet để mua sắm, dùng _______.*
+
+**4.** At an _______, you can bargain with sellers.
+A. supermarket | B. online shop | C. open-air market
+*Ở _______, bạn có thể mặc cả với người bán.*
+
+**5.** For handmade jewelry, visit a _______.
+A. discount shop | B. speciality shop | C. supermarket
+*Để mua trang sức thủ công, hãy đến _______.*
+</questions>
+
+---
+
+<!-- chunk: answer_practice_2 -->
+<teacher_script pause="0">
+Đã hết thời gian. Ok đáp án nè.
+</teacher_script>
+
+<answer>
+**Đáp án:** 1.B | 2.A | 3.B | 4.C | 5.B
+</answer>
+
+<teacher_script pause="0">
+Câu 1: <eng>supermarket</eng> - siêu thị. Siêu thị có đầy đủ hàng hóa từ rau đến thịt.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 2: <eng>discount shop</eng> - cửa hàng giảm giá. Discount shop bán giá rẻ nhất.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 3: <eng>online shop</eng> - cửa hàng trực tuyến. Cần Internet để vào online shop.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 4: <eng>open-air market</eng> - chợ trời. Ở chợ trời thì có thể mặc cả được.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 5: <eng>speciality shop</eng> - cửa hàng chuyên doanh. Trang sức thủ công bán ở cửa hàng chuyên về trang sức.
+</teacher_script>
+
+<teacher_script pause="30">
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
+</teacher_script>
+
+---
+
+<!-- chunk: practice_3 -->
+### Bài tập 3 - Shopping situations
+
+<teacher_script pause="120">
+Bài tập cuối cùng. Các em hãy viết câu về các tình huống mua sắm. Các em có 2 phút.
+</teacher_script>
+
+<questions type="complete_sentences">
+**Viết câu hoàn chỉnh:**
+
+**1.** (I / love / browse / online shops)
+→ _______________________________________
+
+**2.** (The store / have / wide range of products)
+→ _______________________________________
+
+**3.** (My mother / never / bargain / at supermarkets)
+→ _______________________________________
+
+**4.** (This dress / be / on sale / 30% off)
+→ _______________________________________
+
+**5.** (We / need / Internet access / to shop online)
+→ _______________________________________
+
+**6.** (She / be / shopaholic / spend too much money)
+→ _______________________________________
+</questions>
+
+---
+
+<!-- chunk: answer_practice_3 -->
+<teacher_script pause="0">
+Đã hết thời gian. Ok đáp án nè.
+</teacher_script>
+
+<answer>
+**Đáp án:**
+1. I love browsing online shops.
+2. The store has a wide range of products.
+3. My mother never bargains at supermarkets.
+4. This dress is on sale, 30% off.
+5. We need Internet access to shop online.
+6. She is a shopaholic and spends too much money.
+</answer>
+
+<teacher_script pause="0">
+Câu 1: <eng>I love browsing online shops.</eng> - Tôi thích lướt xem các cửa hàng trực tuyến.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 2: <eng>The store has a wide range of products.</eng> - Cửa hàng có nhiều loại sản phẩm. <eng>Range of products</eng> là dãy sản phẩm.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 3: <eng>My mother never bargains at supermarkets.</eng> - Mẹ tôi không bao giờ mặc cả ở siêu thị vì siêu thị giá cố định.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 4: <eng>This dress is on sale, 30% off.</eng> - Váy này đang giảm giá 30%. <eng>On sale</eng> và <eng>off</eng> thường đi cùng nhau.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 5: <eng>We need Internet access to shop online.</eng> - Chúng ta cần Internet để mua sắm trực tuyến.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 6: <eng>She is a shopaholic and spends too much money.</eng> - Cô ấy nghiện mua sắm và tiêu quá nhiều tiền.
+</teacher_script>
+
+<teacher_script pause="0">
+Mẹo nhớ: <eng>on sale</eng> = giảm giá, <eng>bargain</eng> = mặc cả, <eng>browse</eng> = lướt xem, <eng>shopaholic</eng> = nghiện mua sắm.
+</teacher_script>
+
+<teacher_script pause="30">
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
+</teacher_script>
+
+---
+
 <!-- chunk: end -->
 <teacher_script pause="0" href="audio/tts_ba688992.mp3">
 Bài học hôm nay kết thúc tại đây. Các em nhớ ôn bài và chuẩn bị cho bài học tiếp theo. Tạm biệt các em.

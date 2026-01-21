@@ -203,6 +203,219 @@ Em hãy ghi âm 5 câu này gửi cho thầy nhé. Cố gắng phát âm rõ /bl
 
 ---
 
+<!-- chunk: additional_practice -->
+### Bài tập thực hành bổ sung
+
+<teacher_script pause="0">
+Các em làm thêm bài tập thực hành để củng cố từ vựng nha. Bài tập này rất quan trọng đó!
+</teacher_script>
+
+---
+
+<!-- chunk: practice_1 -->
+### Bài tập 1 - Environmental vocabulary practice
+
+<teacher_script pause="120">
+Chúng ta cùng làm Bài tập 1. Các em hãy hoàn thành các câu về bảo vệ môi trường. Các em có 2 phút.
+</teacher_script>
+
+<questions type="fill_blanks">
+**Word bank:** *pollution | ecosystem | habitat | endangered species | cut down*
+
+**1.** Air _______ is a serious problem in big cities.
+*Ô nhiễm không khí là vấn đề nghiêm trọng ở các thành phố lớn.*
+
+**2.** We should protect _______ like pandas and tigers.
+*Chúng ta nên bảo vệ các loài nguy cấp như gấu trúc và hổ.*
+
+**3.** Don't _______ trees in the forest.
+*Đừng chặt cây trong rừng.*
+
+**4.** The forest is a natural _______ for many animals.
+*Khu rừng là môi trường sống tự nhiên cho nhiều động vật.*
+
+**5.** A healthy _______ has many different plants and animals.
+*Một hệ sinh thái khỏe mạnh có nhiều loài động thực vật khác nhau.*
+</questions>
+
+---
+
+<!-- chunk: answer_practice_1 -->
+<teacher_script pause="0">
+Đã hết thời gian. Ok đáp án nè.
+</teacher_script>
+
+<answer>
+**Đáp án:**
+1. pollution
+2. endangered species
+3. cut down
+4. habitat
+5. ecosystem
+</answer>
+
+<teacher_script pause="0">
+Câu 1: <eng>pollution</eng> - ô nhiễm. Air pollution là ô nhiễm không khí, water pollution là ô nhiễm nước.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 2: <eng>endangered species</eng> - loài nguy cấp. Đây là những loài có nguy cơ tuyệt chủng, cần được bảo vệ.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 3: <eng>cut down</eng> - chặt cây. Chặt cây phá rừng rất có hại cho môi trường nha.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 4: <eng>habitat</eng> - môi trường sống. Mỗi loài động vật có môi trường sống riêng của mình.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 5: <eng>ecosystem</eng> - hệ sinh thái. Đây là mối quan hệ giữa các sinh vật trong một khu vực.
+</teacher_script>
+
+<teacher_script pause="30">
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
+</teacher_script>
+
+---
+
+<!-- chunk: practice_2 -->
+### Bài tập 2 - Environmental actions
+
+<teacher_script pause="120">
+Chúng ta cùng làm Bài tập 2. Các em hãy viết câu về các hành động bảo vệ môi trường. Các em có 2 phút.
+</teacher_script>
+
+<questions type="complete_sentences">
+**Hoàn thành câu:**
+
+**1.** (pick up rubbish / beach)
+→ We should _______________________________________
+
+**2.** (protect / endangered species)
+→ It's important to _______________________________________
+
+**3.** (save water / daily life)
+→ People should _______________________________________
+
+**4.** (not build campfire / forest)
+→ We shouldn't _______________________________________
+
+**5.** (not cut down / trees)
+→ We must _______________________________________
+
+**6.** (reduce / pollution)
+→ Everyone should _______________________________________
+</questions>
+
+---
+
+<!-- chunk: answer_practice_2 -->
+<teacher_script pause="0">
+Đã hết thời gian. Ok đáp án nè.
+</teacher_script>
+
+<answer>
+**Đáp án:**
+1. We should pick up rubbish on the beach.
+2. It's important to protect endangered species.
+3. People should save water in daily life.
+4. We shouldn't build campfires in the forest.
+5. We must not cut down trees.
+6. Everyone should reduce pollution.
+</answer>
+
+<teacher_script pause="0">
+Các câu này đều nói về bảo vệ môi trường. Nhặt rác, tiết kiệm nước, bảo vệ động vật quý hiếm - đây là những việc chúng ta cần làm.
+</teacher_script>
+
+<teacher_script pause="0">
+Lưu ý: <eng>endangered species</eng> là loài có nguy cơ tuyệt chủng, <eng>pollution</eng> là ô nhiễm, <eng>habitat</eng> là môi trường sống.
+</teacher_script>
+
+<teacher_script pause="30">
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
+</teacher_script>
+
+---
+
+<!-- chunk: practice_3 -->
+### Bài tập 3 - True or False
+
+<teacher_script pause="120">
+Bài tập cuối cùng. Các em hãy đọc các câu và chọn True (T) hoặc False (F). Các em có 2 phút.
+</teacher_script>
+
+<questions type="true_false">
+**Đúng (T) hay Sai (F):**
+
+**1.** Cutting down trees is good for the environment. (T / F)
+*Chặt cây tốt cho môi trường.*
+
+**2.** We should protect endangered species. (T / F)
+*Chúng ta nên bảo vệ các loài nguy cấp.*
+
+**3.** Picking up rubbish helps protect the environment. (T / F)
+*Nhặt rác giúp bảo vệ môi trường.*
+
+**4.** Building campfires in the forest is safe. (T / F)
+*Đốt lửa trại trong rừng là an toàn.*
+
+**5.** An ecosystem includes only animals. (T / F)
+*Hệ sinh thái chỉ bao gồm động vật.*
+
+**6.** Saving water is a way to protect the environment. (T / F)
+*Tiết kiệm nước là cách bảo vệ môi trường.*
+</questions>
+
+---
+
+<!-- chunk: answer_practice_3 -->
+<teacher_script pause="0">
+Đã hết thời gian. Ok đáp án nè.
+</teacher_script>
+
+<answer>
+**Đáp án:**
+1. F (False)
+2. T (True)
+3. T (True)
+4. F (False)
+5. F (False)
+6. T (True)
+</answer>
+
+<teacher_script pause="0">
+Câu 1: <eng>False</eng>. Chặt cây phá rừng rất có hại cho môi trường, không phải tốt.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 2: <eng>True</eng>. Chúng ta phải bảo vệ các loài nguy cấp để chúng không bị tuyệt chủng.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 3: <eng>True</eng>. Nhặt rác giúp môi trường sạch đẹp hơn.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 4: <eng>False</eng>. Đốt lửa trại trong rừng rất nguy hiểm, có thể gây cháy rừng.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 5: <eng>False</eng>. Hệ sinh thái bao gồm cả động vật, thực vật và môi trường xung quanh.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 6: <eng>True</eng>. Tiết kiệm nước là một trong những cách bảo vệ tài nguyên thiên nhiên.
+</teacher_script>
+
+<teacher_script pause="30">
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
+</teacher_script>
+
+---
+
 <!-- chunk: end -->
 <teacher_script pause="0" href="audio/tts_ba688992.mp3">
 Bài học hôm nay kết thúc tại đây. Các em nhớ ôn bài và chuẩn bị cho bài học tiếp theo. Tạm biệt các em.

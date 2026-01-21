@@ -162,6 +162,239 @@ Các em hãy ghi âm phần luyện tập của mình và gửi cho thầy nhé.
 
 ---
 
+<!-- chunk: additional_practice -->
+### Bài tập thực hành bổ sung
+
+<teacher_script pause="0">
+Các em làm thêm bài tập thực hành để củng cố ngữ pháp nha. Bài tập này rất quan trọng đó!
+</teacher_script>
+
+---
+
+<!-- chunk: practice_1 -->
+### Bài tập 1 - Adverbs of frequency
+
+<teacher_script pause="120">
+Chúng ta cùng làm Bài tập 1. Các em hãy viết lại câu với trạng từ chỉ tần suất ở đúng vị trí. Các em có 2 phút.
+</teacher_script>
+
+<questions type="complete_sentences">
+**Sắp xếp lại câu:**
+
+**1.** I / shop / at the mall. (usually)
+→ _______________________________________
+
+**2.** She / is / late for sales. (never)
+→ _______________________________________
+
+**3.** We / bargain / at the market. (often)
+→ _______________________________________
+
+**4.** They / go / to online shops. (always)
+→ _______________________________________
+
+**5.** He / buys / expensive clothes. (rarely)
+→ _______________________________________
+
+**6.** My sister / is / a careful shopper. (sometimes)
+→ _______________________________________
+</questions>
+
+---
+
+<!-- chunk: answer_practice_1 -->
+<teacher_script pause="0">
+Đã hết thời gian. Ok đáp án nè.
+</teacher_script>
+
+<answer>
+**Đáp án:**
+1. I usually shop at the mall.
+2. She is never late for sales.
+3. We often bargain at the market.
+4. They always go to online shops.
+5. He rarely buys expensive clothes.
+6. My sister is sometimes a careful shopper.
+</answer>
+
+<teacher_script pause="0">
+Câu 1, 3, 4, 5: Trạng từ đứng trước động từ thường. <eng>I usually shop, We often bargain, They always go, He rarely buys.</eng>
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 2 và 6: Trạng từ đứng sau động từ <eng>to be</eng>. <eng>She is never late, My sister is sometimes careful.</eng>
+</teacher_script>
+
+<teacher_script pause="0">
+Mẹo nhớ: Trạng từ tần suất đứng TRƯỚC động từ thường, SAU động từ to be.
+</teacher_script>
+
+<teacher_script pause="30">
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
+</teacher_script>
+
+---
+
+<!-- chunk: practice_2 -->
+### Bài tập 2 - Present simple for future
+
+<teacher_script pause="120">
+Chúng ta cùng làm Bài tập 2. Các em hãy chọn thì đúng. Các em có 2 phút.
+</teacher_script>
+
+<questions type="multiple_choice">
+**Chọn thì đúng:**
+
+**1.** The shopping center _______ at 9 a.m. tomorrow.
+A. opens | B. will open | C. is opening
+*Trung tâm mua sắm _______ lúc 9 giờ sáng mai.*
+
+**2.** I _______ you a new dress for your birthday.
+A. buy | B. will buy | C. am buying
+*Tôi _______ cho bạn một chiếc váy mới cho sinh nhật.*
+
+**3.** The sale _______ next Monday.
+A. starts | B. will start | C. is starting
+*Đợt giảm giá _______ thứ Hai tuần sau.*
+
+**4.** Don't worry, I _______ help you choose a gift.
+A. help | B. will help | C. am helping
+*Đừng lo, tôi _______ giúp bạn chọn quà.*
+
+**5.** The bus to the mall _______ at 3:15 p.m.
+A. leaves | B. will leave | C. is leaving
+*Xe buýt đến trung tâm mua sắm _______ lúc 3:15 chiều.*
+
+**6.** We _______ shopping this weekend.
+A. go | B. will go | C. are going
+*Chúng tôi _______ mua sắm cuối tuần này.*
+</questions>
+
+---
+
+<!-- chunk: answer_practice_2 -->
+<teacher_script pause="0">
+Đã hết thời gian. Ok đáp án nè.
+</teacher_script>
+
+<answer>
+**Đáp án:** 1.A | 2.B | 3.A | 4.B | 5.A | 6.B
+</answer>
+
+<teacher_script pause="0">
+Câu 1: <eng>opens</eng> - lịch mở cửa cố định dùng hiện tại đơn.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 2: <eng>will buy</eng> - quyết định mua quà cho bạn, dùng tương lai đơn.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 3: <eng>starts</eng> - lịch sale cố định dùng hiện tại đơn.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 4: <eng>will help</eng> - quyết định tức thời giúp đỡ, dùng tương lai đơn.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 5: <eng>leaves</eng> - lịch trình xe buýt cố định dùng hiện tại đơn.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 6: <eng>will go</eng> - dự định mua sắm, dùng tương lai đơn.
+</teacher_script>
+
+<teacher_script pause="0">
+Mẹo nhớ: Lịch trình cố định (giờ mở cửa, giờ xe, lịch sale) dùng hiện tại đơn. Quyết định cá nhân dùng tương lai đơn với <eng>will</eng>.
+</teacher_script>
+
+<teacher_script pause="30">
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
+</teacher_script>
+
+---
+
+<!-- chunk: practice_3 -->
+### Bài tập 3 - Mixed practice
+
+<teacher_script pause="120">
+Bài tập cuối cùng. Các em hãy hoàn thành các câu về mua sắm. Các em có 2 phút.
+</teacher_script>
+
+<questions type="fill_blanks">
+**Hoàn thành câu:**
+
+**1.** My mother _______ (always / shop) at the supermarket on Sundays.
+*Mẹ tôi _______ mua sắm ở siêu thị vào Chủ Nhật.*
+
+**2.** The store _______ (close) at 10 p.m. tonight.
+*Cửa hàng _______ lúc 10 giờ tối nay.*
+
+**3.** I _______ (rarely / buy) things I don't need.
+*Tôi _______ mua những thứ tôi không cần.*
+
+**4.** We _______ (will / visit) the new shopping mall tomorrow.
+*Chúng tôi _______ thăm trung tâm mua sắm mới ngày mai.*
+
+**5.** The flash sale _______ (start) at midnight.
+*Đợt sale chớp nhoáng _______ lúc nửa đêm.*
+
+**6.** She _______ (never / bargain) because she is shy.
+*Cô ấy _______ mặc cả vì cô ấy ngại.*
+</questions>
+
+---
+
+<!-- chunk: answer_practice_3 -->
+<teacher_script pause="0">
+Đã hết thời gian. Ok đáp án nè.
+</teacher_script>
+
+<answer>
+**Đáp án:**
+1. always shops
+2. closes
+3. rarely buy
+4. will visit
+5. starts
+6. never bargains
+</answer>
+
+<teacher_script pause="0">
+Câu 1: <eng>always shops</eng> - trạng từ tần suất đứng trước động từ thường.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 2: <eng>closes</eng> - lịch đóng cửa cố định dùng hiện tại đơn.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 3: <eng>rarely buy</eng> - hiếm khi mua, trạng từ đứng trước động từ.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 4: <eng>will visit</eng> - kế hoạch cá nhân đi thăm, dùng tương lai đơn.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 5: <eng>starts</eng> - lịch sale cố định dùng hiện tại đơn.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 6: <eng>never bargains</eng> - không bao giờ mặc cả, trạng từ đứng trước động từ.
+</teacher_script>
+
+<teacher_script pause="0">
+Tóm lại: Trạng từ tần suất: <eng>always, usually, often, sometimes, rarely, never</eng>. Hiện tại đơn cho lịch trình cố định. Tương lai đơn cho kế hoạch cá nhân.
+</teacher_script>
+
+<teacher_script pause="30">
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
+</teacher_script>
+
+---
+
 <!-- chunk: end -->
 <teacher_script pause="0" href="audio/tts_ba688992.mp3">
 Bài học hôm nay kết thúc tại đây. Các em nhớ ôn bài và chuẩn bị cho bài học tiếp theo. Tạm biệt các em.

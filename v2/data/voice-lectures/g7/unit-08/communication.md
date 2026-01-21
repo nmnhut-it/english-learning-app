@@ -102,12 +102,32 @@ Chúng ta cùng làm Bài 3 <eng>Listen and fill in the blanks</eng>. Các em h�
 
 <!-- chunk: answer_3 -->
 <teacher_script pause="0">
-Đã hết thời gian. Sau đây là đáp án đúng.
+Đã hết thời gian. Ok đáp án nè.
 </teacher_script>
 
 <answer>
 **Đáp án:** 1. best | 2. comedies | 3. favourite | 4. stars | 5. funny
 </answer>
+
+<teacher_script pause="0">
+Câu 1 điền best. "What kind of films do you like best?" - Bạn thích loại phim nào nhất? Like best nghĩa là thích nhất. Best là dạng so sánh nhất của good - tốt nha.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 2 điền comedies. "I love comedies" - Tôi thích phim hài. Comedies là danh từ số nhiều của comedy - phim hài. Lan nói yêu thích loại phim này nha.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 3 điền favourite. "What's the name of your favourite comedy?" - Tên phim hài yêu thích của bạn là gì? Favourite nghĩa là yêu thích nhất. Đây là tính từ đứng trước danh từ comedy luôn.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 4 điền stars. "Who stars in it?" - Ai đóng vai chính? Star ở đây là động từ, nghĩa là đóng vai chính trong phim. Who stars - ai đóng vai chính, câu hỏi về diễn viên chính á.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 5 điền funny. "What do you think of it? - It's very funny" - Bạn nghĩ gì về phim? - Nó rất hài hước. Funny nghĩa là hài hước, buồn cười. Đây là tính từ miêu tả phim comedy nha.
+</teacher_script>
 
 <explanation>
 **Giải thích:**
@@ -118,7 +138,7 @@ Chúng ta cùng làm Bài 3 <eng>Listen and fill in the blanks</eng>. Các em h�
 5. It's very **funny**. (Nó rất hài hước)
 </explanation>
 
-<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
+<teacher_script pause="30">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 

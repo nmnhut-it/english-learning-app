@@ -127,12 +127,28 @@ C. Most people like it.
 
 <!-- chunk: answer_2 -->
 <teacher_script pause="0">
-Đã hết thời gian. Sau đây là đáp án đúng.
+Đã hết thời gian. Ok đáp án nè.
 </teacher_script>
 
 <answer>
 **Đáp án:** 1.B | 2.A | 3.A | 4.C
 </answer>
+
+<teacher_script pause="0">
+Câu 1 chọn B. Mark gợi ý làm gì tối nay? Mark nói ngay câu đầu "Let's go to the cinema tonight!" nghĩa là "Tối nay đi xem phim nhé!" nên câu trả lời là B - Watching a film. Đây là lời mời đi xem phim, không phải xem TV hay ở nhà đâu nha.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 2 chọn A. Tại sao Mark không muốn xem phim An Old Pier? Mi đề nghị phim này và nói đó là documentary - phim tài liệu. Mark trả lời "I don't really like documentaries. They're often boring" nghĩa là "Mình không thực sự thích phim tài liệu. Chúng thường nhàm chán." Vậy lý do là A - He doesn't like that type of film, không phải vì thời gian chiếu hay đã xem rồi đâu.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 3 chọn A. Từ "reviews" trong đoạn hội thoại có nghĩa là gì? Mi hỏi "What are the reviews like?" - "Mọi người đánh giá phim thế nào?" và Mark trả lời về những gì người ta nói về phim. Vậy reviews nghĩa là A - people's opinions about a film, tức là ý kiến đánh giá của mọi người về phim á.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 4 chọn C. Mọi người nghĩ gì về phim Our Holiday? Mark nói "although a few people say it's a bit silly, most say it's funny and interesting" nghĩa là "mặc dù một vài người nói nó hơi ngớ ngẩn, nhưng hầu hết nói nó hài hước và thú vị." Từ "most" - hầu hết là chìa khóa, nên đáp án là C - Most people like it nha.
+</teacher_script>
 
 <explanation>
 **Giải thích:**
@@ -142,7 +158,7 @@ C. Most people like it.
 4. **C** (Most people like it) - Mark nói: "most say it's funny and interesting."
 </explanation>
 
-<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
+<teacher_script pause="30">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -181,12 +197,32 @@ Chúng ta cùng làm Bài 3 <eng>Choose the correct word or phrase</eng>. Các e
 
 <!-- chunk: answer_3 -->
 <teacher_script pause="0">
-Đã hết thời gian. Sau đây là đáp án đúng.
+Đã hết thời gian. Ok đáp án nè.
 </teacher_script>
 
 <answer>
 **Đáp án:** 1. comedy | 2. fantasy | 3. documentary | 4. science fiction film | 5. horror film
 </answer>
+
+<teacher_script pause="0">
+Câu 1 là comedy - phim hài. Câu này nói "A film that tries to make the audience laugh" nghĩa là phim cố gắng làm khán giả cười, thì chắc chắn là phim hài rồi. Comedy từ "comic" - hài hước á nha.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 2 là fantasy - phim giả tưởng. "Based only on imagination, not on real facts" - chỉ dựa trên tưởng tượng, không phải sự thật. Fantasy nghĩa là giả tưởng, tưởng tượng, như phim Harry Potter hay The Lord of the Rings đó.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 3 là documentary - phim tài liệu. "Shows real life events or stories" - cho thấy sự kiện hoặc câu chuyện có thật trong đời thực. Documentary là phim tài liệu, như phim về động vật hoang dã hay lịch sử á.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 4 là science fiction film - phim khoa học viễn tưởng. "Set in the future, often about science" - bối cảnh tương lai, thường về khoa học. Science fiction hay viết tắt là sci-fi, như phim Star Wars hay Avengers đó nha.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 5 là horror film - phim kinh dị. "Strange and frightening things happen" - những điều kỳ lạ và đáng sợ xảy ra. Horror nghĩa là kinh dị, đáng sợ. Nhiều em sợ xem loại phim này lắm luôn.
+</teacher_script>
 
 <explanation>
 **Giải thích:**
@@ -197,7 +233,7 @@ Chúng ta cùng làm Bài 3 <eng>Choose the correct word or phrase</eng>. Các e
 5. **horror film**: phim kinh dị (frightening things - những điều đáng sợ)
 </explanation>
 
-<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
+<teacher_script pause="30">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -229,12 +265,32 @@ Chúng ta cùng làm Bài 4 <eng>Complete the sentences</eng>. Các em hãy ch�
 
 <!-- chunk: answer_4 -->
 <teacher_script pause="0">
-Đã hết thời gian. Sau đây là đáp án đúng.
+Đã hết thời gian. Ok đáp án nè.
 </teacher_script>
 
 <answer>
 **Đáp án:** 1. frightening | 2. funny | 3. moving | 4. boring | 5. interesting
 </answer>
+
+<teacher_script pause="0">
+Câu 1 điền frightening - đáng sợ. "Going to the hospital can be frightening for a child" - Đi bệnh viện có thể đáng sợ với trẻ con. Các em nhớ lại lúc còn bé đi bệnh viện sợ chích kim tiêm không? Đó là frightening á.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 2 điền funny - hài hước. "The film was so funny that the audience couldn't stop laughing" - Phim hài hước đến nỗi khán giả không thể nhịn cười. Từ khóa "couldn't stop laughing" - cười không ngừng là dấu hiệu rõ ràng của phim funny luôn.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 3 điền moving - cảm động. "Many people cried when they saw the moving scenes" - Nhiều người khóc khi xem những cảnh cảm động. Từ "cried" - khóc cho thấy cảnh phim cảm động, làm người ta rơi nước mắt nha.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 4 điền boring - nhàm chán. "The film last night was so boring that we fell asleep" - Phim tối qua nhàm chán đến nỗi chúng tôi ngủ gật. Fell asleep - ngủ gật là dấu hiệu rõ nhất của phim boring rồi.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 5 điền interesting - thú vị. "This book is interesting. I got a lot of useful information" - Cuốn sách này thú vị. Tôi nhận được nhiều thông tin hữu ích. Useful information - thông tin hữu ích làm cho sách trở nên interesting đó.
+</teacher_script>
 
 <explanation>
 **Giải thích:**
@@ -245,7 +301,7 @@ Chúng ta cùng làm Bài 4 <eng>Complete the sentences</eng>. Các em hãy ch�
 5. **interesting** (thú vị): có nhiều thông tin hữu ích (useful information).
 </explanation>
 
-<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
+<teacher_script pause="30">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 

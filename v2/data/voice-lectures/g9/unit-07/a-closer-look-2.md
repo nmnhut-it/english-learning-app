@@ -163,6 +163,233 @@ Các em hãy thực hành 2 câu và ghi âm gửi cho thầy nhé.
 
 ---
 
+<!-- chunk: additional_practice -->
+### Bài tập thực hành bổ sung
+
+<teacher_script pause="0">
+Các em làm thêm bài tập thực hành để củng cố ngữ pháp câu tường thuật nha. Bài tập này rất quan trọng đó!
+</teacher_script>
+
+---
+
+<!-- chunk: practice_1 -->
+### Bài tập 1 - Reported Speech Practice
+
+<teacher_script pause="150">
+Chúng ta cùng làm Bài tập 1. Các em hãy chuyển các câu hỏi trực tiếp về kỳ quan thiên nhiên sang câu tường thuật. Các em có 2 phút 30 giây.
+</teacher_script>
+
+<questions type="complete_sentences">
+**Chuyển sang câu tường thuật:**
+
+**1.** "Have you ever visited Ha Long Bay?" my friend asked me.
+→ My friend asked me _______________________________________
+
+**2.** "Can tourists explore Son Doong Cave all year round?" she wanted to know.
+→ She wanted to know _______________________________________
+
+**3.** "Did you take photos of the waterfalls?" Tom asked Ba.
+→ Tom asked Ba _______________________________________
+
+**4.** "Are the caves in Phong Nha dangerous to enter?" they asked the guide.
+→ They asked the guide _______________________________________
+
+**5.** "Will you go hiking in Sapa next month?" my mom asked.
+→ My mom asked _______________________________________
+</questions>
+
+---
+
+<!-- chunk: answer_practice_1 -->
+<teacher_script pause="0">
+Đã hết thời gian. Ok đáp án nè.
+</teacher_script>
+
+<answer>
+**Đáp án:**
+
+**1.** My friend asked me **if I had ever visited** Ha Long Bay.
+
+**2.** She wanted to know **whether tourists could explore** Son Doong Cave all year round.
+
+**3.** Tom asked Ba **if he had taken** photos of the waterfalls.
+
+**4.** They asked the guide **whether the caves in Phong Nha were** dangerous to enter.
+
+**5.** My mom asked **if I would go** hiking in Sapa the following month.
+</answer>
+
+<teacher_script pause="0">
+Câu 1: <eng>Have you ever visited</eng> chuyển thành <eng>if I had ever visited</eng>. Hiện tại hoàn thành lùi thành quá khứ hoàn thành.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 2: <eng>Can tourists explore</eng> chuyển thành <eng>whether tourists could explore</eng>. <eng>Can</eng> lùi thành <eng>could</eng>.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 3: <eng>Did you take</eng> chuyển thành <eng>if he had taken</eng>. Quá khứ đơn lùi thành quá khứ hoàn thành.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 4: <eng>Are the caves</eng> chuyển thành <eng>whether the caves were</eng>. Hiện tại đơn lùi thành quá khứ đơn.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 5: <eng>Will you go</eng> chuyển thành <eng>if I would go</eng>. <eng>Will</eng> lùi thành <eng>would</eng>, <eng>next month</eng> đổi thành <eng>the following month</eng>.
+</teacher_script>
+
+<teacher_script pause="30">
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
+</teacher_script>
+
+---
+
+<!-- chunk: practice_2 -->
+### Bài tập 2 - Choose if or whether
+
+<teacher_script pause="90">
+Chúng ta cùng làm Bài tập 2. Các em hãy chọn <eng>if</eng> hoặc <eng>whether</eng> và chia động từ đúng. Các em có 1 phút 30 giây.
+</teacher_script>
+
+<questions type="fill_blanks">
+**Hoàn thành câu:**
+
+**1.** She asked _______ Mount Everest (be) _______ the highest mountain in Asia.
+
+**2.** The teacher wanted to know _______ we (understand) _______ the geography lesson.
+
+**3.** Nam asked _______ I (can) _______ swim across the lake.
+
+**4.** They wondered _______ the waterfall (be) _______ safe for swimming.
+
+**5.** My dad asked me _______ I (want) _______ to visit the Grand Canyon.
+
+**6.** The guide asked _______ anyone (have) _______ questions about the cave.
+</questions>
+
+---
+
+<!-- chunk: answer_practice_2 -->
+<teacher_script pause="0">
+Đã hết thời gian. Ok đáp án nè.
+</teacher_script>
+
+<answer>
+**Đáp án:**
+
+1. if/whether | was (hoặc is)
+2. if/whether | understood
+3. if/whether | could
+4. if/whether | was
+5. if/whether | wanted
+6. if/whether | had
+</answer>
+
+<teacher_script pause="0">
+Cả <eng>if</eng> và <eng>whether</eng> đều đúng trong tất cả các câu. Hai từ này có thể thay thế cho nhau trong câu tường thuật Yes/No question.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 1: <eng>is</eng> lùi thành <eng>was</eng>. Núi Everest cao nhất châu Á.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 2, 4, 5, 6: Đều lùi thì từ hiện tại sang quá khứ. <eng>understand</eng> thành <eng>understood</eng>, <eng>is</eng> thành <eng>was</eng>, <eng>want</eng> thành <eng>wanted</eng>, <eng>have</eng> thành <eng>had</eng>.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 3: <eng>can</eng> lùi thành <eng>could</eng>. Bơi qua hồ có được không.
+</teacher_script>
+
+<teacher_script pause="30">
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
+</teacher_script>
+
+---
+
+<!-- chunk: practice_3 -->
+### Bài tập 3 - Mixed Practice
+
+<teacher_script pause="120">
+Bài tập cuối cùng khó hơn một chút. Các em hãy viết câu hoàn chỉnh. Các em có 2 phút.
+</teacher_script>
+
+<questions type="complete_sentences">
+**Viết câu tường thuật hoàn chỉnh:**
+
+**1.** "Do you know the way to Marble Mountains?" (she / ask / me)
+→ _______________________________________
+
+**2.** "Is Niagara Falls in Canada or the USA?" (tourists / wonder)
+→ _______________________________________
+
+**3.** "Have you booked the tour to Phong Nha Cave?" (my father / ask / me)
+→ _______________________________________
+
+**4.** "Can we climb to the top of Fansipan?" (they / ask / the guide)
+→ _______________________________________
+
+**5.** "Are there any dangerous animals in the jungle?" (I / want to know)
+→ _______________________________________
+
+**6.** "Did ancient people live in these caves?" (the student / ask / the teacher)
+→ _______________________________________
+</questions>
+
+---
+
+<!-- chunk: answer_practice_3 -->
+<teacher_script pause="0">
+Đã hết thời gian. Ok đáp án nè.
+</teacher_script>
+
+<answer>
+**Đáp án:**
+
+1. She asked me if I knew the way to Marble Mountains.
+
+2. Tourists wondered whether Niagara Falls was in Canada or the USA.
+
+3. My father asked me if I had booked the tour to Phong Nha Cave.
+
+4. They asked the guide whether they could climb to the top of Fansipan.
+
+5. I wanted to know if there were any dangerous animals in the jungle.
+
+6. The student asked the teacher whether ancient people had lived in those caves.
+</answer>
+
+<teacher_script pause="0">
+Câu 1: <eng>Do you know</eng> chuyển thành <eng>if I knew</eng>. Nhớ đổi <eng>you</eng> thành <eng>I</eng> nha.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 2: <eng>Is Niagara Falls</eng> chuyển thành <eng>whether Niagara Falls was</eng>. Dùng <eng>whether</eng> khi có lựa chọn <eng>or</eng>.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 3: <eng>Have you booked</eng> chuyển thành <eng>if I had booked</eng>. Hiện tại hoàn thành lùi thành quá khứ hoàn thành.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 4: <eng>Can we climb</eng> chuyển thành <eng>whether they could climb</eng>. <eng>Can</eng> lùi thành <eng>could</eng>, <eng>we</eng> đổi thành <eng>they</eng>.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 5: <eng>Are there</eng> chuyển thành <eng>if there were</eng>. Trong rừng có động vật nguy hiểm không.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 6: <eng>Did ancient people live</eng> chuyển thành <eng>whether ancient people had lived</eng>. Nhớ đổi <eng>these</eng> thành <eng>those</eng> nha!
+</teacher_script>
+
+<teacher_script pause="30">
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
+</teacher_script>
+
+---
+
 <!-- chunk: end -->
 <teacher_script pause="0">
 Bài học hôm nay kết thúc tại đây. Các em hãy ghi nhớ công thức câu tường thuật Yes/No question nhé. Hẹn gặp lại các em!

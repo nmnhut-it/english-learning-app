@@ -64,12 +64,32 @@ Chúng ta cùng làm Bài 1 <eng>Match</eng>. Các em hãy nối các động t�
 
 <!-- chunk: answer_1 -->
 <teacher_script pause="0" href="audio/tts_778f802f.webm">
-Đã hết thời gian. Sau đây là đáp án đúng.
+Đã hết thời gian. Ok đáp án nè.
 </teacher_script>
 
 <answer>
 **Đáp án:** 1-c | 2-a | 3-b | 4-d | 5-e
 </answer>
+
+<teacher_script pause="0" href="audio/tts_778f802f.webm">
+Câu 1 nối c - <eng>ride a bike</eng> nghĩa là đi xe đạp. Nhớ nha, <eng>ride</eng> là cưỡi, ngồi lên. Mình ngồi lên xe đạp nên dùng <eng>ride</eng>.
+</teacher_script>
+
+<teacher_script pause="0" href="audio/tts_778f802f.webm">
+Câu 2 nối a - <eng>drive a car</eng> nghĩa là lái xe ô tô. <eng>Drive</eng> dùng cho xe có vô lăng, có động cơ.
+</teacher_script>
+
+<teacher_script pause="0" href="audio/tts_778f802f.webm">
+Câu 3 nối b - <eng>sail a boat</eng> nghĩa là lái thuyền, chèo thuyền. <eng>Sail</eng> là động từ dùng cho thuyền.
+</teacher_script>
+
+<teacher_script pause="0" href="audio/tts_778f802f.webm">
+Câu 4 nối d - <eng>go on foot</eng> nghĩa là đi bộ. <eng>On foot</eng> tức là bằng chân.
+</teacher_script>
+
+<teacher_script pause="0" href="audio/tts_778f802f.webm">
+Câu 5 nối e - <eng>travel by air</eng> nghĩa là đi máy bay. <eng>By air</eng> là đường hàng không.
+</teacher_script>
 
 <explanation>
 **Giải thích:**
@@ -87,6 +107,10 @@ Chúng ta cùng làm Bài 1 <eng>Match</eng>. Các em hãy nối các động t�
 - I usually <eng>drive a car</eng> to work. (Tôi thường lái xe đi làm.)
 - We can <eng>sail a boat</eng> in Ha Long Bay. (Chúng tôi có thể lái thuyền ở Vịnh Hạ Long.)
 </explanation>
+
+<teacher_script pause="30" href="audio/tts_75ebc937.webm">
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
+</teacher_script>
 
 ---
 
@@ -112,7 +136,7 @@ Chúng ta cùng làm Bài 2 <eng>Road signs</eng>. Các em hãy quan sát các b
 
 <!-- chunk: answer_2 -->
 <teacher_script pause="0" href="audio/tts_778f802f.webm">
-Đã hết thời gian. Sau đây là đáp án đúng.
+Đã hết thời gian. Ok đáp án các biển báo nè.
 </teacher_script>
 
 <answer>
@@ -124,6 +148,34 @@ Chúng ta cùng làm Bài 2 <eng>Road signs</eng>. Các em hãy quan sát các b
 5. school ahead (phía trước có trường học)
 6. hospital ahead (phía trước có bệnh viện)
 </answer>
+
+<teacher_script pause="0" href="audio/tts_778f802f.webm">
+Biển 1: <eng>no right turn</eng> - cấm rẽ phải. <eng>No</eng> là cấm, <eng>turn right</eng> là rẽ phải.
+</teacher_script>
+
+<teacher_script pause="0" href="audio/tts_778f802f.webm">
+Biển 2: <eng>traffic lights</eng> - đèn giao thông. Đèn đỏ vàng xanh các em đều biết rồi nha.
+</teacher_script>
+
+<teacher_script pause="0" href="audio/tts_778f802f.webm">
+Biển 3: <eng>cycle lane</eng> - làn đường dành cho xe đạp. <eng>Lane</eng> là làn đường.
+</teacher_script>
+
+<teacher_script pause="0" href="audio/tts_778f802f.webm">
+Biển 4: <eng>no cycling</eng> - cấm xe đạp. Xe đạp không được đi vào khu vực này.
+</teacher_script>
+
+<teacher_script pause="0" href="audio/tts_778f802f.webm">
+Biển 5: <eng>school ahead</eng> - phía trước có trường học. <eng>Ahead</eng> nghĩa là phía trước. Cần giảm tốc độ nha.
+</teacher_script>
+
+<teacher_script pause="0" href="audio/tts_778f802f.webm">
+Biển 6: <eng>hospital ahead</eng> - phía trước có bệnh viện. Cũng cần giảm tốc độ và giữ yên lặng.
+</teacher_script>
+
+<teacher_script pause="30" href="audio/tts_75ebc937.webm">
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
+</teacher_script>
 
 ---
 
@@ -279,7 +331,7 @@ Chúng ta cùng làm Bài 5 <eng>Underline and circle</eng>. Các em hãy gạch
 
 <!-- chunk: answer_5 -->
 <teacher_script pause="0" href="audio/tts_778f802f.webm">
-Đã hết thời gian. Sau đây là đáp án đúng.
+Đã hết thời gian. Ok đáp án nè. Các em nghe kỹ phát âm nha.
 </teacher_script>
 
 <answer>
@@ -293,6 +345,30 @@ Chúng ta cùng làm Bài 5 <eng>Underline and circle</eng>. Các em hãy gạch
 | drive | train |
 | | pavement |
 </answer>
+
+<teacher_script pause="0" href="audio/tts_778f802f.webm">
+Câu 1: <eng>station</eng> có âm /eɪ/ - đọc như "stây-shen". Khoanh tròn <eng>station</eng>.
+</teacher_script>
+
+<teacher_script pause="0" href="audio/tts_778f802f.webm">
+Câu 2: <eng>ride</eng> và <eng>bike</eng> đều có âm /aɪ/ - đọc như "rai" và "baik". Gạch chân cả hai từ nha.
+</teacher_script>
+
+<teacher_script pause="0" href="audio/tts_778f802f.webm">
+Câu 3: <eng>obey</eng> và <eng>safety</eng> có âm /eɪ/. <eng>Obey</eng> đọc "ô-bây", <eng>safety</eng> đọc "sây-fti". Khoanh tròn cả hai.
+</teacher_script>
+
+<teacher_script pause="0" href="audio/tts_778f802f.webm">
+Câu 4: <eng>time</eng> có âm /aɪ/ đọc "taim" - gạch chân. <eng>Train</eng> có âm /eɪ/ đọc "trây-n" - khoanh tròn.
+</teacher_script>
+
+<teacher_script pause="0" href="audio/tts_778f802f.webm">
+Câu 5: <eng>drive</eng> có âm /aɪ/ đọc "draiv" - gạch chân. <eng>Pavement</eng> có âm /eɪ/ đọc "pây-vment" - khoanh tròn.
+</teacher_script>
+
+<teacher_script pause="30" href="audio/tts_75ebc937.webm">
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
+</teacher_script>
 
 <explanation>
 **Giải thích:**
@@ -316,6 +392,165 @@ Chúng ta cùng làm Bài 5 <eng>Underline and circle</eng>. Các em hãy gạch
 - <eng>drive</eng> /draɪv/ → âm /aɪ/
 - <eng>pavement</eng> /ˈpeɪvmənt/ → âm /eɪ/
 </explanation>
+
+---
+
+<!-- chunk: additional_practice -->
+### Bài tập thực hành bổ sung
+
+<teacher_script pause="0">
+Các em làm thêm bài tập thực hành để củng cố kiến thức nha. Bài tập này giúp các em nhớ từ vựng và phát âm tốt hơn.
+</teacher_script>
+
+---
+
+<!-- chunk: practice_1 -->
+### Bài tập 1 - Choose the correct word
+
+<teacher_script pause="90">
+Chúng ta cùng làm Bài tập 1. Các em hãy chọn từ đúng để hoàn thành câu. Các em có 1 phút 30 giây.
+</teacher_script>
+
+<questions type="multiple_choice">
+**1.** You should _______ a helmet when riding a motorbike.
+- A. wear
+- B. put
+- C. take
+
+*Bạn nên _______ mũ bảo hiểm khi đi xe máy.*
+
+**2.** My dad usually _______ his car to work.
+- A. rides
+- B. drives
+- C. sails
+
+*Bố tôi thường _______ xe ô tô đi làm.*
+
+**3.** The _______ are red, so we must stop.
+- A. traffic lights
+- B. traffic signs
+- C. traffic jams
+
+*_______ màu đỏ, vì vậy chúng ta phải dừng lại.*
+
+**4.** This road is too _______ during rush hour.
+- A. empty
+- B. quiet
+- C. crowded
+
+*Con đường này quá _______ vào giờ cao điểm.*
+
+**5.** There's a _______ ahead, so drive carefully.
+- A. school
+- B. hospital
+- C. market
+
+*Phía trước có _______, vì vậy hãy lái xe cẩn thận.*
+
+**6.** We should always _______ traffic rules.
+- A. break
+- B. obey
+- C. forget
+
+*Chúng ta nên luôn _______ luật giao thông.*
+</questions>
+
+---
+
+<!-- chunk: answer_practice_1 -->
+<teacher_script pause="0">
+Đã hết thời gian. Ok đáp án nè.
+</teacher_script>
+
+<answer>
+**Đáp án:** 1.A | 2.B | 3.A | 4.C | 5.A | 6.B
+</answer>
+
+<teacher_script pause="0">
+Câu 1 chọn A - <eng>wear</eng>. <eng>Wear a helmet</eng> nghĩa là đội mũ bảo hiểm. Nhớ nha: <eng>wear</eng> dùng cho quần áo, phụ kiện đeo trên người.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 2 chọn B - <eng>drives</eng>. <eng>Drive a car</eng> là lái xe ô tô. <eng>Ride</eng> dùng cho xe đạp, xe máy; <eng>drive</eng> dùng cho ô tô.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 3 chọn A - <eng>traffic lights</eng>. Đèn giao thông có 3 màu: đỏ, vàng, xanh. Đèn đỏ thì phải dừng.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 4 chọn C - <eng>crowded</eng>. Giờ cao điểm thì đường đông đúc, nhiều xe. <eng>Crowded</eng> nghĩa là đông đúc.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 5 chọn A - <eng>school</eng>. Biển báo <eng>school ahead</eng> báo có trường học phía trước, cần giảm tốc độ.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 6 chọn B - <eng>obey</eng>. <eng>Obey traffic rules</eng> nghĩa là tuân theo luật giao thông. Đây là điều quan trọng để an toàn nha.
+</teacher_script>
+
+<teacher_script pause="30">
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
+</teacher_script>
+
+---
+
+<!-- chunk: practice_2 -->
+### Bài tập 2 - Pronunciation practice
+
+<teacher_script pause="90">
+Chúng ta cùng làm Bài tập 2 về phát âm. Các em hãy phân loại các từ sau theo âm /aɪ/ hoặc /eɪ/. Các em có 1 phút 30 giây.
+</teacher_script>
+
+<questions type="categorize">
+**Phân loại các từ sau:**
+
+light, main, fly, stay, night, pay, sky, day, try, way, high, play
+
+**Âm /aɪ/ (như "ai"):** _______________________
+
+**Âm /eɪ/ (như "ây"):** _______________________
+</questions>
+
+---
+
+<!-- chunk: answer_practice_2 -->
+<teacher_script pause="0">
+Đã hết thời gian. Ok đáp án nè.
+</teacher_script>
+
+<answer>
+**Âm /aɪ/:** light, fly, night, sky, try, high
+
+**Âm /eɪ/:** main, stay, pay, day, way, play
+</answer>
+
+<teacher_script pause="0">
+Các từ có âm /aɪ/: <eng>light</eng> (đèn), <eng>fly</eng> (bay), <eng>night</eng> (đêm), <eng>sky</eng> (bầu trời), <eng>try</eng> (thử), <eng>high</eng> (cao). Các từ này thường có chữ "i" hoặc "igh" hoặc "y" nha.
+</teacher_script>
+
+<teacher_script pause="0">
+Các từ có âm /eɪ/: <eng>main</eng> (chính), <eng>stay</eng> (ở lại), <eng>pay</eng> (trả tiền), <eng>day</eng> (ngày), <eng>way</eng> (đường), <eng>play</eng> (chơi). Các từ này thường có "ai" hoặc "ay" đó.
+</teacher_script>
+
+<explanation>
+**Mẹo nhớ phát âm:**
+
+**Âm /aɪ/ (như "ai" trong "hai"):**
+- Chữ **i** + phụ âm + e: like, time, ride
+- Chữ **igh**: light, night, high, right
+- Chữ **y** ở cuối: fly, try, sky, cry
+
+**Âm /eɪ/ (như "ây" trong "tây"):**
+- Chữ **ay**: day, stay, play, way
+- Chữ **ai**: train, main, pain
+- Chữ **a_e**: make, take, safe, gate
+</explanation>
+
+<teacher_script pause="30">
+Các em hãy ghi nhớ các quy tắc phát âm này nha. Rất hữu ích đó!
+</teacher_script>
 
 ---
 

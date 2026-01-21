@@ -74,7 +74,7 @@ Chúng ta cùng làm Bài 1 <eng>Label the signs</eng>. Các em hãy nhìn các 
 
 <!-- chunk: answer_1 -->
 <teacher_script pause="0" href="audio/tts_778f802f.webm">
-Đã hết thời gian. Sau đây là đáp án đúng.
+Đã hết thời gian. Ok đáp án nè.
 </teacher_script>
 
 <answer>
@@ -88,15 +88,31 @@ Chúng ta cùng làm Bài 1 <eng>Label the signs</eng>. Các em hãy nhìn các 
 </answer>
 
 <teacher_script pause="0" href="audio/tts_4655d773.webm">
-Câu 1: <eng>red light</eng> - biển báo đèn đỏ.
-Câu 2: <eng>school ahead</eng> - biển báo trường học phía trước.
-Câu 3: <eng>hospital ahead</eng> - biển báo bệnh viện phía trước.
+Câu 1 là "red light" - biển báo đèn đỏ nha. Khi thấy biển này hoặc gặp đèn đỏ, phải dừng lại ngay.
+</teacher_script>
+
+<teacher_script pause="0" href="audio/tts_b9e7c4a2.webm">
+Câu 2 là "school ahead" - biển báo trường học phía trước. Biển này cảnh báo có trường học ở phía trước, cần giảm tốc độ vì có học sinh qua lại hen.
+</teacher_script>
+
+<teacher_script pause="0" href="audio/tts_d8a3f5c1.webm">
+Câu 3 là "hospital ahead" - biển báo bệnh viện phía trước. Tương tự, có bệnh viện phía trước nên cần đi chậm, không được ồn ào á.
 </teacher_script>
 
 <teacher_script pause="0" href="audio/tts_ee392293.webm">
-Câu 4: <eng>cycle lane</eng> - biển báo làn đường xe đạp.
-Câu 5: <eng>no left turn</eng> - biển báo cấm rẽ trái.
-Câu 6: <eng>no cycling</eng> - biển báo cấm đạp xe.
+Câu 4 là "cycle lane" - biển báo làn đường dành cho xe đạp. Làn này chỉ dành cho người đi xe đạp thôi nha.
+</teacher_script>
+
+<teacher_script pause="0" href="audio/tts_f2c8d9b3.webm">
+Câu 5 là "no left turn" - biển báo cấm rẽ trái. Gặp biển này không được rẽ trái, phải đi thẳng hoặc rẽ phải.
+</teacher_script>
+
+<teacher_script pause="0" href="audio/tts_a7e4f1d5.webm">
+Câu 6 là "no cycling" - biển báo cấm đạp xe. Khu vực này cấm người đi xe đạp vào, phải đi bộ hoặc dùng phương tiện khác.
+</teacher_script>
+
+<teacher_script pause="30" href="audio/tts_75ebc937.webm">
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 ---
@@ -191,7 +207,7 @@ Chúng ta cùng làm Bài 2 <eng>Fill in the gaps</eng>. Các em hãy điền m�
 
 <!-- chunk: answer_2 -->
 <teacher_script pause="0" href="audio/tts_778f802f.webm">
-Đã hết thời gian. Sau đây là đáp án đúng.
+Đã hết thời gian. Ok đáp án nè.
 </teacher_script>
 
 <answer>
@@ -204,23 +220,23 @@ Chúng ta cùng làm Bài 2 <eng>Fill in the gaps</eng>. Các em hãy điền m�
 </answer>
 
 <teacher_script pause="0" href="audio/tts_1f3502aa.webm">
-Câu 1: <eng>user</eng>. <eng>Road user</eng> nghĩa là người tham gia giao thông.
+Câu 1 điền "user" nha. Road user nghĩa là người tham gia giao thông, bao gồm người đi bộ, đi xe đạp, đi xe máy, tất cả những ai sử dụng đường á.
 </teacher_script>
 
 <teacher_script pause="0" href="audio/tts_6bafbea9.webm">
-Câu 2: <eng>ride</eng>. <eng>Ride a motorbike</eng> nghĩa là đi xe máy.
+Câu 2 điền "ride". Câu hỏi "Does your dad ride his motorbike carefully?" - Ba bạn có đi xe máy cẩn thận không? Ride a motorbike nghĩa là đi xe máy hen.
 </teacher_script>
 
 <teacher_script pause="0" href="audio/tts_481770de.webm">
-Câu 3: <eng>passenger</eng>. <eng>Passenger</eng> nghĩa là hành khách.
+Câu 3 điền "passenger" - hành khách nha. Passenger là người đi trên xe ô tô, xe buýt, tàu hỏa nhưng không phải là tài xế, không lái xe. Họ chỉ ngồi làm khách thôi.
 </teacher_script>
 
 <teacher_script pause="0" href="audio/tts_02e5f89a.webm">
-Câu 4: <eng>fly</eng>. Phi công thì phải học <eng>fly planes</eng> (lái máy bay).
+Câu 4 điền "fly". Anh họ muốn làm phi công thì phải học lái máy bay - fly planes á. Fly là động từ bay, lái máy bay.
 </teacher_script>
 
 <teacher_script pause="0" href="audio/tts_6dc4406c.webm">
-Câu 5: <eng>traffic</eng>. <eng>Traffic light</eng> nghĩa là đèn giao thông.
+Câu 5 điền "traffic". Traffic light là đèn giao thông, đèn tín hiệu đường bộ. Khi đèn chuyển sang màu vàng, chúng ta phải cẩn thận, chuẩn bị dừng lại.
 </teacher_script>
 
 <explanation>
@@ -288,7 +304,7 @@ Chúng ta cùng làm Bài 3 <eng>Write sentences with It</eng>. Các em hãy vi�
 
 <!-- chunk: answer_3 -->
 <teacher_script pause="0" href="audio/tts_778f802f.webm">
-Đã hết thời gian. Sau đây là đáp án đúng.
+Đã hết thời gian. Ok đáp án nè.
 </teacher_script>
 
 <answer>
@@ -301,23 +317,23 @@ Chúng ta cùng làm Bài 3 <eng>Write sentences with It</eng>. Các em hãy vi�
 </answer>
 
 <teacher_script pause="0" href="audio/tts_3ae6fcb1.webm">
-Câu 1: <eng>It is over 100 km from my home town to Ho Chi Minh City.</eng>
+Câu 1 nha: "It is over 100 km from my home town to Ho Chi Minh City." Cấu trúc là "It is" + khoảng cách + "from" + điểm A + "to" + điểm B. Over 100 km nghĩa là hơn 100 km á.
 </teacher_script>
 
 <teacher_script pause="0" href="audio/tts_35761686.webm">
-Câu 2: <eng>It is about 25 km from here to my grandparents' house.</eng>
+Câu 2: "It is about 25 km from here to my grandparents' house." Dùng "from here to" - từ đây đến nhà ông bà. About 25 km nghĩa là khoảng 25 km hen.
 </teacher_script>
 
 <teacher_script pause="0" href="audio/tts_5b660805.webm">
-Câu 3: <eng>It is not very far from our school to the city museum.</eng>
+Câu 3: "It is not very far from our school to the city museum." Not very far nghĩa là không xa lắm, gần thôi. Vẫn dùng cấu trúc "from...to..." nha.
 </teacher_script>
 
 <teacher_script pause="0" href="audio/tts_ef941d65.webm">
-Câu 4: <eng>How far is it from your house to the gym?</eng>
+Câu 4 là câu hỏi: "How far is it from your house to the gym?" Có dấu hỏi chấm ở cuối nha. How far dùng để hỏi khoảng cách bao xa á.
 </teacher_script>
 
 <teacher_script pause="0" href="audio/tts_cb60b149.webm">
-Câu 5: <eng>Is it a long distance from Ha Noi to Ban Gioc Waterfall?</eng>
+Câu 5 cũng là câu hỏi Yes/No: "Is it a long distance from Ha Noi to Ban Gioc Waterfall?" Đảo "Is it" lên đầu câu để tạo câu hỏi. A long distance nghĩa là khoảng cách xa.
 </teacher_script>
 
 <teacher_script pause="30" href="audio/tts_75ebc937.webm">
@@ -394,7 +410,7 @@ Chúng ta cùng làm Bài 4 <eng>Choose the correct modal verb</eng>. Các em h�
 
 <!-- chunk: answer_4 -->
 <teacher_script pause="0" href="audio/tts_778f802f.webm">
-Đã hết thời gian. Sau đây là đáp án đúng.
+Đã hết thời gian. Ok đáp án nè.
 </teacher_script>
 
 <answer>
@@ -408,27 +424,27 @@ Chúng ta cùng làm Bài 4 <eng>Choose the correct modal verb</eng>. Các em h�
 </answer>
 
 <teacher_script pause="0" href="audio/tts_b6e957be.webm">
-Câu 1: A - <eng>should</eng>. Bỏ rác vào thùng là việc nên làm.
+Câu 1 chọn A - should nha. "You should put the rubbish in the waste bins" - Bạn nên bỏ rác vào thùng rác. Bỏ rác đúng chỗ là việc tốt, nên làm, dùng should để khuyên á.
 </teacher_script>
 
 <teacher_script pause="0" href="audio/tts_56f83590.webm">
-Câu 2: B - <eng>must</eng>. Phải trên 18 tuổi mới được đi xe máy, đây là luật bắt buộc.
+Câu 2 chọn B - must. "You must be over eighteen to ride a motorbike" - Bạn phải trên 18 tuổi mới được đi xe máy. Đây là luật bắt buộc, không phải lời khuyên, nên dùng must hen.
 </teacher_script>
 
 <teacher_script pause="0" href="audio/tts_bab013cb.webm">
-Câu 3: C - <eng>shouldn't</eng>. Trẻ em không nên đạp xe quá nhanh.
+Câu 3 chọn C - shouldn't. "Children shouldn't ride their bikes too fast" - Trẻ em không nên đạp xe quá nhanh. Đạp xe nhanh nguy hiểm, nên khuyên không nên làm, dùng shouldn't.
 </teacher_script>
 
 <teacher_script pause="0" href="audio/tts_30754692.webm">
-Câu 4: A - <eng>Could</eng>. Chúng ta dùng <eng>Could</eng> để hỏi xin giúp đỡ một cách lịch sự.
+Câu 4 chọn A - Could. "Could you help me, please?" - Bạn có thể giúp tôi được không? Chúng ta dùng Could để hỏi xin giúp đỡ một cách lịch sự á, nhẹ nhàng hơn Can.
 </teacher_script>
 
 <teacher_script pause="0" href="audio/tts_ee26084b.webm">
-Câu 5: C - <eng>shouldn't</eng>. Không nên ăn quá nhiều bánh quy.
+Câu 5 chọn C - shouldn't. "You shouldn't eat so many cookies" - Bạn không nên ăn quá nhiều bánh quy. Câu sau giải thích: Quá nhiều đường không tốt cho sức khỏe. Vậy nên khuyên không nên ăn nhiều, dùng shouldn't.
 </teacher_script>
 
 <teacher_script pause="0" href="audio/tts_0ea77210.webm">
-Câu 6: B - <eng>can</eng>. Bạn được phép chạy hoặc đạp xe ở đây.
+Câu 6 chọn B - can. "You can run or cycle here" - Bạn có thể chạy hoặc đạp xe ở đây. Đây là công viên lớn, bạn được phép chạy đạp xe, dùng can để nói về khả năng, sự cho phép nha.
 </teacher_script>
 
 <explanation>

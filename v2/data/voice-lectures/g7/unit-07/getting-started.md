@@ -146,6 +146,22 @@ Chúng ta cùng làm Bài 2 <eng>Choose the correct answer</eng>. Các em hãy �
 **Đáp án:** 1.A | 2.B | 3.C
 </answer>
 
+<teacher_script pause="0" href="audio/tts_d333e5bd.webm">
+Giờ thầy giải thích từng câu nha.
+</teacher_script>
+
+<teacher_script pause="0" href="audio/tts_d333e5bd.webm">
+Câu 1 chọn A - <eng>By bicycle</eng>. Tại sao? Vì Mark hỏi <eng>do you cycle to school too?</eng> và Lan trả lời <eng>Yes</eng>. Vậy Lan đạp xe đến trường. Nhớ nha: <eng>cycle</eng> nghĩa là đạp xe, tức là đi bằng xe đạp - <eng>by bicycle</eng> hay <eng>by bike</eng>.
+</teacher_script>
+
+<teacher_script pause="0" href="audio/tts_d333e5bd.webm">
+Câu 2 chọn B - <eng>ten minutes</eng>. Lan nói <eng>About 10 minutes</eng>. Chú ý đừng nhầm với <eng>two kilometres</eng> nha - đó là khoảng cách, còn câu hỏi là về thời gian.
+</teacher_script>
+
+<teacher_script pause="0" href="audio/tts_d333e5bd.webm">
+Câu 3 chọn C - <eng>at the weekend</eng>. Mark rủ <eng>how about going cycling round the lake this Sunday?</eng> - chủ nhật này. Mà <eng>Sunday</eng> là chủ nhật, thuộc cuối tuần, tức là <eng>weekend</eng>.
+</teacher_script>
+
 <explanation>
 **Giải thích:**
 
@@ -205,12 +221,32 @@ Chúng ta cùng làm Bài 3 <eng>Complete the sentences</eng>. Các em hãy tìm
 
 <!-- chunk: answer_3 -->
 <teacher_script pause="0" href="audio/tts_778f802f.webm">
-Đã hết thời gian. Sau đây là đáp án đúng.
+Đã hết thời gian. Ok đáp án nè.
 </teacher_script>
 
 <answer>
 **Đáp án:** 1. cycled | 2. should | 3. jams | 4. How | 5. crowded
 </answer>
+
+<teacher_script pause="0" href="audio/tts_778f802f.webm">
+Câu 1 điền <eng>cycled</eng>. Lan nói <eng>I cycled round the lake</eng> - mình đạp xe quanh hồ. <eng>Cycled</eng> là quá khứ của <eng>cycle</eng> nha, vì đây là chuyện đã xảy ra (<eng>last Sunday</eng>).
+</teacher_script>
+
+<teacher_script pause="0" href="audio/tts_778f802f.webm">
+Câu 2 điền <eng>should</eng>. Mark nói <eng>You should be careful</eng> - bạn nên cẩn thận. <eng>Should</eng> dùng để khuyên ai đó nên làm gì đó.
+</teacher_script>
+
+<teacher_script pause="0" href="audio/tts_778f802f.webm">
+Câu 3 điền <eng>jams</eng>. <eng>Traffic jams</eng> nghĩa là tắc đường, kẹt xe. Trong hội thoại có câu <eng>when there are traffic jams</eng>.
+</teacher_script>
+
+<teacher_script pause="0" href="audio/tts_778f802f.webm">
+Câu 4 điền <eng>How</eng>. <eng>How does your mum go shopping?</eng> - mẹ bạn đi mua sắm bằng cách nào? Dùng <eng>How</eng> để hỏi về phương tiện di chuyển.
+</teacher_script>
+
+<teacher_script pause="0" href="audio/tts_778f802f.webm">
+Câu 5 điền <eng>crowded</eng>. Lan nói <eng>The roads get really crowded</eng> - đường rất đông đúc. <eng>Crowded</eng> là tính từ, nghĩa là đông đúc, chật ních.
+</teacher_script>
 
 <explanation>
 **Giải thích:**

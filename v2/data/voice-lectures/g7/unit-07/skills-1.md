@@ -182,13 +182,17 @@ Bây giờ các em hãy trả lời câu hỏi: Bài đọc này nói về chủ
 ---
 
 <!-- chunk: answer_2 -->
-<teacher_script pause="0" href="audio/tts_9b6c76d1.webm">
-Đáp án đúng là C. <eng>Traffic rules</eng>.
+<teacher_script pause="0" href="audio/tts_778f802f.webm">
+Đã hết thời gian. Ok đáp án nè.
 </teacher_script>
 
 <answer>
 **Đáp án:** C - traffic rules
 </answer>
+
+<teacher_script pause="0" href="audio/tts_9b6c76d1.webm">
+Đáp án đúng là C - Traffic rules nha. Tại sao? Vì bài đọc này nói về luật giao thông cho 3 nhóm người tham gia giao thông á: Người đi bộ - pedestrians, người đi xe đạp - cyclists, và hành khách - passengers. Mỗi nhóm đều có những luật riêng phải tuân thủ. Vậy nên đáp án không phải A vì A chỉ nói về người đi bộ thôi, còn bài này nói đủ 3 nhóm. Cũng không phải B vì B chỉ nói về đèn giao thông, mà bài này nói về nhiều luật khác nhau hen.
+</teacher_script>
 
 <explanation>
 **Giải thích:**
@@ -199,6 +203,10 @@ Bài đọc nói về luật giao thông (traffic rules) cho 3 đối tượng:
 
 Nên đáp án không phải A (chỉ nói về người đi bộ) hay B (đèn giao thông).
 </explanation>
+
+<teacher_script pause="30" href="audio/tts_75ebc937.webm">
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
+</teacher_script>
 
 ---
 
@@ -240,7 +248,7 @@ Chúng ta cùng làm Bài 3 <eng>Read the text again</eng>. Các em hãy đọc 
 
 <!-- chunk: answer_3 -->
 <teacher_script pause="0" href="audio/tts_778f802f.webm">
-Đã hết thời gian. Sau đây là đáp án đúng.
+Đã hết thời gian. Ok đáp án nè.
 </teacher_script>
 
 <answer>
@@ -253,23 +261,23 @@ Chúng ta cùng làm Bài 3 <eng>Read the text again</eng>. Các em hãy đọc 
 </answer>
 
 <teacher_script pause="0" href="audio/tts_b7161c97.webm">
-Câu 1: <eng>At the zebra crossing</eng> - Tại vạch kẻ đường dành cho người đi bộ.
+Câu 1 hỏi người đi bộ nên qua đường ở đâu. Đáp án là "At the zebra crossing" nha - tại vạch kẻ đường. Các em tìm trong phần Pedestrians, rule số 3 có viết là "Walk across the street at the zebra crossing". Đây là vạch trắng kẻ trên đường dành riêng cho người đi bộ, rất quan trọng để đảm bảo an toàn.
 </teacher_script>
 
 <teacher_script pause="0" href="audio/tts_64accd22.webm">
-Câu 2: <eng>The cycle lane</eng> - Làn đường dành cho xe đạp.
+Câu 2 hỏi nên đi làn nào khi đi xe đạp. Đáp án là "The cycle lane" - làn đường dành cho xe đạp. Trong phần Cyclists, rule số 2 có viết "always use the cycle lane". Cycle lane là làn đường riêng biệt dành cho người đi xe đạp, đi đúng làn sẽ an toàn hơn hen.
 </teacher_script>
 
 <teacher_script pause="0" href="audio/tts_bc54f5a7.webm">
-Câu 3: <eng>Give a signal</eng> - Ra tín hiệu.
+Câu 3 hỏi phải làm gì trước khi rẽ khi đang đi xe đạp. Đáp án là "Give a signal" - ra tín hiệu. Trong phần Cyclists, rule số 3 viết rõ "Give a signal before you turn". Nghĩa là phải giơ tay ra hiệu cho người khác biết mình sắp rẽ á, như vậy họ sẽ cẩn thận.
 </teacher_script>
 
 <teacher_script pause="0" href="audio/tts_eeab5cbe.webm">
-Câu 4: <eng>Wait for buses to fully stop</eng> - Đợi xe buýt dừng hẳn.
+Câu 4 hỏi phải làm gì khi lên xuống xe buýt. Đáp án là "Wait for buses to fully stop" - đợi xe buýt dừng hẳn. Trong phần Passengers, rule số 2 viết rõ "Wait for buses to fully stop before getting on or off". Phải đợi xe dừng hẳn mới lên xuống, chứ xe còn chạy mà nhảy lên xuống rất nguy hiểm nha.
 </teacher_script>
 
 <teacher_script pause="0" href="audio/tts_480adb0b.webm">
-Câu 5: <eng>Don't stick any body parts out of the window</eng> - Không đưa bất kỳ bộ phận cơ thể nào ra ngoài cửa sổ.
+Câu 5 hỏi không được làm gì khi ở trên xe đang chạy. Đáp án là "Don't stick any body parts out of the window" - không đưa bất kỳ bộ phận cơ thể nào ra ngoài cửa sổ. Trong phần Passengers, rule số 4 viết rõ luôn. Đưa tay hay đầu ra ngoài cửa sổ khi xe đang chạy rất nguy hiểm, có thể va vào xe khác hoặc vật cản bên ngoài á.
 </teacher_script>
 
 <explanation>
@@ -284,7 +292,7 @@ Câu 5: <eng>Don't stick any body parts out of the window</eng> - Không đưa b
 | 5 | Don't stick body parts out | Passengers - rule 4 |
 </explanation>
 
-<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
+<teacher_script pause="30" href="audio/tts_75ebc937.webm">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -373,28 +381,8 @@ Chúng ta cùng làm Bài 5 <eng>Who is being safe?</eng> Các em hãy đọc c�
 ---
 
 <!-- chunk: answer_5 -->
-<teacher_script pause="0" href="audio/tts_ba4c2f84.webm">
-Sau đây là phân tích từng tình huống.
-</teacher_script>
-
-<teacher_script pause="0" href="audio/tts_5463894d.webm">
-Tình huống 1: Hoàng đội mũ bảo hiểm khi đạp xe. Đây là hành vi AN TOÀN.
-</teacher_script>
-
-<teacher_script pause="0" href="audio/tts_aa926e9f.webm">
-Tình huống 2: Chú Long lái xe nhanh khi trời mưa to. Đây là hành vi KHÔNG AN TOÀN vì đường trơn dễ gây tai nạn.
-</teacher_script>
-
-<teacher_script pause="0" href="audio/tts_2b66e1b8.webm">
-Tình huống 3: Học sinh xếp hàng lên xe buýt. Đây là hành vi AN TOÀN.
-</teacher_script>
-
-<teacher_script pause="0" href="audio/tts_3efe6439.webm">
-Tình huống 4: Chú Bình để con gái ngồi phía trước xe máy. Đây là hành vi KHÔNG AN TOÀN, rất nguy hiểm cho trẻ em.
-</teacher_script>
-
-<teacher_script pause="0" href="audio/tts_a55d27bc.webm">
-Tình huống 5: Michelle vẫy tay và hét lớn khi đang đạp xe. Đây là hành vi KHÔNG AN TOÀN vì gây mất tập trung.
+<teacher_script pause="0" href="audio/tts_778f802f.webm">
+Đã hết thời gian. Ok đáp án nè.
 </teacher_script>
 
 <answer>
@@ -408,6 +396,26 @@ Tình huống 5: Michelle vẫy tay và hét lớn khi đang đạp xe. Đây l�
 | 4 | Mr Binh | ❌ Không an toàn | Để con ngồi phía trước, dễ văng ra khi phanh |
 | 5 | Michelle | ❌ Không an toàn | Mất tập trung khi đạp xe |
 </answer>
+
+<teacher_script pause="0" href="audio/tts_5463894d.webm">
+Tình huống 1 về Hoàng - AN TOÀN nha. Hoàng đội mũ bảo hiểm khi đạp xe. Đây là điều rất đúng á. Trong phần Cyclists rule số 2 có viết "Wear helmets", đội mũ bảo hiểm sẽ bảo vệ đầu nếu bị ngã hay va chạm.
+</teacher_script>
+
+<teacher_script pause="0" href="audio/tts_aa926e9f.webm">
+Tình huống 2 về chú Long - KHÔNG AN TOÀN. Trời mưa to nhưng chú Long vẫn lái xe nhanh. Đây là hành vi rất nguy hiểm hen. Khi trời mưa, đường trơn trượt, nếu lái nhanh dễ mất lái, trượt bánh, gây tai nạn. Phải lái chậm lại mới an toàn nha.
+</teacher_script>
+
+<teacher_script pause="0" href="audio/tts_2b66e1b8.webm">
+Tình huống 3 về các học sinh - AN TOÀN. Các em xếp hàng để lên xe buýt trường. Đây là hành vi đúng, có trật tự, tránh chen lấn và ngã đổ. Xếp hàng còn giúp tài xế dễ quan sát, đảm bảo an toàn cho tất cả mọi người.
+</teacher_script>
+
+<teacher_script pause="0" href="audio/tts_3efe6439.webm">
+Tình huống 4 về chú Bình - KHÔNG AN TOÀN. Chú Bình chở con gái nhưng để cô bé ngồi phía trước. Đây là hành vi rất nguy hiểm cho trẻ em á. Trẻ em phải ngồi phía sau, có tay vịn, mới được bảo vệ. Ngồi phía trước khi xe phanh gấp, trẻ dễ văng ra ngoài, rất nguy hiểm luôn.
+</teacher_script>
+
+<teacher_script pause="0" href="audio/tts_a55d27bc.webm">
+Tình huống 5 về Michelle - KHÔNG AN TOÀN. Michelle đang đạp xe nhưng vẫy tay và hét lớn gọi bạn bè. Đây là hành vi mất tập trung khi tham gia giao thông. Trong phần Cyclists rule số 1 có viết "Always keep both hands on the handlebars" - luôn giữ hai tay trên ghi đông. Mà Michelle vẫy tay và la hét thì không nhìn đường, rất dễ gây tai nạn nha.
+</teacher_script>
 
 <explanation>
 **Giải thích chi tiết:**
@@ -432,6 +440,10 @@ Tình huống 5: Michelle vẫy tay và hét lớn khi đang đạp xe. Đây l�
 - She is waving and shouting to her friends while cycling.
 - Mất tập trung khi lái xe, không nhìn đường, rất nguy hiểm.
 </explanation>
+
+<teacher_script pause="30" href="audio/tts_75ebc937.webm">
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
+</teacher_script>
 
 <teacher_script pause="0" action="record" href="audio/tts_a8e98ceb.webm">
 Các em hãy ghi âm phân tích một tình huống an toàn và một tình huống không an toàn rồi gửi cho thầy nhé.

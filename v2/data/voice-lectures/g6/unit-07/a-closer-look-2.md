@@ -952,6 +952,278 @@ Ghi tóm tắt vô tập đi. 1 phút nha.
 
 ---
 
+<!-- chunk: additional_practice -->
+### Bài tập thực hành bổ sung
+
+<teacher_script pause="0">
+Các em làm thêm bài tập thực hành để củng cố ngữ pháp nha. Bài tập này rất quan trọng đó!
+</teacher_script>
+
+---
+
+<!-- chunk: practice_1 -->
+### Bài tập 1 - WH-Questions Practice
+
+<teacher_script pause="120">
+Chúng ta cùng làm Bài tập 1. Các em hãy chọn từ hỏi đúng để hoàn thành câu. Các em có 2 phút.
+</teacher_script>
+
+<questions type="multiple_choice">
+**1.** _______ do you go to school? - By bike.
+- A. What
+- B. How
+- C. Where
+
+*_______ bạn đi học? - Bằng xe đạp.*
+
+**2.** _______ is your birthday? - On May 5th.
+- A. When
+- B. What
+- C. Where
+
+*_______ sinh nhật của bạn? - Ngày 5 tháng 5.*
+
+**3.** _______ is your best friend? - It's Minh.
+- A. What
+- B. Who
+- C. How
+
+*_______ là bạn thân của bạn? - Là Minh.*
+
+**4.** _______ channels does your TV have? - About 50 channels.
+- A. How long
+- B. How often
+- C. How many
+
+*TV của bạn có _______ kênh? - Khoảng 50 kênh.*
+
+**5.** _______ do you watch TV? - Every day.
+- A. How often
+- B. How long
+- C. How many
+
+*Bạn xem TV _______? - Mỗi ngày.*
+</questions>
+
+---
+
+<!-- chunk: answer_practice_1 -->
+<teacher_script pause="0">
+Đã hết thời gian. Ok đáp án nè.
+</teacher_script>
+
+<answer>
+**Đáp án:** 1.B | 2.A | 3.B | 4.C | 5.A
+</answer>
+
+<teacher_script pause="0">
+Câu 1: <eng>How</eng> - như thế nào. Trả lời là "By bike" - bằng cách nào đi học.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 2: <eng>When</eng> - khi nào. Trả lời là "On May 5th" - ngày tháng, thời gian.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 3: <eng>Who</eng> - ai. Trả lời là "Minh" - tên người.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 4: <eng>How many</eng> - bao nhiêu. Trả lời là "50 channels" - số lượng.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 5: <eng>How often</eng> - thường xuyên thế nào. Trả lời là "Every day" - tần suất.
+</teacher_script>
+
+<teacher_script pause="30">
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
+</teacher_script>
+
+---
+
+<!-- chunk: practice_2 -->
+### Bài tập 2 - Conjunctions Practice
+
+<teacher_script pause="180">
+Bài tập 2, các em hãy hoàn thành câu với <eng>and</eng>, <eng>but</eng> hoặc <eng>so</eng>. Các em có 3 phút.
+</teacher_script>
+
+<questions type="fill_blanks">
+**1.** I'm hungry, _______ I'll eat a sandwich.
+
+*Tôi đói, _______ tôi sẽ ăn bánh mì.*
+
+**2.** She likes cartoons, _______ she doesn't like news.
+
+*Cô ấy thích phim hoạt hình, _______ cô ấy không thích tin tức.*
+
+**3.** The film is interesting _______ the actors are famous.
+
+*Bộ phim thú vị _______ các diễn viên nổi tiếng.*
+
+**4.** It's raining, _______ we'll stay at home.
+
+*Trời mưa, _______ chúng ta sẽ ở nhà.*
+
+**5.** I can sing, _______ I can't dance.
+
+*Tôi có thể hát, _______ tôi không thể nhảy.*
+
+**6.** He is smart _______ he is kind.
+
+*Anh ấy thông minh _______ tốt bụng.*
+
+**7.** The test is difficult, _______ I can't finish it.
+
+*Bài kiểm tra khó, _______ tôi không thể hoàn thành nó.*
+
+**8.** We went to the park _______ we played football there.
+
+*Chúng tôi đến công viên _______ chúng tôi chơi bóng đá ở đó.*
+</questions>
+
+---
+
+<!-- chunk: answer_practice_2 -->
+<teacher_script pause="0">
+Đã hết thời gian. Ok đáp án nè.
+</teacher_script>
+
+<answer>
+**Đáp án:** 1. so | 2. but | 3. and | 4. so | 5. but | 6. and | 7. so | 8. and
+</answer>
+
+<teacher_script pause="0">
+Câu 1: <eng>so</eng> - Đói là nguyên nhân, ăn là kết quả.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 2: <eng>but</eng> - Thích và không thích là đối lập nhau.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 3: <eng>and</eng> - Hai ý tích cực, bổ sung cho nhau: thú vị VÀ nổi tiếng.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 4: <eng>so</eng> - Mưa là nguyên nhân, ở nhà là kết quả.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 5: <eng>but</eng> - Can và can't là đối lập: có thể hát NHƯNG không thể nhảy.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 6: <eng>and</eng> - Hai tính từ tích cực: thông minh VÀ tốt bụng.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 7: <eng>so</eng> - Khó là nguyên nhân, không hoàn thành được là kết quả.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 8: <eng>and</eng> - Hai hành động liên tiếp: đến công viên VÀ chơi bóng.
+</teacher_script>
+
+<teacher_script pause="30">
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
+</teacher_script>
+
+---
+
+<!-- chunk: practice_3 -->
+### Bài tập 3 - Mixed Practice
+
+<teacher_script pause="120">
+Bài tập cuối cùng kết hợp cả hai phần. Các em hãy chọn đáp án đúng. Các em có 2 phút.
+</teacher_script>
+
+<questions type="multiple_choice">
+**1.** _______ is your favourite TV programme? - It's The Voice.
+- A. What
+- B. Who
+- C. Where
+
+*_______ chương trình TV yêu thích của bạn? - Là The Voice.*
+
+**2.** I like comedies _______ my sister likes them, too.
+- A. and
+- B. but
+- C. so
+
+*Tôi thích phim hài _______ em gái tôi cũng thích.*
+
+**3.** _______ do you live? - In Ho Chi Minh City.
+- A. When
+- B. Where
+- C. Why
+
+*Bạn sống _______? - Ở thành phố Hồ Chí Minh.*
+
+**4.** The show is boring, _______ I'll turn off the TV.
+- A. and
+- B. but
+- C. so
+
+*Chương trình nhàm chán, _______ tôi sẽ tắt TV.*
+
+**5.** _______ do you like this programme? - Because it's funny.
+- A. Why
+- B. What
+- C. How
+
+*_______ bạn thích chương trình này? - Vì nó vui.*
+
+**6.** He's a good student _______ he sometimes forgets his homework.
+- A. and
+- B. but
+- C. so
+
+*Anh ấy là học sinh giỏi _______ đôi khi quên bài tập.*
+</questions>
+
+---
+
+<!-- chunk: answer_practice_3 -->
+<teacher_script pause="0">
+Đã hết thời gian. Ok đáp án nè.
+</teacher_script>
+
+<answer>
+**Đáp án:** 1.A | 2.A | 3.B | 4.C | 5.A | 6.B
+</answer>
+
+<teacher_script pause="0">
+Câu 1: <eng>What</eng> - Hỏi về sự vật, chương trình là sự vật.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 2: <eng>and</eng> - Cả hai cùng thích, hai ý cùng chiều.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 3: <eng>Where</eng> - Hỏi về nơi chốn, địa điểm.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 4: <eng>so</eng> - Nhàm chán là nguyên nhân, tắt TV là kết quả.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 5: <eng>Why</eng> - Hỏi lý do, câu trả lời có "Because" - vì.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 6: <eng>but</eng> - Học sinh giỏi nhưng quên bài tập - hai ý đối lập.
+</teacher_script>
+
+<teacher_script pause="30">
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
+</teacher_script>
+
+---
+
 <!-- chunk: end -->
 <teacher_script pause="0" href="audio/tts_f4ccbfef.mp3">
 Ok hết <eng>A Closer Look 2</eng> rồi. Bài này dài nhưng mấy đứa làm tốt lắm.

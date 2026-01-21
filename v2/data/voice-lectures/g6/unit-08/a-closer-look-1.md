@@ -81,6 +81,26 @@ Sau đây là đáp án đúng.
 **Đáp án:** 1. ball | 2. sports shoes | 3. boat | 4. racket | 5. goggles
 </answer>
 
+<teacher_script pause="0">
+Tranh 1 là <eng>ball</eng> - quả bóng. Hình quả bóng tròn màu trắng đen, có thể là bóng đá. <eng>Ball</eng> là từ chung chung chỉ quả bóng, dùng được cho nhiều môn: football, volleyball, basketball.
+</teacher_script>
+
+<teacher_script pause="0">
+Tranh 2 là <eng>sports shoes</eng> - giày thể thao. Hình đôi giày dùng để chơi thể thao. Chú ý: phải viết số nhiều <eng>shoes</eng> vì giày luôn có 2 chiếc. Không ai nói "a shoe" cả, phải nói "a pair of shoes" - một đôi giày.
+</teacher_script>
+
+<teacher_script pause="0">
+Tranh 3 là <eng>boat</eng> - thuyền. Hình chiếc thuyền trên mặt nước. <eng>Boat</eng> dùng cho môn <eng>boating</eng> - chèo thuyền. Nhớ: boat (danh từ) → boating (môn thể thao).
+</teacher_script>
+
+<teacher_script pause="0">
+Tranh 4 là <eng>racket</eng> - cây vợt. Hình cây vợt cầu lông hoặc tennis. <eng>Racket</eng> cũng có thể viết là <eng>racquet</eng>, cả 2 cách viết đều đúng nha. Dùng cho badminton và tennis.
+</teacher_script>
+
+<teacher_script pause="0">
+Tranh 5 là <eng>goggles</eng> - kính bơi. Hình kính đeo khi bơi để bảo vệ mắt. Các em chú ý: <eng>goggles</eng> luôn có chữ s ở cuối vì kính có 2 mắt. Giống như <eng>glasses</eng> (kính mắt), <eng>scissors</eng> (kéo), <eng>trousers</eng> (quần dài) - đều viết số nhiều.
+</teacher_script>
+
 <explanation>
 **Giải thích:**
 
@@ -91,11 +111,13 @@ Sau đây là đáp án đúng.
 | 3 | Chiếc thuyền | **boat** | thuyền |
 | 4 | Cây vợt | **racket** | vợt (cầu lông/tennis) |
 | 5 | Kính đeo khi bơi | **goggles** | kính bơi |
-</explanation>
 
-<teacher_script pause="0">
-Các em chú ý: <eng>goggles</eng> luôn ở dạng số nhiều vì kính có 2 mắt, tương tự như <eng>glasses</eng> - kính mắt.
-</teacher_script>
+**Lưu ý:** Một số từ luôn ở dạng số nhiều:
+- goggles, glasses (kính)
+- shoes, boots (giày)
+- trousers, jeans (quần)
+- scissors (kéo)
+</explanation>
 
 <teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
@@ -137,6 +159,26 @@ Chúng ta cùng làm Bài 2 <eng>Match each thing with a sport</eng>. Các em h�
 **Đáp án:** 1-c | 2-d | 3-a | 4-b | 5-e
 </answer>
 
+<teacher_script pause="0">
+Câu 1 nối c. <eng>Bicycle</eng> - xe đạp dùng cho môn <eng>cycling</eng> - đạp xe. Rõ ràng luôn nha, có xe đạp thì mới đạp xe được. <eng>Bicycle</eng> còn gọi tắt là <eng>bike</eng>.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 2 nối d. <eng>Ball</eng> - quả bóng dùng cho <eng>ball games</eng> - các môn có bóng. <eng>Ball games</eng> là tên chung cho tất cả các môn dùng bóng như football, volleyball, basketball, tennis. Tất cả đều cần quả bóng.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 3 nối a. <eng>Boat</eng> - thuyền dùng cho môn <eng>boating</eng> - chèo thuyền. Mẹo nhớ: boat (danh từ - thuyền) thêm đuôi -ing thành boating (môn chèo thuyền). Giống như cycle → cycling vậy.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 4 nối b. <eng>Goggles</eng> - kính bơi dùng cho <eng>swimming</eng> - bơi lội. Khi bơi, chúng ta đeo kính bơi để bảo vệ mắt khỏi nước và thấy rõ dưới nước. Goggles là dụng cụ rất quan trọng khi bơi nha.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 5 nối e. <eng>Racket</eng> - cây vợt dùng cho <eng>badminton</eng> - cầu lông. Cũng có thể dùng cho tennis nữa. Nhưng trong bài này chỉ có badminton thôi nên chọn e. Badminton cần 2 cây vợt và 1 quả cầu lông.
+</teacher_script>
+
 <explanation>
 **Giải thích:**
 
@@ -152,6 +194,8 @@ Chúng ta cùng làm Bài 2 <eng>Match each thing with a sport</eng>. Các em h�
 - boat → boat**ing**
 - cycle → cycl**ing**
 - swim → swimm**ing**
+- run → runn**ing**
+- ski → ski**ing**
 </explanation>
 
 <teacher_script pause="30" href="audio/tts_75ebc937.mp3">
@@ -208,6 +252,26 @@ Chúng ta cùng làm Bài 3 <eng>Fill each blank with one of the words from the 
 **Đáp án:** 1. competition | 2. champion | 3. congratulations | 4. sporty | 5. marathon
 </answer>
 
+<teacher_script pause="0">
+Câu 1 điền <eng>competition</eng>. Câu nói: Cô ấy đã <eng>won</eng> (thắng) một cuộc thi thể thao quốc tế. <eng>Win a competition</eng> là cụm cố định nghĩa là thắng một cuộc thi. <eng>Competition</eng> từ <eng>compete</eng> (cạnh tranh, thi đấu).
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 2 điền <eng>champion</eng>. Câu nói: Anh ấy <eng>became the world tennis champion</eng> - trở thành nhà vô địch quần vợt thế giới. <eng>Champion</eng> là người chiến thắng, người xuất sắc nhất. Còn <eng>championship</eng> là giải vô địch nha.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 3 điền <eng>congratulations</eng>. Câu nói: Gửi lời chúc mừng đến người thắng cuộc. <eng>Congratulations</eng> là danh từ, luôn có chữ s ở cuối. Khi chúc mừng ai, chúng ta nói <eng>Congratulations!</eng> với dấu chấm than.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 4 điền <eng>sporty</eng>. Câu nói: David rất năng động, cậu ấy tập thể dục mỗi ngày. <eng>Sporty</eng> (tính từ) là người thích thể thao, năng động, khỏe mạnh. Người <eng>sporty</eng> thường tập thể dục thường xuyên và giỏi nhiều môn thể thao.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 5 điền <eng>marathon</eng>. Câu nói: Cuộc đua đầu tiên diễn ra năm 1896. Đây là cuộc chạy <eng>marathon</eng> đầu tiên trong lịch sử Olympic hiện đại, tổ chức tại Athens, Hy Lạp. <eng>Marathon</eng> là cuộc chạy đường dài 42,195 km. Tên gọi xuất phát từ trận chiến Marathon năm 490 trước Công nguyên.
+</teacher_script>
+
 <explanation>
 **Giải thích:**
 
@@ -221,13 +285,11 @@ Chúng ta cùng làm Bài 3 <eng>Fill each blank with one of the words from the 
 
 **Lưu ý từ vựng:**
 - **competition** (n) = cuộc thi, tranh tài
-- **champion** (n) = nhà vô địch
+- **champion** (n) = nhà vô địch | **championship** (n) = giải vô địch
 - **sporty** (adj) = năng động, yêu thể thao
+- **congratulations** (n) = lời chúc mừng (luôn có s)
+- **marathon** (n) = cuộc chạy đường dài 42,195 km
 </explanation>
-
-<teacher_script pause="0">
-Câu 5 rất dễ nhầm lẫn. Các em nhớ nhé: <eng>Marathon</eng> là cuộc chạy đường dài 42km. Cuộc thi Marathon đầu tiên trong lịch sử Olympic diễn ra vào năm 1896 tại Athens, Hy Lạp.
-</teacher_script>
 
 <teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
@@ -415,6 +477,191 @@ Các em nhớ nhé: Chữ "a" thường được phát âm là /æ/, chữ "e" t
 </teacher_script>
 
 <teacher_script pause="30" href="audio/tts_75ebc937.mp3">
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
+</teacher_script>
+
+---
+
+<!-- chunk: additional_practice -->
+### Bài tập thực hành bổ sung
+
+<teacher_script pause="0">
+Các em làm thêm bài tập thực hành để củng cố từ vựng và phát âm nha. Bài tập này rất quan trọng đó!
+</teacher_script>
+
+---
+
+<!-- chunk: practice_1 -->
+### Bài tập 1 - Vocabulary Practice
+
+<teacher_script pause="120">
+Chúng ta cùng làm Bài tập 1. Các em hãy chọn đáp án đúng để hoàn thành câu. Các em có 2 phút.
+</teacher_script>
+
+<questions type="multiple_choice">
+**1.** You need a _______ to play badminton.
+- A. ball
+- B. racket
+- C. boat
+
+*Bạn cần một _______ để chơi cầu lông.*
+
+**2.** We wear _______ when we go swimming.
+- A. goggles
+- B. sports shoes
+- C. racket
+
+*Chúng ta đeo _______ khi đi bơi.*
+
+**3.** He became a _______ when he won the competition.
+- A. marathon
+- B. competition
+- C. champion
+
+*Anh ấy trở thành _______ khi thắng cuộc thi.*
+
+**4.** _______ to the winner! You did a great job!
+- A. Congratulations
+- B. Competition
+- C. Champion
+
+*_______ người chiến thắng! Bạn đã làm tốt lắm!*
+
+**5.** She is very _______. She plays sports every day.
+- A. sporty
+- B. bicycle
+- C. ball
+
+*Cô ấy rất _______. Cô ấy chơi thể thao mỗi ngày.*
+
+**6.** We use a _______ in many sports like football, volleyball, and basketball.
+- A. boat
+- B. ball
+- C. goggles
+
+*Chúng ta dùng _______ trong nhiều môn như bóng đá, bóng chuyền, và bóng rổ.*
+</questions>
+
+---
+
+<!-- chunk: answer_practice_1 -->
+<teacher_script pause="0">
+Đã hết thời gian. Ok đáp án nè.
+</teacher_script>
+
+<answer>
+**Đáp án:** 1.B | 2.A | 3.C | 4.A | 5.A | 6.B
+</answer>
+
+<teacher_script pause="0">
+Câu 1: <eng>racket</eng> - vợt. Chơi cầu lông phải dùng vợt chứ không phải bóng hay thuyền.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 2: <eng>goggles</eng> - kính bơi. Khi bơi thì đeo kính bơi để bảo vệ mắt.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 3: <eng>champion</eng> - nhà vô địch. Thắng cuộc thi thì trở thành nhà vô địch.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 4: <eng>Congratulations</eng> - xin chúc mừng. Dùng để chúc mừng người thắng cuộc.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 5: <eng>sporty</eng> - năng động, thích thể thao. Chơi thể thao mỗi ngày thì chắc chắn là người năng động rồi.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 6: <eng>ball</eng> - quả bóng. Bóng đá, bóng chuyền, bóng rổ đều dùng bóng.
+</teacher_script>
+
+<teacher_script pause="30">
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
+</teacher_script>
+
+---
+
+<!-- chunk: practice_2 -->
+### Bài tập 2 - Pronunciation Practice
+
+<teacher_script pause="120">
+Bài tập 2, các em hãy chọn từ có cách phát âm khác với các từ còn lại. Chú ý âm /e/ và /æ/ nha. Các em có 2 phút.
+</teacher_script>
+
+<questions type="multiple_choice">
+**1.** Chọn từ có phát âm phần gạch chân khác:
+- A. t**e**nnis /e/
+- B. m**a**tch /æ/
+- C. ch**e**ss /e/
+
+**2.** Chọn từ có phát âm phần gạch chân khác:
+- A. r**a**cket /æ/
+- B. m**a**rathon /æ/
+- C. **e**xercise /e/
+
+**3.** Chọn từ có phát âm phần gạch chân khác:
+- A. cont**e**st /e/
+- B. c**a**nnot /æ/
+- C. g**e**t /e/
+
+**4.** Chọn từ có phát âm phần gạch chân khác:
+- A. **a**ctive /æ/
+- B. b**a**dminton /æ/
+- C. t**e**n /e/
+
+**5.** Chọn từ có phát âm phần gạch chân khác:
+- A. v**e**ry /e/
+- B. S**a**turday /æ/
+- C. **e**very /e/
+
+**6.** Chọn từ có phát âm phần gạch chân khác:
+- A. m**a**tch /æ/
+- B. b**a**ll /ɔː/ (khác hoàn toàn)
+- C. **a**ctive /æ/
+</questions>
+
+---
+
+<!-- chunk: answer_practice_2 -->
+<teacher_script pause="0">
+Đã hết thời gian. Ok đáp án nè.
+</teacher_script>
+
+<answer>
+**Đáp án:** 1.B | 2.C | 3.B | 4.C | 5.B | 6.B
+</answer>
+
+<teacher_script pause="0">
+Câu 1: đáp án B - <eng>match</eng>. Từ này phát âm /æ/, còn lại là /e/.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 2: đáp án C - <eng>exercise</eng>. Từ này phát âm /e/, còn lại là /æ/.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 3: đáp án B - <eng>cannot</eng>. Từ này phát âm /æ/, còn lại là /e/.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 4: đáp án C - <eng>ten</eng>. Từ này phát âm /e/, còn lại là /æ/.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 5: đáp án B - <eng>Saturday</eng>. Từ này phát âm /æ/, còn lại là /e/.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 6: đáp án B - <eng>ball</eng>. Từ này phát âm /ɔː/ (âm "o" dài), khác hoàn toàn với /æ/.
+</teacher_script>
+
+<teacher_script pause="0">
+Mẹo nhớ: Chữ "a" thường phát âm là /æ/ như trong <eng>match, racket, active</eng>. Chữ "e" thường phát âm là /e/ như trong <eng>tennis, chess, exercise</eng>.
+</teacher_script>
+
+<teacher_script pause="30">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 

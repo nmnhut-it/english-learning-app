@@ -72,12 +72,28 @@ C. is shocking
 
 <!-- chunk: answer_3 -->
 <teacher_script pause="0">
-Đã hết thời gian. Sau đây là đáp án đúng.
+Đã hết thời gian. Ok đáp án nè.
 </teacher_script>
 
 <answer>
 **Đáp án:** 1.A | 2.C | 3.A | 4.A
 </answer>
+
+<teacher_script pause="0">
+Câu 1 chọn A - comedy. "Naughty Twins is a comedy" - Cặp sinh đôi tinh nghịch là phim hài. Trong đoạn nghe, Mark nói rõ "It's a comedy", không phải science fiction hay horror film đâu nha.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 2 chọn C - twin sisters. "The main characters are twin sisters" - Nhân vật chính là cặp sinh đôi nữ. Mark nói "It's about two naughty girls" - hai cô gái nghịch ngợm, và tên phim là "Twins" - song sinh. Đó là hai chị em sinh đôi, không phải anh em trai hay bạn học cũ đâu.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 3 chọn A - At a summer camp. "Where do the twins meet each other for the first time?" - Cặp sinh đôi gặp nhau lần đầu ở đâu? Mark nói "they meet each other for the first time at a summer camp" - gặp nhau lần đầu tại trại hè. Không phải ở trường hè hay bệnh viện nha.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 4 chọn A - young people should see. "People say Naughty Twins is a film that young people should see" - Mọi người nói phim này giới trẻ nên xem. Mark nói "it's a must-see for young people" - phải xem cho giới trẻ. Must-see nghĩa là nên xem, đáng xem á.
+</teacher_script>
 
 <explanation>
 **Giải thích:**
@@ -87,7 +103,7 @@ C. is shocking
 4. **A** (young people should see) - Mark nói: "it's a must-see for young people".
 </explanation>
 
-<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
+<teacher_script pause="30">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 

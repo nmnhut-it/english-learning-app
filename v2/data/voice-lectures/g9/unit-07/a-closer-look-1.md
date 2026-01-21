@@ -172,6 +172,205 @@ Các em hãy bấm ghi âm và đọc lại 5 câu này gửi cho thầy nhé.
 
 ---
 
+<!-- chunk: additional_practice -->
+### Bài tập thực hành bổ sung
+
+<teacher_script pause="0">
+Các em làm thêm bài tập thực hành để củng cố từ vựng và phát âm nha. Bài tập này rất quan trọng đó!
+</teacher_script>
+
+---
+
+<!-- chunk: practice_1 -->
+### Bài tập 1 - Vocabulary Practice
+
+<teacher_script pause="120">
+Chúng ta cùng làm Bài tập 1. Các em hãy chọn từ đúng để hoàn thành các câu về kỳ quan thiên nhiên. Các em có 2 phút.
+</teacher_script>
+
+<questions type="fill_blanks">
+**Word bank:** *permit | paradise | annual | diversity | access | urgent*
+
+**1.** Ha Long Bay is a _______ for nature lovers with its stunning beauty.
+
+**2.** The _______ of wildlife in the Amazon rainforest is amazing.
+
+**3.** Tourists need a _______ to enter some protected natural areas.
+
+**4.** The _______ flower festival at Ba Na Hills attracts many visitors.
+
+**5.** It's _______ that we protect endangered species in national parks.
+
+**6.** Visitors can _______ Phong Nha Cave by boat or on foot.
+</questions>
+
+---
+
+<!-- chunk: answer_practice_1 -->
+<teacher_script pause="0">
+Đã hết thời gian. Ok đáp án nè.
+</teacher_script>
+
+<answer>
+**Đáp án:**
+1. paradise
+2. diversity
+3. permit
+4. annual
+5. urgent
+6. access
+</answer>
+
+<teacher_script pause="0">
+Câu 1: <eng>paradise</eng> - thiên đường. Vịnh Hạ Long đẹp như thiên đường nên dùng từ này.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 2: <eng>diversity</eng> - sự đa dạng. Amazon có nhiều loài sinh vật nên nói về sự đa dạng.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 3: <eng>permit</eng> - giấy phép. Vào khu bảo tồn phải có giấy phép.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 4: <eng>annual</eng> - hàng năm. Lễ hội hoa diễn ra mỗi năm một lần.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 5: <eng>urgent</eng> - khẩn cấp. Bảo vệ động vật quý hiếm là việc rất cấp bách.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 6: <eng>access</eng> - tiếp cận, đi vào. Du khách có thể vào hang bằng thuyền hoặc đi bộ.
+</teacher_script>
+
+<teacher_script pause="30">
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
+</teacher_script>
+
+---
+
+<!-- chunk: practice_2 -->
+### Bài tập 2 - Pronunciation Practice
+
+<teacher_script pause="90">
+Chúng ta cùng làm Bài tập 2. Các em hãy phân loại các từ theo âm /sl/ hoặc /sn/. Các em có 1 phút 30 giây.
+</teacher_script>
+
+<questions type="matching">
+**Words:** sleepy, snowy, slippery, sneeze, slope, snorkel, slender, snapshot
+
+**Phân loại:**
+- **/sl/:** _______________________________________
+- **/sn/:** _______________________________________
+</questions>
+
+---
+
+<!-- chunk: answer_practice_2 -->
+<teacher_script pause="0">
+Đã hết thời gian. Ok đáp án nè.
+</teacher_script>
+
+<answer>
+**Đáp án:**
+- **/sl/:** sleepy, slippery, slope, slender
+- **/sn/:** snowy, sneeze, snorkel, snapshot
+</answer>
+
+<teacher_script pause="0">
+Nhóm âm /sl/: <eng>sleepy</eng> (buồn ngủ), <eng>slippery</eng> (trơn), <eng>slope</eng> (dốc), <eng>slender</eng> (thon thả).
+</teacher_script>
+
+<teacher_script pause="0">
+Nhóm âm /sn/: <eng>snowy</eng> (có tuyết), <eng>sneeze</eng> (hắt hơi), <eng>snorkel</eng> (lặn có ống thở), <eng>snapshot</eng> (ảnh chụp nhanh).
+</teacher_script>
+
+<teacher_script pause="0">
+Mẹo nhớ: Khi gặp chữ **sl** đầu từ thì phát âm /sl/, gặp **sn** đầu từ thì phát âm /sn/. Dễ lắm nha!
+</teacher_script>
+
+<teacher_script pause="30">
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
+</teacher_script>
+
+---
+
+<!-- chunk: practice_3 -->
+### Bài tập 3 - Mixed Practice
+
+<teacher_script pause="120">
+Bài tập cuối cùng kết hợp cả từ vựng và phát âm. Các em hãy hoàn thành các câu. Các em có 2 phút.
+</teacher_script>
+
+<questions type="fill_blanks">
+**1.** The **sl_____** mountain path can be dangerous in rainy weather.
+*Con đường núi _______ có thể nguy hiểm vào mùa mưa.*
+
+**2.** This national park has amazing biological _______ (diversity / permit).
+*Vườn quốc gia này có sự _______ sinh học tuyệt vời.*
+
+**3.** We need **_____gent** action to save the coral reefs.
+*Chúng ta cần hành động _______ để cứu rạn san hô.*
+
+**4.** The **sn_____** season at Mount Fansipan is from December to February.
+*Mùa _______ ở Fansipan là từ tháng 12 đến tháng 2.*
+
+**5.** Son Doong Cave is like a _______ (paradise / access) for adventurous explorers.
+*Hang Sơn Đoòng như một _______ cho những nhà thám hiểm.*
+
+**6.** The **an_____l** migration of birds to Tram Chim is spectacular.
+*Sự di cư _______ của chim đến Tràm Chim rất ngoạn mục.*
+</questions>
+
+---
+
+<!-- chunk: answer_practice_3 -->
+<teacher_script pause="0">
+Đã hết thời gian. Ok đáp án nè.
+</teacher_script>
+
+<answer>
+**Đáp án:**
+1. slippery
+2. diversity
+3. urgent
+4. snowy
+5. paradise
+6. annual
+</answer>
+
+<teacher_script pause="0">
+Câu 1: <eng>slippery</eng> - trơn trượt. Đường núi mưa thì trơn, nguy hiểm nha.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 2: <eng>diversity</eng> - sự đa dạng. Vườn quốc gia có nhiều loài sinh vật.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 3: <eng>urgent</eng> - khẩn cấp. Cứu rạn san hô là việc cấp bách.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 4: <eng>snowy</eng> - có tuyết. Fansipan có tuyết vào mùa đông.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 5: <eng>paradise</eng> - thiên đường. Hang Sơn Đoòng đẹp như thiên đường.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 6: <eng>annual</eng> - hàng năm. Chim di cư mỗi năm một lần.
+</teacher_script>
+
+<teacher_script pause="30">
+Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
+</teacher_script>
+
+---
+
 <!-- chunk: end -->
 <teacher_script pause="0">
 Bài học hôm nay kết thúc tại đây. Các em hãy nhớ phân biệt cách phát âm /sl/ và /sn/, cũng như ôn tập các từ vựng về kỳ quan thiên nhiên nhé. Tạm biệt các em!

@@ -139,6 +139,26 @@ Chúng ta cùng làm Bài 2 <eng>Put a word from the conversation in each gap</e
 **Đáp án:** 1. fit | 2. gym | 3. table tennis | 4. Club | 5. cycle
 </answer>
 
+<teacher_script pause="0">
+Câu 1 điền <eng>fit</eng>. Trong hội thoại, Mai nói với Dương: <eng>You look fit!</eng> - Bạn trông khỏe mạnh quá! Vậy là Dương trông khỏe mạnh nha. <eng>Look fit</eng> nghĩa là trông khỏe, trông cường tráng. Người tập thể thao thường xuyên sẽ look fit.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 2 điền <eng>gym</eng>. Ngay câu đầu tiên của hội thoại, Dương nói: <eng>Wow! This gym is big!</eng> - Chà! Phòng tập này to quá! Vậy là hai bạn đang ở phòng tập gym. Mai thích đến gym vì thiết bị ở đó rất tốt nha.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 3 điền <eng>table tennis</eng>. Dương nói: <eng>I play table tennis. Yesterday I played with Duy, and I won!</eng> - Mình chơi bóng bàn. Hôm qua mình chơi với Duy và mình đã thắng! Rõ ràng luôn, Dương chơi bóng bàn với Duy và thắng nữa.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 4 điền <eng>Club</eng>. Dương nói địa chỉ câu lạc bộ: <eng>It's Superfit Club, in Pham Hung Road</eng>. Tên đầy đủ là Superfit Club - Câu lạc bộ Superfit. Đừng quên viết hoa chữ C nha vì đây là tên riêng.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 5 điền <eng>cycle</eng>. Dương nói: <eng>You can cycle there</eng> - Bạn có thể đạp xe đến đó. <eng>Cycle</eng> là động từ, nghĩa là đạp xe. Mẹo nhớ: <eng>cycle</eng> (động từ) = đạp xe, <eng>cycling</eng> (danh từ) = môn đạp xe. Ví dụ: I cycle to school - Tôi đạp xe đến trường. I like cycling - Tôi thích môn đạp xe.
+</teacher_script>
+
 <explanation>
 **Giải thích:**
 
@@ -149,11 +169,11 @@ Chúng ta cùng làm Bài 2 <eng>Put a word from the conversation in each gap</e
 | 3 | Duong played ___ with Duy. | **table tennis** | Dương nói: "I play table tennis" |
 | 4 | ...at Superfit ___. | **Club** | Dương nói: "It's Superfit Club" |
 | 5 | Mai will ___ to Superfit. | **cycle** | Dương nói: "You can cycle there" |
-</explanation>
 
-<teacher_script pause="0">
-Ai sai câu 5 thì nhớ: <eng>cycle</eng> là đạp xe, <eng>go</eng> cũng được nhưng trong hội thoại Dương nói <eng>cycle</eng> cụ thể hơn.
-</teacher_script>
+**Phân biệt:**
+- **cycle** (động từ) = đạp xe
+- **cycling** (danh từ) = môn đạp xe
+</explanation>
 
 <teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
@@ -198,6 +218,30 @@ Sau đây là đáp án.
 **Đáp án:** 1. cycling | 2. aerobics | 3. table tennis | 4. swimming | 5. chess | 6. volleyball
 </answer>
 
+<teacher_script pause="0">
+Tranh 1 là <eng>cycling</eng> - đạp xe. Hình người đang đạp xe đạp á. <eng>Cycling</eng> là danh từ chỉ môn thể thao đạp xe. Nhớ viết đuôi -ing nha.
+</teacher_script>
+
+<teacher_script pause="0">
+Tranh 2 là <eng>aerobics</eng> - thể dục nhịp điệu. Hình người đang nhảy múa theo nhạc đó. <eng>Aerobics</eng> luôn có chữ s ở cuối, giống như <eng>mathematics</eng> hay <eng>physics</eng> vậy.
+</teacher_script>
+
+<teacher_script pause="0">
+Tranh 3 là <eng>table tennis</eng> - bóng bàn. Hình người đang chơi bóng bàn trên bàn. <eng>Table tennis</eng> là 2 từ nha, không viết liền. Cũng có thể gọi là <eng>ping pong</eng>.
+</teacher_script>
+
+<teacher_script pause="0">
+Tranh 4 là <eng>swimming</eng> - bơi lội. Hình người đang bơi dưới nước. <eng>Swimming</eng> cũng có đuôi -ing như cycling vậy.
+</teacher_script>
+
+<teacher_script pause="0">
+Tranh 5 là <eng>chess</eng> - cờ vua. Hình bàn cờ với các quân cờ. <eng>Chess</eng> viết với 2 chữ s nha. Đây là trò chơi trí tuệ rất hay.
+</teacher_script>
+
+<teacher_script pause="0">
+Tranh 6 là <eng>volleyball</eng> - bóng chuyền. Hình người đang đánh bóng qua lưới. <eng>Volleyball</eng> viết liền thành 1 từ, khác với table tennis viết thành 2 từ đó.
+</teacher_script>
+
 <vocabulary>
 **Từ vựng các môn thể thao:**
 
@@ -212,7 +256,7 @@ Sau đây là đáp án.
 </vocabulary>
 
 <teacher_script pause="0">
-Các em lưu ý phân biệt: <eng>cycling</eng> là danh từ chỉ môn đạp xe, còn <eng>cycle</eng> là động từ chỉ hành động đạp xe. Ví dụ: <eng>I like cycling</eng> - Tôi thích môn đạp xe. <eng>I cycle to school</eng> - Tôi đạp xe đến trường.
+Mẹo nhớ: Các môn có đuôi -ing thường là môn di chuyển (cycling, swimming, running). Các môn có <eng>ball</eng> thường viết liền (volleyball, football, basketball). Còn table tennis viết rời vì có chữ table nha.
 </teacher_script>
 
 <teacher_script pause="30">

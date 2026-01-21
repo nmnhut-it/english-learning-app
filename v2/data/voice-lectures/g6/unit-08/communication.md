@@ -153,6 +153,26 @@ Sau đây là đáp án. Đây là những kiến thức chung rất thú vị v
 5. Olympia, Ancient Greece (776 BC)
 </answer>
 
+<teacher_script pause="0">
+Câu 1: Có bao nhiêu cầu thủ trong một trận bóng đá? Đáp án là 22 người. Mỗi đội có 11 cầu thủ, 2 đội thì 11 cộng 11 bằng 22. Gồm có thủ môn, hậu vệ, tiền vệ, tiền đạo. Nếu có cầu thủ bị thẻ đỏ thì số người sẽ giảm xuống nha.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 2: Một trận bóng đá kéo dài bao lâu? Đáp án là 90 phút. Chia thành 2 hiệp, mỗi hiệp 45 phút. Giữa 2 hiệp có thời gian nghỉ khoảng 15 phút. Nếu là trận đấu loại trực tiếp mà hòa thì có thể có hiệp phụ 30 phút hoặc đá luân lưu 11m.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 3: Thế vận hội Olympic diễn ra bao lâu một lần? Đáp án là 4 năm một lần. Olympic là sự kiện thể thao lớn nhất thế giới. Có Olympic mùa hè và Olympic mùa đông, mỗi loại cũng 4 năm một lần. Lần gần đây nhất là Olympic 2024 tổ chức tại Paris, Pháp.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 4: Cuộc chạy marathon dài bao nhiêu? Đáp án là 42,195 km (hay 42 km 195 mét). Con số này xuất phát từ khoảng cách từ thành phố Marathon đến Athens ở Hy Lạp cổ đại. Theo truyền thuyết, một người lính chạy đoạn đường này để báo tin chiến thắng. Chạy marathon là một thử thách rất lớn đó.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 5: Thế vận hội Olympic đầu tiên diễn ra ở đâu? Đáp án là Olympia, Hy Lạp cổ đại, vào năm 776 trước Công nguyên. Đây là Olympic cổ đại. Còn Olympic hiện đại đầu tiên được tổ chức năm 1896 tại Athens, Hy Lạp. Tên gọi <eng>Olympic</eng> xuất phát từ địa danh <eng>Olympia</eng> nha.
+</teacher_script>
+
 <explanation>
 **Giải thích chi tiết:**
 
@@ -161,13 +181,14 @@ Sau đây là đáp án. Đây là những kiến thức chung rất thú vị v
 | 1 | How many players? | **22** | Mỗi đội 11 người, 2 đội = 22 |
 | 2 | How long? | **90 phút** | Chia thành 2 hiệp, mỗi hiệp 45 phút |
 | 3 | How often? | **4 năm/lần** | Olympic diễn ra 4 năm một lần |
-| 4 | How long is marathon? | **42.195 km** | Khoảng 42 km |
+| 4 | How long is marathon? | **42.195 km** | Khoảng cách từ Marathon đến Athens |
 | 5 | Where first Olympic? | **Olympia, Hy Lạp** | Năm 776 trước Công nguyên |
-</explanation>
 
-<teacher_script pause="0">
-Câu 5 là một kiến thức lịch sử quan trọng. Thế vận hội Olympic đầu tiên được tổ chức tại <eng>Olympia</eng>, Hy Lạp cổ đại vào năm 776 trước Công nguyên. Tên gọi <eng>Olympic</eng> cũng xuất phát từ địa danh <eng>Olympia</eng>.
-</teacher_script>
+**Kiến thức bổ sung:**
+- Marathon: 42 km 195m (từ truyền thuyết Hy Lạp)
+- Olympic cổ đại: 776 BC tại Olympia
+- Olympic hiện đại: 1896 tại Athens
+</explanation>
 
 <teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
