@@ -4,11 +4,11 @@
 
 <!-- chunk: intro -->
 <teacher_script pause="0">
-Chào các em. Hôm nay chúng ta sẽ bắt đầu Unit 8 với chủ đề <eng>Sports and Games</eng> - Thể thao và Trò chơi. Mời các em mở sách giáo khoa trang 16.
+Ok lớp 6, Unit 8 nha. Mở sách trang 16 đi. Chủ đề hôm nay là <eng>Sports and Games</eng> - Thể thao và Trò chơi. Nghe hay hen!
 </teacher_script>
 
 <teacher_script pause="0">
-Bài học đầu tiên là <eng>Getting Started</eng> với tựa đề <eng>At the gym</eng> - Ở phòng tập. Các em hãy ghi tựa bài vào vở rồi bấm nút "Bắt đầu" để học từ vựng nhé.
+Bài đầu tiên là <eng>Getting Started</eng> với tựa đề <eng>At the gym</eng> - Ở phòng tập á. Ghi tựa bài vô vở rồi bấm nút "Bắt đầu" để học từ vựng nha.
 </teacher_script>
 
 ---
@@ -39,7 +39,7 @@ Bài học đầu tiên là <eng>Getting Started</eng> với tựa đề <eng>At
 ### Bài 1 trang 16 - Listen and read
 
 <teacher_script pause="0">
-Chúng ta cùng làm Bài 1 <eng>Listen and read</eng>. Đây là cuộc hội thoại giữa bạn Dương và bạn Mai tại phòng tập gym. Các em hãy nghe đoạn hội thoại nhé.
+Bài 1 <eng>Listen and read</eng> nha. Đây là hội thoại giữa Dương và Mai tại phòng tập gym. Nghe đi rồi đọc theo luôn.
 </teacher_script>
 
 <audio src="https://img.loigiaihay.com/picture/2024/0427/tieng-anh-6-tap-2-global-success-unit-8-sports-and-games-getting-started-1-listen-and-read-sach-mem.mp3">
@@ -62,14 +62,14 @@ Chúng ta cùng làm Bài 1 <eng>Listen and read</eng>. Đây là cuộc hội t
 </dialogue>
 
 <teacher_script pause="180">
-Các em hãy dành 3 phút để dịch đoạn hội thoại này vào vở nhé.
+Dịch hội thoại vô vở đi. 3 phút nha.
 </teacher_script>
 
 ---
 
 <!-- chunk: translation -->
 <teacher_script pause="0">
-Đây là bản dịch tham khảo. Các em hãy so sánh với bài dịch của mình nhé.
+Ok đây là bản dịch tham khảo nè. So với bài dịch của mình xem đúng chưa nha.
 </teacher_script>
 
 <translation>
@@ -97,7 +97,7 @@ Các em hãy sửa lại nếu có chỗ nào chưa đúng nhé.
 ### Bài 2 trang 17 - Put a word from the conversation in each gap
 
 <teacher_script pause="60">
-Chúng ta cùng làm Bài 2 <eng>Put a word from the conversation in each gap</eng>. Các em hãy đọc lại đoạn hội thoại và điền từ thích hợp vào chỗ trống. Các em có 1 phút.
+Bài 2 <eng>Put a word from the conversation in each gap</eng> nè. Đọc lại hội thoại rồi điền từ vô chỗ trống đi. 1 phút nha.
 </teacher_script>
 
 <task>
@@ -185,7 +185,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 ### Bài 3 trang 17 - Name these sports and games
 
 <teacher_script pause="45">
-Chúng ta cùng chuyển sang Bài 3 <eng>Name these sports and games</eng>. Các em hãy nhìn tranh và chọn từ trong khung để điền tên các môn thể thao. Các em có 45 giây.
+Bài 3 <eng>Name these sports and games</eng> nha. Nhìn tranh rồi chọn từ trong khung điền tên các môn thể thao đi. 45 giây thôi.
 </teacher_script>
 
 <task>
@@ -269,7 +269,7 @@ Các em hãy kiểm tra và sửa bài nhé.
 ### Bài 4 trang 17 - Work in pairs
 
 <teacher_script pause="0">
-Chúng ta cùng làm Bài 4 <eng>Work in pairs</eng>. Các em hãy làm việc theo cặp, hỏi và trả lời các câu hỏi để xem mình có yêu thích thể thao không nhé.
+Bài 4 <eng>Work in pairs</eng> nha. Làm theo cặp, hỏi đáp xem mình có thích thể thao không đi.
 </teacher_script>
 
 <task>
@@ -306,7 +306,7 @@ Các em hãy bấm nút Ghi âm để thực hiện bài nói và gửi cho th�
 
 <!-- chunk: end -->
 <teacher_script pause="0">
-Bài học hôm nay kết thúc tại đây. Các em về nhà nhớ học thuộc từ vựng về thể thao và phân biệt cách dùng <eng>do</eng>, <eng>play</eng> với <eng>sports</eng> nhé.
+Hết bài rồi nha. Về nhà học thuộc từ vựng về thể thao và nhớ phân biệt <eng>do</eng>, <eng>play</eng> với <eng>sports</eng> đó.
 </teacher_script>
 
 <grammar>
@@ -324,5 +324,5 @@ Mẹo nhớ: <eng>DO</eng> dùng cho những môn tập cá nhân như võ, yoga
 </teacher_script>
 
 <teacher_script pause="0">
-Bài học tiếp theo chúng ta sẽ học phần <eng>A Closer Look 1</eng>. Hẹn gặp lại các em.
+Bài tiếp theo là <eng>A Closer Look 1</eng>. Hẹn gặp lại nha!
 </teacher_script>

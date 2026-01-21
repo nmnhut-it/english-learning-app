@@ -4,11 +4,11 @@
 
 <!-- chunk: intro -->
 <teacher_script pause="0">
-Chào các em. Mời các em mở sách giáo khoa trang 21. Bài học hôm nay là <eng>Communication</eng>.
+Ok lớp 6, bài <eng>Communication</eng> nha. Mở sách trang 21 đi.
 </teacher_script>
 
 <teacher_script pause="0">
-Hôm nay chúng ta sẽ học về cách chúc mừng - <eng>Congratulations</eng> và cách hỏi đáp về chủ đề thể thao nhé.
+Hôm nay học cách chúc mừng - <eng>Congratulations</eng> và hỏi đáp về thể thao luôn. Bài này thực tế lắm á!
 </teacher_script>
 
 ---
@@ -33,11 +33,15 @@ Hôm nay chúng ta sẽ học về cách chúc mừng - <eng>Congratulations</en
 </grammar>
 
 <teacher_script pause="0">
-Cấu trúc rất đơn giản. Khi ai đó đạt được thành tích gì, chúng ta nói <eng>Congratulations!</eng> để chúc mừng. Người được chúc mừng sẽ đáp lại bằng <eng>Thank you!</eng>
+<eng>Congratulations!</eng> - Chúc mừng! Khi bạn của mình thắng trận, đỗ đại học, hay đạt được thành tích gì đó thì nói <eng>Congratulations!</eng> nha.
+</teacher_script>
+
+<teacher_script pause="0">
+Người được chúc mừng đáp lại sao? Đơn giản là <eng>Thank you!</eng> - Cảm ơn! thôi. Hoặc lịch sự hơn thì nói <eng>It's very kind of you</eng> - Bạn thật tốt.
 </teacher_script>
 
 <teacher_script pause="30">
-Các em hãy ghi lại các cấu trúc này vào vở nhé. Các em có 30 giây.
+Ghi vô tập: Chúc mừng = <eng>Congratulations!</eng>, Đáp lại = <eng>Thank you!</eng> 30 giây nha.
 </teacher_script>
 
 ---
@@ -46,7 +50,7 @@ Các em hãy ghi lại các cấu trúc này vào vở nhé. Các em có 30 giâ
 ### Bài 1 trang 21 - Listen and read
 
 <teacher_script pause="0">
-Chúng ta cùng làm Bài 1 <eng>Listen and read the short conversation</eng>. Các em hãy nghe và đọc đoạn hội thoại ngắn, chú ý những phần được làm nổi bật nhé.
+Bài 1 <eng>Listen and read the short conversation</eng> nha. Nghe rồi đọc theo hội thoại, chú ý phần in đậm nè.
 </teacher_script>
 
 <audio src="https://img.loigiaihay.com/picture/2021/1104/u8-communication-ex1.mp3">
@@ -72,7 +76,7 @@ Trong đoạn hội thoại, khi Dương thông báo đã thắng trận bóng b
 ### Bài 2 trang 21 - Work in pairs
 
 <teacher_script pause="0">
-Chúng ta cùng làm Bài 2 <eng>Work in pairs</eng>. Các em hãy tạo một đoạn hội thoại tương tự. Một bạn đóng vai người chiến thắng một cuộc thi, bạn còn lại sẽ chúc mừng nhé.
+Bài 2 <eng>Work in pairs</eng> nha. Làm theo cặp đi. Một bạn đóng vai người thắng cuộc thi, bạn còn lại chúc mừng.
 </teacher_script>
 
 <task>
@@ -93,7 +97,7 @@ Chúng ta cùng làm Bài 2 <eng>Work in pairs</eng>. Các em hãy tạo một �
 </dialogue>
 
 <teacher_script pause="60">
-Các em hãy viết hội thoại của mình vào vở. Các em có 1 phút.
+Viết hội thoại của mình vô vở đi. 1 phút nha. Nhớ dùng <eng>Congratulations!</eng> và <eng>Thank you!</eng>.
 </teacher_script>
 
 <teacher_script pause="0" action="record">
@@ -106,7 +110,7 @@ Các em hãy bấm nút Ghi âm để thực hành đoạn hội thoại và g�
 ### Bài 3 trang 21 - Sports Quiz
 
 <teacher_script pause="90">
-Chúng ta cùng làm Bài 3 <eng>Sports Quiz</eng>. Các em hãy làm việc theo cặp và trả lời các câu đố về thể thao. Các em có 1 phút 30 giây.
+Bài 3 <eng>Sports Quiz</eng> nè - Câu đố thể thao! Làm theo cặp rồi trả lời câu hỏi đi. 1 phút 30 giây. Xem mình biết bao nhiêu về thể thao nha.
 </teacher_script>
 
 <task>
@@ -200,7 +204,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 ### Bài 4 trang 21 - Interview your partners
 
 <teacher_script pause="0">
-Chúng ta cùng làm Bài 4 <eng>Interview your partners</eng>. Các em hãy làm việc theo nhóm, phỏng vấn các bạn trong nhóm về chủ đề thể thao.
+Bài 4 <eng>Interview your partners</eng> nha. Làm theo nhóm, phỏng vấn bạn về thể thao đi. Hỏi như phóng viên vậy á!
 </teacher_script>
 
 <task>
@@ -242,7 +246,7 @@ Các em hãy ghi âm câu trả lời cho 6 câu hỏi về thói quen thể tha
 
 <!-- chunk: end -->
 <teacher_script pause="0">
-Bài học hôm nay kết thúc tại đây. Các em hãy ghi nhớ:
+Hết bài rồi nha. Nhớ kỹ:
 </teacher_script>
 
 <grammar>
@@ -258,5 +262,5 @@ Bài học hôm nay kết thúc tại đây. Các em hãy ghi nhớ:
 </grammar>
 
 <teacher_script pause="0">
-Bài học tiếp theo là <eng>Skills 1</eng>, chúng ta sẽ luyện kỹ năng đọc và nói về vua bóng đá Pelé. Hẹn gặp lại các em!
+Bài tiếp theo là <eng>Skills 1</eng>, luyện đọc và nói về vua bóng đá Pelé nha. Hẹn gặp lại!
 </teacher_script>

@@ -4,7 +4,7 @@
 
 <!-- chunk: intro -->
 <teacher_script pause="0">
-Chào các em. Mời các em mở sách giáo khoa trang 85. Hôm nay chúng ta qua phần <eng>A Closer Look 2</eng>, tìm hiểu về ngữ pháp chỉ sự tương phản với các từ <eng>Although, Though</eng> và <eng>However</eng>.
+Ok lớp 7, <eng>A Closer Look 2</eng> nha. Mở sách trang 85 đi. Hôm nay học về ngữ pháp chỉ sự tương phản với <eng>Although, Though</eng> và <eng>However</eng>. Nghe khó mà dễ lắm á!
 </teacher_script>
 
 ---
@@ -579,5 +579,5 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé. 
 
 <!-- chunk: end -->
 <teacher_script pause="0">
-Bài học hôm nay kết thúc tại đây. Các em hãy ghi nhớ cách dùng của <eng>Although, Though</eng> và <eng>However</eng> nhé. Hẹn gặp lại các em!
+Hết bài rồi nha. Nhớ kỹ: <eng>Although</eng> nối hai mệnh đề trong một câu, còn <eng>However</eng> đứng sau dấu chấm. Hẹn gặp lại!
 </teacher_script>

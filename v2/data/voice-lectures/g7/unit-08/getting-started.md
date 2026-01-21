@@ -4,11 +4,11 @@
 
 <!-- chunk: intro -->
 <teacher_script pause="0">
-Chào các em. Mời các em mở sách giáo khoa trang 82. Hôm nay chúng ta sẽ bắt đầu Unit 8 với chủ đề <eng>Films</eng> - Phim ảnh.
+Ok lớp 7, Unit 8 nha. Mở sách trang 82 đi. Chủ đề hôm nay là <eng>Films</eng> - Phim ảnh. Nghe hay hen!
 </teacher_script>
 
 <teacher_script pause="0">
-Bài <eng>Getting Started</eng> hôm nay có tựa đề <eng>Let's go to the cinema tonight!</eng> - Tối nay chúng ta đi xem phim nhé!
+Bài <eng>Getting Started</eng> có tựa đề <eng>Let's go to the cinema tonight!</eng> - Tối nay đi xem phim nhé! Ai thích xem phim không?
 </teacher_script>
 
 ---
@@ -33,7 +33,7 @@ Bài <eng>Getting Started</eng> hôm nay có tựa đề <eng>Let's go to the ci
 ### Bài 1 trang 82 - Listen and read
 
 <teacher_script pause="0">
-Chúng ta cùng làm Bài 1 <eng>Listen and read</eng>. Các em hãy nghe và đọc theo đoạn hội thoại giữa Mark và Mi. Hai bạn đang bàn về việc đi xem phim.
+Bài 1 <eng>Listen and read</eng> nha. Nghe rồi đọc theo hội thoại giữa Mark và Mi đi. Hai bạn đang bàn chuyện đi xem phim đó.
 </teacher_script>
 
 <audio src="https://img.loigiaihay.com/picture/2022/0815/054.mp3">
@@ -59,14 +59,14 @@ Chúng ta cùng làm Bài 1 <eng>Listen and read</eng>. Các em hãy nghe và đ
 </dialogue>
 
 <teacher_script pause="180">
-Các em hãy đọc thầm và dịch đoạn hội thoại trong 3 phút nhé.
+Đọc thầm rồi dịch hội thoại vô vở đi. 3 phút nha. Chú ý các loại phim và tính từ mô tả phim luôn.
 </teacher_script>
 
 ---
 
 <!-- chunk: translation -->
 <teacher_script pause="0">
-Sau đây là bản dịch tham khảo. Các em hãy so sánh với bài dịch của mình nhé.
+Ok đây là bản dịch tham khảo nè. So với bài dịch của mình xem đúng chưa nha.
 </teacher_script>
 
 <translation>
@@ -93,7 +93,7 @@ Sau đây là bản dịch tham khảo. Các em hãy so sánh với bài dịch 
 ### Bài 2 trang 83 - Read and answer
 
 <teacher_script pause="60">
-Chúng ta cùng làm Bài 2 <eng>Read the conversation again and choose the correct answer</eng>. Các em hãy đọc lại đoạn hội thoại và chọn câu trả lời đúng. Các em có 1 phút.
+Bài 2 <eng>Read the conversation again and choose the correct answer</eng> nha. Đọc lại hội thoại rồi chọn câu trả lời đúng đi. 1 phút. Tìm thông tin trong hội thoại là có đáp án liền á.
 </teacher_script>
 
 <task>
@@ -168,7 +168,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 ### Bài 3 trang 83 - Types of film
 
 <teacher_script pause="60">
-Chúng ta cùng làm Bài 3 <eng>Choose the correct word or phrase</eng>. Các em hãy chọn từ hoặc cụm từ đúng để hoàn thành câu. Các em có 1 phút.
+Bài 3 <eng>Choose the correct word or phrase</eng> nha. Chọn từ hoặc cụm từ đúng để hoàn thành câu đi. 1 phút. Nhớ các loại phim: comedy, horror, documentary...
 </teacher_script>
 
 <task>
@@ -243,7 +243,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 ### Bài 4 trang 83 - Adjectives describing films
 
 <teacher_script pause="60">
-Chúng ta cùng làm Bài 4 <eng>Complete the sentences</eng>. Các em hãy chọn tính từ trong khung để hoàn thành các câu. Các em có 1 phút.
+Bài 4 <eng>Complete the sentences</eng> nha. Chọn tính từ trong khung để hoàn thành câu đi. 1 phút. Nhớ tính từ miêu tả phim: funny, boring, frightening, moving, interesting.
 </teacher_script>
 
 <task>
@@ -311,7 +311,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 ### Bài 5 trang 83 - Ask and answer
 
 <teacher_script pause="0">
-Chúng ta cùng làm Bài 5 <eng>Ask and answer</eng>. Các em hãy luyện tập theo cặp, hỏi và trả lời về các loại phim mà mình thích hoặc không thích.
+Bài 5 <eng>Ask and answer</eng> nha. Luyện tập theo cặp, hỏi đáp về các loại phim mình thích hoặc không thích đi.
 </teacher_script>
 
 <dialogue>
@@ -330,5 +330,5 @@ Các em hãy bấm ghi âm câu trả lời của mình về một loại phim m
 
 <!-- chunk: end -->
 <teacher_script pause="0">
-Bài học hôm nay kết thúc tại đây. Các em hãy ôn lại từ vựng về các loại phim và các tính từ miêu tả cảm xúc nhé. Hẹn gặp lại các em ở bài sau!
+Hết bài rồi nha. Về nhà ôn lại từ vựng về các loại phim và tính từ miêu tả cảm xúc đi. Hẹn gặp lại ở bài sau!
 </teacher_script>

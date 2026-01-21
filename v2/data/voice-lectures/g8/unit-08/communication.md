@@ -3,8 +3,8 @@
 ## COMMUNICATION
 
 <!-- chunk: intro -->
-<teacher_script pause="0" href="audio/tts_fd00461e.mp3">
-Chào các em. Chào mừng các em đến với bài học hôm nay. Mời các em mở sách giáo khoa.
+<teacher_script pause="0">
+Ok lớp 8, qua bài <eng>Communication</eng> nha. Mở sách trang 87 đi. Hôm nay học cách phàn nàn khi mua đồ không ưng ý.
 </teacher_script>
 
 ---
@@ -12,8 +12,8 @@ Chào các em. Chào mừng các em đến với bài học hôm nay. Mời các
 <!-- chunk: everyday_english -->
 ### Everyday English - Making complaints
 
-<teacher_script pause="0" href="audio/tts_c08c1d7b.mp3">
-Bây giờ các em sẽ nghe một đoạn băng. Hãy chú ý lắng nghe để tìm thông tin trả lời câu hỏi.
+<teacher_script pause="0">
+Bài 1 <eng>Listen and read</eng> nha. Nghe Tom gọi điện phàn nàn về ba lô đi. Chú ý mấy câu in đậm nha.
 </teacher_script>
 
 <audio src="https://img.loigiaihay.com/picture/2023/0616/track-49.mp3">
@@ -44,13 +44,21 @@ Bây giờ các em sẽ nghe một đoạn băng. Hãy chú ý lắng nghe để
 - I'll send you another one/refund... (Tôi sẽ gửi cái khác/hoàn tiền...)
 </grammar>
 
+<teacher_script pause="0">
+Khi mua đồ bị lỗi hay không vừa ý, mình có thể phàn nàn lịch sự nha. Dùng <eng>I'm calling to make a complaint about...</eng> hoặc <eng>I'm not happy with...</eng>. Người bán sẽ xin lỗi và giải quyết cho mình.
+</teacher_script>
+
+<teacher_script pause="30">
+Ghi vô tập: Phàn nàn = I'm calling to make a complaint about... / I'm not happy with... Trả lời = I'm sorry about that. / Let me check. 30 giây nha.
+</teacher_script>
+
 ---
 
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 87 - Role-play complaints
 
-<teacher_script pause="0" href="audio/tts_6273c698.mp3">
-Bây giờ là phần thực hành nói. Các em hãy luyện tập theo cặp hoặc theo nhóm nhé.
+<teacher_script pause="0">
+Bài 2 <eng>Role-play</eng> nha. Đóng vai phàn nàn theo tình huống đi. Xem ví dụ bên dưới.
 </teacher_script>
 
 <task>
@@ -69,8 +77,8 @@ Bây giờ là phần thực hành nói. Các em hãy luyện tập theo cặp h
 **B:** I'm really sorry. I will talk to her.
 </dialogue>
 
-<teacher_script pause="0" action="record" href="audio/tts_508f13d8.mp3">
-Các em hãy ghi âm phần luyện tập của mình và gửi cho thầy nhé.
+<teacher_script pause="0" action="record">
+Ghi âm đóng vai phàn nàn và gửi cho thầy nha.
 </teacher_script>
 
 ---
@@ -78,8 +86,8 @@ Các em hãy ghi âm phần luyện tập của mình và gửi cho thầy nhé.
 <!-- chunk: exercise_3 -->
 ### Bài 3 trang 87 - Listen and tick
 
-<teacher_script pause="60" href="audio/tts_c08c1d7b.mp3">
-Bây giờ các em sẽ nghe một đoạn băng. Hãy chú ý lắng nghe để tìm thông tin trả lời câu hỏi.
+<teacher_script pause="60">
+Bài 3 <eng>Listen and tick</eng> nha. Nghe rồi đánh dấu địa điểm mua sắm yêu thích của mỗi người đi. 1 phút.
 </teacher_script>
 
 <audio src="https://img.loigiaihay.com/picture/2023/0616/track-50.mp3">
@@ -109,8 +117,12 @@ Bây giờ các em sẽ nghe một đoạn băng. Hãy chú ý lắng nghe để
 - Alice thích giá rẻ ở discount shop.
 </explanation>
 
-<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
-Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
+<teacher_script pause="0">
+Mai thích chợ trời vì sản phẩm nhà trồng. Nam thích cửa hàng tiện lợi vì tiết kiệm thời gian. Alice thích discount shop vì giá rẻ.
+</teacher_script>
+
+<teacher_script pause="30">
+Sửa lỗi sai vô bài làm nếu có nha.
 </teacher_script>
 
 ---
@@ -118,8 +130,8 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 <!-- chunk: exercise_4 -->
 ### Bài 4 trang 87 - Ask and answer
 
-<teacher_script pause="0" href="audio/tts_6273c698.mp3">
-Bây giờ là phần thực hành nói. Các em hãy luyện tập theo cặp hoặc theo nhóm nhé.
+<teacher_script pause="0">
+Bài 4 <eng>Ask and answer</eng> nha. Hỏi đáp về lý do thích địa điểm mua sắm đi.
 </teacher_script>
 
 <dialogue>
@@ -133,6 +145,6 @@ Bây giờ là phần thực hành nói. Các em hãy luyện tập theo cặp h
 ---
 
 <!-- chunk: end -->
-<teacher_script pause="0" href="audio/tts_ba688992.mp3">
-Bài học hôm nay kết thúc tại đây. Các em nhớ ôn bài và chuẩn bị cho bài học tiếp theo. Tạm biệt các em.
+<teacher_script pause="0">
+Hết bài rồi nha. Nhớ cách phàn nàn lịch sự nha. Bài tiếp theo là <eng>Skills 1</eng> - Đọc về trung tâm mua sắm. Hẹn gặp lại!
 </teacher_script>

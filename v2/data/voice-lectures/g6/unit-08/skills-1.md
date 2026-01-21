@@ -4,11 +4,11 @@
 
 <!-- chunk: intro -->
 <teacher_script pause="0">
-Chào các em. Mời các em mở sách giáo khoa trang 22. Bài học hôm nay là <eng>Skills 1</eng>, chúng ta sẽ luyện kỹ năng Đọc và Nói.
+Ok lớp 6, <eng>Skills 1</eng> nha. Mở sách trang 22 đi. Hôm nay luyện đọc và nói luôn.
 </teacher_script>
 
 <teacher_script pause="0">
-Trong bài học này, chúng ta sẽ đọc về Pelé - Vua bóng đá, và sau đó thực hành nói về các vận động viên nổi tiếng khác.
+Hôm nay học về Pelé - Vua bóng đá á! Sau đó tập nói về các vận động viên nổi tiếng khác nha. Hay lắm đó!
 </teacher_script>
 
 ---
@@ -37,7 +37,7 @@ Trong bài học này, chúng ta sẽ đọc về Pelé - Vua bóng đá, và sa
 ### Bài 1 trang 22 - Work in pairs
 
 <teacher_script pause="30">
-Chúng ta cùng làm Bài 1 <eng>Work in pairs</eng>. Các em hãy làm việc theo cặp và thảo luận những điều mình biết về Pelé. Các em có 30 giây.
+Bài 1 <eng>Work in pairs</eng> nha. Làm theo cặp, thảo luận xem mình biết gì về Pelé đi. 30 giây. Ai biết nhiều hơn nào?
 </teacher_script>
 
 <task>
@@ -69,7 +69,7 @@ Chúng ta cùng làm Bài 1 <eng>Work in pairs</eng>. Các em hãy làm việc t
 ### Bài 2 trang 22 - Read the dialogue
 
 <teacher_script pause="0">
-Chúng ta cùng làm Bài 2 <eng>Read the dialogue</eng>. Các em hãy đọc nhanh đoạn hội thoại về Pelé.
+Bài 2 <eng>Read the dialogue</eng> nha. Đọc nhanh hội thoại về Pelé đi. Cô giáo đang nói với học sinh về vua bóng đá đó.
 </teacher_script>
 
 <task>
@@ -96,7 +96,7 @@ Chúng ta cùng làm Bài 2 <eng>Read the dialogue</eng>. Các em hãy đọc nh
 </reading>
 
 <teacher_script pause="90">
-Các em hãy đọc và dịch đoạn hội thoại này vào vở. Các em có 1 phút 30 giây.
+Đọc rồi dịch hội thoại vô vở đi. 1 phút 30 giây nha. Chú ý các số liệu về Pelé luôn.
 </teacher_script>
 
 ---
@@ -105,7 +105,7 @@ Các em hãy đọc và dịch đoạn hội thoại này vào vở. Các em có
 ### Bài 3 trang 22 - Answer the questions
 
 <teacher_script pause="90">
-Chúng ta cùng làm Bài 3 <eng>Answer the questions</eng>. Các em hãy đọc lại bài khóa và trả lời các câu hỏi. Các em có 1 phút 30 giây.
+Bài 3 <eng>Answer the questions</eng> nha. Đọc lại bài rồi trả lời câu hỏi đi. 1 phút 30 giây. Tìm thông tin trong hội thoại là có đáp án liền á.
 </teacher_script>
 
 <task>
@@ -167,7 +167,7 @@ Chúng ta cùng làm Bài 3 <eng>Answer the questions</eng>. Các em hãy đọc
 </explanation>
 
 <teacher_script pause="0">
-1.281 bàn thắng là một kỷ lục vô cùng ấn tượng. Tính trung bình, mỗi năm ông ghi hơn 50 bàn thắng. Chính vì vậy, ông được mệnh danh là "Vua bóng đá".
+1.281 bàn thắng á! Kỷ lục khủng luôn nha. Tính ra mỗi năm ông ghi hơn 50 bàn. Cho nên người ta gọi ông là "Vua bóng đá" đó.
 </teacher_script>
 
 <teacher_script pause="30" href="audio/tts_75ebc937.mp3">
@@ -180,7 +180,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 ### SPEAKING - Talk about a sportsperson
 
 <teacher_script pause="0">
-Chúng ta cùng chuyển sang phần <eng>Speaking</eng>. Chúng ta sẽ luyện nói về các vận động viên nổi tiếng.
+Qua phần <eng>Speaking</eng> nha. Tập nói về các vận động viên nổi tiếng đi. Nói giống như giới thiệu một ngôi sao thể thao vậy á.
 </teacher_script>
 
 ---
@@ -189,7 +189,7 @@ Chúng ta cùng chuyển sang phần <eng>Speaking</eng>. Chúng ta sẽ luyện
 ### Bài 4 trang 22 - Read the facts
 
 <teacher_script pause="0">
-Chúng ta cùng làm Bài 4 <eng>Read the facts</eng>. Các em hãy đọc thông tin về hai vận động viên nổi tiếng dưới đây.
+Bài 4 <eng>Read the facts</eng> nha. Đọc thông tin về hai vận động viên nổi tiếng đi. Một người Việt Nam, một người nước ngoài đó.
 </teacher_script>
 
 <task>
@@ -234,7 +234,7 @@ Chúng ta cùng làm Bài 4 <eng>Read the facts</eng>. Các em hãy đọc thôn
 ### Bài 5 trang 22 - Talk about a sportsperson
 
 <teacher_script pause="0">
-Chúng ta cùng làm Bài 5 <eng>Talk about a sportsperson</eng>. Các em hãy chọn một trong hai vận động viên ở bài 4 và nói về người đó.
+Bài 5 <eng>Talk about a sportsperson</eng> nha. Chọn một trong hai vận động viên ở bài 4 rồi nói về người đó đi. Dùng các cấu trúc gợi ý bên dưới nha.
 </teacher_script>
 
 <task>
@@ -267,7 +267,7 @@ Her name is Jenny Green. She was born in 1972 in Greenland. She plays golf. She 
 </dialogue>
 
 <teacher_script pause="120">
-Các em hãy viết bài nói về một vận động viên vào vở. Các em có 2 phút.
+Viết bài nói về một vận động viên vô vở đi. 2 phút nha. Nhớ nói tên, năm sinh, môn thể thao, tại sao nổi tiếng, và mình thích hay không.
 </teacher_script>
 
 <teacher_script pause="0" action="record">
@@ -278,7 +278,7 @@ Các em hãy bấm nút Ghi âm để thực hiện bài nói về vận động
 
 <!-- chunk: end -->
 <teacher_script pause="0">
-Bài học hôm nay kết thúc tại đây. Các em về nhà hãy học thuộc những thông tin thú vị về huyền thoại bóng đá Pelé nhé.
+Hết bài rồi nha. Về nhà nhớ học thuộc thông tin về Pelé đi. Năm sinh, số bàn thắng, biệt danh... đề thi hay hỏi lắm đó!
 </teacher_script>
 
 <grammar>
@@ -293,5 +293,5 @@ Bài học hôm nay kết thúc tại đây. Các em về nhà hãy học thuộ
 </grammar>
 
 <teacher_script pause="0">
-Bài học tiếp theo là <eng>Skills 2</eng>, chúng ta sẽ luyện kỹ năng Nghe và Viết. Hẹn gặp lại các em!
+Bài tiếp theo là <eng>Skills 2</eng>, luyện nghe và viết luôn. Hẹn gặp lại nha!
 </teacher_script>

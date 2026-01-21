@@ -3,8 +3,8 @@
 ## A CLOSER LOOK 1 - Vocabulary & Pronunciation
 
 <!-- chunk: intro -->
-<teacher_script pause="0" href="audio/tts_fd00461e.mp3">
-Chào các em. Chào mừng các em đến với bài học hôm nay. Mời các em mở sách giáo khoa.
+<teacher_script pause="0">
+Ok lớp 8, qua bài <eng>A Closer Look 1</eng> nha. Mở sách trang 84 đi. Hôm nay học thêm từ vựng về mua sắm và phát âm /sp/, /st/.
 </teacher_script>
 
 ---
@@ -22,8 +22,8 @@ Chào các em. Chào mừng các em đến với bài học hôm nay. Mời các
 8. **range of products** : (n) nhiều loại sản phẩm /reɪndʒ əv ˈprɒdʌkts/
 </vocabulary>
 
-<teacher_script pause="0" href="audio/tts_c0841176.mp3">
-Chúng ta cùng học từ vựng mới. Các em hãy nghe và lặp lại theo mẫu nhé.
+<teacher_script pause="0">
+Học từ vựng mới đi. Nghe và đọc theo nha. <eng>Shopaholic</eng> là người nghiện mua sắm - đi shopping hoài đó!
 </teacher_script>
 
 ---
@@ -31,8 +31,8 @@ Chúng ta cùng học từ vựng mới. Các em hãy nghe và lặp lại theo 
 <!-- chunk: exercise_1 -->
 ### Bài 1 trang 84 - Word and Pictures
 
-<teacher_script pause="60" href="audio/tts_d5b1d729.mp3">
-Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
+<teacher_script pause="60">
+Bài 1 <eng>Match</eng> nha. Nhìn hình rồi chọn từ đúng đi. 1 phút nha.
 </teacher_script>
 
 <task>
@@ -53,8 +53,12 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 5. Internet access
 </answer>
 
-<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
-Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
+<teacher_script pause="0">
+<eng>Price tag</eng> là nhãn giá gắn trên sản phẩm. <eng>Shopaholic</eng> là người nghiện mua sắm. <eng>On sale</eng> là đang giảm giá. <eng>Browsing</eng> là lướt xem hàng. <eng>Internet access</eng> là kết nối Internet.
+</teacher_script>
+
+<teacher_script pause="30">
+Sửa lỗi sai vô bài làm nếu có nha.
 </teacher_script>
 
 ---
@@ -62,8 +66,8 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 84 - Match shopping places
 
-<teacher_script pause="60" href="audio/tts_d5b1d729.mp3">
-Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
+<teacher_script pause="60">
+Bài 2 <eng>Match</eng> nha. Nối loại cửa hàng với đặc điểm của nó đi. 1 phút nha.
 </teacher_script>
 
 <task>
@@ -95,8 +99,8 @@ e. Offers one or two specific kinds of goods.
 5-c: open-air market (chợ trời) - outdoor, bargain.
 </explanation>
 
-<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
-Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
+<teacher_script pause="30">
+Sửa lỗi sai vô bài làm nếu có nha.
 </teacher_script>
 
 ---
@@ -104,8 +108,8 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 <!-- chunk: exercise_3 -->
 ### Bài 3 trang 84 - Complete sentences
 
-<teacher_script pause="60" href="audio/tts_d5b1d729.mp3">
-Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
+<teacher_script pause="60">
+Bài 3 <eng>Complete</eng> nha. Điền từ vô chỗ trống đi. 1 phút nha.
 </teacher_script>
 
 <questions type="fill_blanks">
@@ -122,8 +126,8 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 **Đáp án:** 1. speciality shops | 2. browsing | 3. bargain | 4. range of products | 5. shopaholic
 </answer>
 
-<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
-Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
+<teacher_script pause="30">
+Sửa lỗi sai vô bài làm nếu có nha.
 </teacher_script>
 
 ---
@@ -131,8 +135,12 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 <!-- chunk: pronunciation -->
 ### Bài 4 trang 84 - Pronunciation /sp/ & /st/
 
-<teacher_script pause="0" href="audio/tts_9546697f.mp3">
-Các em nghe và thực hành theo nhé.
+<teacher_script pause="0">
+Bài 4 <eng>Pronunciation</eng> nha. Hôm nay học phát âm /sp/ và /st/. Hai âm này rất phổ biến trong tiếng Anh á.
+</teacher_script>
+
+<teacher_script pause="0">
+Âm /sp/: Đọc nhanh liền mạch, như trong <eng>spend, space, respect</eng>. Âm /st/: Cũng đọc liền mạch, như trong <eng>stall, staff, waste</eng>. Chú ý đừng thêm âm gì vào giữa nha!
 </teacher_script>
 
 <audio src="https://img.loigiaihay.com/picture/2023/0616/track-47.mp3">
@@ -149,8 +157,8 @@ Các em nghe và thực hành theo nhé.
 <!-- chunk: exercise_5 -->
 ### Bài 5 trang 84 - Listen and repeat sentences
 
-<teacher_script pause="0" href="audio/tts_9546697f.mp3">
-Các em nghe và thực hành theo nhé.
+<teacher_script pause="0">
+Bài 5 nghe và đọc theo câu nha. Chú ý các từ có /sp/ và /st/ trong câu đi.
 </teacher_script>
 
 <audio src="https://img.loigiaihay.com/picture/2023/0616/track-48.mp3">
@@ -165,8 +173,8 @@ Các em nghe và thực hành theo nhé.
 5. Tom **sp**ent half of his savings in that music **st**ore.
 </reading>
 
-<teacher_script pause="0" action="record" href="audio/tts_508f13d8.mp3">
-Các em hãy ghi âm phần luyện tập của mình và gửi cho thầy nhé.
+<teacher_script pause="0" action="record">
+Ghi âm phần luyện tập và gửi cho thầy nha.
 </teacher_script>
 
 ---
@@ -397,6 +405,6 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 ---
 
 <!-- chunk: end -->
-<teacher_script pause="0" href="audio/tts_ba688992.mp3">
-Bài học hôm nay kết thúc tại đây. Các em nhớ ôn bài và chuẩn bị cho bài học tiếp theo. Tạm biệt các em.
+<teacher_script pause="0">
+Hết bài rồi nha. Nhớ từ vựng mua sắm và phát âm /sp/, /st/ nha. Bài tiếp theo là <eng>A Closer Look 2</eng> - Ngữ pháp. Hẹn gặp lại!
 </teacher_script>
