@@ -4,7 +4,7 @@
 
 <!-- chunk: intro -->
 <teacher_script pause="0">
-Chào các em. Mời các em mở sách giáo khoa trang 23. Bài học hôm nay là <eng>Skills 2</eng>, chúng ta sẽ luyện kỹ năng Nghe và Viết.
+Ok lớp 6, <eng>Skills 2</eng> nha. Mở sách trang 23 đi. Hôm nay luyện nghe và viết luôn.
 </teacher_script>
 
 ---
@@ -30,7 +30,7 @@ Chào các em. Mời các em mở sách giáo khoa trang 23. Bài học hôm nay
 ### Bài 1 trang 23 - Listen to the passages
 
 <teacher_script pause="0">
-Chúng ta cùng làm Bài 1 <eng>Listen to the passages</eng>. Các em hãy lắng nghe các đoạn văn và trả lời câu hỏi: Các đoạn văn này nói về ai?
+Bài 1 <eng>Listen to the passages</eng> nha. Nghe các đoạn văn rồi trả lời: Đoạn văn nói về ai? Chú ý tên người nha.
 </teacher_script>
 
 <audio src="https://img.loigiaihay.com/picture/2021/1104/u8-skills2-ex1.mp3">
@@ -43,7 +43,7 @@ Chúng ta cùng làm Bài 1 <eng>Listen to the passages</eng>. Các em hãy lắ
 </task>
 
 <teacher_script pause="60">
-Các em hãy nghe audio và tìm câu trả lời. Các em có 1 phút.
+Nghe audio rồi tìm câu trả lời đi. 1 phút nha. Nghe tên nhân vật là biết liền á.
 </teacher_script>
 
 <answer>
@@ -54,7 +54,7 @@ Các em hãy nghe audio và tìm câu trả lời. Các em có 1 phút.
 
 <!-- chunk: transcript -->
 <teacher_script pause="0">
-Sau đây là nội dung chi tiết bài nghe. Các em hãy đọc lại để hiểu rõ hơn nhé.
+Ok đây là nội dung chi tiết bài nghe nè. Đọc lại để hiểu rõ hơn nha.
 </teacher_script>
 
 <reading>
@@ -86,7 +86,7 @@ Sau đây là nội dung chi tiết bài nghe. Các em hãy đọc lại để h
 ### Bài 2 trang 23 - True or False
 
 <teacher_script pause="60">
-Chúng ta cùng làm Bài 2 <eng>True or False</eng>. Các em hãy nghe lại và đánh dấu T (Đúng) hoặc F (Sai) cho mỗi câu. Các em có 1 phút.
+Bài 2 <eng>True or False</eng> nha. Nghe lại rồi đánh dấu T (Đúng) hoặc F (Sai) đi. 1 phút. Chú ý chi tiết trong bài nghe nha.
 </teacher_script>
 
 <audio src="https://img.loigiaihay.com/picture/2021/1104/u8-skills2-ex2.mp3">
@@ -166,7 +166,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 ### Bài 3 trang 23 - Fill in the blanks
 
 <teacher_script pause="45">
-Chúng ta cùng làm Bài 3 <eng>Fill in the blanks</eng>. Các em hãy nghe lại và điền từ thích hợp vào chỗ trống. Các em có 45 giây.
+Bài 3 <eng>Fill in the blanks</eng> nha. Nghe lại rồi điền từ vô chỗ trống đi. 45 giây. Từ cần điền đều có trong bài nghe hết á.
 </teacher_script>
 
 <audio src="https://img.loigiaihay.com/picture/2021/1104/u8-skills2-ex3.mp3">
@@ -215,7 +215,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 ### WRITING
 
 <teacher_script pause="0">
-Chúng ta cùng chuyển sang phần <eng>Writing</eng>. Chúng ta sẽ luyện viết về môn thể thao mà mình yêu thích.
+Qua phần <eng>Writing</eng> nha. Viết về môn thể thao mình yêu thích đi. Đây là kỹ năng quan trọng lắm đó!
 </teacher_script>
 
 ---
@@ -224,7 +224,7 @@ Chúng ta cùng chuyển sang phần <eng>Writing</eng>. Chúng ta sẽ luyện 
 ### Bài 4 trang 23 - Talk about the sport/game you like
 
 <teacher_script pause="0">
-Chúng ta cùng làm Bài 4 <eng>Talk about the sport you like</eng>. Các em hãy làm việc theo cặp và nói về môn thể thao mình thích.
+Bài 4 <eng>Talk about the sport you like</eng> nha. Làm theo cặp, nói về môn thể thao mình thích đi. Dùng các câu hỏi gợi ý bên dưới.
 </teacher_script>
 
 <task>
@@ -262,7 +262,7 @@ Chúng ta cùng làm Bài 4 <eng>Talk about the sport you like</eng>. Các em h�
 ### Bài 5 trang 23 - Write a paragraph
 
 <teacher_script pause="0">
-Chúng ta cùng làm Bài 5 <eng>Write a paragraph</eng>. Các em hãy viết một đoạn văn khoảng 40-50 từ về môn thể thao mình thích.
+Bài 5 <eng>Write a paragraph</eng> nha. Viết đoạn văn khoảng 40-50 từ về môn thể thao mình thích đi. Theo cấu trúc gợi ý bên dưới luôn.
 </teacher_script>
 
 <task>
@@ -297,7 +297,7 @@ Football is a fun sport. There are 11 players on each team. People play football
 </dialogue>
 
 <teacher_script pause="180">
-Các em hãy viết đoạn văn vào vở. Các em có 3 phút.
+Viết đoạn văn vô vở đi. 3 phút nha. Nhớ viết theo thứ tự: Tên môn - Số người chơi - Tần suất - Dụng cụ - Lý do thích.
 </teacher_script>
 
 <teacher_script pause="0" action="record">
@@ -308,9 +308,9 @@ Các em hãy bấm nút Ghi âm để đọc bài viết của mình và gửi c
 
 <!-- chunk: end -->
 <teacher_script pause="0">
-Bài học hôm nay kết thúc tại đây. Các em hãy nhớ cấu trúc của bài viết: Tên môn thể thao - Số người chơi - Tần suất - Dụng cụ - Lý do yêu thích.
+Hết bài rồi nha. Nhớ cấu trúc bài viết: Tên môn thể thao - Số người chơi - Tần suất - Dụng cụ - Lý do thích. Đề thi viết hay ra kiểu này lắm đó!
 </teacher_script>
 
 <teacher_script pause="0">
-Bài học tiếp theo là <eng>Looking Back</eng>, chúng ta sẽ ôn tập lại toàn bộ kiến thức của Unit 8. Hẹn gặp lại các em!
+Bài tiếp theo là <eng>Looking Back</eng>, ôn tập toàn bộ kiến thức Unit 8 luôn. Hẹn gặp lại nha!
 </teacher_script>

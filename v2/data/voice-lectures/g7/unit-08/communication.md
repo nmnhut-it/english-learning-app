@@ -4,7 +4,7 @@
 
 <!-- chunk: intro -->
 <teacher_script pause="0">
-Chào các em. Mời các em mở sách giáo khoa trang 86. Hôm nay chúng ta qua bài <eng>Communication</eng>. Bài học này sẽ giúp các em biết cách chấp nhận hoặc từ chối lời đề nghị và thực hiện khảo sát về phim.
+Ok lớp 7, qua bài <eng>Communication</eng> nha. Mở sách trang 86 đi. Hôm nay học cách đồng ý hoặc từ chối lời đề nghị rồi khảo sát về phim luôn.
 </teacher_script>
 
 ---
@@ -13,7 +13,7 @@ Chào các em. Mời các em mở sách giáo khoa trang 86. Hôm nay chúng ta 
 ### Bài 1 trang 86 - Accepting and declining suggestions
 
 <teacher_script pause="0">
-Chúng ta cùng làm Bài 1 <eng>Listen and read the conversations</eng>. Các em hãy nghe và đọc các đoạn hội thoại, chú ý đến những câu được tô đậm nhé.
+Bài 1 <eng>Listen and read the conversations</eng> nha. Nghe và đọc hội thoại, chú ý mấy câu in đậm đi.
 </teacher_script>
 
 <audio src="https://img.loigiaihay.com/picture/2022/0815/056_1.mp3">
@@ -52,13 +52,21 @@ Chúng ta cùng làm Bài 1 <eng>Listen and read the conversations</eng>. Các e
 - No, let's not.
 </grammar>
 
+<teacher_script pause="0">
+Quan trọng nè! Khi người ta đề nghị mình đi xem phim hay làm gì đó, mình có thể đồng ý hoặc từ chối. Đồng ý thì nói <eng>That's a great idea</eng> - Ý hay đó. Từ chối thì nói <eng>I'd love to, but...</eng> - Mình muốn lắm, nhưng... rồi đưa ra lý do. Lịch sự mà vẫn từ chối được á.
+</teacher_script>
+
+<teacher_script pause="30">
+Ghi vô tập: Đề nghị = How about/What about + V-ing? hoặc Let's + V. Đồng ý = That's a great idea. Từ chối = I'd love to, but + lý do. 30 giây nha.
+</teacher_script>
+
 ---
 
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 87 - Make similar conversations
 
 <teacher_script pause="0">
-Chúng ta cùng làm Bài 2 <eng>Make similar conversations</eng>. Các em hãy thực hành theo cặp, tự tạo các đoạn hội thoại tương tự nhé. Ví dụ:
+Bài 2 <eng>Make similar conversations</eng> nha. Thực hành theo cặp, tự tạo hội thoại tương tự đi. Dưới đây là ví dụ.
 </teacher_script>
 
 <dialogue>
@@ -75,7 +83,7 @@ Chúng ta cùng làm Bài 2 <eng>Make similar conversations</eng>. Các em hãy 
 ### Bài 3 trang 87 - Listen and fill in the blanks
 
 <teacher_script pause="60">
-Chúng ta cùng làm Bài 3 <eng>Listen and fill in the blanks</eng>. Các em hãy nghe đoạn hội thoại và điền từ thích hợp vào chỗ trống. Các em có 1 phút.
+Bài 3 <eng>Listen and fill in the blanks</eng> nha. Nghe đoạn hội thoại về khảo sát phim rồi điền từ vô chỗ trống đi. 1 phút nha.
 </teacher_script>
 
 <audio src="https://img.loigiaihay.com/picture/2022/0815/058.mp3">
@@ -148,7 +156,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 ### Bài 4 trang 87 - Survey group members
 
 <teacher_script pause="0">
-Chúng ta cùng làm Bài 4 <eng>Survey group members</eng>. Các em hãy làm việc theo nhóm, hỏi các bạn trong nhóm về bộ phim yêu thích của họ, sử dụng các câu hỏi như trong Bài 3 nhé.
+Bài 4 <eng>Survey group members</eng> nha. Làm việc theo nhóm, hỏi các bạn về phim yêu thích của họ đi. Dùng mấy câu hỏi như Bài 3 luôn.
 </teacher_script>
 
 <dialogue>
@@ -167,5 +175,5 @@ Em hãy đóng vai người phỏng vấn, tự hỏi và trả lời về bộ 
 
 <!-- chunk: end -->
 <teacher_script pause="0">
-Bài học hôm nay kết thúc tại đây. Các em hãy ghi nhớ các mẫu câu đề nghị và cách hỏi về phim nhé. Hẹn gặp lại các em!
+Hết bài rồi nha. Nhớ mẫu câu đề nghị và cách từ chối lịch sự nha. Bài tiếp theo là <eng>Skills 1</eng> - Đọc và Nói về phim Harry Potter. Hẹn gặp lại!
 </teacher_script>

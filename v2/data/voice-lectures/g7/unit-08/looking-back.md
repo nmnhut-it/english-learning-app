@@ -4,7 +4,7 @@
 
 <!-- chunk: intro -->
 <teacher_script pause="0">
-Chào các em. Mời các em mở sách giáo khoa trang 90. Chúng ta sẽ làm bài cuối cùng của Unit 8: <eng>Looking Back</eng>. Bài học này sẽ giúp các em ôn tập lại từ vựng và ngữ pháp đã học.
+Ok lớp 7, qua bài cuối cùng của Unit 8: <eng>Looking Back</eng> nha. Mở sách trang 90 đi. Hôm nay ôn tập lại từ vựng và ngữ pháp đã học luôn.
 </teacher_script>
 
 ---
@@ -13,7 +13,7 @@ Chào các em. Mời các em mở sách giáo khoa trang 90. Chúng ta sẽ làm
 ### Bài 1 trang 90 - Match film types
 
 <teacher_script pause="60">
-Chúng ta cùng làm Bài 1 <eng>Match film types</eng>. Các em hãy nối các loại phim với định nghĩa tương ứng. Các em có 1 phút.
+Bài 1 <eng>Match film types</eng> nha. Nối loại phim ở cột A với định nghĩa ở cột B đi. 1 phút nha.
 </teacher_script>
 
 <task>
@@ -87,7 +87,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 ### Bài 3 trang 90 - Choose correct answer (Adjectives)
 
 <teacher_script pause="60">
-Chúng ta cùng làm Bài 3 <eng>Choose correct answer</eng>. Các em hãy chọn tính từ đúng để hoàn thành câu. Các em có 1 phút.
+Bài 3 <eng>Choose correct answer</eng> nha. Chọn tính từ đúng A, B hoặc C để hoàn thành câu đi. Nhớ mấy tính từ miêu tả phim đã học không? 1 phút nha.
 </teacher_script>
 
 <task>
@@ -169,7 +169,11 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 ### Bài 4 trang 90 - Grammar (Although/However)
 
 <teacher_script pause="60">
-Chúng ta cùng làm Bài 4 <eng>Grammar</eng>. Các em hãy nối các câu hoặc nửa câu ở cột A với cột B sử dụng <eng>Although</eng> hoặc <eng>However</eng>. Các em có 1 phút.
+Bài 4 <eng>Grammar</eng> nha. Ôn lại <eng>Although</eng> và <eng>However</eng> đi. Nối câu ở cột A với cột B sử dụng hai từ này. 1 phút nha.
+</teacher_script>
+
+<teacher_script pause="0">
+Nhắc lại nè: <eng>Although</eng> dùng nối hai mệnh đề trong cùng một câu, đứng đầu câu. Còn <eng>However</eng> thường đứng đầu câu thứ hai, có dấu chấm trước nó. Cả hai đều diễn tả ý nghĩa tương phản - mặc dù, tuy nhiên.
 </teacher_script>
 
 <task>
@@ -192,9 +196,6 @@ d. However, it is not a big success.
 e. many people still buy them.
 </questions>
 
-<teacher_script pause="0">
-Lưu ý: <eng>However</eng> thường đứng đầu câu thứ hai, còn <eng>Although</eng> dùng để nối hai mệnh đề.
-</teacher_script>
 
 ---
 
@@ -239,16 +240,16 @@ Câu 5 nối với a. "Although I don't really like to go to the cinema, I don't
 </explanation>
 
 <teacher_script pause="0">
-Các em lưu ý câu 4: Trong một số sách giáo khoa mới, nội dung câu B có thể là "However, the number of people going to cinemas is increasing". Các em hãy chọn đáp án phù hợp với sách của mình nhé.
+Lưu ý câu 4 nha: Trong một số sách mới, câu B có thể là "However, the number of people going to cinemas is increasing". Chọn đáp án phù hợp với sách của em nha.
 </teacher_script>
 
 <teacher_script pause="30">
-Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
+Sửa lỗi sai vô bài làm nếu có nha.
 </teacher_script>
 
 ---
 
 <!-- chunk: end -->
 <teacher_script pause="0">
-Chúng ta đã hoàn thành Unit 8 <eng>Films</eng>. Các em hãy ôn tập lại từ vựng và cấu trúc <eng>Although, However</eng> nhé. Chào tạm biệt và hẹn gặp lại các em ở Unit 9!
+Vậy là xong Unit 8 <eng>Films</eng> rồi nha. Nhớ ôn lại từ vựng về phim và cấu trúc <eng>Although, However</eng> nha. Hẹn gặp lại ở Unit 9!
 </teacher_script>

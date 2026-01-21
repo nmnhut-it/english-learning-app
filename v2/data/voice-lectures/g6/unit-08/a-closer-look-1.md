@@ -4,11 +4,11 @@
 
 <!-- chunk: intro -->
 <teacher_script pause="0">
-Chào các em. Mời các em mở sách giáo khoa trang 18. Bài học hôm nay là <eng>A Closer Look 1</eng>, chúng ta sẽ học thêm từ vựng về dụng cụ thể thao và cách phát âm.
+Ok lớp 6, tiếp tục <eng>A Closer Look 1</eng> nha. Mở sách trang 18 đi. Hôm nay học từ vựng về dụng cụ thể thao và luyện phát âm luôn.
 </teacher_script>
 
 <teacher_script pause="0">
-Các em hãy bấm nút "Bắt đầu" để học từ vựng mới nhé.
+Bấm nút "Bắt đầu" để học từ vựng mới nha.
 </teacher_script>
 
 ---
@@ -49,7 +49,7 @@ Sau khi ghi âm xong, các em hãy bấm tiếp tục để chuyển sang phần
 ### Bài 1 trang 18 - Write the right words under the pictures
 
 <teacher_script pause="45">
-Chúng ta cùng làm Bài 1 <eng>Write the right words under the pictures</eng>. Các em hãy viết từ đúng dưới mỗi tranh. Nhìn tranh các dụng cụ thể thao rồi chọn từ trong khung. Các em có 45 giây.
+Bài 1 <eng>Write the right words under the pictures</eng> nè. Viết từ đúng dưới mỗi tranh đi. Nhìn tranh dụng cụ thể thao rồi chọn từ trong khung. 45 giây nha.
 </teacher_script>
 
 <task>
@@ -129,7 +129,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 ### Bài 2 trang 18 - Match things with sports
 
 <teacher_script pause="45">
-Chúng ta cùng làm Bài 2 <eng>Match each thing with a sport</eng>. Các em hãy nối dụng cụ ở cột A với môn thể thao tương ứng ở cột B. Các em có 45 giây.
+Bài 2 <eng>Match each thing with a sport</eng> nha. Nối dụng cụ ở cột A với môn thể thao ở cột B đi. 45 giây.
 </teacher_script>
 
 <task>
@@ -208,7 +208,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 ### Bài 3 trang 18 - Fill in the blanks
 
 <teacher_script pause="60">
-Chúng ta cùng làm Bài 3 <eng>Fill each blank with one of the words from the box</eng>. Các em hãy điền từ trong khung vào chỗ trống thích hợp. Các em có 1 phút.
+Bài 3 <eng>Fill each blank with one of the words from the box</eng> nha. Điền từ trong khung vô chỗ trống đi. 1 phút.
 </teacher_script>
 
 <task>
@@ -305,14 +305,14 @@ Nếu có thắc mắc, các em hãy nhấn nút thu âm bên dưới để hỏ
 ### PRONUNCIATION - /e/ và /æ/
 
 <teacher_script pause="0">
-Chúng ta cùng chuyển sang phần <eng>Pronunciation</eng> (Phát âm). Hôm nay chúng ta sẽ học cách phân biệt hai âm /e/ và /æ/. Hai âm này rất dễ gây nhầm lẫn.
+Qua phần <eng>Pronunciation</eng> - Phát âm nha. Hôm nay học phân biệt hai âm /e/ và /æ/. Hai âm này dễ nhầm lắm đó.
 </teacher_script>
 
 ---
 
 <!-- chunk: pronunciation_theory -->
 <teacher_script pause="0">
-Đây là phần lý thuyết phát âm. Các em hãy xem kỹ cách phát âm nhé.
+Đây là lý thuyết phát âm nè. Xem kỹ cách phát âm nha.
 </teacher_script>
 
 <pronunciation_theory>
@@ -341,7 +341,7 @@ Mẹo ghi nhớ: Âm /e/ miệng mở hẹp, phát âm ngắn gọn. Âm /æ/ mi
 </teacher_script>
 
 <teacher_script pause="60">
-Các em hãy ghi chép lý thuyết vào vở. Các em có 1 phút.
+Ghi lý thuyết vô vở đi. 1 phút nha.
 </teacher_script>
 
 ---
@@ -350,7 +350,7 @@ Các em hãy ghi chép lý thuyết vào vở. Các em có 1 phút.
 ### Bài 4 trang 18 - Listen and repeat
 
 <teacher_script pause="0">
-Chúng ta cùng làm Bài 4 <eng>Listen and repeat</eng>. Các em hãy nghe và lặp lại, chú ý phân biệt hai âm /e/ và /æ/ nhé.
+Bài 4 <eng>Listen and repeat</eng> nha. Nghe rồi lặp lại, chú ý phân biệt hai âm /e/ và /æ/ đi.
 </teacher_script>
 
 <task>
@@ -373,7 +373,7 @@ Chúng ta cùng làm Bài 4 <eng>Listen and repeat</eng>. Các em hãy nghe và 
 </questions>
 
 <teacher_script pause="60">
-Các em hãy nghe audio rồi đọc theo từng từ. Các em có 1 phút.
+Nghe audio rồi đọc theo từng từ đi. 1 phút nha.
 </teacher_script>
 
 ---
@@ -393,7 +393,7 @@ Sau khi ghi âm xong, các em hãy bấm tiếp tục để chuyển sang bài 5
 ### Bài 5 trang 18 - Listen and underline
 
 <teacher_script pause="0">
-Chúng ta cùng làm Bài 5 <eng>Listen and underline</eng>. Các em hãy nghe và gạch chân dưới các từ có chứa âm /e/ và /æ/.
+Bài 5 <eng>Listen and underline</eng> nha. Nghe rồi gạch chân các từ có chứa âm /e/ và /æ/ đi.
 </teacher_script>
 
 <task>
@@ -429,14 +429,14 @@ Chúng ta cùng làm Bài 5 <eng>Listen and underline</eng>. Các em hãy nghe v
 </questions>
 
 <teacher_script pause="60">
-Các em hãy nghe audio và thực hiện yêu cầu. Các em có 1 phút.
+Nghe audio rồi làm theo yêu cầu đi. 1 phút nha.
 </teacher_script>
 
 ---
 
 <!-- chunk: answer_5 -->
 <teacher_script pause="0">
-Đây là đáp án. Thầy sẽ liệt kê từ ngữ chứa từng âm để các em dễ theo dõi.
+Ok đáp án nè. Liệt kê từ chứa từng âm để dễ theo dõi nha.
 </teacher_script>
 
 <answer>
@@ -486,7 +486,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 ### Bài tập thực hành bổ sung
 
 <teacher_script pause="0">
-Các em làm thêm bài tập thực hành để củng cố từ vựng và phát âm nha. Bài tập này rất quan trọng đó!
+Làm thêm bài tập thực hành để củng cố từ vựng và phát âm nha. Bài này quan trọng lắm đó!
 </teacher_script>
 
 ---
@@ -495,7 +495,7 @@ Các em làm thêm bài tập thực hành để củng cố từ vựng và ph�
 ### Bài tập 1 - Vocabulary Practice
 
 <teacher_script pause="120">
-Chúng ta cùng làm Bài tập 1. Các em hãy chọn đáp án đúng để hoàn thành câu. Các em có 2 phút.
+Bài tập 1 nha. Chọn đáp án đúng để hoàn thành câu đi. 2 phút.
 </teacher_script>
 
 <questions type="multiple_choice">
@@ -587,7 +587,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 ### Bài tập 2 - Pronunciation Practice
 
 <teacher_script pause="120">
-Bài tập 2, các em hãy chọn từ có cách phát âm khác với các từ còn lại. Chú ý âm /e/ và /æ/ nha. Các em có 2 phút.
+Bài tập 2 nè. Chọn từ có phát âm khác với các từ còn lại. Chú ý âm /e/ và /æ/ nha. 2 phút.
 </teacher_script>
 
 <questions type="multiple_choice">
@@ -669,7 +669,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 
 <!-- chunk: end -->
 <teacher_script pause="0">
-Ok hết <eng>A Closer Look 1</eng> rồi. Về nhà luyện phát âm /e/ và /æ/ nhiều nha.
+Hết <eng>A Closer Look 1</eng> rồi nha. Về nhà luyện phát âm /e/ và /æ/ nhiều đi.
 </teacher_script>
 
 <teacher_script pause="0">
@@ -677,5 +677,5 @@ Lưu ý: Âm /e/ miệng mở hẹp như trong từ "chess", âm /æ/ miệng m�
 </teacher_script>
 
 <teacher_script pause="0">
-Bài học hôm nay kết thúc tại đây. Bài học tiếp theo chúng ta sẽ học <eng>A Closer Look 2</eng> về thì Quá khứ đơn. Hẹn gặp lại các em!
+Bài tiếp theo là <eng>A Closer Look 2</eng> về thì Quá khứ đơn. Hẹn gặp lại nha!
 </teacher_script>

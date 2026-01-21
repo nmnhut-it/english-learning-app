@@ -4,11 +4,11 @@
 
 <!-- chunk: intro -->
 <teacher_script pause="0">
-Chào các em. Mời các em mở sách giáo khoa trang 24. Bài học hôm nay là <eng>Looking Back</eng>, chúng ta sẽ ôn tập lại toàn bộ kiến thức của Unit 8.
+Ok lớp 6, <eng>Looking Back</eng> nha. Mở sách trang 24 đi. Ôn tập toàn bộ kiến thức Unit 8 luôn.
 </teacher_script>
 
 <teacher_script pause="0">
-Bài này sẽ giúp chúng ta củng cố từ vựng và ngữ pháp đã học. Các em hãy chú ý làm bài để xem mình còn sai sót ở đâu nhé.
+Bài này giúp củng cố từ vựng và ngữ pháp đã học. Làm bài rồi xem mình còn sai sót ở đâu nha. Cố gắng lên!
 </teacher_script>
 
 ---
@@ -19,7 +19,7 @@ Bài này sẽ giúp chúng ta củng cố từ vựng và ngữ pháp đã họ
 ### Bài 1 trang 24 - Find one odd word
 
 <teacher_script pause="60">
-Chúng ta cùng làm Bài 1 <eng>Find one odd word</eng>. Các em hãy tìm một từ không cùng nhóm trong mỗi câu hỏi. Các em có 1 phút.
+Bài 1 <eng>Find one odd word</eng> nha. Tìm một từ không cùng nhóm trong mỗi câu đi. 1 phút. Nhớ tìm điểm chung của 2-3 từ rồi loại từ còn lại.
 </teacher_script>
 
 <task>
@@ -95,7 +95,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 ### Bài 2 trang 24 - DO / PLAY / GO
 
 <teacher_script pause="90">
-Chúng ta cùng làm Bài 2 <eng>Put the correct form of the verbs</eng>. Các em hãy điền động từ <eng>play, do</eng> hoặc <eng>go</eng> ở dạng đúng vào chỗ trống. Các em có 1 phút 30 giây.
+Bài 2 <eng>Put the correct form of the verbs</eng> nha. Điền <eng>play, do</eng> hoặc <eng>go</eng> ở dạng đúng vô chỗ trống đi. 1 phút 30 giây. Nhớ quy tắc DO/PLAY/GO nha!
 </teacher_script>
 
 <task>
@@ -190,7 +190,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 ### Bài 3 trang 24 - Past simple
 
 <teacher_script pause="60">
-Chúng ta cùng làm Bài 3 <eng>Put the verbs in brackets in the correct form</eng>. Các em hãy chia động từ trong ngoặc ở thì quá khứ đơn. Các em có 1 phút.
+Bài 3 <eng>Put the verbs in brackets in the correct form</eng> nha. Chia động từ trong ngoặc ở thì quá khứ đơn đi. 1 phút. Nhớ dấu hiệu nhận biết quá khứ đơn: yesterday, last, ago...
 </teacher_script>
 
 <task>
@@ -252,7 +252,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 ### Bài 4 trang 24 - Imperatives
 
 <teacher_script pause="60">
-Chúng ta cùng làm Bài 4 <eng>What do you say in these situations?</eng> Các em sẽ nói gì trong các tình huống này? Hãy sử dụng câu mệnh lệnh. Các em có 1 phút.
+Bài 4 <eng>What do you say in these situations?</eng> nha. Nói gì trong các tình huống này? Dùng câu mệnh lệnh đi. 1 phút. Nhớ: muốn làm gì = V0, không muốn = Don't + V0.
 </teacher_script>
 
 <task>
@@ -328,7 +328,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 ### Bài 5 trang 24 - Fill in the passage
 
 <teacher_script pause="90">
-Chúng ta cùng làm Bài 5 <eng>Fill in the passage</eng>. Các em hãy điền một từ thích hợp vào mỗi chỗ trống để hoàn thành đoạn văn. Các em có 1 phút 30 giây.
+Bài 5 <eng>Fill in the passage</eng> nha. Điền một từ thích hợp vô mỗi chỗ trống để hoàn thành đoạn văn đi. 1 phút 30 giây. Đọc kỹ ngữ cảnh rồi chọn từ phù hợp nha.
 </teacher_script>
 
 <task>
@@ -377,7 +377,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 
 <!-- chunk: summary -->
 <teacher_script pause="0">
-Chúng ta cùng tóm tắt lại kiến thức của Unit 8 nhé.
+Ok tóm tắt lại kiến thức Unit 8 nha. Ghi nhớ phần này để thi nhé!
 </teacher_script>
 
 <grammar>
@@ -412,13 +412,13 @@ Chúng ta cùng tóm tắt lại kiến thức của Unit 8 nhé.
 
 <!-- chunk: end -->
 <teacher_script pause="0">
-Bài học hôm nay kết thúc tại đây. Chúc mừng các em đã hoàn thành Unit 8. Các em nhớ ôn tập lại bài để chuẩn bị cho các bài kiểm tra sắp tới nhé.
+Hết bài rồi nha. Chúc mừng các em đã hoàn thành Unit 8! Nhớ ôn tập lại để chuẩn bị kiểm tra nha.
 </teacher_script>
 
 <teacher_script pause="0">
-Các em nhớ học thuộc cách dùng: DO karate, PLAY volleyball, GO swimming. Và các động từ bất quy tắc như: go-went, take-took, win-won nhé!
+Nhớ học thuộc: DO karate, PLAY volleyball, GO swimming. Và động từ bất quy tắc: go-went, take-took, win-won nha!
 </teacher_script>
 
 <teacher_script pause="0">
-Hẹn gặp lại các em ở bài học tiếp theo!
+Hẹn gặp lại ở bài tiếp theo nha!
 </teacher_script>

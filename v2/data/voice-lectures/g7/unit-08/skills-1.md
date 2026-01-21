@@ -4,7 +4,7 @@
 
 <!-- chunk: intro -->
 <teacher_script pause="0">
-Chào các em. Mời các em mở sách giáo khoa trang 88. Hôm nay chúng ta qua bài <eng>Skills 1</eng>. Bài học này sẽ giúp các em luyện tập kỹ năng Đọc và Nói về bộ phim Harry Potter.
+Ok lớp 7, qua bài <eng>Skills 1</eng> nha. Mở sách trang 88 đi. Hôm nay luyện Đọc và Nói về phim Harry Potter luôn. Ai thích Harry Potter không?
 </teacher_script>
 
 ---
@@ -26,7 +26,7 @@ Chào các em. Mời các em mở sách giáo khoa trang 88. Hôm nay chúng ta 
 ### Bài 2 trang 88 - Match words with meanings
 
 <teacher_script pause="60">
-Chúng ta cùng làm Bài 2 <eng>Match words with meanings</eng>. Các em hãy đọc blog của Mark về phim Harry Potter và nối các từ với nghĩa thích hợp. Các em có 1 phút.
+Bài 2 <eng>Match words with meanings</eng> nha. Đọc blog của Mark về phim Harry Potter rồi nối từ với nghĩa đi. 1 phút nha.
 </teacher_script>
 
 <task>
@@ -84,14 +84,14 @@ Câu 4 nối với c. Gripping nghĩa là lôi cuốn, hấp dẫn, nên nối v
 </explanation>
 
 <teacher_script pause="30">
-Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
+Sửa lỗi sai vô bài làm nếu có nha.
 </teacher_script>
 
 ---
 
 <!-- chunk: reading_text -->
 <teacher_script pause="0">
-Bây giờ chúng ta cùng đọc bài về phim Harry Potter nhé.
+Giờ mình cùng đọc bài về phim Harry Potter nha. Đây là phần đầu tiên của loạt phim 8 phần, rất nổi tiếng luôn á.
 </teacher_script>
 
 <reading>
@@ -120,7 +120,7 @@ Bây giờ chúng ta cùng đọc bài về phim Harry Potter nhé.
 ### Bài 3 trang 88 - Answer questions
 
 <teacher_script pause="120">
-Chúng ta cùng làm Bài 3 <eng>Answer questions</eng>. Các em hãy đọc lại bài blog và trả lời các câu hỏi bên dưới. Các em có 2 phút.
+Bài 3 <eng>Answer questions</eng> nha. Đọc lại blog rồi trả lời câu hỏi đi. 2 phút nha.
 </teacher_script>
 
 <task>
@@ -143,8 +143,24 @@ Chúng ta cùng làm Bài 3 <eng>Answer questions</eng>. Các em hãy đọc l�
 4. People say it's a must-see for teens. (Mọi người nói nó là phim phải xem cho giới trẻ)
 </answer>
 
-<teacher_script pause="60">
-Các em hãy so sánh và kiểm tra lại câu trả lời của mình nhé.
+<teacher_script pause="0">
+Câu 1: What kind of film? - Đáp án: It's a fantasy. Fantasy là phim giả tưởng, có phép thuật, phù thủy đó nha.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 2: Who is Daniel Radcliffe? - Đáp án: He is one of the stars. Daniel Radcliffe đóng vai Harry Potter, là diễn viên chính luôn. Bạn ấy đóng từ nhỏ tới lớn á.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 3: What is the film about? - Đáp án: Kể về Harry Potter, phù thủy quyền năng, học ở trường phép thuật và chiến đấu với những kẻ xấu.
+</teacher_script>
+
+<teacher_script pause="0">
+Câu 4: What do people say? - Đáp án: People say it's a must-see for teens. Must-see là phải xem, đáng xem lắm đó. Ai chưa xem thì phí luôn!
+</teacher_script>
+
+<teacher_script pause="30">
+So sánh và kiểm tra lại câu trả lời nha.
 </teacher_script>
 
 ---
@@ -153,7 +169,7 @@ Các em hãy so sánh và kiểm tra lại câu trả lời của mình nhé.
 ### Bài 4 trang 88 - Kungfu Boy
 
 <teacher_script pause="0">
-Chúng ta cùng làm Bài 4 <eng>Speaking</eng>. Các em hãy hỏi và trả lời về bộ phim <eng>Kungfu Boy</eng> dựa trên bảng thông tin được cung cấp.
+Bài 4 <eng>Speaking</eng> nha. Hỏi và trả lời về phim <eng>Kungfu Boy</eng> dựa trên bảng thông tin đi.
 </teacher_script>
 
 <task>
@@ -178,13 +194,17 @@ Chúng ta cùng làm Bài 4 <eng>Speaking</eng>. Các em hãy hỏi và trả l�
 **A:** It's about a very big boy who saves his town and becomes a hero.
 </dialogue>
 
+<teacher_script pause="0">
+Nhìn vô mẫu nè: Kungfu Boy là phim comedy - phim hài. Đạo diễn là John Stevenson. Diễn viên chính là Bruce Wane. Phim về một cậu bé to lớn cứu thị trấn và trở thành anh hùng. Đánh giá là funny and interesting - hài hước và thú vị.
+</teacher_script>
+
 <teacher_script pause="0" action="record">
-Các em hãy đóng vai và giới thiệu về bộ phim <eng>Kungfu Boy</eng> dựa trên các thông tin đã học. Hãy ghi âm và gửi cho thầy nhé.
+Giờ đóng vai giới thiệu phim <eng>Kungfu Boy</eng> dựa trên thông tin đi. Ghi âm và gửi cho thầy nha.
 </teacher_script>
 
 ---
 
 <!-- chunk: end -->
 <teacher_script pause="0">
-Bài học hôm nay kết thúc tại đây. Các em hãy ghi nhớ các từ vựng về phim ảnh và cách hỏi thông tin về một bộ phim nhé. Tạm biệt các em!
+Hết bài rồi nha. Nhớ từ vựng về phim và cách giới thiệu phim nha. Bài tiếp theo là <eng>Skills 2</eng> - Nghe về phim Naughty Twins và viết đoạn văn. Hẹn gặp lại!
 </teacher_script>

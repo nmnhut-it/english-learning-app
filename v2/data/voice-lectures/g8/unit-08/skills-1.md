@@ -3,8 +3,8 @@
 ## SKILLS 1 - Reading & Speaking
 
 <!-- chunk: intro -->
-<teacher_script pause="0" href="audio/tts_fd00461e.mp3">
-Chào các em. Chào mừng các em đến với bài học hôm nay. Mời các em mở sách giáo khoa.
+<teacher_script pause="0">
+Ok lớp 8, qua bài <eng>Skills 1</eng> nha. Mở sách trang 88 đi. Hôm nay luyện Đọc về trung tâm mua sắm và Nói giới thiệu trung tâm mua sắm.
 </teacher_script>
 
 ---
@@ -25,8 +25,12 @@ Chào các em. Chào mừng các em đến với bài học hôm nay. Mời các
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 88 - Reading Comprehension
 
-<teacher_script pause="120" href="audio/tts_d5b1d729.mp3">
-Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
+<teacher_script pause="0">
+Đọc bài về lý do người ta đi trung tâm mua sắm nha. Không chỉ để mua sắm đâu mà còn nhiều lý do khác á!
+</teacher_script>
+
+<teacher_script pause="120">
+Bài 2 <eng>Read and choose</eng> nha. Đọc bài rồi chọn đáp án đúng đi. 2 phút nha.
 </teacher_script>
 
 <reading>
@@ -75,8 +79,12 @@ A. always | B. sometimes | C. rarely
 5. **year-round** = always (quanh năm).
 </explanation>
 
-<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
-Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
+<teacher_script pause="0">
+Câu 1: C - nhiều lý do. Câu 2: A - sờ sản phẩm. Câu 3: B - nhạc sống. Câu 4: B - khu vực sáng. Câu 5: A - year-round nghĩa là quanh năm, always.
+</teacher_script>
+
+<teacher_script pause="30">
+Sửa lỗi sai vô bài làm nếu có nha.
 </teacher_script>
 
 ---
@@ -84,8 +92,8 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 <!-- chunk: exercise_3 -->
 ### Bài 3 trang 88 - Fill in blanks
 
-<teacher_script pause="60" href="audio/tts_d5b1d729.mp3">
-Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
+<teacher_script pause="60">
+Bài 3 <eng>Fill in</eng> nha. Điền từ vô chỗ trống đi. 1 phút nha.
 </teacher_script>
 
 <questions type="fill_blanks">
@@ -101,8 +109,8 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 **Đáp án:** 1. sales | 2. try | 3. entertainment | 4. decorations | 5. free
 </answer>
 
-<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
-Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
+<teacher_script pause="30">
+Sửa lỗi sai vô bài làm nếu có nha.
 </teacher_script>
 
 ---
@@ -110,8 +118,8 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 <!-- chunk: speaking -->
 ### Bài 4 trang 88 - Ask and answer
 
-<teacher_script pause="0" href="audio/tts_6273c698.mp3">
-Bây giờ là phần thực hành nói. Các em hãy luyện tập theo cặp hoặc theo nhóm nhé.
+<teacher_script pause="0">
+Bài 4 <eng>Speaking</eng> nha. Hỏi đáp về trung tâm mua sắm Northwood đi. Xem thông tin bên dưới.
 </teacher_script>
 
 <task>
@@ -130,13 +138,13 @@ Bây giờ là phần thực hành nói. Các em hãy luyện tập theo cặp h
 **B:** It opens from 9 a.m. to 9 p.m.
 </dialogue>
 
-<teacher_script pause="0" action="record" href="audio/tts_508f13d8.mp3">
-Các em hãy ghi âm phần luyện tập của mình và gửi cho thầy nhé.
+<teacher_script pause="0" action="record">
+Ghi âm hỏi đáp về trung tâm mua sắm và gửi cho thầy nha.
 </teacher_script>
 
 ---
 
 <!-- chunk: end -->
-<teacher_script pause="0" href="audio/tts_ba688992.mp3">
-Bài học hôm nay kết thúc tại đây. Các em nhớ ôn bài và chuẩn bị cho bài học tiếp theo. Tạm biệt các em.
+<teacher_script pause="0">
+Hết bài rồi nha. Nhớ từ vựng về trung tâm mua sắm nha. Bài tiếp theo là <eng>Skills 2</eng> - Nghe về mua sắm online. Hẹn gặp lại!
 </teacher_script>

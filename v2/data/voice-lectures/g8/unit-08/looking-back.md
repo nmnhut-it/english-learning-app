@@ -3,8 +3,8 @@
 ## LOOKING BACK
 
 <!-- chunk: intro -->
-<teacher_script pause="0" href="audio/tts_5d14bde3.mp3">
-Chào các em. Hôm nay chúng ta sẽ ôn tập lại kiến thức đã học.
+<teacher_script pause="0">
+Ok lớp 8, qua bài cuối cùng của Unit 8: <eng>Looking Back</eng> nha. Mở sách trang 90 đi. Hôm nay ôn tập lại từ vựng và ngữ pháp đã học.
 </teacher_script>
 
 ---
@@ -12,8 +12,8 @@ Chào các em. Hôm nay chúng ta sẽ ôn tập lại kiến thức đã học.
 <!-- chunk: exercise_1 -->
 ### Bài 1 trang 90 - Match meanings
 
-<teacher_script pause="60" href="audio/tts_d5b1d729.mp3">
-Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
+<teacher_script pause="60">
+Bài 1 <eng>Match</eng> nha. Nối từ với nghĩa đi. 1 phút nha.
 </teacher_script>
 
 <task>
@@ -45,8 +45,12 @@ e. Great number of goods.
 - **Shopaholic**: Addicted person.
 </explanation>
 
-<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
-Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
+<teacher_script pause="0">
+During sales - thời điểm giảm giá. Browsing - lướt xem. Online shopping - mua sắm trực tuyến. Wide range - đa dạng. Shopaholic - nghiện mua sắm.
+</teacher_script>
+
+<teacher_script pause="30">
+Sửa lỗi sai vô bài làm nếu có nha.
 </teacher_script>
 
 ---
@@ -54,8 +58,8 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 90 - Fill blanks
 
-<teacher_script pause="60" href="audio/tts_d5b1d729.mp3">
-Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
+<teacher_script pause="60">
+Bài 2 <eng>Fill in</eng> nha. Điền từ vô chỗ trống đi. 1 phút nha.
 </teacher_script>
 
 <questions type="fill_blanks">
@@ -77,8 +81,12 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 5. offline
 </answer>
 
-<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
-Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
+<teacher_script pause="0">
+Câu 1: on sale - giảm giá. Câu 2: bargain - mặc cả. Câu 3: Internet access - kết nối Internet. Câu 4: home-grown - nhà trồng. Câu 5: offline - không phải online.
+</teacher_script>
+
+<teacher_script pause="30">
+Sửa lỗi sai vô bài làm nếu có nha.
 </teacher_script>
 
 ---
@@ -86,8 +94,8 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 <!-- chunk: exercise_3 -->
 ### Bài 3 trang 90 - Adverbs of frequency
 
-<teacher_script pause="60" href="audio/tts_d5b1d729.mp3">
-Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
+<teacher_script pause="60">
+Bài 3 <eng>Adverbs of frequency</eng> nha. Điền trạng từ tần suất phù hợp đi. 1 phút nha.
 </teacher_script>
 
 <questions type="fill_blanks">
@@ -107,13 +115,21 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 5. rarely
 </answer>
 
+<teacher_script pause="0">
+Câu 1: always - không bỏ lỡ tập nào. Câu 2: usually/often - đi thường xuyên. Câu 3: never - không bao giờ. Câu 4: often - không thường đi. Câu 5: rarely - hiếm khi, 1-2 lần/năm.
+</teacher_script>
+
+<teacher_script pause="30">
+Sửa lỗi sai vô bài làm nếu có nha.
+</teacher_script>
+
 ---
 
 <!-- chunk: exercise_4 -->
 ### Bài 4 trang 90 - Correct tense
 
-<teacher_script pause="60" href="audio/tts_d5b1d729.mp3">
-Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
+<teacher_script pause="60">
+Bài 4 <eng>Correct tense</eng> nha. Chia động từ đúng thì đi. Nhớ hiện tại đơn cho lịch trình cố định nha. 1 phút.
 </teacher_script>
 
 <questions type="fill_blanks">
@@ -140,6 +156,6 @@ Sửa bài vào nha. Tất cả đều dùng thì hiện tại đơn (hoặc mod
 ---
 
 <!-- chunk: end -->
-<teacher_script pause="0" href="audio/tts_ba688992.mp3">
-Bài học hôm nay kết thúc tại đây. Các em nhớ ôn bài và chuẩn bị cho bài học tiếp theo. Tạm biệt các em.
+<teacher_script pause="0">
+Vậy là xong Unit 8 <eng>Shopping</eng> rồi nha. Nhớ từ vựng mua sắm, trạng từ tần suất và hiện tại đơn cho tương lai nha. Hẹn gặp lại ở Unit 9!
 </teacher_script>

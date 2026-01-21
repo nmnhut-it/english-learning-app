@@ -4,7 +4,7 @@
 
 <!-- chunk: intro -->
 <teacher_script pause="0">
-Chào các em. Mời các em mở sách giáo khoa trang 84. Hôm nay chúng ta qua phần <eng>A Closer Look 1</eng>. Bài học này sẽ giúp các em học thêm từ vựng chỉ phim và luyện phát âm hai âm /ɪə/ và /eə/.
+Ok lớp 7, <eng>A Closer Look 1</eng> nha. Mở sách trang 84 đi. Hôm nay học thêm từ vựng về phim và luyện phát âm hai âm /ɪə/ và /eə/ luôn.
 </teacher_script>
 
 ---
@@ -165,7 +165,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 
 <!-- chunk: pronunciation_intro -->
 <teacher_script pause="0">
-Chúng ta cùng chuyển sang phần Phát âm (Pronunciation). Hôm nay chúng ta sẽ luyện tập hai nguyên âm đôi: **/ɪə/** và **/eə/**.
+Qua phần Phát âm - <eng>Pronunciation</eng> nha. Hôm nay luyện hai nguyên âm đôi: **/ɪə/** và **/eə/**. Hai âm này hay nhầm lắm đó!
 </teacher_script>
 
 <pronunciation_theory>
@@ -391,5 +391,5 @@ Các em hãy luyện đọc lại các từ này và ghi nhớ quy tắc phát �
 
 <!-- chunk: end -->
 <teacher_script pause="0">
-Bài học hôm nay kết thúc tại đây. Các em hãy nhớ phân biệt cách phát âm /ɪə/ và /eə/ nhé. Bài học tiếp theo chúng ta sẽ học về Ngữ pháp. Tạm biệt các em!
+Hết bài rồi nha. Nhớ phân biệt cách phát âm /ɪə/ và /eə/ đi. Bài tiếp theo học Ngữ pháp luôn. Hẹn gặp lại!
 </teacher_script>
