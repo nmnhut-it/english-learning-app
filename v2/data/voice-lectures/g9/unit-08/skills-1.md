@@ -78,7 +78,7 @@ Bài 2 <eng>Match</eng> nha. Nối từ với định nghĩa đi. 2 phút nha.
 | You will get a notice about the places of your visit, the detailed itinerary, and the cost. | Bạn sẽ nhận được thông báo về các địa điểm tham quan, lịch trình chi tiết và chi phí. |
 | They will protect you if something goes wrong during the trip. | Họ sẽ bảo vệ bạn nếu có sự cố xảy ra trong chuyến đi. |
 | This type of holiday saves time and reduces stress for travellers. | Loại hình kỳ nghỉ này tiết kiệm thời gian và giảm căng thẳng cho du khách. |
-| It is a convenient option for people who are elderly, who do not want to spend much time searching on their own, or who are not confident about using online apps. | Đây là lựa chọn thuận tiện cho những người cao tuổi, những người không muốn mất nhiều thời gian tự tìm kiếm, hoặc những người không tự tin sử dụng ứng dụng trực tuyến. |
+| It offers a convenient option for people who are elderly, who do not want to spend much time searching on their own, or who are not confident about using online apps. | Nó cung cấp một lựa chọn thuận tiện cho những người lớn tuổi, những người không muốn mất nhiều thời gian tự tìm kiếm hoặc những người không tự tin khi sử dụng các ứng dụng trực tuyến. |
 | One disadvantage of this type is you have to follow a fixed itinerary. | Một nhược điểm của loại hình này là bạn phải theo lịch trình cố định. |
 | Nowadays, more young people choose self-guided tours which require them to do everything on their own. | Ngày nay, nhiều người trẻ chọn tour tự túc, loại tour yêu cầu họ tự làm mọi thứ. |
 | They have to look for a destination, work out an itinerary, and estimate the cost. | Họ phải tìm điểm đến, lên lịch trình và ước tính chi phí. |
@@ -203,8 +203,8 @@ You can ask about:
 | **B:** I flew to Da Nang. There are direct flights from my city, so it was convenient. | **B:** Tôi đã bay tới Đà Nẵng. Có chuyến bay thẳng từ thành phố của tôi nên rất thuận tiện. |
 | **A:** Where did you stay during your visit? | **A:** Bạn đã ở đâu trong chuyến thăm của bạn? |
 | **B:** I stayed at a hotel near My Khe Beach. It was a comfortable and convenient location for exploring the city. | **B:** Tôi ở tại một khách sạn gần bãi biển Mỹ Khê. Đó là một vị trí thoải mái và thuận tiện để khám phá thành phố. |
-| **A:** What were some of the activities or sights you experienced? | **A:** Một số hoạt động hoặc điểm tham quan mà bạn đã trải nghiệm là gì? |
-| **B:** I spent some time relaxing on My Khe Beach, soaking up the sun. I also explored the Marble Mountains and visited the Dragon Bridge. | **B:** Tôi dành thời gian thư giãn trên bãi biển Mỹ Khê, tắm nắng. Tôi cũng đã khám phá Ngũ Hành Sơn và thăm Cầu Rồng. |
+| **A:** What were some of the activities or sights you experienced or saw while in Da Nang? | **A:** Một số hoạt động hoặc điểm tham quan mà bạn đã trải nghiệm hoặc nhìn thấy khi ở Đà Nẵng là gì? |
+| **B:** During my time in Da Nang, I had the opportunity to explore various attractions and engage in exciting activities. I spent some time relaxing on My Khe Beach, soaking up the sun and taking up skydiving. I also explored the Marble Mountains, and visited the Dragon Bridge. | **B:** Trong thời gian ở Đà Nẵng, tôi có cơ hội khám phá nhiều điểm tham quan khác nhau và tham gia các hoạt động thú vị. Tôi dành thời gian thư giãn trên bãi biển Mỹ Khê, tắm nắng và tham gia môn nhảy dù. Tôi cũng đã khám phá Ngũ Hành Sơn và thăm Cầu Rồng. |
 </dialogue>
 
 <teacher_script pause="0">
@@ -233,18 +233,22 @@ Example: Last summer, Mai went to Da Lat. She took a package tour...
 
 <reading>
 **Sample answer:**
-Last summer, Quynh embarked on a memorable trip to Da Nang. She took a self-guided tour, meticulously planned her itinerary to visit the places she was most interested in. She flew to Da Nang, taking advantage of the direct flights from her city.
+Last summer, Quynh embarked on a memorable trip to Da Nang.
 
-During her stay in Da Nang, Quynh chose a hotel near My Khe Beach as her accommodation. Her days were filled with a mix of relaxation and adventure. She savored the sunny shores of My Khe Beach. She also explored the cultural and natural wonders of Da Nang such as the Marble Mountains and visited the iconic Dragon Bridge.
+She took a self-guided tour, meticulously planned her itinerary to visit the places she was most interested in. She flew to Da Nang, taking advantage of the direct flights from her city. During her stay in Da Nang, Quynh chose a hotel near My Khe Beach as her accommodation, because it is both comfortable and conveniently located for her explorations.
+
+Her days were filled with a mix of relaxation and adventure. She savored the sunny shores of My Khe Beach, basking in the warmth and tranquility of the surroundings, and she indulged in an exhilarating skydiving experience. She also explored the cultural and natural wonders of Da Nang such as the Marble Mountains, with intricate caves and pagodas nestled within the limestone formations. Additionally, she visited the iconic Dragon Bridge, marveling at its grandeur and the vibrant spectacle it offered, especially during the evening with its illuminated display.
 
 Overall, Quynh's travel experience in Da Nang was a perfect blend of relaxation, adventure, and exploration, leaving her with cherished memories.
 </reading>
 
 <translation>
 **Dịch:**
-Mùa hè năm ngoái, Quỳnh bắt đầu chuyến du lịch Đà Nẵng đáng nhớ. Cô tự mình tham gia một chuyến du lịch, lên kế hoạch tỉ mỉ cho hành trình đến thăm những địa điểm mà cô yêu thích nhất. Cô bay đến Đà Nẵng, tận dụng các chuyến bay thẳng từ thành phố của mình.
+Mùa hè năm ngoái, Quỳnh bắt đầu chuyến du lịch Đà Nẵng đáng nhớ.
 
-Trong thời gian ở Đà Nẵng, Quỳnh đã chọn khách sạn gần bãi biển Mỹ Khê làm chỗ ở. Những ngày của cô tràn ngập sự kết hợp giữa thư giãn và phiêu lưu. Cô tận hưởng bờ biển đầy nắng của bãi biển Mỹ Khê. Cô cũng khám phá những kỳ quan văn hóa và thiên nhiên của Đà Nẵng như Ngũ Hành Sơn và đến thăm Cầu Rồng mang tính biểu tượng.
+Cô tự mình tham gia một chuyến du lịch, lên kế hoạch tỉ mỉ cho hành trình đến thăm những địa điểm mà cô yêu thích nhất. Cô bay đến Đà Nẵng, tận dụng các chuyến bay thẳng từ thành phố của mình. Trong thời gian ở Đà Nẵng, Quỳnh đã chọn khách sạn gần bãi biển Mỹ Khê làm chỗ ở vì vừa thoải mái, vừa thuận tiện cho chuyến khám phá của mình.
+
+Những ngày của cô tràn ngập sự kết hợp giữa thư giãn và phiêu lưu. Cô tận hưởng bờ biển đầy nắng của bãi biển Mỹ Khê, đắm mình trong sự ấm áp và yên tĩnh của khung cảnh xung quanh, đồng thời cô cũng có cơ hội trải nghiệm môn nhảy dù đầy phấn khích. Cô cũng khám phá những kỳ quan văn hóa và thiên nhiên của Đà Nẵng như Ngũ Hành Sơn, với những hang động và chùa chi tiết ẩn mình trong các khối đá vôi. Ngoài ra, cô còn đến thăm Cầu Rồng mang tính biểu tượng, ngạc nhiên trước sự hùng vĩ và cảnh tượng rực rỡ mà nó mang lại, đặc biệt là vào buổi tối với màn trình diễn được chiếu sáng.
 
 Nhìn chung, trải nghiệm du lịch Đà Nẵng của Quỳnh là sự kết hợp hoàn hảo giữa nghỉ dưỡng, phiêu lưu và khám phá, để lại cho cô những kỷ niệm đáng nhớ.
 </translation>

@@ -10,6 +10,10 @@ Ok lớp 7, <eng>A Closer Look 1</eng> nha. Mở sách trang 84 đi. Hôm nay h�
 ---
 
 <!-- chunk: vocabulary -->
+<teacher_script pause="0">
+Các em mở sách ra, Unit 8, bài <eng>A Closer Look 1</eng>, ghi tựa bài. Sau đó bấm nút "Bắt đầu" bên dưới để học từ vựng. Máy sẽ đọc và các em đọc theo. Sau đó các em làm bài trắc nghiệm từ vựng rồi ghi từ vựng vô tập.
+</teacher_script>
+
 <vocabulary>
 **Adjectives describing films:**
 1. **dull** : (adj) buồn tẻ, chán ngắt /dʌl/
@@ -25,7 +29,7 @@ Ok lớp 7, <eng>A Closer Look 1</eng> nha. Mở sách trang 84 đi. Hôm nay h�
 ### Bài 1 trang 84 - Match adjectives with meanings
 
 <teacher_script pause="60">
-Chúng ta cùng làm Bài 1 <eng>Match adjectives with meanings</eng>. Các em hãy nối các tính từ với nghĩa thích hợp. Các em có 1 phút.
+Chúng ta cùng làm Bài 1 <eng>Match the following adjectives with their meanings</eng>. Các em hãy nối các tính từ với nghĩa thích hợp. Các em có 1 phút.
 </teacher_script>
 
 <task>
@@ -35,18 +39,18 @@ Chúng ta cùng làm Bài 1 <eng>Match adjectives with meanings</eng>. Các em h
 
 <questions type="matching">
 **Adjectives:**
-1. dull
-2. violent
-3. confusing
-4. enjoyable
-5. shocking
+1. dull *(buồn tẻ)*
+2. violent *(bạo lực)*
+3. confusing *(khó hiểu)*
+4. shocking *(gây sốc)*
+5. enjoyable *(thú vị)*
 
 **Meanings:**
-a. difficult to understand, not clear
-b. not interesting or exciting
-c. giving pleasure
-d. containing lots of fighting and killing
-e. very surprising and difficult to believe
+a. difficult to understand, not clear *(khó hiểu, không rõ ràng)*
+b. not interesting or exciting *(không thú vị hoặc hào hứng)*
+c. giving pleasure *(mang lại niềm vui)*
+d. containing lots of fighting and killing *(chứa nhiều cảnh đánh nhau và giết chóc)*
+e. very surprising and difficult to believe *(rất ngạc nhiên và khó tin)*
 </questions>
 
 ---
@@ -57,7 +61,7 @@ e. very surprising and difficult to believe
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.b | 2.d | 3.a | 4.c | 5.e
+**Đáp án:** 1.b | 2.d | 3.a | 4.e | 5.c
 </answer>
 
 <teacher_script pause="0">
@@ -73,11 +77,11 @@ Câu 3 nối với a. Confusing nghĩa là khó hiểu, gây bối rối, nên n
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 4 nối với c. Enjoyable nghĩa là thú vị, thích thú, nên nối với "giving pleasure" - mang lại niềm vui. Enjoy là thích, enjoyable là có thể thích được, xem vui á.
+Câu 4 nối với e. Shocking nghĩa là gây sốc, sửng sốt, nên nối với "very surprising and difficult to believe" - rất ngạc nhiên và khó tin. Phim shocking thường có twist bất ngờ, xem xong há hốc mồm luôn.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 5 nối với e. Shocking nghĩa là gây sốc, sửng sốt, nên nối với "very surprising and difficult to believe" - rất ngạc nhiên và khó tin. Phim shocking thường có twist bất ngờ, xem xong há hốc mồm luôn.
+Câu 5 nối với c. Enjoyable nghĩa là thú vị, thích thú, nên nối với "giving pleasure" - mang lại niềm vui. Enjoy là thích, enjoyable là có thể thích được, xem vui á.
 </teacher_script>
 
 <explanation>
@@ -85,8 +89,8 @@ Câu 5 nối với e. Shocking nghĩa là gây sốc, sửng sốt, nên nối v
 1. **dull** = b. not interesting or exciting (không thú vị, buồn tẻ)
 2. **violent** = d. containing lots of fighting and killing (chứa nhiều đánh nhau, giết chóc)
 3. **confusing** = a. difficult to understand (khó hiểu)
-4. **enjoyable** = c. giving pleasure (thú vị, mang lại niềm vui)
-5. **shocking** = e. very surprising (rất ngạc nhiên, gây sốc)
+4. **shocking** = e. very surprising (rất ngạc nhiên, gây sốc)
+5. **enjoyable** = c. giving pleasure (thú vị, mang lại niềm vui)
 </explanation>
 
 <teacher_script pause="30">
@@ -99,22 +103,31 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 ### Bài 2 trang 84 - Complete sentences
 
 <teacher_script pause="60">
-Chúng ta cùng làm Bài 2 <eng>Complete sentences</eng>. Các em hãy điền các tính từ ở Bài 1 vào chỗ trống thích hợp để hoàn thành câu. Các em có 1 phút.
+Chúng ta cùng làm Bài 2 <eng>Complete the following sentences</eng>. Các em hãy điền các tính từ ở Bài 1 vào chỗ trống thích hợp để hoàn thành câu. Các em có 1 phút.
 </teacher_script>
 
 <task>
 **Đề:** Complete the following sentences, using the adjectives in 1.
-**Dịch đề:** Hoàn thành các câu sau, sử dụng tính từ ở bài 1.
+**Dịch đề:** Hoàn thành các câu sau, sử dụng các tính từ trong bài 1.
 </task>
 
 <questions type="fill_blanks">
 **Word bank:** *shocking | dull | enjoyable | violent | confusing*
 
 **1.** I found the film *A Polluted Planet* hard to believe. It's a very _______ documentary.
+*Mình thấy bộ phim "A Polluted Planet" thật khó tin. Đó là một bộ phim tài liệu rất _______.*
+
 **2.** The film was so _______ that we almost fell asleep.
+*Bộ phim _______ đến nỗi chúng mình gần như ngủ quên.*
+
 **3.** I think you will enjoy *Our Holiday*. It's quite _______.
+*Mình nghĩ bạn sẽ thích phim "Our Holiday". Nó khá _______.*
+
 **4.** There were too many fights in the film. It was too _______.
+*Có quá nhiều cảnh đánh nhau trong phim. Nó quá _______.*
+
 **5.** I didn't really understand the film. It was very _______.
+*Mình không thực sự hiểu bộ phim đó. Nó rất _______.*
 </questions>
 
 ---
@@ -163,6 +176,50 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 
 ---
 
+<!-- chunk: exercise_3 -->
+### Bài 3 trang 84 - Speaking practice
+
+<teacher_script pause="0">
+Chúng ta cùng làm Bài 3 <eng>Work in pairs</eng>. Bài này các em hỏi và trả lời về một bộ phim mà các em đã xem gần đây nha.
+</teacher_script>
+
+<task>
+**Đề:** Work in pairs. Ask and answer questions about a film you saw recently.
+**Dịch đề:** Làm việc theo cặp. Hỏi và trả lời các câu hỏi về một bộ phim bạn đã xem gần đây.
+</task>
+
+<dialogue>
+| English | Vietnamese |
+|---------|------------|
+| **A:** What film did you see recently? | **A:** Bộ phim mà bạn đã xem gần đây là gì? |
+| **B:** Skyfall. | **B:** Skyfall. |
+| **A:** What do you think of it? | **A:** Bạn nghĩ sao về nó? |
+| **B:** It's too violent. | **B:** Nó quá bạo lực. |
+</dialogue>
+
+<teacher_script pause="0">
+Đây là ví dụ mẫu nha. Hai bạn hỏi nhau về phim đã xem gần đây, rồi đánh giá phim đó bằng các tính từ vừa học: dull, violent, confusing, shocking, enjoyable. Hoặc các em có thể dùng thêm: interesting, boring, funny, exciting...
+</teacher_script>
+
+<teacher_script pause="0">
+Giờ cô đưa thêm một ví dụ khác cho các em tham khảo nha.
+</teacher_script>
+
+<dialogue>
+| English | Vietnamese |
+|---------|------------|
+| **A:** What film did you see recently? | **A:** Bộ phim mà bạn đã xem gần đây là gì? |
+| **B:** Mr. Bean. | **B:** Phim Mr. Bean. |
+| **A:** What do you think of it? | **A:** Bạn nghĩ sao về nó? |
+| **B:** It's very funny and enjoyable. | **B:** Nó rất hài hước và thú vị. |
+</dialogue>
+
+<teacher_script pause="60" action="record">
+Bây giờ các em hãy làm việc theo cặp, hỏi và trả lời về một bộ phim mà mình đã xem gần đây. Bấm ghi âm và nói cho cô nghe nha. 1 phút.
+</teacher_script>
+
+---
+
 <!-- chunk: pronunciation_intro -->
 <teacher_script pause="0">
 Qua phần Phát âm - <eng>Pronunciation</eng> nha. Hôm nay luyện hai nguyên âm đôi: **/ɪə/** và **/eə/**. Hai âm này hay nhầm lắm đó!
@@ -192,9 +249,19 @@ Chúng ta cùng làm Bài 4 <eng>Listen and repeat</eng>. Các em hãy nghe và 
 </audio>
 
 <task>
-**/ɪə/**: idea, pier, really, fear, ear
-**/eə/**: nightmare, their, share, hair, chair
+**Đề:** Listen and repeat the words. Pay attention to the sounds /ɪə/ and /eə/.
+**Dịch đề:** Lắng nghe và nhắc lại các từ sau. Chú ý đến âm /ɪə/ và /eə/.
 </task>
+
+<reading>
+| /ɪə/ | /eə/ |
+|------|------|
+| idea /aɪˈdɪə/ | nightmare /ˈnaɪtmeər/ |
+| pier /pɪər/ | their /ðeər/ |
+| really /ˈrɪəli/ | share /ʃeər/ |
+| fear /fɪər/ | hair /heər/ |
+| ear /ɪər/ | chair /tʃeər/ |
+</reading>
 
 <teacher_script pause="60">
 Các em hãy tự luyện đọc 2 nhóm từ này trong 1 phút nhé.
@@ -206,20 +273,38 @@ Các em hãy tự luyện đọc 2 nhóm từ này trong 1 phút nhé.
 ### Bài 5 trang 84 - Listen and practice sentences
 
 <teacher_script pause="0">
-Chúng ta cùng làm Bài 5 <eng>Listen and practice sentences</eng>. Các em hãy nghe và lặp lại các câu, chú ý đến những từ được gạch chân.
+Chúng ta cùng làm Bài 5 <eng>Listen and repeat</eng>. Các em hãy nghe và lặp lại các câu, chú ý đến những từ được gạch chân.
 </teacher_script>
 
 <audio src="https://img.loigiaihay.com/picture/2022/0815/056.mp3">
 **Audio:** Practice sentences
 </audio>
 
+<task>
+**Đề:** Listen and repeat, paying attention to the underlined words. Then practise the sentences.
+**Dịch đề:** Nghe và nhắc lại, chú ý đến những từ được gạch chân. Sau đó thực hành đọc các câu.
+</task>
+
 <reading>
 **1.** Is <eng>there</eng> a cinema <eng>near</eng> <eng>here</eng>?
+*Có rạp chiếu phim nào gần đây không?*
+
 **2.** <eng>There's</eng> a <eng>chair</eng> under the <eng>stairs</eng>.
+*Có một chiếc ghế dưới cầu thang.*
+
 **3.** Put your <eng>earphones</eng> <eng>near</eng> <eng>here</eng>.
+*Đặt tai nghe của bạn lại gần đây.*
+
 **4.** I don't <eng>care</eng> about your <eng>idea</eng>.
+*Mình không quan tâm đến ý tưởng của bạn.*
+
 **5.** Our <eng>aeroplane</eng> is up <eng>there</eng>, in the <eng>air</eng>.
+*Máy bay của chúng ta đang ở trên đó, trên không.*
 </reading>
+
+<teacher_script pause="0">
+Trong các câu này, các em chú ý phân biệt: near, here, earphones, idea - phát âm /ɪə/. Còn there, chair, stairs, care, aeroplane, air - phát âm /eə/ nha.
+</teacher_script>
 
 <teacher_script pause="0" action="record">
 Các em hãy bấm ghi âm và đọc lại 5 câu này gửi cho thầy nhé.

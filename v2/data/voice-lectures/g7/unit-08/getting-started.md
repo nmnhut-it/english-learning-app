@@ -4,36 +4,53 @@
 
 <!-- chunk: intro -->
 <teacher_script pause="0">
-Ok lớp 7, Unit 8 nha. Mở sách trang 82 đi. Chủ đề hôm nay là <eng>Films</eng> - Phim ảnh. Nghe hay hen!
+Ok lop 7, Unit 8 nha. Mo sach trang 82 di. Chu de hom nay la <eng>Films</eng> - Phim anh. Nghe hay hen!
 </teacher_script>
 
 <teacher_script pause="0">
-Bài <eng>Getting Started</eng> có tựa đề <eng>Let's go to the cinema tonight!</eng> - Tối nay đi xem phim nhé! Ai thích xem phim không?
+Bai <eng>Getting Started</eng> co tua de <eng>Let's go to the cinema tonight!</eng> - Toi nay di xem phim nhe! Ai thich xem phim khong?
 </teacher_script>
 
 ---
 
 <!-- chunk: vocabulary -->
+<teacher_script pause="0">
+Cac em mo sach ra, Unit 8, bai <eng>Getting Started</eng>, ghi tua bai. Sau do bam nut "Bat dau" ben duoi de hoc tu vung. May se doc va cac em doc theo. Sau do cac em lam bai trac nghiem tu vung roi ghi tu vung vo tap.
+</teacher_script>
+
 <vocabulary>
-1. **cinema** : (n) rạp chiếu phim /ˈsɪnəmə/
-2. **horror film** : (n) phim kinh dị /ˈhɒrə fɪlm/
-3. **fantasy** : (n) phim giả tưởng /ˈfæntəsi/
-4. **documentary** : (n) phim tài liệu /ˌdɒkjuˈmentri/
-5. **comedy** : (n) phim hài /ˈkɒmədi/
-6. **science fiction** : (n) phim khoa học viễn tưởng /ˌsaɪəns ˈfɪkʃn/
-7. **scary** : (adj) đáng sợ /ˈskeəri/
-8. **boring** : (adj) nhàm chán /ˈbɔːrɪŋ/
-9. **review** : (n) bài đánh giá, nhận xét /rɪˈvjuː/
-10. **exchange** : (v) trao đổi /ɪksˈtʃeɪndʒ/
+1. **cinema** : (n) rap chieu phim /ˈsɪnəmə/
+2. **good idea** : y kien hay /gʊd aɪˈdɪə/
+3. **nightmare** : (n) con ac mong /ˈnaɪtmeə/
+4. **fantasy** : (n) phim gia tuong /ˈfæntəsi/
+5. **horror film** : (n.phr) phim kinh di /ˈhɒrə fɪlm/
+6. **scary** : (adj) dang so /ˈskeəri/
+7. **documentary** : (n) phim tai lieu /ˌdɒkjuˈmentəri/
+8. **boring** : (adj) chan, nham chan /ˈbɔːrɪŋ/
+9. **what about** : con ve...thi sao? /wɒt əˈbaʊt/
+10. **kind of film** : the loai phim /kaɪnd əv fɪlm/
+11. **comedy** : (n) phim hai /ˈkɒmədi/
+12. **star** : (v) dong vai chinh /stɑː/
+13. **woman - women** : (n) phu nu (so it - so nhieu) /ˈwʊmən - ˈwɪmɪn/
+14. **different countries** : cac quoc gia khac nhau /ˈdɪfrənt ˈkʌntriz/
+15. **decide to V** : quyet dinh lam gi /dɪˈsaɪd tuː/
+16. **exchange** : (v) trao doi /ɪksˈtʃeɪndʒ/
+17. **review** : (n) bai danh gia /rɪˈvjuː/
+18. **a bit silly** : hoi ngo ngan /ə bɪt ˈsɪli/
+19. **most** : (n) hau het /məʊst/
+20. **interesting** : (adj) thu vi /ˈɪntrəstɪŋ/
+21. **funny** : (adj) hai huoc /ˈfʌni/
+22. **although** : (conj) mac du /ɔːlˈðəʊ/
+23. **be on** : dang duoc chieu (phim) /biː ɒn/
 </vocabulary>
 
 ---
 
 <!-- chunk: exercise_1 -->
-### Bài 1 trang 82 - Listen and read
+### Bai 1 trang 82 - Listen and read
 
 <teacher_script pause="0">
-Bài 1 <eng>Listen and read</eng> nha. Nghe rồi đọc theo hội thoại giữa Mark và Mi đi. Hai bạn đang bàn chuyện đi xem phim đó.
+Bai 1 <eng>Listen and read</eng> nha. Nghe roi doc theo hoi thoai giua Mark va Mi di. Hai ban dang ban chuyen di xem phim do.
 </teacher_script>
 
 <audio src="https://img.loigiaihay.com/picture/2022/0815/054.mp3">
@@ -41,294 +58,299 @@ Bài 1 <eng>Listen and read</eng> nha. Nghe rồi đọc theo hội thoại gi�
 </audio>
 
 <dialogue>
-**Mark:** Let's go to the cinema tonight!
-**Mi:** Good idea! What shall we see?
-**Mark:** A Nightmare is on at Sao Mai Cinema tonight.
-**Mi:** Is it a fantasy?
-**Mark:** No, it's a horror film.
-**Mi:** That's too scary for me. Look! An Old Pier is on at Town Cinema. It's a documentary.
-**Mark:** I don't really like documentaries. They're often boring. What about Our Holiday?
-**Mi:** What kind of film is it?
-**Mark:** It's a comedy.
-**Mi:** And who stars in it?
-**Mark:** Kate Harrison and Lily Collins.
-**Mi:** Um, they're pretty good. What's it about?
-**Mark:** It's about two women living in different countries and they decide to exchange houses.
-**Mi:** What are the reviews like?
-**Mark:** Well, although a few people say it's a bit silly, most say it's funny and interesting.
+| English | Vietnamese |
+|---------|------------|
+| **Mark:** Let's go to the cinema tonight! | **Mark:** Toi nay di xem phim nhe! |
+| **Mi:** Good idea! What shall we see? | **Mi:** Y kien hay do! Chung ta se xem gi? |
+| **Mark:** A Nightmare is on at Sao Mai Cinema tonight. | **Mark:** Phim "A Nightmare" chieu tai rap Sao Mai toi nay. |
+| **Mi:** Is it a fantasy? | **Mi:** No co phai la phim gia tuong khong? |
+| **Mark:** No, it's a horror film. | **Mark:** Khong, do la phim kinh di. |
+| **Mi:** That's too scary for me. Look! An Old Pier is on at Town Cinema. It's a documentary. | **Mi:** No qua dang so voi minh. Nhin kia! "An Old Pier" dang chieu o rap Town Cinema. Do la phim tai lieu. |
+| **Mark:** I don't really like documentaries. They're often boring. What about Our Holiday? | **Mark:** Minh khong thuc su thich phim tai lieu. Chung thuong nham chan. Con phim "Our Holiday" thi sao? |
+| **Mi:** What kind of film is it? | **Mi:** Do la the loai phim gi? |
+| **Mark:** It's a comedy. | **Mark:** Do la phim hai. |
+| **Mi:** And who stars in it? | **Mi:** Va ai dong vai chinh? |
+| **Mark:** Kate Harrison and Lily Collins. | **Mark:** Kate Harrison va Lily Collins. |
+| **Mi:** Um, they're pretty good. What's it about? | **Mi:** Um, ho dien kha tot. Phim noi ve gi vay? |
+| **Mark:** It's about two women living in different countries and they decide to exchange houses. | **Mark:** Phim ke ve hai nguoi phu nu song o hai quoc gia khac nhau va ho quyet dinh doi nha. |
+| **Mi:** What are the reviews like? | **Mi:** Moi nguoi danh gia phim the nao? |
+| **Mark:** Well, although a few people say it's a bit silly, most say it's funny and interesting. | **Mark:** Cha, mac du mot vai nguoi noi no hoi ngo ngan, nhung hau het noi no hai huoc va thu vi. |
 </dialogue>
 
 <teacher_script pause="180">
-Đọc thầm rồi dịch hội thoại vô vở đi. 3 phút nha. Chú ý các loại phim và tính từ mô tả phim luôn.
+Doc tham roi dich hoi thoai vo vo di. 3 phut nha. Chu y cac loai phim va tinh tu mo ta phim luon.
 </teacher_script>
-
----
-
-<!-- chunk: translation -->
-<teacher_script pause="0">
-Ok đây là bản dịch tham khảo nè. So với bài dịch của mình xem đúng chưa nha.
-</teacher_script>
-
-<translation>
-**Mark:** Tối nay đi xem phim nhé!
-**Mi:** Ý kiến hay đó! Chúng ta sẽ xem gì?
-**Mark:** Phim "A Nightmare" chiếu tại rạp Sao Mai tối nay.
-**Mi:** Nó có phải là phim giả tưởng không?
-**Mark:** Không, đó là phim kinh dị.
-**Mi:** Nó quá đáng sợ với mình. Nhìn kìa! "An Old Pier" đang chiếu ở rạp Town Cinema. Đó là phim tài liệu.
-**Mark:** Mình không thực sự thích phim tài liệu. Chúng thường nhàm chán. Còn phim "Our Holiday" thì sao?
-**Mi:** Đó là thể loại phim gì?
-**Mark:** Đó là phim hài.
-**Mi:** Và ai đóng vai chính?
-**Mark:** Kate Harrison và Lily Collins.
-**Mi:** Ừm, họ diễn khá tốt. Phim nói về gì vậy?
-**Mark:** Phim kể về hai người phụ nữ sống ở hai quốc gia khác nhau và họ quyết định đổi nhà.
-**Mi:** Mọi người đánh giá phim thế nào?
-**Mark:** Chà, mặc dù một vài người nói nó hơi ngớ ngẩn, nhưng hầu hết nói nó hài hước và thú vị.
-</translation>
 
 ---
 
 <!-- chunk: exercise_2 -->
-### Bài 2 trang 83 - Read and answer
+### Bai 2 trang 83 - Read and answer
 
 <teacher_script pause="60">
-Bài 2 <eng>Read the conversation again and choose the correct answer</eng> nha. Đọc lại hội thoại rồi chọn câu trả lời đúng đi. 1 phút. Tìm thông tin trong hội thoại là có đáp án liền á.
+Bai 2 <eng>Read the conversation again and choose the correct answer</eng> nha. Doc lai hoi thoai roi chon cau tra loi dung di. 1 phut. Tim thong tin trong hoi thoai la co dap an lien a.
 </teacher_script>
 
 <task>
-**Đề:** Read the conversation again and choose the correct answer to each question.
-**Dịch đề:** Đọc lại đoạn hội thoại và chọn câu trả lời đúng cho mỗi câu hỏi.
+**De:** Read the conversation again and choose the correct answer to each question.
+**Dich de:** Doc lai doan hoi thoai va chon cau tra loi dung cho moi cau hoi.
 </task>
 
 <questions type="multiple_choice">
 **1.** What does Mark suggest doing tonight?
-A. Watching a TV show.
-B. Watching a film.
-C. Staying at home.
+- A. Watching a TV show.
+- B. Watching a film.
+- C. Staying at home.
+*Mark de nghi toi nay lam gi?*
 
 **2.** Why doesn't Mark want to see *An Old Pier*?
-A. He doesn't like that type of film.
-B. It's not on at a convenient time.
-C. He saw it last week.
+- A. He doesn't like that type of film.
+- B. It's not on at a convenient time.
+- C. He saw it last week.
+*Tai sao Mark khong muon xem phim "An Old Pier"?*
 
 **3.** The word "reviews" in the conversation mostly means _______.
-A. people's opinions about a film
-B. interesting scenes in a film
-C. what people don't like about a film
+- A. people's opinions about a film
+- B. interesting scenes in a film
+- C. what people don't like about a film
+*Tu "reviews" trong doan hoi thoai co nghia la gi?*
 
 **4.** What do people think of *Our Holiday*?
-A. Everyone likes it.
-B. No one likes it.
-C. Most people like it.
+- A. Everyone likes it.
+- B. No one likes it.
+- C. Most people like it.
+*Moi nguoi nghi gi ve phim "Our Holiday"?*
 </questions>
 
 ---
 
 <!-- chunk: answer_2 -->
 <teacher_script pause="0">
-Đã hết thời gian. Ok đáp án nè.
+Da het thoi gian. Ok dap an ne.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.B | 2.A | 3.A | 4.C
+**Dap an:** 1.B | 2.A | 3.A | 4.C
 </answer>
 
 <teacher_script pause="0">
-Câu 1 chọn B. Mark gợi ý làm gì tối nay? Mark nói ngay câu đầu "Let's go to the cinema tonight!" nghĩa là "Tối nay đi xem phim nhé!" nên câu trả lời là B - Watching a film. Đây là lời mời đi xem phim, không phải xem TV hay ở nhà đâu nha.
+Cau 1 chon B. Mark goi y lam gi toi nay? Mark noi ngay cau dau <eng>Let's go to the cinema tonight!</eng> nghia la "Toi nay di xem phim nhe!" nen cau tra loi la B - <eng>Watching a film</eng>. Day la loi moi di xem phim, khong phai xem TV hay o nha dau nha.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 2 chọn A. Tại sao Mark không muốn xem phim An Old Pier? Mi đề nghị phim này và nói đó là documentary - phim tài liệu. Mark trả lời "I don't really like documentaries. They're often boring" nghĩa là "Mình không thực sự thích phim tài liệu. Chúng thường nhàm chán." Vậy lý do là A - He doesn't like that type of film, không phải vì thời gian chiếu hay đã xem rồi đâu.
+Cau 2 chon A. Tai sao Mark khong muon xem phim <eng>An Old Pier</eng>? Mi de nghi phim nay va noi do la <eng>documentary</eng> - phim tai lieu. Mark tra loi <eng>I don't really like documentaries. They're often boring</eng> nghia la "Minh khong thuc su thich phim tai lieu. Chung thuong nham chan." Vay ly do la A - <eng>He doesn't like that type of film</eng>, khong phai vi thoi gian chieu hay da xem roi dau.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 3 chọn A. Từ "reviews" trong đoạn hội thoại có nghĩa là gì? Mi hỏi "What are the reviews like?" - "Mọi người đánh giá phim thế nào?" và Mark trả lời về những gì người ta nói về phim. Vậy reviews nghĩa là A - people's opinions about a film, tức là ý kiến đánh giá của mọi người về phim á.
+Cau 3 chon A. Tu <eng>reviews</eng> trong doan hoi thoai co nghia la gi? Mi hoi <eng>What are the reviews like?</eng> - "Moi nguoi danh gia phim the nao?" va Mark tra loi ve nhung gi nguoi ta noi ve phim. Vay <eng>reviews</eng> nghia la A - <eng>people's opinions about a film</eng>, tuc la y kien danh gia cua moi nguoi ve phim a.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 4 chọn C. Mọi người nghĩ gì về phim Our Holiday? Mark nói "although a few people say it's a bit silly, most say it's funny and interesting" nghĩa là "mặc dù một vài người nói nó hơi ngớ ngẩn, nhưng hầu hết nói nó hài hước và thú vị." Từ "most" - hầu hết là chìa khóa, nên đáp án là C - Most people like it nha.
+Cau 4 chon C. Moi nguoi nghi gi ve phim <eng>Our Holiday</eng>? Mark noi <eng>although a few people say it's a bit silly, most say it's funny and interesting</eng> nghia la "mac du mot vai nguoi noi no hoi ngo ngan, nhung hau het noi no hai huoc va thu vi." Tu <eng>most</eng> - hau het la chia khoa, nen dap an la C - <eng>Most people like it</eng> nha.
 </teacher_script>
 
 <explanation>
-**Giải thích:**
-1. **B** (Watching a film) - Mark nói: "Let's go to the cinema tonight!"
-2. **A** (He doesn't like that type of film) - Mark nói về phim tài liệu: "I don't really like documentaries."
-3. **A** (people's opinions about a film) - Reviews là ý kiến đánh giá.
-4. **C** (Most people like it) - Mark nói: "most say it's funny and interesting."
+**Giai thich:**
+1. **B** (Watching a film) - Mark noi: "Let's go to the cinema tonight!"
+2. **A** (He doesn't like that type of film) - Mark noi ve phim tai lieu: "I don't really like documentaries."
+3. **A** (people's opinions about a film) - Reviews la y kien danh gia.
+4. **C** (Most people like it) - Mark noi: "most say it's funny and interesting."
 </explanation>
 
 <teacher_script pause="30">
-Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
+Cac em hay sua nhung loi sai vao bai lam cua minh neu co nhe.
 </teacher_script>
 
 ---
 
 <!-- chunk: exercise_3 -->
-### Bài 3 trang 83 - Types of film
+### Bai 3 trang 83 - Types of film
 
 <teacher_script pause="60">
-Bài 3 <eng>Choose the correct word or phrase</eng> nha. Chọn từ hoặc cụm từ đúng để hoàn thành câu đi. 1 phút. Nhớ các loại phim: comedy, horror, documentary...
+Bai 3 <eng>Choose the correct word or phrase</eng> nha. Chon tu hoac cum tu dung de hoan thanh cau di. 1 phut. Nho cac loai phim: <eng>comedy, horror, documentary</eng>...
 </teacher_script>
 
 <task>
-**Đề:** Choose the correct word or phrase to complete each of the following sentences.
-**Dịch đề:** Chọn từ hoặc cụm từ đúng để hoàn thành mỗi câu sau.
+**De:** Choose the correct word or phrase to complete each of the following sentences.
+**Dich de:** Chon tu hoac cum tu dung de hoan thanh moi cau sau.
 </task>
 
 <questions type="multiple_choice">
 **1.** A film that tries to make the audience laugh is a _______.
 (comedy / documentary)
+*Mot bo phim co gang lam cho khan gia cuoi la phim gi?*
 
 **2.** A film that is based only on imagination, not on real facts, is a _______.
 (comedy / fantasy)
+*Mot bo phim chi dua tren tri tuong tuong, khong phai su that thuc te, la phim gi?*
 
 **3.** A film that shows real life events or stories is a _______.
 (documentary / horror film)
+*Mot bo phim cho thay cac su kien hoac cau chuyen co that trong doi thuc la phim gi?*
 
 **4.** A film that is set in the future, often about science, is a _______.
 (cartoon / science fiction film)
+*Mot bo phim lay boi canh tuong lai, thuong ve khoa hoc, la phim gi?*
 
 **5.** A film in which strange and frightening things happen is a _______.
 (horror film / comedy)
+*Mot bo phim trong do nhung dieu ky la va dang so xay ra la phim gi?*
 </questions>
 
 ---
 
 <!-- chunk: answer_3 -->
 <teacher_script pause="0">
-Đã hết thời gian. Ok đáp án nè.
+Da het thoi gian. Ok dap an ne.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. comedy | 2. fantasy | 3. documentary | 4. science fiction film | 5. horror film
+**Dap an:** 1. comedy | 2. fantasy | 3. documentary | 4. science fiction film | 5. horror film
 </answer>
 
 <teacher_script pause="0">
-Câu 1 là comedy - phim hài. Câu này nói "A film that tries to make the audience laugh" nghĩa là phim cố gắng làm khán giả cười, thì chắc chắn là phim hài rồi. Comedy từ "comic" - hài hước á nha.
+Cau 1 la <eng>comedy</eng> - phim hai. Cau nay noi <eng>A film that tries to make the audience laugh</eng> nghia la phim co gang lam khan gia cuoi, thi chac chan la phim hai roi. <eng>Comedy</eng> tu <eng>comic</eng> - hai huoc a nha.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 2 là fantasy - phim giả tưởng. "Based only on imagination, not on real facts" - chỉ dựa trên tưởng tượng, không phải sự thật. Fantasy nghĩa là giả tưởng, tưởng tượng, như phim Harry Potter hay The Lord of the Rings đó.
+Cau 2 la <eng>fantasy</eng> - phim gia tuong. <eng>Based only on imagination, not on real facts</eng> - chi dua tren tuong tuong, khong phai su that. <eng>Fantasy</eng> nghia la gia tuong, tuong tuong, nhu phim Harry Potter hay The Lord of the Rings do.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 3 là documentary - phim tài liệu. "Shows real life events or stories" - cho thấy sự kiện hoặc câu chuyện có thật trong đời thực. Documentary là phim tài liệu, như phim về động vật hoang dã hay lịch sử á.
+Cau 3 la <eng>documentary</eng> - phim tai lieu. <eng>Shows real life events or stories</eng> - cho thay su kien hoac cau chuyen co that trong doi thuc. <eng>Documentary</eng> la phim tai lieu, nhu phim ve dong vat hoang da hay lich su a.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 4 là science fiction film - phim khoa học viễn tưởng. "Set in the future, often about science" - bối cảnh tương lai, thường về khoa học. Science fiction hay viết tắt là sci-fi, như phim Star Wars hay Avengers đó nha.
+Cau 4 la <eng>science fiction film</eng> - phim khoa hoc vien tuong. <eng>Set in the future, often about science</eng> - boi canh tuong lai, thuong ve khoa hoc. <eng>Science fiction</eng> hay viet tat la <eng>sci-fi</eng>, nhu phim Star Wars hay Avengers do nha.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 5 là horror film - phim kinh dị. "Strange and frightening things happen" - những điều kỳ lạ và đáng sợ xảy ra. Horror nghĩa là kinh dị, đáng sợ. Nhiều em sợ xem loại phim này lắm luôn.
+Cau 5 la <eng>horror film</eng> - phim kinh di. <eng>Strange and frightening things happen</eng> - nhung dieu ky la va dang so xay ra. <eng>Horror</eng> nghia la kinh di, dang so. Nhieu em so xem loai phim nay lam luon.
 </teacher_script>
 
 <explanation>
-**Giải thích:**
-1. **comedy**: phim hài (make audience laugh - gây cười)
-2. **fantasy**: phim giả tưởng (imagination - tưởng tượng)
-3. **documentary**: phim tài liệu (real life events - sự kiện thực tế)
-4. **science fiction film**: phim khoa học viễn tưởng (set in the future, science - tương lai, khoa học)
-5. **horror film**: phim kinh dị (frightening things - những điều đáng sợ)
+**Giai thich:**
+1. **comedy**: phim hai (make audience laugh - gay cuoi)
+2. **fantasy**: phim gia tuong (imagination - tuong tuong)
+3. **documentary**: phim tai lieu (real life events - su kien thuc te)
+4. **science fiction film**: phim khoa hoc vien tuong (set in the future, science - tuong lai, khoa hoc)
+5. **horror film**: phim kinh di (frightening things - nhung dieu dang so)
 </explanation>
 
 <teacher_script pause="30">
-Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
+Cac em hay sua nhung loi sai vao bai lam cua minh neu co nhe.
 </teacher_script>
 
 ---
 
 <!-- chunk: exercise_4 -->
-### Bài 4 trang 83 - Adjectives describing films
+### Bai 4 trang 83 - Adjectives describing films
 
 <teacher_script pause="60">
-Bài 4 <eng>Complete the sentences</eng> nha. Chọn tính từ trong khung để hoàn thành câu đi. 1 phút. Nhớ tính từ miêu tả phim: funny, boring, frightening, moving, interesting.
+Bai 4 <eng>Complete the sentences</eng> nha. Chon tinh tu trong khung de hoan thanh cau di. 1 phut. Nho tinh tu mieu ta phim: <eng>funny, boring, frightening, moving, interesting</eng>.
 </teacher_script>
 
 <task>
-**Đề:** Complete the following sentences with the words in the box.
-**Dịch đề:** Hoàn thành các câu sau với từ trong khung.
+**De:** Complete the following sentences with the words in the box.
+**Dich de:** Hoan thanh cac cau sau voi tu trong khung.
 </task>
 
 <questions type="fill_blanks">
 **Word bank:** *funny | boring | frightening | moving | interesting*
 
 **1.** Going to the hospital can be _______ for a child.
+*Di benh vien co the _______ voi tre con.*
+
 **2.** The film was so _______ that the audience couldn't stop laughing.
+*Bo phim _______ den noi khan gia khong the nhin cuoi.*
+
 **3.** Many people cried when they saw the _______ scenes of the film.
+*Nhieu nguoi da khoc khi xem nhung canh _______ cua bo phim.*
+
 **4.** The film last night was so _______ that we fell asleep.
+*Bo phim toi qua _______ den noi chung toi ngu gat.*
+
 **5.** This book is _______. I got a lot of useful information from it.
+*Cuon sach nay _______. Toi nhan duoc nhieu thong tin huu ich tu no.*
 </questions>
 
 ---
 
 <!-- chunk: answer_4 -->
 <teacher_script pause="0">
-Đã hết thời gian. Ok đáp án nè.
+Da het thoi gian. Ok dap an ne.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. frightening | 2. funny | 3. moving | 4. boring | 5. interesting
+**Dap an:** 1. frightening | 2. funny | 3. moving | 4. boring | 5. interesting
 </answer>
 
 <teacher_script pause="0">
-Câu 1 điền frightening - đáng sợ. "Going to the hospital can be frightening for a child" - Đi bệnh viện có thể đáng sợ với trẻ con. Các em nhớ lại lúc còn bé đi bệnh viện sợ chích kim tiêm không? Đó là frightening á.
+Cau 1 dien <eng>frightening</eng> - dang so. <eng>Going to the hospital can be frightening for a child</eng> - Di benh vien co the dang so voi tre con. Cac em nho lai luc con be di benh vien so chich kim tiem khong? Do la <eng>frightening</eng> a.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 2 điền funny - hài hước. "The film was so funny that the audience couldn't stop laughing" - Phim hài hước đến nỗi khán giả không thể nhịn cười. Từ khóa "couldn't stop laughing" - cười không ngừng là dấu hiệu rõ ràng của phim funny luôn.
+Cau 2 dien <eng>funny</eng> - hai huoc. <eng>The film was so funny that the audience couldn't stop laughing</eng> - Phim hai huoc den noi khan gia khong the nhin cuoi. Tu khoa <eng>couldn't stop laughing</eng> - cuoi khong ngung la dau hieu ro rang cua phim <eng>funny</eng> luon.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 3 điền moving - cảm động. "Many people cried when they saw the moving scenes" - Nhiều người khóc khi xem những cảnh cảm động. Từ "cried" - khóc cho thấy cảnh phim cảm động, làm người ta rơi nước mắt nha.
+Cau 3 dien <eng>moving</eng> - cam dong. <eng>Many people cried when they saw the moving scenes</eng> - Nhieu nguoi khoc khi xem nhung canh cam dong. Tu <eng>cried</eng> - khoc cho thay canh phim cam dong, lam nguoi ta roi nuoc mat nha.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 4 điền boring - nhàm chán. "The film last night was so boring that we fell asleep" - Phim tối qua nhàm chán đến nỗi chúng tôi ngủ gật. Fell asleep - ngủ gật là dấu hiệu rõ nhất của phim boring rồi.
+Cau 4 dien <eng>boring</eng> - nham chan. <eng>The film last night was so boring that we fell asleep</eng> - Phim toi qua nham chan den noi chung toi ngu gat. <eng>Fell asleep</eng> - ngu gat la dau hieu ro nhat cua phim <eng>boring</eng> roi.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 5 điền interesting - thú vị. "This book is interesting. I got a lot of useful information" - Cuốn sách này thú vị. Tôi nhận được nhiều thông tin hữu ích. Useful information - thông tin hữu ích làm cho sách trở nên interesting đó.
+Cau 5 dien <eng>interesting</eng> - thu vi. <eng>This book is interesting. I got a lot of useful information</eng> - Cuon sach nay thu vi. Toi nhan duoc nhieu thong tin huu ich. <eng>Useful information</eng> - thong tin huu ich lam cho sach tro nen <eng>interesting</eng> do.
 </teacher_script>
 
 <explanation>
-**Giải thích:**
-1. **frightening** (đáng sợ): đi bệnh viện thì đáng sợ với trẻ con.
-2. **funny** (hài hước): khán giả không thể nhịn cười (couldn't stop laughing).
-3. **moving** (cảm động): nhiều người đã khóc (cried).
-4. **boring** (nhàm chán): chúng tôi ngủ gật (fell asleep).
-5. **interesting** (thú vị): có nhiều thông tin hữu ích (useful information).
+**Giai thich:**
+1. **frightening** (dang so): di benh vien thi dang so voi tre con.
+2. **funny** (hai huoc): khan gia khong the nhin cuoi (couldn't stop laughing).
+3. **moving** (cam dong): nhieu nguoi da khoc (cried).
+4. **boring** (nham chan): chung toi ngu gat (fell asleep).
+5. **interesting** (thu vi): co nhieu thong tin huu ich (useful information).
 </explanation>
 
 <teacher_script pause="30">
-Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
+Cac em hay sua nhung loi sai vao bai lam cua minh neu co nhe.
 </teacher_script>
 
 ---
 
 <!-- chunk: exercise_5 -->
-### Bài 5 trang 83 - Ask and answer
+### Bai 5 trang 83 - Ask and answer
 
 <teacher_script pause="0">
-Bài 5 <eng>Ask and answer</eng> nha. Luyện tập theo cặp, hỏi đáp về các loại phim mình thích hoặc không thích đi.
+Bai 5 <eng>Ask and answer</eng> nha. Luyen tap theo cap, hoi dap ve cac loai phim minh thich hoac khong thich di.
 </teacher_script>
 
+<task>
+**De:** Work in pairs. Ask and answer about a type of film. Use some of the adjectives in 4.
+**Dich de:** Lam viec theo cap. Hoi va tra loi ve mot the loai phim. Su dung mot so tinh tu trong bai 4.
+</task>
+
 <dialogue>
-**Example:**
-A: Do you like documentaries?
-B: No, I don't.
-A: Why not?
-B: I think they're boring.
+| English | Vietnamese |
+|---------|------------|
+| **A:** Do you like documentaries? | **A:** Ban co thich phim tai lieu khong? |
+| **B:** No, I don't. | **B:** Minh khong. |
+| **A:** Why not? | **A:** Tai sao vay? |
+| **B:** I think they're boring. | **B:** Minh nghi chung rat nham chan. |
 </dialogue>
 
+<teacher_script pause="0">
+Day la vi du mau. Cac em co the thay the <eng>documentaries</eng> bang <eng>comedies, horror films, fantasy</eng>... va dung cac tinh tu nhu <eng>funny, interesting, frightening, moving</eng> de tra loi nha.
+</teacher_script>
+
 <teacher_script pause="0" action="record">
-Các em hãy bấm ghi âm câu trả lời của mình về một loại phim mình thích hoặc không thích và gửi cho thầy nhé.
+Cac em hay bam ghi am cau tra loi cua minh ve mot loai phim minh thich hoac khong thich va gui cho thay nhe.
 </teacher_script>
 
 ---
 
 <!-- chunk: end -->
 <teacher_script pause="0">
-Hết bài rồi nha. Về nhà ôn lại từ vựng về các loại phim và tính từ miêu tả cảm xúc đi. Hẹn gặp lại ở bài sau!
+Het bai roi nha. Ve nha on lai tu vung ve cac loai phim va tinh tu mieu ta cam xuc di. Hen gap lai o bai sau!
 </teacher_script>

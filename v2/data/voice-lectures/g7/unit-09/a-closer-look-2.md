@@ -125,7 +125,7 @@ Ok đáp án nè.
 1. **Can your mother make a costume for you?**
    - Có "can" → đưa **Can** lên đầu, giữ nguyên động từ "make"
 
-2. **Will she bake a birthday cake for him?**
+2. **Will she bake him a birthday cake?**
    - Có "will" → đưa **Will** lên đầu, giữ nguyên động từ "bake"
 
 3. **Are the dragon dances interesting?**
@@ -235,11 +235,11 @@ Ok đáp án nè.
 | **Mark:** Do you eat moon cakes at the festival? | Mark: Bạn có ăn bánh trung thu ở lễ hội không? |
 | **Trang:** Yes, we do. We also have some autumn fruits. | Trang: Có chứ. Chúng mình cũng có một vài loại trái cây mùa thu. |
 | **Mark:** Do you make lanterns at the festival? | Mark: Bạn có làm đèn lồng ở lễ hội không? |
-| **Trang:** Yes, we do. We watch lion dances, too. | Trang: Có. Chúng mình cũng xem múa lân nữa. |
+| **Trang:** Yes, we do. We watch lion dances, too. | Trang: Chúng mình có. Chúng mình cũng xem múa lân nữa. |
 | **Mark:** Do you like the festival? | Mark: Bạn có thích lễ hội không? |
-| **Trang:** Yes, I do. It's one of my favourite festivals. | Trang: Có. Đó là một trong những lễ hội yêu thích của mình. |
-| **Mark:** Can I join the festival with you next month? | Mark: Mình có thể tham gia lễ hội với bạn tháng tới không? |
-| **Trang:** Yes. Just come over to my house on the night of the festival. | Trang: Được chứ. Hãy qua nhà mình vào đêm lễ hội nhé. |
+| **Trang:** Yes, I do. It's one of my favourite festivals. | Trang: Mình có. Đó là một trong những lễ hội yêu thích của mình. |
+| **Mark:** Can I join the festival with you next month? | Mark: Mình có thể tham gia lễ hội với bạn vào tháng tới được không? |
+| **Trang:** Yes. Just come over to my house on the night of the festival. | Trang: Được chứ. Hãy qua nhà mình vào đêm diễn ra lễ hội. |
 </answer>
 
 ---

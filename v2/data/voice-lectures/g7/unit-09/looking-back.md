@@ -21,7 +21,7 @@ Ok lớp 7, hôm nay ôn tập Unit 9: <eng>Festivals around the World</eng> nha
 7. **lion dances** : (n.phr) múa lân /ˈlaɪən dɑːnsɪz/
 8. **floats** : (n) xe diễu hành /fləʊts/
 9. **costumes** : (n) trang phục truyền thống /ˈkɒstjuːmz/
-10. **bunny** : (n) thỏ Phục sinh /ˈbʌni/
+10. **Bunny** : (n) Thỏ Phục sinh /ˈbʌni/
 11. **gathering** : (n) sự tụ họp /ˈɡæðərɪŋ/
 12. **actress** : (n) nữ diễn viên /ˈæktrəs/
 13. **sweet potatoes** : (n.phr) khoai lang /swiːt pəˈteɪtəʊz/
@@ -154,6 +154,10 @@ Ok đáp án nè.
 - **Is/Are** + S + **interested in** + V-ing/noun?
 - Ví dụ: **Is** he **interested in** joining the festival?
 </grammar>
+
+<teacher_script pause="0">
+Nhớ kỹ các cấu trúc này để làm bài 3 nha.
+</teacher_script>
 
 ---
 

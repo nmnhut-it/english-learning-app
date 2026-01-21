@@ -109,7 +109,7 @@ Giờ mình cùng đọc bài về phim Harry Potter nha. Đây là phần đầ
 | The film received a lot of good reviews. | Bộ phim nhận được nhiều đánh giá tốt. |
 | People say it's a must-see for teens. | Mọi người nói đây là phim phải xem cho thanh thiếu niên. |
 | I agree because the story is gripping and the acting is excellent. | Tôi đồng ý vì câu chuyện rất lôi cuốn và diễn xuất xuất sắc. |
-| The music is also wonderful. | Nhạc phim cũng tuyệt vời. |
+| The music is also amazing. | Âm nhạc cũng rất tuyệt vời. |
 | Although Harry Potter and the Sorcerer's Stone is a little frightening at times, it is very interesting and full of action. | Mặc dù Harry Potter và Hòn đá Phù thủy đôi khi hơi đáng sợ, nó rất thú vị và đầy hành động. |
 | Go and see it if you can. | Hãy đi xem nếu bạn có thể. |
 </reading>
@@ -179,27 +179,61 @@ Bài 4 <eng>Speaking</eng> nha. Hỏi và trả lời về phim <eng>Kungfu Boy<
 **Main actor:** Bruce Wane
 **Content:** About a very big boy who saves his town and becomes a hero.
 **Reviews:** Funny and interesting.
+**Time:** 4:30 p.m. and 8:30 p.m. daily
+**Place:** Ngoc Khanh Cinema
 </task>
 
 <dialogue>
-**Example conversation:**
-**A:** How about seeing a film this evening?
-**B:** That's a great idea. What film shall we see?
-**A:** *Kungfu Boy*.
-**B:** What kind of film is it?
-**A:** It's a comedy.
-**B:** Who stars in it?
-**A:** Bruce Wane.
-**B:** What's it about?
-**A:** It's about a very big boy who saves his town and becomes a hero.
+| English | Vietnamese |
+|---------|------------|
+| **A:** How about seeing a film this evening? | **A:** Tối nay cùng xem một bộ phim thì sao nhỉ? |
+| **B:** That's a great idea. What film shall we see? | **B:** Đó là một ý tưởng tuyệt vời. Chúng ta sẽ xem bộ phim nào? |
+| **A:** Kungfu Boy. | **A:** Cậu bé Kungfu. |
+| **B:** What kind of film is it? | **B:** Đó là loại phim gì? |
+| **A:** It's a comedy. | **A:** Đó là phim hài. |
+| **B:** Who is the main actor and director? | **B:** Diễn viên chính và đạo diễn là ai? |
+| **A:** Bruce Wane and John Stevenson. | **A:** Bruce Wane và John Stevenson. |
+| **B:** What time is it on? | **B:** Phim chiếu lúc mấy giờ? |
+| **A:** It's on at 4:30 p.m. and 8:30 p.m. daily. | **A:** Chiếu lúc 4:30 chiều và 8:30 tối mỗi ngày. |
+| **B:** Where is it showing? | **B:** Phim chiếu ở đâu? |
+| **A:** At Ngoc Khanh Cinema. | **A:** Tại rạp Ngọc Khánh. |
+| **B:** What's it about? | **B:** Phim nói về gì? |
+| **A:** It's about a very big boy who saves his town and becomes a hero. | **A:** Phim kể về một cậu bé rất lớn đã cứu thị trấn của mình và trở thành anh hùng. |
+| **B:** How are the reviews? | **B:** Đánh giá thế nào? |
+| **A:** They say it's funny and interesting. | **A:** Mọi người nói phim hài hước và thú vị. |
 </dialogue>
 
 <teacher_script pause="0">
-Nhìn vô mẫu nè: Kungfu Boy là phim comedy - phim hài. Đạo diễn là John Stevenson. Diễn viên chính là Bruce Wane. Phim về một cậu bé to lớn cứu thị trấn và trở thành anh hùng. Đánh giá là funny and interesting - hài hước và thú vị.
+Nhìn vô mẫu nè: Kungfu Boy là phim comedy - phim hài. Đạo diễn là John Stevenson. Diễn viên chính là Bruce Wane. Phim chiếu lúc 4:30 chiều và 8:30 tối tại rạp Ngọc Khánh. Phim về một cậu bé to lớn cứu thị trấn và trở thành anh hùng. Đánh giá là funny and interesting - hài hước và thú vị.
 </teacher_script>
 
 <teacher_script pause="0" action="record">
 Giờ đóng vai giới thiệu phim <eng>Kungfu Boy</eng> dựa trên thông tin đi. Ghi âm và gửi cho thầy nha.
+</teacher_script>
+
+---
+
+<!-- chunk: exercise_5 -->
+### Bài 5 trang 88 - Talk about the film
+
+<teacher_script pause="0">
+Bài 5 nha. Làm việc nhóm, lần lượt nói về phim <eng>Kungfu Boy</eng>.
+</teacher_script>
+
+<task>
+**Đề:** Work in groups. Take turns to talk about the film Kungfu Boy.
+**Dịch đề:** Làm việc nhóm. Lần lượt nói về bộ phim Kungfu Boy.
+</task>
+
+<answer>
+**Gợi ý trả lời:**
+Kungfu Boy is on at Ngoc Khanh Cinema at 4:30 p.m. It's a comedy about a very big boy who saves his town and becomes a hero. It stars Bruce Wane and was directed by John Stevenson. People say that it is very funny and interesting.
+
+*(Kungfu Boy đang chiếu tại rạp Ngọc Khánh lúc 4:30 chiều. Đó là một bộ phim hài về một cậu bé rất lớn đã cứu thị trấn của mình và trở thành một anh hùng. Phim có sự tham gia của Bruce Wane và đạo diễn bởi John Stevenson. Mọi người nói rằng nó rất hài hước và thú vị.)*
+</answer>
+
+<teacher_script pause="0" action="record">
+Giờ tự nói về phim <eng>Kungfu Boy</eng> theo mẫu rồi ghi âm gửi cho thầy nha.
 </teacher_script>
 
 ---

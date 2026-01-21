@@ -4,29 +4,37 @@
 
 <!-- chunk: intro -->
 <teacher_script pause="0">
-Chào các em. Mời các em mở sách giáo khoa trang 97. Hôm nay chúng ta qua bài <eng>Skills 1</eng>. Chúng ta sẽ đọc về lễ hội Ngày Song Sinh ở Mỹ - <eng>Twins Day Festival</eng>.
+Ok lớp 7, Unit 9 bài <eng>Skills 1</eng> nha. Mở sách trang 97. Hôm nay mình đọc về lễ hội Ngày Song Sinh ở Mỹ - <eng>Twins Day Festival</eng>.
 </teacher_script>
 
 ---
 
 <!-- chunk: vocabulary -->
 <teacher_script pause="0">
-Trước tiên, chúng ta cùng học từ vựng mới. Các em nghe và đọc theo nhé.
+Học từ vựng trước nha. Bấm "Bắt đầu" rồi nghe và đọc theo.
 </teacher_script>
 
 <vocabulary>
-**Reading Vocabulary:**
-1. **twins** : (n) cặp song sinh /twɪnz/
-2. **festival** : (n) lễ hội /ˈfestɪvl/
-3. **gathering** : (n) cuộc tụ họp /ˈɡæðərɪŋ/
-4. **parade** : (n) cuộc diễu hành /pəˈreɪd/
-5. **talent show** : (n) chương trình tài năng /ˈtælənt ʃəʊ/
-6. **performance** : (n) buổi biểu diễn /pəˈfɔːməns/
-7. **costume** : (n) trang phục /ˈkɒstjuːm/
-8. **uniform** : (n) đồng phục /ˈjuːnɪfɔːm/
-9. **feature** : (v) có, giới thiệu /ˈfiːtʃə/
-10. **sleepy** : (adj) buồn ngủ /ˈsliːpi/
+1. **arrive** : (v) đến, tới /əˈraɪv/
+2. **hold - held - held** : (v) tổ chức, giữ /həʊld - held - held/
+3. **on the first weekend in August** : vào cuối tuần đầu tiên của tháng Tám /ɒn ðə fɜːst ˌwiːkˈend ɪn ˈɔːɡəst/
+4. **gathering** : (n) buổi tụ họp, sự tập trung /ˈɡæðərɪŋ/
+5. **twin** : (n) sinh đôi, cặp song sinh /twɪn/
+6. **wear - wore - worn** : (v) mặc, đeo /weə - wɔː - wɔːn/
+7. **uniform** : (n) đồng phục /ˈjuːnɪfɔːm/
+8. **Double Take Parade** : Cuộc diễu hành Double Take /ˌdʌbəl ˈteɪk pəˈreɪd/
+9. **feature** : (v) có đặc điểm, giới thiệu /ˈfiːtʃə/
+10. **performance** : (n) buổi biểu diễn, sự thể hiện /pəˈfɔːməns/
+11. **have a lot of fun** : có nhiều niềm vui /hæv ə lɒt əv fʌn/
+12. **take photo - took photo - taken photo** : (v) chụp ảnh /teɪk ˈfəʊtəʊ - tʊk ˈfəʊtəʊ - ˈteɪkən ˈfəʊtəʊ/
+13. **get sleepy** : trở nên buồn ngủ /ɡet ˈsliːpi/
+14. **thousands** : (n) hàng nghìn /ˈθaʊzəndz/
+15. **run - ran - run** : (v) chạy /rʌn - ræn - rʌn/
 </vocabulary>
+
+<teacher_script pause="0">
+Làm bài trắc nghiệm từ vựng rồi ghi từ vựng vô tập nha.
+</teacher_script>
 
 ---
 
@@ -34,83 +42,104 @@ Trước tiên, chúng ta cùng học từ vựng mới. Các em nghe và đọc
 ### Bài 1 trang 97 - Look at the pictures
 
 <teacher_script pause="30">
-Bài 1 <eng>Look at the pictures</eng>. Các em quan sát hình và đoán xem những hoạt động nào xảy ra ở lễ hội Twins Day Festival. 30 giây nha.
+Bài 1 <eng>Work in pairs. Look at the pictures</eng>. Nhìn hình và đoán xem những sự kiện nào xảy ra ở lễ hội Twins Day Festival. 30 giây nha.
 </teacher_script>
 
 <task>
-**Yêu cầu:** Work in pairs. Look at the pictures. Which events do you think happen at the Twins Day Festival?
-**Dịch:** Làm việc theo cặp. Nhìn vào các hình. Bạn nghĩ những sự kiện nào xảy ra tại Lễ hội Ngày Song Sinh?
+**Đề:** Work in pairs. Look at the pictures. Which events do you think happen at the Twins Day Festival?
+**Dịch đề:** Làm việc theo cặp. Nhìn vào các hình. Bạn nghĩ những sự kiện nào diễn ra tại Lễ hội Ngày Song Sinh?
 </task>
+
+<teacher_script pause="0">
+Bây giờ đọc nhanh email bên dưới và kiểm tra câu trả lời của mình nha.
+</teacher_script>
 
 <answer>
 **Gợi ý trả lời:**
-- A parade (cuộc diễu hành)
-- A talent show (chương trình tài năng)
-- A fun run (cuộc chạy vui)
-- Taking photos together (chụp ảnh cùng nhau)
+I think the event Double Take Parade happened at the Twins Day Festival.
+*(Tôi nghĩ sự kiện Double Take Parade diễn ra tại Lễ hội Ngày sinh đôi.)*
 </answer>
 
 ---
 
 <!-- chunk: reading_text -->
-### Bài 2 trang 97 - Read the email
+### Reading - Read the email
 
 <teacher_script pause="0">
-Bài 2. Bây giờ các em đọc email của Mark gửi cho Nick về lễ hội Twins Day Festival nhé.
+Đây là email của Mark gửi cho Nick về lễ hội Twins Day Festival. Đọc và dịch nha.
 </teacher_script>
 
 <reading>
-| English | Vietnamese |
-|---------|------------|
-| **Subject: Amazing Twins Day Festival!** | **Chủ đề: Lễ hội Ngày Song Sinh tuyệt vời!** |
-| Hi Nick, | Chào Nick, |
-| We arrived in Twinsburg, Ohio two days ago. | Chúng tôi đến Twinsburg, Ohio hai ngày trước. |
-| People here hold the Twins Day Festival every year. | Mọi người ở đây tổ chức Lễ hội Ngày Song Sinh hàng năm. |
-| It happens on the first weekend in August. | Nó diễn ra vào cuối tuần đầu tiên của tháng Tám. |
-| It's the largest gathering for twins in the world. | Đây là cuộc tụ họp lớn nhất dành cho các cặp song sinh trên thế giới. |
-| Thousands of twins come from different countries. | Hàng ngàn cặp song sinh đến từ các quốc gia khác nhau. |
-| Yesterday morning, my twin sister and I joined the Double Take Parade, a parade of twins. | Sáng hôm qua, chị em sinh đôi của tôi và tôi đã tham gia Cuộc diễu hành Double Take, một cuộc diễu hành của các cặp song sinh. |
-| We wore uniforms and walked together. | Chúng tôi mặc đồng phục và đi bộ cùng nhau. |
-| Then we saw a Talent Show. | Sau đó chúng tôi xem một chương trình Tài năng. |
-| It featured singing, dancing, comedy, and other things. | Nó có các tiết mục ca hát, nhảy múa, hài kịch và những thứ khác. |
-| I loved the performance by the twins from Korea the most. | Tôi yêu thích nhất tiết mục biểu diễn của cặp song sinh từ Hàn Quốc. |
-| This morning we ran in the Fun Run. | Sáng nay chúng tôi chạy trong cuộc chạy Fun Run. |
-| We didn't win but had a lot of fun. | Chúng tôi không thắng nhưng rất vui. |
-| This afternoon we took photos with twins from other countries. | Chiều nay chúng tôi chụp ảnh với các cặp song sinh từ các nước khác. |
-| This is one of the most exciting festivals I've been to. | Đây là một trong những lễ hội thú vị nhất mà tôi từng tham dự. |
-| I'm getting sleepy, so bye for now. | Tôi đang buồn ngủ rồi, nên tạm biệt nhé. |
-| Best, Mark | Thân, Mark |
+**New Message**
+
+From: mark@usmail.com
+
+To: nick@ukmail.com
+
+Subject: Amazing Twins Day Festival!
+
+Hi Nick,
+
+My family and I arrived in Twinsburg, Ohio two days ago. People here hold the Twins Day Festival every year. It happens on the first weekend in August. It's the largest gathering for twins in the world. Thousands of twins come from different countries.
+
+Yesterday morning my twin sister and I joined the Double Take Parade, a parade of twins. We wore uniforms and walked together. Then we saw a Talent Show. It featured singing, dancing, comedy, and other things. I loved the performance by the twins from Korea the most.
+
+This morning we ran in the Fun Run. We didn't win but had a lot of fun. This afternoon we took photos with twins from other countries. This is one of the most exciting festivals I've been to.
+
+I'm getting sleepy, so bye for now.
+
+Best,
+
+Mark
 </reading>
 
-<teacher_script pause="120">
-Các em hãy dành 2 phút đọc và hiểu nội dung email nhé.
+<translation>
+**Dịch bài đọc:**
+
+Xin chào Nick,
+
+Mình và gia đình đã đến Twinsburg, Ohio hai ngày trước. Người dân ở đây tổ chức Lễ hội Ngày Song Sinh hàng năm. Nó diễn ra vào ngày cuối tuần đầu tiên của tháng Tám. Đó là dịp tụ họp lớn nhất dành cho các cặp song sinh trên thế giới. Hàng nghìn cặp song sinh đến từ các quốc gia khác nhau.
+
+Sáng hôm qua, mình và chị gái sinh đôi của mình đã tham gia Double Take Parade, một cuộc diễu hành của các cặp song sinh. Chúng mình mặc đồng phục và cùng nhau đi diễu hành. Sau đó, chúng mình đã xem một chương trình tài năng. Nó nổi bật với các màn trình diễn ca hát, khiêu vũ, hài kịch và những thứ khác. Mình thích màn trình diễn của cặp song sinh đến từ Hàn Quốc nhất.
+
+Sáng nay chúng mình đã chạy trong cuộc thi "Fun Run". Tuy chúng mình không thắng nhưng rất vui. Chiều nay chúng mình đã chụp ảnh với các cặp song sinh đến từ các quốc gia khác. Đây là một trong những lễ hội thú vị nhất mà mình từng tham gia.
+
+Mình đang buồn ngủ quá, tạm biệt bạn nhé.
+
+Thân,
+
+Mark
+</translation>
+
+<teacher_script pause="180">
+Dịch email vô vở. 3 phút nha.
 </teacher_script>
 
 ---
 
 <!-- chunk: exercise_2 -->
-### Bài 2 trang 98 - Match words with meanings
+### Bài 2 trang 97 - Match words with meanings
 
 <teacher_script pause="60">
-Bài 2 <eng>Match words with meanings</eng>. Nối từ trong email với nghĩa phù hợp. 1 phút nha.
+Bài 2 <eng>Match each word from the email in 1 with its meaning</eng>. Nối từng từ trong email với nghĩa của nó. 1 phút nha.
 </teacher_script>
 
-<questions type="matching">
-**Words:**
-1. festival
-2. gathering
-3. feature
-4. parade
+<task>
+**Đề:** Match each word from the email in 1 with its meaning.
+**Dịch đề:** Ghép từng từ trong email trong bài tập 1 với nghĩa của nó.
+</task>
 
-**Meanings:**
-a. to include something as a part
-b. a special day or period when people celebrate something
-c. a public event where people walk or drive down a street
-d. a meeting of people
+<questions type="matching">
+| Từ | Nghĩa |
+|---|---|
+| 1. gathering | a. two children born to the same mother at the same time |
+| 2. featured | b. meeting |
+| 3. twins | c. the act of entertaining other people by singing, dancing, and playing music, etc. |
+| 4. performance | d. showed something as the most important part |
 </questions>
 
 <teacher_script pause="0">
-Đáp án nè.
+Ok đáp án nè.
 </teacher_script>
 
 <answer>
@@ -119,120 +148,185 @@ d. a meeting of people
 
 <explanation>
 **Giải thích:**
-1. **festival** = b (lễ hội = ngày đặc biệt để ăn mừng)
-2. **gathering** = d (cuộc tụ họp = cuộc gặp mặt của mọi người)
-3. **feature** = a (có, bao gồm)
-4. **parade** = c (diễu hành = sự kiện công cộng nơi mọi người đi bộ hoặc lái xe trên đường phố)
+1. **gathering** (n) = **b. meeting** - sự tụ tập = buổi gặp mặt
+2. **featured** (adj) = **d. showed something as the most important part** - đặc sắc = một thứ hay điều gì đó như phần quan trọng nhất
+3. **twins** (n) = **a. two children born to the same mother at the same time** - sinh đôi = hai đứa trẻ được sinh cùng mẹ vào cùng một thời điểm
+4. **performance** (n) = **c. the act of entertaining other people by singing, dancing, and playing music, etc.** - màn trình diễn = hoạt động giải trí cho người khác bằng việc ca hát, nhảy múa và chơi nhạc cụ
 </explanation>
 
 ---
 
 <!-- chunk: exercise_3 -->
-### Bài 3 trang 98 - Complete sentences
+### Bài 3 trang 97 - Complete sentences
 
 <teacher_script pause="90">
-Bài 3 <eng>Complete sentences</eng>. Đọc lại email và điền không quá HAI từ vào mỗi chỗ trống. 90 giây nha.
+Bài 3 <eng>Read the email again. Complete each sentence with no more than TWO words</eng>. Đọc lại email. Hoàn thành mỗi câu với không quá HAI từ. 90 giây nha.
 </teacher_script>
+
+<task>
+**Đề:** Read the email again. Complete each sentence with no more than TWO words.
+**Dịch đề:** Đọc lại email. Hoàn thành mỗi câu với không quá HAI từ.
+</task>
 
 <questions type="fill_blanks">
 **1.** People hold the festival in Twinsburg on the _______ every August.
+*Mọi người tổ chức lễ hội ở Twinsburg vào _______ mỗi tháng 8.*
 
-**2.** There are twins from many different _______ at the festival.
+**2.** There are twins from many _______.
+*Có những cặp song sinh đến từ nhiều _______.*
 
-**3.** In the Double Take Parade, twins wearing _______ walked together.
+**3.** In the Double Take Parade, twins in uniforms _______.
+*Trong Double Take Parade, cặp song sinh mặc đồng phục _______.*
 
-**4.** At the Talent Show, Mark loved the _______ by the Korean twins the most.
+**4.** Mark enjoyed the _______ by the Korean twins the most.
+*Mark thích _______ của cặp song sinh Hàn Quốc nhất.*
 
-**5.** Mark and his sister took photos with twins from _______.
+**5.** Mark and his twin sister ran in the _______.
+*Mark và em gái song sinh của anh ấy đã chạy trong _______.*
+
+**6.** In his opinion, the festival was very _______.
+*Theo ý kiến của anh ấy, lễ hội rất _______.*
 </questions>
 
 <teacher_script pause="0">
-Đáp án đây nè.
+Ok đáp án đây nè.
 </teacher_script>
 
 <answer>
 **Đáp án:**
 1. first weekend
-2. countries
-3. uniforms
+2. different countries
+3. walked together
 4. performance
-5. other countries
+5. Fun Run
+6. exciting
 </answer>
 
 <explanation>
 **Giải thích:**
-1. "It happens on the **first weekend** in August."
-2. "Thousands of twins come from different **countries**."
-3. "We wore **uniforms** and walked together."
-4. "I loved the **performance** by the twins from Korea the most."
-5. "This afternoon we took photos with twins from **other countries**."
+1. "It happens on the **first weekend** in August." - Nó diễn ra vào **cuối tuần đầu tiên** của tháng Tám.
+2. "Thousands of twins come from **different countries**." - Hàng nghìn cặp song sinh đến từ **các quốc gia khác nhau**.
+3. "We wore uniforms and **walked together**." - Chúng mình mặc đồng phục và **cùng nhau đi bộ**.
+4. "I loved the **performance** by the twins from Korea the most." - Mình thích **màn trình diễn** của cặp song sinh đến từ Hàn Quốc nhất.
+5. "This morning we ran in the **Fun Run**." - Sáng nay chúng mình đã chạy trong cuộc thi **Fun Run**.
+6. "This is one of the most **exciting** festivals I've been to." - Đây là một trong những lễ hội **thú vị** nhất mà mình từng tham gia.
 </explanation>
 
 <teacher_script pause="30">
-Các em sửa bài nếu có sai nhé.
+Sửa bài nếu có sai nha.
 </teacher_script>
 
 ---
 
-<!-- chunk: speaking -->
-### Bài 4 & 5 trang 98 - Speaking
+<!-- chunk: speaking_intro -->
+### Speaking
 
 <teacher_script pause="0">
-Chuyển sang phần <eng>Speaking</eng>.
+Chuyển sang phần <eng>Speaking</eng> nha.
 </teacher_script>
 
-### Bài 4 - Match questions and answers
+---
+
+<!-- chunk: exercise_4 -->
+### Bài 4 trang 97 - Match questions and answers
+
+<teacher_script pause="60">
+Bài 4 <eng>Match the questions and answers about a festival someone joined</eng>. Ghép các câu hỏi và câu trả lời về lễ hội mà một người nào đó đã tham gia. 1 phút nha.
+</teacher_script>
 
 <task>
-**Match the questions with the answers about a festival:**
+**Đề:** Match the questions and answers about a festival someone joined.
+**Dịch đề:** Ghép các câu hỏi và câu trả lời về lễ hội mà một người nào đó đã tham gia.
 </task>
 
 <questions type="matching">
 **Questions:**
-1. What is the name of the festival?
-2. Where and when do people hold it?
-3. What can people do there?
-4. How do you feel about it?
+1. What festival did you join?
+2. Where and when did you join it?
+3. Why do people celebrate it?
+4. What did you do there?
+5. Did you like the festival? Why or why not?
 
 **Answers:**
-a. They can watch parades and take part in cooking competitions.
-b. I think it's a great festival to learn about food from around the world.
-c. It's the Taste of Chicago.
-d. In Chicago, the USA, every July.
+a. Yes, very much because there was a lot to do.
+b. I joined the festival in Phu Yen last March.
+c. I watched people play drums, sing traditional songs, and dance. I also played traditional games with the children there.
+d. I joined Hoi Mua Festival.
+e. They celebrate it to thank the Rice God and pray for a better new crop.
 </questions>
 
+<teacher_script pause="0">
+Ok đáp án nè.
+</teacher_script>
+
 <answer>
-**Đáp án:** 1.c | 2.d | 3.a | 4.b
+**Đáp án:** 1.d | 2.b | 3.e | 4.c | 5.a
 </answer>
+
+<explanation>
+**Giải thích:**
+1. **What festival did you join?** - **d. I joined Hoi Mua Festival.**
+   *(Bạn đã tham gia lễ hội nào? - Mình đã tham gia Hội Mùa.)*
+
+2. **Where and when did you join it?** - **b. I joined the festival in Phu Yen last March.**
+   *(Bạn đã tham gia ở đâu và khi nào? - Mình tham gia lễ hội ở Phú Yên vào tháng Ba vừa rồi.)*
+
+3. **Why do people celebrate it?** - **e. They celebrate it to thank the Rice God and pray for a better new crop.**
+   *(Tại sao mọi người tổ chức nó? - Họ tổ chức lễ hội để tạ ơn Thần Lúa và cầu mong một vụ mùa mới bội thu.)*
+
+4. **What did you do there?** - **c. I watched people play drums, sing traditional songs, and dance. I also played traditional games with the children there.**
+   *(Bạn đã làm gì ở đó? - Mình đã xem mọi người chơi trống, hát các bài hát truyền thống và nhảy múa. Mình cũng chơi các trò chơi truyền thống với những đứa trẻ ở đó.)*
+
+5. **Did you like the festival? Why or why not?** - **a. Yes, very much because there was a lot to do.**
+   *(Bạn có thích lễ hội đó không? Tại sao có hoặc tại sao không? - Có chứ, mình rất thích vì có rất nhiều hoạt động để tham gia.)*
+</explanation>
 
 ---
 
-<!-- chunk: speaking_practice -->
-### Bài 5 - Talk about a festival
+<!-- chunk: exercise_5 -->
+### Bài 5 trang 97 - Speaking Practice
 
 <teacher_script pause="0">
-Bài 5. Các em làm việc theo cặp, hỏi và trả lời về một lễ hội mà em đã tham dự.
+Bài 5 <eng>Work in pairs. Ask and answer about a festival you and your friend joined, using the questions in 4 as cues. Tell the class about the festival your partner joined</eng>. Làm việc theo cặp. Hỏi và trả lời các câu hỏi về một lễ hội mà bạn và bạn của bạn đã tham gia, sử dụng các câu hỏi trong bài 4 như gợi ý. Kể cho cả lớp nghe về lễ hội mà bạn cùng nhóm đã tham gia.
 </teacher_script>
 
 <dialogue>
-**Example conversation:**
+**Example conversation about Buffalo-fighting Festival:**
 
 | A | B |
 |---|---|
-| What is the name of the festival? | It's the Tet Festival / Mid-Autumn Festival. |
-| Where and when do people hold it? | In Viet Nam, every January or February / September. |
-| What can people do there? | They can watch fireworks, eat traditional food, visit relatives. |
-| How do you feel about it? | I think it's a wonderful festival to celebrate with family. |
+| What festival did you join? | I and my friends joined the Buffalo-fighting Festival. |
+| | *(Mình và các bạn đã tham dự Lễ hội chọi trâu.)* |
+| Where and when did you join it? | We joined the festival in Do Son on August 9th according to the Lunar calendar. |
+| | *(Chúng mình tham gia lễ hội ở Đồ Sơn vào ngày 9 tháng 8 Âm lịch.)* |
+| Why do people celebrate it? | They celebrate it to remember the merits of gods, maintain the village discipline, to pray for the prosperity and happiness for the local people. |
+| | *(Họ tổ chức lễ hội để ghi nhớ công lao của các vị thần, duy trì kỷ cương làng xã, cầu ấm no hạnh phúc cho nhân dân địa phương.)* |
+| What did you do there? | We watched people play drum, dance and watch the buffalos. The drum sound and the scream of people urge the buffalo to play in a fierce way. |
+| | *(Chúng mình xem mọi người đánh trống, múa và xem trâu. Tiếng trống, tiếng hò hét của mọi người thúc giục đàn trâu hừng hực khí thế.)* |
+| Did you like the festival? Why or why not? | Yes, very much because it was really fascinating and amazing. |
+| | *(Có chứ, chúng mình rất thích vì ở đó thực sự hấp dẫn và tuyệt vời.)* |
 </dialogue>
 
+<teacher_script pause="0">
+Đây là bài mẫu kể về lễ hội:
+</teacher_script>
+
+<reading>
+My friends and I attended the Buffalo-fighting Festival in Do Son last year. This festival is held every year, on August 9th according to the Lunar calendar. The Buffalo-fighting Festival is held to remember the merits of gods, to maintain the village discipline, to pray for the prosperity and happiness for the local people. People played the drum, danced and watched the buffalos. The drum sound and the scream of people urge the buffalo to play in a fierce way. Many buffalo owners, local people and tourists came to the festival. The festival was really fascinating and amazing.
+</reading>
+
+<translation>
+**Tạm dịch:**
+Tôi và bạn bè đã tham dự Lễ hội chọi trâu ở Đồ Sơn năm ngoái. Lễ hội này được tổ chức hàng năm, vào ngày 9 tháng 8 Âm lịch. Lễ hội chọi trâu được tổ chức nhằm ghi nhớ công lao của các vị thần, duy trì kỷ cương làng xã, nhằm cầu ấm no hạnh phúc cho nhân dân địa phương. Mọi người đánh trống, múa và xem trâu. Tiếng trống, tiếng hò hét của mọi người thúc giục đàn trâu hừng hực khí thế. Nhiều chủ trâu, người dân địa phương và du khách thập phương đã đến dự lễ hội. Lễ hội thực sự hấp dẫn và tuyệt vời.
+</translation>
+
 <teacher_script pause="0" action="record">
-Em hãy nói về một lễ hội mà em đã tham dự và ghi âm gửi cho thầy.
+Em hãy nói về một lễ hội mà em đã tham dự, dùng các câu hỏi trong bài 4. Ghi âm gửi cho thầy nha.
 </teacher_script>
 
 ---
 
 <!-- chunk: end -->
 <teacher_script pause="0">
-Ok hết bài Skills 1 rồi. Nhớ các từ vựng: <eng>twins</eng> = cặp song sinh, <eng>festival</eng> = lễ hội, <eng>gathering</eng> = cuộc tụ họp, <eng>parade</eng> = diễu hành.
-Bài sau qua Skills 2, chúng ta sẽ nghe về lễ hội Thanksgiving. Hẹn gặp lại!
+Ok hết bài <eng>Skills 1</eng> rồi nha. Nhớ các từ vựng: <eng>gathering</eng> = buổi tụ họp, <eng>twins</eng> = cặp song sinh, <eng>featured</eng> = đặc sắc, <eng>performance</eng> = màn trình diễn. Bài sau qua <eng>Skills 2</eng>. Hẹn gặp lại!
 </teacher_script>
