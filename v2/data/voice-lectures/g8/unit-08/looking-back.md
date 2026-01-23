@@ -9,6 +9,37 @@ Ok lớp 8, qua bài cuối cùng của Unit 8: <eng>Looking Back</eng> nha. M�
 
 ---
 
+<!-- chunk: vocabulary -->
+<vocabulary>
+**Key vocabulary review (Ôn tập từ vựng chính):**
+1. **bargain** : (v) mặc cả /ˈbɑːɡən/
+2. **browsing** : (v) xem lướt qua /ˈbraʊzɪŋ/
+3. **on sale** : (adj) giảm giá /ɒn seɪl/
+4. **shopaholic** : (n) người nghiện mua sắm /ˌʃɒpəˈhɒlɪk/
+5. **range of products** : (n) nhiều loại sản phẩm /reɪndʒ əv ˈprɒdʌkts/
+
+**Shopping places (Địa điểm mua sắm):**
+6. **open-air market** : (n) chợ ngoài trời /ˌəʊpən ˈeə ˈmɑːkɪt/
+7. **convenience store** : (n) cửa hàng tiện lợi /kənˈviːniəns stɔː/
+8. **discount shop** : (n) cửa hàng giảm giá /ˈdɪskaʊnt ʃɒp/
+9. **online shop** : (n) cửa hàng trực tuyến /ˈɒnlaɪn ʃɒp/
+
+**Adverbs of frequency (Trạng từ tần suất):**
+10. **always** : (adv) luôn luôn /ˈɔːlweɪz/
+11. **usually** : (adv) thường xuyên /ˈjuːʒuəli/
+12. **often** : (adv) thường /ˈɒfn/
+13. **sometimes** : (adv) thỉnh thoảng /ˈsʌmtaɪmz/
+14. **rarely** : (adv) hiếm khi /ˈreəli/
+15. **never** : (adv) không bao giờ /ˈnevə/
+
+**Other words (Từ khác):**
+16. **home-grown** : (adj) nhà trồng /ˌhəʊm ˈɡrəʊn/
+17. **home-made** : (adj) nhà làm /ˌhəʊm ˈmeɪd/
+18. **offline** : (adj/adv) ngoại tuyến /ˌɒfˈlaɪn/
+</vocabulary>
+
+---
+
 <!-- chunk: exercise_1 -->
 ### Bài 1 trang 90 - Match meanings
 

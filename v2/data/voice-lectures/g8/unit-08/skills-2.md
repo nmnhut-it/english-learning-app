@@ -9,6 +9,35 @@ Ok lớp 8, qua bài <eng>Skills 2</eng> nha. Mở sách trang 89 đi. Hôm nay 
 
 ---
 
+<!-- chunk: vocabulary -->
+<vocabulary>
+**Online shopping (Mua sắm trực tuyến):**
+1. **online shopping** : (n) mua sắm trực tuyến /ˈɒnlaɪn ˈʃɒpɪŋ/
+2. **seller** : (n) người bán /ˈselə/
+3. **buyer** : (n) người mua /ˈbaɪə/
+4. **website** : (n) trang web /ˈwebsaɪt/
+5. **cart** : (n) giỏ hàng /kɑːt/
+
+**Payment (Thanh toán):**
+6. **credit card** : (n) thẻ tín dụng /ˈkredɪt kɑːd/
+7. **payment** : (n) thanh toán /ˈpeɪmənt/
+8. **pay** : (v) trả tiền /peɪ/
+9. **cost** : (n/v) chi phí, tốn /kɒst/
+
+**Delivery (Giao hàng):**
+10. **delivery** : (n) giao hàng /dɪˈlɪvəri/
+11. **shipping** : (n) vận chuyển /ˈʃɪpɪŋ/
+12. **arrive** : (v) đến nơi /əˈraɪv/
+
+**Benefits and drawbacks (Lợi ích và hạn chế):**
+13. **convenient** : (adj) tiện lợi /kənˈviːniənt/
+14. **benefit** : (n) lợi ích /ˈbenɪfɪt/
+15. **over-shopping** : (n) mua sắm quá mức /ˈəʊvə ˈʃɒpɪŋ/
+16. **unnecessarily** : (adv) không cần thiết /ʌnˈnesəsərəli/
+</vocabulary>
+
+---
+
 <!-- chunk: exercise_1 -->
 ### Bài 1 trang 89 - Tick items
 

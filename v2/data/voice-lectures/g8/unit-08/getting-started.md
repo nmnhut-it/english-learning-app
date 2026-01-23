@@ -11,16 +11,33 @@ Ok lớp 8, Unit 8 nha. Mở sách trang 82 đi. Chủ đề hôm nay là <eng>S
 
 <!-- chunk: vocabulary -->
 <vocabulary>
-**Vocabulary:**
+**Shopping places (Địa điểm mua sắm):**
 1. **fair** : (n) hội chợ /feə/
 2. **open-air market** : (n) chợ ngoài trời /ˌəʊpən ˈeə ˈmɑːkɪt/
-3. **costume** : (n) trang phục /ˈkɒstjuːm/
-4. **home-grown** : (adj) nhà trồng /ˌhəʊm ˈɡrəʊn/
-5. **home-made** : (adj) nhà làm /ˌhəʊm ˈmeɪd/
-6. **bargain** : (v) mặc cả, trả giá /ˈbɑːɡən/
-7. **fixed price** : (n) giá cố định /ˌfɪkst ˈpraɪs/
-8. **price tag** : (n) nhãn giá /ˈpraɪs tæɡ/
-9. **convenience store** : (n) cửa hàng tiện lợi /kənˈviːniəns stɔː/
+3. **farmers' market** : (n) chợ nông sản /ˈfɑːməz ˈmɑːkɪt/
+4. **supermarket** : (n) siêu thị /ˈsuːpəˌmɑːkɪt/
+5. **convenience store** : (n) cửa hàng tiện lợi /kənˈviːniəns stɔː/
+
+**Products (Sản phẩm):**
+6. **home-grown** : (adj) nhà trồng /ˌhəʊm ˈɡrəʊn/
+7. **home-made** : (adj) nhà làm /ˌhəʊm ˈmeɪd/
+8. **costume** : (n) trang phục /ˈkɒstjuːm/
+9. **product** : (n) sản phẩm /ˈprɒdʌkt/
+10. **goods** : (n) hàng hóa /ɡʊdz/
+
+**Prices (Giá cả):**
+11. **bargain** : (v) mặc cả, trả giá /ˈbɑːɡən/
+12. **fixed price** : (n) giá cố định /ˌfɪkst ˈpraɪs/
+13. **price tag** : (n) nhãn giá /ˈpraɪs tæɡ/
+14. **cheap** : (adj) rẻ /tʃiːp/
+15. **expensive** : (adj) đắt /ɪkˈspensɪv/
+
+**Shopping actions (Hành động mua sắm):**
+16. **display** : (v) trưng bày /dɪˈspleɪ/
+17. **shelf** : (n) kệ hàng /ʃelf/
+18. **sell** : (v) bán /sel/
+19. **buy** : (v) mua /baɪ/
+20. **prefer** : (v) thích hơn /prɪˈfɜː/
 </vocabulary>
 
 <teacher_script pause="0">

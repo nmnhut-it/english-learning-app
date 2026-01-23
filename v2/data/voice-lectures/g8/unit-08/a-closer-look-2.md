@@ -9,6 +9,35 @@ Ok lớp 8, qua bài <eng>A Closer Look 2</eng> nha. Mở sách trang 85 đi. H�
 
 ---
 
+<!-- chunk: vocabulary -->
+<vocabulary>
+**Adverbs of frequency (Trạng từ tần suất):**
+1. **always** : (adv) luôn luôn (100%) /ˈɔːlweɪz/
+2. **usually** : (adv) thường xuyên (80%) /ˈjuːʒuəli/
+3. **often** : (adv) thường (60%) /ˈɒfn/
+4. **sometimes** : (adv) thỉnh thoảng (40%) /ˈsʌmtaɪmz/
+5. **rarely** : (adv) hiếm khi (20%) /ˈreəli/
+6. **never** : (adv) không bao giờ (0%) /ˈnevə/
+
+**Time expressions (Cụm từ chỉ thời gian):**
+7. **schedule** : (n) lịch trình /ˈʃedjuːl/
+8. **timetable** : (n) thời khóa biểu /ˈtaɪmˌteɪbl/
+9. **opening hours** : (n) giờ mở cửa /ˈəʊpənɪŋ ˈaʊəz/
+10. **every day** : (phr) mỗi ngày /ˈevri deɪ/
+
+**Shopping verbs (Động từ mua sắm):**
+11. **return** : (v) trả lại (hàng) /rɪˈtɜːn/
+12. **save** : (v) tiết kiệm /seɪv/
+13. **miss** : (v) bỏ lỡ /mɪs/
+14. **leave** : (v) rời đi /liːv/
+
+**Other useful words (Từ hữu ích khác):**
+15. **voucher** : (n) phiếu giảm giá /ˈvaʊtʃə/
+16. **shuttle bus** : (n) xe buýt đưa đón /ˈʃʌtl bʌs/
+</vocabulary>
+
+---
+
 <!-- chunk: grammar_1 -->
 <teacher_script pause="0">
 Điểm ngữ pháp 1: <eng>Adverbs of frequency</eng> - Trạng từ chỉ tần suất nha. Dùng để nói làm việc gì thường xuyên như thế nào.

@@ -11,15 +11,31 @@ Ok lớp 8, qua bài <eng>A Closer Look 1</eng> nha. Mở sách trang 84 đi. H�
 
 <!-- chunk: vocabulary -->
 <vocabulary>
-**Vocabulary:**
-1. **shopaholic** : (n) người nghiện mua sắm /ˌʃɒpəˈhɒlɪk/
-2. **browsing** : (v) xem lướt qua /ˈbraʊzɪŋ/
-3. **on sale** : (adj) giảm giá /ɒn seɪl/
-4. **Internet access** : (n) truy cập Internet /ˈɪntənet ˈækses/
-5. **speciality shop** : (n) cửa hàng chuyên doanh /ˌspeʃiˈæləti ʃɒp/
-6. **discount shop** : (n) cửa hàng giảm giá /ˈdɪskaʊnt ʃɒp/
-7. **online shop** : (n) cửa hàng trực tuyến /ˈɒnlaɪn ʃɒp/
-8. **range of products** : (n) nhiều loại sản phẩm /reɪndʒ əv ˈprɒdʌkts/
+**Types of shops (Các loại cửa hàng):**
+1. **speciality shop** : (n) cửa hàng chuyên doanh /ˌspeʃiˈæləti ʃɒp/
+2. **discount shop** : (n) cửa hàng giảm giá /ˈdɪskaʊnt ʃɒp/
+3. **online shop** : (n) cửa hàng trực tuyến /ˈɒnlaɪn ʃɒp/
+4. **shopping centre** : (n) trung tâm mua sắm /ˈʃɒpɪŋ ˈsentə/
+5. **department store** : (n) cửa hàng bách hóa /dɪˈpɑːtmənt stɔː/
+
+**Shopping vocabulary (Từ vựng mua sắm):**
+6. **shopaholic** : (n) người nghiện mua sắm /ˌʃɒpəˈhɒlɪk/
+7. **browsing** : (v) xem lướt qua /ˈbraʊzɪŋ/
+8. **on sale** : (adj) giảm giá /ɒn seɪl/
+9. **range of products** : (n) nhiều loại sản phẩm /reɪndʒ əv ˈprɒdʌkts/
+10. **customer** : (n) khách hàng /ˈkʌstəmə/
+
+**Technology and shopping (Công nghệ và mua sắm):**
+11. **Internet access** : (n) truy cập Internet /ˈɪntənet ˈækses/
+12. **website** : (n) trang web /ˈwebsaɪt/
+13. **click** : (v) nhấp chuột /klɪk/
+14. **order** : (v) đặt hàng /ˈɔːdə/
+
+**Pronunciation words (Từ luyện phát âm):**
+15. **spend** : (v) tiêu (tiền), dành (thời gian) /spend/
+16. **staff** : (n) nhân viên /stɑːf/
+17. **respect** : (n) sự tôn trọng /rɪˈspekt/
+18. **special** : (adj) đặc biệt /ˈspeʃl/
 </vocabulary>
 
 <teacher_script pause="0">

@@ -11,13 +11,31 @@ Ok lớp 8, qua bài <eng>Skills 1</eng> nha. Mở sách trang 88 đi. Hôm nay 
 
 <!-- chunk: vocabulary -->
 <vocabulary>
-**Vocabulary:**
+**Shopping centre features (Đặc điểm trung tâm mua sắm):**
 1. **year-round** : (adj) quanh năm /ˌjɪə ˈraʊnd/
 2. **entertainment** : (n) giải trí /ˌentəˈteɪnmənt/
 3. **decoration** : (n) trang trí /ˌdekəˈreɪʃn/
 4. **air conditioning** : (n) máy lạnh /ˌeə kənˈdɪʃənɪŋ/
-5. **attract** : (v) thu hút /əˈtrækt/
-6. **customer** : (n) khách hàng /ˈkʌstəmə(r)/
+5. **heating** : (n) hệ thống sưởi /ˈhiːtɪŋ/
+6. **well-lit** : (adj) được chiếu sáng tốt /wel lɪt/
+
+**Business vocabulary (Từ vựng kinh doanh):**
+7. **attract** : (v) thu hút /əˈtrækt/
+8. **customer** : (n) khách hàng /ˈkʌstəmə/
+9. **offer** : (v) cung cấp /ˈɒfə/
+10. **deal** : (n) thương vụ, khuyến mãi /diːl/
+
+**Shopping actions (Hành động mua sắm):**
+11. **try on** : (phr.v) thử (quần áo) /traɪ ɒn/
+12. **compare** : (v) so sánh /kəmˈpeə/
+13. **exercise** : (v) tập thể dục /ˈeksəsaɪz/
+14. **avoid** : (v) tránh /əˈvɔɪd/
+
+**Events and activities (Sự kiện và hoạt động):**
+15. **live music** : (n) nhạc sống /laɪv ˈmjuːzɪk/
+16. **fashion show** : (n) trình diễn thời trang /ˈfæʃn ʃəʊ/
+17. **holiday** : (n) ngày lễ /ˈhɒlədeɪ/
+18. **performance** : (n) buổi biểu diễn /pəˈfɔːməns/
 </vocabulary>
 
 ---

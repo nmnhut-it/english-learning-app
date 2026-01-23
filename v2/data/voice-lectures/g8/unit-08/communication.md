@@ -9,6 +9,35 @@ Ok lớp 8, qua bài <eng>Communication</eng> nha. Mở sách trang 87 đi. Hôm
 
 ---
 
+<!-- chunk: vocabulary -->
+<vocabulary>
+**Making complaints (Đưa ra lời phàn nàn):**
+1. **complaint** : (n) lời phàn nàn /kəmˈpleɪnt/
+2. **complain** : (v) phàn nàn /kəmˈpleɪn/
+3. **problem** : (n) vấn đề /ˈprɒbləm/
+4. **issue** : (n) vấn đề /ˈɪʃuː/
+
+**Product problems (Vấn đề sản phẩm):**
+5. **faulty** : (adj) bị lỗi /ˈfɔːlti/
+6. **damaged** : (adj) bị hư hỏng /ˈdæmɪdʒd/
+7. **expired** : (adj) hết hạn /ɪkˈspaɪəd/
+8. **broken** : (adj) bị vỡ, hỏng /ˈbrəʊkən/
+9. **wrong** : (adj) sai /rɒŋ/
+
+**Solutions (Giải pháp):**
+10. **refund** : (n/v) hoàn tiền /ˈriːfʌnd/
+11. **exchange** : (v) đổi hàng /ɪksˈtʃeɪndʒ/
+12. **replace** : (v) thay thế /rɪˈpleɪs/
+13. **receipt** : (n) hóa đơn /rɪˈsiːt/
+
+**Useful expressions (Cụm từ hữu ích):**
+14. **I'm not happy with** : (phr) tôi không hài lòng về /aɪm nɒt ˈhæpi wɪð/
+15. **I'm sorry about that** : (phr) tôi xin lỗi về điều đó /aɪm ˈsɒri əˈbaʊt ðæt/
+16. **Let me check** : (phr) để tôi kiểm tra /let mi tʃek/
+</vocabulary>
+
+---
+
 <!-- chunk: everyday_english -->
 ### Everyday English - Making complaints
 
