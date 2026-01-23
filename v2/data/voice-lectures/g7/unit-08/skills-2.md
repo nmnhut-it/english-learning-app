@@ -9,6 +9,33 @@ Ok lớp 7, qua bài <eng>Skills 2</eng> nha. Mở sách trang 89 đi. Hôm nay 
 
 ---
 
+<!-- chunk: vocabulary -->
+<vocabulary>
+**Listening vocabulary (Từ vựng nghe):**
+1. **twin** : (n) sinh đôi /twɪn/
+2. **naughty** : (adj) tinh nghịch, nghịch ngợm /ˈnɔːti/
+3. **summer camp** : (n) trại hè /ˈsʌmə kæmp/
+4. **meet** : (v) gặp /miːt/
+
+**Writing vocabulary (Từ vựng viết):**
+5. **paragraph** : (n) đoạn văn /ˈpærəɡrɑːf/
+6. **summary** : (n) tóm tắt /ˈsʌməri/
+7. **describe** : (v) miêu tả /dɪˈskraɪb/
+8. **introduce** : (v) giới thiệu /ˌɪntrəˈdjuːs/
+
+**Film description (Miêu tả phim):**
+9. **main actor** : (n) diễn viên nam chính /meɪn ˈæktə/
+10. **main actress** : (n) diễn viên nữ chính /meɪn ˈæktrəs/
+11. **content** : (n) nội dung /ˈkɒntent/
+12. **feature** : (n) đặc điểm /ˈfiːtʃə/
+
+**Useful phrases (Cụm từ hữu ích):**
+13. **critics say** : (phr) các nhà phê bình nói /ˈkrɪtɪks seɪ/
+14. **full of action** : (phr) đầy hành động /fʊl əv ˈækʃn/
+</vocabulary>
+
+---
+
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 89 - Listen and identify star
 

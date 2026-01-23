@@ -9,6 +9,35 @@ Ok lớp 7, qua bài cuối cùng của Unit 8: <eng>Looking Back</eng> nha. M�
 
 ---
 
+<!-- chunk: vocabulary -->
+<vocabulary>
+**Film types review (Ôn tập thể loại phim):**
+1. **science fiction** : (n) phim khoa học viễn tưởng /ˌsaɪəns ˈfɪkʃn/
+2. **romantic comedy** : (n) phim hài lãng mạn /rəʊˈmæntɪk ˈkɒmədi/
+3. **animation** : (n) phim hoạt hình /ˌænɪˈmeɪʃn/
+4. **comedy** : (n) phim hài /ˈkɒmədi/
+5. **documentary** : (n) phim tài liệu /ˌdɒkjuˈmentri/
+
+**Adjectives review (Ôn tập tính từ):**
+6. **boring** : (adj) nhàm chán /ˈbɔːrɪŋ/
+7. **violent** : (adj) bạo lực /ˈvaɪələnt/
+8. **frightening** : (adj) đáng sợ /ˈfraɪtnɪŋ/
+9. **shocking** : (adj) gây sốc /ˈʃɒkɪŋ/
+10. **moving** : (adj) cảm động /ˈmuːvɪŋ/
+11. **confusing** : (adj) khó hiểu /kənˈfjuːzɪŋ/
+
+**Grammar words review (Ôn tập từ ngữ pháp):**
+12. **although** : (conj) mặc dù /ɔːlˈðəʊ/
+13. **however** : (adv) tuy nhiên /haʊˈevə/
+
+**Cinema vocabulary (Từ vựng rạp phim):**
+14. **ticket** : (n) vé /ˈtɪkɪt/
+15. **popcorn** : (n) bỏng ngô /ˈpɒpkɔːn/
+16. **snack** : (n) đồ ăn vặt /snæk/
+</vocabulary>
+
+---
+
 <!-- chunk: exercise_1 -->
 ### Bài 1 trang 90 - Match film types
 

@@ -15,16 +15,33 @@ Bài <eng>Getting Started</eng> có tựa đề <eng>Let's go to the cinema toni
 
 <!-- chunk: vocabulary -->
 <vocabulary>
-1. **cinema** : (n) rạp chiếu phim /ˈsɪnəmə/
-2. **horror film** : (n) phim kinh dị /ˈhɒrə fɪlm/
-3. **fantasy** : (n) phim giả tưởng /ˈfæntəsi/
-4. **documentary** : (n) phim tài liệu /ˌdɒkjuˈmentri/
-5. **comedy** : (n) phim hài /ˈkɒmədi/
-6. **science fiction** : (n) phim khoa học viễn tưởng /ˌsaɪəns ˈfɪkʃn/
-7. **scary** : (adj) đáng sợ /ˈskeəri/
-8. **boring** : (adj) nhàm chán /ˈbɔːrɪŋ/
-9. **review** : (n) bài đánh giá, nhận xét /rɪˈvjuː/
-10. **exchange** : (v) trao đổi /ɪksˈtʃeɪndʒ/
+**Film types (Thể loại phim):**
+1. **horror film** : (n) phim kinh dị /ˈhɒrə fɪlm/
+2. **fantasy** : (n) phim giả tưởng /ˈfæntəsi/
+3. **documentary** : (n) phim tài liệu /ˌdɒkjuˈmentri/
+4. **comedy** : (n) phim hài /ˈkɒmədi/
+5. **science fiction** : (n) phim khoa học viễn tưởng /ˌsaɪəns ˈfɪkʃn/
+6. **action film** : (n) phim hành động /ˈækʃn fɪlm/
+7. **animation** : (n) phim hoạt hình /ˌænɪˈmeɪʃn/
+8. **thriller** : (n) phim ly kỳ, giật gân /ˈθrɪlə/
+
+**Cinema vocabulary (Từ vựng về rạp phim):**
+9. **cinema** : (n) rạp chiếu phim /ˈsɪnəmə/
+10. **audience** : (n) khán giả /ˈɔːdiəns/
+11. **screen** : (n) màn hình /skriːn/
+12. **scene** : (n) cảnh phim /siːn/
+
+**Adjectives (Tính từ):**
+13. **scary** : (adj) đáng sợ /ˈskeəri/
+14. **boring** : (adj) nhàm chán /ˈbɔːrɪŋ/
+15. **funny** : (adj) hài hước /ˈfʌni/
+16. **interesting** : (adj) thú vị /ˈɪntrəstɪŋ/
+17. **silly** : (adj) ngớ ngẩn /ˈsɪli/
+
+**Other words (Từ khác):**
+18. **review** : (n) bài đánh giá, nhận xét /rɪˈvjuː/
+19. **exchange** : (v) trao đổi /ɪksˈtʃeɪndʒ/
+20. **star** : (v) đóng vai chính /stɑː/
 </vocabulary>
 
 ---

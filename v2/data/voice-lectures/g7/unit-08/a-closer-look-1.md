@@ -11,12 +11,25 @@ Ok lớp 7, <eng>A Closer Look 1</eng> nha. Mở sách trang 84 đi. Hôm nay h�
 
 <!-- chunk: vocabulary -->
 <vocabulary>
-**Adjectives describing films:**
+**Negative adjectives (Tính từ tiêu cực):**
 1. **dull** : (adj) buồn tẻ, chán ngắt /dʌl/
 2. **violent** : (adj) bạo lực /ˈvaɪələnt/
 3. **confusing** : (adj) khó hiểu, gây bối rối /kənˈfjuːzɪŋ/
 4. **shocking** : (adj) gây sốc, sửng sốt /ˈʃɒkɪŋ/
-5. **enjoyable** : (adj) thú vị, thích thú /ɪnˈdʒɔɪəbl/
+5. **frightening** : (adj) đáng sợ /ˈfraɪtnɪŋ/
+
+**Positive adjectives (Tính từ tích cực):**
+6. **enjoyable** : (adj) thú vị, thích thú /ɪnˈdʒɔɪəbl/
+7. **exciting** : (adj) hào hứng, kịch tính /ɪkˈsaɪtɪŋ/
+8. **moving** : (adj) cảm động /ˈmuːvɪŋ/
+9. **amusing** : (adj) vui nhộn /əˈmjuːzɪŋ/
+10. **gripping** : (adj) lôi cuốn, hấp dẫn /ˈɡrɪpɪŋ/
+
+**Other useful adjectives (Tính từ hữu ích khác):**
+11. **creative** : (adj) sáng tạo /kriˈeɪtɪv/
+12. **realistic** : (adj) chân thực /ˌrɪəˈlɪstɪk/
+13. **imaginative** : (adj) giàu trí tưởng tượng /ɪˈmædʒɪnətɪv/
+14. **thrilling** : (adj) ly kỳ, hồi hộp /ˈθrɪlɪŋ/
 </vocabulary>
 
 ---

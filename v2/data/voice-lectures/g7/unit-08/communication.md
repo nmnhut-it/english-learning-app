@@ -9,6 +9,31 @@ Ok lớp 7, qua bài <eng>Communication</eng> nha. Mở sách trang 86 đi. Hôm
 
 ---
 
+<!-- chunk: vocabulary -->
+<vocabulary>
+**Making suggestions (Đưa ra đề nghị):**
+1. **suggestion** : (n) lời đề nghị /səˈdʒestʃən/
+2. **recommend** : (v) giới thiệu, đề xuất /ˌrekəˈmend/
+3. **How about...?** : (phr) ... thì sao? /haʊ əˈbaʊt/
+4. **Let's...** : (phr) Chúng ta hãy... /lets/
+
+**Accepting (Chấp nhận):**
+5. **accept** : (v) chấp nhận /əkˈsept/
+6. **agree** : (v) đồng ý /əˈɡriː/
+7. **great idea** : (n) ý tưởng hay /ɡreɪt aɪˈdɪə/
+
+**Declining (Từ chối):**
+8. **decline** : (v) từ chối /dɪˈklaɪn/
+9. **I'd love to, but...** : (phr) Mình muốn lắm, nhưng... /aɪd lʌv tuː bʌt/
+
+**Survey vocabulary (Từ vựng khảo sát):**
+10. **survey** : (n) khảo sát /ˈsɜːveɪ/
+11. **favourite** : (adj) yêu thích /ˈfeɪvərɪt/
+12. **opinion** : (n) ý kiến /əˈpɪnjən/
+</vocabulary>
+
+---
+
 <!-- chunk: exercise_1 -->
 ### Bài 1 trang 86 - Accepting and declining suggestions
 

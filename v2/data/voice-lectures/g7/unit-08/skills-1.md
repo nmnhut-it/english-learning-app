@@ -11,13 +11,29 @@ Ok lớp 7, qua bài <eng>Skills 1</eng> nha. Mở sách trang 88 đi. Hôm nay 
 
 <!-- chunk: vocabulary -->
 <vocabulary>
-**Reading Vocabulary:**
+**Film vocabulary (Từ vựng về phim):**
 1. **film series** : (n) loạt phim /fɪlm ˈsɪəriːz/
-2. **wizard** : (n) phù thủy /ˈwɪzəd/
-3. **must-see** : (adj) (phim) đáng xem, phải xem /mʌst siː/
-4. **gripping** : (adj) lôi cuốn, hấp dẫn /ˈɡrɪpɪŋ/
-5. **star** : (v) đóng vai chính /stɑː/
-6. **character** : (n) nhân vật /ˈkærəktə/
+2. **director** : (n) đạo diễn /daɪˈrektə/
+3. **star** : (v) đóng vai chính /stɑː/
+4. **character** : (n) nhân vật /ˈkærəktə/
+5. **main character** : (n) nhân vật chính /meɪn ˈkærəktə/
+6. **plot** : (n) cốt truyện /plɒt/
+
+**Harry Potter vocabulary (Từ vựng Harry Potter):**
+7. **wizard** : (n) phù thủy /ˈwɪzəd/
+8. **magical** : (adj) có phép thuật /ˈmædʒɪkl/
+9. **powerful** : (adj) quyền năng, mạnh mẽ /ˈpaʊəfl/
+
+**Review vocabulary (Từ vựng đánh giá):**
+10. **must-see** : (adj) (phim) đáng xem, phải xem /mʌst siː/
+11. **gripping** : (adj) lôi cuốn, hấp dẫn /ˈɡrɪpɪŋ/
+12. **excellent** : (adj) xuất sắc /ˈeksələnt/
+13. **wonderful** : (adj) tuyệt vời /ˈwʌndəfl/
+
+**Other words (Từ khác):**
+14. **special effects** : (n) hiệu ứng đặc biệt /ˈspeʃl ɪˈfekts/
+15. **hero** : (n) anh hùng /ˈhɪərəʊ/
+16. **villain** : (n) kẻ phản diện /ˈvɪlən/
 </vocabulary>
 
 ---

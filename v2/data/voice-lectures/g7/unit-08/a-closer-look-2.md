@@ -9,6 +9,29 @@ Ok lớp 7, <eng>A Closer Look 2</eng> nha. Mở sách trang 85 đi. Hôm nay h�
 
 ---
 
+<!-- chunk: vocabulary -->
+<vocabulary>
+**Grammar words (Từ ngữ pháp):**
+1. **although** : (conj) mặc dù /ɔːlˈðəʊ/
+2. **though** : (conj) mặc dù /ðəʊ/
+3. **however** : (adv) tuy nhiên /haʊˈevə/
+4. **contrast** : (n) sự tương phản /ˈkɒntrɑːst/
+
+**Film-related words (Từ liên quan đến phim):**
+5. **success** : (n) thành công /səkˈses/
+6. **leading role** : (n) vai chính /ˈliːdɪŋ rəʊl/
+7. **box office** : (n) doanh thu phòng vé /bɒks ˈɒfɪs/
+8. **blockbuster** : (n) phim bom tấn /ˈblɒkˌbʌstə/
+
+**Other useful words (Từ hữu ích khác):**
+9. **solve** : (v) giải quyết /sɒlv/
+10. **perform** : (v) biểu diễn /pəˈfɔːm/
+11. **match** : (n) trận đấu /mætʃ/
+12. **soundtrack** : (n) nhạc phim /ˈsaʊndtræk/
+</vocabulary>
+
+---
+
 <!-- chunk: grammar -->
 <grammar>
 ## Although / Though / However
