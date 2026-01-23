@@ -54,7 +54,7 @@ Bài 1 <eng>Match the types of energy in A with the energy sources in B</eng>. N
 Làm bài 1 đi. 45 giây nha.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -99,7 +99,7 @@ Bài 2 <eng>Write the phrases to label the pictures</eng>. Viết các cụm t�
 Nhìn hình trong sách rồi viết tên loại năng lượng. 45 giây nha.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

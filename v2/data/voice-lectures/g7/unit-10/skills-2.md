@@ -128,7 +128,7 @@ Bài 2 <eng>Listen and circle the phrases you hear.</eng> Nghe và khoanh tròn 
 Nghe lại và khoanh tròn các cụm từ nghe được nha. 1 phút.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

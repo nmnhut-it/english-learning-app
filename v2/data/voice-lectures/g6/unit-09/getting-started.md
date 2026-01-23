@@ -90,7 +90,7 @@ Bài 2. Nhìn hình và viết tên thành phố. Em để ý đặc điểm c�
 3. _______ (có bãi biển đẹp, nhà hát Opera)
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -125,7 +125,7 @@ Bài 3. Đọc lại hội thoại và nối thành phố với tính từ mô t
 | | e. interesting *(hấp dẫn)* |
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -161,7 +161,7 @@ Bài 4. Nối thành phố với địa danh nổi tiếng của nó. Hà Nội 
 | 4. Sydney | d. Big Ben |
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

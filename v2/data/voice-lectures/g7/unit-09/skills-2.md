@@ -210,7 +210,7 @@ Bài 5. Viết một đoạn văn khoảng 70 từ về lễ hội Vu Lan dựa 
 4. Cảm nhận (Feeling)
 </grammar>
 
-<teacher_script pause="180">
+<teacher_script pause="180" href="audio/tts_c889ecef.mp3">
 Các em có 3 phút để viết đoạn văn.
 </teacher_script>
 

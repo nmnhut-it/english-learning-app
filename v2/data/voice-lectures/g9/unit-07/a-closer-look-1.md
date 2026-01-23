@@ -145,7 +145,7 @@ Chúng ta cùng làm Bài 4 <eng>Listen and repeat</eng>. Các em hãy nghe và 
 **/sn/:** snow, snack, snake, snooze, snail
 </task>
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_72cdce86.mp3">
 Các em hãy tự luyện đọc 2 nhóm từ này trong 1 phút nhé.
 </teacher_script>
 
@@ -166,7 +166,7 @@ Chúng ta cùng làm Bài 5 <eng>Listen and practice sentences</eng>. Các em h�
 5. The **slender** girl likes **snowy** weather.
 </reading>
 
-<teacher_script pause="0" action="record">
+<teacher_script pause="0" action="record" href="audio/tts_827e15a2.mp3">
 Các em hãy bấm ghi âm và đọc lại 5 câu này gửi cho thầy nhé.
 </teacher_script>
 
@@ -207,7 +207,7 @@ Chúng ta cùng làm Bài tập 1. Các em hãy chọn từ đúng để hoàn t
 ---
 
 <!-- chunk: answer_practice_1 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_120809e0.mp3">
 Đã hết thời gian. Ok đáp án nè.
 </teacher_script>
 
@@ -245,7 +245,7 @@ Câu 5: <eng>urgent</eng> - khẩn cấp. Bảo vệ động vật quý hiếm l
 Câu 6: <eng>access</eng> - tiếp cận, đi vào. Du khách có thể vào hang bằng thuyền hoặc đi bộ.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -269,7 +269,7 @@ Chúng ta cùng làm Bài tập 2. Các em hãy phân loại các từ theo âm 
 ---
 
 <!-- chunk: answer_practice_2 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_120809e0.mp3">
 Đã hết thời gian. Ok đáp án nè.
 </teacher_script>
 
@@ -291,7 +291,7 @@ Nhóm âm /sn/: <eng>snowy</eng> (có tuyết), <eng>sneeze</eng> (hắt hơi), 
 Mẹo nhớ: Khi gặp chữ **sl** đầu từ thì phát âm /sl/, gặp **sn** đầu từ thì phát âm /sn/. Dễ lắm nha!
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -327,7 +327,7 @@ Bài tập cuối cùng kết hợp cả từ vựng và phát âm. Các em hãy
 ---
 
 <!-- chunk: answer_practice_3 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_120809e0.mp3">
 Đã hết thời gian. Ok đáp án nè.
 </teacher_script>
 
@@ -365,7 +365,7 @@ Câu 5: <eng>paradise</eng> - thiên đường. Hang Sơn Đoòng đẹp như th
 Câu 6: <eng>annual</eng> - hàng năm. Chim di cư mỗi năm một lần.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 

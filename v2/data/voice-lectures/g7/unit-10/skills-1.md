@@ -67,7 +67,7 @@ Bài 1 <eng>Work in pairs. Discuss the following questions</eng>. Làm việc th
 Các em suy nghĩ và trả lời nha. 1 phút.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -138,7 +138,7 @@ Bài 2 nè. <eng>Mr Lam is giving a lecture on energy sources. Read the text and
 Các em làm bài nha. 1 phút.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -191,7 +191,7 @@ Bài 3 nè. <eng>Read the text again and answer the questions</eng>. Đọc lạ
 Các em đọc bài và trả lời các câu hỏi nha. 1 phút rưỡi.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -250,7 +250,7 @@ Giờ qua phần <eng>Speaking</eng> nha. Bài 4, <eng>Work in groups. Discuss a
 Các em phân loại các từ nha. 1 phút.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

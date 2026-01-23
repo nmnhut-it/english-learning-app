@@ -58,7 +58,7 @@ Bài 1. Khoanh tròn từ hoặc cụm từ đúng trong ngoặc. Em cần nhớ
    *(Vào dịp _______, mọi người tổ chức tiệc với gà tây, bánh mì ngô và khoai lang.)*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -107,7 +107,7 @@ Bài 2. Điền từ hoặc cụm từ vào chỗ trống. Đọc kỹ ngữ c�
    *(Lễ hội Ngày Song sinh là _______ lớn nhất của các cặp song sinh trên thế giới.)*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -191,7 +191,7 @@ A. Do people listen to traditional songs at Hoi Mua Festival last year?
 B. Did people listen to traditional songs at Hoi Mua Festival last year?
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

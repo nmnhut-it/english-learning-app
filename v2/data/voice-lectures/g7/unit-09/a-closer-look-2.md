@@ -64,7 +64,7 @@ Bài 1. Điền trợ động từ vào chỗ trống. Nhìn từ khóa thời g
    *(Anh trai bạn có thường về nhà vào dịp Tết không?)*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -115,7 +115,7 @@ Bài 2. Chuyển câu khẳng định thành câu hỏi Yes/No. Nhớ quy tắc:
    → _______________________________________?
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -162,7 +162,7 @@ Bài 3. Nối câu hỏi ở cột A với câu trả lời ở cột B. Chú ý
 | 5. Can she perform Dutch folk dances? | e. Yes, they do. |
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -219,7 +219,7 @@ e. Yes, we do. We also have some autumn fruits.
 **Trang:** (5) _______________________________
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

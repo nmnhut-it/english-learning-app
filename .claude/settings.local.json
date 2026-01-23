@@ -11,7 +11,8 @@
       "Bash(npx playwright test --reporter=list)",
       "Bash(ls:*)",
       "Bash(git fetch:*)",
-      "Bash(git merge:*)"
+      "Bash(git merge:*)",
+      "Bash(grep:*)"
     ],
     "deny": [],
     "ask": []

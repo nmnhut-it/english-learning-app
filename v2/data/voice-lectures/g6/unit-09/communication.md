@@ -121,7 +121,7 @@ Bài 2. Nhìn hình và viết câu cảm thán với <eng>What</eng>. Nhớ quy
 5. _______ apple trees! (beautiful)
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -164,7 +164,7 @@ Bài 3. Viết tên các địa danh nổi tiếng dưới hình. Đây là nh�
 4. _______ (hình tháp sắt cao)
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -208,7 +208,7 @@ It has the head of a lion and the body of a fish. It's a famous landmark in Sing
 *(Nó có đầu sư tử và thân cá. Đó là địa danh nổi tiếng ở Singapore.)*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -260,7 +260,7 @@ Bài 5. Trả lời các câu hỏi quiz về các thành phố và địa danh.
 - C. national parks *(các công viên quốc gia)*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

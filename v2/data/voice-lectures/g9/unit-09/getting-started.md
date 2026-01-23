@@ -78,7 +78,7 @@ Bài 2 trang 31. Trả lời câu hỏi dựa vào hội thoại. Đọc kỹ v�
 **5.** Do they all speak English at school?
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -113,7 +113,7 @@ Bài 3 trang 31. Tìm từ trong hội thoại có nghĩa như các định ngh�
 4. clothes worn by students at school
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

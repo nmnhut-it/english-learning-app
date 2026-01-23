@@ -46,7 +46,25 @@
       flex-shrink: 0;
     }
 
+    .header-left {
+      display: flex;
+      align-items: center;
+      gap: 20px;
+    }
+
     h1 { font-size: 1.25rem; font-weight: 600; }
+
+    nav a {
+      color: var(--text-muted);
+      text-decoration: none;
+      padding: 8px 16px;
+      border-radius: 6px;
+      font-size: 0.9rem;
+      transition: all 0.2s;
+    }
+
+    nav a:hover { background: var(--bg); color: var(--text); }
+    nav a.active { background: var(--primary); color: white; }
     .quota { font-size: 0.875rem; color: var(--text-muted); }
 
     .controls {
@@ -656,7 +674,13 @@
 <body>
   <div class="app-container">
     <header>
-      <h1>TTS Admin</h1>
+      <div class="header-left">
+        <h1>TTS Admin</h1>
+        <nav>
+          <a href="/" class="active">TTS Admin</a>
+          <a href="/compare.html">Compare</a>
+        </nav>
+      </div>
       <div class="header-actions">
         <button id="globalLinkBtn" class="btn-success btn-global">Link All Audio</button>
         <select id="voiceSelect">

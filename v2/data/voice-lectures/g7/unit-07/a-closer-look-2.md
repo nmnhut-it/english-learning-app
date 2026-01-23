@@ -645,7 +645,7 @@ Chúng ta cùng làm Bài tập 1. Các em hãy viết câu hỏi và trả lờ
 ---
 
 <!-- chunk: answer_practice_1 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_120809e0.mp3">
 Đã hết thời gian. Ok đáp án nè.
 </teacher_script>
 
@@ -680,7 +680,7 @@ Nhớ nha: Câu trả lời bắt đầu bằng <eng>It's</eng> + khoảng cách
 Câu 3 đặc biệt: không có số cụ thể nên dùng <eng>It's not very far</eng> - không xa lắm.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -724,7 +724,7 @@ Chúng ta cùng làm Bài tập 2. Các em hãy viết lời khuyên dùng <eng>
 ---
 
 <!-- chunk: answer_practice_2 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_120809e0.mp3">
 Đã hết thời gian. Ok đáp án nè.
 </teacher_script>
 
@@ -753,7 +753,7 @@ Câu 2, 4, 7: dùng <eng>shouldn't</eng> vì đây là lời khuyên KHÔNG làm
 Mẹo nhớ: Điều TỐT → <eng>should</eng>. Điều XẤU/NGUY HIỂM → <eng>shouldn't</eng>. Dễ nhớ lắm nha!
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -791,7 +791,7 @@ Bài tập cuối cùng kết hợp cả hai phần. Các em hãy hoàn thành c
 ---
 
 <!-- chunk: answer_practice_3 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_120809e0.mp3">
 Đã hết thời gian. Ok đáp án nè.
 </teacher_script>
 
@@ -822,7 +822,7 @@ Câu 4: <eng>shouldn't use</eng> - không nên dùng điện thoại khi lái xe
 Câu 5: Có thể dùng <eng>is</eng> hoặc <eng>takes</eng>. <eng>It is about 2 hours</eng> hoặc <eng>It takes about 2 hours</eng> - cả hai đều đúng.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 

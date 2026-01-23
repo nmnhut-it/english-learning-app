@@ -126,7 +126,7 @@ C. Most people like it.
 ---
 
 <!-- chunk: answer_2 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_120809e0.mp3">
 Đã hết thời gian. Ok đáp án nè.
 </teacher_script>
 
@@ -158,7 +158,7 @@ Câu 4 chọn C. Mọi người nghĩ gì về phim Our Holiday? Mark nói "alth
 4. **C** (Most people like it) - Mark nói: "most say it's funny and interesting."
 </explanation>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -196,7 +196,7 @@ Bài 3 <eng>Choose the correct word or phrase</eng> nha. Chọn từ hoặc cụ
 ---
 
 <!-- chunk: answer_3 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_120809e0.mp3">
 Đã hết thời gian. Ok đáp án nè.
 </teacher_script>
 
@@ -233,7 +233,7 @@ Câu 5 là horror film - phim kinh dị. "Strange and frightening things happen"
 5. **horror film**: phim kinh dị (frightening things - những điều đáng sợ)
 </explanation>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -264,7 +264,7 @@ Bài 4 <eng>Complete the sentences</eng> nha. Chọn tính từ trong khung đ�
 ---
 
 <!-- chunk: answer_4 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_120809e0.mp3">
 Đã hết thời gian. Ok đáp án nè.
 </teacher_script>
 
@@ -301,7 +301,7 @@ Câu 5 điền interesting - thú vị. "This book is interesting. I got a lot o
 5. **interesting** (thú vị): có nhiều thông tin hữu ích (useful information).
 </explanation>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 

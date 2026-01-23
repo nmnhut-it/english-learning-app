@@ -1008,7 +1008,7 @@ Chúng ta cùng làm Bài tập 1. Các em hãy chọn từ hỏi đúng để h
 ---
 
 <!-- chunk: answer_practice_1 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_120809e0.mp3">
 Đã hết thời gian. Ok đáp án nè.
 </teacher_script>
 
@@ -1036,7 +1036,7 @@ Câu 4: <eng>How many</eng> - bao nhiêu. Trả lời là "50 channels" - số l
 Câu 5: <eng>How often</eng> - thường xuyên thế nào. Trả lời là "Every day" - tần suất.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -1086,7 +1086,7 @@ Bài tập 2, các em hãy hoàn thành câu với <eng>and</eng>, <eng>but</eng
 ---
 
 <!-- chunk: answer_practice_2 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_120809e0.mp3">
 Đã hết thời gian. Ok đáp án nè.
 </teacher_script>
 
@@ -1126,7 +1126,7 @@ Câu 7: <eng>so</eng> - Khó là nguyên nhân, không hoàn thành được là
 Câu 8: <eng>and</eng> - Hai hành động liên tiếp: đến công viên VÀ chơi bóng.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -1186,7 +1186,7 @@ Bài tập cuối cùng kết hợp cả hai phần. Các em hãy chọn đáp �
 ---
 
 <!-- chunk: answer_practice_3 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_120809e0.mp3">
 Đã hết thời gian. Ok đáp án nè.
 </teacher_script>
 
@@ -1218,7 +1218,7 @@ Câu 5: <eng>Why</eng> - Hỏi lý do, câu trả lời có "Because" - vì.
 Câu 6: <eng>but</eng> - Học sinh giỏi nhưng quên bài tập - hai ý đối lập.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 

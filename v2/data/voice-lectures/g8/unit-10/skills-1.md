@@ -151,7 +151,7 @@ Bài 2 nè. Đọc lại bài phỏng vấn rồi đánh dấu xem ai nói câu 
 Tìm thông tin trong bài đọc nha. 1 phút.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -278,7 +278,7 @@ f. You need a smart device. *(Bạn cần thiết bị thông minh.)*
 Phân loại 6 ý vào 2 cột nha. 1 phút.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

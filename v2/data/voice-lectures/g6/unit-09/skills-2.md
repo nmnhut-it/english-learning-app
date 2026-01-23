@@ -105,7 +105,7 @@ Bài 2. Nghe và xác định True (Đúng) hay False (Sai). Chú ý: Bangkok n�
 | 4. You can find food stalls all around Bangkok. *(Bạn có thể tìm thấy các quầy ăn khắp Bangkok.)* | | |
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -147,7 +147,7 @@ Bài 3. Nghe lại và điền từ/số còn thiếu. Chú ý các con số: s�
    *(Thức ăn đường phố ở Bangkok rất _______.)*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

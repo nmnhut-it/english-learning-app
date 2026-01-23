@@ -67,7 +67,7 @@ Bài 1 <eng>Complete the sentences with at, in, in front of, on, opposite, or un
 Làm trong 1 phút nha. Nhớ xem giới từ nào phù hợp với ngữ cảnh.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -160,7 +160,7 @@ Bài 2 <eng>Circle the correct preposition in each sentence</eng>. Khoanh tròn 
 Làm trong 1 phút nha. Nhớ xem giới từ nào phù hợp với loại thời gian.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -201,7 +201,7 @@ I think smartphones will change a lot (1) _______ the near future. They will be 
 Đọc kỹ đoạn văn và điền giới từ phù hợp nha. 1 phút rưỡi.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -334,7 +334,7 @@ Last year, _________________ won scholarships to the US.
 Nhớ cấu trúc chuyển đổi nha: <eng>one of my friends</eng> thành <eng>a friend of mine</eng>. Làm trong 1 phút rưỡi.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

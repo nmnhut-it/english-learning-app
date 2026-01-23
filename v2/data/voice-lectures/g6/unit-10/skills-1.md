@@ -60,7 +60,7 @@ Bài 1, <eng>Look at the picture and discuss it with a partner</eng>. Nhìn vào
 Nhìn hình và trả lời 2 câu hỏi. 30 giây nha.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -153,7 +153,7 @@ h. water the flowers *(tưới hoa)*
 Nối phần A với phần B. 1 phút nha.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -214,7 +214,7 @@ Bài 3, <eng>Read the text again and circle the option A, B, or C to complete th
 Đọc lại bài và chọn đáp án đúng. 1 phút nha.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

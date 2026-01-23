@@ -55,7 +55,7 @@ Bài 1 nè. <eng>Write the correct word or phrase from the box under each pictur
 Các em nhìn hình rồi viết từ vô ô trống nha. 45 giây thôi.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -121,7 +121,7 @@ Bài 2 nha. <eng>Choose the correct answer A, B, or C</eng>. Chọn đáp án đ
 Các em làm bài nha. 1 phút thôi.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -177,7 +177,7 @@ Bài 3 nha. <eng>Complete the sentences with the words from the box</eng>. Hoàn
 Điền từ trong hộp vào chỗ trống nha. 1 phút.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -289,7 +289,7 @@ Bài 5 nè. <eng>Mark the stress in the underlined words. Then listen and repeat
 Các em đánh dấu trọng âm vô các từ in đậm nha. 45 giây.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

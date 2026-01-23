@@ -53,7 +53,7 @@ Bài 1 <eng>Look at the pictures. Complete the word or phrase for each picture</
 Các em làm bài 1 đi, 30 giây nha.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -142,7 +142,7 @@ Bài 2 <eng>Listen to an announcement about an exhibition. Complete each gap in 
 Các em nghe và điền vào chỗ trống nha. 1 phút.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -264,7 +264,7 @@ h. can see and hear each other in real time *(có thể nhìn và nghe nhau tron
 Các em nối các ý với phần dàn bài nha. 1 phút.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

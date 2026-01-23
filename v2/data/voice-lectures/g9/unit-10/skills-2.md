@@ -142,7 +142,7 @@ Bài 2. Nghe và chọn đáp án đúng A, B, hoặc C nha.
 Nghe và chọn đáp án. 1 phút nha.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -197,7 +197,7 @@ Bài 3. Nghe lại và điền vào chỗ trống MỘT từ nha.
 Điền 6 từ vào chỗ trống. 1 phút 30 giây nha.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

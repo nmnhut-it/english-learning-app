@@ -98,7 +98,7 @@ Bài 2 <eng>Read the conversation again and circle the correct answer A, B, or C
 Các em làm bài 2 nha. 1 phút thôi.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -140,7 +140,7 @@ Bài 3 <eng>Match the words and phrases in the conversation with their pictures<
 Các em nối từ với hình nha. 45 giây.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -199,7 +199,7 @@ Bài 4 <eng>Circle the words / phrases which are CLOSEST in meaning to the under
 Các em làm bài 4 nha. 1 phút.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -247,7 +247,7 @@ Bài 5 <eng>QUIZ. Work in groups. Complete the diagram of the history of communi
 Các em điền từ vào chỗ trống nha. 1 phút.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

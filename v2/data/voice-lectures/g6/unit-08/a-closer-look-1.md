@@ -545,7 +545,7 @@ Bài tập 1 nha. Chọn đáp án đúng để hoàn thành câu đi. 2 phút.
 ---
 
 <!-- chunk: answer_practice_1 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_120809e0.mp3">
 Đã hết thời gian. Ok đáp án nè.
 </teacher_script>
 
@@ -577,7 +577,7 @@ Câu 5: <eng>sporty</eng> - năng động, thích thể thao. Chơi thể thao m
 Câu 6: <eng>ball</eng> - quả bóng. Bóng đá, bóng chuyền, bóng rổ đều dùng bóng.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -625,7 +625,7 @@ Bài tập 2 nè. Chọn từ có phát âm khác với các từ còn lại. Ch
 ---
 
 <!-- chunk: answer_practice_2 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_120809e0.mp3">
 Đã hết thời gian. Ok đáp án nè.
 </teacher_script>
 
@@ -661,7 +661,7 @@ Câu 6: đáp án B - <eng>ball</eng>. Từ này phát âm /ɔː/ (âm "o" dài)
 Mẹo nhớ: Chữ "a" thường phát âm là /æ/ như trong <eng>match, racket, active</eng>. Chữ "e" thường phát âm là /e/ như trong <eng>tennis, chess, exercise</eng>.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 

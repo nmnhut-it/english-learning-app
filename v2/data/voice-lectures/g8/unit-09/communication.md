@@ -139,7 +139,7 @@ Bài 3. Đọc 3 đoạn văn ngắn và xác định từng người đang nói
 *(Bất ngờ, mọi thứ trong phòng khách bắt đầu rung lắc. Chị tôi và tôi nhanh chóng trốn dưới bàn.)*
 </reading>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -202,7 +202,7 @@ Bài 4. Trả lời 6 câu hỏi trắc nghiệm về thiên tai. Đây là ki�
 - C. In Viet Nam *(Ở Việt Nam)*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

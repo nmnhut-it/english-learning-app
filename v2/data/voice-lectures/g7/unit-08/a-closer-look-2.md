@@ -3,7 +3,7 @@
 ## A CLOSER LOOK 2 - Grammar
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_2a077e8c.webm">
 Ok lớp 7, <eng>A Closer Look 2</eng> nha. Mở sách trang 85 đi. Hôm nay học về ngữ pháp chỉ sự tương phản với <eng>Although, Though</eng> và <eng>However</eng>. Nghe khó mà dễ lắm á!
 </teacher_script>
 
@@ -34,7 +34,7 @@ Dùng để diễn tả sự **tương phản** (hai ý trái ngược nhau).
   - It rained. *However,* we went to school. (Trời mưa. Tuy nhiên, chúng tôi vẫn đi học)
 </grammar>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_1e8683cd.webm">
 Các em lưu ý: <eng>Although</eng> và <eng>Though</eng> dùng để nối hai mệnh đề trong cùng một câu, còn <eng>However</eng> thường được dùng để nối hai câu riêng biệt, và sau nó luôn có dấu phẩy.
 </teacher_script>
 
@@ -43,7 +43,7 @@ Các em lưu ý: <eng>Although</eng> và <eng>Though</eng> dùng để nối hai
 <!-- chunk: exercise_1 -->
 ### Bài 1 trang 85 - Combine sentences
 
-<teacher_script pause="90">
+<teacher_script pause="90" href="audio/tts_2a50d29d.webm">
 Chúng ta cùng làm Bài 1 <eng>Combine combined sentences</eng>. Các em hãy nối hai câu lại với nhau sử dụng <eng>Although</eng> hoặc <eng>Though</eng>. Các em có 1 phút 30 giây.
 </teacher_script>
 
@@ -69,14 +69,14 @@ Chúng ta cùng làm Bài 1 <eng>Combine combined sentences</eng>. Các em hãy 
 -> We couldn't win the match although ________________________________.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_4479703b.webm">
 Lưu ý: <eng>Although</eng> hoặc <eng>Though</eng> có thể đứng đầu câu hoặc giữa câu đều được.
 </teacher_script>
 
 ---
 
 <!-- chunk: answer_1 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_120809e0.webm">
 Đã hết thời gian. Ok đáp án nè.
 </teacher_script>
 
@@ -89,23 +89,23 @@ Lưu ý: <eng>Although</eng> hoặc <eng>Though</eng> có thể đứng đầu c
 5. We couldn't win the match **although** we played well.
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_be0778ba.webm">
 Câu 1: Although the questions were very difficult, he solved them easily. Mặc dù câu hỏi rất khó, anh ấy giải dễ dàng. Đây là sự tương phản nha: câu hỏi difficult - khó nhưng giải easily - dễ dàng. Although đứng trước mệnh đề "the questions were very difficult" rồi có dấu phẩy.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_9547d05b.webm">
 Câu 2: Although he was a great actor, he never played a leading role. Mặc dù anh ấy là diễn viên tuyệt vời, anh ấy chưa bao giờ đóng vai chính. Tương phản: great actor - diễn viên giỏi nhưng never played leading role - chưa bao giờ vai chính. Hơi tiếc á nhỉ.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_a1024633.webm">
 Câu 3: It wasn't a big success although they spent a lot of money on the film. Phim không thành công lắm mặc dù họ đã chi rất nhiều tiền. Tương phản: spent a lot of money - tốn nhiều tiền nhưng wasn't a big success - không thành công lắm. Although có thể đứng giữa câu luôn nha.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_d68f9a65.webm">
 Câu 4: Though the film was a comedy, I didn't find it funny at all. Mặc dù phim là hài kịch, tôi không thấy buồn cười chút nào. Tương phản: comedy - phim hài nhưng didn't find it funny - không buồn cười. Though và Although giống nhau, dùng từ nào cũng được á.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_845a8ea5.webm">
 Câu 5: We couldn't win the match although we played well. Chúng tôi không thể thắng trận đấu mặc dù chơi tốt. Tương phản: played well - chơi tốt nhưng couldn't win - không thắng được. Chơi tốt mà không thắng thì buồn lắm nha.
 </teacher_script>
 
@@ -116,7 +116,7 @@ Câu 5: We couldn't win the match although we played well. Chúng tôi không th
 - Câu 5: Không thắng mặc dù chơi tốt.
 </explanation>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.webm">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -125,7 +125,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 85 - Although or However
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_571f7d99.webm">
 Chúng ta cùng làm Bài 2 <eng>Complete the sentences</eng>. Các em hãy điền <eng>although</eng> hoặc <eng>however</eng> vào chỗ trống, chú ý đến dấu câu nhé. Các em có 1 phút.
 </teacher_script>
 
@@ -145,7 +145,7 @@ Chúng ta cùng làm Bài 2 <eng>Complete the sentences</eng>. Các em hãy đi�
 ---
 
 <!-- chunk: answer_2 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_120809e0.mp3">
 Đã hết thời gian. Ok đáp án nè.
 </teacher_script>
 
@@ -153,23 +153,23 @@ Chúng ta cùng làm Bài 2 <eng>Complete the sentences</eng>. Các em hãy đi�
 **Đáp án:** 1. Although | 2. however | 3. Although | 4. However | 5. Although
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_a7aba6ec.webm">
 Câu 1 điền Although. "Although the film was frightening, I really enjoyed it" - Mặc dù phim đáng sợ, tôi rất thích nó. Đây là một câu hoàn chỉnh không có dấu chấm ở giữa, nên dùng Although để nối hai mệnh đề. Tương phản: frightening - đáng sợ nhưng enjoyed - thích nha.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_cb91215c.webm">
 Câu 2 điền however. "I really enjoyed the film; however, I don't want to see it again" - Tôi rất thích phim; tuy nhiên, tôi không muốn xem lại. Có dấu chấm phẩy (;) ở trước chỗ trống và dấu phẩy (,) ở sau, đó là dấu hiệu của However. Lưu ý chữ h viết thường nha.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_14a16545.webm">
 Câu 3 điền Although. "Although Tom worked very hard, he didn't pass the final exam" - Mặc dù Tom học rất chăm, anh ấy không qua kỳ thi cuối. Đây là một câu liền không có dấu chấm, nên dùng Although. Tương phản: worked hard - học chăm nhưng didn't pass - không qua. Buồn nhỉ.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_67da51eb.webm">
 Câu 4 điền However. "Tom worked very hard. However, he didn't pass the final exam" - Tom học rất chăm. Tuy nhiên, anh ấy không qua kỳ thi cuối. Có dấu chấm (.) trước chỗ trống, đó là dấu hiệu rõ ràng của However. Lưu ý chữ H viết hoa vì đầu câu mới.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_77464434.webm">
 Câu 5 điền Although. "Although the weather was bad, we went on our school trip" - Mặc dù thời tiết xấu, chúng tôi vẫn đi dã ngoại. Đây là một câu liền, nên dùng Although. Tương phản: weather bad - thời tiết xấu nhưng still went - vẫn đi luôn.
 </teacher_script>
 
@@ -179,7 +179,7 @@ Câu 5 điền Although. "Although the weather was bad, we went on our school tr
 - **However**: Câu 2, 4 vì đứng sau dấu chấm phẩy (;) hoặc dấu chấm (.), và theo sau là dấu phẩy (,).
 </explanation>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -188,7 +188,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 <!-- chunk: exercise_3 -->
 ### Bài 3 trang 85 - Use your own ideas
 
-<teacher_script pause="120">
+<teacher_script pause="120" href="audio/tts_bd525bc3.webm">
 Chúng ta cùng làm Bài 3 <eng>Use your own ideas</eng>. Các em hãy tự hoàn thành các câu theo ý của mình sao cho hợp lý. Các em có 2 phút.
 </teacher_script>
 
@@ -208,7 +208,7 @@ Chúng ta cùng làm Bài 3 <eng>Use your own ideas</eng>. Các em hãy tự ho�
 ---
 
 <!-- chunk: answer_3 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_3e7e8e14.webm">
 Sau đây là một vài gợi ý mẫu.
 </teacher_script>
 
@@ -221,7 +221,7 @@ Sau đây là một vài gợi ý mẫu.
 5. ...However, **the acting was good**. (Tuy nhiên diễn xuất thì tốt)
 </answer>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_01013bda.webm">
 Các em hãy kiểm tra lại câu của mình xem đã thể hiện đúng sự tương phản chưa nhé.
 </teacher_script>
 
@@ -230,7 +230,7 @@ Các em hãy kiểm tra lại câu của mình xem đã thể hiện đúng sự
 <!-- chunk: exercise_4 -->
 ### Bài 4 trang 86 - Multiple Choice
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_664871eb.webm">
 Chúng ta cùng làm Bài 4 <eng>Multiple Choice</eng>. Các em hãy chọn đáp án đúng A, B hoặc C. Các em có 1 phút.
 </teacher_script>
 
@@ -258,7 +258,7 @@ A. Despite | B. Although | C. However
 ---
 
 <!-- chunk: answer_4 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_120809e0.mp3">
 Đã hết thời gian. Ok đáp án nè.
 </teacher_script>
 
@@ -266,23 +266,23 @@ A. Despite | B. Although | C. However
 **Đáp án:** 1.A | 2.B | 3.B | 4.C | 5.B
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_2df64b41.mp3">
 Câu 1 chọn A - although. "We adore winter although the weather is very cold" - Chúng tôi yêu thích mùa đông mặc dù thời tiết rất lạnh. Tương phản: adore - yêu thích >< cold - lạnh. Although đứng trước mệnh đề "the weather is very cold" có chủ ngữ và động từ nha.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_0f5db98a.mp3">
 Câu 2 chọn B - although. "She went to bed early although she didn't finish her work" - Cô ấy đi ngủ sớm mặc dù chưa hoàn thành công việc. Tương phản: bed early - ngủ sớm >< didn't finish work - chưa xong việc. Although nối hai mệnh đề trong một câu á.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_e716d489.mp3">
 Câu 3 chọn B - Despite. "Despite the fact that he is 23 years old, he is very mature" - Mặc dù anh ấy 23 tuổi, anh ấy rất trưởng thành. Despite theo sau là cụm danh từ "the fact that..." chứ không phải mệnh đề. Lưu ý: In spite cũng được nhưng phải là "In spite of" có chữ "of" nha.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_c4f2375d.webm">
 Câu 4 chọn C - However. "I go to school by bus every day. However, I don't like it much" - Tôi đi học bằng xe buýt hàng ngày. Tuy nhiên, tôi không thích lắm. Có dấu chấm (.) ở trước chỗ trống, nên dùng However đứng đầu câu mới, có dấu phẩy theo sau luôn.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_d423ce6f.webm">
 Câu 5 chọn B - Although. "Although Jim owns two cars, he rarely drives to work" - Mặc dù Jim có hai xe hơi, anh ấy hiếm khi lái xe đi làm. Tương phản: owns two cars - có hai xe >< rarely drives - hiếm khi lái. Although đứng trước mệnh đề "Jim owns two cars" nha.
 </teacher_script>
 
@@ -295,7 +295,7 @@ Câu 5 chọn B - Although. "Although Jim owns two cars, he rarely drives to wor
 5. **B (Although)**: Although + S + V.
 </explanation>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_fc4bb463.webm">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé. Hãy nhớ cấu trúc Despite + Danh từ hoặc V-ing.
 </teacher_script>
 
@@ -304,7 +304,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé. 
 <!-- chunk: additional_practice -->
 ### Bài tập thực hành bổ sung
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_a7222f61.webm">
 Các em làm thêm bài tập thực hành để củng cố kiến thức về <eng>Although</eng> và <eng>However</eng> nha. Làm nhiều bài tập các em sẽ nhớ lâu hơn đó.
 </teacher_script>
 
@@ -313,7 +313,7 @@ Các em làm thêm bài tập thực hành để củng cố kiến thức về 
 <!-- chunk: practice_1 -->
 ### Bài tập 1 - Although or Though
 
-<teacher_script pause="90">
+<teacher_script pause="90" href="audio/tts_625710dc.webm">
 Bài tập 1, các em hãy viết lại các câu sau sử dụng <eng>although</eng> hoặc <eng>though</eng>. Nhớ xác định hai ý tương phản rồi nối chúng lại nha. 1 phút 30 giây.
 </teacher_script>
 
@@ -347,7 +347,7 @@ Bài tập 1, các em hãy viết lại các câu sau sử dụng <eng>although<
 ---
 
 <!-- chunk: answer_practice_1 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_120809e0.mp3">
 Đã hết thời gian. Ok đáp án nè.
 </teacher_script>
 
@@ -360,27 +360,27 @@ Bài tập 1, các em hãy viết lại các câu sau sử dụng <eng>although<
 5. Although/Though she doesn't like horror films, she watched the whole movie.
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_192fb51b.webm">
 Câu 1: Although the film was scary, my little sister wanted to watch it. Mặc dù phim đáng sợ, em gái tôi muốn xem nó. Tương phản: scary - đáng sợ >< wanted to watch - muốn xem. Phim sợ mà vẫn muốn xem, can đảm nhỉ.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_28e0f7bf.webm">
 Câu 2: Although the actor was very young, he performed excellently. Mặc dù diễn viên rất trẻ, anh ấy diễn xuất xuất sắc. Tương phản: very young - rất trẻ >< performed excellently - diễn xuất xuất sắc. Trẻ mà giỏi, tài năng thật đó.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_970286bb.webm">
 Câu 3: Although the cinema was far from our house, we still went there. Mặc dù rạp xa nhà, chúng tôi vẫn đến đó. Tương phản: far - xa >< still went - vẫn đi. Xa mà vẫn đi, thích phim lắm á.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_04b908b2.webm">
 Câu 4: Although the film received bad reviews, it was a box office hit. Mặc dù phim nhận đánh giá tệ, nó bán chạy. Tương phản: bad reviews - đánh giá tệ >< box office hit - bán chạy. Đánh giá tệ mà vẫn bán chạy, lạ nhỉ.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_76fc4fca.webm">
 Câu 5: Although she doesn't like horror films, she watched the whole movie. Mặc dù cô ấy không thích phim kinh dị, cô ấy xem hết phim. Tương phản: doesn't like - không thích >< watched the whole movie - xem hết. Không thích mà vẫn xem hết, chắc tò mò lắm.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.webm">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -389,7 +389,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 <!-- chunk: practice_2 -->
 ### Bài tập 2 - However practice
 
-<teacher_script pause="120">
+<teacher_script pause="120" href="audio/tts_b47b6ebc.webm">
 Bài tập 2, các em hãy nối hai câu sử dụng <eng>however</eng>. Nhớ dấu chấm trước <eng>however</eng> và dấu phẩy sau <eng>however</eng> nha. 2 phút.
 </teacher_script>
 
@@ -435,7 +435,7 @@ Bài tập 2, các em hãy nối hai câu sử dụng <eng>however</eng>. Nhớ 
 ---
 
 <!-- chunk: answer_practice_2 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_120809e0.mp3">
 Đã hết thời gian. Ok đáp án nè.
 </teacher_script>
 
@@ -451,39 +451,39 @@ Bài tập 2, các em hãy nối hai câu sử dụng <eng>however</eng>. Nhớ 
 8. She practiced her lines every day. However, she still forgot them during the performance.
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_a4ff0647.webm">
 Câu 1: The special effects were amazing. However, the story was quite boring. Hiệu ứng tuyệt vời. Tuy nhiên, câu chuyện khá nhạt. Tương phản: amazing - tuyệt vời >< boring - nhạt nhẽo. Dấu chấm trước However, dấu phẩy sau However nha.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_c71b3d71.webm">
 Câu 2: The tickets were very expensive. However, we decided to buy them. Vé rất đắt. Tuy nhiên, chúng tôi quyết định mua. Tương phản: expensive - đắt >< decided to buy - quyết định mua. Đắt mà vẫn mua, thích phim lắm á.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_45dc8785.webm">
 Câu 3: The film won many awards. However, I didn't enjoy watching it. Phim giành nhiều giải. Tuy nhiên, tôi không thích xem. Tương phản: won many awards - giành nhiều giải >< didn't enjoy - không thích. Giải thưởng không đảm bảo phim hay đó.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_418613be.webm">
 Câu 4: He is not a professional actor. However, his acting is very natural. Anh ấy không phải diễn viên chuyên nghiệp. Tuy nhiên, diễn xuất rất tự nhiên. Tương phản: not professional - không chuyên nghiệp >< very natural - rất tự nhiên. Không chuyên mà giỏi, thiên bẩm đó.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_464c08c5.webm">
 Câu 5: The cinema was crowded. However, we managed to find good seats. Rạp đông đúc. Tuy nhiên, chúng tôi tìm được chỗ tốt. Tương phản: crowded - đông >< managed to find good seats - tìm được chỗ tốt. May mắn nhỉ.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_8ca43830.webm">
 Câu 6: Critics loved the film. However, audiences gave it low ratings. Nhà phê bình yêu thích phim. Tuy nhiên, khán giả cho điểm thấp. Tương phản: critics loved - phê bình yêu thích >< audiences gave low ratings - khán giả cho điểm thấp. Ý kiến khác nhau quá.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_53c50681.webm">
 Câu 7: The movie is three hours long. However, it doesn't feel boring. Phim dài ba giờ. Tuy nhiên, không thấy nhàm chán. Tương phản: three hours long - dài ba giờ >< doesn't feel boring - không nhàm chán. Phim dài mà hay thì không sao á.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_aacdd24d.webm">
 Câu 8: She practiced every day. However, she still forgot them. Cô ấy luyện tập mỗi ngày. Tuy nhiên, vẫn quên. Tương phản: practiced every day - luyện tập mỗi ngày >< still forgot - vẫn quên. Hồi hộp quá nên quên rồi.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -492,7 +492,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 <!-- chunk: practice_3 -->
 ### Bài tập 3 - Mixed practice
 
-<teacher_script pause="120">
+<teacher_script pause="120" href="audio/tts_c0a74f0d.webm">
 Bài tập 3, bài tập tổng hợp. Các em hãy chọn <eng>although</eng> hoặc <eng>however</eng> để điền vào chỗ trống. Đọc kỹ câu, chú ý dấu câu để biết chọn từ nào nha. 2 phút.
 </teacher_script>
 
@@ -524,7 +524,7 @@ Bài tập 3, bài tập tổng hợp. Các em hãy chọn <eng>although</eng> h
 ---
 
 <!-- chunk: answer_practice_3 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_120809e0.mp3">
 Đã hết thời gian. Ok đáp án nè.
 </teacher_script>
 
@@ -532,27 +532,27 @@ Bài tập 3, bài tập tổng hợp. Các em hãy chọn <eng>although</eng> h
 **Đáp án:** 1. Although | 2. However | 3. Although | 4. However | 5. However | 6. Although
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_8037921e.webm">
 Câu 1 điền Although. "Although the film had a happy ending, I felt sad" - Mặc dù phim có kết thúc có hậu, tôi cảm thấy buồn. Đây là một câu hoàn chỉnh không có dấu chấm, nên dùng Although. Tương phản: happy ending - kết thúc vui >< felt sad - cảm thấy buồn.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_d29ddc80.webm">
 Câu 2 điền However. "The acting was terrible. However, the film became a blockbuster" - Diễn xuất tệ. Tuy nhiên, phim thành bom tấn. Có dấu chấm trước chỗ trống, nên dùng However. Tương phản: terrible - tệ >< blockbuster - bom tấn.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_ab2d0975.webm">
 Câu 3 điền Although. "Although the soundtrack was beautiful, it didn't match the film's mood" - Mặc dù nhạc phim đẹp, nó không hợp với tâm trạng phim. Đây là một câu liền, nên dùng Although. Tương phản: beautiful - đẹp >< didn't match - không hợp.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_680d7dd0.webm">
 Câu 4 điền However. "The director is famous. However, his latest film was a failure" - Đạo diễn nổi tiếng. Tuy nhiên, phim mới nhất thất bại. Có dấu chấm trước chỗ trống, nên dùng However. Tương phản: famous - nổi tiếng >< failure - thất bại.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_0fd87969.webm">
 Câu 5 điền However. "We arrived early. However, the best seats were already taken" - Chúng tôi đến sớm. Tuy nhiên, chỗ tốt nhất đã bị chiếm. Có dấu chấm trước chỗ trống, nên dùng However. Tương phản: arrived early - đến sớm >< already taken - đã bị chiếm.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_957ee7f9.webm">
 Câu 6 điền Although. "Although I'm not a fan of action movies, I loved this one" - Mặc dù tôi không phải fan phim hành động, tôi yêu thích phim này. Đây là một câu liền, nên dùng Although. Tương phản: not a fan - không phải fan >< loved - yêu thích.
 </teacher_script>
 
@@ -571,13 +571,13 @@ Câu 6 điền Although. "Although I'm not a fan of action movies, I loved this 
 - Không có dấu chấm trước chỗ trống → chọn **Although**
 </explanation>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_7967abac.webm">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé. Nhớ quy tắc: có dấu chấm thì dùng However, không có dấu chấm thì dùng Although đó.
 </teacher_script>
 
 ---
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_6348ec40.webm">
 Hết bài rồi nha. Nhớ kỹ: <eng>Although</eng> nối hai mệnh đề trong một câu, còn <eng>However</eng> đứng sau dấu chấm. Hẹn gặp lại!
 </teacher_script>

@@ -255,7 +255,7 @@ A. after | B. before | C. when
 ---
 
 <!-- chunk: answer_practice_1 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_120809e0.mp3">
 Đã hết thời gian. Ok đáp án nè.
 </teacher_script>
 
@@ -283,7 +283,7 @@ Câu 4: <eng>while</eng> (trong khi). Tưới cây trong khi tôi đi vắng.
 Câu 5: <eng>before</eng> (trước khi). Phải hành động trước khi quá muộn.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -318,7 +318,7 @@ Chúng ta cùng làm Bài tập 2. Các em hãy nối hai câu lại dùng liên
 ---
 
 <!-- chunk: answer_practice_2 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_120809e0.mp3">
 Đã hết thời gian. Ok đáp án nè.
 </teacher_script>
 
@@ -351,7 +351,7 @@ Câu 4: Không vứt rác <eng>while</eng> (trong khi) câu cá - bảo vệ sô
 Câu 5: <eng>As soon as</eng> (ngay khi) thấy chim bị thương thì đưa đi chữa ngay.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -389,7 +389,7 @@ Bài tập cuối cùng. Các em hãy hoàn thành các câu về bảo vệ mô
 ---
 
 <!-- chunk: answer_practice_3 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_120809e0.mp3">
 Đã hết thời gian. Ok đáp án nè.
 </teacher_script>
 
@@ -431,7 +431,7 @@ Câu 6: <eng>until</eng> - đợi cho đến khi tất cả mọi người đế
 Mẹo nhớ: <eng>when</eng> = khi, <eng>while</eng> = trong khi, <eng>before</eng> = trước khi, <eng>after</eng> = sau khi, <eng>as soon as</eng> = ngay khi, <eng>until</eng> = cho đến khi.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 

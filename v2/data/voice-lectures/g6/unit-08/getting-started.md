@@ -210,7 +210,7 @@ Bài 3 <eng>Name these sports and games</eng> nha. Nhìn tranh rồi chọn từ
 ---
 
 <!-- chunk: answer_3 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_6130ada9.mp3">
 Sau đây là đáp án.
 </teacher_script>
 

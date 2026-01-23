@@ -583,7 +583,7 @@ Bài tập 1 nha. Chia động từ trong ngoặc ở thì quá khứ đơn đi.
 ---
 
 <!-- chunk: answer_practice_1 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_120809e0.mp3">
 Đã hết thời gian. Ok đáp án nè.
 </teacher_script>
 
@@ -611,7 +611,7 @@ Câu 4: <eng>won</eng> - động từ bất quy tắc: win-won-won. Thắng tr�
 Câu 5: <eng>was</eng> - động từ to be ở quá khứ: he/she/it → was.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -669,7 +669,7 @@ Bài tập 2 nè. Viết câu mệnh lệnh phù hợp với từng tình huốn
 ---
 
 <!-- chunk: answer_practice_2 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_120809e0.mp3">
 Đã hết thời gian. Ok đáp án nè.
 </teacher_script>
 
@@ -718,7 +718,7 @@ Câu 7: <eng>Pass me the ball!</eng> - Yêu cầu chuyền bóng khi chơi.
 Câu 8: <eng>Don't run in the corridor!</eng> - Cấm chạy trong hành lang, không an toàn.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -778,7 +778,7 @@ Bài tập cuối kết hợp cả hai phần nè. Chọn đáp án đúng đi. 
 ---
 
 <!-- chunk: answer_practice_3 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_120809e0.mp3">
 Đã hết thời gian. Ok đáp án nè.
 </teacher_script>
 
@@ -810,7 +810,7 @@ Câu 5: <eng>Did</eng> - câu hỏi quá khứ, có "last night".
 Câu 6: <eng>Call</eng> - câu mệnh lệnh, dùng động từ nguyên mẫu.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 

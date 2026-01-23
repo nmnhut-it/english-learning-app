@@ -241,7 +241,7 @@ Chúng ta cùng làm Bài tập 1. Các em hãy hoàn thành các câu về bả
 ---
 
 <!-- chunk: answer_practice_1 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_120809e0.mp3">
 Đã hết thời gian. Ok đáp án nè.
 </teacher_script>
 
@@ -274,7 +274,7 @@ Câu 4: <eng>habitat</eng> - môi trường sống. Mỗi loài động vật c�
 Câu 5: <eng>ecosystem</eng> - hệ sinh thái. Đây là mối quan hệ giữa các sinh vật trong một khu vực.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -312,7 +312,7 @@ Chúng ta cùng làm Bài tập 2. Các em hãy viết câu về các hành đ�
 ---
 
 <!-- chunk: answer_practice_2 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_120809e0.mp3">
 Đã hết thời gian. Ok đáp án nè.
 </teacher_script>
 
@@ -334,7 +334,7 @@ Các câu này đều nói về bảo vệ môi trường. Nhặt rác, tiết k
 Lưu ý: <eng>endangered species</eng> là loài có nguy cơ tuyệt chủng, <eng>pollution</eng> là ô nhiễm, <eng>habitat</eng> là môi trường sống.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -372,7 +372,7 @@ Bài tập cuối cùng. Các em hãy đọc các câu và chọn True (T) hoặ
 ---
 
 <!-- chunk: answer_practice_3 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_120809e0.mp3">
 Đã hết thời gian. Ok đáp án nè.
 </teacher_script>
 
@@ -410,7 +410,7 @@ Câu 5: <eng>False</eng>. Hệ sinh thái bao gồm cả động vật, thực v
 Câu 6: <eng>True</eng>. Tiết kiệm nước là một trong những cách bảo vệ tài nguyên thiên nhiên.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 

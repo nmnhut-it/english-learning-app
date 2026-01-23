@@ -88,7 +88,7 @@ Bài 1, <eng>Complete the sentences with correct relative pronouns</eng>, tức 
 Các em làm bài 1 đi, 1 phút nha.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -158,7 +158,7 @@ Bài 2, <eng>Underline the relative clauses. Tick if the relative clause can be 
 Các em đọc kỹ từng câu, gạch chân mệnh đề quan hệ, rồi xem bỏ đi thì câu còn nghĩa không nha. 1 phút.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -243,7 +243,7 @@ Bài 3, nối câu với mệnh đề quan hệ không xác định phù hợp n
 Các em đọc kỹ từng câu, xem mệnh đề nào phù hợp về nghĩa rồi nối nha. 1 phút.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -313,7 +313,7 @@ Bài 4, kết hợp hai câu thành một câu sử dụng mệnh đề quan h�
 Các em viết câu ghép vô vở nha. 1 phút 30 giây.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

@@ -57,7 +57,7 @@ Bài 1 trang 35. Khoanh tròn từ đúng. Nhìn danh từ đứng trước: ng�
 **4.** The language (who / that) you are learning is global.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -93,7 +93,7 @@ Bài 2. Nối hai câu thành một câu dùng đại từ quan hệ. Bước 1:
 -> She meets a woman ________________________________.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

@@ -239,7 +239,7 @@ Chúng ta cùng làm Bài tập 1. Các em hãy viết lại câu với trạng 
 ---
 
 <!-- chunk: answer_practice_1 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_120809e0.mp3">
 Đã hết thời gian. Ok đáp án nè.
 </teacher_script>
 
@@ -265,7 +265,7 @@ Câu 2 và 6: Trạng từ đứng sau động từ <eng>to be</eng>. <eng>She i
 Mẹo nhớ: Trạng từ tần suất đứng TRƯỚC động từ thường, SAU động từ to be.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -309,7 +309,7 @@ A. go | B. will go | C. are going
 ---
 
 <!-- chunk: answer_practice_2 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_120809e0.mp3">
 Đã hết thời gian. Ok đáp án nè.
 </teacher_script>
 
@@ -345,7 +345,7 @@ Câu 6: <eng>will go</eng> - dự định mua sắm, dùng tương lai đơn.
 Mẹo nhớ: Lịch trình cố định (giờ mở cửa, giờ xe, lịch sale) dùng hiện tại đơn. Quyết định cá nhân dùng tương lai đơn với <eng>will</eng>.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -383,7 +383,7 @@ Bài tập cuối cùng. Các em hãy hoàn thành các câu về mua sắm. Cá
 ---
 
 <!-- chunk: answer_practice_3 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_120809e0.mp3">
 Đã hết thời gian. Ok đáp án nè.
 </teacher_script>
 
@@ -425,7 +425,7 @@ Câu 6: <eng>never bargains</eng> - không bao giờ mặc cả, trạng từ đ
 Tóm lại: Trạng từ tần suất: <eng>always, usually, often, sometimes, rarely, never</eng>. Hiện tại đơn cho lịch trình cố định. Tương lai đơn cho kế hoạch cá nhân.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 

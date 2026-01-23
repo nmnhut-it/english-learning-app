@@ -201,7 +201,7 @@ Chúng ta cùng làm Bài tập 1. Các em hãy chuyển các câu hỏi trực 
 ---
 
 <!-- chunk: answer_practice_1 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_120809e0.mp3">
 Đã hết thời gian. Ok đáp án nè.
 </teacher_script>
 
@@ -239,7 +239,7 @@ Câu 4: <eng>Are the caves</eng> chuyển thành <eng>whether the caves were</en
 Câu 5: <eng>Will you go</eng> chuyển thành <eng>if I would go</eng>. <eng>Will</eng> lùi thành <eng>would</eng>, <eng>next month</eng> đổi thành <eng>the following month</eng>.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -271,7 +271,7 @@ Chúng ta cùng làm Bài tập 2. Các em hãy chọn <eng>if</eng> hoặc <eng
 ---
 
 <!-- chunk: answer_practice_2 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_120809e0.mp3">
 Đã hết thời gian. Ok đáp án nè.
 </teacher_script>
 
@@ -302,7 +302,7 @@ Câu 2, 4, 5, 6: Đều lùi thì từ hiện tại sang quá khứ. <eng>unders
 Câu 3: <eng>can</eng> lùi thành <eng>could</eng>. Bơi qua hồ có được không.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -340,7 +340,7 @@ Bài tập cuối cùng khó hơn một chút. Các em hãy viết câu hoàn ch
 ---
 
 <!-- chunk: answer_practice_3 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_120809e0.mp3">
 Đã hết thời gian. Ok đáp án nè.
 </teacher_script>
 
@@ -384,7 +384,7 @@ Câu 5: <eng>Are there</eng> chuyển thành <eng>if there were</eng>. Trong r�
 Câu 6: <eng>Did ancient people live</eng> chuyển thành <eng>whether ancient people had lived</eng>. Nhớ đổi <eng>these</eng> thành <eng>those</eng> nha!
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 

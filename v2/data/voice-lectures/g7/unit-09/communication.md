@@ -148,7 +148,7 @@ Bài 3. Nghe Mark nói về biểu tượng lễ hội và điền từ vào ch�
    *(Ông già Noel là biểu tượng của niềm vui và sự _______.)*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -185,7 +185,7 @@ Bài 4. Nối mỗi lễ hội với biểu tượng và ý nghĩa của nó. C�
 | 4. Cannes Film Festival | D. Easter Bunny *(Thỏ Phục sinh)* | d. It is the symbol of the winner's prize. *(Biểu tượng của giải thưởng cho người chiến thắng.)* |
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

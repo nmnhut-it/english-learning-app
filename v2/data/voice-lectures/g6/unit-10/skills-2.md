@@ -84,7 +84,7 @@ Bài 1 <eng>Listen and read</eng> nha.
 Nghe bài nghe và chọn hình phù hợp cho Nick và Linda. 45 giây nha.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -126,7 +126,7 @@ Bài 2 nha.
 Nghe lại và đánh dấu vào bảng. 45 giây nha.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -184,7 +184,7 @@ Bài 3 nha.
 Trả lời 5 câu hỏi vô vở. 1 phút nha.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

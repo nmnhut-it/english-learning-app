@@ -40,7 +40,7 @@ e. A film that features cartoon characters.
 ---
 
 <!-- chunk: answer_1 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_120809e0.mp3">
 Đã hết thời gian. Ok đáp án nè.
 </teacher_script>
 
@@ -77,7 +77,7 @@ Câu 5 nối với a. Documentary - phim tài liệu nối với "This type of f
 5. **documentary** - a (useful info, animals... - thông tin hữu ích)
 </explanation>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -117,7 +117,7 @@ A. confusing | B. shocking | C. interesting
 ---
 
 <!-- chunk: answer_3 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_120809e0.mp3">
 Đã hết thời gian. Ok đáp án nè.
 </teacher_script>
 
@@ -159,7 +159,7 @@ Câu 6 chọn A - confusing. "The road signs were confusing and we soon got lost
 6. **confusing** (khó hiểu) -> bị lạc (got lost).
 </explanation>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -200,7 +200,7 @@ e. many people still buy them.
 ---
 
 <!-- chunk: answer_4 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_120809e0.mp3">
 Đã hết thời gian. Ok đáp án nè.
 </teacher_script>
 

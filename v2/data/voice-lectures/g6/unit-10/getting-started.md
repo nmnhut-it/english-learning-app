@@ -81,7 +81,7 @@ Bài 2 <eng>Read the conversation again. Find and write down the words or phrase
 Đọc lại hội thoại và tìm câu trả lời nha. 1 phút.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -127,7 +127,7 @@ Bài 3 <eng>Read the conversation again. Tick T True or F False</eng>. Đọc l�
 Đọc lại hội thoại và đánh dấu True hoặc False nha. 1 phút.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -182,7 +182,7 @@ Bài 4 <eng>Order the words to make a phrase about a place. Each group has one e
 Sắp xếp các từ để tạo cụm từ chỉ địa điểm nha. Nhớ mỗi nhóm có 1 từ thừa. 1 phút rưỡi.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

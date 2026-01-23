@@ -65,7 +65,7 @@ Bài 1. Nhìn hình và viết tên lễ hội tương ứng. Em nhận ra lễ 
 6. _______ (hình gia đình ăn gà tây)
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -106,7 +106,7 @@ Bài 2. Hoàn thành bảng với thức ăn và hoạt động của mỗi lễ
 | Thanksgiving | _______ | _______ |
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -164,7 +164,7 @@ Bài 3. Điền từ hoặc cụm từ vào chỗ trống. Đọc kỹ câu đ�
    *(Mẹ của Bill đang nấu _______ cho Lễ Tạ ơn.)*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -242,7 +242,7 @@ Bài 4. Nghe và nhắc lại, rồi gạch chân âm tiết được nhấn tr�
 *(Gạch chân âm tiết được nhấn trong mỗi từ)*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -296,7 +296,7 @@ Bài 5. Nghe và gạch chân âm tiết được nhấn trong các từ in đ�
    *(Dì tôi thông minh và kiên nhẫn.)*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

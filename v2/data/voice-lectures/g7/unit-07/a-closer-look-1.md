@@ -458,7 +458,7 @@ Chúng ta cùng làm Bài tập 1. Các em hãy chọn từ đúng để hoàn t
 ---
 
 <!-- chunk: answer_practice_1 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_120809e0.mp3">
 Đã hết thời gian. Ok đáp án nè.
 </teacher_script>
 
@@ -490,7 +490,7 @@ Câu 5 chọn A - <eng>school</eng>. Biển báo <eng>school ahead</eng> báo c�
 Câu 6 chọn B - <eng>obey</eng>. <eng>Obey traffic rules</eng> nghĩa là tuân theo luật giao thông. Đây là điều quan trọng để an toàn nha.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -516,7 +516,7 @@ light, main, fly, stay, night, pay, sky, day, try, way, high, play
 ---
 
 <!-- chunk: answer_practice_2 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_120809e0.mp3">
 Đã hết thời gian. Ok đáp án nè.
 </teacher_script>
 

@@ -68,7 +68,7 @@ Bài 1 nè. <eng>Listen and repeat the words/phrases in the box. Then put them i
 Các em nghe và lặp lại từ vựng, rồi xếp các thiết bị vào đúng phòng nha. Mỗi thiết bị có thể dùng ở nhiều phòng. 1 phút nha.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -116,7 +116,7 @@ Bài 2 nè. <eng>Match the appliances in A with what they can help us to do in B
 Nối thiết bị với công dụng của nó nha. 45 giây.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

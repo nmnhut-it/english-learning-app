@@ -3,7 +3,7 @@
 ## COMMUNICATION
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_68bd213e.mp3">
 Ok lớp 7, qua bài <eng>Communication</eng> nha. Mở sách trang 86 đi. Hôm nay học cách đồng ý hoặc từ chối lời đề nghị rồi khảo sát về phim luôn.
 </teacher_script>
 
@@ -12,7 +12,7 @@ Ok lớp 7, qua bài <eng>Communication</eng> nha. Mở sách trang 86 đi. Hôm
 <!-- chunk: exercise_1 -->
 ### Bài 1 trang 86 - Accepting and declining suggestions
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_492f357c.mp3">
 Bài 1 <eng>Listen and read the conversations</eng> nha. Nghe và đọc hội thoại, chú ý mấy câu in đậm đi.
 </teacher_script>
 
@@ -52,11 +52,11 @@ Bài 1 <eng>Listen and read the conversations</eng> nha. Nghe và đọc hội t
 - No, let's not.
 </grammar>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_ea89104d.mp3">
 Quan trọng nè! Khi người ta đề nghị mình đi xem phim hay làm gì đó, mình có thể đồng ý hoặc từ chối. Đồng ý thì nói <eng>That's a great idea</eng> - Ý hay đó. Từ chối thì nói <eng>I'd love to, but...</eng> - Mình muốn lắm, nhưng... rồi đưa ra lý do. Lịch sự mà vẫn từ chối được á.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_6d073e38.mp3">
 Ghi vô tập: Đề nghị = How about/What about + V-ing? hoặc Let's + V. Đồng ý = That's a great idea. Từ chối = I'd love to, but + lý do. 30 giây nha.
 </teacher_script>
 
@@ -65,7 +65,7 @@ Ghi vô tập: Đề nghị = How about/What about + V-ing? hoặc Let's + V. Đ
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 87 - Make similar conversations
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_c0159852.mp3">
 Bài 2 <eng>Make similar conversations</eng> nha. Thực hành theo cặp, tự tạo hội thoại tương tự đi. Dưới đây là ví dụ.
 </teacher_script>
 
@@ -82,7 +82,7 @@ Bài 2 <eng>Make similar conversations</eng> nha. Thực hành theo cặp, tự 
 <!-- chunk: exercise_3 -->
 ### Bài 3 trang 87 - Listen and fill in the blanks
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_730b606b.mp3">
 Bài 3 <eng>Listen and fill in the blanks</eng> nha. Nghe đoạn hội thoại về khảo sát phim rồi điền từ vô chỗ trống đi. 1 phút nha.
 </teacher_script>
 
@@ -109,7 +109,7 @@ Bài 3 <eng>Listen and fill in the blanks</eng> nha. Nghe đoạn hội thoại 
 ---
 
 <!-- chunk: answer_3 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_120809e0.mp3">
 Đã hết thời gian. Ok đáp án nè.
 </teacher_script>
 
@@ -117,23 +117,23 @@ Bài 3 <eng>Listen and fill in the blanks</eng> nha. Nghe đoạn hội thoại 
 **Đáp án:** 1. best | 2. comedies | 3. favourite | 4. stars | 5. funny
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_eab387d0.mp3">
 Câu 1 điền best. "What kind of films do you like best?" - Bạn thích loại phim nào nhất? Like best nghĩa là thích nhất. Best là dạng so sánh nhất của good - tốt nha.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_ef56a986.mp3">
 Câu 2 điền comedies. "I love comedies" - Tôi thích phim hài. Comedies là danh từ số nhiều của comedy - phim hài. Lan nói yêu thích loại phim này nha.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_1cce0105.mp3">
 Câu 3 điền favourite. "What's the name of your favourite comedy?" - Tên phim hài yêu thích của bạn là gì? Favourite nghĩa là yêu thích nhất. Đây là tính từ đứng trước danh từ comedy luôn.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_11f7a185.mp3">
 Câu 4 điền stars. "Who stars in it?" - Ai đóng vai chính? Star ở đây là động từ, nghĩa là đóng vai chính trong phim. Who stars - ai đóng vai chính, câu hỏi về diễn viên chính á.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_98118029.mp3">
 Câu 5 điền funny. "What do you think of it? - It's very funny" - Bạn nghĩ gì về phim? - Nó rất hài hước. Funny nghĩa là hài hước, buồn cười. Đây là tính từ miêu tả phim comedy nha.
 </teacher_script>
 
@@ -146,7 +146,7 @@ Câu 5 điền funny. "What do you think of it? - It's very funny" - Bạn nghĩ
 5. It's very **funny**. (Nó rất hài hước)
 </explanation>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -155,7 +155,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 <!-- chunk: exercise_4 -->
 ### Bài 4 trang 87 - Survey group members
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_fc230449.mp3">
 Bài 4 <eng>Survey group members</eng> nha. Làm việc theo nhóm, hỏi các bạn về phim yêu thích của họ đi. Dùng mấy câu hỏi như Bài 3 luôn.
 </teacher_script>
 
@@ -167,13 +167,13 @@ Bài 4 <eng>Survey group members</eng> nha. Làm việc theo nhóm, hỏi các b
 - What do you think of it?
 </dialogue>
 
-<teacher_script pause="0" action="record">
+<teacher_script pause="0" action="record" href="audio/tts_8416d72e.mp3">
 Em hãy đóng vai người phỏng vấn, tự hỏi và trả lời về bộ phim yêu thích của mình và ghi âm lại gửi cho thầy nhé.
 </teacher_script>
 
 ---
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_e0e4c536.mp3">
 Hết bài rồi nha. Nhớ mẫu câu đề nghị và cách từ chối lịch sự nha. Bài tiếp theo là <eng>Skills 1</eng> - Đọc và Nói về phim Harry Potter. Hẹn gặp lại!
 </teacher_script>

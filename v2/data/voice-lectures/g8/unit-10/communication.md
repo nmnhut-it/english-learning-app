@@ -156,7 +156,7 @@ Trong 20 năm tới, mọi người ở mọi lứa tuổi sẽ sử dụng emoj
 Đọc lại bài nói của Mark và trả lời 5 câu hỏi. 90 giây nha.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

@@ -85,7 +85,7 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 ---
 
 <!-- chunk: answer_1 -->
-<teacher_script pause="0" type="answer">
+<teacher_script pause="0" type="answer" href="audio/tts_120809e0.mp3">
 Đã hết thời gian. Ok đáp án nè.
 </teacher_script>
 
@@ -125,7 +125,7 @@ Câu 5 chọn <eng>viewer</eng>. Định nghĩa nói <eng>A person who watches T
 | 5 | A person who watches TV | **viewer** | người xem |
 </explanation>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -175,7 +175,7 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 ---
 
 <!-- chunk: answer_2 -->
-<teacher_script pause="0" type="answer">
+<teacher_script pause="0" type="answer" href="audio/tts_120809e0.mp3">
 Đã hết thời gian. Ok đáp án nè.
 </teacher_script>
 
@@ -220,7 +220,7 @@ Câu 6 chọn <eng>viewers</eng>. <eng>A popular programme has a lot of viewers<
 | 6 | A popular programme has a lot of ___ | **viewers** | Nhiều người xem |
 </explanation>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -270,7 +270,7 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 ---
 
 <!-- chunk: answer_3 -->
-<teacher_script pause="0" type="answer">
+<teacher_script pause="0" type="answer" href="audio/tts_120809e0.mp3">
 Đã hết thời gian. Ok đáp án nè.
 </teacher_script>
 
@@ -315,7 +315,7 @@ Câu 6 chọn <eng>educational</eng>. <eng>We learn a lot from Discovery Channel
 | **educational** | có tính giáo dục | "learn a lot" = học được nhiều |
 </explanation>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -564,7 +564,7 @@ Chúng ta cùng làm Bài tập 1. Các em hãy chọn đáp án đúng để ho
 ---
 
 <!-- chunk: answer_practice_1 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_120809e0.mp3">
 Đã hết thời gian. Ok đáp án nè.
 </teacher_script>
 
@@ -596,7 +596,7 @@ Câu 5: <eng>talent show</eng> - chương trình tài năng. Vietnam's Got Talen
 Câu 6: <eng>channel</eng> - kênh truyền hình. Ví dụ: VTV3, HTV7 là các kênh.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -644,7 +644,7 @@ Bài tập 2, các em hãy chọn từ có cách phát âm khác với các từ
 ---
 
 <!-- chunk: answer_practice_2 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_120809e0.mp3">
 Đã hết thời gian. Ok đáp án nè.
 </teacher_script>
 
@@ -680,7 +680,7 @@ Câu 6: đáp án C - <eng>Thursday</eng>. Từ này phát âm /θ/, còn lại 
 Mẹo để nhớ: Mấy từ như <eng>the, this, that, they, those, them, than, there</eng> - toàn là từ dùng hoài - thì đọc /ð/ có rung cổ. Còn lại đa số là /θ/.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 

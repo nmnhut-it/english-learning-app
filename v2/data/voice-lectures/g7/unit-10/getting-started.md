@@ -83,7 +83,7 @@ Bài 2 nè. <eng>What are Lan and her father talking about?</eng> - Lan và bố
 Chọn xong chưa? 30 giây nha.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -123,7 +123,7 @@ Bài 3. <eng>Read the conversation again and answer the following questions.</en
 Đọc hội thoại và trả lời 4 câu hỏi nha. 1 phút.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -181,7 +181,7 @@ Bài 4. <eng>Match the words/phrases in the box with the correct pictures.</eng>
 Nối từ với hình nha. 45 giây.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -228,7 +228,7 @@ Bài 5. <eng>Complete each of the sentences with the correct word from the conve
 Điền từ vô chỗ trống nha. 1 phút.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

@@ -51,7 +51,7 @@ d. a man who has magical powers
 ---
 
 <!-- chunk: answer_2 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_120809e0.mp3">
 Đã hết thời gian. Ok đáp án nè.
 </teacher_script>
 

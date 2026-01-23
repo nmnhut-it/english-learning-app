@@ -124,7 +124,7 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 ---
 
 <!-- chunk: answer_2 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_120809e0.mp3">
 Đã hết thời gian. Ok đáp án nè.
 </teacher_script>
 
@@ -164,7 +164,7 @@ Câu 4 chọn A - <eng>educational</eng>. Khi một chương trình dạy cho b�
 - Phong nói <eng>This channel has many educational programmes</eng>.
 </explanation>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -197,7 +197,7 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 ---
 
 <!-- chunk: answer_3 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_120809e0.mp3">
 Đã hết thời gian. Ok đáp án nè.
 </teacher_script>
 
@@ -241,7 +241,7 @@ Câu 5 nối d. <eng>English in a Minute</eng> là <eng>educational programme</e
 - **Cartoon**: hoạt hình NGẮN, từng tập (Tom & Jerry, SpongeBob...)
 </explanation>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -264,7 +264,7 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 ---
 
 <!-- chunk: answer_4 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_120809e0.mp3">
 Đã hết thời gian. Ok đáp án nè.
 </teacher_script>
 
@@ -305,7 +305,7 @@ Câu 4: <eng>Programmes on VTV7</eng> thì tính từ là <eng>educational</eng>
 **Lưu ý:** Tính từ đứng trước danh từ hoặc sau động từ "be" (is, are, am).
 </explanation>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 

@@ -65,7 +65,7 @@ Bài 1 <eng>Reading</eng> trang 110 nha. Đánh dấu tick những điều thể
 Các em suy nghĩ 30 giây nha.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -172,7 +172,7 @@ Bài 2 trang 110 nha. Đọc bài văn và chọn câu trả lời đúng A, B, 
 Làm bài 2, chọn đáp án đúng. 90 giây nha.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -215,7 +215,7 @@ Animals feed on (1) _______ → Animals are the prey of (2) _______ → (3) ____
 Điền vào sơ đồ. 45 giây nha.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

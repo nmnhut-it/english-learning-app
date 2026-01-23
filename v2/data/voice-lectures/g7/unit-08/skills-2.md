@@ -71,7 +71,7 @@ C. is shocking
 ---
 
 <!-- chunk: answer_3 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_120809e0.mp3">
 Đã hết thời gian. Ok đáp án nè.
 </teacher_script>
 
@@ -103,7 +103,7 @@ Câu 4 chọn A - young people should see. "People say Naughty Twins is a film t
 4. **A** (young people should see) - Mark nói: "it's a must-see for young people".
 </explanation>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 

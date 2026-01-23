@@ -92,7 +92,7 @@ Bài 2, <eng>Read the conversation again and tick T (True) or F (False) for each
 Làm xong chưa? 60 giây nha.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -141,7 +141,7 @@ Bài 3, <eng>Write a word or phrase from the box under the correct picture</eng>
 Làm đi, 60 giây nha.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -202,7 +202,7 @@ Bài 4, <eng>Complete each sentence with a word or phrase from 3</eng> - Hoàn t
 Làm đi, 60 giây nha.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -260,7 +260,7 @@ Bài 5, <eng>QUIZ. Work in groups. Answer the following questions</eng> - Làm v
 Suy nghĩ và trả lời nha. 60 giây.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

@@ -38,7 +38,7 @@ e. ________ (hình tủ lạnh)
 f. ________ (hình đồng hồ thông minh)
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -78,7 +78,7 @@ Bài 2. Suy nghĩ về những gì các thiết bị sẽ làm trong tương lai
 | 6. dishwashers | ________ |
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -153,7 +153,7 @@ Bài 3. Hoàn thành các câu với <eng>will</eng> hoặc <eng>won't</eng>. Đ
 *Tony ________ vượt qua kỳ kiểm tra. Anh ấy chưa học.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -231,7 +231,7 @@ Bài 4. Hoàn thành các câu với <eng>might</eng> hoặc <eng>might not</eng
 *Phong đang suy nghĩ xem mình sẽ làm gì vào Chủ nhật. Anh ấy ________ đến câu lạc bộ judo hoặc anh ấy ________ ở nhà học tiếng Anh.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

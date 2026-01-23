@@ -57,7 +57,7 @@ Bài 1. Viết dạng danh từ của động từ. Nhớ quy tắc: động t�
 | 5. damage | _______ |
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -106,7 +106,7 @@ Bài 2. Nhìn hình và viết từ phù hợp. Có 5 từ: <eng>emergency kit</
 5. _______ (hình người mặc đồ cứu hộ)
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -155,7 +155,7 @@ Bài 3. Điền từ vào chỗ trống. Chọn từ phù hợp: <eng>warning</e
    *(Họ mất hết _______ vì núi lửa phun trào.)*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -228,7 +228,7 @@ Bài 4. Nghe và lặp lại các từ. Chú ý trọng âm của từ.
 | personal | marvellous |
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -284,7 +284,7 @@ Bài 5. Nghe và lặp lại các câu. Đánh dấu trọng âm trong các từ
    *(Cô ấy cho chúng tôi lời khuyên thiết thực về việc xử lý chất thải độc hại.)*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

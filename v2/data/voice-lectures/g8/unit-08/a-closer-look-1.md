@@ -217,7 +217,7 @@ Chúng ta cùng làm Bài tập 1. Các em hãy hoàn thành các câu về mua 
 ---
 
 <!-- chunk: answer_practice_1 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_120809e0.mp3">
 Đã hết thời gian. Ok đáp án nè.
 </teacher_script>
 
@@ -250,7 +250,7 @@ Câu 4: <eng>speciality shop</eng> - cửa hàng chuyên doanh. Tiệm bánh mì
 Câu 5: <eng>bargain</eng> - mặc cả. Mặc cả giỏi thì mua được giá rẻ.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -290,7 +290,7 @@ A. discount shop | B. speciality shop | C. supermarket
 ---
 
 <!-- chunk: answer_practice_2 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_120809e0.mp3">
 Đã hết thời gian. Ok đáp án nè.
 </teacher_script>
 
@@ -318,7 +318,7 @@ Câu 4: <eng>open-air market</eng> - chợ trời. Ở chợ trời thì có th�
 Câu 5: <eng>speciality shop</eng> - cửa hàng chuyên doanh. Trang sức thủ công bán ở cửa hàng chuyên về trang sức.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -356,7 +356,7 @@ Bài tập cuối cùng. Các em hãy viết câu về các tình huống mua s�
 ---
 
 <!-- chunk: answer_practice_3 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_120809e0.mp3">
 Đã hết thời gian. Ok đáp án nè.
 </teacher_script>
 
@@ -398,7 +398,7 @@ Câu 6: <eng>She is a shopaholic and spends too much money.</eng> - Cô ấy ngh
 Mẹo nhớ: <eng>on sale</eng> = giảm giá, <eng>bargain</eng> = mặc cả, <eng>browse</eng> = lướt xem, <eng>shopaholic</eng> = nghiện mua sắm.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 

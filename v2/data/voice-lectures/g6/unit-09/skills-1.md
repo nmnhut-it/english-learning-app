@@ -134,7 +134,7 @@ Bài 2. Đọc bưu thiếp của Mai gửi ông bà từ Stockholm và trả l�
 *"Fika" là _______.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

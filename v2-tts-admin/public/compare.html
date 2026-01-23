@@ -1,0 +1,1334 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Compare View - Voice Lecture vs Loigiaihay</title>
+  <style>
+    :root {
+      --primary: #4f46e5;
+      --primary-hover: #4338ca;
+      --success: #10b981;
+      --warning: #f59e0b;
+      --danger: #ef4444;
+      --bg: #f8fafc;
+      --card: #ffffff;
+      --border: #e2e8f0;
+      --text: #1e293b;
+      --text-muted: #64748b;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      height: 100vh;
+      overflow: hidden;
+    }
+
+    .app-container {
+      display: flex;
+      flex-direction: column;
+      height: 100vh;
+    }
+
+    header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 12px 20px;
+      border-bottom: 1px solid var(--border);
+      background: var(--card);
+      flex-shrink: 0;
+    }
+
+    .header-left {
+      display: flex;
+      align-items: center;
+      gap: 20px;
+    }
+
+    h1 { font-size: 1.25rem; font-weight: 600; }
+
+    nav a {
+      color: var(--text-muted);
+      text-decoration: none;
+      padding: 8px 16px;
+      border-radius: 6px;
+      font-size: 0.9rem;
+      transition: all 0.2s;
+    }
+
+    nav a:hover { background: var(--bg); color: var(--text); }
+    nav a.active { background: var(--primary); color: white; }
+
+    button {
+      padding: 8px 14px;
+      border-radius: 6px;
+      font-size: 0.85rem;
+      border: 1px solid var(--border);
+      background: var(--card);
+      font-family: inherit;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+
+    button:hover:not(:disabled) { background: var(--bg); }
+    button:disabled { opacity: 0.5; cursor: not-allowed; }
+
+    .btn-primary { background: var(--primary); color: white; border: none; }
+    .btn-primary:hover:not(:disabled) { background: var(--primary-hover); }
+    .btn-success { background: var(--success); color: white; border: none; }
+    .btn-success:hover:not(:disabled) { background: #059669; }
+    .btn-danger { background: var(--danger); color: white; border: none; }
+    .btn-danger:hover:not(:disabled) { background: #dc2626; }
+    .btn-warning { background: var(--warning); color: white; border: none; }
+    .btn-warning:hover:not(:disabled) { background: #d97706; }
+
+    .main-container {
+      display: flex;
+      flex: 1;
+      overflow: hidden;
+    }
+
+    /* Sidebar */
+    .sidebar {
+      width: 240px;
+      min-width: 200px;
+      border-right: 1px solid var(--border);
+      display: flex;
+      flex-direction: column;
+      background: var(--card);
+      overflow: hidden;
+    }
+
+    .sidebar-header {
+      padding: 12px 16px;
+      border-bottom: 1px solid var(--border);
+      font-weight: 600;
+      font-size: 0.9rem;
+    }
+
+    .file-tree {
+      flex: 1;
+      overflow-y: auto;
+      padding: 8px;
+    }
+
+    .tree-grade { margin-bottom: 4px; }
+
+    .tree-grade-header {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      padding: 8px 12px;
+      cursor: pointer;
+      border-radius: 6px;
+      font-weight: 600;
+      font-size: 0.9rem;
+      transition: background 0.15s;
+    }
+
+    .tree-grade-header:hover { background: var(--bg); }
+
+    .tree-toggle {
+      width: 16px;
+      font-size: 0.7rem;
+      color: var(--text-muted);
+      transition: transform 0.2s;
+    }
+
+    .tree-toggle.expanded { transform: rotate(90deg); }
+
+    .tree-grade-content {
+      display: none;
+      padding-left: 16px;
+    }
+
+    .tree-grade-content.expanded { display: block; }
+
+    .tree-unit { margin-bottom: 2px; }
+
+    .tree-unit-header {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      padding: 6px 12px;
+      cursor: pointer;
+      border-radius: 6px;
+      font-size: 0.85rem;
+      transition: background 0.15s;
+    }
+
+    .tree-unit-header:hover { background: var(--bg); }
+
+    .tree-unit-content {
+      display: none;
+      padding-left: 24px;
+    }
+
+    .tree-unit-content.expanded { display: block; }
+
+    .tree-section {
+      display: flex;
+      align-items: center;
+      padding: 6px 12px;
+      cursor: pointer;
+      border-radius: 6px;
+      font-size: 0.8rem;
+      transition: background 0.15s;
+    }
+
+    .tree-section:hover { background: var(--bg); }
+    .tree-section.active { background: #dbeafe; border: 1px solid #93c5fd; }
+
+    /* Split View */
+    .content-area {
+      flex: 1;
+      display: flex;
+      overflow: hidden;
+    }
+
+    .panel {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+    }
+
+    .panel:first-child { border-right: 2px solid var(--border); }
+
+    .panel-header {
+      padding: 10px 16px;
+      border-bottom: 1px solid var(--border);
+      background: var(--bg);
+      font-weight: 600;
+      font-size: 0.85rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-shrink: 0;
+    }
+
+    .panel-badge {
+      padding: 4px 8px;
+      background: var(--primary);
+      color: white;
+      border-radius: 4px;
+      font-size: 0.75rem;
+    }
+
+    .panel-badge.source { background: var(--warning); }
+    .panel-badge.missing { background: var(--danger); }
+
+    .panel-content {
+      flex: 1;
+      overflow-y: auto;
+      padding: 16px;
+    }
+
+    .panel-content.empty {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: var(--text-muted);
+    }
+
+    /* Markdown Content Styling */
+    .md-block {
+      font-size: 0.9rem;
+      line-height: 1.7;
+      margin-bottom: 12px;
+      padding: 12px 16px;
+      background: var(--card);
+      border-radius: 8px;
+    }
+
+    .md-block p { margin: 8px 0; }
+    .md-block p:first-child { margin-top: 0; }
+    .md-block p:last-child { margin-bottom: 0; }
+
+    .md-block code {
+      background: #f1f5f9;
+      padding: 2px 6px;
+      border-radius: 4px;
+      font-family: 'SF Mono', Monaco, monospace;
+      font-size: 0.85em;
+    }
+
+    /* Source panel rendered content */
+    .source-rendered {
+      background: #fffef5;
+    }
+
+    .md-block h1, .md-block h2, .md-block h3 {
+      color: var(--primary);
+      font-weight: 600;
+      margin: 16px 0 8px;
+    }
+    .md-block h1 { font-size: 1.4rem; }
+    .md-block h2 { font-size: 1.2rem; }
+    .md-block h3 { font-size: 1.05rem; }
+
+    .md-block strong { font-weight: 600; color: var(--text); }
+    .md-block em { font-style: italic; }
+
+    .md-block ul, .md-block ol { margin: 8px 0 8px 20px; }
+    .md-block li { margin: 4px 0; }
+
+    .md-block table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 12px 0;
+      font-size: 0.85rem;
+    }
+    .md-block th, .md-block td {
+      border: 1px solid var(--border);
+      padding: 8px 12px;
+      text-align: left;
+    }
+    .md-block th { background: var(--bg); font-weight: 600; }
+
+    /* Custom Tag Blocks */
+    .tag-block {
+      padding: 12px 16px;
+      border-radius: 8px;
+      margin: 12px 0;
+      border-left: 4px solid;
+    }
+
+    .tag-block-header {
+      font-size: 0.75rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      margin-bottom: 8px;
+      opacity: 0.8;
+    }
+
+    .tag-block.vocabulary { background: #ecfdf5; border-color: #10b981; }
+    .tag-block.dialogue { background: #fffbeb; border-color: #f59e0b; }
+    .tag-block.reading { background: #f5f3ff; border-color: #8b5cf6; }
+    .tag-block.task { background: #fdf2f8; border-color: #ec4899; }
+    .tag-block.answer { background: #f0fdf4; border-color: #22c55e; }
+    .tag-block.questions { background: #fef2f2; border-color: #ef4444; }
+    .tag-block.translation { background: #f0f9ff; border-color: #0ea5e9; }
+    .tag-block.grammar { background: #fefce8; border-color: #eab308; }
+    .tag-block.explanation { background: #f8fafc; border-color: #64748b; }
+
+    .tag-block-content {
+      font-size: 0.9rem;
+      line-height: 1.7;
+    }
+
+    .tag-block-content p { margin: 8px 0; }
+    .tag-block-content p:first-child { margin-top: 0; }
+    .tag-block-content p:last-child { margin-bottom: 0; }
+
+    .tag-block-content h1, .tag-block-content h2, .tag-block-content h3 {
+      margin: 12px 0 8px;
+      font-weight: 600;
+    }
+
+    .tag-block-content ul, .tag-block-content ol { margin: 8px 0 8px 20px; }
+    .tag-block-content li { margin: 4px 0; }
+
+    .tag-block-content table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 8px 0;
+      font-size: 0.85rem;
+    }
+
+    .tag-block-content th, .tag-block-content td {
+      border: 1px solid rgba(0,0,0,0.1);
+      padding: 6px 10px;
+      text-align: left;
+    }
+
+    .tag-block-content th {
+      background: rgba(0,0,0,0.05);
+      font-weight: 600;
+    }
+
+    .tag-block-content code {
+      background: rgba(0,0,0,0.08);
+      padding: 2px 6px;
+      border-radius: 4px;
+      font-family: 'SF Mono', Monaco, monospace;
+      font-size: 0.85em;
+    }
+
+    /* Tag highlighting in source panel */
+    .tag-highlight {
+      padding: 2px 6px;
+      border-radius: 4px;
+      font-weight: 500;
+    }
+
+    .tag-vocabulary { background: #d1fae5; color: #065f46; }
+    .tag-dialogue { background: #fef3c7; color: #92400e; }
+    .tag-reading { background: #ede9fe; color: #7c3aed; }
+    .tag-task { background: #fce7f3; color: #be185d; }
+    .tag-answer { background: #dcfce7; color: #166534; }
+    .tag-questions { background: #fee2e2; color: #991b1b; }
+    .tag-translation { background: #e0f2fe; color: #0369a1; }
+    .tag-grammar { background: #fef3c7; color: #b45309; }
+
+    /* Script Card - Inline Component */
+    .script-card {
+      background: var(--card);
+      border: 2px solid #dbeafe;
+      border-radius: 10px;
+      margin: 12px 0;
+      overflow: hidden;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+    }
+
+    .script-card.recording {
+      border-color: var(--danger);
+      animation: pulse-border 1s infinite;
+    }
+
+    .script-card.linked {
+      border-color: var(--success);
+    }
+
+    .script-card.found {
+      border-color: var(--warning);
+    }
+
+    @keyframes pulse-border {
+      0%, 100% { border-color: var(--danger); }
+      50% { border-color: #fca5a5; }
+    }
+
+    .script-card-header {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      padding: 8px 12px;
+      background: #f1f5f9;
+      border-bottom: 1px solid var(--border);
+      flex-wrap: wrap;
+    }
+
+    .script-index {
+      font-weight: 700;
+      font-size: 0.8rem;
+      color: var(--primary);
+      min-width: 30px;
+    }
+
+    .badge {
+      padding: 3px 8px;
+      border-radius: 12px;
+      font-size: 0.7rem;
+      font-weight: 500;
+    }
+
+    .badge-pause { background: #dbeafe; color: #1d4ed8; }
+    .badge-hash { background: #f3e8ff; color: #7c3aed; font-family: monospace; }
+    .badge-linked { background: #d1fae5; color: #065f46; }
+    .badge-found { background: #fef3c7; color: #92400e; }
+    .badge-none { background: #f1f5f9; color: #64748b; }
+
+    .script-card-body {
+      padding: 12px;
+    }
+
+    .script-textarea {
+      width: 100%;
+      min-height: 60px;
+      padding: 10px;
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      font-family: inherit;
+      font-size: 0.9rem;
+      line-height: 1.6;
+      resize: vertical;
+      background: #fafafa;
+    }
+
+    .script-textarea:focus {
+      outline: none;
+      border-color: var(--primary);
+      background: white;
+    }
+
+    .script-card-controls {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      padding: 10px 12px;
+      background: #f8fafc;
+      border-top: 1px solid var(--border);
+      flex-wrap: wrap;
+    }
+
+    .script-card-controls button {
+      padding: 6px 12px;
+      font-size: 0.8rem;
+    }
+
+    .script-card-controls audio {
+      height: 32px;
+      flex: 1;
+      min-width: 150px;
+    }
+
+    .recording-indicator {
+      display: none;
+      align-items: center;
+      gap: 6px;
+      padding: 4px 10px;
+      background: #fee2e2;
+      border-radius: 6px;
+      color: var(--danger);
+      font-size: 0.8rem;
+    }
+
+    .recording-indicator.active {
+      display: flex;
+    }
+
+    .recording-dot {
+      width: 10px;
+      height: 10px;
+      background: var(--danger);
+      border-radius: 50%;
+      animation: blink 1s infinite;
+    }
+
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.3; }
+    }
+
+    .recording-time {
+      font-family: monospace;
+      font-weight: 600;
+    }
+
+    /* Status message */
+    .status-message {
+      padding: 10px 16px;
+      border-radius: 8px;
+      margin: 0 20px 10px;
+      display: none;
+      font-size: 0.9rem;
+    }
+
+    .status-message.success { display: block; background: #d1fae5; color: #065f46; }
+    .status-message.error { display: block; background: #fee2e2; color: #991b1b; }
+
+    /* Loading */
+    .loading {
+      display: none;
+      align-items: center;
+      gap: 8px;
+      color: var(--text-muted);
+      font-size: 0.85rem;
+    }
+
+    .loading.active { display: flex; }
+
+    .spinner {
+      width: 18px;
+      height: 18px;
+      border: 2px solid var(--border);
+      border-top-color: var(--primary);
+      border-radius: 50%;
+      animation: spin 0.8s linear infinite;
+    }
+
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    /* Sync scroll toggle */
+    .header-controls {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+    }
+
+    .sync-toggle {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 0.85rem;
+      color: var(--text-muted);
+    }
+
+    .sync-toggle input { cursor: pointer; }
+  </style>
+</head>
+<body>
+  <div class="app-container">
+    <header>
+      <div class="header-left">
+        <h1>Compare View</h1>
+        <nav>
+          <a href="/">TTS Admin</a>
+          <a href="/compare.html" class="active">Compare</a>
+        </nav>
+      </div>
+      <div class="header-controls">
+        <label class="sync-toggle">
+          <input type="checkbox" id="syncScrollCheck" />
+          <span>Sync Scroll</span>
+        </label>
+        <div class="loading" id="loading">
+          <div class="spinner"></div>
+          <span>Loading...</span>
+        </div>
+      </div>
+    </header>
+
+    <div id="statusMessage" class="status-message"></div>
+
+    <div class="main-container">
+      <!-- File Tree Sidebar -->
+      <div class="sidebar">
+        <div class="sidebar-header">Select File</div>
+        <div class="file-tree" id="fileTree">
+          <div class="panel-content empty">Loading files...</div>
+        </div>
+      </div>
+
+      <!-- Content Area: Split View -->
+      <div class="content-area">
+        <!-- Left Panel: Voice Lecture with Inline Script Cards -->
+        <div class="panel">
+          <div class="panel-header">
+            <span>Voice Lecture (MD)</span>
+            <span class="panel-badge" id="leftBadge">-</span>
+          </div>
+          <div class="panel-content" id="leftPanel">
+            <div class="panel-content empty">Select a file from the tree</div>
+          </div>
+        </div>
+
+        <!-- Right Panel: Loigiaihay Source -->
+        <div class="panel">
+          <div class="panel-header">
+            <span>Loigiaihay Source</span>
+            <span class="panel-badge source" id="rightBadge">-</span>
+          </div>
+          <div class="panel-content" id="rightPanel">
+            <div class="panel-content empty">Select a file from the tree</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    // State
+    const state = {
+      files: [],
+      currentFile: null,
+      scripts: [],
+      scriptStatuses: [],
+      expandedGrades: new Set(),
+      expandedUnits: new Map(),
+      syncScroll: false,
+      // Recording state
+      activeRecordingIndex: -1,
+      mediaRecorder: null,
+      recordedChunks: [],
+      recordingStartTime: null,
+      recordingTimer: null
+    };
+
+    // DOM Elements
+    const el = {
+      fileTree: document.getElementById('fileTree'),
+      leftPanel: document.getElementById('leftPanel'),
+      rightPanel: document.getElementById('rightPanel'),
+      leftBadge: document.getElementById('leftBadge'),
+      rightBadge: document.getElementById('rightBadge'),
+      loading: document.getElementById('loading'),
+      statusMessage: document.getElementById('statusMessage'),
+      syncScrollCheck: document.getElementById('syncScrollCheck')
+    };
+
+    // API helper
+    async function api(endpoint, options = {}) {
+      const response = await fetch(`/api${endpoint}`, {
+        headers: { 'Content-Type': 'application/json' },
+        ...options,
+        body: options.body ? JSON.stringify(options.body) : undefined
+      });
+      return response.json();
+    }
+
+    // Initialize
+    async function init() {
+      try {
+        const res = await api('/compare-files');
+        if (res.success) {
+          state.files = res.files;
+          renderFileTree();
+        }
+      } catch (error) {
+        showStatus('Failed to load files: ' + error.message, 'error');
+      }
+    }
+
+    // Build tree structure
+    function buildTreeStructure() {
+      const tree = new Map();
+      state.files.forEach(file => {
+        const grade = file.grade;
+        const unit = file.unit;
+        if (!tree.has(grade)) tree.set(grade, new Map());
+        if (!tree.get(grade).has(unit)) tree.get(grade).set(unit, []);
+        tree.get(grade).get(unit).push(file);
+      });
+      return tree;
+    }
+
+    // Render file tree
+    function renderFileTree() {
+      const tree = buildTreeStructure();
+      let html = '';
+      const sortedGrades = Array.from(tree.keys()).sort();
+
+      sortedGrades.forEach(grade => {
+        const units = tree.get(grade);
+        const gradeExpanded = state.expandedGrades.has(grade);
+
+        html += `
+          <div class="tree-grade" data-grade="${grade}">
+            <div class="tree-grade-header" data-grade="${grade}">
+              <span class="tree-toggle ${gradeExpanded ? 'expanded' : ''}">&#9654;</span>
+              <span>${grade.toUpperCase()}</span>
+            </div>
+            <div class="tree-grade-content ${gradeExpanded ? 'expanded' : ''}">
+        `;
+
+        const sortedUnits = Array.from(units.keys()).sort();
+        const unitExpanded = state.expandedUnits.get(grade) || new Set();
+
+        sortedUnits.forEach(unit => {
+          const files = units.get(unit);
+          const isUnitExpanded = unitExpanded.has(unit);
+
+          html += `
+            <div class="tree-unit" data-grade="${grade}" data-unit="${unit}">
+              <div class="tree-unit-header" data-grade="${grade}" data-unit="${unit}">
+                <span class="tree-toggle ${isUnitExpanded ? 'expanded' : ''}">&#9654;</span>
+                <span>${unit}</span>
+              </div>
+              <div class="tree-unit-content ${isUnitExpanded ? 'expanded' : ''}">
+          `;
+
+          files.forEach(file => {
+            const isActive = state.currentFile && state.currentFile.path === file.path;
+            html += `
+              <div class="tree-section ${isActive ? 'active' : ''}" data-path="${file.path}">
+                ${file.section}
+              </div>
+            `;
+          });
+
+          html += `</div></div>`;
+        });
+
+        html += `</div></div>`;
+      });
+
+      el.fileTree.innerHTML = html;
+      attachTreeEventListeners();
+    }
+
+    // Attach tree event listeners
+    function attachTreeEventListeners() {
+      el.fileTree.querySelectorAll('.tree-grade-header').forEach(header => {
+        header.addEventListener('click', () => toggleGrade(header.dataset.grade));
+      });
+
+      el.fileTree.querySelectorAll('.tree-unit-header').forEach(header => {
+        header.addEventListener('click', () => toggleUnit(header.dataset.grade, header.dataset.unit));
+      });
+
+      el.fileTree.querySelectorAll('.tree-section').forEach(section => {
+        section.addEventListener('click', () => loadFile(section.dataset.path));
+      });
+    }
+
+    function toggleGrade(grade) {
+      if (state.expandedGrades.has(grade)) {
+        state.expandedGrades.delete(grade);
+      } else {
+        state.expandedGrades.add(grade);
+      }
+      renderFileTree();
+    }
+
+    function toggleUnit(grade, unit) {
+      if (!state.expandedUnits.has(grade)) {
+        state.expandedUnits.set(grade, new Set());
+      }
+      const unitSet = state.expandedUnits.get(grade);
+      if (unitSet.has(unit)) {
+        unitSet.delete(unit);
+      } else {
+        unitSet.add(unit);
+      }
+      renderFileTree();
+    }
+
+    // Load file and render content
+    async function loadFile(path) {
+      const file = state.files.find(f => f.path === path);
+      if (!file) return;
+
+      state.currentFile = file;
+      el.loading.classList.add('active');
+
+      try {
+        // Load voice lecture scripts and loigiaihay source in parallel
+        const [scriptsRes, voiceRes, loigiaihayRes] = await Promise.all([
+          api(`/file/${file.voiceLecturePath}`),
+          api(`/voice-lecture/${file.voiceLecturePath}`),
+          api(`/loigiaihay/${file.loigiaihayPath}`)
+        ]);
+
+        // Store scripts
+        if (scriptsRes.success) {
+          state.scripts = scriptsRes.scripts;
+          await scanScriptStatuses();
+        }
+
+        // Render left panel with inline script cards
+        if (voiceRes.success && voiceRes.content) {
+          renderVoiceLectureWithScripts(voiceRes.content);
+          el.leftBadge.textContent = file.section;
+          el.leftBadge.className = 'panel-badge';
+        } else {
+          el.leftPanel.innerHTML = '<div class="panel-content empty">File not found</div>';
+          el.leftBadge.textContent = 'Missing';
+          el.leftBadge.className = 'panel-badge missing';
+        }
+
+        // Render right panel (loigiaihay source)
+        if (loigiaihayRes.success && loigiaihayRes.content) {
+          el.rightPanel.innerHTML = highlightSource(loigiaihayRes.content);
+          el.rightBadge.textContent = file.section;
+          el.rightBadge.className = 'panel-badge source';
+        } else {
+          el.rightPanel.innerHTML = '<div class="panel-content empty">File not found</div>';
+          el.rightBadge.textContent = 'Missing';
+          el.rightBadge.className = 'panel-badge missing';
+        }
+
+        renderFileTree();
+        setupSyncScroll();
+
+      } catch (error) {
+        showStatus('Failed to load file: ' + error.message, 'error');
+      } finally {
+        el.loading.classList.remove('active');
+      }
+    }
+
+    // Scan script audio statuses
+    async function scanScriptStatuses() {
+      state.scriptStatuses = new Array(state.scripts.length).fill('none');
+
+      const promises = state.scripts.map(async (script, index) => {
+        if (script.href) {
+          state.scriptStatuses[index] = 'linked';
+          return;
+        }
+        try {
+          const res = await api(`/audio-lookup/${script.hash}`);
+          state.scriptStatuses[index] = (res.success && res.exists) ? 'found' : 'none';
+        } catch {
+          state.scriptStatuses[index] = 'none';
+        }
+      });
+
+      await Promise.all(promises);
+    }
+
+    // Render voice lecture with inline script cards
+    function renderVoiceLectureWithScripts(content) {
+      const scriptRegex = /<teacher_script([^>]*)>([\s\S]*?)<\/teacher_script>/gi;
+      let html = '';
+      let lastIndex = 0;
+      let scriptIndex = 0;
+      let match;
+
+      while ((match = scriptRegex.exec(content)) !== null) {
+        // Add content before this script
+        if (match.index > lastIndex) {
+          const beforeContent = content.slice(lastIndex, match.index);
+          html += renderMarkdownBlock(beforeContent);
+        }
+
+        // Render script card
+        const script = state.scripts[scriptIndex];
+        if (script) {
+          html += renderScriptCard(script, scriptIndex);
+        }
+
+        scriptIndex++;
+        lastIndex = match.index + match[0].length;
+      }
+
+      // Add remaining content
+      if (lastIndex < content.length) {
+        html += renderMarkdownBlock(content.slice(lastIndex));
+      }
+
+      el.leftPanel.innerHTML = html;
+      attachScriptCardListeners();
+    }
+
+    // Custom tag types for styling
+    const TAG_TYPES = ['vocabulary', 'dialogue', 'reading', 'task', 'answer', 'questions', 'translation', 'grammar', 'explanation'];
+
+    // Render a markdown content block with proper markdown parsing
+    function renderMarkdownBlock(content) {
+      const trimmed = content.trim();
+      if (!trimmed) return '';
+
+      // Phase 1: Extract custom tags and replace with placeholders
+      const { text: textWithPlaceholders, tags: extractedTags } = extractCustomTags(trimmed);
+
+      // Phase 2: Render markdown syntax
+      let html = renderMarkdown(textWithPlaceholders);
+
+      // Phase 3: Restore placeholders with rendered tag blocks
+      html = restoreTagPlaceholders(html, extractedTags);
+
+      return `<div class="md-block">${html}</div>`;
+    }
+
+    // Extract custom tags and replace with numbered placeholders
+    function extractCustomTags(text) {
+      const tags = [];
+      let result = text;
+
+      TAG_TYPES.forEach(tagName => {
+        const regex = new RegExp(`<${tagName}([^>]*)>([\\s\\S]*?)<\\/${tagName}>`, 'gi');
+        result = result.replace(regex, (match, attrs, content) => {
+          const index = tags.length;
+          tags.push({ type: tagName, attrs: attrs.trim(), content: content.trim() });
+          return `<!--TAG_PH_${index}-->`;
+        });
+      });
+
+      return { text: result, tags };
+    }
+
+    // Render markdown syntax to HTML
+    function renderMarkdown(text) {
+      let html = escapeHtml(text);
+
+      // Unescape markdown escape sequences (\_  \-  \*  \#  etc.)
+      html = html.replace(/\\([_\-*#\[\]()>`~|])/g, '$1');
+
+      // Headers (must do ### before ## before #)
+      html = html.replace(/^### (.+)$/gm, '<h3>$1</h3>');
+      html = html.replace(/^## (.+)$/gm, '<h2>$1</h2>');
+      html = html.replace(/^# (.+)$/gm, '<h1>$1</h1>');
+
+      // Bold and italic
+      html = html.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
+      html = html.replace(/\*([^*\n]+)\*/g, '<em>$1</em>');
+
+      // Tables (simple pipe-delimited)
+      html = renderTables(html);
+
+      // Lists (unordered)
+      html = html.replace(/^- (.+)$/gm, '<li class="ul-item">$1</li>');
+      html = html.replace(/(<li class="ul-item">.*<\/li>\n?)+/g, '<ul>$&</ul>');
+      html = html.replace(/<li class="ul-item">/g, '<li>');
+
+      // Lists (ordered)
+      html = html.replace(/^\d+\. (.+)$/gm, '<li class="ol-item">$1</li>');
+      html = html.replace(/(<li class="ol-item">.*<\/li>\n?)+/g, '<ol>$&</ol>');
+      html = html.replace(/<li class="ol-item">/g, '<li>');
+
+      // Inline code
+      html = html.replace(/`([^`]+)`/g, '<code>$1</code>');
+
+      // Line breaks (preserve paragraph structure)
+      html = html.replace(/\n\n+/g, '</p><p>');
+      html = html.replace(/\n/g, '<br>');
+      html = `<p>${html}</p>`;
+      html = html.replace(/<p><\/p>/g, '');
+
+      return html;
+    }
+
+    // Render markdown tables
+    function renderTables(html) {
+      const lines = html.split('\n');
+      const result = [];
+      let inTable = false;
+      let tableRows = [];
+
+      for (const line of lines) {
+        // Check if line is a table row (starts and ends with |)
+        if (line.trim().startsWith('|') && line.trim().endsWith('|')) {
+          // Skip separator line (|---|---|)
+          if (line.includes('---')) continue;
+
+          tableRows.push(line);
+          inTable = true;
+        } else {
+          // End table if we were in one
+          if (inTable && tableRows.length > 0) {
+            result.push(buildTable(tableRows));
+            tableRows = [];
+            inTable = false;
+          }
+          result.push(line);
+        }
+      }
+
+      // Handle table at end of content
+      if (tableRows.length > 0) {
+        result.push(buildTable(tableRows));
+      }
+
+      return result.join('\n');
+    }
+
+    // Build HTML table from rows
+    function buildTable(rows) {
+      if (rows.length === 0) return '';
+
+      let html = '<table>';
+      rows.forEach((row, idx) => {
+        const cells = row.split('|').filter(c => c.trim() !== '');
+        const tag = idx === 0 ? 'th' : 'td';
+        html += '<tr>';
+        cells.forEach(cell => {
+          html += `<${tag}>${cell.trim()}</${tag}>`;
+        });
+        html += '</tr>';
+      });
+      html += '</table>';
+      return html;
+    }
+
+    // Restore tag placeholders with rendered HTML blocks
+    function restoreTagPlaceholders(html, tags) {
+      tags.forEach((tag, index) => {
+        const placeholder = `&lt;!--TAG_PH_${index}--&gt;`;
+        const tagHtml = renderTagBlock(tag);
+        html = html.replace(placeholder, tagHtml);
+      });
+      return html;
+    }
+
+    // Render a custom tag as styled block
+    function renderTagBlock(tag) {
+      const { type, content } = tag;
+      const label = type.charAt(0).toUpperCase() + type.slice(1);
+      const innerHtml = renderMarkdown(content);
+
+      return `
+        <div class="tag-block ${type}">
+          <div class="tag-block-header">${label}</div>
+          <div class="tag-block-content">${innerHtml}</div>
+        </div>
+      `;
+    }
+
+    // Render a script card
+    function renderScriptCard(script, index) {
+      const status = state.scriptStatuses[index];
+      const statusClass = status === 'linked' ? 'linked' : (status === 'found' ? 'found' : '');
+      const statusBadge = status === 'linked' ? 'badge-linked' : (status === 'found' ? 'badge-found' : 'badge-none');
+      const statusText = status === 'linked' ? 'Linked' : (status === 'found' ? 'Found' : 'No audio');
+
+      const hasAudio = script.href || status === 'found';
+      const audioSrc = script.href ? '/' + script.href : '';
+
+      return `
+        <div class="script-card ${statusClass}" data-index="${index}" id="script-card-${index}">
+          <div class="script-card-header">
+            <span class="script-index">#${index + 1}</span>
+            <span class="badge badge-pause">pause: ${script.pause}s</span>
+            <span class="badge badge-hash">#${script.hash}</span>
+            <span class="badge ${statusBadge}">${statusText}</span>
+          </div>
+          <div class="script-card-body">
+            <textarea class="script-textarea" data-index="${index}">${escapeHtml(script.cleanedText)}</textarea>
+          </div>
+          <div class="script-card-controls">
+            <button class="btn-danger btn-record" data-index="${index}">● Rec</button>
+            <button class="btn-danger btn-stop" data-index="${index}" style="display:none;">■ Stop</button>
+            <div class="recording-indicator" id="rec-indicator-${index}">
+              <span class="recording-dot"></span>
+              <span class="recording-time" id="rec-time-${index}">00:00</span>
+            </div>
+            ${hasAudio ? `<audio controls src="${audioSrc}" id="audio-${index}"></audio>` : ''}
+            ${status === 'found' ? `<button class="btn-warning btn-link" data-index="${index}">Link</button>` : ''}
+            <button class="btn-primary btn-save" data-index="${index}">Save Text</button>
+          </div>
+        </div>
+      `;
+    }
+
+    // Attach event listeners to script cards
+    function attachScriptCardListeners() {
+      // Record buttons
+      el.leftPanel.querySelectorAll('.btn-record').forEach(btn => {
+        btn.addEventListener('click', () => startRecording(parseInt(btn.dataset.index)));
+      });
+
+      // Stop buttons
+      el.leftPanel.querySelectorAll('.btn-stop').forEach(btn => {
+        btn.addEventListener('click', () => stopRecording(parseInt(btn.dataset.index)));
+      });
+
+      // Link buttons
+      el.leftPanel.querySelectorAll('.btn-link').forEach(btn => {
+        btn.addEventListener('click', () => linkExistingAudio(parseInt(btn.dataset.index)));
+      });
+
+      // Save buttons
+      el.leftPanel.querySelectorAll('.btn-save').forEach(btn => {
+        btn.addEventListener('click', () => saveScriptText(parseInt(btn.dataset.index)));
+      });
+    }
+
+    // Recording functions
+    async function startRecording(index) {
+      if (state.activeRecordingIndex !== -1) {
+        showStatus('Already recording another script', 'error');
+        return;
+      }
+
+      try {
+        const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
+        state.mediaRecorder = new MediaRecorder(stream, { mimeType: 'audio/webm' });
+        state.recordedChunks = [];
+        state.activeRecordingIndex = index;
+
+        state.mediaRecorder.ondataavailable = (e) => {
+          if (e.data.size > 0) state.recordedChunks.push(e.data);
+        };
+
+        state.mediaRecorder.onstop = async () => {
+          stream.getTracks().forEach(track => track.stop());
+          const blob = new Blob(state.recordedChunks, { type: 'audio/webm' });
+          await uploadRecording(blob, index);
+        };
+
+        state.mediaRecorder.start();
+        state.recordingStartTime = Date.now();
+
+        // Update UI
+        const card = document.getElementById(`script-card-${index}`);
+        card.classList.add('recording');
+        card.querySelector('.btn-record').style.display = 'none';
+        card.querySelector('.btn-stop').style.display = 'inline-block';
+        document.getElementById(`rec-indicator-${index}`).classList.add('active');
+
+        // Start timer
+        updateRecordingTime(index);
+        state.recordingTimer = setInterval(() => updateRecordingTime(index), 1000);
+
+      } catch (error) {
+        showStatus('Microphone access denied: ' + error.message, 'error');
+        state.activeRecordingIndex = -1;
+      }
+    }
+
+    function stopRecording(index) {
+      if (state.activeRecordingIndex !== index || !state.mediaRecorder) return;
+
+      state.mediaRecorder.stop();
+
+      if (state.recordingTimer) {
+        clearInterval(state.recordingTimer);
+        state.recordingTimer = null;
+      }
+
+      // Update UI
+      const card = document.getElementById(`script-card-${index}`);
+      card.classList.remove('recording');
+      card.querySelector('.btn-record').style.display = 'inline-block';
+      card.querySelector('.btn-stop').style.display = 'none';
+      document.getElementById(`rec-indicator-${index}`).classList.remove('active');
+
+      el.loading.classList.add('active');
+    }
+
+    function updateRecordingTime(index) {
+      if (!state.recordingStartTime) return;
+      const elapsed = Math.floor((Date.now() - state.recordingStartTime) / 1000);
+      const mins = Math.floor(elapsed / 60).toString().padStart(2, '0');
+      const secs = (elapsed % 60).toString().padStart(2, '0');
+      const timeEl = document.getElementById(`rec-time-${index}`);
+      if (timeEl) timeEl.textContent = `${mins}:${secs}`;
+    }
+
+    async function uploadRecording(blob, index) {
+      const script = state.scripts[index];
+
+      try {
+        const formData = new FormData();
+        formData.append('audio', blob, 'recording.webm');
+        formData.append('filePath', state.currentFile.voiceLecturePath);
+        formData.append('scriptIndex', script.index);
+        formData.append('hash', script.hash);
+
+        const response = await fetch('/api/upload-recording', {
+          method: 'POST',
+          body: formData
+        });
+
+        const res = await response.json();
+
+        if (res.success) {
+          script.href = res.href;
+          state.scriptStatuses[index] = 'linked';
+          showStatus('Recording saved!', 'success');
+          // Reload to refresh card
+          await loadFile(state.currentFile.path);
+        } else {
+          showStatus('Failed to save: ' + res.error, 'error');
+        }
+      } catch (error) {
+        showStatus('Error: ' + error.message, 'error');
+      } finally {
+        state.activeRecordingIndex = -1;
+        el.loading.classList.remove('active');
+      }
+    }
+
+    async function linkExistingAudio(index) {
+      const script = state.scripts[index];
+      el.loading.classList.add('active');
+
+      try {
+        const lookupRes = await api(`/audio-lookup/${script.hash}`);
+        if (!lookupRes.success || !lookupRes.exists) {
+          showStatus('Audio not found', 'error');
+          return;
+        }
+
+        const res = await api('/update-href', {
+          method: 'POST',
+          body: {
+            filePath: state.currentFile.voiceLecturePath,
+            scriptIndex: script.index,
+            href: lookupRes.href
+          }
+        });
+
+        if (res.success) {
+          script.href = lookupRes.href;
+          state.scriptStatuses[index] = 'linked';
+          showStatus('Audio linked!', 'success');
+          await loadFile(state.currentFile.path);
+        } else {
+          showStatus('Failed to link: ' + res.error, 'error');
+        }
+      } catch (error) {
+        showStatus('Error: ' + error.message, 'error');
+      } finally {
+        el.loading.classList.remove('active');
+      }
+    }
+
+    async function saveScriptText(index) {
+      const script = state.scripts[index];
+      const textarea = el.leftPanel.querySelector(`.script-textarea[data-index="${index}"]`);
+      const newText = textarea.value.trim();
+
+      if (newText === script.cleanedText) {
+        showStatus('No changes to save', 'error');
+        return;
+      }
+
+      el.loading.classList.add('active');
+
+      try {
+        const res = await api('/update-script', {
+          method: 'POST',
+          body: {
+            filePath: state.currentFile.voiceLecturePath,
+            scriptIndex: script.index,
+            newText
+          }
+        });
+
+        if (res.success) {
+          script.cleanedText = newText;
+          script.hash = res.newHash;
+          showStatus('Text saved!', 'success');
+          await loadFile(state.currentFile.path);
+        } else {
+          showStatus('Failed to save: ' + res.error, 'error');
+        }
+      } catch (error) {
+        showStatus('Error: ' + error.message, 'error');
+      } finally {
+        el.loading.classList.remove('active');
+      }
+    }
+
+    // Render source content with markdown (for right panel)
+    function highlightSource(content) {
+      // Use same rendering pipeline but keep source formatting style
+      const { text: textWithPlaceholders, tags: extractedTags } = extractCustomTags(content);
+      let html = renderMarkdown(textWithPlaceholders);
+      html = restoreTagPlaceholders(html, extractedTags);
+      return `<div class="md-block source-rendered">${html}</div>`;
+    }
+
+    function escapeHtml(text) {
+      const div = document.createElement('div');
+      div.textContent = text;
+      return div.innerHTML;
+    }
+
+    // Setup synchronized scrolling
+    function setupSyncScroll() {
+      let isScrolling = false;
+
+      const syncScroll = (source, target) => {
+        if (!state.syncScroll || isScrolling) return;
+        isScrolling = true;
+
+        const ratio = source.scrollTop / (source.scrollHeight - source.clientHeight || 1);
+        target.scrollTop = ratio * (target.scrollHeight - target.clientHeight);
+
+        setTimeout(() => { isScrolling = false; }, 50);
+      };
+
+      el.leftPanel.addEventListener('scroll', () => syncScroll(el.leftPanel, el.rightPanel));
+      el.rightPanel.addEventListener('scroll', () => syncScroll(el.rightPanel, el.leftPanel));
+    }
+
+    function showStatus(message, type) {
+      el.statusMessage.textContent = message;
+      el.statusMessage.className = `status-message ${type}`;
+      setTimeout(() => {
+        el.statusMessage.className = 'status-message';
+      }, 3000);
+    }
+
+    // Event listeners
+    el.syncScrollCheck.addEventListener('change', (e) => {
+      state.syncScroll = e.target.checked;
+    });
+
+    // Initialize
+    init();
+  </script>
+</body>
+</html>

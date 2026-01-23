@@ -93,7 +93,7 @@ Bài 1. Hoàn thành câu bằng cách chia động từ trong ngoặc ở thì 
    *(- Không.)*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -146,7 +146,7 @@ Bài 2. Khoanh tròn đáp án đúng. Bài này khó hơn vì em phải phân b
 *(Mình _______ báo lúc 9 giờ sáng hôm qua, nhưng mình _______ tin về lốc xoáy.)*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -191,7 +191,7 @@ Bài 3. Nhìn tranh và viết câu mô tả mọi người trong gia đình Lan
 4. Lan's brother _______ when she _______.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -238,7 +238,7 @@ you / play / football / 5 o'clock yesterday afternoon?
 3. you / watch / film / 9 o'clock yesterday evening?
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -286,7 +286,7 @@ Bài 5. Thử thách trí nhớ! Nhìn tranh và nói câu mô tả mỗi ngư�
 - Ha và Mi đang làm gì?
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

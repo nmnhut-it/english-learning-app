@@ -21,7 +21,7 @@ Chào các em. Mời các em mở sách giáo khoa trang 78. Hôm nay chúng ta 
 7. **excursion** : (n) chuyến tham quan /ɪkˈskɜːʃn/
 </vocabulary>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_4ec3284e.mp3">
 Các em hãy nghe và lặp lại từ vựng nhé.
 </teacher_script>
 

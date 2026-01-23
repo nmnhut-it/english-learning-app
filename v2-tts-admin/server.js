@@ -280,6 +280,103 @@ app.post('/api/upload-recording', upload.single('audio'), async (req, res) => {
   }
 });
 
+// === Compare View API Routes ===
+
+/**
+ * GET /api/voice-lecture/* - Get raw voice lecture markdown content
+ * Path format: gX/unit-XX/section.md (e.g., g6/unit-01/getting-started.md)
+ */
+app.get('/api/voice-lecture/*', async (req, res) => {
+  try {
+    const relativePath = req.params[0];
+    const fullPath = path.join(__dirname, '../v2/data/voice-lectures', relativePath);
+    const content = await fs.readFile(fullPath, 'utf-8');
+    res.json({ success: true, content, path: relativePath });
+  } catch (error) {
+    if (error.code === 'ENOENT') {
+      res.json({ success: true, content: null, path: req.params[0], message: 'File not found' });
+    } else {
+      res.status(500).json({ success: false, error: error.message });
+    }
+  }
+});
+
+/**
+ * GET /api/loigiaihay/* - Get loigiaihay source markdown content
+ * Path format: gradeX/unit-XX/section.md (e.g., grade6/unit-01/getting-started.md)
+ */
+app.get('/api/loigiaihay/*', async (req, res) => {
+  try {
+    const relativePath = req.params[0];
+    const fullPath = path.join(__dirname, '../loigiaihay.com', relativePath);
+    const content = await fs.readFile(fullPath, 'utf-8');
+    res.json({ success: true, content, path: relativePath });
+  } catch (error) {
+    if (error.code === 'ENOENT') {
+      res.json({ success: true, content: null, path: req.params[0], message: 'File not found' });
+    } else {
+      res.status(500).json({ success: false, error: error.message });
+    }
+  }
+});
+
+/**
+ * GET /api/compare-files - List files available for comparison
+ * Returns files that exist in voice-lectures with their loigiaihay counterparts
+ */
+app.get('/api/compare-files', async (req, res) => {
+  try {
+    const files = await markdownService.listMarkdownFiles();
+    // Map to include loigiaihay path
+    const compareFiles = files.map(file => {
+      const gradeNum = file.grade.replace('g', '');
+      const loigiaihayPath = `grade${gradeNum}/${file.unit}/${file.section}.md`;
+      return {
+        ...file,
+        voiceLecturePath: file.path,
+        loigiaihayPath
+      };
+    });
+    res.json({ success: true, files: compareFiles });
+  } catch (error) {
+    res.status(500).json({ success: false, error: error.message });
+  }
+});
+
+/**
+ * POST /api/compare-recording - Upload recording for compare view
+ * Body: multipart form with audio blob, note (optional description)
+ */
+app.post('/api/compare-recording', upload.single('audio'), async (req, res) => {
+  try {
+    const { note } = req.body;
+    const audioBuffer = req.file?.buffer;
+
+    if (!audioBuffer) {
+      return res.status(400).json({ success: false, error: 'Missing audio file' });
+    }
+
+    // Generate unique filename with timestamp
+    const timestamp = Date.now();
+    const filename = `compare_${timestamp}.webm`;
+    const audioDir = path.join(__dirname, '../v2/audio');
+    const finalPath = path.join(audioDir, filename);
+
+    await fs.writeFile(finalPath, audioBuffer);
+
+    res.json({
+      success: true,
+      filename,
+      href: `audio/${filename}`,
+      message: 'Recording saved'
+    });
+
+  } catch (error) {
+    console.error('Compare recording error:', error);
+    res.status(500).json({ success: false, error: error.message });
+  }
+});
+
 // Health check
 app.get('/health', (req, res) => {
   res.json({ status: 'ok', service: 'tts-admin' });
