@@ -12,7 +12,9 @@
       "Bash(ls:*)",
       "Bash(git fetch:*)",
       "Bash(git merge:*)",
-      "Bash(grep:*)"
+      "Bash(grep:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)"
     ],
     "deny": [],
     "ask": []
