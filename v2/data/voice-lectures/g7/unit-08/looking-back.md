@@ -3,7 +3,7 @@
 ## LOOKING BACK - Review
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_c05df4eb.webm">
 Ok lớp 7, qua bài cuối cùng của Unit 8: <eng>Looking Back</eng> nha. Mở sách trang 90 đi. Hôm nay ôn tập lại từ vựng và ngữ pháp đã học luôn.
 </teacher_script>
 
@@ -12,7 +12,7 @@ Ok lớp 7, qua bài cuối cùng của Unit 8: <eng>Looking Back</eng> nha. M�
 <!-- chunk: exercise_1 -->
 ### Bài 1 trang 90 - Match film types
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_ae051d50.webm">
 Bài 1 <eng>Match film types</eng> nha. Nối loại phim ở cột A với định nghĩa ở cột B đi. 1 phút nha.
 </teacher_script>
 
@@ -48,23 +48,23 @@ e. A film that features cartoon characters.
 **Đáp án:** 1.c | 2.d | 3.e | 4.b | 5.a
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_a5b856a5.webm">
 Câu 1 nối với c. Science fiction - phim khoa học viễn tưởng nối với "A film that is set in the future" - phim bối cảnh tương lai. Science fiction thường về tương lai, công nghệ, vũ trụ như Star Wars á.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_689a37c8.webm">
 Câu 2 nối với d. Romantic comedy - phim hài lãng mạn nối với "A film which combines comedy with a love story" - phim kết hợp hài kịch với chuyện tình yêu. Romantic là tình yêu, comedy là hài, hai thứ kết hợp lại nha.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_43a3843c.webm">
 Câu 3 nối với e. Animation - phim hoạt hình nối với "A film that features cartoon characters" - phim có nhân vật hoạt hình. Animation là phim vẽ, như Doraemon, Pokemon đó.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_25f8f983.webm">
 Câu 4 nối với b. Comedy - phim hài nối với "A film that tries to make us laugh" - phim cố gắng làm chúng ta cười. Comedy là phim hài, mục đích chính là gây cười luôn.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_03557529.webm">
 Câu 5 nối với a. Documentary - phim tài liệu nối với "This type of film gives us useful information about animals, science or technology" - loại phim cung cấp thông tin hữu ích về động vật, khoa học hay công nghệ. Documentary là phim thật, có thông tin học được nhiều á.
 </teacher_script>
 
@@ -86,7 +86,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 <!-- chunk: exercise_3 -->
 ### Bài 3 trang 90 - Choose correct answer (Adjectives)
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_e6a9c96a.webm">
 Bài 3 <eng>Choose correct answer</eng> nha. Chọn tính từ đúng A, B hoặc C để hoàn thành câu đi. Nhớ mấy tính từ miêu tả phim đã học không? 1 phút nha.
 </teacher_script>
 
@@ -125,27 +125,27 @@ A. confusing | B. shocking | C. interesting
 **Đáp án:** 1.B | 2.B | 3.C | 4.A | 5.B | 6.A
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_8a2ae020.webm">
 Câu 1 chọn B - boring. "The film was long and boring. Many people went home before it ended" - Phim dài và chán. Nhiều người về nhà trước khi kết thúc. Từ khóa "went home before it ended" - về trước khi hết phim chứng tỏ phim boring - nhàm chán lắm á.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_16c03409.webm">
 Câu 2 chọn B - violent. "The film is too violent with a lot of fighting and killing scenes" - Phim quá bạo lực với nhiều cảnh đánh nhau và giết chóc. "Fighting and killing" - đánh nhau và giết chóc là đặc điểm của phim violent luôn.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_5e9b1185.webm">
 Câu 3 chọn C - frightening. "A frightening story often makes us feel afraid" - Câu chuyện đáng sợ thường làm chúng ta sợ hãi. "Makes us feel afraid" - làm ta sợ hãi chính là nghĩa của frightening nha.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_78b3e37b.webm">
 Câu 4 chọn A - shocking. "The news was shocking. I couldn't believe it" - Tin tức gây sốc. Tôi không thể tin được. "Couldn't believe" - không thể tin là dấu hiệu của tin tức shocking - gây sốc, bất ngờ á.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_26900c0c.webm">
 Câu 5 chọn B - moving. "Moving films often make us cry" - Phim cảm động thường làm chúng ta khóc. "Make us cry" - làm ta khóc chính là đặc điểm của phim moving - cảm động luôn.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_898e08de.webm">
 Câu 6 chọn A - confusing. "The road signs were confusing and we soon got lost" - Biển báo đường khó hiểu và chúng tôi bị lạc. "Got lost" - bị lạc là hậu quả của biển báo confusing - khó hiểu, gây bối rối nha.
 </teacher_script>
 
@@ -168,11 +168,11 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 <!-- chunk: exercise_4 -->
 ### Bài 4 trang 90 - Grammar (Although/However)
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_374b7dc1.webm">
 Bài 4 <eng>Grammar</eng> nha. Ôn lại <eng>Although</eng> và <eng>However</eng> đi. Nối câu ở cột A với cột B sử dụng hai từ này. 1 phút nha.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_c3006eee.webm">
 Nhắc lại nè: <eng>Although</eng> dùng nối hai mệnh đề trong cùng một câu, đứng đầu câu. Còn <eng>However</eng> thường đứng đầu câu thứ hai, có dấu chấm trước nó. Cả hai đều diễn tả ý nghĩa tương phản - mặc dù, tuy nhiên.
 </teacher_script>
 
@@ -208,23 +208,23 @@ e. many people still buy them.
 **Đáp án:** 1.c | 2.d | 3.e | 4.b | 5.a
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_342ee4a6.webm">
 Câu 1 nối với c. "Although he arrived late, he left the cinema early" - Mặc dù anh ấy đến trễ, anh ấy rời rạp sớm. Tương phản: arrived late - đến trễ nhưng left early - về sớm. Có lẽ phim không hay nên về sớm á.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_cdda6008.webm">
 Câu 2 nối với d. "The film received good reviews. However, it is not a big success" - Phim nhận được đánh giá tốt. Tuy nhiên, nó không phải thành công lớn. Tương phản: good reviews - đánh giá tốt nhưng not a big success - không thành công lắm. Hơi lạ nhỉ.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_a0b95f17.webm">
 Câu 3 nối với e. "Though popcorn and other snacks in the cinema are very expensive, many people still buy them" - Mặc dù bỏng ngô và đồ ăn vặt trong rạp rất đắt, nhiều người vẫn mua. Tương phản: expensive - đắt nhưng still buy - vẫn mua. Đắt mà vẫn mua vì thích á.
 </teacher_script>
 
-<teacher_script pause="0">
-Câu 4 nối với b. "Cinema tickets are expensive. However, my father doesn't like the high ticket price" - Vé rạp đắt. Tuy nhiên, bố tôi không thích giá vé cao. Câu này dùng However để nối hai câu riêng biệt, có dấu chấm (.) trước However nha.
+<teacher_script pause="0" href="audio/tts_69f0d27d.webm">
+Câu 4 nối với b. "Cinema tickets are expensive. However, the number of people going to cinemas is increasing." - Vé rạp đắt. Tuy nhiên, số người đi tới rạp chiếu phim thì đang tăng. Câu này dùng However để nối hai câu riêng biệt, có dấu chấm (.) trước However nha.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_cb198e16.webm">
 Câu 5 nối với a. "Although I don't really like to go to the cinema, I don't want to stay home tonight" - Mặc dù tôi không thực sự thích đi rạp, tôi không muốn ở nhà tối nay. Tương phản: don't like cinema - không thích rạp nhưng don't want to stay home - không muốn ở nhà. Có lẽ muốn đi chơi chỗ khác á.
 </teacher_script>
 
@@ -239,17 +239,17 @@ Câu 5 nối với a. "Although I don't really like to go to the cinema, I don't
 5. Không thích rạp -> không muốn ở nhà (a).
 </explanation>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_8170bde0.webm">
 Lưu ý câu 4 nha: Trong một số sách mới, câu B có thể là "However, the number of people going to cinemas is increasing". Chọn đáp án phù hợp với sách của em nha.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_a5768ea7.webm">
 Sửa lỗi sai vô bài làm nếu có nha.
 </teacher_script>
 
 ---
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_64875da6.webm">
 Vậy là xong Unit 8 <eng>Films</eng> rồi nha. Nhớ ôn lại từ vựng về phim và cấu trúc <eng>Although, However</eng> nha. Hẹn gặp lại ở Unit 9!
 </teacher_script>

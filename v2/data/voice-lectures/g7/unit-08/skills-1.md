@@ -3,7 +3,7 @@
 ## SKILLS 1 - Reading & Speaking
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_e5b53c87.mp3">
 Ok lớp 7, qua bài <eng>Skills 1</eng> nha. Mở sách trang 88 đi. Hôm nay luyện Đọc và Nói về phim Harry Potter luôn. Ai thích Harry Potter không?
 </teacher_script>
 
@@ -25,7 +25,7 @@ Ok lớp 7, qua bài <eng>Skills 1</eng> nha. Mở sách trang 88 đi. Hôm nay 
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 88 - Match words with meanings
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_8c5b1504.webm">
 Bài 2 <eng>Match words with meanings</eng> nha. Đọc blog của Mark về phim Harry Potter rồi nối từ với nghĩa đi. 1 phút nha.
 </teacher_script>
 
@@ -59,19 +59,19 @@ d. a man who has magical powers
 **Đáp án:** 1.b | 2.d | 3.a | 4.c
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_efdc79af.webm">
 Câu 1 nối với b. Series nghĩa là loạt phim, nên nối với "related films that tell stories about the same characters" - các phim liên quan kể về cùng nhân vật. Như Harry Potter có 8 phần, đó là film series á.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_52e3207b.webm">
 Câu 2 nối với d. Wizard nghĩa là phù thủy, nên nối với "a man who has magical powers" - người đàn ông có sức mạnh phép thuật. Harry Potter là wizard, có phép thuật đó nha.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_93aafe3e.webm">
 Câu 3 nối với a. Must-see nghĩa là phải xem, nên nối với "something that is so good that you think others should see it" - cái gì đó hay đến nỗi bạn nghĩ người khác nên xem. Must-see là phim đáng xem, không xem thì phí luôn.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_0cb4b8ce.webm">
 Câu 4 nối với c. Gripping nghĩa là lôi cuốn, hấp dẫn, nên nối với "very exciting or interesting" - rất thú vị hoặc hấp dẫn. Gripping story là câu chuyện lôi cuốn, xem không rời mắt á.
 </teacher_script>
 
@@ -83,14 +83,14 @@ Câu 4 nối với c. Gripping nghĩa là lôi cuốn, hấp dẫn, nên nối v
 4. **gripping** = c (lôi cuốn -> exciting or interesting)
 </explanation>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_a5768ea7.webm">
 Sửa lỗi sai vô bài làm nếu có nha.
 </teacher_script>
 
 ---
 
 <!-- chunk: reading_text -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_5d6b3701.webm">
 Giờ mình cùng đọc bài về phim Harry Potter nha. Đây là phần đầu tiên của loạt phim 8 phần, rất nổi tiếng luôn á.
 </teacher_script>
 
@@ -119,7 +119,7 @@ Giờ mình cùng đọc bài về phim Harry Potter nha. Đây là phần đầ
 <!-- chunk: exercise_3 -->
 ### Bài 3 trang 88 - Answer questions
 
-<teacher_script pause="120">
+<teacher_script pause="120" href="audio/tts_9b573859.webm">
 Bài 3 <eng>Answer questions</eng> nha. Đọc lại blog rồi trả lời câu hỏi đi. 2 phút nha.
 </teacher_script>
 
@@ -143,23 +143,23 @@ Bài 3 <eng>Answer questions</eng> nha. Đọc lại blog rồi trả lời câu
 4. People say it's a must-see for teens. (Mọi người nói nó là phim phải xem cho giới trẻ)
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_040bf3cc.webm">
 Câu 1: What kind of film? - Đáp án: It's a fantasy. Fantasy là phim giả tưởng, có phép thuật, phù thủy đó nha.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_59cd4abd.webm">
 Câu 2: Who is Daniel Radcliffe? - Đáp án: He is one of the stars. Daniel Radcliffe đóng vai Harry Potter, là diễn viên chính luôn. Bạn ấy đóng từ nhỏ tới lớn á.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_df6015c6.webm">
 Câu 3: What is the film about? - Đáp án: Kể về Harry Potter, phù thủy quyền năng, học ở trường phép thuật và chiến đấu với những kẻ xấu.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_e48c583e.webm">
 Câu 4: What do people say? - Đáp án: People say it's a must-see for teens. Must-see là phải xem, đáng xem lắm đó. Ai chưa xem thì phí luôn!
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_7411d940.webm">
 So sánh và kiểm tra lại câu trả lời nha.
 </teacher_script>
 
@@ -168,7 +168,7 @@ So sánh và kiểm tra lại câu trả lời nha.
 <!-- chunk: speaking -->
 ### Bài 4 trang 88 - Kungfu Boy
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_e1fe977d.webm">
 Bài 4 <eng>Speaking</eng> nha. Hỏi và trả lời về phim <eng>Kungfu Boy</eng> dựa trên bảng thông tin đi.
 </teacher_script>
 
@@ -194,17 +194,17 @@ Bài 4 <eng>Speaking</eng> nha. Hỏi và trả lời về phim <eng>Kungfu Boy<
 **A:** It's about a very big boy who saves his town and becomes a hero.
 </dialogue>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_b800a1d0.webm">
 Nhìn vô mẫu nè: Kungfu Boy là phim comedy - phim hài. Đạo diễn là John Stevenson. Diễn viên chính là Bruce Wane. Phim về một cậu bé to lớn cứu thị trấn và trở thành anh hùng. Đánh giá là funny and interesting - hài hước và thú vị.
 </teacher_script>
 
-<teacher_script pause="0" action="record">
+<teacher_script pause="0" action="record" href="audio/tts_c891773a.webm">
 Giờ đóng vai giới thiệu phim <eng>Kungfu Boy</eng> dựa trên thông tin đi. Ghi âm và gửi cho thầy nha.
 </teacher_script>
 
 ---
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_2ee9a51b.webm">
 Hết bài rồi nha. Nhớ từ vựng về phim và cách giới thiệu phim nha. Bài tiếp theo là <eng>Skills 2</eng> - Nghe về phim Naughty Twins và viết đoạn văn. Hẹn gặp lại!
 </teacher_script>

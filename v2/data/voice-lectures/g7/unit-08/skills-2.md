@@ -3,7 +3,7 @@
 ## SKILLS 2 - Listening & Writing
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_bcb1e2f5.mp3">
 Ok lớp 7, qua bài <eng>Skills 2</eng> nha. Mở sách trang 89 đi. Hôm nay luyện Nghe về phim <eng>Naughty Twins</eng> rồi Viết đoạn văn giới thiệu phim yêu thích luôn.
 </teacher_script>
 
@@ -12,7 +12,7 @@ Ok lớp 7, qua bài <eng>Skills 2</eng> nha. Mở sách trang 89 đi. Hôm nay 
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 89 - Listen and identify star
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_67615317.mp3">
 Bài 2 <eng>Listen to the conversation</eng> nha. Nghe hội thoại giữa Mark và Hoa rồi trả lời: Ai đóng vai chính trong phim? 1 phút nha.
 </teacher_script>
 
@@ -29,7 +29,7 @@ Bài 2 <eng>Listen to the conversation</eng> nha. Nghe hội thoại giữa Mark
 **Đáp án:** **Linda Brown and Susan Smith** star in the film.
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_322e3eb6.mp3">
 Đáp án là Linda Brown và Susan Smith - hai diễn viên nữ đóng vai cặp sinh đôi trong phim nha.
 </teacher_script>
 
@@ -38,7 +38,7 @@ Bài 2 <eng>Listen to the conversation</eng> nha. Nghe hội thoại giữa Mark
 <!-- chunk: exercise_3 -->
 ### Bài 3 trang 89 - Listen and choose correct answer
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_8a27234d.mp3">
 Bài 3 <eng>Listen again and choose the best answer</eng> nha. Nghe lại rồi chọn đáp án đúng A, B hoặc C đi. 1 phút nha.
 </teacher_script>
 
@@ -79,19 +79,19 @@ C. is shocking
 **Đáp án:** 1.A | 2.C | 3.A | 4.A
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_435ad3a9.mp3">
 Câu 1 chọn A - comedy. "Naughty Twins is a comedy" - Cặp sinh đôi tinh nghịch là phim hài. Trong đoạn nghe, Mark nói rõ "It's a comedy", không phải science fiction hay horror film đâu nha.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_4652242b.mp3">
 Câu 2 chọn C - twin sisters. "The main characters are twin sisters" - Nhân vật chính là cặp sinh đôi nữ. Mark nói "It's about two naughty girls" - hai cô gái nghịch ngợm, và tên phim là "Twins" - song sinh. Đó là hai chị em sinh đôi, không phải anh em trai hay bạn học cũ đâu.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_bdc104c2.mp3">
 Câu 3 chọn A - At a summer camp. "Where do the twins meet each other for the first time?" - Cặp sinh đôi gặp nhau lần đầu ở đâu? Mark nói "they meet each other for the first time at a summer camp" - gặp nhau lần đầu tại trại hè. Không phải ở trường hè hay bệnh viện nha.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_0af55566.mp3">
 Câu 4 chọn A - young people should see. "People say Naughty Twins is a film that young people should see" - Mọi người nói phim này giới trẻ nên xem. Mark nói "it's a must-see for young people" - phải xem cho giới trẻ. Must-see nghĩa là nên xem, đáng xem á.
 </teacher_script>
 
@@ -112,7 +112,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 <!-- chunk: writing_prep -->
 ### Bài 4 trang 89 - Make notes about favourite film
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_cfbf330a.mp3">
 Bài 4 <eng>Make notes about one of your favourite films</eng> nha. Chuẩn bị ghi chú về phim yêu thích của em theo gợi ý bên dưới đi. 1 phút nha.
 </teacher_script>
 
@@ -131,15 +131,15 @@ Bài 4 <eng>Make notes about one of your favourite films</eng> nha. Chuẩn bị
 <!-- chunk: writing_task -->
 ### Bài 5 trang 89 - Write a paragraph
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_96a599e6.mp3">
 Bài 5 <eng>Write a paragraph</eng> nha. Dựa vào ghi chú ở Bài 4, viết đoạn văn khoảng 70 từ về phim yêu thích đi.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_e633f911.mp3">
 Cấu trúc viết nè: Đầu tiên giới thiệu tên phim và thể loại. Sau đó nói về đạo diễn và diễn viên chính. Tiếp theo tóm tắt nội dung ngắn gọn. Cuối cùng đưa ra đánh giá của mình. Theo thứ tự này viết dễ lắm á.
 </teacher_script>
 
-<teacher_script pause="180">
+<teacher_script pause="180" href="audio/tts_3bffb4b6.mp3">
 Viết đoạn văn vô vở đi. 3 phút nha. Nhớ theo cấu trúc: Tên phim + thể loại → Đạo diễn + diễn viên → Nội dung → Đánh giá.
 </teacher_script>
 
@@ -153,13 +153,13 @@ Viết đoạn văn vô vở đi. 3 phút nha. Nhớ theo cấu trúc: Tên phim
 My favourite film is *Harry Potter and the Sorcerer's Stone*. It is a fantasy film directed by Chris Columbus. It stars Daniel Radcliffe as a young wizard. The film is about Harry Potter who goes to a magic school and fights bad wizards. The music is wonderful and the acting is excellent. Critics say it is a must-see for teens because it is gripping and full of action.
 </dialogue>
 
-<teacher_script pause="0" action="record">
+<teacher_script pause="0" action="record" href="audio/tts_d5952e3b.mp3">
 Đọc to đoạn văn vừa viết, ghi âm và gửi cho thầy nha.
 </teacher_script>
 
 ---
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_5101fa56.mp3">
 Hết bài rồi nha. Nhớ cách viết đoạn văn giới thiệu phim nha. Bài tiếp theo là <eng>Looking Back</eng> - ôn tập toàn bộ Unit 8. Hẹn gặp lại!
 </teacher_script>
