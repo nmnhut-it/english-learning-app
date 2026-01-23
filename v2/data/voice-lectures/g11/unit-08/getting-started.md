@@ -12,38 +12,46 @@ Giờ mình học từ vựng trước nha. Bấm nút "Bắt đầu" bên dư�
 </teacher_script>
 
 <vocabulary>
-1. **confidence** : (n) sự tự tin /ˈkɒnfɪdəns/
-2. **independent** : (adj) độc lập, tự lập /ˌɪndɪˈpendənt/
-3. **responsibility** : (n) trách nhiệm /rɪˌspɒnsəˈbɪləti/
-4. **money-management** : (n) quản lý tiền bạc /ˈmʌni ˈmænɪdʒmənt/
-5. **time-management** : (n) quản lý thời gian /taɪm ˈmænɪdʒmənt/
-6. **trust** : (n/v) sự tin tưởng / tin tưởng /trʌst/
-7. **chores** : (n) việc vặt trong nhà /tʃɔːz/
-8. **deal with** : (v) giải quyết /diːl wɪð/
-9. **convince** : (v) thuyết phục /kənˈvɪns/
-10. **out and about** : (idiom) đi ra ngoài /aʊt ənd əˈbaʊt/
-11. **part-time job** : (n) công việc bán thời gian /pɑːt taɪm dʒɒb/
-12. **do laundry** : (v) giặt giũ /duː ˈlɔːndri/
+1. **trust** : (n) sự tin tưởng /trʌst/
+2. **earn someone's trust** : (v) giành được sự tin tưởng của ai /ɜːn ˈsʌmwʌnz trʌst/
+3. **confidence** : (n) sự tự tin /ˈkɒnfɪdəns/
+4. **self-confidence** : (n) sự tự tin vào bản thân /ˌself ˈkɒnfɪdəns/
+5. **independent** : (adj) độc lập, tự lập /ˌɪndɪˈpendənt/
+6. **responsible** : (adj) có trách nhiệm /rɪˈspɒnsəbl/
+7. **responsibilities** : (n) trách nhiệm /rɪˌspɒnsəˈbɪlɪtiz/
+8. **time-management** : (n) quản lý thời gian /taɪm ˈmænɪdʒmənt/
+9. **money-management** : (n) quản lý tiền bạc /ˈmʌni ˈmænɪdʒmənt/
+10. **deal with** : (phr.v) giải quyết, đối phó với /diːl wɪð/
+11. **convince** : (v) thuyết phục /kənˈvɪns/
+12. **manage** : (v) quản lý /ˈmænɪdʒ/
+13. **out and about** : (idiom) đi đây đi đó /aʊt ənd əˈbaʊt/
+14. **laundry** : (n) việc giặt giũ /ˈlɔːndri/
+15. **do the laundry** : (v) giặt giũ /duː ðə ˈlɔːndri/
+16. **chores** : (n) việc vặt trong nhà /tʃɔːz/
+17. **part-time job** : (n) công việc bán thời gian /pɑːt taɪm dʒɒb/
+18. **install** : (v) cài đặt /ɪnˈstɔːl/
+19. **app** : (n) ứng dụng (application) /æp/
+20. **schedule** : (n) lịch trình /ˈʃedjuːl/
 </vocabulary>
 
 <!-- chunk: dialogue -->
 <teacher_script pause="0">
-Giờ mình đọc hội thoại bài 1 nha. <eng>Listen and read</eng> - Nghe và đọc. Đây là hội thoại về việc được bố mẹ tin tưởng và sự tự lập của thanh thiếu niên.
+Giờ mình đọc hội thoại bài 1 nha. <eng>Listen and read</eng> - Nghe và đọc. Đây là hội thoại giữa Nam, Mai và Mark về việc trở nên tự lập và được bố mẹ tin tưởng.
 </teacher_script>
 
 <dialogue>
 | English | Vietnamese |
 |---------|------------|
 | **Nam:** Mai, why don't you answer your phone? It keeps ringing. | **Nam:** Mai, tại sao bạn không trả lời điện thoại? Nó cứ đổ chuông hoài. |
-| **Mai:** It's my mum who's calling me again. She wants me to contact her from time to time while I'm out. | **Mai:** Đó là mẹ của tôi đang gọi lại. Mẹ muốn tôi thỉnh thoảng liên lạc với mẹ khi tôi ra ngoài. |
-| **Nam:** My parents used to be like that. They thought I didn't have the confidence to deal with difficult situations. | **Nam:** Bố mẹ tôi cũng từng như vậy. Họ nghĩ tôi không đủ tự tin để đối phó với những tình huống khó khăn. |
-| **Mark:** I had the same experience. It was earning my parents' trust that took a long time. But I managed to convince them that I'm responsible when I'm out and about. | **Mark:** Tôi cũng có trải nghiệm tương tự. Việc giành được sự tin tưởng của bố mẹ mất khá lâu. Nhưng tôi đã thuyết phục được họ rằng tôi có trách nhiệm khi ra ngoài. |
-| **Mai:** It's my parents who still think I don't have the skills to be independent. I'm not good at managing my time or money, but I'm independent at home - I can cook, clean the house, and do my laundry! | **Mai:** Chính bố mẹ tôi vẫn nghĩ rằng tôi không có kỹ năng tự lập. Tôi không giỏi quản lý thời gian và tiền bạc, nhưng tôi độc lập ở nhà - tôi có thể nấu ăn, dọn dẹp nhà cửa và giặt giũ! |
-| **Nam:** That's a good start! I use a time-management app to plan my weekly schedule including all my activities and responsibilities. Would you like me to help you install it? | **Nam:** Đó là một khởi đầu tốt! Tôi sử dụng một ứng dụng quản lý thời gian để lập kế hoạch hàng tuần bao gồm tất cả các hoạt động và trách nhiệm. Bạn có muốn tôi giúp cài đặt nó không? |
-| **Mai:** That'd be great. Thanks, Nam. | **Mai:** Tuyệt quá. Cảm ơn, Nam. |
-| **Mark:** I use a money-management app. It's the app that taught me how to be responsible with money. | **Mark:** Tôi sử dụng một ứng dụng quản lý tiền. Đó là ứng dụng đã dạy tôi cách có trách nhiệm với tiền bạc. |
-| **Mai:** Mark, can you show it to me? | **Mai:** Mark, bạn có thể cho tôi xem được không? |
-| **Mark:** No problem. My parents also encourage me to take part-time jobs and pay me for doing certain chores around the house. | **Mark:** Không vấn đề gì. Bố mẹ tôi cũng khuyến khích tôi làm công việc bán thời gian và trả tiền cho tôi khi làm một số việc vặt trong nhà. |
+| **Mai:** It's my mum who's calling me again. She wants me to contact her from time to time while I'm out. | **Mai:** Mẹ mình lại gọi cho mình nè. Mẹ muốn mình thỉnh thoảng liên lạc với mẹ khi mình ra ngoài. |
+| **Nam:** My parents used to be like that. They thought I didn't have the confidence to deal with difficult situations. | **Nam:** Bố mẹ mình cũng từng như vậy. Họ nghĩ mình không đủ tự tin để đối phó với những tình huống khó khăn. |
+| **Mark:** I had the same experience. It was earning my parents' trust that took a long time. But I managed to convince them that I'm responsible when I'm out and about. | **Mark:** Mình cũng có trải nghiệm tương tự. Chính việc giành được sự tin tưởng của bố mẹ đã mất rất nhiều thời gian. Nhưng mình đã thuyết phục được họ rằng mình có trách nhiệm khi ra ngoài. |
+| **Mai:** It's my parents who still think I don't have the skills to be independent. I'm not good at managing my time or money, but I'm independent at home - I can cook, clean the house, and do my laundry! | **Mai:** Chính bố mẹ mình vẫn nghĩ mình không có kỹ năng tự lập. Mình không giỏi quản lý thời gian hay tiền bạc, nhưng mình tự lập ở nhà - mình biết nấu ăn, dọn dẹp nhà cửa, và giặt giũ! |
+| **Nam:** That's a good start! I use a time-management app to plan my weekly schedule including all my activities and responsibilities. Would you like me to help you install it? | **Nam:** Đó là một khởi đầu tốt! Mình dùng ứng dụng quản lý thời gian để lên kế hoạch hàng tuần bao gồm tất cả hoạt động và trách nhiệm của mình. Bạn muốn mình giúp cài đặt không? |
+| **Mai:** That'd be great. Thanks, Nam. | **Mai:** Tuyệt quá. Cảm ơn Nam. |
+| **Mark:** I use a money-management app. It's the app that taught me how to be responsible with money. | **Mark:** Mình dùng ứng dụng quản lý tiền. Chính ứng dụng đó đã dạy mình cách có trách nhiệm với tiền bạc. |
+| **Mai:** Mark, can you show it to me? | **Mai:** Mark, bạn có thể cho mình xem được không? |
+| **Mark:** No problem. My parents also encourage me to take part-time jobs and pay me for doing certain chores around the house. | **Mark:** Không vấn đề gì. Bố mẹ mình cũng khuyến khích mình làm công việc bán thời gian và trả tiền cho mình khi làm một số việc vặt trong nhà. |
 | **Mai:** Lucky you! | **Mai:** May quá! |
 </dialogue>
 
@@ -52,27 +60,27 @@ Dịch hội thoại vô vở nha. Có bảng song ngữ ở trên để các em
 </teacher_script>
 
 <!-- chunk: bai2 -->
-### Bài 2 trang 91 - Matching skills
+### Bài 2 - Read and tick
 
 <teacher_script pause="0">
-Bài 2, <eng>Read the conversation again and decide who has these skills</eng> - Đọc lại đoạn hội thoại và xác định ai có những kỹ năng này. Làm bài nha, 60 giây.
+Bài 2, <eng>Read the conversation again and decide who has these skills. Put a tick in the correct column.</eng> - Đọc lại đoạn hội thoại và xác định ai có những kỹ năng này. Đánh dấu tick vào cột đúng.
 </teacher_script>
 
 <task>
 **Đề:** Read the conversation again and decide who has these skills. Put a tick (✓) in the correct column.
-**Dịch đề:** Đọc đoạn hội thoại một lần nữa và quyết định xem ai có những kỹ năng này. Đánh dấu (✓) vào cột đúng.
+**Dịch đề:** Đọc lại đoạn hội thoại và xác định ai có những kỹ năng này. Đánh dấu tick (✓) vào cột đúng.
 </task>
 
 <questions type="matching">
 | Skills | Mai | Nam | Mark |
 |--------|-----|-----|------|
-| 1. Managing money | | | |
-| 2. Cooking, cleaning and doing laundry | | | |
-| 3. Managing time | | | |
+| 1. Managing money *(Quản lý tiền bạc)* | | | |
+| 2. Cooking, cleaning and doing laundry *(Nấu ăn, dọn dẹp và giặt giũ)* | | | |
+| 3. Managing time *(Quản lý thời gian)* | | | |
 </questions>
 
 <teacher_script pause="60">
-Xem ai có kỹ năng nào nha. 60 giây.
+Làm bài đi nha, 60 giây.
 </teacher_script>
 
 <teacher_script pause="0">
@@ -89,41 +97,44 @@ Ok đáp án nè.
 </answer>
 
 <explanation>
-**1. Mark** - Quản lý tiền bạc. Mark nói "I use a money-management app. It's the app that taught me how to be responsible with money."
+**1. Mark - Managing money** (Quản lý tiền bạc)
+Thông tin: Mark nói "I use a money-management app. It's the app that taught me how to be responsible with money." (Mình dùng ứng dụng quản lý tiền. Chính ứng dụng đó đã dạy mình cách có trách nhiệm với tiền bạc.)
 
-**2. Mai** - Nấu ăn, dọn dẹp và giặt giũ. Mai nói "I can cook, clean the house, and do my laundry!"
+**2. Mai - Cooking, cleaning and doing laundry** (Nấu ăn, dọn dẹp và giặt giũ)
+Thông tin: Mai nói "I'm independent at home - I can cook, clean the house, and do my laundry!" (Mình tự lập ở nhà - mình biết nấu ăn, dọn dẹp nhà cửa và giặt giũ!)
 
-**3. Nam** - Quản lý thời gian. Nam nói "I use a time-management app to plan my weekly schedule including all my activities and responsibilities."
+**3. Nam - Managing time** (Quản lý thời gian)
+Thông tin: Nam nói "I use a time-management app to plan my weekly schedule including all my activities and responsibilities." (Mình dùng ứng dụng quản lý thời gian để lên kế hoạch hàng tuần bao gồm tất cả hoạt động và trách nhiệm của mình.)
 </explanation>
 
 <!-- chunk: bai3 -->
-### Bài 3 trang 91 - Find definitions
+### Bài 3 - Find words and phrases
 
 <teacher_script pause="0">
-Bài 3, <eng>Find words and a phrase in the conversation that have the following meanings</eng> - Tìm các từ và cụm từ trong hội thoại có nghĩa tương ứng nha.
+Bài 3, <eng>Find words and a phrase in 1 that have the following meanings.</eng> - Tìm các từ và cụm từ trong bài 1 có các nghĩa sau đây.
 </teacher_script>
 
 <task>
 **Đề:** Find words and a phrase in 1 that have the following meanings.
-**Dịch đề:** Tìm các từ và một cụm từ trong bài 1 có các nghĩa sau.
+**Dịch đề:** Tìm các từ và cụm từ trong bài 1 có các nghĩa sau đây.
 </task>
 
-<questions type="matching">
-**1.** a belief in your own ability to do things well
-*niềm tin vào khả năng làm tốt mọi việc của bản thân*
+<questions type="fill_blanks">
+**1.** a belief in your own ability to do things well: _______
+*(niềm tin vào khả năng làm tốt mọi việc của bản thân)*
 
-**2.** confident and free to do things without help from other people
-*tự tin và tự do làm mọi việc mà không cần sự giúp đỡ của người khác*
+**2.** confident and free to do things without help from other people: _______
+*(tự tin và tự do làm mọi việc mà không cần sự giúp đỡ của người khác)*
 
-**3.** things that you must do as part of your duty or job
-*những việc bạn phải làm như một phần nhiệm vụ hoặc công việc của mình*
+**3.** things that you must do as part of your duty or job: _______
+*(những việc bạn phải làm như một phần nhiệm vụ hoặc công việc của mình)*
 
-**4.** the activity of planning how to spend and save money
-*hoạt động lập kế hoạch chi tiêu và tiết kiệm tiền*
+**4.** the activity of planning how to spend and save money: _______
+*(hoạt động lập kế hoạch chi tiêu và tiết kiệm tiền)*
 </questions>
 
 <teacher_script pause="60">
-Tìm từ trong hội thoại nha. 60 giây.
+Tìm từ và cụm từ trong hội thoại. 60 giây nha.
 </teacher_script>
 
 <teacher_script pause="0">
@@ -132,27 +143,27 @@ Ok đáp án nè.
 
 <answer>
 **Đáp án:**
-1. confidence *(sự tự tin)*
-2. independent *(độc lập)*
-3. responsibilities *(trách nhiệm)*
-4. money-management *(quản lý tiền bạc)*
+1. **self-confidence** *(sự tự tin vào bản thân)*
+2. **independent** *(độc lập, tự lập)*
+3. **responsibilities** *(trách nhiệm)*
+4. **money-management** *(quản lý tiền bạc)*
 </answer>
 
 <explanation>
-**1. confidence** - Sự tự tin, niềm tin vào khả năng của bản thân.
+**1. self-confidence** - Trong hội thoại, Nam nói "They thought I didn't have the confidence to deal with difficult situations" - confidence/self-confidence là niềm tin vào khả năng của bản thân.
 
-**2. independent** - Độc lập, tự lập, có thể làm mọi việc mà không cần người khác giúp.
+**2. independent** - Mai nói "I don't have the skills to be independent" - independent nghĩa là độc lập, tự lập, tự do làm mọi việc mà không cần sự giúp đỡ của người khác.
 
-**3. responsibilities** - Trách nhiệm, những việc phải làm như một phần nhiệm vụ.
+**3. responsibilities** - Nam nói "my weekly schedule including all my activities and responsibilities" - responsibilities là những việc bạn phải làm như một phần nhiệm vụ.
 
-**4. money-management** - Quản lý tiền bạc, lập kế hoạch chi tiêu và tiết kiệm.
+**4. money-management** - Mark nói "I use a money-management app" - money-management là hoạt động lập kế hoạch chi tiêu và tiết kiệm tiền.
 </explanation>
 
 <!-- chunk: bai4 -->
-### Bài 4 trang 91 - Cleft sentences matching
+### Bài 4 - Match the two halves
 
 <teacher_script pause="0">
-Bài 4, <eng>Match the two halves to make sentences used in 1</eng> - Nối hai nửa để tạo câu trong bài 1 nha. Đây là bài tập về câu chẻ <eng>It is/was... that/who</eng>.
+Bài 4, <eng>Match the two halves to make sentences used in 1.</eng> - Nối hai nửa để tạo câu được sử dụng trong bài 1. Đây là các câu chẻ nhấn mạnh <eng>cleft sentences</eng> nha.
 </teacher_script>
 
 <task>
@@ -161,8 +172,8 @@ Bài 4, <eng>Match the two halves to make sentences used in 1</eng> - Nối hai 
 </task>
 
 <questions type="matching">
-| Phần đầu | Phần sau |
-|----------|----------|
+| Cột A | Cột B |
+|-------|-------|
 | 1. It's my mum | a. that took a long time |
 | 2. It was earning my parents' trust | b. who still think I don't have the skills to be independent. |
 | 3. It's my parents | c. that taught me how to be responsible with money |
@@ -170,7 +181,7 @@ Bài 4, <eng>Match the two halves to make sentences used in 1</eng> - Nối hai 
 </questions>
 
 <teacher_script pause="60">
-Nối các nửa câu với nhau nha. 60 giây.
+Nối các câu lại nha. 60 giây.
 </teacher_script>
 
 <teacher_script pause="0">
@@ -182,28 +193,28 @@ Ok đáp án nè.
 </answer>
 
 <explanation>
-**1 - d:** It's my mum **who's** calling me again.
-*(Mẹ tôi lại đang gọi cho tôi.)*
-- Dùng "who" vì nhấn mạnh người (my mum)
+**1 - d: It's my mum who's calling me again.**
+*(Mẹ mình lại đang gọi cho mình.)*
+Đây là câu chẻ nhấn mạnh chủ ngữ "my mum" - dùng "who" vì chỉ người.
 
-**2 - a:** It was earning my parents' trust **that** took a long time.
-*(Việc giành được sự tin tưởng của bố mẹ mất khá lâu.)*
-- Dùng "that" vì nhấn mạnh hành động (earning...)
+**2 - a: It was earning my parents' trust that took a long time.**
+*(Chính việc giành được sự tin tưởng của bố mẹ đã mất rất nhiều thời gian.)*
+Đây là câu chẻ nhấn mạnh chủ ngữ "earning my parents' trust" - dùng "that" vì chỉ sự việc.
 
-**3 - b:** It's my parents **who** still think I don't have the skills to be independent.
-*(Chính bố mẹ tôi vẫn nghĩ rằng tôi không có kỹ năng tự lập.)*
-- Dùng "who" vì nhấn mạnh người (my parents)
+**3 - b: It's my parents who still think I don't have the skills to be independent.**
+*(Chính bố mẹ mình vẫn nghĩ mình không có kỹ năng tự lập.)*
+Đây là câu chẻ nhấn mạnh chủ ngữ "my parents" - dùng "who" vì chỉ người.
 
-**4 - c:** It's the app **that** taught me how to be responsible with money.
-*(Đó là ứng dụng đã dạy tôi cách có trách nhiệm với tiền bạc.)*
-- Dùng "that" vì nhấn mạnh vật (the app)
+**4 - c: It's the app that taught me how to be responsible with money.**
+*(Chính ứng dụng đó đã dạy mình cách có trách nhiệm với tiền bạc.)*
+Đây là câu chẻ nhấn mạnh chủ ngữ "the app" - dùng "that" vì chỉ vật.
 </explanation>
 
 <teacher_script pause="0">
-Nè, các câu này là <eng>Cleft sentences</eng> - Câu chẻ. Cấu trúc là <eng>It is/was + từ nhấn mạnh + who/that + ...</eng>. Dùng "who" cho người, "that" cho vật hoặc hành động. Bài sau mình sẽ học kỹ hơn về cấu trúc này nha.
+Các em chú ý cấu trúc câu chẻ <eng>cleft sentence</eng> nha: <eng>It is/was + thành phần nhấn mạnh + who/that + ...</eng>. Dùng <eng>who</eng> khi nhấn mạnh người, dùng <eng>that</eng> khi nhấn mạnh vật hoặc sự việc. Mình sẽ học kỹ hơn ở bài <eng>Language</eng>.
 </teacher_script>
 
 <!-- chunk: end -->
 <teacher_script pause="0">
-Ok vậy là xong bài <eng>Getting Started</eng> Unit 8 rồi nha. Hôm nay mình học về các kỹ năng tự lập như quản lý thời gian, quản lý tiền bạc, và làm việc nhà. Mình cũng biết được cấu trúc câu chẻ <eng>It is/was... who/that</eng> để nhấn mạnh. Các em nhớ học từ vựng và chuẩn bị cho bài tiếp theo nha. Tạm biệt các em!
+Ok vậy là xong bài <eng>Getting Started</eng> Unit 8 rồi nha. Hôm nay mình học về chủ đề trở nên tự lập, các kỹ năng quan trọng như quản lý thời gian, quản lý tiền bạc, và cấu trúc câu chẻ. Các em nhớ học từ vựng và chuẩn bị cho bài tiếp theo nha. Tạm biệt các em!
 </teacher_script>
