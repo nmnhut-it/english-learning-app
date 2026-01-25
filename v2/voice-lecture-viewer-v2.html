@@ -819,8 +819,16 @@ function delay(ms) {
   return new Promise(r => setTimeout(r, ms));
 }
 
-// Resolve relative paths (handles ../ segments)
+// Resolve relative paths (handles ../ segments, preserves URL protocol)
 function resolveRelativePath(basePath, relativePath) {
+  // Preserve URL protocol (https://, http://) if present
+  let protocol = '';
+  const protocolMatch = basePath.match(/^(https?:\/\/)/);
+  if (protocolMatch) {
+    protocol = protocolMatch[1];
+    basePath = basePath.substring(protocol.length);
+  }
+
   // Split paths into segments
   const baseSegments = basePath.split('/').filter(s => s);
   const relativeSegments = relativePath.split('/');
@@ -834,7 +842,7 @@ function resolveRelativePath(basePath, relativePath) {
     }
   }
 
-  return baseSegments.join('/');
+  return protocol + baseSegments.join('/');
 }
 
 // ============ PARSER ============

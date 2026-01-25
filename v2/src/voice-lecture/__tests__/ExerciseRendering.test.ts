@@ -363,8 +363,17 @@ Ngữ pháp Unit 1
 });
 
 describe('Path Resolution', () => {
-  // Resolve relative paths (handles ../ segments) - mirrors v2 viewer implementation
+  // Resolve relative paths (handles ../ segments, preserves URL protocol)
+  // Mirrors v2 viewer implementation
   function resolveRelativePath(basePath: string, relativePath: string): string {
+    // Preserve URL protocol (https://, http://) if present
+    let protocol = '';
+    const protocolMatch = basePath.match(/^(https?:\/\/)/);
+    if (protocolMatch) {
+      protocol = protocolMatch[1];
+      basePath = basePath.substring(protocol.length);
+    }
+
     const baseSegments = basePath.split('/').filter((s) => s);
     const relativeSegments = relativePath.split('/');
 
@@ -376,7 +385,7 @@ describe('Path Resolution', () => {
       }
     }
 
-    return baseSegments.join('/');
+    return protocol + baseSegments.join('/');
   }
 
   it('resolves simple relative path', () => {
@@ -408,6 +417,20 @@ describe('Path Resolution', () => {
     const relative = '/tieu-hoc/data/quiz.json';
     // After filter, this becomes ['tieu-hoc', 'data', 'quiz.json']
     expect(resolveRelativePath(base, relative)).toBe('data/voice-lectures/grammar/tieu-hoc/data/quiz.json');
+  });
+
+  it('preserves https:// protocol in URL paths', () => {
+    const base = 'https://raw.githubusercontent.com/nmnhut-it/english-learning-app/main/v2/data/voice-lectures/grammar';
+    const relative = '../../../tieu-hoc/data/unit-5-environment.json';
+    expect(resolveRelativePath(base, relative)).toBe(
+      'https://raw.githubusercontent.com/nmnhut-it/english-learning-app/main/v2/tieu-hoc/data/unit-5-environment.json'
+    );
+  });
+
+  it('preserves http:// protocol in URL paths', () => {
+    const base = 'http://localhost:3000/v2/data/voice-lectures/grammar';
+    const relative = '../vocab.json';
+    expect(resolveRelativePath(base, relative)).toBe('http://localhost:3000/v2/data/voice-lectures/vocab.json');
   });
 });
 

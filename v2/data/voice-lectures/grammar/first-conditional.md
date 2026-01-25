@@ -1,7 +1,7 @@
 # GRAMMAR: FIRST CONDITIONAL - Câu điều kiện loại 1
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_81b93a8e.webm">
 Hôm nay mình học về câu điều kiện loại 1 nha. Câu điều kiện là câu có chữ NẾU. Ví dụ tiếng Việt: NẾU trời mưa thì tôi ở nhà. Tiếng Anh cũng vậy, nhưng có quy tắc riêng. Câu điều kiện loại 1 dùng để nói về tình huống có thể xảy ra trong tương lai. Bắt đầu học thôi nha!
 </teacher_script>
 
@@ -22,7 +22,7 @@ NẾU điều kiện xảy ra → THÌ kết quả sẽ xảy ra.
 - NẾU bạn học chăm THÌ bạn sẽ đậu.
 </grammar>
 
-<teacher_script pause="90">
+<teacher_script pause="90" href="audio/tts_c2b89ad5.webm">
 Câu điều kiện loại 1 dùng để nói về những việc CÓ THỂ xảy ra trong tương lai nha. Không phải chuyện tưởng tượng, mà là chuyện có khả năng xảy ra thật.
 
 Ví dụ: NẾU trời mưa THÌ tôi sẽ ở nhà. Trời có thể mưa thật, và nếu mưa thật thì tôi sẽ ở nhà. Đây là chuyện có thể xảy ra.
@@ -50,7 +50,7 @@ If it **rains**, I **will stay** home.
 *(Nếu trời mưa, tôi sẽ ở nhà)*
 </grammar>
 
-<teacher_script pause="120">
+<teacher_script pause="120" href="audio/tts_45d8d152.webm">
 Giờ học công thức nha, quan trọng lắm. Ghi vô tập: If + hiện tại đơn, will + động từ.
 
 Câu điều kiện có 2 vế. Vế IF là điều kiện, dùng THÌ HIỆN TẠI ĐƠN. Vế WILL là kết quả, dùng WILL + động từ nguyên mẫu.
@@ -83,7 +83,7 @@ Nhớ nha: VẾ IF DÙNG HIỆN TẠI, không dùng WILL. Đây là quy tắc qu
   *(Nếu trời mưa, chúng ta sẽ không đi biển)*
 </grammar>
 
-<teacher_script pause="90">
+<teacher_script pause="90" href="audio/tts_9c16602b.webm">
 Xem ví dụ nha. If we BUY some biscuits, we'll HAVE something for the party. Nếu chúng ta mua bánh thì chúng ta sẽ có gì đó cho bữa tiệc. BUY là hiện tại đơn, WILL HAVE là kết quả.
 
 If you EAT healthy food, you WILL BE strong. Nếu bạn ăn lành mạnh thì bạn sẽ khỏe. EAT là hiện tại đơn, WILL BE là kết quả.
@@ -106,7 +106,7 @@ Phủ định thì dùng WON'T. If you're tired, you WON'T DO well. Nếu bạn 
 *Hai câu này có nghĩa giống nhau!*
 </grammar>
 
-<teacher_script pause="90">
+<teacher_script pause="90" href="audio/tts_3dd718de.webm">
 Thứ tự 2 vế có thể đổi được nha. Nếu vế IF đứng trước thì có dấu phẩy ở giữa. Nếu vế WILL đứng trước thì không có dấu phẩy.
 
 Ví dụ 1: IF we go home now, we'll have time. Vế IF trước, có dấu phẩy.
@@ -132,7 +132,7 @@ Will + subject + verb + if + present simple?
 - No, I **won't**.
 </grammar>
 
-<teacher_script pause="90">
+<teacher_script pause="90" href="audio/tts_aa88f394.webm">
 Câu hỏi thì đảo WILL lên trước nha. WILL you go to sleep IF you get tired? Bạn sẽ đi ngủ nếu bạn mệt không?
 
 Trả lời ngắn khẳng định thì nói "Yes, I will." Không được viết tắt thành "Yes, I'll." Sai nha!
@@ -159,7 +159,7 @@ Nhớ nha: trả lời YES thì không viết tắt: Yes, I will. Yes, she will.
 **Vế IF luôn dùng hiện tại đơn!**
 </grammar>
 
-<teacher_script pause="120">
+<teacher_script pause="120" href="audio/tts_2e72e6a5.webm">
 Đây là quy tắc quan trọng nhất nha, phải nhớ kỹ! VẾ IF KHÔNG ĐƯỢC DÙNG WILL!
 
 Nhiều bạn hay sai chỗ này. Thấy câu nói về tương lai thì muốn dùng will, nhưng vế if thì KHÔNG ĐƯỢC.
@@ -194,7 +194,7 @@ Nhớ nha: Vế IF luôn luôn dùng HIỆN TẠI ĐƠN, dù đang nói về tư
 - You **will** pass the exam if you **study** hard.
 </grammar>
 
-<teacher_script pause="90">
+<teacher_script pause="90" href="audio/tts_7c6672da.webm">
 Xem thêm ví dụ nha. If it RAINS, I will stay home. RAINS là hiện tại đơn, thêm S.
 
 If you STUDY hard, you will pass the exam. STUDY là hiện tại đơn, không thêm gì vì YOU là ngôi thứ 2.
@@ -223,7 +223,7 @@ Có thể đảo thứ tự: I will stay home IF it rains. Vẫn đúng, chỉ k
 **Mẹo nhớ:** Vế IF = Hiện tại. Vế kết quả = WILL.
 </grammar>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_0d06dd2e.webm">
 Ok xong bài câu điều kiện loại 1 rồi nha! Nhớ công thức: If + hiện tại đơn, will + động từ. Quan trọng nhất là: VẾ IF KHÔNG DÙNG WILL! Vế if dùng hiện tại đơn, dù đang nói về tương lai. If it rains, không phải if it will rain. Nhớ kỹ rồi làm bài tập hen!
 </teacher_script>
 
