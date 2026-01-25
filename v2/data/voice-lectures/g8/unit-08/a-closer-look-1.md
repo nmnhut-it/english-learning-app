@@ -3,7 +3,7 @@
 ## A CLOSER LOOK 1 - Vocabulary & Pronunciation
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_31f18e1c.webm">
 Ok lớp 8, qua bài <eng>A Closer Look 1</eng> nha. Mở sách trang 84 đi. Hôm nay học thêm từ vựng về mua sắm và phát âm /sp/, /st/.
 </teacher_script>
 
@@ -38,7 +38,7 @@ Ok lớp 8, qua bài <eng>A Closer Look 1</eng> nha. Mở sách trang 84 đi. H�
 18. **special** : (adj) đặc biệt /ˈspeʃl/
 </vocabulary>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_06de225c.webm">
 Học từ vựng mới đi. Nghe và đọc theo nha. <eng>Shopaholic</eng> là người nghiện mua sắm - đi shopping hoài đó!
 </teacher_script>
 
@@ -47,7 +47,7 @@ Học từ vựng mới đi. Nghe và đọc theo nha. <eng>Shopaholic</eng> là
 <!-- chunk: exercise_1 -->
 ### Bài 1 trang 84 - Word and Pictures
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_d7b931d2.webm">
 Bài 1 <eng>Match</eng> nha. Nhìn hình rồi chọn từ đúng đi. 1 phút nha.
 </teacher_script>
 
@@ -69,11 +69,11 @@ Bài 1 <eng>Match</eng> nha. Nhìn hình rồi chọn từ đúng đi. 1 phút n
 5. Internet access
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_2c51ca17.webm">
 <eng>Price tag</eng> là nhãn giá gắn trên sản phẩm. <eng>Shopaholic</eng> là người nghiện mua sắm. <eng>On sale</eng> là đang giảm giá. <eng>Browsing</eng> là lướt xem hàng. <eng>Internet access</eng> là kết nối Internet.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_a5768ea7.webm">
 Sửa lỗi sai vô bài làm nếu có nha.
 </teacher_script>
 
@@ -82,7 +82,7 @@ Sửa lỗi sai vô bài làm nếu có nha.
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 84 - Match shopping places
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_51d64c3c.webm">
 Bài 2 <eng>Match</eng> nha. Nối loại cửa hàng với đặc điểm của nó đi. 1 phút nha.
 </teacher_script>
 
@@ -115,7 +115,7 @@ e. Offers one or two specific kinds of goods.
 5-c: open-air market (chợ trời) - outdoor, bargain.
 </explanation>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_a5768ea7.webm">
 Sửa lỗi sai vô bài làm nếu có nha.
 </teacher_script>
 
@@ -124,7 +124,7 @@ Sửa lỗi sai vô bài làm nếu có nha.
 <!-- chunk: exercise_3 -->
 ### Bài 3 trang 84 - Complete sentences
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_5687ecc2.webm">
 Bài 3 <eng>Complete</eng> nha. Điền từ vô chỗ trống đi. 1 phút nha.
 </teacher_script>
 
@@ -142,7 +142,7 @@ Bài 3 <eng>Complete</eng> nha. Điền từ vô chỗ trống đi. 1 phút nha.
 **Đáp án:** 1. speciality shops | 2. browsing | 3. bargain | 4. range of products | 5. shopaholic
 </answer>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_a5768ea7.webm">
 Sửa lỗi sai vô bài làm nếu có nha.
 </teacher_script>
 
@@ -151,11 +151,11 @@ Sửa lỗi sai vô bài làm nếu có nha.
 <!-- chunk: pronunciation -->
 ### Bài 4 trang 84 - Pronunciation /sp/ & /st/
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_22e6d7ef.webm">
 Bài 4 <eng>Pronunciation</eng> nha. Hôm nay học phát âm /sp/ và /st/. Hai âm này rất phổ biến trong tiếng Anh á.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_30d93211.webm">
 Âm /sp/: Đọc nhanh liền mạch, như trong <eng>spend, space, respect</eng>. Âm /st/: Cũng đọc liền mạch, như trong <eng>stall, staff, waste</eng>. Chú ý đừng thêm âm gì vào giữa nha!
 </teacher_script>
 
@@ -173,7 +173,7 @@ Bài 4 <eng>Pronunciation</eng> nha. Hôm nay học phát âm /sp/ và /st/. Hai
 <!-- chunk: exercise_5 -->
 ### Bài 5 trang 84 - Listen and repeat sentences
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_3eabdb7d.webm">
 Bài 5 nghe và đọc theo câu nha. Chú ý các từ có /sp/ và /st/ trong câu đi.
 </teacher_script>
 
@@ -189,7 +189,7 @@ Bài 5 nghe và đọc theo câu nha. Chú ý các từ có /sp/ và /st/ trong 
 5. Tom **sp**ent half of his savings in that music **st**ore.
 </reading>
 
-<teacher_script pause="0" action="record">
+<teacher_script pause="0" action="record" href="audio/tts_186b1ed8.webm">
 Ghi âm phần luyện tập và gửi cho thầy nha.
 </teacher_script>
 
@@ -198,7 +198,7 @@ Ghi âm phần luyện tập và gửi cho thầy nha.
 <!-- chunk: additional_practice -->
 ### Bài tập thực hành bổ sung
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_cc297d45.webm">
 Các em làm thêm bài tập thực hành để củng cố từ vựng nha. Bài tập này rất quan trọng đó!
 </teacher_script>
 
@@ -207,7 +207,7 @@ Các em làm thêm bài tập thực hành để củng cố từ vựng nha. B�
 <!-- chunk: practice_1 -->
 ### Bài tập 1 - Shopping vocabulary practice
 
-<teacher_script pause="120">
+<teacher_script pause="120" href="audio/tts_7a007c1d.webm">
 Chúng ta cùng làm Bài tập 1. Các em hãy hoàn thành các câu về mua sắm. Các em có 2 phút.
 </teacher_script>
 
@@ -246,27 +246,27 @@ Chúng ta cùng làm Bài tập 1. Các em hãy hoàn thành các câu về mua 
 5. bargain
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_71391cec.webm">
 Câu 1: <eng>shopaholic</eng> - người nghiện mua sắm. Mua sắm mỗi ngày là dấu hiệu của shopaholic nha.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_e0c84a41.webm">
 Câu 2: <eng>on sale</eng> - đang giảm giá. Khi thấy 50% off là đang sale đó.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_c78312a2.webm">
 Câu 3: <eng>browsing</eng> - xem lướt qua. Lướt xem hàng trực tuyến gọi là browsing.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_927cc693.webm">
 Câu 4: <eng>speciality shop</eng> - cửa hàng chuyên doanh. Tiệm bánh mì chuyên bán bánh mì thôi.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_4fbd70a4.webm">
 Câu 5: <eng>bargain</eng> - mặc cả. Mặc cả giỏi thì mua được giá rẻ.
 </teacher_script>
 
-<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
+<teacher_script pause="30" href="audio/tts_75ebc937.webm">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -275,7 +275,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 <!-- chunk: practice_2 -->
 ### Bài tập 2 - Types of shops
 
-<teacher_script pause="120">
+<teacher_script pause="120" href="audio/tts_c80317db.webm">
 Chúng ta cùng làm Bài tập 2. Các em hãy chọn loại cửa hàng phù hợp. Các em có 2 phút.
 </teacher_script>
 
@@ -314,23 +314,23 @@ A. discount shop | B. speciality shop | C. supermarket
 **Đáp án:** 1.B | 2.A | 3.B | 4.C | 5.B
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_d87b1313.webm">
 Câu 1: <eng>supermarket</eng> - siêu thị. Siêu thị có đầy đủ hàng hóa từ rau đến thịt.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_176549b7.webm">
 Câu 2: <eng>discount shop</eng> - cửa hàng giảm giá. Discount shop bán giá rẻ nhất.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_d7b9c6aa.webm">
 Câu 3: <eng>online shop</eng> - cửa hàng trực tuyến. Cần Internet để vào online shop.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_76027368.webm">
 Câu 4: <eng>open-air market</eng> - chợ trời. Ở chợ trời thì có thể mặc cả được.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_dc4e9f53.webm">
 Câu 5: <eng>speciality shop</eng> - cửa hàng chuyên doanh. Trang sức thủ công bán ở cửa hàng chuyên về trang sức.
 </teacher_script>
 
@@ -343,7 +343,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 <!-- chunk: practice_3 -->
 ### Bài tập 3 - Shopping situations
 
-<teacher_script pause="120">
+<teacher_script pause="120" href="audio/tts_0063af28.webm">
 Bài tập cuối cùng. Các em hãy viết câu về các tình huống mua sắm. Các em có 2 phút.
 </teacher_script>
 
@@ -386,31 +386,31 @@ Bài tập cuối cùng. Các em hãy viết câu về các tình huống mua s�
 6. She is a shopaholic and spends too much money.
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_78746107.webm">
 Câu 1: <eng>I love browsing online shops.</eng> - Tôi thích lướt xem các cửa hàng trực tuyến.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_0f8d6679.webm">
 Câu 2: <eng>The store has a wide range of products.</eng> - Cửa hàng có nhiều loại sản phẩm. <eng>Range of products</eng> là dãy sản phẩm.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_c2156e45.webm">
 Câu 3: <eng>My mother never bargains at supermarkets.</eng> - Mẹ tôi không bao giờ mặc cả ở siêu thị vì siêu thị giá cố định.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_71f6a36f.webm">
 Câu 4: <eng>This dress is on sale, 30% off.</eng> - Váy này đang giảm giá 30%. <eng>On sale</eng> và <eng>off</eng> thường đi cùng nhau.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_8d6a7205.webm">
 Câu 5: <eng>We need Internet access to shop online.</eng> - Chúng ta cần Internet để mua sắm trực tuyến.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_1cdce1ed.webm">
 Câu 6: <eng>She is a shopaholic and spends too much money.</eng> - Cô ấy nghiện mua sắm và tiêu quá nhiều tiền.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_2e9a0d09.webm">
 Mẹo nhớ: <eng>on sale</eng> = giảm giá, <eng>bargain</eng> = mặc cả, <eng>browse</eng> = lướt xem, <eng>shopaholic</eng> = nghiện mua sắm.
 </teacher_script>
 
@@ -421,6 +421,6 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 ---
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_199dfdfb.webm">
 Hết bài rồi nha. Nhớ từ vựng mua sắm và phát âm /sp/, /st/ nha. Bài tiếp theo là <eng>A Closer Look 2</eng> - Ngữ pháp. Hẹn gặp lại!
 </teacher_script>

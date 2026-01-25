@@ -281,7 +281,7 @@ Sửa lỗi sai vô bài làm nếu có nha.
 <!-- chunk: additional_practice -->
 ### Bài tập bổ sung
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_df68d71f.webm">
 Giờ mình làm thêm mấy bài tập bổ sung để ôn kỹ hơn nha. Bài tập này giúp các em nhớ lâu từ vựng và ngữ pháp Unit 8 luôn.
 </teacher_script>
 
@@ -290,7 +290,7 @@ Giờ mình làm thêm mấy bài tập bổ sung để ôn kỹ hơn nha. Bài 
 <!-- chunk: practice_1 -->
 ### Bài tập 1 - Film types crossword
 
-<teacher_script pause="90">
+<teacher_script pause="90" href="audio/tts_8e72fb3b.webm">
 Bài tập 1, đọc gợi ý và điền loại phim phù hợp. Mỗi gợi ý miêu tả một thể loại phim đã học. 1 phút 30 giây nha.
 </teacher_script>
 
@@ -322,7 +322,7 @@ Bài tập 1, đọc gợi ý và điền loại phim phù hợp. Mỗi gợi ý
 ---
 
 <!-- chunk: answer_practice_1 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -336,7 +336,7 @@ Ok đáp án nè.
 6. action film
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_02ee7bd1.webm">
 Câu 1: science fiction - phim khoa học viễn tưởng. Star Wars, Avatar đều lấy bối cảnh tương lai hoặc ngoài vũ trụ nha.
 
 Câu 2: animation - phim hoạt hình. Toy Story, Frozen là phim hoạt hình, nhân vật được vẽ hoặc làm bằng máy tính.
@@ -350,7 +350,7 @@ Câu 5: horror films - phim kinh dị. The Conjuring, IT là phim ma, phim kinh 
 Câu 6: action film - phim hành động. Fast and Furious có nhiều cảnh đua xe, đánh nhau, điển hình của phim hành động.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_a5768ea7.mp3">
 Sửa lỗi sai vô bài làm nếu có nha.
 </teacher_script>
 
@@ -359,7 +359,7 @@ Sửa lỗi sai vô bài làm nếu có nha.
 <!-- chunk: practice_2 -->
 ### Bài tập 2 - Describe films with adjectives
 
-<teacher_script pause="90">
+<teacher_script pause="90" href="audio/tts_8685b0b9.webm">
 Bài tập 2, chọn tính từ phù hợp để miêu tả tình huống. Mỗi câu có một tình huống, em chọn tính từ đúng nhất. 1 phút 30 giây nha.
 </teacher_script>
 
@@ -409,7 +409,7 @@ Bài tập 2, chọn tính từ phù hợp để miêu tả tình huống. Mỗi
 ---
 
 <!-- chunk: answer_practice_2 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -417,7 +417,7 @@ Ok đáp án nè.
 **Đáp án:** 1.B | 2.C | 3.A | 4.B | 5.B | 6.C
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_d780ed7a.webm">
 Câu 1 chọn B - confusing. Quá nhiều nhân vật, không theo dõi được thì chắc chắn là phim confusing - khó hiểu rồi.
 
 Câu 2 chọn C - moving. Khóc khi xem phim chính là dấu hiệu của phim moving - cảm động. Con chó chết thì ai mà không khóc.
@@ -431,7 +431,7 @@ Câu 5 chọn B - shocking. Twist bất ngờ làm mọi người ngạc nhiên 
 Câu 6 chọn C - dull. Không có gì xảy ra, người ta ngủ gật thì phim dull - buồn tẻ, chán ngắt rồi.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_a5768ea7.mp3">
 Sửa lỗi sai vô bài làm nếu có nha.
 </teacher_script>
 
@@ -440,7 +440,7 @@ Sửa lỗi sai vô bài làm nếu có nha.
 <!-- chunk: practice_3 -->
 ### Bài tập 3 - Although vs However (Mixed)
 
-<teacher_script pause="120">
+<teacher_script pause="120" href="audio/tts_8294daf3.webm">
 Bài tập 3, viết lại câu sử dụng từ trong ngoặc. Chú ý: Although nối liền câu, However đứng sau dấu chấm. 2 phút nha.
 </teacher_script>
 
@@ -478,7 +478,7 @@ Bài tập 3, viết lại câu sử dụng từ trong ngoặc. Chú ý: Althoug
 ---
 
 <!-- chunk: answer_practice_3 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -492,7 +492,7 @@ Ok đáp án nè.
 6. The cinema was full. However, we managed to get good seats.
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_634538fe.webm">
 Câu 1 dùng Although: Although the film was long, it was interesting. Mặc dù phim dài, nó vẫn thú vị. Although nối hai mệnh đề thành một câu nha.
 
 Câu 2 dùng However: The actor is young. However, he won an Oscar. Diễn viên trẻ. Tuy nhiên, anh ấy đoạt giải Oscar. However đứng sau dấu chấm, có dấu phẩy theo sau.
@@ -514,7 +514,7 @@ Câu 6 dùng However: The cinema was full. However, we managed to get good seats
 **Mẹo:** Thấy "(Although)" → viết liền một câu. Thấy "(However)" → giữ hai câu, thêm However sau dấu chấm.
 </explanation>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_a5768ea7.mp3">
 Sửa lỗi sai vô bài làm nếu có nha.
 </teacher_script>
 
@@ -523,7 +523,7 @@ Sửa lỗi sai vô bài làm nếu có nha.
 <!-- chunk: practice_4 -->
 ### Bài tập 4 - Film review writing
 
-<teacher_script pause="180">
+<teacher_script pause="180" href="audio/tts_32fee52a.webm">
 Bài tập cuối nè. Viết 5-6 câu giới thiệu một bộ phim em thích. Dùng ít nhất 3 tính từ miêu tả phim và 1 câu có Although hoặc However. 3 phút nha.
 </teacher_script>
 
@@ -543,7 +543,7 @@ Bài tập cuối nè. Viết 5-6 câu giới thiệu một bộ phim em thích.
 My favourite film is "Spider-Man: No Way Home". It is a science fiction film. Tom Holland stars as Spider-Man. The film is about Spider-Man fighting villains from different universes. I think it is very exciting and gripping. The special effects are amazing. Although the film is quite long, it never feels boring. I recommend this film to everyone!
 </dialogue>
 
-<teacher_script pause="0" action="record">
+<teacher_script pause="0" action="record" href="audio/tts_c3040c94.webm">
 Viết xong rồi thì đọc to bài viết của mình, ghi âm và gửi cho thầy nha.
 </teacher_script>
 

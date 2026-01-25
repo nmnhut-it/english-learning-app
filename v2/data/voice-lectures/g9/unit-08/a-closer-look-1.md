@@ -58,7 +58,7 @@ Bài 1 <eng>Match</eng> nha. Nối từ với định nghĩa đi. 1 phút nha.
 <eng>Package holiday</eng> nối với e - kỳ nghỉ do công ty du lịch tổ chức. <eng>Self-guided tour</eng> nối với c - tour tự túc. <eng>Trip itinerary</eng> nối với a - lịch trình. <eng>Homestay</eng> nối với b - ở nhà dân. <eng>Google Maps</eng> nối với d - chỉ đường.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_a5768ea7.mp3">
 Sửa lỗi sai vô bài làm nếu có nha.
 </teacher_script>
 
@@ -106,7 +106,7 @@ Bài 2 <eng>Replace</eng> nha. Thay từ "it" bằng cụm từ phù hợp đi. 
 Câu 1: <eng>entrance ticket</eng> - vé vào cổng. Câu 2: <eng>ruinous site</eng> - Colosseum là di tích đổ nát. Câu 3: <eng>Travel agency</eng> - công ty du lịch lo hết. Câu 4: <eng>fixed itinerary</eng> - lịch trình cố định không đổi được. Câu 5: <eng>smooth trip</eng> - chuyến đi suôn sẻ.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_a5768ea7.mp3">
 Sửa lỗi sai vô bài làm nếu có nha.
 </teacher_script>
 
@@ -154,7 +154,7 @@ Bài 3 <eng>Fill in</eng> nha. Điền từ vô chỗ trống đi. 1 phút nha.
 Câu 1: <eng>self-guided</eng> - tour tự túc phù hợp ngân sách. Câu 2: <eng>itinerary</eng> - lịch trình chuyến đi. Câu 3: <eng>entrance</eng> - vé vào cổng. Câu 4: <eng>package</eng> - kỳ nghỉ trọn gói phải theo lịch trình cố định. Câu 5: <eng>apps</eng> - tải app để có thông tin.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_a5768ea7.mp3">
 Sửa lỗi sai vô bài làm nếu có nha.
 </teacher_script>
 
@@ -240,7 +240,7 @@ Bài 5 <eng>Mark stress</eng> nha. Nghe và đánh dấu trọng âm cho các t�
 Câu 1: CU-ri-ous và PUB-lic - nhấn âm đầu. Câu 2: am-BI-tious và Pa-CI-fic - nhấn âm thứ hai. Câu 3: CLAS-sic và PRE-vi-ous - nhấn âm đầu. Câu 4: lu-XU-ri-ous và ter-RI-fic - nhấn âm thứ hai. Câu 5: ro-MAN-tic và VA-ri-ous - romantic nhấn âm thứ hai, various nhấn âm đầu.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_a5768ea7.mp3">
 Sửa lỗi sai vô bài làm nếu có nha.
 </teacher_script>
 
@@ -319,7 +319,7 @@ Câu 5: <eng>homestay</eng> - ở nhà dân. Trải nghiệm văn hóa địa ph
 Câu 6: <eng>package holiday</eng> - kỳ nghỉ trọn gói. Mọi thứ đã được sắp xếp sẵn, tiện lợi lắm.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_a5768ea7.mp3">
 Sửa lỗi sai vô bài làm nếu có nha.
 </teacher_script>
 
@@ -381,7 +381,7 @@ Với -ious cũng vậy: mys-TE-ri-ous, lu-XU-ri-ous, indus-TRI-ous. Tất cả 
 Lưu ý câu 4: <eng>spacious</eng> chỉ có 2 âm tiết nên nhấn âm đầu tiên <eng>SPA-cious</eng>.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_a5768ea7.mp3">
 Sửa lỗi sai vô bài làm nếu có nha.
 </teacher_script>
 
@@ -464,7 +464,7 @@ Câu 7: <eng>authentic</eng> - chính gốc, nhấn âm thứ 2 <eng>au-THEN-tic
 Câu 8: <eng>package holiday</eng> - kỳ nghỉ trọn gói. Tiết kiệm thời gian và công sức.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_a5768ea7.mp3">
 Sửa lỗi sai vô bài làm nếu có nha.
 </teacher_script>
 

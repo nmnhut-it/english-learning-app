@@ -3,7 +3,7 @@
 ## GETTING STARTED - My favourite shopping place
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_8dc34b1c.mp3">
 Ok lớp 8, Unit 8 nha. Mở sách trang 82 đi. Chủ đề hôm nay là <eng>Shopping</eng> - Mua sắm. Nghe quen quen hen!
 </teacher_script>
 
@@ -40,7 +40,7 @@ Ok lớp 8, Unit 8 nha. Mở sách trang 82 đi. Chủ đề hôm nay là <eng>S
 20. **prefer** : (v) thích hơn /prɪˈfɜː/
 </vocabulary>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_83ac0afa.mp3">
 Học từ vựng mới đi. Nghe và đọc theo nha. Mấy từ này về mua sắm rất hay dùng đó.
 </teacher_script>
 
@@ -49,7 +49,7 @@ Học từ vựng mới đi. Nghe và đọc theo nha. Mấy từ này về mua 
 <!-- chunk: dialogue -->
 ### Bài 1 trang 82 - Listen and read
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_a937fd09.mp3">
 Bài 1 <eng>Listen and read</eng> nha. Nghe Mai và Alice nói về mua sắm đi. Xem họ thích mua sắm ở đâu nha.
 </teacher_script>
 
@@ -73,7 +73,7 @@ Bài 1 <eng>Listen and read</eng> nha. Nghe Mai và Alice nói về mua sắm đ
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 83 - Complete the list
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_ec5b6af4.mp3">
 Bài 2 <eng>Complete the list</eng> nha. Nghe lại rồi liệt kê các địa điểm mua sắm trong hội thoại đi. 1 phút nha.
 </teacher_script>
 
@@ -99,11 +99,11 @@ Bài 2 <eng>Complete the list</eng> nha. Nghe lại rồi liệt kê các địa
 - **Mai** nhắc đến *supermarket* và *convenience store*.
 </explanation>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_5d6cb136.mp3">
 Đáp án nè: open-air market (chợ trời), farmers' market (chợ nông sản), supermarket (siêu thị), và convenience store (cửa hàng tiện lợi). Bốn loại địa điểm mua sắm phổ biến luôn.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_a5768ea7.mp3">
 Sửa lỗi sai vô bài làm nếu có nha.
 </teacher_script>
 
@@ -112,7 +112,7 @@ Sửa lỗi sai vô bài làm nếu có nha.
 <!-- chunk: exercise_3 -->
 ### Bài 3 trang 83 - Match types of markets
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_69555a43.mp3">
 Bài 3 <eng>Match</eng> nha. Nối loại chợ với đặc điểm của nó đi. 1 phút nha.
 </teacher_script>
 
@@ -141,11 +141,11 @@ e. The weather does not affect shopping.
 - Siêu thị (Supermarket): trên kệ (b), giá cố định (d), không lo thời tiết (e).
 </explanation>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_4b23b45c.mp3">
 Chợ trời thì ở ngoài trời và mặc cả được. Siêu thị thì hàng hóa trên kệ, giá cố định và có máy lạnh nên không lo thời tiết. Khác nhau rõ ràng luôn nha.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_a5768ea7.mp3">
 Sửa lỗi sai vô bài làm nếu có nha.
 </teacher_script>
 
@@ -154,7 +154,7 @@ Sửa lỗi sai vô bài làm nếu có nha.
 <!-- chunk: exercise_4 -->
 ### Bài 4 trang 83 - Complete sentences
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_0728dbe7.mp3">
 Bài 4 <eng>Complete sentences</eng> nha. Điền từ vô chỗ trống đi. Dùng các từ trong khung. 1 phút nha.
 </teacher_script>
 
@@ -172,17 +172,17 @@ Bài 4 <eng>Complete sentences</eng> nha. Điền từ vô chỗ trống đi. D�
 **Đáp án:** 1. bargain | 2. convenience store | 3. home-grown | 4. price tag | 5. home-made
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_6a3dc422.mp3">
 Câu 1: <eng>bargain</eng> - mặc cả. Hỏi giá để được giảm giá đó nha. Câu 2: <eng>convenience store</eng> - cửa hàng tiện lợi, mở 24/7 luôn. Câu 3: <eng>home-grown</eng> - nhà trồng. Rau nhà trồng tươi và ngon. Câu 4: <eng>price tag</eng> - nhãn giá. Không thấy nhãn thì hỏi nhân viên. Câu 5: <eng>home-made</eng> - nhà làm. Bánh mẹ làm thì ngon hơn mua đó!
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_a5768ea7.mp3">
 Sửa lỗi sai vô bài làm nếu có nha.
 </teacher_script>
 
 ---
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_0e4df059.mp3">
 Hết bài rồi nha. Nhớ từ vựng về mua sắm nha: <eng>bargain</eng> (mặc cả), <eng>fixed price</eng> (giá cố định), <eng>home-grown</eng> (nhà trồng), <eng>home-made</eng> (nhà làm). Bài tiếp theo là <eng>A Closer Look 1</eng>. Hẹn gặp lại!
 </teacher_script>

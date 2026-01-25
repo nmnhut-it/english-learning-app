@@ -111,7 +111,7 @@ Bài 2 <eng>Match</eng> nha. Nối từ với định nghĩa đi. 2 phút nha.
 <eng>Cost</eng> nối với b - tiền chi tiêu. <eng>Fixed</eng> nối với c - không thay đổi. <eng>Hunt for</eng> nối với d - tìm kiếm. <eng>Smooth</eng> nối với a - không có vấn đề.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_a5768ea7.mp3">
 Sửa lỗi sai vô bài làm nếu có nha.
 </teacher_script>
 
@@ -168,7 +168,7 @@ Bài 3 <eng>Answer</eng> nha. Trả lời câu hỏi về bài đọc đi. 2 ph�
 Câu 1: Tour trọn gói tiết kiệm thời gian và giảm căng thẳng. Câu 2: Nhược điểm là phải theo lịch trình cố định. Câu 3: Tour tự túc phải tự tìm điểm đến, lên lịch trình, ước tính chi phí, săn vé. Câu 4: Ưu điểm là rẻ hơn và linh hoạt hơn. Câu 5: Cần giỏi sử dụng app.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_a5768ea7.mp3">
 Sửa lỗi sai vô bài làm nếu có nha.
 </teacher_script>
 

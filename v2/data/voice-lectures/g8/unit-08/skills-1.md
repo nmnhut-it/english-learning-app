@@ -3,7 +3,7 @@
 ## SKILLS 1 - Reading & Speaking
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_609a5275.webm">
 Ok lớp 8, qua bài <eng>Skills 1</eng> nha. Mở sách trang 88 đi. Hôm nay luyện Đọc về trung tâm mua sắm và Nói giới thiệu trung tâm mua sắm.
 </teacher_script>
 
@@ -43,11 +43,11 @@ Ok lớp 8, qua bài <eng>Skills 1</eng> nha. Mở sách trang 88 đi. Hôm nay 
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 88 - Reading Comprehension
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_eca0d011.webm">
 Đọc bài về lý do người ta đi trung tâm mua sắm nha. Không chỉ để mua sắm đâu mà còn nhiều lý do khác á!
 </teacher_script>
 
-<teacher_script pause="120">
+<teacher_script pause="120" href="audio/tts_2792a5a0.webm">
 Bài 2 <eng>Read and choose</eng> nha. Đọc bài rồi chọn đáp án đúng đi. 2 phút nha.
 </teacher_script>
 
@@ -97,11 +97,11 @@ A. always | B. sometimes | C. rarely
 5. **year-round** = always (quanh năm).
 </explanation>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_5922107c.webm">
 Câu 1: C - nhiều lý do. Câu 2: A - sờ sản phẩm. Câu 3: B - nhạc sống. Câu 4: B - khu vực sáng. Câu 5: A - year-round nghĩa là quanh năm, always.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_a5768ea7.mp3">
 Sửa lỗi sai vô bài làm nếu có nha.
 </teacher_script>
 
@@ -110,7 +110,7 @@ Sửa lỗi sai vô bài làm nếu có nha.
 <!-- chunk: exercise_3 -->
 ### Bài 3 trang 88 - Fill in blanks
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_fc7cb558.webm">
 Bài 3 <eng>Fill in</eng> nha. Điền từ vô chỗ trống đi. 1 phút nha.
 </teacher_script>
 
@@ -127,6 +127,19 @@ Bài 3 <eng>Fill in</eng> nha. Điền từ vô chỗ trống đi. 1 phút nha.
 **Đáp án:** 1. sales | 2. try | 3. entertainment | 4. decorations | 5. free
 </answer>
 
+<explanation>
+**Giải thích:**
+1. **sales** - "attract customers during sales" = thu hút khách trong đợt giảm giá.
+2. **try** - "try on clothes" = thử quần áo (cụm cố định).
+3. **entertainment** - "free entertainment for all ages" = giải trí miễn phí cho mọi lứa tuổi.
+4. **decorations** - "full of decorations during holidays" = đầy trang trí trong ngày lễ.
+5. **free** - "free air conditioning" = điều hòa miễn phí (bài viết nói year-round FREE air conditioning).
+</explanation>
+
+<teacher_script pause="0">
+Câu 1: sales - đợt giảm giá. Câu 2: try - try on là thử quần áo. Câu 3: entertainment - giải trí. Câu 4: decorations - trang trí. Câu 5: free - miễn phí nha.
+</teacher_script>
+
 <teacher_script pause="30">
 Sửa lỗi sai vô bài làm nếu có nha.
 </teacher_script>
@@ -136,7 +149,7 @@ Sửa lỗi sai vô bài làm nếu có nha.
 <!-- chunk: speaking -->
 ### Bài 4 trang 88 - Ask and answer
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_b84d78fb.webm">
 Bài 4 <eng>Speaking</eng> nha. Hỏi đáp về trung tâm mua sắm Northwood đi. Xem thông tin bên dưới.
 </teacher_script>
 
@@ -156,13 +169,13 @@ Bài 4 <eng>Speaking</eng> nha. Hỏi đáp về trung tâm mua sắm Northwood 
 **B:** It opens from 9 a.m. to 9 p.m.
 </dialogue>
 
-<teacher_script pause="0" action="record">
+<teacher_script pause="0" action="record" href="audio/tts_5105a666.webm">
 Ghi âm hỏi đáp về trung tâm mua sắm và gửi cho thầy nha.
 </teacher_script>
 
 ---
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_ceb456ee.webm">
 Hết bài rồi nha. Nhớ từ vựng về trung tâm mua sắm nha. Bài tiếp theo là <eng>Skills 2</eng> - Nghe về mua sắm online. Hẹn gặp lại!
 </teacher_script>

@@ -56,7 +56,7 @@ Bài 1 <eng>Choose</eng> nha. Chọn đáp án đúng để hoàn thành câu đ
 Câu 1: B - travel agency (công ty du lịch). Câu 2: C - ruinous (đổ nát) - nhiều công trình đổ nát là di sản UNESCO. Câu 3: C - hunting (săn lùng) - giỏi săn vé rẻ. Câu 4: D - Google Maps (chỉ đường). Câu 5: A - Food tourism (du lịch ẩm thực).
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_a5768ea7.mp3">
 Sửa lỗi sai vô bài làm nếu có nha.
 </teacher_script>
 
@@ -96,7 +96,7 @@ Bài 2 <eng>Fill in</eng> nha. Điền từ vô chỗ trống đi. 1 phút nha.
 Câu 1: <eng>domestic</eng> - tour trong nước hay quốc tế. Câu 2: <eng>fixed</eng> - lịch trình cố định không đổi được. Câu 3: <eng>agent</eng> - đặt vé qua đại lý. Câu 4: <eng>self-guided</eng> - tour tự túc cần kinh nghiệm. Câu 5: <eng>natural</eng> - vẻ đẹp thiên nhiên.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_a5768ea7.mp3">
 Sửa lỗi sai vô bài làm nếu có nha.
 </teacher_script>
 
@@ -152,7 +152,7 @@ Bài 3 <eng>Grammar</eng> nha. Trước khi làm, ôn lại đại từ quan h�
 Câu 1: <eng>which</eng> - shop là vật. Câu 2: <eng>who</eng> - uncle là người. Câu 3: <eng>which</eng> - visa là vật. Câu 4: <eng>whose</eng> - tên CỦA khách sạn. Câu 5: <eng>whose</eng> - hộ chiếu CỦA du khách.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_a5768ea7.mp3">
 Sửa lỗi sai vô bài làm nếu có nha.
 </teacher_script>
 
@@ -192,7 +192,7 @@ Bài 4 <eng>Combine</eng> nha. Nối câu sử dụng đại từ quan hệ tron
 Câu 1: <eng>whose</eng> - "Its culture" nghĩa là "văn hóa CỦA nó" nên dùng whose thay cho sở hữu. Câu 2: <eng>which</eng> - tours là vật, dùng which. Câu 3: <eng>which</eng> - street là vật, dùng which. Câu 4: <eng>whose</eng> - "their performance" là "màn trình diễn CỦA họ" nên dùng whose. Câu 5: <eng>who</eng> - people là người, dùng who.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_a5768ea7.mp3">
 Sửa lỗi sai vô bài làm nếu có nha.
 </teacher_script>
 

@@ -3,7 +3,7 @@
 ## COMMUNICATION
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_2c23da55.webm">
 Ok lớp 8, qua bài <eng>Communication</eng> nha. Mở sách trang 87 đi. Hôm nay học cách phàn nàn khi mua đồ không ưng ý.
 </teacher_script>
 
@@ -41,7 +41,7 @@ Ok lớp 8, qua bài <eng>Communication</eng> nha. Mở sách trang 87 đi. Hôm
 <!-- chunk: everyday_english -->
 ### Everyday English - Making complaints
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_809c8b59.webm">
 Bài 1 <eng>Listen and read</eng> nha. Nghe Tom gọi điện phàn nàn về ba lô đi. Chú ý mấy câu in đậm nha.
 </teacher_script>
 
@@ -73,11 +73,11 @@ Bài 1 <eng>Listen and read</eng> nha. Nghe Tom gọi điện phàn nàn về ba
 - I'll send you another one/refund... (Tôi sẽ gửi cái khác/hoàn tiền...)
 </grammar>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_15a1c7c4.webm">
 Khi mua đồ bị lỗi hay không vừa ý, mình có thể phàn nàn lịch sự nha. Dùng <eng>I'm calling to make a complaint about...</eng> hoặc <eng>I'm not happy with...</eng>. Người bán sẽ xin lỗi và giải quyết cho mình.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_0a6b3bdd.webm">
 Ghi vô tập: Phàn nàn = I'm calling to make a complaint about... / I'm not happy with... Trả lời = I'm sorry about that. / Let me check. 30 giây nha.
 </teacher_script>
 
@@ -86,7 +86,7 @@ Ghi vô tập: Phàn nàn = I'm calling to make a complaint about... / I'm not h
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 87 - Role-play complaints
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_5a91b4cb.webm">
 Bài 2 <eng>Role-play</eng> nha. Đóng vai phàn nàn theo tình huống đi. Xem ví dụ bên dưới.
 </teacher_script>
 
@@ -106,7 +106,7 @@ Bài 2 <eng>Role-play</eng> nha. Đóng vai phàn nàn theo tình huống đi. X
 **B:** I'm really sorry. I will talk to her.
 </dialogue>
 
-<teacher_script pause="0" action="record">
+<teacher_script pause="0" action="record" href="audio/tts_9aa64cbc.webm">
 Ghi âm đóng vai phàn nàn và gửi cho thầy nha.
 </teacher_script>
 
@@ -115,7 +115,7 @@ Ghi âm đóng vai phàn nàn và gửi cho thầy nha.
 <!-- chunk: exercise_3 -->
 ### Bài 3 trang 87 - Listen and tick
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_2257939c.webm">
 Bài 3 <eng>Listen and tick</eng> nha. Nghe rồi đánh dấu địa điểm mua sắm yêu thích của mỗi người đi. 1 phút.
 </teacher_script>
 
@@ -146,11 +146,11 @@ Bài 3 <eng>Listen and tick</eng> nha. Nghe rồi đánh dấu địa điểm mu
 - Alice thích giá rẻ ở discount shop.
 </explanation>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_7bca2e9e.webm">
 Mai thích chợ trời vì sản phẩm nhà trồng. Nam thích cửa hàng tiện lợi vì tiết kiệm thời gian. Alice thích discount shop vì giá rẻ.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_a5768ea7.mp3">
 Sửa lỗi sai vô bài làm nếu có nha.
 </teacher_script>
 
@@ -159,7 +159,7 @@ Sửa lỗi sai vô bài làm nếu có nha.
 <!-- chunk: exercise_4 -->
 ### Bài 4 trang 87 - Ask and answer
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_d314e7a1.webm">
 Bài 4 <eng>Ask and answer</eng> nha. Hỏi đáp về lý do thích địa điểm mua sắm đi.
 </teacher_script>
 
@@ -174,6 +174,6 @@ Bài 4 <eng>Ask and answer</eng> nha. Hỏi đáp về lý do thích địa đi�
 ---
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_0a129da3.webm">
 Hết bài rồi nha. Nhớ cách phàn nàn lịch sự nha. Bài tiếp theo là <eng>Skills 1</eng> - Đọc về trung tâm mua sắm. Hẹn gặp lại!
 </teacher_script>

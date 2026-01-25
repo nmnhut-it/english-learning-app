@@ -134,7 +134,7 @@ Bài 2 <eng>Listen and fill</eng> nha. Nghe về chuyến đi Haworth rồi đi�
 Câu 1: 9 giờ - chuyến đi kéo dài 9 tiếng. Câu 2: world-famous - Jane Eyre là sách nổi tiếng thế giới. Câu 3: graveyard - thăm nhà, trường và nghĩa trang. Câu 4: entrance - vé vào cổng được bao gồm. Câu 5: 150 năm trước - nhà Brontes sống ở Haworth. Câu 6: change - con phố chính ít thay đổi.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_a5768ea7.mp3">
 Sửa lỗi sai vô bài làm nếu có nha.
 </teacher_script>
 
@@ -159,7 +159,7 @@ Bài 3 <eng>Listen and tick</eng> nha. Nghe rồi đánh dấu hình ảnh đư�
 Đáp án là hình 1 và hình 3 nha.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_a5768ea7.mp3">
 Sửa lỗi sai vô bài làm nếu có nha.
 </teacher_script>
 

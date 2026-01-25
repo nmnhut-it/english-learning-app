@@ -605,7 +605,7 @@ Chúng ta cùng tóm tắt lại bài học hôm nay.
 <!-- chunk: additional_practice -->
 ### Bài tập thực hành bổ sung
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_0c3c0f9c.mp3">
 Các em làm thêm bài tập thực hành để củng cố ngữ pháp nha. Bài tập này rất quan trọng đó!
 </teacher_script>
 

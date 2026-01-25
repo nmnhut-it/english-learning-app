@@ -87,7 +87,7 @@ Bài 1 nha. Xác định danh từ mà đại từ quan hệ đang chỉ đi. 1 
 Câu 1: <eng>who</eng> chỉ <eng>People</eng> - người. Câu 2: <eng>which</eng> chỉ <eng>The brochure</eng> - tờ rơi. Câu 3: <eng>which</eng> chỉ <eng>the video</eng> - video. Câu 4: <eng>who</eng> chỉ <eng>a local tour guide</eng> - hướng dẫn viên. Câu 5: <eng>which</eng> chỉ <eng>a city</eng> - thành phố.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_a5768ea7.mp3">
 Sửa lỗi sai vô bài làm nếu có nha.
 </teacher_script>
 
@@ -134,7 +134,7 @@ Bài 2 <eng>Choose</eng> nha. Chọn <eng>who</eng> hoặc <eng>which</eng> đú
 Câu 1: <eng>which</eng> - brochure là vật. Câu 2: <eng>which</eng> - company là vật (công ty không phải người). Câu 3: <eng>who</eng> - elders là người lớn tuổi. Câu 4: <eng>which</eng> - bus là vật. Câu 5: <eng>who</eng> - tourists là khách du lịch (người).
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_a5768ea7.mp3">
 Sửa lỗi sai vô bài làm nếu có nha.
 </teacher_script>
 
@@ -185,7 +185,7 @@ Câu 1: <eng>who</eng> - Mr Minh sẽ hướng dẫn (người làm hành độn
 Mẹo phân biệt: Sau <eng>who</eng> là động từ (who will guide, who is). Sau <eng>whose</eng> là danh từ (whose book, whose beauty, whose stories).
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_a5768ea7.mp3">
 Sửa lỗi sai vô bài làm nếu có nha.
 </teacher_script>
 
@@ -232,7 +232,7 @@ Bài 4 <eng>Match</eng> nha. Nối mệnh đề ở cột A với cột B đi. 1
 Câu 1: Museum - <eng>whose collection</eng> (bộ sưu tập CỦA bảo tàng). Câu 2: Pierre - <eng>who is arranging</eng> (Pierre LÀ người sắp xếp). Câu 3: Hall - <eng>which appeared</eng> (hội trường xuất hiện trong phim - vật). Câu 4: Tour guide - <eng>who knows</eng> (hướng dẫn viên biết - người). Câu 5: Artisans - <eng>whose products</eng> (sản phẩm CỦA nghệ nhân).
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_a5768ea7.mp3">
 Sửa lỗi sai vô bài làm nếu có nha.
 </teacher_script>
 
@@ -359,7 +359,7 @@ Câu 6: <eng>whose reviews</eng> - đánh giá của khách sạn. <eng>Whose</e
 Mẹo nhớ: <eng>who</eng> cho người, <eng>which</eng> cho vật, <eng>whose</eng> cho sở hữu (của ai). Dễ lắm nha!
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_a5768ea7.mp3">
 Sửa lỗi sai vô bài làm nếu có nha.
 </teacher_script>
 
@@ -441,7 +441,7 @@ Câu 5: <eng>whose products are</eng> - người bán hàng mà sản phẩm là
 Câu 6: <eng>which many backpackers recommend</eng> - nhà trọ mà nhiều du khách ba lô giới thiệu.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_a5768ea7.mp3">
 Sửa lỗi sai vô bài làm nếu có nha.
 </teacher_script>
 
@@ -514,7 +514,7 @@ Câu 7: <eng>photos</eng> của <eng>photographer</eng> - phải dùng <eng>whos
 Nhớ nha: <eng>who</eng> = người, <eng>which</eng> = vật, <eng>whose</eng> = sở hữu (của ai/của cái gì). Đừng nhầm nữa nhé!
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_a5768ea7.mp3">
 Sửa lỗi sai vô bài làm nếu có nha.
 </teacher_script>
 

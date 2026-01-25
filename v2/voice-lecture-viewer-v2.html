@@ -441,8 +441,9 @@
     .action-btn svg{flex-shrink:0}
     .action-btn.recording{border-color:#ef4444;background:linear-gradient(135deg,#fef2f2,#fee2e2);animation:recordPulse 1s infinite;color:#dc2626}
     @keyframes recordPulse{50%{opacity:.7}}
-    .audio-box{margin-top:12px}
-    .audio-box audio{width:100%;max-width:300px;border-radius:8px}
+    .audio-box{background:linear-gradient(135deg,#0c4a6e,#075985);padding:14px;border-radius:12px;margin:12px 0;box-shadow:0 4px 12px rgba(12,74,110,.2)}
+    .audio-box audio{width:100%;border-radius:8px}
+    .audio-placeholder{background:rgba(255,255,255,.1);color:#bae6fd;padding:18px;border-radius:8px;text-align:center;font-size:.9rem}
   </style>
 </head>
 <body>
@@ -982,6 +983,14 @@ function renderContent(md, chunkIndex) {
     placeholder(`<div class="card" data-testid="questions">${renderMD(c)}</div>`));
   h = h.replace(/<explanation>([\s\S]*?)<\/explanation>/gi, (_, c) =>
     placeholder(`<div class="card" data-testid="explanation">${renderMD(c)}</div>`));
+
+  // Audio tag - external listening audio
+  h = h.replace(/<audio\s+src="([^"]*)"[^>]*>([\s\S]*?)<\/audio>/gi, (_, src, label) => {
+    const audioHtml = src.includes('TODO')
+      ? `<div class="audio-box"><div class="audio-placeholder">🔇 ${label || 'Audio chưa sẵn sàng'}</div></div>`
+      : `<div class="audio-box"><audio controls src="${src}"></audio></div>`;
+    return placeholder(audioHtml);
+  });
 
   // Exercise tag - interactive exercise from JSON
   h = h.replace(/<exercise([^>]*)>([\s\S]*?)<\/exercise>/gi, (_, attrs, content) => {

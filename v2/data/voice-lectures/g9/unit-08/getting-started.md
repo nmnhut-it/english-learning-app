@@ -120,7 +120,7 @@ Bài 2 <eng>True or False</eng> nha. Đọc câu rồi đánh T cho đúng, F ch
 Câu 1: True - Tom và An đang nói về kỳ nghỉ. Câu 2: False - Bali hấp dẫn người yêu biển, không phải núi. Câu 3: True - Ba của Tom dùng app đặt vé. Câu 4: False - An nói đồ ăn ngon lắm. Câu 5: True - Tom nhắc đến du lịch ẩm thực, mua sắm, thể thao.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_a5768ea7.mp3">
 Sửa lỗi sai vô bài làm nếu có nha.
 </teacher_script>
 
@@ -151,7 +151,7 @@ Bài 3 <eng>Match</eng> nha. Nối từ cột A với cột B để tạo cụm 
 <eng>Ideal destination</eng> là điểm đến lý tưởng. <eng>Natural beauty</eng> là vẻ đẹp thiên nhiên. <eng>Domestic holiday</eng> là kỳ nghỉ trong nước. <eng>Shopping tourism</eng> là du lịch mua sắm. <eng>Local food</eng> là đồ ăn địa phương.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_a5768ea7.mp3">
 Sửa lỗi sai vô bài làm nếu có nha.
 </teacher_script>
 
@@ -199,7 +199,7 @@ Bài 4 <eng>Fill in</eng> nha. Điền từ vô chỗ trống đi. 1 phút nha.
 Câu 1: <eng>safari</eng> - đi safari thì được xem động vật hoang dã. Câu 2: <eng>domestic</eng> - sân bay có 2 nhà ga: quốc tế và nội địa. Câu 3: <eng>online apps</eng> - dùng app để đặt vé. Câu 4: <eng>Sports tourism</eng> là du lịch thể thao. Câu 5: <eng>destination</eng> - Nhật Bản là điểm đến phải đi.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_a5768ea7.mp3">
 Sửa lỗi sai vô bài làm nếu có nha.
 </teacher_script>
 
@@ -239,7 +239,7 @@ Bài 5 <eng>Quiz</eng> nha. Đoán xem các địa điểm du lịch này ở t�
 Câu 1: Huế - cố đô xưa. Câu 2: Cần Thơ - nổi tiếng chợ nổi. Câu 3: Đà Lạt - Festival Hoa tháng 12. Câu 4: Lào Cai - thác nước nổi tiếng. Câu 5: Quảng Ninh - Vịnh Hạ Long di sản thế giới.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_a5768ea7.mp3">
 Sửa lỗi sai vô bài làm nếu có nha.
 </teacher_script>
 

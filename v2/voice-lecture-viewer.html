@@ -1045,7 +1045,16 @@ function renderContent(md){
   h=h.replace(/<questions[^>]*>([\s\S]*?)<\/questions>/gi,(_,c)=>`<div class="card">${renderMD(c)}</div>`);
   h=h.replace(/<pronunciation_theory>([\s\S]*?)<\/pronunciation_theory>/gi,(_,c)=>`<div class="card grammar-box">${renderMD(c)}</div>`);
   h=h.replace(/<content_table>([\s\S]*?)<\/content_table>/gi,(_,c)=>`<div class="card">${renderMD(c)}</div>`);
-  h=h.replace(/<audio\s+src="([^"]*)"[^>]*>([\s\S]*?)<\/audio>/gi,(_,src,label)=>src.includes('TODO')?`<div class="audio-box"><div class="audio-placeholder">🔇 ${label||'Audio chưa sẵn sàng'}</div></div>`:`<div class="audio-box"><audio controls src="${src}"></audio></div>`);
+  // AUDIO - Use placeholder technique to protect from renderMD corruption
+  const audioPlaceholders = [];
+  h=h.replace(/<audio\s+src="([^"]*)"[^>]*>([\s\S]*?)<\/audio>/gi,(_,src,label)=>{
+    const audioHtml = src.includes('TODO')
+      ? `<div class="audio-box"><div class="audio-placeholder">🔇 ${label||'Audio chưa sẵn sàng'}</div></div>`
+      : `<div class="audio-box"><audio controls src="${src}"></audio></div>`;
+    const placeholder = `__AUDIO_PLACEHOLDER_${audioPlaceholders.length}__`;
+    audioPlaceholders.push(audioHtml);
+    return placeholder;
+  });
 
   // EXERCISE - Interactive exercise from JSON
   // Use placeholder technique to protect exercise HTML from renderMD corruption
@@ -1061,8 +1070,11 @@ function renderContent(md){
     return placeholder;
   });
 
-  // Run renderMD, then restore exercise containers
+  // Run renderMD, then restore placeholders
   let result = renderMD(h);
+  audioPlaceholders.forEach((html, i) => {
+    result = result.replace(`__AUDIO_PLACEHOLDER_${i}__`, html);
+  });
   exercisePlaceholders.forEach((html, i) => {
     result = result.replace(`__EXERCISE_PLACEHOLDER_${i}__`, html);
   });

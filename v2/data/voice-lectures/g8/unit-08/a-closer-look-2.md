@@ -3,7 +3,7 @@
 ## A CLOSER LOOK 2 - Grammar
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_352e9d35.mp3">
 Ok lớp 8, qua bài <eng>A Closer Look 2</eng> nha. Mở sách trang 85 đi. Hôm nay học ngữ pháp: Trạng từ chỉ tần suất và Hiện tại đơn cho tương lai.
 </teacher_script>
 
@@ -39,7 +39,7 @@ Ok lớp 8, qua bài <eng>A Closer Look 2</eng> nha. Mở sách trang 85 đi. H�
 ---
 
 <!-- chunk: grammar_1 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_02b0058a.mp3">
 Điểm ngữ pháp 1: <eng>Adverbs of frequency</eng> - Trạng từ chỉ tần suất nha. Dùng để nói làm việc gì thường xuyên như thế nào.
 </teacher_script>
 
@@ -60,15 +60,15 @@ Dùng để diễn tả mức độ thường xuyên của hành động.
 - Sau động từ to be: She **is usually** busy.
 </grammar>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_fc1609fb.mp3">
 Nhớ nè! <eng>Always</eng> là 100% - luôn luôn. <eng>Never</eng> là 0% - không bao giờ. Còn lại ở giữa: usually (80%), often (60%), sometimes (40%), rarely (20%). Xếp từ cao xuống thấp để dễ nhớ nha.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_a0de2d69.mp3">
 Vị trí quan trọng lắm! Trạng từ tần suất đứng TRƯỚC động từ thường: <eng>I always shop</eng>. Nhưng đứng SAU động từ to be: <eng>She is usually busy</eng>. Nhớ: Trước thường, sau be nha!
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_49f52ac1.mp3">
 Ghi vô tập: Trạng từ tần suất: always > usually > often > sometimes > rarely > never. Vị trí: TRƯỚC động từ thường, SAU động từ to be. 30 giây nha.
 </teacher_script>
 
@@ -77,7 +77,7 @@ Ghi vô tập: Trạng từ tần suất: always > usually > often > sometimes >
 <!-- chunk: exercise_1 -->
 ### Bài 1 trang 85 - Complete sentences
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_db5c7b79.mp3">
 Bài 1 <eng>Complete</eng> nha. Điền trạng từ tần suất phù hợp đi. 1 phút nha.
 </teacher_script>
 
@@ -95,18 +95,18 @@ Bài 1 <eng>Complete</eng> nha. Điền trạng từ tần suất phù hợp đi
 **Đáp án:** 1. always | 2. rarely | 3. never | 4. often | 5. sometimes
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_61bfae1c.mp3">
 Câu 1: <eng>always</eng> - mẹ luôn luôn mua ở siêu thị. Câu 2: <eng>rarely</eng> - hiếm khi mua online. Câu 3: <eng>never</eng> - không bao giờ mặc cả ở siêu thị. Câu 4: <eng>often</eng> - thường xuyên. Câu 5: <eng>sometimes</eng> - thỉnh thoảng.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_a5768ea7.mp3">
 Sửa lỗi sai vô bài làm nếu có nha.
 </teacher_script>
 
 ---
 
 <!-- chunk: grammar_2 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_42ea8f56.mp3">
 Điểm ngữ pháp 2: <eng>Present simple for future events</eng> - Dùng hiện tại đơn cho sự kiện tương lai nha. Nghe lạ hen? Nhưng rất hay dùng đó!
 </teacher_script>
 
@@ -119,11 +119,11 @@ Dùng để nói về lịch trình, thời khóa biểu đã định sẵn (tà
 - The sale **ends** tomorrow. (Đợt giảm giá kết thúc ngày mai)
 </grammar>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_378becc3.mp3">
 Quan trọng nè! Dùng hiện tại đơn cho lịch trình CỐ ĐỊNH trong tương lai. Ví dụ: giờ tàu chạy, giờ mở cửa siêu thị, lịch sale... Không dùng <eng>will</eng> cho mấy cái này nha!
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_563ebac4.mp3">
 Ghi vô tập: Hiện tại đơn cho tương lai = lịch trình cố định. Will = quyết định cá nhân. 30 giây nha.
 </teacher_script>
 
@@ -132,7 +132,7 @@ Ghi vô tập: Hiện tại đơn cho tương lai = lịch trình cố định. 
 <!-- chunk: exercise_3 -->
 ### Bài 3 trang 85 - Schedule vs Unplanned
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_546f0b52.mp3">
 Bài 3 nha. Xác định câu nào là lịch trình (A) hay quyết định cá nhân (B) đi. 1 phút nha.
 </teacher_script>
 
@@ -154,11 +154,11 @@ Bài 3 nha. Xác định câu nào là lịch trình (A) hay quyết định cá
 - **B (Không kế hoạch/Quyết định tức thời):** Câu 1 (sẽ đi trả đồ), Câu 5 (bận nên sẽ đi sau).
 </explanation>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_f962c7fa.mp3">
 Câu 2, 3, 4 chọn A - lịch trình. Câu 1, 5 chọn B - quyết định cá nhân.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_a5768ea7.mp3">
 Sửa lỗi sai vô bài làm nếu có nha.
 </teacher_script>
 
@@ -167,7 +167,7 @@ Sửa lỗi sai vô bài làm nếu có nha.
 <!-- chunk: exercise_4 -->
 ### Bài 4 trang 86 - Choose correct option
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_26bae281.mp3">
 Bài 4 <eng>Choose</eng> nha. Chọn thì đúng đi. Nhớ phân biệt lịch trình và quyết định cá nhân nha. 1 phút.
 </teacher_script>
 
@@ -192,7 +192,7 @@ Bài 4 <eng>Choose</eng> nha. Chọn thì đúng đi. Nhớ phân biệt lịch 
 5. **Does** (lịch sale quảng cáo).
 </explanation>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_7a5f108b.webm">
 Lưu ý: Lịch trình chung dùng hiện tại đơn. Quyết định cá nhân hoặc dự đoán dùng tương lai đơn (will).
 </teacher_script>
 
@@ -201,7 +201,7 @@ Lưu ý: Lịch trình chung dùng hiện tại đơn. Quyết định cá nhân
 <!-- chunk: exercise_5 -->
 ### Bài 5 trang 86 - Community Fair Schedule
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_d5b3f2be.mp3">
 Bài 5 nói về lịch trình hội chợ nha. Dùng hiện tại đơn vì đây là lịch trình cố định.
 </teacher_script>
 
@@ -221,7 +221,7 @@ Bài 5 nói về lịch trình hội chợ nha. Dùng hiện tại đơn vì đ�
 **B:** It opens at 8:30 on April 1st.
 </dialogue>
 
-<teacher_script pause="0" action="record">
+<teacher_script pause="0" action="record" href="audio/tts_97c9750e.mp3">
 Ghi âm hỏi đáp về lịch trình hội chợ và gửi cho thầy nha.
 </teacher_script>
 
@@ -230,7 +230,7 @@ Ghi âm hỏi đáp về lịch trình hội chợ và gửi cho thầy nha.
 <!-- chunk: additional_practice -->
 ### Bài tập thực hành bổ sung
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_0c3c0f9c.mp3">
 Các em làm thêm bài tập thực hành để củng cố ngữ pháp nha. Bài tập này rất quan trọng đó!
 </teacher_script>
 
@@ -239,7 +239,7 @@ Các em làm thêm bài tập thực hành để củng cố ngữ pháp nha. B�
 <!-- chunk: practice_1 -->
 ### Bài tập 1 - Adverbs of frequency
 
-<teacher_script pause="120">
+<teacher_script pause="120" href="audio/tts_99f0cb83.mp3">
 Chúng ta cùng làm Bài tập 1. Các em hãy viết lại câu với trạng từ chỉ tần suất ở đúng vị trí. Các em có 2 phút.
 </teacher_script>
 
@@ -282,15 +282,15 @@ Chúng ta cùng làm Bài tập 1. Các em hãy viết lại câu với trạng 
 6. My sister is sometimes a careful shopper.
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_80827f86.mp3">
 Câu 1, 3, 4, 5: Trạng từ đứng trước động từ thường. <eng>I usually shop, We often bargain, They always go, He rarely buys.</eng>
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_687d83a7.mp3">
 Câu 2 và 6: Trạng từ đứng sau động từ <eng>to be</eng>. <eng>She is never late, My sister is sometimes careful.</eng>
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_692aae6b.mp3">
 Mẹo nhớ: Trạng từ tần suất đứng TRƯỚC động từ thường, SAU động từ to be.
 </teacher_script>
 
@@ -303,7 +303,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 <!-- chunk: practice_2 -->
 ### Bài tập 2 - Present simple for future
 
-<teacher_script pause="120">
+<teacher_script pause="120" href="audio/tts_4e1ead71.mp3">
 Chúng ta cùng làm Bài tập 2. Các em hãy chọn thì đúng. Các em có 2 phút.
 </teacher_script>
 
@@ -346,31 +346,31 @@ A. go | B. will go | C. are going
 **Đáp án:** 1.A | 2.B | 3.A | 4.B | 5.A | 6.B
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_4ea0b95f.mp3">
 Câu 1: <eng>opens</eng> - lịch mở cửa cố định dùng hiện tại đơn.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_a70ad90c.mp3">
 Câu 2: <eng>will buy</eng> - quyết định mua quà cho bạn, dùng tương lai đơn.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_434052c8.mp3">
 Câu 3: <eng>starts</eng> - lịch sale cố định dùng hiện tại đơn.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_e0457bfa.mp3">
 Câu 4: <eng>will help</eng> - quyết định tức thời giúp đỡ, dùng tương lai đơn.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_d3820644.mp3">
 Câu 5: <eng>leaves</eng> - lịch trình xe buýt cố định dùng hiện tại đơn.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_3af2f4e7.mp3">
 Câu 6: <eng>will go</eng> - dự định mua sắm, dùng tương lai đơn.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_8dbb0c16.mp3">
 Mẹo nhớ: Lịch trình cố định (giờ mở cửa, giờ xe, lịch sale) dùng hiện tại đơn. Quyết định cá nhân dùng tương lai đơn với <eng>will</eng>.
 </teacher_script>
 
@@ -383,7 +383,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 <!-- chunk: practice_3 -->
 ### Bài tập 3 - Mixed practice
 
-<teacher_script pause="120">
+<teacher_script pause="120" href="audio/tts_676d617f.mp3">
 Bài tập cuối cùng. Các em hãy hoàn thành các câu về mua sắm. Các em có 2 phút.
 </teacher_script>
 
@@ -426,31 +426,31 @@ Bài tập cuối cùng. Các em hãy hoàn thành các câu về mua sắm. Cá
 6. never bargains
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_21fa30d4.mp3">
 Câu 1: <eng>always shops</eng> - trạng từ tần suất đứng trước động từ thường.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_1c90c12e.mp3">
 Câu 2: <eng>closes</eng> - lịch đóng cửa cố định dùng hiện tại đơn.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_e744c532.mp3">
 Câu 3: <eng>rarely buy</eng> - hiếm khi mua, trạng từ đứng trước động từ.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_16a7632a.mp3">
 Câu 4: <eng>will visit</eng> - kế hoạch cá nhân đi thăm, dùng tương lai đơn.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_b7466fa7.mp3">
 Câu 5: <eng>starts</eng> - lịch sale cố định dùng hiện tại đơn.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_e210cd30.mp3">
 Câu 6: <eng>never bargains</eng> - không bao giờ mặc cả, trạng từ đứng trước động từ.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_b89b383b.mp3">
 Tóm lại: Trạng từ tần suất: <eng>always, usually, often, sometimes, rarely, never</eng>. Hiện tại đơn cho lịch trình cố định. Tương lai đơn cho kế hoạch cá nhân.
 </teacher_script>
 
@@ -461,6 +461,6 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 ---
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_d6c5bbe9.mp3">
 Hết bài rồi nha. Nhớ: Trạng từ tần suất đứng trước động từ thường, sau to be. Hiện tại đơn cho lịch trình cố định. Bài tiếp theo là <eng>Communication</eng>. Hẹn gặp lại!
 </teacher_script>
