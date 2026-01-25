@@ -3,11 +3,11 @@
 ## SKILLS 1 - Reading & Speaking
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_7d41b75d.webm">
 Ok lớp 6, <eng>Skills 1</eng> nha. Mở sách trang 22 đi. Hôm nay luyện đọc và nói luôn.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_5a2d2aa3.webm">
 Hôm nay học về Pelé - Vua bóng đá á! Sau đó tập nói về các vận động viên nổi tiếng khác nha. Hay lắm đó!
 </teacher_script>
 
@@ -36,7 +36,7 @@ Hôm nay học về Pelé - Vua bóng đá á! Sau đó tập nói về các v�
 <!-- chunk: exercise_1 -->
 ### Bài 1 trang 22 - Work in pairs
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_30ba33ca.webm">
 Bài 1 <eng>Work in pairs</eng> nha. Làm theo cặp, thảo luận xem mình biết gì về Pelé đi. 30 giây. Ai biết nhiều hơn nào?
 </teacher_script>
 
@@ -68,7 +68,7 @@ Bài 1 <eng>Work in pairs</eng> nha. Làm theo cặp, thảo luận xem mình bi
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 22 - Read the dialogue
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_101a1655.webm">
 Bài 2 <eng>Read the dialogue</eng> nha. Đọc nhanh hội thoại về Pelé đi. Cô giáo đang nói với học sinh về vua bóng đá đó.
 </teacher_script>
 
@@ -95,7 +95,7 @@ Bài 2 <eng>Read the dialogue</eng> nha. Đọc nhanh hội thoại về Pelé �
 | **Teacher:** Yes, and he's known around the world as "The King of Football". | **Cô giáo:** Đúng vậy, và ông được biết đến trên toàn thế giới là "Vua bóng đá". |
 </reading>
 
-<teacher_script pause="90">
+<teacher_script pause="90" href="audio/tts_1f8b11e4.webm">
 Đọc rồi dịch hội thoại vô vở đi. 1 phút 30 giây nha. Chú ý các số liệu về Pelé luôn.
 </teacher_script>
 
@@ -104,7 +104,7 @@ Bài 2 <eng>Read the dialogue</eng> nha. Đọc nhanh hội thoại về Pelé �
 <!-- chunk: exercise_3 -->
 ### Bài 3 trang 22 - Answer the questions
 
-<teacher_script pause="90">
+<teacher_script pause="90" href="audio/tts_7c2d2006.webm">
 Bài 3 <eng>Answer the questions</eng> nha. Đọc lại bài rồi trả lời câu hỏi đi. 1 phút 30 giây. Tìm thông tin trong hội thoại là có đáp án liền á.
 </teacher_script>
 
@@ -138,7 +138,7 @@ Bài 3 <eng>Answer the questions</eng> nha. Đọc lại bài rồi trả lời 
 ---
 
 <!-- chunk: answer_3 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_778f802f.webm">
 Đã hết thời gian. Sau đây là đáp án đúng.
 </teacher_script>
 
@@ -166,11 +166,14 @@ Bài 3 <eng>Answer the questions</eng> nha. Đọc lại bài rồi trả lời 
 | Biệt danh | "The King of Football" |
 </explanation>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_404ba10d.webm">
 1.281 bàn thắng á! Kỷ lục khủng luôn nha. Tính ra mỗi năm ông ghi hơn 50 bàn. Cho nên người ta gọi ông là "Vua bóng đá" đó.
 </teacher_script>
 
-<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
+---
+
+<!-- chunk: correction_1 -->
+<teacher_script pause="30" href="audio/tts_75ebc937.webm">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -179,7 +182,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 <!-- chunk: speaking_intro -->
 ### SPEAKING - Talk about a sportsperson
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_e57d2712.webm">
 Qua phần <eng>Speaking</eng> nha. Tập nói về các vận động viên nổi tiếng đi. Nói giống như giới thiệu một ngôi sao thể thao vậy á.
 </teacher_script>
 
@@ -188,7 +191,7 @@ Qua phần <eng>Speaking</eng> nha. Tập nói về các vận động viên n�
 <!-- chunk: exercise_4 -->
 ### Bài 4 trang 22 - Read the facts
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_35e924cf.webm">
 Bài 4 <eng>Read the facts</eng> nha. Đọc thông tin về hai vận động viên nổi tiếng đi. Một người Việt Nam, một người nước ngoài đó.
 </teacher_script>
 
@@ -233,7 +236,7 @@ Bài 4 <eng>Read the facts</eng> nha. Đọc thông tin về hai vận động v
 <!-- chunk: exercise_5 -->
 ### Bài 5 trang 22 - Talk about a sportsperson
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_8fe4e27c.webm">
 Bài 5 <eng>Talk about a sportsperson</eng> nha. Chọn một trong hai vận động viên ở bài 4 rồi nói về người đó đi. Dùng các cấu trúc gợi ý bên dưới nha.
 </teacher_script>
 
@@ -266,18 +269,18 @@ His name is Hoàng Giang. He was born in 1978 in Việt Nam. He plays shooting. 
 Her name is Jenny Green. She was born in 1972 in Greenland. She plays golf. She is famous for being one of the best female golfers in history. In 1987, she became a member of local golf club. In 1994, she took part in a female golf tournament. In 2002, she became the female golf champion. I admire her a lot because she is really skillful and healthy.
 </dialogue>
 
-<teacher_script pause="120">
+<teacher_script pause="120" href="audio/tts_cba36e20.webm">
 Viết bài nói về một vận động viên vô vở đi. 2 phút nha. Nhớ nói tên, năm sinh, môn thể thao, tại sao nổi tiếng, và mình thích hay không.
 </teacher_script>
 
-<teacher_script pause="0" action="record">
+<teacher_script pause="0" action="record" href="audio/tts_22916b21.webm">
 Các em hãy bấm nút Ghi âm để thực hiện bài nói về vận động viên mình chọn và gửi cho thầy nhé.
 </teacher_script>
 
 ---
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_2a6afbf9.webm">
 Hết bài rồi nha. Về nhà nhớ học thuộc thông tin về Pelé đi. Năm sinh, số bàn thắng, biệt danh... đề thi hay hỏi lắm đó!
 </teacher_script>
 
@@ -292,6 +295,6 @@ Hết bài rồi nha. Về nhà nhớ học thuộc thông tin về Pelé đi. N
 - Nickname: "The King of Football"
 </grammar>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_d8d14df1.webm">
 Bài tiếp theo là <eng>Skills 2</eng>, luyện nghe và viết luôn. Hẹn gặp lại nha!
 </teacher_script>

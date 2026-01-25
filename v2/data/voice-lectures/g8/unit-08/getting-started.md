@@ -103,6 +103,9 @@ Bài 2 <eng>Complete the list</eng> nha. Nghe lại rồi liệt kê các địa
 Đáp án nè: open-air market (chợ trời), farmers' market (chợ nông sản), supermarket (siêu thị), và convenience store (cửa hàng tiện lợi). Bốn loại địa điểm mua sắm phổ biến luôn.
 </teacher_script>
 
+---
+
+<!-- chunk: correction_2 -->
 <teacher_script pause="30" href="audio/tts_a5768ea7.mp3">
 Sửa lỗi sai vô bài làm nếu có nha.
 </teacher_script>
@@ -145,6 +148,9 @@ e. The weather does not affect shopping.
 Chợ trời thì ở ngoài trời và mặc cả được. Siêu thị thì hàng hóa trên kệ, giá cố định và có máy lạnh nên không lo thời tiết. Khác nhau rõ ràng luôn nha.
 </teacher_script>
 
+---
+
+<!-- chunk: correction_3 -->
 <teacher_script pause="30" href="audio/tts_a5768ea7.mp3">
 Sửa lỗi sai vô bài làm nếu có nha.
 </teacher_script>
@@ -176,6 +182,9 @@ Bài 4 <eng>Complete sentences</eng> nha. Điền từ vô chỗ trống đi. D�
 Câu 1: <eng>bargain</eng> - mặc cả. Hỏi giá để được giảm giá đó nha. Câu 2: <eng>convenience store</eng> - cửa hàng tiện lợi, mở 24/7 luôn. Câu 3: <eng>home-grown</eng> - nhà trồng. Rau nhà trồng tươi và ngon. Câu 4: <eng>price tag</eng> - nhãn giá. Không thấy nhãn thì hỏi nhân viên. Câu 5: <eng>home-made</eng> - nhà làm. Bánh mẹ làm thì ngon hơn mua đó!
 </teacher_script>
 
+---
+
+<!-- chunk: correction_4 -->
 <teacher_script pause="30" href="audio/tts_a5768ea7.mp3">
 Sửa lỗi sai vô bài làm nếu có nha.
 </teacher_script>

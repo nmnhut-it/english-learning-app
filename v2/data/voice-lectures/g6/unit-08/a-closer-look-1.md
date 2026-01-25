@@ -3,11 +3,11 @@
 ## A CLOSER LOOK 1 - Vocabulary & Pronunciation
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_f89803fc.webm">
 Ok lớp 6, tiếp tục <eng>A Closer Look 1</eng> nha. Mở sách trang 18 đi. Hôm nay học từ vựng về dụng cụ thể thao và luyện phát âm luôn.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_6bb4ff01.webm">
 Bấm nút "Bắt đầu" để học từ vựng mới nha.
 </teacher_script>
 
@@ -35,11 +35,11 @@ Bấm nút "Bắt đầu" để học từ vựng mới nha.
 ---
 
 <!-- chunk: record_vocabulary -->
-<teacher_script pause="0" action="record">
+<teacher_script pause="0" action="record" href="audio/tts_ffcfb020.mp3">
 Các em hãy bấm nút Ghi âm để đọc lại từ vựng và gửi cho thầy sửa nhé.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_05646927.webm">
 Sau khi ghi âm xong, các em hãy bấm tiếp tục để chuyển sang phần bài tập.
 </teacher_script>
 
@@ -48,7 +48,7 @@ Sau khi ghi âm xong, các em hãy bấm tiếp tục để chuyển sang phần
 <!-- chunk: exercise_1 -->
 ### Bài 1 trang 18 - Write the right words under the pictures
 
-<teacher_script pause="45">
+<teacher_script pause="45" href="audio/tts_fb42dd6f.mp3">
 Bài 1 <eng>Write the right words under the pictures</eng> nè. Viết từ đúng dưới mỗi tranh đi. Nhìn tranh dụng cụ thể thao rồi chọn từ trong khung. 45 giây nha.
 </teacher_script>
 
@@ -73,7 +73,7 @@ Bài 1 <eng>Write the right words under the pictures</eng> nè. Viết từ đú
 ---
 
 <!-- chunk: answer_1 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_ed52f8a2.mp3">
 Sau đây là đáp án đúng.
 </teacher_script>
 
@@ -81,23 +81,23 @@ Sau đây là đáp án đúng.
 **Đáp án:** 1. ball | 2. sports shoes | 3. boat | 4. racket | 5. goggles
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_3911f885.mp3">
 Tranh 1 là <eng>ball</eng> - quả bóng. Hình quả bóng tròn màu trắng đen, có thể là bóng đá. <eng>Ball</eng> là từ chung chung chỉ quả bóng, dùng được cho nhiều môn: football, volleyball, basketball.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_3a0f99bb.mp3">
 Tranh 2 là <eng>sports shoes</eng> - giày thể thao. Hình đôi giày dùng để chơi thể thao. Chú ý: phải viết số nhiều <eng>shoes</eng> vì giày luôn có 2 chiếc. Không ai nói "a shoe" cả, phải nói "a pair of shoes" - một đôi giày.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_ec8d704c.mp3">
 Tranh 3 là <eng>boat</eng> - thuyền. Hình chiếc thuyền trên mặt nước. <eng>Boat</eng> dùng cho môn <eng>boating</eng> - chèo thuyền. Nhớ: boat (danh từ) → boating (môn thể thao).
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_d2ac361f.mp3">
 Tranh 4 là <eng>racket</eng> - cây vợt. Hình cây vợt cầu lông hoặc tennis. <eng>Racket</eng> cũng có thể viết là <eng>racquet</eng>, cả 2 cách viết đều đúng nha. Dùng cho badminton và tennis.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_92d5364e.mp3">
 Tranh 5 là <eng>goggles</eng> - kính bơi. Hình kính đeo khi bơi để bảo vệ mắt. Các em chú ý: <eng>goggles</eng> luôn có chữ s ở cuối vì kính có 2 mắt. Giống như <eng>glasses</eng> (kính mắt), <eng>scissors</eng> (kéo), <eng>trousers</eng> (quần dài) - đều viết số nhiều.
 </teacher_script>
 
@@ -119,6 +119,9 @@ Tranh 5 là <eng>goggles</eng> - kính bơi. Hình kính đeo khi bơi để b�
 - scissors (kéo)
 </explanation>
 
+---
+
+<!-- chunk: correction_1 -->
 <teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
@@ -128,7 +131,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 18 - Match things with sports
 
-<teacher_script pause="45">
+<teacher_script pause="45" href="audio/tts_8719ffce.mp3">
 Bài 2 <eng>Match each thing with a sport</eng> nha. Nối dụng cụ ở cột A với môn thể thao ở cột B đi. 45 giây.
 </teacher_script>
 
@@ -151,7 +154,7 @@ Bài 2 <eng>Match each thing with a sport</eng> nha. Nối dụng cụ ở cột
 ---
 
 <!-- chunk: answer_2 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_c39aacc3.mp3">
 Đã hết thời gian. Sau đây là đáp án gợi ý.
 </teacher_script>
 
@@ -159,23 +162,23 @@ Bài 2 <eng>Match each thing with a sport</eng> nha. Nối dụng cụ ở cột
 **Đáp án:** 1-c | 2-d | 3-a | 4-b | 5-e
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_db12ecb7.mp3">
 Câu 1 nối c. <eng>Bicycle</eng> - xe đạp dùng cho môn <eng>cycling</eng> - đạp xe. Rõ ràng luôn nha, có xe đạp thì mới đạp xe được. <eng>Bicycle</eng> còn gọi tắt là <eng>bike</eng>.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_beaf832b.mp3">
 Câu 2 nối d. <eng>Ball</eng> - quả bóng dùng cho <eng>ball games</eng> - các môn có bóng. <eng>Ball games</eng> là tên chung cho tất cả các môn dùng bóng như football, volleyball, basketball, tennis. Tất cả đều cần quả bóng.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_cddd9d80.mp3">
 Câu 3 nối a. <eng>Boat</eng> - thuyền dùng cho môn <eng>boating</eng> - chèo thuyền. Mẹo nhớ: boat (danh từ - thuyền) thêm đuôi -ing thành boating (môn chèo thuyền). Giống như cycle → cycling vậy.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_d8b583de.mp3">
 Câu 4 nối b. <eng>Goggles</eng> - kính bơi dùng cho <eng>swimming</eng> - bơi lội. Khi bơi, chúng ta đeo kính bơi để bảo vệ mắt khỏi nước và thấy rõ dưới nước. Goggles là dụng cụ rất quan trọng khi bơi nha.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_fec4f947.mp3">
 Câu 5 nối e. <eng>Racket</eng> - cây vợt dùng cho <eng>badminton</eng> - cầu lông. Cũng có thể dùng cho tennis nữa. Nhưng trong bài này chỉ có badminton thôi nên chọn e. Badminton cần 2 cây vợt và 1 quả cầu lông.
 </teacher_script>
 
@@ -198,6 +201,9 @@ Câu 5 nối e. <eng>Racket</eng> - cây vợt dùng cho <eng>badminton</eng> - 
 - ski → ski**ing**
 </explanation>
 
+---
+
+<!-- chunk: correction_2 -->
 <teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
@@ -207,7 +213,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 <!-- chunk: exercise_3 -->
 ### Bài 3 trang 18 - Fill in the blanks
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_5b169ce7.mp3">
 Bài 3 <eng>Fill each blank with one of the words from the box</eng> nha. Điền từ trong khung vô chỗ trống đi. 1 phút.
 </teacher_script>
 
@@ -244,7 +250,7 @@ Bài 3 <eng>Fill each blank with one of the words from the box</eng> nha. Điề
 ---
 
 <!-- chunk: answer_3 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_c39aacc3.mp3">
 Đã hết thời gian. Sau đây là đáp án gợi ý.
 </teacher_script>
 
@@ -252,23 +258,23 @@ Bài 3 <eng>Fill each blank with one of the words from the box</eng> nha. Điề
 **Đáp án:** 1. competition | 2. champion | 3. congratulations | 4. sporty | 5. marathon
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_54809aaa.mp3">
 Câu 1 điền <eng>competition</eng>. Câu nói: Cô ấy đã <eng>won</eng> (thắng) một cuộc thi thể thao quốc tế. <eng>Win a competition</eng> là cụm cố định nghĩa là thắng một cuộc thi. <eng>Competition</eng> từ <eng>compete</eng> (cạnh tranh, thi đấu).
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_a5fa4b5d.mp3">
 Câu 2 điền <eng>champion</eng>. Câu nói: Anh ấy <eng>became the world tennis champion</eng> - trở thành nhà vô địch quần vợt thế giới. <eng>Champion</eng> là người chiến thắng, người xuất sắc nhất. Còn <eng>championship</eng> là giải vô địch nha.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_ee5970dc.mp3">
 Câu 3 điền <eng>congratulations</eng>. Câu nói: Gửi lời chúc mừng đến người thắng cuộc. <eng>Congratulations</eng> là danh từ, luôn có chữ s ở cuối. Khi chúc mừng ai, chúng ta nói <eng>Congratulations!</eng> với dấu chấm than.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_279ba7dc.mp3">
 Câu 4 điền <eng>sporty</eng>. Câu nói: David rất năng động, cậu ấy tập thể dục mỗi ngày. <eng>Sporty</eng> (tính từ) là người thích thể thao, năng động, khỏe mạnh. Người <eng>sporty</eng> thường tập thể dục thường xuyên và giỏi nhiều môn thể thao.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_411d337a.mp3">
 Câu 5 điền <eng>marathon</eng>. Câu nói: Cuộc đua đầu tiên diễn ra năm 1896. Đây là cuộc chạy <eng>marathon</eng> đầu tiên trong lịch sử Olympic hiện đại, tổ chức tại Athens, Hy Lạp. <eng>Marathon</eng> là cuộc chạy đường dài 42,195 km. Tên gọi xuất phát từ trận chiến Marathon năm 490 trước Công nguyên.
 </teacher_script>
 
@@ -291,11 +297,14 @@ Câu 5 điền <eng>marathon</eng>. Câu nói: Cuộc đua đầu tiên diễn r
 - **marathon** (n) = cuộc chạy đường dài 42,195 km
 </explanation>
 
+---
+
+<!-- chunk: correction_3 -->
 <teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
-<teacher_script pause="0" action="record">
+<teacher_script pause="0" action="record" href="audio/tts_2daad092.mp3">
 Nếu có thắc mắc, các em hãy nhấn nút thu âm bên dưới để hỏi thầy nhé.
 </teacher_script>
 
@@ -304,14 +313,14 @@ Nếu có thắc mắc, các em hãy nhấn nút thu âm bên dưới để hỏ
 <!-- chunk: pronunciation_intro -->
 ### PRONUNCIATION - /e/ và /æ/
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_575ed41b.mp3">
 Qua phần <eng>Pronunciation</eng> - Phát âm nha. Hôm nay học phân biệt hai âm /e/ và /æ/. Hai âm này dễ nhầm lắm đó.
 </teacher_script>
 
 ---
 
 <!-- chunk: pronunciation_theory -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_a84aa896.mp3">
 Đây là lý thuyết phát âm nè. Xem kỹ cách phát âm nha.
 </teacher_script>
 
@@ -336,11 +345,11 @@ Qua phần <eng>Pronunciation</eng> - Phát âm nha. Hôm nay học phân biệt
 | /æ/ | a | r**a**cket, m**a**tch, m**a**rathon |
 </pronunciation_theory>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_af0c0658.mp3">
 Mẹo ghi nhớ: Âm /e/ miệng mở hẹp, phát âm ngắn gọn. Âm /æ/ miệng mở rộng, phát âm lai giữa a và e.
 </teacher_script>
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_1dd8602e.mp3">
 Ghi lý thuyết vô vở đi. 1 phút nha.
 </teacher_script>
 
@@ -349,7 +358,7 @@ Ghi lý thuyết vô vở đi. 1 phút nha.
 <!-- chunk: exercise_4 -->
 ### Bài 4 trang 18 - Listen and repeat
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_d287c762.mp3">
 Bài 4 <eng>Listen and repeat</eng> nha. Nghe rồi lặp lại, chú ý phân biệt hai âm /e/ và /æ/ đi.
 </teacher_script>
 
@@ -372,18 +381,18 @@ Bài 4 <eng>Listen and repeat</eng> nha. Nghe rồi lặp lại, chú ý phân b
 | **contest** /ˈkɒntest/ | cuộc thi | **active** /ˈæktɪv/ | năng động |
 </questions>
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_174a8b2c.mp3">
 Nghe audio rồi đọc theo từng từ đi. 1 phút nha.
 </teacher_script>
 
 ---
 
 <!-- chunk: record_pronunciation -->
-<teacher_script pause="0" action="record">
+<teacher_script pause="0" action="record" href="audio/tts_01a3b50e.mp3">
 Các em hãy bấm nút Ghi âm để đọc lại và gửi cho thầy sửa. Hãy đọc cả hai cột để thầy nghe và góp ý nhé.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_b9f602c9.mp3">
 Sau khi ghi âm xong, các em hãy bấm tiếp tục để chuyển sang bài 5.
 </teacher_script>
 
@@ -392,7 +401,7 @@ Sau khi ghi âm xong, các em hãy bấm tiếp tục để chuyển sang bài 5
 <!-- chunk: exercise_5 -->
 ### Bài 5 trang 18 - Listen and underline
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_7a92ee0f.mp3">
 Bài 5 <eng>Listen and underline</eng> nha. Nghe rồi gạch chân các từ có chứa âm /e/ và /æ/ đi.
 </teacher_script>
 
@@ -428,14 +437,14 @@ Bài 5 <eng>Listen and underline</eng> nha. Nghe rồi gạch chân các từ c�
 *Ông của tôi đã già, nhưng ông ấy năng động.*
 </questions>
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_c0ae7883.mp3">
 Nghe audio rồi làm theo yêu cầu đi. 1 phút nha.
 </teacher_script>
 
 ---
 
 <!-- chunk: answer_5 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_a53c93d2.mp3">
 Ok đáp án nè. Liệt kê từ chứa từng âm để dễ theo dõi nha.
 </teacher_script>
 
@@ -472,10 +481,13 @@ Ok đáp án nè. Liệt kê từ chứa từng âm để dễ theo dõi nha.
 - grandpa, active → /æ/
 </explanation>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_d77223cd.mp3">
 Các em nhớ nhé: Chữ "a" thường được phát âm là /æ/, chữ "e" thường được phát âm là /e/. Tuy nhiên, cũng có nhiều trường hợp ngoại lệ nên các em cần học cách phát âm của từng từ nhé.
 </teacher_script>
 
+---
+
+<!-- chunk: correction_4 -->
 <teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
@@ -485,7 +497,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 <!-- chunk: additional_practice -->
 ### Bài tập thực hành bổ sung
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_aeab7ff3.mp3">
 Làm thêm bài tập thực hành để củng cố từ vựng và phát âm nha. Bài này quan trọng lắm đó!
 </teacher_script>
 
@@ -494,7 +506,7 @@ Làm thêm bài tập thực hành để củng cố từ vựng và phát âm n
 <!-- chunk: practice_1 -->
 ### Bài tập 1 - Vocabulary Practice
 
-<teacher_script pause="120">
+<teacher_script pause="120" href="audio/tts_46a74bad.mp3">
 Bài tập 1 nha. Chọn đáp án đúng để hoàn thành câu đi. 2 phút.
 </teacher_script>
 
@@ -553,30 +565,33 @@ Bài tập 1 nha. Chọn đáp án đúng để hoàn thành câu đi. 2 phút.
 **Đáp án:** 1.B | 2.A | 3.C | 4.A | 5.A | 6.B
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_079f42f0.mp3">
 Câu 1: <eng>racket</eng> - vợt. Chơi cầu lông phải dùng vợt chứ không phải bóng hay thuyền.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_070ec9bc.mp3">
 Câu 2: <eng>goggles</eng> - kính bơi. Khi bơi thì đeo kính bơi để bảo vệ mắt.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_7f7215ff.mp3">
 Câu 3: <eng>champion</eng> - nhà vô địch. Thắng cuộc thi thì trở thành nhà vô địch.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_4a794390.mp3">
 Câu 4: <eng>Congratulations</eng> - xin chúc mừng. Dùng để chúc mừng người thắng cuộc.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_53cbdb65.mp3">
 Câu 5: <eng>sporty</eng> - năng động, thích thể thao. Chơi thể thao mỗi ngày thì chắc chắn là người năng động rồi.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_12160144.mp3">
 Câu 6: <eng>ball</eng> - quả bóng. Bóng đá, bóng chuyền, bóng rổ đều dùng bóng.
 </teacher_script>
 
+---
+
+<!-- chunk: correction_5 -->
 <teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
@@ -586,7 +601,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 <!-- chunk: practice_2 -->
 ### Bài tập 2 - Pronunciation Practice
 
-<teacher_script pause="120">
+<teacher_script pause="120" href="audio/tts_8c7cae52.mp3">
 Bài tập 2 nè. Chọn từ có phát âm khác với các từ còn lại. Chú ý âm /e/ và /æ/ nha. 2 phút.
 </teacher_script>
 
@@ -633,34 +648,37 @@ Bài tập 2 nè. Chọn từ có phát âm khác với các từ còn lại. Ch
 **Đáp án:** 1.B | 2.C | 3.B | 4.C | 5.B | 6.B
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_1c1b9fbb.mp3">
 Câu 1: đáp án B - <eng>match</eng>. Từ này phát âm /æ/, còn lại là /e/.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_5399e7e5.mp3">
 Câu 2: đáp án C - <eng>exercise</eng>. Từ này phát âm /e/, còn lại là /æ/.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_a885b499.mp3">
 Câu 3: đáp án B - <eng>cannot</eng>. Từ này phát âm /æ/, còn lại là /e/.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_373e3208.mp3">
 Câu 4: đáp án C - <eng>ten</eng>. Từ này phát âm /e/, còn lại là /æ/.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_17c2034b.mp3">
 Câu 5: đáp án B - <eng>Saturday</eng>. Từ này phát âm /æ/, còn lại là /e/.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_ab041ccd.mp3">
 Câu 6: đáp án B - <eng>ball</eng>. Từ này phát âm /ɔː/ (âm "o" dài), khác hoàn toàn với /æ/.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_6812cae5.mp3">
 Mẹo nhớ: Chữ "a" thường phát âm là /æ/ như trong <eng>match, racket, active</eng>. Chữ "e" thường phát âm là /e/ như trong <eng>tennis, chess, exercise</eng>.
 </teacher_script>
 
+---
+
+<!-- chunk: correction_6 -->
 <teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
@@ -668,14 +686,14 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 ---
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_33f67ecf.mp3">
 Hết <eng>A Closer Look 1</eng> rồi nha. Về nhà luyện phát âm /e/ và /æ/ nhiều đi.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_273e3ea0.mp3">
 Lưu ý: Âm /e/ miệng mở hẹp như trong từ "chess", âm /æ/ miệng mở rộng như trong từ "match". Phát âm sai sẽ dẫn đến hiểu nhầm đó.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_004fb06d.mp3">
 Bài tiếp theo là <eng>A Closer Look 2</eng> về thì Quá khứ đơn. Hẹn gặp lại nha!
 </teacher_script>

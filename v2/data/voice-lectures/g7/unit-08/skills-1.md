@@ -99,6 +99,9 @@ Câu 4 nối với c. Gripping nghĩa là lôi cuốn, hấp dẫn, nên nối v
 4. **gripping** = c (lôi cuốn -> exciting or interesting)
 </explanation>
 
+---
+
+<!-- chunk: correction_1 -->
 <teacher_script pause="30" href="audio/tts_a5768ea7.webm">
 Sửa lỗi sai vô bài làm nếu có nha.
 </teacher_script>

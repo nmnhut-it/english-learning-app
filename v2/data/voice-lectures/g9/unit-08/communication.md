@@ -141,6 +141,9 @@ Bài 3 <eng>Read</eng> nha. Đọc về trải nghiệm du lịch của Nam, Agi
 Nam ở homestay bên biển, bơi và ăn hải sản ở Ninh Thuận. Agi ở khách sạn 3 sao, tham quan văn hóa và đi tàu trên sông Danube ở Budapest. Haruto ở phòng gác mái của nhà khách, tham quan di tích lịch sử ở Bắc Kinh.
 </teacher_script>
 
+---
+
+<!-- chunk: correction_1 -->
 <teacher_script pause="30" href="audio/tts_a5768ea7.mp3">
 Sửa lỗi sai vô bài làm nếu có nha.
 </teacher_script>

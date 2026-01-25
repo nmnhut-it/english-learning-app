@@ -99,6 +99,9 @@ Bài 1 <eng>Complete</eng> nha. Điền trạng từ tần suất phù hợp đi
 Câu 1: <eng>always</eng> - mẹ luôn luôn mua ở siêu thị. Câu 2: <eng>rarely</eng> - hiếm khi mua online. Câu 3: <eng>never</eng> - không bao giờ mặc cả ở siêu thị. Câu 4: <eng>often</eng> - thường xuyên. Câu 5: <eng>sometimes</eng> - thỉnh thoảng.
 </teacher_script>
 
+---
+
+<!-- chunk: correction_exercise_1 -->
 <teacher_script pause="30" href="audio/tts_a5768ea7.mp3">
 Sửa lỗi sai vô bài làm nếu có nha.
 </teacher_script>
@@ -158,6 +161,9 @@ Bài 3 nha. Xác định câu nào là lịch trình (A) hay quyết định cá
 Câu 2, 3, 4 chọn A - lịch trình. Câu 1, 5 chọn B - quyết định cá nhân.
 </teacher_script>
 
+---
+
+<!-- chunk: correction_exercise_3 -->
 <teacher_script pause="30" href="audio/tts_a5768ea7.mp3">
 Sửa lỗi sai vô bài làm nếu có nha.
 </teacher_script>
@@ -294,6 +300,9 @@ Câu 2 và 6: Trạng từ đứng sau động từ <eng>to be</eng>. <eng>She i
 Mẹo nhớ: Trạng từ tần suất đứng TRƯỚC động từ thường, SAU động từ to be.
 </teacher_script>
 
+---
+
+<!-- chunk: correction_practice_1 -->
 <teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
@@ -374,6 +383,9 @@ Câu 6: <eng>will go</eng> - dự định mua sắm, dùng tương lai đơn.
 Mẹo nhớ: Lịch trình cố định (giờ mở cửa, giờ xe, lịch sale) dùng hiện tại đơn. Quyết định cá nhân dùng tương lai đơn với <eng>will</eng>.
 </teacher_script>
 
+---
+
+<!-- chunk: correction_practice_2 -->
 <teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
@@ -454,6 +466,9 @@ Câu 6: <eng>never bargains</eng> - không bao giờ mặc cả, trạng từ đ
 Tóm lại: Trạng từ tần suất: <eng>always, usually, often, sometimes, rarely, never</eng>. Hiện tại đơn cho lịch trình cố định. Tương lai đơn cho kế hoạch cá nhân.
 </teacher_script>
 
+---
+
+<!-- chunk: correction_practice_3 -->
 <teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>

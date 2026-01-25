@@ -101,6 +101,9 @@ A. always | B. sometimes | C. rarely
 Câu 1: C - nhiều lý do. Câu 2: A - sờ sản phẩm. Câu 3: B - nhạc sống. Câu 4: B - khu vực sáng. Câu 5: A - year-round nghĩa là quanh năm, always.
 </teacher_script>
 
+---
+
+<!-- chunk: correction_2 -->
 <teacher_script pause="30" href="audio/tts_a5768ea7.mp3">
 Sửa lỗi sai vô bài làm nếu có nha.
 </teacher_script>
@@ -140,7 +143,10 @@ Bài 3 <eng>Fill in</eng> nha. Điền từ vô chỗ trống đi. 1 phút nha.
 Câu 1: sales - đợt giảm giá. Câu 2: try - try on là thử quần áo. Câu 3: entertainment - giải trí. Câu 4: decorations - trang trí. Câu 5: free - miễn phí nha.
 </teacher_script>
 
-<teacher_script pause="30">
+---
+
+<!-- chunk: correction_3 -->
+<teacher_script pause="30" href="audio/tts_a5768ea7.mp3">
 Sửa lỗi sai vô bài làm nếu có nha.
 </teacher_script>
 

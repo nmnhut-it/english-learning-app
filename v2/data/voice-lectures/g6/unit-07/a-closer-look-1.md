@@ -93,23 +93,23 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 **Đáp án:** 1. character | 2. educational programme | 3. comedy | 4. talent show | 5. viewer
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_b0090b20.webm">
 Câu 1 chọn <eng>character</eng>. Định nghĩa nói <eng>An animal or a person in a film</eng> - nghĩa là "một con vật hay một người trong phim". Đó chính là nhân vật. Ví dụ Tom và Jerry là các <eng>character</eng> trong phim hoạt hình đó. Nhớ nha: <eng>character</eng> = nhân vật.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_95a39496.webm">
 Câu 2 chọn <eng>educational programme</eng>. Định nghĩa nói <eng>A programme which teaches maths, English, etc</eng> - chương trình mà dạy toán, tiếng Anh. Đó là chương trình giáo dục. Từ <eng>teach</eng> là gợi ý quan trọng đó nha.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_c30e1a64.webm">
 Câu 3 chọn <eng>comedy</eng>. Định nghĩa nói <eng>A film which makes people laugh</eng> - phim làm mọi người cười. Cười = laugh = funny = hài kịch. Nhớ nha: <eng>comedy</eng> = phim hài.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_51c0917f.webm">
 Câu 4 chọn <eng>talent show</eng>. Định nghĩa nói <eng>A competition to choose the best performer</eng> - cuộc thi chọn người biểu diễn xuất sắc nhất. Đó chính là chương trình tài năng như The Voice, Vietnam's Got Talent á. Nhớ nha: <eng>talent show</eng> = thi tài năng.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_594538fa.webm">
 Câu 5 chọn <eng>viewer</eng>. Định nghĩa nói <eng>A person who watches TV</eng> - người mà xem TV. View = xem, viewer = người xem. Dễ nhớ lắm hen.
 </teacher_script>
 
@@ -125,7 +125,7 @@ Câu 5 chọn <eng>viewer</eng>. Định nghĩa nói <eng>A person who watches T
 | 5 | A person who watches TV | **viewer** | người xem |
 </explanation>
 
-<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
+<teacher_script pause="30" href="audio/tts_75ebc937.webm">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -183,27 +183,27 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 **Đáp án:** 1. channel | 2. character | 3. animated films | 4. game show | 5. comedies | 6. viewers
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_15ce380a.webm">
 Câu 1 chọn <eng>channel</eng>. <eng>Bibi, the popular channel for children</eng>. Bibi là tên một kênh truyền hình cho trẻ em. Các em biết kênh Bibi không? Toàn phim hoạt hình đó.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_d96c207d.webm">
 Câu 2 chọn <eng>character</eng>. <eng>Which character do you prefer: Jerry or Tom</eng>. Jerry là chuột, Tom là mèo - đó là các nhân vật trong phim Tom and Jerry. Nhớ nha: nhân vật = <eng>character</eng>.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_a46ec92c.webm">
 Câu 3 chọn <eng>animated films</eng>. <eng>I love animated films like Happy Feet and Coco</eng>. Happy Feet và Coco là phim hoạt hình nổi tiếng. <eng>Animated films</eng> = phim hoạt hình.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_e51921e4.webm">
 Câu 4 chọn <eng>game show</eng>. <eng>Children are Always Right, a game show for kids</eng>. Đây là trò chơi truyền hình, có người thi đấu trả lời câu hỏi á. <eng>Game show</eng> = trò chơi truyền hình.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_0b7882ec.webm">
 Câu 5 chọn <eng>comedies</eng>. <eng>My father watches comedies. They're so funny</eng>. Từ khóa là <eng>funny</eng> - vui, hài hước. Phim làm người ta cười là phim hài. Nhớ thêm "s" vì số nhiều nha: <eng>comedies</eng>.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_06675cca.webm">
 Câu 6 chọn <eng>viewers</eng>. <eng>A popular programme has a lot of viewers</eng>. Chương trình phổ biến thì nhiều người xem. <eng>Viewers</eng> = người xem, nhớ thêm "s" vì nhiều người.
 </teacher_script>
 
@@ -278,27 +278,27 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 **Đáp án:** 1. popular | 2. boring | 3. cute | 4. live | 5. funny | 6. educational
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_bee2e608.webm">
 Câu 1 chọn <eng>popular</eng>. <eng>The most popular channel for children</eng>. Từ <eng>the most</eng> là dấu hiệu so sánh nhất. Kênh nào được nhiều người xem nhất? Là kênh phổ biến nhất. <eng>Popular</eng> = phổ biến.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_ebe5389b.webm">
 Câu 2 chọn <eng>boring</eng>. <eng>This film is very boring. I don't want to watch it</eng>. Không muốn xem nghĩa là sao? Là nhàm chán, chán ngắt luôn. <eng>Boring</eng> = nhàm chán.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_b1efb0ef.webm">
 Câu 3 chọn <eng>cute</eng>. <eng>Cat Kitty is a very cute character. Children love her</eng>. Trẻ em thích = children love = phải là nhân vật dễ thương. <eng>Cute</eng> = dễ thương, đáng yêu.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_8cf7f891.webm">
 Câu 4 chọn <eng>live</eng>. <eng>You can watch at the same time it happens. It's live</eng>. Xem cùng lúc nó đang diễn ra = trực tiếp. Như xem bóng đá trực tiếp á. <eng>Live</eng> = trực tiếp. Nhớ đọc là /laɪv/ nha, không phải /lɪv/.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_0e2ac798.webm">
 Câu 5 chọn <eng>funny</eng>. <eng>Comedies are funny. People laugh a lot</eng>. Cười nhiều = laugh a lot = phim vui, hài hước. <eng>Funny</eng> = hài hước, vui.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_c027498b.webm">
 Câu 6 chọn <eng>educational</eng>. <eng>We learn a lot from Discovery Channel. This channel is educational</eng>. Học được nhiều = learn a lot = có tính giáo dục. <eng>Educational</eng> = mang tính giáo dục.
 </teacher_script>
 
@@ -408,7 +408,7 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 - **/ð/** thường trong: **th**e, **th**is, **th**at, **th**ey, **th**ose, wea**th**er, fa**th**er
 </vocabulary>
 
-<teacher_script pause="0" href="audio/tts_0742d811.mp3">
+<teacher_script pause="0" href="audio/tts_0742d811.webm">
 Mẹo hay nè: Mấy từ như <eng>the</eng>, <eng>this</eng>, <eng>that</eng>, <eng>they</eng> - toàn là mấy từ dùng hoài đó - thì đọc là /ð/ có rung cổ. Còn lại đa số là /θ/ không rung.
 </teacher_script>
 
@@ -504,7 +504,7 @@ Các em hãy ghi âm phần luyện tập của mình và gửi cho thầy nhé.
 <!-- chunk: additional_practice -->
 ### Bài tập thực hành bổ sung
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_4a7cf804.webm">
 Các em làm thêm bài tập thực hành để củng cố từ vựng và phát âm nha. Bài tập này rất quan trọng đó!
 </teacher_script>
 
@@ -513,7 +513,7 @@ Các em làm thêm bài tập thực hành để củng cố từ vựng và ph�
 <!-- chunk: practice_1 -->
 ### Bài tập 1 - Vocabulary Practice
 
-<teacher_script pause="120">
+<teacher_script pause="120" href="audio/tts_d61935ec.webm">
 Chúng ta cùng làm Bài tập 1. Các em hãy chọn đáp án đúng để hoàn thành câu. Các em có 2 phút.
 </teacher_script>
 
@@ -572,27 +572,27 @@ Chúng ta cùng làm Bài tập 1. Các em hãy chọn đáp án đúng để ho
 **Đáp án:** 1.B | 2.B | 3.C | 4.A | 5.B | 6.A
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_6f67bf8f.webm">
 Câu 1: <eng>funny</eng> - hài hước. Vì câu sau nói "makes me laugh" - làm tôi cười, nên chắc chắn là hài hước rồi.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_5e863bf0.webm">
 Câu 2: <eng>viewers</eng> - người xem. Chú ý: số nhiều vì "5 million" là nhiều người. Phải thêm "s" nha.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_6522da8d.webm">
 Câu 3: <eng>characters</eng> - nhân vật. Tom và Jerry là 2 nhân vật trong phim hoạt hình.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_ee48f37e.webm">
 Câu 4: <eng>educational</eng> - giáo dục. Vì học được tiếng Anh và Toán từ chương trình này.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_f7fe602a.webm">
 Câu 5: <eng>talent show</eng> - chương trình tài năng. Vietnam's Got Talent là để tìm người có tài năng.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_00431ff1.webm">
 Câu 6: <eng>channel</eng> - kênh truyền hình. Ví dụ: VTV3, HTV7 là các kênh.
 </teacher_script>
 
@@ -605,7 +605,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 <!-- chunk: practice_2 -->
 ### Bài tập 2 - Pronunciation Practice
 
-<teacher_script pause="120">
+<teacher_script pause="120" href="audio/tts_016bd7d5.webm">
 Bài tập 2, các em hãy chọn từ có cách phát âm khác với các từ còn lại. Chú ý âm /θ/ và /ð/ nha. Các em có 2 phút.
 </teacher_script>
 
@@ -652,31 +652,31 @@ Bài tập 2, các em hãy chọn từ có cách phát âm khác với các từ
 **Đáp án:** 1.B | 2.B | 3.B | 4.B | 5.B | 6.C
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_63b0bc72.webm">
 Câu 1: đáp án B - <eng>this</eng>. Từ này phát âm /ð/, còn lại là /θ/.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_d452e208.webm">
 Câu 2: đáp án B - <eng>three</eng>. Từ này phát âm /θ/, còn lại là /ð/.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_9a6ad4b9.webm">
 Câu 3: đáp án B - <eng>that</eng>. Từ này phát âm /ð/, còn lại là /θ/.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_774684ac.webm">
 Câu 4: đáp án B - <eng>through</eng>. Từ này phát âm /θ/, còn lại là /ð/.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_4fc9ea46.webm">
 Câu 5: đáp án B - <eng>weather</eng>. Từ này phát âm /ð/, còn lại là /θ/.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_3226dc27.webm">
 Câu 6: đáp án C - <eng>Thursday</eng>. Từ này phát âm /θ/, còn lại là /ð/. Nhớ nha: mấy từ như <eng>the, this, that, those, they</eng> là /ð/.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_a87b04cb.webm">
 Mẹo để nhớ: Mấy từ như <eng>the, this, that, they, those, them, than, there</eng> - toàn là từ dùng hoài - thì đọc /ð/ có rung cổ. Còn lại đa số là /θ/.
 </teacher_script>
 

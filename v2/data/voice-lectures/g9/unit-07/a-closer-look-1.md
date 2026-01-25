@@ -53,7 +53,7 @@ d. a perfect place
 e. to allow something
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_778f802f.mp3">
 Đã hết thời gian. Sau đây là đáp án đúng.
 </teacher_script>
 
@@ -93,7 +93,7 @@ Chúng ta cùng làm Bài 2 <eng>Complete the sentences</eng>. Các em hãy đi�
 5. Visitors can _______ the cave by boat.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_778f802f.mp3">
 Đã hết thời gian. Sau đây là đáp án đúng.
 </teacher_script>
 

@@ -584,7 +584,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 ---
 
 <!-- chunk: grammar_conjunctions_intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_97cf90ce.mp3">
 Bây giờ chúng ta sẽ học về liên từ: and, but, so.
 </teacher_script>
 
@@ -964,7 +964,7 @@ Các em làm thêm bài tập thực hành để củng cố ngữ pháp nha. B�
 <!-- chunk: practice_1 -->
 ### Bài tập 1 - WH-Questions Practice
 
-<teacher_script pause="120">
+<teacher_script pause="120" href="audio/tts_4c339d9d.mp3">
 Chúng ta cùng làm Bài tập 1. Các em hãy chọn từ hỏi đúng để hoàn thành câu. Các em có 2 phút.
 </teacher_script>
 
@@ -1016,23 +1016,23 @@ Chúng ta cùng làm Bài tập 1. Các em hãy chọn từ hỏi đúng để h
 **Đáp án:** 1.B | 2.A | 3.B | 4.C | 5.A
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_47e4e501.mp3">
 Câu 1: <eng>How</eng> - như thế nào. Trả lời là "By bike" - bằng cách nào đi học.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_3e7b97d5.mp3">
 Câu 2: <eng>When</eng> - khi nào. Trả lời là "On May 5th" - ngày tháng, thời gian.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_de724f9a.mp3">
 Câu 3: <eng>Who</eng> - ai. Trả lời là "Minh" - tên người.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_17376ca0.mp3">
 Câu 4: <eng>How many</eng> - bao nhiêu. Trả lời là "50 channels" - số lượng.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_eb6038bc.mp3">
 Câu 5: <eng>How often</eng> - thường xuyên thế nào. Trả lời là "Every day" - tần suất.
 </teacher_script>
 
@@ -1045,7 +1045,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 <!-- chunk: practice_2 -->
 ### Bài tập 2 - Conjunctions Practice
 
-<teacher_script pause="180">
+<teacher_script pause="180" href="audio/tts_8434748d.mp3">
 Bài tập 2, các em hãy hoàn thành câu với <eng>and</eng>, <eng>but</eng> hoặc <eng>so</eng>. Các em có 3 phút.
 </teacher_script>
 
@@ -1094,35 +1094,35 @@ Bài tập 2, các em hãy hoàn thành câu với <eng>and</eng>, <eng>but</eng
 **Đáp án:** 1. so | 2. but | 3. and | 4. so | 5. but | 6. and | 7. so | 8. and
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_3aca774a.mp3">
 Câu 1: <eng>so</eng> - Đói là nguyên nhân, ăn là kết quả.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_972bff3e.mp3">
 Câu 2: <eng>but</eng> - Thích và không thích là đối lập nhau.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_11121a07.mp3">
 Câu 3: <eng>and</eng> - Hai ý tích cực, bổ sung cho nhau: thú vị VÀ nổi tiếng.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_ca2aec4c.mp3">
 Câu 4: <eng>so</eng> - Mưa là nguyên nhân, ở nhà là kết quả.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_73ca0c37.mp3">
 Câu 5: <eng>but</eng> - Can và can't là đối lập: có thể hát NHƯNG không thể nhảy.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_2b906f14.mp3">
 Câu 6: <eng>and</eng> - Hai tính từ tích cực: thông minh VÀ tốt bụng.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_2c95e60c.mp3">
 Câu 7: <eng>so</eng> - Khó là nguyên nhân, không hoàn thành được là kết quả.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_89bf03ae.mp3">
 Câu 8: <eng>and</eng> - Hai hành động liên tiếp: đến công viên VÀ chơi bóng.
 </teacher_script>
 
@@ -1135,7 +1135,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 <!-- chunk: practice_3 -->
 ### Bài tập 3 - Mixed Practice
 
-<teacher_script pause="120">
+<teacher_script pause="120" href="audio/tts_26b2f1fd.mp3">
 Bài tập cuối cùng kết hợp cả hai phần. Các em hãy chọn đáp án đúng. Các em có 2 phút.
 </teacher_script>
 
@@ -1194,27 +1194,27 @@ Bài tập cuối cùng kết hợp cả hai phần. Các em hãy chọn đáp �
 **Đáp án:** 1.A | 2.A | 3.B | 4.C | 5.A | 6.B
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_6c867a49.mp3">
 Câu 1: <eng>What</eng> - Hỏi về sự vật, chương trình là sự vật.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_18bf082c.mp3">
 Câu 2: <eng>and</eng> - Cả hai cùng thích, hai ý cùng chiều.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_0f4bb3eb.mp3">
 Câu 3: <eng>Where</eng> - Hỏi về nơi chốn, địa điểm.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_1ab0d598.mp3">
 Câu 4: <eng>so</eng> - Nhàm chán là nguyên nhân, tắt TV là kết quả.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_3938f48a.mp3">
 Câu 5: <eng>Why</eng> - Hỏi lý do, câu trả lời có "Because" - vì.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_a50e73be.mp3">
 Câu 6: <eng>but</eng> - Học sinh giỏi nhưng quên bài tập - hai ý đối lập.
 </teacher_script>
 

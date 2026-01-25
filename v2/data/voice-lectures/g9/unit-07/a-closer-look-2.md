@@ -73,7 +73,7 @@ Chúng ta cùng làm Bài 1. Các em hãy viết lại các câu hỏi sau sang 
 -> Ba asked Mai ________________________________.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_778f802f.mp3">
 Đã hết thời gian. Sau đây là đáp án đúng.
 </teacher_script>
 
@@ -125,7 +125,7 @@ A. weather | B. whether | C. where
 A. went | B. go | C. had gone
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_778f802f.mp3">
 Đã hết thời gian. Sau đây là đáp án đúng.
 </teacher_script>
 

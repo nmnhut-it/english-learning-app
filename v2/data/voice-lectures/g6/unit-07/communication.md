@@ -175,7 +175,7 @@ Chúng ta cùng chuyển sang Bài 2 <eng>Work in pairs</eng>. Hãy làm việc 
 **Yêu cầu:** Dùng cấu trúc vừa học để hỏi đáp về chương trình TV yêu thích của mình.
 </task>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_4ac20385.mp3">
 Các em hãy dùng cấu trúc: <eng>What's your favourite TV programme? Why do you like it?</eng> - Thay đổi tên chương trình và lý do theo ý của mình nhé.
 </teacher_script>
 
@@ -244,14 +244,14 @@ A hỏi tiếp: <eng>Why do you like it?</eng>
 B trả lời: <eng>Because I want to practise Maths and English more after school.</eng>
 </teacher_script>
 
-<teacher_script pause="120">
+<teacher_script pause="120" href="audio/tts_cd9752ef.mp3">
 Bây giờ các em hãy viết hội thoại của mình vào vở. Các em có 2 phút.
 </teacher_script>
 
 ---
 
 <!-- chunk: exercise_2_record -->
-<teacher_script pause="0" action="record">
+<teacher_script pause="0" action="record" href="audio/tts_257f2150.mp3">
 Các em hãy bấm nút Ghi âm để đọc hội thoại của mình và gửi cho thầy sửa nhé.
 </teacher_script>
 
@@ -384,7 +384,7 @@ Các em hãy đọc đoạn 1 về chương trình <eng>Let's Learn</eng>.
 ---
 
 <!-- chunk: exercise_4_reading_2 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_105782e6.mp3">
 Các em hãy đọc đoạn 2 về chương trình <eng>Hello Fatty</eng>.
 </teacher_script>
 
@@ -406,14 +406,14 @@ Các em hãy đọc đoạn 2 về chương trình <eng>Hello Fatty</eng>.
 Chúng đi đến nhiều nơi cùng nhau. Trẻ em trên thế giới thích chương trình này.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_0ac01449.mp3">
 <eng>It's funny and educational.</eng> - Nó vừa vui vừa có tính giáo dục.
 </teacher_script>
 
 ---
 
 <!-- chunk: exercise_4_table -->
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_08525924.mp3">
 Bây giờ các em hãy đánh dấu vào bảng. Có thể chọn cả 2 nếu đúng cho cả 2 chương trình. Các em có 1 phút.
 </teacher_script>
 
@@ -496,7 +496,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 <!-- chunk: exercise_5 -->
 ### Bài 5 trang 11 - Tell your group
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_c9a9da1c.mp3">
 Chúng ta cùng làm Bài 5 <eng>Tell your group</eng>. Hãy nói với nhóm em thích chương trình nào hơn và tại sao.
 </teacher_script>
 
@@ -518,14 +518,14 @@ Chúng ta cùng làm Bài 5 <eng>Tell your group</eng>. Hãy nói với nhóm em
 **Prefer** = thích hơn (so sánh 2 thứ)
 </grammar>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_1e2282ac.mp3">
 Dùng cấu trúc: <eng>I like... because... I prefer... because...</eng> - <eng>Prefer</eng> nghĩa là thích hơn - dùng khi so sánh 2 thứ.
 </teacher_script>
 
 ---
 
 <!-- chunk: exercise_5_samples -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_00aba1ba.mp3">
 Đây là các mẫu câu tham khảo.
 </teacher_script>
 
@@ -554,18 +554,18 @@ Mẫu 3: <eng>I like Let's Learn because it makes learning fun.</eng>
 Mẫu 4: <eng>I prefer Hello Fatty because I love the clever fox Fatty.</eng>
 </teacher_script>
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_62bd32da.mp3">
 Bây giờ các em hãy viết câu của mình vào vở. Các em có 1 phút.
 </teacher_script>
 
 ---
 
 <!-- chunk: exercise_5_record -->
-<teacher_script pause="0" action="record">
+<teacher_script pause="0" action="record" href="audio/tts_97c82eab.mp3">
 Các em hãy bấm nút Ghi âm để nói câu của mình và gửi cho thầy sửa nhé.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_e8185cc9.mp3">
 Các em hãy nói theo cấu trúc: <eng>I like... because... I prefer... because...</eng>
 </teacher_script>
 
@@ -576,7 +576,7 @@ Khi nào ghi âm xong thì bấm tiếp tục nhé.
 ---
 
 <!-- chunk: summary -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_281f751e.mp3">
 Chúng ta cùng tóm tắt bài học <eng>Communication</eng>.
 </teacher_script>
 
@@ -615,7 +615,7 @@ Chúng ta cùng tóm tắt bài học <eng>Communication</eng>.
 - **I prefer** + programme + **because** + reason
 </grammar>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_ce62a6d4.mp3">
 Thầy tóm tắt lại bài học. Hỏi chương trình yêu thích: <eng>What's your favourite TV programme?</eng>
 </teacher_script>
 
@@ -631,7 +631,7 @@ Trả lời lý do: <eng>Because...</eng>
 Nói sở thích: <eng>I like... because... I prefer... because...</eng>
 </teacher_script>
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_fd621e39.mp3">
 Các em hãy ghi chú lại tóm tắt này vào vở. Các em có 1 phút.
 </teacher_script>
 

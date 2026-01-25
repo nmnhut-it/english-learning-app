@@ -3,11 +3,11 @@
 ## GETTING STARTED - At the gym
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_558d82cb.mp3">
 Ok lớp 6, Unit 8 nha. Mở sách trang 16 đi. Chủ đề hôm nay là <eng>Sports and Games</eng> - Thể thao và Trò chơi. Nghe hay hen!
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_65283993.mp3">
 Bài đầu tiên là <eng>Getting Started</eng> với tựa đề <eng>At the gym</eng> - Ở phòng tập á. Ghi tựa bài vô vở rồi bấm nút "Bắt đầu" để học từ vựng nha.
 </teacher_script>
 
@@ -38,7 +38,7 @@ Bài đầu tiên là <eng>Getting Started</eng> với tựa đề <eng>At the g
 <!-- chunk: exercise_1 -->
 ### Bài 1 trang 16 - Listen and read
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_1d130d54.mp3">
 Bài 1 <eng>Listen and read</eng> nha. Đây là hội thoại giữa Dương và Mai tại phòng tập gym. Nghe đi rồi đọc theo luôn.
 </teacher_script>
 
@@ -61,14 +61,14 @@ Bài 1 <eng>Listen and read</eng> nha. Đây là hội thoại giữa Dương v�
 **Mai:** OK. See you then.
 </dialogue>
 
-<teacher_script pause="180">
+<teacher_script pause="180" href="audio/tts_ec260718.mp3">
 Dịch hội thoại vô vở đi. 3 phút nha.
 </teacher_script>
 
 ---
 
 <!-- chunk: translation -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_bb446bc3.mp3">
 Ok đây là bản dịch tham khảo nè. So với bài dịch của mình xem đúng chưa nha.
 </teacher_script>
 
@@ -87,7 +87,7 @@ Ok đây là bản dịch tham khảo nè. So với bài dịch của mình xem 
 **Mai:** Được. Hẹn gặp lại.
 </translation>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_969c993e.mp3">
 Các em hãy sửa lại nếu có chỗ nào chưa đúng nhé.
 </teacher_script>
 
@@ -96,7 +96,7 @@ Các em hãy sửa lại nếu có chỗ nào chưa đúng nhé.
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 17 - Put a word from the conversation in each gap
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_2400ad87.mp3">
 Bài 2 <eng>Put a word from the conversation in each gap</eng> nè. Đọc lại hội thoại rồi điền từ vô chỗ trống đi. 1 phút nha.
 </teacher_script>
 
@@ -131,7 +131,7 @@ Bài 2 <eng>Put a word from the conversation in each gap</eng> nè. Đọc lại
 ---
 
 <!-- chunk: answer_2 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_778f802f.mp3">
 Đã hết thời gian. Sau đây là đáp án đúng.
 </teacher_script>
 
@@ -139,23 +139,23 @@ Bài 2 <eng>Put a word from the conversation in each gap</eng> nè. Đọc lại
 **Đáp án:** 1. fit | 2. gym | 3. table tennis | 4. Club | 5. cycle
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_e751c427.mp3">
 Câu 1 điền <eng>fit</eng>. Trong hội thoại, Mai nói với Dương: <eng>You look fit!</eng> - Bạn trông khỏe mạnh quá! Vậy là Dương trông khỏe mạnh nha. <eng>Look fit</eng> nghĩa là trông khỏe, trông cường tráng. Người tập thể thao thường xuyên sẽ look fit.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_106f9be2.mp3">
 Câu 2 điền <eng>gym</eng>. Ngay câu đầu tiên của hội thoại, Dương nói: <eng>Wow! This gym is big!</eng> - Chà! Phòng tập này to quá! Vậy là hai bạn đang ở phòng tập gym. Mai thích đến gym vì thiết bị ở đó rất tốt nha.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_0c42708d.mp3">
 Câu 3 điền <eng>table tennis</eng>. Dương nói: <eng>I play table tennis. Yesterday I played with Duy, and I won!</eng> - Mình chơi bóng bàn. Hôm qua mình chơi với Duy và mình đã thắng! Rõ ràng luôn, Dương chơi bóng bàn với Duy và thắng nữa.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_13c744ab.webm">
 Câu 4 điền <eng>Club</eng>. Dương nói địa chỉ câu lạc bộ: <eng>It's Superfit Club, in Pham Hung Road</eng>. Tên đầy đủ là Superfit Club - Câu lạc bộ Superfit. Đừng quên viết hoa chữ C nha vì đây là tên riêng.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_aea1bee4.webm">
 Câu 5 điền <eng>cycle</eng>. Dương nói: <eng>You can cycle there</eng> - Bạn có thể đạp xe đến đó. <eng>Cycle</eng> là động từ, nghĩa là đạp xe. Mẹo nhớ: <eng>cycle</eng> (động từ) = đạp xe, <eng>cycling</eng> (danh từ) = môn đạp xe. Ví dụ: I cycle to school - Tôi đạp xe đến trường. I like cycling - Tôi thích môn đạp xe.
 </teacher_script>
 
@@ -175,6 +175,9 @@ Câu 5 điền <eng>cycle</eng>. Dương nói: <eng>You can cycle there</eng> - 
 - **cycling** (danh từ) = môn đạp xe
 </explanation>
 
+---
+
+<!-- chunk: correction_1 -->
 <teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
@@ -184,7 +187,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 <!-- chunk: exercise_3 -->
 ### Bài 3 trang 17 - Name these sports and games
 
-<teacher_script pause="45">
+<teacher_script pause="45" href="audio/tts_f3167c2a.mp3">
 Bài 3 <eng>Name these sports and games</eng> nha. Nhìn tranh rồi chọn từ trong khung điền tên các môn thể thao đi. 45 giây thôi.
 </teacher_script>
 
@@ -218,27 +221,27 @@ Sau đây là đáp án.
 **Đáp án:** 1. cycling | 2. aerobics | 3. table tennis | 4. swimming | 5. chess | 6. volleyball
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_8e0ba8f5.webm">
 Tranh 1 là <eng>cycling</eng> - đạp xe. Hình người đang đạp xe đạp á. <eng>Cycling</eng> là danh từ chỉ môn thể thao đạp xe. Nhớ viết đuôi -ing nha.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_5fff6098.webm">
 Tranh 2 là <eng>aerobics</eng> - thể dục nhịp điệu. Hình người đang nhảy múa theo nhạc đó. <eng>Aerobics</eng> luôn có chữ s ở cuối, giống như <eng>mathematics</eng> hay <eng>physics</eng> vậy.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_554da47e.webm">
 Tranh 3 là <eng>table tennis</eng> - bóng bàn. Hình người đang chơi bóng bàn trên bàn. <eng>Table tennis</eng> là 2 từ nha, không viết liền. Cũng có thể gọi là <eng>ping pong</eng>.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_058d8c5f.webm">
 Tranh 4 là <eng>swimming</eng> - bơi lội. Hình người đang bơi dưới nước. <eng>Swimming</eng> cũng có đuôi -ing như cycling vậy.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_fc1426c3.webm">
 Tranh 5 là <eng>chess</eng> - cờ vua. Hình bàn cờ với các quân cờ. <eng>Chess</eng> viết với 2 chữ s nha. Đây là trò chơi trí tuệ rất hay.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_d71685bb.webm">
 Tranh 6 là <eng>volleyball</eng> - bóng chuyền. Hình người đang đánh bóng qua lưới. <eng>Volleyball</eng> viết liền thành 1 từ, khác với table tennis viết thành 2 từ đó.
 </teacher_script>
 
@@ -255,11 +258,11 @@ Tranh 6 là <eng>volleyball</eng> - bóng chuyền. Hình người đang đánh 
 | **volleyball** | bóng chuyền | /ˈvɒlibɔːl/ |
 </vocabulary>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_93404526.webm">
 Mẹo nhớ: Các môn có đuôi -ing thường là môn di chuyển (cycling, swimming, running). Các môn có <eng>ball</eng> thường viết liền (volleyball, football, basketball). Còn table tennis viết rời vì có chữ table nha.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_9a904c14.mp3">
 Các em hãy kiểm tra và sửa bài nhé.
 </teacher_script>
 
@@ -268,7 +271,7 @@ Các em hãy kiểm tra và sửa bài nhé.
 <!-- chunk: exercise_4 -->
 ### Bài 4 trang 17 - Work in pairs
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_c8db7da2.webm">
 Bài 4 <eng>Work in pairs</eng> nha. Làm theo cặp, hỏi đáp xem mình có thích thể thao không đi.
 </teacher_script>
 
@@ -294,18 +297,18 @@ Bài 4 <eng>Work in pairs</eng> nha. Làm theo cặp, hỏi đáp xem mình có 
 - Mostly **B** → Do more sport! (Hãy chơi thể thao nhiều hơn!)
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_755a231f.webm">
 Đây là bài luyện nói. Các em hãy ghi âm câu trả lời cho 5 câu hỏi bằng tiếng Anh.
 </teacher_script>
 
-<teacher_script pause="0" action="record">
+<teacher_script pause="0" action="record" href="audio/tts_01386c55.webm">
 Các em hãy bấm nút Ghi âm để thực hiện bài nói và gửi cho thầy nhé.
 </teacher_script>
 
 ---
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_6cbd1157.webm">
 Hết bài rồi nha. Về nhà học thuộc từ vựng về thể thao và nhớ phân biệt <eng>do</eng>, <eng>play</eng> với <eng>sports</eng> đó.
 </teacher_script>
 
@@ -319,10 +322,10 @@ Hết bài rồi nha. Về nhà học thuộc từ vựng về thể thao và nh
 | **GO** | Môn có -ing | go swimming, go cycling, go fishing |
 </grammar>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_f967d002.webm">
 Mẹo nhớ: <eng>DO</eng> dùng cho những môn tập cá nhân như võ, yoga. <eng>PLAY</eng> dùng cho những môn có tính đồng đội, đối kháng hoặc dùng bóng, bàn cờ. <eng>GO</eng> dùng cho những môn có đuôi -ing mà phải di chuyển.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_229393b6.webm">
 Bài tiếp theo là <eng>A Closer Look 1</eng>. Hẹn gặp lại nha!
 </teacher_script>

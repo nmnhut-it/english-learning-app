@@ -3,11 +3,11 @@
 ## LOOKING BACK - Review
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_4a48bf21.webm">
 Ok lớp 6, <eng>Looking Back</eng> nha. Mở sách trang 24 đi. Ôn tập toàn bộ kiến thức Unit 8 luôn.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_2934a530.webm">
 Bài này giúp củng cố từ vựng và ngữ pháp đã học. Làm bài rồi xem mình còn sai sót ở đâu nha. Cố gắng lên!
 </teacher_script>
 
@@ -18,7 +18,7 @@ Bài này giúp củng cố từ vựng và ngữ pháp đã học. Làm bài r�
 
 ### Bài 1 trang 24 - Find one odd word
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_9a96ecf1.webm">
 Bài 1 <eng>Find one odd word</eng> nha. Tìm một từ không cùng nhóm trong mỗi câu đi. 1 phút. Nhớ tìm điểm chung của 2-3 từ rồi loại từ còn lại.
 </teacher_script>
 
@@ -43,7 +43,7 @@ Bài 1 <eng>Find one odd word</eng> nha. Tìm một từ không cùng nhóm tron
 ---
 
 <!-- chunk: answer_1 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_778f802f.webm">
 Đã hết thời gian. Sau đây là đáp án đúng.
 </teacher_script>
 
@@ -51,23 +51,23 @@ Bài 1 <eng>Find one odd word</eng> nha. Tìm một từ không cùng nhóm tron
 **Đáp án:** 1.C | 2.A | 3.C | 4.B | 5.B
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_19cd179f.webm">
 Câu 1 chọn C - <eng>bicycle</eng>. <eng>Volleyball</eng> và <eng>badminton</eng> đều là môn thể thao. Còn <eng>bicycle</eng> (xe đạp) là phương tiện đi lại, không phải môn thể thao. Chú ý: môn thể thao đạp xe gọi là <eng>cycling</eng>, còn <eng>bicycle</eng> là cái xe.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_998fa94b.webm">
 Câu 2 chọn A - <eng>playground</eng>. <eng>Ball</eng> (bóng) và <eng>racket</eng> (vợt) là dụng cụ thể thao. Còn <eng>playground</eng> (sân chơi) là địa điểm, nơi chốn. Một cái là vật, một cái là chỗ, khác nhau hoàn toàn nha.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_150fbd02.webm">
 Câu 3 chọn C - <eng>driving</eng>. <eng>Running</eng> (chạy) và <eng>cycling</eng> (đạp xe) là các môn thể thao. Còn <eng>driving</eng> (lái xe) là hoạt động bình thường hàng ngày, không phải thể thao. Ai cũng lái xe để đi làm đi học, nhưng không ai gọi đó là chơi thể thao.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_75201949.webm">
 Câu 4 chọn B - <eng>winter sports</eng>. <eng>Sports shoes</eng> (giày thể thao) và <eng>goggles</eng> (kính bơi) là dụng cụ thể thao cụ thể. Còn <eng>winter sports</eng> (thể thao mùa đông) là TÊN NHÓM các môn thể thao, không phải dụng cụ. Ví dụ winter sports gồm: trượt tuyết, trượt băng, hockey.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_28c0d840.webm">
 Câu 5 chọn B - <eng>intelligent</eng>. <eng>Sporty</eng> (năng động) và <eng>fit</eng> (khỏe mạnh) đều liên quan đến thể thao và sức khỏe. Còn <eng>intelligent</eng> (thông minh) liên quan đến trí tuệ, học hành. Một người có thể vừa intelligent vừa sporty, nhưng 2 từ này thuộc 2 lĩnh vực khác nhau.
 </teacher_script>
 
@@ -85,7 +85,10 @@ Câu 5 chọn B - <eng>intelligent</eng>. <eng>Sporty</eng> (năng động) và 
 **Mẹo:** Tìm điểm chung của 2 từ, từ còn lại khác biệt chính là đáp án.
 </explanation>
 
-<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
+---
+
+<!-- chunk: correction_1 -->
+<teacher_script pause="30" href="audio/tts_75ebc937.webm">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -94,7 +97,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 24 - DO / PLAY / GO
 
-<teacher_script pause="90">
+<teacher_script pause="90" href="audio/tts_007a3a91.webm">
 Bài 2 <eng>Put the correct form of the verbs</eng> nha. Điền <eng>play, do</eng> hoặc <eng>go</eng> ở dạng đúng vô chỗ trống đi. 1 phút 30 giây. Nhớ quy tắc DO/PLAY/GO nha!
 </teacher_script>
 
@@ -131,7 +134,7 @@ Bài 2 <eng>Put the correct form of the verbs</eng> nha. Điền <eng>play, do</
 ---
 
 <!-- chunk: answer_2 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_778f802f.mp3">
 Đã hết thời gian. Sau đây là đáp án đúng.
 </teacher_script>
 
@@ -139,27 +142,27 @@ Bài 2 <eng>Put the correct form of the verbs</eng> nha. Điền <eng>play, do</
 **Đáp án:** 1. do | 2. is playing | 3. goes | 4. went | 5. played | 6. are doing
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_229587b4.webm">
 Câu 1 điền <eng>do</eng>. Sau <eng>can</eng> luôn là động từ nguyên mẫu. <eng>Can do karate</eng> - có thể tập karate. Nhớ: karate thuộc nhóm dùng với <eng>DO</eng> (do karate, do judo, do taekwondo).
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_2e2f2247.webm">
 Câu 2 điền <eng>is playing</eng>. Có từ <eng>now</eng> (bây giờ) nên dùng thì hiện tại tiếp diễn. Cấu trúc: is/am/are + V-ing. Table tennis thuộc nhóm dùng <eng>PLAY</eng> (play table tennis, play tennis, play badminton).
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_740c0981.webm">
 Câu 3 điền <eng>goes</eng>. Có <eng>nearly every day</eng> (gần như mỗi ngày) nên dùng hiện tại đơn. Michael là he nên động từ thêm s: goes. Swimming thuộc nhóm dùng <eng>GO</eng> (go swimming, go fishing, go cycling).
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_c2968cad.webm">
 Câu 4 điền <eng>went</eng>. Có <eng>yesterday</eng> (hôm qua) nên dùng quá khứ đơn. Fishing (câu cá) dùng với <eng>GO</eng>. Quá khứ của go là went. Vậy là <eng>went fishing</eng> - đã đi câu cá. Các em chú ý: KHÔNG BAO GIỜ nói "played fishing" hay "did fishing" nha.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_2a487487.webm">
 Câu 5 điền <eng>played</eng>. Có <eng>last Saturday</eng> (thứ Bảy tuần trước) nên dùng quá khứ đơn. Volleyball dùng với <eng>PLAY</eng>. Quá khứ của play là played (thêm -ed).
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_8ae5f2dd.webm">
 Câu 6 điền <eng>are doing</eng>. Có <eng>now</eng> (bây giờ) nên dùng hiện tại tiếp diễn. The girls là they nên dùng are. Aerobics dùng với <eng>DO</eng>. Vậy là <eng>are doing aerobics</eng> - đang tập aerobics.
 </teacher_script>
 
@@ -178,6 +181,9 @@ Câu 6 điền <eng>are doing</eng>. Có <eng>now</eng> (bây giờ) nên dùng 
 **Nhớ:** karate, aerobics → **DO** | volleyball, table tennis → **PLAY** | swimming, fishing → **GO**
 </explanation>
 
+---
+
+<!-- chunk: correction_2 -->
 <teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
@@ -189,7 +195,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 
 ### Bài 3 trang 24 - Past simple
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_673a87f0.webm">
 Bài 3 <eng>Put the verbs in brackets in the correct form</eng> nha. Chia động từ trong ngoặc ở thì quá khứ đơn đi. 1 phút. Nhớ dấu hiệu nhận biết quá khứ đơn: yesterday, last, ago...
 </teacher_script>
 
@@ -213,7 +219,7 @@ Bài 3 <eng>Put the verbs in brackets in the correct form</eng> nha. Chia độn
 ---
 
 <!-- chunk: answer_3 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_778f802f.mp3">
 Đã hết thời gian. Sau đây là đáp án đúng.
 </teacher_script>
 
@@ -238,10 +244,13 @@ Bài 3 <eng>Put the verbs in brackets in the correct form</eng> nha. Chia độn
 | 4 | watch | **watched** | Quy tắc (+ed) |
 </explanation>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_edc1e026.webm">
 Thế vận hội Olympic mùa hè đầu tiên <eng>took place</eng> diễn ra vào năm 776 trước Công nguyên tại Hy Lạp cổ đại. Các em nhớ sự kiện này nhé.
 </teacher_script>
 
+---
+
+<!-- chunk: correction_3 -->
 <teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
@@ -251,7 +260,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 <!-- chunk: exercise_4 -->
 ### Bài 4 trang 24 - Imperatives
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_02c4994e.webm">
 Bài 4 <eng>What do you say in these situations?</eng> nha. Nói gì trong các tình huống này? Dùng câu mệnh lệnh đi. 1 phút. Nhớ: muốn làm gì = V0, không muốn = Don't + V0.
 </teacher_script>
 
@@ -291,7 +300,7 @@ Bài 4 <eng>What do you say in these situations?</eng> nha. Nói gì trong các 
 ---
 
 <!-- chunk: answer_4 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_c39aacc3.mp3">
 Đã hết thời gian. Sau đây là đáp án gợi ý.
 </teacher_script>
 
@@ -318,6 +327,9 @@ Bài 4 <eng>What do you say in these situations?</eng> nha. Nói gì trong các 
 **Nhớ:** Câu mệnh lệnh bắt đầu bằng động từ nguyên mẫu. Cấm = **Don't** + V
 </explanation>
 
+---
+
+<!-- chunk: correction_4 -->
 <teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
@@ -327,7 +339,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 <!-- chunk: exercise_5 -->
 ### Bài 5 trang 24 - Fill in the passage
 
-<teacher_script pause="90">
+<teacher_script pause="90" href="audio/tts_0d4a6ed6.webm">
 Bài 5 <eng>Fill in the passage</eng> nha. Điền một từ thích hợp vô mỗi chỗ trống để hoàn thành đoạn văn đi. 1 phút 30 giây. Đọc kỹ ngữ cảnh rồi chọn từ phù hợp nha.
 </teacher_script>
 
@@ -343,7 +355,7 @@ Sports and games are very important in our lives. We all can (1) _______ a sport
 ---
 
 <!-- chunk: answer_5 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_778f802f.mp3">
 Đã hết thời gian. Sau đây là đáp án đúng.
 </teacher_script>
 
@@ -369,6 +381,9 @@ Sports and games are very important in our lives. We all can (1) _______ a sport
 Thể thao và trò chơi rất quan trọng trong cuộc sống của chúng ta. Tất cả chúng ta có thể **chơi** một môn thể thao, hoặc một trò chơi, hoặc xem các sự kiện thể thao trên TV hoặc tại sân vận động. Khi bạn nghe đài hàng ngày, bạn luôn có thể **nghe** tin tức thể thao. Khi bạn mở một tờ báo, bạn sẽ luôn tìm thấy một bài báo về loại trò chơi **yêu thích** của bạn. Các chương trình truyền hình về **thể thao** cũng rất phổ biến và bạn có thể xem nội dung thú vị mỗi ngày. Những câu chuyện về các ngôi sao thể thao **nổi tiếng** thường rất thú vị.
 </translation>
 
+---
+
+<!-- chunk: correction_5 -->
 <teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
@@ -376,7 +391,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 ---
 
 <!-- chunk: summary -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_3c178091.webm">
 Ok tóm tắt lại kiến thức Unit 8 nha. Ghi nhớ phần này để thi nhé!
 </teacher_script>
 
@@ -411,14 +426,14 @@ Ok tóm tắt lại kiến thức Unit 8 nha. Ghi nhớ phần này để thi nh
 ---
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_978ca0f3.webm">
 Hết bài rồi nha. Chúc mừng các em đã hoàn thành Unit 8! Nhớ ôn tập lại để chuẩn bị kiểm tra nha.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_33bb4ac4.webm">
 Nhớ học thuộc: DO karate, PLAY volleyball, GO swimming. Và động từ bất quy tắc: go-went, take-took, win-won nha!
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_40dc7249.webm">
 Hẹn gặp lại ở bài tiếp theo nha!
 </teacher_script>

@@ -106,6 +106,9 @@ Câu 5 nối với a. Documentary - phim tài liệu nối với "This type of f
 5. **documentary** - a (useful info, animals... - thông tin hữu ích)
 </explanation>
 
+---
+
+<!-- chunk: correction_1 -->
 <teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
@@ -188,6 +191,9 @@ Câu 6 chọn A - confusing. "The road signs were confusing and we soon got lost
 6. **confusing** (khó hiểu) -> bị lạc (got lost).
 </explanation>
 
+---
+
+<!-- chunk: correction_2 -->
 <teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
@@ -272,6 +278,9 @@ Câu 5 nối với a. "Although I don't really like to go to the cinema, I don't
 Lưu ý câu 4 nha: Trong một số sách mới, câu B có thể là "However, the number of people going to cinemas is increasing". Chọn đáp án phù hợp với sách của em nha.
 </teacher_script>
 
+---
+
+<!-- chunk: correction_3 -->
 <teacher_script pause="30" href="audio/tts_a5768ea7.webm">
 Sửa lỗi sai vô bài làm nếu có nha.
 </teacher_script>
@@ -350,6 +359,9 @@ Câu 5: horror films - phim kinh dị. The Conjuring, IT là phim ma, phim kinh 
 Câu 6: action film - phim hành động. Fast and Furious có nhiều cảnh đua xe, đánh nhau, điển hình của phim hành động.
 </teacher_script>
 
+---
+
+<!-- chunk: correction_4 -->
 <teacher_script pause="30" href="audio/tts_a5768ea7.mp3">
 Sửa lỗi sai vô bài làm nếu có nha.
 </teacher_script>
@@ -431,6 +443,9 @@ Câu 5 chọn B - shocking. Twist bất ngờ làm mọi người ngạc nhiên 
 Câu 6 chọn C - dull. Không có gì xảy ra, người ta ngủ gật thì phim dull - buồn tẻ, chán ngắt rồi.
 </teacher_script>
 
+---
+
+<!-- chunk: correction_5 -->
 <teacher_script pause="30" href="audio/tts_a5768ea7.mp3">
 Sửa lỗi sai vô bài làm nếu có nha.
 </teacher_script>
@@ -514,6 +529,9 @@ Câu 6 dùng However: The cinema was full. However, we managed to get good seats
 **Mẹo:** Thấy "(Although)" → viết liền một câu. Thấy "(However)" → giữ hai câu, thêm However sau dấu chấm.
 </explanation>
 
+---
+
+<!-- chunk: correction_6 -->
 <teacher_script pause="30" href="audio/tts_a5768ea7.mp3">
 Sửa lỗi sai vô bài làm nếu có nha.
 </teacher_script>

@@ -102,6 +102,9 @@ Câu 5 nối với e. Shocking nghĩa là gây sốc, sửng sốt, nên nối v
 5. **shocking** = e. very surprising (rất ngạc nhiên, gây sốc)
 </explanation>
 
+---
+
+<!-- chunk: correction_1 -->
 <teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
@@ -170,6 +173,9 @@ Câu 5 điền confusing - khó hiểu. "I didn't really understand the film. It
 5. **confusing**: didn't really understand (không hiểu) -> khó hiểu.
 </explanation>
 
+---
+
+<!-- chunk: correction_2 -->
 <teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
@@ -334,6 +340,9 @@ Câu 5 chọn B - enjoyable. "We had a great time. It was very enjoyable" - Chú
 Câu 6 chọn B - shocking. "The ending was shocking - I never expected that twist!" - Cái kết gây sốc - tôi không ngờ twist đó! Never expected - không ngờ là dấu hiệu của shocking - gây sốc, bất ngờ đó.
 </teacher_script>
 
+---
+
+<!-- chunk: correction_3 -->
 <teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>

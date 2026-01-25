@@ -132,19 +132,19 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 **Đáp án:** 1.C | 2.A | 3.A | 4.A
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_40982d03.mp3">
 Câu 1 chọn C. Phong và Hùng đang nói về nhiều chương trình khác nhau nha. Trong hội thoại có Voice Kids, Lion King, Tom & Jerry, English in a Minute. Đó là 4 chương trình khác nhau rồi, không phải chỉ 1 chương trình. Nên đáp án là C - <eng>different TV programmes</eng>.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29a16d7a.mp3">
 Câu 2 chọn A. Phong nói rõ ràng: <eng>I like animated films like The Lion King</eng>. <eng>Animated films</eng> là phim hoạt hình dài nha. Chú ý: <eng>animated film</eng> khác <eng>cartoon</eng> đó. <eng>Animated film</eng> là phim dài như Lion King, Frozen. Còn <eng>cartoon</eng> là hoạt hình ngắn như Tom & Jerry.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_f257b7dd.mp3">
 Câu 3 chọn A - <eng>watching</eng>. Khi xem TV, chúng ta nói <eng>I'm watching TV</eng>. Đây là cụm cố định, các em nhớ kỹ nha. Không ai nói "I'm seeing TV" hay "I'm looking TV" đâu. <eng>Watch TV</eng> là đúng.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_0ac351fc.mp3">
 Câu 4 chọn A - <eng>educational</eng>. Khi một chương trình dạy cho bạn điều gì đó, nó là <eng>educational programme</eng> - chương trình giáo dục. Trong hội thoại, Phong nói: <eng>This channel has many educational programmes</eng>. Đó là chương trình mà học được kiến thức á.
 </teacher_script>
 
@@ -205,23 +205,23 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 **Đáp án:** 1-c | 2-a | 3-e | 4-b | 5-d
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_9ebc8912.mp3">
 Câu 1 nối c. <eng>The Voice Kids</eng> là <eng>music talent show</eng> - chương trình tài năng âm nhạc. Đây là chương trình thi hát cho trẻ em nha. Trong hội thoại Phong nói: <eng>That music talent show is very interesting</eng>. Rõ ràng luôn.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_49e510ed.mp3">
 Câu 2 nối a. <eng>The Lion King</eng> là <eng>animated film</eng> - phim hoạt hình dài. Phong nói: <eng>I like animated films like The Lion King</eng>. Nhớ nha: <eng>animated film</eng> là phim dài có cốt truyện hoàn chỉnh như Lion King, Frozen, Moana. Khác với cartoon nha.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_dac1fe9f.mp3">
 Câu 3 nối e. <eng>Tom and Jerry</eng> là <eng>cartoon</eng> - phim hoạt hình ngắn. Trong hội thoại nói về em trai Phong thích cartoons, và Hùng hỏi: <eng>Like Tom and Jerry?</eng> - như Tom & Jerry phải không? Vậy Tom & Jerry là cartoon. Cartoon là hoạt hình ngắn, từng tập ngắn á.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_e4571882.mp3">
 Câu 4 nối b. <eng>VTV7</eng> là <eng>channel</eng> - kênh truyền hình. Chú ý: VTV7 là kênh, không phải chương trình nha. Phong nói: <eng>This channel has many educational programmes</eng> - kênh này có nhiều chương trình giáo dục. Kênh thì có nhiều chương trình bên trong.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_37d48d23.mp3">
 Câu 5 nối d. <eng>English in a Minute</eng> là <eng>educational programme</eng> - chương trình giáo dục. Phong nói: <eng>I watch English in a Minute on VTV7. This channel has many educational programmes</eng>. Chương trình dạy tiếng Anh thì đương nhiên là educational programme rồi nha.
 </teacher_script>
 
@@ -276,19 +276,19 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 4. Programmes on VTV7 → **educational** (mang tính giáo dục)
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_74c73483.mp3">
 Câu 1: <eng>The Voice Kids</eng> thì tính từ là <eng>interesting</eng> - thú vị. Phong nói trong hội thoại: <eng>That music talent show is very interesting</eng> - chương trình tài năng âm nhạc đó rất thú vị. Tính từ đứng sau động từ "is" nha.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_402dc399.mp3">
 Câu 2: <eng>Animated films</eng> thì tính từ là <eng>wonderful</eng> - tuyệt vời. Hùng nói: <eng>They're wonderful</eng> - chúng tuyệt vời. Wonderful = tuyệt vời, xuất sắc. Từ này dùng để khen ngợi nha.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_0c3a9156.mp3">
 Câu 3: <eng>Jerry the mouse</eng> thì tính từ là <eng>clever</eng> - thông minh. Hùng nói: <eng>Jerry is a clever character</eng> - Jerry là một nhân vật thông minh. Clever = thông minh, khôn ngoan. Đúng là Jerry rất khôn á, hay chơi khăm mèo Tom.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_9456c89c.mp3">
 Câu 4: <eng>Programmes on VTV7</eng> thì tính từ là <eng>educational</eng> - mang tính giáo dục. Phong nói: <eng>This channel has many educational programmes</eng> - kênh này có nhiều chương trình giáo dục. Educational = giáo dục, có tính dạy học.
 </teacher_script>
 

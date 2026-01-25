@@ -3,18 +3,18 @@
 ## LOOKING BACK - Review
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_62275279.mp3">
 Chào các em. Hôm nay chúng ta sẽ ôn tập lại kiến thức đã học trong Unit 7.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_5b913c95.mp3">
 Mời các em mở sách giáo khoa.
 </teacher_script>
 
 ---
 
 <!-- chunk: vocabulary_review -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_7730fff1.mp3">
 Chúng ta cùng ôn lại từ vựng. Các em hãy nghe và đọc theo. Sau đó các em làm bài trắc nghiệm từ vựng nhé.
 </teacher_script>
 
@@ -44,18 +44,18 @@ Chúng ta cùng ôn lại từ vựng. Các em hãy nghe và đọc theo. Sau đ
 18. **character** : (n) nhân vật /ˈkærəktə/
 </vocabulary>
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_3c77989e.mp3">
 Các em có 1 phút để xem lại từ vựng.
 </teacher_script>
 
 ---
 
 <!-- chunk: record_vocabulary -->
-<teacher_script pause="0" action="record">
+<teacher_script pause="0" action="record" href="audio/tts_ffcfb020.mp3">
 Các em hãy bấm nút Ghi âm để đọc lại từ vựng và gửi cho thầy sửa nhé.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_5e286f8d.mp3">
 Khi nào xong thì bấm tiếp tục nhé.
 </teacher_script>
 
@@ -66,7 +66,7 @@ Khi nào xong thì bấm tiếp tục nhé.
 <!-- chunk: exercise_1 -->
 ### Bài 1 trang 14 - Put words in groups
 
-<teacher_script pause="45">
+<teacher_script pause="45" href="audio/tts_d091af24.mp3">
 Chúng ta cùng làm Bài 1 <eng>Put words in groups</eng>. Các em hãy phân loại từ vào 2 nhóm: <eng>Programmes</eng> và <eng>Adjectives</eng>. Các em có 45 giây.
 </teacher_script>
 
@@ -103,7 +103,7 @@ Chúng ta cùng làm Bài 1 <eng>Put words in groups</eng>. Các em hãy phân l
 | wildlife | popular |
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_b710e01c.mp3">
 Thầy giải thích nhé. <eng>Programmes</eng> là các chương trình: <eng>English in a Minute, animated films, sports, wildlife</eng>.
 </teacher_script>
 
@@ -111,7 +111,7 @@ Thầy giải thích nhé. <eng>Programmes</eng> là các chương trình: <eng>
 <eng>Adjectives</eng> là tính từ mô tả: <eng>educational, interesting, funny, popular</eng>.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_8a1e90c5.mp3">
 Mẹo phân biệt: Tính từ thường kết thúc bằng -ing, -ful, -al, -ar. Các em nhớ kỹ nhé.
 </teacher_script>
 
@@ -124,7 +124,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 14 - Complete the text
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_c75bee1a.mp3">
 Chúng ta cùng làm Bài 2 <eng>Complete the text</eng>. Các em hãy đọc đoạn văn và chọn từ phù hợp trong khung điền vào chỗ trống. Các em có 1 phút.
 </teacher_script>
 
@@ -166,23 +166,23 @@ VTV1 is a popular TV channel in Viet Nam. It attracts many **(1)** _______ becau
 Thầy sẽ giải thích từng câu.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_fdc2142e.mp3">
 Câu 1: <eng>VIEWERS</eng> - người xem. <eng>It attracts many viewers</eng>. "Attracts many..." cần danh từ chỉ người.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_ba9eb926.mp3">
 Câu 2: <eng>ANIMAL</eng> - động vật. <eng>The animal programmes show tigers and giraffes</eng>. Tigers và giraffes là động vật, nên đây là chương trình về động vật.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_db55d4bf.mp3">
 Câu 3: <eng>SPORTS</eng> - thể thao. <eng>People watch races or football matches on sports programmes</eng>. Races và football matches là các môn thể thao.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_1249bf7c.mp3">
 Câu 4: <eng>FUNNY</eng> - hài hước. <eng>Comedies make people laugh because they are funny</eng>. "Make people laugh" là gợi ý.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_657be13f.mp3">
 Câu 5: <eng>EDUCATIONAL</eng> - có tính giáo dục. <eng>Game shows are both fun and educational</eng>. Game shows vừa vui vừa có tính giáo dục. Học mà chơi, chơi mà học.
 </teacher_script>
 
@@ -195,7 +195,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 ## GRAMMAR
 
 <!-- chunk: grammar_review -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_ed8f3795.mp3">
 Chúng ta cùng ôn lại ngữ pháp <eng>Wh-questions</eng> và <eng>Conjunctions</eng>.
 </teacher_script>
 
@@ -229,7 +229,7 @@ Chúng ta cùng ôn lại ngữ pháp <eng>Wh-questions</eng> và <eng>Conjuncti
 <eng>Conjunctions</eng> là liên từ: <eng>and, but, so</eng>. Mẹo nhớ: <eng>AND</eng> là cộng, <eng>BUT</eng> là đối, <eng>SO</eng> là kết quả.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_bb7727e3.mp3">
 Các em có 30 giây để xem lại bảng tóm tắt.
 </teacher_script>
 
@@ -238,7 +238,7 @@ Các em có 30 giây để xem lại bảng tóm tắt.
 <!-- chunk: exercise_3 -->
 ### Bài 3 trang 14 - Complete each question with a suitable question word
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_711c8b93.mp3">
 Chúng ta cùng làm Bài 3 <eng>Complete each question with a suitable question word</eng>. Các em hãy dựa vào câu trả lời để chọn từ hỏi phù hợp điền vào chỗ trống. Các em có 1 phút.
 </teacher_script>
 
@@ -295,23 +295,23 @@ Chúng ta cùng làm Bài 3 <eng>Complete each question with a suitable question
 Thầy sẽ giải thích từng câu.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_1f581f55.mp3">
 Câu 1: <eng>HOW MANY</eng> - Hỏi "bao nhiêu ngày". <eng>How many days a week do you go to class?</eng> Trả lời "five days". <eng>How many</eng> dùng để hỏi số lượng.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_86d09dca.mp3">
 Câu 2: <eng>WHAT</eng> - Hỏi "xem cái gì". <eng>What did you watch on TV last night?</eng> Trả lời "The Fox Teacher". <eng>What</eng> dùng để hỏi về sự vật, sự việc.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_5d7bf067.mp3">
 Câu 3: <eng>WHY</eng> - Hỏi "tại sao". <eng>Why do you like the Wildlife programme?</eng> Trả lời bắt đầu bằng "Because...".
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_3ccf073f.mp3">
 Câu 4: <eng>WHO</eng> - Hỏi "ai". <eng>Who is your favourite person on TV?</eng> Trả lời "Minh Phong". <eng>Who</eng> dùng để hỏi về người.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_040e2f31.mp3">
 Câu 5: <eng>HOW MANY</eng> - Hỏi "bao nhiêu giờ". <eng>How many hours a day do you watch TV?</eng> Trả lời "half an hour".
 </teacher_script>
 
@@ -324,7 +324,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 <!-- chunk: exercise_4 -->
 ### Bài 4 trang 14 - Complete with conjunctions
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_c9c6dd72.mp3">
 Chúng ta cùng làm Bài 4 <eng>Complete with conjunctions</eng>. Các em hãy điền liên từ <eng>and, but</eng> hoặc <eng>so</eng> vào chỗ trống. Các em có 1 phút.
 </teacher_script>
 
@@ -375,23 +375,23 @@ Chúng ta cùng làm Bài 4 <eng>Complete with conjunctions</eng>. Các em hãy 
 Thầy sẽ giải thích từng câu.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_69a0dddb.mp3">
 Câu 1: <eng>AND</eng> - Hai chương trình chiếu liên tiếp, bổ sung thông tin. <eng>Ocean Life is on at 7.30, and Laughing Out Loud comes next at 8.00</eng>.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_ef4e8afc.mp3">
 Câu 2: <eng>SO</eng> - Thích nên xem mỗi ngày. <eng>I like The Seven Kitties very much, so I watch it every day</eng>. Thích là nguyên nhân, xem mỗi ngày là kết quả.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_61a7acd8.mp3">
 Câu 3: <eng>BUT</eng> - British đối lập Vietnamese. <eng>BBC One is a British channel, but VTV6 is a Vietnamese channel</eng>. Hai ý đối lập.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_f94740ba.mp3">
 Câu 4: <eng>BUT</eng> - Famous đối lập don't like. <eng>Along the Coast is a famous series, but I don't like it</eng>. Nổi tiếng nhưng không thích - hai ý đối lập.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_ff71a126.mp3">
 Câu 5: <eng>SO</eng> - Có bài tập nên không xem được. <eng>I have a lot of homework tonight, so I can't watch Eight Feet Below</eng>. Nguyên nhân dẫn đến kết quả.
 </teacher_script>
 
@@ -402,7 +402,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 ---
 
 <!-- chunk: summary -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_13367954.mp3">
 Chúng ta cùng tóm tắt lại kiến thức Unit 7.
 </teacher_script>
 
@@ -434,13 +434,13 @@ Ngữ pháp: <eng>Wh-questions</eng> và <eng>Conjunctions</eng>.
 Phát âm: Hai âm <eng>th</eng> - một âm vô thanh, một âm hữu thanh.
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_109c6e62.mp3">
 Hãy xem lại bảng tóm tắt một lần nữa. Các em có 30 giây.
 </teacher_script>
 
 ---
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_19a81dcd.mp3">
 Bài học hôm nay kết thúc tại đây. Bài học tiếp theo là Unit 8 - <eng>Sports and Games</eng>. Chào tạm biệt các em.
 </teacher_script>

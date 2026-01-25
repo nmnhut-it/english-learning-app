@@ -73,6 +73,9 @@ Bài 1 <eng>Match</eng> nha. Nhìn hình rồi chọn từ đúng đi. 1 phút n
 <eng>Price tag</eng> là nhãn giá gắn trên sản phẩm. <eng>Shopaholic</eng> là người nghiện mua sắm. <eng>On sale</eng> là đang giảm giá. <eng>Browsing</eng> là lướt xem hàng. <eng>Internet access</eng> là kết nối Internet.
 </teacher_script>
 
+---
+
+<!-- chunk: correction_1 -->
 <teacher_script pause="30" href="audio/tts_a5768ea7.webm">
 Sửa lỗi sai vô bài làm nếu có nha.
 </teacher_script>
@@ -115,6 +118,9 @@ e. Offers one or two specific kinds of goods.
 5-c: open-air market (chợ trời) - outdoor, bargain.
 </explanation>
 
+---
+
+<!-- chunk: correction_2 -->
 <teacher_script pause="30" href="audio/tts_a5768ea7.webm">
 Sửa lỗi sai vô bài làm nếu có nha.
 </teacher_script>
@@ -142,6 +148,9 @@ Bài 3 <eng>Complete</eng> nha. Điền từ vô chỗ trống đi. 1 phút nha.
 **Đáp án:** 1. speciality shops | 2. browsing | 3. bargain | 4. range of products | 5. shopaholic
 </answer>
 
+---
+
+<!-- chunk: correction_3 -->
 <teacher_script pause="30" href="audio/tts_a5768ea7.webm">
 Sửa lỗi sai vô bài làm nếu có nha.
 </teacher_script>
@@ -266,6 +275,9 @@ Câu 4: <eng>speciality shop</eng> - cửa hàng chuyên doanh. Tiệm bánh mì
 Câu 5: <eng>bargain</eng> - mặc cả. Mặc cả giỏi thì mua được giá rẻ.
 </teacher_script>
 
+---
+
+<!-- chunk: correction_practice_1 -->
 <teacher_script pause="30" href="audio/tts_75ebc937.webm">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
@@ -334,6 +346,9 @@ Câu 4: <eng>open-air market</eng> - chợ trời. Ở chợ trời thì có th�
 Câu 5: <eng>speciality shop</eng> - cửa hàng chuyên doanh. Trang sức thủ công bán ở cửa hàng chuyên về trang sức.
 </teacher_script>
 
+---
+
+<!-- chunk: correction_practice_2 -->
 <teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
@@ -414,6 +429,9 @@ Câu 6: <eng>She is a shopaholic and spends too much money.</eng> - Cô ấy ngh
 Mẹo nhớ: <eng>on sale</eng> = giảm giá, <eng>bargain</eng> = mặc cả, <eng>browse</eng> = lướt xem, <eng>shopaholic</eng> = nghiện mua sắm.
 </teacher_script>
 
+---
+
+<!-- chunk: correction_practice_3 -->
 <teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>

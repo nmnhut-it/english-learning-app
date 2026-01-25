@@ -111,6 +111,9 @@ Bài 2 <eng>Listen and fill</eng> nha. Nghe về mua sắm online rồi điền 
 Câu 1: service - dịch vụ. Mua online không chỉ mua sản phẩm mà còn mua dịch vụ nữa. Câu 2: seller's - trang web người bán. Câu 3: money - tiết kiệm tiền. Câu 4: shipping - phí vận chuyển khi trả hàng. Câu 5: shopaholic - người nghiện mua sắm.
 </teacher_script>
 
+---
+
+<!-- chunk: correction_exercise_2 -->
 <teacher_script pause="30" href="audio/tts_a5768ea7.mp3">
 Sửa lỗi sai vô bài làm nếu có nha.
 </teacher_script>
@@ -154,6 +157,9 @@ A. popularity | B. convenience | C. advantages and disadvantages
 Câu 1: B - hai cách thanh toán. Câu 2: C - interesting không được nhắc đến. Câu 3: C - bài nói về ưu và nhược điểm của mua sắm online.
 </teacher_script>
 
+---
+
+<!-- chunk: correction_exercise_3 -->
 <teacher_script pause="30" href="audio/tts_a5768ea7.mp3">
 Sửa lỗi sai vô bài làm nếu có nha.
 </teacher_script>

@@ -3,7 +3,7 @@
 ## SKILLS 2 - Listening & Writing
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_e17f341c.webm">
 Ok lớp 6, <eng>Skills 2</eng> nha. Mở sách trang 23 đi. Hôm nay luyện nghe và viết luôn.
 </teacher_script>
 
@@ -29,7 +29,7 @@ Ok lớp 6, <eng>Skills 2</eng> nha. Mở sách trang 23 đi. Hôm nay luyện n
 
 ### Bài 1 trang 23 - Listen to the passages
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_1bf46524.webm">
 Bài 1 <eng>Listen to the passages</eng> nha. Nghe các đoạn văn rồi trả lời: Đoạn văn nói về ai? Chú ý tên người nha.
 </teacher_script>
 
@@ -42,7 +42,7 @@ Bài 1 <eng>Listen to the passages</eng> nha. Nghe các đoạn văn rồi trả
 **Dịch đề:** Nghe các đoạn văn. Chúng nói về ai?
 </task>
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_b0be49bc.webm">
 Nghe audio rồi tìm câu trả lời đi. 1 phút nha. Nghe tên nhân vật là biết liền á.
 </teacher_script>
 
@@ -53,7 +53,7 @@ Nghe audio rồi tìm câu trả lời đi. 1 phút nha. Nghe tên nhân vật l
 ---
 
 <!-- chunk: transcript -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_33804bfb.webm">
 Ok đây là nội dung chi tiết bài nghe nè. Đọc lại để hiểu rõ hơn nha.
 </teacher_script>
 
@@ -85,7 +85,7 @@ Ok đây là nội dung chi tiết bài nghe nè. Đọc lại để hiểu rõ 
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 23 - True or False
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_0fd3eebf.webm">
 Bài 2 <eng>True or False</eng> nha. Nghe lại rồi đánh dấu T (Đúng) hoặc F (Sai) đi. 1 phút. Chú ý chi tiết trong bài nghe nha.
 </teacher_script>
 
@@ -111,7 +111,7 @@ Bài 2 <eng>True or False</eng> nha. Nghe lại rồi đánh dấu T (Đúng) ho
 ---
 
 <!-- chunk: answer_2 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_778f802f.mp3">
 Đã hết thời gian. Sau đây là đáp án đúng.
 </teacher_script>
 
@@ -119,23 +119,23 @@ Bài 2 <eng>True or False</eng> nha. Nghe lại rồi đánh dấu T (Đúng) ho
 **Đáp án:** 1.F | 2.T | 3.T | 4.T | 5.F
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_3c5e5c1f.webm">
 Câu 1 chọn F - sai. <eng>Sportsmen</eng> là vận động viên nam. Nhưng Hải và Alice chỉ là học sinh bình thường, không phải vận động viên chuyên nghiệp. Hải thì thích thể thao, còn Alice thì không thích lắm. Chú ý: <eng>sportsmen</eng> (vận động viên nam), <eng>sportswomen</eng> (vận động viên nữ), <eng>sportspeople</eng> (vận động viên chung).
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_7c3a7ff5.webm">
 Câu 2 chọn T - đúng. Hải nói rõ ràng: <eng>I often go cycling with my dad at the weekend</eng> - Tôi thường đạp xe với bố vào cuối tuần. Vậy là Hải đi đạp xe vào cuối tuần, đúng rồi nha.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_2e5863d0.webm">
 Câu 3 chọn T - đúng. Hải nói: <eng>My favourite sport is karate</eng> - Môn thể thao yêu thích của tôi là karate. Rõ ràng luôn, karate là môn yêu thích của Hải. Hải luyện karate 3 lần một tuần đó.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_c84c1927.webm">
 Câu 4 chọn T - đúng. Alice nói thẳng: <eng>I don't like doing sport very much</eng> - Tôi không thích chơi thể thao lắm. Vậy Alice không thích thể thao, khác với Hải nha. Alice thích chơi cờ và game máy tính hơn.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_7bf34fb2.webm">
 Câu 5 chọn F - sai. Câu này rất dễ nhầm. Alice nói: <eng>I **sometimes** play computer games</eng> - Tôi **thỉnh thoảng** chơi game máy tính. <eng>Sometimes</eng> là thỉnh thoảng, không phải <eng>every day</eng> (mỗi ngày). Nếu đề nói Alice chơi game thỉnh thoảng thì đúng, nhưng đề nói mỗi ngày thì sai nha.
 </teacher_script>
 
@@ -156,7 +156,10 @@ Câu 5 chọn F - sai. Câu này rất dễ nhầm. Alice nói: <eng>I **sometim
 - **sometimes** = thỉnh thoảng ≠ every day
 </explanation>
 
-<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
+---
+
+<!-- chunk: correction_1 -->
+<teacher_script pause="30" href="audio/tts_75ebc937.webm">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
@@ -165,7 +168,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 <!-- chunk: exercise_3 -->
 ### Bài 3 trang 23 - Fill in the blanks
 
-<teacher_script pause="45">
+<teacher_script pause="45" href="audio/tts_6055d417.webm">
 Bài 3 <eng>Fill in the blanks</eng> nha. Nghe lại rồi điền từ vô chỗ trống đi. 45 giây. Từ cần điền đều có trong bài nghe hết á.
 </teacher_script>
 
@@ -186,7 +189,7 @@ Bài 3 <eng>Fill in the blanks</eng> nha. Nghe lại rồi điền từ vô ch�
 ---
 
 <!-- chunk: answer_3 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_778f802f.mp3">
 Đã hết thời gian. Sau đây là đáp án đúng.
 </teacher_script>
 
@@ -205,6 +208,9 @@ Bài 3 <eng>Fill in the blanks</eng> nha. Nghe lại rồi điền từ vô ch�
 | 4 | **chess** | "My friend and I play chess every Saturday" |
 </explanation>
 
+---
+
+<!-- chunk: correction_2 -->
 <teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
@@ -214,7 +220,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 <!-- chunk: writing_intro -->
 ### WRITING
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_3670ca2e.webm">
 Qua phần <eng>Writing</eng> nha. Viết về môn thể thao mình yêu thích đi. Đây là kỹ năng quan trọng lắm đó!
 </teacher_script>
 
@@ -223,7 +229,7 @@ Qua phần <eng>Writing</eng> nha. Viết về môn thể thao mình yêu thích
 <!-- chunk: exercise_4 -->
 ### Bài 4 trang 23 - Talk about the sport/game you like
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_81a5baae.webm">
 Bài 4 <eng>Talk about the sport you like</eng> nha. Làm theo cặp, nói về môn thể thao mình thích đi. Dùng các câu hỏi gợi ý bên dưới.
 </teacher_script>
 
@@ -261,7 +267,7 @@ Bài 4 <eng>Talk about the sport you like</eng> nha. Làm theo cặp, nói về 
 <!-- chunk: exercise_5 -->
 ### Bài 5 trang 23 - Write a paragraph
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_5cd69466.webm">
 Bài 5 <eng>Write a paragraph</eng> nha. Viết đoạn văn khoảng 40-50 từ về môn thể thao mình thích đi. Theo cấu trúc gợi ý bên dưới luôn.
 </teacher_script>
 
@@ -296,21 +302,21 @@ I usually play badminton after school with my friend because to play this sport 
 Football is a fun sport. There are 11 players on each team. People play football every day or every week. I like football because it is exciting and fast. You can play with friends and score goals. It is good for health and makes you strong and happy.
 </dialogue>
 
-<teacher_script pause="180">
+<teacher_script pause="180" href="audio/tts_e19f1978.webm">
 Viết đoạn văn vô vở đi. 3 phút nha. Nhớ viết theo thứ tự: Tên môn - Số người chơi - Tần suất - Dụng cụ - Lý do thích.
 </teacher_script>
 
-<teacher_script pause="0" action="record">
+<teacher_script pause="0" action="record" href="audio/tts_e1bdcb3a.webm">
 Các em hãy bấm nút Ghi âm để đọc bài viết của mình và gửi cho thầy nhé.
 </teacher_script>
 
 ---
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_12a4b0e4.webm">
 Hết bài rồi nha. Nhớ cấu trúc bài viết: Tên môn thể thao - Số người chơi - Tần suất - Dụng cụ - Lý do thích. Đề thi viết hay ra kiểu này lắm đó!
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_10ceef49.webm">
 Bài tiếp theo là <eng>Looking Back</eng>, ôn tập toàn bộ kiến thức Unit 8 luôn. Hẹn gặp lại nha!
 </teacher_script>

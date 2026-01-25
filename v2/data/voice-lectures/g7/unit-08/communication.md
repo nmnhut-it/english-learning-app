@@ -171,6 +171,9 @@ Câu 5 điền funny. "What do you think of it? - It's very funny" - Bạn nghĩ
 5. It's very **funny**. (Nó rất hài hước)
 </explanation>
 
+---
+
+<!-- chunk: correction_1 -->
 <teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>

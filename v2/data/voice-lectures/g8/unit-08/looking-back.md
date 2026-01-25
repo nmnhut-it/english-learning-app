@@ -80,6 +80,9 @@ e. Great number of goods.
 During sales - thời điểm giảm giá. Browsing - lướt xem. Online shopping - mua sắm trực tuyến. Wide range - đa dạng. Shopaholic - nghiện mua sắm.
 </teacher_script>
 
+---
+
+<!-- chunk: correction_1 -->
 <teacher_script pause="30" href="audio/tts_a5768ea7.mp3">
 Sửa lỗi sai vô bài làm nếu có nha.
 </teacher_script>
@@ -116,6 +119,9 @@ Bài 2 <eng>Fill in</eng> nha. Điền từ vô chỗ trống đi. 1 phút nha.
 Câu 1: on sale - giảm giá. Câu 2: bargain - mặc cả. Câu 3: Internet access - kết nối Internet. Câu 4: home-grown - nhà trồng. Câu 5: offline - không phải online.
 </teacher_script>
 
+---
+
+<!-- chunk: correction_2 -->
 <teacher_script pause="30" href="audio/tts_a5768ea7.mp3">
 Sửa lỗi sai vô bài làm nếu có nha.
 </teacher_script>
@@ -150,6 +156,9 @@ Bài 3 <eng>Adverbs of frequency</eng> nha. Điền trạng từ tần suất ph
 Câu 1: always - không bỏ lỡ tập nào. Câu 2: usually/often - đi thường xuyên. Câu 3: never - không bao giờ. Câu 4: often - không thường đi. Câu 5: rarely - hiếm khi, 1-2 lần/năm.
 </teacher_script>
 
+---
+
+<!-- chunk: correction_3 -->
 <teacher_script pause="30" href="audio/tts_a5768ea7.mp3">
 Sửa lỗi sai vô bài làm nếu có nha.
 </teacher_script>

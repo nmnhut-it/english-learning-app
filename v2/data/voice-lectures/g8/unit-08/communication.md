@@ -150,6 +150,9 @@ Bài 3 <eng>Listen and tick</eng> nha. Nghe rồi đánh dấu địa điểm mu
 Mai thích chợ trời vì sản phẩm nhà trồng. Nam thích cửa hàng tiện lợi vì tiết kiệm thời gian. Alice thích discount shop vì giá rẻ.
 </teacher_script>
 
+---
+
+<!-- chunk: correction_3 -->
 <teacher_script pause="30" href="audio/tts_a5768ea7.mp3">
 Sửa lỗi sai vô bài làm nếu có nha.
 </teacher_script>

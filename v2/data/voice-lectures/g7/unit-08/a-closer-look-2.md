@@ -139,6 +139,9 @@ Câu 5: We couldn't win the match although we played well. Chúng tôi không th
 - Câu 5: Không thắng mặc dù chơi tốt.
 </explanation>
 
+---
+
+<!-- chunk: correction_1 -->
 <teacher_script pause="30" href="audio/tts_75ebc937.webm">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
@@ -202,6 +205,9 @@ Câu 5 điền Although. "Although the weather was bad, we went on our school tr
 - **However**: Câu 2, 4 vì đứng sau dấu chấm phẩy (;) hoặc dấu chấm (.), và theo sau là dấu phẩy (,).
 </explanation>
 
+---
+
+<!-- chunk: correction_2 -->
 <teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
@@ -318,6 +324,9 @@ Câu 5 chọn B - Although. "Although Jim owns two cars, he rarely drives to wor
 5. **B (Although)**: Although + S + V.
 </explanation>
 
+---
+
+<!-- chunk: correction_3 -->
 <teacher_script pause="30" href="audio/tts_fc4bb463.webm">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé. Hãy nhớ cấu trúc Despite + Danh từ hoặc V-ing.
 </teacher_script>
@@ -403,6 +412,9 @@ Câu 4: Although the film received bad reviews, it was a box office hit. Mặc d
 Câu 5: Although she doesn't like horror films, she watched the whole movie. Mặc dù cô ấy không thích phim kinh dị, cô ấy xem hết phim. Tương phản: doesn't like - không thích >< watched the whole movie - xem hết. Không thích mà vẫn xem hết, chắc tò mò lắm.
 </teacher_script>
 
+---
+
+<!-- chunk: correction_4 -->
 <teacher_script pause="30" href="audio/tts_75ebc937.webm">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
@@ -506,6 +518,9 @@ Câu 7: The movie is three hours long. However, it doesn't feel boring. Phim dà
 Câu 8: She practiced every day. However, she still forgot them. Cô ấy luyện tập mỗi ngày. Tuy nhiên, vẫn quên. Tương phản: practiced every day - luyện tập mỗi ngày >< still forgot - vẫn quên. Hồi hộp quá nên quên rồi.
 </teacher_script>
 
+---
+
+<!-- chunk: correction_5 -->
 <teacher_script pause="30" href="audio/tts_75ebc937.mp3">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
@@ -594,6 +609,9 @@ Câu 6 điền Although. "Although I'm not a fan of action movies, I loved this 
 - Không có dấu chấm trước chỗ trống → chọn **Although**
 </explanation>
 
+---
+
+<!-- chunk: correction_6 -->
 <teacher_script pause="30" href="audio/tts_7967abac.webm">
 Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé. Nhớ quy tắc: có dấu chấm thì dùng However, không có dấu chấm thì dùng Although đó.
 </teacher_script>
