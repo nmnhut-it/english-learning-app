@@ -3,7 +3,7 @@
 ## LOOKING BACK - Review
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_f9abfe9e.webm">
 Chào các em. Mời các em mở sách trang 80. Hôm nay chúng ta làm bài <eng>Looking Back</eng> để ôn tập lại Unit 7.
 </teacher_script>
 
@@ -12,7 +12,7 @@ Chào các em. Mời các em mở sách trang 80. Hôm nay chúng ta làm bài <
 <!-- chunk: exercise_1 -->
 ### Bài 1 trang 80 - Vocabulary
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_c594c52d.webm">
 Bài 1. Các em hãy điền từ vào chỗ trống để hoàn thành câu. 1 phút nha.
 </teacher_script>
 
@@ -26,7 +26,7 @@ Bài 1. Các em hãy điền từ vào chỗ trống để hoàn thành câu. 1 
 5. We should _______ our natural heritage.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_b708b77c.webm">
 Đáp án đúng là:
 </teacher_script>
 
@@ -39,7 +39,7 @@ Bài 1. Các em hãy điền từ vào chỗ trống để hoàn thành câu. 1 
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 80 - Grammar: Reported Speech
 
-<teacher_script pause="90">
+<teacher_script pause="90" href="audio/tts_b19e6b1b.webm">
 Bài 2. Viết lại các câu sau sang câu gián tiếp. 1 phút rưỡi.
 </teacher_script>
 
@@ -54,7 +54,7 @@ Bài 2. Viết lại các câu sau sang câu gián tiếp. 1 phút rưỡi.
 -> He asked me ________________________________.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_c8043213.webm">
 Đáp án nhé.
 </teacher_script>
 
@@ -72,13 +72,13 @@ Bài 2. Viết lại các câu sau sang câu gián tiếp. 1 phút rưỡi.
 - Thêm if/whether.
 </explanation>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_708aa9cb.webm">
 Sửa bài nếu sai nha các em.
 </teacher_script>
 
 ---
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_887dbf2f.webm">
 Vậy là chúng ta đã hoàn thành Unit 7 <eng>Natural Wonders of the World</eng>. Các em về nhà ôn tập lại toàn bộ từ vựng và ngữ pháp nhé. Hẹn gặp lại các em ở Unit 8!
 </teacher_script>

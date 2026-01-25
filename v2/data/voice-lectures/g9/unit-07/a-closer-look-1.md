@@ -3,7 +3,7 @@
 ## A CLOSER LOOK 1 - Vocabulary & Pronunciation
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_cf1e9595.webm">
 Chào các em. Mời các em mở sách giáo khoa trang 74. Hôm nay chúng ta qua phần <eng>A Closer Look 1</eng>. Bài học này sẽ giúp các em học thêm từ vựng về các kỳ quan thiên nhiên và luyện phát âm hai âm /sl/ và /sn/.
 </teacher_script>
 
@@ -19,7 +19,7 @@ Chào các em. Mời các em mở sách giáo khoa trang 74. Hôm nay chúng ta 
 6. **urgent** : (adj) khẩn cấp /ˈɜːdʒənt/
 </vocabulary>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_778beeba.webm">
 Các em hãy nghe và lặp lại các từ mới nhé.
 </teacher_script>
 
@@ -28,7 +28,7 @@ Các em hãy nghe và lặp lại các từ mới nhé.
 <!-- chunk: exercise_1 -->
 ### Bài 1 trang 74 - Match words with definitions
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_f0184005.webm">
 Chúng ta cùng làm Bài 1 <eng>Match words with definitions</eng>. Các em hãy nối các từ vựng với định nghĩa thích hợp của chúng. Các em có 1 phút.
 </teacher_script>
 
@@ -79,7 +79,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 74 - Complete the sentences
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_89ddd281.webm">
 Chúng ta cùng làm Bài 2 <eng>Complete the sentences</eng>. Các em hãy điền các từ vựng đã học vào chỗ trống thích hợp để hoàn thành câu. Các em có 1 phút.
 </teacher_script>
 
@@ -117,7 +117,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 ---
 
 <!-- chunk: pronunciation_intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_2d5fa846.webm">
 Chúng ta cùng chuyển sang phần Phát âm (Pronunciation). Hôm nay chúng ta sẽ luyện tập hai phụ âm kép: **/sl/** và **/sn/**.
 </teacher_script>
 
@@ -136,7 +136,7 @@ Chúng ta cùng chuyển sang phần Phát âm (Pronunciation). Hôm nay chúng 
 <!-- chunk: exercise_4 -->
 ### Bài 4 trang 74 - Listen and repeat
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_cd95e581.webm">
 Chúng ta cùng làm Bài 4 <eng>Listen and repeat</eng>. Các em hãy nghe và lặp lại các từ chứa âm /sl/ và /sn/ nhé.
 </teacher_script>
 
@@ -154,7 +154,7 @@ Các em hãy tự luyện đọc 2 nhóm từ này trong 1 phút nhé.
 <!-- chunk: exercise_5 -->
 ### Bài 5 trang 74 - Listen and practice sentences
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_064d0912.webm">
 Chúng ta cùng làm Bài 5 <eng>Listen and practice sentences</eng>. Các em hãy nghe và lặp lại các câu, chú ý đến những từ chứa âm /sl/ và /sn/.
 </teacher_script>
 
@@ -175,7 +175,7 @@ Các em hãy bấm ghi âm và đọc lại 5 câu này gửi cho thầy nhé.
 <!-- chunk: additional_practice -->
 ### Bài tập thực hành bổ sung
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_4a7cf804.webm">
 Các em làm thêm bài tập thực hành để củng cố từ vựng và phát âm nha. Bài tập này rất quan trọng đó!
 </teacher_script>
 
@@ -184,7 +184,7 @@ Các em làm thêm bài tập thực hành để củng cố từ vựng và ph�
 <!-- chunk: practice_1 -->
 ### Bài tập 1 - Vocabulary Practice
 
-<teacher_script pause="120">
+<teacher_script pause="120" href="audio/tts_46961aad.webm">
 Chúng ta cùng làm Bài tập 1. Các em hãy chọn từ đúng để hoàn thành các câu về kỳ quan thiên nhiên. Các em có 2 phút.
 </teacher_script>
 
@@ -221,27 +221,27 @@ Chúng ta cùng làm Bài tập 1. Các em hãy chọn từ đúng để hoàn t
 6. access
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_fac56e13.webm">
 Câu 1: <eng>paradise</eng> - thiên đường. Vịnh Hạ Long đẹp như thiên đường nên dùng từ này.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_043f20e7.webm">
 Câu 2: <eng>diversity</eng> - sự đa dạng. Amazon có nhiều loài sinh vật nên nói về sự đa dạng.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_26cda3d2.webm">
 Câu 3: <eng>permit</eng> - giấy phép. Vào khu bảo tồn phải có giấy phép.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_debd86eb.webm">
 Câu 4: <eng>annual</eng> - hàng năm. Lễ hội hoa diễn ra mỗi năm một lần.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_2e2de2be.webm">
 Câu 5: <eng>urgent</eng> - khẩn cấp. Bảo vệ động vật quý hiếm là việc rất cấp bách.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_c2717f11.webm">
 Câu 6: <eng>access</eng> - tiếp cận, đi vào. Du khách có thể vào hang bằng thuyền hoặc đi bộ.
 </teacher_script>
 
@@ -254,7 +254,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 <!-- chunk: practice_2 -->
 ### Bài tập 2 - Pronunciation Practice
 
-<teacher_script pause="90">
+<teacher_script pause="90" href="audio/tts_7acc157a.webm">
 Chúng ta cùng làm Bài tập 2. Các em hãy phân loại các từ theo âm /sl/ hoặc /sn/. Các em có 1 phút 30 giây.
 </teacher_script>
 
@@ -279,15 +279,15 @@ Chúng ta cùng làm Bài tập 2. Các em hãy phân loại các từ theo âm 
 - **/sn/:** snowy, sneeze, snorkel, snapshot
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_5b890ad8.webm">
 Nhóm âm /sl/: <eng>sleepy</eng> (buồn ngủ), <eng>slippery</eng> (trơn), <eng>slope</eng> (dốc), <eng>slender</eng> (thon thả).
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_85aeb434.webm">
 Nhóm âm /sn/: <eng>snowy</eng> (có tuyết), <eng>sneeze</eng> (hắt hơi), <eng>snorkel</eng> (lặn có ống thở), <eng>snapshot</eng> (ảnh chụp nhanh).
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_8678e850.webm">
 Mẹo nhớ: Khi gặp chữ **sl** đầu từ thì phát âm /sl/, gặp **sn** đầu từ thì phát âm /sn/. Dễ lắm nha!
 </teacher_script>
 
@@ -300,7 +300,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 <!-- chunk: practice_3 -->
 ### Bài tập 3 - Mixed Practice
 
-<teacher_script pause="120">
+<teacher_script pause="120" href="audio/tts_1a147f63.webm">
 Bài tập cuối cùng kết hợp cả từ vựng và phát âm. Các em hãy hoàn thành các câu. Các em có 2 phút.
 </teacher_script>
 
@@ -341,27 +341,27 @@ Bài tập cuối cùng kết hợp cả từ vựng và phát âm. Các em hãy
 6. annual
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_ad9d955d.webm">
 Câu 1: <eng>slippery</eng> - trơn trượt. Đường núi mưa thì trơn, nguy hiểm nha.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_a8d97b65.webm">
 Câu 2: <eng>diversity</eng> - sự đa dạng. Vườn quốc gia có nhiều loài sinh vật.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_329f5aba.webm">
 Câu 3: <eng>urgent</eng> - khẩn cấp. Cứu rạn san hô là việc cấp bách.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_7d0d1354.webm">
 Câu 4: <eng>snowy</eng> - có tuyết. Fansipan có tuyết vào mùa đông.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_8d20736c.webm">
 Câu 5: <eng>paradise</eng> - thiên đường. Hang Sơn Đoòng đẹp như thiên đường.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_d8a1a042.webm">
 Câu 6: <eng>annual</eng> - hàng năm. Chim di cư mỗi năm một lần.
 </teacher_script>
 
@@ -372,6 +372,6 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 ---
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_99051689.webm">
 Bài học hôm nay kết thúc tại đây. Các em hãy nhớ phân biệt cách phát âm /sl/ và /sn/, cũng như ôn tập các từ vựng về kỳ quan thiên nhiên nhé. Tạm biệt các em!
 </teacher_script>

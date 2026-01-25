@@ -3,7 +3,7 @@
 ## SKILLS 1 - Reading & Speaking
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_6a8bbe02.webm">
 Chào các em. Mời các em mở sách giáo khoa trang 78. Hôm nay chúng ta qua bài <eng>Skills 1</eng>. Chúng ta sẽ luyện kỹ năng Đọc về dãy núi Dolomites và kỹ năng Nói về những kỳ quan.
 </teacher_script>
 
@@ -30,7 +30,7 @@ Các em hãy nghe và lặp lại từ vựng nhé.
 <!-- chunk: reading_text -->
 ### Reading: The Dolomites - Paradise at Your Feet
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_bcbc5cb8.webm">
 Bây giờ các em hãy đọc bài văn về dãy núi Dolomites ở Ý nhé.
 </teacher_script>
 
@@ -58,7 +58,7 @@ Bây giờ các em hãy đọc bài văn về dãy núi Dolomites ở Ý nhé.
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 78 - Match words with meanings
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_ccff4de9.webm">
 Chúng ta cùng làm Bài 2 <eng>Match words with meanings</eng>. Các em hãy nối từ trong bài đọc với nghĩa thích hợp. 1 phút nha.
 </teacher_script>
 
@@ -76,7 +76,7 @@ c. features belonging to the culture of a particular society, such as traditions
 d. beautiful, powerful, or causing great admiration
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_214ec34a.webm">
 Đã hết thời gian. Đáp án là:
 </teacher_script>
 
@@ -89,7 +89,7 @@ d. beautiful, powerful, or causing great admiration
 <!-- chunk: exercise_3 -->
 ### Bài 3 trang 78 - Read and answer
 
-<teacher_script pause="120">
+<teacher_script pause="120" href="audio/tts_ad179614.webm">
 Chúng ta cùng làm Bài 3. Các em hãy đọc lại bài văn và trả lời các câu hỏi sau. 2 phút nha.
 </teacher_script>
 
@@ -100,7 +100,7 @@ Chúng ta cùng làm Bài 3. Các em hãy đọc lại bài văn và trả lời
 **4.** What activities can tourists do in the Dolomites?
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_2cb25cc6.webm">
 Sau đây là gợi ý trả lời.
 </teacher_script>
 
@@ -112,7 +112,7 @@ Sau đây là gợi ý trả lời.
 4. They can go skiing, climbing, hiking, and cycling.
 </answer>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_feb33bc4.webm">
 Các em kiểm tra câu trả lời của mình nhé.
 </teacher_script>
 
@@ -121,7 +121,7 @@ Các em kiểm tra câu trả lời của mình nhé.
 <!-- chunk: speaking -->
 ### Bài 4 trang 78 - Discussion
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_f84d60ef.webm">
 Chuyển sang phần Nói. Các em hãy thảo luận theo cặp.
 </teacher_script>
 
@@ -137,13 +137,13 @@ Chuyển sang phần Nói. Các em hãy thảo luận theo cặp.
 **B:** Because it has thousands of beautiful islands and caves.
 </dialogue>
 
-<teacher_script pause="0" action="record">
+<teacher_script pause="0" action="record" href="audio/tts_258b64f8.webm">
 Em hãy nói về một kỳ quan em muốn đến thăm và ghi âm gửi cho thầy.
 </teacher_script>
 
 ---
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_b8e85f7a.webm">
 Bài học hôm nay kết thúc tại đây. Các em nhớ ôn tập từ vựng về địa lý nhé. Tạm biệt!
 </teacher_script>

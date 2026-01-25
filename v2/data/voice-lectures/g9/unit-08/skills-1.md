@@ -3,14 +3,14 @@
 ## SKILLS 1 - Reading & Speaking
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_08a2f103.webm">
 Ok lớp 9, qua bài <eng>Skills 1</eng> nha. Mở sách trang 26 đi. Hôm nay đọc về tour trọn gói và tour tự túc rồi thực hành nói.
 </teacher_script>
 
 ---
 
 <!-- chunk: vocabulary -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_97d4b189.webm">
 Các em mở sách ra, Unit 8, bài <eng>Skills 1</eng>, ghi tựa bài. Sau đó bấm nút "Bắt đầu" bên dưới để học từ vựng.
 </teacher_script>
 
@@ -24,7 +24,7 @@ Các em mở sách ra, Unit 8, bài <eng>Skills 1</eng>, ghi tựa bài. Sau đ�
 6. **smooth** : (adj) trơn tru, suôn sẻ /smuːð/
 </vocabulary>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_23af70ae.webm">
 <eng>Package tour</eng> là tour trọn gói - công ty lo hết. <eng>Self-guided tour</eng> là tour tự túc - mình tự lo. <eng>Budget</eng> là ngân sách. <eng>Hunt for</eng> là săn lùng tìm kiếm. <eng>Fixed</eng> là cố định. <eng>Smooth</eng> là suôn sẻ.
 </teacher_script>
 
@@ -33,7 +33,7 @@ Các em mở sách ra, Unit 8, bài <eng>Skills 1</eng>, ghi tựa bài. Sau đ�
 <!-- chunk: exercise_1 -->
 ### Bài 1 trang 26 - Write words under pictures
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_357d9396.webm">
 Bài 1 nha. Viết từ dưới hình ảnh đúng đi. 30 giây nha.
 </teacher_script>
 
@@ -51,7 +51,7 @@ c. itinerary
 3 - c. itinerary *(lịch trình du lịch)*
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_994312ac.webm">
 Hình 1 là <eng>traveller</eng> - người du lịch. Hình 2 là <eng>destination</eng> - điểm đến. Hình 3 là <eng>itinerary</eng> - lịch trình.
 </teacher_script>
 
@@ -60,11 +60,11 @@ Hình 1 là <eng>traveller</eng> - người du lịch. Hình 2 là <eng>destinat
 <!-- chunk: reading_exercise_1 -->
 ### Bài 2 trang 26 - Reading Match
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_905b9acc.webm">
 Đọc bài so sánh tour trọn gói và tour tự túc nha. Mỗi loại có ưu nhược điểm riêng.
 </teacher_script>
 
-<teacher_script pause="120">
+<teacher_script pause="120" href="audio/tts_b957e2b4.webm">
 Bài 2 <eng>Match</eng> nha. Nối từ với định nghĩa đi. 2 phút nha.
 </teacher_script>
 
@@ -107,7 +107,7 @@ Bài 2 <eng>Match</eng> nha. Nối từ với định nghĩa đi. 2 phút nha.
 4 - a (smooth - happening without problems)
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_00990ab9.webm">
 <eng>Cost</eng> nối với b - tiền chi tiêu. <eng>Fixed</eng> nối với c - không thay đổi. <eng>Hunt for</eng> nối với d - tìm kiếm. <eng>Smooth</eng> nối với a - không có vấn đề.
 </teacher_script>
 
@@ -123,7 +123,7 @@ Sửa lỗi sai vô bài làm nếu có nha.
 <!-- chunk: reading_exercise_2 -->
 ### Bài 3 trang 26 - Answer questions
 
-<teacher_script pause="120">
+<teacher_script pause="120" href="audio/tts_541837e2.webm">
 Bài 3 <eng>Answer</eng> nha. Trả lời câu hỏi về bài đọc đi. 2 phút nha.
 </teacher_script>
 
@@ -167,7 +167,7 @@ Bài 3 <eng>Answer</eng> nha. Trả lời câu hỏi về bài đọc đi. 2 ph�
 *Nếu bạn tham gia một chuyến du lịch tự túc, bạn nên sử dụng ứng dụng thành thạo.*
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_cde706cc.webm">
 Câu 1: Tour trọn gói tiết kiệm thời gian và giảm căng thẳng. Câu 2: Nhược điểm là phải theo lịch trình cố định. Câu 3: Tour tự túc phải tự tìm điểm đến, lên lịch trình, ước tính chi phí, săn vé. Câu 4: Ưu điểm là rẻ hơn và linh hoạt hơn. Câu 5: Cần giỏi sử dụng app.
 </teacher_script>
 
@@ -183,7 +183,7 @@ Sửa lỗi sai vô bài làm nếu có nha.
 <!-- chunk: speaking -->
 ### Bài 4 trang 26 - Interview partner
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_012e3f97.webm">
 Bài 4 <eng>Speaking</eng> nha. Phỏng vấn bạn về chuyến du lịch gần đây đi.
 </teacher_script>
 
@@ -213,11 +213,11 @@ You can ask about:
 | **B:** I spent some time relaxing on My Khe Beach, soaking up the sun. I also explored the Marble Mountains and visited the Dragon Bridge. | **B:** Tôi dành thời gian thư giãn trên bãi biển Mỹ Khê, tắm nắng. Tôi cũng đã khám phá Ngũ Hành Sơn và thăm Cầu Rồng. |
 </dialogue>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_2071ff4a.webm">
 Hỏi về: đi đâu (Where), tour trọn gói hay tự túc (Package or self-guided), đi bằng gì (How did you travel), ở đâu (Where did you stay), làm gì (What did you do).
 </teacher_script>
 
-<teacher_script pause="0" action="record">
+<teacher_script pause="0" action="record" href="audio/tts_161340c2.webm">
 Ghi âm hội thoại rồi gửi cho thầy nha.
 </teacher_script>
 
@@ -226,7 +226,7 @@ Ghi âm hội thoại rồi gửi cho thầy nha.
 <!-- chunk: speaking_5 -->
 ### Bài 5 trang 27 - Share partner's experience
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_f7ed1cb9.webm">
 Bài 5 <eng>Speaking</eng> nha. Chia sẻ về trải nghiệm du lịch của bạn với cả lớp đi.
 </teacher_script>
 
@@ -255,13 +255,13 @@ Trong thời gian ở Đà Nẵng, Quỳnh đã chọn khách sạn gần bãi b
 Nhìn chung, trải nghiệm du lịch Đà Nẵng của Quỳnh là sự kết hợp hoàn hảo giữa nghỉ dưỡng, phiêu lưu và khám phá, để lại cho cô những kỷ niệm đáng nhớ.
 </translation>
 
-<teacher_script pause="0" action="record">
+<teacher_script pause="0" action="record" href="audio/tts_5285b5e7.webm">
 Ghi âm bài nói về trải nghiệm du lịch của bạn rồi gửi cho thầy nha.
 </teacher_script>
 
 ---
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_bad8cc55.webm">
 Hết bài rồi nha. Nhớ phân biệt tour trọn gói và tour tự túc nha. Bài tiếp theo là <eng>Skills 2</eng> - nghe về chuyến đi Haworth và viết lịch trình tour. Hẹn gặp lại!
 </teacher_script>

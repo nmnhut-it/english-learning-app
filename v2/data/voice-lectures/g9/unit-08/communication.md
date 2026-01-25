@@ -3,7 +3,7 @@
 ## COMMUNICATION
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_0ddbf70f.webm">
 Ok lớp 9, qua bài <eng>Communication</eng> nha. Mở sách trang 25 đi. Hôm nay học cách diễn đạt nghĩa vụ và kể về chuyến du lịch.
 </teacher_script>
 
@@ -12,7 +12,7 @@ Ok lớp 9, qua bài <eng>Communication</eng> nha. Mở sách trang 25 đi. Hôm
 <!-- chunk: everyday_english -->
 ### Bài 1 trang 25 - Expressing obligation
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_eea1cfe6.webm">
 Bài 1 <eng>Listen and read</eng> nha. Nghe hội thoại về cách diễn đạt nghĩa vụ - những gì bắt buộc phải làm đi.
 </teacher_script>
 
@@ -29,7 +29,7 @@ Bài 1 <eng>Listen and read</eng> nha. Nghe hội thoại về cách diễn đ�
 | **Stranger:** I'm sorry, **it is**. | **Người lạ:** Tôi xin lỗi, **đúng vậy**. |
 </dialogue>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_259d41a4.webm">
 Chú ý nha! <eng>Must</eng> dùng để nói điều bắt buộc - "you must hurry up" = con phải nhanh lên. <eng>Is it necessary...?</eng> dùng để hỏi có cần thiết không.
 </teacher_script>
 
@@ -44,7 +44,7 @@ Chú ý nha! <eng>Must</eng> dùng để nói điều bắt buộc - "you must h
 - **Is it necessary** for us to...? (Có cần thiết để chúng tôi...?)
 </grammar>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_12fe1ef8.webm">
 Ghi vô tập: Diễn đạt nghĩa vụ = must + V / It is necessary (for sb) to + V. 30 giây nha.
 </teacher_script>
 
@@ -53,7 +53,7 @@ Ghi vô tập: Diễn đạt nghĩa vụ = must + V / It is necessary (for sb) t
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 25 - Practice obligation
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_e25a1559.webm">
 Bài 2 <eng>Speaking</eng> nha. Thực hành diễn đạt nghĩa vụ theo tình huống đi. 1 phút nha.
 </teacher_script>
 
@@ -81,11 +81,11 @@ Bài 2 <eng>Speaking</eng> nha. Thực hành diễn đạt nghĩa vụ theo tìn
 - **Teacher:** Yes, **it is**.
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_4adeedcd.webm">
 Tình huống 1: Nói với em trai "You must make a list" - Em phải lập danh sách. Tình huống 2: Giáo viên nói "It is necessary for you to follow" - Các em cần phải tuân theo quy định.
 </teacher_script>
 
-<teacher_script pause="0" action="record">
+<teacher_script pause="0" action="record" href="audio/tts_161340c2.webm">
 Ghi âm hội thoại rồi gửi cho thầy nha.
 </teacher_script>
 
@@ -94,7 +94,7 @@ Ghi âm hội thoại rồi gửi cho thầy nha.
 <!-- chunk: reading -->
 ### Bài 3 trang 25 - Read travel experiences
 
-<teacher_script pause="90">
+<teacher_script pause="90" href="audio/tts_502f83b5.webm">
 Bài 3 <eng>Read</eng> nha. Đọc về trải nghiệm du lịch của Nam, Agi và Haruto rồi điền thông tin đi. 1 phút 30 giây nha.
 </teacher_script>
 
@@ -137,7 +137,7 @@ Bài 3 <eng>Read</eng> nha. Đọc về trải nghiệm du lịch của Nam, Agi
 | **Haruto** | A loft room of a guest house *(phòng gác xép của nhà khách)* | Visiting historical places to learn about China's history *(Tham quan các di tích lịch sử để tìm hiểu lịch sử Trung Quốc)* |
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_1c24911d.webm">
 Nam ở homestay bên biển, bơi và ăn hải sản ở Ninh Thuận. Agi ở khách sạn 3 sao, tham quan văn hóa và đi tàu trên sông Danube ở Budapest. Haruto ở phòng gác mái của nhà khách, tham quan di tích lịch sử ở Bắc Kinh.
 </teacher_script>
 
@@ -153,7 +153,7 @@ Sửa lỗi sai vô bài làm nếu có nha.
 <!-- chunk: speaking -->
 ### Bài 4 trang 25 - Share your holiday
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_cedeb154.webm">
 Bài 4 <eng>Speaking</eng> nha. Kể về chuyến du lịch của em đi. Nhớ đề cập đến: điểm đến, phương tiện, chỗ ở, hoạt động.
 </teacher_script>
 
@@ -187,17 +187,17 @@ Trong hành trình của mình, tôi hòa mình vào nhiều hoạt động khá
 Đó là một trải nghiệm yên bình và đầy thú vị mà tôi sẽ luôn trân trọng.
 </translation>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_b81dc4df.webm">
 Bài mẫu kể về: đi đâu (Tràng An, Ninh Bình), phương tiện (tàu hỏa), chỗ ở (homestay), hoạt động (đi thuyền, thăm hang động và đền cổ), cảm nhận (bình yên).
 </teacher_script>
 
-<teacher_script pause="0" action="record">
+<teacher_script pause="0" action="record" href="audio/tts_e0da18f0.webm">
 Ghi âm bài nói về chuyến du lịch của em rồi gửi cho thầy nha.
 </teacher_script>
 
 ---
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_6466b67a.webm">
 Hết bài rồi nha. Nhớ cách diễn đạt nghĩa vụ với must và It is necessary. Bài tiếp theo là <eng>Skills 1</eng> - đọc về tour trọn gói và tour tự túc. Hẹn gặp lại!
 </teacher_script>

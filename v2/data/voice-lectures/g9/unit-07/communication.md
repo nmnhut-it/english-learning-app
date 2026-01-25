@@ -3,7 +3,7 @@
 ## COMMUNICATION
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_984421cb.webm">
 Chào các em. Mời các em mở sách giáo khoa trang 76. Hôm nay chúng ta qua bài <eng>Communication</eng>. Bài học này sẽ giúp các em tìm hiểu về các kỳ quan thiên nhiên và thực hành cách hỏi xin phép (Asking for permission).
 </teacher_script>
 
@@ -12,7 +12,7 @@ Chào các em. Mời các em mở sách giáo khoa trang 76. Hôm nay chúng ta 
 <!-- chunk: everyday_english -->
 ### Everyday English: Asking for permission
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_aa0eac48.webm">
 Đầu tiên, chúng ta cùng học cấu trúc hỏi xin phép. Các em hãy nghe và đọc đoạn hội thoại sau.
 </teacher_script>
 
@@ -47,7 +47,7 @@ Chào các em. Mời các em mở sách giáo khoa trang 76. Hôm nay chúng ta 
 - I'd rather you didn't.
 </grammar>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_689832a2.webm">
 Các em nhớ nhé: Dùng <eng>Can</eng> cho bạn bè, người thân; dùng <eng>May</eng> để lịch sự hơn.
 </teacher_script>
 
@@ -56,7 +56,7 @@ Các em nhớ nhé: Dùng <eng>Can</eng> cho bạn bè, người thân; dùng <e
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 76 - Make conversations
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_1a226b11.webm">
 Chúng ta cùng làm Bài 2. Các em hãy làm việc theo cặp, sử dụng thông tin bên dưới để tạo các đoạn hội thoại hỏi xin phép.
 </teacher_script>
 
@@ -77,7 +77,7 @@ Chúng ta cùng làm Bài 2. Các em hãy làm việc theo cặp, sử dụng th
 **B:** Sure. Go ahead.
 </dialogue>
 
-<teacher_script pause="0" action="record">
+<teacher_script pause="0" action="record" href="audio/tts_b981c836.webm">
 Các em hãy thực hành 1 tình huống và ghi âm gửi cho thầy nhé.
 </teacher_script>
 
@@ -86,7 +86,7 @@ Các em hãy thực hành 1 tình huống và ghi âm gửi cho thầy nhé.
 <!-- chunk: exercise_3 -->
 ### Bài 3 trang 77 - Natural Wonders Quiz
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_0e854860.webm">
 Chúng ta cùng chuyển sang phần thảo luận về các kỳ quan. Bài 3 <eng>Natural Wonders Quiz</eng>. Các em hãy đọc các câu đố và đoán xem đó là kỳ quan nào. 1 phút nhé.
 </teacher_script>
 
@@ -101,7 +101,7 @@ A. Ha Long Bay | B. Phong Nha Ke Bang
 A. The Great Barrier Reef | B. The Amazon
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_90fff33b.webm">
 Đã hết thời gian. Sau đây là đáp án.
 </teacher_script>
 
@@ -109,13 +109,13 @@ A. The Great Barrier Reef | B. The Amazon
 **Đáp án:** 1.A (Mount Everest) | 2.A (Ha Long Bay) | 3.A (The Great Barrier Reef)
 </answer>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_561450bb.webm">
 Các em có trả lời đúng hết không?
 </teacher_script>
 
 ---
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_1fee82a5.webm">
 Bài học hôm nay kết thúc tại đây. Các em hãy nhớ thực hành cấu trúc hỏi xin phép thường xuyên nhé. Tạm biệt các em!
 </teacher_script>

@@ -3,7 +3,7 @@
 ## LOOKING BACK
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_f91b17eb.webm">
 Ok lớp 9, qua bài cuối cùng của Unit 8: <eng>Looking Back</eng> nha. Mở sách trang 28 đi. Hôm nay ôn tập lại từ vựng và ngữ pháp đã học.
 </teacher_script>
 
@@ -12,7 +12,7 @@ Ok lớp 9, qua bài cuối cùng của Unit 8: <eng>Looking Back</eng> nha. M�
 <!-- chunk: vocabulary_1 -->
 ### Bài 1 trang 28 - Choose correct answer
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_ee5ee1c4.webm">
 Bài 1 <eng>Choose</eng> nha. Chọn đáp án đúng để hoàn thành câu đi. 1 phút nha.
 </teacher_script>
 
@@ -52,7 +52,7 @@ Bài 1 <eng>Choose</eng> nha. Chọn đáp án đúng để hoàn thành câu đ
 **Đáp án:** 1.B | 2.C | 3.C | 4.D | 5.A
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_32a64bde.webm">
 Câu 1: B - travel agency (công ty du lịch). Câu 2: C - ruinous (đổ nát) - nhiều công trình đổ nát là di sản UNESCO. Câu 3: C - hunting (săn lùng) - giỏi săn vé rẻ. Câu 4: D - Google Maps (chỉ đường). Câu 5: A - Food tourism (du lịch ẩm thực).
 </teacher_script>
 
@@ -68,7 +68,7 @@ Sửa lỗi sai vô bài làm nếu có nha.
 <!-- chunk: vocabulary_2 -->
 ### Bài 2 trang 28 - Fill blanks
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_7a33ece6.webm">
 Bài 2 <eng>Fill in</eng> nha. Điền từ vô chỗ trống đi. 1 phút nha.
 </teacher_script>
 
@@ -95,7 +95,7 @@ Bài 2 <eng>Fill in</eng> nha. Điền từ vô chỗ trống đi. 1 phút nha.
 5. natural
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_0f58b40f.webm">
 Câu 1: <eng>domestic</eng> - tour trong nước hay quốc tế. Câu 2: <eng>fixed</eng> - lịch trình cố định không đổi được. Câu 3: <eng>agent</eng> - đặt vé qua đại lý. Câu 4: <eng>self-guided</eng> - tour tự túc cần kinh nghiệm. Câu 5: <eng>natural</eng> - vẻ đẹp thiên nhiên.
 </teacher_script>
 
@@ -111,7 +111,7 @@ Sửa lỗi sai vô bài làm nếu có nha.
 <!-- chunk: grammar_3 -->
 ### Bài 3 trang 28 - Who, Which, Whose
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_542169ea.webm">
 Bài 3 <eng>Grammar</eng> nha. Trước khi làm, ôn lại đại từ quan hệ đi.
 </teacher_script>
 
@@ -125,11 +125,11 @@ Bài 3 <eng>Grammar</eng> nha. Trước khi làm, ôn lại đại từ quan h�
 | **whose** | sở hữu của người/vật (+ danh từ) | The girl **whose** bag is red... |
 </grammar>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_34555120.webm">
 <eng>Who</eng> thay cho người. <eng>Which</eng> thay cho vật. <eng>Whose</eng> chỉ sở hữu - theo sau là danh từ. Nhớ: whose + danh từ nha!
 </teacher_script>
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_168450dc.webm">
 Điền <eng>who</eng>, <eng>which</eng> hoặc <eng>whose</eng> vô chỗ trống đi. 1 phút nha.
 </teacher_script>
 
@@ -154,7 +154,7 @@ Bài 3 <eng>Grammar</eng> nha. Trước khi làm, ôn lại đại từ quan h�
 5. whose
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_14b93099.webm">
 Câu 1: <eng>which</eng> - shop là vật. Câu 2: <eng>who</eng> - uncle là người. Câu 3: <eng>which</eng> - visa là vật. Câu 4: <eng>whose</eng> - tên CỦA khách sạn. Câu 5: <eng>whose</eng> - hộ chiếu CỦA du khách.
 </teacher_script>
 
@@ -170,7 +170,7 @@ Sửa lỗi sai vô bài làm nếu có nha.
 <!-- chunk: grammar_4 -->
 ### Bài 4 trang 28 - Combine sentences
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_b26e4e42.webm">
 Bài 4 <eng>Combine</eng> nha. Nối câu sử dụng đại từ quan hệ trong ngoặc đi. 1 phút nha.
 </teacher_script>
 
@@ -197,7 +197,7 @@ Bài 4 <eng>Combine</eng> nha. Nối câu sử dụng đại từ quan hệ tron
 5. We participated in a lot of activities with the local people, **who** were friendly and helpful.
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_ff1f6d20.webm">
 Câu 1: <eng>whose</eng> - "Its culture" nghĩa là "văn hóa CỦA nó" nên dùng whose thay cho sở hữu. Câu 2: <eng>which</eng> - tours là vật, dùng which. Câu 3: <eng>which</eng> - street là vật, dùng which. Câu 4: <eng>whose</eng> - "their performance" là "màn trình diễn CỦA họ" nên dùng whose. Câu 5: <eng>who</eng> - people là người, dùng who.
 </teacher_script>
 
@@ -211,6 +211,6 @@ Sửa lỗi sai vô bài làm nếu có nha.
 ---
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_bb015292.webm">
 Vậy là xong Unit 8 <eng>Tourism</eng> rồi nha. Nhớ từ vựng du lịch (package tour, self-guided, itinerary, homestay), đại từ quan hệ (who, which, whose) và cách diễn đạt nghĩa vụ (must, It is necessary). Hẹn gặp lại ở Unit 9!
 </teacher_script>

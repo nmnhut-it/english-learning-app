@@ -3,14 +3,14 @@
 ## SKILLS 2 - Listening & Writing
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_2282177f.webm">
 Ok lớp 9, qua bài <eng>Skills 2</eng> nha. Mở sách trang 27 đi. Hôm nay nghe về chuyến đi Haworth ở Anh và viết lịch trình tour.
 </teacher_script>
 
 ---
 
 <!-- chunk: vocabulary -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_c14ef100.webm">
 Trước khi nghe, học từ vựng về chuyến tham quan Brontes nha.
 </teacher_script>
 
@@ -24,7 +24,7 @@ Trước khi nghe, học từ vựng về chuyến tham quan Brontes nha.
 6. **entrance ticket** : (n) vé vào cổng /ˈentrəns ˈtɪkɪt/
 </vocabulary>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_3ef81fcf.webm">
 <eng>The Brontes</eng> là gia đình nhà văn nổi tiếng ở Anh - 3 chị em gái viết văn. <eng>Jane Eyre</eng> là tiểu thuyết nổi tiếng thế giới. <eng>Ruinous</eng> là đổ nát. <eng>Graveyard</eng> là nghĩa trang.
 </teacher_script>
 
@@ -33,7 +33,7 @@ Trước khi nghe, học từ vựng về chuyến tham quan Brontes nha.
 <!-- chunk: listening_exercise_1 -->
 ### Bài 1 trang 27 - Pre-listening
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_510b2c28.webm">
 Bài 1 nha. Thảo luận xem các câu sau đúng hay sai. 30 giây.
 </teacher_script>
 
@@ -51,7 +51,7 @@ Bài 1 nha. Thảo luận xem các câu sau đúng hay sai. 30 giây.
 3. TRUE - Có bản dịch tiếng Việt.
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_17790070.webm">
 Câu 1: True - nhà Brontes là gia đình nhà văn nổi tiếng. Câu 2: False - Jane Eyre chỉ do Charlotte viết, không phải cả 3 chị em. Câu 3: True - có bản dịch tiếng Việt.
 </teacher_script>
 
@@ -60,7 +60,7 @@ Câu 1: True - nhà Brontes là gia đình nhà văn nổi tiếng. Câu 2: Fals
 <!-- chunk: tapescript -->
 ### Tapescript - Bài nghe
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_2c5454ea.webm">
 Đây là nội dung bài nghe nha. Đọc theo rồi nghe để hiểu rõ hơn.
 </teacher_script>
 
@@ -88,7 +88,7 @@ Sau đó, chúng ta sẽ lái xe đến Haworth, ngôi nhà của nhà Brontes. 
 Sau đó, chúng ta có một giờ để ăn trưa. Có những quán cà phê và nhà hàng gần đó. Chuyến tham quan của chúng ta tiếp tục lúc một giờ ba mươi. Chúng ta sẽ đi dạo trên phố chính nơi nhà Brontes đã đi bộ cách đây **150** năm. Nơi đây hầu như không **thay đổi** kể từ đó.
 </translation>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_60e5da27.webm">
 Các từ quan trọng cần điền: nine-hour, world-famous, entrance, graveyard, 150, changed. Giờ nghe bài để làm bài tập nha.
 </teacher_script>
 
@@ -97,7 +97,7 @@ Các từ quan trọng cần điền: nine-hour, world-famous, entrance, graveya
 <!-- chunk: listening_exercise_2 -->
 ### Bài 2 trang 27 - Listening: Fill blanks
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_3158ee8f.webm">
 Bài 2 <eng>Listen and fill</eng> nha. Nghe về chuyến đi Haworth rồi điền thông tin đi. 1 phút nha.
 </teacher_script>
 
@@ -130,7 +130,7 @@ Bài 2 <eng>Listen and fill</eng> nha. Nghe về chuyến đi Haworth rồi đi�
 6. change
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_c0f55646.webm">
 Câu 1: 9 giờ - chuyến đi kéo dài 9 tiếng. Câu 2: world-famous - Jane Eyre là sách nổi tiếng thế giới. Câu 3: graveyard - thăm nhà, trường và nghĩa trang. Câu 4: entrance - vé vào cổng được bao gồm. Câu 5: 150 năm trước - nhà Brontes sống ở Haworth. Câu 6: change - con phố chính ít thay đổi.
 </teacher_script>
 
@@ -146,7 +146,7 @@ Sửa lỗi sai vô bài làm nếu có nha.
 <!-- chunk: listening_exercise_3 -->
 ### Bài 3 trang 27 - Tick pictures
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_7698cc2b.webm">
 Bài 3 <eng>Listen and tick</eng> nha. Nghe rồi đánh dấu hình ảnh được nhắc đến đi. 30 giây.
 </teacher_script>
 
@@ -158,7 +158,7 @@ Bài 3 <eng>Listen and tick</eng> nha. Nghe rồi đánh dấu hình ảnh đư�
 **Đáp án:** Picture 1 and 3.
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_1a4aa7e2.webm">
 Đáp án là hình 1 và hình 3 nha.
 </teacher_script>
 
@@ -174,7 +174,7 @@ Sửa lỗi sai vô bài làm nếu có nha.
 <!-- chunk: writing_prep -->
 ### Bài 4 trang 27 - Writing Prep
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_0b6d9ba6.webm">
 Bài 4 nha. Thảo luận xem hướng dẫn viên đã đề cập đến những gì. 30 giây.
 </teacher_script>
 
@@ -195,7 +195,7 @@ Bài 4 nha. Thảo luận xem hướng dẫn viên đã đề cập đến nhữ
 ✓ 4. Some brief details about each place (Jane Eyre, graveyard, 150 years ago)
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_07e8460c.webm">
 Hướng dẫn viên đề cập đến: độ dài chuyến đi (9 tiếng), các địa điểm tham quan (nhà, trường, nghĩa trang), chi tiết ngắn (Jane Eyre, 150 năm). Không nhắc đến chi phí tour.
 </teacher_script>
 
@@ -204,7 +204,7 @@ Hướng dẫn viên đề cập đến: độ dài chuyến đi (9 tiếng), c�
 <!-- chunk: writing -->
 ### Bài 5 trang 27 - Write a tour itinerary
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_11d310d0.webm">
 Bài 5 <eng>Write</eng> nha. Viết đoạn văn 100-120 từ giới thiệu chuyến du lịch Huế nửa ngày đi.
 </teacher_script>
 
@@ -248,21 +248,21 @@ Sau đó, chúng ta sẽ đến Chợ Đông Ba, khu chợ lớn nhất thành p
 Chuyến tham quan này là một cách tuyệt vời để khám phá lịch sử và văn hóa của Huế chỉ trong nửa ngày!
 </translation>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_be9584de.webm">
 Bài mẫu có cấu trúc: mở đầu (độ dài tour, phương tiện), sau đó liệt kê các điểm dừng theo thứ tự (First/Next/Finally), kèm chi tiết ngắn về mỗi địa điểm.
 </teacher_script>
 
-<teacher_script pause="300">
+<teacher_script pause="300" href="audio/tts_1dc6898f.webm">
 Viết lịch trình tour vô vở đi. 5 phút nha.
 </teacher_script>
 
-<teacher_script pause="0" action="photo">
+<teacher_script pause="0" action="photo" href="audio/tts_d96bf85c.webm">
 Chụp hình bài viết rồi gửi cho thầy nha.
 </teacher_script>
 
 ---
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_ffe0a8a8.webm">
 Hết bài rồi nha. Nhớ cách viết lịch trình tour nha. Bài tiếp theo là <eng>Looking Back</eng> - ôn tập toàn bộ Unit 8. Hẹn gặp lại!
 </teacher_script>

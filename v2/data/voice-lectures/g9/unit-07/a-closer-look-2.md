@@ -3,7 +3,7 @@
 ## A CLOSER LOOK 2 - Grammar
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_3eb8c6d8.webm">
 Chào các em. Mời các em mở sách giáo khoa trang 75. Hôm nay chúng ta qua phần <eng>A Closer Look 2</eng>. Bài học này sẽ giúp các em ôn tập và thực hành ngữ pháp về Câu tường thuật với câu hỏi Yes/No (Reported speech with Yes/No questions).
 </teacher_script>
 
@@ -38,7 +38,7 @@ Khi chuyển một câu hỏi Yes/No từ trực tiếp sang gián tiếp (tư�
 - Gián tiếp: She asked him **whether** he **could** speak English.
 </grammar>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_99095f15.webm">
 Lưu ý quan trọng nhất là phải thêm **if** hoặc **whether** và không được đảo ngữ (Do/Does/Did) nữa nhé.
 </teacher_script>
 
@@ -47,7 +47,7 @@ Lưu ý quan trọng nhất là phải thêm **if** hoặc **whether** và khôn
 <!-- chunk: exercise_1 -->
 ### Bài 1 trang 75 - Rewrite sentences
 
-<teacher_script pause="90">
+<teacher_script pause="90" href="audio/tts_912e2fb7.webm">
 Chúng ta cùng làm Bài 1. Các em hãy viết lại các câu hỏi sau sang dạng câu tường thuật. Các em có 1 phút 30 giây.
 </teacher_script>
 
@@ -104,7 +104,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 75 - Multiple Choice
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_9e79b5ed.webm">
 Chúng ta cùng làm Bài 2 <eng>Choose the correct answer</eng>. Các em hãy chọn đáp án đúng để hoàn thành câu. Các em có 1 phút.
 </teacher_script>
 
@@ -151,13 +151,13 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 <!-- chunk: exercise_3 -->
 ### Bài 3 trang 75 - Interaction
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_4eae0cf4.webm">
 Bài 3. Các em hãy làm việc theo cặp. Một bạn hỏi câu hỏi Yes/No, bạn kia tường thuật lại cho người thứ ba. Ví dụ:
 - Bạn A: "Do you like spicy food?"
 - Bạn B (nói với C): "A asked me if I liked spicy food."
 </teacher_script>
 
-<teacher_script pause="0" action="record">
+<teacher_script pause="0" action="record" href="audio/tts_4115241b.webm">
 Các em hãy thực hành 2 câu và ghi âm gửi cho thầy nhé.
 </teacher_script>
 
@@ -166,7 +166,7 @@ Các em hãy thực hành 2 câu và ghi âm gửi cho thầy nhé.
 <!-- chunk: additional_practice -->
 ### Bài tập thực hành bổ sung
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_cbbf3ff7.webm">
 Các em làm thêm bài tập thực hành để củng cố ngữ pháp câu tường thuật nha. Bài tập này rất quan trọng đó!
 </teacher_script>
 
@@ -175,7 +175,7 @@ Các em làm thêm bài tập thực hành để củng cố ngữ pháp câu t�
 <!-- chunk: practice_1 -->
 ### Bài tập 1 - Reported Speech Practice
 
-<teacher_script pause="150">
+<teacher_script pause="150" href="audio/tts_55fdc4df.webm">
 Chúng ta cùng làm Bài tập 1. Các em hãy chuyển các câu hỏi trực tiếp về kỳ quan thiên nhiên sang câu tường thuật. Các em có 2 phút 30 giây.
 </teacher_script>
 
@@ -219,23 +219,23 @@ Chúng ta cùng làm Bài tập 1. Các em hãy chuyển các câu hỏi trực 
 **5.** My mom asked **if I would go** hiking in Sapa the following month.
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_305b4dff.webm">
 Câu 1: <eng>Have you ever visited</eng> chuyển thành <eng>if I had ever visited</eng>. Hiện tại hoàn thành lùi thành quá khứ hoàn thành.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_8ef6e4b6.webm">
 Câu 2: <eng>Can tourists explore</eng> chuyển thành <eng>whether tourists could explore</eng>. <eng>Can</eng> lùi thành <eng>could</eng>.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_071e057a.webm">
 Câu 3: <eng>Did you take</eng> chuyển thành <eng>if he had taken</eng>. Quá khứ đơn lùi thành quá khứ hoàn thành.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_c4ff4276.webm">
 Câu 4: <eng>Are the caves</eng> chuyển thành <eng>whether the caves were</eng>. Hiện tại đơn lùi thành quá khứ đơn.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_e154d323.webm">
 Câu 5: <eng>Will you go</eng> chuyển thành <eng>if I would go</eng>. <eng>Will</eng> lùi thành <eng>would</eng>, <eng>next month</eng> đổi thành <eng>the following month</eng>.
 </teacher_script>
 
@@ -248,7 +248,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 <!-- chunk: practice_2 -->
 ### Bài tập 2 - Choose if or whether
 
-<teacher_script pause="90">
+<teacher_script pause="90" href="audio/tts_f5c39ef3.webm">
 Chúng ta cùng làm Bài tập 2. Các em hãy chọn <eng>if</eng> hoặc <eng>whether</eng> và chia động từ đúng. Các em có 1 phút 30 giây.
 </teacher_script>
 
@@ -286,19 +286,19 @@ Chúng ta cùng làm Bài tập 2. Các em hãy chọn <eng>if</eng> hoặc <eng
 6. if/whether | had
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_77fa312e.webm">
 Cả <eng>if</eng> và <eng>whether</eng> đều đúng trong tất cả các câu. Hai từ này có thể thay thế cho nhau trong câu tường thuật Yes/No question.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_abe9887d.webm">
 Câu 1: <eng>is</eng> lùi thành <eng>was</eng>. Núi Everest cao nhất châu Á.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_6de80ef4.webm">
 Câu 2, 4, 5, 6: Đều lùi thì từ hiện tại sang quá khứ. <eng>understand</eng> thành <eng>understood</eng>, <eng>is</eng> thành <eng>was</eng>, <eng>want</eng> thành <eng>wanted</eng>, <eng>have</eng> thành <eng>had</eng>.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_eef8eaf1.webm">
 Câu 3: <eng>can</eng> lùi thành <eng>could</eng>. Bơi qua hồ có được không.
 </teacher_script>
 
@@ -311,7 +311,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 <!-- chunk: practice_3 -->
 ### Bài tập 3 - Mixed Practice
 
-<teacher_script pause="120">
+<teacher_script pause="120" href="audio/tts_edf370f4.webm">
 Bài tập cuối cùng khó hơn một chút. Các em hãy viết câu hoàn chỉnh. Các em có 2 phút.
 </teacher_script>
 
@@ -360,27 +360,27 @@ Bài tập cuối cùng khó hơn một chút. Các em hãy viết câu hoàn ch
 6. The student asked the teacher whether ancient people had lived in those caves.
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_bc3ab774.webm">
 Câu 1: <eng>Do you know</eng> chuyển thành <eng>if I knew</eng>. Nhớ đổi <eng>you</eng> thành <eng>I</eng> nha.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_75f1decf.webm">
 Câu 2: <eng>Is Niagara Falls</eng> chuyển thành <eng>whether Niagara Falls was</eng>. Dùng <eng>whether</eng> khi có lựa chọn <eng>or</eng>.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_3115c3a7.webm">
 Câu 3: <eng>Have you booked</eng> chuyển thành <eng>if I had booked</eng>. Hiện tại hoàn thành lùi thành quá khứ hoàn thành.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_faa3cdd5.webm">
 Câu 4: <eng>Can we climb</eng> chuyển thành <eng>whether they could climb</eng>. <eng>Can</eng> lùi thành <eng>could</eng>, <eng>we</eng> đổi thành <eng>they</eng>.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_4701abb3.webm">
 Câu 5: <eng>Are there</eng> chuyển thành <eng>if there were</eng>. Trong rừng có động vật nguy hiểm không.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_2350a7ff.webm">
 Câu 6: <eng>Did ancient people live</eng> chuyển thành <eng>whether ancient people had lived</eng>. Nhớ đổi <eng>these</eng> thành <eng>those</eng> nha!
 </teacher_script>
 
@@ -391,6 +391,6 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 ---
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_85867d67.webm">
 Bài học hôm nay kết thúc tại đây. Các em hãy ghi nhớ công thức câu tường thuật Yes/No question nhé. Hẹn gặp lại các em!
 </teacher_script>

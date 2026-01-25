@@ -139,7 +139,7 @@ Bài 3 <eng>Fill in</eng> nha. Điền từ vô chỗ trống đi. 1 phút nha.
 5. **free** - "free air conditioning" = điều hòa miễn phí (bài viết nói year-round FREE air conditioning).
 </explanation>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_1a343171.webm">
 Câu 1: sales - đợt giảm giá. Câu 2: try - try on là thử quần áo. Câu 3: entertainment - giải trí. Câu 4: decorations - trang trí. Câu 5: free - miễn phí nha.
 </teacher_script>
 

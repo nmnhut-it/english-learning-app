@@ -161,19 +161,19 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 **Đáp án:** 1.T | 2.F | 3.T | 4.F
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_005e7f0d.webm">
 Câu 1 là <eng>True</eng>. Tom <eng>won second prize</eng>, nghĩa là Tom tham gia cuộc thi.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_f0a9f384.webm">
 Câu 2 là <eng>False</eng>. Lan nói <eng>I'm interested in them, too</eng>, nghĩa là Lan cũng quan tâm. Chữ <eng>not</eng> trong đề làm câu sai.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_0d40e40c.webm">
 Câu 3 là <eng>True</eng>. Tom nói <eng>I suggested ways to preserve them</eng>. Đúng y chang trong bài.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_81fe3e9f.webm">
 Câu 4 là <eng>False</eng>. Cẩn thận câu này. <eng>The host asked me if I wanted to visit those places</eng> - người dẫn chương trình hỏi Tom, không phải Tom hỏi. Đề đổi ngược chủ ngữ, nhiều bạn hay sai chỗ này.
 </teacher_script>
 
@@ -189,7 +189,7 @@ Câu 4 là <eng>False</eng>. Cẩn thận câu này. <eng>The host asked me if I
 
 ### Bài 3 trang 73 - Fill in the blanks
 
-<teacher_script pause="60" href="audio/tts_d5b1d729.mp3">
+<teacher_script pause="60" href="audio/tts_d5b1d729.webm">
 Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
 </teacher_script>
 
@@ -219,23 +219,23 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 **Đáp án:** 1. landscape | 2. couldn't help | 3. explore | 4. support | 5. development
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_37684104.webm">
 Câu 1 là <eng>landscape</eng> - phong cảnh. <eng>Everything you see when you look across a large area</eng> - đó là định nghĩa của <eng>landscape</eng>.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_a8cd7ba0.webm">
 Câu 2 là <eng>couldn't help</eng>. Cấu trúc <eng>can't help + Ving</eng> = không thể không làm gì. Trong bài là <eng>can't help admiring</eng>. Cấu trúc này quan trọng nha, nhớ kỹ.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_db6d275f.webm">
 Câu 3 là <eng>explore</eng> - khám phá. <eng>The best way to explore</eng> = cách tốt nhất để khám phá.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_5e363ca8.webm">
 Câu 4 là <eng>support</eng> - ủng hộ. <eng>Environmentalists support measures</eng> = nhà môi trường ủng hộ biện pháp.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_305d4f73.webm">
 Câu 5 là <eng>development</eng>. <eng>Sustainable development</eng> = phát triển bền vững. Cụm từ này rất quan trọng, hay ra thi luôn.
 </teacher_script>
 
@@ -284,23 +284,23 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 **Đáp án:** 1. crazy | 2. landscape | 3. explore | 4. suggest | 5. contributes
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_b11bfd2d.webm">
 Câu 1: <eng>crazy</eng>. <eng>Be crazy about</eng> = mê, cuồng. Không đổi dạng vì đây là tính từ.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_e7010cf0.webm">
 Câu 2: <eng>landscape</eng> - phong cảnh. Danh từ, không đổi dạng.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_099a70a3.webm">
 Câu 3: <eng>explore</eng>. Cấu trúc <eng>eager to + V-inf</eng>, nên giữ nguyên <eng>explore</eng>.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_8889c144.webm">
 Câu 4: <eng>suggest</eng>. <eng>Can you suggest...?</eng> Động từ nguyên mẫu sau <eng>can</eng>, không chia.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_0946c3f3.webm">
 Câu 5: <eng>contributes</eng>. <eng>Tourism</eng> là danh từ số ít, nên động từ phải thêm <eng>s</eng>. Thì hiện tại đơn, diễn tả sự thật. Cẩn thận câu này, nhiều bạn quên thêm <eng>s</eng>.
 </teacher_script>
 

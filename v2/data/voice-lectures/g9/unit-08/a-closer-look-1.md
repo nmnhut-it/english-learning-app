@@ -3,14 +3,14 @@
 ## A CLOSER LOOK 1
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_2d4f9417.webm">
 Ok lớp 9, qua bài <eng>A Closer Look 1</eng> nha. Mở sách trang 22 đi. Hôm nay học thêm từ vựng du lịch và phát âm trọng âm với đuôi -ic và -ious.
 </teacher_script>
 
 ---
 
 <!-- chunk: vocabulary -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_e743108b.webm">
 Các em mở sách ra, Unit 8, bài <eng>A Closer Look 1</eng>, ghi tựa bài. Sau đó bấm nút "Bắt đầu" bên dưới để học từ vựng. Máy sẽ đọc và các em đọc theo. Sau đó các em làm bài trắc nghiệm từ vựng rồi ghi từ vựng vô tập.
 </teacher_script>
 
@@ -25,7 +25,7 @@ Các em mở sách ra, Unit 8, bài <eng>A Closer Look 1</eng>, ghi tựa bài. 
 7. **entrance ticket** : (n) vé vào cổng /ˈentrəns ˈtɪkɪt/
 </vocabulary>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_736355c1.webm">
 Chú ý nha! <eng>Package holiday</eng> là kỳ nghỉ trọn gói - công ty du lịch lo hết. <eng>Self-guided tour</eng> là tour tự túc - mình tự lên kế hoạch. <eng>Itinerary</eng> là lịch trình. <eng>Homestay</eng> là ở nhà dân địa phương. <eng>Travel agency</eng> là công ty du lịch.
 </teacher_script>
 
@@ -34,7 +34,7 @@ Chú ý nha! <eng>Package holiday</eng> là kỳ nghỉ trọn gói - công ty d
 <!-- chunk: exercise_1 -->
 ### Bài 1 trang 22 - Match words with explanations
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_713d33fc.webm">
 Bài 1 <eng>Match</eng> nha. Nối từ với định nghĩa đi. 1 phút nha.
 </teacher_script>
 
@@ -54,7 +54,7 @@ Bài 1 <eng>Match</eng> nha. Nối từ với định nghĩa đi. 1 phút nha.
 **Đáp án:** 1.e | 2.c | 3.a | 4.b | 5.d
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_3d6fd7b2.webm">
 <eng>Package holiday</eng> nối với e - kỳ nghỉ do công ty du lịch tổ chức. <eng>Self-guided tour</eng> nối với c - tour tự túc. <eng>Trip itinerary</eng> nối với a - lịch trình. <eng>Homestay</eng> nối với b - ở nhà dân. <eng>Google Maps</eng> nối với d - chỉ đường.
 </teacher_script>
 
@@ -70,7 +70,7 @@ Sửa lỗi sai vô bài làm nếu có nha.
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 22 - Replace 'it' with phrases
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_6ab69551.webm">
 Bài 2 <eng>Replace</eng> nha. Thay từ "it" bằng cụm từ phù hợp đi. 1 phút nha.
 </teacher_script>
 
@@ -105,7 +105,7 @@ Bài 2 <eng>Replace</eng> nha. Thay từ "it" bằng cụm từ phù hợp đi. 
 5. smooth trip
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_26d3137c.webm">
 Câu 1: <eng>entrance ticket</eng> - vé vào cổng. Câu 2: <eng>ruinous site</eng> - Colosseum là di tích đổ nát. Câu 3: <eng>Travel agency</eng> - công ty du lịch lo hết. Câu 4: <eng>fixed itinerary</eng> - lịch trình cố định không đổi được. Câu 5: <eng>smooth trip</eng> - chuyến đi suôn sẻ.
 </teacher_script>
 
@@ -121,7 +121,7 @@ Sửa lỗi sai vô bài làm nếu có nha.
 <!-- chunk: exercise_3 -->
 ### Bài 3 trang 22 - Complete sentences
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_fc7cb558.webm">
 Bài 3 <eng>Fill in</eng> nha. Điền từ vô chỗ trống đi. 1 phút nha.
 </teacher_script>
 
@@ -156,7 +156,7 @@ Bài 3 <eng>Fill in</eng> nha. Điền từ vô chỗ trống đi. 1 phút nha.
 5. apps
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_fbd616bb.webm">
 Câu 1: <eng>self-guided</eng> - tour tự túc phù hợp ngân sách. Câu 2: <eng>itinerary</eng> - lịch trình chuyến đi. Câu 3: <eng>entrance</eng> - vé vào cổng. Câu 4: <eng>package</eng> - kỳ nghỉ trọn gói phải theo lịch trình cố định. Câu 5: <eng>apps</eng> - tải app để có thông tin.
 </teacher_script>
 
@@ -172,7 +172,7 @@ Sửa lỗi sai vô bài làm nếu có nha.
 <!-- chunk: pronunciation -->
 ### Pronunciation: Stress in -ic and -ious
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_8111842d.webm">
 Phần phát âm nha. Quy tắc trọng âm với đuôi <eng>-ic</eng> và <eng>-ious</eng> rất quan trọng nè!
 </teacher_script>
 
@@ -182,11 +182,11 @@ Phần phát âm nha. Quy tắc trọng âm với đuôi <eng>-ic</eng> và <eng
 - Words ending in **-ious**: Stress the syllable before it. (e.g. *de-LI-cious, in-DUS-tri-ous*)
 </pronunciation_theory>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_5c5c9c57.webm">
 Nhớ nè! Từ có đuôi <eng>-ic</eng> hoặc <eng>-ious</eng> thì trọng âm rơi vào âm tiết NGAY TRƯỚC đuôi đó. Ví dụ: fan-TAS-tic, de-LI-cious. Dễ nhớ nha: trọng âm đứng TRƯỚC đuôi -ic/-ious!
 </teacher_script>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_09c573f2.webm">
 Ghi vô tập: Đuôi -ic và -ious: trọng âm rơi vào âm tiết ngay trước đuôi. 30 giây nha.
 </teacher_script>
 
@@ -200,7 +200,7 @@ Ghi vô tập: Đuôi -ic và -ious: trọng âm rơi vào âm tiết ngay trư�
 - **-ious**: curious, serious, delicious, hilarious, religious
 </task>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_3f4c1bd1.webm">
 Nghe và đọc theo nha. Với đuôi -ic: BAS-ic, PUB-lic, CLAS-sic, do-MES-tic, his-TO-ric. Với đuôi -ious: CU-ri-ous, SE-ri-ous, de-LI-cious, hi-LA-ri-ous, re-LI-gious.
 </teacher_script>
 
@@ -209,7 +209,7 @@ Nghe và đọc theo nha. Với đuôi -ic: BAS-ic, PUB-lic, CLAS-sic, do-MES-ti
 <!-- chunk: exercise_5 -->
 ### Bài 5 trang 23 - Mark stress
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_6a600193.webm">
 Bài 5 <eng>Mark stress</eng> nha. Nghe và đánh dấu trọng âm cho các từ trong câu đi. 1 phút nha.
 </teacher_script>
 
@@ -245,7 +245,7 @@ Bài 5 <eng>Mark stress</eng> nha. Nghe và đánh dấu trọng âm cho các t�
 5. ro'mantic /rəʊˈmæn.tɪk/, 'various /ˈveə.ri.əs/
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_822d4f2a.webm">
 Câu 1: CU-ri-ous và PUB-lic - nhấn âm đầu. Câu 2: am-BI-tious và Pa-CI-fic - nhấn âm thứ hai. Câu 3: CLAS-sic và PRE-vi-ous - nhấn âm đầu. Câu 4: lu-XU-ri-ous và ter-RI-fic - nhấn âm thứ hai. Câu 5: ro-MAN-tic và VA-ri-ous - romantic nhấn âm thứ hai, various nhấn âm đầu.
 </teacher_script>
 
@@ -261,7 +261,7 @@ Sửa lỗi sai vô bài làm nếu có nha.
 <!-- chunk: additional_practice -->
 ### Bài tập thực hành bổ sung
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_8bb99499.webm">
 Giờ làm thêm bài tập thực hành để củng cố từ vựng và phát âm nha. Quan trọng lắm đó!
 </teacher_script>
 
@@ -270,7 +270,7 @@ Giờ làm thêm bài tập thực hành để củng cố từ vựng và phát
 <!-- chunk: practice_1 -->
 ### Bài tập 1 - Tourism Vocabulary
 
-<teacher_script pause="120">
+<teacher_script pause="120" href="audio/tts_232feb12.webm">
 Bài tập 1 <eng>Fill in</eng> nha. Điền từ vô chỗ trống đi. 2 phút nha.
 </teacher_script>
 
@@ -293,7 +293,7 @@ Bài tập 1 <eng>Fill in</eng> nha. Điền từ vô chỗ trống đi. 2 phút
 ---
 
 <!-- chunk: answer_practice_1 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_7cef87a3.mp3">
 Hết giờ rồi. Ok đáp án nè.
 </teacher_script>
 
@@ -307,27 +307,27 @@ Hết giờ rồi. Ok đáp án nè.
 6. package holiday
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_bc34eb68.webm">
 Câu 1: <eng>package holiday</eng> - kỳ nghỉ trọn gói. Đặt tour ở công ty du lịch.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_7e443d22.webm">
 Câu 2: <eng>self-guided tour</eng> - tour tự túc. Tự khám phá theo tốc độ của mình.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_b1ef1702.webm">
 Câu 3: <eng>itinerary</eng> - lịch trình. Bao gồm các điểm tham quan.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_cdc40542.webm">
 Câu 4: <eng>entrance ticket</eng> - vé vào cổng. Phải mua vé để vào bảo tàng.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_d716fa9d.webm">
 Câu 5: <eng>homestay</eng> - ở nhà dân. Trải nghiệm văn hóa địa phương.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_5a7fafcd.webm">
 Câu 6: <eng>package holiday</eng> - kỳ nghỉ trọn gói. Mọi thứ đã được sắp xếp sẵn, tiện lợi lắm.
 </teacher_script>
 
@@ -343,7 +343,7 @@ Sửa lỗi sai vô bài làm nếu có nha.
 <!-- chunk: practice_2 -->
 ### Bài tập 2 - Word Stress Practice
 
-<teacher_script pause="90">
+<teacher_script pause="90" href="audio/tts_c2e0ab34.webm">
 Bài tập 2 <eng>Mark stress</eng> nha. Đánh dấu trọng âm cho các từ có đuôi -ic và -ious đi. 1 phút 30 giây nha.
 </teacher_script>
 
@@ -363,7 +363,7 @@ Bài tập 2 <eng>Mark stress</eng> nha. Đánh dấu trọng âm cho các từ 
 ---
 
 <!-- chunk: answer_practice_2 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_7cef87a3.mp3">
 Hết giờ rồi. Ok đáp án nè.
 </teacher_script>
 
@@ -380,19 +380,19 @@ Hết giờ rồi. Ok đáp án nè.
 8. indus'trious
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_5419040d.webm">
 Nhớ quy tắc: Trọng âm rơi vào âm tiết **ngay trước** đuôi -ic và -ious nha.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_59221f6a.webm">
 Ví dụ: scien-TI-fic (3 âm tiết, nhấn âm thứ 2), his-TO-ric (3 âm tiết, nhấn âm thứ 2).
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_b8b31f56.webm">
 Với -ious cũng vậy: mys-TE-ri-ous, lu-XU-ri-ous, indus-TRI-ous. Tất cả đều nhấn âm ngay trước đuôi.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_142b5ca5.webm">
 Lưu ý câu 4: <eng>spacious</eng> chỉ có 2 âm tiết nên nhấn âm đầu tiên <eng>SPA-cious</eng>.
 </teacher_script>
 
@@ -408,7 +408,7 @@ Sửa lỗi sai vô bài làm nếu có nha.
 <!-- chunk: practice_3 -->
 ### Bài tập 3 - Mixed Practice
 
-<teacher_script pause="120">
+<teacher_script pause="120" href="audio/tts_4f2faaa9.webm">
 Bài tập cuối kết hợp cả từ vựng và trọng âm nha. Hoàn thành các câu đi. 2 phút nha.
 </teacher_script>
 
@@ -433,7 +433,7 @@ Bài tập cuối kết hợp cả từ vựng và trọng âm nha. Hoàn thành
 ---
 
 <!-- chunk: answer_practice_3 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_7cef87a3.mp3">
 Hết giờ rồi. Ok đáp án nè.
 </teacher_script>
 
@@ -450,35 +450,35 @@ Hết giờ rồi. Ok đáp án nè.
 8. package holiday
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_99ac8463.webm">
 Câu 1: <eng>travel agency</eng> - công ty du lịch. Giúp lên kế hoạch du lịch.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_ac2b834f.webm">
 Câu 2: <eng>spacious</eng> - rộng rãi, nhấn âm đầu <eng>SPA-cious</eng>.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_28eb06e9.webm">
 Câu 3: <eng>itinerary</eng> - lịch trình. Linh hoạt nên có thể thay đổi kế hoạch.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_832ae1ce.webm">
 Câu 4: <eng>historic</eng> - lịch sử, nhấn âm thứ 2 <eng>his-TO-ric</eng>.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_7e217213.webm">
 Câu 5: <eng>delicious</eng> - ngon, nhấn âm thứ 2 <eng>de-LI-cious</eng>.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_4986a6aa.webm">
 Câu 6: <eng>homestay</eng> - ở nhà dân. Ở Hội An ba đêm.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_17a73f81.webm">
 Câu 7: <eng>authentic</eng> - chính gốc, nhấn âm thứ 2 <eng>au-THEN-tic</eng>.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_83c16ab4.webm">
 Câu 8: <eng>package holiday</eng> - kỳ nghỉ trọn gói. Tiết kiệm thời gian và công sức.
 </teacher_script>
 
@@ -490,7 +490,7 @@ Sửa lỗi sai vô bài làm nếu có nha.
 </teacher_script>
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_6e856a6b.webm">
 Hết bài rồi nha. Nhớ từ vựng du lịch và quy tắc trọng âm với đuôi -ic và -ious nha. Bài tiếp theo là <eng>A Closer Look 2</eng> - học ngữ pháp đại từ quan hệ. Hẹn gặp lại!
 </teacher_script>
 
