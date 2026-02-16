@@ -3,7 +3,7 @@
 
 <!-- chunk: intro -->
 <teacher_script pause="0">
-Ok lớp 9, Unit 11 bài <eng>A Closer Look 1</eng> nha. Mở sách trang 116 đi. Bài này mình học từ vựng về chủ đề thiết bị điện tử và vật liệu, rồi phần phát âm về trọng âm của từ có đuôi <eng>-ful</eng> và <eng>-less</eng>.
+Ok lớp 9, Unit 11 bài <eng>A Closer Look 1</eng> nha. Mở sách trang 116 đi. Bài này mình học từ vựng về chủ đề thiết bị điện tử và vật liệu, rồi phần phát âm về trọng âm trong câu ngắn.
 </teacher_script>
 
 <!-- chunk: vocabulary -->
@@ -169,33 +169,33 @@ Ok đáp án bài 2 nè. Cô giải thích từng câu luôn nha.
 </explanation>
 
 <!-- chunk: exercise-3 -->
-### Bai 3 trang 116 - Complete sentences
+### Bai 3 trang 116 - Circle the correct words
 
 <teacher_script pause="0">
-Bài 3 <eng>Complete each sentence with a word or phrase from 1 or 2</eng> nha. Hoàn thành mỗi câu bằng một từ hoặc cụm từ từ bài 1 hoặc bài 2. Lần này các em dùng cả từ vựng về thiết bị điện tử lẫn vật liệu nha.
+Bài 3 <eng>Circle the correct words or phrases to complete the following sentences</eng> nha. Khoanh tròn từ hoặc cụm từ đúng để hoàn thành câu. Mỗi câu có 2 lựa chọn, các em chọn từ phù hợp nhất.
 </teacher_script>
 
 <task>
-**De:** Complete each sentence with a word or phrase from 1 or 2.
+**De:** Circle the correct words or phrases to complete the following sentences.
 
-**Dich de:** Hoàn thành mỗi câu bằng một từ hoặc cụm từ từ bài 1 hoặc bài 2.
+**Dich de:** Khoanh tròn những từ hoặc cụm từ đúng để hoàn thành những câu sau.
 </task>
 
-<questions type="fill_blanks">
-**1.** This ball is made of _______. It bounces very well.
-*Quả bóng này được làm bằng _______. Nó nảy rất tốt.*
+<questions type="multiple_choice">
+**1.** The most common use for **rubber / iron** is for producing tyres for cars, motorbikes, bicycles, etc.
+*Ứng dụng phổ biến nhất của _______ là sản xuất lốp ô tô, xe máy, xe đạp, v.v.*
 
-**2.** This bridge is made of _______. It is very strong.
-*Cây cầu này được làm bằng _______. Nó rất chắc chắn.*
+**2.** The most popular material for the construction of buildings and bridges is **plastic / steel** because it is strong enough to support heavy loads.
+*Vật liệu phổ biến nhất để xây dựng tòa nhà và cầu là _______ vì nó đủ bền để chịu tải trọng lớn.*
 
-**3.** In the future, _______ may be used to create replacement body parts.
-*Trong tương lai, _______ có thể được dùng để tạo ra các bộ phận cơ thể thay thế.*
+**3.** Today **3D printers / photocopiers** allow us to create three-dimensional objects, eg. medical implants, clothes, cars, etc.
+*Ngày nay _______ cho phép chúng ta tạo ra vật thể ba chiều, ví dụ: cấy ghép y tế, quần áo, ô tô, v.v.*
 
-**4.** The box is made of _______. It's easy to recycle.
-*Cái hộp này được làm bằng _______. Nó dễ tái chế.*
+**4.** We use **copper / cardboard** to make food packaging such as cereal and pasta boxes, as it is food-safe and not harmful to the environment.
+*Chúng ta dùng _______ để làm bao bì thực phẩm như hộp ngũ cốc và mì ống vì nó an toàn cho thực phẩm và không gây hại cho môi trường.*
 
-**5.** We used _______ to record our school trip last weekend.
-*Chúng tôi đã dùng _______ để quay chuyến đi dã ngoại của trường vào cuối tuần trước.*
+**5.** They use **camcorders / portable music players** for live-streaming video content such as concerts, live events, and webinars.
+*Họ sử dụng _______ để phát trực tiếp nội dung video như buổi hòa nhạc, sự kiện trực tiếp, và hội thảo trên web.*
 </questions>
 
 <teacher_script pause="60">
@@ -211,190 +211,160 @@ Ok đáp án bài 3 nè. Cô giải thích từng câu luôn nghen.
 </answer>
 
 <explanation>
-**Cau 1. rubber** - Quả bóng làm bằng **cao su** vì cao su có tính đàn hồi, nảy rất tốt. Các em nghĩ tới quả bóng rổ hay bóng tennis đi, đều làm bằng cao su hết á.
+**Câu 1. rubber** - Cao su được dùng phổ biến nhất để sản xuất lốp xe. Iron = sắt, không phù hợp vì lốp xe cần vật liệu đàn hồi, không phải kim loại cứng.
 
-**Cau 2. steel** - Cây cầu làm bằng **thép** vì thép rất cứng và chắc chắn, chịu được trọng lượng lớn. Cầu cần vật liệu bền chắc nên dùng thép là hợp lý nhất.
+**Câu 2. steel** - Thép là vật liệu phổ biến nhất trong xây dựng tòa nhà và cầu vì nó đủ bền để chịu tải trọng nặng. Plastic = nhựa, quá yếu cho xây dựng.
 
-**Cau 3. 3D printers** - Trong tương lai, **máy in 3D** có thể được dùng để tạo ra các bộ phận cơ thể thay thế. Công nghệ in 3D đang phát triển rất nhanh, tương lai có thể in ra xương, da, và các bộ phận khác luôn á. Hay ghê hen!
+**Câu 3. 3D printers** - Máy in 3D cho phép tạo ra vật thể 3 chiều như cấy ghép y tế, quần áo, ô tô. Photocopiers = máy photocopy, chỉ sao chép giấy 2D thôi, không tạo được vật thể 3D nha.
 
-**Cau 4. cardboard** - Cái hộp làm bằng **bìa cứng** vì bìa cứng dễ tái chế. Hộp giấy bìa cứng thân thiện với môi trường hơn hộp nhựa nhiều nha.
+**Câu 4. cardboard** - Bìa cứng dùng để làm bao bì thực phẩm vì nó an toàn cho thực phẩm và thân thiện với môi trường. Copper = đồng, là kim loại, không dùng để đóng gói thực phẩm.
 
-**Cau 5. camcorders** - Dùng **máy quay phim** để quay chuyến đi dã ngoại. <eng>Camcorder</eng> là thiết bị chuyên quay video, phù hợp để ghi lại kỷ niệm chuyến đi.
+**Câu 5. camcorders** - Máy quay phim dùng để phát trực tiếp video. Portable music players = máy nghe nhạc di động, chỉ dùng để nghe nhạc chứ không quay video được nha.
 </explanation>
 
 <!-- chunk: pronunciation-theory -->
-### Pronunciation - Stress in words ending in -ful and -less
+### Pronunciation - Stress on all words in sentences
 
 <teacher_script pause="0">
-Ok bây giờ mình qua phần phát âm nha. Chủ đề là <eng>Stress in words ending in -ful and -less</eng> - Trọng âm trong các từ có đuôi <eng>-ful</eng> và <eng>-less</eng>. Các em chú ý nghe lý thuyết nè.
+Ok bây giờ mình qua phần phát âm nha. Chủ đề là <eng>Stress on all words in sentences</eng> - Nhấn mạnh vào tất cả các từ trong câu. Đây là kiểu nhấn âm đặc biệt khi câu rất ngắn, chỉ có 2-3 từ thôi á.
 </teacher_script>
 
 <grammar>
-**STRESS IN WORDS ENDING IN -FUL AND -LESS**
-**Trong am trong cac tu co duoi -ful va -less**
+**STRESS ON ALL WORDS IN SENTENCES**
+**Nhấn mạnh vào tất cả các từ trong câu**
 
-Khi thêm hậu tố **-ful** hoặc **-less** vào một từ gốc, trọng âm vẫn giữ nguyên ở **âm tiết gốc**, KHÔNG rơi vào hậu tố.
+Trong những câu rất ngắn (mệnh lệnh, cảm thán, câu 2-3 từ), **tất cả các từ đều được nhấn mạnh**.
 
-**Quy tac:**
-- Hậu tố **-ful** và **-less** luôn **KHÔNG** được nhấn trọng âm.
-- Trọng âm rơi vào âm tiết chính của từ gốc.
+**Hai kiểu nhấn âm (stress pattern):**
 
-**Vi du voi -ful:**
-- help -> **HELP**ful /ˈhelpfl/ (trọng âm ở HELP)
-- care -> **CARE**ful /ˈkeəfl/ (trọng âm ở CARE)
-- wonder -> **WON**derful /ˈwʌndəfl/ (trọng âm ở WON)
-- use -> **USE**ful /ˈjuːsfl/ (trọng âm ở USE)
-- beauty -> **BEAU**tiful /ˈbjuːtɪfl/ (trọng âm ở BEAU)
+**1. Kiểu OO (2 từ, mỗi từ 1 âm tiết, đều nhấn mạnh):**
+- **'Don't 'talk!** *(Đừng nói chuyện!)*
+- **'Look 'out!** *(Coi chừng!)*
+- **'I 'see!** *(Tôi hiểu rồi!)*
 
-**Vi du voi -less:**
-- use -> **USE**less /ˈjuːsləs/ (trọng âm ở USE)
-- hope -> **HOPE**less /ˈhəʊpləs/ (trọng âm ở HOPE)
-- care -> **CARE**less /ˈkeələs/ (trọng âm ở CARE)
-- wire -> **WIRE**less /ˈwaɪələs/ (trọng âm ở WIRE)
+**2. Kiểu OOo (2-3 từ, từ cuối có 2 âm tiết, nhấn ở âm tiết đầu):**
+- **'Don't 'worry!** *(Đừng lo lắng!)* - "worry" nhấn ở "wor"
+- **'Be 'quiet!** *(Hãy im lặng!)* - "quiet" nhấn ở "qui"
+- **'Say 'sorry!** *(Nói lời xin lỗi!)* - "sorry" nhấn ở "sor"
 
-**Luu y:** Dù thêm -ful hay -less, trọng âm không thay đổi so với từ gốc. Các em cứ nhấn vào âm tiết gốc là đúng thôi nha!
+**Lưu ý:** Trong những câu ngắn mang tính mệnh lệnh hoặc cảm thán, tất cả các từ đều quan trọng nên đều được nhấn. Khác với câu dài nơi chỉ nhấn từ chính (content words).
 </grammar>
 
 <teacher_script pause="0">
-Nói đơn giản thì khi thêm đuôi <eng>-ful</eng> hay <eng>-less</eng>, các em cứ nhấn vào phần gốc của từ. Ví dụ <eng>help</eng> nhấn ở <eng>help</eng>, thì <eng>helpful</eng> cũng nhấn ở <eng>help</eng>. <eng>Use</eng> nhấn ở <eng>use</eng>, thì <eng>useless</eng> cũng nhấn ở <eng>use</eng>. Đuôi <eng>-ful</eng> và <eng>-less</eng> luôn đọc nhẹ thôi nha. Dễ nhớ hen!
+Nói đơn giản thì khi câu chỉ có 2-3 từ ngắn, mình nhấn hết tất cả các từ luôn á. Ví dụ <eng>Don't talk!</eng> thì cả <eng>Don't</eng> và <eng>talk</eng> đều nhấn mạnh. <eng>Look out!</eng> cũng vậy - nhấn cả 2 từ. Dễ nhớ hen!
 </teacher_script>
 
 <!-- chunk: exercise-4 -->
-### Bai 4 trang 117 - Listening
+### Bài 4 trang 117 - Listen and repeat
 
 <teacher_script pause="0">
-Bài 4 <eng>Listen and mark the stress on each word</eng> nha. Nghe và đánh dấu trọng âm trên mỗi từ. Các em nghe và để ý trọng âm rơi vào âm tiết nào nha.
+Bài 4 <eng>Listen and repeat the sentences. Pay attention to the stress pattern of each sentence.</eng> Nghe và nhắc lại các câu. Chú ý kiểu nhấn âm của mỗi câu nha.
 </teacher_script>
 
 <task>
-**De:** Listen and mark the stress on each word.
+**Đề:** Listen and repeat the sentences. Pay attention to the stress pattern of each sentence.
 
-**Dich de:** Nghe và đánh dấu trọng âm trên mỗi từ.
+**Dịch đề:** Nghe và nhắc lại câu. Hãy chú ý đến kiểu nhấn âm của mỗi câu.
 </task>
 
 <audio src="https://img.loigiaihay.com/picture/2024/0516/68.mp3">
-**Audio:** Bai 4 - Stress in words ending in -ful and -less
+**Audio:** Bài 4 - Stress on all words in sentences
 </audio>
 
-<questions type="listen_tick">
-**1.** helpful
-*có ích, hữu ích*
+<questions type="speaking">
+**1.** Don't talk!
+*Đừng nói chuyện!*
 
-**2.** useless
-*vô dụng, vô ích*
+**2.** Don't worry!
+*Đừng lo lắng!*
 
-**3.** careful
-*cẩn thận*
+**3.** Keep silent!
+*Hãy im lặng!*
 
-**4.** hopeless
-*vô vọng*
+**4.** Look out!
+*Coi chừng!*
 
-**5.** wonderful
-*tuyệt vời*
-
-**6.** careless
-*bất cẩn*
+**5.** Remember!
+*Hãy nhớ!*
 </questions>
 
 <teacher_script pause="45">
-Các em nghe và đánh dấu trọng âm nha. 45 giây.
+Các em nghe và nhắc lại từng câu nha. Chú ý nhấn mạnh tất cả các từ trong câu. 45 giây.
 </teacher_script>
 
 <teacher_script pause="0">
-Ok đáp án bài 4 nè.
+Ok, các em để ý nha. Tất cả 5 câu đều rất ngắn và mang tính mệnh lệnh. Trong những câu như vậy, mỗi từ đều quan trọng nên mình nhấn mạnh hết:
+- **'Don't 'talk!** - Nhấn cả "Don't" và "talk"
+- **'Don't 'worry!** - Nhấn "Don't" và "wor" (âm tiết đầu của "worry")
+- **'Keep 'silent!** - Nhấn "Keep" và "si" (âm tiết đầu của "silent")
+- **'Look 'out!** - Nhấn cả "Look" và "out"
+- **Re'member!** - Nhấn ở "mem" (âm tiết thứ hai)
 </teacher_script>
-
-<answer>
-**Dap an:**
-1. **HELP**ful /ˈhelpfl/ - trọng âm ở HELP
-2. **USE**less /ˈjuːsləs/ - trọng âm ở USE
-3. **CARE**ful /ˈkeəfl/ - trọng âm ở CARE
-4. **HOPE**less /ˈhəʊpləs/ - trọng âm ở HOPE
-5. **WON**derful /ˈwʌndəfl/ - trọng âm ở WON
-6. **CARE**less /ˈkeələs/ - trọng âm ở CARE
-</answer>
-
-<explanation>
-Các em thấy không, tất cả 6 từ đều nhấn trọng âm ở âm tiết gốc:
-- **helpful**: gốc là "help" -> nhấn ở HELP, đuôi "-ful" đọc nhẹ.
-- **useless**: gốc là "use" -> nhấn ở USE, đuôi "-less" đọc nhẹ.
-- **careful**: gốc là "care" -> nhấn ở CARE, đuôi "-ful" đọc nhẹ.
-- **hopeless**: gốc là "hope" -> nhấn ở HOPE, đuôi "-less" đọc nhẹ.
-- **wonderful**: gốc là "wonder" -> nhấn ở WON (âm tiết đầu của "wonder"), đuôi "-ful" đọc nhẹ.
-- **careless**: gốc là "care" -> nhấn ở CARE, đuôi "-less" đọc nhẹ.
-
-Quy tắc rất đơn giản: đuôi <eng>-ful</eng> và <eng>-less</eng> không bao giờ mang trọng âm. Cứ nhấn vào gốc là đúng thôi nha!
-</explanation>
 
 <!-- chunk: exercise-5 -->
-### Bai 5 trang 117 - Practice
+### Bài 5 trang 117 - Classify stress patterns
 
 <teacher_script pause="0">
-Bài 5 <eng>Listen and practice. Underline the stressed syllable in each bold word.</eng> Nghe và luyện tập. Gạch dưới âm tiết được nhấn trong mỗi từ in đậm. Các em thử đoán trọng âm trước rồi nghe kiểm tra nha.
+Bài 5 <eng>Write each sentence in the suitable box. Then listen, check, and repeat.</eng> Phân loại các câu vào ô phù hợp rồi nghe kiểm tra nha. Có 2 kiểu: <eng>OO</eng> (2 từ đều 1 âm tiết, nhấn đều) và <eng>OOo</eng> (từ cuối có 2 âm tiết).
 </teacher_script>
 
 <task>
-**De:** Listen and practice. Underline the stressed syllable in each bold word.
+**Đề:** Write each sentence in the suitable box. Then listen, check, and repeat.
 
-**Dich de:** Nghe và luyện tập. Gạch dưới âm tiết được nhấn trong mỗi từ in đậm.
+**Dịch đề:** Viết từng câu vào ô thích hợp. Sau đó nghe, kiểm tra và lặp lại.
 </task>
 
-<questions type="speaking">
-**1.** This **useful** device can help you scan documents quickly.
-*Thiết bị **hữu ích** này có thể giúp bạn quét tài liệu nhanh chóng.*
+<audio src="https://img.loigiaihay.com/picture/2024/0516/69.mp3">
+**Audio:** Bài 5 - Stress patterns OO vs OOo
+</audio>
 
-**2.** It is **careless** to leave your laptop in the rain.
-*Thật **bất cẩn** khi để laptop ngoài mưa.*
+<questions type="matching">
+**Các câu cần phân loại:**
+1. I see! *(Tôi hiểu rồi!)*
+2. Be quiet! *(Hãy im lặng!)*
+3. Say sorry! *(Nói lời xin lỗi!)*
+4. Watch out! *(Coi chừng!)*
+5. That long? *(Lâu vậy sao?)*
+6. Speak louder! *(Hãy nói to hơn!)*
 
-**3.** The **wireless** keyboard is very **helpful** for typing on a tablet.
-*Bàn phím **không dây** rất **hữu ích** cho việc gõ phím trên máy tính bảng.*
-
-**4.** It's **hopeless** trying to fix this old computer.
-*Thật **vô vọng** khi cố sửa cái máy tính cũ này.*
-
-**5.** She has a **beautiful** new smartwatch.
-*Cô ấy có một chiếc đồng hồ thông minh mới **xinh đẹp**.*
+**Hai ô phân loại:**
+- **OO** (2 từ đều 1 âm tiết)
+- **OOo** (từ cuối có 2 âm tiết, nhấn ở âm tiết đầu)
 </questions>
 
 <teacher_script pause="60">
-Các em gạch dưới âm tiết được nhấn trong các từ in đậm nha. 1 phút.
+Các em phân loại 6 câu vào 2 ô OO và OOo nha. 1 phút.
 </teacher_script>
 
 <teacher_script pause="0">
-Ok đáp án bài 5 nè. Cô đọc và các em kiểm tra xem mình gạch đúng chưa nha.
+Ok đáp án bài 5 nè.
 </teacher_script>
 
 <answer>
-**Dap an:**
+**Đáp án:**
 
-**1.** This **USE**ful device can help you scan documents quickly.
-*Thiết bị hữu ích này có thể giúp bạn quét tài liệu nhanh chóng.*
-
-**2.** It is **CARE**less to leave your laptop in the rain.
-*Thật bất cẩn khi để laptop ngoài mưa.*
-
-**3.** The **WIRE**less keyboard is very **HELP**ful for typing on a tablet.
-*Bàn phím không dây rất hữu ích cho việc gõ phím trên máy tính bảng.*
-
-**4.** It's **HOPE**less trying to fix this old computer.
-*Thật vô vọng khi cố sửa cái máy tính cũ này.*
-
-**5.** She has a **BEAU**tiful new smartwatch.
-*Cô ấy có một chiếc đồng hồ thông minh mới xinh đẹp.*
+| **OO** | **OOo** |
+|--------|---------|
+| 1. **'I 'see!** | 2. **'Be 'quiet!** |
+| 4. **'Watch 'out!** | 3. **'Say 'sorry!** |
+| 5. **'That 'long?** | 6. **'Speak 'louder!** |
 </answer>
 
 <explanation>
-Các em thấy quy tắc áp dụng hết nè:
-- **Câu 1:** **USE**ful - gốc là "use", nhấn ở USE.
-- **Câu 2:** **CARE**less - gốc là "care", nhấn ở CARE. Để laptop ngoài mưa thì bất cẩn thiệt đó nha!
-- **Câu 3:** Câu này có 2 từ luôn nè. **WIRE**less - gốc là "wire", nhấn ở WIRE. **HELP**ful - gốc là "help", nhấn ở HELP.
-- **Câu 4:** **HOPE**less - gốc là "hope", nhấn ở HOPE. Máy tính cũ quá thì đành chịu thôi á!
-- **Câu 5:** **BEAU**tiful - gốc là "beauty", nhấn ở BEAU. Đây là từ 3 âm tiết nhưng trọng âm vẫn ở âm tiết đầu của từ gốc.
+**Kiểu OO** (2 từ đều 1 âm tiết, nhấn đều):
+- **'I 'see!** - "I" và "see" đều 1 âm tiết, nhấn cả 2.
+- **'Watch 'out!** - "Watch" và "out" đều 1 âm tiết, nhấn cả 2.
+- **'That 'long?** - "That" và "long" đều 1 âm tiết, nhấn cả 2.
 
-Nhớ quy tắc nha: đuôi <eng>-ful</eng> và <eng>-less</eng> không bao giờ nhận trọng âm. Lúc nào cũng nhấn ở gốc thôi!
+**Kiểu OOo** (từ cuối có 2 âm tiết, nhấn ở âm tiết đầu):
+- **'Be 'quiet!** - "Be" 1 âm tiết, "quiet" có 2 âm tiết (qui-et), nhấn ở "qui". Tổng cộng là OOo.
+- **'Say 'sorry!** - "Say" 1 âm tiết, "sorry" có 2 âm tiết (sor-ry), nhấn ở "sor". Tổng cộng là OOo.
+- **'Speak 'louder!** - "Speak" 1 âm tiết, "louder" có 2 âm tiết (lou-der), nhấn ở "lou". Tổng cộng là OOo.
+
+**Mẹo phân loại:** Nhìn từ cuối cùng - nếu nó chỉ có 1 âm tiết (see, out, long) thì là OO. Nếu từ cuối có 2 âm tiết (quiet, sorry, louder) thì là OOo nha!
 </explanation>
 
 <!-- chunk: end -->
 <teacher_script pause="0">
-Ok vậy là xong bài <eng>A Closer Look 1</eng> Unit 11 rồi nha. Hôm nay các em đã học được từ vựng về thiết bị điện tử như <eng>robotic vacuum cleaner, e-reader, smartwatch, portable music player, 3D printer, camcorder</eng> và các vật liệu như <eng>copper, plastic, steel, rubber, cardboard</eng>. Phần phát âm thì các em nhớ quy tắc trọng âm của từ có đuôi <eng>-ful</eng> và <eng>-less</eng> nha - luôn nhấn vào âm tiết gốc, đuôi <eng>-ful</eng> và <eng>-less</eng> đọc nhẹ thôi. Các em về nhà ôn lại từ vựng và luyện đọc các từ có đuôi <eng>-ful</eng>, <eng>-less</eng> cho quen nha. Hẹn gặp lại các em ở bài sau!
+Ok vậy là xong bài <eng>A Closer Look 1</eng> Unit 11 rồi nha. Hôm nay các em đã học được từ vựng về thiết bị điện tử như <eng>robotic vacuum cleaner, e-reader, smartwatch, portable music player, 3D printer, camcorder</eng> và các vật liệu như <eng>copper, plastic, steel, rubber, cardboard</eng>. Phần phát âm thì các em nhớ quy tắc nhấn âm trong câu ngắn nha - câu 2-3 từ mang tính mệnh lệnh thì nhấn mạnh tất cả các từ. Phân biệt kiểu OO (2 từ 1 âm tiết) và OOo (từ cuối 2 âm tiết). Các em về nhà ôn lại từ vựng và luyện đọc các câu ngắn cho quen nha. Hẹn gặp lại các em ở bài sau!
 </teacher_script>

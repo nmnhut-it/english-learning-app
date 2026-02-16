@@ -8,261 +8,276 @@ Ok lớp 8, Unit 12 bài <eng>Skills 2</eng> nha. Bài này mình sẽ luyện n
 
 <!-- chunk: vocabulary -->
 <teacher_script pause="0">
-Trước khi nghe, mình học từ vựng trước nha. Bấm nút "Bắt Đầu" bên dưới để học từ vựng. Máy sẽ đọc và các em đọc theo. Sau đó làm bài trắc nghiệm từ vựng rồi ghi từ vựng vô tập.
+Trước khi nghe, mình học từ vựng trước nha. Bấm nút "Bắt đầu" bên dưới để học từ vựng. Máy sẽ đọc và các em đọc theo. Sau đó làm bài trắc nghiệm từ vựng rồi ghi từ vựng vô tập.
 </teacher_script>
 
 <vocabulary>
-1. **be located + in/at/on + position** : tọa lạc ở... /bi ləʊˈkeɪtɪd/
-2. **climate** : (n) khí hậu /ˈklaɪmət/
-3. **the Milky Way** : (n) dải Ngân Hà /ðə ˌmɪlki ˈweɪ/
-4. **surface** : (n) bề mặt /ˈsɜːfɪs/
-5. **dry** : (adj) khô /draɪ/
-6. **thick skin** : (n) da dày /ˌθɪk ˈskɪn/
-7. **protect** : (v) bảo vệ /prəˈtekt/
-8. **liquid water** : (n) nước ở thể lỏng /ˌlɪkwɪd ˈwɔːtə/
-9. **description** : (n) sự mô tả /dɪˈskrɪpʃən/
-10. **dangerous** : (adj) nguy hiểm /ˈdeɪndʒərəs/
+1. **Planet Hope** : Hành tinh Hy vọng /ˈplænɪt həʊp/
+2. **the Milky Way Galaxy** : (n) dải Ngân Hà /ðə ˌmɪlki weɪ ˈɡæləksi/
+3. **Hopeans** : người dân Hành tinh Hy vọng /həʊˈpiːənz/
+4. **thick skin** : (n) da dày /ˌθɪk ˈskɪn/
+5. **protect from** : (v) bảo vệ khỏi /prəˈtekt frɒm/
+6. **the heat** : (n) cái nóng /ðə hiːt/
+7. **hospitable** : (adj) hiếu khách /hɒˈspɪtəbl/
+8. **dangerous** : (adj) nguy hiểm /ˈdeɪndʒərəs/
+9. **petrol** : (n) xăng, dầu /ˈpetrəl/
+10. **rocket** : (n) tên lửa /ˈrɒkɪt/
 </vocabulary>
 
-<!-- chunk: tapescript -->
-### Tapescript - Bai nghe
+<!-- chunk: bai1 -->
+### Bài 1 trang 130 - Discussion
 
 <teacher_script pause="0">
-Giờ mình đọc bài nghe trước nha. Đây là đoạn mô tả về hành tinh <eng>Zeron</eng>, một hành tinh tưởng tượng á.
+Bài 1 <eng>Work in pairs. Look at the picture and answer the following questions</eng>. Nhìn vào bức tranh trong sách và trả lời câu hỏi nha. Đây là bài nói về một sinh vật tưởng tượng.
+</teacher_script>
+
+<task>
+**Đề:** Work in pairs. Look at the picture and answer the following questions.
+**Dịch đề:** Làm việc theo cặp. Nhìn vào bức tranh và trả lời các câu hỏi sau.
+</task>
+
+<questions type="speaking">
+**1.** Where do you think this creature is from?
+*Bạn nghĩ sinh vật này đến từ đâu?*
+
+**2.** What do you think it can do?
+*Bạn nghĩ nó có thể làm gì?*
+</questions>
+
+<teacher_script pause="60">
+Các em suy nghĩ và trả lời nha. 1 phút.
+</teacher_script>
+
+<teacher_script pause="0">
+Ok gợi ý câu trả lời nè.
+</teacher_script>
+
+<answer>
+**Gợi ý:**
+1. I think that creature is from another planet.
+*(Mình nghĩ sinh vật này đến từ hành tinh khác.)*
+
+2. I think it can do a lot of things at the same time because it has four hands. For example: Four hands can wash the dishes faster than two hands.
+*(Mình nghĩ nó có thể làm nhiều thứ một lúc vì nó có bốn tay. Ví dụ: Bốn tay có thể rửa bát nhanh hơn hai tay.)*
+</answer>
+
+<!-- chunk: tapescript -->
+### Tapescript - Bài nghe
+
+<teacher_script pause="0">
+Giờ mình đọc bài nghe trước nha. Đây là đoạn mô tả về hành tinh <eng>Planet Hope</eng> - Hành tinh Hy vọng, một hành tinh tưởng tượng có sự sống á.
 </teacher_script>
 
 <reading>
-Hi everybody! Today I want to tell you about Planet Zeron. It's located in another galaxy, far from the Milky Way. Its surface is mostly dry and rocky, with some large lakes of liquid water. The climate is very hot during the day and freezing cold at night.
+Good morning, everyone. Today I'd like to tell you about life on a planet called Planet Hope.
 
-The creatures living on Zeron are very different from humans. They have thick skin to protect them from the extreme temperatures. They are quite short, about one metre tall, but very strong. They live in underground cities because the surface is too dangerous during the day.
+Planet Hope is in the Milky Way Galaxy. It is three times bigger than Earth. It has three suns and four moons, so the weather is hot all year round, and its surface is quite dry. Planet Hope has only one season.
 
-Zeron has two moons and a red sky. The creatures there communicate through sounds and colours. They don't have a written language, but they are very intelligent. I hope one day we can visit this fascinating planet!
+The creatures living there are Hopeans, and they don't look like us. They have a big head, four eyes, two legs, and four arms. They have thick skin to protect them from the heat. They are very friendly and hospitable. They are only dangerous to people who try to attack them.
+
+Hopeans grow special plants for food. They don't drink liquid water, they drink a type of petrol from under the ground. Hopeans use rockets to travel at very high speeds.
+
+That is my description of Planet Hope and the creatures living on it. I hope you enjoyed it and thank you for listening.
 </reading>
 
 <translation>
-Xin chào mọi người! Hôm nay tôi muốn kể cho các bạn nghe về Hành tinh Zeron. Nó tọa lạc ở một thiên hà khác, rất xa dải Ngân Hà. Bề mặt của nó chủ yếu là khô và nhiều đá, với một vài hồ nước lỏng lớn. Khí hậu rất nóng vào ban ngày và lạnh cóng vào ban đêm.
+Chào buổi sáng mọi người. Hôm nay tôi muốn kể cho các bạn nghe về sự sống trên một hành tinh tên là Hành tinh Hy vọng.
 
-Những sinh vật sống trên Zeron rất khác so với con người. Chúng có da dày để bảo vệ chúng khỏi nhiệt độ khắc nghiệt. Chúng khá thấp, cao khoảng một mét, nhưng rất khỏe. Chúng sống trong các thành phố dưới lòng đất vì bề mặt quá nguy hiểm vào ban ngày.
+Hành tinh Hy vọng nằm trong Dải Ngân Hà. Nó lớn gấp ba lần Trái Đất. Nó có ba mặt trời và bốn mặt trăng nên thời tiết ở đây nóng quanh năm và bề mặt của nó khá khô. Hành tinh Hy vọng chỉ có một mùa.
 
-Zeron có hai mặt trăng và bầu trời màu đỏ. Những sinh vật ở đó giao tiếp bằng âm thanh và màu sắc. Chúng không có ngôn ngữ viết, nhưng chúng rất thông minh. Tôi hy vọng một ngày nào đó chúng ta có thể đến thăm hành tinh thú vị này!
+Những sinh vật sống ở đó là Hopeans, và họ không giống chúng ta. Họ có đầu to, bốn mắt, hai chân và bốn tay. Họ có lớp da dày để bảo vệ họ khỏi cái nóng. Họ rất thân thiện và hiếu khách. Họ chỉ nguy hiểm với những người cố gắng tấn công họ.
+
+Hopeans trồng các loại cây đặc biệt để làm thức ăn. Họ không uống nước lỏng, họ uống một loại dầu từ dưới lòng đất. Hopeans sử dụng tên lửa để di chuyển với tốc độ rất cao.
+
+Đó là mô tả của tôi về Hành tinh Hy vọng và những sinh vật sống trên đó. Tôi hy vọng mọi người thích nó và cảm ơn các bạn đã lắng nghe.
 </translation>
 
 <teacher_script pause="120">
 Các em đọc và dịch bài nghe vô tập nha. 2 phút.
 </teacher_script>
 
-<!-- chunk: bai1 -->
-### Bai 1 trang 130 - Matching
-
-<teacher_script pause="0">
-Bài 1 <eng>Match the words in A with their descriptions in B</eng>. Nối từ ở cột A với mô tả ở cột B nha.
-</teacher_script>
-
-<task>
-**De:** Match the words in A with their descriptions in B.
-**Dich de:** Nối các từ ở cột A với mô tả ở cột B.
-</task>
-
-<questions type="matching">
-**Cot A (Tu vung):**
-1. Milky Way
-2. surface
-3. climate
-4. liquid water
-5. creature
-
-**Cot B (Mo ta):**
-a. the outside part or top layer of something
-b. the weather conditions in an area over a long period
-c. the galaxy that contains our Solar System
-d. a living thing, especially an animal
-e. water that is not frozen
-</questions>
-
-<teacher_script pause="45">
-Các em nối từ với nghĩa nha. 45 giây.
-</teacher_script>
-
-<teacher_script pause="0">
-Ok đáp án nè.
-</teacher_script>
-
-<answer>
-**Dap an:** 1.c | 2.a | 3.b | 4.e | 5.d
-</answer>
-
-<explanation>
-- **1 - c: Milky Way = the galaxy that contains our Solar System** - Dải Ngân Hà là thiên hà chứa Hệ Mặt Trời của chúng ta.
-- **2 - a: surface = the outside part or top layer of something** - Bề mặt là phần bên ngoài hoặc lớp trên cùng của một vật.
-- **3 - b: climate = the weather conditions in an area over a long period** - Khí hậu là điều kiện thời tiết ở một khu vực trong thời gian dài.
-- **4 - e: liquid water = water that is not frozen** - Nước ở thể lỏng là nước chưa bị đóng băng.
-- **5 - d: creature = a living thing, especially an animal** - Sinh vật là một thực thể sống, đặc biệt là động vật.
-</explanation>
-
 <!-- chunk: bai2 -->
-### Bai 2 trang 131 - Listen and Fill Blanks
+### Bài 2 trang 131 - Multiple Choice Listening
 
 <teacher_script pause="0">
-Bài 2 <eng>Listen to a description of Planet Zeron and complete the table</eng>. Nghe bài mô tả về hành tinh <eng>Zeron</eng> và hoàn thành bảng nha.
+Bài 2 <eng>Listen and choose the correct answer A, B, or C</eng>. Nghe và chọn đáp án đúng A, B, hoặc C nha. Có 5 câu hỏi về hành tinh <eng>Planet Hope</eng>.
 </teacher_script>
 
-<audio src="https://img.loigiaihay.com/picture/2023/0804/track-78.mp3">
-**Audio:** Skills 2 - Bai 2
-</audio>
-
 <task>
-**De:** Listen to a description of Planet Zeron and complete the table.
-**Dich de:** Nghe đoạn mô tả về hành tinh Zeron và hoàn thành bảng.
+**Đề:** You will hear a student talking about an imaginary planet that supports life. Listen and choose the correct answer A, B, or C.
+**Dịch đề:** Bạn sẽ nghe một học sinh nói về một hành tinh tưởng tượng có sự sống. Nghe và chọn đáp án đúng A, B, hoặc C.
 </task>
 
-<questions type="fill_blanks">
-| | **Planet Zeron** |
-|---|---|
-| **Location** | In another (1) _______, far from the Milky Way |
-| **Surface** | Mostly (2) _______ and rocky |
-| **Climate** | Very (3) _______ during the day and freezing cold at night |
-| **Creatures' appearance** | Have thick (4) _______, about one metre tall |
-| **Where creatures live** | In (5) _______ cities |
+<questions type="multiple_choice">
+**1.** Planet Hope is located _________.
+- A. in the Milky Way Galaxy
+- B. in the Andromeda Galaxy
+- C. close to the Milky Way Galaxy
+*Hành tinh Hy vọng tọa lạc ở _________.*
+
+**2.** Planet Hope is _________.
+- A. as big as Earth
+- B. half the size of Earth
+- C. three times the size of Earth
+*Hành tinh Hy vọng _________.*
+
+**3.** The climate on Planet Hope is _________.
+- A. very hot all year round
+- B. very cold all year round
+- C. hot in the day but very cold at night
+*Khí hậu trên Hành tinh Hy vọng _________.*
+
+**4.** Hopeans have thick skin to protect them from _________.
+- A. the heat
+- B. the cold
+- C. alien attacks
+*Hopeans có da dày để bảo vệ họ khỏi _________.*
+
+**5.** Hopeans drink _________.
+- A. liquid water from the sea
+- B. petrol from under the ground
+- C. almost nothing
+*Hopeans uống _________.*
 </questions>
 
 <teacher_script pause="60">
-Các em nghe và điền vào chỗ trống nha. 1 phút.
+Các em nghe và chọn đáp án nha. 1 phút.
 </teacher_script>
 
 <teacher_script pause="0">
-Ok đáp án nè.
+Ok đáp án nè. Cô giải thích từng câu luôn.
 </teacher_script>
 
 <answer>
-**Dap an:** 1. galaxy | 2. dry | 3. hot | 4. skin | 5. underground
+**Đáp án:** 1.A | 2.C | 3.A | 4.A | 5.B
 </answer>
 
 <explanation>
-- **Câu 1: galaxy** - "It's located in another galaxy, far from the Milky Way" (Nó tọa lạc ở một thiên hà khác, xa dải Ngân Hà).
-- **Câu 2: dry** - "Its surface is mostly dry and rocky" (Bề mặt chủ yếu là khô và nhiều đá).
-- **Câu 3: hot** - "The climate is very hot during the day" (Khí hậu rất nóng vào ban ngày).
-- **Câu 4: skin** - "They have thick skin to protect them" (Chúng có da dày để bảo vệ chúng).
-- **Câu 5: underground** - "They live in underground cities" (Chúng sống trong các thành phố dưới lòng đất).
+**Câu 1: A - in the Milky Way Galaxy**
+- Bài nghe nói: "Planet Hope is in the Milky Way Galaxy" (Hành tinh Hy vọng nằm trong Dải Ngân Hà).
+- Không phải Andromeda Galaxy, cũng không phải "gần" Ngân Hà mà là "trong" Ngân Hà nha.
+
+**Câu 2: C - three times the size of Earth**
+- Bài nghe nói: "It is three times bigger than Earth" (Nó lớn gấp 3 lần Trái Đất).
+- Không phải bằng Trái Đất (A) hay bằng nửa Trái Đất (B) nha.
+
+**Câu 3: A - very hot all year round**
+- Bài nghe nói: "the weather is hot all year round" (thời tiết nóng quanh năm).
+- Vì có 3 mặt trời nên nóng quanh năm luôn á, không phải lạnh (B) hay nóng ngày lạnh đêm (C).
+
+**Câu 4: A - the heat**
+- Bài nghe nói: "They have thick skin to protect them from the heat" (Họ có da dày để bảo vệ khỏi cái nóng).
+- Da dày bảo vệ khỏi cái nóng, không phải cái lạnh (B) hay tấn công (C) nha.
+
+**Câu 5: B - petrol from under the ground**
+- Bài nghe nói: "they drink a type of petrol from under the ground" (họ uống một loại dầu từ dưới lòng đất).
+- Họ KHÔNG uống nước lỏng (A), mà uống dầu từ dưới đất. Hay ghê hen!
 </explanation>
 
 <!-- chunk: bai3 -->
-### Bai 3 trang 131 - True or False
+### Bài 3 trang 131 - Fill in the blanks
 
 <teacher_script pause="0">
-Bài 3 <eng>Listen again and decide if the statements are True or False</eng>. Nghe lại lần nữa rồi xem câu nào đúng, câu nào sai nha.
+Bài 3 <eng>Read the following information about Hopeans. Listen again and fill in each blank with ONE word or number</eng>. Đọc thông tin về Hopeans rồi nghe lại và điền vào mỗi chỗ trống MỘT từ hoặc số nha.
 </teacher_script>
 
-<audio src="https://img.loigiaihay.com/picture/2023/0804/track-78.mp3">
-**Audio:** Skills 2 - Bai 3
-</audio>
-
 <task>
-**De:** Listen again and decide if the statements are True (T) or False (F).
-**Dich de:** Nghe lại và xác định các câu sau đúng (T) hay sai (F).
+**Đề:** Read the following information about Hopeans. Listen again and fill in each blank with ONE word or number that you hear.
+**Dịch đề:** Đọc thông tin sau về Hopeans. Nghe lại và điền vào mỗi chỗ trống MỘT từ hoặc số mà bạn nghe được.
 </task>
 
-<questions type="true_false">
-**1.** Zeron is in the Milky Way.
-*Zeron nằm trong dải Ngân Hà.*
-
-**2.** There is some liquid water on Zeron.
-*Có một ít nước ở thể lỏng trên Zeron.*
-
-**3.** The creatures on Zeron are tall and thin.
-*Những sinh vật trên Zeron cao và gầy.*
-
-**4.** The creatures communicate through sounds and colours.
-*Những sinh vật giao tiếp bằng âm thanh và màu sắc.*
-
-**5.** The creatures have a written language.
-*Những sinh vật có ngôn ngữ viết.*
+<questions type="fill_blanks">
+| | **Hopeans** |
+|---|---|
+| **Name** *(Tên)* | Hopeans |
+| **Living place** *(Nơi sống)* | Planet Hope in the Milky Way Galaxy |
+| **Appearance** *(Ngoại hình)* | Have a big head, (1) _______ eyes, two legs, and (2) _______ arms. Have thick skin to protect them from the heat. |
+| **Behaviour** *(Cách cư xử)* | Friendly and (3) _______. Only (4) _______ to people who try to attack them. |
+| **Lifestyle** *(Lối sống)* | Eat special (5) _______ and drink petrol from under the ground. Travel by (6) _______ at very high speeds. |
 </questions>
 
 <teacher_script pause="60">
-Các em nghe và chọn True hoặc False nha. 1 phút.
+Các em nghe lại và điền từ vào chỗ trống nha. 1 phút.
 </teacher_script>
 
 <teacher_script pause="0">
-Ok đáp án nè, mình giải thích từng câu luôn.
+Ok đáp án nè. Cô giải thích từng câu luôn.
 </teacher_script>
 
 <answer>
-**Dap an:** 1.F | 2.T | 3.F | 4.T | 5.F
+**Đáp án:** 1. four | 2. four | 3. hospitable | 4. dangerous | 5. plants | 6. rockets
 </answer>
 
 <explanation>
-- **Câu 1: False** - Bài nghe nói "It's located in another galaxy, far from the Milky Way" (Nó ở một thiên hà khác, xa dải Ngân Hà). Vậy Zeron KHÔNG nằm trong dải Ngân Hà nha.
+**Câu 1: four** - Bài nghe nói: "They have a big head, **four** eyes, two legs, and four arms." Hopeans có 4 mắt nha, nhiều hơn con người 2 mắt.
 
-- **Câu 2: True** - Bài nghe nói "with some large lakes of liquid water" (với một vài hồ nước lỏng lớn). Vậy CÓ nước ở thể lỏng trên Zeron.
+**Câu 2: four** - Cũng từ câu trên: "four eyes, two legs, and **four** arms." Hopeans có 4 tay, nên chắc làm việc nhanh lắm á!
 
-- **Câu 3: False** - Bài nghe nói "They are quite short, about one metre tall, but very strong" (Chúng khá thấp, cao khoảng 1 mét, nhưng rất khỏe). Vậy sinh vật ở đây THẤP và KHỎE, không phải cao và gầy nha.
+**Câu 3: hospitable** - Bài nghe nói: "They are very friendly and **hospitable**." Hospitable = hiếu khách, hay tiếp đón khách. Hopeans vừa thân thiện vừa hiếu khách.
 
-- **Câu 4: True** - Bài nghe nói "The creatures there communicate through sounds and colours" (Những sinh vật ở đó giao tiếp bằng âm thanh và màu sắc). Đúng luôn.
+**Câu 4: dangerous** - Bài nghe nói: "They are only **dangerous** to people who try to attack them." Họ chỉ nguy hiểm với những người cố tấn công họ thôi. Bình thường thì hiền lắm nha.
 
-- **Câu 5: False** - Bài nghe nói "They don't have a written language" (Chúng không có ngôn ngữ viết). Vậy câu này sai nha.
+**Câu 5: plants** - Bài nghe nói: "Hopeans grow special **plants** for food." Hopeans trồng cây đặc biệt để làm thức ăn.
+
+**Câu 6: rockets** - Bài nghe nói: "Hopeans use **rockets** to travel at very high speeds." Hopeans dùng tên lửa để di chuyển với tốc độ rất cao.
 </explanation>
 
 <!-- chunk: bai4 -->
-### Bai 4 trang 131 - Writing Preparation
+### Bài 4 trang 131 - Writing Preparation
 
 <teacher_script pause="0">
-Qua phần <eng>Writing</eng> nha. Bài 4 <eng>Match the ideas with parts of an outline for describing an imaginary planet</eng>. Nối các ý với các phần của dàn bài để mô tả một hành tinh tưởng tượng.
+Qua phần <eng>Writing</eng> nha. Bài 4 <eng>Work in pairs. Use your imagination to make notes in the table about what aliens living on another planet would be like</eng>. Làm việc theo cặp, dùng trí tưởng tượng để ghi chú vào bảng về người ngoài hành tinh sống trên hành tinh khác sẽ như thế nào.
 </teacher_script>
 
 <task>
-**De:** Match the ideas with parts of an outline for describing an imaginary planet.
-**Dich de:** Nối các ý với các phần của dàn ý để mô tả một hành tinh tưởng tượng.
+**Đề:** Work in pairs. Use your imagination to make notes in the table below about what aliens living on another planet would be like.
+**Dịch đề:** Làm việc theo cặp. Sử dụng trí tưởng tượng để ghi chú vào bảng dưới đây về người ngoài hành tinh sống trên hành tinh khác sẽ như thế nào.
 </task>
 
-<questions type="matching">
-**Dan y (Outline):**
-1. Location *(Vị trí)*
-2. Surface/Appearance *(Bề mặt/Hình dáng)*
-3. Climate *(Khí hậu)*
-4. Inhabitants *(Cư dân)*
-
-**Y tuong (Ideas):**
-a. What is the planet's name and where is it? *(Tên hành tinh là gì và nó ở đâu?)*
-b. What does the surface look like? *(Bề mặt trông như thế nào?)*
-c. What is the climate like? *(Khí hậu như thế nào?)*
-d. What creatures live there? *(Những sinh vật nào sống ở đó?)*
+<questions type="fill_blanks">
+| | **Ghi chú** |
+|---|---|
+| **Name** *(Tên)* | _______ |
+| **Living place** *(Nơi sống)* | _______ |
+| **Appearance** *(Hình dạng)* | _______ |
+| **Behaviour** *(Tập tính)* | _______ |
+| **Lifestyle** *(Lối sống)* | _______ |
 </questions>
 
-<teacher_script pause="30">
-Các em nối các ý nha, đơn giản thôi. 30 giây.
+<teacher_script pause="120">
+Các em dùng trí tưởng tượng để ghi chú vô bảng nha. Nghĩ ra tên hành tinh, tên sinh vật, hình dạng, tập tính, lối sống. 2 phút.
 </teacher_script>
 
 <teacher_script pause="0">
-Ok đáp án nè.
+Đây là gợi ý mẫu nè, các em tham khảo.
 </teacher_script>
 
 <answer>
-**Dap an:** 1.a | 2.b | 3.c | 4.d
+**Gợi ý mẫu:**
+
+| | **Enviamans** |
+|---|---|
+| **Name** *(Tên)* | Enviamans |
+| **Living place** *(Nơi sống)* | Dreamy Planet in the Milky Way Galaxy *(Hành tinh Mộng mơ ở Dải Ngân Hà)* |
+| **Appearance** *(Hình dạng)* | Have a small head, big eyes, two legs, long arms and a short tail. They are blue, have thick skin to protect them from the heat. *(Đầu nhỏ, mắt to, 2 chân, tay dài và đuôi ngắn. Da xanh và dày để bảo vệ khỏi cái nóng.)* |
+| **Behaviour** *(Tập tính)* | Friendly. Only attack people who try to attack them. *(Thân thiện. Chỉ tấn công những ai cố tấn công chúng.)* |
+| **Lifestyle** *(Lối sống)* | Eat rocks and drink water from the ocean. They can fly with high speeds. *(Ăn đá và uống nước từ đại dương. Có thể bay tốc độ cao.)* |
 </answer>
 
-<explanation>
-- **1 - a: Location = What is the planet's name and where is it?** - Phần vị trí thì mình giới thiệu tên hành tinh và nó nằm ở đâu.
-- **2 - b: Surface/Appearance = What does the surface look like?** - Phần bề mặt thì mình mô tả bề mặt hành tinh trông ra sao.
-- **3 - c: Climate = What is the climate like?** - Phần khí hậu thì mình nói về thời tiết, nhiệt độ.
-- **4 - d: Inhabitants = What creatures live there?** - Phần cư dân thì mình mô tả những sinh vật sống trên đó.
-
-Đây là dàn bài để viết đoạn văn ở bài 5 á. Các em nhớ theo thứ tự này khi viết nha: vị trí → bề mặt → khí hậu → cư dân.
-</explanation>
-
 <!-- chunk: bai5 -->
-### Bai 5 trang 131 - Writing
+### Bài 5 trang 131 - Writing
 
 <teacher_script pause="0">
-Bài 5 <eng>Write a paragraph of 80-100 words to describe your own imaginary planet. Use the outline in 4</eng>. Viết một đoạn văn 80-100 từ mô tả hành tinh tưởng tượng của riêng em. Dùng dàn bài ở bài 4 nha.
+Bài 5 <eng>Write a paragraph of 80-100 words describing aliens living on another planet. Use your notes in 4.</eng> Viết một đoạn văn 80-100 từ mô tả người ngoài hành tinh sống trên hành tinh khác. Dùng ghi chú ở bài 4 nha.
 </teacher_script>
 
 <task>
-**De:** Write a paragraph (80-100 words) to describe your own imaginary planet. Use the outline in 4.
-**Dich de:** Viết một đoạn văn (80-100 từ) mô tả hành tinh tưởng tượng của riêng em. Sử dụng dàn ý ở bài 4.
+**Đề:** Write a paragraph (80-100 words) describing aliens living on another planet. Use your notes in 4.
+**Dịch đề:** Viết một đoạn văn (80-100 từ) mô tả người ngoài hành tinh sống trên hành tinh khác. Sử dụng ghi chú ở bài 4.
 </task>
 
 <teacher_script pause="0">
-Nhớ theo dàn bài nha: giới thiệu tên và vị trí hành tinh, rồi mô tả bề mặt, khí hậu, và cuối cùng là sinh vật sống trên đó. Viết khoảng 80 đến 100 từ thôi nghen.
+Nhớ theo dàn bài nha: bắt đầu bằng giới thiệu tên hành tinh và sinh vật, rồi mô tả hình dạng, tập tính, và lối sống. Viết khoảng 80 đến 100 từ thôi nghen.
 </teacher_script>
 
 <teacher_script pause="300" action="photo">
@@ -270,24 +285,18 @@ Các em viết bài vô tập rồi chụp hình gửi nha. 5 phút.
 </teacher_script>
 
 <teacher_script pause="0">
-Đây là bài mẫu về hành tinh <eng>Aqualis</eng> nè, các em tham khảo.
+Đây là bài mẫu nè, các em tham khảo.
 </teacher_script>
 
 <answer>
-**Bai mau - Planet Aqualis:**
+**Bài mẫu:**
 
-I would like to tell you about my imaginary planet called Aqualis. It is located in a nearby galaxy, not too far from the Milky Way. The surface of Aqualis is mostly covered with water, with a few small islands of colourful rocks. The climate is warm and mild all year round, with gentle rain every afternoon.
+Creatures living on Dreamy Planet are called Enviamans. They have a small head, big eyes, two legs, long arms and a short tail. They are blue, have a thick skin to protect them from the heat. Enviamans are friendly. They only attack to people who try to attack them. This creature also has a special lifestyle. They eat rocks and drink water from the ocean to survive. And they can fly with high speeds.
 
-The creatures on Aqualis look like large dolphins. They are very friendly and intelligent. They can breathe both in water and on land. They build their homes on the islands using shells and coral. They communicate by singing beautiful songs. Aqualis is truly a wonderful planet!
+*(Sinh vật sống trên Hành tinh Mộng mơ được gọi là Enviamans. Chúng có một cái đầu nhỏ, mắt to, hai chân, tay dài và một cái đuôi ngắn. Chúng có làn da xanh và dày để bảo vệ khỏi cái nóng. Enviamans thân thiện. Chúng chỉ tấn công những ai cố gắng tấn công chúng. Sinh vật này cũng có một lối sống đặc biệt. Chúng ăn đá và uống nước từ đại dương để sống. Và chúng có thể bay với vận tốc lớn.)*
 </answer>
-
-<translation>
-Tôi muốn kể cho các bạn nghe về hành tinh tưởng tượng của tôi có tên là Aqualis. Nó tọa lạc ở một thiên hà gần đó, không quá xa dải Ngân Hà. Bề mặt của Aqualis chủ yếu được bao phủ bởi nước, với một vài hòn đảo nhỏ bằng đá đầy màu sắc. Khí hậu ấm áp và ôn hòa quanh năm, với những cơn mưa nhẹ mỗi buổi chiều.
-
-Những sinh vật trên Aqualis trông giống như những con cá heo lớn. Chúng rất thân thiện và thông minh. Chúng có thể thở cả dưới nước và trên cạn. Chúng xây nhà trên các hòn đảo bằng vỏ sò và san hô. Chúng giao tiếp bằng cách hát những bài hát tuyệt đẹp. Aqualis thật sự là một hành tinh tuyệt vời!
-</translation>
 
 <!-- chunk: end -->
 <teacher_script pause="0">
-Ok vậy là xong bài <eng>Skills 2</eng> Unit 12 rồi nha. Bài này các em đã nghe về hành tinh <eng>Zeron</eng> với bề mặt khô, khí hậu nóng ban ngày và lạnh ban đêm, những sinh vật da dày sống dưới lòng đất. Rồi các em cũng tập viết đoạn văn mô tả hành tinh tưởng tượng của mình. Các em nhớ ôn lại từ vựng và luyện viết thêm nha. Hẹn gặp lại các em ở bài sau!
+Ok vậy là xong bài <eng>Skills 2</eng> Unit 12 rồi nha. Bài này các em đã nghe về hành tinh <eng>Planet Hope</eng> với sinh vật <eng>Hopeans</eng> - họ có 4 mắt, 4 tay, da dày, thân thiện và hiếu khách, uống dầu từ dưới lòng đất, và di chuyển bằng tên lửa. Rồi các em cũng tập viết đoạn văn mô tả hành tinh tưởng tượng của mình. Các em nhớ ôn lại từ vựng và luyện viết thêm nha. Hẹn gặp lại các em ở bài sau!
 </teacher_script>
