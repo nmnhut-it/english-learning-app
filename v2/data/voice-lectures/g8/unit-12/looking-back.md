@@ -103,26 +103,36 @@ Ok, đáp án nè.
 </explanation>
 
 <!-- chunk: bai2 -->
-### Bài 2 trang 132 - Fill in the blanks
+### Bài 2 trang 132 - Circle the correct words
 
 <teacher_script pause="0">
-Bài 2, điền từ trong hộp vào chỗ trống để hoàn thành đoạn văn về sao Hỏa nha.
+Bài 2 <eng>Circle the correct words to complete the sentences</eng>. Khoanh tròn từ đúng để hoàn thành câu nha. Mỗi câu có 2 lựa chọn, các em chọn từ phù hợp nhất.
 </teacher_script>
 
 <task>
-**Đề:** Fill in each gap with a word from the box to complete the passage.
-**Dịch đề:** Điền vào mỗi chỗ trống với một từ trong hộp để hoàn thành đoạn văn.
+**Đề:** Circle the correct words to complete the sentences.
+**Dịch đề:** Khoanh tròn từ đúng để hoàn thành câu.
 </task>
 
-<questions type="fill_blanks">
-| surface | liquid water | habitable | climate | traces |
-|---------|-------------|-----------|---------|--------|
+<questions type="multiple_choice">
+**1.** **UFOs / Rockets** are spaceships from another planet.
+*_______ là những tàu không gian từ những hành tinh khác.*
 
-Mars is sometimes called the Red Planet because of its reddish (1) _______. Scientists have found (2) _______ of water on Mars. However, there is no (3) _______ on its surface now. The (4) _______ on Mars is very cold and harsh. Scientists are still studying whether Mars could be (5) _______ for humans in the future.
+**2.** We have no **possibility / condition** of making our own spaceship.
+*Chúng ta không có _______ tạo ra tàu vũ trụ của riêng mình.*
+
+**3.** We can't find any living **craters / creatures** in the solar system except for us.
+*Chúng ta không thể tìm thấy _______ sống trong hệ mặt trời ngoại trừ chúng ta.*
+
+**4.** Scientists are working to find a **habitat / habitable** planet.
+*Các nhà khoa học đang làm việc để tìm kiếm một hành tinh _______.*
+
+**5.** The **gravity / atmosphere** of the Earth makes things fall to the ground when we drop them.
+*_______ của Trái Đất khiến đồ vật rơi xuống đất khi chúng ta thả chúng.*
 </questions>
 
-<teacher_script pause="90">
-Các em có 1 phút rưỡi làm bài nha. Đọc kỹ đoạn văn rồi điền từ phù hợp.
+<teacher_script pause="60">
+Các em có 1 phút làm bài nha. Đọc kỹ nghĩa của từng từ rồi chọn.
 </teacher_script>
 
 <teacher_script pause="0">
@@ -130,125 +140,53 @@ Ok, đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. surface | 2. traces | 3. liquid water | 4. climate | 5. habitable
+**Đáp án:** 1. UFOs | 2. possibility | 3. creatures | 4. habitable | 5. gravity
 </answer>
 
-<translation>
-Sao Hỏa đôi khi được gọi là Hành tinh Đỏ vì **bề mặt** đỏ của nó. Các nhà khoa học đã tìm thấy **dấu vết** của nước trên sao Hỏa. Tuy nhiên, hiện tại không có **nước ở dạng lỏng** trên bề mặt của nó. **Khí hậu** trên sao Hỏa rất lạnh và khắc nghiệt. Các nhà khoa học vẫn đang nghiên cứu liệu sao Hỏa có thể **sinh sống được** cho con người trong tương lai hay không.
-</translation>
-
 <explanation>
-**1. surface** - Surface = bề mặt. Sao Hỏa có bề mặt màu đỏ nên được gọi là Hành tinh Đỏ. Reddish surface = bề mặt đỏ.
+**1. UFOs** - UFOs (Unidentified Flying Objects) = Vật thể bay không xác định, tức là tàu không gian từ hành tinh khác. Rockets = tên lửa, là do con người chế tạo, không phải từ hành tinh khác nha.
 
-**2. traces** - Traces = dấu vết. Các nhà khoa học tìm thấy dấu vết của nước, tức là có bằng chứng cho thấy từng có nước. Traces of water = dấu vết của nước.
+**2. possibility** - Possibility = khả năng. "Have no possibility of" = không có khả năng. Condition = điều kiện, không phù hợp nghĩa ở đây. Câu này nói chúng ta không có khả năng tự tạo tàu vũ trụ.
 
-**3. liquid water** - Liquid water = nước ở dạng lỏng. Hiện tại không có nước dạng lỏng trên bề mặt sao Hỏa. Nước chỉ tồn tại dạng băng hoặc hơi.
+**3. creatures** - Creatures = sinh vật sống. Craters = miệng núi lửa/hố va chạm. Câu này nói về sinh vật sống trong hệ mặt trời, nên chọn creatures nha.
 
-**4. climate** - Climate = khí hậu. Khí hậu sao Hỏa rất lạnh và khắc nghiệt. Cold and harsh = lạnh và khắc nghiệt.
+**4. habitable** - Habitable = có thể sinh sống được (tính từ). Habitat = môi trường sống (danh từ). Trước "planet" cần tính từ nên chọn habitable. Các nhà khoa học đang tìm hành tinh có thể sinh sống được.
 
-**5. habitable** - Habitable = có thể sinh sống được. Câu hỏi lớn là liệu sao Hỏa có thể trở nên habitable cho con người không.
+**5. gravity** - Gravity = trọng lực, là lực làm vật rơi xuống đất. Atmosphere = bầu khí quyển, không liên quan đến việc vật rơi xuống. Trọng lực Trái Đất khiến đồ vật rơi khi ta thả chúng.
 </explanation>
 
 <!-- chunk: bai3 -->
-### Bài 3 trang 133 - Find and correct mistakes
+### Bài 3 trang 133 - Rewrite as reported questions
 
 <teacher_script pause="0">
-Bài 3, tìm lỗi sai và sửa lại nha. Đây là bài ôn tập câu tường thuật dạng câu hỏi Wh-. Các em chú ý hai lỗi hay gặp nhất: một là quên lùi thì, hai là đảo ngữ trong câu tường thuật.
+Bài 3 <eng>Rewrite each sentence so that it is closest in meaning to the original one</eng>. Viết lại mỗi câu sao cho gần nghĩa nhất với câu gốc nha. Đây là bài viết lại câu hỏi trực tiếp thành câu tường thuật. Nhớ 3 bước: một là đổi đại từ, hai là lùi thì, ba là KHÔNG đảo ngữ.
 </teacher_script>
 
 <task>
-**Đề:** Find a mistake in each sentence and correct it.
-**Dịch đề:** Tìm một lỗi sai trong mỗi câu và sửa lại.
+**Đề:** Rewrite each sentence so that it is closest in meaning to the original one.
+**Dịch đề:** Viết lại mỗi câu sao cho gần nghĩa nhất với câu gốc.
 </task>
 
 <questions type="complete_sentences">
-**1.** She asked me where did I live.
-*Cô ấy hỏi tôi sống ở đâu.*
+**1.** "What is this novel about?" said Mary.
+Mary wanted to know _________________.
+*"Cuốn tiểu thuyết này nói về gì?" Mary hỏi.*
 
-**2.** He wanted to know what is the weather like on Mars.
-*Anh ấy muốn biết thời tiết trên sao Hỏa như thế nào.*
+**2.** "Who's your favourite actor, Nick?" I said.
+I asked Nick _________________.
+*"Ai là diễn viên yêu thích của bạn, Nick?" Tôi hỏi.*
 
-**3.** The teacher asked us how many planets are there in the solar system.
-*Cô giáo hỏi chúng tôi có bao nhiêu hành tinh trong hệ mặt trời.*
+**3.** "What time does the next train leave?" Mai said to me.
+Mai asked me _________________.
+*"Mấy giờ chuyến tàu tiếp theo rời đi?" Mai hỏi tôi.*
 
-**4.** I asked him when will humans travel to Mars.
-*Tôi hỏi anh ấy khi nào con người sẽ du hành đến sao Hỏa.*
+**4.** "How do the scientists observe the other planets?" the students asked.
+The students wondered _________________.
+*"Các nhà khoa học quan sát các hành tinh khác bằng cách nào?" các học sinh hỏi.*
 
-**5.** They wanted to know what do the creatures look like.
-*Họ muốn biết những sinh vật đó trông như thế nào.*
-</questions>
-
-<teacher_script pause="90">
-Các em có 1 phút rưỡi làm bài nha. Nhớ quy tắc: câu tường thuật KHÔNG đảo ngữ, và phải lùi thì.
-</teacher_script>
-
-<teacher_script pause="0">
-Ok, đáp án nè.
-</teacher_script>
-
-<answer>
-**Đáp án:**
-1. where did I live → where I lived
-2. what is the weather like → what the weather was like
-3. how many planets are there → how many planets there were
-4. when will humans travel → when humans would travel
-5. what do the creatures look like → what the creatures looked like
-</answer>
-
-<explanation>
-**1. where did I live → where I lived**
-- Lỗi: Đảo ngữ "did I" trong câu tường thuật.
-- Sửa: She asked me where **I lived**.
-- Nhớ nè: Câu tường thuật KHÔNG đảo trợ động từ. Bỏ "did" đi, động từ "live" lùi thì thành "lived".
-
-**2. what is the weather like → what the weather was like**
-- Lỗi: Đảo ngữ "is the weather" và chưa lùi thì.
-- Sửa: He wanted to know what **the weather was** like on Mars.
-- Hai lỗi luôn á: vừa đảo ngữ vừa quên lùi thì. "is" phải thành "was" và chủ ngữ "the weather" phải đứng trước động từ "was".
-
-**3. how many planets are there → how many planets there were**
-- Lỗi: Đảo ngữ "are there" và chưa lùi thì.
-- Sửa: The teacher asked us how many planets **there were** in the solar system.
-- "are" lùi thì thành "were", và "there" phải đứng trước "were" vì câu tường thuật không đảo ngữ.
-
-**4. when will humans travel → when humans would travel**
-- Lỗi: Đảo ngữ "will humans" và chưa lùi thì.
-- Sửa: I asked him when **humans would** travel to Mars.
-- "will" lùi thì thành "would", và chủ ngữ "humans" phải đứng trước "would".
-
-**5. what do the creatures look like → what the creatures looked like**
-- Lỗi: Đảo ngữ "do the creatures" trong câu tường thuật.
-- Sửa: They wanted to know what **the creatures looked** like.
-- Bỏ "do" đi, động từ "look" lùi thì thành "looked", chủ ngữ "the creatures" đứng trước động từ.
-</explanation>
-
-<!-- chunk: bai4 -->
-### Bài 4 trang 133 - Rewrite as reported questions
-
-<teacher_script pause="0">
-Bài 4, viết lại câu hỏi trực tiếp thành câu tường thuật nha. Nhớ 3 bước: một là đổi đại từ, hai là lùi thì, ba là KHÔNG đảo ngữ.
-</teacher_script>
-
-<task>
-**Đề:** Rewrite the following direct questions as reported questions.
-**Dịch đề:** Viết lại các câu hỏi trực tiếp sau thành câu tường thuật.
-</task>
-
-<questions type="complete_sentences">
-**1.** "Where can we find life in the solar system?" the scientist asked.
-*"Chúng ta có thể tìm thấy sự sống ở đâu trong hệ mặt trời?" nhà khoa học hỏi.*
-
-**2.** "What does the surface of Mars look like?" she asked.
-*"Bề mặt sao Hỏa trông như thế nào?" cô ấy hỏi.*
-
-**3.** "How many moons does Jupiter have?" he asked.
-*"Sao Mộc có bao nhiêu mặt trăng?" anh ấy hỏi.*
-
-**4.** "Why is Venus so hot?" my classmate asked.
-*"Tại sao sao Kim lại nóng vậy?" bạn cùng lớp tôi hỏi.*
-
-**5.** "When will the spaceship arrive?" the commander asked.
-*"Khi nào tàu vũ trụ sẽ đến?" chỉ huy trưởng hỏi.*
+**5.** Mai wondered, "Why can't humans live on Mars?"
+Mai wondered _________________.
+*Mai tự hỏi, "Tại sao con người không thể sống trên sao Hỏa?"*
 </questions>
 
 <teacher_script pause="90">
@@ -261,39 +199,108 @@ Ok, đáp án nè.
 
 <answer>
 **Đáp án:**
-1. The scientist asked where they could find life in the solar system.
-2. She wanted to know what the surface of Mars looked like.
-3. He asked how many moons Jupiter had.
-4. My classmate asked why Venus was so hot.
-5. The commander wanted to know when the spaceship would arrive.
+1. Mary wanted to know what that novel was about.
+2. I asked Nick who his favourite actor was.
+3. Mai asked me what time the next train left.
+4. The students wondered how the scientists observed the other planets.
+5. Mai wondered why humans couldn't live on Mars.
 </answer>
 
 <explanation>
-**1.** The scientist asked where **they could** find life in the solar system.
-- "Where can we find...?" → where **they could** find...
-- "we" đổi thành "they" (vì nhà khoa học nói với nhóm của mình).
-- "can" lùi thì thành "could".
-- Không đảo ngữ: "they could" chứ không phải "could they".
-
-**2.** She wanted to know what the surface of Mars **looked** like.
-- "What does the surface look like?" → what the surface **looked** like.
-- Bỏ "does", động từ "look" lùi thì thành "looked".
-- Chủ ngữ "the surface" đứng trước động từ "looked".
-
-**3.** He asked how many moons Jupiter **had**.
-- "How many moons does Jupiter have?" → how many moons Jupiter **had**.
-- Bỏ "does", "have" lùi thì thành "had".
-- Chủ ngữ "Jupiter" đứng trước động từ "had".
-
-**4.** My classmate asked why Venus **was** so hot.
-- "Why is Venus so hot?" → why Venus **was** so hot.
+**1.** Mary wanted to know what **that novel was** about.
+- "What is this novel about?" → what **that novel was** about.
+- "this" đổi thành "that" (vì tường thuật lại, không còn ở đây nữa).
 - "is" lùi thì thành "was".
-- Chủ ngữ "Venus" đứng trước "was", không đảo ngữ.
+- Không đảo ngữ: "that novel was" chứ không phải "was that novel".
 
-**5.** The commander wanted to know when the spaceship **would** arrive.
-- "When will the spaceship arrive?" → when the spaceship **would** arrive.
-- "will" lùi thì thành "would".
-- Chủ ngữ "the spaceship" đứng trước "would".
+**2.** I asked Nick who **his favourite actor was**.
+- "Who's your favourite actor?" → who **his favourite actor was**.
+- "your" đổi thành "his" (vì đang nói về Nick).
+- "is" (viết tắt 's) lùi thì thành "was".
+
+**3.** Mai asked me what time **the next train left**.
+- "What time does the next train leave?" → what time **the next train left**.
+- Bỏ "does", "leave" lùi thì thành "left".
+- Chủ ngữ "the next train" đứng trước động từ "left".
+
+**4.** The students wondered how **the scientists observed** the other planets.
+- "How do the scientists observe...?" → how **the scientists observed**...
+- Bỏ "do", "observe" lùi thì thành "observed".
+- Chủ ngữ "the scientists" đứng trước động từ "observed".
+
+**5.** Mai wondered why **humans couldn't** live on Mars.
+- "Why can't humans live on Mars?" → why **humans couldn't** live on Mars.
+- "can't" lùi thì thành "couldn't".
+- Chủ ngữ "humans" đứng trước "couldn't", không đảo ngữ.
+</explanation>
+
+<!-- chunk: bai4 -->
+### Bài 4 trang 133 - Find and correct mistakes
+
+<teacher_script pause="0">
+Bài 4 <eng>Which of the underlined parts in each sentence is incorrect? Find and correct it.</eng> Phần gạch chân nào trong mỗi câu là sai? Tìm và sửa lại nha. Mỗi câu có 3 phần gạch chân A, B, C - các em tìm phần sai.
+</teacher_script>
+
+<task>
+**Đề:** Which of the underlined parts in each sentence is incorrect? Find and correct it.
+**Dịch đề:** Phần gạch chân nào trong mỗi câu không chính xác? Tìm và sửa nó.
+</task>
+
+<questions type="multiple_choice">
+**1.** The teacher (A) **asked** the pupils what they (B) **were** (C) **are doing** then.
+*Giáo viên hỏi các học sinh họ đang làm gì lúc đó.*
+
+**2.** My father (A) **told** me what I (B) **was going** to do the (C) **following** weekend.
+*Bố hỏi tôi định làm gì vào cuối tuần sau.*
+
+**3.** My brother wanted to know (A) **what** the scientists (B) **were** exploring (C) **other** planets.
+*Em trai tôi muốn biết làm cách nào các nhà khoa học thám hiểm các hành tinh khác.*
+
+**4.** I asked my teacher what food spacemen (A) **usually** (B) **eat** when they (C) **were** travelling in a spacecraft.
+*Tôi hỏi giáo viên các phi hành gia thường ăn gì khi họ du hành trong phi thuyền.*
+
+**5.** Scientists are still (A) **wondering** how many (B) **planets** (C) **are there** in our galaxy.
+*Các nhà khoa học vẫn băn khoăn có bao nhiêu hành tinh trong thiên hà của chúng ta.*
+</questions>
+
+<teacher_script pause="90">
+Các em có 1 phút rưỡi làm bài nha. Đọc kỹ từng câu, chú ý quy tắc câu tường thuật: lùi thì, không đảo ngữ, dùng đúng từ tường thuật.
+</teacher_script>
+
+<teacher_script pause="0">
+Ok, đáp án nè. Cô giải thích từng câu luôn.
+</teacher_script>
+
+<answer>
+**Đáp án:**
+1. C (are doing → were doing)
+2. A (told → asked)
+3. B (what → how)
+4. B (eat → ate)
+5. C (are there → there are)
+</answer>
+
+<explanation>
+**1. Đáp án C: are doing → were doing**
+- Trong câu tường thuật, ta phải lùi thì. "are doing" (hiện tại tiếp diễn) phải lùi thành "were doing" (quá khứ tiếp diễn).
+- Sửa lại: The teacher asked the pupils what they **were doing** then.
+
+**2. Đáp án A: told → asked**
+- "told" dùng cho câu trần thuật, nhưng đây là câu hỏi (có "what"). Khi tường thuật câu hỏi phải dùng "asked".
+- Sửa lại: My father **asked** me what I was going to do the following weekend.
+
+**3. Đáp án B: what → how**
+- Câu hỏi về cách thức (bằng cách nào) phải dùng "how", không phải "what". Nghĩa câu là "Em trai muốn biết CÁC NHÀ KHOA HỌC THÁM HIỂM BẰNG CÁCH NÀO".
+- Sửa lại: My brother wanted to know **how** the scientists were exploring other planets.
+
+**4. Đáp án B: eat → ate**
+- Trong câu tường thuật, động từ phải lùi thì. "eat" (hiện tại đơn) phải lùi thành "ate" (quá khứ đơn).
+- Sửa lại: I asked my teacher what food spacemen usually **ate** when they were travelling in a spacecraft.
+
+**5. Đáp án C: are there → there are**
+- Trong câu tường thuật, KHÔNG được đảo ngữ. "are there" là dạng đảo ngữ của câu hỏi, phải chuyển về trật tự bình thường "there are".
+- Sửa lại: Scientists are still wondering how many planets **there are** in our galaxy.
+- Lưu ý: Câu này dùng thì hiện tại vì đây là sự thật chung (hiện tại các nhà khoa học vẫn đang tự hỏi), nên không cần lùi thì.
 </explanation>
 
 <!-- chunk: summary -->

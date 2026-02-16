@@ -1,9 +1,9 @@
 # UNIT 11: ELECTRONIC DEVICES
-## GETTING STARTED - At the electronic shop
+## GETTING STARTED - In an electronic shop
 
 <!-- chunk: intro -->
 <teacher_script pause="0">
-Ok lớp 9, Unit 11 nha. Chủ đề là <eng>Electronic Devices</eng> - Thiết bị điện tử. Bài hôm nay là <eng>Getting Started</eng>, tựa bài là <eng>At the electronic shop</eng> - Ở cửa hàng điện tử. Ghi tựa bài vô tập đi nha.
+Ok lớp 9, Unit 11 nha. Chủ đề là <eng>Electronic Devices</eng> - Thiết bị điện tử. Bài hôm nay là <eng>Getting Started</eng>, tựa bài là <eng>In an electronic shop</eng> - Trong cửa hàng điện tử. Ghi tựa bài vô tập đi nha.
 </teacher_script>
 
 <!-- chunk: vocabulary -->
@@ -14,29 +14,29 @@ Giờ mình học từ vựng trước nha. Bấm nút "Bắt đầu" bên dư�
 <vocabulary>
 1. **electronic shop** : cửa hàng điện tử /ɪˌlekˈtrɒnɪk ʃɒp/
 2. **What can I do for you?** : Tôi có thể giúp gì cho bạn? /wɒt kæn aɪ duː fə juː/
-3. **buy - bought - bought** : (v) mua /baɪ - bɔːt - bɔːt/
-4. **son** : (n) con trai /sʌn/
-5. **desktop** : (n) máy tính để bàn /ˈdesktɒp/
-6. **tablet** : (n) máy tính bảng /ˈtæblət/
-7. **portable** : (adj) di động, xách tay được /ˈpɔːtəbl/
-8. **suggest** : (v) đề nghị, gợi ý /səˈdʒest/
-9. **effectively** : (adv) hiệu quả /ɪˈfektɪvli/
-10. **lightweight aluminium case** : vỏ nhôm nhẹ /ˈlaɪtweɪt əˈluːmɪniəm keɪs/
+3. **desktop** : (n) máy tính để bàn /ˈdesktɒp/
+4. **laptop** : (n) máy tính xách tay /ˈlæptɒp/
+5. **tablet** : (n) máy tính bảng /ˈtæblət/
+6. **portable** : (adj) di động, xách tay được /ˈpɔːtəbl/
+7. **suggest** : (v) đề nghị, gợi ý /səˈdʒest/
+8. **effectively** : (adv) hiệu quả /ɪˈfektɪvli/
+9. **aluminium** : (n) nhôm /ˌæljəˈmɪniəm/
+10. **lightweight** : (adj) nhẹ /ˈlaɪtweɪt/
 11. **shoot videos** : quay video /ʃuːt ˈvɪdiəʊz/
 12. **scan documents** : quét tài liệu /skæn ˈdɒkjʊmənts/
-13. **finger** : (n) ngón tay /ˈfɪŋɡə/
+13. **touchscreen** : (n) màn hình cảm ứng /ˈtʌtʃskriːn/
 14. **virtual keyboard** : bàn phím ảo /ˈvɜːtʃʊəl ˈkiːbɔːd/
-15. **wireless hardware keyboard** : bàn phím phần cứng không dây /ˈwaɪələs ˈhɑːdweə ˈkiːbɔːd/
-16. **write and draw** : viết và vẽ /raɪt ænd drɔː/
-17. **take notes** : ghi chú /teɪk nəʊts/
-18. **draw diagram** : vẽ sơ đồ /drɔː ˈdaɪəɡræm/
-19. **type** : (v) đánh máy, (n) loại /taɪp/
-20. **touchscreen** : (n) màn hình cảm ứng /ˈtʌtʃskriːn/
+15. **wireless** : (adj) không dây /ˈwaɪələs/
+16. **hardware keyboard** : bàn phím phần cứng /ˈhɑːdweə ˈkiːbɔːd/
+17. **pencil** : (n) bút chì (bút cảm ứng) /ˈpensl/
+18. **take notes** : ghi chú /teɪk nəʊts/
+19. **diagram** : (n) sơ đồ /ˈdaɪəɡræm/
+20. **3D designs** : thiết kế 3D /θriː diː dɪˈzaɪnz/
 </vocabulary>
 
 <!-- chunk: dialogue -->
 <teacher_script pause="0">
-Giờ mình đọc hội thoại bài 1 nha. <eng>Listen and read</eng> - Nghe và đọc. Đây là hội thoại giữa ông Brown và nhân viên bán hàng ở cửa hàng điện tử. Ông Brown muốn mua máy tính cho con trai.
+Giờ mình đọc hội thoại bài 1 nha. <eng>Listen and read</eng> - Nghe và đọc. Đây là hội thoại giữa khách hàng và nhân viên bán hàng ở cửa hàng điện tử. Khách hàng muốn mua máy tính cho con trai.
 </teacher_script>
 
 <audio src="https://img.loigiaihay.com/picture/2024/0516/67.mp3">
@@ -46,14 +46,17 @@ Giờ mình đọc hội thoại bài 1 nha. <eng>Listen and read</eng> - Nghe v
 <dialogue>
 | English | Vietnamese |
 |---------|------------|
-| **Salesperson:** Good morning, sir. Welcome to our electronic shop. What can I do for you? | **Nhân viên:** Chào buổi sáng, thưa ông. Chào mừng đến cửa hàng điện tử của chúng tôi. Tôi có thể giúp gì cho ông? |
-| **Mr Brown:** Good morning. I'd like to buy a computer for my son. Can you suggest one? | **Ông Brown:** Chào buổi sáng. Tôi muốn mua một máy tính cho con trai tôi. Bạn có thể gợi ý được không? |
-| **Salesperson:** Sure! Does he need a desktop or something portable? | **Nhân viên:** Dĩ nhiên! Cậu ấy cần máy tính để bàn hay thứ gì đó di động? |
-| **Mr Brown:** Something portable, so he can use it to study effectively at school and at home. | **Ông Brown:** Thứ gì đó di động, để cậu ấy có thể dùng nó để học hiệu quả ở trường và ở nhà. |
-| **Salesperson:** I suggest this tablet. It has a lightweight aluminium case. Your son can use it to shoot videos, scan documents, and read books. | **Nhân viên:** Tôi gợi ý chiếc máy tính bảng này. Nó có vỏ nhôm nhẹ. Con trai ông có thể dùng nó để quay video, quét tài liệu, và đọc sách. |
-| **Mr Brown:** That sounds good. How can he type on it? | **Ông Brown:** Nghe hay đấy. Cậu ấy đánh máy trên đó bằng cách nào? |
-| **Salesperson:** He can type with his fingers on the virtual keyboard or use a wireless hardware keyboard. He can also use a special pen to write and draw on the touchscreen. | **Nhân viên:** Cậu ấy có thể đánh máy bằng ngón tay trên bàn phím ảo hoặc dùng bàn phím phần cứng không dây. Cậu ấy cũng có thể dùng bút đặc biệt để viết và vẽ trên màn hình cảm ứng. |
-| **Mr Brown:** Oh, that's perfect for taking notes and drawing diagrams at school. I'll take it! | **Ông Brown:** Ồ, thật hoàn hảo cho việc ghi chú và vẽ sơ đồ ở trường. Tôi lấy nó! |
+| **Shop assistant:** Good morning! What can I do for you? | **Nhân viên:** Chào buổi sáng! Tôi có thể giúp gì cho bạn? |
+| **Customer:** Good morning! I'd like to buy a computer for my son. | **Khách hàng:** Chào buổi sáng! Tôi muốn mua một chiếc máy tính cho con trai tôi. |
+| **Shop assistant:** We have desktops, laptops, and tablets. Which one are you interested in? | **Nhân viên:** Chúng tôi có máy tính để bàn, máy tính xách tay, và máy tính bảng. Bạn quan tâm đến cái nào? |
+| **Customer:** I want to buy one for my son that is portable and can be used for studying and entertainment. | **Khách hàng:** Tôi muốn mua cho con trai tôi một chiếc di động và có thể dùng để học tập và giải trí. |
+| **Shop assistant:** Ah, in this case I suggest you should buy a tablet. Look at this grey tablet. It can work as effectively as a laptop. But it's the size of a book. And it's much lighter than a laptop because it's smaller. It also has a lightweight aluminium case. | **Nhân viên:** À, trong trường hợp này tôi khuyên bạn nên mua một chiếc máy tính bảng. Hãy nhìn chiếc máy tính bảng xám này. Nó có thể hoạt động hiệu quả như laptop. Nhưng nó chỉ bằng kích thước cuốn sách. Và nó nhẹ hơn nhiều so với laptop vì nhỏ hơn. Nó cũng có vỏ nhôm nhẹ. |
+| **Customer:** Sounds good. | **Khách hàng:** Nghe hay đấy. |
+| **Shop assistant:** It also has two cameras to take photos, shoot videos, and scan documents. It has a touchscreen, so you can do everything with your fingers. | **Nhân viên:** Nó còn có hai camera để chụp ảnh, quay video và quét tài liệu. Nó có màn hình cảm ứng, nên bạn có thể làm mọi thứ bằng ngón tay. |
+| **Customer:** Is it easy to type on? | **Khách hàng:** Đánh máy có dễ không? |
+| **Shop assistant:** Yes, it is. There is a virtual keyboard. If you don't want to use it, you can use the wireless hardware keyboard. | **Nhân viên:** Vâng, có. Có bàn phím ảo. Nếu không muốn sử dụng, bạn có thể dùng bàn phím cứng không dây. |
+| **Customer:** Can I write and draw on it? | **Khách hàng:** Tôi có thể viết và vẽ trên đó được không? |
+| **Shop assistant:** You can use its pencil to take notes, draw pictures or diagrams, and make 3D designs. | **Nhân viên:** Bạn có thể sử dụng bút chì của nó để ghi chú, vẽ tranh hoặc sơ đồ và tạo các thiết kế 3D. |
 </dialogue>
 
 <teacher_script pause="180">
@@ -61,36 +64,33 @@ Dịch hội thoại vô vở nha. Có bảng song ngữ ở trên để các em
 </teacher_script>
 
 <!-- chunk: bai2 -->
-### Bài 2 trang 115 - True/False
+### Bài 2 trang 115 - Answer the questions
 
 <teacher_script pause="0">
-Bài 2, <eng>Read the conversation again and tick T (True) or F (False)</eng> - Đọc lại đoạn hội thoại và đánh dấu T (Đúng) hoặc F (Sai). Làm bài nha.
+Bài 2 <eng>Read the conversation again and answer the following questions</eng> - Đọc lại đoạn hội thoại và trả lời các câu hỏi nha.
 </teacher_script>
 
 <task>
-**Bài:** Read the conversation again and tick (V) T (True) or F (False).
-**Dịch đề:** Đọc lại đoạn hội thoại và đánh dấu (V) T (Đúng) hoặc F (Sai).
+**Đề:** Read the conversation again and answer the following questions.
+**Dịch đề:** Đọc lại đoạn hội thoại và trả lời các câu hỏi sau.
 </task>
 
-<questions type="true_false">
-**1.** Mr Brown wants to buy a computer for himself.
-*Ông Brown muốn mua máy tính cho bản thân mình.*
+<questions type="complete_sentences">
+**1.** What does the customer want to buy?
+*Khách hàng muốn mua gì?*
 
-**2.** Mr Brown's son needs something portable.
-*Con trai ông Brown cần thứ gì đó di động.*
+**2.** What kind of electronic device does the shop assistant suggest the customer should buy?
+*Nhân viên bán hàng gợi ý khách hàng nên mua loại thiết bị điện tử nào?*
 
-**3.** The tablet has a lightweight aluminium case.
-*Máy tính bảng có vỏ nhôm nhẹ.*
+**3.** What is the tablet's case made of?
+*Vỏ của máy tính bảng được làm bằng gì?*
 
-**4.** The tablet cannot be used to scan documents.
-*Máy tính bảng không thể được dùng để quét tài liệu.*
-
-**5.** The special pen can be used to write and draw on the touchscreen.
-*Bút đặc biệt có thể được dùng để viết và vẽ trên màn hình cảm ứng.*
+**4.** What is the tablet's pencil used for?
+*Bút chì của máy tính bảng dùng để làm gì?*
 </questions>
 
 <teacher_script pause="60">
-Làm xong chưa? 60 giây nha.
+Các em đọc lại hội thoại và trả lời 4 câu hỏi nha. 1 phút.
 </teacher_script>
 
 <teacher_script pause="0">
@@ -98,49 +98,64 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. F | 2. T | 3. T | 4. F | 5. T
+**Đáp án:**
+1. The customer wants to buy a computer for his/her son.
+2. The shop assistant suggests the customer should buy a tablet.
+3. The tablet's case is made of aluminium.
+4. The tablet's pencil is used for taking notes, drawing pictures or diagrams, and making 3D designs.
 </answer>
 
 <explanation>
-**1. F** - Sai nha. Câu này nói "Ông Brown muốn mua máy tính cho bản thân mình" nhưng thực ra ông ấy nói "I'd like to buy a computer for my son" - mua cho con trai chứ không phải cho mình á.
+**Câu 1:** The customer wants to buy a computer for his/her son.
+- Khách hàng muốn mua máy tính cho con trai. Thông tin: Customer nói "I'd like to buy a computer for my son."
 
-**2. T** - Đúng. Ông Brown nói "Something portable, so he can use it to study effectively at school and at home" - Thứ gì đó di động để con trai có thể học hiệu quả ở trường và ở nhà.
+**Câu 2:** The shop assistant suggests the customer should buy a tablet.
+- Nhân viên gợi ý mua máy tính bảng. Thông tin: "I suggest you should buy a tablet."
 
-**3. T** - Đúng luôn. Nhân viên bán hàng nói "It has a lightweight aluminium case" - Nó có vỏ nhôm nhẹ.
+**Câu 3:** The tablet's case is made of aluminium.
+- Vỏ máy tính bảng được làm bằng nhôm. Thông tin: "It also has a lightweight aluminium case." Aluminium = nhôm, lightweight = nhẹ.
 
-**4. F** - Sai nha. Câu này nói "Máy tính bảng không thể dùng để quét tài liệu" nhưng nhân viên nói rõ ràng "Your son can use it to shoot videos, scan documents, and read books" - có thể quét tài liệu được nghen.
-
-**5. T** - Đúng. Nhân viên nói "He can also use a special pen to write and draw on the touchscreen" - Có thể dùng bút đặc biệt để viết và vẽ trên màn hình cảm ứng.
+**Câu 4:** The tablet's pencil is used for taking notes, drawing pictures or diagrams, and making 3D designs.
+- Bút chì dùng để ghi chú, vẽ tranh hoặc sơ đồ, và tạo thiết kế 3D. Thông tin: "You can use its pencil to take notes, draw pictures or diagrams, and make 3D designs."
 </explanation>
 
 <!-- chunk: bai3 -->
 ### Bài 3 trang 115 - Matching
 
 <teacher_script pause="0">
-Bài 3, <eng>Match the features of the tablet with what they can be used for</eng> - Nối các tính năng của máy tính bảng với công dụng của chúng. Có 4 tính năng bên trái và 4 công dụng bên phải, nối cho đúng nha.
+Bài 3 <eng>Match the following words with their definitions</eng> - Nối các từ sau với định nghĩa của chúng nha. Có 5 từ vựng công nghệ quan trọng á.
 </teacher_script>
 
 <task>
-**Bài:** Match the features of the tablet (1-4) with what they can be used for (a-d).
-**Dịch đề:** Nối các tính năng của máy tính bảng (1-4) với công dụng của chúng (a-d).
+**Đề:** Match the following words with their definitions.
+**Dịch đề:** Nối các từ sau với định nghĩa của chúng.
 </task>
 
 <questions type="matching">
-**Tính năng:**
-1. touchscreen *(màn hình cảm ứng)*
-2. virtual keyboard *(bàn phím ảo)*
-3. wireless hardware keyboard *(bàn phím phần cứng không dây)*
-4. camera *(camera)*
+**Từ vựng:**
+1. aluminium
+2. portable
+3. touchscreen
+4. wireless
+5. virtual
 
-**Công dụng:**
-- a. type with fingers *(đánh máy bằng ngón tay)*
-- b. shoot videos and scan documents *(quay video và quét tài liệu)*
-- c. write and draw with a special pen *(viết và vẽ bằng bút đặc biệt)*
-- d. type more conveniently *(đánh máy tiện lợi hơn)*
+**Định nghĩa:**
+- a. a screen of a laptop or a tablet that enables the user to interact directly with what is displayed
+- b. made to appear to exist by the use of computer software, rather than in the real world
+- c. not needing wires to make a connection or to communicate
+- d. a light, silver-grey metal
+- e. easy to carry or to move
+
+*Dịch định nghĩa:*
+- *a. một màn hình cho phép người dùng tương tác trực tiếp với những gì hiển thị*
+- *b. được tạo ra để tồn tại bằng phần mềm máy tính, không phải trong thế giới thực*
+- *c. không cần dây để kết nối hoặc liên lạc*
+- *d. một kim loại nhẹ, màu xám bạc*
+- *e. dễ dàng mang theo hoặc di chuyển*
 </questions>
 
 <teacher_script pause="60">
-Làm đi, 60 giây nha.
+Các em nối từ với định nghĩa nha. 1 phút.
 </teacher_script>
 
 <teacher_script pause="0">
@@ -148,71 +163,141 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1 - c | 2 - a | 3 - d | 4 - b
+**Đáp án:** 1 - d | 2 - e | 3 - a | 4 - c | 5 - b
 </answer>
 
 <explanation>
-**1 - c. touchscreen → write and draw with a special pen** - Màn hình cảm ứng dùng để viết và vẽ bằng bút đặc biệt. Trong hội thoại, nhân viên nói "use a special pen to write and draw on the touchscreen" nha.
+**1 - d. aluminium = a light, silver-grey metal** - Nhôm là kim loại nhẹ, màu xám bạc. Nhôm được dùng làm vỏ máy tính bảng, lon nước ngọt, và nhiều thứ khác.
 
-**2 - a. virtual keyboard → type with fingers** - Bàn phím ảo hiện trên màn hình, mình dùng ngón tay để đánh máy. Nhân viên nói "type with his fingers on the virtual keyboard" á.
+**2 - e. portable = easy to carry or to move** - Portable = di động, dễ mang theo. Ví dụ: portable laptop = laptop xách tay, portable music player = máy nghe nhạc di động.
 
-**3 - d. wireless hardware keyboard → type more conveniently** - Bàn phím phần cứng không dây giúp đánh máy tiện lợi hơn so với bàn phím ảo, vì nó có phím bấm thật, gõ nhanh hơn.
+**3 - a. touchscreen = a screen that enables the user to interact directly with what is displayed** - Touchscreen = màn hình cảm ứng, cho phép người dùng chạm vào để tương tác trực tiếp với nội dung trên màn hình.
 
-**4 - b. camera → shoot videos and scan documents** - Camera dùng để quay video và quét tài liệu. Nhân viên nói "Your son can use it to shoot videos, scan documents" đó nha.
+**4 - c. wireless = not needing wires to make a connection or to communicate** - Wireless = không dây, không cần dây để kết nối. Ví dụ: wireless keyboard = bàn phím không dây, wireless Internet = wifi.
+
+**5 - b. virtual = made to appear to exist by the use of computer software** - Virtual = ảo, được tạo ra bằng phần mềm máy tính. Ví dụ: virtual keyboard = bàn phím ảo (hiện trên màn hình, không phải phím bấm thật).
 </explanation>
 
 <!-- chunk: bai4 -->
-### Bài 4 trang 115 - Speaking
+### Bài 4 trang 115 - Fill in the blanks
 
 <teacher_script pause="0">
-Bài 4, <eng>Answer the questions about electronic devices</eng> - Trả lời các câu hỏi về thiết bị điện tử. Đây là phần nói nha, các em trả lời bằng tiếng Anh.
+Bài 4 <eng>Complete the sentences with the words from 3</eng> - Hoàn thành các câu với các từ ở bài 3 nha. Dùng 5 từ vừa học ở trên: <eng>aluminium, portable, touchscreen, wireless, virtual</eng>.
 </teacher_script>
 
 <task>
-**Bài:** Answer the questions about electronic devices.
-**Dịch đề:** Trả lời các câu hỏi về thiết bị điện tử.
+**Đề:** Complete the sentences with the words from 3.
+**Dịch đề:** Hoàn thành câu với các từ ở phần 3.
 </task>
 
-<questions type="speaking">
-**1.** What electronic devices do you have at home?
-*Bạn có những thiết bị điện tử nào ở nhà?*
+<questions type="fill_blanks">
+**1.** The website allows you to take a _______ tour of the art gallery.
+*Trang web cho phép bạn thực hiện chuyến tham quan _______ đến phòng trưng bày nghệ thuật.*
 
-**2.** Which device do you use most often?
-*Bạn dùng thiết bị nào nhiều nhất?*
+**2.** You can carry your _______ laptop with you from class to class because it's small and light.
+*Bạn có thể mang theo laptop _______ của mình từ lớp này sang lớp khác vì nó nhỏ và nhẹ.*
 
-**3.** What do you use it for?
-*Bạn dùng nó để làm gì?*
+**3.** Nowadays we often use _______ keyboards because they are portable.
+*Ngày nay chúng ta thường sử dụng bàn phím _______ vì chúng có tính di động.*
+
+**4.** We often use _______ to make vehicles like aircraft or cars because of its strength and lightweight.
+*Chúng ta thường sử dụng _______ để chế tạo các phương tiện như máy bay hoặc ô tô vì tính bền và nhẹ của nó.*
+
+**5.** Most smartphones today have a _______ which allows us to navigate, type, and interact with apps and games easily.
+*Hầu hết điện thoại thông minh ngày nay đều có _______ cho phép chúng ta điều hướng, gõ và tương tác với các ứng dụng và trò chơi dễ dàng.*
 </questions>
 
 <teacher_script pause="60">
-Suy nghĩ và trả lời nha. Nói to bằng tiếng Anh luôn. 60 giây.
+Các em điền từ vào chỗ trống nha. 1 phút.
 </teacher_script>
 
 <teacher_script pause="0">
-Ok gợi ý câu trả lời nè.
+Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Gợi ý:**
-1. I have a smartphone, a laptop, and a tablet at home.
-*(Tôi có điện thoại thông minh, máy tính xách tay, và máy tính bảng ở nhà.)*
-
-2. I use my smartphone most often.
-*(Tôi dùng điện thoại thông minh nhiều nhất.)*
-
-3. I use it for messaging, browsing the Internet, and studying.
-*(Tôi dùng nó để nhắn tin, lướt mạng, và học bài.)*
+**Đáp án:** 1. virtual | 2. portable | 3. wireless | 4. aluminium | 5. touchscreen
 </answer>
 
 <explanation>
-**Câu 1** - Kể tên các thiết bị điện tử em có ở nhà. Ví dụ: smartphone (điện thoại thông minh), laptop (máy tính xách tay), tablet (máy tính bảng), desktop (máy tính để bàn), TV (ti vi), speaker (loa)... Dùng cấu trúc "I have ... at home" nha.
+**Câu 1: virtual** - "Virtual tour" = chuyến tham quan ảo. Trang web cho phép tham quan phòng trưng bày nghệ thuật qua màn hình, không cần đến tận nơi. Virtual = ảo, tạo bằng phần mềm.
 
-**Câu 2** - Chọn thiết bị em dùng nhiều nhất. Dùng cấu trúc "I use my ... most often." Phần lớn các em chắc dùng smartphone nhiều nhất á.
+**Câu 2: portable** - "Portable laptop" = laptop di động, nhỏ gọn, dễ mang theo. Câu nói laptop nhỏ và nhẹ nên mang từ lớp này sang lớp khác được.
 
-**Câu 3** - Nói em dùng thiết bị đó để làm gì. Dùng cấu trúc "I use it for + V-ing" hoặc "I use it to + V". Ví dụ: messaging (nhắn tin), browsing the Internet (lướt mạng), studying (học bài), watching videos (xem video), listening to music (nghe nhạc), playing games (chơi game)...
+**Câu 3: wireless** - "Wireless keyboards" = bàn phím không dây. Bàn phím không dây dễ mang theo vì không cần cắm dây. Đó là lý do chúng "portable" - di động.
+
+**Câu 4: aluminium** - Nhôm được dùng làm máy bay và ô tô vì nhôm vừa bền vừa nhẹ. "Strength and lightweight" = bền và nhẹ - đúng đặc tính của nhôm.
+
+**Câu 5: touchscreen** - Hầu hết điện thoại thông minh ngày nay đều có "touchscreen" - màn hình cảm ứng. Cho phép điều hướng, gõ chữ, và tương tác với ứng dụng bằng cách chạm vào màn hình.
+</explanation>
+
+<!-- chunk: bai5 -->
+### Bài 5 trang 115 - Game
+
+<teacher_script pause="0">
+Bài 5 <eng>Game. Work in pairs. Think of an electronic device and describe it to your partner. Can your partner guess what you are describing?</eng> Trò chơi nha! Nghĩ về một thiết bị điện tử rồi mô tả cho bạn đoán. Xem ví dụ trước nè.
+</teacher_script>
+
+<task>
+**Đề:** GAME. Work in pairs. Think of an electronic device and describe it to your partner. Can your partner guess what you are describing?
+**Dịch đề:** TRÒ CHƠI. Làm việc theo cặp. Hãy nghĩ về một thiết bị điện tử và mô tả cho bạn nghe. Bạn có thể đoán được thiết bị đó không?
+</task>
+
+<questions type="speaking">
+**Example:**
+**A:** It's a small, flat computer. We can control it by touching its screen or by using a special pen.
+*Đó là máy tính nhỏ, phẳng. Chúng ta điều khiển bằng cách chạm vào màn hình hoặc dùng bút đặc biệt.*
+
+**B:** Is that a portable music player?
+*Đó có phải máy nghe nhạc di động không?*
+
+**A:** No. Try again.
+*Không. Thử lại đi.*
+
+**B:** Is it a tablet?
+*Là máy tính bảng phải không?*
+
+**A:** Yes, that's right!
+*Đúng rồi!*
+</questions>
+
+<teacher_script pause="120">
+Các em tự nghĩ một thiết bị điện tử rồi mô tả bằng tiếng Anh nha. Tập nói to luôn. 2 phút.
+</teacher_script>
+
+<teacher_script pause="0">
+Đây là gợi ý mẫu nè.
+</teacher_script>
+
+<answer>
+**Gợi ý mẫu 1 - Smartphone:**
+
+**A:** This device is something almost everyone carries with them everywhere they go. It's small, fits in your hand, and has a touchscreen display. You can use it to make calls, send messages, take photos, surf the Internet, and download various apps.
+*(Thiết bị này là thứ mà hầu hết mọi người đều mang theo mọi lúc mọi nơi. Nó nhỏ, vừa tay, và có màn hình cảm ứng. Bạn có thể dùng nó để gọi điện, nhắn tin, chụp ảnh, lướt mạng, và tải ứng dụng.)*
+
+**B:** Oh, is it a smartphone?
+*(Ồ, nó là điện thoại thông minh phải không?)*
+
+**Gợi ý mẫu 2 - Television:**
+
+**A:** This device is usually in living rooms and has a large screen. You can change channels to watch different programs, adjust the volume, and sometimes it even has Internet connectivity.
+*(Thiết bị này thường ở phòng khách và có màn hình lớn. Bạn có thể đổi kênh để xem các chương trình khác nhau, chỉnh âm lượng, và đôi khi nó còn kết nối Internet.)*
+
+**B:** Hmm, is it a television?
+*(Hmm, có phải là ti vi không?)*
+</answer>
+
+<explanation>
+Để mô tả một thiết bị điện tử, các em có thể dùng các gợi ý sau:
+- **Kích thước:** It's small / large / flat... *(Nó nhỏ / lớn / phẳng...)*
+- **Nơi dùng:** It's usually in... *(Nó thường ở...)*
+- **Chức năng:** You can use it to... *(Bạn có thể dùng nó để...)*
+- **Đặc điểm nổi bật:** It has a... *(Nó có...)*
+
+Nhớ KHÔNG nói tên thiết bị nha, chỉ mô tả đặc điểm để bạn đoán thôi!
 </explanation>
 
 <!-- chunk: end -->
 <teacher_script pause="0">
-Ok vậy là xong bài <eng>Getting Started</eng> Unit 11 rồi nha. Hôm nay mình học về thiết bị điện tử, đặc biệt là máy tính bảng và các tính năng của nó. Các em nhớ học từ vựng và chuẩn bị cho bài tiếp theo nha. Tạm biệt!
+Ok vậy là xong bài <eng>Getting Started</eng> Unit 11 rồi nha. Hôm nay mình học về thiết bị điện tử, đặc biệt là máy tính bảng và các tính năng của nó. Các em nhớ 5 từ vựng quan trọng: <eng>aluminium, portable, touchscreen, wireless, virtual</eng>. Ôn lại từ vựng và chuẩn bị cho bài tiếp theo nha. Tạm biệt!
 </teacher_script>
