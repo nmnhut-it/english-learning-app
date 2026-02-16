@@ -128,20 +128,20 @@ Bài 2 <eng>Complete each sentence with the name of a material from the box</eng
 | copper | plastic | steel | rubber | cardboard |
 |--------|---------|-------|--------|-----------|
 
-**1.** _______ is a soft reddish-brown metal that is used to make electric wires and pipes.
-*_______ là một kim loại màu nâu đỏ mềm được dùng để làm dây điện và ống.*
+**1.** We often use _______ which is a soft reddish-brown metal, to make electric wire, pipes, and coins.
+*Chúng ta thường dùng _______, là một kim loại màu nâu đỏ mềm, để làm dây điện, ống và tiền xu.*
 
-**2.** _______ is a light, strong material that is used for food packaging.
-*_______ là một vật liệu nhẹ, bền, được dùng để đóng gói thực phẩm.*
+**2.** Today, _______ is often used to make cases of electric devices because it doesn't conduct electricity and it is light, and easily be shaped into many different forms.
+*Ngày nay, _______ thường được dùng để làm vỏ thiết bị điện vì nó không dẫn điện, nhẹ và dễ tạo thành nhiều hình dạng khác nhau.*
 
-**3.** _______ is a very strong metal used in the construction industry to build bridges and buildings.
-*_______ là một loại kim loại rất cứng được dùng trong ngành công nghiệp xây dựng để xây cầu và tòa nhà.*
+**3.** We often use _______ in the construction industry because it is a strong and hard metal.
+*Chúng ta thường dùng _______ trong ngành công nghiệp xây dựng vì nó là kim loại cứng và bền.*
 
-**4.** _______ is a flexible material used to make tyres and medical implants.
-*_______ là một vật liệu dẻo được dùng để làm lốp xe và cấy ghép y tế.*
+**4.** We use _______, which comes from rubber trees, for making tyres, boots, etc.
+*Chúng ta dùng _______, lấy từ cây cao su, để làm lốp xe, ủng, v.v.*
 
-**5.** _______ is a thick, stiff paper used to make boxes for packaging cereal and other products.
-*_______ là một loại giấy dày, cứng được dùng để làm hộp đựng ngũ cốc và các sản phẩm khác.*
+**5.** The kids need a piece of _______ to easily cut shapes and make toys.
+*Các em nhỏ cần một miếng _______ để dễ dàng cắt hình và làm đồ chơi.*
 </questions>
 
 <teacher_script pause="60">
@@ -157,15 +157,15 @@ Ok đáp án bài 2 nè. Cô giải thích từng câu luôn nha.
 </answer>
 
 <explanation>
-**Cau 1. copper** - <eng>Copper</eng> là đồng, một kim loại màu nâu đỏ mềm. Đồng dẫn điện tốt nên được dùng làm dây điện. Đồng cũng dùng làm ống nước luôn á.
+**Câu 1. copper** - <eng>Copper</eng> là đồng, một kim loại màu nâu đỏ mềm. Đồng dẫn điện tốt nên được dùng làm dây điện và ống dẫn. Ngoài ra đồng còn được dùng để đúc tiền xu - đó là lý do tiền xu thường có màu nâu đỏ.
 
-**Cau 2. plastic** - <eng>Plastic</eng> là nhựa, vật liệu nhẹ và bền. Nhựa được dùng rất nhiều trong bao bì thực phẩm vì nó nhẹ mà lại chống nước tốt.
+**Câu 2. plastic** - <eng>Plastic</eng> là nhựa. Nhựa được dùng làm vỏ (case) của thiết bị điện vì ba lý do: (1) không dẫn điện, tức là an toàn khi tiếp xúc với điện; (2) nhẹ; (3) dễ tạo hình thành nhiều dạng khác nhau. Các em thấy vỏ điện thoại, vỏ laptop đều làm bằng nhựa á!
 
-**Cau 3. steel** - <eng>Steel</eng> là thép, kim loại rất cứng và chắc. Thép được dùng trong ngành xây dựng để xây cầu và tòa nhà vì nó chịu lực tốt.
+**Câu 3. steel** - <eng>Steel</eng> là thép, kim loại rất cứng và chắc. Thép được dùng nhiều nhất trong ngành xây dựng vì nó đủ bền để chịu được tải trọng lớn của tòa nhà và cầu đường.
 
-**Cau 4. rubber** - <eng>Rubber</eng> là cao su, vật liệu dẻo và đàn hồi. Cao su dùng làm lốp xe vì nó bám đường tốt, và dùng trong cấy ghép y tế vì nó an toàn với cơ thể.
+**Câu 4. rubber** - <eng>Rubber</eng> là cao su, lấy từ cây cao su. Cao su dẻo và đàn hồi nên dùng làm lốp xe để bám đường tốt, và làm ủng (boots) để chống nước khi đi mưa.
 
-**Cau 5. cardboard** - <eng>Cardboard</eng> là bìa cứng, giấy dày và cứng. Bìa cứng dùng làm hộp đựng ngũ cốc, đồ ăn. Các em hay thấy hộp giấy đựng sữa, bánh đó, đó chính là bìa cứng nè.
+**Câu 5. cardboard** - <eng>Cardboard</eng> là bìa cứng, giấy dày và cứng. Bìa cứng dễ cắt và tạo hình nên các em nhỏ hay dùng để làm đồ thủ công và đồ chơi. Các em biết làm mô hình từ hộp carton không? Đó chính là bìa cứng nè!
 </explanation>
 
 <!-- chunk: exercise-3 -->
