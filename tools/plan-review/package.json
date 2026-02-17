@@ -1,6 +1,7 @@
 {
   "name": "plan-review-tool",
   "version": "1.0.0",
+  "type": "module",
   "description": "Side-by-side review and edit tool for voice lectures vs loigiaihay source",
   "scripts": {
     "dev": "npx ts-node --esm server.ts",
