@@ -1,110 +1,207 @@
-# G7 UNIT-12 GETTING STARTED
+# UNIT 12: ENGLISH-SPEAKING COUNTRIES
+## GETTING STARTED - A Holiday in Australia
 
 <!-- chunk: intro -->
-<teacher_script pause="0" href="audio/tts_fd00461e.mp3">
-Chào các em. Chào mừng các em đến với bài học hôm nay. Mời các em mở sách giáo khoa.
+<teacher_script pause="0">
+Ok lớp 7, Unit 12 nha - <eng>English-Speaking Countries</eng>. Hôm nay mình học về các nước nói tiếng Anh: Mỹ, Canada, Anh, Úc, New Zealand. Mở sách trang 40 đi!
 </teacher_script>
 
 <!-- chunk: vocabulary -->
-<teacher_script pause="0" href="audio/tts_c0841176.mp3">
-Chúng ta cùng học từ vựng mới. Các em hãy nghe và lặp lại theo mẫu nhé.
+<teacher_script pause="0">
+Các em mở sách ra, Unit 12, bài <eng>Getting Started</eng>, ghi tựa bài. Sau đó bấm nút "Bắt đầu" bên dưới để học từ vựng. Máy sẽ đọc và các em đọc theo. Sau đó các em làm bài trắc nghiệm từ vựng rồi ghi từ vựng vô tập.
 </teacher_script>
 
 <vocabulary>
-**Vocabulary**
-1. **holiday** : (n) kỳ nghỉ, ngày lễ /ˈhɒlɪdeɪ/
-2. **fantastic** : (adj) tuyệt vời, phi thường /fænˈtæstɪk/
-3. **ask for direction** : hỏi đường /ɑːsk fɔː dɪˈrekʃn/
-4. **reading maps** : đọc bản đồ /ˈriːdɪŋ mæps/
-5. **talk to local people** : nói chuyện với người địa phương /tɔːk tuː ˈləʊkl ˈpiːpl/
-6. **season** : (n) mùa /ˈsiːzn/
-7. **take a tour \- took a tour \- taken a tour** : (v) tham quan, đi du lịch có hướng dẫn /teɪk ə tʊə \- tʊk ə tʊə \- ˈteɪkən ə tʊə/
+1. **holiday** : (n) kỳ nghỉ /ˈhɒlɪdeɪ/
+2. **fantastic** : (adj) tuyệt vời /fænˈtæstɪk/
+3. **ask for directions** : (v.phr) hỏi đường /ɑːsk fər dɪˈrekʃənz/
+4. **read maps** : (v.phr) đọc bản đồ /riːd mæps/
+5. **local people** : (n.phr) người địa phương /ˈləʊkəl ˈpiːpl/
+6. **season** : (n) mùa /ˈsiːzən/
+7. **take a tour** : (v.phr) đi tham quan /teɪk ə tʊər/
 8. **penguin** : (n) chim cánh cụt /ˈpeŋɡwɪn/
-9. **amazing landscape** : phong cảnh tuyệt đẹp /əˈmeɪzɪŋ ˈlændskeɪp/
-10. **wonderful** : (adj) tuyệt vời, kỳ diệu /ˈwʌndəfl/
+9. **amazing landscape** : (n.phr) cảnh quan tuyệt đẹp /əˈmeɪzɪŋ ˈlændskeɪp/
+10. **wonderful** : (adj) kỳ diệu, tuyệt vời /ˈwʌndəfl/
+11. **outdoor lifestyle** : (n.phr) lối sống ngoài trời /ˈaʊtdɔːr ˈlaɪfstaɪl/
+12. **direction** : (n) hướng, phương hướng /dɪˈrekʃən/
+13. **sunset** : (n) hoàng hôn /ˈsʌnset/
+14. **island** : (n) đảo /ˈaɪlənd/
+15. **capital** : (n) thủ đô /ˈkæpɪtl/
 </vocabulary>
 
-<!-- chunk: audio -->
-<teacher_script pause="0" href="audio/tts_c08c1d7b.mp3">
-Bây giờ các em sẽ nghe một đoạn băng. Hãy chú ý lắng nghe để tìm thông tin trả lời câu hỏi.
+<!-- chunk: dialogue -->
+<teacher_script pause="0">
+Bài 1 <eng>Listen and read</eng> nha. Phong và Mark đang nói chuyện về kỳ nghỉ. Nghe và đọc theo.
 </teacher_script>
 
-<audio src="https://img.loigiaihay.com/picture/2022/0817/082.mp3">
-**Audio:** Getting Started
+<audio src="https://img.loigiaihay.com/picture/2022/0817/081.mp3">
+**Audio:** Getting Started - Bài 1
 </audio>
 
-<!-- chunk: content -->
-<teacher_script pause="0" href="audio/tts_d5b1d729.mp3">
-Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
+<dialogue>
+| English | Vietnamese |
+|---------|------------|
+| **Mark:** Hi Phong! Did you have a good holiday? | **Mark:** Chào Phong! Kỳ nghỉ của bạn có vui không? |
+| **Phong:** It was fantastic, Mark! I went to Australia with my family. | **Phong:** Tuyệt lắm, Mark! Tôi đi Úc với gia đình. |
+| **Mark:** Wow! What did you do there? | **Mark:** Ồ! Bạn làm gì ở đó vậy? |
+| **Phong:** I used English a lot - asking for directions, reading maps, talking to local people. | **Phong:** Tôi dùng tiếng Anh nhiều lắm - hỏi đường, đọc bản đồ, nói chuyện với người địa phương. |
+| **Mark:** That sounds great! Where did you visit? | **Mark:** Nghe hay đấy! Bạn đã đến thăm những nơi nào? |
+| **Phong:** We toured Melbourne first. It's a city with four seasons in one day! | **Phong:** Chúng tôi tham quan Melbourne trước. Đó là thành phố có bốn mùa trong một ngày! |
+| **Mark:** Really? That's interesting! | **Mark:** Thật không? Thú vị thật! |
+| **Phong:** Yes! Then we visited Phillip Island to watch penguins. | **Phong:** Ừ! Sau đó chúng tôi đến thăm đảo Phillip để xem chim cánh cụt. |
+| **Mark:** Penguins? In Australia? | **Mark:** Chim cánh cụt? Ở Úc á? |
+| **Phong:** Yes, little ones. They come back to the island every sunset. It was amazing! | **Phong:** Ừ, loại nhỏ thôi. Chúng trở về đảo vào mỗi buổi hoàng hôn. Thật tuyệt vời! |
+| **Mark:** What did you like most about Australia? | **Mark:** Bạn thích nhất điều gì ở Úc? |
+| **Phong:** The landscapes and the outdoor lifestyle. Australians love the outdoors! | **Phong:** Cảnh quan và lối sống ngoài trời. Người Úc rất thích sống ngoài trời! |
+</dialogue>
+
+<teacher_script pause="180">
+Dịch hội thoại vô vở nha. 3 phút.
 </teacher_script>
 
-**UNIT 12: ENGLISH SPEAKING COUNTRIES**
+<!-- chunk: exercise_2 -->
+### Bài 2 trang 40 - Topic Identification
 
-**GETTING STARTED** 
+<teacher_script pause="30">
+Bài 2. Hội thoại này nói về chủ đề gì? Chọn đáp án đúng nha.
+</teacher_script>
 
-Phong: Thật tuyệt vời\! Tôi phải sử dụng tiếng Anh của mình trong ngoài đời: hỏi đường, đọc bản đồ, nói chuyện với người dân địa phương ..
+<task>
+**Đề:** What is the dialogue mainly about?
+**Dịch đề:** Hội thoại chủ yếu nói về điều gì?
+</task>
 
-Mark: Ồ ... Tiếng Anh của bạn tốt hơn nhiều
+<questions type="multiple_choice">
+**A.** Phong's holiday in Australia *(Kỳ nghỉ của Phong ở Úc)*
+**B.** Mark's trip to Melbourne *(Chuyến đi Melbourne của Mark)*
+**C.** English-speaking countries *(Các nước nói tiếng Anh)*
+</questions>
 
-Phong: Cảm ơn.
+<teacher_script pause="0">
+Đáp án nè.
+</teacher_script>
 
-Mark: Bạn có đi du lịch nhiều không?
+<answer>
+**Đáp án: A** - Phong's holiday in Australia
+</answer>
 
-Phong: Chỉ quanh Melbourne, thành phố có bốn mùa trong ngày.
+<explanation>
+Hội thoại kể về chuyến đi Úc của Phong - các địa điểm đã thăm (Melbourne, Phillip Island), những điều đã làm (xem chim cánh cụt, hỏi đường bằng tiếng Anh). Đây là chủ đề chính của bài.
+</explanation>
 
-Mark: Wow ... Tôi không biết điều đó. Nó thế nào?
+<!-- chunk: exercise_3 -->
+### Bài 3 trang 40 - True/False
 
-Phong: Thật tuyệt vời\! Chúng tôi đã có một chuyến tham quan đến Đảo Phillip.
+<teacher_script pause="60">
+Bài 3. Đọc lại hội thoại và cho biết câu nào đúng (T), câu nào sai (F) nha. 1 phút.
+</teacher_script>
 
-Mark: Bạn đã thăm những gì?
+<task>
+**Đề:** Read the dialogue again. Write T (True) or F (False) for each statement.
+**Dịch đề:** Đọc lại hội thoại. Viết T (Đúng) hoặc F (Sai) cho mỗi câu.
+</task>
 
-Phong: Chúng tôi đi xem chim cánh cụt.
+<questions type="true_false">
+**1.** Phong went to Australia with his family. *(Phong đi Úc với gia đình.)*
+**2.** Phong visited Sydney first. *(Phong đến thăm Sydney trước.)*
+**3.** Melbourne has only one season. *(Melbourne chỉ có một mùa.)*
+**4.** Phong saw penguins on Phillip Island. *(Phong nhìn thấy chim cánh cụt trên đảo Phillip.)*
+**5.** Australians love the outdoors. *(Người Úc thích sống ngoài trời.)*
+</questions>
 
-Mark: Nghe có vẻ khá thú vị.
+<teacher_script pause="0">
+Ok đáp án nè. Giải thích từng câu luôn.
+</teacher_script>
 
-Phong: Đúng vậy. Úc có những cảnh quan tuyệt vời.
+<answer>
+**Đáp án:** 1.T | 2.F | 3.F | 4.T | 5.T
+</answer>
 
-Mark: Đúng vậy, và người Úc thích các hoạt động ngoài trời.
+<explanation>
+- **Câu 1 - T:** Phong nói *"I went to Australia with my family"* => đúng, đi cùng gia đình.
+- **Câu 2 - F:** Phong đến **Melbourne** trước, không phải Sydney. *"We toured Melbourne first."*
+- **Câu 3 - F:** Melbourne có **bốn mùa trong một ngày** - *"four seasons in one day"*, không phải một mùa.
+- **Câu 4 - T:** *"We visited Phillip Island to watch penguins."* => đúng.
+- **Câu 5 - T:** *"Australians love the outdoors!"* => người Úc thích ngoài trời.
+</explanation>
 
-Phong: Chính xác. Có rất nhiều người vui chơi ở các công viên và bãi biển.
+<!-- chunk: exercise_4 -->
+### Bài 4 trang 40 - Fill in the Blanks
 
-Mark: Tôi rất vui vì bạn đã có một khoảng thời gian tuyệt vời ở đó.
+<teacher_script pause="60">
+Bài 4. Điền từ thích hợp vào chỗ trống để hoàn thành đoạn tóm tắt nha. 1 phút.
+</teacher_script>
 
-Phong: Cảm ơn Mark.
+<task>
+**Đề:** Complete the passage with the words from the box.
+**Dịch đề:** Hoàn thành đoạn văn với các từ trong khung.
+</task>
 
-**Bài 2 trang 125** 
+<questions type="fill_blanks">
+*(landscape / watching / island / sunset / Australians)*
 
-A \- Kì nghỉ của Phong ở Úc 
+Phong visited Australia and was amazed by its beautiful (1) _______. He went to Phillip (2) _______ to go (3) _______ penguins at (4) _______. He also liked the outdoor lifestyle of (5) _______.
+</questions>
 
-**Bài 3 trang 125** 
+<teacher_script pause="0">
+Đáp án nè.
+</teacher_script>
 
-1. Chọn   
-2. No  
-3. No   
-4. Chọn   
-5. Chọn 
+<answer>
+**Đáp án:** 1. landscape | 2. island | 3. watching | 4. sunset | 5. Australians
+</answer>
 
-**Bài 4 trang 125** 
+<explanation>
+- **(1) landscape** - *"amazing landscape"* = cảnh quan tuyệt đẹp của nước Úc.
+- **(2) island** - Phillip **Island** = đảo Phillip.
+- **(3) watching** - *"to watch penguins"* = để xem chim cánh cụt.
+- **(4) sunset** - chim cánh cụt về đảo vào mỗi buổi **hoàng hôn** (sunset).
+- **(5) Australians** - người Úc (Australians) thích lối sống ngoài trời.
+</explanation>
 
-1. landscape   
-2. watching   
-3. island   
-4. sunset   
-5. Australians 
+<!-- chunk: exercise_5 -->
+### Bài 5 trang 40 - Capitals of English-Speaking Countries
 
-**Bài 5 trang 125** 
+<teacher_script pause="60">
+Bài 5. Ghép các nước nói tiếng Anh với thủ đô của chúng nha. 1 phút.
+</teacher_script>
 
-1\. The USA \- Washington D.C
+<task>
+**Đề:** Match the English-speaking countries with their capitals.
+**Dịch đề:** Ghép các nước nói tiếng Anh với thủ đô của chúng.
+</task>
 
-2\. Canada \- Ottawa
+<questions type="matching">
+**1.** The USA *(Hoa Kỳ)*
+**2.** Canada *(Canada)*
+**3.** The UK *(Vương quốc Anh)*
+**4.** Australia *(Úc)*
+**5.** New Zealand *(New Zealand)*
 
-3\. The UK \- London
+a. Ottawa
+b. London
+c. Canberra
+d. Washington D.C.
+e. Wellington
+</questions>
 
-4\. Australia \- Canberra
+<teacher_script pause="0">
+Đáp án nè. Ghi nhớ thủ đô của 5 nước nói tiếng Anh luôn nha!
+</teacher_script>
 
-5\. New Zealand \- Wellington
+<answer>
+**Đáp án:** 1.d | 2.a | 3.b | 4.c | 5.e
+</answer>
+
+<explanation>
+- **1. The USA → d. Washington D.C.** - Thủ đô Mỹ là Washington D.C. (Thành phố Washington), không phải New York.
+- **2. Canada → a. Ottawa** - Thủ đô Canada là Ottawa, không phải Toronto hay Vancouver.
+- **3. The UK → b. London** - Thủ đô Anh là London - thành phố nổi tiếng nhất.
+- **4. Australia → c. Canberra** - Thủ đô Úc là Canberra, không phải Sydney hay Melbourne.
+- **5. New Zealand → e. Wellington** - Thủ đô New Zealand là Wellington, không phải Auckland.
+</explanation>
 
 <!-- chunk: end -->
-<teacher_script pause="0" href="audio/tts_ba688992.mp3">
-Bài học hôm nay kết thúc tại đây. Các em nhớ ôn bài và chuẩn bị cho bài học tiếp theo. Tạm biệt các em.
+<teacher_script pause="0">
+Bài <eng>Getting Started</eng> Unit 12 xong rồi nha! Các em đã biết 5 thủ đô của các nước nói tiếng Anh chưa? Washington D.C., Ottawa, London, Canberra, Wellington - ghi nhớ nha! Ôn bài kỹ hen!
 </teacher_script>
