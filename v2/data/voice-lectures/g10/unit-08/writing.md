@@ -42,6 +42,58 @@ Ok đáp án nè.
 **5. KHÔNG phải lợi ích** - Đây là nhược điểm.
 </explanation>
 
+<!-- chunk: exercise_2 -->
+### Bài 2 trang 92 - Complete the Outline
+
+<teacher_script pause="60">
+Bài 2, hoàn thành dàn ý với các lợi ích từ bài 1 và ý tưởng của em nha. 1 phút.
+</teacher_script>
+
+<task>
+**Đề:** Work in groups. Use the benefits in 1 and your own ideas to complete the following outline.
+**Dịch đề:** Làm việc nhóm. Dùng các lợi ích trong bài 1 và ý tưởng riêng để hoàn thành dàn ý.
+</task>
+
+<questions type="fill_blanks">
+**Topic sentence:** Blended learning is a way of studying a subject, which combines learning over the Internet and face-to-face learning, and brings several _______ to us.
+
+**First benefit:** First, blended learning helps us have more _______ over our own learning.
+→ Explanation 1: Learning materials are available at all times _______.
+→ Explanation 2: Students who are absent from school won't _______ lessons.
+
+**Second benefit:** Second, we can develop better _______ and teamwork skills.
+→ Explanation 1: There are a lot of interesting learning activities...
+→ Explanation 2: We have more time for _______ and group work.
+
+**Concluding sentence:** In short, blended learning has crucial advantages including students' control over their learning and _______ development.
+</questions>
+
+<teacher_script pause="0">
+Ok đáp án nè.
+</teacher_script>
+
+<answer>
+**Topic sentence:** benefits
+**First benefit:** control | online | miss
+**Second benefit:** communication | pairwork
+**Concluding sentence:** soft skills
+</answer>
+
+<explanation>
+**Câu chủ đề:** "brings several **benefits** to us" — giới thiệu blended learning mang lại nhiều lợi ích.
+
+**Lợi ích 1: Kiểm soát việc học**
+→ "more **control** over our own learning" — kiểm soát việc học của mình.
+→ Materials available **online** — tài liệu luôn có trên mạng.
+→ Won't **miss** lessons — học sinh nghỉ vẫn không bỏ bài.
+
+**Lợi ích 2: Kỹ năng giao tiếp và làm nhóm**
+→ "better **communication** and teamwork skills" — kỹ năng giao tiếp và làm nhóm.
+→ More time for **pairwork** and group work — có thêm thời gian hoạt động nhóm.
+
+**Kết luận:** **Soft skills** development — phát triển kỹ năng mềm.
+</explanation>
+
 <!-- chunk: exercise_3 -->
 ### Bài 3 trang 92 - Writing
 

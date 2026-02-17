@@ -65,32 +65,78 @@ Bài 2, thực hành hướng dẫn bạn cài đặt một ứng dụng khác. 
 **Dịch đề:** Làm việc theo cặp. Thực hành hướng dẫn cài đặt ứng dụng khác.
 </task>
 
-<!-- chunk: clil -->
-### CLIL - Digital Learning
+<!-- chunk: clil_1 -->
+### CLIL - Bài 1 trang 93 - Modern Schools
 
 <teacher_script pause="0">
-Phần <eng>CLIL</eng>: đọc về học tập kỹ thuật số nha.
+Phần <eng>CLIL</eng>: đọc về trường học hiện đại ở các nước nha. Đọc rồi trả lời câu hỏi.
 </teacher_script>
 
 <reading>
-DIGITAL LEARNING
+MODERN SCHOOLS
 
-Nowadays, digital devices such as smartphones, tablets and laptops are becoming more and more popular in education.
+Modern schools are designed to help each student to be successful. Teachers play the role of a guide for them and prepare them for lifelong learning. They encourage and challenge them to become responsible and confident individuals.
 
-Students can use these devices to study in different ways. For example, many of them use smartphones or tablets to read electronic books and search for information online. Schools also use digital devices in their blended learning programmes. These programmes involve both face-to-face and online learning. Students watch videos at home and discuss them in class.
+Class discussion is a main feature of modern schools. Students are expected to take part in discussions and express personal opinions. It is also important to ask questions in class if students do not understand any point or instruction. Group learning is another common feature. Students may work in small groups on a project task.
 
-However, technology and the Internet can be a big distraction. Students may be tempted to play games, chat with friends or visit social media sites instead of studying. That is why schools need strict rules about the use of digital devices.
+In class, teachers and students use computers to access digital learning resources. Teachers use technology and audio-visual materials to support their lessons. Outside the classroom, students have a chance to participate in field trips to famous landmarks such as museums, hospitals, and industry locations. These trips give them real-world experiences. Students also attend school camps to make friends with other students and to develop life skills in unfamiliar environments.
 </reading>
 
 <translation>
-Ngày nay, các thiết bị kỹ thuật số như điện thoại thông minh, máy tính bảng và laptop ngày càng phổ biến trong giáo dục.
+Trường học hiện đại được thiết kế để giúp mỗi học sinh thành công. Giáo viên đóng vai trò là người hướng dẫn và chuẩn bị cho học sinh học tập suốt đời. Họ khuyến khích và thử thách học sinh trở thành người có trách nhiệm và tự tin.
 
-Học sinh có thể sử dụng các thiết bị này để học theo nhiều cách. Ví dụ, nhiều em dùng smartphone hoặc tablet để đọc sách điện tử và tìm kiếm thông tin online. Trường học cũng sử dụng thiết bị kỹ thuật số trong chương trình học kết hợp. Các chương trình này bao gồm cả học trực tiếp và trực tuyến.
+Thảo luận trong lớp là đặc điểm chính của trường học hiện đại. Học sinh phải tham gia thảo luận và bày tỏ ý kiến cá nhân. Học nhóm là đặc điểm phổ biến khác — học sinh làm nhóm nhỏ cho dự án.
 
-Tuy nhiên, công nghệ và Internet có thể gây phân tâm lớn. Học sinh có thể bị cám dỗ chơi game, chat với bạn bè hoặc lướt mạng xã hội thay vì học. Đó là lý do trường cần quy định nghiêm về sử dụng thiết bị kỹ thuật số.
+Trong lớp, giáo viên và học sinh dùng máy tính để truy cập tài nguyên kỹ thuật số. Ngoài lớp, học sinh tham gia các chuyến đi thực tế đến bảo tàng, bệnh viện, cơ sở công nghiệp để có trải nghiệm thực tế. Học sinh cũng tham gia trại hè để kết bạn và phát triển kỹ năng sống.
 </translation>
+
+<teacher_script pause="60">
+Đọc xong rồi trả lời 4 câu hỏi nha. 1 phút.
+</teacher_script>
+
+<questions type="multiple_choice">
+**1.** What is the role of teachers in modern schools?
+**2.** What are two common features of modern schools?
+**3.** How do students use computers in the learning process?
+**4.** How do students learn about the real world?
+</questions>
+
+<teacher_script pause="0">
+Ok đáp án nè.
+</teacher_script>
+
+<answer>
+**1.** Teachers play the role of a guide and prepare students for lifelong learning.
+*(Giáo viên đóng vai trò là người hướng dẫn và chuẩn bị học sinh học tập suốt đời.)*
+
+**2.** Class discussion and group learning.
+*(Thảo luận trong lớp và học nhóm.)*
+
+**3.** Students use computers to access digital learning resources.
+*(Học sinh dùng máy tính để truy cập tài nguyên học tập kỹ thuật số.)*
+
+**4.** They participate in field trips to famous landmarks (museums, hospitals, industry locations).
+*(Họ tham gia các chuyến đi thực tế đến bảo tàng, bệnh viện, cơ sở công nghiệp.)*
+</answer>
+
+<!-- chunk: clil_2 -->
+### CLIL - Bài 2 trang 93 - Discussion
+
+<teacher_script pause="0" action="record">
+Bài 2, thảo luận nhóm: trường em có những đặc điểm và hoạt động tương tự không? Ghi âm nha.
+</teacher_script>
+
+<task>
+**Đề:** Work in groups. Discuss whether your school has similar features and learning activities.
+**Dịch đề:** Làm việc nhóm. Thảo luận xem trường của em có các đặc điểm và hoạt động học tập tương tự không.
+</task>
+
+<answer>
+**Ví dụ trả lời:**
+In my opinion, our school is a modern school. We discuss a lot in class to solve learning tasks. Sometimes, our teacher organises group learning for big projects. Each classroom has a computer and projector, so we can access digital learning resources. However, we have never participated in field trips to learn about the real world. I hope we will have this chance in the future.
+</answer>
 
 <!-- chunk: end -->
 <teacher_script pause="0">
-Ok bài <eng>Communication and Culture</eng> xong rồi nha. Nhớ cách hướng dẫn dùng <eng>First, Second, Then, Finally</eng>. Và về digital learning: có nhiều lợi ích nhưng cũng có thể gây phân tâm. Ôn bài hen!
+Ok bài <eng>Communication and Culture</eng> xong rồi nha. Nhớ cách hướng dẫn dùng <eng>First, Second, Then, Now, Finally</eng> + động từ nguyên mẫu. Và trường hiện đại có 2 đặc điểm: class discussion và group learning. Ôn bài hen!
 </teacher_script>
