@@ -109,6 +109,40 @@ Ok đáp án nè.
 **Đáp án:** 1. endangered | 2. practical | 3. deforestation | 4. come up with
 </answer>
 
+<!-- chunk: exercise_4 -->
+### Bài 4 trang 96 - Reported Speech
+
+<teacher_script pause="45">
+Bài 4, hoàn thành câu dựa vào hội thoại nha. Đây là <eng>reported speech</eng> - câu tường thuật - ngữ pháp chính Unit 9! 45 giây.
+</teacher_script>
+
+<task>
+**Đề:** Complete the following sentences based on the conversation.
+**Dịch đề:** Hoàn thành câu dựa vào hội thoại.
+</task>
+
+<questions type="fill_blanks">
+**1.** My teacher _______ me to do some research on environmental protection.
+**2.** She _______ that I should start with small, practical actions to protect the environment.
+**3.** She _______ I should deliver my presentation the following week.
+</questions>
+
+<teacher_script pause="0">
+Ok đáp án nè.
+</teacher_script>
+
+<answer>
+**Đáp án:** 1. asked | 2. advised | 3. said
+</answer>
+
+<explanation>
+**1. asked** - Cô ấy **yêu cầu** (ask + tân ngữ + to V): "My teacher **asked me to** do some research."
+**2. advised** - Cô ấy **khuyên** (advise + that): "She **advised that** I should start with small actions."
+**3. said** - Cô ấy **nói** (say + that): "She **said** I should present it the following week."
+
+📌 Đây là 3 động từ tường thuật quan trọng nhất: **ask, advise, say**. Nhớ kỹ nha!
+</explanation>
+
 <!-- chunk: end -->
 <teacher_script pause="0">
 Ok bài <eng>Getting Started</eng> xong rồi nha. Nhớ 4 vấn đề môi trường: <eng>global warming, deforestation, pollution, endangered animals</eng>. Và câu tường thuật (<eng>reported speech</eng>) là ngữ pháp chính Unit 9 nha! Ôn bài hen!
