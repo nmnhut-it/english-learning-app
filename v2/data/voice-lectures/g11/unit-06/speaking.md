@@ -6,6 +6,22 @@
 Ok lớp 11, bài <eng>Speaking</eng> Unit 6 nha. Chủ đề <eng>Preserving cultural heritage</eng> - Giữ gìn di sản văn hóa. Mở sách đi.
 </teacher_script>
 
+<!-- chunk: vocabulary -->
+<teacher_script pause="0">
+Học từ vựng trước nha.
+</teacher_script>
+
+<vocabulary>
+1. **preserve** : (v) bảo tồn, giữ gìn /prɪˈzɜːv/
+2. **cultural heritage** : (n phr) di sản văn hóa /ˈkʌltʃərəl ˈherɪtɪdʒ/
+3. **promote** : (v) quảng bá, thúc đẩy /prəˈmoʊt/
+4. **awareness** : (n) nhận thức /əˈwernəs/
+5. **fashionable** : (adj) thời thượng, thịnh hành /ˈfæʃnəbl/
+6. **folk music** : (n phr) âm nhạc dân gian /foʊk ˈmjuːzɪk/
+7. **artisan** : (n) nghệ nhân, thợ thủ công /ˈɑːrtɪzæn/
+8. **competition** : (n) cuộc thi /ˌkɒmpɪˈtɪʃən/
+</vocabulary>
+
 <!-- chunk: exercise_1 -->
 ### Bài 1 - Match ways with reasons
 

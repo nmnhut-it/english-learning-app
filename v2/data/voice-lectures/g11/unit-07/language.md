@@ -10,7 +10,23 @@ Ok lớp 11, bài <eng>Language</eng> Unit 7 nha. Học phát âm, từ vựng v
 ### Pronunciation - Intonation in questions
 
 <teacher_script pause="0">
-Phần <eng>Pronunciation</eng> trước nha. Hôm nay học ngữ điệu trong câu hỏi. Quy tắc quan trọng nè: câu hỏi <eng>Yes/No</eng> thì lên giọng ↗, câu hỏi <eng>Wh-</eng> thì xuống giọng ↘.
+Phần <eng>Pronunciation</eng> trước nha. Hôm nay học ngữ điệu trong câu hỏi.
+</teacher_script>
+
+<grammar>
+**Ngữ điệu trong câu hỏi (Intonation in questions):**
+
+- **Câu hỏi Yes/No** → Lên giọng ↗ ở cuối câu
+  - Did anyone go? ↗
+  - Is academic education important? ↗
+
+- **Câu hỏi Wh-** (What, When, Where, Why, Who, How) → Xuống giọng ↘ ở cuối câu
+  - What are your plans for the future? ↘
+  - When does the course start? ↘
+</grammar>
+
+<teacher_script pause="0">
+Quy tắc quan trọng nè: câu hỏi <eng>Yes/No</eng> thì lên giọng ↗, câu hỏi <eng>Wh-</eng> thì xuống giọng ↘. Nhớ kỹ nha!
 </teacher_script>
 
 <audio src="https://img.loigiaihay.com/picture/2023/0807/track-52.mp3">

@@ -24,6 +24,26 @@ Học từ vựng trước nha.
 10. **exchange** : (v) trao đổi /ɪksˈtʃeɪndʒ/
 </vocabulary>
 
+<!-- chunk: exercise_1 -->
+### Bài 1 trang 88 - Pre-reading
+
+<teacher_script pause="30">
+Bài 1, nhìn vào 2 bức ảnh và trả lời câu hỏi theo cặp nha: ảnh a và b học như thế nào? Em có quen với cách học này không? 30 giây.
+</teacher_script>
+
+<task>
+**Đề:** Work in pairs. Look at the photos and answer the questions.
+1. How do the students learn in each photo?
+2. Are you familiar with these ways of learning?
+**Dịch đề:** Làm việc theo cặp. Nhìn vào các bức ảnh và trả lời câu hỏi.
+</task>
+
+<answer>
+**Gợi ý trả lời:**
+1. Photo a: The student is learning online through her laptop (học trực tuyến qua máy tính xách tay). Photo b: Students are learning face-to-face in class (học trực tiếp trong lớp).
+2. I'm familiar with both ways of learning. / I'm more familiar with face-to-face learning.
+</answer>
+
 <!-- chunk: reading -->
 ### Bài 2 trang 88 - Đọc bài
 
@@ -56,22 +76,25 @@ Hai bạn đang nói về gì? Chọn đáp án đúng: A. Ways of helping stude
 </answer>
 
 <!-- chunk: exercise_3 -->
-### Bài 3 trang 89 - Table Completion
+### Bài 3 trang 89 - Kim or Laura?
 
 <teacher_script pause="60">
-Bài 3, đọc lại rồi hoàn thành bảng so sánh quan điểm của Kim và Laura nha. 1 phút.
+Bài 3, đọc lại rồi xác định Kim hay Laura nói điều đó nha. 1 phút.
 </teacher_script>
 
 <task>
-**Đề:** Read the texts again and complete the table.
-**Dịch đề:** Đọc lại và hoàn thành bảng.
+**Đề:** Read the texts again and decide who mentions the following by putting a tick (✓) in the correct box — Kim or Laura.
+**Dịch đề:** Đọc lại và xác định ai đề cập đến điều sau: Kim hay Laura.
 </task>
 
-<questions type="fill_blanks">
-| | Face-to-face learning | Online learning |
-|---|---|---|
-| Kim | Better: (1)_______ | Worse: (2)_______ |
-| Laura | | Better: (3)_______ |
+<questions type="matching">
+**This person…**
+**1.** thinks that online learning isn't as good as face-to-face learning.
+**2.** gains the same knowledge in both ways of learning.
+**3.** has more direct conversations and discussions.
+**4.** uses emails to contact classmates.
+**5.** can pay more attention in class.
+**6.** needs to have access to high-speed Internet.
 </questions>
 
 <teacher_script pause="0">
@@ -79,12 +102,17 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:**
-- Kim - Face-to-face better: can communicate immediately, fewer distractions, can work in groups
-- Kim - Online worse: have to email and wait, can't ask for help immediately
-- Laura - Online better: can learn anytime, email at any time, has discussion board, don't have to go to school
-- Laura - Online disadvantage: needs fast Internet connection
+**Đáp án:** 1. Kim | 2. Laura | 3. Kim | 4. Laura | 5. Kim | 6. Laura
 </answer>
+
+<explanation>
+**1. Kim** - "I think face-to-face learning is better than online learning" → Kim cho rằng học online không tốt bằng học trực tiếp.
+**2. Laura** - "I think I learn online as much as I learn in a traditional class" → Laura học được kiến thức như nhau.
+**3. Kim** - "I can work in groups and discuss with friends... ask for help immediately" → Kim có nhiều thảo luận trực tiếp.
+**4. Laura** - "I can email them at any time" → Laura dùng email liên lạc.
+**5. Kim** - "fewer distractions... strategies to keep us focused" → Kim tập trung hơn.
+**6. Laura** - "I really need to have a fast Internet connection" → Laura cần Internet tốc độ cao.
+</explanation>
 
 <!-- chunk: exercise_4 -->
 ### Bài 4 trang 89 - Discussion

@@ -6,6 +6,22 @@
 Ok lớp 11, bài <eng>Speaking</eng> Unit 9 nha. Hôm nay nói về trải nghiệm áp lực đồng trang lứa. Mở sách đi.
 </teacher_script>
 
+<!-- chunk: vocabulary -->
+<teacher_script pause="0">
+Học từ vựng trước nha.
+</teacher_script>
+
+<vocabulary>
+1. **peer pressure** : (n phr) áp lực đồng trang lứa /pɪər ˈpreʃər/
+2. **bully** : (v) bắt nạt /ˈbʊli/
+3. **body shaming** : (n phr) chê bai ngoại hình /ˈbɒdi ˈʃeɪmɪŋ/
+4. **anxiety** : (n) lo âu /æŋˈzaɪəti/
+5. **self-esteem** : (n) lòng tự trọng /ˌself ɪˈstiːm/
+6. **cyberbullying** : (n) bắt nạt trên mạng /ˈsaɪbərbʊliɪŋ/
+7. **seek help** : (phr) tìm kiếm sự giúp đỡ /siːk help/
+8. **stand up for** : (phr) bảo vệ, lên tiếng cho /stænd ʌp fɔːr/
+</vocabulary>
+
 <!-- chunk: exercise_1 -->
 ### Bài 1 - Order examples of peer pressure
 

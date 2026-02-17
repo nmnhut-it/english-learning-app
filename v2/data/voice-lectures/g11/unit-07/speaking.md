@@ -6,6 +6,22 @@
 Ok lớp 11, bài <eng>Speaking</eng> Unit 7 nha. Hôm nay thảo luận về lợi ích của đào tạo nghề và nghiên cứu học thuật. Mở sách đi.
 </teacher_script>
 
+<!-- chunk: vocabulary -->
+<teacher_script pause="0">
+Học từ vựng trước nha.
+</teacher_script>
+
+<vocabulary>
+1. **vocational training** : (n phr) đào tạo nghề /vəˈkeɪʃənl ˈtreɪnɪŋ/
+2. **academic study** : (n phr) học thuật /ˌækəˈdemɪk ˈstʌdi/
+3. **school-leaver** : (n) học sinh vừa tốt nghiệp /skuːl ˈliːvər/
+4. **practical skills** : (n phr) kỹ năng thực hành /ˈpræktɪkl skɪlz/
+5. **qualification** : (n) bằng cấp, chứng chỉ /ˌkwɒlɪfɪˈkeɪʃən/
+6. **apprenticeship** : (n) học nghề /əˈprentɪʃɪp/
+7. **higher education** : (n phr) giáo dục bậc cao /ˈhaɪər ˌedʒuˈkeɪʃən/
+8. **career path** : (n phr) con đường sự nghiệp /kəˈrɪər pɑːθ/
+</vocabulary>
+
 <!-- chunk: exercise_1 -->
 ### Bài 1 - Complete the table
 

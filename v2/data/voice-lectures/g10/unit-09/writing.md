@@ -21,6 +21,28 @@ Học từ vựng trước nha.
 7. **supporter** : (n) người ủng hộ /səˈpɔːtər/
 </vocabulary>
 
+<!-- chunk: exercise_1 -->
+### Bài 1 trang 104 - Pre-writing
+
+<teacher_script pause="30">
+Bài 1, nhìn hình logo WWF và trả lời câu hỏi nha. Làm theo cặp. 30 giây.
+</teacher_script>
+
+<task>
+**Đề:** Work in pairs. Look at the picture and answer the questions.
+1. Do you recognise the animal?
+2. Where does it come from?
+3. What do the letters WWF stand for?
+**Dịch đề:** Nhìn tranh và trả lời: Con vật này là con gì? Từ đâu? WWF là viết tắt của gì?
+</task>
+
+<answer>
+**Gợi ý:**
+1. It's a giant panda. (Đây là gấu trúc khổng lồ.)
+2. It comes from China. (Nó đến từ Trung Quốc.)
+3. WWF stands for World Wide Fund for Nature (formally The World Wildlife Fund). (WWF là viết tắt của Quỹ Quốc tế Bảo vệ Thiên nhiên.)
+</answer>
+
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 104 - Read and Complete Table
 
@@ -62,20 +84,31 @@ Ok đáp án nè.
 </answer>
 
 <!-- chunk: exercise_3 -->
-### Bài 3 trang 104 - Writing
+### Bài 3 trang 104 - Writing (Save the Elephants)
 
 <teacher_script pause="300">
-Bài 3, viết đoạn văn 120 đến 150 từ về một tổ chức bảo vệ động vật hoang dã. Có thể viết về WWF hoặc tổ chức khác. Gồm: tên, năm thành lập, mục tiêu, hoạt động chính, số liệu. 5 phút nha.
+Bài 3, dùng bảng thông tin về tổ chức <eng>Save the Elephants</eng> để viết đoạn văn 120-150 từ. Dùng cấu trúc tương tự bài về WWF. 5 phút nha.
 </teacher_script>
 
 <task>
-**Đề:** Write a paragraph (120-150 words) about a wildlife organisation.
-**Dịch đề:** Viết đoạn văn (120-150 từ) về một tổ chức bảo vệ động vật hoang dã.
+**Đề:** Write a paragraph (120-150 words) about Save the Elephants, using the information in the table below.
+**Dịch đề:** Viết đoạn văn (120-150 từ) về tổ chức Save the Elephants, dùng thông tin bên dưới.
 </task>
+
+<questions type="writing">
+**Save the Elephants (STE):**
+| | Save the Elephants (STE) |
+|---|---|
+| Kind of organisation | non-profit organisation |
+| Set up in/by | 1993 / Iain Douglas-Hamilton |
+| Aims | - to make sure elephants do not die out; - to protect the habitats in which elephants are found |
+| Focus of work | Protection: stopping illegal hunting in Africa and Asia; Research: working with scientists on elephant behaviour; Awareness: raising awareness through films, TV, new media |
+| Number of projects | 335 projects in 40 countries |
+</questions>
 
 <answer>
 **Bài mẫu:**
-The World Wide Fund for Nature (WWF) is the world's largest non-governmental environmental organisation. It was set up in 1961. Its main aims are to stop the process of destroying the planet's natural environment and to build a future in which humans respect nature. Much of the work of WWF focuses on the survival of endangered animals such as the Indian elephant, the gorilla, the giant tortoise, and the giant panda. It also works to protect the natural habitats of these animals. Currently, WWF has about 5 million supporters worldwide. It works in more than 100 countries and supports around 1,300 environmental projects. Thanks to WWF's efforts, many endangered species have been saved from extinction.
+Save the Elephants (STE) is a non-profit organisation. It was set up in 1993 by Iain Douglas-Hamilton, and today it is one of the world's largest organisations to save elephants worldwide. It aims to make sure elephants do not die out and to protect the habitats in which elephants are found. Much of the work of STE focuses on stopping the illegal hunting of elephants, especially in Africa and Asia, working together with scientists and experts to conduct research on elephant behaviour, and raising people's awareness through films, television, and new media sources. So far, it has conducted 335 projects in 40 countries and helped to protect thousands of elephants worldwide.
 </answer>
 
 <!-- chunk: end -->

@@ -6,6 +6,22 @@
 Ok lớp 11, bài <eng>Communication and Culture</eng> Unit 9 nha. Học cách thể hiện sự thất vọng và đồng cảm, và tìm hiểu các vấn đề xã hội thanh thiếu niên Mỹ. Mở sách đi.
 </teacher_script>
 
+<!-- chunk: vocabulary -->
+<teacher_script pause="0">
+Học từ vựng trước nha.
+</teacher_script>
+
+<vocabulary>
+1. **disappointment** : (n) sự thất vọng /ˌdɪsəˈpɔɪntmənt/
+2. **sympathy** : (n) sự đồng cảm /ˈsɪmpəθi/
+3. **What a pity!** : (phr) Thật tiếc! /wɒt ə ˈpɪti/
+4. **That's too bad** : (phr) Thật tệ quá /ðæts tuː bæd/
+5. **homeless** : (adj) vô gia cư /ˈhoʊmlɪs/
+6. **unemployment** : (n) thất nghiệp /ˌʌnɪmˈplɔɪmənt/
+7. **poverty** : (n) nghèo đói /ˈpɒvərti/
+8. **community service** : (n phr) phục vụ cộng đồng /kəˈmjuːnɪti ˈsɜːrvɪs/
+</vocabulary>
+
 <!-- chunk: everyday_english_1 -->
 ### Everyday English - Expressing disappointment and sympathy
 

@@ -6,6 +6,22 @@
 Ok lớp 11, bài <eng>Communication and Culture</eng> Unit 10 nha. Học cách thể hiện sự thích và không thích, và tìm hiểu các dự án bảo vệ hệ sinh thái trên thế giới. Mở sách đi.
 </teacher_script>
 
+<!-- chunk: vocabulary -->
+<teacher_script pause="0">
+Học từ vựng trước nha.
+</teacher_script>
+
+<vocabulary>
+1. **I'm fond of** : (phr) Tôi thích /aɪm fɒnd əv/
+2. **I can't stand** : (phr) Tôi không thể chịu đựng /aɪ kɑːnt stænd/
+3. **I'm not into** : (phr) Tôi không thích /aɪm nɒt ˈɪntuː/
+4. **marine** : (adj) thuộc về biển /məˈriːn/
+5. **coral reef** : (n phr) rạn san hô /ˈkɒrəl riːf/
+6. **species** : (n) loài /ˈspiːʃiːz/
+7. **protection** : (n) sự bảo vệ /prəˈtekʃən/
+8. **volunteer** : (n/v) tình nguyện viên; tình nguyện /ˌvɒlənˈtɪər/
+</vocabulary>
+
 <!-- chunk: everyday_english_1 -->
 ### Everyday English - Expressing likes and dislikes
 

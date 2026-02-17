@@ -100,8 +100,26 @@ Bài 3, thảo luận nhóm: Khách du lịch nên làm gì hoặc không nên l
 <questions type="speaking">
 - What is the tourist attraction in your local area? (Điểm du lịch ở địa phương em là gì?)
 - What do you suggest that tourists should / should not do on an ecotour? (Em đề xuất khách du lịch nên / không nên làm gì?)
-- Do you believe that it will be better for the environment if tourists follow these suggestions? (Em có tin rằng sẽ tốt hơn cho môi trường nếu du khách làm theo gợi ý?)
+- What is the second thing you suggest tourists should / should not do there? Why? (Điều thứ hai em đề xuất là gì? Tại sao?)
+- Do you believe that it will be better for the environment if tourists follow these suggestions? How will your local area and people benefit? (Em có tin rằng sẽ tốt hơn cho môi trường không? Địa phương sẽ được lợi gì?)
 </questions>
+
+<!-- chunk: exercise_4 -->
+### Bài 4 trang 115 - Share Ideas
+
+<teacher_script pause="0" action="record">
+Bài 4, chia sẻ ý kiến của nhóm với cả lớp. Bình chọn cho ý tưởng hay nhất nha. Ghi âm nha.
+</teacher_script>
+
+<task>
+**Đề:** Share your ideas with the whole class. Vote for the best ideas.
+**Dịch đề:** Chia sẻ ý kiến với cả lớp. Bình chọn cho ý tưởng hay nhất.
+</task>
+
+<answer>
+**Bài mẫu:**
+If tourists are on an ecotour to Eco-Park, a tourist attraction in my local area, I will suggest them doing several things. Firstly, tourists should prepare food with less packaging and shouldn't litter in the park. This will protect the environment. Secondly, I suggest tourists should travel by electric cars or bicycles as it will help protect the green environment. I believe that it will be better for the environment if tourists follow these suggestions. Our local area will reduce its carbon footprint, and I can help introduce green ways to relax in the park.
+</answer>
 
 <!-- chunk: end -->
 <teacher_script pause="0">

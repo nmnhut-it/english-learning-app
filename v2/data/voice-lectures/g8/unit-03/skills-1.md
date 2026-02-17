@@ -1,130 +1,235 @@
-# G8 UNIT-03 SKILLS 1
-
-<!-- chunk: intro -->
-<teacher_script pause="0" href="audio/tts_fd00461e.mp3">
-Chào các em. Chào mừng các em đến với bài học hôm nay. Mời các em mở sách giáo khoa.
-</teacher_script>
+# UNIT 3: TEENAGERS
+## SKILLS 1 - School Clubs: Reading & Speaking
 
 <!-- chunk: vocabulary -->
-<teacher_script pause="0" href="audio/tts_c0841176.mp3">
-Chúng ta cùng học từ vựng mới. Các em hãy nghe và lặp lại theo mẫu nhé.
+<teacher_script pause="0">
+Ok lớp 8, bài <eng>Skills 1</eng> nha — đọc hiểu và nói về câu lạc bộ trường. Học từ vựng trước rồi đọc hội thoại của Tom và Mai. Bấm "Bắt đầu" đi.
 </teacher_script>
 
 <vocabulary>
-**Vocabulary**
-1. **interested** : (adj) quan tâm /ˈɪntrɪstɪd/
-2. **club** : (n) câu lạc bộ /klʌb/
-3. **badminton** : (n) cầu lông /ˈbædmɪntən/
-4. **chess** : (n) cờ vua /tʃɛs/
-5. **relaxing** : (adj) thư giãn /rɪˈlæksɪŋ/
-6. **fit** : (adj) khỏe mạnh /fɪt/
-7. **beforehand** : (adv) trước đó /bɪˈfɔːhænd/
-8. **concentrate** : (v) tập trung /ˈkɒnsəntreɪt/
-9. **focused** : (adj) tập trung /ˈfəʊkəst/
-10. **enough** : (adj) đủ /ɪˈnʌf/
-11. **actually** : (adv) thực ra /ˈæktʃuəli/
-12. **arts and crafts** : (n) nghệ thuật và thủ công /ɑːts ənd krɑːfts/
-13. **member** : (n) thành viên /ˈmɛmbə/
-14. **community** : (n) cộng đồng /kəˈmjuːnɪti/
-15. **service** : (n) dịch vụ /ˈsɜːvɪs/
-16. **practical** : (adj) thực tế /ˈpræktɪkəl/
-17. **teamwork** : (n) làm việc nhóm /ˈtiːmwɜːk/
-18. **awesome** : (adj) tuyệt vời /ˈɔːsəm/
-19. **coach** : (v) huấn luyện /kəʊtʃ/
-20. **art** : (n) nghệ thuật /ɑːt/
-21. **connect** : (v) kết nối /kəˈnɛkt/
+1. **badminton** : (n) cầu lông /ˈbædmɪntən/
+2. **chess** : (n) cờ vua /tʃes/
+3. **relaxing** : (adj) thư giãn /rɪˈlæksɪŋ/
+4. **fit** : (adj) khỏe mạnh /fɪt/
+5. **concentrate** : (v) tập trung /ˈkɒnsəntreɪt/
+6. **arts and crafts** : (n) nghệ thuật thủ công /ɑːts ænd krɑːfts/
+7. **community service** : (n) phục vụ cộng đồng /kəˈmjuːnɪti ˈsɜːvɪs/
+8. **practical skills** : (n) kỹ năng thực hành /ˈpræktɪkəl skɪlz/
+9. **teamwork** : (n) làm việc nhóm /ˈtiːmwɜːk/
 </vocabulary>
 
-<!-- chunk: content -->
-<teacher_script pause="0" href="audio/tts_d5b1d729.mp3">
-Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
+<!-- chunk: reading -->
+<teacher_script pause="0">
+Giờ đọc hội thoại của Tom và Mai nha. Hai bạn đang nói chuyện về các câu lạc bộ của trường. Đọc kỹ để làm bài tập phía sau.
 </teacher_script>
 
-**UNIT 3: TEENAGERS****
+<reading>
+**Tom:** Hey Mai, I'm thinking about joining some school clubs this year. Are you interested in any?
 
-**SKILLS 1**  
-**Reading**  
-Tom: Tôi quan tâm đến hai câu lạc bộ: cầu lông và cờ vua.
+**Mai:** Yes! I'm really into badminton. It's so relaxing and it keeps me fit. What about you?
 
-Mai: Tôi cũng thích cầu lông. Thật thư giãn.
+**Tom:** I want to join the badminton club too! But I'm also thinking about the chess club.
 
-Tom: Vâng, tôi chơi nó để giữ dáng. Vì vậy, hãy cùng nhau tham gia câu lạc bộ đó.
+**Mai:** Oh, how did you get interested in chess?
 
-Mai: Được. Đó là vào Thứ Ba và Thứ Sáu từ 5:00 chiều. đến 6:30 chiều Nó bắt đầu sau giờ học 30 phút, vì vậy chúng tôi có đủ thời gian để ăn nhẹ trước. Tôi biết bạn thích cờ vua. Bạn sẽ tham gia câu lạc bộ cờ vua chứ?
+**Tom:** My mother sent me to chess classes about five years ago. At first I didn't like it, but now I can concentrate much better because of it. I really enjoy it now.
 
-Tom: Chà, tôi bắt đầu chơi nó cách đây 5 năm. Đầu tiên, mẹ tôi gửi tôi đến một câu lạc bộ cờ vua vì bà muốn tôi tập trung hơn. Bây giờ tôi thấy rằng tôi có thể tập trung tốt hơn. Bạn có thích cờ vua không? Hãy tham gia câu lạc bộ cờ vua nữa.
+**Mai:** That's great! Have you heard about the new Arts and Crafts Club?
 
-Mai: Thật ra, năm nay có một câu lạc bộ nghệ thuật và thủ công mới, và tôi muốn tham gia. Tôi nghe nói rằng các thành viên sẽ làm việc cùng nhau trong các dự án phục vụ cộng đồng nhỏ. Các thành viên có thể thực hiện các dự án nghệ thuật và cũng cải thiện kỹ năng thực hành cũng như kỹ năng làm việc nhóm.
+**Tom:** No, tell me about it!
 
-Tom: Tuyệt vời, Mai. Ai sẽ huấn luyện câu lạc bộ đó?
+**Mai:** It's brand new this year. The members do community projects — like making things to decorate the school or creating art for local events. You develop art skills and practical skills, and you learn a lot about teamwork too. The coach is Ms Hoa, our art teacher.
 
-Mai: Cô Hoa, giáo viên mỹ thuật. Cô ấy sẽ giúp chúng tôi kết nối với cộng đồng.
+**Tom:** That sounds really cool. I want to join it too!
 
-**Bài 2 trang 34**
+**Mai:** Wait — how many clubs are you going to join?
 
-1\. Trường có câu lạc bộ cầu lông, cờ vua, văn nghệ.
+**Tom:** Ha! Maybe two is enough. I'll do badminton and chess.
 
-2\. Câu lạc bộ cầu lông hoạt động sau giờ học.
+**Mai:** Good idea. And I'll join badminton with you. The badminton club meets on Tuesdays and Fridays, from 5:00 to 6:30 pm — that's 30 minutes after school ends.
 
-3\. Tom bắt đầu chơi cờ vua khi anh ấy 5 tuổi.
+**Tom:** Perfect. Let's sign up together!
+</reading>
 
-4\. Thành viên câu lạc bộ văn nghệ làm các hoạt động vì cộng đồng.
+<teacher_script pause="0">
+Dịch hội thoại này vô vở nha.
+</teacher_script>
 
-| 1\. T | 2\. T | 3\. F | 4\. T |
-| :---- | :---- | :---- | :---- |
+<translation>
+| English | Vietnamese |
+|---------|------------|
+| **Tom:** Hey Mai, I'm thinking about joining some school clubs this year. Are you interested in any? | **Tom:** Này Mai, tôi đang nghĩ đến việc tham gia một số câu lạc bộ trường năm nay. Bạn có thích câu lạc bộ nào không? |
+| **Mai:** Yes! I'm really into badminton. It's so relaxing and it keeps me fit. What about you? | **Mai:** Có! Tôi rất thích cầu lông. Nó rất thư giãn và giúp tôi khỏe mạnh. Còn bạn thì sao? |
+| **Tom:** I want to join the badminton club too! But I'm also thinking about the chess club. | **Tom:** Tôi cũng muốn tham gia câu lạc bộ cầu lông! Nhưng tôi cũng đang nghĩ đến câu lạc bộ cờ vua. |
+| **Mai:** Oh, how did you get interested in chess? | **Mai:** Ồ, bạn có hứng thú với cờ vua từ khi nào vậy? |
+| **Tom:** My mother sent me to chess classes about five years ago. At first I didn't like it, but now I can concentrate much better because of it. I really enjoy it now. | **Tom:** Mẹ tôi cho tôi đi học cờ vua khoảng năm năm trước. Lúc đầu tôi không thích, nhưng bây giờ tôi có thể tập trung tốt hơn nhiều nhờ nó. Giờ tôi thực sự thích nó rồi. |
+| **Mai:** That's great! Have you heard about the new Arts and Crafts Club? | **Mai:** Tuyệt! Bạn có nghe về Câu lạc bộ Nghệ thuật Thủ công mới chưa? |
+| **Tom:** No, tell me about it! | **Tom:** Chưa, kể tôi nghe đi! |
+| **Mai:** It's brand new this year. The members do community projects — like making things to decorate the school or creating art for local events. You develop art skills and practical skills, and you learn a lot about teamwork too. The coach is Ms Hoa, our art teacher. | **Mai:** Câu lạc bộ này hoàn toàn mới năm nay. Các thành viên làm các dự án cộng đồng — như làm đồ trang trí trường hoặc tạo tác phẩm nghệ thuật cho các sự kiện địa phương. Bạn phát triển kỹ năng nghệ thuật và kỹ năng thực hành, và bạn cũng học được nhiều về làm việc nhóm. Huấn luyện viên là cô Hoa, giáo viên mỹ thuật của chúng mình. |
+| **Tom:** That sounds really cool. I want to join it too! | **Tom:** Nghe có vẻ thú vị thật. Tôi muốn tham gia luôn! |
+| **Mai:** Wait — how many clubs are you going to join? | **Mai:** Khoan — bạn định tham gia bao nhiêu câu lạc bộ vậy? |
+| **Tom:** Ha! Maybe two is enough. I'll do badminton and chess. | **Tom:** Ha! Có lẽ hai cái là đủ rồi. Tôi sẽ chơi cầu lông và cờ vua. |
+| **Mai:** Good idea. And I'll join badminton with you. The badminton club meets on Tuesdays and Fridays, from 5:00 to 6:30 pm — that's 30 minutes after school ends. | **Mai:** Ý hay đó. Và tôi sẽ tham gia câu lạc bộ cầu lông với bạn. Câu lạc bộ cầu lông họp vào thứ Ba và thứ Sáu, từ 5:00 đến 6:30 chiều — tức là 30 phút sau khi tan học. |
+| **Tom:** Perfect. Let's sign up together! | **Tom:** Tuyệt vời. Mình đăng ký cùng nhau nhé! |
+</translation>
 
-**Bài 3 trang 34** 
+<teacher_script pause="180">
+Dịch hội thoại vô vở nha. 3 phút.
+</teacher_script>
 
-| 1\. B | 2\. C | 3\. B | 4\. B | 5\. C |
-| :---- | :---- | :---- | :---- | :---- |
+<!-- chunk: exercise-bai2 -->
+<teacher_script pause="0">
+Xong rồi hả? Bài 2 — đúng hay sai nha. Đọc lại hội thoại rồi xác định. 1 phút rưỡi.
+</teacher_script>
 
-1\. Tom và Mai đang thảo luận về các hoạt động câu lạc bộ của trường họ.
+<task>
+**Đề:** Read the dialogue again and decide if the statements are True (T) or False (F).
+**Dịch đề:** Đọc lại hội thoại và quyết định các câu sau là Đúng (T) hay Sai (F).
+</task>
 
-2\. Tom bắt đầu chơi cờ vì mẹ anh ấy muốn anh ấy chơi.
+<questions type="true_false">
+**1.** The school has a badminton club, chess club, and arts and crafts club.
+*Trường có câu lạc bộ cầu lông, câu lạc bộ cờ vua và câu lạc bộ nghệ thuật thủ công.*
 
-3\. Chơi cờ giúp Tom tập trung tốt hơn.
+**2.** The badminton club meets after school hours.
+*Câu lạc bộ cầu lông họp sau giờ tan học.*
 
-4\. Từ “it” chỉ câu lạc bộ thủ công mỹ nghệ.
+**3.** Tom started playing chess when he was five years old.
+*Tom bắt đầu chơi cờ vua khi anh ấy năm tuổi.*
 
-5\. Mai sẽ tham gia câu lạc bộ thủ công mỹ nghệ để thực hiện các dự án nghệ thuật.
+**4.** Arts and crafts club members do projects that help the community.
+*Các thành viên câu lạc bộ nghệ thuật thủ công thực hiện các dự án giúp ích cho cộng đồng.*
+</questions>
 
-**Speaking**
+<teacher_script pause="90">
+Làm đi nha, 1 phút rưỡi.
+</teacher_script>
 
-**Bài 4 trang 34** 
+<teacher_script pause="0">
+Ok đáp án nè.
+</teacher_script>
 
-A: What is the contact number for the guitar club?
+<answer>
+**Đáp án:** 1.T | 2.T | 3.F | 4.T
+</answer>
 
-B: The contact number is 0084 623486\.
+<explanation>
+**1. T — Đúng:** Trong hội thoại Tom và Mai đề cập đến cả ba câu lạc bộ: cầu lông (*badminton club*), cờ vua (*chess club*) và nghệ thuật thủ công (*Arts and Crafts Club*).
 
-A: Who is the coach for the guitar club?
+**2. T — Đúng:** Mai nói rõ: *"The badminton club meets on Tuesdays and Fridays, from 5:00 to 6:30 pm — that's 30 minutes after school ends."* — câu lạc bộ họp 30 phút sau khi tan học.
 
-B: The coach is Mr Quang, a professional guitarist.
+**3. F — Sai:** Tom nói *"My mother sent me to chess classes about five years ago"* — cách đây 5 năm, không phải khi 5 tuổi (*when he was five*). Hai cách nói hoàn toàn khác nhau nha: *"five years ago"* ≠ *"when I was five years old"*.
 
-A: What are the benefits of joining the guitar club?
+**4. T — Đúng:** Mai mô tả các thành viên *"do community projects — like making things to decorate the school or creating art for local events"* — làm dự án phục vụ cộng đồng, trang trí trường và tạo nghệ thuật cho sự kiện địa phương.
+</explanation>
 
-B: The benefits are enjoying music and making new friends.
+<!-- chunk: exercise-bai3 -->
+<teacher_script pause="0">
+Bài 3 — trắc nghiệm hiểu bài. Đọc kỹ câu hỏi rồi chọn đáp án đúng nha. 3 phút.
+</teacher_script>
 
-A: What time does the painting club meet?
+<task>
+**Đề:** Choose the best answer (A, B, or C) for each question.
+**Dịch đề:** Chọn câu trả lời đúng nhất (A, B, hoặc C) cho mỗi câu hỏi.
+</task>
 
-B: It meets on Saturdays, from 9:00 a.m. to 10:30 a.m.
+<questions type="multiple_choice">
+**1.** What are Tom and Mai talking about?
+*Tom và Mai đang nói về điều gì?*
+- A. Homework assignments
+- B. School club activities
+- C. Social media platforms
 
-A: Where does the painting club meet?
+**2.** Why did Tom's mother send him to chess club?
+*Tại sao mẹ Tom cho anh ấy tham gia câu lạc bộ cờ vua?*
+- A. She wanted him to make new friends
+- B. She wanted him to have fun after school
+- C. She wanted him to concentrate better
 
-B: It meets in the School Hall, on the first floor.
+**3.** What benefit does Tom get from chess?
+*Tom nhận được lợi ích gì từ cờ vua?*
+- A. He has made many new friends
+- B. He can concentrate better now
+- C. He has learned many new skills
 
-A: What is the contact number for the painting club?
+**4.** What does "it" refer to in "I want to join it too"?
+*"It" trong câu "I want to join it too" chỉ điều gì?*
+- A. The badminton club
+- B. The arts and crafts club
+- C. The chess club
 
-B: The contact number is 0084 135798\.
+**5.** What will Mai do at the arts and crafts club?
+*Mai sẽ làm gì ở câu lạc bộ nghệ thuật thủ công?*
+- A. Learn to draw and paint portraits
+- B. Upload photos and share artwork online
+- C. Do art projects and help the community
+</questions>
 
-A: Who is the coach for the painting club?
+<teacher_script pause="180">
+Làm đi nha, 3 phút.
+</teacher_script>
 
-B: The coach is Ms Hoa, a school art teacher.
+<teacher_script pause="0">
+Ok đáp án nè.
+</teacher_script>
 
-A: What are the benefits of joining the painting club?
+<answer>
+**Đáp án:** 1.B | 2.C | 3.B | 4.B | 5.C
+</answer>
 
-B: The benefits are doing art and relaxing.
+<explanation>
+**1. B — School club activities:** Suốt cả hội thoại Tom và Mai thảo luận về các câu lạc bộ trường — cầu lông, cờ vua, nghệ thuật thủ công. Chủ đề chính là hoạt động câu lạc bộ.
+
+**2. C — She wanted him to concentrate better:** Tom nói mẹ *gửi anh ấy* đi học cờ vua, và kết quả là bây giờ *"I can concentrate much better"*. Ngụ ý mẹ muốn anh ấy cải thiện khả năng tập trung.
+
+**3. B — He can concentrate better now:** Tom nói trực tiếp: *"now I can concentrate much better because of it"* — cờ vua giúp anh ấy tập trung tốt hơn. Đây là lợi ích anh ấy nhận được.
+
+**4. B — The arts and crafts club:** Ngay trước câu đó, Mai vừa mô tả xong về *Arts and Crafts Club*. Tom phản ứng *"That sounds really cool. I want to join it too!"* — "it" chỉ câu lạc bộ vừa được nhắc đến.
+
+**5. C — Do art projects and help the community:** Mai mô tả: *"members do community projects — like making things to decorate the school or creating art for local events"* — làm dự án nghệ thuật phục vụ cộng đồng, khớp với đáp án C.
+</explanation>
+
+<!-- chunk: speaking-bai4 -->
+<teacher_script pause="0">
+Bài 4 — phần nói nha. Thầy/cô có thông tin về hai câu lạc bộ: <eng>Guitar Club</eng> và <eng>Painting Club</eng>. Dùng thông tin này để hỏi đáp với bạn về các câu lạc bộ đó.
+</teacher_script>
+
+<task>
+**Đề:** Work in pairs. Use the information below to ask and answer questions about the two clubs.
+**Dịch đề:** Làm việc theo cặp. Dùng thông tin bên dưới để hỏi và trả lời về hai câu lạc bộ.
+
+**Câu hỏi gợi ý:**
+- What is the club called?
+- When does it meet?
+- Who is the coach?
+- What do members do?
+- What are the benefits of joining?
+- How can I contact the club?
+
+---
+
+### Guitar Club
+- **Contact:** 0084 623486
+- **Coach:** Mr Quang (professional guitarist)
+- **Activities:** Learn to play guitar, perform in school events
+- **Benefits:** Enjoy music and make new friends
+
+---
+
+### Painting Club
+- **Schedule:** Saturdays, 9:00–10:30 am
+- **Location:** School Hall, 1st floor
+- **Contact:** 0084 135798
+- **Coach:** Ms Hoa (school art teacher)
+- **Activities:** Learn painting techniques, do art projects
+- **Benefits:** Do art and relax
+</task>
+
+<teacher_script action="record">
+Ok, bây giờ hỏi đáp về hai câu lạc bộ này với bạn nha. Thầy/cô sẽ ghi âm để chấm điểm nói. Bắt đầu đi, cứ tự nhiên hỏi đáp thôi.
+</teacher_script>
 
 <!-- chunk: end -->
-<teacher_script pause="0" href="audio/tts_ba688992.mp3">
-Bài học hôm nay kết thúc tại đây. Các em nhớ ôn bài và chuẩn bị cho bài học tiếp theo. Tạm biệt các em.
+<teacher_script pause="0">
+Xong bài <eng>Skills 1</eng> rồi nha! Hôm nay mình luyện đọc hội thoại về câu lạc bộ trường, làm bài T/F và trắc nghiệm, rồi luyện nói hỏi đáp về câu lạc bộ. Về nhà ôn lại từ vựng bài này nha. Tiết sau học <eng>Skills 2</eng> — nghe và viết về vấn đề tuổi teen!
 </teacher_script>

@@ -6,6 +6,22 @@
 Ok lớp 11, bài <eng>Writing</eng> Unit 7 nha. Hôm nay viết <eng>a request letter</eng> - thư yêu cầu thông tin về khóa học. Mở sách đi.
 </teacher_script>
 
+<!-- chunk: vocabulary -->
+<teacher_script pause="0">
+Học từ vựng trước nha.
+</teacher_script>
+
+<vocabulary>
+1. **request letter** : (n phr) thư yêu cầu /rɪˈkwest ˈletər/
+2. **enquiry** : (n) câu hỏi, yêu cầu thông tin /ɪnˈkwaɪəri/
+3. **vocational school** : (n phr) trường dạy nghề /vəˈkeɪʃənl skuːl/
+4. **tour guide** : (n phr) hướng dẫn viên du lịch /tʊər ɡaɪd/
+5. **tuition fee** : (n phr) học phí /tjuˈɪʃən fiː/
+6. **certificate** : (n) chứng chỉ /səˈtɪfɪkɪt/
+7. **apply for** : (v phr) nộp đơn xin /əˈplaɪ fɔːr/
+8. **admission** : (n) tuyển sinh, nhập học /ədˈmɪʃən/
+</vocabulary>
+
 <!-- chunk: exercise_1 -->
 ### Bài 1 - Complete the enquiries
 

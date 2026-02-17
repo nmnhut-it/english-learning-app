@@ -123,6 +123,40 @@ Ok đáp án nè.
 4. learning activities
 </answer>
 
+<!-- chunk: exercise_4 -->
+### Bài 4 trang 84 - Relative Pronouns
+
+<teacher_script pause="45">
+Bài 4, hoàn thành câu với MỘT từ từ hội thoại nha. Đây là ngữ pháp quan trọng: <eng>that, who, which</eng>. 45 giây.
+</teacher_script>
+
+<task>
+**Đề:** Complete each of the following sentences with ONE word from the conversation.
+**Dịch đề:** Hoàn thành mỗi câu sau với MỘT từ từ hội thoại.
+</task>
+
+<questions type="fill_blanks">
+**1.** Nick is watching the video _______ his geography teacher uploaded on Eclass.
+**2.** This way of learning gives him a chance to discuss with his classmates, _______ may have original ideas on the topic.
+**3.** They are doing a lot of projects _______ help them understand the lessons better.
+**4.** That way of studying, _______ gives them more control over their own learning, is quite useful.
+</questions>
+
+<teacher_script pause="0">
+Ok đáp án nè.
+</teacher_script>
+
+<answer>
+**Đáp án:** 1. that | 2. who | 3. that | 4. which
+</answer>
+
+<explanation>
+**1. that** - Dùng "that" để chỉ vật (video), thay thế cho "which" trong mệnh đề quan hệ xác định.
+**2. who** - Dùng "who" để chỉ người (classmates - bạn cùng lớp).
+**3. that** - Dùng "that" để chỉ vật (projects - dự án), mệnh đề quan hệ xác định.
+**4. which** - Dùng "which" trong mệnh đề quan hệ không xác định (có dấu phẩy), chỉ vật. Không dùng "that" khi có dấu phẩy.
+</explanation>
+
 <!-- chunk: end -->
 <teacher_script pause="0">
 Ok bài <eng>Getting Started</eng> xong rồi nha. Bài này giới thiệu khái niệm <eng>blended learning</eng> - học kết hợp: xem video ở nhà, thảo luận trên lớp. Chú ý mệnh đề quan hệ với <eng>who</eng> và <eng>which</eng> - đây là ngữ pháp chính của Unit 8! Ôn bài hen!

@@ -1,274 +1,181 @@
-# G8 UNIT-10 COMMUNICATION
-
-<!-- chunk: intro -->
-<teacher_script pause="0">
-Ok lớp 8, hôm nay học phần <eng>Communication</eng> Unit 10: <eng>Communication in the Future</eng> nha. Mình sẽ học cách ngắt lời lịch sự khi giao tiếp bằng tiếng Anh. Đây là kỹ năng quan trọng khi họp video hay nói chuyện. Mở sách trang 108 đi.
-</teacher_script>
+# UNIT 10: COMMUNICATION IN THE FUTURE
+## COMMUNICATION - Interrupting Politely & Emojis
 
 <!-- chunk: vocabulary -->
 <teacher_script pause="0">
-Học từ vựng về giao tiếp và công nghệ trước nha. Bấm nút "Bắt đầu" để học từ vựng, máy đọc em đọc theo.
+Ok lớp 8, Unit 10 nha. Bài hôm nay là <eng>Communication</eng> — học cách ngắt lời lịch sự và nói về emoji luôn. Mở sách ra, ghi tựa bài đi. Rồi bấm "Bắt đầu" để học từ vựng. Máy đọc, các em đọc theo. Xong làm bài trắc nghiệm rồi ghi từ vô tập nha.
 </teacher_script>
 
 <vocabulary>
-**Vocabulary**
 1. **conference** : (n) hội nghị /ˈkɒnfərəns/
-2. **sorry for interrupting** : xin lỗi vì đã ngắt lời
-3. **hold on** : chờ một chút /həʊld ɒn/
+2. **sorry for interrupting** : xin lỗi vì ngắt lời /ˈsɒri fər ˌɪntəˈrʌptɪŋ/
+3. **hold on** : (phrase) chờ một chút /həʊld ɒn/
 4. **repeat** : (v) lặp lại /rɪˈpiːt/
-5. **of all ages** : thuộc mọi lứa tuổi
+5. **of all ages** : (phrase) mọi lứa tuổi /əv ɔːl ˈeɪdʒɪz/
 6. **emoji** : (n) biểu tượng cảm xúc /ɪˈməʊdʒi/
 7. **emotion** : (n) cảm xúc /ɪˈməʊʃən/
-8. **regardless of** : bất kể /rɪˈɡɑːdləs əv/
-9. **smiley face** : mặt cười /ˈsmaɪli feɪs/
+8. **regardless of** : (phrase) bất kể /rɪˈɡɑːdləs əv/
+9. **smiley face** : (n) mặt cười /ˈsmaɪli feɪs/
 10. **express** : (v) bày tỏ /ɪkˈspres/
 11. **replace** : (v) thay thế /rɪˈpleɪs/
-12. **to a certain extent** : đến một mức độ nhất định
+12. **to a certain extent** : (phrase) đến một mức độ nhất định /tə ə ˈsɜːtən ɪkˈstent/
 </vocabulary>
 
 <teacher_script pause="0">
-Khi muốn ngắt lời ai đó một cách lịch sự, em dùng:
-- <eng>Sorry for interrupting, but...</eng> = Xin lỗi vì ngắt lời, nhưng...
-- <eng>Hold on.</eng> = Khoan đã. / Chờ một chút.
-- <eng>Can you repeat that?</eng> = Bạn nhắc lại được không?
+Ok từ vựng xong rồi. Giờ mình vào phần chính nha — học cách ngắt lời lịch sự trong tiếng Anh. Cái này quan trọng lắm á, vì ngắt lời mà không lịch sự thì mất điểm giao tiếp liền đó.
 </teacher_script>
 
----
-
-<!-- chunk: everyday_english -->
-### Everyday English - Interrupting
-
+<!-- chunk: language_focus -->
 <teacher_script pause="0">
-Bài 1. Nghe và đọc 2 đoạn hội thoại ngắn. Chú ý cách ngắt lời lịch sự khi họp video.
+Các em nhìn vô đây nha. Có 4 câu dùng để ngắt lời lịch sự — <eng>interrupting politely</eng>. Đọc theo thầy/cô từng câu một đi.
 </teacher_script>
 
-<task>
-**Đề:** Listen and read the mini conversations below. Pay attention to the highlighted sentences.
-**Dịch đề:** Nghe và đọc các đoạn hội thoại ngắn dưới đây. Chú ý những câu được đánh dấu.
-</task>
+<grammar>
+## Cách Ngắt Lời Lịch Sự (Interrupting Politely)
+
+Khi muốn ngắt lời ai đó mà vẫn lịch sự, dùng những cụm này:
+
+| Câu ngắt lời | Nghĩa |
+|---|---|
+| **Sorry for interrupting, but...** | Xin lỗi vì ngắt lời, nhưng... |
+| **Excuse me, could I say something?** | Xin lỗi, tôi có thể nói điều gì không? |
+| **Hold on, I think...** | Chờ một chút, tôi nghĩ... |
+| **Can I come in here?** | Tôi có thể chen vào không? |
+
+Sau khi ngắt lời → người kia thường nói: **"Go ahead." / "Sure, go on."**
+</grammar>
+
+<teacher_script pause="30">
+Nhớ nha — mấy câu này dùng khi đang họp nhóm, thảo luận, hay hội thoại. Đừng có ngắt lời rồi im luôn — phải nói tiếp ý của mình vào đó nha. 30 giây đọc lại đi.
+</teacher_script>
+
+<!-- chunk: dialogue_1 -->
+<teacher_script pause="0">
+Giờ xem hội thoại 1 nha. Amy và Ben đang trong một cuộc <eng>video conference</eng> — hội nghị trực tuyến đó. Ben dùng câu ngắt lời lịch sự. Đọc và chú ý cách dùng nha.
+</teacher_script>
 
 <dialogue>
 | English | Vietnamese |
 |---------|------------|
-| **Dialogue 1 - Video conference** | **Hội thoại 1 - Họp video** |
-| **Mark:** Let's have the online meeting at 10 a.m. Everyone can... | Mark: Chúng ta họp trực tuyến lúc 10 giờ sáng nha. Mọi người có thể... |
-| **Trang:** **Sorry for interrupting**, but I think we should meet at 9 a.m. We need to check the equipment. | Trang: **Xin lỗi vì ngắt lời**, nhưng em nghĩ chúng ta nên gặp lúc 9 giờ sáng. Chúng ta cần kiểm tra thiết bị. |
-| **Dialogue 2 - Using webcam** | **Hội thoại 2 - Dùng webcam** |
-| **Nick:** This webcam is very easy to use. You click these buttons to move it up and down and these buttons to... | Nick: Webcam này rất dễ sử dụng. Bạn nhấp các nút này để di chuyển lên xuống và những nút này để... |
-| **Lan:** **Hold on. Can you repeat that?** | Lan: **Khoan đã. Bạn nhắc lại được không?** |
+| **Amy:** So, our main topic today is digital communication in schools. I think we should focus on... | **Amy:** Vậy, chủ đề chính hôm nay là giao tiếp kỹ thuật số trong trường học. Tôi nghĩ chúng ta nên tập trung vào... |
+| **Ben:** Sorry for interrupting, but I think we missed a point. | **Ben:** Xin lỗi vì ngắt lời, nhưng tôi nghĩ chúng ta đã bỏ sót một điểm. |
+| **Amy:** Oh, go ahead. | **Amy:** Ồ, nói đi. |
+| **Ben:** We should also mention online safety. It's really important for students. | **Ben:** Chúng ta cũng nên đề cập đến an toàn trực tuyến. Điều đó thực sự quan trọng với học sinh. |
+| **Amy:** Good point. Thanks for bringing that up. | **Amy:** Ý hay đấy. Cảm ơn vì đã nhắc đến điều đó. |
 </dialogue>
 
-<teacher_script pause="0">
-Hai cách ngắt lời lịch sự nè:
-- <eng>Sorry for interrupting, but...</eng> - Dùng khi muốn góp ý hoặc đề xuất gì đó.
-- <eng>Hold on. Can you repeat that?</eng> - Dùng khi không nghe kịp, cần người ta nói lại.
-Nhớ nha, ngắt lời nhưng phải lịch sự, không thì mất lịch sự lắm!
+<teacher_script pause="180">
+Dịch hội thoại này vô vở nha. Ben dùng câu nào để ngắt lời? Gạch chân câu đó luôn. 3 phút đó.
 </teacher_script>
 
----
+<!-- chunk: dialogue_2 -->
+<teacher_script pause="0">
+Hội thoại 2 nè — một nhóm bạn đang thảo luận về <eng>emoji</eng>. Xem thử Student C ngắt lời như thế nào nha.
+</teacher_script>
+
+<dialogue>
+| English | Vietnamese |
+|---------|------------|
+| **Student A:** I think emojis help people of all ages express emotions, regardless of language. | **Student A:** Tôi nghĩ emoji giúp mọi người ở mọi lứa tuổi bày tỏ cảm xúc, bất kể ngôn ngữ. |
+| **Student B:** Exactly! A smiley face can replace words in many cases. It's universal! | **Student B:** Đúng vậy! Một mặt cười có thể thay thế từ ngữ trong nhiều trường hợp. Nó mang tính toàn cầu! |
+| **Student C:** Sorry for interrupting — but do you think emojis will fully replace words? | **Student C:** Xin lỗi vì ngắt lời — nhưng các bạn có nghĩ emoji sẽ thay thế hoàn toàn từ ngữ không? |
+| **Student A:** To a certain extent, maybe. But words are still important for expressing complex ideas. | **Student A:** Đến một mức độ nhất định, có thể vậy. Nhưng từ ngữ vẫn quan trọng để diễn đạt những ý phức tạp. |
+| **Student B:** I agree. Emojis are great, but they can't express everything. | **Student B:** Tôi đồng ý. Emoji rất tốt, nhưng chúng không thể diễn đạt mọi thứ. |
+</dialogue>
+
+<teacher_script pause="180">
+Dịch hội thoại 2 vô vở. Chú ý câu Student C dùng để ngắt lời, gạch chân luôn nha. 3 phút đó.
+</teacher_script>
 
 <!-- chunk: exercise_2 -->
-### Bài 2 trang 108 - Role-play interrupting
-
-<teacher_script pause="90">
-Bài 2. Đóng vai ngắt lời theo 2 tình huống. Em A nói, em B ngắt lời để hỏi lại hoặc góp ý. 90 giây tập nha.
+<teacher_script pause="0">
+Bài 2 nha — <eng>Practice interrupting politely</eng>. Thầy/cô cho 3 tình huống, các em dùng một trong 4 câu ngắt lời đã học để đóng vai. Làm theo nhóm đôi nha.
 </teacher_script>
 
 <task>
-**Đề:** Work in pairs. Role-play the following situations. Use the expressions in 1 to interrupt.
-**Dịch đề:** Làm việc theo cặp. Đóng vai các tình huống sau. Dùng các cách diễn đạt ở bài 1 để ngắt lời.
+**Đề:** Practice interrupting politely in these situations. Use the phrases you have learned.
+**Dịch đề:** Thực hành ngắt lời lịch sự trong các tình huống sau. Dùng các cụm đã học.
 </task>
 
 <questions type="speaking">
-**Situation 1:** Student A is telling student B how to make a video call. Student B interrupts student A to ask for clarification.
-*(Học sinh A đang hướng dẫn học sinh B cách gọi video. Học sinh B ngắt lời học sinh A để hỏi lại cho rõ.)*
+**a.** Your friend is explaining something — but the information is wrong.
+*Bạn của em đang giải thích điều gì đó — nhưng thông tin đó sai.*
 
-**Situation 2:** Student A is telling student B the place for their next meeting. Student B interrupts student A to suggest another place.
-*(Học sinh A đang nói cho học sinh B địa điểm buổi họp tiếp theo. Học sinh B ngắt lời học sinh A để gợi ý địa điểm khác.)*
+**b.** The teacher is explaining, but you have an important question.
+*Thầy/cô đang giải thích, nhưng em có một câu hỏi quan trọng.*
+
+**c.** Your classmate is talking in a group discussion and you disagree with their idea.
+*Bạn cùng lớp đang nói trong buổi thảo luận nhóm và em không đồng ý với ý kiến của bạn đó.*
 </questions>
 
-<answer>
-**Situation 1 - Video call instructions:**
-
-| English | Vietnamese |
-|---------|------------|
-| **A:** First, you open the Facetime app on your laptop. And then you select from your contacts or you type their phone number... | A: Đầu tiên, cậu mở ứng dụng Facetime trên laptop. Rồi cậu chọn từ danh bạ hoặc nhập số điện thoại... |
-| **B:** Hold on. Can you repeat that? | B: Khoan đã. Cậu nhắc lại được không? |
-| **A:** Sure. First, open Facetime. Then select a contact or type the phone number. | A: Được. Đầu tiên, mở Facetime. Rồi chọn liên hệ hoặc nhập số điện thoại. |
-
-**Situation 2 - Meeting place:**
-
-| English | Vietnamese |
-|---------|------------|
-| **A:** Well, the meeting is at 9 a.m. tomorrow morning. We will hold the meeting in the Communication room on the third floor... | A: Vâng, buổi họp lúc 9 giờ sáng mai. Chúng ta sẽ họp ở phòng Communication ở tầng 3... |
-| **B:** Sorry for interrupting, but that room is occupied by another class. We can hold the meeting in Room 401. | B: Xin lỗi vì ngắt lời, nhưng phòng đó có lớp khác rồi. Chúng ta có thể họp ở phòng 401. |
-| **A:** OK, Room 401 then. | A: OK, vậy phòng 401 nha. |
-</answer>
-
-<teacher_script pause="0">
-Nhớ nha:
-- <eng>Hold on. Can you repeat that?</eng> - Khi không nghe kịp, cần hỏi lại.
-- <eng>Sorry for interrupting, but...</eng> - Khi muốn góp ý, đề xuất ý kiến khác.
+<teacher_script pause="60">
+Các em thực hành theo cặp nha. Mỗi tình huống đóng vai 1-2 lần. 1 phút cho mỗi tình huống đó. Bắt đầu đi!
 </teacher_script>
 
----
+<answer>
+**Gợi ý đáp án:**
+- (a) "Sorry for interrupting, but I think that information might not be correct..."
+- (b) "Excuse me, could I say something? I have a question about..."
+- (c) "Hold on, I think... / Can I come in here? I see it differently because..."
+</answer>
+
+<explanation>
+**a.** Khi bạn nói sai — dùng "Sorry for interrupting, but..." để nhẹ nhàng đính chính. Nhớ thêm ý kiến của mình vào sau nha.
+**b.** Khi hỏi thầy/cô — dùng "Excuse me, could I say something?" hay "Could I ask a question?" — lịch sự hơn là im lặng hay nói chen ngang đột ngột đó.
+**c.** Khi không đồng ý — dùng "Hold on, I think..." hoặc "Can I come in here?" rồi trình bày ý kiến của mình. Đây là cách tranh luận văn minh nha.
+</explanation>
 
 <!-- chunk: exercise_3 -->
-### Bài 3 trang 108 - Mark's speech about emojis
-
 <teacher_script pause="0">
-Bài 3. Nghe Mark nói về emoji. Rồi trả lời 5 câu hỏi. Nghe kỹ nha, nội dung hay lắm!
+Bài 3 — Đúng hay Sai về <eng>emoji</eng>. Đọc câu rồi ghi T hoặc F nha. Dựa vào hội thoại 2 mà trả lời đó.
 </teacher_script>
 
 <task>
-**Đề:** Mark is giving a talk about how people will communicate. Listen and answer the questions.
-**Dịch đề:** Mark đang thuyết trình về cách mọi người sẽ giao tiếp. Nghe và trả lời các câu hỏi.
+**Đề:** Read the statements about emojis. Write T (True) or F (False).
+**Dịch đề:** Đọc các câu về emoji. Viết T (Đúng) hoặc F (Sai).
 </task>
 
-<reading>
-**Mark's Speech:**
+<questions type="true_false">
+**1.** People of all ages use emojis to communicate.
+*Mọi người ở mọi lứa tuổi dùng emoji để giao tiếp.*
 
-In the next 20 years, people of all ages will use emojis even more than now. Emojis help people communicate their emotions effectively regardless of the language they speak. For example, a smiley face expresses the same meaning everywhere. An emoji can replace words to a certain extent. One day we may receive an email that contains only emojis!
+**2.** Emojis can fully replace words in all situations.
+*Emoji có thể thay thế hoàn toàn từ ngữ trong mọi tình huống.*
 
-**Bài nói của Mark:**
+**3.** Emojis help people express their emotions.
+*Emoji giúp mọi người bày tỏ cảm xúc của họ.*
 
-Trong 20 năm tới, mọi người ở mọi lứa tuổi sẽ sử dụng emoji còn nhiều hơn bây giờ. Emoji giúp mọi người truyền đạt cảm xúc của họ một cách hiệu quả bất kể ngôn ngữ họ nói. Ví dụ, một khuôn mặt cười biểu đạt cùng một ý nghĩa ở mọi nơi. Một emoji có thể thay thế từ ngữ ở một mức độ nhất định. Một ngày nào đó, chúng ta có thể nhận được một email chỉ chứa toàn emoji!
-</reading>
-
-<questions type="fill_blanks">
-**1.** What is Mark talking about?
-*(Mark đang nói về cái gì?)*
-
-**2.** In how many years will people use emojis more?
-*(Trong bao nhiêu năm nữa mọi người sẽ dùng emoji nhiều hơn?)*
-
-**3.** Who will use emojis?
-*(Ai sẽ sử dụng emoji?)*
-
-**4.** Why do emojis help people communicate effectively?
-*(Tại sao emoji giúp mọi người giao tiếp hiệu quả?)*
-
-**5.** Why does Mark think emojis will be more popular?
-*(Tại sao Mark nghĩ emoji sẽ phổ biến hơn?)*
+**4.** Emojis are used regardless of language barriers.
+*Emoji được sử dụng bất kể rào cản ngôn ngữ.*
 </questions>
 
-<teacher_script pause="90">
-Đọc lại bài nói của Mark và trả lời 5 câu hỏi. 90 giây nha.
+<teacher_script pause="60">
+Làm bài 3 đi nha. 1 phút thôi, dễ lắm. Đọc kỹ từng câu rồi quyết định T hay F.
 </teacher_script>
 
-<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
-Ok đáp án nè.
+<teacher_script pause="0">
+Ok, xem đáp án nè!
 </teacher_script>
 
 <answer>
 **Đáp án:**
-
-**1.** He is talking about emojis.
-*(Anh ấy đang nói về emoji.)*
-
-**2.** In 20 years.
-*(Trong 20 năm nữa.)*
-
-**3.** People of all ages.
-*(Mọi người ở mọi lứa tuổi.)*
-
-**4.** Because emojis help people communicate their emotions effectively regardless of the language they speak.
-*(Vì emoji giúp mọi người truyền đạt cảm xúc hiệu quả bất kể ngôn ngữ họ nói.)*
-
-**5.** Because emojis can replace words to a certain extent and express the same meaning everywhere.
-*(Vì emoji có thể thay thế từ ngữ ở một mức độ nhất định và biểu đạt cùng ý nghĩa ở mọi nơi.)*
+1. **T** — Đúng
+2. **F** — Sai
+3. **T** — Đúng
+4. **T** — Đúng
 </answer>
 
-<teacher_script pause="0">
-Điểm quan trọng từ bài của Mark:
-- Emoji dùng được <eng>regardless of language</eng> - bất kể ngôn ngữ
-- <eng>A smiley face expresses the same meaning everywhere</eng> - Mặt cười có nghĩa giống nhau ở khắp nơi
-- Emoji có thể <eng>replace words to a certain extent</eng> - thay thế từ ngữ ở một mức độ nhất định
-</teacher_script>
+<explanation>
+**Câu 1 — T (Đúng):** Student A nói "emojis help people **of all ages** express emotions" — mọi lứa tuổi, từ nhỏ tới lớn đều dùng emoji nha.
 
----
+**Câu 2 — F (Sai):** Student A nói "**to a certain extent**, maybe" — chỉ đến một mức độ nhất định thôi. Student B cũng nói "they can't express **everything**" — không thể thay thế hoàn toàn đâu. Nên câu này SAI nha.
 
-<!-- chunk: exercise_4 -->
-### Bài 4 trang 108 - Discuss with a partner
+**Câu 3 — T (Đúng):** Đúng luôn — trong hội thoại, Student A nói emojis help people "**express emotions**" — bày tỏ cảm xúc đó.
 
-<teacher_script pause="90">
-Bài 4. Thảo luận với bạn: Em có đồng ý với Mark không? Tại sao? Cho ví dụ cách em dùng emoji. 90 giây.
-</teacher_script>
-
-<task>
-**Đề:** Work in pairs. Do you agree with Mark? Give examples of how you use emojis.
-**Dịch đề:** Làm việc theo cặp. Em có đồng ý với Mark không? Cho ví dụ về cách em sử dụng emoji.
-</task>
-
-<questions type="speaking">
-**Discussion points:**
-- Do you agree that emojis will be more popular in the future?
-*(Em có đồng ý emoji sẽ phổ biến hơn trong tương lai không?)*
-- How do you use emojis in daily communication?
-*(Em sử dụng emoji như thế nào trong giao tiếp hàng ngày?)*
-- Can emojis replace words completely?
-*(Emoji có thể thay thế hoàn toàn từ ngữ không?)*
-</questions>
-
-<answer>
-**Sample answers:**
-
-**Agree:**
-- Yes, I agree with Mark. I use emojis every day when texting my friends.
-*(Có, em đồng ý với Mark. Em dùng emoji mỗi ngày khi nhắn tin với bạn bè.)*
-- Emojis help express feelings quickly. A heart emoji shows love without words.
-*(Emoji giúp bày tỏ cảm xúc nhanh. Một emoji trái tim thể hiện tình yêu mà không cần từ ngữ.)*
-
-**Disagree:**
-- I partly disagree. Emojis cannot replace words completely because some ideas are too complex.
-*(Em không đồng ý hoàn toàn. Emoji không thể thay thế hoàn toàn từ ngữ vì một số ý tưởng quá phức tạp.)*
-- For formal communication like emails to teachers, we still need words.
-*(Với giao tiếp trang trọng như email cho thầy cô, chúng ta vẫn cần từ ngữ.)*
-</answer>
-
-<teacher_script pause="0">
-Cả hai ý kiến đều có lý nha. Emoji tiện cho chat bạn bè, nhưng email công việc thì vẫn cần viết đàng hoàng.
-</teacher_script>
-
----
-
-<!-- chunk: exercise_5 -->
-### Bài 5 trang 108 - Report to class
-
-<teacher_script pause="120">
-Bài 5. Báo cáo trước lớp về kết quả thảo luận. Dùng cấu trúc: <eng>I agree/disagree with Mark because...</eng> 2 phút chuẩn bị.
-</teacher_script>
-
-<task>
-**Đề:** Report your discussion to the class.
-**Dịch đề:** Báo cáo kết quả thảo luận của em trước lớp.
-</task>
-
-<questions type="speaking">
-**Report structure:**
-1. State your opinion: "I agree / I partly agree / I disagree with Mark."
-2. Give reasons: "Because emojis can / cannot..."
-3. Give examples: "For example, I use emojis when..."
-</questions>
-
-<answer>
-**Sample report:**
-
-I agree with Mark that emojis will be more popular in the future. First, emojis help people communicate emotions quickly. For example, when I text my friends, I often use a laughing emoji instead of writing "That's so funny!" Second, emojis are universal - everyone understands a smiley face. However, I think emojis cannot replace words completely because some messages need detailed explanations.
-
-**Bài báo cáo mẫu:**
-
-Em đồng ý với Mark rằng emoji sẽ phổ biến hơn trong tương lai. Thứ nhất, emoji giúp mọi người truyền đạt cảm xúc nhanh chóng. Ví dụ, khi em nhắn tin với bạn bè, em thường dùng emoji cười thay vì viết "Vui quá!" Thứ hai, emoji mang tính phổ quát - ai cũng hiểu mặt cười. Tuy nhiên, em nghĩ emoji không thể thay thế hoàn toàn từ ngữ vì một số tin nhắn cần giải thích chi tiết.
-</answer>
-
----
+**Câu 4 — T (Đúng):** Student A nói "**regardless of language**" — bất kể ngôn ngữ. Nghĩa là người Việt, người Anh, người Nhật đều hiểu 😊 như nhau — nên đây là đúng nha.
+</explanation>
 
 <!-- chunk: end -->
 <teacher_script pause="0">
-Ok hết bài <eng>Communication</eng>. Hôm nay em học được:
-- Cách ngắt lời lịch sự: <eng>Sorry for interrupting, but...</eng> và <eng>Hold on. Can you repeat that?</eng>
-- Từ vựng: <eng>conference</eng> (hội nghị), <eng>emoji</eng> (biểu tượng cảm xúc), <eng>regardless of</eng> (bất kể)
-- Emoji giúp giao tiếp hiệu quả bất kể ngôn ngữ
-
-Bài sau học <eng>Skills 1</eng>. Bye!
+Ok Unit 10 bài <eng>Communication</eng> xong rồi nha! Hôm nay học được gì? Học 4 cách ngắt lời lịch sự và biết thêm về emoji. Nhớ dùng mấy câu này khi nói chuyện nhóm nha — vừa lịch sự vừa chuyên nghiệp luôn. Học tốt nha lớp!
 </teacher_script>

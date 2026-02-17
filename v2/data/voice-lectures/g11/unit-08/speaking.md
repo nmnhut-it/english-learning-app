@@ -6,6 +6,22 @@
 Ok lớp 11, bài <eng>Speaking</eng> Unit 8 nha. Hôm nay học về kỹ năng sống cơ bản - cách giặt đồ và nấu cơm. Mở sách đi.
 </teacher_script>
 
+<!-- chunk: vocabulary -->
+<teacher_script pause="0">
+Học từ vựng trước nha.
+</teacher_script>
+
+<vocabulary>
+1. **laundry** : (n) giặt đồ, quần áo cần giặt /ˈlɔːndri/
+2. **sort** : (v) phân loại /sɔːrt/
+3. **washing powder** : (n phr) bột giặt /ˈwɒʃɪŋ ˈpaʊdər/
+4. **fold** : (v) gấp /foʊld/
+5. **boil** : (v) đun sôi /bɔɪl/
+6. **chop** : (v) cắt, thái /tʃɒp/
+7. **ingredient** : (n) nguyên liệu /ɪnˈɡriːdiənt/
+8. **instruction** : (n) hướng dẫn /ɪnˈstrʌkʃən/
+</vocabulary>
+
 <!-- chunk: exercise_1 -->
 ### Bài 1 - Order the steps
 

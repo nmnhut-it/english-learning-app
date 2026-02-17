@@ -6,6 +6,22 @@
 Ok lớp 11, bài <eng>Communication and Culture</eng> Unit 8 nha. Học cách chúc tốt đẹp và tìm hiểu sự tự lập của thanh thiếu niên Mỹ. Mở sách đi.
 </teacher_script>
 
+<!-- chunk: vocabulary -->
+<teacher_script pause="0">
+Học từ vựng trước nha.
+</teacher_script>
+
+<vocabulary>
+1. **best wishes** : (phr) lời chúc tốt đẹp /best ˈwɪʃɪz/
+2. **congratulations** : (phr) chúc mừng /kənˌɡrætʃuˈleɪʃənz/
+3. **independent** : (adj) tự lập /ˌɪndɪˈpendənt/
+4. **chores** : (n) công việc nhà /tʃɔːrz/
+5. **allowance** : (n) tiền tiêu vặt /əˈlaʊəns/
+6. **teenage** : (adj) tuổi teen /ˈtiːneɪdʒ/
+7. **earn** : (v) kiếm tiền /ɜːrn/
+8. **part-time job** : (n phr) công việc bán thời gian /ˌpɑːrt taɪm dʒɒb/
+</vocabulary>
+
 <!-- chunk: everyday_english_1 -->
 ### Everyday English - Expressing best wishes and responding
 
