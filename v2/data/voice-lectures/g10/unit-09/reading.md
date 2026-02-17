@@ -24,6 +24,26 @@ Học từ vựng trước nha.
 10. **illegally hunt** : (v.phr) săn bắt bất hợp pháp /ɪˈliːɡəli hʌnt/
 </vocabulary>
 
+<!-- chunk: exercise_1 -->
+### Bài 1 trang 100 - Pre-reading
+
+<teacher_script pause="30">
+Bài 1, nhìn vào 4 bức tranh A, B, C, D và nói tên các vấn đề môi trường trong tranh nha. Làm theo cặp. 30 giây.
+</teacher_script>
+
+<task>
+**Đề:** Work in pairs. Look at the pictures and answer the following question: What environmental problems do you see in the pictures?
+**Dịch đề:** Làm theo cặp. Nhìn vào các bức tranh và trả lời: Em thấy những vấn đề môi trường nào?
+</task>
+
+<answer>
+**Gợi ý:**
+- Picture A: deforestation (phá rừng)
+- Picture B: global warming (nóng lên toàn cầu)
+- Picture C: air pollution (ô nhiễm không khí)
+- Picture D: extinction of endangered animals (động vật có nguy cơ tuyệt chủng)
+</answer>
+
 <!-- chunk: reading -->
 ### Bài 2 trang 100 - Đọc bài
 
@@ -38,7 +58,7 @@ The environment we live in is facing many serious problems. We need to be aware 
 
 **B.** Another environmental problem is the cutting and clearing of natural forests. The loss of forests can have a negative impact on the environment. It can damage the natural habitats of many animals and put wildlife in danger. It can also destroy the natural soil and lead to climate change.
 
-**C. Air pollution** is also a serious problem. It is mainly caused by waste gases that come out of vehicles, machines, or factories. When these harmful gases combine with the water in the air, they come down as rain or snow, which can damage all forms of life. It is also a major cause of respiratory diseases or even lung cancer.
+**C. Air pollution** is also a serious problem. It is mainly caused by waste gases that come out of vehicles, machines, or factories. When these harmful gases combine with the water in the air, they come down as rain or snow, which can damage all forms of life. In addition, this problem leads to global warming and climate change. It is also a major cause of respiratory diseases or even lung cancer.
 
 **D.** Around the world, the number of endangered animals is rising. Many of them disappear because of pollution and climate change. In addition, humans illegally hunt and kill animals, and catch too many fish at once. This is upsetting the natural balance of ecosystems, which can be harmful to all living and non-living things.
 </reading>
@@ -64,35 +84,89 @@ Chọn tiêu đề phù hợp nhất cho bài. 30 giây.
 </answer>
 
 <!-- chunk: exercise_3 -->
-### Bài 3 trang 101 - Matching
+### Bài 3 trang 101 - Which Paragraph?
 
-<teacher_script pause="60">
-Bài 3, nối các từ in đậm với nghĩa của chúng nha. 1 phút.
+<teacher_script pause="45">
+Bài 3, đọc lại rồi xác định đoạn nào chứa thông tin đó nha. Ghi A, B, C, hoặc D. 45 giây.
 </teacher_script>
 
 <task>
-**Đề:** Match the highlighted words with their meanings.
-**Dịch đề:** Nối các từ in đậm với nghĩa.
+**Đề:** Read the text again and decide which paragraph (A, B, C, D) contains the following information.
+**Dịch đề:** Đọc lại và xác định đoạn nào chứa thông tin sau.
 </task>
 
 <questions type="matching">
-**1.** atmosphere → a. the layer of gases surrounding the earth
-**2.** consequence → b. a result of something
-**3.** habitat → c. the natural environment of an animal or plant
-**4.** ecosystem → d. all living and non-living things in an area
+**1.** An example of harmful substances in the air and water.
+**2.** One of the reasons for destroying wildlife habitats.
+**3.** An increase in the level of the world's oceans.
+**4.** An effect of illegal hunting on the ecosystem.
 </questions>
 
-<!-- chunk: exercise_4 -->
-### Bài 4 trang 101 - Discussion
+<teacher_script pause="0">
+Ok đáp án nè.
+</teacher_script>
 
-<teacher_script pause="0" action="record">
-Bài 4, thảo luận nhóm: Vấn đề môi trường nào nghiêm trọng nhất ở địa phương em? Đề xuất giải pháp. Ghi âm nha.
+<answer>
+**Đáp án:** 1. C | 2. B | 3. A | 4. D
+</answer>
+
+<explanation>
+**1. C** - "When these harmful gases combine with the water in the air, they come down as rain or snow" — khí độc hại kết hợp nước → mưa/tuyết acid.
+**2. B** - "The loss of forests can damage the natural habitats of many animals" — phá rừng phá hủy môi trường sống.
+**3. A** - "rising sea levels" — mực nước biển dâng là hậu quả của global warming.
+**4. D** - "This is upsetting the natural balance of ecosystems" — săn bắt bất hợp pháp làm mất cân bằng hệ sinh thái.
+</explanation>
+
+<!-- chunk: exercise_4 -->
+### Bài 4 trang 101 - Fill in the blanks (max 2 words)
+
+<teacher_script pause="60">
+Bài 4, hoàn thành câu với thông tin từ bài đọc, không quá HAI từ mỗi câu. 1 phút.
 </teacher_script>
 
 <task>
-**Đề:** Which environmental problem is the most serious in your local area? What can you do to help solve it?
-**Dịch đề:** Vấn đề môi trường nào nghiêm trọng nhất ở địa phương em? Em có thể làm gì?
+**Đề:** Complete the sentences with the information from the text. Use no more than TWO words for each answer.
+**Dịch đề:** Hoàn thành câu với thông tin từ bài đọc. Không dùng nhiều hơn HAI từ.
 </task>
+
+<questions type="fill_blanks">
+**1.** Global warming can cause extreme _______ such as floods or heatwaves.
+**2.** The natural _______ of many animals can be destroyed in the process of cutting down forests.
+**3.** One of the main causes of air pollution is _______ produced by machines and factories.
+**4.** When many animals disappear, this damages the natural balance of _______.
+</questions>
+
+<teacher_script pause="0">
+Ok đáp án nè.
+</teacher_script>
+
+<answer>
+**Đáp án:** 1. weather events | 2. habitats | 3. waste gases | 4. ecosystems
+</answer>
+
+<explanation>
+**1. weather events** - "extreme **weather events** like floods or heatwaves" — từ bài đọc đoạn A.
+**2. habitats** - "damage the natural **habitats** of many animals" — từ đoạn B.
+**3. waste gases** - "mainly caused by **waste gases** that come out of vehicles, machines, or factories" — đoạn C.
+**4. ecosystems** - "upsetting the natural balance of **ecosystems**" — đoạn D.
+</explanation>
+
+<!-- chunk: exercise_5 -->
+### Bài 5 trang 101 - Discussion
+
+<teacher_script pause="0" action="record">
+Bài 5, thảo luận nhóm: Vấn đề môi trường nào nghiêm trọng nhất ở Việt Nam? Tại sao? Ghi âm nha.
+</teacher_script>
+
+<task>
+**Đề:** Work in groups. Which of the problems mentioned in the text do you think is the most serious in Viet Nam?
+**Dịch đề:** Làm việc nhóm. Vấn đề nào trong bài nghiêm trọng nhất ở Việt Nam?
+</task>
+
+<answer>
+**Ví dụ trả lời:**
+From my point of view, air pollution is the most serious problem in Viet Nam, especially in big cities like Hanoi and Ho Chi Minh City. The waste gases from vehicles and factories make the air quality very poor and cause many respiratory diseases.
+</answer>
 
 <!-- chunk: end -->
 <teacher_script pause="0">
