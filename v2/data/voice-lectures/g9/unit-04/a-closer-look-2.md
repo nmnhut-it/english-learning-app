@@ -1,148 +1,261 @@
-# G9 UNIT-04 A CLOSER LOOK 2
+# UNIT 4: OUR CUSTOMS AND TRADITIONS
+## A CLOSER LOOK 2 - Ngữ pháp
 
-<!-- chunk: intro -->
-<teacher_script pause="0" href="audio/tts_fd00461e.mp3">
-Chào các em. Chào mừng các em đến với bài học hôm nay. Mời các em mở sách giáo khoa.
+<!-- chunk: grammar-past-continuous-intro -->
+<teacher_script pause="0">
+Ok lớp 9, bài <eng>A Closer Look 2</eng> — ngữ pháp nha. Hôm nay học hai điểm ngữ pháp quan trọng: <eng>Past Continuous</eng> (Thì Quá khứ tiếp diễn) và <eng>Wish + past simple</eng> (ước muốn). Mình học từng cái một cho rõ nha.
 </teacher_script>
 
-<!-- chunk: content -->
-<teacher_script pause="0" href="audio/tts_d5b1d729.mp3">
-Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
+<!-- chunk: grammar-1-past-continuous -->
+<teacher_script pause="0">
+Đầu tiên là <eng>Past Continuous</eng> — thì quá khứ tiếp diễn. Dùng để diễn tả hành động đang xảy ra tại một thời điểm cụ thể trong quá khứ.
 </teacher_script>
 
-**UNIT 4: REMEMBERING THE PAST****
+<grammar>
+## Ngữ Pháp 1: Past Continuous (Thì Quá Khứ Tiếp Diễn)
 
-**A CLOSER LOOK 2**   
-**Thì quá khứ tiếp diễn:**   
-**S \+ was/were \+ Ving**   
-Dùng diễn tả ai đó đang làm gì ở 1 thời điểm trong quá khứ
+**Công thức:**
+| Dạng | Công thức | Ví dụ |
+|------|-----------|-------|
+| Khẳng định (+) | S + **was/were** + V-ing | She **was visiting** the temple. |
+| Phủ định (-) | S + **wasn't/weren't** + V-ing | They **weren't watching** TV. |
+| Nghi vấn (?) | **Was/Were** + S + V-ing? | **Were** they **building** a museum? |
 
-làm bài 1 bài 2   
-**Wish \+ quá khứ**  
-**S \+ wish \+ S2 \+ V2/V-ed**   
-**Ví dụ:**   
-Dùng để diễn tả mơ ước khó thực hiện hoặc khác với hiện tại
- 
-**Bài 1**
+**Cách dùng:**
 
-1. was visiting   
-2. was sleeping  
-3. was going   
-4. was looking  
-5. Were … watching
+**1. Hành động đang diễn ra tại một thời điểm cụ thể trong quá khứ:**
+- At 8pm last night, I **was visiting** the temple.
+  *(Lúc 8 giờ tối qua, tôi đang thăm đền.)*
 
----
+**2. Dùng với WHEN / WHILE:**
+- **While** Mi **was sleeping**, the alarm rang.
+  *(Trong khi Mi đang ngủ, chuông báo thức reo.)*
+- She **was cooking** **when** the guests arrived.
+  *(Cô ấy đang nấu ăn khi khách đến.)*
 
-1. My dad first met my mum when he was visiting Hoi An Ancient Town.
+**Lưu ý:** Hành động dài (đang xảy ra) dùng Past Continuous. Hành động ngắn (xen vào) dùng Past Simple.
+- WHILE + hành động dài → Past Continuous
+- WHEN + hành động ngắn → Past Simple
+</grammar>
 
-(Bố tôi gặp mẹ tôi lần đầu tiên khi ông đến thăm Phố cổ Hội An.)
+<teacher_script pause="0">
+Nhớ công thức nha: <eng>was/were + V-ing</eng>. Và để ý: <eng>while</eng> đi với hành động dài (đang xảy ra), <eng>when</eng> thường đi với hành động ngắn (xen vào). Ví dụ: <eng>While I was studying, my phone rang</eng> — đang học thì điện thoại reo.
+</teacher_script>
 
-Chủ ngữ “he” số ít => was V-ing
+<!-- chunk: exercise-1 -->
+<teacher_script pause="60">
+Bài 1 — điền dạng <eng>Past Continuous</eng> đúng nha. Chú ý <eng>was/were</eng> và <eng>V-ing</eng>. 1 phút.
+</teacher_script>
 
-2. Tom had a nightmare while he was sleeping in the camp by the old castle.
+<task>
+**Đề:** Fill in the blanks with the correct form of the Past Continuous tense.
+**Dịch đề:** Điền dạng Past Continuous đúng vào chỗ trống.
+</task>
 
-(Tom gặp ác mộng khi đang ngủ trong trại cạnh lâu đài cổ.)
+<questions type="fill_blanks">
+**1.** At 7pm yesterday, she __________ (visit) the heritage site with her family.
+*Lúc 7 giờ tối qua, cô ấy __________ địa điểm di sản với gia đình.*
 
-Chủ ngữ “he” số ít => was V-ing
+**2.** While Nam __________ (sleep), someone knocked on the door.
+*Trong khi Nam __________, có người gõ cửa.*
 
-3. David hurt his foot while he was going down the steps of the pagoda.
+**3.** He __________ (go) to the temple when it started to rain.
+*Anh ấy __________ đến đền thì trời bắt đầu mưa.*
 
-(David bị thương ở chân khi đang đi xuống bậc thang của chùa.)
+**4.** The tourists __________ (look) at the ancient relics when the guide arrived.
+*Khách du lịch __________ những di tích cổ khi hướng dẫn viên đến.*
 
-Chủ ngữ “he” số ít => was V-ing
+**5.** __________ they __________ (watch) a traditional performance at 6pm? Yes, they were.
+*__________ họ __________ buổi biểu diễn truyền thống lúc 6 giờ không? Có.*
+</questions>
 
-4. My brother was just sitting while I was looking around the weaving workshop.
+<teacher_script pause="0">
+Đáp án nè.
+</teacher_script>
 
-(Anh trai tôi đang ngồi trong khi tôi đang nhìn quanh xưởng dệt.)
+<answer>
+**Đáp án:**
+1. **was visiting**
+2. **was sleeping**
+3. **was going**
+4. **were looking**
+5. **Were** ... **watching**
+</answer>
 
-Chủ ngữ “I” số ít => was V-ing
+<explanation>
+**Giải thích từng câu:**
+- **1. was visiting:** chủ ngữ "she" (số ít) → dùng **was** + visiting.
+- **2. was sleeping:** "Nam" (số ít) + while → hành động đang diễn ra → was sleeping.
+- **3. was going:** "he" (số ít) + hành động đang xảy ra khi mưa bắt đầu → was going.
+- **4. were looking:** "tourists" (số nhiều) → dùng **were** + looking.
+- **5. Were...watching:** câu hỏi với "they" (số nhiều) → Were + they + watching.
+</explanation>
 
-5. Were you watching TV at 9 p.m. last night? There was a very good programme on Duong Lam Ancient Village preservation.
+<!-- chunk: exercise-2 -->
+<teacher_script pause="60">
+Bài 2 — viết câu <eng>Past Continuous</eng> từ các từ gợi ý nha. 1 phút.
+</teacher_script>
 
-(Bạn có xem TV lúc 9 giờ tối tối hôm qua không? Có một chương trình rất hay về bảo tồn Làng Cổ Đường Lâm.)
+<task>
+**Đề:** Write Past Continuous sentences using the prompts.
+**Dịch đề:** Viết câu Past Continuous từ các gợi ý sau.
+</task>
 
-Chủ ngữ “you” => were 
+<questions type="complete_sentences">
+**1.** The workers / preserve / the ancient communal house / last year.
+*Những công nhân / bảo tồn / ngôi đình cổ / năm ngoái.*
 
-**Bài 2** 
+**2.** People / live / in small villages / a hundred years ago.
+*Mọi người / sống / ở các làng nhỏ / cách đây một trăm năm.*
 
-1. were preserving  
-2. were/was living   
-3. were building   
-4. Were … working  
-5. was making
----
+**3.** The government / build / new museums / to honour war heroes.
+*Chính phủ / xây dựng / bảo tàng mới / để tôn vinh anh hùng chiến tranh.*
 
-1. People were preserving the monument for years because it had great value.
+**4.** ________ (your class) / work / on the heritage project / last Tuesday?
+*________ (lớp em) / làm việc / về dự án di sản / thứ Ba tuần trước không?*
 
-(Người ta đã bảo tồn di tích trong nhiều năm vì nó có giá trị rất lớn.)
+**5.** My grandmother / make / traditional bánh chưng / when I arrived home.
+*Bà tôi / làm / bánh chưng truyền thống / khi tôi về đến nhà.*
+</questions>
 
-Chủ ngữ “People” là danh từ số nhiều => were V-ing
+<teacher_script pause="0">
+Đáp án nha.
+</teacher_script>
 
-2. When I finished school, my family was living in the countryside.
+<answer>
+**Đáp án:**
+1. The workers **were preserving** the ancient communal house last year.
+2. People **were living** in small villages a hundred years ago.
+3. The government **were/was building** new museums to honour war heroes.
+4. **Was/Were** your class **working** on the heritage project last Tuesday?
+5. My grandmother **was making** traditional bánh chưng when I arrived home.
+</answer>
 
-(Khi tôi học xong, gia đình tôi đang sống ở nông thôn.)
+<explanation>
+**Giải thích:**
+- **1. were preserving:** "workers" số nhiều → were + preserving.
+- **2. were living:** "people" số nhiều → were + living.
+- **3. was/were building:** "government" có thể dùng was (xem như tập thể đơn) hoặc were (xem như tập thể số nhiều).
+- **4. Was/Were your class working:** câu hỏi Past Continuous. "Class" có thể coi là số ít (was) hoặc số nhiều (were).
+- **5. was making:** "grandmother" số ít → was + making; "when I arrived" = hành động ngắn xen vào.
+</explanation>
 
-Chủ ngữ “my family” là danh từ số ít => was V-ing
+<!-- chunk: grammar-2-wish -->
+<teacher_script pause="0">
+Xong <eng>Past Continuous</eng> rồi! Giờ học phần 2 — <eng>Wish + past simple</eng> nha. Cái này dùng để nói về ước muốn — mình muốn thực tế khác đi so với hiện tại.
+</teacher_script>
 
-3. People were building the Taj Mahal - a World Heritage Site while Shah Jahan was emperor.
+<grammar>
+## Ngữ Pháp 2: Wish + Past Simple (Ước muốn trái thực tế hiện tại)
 
-(Người ta đang xây dựng Taj Mahal - Di sản Thế giới khi Shah Jahan còn là hoàng đế.)
+**Công thức:** S + **wish** + S + V2 (quá khứ đơn)
 
-Chủ ngữ “People” là danh từ số nhiều => were V-ing
+**Ý nghĩa:** Diễn tả điều mình **ước muốn** nhưng **trái với thực tế hiện tại**.
 
-4. "Were you still working on the coffee farm when the war broke out, Grandpa?"
+| Ví dụ | Nghĩa |
+|-------|-------|
+| I **wish** I **lived** near a heritage site. | Tôi ước tôi sống gần một địa điểm di sản. (nhưng thực tế tôi không sống ở đó) |
+| She **wishes** she **could** speak English well. | Cô ấy ước cô ấy có thể nói tiếng Anh giỏi. (nhưng thực tế chưa giỏi) |
+| He **wishes** he **had** more time to visit museums. | Anh ấy ước anh ấy có nhiều thời gian hơn để thăm bảo tàng. (nhưng thực tế bận) |
 
-(“Ông vẫn làm việc ở trang trại cà phê khi chiến tranh nổ ra phải không, ông nội?”)
+**Lưu ý quan trọng:**
+- Sau **wish**, động từ TO BE → dùng **were** (không dùng was): I wish I **were** taller.
+- Dùng **COULD** cho khả năng: I wish I **could** sing.
+- KHÔNG dùng **would** sau wish trong trường hợp này.
+</grammar>
 
-Chủ ngữ “You” => were V-ing
+<teacher_script pause="0">
+Nhớ nha: <eng>wish + V2</eng> — ước điều gì đó KHÁC với thực tế HIỆN TẠI. Và đặc biệt, to be sau wish dùng <eng>were</eng> cho tất cả chủ ngữ nha, kể cả I và she. <eng>I wish I were</eng>, không phải <eng>I wish I was</eng> — dù trong tiếng Anh thông dụng người ta hay nói was, nhưng ngữ pháp chuẩn là were.
+</teacher_script>
 
-5. I was making a presentation when the microphone stopped working.
+<!-- chunk: exercise-3 -->
+<teacher_script pause="60">
+Bài 3 — điền dạng đúng sau <eng>wish</eng> nha. 1 phút.
+</teacher_script>
 
-(Tôi đang thuyết trình thì micrô ngừng hoạt động.)
+<task>
+**Đề:** Fill in the blanks with the correct form of the verb in brackets.
+**Dịch đề:** Điền dạng đúng của động từ trong ngoặc vào chỗ trống. Dùng wish + past simple.
+</task>
 
-Chủ ngữ “I” số ít => was V-ing 
+<questions type="fill_blanks">
+**1.** I wish I __________ (get) better marks in history.
+*Tôi ước tôi __________ điểm lịch sử tốt hơn.*
 
-**Bài 3:** 
+**2.** She wishes she __________ (have) more time to study traditional customs.
+*Cô ấy ước cô ấy __________ nhiều thời gian hơn để tìm hiểu phong tục truyền thống.*
 
-1. got   
-2. had   
-3. had  
-4. could spend   
-5. could go 
+**3.** I wish our school __________ (have) a museum nearby.
+*Tôi ước trường mình __________ bảo tàng gần đây.*
 
------
+**4.** He wishes he __________ (could spend) more time with his grandparents.
+*Anh ấy ước anh ấy __________ nhiều thời gian hơn với ông bà.*
 
-1. The children wish they got more presents every Christmas.
+**5.** We wish we __________ (could go) to visit Angkor Wat this summer.
+*Chúng tôi ước chúng tôi __________ thăm Angkor Wat mùa hè này.*
+</questions>
 
-(Bọn trẻ ước mình có nhiều quà hơn vào mỗi dịp Giáng sinh.)
+<teacher_script pause="0">
+Đáp án nè.
+</teacher_script>
 
-2. I wish I had enough money to visit London and Windsor Castle.
+<answer>
+**Đáp án:**
+1. **got**
+2. **had**
+3. **had**
+4. **could spend**
+5. **could go**
+</answer>
 
-(Tôi ước mình có đủ tiền để đến thăm Luân Đôn và Lâu đài Windsor.)
+<explanation>
+**Giải thích từng câu:**
+- **1. got:** wish + V2 → get → **got** (quá khứ đơn).
+- **2. had:** wish + V2 → have → **had** (quá khứ đơn).
+- **3. had:** wish + V2 → have → **had** (quá khứ đơn) — ước trường có bảo tàng nhưng thực tế không có.
+- **4. could spend:** wish + **could** + V nguyên thể → dùng could khi ước về khả năng.
+- **5. could go:** wish + **could** + V nguyên thể → ước có khả năng đi nhưng thực tế không đi được.
+</explanation>
 
-3. Do you wish we had a swimming pool in our school?
+<!-- chunk: exercise-4 -->
+<teacher_script pause="120">
+Bài 4 — viết câu <eng>wish</eng> nha. Jenny có một cô em gái bừa bộn. Nhìn vào tình huống và viết 3 câu ước của Jenny. 2 phút.
+</teacher_script>
 
-(Bạn có ước chúng ta có một bể bơi ở trường không?)
+<task>
+**Đề:** Jenny shares a room with her messy younger sister. Her sister always leaves clothes on the floor, plays music loudly, and takes up all the space. Write 3 "wish" sentences from Jenny's point of view.
+**Dịch đề:** Jenny ở chung phòng với cô em gái bừa bộn. Em gái luôn để quần áo trên sàn, bật nhạc to, và chiếm hết chỗ. Viết 3 câu ước từ góc nhìn của Jenny.
+</task>
 
-4. We wish we could spend our summer holiday on the seaside.
+<questions type="writing">
+Viết 3 câu bắt đầu bằng **"I wish..."**
 
-(Chúng tôi ước mình có thể dành kỳ nghỉ hè bên bờ biển.)
+**1.** I wish _____________________________.
+**2.** I wish _____________________________.
+**3.** I wish _____________________________.
+</questions>
 
-5. I wish I could go back to my grandparents' time.
+<teacher_script pause="0">
+Xem gợi ý đáp án nha.
+</teacher_script>
 
-(Ước gì tôi có thể quay trở lại thời của ông bà.) 
+<answer>
+**Gợi ý đáp án:**
+1. I wish my sister **were** tidier.
+   *(Tôi ước em gái tôi gọn gàng hơn.)*
+2. I wish she **didn't leave** her clothes on the floor.
+   *(Tôi ước cô ấy không để quần áo trên sàn.)*
+3. I wish I **had** my own room.
+   *(Tôi ước tôi có phòng riêng của mình.)*
+</answer>
 
-**Bài 4**   
+<explanation>
+**Giải thích:**
+- **Câu 1:** wish + were → to be dùng **were** (không dùng was) → "I wish my sister were tidier."
+- **Câu 2:** wish + didn't leave → phủ định quá khứ → **didn't** + V nguyên thể.
+- **Câu 3:** wish + had → have → **had** (quá khứ đơn) → ước có phòng riêng.
+</explanation>
 
-
-Em gái Jane của tôi rất bừa bộn. Tôi và em ấy ở chung phòng nhưng ngày nào tôi cũng phải dọn dẹp. Bất cứ khi nào ở nhà, em đều nằm trên giường đọc sách hoặc chơi game trên máy tính. Em ấy thường đặt quần áo bẩn của mình lên giường tôi. Tôi muốn có phòng riêng nhưng bây giờ thì không thể được. Tôi hy vọng một ngày nào đó em ấy có thể thay đổi cách sống của mình.
- 
-Jenny wishes she didn’t have to cleat her room every day  
-Jenny wishes her sister didn’t often put her dirty clothes on   
-the bed.   
-Jenny wishes she had her own room.
-
-<!-- chunk: end -->
-<teacher_script pause="0" href="audio/tts_ba688992.mp3">
-Bài học hôm nay kết thúc tại đây. Các em nhớ ôn bài và chuẩn bị cho bài học tiếp theo. Tạm biệt các em.
+<teacher_script pause="0">
+Xong bài <eng>A Closer Look 2</eng> rồi nha! Tụi mình đã học hai ngữ pháp quan trọng: <eng>Past Continuous</eng> — hành động đang xảy ra trong quá khứ, và <eng>Wish + past simple</eng> — ước muốn trái thực tế. Nhớ: wish dùng V2, to be dùng were, khả năng dùng could nha. Hẹn gặp ở bài <eng>Communication</eng>!
 </teacher_script>
