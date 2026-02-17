@@ -58,6 +58,58 @@ Ok đáp án nè.
 **6. experiencing** - Cơ hội "trải nghiệm" (experiencing) các nền văn hóa khác nhau.
 </explanation>
 
+<!-- chunk: exercise_2 -->
+### Bài 2 trang 80 - Complete the Diagram
+
+<teacher_script pause="60">
+Bài 2, hoàn thành sơ đồ về lợi ích khi Việt Nam tham gia tổ chức quốc tế nha. Dùng ý từ bài 1 và ý tưởng của em. 1 phút.
+</teacher_script>
+
+<task>
+**Đề:** Complete the following diagram. Use the ideas in 1 and your own ideas.
+**Dịch đề:** Hoàn thành sơ đồ sau. Sử dụng các ý trong bài 1 và ý tưởng của riêng em.
+</task>
+
+<questions type="fill_blanks">
+**Benefits for Viet Nam as a member of international organisations:**
+
+**A.** _______ its culture and get to know other cultures
+→ a. Various _______ exchanges help visitors know more about our country.
+→ b. Vietnamese people have a better chance of _______ different cultures.
+
+**B.** Create more _______ opportunities for both Vietnamese and foreign students
+→ c. Greater educational opportunities abroad are now _______ Vietnamese students.
+→ d. Viet Nam's colleges and universities can also accept _______ students.
+
+**C.** _______ both local and international tours
+→ e. Our country has become one of the most _______ destinations for tourists.
+→ f. It is also _______ for Vietnamese people to travel abroad.
+</questions>
+
+<teacher_script pause="0">
+Ok đáp án nè.
+</teacher_script>
+
+<answer>
+**A.** Promote | a. cultural | b. experiencing
+**B.** educational | c. open to | d. international
+**C.** Increase | e. popular | f. easier
+</answer>
+
+<explanation>
+**A. Promote its culture** - Quảng bá văn hóa và tìm hiểu văn hóa khác.
+→ a. Cultural exchanges - giao lưu văn hóa giúp du khách biết thêm về VN.
+→ b. Experiencing - người Việt có cơ hội trải nghiệm văn hóa khác.
+
+**B. Educational opportunities** - Tạo cơ hội giáo dục.
+→ c. Open to - cơ hội học nước ngoài mở ra cho sinh viên VN.
+→ d. International - trường VN tiếp nhận sinh viên quốc tế.
+
+**C. Increase tours** - Tăng cả tour trong nước và quốc tế.
+→ e. Popular - VN là điểm đến phổ biến nhất khu vực.
+→ f. Easier - người Việt đi du lịch nước ngoài dễ hơn.
+</explanation>
+
 <!-- chunk: exercise_3 -->
 ### Bài 3 trang 80 - Writing
 

@@ -58,24 +58,29 @@ Ok đáp án nè.
 </answer>
 
 <!-- chunk: vocabulary_1 -->
-### Vocabulary - Bài 1 trang 86
+### Vocabulary - Bài 1 trang 86 - Matching
 
 <teacher_script pause="45">
-Phần từ vựng. Bài 1, hoàn thành câu với từ trong hộp nha. 45 giây.
+Phần từ vựng. Bài 1, nối từ với nghĩa của chúng nha. 45 giây.
 </teacher_script>
 
 <task>
-**Đề:** Complete the sentences with the correct words.
-**Dịch đề:** Hoàn thành câu với từ đúng.
+**Đề:** Match the words and phrases with their meanings.
+**Dịch đề:** Nối các từ và cụm từ với nghĩa của chúng.
 </task>
 
-<questions type="fill_blanks">
-app(s) | online | upload | search for | install
+<questions type="matching">
+1. face-to-face (adj)
+2. prepare (for) (v)
+3. strategy (n)
+4. online learning (n)
+5. blended learning (n)
 
-**1.** Our teacher _______ videos on the school website for us to watch before class.
-**2.** I like to _______ information about new ways of learning.
-**3.** When students study _______, they don't have to go to school.
-**4.** I want to _______ a new language learning _______ on my phone.
+a. an intended plan to achieve a specific purpose
+b. a way of learning that combines online materials with traditional classroom methods
+c. close together and facing each other
+d. to make things ready to be used
+e. a way of learning that happens on the Internet
 </questions>
 
 <teacher_script pause="0">
@@ -83,14 +88,51 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. uploads | 2. search for | 3. online | 4. install... app
+**Đáp án:** 1-c | 2-d | 3-a | 4-e | 5-b
 </answer>
 
 <explanation>
-**1. uploads** - Giáo viên **tải lên** video. Chủ ngữ số ít nên thêm "s".
-**2. search for** - **Tìm kiếm** thông tin về cách học mới.
-**3. online** - Khi học **trực tuyến**, không cần đến trường.
-**4. install... app** - **Cài đặt** một **ứng dụng** học ngôn ngữ mới.
+**1-c. face-to-face** - "đối mặt" = gần nhau và đối mặt trực tiếp (close together and facing each other).
+**2-d. prepare (for)** - "chuẩn bị" = làm mọi thứ sẵn sàng để sử dụng.
+**3-a. strategy** - "chiến lược" = kế hoạch nhằm đạt mục đích cụ thể.
+**4-e. online learning** - "học trực tuyến" = cách học diễn ra trên mạng Internet.
+**5-b. blended learning** - "học kết hợp" = kết hợp tài liệu trực tuyến với phương pháp lớp học truyền thống.
+</explanation>
+
+<!-- chunk: vocabulary_2 -->
+### Vocabulary - Bài 2 trang 86 - Fill in the blanks
+
+<teacher_script pause="45">
+Bài 2, hoàn thành câu với từ trong bài 1 nha. 45 giây.
+</teacher_script>
+
+<task>
+**Đề:** Complete the sentences with the correct words.
+**Dịch đề:** Hoàn thành câu với từ đúng từ bài 1.
+</task>
+
+<questions type="fill_blanks">
+**1.** _______ learning allows us to communicate with teachers immediately and directly.
+**2.** One benefit of _______ is that you can learn anytime and anywhere.
+**3.** Our teachers always encourage us to _______ lessons before class.
+**4.** You need a specific _______ to improve your English speaking skills.
+**5.** _______ combines online videos with traditional classroom methods.
+</questions>
+
+<teacher_script pause="0">
+Ok đáp án nè.
+</teacher_script>
+
+<answer>
+**Đáp án:** 1. Face-to-face | 2. online learning | 3. prepare for | 4. strategy | 5. Blended learning
+</answer>
+
+<explanation>
+**1. Face-to-face** - Học **trực tiếp** cho phép giao tiếp tức thì với giáo viên.
+**2. online learning** - Lợi ích của **học trực tuyến**: học mọi lúc, mọi nơi.
+**3. prepare for** - Giáo viên khuyến khích **chuẩn bị** bài trước khi lên lớp.
+**4. strategy** - Cần có **chiến lược** cụ thể để cải thiện kỹ năng nói.
+**5. Blended learning** - **Học kết hợp** = video trực tuyến + lớp học truyền thống.
 </explanation>
 
 <!-- chunk: grammar_intro -->
