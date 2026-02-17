@@ -1,88 +1,164 @@
-# G8 UNIT-01 COMMUNICATION
+# UNIT 1: LEISURE TIME
+## COMMUNICATION - Making and Responding to Invitations
 
 <!-- chunk: intro -->
-<teacher_script pause="0" href="audio/tts_fd00461e.mp3">
-Chào các em. Chào mừng các em đến với bài học hôm nay. Mời các em mở sách giáo khoa.
+<teacher_script pause="0">
+Ok lớp 8, hôm nay mình học <eng>Communication</eng> Unit 1 nha. Phần này học cách **mời ai đó làm gì** và cách **trả lời lời mời**. Rất hữu ích trong giao tiếp hàng ngày đó! Mở sách trang 12 đi!
 </teacher_script>
 
 <!-- chunk: vocabulary -->
-<teacher_script pause="0" href="audio/tts_c0841176.mp3">
-Chúng ta cùng học từ vựng mới. Các em hãy nghe và lặp lại theo mẫu nhé.
+<teacher_script pause="0">
+Các em mở sách ra, Unit 1, bài <eng>Communication</eng>, ghi tựa bài. Sau đó bấm nút "Bắt đầu" bên dưới để học từ vựng. Máy sẽ đọc và các em đọc theo.
 </teacher_script>
 
 <vocabulary>
-**Vocabulary**
 1. **origami** : (n) nghệ thuật gấp giấy /ˌɒrɪˈɡɑːmi/
 2. **paper folding** : (n) gấp giấy /ˈpeɪpə ˈfəʊldɪŋ/
-3. **on my own** : (phr) một mình /ɒn maɪ əʊn/
-4. **free time** : (n) thời gian rảnh /friː taɪm/
-5. **sheets of paper** : (n) tờ giấy /ʃiːts əv ˈpeɪpə/
-6. **create almost anything** : (v) tạo ra gần như bất cứ thứ gì /kriːˈeɪt ˈɔːlməʊst ˈɛnɪθɪŋ/
-7. **helps me to relax** : (v) giúp tôi thư giãn /hɛlps miː tuː rɪˈlæks/
-8. **ski resorts** : (n) khu nghỉ dưỡng trượt tuyết /skiː rɪˈzɔːts/
-9. **snowboarding** : (v) trượt tuyết bằng ván /ˈsnəʊˌbɔːdɪŋ/
-10. **nearby ski resort** : (n) khu nghỉ dưỡng trượt tuyết gần đó /ˈnɪəbaɪ skiː rɪˈzɔːt/
-11. **at weekends** : (adv) vào cuối tuần /æt ˈwiːkˌɛndz/
-12. **overall health** : (n) sức khỏe tổng thể /ˈəʊvərɔːl hɛlθ/
-13. **balance** : (n) cân bằng /ˈbæləns/
-14. **playing sport** : (v) chơi thể thao /ˈpleɪɪŋ spɔːt/
-15. **especially** : (adv) đặc biệ  /ɪsˈpɛʃəl/
-16. **best friend** : (n) bạn thân /bɛst frɛnd/
-17. **lives next door** : (v) sống cạnh nhà /lɪvz nɛkst dɔː/
-18. **almost every afternoon** : (adv) hầu như mỗi buổi chiều /ˈɔːlməʊst ˈɛvri ˈɑːftəˌnuːn/
-19. **easy sport** : (n) môn thể thao dễ dàng /ˈiːzi spɔːt/
-20. **muscle strength** : (n) sức mạnh cơ bắp /ˈmʌsl strɛŋθ/
-21. **helps reduce stress** : (v) giúp giảm căng thẳng /hɛlps rɪˈdjuːs strɛs/ ​
-**![][image3]**
+3. **snowboarding** : (n) trượt tuyết bằng ván /ˈsnəʊˌbɔːdɪŋ/
+4. **ski resort** : (n) khu nghỉ dưỡng trượt tuyết /skiː rɪˈzɔːt/
+5. **overall health** : (n) sức khỏe tổng thể /ˈəʊvərɔːl hɛlθ/
+6. **balance** : (n) sự cân bằng /ˈbæləns/
+7. **muscle strength** : (n) sức mạnh cơ bắp /ˈmʌsl strɛŋθ/
+8. **reduce stress** : (v.phr) giảm căng thẳng /rɪˈdjuːs strɛs/
+9. **on my own** : (phr) một mình /ɒn maɪ əʊn/
+10. **sheets of paper** : (n) những tờ giấy /ʃiːts əv ˈpeɪpə/
 </vocabulary>
 
-<!-- chunk: audio -->
-<teacher_script pause="0" href="audio/tts_c08c1d7b.mp3">
-Bây giờ các em sẽ nghe một đoạn băng. Hãy chú ý lắng nghe để tìm thông tin trả lời câu hỏi.
+<!-- chunk: language_focus -->
+### Language Focus: Making and Responding to Invitations
+
+<teacher_script pause="0">
+Học công thức mời và trả lời nha. Chú ý: mời dùng "Would you like to V?" hoặc "Do you fancy V-ing?"
+</teacher_script>
+
+<grammar>
+## Mời ai đó (Making Invitations)
+
+| Cách mời | Ví dụ |
+|----------|-------|
+| **Would you like to** + V? | Would you like to go cycling with me? |
+| **Do you fancy** + V-ing? | Do you fancy making paper flowers with me? |
+
+## Trả lời lời mời (Responding to Invitations)
+
+| Đồng ý | Từ chối lịch sự |
+|--------|-----------------|
+| I'd love to. Thanks! | I'm sorry, I can't. I have to... |
+| That's great. Thanks! | That sounds fun, but I'm busy. |
+| Sure! That sounds fun! | Maybe next time. |
+</grammar>
+
+<!-- chunk: exercise_1 -->
+### Bài 1 trang 12 - Read the Model
+
+<teacher_script pause="0">
+Bài 1. Đọc hội thoại mẫu và nhận xét cách mời và trả lời nha.
+</teacher_script>
+
+<dialogue>
+| English | Vietnamese |
+|---------|------------|
+| **Giang:** Would you like to play badminton with me this afternoon? | **Giang:** Bạn có muốn chơi cầu lông với mình chiều nay không? |
+| **Linh:** I'd love to. Thanks. | **Linh:** Tôi rất muốn. Cảm ơn bạn. |
+| **Tom:** Do you fancy making paper flowers with me? | **Tom:** Bạn có muốn làm hoa giấy với tôi không? |
+| **Linh:** That's great. Thanks. | **Linh:** Tuyệt vời. Cảm ơn bạn. |
+| **Giang:** Would you like to try my home-made pizza? | **Giang:** Bạn có muốn thử bánh pizza tự làm của tôi không? |
+| **Linh:** I'd love to. Thanks. | **Linh:** Tôi rất muốn. Cảm ơn. |
+</dialogue>
+
+<!-- chunk: exercise_2 -->
+### Bài 2 trang 12 - Practice Dialogues
+
+<teacher_script pause="60">
+Bài 2. Luyện hội thoại mời với bạn nha. Dùng công thức đã học. 2 phút.
+</teacher_script>
+
+<task>
+**Đề:** Work in pairs. Make and respond to invitations using the situations below.
+**Dịch đề:** Làm việc theo cặp. Mời và trả lời lời mời theo các tình huống.
+</task>
+
+<questions type="speaking">
+**Tình huống 1:** Mời bạn đi xem phim tối nay.
+→ "Would you like to go to the cinema tonight?"
+
+**Tình huống 2:** Mời bạn đến nhà chơi game cuối tuần.
+→ "Do you fancy coming to my house to play games this weekend?"
+
+**Tình huống 3:** Mời bạn cùng đi đạp xe sáng Chủ Nhật.
+→ "Would you like to go cycling with me on Sunday morning?"
+
+**Tình huống 4:** Mời bạn học tiếng Anh cùng sau giờ học.
+→ "Do you fancy studying English together after school?"
+</questions>
+
+<teacher_script action="record">
+Các em luyện hội thoại theo cặp nha. Bấm nút ghi âm để nộp bài.
+</teacher_script>
+
+<!-- chunk: listening -->
+### Bài 3 trang 13 - Listening: Leisure Activities
+
+<teacher_script pause="0">
+Bài 3 nghe nha. 3 người nói về sở thích của họ. Nghe và ghi tên hoạt động của mỗi người.
 </teacher_script>
 
 <audio src="https://img.loigiaihay.com/picture/2023/0803/track-4_1.mp3">
-**Audio:** Communication
+**Audio:** Communication - Bài 3
 </audio>
 
-<!-- chunk: content -->
-<teacher_script pause="0" href="audio/tts_d5b1d729.mp3">
-Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
+<task>
+**Đề:** Listen and write the name of the leisure activity each person talks about.
+**Dịch đề:** Nghe và viết tên hoạt động giải trí mà mỗi người đề cập.
+</task>
+
+<questions type="fill_blanks">
+**Person 1:** _______
+**Person 2:** _______
+**Person 3:** _______
+</questions>
+
+<teacher_script pause="0">
+Đáp án nè.
 </teacher_script>
 
-**UNIT 1: LEISURE TIME****
+<answer>
+**Đáp án:**
+- Person 1: paper folding *(gấp giấy / origami)*
+- Person 2: playing badminton *(chơi cầu lông)*
+- Person 3: snowboarding *(trượt tuyết bằng ván)*
+</answer>
 
-**COMMUNICATION** 
+<explanation>
+- **Person 1 - paper folding:** Người này nói về origami, nghệ thuật gấp giấy Nhật Bản. Họ thích tạo ra các hình dạng khác nhau từ giấy.
+- **Person 2 - playing badminton:** Người này chơi cầu lông với bạn bè hầu như mỗi chiều.
+- **Person 3 - snowboarding:** Người này trượt tuyết tại khu nghỉ dưỡng gần nhà vào cuối tuần.
+</explanation>
 
-| Lời mời | Cách trả lời |
-| :---- | :---- |
-| \- Would you like \+ to V? \- Do you fancy \+ Ving? | \- I'd love to. Thanks. \- That's great. Thanks. |
+<!-- chunk: exercise_4 -->
+### Bài 4 trang 13 - Survey
 
-**Bài 2 trang 12**
+<teacher_script pause="0">
+Bài 4. Khảo sát các bạn trong lớp về hoạt động giải trí cuối tuần nha. Hỏi và ghi kết quả.
+</teacher_script>
 
-\- Giang: Would you like to go to play badminton with me this afternoon?
+<task>
+**Đề:** Ask your classmates about their leisure activities. Use the model to interview 3 classmates.
+**Dịch đề:** Hỏi các bạn trong lớp về hoạt động giải trí. Dùng mẫu để phỏng vấn 3 bạn.
+</task>
 
-\- Linh: I'd love to. Thanks.
+<questions type="speaking">
+**Model questions:**
+- What do you usually do in your free time?
+- Do you prefer spending time alone or with others?
+- Would you like to do that activity with me sometime?
+</questions>
 
-\- Tom: Do you fancy making paper flowers with me?
-
-\- Linh: That's great. Thanks.
-
-\- Giang: Would you like to try my home-made pizza?
-
-\- Linh: I'd love to. Thanks.
-
-**Bài 3 trang 13**
-
-a. paper folding (gấp giấy)
-
-b. playing badminton (chơi cầu lông)
-
-c. snowboarding (trượt tuyết)
-
-**Bài 4 trang 13**
+<teacher_script action="photo">
+Ghi kết quả khảo sát vô vở, chụp hình nộp bài nha.
+</teacher_script>
 
 <!-- chunk: end -->
-<teacher_script pause="0" href="audio/tts_ba688992.mp3">
-Bài học hôm nay kết thúc tại đây. Các em nhớ ôn bài và chuẩn bị cho bài học tiếp theo. Tạm biệt các em.
+<teacher_script pause="0">
+Bài <eng>Communication</eng> Unit 1 xong rồi nha! Nhớ cách mời: "Would you like to...?" và "Do you fancy...?" Trả lời: "I'd love to!" hoặc "That's great!" Ôn bài kỹ hen!
 </teacher_script>

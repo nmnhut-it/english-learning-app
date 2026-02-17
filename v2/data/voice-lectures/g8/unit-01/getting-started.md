@@ -1,108 +1,179 @@
-# G8 UNIT-01 GETTING STARTED
+# UNIT 1: LEISURE TIME
+## GETTING STARTED - What do you do in your free time?
 
 <!-- chunk: intro -->
-<teacher_script pause="0" href="audio/tts_fd00461e.mp3">
-Chào các em. Chào mừng các em đến với bài học hôm nay. Mời các em mở sách giáo khoa.
+<teacher_script pause="0">
+Ok lớp 8, Unit 1 nha - <eng>Leisure Time</eng> - Thời gian rảnh. Hôm nay mình học về các hoạt động mà các em thích làm khi rảnh. Mở sách trang 8 đi!
 </teacher_script>
 
 <!-- chunk: vocabulary -->
-<teacher_script pause="0" href="audio/tts_c0841176.mp3">
-Chúng ta cùng học từ vựng mới. Các em hãy nghe và lặp lại theo mẫu nhé.
+<teacher_script pause="0">
+Các em mở sách ra, Unit 1, bài <eng>Getting Started</eng>, ghi tựa bài. Sau đó bấm nút "Bắt đầu" bên dưới để học từ vựng. Máy sẽ đọc và các em đọc theo. Sau đó các em làm bài trắc nghiệm từ vựng rồi ghi từ vựng vô tập.
 </teacher_script>
 
 <vocabulary>
-**Vocabulary**
 1. **surprised** : (adj) ngạc nhiên /səˈpraɪzd/
-2. **knitting kit** : (n) bộ đan len /ˈnɪtɪŋ kɪt/
-3. **keen on** : (adj) thích /kiːn ɒn/
+2. **knitting kit** : (n) bộ đồ đan len /ˈnɪtɪŋ kɪt/
+3. **keen on** : (adj) thích, say mê /kiːn ɒn/
 4. **DIY activities** : (n) các hoạt động tự làm /ˌdiː.aɪˈwaɪ ækˈtɪvɪtiz/
-5. **leisure time** : (n) thời gian rảnh /ˈlɛʒə taɪm/
-6. **make paper flowers** : (v) làm hoa giấy /ˈmeɪk ˈpeɪpə ˈflaʊəz/
-7. **spending time on your own** : (v) dành thời gian một mình /ˈspɛndɪŋ taɪm ɒn jɔː əʊn/
-8. **free time** : (n) thời gian rảnh /friː taɪm/
-9. **hang out with friends** : (v) đi chơi với bạn bè /hæŋ aʊt wɪð frɛndz/
-10. **go to the cinema** : (v) đi xem phim /ɡəʊ tuː ðə ˈsɪnɪmə/
-11. **go cycling** : (v) đi xe đạp /ɡəʊ ˈsaɪklɪŋ/
-12. **play sport** : (v) chơi thể thao /pleɪ spɔːt/
-13. **spend free time** : (v) dành thời gian rảnh /ˈpɛnd friː taɪm/
-14. **new comedy** : (n) phim hài mới /njuː ˈkɒmədi/
-15. **New World Cinema** : (n) Rạp chiếu phim New World /njuː wɜːld ˈsɪnɪmə/
-16. **meet outside** : (v) gặp bên ngoài /miːt ˈaʊtsaɪd/
-17. **join us** : (v) tham gia với chúng tôi /ʤɔɪn ʌs/ ​​
-18. **doing puzzles** : (n) giải câu đố /ˈduːɪŋ ˈpʌzlz/
-19. **surfing the net** : (n) lướt web /ˈsɜːfɪŋ ðə nɛt/
-20. **cooking** : (n) nấu ăn /ˈkʊkɪŋ/
-21. **messaging friends** : (v) nhắn tin với bạn bè /ˈmɛsɪdʒɪŋ frɛndz/
+5. **leisure time** : (n) thời gian rảnh rỗi /ˈlɛʒə taɪm/
+6. **make paper flowers** : (v.phr) làm hoa giấy /meɪk ˈpeɪpə ˈflaʊəz/
+7. **spend time on your own** : (v.phr) dành thời gian một mình /spɛnd taɪm ɒn jɔːr əʊn/
+8. **hang out with friends** : (v.phr) đi chơi với bạn bè /hæŋ aʊt wɪð frɛndz/
+9. **go cycling** : (v.phr) đi xe đạp /ɡəʊ ˈsaɪklɪŋ/
+10. **new comedy** : (n) phim hài mới /njuː ˈkɒmədi/
+11. **doing puzzles** : (n) giải câu đố /ˈduːɪŋ ˈpʌzlz/
+12. **surfing the net** : (n) lướt mạng /ˈsɜːfɪŋ ðə nɛt/
+13. **messaging friends** : (n) nhắn tin với bạn bè /ˈmɛsɪdʒɪŋ frɛndz/
+14. **cooking** : (n) nấu ăn /ˈkʊkɪŋ/
+15. **join us** : (v.phr) tham gia với chúng tôi /dʒɔɪn ʌs/
 </vocabulary>
 
-<!-- chunk: audio -->
-<teacher_script pause="0" href="audio/tts_c08c1d7b.mp3">
-Bây giờ các em sẽ nghe một đoạn băng. Hãy chú ý lắng nghe để tìm thông tin trả lời câu hỏi.
+<!-- chunk: dialogue -->
+<teacher_script pause="0">
+Bài 1 <eng>Listen and read</eng> nha. Tom tình cờ gặp Trang ở cửa hàng. Nghe và đọc theo.
 </teacher_script>
 
 <audio src="https://img.loigiaihay.com/picture/2023/0803/track-1.mp3">
-**Audio:** Getting Started
+**Audio:** Getting Started - Bài 1
 </audio>
 
-<!-- chunk: content -->
-<teacher_script pause="0" href="audio/tts_d5b1d729.mp3">
-Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
+<dialogue>
+| English | Vietnamese |
+|---------|------------|
+| **Tom:** Hi, Trang. Surprised to see you here. What brings you here? | **Tom:** Chào Trang. Ngạc nhiên khi thấy bạn ở đây. Có chuyện gì đưa bạn đến đây vậy? |
+| **Trang:** Oh, hi Tom. I'm looking for a knitting kit. | **Trang:** Ồ, chào Tom. Tôi đang tìm một bộ đồ đan len. |
+| **Tom:** A knitting kit? I didn't know you were keen on knitting. | **Tom:** Bộ đồ đan len? Tôi không biết bạn thích đan len. |
+| **Trang:** Actually, I'm keen on lots of DIY activities. In my leisure time, I enjoy knitting, building dollhouses, and making paper flowers. | **Trang:** Thực ra, tôi thích nhiều hoạt động tự làm lắm. Trong thời gian rảnh, tôi thích đan len, xây nhà búp bê và làm hoa giấy. |
+| **Tom:** I see. So you prefer spending time on your own. | **Tom:** Tôi hiểu rồi. Vậy bạn thích dành thời gian một mình hơn. |
+| **Trang:** Yes, I do. What do you do in your free time? | **Trang:** Đúng vậy. Bạn làm gì trong thời gian rảnh? |
+| **Tom:** I'm a bit different. I usually hang out with friends. We go to the cinema, cycling, or play sport in the park. | **Tom:** Tôi hơi khác. Tôi thường đi chơi với bạn bè. Chúng tôi đi xem phim, đi xe đạp, hoặc chơi thể thao trong công viên. |
+| **Trang:** So you prefer spending your free time with other people. | **Trang:** Vậy bạn thích dành thời gian rảnh với người khác hơn nhỉ. |
+| **Tom:** That's right. By the way, would you like to come to the cinema with me and Mark this Sunday? There's a new comedy at New World Cinema. | **Tom:** Đúng vậy. Nhân tiện, bạn có muốn đi xem phim với tôi và Mark vào Chủ Nhật này không? Có một bộ phim hài mới tại Rạp New World. |
+| **Trang:** Yes, I'd love to. Can Mai join us? | **Trang:** Ừ, tôi rất muốn. Mai có thể tham gia được không? |
+| **Tom:** Sure. Let's meet outside the cinema at 9 a.m. | **Tom:** Được chứ. Gặp nhau ngoài rạp chiếu phim lúc 9 giờ sáng nhé. |
+</dialogue>
+
+<teacher_script pause="180">
+Dịch hội thoại vô vở nha. 3 phút.
 </teacher_script>
 
-**UNIT 1: LEISURE TIME****
+<!-- chunk: exercise_2 -->
+### Bài 2 trang 9 - Fill in the Blanks
 
-**GETTING STARTED** 
+<teacher_script pause="60">
+Bài 2. Đọc lại hội thoại và điền từ vào chỗ trống nha. 1 phút.
+</teacher_script>
 
-Tom: Chào, Trang. Ngạc nhiên khi thấy bạn. Điều gì đưa bạn đến đây?
+<task>
+**Đề:** Read the dialogue again and complete the sentences with the words/phrases from the box.
+**Dịch đề:** Đọc lại hội thoại và điền từ/cụm từ vào chỗ trống.
+</task>
 
-Trang: Ồ, chào Tom. Tôi đang tìm bộ dụng cụ đan len.
+<questions type="fill_blanks">
+*(knitting kit / leisure time / other people / hang out / Sunday)*
 
-Tom: Một bộ dụng cụ đan len? Tôi không biết bạn thích đan len.
+**1.** Trang is looking for a _______.
+**2.** In her _______, Trang enjoys DIY activities.
+**3.** Tom prefers spending his free time with _______.
+**4.** Tom and his friends _______ together.
+**5.** Tom and Mark are going to the cinema on _______.
+</questions>
 
-Trang: Thực ra, tôi thích nhiều hoạt động tự làm. Trong thời gian rảnh, tôi thích đan len, xây dựng nhà búp bê, và làm hoa giấy.
+<teacher_script pause="0">
+Đáp án nè.
+</teacher_script>
 
-Tom: Tôi hiểu. Vậy, bạn thích dành thời gian một mình.
+<answer>
+**Đáp án:** 1. knitting kit | 2. leisure time | 3. other people | 4. hang out | 5. Sunday
+</answer>
 
-Trang: Đúng vậy. Bạn làm gì trong thời gian rảnh?
+<explanation>
+- **1. knitting kit:** Trang nói *"I'm looking for a knitting kit"* = đang tìm bộ đồ đan len.
+- **2. leisure time:** *"In my leisure time, I enjoy..."* = trong thời gian rảnh rỗi.
+- **3. other people:** Tom thích đi chơi cùng bạn bè = với **người khác** (other people).
+- **4. hang out:** *"I usually hang out with friends"* = thường đi chơi với bạn bè.
+- **5. Sunday:** Tom mời Trang xem phim *"this Sunday"* = vào Chủ Nhật này.
+</explanation>
 
-Tom: Tôi hơi khác. Tôi thường đi chơi với bạn bè. Chúng tôi đi xem phim, đi xe đạp, hoặc chơi thể thao trong công viên.
+<!-- chunk: exercise_3 -->
+### Bài 3 trang 9 - Categorize Leisure Activities
 
-Trang: Bạn thích dành thời gian rảnh với người khác, đúng không?
+<teacher_script pause="60">
+Bài 3. Phân loại các hoạt động vào nhóm đúng nha. 1 phút.
+</teacher_script>
 
-Tom: Đúng rồi. Nhân tiện, bạn có muốn đi xem phim với tôi và Mark vào Chủ Nhật này không? Có một bộ phim hài mới tại Rạp chiếu phim New World.
+<task>
+**Đề:** Put the activities in the correct column.
+**Dịch đề:** Xếp các hoạt động vào cột đúng.
+</task>
 
-Trang: Vâng, tôi rất muốn. Tôi có thể mời Mai tham gia cùng không?
+<questions type="matching">
+*(messaging friends / cooking / playing sport / doing puzzles / doing DIY / surfing the net)*
 
-Tom: Chắc chắn rồi. Gặp nhau ngoài rạp chiếu phim lúc 9 giờ sáng nhé.
+| Activities you do alone | Activities you do with others |
+|------------------------|------------------------------|
+| ??? | ??? |
+</questions>
 
-**Bài 2 trang 9**
+<teacher_script pause="0">
+Đáp án nè.
+</teacher_script>
 
-| 1\. knitting kit | 2\. leisure time | 3\. other people | 4\. hang out | 5\. Sunday |
-| :---- | :---- | :---- | :---- | :---- |
+<answer>
+**Activities you do alone (một mình):** doing puzzles | doing DIY | surfing the net | cooking
 
-**Bài 3 trang 9**
+**Activities you do with others (với người khác):** messaging friends | playing sport
+</answer>
 
-| 1\. messaging friends | 2\. cooking | 3\. playing sport |
-| :---- | :---- | :---- |
-| 4\. doing puzzles | 5\. doing DIY | 6\. surfing the net |
+<explanation>
+- **Làm một mình:** Giải câu đố, tự làm đồ, lướt mạng, nấu ăn - thường làm một mình.
+- **Làm với người khác:** Nhắn tin với bạn bè - kết nối với người khác; chơi thể thao - thường cần đối thủ hoặc đồng đội.
+</explanation>
 
-**Bài 4 trang 9**
+<!-- chunk: exercise_4 -->
+### Bài 4 trang 9 - Match Benefits to Activities
 
-| 1\. doing puzzles | 2\. doing DIY | 3\. playing sport |
-| :---- | :---- | :---- |
-| 4\. messaging friends | 5\. surfing the net |   |
+<teacher_script pause="60">
+Bài 4. Ghép lợi ích với hoạt động phù hợp nha. 1 phút.
+</teacher_script>
 
-1\. cải thiện trí nhớ, rèn luyện trí óc \= giải câu đố
+<task>
+**Đề:** Match the benefits with the correct leisure activities.
+**Dịch đề:** Ghép các lợi ích với hoạt động giải trí đúng.
+</task>
 
-2\. tiết kiệm tiền, tăng khả năng sáng tạo \= tự làm đồ
+<questions type="matching">
+**1.** improves memory, sharpens the brain *(cải thiện trí nhớ, rèn luyện trí óc)*
+**2.** saves money, increases creativity *(tiết kiệm tiền, tăng khả năng sáng tạo)*
+**3.** improves physical health, helps make friends *(nâng cao sức khỏe, kết bạn)*
+**4.** keeps in touch, helps relax *(giữ liên lạc, thư giãn)*
+**5.** learn about IT *(học về công nghệ thông tin)*
 
-3\. nâng cao sức khỏe thể chất, giao lưu kết bạn \= playing sport
+a. playing sport
+b. doing DIY
+c. messaging friends
+d. surfing the net
+e. doing puzzles
+</questions>
 
-4\. giữ liên lạc, thư giãn \= nhắn tin cho bạn bè
+<teacher_script pause="0">
+Đáp án nè.
+</teacher_script>
 
-5\. học gì đó về CNTT, tin học \= lướt mạng
+<answer>
+**Đáp án:** 1-e | 2-b | 3-a | 4-c | 5-d
+</answer>
+
+<explanation>
+- **1-e. doing puzzles:** Giải câu đố giúp **cải thiện trí nhớ và rèn luyện trí óc**.
+- **2-b. doing DIY:** Tự làm đồ giúp **tiết kiệm tiền** (tự làm thay vì mua) và **tăng sáng tạo**.
+- **3-a. playing sport:** Chơi thể thao giúp **nâng cao sức khỏe** và **kết bạn** (team sport).
+- **4-c. messaging friends:** Nhắn tin giúp **giữ liên lạc** với bạn bè và **thư giãn**.
+- **5-d. surfing the net:** Lướt mạng giúp **học về IT** và tìm kiếm thông tin.
+</explanation>
 
 <!-- chunk: end -->
-<teacher_script pause="0" href="audio/tts_ba688992.mp3">
-Bài học hôm nay kết thúc tại đây. Các em nhớ ôn bài và chuẩn bị cho bài học tiếp theo. Tạm biệt các em.
+<teacher_script pause="0">
+Bài <eng>Getting Started</eng> Unit 1 xong rồi nha! Hôm nay các em biết Tom thích hoạt động nhóm còn Trang thích tự làm đồ một mình. Ai giống Tom? Ai giống Trang? Ôn bài kỹ hen!
 </teacher_script>
