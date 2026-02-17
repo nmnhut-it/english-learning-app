@@ -538,6 +538,188 @@ body {
 ::-webkit-scrollbar-thumb { background: var(--border); border-radius: 3px; }
 ::-webkit-scrollbar-thumb:hover { background: var(--text-dim); }
 
+/* --- Custom Tags (rendered markdown) --- */
+.custom-tag {
+  margin: 8px 0;
+  border-radius: var(--radius);
+  border: 1px solid var(--border);
+  overflow: hidden;
+}
+
+.tag-header {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 4px 10px;
+  font-size: 10px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.tag-label {
+  font-size: 10px;
+  font-weight: 700;
+}
+
+.tag-attrs {
+  font-size: 10px;
+  font-weight: 400;
+  opacity: 0.7;
+}
+
+.tag-body {
+  padding: 8px 10px;
+  font-size: 12px;
+  line-height: 1.6;
+}
+
+/* Tag color variants */
+.tag-teacher-script .tag-header { background: rgba(0,180,216,0.15); color: var(--accent); }
+.tag-teacher-script { border-color: rgba(0,180,216,0.3); }
+
+.tag-vocabulary .tag-header { background: rgba(6,214,160,0.15); color: var(--green); }
+.tag-vocabulary { border-color: rgba(6,214,160,0.3); }
+
+.tag-dialogue .tag-header { background: rgba(255,209,102,0.15); color: var(--yellow); }
+.tag-dialogue { border-color: rgba(255,209,102,0.3); }
+
+.tag-reading .tag-header { background: rgba(244,132,95,0.15); color: var(--orange); }
+.tag-reading { border-color: rgba(244,132,95,0.3); }
+
+.tag-translation .tag-header { background: rgba(160,160,200,0.15); color: #a0a0c8; }
+.tag-translation { border-color: rgba(160,160,200,0.3); }
+
+.tag-grammar .tag-header { background: rgba(200,120,255,0.15); color: #c878ff; }
+.tag-grammar { border-color: rgba(200,120,255,0.3); }
+
+.tag-task .tag-header { background: rgba(255,165,0,0.15); color: #ffa500; }
+.tag-task { border-color: rgba(255,165,0,0.3); }
+
+.tag-questions .tag-header { background: rgba(100,200,255,0.15); color: #64c8ff; }
+.tag-questions { border-color: rgba(100,200,255,0.3); }
+
+.tag-answer .tag-header { background: rgba(6,214,160,0.15); color: var(--green); }
+.tag-answer { border-color: rgba(6,214,160,0.3); }
+
+.tag-explanation .tag-header { background: rgba(255,209,102,0.12); color: var(--yellow); }
+.tag-explanation { border-color: rgba(255,209,102,0.25); }
+
+.tag-pronunciation-theory .tag-header { background: rgba(180,140,255,0.15); color: #b48cff; }
+.tag-pronunciation-theory { border-color: rgba(180,140,255,0.3); }
+
+/* Language tags in teacher_script */
+.lang-tag {
+  padding: 1px 4px;
+  border-radius: 3px;
+  font-weight: 600;
+}
+
+.lang-en {
+  background: rgba(0,180,216,0.2);
+  color: var(--accent-hover);
+}
+
+.lang-vi {
+  background: rgba(6,214,160,0.2);
+  color: var(--green);
+}
+
+/* Vocabulary list */
+.vocab-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  counter-reset: vocab;
+}
+
+.vocab-item {
+  display: flex;
+  align-items: baseline;
+  gap: 6px;
+  padding: 3px 0;
+  border-bottom: 1px solid rgba(255,255,255,0.04);
+  flex-wrap: wrap;
+}
+
+.vocab-item::before {
+  counter-increment: vocab;
+  content: counter(vocab) ".";
+  color: var(--text-dim);
+  font-size: 11px;
+  min-width: 20px;
+}
+
+.vocab-word { color: var(--accent); font-size: 12px; }
+.vocab-type { color: var(--text-dim); font-size: 11px; }
+.vocab-meaning { color: var(--text); font-size: 12px; }
+.vocab-pron { color: var(--text-dim); font-size: 11px; font-style: italic; }
+
+/* Table wrap */
+.table-wrap {
+  overflow-x: auto;
+  margin: 6px 0;
+}
+
+/* Chunk marker */
+.chunk-marker {
+  background: rgba(0,180,216,0.08);
+  border: 1px dashed var(--accent);
+  border-radius: var(--radius);
+  padding: 4px 10px;
+  margin: 12px 0 6px;
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--accent);
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+/* --- Dialogue Validation --- */
+.dialogue-issues {
+  margin: 8px 0;
+  padding: 8px;
+  background: rgba(239,71,111,0.08);
+  border: 1px solid rgba(239,71,111,0.3);
+  border-radius: var(--radius);
+}
+
+.dialogue-issues .issue-header {
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--red);
+  margin-bottom: 6px;
+}
+
+.dialogue-issues .issue-item {
+  font-size: 11px;
+  color: var(--text);
+  padding: 2px 0;
+  padding-left: 12px;
+  position: relative;
+}
+
+.dialogue-issues .issue-item::before {
+  content: "!";
+  position: absolute;
+  left: 0;
+  color: var(--red);
+  font-weight: 700;
+}
+
+.dialogue-issues .issue-item.warning { color: var(--yellow); }
+.dialogue-issues .issue-item.warning::before { content: "?"; color: var(--yellow); }
+
+.dialogue-ok {
+  margin: 8px 0;
+  padding: 6px 10px;
+  background: rgba(6,214,160,0.08);
+  border: 1px solid rgba(6,214,160,0.3);
+  border-radius: var(--radius);
+  font-size: 11px;
+  color: var(--green);
+}
+
 /* --- Responsive --- */
 @media (max-width: 900px) {
   .panels-container { flex-direction: column; }
