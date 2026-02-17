@@ -6,6 +6,22 @@
 Ok lớp 11, bài <eng>Communication and Culture</eng> Unit 6 nha. Hôm nay học hỏi đường và đọc về bảo tồn di sản trên thế giới. Mở sách đi.
 </teacher_script>
 
+<!-- chunk: vocabulary -->
+<teacher_script pause="0">
+Học từ vựng trước nha.
+</teacher_script>
+
+<vocabulary>
+1. **directions** : (n) chỉ đường /dɪˈrekʃənz/
+2. **go straight ahead** : (phr) đi thẳng về phía trước /ɡəʊ streɪt əˈhed/
+3. **turn left/right** : (phr) rẽ trái/phải /tɜːrn left/raɪt/
+4. **crowdfunding** : (n) gây quỹ cộng đồng /ˈkraʊdfʌndɪŋ/
+5. **donation** : (n) sự quyên góp /doʊˈneɪʃən/
+6. **fine** : (n/v) tiền phạt; phạt /faɪn/
+7. **heritage crime** : (n phr) tội phạm di sản /ˈherɪtɪdʒ kraɪm/
+8. **restore** : (v) khôi phục, trùng tu /rɪˈstɔːr/
+</vocabulary>
+
 <!-- chunk: everyday_english_1 -->
 ### Everyday English - Bài 1: Asking for and giving directions
 

@@ -6,12 +6,46 @@
 Ok lớp 11, bài <eng>Language</eng> Unit 9 nha. Học phát âm, từ vựng và ngữ pháp. Mở sách đi.
 </teacher_script>
 
+<!-- chunk: vocabulary -->
+<teacher_script pause="0">
+Học từ vựng trước nha.
+</teacher_script>
+
+<vocabulary>
+1. **violent** : (adj) bạo lực /ˈvaɪələnt/
+2. **poverty** : (n) nghèo đói /ˈpɒvərti/
+3. **alcohol** : (n) rượu bia /ˈælkəhɒl/
+4. **campaign** : (n) chiến dịch /kæmˈpeɪn/
+5. **bully** : (v) bắt nạt /ˈbʊli/
+6. **peer pressure** : (n phr) áp lực đồng trang lứa /pɪər ˈpreʃər/
+7. **bullying** : (n) sự bắt nạt /ˈbʊliɪŋ/
+8. **social issue** : (n phr) vấn đề xã hội /ˈsoʊʃl ˈɪʃuː/
+</vocabulary>
+
 <!-- chunk: pronunciation -->
 ### Pronunciation - Intonation in alternative questions
 
 <teacher_script pause="0">
-Phần phát âm: Ngữ điệu trong câu hỏi lựa chọn. Quy tắc: lên giọng ở các lựa chọn trước, xuống giọng ở lựa chọn cuối.
+Phần phát âm: Ngữ điệu trong câu hỏi lựa chọn.
 </teacher_script>
+
+<grammar>
+**Ngữ điệu trong câu hỏi lựa chọn (Intonation in alternative questions):**
+
+Câu hỏi lựa chọn có từ **"or"** - cung cấp các lựa chọn:
+
+- Các lựa chọn **trước "or"** → Lên giọng ↗
+- Lựa chọn **cuối cùng** → Xuống giọng ↘
+
+Ví dụ:
+- Is peer pressure good ↗ or bad? ↘
+- Is this a social ↗ or environmental issue? ↘
+- Should we focus on crime ↗, overpopulation ↗, or climate change? ↘
+
+**So sánh với Yes/No question:**
+- Yes/No question: lên giọng ↗ ở cuối
+- Alternative question: lên ↗ trước "or", xuống ↘ ở cuối
+</grammar>
 
 <teacher_script pause="0">
 Bài 1, nghe và lặp lại. Chú ý ngữ điệu nha.

@@ -6,6 +6,22 @@
 Ok lớp 11, bài <eng>Writing</eng> Unit 6 nha. Hôm nay viết <eng>a leaflet</eng> - tờ rơi về cách bảo tồn Quần thể danh thắng Tràng An. Mở sách đi.
 </teacher_script>
 
+<!-- chunk: vocabulary -->
+<teacher_script pause="0">
+Học từ vựng trước nha.
+</teacher_script>
+
+<vocabulary>
+1. **leaflet** : (n) tờ rơi /ˈliːflɪt/
+2. **scenic landscape** : (n phr) cảnh quan thiên nhiên /ˈsiːnɪk ˈlændskeɪp/
+3. **mass tourism** : (n phr) du lịch đại trà /mæs ˈtʊərɪzəm/
+4. **ecosystem** : (n) hệ sinh thái /ˈiːkəʊˌsɪstəm/
+5. **eco-tour** : (n) du lịch sinh thái /ˈiːkəʊ tʊər/
+6. **heritage site** : (n phr) khu di sản /ˈherɪtɪdʒ saɪt/
+7. **sustainable** : (adj) bền vững /səˈsteɪnəbl/
+8. **cultural values** : (n phr) giá trị văn hóa /ˈkʌltʃərəl ˈvæljuːz/
+</vocabulary>
+
 <!-- chunk: exercise_1 -->
 ### Bài 1 - Identify problems and solutions
 

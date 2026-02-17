@@ -6,12 +6,42 @@
 Ok lớp 11, bài <eng>Language</eng> Unit 8 nha. Học phát âm, từ vựng và ngữ pháp. Mở sách đi.
 </teacher_script>
 
+<!-- chunk: vocabulary -->
+<teacher_script pause="0">
+Học từ vựng trước nha.
+</teacher_script>
+
+<vocabulary>
+1. **self-motivated** : (adj) tự có động lực /ˌself ˈmoʊtɪveɪtɪd/
+2. **self-study** : (n) tự học /ˌself ˈstʌdi/
+3. **motivate** : (v) tạo động lực /ˈmoʊtɪveɪt/
+4. **trust** : (n) niềm tin /trʌst/
+5. **life skill** : (n phr) kỹ năng sống /laɪf skɪl/
+6. **independent** : (adj) tự lập /ˌɪndɪˈpendənt/
+7. **responsibility** : (n) trách nhiệm /rɪˌspɒnsɪˈbɪlɪti/
+8. **manage** : (v) quản lý, xoay sở /ˈmænɪdʒ/
+</vocabulary>
+
 <!-- chunk: pronunciation_1 -->
 ### Pronunciation - Intonation in invitations, suggestions, and polite requests
 
 <teacher_script pause="0">
-Phần phát âm: Ngữ điệu trong lời mời, đề nghị và yêu cầu lịch sự. Các câu này dùng ngữ điệu giảm-tăng nha.
+Phần phát âm: Ngữ điệu trong lời mời, đề nghị và yêu cầu lịch sự.
 </teacher_script>
+
+<grammar>
+**Ngữ điệu giảm-tăng (Falling-rising intonation) ↘↗:**
+
+Dùng khi: **lời mời (invitations), đề nghị (suggestions), yêu cầu lịch sự (polite requests)**
+
+- Would you like a cup of tea? ↘↗
+- Why don't you try this app? ↘↗
+- Shall we continue? ↘↗
+
+**So sánh:**
+- Câu hỏi Yes/No bình thường → lên giọng ↗
+- Lời mời / đề nghị / yêu cầu lịch sự → giảm-tăng ↘↗
+</grammar>
 
 <teacher_script pause="0">
 Bài 1, nghe và lặp lại. Chú ý ngữ điệu giảm-tăng trong các câu sau.

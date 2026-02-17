@@ -6,6 +6,22 @@
 Ok lớp 11, bài <eng>Communication and Culture</eng> Unit 7 nha. Hôm nay học đặt lịch hẹn và đọc về giáo dục ở Anh. Mở sách đi.
 </teacher_script>
 
+<!-- chunk: vocabulary -->
+<teacher_script pause="0">
+Học từ vựng trước nha.
+</teacher_script>
+
+<vocabulary>
+1. **appointment** : (n) cuộc hẹn /əˈpɔɪntmənt/
+2. **make an appointment** : (phr) đặt lịch hẹn /meɪk ən əˈpɔɪntmənt/
+3. **convenient** : (adj) thuận tiện /kənˈviːniənt/
+4. **available** : (adj) rảnh rỗi, sẵn có /əˈveɪləbl/
+5. **compulsory** : (adj) bắt buộc /kəmˈpʌlsəri/
+6. **scholarship** : (n) học bổng /ˈskɒləʃɪp/
+7. **secondary school** : (n phr) trường trung học /ˈsekəndri skuːl/
+8. **grammar school** : (n phr) trường học chuyên /ˈɡræmər skuːl/
+</vocabulary>
+
 <!-- chunk: everyday_english_1 -->
 ### Everyday English - Bài 1: Making an appointment
 

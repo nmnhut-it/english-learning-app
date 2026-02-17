@@ -6,6 +6,22 @@
 Ok lớp 11, bài <eng>Speaking</eng> Unit 10 nha. Hôm nay nói về cách bảo vệ đa dạng sinh học địa phương. Mở sách đi.
 </teacher_script>
 
+<!-- chunk: vocabulary -->
+<teacher_script pause="0">
+Học từ vựng trước nha.
+</teacher_script>
+
+<vocabulary>
+1. **biodiversity** : (n) đa dạng sinh học /ˌbaɪoʊdaɪˈvɜːrsɪti/
+2. **ecosystem** : (n) hệ sinh thái /ˈiːkəʊˌsɪstəm/
+3. **habitat** : (n) môi trường sống /ˈhæbɪtæt/
+4. **endangered species** : (n phr) loài có nguy cơ tuyệt chủng /ɪnˈdeɪndʒərd ˈspiːʃiːz/
+5. **deforestation** : (n) phá rừng /ˌdiːfɒrɪˈsteɪʃən/
+6. **conservation** : (n) bảo tồn /ˌkɒnsəˈveɪʃən/
+7. **wildlife sanctuary** : (n phr) khu bảo tồn động vật hoang dã /ˈwaɪldlaɪf ˈsæŋktʃuəri/
+8. **sustainable** : (adj) bền vững /səˈsteɪnəbl/
+</vocabulary>
+
 <!-- chunk: exercise_1 -->
 ### Bài 1 - Ways to protect biodiversity
 
