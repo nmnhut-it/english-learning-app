@@ -1,123 +1,245 @@
-# G8 UNIT-03 GETTING STARTED
+# UNIT 3: TEENAGERS
+## GETTING STARTED - Class Facebook Forum & School Clubs
 
-<!-- chunk: intro -->
-<teacher_script pause="0" href="audio/tts_fd00461e.mp3">
-Chào các em. Chào mừng các em đến với bài học hôm nay. Mời các em mở sách giáo khoa.
+<!-- chunk: vocabulary -->
+<teacher_script pause="0">
+Ok lớp 8 nha, Unit 3 <eng>Teenagers</eng> đó. Mở sách ra trang bài <eng>Getting Started</eng>, ghi tựa bài vô. Xong rồi bấm "Bắt đầu" để học từ vựng. Máy đọc thì các em đọc theo, rồi làm bài trắc nghiệm từ vựng, sau đó ghi từ vựng vô tập luôn nghen.
 </teacher_script>
 
-<!-- chunk: audio -->
-<teacher_script pause="0" href="audio/tts_c08c1d7b.mp3">
-Bây giờ các em sẽ nghe một đoạn băng. Hãy chú ý lắng nghe để tìm thông tin trả lời câu hỏi.
+<vocabulary>
+1. **forum** : (n) diễn đàn /ˈfɔːrəm/
+2. **club** : (n) câu lạc bộ /klʌb/
+3. **prepare** : (v) chuẩn bị /prɪˈpeə/
+4. **midterm** : (n/adj) giữa kỳ /ˈmɪdtɜːm/
+5. **stress** : (n) căng thẳng /stres/
+6. **pressure** : (n) áp lực /ˈpreʃə/
+7. **user-friendly** : (adj) thân thiện với người dùng /ˈjuːzə ˈfrendli/
+8. **enjoyable** : (adj) thú vị, đáng thích /ɪnˈdʒɔɪəbl/
+9. **arts and crafts** : (n) nghệ thuật thủ công /ɑːts ænd krɑːfts/
+10. **language club** : (n) câu lạc bộ ngôn ngữ /ˈlæŋɡwɪdʒ klʌb/
+11. **sports club** : (n) câu lạc bộ thể thao /spɔːts klʌb/
+12. **chess club** : (n) câu lạc bộ cờ vua /tʃes klʌb/
+13. **competition** : (n) cuộc thi /ˌkɒmpɪˈtɪʃən/
+14. **variety** : (n) sự đa dạng /vəˈraɪəti/
+15. **awesome** : (adj) tuyệt vời /ˈɔːsəm/
+</vocabulary>
+
+<!-- chunk: dialogue -->
+<teacher_script pause="0">
+Giờ mình nghe hội thoại nha. Thầy/cô đang nói chuyện với Minh và Ann về diễn đàn Facebook của lớp, kỳ thi giữa kỳ, và các câu lạc bộ trường. Bấm play nghe đi, vừa nghe vừa nhìn theo bài.
 </teacher_script>
 
-<audio src="https://img.loigiaihay.com/picture/2023/0803/track-13_1.mp3">
-**Audio:** Getting Started
-</audio>
+<reading>
+🎧 [Track 13](https://img.loigiaihay.com/picture/2023/0803/track-13_1.mp3)
 
-<!-- chunk: content -->
-<teacher_script pause="0" href="audio/tts_d5b1d729.mp3">
-Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
+**Teacher:** Good morning, class! So what's going on with everyone lately?
+
+**Minh:** Well, teacher, we've been using our class Facebook page as a forum. It's really user-friendly. We also joined some club activities. But right now we're preparing for the midterm tests — it's very stressful!
+
+**Teacher:** Stay calm, work hard and you'll do fine. Are there any other kinds of pressure you're facing?
+
+**Minh:** Yes, teacher. We also feel pressure from our parents and friends.
+
+**Teacher:** That's understandable. Why don't you discuss these problems in your Facebook group?
+
+**Ann:** We do, teacher! That's one reason we chose Facebook — it's user-friendly, so everyone can join in easily.
+
+**Teacher:** What about the clubs? Are there any new ones this year?
+
+**Ann:** Yes! We have new clubs this year — an arts and crafts club and a music club. The club leaders provide a variety of activities for different interests. There are competitions as usual too. It's really awesome!
+
+**Teacher:** That's great! I hope all of you can find a club you enjoy.
+</reading>
+
+<teacher_script pause="0">
+Ok, mình dịch hội thoại vô vở nha. Thầy/cô cho 3 phút.
 </teacher_script>
 
-**UNIT 3: TEENAGERS****
+<translation>
+| English | Vietnamese |
+|---------|------------|
+| **Teacher:** Good morning, class! So what's going on with everyone lately? | **Giáo viên:** Chào buổi sáng các em! Gần đây mọi người thế nào rồi? |
+| **Minh:** Well, teacher, we've been using our class Facebook page as a forum. It's really user-friendly. We also joined some club activities. But right now we're preparing for the midterm tests — it's very stressful! | **Minh:** Dạ thưa thầy/cô, tụi em dùng trang Facebook của lớp như một diễn đàn ạ. Nó rất thân thiện với người dùng. Tụi em cũng tham gia một số hoạt động câu lạc bộ. Nhưng bây giờ tụi em đang chuẩn bị cho kỳ thi giữa kỳ — căng thẳng lắm ạ! |
+| **Teacher:** Stay calm, work hard and you'll do fine. Are there any other kinds of pressure you're facing? | **Giáo viên:** Hãy bình tĩnh, cố gắng học thì các em sẽ ổn thôi. Còn loại áp lực nào khác mà các em đang đối mặt không? |
+| **Minh:** Yes, teacher. We also feel pressure from our parents and friends. | **Minh:** Dạ có ạ. Tụi em cũng cảm thấy áp lực từ ba mẹ và bạn bè. |
+| **Teacher:** That's understandable. Why don't you discuss these problems in your Facebook group? | **Giáo viên:** Điều đó có thể hiểu được. Sao các em không thảo luận những vấn đề này trên nhóm Facebook nhỉ? |
+| **Ann:** We do, teacher! That's one reason we chose Facebook — it's user-friendly, so everyone can join in easily. | **Ann:** Tụi em có làm vậy đó thầy/cô! Đó là một lý do tụi em chọn Facebook — vì nó thân thiện với người dùng, nên mọi người đều có thể tham gia dễ dàng. |
+| **Teacher:** What about the clubs? Are there any new ones this year? | **Giáo viên:** Còn về các câu lạc bộ thì sao? Năm nay có câu lạc bộ mới nào không? |
+| **Ann:** Yes! We have new clubs this year — an arts and crafts club and a music club. The club leaders provide a variety of activities for different interests. There are competitions as usual too. It's really awesome! | **Ann:** Dạ có ạ! Năm nay có câu lạc bộ mới — câu lạc bộ nghệ thuật thủ công và câu lạc bộ âm nhạc. Các trưởng nhóm cung cấp nhiều hoạt động đa dạng phù hợp với sở thích khác nhau. Vẫn có các cuộc thi như thường lệ nữa. Tuyệt vời lắm ạ! |
+| **Teacher:** That's great! I hope all of you can find a club you enjoy. | **Giáo viên:** Tốt lắm! Thầy/cô hy vọng tất cả các em đều tìm được câu lạc bộ mình thích. |
+</translation>
 
-**GETTING STARTED**   
-**Vocabulary:** 
+<teacher_script pause="180">
+Oke, dịch hội thoại vô vở nha. 3 phút thôi, làm nhanh lên đi.
+</teacher_script>
 
-1. **Facebook** : (n) Facebook /ˈfeɪsˌbʊk/
-2. **forum** : (n) diễn đàn /ˈfɔːrəm/
-3. **club** : (n) câu lạc bộ /klʌb/
-4. **activity** : (n) hoạt động /ækˈtɪvɪti/
-5. **prepare** : (v) chuẩn bị /prɪˈpeə/
-6. **midterm** : (n) giữa kỳ /ˈmɪdˌtɜːm/
-7. **test** : (n) bài kiểm tra /tɛst/
-8. **stress** : (n) căng thẳng /strɛs/
-9. **exam** : (n) kỳ thi /ɪɡˈzæm/
-10. **calm** : (adj) bình tĩnh /kɑːm/
-11. **pressure** : (n) áp lực /ˈprɛʃə/
-12. **parent** : (n) cha mẹ /ˈpeərənt/
-13. **problem** : (n) vấn đề /ˈprɒbləm/
-14. **group** : (n) nhóm /ɡruːp/
-15. **choose** : (v) chọn /ʧuːz/
-16. **user-friendly** : (adj) thân thiện với người dùng /ˈjuːzə ˈfrɛndli/
-17. **club activity** : (n) hoạt động câu lạc bộ /klʌb ækˈtɪvɪti/
-18. **enjoyable** : (adj) thú vị /ɪnˈʤɔɪəbl/
-19. **art** : (n) nghệ thuật /ɑːt/
-20. **craft** : (n) thủ công /krɑːft/
-21. **music** : (n) âm nhạc /ˈmjuːzɪk/
-22. **leader** : (n) người lãnh đạo /ˈliːdə/
-23. **provide** : (v) cung cấp /prəˈvaɪd/
-24. **variety** : (n) sự đa dạng /vəˈraɪəti/
-25. **interest** : (n) sở thích /ˈɪntrɪst/
-26. **competition** : (n) cuộc thi /ˌkɒmpɪˈtɪʃən/
-27. **usual** : (adj) thông thường /ˈjuːʒʊəl/
-28. **awesome** : (adj) tuyệt vời /ˈɔːsəm/
-29. **join** : (v) tham gia /ʤɔɪn/
+<!-- chunk: exercise-bai2 -->
+<teacher_script pause="0">
+Xong rồi hả? Giờ mình làm bài 2 nha — bài <eng>True or False</eng>. Đọc các câu rồi xác định đúng hay sai dựa vào hội thoại. Thầy/cô cho 1 phút làm bài.
+</teacher_script>
 
-Giáo viên: Rất vui được gặp lại các em, cả lớp\! Chuyện gì đang xảy ra vậy?
+<task>
+**Đề:** Read the dialogue again and decide if the statements are True (T) or False (F).
+**Dịch đề:** Đọc lại hội thoại và quyết định các câu sau là Đúng (T) hay Sai (F).
+</task>
 
-Minh: Chúng em đã quyết định sử dụng Facebook cho diễn đàn của lớp và chúng em đã tham gia một số hoạt động câu lạc bộ của trường. Chúng em cũng đang chuẩn bị cho các bài kiểm tra giữa kỳ. Nó thực sự rất căng thẳng.
+<questions type="true_false">
+**1.** Students have already finished their midterm tests.
+*Học sinh đã hoàn thành bài kiểm tra giữa kỳ rồi.*
 
-Giáo viên: Cô rất tiếc khi nghe điều đó. Cô biết các kỳ thi có thể mang lại cho các em rất nhiều căng thẳng. Nhưng hãy bình tĩnh và làm việc chăm chỉ. Các em có những áp lực nào khác?
+**2.** Minh mentions different kinds of pressure they are facing.
+*Minh đề cập đến những loại áp lực khác nhau mà các bạn đang đối mặt.*
 
-Minh: À, chúng em cũng có áp lực từ bố mẹ và bạn bè.
+**3.** The teacher advises them to stay calm and work hard.
+*Giáo viên khuyên các bạn hãy bình tĩnh và cố gắng học.*
 
-Giáo viên: Em có sao không? Hãy thảo luận về những vấn đề này trong nhóm Facebook mới của em. Nhân tiện, tại sao em lại chọn Facebook?
+**4.** The class will discuss their problems offline.
+*Cả lớp sẽ thảo luận vấn đề của mình ngoại tuyến (offline).*
 
-Ann: Bởi vì nó thân thiện với người dùng.
+**5.** The school has different clubs for students.
+*Trường có các câu lạc bộ khác nhau cho học sinh.*
+</questions>
 
-Giáo viên: Tốt\! Còn hoạt động câu lạc bộ thì sao? Em có thấy chúng thú vị không?
+<teacher_script pause="60">
+Ok làm đi, 1 phút nha.
+</teacher_script>
 
-Ann: Có ạ. Năm nay có một số câu lạc bộ mới như nghệ thuật và thủ công, và âm nhạc. Các lãnh đạo câu lạc bộ sẽ cung cấp cho chúng em nhiều hoạt động phù hợp với các sở thích khác nhau. Và cũng sẽ có các cuộc thi như thường lệ.
+<teacher_script pause="0">
+Ok đáp án nè.
+</teacher_script>
 
-Giáo viên: Tuyệt vời\! Cô hy vọng tất cả các em có thể tham gia các câu lạc bộ mà các em thích.
+<answer>
+**Đáp án:** 1.F | 2.T | 3.T | 4.F | 5.T
+</answer>
 
-**Bài 2 trang 29**
+<explanation>
+**1. F — Sai.**
+Minh nói *"we're preparing for the midterm tests"* — đang chuẩn bị, chưa thi xong. Không phải "đã hoàn thành" rồi nha.
 
-1\. Học sinh đã hoàn thành bài kiểm tra giữa kỳ.  
-2\. Minh đề cập đến các loại áp lực khác nhau mà họ đang phải đối mặt.  
-3\. Giáo viên yêu cầu các em bình tĩnh và nghiêm khắc.  
-4\. Cả lớp sẽ thảo luận vấn đề của họ ngoại tuyến.  
-5\. Trường có các câu lạc bộ khác nhau dành cho học sinh.  
-1\. F  
-2\. T  
-3\. T  
-4\. F  
-5\. T
+**2. T — Đúng.**
+Minh nói áp lực từ *bài thi giữa kỳ*, rồi cũng nói áp lực từ *ba mẹ và bạn bè* nữa — tức là nhiều loại áp lực khác nhau đó.
 
-**Bài 3 trang 29**
+**3. T — Đúng.**
+Giáo viên nói thẳng: *"Stay calm, work hard and you'll do fine"* — bình tĩnh và cố gắng học. Đúng y chang câu hỏi.
 
- 
+**4. F — Sai.**
+Cả lớp thảo luận trên nhóm *Facebook* — tức là online, không phải offline. Ann còn giải thích lý do chọn Facebook vì *user-friendly* nữa.
 
-1\. language club \= câu lạc bộ ngôn ngữ  
-2\. pressure \= áp lực  
-3\. arts and crafts club \= câu lạc bộ thủ công mỹ nghệ  
-4\. forum \= diễn đàn  
-5\. sports club \= câu lạc bộ thể thao  
-6\. chess club \= câu lạc bộ cờ vua
+**5. T — Đúng.**
+Ann nói *"We have new clubs this year — an arts and crafts club and a music club"* cộng với các câu lạc bộ cũ như ngôn ngữ, thể thao, cờ vua — trường có nhiều CLB khác nhau.
+</explanation>
 
-**Bài 4 trang 29**
+<!-- chunk: exercise-bai3 -->
+<teacher_script pause="0">
+Tiếp theo bài 3 — ghép từ với định nghĩa. Đọc định nghĩa rồi tìm từ phù hợp nha. Thầy/cô cho 2 phút.
+</teacher_script>
 
-1\. arts and crafts club  
-2\. forum  
-3\. language club  
-4\. pressure  
-5\. sports club
+<task>
+**Đề:** Match each word/phrase (1–6) with its correct definition (a–f).
+**Dịch đề:** Ghép mỗi từ/cụm từ (1–6) với định nghĩa đúng của nó (a–f).
+</task>
 
-1\. arts and crafts club \= câu lạc bộ thủ công mỹ nghệ  
-2\. forum \= diễn đàn  
-3\. language club \= câu lạc bộ ngôn ngữ  
-4\. pressure \= áp lực  
-5\. sports club \= câu lạc bộ thể thao  
-6\. chess club \= câu lạc bộ cờ vua
+<questions type="matching">
+**1.** language club
+**2.** pressure
+**3.** arts and crafts club
+**4.** forum
+**5.** sports club
+**6.** chess club
 
-1\. Minh là thành viên của câu lạc bộ nghệ thuật và thủ công của chúng tôi. Những tấm thiệp chúc mừng anh ấy làm thực sự rất sáng tạo.  
-2\. Học sinh có thể thảo luận các vấn đề của mình trong diễn đàn của lớp.  
-3\. Chúng tôi chia sẻ những bài luận và câu chuyện mà chúng tôi viết bằng tiếng Anh trong câu lạc bộ ngôn ngữ của chúng tôi.  
-4\. Cô ấy cảm thấy không được khỏe vào cuối tuần này vì tất cả áp lực từ việc học của cô ấy.  
-5\. Huấn luyện viên của câu lạc bộ thể thao của chúng tôi yêu cầu chúng tôi uống nhiều nước trong các buổi tập.
+---
+
+**a.** a feeling of stress caused by difficult situations
+**b.** an online space where people discuss topics
+**c.** a club where members practice speaking and writing a foreign language
+**d.** a club where members play the strategy board game
+**e.** a club where members play sports and exercise together
+**f.** a club where members create art using various materials
+</questions>
+
+<teacher_script pause="120">
+Làm đi nha, 2 phút.
+</teacher_script>
+
+<teacher_script pause="0">
+Ok đáp án nè.
+</teacher_script>
+
+<answer>
+**Đáp án:** 1-c | 2-a | 3-f | 4-b | 5-e | 6-d
+</answer>
+
+<explanation>
+**1-c:** *Language club* = câu lạc bộ ngôn ngữ → nơi các thành viên luyện tập nói và viết ngoại ngữ. Đúng là (c).
+
+**2-a:** *Pressure* = áp lực → cảm giác căng thẳng do các tình huống khó khăn gây ra. Đúng là (a).
+
+**3-f:** *Arts and crafts club* = câu lạc bộ nghệ thuật thủ công → nơi thành viên tạo ra các tác phẩm nghệ thuật bằng nhiều vật liệu khác nhau. Đúng là (f).
+
+**4-b:** *Forum* = diễn đàn → không gian trực tuyến nơi mọi người thảo luận các chủ đề. Đúng là (b).
+
+**5-e:** *Sports club* = câu lạc bộ thể thao → nơi thành viên chơi thể thao và tập luyện cùng nhau. Đúng là (e).
+
+**6-d:** *Chess club* = câu lạc bộ cờ vua → nơi thành viên chơi trò chơi chiến thuật bàn cờ. Đúng là (d).
+</explanation>
+
+<!-- chunk: exercise-bai4 -->
+<teacher_script pause="0">
+Bài 4 — điền từ vào chỗ trống. Dùng các từ ở bài 3 để điền vào câu cho đúng nghĩa nha. 2 phút làm bài đi.
+</teacher_script>
+
+<task>
+**Đề:** Complete the sentences using the words/phrases from Exercise 3.
+**Dịch đề:** Hoàn thành các câu bằng cách dùng các từ/cụm từ từ bài tập 3.
+</task>
+
+<questions type="fill_blanks">
+**1.** Minh is a member of our _______________. His greeting cards are really creative.
+*Minh là thành viên của _____ chúng tôi. Thiệp chào hỏi của bạn ấy rất sáng tạo.*
+
+**2.** Students can discuss their problems in the class _______________.
+*Học sinh có thể thảo luận vấn đề của mình trong _____ lớp.*
+
+**3.** We share essays we write in English in our _______________.
+*Chúng tôi chia sẻ các bài luận viết bằng tiếng Anh trong _____ của mình.*
+
+**4.** She felt unwell this weekend because of all the _______________ from her studies.
+*Cô ấy cảm thấy không khỏe cuối tuần này vì _____ từ việc học.*
+
+**5.** The coach of our _______________ asks us to drink plenty of water during practice.
+*Huấn luyện viên của _____ chúng tôi yêu cầu uống nhiều nước khi tập luyện.*
+</questions>
+
+<teacher_script pause="120">
+Làm đi, 2 phút nha.
+</teacher_script>
+
+<teacher_script pause="0">
+Ok xem đáp án nào.
+</teacher_script>
+
+<answer>
+**Đáp án:**
+1. arts and crafts club
+2. forum
+3. language club
+4. pressure
+5. sports club
+</answer>
+
+<explanation>
+**1. arts and crafts club** — Minh làm thiệp chào hỏi (*greeting cards*) rất sáng tạo → câu lạc bộ nghệ thuật thủ công mới phù hợp nè.
+
+**2. forum** — Học sinh thảo luận vấn đề trực tuyến → *forum* (diễn đàn) là đúng, giống như cả lớp dùng Facebook forum trong hội thoại.
+
+**3. language club** — Chia sẻ bài luận tiếng Anh → câu lạc bộ ngôn ngữ (*language club*) là nơi luyện viết và nói ngoại ngữ.
+
+**4. pressure** — Cảm thấy không khỏe vì việc học → *pressure* (áp lực) học tập, giống như Minh kể trong hội thoại.
+
+**5. sports club** — Huấn luyện viên yêu cầu uống nước khi tập → *sports club* (câu lạc bộ thể thao) vì có luyện tập thể chất.
+</explanation>
 
 <!-- chunk: end -->
-<teacher_script pause="0" href="audio/tts_ba688992.mp3">
-Bài học hôm nay kết thúc tại đây. Các em nhớ ôn bài và chuẩn bị cho bài học tiếp theo. Tạm biệt các em.
+<teacher_script pause="0">
+Xong bài <eng>Getting Started</eng> rồi nha. Hôm nay tụi mình học được từ vựng về các câu lạc bộ và áp lực tuổi teen, luyện đọc hội thoại và làm các bài tập từ vựng. Tiết sau mình học <eng>A Closer Look 1</eng> về mạng xã hội và phát âm nghen. Cất sách đi thôi!
 </teacher_script>
