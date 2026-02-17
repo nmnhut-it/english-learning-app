@@ -21,6 +21,7 @@ const ReviewView = {
               <button class="tool-btn" data-mode="coverage">Analyze Coverage</button>
               <button class="tool-btn" data-mode="chunks">Chunks</button>
               <button class="tool-btn" data-mode="audio">Audio Audit</button>
+              <button class="tool-btn" data-mode="dialogue">Dialogue Check</button>
             </div>
             <div class="toolbar-group">
               <select class="status-select" id="review-status-select">
@@ -105,6 +106,8 @@ const ReviewView = {
         this.showAudioAudit();
       } else if (this.mode === 'chunks') {
         this.showChunks();
+      } else if (this.mode === 'dialogue') {
+        this.showDialogueCheck();
       } else {
         CoverageBadge.clear();
       }
@@ -133,6 +136,10 @@ const ReviewView = {
       this.showAudioAudit();
     } else if (mode === 'chunks') {
       this.showChunks();
+    } else if (mode === 'dialogue') {
+      extraPanel.style.display = 'none';
+      CoverageBadge.clear();
+      this.showDialogueCheck();
     }
   },
 
@@ -173,6 +180,50 @@ const ReviewView = {
       }
     });
     ChunkMap.setChunks(this.content.lectureChunks);
+  },
+
+  async showDialogueCheck() {
+    if (!this.current) return;
+    try {
+      const data = await API.dialogueCheck(this.current.grade, this.current.unit, this.current.section);
+      const extraPanel = document.getElementById('extra-panel');
+      extraPanel.style.display = 'block';
+
+      if (!data.hasDialogue) {
+        extraPanel.innerHTML = `<div class="dialogue-check-panel" style="padding: 12px;">
+          <div style="color: var(--text-dim); font-size: 12px;">No &lt;dialogue&gt; tags found in this lecture.</div>
+        </div>`;
+        return;
+      }
+
+      let html = '<div class="dialogue-check-panel" style="padding: 12px;">';
+      html += `<div style="margin-bottom: 12px; font-size: 12px; color: var(--text-dim);">
+        Found ${data.validations.length} dialogue(s) — ${data.errors} error(s), ${data.warnings} warning(s)
+      </div>`;
+
+      for (const v of data.validations) {
+        html += `<div style="margin-bottom: 12px;">`;
+        html += `<div style="font-size: 12px; font-weight: 600; color: var(--accent); margin-bottom: 4px;">
+          Dialogue #${v.dialogueIndex + 1} (line ${v.startLine}) — ${v.rowCount} rows, speakers: ${v.speakers.join(', ') || 'none'}
+        </div>`;
+
+        if (v.issues.length === 0) {
+          html += `<div class="dialogue-ok">All checks passed</div>`;
+        } else {
+          html += `<div class="dialogue-issues">
+            <div class="issue-header">${v.issues.length} issue(s)</div>`;
+          for (const issue of v.issues) {
+            html += `<div class="issue-item ${issue.type}">Line ${issue.line}: ${issue.message}</div>`;
+          }
+          html += `</div>`;
+        }
+        html += `</div>`;
+      }
+      html += '</div>';
+      extraPanel.innerHTML = html;
+    } catch (e) {
+      console.error('Dialogue check error:', e);
+    }
   },
 
   async saveLecture(content) {

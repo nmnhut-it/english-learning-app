@@ -40,6 +40,10 @@ const API = {
     return this.get(`/audio-audit/${grade}/${unit}/${section}`);
   },
 
+  dialogueCheck(grade, unit, section) {
+    return this.get(`/dialogue-check/${grade}/${unit}/${section}`);
+  },
+
   getCoverage() { return this.get('/coverage'); },
 
   getReviewStatus() { return this.get('/review-status'); },

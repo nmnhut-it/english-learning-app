@@ -315,6 +315,170 @@ function extractExercises(text: string): string[] {
   return [...new Set(matches.map(m => m.toLowerCase()))];
 }
 
+// --- Dialogue validation ---
+
+interface DialogueIssue {
+  type: 'error' | 'warning';
+  line: number;
+  message: string;
+}
+
+interface DialogueValidation {
+  dialogueIndex: number;
+  startLine: number;
+  issues: DialogueIssue[];
+  rowCount: number;
+  speakers: string[];
+  hasHeader: boolean;
+  hasSeparator: boolean;
+}
+
+function validateDialogues(text: string): DialogueValidation[] {
+  const results: DialogueValidation[] = [];
+  const lines = text.split('\n');
+  const dialogueRegex = /<dialogue>([\s\S]*?)<\/dialogue>/g;
+
+  let match;
+  let dialogueIndex = 0;
+
+  while ((match = dialogueRegex.exec(text)) !== null) {
+    const inner = match[1];
+    const startOffset = match.index;
+    // Count lines before this dialogue to get absolute line number
+    const startLine = text.substring(0, startOffset).split('\n').length;
+
+    const issues: DialogueIssue[] = [];
+    const tableLines = inner.trim().split('\n').map(l => l.trim()).filter(l => l);
+    const speakers = new Set<string>();
+    let hasHeader = false;
+    let hasSeparator = false;
+    let dataRows = 0;
+
+    if (tableLines.length === 0) {
+      issues.push({ type: 'error', line: startLine, message: 'Dialogue tag is empty' });
+      results.push({ dialogueIndex, startLine, issues, rowCount: 0, speakers: [], hasHeader: false, hasSeparator: false });
+      dialogueIndex++;
+      continue;
+    }
+
+    // Check each line
+    for (let i = 0; i < tableLines.length; i++) {
+      const line = tableLines[i];
+      const absLine = startLine + i + 1;
+
+      // Must be pipe-delimited
+      if (!line.startsWith('|') || !line.endsWith('|')) {
+        issues.push({ type: 'error', line: absLine, message: `Row not pipe-delimited: "${line.substring(0, 60)}..."` });
+        continue;
+      }
+
+      const cells = line.split('|').slice(1, -1); // Remove empty first/last from split
+
+      // Check separator row
+      if (/^\|[\s\-:|]+\|$/.test(line)) {
+        hasSeparator = true;
+        continue;
+      }
+
+      // Check header row (first non-separator row)
+      if (!hasHeader) {
+        const headerCells = cells.map(c => c.trim().toLowerCase());
+        if (headerCells.some(h => h === 'english') && headerCells.some(h => h === 'vietnamese')) {
+          hasHeader = true;
+          // Validate exact header format
+          if (cells.length !== 2) {
+            issues.push({ type: 'warning', line: absLine, message: `Header should have exactly 2 columns (English | Vietnamese), found ${cells.length}` });
+          }
+          continue;
+        } else {
+          issues.push({ type: 'error', line: absLine, message: 'First row should be header: | English | Vietnamese |' });
+          hasHeader = true; // treat as header anyway to continue validation
+          continue;
+        }
+      }
+
+      // Data row validation
+      dataRows++;
+
+      if (cells.length !== 2) {
+        issues.push({ type: 'error', line: absLine, message: `Row should have 2 columns, found ${cells.length}: "${line.substring(0, 80)}..."` });
+        continue;
+      }
+
+      const engCol = cells[0].trim();
+      const vieCol = cells[1].trim();
+
+      // Check for empty columns
+      if (!engCol) {
+        issues.push({ type: 'error', line: absLine, message: 'English column is empty' });
+      }
+      if (!vieCol) {
+        issues.push({ type: 'error', line: absLine, message: 'Vietnamese column is empty' });
+      }
+
+      // Extract speaker from English column: **Speaker:** or **Speaker :**
+      const engSpeakerMatch = engCol.match(/^\*\*([^*:]+?)(?:\s*):?\*\*:?\s*/);
+      const vieSpeakerMatch = vieCol.match(/^\*\*([^*:]+?)(?:\s*):?\*\*:?\s*/);
+
+      if (engSpeakerMatch) {
+        speakers.add(engSpeakerMatch[1].trim());
+      } else if (engCol) {
+        issues.push({ type: 'warning', line: absLine, message: `English column missing speaker label (expected **Name:**): "${engCol.substring(0, 50)}"` });
+      }
+
+      if (vieSpeakerMatch) {
+        // Check speaker names match between columns
+        if (engSpeakerMatch && engSpeakerMatch[1].trim() !== vieSpeakerMatch[1].trim()) {
+          issues.push({ type: 'error', line: absLine, message: `Speaker mismatch: English has "${engSpeakerMatch[1].trim()}" but Vietnamese has "${vieSpeakerMatch[1].trim()}"` });
+        }
+      } else if (vieCol) {
+        issues.push({ type: 'warning', line: absLine, message: `Vietnamese column missing speaker label: "${vieCol.substring(0, 50)}"` });
+      }
+
+      // Check for unescaped pipes within cell content (common formatting error)
+      // This would cause extra columns, already caught by column count check above
+
+      // Check bold markers are balanced in each cell
+      const engBoldCount = (engCol.match(/\*\*/g) || []).length;
+      const vieBoldCount = (vieCol.match(/\*\*/g) || []).length;
+      if (engBoldCount % 2 !== 0) {
+        issues.push({ type: 'error', line: absLine, message: 'Unbalanced ** markers in English column' });
+      }
+      if (vieBoldCount % 2 !== 0) {
+        issues.push({ type: 'error', line: absLine, message: 'Unbalanced ** markers in Vietnamese column' });
+      }
+    }
+
+    // Overall checks
+    if (!hasHeader) {
+      issues.push({ type: 'error', line: startLine, message: 'Missing table header (| English | Vietnamese |)' });
+    }
+    if (!hasSeparator) {
+      issues.push({ type: 'warning', line: startLine, message: 'Missing separator row (|---------|------------|)' });
+    }
+    if (dataRows === 0) {
+      issues.push({ type: 'error', line: startLine, message: 'No dialogue rows found' });
+    }
+    if (speakers.size < 2 && dataRows > 1) {
+      issues.push({ type: 'warning', line: startLine, message: `Only ${speakers.size} speaker(s) found: ${[...speakers].join(', ')}. Dialogues typically have 2+ speakers.` });
+    }
+
+    results.push({
+      dialogueIndex,
+      startLine,
+      issues,
+      rowCount: dataRows,
+      speakers: [...speakers],
+      hasHeader,
+      hasSeparator,
+    });
+
+    dialogueIndex++;
+  }
+
+  return results;
+}
+
 // --- API Routes ---
 
 // GET /api/tree — full navigation tree
@@ -417,6 +581,22 @@ app.get('/api/audio-audit/:grade/:unit/:section', (req, res) => {
   const lectureAudio = extractAudioRefs(lecture, 'lecture');
 
   res.json({ sourceAudio, lectureAudio });
+});
+
+// GET /api/dialogue-check/:grade/:unit/:section — validate dialogue tags
+app.get('/api/dialogue-check/:grade/:unit/:section', (req, res) => {
+  const { grade, unit, section } = req.params;
+  const lecture = readFileOr(lecturePath(grade, unit, section));
+
+  if (!lecture) return res.status(404).json({ error: 'Lecture file not found' });
+
+  const validations = validateDialogues(lecture);
+  const hasDialogue = validations.length > 0;
+  const totalIssues = validations.reduce((sum, v) => sum + v.issues.length, 0);
+  const errors = validations.reduce((sum, v) => sum + v.issues.filter(i => i.type === 'error').length, 0);
+  const warnings = validations.reduce((sum, v) => sum + v.issues.filter(i => i.type === 'warning').length, 0);
+
+  res.json({ hasDialogue, validations, totalIssues, errors, warnings });
 });
 
 // GET /api/coverage — full coverage report
