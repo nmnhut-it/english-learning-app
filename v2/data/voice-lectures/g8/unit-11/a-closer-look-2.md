@@ -1,191 +1,319 @@
-# G8 UNIT-11 A CLOSER LOOK 2
+# UNIT 11: SCIENCE AND TECHNOLOGY
+## A CLOSER LOOK 2 - Reported Speech (Câu Tường Thuật)
 
-<!-- chunk: intro -->
-<teacher_script pause="0" href="audio/tts_fd00461e.mp3">
-Chào các em. Chào mừng các em đến với bài học hôm nay. Mời các em mở sách giáo khoa.
+<!-- chunk: grammar_intro -->
+<teacher_script pause="0">
+Ok lớp 8, <eng>A Closer Look 2</eng> Unit 11 nha — phần ngữ pháp quan trọng: <eng>Reported Speech</eng> — câu tường thuật. Cái này hay gặp trong thi cử lắm đó. Học kỹ nha, thầy/cô giải thích từng phần một cho dễ hiểu.
 </teacher_script>
 
-<!-- chunk: content -->
-<teacher_script pause="0" href="audio/tts_d5b1d729.mp3">
-Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
+<!-- chunk: grammar_statements -->
+<teacher_script pause="0">
+Phần 1 — câu tường thuật dạng <eng>statements</eng> — câu trần thuật. Tức là thuật lại điều ai đó đã nói.
 </teacher_script>
 
-**UNIT 11: SCIENCE AND TECHNOLOGY****
+<grammar>
+## 1. Câu Tường Thuật — Statements (Câu Trần Thuật)
 
-**A CLOSER LOOK 2** 
+**Công thức:** S + said (that) + S + V (lùi thì)
 
-# **Câu tường thuật (Reported Speech)**
+### Bảng lùi thì:
+| Direct Speech | Reported Speech |
+|---|---|
+| am / is / are | was / were |
+| do / does | did |
+| will | would |
+| can | could |
+| have / has | had |
 
-Câu tường thuật là cách chúng ta thuật lại lời nói của người khác. Khi chuyển từ lời nói trực tiếp sang lời nói gián tiếp, có một số thay đổi cần lưu ý:
+### Thay đổi đại từ:
+| Direct | Reported |
+|---|---|
+| I | she / he |
+| we | they |
+| my | her / his |
+| our | their |
+| you (object) | me / him / her |
 
-## **Cấu trúc chung của câu tường thuật:**
+### Ví dụ:
+- "I **am** tired." → She said (that) she **was** tired.
+- "We **will** have robots." → He said they **would** have robots.
+- "I **can** do this." → She said she **could** do this.
+</grammar>
 
-### **1\. Câu kể (Statements):**
+<teacher_script pause="30">
+Nhớ công thức: nói lại lời của người khác → lùi thì xuống 1 bậc. <eng>will → would, can → could, am/is/are → was/were</eng>. 30 giây nhìn lại bảng nha.
+</teacher_script>
 
-- **Cấu trúc**: Subject \+ reporting verb (said/told/informed...) \+ (that) \+ clause with changes  
-  reporting verb \= động từ tường thuật   
-  clause: mệnh đề   
-- **Ví dụ**:  
-  - Lời nói trực tiếp: "I am happy."  
-  - Câu tường thuật: He said (that) he was happy.
+<!-- chunk: grammar_time_place -->
+<teacher_script pause="0">
+Phần 2 — khi tường thuật lại, mấy từ chỉ thời gian và địa điểm cũng thay đổi nha. Đây là bảng cần nhớ.
+</teacher_script>
 
-### **2\. Câu hỏi Yes/No:**
+<grammar>
+## 2. Thay Đổi Từ Chỉ Thời Gian & Địa Điểm
 
-- **Cấu trúc**: Subject \+ asked/wondered/inquired \+ if/whether \+ clause with changes  
-- **Ví dụ**:  
-  - Lời nói trực tiếp: "Are you coming?"  
-  - Câu tường thuật: She asked if/whether I was coming.
-
-### **3\. Câu hỏi WH-:**
-
-- **Cấu trúc**: Subject \+ asked/wondered/inquired \+ question word (what, where, why...) \+ clause with changes  
-- **Ví dụ**:  
-  - Lời nói trực tiếp: "Where do you live?"  
-  - Câu tường thuật: He asked where I lived.
-
-### **4\. Câu mệnh lệnh:**
-
-- **Cấu trúc dạng khẳng định**: Subject \+ told/asked/ordered/commanded \+ object \+ to \+ verb  
-- **Cấu trúc dạng phủ định**: Subject \+ told/asked/ordered/commanded \+ object \+ not to \+ verb  
-- **Ví dụ**:  
-  - Lời nói trực tiếp: "Close the door."  
-  - Câu tường thuật: She told me to close the door.  
-  - Lời nói trực tiếp: "Don't make noise."  
-  - Câu tường thuật: He asked us not to make noise.
-
-## 1\. Thay đổi thì của động từ
-
-| Câu trực tiếp | Câu tường thuật |
-| :---- | :---- |
-| Hiện tại đơn: "I **work** here." | Quá khứ đơn: He said (that) he **worked** there. |
-| Hiện tại tiếp diễn: "I **am working**." | Quá khứ tiếp diễn: She said she **was working**. |
-| Hiện tại hoàn thành: "I **have finished**." | Quá khứ hoàn thành: He said he **had finished**. |
-| Quá khứ đơn: "I **visited** Paris." | Quá khứ hoàn thành: She said she **had visited** Paris. |
-| Tương lai đơn: "I **will help** you." | Tương lai trong quá khứ: He said he **would help** me. |
-
-## 2\. Thay đổi đại từ nhân xưng
-
-- "I" → "he/she"  
-- "we" → "they"  
-- "my" → "his/her"  
-- "our" → "their"  
-- "you" → "I/we" (tùy ngữ cảnh)  
-- "your" → "my/our" (tùy ngữ cảnh)
-
-## 3\. Thay đổi trạng từ chỉ thời gian và địa điểm
-
-| Câu trực tiếp | Câu tường thuật |
-| :---- | :---- |
+| Direct Speech | Reported Speech |
+|---|---|
 | now | then |
-| today | that day |
-| yesterday | the day before/the previous day |
-| tomorrow | the next day/the following day |
-| this week | that week |
-| last week | the week before/the previous week |
-| next week | the following week |
 | here | there |
-| this | that |
-| these | those |
+| today | that day |
+| tomorrow | the next day / the following day |
+| yesterday | the day before |
+| this week | that week |
+| next year | the following year |
 
-## 4\. Câu hỏi trong câu tường thuật
+### Ví dụ:
+- "I will call you **tomorrow**." → She said she would call me **the next day**.
+- "We are studying **here**." → He said they were studying **there**.
+</grammar>
 
-- Câu hỏi Yes/No: sử dụng "if" hoặc "whether"  
-  - "Are you happy?" → He asked if/whether I was happy.  
-- Câu hỏi Wh-: giữ từ để hỏi (what, where, why, when, how, who)  
-  - "Where do you live?" → She asked where I lived.
+<teacher_script pause="30">
+Nhớ nha — <eng>tomorrow → the next day, yesterday → the day before, now → then, here → there</eng>. 30 giây đọc lại bảng đi.
+</teacher_script>
 
-## 5\. Câu mệnh lệnh trong câu tường thuật
+<!-- chunk: grammar_questions -->
+<teacher_script pause="0">
+Phần 3 — câu tường thuật dạng câu hỏi. Có 2 loại: câu hỏi <eng>Yes/No</eng> và câu hỏi <eng>Wh-</eng>. Khác nhau một chút đó.
+</teacher_script>
 
-- Dùng động từ nguyên mẫu "to \+ verb"  
-  - "Stop talking\!" → The teacher told us to stop talking.  
-  - "Please help me." → She asked me to help her.  
-  - "Don't be late." → He told me not to be late.
+<grammar>
+## 3. Câu Tường Thuật — Yes/No Questions
 
-## Ví dụ:
+**Công thức:** S + asked + if/whether + S + V (lùi thì, KHÔNG đảo ngữ)
 
-1. "I am studying English." → She said (that) she was studying English.  
-2. "We have finished our homework." → They said (that) they had finished their homework.  
-3. "I will call you tomorrow." → He promised (that) he would call me the next day.  
-4. "Do you like chocolate?" → She asked if I liked chocolate.  
-5. "Where did you go last night?" → He asked where I had gone the previous night.  
-6. "Please wait for me." → She asked me to wait for her.  
-7. "Don't touch that\!" → He told me not to touch that.
+### Ví dụ:
+- "**Are** you ready?" → He asked **if** I **was** ready.
+- "**Will** schools have 3D lenses?" → She asked **if** schools **would** have 3D lenses.
+- "**Do** you use technology?" → He asked **if** I **used** technology.
 
-## Lưu ý:
+⚠️ Chú ý: KHÔNG đảo ngữ trong câu hỏi tường thuật — không viết "He asked if **was I** ready."
 
-- Từ "that" trong câu tường thuật có thể được bỏ qua.  
-- Nếu thông tin vẫn đúng ở thời điểm hiện tại, thì thời có thể không thay đổi.  
-  - "The Earth orbits the Sun." → He said (that) the Earth orbits the Sun.  
-- Khi động từ tường thuật là hiện tại (says, is saying), thời của động từ trong mệnh đề tường thuật không cần thay đổi.  
-  - "I am busy." → She says (that) she is busy.
+## 4. Câu Tường Thuật — Wh- Questions
 
-**Bài 1 trang 117** 
+**Công thức:** S + asked + question word + S + V (lùi thì, KHÔNG đảo ngữ)
 
-1 \- B. The robot will be able to mark our work.
+### Ví dụ:
+- "**Where do** you live?" → She asked **where** I **lived**.
+- "**What will** schools look like?" → She asked **what** schools **would** look like.
+- "**How can** robots help?" → She asked **how** robots **could** help.
+</grammar>
 
-→ My uncle said the robots would be able to mark our work.
+<teacher_script pause="30">
+Điểm quan trọng nhất: câu hỏi tường thuật KHÔNG đảo ngữ nha. Viết "She asked where I lived" — không phải "She asked where did I live". 30 giây đọc lại nha.
+</teacher_script>
 
-(Bác tôi nói rằng rô bốt sẽ có thể chấm bài.)
+<!-- chunk: grammar_commands -->
+<teacher_script pause="0">
+Phần 4 — câu tường thuật dạng mệnh lệnh — <eng>commands</eng>. Khi thuật lại lệnh của ai đó — dùng <eng>told + to V</eng> hoặc <eng>asked + to V</eng> nha.
+</teacher_script>
 
-2 \- A. The robots will be able to give us feedback too.
+<grammar>
+## 5. Câu Tường Thuật — Commands (Mệnh Lệnh)
 
-→ My uncle said the robots would be able to give us feedback too.
+**Dạng khẳng định:** S + told + (object) + **to + V**
+**Dạng phủ định:** S + told + (object) + **not to + V**
 
-(Bác tôi nói rô bốt cũng có thể đưa ra nhận xét.)
+### Ví dụ:
+- "Close the door." → He **told** me **to close** the door.
+- "Don't use your phone." → She **told** us **not to use** our phones.
+- "Please share your ideas." → He **asked** us **to share** our ideas.
 
-**Bài 2 trang 118** 
+💡 Dùng **told** cho lệnh, **asked** cho yêu cầu lịch sự (có "please").
+</grammar>
 
-1\. Minh said that he was a member of the IT club.
+<teacher_script pause="30">
+Nhớ: lệnh → <eng>told + to V / not to V</eng>. Yêu cầu lịch sự → <eng>asked + to V</eng>. 30 giây đọc lại đi.
+</teacher_script>
 
-(Minh nói rằng anh ấy là một thành viên của câu lạc bộ tin học.)
+<!-- chunk: exercise_1 -->
+<teacher_script pause="0">
+Bài 1 — đổi sang câu tường thuật — <eng>statements</eng>. Áp dụng công thức lùi thì và đổi đại từ nha.
+</teacher_script>
 
-2\. Nam said Mai would take an online course to improve her speaking.
+<task>
+**Đề:** Change these sentences to reported speech.
+**Dịch đề:** Đổi những câu này sang câu tường thuật.
+</task>
 
-(Nam nói rằng Mai muốn học một khóa học trực tuyến để cải thiện kĩ năng nói.)
+<questions type="complete_sentences">
+**1.** "I like technology." — She said...
+*"Tôi thích công nghệ." — Cô ấy nói...*
 
-3\. Tom said he was talking to Phong on the phone.
+**2.** "We will have robots in schools." — He said...
+*"Chúng tôi sẽ có robot trong trường học." — Anh ấy nói...*
 
-(Tom nói rằng cậu ấy đang nói chuyện với Phong trên điện thoại.)
+**3.** "I can do this experiment." — She said...
+*"Tôi có thể làm thí nghiệm này." — Cô ấy nói...*
 
-4\. He said they were going to send him an email.
+**4.** "The results are interesting." — He said...
+*"Kết quả thì thú vị." — Anh ấy nói...*
 
-(Anh ấy nói rằng họ đang gửi cho anh ấy một bức thư điện tử.)
+**5.** "I don't understand this." — She said...
+*"Tôi không hiểu cái này." — Cô ấy nói...*
+</questions>
 
-5\. She said that she didn't have an iPod to listen to music.
+<teacher_script pause="60">
+Làm bài 1 vô vở đi — 1 phút. Nhớ lùi thì và đổi đại từ nha!
+</teacher_script>
 
-(Cô ấy nói rằng cô ấy không có iPod để nghe nhạc.)
+<teacher_script pause="0">
+Đáp án bài 1!
+</teacher_script>
 
-**Bài 3 trang 118** 
+<answer>
+**Đáp án:**
+1. She said (that) she **liked** technology.
+2. He said (that) they **would have** robots in schools.
+3. She said (that) she **could do** that experiment.
+4. He said (that) the results **were** interesting.
+5. She said (that) she **didn't understand** that.
+</answer>
 
-1. tomorrow  → the next day   
-2. now → then   
-3. today→ that day   
-4. this year → that year   
-5. here → there 
+<explanation>
+**Câu 1:** "like" (hiện tại đơn) → "liked" (quá khứ đơn). "I" → "she". Đơn giản nhất trong 5 câu nha.
 
-**Bài 4 trang 118**
+**Câu 2:** "will have" → "would have". "We" → "they". Chú ý "this" → "that" không bắt buộc nhưng "would" là bắt buộc phải đổi.
 
-1\. The scientist said that they would live much longer in the future.
+**Câu 3:** "can do" → "could do". "I" → "she". "this experiment" có thể đổi thành "that experiment" — đổi cho chuẩn hơn.
 
-(Các nhà khoa học nói rằng chúng ta sẽ sống lâu hơn trong tương lai.)
+**Câu 4:** "are" (to be số nhiều) → "were". Chủ ngữ "the results" không đổi vì không phải đại từ.
 
-2\. Our teacher said that our school was going to have a new laboratory there.
+**Câu 5:** "don't understand" → "didn't understand". "I" → "she". "this" → "that" nha.
+</explanation>
 
-(Giáo viên của chúng tôi nói rằng trường chúng tôi có một phòng thí nghiệm ở đây.)
+<!-- chunk: exercise_2 -->
+<teacher_script pause="0">
+Bài 2 — câu hỏi <eng>Yes/No</eng> tường thuật. Dùng <eng>asked if/whether</eng> và đừng đảo ngữ nha!
+</teacher_script>
 
-3\. My dad said that they were developing technology to monitor students better.
+<task>
+**Đề:** Change these Yes/No questions to reported speech.
+**Dịch đề:** Đổi các câu hỏi Yes/No sang câu tường thuật.
+</task>
 
-(Bố tôi nói rằng họ đang phát triển công nghệ để giám sát học sinh tốt hơn.)
+<questions type="complete_sentences">
+**1.** "Do you use face recognition?" — He asked...
+*"Bạn có dùng nhận dạng khuôn mặt không?" — Anh ấy hỏi...*
 
-4\. Tom said that there were no classes the next day because their teacher was ill.
+**2.** "Will schools have 3D lenses?" — She asked...
+*"Các trường học có dùng kính 3D không?" — Cô ấy hỏi...*
 
-(Tom nói rằng sẽ không có tiết vào ngày mai vì giáo viên bị ốm.)
+**3.** "Are robots in your school?" — He asked...
+*"Có robot trong trường của bạn không?" — Anh ấy hỏi...*
+</questions>
 
-5\. The teacher said that she wanted some students to join the science club the following semester.
+<teacher_script pause="60">
+Làm bài 2 — 1 phút. Nhớ: dùng <eng>if/whether</eng> và KHÔNG đảo ngữ!
+</teacher_script>
 
-(Giáo viên nói rằng cô ấy muốn có vài học sinh tham gia câu lạc bộ khoa học vào học kì tới.)
+<teacher_script pause="0">
+Đáp án bài 2!
+</teacher_script>
+
+<answer>
+**Đáp án:**
+1. He asked **if** I **used** face recognition.
+2. She asked **if** schools **would have** 3D lenses.
+3. He asked **if** robots **were** in my school.
+</answer>
+
+<explanation>
+**Câu 1:** "Do you use" → câu hỏi Yes/No → dùng "if". "do use" → "used" (lùi thì). "you" → "I". Không đảo ngữ: "if I used" ✓ — KHÔNG viết "if did I use" ✗.
+
+**Câu 2:** "Will schools have" → "if schools would have". "will" → "would". Chú ý chủ ngữ "schools" không đổi vì không phải đại từ.
+
+**Câu 3:** "Are robots in your school" → "if robots were in my school". "are" → "were". "your" → "my" vì người hỏi đang nói về trường của tôi. KHÔNG đảo ngữ nha!
+</explanation>
+
+<!-- chunk: exercise_3 -->
+<teacher_script pause="0">
+Bài 3 — câu hỏi <eng>Wh-</eng> tường thuật. Dùng từ để hỏi + S + V. Không đảo ngữ nhé!
+</teacher_script>
+
+<task>
+**Đề:** Change these Wh- questions to reported speech.
+**Dịch đề:** Đổi các câu hỏi Wh- sang câu tường thuật.
+</task>
+
+<questions type="complete_sentences">
+**1.** "What will schools look like?" — She asked...
+*"Trường học sẽ trông như thế nào?" — Cô ấy hỏi...*
+
+**2.** "Where do you study?" — He asked...
+*"Bạn học ở đâu?" — Anh ấy hỏi...*
+
+**3.** "How can robots help teachers?" — She asked...
+*"Robot có thể giúp giáo viên như thế nào?" — Cô ấy hỏi...*
+</questions>
+
+<teacher_script pause="60">
+Làm bài 3 — 1 phút. Nhớ: từ để hỏi đứng đầu, rồi S + V. Không đảo ngữ!
+</teacher_script>
+
+<teacher_script pause="0">
+Đáp án bài 3!
+</teacher_script>
+
+<answer>
+**Đáp án:**
+1. She asked **what** schools **would** look like.
+2. He asked **where** I **studied**.
+3. She asked **how** robots **could** help teachers.
+</answer>
+
+<explanation>
+**Câu 1:** Giữ nguyên từ để hỏi "what". "will look" → "would look". "schools" không đổi. Không đảo ngữ: "what schools would look like" ✓ — KHÔNG viết "what would schools look like" ✗.
+
+**Câu 2:** Giữ "where". "do you study" → "I studied". "you" → "I". Lùi thì: "do study" → "studied". Cấu trúc: where + I + studied.
+
+**Câu 3:** Giữ "how". "can help" → "could help". Robots không đổi vì là danh từ. Cấu trúc: how + robots + could help.
+</explanation>
+
+<!-- chunk: exercise_4 -->
+<teacher_script pause="0">
+Bài 4 — câu mệnh lệnh tường thuật. Dùng <eng>told + to V</eng> hoặc <eng>told + not to V</eng> nha.
+</teacher_script>
+
+<task>
+**Đề:** Change these commands to reported speech.
+**Dịch đề:** Đổi các câu mệnh lệnh sang câu tường thuật.
+</task>
+
+<questions type="complete_sentences">
+**1.** "Study hard for the test." — The teacher told us...
+*"Học chăm chỉ cho bài kiểm tra." — Giáo viên bảo chúng tôi...*
+
+**2.** "Don't use your phones in class." — She told us...
+*"Đừng dùng điện thoại trong lớp." — Cô ấy bảo chúng tôi...*
+
+**3.** "Please share your ideas." — He asked us...
+*"Xin hãy chia sẻ ý kiến của bạn." — Anh ấy yêu cầu chúng tôi...*
+</questions>
+
+<teacher_script pause="60">
+Làm bài 4 — 1 phút. Lệnh khẳng định → <eng>to V</eng>. Lệnh phủ định → <eng>not to V</eng>. Yêu cầu lịch sự → <eng>asked to V</eng>. Xong!
+</teacher_script>
+
+<teacher_script pause="0">
+Đáp án bài 4!
+</teacher_script>
+
+<answer>
+**Đáp án:**
+1. The teacher told us **to study** hard for the test.
+2. She told us **not to use** our phones in class.
+3. He asked us **to share** our ideas.
+</answer>
+
+<explanation>
+**Câu 1:** Lệnh khẳng định "Study hard" → "told us to study hard". Không lùi thì với dạng này vì dùng "to V" nguyên thể. Chủ ngữ "us" là tân ngữ sau "told".
+
+**Câu 2:** Lệnh phủ định "Don't use" → "told us not to use". "your phones" → "our phones" vì đang nói về điện thoại của chúng tôi. Nhớ "not to use" — không phải "to not use" hay "don't to use" nha.
+
+**Câu 3:** Yêu cầu lịch sự (có "please") → dùng "asked" thay vì "told". "Please share" → "asked us to share". Lịch sự hơn khi dùng "asked" nha.
+</explanation>
 
 <!-- chunk: end -->
-<teacher_script pause="0" href="audio/tts_ba688992.mp3">
-Bài học hôm nay kết thúc tại đây. Các em nhớ ôn bài và chuẩn bị cho bài học tiếp theo. Tạm biệt các em.
+<teacher_script pause="0">
+<eng>A Closer Look 2</eng> xong rồi nha! Hôm nay học câu tường thuật đủ 4 dạng: câu trần thuật, câu hỏi Yes/No, câu hỏi Wh-, và câu mệnh lệnh. Nhớ 3 điều quan trọng: lùi thì, đổi đại từ, và câu hỏi KHÔNG đảo ngữ. Tiết sau học <eng>Communication</eng> nha. Học tốt lớp!
 </teacher_script>

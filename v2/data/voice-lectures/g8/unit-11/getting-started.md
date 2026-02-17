@@ -1,132 +1,213 @@
-# G8 UNIT-11 GETTING STARTED
-
-<!-- chunk: intro -->
-<teacher_script pause="0" href="audio/tts_fd00461e.mp3">
-Chào các em. Chào mừng các em đến với bài học hôm nay. Mời các em mở sách giáo khoa.
-</teacher_script>
+# UNIT 11: SCIENCE AND TECHNOLOGY
+## GETTING STARTED - Future Schools
 
 <!-- chunk: vocabulary -->
-<teacher_script pause="0" href="audio/tts_c0841176.mp3">
-Chúng ta cùng học từ vựng mới. Các em hãy nghe và lặp lại theo mẫu nhé.
+<teacher_script pause="0">
+Ok lớp 8, Unit 11 nha — <eng>Science and Technology</eng>. Bài đầu tiên là <eng>Getting Started</eng>, chủ đề trường học trong tương lai đó. Nghe hay lắm á! Mở sách ra, ghi tựa bài. Rồi bấm "Bắt đầu" để học từ vựng. Máy đọc, các em đọc theo. Xong làm bài trắc nghiệm rồi ghi từ vô tập nha.
 </teacher_script>
 
 <vocabulary>
-**Vocabulary**
-1. **yesterday's lesson** : bài học hôm qua /ˈjestədeɪz ˈlesn/
-2. **face-to-face classes** : các lớp học trực tiếp /feɪs tə feɪs ˈklɑːsɪz/
-3. **convenient** : (adj) thuận tiện, tiện lợi /kənˈviːniənt/
-4. **epidemics** : (n) dịch bệnh /ˌepɪˈdemɪks/
-5. **interact** : (v) tương tác /ˌɪntərˈækt/
-6. **breakout room** : phòng thảo luận nhóm nhỏ /ˈbreɪkaʊt ruːm/
-7. **enough** : (adj/adv) đủ /ɪˈnʌf/
-8. **in front of** : trước mặt /ɪn frʌnt ɒv/
-9. **computer screen** : màn hình máy tính /kəmˈpjuːtə skriːn/
-10. **I know what you mean** : tôi hiểu ý bạn /aɪ nəʊ wɒt juː miːn/
-11. **great news for us** : tin tốt cho chúng ta /ɡreɪt njuːz fɔːr ʌs/
-12. **3D contact lenses** : kính áp tròng 3D /θriː diː ˈkɒntækt ˈlenzɪz/
-13. **soon** : (adv) sớm, chẳng bao lâu nữa /suːn/
-14. **available** : (adj) có sẵn, khả dụng /əˈveɪləbl/
-15. **helpful invention** : phát minh hữu ích /ˈhelpfʊl ɪnˈvenʃn/
-16. **get ill** : bị ốm /ɡet ɪl/
-17. **be able to** : có thể /bi ˈeɪbl tuː/
-18. **mark our work** : chấm bài của chúng ta /mɑːk ˈaʊə wɜːk/
-19. **give us feedback** : cho chúng ta phản hồi /ɡɪv ʌs ˈfiːdbæk/
-20. **fantastic** : (adj) tuyệt vời, tuyệt diệu /fænˈtæstɪk/
+1. **face-to-face classes** : (n) học trực tiếp /feɪs tə feɪs ˈklɑːsɪz/
+2. **convenient** : (adj) tiện lợi /kənˈviːniənt/
+3. **epidemic** : (n) dịch bệnh /ˌepɪˈdemɪk/
+4. **interact** : (v) tương tác /ˌɪntərˈækt/
+5. **breakout room** : (n) phòng nhóm nhỏ (trực tuyến) /ˈbreɪkaʊt ruːm/
+6. **computer screen** : (n) màn hình máy tính /kəmˈpjuːtər skriːn/
+7. **I know what you mean** : (phrase) tôi hiểu ý bạn /aɪ nəʊ wɒt juː miːn/
+8. **great news** : (phrase) tin tuyệt vời /ɡreɪt njuːz/
+9. **3D contact lenses** : (n) kính áp tròng 3D /θriː diː ˈkɒntækt ˈlenzɪz/
+10. **available** : (adj) có sẵn /əˈveɪləbl/
+11. **helpful invention** : (n) phát minh hữu ích /ˈhelpfəl ɪnˈvenʃən/
+12. **get ill** : (phrase) bị bệnh /ɡet ɪl/
+13. **be able to** : (phrase) có thể /biː ˈeɪbl tə/
+14. **mark our work** : (phrase) chấm bài cho chúng tôi /mɑːk aʊər wɜːk/
+15. **give feedback** : (phrase) đưa phản hồi /ɡɪv ˈfiːdbæk/
+16. **fantastic** : (adj) tuyệt vời /fænˈtæstɪk/
+17. **yesterday's lesson** : (n) bài học hôm qua /ˈjestədeɪz ˈlesən/
+18. **soon** : (adv) sắp, chẳng bao lâu nữa /suːn/
 </vocabulary>
 
-<!-- chunk: audio -->
-<teacher_script pause="0" href="audio/tts_c08c1d7b.mp3">
-Bây giờ các em sẽ nghe một đoạn băng. Hãy chú ý lắng nghe để tìm thông tin trả lời câu hỏi.
+<teacher_script pause="0">
+Từ vựng xong rồi nha. Giờ mình đọc hội thoại — Phong và Vy đang nói về trường học tương lai đó. Đọc và dịch theo nha.
 </teacher_script>
 
-<audio src="https://img.loigiaihay.com/picture/2023/0804/track-68.mp3">
-**Audio:** Getting Started
-</audio>
-
-<!-- chunk: content -->
-<teacher_script pause="0" href="audio/tts_d5b1d729.mp3">
-Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
+<!-- chunk: dialogue -->
+<teacher_script pause="0">
+Bài 1 <eng>Listen and read</eng> nha. Phong vừa xem một bộ phim tài liệu về trường học tương lai và kể cho Vy nghe. Xem họ nói gì nào!
 </teacher_script>
 
-**UNIT 11: SCIENCE AND TECHNOLOGY****
+<dialogue>
+| English | Vietnamese |
+|---------|------------|
+| **Phong:** Hey Vy, I watched a documentary about schools in the future last night. It was amazing! | **Phong:** Này Vy, tối qua tớ đã xem một bộ phim tài liệu về trường học trong tương lai. Tuyệt vời lắm! |
+| **Vy:** Really? What did it say? | **Vy:** Thật à? Nó nói gì vậy? |
+| **Phong:** Well, face-to-face classes are still important because students can interact with each other and with teachers better. But online learning is really convenient, especially during an epidemic. | **Phong:** À, học trực tiếp vẫn quan trọng vì học sinh có thể tương tác với nhau và với giáo viên tốt hơn. Nhưng học trực tuyến thật tiện lợi, đặc biệt là trong mùa dịch. |
+| **Vy:** I know what you mean — but looking at a computer screen all day is so tiring! | **Vy:** Tớ hiểu ý cậu — nhưng nhìn vào màn hình máy tính cả ngày mệt lắm! |
+| **Phong:** True. But soon, 3D contact lenses will be available. Imagine wearing them and seeing holographic teachers right in front of you! | **Phong:** Đúng vậy. Nhưng chẳng bao lâu nữa, kính áp tròng 3D sẽ có sẵn. Hãy tưởng tượng đeo chúng vào và nhìn thấy giáo viên hologram ngay trước mặt! |
+| **Vy:** That's fantastic! Will robots be able to mark our work too? | **Vy:** Tuyệt vời thật! Robot có thể chấm bài cho chúng mình không? |
+| **Phong:** Scientists say yes — robots can even give feedback on our writing. How cool is that! | **Phong:** Các nhà khoa học nói được đó — robot còn có thể đưa phản hồi về bài viết của chúng mình nữa. Thật tuyệt! |
+| **Vy:** Great news for us! But I still prefer real teachers — they understand us better, don't you think? | **Vy:** Tin tuyệt vời cho chúng mình! Nhưng tớ vẫn thích giáo viên thật hơn — họ hiểu chúng mình hơn, cậu không nghĩ vậy sao? |
+| **Phong:** I agree. Technology helps, but it can't replace a good teacher. | **Phong:** Tớ đồng ý. Công nghệ hỗ trợ, nhưng không thể thay thế một giáo viên giỏi được. |
+</dialogue>
 
-**GETTING STARTED** 
+<teacher_script pause="180">
+Dịch hội thoại này vô vở nha. Chú ý mấy từ vựng đã học — <eng>interact, convenient, epidemic, 3D contact lenses, feedback</eng>. 3 phút đó, bắt đầu!
+</teacher_script>
 
-Ann: Tôi thích học trực tiếp ở lớp hơn. Tôi muốn được tương tác với bạn cùng lớp trong buổi học.
+<!-- chunk: exercise_2 -->
+<teacher_script pause="0">
+Bài 2 — Đúng hay Sai dựa vào hội thoại. Đọc kỹ từng câu nha, đừng đoán mò!
+</teacher_script>
 
-Minh: Tôi nghĩ là lớp học trực tuyến tiện ích trong những lúc thời tiết xấu hay dịch bệnh. Hơn nữa, học sinh vẫn có thể tương tác khi họ ở trong các nhóm nhỏ.
+<task>
+**Đề:** Read the dialogue again. Write T (True) or F (False).
+**Dịch đề:** Đọc lại hội thoại. Viết T (Đúng) hoặc F (Sai).
+</task>
 
-Ann: Nhưng kết nối mạng không phải lúc nào cũng đủ ổn định để có thể học tập trực tuyến. Và mắt tôi mệt mỏi khi tôi làm việc trước màn hình máy tính trong một thời gian dài.
+<questions type="true_false">
+**1.** Face-to-face classes are still important in the future.
+*Học trực tiếp vẫn còn quan trọng trong tương lai.*
 
-Minh: Tôi hiểu ý bạn. Nhưng có tin tốt cho chúng ta đây. Sẽ sớm có kính áp tròng 3 chiều thôi. Với chúng thì bạn có thể nhìn màn hình máy tính cả ngày mà mắt không bị mỏi.
+**2.** Vy thinks looking at a computer screen all day is exciting.
+*Vy nghĩ nhìn màn hình máy tính cả ngày rất thú vị.*
 
-Ann: Quào, thật tuyệt vời\!
+**3.** 3D contact lenses will be available soon.
+*Kính áp tròng 3D sẽ sớm có sẵn.*
 
-Minh: Một sáng chế hữu ích khác là giáo viên rô bốt. Chúng sẽ dạy chúng ta khi giáo viên thật của chúng ta không thể đến lớp hay bị ốm. Bác tôi nói rằng những con rô bốt đó có thể chấm điểm bài làm và đưa ra nhận xét luôn.
+**4.** Robots can mark students' work and give feedback.
+*Robot có thể chấm bài và đưa phản hồi cho học sinh.*
 
-Ann: Hay quá, tôi không thể đợi được nữa.
+**5.** Vy prefers learning with robots over real teachers.
+*Vy thích học với robot hơn là với giáo viên thật.*
+</questions>
 
-**Bài 2 trang 115** 
+<teacher_script pause="60">
+Làm bài 2 đi nha — 1 phút. Đọc lại hội thoại nếu cần.
+</teacher_script>
 
-1\. F Hôm qua Ann và Minh có lớp học trực tiếp.
+<teacher_script pause="0">
+Ok đáp án nè!
+</teacher_script>
 
-2\. T Ann thích lớp học trực tuyến vì cô ấy có thể tương tác với các bạn cùng lớp.
+<answer>
+**Đáp án:**
+1. **T** — Đúng
+2. **F** — Sai
+3. **T** — Đúng
+4. **T** — Đúng
+5. **F** — Sai
+</answer>
 
-3\. F Minh thấy các buổi học trực tuyến không tiện lợi.
+<explanation>
+**Câu 1 — T:** Phong nói "face-to-face classes are **still important**" — vẫn còn quan trọng. Đúng nha.
 
-4\. T Khi học sinh dùng kính áp tròng 3 chiều, mắt họ sẽ không bị mỏi.
+**Câu 2 — F:** Vy nói "looking at a computer screen all day is so **tiring**" — mệt mỏi, không phải thú vị (<eng>exciting</eng>). Nên câu này SAI.
 
-5\. T Giáo viên rô bốt sẽ có thể chấm bài và nhận xét bài làm của học sinh.
+**Câu 3 — T:** Phong nói "**soon**, 3D contact lenses will be **available**" — chẳng bao lâu nữa sẽ có. Đúng luôn.
 
-**Bài 3 trang 115** 
+**Câu 4 — T:** Phong nói "robots can **mark our work** and even **give feedback** on our writing" — đúng hoàn toàn nha.
 
-1\. computer screen: màn hình máy tính
+**Câu 5 — F:** Vy nói "I still **prefer real teachers**" — vẫn thích giáo viên thật hơn, không phải robot. Nên câu này SAI.
+</explanation>
 
-2\. 3D contact lenses: kính áp tròng 3 chiều
+<!-- chunk: exercise_3 -->
+<teacher_script pause="0">
+Bài 3 — điền từ vào chỗ trống nha. Chọn từ trong ô đã cho, điền vào câu cho đúng nghĩa.
+</teacher_script>
 
-3\. online class: lớp học trực tuyến
+<task>
+**Đề:** Fill in the blanks with the correct words from the box.
+**Dịch đề:** Điền từ thích hợp từ ô vào chỗ trống.
 
-4\. robot teacher: giáo viên người máy
+**Word box:** *interact / convenient / epidemic / feedback / available*
+</task>
 
-5\. breakout rooms: phòng chia nhóm
+<questions type="fill_blanks">
+**1.** Students can _______ better in face-to-face lessons.
+*Học sinh có thể _______ tốt hơn trong các buổi học trực tiếp.*
 
-6\. Internet connection: kết nối mạng
+**2.** Online learning is _______ when you cannot go to school.
+*Học trực tuyến rất _______ khi bạn không thể đến trường.*
 
-**Bài 4 trang 115** 
+**3.** Many schools closed during the _______ last year.
+*Nhiều trường học đóng cửa trong _______ năm ngoái.*
 
-1\. I can't see the documents on this computer very clearly. I need a larger computer screen.
+**4.** The teacher gave helpful _______ on my essay.
+*Giáo viên đã đưa ra _______ hữu ích về bài luận của tôi.*
 
-Mình không thể xem được tài liệu này rõ ràng trên máy tính. Mình cần một màn hình lớn hơn.
+**5.** 3D contact lenses are not yet _______ to the public.
+*Kính áp tròng 3D chưa _______ cho công chúng.*
+</questions>
 
-2\. During our lessons, our teacher puts us into breakout rooms for group discussions.
+<teacher_script pause="60">
+Điền từ vào bài 3 đi — 1 phút nha. Nhớ đọc cả câu trước khi điền đó.
+</teacher_script>
 
-Trong giờ học, giáo viên đưa chúng tôi vào các phòng chia nhỏ để thảo luận nhóm.
+<teacher_script pause="0">
+Đáp án bài 3 nè!
+</teacher_script>
 
-3\. A robot teacher in Korea teaches English to primary students.
+<answer>
+**Đáp án:**
+1. **interact**
+2. **convenient**
+3. **epidemic**
+4. **feedback**
+5. **available**
+</answer>
 
-Một giáo viên người máy dạy tiếng Anh cho các học sinh tiểu học.
+<explanation>
+**Câu 1 — interact (tương tác):** Học trực tiếp giúp học sinh "tương tác" với nhau tốt hơn — <eng>interact</eng> đi với <eng>with</eng> nha.
 
-4\. We had a(n) online class yesterday with a teacher in the US
+**Câu 2 — convenient (tiện lợi):** Khi không đến trường được — học online "tiện lợi" — <eng>convenient</eng> là tính từ, đứng sau <eng>is</eng>.
 
-Mình có một buổi học trực tuyến với một giáo viên người Mỹ hôm qua.
+**Câu 3 — epidemic (dịch bệnh):** "Dịch bệnh" năm ngoái — <eng>epidemic</eng>. Nhớ không phải <eng>pandemic</eng> — đó là dịch toàn cầu, còn <eng>epidemic</eng> thường nhỏ hơn nha.
 
-5\. Can I wear 3D contact lenses and watch a movie too?
+**Câu 4 — feedback (phản hồi):** Giáo viên "đưa phản hồi" về bài viết — <eng>give feedback</eng> là cụm hay gặp lắm đó.
 
-Mình có thể vừa đeo kính áp tròng 3 chiều và xem phim không?
+**Câu 5 — available (có sẵn):** Kính áp tròng 3D chưa "có sẵn" cho công chúng — <eng>available to the public</eng> là cụm cố định nha.
+</explanation>
 
-**Bài 5 trang 115** 
+<!-- chunk: exercise_4 -->
+<teacher_script pause="0">
+Bài 4 — <eng>Speaking</eng> nha. Thảo luận theo nhóm về câu hỏi này: "Trường học sẽ trông như thế nào trong 20 năm nữa?" Dùng những ý đã học hôm nay nha.
+</teacher_script>
 
-1\. 1822: Charles Babbage sáng chế ra thứ này. Học sinh dùng nó để gõ các bài luận và học tập trực tuyến.
+<task>
+**Đề:** Discuss with a partner: "What will schools look like in 20 years?"
+**Dịch đề:** Thảo luận cùng bạn: "Trường học sẽ trông như thế nào trong 20 năm nữa?"
 
-2\. 1876: Alexander Graham Bell phát minh ra nó. Chúng ta dùng nó để giao tiếp với gia đình và bạn bè.
+Use these ideas to help you:
+- 3D contact lenses / robots / face recognition
+- face-to-face vs online learning
+- technology in classrooms
+</task>
 
-3\. 1928: Ngài Alexander Fleming khám phá ra nó. Đó là thuốc kháng sinh đầu tiên trên thế giới.
+<questions type="speaking">
+**Discussion questions:**
 
-4\. 1989: Tim Berners-Lee phát minh ra nó. Nó liên kết các nguồn thông tin nên mọi người có thể trụy cập chúng.
+**1.** Will students still go to school in 20 years, or learn entirely online?
+*20 năm nữa học sinh có còn đến trường không, hay học hoàn toàn trực tuyến?*
 
-5\. 2000: Honda phát triển nó. Nó có thể chạy, nhảy và làm việc như một người pha chế.
+**2.** What technology do you think will be used in future classrooms?
+*Em nghĩ công nghệ gì sẽ được dùng trong lớp học tương lai?*
+
+**3.** Will robots replace teachers? Why or why not?
+*Robot có thay thế giáo viên không? Tại sao?*
+</questions>
+
+<teacher_script pause="60">
+Thảo luận theo cặp nha — mỗi câu 30 giây. Nói tiếng Anh nghe. Bắt đầu đi!
+</teacher_script>
+
+<answer>
+**Gợi ý trả lời:**
+1. "I think students will still go to school, but they will also use 3D technology at home."
+2. "Future classrooms will have robots, face recognition cameras, and 3D holograms."
+3. "I don't think robots will replace teachers because teachers understand our feelings."
+</answer>
 
 <!-- chunk: end -->
-<teacher_script pause="0" href="audio/tts_ba688992.mp3">
-Bài học hôm nay kết thúc tại đây. Các em nhớ ôn bài và chuẩn bị cho bài học tiếp theo. Tạm biệt các em.
+<teacher_script pause="0">
+Ok bài <eng>Getting Started</eng> Unit 11 xong rồi nha! Hôm nay học được từ vựng về trường học tương lai, hội thoại giữa Phong và Vy, và thảo luận về công nghệ. Tiết sau học tiếp <eng>A Closer Look 1</eng> nha. Học tốt lớp!
 </teacher_script>

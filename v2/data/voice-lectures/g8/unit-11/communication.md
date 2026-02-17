@@ -1,98 +1,171 @@
-# G8 UNIT-11 COMMUNICATION
-
-<!-- chunk: intro -->
-<teacher_script pause="0" href="audio/tts_fd00461e.mp3">
-Chào các em. Chào mừng các em đến với bài học hôm nay. Mời các em mở sách giáo khoa.
-</teacher_script>
+# UNIT 11: SCIENCE AND TECHNOLOGY
+## COMMUNICATION - Expressing Enthusiasm & Online Learning
 
 <!-- chunk: vocabulary -->
-<teacher_script pause="0" href="audio/tts_c0841176.mp3">
-Chúng ta cùng học từ vựng mới. Các em hãy nghe và lặp lại theo mẫu nhé.
+<teacher_script pause="0">
+Ok lớp 8, bài <eng>Communication</eng> Unit 11 nha. Hôm nay học cách bày tỏ sự phấn khích khi nghe tin tốt, và thảo luận về ưu nhược điểm của học trực tuyến nữa. Mở sách ra, ghi tựa bài đi. Bấm "Bắt đầu" học từ vựng — máy đọc, các em đọc theo, xong làm trắc nghiệm rồi ghi từ vô tập nha.
 </teacher_script>
 
 <vocabulary>
-**Vocabulary**
-1. **great news for us** : tin tuyệt vời cho chúng ta /ɡreɪt njuːz fɔː(r) ʌs/
-2. **great** : (adj) tuyệt vời, to lớn, vĩ đại /ɡreɪt/
-3. **congratulations** : (n) lời chúc mừng, sự chúc mừng /kənˌɡrætʃʊˈleɪʃnz/
-4. **vending machine** : (n) máy bán hàng tự động /ˈvendɪŋ məˈʃiːn/
-5. **complain** : (v) phàn nàn, than phiền /kəmˈpleɪn/
-6. **poor connection** : kết nối kém /pʊə(r) kəˈnekʃn/
-7. **video conferencing** : hội nghị truyền hình /ˈvɪdiəʊ ˈkɒnfərənsɪŋ/
-8. **convenient** : (adj) thuận tiện, tiện lợi /kənˈviːniənt/
-9. **independent** : (adj) độc lập, tự lập /ˌɪndɪˈpendənt/
-10. **share ideas** : chia sẻ ý tưởng /ʃeə(r) aɪˈdɪəz/
-11. breakout room: phòng họp nhỏ (trong cuộc họp trực tuyến) /ˈbreɪkaʊt ruːm/
-12. **avoid** : (v) tránh, tránh né /əˈvɔɪd/
-13. **high security** : an ninh cao /haɪ sɪˈkjʊərəti/
-14. **multi-functional** : (adj) đa chức năng /ˌmʌltiˈfʌŋkʃənl/
+1. **great news** : (phrase) tin tuyệt vời /ɡreɪt njuːz/
+2. **congratulations** : (excl) chúc mừng /kənˌɡrætʃuˈleɪʃənz/
+3. **vending machine** : (n) máy bán hàng tự động /ˈvendɪŋ məˈʃiːn/
+4. **poor connection** : (n) kết nối kém /pɔːr kəˈnekʃən/
+5. **video conferencing** : (n) hội nghị truyền hình /ˈvɪdiəʊ ˈkɒnfərənsɪŋ/
+6. **convenient** : (adj) tiện lợi /kənˈviːniənt/
+7. **independent** : (adj) tự lập /ˌɪndɪˈpendənt/
+8. **share ideas** : (phrase) chia sẻ ý kiến /ʃeər aɪˈdɪəz/
+9. **breakout room** : (n) phòng nhóm nhỏ (trực tuyến) /ˈbreɪkaʊt ruːm/
+10. **avoid** : (v) tránh /əˈvɔɪd/
+11. **high security** : (n) bảo mật cao /haɪ sɪˈkjʊərɪti/
+12. **multi-functional** : (adj) đa chức năng /ˌmʌltɪˈfʌŋkʃənəl/
 </vocabulary>
 
-<!-- chunk: content -->
-<teacher_script pause="0" href="audio/tts_d5b1d729.mp3">
-Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
+<teacher_script pause="0">
+Từ vựng xong rồi nha. Bây giờ học cách nói tin tức hay ho cho bạn bè nghe — tiếng Anh dùng mấy câu đặc biệt lắm đó.
 </teacher_script>
 
-**UNIT 11: SCIENCE AND TECHNOLOGY****
+<!-- chunk: language_focus -->
+<teacher_script pause="0">
+Phần ngôn ngữ — cách bày tỏ sự phấn khích và chúc mừng về tin tức công nghệ. Học 2 nhóm: cách chia sẻ tin tốt và cách phản ứng lại nhé.
+</teacher_script>
 
-**COMMUNICATION** 
+<grammar>
+## Bày Tỏ Sự Phấn Khích / Tin Tức Tốt
 
-**Bài 1 trang 119** 
+### Chia sẻ tin tốt:
+| Câu | Nghĩa |
+|---|---|
+| **Guess what!** | Đoán xem! |
+| **Have you heard?** | Bạn đã nghe chưa? |
+| **Great news!** | Tin tuyệt vời! |
+| **I've just found out that...** | Tôi vừa biết rằng... |
 
-Nick: Tin tốt cho chúng ta đây. Chúng ta sẽ có lưu trữ đám mây của trường nên chúng ta sẽ không phải cầm nhiều sách đến trường.
+### Phản ứng với tin tốt:
+| Câu | Nghĩa |
+|---|---|
+| **That's amazing!** | Thật tuyệt vời! |
+| **Wow, really?** | Wow, thật á? |
+| **Congratulations!** | Chúc mừng! |
+| **That's fantastic!** | Quá tuyệt! |
+| **I can't believe it!** | Tôi không thể tin được! |
+</grammar>
 
-Mi: Tuyệt\!
+<teacher_script pause="30">
+Nhớ nha — "Guess what!" dùng khi muốn làm cho người nghe tò mò trước. "Have you heard?" thì hỏi xem họ đã biết chưa. Cả hai đều bắt đầu cuộc trò chuyện về tin tức hay ho. 30 giây đọc lại đi.
+</teacher_script>
 
-Nick: Và mình đã thắng giải nhất trong cuộc thi viết luận và có một cái máy tính bảng nên mình có để đọc sách từ lưu trữ đám mây của trường.
+<!-- chunk: dialogue -->
+<teacher_script pause="0">
+Bài 1 — nghe hội thoại Hoa và Nam nha. Hoa có tin tức mới về trường học. Đọc và chú ý cách họ chia sẻ và phản ứng với tin tức.
+</teacher_script>
 
-Mi: Chúc mừng cậu\!
+<dialogue>
+| English | Vietnamese |
+|---------|------------|
+| **Hoa:** Guess what, Nam? I've just heard some amazing news about our school! | **Hoa:** Đoán xem, Nam ơi? Tớ vừa nghe được tin tuyệt vời về trường mình! |
+| **Nam:** Really? Tell me! What is it? | **Nam:** Thật á? Kể nghe đi! Cái gì vậy? |
+| **Hoa:** Our school just got brand new smart tablets for every student! Great news, right? | **Hoa:** Trường mình vừa có máy tính bảng thông minh mới cho mỗi học sinh! Tin tuyệt vời phải không? |
+| **Nam:** Wow, that's amazing! We've been waiting for this for so long. | **Nam:** Wow, thật tuyệt vời! Chúng mình đã chờ điều này lâu rồi. |
+| **Hoa:** And there's more! They've also installed vending machines in the corridors. No more queuing at the canteen! | **Hoa:** Và còn nữa! Họ còn lắp máy bán hàng tự động ở hành lang nữa. Không còn phải xếp hàng ở căng-tin nữa! |
+| **Nam:** That's fantastic! I hate waiting in those long lines. But wait — I hope the wi-fi connection doesn't break down again. | **Nam:** Quá tuyệt! Tớ ghét xếp hàng dài lắm. Nhưng mà — tớ hy vọng kết nối wi-fi không bị ngắt nữa. |
+| **Hoa:** Don't worry! They installed a new high-security, multi-functional internet system. The connection will be much better now. | **Hoa:** Yên tâm đi! Họ đã lắp hệ thống internet bảo mật cao, đa chức năng mới rồi. Kết nối sẽ tốt hơn nhiều. |
+| **Nam:** Congratulations to our school! This is going to make learning so much better. | **Nam:** Chúc mừng trường mình! Điều này sẽ giúp việc học tốt hơn nhiều lắm. |
+</dialogue>
 
-**Bài 2 trang 118** 
+<teacher_script pause="180">
+Dịch hội thoại này vô vở nha. Gạch chân những câu chia sẻ tin tốt và câu phản ứng. 3 phút đó, bắt đầu!
+</teacher_script>
 
-1\. You tell your classmate about the new vending machine at your school.
+<!-- chunk: exercise_2 -->
+<teacher_script pause="0">
+Bài 2 — điền bảng ưu nhược điểm của học trực tuyến nha. Đây là chủ đề hay gặp trong bài viết và thảo luận đó. Nghĩ kỹ rồi điền vào.
+</teacher_script>
 
-(Bạn nói với bạn cùng lớp về máy bán hàng tự động ở trường.)
+<task>
+**Đề:** Complete the pros and cons table about online learning.
+**Dịch đề:** Hoàn thành bảng ưu và nhược điểm về học trực tuyến.
+</task>
 
-A: Great news for us. Our school has the new vending machine.
+<questions type="matching">
+**Điền vào bảng:** Phân loại những đặc điểm sau thành Ưu điểm hoặc Nhược điểm.
 
-(Tin tốt cho chúng ta đây. Trường chúng ta có máy bán hàng tự động mới.)
+*convenient to study from home / poor internet connection / independent learning / can't interact face-to-face / can avoid crowded places / hard to share ideas in person / use breakout rooms for group work / screen fatigue*
 
-B: Great\!
+| Ưu điểm (Pros) | Nhược điểm (Cons) |
+|---|---|
+| ? | ? |
+| ? | ? |
+| ? | ? |
+| ? | ? |
+</questions>
 
-(Tuyệt\!)
+<teacher_script pause="60">
+Điền bảng bài 2 đi — 1 phút. Phân loại ưu điểm và nhược điểm của học online nha.
+</teacher_script>
 
-2\. You tell your classmate about a new laptop that your dad gave you on your birthday.
+<teacher_script pause="0">
+Đáp án bảng bài 2 nè!
+</teacher_script>
 
-(Bạn nói với bạn cùng lớp về máy tính xách tay mới mà bố bạn tặng bạn trong ngày sinh nhật.)
+<answer>
+**Đáp án:**
 
-A: Hi, B. What's up? My dad just gave me a new laptop on my birthday.
+| Ưu điểm (Pros) | Nhược điểm (Cons) |
+|---|---|
+| Convenient to study from home (tiện học ở nhà) | Poor internet connection (kết nối kém) |
+| Independent learning (học tự lập) | Can't interact face-to-face (không tương tác trực tiếp) |
+| Can avoid crowded places (tránh chỗ đông người) | Hard to share ideas in person (khó chia sẻ ý kiến trực tiếp) |
+| Use breakout rooms for group work (phòng nhóm cho làm việc nhóm) | Screen fatigue (mệt mắt do nhìn màn hình) |
+</answer>
 
-(Chào B. Có chuyện gì thế? Bố mình mới tặng mình một cái máy tính xách tay mới.)
+<explanation>
+**Ưu điểm:**
+- **Convenient:** Không cần đi học, tiết kiệm thời gian và chi phí đi lại — tiện lợi rõ ràng.
+- **Independent learning:** Tự quản lý thời gian học, tự học theo tốc độ của mình — rèn tính tự lập.
+- **Avoid crowded places:** Đặc biệt hữu ích trong mùa dịch — tránh lây bệnh nơi đông người.
+- **Breakout rooms:** Tính năng họp nhóm nhỏ trong Zoom/Teams — vẫn làm việc nhóm được dù học online.
 
-B: Great. Happy birthday to you, A.
+**Nhược điểm:**
+- **Poor connection:** Wifi yếu → vào lớp bị lag, ngắt quãng → học không hiệu quả.
+- **Can't interact face-to-face:** Thiếu tương tác trực tiếp → khó học kỹ năng xã hội.
+- **Hard to share ideas:** Nói chuyện qua màn hình không tự nhiên bằng trực tiếp.
+- **Screen fatigue:** Nhìn màn hình nhiều giờ → mỏi mắt, đau đầu — vấn đề sức khỏe thật sự đó.
+</explanation>
 
-(Tuyệt. Chúng mừng sinh nhật cậu, A.)
+<!-- chunk: exercise_3 -->
+<teacher_script pause="0">
+Bài 3 — thảo luận nhóm về công nghệ trong trường học. Dùng những gì đã học hôm nay và trong cả Unit 11 nha. Nói tiếng Anh nghe!
+</teacher_script>
 
-**Bài 3 trang 119** 
+<task>
+**Đề:** Discuss these questions with your partner. Use the language for expressing enthusiasm and the vocabulary you have learned.
+**Dịch đề:** Thảo luận những câu hỏi này với bạn học. Dùng ngôn ngữ bày tỏ sự phấn khích và từ vựng đã học.
+</task>
 
-Mi: Giáo viên của chúng tôi dùng Zoom để dạy. Nhưng có vài học sinh không có máy tính hay điện thoại thông minh. Những người khác thì than phiền về kết nối yếu. Mình cũng cảm thấy áp lực hơn khi học trực tuyến.
+<questions type="speaking">
+**1.** Which technology do you think is most useful in school? Why?
+*Em nghĩ công nghệ nào hữu ích nhất trong trường học? Tại sao?*
 
-Tom: Giáo viên dùng Google Meet cho việc học trực tuyến. Nó khá tiện lợi, và chúng ta không cần dậy sớm. Nhưng mà mình vẫn thích học trực tiếp hơn. Mình muốn gặp các bạn cùng lớp.
+**2.** What are the main disadvantages of online learning?
+*Những nhược điểm chính của học trực tuyến là gì?*
 
-Phong: Tụi mình dùng Microsoft Teams. Mình không thích học trực tuyến. Mắt mình mỏi. Mình không thể tập trung. Nhưng học trực tuyến giúp chúng ta học tập độc lập hơn.
+**3.** Do you prefer face-to-face or online classes? Explain your choice.
+*Em thích học trực tiếp hay trực tuyến hơn? Giải thích lựa chọn của em.*
+</questions>
 
-Nick: Tụi mình dùng Zoom để thảo luận và chia sẻ ý tưởng. Tụi mình tương tác trong các phòng chia nhỏ. Nó cũng giúp tụi mình tránh kẹt xe. Nhưng mình nhiều lần không vui với kết nối mạng.
+<teacher_script pause="60">
+Thảo luận bài 3 theo cặp — mỗi câu 30 giây nha. Dùng mấy câu như "Guess what? I think..." hay "That's amazing — I believe..." cho tự nhiên. Bắt đầu!
+</teacher_script>
 
- 
-
-| Benefits (Lợi ích) | Problems (Vấn đề) |
-| :---- | :---- |
-| 1\. It's convenient. \*(Thuận tiện)\* | 1\. Some students don't have computers or smartphones. \*(Vài học sinh không có máy tính hoặc điện thoại.)\* |
-| 2\. Don't have to get up early. \*(Không phải dậy sớm.)\* | 2\. The poor connection / Students feel more stressed. \*(Kết nối yếu/ Học sinh cảm thấy áp lực hơn.)\* |
-| 3\. Helps us become more independent. \*(Giúp chúng ta trở nên độc lập hơn.)\* | 3\. The eyes get tired / Students can't concentrate well. \*(Mỏi mắt/ Học sinh không bị tập trung.)\* |
-| 4\. Helps us avoid traffic jams. \*(Tránh kẹt xe.)\* | 4\. The Internet connection. \*(Kết nối mạng.)\* |
+<answer>
+**Gợi ý trả lời:**
+1. "I think face recognition is most useful because it saves time checking attendance automatically."
+2. "The main disadvantages are poor internet connection and screen fatigue."
+3. "I prefer face-to-face classes because I can interact with my teacher and friends directly. Online learning is convenient but lonely sometimes."
+</answer>
 
 <!-- chunk: end -->
-<teacher_script pause="0" href="audio/tts_ba688992.mp3">
-Bài học hôm nay kết thúc tại đây. Các em nhớ ôn bài và chuẩn bị cho bài học tiếp theo. Tạm biệt các em.
+<teacher_script pause="0">
+<eng>Communication</eng> Unit 11 xong rồi nha! Hôm nay học cách chia sẻ tin tốt, cách phản ứng với tin tức hay, và thảo luận về học trực tuyến. Tiết sau học <eng>Skills 1</eng> — đọc về công nghệ sinh trắc học trong trường học đó. Học tốt lớp!
 </teacher_script>
