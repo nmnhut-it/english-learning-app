@@ -192,7 +192,7 @@ function analyzeCoverage(sourceText: string, lectureText: string): {
     }
 
     // If no substring match, try edit distance against each lecture paragraph
-    if (bestSim < 0.7) {
+    if (bestSim < 0.95) {
       for (let j = 0; j < lectureParagraphs.length; j++) {
         // Optimize: skip very different length paragraphs
         const lenRatio = Math.min(sNorm.length, lectureNorms[j].length) /
@@ -208,7 +208,7 @@ function analyzeCoverage(sourceText: string, lectureText: string): {
     }
 
     let status: 'found' | 'partial' | 'missing';
-    if (bestSim >= 0.7) status = 'found';
+    if (bestSim >= 0.95) status = 'found';
     else if (bestSim >= 0.4) status = 'partial';
     else status = 'missing';
 
