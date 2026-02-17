@@ -1,106 +1,171 @@
-# G7 UNIT-01 GETTING STARTED
+# UNIT 1: HOBBIES
+## GETTING STARTED - A Visit to Trang's House
 
-<!-- chunk: intro -->
-<teacher_script pause="0" href="audio/tts_fd00461e.mp3">
-Chào các em. Chào mừng các em đến với bài học hôm nay. Mời các em mở sách giáo khoa.
+<!-- chunk: vocabulary -->
+<teacher_script pause="0">
+Ok lớp 7, Unit 1 nha — bài <eng>Getting Started</eng>. Mở sách trang 6 đi. Ghi tựa bài vô tập rồi bấm "Bắt đầu" để học từ vựng. Máy đọc, các em đọc theo. Xong làm quiz rồi ghi từ vô tập nghen.
 </teacher_script>
 
-<!-- chunk: audio -->
-<teacher_script pause="0" href="audio/tts_c08c1d7b.mp3">
-Bây giờ các em sẽ nghe một đoạn băng. Hãy chú ý lắng nghe để tìm thông tin trả lời câu hỏi.
-</teacher_script>
-
-<audio src="https://img.loigiaihay.com/picture/2022/0704/002.mp3">
-**Audio:** Getting Started
-</audio>
-
-<!-- chunk: content -->
-<teacher_script pause="0" href="audio/tts_d5b1d729.mp3">
-Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
-</teacher_script>
-
-**UNIT 1: HOBBIES**
-
-**GETTING STARTED**
-
-1. **dollhouse** : (n) nhà búp bê /ˈdɒlˌhaʊs/
-2. **amazing** : (adj) tuyệt vời /əˈmeɪzɪŋ/
-3. **build** : (v) xây dựng /bɪld/
-4. **hobby** : (n) sở thích /ˈhɒbi/
-5. **cardboard** : (n) bìa cứng /ˈkɑːdbɔːd/
+<vocabulary>
+1. **hobby** : (n) sở thích, thú vui /ˈhɒbi/
+2. **dollhouse** : (n) nhà búp bê /ˈdɒlhaʊs/
+3. **build** : (v) xây dựng, làm /bɪld/
+4. **cardboard** : (n) bìa cứng /ˈkɑːdbɔːd/
+5. **glue** : (n/v) keo dán /ɡluː/
 6. **creativity** : (n) sự sáng tạo /ˌkriːeɪˈtɪvɪti/
-7. **horse riding** : (n) cưỡi ngựa /ˈhɔːs ˈraɪdɪŋ/
-8. **unusual** : (adj) không thường, khác thường /ʌnˈjuːʒʊəl/
-9. **common** : (adj) phổ biến /ˈkɒmən/
-10. **actually** : (adv) thực tế /ˈæktʃuəli/
-11. **your** : của bạn
-12. **need** : cần
-13. **some** : một chút, một vài
-14. **all** : tất cả
-15. **learn how to** : học cách để
-16. **just** : chỉ
-17. **there is \= there are** : có
-18. **lesson** : bài học
+7. **horse riding** : (n) cưỡi ngựa /hɔːs ˈraɪdɪŋ/
+8. **collect** : (v) sưu tập /kəˈlekt/
+9. **model** : (n) mô hình /ˈmɒdl/
+10. **gardening** : (n) làm vườn /ˈɡɑːdnɪŋ/
+</vocabulary>
 
-Ann: Nhà của bạn rất đẹp, Trang.
+<teacher_script pause="0">
+Ok từ vựng xong rồi. Giờ mình qua hội thoại nha. Bài 1 trang 6 — <eng>Listen and read</eng>. Đọc hội thoại của Ann và Trang đi.
+</teacher_script>
 
-Trang: Cảm ơn\! Hãy đi lên lầu. Mình sẽ cho bạn xem phòng của mình.
+<!-- chunk: dialogue -->
+<teacher_script pause="0">
+Đây là hội thoại giữa Ann và Trang. Ann tới nhà Trang chơi và hai bạn nói chuyện về sở thích. Đọc kỹ nha, có từ mới thì xem lại từ vựng ở trên.
+</teacher_script>
 
-Ann: Mình yêu nhà búp bê của bạn. Nó thật tuyệt vời. Bạn tự làm nó à?
+<dialogue>
+| English | Vietnamese |
+|---------|------------|
+| **Ann:** Wow, this is amazing! Did you make it yourself? | **Ann:** Ồ, cái này hay quá! Bạn tự làm à? |
+| **Trang:** Yes, I did. It's my hobby — building dollhouses. | **Trang:** Ừ, mình tự làm. Đó là sở thích của mình — làm nhà búp bê. |
+| **Ann:** That's so cool! How do you make them? | **Ann:** Hay ghê! Bạn làm bằng gì vậy? |
+| **Trang:** I use cardboard, glue, and a bit of creativity. | **Trang:** Mình dùng bìa cứng, keo, và một chút sáng tạo. |
+| **Ann:** How long does it take? | **Ann:** Mất bao lâu vậy? |
+| **Trang:** About a week for each one. What about you, Ann? Do you have a hobby? | **Trang:** Khoảng một tuần cho mỗi cái. Còn bạn Ann? Bạn có sở thích gì không? |
+| **Ann:** Yes! I love horse riding. I go every Sunday. | **Ann:** Có chứ! Mình thích cưỡi ngựa lắm. Tuần nào mình cũng đi. |
+| **Trang:** Really? When is your lesson? | **Trang:** Thật không? Bạn học lúc mấy giờ? |
+| **Ann:** At eight in the morning. It's a bit early but I really enjoy it! | **Ann:** Tám giờ sáng. Hơi sớm nhưng mình rất thích! |
+| **Trang:** That sounds great! Maybe I can come and watch one day. | **Trang:** Nghe hay đó! Có ngày mình tới xem nha. |
+</dialogue>
 
-Trang: Vâng. Sở thích của mình là xây dựng nhà búp bê.
+<teacher_script pause="180">
+Ok, dịch hội thoại vô tập nha. Mình cho 3 phút. Dịch xong thì bấm tiếp.
+</teacher_script>
 
-Ann: Thật sao? Có khó để xây dựng một cái không?
+<!-- chunk: exercise-2 -->
+<teacher_script pause="0">
+Xong rồi, qua bài 2 nha — <eng>True or False</eng>. Đọc câu rồi ghi T nếu đúng, F nếu sai. Làm một mình 1 phút nha.
+</teacher_script>
 
-Trang: Không thực sự. Tất cả những gì bạn cần là một ít bìa cứng và keo. Sau đó chỉ cần sử dụng một chút sáng tạo. Bạn làm gì trong thời gian rảnh?
+### Bài 2 trang 7 - True/False
 
-Ann: Mình thích cưỡi ngựa.
+<task>
+**Đề:** Read the dialogue again and write T (True) or F (False) for each sentence.
+**Dịch đề:** Đọc lại hội thoại và ghi T (đúng) hoặc F (sai) cho mỗi câu.
+</task>
 
-Trang: Đó là khá bất thường. Không nhiều người làm điều đó.
+<questions type="true_false">
+**1.** Trang buys her dollhouses from a shop.
+*Trang mua nhà búp bê từ cửa hàng.*
 
-Ann: Thực ra, nó phổ biến hơn bạn nghĩ. Có một số câu lạc bộ cưỡi ngựa ở Hà Nội bây giờ. Mình đi đến câu lạc bộ cưỡi ngựa mỗi Chủ Nhật.
+**2.** Trang uses cardboard and glue to build the dollhouses.
+*Trang dùng bìa cứng và keo để làm nhà búp bê.*
 
-Trang: Mình muốn đi đến câu lạc bộ của bạn Chủ Nhật này. Mình muốn học cách cưỡi ngựa.
+**3.** It takes Trang about a week to build each dollhouse.
+*Trang mất khoảng một tuần để làm mỗi cái nhà búp bê.*
 
-Ann: Chắc chắn. Bài học của mình bắt đầu lúc 8 giờ sáng
+**4.** Ann goes horse riding every Sunday.
+*Ann đi cưỡi ngựa mỗi Chủ Nhật.*
 
-**Bài 2 trang 9**  
-1\. Trang cần sự giúp đỡ để làm nhà búp bê
+**5.** Ann's lesson starts at 8 pm.
+*Buổi học của Ann bắt đầu lúc 8 giờ tối.*
+</questions>
 
-2\. Trang sử dụng keo và bìa các tông để xây ngôi nhà búp bê của cô ấy
+<teacher_script pause="0">
+Xong chưa? Ok đáp án nè.
+</teacher_script>
 
-3\. Để xây dựng nhà búp bê, bạn cần sử dụng sự sáng tạo của mình
+<answer>
+**Đáp án:** 1. F | 2. T | 3. T | 4. T | 5. F
+</answer>
 
-4\. Ann đi đến câu lạc bộ cưỡi ngựa vào mỗi chủ nhật
+<explanation>
+**1. F** — Trang *tự làm* nhà búp bê, không phải mua. ("Yes, I did. It's my hobby — building dollhouses.")
 
-5\. Lớp học của Ann bắt đầu vào lúc 8 giờ tối
+**2. T** — Đúng rồi. Trang nói: "I use cardboard, glue, and a bit of creativity."
 
-1-F
+**3. T** — Đúng. "About a week for each one."
 
-2-T
+**4. T** — Đúng. "I go every Sunday."
 
-3-T
+**5. F** — Không phải 8 giờ tối mà là 8 giờ *sáng*. "At eight in the morning."
+</explanation>
 
-4-T
+<!-- chunk: exercise-3 -->
+<teacher_script pause="0">
+Ok bài 3 nha — nhìn vào ô chữ, tìm các từ chỉ sở thích. Mình có 6 sở thích cần tìm. Làm 2 phút đi.
+</teacher_script>
 
-5-F
+### Bài 3 trang 7 - Word Search
 
-**Bài 3 trang 9** 
+<task>
+**Đề:** Find six hobby phrases hidden in the word square.
+**Dịch đề:** Tìm sáu cụm từ chỉ sở thích được giấu trong ô chữ.
+</task>
 
-1. **building dollhouses** : (n) xây dựng nhà búp bê /ˈbɪldɪŋ ˈdɒlˌhaʊsɪz/
-2. **riding a horse** : (n) cưỡi ngựa /ˈraɪdɪŋ ə hɔːs/
-3. **collecting teddy bears** : (n) sưu tập gấu bông /kəˈlɛktɪŋ ˈtɛdi beəz/
-4. **collecting coins** : (n) sưu tập tiền xu /kəˈlɛktɪŋ kɔɪnz/
-5. **making models** : (n) làm mô hình /ˈmeɪkɪŋ ˈmɒdlz/
-6. **gardening** : (n) làm vườn /ˈɡɑːdənɪŋ/ ​​
+<questions type="matching">
+Tìm 6 sở thích trong ô chữ:
+- building dollhouses (làm nhà búp bê)
+- riding a horse (cưỡi ngựa)
+- collecting teddy bears (sưu tập gấu bông)
+- collecting coins (sưu tập tiền xu)
+- making models (làm mô hình)
+- gardening (làm vườn)
+</questions>
 
-**Bài 4 trang 9**
+<teacher_script pause="0">
+Đây là 6 sở thích cần tìm nha. Đọc to theo mình đi.
+</teacher_script>
 
-| Doing things | Making things | Collecting things |
-| :---- | :---- | :---- |
-| Gardening Riding a horse Riding a bike | Making models Building dollhouses   | Collecting teddy bears Collecting stamps Collecting coins Collecting comics |
+<answer>
+**6 sở thích:** building dollhouses | riding a horse | collecting teddy bears | collecting coins | making models | gardening
+</answer>
+
+<!-- chunk: exercise-4 -->
+<teacher_script pause="60">
+Giờ bài 4 nha. Nhìn 6 sở thích vừa tìm được, sắp xếp chúng vào 3 cột: <eng>Doing</eng>, <eng>Making</eng>, và <eng>Collecting</eng>. Làm 1 phút nha.
+</teacher_script>
+
+### Bài 4 trang 7 - Sorting
+
+<task>
+**Đề:** Put the hobby phrases into the correct column: Doing, Making, or Collecting.
+**Dịch đề:** Xếp các cụm từ chỉ sở thích vào đúng cột: Làm/Chơi, Tạo ra, hoặc Sưu tập.
+</task>
+
+<questions type="matching">
+Xếp vào 3 cột:
+
+| Doing (Làm/Chơi) | Making (Tạo ra) | Collecting (Sưu tập) |
+|------------------|-----------------|----------------------|
+| ? | ? | ? |
+</questions>
+
+<teacher_script pause="0">
+Ok đáp án nè. Xem mình làm đúng chưa.
+</teacher_script>
+
+<answer>
+| Doing (Làm/Chơi) | Making (Tạo ra) | Collecting (Sưu tập) |
+|------------------|-----------------|----------------------|
+| riding a horse | building dollhouses | collecting teddy bears |
+| gardening | making models | collecting coins |
+</answer>
+
+<explanation>
+**Doing** — các hoạt động mình *thực hiện*: cưỡi ngựa, làm vườn.
+
+**Making** — các hoạt động mình *tạo ra* sản phẩm: làm nhà búp bê, làm mô hình.
+
+**Collecting** — các hoạt động mình *sưu tập* đồ vật: sưu tập gấu bông, sưu tập tiền xu.
+</explanation>
 
 <!-- chunk: end -->
-<teacher_script pause="0" href="audio/tts_ba688992.mp3">
-Bài học hôm nay kết thúc tại đây. Các em nhớ ôn bài và chuẩn bị cho bài học tiếp theo. Tạm biệt các em.
+<teacher_script pause="0">
+Vậy là xong bài <eng>Getting Started</eng> Unit 1 rồi nha. Các em đã biết từ vựng về sở thích và hiểu hội thoại giữa Ann và Trang. Bài sau mình học <eng>A Closer Look 1</eng> — từ vựng nhiều hơn và ngữ pháp nghen. Cất tập lại đi.
 </teacher_script>
