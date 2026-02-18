@@ -125,7 +125,7 @@ Ok đáp án nè.
 1. **Can your mother make a costume for you?**
    - Có "can" → đưa **Can** lên đầu, giữ nguyên động từ "make"
 
-2. **Will she bake a birthday cake for him?**
+2. **Will she bake him a birthday cake?**
    - Có "will" → đưa **Will** lên đầu, giữ nguyên động từ "bake"
 
 3. **Are the dragon dances interesting?**
