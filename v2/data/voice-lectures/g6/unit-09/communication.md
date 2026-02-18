@@ -46,6 +46,7 @@ Giờ học ngữ pháp về câu cảm thán nha. Câu cảm thán bắt đầu
 Công thức: <eng>What + (a/an) + tính từ + danh từ + !</eng>. Quan trọng là biết khi nào dùng <eng>a/an</eng>, khi nào không.
 </teacher_script>
 
+<grammar>
 **1. Danh từ số ít đếm được:**
 What + a/an + tính từ + danh từ số ít!
 Ví dụ: What a handsome boy! (Cậu bé đẹp trai quá!)
@@ -57,6 +58,7 @@ Ví dụ: What noisy boys! (Mấy cậu bé ồn ào quá!)
 **3. Danh từ không đếm được:**
 What + tính từ + danh từ không đếm được! (KHÔNG có a/an)
 Ví dụ: What fresh air! (Không khí trong lành quá!)
+</grammar>
 
 <teacher_script pause="0">
 Mẹo nhớ nè: Chỉ danh từ số ít đếm được mới có <eng>a/an</eng>. Nếu là danh từ số nhiều (có s) hoặc không đếm được (như <eng>air, weather, water</eng>) thì KHÔNG có <eng>a/an</eng>.

@@ -163,11 +163,6 @@ Ok đáp án nè.
 
 ---
 
-<!-- chunk: writing -->
-### Writing
-
----
-
 <!-- chunk: exercise_4 -->
 ### Bài 4 trang 33 - Speaking
 
