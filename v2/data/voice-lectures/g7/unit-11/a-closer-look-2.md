@@ -1,149 +1,439 @@
-# G7 UNIT-11 A CLOSER LOOK 2
+# UNIT 11: TRAVELLING IN THE FUTURE
+## A CLOSER LOOK 2 - Grammar
 
 <!-- chunk: intro -->
-<teacher_script pause="0" href="audio/tts_fd00461e.mp3">
-Chào các em. Chào mừng các em đến với bài học hôm nay. Mời các em mở sách giáo khoa.
+<teacher_script pause="0">
+Ok lop 7, Unit 11 nha, bai <eng>A Closer Look 2</eng> trang 117. Bai nay minh hoc ngu phap ve thi tuong lai don voi <eng>will</eng> va <eng>won't</eng>, roi hoc them dai tu so huu nha. Mo sach ra di.
 </teacher_script>
 
-<!-- chunk: content -->
-<teacher_script pause="0" href="audio/tts_d5b1d729.mp3">
-Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc sách giáo khoa.
+<!-- chunk: vocabulary -->
+<teacher_script pause="0">
+Truoc khi vao bai, minh hoc tu vung truoc nha. Bam nut "Bat dau" ben duoi de hoc tu vung. May se doc va cac em doc theo. Sau do lam bai trac nghiem tu vung roi ghi vo tap.
 </teacher_script>
 
-**UNIT 11: TRAVELLING IN THE FUTURE**
+<vocabulary>
+1. **petrol-powered car** : (n.phr) o to chay bang xang /ˈpetrəl paʊəd kɑː/
+2. **driverless** : (adj) khong nguoi lai /ˈdraɪvləs/
+3. **parking place** : (n.phr) cho dau xe /ˈpɑːkɪŋ pleɪs/
+4. **electric car** : (n.phr) o to dien /ɪˈlektrɪk kɑː/
+5. **solar-powered bus** : (n.phr) xe buyt chay nang luong mat troi /ˈsəʊlə paʊəd bʌs/
+6. **disappear** : (v) bien mat /ˌdɪsəˈpɪə/
+7. **appear** : (v) xuat hien /əˈpɪə/
+8. **motorbike** : (n) xe may /ˈməʊtəbaɪk/
+</vocabulary>
 
-**A CLOSER LOOK 2**
+<!-- chunk: grammar-will -->
+<teacher_script pause="0">
+Ok, gio minh hoc ngu phap nha. Thi tuong lai don, tieng Anh goi la <eng>The Future Simple</eng> voi <eng>will</eng>. Thi nay dung de dien ta hanh dong se xay ra trong tuong lai, dua ra du doan, loi hua, hoac quyet dinh ngay luc noi. Ghi vo tap nha.
+</teacher_script>
 
-**Thì tương lai đơn** 
+<grammar>
+### THI TUONG LAI DON (The Future Simple) voi WILL
 
-## Cấu trúc cơ bản
+**1. Cau khang dinh (Affirmative):**
+- S + **will** + V nguyen the
 
-- **Khẳng định:** Chủ ngữ \+ will \+ động từ nguyên mẫu  
-- **Phủ định:** Chủ ngữ \+ will not (won't) \+ động từ nguyên mẫu  
-- **Nghi vấn:** Will \+ chủ ngữ \+ động từ nguyên mẫu
+*Vi du:*
+- I **will travel** by flying car. *(Toi se di bang o to bay.)*
+- She **will use** a teleporter. *(Co ay se su dung may dich chuyen.)*
+- They **will have** driverless cars. *(Ho se co o to khong nguoi lai.)*
 
-## Ví dụ với động từ "work" (làm việc)
+**2. Cau phu dinh (Negative):**
+- S + **won't** (will not) + V nguyen the
 
-| Ngôi | Khẳng định | Phủ định | Nghi vấn |
-| :---- | :---- | :---- | :---- |
-| I | I will work | I will not (won't) work | Will I work? |
-| You | You will work | You will not (won't) work | Will you work? |
-| He | He will work | He will not (won't) work | Will he work? |
-| She | She will work | She will not (won't) work | Will she work? |
-| It | It will work | It will not (won't) work | Will it work? |
-| We | We will work | We will not (won't) work | Will we work? |
-| They | They will work | They will not (won't) work | Will they work? |
+*Vi du:*
+- I **won't drive** a petrol-powered car. *(Toi se khong lai o to chay xang.)*
+- She **won't take** the bus. *(Co ay se khong di xe buyt.)*
+- They **won't allow** cars in the city. *(Ho se khong cho phep o to trong thanh pho.)*
 
-## Cách sử dụng thì tương lai đơn
+**3. Cau nghi van (Question):**
+- **Will** + S + V nguyen the?
+- Yes, S + will.
+- No, S + won't.
 
-- Diễn tả hành động sẽ xảy ra trong tương lai  
-- Diễn tả quyết định đột xuất  
-- Đưa ra lời hứa, lời đề nghị, lời cảnh báo  
-- Dự đoán về tương lai 
+*Vi du:*
+- **Will** you **travel** by train? - Yes, I will. / No, I won't.
+- **Will** electric cars **be** popular? - Yes, they will. / No, they won't.
+</grammar>
 
-Đạt, Đăng, Thái  x3
+<teacher_script pause="0">
+Nho cau truc nay nha: Khang dinh la S cong will cong V nguyen the. Phu dinh thi thay will bang won't. Cau hoi thi dao will len truoc chu ngu. Meo nho nha: will di voi TAT CA cac ngoi, khong thay doi gi het, de hon thi hien tai nhieu! Gio lam bai tap di.
+</teacher_script>
 
-Khiết x2 , Khang x1 
+<!-- chunk: bai1 -->
+<teacher_script pause="0">
+Bai 1 trang 117 nha. <eng>Complete the sentences with will or won't.</eng> Hoan thanh cac cau voi <eng>will</eng> hoac <eng>won't</eng>. Doc ky nghia cua cau roi chon nha. Nho: will la "se", won't la "se khong".
+</teacher_script>
 
-### **Bài 1 trang 117 (Hoàn thành câu với will hoặc won't)**
+<task>
+**De:** Complete the sentences with will or won't.
+**Dich de:** Hoan thanh cac cau voi will hoac won't.
+</task>
 
-1. won't \- Ô tô chạy bằng xăng không thân thiện với môi trường, nên sẽ không phổ biến.  
-2. will \- Chúng ta sẽ di chuyển bằng máy dịch chuyển sớm vì nó nhanh hơn.  
-3. will \- Người giàu sẽ chọn du lịch đến các hành tinh khác cho kỳ nghỉ.  
-4. won't \- Mọi người sẽ không nghỉ lễ ở những nơi đông đúc như trước đây.  
-5. will \- Tàu cao tốc sẽ sớm trở thành phương tiện giao thông phổ biến ở Việt Nam vì chúng xanh và an toàn.
+<questions type="fill_blanks">
+**1.** Petrol-powered cars are not eco-friendly, so they _______ be popular.
+*O to chay bang xang khong than thien voi moi truong, vi vay chung _______ duoc ua chuong.*
 
-### **Bài 2 trang 117 (Sắp xếp từ để tạo câu)**
+**2.** We _______ travel by teleporter soon because it is faster.
+*Chung ta _______ di chuyen bang may dich chuyen som vi no nhanh hon.*
 
-1. We will have driverless cars in 2030\. \- Chúng ta sẽ có ô tô không người lái vào năm 2030\.  
-2. Cities won't allow cars in 2050\. \- Các thành phố sẽ không cho phép ô tô vào năm 2050\.  
-3. Will electric cars be popular? \- Xe điện sẽ phổ biến không?  
-4. We will use solar-powered buses soon. \- Chúng ta sẽ sớm sử dụng xe buýt chạy bằng năng lượng mặt trời.  
-5. Will we have enough parking places in ten years? \- Liệu chúng ta có đủ chỗ đậu xe trong mười năm nữa không?
+**3.** Rich people _______ choose to travel to other planets for their holidays.
+*Nhung nguoi giau _______ chon di du lich den cac hanh tinh khac cho ky nghi cua ho.*
 
-### **Bài 3 (Điền dạng đúng của động từ trong ngoặc)**
+**4.** People _______ take holidays in crowded places as in the past.
+*Moi nguoi _______ nghi le o nhung noi dong duc nhu trong qua khu.*
 
-1. will take \- sẽ mất  
-2. won't have \- sẽ không phải  
-3. Will \- have \- Chúng ta sẽ phải  
-4. won't drive \- sẽ không lái  
-5. won't be \- sẽ không có
+**5.** Bullet trains _______ soon become a popular means of transport in Viet Nam because they are green and safe.
+*Tau cao toc _______ som tro thanh phuong tien giao thong pho bien o Viet Nam vi chung xanh va an toan.*
+</questions>
 
-Dịch hội thoại:
+<teacher_script pause="60">
+1 phut nha. Doc ky nghia cau roi dien will hoac won't.
+</teacher_script>
 
-- Alice: Bạn có nghĩ rằng việc đi du lịch bằng máy dịch chuyển sẽ sớm trở nên khả thi không?  
-- Tom: Vâng. Tôi nghe nói rằng sẽ mất rất ít thời gian để đi từ quốc gia này sang quốc gia khác.  
-- Alice: Đúng vậy. Và chúng ta sẽ không phải đợi ở sân bay.  
-- Tom: Chúng ta sẽ phải học lái nó chứ?  
-- Alice: Không. Chúng ta sẽ không lái nó. Nó làm cho chúng ta biến mất sau đó xuất hiện ở một nơi khác chỉ trong vài giây.  
-- Tom: Thật tuyệt vời\! Sẽ không còn tắc đường nữa, phải không?
+<teacher_script pause="0">
+Ok dap an ne. Minh giai thich tung cau nha.
+</teacher_script>
 
-### **Bài 4 (Làm việc theo cặp về phương tiện giao thông)**
+<answer>
+**Dap an:** 1. won't | 2. will | 3. will | 4. won't | 5. will
+</answer>
 
-A: I will travel by flying car because it is very fast. \- Tôi sẽ di chuyển bằng ô tô bay vì nó rất nhanh.   
-B: I won't travel by car in another 20 years because it pollutes the air. \- Tôi sẽ không đi du lịch bằng ô tô trong 20 năm nữa vì nó làm ô nhiễm không khí. 
+<explanation>
+**Cau 1:** Petrol-powered cars are not eco-friendly, so they **won't** be popular.
+*(O to chay bang xang khong than thien voi moi truong, vi vay chung se khong duoc ua chuong.)*
+- "are not eco-friendly" (khong than thien) + "so" => ket qua tieu cuc => **won't**
+- Meo: thay "not eco-friendly" + "so" la biet dap an phu dinh
 
-A: I will travel by hyperloop because it is very fast and has no fumes. \- Tôi sẽ di chuyển bằng tàu cao tốc vì nó rất nhanh và không có khói.   
-B: I won't travel by petrol-powered cars because they are not eco-friendly. \- Tôi sẽ không đi bằng ô tô chạy bằng xăng vì chúng không thân thiện với môi trường.
+**Cau 2:** We **will** travel by teleporter soon because it is faster.
+*(Chung ta se di chuyen bang may dich chuyen som vi no nhanh hon.)*
+- "because it is faster" (vi no nhanh hon) => ly do tich cuc => **will**
+- Nhanh hon thi chac chan se dung roi!
 
-**Ngữ pháp: Đại từ sở hữu** 
+**Cau 3:** Rich people **will** choose to travel to other planets for their holidays.
+*(Nhung nguoi giau se chon di du lich den cac hanh tinh khac cho ky nghi cua ho.)*
+- Nguoi giau co tien, co the chon di bat cu dau => **will**
 
-Khang’s mouth is small. Nghia’s is big.   
-Vinh’s house is big. Mine is small.   
-My house is tall. Yours is big. 
+**Cau 4:** People **won't** take holidays in crowded places as in the past.
+*(Moi nguoi se khong nghi le o nhung noi dong duc nhu trong qua khu.)*
+- "as in the past" (nhu trong qua khu) => tuong lai se khac, khong con nhu truoc => **won't**
 
-Bảo An, Vinh x2 
+**Cau 5:** Bullet trains **will** soon become a popular means of transport in Viet Nam because they are green and safe.
+*(Tau cao toc se som tro thanh phuong tien giao thong pho bien o Viet Nam vi chung xanh va an toan.)*
+- "because they are green and safe" (vi chung xanh va an toan) => ly do tich cuc => **will**
+- Xanh + an toan = pho bien thoi!
+</explanation>
 
-**Đại từ sở hữu và Tính từ sở hữu**
+<!-- chunk: bai2 -->
+<teacher_script pause="0">
+Bai 2 trang 117 nha. <eng>Rearrange the words and phrases to make sentences.</eng> Sap xep lai cac tu va cum tu de tao thanh cau. Nho cau truc: Khang dinh la S + will + V. Phu dinh la S + won't + V. Cau hoi la Will + S + V?
+</teacher_script>
 
-## **Tính từ sở hữu**
+<task>
+**De:** Rearrange the words and phrases to make sentences.
+**Dich de:** Sap xep lai cac tu va cum tu de tao thanh cau.
+</task>
 
-- **my** \- của tôi  
-- **your** \- của bạn  
-- **his** \- của anh ấy  
-- **her** \- của cô ấy  
-- **its** \- của nó  
-- **our** \- của chúng tôi  
-- **your** \- của các bạn  
-- **their** \- của họ
+<questions type="ordering">
+**1.** driverless cars / we / will have / in 2030
 
-*Đặt trước danh từ:* My book, Your car, His house...
+**2.** cars / cities / won't allow / in 2050
 
-## **Đại từ sở hữu**
+**3.** electric cars / will / popular / be / ?
 
-- **mine** \- cái của tôi  
-- **yours** \- cái của bạn  
-- **his** \- cái của anh ấy  
-- **hers** \- cái của cô ấy  
-- **its** \- cái của nó  
-- **ours** \- cái của chúng tôi  
-- **yours** \- cái của các bạn  
-- **theirs** \- cái của họ
+**4.** we / use / will / buses / soon / solar-powered
 
-*Đứng một mình thay thế cho danh từ:* This book is mine. That car is yours. 
+**5.** have / enough parking places / we / will / in ten years / ?
+</questions>
 
-**Lớp 8:**   
-one of my friends \= a friend of mine.   
-two of my friends \= two friends of mine   
-one of their friends \= a friend of theirs   
-two friends of theirs \= two of their friends. 
+<teacher_script pause="60">
+1 phut nha. Sap xep cac tu thanh cau hoan chinh.
+</teacher_script>
 
-## Ví dụ
+<teacher_script pause="0">
+Ok dap an ne. Minh giai thich tung cau.
+</teacher_script>
 
-1. This is **my** book. \= The book is **mine**.  
-2. Is that **your** bag? \= Is that bag **yours**?  
-3. **His** phone is new. \= The new phone is **his**.  
-4. **Her** sister is tall. The tall sister is **hers**.  
+<answer>
+**Dap an:**
 
-### **Bài 5 (Thay thế cụm từ gạch chân bằng đại từ sở hữu)**
+**1.** We will have driverless cars in 2030.
+*(Chung ta se co o to khong nguoi lai vao nam 2030.)*
 
-1. theirs \- của họ (thay cho "their motorbikes")  
-2. mine \- của tôi (thay cho "my bicycle")  
-3. His \- của anh ấy (thay cho "his dream")  
-4. Yours \- của bạn (thay cho "your bus")  
-5. Ours \- của chúng tôi (thay cho "our car")
+**2.** Cities won't allow cars in 2050.
+*(Cac thanh pho se khong cho phep o to vao nam 2050.)*
 
-<!-- chunk: end -->
-<teacher_script pause="0" href="audio/tts_ba688992.mp3">
-Bài học hôm nay kết thúc tại đây. Các em nhớ ôn bài và chuẩn bị cho bài học tiếp theo. Tạm biệt các em.
+**3.** Will electric cars be popular?
+*(Xe dien se pho bien khong?)*
+
+**4.** We will use solar-powered buses soon.
+*(Chung ta se som su dung xe buyt chay bang nang luong mat troi.)*
+
+**5.** Will we have enough parking places in ten years?
+*(Lieu chung ta co du cho dau xe trong muoi nam nua khong?)*
+</answer>
+
+<explanation>
+**Cau 1:** We **will have** driverless cars in 2030.
+- Cau khang dinh: S (We) + will + V (have) + O + thoi gian
+- Nho: Chu ngu truoc, will + dong tu giua, thoi gian cuoi cau
+
+**Cau 2:** Cities **won't allow** cars in 2050.
+- Cau phu dinh: S (Cities) + won't + V (allow) + O + thoi gian
+- won't = will not
+
+**Cau 3:** **Will** electric cars **be** popular?
+- Cau hoi: Will + S (electric cars) + V (be) + adj?
+- Nho: Cau hoi thi dao Will len dau, cuoi cau co dau cham hoi
+
+**Cau 4:** We **will use** solar-powered buses soon.
+- Cau khang dinh: S (We) + will + V (use) + O + thoi gian (soon)
+
+**Cau 5:** **Will** we **have** enough parking places in ten years?
+- Cau hoi: Will + S (we) + V (have) + O + thoi gian?
+- Nho: Thay dau "?" la biet cau hoi, dao Will len dau
+</explanation>
+
+<!-- chunk: bai3 -->
+<teacher_script pause="0">
+Bai 3 trang 117 nha. <eng>Use the correct form of the verbs in brackets to complete the conversation.</eng> Su dung dang dung cua cac dong tu trong ngoac de hoan thanh cuoc hoi thoai. Day la hoi thoai giua <eng>Alice</eng> va <eng>Tom</eng> noi ve may dich chuyen <eng>teleporter</eng>. Chia dong tu voi will hoac won't nha.
+</teacher_script>
+
+<task>
+**De:** Use the correct form of the verbs in brackets to complete the conversation.
+**Dich de:** Su dung dang dung cua cac dong tu trong ngoac de hoan thanh cuoc hoi thoai.
+</task>
+
+<questions type="fill_blanks">
+**Alice:** Do you think travelling by teleporter will become possible soon?
+
+**Tom:** Yes. I hear that it (1. take) _______ very little time to travel from one country to another.
+
+**Alice:** Right. And we (2. not have) _______ to wait at the airport.
+
+**Tom:** (3. have) _______ we _______ to learn to drive it?
+
+**Alice:** No. We (4. not drive) _______ it. It makes us disappear then appear in another place in just seconds.
+
+**Tom:** How wonderful! There (5. not be) _______ traffic jams any more, right?
+</questions>
+
+<teacher_script pause="60">
+1 phut nha. Doc hoi thoai roi dien dang dung cua dong tu.
+</teacher_script>
+
+<teacher_script pause="0">
+Ok dap an ne.
+</teacher_script>
+
+<answer>
+**Dap an:** 1. will take | 2. won't have | 3. Will - have | 4. won't drive | 5. won't be
+</answer>
+
+<explanation>
+**Cau 1:** it **will take** very little time
+*(Se mat rat it thoi gian)*
+- Tom tra loi "Yes" => dong y, tich cuc => **will** + take
+- "very little time" = rat it thoi gian => dieu tot
+
+**Cau 2:** we **won't have** to wait at the airport
+*(Chung ta se khong phai doi o san bay)*
+- "not have" trong ngoac => phu dinh => **won't have**
+- Khong can doi = tiet kiem thoi gian!
+
+**Cau 3:** **Will** we **have** to learn to drive it?
+*(Chung ta se phai hoc lai no chu?)*
+- Cau hoi => dao **Will** len dau + have
+- Tom dang hoi Alice ve may dich chuyen
+
+**Cau 4:** We **won't drive** it
+*(Chung ta se khong lai no)*
+- Alice tra loi "No" => phu dinh => **won't drive**
+- May dich chuyen tu dong, khong can lai!
+
+**Cau 5:** There **won't be** traffic jams any more
+*(Se khong con tac duong nua)*
+- "not be" trong ngoac => phu dinh => **won't be**
+- Co may dich chuyen thi het ket xe luon!
+</explanation>
+
+<teacher_script pause="0">
+Day la ban dich hoi thoai nha.
+</teacher_script>
+
+<translation>
+**Alice:** Ban co nghi rang viec di du lich bang may dich chuyen se som tro nen kha thi khong?
+
+**Tom:** Vang. Toi nghe noi rang se mat rat it thoi gian de di tu quoc gia nay sang quoc gia khac.
+
+**Alice:** Dung vay. Va chung ta se khong phai doi o san bay.
+
+**Tom:** Chung ta se phai hoc lai no chu?
+
+**Alice:** Khong. Chung ta se khong lai no. No lam cho chung ta bien mat sau do xuat hien o mot noi khac chi trong vai giay.
+
+**Tom:** That tuyet voi! Se khong con tac duong nua, phai khong?
+</translation>
+
+<!-- chunk: bai4 -->
+<teacher_script pause="0">
+Bai 4 trang 117 nha. <eng>Work in pairs. Look at the pictures and tell your partner if you will or won't travel by these means of transport. Give reasons.</eng> Lam viec theo cap. Nhin vao hinh anh va noi voi ban cua em xem em se hoac se khong di du lich bang cac phuong tien giao thong nay. Dua ra ly do. Day la bai noi nha.
+</teacher_script>
+
+<task>
+**De:** Work in pairs. Look at the pictures and tell your partner if you will / won't travel by these means of transport. Give reason(s).
+**Dich de:** Lam viec theo cap. Nhin vao hinh anh va cho ban cua ban biet neu ban se / se khong di du lich bang cac phuong tien giao thong nay. Dua ra (cac) ly do.
+</task>
+
+<questions type="speaking">
+**Example:**
+
+A: I will travel by flying car because it is very fast.
+*(Toi se di chuyen bang o to bay vi no rat nhanh.)*
+
+B: I won't travel by car in another 20 years because it pollutes the air.
+*(Toi se khong di du lich bang o to trong 20 nam nua vi no lam o nhiem khong khi.)*
+
+*(Nhin hinh trong sach va noi ve cac phuong tien giao thong)*
+</questions>
+
+<teacher_script pause="90">
+1 phut ruoi nha. Noi cau voi will hoac won't va cho ly do.
+</teacher_script>
+
+<teacher_script pause="0">
+Ok, day la cau tra loi mau nha.
+</teacher_script>
+
+<answer>
+**Cau tra loi mau:**
+
+A: I will travel by hyperloop because it is very fast and has no fumes.
+*(Toi se di chuyen bang tau cao toc vi no rat nhanh va khong co khoi.)*
+
+B: I won't travel by petrol-powered cars because they are not eco-friendly.
+*(Toi se khong di bang o to chay bang xang vi chung khong than thien voi moi truong.)*
+</answer>
+
+<teacher_script pause="0" action="record">
+Cac em tu noi 2 cau voi will va won't ve phuong tien giao thong nha. Bam nut ghi am ben duoi de ghi lai cau tra loi cua minh.
+</teacher_script>
+
+<!-- chunk: grammar-possessive -->
+<teacher_script pause="0">
+Ok, gio minh hoc ngu phap phan 2 nha. Dai tu so huu, tieng Anh goi la <eng>Possessive Pronouns</eng>. Dai tu so huu dung de thay the cho "tinh tu so huu cong danh tu" de tranh lap lai. Ghi vo tap nha.
+</teacher_script>
+
+<grammar>
+### DAI TU SO HUU (Possessive Pronouns)
+
+**Bang so sanh Tinh tu so huu va Dai tu so huu:**
+
+| Chu ngu | Tinh tu so huu | Dai tu so huu |
+|---------|---------------|---------------|
+| I | my | **mine** |
+| you | your | **yours** |
+| he | his | **his** |
+| she | her | **hers** |
+| it | its | **its** |
+| we | our | **ours** |
+| they | their | **theirs** |
+
+**Cach dung:**
+- **Tinh tu so huu** + danh tu: This is **my** book. *(Day la sach cua toi.)*
+- **Dai tu so huu** thay the ca cum: This book is **mine**. *(Cuon sach nay la cua toi.)*
+
+*Vi du:*
+- This is **your** bicycle. That bicycle is **hers**. *(Day la xe dap cua ban. Chiec xe dap kia la cua co ay.)*
+- **My** car is red. **His** is blue. *(Xe toi mau do. Cua anh ay mau xanh.)*
+- **Their** house is big. **Ours** is small. *(Nha cua ho lon. Cua chung toi nho.)*
+
+**Meo nho:**
+- Tinh tu so huu luon di kem danh tu phia sau (my BOOK, your CAR)
+- Dai tu so huu dung mot minh, khong can danh tu (mine, yours, his, hers, ours, theirs)
+- Hau het dai tu so huu them "s" vao tinh tu so huu: your => yours, her => hers, our => ours, their => theirs
+- Ngoai tru: my => mine (khong phai mys!), his => his (giong nhau luon!)
+</grammar>
+
+<teacher_script pause="0">
+Nho nha: Tinh tu so huu thi di kem danh tu, con dai tu so huu thi dung mot minh thay cho ca cum. Vi du: <eng>my book</eng> la tinh tu so huu cong danh tu, <eng>mine</eng> la dai tu so huu thay cho <eng>my book</eng>. Meo: Thay cac em hay nham my voi mine. Nho: my + DANH TU, mine DUNG MOT MINH. Gio lam bai tap di.
+</teacher_script>
+
+<!-- chunk: bai5 -->
+<teacher_script pause="0">
+Bai 5 trang 117 nha. <eng>Replace the underlined phrases with possessive pronouns.</eng> Thay the cac cum tu duoc gach chan bang dai tu so huu. Doc ky cau roi tim cum nao can thay the nha.
+</teacher_script>
+
+<task>
+**De:** Replace the underlined phrases with possessive pronouns.
+**Dich de:** Thay the cac cum tu duoc gach chan bang dai tu so huu.
+</task>
+
+<questions type="fill_blanks">
+**Example:**
+This is your bicycle. That bicycle is **her bicycle** => hers
+
+**1.** My motorbike runs on electricity. How about **their motorbikes**? _______
+*Xe may cua toi chay bang dien. Con cua ho thi sao?*
+
+**2.** Your bicycle is blue and **my bicycle** is red. _______
+*Xe dap cua ban mau xanh va cua toi mau do.*
+
+**3.** My dream is to travel to the moon. **His dream** is different. _______
+*Uoc mo cua toi la di du lich len mat trang. Uoc mo cua anh ay thi khac.*
+
+**4.** My bus was late. **Your bus** was on time. _______
+*Xe buyt cua toi da bi tre. Xe buyt cua ban da dung gio.*
+
+**5.** His car is a flying car. **Our car** is an electric one. _______
+*O to cua anh ay la o to bay. O to cua chung toi bang dien.*
+</questions>
+
+<teacher_script pause="60">
+1 phut nha. Tim cum gach chan roi thay bang dai tu so huu.
+</teacher_script>
+
+<teacher_script pause="0">
+Ok dap an ne. Minh giai thich tung cau.
+</teacher_script>
+
+<answer>
+**Dap an:** 1. theirs | 2. mine | 3. His | 4. Yours | 5. Ours
+</answer>
+
+<explanation>
+**Cau 1:** My motorbike runs on electricity. How about **theirs**?
+*(Xe may cua toi chay bang dien. Con cua ho thi sao?)*
+- "their motorbikes" = tinh tu so huu "their" + danh tu "motorbikes"
+- Thay bang dai tu so huu: their => **theirs**
+- Meo: their + s = theirs
+
+**Cau 2:** Your bicycle is blue and **mine** is red.
+*(Xe dap cua ban mau xanh va cua toi mau do.)*
+- "my bicycle" = tinh tu so huu "my" + danh tu "bicycle"
+- Thay bang dai tu so huu: my => **mine**
+- Meo: my khong them s, ma doi thanh mine!
+
+**Cau 3:** My dream is to travel to the moon. **His** is different.
+*(Uoc mo cua toi la di du lich len mat trang. Cua anh ay thi khac.)*
+- "His dream" = tinh tu so huu "his" + danh tu "dream"
+- Thay bang dai tu so huu: his => **His** (giong nhau luon!)
+- Meo: his la truong hop dac biet, tinh tu so huu va dai tu so huu giong het nhau
+
+**Cau 4:** My bus was late. **Yours** was on time.
+*(Xe buyt cua toi da bi tre. Cua ban da dung gio.)*
+- "Your bus" = tinh tu so huu "your" + danh tu "bus"
+- Thay bang dai tu so huu: your => **Yours**
+- Meo: your + s = yours
+
+**Cau 5:** His car is a flying car. **Ours** is an electric one.
+*(O to cua anh ay la o to bay. Cua chung toi bang dien.)*
+- "Our car" = tinh tu so huu "our" + danh tu "car"
+- Thay bang dai tu so huu: our => **Ours**
+- Meo: our + s = ours
+</explanation>
+
+<!-- chunk: summary -->
+<teacher_script pause="0">
+Ok, tom tat bai hoc nha. Hom nay minh hoc 2 phan ngu phap. Phan 1 la thi tuong lai don voi will: Khang dinh la S cong will cong V nguyen the. Phu dinh la S cong won't cong V nguyen the. Cau hoi la Will cong S cong V nguyen the? Nho: will di voi tat ca cac ngoi, khong doi gi het. Phan 2 la dai tu so huu: mine, yours, his, hers, its, ours, theirs. Dai tu so huu thay the cho tinh tu so huu cong danh tu. Nho: tinh tu so huu di kem danh tu, dai tu so huu dung mot minh. Lam bai xong thi ghi vao vo, hoc thuoc cong thuc nha. Hen gap lai cac em o bai sau. Bye bye!
 </teacher_script>
