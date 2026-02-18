@@ -93,6 +93,13 @@ Tình huống 1: Bạn cùng lớp muốn thu thập côn trùng/hoa quý hiếm
 4. **Thu thập gỗ đốt lửa:** "Không được phép vì phá hủy hệ sinh thái và gây nguy cơ cháy rừng."
 </answer>
 
+<!-- chunk: exercise_4 -->
+### Bài 4 - Report to class
+
+<teacher_script pause="0" action="record">
+Bài 4, báo cáo câu trả lời cho cả lớp. Bình chọn phản hồi tốt nhất nha. Ghi âm nha.
+</teacher_script>
+
 <!-- chunk: end -->
 <teacher_script pause="0">
 Hết bài <eng>Speaking</eng> Unit 10 rồi. Nhớ các cách bảo vệ đa dạng sinh học: cấm săn bắn, trồng cây, giáo dục, lập khu bảo tồn. Hẹn gặp lại!

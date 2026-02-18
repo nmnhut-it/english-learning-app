@@ -73,6 +73,27 @@ Câu 3: <eng>I really love</eng> bird-watching - Tôi thực sự thích ngắm 
 Các cụm từ thể hiện thích và không thích nha: THÍCH: <eng>I really love, I'm a big fan of, I'm really into, I enjoy</eng>. KHÔNG THÍCH: <eng>I'm not a fan of, I can't stand, I don't really like, I'm not keen on</eng>.
 </teacher_script>
 
+<teacher_script pause="0">
+Bài 2, làm việc theo cặp. Dùng mẫu hội thoại ở bài 1 để tạo hội thoại tương tự cho 2 tình huống sau.
+</teacher_script>
+
+<task>
+**Đề:** Work in pairs. Use the model in 1 to make similar conversations for these situations.
+**Dịch đề:** Làm việc theo cặp. Sử dụng mẫu hội thoại ở bài 1 để tạo hội thoại tương tự cho các tình huống sau.
+</task>
+
+<reading>
+**Situation 1:** Student A is talking about the activities he/she does on field trips to national parks. Student B expresses likes/dislikes about these activities.
+*(Học sinh A nói về các hoạt động trong chuyến đi thực tế đến vườn quốc gia. Học sinh B bày tỏ sự thích/không thích.)*
+
+**Situation 2:** Student A and Student B are planning an eco-friendly class party. They talk about the things and activities they like or dislike at a party.
+*(Học sinh A và B đang lên kế hoạch tổ chức tiệc lớp thân thiện với môi trường. Họ nói về những điều và hoạt động họ thích/không thích.)*
+</reading>
+
+<teacher_script pause="0" action="record">
+Các em dùng các cụm từ đã học nha: <eng>I really love, I'm a big fan of, I can't stand, I'm not a fan of</eng>. Ghi âm nha.
+</teacher_script>
+
 <!-- chunk: culture_1 -->
 ### Culture / CLIL - Protecting ecosystems - Ideas from around the world
 

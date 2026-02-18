@@ -22,6 +22,13 @@ Học từ vựng trước nha.
 8. **floating water season** : (n) mùa nước nổi /ˈfləʊtɪŋ ˈwɔːtər ˈsiːzən/
 </vocabulary>
 
+<!-- chunk: exercise_1 -->
+### Bài 1 - Pre-reading
+
+<teacher_script pause="0">
+Bài 1, thảo luận theo cặp: Bạn đã bao giờ đến Vườn quốc gia U Minh Thượng chưa? Bạn biết gì về nó? Nghĩ thử nha.
+</teacher_script>
+
 <!-- chunk: exercise_2 -->
 ### Bài 2 - Match headings
 

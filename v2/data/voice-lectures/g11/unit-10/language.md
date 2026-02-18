@@ -61,10 +61,10 @@ Bài 2, đánh dấu ngữ điệu câu hỏi đuôi. 45 giây.
 </answer>
 
 <!-- chunk: vocabulary -->
-### Vocabulary - Compound nouns
+### Vocabulary - Plants and animals
 
 <teacher_script pause="0">
-Phần từ vựng: Danh từ ghép <eng>compound nouns</eng>.
+Phần từ vựng: Thực vật và động vật.
 </teacher_script>
 
 <vocabulary>
@@ -73,12 +73,83 @@ Phần từ vựng: Danh từ ghép <eng>compound nouns</eng>.
 3. **species** : (n) loài /ˈspiːʃiːz/
 4. **conservation** : (n) sự bảo tồn /ˌkɒnsəˈveɪʃən/
 5. **mammal** : (n) động vật có vú /ˈmæməl/
-6. **endangered species** : (n) loài có nguy cơ tuyệt chủng /ɪnˈdeɪndʒəd ˈspiːʃiːz/
-7. **nature reserve** : (n) khu bảo tồn thiên nhiên /ˈneɪtʃər rɪˈzɜːv/
 </vocabulary>
 
 <teacher_script pause="45">
-Bài 1, nối từ ở cột A với từ ở cột B để tạo danh từ ghép. 45 giây.
+Bài 1, nối từ với nghĩa đúng. 45 giây.
+</teacher_script>
+
+<questions type="matching">
+1. native (adj) → ___
+2. tropical forest (np) → ___
+3. species (n) → ___
+4. conservation (n) → ___
+5. mammal (n) → ___
+
+a. a group of animals or plants that have similar characteristics
+b. the protection of the natural environment
+c. any animal that gives birth to live young, not eggs, and feeds its young on milk
+d. thick forest that grows in the hot parts of the world
+e. existing naturally in a place
+</questions>
+
+<teacher_script pause="0">
+Đáp án nè.
+</teacher_script>
+
+<answer>
+**Đáp án:** 1-e | 2-d | 3-a | 4-b | 5-c
+</answer>
+
+<teacher_script pause="0">
+Câu 1: <eng>native</eng> = tồn tại tự nhiên ở một nơi. Câu 2: <eng>tropical forest</eng> = rừng rậm ở vùng nóng. Câu 3: <eng>species</eng> = nhóm động thực vật có đặc điểm tương tự. Câu 4: <eng>conservation</eng> = bảo vệ môi trường tự nhiên. Câu 5: <eng>mammal</eng> = động vật sinh con, nuôi con bằng sữa.
+</teacher_script>
+
+<!-- chunk: vocabulary_2 -->
+<teacher_script pause="45">
+Bài 2, điền từ đúng dạng vào câu. 45 giây.
+</teacher_script>
+
+<questions type="fill_blanks">
+1. ___ usually have a great variety of flora and fauna.
+2. Many young people are really interested in wildlife ___ nowadays.
+3. Koalas and kangaroos are ___ to Australia only.
+4. Cat Ba National Park has many plant ___ that can be used as medicine.
+5. Some groups of ___, including lions and tigers, eat mainly meat.
+</questions>
+
+<teacher_script pause="0">
+Đáp án nè.
+</teacher_script>
+
+<answer>
+**Đáp án:**
+1. **Tropical forests** (Rừng nhiệt đới thường có đa dạng động thực vật.)
+2. **conservation** (Nhiều người trẻ quan tâm đến bảo tồn động vật hoang dã.)
+3. **native** (Gấu túi và chuột túi chỉ có nguồn gốc từ Úc.)
+4. **species** (Vườn quốc gia Cát Bà có nhiều loài thực vật dùng làm thuốc.)
+5. **mammals** (Một số nhóm động vật có vú, gồm sư tử và hổ, chủ yếu ăn thịt.)
+</answer>
+
+<!-- chunk: grammar -->
+### Grammar - Compound nouns
+
+<teacher_script pause="0">
+Phần ngữ pháp: Danh từ ghép <eng>compound nouns</eng>.
+</teacher_script>
+
+<grammar>
+**Danh từ ghép (Compound nouns):**
+- **Noun + Noun:** bus stop, wildlife, swimming pool
+- **Adjective + Noun:** mobile phone, sea level, endangered species
+- **Verb/Gerund + Noun:** swimming pool, washing machine
+- Viết liền: **wildlife, sunlight**
+- Viết rời: **bus stop, sea level**
+- Viết gạch nối: **self-confidence**
+</grammar>
+
+<teacher_script pause="45">
+Bài 1, dùng các từ trong hộp để tạo 5 danh từ ghép. 45 giây.
 </teacher_script>
 
 <questions type="matching">
@@ -99,71 +170,33 @@ B: species, reserve, expectancy, forest, school
 - **vocational school** (trường dạy nghề)
 </answer>
 
-<teacher_script pause="45">
-Bài 2, chọn danh từ ghép đúng để hoàn thành câu. 45 giây.
-</teacher_script>
-
-<questions type="fill_blanks">
-1. Many plant and animal ___ are disappearing.
-2. We visited a ___ in Kien Giang Province.
-3. The ___ in Viet Nam has increased over the years.
-4. The Amazon ___ is home to millions of species.
-</questions>
+<!-- chunk: grammar_2 -->
+### Grammar 2 - Practice compound nouns
 
 <teacher_script pause="0">
-Đáp án nè.
+Bài 2, làm việc theo cặp. Dùng các từ trong hộp để tạo danh từ ghép rồi đặt câu nha.
 </teacher_script>
 
-<answer>
-**Đáp án:**
-1. **species** (loài)
-2. **nature reserve** (khu bảo tồn)
-3. **life expectancy** (tuổi thọ)
-4. **rain forest** (rừng mưa)
-</answer>
+<task>
+**Đề:** Work in pairs. Use the words in the box to make compound nouns. Then make sentences with them.
+**Dịch đề:** Làm việc theo cặp. Sử dụng các từ trong hộp để tạo danh từ ghép. Sau đó đặt câu với chúng.
+</task>
 
-<!-- chunk: grammar -->
-### Grammar - Compound nouns (structure)
+<reading>
+**Words:** wild, swim, life, level, warm, mobile, sea, globe, pool, phone
 
-<teacher_script pause="0">
-Phần ngữ pháp: Cấu trúc danh từ ghép.
-</teacher_script>
+**Example:** There are many factors that contribute to **global warming**.
 
-<grammar>
-**Danh từ ghép (Compound nouns):**
-- **Noun + Noun:** bus stop, wildlife, swimming pool
-- **Adjective + Noun:** mobile phone, sea level, endangered species
-- **Verb/Gerund + Noun:** swimming pool, washing machine
-- Viết liền: **wildlife, sunlight**
-- Viết rời: **bus stop, sea level**
-- Viết gạch nối: **self-confidence**
-</grammar>
+**Compound nouns:**
+- **wildlife** (động vật hoang dã)
+- **swimming pool** (bể bơi)
+- **sea level** (mực nước biển)
+- **mobile phone** (điện thoại di động)
+- **global warming** (sự nóng lên toàn cầu)
+</reading>
 
-<teacher_script pause="45">
-Tìm và sửa lỗi danh từ ghép trong các câu. 45 giây.
-</teacher_script>
-
-<questions type="fill_blanks">
-1. You can get off at the next busstop.
-2. Watching the sunsetting at the beach is really amazing.
-3. Did you have a chance to do any sightsee in Paris?
-4. Viet Nam has a large variety of fascinating wildlives.
-</questions>
-
-<teacher_script pause="0">
-Đáp án nè.
-</teacher_script>
-
-<answer>
-**Đáp án:**
-1. busstop → **bus stop** (viết rời, 2 từ)
-2. sunsetting → **sunset** (danh từ ghép, không thêm -ting)
-3. sightsee → **sightseeing** (danh từ ghép đúng)
-4. wildlives → **wildlife** (không đếm được, không có số nhiều)
-</answer>
-
-<teacher_script pause="0">
-Câu 1: <eng>bus stop</eng> viết rời, không viết liền. Câu 2: <eng>sunset</eng> là danh từ ghép, không phải <eng>sunsetting</eng>. Câu 3: <eng>sightseeing</eng> - ngắm cảnh. Câu 4: <eng>wildlife</eng> không đếm được, không thêm s.
+<teacher_script pause="0" action="record">
+Các em đặt câu với các danh từ ghép nha. Ví dụ: <eng>Development of the area would endanger wildlife.</eng> Hoặc: <eng>There is an indoor swimming pool in my villa.</eng> Ghi âm nha.
 </teacher_script>
 
 <!-- chunk: end -->

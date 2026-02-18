@@ -72,19 +72,71 @@ Bài 2, đọc lại hội thoại và xác định câu đúng hay sai. 30 giâ
 Câu 1 sai: Nam đi cuối tuần trước <eng>last weekend</eng>, không phải hai tuần trước. Câu 2 đúng: hệ sinh thái gồm sinh vật sống và không sống tạo thành cộng đồng. Câu 3 đúng: nhiều hệ sinh thái trên thế giới đang bị mất.
 </teacher_script>
 
-<!-- chunk: exercise_4 -->
-### Bài 4 - Compound nouns
+<!-- chunk: exercise_3 -->
+### Bài 3 - Complete the diagram
 
-<teacher_script pause="30">
-Bài 4, tìm danh từ ghép trong hội thoại. 30 giây.
+<teacher_script pause="45">
+Bài 3, hoàn thành sơ đồ về hệ sinh thái bằng các từ trong bài 1. 45 giây.
+</teacher_script>
+
+<questions type="fill_blanks">
+**Ecosystem:**
+- (1) ___ things:
+  - Plants or (2) ___
+  - Animals or (3) ___
+  - Tiny organisms such as (4) ___
+- (5) ___ things:
+  - Sunlight, soil, air, water, etc.
+</questions>
+
+<teacher_script pause="0">
+Đáp án nè.
 </teacher_script>
 
 <answer>
 **Đáp án:**
-- **climate change** (biến đổi khí hậu)
-- **natural resources** (tài nguyên thiên nhiên)
-- **national park** (vườn quốc gia)
-- **raw materials** (nguyên liệu thô)
+1. **Living** (sinh vật sống)
+2. **flora** (hệ thực vật)
+3. **fauna** (hệ động vật)
+4. **bacteria** (vi khuẩn)
+5. **Non-living** (vật không sống)
+</answer>
+
+<teacher_script pause="0">
+Hệ sinh thái gồm 2 phần: sinh vật sống (<eng>Living things</eng>) gồm thực vật <eng>flora</eng>, động vật <eng>fauna</eng>, sinh vật nhỏ như vi khuẩn <eng>bacteria</eng>. Và vật không sống (<eng>Non-living things</eng>) gồm ánh sáng, đất, không khí, nước.
+</teacher_script>
+
+<!-- chunk: exercise_4 -->
+### Bài 4 - Compound nouns
+
+<teacher_script pause="30">
+Bài 4, dùng các từ trong hộp để tạo danh từ ghép rồi nối với nghĩa bên dưới. 30 giây.
+</teacher_script>
+
+<task>
+**Đề:** Use the words in the box to form compound nouns mentioned in 1. Match them with the meanings below.
+**Dịch đề:** Sử dụng các từ trong hộp để tạo danh từ ghép. Nối với nghĩa bên dưới.
+</task>
+
+<questions type="matching">
+**Words:** raw, climate, change, resources, park, natural, national, materials
+
+1. a change in the earth's weather conditions → ___
+2. things that exist in nature and can be used by people → ___
+3. land protected by the government because of its natural beauty or special history → ___
+4. basic materials used to make products → ___
+</questions>
+
+<teacher_script pause="0">
+Đáp án nè.
+</teacher_script>
+
+<answer>
+**Đáp án:**
+1. **climate change** (biến đổi khí hậu)
+2. **natural resources** (tài nguyên thiên nhiên)
+3. **national park** (vườn quốc gia)
+4. **raw materials** (nguyên liệu thô)
 </answer>
 
 <teacher_script pause="0">
