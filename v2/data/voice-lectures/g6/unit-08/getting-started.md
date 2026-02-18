@@ -15,22 +15,25 @@ Bài đầu tiên là <eng>Getting Started</eng> với tựa đề <eng>At the g
 
 <!-- chunk: vocabulary -->
 <vocabulary>
-1. **gym** : (n) phòng tập thể dục /dʒɪm/
-2. **equipment** : (n) thiết bị, dụng cụ /ɪˈkwɪpmənt/
-3. **great** : (adj) tuyệt vời, xuất sắc /ɡreɪt/
-4. **sports** : (n) thể thao /spɔːts/
-5. **do sports** : chơi thể thao /duː spɔːts/
-6. **do karate** : tập karate /duː kəˈrɑːti/
-7. **play table tennis** : chơi bóng bàn /pleɪ ˈteɪbl ˈtenɪs/
-8. **yesterday** : (n, adv) hôm qua /ˈjestədeɪ/
-9. **congratulations!** : (interj) xin chúc mừng! /kənˌɡrætʃʊˈleɪʃnz/
-10. **look fit** : trông khỏe mạnh /lʊk fɪt/
-11. **be good at + noun** : giỏi về (một môn gì đó) /biː ɡʊd æt/
-12. **have an idea** : có một ý tưởng /hæv ən aɪˈdɪə/
-13. **karate club** : câu lạc bộ karate /kəˈrɑːti klʌb/
-14. **meet you there** : gặp bạn ở đó /miːt juː ðeə/
-15. **see you then** : hẹn gặp lại /siː juː ðen/
-16. **cycle** : (v) đạp xe /ˈsaɪkl/
+1. **fit** : (adj) khỏe khoắn /fɪt/
+2. **gym** : (n) phòng tập thể dục /dʒɪm/
+3. **table tennis** : (n) bóng bàn /ˈteɪbl ˈtenɪs/
+4. **club** : (n) câu lạc bộ /klʌb/
+5. **cycle** : (v) đạp xe /ˈsaɪkl/
+6. **equipment** : (n) thiết bị, dụng cụ /ɪˈkwɪpmənt/
+7. **sports** : (n) thể thao /spɔːts/
+8. **do sports** : chơi thể thao /duː spɔːts/
+9. **do karate** : tập karate /duː kəˈrɑːti/
+10. **play table tennis** : chơi bóng bàn /pleɪ ˈteɪbl ˈtenɪs/
+11. **yesterday** : (n, adv) hôm qua /ˈjestədeɪ/
+12. **congratulations!** : (interj) xin chúc mừng! /kənˌɡrætʃʊˈleɪʃnz/
+13. **look fit** : trông khỏe mạnh /lʊk fɪt/
+14. **be good at + noun** : giỏi về (một môn gì đó) /biː ɡʊd æt/
+15. **have an idea** : có một ý tưởng /hæv ən aɪˈdɪə/
+16. **karate club** : câu lạc bộ karate /kəˈrɑːti klʌb/
+17. **meet you there** : gặp bạn ở đó /miːt juː ðeə/
+18. **see you then** : hẹn gặp lại /siː juː ðen/
+19. **great** : (adj) tuyệt vời, xuất sắc /ɡreɪt/
 </vocabulary>
 
 ---

@@ -29,6 +29,7 @@ Hôm nay học về Pelé - Vua bóng đá á! Sau đó tập nói về các v�
 12. **competition** : (n) cuộc thi /ˌkɒmpəˈtɪʃn/
 13. **tournament** : (n) giải đấu /ˈtʊənəmənt/
 14. **take part in** : tham gia vào /teɪk pɑːt ɪn/
+15. **golfer** : (n) người chơi golf /ˈɡɒlfə/
 </vocabulary>
 
 ---

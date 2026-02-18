@@ -16,10 +16,11 @@ Ok lớp 6, <eng>Skills 2</eng> nha. Mở sách trang 23 đi. Hôm nay luyện n
 3. **favourite sport** : môn thể thao yêu thích /ˈfeɪvərɪt spɔːt/
 4. **strong** : (adj) khỏe mạnh /strɒŋ/
 5. **confident** : (adj) tự tin /ˈkɒnfɪdənt/
-6. **hobby** : (n) sở thích /ˈhɒbi/
-7. **computer games** : (n) trò chơi máy tính /kəmˈpjuːtə ɡeɪmz/
-8. **shuttlecock** : (n) quả cầu lông /ˈʃʌtlkɒk/
-9. **racquet** : (n) cây vợt /ˈrækɪt/
+6. **chess** : (n) cờ vua /tʃes/
+7. **hobby** : (n) sở thích /ˈhɒbi/
+8. **computer games** : (n) trò chơi máy tính /kəmˈpjuːtə ɡeɪmz/
+9. **shuttlecock** : (n) quả cầu lông /ˈʃʌtlkɒk/
+10. **racquet** : (n) cây vợt /ˈrækɪt/
 </vocabulary>
 
 ---

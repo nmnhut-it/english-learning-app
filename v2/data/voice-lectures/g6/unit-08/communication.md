@@ -13,6 +13,20 @@ Hôm nay học cách chúc mừng - <eng>Congratulations</eng> và hỏi đáp v
 
 ---
 
+<!-- chunk: vocabulary -->
+<teacher_script pause="0">
+Các em mở sách ra, Unit 8, bài <eng>Communication</eng>, ghi tựa bài. Sau đó bấm nút "Bắt đầu" bên dưới để học từ vựng. Máy sẽ đọc và các em đọc theo. Sau đó các em làm bài trắc nghiệm từ vựng rồi ghi từ vựng vô tập.
+</teacher_script>
+
+<vocabulary>
+1. **marathon** : (n) cuộc chạy đua đường trường /ˈmærəθən/
+2. **champion** : (n) nhà vô địch /ˈtʃæmpiən/
+3. **match** : (n) trận đấu /mætʃ/
+4. **take place** : (v) diễn ra /teɪk pleɪs/
+</vocabulary>
+
+---
+
 <!-- chunk: theory_intro -->
 <grammar>
 ## Cấu trúc giao tiếp: Chúc mừng
@@ -90,10 +104,12 @@ Bài 2 <eng>Work in pairs</eng> nha. Làm theo cặp đi. Một bạn đóng vai
 
 | English | Vietnamese |
 |---------|------------|
-| **A:** Last week I won the first prize of my school's singing contest. | **A:** Tuần trước mình đã giành giải nhất cuộc thi hát của trường. |
-| **B:** Congratulations! | **B:** Chúc mừng bạn nhé! |
-| **A:** Thank you. | **A:** Cảm ơn. |
-| **B:** You're the school's star now! | **B:** Bạn là ngôi sao của trường rồi! |
+| **My:** Last week I won the first prize of my school's singing contest. | **My:** Tuần trước mình đã giành giải nhất cuộc thi hát của trường. |
+| **Minh:** Congratulations! | **Minh:** Chúc mừng bạn nhé! |
+| **My:** Thank you, Minh. | **My:** Cảm ơn Minh. |
+| **Minh:** So you're your school's idol. Anyway, last week I also won the championship of my school's badminton competition. | **Minh:** Vậy bạn là thần tượng của trường rồi. À này, tuần trước mình cũng đã giành chức vô địch trong cuộc thi cầu lông của trường đấy. |
+| **My:** Congratulations! | **My:** Chúc mừng bạn nha! |
+| **Minh:** It's very kind of you. Thanks, My. | **Minh:** Bạn rất tốt. Cảm ơn, My. |
 </dialogue>
 
 <teacher_script pause="60" href="audio/tts_4ffef525.mp3">
@@ -221,12 +237,10 @@ Bài 4 <eng>Interview your partners</eng> nha. Làm theo nhóm, phỏng vấn b�
 
 | Question | Vietnamese |
 |----------|------------|
-| **1.** What sports/games do you play in your free time? | Bạn chơi môn gì trong thời gian rảnh? |
-| **2.** Do you play them well? | Bạn chơi giỏi không? |
-| **3.** When and how often do you play them? | Bạn chơi khi nào và bao lâu một lần? |
-| **4.** Which sport/game do you like watching on TV? | Bạn thích xem môn gì trên TV? |
-| **5.** Did you join any clubs? | Bạn có tham gia câu lạc bộ nào không? |
-| **6.** What else do you do in your spare time? | Thời gian rảnh bạn còn làm gì khác? |
+| **1.** What sports / games do you play in your free time? Do you play them well? When and how often do you play them? | Bạn chơi môn gì trong thời gian rảnh? Bạn chơi giỏi không? Bạn chơi khi nào và bao lâu một lần? |
+| **2.** Which sport / game do you like watching on TV? | Bạn thích xem môn thể thao / trò chơi nào trên TV? |
+| **3.** Did you join any clubs? | Bạn đã tham gia câu lạc bộ nào chưa? |
+| **4.** If you don't play sport, what do you often do in your spare time? | Nếu bạn không chơi thể thao, bạn thường làm gì vào thời gian rảnh rỗi? |
 </grammar>
 
 <dialogue>
