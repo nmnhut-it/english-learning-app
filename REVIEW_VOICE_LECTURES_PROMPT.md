@@ -3,8 +3,20 @@
 ## Task
 Review and update voice-lecture files for **Grade [X] Unit [Y]** to ensure they match the source content exactly and meet all checklist requirements.
 
+## ⚠️ CRITICAL: NO FABRICATION ALLOWED
+
+**ALL exercise content MUST come directly from loigiaihay.com source files.**
+
+- ❌ **NEVER** fabricate/invent exercise questions
+- ❌ **NEVER** guess or create word banks, options, or tables
+- ❌ **NEVER** shorten, abbreviate, or paraphrase source text
+- ✅ **ALWAYS** copy exercises exactly from source (word-for-word)
+- ✅ **ALWAYS** verify against loigiaihay.com before writing
+
+**If source file is missing or unclear → ASK, don't guess.**
+
 ## Source Files Location
-- **loigiaihay.com source**: `/loigiaihay.com/grade[X]/unit-[YY]/*.md`
+- **loigiaihay.com source** (PRIMARY): `/loigiaihay.com/grade[X]/unit-[YY]/*.md`
 - **Ground-truth (vocab + answers)**: `/ground-truth/g[X]/g[X]_part_[Y].md`
 - **Voice-lecture files**: `/v2/data/voice-lectures/g[X]/unit-[YY]/*.md`
 
@@ -21,16 +33,18 @@ Review and update voice-lecture files for **Grade [X] Unit [Y]** to ensure they 
 
 ## Checklist for Each File
 
-### 1. Exercises Match Source Exactly (Word-for-Word)
-- [ ] All questions match loigiaihay.com source **exactly** (not shortened/abbreviated)
+### 1. ⚠️ Exercises Match Source EXACTLY (No Fabrication)
+- [ ] All questions **copied word-for-word** from loigiaihay.com source
 - [ ] All answer options (A, B, C, D) match source exactly
-- [ ] Word banks match source exactly
-- [ ] Tables and matching exercises match source format
+- [ ] Word banks copied exactly (same words, same order)
+- [ ] Tables and matching exercises match source format exactly
+- [ ] Fill-in-the-blank sentences match source exactly
+- [ ] **NO invented/fabricated content** - everything from source
 
 ### 2. Answers Are Correct
 - [ ] All answers match loigiaihay.com source
 - [ ] Check ground-truth file (`g[X]_part_[Y].md`) for verified answers
-- [ ] Explanations are accurate
+- [ ] Explanations are accurate (based on source explanations)
 
 ### 3. Translations Included
 - [ ] Full dialogue with bilingual table (English | Vietnamese)
@@ -111,14 +125,18 @@ Read these files first:
 
 ### Step 2: Compare and Identify Issues
 For each exercise, check:
-- Does the question text match exactly?
+- ⚠️ **Is the exercise text EXACTLY from source?** (not fabricated/invented)
+- Does the question text match word-for-word?
+- Are word banks/options exactly from source?
 - Are answer options complete?
 - Is there Vietnamese translation?
 - Is the answer correct?
 
 ### Step 3: Update Voice-Lecture File
 Fix any issues found:
+- ⚠️ **DELETE fabricated content** and copy from source
 - Replace shortened questions with full sentences from source
+- Replace invented word banks with exact source content
 - Add missing Vietnamese translations
 - Fix incorrect answers
 - Add missing teacher_scripts
@@ -169,15 +187,17 @@ A. budget | B. agency | C. tourism | D. homestay
 
 ## Common Issues to Fix
 
-1. **Shortened questions** → Replace with full sentences from source
-2. **Missing translations** → Add Vietnamese in italics below English
-3. **Wrong answers** → Check ground-truth file for correct answers
-4. **Missing vocabulary** → Copy from ground-truth file with IPA
-5. **Missing exercises** → Add missing Bài numbers from source
-6. **Teacher script not explaining answers** → Add individual answer explanations
-7. **Formal Vietnamese** → Convert to Southern casual style (nha, đi, hen, etc.)
-8. **Missing bilingual dialogue** → Convert to table format with both languages
-9. **Missing tapescript** → Add from source with translation
+1. **⚠️ Fabricated exercises** → DELETE and replace with exact content from loigiaihay.com source
+2. **Shortened/paraphrased questions** → Replace with full sentences from source (word-for-word)
+3. **Invented word banks** → Replace with exact word bank from source
+4. **Wrong answers** → Check ground-truth file for correct answers
+5. **Missing translations** → Add Vietnamese in italics below English
+6. **Missing vocabulary** → Copy from ground-truth file with IPA
+7. **Missing exercises** → Add missing Bài numbers from source
+8. **Teacher script not explaining answers** → Add individual answer explanations
+9. **Formal Vietnamese** → Convert to Southern casual style (nha, đi, hen, etc.)
+10. **Missing bilingual dialogue** → Convert to table format with both languages
+11. **Missing tapescript** → Add from source with translation
 
 ---
 

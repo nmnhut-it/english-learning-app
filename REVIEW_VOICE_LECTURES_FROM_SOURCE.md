@@ -1,5 +1,13 @@
 # Voice Lecture Review Guide (Using loigiaihay.com Source)
 
+## ⚠️ CRITICAL: NO FABRICATION
+
+**ALL exercise content MUST come from loigiaihay.com source files.**
+- ❌ NEVER invent/fabricate exercises, word banks, or questions
+- ❌ NEVER shorten or paraphrase source text
+- ✅ ALWAYS copy exercises word-for-word from source
+- ✅ If source is unclear → ASK, don't guess
+
 ## File Locations
 
 | Type | Path Pattern |
@@ -24,22 +32,28 @@
 - [ ] English text must match source exactly
 - [ ] Vietnamese translation should be accurate
 
-### 2. Exercise Answers
+### 2. ⚠️ Exercise Content (No Fabrication)
+- [ ] Exercise questions copied **word-for-word** from source
+- [ ] Word banks/options match source exactly (same words, same order)
+- [ ] Tables and matching exercises match source format
+- [ ] **NO invented/fabricated content**
+
+### 3. Exercise Answers
 - [ ] Answers match source exactly (singular/plural forms matter)
 - [ ] Example: "folk dances" not "folk dance" if source says plural
 - [ ] Check all blanks filled correctly
 
-### 3. Content Separation
+### 4. Content Separation
 - [ ] Each section file contains ONLY that section's content
 - [ ] Getting Started should NOT include A Closer Look 1 content
 - [ ] Check for `<!-- chunk: closer_look_1 -->` or similar misplaced content
 
-### 4. Vocabulary
+### 5. Vocabulary
 - [ ] All vocabulary from source is included
 - [ ] Pronunciation (IPA) matches source
 - [ ] Word types (n, v, adj) are correct
 
-### 5. Quiz/Matching Answers
+### 6. Quiz/Matching Answers
 - [ ] Answer keys match source (1-e, 2-a, etc.)
 - [ ] Explanations are accurate
 
@@ -47,6 +61,9 @@
 
 | Issue | Example | Fix |
 |-------|---------|-----|
+| ⚠️ **Fabricated exercise** | Invented questions not in source | DELETE and copy from loigiaihay.com |
+| ⚠️ **Shortened questions** | "If travelling abroad..." | Use full sentence from source |
+| ⚠️ **Invented word bank** | Made-up word options | Copy exact word bank from source |
 | Wrong speaker | "Trang: Good afternoon" | "Mark and Trang: Good afternoon" |
 | Missing bilingual format | Vietnamese only | Add `<dialogue>` table with both languages |
 | Singular/plural mismatch | "folk dance" | "folk dances" (match source) |
