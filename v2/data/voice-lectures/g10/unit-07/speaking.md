@@ -12,12 +12,11 @@ Học từ vựng trước nha.
 </teacher_script>
 
 <vocabulary>
-1. **career advice** : (n.phr) tư vấn nghề nghiệp /kəˈrɪər ədˈvaɪs/
+1. **career advice** : (n.phr) lời khuyên nghề nghiệp /kəˈrɪər ədˈvaɪs/
 2. **job market** : (n.phr) thị trường việc làm /dʒɒb ˈmɑːkɪt/
 3. **focus on** : (v.phr) tập trung vào /ˈfəʊkəs ɒn/
 4. **life-saving vaccines** : (n.phr) vắc-xin cứu mạng /ˈlaɪfseɪvɪŋ ˈvæksiːnz/
 5. **drop out of school** : (v.phr) bỏ học /drɒp aʊt ɒv skuːl/
-6. **poverty reduction** : (n.phr) giảm nghèo /ˈpɒvəti rɪˈdʌkʃən/
 </vocabulary>
 
 <!-- chunk: exercise_1 -->

@@ -13,14 +13,18 @@ Học từ vựng trước nha.
 
 <vocabulary>
 1. **support** : (n/v) hỗ trợ /səˈpɔːt/
-2. **essential** : (adj) cần thiết /ɪˈsenʃəl/
-3. **disabilities** : (n) khuyết tật /ˌdɪsəˈbɪlɪtiz/
-4. **respect** : (v) tôn trọng /rɪˈspekt/
-5. **practical** : (adj) thực tiễn /ˈpræktɪkəl/
-6. **prepare for** : (v.phr) chuẩn bị cho /prɪˈpeər fɔːr/
-7. **fast-changing world** : (n.phr) thế giới thay đổi nhanh /fɑːst ˈtʃeɪndʒɪŋ wɜːld/
-8. **offer** : (v) cung cấp /ˈɒfər/
-9. **career advice** : (n.phr) tư vấn nghề nghiệp /kəˈrɪər ədˈvaɪs/
+2. **offer** : (v) mang đến /ˈɒfər/
+3. **essential** : (adj) cần thiết /ɪˈsenʃl/
+4. **disabilities** : (n) khuyết tật /ˌdɪsəˈbɪlɪtiz/
+5. **promote** : (v) thúc đẩy /prəˈməʊt/
+6. **prevent** : (v) ngăn ngừa /prɪˈvent/
+7. **prepare someone for something** : (v.phr) chuẩn bị để ai đó làm gì /prɪˈpeə ˈsʌmwʌn fɔː ˈsʌmθɪŋ/
+8. **regional educational programme** : (n.phr) chương trình giáo dục khu vực /ˈriːdʒənl ˌedʒuˈkeɪʃənl ˈprəʊɡræm/
+9. **fast-changing world** : (n.phr) thế giới thay đổi nhanh chóng /fɑːst ˈtʃeɪndʒɪŋ wɜːld/
+10. **respect** : (v) tôn trọng /rɪˈspekt/
+11. **look down on somebody** : (v.phr) coi thường /lʊk daʊn ɒn ˈsʌmbədi/
+12. **get on well with somebody** : (v.phr) hòa thuận với ai đó /ɡet ɒn wel wɪð ˈsʌmbədi/
+13. **refuse** : (v) từ chối /rɪˈfjuːz/
 </vocabulary>
 
 <!-- chunk: exercise_1 -->
@@ -120,7 +124,7 @@ Bài 3, đọc lại rồi trả lời câu hỏi nha. 1 phút.
 <questions type="fill_blanks">
 **1.** What does UNICEF particularly aim to do for children in Viet Nam?
 **2.** Which programme helps disadvantaged teenagers continue their education?
-**3.** Which programme supports children with disabilities?
+**3.** Which programme supports disable teenagers?
 **4.** What is the aim of the Improving Learning Achievements programme?
 </questions>
 

@@ -6,6 +6,31 @@
 Ok lớp 10, hôm nay mình học bài <eng>Language</eng> Unit 7 nha. Phần phát âm học trọng âm từ có nhiều hơn 3 âm tiết, từ vựng về tổ chức quốc tế, và ngữ pháp so sánh hơn và so sánh nhất. Mở sách ra đi.
 </teacher_script>
 
+<!-- chunk: vocabulary -->
+<teacher_script pause="0">
+Học từ vựng trước nha. Bấm nút "Bắt đầu" để học từ vựng.
+</teacher_script>
+
+<vocabulary>
+1. **disadvantaged children** : (n.phr) trẻ em có hoàn cảnh khó khăn /ˌdɪsədˈvɑːntɪdʒd ˈtʃɪldrən/
+2. **environmental protection** : (n.phr) bảo vệ môi trường /ɪnˌvaɪərənˈmentl prəˈtekʃən/
+3. **educational opportunities** : (n.phr) cơ hội giáo dục /ˌedʒuˈkeɪʃənl ˌɒpəˈtjuːnətiz/
+4. **intend** : (v) định làm gì /ɪnˈtend/
+5. **create** : (v) tạo ra /kriˈeɪt/
+6. **go into** : (phr.v) đi vào /ɡəʊ ˈɪntuː/
+7. **encourage** : (v) khuyến khích /ɪnˈkʌrɪdʒ/
+8. **promise** : (v) hứa /ˈprɒmɪs/
+9. **customs** : (n) phong tục /ˈkʌstəmz/
+10. **commit** : (v) cam kết /kəˈmɪt/
+11. **donation** : (n) sự quyên góp /dəʊˈneɪʃn/
+12. **sign an agreement** : (v.phr) ký một thỏa thuận /saɪn ən əˈɡriːmənt/
+13. **packaging** : (n) bao bì /ˈpækɪdʒɪŋ/
+14. **destination** : (n) điểm đến /ˌdestɪˈneɪʃn/
+15. **competitive** : (adj) cạnh tranh /kəmˈpetətɪv/
+16. **imported goods** : (n.phr) hàng nhập khẩu /ɪmˈpɔːtɪd ɡʊdz/
+17. **stage** : (n) trường (vị trí) /steɪdʒ/
+</vocabulary>
+
 <!-- chunk: pronunciation_1 -->
 ### Pronunciation - Bài 1 trang 74
 

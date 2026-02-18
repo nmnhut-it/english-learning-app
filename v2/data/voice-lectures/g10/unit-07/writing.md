@@ -12,10 +12,9 @@ Học từ vựng trước nha.
 </teacher_script>
 
 <vocabulary>
-1. **cultural exchanges** : (n.phr) giao lưu văn hóa /ˈkʌltʃərəl ɪksˈtʃeɪndʒɪz/
+1. **various exchanges** : (n.phr) hoạt động trao đổi đa dạng /ˈveərɪəs ɪksˈtʃeɪndʒɪz/
 2. **travel abroad** : (v.phr) đi du lịch nước ngoài /ˈtrævl əˈbrɔːd/
-3. **popular destination** : (n.phr) điểm đến phổ biến /ˈpɒpjʊlər ˌdestɪˈneɪʃən/
-4. **open to** : (adj.phr) mở ra cho /ˈəʊpən tuː/
+3. **get to know** : (v.phr) tìm hiểu /ɡet tuː nəʊ/
 </vocabulary>
 
 <!-- chunk: exercise_1 -->

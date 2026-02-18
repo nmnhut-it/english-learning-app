@@ -13,17 +13,18 @@ Học từ vựng trước nha. Bấm nút "Bắt đầu" để học từ vựn
 
 <vocabulary>
 1. **world peace** : (n.phr) hòa bình thế giới /wɜːld piːs/
-2. **poverty** : (n) sự nghèo đói /ˈpɒvəti/
-3. **peacekeeping** : (n) gìn giữ hòa bình /ˈpiːskiːpɪŋ/
-4. **aim** : (v) nhằm mục đích /eɪm/
-5. **make sure** : (v.phr) đảm bảo /meɪk ʃʊər/
-6. **technical support** : (n.phr) hỗ trợ kỹ thuật /ˈteknɪkəl səˈpɔːt/
-7. **economic** : (adj) thuộc về kinh tế /ˌiːkəˈnɒmɪk/
-8. **achieve** : (v) đạt được /əˈtʃiːv/
-9. **foreign investors** : (n.phr) nhà đầu tư nước ngoài /ˈfɒrɪn ɪnˈvestəz/
-10. **participate in** : (v.phr) tham gia /pɑːˈtɪsɪpeɪt ɪn/
-11. **disadvantaged** : (adj) có hoàn cảnh khó khăn /ˌdɪsədˈvɑːntɪdʒd/
-12. **form** : (v) thành lập /fɔːm/
+2. **poverty** : (n) sự nghèo nàn /ˈpɒvəti/
+3. **join** : (v) gia nhập /dʒɔɪn/
+4. **peacekeeping** : (n) hoạt động gìn giữ hòa bình /ˈpiːskiːpɪŋ/
+5. **form** : (v) thành lập /fɔːm/
+6. **aim** : (v) nhằm /eɪm/
+7. **make sure** : (v.phr) đảm bảo /meɪk ʃʊə/
+8. **technical support** : (n.phr) hỗ trợ kỹ thuật /ˈteknɪkəl səˈpɔːt/
+9. **economic** : (adj) thuộc về kinh tế /ˌiːkəˈnɒmɪk/
+10. **achieve** : (v) đạt được /əˈtʃiːv/
+11. **foreign investors** : (n.phr) nhà đầu tư nước ngoài /ˈfɒrɪn ɪnˈvestəz/
+12. **damage** : (v) hư hại /ˈdæmɪdʒ/
+13. **participate in** : (v.phr) tham gia /pɑːˈtɪsɪpeɪt ɪn/
 </vocabulary>
 
 <!-- chunk: reading -->

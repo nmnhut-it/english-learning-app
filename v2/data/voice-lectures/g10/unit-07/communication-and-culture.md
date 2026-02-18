@@ -12,12 +12,14 @@ Học từ vựng trước nha.
 </teacher_script>
 
 <vocabulary>
-1. **art exhibition** : (n.phr) triển lãm nghệ thuật /ɑːt ˌeksɪˈbɪʃən/
-2. **delighted** : (adj) vui mừng /dɪˈlaɪtɪd/
-3. **hunger** : (n) nạn đói /ˈhʌŋɡər/
-4. **nutrition** : (n) dinh dưỡng /njuːˈtrɪʃən/
-5. **agricultural products** : (n.phr) nông sản /ˌæɡrɪˈkʌltʃərəl ˈprɒdʌkts/
-6. **food security** : (n.phr) an ninh lương thực /fuːd sɪˈkjʊərɪti/
+1. **on time** : (prep.phr) đúng giờ /ɒn taɪm/
+2. **art exhibition** : (n.phr) triển lãm nghệ thuật /ɑːt ˌeksɪˈbɪʃən/
+3. **delighted** : (adj) vui mừng /dɪˈlaɪtɪd/
+4. **hunger** : (n) nạn đói /ˈhʌŋɡər/
+5. **nutrition** : (n) dinh dưỡng /njuːˈtrɪʃn/
+6. **agricultural products** : (n.phr) nông sản /ˌæɡrɪˈkʌltʃərəl ˈprɒdʌkts/
+7. **food security** : (n.phr) an ninh lương thực /fuːd sɪˈkjʊərɪti/
+8. **growth and development** : (n.phr) sự tăng trưởng và phát triển /ɡrəʊθ ænd dɪˈveləpmənt/
 </vocabulary>
 
 <!-- chunk: everyday_english_1 -->

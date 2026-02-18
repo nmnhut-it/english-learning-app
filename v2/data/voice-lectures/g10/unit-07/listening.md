@@ -13,11 +13,9 @@ Học từ vựng trước nha.
 
 <vocabulary>
 1. **be willing to** : (v.phr) sẵn sàng /biː ˈwɪlɪŋ tuː/
-2. **non-governmental organisations** : (n.phr) tổ chức phi chính phủ /nɒn ˌɡʌvənˈmentəl/
-3. **reliable partner** : (n.phr) đối tác tin cậy /rɪˈlaɪəbl ˈpɑːtnər/
-4. **select** : (v) chọn /sɪˈlekt/
-5. **gain** : (v) thu được /ɡeɪn/
-6. **foreign relations** : (n.phr) quan hệ đối ngoại /ˈfɒrɪn rɪˈleɪʃənz/
+2. **non-governmental organisations** : (n.phr) tổ chức phi chính phủ /nɒn ˌɡʌvənˈmentl ˌɔːɡənaɪˈzeɪʃənz/
+3. **select** : (v) chọn /sɪˈlekt/
+4. **gain** : (v) thu được /ɡeɪn/
 </vocabulary>
 
 <!-- chunk: exercise_1 -->
@@ -53,6 +51,54 @@ Bài 2, nghe cuộc hội thoại về quan hệ đối ngoại của Việt Nam
 <audio>
 https://img.loigiaihay.com/picture/2022/0808/054.mp3
 </audio>
+
+<reading>
+**Phong:** Hi, Nam! Our presentation about Viet Nam's participation in international organisations is next week. Let's check what information we have collected.
+
+**Nam:** OK. First, Viet Nam is now a member of over 60 international organisations. It also has relations with more than 650 non-governmental organisations.
+
+**Phong:** So, did you find any information about our country's international relations?
+
+**Nam:** Viet Nam is open to international relations. It's a friend and a reliable partner of many countries in the international community. It has become more active in international and regional events as well.
+
+**Phong:** That's right. I also heard on the news that our country has sent officers to participate in the United Nations' peacekeeping.
+
+**Nam:** Exactly. The UN has also selected Viet Nam as the first training centre for international peacekeeping activities in Southeast Asia.
+
+**Phong:** Do you think we should also talk about Viet Nam as a member of trade organisations?
+
+**Nam:** Yes, of course. Viet Nam is a member of the WTO and APEC. This has increased trade with other member states and attracted more foreign investors.
+
+**Phong:** And I think we should also mention the benefits of developing foreign relations.
+
+**Nam:** I agree. We've gained many economic benefits. Viet Nam's position in the world has also improved.
+
+**Phong:** That's right. So now let's decide who will...
+</reading>
+
+<translation>
+**Phong:** Chào Nam! Phần trình bày của mình về Việt Nam tham gia các tổ chức quốc tế sẽ diễn ra vào tuần tới. Kiểm tra thông tin mình đã thu thập được nha.
+
+**Nam:** Được. Thứ nhất, Việt Nam hiện là thành viên của hơn 60 tổ chức quốc tế. Nước ta cũng có quan hệ với hơn 650 tổ chức phi chính phủ.
+
+**Phong:** Vậy cậu có tìm thấy thông tin gì về quan hệ quốc tế của nước ta không?
+
+**Nam:** Việt Nam cởi mở với các mối quan hệ quốc tế. Là bạn và là đối tác tin cậy của nhiều quốc gia trong cộng đồng quốc tế. Nước ta cũng trở nên tích cực hơn trong các sự kiện quốc tế và khu vực.
+
+**Phong:** Đúng vậy. Mình cũng nghe tin nước ta đã cử cán bộ tham gia gìn giữ hòa bình của Liên hợp quốc.
+
+**Nam:** Chính xác. LHQ cũng đã chọn Việt Nam là trung tâm đào tạo đầu tiên cho các hoạt động gìn giữ hòa bình quốc tế ở Đông Nam Á.
+
+**Phong:** Bạn có nghĩ chúng ta cũng nên nói về Việt Nam với tư cách là thành viên của các tổ chức thương mại?
+
+**Nam:** Tất nhiên. Việt Nam là thành viên của WTO và APEC. Điều này đã giúp gia tăng thương mại với các nước thành viên khác và thu hút nhiều nhà đầu tư nước ngoài hơn.
+
+**Phong:** Và mình nghĩ cũng nên đề cập đến lợi ích của việc phát triển quan hệ đối ngoại.
+
+**Nam:** Đồng ý. Chúng ta đã thu được nhiều lợi ích kinh tế. Vị thế của Việt Nam trên thế giới cũng được cải thiện.
+
+**Phong:** Đúng vậy. Bây giờ hãy quyết định ai sẽ...
+</translation>
 
 <teacher_script pause="45">
 Nghe xong rồi làm bài nha. 45 giây.

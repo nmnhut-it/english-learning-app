@@ -6,6 +6,18 @@
 Ok lớp 10, hôm nay mình ôn tập Unit 7: <eng>Viet Nam and International Organisations</eng> nha. Có 3 phần: phát âm, từ vựng và ngữ pháp. Mở sách ra đi.
 </teacher_script>
 
+<!-- chunk: vocabulary -->
+<teacher_script pause="0">
+Học từ vựng trước nha. Bấm nút "Bắt đầu" để học từ vựng.
+</teacher_script>
+
+<vocabulary>
+1. **financial provider** : (n.phr) nhà cung cấp tài chính /faɪˈnænʃəl prəˈvaɪdə/
+2. **non-profit environmental organisation** : (n.phr) tổ chức môi trường phi lợi nhuận /nɒn ˈprɒfɪt ɪnˌvaɪərənˈmentl ˌɔːɡənaɪˈzeɪʃən/
+3. **local issues** : (n.phr) các vấn đề địa phương /ˈləʊkəl ˈɪʃuːz/
+4. **reduction** : (n) sự giảm /rɪˈdʌkʃn/
+</vocabulary>
+
 <!-- chunk: pronunciation -->
 ### Pronunciation trang 82
 
