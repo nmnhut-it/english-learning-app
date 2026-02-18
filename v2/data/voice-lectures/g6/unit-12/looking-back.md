@@ -98,7 +98,7 @@ Bài 3 <eng>Use the correct form of the adjectives in brackets to complete the p
 </task>
 
 <questions type="fill_blanks">
-Welcome to our company. We've made the (1. smart) ________ robots in the world. It's the (2. small) ________ and the (3. light) ________ we've made but it can do many things in your house. It can even fly to clean the ceilings. It can teach children all school subjects. It's also the (4. strong) ________ in our lab because it can move more than 200 kg. It's not difficult to own a robot like this because it's one of the (5. cheap) ________ robots in the world.
+Welcome to our company. We've made the (1. smart) ________ robots in the world. It's the (2. small) ________ and the (3. light) ________ we've made but it can do many things in your house that can even fly to clean the ceilings. It can teach children all school subjects. It's also the (4. strong) ________ in our lab because it can move more than 200 kg. It's not difficult to own a robot like this because it's one of the (5. cheap) ________ robots in the world.
 </questions>
 
 <teacher_script pause="0">

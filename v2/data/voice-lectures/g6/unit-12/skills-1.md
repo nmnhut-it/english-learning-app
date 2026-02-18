@@ -1,93 +1,108 @@
 # UNIT 12: ROBOTS
 ## SKILLS 1 - Reading & Speaking: Types of Robots
 
-<!-- chunk: vocabulary -->
+<!-- chunk: intro -->
 <teacher_script pause="0">
-Ok Unit 12, bài <eng>Skills 1</eng> nha. Hôm nay đọc bài về các loại robot — rồi nói về robot mình muốn có. Mở sách trang 63 đi. Học từ vựng trước nha.
+Ok Unit 12, bài <eng>Skills 1</eng> nha. Hôm nay đọc bài về các loại robot — rồi thảo luận robot có thể làm gì ở các nơi khác nhau. Mở sách trang 63 đi.
 </teacher_script>
 
-<vocabulary>
-1. **type** : (n) loại /taɪp/
-2. **do most of the housework** : làm hầu hết việc nhà /duː məʊst əv ðə ˈhaʊswɜːk/
-3. **cook meals** : nấu các bữa ăn /kʊk miːlz/
-4. **iron clothes** : ủi quần áo /ˈaɪən kləʊðz/
-5. **the best choice** : lựa chọn tốt nhất /ðə best tʃɔɪs/
-6. **literature** : (n) văn học /ˈlɪtrətʃə/
-7. **improve** : (v) cải thiện /ɪmˈpruːv/
-8. **pronunciation** : (n) phát âm /prəˌnʌnsiˈeɪʃn/
-9. **be interested in** : quan tâm đến, hứng thú với /bi ˈɪntrəstɪd ɪn/
-10. **heavy** : (adj) nặng /ˈhevi/
-11. **build space stations** : xây trạm vũ trụ /bɪld speɪs ˈsteɪʃənz/
-12. **look after** : (phr.v) chăm sóc /lʊk ˈɑːftə/
-</vocabulary>
+<!-- chunk: exercise-1 -->
+### Bài 1 trang 63 - Discussion
+
+<teacher_script pause="60">
+Bài 1 trang 63. Thảo luận với bạn bên cạnh 2 câu hỏi. 1 phút nha.
+</teacher_script>
+
+<task>
+**Đề:** Work in pairs. Discuss the following question.
+**Dịch đề:** Làm việc theo cặp. Thảo luận câu hỏi sau.
+</task>
+
+<questions type="speaking">
+**1.** What types of robots are there?
+*Có những loại rô bốt nào?*
+
+**2.** What robots are children interested in?
+*Trẻ em thích thú với những con robot nào?*
+</questions>
 
 <teacher_script pause="0">
-Ok từ xong rồi. Giờ đọc bài về các loại robot nha. Đọc kỹ để làm bài 2.
+Gợi ý nè.
 </teacher_script>
+
+<answer>
+**1.** There are home robots, teacher robots, worker robots and doctor robots.
+*(Có rô bốt gia đình, rô bốt giáo viên, rô bốt công nhân và rô bốt bác sĩ.)*
+
+**2.** The children are interested in teacher robots.
+*(Trẻ em thích người máy giáo viên.)*
+</answer>
 
 <!-- chunk: reading -->
 <teacher_script pause="0">
-Bài đọc trang 63 — bài giới thiệu về 5 loại robot trong cuộc sống. Đọc hết bài rồi làm bài tập nha.
+Bài đọc trang 63 — giới thiệu triển lãm robot quốc tế ở Hà Nội. Đọc hết bài rồi làm bài tập nha.
 </teacher_script>
 
 <reading>
-**Robots in Our Daily Life**
+Today there is an international robot show in Ha Noi. People can see many types of robots there.
 
-Robots are becoming more and more popular in our daily life. There are many different types of robots, and each type can do different things.
+Home robots are useful for housework. They can do most of the housework: cook meals, clean the house, do the washing, and iron clothes.
 
-**Home robots** are very popular today. They can do most of the housework, such as cooking meals, cleaning the house, doing the washing and ironing clothes. If you want to relax at home, a home robot is the best choice!
+Teacher robots are the best choice for children. They can help them to study. They can teach them English, literature, maths and other subjects. They can also help children to improve their English pronunciation.
 
-**Teacher robots** can help children study at school or at home. They can teach English, literature, maths and many other subjects. They can also help children improve their English pronunciation. Teacher robots are available 24 hours a day!
-
-**Worker robots** are very strong. They can build houses and move very heavy things. They work faster and harder than humans, and they never get tired.
-
-**Doctor robots** can look after sick people in hospitals. They can check patients and give medicines. They are very helpful for doctors and nurses.
-
-**Space robots** are the most advanced robots. They can build space stations on the Moon and on other planets. They can go to places that are too dangerous for humans.
-
-Robots are amazing! In the future, they will be even smarter and more useful in our daily life.
+People are also interested in other types of robots at the show. Worker robots can build houses and move heavy things: doctor robots can look after sick people and space robots can build space stations on the Moon and on planets.
 </reading>
+
+<translation>
+Hôm nay có một triển lãm robot quốc tế tại Hà Nội. Mọi người có thể thấy nhiều loại robot ở đó.
+
+Robot gia đình rất hữu ích cho công việc nội trợ. Chúng có thể làm hầu hết các công việc nhà: nấu ăn, dọn dẹp nhà cửa, giặt giũ, ủi quần áo.
+
+Robot giáo viên là sự lựa chọn tốt nhất cho trẻ em. Chúng có thể giúp trẻ học tập. Chúng có thể dạy tiếng Anh, văn học, toán học và các môn học khác. Chúng cũng có thể giúp trẻ em cải thiện khả năng phát âm tiếng Anh.
+
+Mọi người cũng quan tâm đến các loại robot khác tại triển lãm. Robot công nhân có thể xây nhà và di chuyển những thứ nặng: robot bác sĩ có thể chăm sóc người bệnh và robot vũ trụ có thể xây dựng các trạm vũ trụ trên Mặt trăng và trên các hành tinh.
+</translation>
 
 <teacher_script pause="180">
 Dịch bài đọc vô vở nha. 3 phút.
 </teacher_script>
 
 <!-- chunk: exercise-2 -->
+### Bài 2 trang 63 - Multiple Choice
+
 <teacher_script pause="60">
-Bài 2 trang 63. Đọc lại bài và chọn loại robot phù hợp với mỗi mô tả. 1 phút nha.
+Bài 2 trang 63. Đọc lại bài và chọn câu trả lời đúng nhất cho mỗi câu hỏi. 1 phút nha.
 </teacher_script>
 
 <task>
-**Đề:** Read the text again and choose the correct type of robot for each description.
-**Dịch đề:** Đọc lại bài và chọn loại robot phù hợp với mỗi mô tả.
-
-*(A. Space robots / B. Home robots / C. Teacher robots / D. Worker robots / E. Doctor robots)*
+**Đề:** Read the text and choose the best answer to each of the questions.
+**Dịch đề:** Đọc văn bản và chọn câu trả lời đúng nhất cho mỗi câu hỏi.
 </task>
 
 <questions type="multiple_choice">
-**1.** This robot can wash your clothes and cook dinner for you.
-*Robot này có thể giặt quần áo và nấu tối cho bạn.*
-- A. Space robots
-- B. Home robots
-- C. Teacher robots
+**1.** What show is on Ha Noi now?
+*Hiện tại Hà Nội đang có chương trình gì?*
+- A. A fashion show
+- B. A robot show
+- C. A pet show
 
-**2.** This robot can help you learn English and improve your pronunciation.
-*Robot này có thể giúp bạn học tiếng Anh và cải thiện phát âm.*
+**2.** Which type of robots can help children in their study?
+*Loại robot nào có thể giúp trẻ trong học tập?*
 - A. Home robots
-- B. Space robots
+- B. Worker robots
 - C. Teacher robots
 
-**3.** This robot works in hospitals and helps sick people.
-*Robot này làm việc ở bệnh viện và giúp đỡ người bệnh.*
-- A. Worker robots
-- B. Space robots
-- C. Doctor robots
+**3.** Doctor robots can ________.
+*Robot bác sĩ có thể ________.*
+- A. help children to study
+- B. build houses
+- C. take care of sick people
 
-**4.** This robot can build houses and move very heavy things.
-*Robot này có thể xây nhà và di chuyển những thứ rất nặng.*
-- A. Teacher robots
-- B. Doctor robots
-- C. Worker robots
+**4.** Which of the following sentences is NOT true according to the passage?
+*Câu nào sau đây KHÔNG đúng theo đoạn văn?*
+- A. Worker robots can build houses and move heavy things.
+- B. Space robots can build space Stations on the Moon.
+- C. Home robots can't do much of the housework.
 </questions>
 
 <teacher_script pause="0">
@@ -99,26 +114,28 @@ Bài 2 trang 63. Đọc lại bài và chọn loại robot phù hợp với mỗ
 </answer>
 
 <explanation>
-1. **B - Home robots** — *"cooking meals, doing the washing"* = giặt đồ, nấu ăn → robot gia đình.
-2. **C - Teacher robots** — *"teach English, improve their English pronunciation"* → robot giáo viên.
-3. **C - Doctor robots** — *"look after sick people in hospitals"* → robot bác sĩ.
-4. **C - Worker robots** — *"build houses and move very heavy things"* → robot công nhân.
+1. **B** — Bài viết nói *"Today there is an international robot show in Ha Noi"* → triển lãm robot.
+2. **C** — *"Teacher robots are the best choice for children. They can help them to study."* → robot giáo viên.
+3. **C** — *"doctor robots can look after sick people"* → chăm sóc người bệnh = take care of sick people.
+4. **C** — Sai! Bài viết nói *"They can do most of the housework"* → robot gia đình CÓ THỂ làm hầu hết việc nhà, chứ không phải "can't do much".
 </explanation>
 
 <!-- chunk: exercise-3 -->
+### Bài 3 trang 63 - Fill the table
+
 <teacher_script pause="60">
-Bài 3 trang 64. Điền thông tin vào bảng — mỗi loại robot có thể làm gì? Dựa vào bài đọc. 1 phút nha.
+Bài 3 trang 63. Đọc lại bài và điền vào bảng — mỗi loại robot có thể làm gì? 1 phút nha.
 </teacher_script>
 
 <task>
-**Đề:** Complete the table with information from the text.
-**Dịch đề:** Điền thông tin vào bảng từ bài đọc.
+**Đề:** Read the text again and fill the table below.
+**Dịch đề:** Đọc văn bản một lần nữa và điền vào bảng dưới đây.
 </task>
 
 <questions type="matching">
-| Type of robots | What they can do |
+| Types of robots | What they can do |
 |---|---|
-| Home robots | ? |
+| Home robots | cook meals, ... |
 | Teacher robots | ? |
 | Worker robots | ? |
 | Doctor robots | ? |
@@ -130,31 +147,35 @@ Bài 3 trang 64. Điền thông tin vào bảng — mỗi loại robot có thể
 </teacher_script>
 
 <answer>
-| Type of robots | What they can do |
+| Types of robots | What they can do |
 |---|---|
-| **Home robots** | Cook meals, clean the house, do the washing, iron clothes |
-| **Teacher robots** | Help children study, teach English/literature/maths, improve English pronunciation |
-| **Worker robots** | Build houses, move heavy things |
-| **Doctor robots** | Look after sick people, check patients, give medicines |
-| **Space robots** | Build space stations on the Moon and on planets |
+| **Home robots** | cook meals, clean the house, do the washing, iron clothes |
+| **Teacher robots** | help children to study, teach English/literature/maths and other subjects, help children improve their English pronunciation |
+| **Worker robots** | build houses, move heavy things |
+| **Doctor robots** | look after sick people |
+| **Space robots** | build space stations on the Moon and on planets |
 </answer>
 
-<!-- chunk: speaking-4 -->
+<!-- chunk: exercise-4 -->
+### Bài 4 trang 64 - Speaking (Discuss)
+
 <teacher_script pause="120">
-Bài 4 trang 64. Thảo luận với nhóm nha: Loại robot nào hữu ích nhất? Tại sao? Dùng *I think...* và *I agree/don't agree*. 2 phút.
+Bài 4 trang 64. Thảo luận nhóm: robot có thể làm gì ở những nơi này? 2 phút nha.
 </teacher_script>
 
 <task>
-**Đề:** Work in groups. Discuss: Which type of robot is the most useful? Why?
-**Dịch đề:** Làm việc theo nhóm. Thảo luận: Loại robot nào hữu ích nhất? Tại sao?
+**Đề:** Work in pairs. Discuss what you think robots can do in the following places.
+**Dịch đề:** Làm việc theo cặp. Thảo luận về những gì bạn nghĩ rô bốt có thể làm ở những nơi sau.
 </task>
 
 <questions type="speaking">
-*Gợi ý cấu trúc thảo luận:*
-
-**A:** I think ________ robots are the most useful because they can ________.
-
-**B:** I agree with you. / I don't agree with you. I think ________ robots are more useful because ________.
+| Places | What robots can do |
+|---|---|
+| Home | ? |
+| School | ? |
+| Factory | ? |
+| Hospital | ? |
+| Garden | ? |
 </questions>
 
 <teacher_script pause="0">
@@ -162,17 +183,42 @@ Gợi ý nè.
 </teacher_script>
 
 <answer>
-- *"I think home robots are the most useful because they help us every day with housework."*
-- *"I think doctor robots are the most useful because they can save lives."*
-- *"I think teacher robots are the most useful because children can learn anytime."*
-- *"I think space robots are the most useful because they can explore dangerous places for us."*
+| Places | What robots can do |
+|---|---|
+| **Home** *(Nhà)* | do housework, take care of children *(làm việc nhà, chăm sóc trẻ em)* |
+| **School** *(Trường học)* | teach students, help students to do exercises *(dạy học sinh, giúp học sinh làm bài tập)* |
+| **Factory** *(Nhà máy)* | move heavy things, repair broken things *(di chuyển vật nặng, sửa chữa đồ đạc hư hỏng)* |
+| **Hospital** *(Bệnh viện)* | take care of patients *(chăm sóc bệnh nhân)* |
+| **Garden** *(Vườn)* | plant trees, water plants *(trồng cây, tưới cây)* |
 </answer>
 
-<teacher_script action="record" pause="0">
-Bây giờ nói về ý kiến của em — loại robot nào hữu ích nhất và tại sao? Bấm nút ghi âm đi.
+<!-- chunk: exercise-5 -->
+### Bài 5 trang 64 - Speaking (Other types)
+
+<teacher_script pause="60">
+Bài 5 trang 64. Làm việc nhóm — lần lượt nói về robot và những gì chúng có thể làm. Bạn có nghĩ ra loại robot nào khác không? 1 phút nha.
 </teacher_script>
+
+<task>
+**Đề:** Work in groups. Take turns to talk about robots and what you think they can do. Can you think of other types of robots?
+**Dịch đề:** Làm việc nhóm. Lần lượt nói về robot và những gì bạn nghĩ chúng có thể làm được. Bạn có thể nghĩ về các loại robot khác không?
+</task>
+
+<questions type="speaking">
+*Gợi ý: I think another type of robot is... These robots can...*
+</questions>
+
+<teacher_script pause="0">
+Gợi ý nè.
+</teacher_script>
+
+<answer>
+**Gợi ý:**
+I think another type of robot is entertainment robots. These robots can sing, dance and tell stories to make me happy.
+*(Tôi nghĩ một loại robot khác là robot giải trí. Những con robot này có thể hát, nhảy và kể chuyện để làm tôi vui.)*
+</answer>
 
 <!-- chunk: end -->
 <teacher_script pause="0">
-Xong bài <eng>Skills 1</eng> rồi nha. Nhớ 5 loại robot: **home, teacher, worker, doctor, space** — mỗi loại có công dụng khác nhau. Bài tiếp theo là <eng>Skills 2</eng> — nghe và viết về robot mơ ước của mình. Chuẩn bị nha!
+Xong bài <eng>Skills 1</eng> rồi nha. Nhớ 5 loại robot: **home, teacher, worker, doctor, space** — mỗi loại có công dụng khác nhau. Bài tiếp theo là <eng>Skills 2</eng> — nghe và viết về robot mơ ước. Chuẩn bị nha!
 </teacher_script>

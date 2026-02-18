@@ -41,7 +41,7 @@ Bài 1 <eng>Listen to the conversation between Khang and Dr Adams and tick the p
 <questions type="listen_tick">
 - look after sick people *(chăm sóc người ốm)*
 - understand what we say *(hiểu những gì chúng ta nói)*
-- build very high buildings *(xây dựng những tòa nhà rất cao)*
+- build the very high buildings *(xây dựng những tòa nhà rất cao)*
 - teach many subjects *(dạy nhiều môn học)*
 - move heavy things *(di chuyển những thứ nặng)*
 </questions>
@@ -54,7 +54,7 @@ Ok đáp án nè.
 **Đáp án:**
 - look after sick people ✓
 - understand what we say ✓
-- build very high buildings ✓
+- build the very high buildings ✓
 - teach many subjects ✓
 - move heavy things *(không được nhắc đến)*
 </answer>
@@ -63,7 +63,7 @@ Ok đáp án nè.
 Trong bài nghe, Tiến sĩ Adams nói:
 - Robot bác sĩ có thể **chăm sóc người bệnh** (look after sick people) ✓
 - Robot có thể **hiểu những gì chúng ta nói** (understand what we say) ✓
-- Robot công nhân có thể **xây dựng tòa nhà rất cao** (build very high buildings) ✓
+- Robot công nhân có thể **xây dựng tòa nhà rất cao** (build the very high buildings) ✓
 - Robot giáo viên có thể **dạy nhiều môn học** (teach many subjects) ✓
 - "move heavy things" KHÔNG được nhắc đến trong bài nghe.
 </explanation>
@@ -188,7 +188,7 @@ Bài 4 <eng>Now write a paragraph of 50-60 words about the robot you would like 
 </teacher_script>
 
 <task>
-**Đề:** Now write a paragraph of 50-60 words about the robot you would like to have. Use the information in 3 to help you.
+**Đề:** Now write a paragraph of 50-60 words about the robots you would like to have. Use the information 3 to help you.
 **Dịch đề:** Bây giờ, hãy viết một đoạn văn gồm 50-60 từ về robot mà bạn muốn có. Sử dụng thông tin ở bài 3.
 </task>
 

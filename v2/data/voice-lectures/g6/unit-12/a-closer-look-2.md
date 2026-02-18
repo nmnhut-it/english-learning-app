@@ -1,97 +1,53 @@
 # UNIT 12: ROBOTS
-## A CLOSER LOOK 2 - Grammar: Comparative & Superlative Adjectives
-
-<!-- chunk: grammar-comparative -->
-<teacher_script pause="0">
-Ok Unit 12, bài <eng>A Closer Look 2</eng> — ngữ pháp nha. Hôm nay học **so sánh hơn** và **so sánh nhất** cho tính từ. Mở sách trang 61 đi.
-</teacher_script>
-
-<grammar>
-## So sánh HƠN (Comparative) — "...hơn"
-
-**Tính từ ngắn** (1 âm tiết): thêm **-er**
-> tall → tall**er** | fast → fast**er** | smart → smart**er**
-
-**Tính từ dài** (2 âm tiết trở lên): dùng **more** + tính từ
-> beautiful → **more** beautiful | expensive → **more** expensive
-
-**Cấu trúc:** S + is/are + [adj-er / more + adj] + **than** + N
-- *WB2 is fast**er** **than** H9.*
-- *Sifa is **more** intelligent **than** WB2.*
-
-### Quy tắc chính tả (tính từ ngắn):
-- Kết thúc bằng **-e**: thêm **-r** → nice → nic**er**
-- 1 nguyên âm + 1 phụ âm: nhân đôi phụ âm → big → big**ger** | hot → hot**ter**
-- Kết thúc bằng **-y**: đổi **y** → **i** rồi thêm **-er** → heavy → heav**ier**
-</grammar>
-
-<teacher_script pause="0">
-Mẹo nhớ: tính từ ngắn (1 âm tiết) → thêm **-er**. Tính từ dài (2+ âm tiết) → **more**. Giờ học so sánh nhất nha.
-</teacher_script>
+## A CLOSER LOOK 2 - Grammar: Superlative Adjectives
 
 <!-- chunk: grammar-superlative -->
+<teacher_script pause="0">
+Ok Unit 12, bài <eng>A Closer Look 2</eng> — ngữ pháp nha. Hôm nay học **so sánh nhất** cho tính từ ngắn. Mở sách trang 61 đi.
+</teacher_script>
+
 <grammar>
-## So sánh NHẤT (Superlative) — "...nhất"
+## So sánh NHẤT (Superlative) — tính từ ngắn
 
-**Tính từ ngắn**: **the** + tính từ + **-est**
-> tall → **the** tall**est** | fast → **the** fast**est**
+Chúng ta dùng so sánh nhất để so sánh **ba hoặc nhiều hơn** người/vật.
 
-**Tính từ dài**: **the most** + tính từ
-> beautiful → **the most** beautiful | expensive → **the most** expensive
+**Cấu trúc:** S + is/are + **the** + adj + **-est** + of/in + N
 
-**Cấu trúc:** S + is/are + **the** [adj-est / most + adj] + of/in + N
-- *WB2 is **the fastest** robot in the show.*
-- *Sifa is **the most** intelligent robot here.*
-
-### Quy tắc chính tả (giống comparative):
-| Dạng thường | So sánh hơn | So sánh nhất |
+### Quy tắc chính tả:
+| Dạng thường | So sánh nhất | Quy tắc |
 |---|---|---|
-| big | bigger | **the biggest** |
-| hot | hotter | **the hottest** |
-| nice | nicer | **the nicest** |
-| heavy | heavier | **the heaviest** |
-| large | larger | **the largest** |
-| noisy | noisier | **the noisiest** |
-</grammar>
-
-<!-- chunk: grammar-irregular -->
-<grammar>
-## Tính từ bất quy tắc (Irregular)
-
-| Dạng thường | So sánh hơn | So sánh nhất |
-|---|---|---|
-| **good** (tốt) | **better** | **the best** |
-| **bad** (tệ) | **worse** | **the worst** |
-| **far** (xa) | **farther/further** | **the farthest/furthest** |
-| **many/much** (nhiều) | **more** | **the most** |
-| **little** (ít) | **less** | **the least** |
+| fast | **the fastest** | + est |
+| large | **the largest** | kết thúc -e → + st |
+| hot | **the hottest** | 1 nguyên âm + 1 phụ âm → nhân đôi + est |
+| noisy | **the noisiest** | kết thúc -y → đổi y thành i + est |
 </grammar>
 
 <teacher_script pause="0">
-Nhớ 2 cái quan trọng nhất: **good → better → best** và **bad → worse → worst**. Dùng nhiều lắm đó. Ok giờ làm bài tập nha!
+Nhớ nha: tính từ ngắn → thêm **-est**. Chú ý quy tắc chính tả khi thêm -est. Giờ làm bài tập nha!
 </teacher_script>
 
 <!-- chunk: exercise-1 -->
+### Bài 1 trang 61 - Write superlative form
+
 <teacher_script pause="60">
-Bài 1 trang 61. Viết dạng so sánh nhất của 10 tính từ này. 1 phút nha.
+Bài 1 trang 61. Viết dạng so sánh nhất của các tính từ trong bảng. 1 phút nha.
 </teacher_script>
 
 <task>
-**Đề:** Write the superlative form of the adjectives.
-**Dịch đề:** Viết dạng so sánh nhất của các tính từ.
+**Đề:** Write the superlative form of the adjectives in the table below.
+**Dịch đề:** Viết dạng so sánh nhất của các tính từ trong bảng dưới đây.
 </task>
 
 <questions type="fill_blanks">
-1. big → the ________
-2. fast → the ________
-3. tall → the ________
-4. noisy → the ________
-5. nice → the ________
-6. hot → the ________
-7. light → the ________
-8. quiet → the ________
-9. heavy → the ________
-10. large → the ________
+1. fast → the ________
+2. tall → the ________
+3. noisy → the ________
+4. nice → the ________
+5. hot → the ________
+6. light → the ________
+7. quiet → the ________
+8. heavy → the ________
+9. large → the ________
 </questions>
 
 <teacher_script pause="0">
@@ -99,47 +55,48 @@ Bài 1 trang 61. Viết dạng so sánh nhất của 10 tính từ này. 1 phút
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. biggest | 2. fastest | 3. tallest | 4. noisiest | 5. nicest | 6. hottest | 7. lightest | 8. quietest | 9. heaviest | 10. largest
+**Đáp án:** 1. fastest | 2. tallest | 3. noisiest | 4. nicest | 5. hottest | 6. lightest | 7. quietest | 8. heaviest | 9. largest
 </answer>
 
 <explanation>
-1. **biggest** — big: nhân đôi *g* → bigg + est.
-2. **fastest** — fast: thêm est bình thường.
-3. **tallest** — tall: thêm est bình thường.
-4. **noisiest** — noisy: đổi *y* → *i* + est.
-5. **nicest** — nice: kết thúc *e* → thêm *st* thôi.
-6. **hottest** — hot: nhân đôi *t* → hott + est.
-7. **lightest** — light: thêm est bình thường.
-8. **quietest** — quiet: 2 âm tiết nhưng thêm est (ngoại lệ).
-9. **heaviest** — heavy: đổi *y* → *i* + est.
-10. **largest** — large: kết thúc *e* → thêm *st* thôi.
+1. **fastest** — fast + est, bình thường.
+2. **tallest** — tall + est, bình thường.
+3. **noisiest** — noisy: đổi *y* → *i* + est.
+4. **nicest** — nice: kết thúc *e* → thêm *st* thôi.
+5. **hottest** — hot: nhân đôi *t* → hott + est.
+6. **lightest** — light + est, bình thường.
+7. **quietest** — quiet + est, bình thường.
+8. **heaviest** — heavy: đổi *y* → *i* + est.
+9. **largest** — large: kết thúc *e* → thêm *st* thôi.
 </explanation>
 
 <!-- chunk: exercise-2 -->
+### Bài 2 trang 61 - Complete sentences with superlative
+
 <teacher_script pause="60">
-Bài 2 trang 61. Điền dạng so sánh nhất vào chỗ trống trong ngữ cảnh. 1 phút nha.
+Bài 2 trang 61. Hoàn thành câu với dạng so sánh nhất. Câu 1 là ví dụ. 1 phút nha.
 </teacher_script>
 
 <task>
-**Đề:** Complete the sentences with the superlative form of the adjectives in brackets.
-**Dịch đề:** Hoàn thành câu với dạng so sánh nhất của tính từ trong ngoặc.
+**Đề:** Complete the following sentences with the superlative form of the adjectives in brackets. 1 is an example.
+**Dịch đề:** Hoàn thành các câu sau với dạng so sánh nhất của các tính từ trong ngoặc. Câu 1 là ví dụ minh họa.
 </task>
 
 <questions type="fill_blanks">
-**1.** Bondon can move 10 tons. It is ________ (strong) of all.
-*Bondon có thể di chuyển 10 tấn. Nó là ________ trong tất cả.*
+**1.** Bonbon can move 10 tons; it's the **strongest** of all. (strong) *(Ví dụ)*
+*Bonbon có thể di chuyển 10 tấn; nó mạnh nhất trong tất cả.*
 
-**2.** This robot can understand everything we say. It is ________ (smart) in the robot show.
-*Robot này có thể hiểu mọi thứ chúng ta nói. Nó là ________ trong triển lãm robot.*
+**2.** This robot can understand all of what we say. It's the ________ in the robot show. (smart)
+*Robot này có thể hiểu tất cả những gì chúng ta nói. Nó ________ trong triển lãm robot.*
 
-**3.** He is ________ (tall) in our class — about 1.8 metres.
-*Anh ấy là ________ trong lớp chúng tôi — khoảng 1.8 mét.*
+**3.** He is the ________ in our class; he is about 1.8 m tall. (tall)
+*Anh ấy ________ trong lớp; anh ấy cao khoảng 1,8m.*
 
-**4.** This is ________ (small) home robot. We can put it in our pocket!
-*Đây là robot gia đình ________. Chúng ta có thể để nó trong túi!*
+**4.** This is the ________ of all home robots; we can put it in our bag. (small)
+*Đây là robot gia đình ________; chúng tôi có thể đặt nó trong túi.*
 
-**5.** This robot costs only $200. It is ________ (cheap) in our shop.
-*Robot này chỉ tốn $200. Nó là ________ trong cửa hàng của chúng tôi.*
+**5.** This robot is only 200 dollars. It's the ________ in our shop. (cheap)
+*Robot này chỉ có 200 đô la. Nó ________ trong cửa hàng.*
 </questions>
 
 <teacher_script pause="0">
@@ -147,11 +104,10 @@ Bài 2 trang 61. Điền dạng so sánh nhất vào chỗ trống trong ngữ c
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. the strongest | 2. the smartest | 3. the tallest | 4. the smallest | 5. the cheapest
+**Đáp án:** 2. smartest | 3. tallest | 4. smallest | 5. cheapest
 </answer>
 
 <explanation>
-1. **the strongest** — strong + est. Di chuyển 10 tấn → mạnh nhất.
 2. **the smartest** — smart + est. Hiểu mọi thứ → thông minh nhất.
 3. **the tallest** — tall + est. 1.8 mét → cao nhất lớp.
 4. **the smallest** — small + est. Bỏ vừa túi → nhỏ nhất.
@@ -159,30 +115,32 @@ Bài 2 trang 61. Điền dạng so sánh nhất vào chỗ trống trong ngữ c
 </explanation>
 
 <!-- chunk: exercise-3 -->
+### Bài 3 trang 61 - Comparative or Superlative
+
 <teacher_script pause="60">
-Bài 3 trang 62. Điền dạng đúng — có cả so sánh hơn lẫn so sánh nhất. Chú ý ngữ cảnh nha. 1 phút.
+Bài 3 trang 61. Điền dạng so sánh hơn hoặc so sánh nhất. Chú ý từ *than* (so sánh hơn) hay *of/in* (so sánh nhất) nha. 1 phút.
 </teacher_script>
 
 <task>
-**Đề:** Complete the sentences with the correct comparative or superlative form.
-**Dịch đề:** Hoàn thành câu với dạng so sánh hơn hoặc so sánh nhất đúng.
+**Đề:** Complete the following sentences with comparative or superlative form of the adjectives in brackets.
+**Dịch đề:** Hoàn thành các câu sau với dạng so sánh hoặc so sánh nhất của các tính từ trong ngoặc.
 </task>
 
 <questions type="fill_blanks">
-**1.** My room is ________ (tidy) than my brother's room.
-*Phòng tôi ________ phòng của anh trai tôi.*
+**1.** My brother has a ________ room than me. (tidy)
+*Anh trai tôi có một căn phòng ________ tôi.*
 
-**2.** July is ________ (hot) month of the year in our city.
-*Tháng 7 là tháng ________ trong năm ở thành phố chúng tôi.*
+**2.** The ________ desert of all is Sahara and it's in Africa. (hot)
+*Sa mạc ________ là Sahara và nó ở Châu Phi.*
 
-**3.** Worker robots are ________ (fast) than doctor robots.
-*Robot công nhân ________ robot bác sĩ.*
+**3.** Travelling by plane is ________ than going by car. (fast)
+*Đi máy bay ________ đi ô tô.*
 
-**4.** Dr Adams is ________ (tall) person in the room.
-*Tiến sĩ Adams là người ________ trong phòng.*
+**4.** Who is the ________ in your family? (tall)
+*Ai ________ trong gia đình bạn?*
 
-**5.** Sifa is ________ (smart) than WB2.
-*Sifa ________ WB2.*
+**5.** I think dogs are ________ than cats. (smart)
+*Tôi nghĩ chó ________ mèo.*
 </questions>
 
 <teacher_script pause="0">
@@ -190,42 +148,42 @@ Bài 3 trang 62. Điền dạng đúng — có cả so sánh hơn lẫn so sánh
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. tidier | 2. the hottest | 3. faster | 4. the tallest | 5. smarter
+**Đáp án:** 1. tidier | 2. hottest | 3. faster | 4. tallest | 5. smarter
 </answer>
 
 <explanation>
 1. **tidier** — có *than* → so sánh hơn. tidy: đổi *y* → *i* + er.
-2. **the hottest** — *of the year* → so sánh nhất. hot: nhân đôi *t* + est.
+2. **the hottest** — *of all* → so sánh nhất. hot: nhân đôi *t* + est.
 3. **faster** — có *than* → so sánh hơn. fast + er.
-4. **the tallest** — *in the room* → so sánh nhất. tall + est.
+4. **the tallest** — *in your family* → so sánh nhất. tall + est.
 5. **smarter** — có *than* → so sánh hơn. smart + er.
 </explanation>
 
 <!-- chunk: exercise-4 -->
+### Bài 4 trang 62 - Compare three robots
+
 <teacher_script pause="120">
-Bài 4 trang 62. Nhìn bảng thông tin 3 robot (M10, H9, A3) trong sách — viết câu so sánh nhất. 2 phút nha.
+Bài 4 trang 62. Nhìn bảng thông tin 3 robot: M10, H9, A3 — viết câu so sánh nhất. 2 phút nha.
 </teacher_script>
 
 <task>
-**Đề:** Look at the table and write sentences using the superlative form.
-**Dịch đề:** Nhìn vào bảng và viết câu dùng dạng so sánh nhất.
+**Đề:** Work in pairs. Look at the information of the three robots: M10, H9, and A3 and talk about each of them, using superlative adjectives.
+**Dịch đề:** Làm việc theo cặp. Nhìn vào thông tin của ba robot: M10, H9 và A3 và nói về từng robot, sử dụng các tính từ so sánh nhất.
 
 | | M10 | H9 | A3 |
 |---|---|---|---|
-| **Price** | $500 | $200 | $350 |
-| **Height** | 50 cm | 80 cm | 120 cm |
-| **Weight** | 3 kg | 7 kg | 10 kg |
-| **Year made** | 2023 | 2020 | 2015 |
+| **Age** *(Tuổi)* | 5 | 7 | 10 |
+| **Weight** *(Cân nặng)* | 20 kg | 45 kg | 50 kg |
+| **Height** *(Chiều cao)* | 80 cm | 120 cm | 150 cm |
+| **Price** *(Giá cả)* | 1,800 | 1,000 | 1,500 |
 </task>
 
-<questions type="complete_sentences">
-*Viết 6 câu so sánh nhất về M10, H9, A3.*
-1. M10 và giá tiền → ________
-2. M10 và chiều cao → ________
-3. M10 và cân nặng → ________
-4. H9 và giá tiền → ________
-5. A3 và cân nặng → ________
-6. A3 và năm sản xuất → ________
+<questions type="speaking">
+**Example:**
+**A:** A3 is the tallest of the three robots.
+*(A3 cao nhất trong ba rô bốt.)*
+**B:** M10 is the youngest of the three robots.
+*(M10 là robot nhỏ tuổi nhất trong ba robot.)*
 </questions>
 
 <teacher_script pause="0">
@@ -233,24 +191,52 @@ Bài 4 trang 62. Nhìn bảng thông tin 3 robot (M10, H9, A3) trong sách — v
 </teacher_script>
 
 <answer>
-1. M10 is the most expensive of the three robots.
-2. M10 is the shortest of the three robots.
-3. M10 is the lightest of the three robots.
-4. H9 is the cheapest of the three robots.
-5. A3 is the heaviest of the three robots.
-6. A3 is the oldest of the three robots.
+- M10 is the most expensive of the three robots. *(M10 là đắt nhất trong ba robot.)*
+- M10 is the shortest of the three robots. *(M10 ngắn nhất trong số ba robot.)*
+- M10 is the lightest of the three robots. *(M10 nhẹ nhất trong ba robot.)*
+- H9 is the cheapest of the three robots. *(H9 rẻ nhất trong ba robot.)*
+- A3 is the heaviest of the three robots. *(A3 nặng nhất trong ba robot.)*
+- A3 is the oldest of the three robots. *(A3 nhiều tuổi nhất trong ba robot.)*
 </answer>
 
-<explanation>
-1. *most expensive* — expensive là tính từ dài → dùng *most* ($500 > $350 > $200).
-2. *shortest* — short + est (50 cm < 80 cm < 120 cm).
-3. *lightest* — light + est (3 kg < 7 kg < 10 kg).
-4. *cheapest* — cheap + est ($200 < $350 < $500).
-5. *heaviest* — heavy → heav + iest (10 kg > 7 kg > 3 kg).
-6. *oldest* — old + est (2015 < 2020 < 2023 → A3 ra đời sớm nhất = cũ nhất).
-</explanation>
+<!-- chunk: exercise-5 -->
+### Bài 5 trang 62 - Game: Find someone who...
+
+<teacher_script pause="120">
+Bài 5 — <eng>Game: Find someone who...</eng>. Làm việc theo cặp, tìm trong lớp bạn nào: cao nhất, lớn tuổi nhất, thông minh nhất, thấp nhất, to nhất, nhỏ nhất. 2 phút thảo luận nha.
+</teacher_script>
+
+<task>
+**Đề:** GAME: Find someone who... Work in pairs. Ask your partner to find in your class someone who is...
+**Dịch đề:** Trò chơi: Tìm ra người nào đó... Làm việc theo cặp. Yêu cầu bạn tìm trong lớp ai đó là...
+- the tallest *(cao nhất)*
+- the oldest *(lớn tuổi nhất)*
+- the smartest *(thông minh nhất)*
+- the shortest *(thấp nhất)*
+- the biggest *(to nhất)*
+- the smallest *(nhỏ bé nhất)*
+</task>
+
+<questions type="speaking">
+**Example:**
+**A:** Who is the tallest in our class?
+*(Ai cao nhất lớp chúng ta?)*
+**B:** Minh is the tallest in our class.
+*(Minh cao nhất lớp chúng ta.)*
+</questions>
+
+<teacher_script pause="0">
+Gợi ý nè.
+</teacher_script>
+
+<answer>
+**Gợi ý:**
+**A:** Who is the oldest in our class? → **B:** Our teacher is the oldest in our class.
+**A:** Who is the smartest in our class? → **B:** I'm the smartest in our class.
+**A:** Who is the shortest in our class? → **B:** Nam is the shortest in our class.
+</answer>
 
 <!-- chunk: end -->
 <teacher_script pause="0">
-Xong bài <eng>A Closer Look 2</eng> rồi nha. Nhớ: ngắn → **-er/-est**, dài → **more/most**, bất quy tắc → **good/better/best, bad/worse/worst**. Ghi công thức vô vở đi. Bài tiếp theo là <eng>Communication</eng> — nói về robot trong cuộc sống hằng ngày. Chuẩn bị nha!
+Xong bài <eng>A Closer Look 2</eng> rồi nha. Nhớ: tính từ ngắn → thêm **-est** để so sánh nhất. Chú ý quy tắc chính tả: *nice → nicest*, *hot → hottest*, *heavy → heaviest*. Ghi công thức vô vở đi. Bài tiếp theo là <eng>Communication</eng>. Chuẩn bị nha!
 </teacher_script>
