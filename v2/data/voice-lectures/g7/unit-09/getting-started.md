@@ -82,23 +82,41 @@ Bài 2 trang 93. Ai đã làm gì? Nối người với hoạt động. Đọc l
 Đáp án nè. Em thấy cả cô Hoa và Mark đều đi lễ hội tulip, nhưng ở hai nơi khác nhau. Cô Hoa đi ở Úc, còn Mark đi ở Hà Lan. Đây là điểm hay của bài - cùng một loại lễ hội nhưng tổ chức ở nhiều nước khác nhau.
 </teacher_script>
 
-<!-- chunk: vocabulary_2 -->
+<!-- chunk: exercise_3 -->
 <teacher_script pause="0">
-Bài 3 học thêm từ vựng về hoạt động lễ hội nha.
+Bài 3 trang 93. Viết từ hoặc cụm từ trong khung dưới mỗi bức hình. Trước tiên học từ vựng nha.
 </teacher_script>
 
-**Bài 3 trang 93**
-
-**Vocabulary**
-
-1. **firework display** : màn trình diễn pháo hoa /ˈfaɪəwɜːk dɪˈspleɪ/
-2. **feast** : (n) bữa tiệc, yến tiệc /fiːst/
-3. **parade** : (n) cuộc diễu hành /pəˈreɪd/
+<vocabulary>
+1. **parade** : (n) cuộc diễu hành /pəˈreɪd/
+2. **costumes** : (n) trang phục lễ hội /ˈkɒstjuːmz/
+3. **feast** : (n) bữa tiệc, yến tiệc /fiːst/
 4. **float** : (n) xe hoa, xe diễu hành trang trí /fləʊt/
-5. **folk dance** : điệu múa dân gian /fəʊk dɑːns/
+5. **fireworks display** : màn trình diễn pháo hoa /ˈfaɪəwɜːks dɪˈspleɪ/
+6. **folk dance** : điệu múa dân gian /fəʊk dɑːns/
+</vocabulary>
+
+<task>
+**Đề:** Write a word or phrase from the box under each picture.
+**Dịch đề:** Viết một từ hoặc cụm từ trong khung dưới mỗi bức hình.
+</task>
+
+<teacher_script pause="60">
+Nhìn 6 bức hình trong sách rồi viết từ phù hợp bên dưới. 1 phút nha.
+</teacher_script>
+
+<answer>
+**Đáp án:**
+1. parade (diễu hành)
+2. costumes (trang phục)
+3. feast (bữa tiệc)
+4. float (xe hoa)
+5. fireworks display (bắn pháo hoa)
+6. folk dance (múa dân gian)
+</answer>
 
 <teacher_script pause="0">
-Mấy từ này rất quan trọng nha. <eng>Firework display</eng> là bắn pháo hoa - Tết mình hay có cái này. <eng>Feast</eng> là bữa tiệc lớn - như tiệc Giáng sinh hay tiệc Tết. <eng>Parade</eng> là diễu hành - như diễu hành ngày 2/9. <eng>Float</eng> là xe hoa trang trí trong diễu hành.
+Mấy từ này rất quan trọng nha. <eng>Parade</eng> là diễu hành - như diễu hành ngày 2/9. <eng>Costumes</eng> là trang phục lễ hội - như trang phục Halloween. <eng>Feast</eng> là bữa tiệc lớn - như tiệc Giáng sinh hay tiệc Tết. <eng>Float</eng> là xe hoa trang trí trong diễu hành. <eng>Fireworks display</eng> là bắn pháo hoa - Tết mình hay có cái này. <eng>Folk dance</eng> là múa dân gian.
 </teacher_script>
 
 <!-- chunk: exercise_4 -->
@@ -120,11 +138,58 @@ Bài 4 trang 93. Điền từ vựng vào câu. Dùng các từ vừa học: <en
 4. People hold flower **parades** in several countries to welcome the new season.
    (Mọi người tổ chức diễu hành hoa ở một số quốc gia để chào đón một mùa mới.)
 
-5. The **float** carried the dancers in special costumes.
+5. The **floats** carried the dancers in special **costumes**.
    (Xe hoa chở các vũ công trong trang phục lễ hội.)
 
 <teacher_script pause="0">
-Giải thích nha. Câu 1 điền <eng>folk dance</eng> vì nói về vũ công biểu diễn múa. Câu 2 điền <eng>fireworks display</eng> vì giao thừa ở hồ Hoàn Kiếm hay bắn pháo hoa. Câu 3 điền <eng>feast</eng> vì Tết mình chuẩn bị bữa tiệc lớn. Câu 4 điền <eng>parades</eng> vì nói về diễu hành hoa. Câu 5 điền <eng>float</eng> vì xe hoa chở vũ công.
+Giải thích nha. Câu 1 điền <eng>folk dance</eng> vì nói về vũ công biểu diễn múa. Câu 2 điền <eng>fireworks display</eng> vì giao thừa ở hồ Hoàn Kiếm hay bắn pháo hoa. Câu 3 điền <eng>feast</eng> vì Tết mình chuẩn bị bữa tiệc lớn. Câu 4 điền <eng>parades</eng> vì nói về diễu hành hoa. Câu 5 có hai chỗ trống nè, điền <eng>floats</eng> và <eng>costumes</eng> vì xe hoa chở vũ công mặc trang phục lễ hội.
+</teacher_script>
+
+<!-- chunk: exercise_5 -->
+<teacher_script pause="60">
+Bài 5 trang 93. Quiz nè! Lễ hội gì? Nối mỗi mô tả với một lễ hội. 1 phút nha.
+</teacher_script>
+
+<task>
+**Đề:** QUIZ - What festival is it? Match each description with a festival.
+**Dịch đề:** Đố vui - Lễ hội gì? Nối mỗi mô tả với một lễ hội.
+</task>
+
+<questions type="matching">
+**Descriptions:**
+1. At this festival, people eat moon cakes.
+2. At this festival, people throw tomatoes.
+3. People eat banh chung at this festival.
+4. People decorate pine trees and give each other gifts.
+5. People chase after a wheel of cheese.
+
+**Festivals:**
+a. La Tomatina
+b. Cheese Rolling
+c. Christmas
+d. Tet
+e. Mid-Autumn Festival
+</questions>
+
+<teacher_script pause="0">
+Đáp án nè.
+</teacher_script>
+
+<answer>
+**Đáp án:** 1.e | 2.a | 3.d | 4.c | 5.b
+</answer>
+
+<explanation>
+**Giải thích:**
+1. Ăn bánh trung thu → **Mid-Autumn Festival** (Tết Trung thu)
+2. Ném cà chua → **La Tomatina** (Lễ hội ném cà chua ở Tây Ban Nha)
+3. Ăn bánh chưng → **Tet** (Tết Nguyên đán)
+4. Trang trí cây thông và tặng quà → **Christmas** (Giáng sinh)
+5. Đuổi theo một bánh xe pho mát → **Cheese Rolling** (Lễ hội lăn pho mát ở Anh)
+</explanation>
+
+<teacher_script pause="0">
+Hay hen! Mỗi nước có lễ hội riêng với những đặc trưng khác nhau. <eng>La Tomatina</eng> ở Tây Ban Nha thì ném cà chua. <eng>Cheese Rolling</eng> ở Anh thì đuổi theo pho mát lăn xuống đồi. Vui lắm!
 </teacher_script>
 
 <!-- chunk: closer_look_1 -->
