@@ -12,16 +12,18 @@ Học từ vựng trước nha.
 </teacher_script>
 
 <vocabulary>
-1. **atmosphere** : (n) khí quyển /ˈætməsfɪər/
-2. **consequence** : (n) hậu quả /ˈkɒnsɪkwəns/
-3. **sea level** : (n.phr) mực nước biển /siː ˈlevəl/
-4. **polar ice** : (n.phr) băng cực /ˈpəʊlər aɪs/
-5. **heatwave** : (n) sóng nhiệt /ˈhiːtweɪv/
-6. **natural habitat** : (n.phr) môi trường sống tự nhiên /ˈnætʃərəl ˈhæbɪtæt/
+1. **be aware of** : (v.phr) nhận thức /biː əˈweər ɒv/
+2. **global warming** : (n.phr) sự nóng lên toàn cầu /ˈɡləʊbəl ˈwɔːmɪŋ/
+3. **rising sea levels** : (n.phr) mực nước biển dâng cao /ˈraɪzɪŋ siː ˈlevlz/
+4. **loss** : (n) sự mất mát /lɒs/
+5. **natural habitats** : (n.phr) môi trường sống tự nhiên /ˈnætʃərəl ˈhæbɪtæts/
+6. **climate change** : (n.phr) biến đổi khí hậu /ˈklaɪmət tʃeɪndʒ/
 7. **waste gases** : (n.phr) khí thải /weɪst ˈɡæsɪz/
-8. **respiratory diseases** : (n.phr) bệnh đường hô hấp /rɪˈspɪrətəri dɪˈziːzɪz/
-9. **ecosystem** : (n) hệ sinh thái /ˈiːkəʊsɪstəm/
-10. **illegally hunt** : (v.phr) săn bắt bất hợp pháp /ɪˈliːɡəli hʌnt/
+8. **come down** : (phr.v) tạo thành /kʌm daʊn/
+9. **respiratory diseases** : (n.phr) bệnh đường hô hấp /rɪˈspɪrətəri dɪˈziːzɪz/
+10. **disappear** : (v) biến mất /ˌdɪsəˈpɪər/
+11. **illegally** : (adv) bất hợp pháp /ɪˈliːɡəli/
+12. **substance** : (n) chất /ˈsʌbstəns/
 </vocabulary>
 
 <!-- chunk: exercise_1 -->

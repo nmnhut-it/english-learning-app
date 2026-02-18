@@ -12,13 +12,11 @@ Học từ vựng trước nha.
 </teacher_script>
 
 <vocabulary>
-1. **non-governmental organisation** : (n.phr) tổ chức phi chính phủ /nɒn ˌɡʌvənˈmentəl/
-2. **set up** : (v.phr) thành lập /set ʌp/
-3. **natural environment** : (n.phr) môi trường tự nhiên /ˈnætʃərəl ɪnˈvaɪrənmənt/
-4. **survival** : (n) sự sống còn /səˈvaɪvəl/
-5. **giant panda** : (n.phr) gấu trúc khổng lồ /ˈdʒaɪənt ˈpændə/
-6. **gorilla** : (n) khỉ đột /ɡəˈrɪlə/
-7. **supporter** : (n) người ủng hộ /səˈpɔːtər/
+1. **survival** : (n) sự sinh tồn /səˈvaɪvəl/
+2. **tortoise** : (n) rùa /ˈtɔːtəs/
+3. **supporter** : (n) người ủng hộ /səˈpɔːtər/
+4. **die out** : (phr.v) tuyệt chủng /daɪ aʊt/
+5. **conduct** : (v) tiến hành /kənˈdʌkt/
 </vocabulary>
 
 <!-- chunk: exercise_1 -->
@@ -67,7 +65,7 @@ Hoàn thành bảng nha. 1 phút.
 **2.** Set up in: _______
 **3.** Aims: _______
 **4.** Focus: _______
-**5.** Number of supporters: _______
+**5.** Number of projects supported: _______
 </questions>
 
 <teacher_script pause="0">
@@ -80,7 +78,7 @@ Ok đáp án nè.
 2. 1961
 3. stop destroying the natural environment; build a future where humans respect nature
 4. survival of endangered animals and protection of their natural habitats
-5. 5 million worldwide
+5. around 1,300
 </answer>
 
 <!-- chunk: exercise_3 -->

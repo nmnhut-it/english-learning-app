@@ -6,6 +6,30 @@
 Ok lớp 10, hôm nay mình học bài <eng>Language</eng> Unit 9 nha. Phần phát âm học nhịp điệu câu, từ vựng về môi trường, và ngữ pháp câu tường thuật. Mở sách ra đi.
 </teacher_script>
 
+<!-- chunk: vocabulary -->
+<teacher_script pause="0">
+Học từ vựng trước nha. Bấm nút "Bắt đầu" để học từ vựng.
+</teacher_script>
+
+<vocabulary>
+1. **pick** : (v) hái /pɪk/
+2. **playground** : (n) sân trường /ˈpleɪɡraʊnd/
+3. **polar bears** : (n.phr) gấu Bắc Cực /ˈpəʊlə beəz/
+4. **documentary** : (n) phim tài liệu /ˌdɒkjuˈmentri/
+5. **rest** : (v) nghỉ ngơi /rest/
+6. **ring someone up** : (v.phr) gọi cho ai đó /rɪŋ ˈsʌmwʌn ʌp/
+7. **biodiversity** : (n) đa dạng sinh học /ˌbaɪəʊdaɪˈvɜːsəti/
+8. **ecosystem** : (n) hệ sinh thái /ˈiːkəʊsɪstəm/
+9. **depend on** : (v) phụ thuộc vào /dɪˈpend ɒn/
+10. **involve** : (v) liên quan /ɪnˈvɒlv/
+11. **global issues** : (n.phr) các vấn đề toàn cầu /ˈɡləʊbəl ˈɪʃuːz/
+12. **effect** : (n) ảnh hưởng /ɪˈfekt/
+13. **fly** : (v) bay /flaɪ/
+14. **hand in** : (phr.v) nộp /hænd ɪn/
+15. **lead to** : (phr.v) dẫn đến /liːd tuː/
+16. **have an impact on** : (v.phr) có tác động /hæv ən ˈɪmpækt ɒn/
+</vocabulary>
+
 <!-- chunk: pronunciation_intro -->
 ### Pronunciation - Bài 1 trang 97
 

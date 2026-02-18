@@ -6,6 +6,17 @@
 Ok lớp 10, hôm nay mình ôn tập Unit 9: <eng>Protecting the Environment</eng> nha. Có 3 phần: phát âm, từ vựng và ngữ pháp. Mở sách trang 109 đi.
 </teacher_script>
 
+<!-- chunk: vocabulary -->
+<teacher_script pause="0">
+Học từ vựng trước nha. Bấm nút "Bắt đầu" để học từ vựng.
+</teacher_script>
+
+<vocabulary>
+1. **tend to** : (phr.v) có xu hướng /tend tuː/
+2. **be interested in something** : (v.phr) có hứng thú với việc gì đó /biː ˈɪntrəstəd ɪn/
+3. **Earth Hour** : (n) giờ Trái Đất /ɜːθ ˈaʊər/
+</vocabulary>
+
 <!-- chunk: pronunciation -->
 ### Pronunciation trang 109
 

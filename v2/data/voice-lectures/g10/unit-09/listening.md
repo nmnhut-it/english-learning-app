@@ -12,13 +12,9 @@ Học từ vựng trước nha.
 </teacher_script>
 
 <vocabulary>
-1. **rhino** : (n) tê giác /ˈraɪnəʊ/
-2. **captivity** : (n) sự giam cầm /kæpˈtɪvɪti/
-3. **wildlife trade** : (n.phr) buôn bán động vật hoang dã /ˈwaɪldlaɪf treɪd/
-4. **awareness** : (n) nhận thức /əˈweənəs/
-5. **ban** : (v) cấm /bæn/
-6. **mid-term project** : (n.phr) dự án giữa kỳ /mɪd tɜːm ˈprɒdʒekt/
-7. **natural balance** : (n.phr) cân bằng tự nhiên /ˈnætʃərəl ˈbæləns/
+1. **wildlife trade** : (n.phr) buôn bán động vật hoang dã /ˈwaɪldlaɪf treɪd/
+2. **mid-term project** : (n.phr) dự án giữa kỳ /mɪd tɜːm ˈprɒdʒekt/
+3. **prevent someone from** : (v.phr) ngăn cản ai đó /prɪˈvent ˈsʌmwʌn frɒm/
 </vocabulary>
 
 <!-- chunk: exercise_1 -->
@@ -49,6 +45,50 @@ Bài 2, nghe cuộc hội thoại giữa Nam và Mai về dự án cứu động
 <audio>
 https://img.loigiaihay.com/picture/2022/0809/069.mp3
 </audio>
+
+<reading>
+**Nam:** Hi, Mai. How's your mid-term project going?
+
+**Mai:** Good! I'm trying to complete it by next Monday. But I'm still working on the last part: saving endangered animals. Do you have any ideas, Nam?
+
+**Nam:** Well, I think the first thing you should do is help people understand the importance of this problem.
+
+**Mai:** Yes, I agree. Some people think this is a natural process that would happen with or without humans. They also believe that's not their responsibility.
+
+**Nam:** You should also do some research on the number of endangered animals. We are losing animals quicker now than ever before. And one of the reasons is illegal hunting.
+
+**Mai:** Yes, hunting causes a lot of suffering to wild animals. It destroys their natural habitats, and leaves baby animals behind to die.
+
+**Nam:** Well, I think strict laws can really help. Heavy punishment may prevent people from illegal hunting. Besides, wildlife trade should be banned as well.
+
+**Mai:** That would stop illegal hunting. Any more ideas, Nam?
+
+**Nam:** And we should make sure that the souvenirs we buy on holiday are not made from endangered animal parts.
+
+**Mai:** That's true. Thanks, Nam! You've been so helpful.
+</reading>
+
+<translation>
+**Nam:** Chào Mai. Dự án giữa kỳ của bạn thế nào rồi?
+
+**Mai:** Tốt! Mình đang cố hoàn thành vào thứ Hai tới. Nhưng mình vẫn đang làm phần cuối: cứu động vật có nguy cơ tuyệt chủng. Bạn có ý kiến gì không Nam?
+
+**Nam:** À, mình nghĩ điều đầu tiên bạn nên làm là giúp mọi người hiểu tầm quan trọng của vấn đề này.
+
+**Mai:** Ừ, mình đồng ý. Một số người nghĩ đây là quá trình tự nhiên, có hay không có con người đều xảy ra. Họ cũng cho rằng đó không phải trách nhiệm của họ.
+
+**Nam:** Bạn cũng nên nghiên cứu về số lượng động vật có nguy cơ tuyệt chủng. Chúng ta đang mất động vật nhanh hơn bao giờ hết. Và một trong những lý do là săn bắn trái phép.
+
+**Mai:** Đúng vậy, săn bắn gây ra rất nhiều đau khổ cho động vật hoang dã. Nó phá hủy môi trường sống tự nhiên của chúng và bỏ lại những con vật con chết.
+
+**Nam:** Mình nghĩ luật nghiêm minh thực sự có thể giúp ích. Hình phạt nặng có thể ngăn chặn săn bắn trái phép. Bên cạnh đó, buôn bán động vật hoang dã cũng nên bị cấm.
+
+**Mai:** Điều đó sẽ ngăn chặn săn bắn bất hợp pháp. Bạn còn ý gì nữa không Nam?
+
+**Nam:** Và chúng ta nên đảm bảo rằng quà lưu niệm mua khi đi du lịch không được làm từ bộ phận động vật tuyệt chủng.
+
+**Mai:** Đúng vậy. Cảm ơn Nam! Bạn giúp mình nhiều lắm.
+</translation>
 
 <teacher_script pause="45">
 Xác định đúng sai nha. 45 giây.
@@ -89,23 +129,24 @@ Bài 3, nghe lại và hoàn thành câu nha.
 </teacher_script>
 
 <audio>
-https://img.loigiaihay.com/picture/2022/0809/069.mp3
+https://img.loigiaihay.com/picture/2022/0809/070.mp3
 </audio>
 
 <teacher_script pause="45">
-Hoàn thành câu nha. 45 giây.
+Hoàn thành ghi chú với MỘT từ cho mỗi chỗ trống nha. 45 giây.
 </teacher_script>
 
 <task>
-**Đề:** Listen again and complete the sentences.
-**Dịch đề:** Nghe lại và hoàn thành câu.
+**Đề:** Listen to the conversation again and complete the notes. Use ONE word for each gap.
+**Dịch đề:** Nghe lại và hoàn thành ghi chú. Dùng MỘT từ cho mỗi chỗ trống.
 </task>
 
 <questions type="fill_blanks">
-**1.** Mai's project is about ways to _______ endangered animals.
-**2.** Nam suggests raising people's _______ of the problem.
-**3.** Mai thinks people should stop _______ and killing animals.
-**4.** Nam believes governments should ban _______.
+**Ways to save endangered animals:**
+**1.** Helping people understand the (1) _______ of the problem
+**2.** Introducing strict (2) _______ to prevent people from illegal hunting
+**3.** Banning wildlife (3) _______
+**4.** Avoiding products made from endangered (4) _______ parts
 </questions>
 
 <teacher_script pause="0">
@@ -113,8 +154,15 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. save | 2. awareness | 3. hunting | 4. wildlife trade
+**Đáp án:** 1. importance | 2. laws | 3. trade | 4. animal
 </answer>
+
+<explanation>
+**1. importance** - "help people understand the **importance** of this problem" — tầm quan trọng.
+**2. laws** - "strict **laws** can really help" — luật nghiêm minh.
+**3. trade** - "wildlife **trade** should be banned" — buôn bán.
+**4. animal** - "not made from endangered **animal** parts" — bộ phận động vật.
+</explanation>
 
 <!-- chunk: exercise_4 -->
 ### Bài 4 trang 103 - Discussion
@@ -124,8 +172,8 @@ Bài 4, thảo luận: Chúng ta có thể làm gì để cứu động vật c�
 </teacher_script>
 
 <task>
-**Đề:** What can we do to save endangered animals?
-**Dịch đề:** Chúng ta có thể làm gì để cứu động vật tuyệt chủng?
+**Đề:** Which is the most effective way to save endangered animals? Why?
+**Dịch đề:** Cách bảo vệ động vật có nguy cơ tuyệt chủng nào hiệu quả nhất? Tại sao?
 </task>
 
 <!-- chunk: end -->

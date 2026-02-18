@@ -13,15 +13,16 @@ Học từ vựng trước nha.
 
 <vocabulary>
 1. **environmental protection** : (n.phr) bảo vệ môi trường /ɪnˌvaɪrənˈmentəl prəˈtekʃən/
-2. **global warming** : (n.phr) sự nóng lên toàn cầu /ˈɡləʊbəl ˈwɔːmɪŋ/
-3. **deforestation** : (n) phá rừng /diːˌfɒrɪˈsteɪʃən/
-4. **endangered animals** : (n.phr) động vật có nguy cơ tuyệt chủng /ɪnˈdeɪndʒəd ˈænɪməlz/
-5. **pollution** : (n) ô nhiễm /pəˈluːʃən/
-6. **practical actions** : (n.phr) hành động thiết thực /ˈpræktɪkəl ˈækʃənz/
-7. **come up with** : (v.phr) nghĩ ra /kʌm ʌp wɪð/
-8. **identify** : (v) xác định /aɪˈdentɪfaɪ/
-9. **do some research** : (v.phr) nghiên cứu /duː sʌm rɪˈsɜːtʃ/
-10. **presentation** : (n) bài thuyết trình /ˌprezənˈteɪʃən/
+2. **endangered animals** : (n.phr) động vật có nguy cơ tuyệt chủng /ɪnˈdeɪndʒəd ˈænɪməlz/
+3. **do some research** : (v.phr) thực hiện nghiên cứu /duː sʌm rɪˈsɜːtʃ/
+4. **ask someone for advice** : (v.phr) hỏi xin lời khuyên của ai đó /ɑːsk ˈsʌmwʌn fɔːr ədˈvaɪs/
+5. **practical action** : (n.phr) hành động thiết thực /ˈpræktɪkəl ˈækʃən/
+6. **come up with** : (phr.v) nghĩ ra /kʌm ʌp wɪð/
+7. **identify** : (v) xác định /aɪˈdentɪfaɪ/
+8. **deliver** : (v) thực hiện, trình bày /dɪˈlɪvər/
+9. **organise** : (v) tổ chức /ˈɔːɡənaɪz/
+10. **deforestation** : (n) nạn phá rừng /ˌdiːˌfɒrɪˈsteɪʃən/
+11. **explain** : (v) giải thích /ɪksˈpleɪn/
 </vocabulary>
 
 <!-- chunk: dialogue -->
@@ -33,12 +34,19 @@ Bài 1, nghe và đọc hội thoại giữa Nam và bố nha.
 | English | Vietnamese |
 |---------|-----------|
 | **Nam's father:** What are you doing, Nam? | **Bố:** Con đang làm gì vậy Nam? |
-| **Nam:** I'm preparing a presentation for my geography class. It's environmental protection. | **Nam:** Con đang chuẩn bị bài thuyết trình cho lớp địa lý. Về bảo vệ môi trường. |
-| **Nam's father:** I think you should identify some environmental problems first. | **Bố:** Bố nghĩ con nên xác định một số vấn đề môi trường trước. |
-| **Nam:** I've come up with a range of issues such as global warming, deforestation, endangered animals and pollution. | **Nam:** Con nghĩ ra nhiều vấn đề như nóng lên toàn cầu, phá rừng, động vật tuyệt chủng và ô nhiễm. |
-| **Nam's father:** You should focus on each problem, explain the main causes, and suggest the solutions. | **Bố:** Con nên tập trung từng vấn đề, giải thích nguyên nhân, và đề xuất giải pháp. |
-| **Nam:** She advised that I should start with small, practical actions before coming up with big ideas that need a lot of effort or money. | **Nam:** Cô khuyên con nên bắt đầu từ hành động nhỏ thiết thực trước khi nghĩ đến ý tưởng lớn cần nhiều công sức hay tiền bạc. |
-| **Nam's father:** Sounds good. You'd better follow her advice. She said I should present it the following week. | **Bố:** Hay đó. Con nên theo lời cô. Cô nói con trình bày tuần sau. |
+| **Nam:** I'm preparing a presentation for my geography class. | **Nam:** Con đang chuẩn bị bài thuyết trình cho lớp địa lý. |
+| **Nam's father:** What's the topic? | **Bố:** Chủ đề là gì thế con? |
+| **Nam:** It's environmental protection. My teacher asked me to do some research, but I don't know where to start. | **Nam:** Là bảo vệ môi trường ạ. Cô yêu cầu con nghiên cứu, nhưng con không biết bắt đầu từ đâu. |
+| **Nam's father:** I think you should identify some environmental problems first. What have you found so far? | **Bố:** Bố nghĩ con nên xác định vấn đề môi trường trước. Con tìm được gì rồi? |
+| **Nam:** I've come up with a range of environmental issues such as global warming, deforestation, endangered animals and pollution, but I don't know how to organise them. | **Nam:** Con nghĩ ra nhiều vấn đề như nóng lên toàn cầu, phá rừng, động vật tuyệt chủng và ô nhiễm, nhưng không biết sắp xếp sao. |
+| **Nam's father:** You should focus on each problem, explain the main causes of it, and then suggest the solutions. | **Bố:** Con nên tập trung từng vấn đề, giải thích nguyên nhân, rồi đề xuất giải pháp. |
+| **Nam:** Thanks, Dad. But presenting all the solutions will be hard. | **Nam:** Cảm ơn bố. Nhưng trình bày hết giải pháp thì khó lắm. |
+| **Nam's father:** Have you asked your teacher for advice? | **Bố:** Con đã hỏi ý kiến cô giáo chưa? |
+| **Nam:** Yes, I have. She advised that I should start with small, practical actions to protect the environment before coming up with big ideas that need a lot of effort or money to succeed. | **Nam:** Dạ rồi. Cô khuyên con nên bắt đầu từ hành động nhỏ thiết thực để bảo vệ môi trường trước khi nghĩ đến ý tưởng lớn cần nhiều công sức hay tiền bạc. |
+| **Nam's father:** Sounds good. You'd better follow her advice. When did she ask you to present it? | **Bố:** Hay đó. Con nên theo lời cô. Khi nào cô yêu cầu con trình bày? |
+| **Nam:** She said I should present it the following week. | **Nam:** Cô nói con trình bày tuần sau. |
+| **Nam's father:** You still have a lot of time. Good luck! | **Bố:** Con vẫn còn nhiều thời gian. Chúc may mắn! |
+| **Nam:** Thanks, Dad. | **Nam:** Cảm ơn bố. |
 </dialogue>
 
 <teacher_script pause="120">
@@ -46,59 +54,21 @@ Bài 1, nghe và đọc hội thoại giữa Nam và bố nha.
 </teacher_script>
 
 <!-- chunk: exercise_2 -->
-### Bài 2 trang 96 - Multiple Choice
+### Bài 2 trang 96 - Answer Questions
 
 <teacher_script pause="45">
-Bài 2, đọc lại rồi chọn đáp án đúng nha. 45 giây.
+Bài 2, đọc lại hội thoại rồi trả lời 3 câu hỏi nha. 45 giây.
 </teacher_script>
 
 <task>
-**Đề:** Read the conversation again and choose the correct answers.
-**Dịch đề:** Đọc lại và chọn đáp án đúng.
-</task>
-
-<questions type="multiple_choice">
-**1.** What is the main topic of Nam's presentation?
-- A. Geography
-- B. Environmental protection
-- C. Global warming
-
-**2.** What did Nam's teacher advise?
-- A. Start with big ideas
-- B. Focus on one problem
-- C. Start with small, practical actions
-</questions>
-
-<teacher_script pause="0">
-Ok đáp án nè.
-</teacher_script>
-
-<answer>
-**Đáp án:** 1. B | 2. C
-</answer>
-
-<explanation>
-**1. B** - Nam nói: "It's environmental protection" - chủ đề bảo vệ môi trường.
-**2. C** - Cô giáo khuyên: "start with small, practical actions" - bắt đầu từ hành động nhỏ thiết thực.
-</explanation>
-
-<!-- chunk: exercise_3 -->
-### Bài 3 trang 96 - Find Words
-
-<teacher_script pause="45">
-Bài 3, tìm từ trong hội thoại có nghĩa tương ứng nha. 45 giây.
-</teacher_script>
-
-<task>
-**Đề:** Find words in the conversation that match the definitions.
-**Dịch đề:** Tìm từ trong hội thoại có nghĩa tương ứng.
+**Đề:** Read the conversation again and answer the questions.
+**Dịch đề:** Đọc lại hội thoại và trả lời câu hỏi.
 </task>
 
 <questions type="fill_blanks">
-**1.** _______ : animals that may soon no longer exist
-**2.** _______ : useful and relevant to real situations
-**3.** _______ : the cutting and clearing of forests
-**4.** _______ : think of an idea or plan
+**1.** What did Nam's teacher ask him to do?
+**2.** What has Nam come up with so far?
+**3.** When does Nam have to deliver the presentation?
 </questions>
 
 <teacher_script pause="0">
@@ -106,8 +76,58 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. endangered | 2. practical | 3. deforestation | 4. come up with
+**Đáp án:**
+1. She asked Nam to do some research on environmental protection.
+2. He's come up with a range of environmental issues.
+3. Nam has to deliver the presentation next week.
 </answer>
+
+<explanation>
+**1.** "My teacher asked me to do some research" → Cô yêu cầu Nam nghiên cứu về bảo vệ môi trường.
+**2.** "I've come up with a range of environmental issues such as global warming, deforestation, endangered animals and pollution" → Nam nghĩ ra nhiều vấn đề môi trường.
+**3.** "She said I should present it the following week" → Nam phải trình bày tuần sau.
+</explanation>
+
+<!-- chunk: exercise_3 -->
+### Bài 3 trang 96 - Matching
+
+<teacher_script pause="45">
+Bài 3, ghép từ ở cột A với từ ở cột B để tạo thành cụm từ trong bài 1 nha. 45 giây.
+</teacher_script>
+
+<task>
+**Đề:** Match the words in A with the words in B to form phrases in 1.
+**Dịch đề:** Ghép các từ ở cột A với từ ở cột B để tạo thành các cụm từ trong bài 1.
+</task>
+
+<questions type="matching">
+**A:**
+1. global
+2. practical
+3. environmental
+4. endangered
+
+**B:**
+a. animals
+b. issues
+c. actions
+d. warming
+</questions>
+
+<teacher_script pause="0">
+Ok đáp án nè.
+</teacher_script>
+
+<answer>
+**Đáp án:** 1-d | 2-c | 3-b | 4-a
+</answer>
+
+<explanation>
+**1-d. global warming** - sự nóng lên toàn cầu
+**2-c. practical actions** - hành động thiết thực
+**3-b. environmental issues** - các vấn đề về môi trường
+**4-a. endangered animals** - các động vật có nguy cơ tuyệt chủng
+</explanation>
 
 <!-- chunk: exercise_4 -->
 ### Bài 4 trang 96 - Reported Speech
