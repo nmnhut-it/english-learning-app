@@ -24,6 +24,8 @@ const ReviewView = {
               <button class="tool-btn" data-mode="dialogue">Dialogue Check</button>
             </div>
             <div class="toolbar-group">
+              <button class="tool-btn" id="lecture-only-btn" title="Toggle lecture-only full-width view">Lecture Only</button>
+              <span style="border-left: 1px solid var(--border); height: 18px;"></span>
               <select class="status-select" id="review-status-select">
                 <option value="unreviewed">Unreviewed</option>
                 <option value="reviewed">Reviewed</option>
@@ -73,6 +75,14 @@ const ReviewView = {
         API.setReviewStatus(this.current.grade, this.current.unit, this.current.section, e.target.value);
         NavSidebar.updateStatus(this.current.grade, this.current.unit, this.current.section, e.target.value);
       }
+    });
+
+    // Lecture-only toggle
+    document.getElementById('lecture-only-btn').addEventListener('click', () => {
+      const btn = document.getElementById('lecture-only-btn');
+      const panels = this.container.querySelector('.panels-container');
+      panels.classList.toggle('lecture-only');
+      btn.classList.toggle('active');
     });
 
     // Prev/Next buttons
