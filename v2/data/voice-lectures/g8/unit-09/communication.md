@@ -54,11 +54,11 @@ Bài 1. <eng>Listen and read the dialogue below. Pay attention to the highlighte
 <dialogue>
 | English | Vietnamese |
 |---------|------------|
-| **Mark:** Phong, why are you so sad? | **Mark:** Phong, sao bạn buồn thế? |
-| **Phong:** My grandparents called this morning. A flood destroyed their house. | **Phong:** Ông bà tôi gọi sáng nay. Lũ lụt đã phá hủy nhà của họ. |
-| **Mark:** I'm sorry to hear that. | **Mark:** Mình rất tiếc khi nghe điều đó. |
-| **Phong:** It also damaged all of their crops. | **Phong:** Nó cũng phá hủy hết mùa màng của ông bà rồi. |
-| **Mark:** That's awful. I hope your grandparents are safe. | **Mark:** Thật tệ quá. Mình mong ông bà bạn vẫn an toàn. |
+| **Mark:** Phong, why are you so sad? | **Mark:** Phong, sao cậu buồn thế? |
+| **Phong:** My grandparents called this morning. A flood destroyed their house. | **Phong:** Ông bà mình mới gọi sáng nay. Một cơn lũ đã phá hủy ngôi nhà của họ. |
+| **Mark:** I'm sorry to hear that. | **Mark:** Mình rất lấy làm tiếc khi nghe điều đó. |
+| **Phong:** It also damaged all of their crops. | **Phong:** Nó cũng phá hủy hết nông sản của ông bà rồi. |
+| **Mark:** That's awful. I hope your grandparents are safe. | **Mark:** Thật tệ. Mong ông bà cậu vẫn ổn. |
 </dialogue>
 
 <teacher_script pause="180">
@@ -77,10 +77,10 @@ Bài 2. <eng>Work in pairs. Practise giving and responding to bad news in the fo
 
 <questions type="speaking">
 **Situation 1:** You have a friend in a mountainous area. A landslide destroyed his family's garden yesterday. You share this news with your classmate.
-*Tình huống 1: Bạn có một người bạn sống ở vùng núi. Một trận sạt lở đất đã phá hủy khu vườn của gia đình cậu ấy vào hôm qua. Bạn chia sẻ tin này với bạn cùng lớp.*
+*Tình huống 1: Bạn có một người bạn sống ở vùng núi. Một trận sạt lở đất đã phá hủy khu vườn của gia đình cậu ấy vào hôm qua. Bạn chia sẻ tin này với các bạn cùng lớp.*
 
 **Situation 2:** You hear that a big earthquake hit a city. You share this news with your classmate.
-*Tình huống 2: Bạn nghe thấy có một trận động đất lớn trong thành phố. Bạn chia sẻ tin này với bạn cùng lớp.*
+*Tình huống 2: Bạn nghe thấy có một trận động đất lớn trong thành phố. Bạn chia sẻ tin này với các bạn cùng lớp.*
 </questions>
 
 <teacher_script pause="0">
@@ -111,15 +111,15 @@ Bài 3. <eng>Read the short passages below. Decide which natural disaster each p
 
 <questions type="fill_blanks">
 **Nam:** We were travelling on the road near a mountain. Suddenly, a lot of rocks and mud came down the mountain.
-*Chúng tôi đang đi trên đường gần một ngọn núi. Đột nhiên, rất nhiều đá và bùn rơi từ trên núi xuống.*
+*Chúng tôi đang đi trên đường gần một ngọn núi. Bất ngờ, rất nhiều tảng đá và bùn rơi từ trên núi xuống.*
 → Nam: ______
 
 **Ann:** While I was working in the garden, I saw a big funnel of wind moving towards us very quickly.
-*Khi tôi đang làm việc trong vườn, tôi thấy một phễu gió lớn đang tiến đến rất nhanh.*
+*Khi tôi đang làm việc trong vườn, tôi thấy một cái phễu gió lớn đang tiến đến gần tôi rất nhanh.*
 → Ann: ______
 
 **Tom:** Suddenly, everything in our living room began to shake. My sister and I quickly hid under the table.
-*Đột nhiên, mọi thứ trong phòng khách bắt đầu rung lắc. Chị tôi và tôi nhanh chóng trốn dưới bàn.*
+*Bất ngờ, mọi thứ ở trong phòng khách bắt đầu rung lắc. Chị tôi và tôi nhanh chóng lẩn trốn dưới bàn.*
 → Tom: ______
 </questions>
 
@@ -129,14 +129,14 @@ Bài 3. <eng>Read the short passages below. Decide which natural disaster each p
 
 <answer>
 **Đáp án:**
-- Nam: landslide (lở đất)
+- Nam: landslide (sạt lở đất)
 - Ann: tornado (lốc xoáy)
 - Tom: earthquake (động đất)
 </answer>
 
 <explanation>
 **Giải thích từng đoạn:**
-- **Nam — landslide:** "A lot of rocks and mud came down the mountain" — đá và bùn rơi từ trên núi xuống → đặc trưng của <eng>landslide</eng> (lở đất).
+- **Nam — landslide:** "A lot of rocks and mud came down the mountain" — đá và bùn rơi từ trên núi xuống → đặc trưng của <eng>landslide</eng> (sạt lở đất).
 - **Ann — tornado:** "A big funnel of wind moving towards us" — phễu gió lớn tiến về phía → đặc trưng của <eng>tornado</eng> (lốc xoáy).
 - **Tom — earthquake:** "Everything began to shake" — mọi thứ bắt đầu rung lắc, trốn dưới bàn → đặc trưng của <eng>earthquake</eng> (động đất).
 </explanation>
