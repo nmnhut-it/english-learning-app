@@ -7,6 +7,17 @@ Ok lớp 10, hôm nay mình ôn tập Unit 10 bài <eng>Looking Back</eng> nha. 
 </teacher_script>
 
 <!-- chunk: vocabulary -->
+<teacher_script pause="0">
+Học từ vựng trước nha. Bấm nút "Bắt đầu" để học từ vựng.
+</teacher_script>
+
+<vocabulary>
+1. **sustainable** : (adj) bền vững /səˈsteɪnəbl/
+2. **profit** : (n) lợi nhuận /ˈprɒfɪt/
+3. **similar to** : (adj.phr) giống /ˈsɪmɪlə tuː/
+4. **deal with** : (v.phr) đối phó với /diːl wɪð/
+</vocabulary>
+
 ### Vocabulary
 
 <teacher_script pause="60">

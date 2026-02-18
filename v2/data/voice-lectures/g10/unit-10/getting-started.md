@@ -17,10 +17,11 @@ Học từ vựng trước nha.
 3. **rock collection** : (n.phr) bộ sưu tập đá /rɒk kəˈlekʃən/
 4. **eco-friendly** : (adj) thân thiện với môi trường /ˈiːkəʊ ˈfrendli/
 5. **explore** : (v) khám phá /ɪkˈsplɔːr/
-6. **promise** : (v) hứa /ˈprɒmɪs/
-7. **leave litter** : (v.phr) xả rác /liːv ˈlɪtər/
-8. **packaging** : (n) bao bì /ˈpækɪdʒɪŋ/
-9. **educational experience** : (n.phr) trải nghiệm giáo dục /edʒuˈkeɪʃənl ɪkˈspɪəriəns/
+6. **afraid** : (adj) e sợ /əˈfreɪd/
+7. **promise** : (v) hứa /ˈprɒmɪs/
+8. **leave litter** : (v.phr) xả rác /liːv ˈlɪtər/
+9. **packaging** : (n) bao bì /ˈpækɪdʒɪŋ/
+10. **educational experience** : (n.phr) trải nghiệm giáo dục /edʒuˈkeɪʃənl ɪkˈspɪəriəns/
 </vocabulary>
 
 <!-- chunk: dialogue -->

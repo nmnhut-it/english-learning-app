@@ -13,11 +13,8 @@ Học từ vựng trước nha.
 
 <vocabulary>
 1. **delta** : (n) đồng bằng /ˈdeltə/
-2. **floating market** : (n.phr) chợ nổi /ˈfləʊtɪŋ ˈmɑːkɪt/
-3. **weaving workshop** : (n.phr) xưởng dệt /ˈwiːvɪŋ ˈwɜːkʃɒp/
-4. **host family** : (n.phr) gia đình bản xứ /həʊst ˈfæməli/
-5. **traditional foods** : (n.phr) món ăn truyền thống /trəˈdɪʃənl fuːdz/
-6. **locally made souvenirs** : (n.phr) quà lưu niệm sản xuất địa phương /ˈləʊkəli meɪd ˈsuːvənɪəz/
+2. **weaving workshop** : (n.phr) xưởng dệt /ˈwiːvɪŋ ˈwɜːkʃɒp/
+3. **host** : (n) chủ nhà /həʊst/
 </vocabulary>
 
 <!-- chunk: exercise_1 -->

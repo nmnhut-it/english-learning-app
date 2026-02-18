@@ -15,11 +15,9 @@ Học từ vựng trước nha.
 1. **tour guide** : (n) hướng dẫn viên du lịch /tʊə ɡaɪd/
 2. **dive** : (v) lặn /daɪv/
 3. **rough** : (adj) (biển) động /rʌf/
-4. **recommend** : (v) đề nghị, khuyên /ˌrekəˈmend/
-5. **mass tourism** : (n.phr) du lịch đại chúng /mæs ˈtʊərɪzəm/
-6. **sustainable tourism** : (n.phr) du lịch bền vững /səˈsteɪnəbl ˈtʊərɪzəm/
-7. **responsible tourism** : (n.phr) du lịch có trách nhiệm /rɪˈspɒnsəbl ˈtʊərɪzəm/
-8. **promote** : (v) thúc đẩy /prəˈməʊt/
+4. **provide someone with something** : (v.phr) cung cấp cho ai đó cái gì /prəˈvaɪd ˈsʌmwʌn wɪð ˈsʌmθɪŋ/
+5. **promote** : (v) thúc đẩy /prəˈməʊt/
+6. **refer** : (v) đề cập /rɪˈfɜːr/
 </vocabulary>
 
 <!-- chunk: everyday_english_1 -->

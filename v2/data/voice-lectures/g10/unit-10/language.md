@@ -6,6 +6,27 @@
 Ok lớp 10, hôm nay mình học bài <eng>Language</eng> Unit 10 nha. Phần phát âm học ngữ điệu câu, từ vựng về du lịch sinh thái, và ngữ pháp câu điều kiện loại 1 và 2. Mở sách ra đi.
 </teacher_script>
 
+<!-- chunk: vocabulary -->
+<teacher_script pause="0">
+Học từ vựng trước nha. Bấm nút "Bắt đầu" để học từ vựng.
+</teacher_script>
+
+<vocabulary>
+1. **pack** : (v) soạn đồ, đóng gói /pæk/
+2. **be not good for something** : (v.phr) không tốt cho cái gì /biː nɒt ɡʊd fɔː/
+3. **ecotourism** : (n) du lịch sinh thái /ˈiːkəʊtʊərɪzəm/
+4. **be responsible for** : (v.phr) có trách nhiệm /biː rɪˈspɒnsəbl fɔː/
+5. **cause** : (v) gây hại /kɔːz/
+6. **crafts** : (n) hàng thủ công /kræft/
+7. **earn some money** : (v.phr) kiếm tiền /ɜːn sʌm ˈmʌni/
+8. **duty** : (n) nhiệm vụ /ˈdjuːti/
+9. **good marks** : (n.phr) điểm cao /ɡʊd mɑːks/
+10. **alive** : (adj) còn sống /əˈlaɪv/
+11. **give up** : (phr.v) từ bỏ /ɡɪv ʌp/
+12. **grow vegetables** : (v.phr) trồng rau /ɡrəʊ ˈvedʒtəblz/
+13. **local products** : (n.phr) sản phẩm địa phương /ˈləʊkəl ˈprɒdʌkts/
+</vocabulary>
+
 <!-- chunk: pronunciation_1 -->
 ### Pronunciation - Intonation
 

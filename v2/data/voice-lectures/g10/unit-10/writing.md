@@ -12,11 +12,10 @@ Học từ vựng trước nha.
 </teacher_script>
 
 <vocabulary>
-1. **herb** : (n) thảo mộc /hɜːb/
-2. **be famous for** : (v.phr) nổi tiếng vì /biː ˈfeɪməs fɔː/
-3. **be well-known for** : (v.phr) được biết đến vì /biː wel nəʊn fɔː/
-4. **be encouraged to** : (v.phr) được khuyến khích /biː ɪnˈkʌrɪdʒd tuː/
-5. **be recommended to** : (v.phr) được đề xuất /biː ˌrekəˈmendɪd tuː/
+1. **be special about** : (v.phr) đặc biệt về /biː ˈspeʃəl əˈbaʊt/
+2. **herb** : (n) thảo mộc /hɜːb/
+3. **be famous for** : (v.phr) nổi tiếng vì /biː ˈfeɪməs fɔː/
+4. **be encouraged to / be recommended to** : (v.phr) được khuyến khích / được đề xuất /biː ɪnˈkʌrɪdʒd tuː/
 </vocabulary>
 
 <!-- chunk: exercise_1 -->

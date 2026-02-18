@@ -6,6 +6,19 @@
 Ok lớp 10, hôm nay mình học bài <eng>Speaking</eng> Unit 10 nha. Mình sẽ thảo luận về cách trở thành nhà du lịch sinh thái. Mở sách ra đi.
 </teacher_script>
 
+<!-- chunk: vocabulary -->
+<teacher_script pause="0">
+Học từ vựng trước nha. Bấm nút "Bắt đầu" để học từ vựng.
+</teacher_script>
+
+<vocabulary>
+1. **trail** : (n) đường mòn /treɪl/
+2. **suggest** : (v) đề nghị /səˈdʒest/
+3. **be better for** : (v.phr) tốt hơn cho /biː ˈbetə fɔː/
+4. **tourist attraction** : (n.phr) điểm du lịch /ˈtʊərɪst əˈtrækʃən/
+5. **benefit** : (v) được lợi /ˈbenɪfɪt/
+</vocabulary>
+
 <!-- chunk: exercise_1 -->
 ### Bài 1 trang 114 - Matching
 

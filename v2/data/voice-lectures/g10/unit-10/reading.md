@@ -13,13 +13,14 @@ Học từ vựng trước nha.
 
 <vocabulary>
 1. **brochure** : (n) tờ rơi quảng cáo /ˈbrəʊʃər/
-2. **coral reef** : (n.phr) rạn san hô /ˈkɒrəl riːf/
-3. **scenery** : (n) phong cảnh /ˈsiːnəri/
-4. **hippos** : (n) hà mã /ˈhɪpəʊz/
-5. **high-speed boat** : (n.phr) thuyền cao tốc /haɪ spiːd bəʊt/
+2. **scenery** : (n) phong cảnh /ˈsiːnəri/
+3. **hippos** : (n) hà mã /ˈhɪpəʊz/
+4. **high-speed boat** : (n.phr) thuyền cao tốc /haɪ spiːd bəʊt/
+5. **jump out of** : (v.phr) nhảy lên khỏi /dʒʌmp aʊt ɒv/
 6. **local souvenirs** : (n.phr) quà lưu niệm địa phương /ˈləʊkəl ˈsuːvənɪəz/
 7. **wildlife** : (n) động vật hoang dã /ˈwaɪldlaɪf/
-8. **jeeps** : (n) xe jeep /dʒiːps/
+8. **be not suitable for** : (v.phr) không thích hợp cho /biː nɒt ˈsuːtəbl fɔː/
+9. **jeeps** : (n) xe jeep /dʒiːps/
 </vocabulary>
 
 <!-- chunk: exercise_1 -->
