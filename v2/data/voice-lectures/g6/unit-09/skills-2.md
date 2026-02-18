@@ -125,7 +125,7 @@ Ok đáp án nè.
 ### Bài 3 trang 33 - Fill in the gaps
 
 <teacher_script pause="60">
-Bài 3. Nghe lại và điền từ/số còn thiếu. Chú ý các con số: số quầy hàng, số phút đi bộ. 1 phút.
+Bài 3. Nghe lại và điền từ/số còn thiếu. Chú ý: loại chợ gì, số quầy hàng, cuộc sống người Thái. 1 phút.
 </teacher_script>
 
 <task>
@@ -134,11 +134,11 @@ Bài 3. Nghe lại và điền từ/số còn thiếu. Chú ý các con số: s�
 </task>
 
 <questions type="fill_blanks">
-1. Chatuchak market has over _______ stalls.
-   *(Chợ Chatuchak có hơn _______ quầy hàng.)*
+1. Chatuchak is the largest _______ market in the world.
+   *(Chatuchak là chợ _______ lớn nhất thế giới.)*
 
-2. Chatuchak market is about _______ minutes' walk from the station.
-   *(Chợ Chatuchak cách ga khoảng _______ phút đi bộ.)*
+2. There are over _______ stalls in the market.
+   *(Có hơn _______ quầy hàng trong chợ.)*
 
 3. You can see part of Thai people's _______ at a market.
    *(Bạn có thể thấy một phần _______ của người Thái tại chợ.)*
@@ -152,27 +152,27 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. 15,000 | 2. five / 5 | 3. life | 4. delicious
+**Đáp án:** 1. weekend | 2. 15,000 | 3. life | 4. delicious
 
 **Giải thích:**
-- **1. 15,000** - Chợ có hơn 15 ngàn quầy hàng (over 15,000 stalls) - rất lớn!
-- **2. five / 5** - Cách ga 5 phút đi bộ (five minutes' walk)
-- **3. life** - Thấy cuộc sống hàng ngày (daily life) của người Thái
+- **1. weekend** - Chatuchak là chợ cuối tuần (weekend market) lớn nhất thế giới
+- **2. 15,000** - Chợ có hơn 15 ngàn quầy hàng (over 15,000 stalls) - rất lớn!
+- **3. life** - Thấy cuộc sống hàng ngày (life) của người Thái
 - **4. delicious** - Đồ ăn đường phố rất ngon (really delicious)
 </answer>
 
 ---
 
-<!-- chunk: writing -->
-### Writing
-
----
+<!-- chunk: writing_intro -->
+<teacher_script pause="0">
+Ok xong phần <eng>Listening</eng> rồi. Giờ chuyển qua phần <eng>Writing</eng> nha. Mình sẽ tập viết bưu thiếp về một thành phố em biết.
+</teacher_script>
 
 <!-- chunk: exercise_4 -->
-### Bài 4 trang 33 - Speaking
+### Bài 4 trang 33 - Speaking (pre-writing)
 
 <teacher_script pause="120">
-Bài 4. Nói về một thành phố ở Việt Nam. Trả lời 3 câu hỏi: Thành phố gì? Nó như thế nào? Em có thể xem và làm gì ở đó? 2 phút suy nghĩ nha.
+Bài 4. Trước khi viết, mình nói trước nha. Nói về một thành phố ở Việt Nam. Trả lời 3 câu hỏi: Thành phố gì? Nó như thế nào? Em có thể xem và làm gì ở đó? 2 phút suy nghĩ nha.
 </teacher_script>
 
 <task>

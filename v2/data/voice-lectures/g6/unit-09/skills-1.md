@@ -104,34 +104,39 @@ Bài 2. Đọc bưu thiếp của Mai gửi ông bà từ Stockholm và trả l�
 Đọc bưu thiếp và trả lời 4 câu hỏi trắc nghiệm. Chú ý các chi tiết: khách sạn có gì, họ đi đâu bằng xe đạp, "fika" là gì. 90 giây nha.
 </teacher_script>
 
+<task>
+**Đề:** Read the postcard and choose the correct answers.
+**Dịch đề:** Đọc bưu thiếp và chọn đáp án đúng.
+</task>
+
 <questions type="multiple_choice">
 **1.** This postcard is about _______ in Stockholm.
-- A. the weather *(thời tiết)*
+- A. school *(trường học)*
 - B. a holiday *(kỳ nghỉ)*
-- C. landscapes *(phong cảnh)*
+- C. food *(đồ ăn)*
 
 *Bưu thiếp này nói về _______ ở Stockholm.*
 
 **2.** Guests can _______ in the hotel.
 - A. exercise *(tập thể dục)*
-- B. cycle *(đạp xe)*
-- C. see Swedish art *(xem nghệ thuật Thụy Điển)*
+- B. cook *(nấu ăn)*
+- C. swim and cook *(bơi và nấu ăn)*
 
 *Khách có thể _______ trong khách sạn.*
 
 **3.** Mai and her parents rented bikes to _______.
-- A. cycle around the hotel *(đạp xe quanh khách sạn)*
+- A. go to the hotel *(đi đến khách sạn)*
 - B. visit the Old Town *(tham quan Phố Cổ)*
-- C. go shopping *(đi mua sắm)*
+- C. go around the city *(đi quanh thành phố)*
 
 *Mai và bố mẹ thuê xe đạp để _______.*
 
-**4.** "Fika" is a _______.
-- A. traditional café *(quán cà phê truyền thống)*
-- B. palace *(cung điện)*
-- C. coffee break *(giờ nghỉ uống cà phê)*
+**4.** "Fika" means _______.
+- A. a café break *(giờ nghỉ uống cà phê)*
+- B. a traditional food *(một món ăn truyền thống)*
+- C. a bike ride *(một chuyến đạp xe)*
 
-*"Fika" là _______.*
+*"Fika" nghĩa là _______.*
 </questions>
 
 <teacher_script pause="0" href="audio/tts_29c83a10.mp3">
@@ -139,15 +144,15 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.B | 2.A | 3.B | 4.C
+**Đáp án:** 1.B | 2.A | 3.B | 4.A
 </answer>
 
 <teacher_script pause="0">
 Giải thích nha:
-- Câu 1: Chọn **B. a holiday** vì bưu thiếp kể về kỳ NGHỈ của Mai ở Stockholm, không chỉ nói về thời tiết hay phong cảnh.
+- Câu 1: Chọn **B. a holiday** vì bưu thiếp kể về kỳ NGHỈ của Mai ở Stockholm, không chỉ nói về trường học hay đồ ăn.
 - Câu 2: Chọn **A. exercise** vì khách sạn có <eng>swimming pool</eng> (hồ bơi) và <eng>gym</eng> (phòng tập) - đây là nơi tập thể dục.
 - Câu 3: Chọn **B. visit the Old Town** vì trong bưu thiếp viết "rented 3 bikes and cycled to the Old Town".
-- Câu 4: Chọn **C. coffee break** vì bưu thiếp giải thích "fika, a café break" - giờ nghỉ uống cà phê.
+- Câu 4: Chọn **A. a café break** vì bưu thiếp giải thích "fika, a café break" - giờ nghỉ uống cà phê.
 </teacher_script>
 
 ---

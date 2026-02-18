@@ -5,28 +5,71 @@
 Ok lớp 6, hôm nay mình ôn tập Unit 9 qua bài <eng>Looking Back</eng> nha. Bài này tổng hợp lại tất cả những gì đã học: từ vựng về thành phố, tính từ sở hữu và đại từ sở hữu. Mở sách trang 34 đi.
 </teacher_script>
 
-<!-- chunk: exercise_1 -->
-<teacher_script pause="60">
-Bài 1 trang 34. Nghe và khoanh tròn từ có âm /əʊ/ hoặc /aʊ/. Nhớ: /əʊ/ như trong <eng>go, so</eng>, /aʊ/ như trong <eng>how, now</eng>. 1 phút.
-</teacher_script>
-
 **UNIT 9: CITIES OF THE WORLD**
 
 **LOOKING BACK**
 
-**Bài 1 trang 34**
-1. A B
-2. A C
-3. A C
-4. A B
-5. B C
+<!-- chunk: exercise_1 -->
+### Bài 1 trang 34 - Vocabulary
+
+<teacher_script pause="60">
+Bài 1 trang 34. Chọn 2 tính từ phù hợp nhất để hoàn thành câu. Nhớ các tính từ mô tả thành phố đã học: <eng>exciting, amazing, friendly, helpful, delicious</eng>... 1 phút.
+</teacher_script>
+
+<task>
+**Đề:** Choose the best two options to complete the sentences.
+**Dịch đề:** Chọn hai đáp án phù hợp nhất để hoàn thành câu.
+</task>
+
+<questions type="multiple_choice">
+**1.** The city is _______.
+- A. exciting *(thú vị)*
+- B. amazing *(tuyệt vời)*
+- C. delicious *(ngon)*
+
+**2.** The weather is _______.
+- A. cold *(lạnh)*
+- B. friendly *(thân thiện)*
+- C. sunny *(nắng)*
+
+**3.** The people are _______.
+- A. friendly *(thân thiện)*
+- B. sunny *(nắng)*
+- C. helpful *(hay giúp đỡ)*
+
+**4.** The buildings are _______.
+- A. tall *(cao)*
+- B. beautiful *(đẹp)*
+- C. delicious *(ngon)*
+
+**5.** The food is _______.
+- A. exciting *(thú vị)*
+- B. delicious *(ngon)*
+- C. good *(ngon, tốt)*
+</questions>
+
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
+Ok đáp án nè.
+</teacher_script>
+
+<answer>
+**Đáp án:** 1. A, B | 2. A, C | 3. A, C | 4. A, B | 5. B, C
+
+**Giải thích:**
+- Câu 1: **exciting, amazing** - cả hai đều mô tả thành phố, <eng>delicious</eng> mô tả đồ ăn
+- Câu 2: **cold, sunny** - cả hai mô tả thời tiết, <eng>friendly</eng> mô tả người
+- Câu 3: **friendly, helpful** - cả hai mô tả người, <eng>sunny</eng> mô tả thời tiết
+- Câu 4: **tall, beautiful** - cả hai mô tả tòa nhà, <eng>delicious</eng> mô tả đồ ăn
+- Câu 5: **delicious, good** - cả hai mô tả đồ ăn, <eng>exciting</eng> mô tả thành phố
+</answer>
 
 <!-- chunk: exercise_2 -->
+### Bài 2 trang 34 - Vocabulary
+
 <teacher_script pause="60">
 Bài 2 trang 34. Điền từ vựng về địa danh thành phố. Nhớ các từ đã học: <eng>tower</eng> = tháp, <eng>beach</eng> = bãi biển, <eng>palace</eng> = cung điện. 1 phút.
 </teacher_script>
 
-**Bài 2 trang 34**
 1. towers - tháp
 2. river bank - bờ sông
 3. beach - bãi biển
@@ -46,36 +89,92 @@ Chuyển qua phần ngữ pháp nha. Ôn lại tính từ sở hữu và đại 
 **Grammar**
 
 <!-- chunk: exercise_3 -->
+### Bài 3 trang 34 - Possessive pronouns
+
 <teacher_script pause="60">
 Bài 3 trang 34. Điền đại từ sở hữu. Nhớ: đại từ sở hữu đứng một mình, không có danh từ đi sau. 1 phút.
 </teacher_script>
 
-**Bài 3 trang 34**
-1. yours - This book is mine. That one is **yours**. (Quyển này của tôi. Quyển kia của bạn.)
-2. theirs - Our city is small. **Theirs** is big. (Thành phố của chúng tôi nhỏ. Của họ lớn.)
-3. mine - Is this pen his? - No, it's **mine**. (Cây bút này của anh ấy à? - Không, của tôi.)
-4. ours - Their school is new. **Ours** is old. (Trường của họ mới. Của chúng tôi cũ.)
-5. hers - My bag is blue. **Hers** is red. (Túi của tôi màu xanh. Của cô ấy màu đỏ.)
+<task>
+**Đề:** Complete the sentences with the correct possessive pronouns.
+**Dịch đề:** Hoàn thành câu với đại từ sở hữu đúng.
+</task>
 
-<teacher_script pause="0">
-Giải thích nha. Tất cả các chỗ trống đều đứng một mình, không có danh từ đi sau, nên dùng đại từ sở hữu. <eng>Yours</eng> = cái của bạn, <eng>theirs</eng> = cái của họ, <eng>mine</eng> = cái của tôi, <eng>ours</eng> = cái của chúng tôi, <eng>hers</eng> = cái của cô ấy.
+<questions type="fill_blanks">
+1. Hey Phong. You're wearing my hat. It's not _______.
+   *(Này Phong. Bạn đang đội mũ của tôi. Nó không phải _______.)*
+
+2. We're looking for Mr and Mrs Smith's house. Is that _______?
+   *(Chúng tôi đang tìm nhà ông bà Smith. Đó có phải _______ không?)*
+
+3. This is my drawing. It's _______.
+   *(Đây là bức vẽ của tôi. Nó là _______.)*
+
+4. This is your room. _______ is next door.
+   *(Đây là phòng của bạn. _______ ở phòng bên cạnh.)*
+
+5. Sue doesn't need to borrow my pen. She's got _______.
+   *(Sue không cần mượn bút của tôi. Cô ấy có _______ rồi.)*
+</questions>
+
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
+Ok đáp án nè.
 </teacher_script>
+
+<answer>
+**Đáp án:** 1. yours | 2. theirs | 3. mine | 4. Ours | 5. hers
+
+**Giải thích:**
+- Câu 1: **yours** - mũ không phải của bạn → <eng>yours</eng> (cái của bạn)
+- Câu 2: **theirs** - nhà của ông bà Smith (<eng>they</eng>) → <eng>theirs</eng>
+- Câu 3: **mine** - bức vẽ của tôi (<eng>I</eng>) → <eng>mine</eng>
+- Câu 4: **Ours** - phòng của chúng tôi (<eng>we</eng>) → <eng>ours</eng>
+- Câu 5: **hers** - bút của Sue (<eng>she</eng>) → <eng>hers</eng>
+</answer>
 
 <!-- chunk: exercise_4 -->
+### Bài 4 trang 34 - Correct the underlined words
+
 <teacher_script pause="60">
-Bài 4 trang 34. Bài này khó hơn - em phải phân biệt tính từ sở hữu và đại từ sở hữu. Nhìn xem có danh từ đi sau không. 1 phút.
+Bài 4 trang 34. Đọc câu và sửa từ gạch chân cho đúng. Chú ý phân biệt tính từ sở hữu và đại từ sở hữu. 1 phút.
 </teacher_script>
 
-**Bài 4 trang 34**
-1. its - All **its** cities are beautiful. (Tất cả thành phố của nó - có danh từ "cities" đi sau)
-2. our - **Our** school is big. (Trường của chúng tôi - có danh từ "school" đi sau)
-3. their - **Their** house is small. (Nhà của họ - có danh từ "house" đi sau)
-4. its - The city is famous for **its** food. (nổi tiếng vì đồ ăn của nó - có danh từ "food" đi sau)
-5. ours - This project is **ours**. (Dự án này là của chúng tôi - đứng một mình cuối câu)
+<task>
+**Đề:** Read the sentences and correct the underlined words.
+**Dịch đề:** Đọc câu và sửa các từ được gạch chân.
+</task>
 
-<teacher_script pause="0">
-Đáp án nè. Câu 1 đến 4 có danh từ đi sau nên dùng tính từ sở hữu. Câu 5 đứng cuối câu một mình nên dùng đại từ sở hữu <eng>ours</eng>.
+<questions type="fill_blanks">
+1. Bangkok is an exciting city. I love ~~it's~~ people.
+   *(Bangkok là một thành phố thú vị. Tôi yêu người dân ~~it's~~.)*
+
+2. We are watching the sunrise at Angkor Wat with ~~ours~~ local friends.
+   *(Chúng tôi đang ngắm bình minh ở Angkor Wat với những người bạn địa phương ~~ours~~.)*
+
+3. Discover Beijing and Shanghai through ~~they~~ food tours.
+   *(Khám phá Bắc Kinh và Thượng Hải qua các tour ẩm thực ~~they~~.)*
+
+4. Visit Hue and try ~~it's~~ food.
+   *(Hãy đến Huế và thử đồ ăn ~~it's~~.)*
+
+5. Venice is ~~your~~ city and Jakarta is ours.
+   *(Venice là thành phố ~~your~~ còn Jakarta là của chúng tôi.)*
+</questions>
+
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
+Ok đáp án nè.
 </teacher_script>
+
+<answer>
+**Đáp án:** 1. its | 2. our | 3. their | 4. its | 5. yours
+
+**Giải thích:**
+- Câu 1: ~~it's~~ → **its** - tính từ sở hữu đứng trước <eng>people</eng>, không phải <eng>it is</eng>
+- Câu 2: ~~ours~~ → **our** - tính từ sở hữu đứng trước <eng>friends</eng>
+- Câu 3: ~~they~~ → **their** - tính từ sở hữu đứng trước <eng>food tours</eng>
+- Câu 4: ~~it's~~ → **its** - tính từ sở hữu đứng trước <eng>food</eng>
+- Câu 5: ~~your~~ → **yours** - đại từ sở hữu, đứng một mình (đối lập với <eng>ours</eng>)
+</answer>
 
 <!-- chunk: end -->
 <teacher_script pause="0">

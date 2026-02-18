@@ -15,12 +15,12 @@ Trước khi nghe hội thoại, mình học từ vựng trước nha. Những t
 1. **holiday** : (n) kỳ nghỉ, ngày lễ /ˈhɒlɪdeɪ/
 2. **from** : (prep) từ, từ đâu /frɒm/
 3. **What's it like?** : Nó như thế nào? /wɒts ɪt laɪk/
-4. **What a beautiful place\!** : Thật là một nơi đẹp\! /wɒt ə ˈbjuːtɪfʊl pleɪs/
+4. **What a beautiful place!** : Thật là một nơi đẹp! /wɒt ə ˈbjuːtɪfʊl pleɪs/
 5. **exciting** : (adj) thú vị, hào hứng /ɪkˈsaɪtɪŋ/
 6. **a lot of** : rất nhiều /ə lɒt əv/
 7. **beach** : (n) bãi biển /biːtʃ/
 8. **wonderful** : (adj) tuyệt vời /ˈwʌndəfʊl/
-9. **What bad weather\!** : Thời tiết thật tệ\! /wɒt bæd ˈweðə/
+9. **What bad weather!** : Thời tiết thật tệ! /wɒt bæd ˈweðə/
 10. **rain** : (n) cơn mưa, (v) mưa /reɪn/
 11. **the River Thames** : sông Thames /ðə ˈrɪvə temz/
 12. **crowded** : (adj) đông đúc /ˈkraʊdɪd/
@@ -144,7 +144,7 @@ Ok đáp án nè.
 ### Bài 4 trang 27 - Match cities with landmarks
 
 <teacher_script pause="45">
-Bài 4. Nối thành phố với địa danh nổi tiếng của nó. Hà Nội của mình có Tháp Rùa nổi tiếng nè. London có Big Ben. New York có tượng Nữ thần Tự do. Sydney có nhà hát Opera hình con sò. 45 giây.
+Bài 4. Nối thành phố với địa danh nổi tiếng của nó. Hà Nội của mình có Chùa Một Cột nổi tiếng nè. London có Big Ben. New York có tượng Nữ thần Tự do. Sydney có nhà hát Opera hình con sò. 45 giây.
 </teacher_script>
 
 <task>
@@ -157,7 +157,7 @@ Bài 4. Nối thành phố với địa danh nổi tiếng của nó. Hà Nội 
 |--------|-----------|
 | 1. Ha Noi | a. Statue of Liberty *(Tượng Nữ thần Tự do)* |
 | 2. London | b. Opera House *(Nhà hát Opera)* |
-| 3. New York | c. Turtle Tower *(Tháp Rùa)* |
+| 3. New York | c. One Pillar Pagoda *(Chùa Một Cột)* |
 | 4. Sydney | d. Big Ben |
 </questions>
 
@@ -169,7 +169,7 @@ Ok đáp án nè.
 **Đáp án:** 1 - c | 2 - d | 3 - a | 4 - b
 
 **Giải thích:**
-- **Ha Noi** → c. Turtle Tower (Tháp Rùa ở Hồ Hoàn Kiếm)
+- **Ha Noi** → c. One Pillar Pagoda (Chùa Một Cột)
 - **London** → d. Big Ben (tháp đồng hồ nổi tiếng bên sông Thames)
 - **New York** → a. Statue of Liberty (Tượng Nữ thần Tự do)
 - **Sydney** → b. Opera House (Nhà hát Opera hình con sò)
