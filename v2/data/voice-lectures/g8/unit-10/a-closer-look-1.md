@@ -155,7 +155,7 @@ Bài 3 nha. <eng>Complete the sentences with the words from the box</eng>. Hoàn
 </task>
 
 <questions type="fill_blanks">
-| translation | real | language | instantly | private |
+| voice | language | real | translation | instantly |
 
 **1.** Do you often send _______ messages to your friends?
 *Bạn có thường gửi tin nhắn _______ cho bạn bè không?*
@@ -182,11 +182,11 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. private | 2. language | 3. real | 4. translation | 5. instantly
+**Đáp án:** 1. voice | 2. language | 3. real | 4. translation | 5. instantly
 </answer>
 
 <explanation>
-**Câu 1: private** - Do you often send **private** messages to your friends? Bạn có thường gửi những **tin nhắn riêng tư** cho bạn bè không? Trước danh từ "messages" cần tính từ.
+**Câu 1: voice** - Do you often send **voice** messages to your friends? Bạn có thường gửi **tin nhắn thoại** cho bạn bè không? Khi lười gõ chữ thì gửi voice thôi nha.
 
 **Câu 2: language** - Can learning English help you overcome the **language** barrier? Học tiếng Anh có thể giúp bạn vượt qua **rào cản ngôn ngữ** không? "Language barrier" là cụm từ cố định.
 

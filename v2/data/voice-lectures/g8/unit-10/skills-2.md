@@ -269,14 +269,14 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Dap an:** 1.a | 2.c,d | 3.b,e | 4.f
+**Dap an:** 1.a,d | 2.c,f,h | 3.b,e | 4.g
 </answer>
 
 <explanation>
-- **1 - a**: "What is it?" nối với "a phone call using Internet connection" - Video call là gì? Là cuộc gọi qua Internet.
-- **2 - c, d**: "What are its advantages?" nối với "saves time..." và "transmits live images..." - Lợi ích: tiết kiệm thời gian và truyền hình ảnh trực tiếp.
-- **3 - b, e**: "What are its disadvantages?" nối với "needs high-speed Internet" và "may spend too much time..." - Nhược điểm: cần mạng nhanh và có thể mất nhiều thời gian nói chuyện.
-- **4 - f**: "Will people use it in the future?" nối với "can be useful for family members and business partners" - Trong tương lai, video call vẫn hữu ích cho gia đình và đối tác kinh doanh.
+- **1 - a, d**: "What is it?" nối với "a phone call using Internet connection" và "transmits live images of the speakers with a webcam or camera on smart devices" - Video call là gì? Là cuộc gọi qua Internet, truyền hình ảnh trực tiếp qua webcam.
+- **2 - c, f, h**: "What are its advantages?" nối với "saves time because people needn't travel to meet", "can be useful for family members and business partners", và "can see and hear each other in real time" - Lợi ích: tiết kiệm thời gian, hữu ích cho gia đình và đối tác, nhìn và nghe nhau theo thời gian thực.
+- **3 - b, e**: "What are its disadvantages?" nối với "needs a high-speed Internet access" và "may spend too much time chatting with each other" - Nhược điểm: cần mạng nhanh và có thể mất nhiều thời gian nói chuyện.
+- **4 - g**: "Will people use it in the future?" nối với "will still be a common tool of communication" - Trong tương lai, video call vẫn sẽ là công cụ giao tiếp phổ biến.
 </explanation>
 
 <!-- chunk: bai5 -->
