@@ -161,78 +161,20 @@ Bài 3. Nhìn hình và viết từ. Đây là những địa danh và vật ở
 Đáp án nè. <eng>Palace</eng> là cung điện - như Cung điện Buckingham ở London. <eng>Floating market</eng> là chợ nổi - đặc sản miền Tây Việt Nam mình luôn đó. <eng>Street food</eng> là đồ ăn đường phố - Hà Nội nổi tiếng về cái này. <eng>Stall</eng> là quầy hàng nhỏ bán đồ ăn hay hàng hóa.
 </teacher_script>
 
-<!-- chunk: pronunciation_theory -->
+<!-- chunk: pronunciation -->
 <teacher_script pause="0">
 Chuyển qua phần <eng>Pronunciation</eng> - Phát âm nha. Mình sẽ luyện phát âm hai âm /əʊ/ và /aʊ/. Hai âm này giống nhau ở chỗ đều có /ʊ/ ở cuối, nhưng khác nhau ở âm đầu.
 </teacher_script>
 
-**PRONUNCIATION: /əʊ/ và /aʊ/**
-
-<grammar>
-**Âm /əʊ/:**
-- Miệng hơi tròn, bắt đầu từ âm /ə/ rồi chuyển sang /ʊ/
-- Giống âm "ô-u" trong tiếng Việt
-- Ví dụ: **go** /ɡəʊ/, **home** /həʊm/, **old** /əʊld/, **so** /səʊ/
-
-**Âm /aʊ/:**
-- Miệng mở rộng, bắt đầu từ âm /a/ rồi chuyển sang /ʊ/
-- Giống âm "ao" trong tiếng Việt
-- Ví dụ: **how** /haʊ/, **now** /naʊ/, **town** /taʊn/, **crowded** /ˈkraʊdɪd/
-
-**Mẹo phân biệt:**
-- /əʊ/ → miệng hẹp hơn (ô-u): go, no, so, old
-- /aʊ/ → miệng mở rộng (ao): how, now, wow, town
-</grammar>
+**PRONUNCIATION**
 
 <teacher_script pause="0">
-Dễ nhớ nè: /əʊ/ giống âm "ô" kéo dài - <eng>go, no, so</eng>. Còn /aʊ/ giống âm "ao" - <eng>how, now, wow</eng>. Em nói thử: <eng>go home</eng> - /əʊ/, <eng>go downtown</eng> - /aʊ/.
-</teacher_script>
-
-<!-- chunk: pronunciation_practice -->
-### Bài 4 trang 28 - Listen and repeat
-
-<teacher_script pause="0">
-Bài 4. Nghe và đọc theo. Chú ý phân biệt hai âm /əʊ/ và /aʊ/ nha.
+Nghe bài nghe và để ý cách phát âm nha.
 </teacher_script>
 
 <audio src="https://img.loigiaihay.com/picture/2021/1104/gs-u9-a-closer-look-1-ex4.mp3">
-**Audio:** A Closer Look 1 - Pronunciation
+**Audio:** A Closer Look 1
 </audio>
-
-<reading>
-**/əʊ/:** go, home, old, so, don't, road, know, photo
-**/aʊ/:** how, now, town, crowded, about, around, house, down
-</reading>
-
-<teacher_script pause="0">
-Em đọc lại nha: /əʊ/ - <eng>go, home, old, photo</eng>. /aʊ/ - <eng>how, now, town, crowded</eng>. Chú ý <eng>crowded</eng> có âm /aʊ/ - đông đúc, và <eng>old</eng> có âm /əʊ/ - cũ/già.
-</teacher_script>
-
-### Bài 5 trang 28 - Listen and circle
-
-<teacher_script pause="45">
-Bài 5. Nghe và khoanh tròn từ em nghe được. Phân biệt /əʊ/ và /aʊ/. 45 giây.
-</teacher_script>
-
-<task>
-**Đề:** Listen and circle the word you hear.
-**Dịch đề:** Nghe và khoanh tròn từ em nghe được.
-</task>
-
-<questions type="multiple_choice">
-**1.** a. phone /əʊ/ - b. found /aʊ/
-**2.** a. coat /əʊ/ - b. cow /aʊ/
-**3.** a. bowl /əʊ/ - b. bow /aʊ/
-**4.** a. know /əʊ/ - b. now /aʊ/
-</questions>
-
-<teacher_script pause="0">
-Đáp án nè. Em nghe lại và luyện phát âm cả hai âm để phân biệt. Nhớ: /əʊ/ miệng hẹp hơn, /aʊ/ miệng mở rộng hơn.
-</teacher_script>
-
-<answer>
-**Đáp án:** 1. a (phone /əʊ/) | 2. b (cow /aʊ/) | 3. a (bowl /əʊ/) | 4. b (now /aʊ/)
-</answer>
 
 <!-- chunk: end -->
 <teacher_script pause="0">

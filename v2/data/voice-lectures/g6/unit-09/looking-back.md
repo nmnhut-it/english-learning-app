@@ -16,31 +16,11 @@ Ok lớp 6, hôm nay mình ôn tập Unit 9 qua bài <eng>Looking Back</eng> nha
 Bài 1 trang 34. Nghe và khoanh tròn từ có âm /əʊ/ hoặc /aʊ/. Nhớ: /əʊ/ như trong <eng>go, so</eng>, /aʊ/ như trong <eng>how, now</eng>. 1 phút.
 </teacher_script>
 
-<task>
-**Đề:** Listen and circle the words with the sounds /əʊ/ and /aʊ/.
-**Dịch đề:** Nghe và khoanh tròn các từ có âm /əʊ/ và /aʊ/.
-</task>
-
-<questions type="listen_tick">
-**1.** A. coat /əʊ/ - B. town /aʊ/ - C. clock
-**2.** A. old /əʊ/ - B. hot - C. house /aʊ/
-**3.** A. know /əʊ/ - B. not - C. now /aʊ/
-**4.** A. go /əʊ/ - B. cow /aʊ/ - C. come
-**5.** A. top - B. home /əʊ/ - C. how /aʊ/
-</questions>
-
-<teacher_script pause="0">
-Đáp án nè.
-</teacher_script>
-
-<answer>
-**Đáp án:** 1. A, B | 2. A, C | 3. A, C | 4. A, B | 5. B, C
-
-**Giải thích:**
-- Chỉ khoanh tròn các từ có âm /əʊ/ hoặc /aʊ/, bỏ qua các từ không chứa hai âm này
-- /əʊ/: coat, old, know, go, home
-- /aʊ/: town, house, now, cow, how
-</answer>
+1. A B
+2. A C
+3. A C
+4. A B
+5. B C
 
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 34 - Vocabulary
@@ -49,36 +29,15 @@ Bài 1 trang 34. Nghe và khoanh tròn từ có âm /əʊ/ hoặc /aʊ/. Nhớ: 
 Bài 2 trang 34. Điền từ vựng về địa danh thành phố. Nhớ các từ đã học: <eng>tower</eng> = tháp, <eng>beach</eng> = bãi biển, <eng>palace</eng> = cung điện. 1 phút.
 </teacher_script>
 
-<task>
-**Đề:** Write the correct word under each picture.
-**Dịch đề:** Viết từ đúng dưới mỗi hình ảnh.
-</task>
-
-<questions type="fill_blanks">
-1. [Hình tháp cao] → t _ _ _ _ _
-2. [Hình bờ sông] → r _ _ _ _   b _ _ _
-3. [Hình bãi biển] → b _ _ _ _
-4. [Hình chợ đêm] → n _ _ _ _   m _ _ _ _ _
-5. [Hình cung điện] → p _ _ _ _ _
-6. [Hình bưu thiếp] → p _ _ _ _ _ _ _
-</questions>
+1. towers - tháp
+2. river bank - bờ sông
+3. beach - bãi biển
+4. night market - chợ đêm
+5. palace - cung điện
+6. postcard - bưu thiếp
 
 <teacher_script pause="0">
-Đáp án nè.
-</teacher_script>
-
-<answer>
-**Đáp án:**
-1. **towers** - tháp (như Big Ben ở London)
-2. **river bank** - bờ sông
-3. **beach** - bãi biển (như ở Sydney)
-4. **night market** - chợ đêm (đặc sản châu Á)
-5. **palace** - cung điện (như Buckingham Palace)
-6. **postcard** - bưu thiếp
-</answer>
-
-<teacher_script pause="0">
-Những từ này rất hay dùng khi mô tả thành phố. <eng>Tower</eng> là tháp như Big Ben. <eng>Beach</eng> là bãi biển như ở Sydney. <eng>Palace</eng> là cung điện như ở London. <eng>Night market</eng> là chợ đêm - đặc sản của các thành phố châu Á như Hà Nội, Bangkok.
+Đáp án nè. Những từ này rất hay dùng khi mô tả thành phố. <eng>Tower</eng> là tháp như Big Ben. <eng>Beach</eng> là bãi biển như ở Sydney. <eng>Palace</eng> là cung điện như ở London. <eng>Night market</eng> là chợ đêm - đặc sản của các thành phố châu Á như Hà Nội, Bangkok.
 </teacher_script>
 
 <!-- chunk: grammar_review -->
