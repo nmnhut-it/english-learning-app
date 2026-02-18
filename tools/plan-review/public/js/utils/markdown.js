@@ -69,6 +69,8 @@ const MarkdownUtil = {
 
       // Strip inline <eng>/<vn> tags for display, show them as highlighted spans
       let displayText = this.escapeHtml(inner.trim());
+      // Preserve newlines as <br> in teacher script body
+      displayText = displayText.replace(/\n/g, '<br>\n');
       displayText = displayText.replace(/&lt;eng&gt;([\s\S]*?)&lt;\/eng&gt;/g,
         '<span class="lang-tag lang-en">$1</span>');
       displayText = displayText.replace(/&lt;vn&gt;([\s\S]*?)&lt;\/vn&gt;/g,
@@ -216,11 +218,13 @@ const MarkdownUtil = {
     });
 
     // Paragraphs - double newlines become paragraph breaks
+    // Single newlines within a block become <br> (matches marked.js breaks:true behavior)
     html = html.split(/\n\n+/).map(block => {
       block = block.trim();
       if (!block) return '';
-      if (block.startsWith('<')) return block;
-      return `<p>${block}</p>`;
+      // Only skip wrapping for actual block-level HTML elements, not inline tags like <strong>/<em>/<span>
+      if (/^<(?:div|ul|ol|table|h[1-6]|hr|blockquote|pre|!--)/.test(block)) return block;
+      return `<p>${block.replace(/\n/g, '<br>\n')}</p>`;
     }).join('\n');
 
     // Cleanup empty paragraphs
