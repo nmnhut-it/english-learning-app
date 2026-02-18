@@ -113,8 +113,8 @@ Phần ngữ pháp: Hoàn thành câu trả lời dùng câu chẻ, tập trung 
 **Đáp án:**
 1. No. It's **the dog walking job that** I'd like to apply for.
 2. No. It **was a new motorbike that** he bought me last week.
-3. No. It's **Tuan who** is the best decision-maker in my class.
-4. No. It's **the day after tomorrow that** the presentation skills training starts.
+3. No. It's **not Lan, but Tuan who** is the best decision-maker in my class.
+4. No. It's **not tomorrow, but the day after tomorrow that** the presentation skills training starts.
 </answer>
 
 <teacher_script pause="0">
@@ -126,11 +126,11 @@ Câu 2: nhấn mạnh <eng>a new motorbike</eng> - vật → dùng <eng>that</en
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 3: nhấn mạnh <eng>Tuan</eng> - người → dùng <eng>who</eng>. Không phải Lan mà là Tuấn.
+Câu 3: nhấn mạnh <eng>Tuan</eng> - người → dùng <eng>who</eng>. Không phải Lan mà là Tuấn. Dùng cấu trúc <eng>not Lan, but Tuan who</eng>.
 </teacher_script>
 
 <teacher_script pause="0">
-Câu 4: nhấn mạnh <eng>the day after tomorrow</eng> - thời gian → dùng <eng>that</eng>. Không phải ngày mai mà là ngày mốt.
+Câu 4: nhấn mạnh <eng>the day after tomorrow</eng> - thời gian → dùng <eng>that</eng>. Không phải ngày mai mà là ngày mốt. Dùng cấu trúc <eng>not tomorrow, but the day after tomorrow that</eng>.
 </teacher_script>
 
 <!-- chunk: end -->

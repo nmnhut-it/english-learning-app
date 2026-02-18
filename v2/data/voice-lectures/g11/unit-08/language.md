@@ -215,6 +215,32 @@ Câu 4: nhấn mạnh <eng>gifts for his friends and family members</eng> - vậ
 Câu 5: nhấn mạnh <eng>by doing household chores with children</eng> - cách thức → dùng <eng>that</eng>.
 </teacher_script>
 
+<!-- chunk: grammar_2 -->
+### Grammar 2 - Practice cleft sentences
+
+<teacher_script pause="0">
+Bài 2, làm việc theo cặp. Hỏi và trả lời về công việc nhà mà bạn và các thành viên gia đình làm ở nhà. Dùng câu chẻ nha.
+</teacher_script>
+
+<task>
+**Đề:** Work in pairs. Ask and answer questions about the chores you and your family members do at home. Use cleft sentences.
+**Dịch đề:** Làm việc theo cặp. Hỏi và trả lời về công việc nhà mà bạn và các thành viên gia đình bạn làm ở nhà. Sử dụng câu chẻ.
+</task>
+
+<reading>
+**Example:**
+
+**A:** Is it you who does the cooking at home?
+*(Có phải bạn là người nấu ăn ở nhà không?)*
+
+**B:** Yes, it is me who does the cooking. / No, it is my mum who does the cooking.
+*(Vâng, chính tôi nấu ăn. / Không, chính mẹ tôi nấu ăn.)*
+</reading>
+
+<teacher_script pause="0" action="record">
+Các em hỏi nhau dùng câu chẻ nha. Ví dụ: <eng>Is it you who does the laundry?</eng> - Có phải bạn giặt đồ không? <eng>Is it your dad who mows the lawn?</eng> - Có phải bố bạn cắt cỏ không? Ghi âm nha.
+</teacher_script>
+
 <!-- chunk: end -->
 <teacher_script pause="0">
 Hết bài <eng>Language</eng> Unit 8 rồi. Nhớ ngữ điệu giảm-tăng cho lời mời, đề nghị, yêu cầu lịch sự. Và câu chẻ: <eng>It is/was ... who/that ...</eng>. Hẹn gặp lại!

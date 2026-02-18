@@ -110,7 +110,7 @@ Bài 3, tìm từ và cụm từ trong hội thoại có nghĩa sau. 45 giây.
 
 <answer>
 **Đáp án:**
-1. **confidence** (sự tự tin)
+1. **self-confidence** (sự tự tin)
 2. **independent** (độc lập)
 3. **responsibilities** (trách nhiệm)
 4. **money-management** (quản lý tiền bạc)

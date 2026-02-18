@@ -131,6 +131,42 @@ e. to produce or find an answer or a solution
 Câu 1: <eng>get around</eng> = đi lại. Câu 2: <eng>come up with</eng> = nghĩ ra giải pháp. Câu 3: <eng>carry out</eng> = thực hiện, hoàn thành. Câu 4: <eng>get into the habit of</eng> = tập thói quen. Câu 5: <eng>make use of</eng> = tận dụng.
 </teacher_script>
 
+<!-- chunk: exercise_4 -->
+### Bài 4 - Complete diagrams
+
+<teacher_script pause="45">
+Bài 4, đọc lại bài và điền vào sơ đồ. Không quá 2 từ cho mỗi chỗ trống. 45 giây nha.
+</teacher_script>
+
+<task>
+**Đề:** Read the text again. Complete the diagrams with information from the text. Use no more than TWO words for each gap.
+**Dịch đề:** Đọc văn bản lần nữa. Hoàn thành sơ đồ với thông tin từ bài. Không quá 2 từ cho mỗi chỗ trống.
+</task>
+
+<questions type="fill_blanks">
+**Decision-making skills:**
+Identify the problem → Think of (1) ___ → Review pros and cons → Pick the (2) ___ → Create and carry out your plan
+
+**Time-management skills:**
+Make (3) ___ → Use time-management tools → Do one thing at a time → Schedule time to relax → Have a good (4) ___
+</questions>
+
+<teacher_script pause="0">
+Đáp án nè.
+</teacher_script>
+
+<answer>
+**Đáp án:**
+1. **solutions** *(giải pháp)*
+2. **best option** *(phương án tốt nhất)*
+3. **to-do lists** *(danh sách việc cần làm)*
+4. **night's sleep** *(giấc ngủ đêm)*
+</answer>
+
+<teacher_script pause="0">
+Câu 1: trong bài có câu <eng>come up with as many solutions as possible</eng> → (1) solutions. Câu 2: <eng>which option could be the best for you</eng> → (2) best option. Câu 3: <eng>get into the habit of making a to-do list</eng> → (3) to-do lists. Câu 4: <eng>make sure you sleep at least nine hours each night. A good night's sleep is necessary</eng> → (4) night's sleep.
+</teacher_script>
+
 <!-- chunk: exercise_5 -->
 ### Bài 5 - Discussion
 
