@@ -6,6 +6,22 @@
 Ok lớp 10, hôm nay mình học bài <eng>Speaking</eng> Unit 8 nha. Mình sẽ tranh luận về ưu nhược điểm của học trực tuyến. Mở sách ra đi.
 </teacher_script>
 
+<!-- chunk: vocabulary -->
+<teacher_script pause="0">
+Học từ vựng trước nha.
+</teacher_script>
+
+<vocabulary>
+1. **technical problems** : (n.phr) sự cố kỹ thuật /ˈteknɪkəl ˈprɒbləmz/
+2. **study schedule** : (n.phr) lịch học /ˈstʌdi ˈʃedjuːl/
+3. **harm** : (n) tổn hại /hɑːm/
+4. **short-sightedness** : (n) cận thị /ˌʃɔːt ˈsaɪtɪdnəs/
+5. **backache** : (n) đau lưng /ˈbækeɪk/
+6. **attend** : (v) tham gia /əˈtend/
+7. **be healthy for** : (v.phr) tốt cho /biː ˈhelθi fɔː/
+8. **log in** : (v.phr) đăng nhập /lɒɡ ɪn/
+</vocabulary>
+
 <!-- chunk: exercise_1 -->
 ### Bài 1 trang 90 - Classification
 
@@ -62,15 +78,15 @@ Bài 2, làm nhóm tranh luận. Mỗi nhóm chọn ủng hộ hoặc phản đ�
 </task>
 
 <!-- chunk: exercise_3 -->
-### Bài 3 trang 90 - Presentation
+### Bài 3 trang 90 - Discussion
 
 <teacher_script pause="0" action="record">
-Bài 3, trình bày quan điểm của nhóm cho cả lớp. Nhớ dùng các cách nói: <eng>First, Second, Furthermore, In conclusion</eng>. Ghi âm nha.
+Bài 3, làm việc với bạn ở nhóm đối lập. Thảo luận ý kiến về học trực tuyến. Dùng ghi chú ở bài 2. Ghi âm nha.
 </teacher_script>
 
 <task>
-**Đề:** Present your group's opinions to the class.
-**Dịch đề:** Trình bày quan điểm nhóm cho cả lớp.
+**Đề:** Work with a classmate from the opposite group. Discuss your opinions about online learning. Use your notes in 2.
+**Dịch đề:** Làm việc với bạn ở nhóm đối lập. Thảo luận ý kiến về học trực tuyến. Dùng ghi chú ở bài 2.
 </task>
 
 <!-- chunk: end -->

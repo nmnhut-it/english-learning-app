@@ -6,6 +6,27 @@
 Ok lớp 10, hôm nay mình học bài <eng>Communication and Culture</eng> Unit 8 nha. Phần đầu học cách hướng dẫn sử dụng ứng dụng, phần sau đọc về học tập kỹ thuật số. Mở sách ra đi.
 </teacher_script>
 
+<!-- chunk: vocabulary -->
+<teacher_script pause="0">
+Học từ vựng trước nha.
+</teacher_script>
+
+<vocabulary>
+1. **click** : (v) nhấp vào /klɪk/
+2. **install** : (v) cài đặt /ɪnˈstɔːl/
+3. **practise** : (v) rèn luyện /ˈpræktɪs/
+4. **play the role of** : (v.phr) đóng vai trò là /pleɪ ðə rəʊl ɒv/
+5. **challenge** : (v) thách thức /ˈtʃælɪndʒ/
+6. **class discussion** : (n.phr) thảo luận trong lớp học /klɑːs dɪˈskʌʃən/
+7. **take part in** : (v.phr) tham gia /teɪk pɑːt ɪn/
+8. **group learning** : (n.phr) học nhóm /ɡruːp ˈlɜːnɪŋ/
+9. **digital learning resources** : (n.phr) các nguồn học tập kỹ thuật số /ˈdɪdʒɪtl ˈlɜːnɪŋ rɪˈsɔːsɪz/
+10. **audio-visual materials** : (n.phr) tài liệu nghe nhìn /ˈɔːdiəʊˌvɪʒuəl məˈtɪərɪəlz/
+11. **field trip** : (n.phr) chuyến đi thực tế /fiːld trɪp/
+12. **real-world experiences** : (n.phr) những trải nghiệm thực tế /rɪəl wɜːld ɪksˈpɪərɪənsɪz/
+13. **unfamiliar environments** : (n.phr) môi trường xa lạ /ˌʌnfəˈmɪliər ɪnˈvaɪərənmənts/
+</vocabulary>
+
 <!-- chunk: everyday_english_1 -->
 ### Everyday English - Bài 1 trang 93
 

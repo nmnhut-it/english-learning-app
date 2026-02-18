@@ -6,6 +6,20 @@
 Ok lớp 10, hôm nay mình ôn tập Unit 8: <eng>New Ways to Learn</eng> nha. Có 3 phần: phát âm, từ vựng và ngữ pháp. Mở sách ra đi.
 </teacher_script>
 
+<!-- chunk: vocabulary -->
+<teacher_script pause="0">
+Học từ vựng trước nha. Bấm nút "Bắt đầu" để học từ vựng.
+</teacher_script>
+
+<vocabulary>
+1. **bring** : (v) mang theo /brɪŋ/
+2. **thanks to** : (prep.phr) nhờ vào /θæŋks tuː/
+3. **make friends** : (v.phr) kết bạn /meɪk frendz/
+4. **award** : (n) giải thưởng /əˈwɔːrd/
+5. **talk show** : (n) tọa đàm /tɔːk ʃəʊ/
+6. **on the list** : (prep.phr) trong danh sách /ɒn ðə lɪst/
+</vocabulary>
+
 <!-- chunk: pronunciation -->
 ### Pronunciation trang 94
 
@@ -77,19 +91,21 @@ Ok đáp án nè.
 ### Grammar trang 94
 
 <teacher_script pause="60">
-Phần ngữ pháp, nối 2 câu thành 1 câu dùng mệnh đề quan hệ nha. 1 phút.
+Phần ngữ pháp, hoàn thành câu với <eng>who, which, that</eng> hoặc <eng>whose</eng> nha. Có thể dùng nhiều hơn một đại từ quan hệ. 1 phút.
 </teacher_script>
 
 <task>
-**Đề:** Combine the two sentences into one using a relative pronoun (who, which, whose, that).
-**Dịch đề:** Nối 2 câu thành 1 câu dùng đại từ quan hệ.
+**Đề:** Complete the sentences with who, which, that or whose. You may use more than one relative pronoun in some sentences.
+**Dịch đề:** Hoàn thành các câu với who, which, that hoặc whose. Có thể sử dụng nhiều hơn một đại từ quan hệ.
 </task>
 
-<questions type="complete_sentences">
-**1.** Online learning is a useful way of studying. It allows students to learn anywhere.
-**2.** My brother studies at a school. The school uses blended learning.
-**3.** The teacher is very young. Her online course is very popular.
-**4.** The student is my best friend. He won the first prize in the English competition.
+<questions type="fill_blanks">
+**1.** That is the teacher _______ has received an award for excellent teaching.
+**2.** We were invited to attend a talk show _______ is popular with teenagers.
+**3.** Their school, _______ offers both face-to-face and online classes, is the best in the city.
+**4.** The students _______ names are on the list will join the field trip.
+**5.** Have you finished the project _______ was given by our art teacher?
+**6.** My cousin John, _______ lives in Da Nang, is coming to visit me this weekend.
 </questions>
 
 <teacher_script pause="0">
@@ -97,21 +113,21 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:**
-1. Online learning is a useful way of studying which/that allows students to learn anywhere.
-2. My brother studies at a school which/that uses blended learning.
-3. The teacher whose online course is very popular is very young.
-4. The student who won the first prize in the English competition is my best friend.
+**Đáp án:** 1. who | 2. which/that | 3. which | 4. whose | 5. that/which | 6. who
 </answer>
 
 <explanation>
-**Câu 1:** Dùng **which/that** thay cho "Online learning" (vật). "Online learning... **which** allows students to learn anywhere."
+**1. who** - "the teacher **who** has received an award" - giáo viên **mà** đã nhận giải thưởng. Thay cho người.
 
-**Câu 2:** Dùng **which/that** thay cho "a school" (vật). "a school **which** uses blended learning."
+**2. which/that** - "a talk show **which/that** is popular" - chương trình tọa đàm **mà** phổ biến. Thay cho vật, mệnh đề xác định.
 
-**Câu 3:** Dùng **whose** thay cho "Her" (sở hữu). "The teacher **whose** online course is very popular."
+**3. which** - "Their school, **which** offers..." - Trường của họ, **nơi mà** cung cấp... Dùng "which" (non-defining, có dấu phẩy). KHÔNG dùng "that".
 
-**Câu 4:** Dùng **who** thay cho "The student" (người). "The student **who** won the first prize."
+**4. whose** - "The students **whose** names are on the list" - Học sinh **mà tên** trong danh sách. Chỉ sở hữu.
+
+**5. that/which** - "the project **that/which** was given" - dự án **mà** được giao. Thay cho vật, mệnh đề xác định.
+
+**6. who** - "My cousin John, **who** lives in Da Nang" - Anh họ John, **người mà** sống ở Đà Nẵng. Non-defining (danh từ riêng + dấu phẩy).
 </explanation>
 
 <!-- chunk: end -->

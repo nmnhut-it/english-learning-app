@@ -6,6 +6,18 @@
 Ok lớp 10, hôm nay mình học bài <eng>Writing</eng> Unit 8 nha. Mình sẽ viết về lợi ích của học kết hợp. Mở sách ra đi.
 </teacher_script>
 
+<!-- chunk: vocabulary -->
+<teacher_script pause="0">
+Học từ vựng trước nha.
+</teacher_script>
+
+<vocabulary>
+1. **get access** : (v.phr) truy cập /ɡet ˈækses/
+2. **communication and teamwork skills** : (n.phr) kỹ năng giao tiếp và làm việc nhóm /kəˌmjuːnɪˈkeɪʃən ænd ˈtiːmwɜːk skɪlz/
+3. **be not suitable for** : (v.phr) không phù hợp cho /biː nɒt ˈsuːtəbl fɔː/
+4. **be absent from** : (v.phr) nghỉ học /biː ˈæbsənt frɒm/
+</vocabulary>
+
 <!-- chunk: exercise_1 -->
 ### Bài 1 trang 92 - Identify Benefits
 

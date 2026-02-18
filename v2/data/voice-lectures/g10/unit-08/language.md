@@ -6,6 +6,24 @@
 Ok lớp 10, hôm nay mình học bài <eng>Language</eng> Unit 8 nha. Phần phát âm học trọng âm câu, từ vựng về công nghệ học tập, và ngữ pháp mệnh đề quan hệ. Mở sách ra đi.
 </teacher_script>
 
+<!-- chunk: vocabulary -->
+<teacher_script pause="0">
+Học từ vựng trước nha.
+</teacher_script>
+
+<vocabulary>
+1. **strategy** : (n) chiến lược /ˈstrætədʒi/
+2. **allow someone to do something** : (v.phr) cho phép ai đó làm gì /əˈlaʊ ˈsʌmwʌn tuː duː ˈsʌmθɪŋ/
+3. **encourage someone to do something** : (v.phr) khuyến khích ai đó làm gì /ɪnˈkʌrɪdʒ ˈsʌmwʌn tuː duː ˈsʌmθɪŋ/
+4. **voice recorder** : (n.phr) máy ghi âm /vɔɪs rɪˈkɔːdər/
+5. **workshop** : (n) hội thảo /ˈwɜːkʃɒp/
+6. **instruction book** : (n) sách hướng dẫn /ɪnˈstrʌkʃən bʊk/
+7. **presentation** : (n) bài thuyết trình /ˌpreznˈteɪʃn/
+8. **design** : (v) thiết kế /dɪˈzaɪn/
+9. **easy to use** : (adj.phr) dễ sử dụng /ˈiːzi tuː juːz/
+10. **be familiar with** : (v.phr) quen thuộc /biː fəˈmɪliə wɪð/
+</vocabulary>
+
 <!-- chunk: pronunciation_1 -->
 ### Pronunciation - Bài 1 trang 85
 
@@ -172,22 +190,22 @@ Bài 1, nối mệnh đề quan hệ ở cột B với câu ở cột A nha. 45 
 </teacher_script>
 
 <task>
-**Đề:** Match the relative clauses in column B with the sentences in column A.
-**Dịch đề:** Nối mệnh đề quan hệ ở cột B với câu ở cột A.
+**Đề:** Match the two parts to make complete sentences.
+**Dịch đề:** Ghép hai phần để tạo thành câu hoàn chỉnh.
 </task>
 
 <questions type="matching">
-**Column A:**
-1. Students discussed the video...
-2. A student... will get a scholarship to study abroad.
-3. This is the laptop...
-4. I want to meet the person...
+1. Mr. Smith was talking to the students
+2. The film which we saw yesterday
+3. The speaker, who will share new learning activities in our workshop,
+4. We often go to Da Nang,
+5. My cousin gave me an instruction book
 
-**Column B:**
-a. which my parents bought me last year
-b. who gets the highest score on the final exam
-c. that the teacher uploaded on the school website
-d. whose project won the first prize in the competition
+a. that explains how to use voice recorders.
+b. is Laura.
+c. which is in the middle of Viet Nam.
+d. whose presentations were really impressive.
+e. was quite interesting.
 </questions>
 
 <teacher_script pause="0">
@@ -195,14 +213,15 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1 - c | 2 - b | 3 - a | 4 - d
+**Đáp án:** 1 - d | 2 - e | 3 - b | 4 - c | 5 - a
 </answer>
 
 <explanation>
-**1 - c:** "the video **that** the teacher uploaded" - video **mà** giáo viên tải lên. "That" thay cho vật (video).
-**2 - b:** "A student **who** gets the highest score" - Học sinh **mà** đạt điểm cao nhất. "Who" thay cho người.
-**3 - a:** "the laptop **which** my parents bought me" - laptop **mà** ba mẹ mua cho tôi. "Which" thay cho vật.
-**4 - d:** "the person **whose** project won" - người **mà dự án** của họ thắng. "Whose" chỉ sở hữu.
+**1 - d:** "the students **whose** presentations were really impressive" - các sinh viên **mà bài thuyết trình** thực sự ấn tượng. "Whose" chỉ sở hữu.
+**2 - e:** "The film **which** we saw yesterday was quite interesting" - Bộ phim **mà** chúng ta xem hôm qua khá thú vị. "Which" thay cho vật.
+**3 - b:** "The speaker, **who** will share..., is Laura" - Diễn giả, **người** sẽ chia sẻ..., là Laura. "Who" thay cho người (non-defining).
+**4 - c:** "Da Nang, **which** is in the middle of Viet Nam" - Đà Nẵng, **nơi mà** ở giữa Việt Nam. "Which" (non-defining).
+**5 - a:** "an instruction book **that** explains..." - sách hướng dẫn **mà** giải thích cách sử dụng máy ghi âm. "That" thay cho vật.
 </explanation>
 
 <!-- chunk: grammar_2 -->
@@ -213,15 +232,16 @@ Bài 2, nối 2 câu thành 1 câu dùng mệnh đề quan hệ nha. 1 phút.
 </teacher_script>
 
 <task>
-**Đề:** Combine the two sentences using a relative pronoun.
-**Dịch đề:** Nối hai câu thành một câu dùng đại từ quan hệ.
+**Đề:** Join the following sentences. Use who, that, which or whose. Add commas where necessary.
+**Dịch đề:** Nối các câu sau. Sử dụng who, that, which hoặc whose. Thêm dấu phẩy nếu cần.
 </task>
 
 <questions type="complete_sentences">
-**1.** Students can use smartphones in class. They have smartphones.
-**2.** The history project is very interesting. The teacher assigned it last week.
-**3.** The student is my classmate. Her presentation was about online learning.
-**4.** Technology can help students study better. It is used in many schools.
+**1.** My brother teaches me how to use a laptop. He is good at computers.
+**2.** Peter is a friend of mine. His sister is taking an online maths course.
+**3.** Lan has read the book. I lent her the book.
+**4.** The boy has designed this invention. He is only 10 years old.
+**5.** That app is easy to use. It can help improve your English pronunciation.
 </questions>
 
 <teacher_script pause="0">
@@ -230,20 +250,23 @@ Ok đáp án nè.
 
 <answer>
 **Đáp án:**
-1. Students who have smartphones can use them in class.
-2. The history project which/that the teacher assigned last week is very interesting.
-3. The student whose presentation was about online learning is my classmate.
-4. Technology, which is used in many schools, can help students study better.
+1. My brother, who is good at computers, teaches me how to use a laptop.
+2. Peter, whose sister is taking an online maths course, is a friend of mine.
+3. Lan has read the book which/that I lent her.
+4. The boy who/that has designed this invention is only 10 years old.
+5. That app, which can help improve your English pronunciation, is easy to use.
 </answer>
 
 <explanation>
-**Câu 1:** Dùng **who** vì thay cho "Students" (người). "Students **who** have smartphones" = Học sinh **mà** có điện thoại.
+**Câu 1:** Dùng **who** + dấu phẩy (non-defining) vì "My brother" đã xác định. "My brother, **who** is good at computers, teaches me..."
 
-**Câu 2:** Dùng **which/that** vì thay cho "The history project" (vật). "The project **which** the teacher assigned" = Dự án **mà** giáo viên giao.
+**Câu 2:** Dùng **whose** + dấu phẩy (non-defining) vì "Peter" là danh từ riêng. "Peter, **whose** sister is taking..., is a friend of mine."
 
-**Câu 3:** Dùng **whose** vì thay cho "Her" (sở hữu). "The student **whose** presentation" = Học sinh **mà bài thuyết trình** của bạn ấy.
+**Câu 3:** Dùng **which/that** thay cho "the book" (vật). "the book **which/that** I lent her" - cuốn sách mà tôi cho mượn.
 
-**Câu 4:** Dùng **which** + dấu phẩy (non-defining) vì "Technology" đã xác định rồi. Bổ sung thêm thông tin: công nghệ, **cái mà** được sử dụng ở nhiều trường.
+**Câu 4:** Dùng **who/that** thay cho "The boy" (người). "The boy **who** has designed this invention is only 10 years old."
+
+**Câu 5:** Dùng **which** + dấu phẩy (non-defining) vì "That app" đã xác định. "That app, **which** can help improve..., is easy to use."
 </explanation>
 
 <!-- chunk: end -->

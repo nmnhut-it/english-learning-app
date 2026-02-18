@@ -12,16 +12,20 @@ Học từ vựng trước nha.
 </teacher_script>
 
 <vocabulary>
-1. **upload** : (v) tải lên /ˌʌpˈləʊd/
-2. **global warming** : (n.phr) sự nóng lên toàn cầu /ˈɡləʊbəl ˈwɔːmɪŋ/
-3. **take notes** : (v.phr) ghi chép /teɪk nəʊts/
-4. **original ideas** : (n.phr) ý tưởng sáng tạo /əˈrɪdʒɪnəl aɪˈdɪəz/
-5. **prepare materials** : (v.phr) chuẩn bị tài liệu /prɪˈpeər məˈtɪərɪəlz/
-6. **traditional methods** : (n.phr) phương pháp truyền thống /trəˈdɪʃənəl ˈmeθədz/
-7. **control over** : (n.phr) kiểm soát /kənˈtrəʊl ˈəʊvər/
-8. **blended learning** : (n.phr) học kết hợp /ˈblendɪd ˈlɜːnɪŋ/
-9. **online learning** : (n.phr) học trực tuyến /ˌɒnˈlaɪn ˈlɜːnɪŋ/
-10. **face-to-face learning** : (n.phr) học trực tiếp /feɪs tə feɪs ˈlɜːnɪŋ/
+1. **blended learning** : (n.phr) học tập kết hợp /ˈblendɪd ˈlɜːnɪŋ/
+2. **face-to-face learning** : (n.phr) học tập trực tiếp /feɪs tə feɪs ˈlɜːnɪŋ/
+3. **online learning** : (n.phr) học trực tuyến /ˈɒnˌlaɪn ˈlɜːnɪŋ/
+4. **upload** : (v) tải lên /ˌʌpˈləʊd/
+5. **search for** : (v.phr) tìm kiếm /sɜːtʃ fɔː/
+6. **be not good at** : (v.phr) không giỏi việc gì đó /biː nɒt ɡʊd æt/
+7. **prefer** : (v) thích hơn /prɪˈfɜːr/
+8. **material** : (n) tài liệu /məˈtɪərɪəl/
+9. **do a lot of projects** : (v.phr) thực hiện rất nhiều dự án /duː ə lɒt ɒv ˈprɒdʒekts/
+10. **control over** : (v.phr) kiểm soát /kənˈtrəʊl ˈəʊvər/
+11. **traditional methods of teaching** : (n.phr) phương pháp giảng dạy truyền thống /trəˈdɪʃənəl ˈmeθədz ɒv ˈtiːtʃɪŋ/
+12. **try** : (v) thử /traɪ/
+13. **geography** : (n) địa lý /dʒiˈɒɡrəfi/
+14. **original** : (adj) nguyên bản, ban đầu /əˈrɪdʒənl/
 </vocabulary>
 
 <!-- chunk: dialogue -->
@@ -39,9 +43,10 @@ Bài 1, nghe và đọc hội thoại giữa Long và Nick nha.
 | **Long:** So, is watching the video part of your homework? | **Long:** Vậy xem video là một phần bài tập nhà? |
 | **Nick:** Yes, then next week, we'll work in groups and discuss the topic in class. | **Nick:** Đúng, tuần sau chúng tôi sẽ làm nhóm và thảo luận trong lớp. |
 | **Long:** Sounds interesting. You can watch the video many times and also search for more information at home. | **Long:** Nghe thú vị. Bạn có thể xem video nhiều lần và tìm thêm thông tin ở nhà. |
-| **Nick:** You're right. I'm not good at taking notes in class. So I prefer this way of learning. It gives me a chance to discuss with my classmates, who may have original ideas on the topic. | **Nick:** Đúng vậy. Tôi không giỏi ghi chép trên lớp. Nên tôi thích cách học này hơn. Nó cho tôi cơ hội thảo luận với bạn cùng lớp, những người có thể có ý tưởng sáng tạo. |
+| **Nick:** You're right. I'm not good at taking notes in class, you know. So I prefer this way of learning. It gives me a chance to discuss with my classmates, who may have original ideas on the topic. | **Nick:** Đúng vậy. Tôi không giỏi ghi chép trên lớp, bạn biết đấy. Nên tôi thích cách học này hơn. Nó cho tôi cơ hội thảo luận với bạn cùng lớp, những người có thể có ý tưởng sáng tạo. |
+| **Long:** Does your teacher often ask you to prepare materials at home and discuss in class, Nick? | **Long:** Giáo viên của bạn có thường yêu cầu bạn chuẩn bị tài liệu ở nhà và thảo luận trên lớp không, Nick? |
 | **Nick:** Yes, she does. We're doing a lot of projects that help us understand the lessons better. This way of studying, which gives us more control over our own learning, is quite useful. | **Nick:** Có. Chúng tôi đang làm nhiều dự án giúp hiểu bài hơn. Cách học này, giúp chúng tôi kiểm soát việc học của mình, khá hữu ích. |
-| **Long:** You're lucky. My teachers use very traditional methods. I wish I could try these new learning activities. | **Long:** Bạn may mắn đó. Giáo viên tôi dùng phương pháp rất truyền thống. Ước gì tôi được thử các hoạt động học tập mới này. |
+| **Long:** You're lucky. My teachers use very traditional methods of teaching at my school. I wish I could try these new learning activities. | **Long:** Bạn may mắn đó. Giáo viên tôi dùng phương pháp giảng dạy rất truyền thống ở trường tôi. Ước gì tôi được thử các hoạt động học tập mới này. |
 </dialogue>
 
 <teacher_script pause="120">
@@ -64,14 +69,11 @@ Bài 2, đọc lại hội thoại rồi xác định đúng sai nha. 45 giây.
 **1.** Nick is preparing for his next geography class.
 *Nick đang chuẩn bị cho tiết địa lý tiếp theo.*
 
-**2.** Nick does not enjoy taking notes in class.
-*Nick không thích ghi chép trên lớp.*
+**2.** Nick's note taking skills are quite good.
+*Kỹ năng ghi chép bài của Nick khá tốt.*
 
-**3.** Nick thinks this new way of learning is more useful.
-*Nick nghĩ cách học mới này hữu ích hơn.*
-
-**4.** Long's teachers are using new learning activities at his school.
-*Giáo viên của Long đang sử dụng các hoạt động học tập mới.*
+**3.** Nick's class is working on many projects now.
+*Lớp của Nick hiện đang thực hiện nhiều dự án.*
 </questions>
 
 <teacher_script pause="0">
@@ -79,36 +81,34 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. T | 2. T | 3. T | 4. F
+**Đáp án:** 1. T | 2. F | 3. T
 </answer>
 
 <explanation>
 **1. T** - Nick đang xem video về global warming mà giáo viên địa lý tải lên, để chuẩn bị cho tuần sau thảo luận nhóm.
 
-**2. T** - Nick nói: "I'm not good at taking notes in class" - Nick không giỏi ghi chép trên lớp.
+**2. F** - Nick nói: "I'm not good at taking notes in class" - Nick KHÔNG giỏi ghi chép trên lớp, nên câu này sai.
 
-**3. T** - Nick nói: "This way of studying... is quite useful" - Cách học này khá hữu ích.
-
-**4. F** - Long nói: "My teachers use very traditional methods" - Giáo viên của Long dùng phương pháp truyền thống, KHÔNG phải hoạt động mới.
+**3. T** - Nick nói: "We're doing a lot of projects that help us understand the lessons better" - Lớp Nick đang làm nhiều dự án.
 </explanation>
 
 <!-- chunk: exercise_3 -->
-### Bài 3 trang 84 - Fill in the blanks
+### Bài 3 trang 84 - Matching
 
 <teacher_script pause="45">
-Bài 3, hoàn thành câu với cụm từ từ hội thoại nha. 45 giây.
+Bài 3, ghép các động từ với danh từ để tạo thành cụm từ trong bài 1 nha. 45 giây.
 </teacher_script>
 
 <task>
-**Đề:** Complete the sentences with phrases from the conversation.
-**Dịch đề:** Hoàn thành câu với cụm từ từ hội thoại.
+**Đề:** Match the verbs with the nouns to make phrases in 1.
+**Dịch đề:** Ghép các động từ với danh từ để tạo thành các cụm từ trong bài 1.
 </task>
 
-<questions type="fill_blanks">
-**1.** Nick's teacher asked the students to _______ the video and _______ more information about the topic.
-**2.** Nick is not good at _______ in class.
-**3.** Nick's new way of studying gives the students more _______ over their own learning.
-**4.** Long wishes he could try new _______.
+<questions type="matching">
+1. upload → a. notes
+2. do → b. a video
+3. find → c. a project
+4. take → d. information
 </questions>
 
 <teacher_script pause="0">
@@ -116,12 +116,15 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:**
-1. watch ... find
-2. taking notes
-3. control
-4. learning activities
+**Đáp án:** 1 - b | 2 - c | 3 - d | 4 - a
 </answer>
+
+<explanation>
+**1 - b.** upload a video - đăng video lên
+**2 - c.** do a project - làm dự án
+**3 - d.** find information - tìm kiếm thông tin
+**4 - a.** take notes - ghi bài, ghi chú
+</explanation>
 
 <!-- chunk: exercise_4 -->
 ### Bài 4 trang 84 - Relative Pronouns

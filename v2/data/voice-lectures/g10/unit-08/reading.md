@@ -12,16 +12,13 @@ Học từ vựng trước nha.
 </teacher_script>
 
 <vocabulary>
-1. **face-to-face** : (adj) trực tiếp /feɪs tə feɪs/
-2. **communicate** : (v) giao tiếp /kəˈmjuːnɪkeɪt/
-3. **immediately** : (adv) ngay lập tức /ɪˈmiːdiətli/
-4. **distraction** : (n) sự phân tâm /dɪˈstrækʃən/
-5. **strategy** : (n) chiến lược /ˈstrætədʒi/
-6. **focused** : (adj) tập trung /ˈfəʊkəst/
-7. **blended learning** : (n.phr) học kết hợp /ˈblendɪd ˈlɜːnɪŋ/
-8. **discussion board** : (n.phr) bảng thảo luận /dɪˈskʌʃən bɔːd/
-9. **Internet connection** : (n.phr) kết nối Internet /ˈɪntənet kəˈnekʃən/
-10. **exchange** : (v) trao đổi /ɪksˈtʃeɪndʒ/
+1. **miss** : (v) bỏ lỡ /mɪs/
+2. **email** : (v,n) gửi email, email /ˈiːmeɪl/
+3. **exchange** : (v) trao đổi /ɪksˈtʃeɪndʒ/
+4. **Internet connection** : (n.phr) kết nối mạng /ˈɪntənet kəˈnekʃən/
+5. **ask for** : (v) yêu cầu /ɑːsk fɔː/
+6. **wait for someone's reply** : (v.phr) chờ ai đó phản hồi /weɪt fɔː ˈsʌmwʌnz rɪˈplaɪ/
+7. **distraction** : (n) phân tâm /dɪˈstrækʃn/
 </vocabulary>
 
 <!-- chunk: exercise_1 -->
@@ -118,12 +115,12 @@ Ok đáp án nè.
 ### Bài 4 trang 89 - Discussion
 
 <teacher_script pause="0" action="record">
-Bài 4, em đồng ý với Kim hay Laura? Tại sao? Nói tiếng Anh và ghi âm nha.
+Bài 4, em nghĩ cách học nào tốt hơn? Tại sao? Nói tiếng Anh và ghi âm nha.
 </teacher_script>
 
 <task>
-**Đề:** Do you agree with Kim or Laura? Why?
-**Dịch đề:** Em đồng ý với Kim hay Laura? Tại sao?
+**Đề:** Which way of learning do you think is better? Why?
+**Dịch đề:** Bạn nghĩ cách học nào tốt hơn? Tại sao?
 </task>
 
 <!-- chunk: end -->
