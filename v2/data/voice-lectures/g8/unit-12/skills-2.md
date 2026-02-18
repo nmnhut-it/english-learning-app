@@ -122,8 +122,8 @@ Bài 2 <eng>Listen and choose the correct answer A, B, or C</eng>. Nghe và ch�
 *Hành tinh Hy vọng _________.*
 
 **3.** The climate on Planet Hope is _________.
-- A. very hot all year round
-- B. very cold all year round
+- A. very hot all year around
+- B. very cold all year around
 - C. hot in the day but very cold at night
 *Khí hậu trên Hành tinh Hy vọng _________.*
 

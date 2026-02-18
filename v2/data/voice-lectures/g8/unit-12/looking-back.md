@@ -47,39 +47,30 @@ Quan trọng nhất nè: trong câu tường thuật dạng câu hỏi, các em 
 </teacher_script>
 
 <!-- chunk: bai1 -->
-### Bài 1 trang 132 - Fill in the blanks
+### Bài 1 trang 132 - Write a word under each picture
 
 <teacher_script pause="0">
-Bài 1, điền từ trong hộp vào chỗ trống để hoàn thành mỗi câu. Đây là bài ôn từ vựng Unit 12 nha.
+Bài 1 <eng>Write a word under each picture</eng>. Viết một từ dưới mỗi hình ảnh nha. Nhìn hình trong sách rồi viết tên đúng bằng tiếng Anh. Có 6 hình — các em nhớ lại từ vựng đã học trong Unit 12 nha.
 </teacher_script>
 
 <task>
-**Đề:** Complete the sentences with the words from the box.
-**Dịch đề:** Hoàn thành các câu với các từ trong hộp.
+**Đề:** Write a word under each picture.
+**Dịch đề:** Viết một từ dưới mỗi hình ảnh.
 </task>
 
 <questions type="fill_blanks">
-| spaceship | creatures | alien | gravity | atmosphere |
-|-----------|-----------|-------|---------|------------|
+Nhìn 6 hình trong sách và viết từ tiếng Anh phù hợp dưới mỗi hình.
 
-**1.** There might be _______ living on other planets, but we haven't found them yet.
-*Có thể có _______ sống trên những hành tinh khác, nhưng chúng ta vẫn chưa tìm thấy chúng.*
-
-**2.** The _______ broke down and the astronauts had to repair it.
-*_______ bị hỏng và các phi hành gia phải sửa nó.*
-
-**3.** Mars has a thin _______ that doesn't have much oxygen.
-*Sao Hỏa có _______ mỏng, không có nhiều oxy.*
-
-**4.** An _______ is a being from another planet.
-*Một _______ là một sinh vật đến từ hành tinh khác.*
-
-**5.** The moon has very low _______, so you can jump very high there.
-*Mặt trăng có _______ rất thấp, nên bạn có thể nhảy rất cao ở đó.*
+**Picture 1:** (hình tàu vũ trụ lớn) → _______
+**Picture 2:** (hình hành tinh tròn) → _______
+**Picture 3:** (hình kính thiên văn) → _______
+**Picture 4:** (hình người ngoài hành tinh) → _______
+**Picture 5:** (hình phi thuyền nhỏ) → _______
+**Picture 6:** (hình miệng hố trên bề mặt) → _______
 </questions>
 
 <teacher_script pause="60">
-Các em có 1 phút làm bài nha.
+Các em có 1 phút làm bài nha. Nhớ lại từ vựng Unit 12.
 </teacher_script>
 
 <teacher_script pause="0">
@@ -87,19 +78,27 @@ Ok, đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. creatures | 2. spaceship | 3. atmosphere | 4. alien | 5. gravity
+**Đáp án:**
+1. spaceship (tàu vũ trụ)
+2. planet (hành tinh)
+3. telescope (kính thiên văn)
+4. alien (người ngoài hành tinh)
+5. spacecraft (phi thuyền)
+6. crater (miệng hố / hố va chạm)
 </answer>
 
 <explanation>
-**1. creatures** - Creatures = sinh vật. Câu nói về những sinh vật có thể sống trên hành tinh khác. Creatures là từ chỉ chung các sinh vật sống.
+**1. spaceship** — Tàu vũ trụ lớn, dùng để chở người và đồ vào không gian. Trong Unit 12, mình học về spaceship bị hỏng trong truyện Soduka đó.
 
-**2. spaceship** - Spaceship = tàu vũ trụ. Tàu vũ trụ bị hỏng nên phi hành gia phải sửa. Broke down = hỏng, repair = sửa chữa.
+**2. planet** — Hành tinh — thiên thể lớn quay quanh Mặt Trời. Có 8 hành tinh trong hệ Mặt Trời nha.
 
-**3. atmosphere** - Atmosphere = bầu khí quyển. Sao Hỏa có bầu khí quyển mỏng, ít oxy. Thin atmosphere = khí quyển mỏng.
+**3. telescope** — Kính thiên văn — dụng cụ để quan sát các hành tinh và ngôi sao ở xa. Nhà khoa học dùng telescope để tìm habitable planets.
 
-**4. alien** - Alien = người ngoài hành tinh. Câu định nghĩa alien là sinh vật đến từ hành tinh khác.
+**4. alien** — Người ngoài hành tinh — sinh vật từ hành tinh khác. Trong bài Getting Started, Mai và Nick bàn về aliens đó.
 
-**5. gravity** - Gravity = trọng lực. Mặt trăng có trọng lực thấp nên nhảy được cao. Low gravity = trọng lực thấp.
+**5. spacecraft** — Phi thuyền — phương tiện bay trong không gian. Tương tự spaceship nhưng spacecraft thường chỉ tàu nhỏ hơn, dùng cho nhiều mục đích.
+
+**6. crater** — Miệng hố trên bề mặt hành tinh hoặc mặt trăng — do thiên thạch va chạm tạo ra. Mặt Trăng có rất nhiều craters nha.
 </explanation>
 
 <!-- chunk: bai2 -->
