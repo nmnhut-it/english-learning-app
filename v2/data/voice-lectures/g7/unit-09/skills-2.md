@@ -34,24 +34,28 @@ Trước tiên, chúng ta cùng học từ vựng mới.
 ---
 
 <!-- chunk: exercise_1 -->
-### Bài 1 trang 99 - Work in pairs
+### Bài 1 trang 99 - Look at the animal
 
 <teacher_script pause="30">
-Bài 1. Các em làm việc theo cặp và trả lời câu hỏi: Em biết gì về ngày lễ Thanksgiving? 30 giây nha.
+Bài 1. Nhìn vào con vật trong hình và trả lời 2 câu hỏi: Con vật gì? Nó thuộc lễ hội nào? 30 giây nha.
 </teacher_script>
 
 <task>
-**Yêu cầu:** Work in pairs. What do you know about Thanksgiving?
-**Dịch:** Làm việc theo cặp. Em biết gì về Lễ Tạ Ơn?
+**Đề:** Look at the animal below. Discuss the following questions with a partner.
+1. What is it?
+2. What festival is it a part of?
+**Dịch đề:** Nhìn vào con vật bên dưới. Thảo luận các câu hỏi sau với bạn cùng bàn.
 </task>
 
 <answer>
 **Gợi ý trả lời:**
-- It's a national holiday in the USA and Canada.
-- People celebrate it in November.
-- They eat turkey and other traditional foods.
-- It's a time to be thankful.
+1. It's a turkey. (Đó là một con gà tây.)
+2. It is a part of Thanksgiving. (Nó là một phần của Lễ Tạ Ơn.)
 </answer>
+
+<teacher_script pause="0">
+Đúng rồi! Đó là con gà tây - <eng>turkey</eng>. Gà tây là biểu tượng của lễ <eng>Thanksgiving</eng> - Lễ Tạ Ơn. Vì vậy Thanksgiving còn được gọi là <eng>Turkey Day</eng> - Ngày Gà Tây.
+</teacher_script>
 
 ---
 
@@ -90,51 +94,37 @@ Các em hãy dành 1 phút đọc trước nội dung bài nghe nhé.
 ---
 
 <!-- chunk: exercise_2 -->
-### Bài 2 trang 99 - Fill in the table
-
-<teacher_script pause="60">
-Bài 2. Nghe và điền thông tin vào bảng. 1 phút nha.
-</teacher_script>
-
-<questions type="fill_blanks">
-| Information | Answer |
-|-------------|--------|
-| Name of the festival | Thanksgiving / (1)_______ |
-| Time | The fourth (2)_______ of November |
-| Activities | - Prepare a (3)_______ for family and friends |
-|  | - Eat (4)_______ foods |
-|  | - Play (5)_______ games |
-|  | - (6)_______ others |
-</questions>
+### Bài 2 trang 99 - Listen and check
 
 <teacher_script pause="0">
-Đáp án đây nè.
+Bài 2. Nghe Mark nói về cách gia đình cậu ấy tổ chức lễ hội. Kiểm tra lại câu trả lời của em ở bài 1.
 </teacher_script>
 
-<answer>
-**Đáp án:**
-1. Turkey Day
-2. Thursday
-3. feast
-4. traditional
-5. board
-6. Help
-</answer>
+<task>
+**Đề:** Now listen to Mark talking about how his family celebrates a festival. Check your answers in 1.
+**Dịch đề:** Bây giờ nghe Mark nói về cách gia đình cậu ấy tổ chức lễ hội. Kiểm tra câu trả lời ở bài 1.
+</task>
+
+<teacher_script pause="0">
+Đúng rồi, Mark nói về lễ <eng>Thanksgiving</eng> - Lễ Tạ Ơn, hay còn gọi là <eng>Turkey Day</eng>. Vậy câu trả lời bài 1 là chính xác: con vật đó là gà tây, thuộc lễ Thanksgiving.
+</teacher_script>
 
 ---
 
 <!-- chunk: exercise_3 -->
 ### Bài 3 trang 99 - True or False
 
-<teacher_script pause="45">
-Bài 3 <eng>True or False</eng>. Nghe lại và xác định các câu sau đúng hay sai. 45 giây nha.
+<teacher_script pause="60">
+Bài 3 <eng>Listen again and decide if the statements are true or false</eng>. Nghe lại và xác định 6 câu sau đúng hay sai. 1 phút nha.
 </teacher_script>
 
 <questions type="true_false">
-**1.** People in Canada and the USA celebrate Thanksgiving. _____
-**2.** Only adults prepare the food. _____
-**3.** Turkey is a traditional food at Thanksgiving. _____
-**4.** Mark's family helps others on this day. _____
+**1.** Only people from the USA celebrate Thanksgiving. _____
+**2.** People celebrate it on the third Thursday of November. _____
+**3.** Family members and friends usually gather to have a feast. _____
+**4.** In his family, only adults prepare the feast. _____
+**5.** Cornbread is one of the traditional dishes. _____
+**6.** After the feast, they play board games. _____
 </questions>
 
 <teacher_script pause="0">
@@ -142,19 +132,21 @@ Bài 3 <eng>True or False</eng>. Nghe lại và xác định các câu sau đún
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.T | 2.F | 3.T | 4.T
+**Đáp án:** 1.F | 2.F | 3.T | 4.F | 5.T | 6.T
 </answer>
 
 <explanation>
 **Giải thích:**
-1. **T** - "People from Canada and the USA celebrate it every year."
-2. **F** - "Both adults and children take part in the food preparation." (Cả người lớn và trẻ em đều chuẩn bị)
-3. **T** - "Some of the traditional foods are turkey, sweet potatoes, and cornbread."
-4. **T** - "My family usually takes this opportunity to help others."
+1. **F** - "People from **Canada and the USA** celebrate it every year." (Không chỉ Mỹ, Canada cũng ăn mừng)
+2. **F** - "We celebrate it on the **fourth** Thursday of November." (Thứ Năm tuần thứ tư, không phải thứ ba)
+3. **T** - "We usually prepare a **feast** for family and friends." (Đúng, chuẩn bị tiệc cho gia đình và bạn bè)
+4. **F** - "**Both adults and children** take part in the food preparation." (Cả người lớn và trẻ em đều tham gia)
+5. **T** - "Some of the traditional foods are turkey, sweet potatoes, and **cornbread**." (Đúng, bánh mì ngô là món truyền thống)
+6. **T** - "After the meal, we **play board games** together." (Đúng, sau bữa ăn họ chơi trò chơi cờ bàn)
 </explanation>
 
 <teacher_script pause="30">
-Các em sửa bài nếu có sai nhé.
+Các em sửa bài nếu có sai nhé. Chú ý câu bẫy nha: câu 1 nói "chỉ người Mỹ" nhưng thật ra cả Canada cũng ăn mừng. Câu 2 nói thứ Năm tuần thứ ba nhưng đúng ra là tuần thứ tư.
 </teacher_script>
 
 ---
@@ -169,49 +161,61 @@ Chuyển sang phần <eng>Writing</eng>. Chúng ta sẽ viết về một lễ h
 ---
 
 <!-- chunk: exercise_4 -->
-### Bài 4 trang 99 - Look at the notes
+### Bài 4 trang 99 - Fill in the blanks
 
-<teacher_script pause="30">
-Bài 4. Nhìn vào các ghi chú về lễ hội Vu Lan và sắp xếp chúng theo đúng thứ tự.
+<teacher_script pause="60">
+Bài 4. Nghĩ về một lễ hội mà gia đình em thường tổ chức. Điền vào chỗ trống. 1 phút nha.
 </teacher_script>
 
 <task>
-**Notes about Vu Lan Festival:**
-a. Activities: go to pagodas, give gifts to parents
-b. Name: Vu Lan Festival / Mother's Day
-c. Feeling: love this festival - show love for parents
-d. Time: 15th of the seventh lunar month
+**Đề:** Think about a festival that your family usually celebrates. Fill in the blanks with your answers.
+**Dịch đề:** Nghĩ về một lễ hội mà gia đình em thường tổ chức. Điền vào chỗ trống với câu trả lời của em.
 </task>
 
+<questions type="fill_blanks">
+- What festival is it? _______
+- When do you celebrate it? _______
+- What food does your family eat? _______
+- What activities does your family do? _______
+- Do you like the festival? Why or why not? _______
+</questions>
+
 <answer>
-**Đáp án thứ tự:** b - d - a - c
-(Tên lễ hội - Thời gian - Hoạt động - Cảm nhận)
+**Gợi ý (Tết Trung thu):**
+- What festival is it? → Mid-Autumn Festival
+- When do you celebrate it? → In the middle of the eighth lunar month
+- What food does your family eat? → Moon cakes and autumn fruits
+- What activities does your family do? → Watch lion dances, carry lanterns, eat moon cakes
+- Do you like the festival? Why or why not? → Yes, because it is fun and meaningful.
 </answer>
 
 ---
 
 <!-- chunk: exercise_5 -->
-### Bài 5 trang 99 - Write a paragraph
+### Bài 5 trang 99 - Write an email
 
 <teacher_script pause="0">
-Bài 5. Viết một đoạn văn khoảng 70 từ về lễ hội Vu Lan dựa trên các ghi chú ở bài 4.
+Bài 5. Viết email khoảng 70 từ để kể cho Mark về lễ hội gia đình em thường tổ chức. Dùng ghi chú ở bài 4 nha.
 </teacher_script>
 
 <task>
-**Đề:** Write a paragraph of about 70 words about the Vu Lan Festival using the notes in 4.
-**Dịch đề:** Viết đoạn văn khoảng 70 từ về lễ hội Vu Lan dựa trên các ghi chú ở bài 4.
+**Đề:** Now write an email of about 70 words to tell Mark about the festival. Use the notes in 4.
+**Dịch đề:** Viết email khoảng 70 từ để kể cho Mark về lễ hội. Dùng các ghi chú ở bài 4.
 </task>
 
 <grammar>
-**Dàn ý viết:**
-1. Tên lễ hội (Name)
-2. Thời gian (Time)
-3. Hoạt động (Activities)
-4. Cảm nhận (Feeling)
+**Dàn ý viết email:**
+1. Lời chào Mark (Greeting)
+2. Tên lễ hội (Name of the festival)
+3. Thời gian (When)
+4. Đồ ăn (Food)
+5. Hoạt động (Activities)
+6. Cảm nhận (Feeling)
+7. Kết thúc (Closing)
 </grammar>
 
-<teacher_script pause="180" href="audio/tts_c889ecef.mp3">
-Các em có 3 phút để viết đoạn văn.
+<teacher_script pause="300">
+Các em có 5 phút để viết email nha.
 </teacher_script>
 
 <dialogue>
@@ -219,11 +223,13 @@ Các em có 3 phút để viết đoạn văn.
 
 | English | Vietnamese |
 |---------|------------|
-| Vu Lan Festival is also known as Mother's Day in Viet Nam. | Lễ Vu Lan còn được gọi là Ngày của Mẹ ở Việt Nam. |
-| People celebrate it on the 15th of the seventh lunar month. | Người ta ăn mừng vào ngày 15 tháng 7 âm lịch. |
-| On this day, people often go to pagodas to pray for their parents. | Vào ngày này, mọi người thường đi chùa cầu nguyện cho bố mẹ. |
-| They also give gifts like flowers and clothes to their mothers. | Họ cũng tặng quà như hoa và quần áo cho mẹ. |
-| I love this festival because it's a chance to show our love and gratitude to our parents. | Tôi yêu lễ hội này vì đó là cơ hội để thể hiện tình yêu và lòng biết ơn với bố mẹ. |
+| Hi Mark, | Chào Mark, |
+| I want to tell you about the Mid-Autumn Festival. | Mình muốn kể cho bạn nghe về Tết Trung thu. |
+| My family celebrates it in the middle of the eighth lunar month every year. | Gia đình mình tổ chức vào giữa tháng 8 âm lịch hàng năm. |
+| We eat moon cakes and autumn fruits together. | Chúng mình ăn bánh trung thu và trái cây mùa thu cùng nhau. |
+| We watch lion dances and I carry a lantern with my friends. | Chúng mình xem múa lân và mình rước đèn với bạn bè. |
+| I love this festival because it is fun and meaningful. | Mình thích lễ hội này vì nó vui và ý nghĩa. |
+| Best, | Thân, |
 </dialogue>
 
 <teacher_script pause="0" action="photo">

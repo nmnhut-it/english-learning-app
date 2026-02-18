@@ -92,20 +92,20 @@ Các em hãy dành 2 phút đọc và hiểu nội dung email nhé.
 ### Bài 2 trang 98 - Match words with meanings
 
 <teacher_script pause="60">
-Bài 2 <eng>Match words with meanings</eng>. Nối từ trong email với nghĩa phù hợp. 1 phút nha.
+Bài 2 <eng>Match the words with their meanings</eng>. Nối từ trong email với nghĩa phù hợp. 1 phút nha.
 </teacher_script>
 
 <questions type="matching">
 **Words:**
-1. festival
-2. gathering
-3. feature
-4. parade
+1. gathering
+2. featured
+3. twins
+4. performance
 
 **Meanings:**
-a. to include something as a part
-b. a special day or period when people celebrate something
-c. a public event where people walk or drive down a street
+a. two children born at the same time to the same mother
+b. included something as an important part
+c. the act of entertaining other people by singing, dancing, and playing music
 d. a meeting of people
 </questions>
 
@@ -114,15 +114,15 @@ d. a meeting of people
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.b | 2.d | 3.a | 4.c
+**Đáp án:** 1.d | 2.b | 3.a | 4.c
 </answer>
 
 <explanation>
 **Giải thích:**
-1. **festival** = b (lễ hội = ngày đặc biệt để ăn mừng)
-2. **gathering** = d (cuộc tụ họp = cuộc gặp mặt của mọi người)
-3. **feature** = a (có, bao gồm)
-4. **parade** = c (diễu hành = sự kiện công cộng nơi mọi người đi bộ hoặc lái xe trên đường phố)
+1. **gathering** = d (cuộc tụ họp = cuộc gặp mặt của mọi người) - "It's the largest gathering for twins in the world."
+2. **featured** = b (bao gồm, giới thiệu) - "It featured singing, dancing, comedy, and other things."
+3. **twins** = a (cặp song sinh = hai đứa trẻ sinh cùng lúc) - "Thousands of twins come from different countries."
+4. **performance** = c (buổi biểu diễn = hoạt động giải trí) - "I loved the performance by the twins from Korea the most."
 </explanation>
 
 ---
@@ -131,19 +131,21 @@ d. a meeting of people
 ### Bài 3 trang 98 - Complete sentences
 
 <teacher_script pause="90">
-Bài 3 <eng>Complete sentences</eng>. Đọc lại email và điền không quá HAI từ vào mỗi chỗ trống. 90 giây nha.
+Bài 3 <eng>Complete each sentence with no more than TWO words</eng>. Đọc lại email và điền không quá HAI từ vào mỗi chỗ trống. Có 6 câu nha. 90 giây.
 </teacher_script>
 
 <questions type="fill_blanks">
 **1.** People hold the festival in Twinsburg on the _______ every August.
 
-**2.** There are twins from many different _______ at the festival.
+**2.** There are twins from many _______.
 
-**3.** In the Double Take Parade, twins wearing _______ walked together.
+**3.** In the Double Take Parade, twins in uniforms _______.
 
-**4.** At the Talent Show, Mark loved the _______ by the Korean twins the most.
+**4.** Mark enjoyed the _______ by the Korean twins the most.
 
-**5.** Mark and his sister took photos with twins from _______.
+**5.** Mark and his twin sister ran in the _______.
+
+**6.** In his opinion, the festival was very _______.
 </questions>
 
 <teacher_script pause="0">
@@ -153,19 +155,21 @@ Bài 3 <eng>Complete sentences</eng>. Đọc lại email và điền không quá
 <answer>
 **Đáp án:**
 1. first weekend
-2. countries
-3. uniforms
+2. different countries
+3. walked together
 4. performance
-5. other countries
+5. Fun Run
+6. exciting
 </answer>
 
 <explanation>
 **Giải thích:**
 1. "It happens on the **first weekend** in August."
-2. "Thousands of twins come from different **countries**."
-3. "We wore **uniforms** and walked together."
+2. "Thousands of twins come from **different countries**."
+3. "We wore uniforms and **walked together**."
 4. "I loved the **performance** by the twins from Korea the most."
-5. "This afternoon we took photos with twins from **other countries**."
+5. "This morning we ran in the **Fun Run**."
+6. "This is one of the most **exciting** festivals I've been to."
 </explanation>
 
 <teacher_script pause="30">
@@ -175,58 +179,78 @@ Các em sửa bài nếu có sai nhé.
 ---
 
 <!-- chunk: speaking -->
-### Bài 4 & 5 trang 98 - Speaking
+### Bài 4 trang 98 - Match questions and answers
 
-<teacher_script pause="0">
-Chuyển sang phần <eng>Speaking</eng>.
+<teacher_script pause="60">
+Chuyển sang phần <eng>Speaking</eng>. Bài 4 nối câu hỏi với câu trả lời về lễ hội Hội Mùa. 1 phút nha.
 </teacher_script>
 
-### Bài 4 - Match questions and answers
-
 <task>
-**Match the questions with the answers about a festival:**
+**Đề:** Match the questions with the answers about a festival someone joined.
+**Dịch đề:** Nối câu hỏi với câu trả lời về một lễ hội mà ai đó đã tham gia.
 </task>
 
 <questions type="matching">
 **Questions:**
-1. What is the name of the festival?
-2. Where and when do people hold it?
-3. What can people do there?
-4. How do you feel about it?
+1. What festival did you join?
+2. Where and when did you join it?
+3. Why do people celebrate it?
+4. What did you do there?
+5. Did you like the festival? Why or why not?
 
 **Answers:**
-a. They can watch parades and take part in cooking competitions.
-b. I think it's a great festival to learn about food from around the world.
-c. It's the Taste of Chicago.
-d. In Chicago, the USA, every July.
+a. Yes, very much because there was a lot to do.
+b. I joined the festival in Phu Yen last March.
+c. I watched people play drums, sing traditional songs, and dance. I also played traditional games with the children there.
+d. I joined the Hoi Mua Festival.
+e. They celebrate it to thank the Rice God and pray for a better new crop.
 </questions>
 
+<teacher_script pause="0">
+Đáp án nè.
+</teacher_script>
+
 <answer>
-**Đáp án:** 1.c | 2.d | 3.a | 4.b
+**Đáp án:** 1.d | 2.b | 3.e | 4.c | 5.a
 </answer>
+
+<explanation>
+**Giải thích:**
+1. Lễ hội gì? → **d.** Hội Mùa (lễ hội mùa màng)
+2. Ở đâu, khi nào? → **b.** Ở Phú Yên, tháng 3 vừa rồi
+3. Tại sao tổ chức? → **e.** Để tạ ơn Thần Lúa và cầu mong vụ mùa mới tốt hơn
+4. Làm gì ở đó? → **c.** Xem đánh trống, hát dân ca, múa. Chơi trò chơi dân gian với trẻ em.
+5. Có thích không? → **a.** Có, rất thích vì có nhiều thứ để làm.
+</explanation>
 
 ---
 
 <!-- chunk: speaking_practice -->
-### Bài 5 - Talk about a festival
+### Bài 5 trang 98 - Talk about a festival
 
 <teacher_script pause="0">
-Bài 5. Các em làm việc theo cặp, hỏi và trả lời về một lễ hội mà em đã tham dự.
+Bài 5. Các em làm việc theo cặp, hỏi và trả lời về một lễ hội mà em đã tham gia, dùng các câu hỏi trong bài 4 làm gợi ý. Sau đó kể cho cả lớp nghe về lễ hội mà bạn em đã tham gia.
 </teacher_script>
+
+<task>
+**Đề:** Work in pairs. Ask and answer questions about a festival you joined. Use the questions in 4. Then tell the class about the festival your partner joined.
+**Dịch đề:** Làm việc theo cặp. Hỏi và trả lời về một lễ hội em đã tham gia. Dùng các câu hỏi ở bài 4. Sau đó kể cho cả lớp về lễ hội mà bạn em đã tham gia.
+</task>
 
 <dialogue>
 **Example conversation:**
 
 | A | B |
 |---|---|
-| What is the name of the festival? | It's the Tet Festival / Mid-Autumn Festival. |
-| Where and when do people hold it? | In Viet Nam, every January or February / September. |
-| What can people do there? | They can watch fireworks, eat traditional food, visit relatives. |
-| How do you feel about it? | I think it's a wonderful festival to celebrate with family. |
+| What festival did you join? | I joined the Mid-Autumn Festival. |
+| Where and when did you join it? | In my hometown, last September. |
+| Why do people celebrate it? | They celebrate it for children to play and enjoy moon cakes. |
+| What did you do there? | I watched a lion dance and ate moon cakes with my family. |
+| Did you like the festival? Why or why not? | Yes, very much because I love watching the lion dance. |
 </dialogue>
 
 <teacher_script pause="0" action="record">
-Em hãy nói về một lễ hội mà em đã tham dự và ghi âm gửi cho thầy.
+Em hãy nói về một lễ hội mà em đã tham gia và ghi âm gửi cho thầy nha.
 </teacher_script>
 
 ---
