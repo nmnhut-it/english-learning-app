@@ -14,16 +14,16 @@ Ok bài <eng>Communication</eng> nha. Hôm nay học cách nói chuyện khi ngh
 5. **shake** : (v) rung chuyển /ʃeɪk/
 6. **I'm sorry to hear that** : (phrase) tôi rất tiếc khi nghe điều đó /aɪm ˈsɒri tə hɪər ðæt/
 7. **That's awful** : (phrase) thật kinh khủng /ðæts ˈɔːfəl/
-8. **I hope everything is okay** : (phrase) tôi hy vọng mọi thứ ổn /aɪ hoʊp ˈevriθɪŋ ɪz oʊˈkeɪ/
+8. **I hope everyone is safe** : (phrase) tôi hy vọng mọi người đều an toàn /aɪ hoʊp ˈevriwʌn ɪz seɪf/
 </vocabulary>
 
 <teacher_script pause="0">
-Từ quan trọng nhất bài này là 3 câu cuối nha: "<eng>I'm sorry to hear that</eng>", "<eng>That's awful</eng>", "<eng>I hope everything is okay</eng>". Ba câu này dùng khi ai đó kể chuyện buồn cho mình nghe — mình đáp lại bằng sự đồng cảm. Học thuộc lòng ba câu này đi nha!
+Từ quan trọng nhất bài này là 3 câu cuối nha: "<eng>I'm sorry to hear that</eng>", "<eng>That's awful</eng>", "<eng>I hope everyone is safe</eng>". Ba câu này dùng khi ai đó kể chuyện buồn cho mình nghe — mình đáp lại bằng sự đồng cảm. Học thuộc lòng ba câu này đi nha!
 </teacher_script>
 
 <!-- chunk: grammar-box -->
 <teacher_script pause="0">
-Trước khi đọc hội thoại, mình xem hộp ngữ pháp về cách đưa tin buồn và phản ứng lại nha.
+Trước khi đọc hội thoại, mình xem cách đưa tin buồn và phản ứng lại nha.
 </teacher_script>
 
 <grammar>
@@ -48,105 +48,145 @@ Nhớ nha: khi nghe tin buồn thì KHÔNG NÊN nói "OK" hay im lặng — ph�
 
 <!-- chunk: dialogue -->
 <teacher_script pause="0">
-Bây giờ đọc hội thoại giữa Mark và Phong nha. Mark hỏi Phong vì sao trông lo lắng, Phong kể về cơn bão ở quê. Mình đọc theo rồi dịch nha.
+Bài 1. <eng>Listen and read the dialogue below. Pay attention to the highlighted sentences.</eng> Nghe và đọc hội thoại giữa Mark và Phong nha. Chú ý các câu được đánh dấu — đó là các câu bày tỏ đồng cảm.
 </teacher_script>
 
 <dialogue>
 | English | Vietnamese |
 |---------|------------|
-| **Mark:** Phong, you look worried. Is everything okay? | **Mark:** Phong, bạn trông có vẻ lo lắng. Mọi thứ có ổn không? |
-| **Phong:** Not really. My village was hit by a bad storm last night. Strong winds damaged many houses. | **Phong:** Không được lắm. Làng tôi bị một cơn bão lớn tàn phá tối qua. Gió mạnh đã làm hư hại nhiều ngôi nhà. |
-| **Mark:** Oh no! I'm sorry to hear that. Is your family safe? | **Mark:** Ồ không! Tôi rất tiếc khi nghe điều đó. Gia đình bạn có an toàn không? |
-| **Phong:** Fortunately, yes. But the crops were completely destroyed. Many families lost their harvest. | **Phong:** May mắn là có. Nhưng mùa màng bị phá hủy hoàn toàn. Nhiều gia đình mất trắng vụ mùa. |
-| **Mark:** That's awful! I hope the local authorities will help soon. | **Mark:** Thật kinh khủng! Tôi hy vọng chính quyền địa phương sẽ giúp đỡ sớm. |
-| **Phong:** Me too. Some neighbours also lost their homes completely. | **Phong:** Tôi cũng vậy. Một số hàng xóm cũng mất nhà hoàn toàn. |
-| **Mark:** That's terrible. I hope everything gets better soon. Is there anything I can do to help? | **Mark:** Thật tệ quá. Tôi hy vọng mọi thứ sẽ tốt hơn sớm thôi. Có điều gì tôi có thể làm để giúp không? |
-| **Phong:** Thank you for asking, Mark. That's very kind of you. | **Phong:** Cảm ơn bạn đã hỏi, Mark. Bạn thật tốt bụng. |
+| **Mark:** Phong, why are you so sad? | **Mark:** Phong, sao bạn buồn thế? |
+| **Phong:** My grandparents called this morning. A flood destroyed their house. | **Phong:** Ông bà tôi gọi sáng nay. Lũ lụt đã phá hủy nhà của họ. |
+| **Mark:** I'm sorry to hear that. | **Mark:** Mình rất tiếc khi nghe điều đó. |
+| **Phong:** It also damaged all of their crops. | **Phong:** Nó cũng phá hủy hết mùa màng của ông bà rồi. |
+| **Mark:** That's awful. I hope your grandparents are safe. | **Mark:** Thật tệ quá. Mình mong ông bà bạn vẫn an toàn. |
 </dialogue>
 
 <teacher_script pause="180">
-Dịch hội thoại vô vở nha. Ghi cả tiếng Anh lẫn tiếng Việt. Thầy/cô cho 3 phút á.
+Dịch hội thoại vô vở nha. Ghi cả tiếng Anh lẫn tiếng Việt. Thầy/cô cho 3 phút á. Chú ý 2 câu quan trọng: "<eng>I'm sorry to hear that</eng>" và "<eng>That's awful. I hope your grandparents are safe.</eng>" — đây là cách bày tỏ đồng cảm khi nghe tin buồn nha.
 </teacher_script>
 
 <!-- chunk: exercise-2 -->
 <teacher_script pause="60">
-Bài 2, thực hành hội thoại tương tự nha. Các em luyện tập theo từng tình huống: lở đất ở núi, động đất gần thành phố, lũ lụt ở làng. Nhớ dùng "<eng>I'm sorry to hear that</eng>" và "<eng>That's awful</eng>" nha. Mình có 3 tình huống, thực hành với bạn bên cạnh đi — 1 phút mỗi cặp á.
+Bài 2. <eng>Work in pairs. Practise giving and responding to bad news in the following situations.</eng> Thực hành đưa và đáp lại tin buồn theo cặp nha. Có 2 tình huống. Dùng các câu vừa học: "<eng>I'm sorry to hear that</eng>", "<eng>That's awful</eng>". Thực hành 1 phút mỗi tình huống đi.
 </teacher_script>
 
 <task>
-**Đề:** Practice similar dialogues with a partner for the following situations. Use the phrases for giving and responding to bad news.
-**Dịch đề:** Thực hành hội thoại tương tự với bạn học cho các tình huống sau. Sử dụng các cụm từ đưa và phản ứng với tin buồn.
+**Đề:** Work in pairs. Practise giving and responding to bad news in the following situations.
+**Dịch đề:** Làm việc theo cặp. Thực hành đưa ra và đáp lại tin xấu trong các tình huống sau.
 </task>
 
 <questions type="speaking">
-**Situation A:** A landslide hit the mountains near your hometown. Several roads were blocked and some houses were buried.
-*Tình huống A: Lở đất xảy ra ở vùng núi gần quê bạn. Một số con đường bị chặn và một vài ngôi nhà bị vùi lấp.*
+**Situation 1:** You have a friend in a mountainous area. A landslide destroyed his family's garden yesterday. You share this news with your classmate.
+*Tình huống 1: Bạn có một người bạn sống ở vùng núi. Một trận sạt lở đất đã phá hủy khu vườn của gia đình cậu ấy vào hôm qua. Bạn chia sẻ tin này với bạn cùng lớp.*
 
-**Situation B:** An earthquake occurred near a city. Many buildings were damaged and people had to sleep outside.
-*Tình huống B: Động đất xảy ra gần thành phố. Nhiều tòa nhà bị hư hại và người dân phải ngủ bên ngoài.*
-
-**Situation C:** A severe flood hit a village. Families had to move to the upper floors and many animals were lost.
-*Tình huống C: Lũ lụt nghiêm trọng tràn vào một ngôi làng. Các gia đình phải chuyển lên tầng trên và nhiều gia súc bị mất.*
+**Situation 2:** You hear that a big earthquake hit a city. You share this news with your classmate.
+*Tình huống 2: Bạn nghe thấy có một trận động đất lớn trong thành phố. Bạn chia sẻ tin này với bạn cùng lớp.*
 </questions>
 
 <teacher_script pause="0">
-Gợi ý hội thoại mẫu cho bài 2 nè:
+Gợi ý hội thoại mẫu nè:
 </teacher_script>
 
 <answer>
-**Hội thoại mẫu (Situation A):**
-- A: "You look upset. What happened?"
-- B: "I'm afraid there was a landslide near my hometown. Several roads are blocked."
-- A: "Oh no, I'm sorry to hear that. Is your family safe?"
-- B: "Yes, fortunately. But some houses were buried."
-- A: "That's awful! I hope the rescue workers can help soon."
+**Hội thoại mẫu (Situation 1):**
+- **Andy:** Ben, why are you so sad?
+- **Ben:** I have a friend who lives in a mountainous area. A landslide destroyed his family's garden yesterday.
+- **Andy:** I'm sorry to hear that.
 
-**Mẫu câu hữu ích:**
-- "I'm afraid..." / "Unfortunately..."
-- "I'm sorry to hear that." / "That's awful!"
-- "Is your family safe?" / "I hope everyone is okay."
+**Hội thoại mẫu (Situation 2):**
+- **Anna:** Bill, why are you so sad?
+- **Bill:** The news says that a big earthquake hit the city.
+- **Anna:** That's awful. I hope everyone is safe.
 </answer>
 
 <!-- chunk: exercise-3 -->
 <teacher_script pause="60">
-Bài 3, trắc nghiệm về thiên tai nha. 5 câu, chọn đáp án đúng. Đọc kỹ câu hỏi rồi chọn. Làm 1 phút đi.
+Bài 3. <eng>Read the short passages below. Decide which natural disaster each person below is talking about.</eng> Đọc 3 đoạn văn ngắn — mỗi người kể về một trải nghiệm thiên tai. Xác định đó là loại thiên tai gì nha. Làm 1 phút đi.
 </teacher_script>
 
 <task>
-**Đề:** Choose the correct answer A, B, or C for each question about natural disasters.
-**Dịch đề:** Chọn đáp án đúng A, B, hoặc C cho mỗi câu hỏi về thiên tai.
+**Đề:** Read the short passages below. Decide which natural disaster each person below is talking about.
+**Dịch đề:** Đọc các đoạn văn ngắn dưới đây. Quyết định xem mỗi người dưới đây đang nói về thảm họa thiên nhiên nào.
+</task>
+
+<questions type="fill_blanks">
+**Nam:** We were travelling on the road near a mountain. Suddenly, a lot of rocks and mud came down the mountain.
+*Chúng tôi đang đi trên đường gần một ngọn núi. Đột nhiên, rất nhiều đá và bùn rơi từ trên núi xuống.*
+→ Nam: ______
+
+**Ann:** While I was working in the garden, I saw a big funnel of wind moving towards us very quickly.
+*Khi tôi đang làm việc trong vườn, tôi thấy một phễu gió lớn đang tiến đến rất nhanh.*
+→ Ann: ______
+
+**Tom:** Suddenly, everything in our living room began to shake. My sister and I quickly hid under the table.
+*Đột nhiên, mọi thứ trong phòng khách bắt đầu rung lắc. Chị tôi và tôi nhanh chóng trốn dưới bàn.*
+→ Tom: ______
+</questions>
+
+<teacher_script pause="0">
+Đáp án bài 3 nè.
+</teacher_script>
+
+<answer>
+**Đáp án:**
+- Nam: landslide (lở đất)
+- Ann: tornado (lốc xoáy)
+- Tom: earthquake (động đất)
+</answer>
+
+<explanation>
+**Giải thích từng đoạn:**
+- **Nam — landslide:** "A lot of rocks and mud came down the mountain" — đá và bùn rơi từ trên núi xuống → đặc trưng của <eng>landslide</eng> (lở đất).
+- **Ann — tornado:** "A big funnel of wind moving towards us" — phễu gió lớn tiến về phía → đặc trưng của <eng>tornado</eng> (lốc xoáy).
+- **Tom — earthquake:** "Everything began to shake" — mọi thứ bắt đầu rung lắc, trốn dưới bàn → đặc trưng của <eng>earthquake</eng> (động đất).
+</explanation>
+
+<!-- chunk: exercise-4 -->
+<teacher_script pause="60">
+Bài 4. <eng>Choose the correct answer to each question to see how much you know about natural disasters.</eng> Trắc nghiệm về thiên tai nha — 6 câu hỏi, chọn đáp án đúng A, B hoặc C. Xem mình biết bao nhiêu về thiên tai nha. Làm 1 phút đi.
+</teacher_script>
+
+<task>
+**Đề:** Choose the correct answer to each question to see how much you know about natural disasters.
+**Dịch đề:** Chọn câu trả lời đúng cho mỗi câu hỏi để xem bạn biết bao nhiêu về thiên tai.
 </task>
 
 <questions type="multiple_choice">
-**1.** What causes a tornado?
-*Điều gì tạo ra lốc xoáy?*
-- A. Strong winds moving in a circle
-- B. Heavy rain hitting the ground
-- C. Hot lava from a volcano
+**Question 1:** Which of these may cause landslides?
+*Điều gì có thể gây ra sạt lở đất?*
+- A. Heavy rain
+- B. Wind
+- C. Lightning
 
-**2.** What scale is used to measure the strength of an earthquake?
-*Thang đo nào được dùng để đo sức mạnh của động đất?*
-- A. Wind scale
-- B. Richter scale
-- C. Flood scale
+**Question 2:** Which of these activities may cause landslides?
+*Hoạt động nào dưới đây có thể gây ra sạt lở đất?*
+- A. Littering
+- B. Cutting down trees
+- C. Polluting the air
 
-**3.** What comes out of a volcano during an eruption?
-*Thứ gì phun ra từ núi lửa trong một vụ phun trào?*
-- A. Strong rain and wind
-- B. Rocks and mud
-- C. Ash, gas, and lava
+**Question 3:** What scale is used for measuring earthquakes?
+*Thang đo nào dùng để đo động đất?*
+- A. Fahrenheit scale
+- B. Celsius scale
+- C. Richter scale
 
-**4.** Which natural disaster mainly involves water covering the land?
-*Thảm họa thiên nhiên nào chủ yếu liên quan đến nước bao phủ đất liền?*
-- A. Flood
-- B. Tornado
-- C. Earthquake
+**Question 4:** What natural disaster can an earthquake cause?
+*Thiên tai nào có thể do động đất gây ra?*
+- A. A flood
+- B. A landslide
+- C. A tornado
 
-**5.** What should you do during a strong storm?
-*Bạn nên làm gì trong khi bão mạnh đang diễn ra?*
-- A. Go outside to check the damage
-- B. Stay inside and follow official instructions
-- C. Drive to a nearby town immediately
+**Question 5:** What do tornadoes form from?
+*Lốc xoáy hình thành từ đâu?*
+- A. An earthquake
+- B. A flood
+- C. A thunderstorm
+
+**Question 6:** Where do tornadoes mostly happen?
+*Lốc xoáy chủ yếu xảy ra ở đâu?*
+- A. In the USA
+- B. In the UK
+- C. In Viet Nam
 </questions>
 
 <teacher_script pause="0">
@@ -155,18 +195,34 @@ Bài 3, trắc nghiệm về thiên tai nha. 5 câu, chọn đáp án đúng. Đ
 
 <answer>
 **Đáp án:**
-1. A | 2. B | 3. C | 4. A | 5. B
+1. A (Heavy rain)
+2. B (Cutting down trees)
+3. C (Richter scale)
+4. B (A landslide)
+5. C (A thunderstorm)
+6. A (In the USA)
 </answer>
 
 <explanation>
 **Giải thích từng câu:**
-- **Câu 1 — A:** Lốc xoáy là cơn bão dữ dội với gió mạnh di chuyển theo vòng tròn — "strong winds moving in a circle." Đây là đặc điểm của tornado.
-- **Câu 2 — B:** Thang Richter (<eng>Richter scale</eng>) là thang đo sức mạnh của động đất. Ví dụ: 7.0 trên thang Richter là rất mạnh.
-- **Câu 3 — C:** Núi lửa phun ra tro (<eng>ash</eng>), khí (<eng>gas</eng>) và dung nham (<eng>lava</eng>). Không phải mưa hay đất đá.
-- **Câu 4 — A:** Lũ lụt (<eng>flood</eng>) là khi nước bao phủ đất liền, đường sá và nhà dân. Không phải tornado hay earthquake.
-- **Câu 5 — B:** Trong bão mạnh, AN TOÀN NHẤT là ở trong nhà và làm theo hướng dẫn của chính quyền địa phương. Không nên ra ngoài vì nguy hiểm.
+- **Câu 1 — A (Heavy rain):** Mưa lớn làm đất trên sườn núi bão hòa nước, khiến đất đá trượt xuống → gây ra lở đất.
+- **Câu 2 — B (Cutting down trees):** Chặt cây làm mất rễ cây giữ đất → đất dễ bị trượt, gây sạt lở.
+- **Câu 3 — C (Richter scale):** Thang Richter là thang đo sức mạnh của động đất. Ví dụ: 7.0 Richter là rất mạnh.
+- **Câu 4 — B (A landslide):** Động đất có thể làm rung chuyển sườn núi → gây ra lở đất.
+- **Câu 5 — C (A thunderstorm):** Lốc xoáy hình thành từ cơn giông bão (<eng>thunderstorm</eng>) — khi gió xoáy mạnh tạo thành phễu.
+- **Câu 6 — A (In the USA):** Mỹ là nơi có nhiều lốc xoáy nhất thế giới, đặc biệt ở vùng "Tornado Alley" — vùng trung tâm nước Mỹ.
 </explanation>
 
+<!-- chunk: exercise-5 -->
 <teacher_script pause="0">
-Xong bài <eng>Communication</eng> rồi nha! Nhớ 3 câu quan trọng khi nghe tin buồn: "<eng>I'm sorry to hear that</eng>", "<eng>That's awful</eng>", "<eng>I hope everyone is safe</eng>". Bài sau mình học đọc hiểu về núi lửa phun trào ở Nhật Bản nha — thú vị lắm đó!
+Bài 5. <eng>Work in pairs. Compare your answers. Then check your answers with the key on page 101.</eng> So sánh câu trả lời với bạn, rồi kiểm tra đáp án. Mỗi câu đúng được 1 điểm — xem ai được nhiều điểm hơn nha!
+</teacher_script>
+
+<task>
+**Đề:** Work in pairs. Compare your answers. Then check your answers with the key on page 101. How many points did each of you get?
+**Dịch đề:** Làm việc theo cặp. So sánh câu trả lời của bạn. Sau đó kiểm tra đáp án ở trang 101. Mỗi bạn được bao nhiêu điểm?
+</task>
+
+<teacher_script pause="0">
+Xong bài <eng>Communication</eng> rồi nha! Nhớ 3 câu quan trọng khi nghe tin buồn: "<eng>I'm sorry to hear that</eng>", "<eng>That's awful</eng>", "<eng>I hope everyone is safe</eng>". Bài sau mình học đọc hiểu về thiên tai nha — <eng>Skills 1</eng>!
 </teacher_script>

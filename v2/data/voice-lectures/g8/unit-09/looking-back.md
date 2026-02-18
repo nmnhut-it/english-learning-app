@@ -8,34 +8,20 @@ Ok lớp 8, bài cuối của Unit 9 rồi nha — <eng>Looking Back</eng>! Ôn 
 
 <!-- chunk: exercise-1 -->
 <teacher_script pause="60">
-Bài 1, đọc gợi ý và đoán xem đó là loại thiên tai gì nha. 5 gợi ý, mình đọc kỹ rồi viết tên thiên tai bằng tiếng Anh. Làm 1 phút đi.
+Bài 1. <eng>Write the name of a natural disaster in each blank.</eng> Nhìn hình rồi viết tên loại thiên tai tương ứng bằng tiếng Anh nha. 5 hình, 5 thiên tai. Làm 1 phút đi.
 </teacher_script>
 
 <task>
-**Đề:** Read the clues and write the name of the natural disaster.
-**Dịch đề:** Đọc gợi ý và viết tên loại thảm họa thiên nhiên.
+**Đề:** Write the name of a natural disaster in each blank.
+**Dịch đề:** Viết tên một thảm họa thiên nhiên vào mỗi chỗ trống.
 </task>
 
 <questions type="fill_blanks">
-**1.** Water covers streets, fields, and homes. People have to move their belongings to higher places.
-*Nước bao phủ đường phố, ruộng đồng và nhà cửa. Mọi người phải chuyển đồ lên chỗ cao.*
-→ ______
-
-**2.** Dark clouds, heavy rain, and very strong winds. Trees bend and roofs are damaged.
-*Mây đen, mưa lớn và gió rất mạnh. Cây cối cong và mái nhà bị hư hại.*
-→ ______
-
-**3.** The ground shakes violently. Buildings crack and collapse. People run into the streets.
-*Mặt đất rung chuyển dữ dội. Các tòa nhà nứt và sụp đổ. Mọi người chạy ra đường.*
-→ ______
-
-**4.** A mountain shoots out ash, gas, and hot lava. The sky turns dark with smoke.
-*Một ngọn núi phun ra tro, khí và dung nham nóng chảy. Bầu trời tối sầm vì khói.*
-→ ______
-
-**5.** Rocks, mud, and soil slide rapidly down a hillside. Roads are blocked and houses are buried.
-*Đá, bùn và đất trượt nhanh xuống sườn đồi. Đường bị chặn và nhà bị vùi lấp.*
-→ ______
+**1.** Hình 1: Mặt đất rung chuyển, nhà nứt → ______
+**2.** Hình 2: Nước bao phủ đường, nhà → ______
+**3.** Hình 3: Cột gió xoáy hình phễu → ______
+**4.** Hình 4: Núi lửa phun khói, lửa → ______
+**5.** Hình 5: Đất đá trượt từ sườn núi → ______
 </questions>
 
 <teacher_script pause="0">
@@ -44,49 +30,47 @@ Bài 1, đọc gợi ý và đoán xem đó là loại thiên tai gì nha. 5 g�
 
 <answer>
 **Đáp án:**
-1. FLOOD (lũ lụt)
-2. STORM (bão)
-3. EARTHQUAKE (động đất)
-4. VOLCANIC ERUPTION (núi lửa phun trào)
-5. LANDSLIDE (lở đất)
+1. earthquake (động đất)
+2. flood (lũ lụt)
+3. tornado (lốc xoáy)
+4. volcanic eruption (núi lửa phun trào)
+5. landslide (lở đất)
 </answer>
 
 <explanation>
-**Giải thích từng loại:**
-- **1 — FLOOD:** Dấu hiệu rõ nhất: nước bao phủ mọi thứ, phải chuyển đồ lên cao. Đây là đặc trưng của lũ lụt.
-- **2 — STORM:** Mây đen + mưa lớn + gió mạnh = bão. Cây cong, mái nhà hư — triệu chứng điển hình của bão.
-- **3 — EARTHQUAKE:** Mặt đất rung chuyển, nhà sụp đổ, mọi người bỏ chạy — đặc trưng của động đất.
-- **4 — VOLCANIC ERUPTION:** Núi phun tro, khí, dung nham — chỉ có núi lửa phun trào mới như vậy.
-- **5 — LANDSLIDE:** Đất đá trượt xuống sườn đồi, chặn đường, vùi nhà — đây là lở đất.
+**Giải thích:**
+- **1 — earthquake:** Mặt đất rung chuyển, nhà nứt, mọi người bỏ chạy → <eng>earthquake</eng>.
+- **2 — flood:** Nước bao phủ đường sá, ruộng đồng, nhà cửa → <eng>flood</eng>.
+- **3 — tornado:** Cột gió xoáy hình phễu → <eng>tornado</eng>.
+- **4 — volcanic eruption:** Núi lửa phun khói, tro, dung nham → <eng>volcanic eruption</eng>.
+- **5 — landslide:** Đất đá trượt từ sườn núi xuống → <eng>landslide</eng>.
 </explanation>
 
 <!-- chunk: exercise-2 -->
 <teacher_script pause="60">
-Bài 2, điền vào chỗ trống với từ đúng từ hộp nha. Nhớ đọc câu kỹ để xác định cần dùng dạng từ nào. Làm 1 phút đi.
+Bài 2. <eng>Fill in each blank with the correct form of the word in brackets.</eng> Điền vào chỗ trống với dạng đúng của từ trong ngoặc nha — có thể là danh từ hoặc động từ. Nhớ các cặp từ đã học: <eng>destroy → destruction</eng>, <eng>erupt → eruption</eng>, <eng>warn → warning</eng>, <eng>predict → prediction</eng>. Làm 1 phút đi.
 </teacher_script>
 
 <task>
-**Đề:** Fill in the blanks with the correct word from the box. Use the correct form where necessary.
-**Dịch đề:** Điền vào chỗ trống với từ đúng từ hộp từ. Dùng dạng đúng khi cần thiết.
-
-**Word box:** *destruction / predict / victim / warn / rescue workers*
+**Đề:** Fill in each blank with the correct form of the word in brackets.
+**Dịch đề:** Điền vào mỗi chỗ trống với dạng đúng của từ trong ngoặc.
 </task>
 
 <questions type="fill_blanks">
-**1.** The ______ from the earthquake was enormous. Thousands of buildings were destroyed.
-*Sự ______ từ trận động đất thật khổng lồ. Hàng nghìn tòa nhà bị phá hủy.*
+**1.** The people in that area were in shock at the ______ of the tsunami. (destroy)
+*Người dân trong khu vực đó đã bị sốc vì ______ của sóng thần.*
 
-**2.** Scientists ______ the eruption three days before it happened.
-*Các nhà khoa học ______ vụ phun trào ba ngày trước khi nó xảy ra.*
+**2.** The news came as a ______ to us. We didn't expect the storm to come so soon. (warn)
+*Tin tức đến như một lời ______ đối với chúng tôi. Chúng tôi không ngờ bão đến sớm vậy.*
 
-**3.** The ______ needed food, clean water, and shelter after the flood.
-*Các ______ cần thức ăn, nước sạch và chỗ trú ẩn sau trận lũ lụt.*
+**3.** Some volcanoes in Viet Nam ______ millions of years ago. (erupt)
+*Một số núi lửa ở Việt Nam ______ hàng triệu năm trước.*
 
-**4.** Officials ______ people about the approaching storm on the radio.
-*Các quan chức ______ người dân về cơn bão đang đến gần qua radio.*
+**4.** The ______ of the earthquake was correct. It was a 6.5. (predict)
+*______ về trận động đất chính xác. Nó là 6,5 độ.*
 
-**5.** The ______ worked day and night to find survivors in the rubble.
-*Các ______ làm việc cả ngày lẫn đêm để tìm người sống sót trong đống đổ nát.*
+**5.** The flood has ______ a large area of farmland. (damage)
+*Lũ lụt đã ______ một vùng đất nông nghiệp rộng lớn.*
 </questions>
 
 <teacher_script pause="0">
@@ -96,61 +80,46 @@ Bài 2, điền vào chỗ trống với từ đúng từ hộp nha. Nhớ đọ
 <answer>
 **Đáp án:**
 1. destruction
-2. predicted
-3. victims
-4. warned
-5. rescue workers
+2. warning
+3. erupted
+4. prediction
+5. damaged
 </answer>
 
 <explanation>
 **Giải thích từng câu:**
-- **Câu 1 — destruction:** Sau mạo từ "The" cần danh từ → <eng>destruction</eng> (sự phá hủy), không phải động từ <eng>destroy</eng>.
-- **Câu 2 — predicted:** Câu có "three days before" — dấu hiệu của thì quá khứ → <eng>predict</eng> chia thành <eng>predicted</eng>.
-- **Câu 3 — victims:** Sau mạo từ "The" cần danh từ số nhiều → <eng>victims</eng> (các nạn nhân).
-- **Câu 4 — warned:** Câu quá khứ, chủ ngữ "Officials" → động từ quá khứ <eng>warned</eng>.
-- **Câu 5 — rescue workers:** Chủ ngữ của câu → danh từ số nhiều → <eng>rescue workers</eng> (các nhân viên cứu hộ).
+- **Câu 1 — destruction:** Sau "the" cần danh từ → <eng>destroy</eng> → <eng>destruction</eng> (sự phá hủy). "The destruction of the tsunami" = sự phá hủy của sóng thần.
+- **Câu 2 — warning:** Sau "a" cần danh từ → <eng>warn</eng> → <eng>warning</eng> (lời cảnh báo). "Came as a warning" = đến như một lời cảnh báo.
+- **Câu 3 — erupted:** Cần động từ quá khứ (millions of years ago) → <eng>erupt</eng> → <eng>erupted</eng>. "Volcanoes erupted millions of years ago."
+- **Câu 4 — prediction:** Sau "The" cần danh từ → <eng>predict</eng> → <eng>prediction</eng> (sự dự đoán). "The prediction was correct."
+- **Câu 5 — damaged:** Cần động từ ở dạng quá khứ phân từ (has + V3) → <eng>damage</eng> → <eng>damaged</eng>. "The flood has damaged farmland."
 </explanation>
 
 <!-- chunk: exercise-3 -->
 <teacher_script pause="60">
-Bài 3, chọn dạng đúng của động từ — Past Simple hay Past Continuous nha. Đây là ôn tập ngữ pháp quan trọng nhất của Unit 9. Nhớ: hành động đang diễn ra = Past Continuous, hành động xảy ra đột ngột = Past Simple. Làm 1 phút đi.
+Bài 3. <eng>Fill in each blank with the correct tense of the verb in brackets — Past Simple or Past Continuous.</eng> Chia động từ ở thì đúng — quá khứ đơn hay quá khứ tiếp diễn. Nhớ: hành động đang diễn ra = Past Continuous, hành động xảy ra đột ngột = Past Simple. Làm 1 phút đi.
 </teacher_script>
 
 <task>
-**Đề:** Choose the correct verb form — Past Simple or Past Continuous.
-**Dịch đề:** Chọn dạng động từ đúng — Quá Khứ Đơn hoặc Quá Khứ Tiếp Diễn.
+**Đề:** Fill in each blank with the correct tense of the verb in brackets.
+**Dịch đề:** Điền vào mỗi chỗ trống với thì đúng của động từ trong ngoặc.
 </task>
 
-<questions type="multiple_choice">
-**1.** What ______ you doing when the earthquake struck?
-*Bạn đang làm gì khi động đất xảy ra?*
-- A. did
-- B. were
-- C. was
+<questions type="fill_blanks">
+**1.** While people ______ (sleep), the flood water came into their houses.
+*Trong khi mọi người ______, nước lũ tràn vào nhà họ.*
 
-**2.** The tornado ______ many buildings in the town.
-*Lốc xoáy đã phá hủy nhiều tòa nhà trong thị trấn.*
-- A. was destroying
-- B. were destroying
-- C. destroyed
+**2.** What ______ you ______ (do) when the earthquake happened?
+*Bạn ______ khi trận động đất xảy ra?*
 
-**3.** Lan ______ her garden when the heavy rain suddenly came.
-*Lan đang tưới cây khi mưa to bất ngờ ập đến.*
-- A. watered / was coming
-- B. was watering / came
-- C. waters / comes
+**3.** We ______ (prepare) food for the victims at 10 o'clock yesterday morning.
+*Chúng tôi ______ thức ăn cho các nạn nhân lúc 10 giờ sáng hôm qua.*
 
-**4.** We ______ for help when a rescue helicopter suddenly appeared.
-*Chúng tôi đang kêu cứu khi máy bay trực thăng cứu hộ đột nhiên xuất hiện.*
-- A. called / was appearing
-- B. were calling / appeared
-- C. were calling / was appearing
+**4.** He ______ (drive) home when he suddenly ______ (see) the tornado.
+*Anh ấy ______ về nhà khi đột nhiên ______ lốc xoáy.*
 
-**5.** They ______ to music when the power suddenly ended.
-*Họ đang nghe nhạc khi điện đột ngột tắt.*
-- A. were listening / ended
-- B. listened / was ending
-- C. were listening / were ending
+**5.** My family ______ (have) dinner when the lights ______ (go) out.
+*Gia đình tôi ______ bữa tối khi đèn ______ tắt.*
 </questions>
 
 <teacher_script pause="0">
@@ -159,55 +128,55 @@ Bài 3, chọn dạng đúng của động từ — Past Simple hay Past Continu
 
 <answer>
 **Đáp án:**
-1. B (were)
-2. C (destroyed)
-3. B (was watering / came)
-4. B (were calling / appeared)
-5. A (were listening / ended)
+1. were sleeping
+2. were — doing
+3. were preparing
+4. was driving / saw
+5. was having / went
 </answer>
 
 <explanation>
 **Giải thích từng câu:**
-- **Câu 1 — B (were):** "What _____ you doing?" — câu hỏi Past Continuous với "you" → dùng **were**. "What **were** you doing when the earthquake struck?"
-- **Câu 2 — C (destroyed):** Đây là câu kể về kết quả hoàn thành trong quá khứ, không có hành động gián đoạn → Past Simple: **destroyed**.
-- **Câu 3 — B (was watering / came):** "Lan was watering her garden" = đang tưới cây (Past Continuous, hành động đang diễn ra). "the rain came" = mưa đến đột ngột (Past Simple, gián đoạn). "Lan" = she → **was**.
-- **Câu 4 — B (were calling / appeared):** "We were calling for help" = đang kêu cứu (Past Continuous). "a helicopter appeared" = trực thăng xuất hiện đột ngột (Past Simple). "We" → **were**.
-- **Câu 5 — A (were listening / ended):** "They were listening to music" = đang nghe nhạc (Past Continuous). "the power ended" = điện tắt đột ngột (Past Simple). "They" → **were**.
+- **Câu 1 — were sleeping:** Sau "While" → Past Continuous: "While people **were sleeping**, the flood water came." Đang ngủ thì nước lũ tràn vào.
+- **Câu 2 — were doing:** Câu hỏi "What were you doing when...?" — hành động đang diễn ra khi động đất xảy ra → Past Continuous.
+- **Câu 3 — were preparing:** "At 10 o'clock yesterday morning" → thời điểm cụ thể trong quá khứ → Past Continuous: "We **were preparing** food."
+- **Câu 4 — was driving / saw:** "He **was driving** home" = đang lái xe (Past Continuous). "He suddenly **saw** the tornado" = thấy đột ngột (Past Simple).
+- **Câu 5 — was having / went:** "My family **was having** dinner" = đang ăn tối (Past Continuous). "The lights **went** out" = đèn tắt bất ngờ (Past Simple).
 </explanation>
 
 <!-- chunk: exercise-4 -->
 <teacher_script pause="300" action="photo">
-Bài 4 cuối — viết 3 câu về thiên tai dùng thì quá khứ tiếp diễn kết hợp với quá khứ đơn nha. Dùng cấu trúc "<eng>was/were + V-ing + when + V-ed</eng>" hoặc "<eng>While + was/were + V-ing, + V-ed</eng>". Thầy/cô cho 5 phút, viết rồi chụp ảnh nộp nha!
+Bài 4. <eng>Complete the sentences about you and your family members.</eng> Hoàn thành các câu về bản thân em và các thành viên trong gia đình nha. Dùng thì <eng>Past Continuous</eng> để kể tối hôm qua em và mọi người đang làm gì lúc 8 giờ. Thầy/cô cho 5 phút, viết rồi chụp ảnh nộp nha!
 </teacher_script>
 
 <task>
-**Đề:** Write 3 sentences about natural disasters using Past Continuous + Past Simple. Use "when" or "while".
-**Dịch đề:** Viết 3 câu về thiên tai dùng Quá Khứ Tiếp Diễn + Quá Khứ Đơn. Dùng "when" hoặc "while".
+**Đề:** Complete the sentences about you and your family members.
+**Dịch đề:** Hoàn thành các câu về bản thân bạn và các thành viên gia đình.
 </task>
 
 <questions type="writing">
-Write 3 complete sentences. Each sentence must:
-- Describe what someone was doing (Past Continuous)
-- Describe when a natural disaster suddenly happened (Past Simple)
-- Use "when" or "while" to connect the two actions
+**1.** At 8 p.m. last night, I ______.
+*Lúc 8 giờ tối hôm qua, tôi ______.*
 
-**Gợi ý chủ đề:** flood / earthquake / storm / tornado / volcanic eruption / landslide
+**2.** My mum ______ while my dad ______.
+*Mẹ tôi ______ trong khi bố tôi ______.*
+
+**3.** My sister / brother ______.
+*Chị/em gái / Anh/em trai tôi ______.*
 </questions>
 
 <answer>
 **Câu mẫu tham khảo:**
-1. I was sleeping when the earthquake suddenly struck last night.
-2. While my family was having dinner, a violent storm started outside.
-3. The rescue workers were searching for survivors when they found a young girl alive.
-4. Mi was walking to school when the flood water started rising quickly.
-5. While the villagers were harvesting crops, a landslide came down from the mountain.
+1. At 8 p.m. last night, I was doing my homework.
+2. My mum was cooking dinner while my dad was watching TV.
+3. My sister was reading a book.
 </answer>
 
 <explanation>
-**Gợi ý cho từng câu:**
-- **Câu 1:** Chọn hành động đang làm (ngủ, ăn, học bài, xem TV...) + "when" + thiên tai xảy ra (earthquake struck, storm hit, flood came...).
-- **Câu 2:** Dùng "While" ở đầu câu + Past Continuous + dấu phẩy + Past Simple. Ví dụ: "While she was cooking, the lights went out."
-- **Câu 3:** Thử kể câu chuyện thú vị hơn — ai đó đang làm gì thì phát hiện hoặc thoát nạn. Ví dụ: "While we were watching TV, we heard a warning about the tornado."
+**Gợi ý:**
+- Tất cả dùng Past Continuous (was/were + V-ing) vì mô tả hành động đang xảy ra tại thời điểm cụ thể trong quá khứ (8 p.m. last night).
+- Có thể dùng **while** để nối hai hành động đang diễn ra cùng lúc.
+- Các hoạt động gợi ý: doing homework, watching TV, cooking, reading, playing games, sleeping, chatting online, listening to music...
 </explanation>
 
 <!-- chunk: end -->

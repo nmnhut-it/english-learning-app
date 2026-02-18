@@ -55,29 +55,33 @@ Dễ hen!
 
 <!-- chunk: exercise-1 -->
 <teacher_script pause="60">
-Bài 1, điền dạng đúng của động từ trong ngoặc — dùng <eng>was/were + V-ing</eng> nha. Xác định chủ ngữ là "I/he/she/it" thì dùng <eng>was</eng>, còn "we/you/they" thì dùng <eng>were</eng>. Làm 1 phút đi.
+Bài 1. <eng>Complete the sentences by putting the verbs in brackets into the past continuous.</eng> Hoàn thành câu bằng cách chia động từ trong ngoặc ở thì quá khứ tiếp diễn. Xác định chủ ngữ rồi dùng <eng>was/were + V-ing</eng> nha. Làm 1 phút đi.
 </teacher_script>
 
 <task>
-**Đề:** Fill in the blanks with the correct Past Continuous form of the verbs in brackets.
-**Dịch đề:** Điền dạng quá khứ tiếp diễn đúng của động từ trong ngoặc.
+**Đề:** Complete the sentences by putting the verbs in brackets into the past continuous.
+**Dịch đề:** Hoàn thành câu bằng cách chia động từ trong ngoặc ở thì quá khứ tiếp diễn.
 </task>
 
 <questions type="fill_blanks">
-**1.** Mi ______ when the earthquake struck. (sleep)
-*Mi ______ khi động đất xảy ra.*
+**1.** They (help) ______ the flood victims at 10 o'clock last night.
+*Họ ______ các nạn nhân lũ lụt lúc 10 giờ đêm qua.*
 
-**2.** The children ______ outside when it started raining heavily. (play)
-*Bọn trẻ ______ bên ngoài khi trời bắt đầu mưa to.*
+**2.** It (not snow) ______ when I left home this afternoon.
+*Trời ______ khi tôi rời nhà chiều nay.*
 
-**3.** My mum ______ dinner when the lights went out. (cook)
-*Mẹ tôi ______ bữa tối khi đèn tắt.*
+**3.** While she (work) ______ the field, the tornado came.
+*Trong khi cô ấy ______ trên cánh đồng, lốc xoáy đến.*
 
-**4.** We ______ TV when we heard a loud noise outside. (watch)
-*Chúng tôi ______ TV khi nghe thấy tiếng động lớn bên ngoài.*
+**4.** — What ______ you (do) ______ at 9 o'clock yesterday morning?
+— I (watch) ______ the news about a volcanic eruption.
+*— Bạn ______ lúc 9 giờ sáng hôm qua?*
+*— Tôi ______ tin tức về một vụ núi lửa phun trào.*
 
-**5.** He ______ to work when the storm suddenly hit. (drive)
-*Anh ấy ______ đến chỗ làm khi bão bất ngờ ập đến.*
+**5.** — ______ you (cry) ______ when I saw you two days ago?
+— No, I wasn't.
+*— Bạn ______ khi tôi gặp bạn hai ngày trước à?*
+*— Không, không phải.*
 </questions>
 
 <teacher_script pause="0">
@@ -86,142 +90,148 @@ Bài 1, điền dạng đúng của động từ trong ngoặc — dùng <eng>wa
 
 <answer>
 **Đáp án:**
-1. was sleeping
-2. were playing
-3. was cooking
-4. were watching
-5. was driving
+1. were helping
+2. wasn't snowing
+3. was working
+4. were — doing / was watching
+5. Were — crying
 </answer>
 
 <explanation>
 **Giải thích từng câu:**
-- **Câu 1 — was sleeping:** Chủ ngữ "Mi" = she → dùng **was**. Thêm -ing: sleep → sleeping. "Mi was sleeping when the earthquake struck."
-- **Câu 2 — were playing:** Chủ ngữ "The children" = they → dùng **were**. Play → playing. Đây là hành động đang diễn ra thì bị gián đoạn bởi "started raining."
-- **Câu 3 — was cooking:** Chủ ngữ "My mum" = she → dùng **was**. Cook → cooking. Đang nấu thì đèn tắt.
-- **Câu 4 — were watching:** Chủ ngữ "We" → dùng **were**. Watch → watching. Đang xem TV thì nghe tiếng động.
-- **Câu 5 — was driving:** Chủ ngữ "He" → dùng **was**. Drive → driving (bỏ -e, thêm -ing). Đang lái xe thì bão ập đến.
+- **Câu 1 — were helping:** Chủ ngữ "They" → dùng **were**. Help → helping. "They **were helping** the flood victims at 10 o'clock last night." Hành động đang xảy ra tại thời điểm cụ thể trong quá khứ (10 o'clock last night).
+- **Câu 2 — wasn't snowing:** Chủ ngữ "It" → dùng **was**. Dạng phủ định → **wasn't snowing**. "It **wasn't snowing** when I left home." Trời không có tuyết khi tôi rời nhà.
+- **Câu 3 — was working:** Chủ ngữ "she" → dùng **was**. Work → working. "While she **was working** the field, the tornado came." Đang làm việc thì lốc xoáy đến.
+- **Câu 4 — were doing / was watching:** Câu hỏi: "What **were** you **doing**?" — "you" → were. Câu trả lời: "I **was watching**" — "I" → was.
+- **Câu 5 — Were crying:** Câu hỏi Yes/No: "**Were** you **crying**?" — "you" → Were. Trả lời: "No, I wasn't."
 </explanation>
 
 <!-- chunk: exercise-2 -->
 <teacher_script pause="60">
-Bài 2 khó hơn nha — chọn thì đúng: <eng>Past Simple</eng> hay <eng>Past Continuous</eng>. Nhớ nguyên tắc: hành động đang diễn ra = Past Continuous; hành động xảy ra đột ngột gián đoạn = Past Simple. Làm 1 phút á.
+Bài 2. <eng>Circle the correct answer to complete each sentence.</eng> Khoanh tròn đáp án đúng nha — chọn Past Simple hay Past Continuous. Nhớ: hành động đang diễn ra = Past Continuous; hành động xảy ra đột ngột hoặc liên tiếp = Past Simple. Làm 1 phút đi.
 </teacher_script>
 
 <task>
-**Đề:** Choose the correct tense — Past Simple or Past Continuous — for each blank.
-**Dịch đề:** Chọn thì đúng — Quá khứ đơn hoặc Quá khứ tiếp diễn — cho mỗi chỗ trống.
+**Đề:** Circle the correct answer to complete each sentence.
+**Dịch đề:** Khoanh tròn đáp án đúng để hoàn thành mỗi câu.
 </task>
 
-<questions type="fill_blanks">
-**1.** We ______ dinner when we ______ a strange sound outside. (have / hear)
-*Chúng tôi ______ bữa tối khi chúng tôi ______ một tiếng động lạ bên ngoài.*
+<questions type="multiple_choice">
+**1.** We ______ money to help the earthquake victims last month.
+*Chúng tôi ______ tiền để giúp đỡ các nạn nhân động đất tháng trước.*
+- A. donated
+- B. were donating
 
-**2.** While the ground ______, people ______ out of the buildings. (shake / run)
-*Trong khi mặt đất ______, mọi người ______ ra khỏi các tòa nhà.*
+**2.** — What ______ when the volcano erupted?
+— I ______ in my bed.
+*— Bạn ______ khi núi lửa phun trào?*
+*— Tôi ______ trên giường.*
+- A. did you do / slept
+- B. were you doing / was sleeping
 
-**3.** They ______ when the fire suddenly ______. (sleep / start)
-*Họ ______ khi đám cháy đột ngột ______.*
+**3.** While they ______ near the river, the flood ______ suddenly.
+*Trong khi họ ______ gần con sông, lũ ______ bất ngờ.*
+- A. camped / was coming
+- B. were camping / came
 
-**4.** It ______, so we ______ to stay at home. (rain / decide)
-*Trời ______, vì vậy chúng tôi ______ ở nhà.*
+**4.** After Tom ______ out of his house, he ______ quickly to a safer place.
+*Sau khi Tom ______ ra khỏi nhà, anh ấy ______ nhanh chóng đến nơi an toàn hơn.*
+- A. ran / moved
+- B. was running / was moving
 
-**5.** When help ______, people ______ for hours. (arrive / wait)
-*Khi sự giúp đỡ ______, mọi người ______ đã nhiều giờ đồng hồ.*
+**5.** I ______ a newspaper at 9 a.m. yesterday, but I ______ the news about the tornado.
+*Tôi ______ báo lúc 9 giờ sáng hôm qua, nhưng tôi ______ tin tức về lốc xoáy.*
+- A. didn't read / was watching
+- B. wasn't reading / watched
 </questions>
 
 <teacher_script pause="0">
-Đáp án bài 2 nè. Bài này hơi khó, nghe giải thích kỹ nha!
+Đáp án bài 2 nè. Bài này quan trọng, nghe giải thích kỹ nha!
 </teacher_script>
 
 <answer>
 **Đáp án:**
-1. was having / heard
-2. was shaking / ran
-3. were sleeping / started
-4. was raining / decided
-5. arrived / were waiting
+1. A (donated)
+2. B (were you doing / was sleeping)
+3. B (were camping / came)
+4. A (ran / moved)
+5. B (wasn't reading / watched)
 </answer>
 
 <explanation>
 **Giải thích từng câu:**
-- **Câu 1 — was having / heard:** "We **was having** dinner" = đang ăn (hành động đang diễn ra, Past Continuous). "we **heard** a strange sound" = nghe thấy đột ngột (hành động ngắn gián đoạn, Past Simple).
-- **Câu 2 — was shaking / ran:** "While the ground **was shaking**" = mặt đất đang rung (Past Continuous sau "while"). "people **ran**" = chạy ra — hành động phản ứng tức thì (Past Simple).
-- **Câu 3 — were sleeping / started:** "They **were sleeping**" = đang ngủ (Past Continuous). "the fire **started**" = lửa bốc cháy đột ngột (Past Simple).
-- **Câu 4 — was raining / decided:** "It **was raining**" = trời đang mưa (Past Continuous, diễn tả bối cảnh). "we **decided**" = quyết định ở nhà (Past Simple, hành động xảy ra).
-- **Câu 5 — arrived / were waiting:** "When help **arrived**" = khi cứu trợ đến nơi (Past Simple sau "when"). "people **were waiting**" = mọi người đang chờ đợi (Past Continuous, hành động đang diễn ra khi cứu trợ đến).
+- **Câu 1 — donated:** Đây là hành động xảy ra và kết thúc trong quá khứ (last month) → dùng Past Simple: **donated**.
+- **Câu 2 — were you doing / was sleeping:** Hành động đang xảy ra khi núi lửa phun trào → Past Continuous: "What **were** you **doing**?" Trả lời: "I **was sleeping**."
+- **Câu 3 — were camping / came:** "While they **were camping**" = đang cắm trại (Past Continuous sau "while"). "The flood **came** suddenly" = lũ đến đột ngột (Past Simple).
+- **Câu 4 — ran / moved:** Hai hành động liên tiếp trong quá khứ (chạy ra → di chuyển) → cả hai dùng Past Simple: **ran** → **moved**.
+- **Câu 5 — wasn't reading / watched:** "I **wasn't reading** a newspaper at 9 a.m." = tại thời điểm cụ thể (9 a.m.) → Past Continuous. "but I **watched** the news" = hành động xảy ra và kết thúc → Past Simple.
 </explanation>
 
 <!-- chunk: exercise-3 -->
 <teacher_script pause="60">
-Bài 3, viết câu kết hợp 2 hành động dùng <eng>when</eng> hoặc <eng>while</eng> nha. Nhớ: hành động đang diễn ra → Past Continuous; hành động gián đoạn → Past Simple. Làm 2 phút đi, viết cẩn thận nha.
+Bài 3. <eng>Look at the picture and write what each person in Lan's family was doing when the earthquake happened.</eng> Nhìn tranh và viết mỗi người trong gia đình Lan đang làm gì khi động đất xảy ra nha. Có 5 từ gợi ý: <eng>watch TV, draw, read a book, drink tea, talk on the phone</eng>. Làm 2 phút đi.
 </teacher_script>
 
 <task>
-**Đề:** Combine the two actions into one sentence using "when" or "while". Use Past Continuous and Past Simple correctly.
-**Dịch đề:** Kết hợp hai hành động thành một câu dùng "when" hoặc "while". Sử dụng đúng Quá Khứ Tiếp Diễn và Quá Khứ Đơn.
+**Đề:** Look at the picture and write what each person in Lan's family was doing when the earthquake happened. Use the given words and phrases from the box.
+**Dịch đề:** Nhìn vào bức tranh và viết những gì mỗi người trong gia đình Lan đang làm khi trận động đất xảy ra. Sử dụng từ và cụm từ cho sẵn.
+
+**Word box:** *watch TV / draw / read a book / drink tea / talk on the phone*
 </task>
 
 <questions type="complete_sentences">
-**1.** Mi / study + earthquake / hit
-→ ______
+**1.** Lan's mother ______ while Lan's grandparents ______.
 
-**2.** parents / sleep + storm / start
-→ ______
+**2.** Lan's father ______ while he ______.
 
-**3.** Tom / walk home + begin / rain heavily
-→ ______
+**3.** Lan's family ______ when she ______.
 
-**4.** rescue workers / search + find survivor
-→ ______
-
-**5.** family / have dinner + hear loud noise
-→ ______
+**4.** Lan's brother ______ when she ______.
 </questions>
 
 <teacher_script pause="0">
-Đáp án bài 3 nè, mình đọc từng câu cho các em nghe.
+Đáp án bài 3 nè.
 </teacher_script>
 
 <answer>
 **Đáp án:**
-1. Mi was studying when the earthquake hit.
-2. While her parents were sleeping, the storm started. / Her parents were sleeping when the storm started.
-3. Tom was walking home when it began to rain heavily.
-4. While the rescue workers were searching, they found a survivor.
-5. The family was having dinner when they heard a loud noise.
+1. Lan's mother was reading a book while Lan's grandparents watched TV.
+2. Lan's father was drinking tea while he watched TV.
+3. Lan's family was watching TV when she talked on the phone.
+4. Lan's brother was drawing when she talked on the phone.
 </answer>
 
 <explanation>
-**Giải thích từng câu:**
-- **Câu 1:** "Mi was studying" = Mi đang học bài (Past Continuous) → "when the earthquake hit" = khi động đất ập đến (Past Simple gián đoạn). Dùng **when** vì hành động gián đoạn ngắn.
-- **Câu 2:** "her parents were sleeping" = bố mẹ đang ngủ (Past Continuous) → "the storm started" = bão bắt đầu (Past Simple). Có thể dùng **while** ở đầu hoặc **when** ở giữa, đều đúng nha!
-- **Câu 3:** "Tom was walking home" = Tom đang đi bộ về nhà (Past Continuous) → "it began to rain heavily" = bắt đầu mưa to (Past Simple). Dùng **when**.
-- **Câu 4:** "the rescue workers were searching" = nhân viên cứu hộ đang tìm kiếm (Past Continuous) → "they found a survivor" = tìm thấy người sống sót (Past Simple). Dùng **while** ở đầu câu.
-- **Câu 5:** "The family was having dinner" = gia đình đang ăn tối (Past Continuous) → "they heard a loud noise" = nghe tiếng động lớn (Past Simple). Đây chính xác là câu Tom kể trong hội thoại bài Getting Started đó nha!
+**Giải thích:**
+- **Câu 1:** Mẹ Lan đang đọc sách (Past Continuous: was reading) trong khi ông bà xem TV (Past Simple sau while).
+- **Câu 2:** Bố Lan đang uống trà (was drinking tea) trong khi xem TV (watched TV).
+- **Câu 3:** Gia đình Lan đang xem TV (was watching TV) khi cô ấy nói chuyện điện thoại (talked on the phone).
+- **Câu 4:** Em trai Lan đang vẽ (was drawing) khi cô ấy nói chuyện điện thoại.
 </explanation>
 
 <!-- chunk: exercise-4 -->
 <teacher_script pause="60">
-Bài 4, đặt câu hỏi từ gợi ý và trả lời nha. Dùng các từ hỏi <eng>what/where/was</eng> để đặt câu hỏi ở thì <eng>Past Continuous</eng>. Làm 1 phút đi.
+Bài 4. <eng>Form questions using the past continuous. Then in pairs, ask and answer the questions.</eng> Đặt câu hỏi dùng thì quá khứ tiếp diễn từ các gợi ý nha. Sau đó trả lời theo cặp. Làm 1 phút đi.
 </teacher_script>
 
 <task>
-**Đề:** Form questions using the prompts, then read the answers.
-**Dịch đề:** Đặt câu hỏi từ gợi ý, sau đó đọc câu trả lời.
+**Đề:** Form questions using the past continuous. Then in pairs, ask and answer the questions.
+**Dịch đề:** Hình thành câu hỏi sử dụng thì quá khứ tiếp diễn. Sau đó theo cặp, hỏi và trả lời các câu hỏi.
 </task>
 
 <questions type="complete_sentences">
-**1.** What / you / do / when / flood / come?
-→ Question: ______
-→ Answer: I was sleeping.
+**Example:** you / play / football / 5 o'clock yesterday afternoon?
+→ Were you playing football at 5 o'clock yesterday afternoon?
+→ Yes, I was. / No, I wasn't. I was doing my homework.
 
-**2.** Where / your family / be / when / earthquake / strike?
-→ Question: ______
-→ Answer: We were at the market.
+**1.** you / have dinner / 7 o'clock yesterday evening?
+→ ______
 
-**3.** It / rain / when / you / leave?
-→ Question: ______
-→ Answer: Yes, it was pouring.
+**2.** you / do / homework / 8 o'clock yesterday evening?
+→ ______
+
+**3.** you / watch / film / 9 o'clock yesterday evening?
+→ ______
 </questions>
 
 <teacher_script pause="0">
@@ -230,16 +240,49 @@ Bài 4, đặt câu hỏi từ gợi ý và trả lời nha. Dùng các từ h�
 
 <answer>
 **Đáp án:**
-1. What were you doing when the flood came?
-2. Where was your family when the earthquake struck?
-3. Was it raining when you left?
+1. Were you having dinner at 7 o'clock yesterday evening? — Yes, I was. / No, I wasn't. I was playing piano.
+2. Were you doing homework at 8 o'clock yesterday evening? — Yes, I was. / No, I wasn't. I was watching TV.
+3. Were you watching a film at 9 o'clock yesterday evening? — Yes, I was. / No, I wasn't. I was sleeping.
 </answer>
 
 <explanation>
-**Giải thích từng câu hỏi:**
-- **Câu 1:** Từ hỏi "What" + trợ động từ "were" + chủ ngữ "you" + V-ing "doing" → "What **were** you **doing** when the flood came?" Câu hỏi <eng>Past Continuous</eng> với "you" dùng **were**.
-- **Câu 2:** Từ hỏi "Where" + trợ động từ "was" + chủ ngữ "your family" → "Where **was** your family when the earthquake struck?" "Your family" = she/he/it → dùng **was**.
-- **Câu 3:** Câu hỏi Yes/No → đảo trợ động từ lên đầu → "**Was** it raining when you left?" — trả lời "Yes, it was pouring." (<eng>pour</eng> = mưa như trút nha).
+**Giải thích:**
+- Tất cả đều là câu hỏi Yes/No ở thì Past Continuous → cấu trúc: **Were** + you + V-ing + thời điểm?
+- **Câu 1:** "Were you **having** dinner at 7 o'clock?" — hỏi bạn có đang ăn tối lúc 7 giờ không.
+- **Câu 2:** "Were you **doing** homework at 8 o'clock?" — hỏi bạn có đang làm bài tập lúc 8 giờ không.
+- **Câu 3:** "Were you **watching** a film at 9 o'clock?" — hỏi bạn có đang xem phim lúc 9 giờ không.
+- Câu trả lời có thể "Yes, I was." hoặc "No, I wasn't. I was + V-ing (hành động khác)."
+</explanation>
+
+<!-- chunk: exercise-5 -->
+<teacher_script pause="60">
+Bài 5. <eng>Memory challenge. Work in groups. Take turns to say a sentence that describes what each person in the picture was doing.</eng> Thử thách trí nhớ nha! Nhìn tranh lớp học và mô tả mỗi người đang làm gì. Làm 1 phút đi.
+</teacher_script>
+
+<task>
+**Đề:** Memory challenge. Work in groups. Take turns to say a sentence that describes what each person in the picture was doing.
+**Dịch đề:** Thử thách trí nhớ. Làm việc nhóm. Thay phiên nhau nói một câu mô tả mỗi người trong tranh đang làm gì.
+</task>
+
+<questions type="speaking">
+Nhìn tranh lớp học và mô tả mỗi người đang làm gì. Dùng thì Past Continuous.
+</questions>
+
+<teacher_script pause="0">
+Gợi ý câu trả lời nè.
+</teacher_script>
+
+<answer>
+**Gợi ý:**
+1. Ann and Lan were singing while Nam was cleaning the board.
+2. Phong and Nick were playing chess while Mai was reading a book.
+3. Ha and Mi were talking to each other.
+</answer>
+
+<explanation>
+**Giải thích:**
+- Tất cả dùng Past Continuous (was/were + V-ing) vì mô tả hành động đang xảy ra tại một thời điểm trong quá khứ.
+- Có thể dùng **while** để nối hai hành động đang diễn ra cùng lúc: "Ann and Lan **were singing** while Nam **was cleaning** the board."
 </explanation>
 
 <teacher_script pause="0">

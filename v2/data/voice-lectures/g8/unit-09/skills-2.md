@@ -16,43 +16,67 @@ Ok bài <eng>Skills 2</eng> nha — nghe và viết. Hôm nay nghe chương trì
 7. **plaster** : (n) băng dán vết thương /ˈplɑːstər/
 8. **basic medicine** : (n) thuốc cơ bản /ˈbeɪsɪk ˈmedɪsɪn/
 9. **whistle** : (n) còi /ˈwɪsəl/
-10. **bottle of water** : (n) chai nước /ˈbɒtəl əv ˈwɔːtər/
-11. **flowerpot** : (n) chậu hoa /ˈflaʊərpɒt/
+10. **flowerpot** : (n) chậu hoa /ˈflaʊərpɒt/
+11. **rubbish bin** : (n) thùng rác /ˈrʌbɪʃ bɪn/
 12. **strengthen** : (v) gia cố, làm vững chắc hơn /ˈstreŋθən/
 13. **stay inside** : (phrase) ở trong nhà /steɪ ɪnˈsaɪd/
 14. **glass door** : (n) cửa kính /ɡlɑːs dɔːr/
 15. **broken power lines** : (n) dây điện đứt /ˈbroʊkən ˈpaʊər laɪnz/
-16. **dangerous** : (adj) nguy hiểm /ˈdeɪndʒərəs/
-17. **avoid** : (v) tránh /əˈvɔɪd/
-18. **instructions** : (n) hướng dẫn /ɪnˈstrʌkʃənz/
-19. **local authorities** : (n) chính quyền địa phương /ˈloʊkəl ɔːˈθɒrɪtiz/
-20. **follow** : (v) làm theo, tuân theo /ˈfɒloʊ/
+16. **avoid** : (v) tránh /əˈvɔɪd/
+17. **instructions** : (n) hướng dẫn /ɪnˈstrʌkʃənz/
+18. **local authorities** : (n) chính quyền địa phương /ˈloʊkəl ɔːˈθɒrɪtiz/
 </vocabulary>
 
 <teacher_script pause="0">
-Từ vựng xong rồi nha. Chú ý mấy từ quan trọng: <eng>plaster</eng> = băng dán vết thương (loại băng dán nhỏ), <eng>strengthen</eng> = gia cố (làm cho vững chắc hơn), <eng>avoid</eng> = tránh (không lại gần). Nhớ hết chưa? Giờ mình nghe chương trình radio nha!
+Từ vựng xong rồi nha. Chú ý mấy từ quan trọng: <eng>plaster</eng> = băng dán vết thương (loại băng dán nhỏ), <eng>strengthen</eng> = gia cố (làm cho vững chắc hơn), <eng>avoid</eng> = tránh (không lại gần), <eng>rubbish bin</eng> = thùng rác. Nhớ hết chưa? Giờ mình nghe chương trình radio nha!
 </teacher_script>
+
+<!-- chunk: exercise-1 -->
+<teacher_script pause="60">
+Bài 1. <eng>Work in pairs. Look at the picture and answer the questions.</eng> Nhìn hình bộ dụng cụ khẩn cấp và trả lời 2 câu hỏi nha. Làm 1 phút đi.
+</teacher_script>
+
+<task>
+**Đề:** Work in pairs. Look at the picture and answer the questions.
+**Dịch đề:** Làm việc theo cặp. Nhìn vào bức tranh và trả lời các câu hỏi.
+</task>
+
+<questions type="fill_blanks">
+**1.** What can you see in the picture?
+*Bạn có thể thấy gì trong bức tranh?*
+
+**2.** When do we need these things?
+*Khi nào chúng ta cần những thứ này?*
+</questions>
+
+<answer>
+**Đáp án:**
+1. I can see an emergency kit.
+2. We need these things when there is a natural disaster.
+</answer>
 
 <!-- chunk: listening -->
 <teacher_script pause="0">
-Bây giờ nghe chương trình radio đặc biệt của đài phát thanh địa phương về cách chuẩn bị ứng phó bão nha. Nghe kỹ để làm bài tập bên dưới. Nghe 2 lần nha.
+Bây giờ nghe chương trình radio đặc biệt của đài phát thanh xã An Bình về cách chuẩn bị ứng phó bão nha. Nghe kỹ để làm bài tập bên dưới.
 </teacher_script>
 
 <reading>
-**Radio Broadcast Script — Tapescript (for reference)**
+**Tapescript — Bài nghe (tham khảo)**
 
-"Good evening, everyone. This is your local radio station broadcasting a special storm preparation programme. The rainy season is here, and we want to help you and your family stay safe.
+This is An Binh Commune Radio Station. The rainy season is coming so today's special programme will tell you about what you should do before, during and after a storm. Before a storm, each family should prepare an emergency kit with necessary things like plasters, basic medicine, whistle, bottles of water, food etc. Bring in outdoor things like flowerpots or rubbish bin because they can get blown away by strong winds. Strengthen your house if necessary.
 
-Here are some important steps to follow:
+During a storm, stay inside. Even when the rain and winds stop, wait because the storm may start up again. Stay away from windows and glass doors. They could break and hurt you. Gather in the safest room in the house.
 
-**Before the storm:** First, prepare an emergency kit. It should include plasters, basic medicines, a whistle, and enough bottles of water for three days. Second, move all flowerpots and loose objects inside your home so they do not become dangerous in strong winds. Third, strengthen your doors and windows to protect your home from damage.
-
-**During the storm:** Stay inside your home and keep away from glass doors and windows — they can shatter in strong winds. Do not go outside unless it is absolutely necessary.
-
-**After the storm:** Wait for official instructions from the local authorities before going outside. Be very careful and avoid touching broken power lines — they are extremely dangerous and can cause serious injury or death.
-
-Stay safe, everyone. Follow these instructions carefully, and remember: your safety comes first."
+After the storm, don't leave your house right away. Listen to important instructions from local authorities. They may warn you about which parts of your area are dangerous and should be avoided. Stay away from broken power lines.
 </reading>
+
+<translation>
+Đây là Đài phát thanh xã An Bình. Mùa mưa bão sắp đến, chương trình đặc biệt hôm nay sẽ chia sẻ với các bạn những việc cần làm trước, trong và sau mưa bão. Trước khi có bão, mỗi gia đình nên chuẩn bị một bộ dụng cụ khẩn cấp với những thứ cần thiết như băng dán, các loại thuốc cơ bản, còi, các chai nước, thức ăn, v.v. Hãy mang vào nhà những thứ để ngoài trời như chậu hoa hoặc thùng rác vì chúng có thể bị gió mạnh thổi bay. Gia cố lại căn nhà của bạn nếu cần thiết.
+
+Trong cơn bão, hãy ở trong nhà. Ngay cả khi mưa và gió ngừng, hãy chờ đợi vì cơn bão có thể bắt đầu lại. Tránh xa các cửa sổ và cửa kính. Chúng có thể bị vỡ và làm bạn bị thương. Mọi người cùng tập hợp trong căn phòng an toàn nhất trong nhà.
+
+Sau cơn bão, đừng rời khỏi nhà ngay. Lắng nghe các hướng dẫn quan trọng từ chính quyền địa phương. Họ có thể cảnh báo bạn về những vùng nguy hiểm trong khu vực của bạn và nên tránh. Tránh xa các đường dây điện bị hỏng.
+</translation>
 
 <teacher_script pause="0">
 Ok nghe xong rồi nha. Bây giờ mình làm bài tập dựa trên chương trình radio đó.
@@ -60,27 +84,27 @@ Ok nghe xong rồi nha. Bây giờ mình làm bài tập dựa trên chương tr
 
 <!-- chunk: exercise-2 -->
 <teacher_script pause="60">
-Bài 2, phân loại các hành động vào 3 giai đoạn: Trước bão, Trong lúc bão, và Sau bão nha. Dựa vào những gì vừa nghe. Làm 1 phút đi.
+Bài 2. <eng>Listen to a broadcast. Put the activities (1–6) in the correct column.</eng> Phân loại 6 hoạt động vào 3 giai đoạn: Trước bão, Trong lúc bão, và Sau bão nha. Làm 1 phút đi.
 </teacher_script>
 
 <task>
-**Đề:** Classify the following actions into the correct stage: Before the Storm / During the Storm / After the Storm.
-**Dịch đề:** Phân loại các hành động sau vào giai đoạn đúng: Trước bão / Trong lúc bão / Sau bão.
+**Đề:** Listen to a broadcast. Put the activities (1–6) in the correct column.
+**Dịch đề:** Nghe một chương trình phát sóng. Đặt các hoạt động (1–6) vào đúng cột.
 </task>
 
 <questions type="matching">
-**Actions:**
-a. Prepare an emergency kit with medicine and water.
-b. Stay inside and keep away from glass doors.
-c. Follow instructions from local authorities.
-d. Move flowerpots and loose objects inside.
-e. Avoid touching broken power lines.
-f. Strengthen doors and windows.
+**Activities:**
+1. Listen to instructions from local authorities.
+2. Prepare an emergency kit.
+3. Stay inside the house.
+4. Keep away from dangerous areas.
+5. Avoid windows and glass doors.
+6. Strengthen houses.
 
 **Stages:**
-- **Before the Storm** (Trước bão)
-- **During the Storm** (Trong lúc bão)
-- **After the Storm** (Sau bão)
+- **Before a storm** (Trước bão)
+- **During a storm** (Trong bão)
+- **After a storm** (Sau bão)
 </questions>
 
 <teacher_script pause="0">
@@ -89,43 +113,43 @@ f. Strengthen doors and windows.
 
 <answer>
 **Đáp án:**
-- **Before the Storm:** a (prepare emergency kit), d (move flowerpots inside), f (strengthen doors and windows)
-- **During the Storm:** b (stay inside, keep away from glass doors)
-- **After the Storm:** c (follow instructions from authorities), e (avoid broken power lines)
+- **Before a storm:** 2 (Prepare an emergency kit), 6 (Strengthen houses)
+- **During a storm:** 3 (Stay inside the house), 5 (Avoid windows and glass doors)
+- **After a storm:** 1 (Listen to instructions from local authorities), 4 (Keep away from dangerous areas)
 </answer>
 
 <explanation>
-**Giải thích từng hành động:**
-- **a — Before:** Chuẩn bị bộ dụng cụ khẩn cấp phải làm TRƯỚC khi bão đến — khi bão đang xảy ra thì không kịp nữa.
-- **d — Before:** Dời chậu hoa và đồ vật lỏng lẻo vào trong TRƯỚC bão để chúng không trở thành vật nguy hiểm khi gió mạnh thổi.
-- **f — Before:** Gia cố cửa ra vào và cửa sổ phải làm TRƯỚC bão để bảo vệ nhà.
-- **b — During:** TRONG lúc bão phải ở trong nhà và tránh xa cửa kính vì kính có thể vỡ.
-- **c — After:** SAU bão, chờ hướng dẫn chính thức từ chính quyền mới ra ngoài — không tự ý ra trước.
-- **e — After:** SAU bão mới đi ra ngoài, và phải tránh dây điện đứt — rất nguy hiểm, có thể gây chết người.
+**Giải thích từng hoạt động:**
+- **2 — Before:** Chuẩn bị bộ dụng cụ khẩn cấp phải làm TRƯỚC khi bão đến — "each family should prepare an emergency kit."
+- **6 — Before:** Gia cố nhà cửa phải làm TRƯỚC bão — "Strengthen your house if necessary."
+- **3 — During:** TRONG lúc bão phải ở trong nhà — "During a storm, stay inside."
+- **5 — During:** TRONG lúc bão tránh xa cửa sổ và cửa kính — "Stay away from windows and glass doors."
+- **1 — After:** SAU bão, nghe hướng dẫn từ chính quyền — "Listen to important instructions from local authorities."
+- **4 — After:** SAU bão, tránh xa khu vực nguy hiểm — "They may warn you about which parts of your area are dangerous."
 </explanation>
 
 <!-- chunk: exercise-3 -->
 <teacher_script pause="60">
-Bài 3, nghe lại và xác định câu đúng hay sai nha. Dựa vào nội dung chương trình radio vừa nghe. Làm 1 phút đi.
+Bài 3. <eng>Listen again and tick T (True) or F (False) for each sentence.</eng> Nghe lại và xác định câu đúng hay sai nha. 4 câu. Làm 1 phút đi.
 </teacher_script>
 
 <task>
-**Đề:** Listen again and decide if the statements are True (T) or False (F).
-**Dịch đề:** Nghe lại và xác định các câu sau là Đúng (T) hay Sai (F).
+**Đề:** Listen again and tick T (True) or F (False) for each sentence.
+**Dịch đề:** Nghe lại và đánh dấu T (Đúng) hoặc F (Sai) cho mỗi câu.
 </task>
 
 <questions type="true_false">
-**1.** Not everyone needs to prepare for a storm — only those who live near the coast.
-*Không phải ai cũng cần chuẩn bị ứng phó bão — chỉ những người sống gần bờ biển thôi.*
+**1.** The broadcast is on TV.
+*Chương trình phát sóng trên TV.*
 
-**2.** The emergency kit should include plasters and basic medicines.
-*Bộ dụng cụ khẩn cấp nên có băng dán vết thương và thuốc cơ bản.*
+**2.** You should bring flowerpots and rubbish bins into the house.
+*Bạn nên mang chậu hoa và thùng rác vào trong nhà.*
 
-**3.** You should throw away all flowerpots before the storm.
-*Bạn nên vứt bỏ tất cả chậu hoa trước khi bão đến.*
+**3.** Right after the storm, you can leave your home.
+*Ngay sau khi bão qua, bạn có thể rời khỏi nhà.*
 
-**4.** After the storm, you should avoid touching broken power lines.
-*Sau bão, bạn nên tránh chạm vào dây điện bị đứt.*
+**4.** The local authority may warn you about dangerous places.
+*Chính quyền địa phương có thể cảnh báo bạn về những nơi nguy hiểm.*
 </questions>
 
 <teacher_script pause="0">
@@ -139,66 +163,90 @@ Bài 3, nghe lại và xác định câu đúng hay sai nha. Dựa vào nội du
 
 <explanation>
 **Giải thích từng câu:**
-- **Câu 1 — False:** Chương trình radio nói "we want to help YOU and YOUR FAMILY stay safe" — tức là tất cả mọi người đều cần chuẩn bị, không phải chỉ người sống gần biển. Sai nha!
-- **Câu 2 — True:** Chương trình nói rõ: "emergency kit should include plasters, basic medicines, a whistle, and enough bottles of water." Đúng.
-- **Câu 3 — False:** Chương trình nói "move all flowerpots...INSIDE your home" — MANG VÀO TRONG nhà, không phải vứt đi. Sai nha!
-- **Câu 4 — True:** Chương trình nói rõ: "avoid touching broken power lines — they are extremely dangerous." Đúng hoàn toàn.
+- **Câu 1 — False:** Chương trình nói: "This is An Binh Commune Radio Station." — Đây là đài phát thanh (radio), không phải TV. Sai nha!
+- **Câu 2 — True:** Chương trình nói: "Bring in outdoor things like flowerpots or rubbish bin because they can get blown away by strong winds." — Mang chậu hoa và thùng rác vào trong nhà vì gió mạnh có thể thổi bay. Đúng.
+- **Câu 3 — False:** Chương trình nói: "After the storm, don't leave your house right away." — ĐỪNG rời nhà ngay sau bão. Sai nha!
+- **Câu 4 — True:** Chương trình nói: "They may warn you about which parts of your area are dangerous and should be avoided." — Chính quyền có thể cảnh báo về khu vực nguy hiểm. Đúng.
 </explanation>
 
 <!-- chunk: writing -->
 <teacher_script pause="0">
-Bây giờ mình học viết nha — <eng>Writing</eng>. Dựa vào những gì đã học, các em sẽ viết một bài hướng dẫn chuẩn bị ứng phó lũ lụt theo 3 giai đoạn. Nghe đoạn mẫu trước nhé.
+Bây giờ mình sang phần viết nha — <eng>Writing</eng>.
+</teacher_script>
+
+<!-- chunk: exercise-4 -->
+<teacher_script pause="60">
+Bài 4. <eng>Work in pairs. Discuss what you should do before, during and after a flood. Write your ideas in the columns.</eng> Thảo luận theo cặp về những gì nên làm trước, trong và sau lũ lụt nha. Viết ý tưởng vào 3 cột. Làm 1 phút đi.
 </teacher_script>
 
 <task>
-**Đề:** Write a guide for flood preparation. Organize your writing into three stages: Before / During / After a flood. Write at least 3 sentences for each stage.
-**Dịch đề:** Viết một bài hướng dẫn chuẩn bị ứng phó lũ lụt. Tổ chức bài viết thành 3 giai đoạn: Trước / Trong lúc / Sau lũ lụt. Viết ít nhất 3 câu cho mỗi giai đoạn.
+**Đề:** Work in pairs. Discuss what you should do before, during and after a flood. Write your ideas in the columns.
+**Dịch đề:** Làm việc theo cặp. Thảo luận về những gì bạn nên làm trước, trong và sau lũ lụt. Viết ý tưởng của bạn trong các cột.
+</task>
+
+<questions type="writing">
+| **Before a flood** | **During a flood** | **After a flood** |
+|--------------------|--------------------|-------------------|
+| | | |
+</questions>
+
+<answer>
+**Gợi ý:**
+- **Before:** Prepare an emergency kit. Listen to local radio. Move important things to higher places.
+- **During:** Stay inside a safe and high place. Follow the routes specified by officials.
+- **After:** Avoid moving water. Return home only when authorities say it is safe.
+</answer>
+
+<!-- chunk: exercise-5 -->
+<teacher_script pause="0">
+Bài 5. <eng>Write instructions (80–100 words) about things to do before, during, and after a flood.</eng> Viết hướng dẫn về những việc cần làm trước, trong và sau lũ lụt nha — 80 đến 100 từ.
+</teacher_script>
+
+<task>
+**Đề:** Write instructions (80–100 words) about things to do before, during, and after a flood.
+**Dịch đề:** Viết hướng dẫn (80–100 từ) về những việc cần làm trước, trong và sau lũ lụt.
 </task>
 
 <reading>
 **Model Writing — Bài viết mẫu:**
 
-**Before a flood:**
-1. Listen to flood warnings on the radio or television regularly.
-2. Move important belongings, furniture, and documents to higher places.
-3. Prepare an emergency kit with food, clean water, medicine, and a whistle.
-4. Strengthen your doors and windows to prevent water from entering.
+Here are things you should do before, during and after a flood.
 
-**During a flood:**
-1. Stay inside if the water level outside is not yet dangerous.
-2. Avoid walking or driving through floodwater — it can be deeper than it looks.
-3. Move to higher ground or upper floors if the water level rises quickly.
-4. Call for help or use your whistle to signal rescuers if you are trapped.
+**Before:**
+- Prepare an emergency kit with necessary things.
+- Listen to local radio for warnings.
+- Protect your valuables in waterproof containers. Place them above potential water levels.
 
-**After a flood:**
-1. Wait for official permission from local authorities before returning home.
-2. Avoid drinking tap water — it may be contaminated and unsafe.
-3. Help your neighbours who may need assistance cleaning up or moving.
-4. Follow all instructions from local authorities and rescue workers.
+**During:**
+- Stay inside a safe and high place.
+- Follow the routes specified by officials.
+
+**After:**
+- Avoid moving water.
+- Emergency workers will be assisting people in flooded areas.
+- Return home only when authorities indicate it is safe.
 </reading>
 
 <translation>
-**Trước lũ lụt:**
-1. Nghe cảnh báo lũ lụt trên radio hoặc truyền hình thường xuyên.
-2. Chuyển đồ đạc quan trọng, nội thất và giấy tờ lên chỗ cao hơn.
-3. Chuẩn bị bộ dụng cụ khẩn cấp với thức ăn, nước sạch, thuốc và còi.
-4. Gia cố cửa ra vào và cửa sổ để ngăn nước tràn vào.
+Đây là những việc bạn nên làm trước, trong và sau lũ lụt.
 
-**Trong lúc lũ:**
-1. Ở trong nhà nếu mực nước bên ngoài chưa nguy hiểm.
-2. Tránh đi bộ hoặc lái xe qua vùng ngập — có thể sâu hơn nhìn thấy.
-3. Di chuyển lên nơi cao hoặc tầng trên nếu mực nước tăng nhanh.
-4. Gọi cứu trợ hoặc dùng còi ra hiệu cho nhân viên cứu hộ nếu bị mắc kẹt.
+**Trước:**
+- Chuẩn bị bộ dụng cụ khẩn cấp với những thứ cần thiết.
+- Nghe đài địa phương để biết cảnh báo.
+- Bảo vệ đồ có giá trị trong thùng chống nước. Đặt chúng lên cao hơn mực nước có thể dâng.
 
-**Sau lũ lụt:**
-1. Chờ được phép chính thức từ chính quyền địa phương trước khi về nhà.
-2. Tránh uống nước máy — có thể bị ô nhiễm và không an toàn.
-3. Giúp đỡ hàng xóm có thể cần hỗ trợ dọn dẹp hoặc di chuyển.
-4. Làm theo tất cả hướng dẫn từ chính quyền địa phương và nhân viên cứu hộ.
+**Trong khi:**
+- Ở trong nơi an toàn và cao.
+- Làm theo những tuyến đường do cơ quan chức năng chỉ định.
+
+**Sau:**
+- Tránh dòng nước đang chảy.
+- Nhân viên cứu hộ sẽ hỗ trợ người dân vùng lũ.
+- Chỉ trở về nhà khi chính quyền cho biết đã an toàn.
 </translation>
 
 <teacher_script pause="300" action="photo">
-Bây giờ các em tự viết bài hướng dẫn ứng phó lũ lụt nha — theo cấu trúc Before/During/After, ít nhất 3 câu mỗi phần. Dùng bài mẫu làm gợi ý nhưng viết bằng lời của mình nha, đừng chép nguyên xi. Thầy/cô cho 5 phút. Viết xong thì chụp ảnh bài và nộp nha!
+Bây giờ các em tự viết bài hướng dẫn ứng phó lũ lụt nha — theo cấu trúc Before/During/After, 80 đến 100 từ. Dùng bài mẫu làm gợi ý nhưng viết bằng lời của mình nha, đừng chép nguyên xi. Thầy/cô cho 5 phút. Viết xong thì chụp ảnh bài và nộp nha!
 </teacher_script>
 
 <teacher_script pause="0">
