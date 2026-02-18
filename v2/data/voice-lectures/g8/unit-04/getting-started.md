@@ -28,7 +28,7 @@ Ok lớp 8, Unit 4 nha - <eng>Ethnic Groups of Viet Nam</eng>. Mở sách trang 
 
 <!-- chunk: dialogue -->
 <teacher_script pause="0">
-Ok, giờ nghe hội thoại bài 1 nha. Phong và Nick đang nói chuyện về chuyến đi thực địa của Nick. Nghe audio rồi đọc theo, vừa nghe vừa nhìn bảng dịch luôn.
+Ok, giờ nghe hội thoại bài 1 nha. Tom gặp Lai - một bạn học sinh người dân tộc Tày từ Hà Giang. Nghe audio rồi đọc theo, vừa nghe vừa nhìn bảng dịch luôn.
 </teacher_script>
 
 <reading>
@@ -38,17 +38,17 @@ Ok, giờ nghe hội thoại bài 1 nha. Phong và Nick đang nói chuyện về
 <dialogue>
 | English | Vietnamese |
 |---------|------------|
-| **Phong:** Hi Nick! You look happy. Where have you been? | **Phong:** Chào Nick! Trông bạn có vẻ vui. Bạn vừa đi đâu về vậy? |
-| **Nick:** I just came back from a field trip to the northern highlands. It was amazing! | **Nick:** Mình vừa về từ một chuyến đi thực tế ở vùng cao phía Bắc. Thật tuyệt vời! |
-| **Phong:** Really? What did you see there? | **Phong:** Thật sao? Bạn thấy gì ở đó vậy? |
-| **Nick:** I learned a lot about the ethnic groups of Vietnam. Did you know that there are 54 of them? | **Nick:** Mình đã tìm hiểu rất nhiều về các dân tộc ở Việt Nam. Bạn có biết là có đến 54 dân tộc không? |
-| **Phong:** Wow, I only knew about the Kinh. They are the largest group, right? | **Phong:** Ồ, mình chỉ biết người Kinh thôi. Họ là nhóm lớn nhất phải không? |
-| **Nick:** That's right. And I saw so many amazing things — stilt houses built on wooden posts, terraced fields cut into the hillsides. Awesome! | **Nick:** Đúng vậy. Và mình đã thấy rất nhiều thứ tuyệt vời — những ngôi nhà sàn được xây trên cột gỗ, những ruộng bậc thang chạy dài trên sườn đồi. Tuyệt lắm! |
-| **Phong:** That sounds incredible! What else did you find out? | **Phong:** Nghe có vẻ ấn tượng thật! Bạn còn khám phá ra điều gì nữa không? |
-| **Nick:** Each ethnic group has its own culture — their own folk dances and musical instruments. I even got to taste five-colour sticky rice! | **Nick:** Mỗi dân tộc có văn hóa riêng — những điệu múa dân gian và nhạc cụ truyền thống riêng. Mình còn được thử xôi ngũ sắc nữa! |
-| **Phong:** Five-colour sticky rice? That's something I've always wanted to try! | **Phong:** Xôi ngũ sắc à? Đó là thứ mình luôn muốn thử! |
-| **Nick:** You should! And there are so many other minority groups — the Nung, Hmong, Cham, Ede, Bahnar, and Khmer. Each one has unique costumes and traditions. | **Nick:** Bạn nên thử đi! Và còn rất nhiều nhóm dân tộc thiểu số khác — Nùng, Hmông, Chăm, Ê Đê, Ba Na và Khmer. Mỗi nhóm có trang phục và truyền thống riêng độc đáo. |
-| **Phong:** I'd love to visit those places someday and see their traditional culture! | **Phong:** Mình rất muốn đến thăm những nơi đó và tìm hiểu văn hóa truyền thống của họ! |
+| **Tom:** Hi, I'm Tom. You look new here. | **Tom:** Xin chào, mình là Tom. Trông cậu giống người mới đến đây. |
+| **Lai:** I am. I'm Lai from Ha Giang. | **Lai:** Đúng rồi. Mình là Lai đến từ Hà Giang. |
+| **Tom:** Oh, I've heard about beautiful Ha Giang. Do you live in the mountains? | **Tom:** Ồ, mình đã nghe về tỉnh Hà Giang tươi đẹp rồi. Cậu có sống trên những ngọn núi không? |
+| **Lai:** Yes, I do. I'm from the Tay ethnic group. We are the second largest ethnic group in Viet Nam, only after the Kinh. | **Lai:** Có chứ. Mình là người Tày. Dân tộc mình lớn thứ hai ở Việt Nam, chỉ sau người Kinh. |
+| **Tom:** Oh... I once saw a bamboo house on high posts in a travel brochure. Do you live in a home like that? | **Tom:** Ồ… mình từng thấy một ngôi nhà tre trên một tờ gấp quảng cáo du lịch. Cậu có sống ở một căn nhà như thế không? |
+| **Lai:** Yes, we call it a "stilt house". Our house overlooks terraced fields. | **Lai:** Có chứ, người ta gọi đó là nhà sàn. Nhà mình thì nhìn ra được ruộng bậc thang. |
+| **Tom:** Awesome. What is life in your village like? | **Tom:** Tuyệt vời. Cuộc sống ở làng bạn như thế nào? |
+| **Lai:** It's peaceful. There are 16 houses in my village. We live very close to nature. | **Lai:** Nó rất là yên bình. Có 16 ngôi nhà trong làng mình. Làng mình sống rất gần gũi với thiên nhiên. |
+| **Tom:** I love it. Can you tell me something about your culture? | **Tom:** Thích quá. Cậu có thể nói cho mình biết một vài thứ về văn hóa làng cậu không? |
+| **Lai:** Certainly. We have our own culture. You can see it in our folk dances, musical instruments like the dan tinh, and our special five-colour sticky rice. | **Lai:** Chắc chắn rồi. Tụi mình có nền văn hóa riêng. Cậu có thể thấy nó trong các điệu dân vũ, hay các nhạc cụ như đàn tính và món xôi ngũ sắc đặc biệt. |
+| **Tom:** It sounds interesting. I hope to visit Ha Giang one day. | **Tom:** Nghe thú vị quá. Mong là ngày nào đó mình sẽ được đến thăm Hà Giang. |
 </dialogue>
 
 <teacher_script pause="180">
@@ -66,23 +66,23 @@ Xong rồi làm bài 2 nha. Bài <eng>multiple choice</eng> — chọn đáp án
 </task>
 
 <questions type="multiple_choice">
-**1.** How many ethnic groups are there in Vietnam?
-- A. 45
-- B. 52
-- C. 54
-*Có bao nhiêu dân tộc ở Việt Nam?*
+**1.** What are Tom and Lai talking about?
+- A. Minority groups in Viet Nam.
+- B. Ha Giang.
+- C. Life of the Tay people.
+*Tom và Lai đang nói về điều gì?*
 
-**2.** What makes a stilt house special?
-- A. It is made entirely of bamboo
-- B. It is built on posts above the ground
-- C. It has terraced fields around it
-*Điều gì làm cho nhà sàn đặc biệt?*
+**2.** A "stilt house" _______.
+- A. is a multi-storey home
+- B. is on high posts
+- C. always faces a field
+*Một "nhà sàn" _______.*
 
-**3.** What does each ethnic group have?
-- A. Its own culture and traditions
-- B. The same type of house
-- C. Similar costumes to other groups
-*Mỗi dân tộc có gì?*
+**3.** Lai mentions _______ of the Tay people.
+- A. folk dances
+- B. popular festivals
+- C. costumes
+*Lai đề cập đến _______ của người Tày.*
 </questions>
 
 <teacher_script pause="0">
@@ -92,11 +92,11 @@ Ok đáp án nha.
 <answer>
 **Đáp án:** 1.C | 2.B | 3.A
 
-**1.C** — Nick nói rõ trong hội thoại: *"there are 54 of them"* — Việt Nam có 54 dân tộc. A (45) và B (52) đều sai nha.
+**1.C** — Hội thoại chủ yếu nói về cuộc sống của người Tày ở làng Lai: nhà sàn, ruộng bậc thang, văn hóa, đàn tính, xôi ngũ sắc.
 
-**2.B** — Nick mô tả: *"stilt houses built on wooden posts"* — nhà sàn đặc biệt vì được xây trên các cột gỗ cao trên mặt đất. Không phải làm bằng tre hoàn toàn, cũng không có ruộng bậc thang xung quanh.
+**2.B** — Tom nói: *"a bamboo house on high posts"* và Lai xác nhận đó là nhà sàn (*stilt house*) → được xây trên các cột cao.
 
-**3.A** — Nick giải thích: *"Each ethnic group has its own culture — their own folk dances and musical instruments"* — mỗi dân tộc có văn hóa và truyền thống riêng. Không phải nhà giống nhau hay trang phục tương tự nhau nha.
+**3.A** — Lai nói: *"You can see it in our folk dances, musical instruments like the dan tinh..."* → múa dân gian.
 </answer>
 
 <!-- chunk: exercise-3 -->

@@ -58,12 +58,12 @@ Bài 1. Đọc hội thoại mẫu và nhận xét cách mời và trả lời n
 <dialogue>
 | English | Vietnamese |
 |---------|------------|
-| **Giang:** Would you like to play badminton with me this afternoon? | **Giang:** Bạn có muốn chơi cầu lông với mình chiều nay không? |
-| **Linh:** I'd love to. Thanks. | **Linh:** Tôi rất muốn. Cảm ơn bạn. |
-| **Tom:** Do you fancy making paper flowers with me? | **Tom:** Bạn có muốn làm hoa giấy với tôi không? |
-| **Linh:** That's great. Thanks. | **Linh:** Tuyệt vời. Cảm ơn bạn. |
-| **Giang:** Would you like to try my home-made pizza? | **Giang:** Bạn có muốn thử bánh pizza tự làm của tôi không? |
-| **Linh:** I'd love to. Thanks. | **Linh:** Tôi rất muốn. Cảm ơn. |
+| **(1)** | |
+| **Trang:** Would you like to go to the cooking club with me this Sunday? | **Trang:** Cậu có muốn đến câu lạc bộ nấu ăn với mình vào Chủ nhật không? |
+| **Ann:** I'd love to. Thanks. | **Ann:** Mình muốn chứ. Cảm ơn. |
+| **(2)** | |
+| **Tom:** Do you fancy going for a walk? | **Tom:** Cậu có muốn đi dạo không? |
+| **Mark:** That's great. Thanks. | **Mark:** Tuyệt quá. Cảm ơn. |
 </dialogue>
 
 <!-- chunk: exercise_2 -->

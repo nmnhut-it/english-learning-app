@@ -27,45 +27,28 @@ Ok lớp 8, Unit 6 nha - LIFESTYLES - Lối sống. Mở sách trang đầu Unit
 
 <!-- chunk: dialogue -->
 <teacher_script pause="0">
-Nghe xong từ vựng rồi hen. Giờ mình qua phần hội thoại nha. Bài 1 <eng>Listen and read</eng> - nghe và đọc hội thoại giữa <eng>Nam</eng> và <eng>Tom</eng> - hai bạn học sinh đến từ hai đất nước khác nhau. Bấm nút nghe audio đi.
+Nghe xong từ vựng rồi hen. Giờ mình qua phần hội thoại nha. Bài 1 <eng>Listen and read</eng> - nghe và đọc hội thoại giữa <eng>Nam</eng> và <eng>Tom</eng>. Tom là bạn nước ngoài đang sống ở Việt Nam, bạn ấy chia sẻ về sự khác biệt giữa hai đất nước. Bấm nút nghe audio đi.
 </teacher_script>
 
 <reading>
 [Audio: https://img.loigiaihay.com/picture/2023/0803/track-32.mp3]
-
-**Nam:** Hey Tom! How are things going?
-**Tom:** Pretty good, thanks! You look excited. What's up?
-**Nam:** I just watched a documentary about different lifestyles around the world. It was so fascinating!
-**Tom:** Oh really? What did you notice?
-**Nam:** Well, in my country, students always greet their teachers by title — like "Teacher" or "Professor." We never call them by their surname.
-**Tom:** Interesting! In my country, we address teachers as Mr., Mrs., or Miss plus their surname.
-**Nam:** And did you know? In my country, it's really common for people to eat breakfast outside — on the streets. Street food is everywhere!
-**Tom:** That's quite different from my country. Adults typically eat breakfast at home.
-**Nam:** Also, people in my country usually buy and sell food on the streets. It's so lively!
-**Tom:** Here, people typically buy food at a restaurant. It's more formal.
-**Nam:** Different lifestyles are really interesting, aren't they?
-**Tom:** They sure are! A balanced diet can come in so many forms depending on where you live.
 </reading>
-
-<teacher_script pause="0">
-Ok, mình đọc lại hội thoại một lần nữa nha. Vừa đọc vừa nhìn bảng dịch bên dưới.
-</teacher_script>
 
 <dialogue>
 | English | Vietnamese |
 |---------|------------|
-| **Nam:** Hey Tom! How are things going? | **Nam:** Ê Tom! Dạo này thế nào rồi? |
-| **Tom:** Pretty good, thanks! You look excited. What's up? | **Tom:** Khá tốt, cảm ơn! Bạn trông hào hứng vậy. Có chuyện gì thế? |
-| **Nam:** I just watched a documentary about different lifestyles around the world. It was so fascinating! | **Nam:** Tớ vừa xem một bộ phim tài liệu về lối sống khác nhau trên thế giới. Thật hấp dẫn! |
-| **Tom:** Oh really? What did you notice? | **Tom:** Ồ thật à? Bạn nhận thấy điều gì? |
-| **Nam:** Well, in my country, students always greet their teachers by title — like "Teacher" or "Professor." We never call them by their surname. | **Nam:** À, ở đất nước tớ, học sinh luôn chào thầy cô bằng danh hiệu — như "Thầy" hay "Cô." Chúng tớ không bao giờ gọi thầy cô bằng họ. |
-| **Tom:** Interesting! In my country, we address teachers as Mr., Mrs., or Miss plus their surname. | **Tom:** Thú vị thật! Ở đất nước tớ, chúng tớ gọi thầy cô là Thầy/Cô kèm họ của họ. |
-| **Nam:** And did you know? In my country, it's really common for people to eat breakfast outside — on the streets. Street food is everywhere! | **Nam:** Và bạn có biết không? Ở đất nước tớ, mọi người thường ăn sáng bên ngoài — trên đường phố. Thức ăn đường phố có khắp nơi! |
-| **Tom:** That's quite different from my country. Adults typically eat breakfast at home. | **Tom:** Điều đó khá khác với đất nước tớ. Người lớn thường ăn sáng ở nhà. |
-| **Nam:** Also, people in my country usually buy and sell food on the streets. It's so lively! | **Nam:** Ngoài ra, người dân ở đất nước tớ thường mua và bán thức ăn trên đường phố. Rất sôi động! |
-| **Tom:** Here, people typically buy food at a restaurant. It's more formal. | **Tom:** Ở đây, mọi người thường mua thức ăn tại nhà hàng. Trang trọng hơn. |
-| **Nam:** Different lifestyles are really interesting, aren't they? | **Nam:** Lối sống khác nhau thật thú vị phải không? |
-| **Tom:** They sure are! A balanced diet can come in so many forms depending on where you live. | **Tom:** Đúng vậy! Chế độ ăn cân đối có thể có nhiều hình thức tùy vào nơi bạn sống. |
+| **Nam:** Hello, Tom. How're things? | **Nam:** Chào Tom. Mọi chuyện thế nào rồi? |
+| **Tom:** Oh good. I like it here. The lifestyle is interesting and different from that in my country. | **Tom:** Ồ tốt mà. Mình thích ở đây. Lối sống ở đây rất thú vị và khác biệt với đất nước mình. |
+| **Nam:** Really? | **Nam:** Thật không? |
+| **Tom:** Sure. Students here call their teachers by their title "teacher", not by their names. | **Tom:** Chắc chứ. Học sinh ở đây chỉ gọi giáo viên của họ bằng chức danh "thầy hoặc cô" thôi, không gọi tên. |
+| **Nam:** Right. How do you greet your teachers? | **Nam:** Đúng rồi. Cậu chào giáo viên như thế nào? |
+| **Tom:** We usually say "Hello" or "Good morning" then Mr, Mrs, or Miss and their surnames, for example "Good morning, Mr Smith." | **Tom:** Tụi mình thường nói "Xin chào" hoặc "Chào buổi sáng" sau đó là thầy hoặc cô và họ của người đó, ví dụ như là "Chào buổi sáng, thầy Smith." |
+| **Nam:** Are there other differences? | **Nam:** Còn những khác biệt nào khác không? |
+| **Tom:** People buy and sell a lot of street food here. In my country, people usually buy food in a store or a restaurant. | **Tom:** Mọi người mua và bán rất nhiều đồ ăn trên đường. Ở đất nước của mình thì mọi người chỉ mua đồ ăn trong tiệm hoặc nhà hàng. |
+| **Nam:** Yeah. Buying street food is a common practice in my city. | **Nam:** Đúng rồi. Mua đồ ăn trên đường là một thói quen phổ biến ở đất nước mình. |
+| **Tom:** And I've noticed that many people have breakfast on the street too! In my country, we typically have a light breakfast at home. | **Tom:** Và mình cũng để ý là nhiều người cũng ăn sáng ở trên đường nữa! Ở đất nước của mình, mọi người thường có một bữa sáng nhẹ ở nhà. |
+| **Nam:** I see. But here many adults are in the habit of having breakfast outside of their homes. If they're not in a hurry, they'll even have a leisurely coffee there. | **Nam:** Mình biết. Nhưng mà ở đây có nhiều người lớn có thói quen ăn sáng ở ngoài. Nếu họ không vội, họ sẽ thảnh thơi uống cà phê ở đó nữa. |
+| **Tom:** That's fascinating! | **Tom:** Nghe thú vị đấy! |
 </dialogue>
 
 <teacher_script pause="180">
@@ -82,12 +65,14 @@ Ok bài 2 nha. Nhìn vào bảng, điền thông tin về đất nước của N
 **Dịch đề:** Hoàn thành bảng với thông tin từ hội thoại.
 </task>
 
-<questions type="matching">
-| | Nam's country | Tom's country |
-|---|---|---|
-| **1.** How students greet teachers | _______ | _______ |
-| **2.** Breakfast habits | _______ | _______ |
-| **3.** Where people buy food | _______ | _______ |
+<questions type="fill_blanks">
+**Read the conversation again and complete the table.**
+
+| **In Nam's country** | **In Tom's country** |
+|---|---|
+| Students greet teachers by their title. | Students refer to their teachers as Mr, Mrs, or Miss and their teachers' (1) _______. |
+| People eat breakfast (2) _______. | People eat breakfast at home. |
+| People buy and sell food on the roadside. | People often buy food in a (3) _______. |
 </questions>
 
 <teacher_script pause="0">
@@ -95,17 +80,13 @@ Ok đáp án bài 2 nè.
 </teacher_script>
 
 <answer>
-| | Nam's country | Tom's country |
-|---|---|---|
-| **1.** How students greet teachers | By title (Teacher / Professor) | Mr. / Mrs. / Miss + surname |
-| **2.** Breakfast habits | Outside on the streets | At home |
-| **3.** Where people buy food | On the streets | At a restaurant |
+**Đáp án:** 1. surnames | 2. on the street | 3. store or restaurant
 </answer>
 
 <explanation>
-- **Câu 1:** Nam nói: *"students always greet their teachers by title — like Teacher or Professor"* → Nam dùng danh hiệu. Tom nói: *"we address teachers as Mr., Mrs., or Miss plus their surname"* → Tom dùng họ.
-- **Câu 2:** Nam nói: *"it's really common for people to eat breakfast outside — on the streets"* → ăn sáng ngoài đường. Tom nói: *"Adults typically eat breakfast at home"* → ăn sáng ở nhà.
-- **Câu 3:** Nam nói: *"people usually buy and sell food on the streets"* → mua thức ăn trên đường phố. Tom nói: *"people typically buy food at a restaurant"* → mua thức ăn ở nhà hàng.
+- **Câu 1 - surnames:** Tom nói *"Mr, Mrs, or Miss and their surnames"* → học sinh gọi thầy cô kèm theo họ.
+- **Câu 2 - on the street:** Tom nói *"many people have breakfast on the street"* → ăn sáng ngoài đường.
+- **Câu 3 - store or restaurant:** Tom nói *"In my country, people usually buy food in a store or a restaurant."*
 </explanation>
 
 <!-- chunk: exercise-3 -->
@@ -114,25 +95,27 @@ Bài 3 nha. Điền từ vào chỗ trống. Dùng những từ này: <eng>lifes
 </teacher_script>
 
 <task>
-**Đề:** Fill in the blanks with the correct words: **lifestyle / greet / serve / practice / habit**
-**Dịch đề:** Điền từ thích hợp vào chỗ trống: lifestyle / greet / serve / practice / habit
+**Đề:** Complete each sentence with a word or phrase from the box.
+**Dịch đề:** Hoàn thành các câu sau với một từ hoặc cụm từ trong hộp.
+
+**Word box:** *greet / practice / serve / lifestyle / in the habit of*
 </task>
 
 <questions type="fill_blanks">
 **1.** A balanced diet and exercise are important for a healthy _______.
-*Chế độ ăn cân đối và tập thể dục rất quan trọng cho một _______ lành mạnh.*
+*Một chế độ ăn cân bằng và tập thể dục rất quan trọng cho một lối sống khỏe mạnh.*
 
-**2.** Handshaking, bowing, and hugging are some ways people _______ each other.
-*Bắt tay, cúi đầu và ôm là một số cách mọi người _______ nhau.*
+**2.** Handshaking, bowing, and hugging are some of the ways in which people _______ one another.
+*Bắt tay, cúi chào và ôm nhau là một vài cách để một người chào người khác.*
 
-**3.** Male and female waiters _______ food in restaurants.
-*Các bồi bàn nam và nữ _______ thức ăn trong nhà hàng.*
+**3.** Waiters and waitresses _______ food in restaurants.
+*Phục vụ nam và nữ phục vụ đồ ăn trong nhà hàng.*
 
 **4.** Going out for breakfast has become a common _______ in this city.
-*Ra ngoài ăn sáng đã trở thành một _______ phổ biến ở thành phố này.*
+*Ra ngoài ăn sáng trở thành một phong tục phổ biến ở thành phố này.*
 
-**5.** My mum has a _______ of keeping everything in the kitchen clean and tidy.
-*Mẹ tớ có _______ giữ mọi thứ trong bếp sạch sẽ và gọn gàng.*
+**5.** My mum is _______ keeping everything in the kitchen bright and clean.
+*Mẹ mình có thói quen giữ cho mọi thứ trong nhà bếp sạch và sáng bóng.*
 </questions>
 
 <teacher_script pause="0">
@@ -140,15 +123,15 @@ Xong chưa? Đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. lifestyle | 2. greet | 3. serve | 4. practice | 5. habit
+**Đáp án:** 1. lifestyle | 2. greet | 3. serve | 4. practice | 5. in the habit of
 </answer>
 
 <explanation>
-- **Câu 1 - lifestyle:** *"a healthy lifestyle"* = lối sống lành mạnh. Đây là danh từ mô tả cách sống tổng thể.
-- **Câu 2 - greet:** *"ways people greet each other"* = cách mọi người chào hỏi nhau. Handshake, bow, hug đều là cách chào.
-- **Câu 3 - serve:** *"waiters serve food"* = bồi bàn phục vụ thức ăn. Đây là công việc của bồi bàn.
-- **Câu 4 - practice:** *"common practice"* = thói quen/tập tục chung. Lưu ý: "practice" là thói quen mang tính xã hội, còn "habit" là thói quen cá nhân.
-- **Câu 5 - habit:** *"has a habit of"* = có thói quen làm gì. Đây là cấu trúc cố định: *have a habit of + V-ing*.
+- **Câu 1 - lifestyle:** *"a healthy lifestyle"* = lối sống lành mạnh.
+- **Câu 2 - greet:** *"ways people greet one another"* = cách mọi người chào hỏi nhau.
+- **Câu 3 - serve:** *"waiters serve food"* = bồi bàn phục vụ thức ăn.
+- **Câu 4 - practice:** *"common practice"* = thói quen/tập tục chung. Lưu ý: "practice" là thói quen mang tính xã hội.
+- **Câu 5 - in the habit of:** *"be in the habit of + V-ing"* = có thói quen làm gì. Đây là cấu trúc cố định.
 </explanation>
 
 <!-- chunk: exercise-4 -->

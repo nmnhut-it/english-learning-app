@@ -34,7 +34,7 @@ Các em mở sách ra, Unit 2, bài <eng>Getting Started</eng>, ghi tựa bài. 
 
 <!-- chunk: dialogue -->
 <teacher_script pause="0">
-Bài 1 <eng>Listen and read</eng> nha. Minh vừa về từ kỳ nghỉ hè ở quê chú. Hãy nghe Minh kể cho Nam nghe nhé.
+Bài 1 <eng>Listen and read</eng> nha. Mai vừa về từ kỳ nghỉ hè ở quê bác. Hãy nghe Mai kể cho Nick nghe nhé.
 </teacher_script>
 
 <audio src="https://img.loigiaihay.com/picture/2023/0803/track-7.mp3">
@@ -44,16 +44,18 @@ Bài 1 <eng>Listen and read</eng> nha. Minh vừa về từ kỳ nghỉ hè ở 
 <dialogue>
 | English | Vietnamese |
 |---------|------------|
-| **Nam:** Wow, Minh! You got a great tan! Where did you go for your summer holiday? | **Nam:** Ồ, Minh! Da bạn rám nắng quá! Bạn đi đâu nghỉ hè vậy? |
-| **Minh:** I went to my uncle's house in a small village in Ha Nam Province. It was really enjoyable! | **Minh:** Tôi đến nhà chú ở một làng nhỏ tỉnh Hà Nam. Rất thú vị luôn! |
-| **Nam:** What did you do there? | **Nam:** Bạn làm gì ở đó vậy? |
-| **Minh:** It was harvest time, so I helped my uncle harvest rice. I learned to use a combine harvester and helped load and unload the rice. We also dried the rice in the sun. | **Minh:** Đúng mùa gặt nên tôi giúp chú thu hoạch lúa. Tôi học cách dùng máy gặt và giúp chất dỡ lúa. Chúng tôi còn phơi lúa nữa. |
-| **Nam:** That sounds really hard! Did you do anything else? | **Nam:** Nghe có vẻ vất vả ghê! Bạn còn làm gì khác không? |
-| **Minh:** I also herded buffaloes and cows in the morning with the village children. We became good friends quickly. | **Minh:** Tôi còn chăn trâu bò buổi sáng với lũ trẻ trong làng. Chúng tôi nhanh chóng thân nhau lắm. |
-| **Nam:** What did you do for fun? | **Nam:** Vậy vui chơi thì sao? |
-| **Minh:** We flew kites in the paddy fields and played traditional games in the evenings, like bamboo dancing and dragon-snake. | **Minh:** Chúng tôi thả diều trên cánh đồng lúa và chơi trò chơi truyền thống buổi tối, như múa sạp và rồng rắn lên mây. |
-| **Nam:** Wow, I envy you! The countryside sounds like a much healthier life. | **Nam:** Ồ, mình ghen tị với bạn quá! Nông thôn có vẻ là cuộc sống lành mạnh hơn nhiều. |
-| **Minh:** It definitely is. I'd love to go back next summer! | **Minh:** Chắc chắn rồi. Tôi muốn quay lại vào hè năm sau! |
+| **Nick:** You look great with a tan, Mai! | **Nick:** Cậu trông thật tuyệt với làn da rám nắng đó Mai! |
+| **Mai:** Thank you. I've just come back from a very enjoyable summer holiday. | **Mai:** Cám ơn cậu. Mình vừa trở về từ một kì nghỉ hè rất thú vị. |
+| **Nick:** Really? Where did you stay? | **Nick:** Thật ư? Cậu đã ở đâu? |
+| **Mai:** I stayed at my uncle's house in a small village in Bac Giang Province. | **Mai:** Mình đã ở nhà bác của mình tại một ngôi làng nhỏ ở tỉnh Bắc Giang. |
+| **Nick:** What did you do there? | **Nick:** Cậu đã làm gì ở đấy thế? |
+| **Mai:** A lot of things. It was harvest time. The villagers were harvesting rice with a combine harvester. I helped them load the rice onto a truck. Then we unloaded the rice and dried it. | **Mai:** Nhiều thứ lắm. Lúc đó đang là mùa thu hoạch. Người trong làng thu hoạch lúa với máy gặt đập liên hợp. Mình giúp họ chất lúa lên xe tải. Sau đó mọi người dỡ lúa ra và phơi chúng. |
+| **Nick:** Sounds great! | **Nick:** Nghe tuyệt thật đấy! |
+| **Mai:** And sometimes I went with the village children to herd the buffaloes and cows. I made friends with them on my first day. | **Mai:** Và thi thoảng mình cũng đi chăn trâu và bò với lũ trẻ trong làng nữa. Mình đã kết bạn với chúng ngay từ ngày đầu tiên. |
+| **Nick:** Were they friendly? | **Nick:** Chúng dễ thương không? |
+| **Mai:** Yes, they were. They took me to the paddy fields to fly kites. And in the evening, we played traditional games like bamboo dancing and dragon-snake. | **Mai:** Có chứ. Tụi nhỏ dẫn mình đến cánh đồng lúa để thả diều. Đến tối, tụi mình đã chơi các trò chơi truyền thống như múa sạp và rồng rắn lên mây. |
+| **Nick:** Oh, I envy you! | **Nick:** Ồ, tớ ghen tị với cậu đấy! |
+| **Mai:** Things move more slowly there than in our city, but people seem to have a healthier life. | **Mai:** Tuy mọi thứ ở dưới đó diễn ra chậm hơn ở thành phố của chúng ta, nhưng mọi người dường như có một cuộc sống khỏe mạnh hơn. |
 </dialogue>
 
 <teacher_script pause="180">
@@ -73,25 +75,25 @@ Bài 2. Đọc lại hội thoại và chọn đáp án đúng nha. 1 phút.
 </task>
 
 <questions type="multiple_choice">
-**1.** Where did Minh spend his summer holiday?
-- A. At his uncle's village in Ha Nam Province
-- B. At a beach resort
-- C. At his grandparents' house in the city
+**1.** How does Mai feel about her summer holiday?
+- A. She likes it.
+- B. She doesn't like it.
+- C. She thinks it was fine.
 
-**2.** What did Minh get from working in the fields?
-- A. A lot of money
-- B. A great tan
-- C. A new skill certificate
+**2.** Where did she stay during her summer holiday?
+- A. At her friend's house.
+- B. At her uncle's house.
+- C. At her grandparents' house.
 
-**3.** What traditional games did the children play in the evenings?
-- A. Football and volleyball
-- B. Board games and chess
-- C. Bamboo dancing and dragon-snake
+**3.** During harvest time, people harvest rice by _______.
+- A. themselves
+- B. using a truck
+- C. using a combine harvester
 
-**4.** What does Nam think about life in the countryside?
-- A. It is a much healthier life
-- B. It is boring and dull
-- C. It is too hard and tiring
+**4.** Mai thinks people in the countryside lead _______.
+- A. a healthy life
+- B. an exciting life
+- C. an interesting life
 </questions>
 
 <teacher_script pause="0">
@@ -103,10 +105,10 @@ Bài 2. Đọc lại hội thoại và chọn đáp án đúng nha. 1 phút.
 </answer>
 
 <explanation>
-- **Câu 1 - A:** *"I went to my uncle's house in a small village in Ha Nam Province."*
-- **Câu 2 - B:** Nam ngạc nhiên vì Minh có *"a great tan"* = làn da rám nắng.
-- **Câu 3 - C:** *"bamboo dancing and dragon-snake"* = múa sạp và rồng rắn.
-- **Câu 4 - A:** Nam nói *"The countryside sounds like a much healthier life."*
+- **Câu 1 - A:** Mai nói *"a very enjoyable summer holiday"* → cô ấy thích kỳ nghỉ.
+- **Câu 2 - B:** Mai nói *"I stayed at my uncle's house in a small village in Bac Giang Province."*
+- **Câu 3 - C:** *"The villagers were harvesting rice with a combine harvester."* → dùng máy gặt đập liên hợp.
+- **Câu 4 - A:** Mai nói *"people seem to have a healthier life"* → cuộc sống lành mạnh.
 </explanation>
 
 <!-- chunk: exercise_3 -->
