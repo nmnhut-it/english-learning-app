@@ -1,144 +1,223 @@
 # UNIT 11: OUR GREENER WORLD
-## COMMUNICATION - Giving Advice & The 3Rs Survey
+## COMMUNICATION - Giao tiếp
+
+<!-- chunk: intro -->
+<teacher_script pause="0">
+Ok lớp 6, hôm nay mình học Unit 11, bài <eng>Communication</eng> nha. Bài này mình sẽ học cách đưa ra lời cảnh báo bằng tiếng Anh, rồi làm bài khảo sát xem mình sống xanh như thế nào. Mở sách trang 52 đi.
+</teacher_script>
 
 <!-- chunk: vocabulary -->
 <teacher_script pause="0">
-Ok Unit 11, bài <eng>Communication</eng> nha. Phần này học cách đưa ra lời khuyên về môi trường và làm khảo sát "Bạn sống xanh như thế nào?". Mở sách trang 53. Học từ vựng trước nha.
+Trước tiên mình học từ vựng nha. Bấm nút "Bắt đầu" bên dưới để học từ vựng. Máy sẽ đọc và các em đọc theo. Sau đó làm bài trắc nghiệm từ vựng rồi ghi từ vựng vô tập.
 </teacher_script>
 
 <vocabulary>
-1. **die** : (v) chết /daɪ/
-2. **survey** : (n) cuộc khảo sát /ˈsɜːveɪ/
-3. **decorate** : (v) trang trí /ˈdekəreɪt/
-4. **a sheet of paper** : một tờ giấy /ə ʃiːt əv ˈpeɪpə/
-5. **write on both sides** : viết trên cả hai mặt /raɪt ɒn bəʊθ saɪdz/
-6. **wrap** : (v) gói, bọc /ræp/
-7. **wrap the food in paper** : gói thức ăn bằng giấy /ræp ðə fuːd ɪn ˈpeɪpə/
-8. **air conditioner** : (n) máy điều hòa nhiệt độ /eə kənˈdɪʃənə/
-9. **a reusable box** : hộp tái sử dụng được /ə ˌriːˈjuːzəbl bɒks/
-10. **charity** : (n) tổ chức từ thiện /ˈtʃærəti/
+1. **throw away** : (phr.v) vứt đi /θrəʊ əˈweɪ/
+2. **decorate** : (v) trang trí /ˈdekəreɪt/
+3. **fridge** : (n) tủ lạnh /frɪdʒ/
+4. **breeze** : (n) cơn gió nhẹ /briːz/
+5. **fan** : (n) quạt máy /fæn/
+6. **air conditioner** : (np) máy điều hòa /eə kənˈdɪʃənə/
 </vocabulary>
 
+<!-- chunk: everyday-english -->
 <teacher_script pause="0">
-Ok từ xong rồi. Giờ nghe hội thoại mẫu nha — cách đưa lời khuyên dùng câu điều kiện loại 1.
-</teacher_script>
-
-<!-- chunk: dialogue -->
-<teacher_script pause="0">
-Bài 1 trang 53. Nghe và đọc hội thoại mẫu — <eng>A</eng> đang nhắc nhở <eng>B</eng> về chăm sóc cây. Bấm play, đọc theo nha.
+Bài 1 trang 52, <eng>Everyday English</eng>. Mình học cách đưa ra lời cảnh báo - <eng>Giving warnings</eng> nha. Nghe và đọc hội thoại giữa Mi và Mike, chú ý những câu được đánh dấu.
 </teacher_script>
 
 <audio src="https://img.loigiaihay.com/picture/2021/1105/ta6-u11-communication-ex1.mp3">
-**Audio:** Communication - Mẫu hội thoại
+**Audio:** Everyday English - Giving warnings
 </audio>
 
 <dialogue>
 | English | Vietnamese |
 |---------|------------|
-| **A:** You are giving too much water to the flowers. Don't water them too much! | **A:** Bạn đang tưới quá nhiều nước cho hoa. Đừng tưới chúng quá nhiều! |
-| **B:** Why? | **B:** Tại sao vậy? |
-| **A:** If you give them too much water, they will die. | **A:** Nếu bạn cho chúng quá nhiều nước, chúng sẽ chết. |
-| **B:** I see. Thank you. | **B:** Tôi hiểu rồi. Cảm ơn bạn. |
+| **Mi:** You are giving the goldfish too much food. Don't do that. | **Mi:** Bạn đang cho cá vàng ăn quá nhiều. Đừng làm vậy. |
+| **Mike:** Why? | **Mike:** Tại sao? |
+| **Mi:** If you give them too much food, they will die. | **Mi:** Nếu bạn cho chúng ăn quá nhiều, chúng sẽ chết. |
+| **Mike:** I see. Thank you. | **Mike:** Tôi hiểu rồi. Cảm ơn bạn. |
 </dialogue>
 
 <teacher_script pause="0">
-Để ý cấu trúc nha: *Don't + V!* → đưa ra lời cảnh báo. *If + hiện tại đơn, will + V* → giải thích hậu quả. Đây là cách kết hợp câu điều kiện loại 1 với lời khuyên rất tự nhiên trong tiếng Anh đó.
+Để đưa ra lời cảnh báo, các em nói người ta đang làm gì sai: <eng>You are giving... too much...</eng> rồi bảo đừng làm: <eng>Don't do that!</eng> Sau đó dùng câu điều kiện loại 1 để giải thích: <eng>If you..., they will...</eng> Nhớ nha!
 </teacher_script>
 
-<!-- chunk: exercise-2 -->
-<teacher_script pause="120">
-Bài 2 trang 53. Nhìn vào các tình huống trong sách — tập nói lời khuyên tương tự hội thoại mẫu. Dùng câu *Don't...! If ..., ... will ...* Luyện với bạn bên cạnh nha. 2 phút.
+<!-- chunk: bai-2 -->
+### Bài 2 trang 52 - Speaking
+
+<teacher_script pause="0">
+Bài 2. Làm việc theo cặp. Học sinh A đang tưới hoa trong vườn. Học sinh B đưa ra lời cảnh báo. Diễn lại hội thoại, nhớ dùng ngôn ngữ đã học ở bài 1 nha.
 </teacher_script>
 
 <task>
-**Đề:** Work in pairs. Look at the pictures and give advice using the model dialogue.
-**Dịch đề:** Làm việc theo cặp. Nhìn vào hình và đưa lời khuyên theo hội thoại mẫu.
+**Đề:** Work in pairs. Student A is watering flowers in the garden. Student B is giving some warnings. Act out the dialogue. Remember to use the highlighted language in 1.
 
-*Cấu trúc: Don't [hành động]! If you [hành động], [hậu quả] will happen.*
+**Dịch đề:** Làm việc theo cặp. Học sinh A đang tưới hoa trong vườn. Học sinh B đang đưa ra một số cảnh báo. Diễn lại đoạn hội thoại này. Hãy nhớ sử dụng ngôn ngữ được làm nổi bật trong câu 1.
 </task>
 
-<questions type="speaking">
-**Tình huống 1:** Bạn bè đang dùng quá nhiều túi nhựa khi mua sắm.
-→ Gợi ý: *Don't use plastic bags! If you use plastic bags, you will harm the environment.*
-
-**Tình huống 2:** Bạn bè đang để đèn sáng khi ra khỏi phòng.
-→ Gợi ý: *Don't leave the light on! If you leave the light on, you will waste electricity.*
-
-**Tình huống 3:** Bạn bè đang vứt chai nhựa vào thùng rác thường.
-→ Gợi ý: *Don't throw it in the bin! If you recycle it, you will help save the environment.*
-</questions>
-
-<teacher_script pause="0">
-Ok, bây giờ làm khảo sát nha — thú vị lắm đó!
+<teacher_script pause="60">
+Các em thực hành nói nha. 1 phút.
 </teacher_script>
 
-<!-- chunk: survey -->
 <teacher_script pause="0">
-Bài 3 trang 53 — khảo sát "<eng>How Green Are You?</eng>" của câu lạc bộ 3Rs. Đọc từng câu hỏi, chọn đáp án cho bản thân rồi tính điểm. Làm cá nhân trước nha.
-</teacher_script>
-
-<task>
-**Đề:** The 3Rs Club Survey — How Green Are You? Choose the best answer for you.
-**Dịch đề:** Khảo sát Câu lạc bộ 3Rs — Bạn sống xanh như thế nào? Chọn đáp án phù hợp nhất với bản thân.
-</task>
-
-<questions type="multiple_choice">
-**1.** If you find a beautiful old glass, you will ________.
-*Nếu bạn tìm thấy một chiếc ly cũ đẹp, bạn sẽ ________.*
-- A. throw it away *(vứt nó đi)*
-- B. decorate it *(trang trí nó)*
-- C. use it as a pencil holder *(dùng làm hộp đựng bút)*
-
-**2.** If you have a sheet of paper, how often do you write on both sides?
-*Nếu bạn có một tờ giấy, bạn viết trên cả hai mặt thường xuyên như thế nào?*
-- A. Sometimes *(Đôi khi)*
-- B. Never *(Không bao giờ)*
-- C. Always *(Luôn luôn)*
-
-**3.** If you bring lunch to school, you will ________.
-*Nếu bạn mang cơm đến trường, bạn sẽ ________.*
-- A. wrap the food in paper *(gói thức ăn bằng giấy)*
-- B. put the food in a reusable box *(cho thức ăn vào hộp tái sử dụng)*
-- C. wrap the food in a plastic bag *(gói thức ăn trong túi nhựa)*
-
-**4.** If you have old clothes, how often do you give them to people in need?
-*Nếu bạn có quần áo cũ, bạn tặng chúng cho người cần thường xuyên như thế nào?*
-- A. Sometimes *(Đôi khi)*
-- B. Never *(Không bao giờ)*
-- C. Always *(Luôn luôn)*
-
-**5.** If it is hot in your room, you will ________.
-*Nếu trời nóng trong phòng, bạn sẽ ________.*
-- A. open the fridge and stand in front of it *(mở tủ lạnh và đứng trước nó)*
-- B. go outside and enjoy the breeze *(ra ngoài tận hưởng gió mát)*
-- C. turn on both the fan and the air conditioner *(bật cả quạt và điều hòa)*
-
-**6.** If your school is one kilometre from your home, you will ________.
-*Nếu trường cách nhà 1 km, bạn sẽ ________.*
-- A. walk *(đi bộ)*
-- B. ask your parents to drive you *(nhờ bố mẹ chở)*
-- C. cycle *(đạp xe)*
-</questions>
-
-<teacher_script pause="0">
-Đáp án "xanh" nhất nè — xem bạn được mấy điểm nha!
+Ok đáp án mẫu nè.
 </teacher_script>
 
 <answer>
-**Đáp án "xanh" (thân thiện với môi trường nhất):**
-1. **B hoặc C** — tái sử dụng ly cũ: trang trí hoặc đựng bút đều tốt!
-2. **C** — luôn luôn viết cả hai mặt → tiết kiệm giấy.
-3. **B** — hộp tái sử dụng → tốt nhất. (A cũng ok nếu giấy tái chế, C là tệ nhất)
-4. **C** — luôn luôn tặng quần áo cũ → reuse + charity.
-5. **B** — ra ngoài hưởng gió tự nhiên → tiết kiệm điện nhất.
-6. **A hoặc C** — đi bộ hoặc đạp xe → không xả khí thải, tốt cho sức khỏe!
+**Đáp án mẫu:**
+
+| English | Vietnamese |
+|---------|------------|
+| **A:** You are giving too much water to the flowers. Don't water them too much! | **A:** Bạn đang cho quá nhiều nước vào hoa. Đừng tưới chúng quá nhiều! |
+| **B:** Why? | **B:** Tại sao? |
+| **A:** If you give them too much water, they will die. | **A:** Nếu bạn cho chúng quá nhiều nước, chúng sẽ chết. |
+| **B:** I see. Thank you. | **B:** Tôi hiểu rồi. Cảm ơn bạn. |
 </answer>
 
-<teacher_script pause="60">
-Giờ hỏi nhau nha — "How green are you?" So sánh đáp án với bạn bên cạnh. 1 phút thảo luận.
+<teacher_script pause="0">
+Các em thấy không? Cùng một mẫu câu như hội thoại gốc, chỉ đổi <eng>food</eng> thành <eng>water</eng>, đổi <eng>goldfish</eng> thành <eng>flowers</eng>. Dễ hiểu hen!
+</teacher_script>
+
+<!-- chunk: bai-3 -->
+### Bài 3 trang 52-53 - Survey
+
+<teacher_script pause="0">
+Bài 3, <eng>The 3Rs Club survey - How Green Are You?</eng> - Cuộc khảo sát của Câu lạc bộ 3Rs - Bạn sống xanh như thế nào? Đọc các câu hỏi và chọn đáp án nha.
+</teacher_script>
+
+<task>
+**Đề:** The 3Rs Club survey - How Green Are You? Check your answers with the key on page 57, count the points and see how green you are.
+
+**Dịch đề:** Cuộc khảo sát của Câu lạc bộ 3Rs - Bạn sống xanh như thế nào? Kiểm tra câu trả lời của em với đáp án ở trang 57, đếm các điểm số và xem em sống xanh như thế nào nhé.
+</task>
+
+<questions type="multiple_choice">
+**1.** If you find a beautiful old glass, you will _______.
+- A. throw it away
+- B. decorate it
+- C. use it to keep pencils in
+*Nếu bạn tìm thấy một chiếc ly cũ đẹp, bạn sẽ _______.*
+
+**2.** If you have a sheet of paper, how often will you write on both sides?
+- A. Sometimes.
+- B. Never.
+- C. Always.
+*Nếu bạn có một tờ giấy, bạn thường viết như thế nào trên cả hai mặt?*
+
+**3.** If you bring your lunch to school, you will _______.
+- A. wrap the food in paper
+- B. put the food in a reusable box
+- C. wrap the food in a plastic bag
+*Nếu bạn mang bữa trưa đến trường, bạn sẽ _______.*
+
+**4.** If you have old clothes, how often will you give them to those in need?
+- A. Sometimes.
+- B. Never.
+- C. Always.
+*Nếu bạn có quần áo cũ, bạn sẽ đưa chúng cho những người có nhu cầu như thế nào?*
+
+**5.** If it's hot in your room, you will _______.
+- A. open the fridge and stand in front of it
+- B. go outside and enjoy the breeze
+- C. turn on both the fan and the air conditioner
+*Nếu trời nóng trong phòng của bạn, bạn sẽ _______.*
+
+**6.** If your school is one kilometre from your home, you will _______.
+- A. walk
+- B. ask your parent to drive you
+- C. cycle
+*Nếu trường học cách nhà bạn một km, bạn sẽ _______.*
+</questions>
+
+<teacher_script pause="90">
+Các em đọc và chọn đáp án A, B, hoặc C theo ý kiến của mình nha. 1 phút 30 giây.
+</teacher_script>
+
+<teacher_script pause="0">
+Ok, đây là đáp án cho người sống xanh nhất nha.
+</teacher_script>
+
+<answer>
+**Đáp án:** 1.C | 2.C | 3.B | 4.C | 5.B | 6.C
+</answer>
+
+<explanation>
+**Giải thích:**
+
+**1. C** - If you find a beautiful old glass, you will **use it to keep pencils in**.
+*Nếu bạn tìm thấy một chiếc ly cũ đẹp, bạn sẽ sử dụng nó để đựng bút chì.* (Đây là cách tái sử dụng - Reuse)
+
+**2. C** - If you have a sheet of paper, how often will you write on both sides? - **Always.**
+*Nếu bạn có một tờ giấy, bạn thường viết như thế nào trên cả hai mặt? - Luôn luôn.* (Tiết kiệm giấy)
+
+**3. B** - If you bring your lunch to school, you will **put the food in a reusable box**.
+*Nếu bạn mang bữa trưa đến trường, bạn sẽ cho thực phẩm vào hộp có thể tái sử dụng.* (Không dùng túi ni lông)
+
+**4. C** - If you have old clothes, how often will you give them to those in need? - **Always.**
+*Nếu bạn có quần áo cũ, bạn sẽ đưa chúng cho những người có nhu cầu như thế nào? - Luôn luôn.* (Chia sẻ với người khác)
+
+**5. B** - If it's hot in your room, you will **go outside and enjoy the breeze**.
+*Nếu trời nóng trong phòng của bạn, bạn sẽ đi ra ngoài và tận hưởng làn gió.* (Tiết kiệm điện)
+
+**6. C** - If your school is one kilometre from your home, you will **cycle**.
+*Nếu trường học cách nhà bạn một km, bạn sẽ đi xe đạp.* (Không gây ô nhiễm)
+</explanation>
+
+<teacher_script pause="0">
+Các em thấy không? Các đáp án đều là cách sống xanh: tái sử dụng đồ cũ, tiết kiệm giấy, dùng hộp đựng thức ăn thay túi ni lông, chia sẻ quần áo cũ, tiết kiệm điện, và đi xe đạp. Đó là tinh thần 3Rs - <eng>Reduce, Reuse, Recycle</eng> nha!
+</teacher_script>
+
+<!-- chunk: bai-4 -->
+### Bài 4 trang 53 - Speaking
+
+<teacher_script pause="0">
+Bài 4. Phỏng vấn một bạn cùng lớp, sử dụng các câu hỏi trong bài 3. So sánh các câu trả lời của hai bạn. Xem có bao nhiêu câu trả lời khác nhau.
+</teacher_script>
+
+<task>
+**Đề:** Interview a classmate, using the questions in 3. Compare your answers. How many different answers have you got?
+
+**Dịch đề:** Phỏng vấn một bạn cùng lớp, sử dụng các câu hỏi trong 3. So sánh các câu trả lời của bạn. Bạn có bao nhiêu câu trả lời khác nhau?
+</task>
+
+<teacher_script pause="0">
+Đây là ví dụ trong sách nha.
+</teacher_script>
+
+<dialogue>
+| English | Vietnamese |
+|---------|------------|
+| **A:** What's your answer to Question 1? | **A:** Câu trả lời của bạn cho Câu hỏi 1 là gì? |
+| **B:** It's A. What's your answer? | **B:** Là A. Câu trả lời của bạn là gì? |
+</dialogue>
+
+<teacher_script pause="90">
+Các em phỏng vấn nhau nha. 1 phút 30 giây.
+</teacher_script>
+
+<teacher_script pause="0">
+Ok đáp án mẫu đầy đủ nè.
+</teacher_script>
+
+<answer>
+**Đáp án mẫu:**
+
+| English | Vietnamese |
+|---------|------------|
+| **A:** What's your answer to Question 1? | **A:** Câu trả lời của bạn cho Câu hỏi 1 là gì? |
+| **B:** It's C. What's your answer? | **B:** Là C. Câu trả lời của bạn là gì? |
+| **A:** My answer is A. What's your answer to Question 2? | **A:** Câu trả lời của tôi là A. Câu trả lời của bạn cho Câu hỏi 2 là gì? |
+| **B:** It's C. What's your answer? | **B:** Là C. Câu trả lời của bạn là gì? |
+| **A:** Oh, me too. What's your answer to Question 3? | **A:** Ồ, tôi cũng vậy. Câu trả lời của bạn cho Câu hỏi 3 là gì? |
+| **B:** It's B. What's your answer? | **B:** Là B. Câu trả lời của bạn là gì? |
+| **A:** Well, I choose A. | **A:** À, tôi chọn A. |
+</answer>
+
+<teacher_script pause="0">
+Các em thấy không? Mẫu câu rất đơn giản: <eng>What's your answer to Question...?</eng> rồi trả lời <eng>It's A/B/C.</eng> Nếu giống nhau thì nói <eng>Me too!</eng> - Tôi cũng vậy. Dễ hiểu hen!
 </teacher_script>
 
 <!-- chunk: end -->
 <teacher_script pause="0">
-Xong bài <eng>Communication</eng> rồi nha. Nhớ cách đưa lời khuyên: *Don't...! If ..., will ...* Và nhớ thực hành sống xanh trong cuộc sống hằng ngày nha! Bài tiếp theo là <eng>Skills 1</eng> — đọc và nói về trường học xanh hơn. Chuẩn bị nha!
+Ok, bài <eng>Communication</eng> Unit 11 kết thúc tại đây rồi nha. Hôm nay các em đã học cách đưa ra lời cảnh báo: <eng>Don't do that! If you..., they will...</eng> và làm bài khảo sát về sống xanh với 3Rs. Các em về nhà ôn bài rồi chuẩn bị cho bài <eng>Skills 1</eng> nha. Tạm biệt!
 </teacher_script>
