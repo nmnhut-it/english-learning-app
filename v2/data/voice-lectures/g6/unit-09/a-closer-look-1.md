@@ -12,26 +12,19 @@ Trước hết học từ vựng nha. Bài này có nhiều tính từ hay lắm
 
 <vocabulary>
 **Vocabulary**
-1. **landmark** : (n) địa danh, thắng cảnh /ˈlændmɑːk/
-2. **rainy** : (adj) mưa, có mưa /ˈreɪni/
-3. **friendly** : (adj) thân thiện, thân thiết /ˈfrendli/
-4. **tasty** : (adj) ngon miệng /ˈteɪsti/
-5. **old** : (adj) cũ, già /əʊld/
-6. **exciting** : (adj) thú vị, hào hứng /ɪkˈsaɪtɪŋ/
-7. **helpful** : (adj) hữu ích, hay giúp đỡ /ˈhelpfʊl/
-8. **delicious** : (adj) ngon, thơm ngon /dɪˈlɪʃəs/
-9. **sunny** : (adj) nắng, có nắng /ˈsʌni/
-10. **city** : (n) thành phố /ˈsɪti/
-11. **food** : (n) thức ăn, đồ ăn /fuːd/
-12. **people** : (n) người, dân /ˈpiːpl/
-13. **weather** : (n) thời tiết /ˈweðə/
-14. **famous** : (adj) nổi tiếng /ˈfeɪməs/
-15. **street food** : món ăn đường phố /striːt fuːd/
-16. **building** : (n) tòa nhà, công trình /ˈbɪldɪŋ/
-17. **tell stories** : kể chuyện /tel ˈstɔːriz/
-18. **floating market** : chợ nổi /ˈfləʊtɪŋ ˈmɑːkɪt/
-19. **stall** : (n) quầy hàng, gian hàng /stɔːl/
-20. **palace** : (n) cung điện, lâu đài /ˈpælɪs/
+1. **rainy** : (adj) mưa, có mưa /ˈreɪni/
+2. **friendly** : (adj) thân thiện /ˈfrendli/
+3. **tasty** : (adj) ngon miệng /ˈteɪsti/
+4. **old** : (adj) cũ, già /əʊld/
+5. **exciting** : (adj) thú vị, hào hứng /ɪkˈsaɪtɪŋ/
+6. **helpful** : (adj) hữu ích, hay giúp đỡ /ˈhelpfʊl/
+7. **delicious** : (adj) ngon, thơm ngon /dɪˈlɪʃəs/
+8. **sunny** : (adj) nắng, có nắng /ˈsʌni/
+9. **weather** : (n) thời tiết /ˈweðə(r)/
+10. **palace** : (n) cung điện /ˈpæləs/
+11. **floating market** : (np) chợ nổi /ˈfləʊtɪŋ ˈmɑːkɪt/
+12. **street food** : (np) thức ăn đường phố /striːt fuːd/
+13. **stall** : (n) quầy hàng /stɔːl/
 </vocabulary>
 
 <!-- chunk: exercise_1 -->
@@ -39,36 +32,30 @@ Trước hết học từ vựng nha. Bài này có nhiều tính từ hay lắm
 Bài 1 trang 28. Nối tính từ với danh từ phù hợp. Mẹo nè: <eng>friendly</eng> và <eng>helpful</eng> thường đi với <eng>people</eng> (người). <eng>Delicious</eng> và <eng>tasty</eng> thường đi với <eng>food</eng> (đồ ăn). <eng>Rainy</eng> và <eng>sunny</eng> thì đi với <eng>weather</eng> (thời tiết). 45 giây nha.
 </teacher_script>
 
-### Bài 1 trang 28 - Match the adjectives to the nouns
+### Bài 1 trang 28 - Fill each box with an adjective
 
 <task>
-**Đề:** Match the adjectives in A to the nouns in B.
-**Dịch đề:** Nối các tính từ ở cột A với các danh từ ở cột B.
+**Đề:** Fill each box with an adjective.
+**Dịch đề:** Điền vào mỗi ô với một tính từ.
 </task>
 
+**Word bank:** *rainy | friendly | tasty | old | exciting | helpful | delicious | sunny*
+
 <questions type="matching">
-| A (Adjectives) | B (Nouns) |
-|----------------|-----------|
-| 1. friendly | a. food |
-| 2. delicious | b. weather |
-| 3. rainy | c. people |
-| 4. exciting | d. city |
-| 5. tasty | |
-| 6. helpful | |
-| 7. sunny | |
-| 8. old | |
+| Category | Adjectives |
+|----------|-----------|
+| city | _______, _______ |
+| food | _______, _______ |
+| people | _______, _______ |
+| weather | _______, _______ |
 </questions>
 
 <answer>
 **Đáp án:**
-- friendly → people (người thân thiện)
-- delicious → food (đồ ăn ngon)
-- rainy → weather (thời tiết mưa)
-- exciting → city (thành phố thú vị)
-- tasty → food (đồ ăn ngon)
-- helpful → people (người hay giúp đỡ)
-- sunny → weather (thời tiết nắng)
-- old → city (thành phố cổ)
+- **city** → old, exciting *(thành phố - cũ, thú vị)*
+- **food** → tasty, delicious *(đồ ăn - ngon, ngon tuyệt)*
+- **people** → friendly, helpful *(con người - thân thiện, hữu ích)*
+- **weather** → rainy, sunny *(thời tiết - mưa, nắng)*
 </answer>
 
 <teacher_script pause="0">
@@ -111,12 +98,14 @@ Bài 2 trang 28. Điền tính từ vào chỗ trống. Nhớ quy tắc: mô t�
 </questions>
 
 <answer>
-**Đáp án:**
-1. **sunny** - vì mô tả thời tiết nắng ở Sydney mùa hè
-2. **old** - vì những tòa nhà cổ có thể "kể chuyện"
-3. **exciting** - vì New York có nhiều thứ thú vị
-4. **friendly** - vì mô tả người dân thân thiện
-5. **delicious** - vì mô tả street food ngon
+**Đáp án:** 1. sunny | 2. old | 3. exciting | 4. friendly | 5. delicious/tasty
+
+**Giải thích:**
+1. **sunny** - vì mô tả thời tiết mùa hè ở Sydney - nắng và khô
+2. **old** - vì những tòa nhà cổ ở Edinburgh có thể "kể chuyện" - tức là rất lâu đời
+3. **exciting** - vì New York có rất nhiều thứ để làm
+4. **friendly** - vì mô tả người dân thân thiện và hay giúp đỡ
+5. **delicious/tasty** - vì mô tả đồ ăn đường phố Hà Nội nổi tiếng ngon
 </answer>
 
 <teacher_script pause="0">
@@ -128,24 +117,26 @@ Bài 2 trang 28. Điền tính từ vào chỗ trống. Nhớ quy tắc: mô t�
 Bài 3. Nhìn hình và viết từ. Đây là những địa danh và vật ở các thành phố nổi tiếng. 45 giây.
 </teacher_script>
 
-### Bài 3 trang 28 - Look at the pictures and write the words
+### Bài 3 trang 28 - Write the words under the pictures
 
 <task>
-**Đề:** Look at the pictures. Write the words for these things you can see in a city.
-**Dịch đề:** Nhìn các hình ảnh. Viết từ cho những thứ em có thể thấy ở một thành phố.
+**Đề:** Write the words/phrases below under the correct pictures.
+**Dịch đề:** Viết các từ / cụm từ bên dưới dưới các hình ảnh đúng.
 </task>
 
+**Word bank:** *stall | street food | palace | floating market*
+
 <questions type="fill_blanks">
-1. [Picture of a grand royal building] → p _ _ _ _ _
+1. [Picture of a grand royal building] → _______
    *(Hình một tòa nhà hoàng gia lộng lẫy)*
 
-2. [Picture of boats selling goods on water] → f _ _ _ _ _ _ _ m _ _ _ _ _
+2. [Picture of boats selling goods on water] → _______
    *(Hình những chiếc thuyền bán hàng trên nước)*
 
-3. [Picture of food sold on the street] → s _ _ _ _ _ f _ _ _
+3. [Picture of food sold on the street] → _______
    *(Hình đồ ăn bán trên đường phố)*
 
-4. [Picture of a small shop or booth] → s _ _ _ _
+4. [Picture of a small shop or booth] → _______
    *(Hình một quầy hàng hoặc gian hàng nhỏ)*
 </questions>
 
@@ -238,14 +229,14 @@ Ok đáp án nè.
 
 | /əʊ/ | /aʊ/ |
 |------|------|
-| snow | town |
-| cold | crowded |
-| boat | around |
-| Tokyo | house |
+| boat /b**əʊ**t/ | house /h**aʊ**s/ |
+| postcard /ˈp**əʊ**stkɑːd/ | town /t**aʊ**n/ |
+| coast /k**əʊ**st/ | crowded /ˈkr**aʊ**dɪd/ |
+| pagoda /pəˈɡ**əʊ**də/ | tower /ˈt**aʊ**ə(r)/ |
 
 **Giải thích:**
-- /əʊ/: **snow** (tuyết), **cold** (lạnh), **boat** (thuyền), **Tokyo** - miệng hẹp, âm "ô-u"
-- /aʊ/: **town** (thị trấn), **crowded** (đông đúc), **around** (xung quanh), **house** (nhà) - miệng rộng, âm "ao"
+- /əʊ/: **boat** (thuyền), **postcard** (bưu thiếp), **coast** (bờ biển), **pagoda** (chùa) - miệng hẹp, âm "ô-u"
+- /aʊ/: **house** (nhà), **town** (thị trấn), **crowded** (đông đúc), **tower** (tháp) - miệng rộng, âm "ao"
 </answer>
 
 ---
@@ -277,7 +268,7 @@ Bài 5 trang 29. Nghe và nhắc lại các câu. Chú ý các từ gạch chân
 </questions>
 
 <teacher_script pause="0">
-Em thấy không: câu 1 có <eng>town</eng> và <eng>crowded</eng> - cả hai đều là âm /aʊ/. Câu 2 có <eng>snow</eng> và <eng>Tokyo</eng> - âm /əʊ/. Câu 3 có <eng>cold</eng> và <eng>boat</eng> - âm /əʊ/. Câu 4 có <eng>around</eng> và <eng>house</eng> - âm /aʊ/. Đọc lại vài lần cho quen nha!
+Em thấy không: câu 1 có <eng>town</eng> và <eng>crowded</eng> - cả hai đều là âm /aʊ/ (miệng mở rộng). Câu 2 có <eng>snow</eng> và <eng>Tokyo</eng> - âm /əʊ/ (miệng hẹp). Câu 3 có <eng>cold</eng> và <eng>boat</eng> - âm /əʊ/. Câu 4 có <eng>around</eng> và <eng>house</eng> - âm /aʊ/. Đọc lại vài lần cho quen nha!
 </teacher_script>
 
 <!-- chunk: end -->

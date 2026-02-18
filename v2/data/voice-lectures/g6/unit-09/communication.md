@@ -7,28 +7,24 @@ Ok lớp 6, hôm nay học phần <eng>Communication</eng> nha. Mình sẽ học
 
 <!-- chunk: vocabulary -->
 <teacher_script pause="0">
-Học từ vựng trước nha. Bài này có nhiều từ về du lịch và địa danh ở Stockholm - thủ đô Thụy Điển.
+Học từ vựng trước nha. Bài này có nhiều từ về địa danh nổi tiếng thế giới.
 </teacher_script>
 
 <vocabulary>
 **Vocabulary**
-1. **postcard** : (n) bưu thiếp, thiệp /ˈpəʊstkɑːd/
-2. **fantastic** : (adj) tuyệt vời, phi thường /fænˈtæstɪk/
-3. **perfect** : (adj) hoàn hảo, tuyệt vời /ˈpɜːfɪkt/
-4. **sunny** : (adj) nắng, đầy nắng /ˈsʌni/
-5. **all the time** : luôn luôn, mọi lúc /ɔːl ðə taɪm/
-6. **offer** : (v) đề nghị, cung cấp /ˈɒfə/
-7. **delicious breakfast** : bữa sáng ngon /dɪˈlɪʃəs ˈbrekfəst/
-8. **cycle** : (v) đạp xe, đi xe đạp /ˈsaɪkl/
-9. **Royal Palace** : Cung điện Hoàng gia /ˈrɔɪəl ˈpæləs/
-10. **helmet** : (n) mũ bảo hiểm /ˈhelmɪt/
-11. **wear - wore - worn** : (v) mặc, đeo /weə - wɔː - wɔːn/
-12. **Swedish art** : nghệ thuật Thụy Điển /ˈswiːdɪʃ ɑːt/
-13. **coffee break** : giờ giải lao uống cà phê /ˈkɒfi breɪk/
-14. **traditional café** : quán cà phê truyền thống /trəˈdɪʃənl ˈkæfeɪ/
-15. **The Old Town** : Phố cổ /ði əʊld taʊn/
-16. **landscape** : (n) phong cảnh, cảnh quan /ˈlændskeɪp/
-17. **rent** : (v) thuê, cho thuê /rent/
+1. **tower** : (n) tháp /ˈtaʊə(r)/
+2. **bank** : (n) bờ sông /bæŋk/
+3. **bell** : (n) cái chuông /bel/
+4. **shell** : (n) vỏ sò /ʃel/
+5. **the whole view** : (n.p) toàn cảnh /ðə həʊl vjuː/
+6. **theatre** : (n) nhà hát /ˈθɪətə/
+7. **harbour** : (n) cảng /ˈhɑːbə/
+8. **roof** : (n) mái nhà /ruːf/
+9. **million** : (n) triệu /ˈmɪljən/
+10. **climb** : (v) leo /klaɪm/
+11. **ancient** : (adj) cổ xưa /ˈeɪnʃənt/
+12. **capital city** : thủ đô /ˈkæpɪtl ˈsɪti/
+13. **national park** : công viên quốc gia /ˈnæʃnəl pɑːk/
 </vocabulary>
 
 <!-- chunk: grammar_exclamatory -->
@@ -129,14 +125,14 @@ Ok đáp án nè.
 
 <answer>
 **Đáp án:**
-1. What happy children! *(children - số nhiều → KHÔNG có a)*
-2. What a colourful picture! *(picture - số ít → có a)*
-3. What sunny weather! *(weather - không đếm được → KHÔNG có a)*
-4. What a cute boy! *(boy - số ít → có a)*
-5. What beautiful apple trees! *(trees - số nhiều → KHÔNG có a)*
+1. What happy and beautiful children! *(children - số nhiều → KHÔNG có a)*
+2. What a colourful and nice picture! *(picture - số ít → có a)*
+3. What sunny and beautiful weather! *(weather - không đếm được → KHÔNG có a)*
+4. What a small and cute boy! *(boy - số ít → có a)*
+5. What beautiful and colourful apple trees! *(trees - số nhiều → KHÔNG có a)*
 
 **Giải thích:**
-- <eng>children, trees</eng> là số nhiều (có s) nên KHÔNG có <eng>a</eng>
+- <eng>children, trees</eng> là số nhiều nên KHÔNG có <eng>a</eng>
 - <eng>weather</eng> là danh từ không đếm được nên KHÔNG có <eng>a</eng>
 - <eng>picture, boy</eng> là số ít đếm được nên có <eng>a</eng>
 </answer>

@@ -41,15 +41,33 @@ Mẹo nhớ nè: Tính từ sở hữu giống như cái mũ, luôn đội lên 
 Bài 1 trang 29. Nối câu với hình. Em đọc câu tiếng Anh, tìm tính từ sở hữu, xem nó chỉ ai. 1 phút nha.
 </teacher_script>
 
-1. Sue không thích cái áo mới của cô ấy → d
-2. Billy thì đang lái xe đạp của anh ấy → e
-3. Con mèo thì đang chơi với trái banh của nó → b
-4. Chúng tôi thích trường của chúng tôi → a
-5. Họ đang sơn phòng của họ màu hồng → c
+<task>
+**Đề:** Match the sentences with the pictures, paying attention to the underlined part in each sentence.
+**Dịch đề:** Nối câu với tranh, chú ý phần gạch chân trong mỗi câu.
+</task>
 
-<teacher_script pause="0">
-Đáp án nè. Câu 1 có <eng>her</eng> là "của cô ấy" → Sue. Câu 2 có <eng>his</eng> là "của anh ấy" → Billy. Câu 3 có <eng>its</eng> là "của nó" → con mèo. Câu 4 có <eng>our</eng> là "của chúng tôi". Câu 5 có <eng>their</eng> là "của họ".
+<questions type="matching">
+1. Sue doesn't like **her** new dress. *(Sue không thích chiếc váy mới của cô ấy.)*
+2. Billy is riding **his** bicycle. *(Billy đang đi xe đạp của anh ấy.)*
+3. The cat is playing with **its** ball. *(Con mèo đang chơi với quả bóng của nó.)*
+4. We love **our** school. *(Chúng tôi yêu trường học của chúng tôi.)*
+5. They are painting **their** room pink. *(Họ đang sơn phòng của họ màu hồng.)*
+</questions>
+
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
+Ok đáp án nè.
 </teacher_script>
+
+<answer>
+**Đáp án:** 1 - d | 2 - e | 3 - b | 4 - a | 5 - c
+
+**Giải thích:**
+- Câu 1: **her** là "của cô ấy" → Sue không thích váy mới
+- Câu 2: **his** là "của anh ấy" → Billy đang đi xe đạp
+- Câu 3: **its** là "của nó" → con mèo chơi bóng
+- Câu 4: **our** là "của chúng tôi" → yêu trường
+- Câu 5: **their** là "của họ" → sơn phòng
+</answer>
 
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 29 - Fill in the blanks
@@ -176,20 +194,20 @@ Bài 4 trang 30. Bài này khó hơn vì em phải phân biệt khi nào dùng t
 </task>
 
 <questions type="multiple_choice">
-1. Australia is a strange country. All of (its / it's) big cities are along the coast.
-   *(Úc là một đất nước lạ. Tất cả những thành phố lớn _______ thì dọc theo bờ biển.)*
+1. Australia is a strange country. All of (*it's / its*) big cities are along the coast.
+   *(Úc là một đất nước kỳ lạ. Tất cả các thành phố lớn của nó đều nằm dọc theo bờ biển.)*
 
-2. Our city is very crowded. How about (your / yours)?
-   *(Thành phố của chúng tôi rất đông đúc. Còn _______ thì sao?)*
+2. Our city is very crowded. How about (*your / yours*)?
+   *(Thành phố của chúng tôi rất đông đúc. Còn của bạn thì sao?)*
 
-3. I love my football club. Does Phong like (her / his)?
-   *(Tôi thích câu lạc bộ bóng đá của tôi. Phong có thích _______ không?)*
+3. I love my football club. Does Phong like (*his / him*)?
+   *(Tôi yêu câu lạc bộ bóng đá của mình. Phong có thích của mình không?)*
 
-4. (Our / Ours) street is short and narrow.
-   *(_______ đường thì ngắn và hẹp.)*
+4. (*Our / Ours*) street is short and narrow.
+   *(Đường phố của chúng tôi ngắn và hẹp.)*
 
-5. It's not easy to find (your / yours) way in a strange city.
-   *(Không dễ để tìm đường _______ trong một thành phố lạ.)*
+5. They cannot find (*their / theirs*) city map anywhere.
+   *(Họ không thể tìm thấy bản đồ thành phố của họ ở bất cứ đâu.)*
 </questions>
 
 <teacher_script pause="0" href="audio/tts_29c83a10.mp3">
@@ -197,14 +215,14 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. its | 2. yours | 3. his | 4. Our | 5. your
+**Đáp án:** 1. its | 2. yours | 3. his | 4. Our | 5. their
 
 **Giải thích:**
 - Câu 1: **its** - tính từ sở hữu, đứng trước danh từ <eng>cities</eng>. Chú ý: <eng>its</eng> ≠ <eng>it's</eng> (it is)!
 - Câu 2: **yours** - đại từ sở hữu, đứng một mình thay cho <eng>your city</eng>
-- Câu 3: **his** - đại từ sở hữu, Phong là nam → <eng>his</eng>, đứng một mình
+- Câu 3: **his** - đại từ sở hữu, Phong là nam → <eng>his</eng>, đứng một mình thay cho <eng>his football club</eng>
 - Câu 4: **Our** - tính từ sở hữu, đứng trước danh từ <eng>street</eng>
-- Câu 5: **your** - tính từ sở hữu, đứng trước danh từ <eng>way</eng>
+- Câu 5: **their** - tính từ sở hữu, đứng trước danh từ <eng>city map</eng>
 </answer>
 
 <!-- chunk: exercise_5 -->
@@ -223,26 +241,31 @@ Bài 5 trang 30. Chọn đáp án đúng A hoặc B. 1 phút.
 **1.** The book is _______, but you are welcome to read it.
 - A. my
 - B. mine
+- C. yours
 *(Cuốn sách là _______, nhưng bạn cứ đọc thoải mái.)*
 
 **2.** _______ bike is dirty, and I can't tell what colour it is.
 - A. Your
 - B. Yours
+- C. You
 *(_______ xe đạp bẩn quá, tôi không biết nó màu gì.)*
 
 **3.** Your country is much bigger than _______.
 - A. our
 - B. ours
+- C. their
 *(Đất nước của bạn lớn hơn _______ nhiều.)*
 
 **4.** _______ dog is so friendly. It never barks.
 - A. They
 - B. Their
+- C. Theirs
 *(_______ con chó thân thiện lắm. Nó không bao giờ sủa.)*
 
 **5.** _______ not easy to find your way in a strange city.
-- A. Its
+- A. It
 - B. It's
+- C. Its
 *(_______ không dễ để tìm đường trong một thành phố lạ.)*
 </questions>
 
@@ -263,5 +286,14 @@ Ok đáp án nè.
 
 <!-- chunk: end -->
 <teacher_script pause="0">
-Ok hết bài ngữ pháp rồi. Tóm tắt nè: Tính từ sở hữu (<eng>my, your, his, her, its, our, their</eng>) luôn đứng trước danh từ. Đại từ sở hữu (<eng>mine, yours, his, hers, its, ours, theirs</eng>) đứng một mình. Nhớ kỹ nha vì hay ra trong bài kiểm tra lắm đó. Bye!
+Ok hết bài ngữ pháp rồi. Tóm tắt nè: Tính từ sở hữu (<eng>my, your, his, her, its, our, their</eng>) luôn đứng trước danh từ. Đại từ sở hữu (<eng>mine, yours, his, hers, its, ours, theirs</eng>) đứng một mình. Nhớ kỹ nha vì hay ra trong bài kiểm tra lắm đó.
+
+Từ vựng bổ sung nè:
+- <eng>coast</eng> /kəʊst/ = vùng duyên hải
+- <eng>strange</eng> /streɪndʒ/ = xa lạ, kỳ lạ
+- <eng>cartoon</eng> /kɑːˈtuːn/ = phim hoạt hình
+- <eng>map</eng> /mæp/ = bản đồ
+- <eng>present</eng> /ˈprizent/ = món quà
+
+Bye!
 </teacher_script>

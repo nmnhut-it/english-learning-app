@@ -25,25 +25,25 @@ Bài 1 trang 34. Chọn 2 tính từ phù hợp nhất để hoàn thành câu. 
 **1.** The city is _______.
 - A. exciting *(thú vị)*
 - B. amazing *(tuyệt vời)*
-- C. delicious *(ngon)*
+- C. long *(dài)*
 
 **2.** The weather is _______.
 - A. cold *(lạnh)*
-- B. friendly *(thân thiện)*
+- B. quiet *(yên tĩnh)*
 - C. sunny *(nắng)*
 
 **3.** The people are _______.
 - A. friendly *(thân thiện)*
-- B. sunny *(nắng)*
+- B. wide *(rộng)*
 - C. helpful *(hay giúp đỡ)*
 
 **4.** The buildings are _______.
 - A. tall *(cao)*
 - B. beautiful *(đẹp)*
-- C. delicious *(ngon)*
+- C. fast *(nhanh)*
 
 **5.** The food is _______.
-- A. exciting *(thú vị)*
+- A. cute *(dễ thương)*
 - B. delicious *(ngon)*
 - C. good *(ngon, tốt)*
 </questions>
@@ -56,11 +56,11 @@ Ok đáp án nè.
 **Đáp án:** 1. A, B | 2. A, C | 3. A, C | 4. A, B | 5. B, C
 
 **Giải thích:**
-- Câu 1: **exciting, amazing** - cả hai đều mô tả thành phố, <eng>delicious</eng> mô tả đồ ăn
-- Câu 2: **cold, sunny** - cả hai mô tả thời tiết, <eng>friendly</eng> mô tả người
-- Câu 3: **friendly, helpful** - cả hai mô tả người, <eng>sunny</eng> mô tả thời tiết
-- Câu 4: **tall, beautiful** - cả hai mô tả tòa nhà, <eng>delicious</eng> mô tả đồ ăn
-- Câu 5: **delicious, good** - cả hai mô tả đồ ăn, <eng>exciting</eng> mô tả thành phố
+- Câu 1: **A. exciting, B. amazing** - cả hai đều mô tả thành phố, <eng>long</eng> (dài) không phù hợp
+- Câu 2: **A. cold, C. sunny** - cả hai mô tả thời tiết, <eng>quiet</eng> (yên tĩnh) mô tả nơi chốn
+- Câu 3: **A. friendly, C. helpful** - cả hai mô tả người, <eng>wide</eng> (rộng) mô tả đường/sông
+- Câu 4: **A. tall, B. beautiful** - cả hai mô tả tòa nhà, <eng>fast</eng> (nhanh) mô tả tốc độ
+- Câu 5: **B. delicious, C. good** - cả hai mô tả đồ ăn, <eng>cute</eng> (dễ thương) mô tả người/thú
 </answer>
 
 <!-- chunk: exercise_2 -->
@@ -151,14 +151,14 @@ Bài 4 trang 34. Đọc câu và sửa từ gạch chân cho đúng. Chú ý ph�
 2. We are watching the sunrise at Angkor Wat with ~~ours~~ local friends.
    *(Chúng tôi đang ngắm bình minh ở Angkor Wat với những người bạn địa phương ~~ours~~.)*
 
-3. Discover Beijing and Shanghai through ~~they~~ food tours.
-   *(Khám phá Bắc Kinh và Thượng Hải qua các tour ẩm thực ~~they~~.)*
+3. Discover Beijing and Shanghai through ~~theirs~~ food tours.
+   *(Khám phá Bắc Kinh và Thượng Hải qua các tour ẩm thực ~~theirs~~.)*
 
-4. Visit Hue and try ~~it's~~ food.
-   *(Hãy đến Huế và thử đồ ăn ~~it's~~.)*
+4. Visit Hue and try ~~it~~ food.
+   *(Hãy đến Huế và thử đồ ăn ~~it~~.)*
 
-5. Venice is ~~your~~ city and Jakarta is ours.
-   *(Venice là thành phố ~~your~~ còn Jakarta là của chúng tôi.)*
+5. Venice is your city and Jakarta is ~~our~~.
+   *(Venice là thành phố của bạn còn Jakarta là ~~our~~.)*
 </questions>
 
 <teacher_script pause="0" href="audio/tts_29c83a10.mp3">
@@ -166,14 +166,14 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. its | 2. our | 3. their | 4. its | 5. yours
+**Đáp án:** 1. its | 2. our | 3. their | 4. its | 5. ours
 
 **Giải thích:**
 - Câu 1: ~~it's~~ → **its** - tính từ sở hữu đứng trước <eng>people</eng>, không phải <eng>it is</eng>
 - Câu 2: ~~ours~~ → **our** - tính từ sở hữu đứng trước <eng>friends</eng>
-- Câu 3: ~~they~~ → **their** - tính từ sở hữu đứng trước <eng>food tours</eng>
-- Câu 4: ~~it's~~ → **its** - tính từ sở hữu đứng trước <eng>food</eng>
-- Câu 5: ~~your~~ → **yours** - đại từ sở hữu, đứng một mình (đối lập với <eng>ours</eng>)
+- Câu 3: ~~theirs~~ → **their** - tính từ sở hữu đứng trước <eng>food tours</eng>
+- Câu 4: ~~it~~ → **its** - tính từ sở hữu đứng trước <eng>food</eng>, cần thêm "s"
+- Câu 5: ~~our~~ → **ours** - đại từ sở hữu, đứng một mình (đối lập với <eng>your</eng>)
 </answer>
 
 <!-- chunk: end -->

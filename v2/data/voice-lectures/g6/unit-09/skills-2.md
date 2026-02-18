@@ -134,11 +134,11 @@ Bài 3. Nghe lại và điền từ/số còn thiếu. Chú ý: loại chợ gì
 </task>
 
 <questions type="fill_blanks">
-1. Chatuchak is the largest _______ market in the world.
-   *(Chatuchak là chợ _______ lớn nhất thế giới.)*
+1. Chatuchak market has over _______ stalls.
+   *(Chợ Chatuchak có hơn _______ quầy hàng.)*
 
-2. There are over _______ stalls in the market.
-   *(Có hơn _______ quầy hàng trong chợ.)*
+2. Chatuchak market is about _______ minutes' walk from the station.
+   *(Chợ Chatuchak cách ga khoảng _______ phút đi bộ.)*
 
 3. You can see part of Thai people's _______ at a market.
    *(Bạn có thể thấy một phần _______ của người Thái tại chợ.)*
@@ -152,11 +152,11 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. weekend | 2. 15,000 | 3. life | 4. delicious
+**Đáp án:** 1. 15,000 | 2. five (5) | 3. life | 4. delicious
 
 **Giải thích:**
-- **1. weekend** - Chatuchak là chợ cuối tuần (weekend market) lớn nhất thế giới
-- **2. 15,000** - Chợ có hơn 15 ngàn quầy hàng (over 15,000 stalls) - rất lớn!
+- **1. 15,000** - Chợ có hơn 15 ngàn quầy hàng (over 15,000 stalls) - rất lớn!
+- **2. five (5)** - Chợ Chatuchak chỉ cách ga 5 phút đi bộ (five minutes' walk from the station)
 - **3. life** - Thấy cuộc sống hàng ngày (life) của người Thái
 - **4. delicious** - Đồ ăn đường phố rất ngon (really delicious)
 </answer>

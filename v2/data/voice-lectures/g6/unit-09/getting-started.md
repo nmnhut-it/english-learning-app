@@ -12,21 +12,12 @@ Trước khi nghe hội thoại, mình học từ vựng trước nha. Những t
 
 <vocabulary>
 **Vocabulary**
-1. **holiday** : (n) kỳ nghỉ, ngày lễ /ˈhɒlɪdeɪ/
-2. **from** : (prep) từ, từ đâu /frɒm/
-3. **What's it like?** : Nó như thế nào? /wɒts ɪt laɪk/
-4. **What a beautiful place!** : Thật là một nơi đẹp! /wɒt ə ˈbjuːtɪfʊl pleɪs/
-5. **exciting** : (adj) thú vị, hào hứng /ɪkˈsaɪtɪŋ/
-6. **a lot of** : rất nhiều /ə lɒt əv/
-7. **beach** : (n) bãi biển /biːtʃ/
-8. **wonderful** : (adj) tuyệt vời /ˈwʌndəfʊl/
-9. **What bad weather!** : Thời tiết thật tệ! /wɒt bæd ˈweðə/
-10. **rain** : (n) cơn mưa, (v) mưa /reɪn/
-11. **the River Thames** : sông Thames /ðə ˈrɪvə temz/
-12. **crowded** : (adj) đông đúc /ˈkraʊdɪd/
-13. **interesting** : (adj) thú vị, hấp dẫn /ˈɪntrəstɪŋ/
-14. **many places** : nhiều nơi /ˈmeni ˈpleɪsɪz/
-15. **some photos of mine** : một số ảnh của tôi /sʌm ˈfəʊtəʊz əv maɪn/
+1. **landmark** : (n) địa danh /ˈlændmɑːk/
+2. **rainy** : (adj) có mưa /ˈreɪni/
+3. **crowded** : (adj) đông đúc /ˈkraʊdɪd/
+4. **exciting** : (adj) thú vị, hào hứng /ɪkˈsaɪtɪŋ/
+5. **interesting** : (adj) thú vị, hấp dẫn /ˈɪntrəstɪŋ/
+6. **delicious** : (adj) ngon (thức ăn) /dɪˈlɪʃəs/
 </vocabulary>
 
 <!-- chunk: audio -->
