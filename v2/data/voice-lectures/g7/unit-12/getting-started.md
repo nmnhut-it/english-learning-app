@@ -41,18 +41,22 @@ Bài 1 <eng>Listen and read</eng> nha. Phong và Mark đang nói chuyện về k
 <dialogue>
 | English | Vietnamese |
 |---------|------------|
-| **Mark:** Hi Phong! Did you have a good holiday? | **Mark:** Chào Phong! Kỳ nghỉ của bạn có vui không? |
-| **Phong:** It was fantastic, Mark! I went to Australia with my family. | **Phong:** Tuyệt lắm, Mark! Tôi đi Úc với gia đình. |
-| **Mark:** Wow! What did you do there? | **Mark:** Ồ! Bạn làm gì ở đó vậy? |
-| **Phong:** I used English a lot - asking for directions, reading maps, talking to local people. | **Phong:** Tôi dùng tiếng Anh nhiều lắm - hỏi đường, đọc bản đồ, nói chuyện với người địa phương. |
-| **Mark:** That sounds great! Where did you visit? | **Mark:** Nghe hay đấy! Bạn đã đến thăm những nơi nào? |
-| **Phong:** We toured Melbourne first. It's a city with four seasons in one day! | **Phong:** Chúng tôi tham quan Melbourne trước. Đó là thành phố có bốn mùa trong một ngày! |
-| **Mark:** Really? That's interesting! | **Mark:** Thật không? Thú vị thật! |
-| **Phong:** Yes! Then we visited Phillip Island to watch penguins. | **Phong:** Ừ! Sau đó chúng tôi đến thăm đảo Phillip để xem chim cánh cụt. |
-| **Mark:** Penguins? In Australia? | **Mark:** Chim cánh cụt? Ở Úc á? |
-| **Phong:** Yes, little ones. They come back to the island every sunset. It was amazing! | **Phong:** Ừ, loại nhỏ thôi. Chúng trở về đảo vào mỗi buổi hoàng hôn. Thật tuyệt vời! |
-| **Mark:** What did you like most about Australia? | **Mark:** Bạn thích nhất điều gì ở Úc? |
-| **Phong:** The landscapes and the outdoor lifestyle. Australians love the outdoors! | **Phong:** Cảnh quan và lối sống ngoài trời. Người Úc rất thích sống ngoài trời! |
+| **Mark:** How was your holiday in Australia, Phong? | **Mark:** Kỳ nghỉ ở Úc của bạn thế nào, Phong? |
+| **Phong:** It was fantastic! I got to use my English in real life: asking for directions, reading maps, talking to local people.. | **Phong:** Thật tuyệt vời! Tôi phải sử dụng tiếng Anh của mình trong ngoài đời: hỏi đường, đọc bản đồ, nói chuyện với người dân địa phương.. |
+| **Mark:** Oh...Your English is much better. | **Mark:** Ồ... Tiếng Anh của bạn tốt hơn nhiều. |
+| **Phong:** Thanks. | **Phong:** Cảm ơn. |
+| **Mark:** Did you travel a lot? | **Mark:** Bạn có đi du lịch nhiều không? |
+| **Phong:** Just around Melbourne, the city with four seasons in a day. | **Phong:** Chỉ quanh Melbourne, thành phố có bốn mùa trong ngày. |
+| **Mark:** Wow ... I didn't know that. How was it? | **Mark:** Wow... Tôi không biết điều đó. Nó thế nào? |
+| **Phong:** It was great! We took a tour to Phillip Island. | **Phong:** Thật tuyệt vời! Chúng tôi đã có một chuyến tham quan đến Đảo Phillip. |
+| **Mark:** What did you see? | **Mark:** Bạn đã thấy gì? |
+| **Phong:** We went penguin watching. | **Phong:** Chúng tôi đi xem chim cánh cụt. |
+| **Mark:** It sounds pretty exciting. | **Mark:** Nghe có vẻ khá thú vị. |
+| **Phong:** It was. Australia has amazing landscapes. | **Phong:** Đúng vậy. Úc có những cảnh quan tuyệt vời. |
+| **Mark:** Yes, and Australians love outdoor activities. | **Mark:** Đúng vậy, và người Úc thích các hoạt động ngoài trời. |
+| **Phong:** Right. There were plenty of people enjoying the parks and beaches. | **Phong:** Chính xác. Có rất nhiều người vui chơi ở các công viên và bãi biển. |
+| **Mark:** I'm glad that you had a wonderful time there. | **Mark:** Tôi rất vui vì bạn đã có một khoảng thời gian tuyệt vời ở đó. |
+| **Phong:** Thanks, Mark. | **Phong:** Cảm ơn Mark. |
 </dialogue>
 
 <teacher_script pause="180">
@@ -67,14 +71,14 @@ Bài 2. Hội thoại này nói về chủ đề gì? Chọn đáp án đúng nh
 </teacher_script>
 
 <task>
-**Đề:** What is the dialogue mainly about?
-**Dịch đề:** Hội thoại chủ yếu nói về điều gì?
+**Đề:** What are Phong and Mark talking about?
+**Dịch đề:** Phong và Mark đang nói chuyện gì?
 </task>
 
 <questions type="multiple_choice">
 **A.** Phong's holiday in Australia *(Kỳ nghỉ của Phong ở Úc)*
-**B.** Mark's trip to Melbourne *(Chuyến đi Melbourne của Mark)*
-**C.** English-speaking countries *(Các nước nói tiếng Anh)*
+**B.** English-speaking countries *(Các nước nói tiếng Anh)*
+**C.** The tour to Phillip Island *(Chuyến tham quan đến Đảo Phillip)*
 </questions>
 
 <teacher_script pause="0">
@@ -90,23 +94,23 @@ Hội thoại kể về chuyến đi Úc của Phong - các địa điểm đã 
 </explanation>
 
 <!-- chunk: exercise_3 -->
-### Bài 3 trang 40 - True/False
+### Bài 3 trang 40 - Tick True Statements
 
 <teacher_script pause="60">
-Bài 3. Đọc lại hội thoại và cho biết câu nào đúng (T), câu nào sai (F) nha. 1 phút.
+Bài 3. Đọc lại hội thoại và đánh dấu (✓) thông tin có trong cuộc trò chuyện nha. 1 phút.
 </teacher_script>
 
 <task>
-**Đề:** Read the dialogue again. Write T (True) or F (False) for each statement.
-**Dịch đề:** Đọc lại hội thoại. Viết T (Đúng) hoặc F (Sai) cho mỗi câu.
+**Đề:** Read again and tick (✓) the information you can find in the conversation.
+**Dịch đề:** Đọc lại và đánh dấu (✓) thông tin bạn có thể tìm thấy trong cuộc trò chuyện.
 </task>
 
 <questions type="true_false">
-**1.** Phong went to Australia with his family. *(Phong đi Úc với gia đình.)*
-**2.** Phong visited Sydney first. *(Phong đến thăm Sydney trước.)*
-**3.** Melbourne has only one season. *(Melbourne chỉ có một mùa.)*
-**4.** Phong saw penguins on Phillip Island. *(Phong nhìn thấy chim cánh cụt trên đảo Phillip.)*
-**5.** Australians love the outdoors. *(Người Úc thích sống ngoài trời.)*
+**1.** In Australia, Phong used English in real life. *(Ở Úc, Phong sử dụng tiếng Anh ngoài đời.)*
+**2.** Phong visited some museums. *(Phong đi thăm một số viện bảo tàng.)*
+**3.** Phillip Island is far from Melbourne. *(Đảo Phillip cách Melbourne rất xa.)*
+**4.** Australia is beautiful. *(Nước Úc xinh đẹp.)*
+**5.** Australians love outdoor activities. *(Người Úc yêu thích các hoạt động ngoài trời.)*
 </questions>
 
 <teacher_script pause="0">
@@ -114,33 +118,37 @@ Ok đáp án nè. Giải thích từng câu luôn.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.T | 2.F | 3.F | 4.T | 5.T
+**Đáp án:** 1.✓ | 2.✗ | 3.✗ | 4.✓ | 5.✓
 </answer>
 
 <explanation>
-- **Câu 1 - T:** Phong nói *"I went to Australia with my family"* => đúng, đi cùng gia đình.
-- **Câu 2 - F:** Phong đến **Melbourne** trước, không phải Sydney. *"We toured Melbourne first."*
-- **Câu 3 - F:** Melbourne có **bốn mùa trong một ngày** - *"four seasons in one day"*, không phải một mùa.
-- **Câu 4 - T:** *"We visited Phillip Island to watch penguins."* => đúng.
-- **Câu 5 - T:** *"Australians love the outdoors!"* => người Úc thích ngoài trời.
+- **Câu 1 - ✓:** Phong nói *"I got to use my English in real life: asking for directions, reading maps, talking to local people"* => đúng, Phong sử dụng tiếng Anh ngoài đời thực.
+- **Câu 2 - ✗:** Phong không nhắc đến viện bảo tàng. Phong đi xem chim cánh cụt *"We went penguin watching"*.
+- **Câu 3 - ✗:** Phong nói *"Just around Melbourne"* rồi *"We took a tour to Phillip Island"* => Đảo Phillip không xa Melbourne.
+- **Câu 4 - ✓:** Phong nói *"Australia has amazing landscapes"* => Úc đẹp.
+- **Câu 5 - ✓:** Mark nói *"Australians love outdoor activities"* và Phong đồng ý *"Right. There were plenty of people enjoying the parks and beaches."*
 </explanation>
 
 <!-- chunk: exercise_4 -->
 ### Bài 4 trang 40 - Fill in the Blanks
 
 <teacher_script pause="60">
-Bài 4. Điền từ thích hợp vào chỗ trống để hoàn thành đoạn tóm tắt nha. 1 phút.
+Bài 4. Điền từ hoặc cụm từ trong khung vào chỗ trống nha. 1 phút.
 </teacher_script>
 
 <task>
-**Đề:** Complete the passage with the words from the box.
-**Dịch đề:** Hoàn thành đoạn văn với các từ trong khung.
+**Đề:** Complete the sentences with the words and phrases from the box.
+**Dịch đề:** Hoàn thành các câu với các từ và cụm từ trong hộp.
 </task>
 
 <questions type="fill_blanks">
-*(landscape / watching / island / sunset / Australians)*
+*(island / sunset / landscape / Australians / penguin watching)*
 
-Phong visited Australia and was amazed by its beautiful (1) _______. He went to Phillip (2) _______ to go (3) _______ penguins at (4) _______. He also liked the outdoor lifestyle of (5) _______.
+**1.** This is a picture of the _______ in my village. *(Đây là bức tranh vẽ _______ ở làng quê em.)*
+**2.** - Where did you go _______? - On the beach. *(- Bạn đã đi _______ ở đâu? - Ở bãi biển.)*
+**3.** - Is Phu Quoc an _______? - Yes, it is. *(- Phú Quốc có phải là một _______ không? - Vâng, đúng vậy.)*
+**4.** We had dinner on the beach after _______. *(Chúng tôi đã ăn tối trên bãi biển sau khi _______.)*
+**5.** Most _______ like outdoor sports and games. *(Hầu hết _______ thích các môn thể thao và trò chơi ngoài trời.)*
 </questions>
 
 <teacher_script pause="0">
@@ -148,15 +156,15 @@ Phong visited Australia and was amazed by its beautiful (1) _______. He went to 
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. landscape | 2. island | 3. watching | 4. sunset | 5. Australians
+**Đáp án:** 1. landscape | 2. penguin watching | 3. island | 4. sunset | 5. Australians
 </answer>
 
 <explanation>
-- **(1) landscape** - *"amazing landscape"* = cảnh quan tuyệt đẹp của nước Úc.
-- **(2) island** - Phillip **Island** = đảo Phillip.
-- **(3) watching** - *"to watch penguins"* = để xem chim cánh cụt.
-- **(4) sunset** - chim cánh cụt về đảo vào mỗi buổi **hoàng hôn** (sunset).
-- **(5) Australians** - người Úc (Australians) thích lối sống ngoài trời.
+- **(1) landscape** - Bức tranh vẽ **phong cảnh** (landscape) ở làng quê.
+- **(2) penguin watching** - Đi **xem chim cánh cụt** (penguin watching) ở bãi biển.
+- **(3) island** - Phú Quốc là một **hòn đảo** (island).
+- **(4) sunset** - Ăn tối trên bãi biển sau **hoàng hôn** (sunset).
+- **(5) Australians** - Hầu hết **người Úc** (Australians) thích thể thao và trò chơi ngoài trời.
 </explanation>
 
 <!-- chunk: exercise_5 -->
@@ -167,8 +175,8 @@ Bài 5. Ghép các nước nói tiếng Anh với thủ đô của chúng nha. 1
 </teacher_script>
 
 <task>
-**Đề:** Match the English-speaking countries with their capitals.
-**Dịch đề:** Ghép các nước nói tiếng Anh với thủ đô của chúng.
+**Đề:** Game: What's its capital city? Work in groups. Match the countries with their capitals. The first group to find all the correct answers wins.
+**Dịch đề:** Trò chơi: Thành phố thủ đô của nó là gì? Làm việc nhóm. Ghép các quốc gia với thủ đô của chúng. Nhóm đầu tiên tìm được tất cả các câu trả lời đúng sẽ thắng.
 </task>
 
 <questions type="matching">

@@ -37,16 +37,19 @@ Bài 1 <eng>Match the words with the pictures</eng>. Nối từ với tranh nha.
 </teacher_script>
 
 <task>
-**Đề:** Match the words/phrases with the correct pictures.
-**Dịch đề:** Nối các từ/cụm từ với tranh đúng.
+**Đề:** Write the words or phrases under the correct pictures.
+**Dịch đề:** Viết các từ hoặc cụm từ dưới các hình ảnh đúng.
 </task>
 
 <questions type="matching">
-**a.** kangaroo *(chuột túi)*
-**b.** kilt *(váy nam Scotland)*
-**c.** tattoo *(hình xăm)*
-**d.** castle *(lâu đài)*
-**e.** coastline *(đường bờ biển)*
+*(island country / Scottish kilt / tattoo / castle / kangaroo / coastline)*
+
+**1.** kangaroo *(chuột túi)*
+**2.** island country *(quốc đảo)*
+**3.** tattoo *(hình xăm)*
+**4.** Scottish kilt *(váy nam Scotland)*
+**5.** castle *(lâu đài)*
+**6.** coastline *(đường bờ biển)*
 </questions>
 
 <teacher_script pause="0">
@@ -61,16 +64,18 @@ Bài 2 <eng>Fill in the blanks with the adjectives</eng>. Điền tính từ và
 </teacher_script>
 
 <task>
-**Đề:** Fill in the blanks with the correct adjectives: amazing, ancient, unique, local, native.
-**Dịch đề:** Điền vào chỗ trống với tính từ đúng: amazing, ancient, unique, local, native.
+**Đề:** Use the words in the box to complete the sentences.
+**Dịch đề:** Sử dụng các từ trong hộp để hoàn thành các câu.
 </task>
 
 <questions type="fill_blanks">
-**1.** The Maori are the _______ people of New Zealand. *(Người Maori là dân _______ của New Zealand.)*
-**2.** Scotland has _______ castles that are hundreds of years old. *(Scotland có những lâu đài _______ đã hàng trăm năm tuổi.)*
-**3.** The haka dance is a _______ tradition of the Maori people. *(Điệu nhảy haka là truyền thống _______ của người Maori.)*
-**4.** You can try _______ food when you visit any country. *(Bạn có thể thử món ăn _______ khi thăm bất kỳ nước nào.)*
-**5.** The Grand Canyon has _______ landscapes that tourists love. *(Đại vực Grand Canyon có cảnh quan _______ mà khách du lịch yêu thích.)*
+*(native / amazing / unique / local / ancient)*
+
+**1.** From the top of the mountain, we had a(n) _______ view of the valley below. *(Từ trên đỉnh núi, chúng tôi đã có một tầm nhìn _______ xuống thung lũng bên dưới.)*
+**2.** Scotland is famous for its long history and _______ castles. *(Scotland nổi tiếng với lịch sử lâu đời và những lâu đài _______.)*
+**3.** The long fences around the sheep farms in Australia are _______. You can't find them anywhere else in the world. *(Những hàng rào dài xung quanh các trang trại cừu ở Australia có _______. Bạn không thể tìm thấy chúng ở bất kỳ nơi nào khác trên thế giới.)*
+**4.** When you visit a new place, talk to the _______ people. *(Khi bạn đến thăm một địa điểm mới, hãy nói chuyện với người dân _______.)*
+**5.** Kangaroos are _______ to Australia. It is their home. *(Chuột túi có nguồn gốc _______ từ Úc. Đó là nhà của chúng.)*
 </questions>
 
 <teacher_script pause="0">
@@ -78,34 +83,36 @@ Ok đáp án nè. Giải thích từng câu luôn.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. native | 2. ancient | 3. unique | 4. local | 5. amazing
+**Đáp án:** 1. amazing | 2. ancient | 3. unique | 4. local | 5. native
 </answer>
 
 <explanation>
-- **Câu 1 - native:** Người Maori là dân **bản địa** (native people) của New Zealand.
-- **Câu 2 - ancient:** Lâu đài Scotland **cổ xưa** (ancient) - hàng trăm năm tuổi.
-- **Câu 3 - unique:** Điệu nhảy haka **độc đáo** (unique) - chỉ có ở Maori.
-- **Câu 4 - local:** Thử món ăn **địa phương** (local food) khi du lịch.
-- **Câu 5 - amazing:** Cảnh quan **tuyệt vời** (amazing landscapes) của Grand Canyon.
+- **Câu 1 - amazing:** Từ trên đỉnh núi, tầm nhìn **tuyệt vời** (amazing) xuống thung lũng bên dưới.
+- **Câu 2 - ancient:** Scotland nổi tiếng với những lâu đài **cổ kính** (ancient).
+- **Câu 3 - unique:** Những hàng rào dài quanh trang trại cừu ở Úc **có một không hai** (unique) - không tìm thấy ở nơi nào khác.
+- **Câu 4 - local:** Khi thăm nơi mới, nói chuyện với người dân **địa phương** (local).
+- **Câu 5 - native:** Chuột túi là loài **bản địa** (native) của Úc.
 </explanation>
 
 <!-- chunk: exercise_3 -->
-### Bài 3 trang 42 - Fill in the Blanks
+### Bài 3 trang 42 - Word-Definition Matching
 
 <teacher_script pause="60">
-Bài 3 <eng>Complete the sentences</eng>. Điền từ thích hợp vào chỗ trống nha. 1 phút.
+Bài 3 <eng>Work in pairs. Discuss and write the word or phrase next to its explanation</eng>. Nối từ với nghĩa của nó nha. 1 phút.
 </teacher_script>
 
 <task>
-**Đề:** Complete the sentences with the correct words: tower, symbol, capital, boat ride.
-**Dịch đề:** Hoàn thành câu với từ đúng: tower, symbol, capital, boat ride.
+**Đề:** Work in pairs. Discuss and write the word or phrase in the box next to its explanation.
+**Dịch đề:** Làm việc theo cặp. Thảo luận và viết từ hoặc cụm từ vào ô bên cạnh lời giải thích.
 </task>
 
-<questions type="fill_blanks">
-**1.** Big Ben is a famous clock _______ in London. *(Big Ben là một _______ đồng hồ nổi tiếng ở London.)*
-**2.** The kangaroo is a _______ of Australia. *(Chuột túi là _______ của nước Úc.)*
-**3.** Washington D.C. is the _______ of the United States. *(Washington D.C. là _______ của Hoa Kỳ.)*
-**4.** We took a _______ on the River Thames. *(Chúng tôi đi _______ trên sông Thames.)*
+<questions type="matching">
+*(symbol / boat ride / capital / tower)*
+
+**1.** a tall narrow building with a small top *(một tòa nhà cao hẹp với đỉnh nhỏ)* → _______
+**2.** an object representing a place *(một vật thể đại diện cho một địa điểm)* → _______
+**3.** the most important city of a country *(thành phố quan trọng nhất của một quốc gia)* → _______
+**4.** a tour on a river *(một chuyến tham quan trên sông)* → _______
 </questions>
 
 <teacher_script pause="0">
@@ -117,10 +124,10 @@ Bài 3 <eng>Complete the sentences</eng>. Điền từ thích hợp vào chỗ t
 </answer>
 
 <explanation>
-- **Câu 1 - tower:** Big Ben là **tháp** (tower) đồng hồ - Clock Tower.
-- **Câu 2 - symbol:** Chuột túi là **biểu tượng** (symbol) của nước Úc.
-- **Câu 3 - capital:** Washington D.C. là **thủ đô** (capital) của Mỹ.
-- **Câu 4 - boat ride:** Đi **thuyền** (boat ride) trên sông Thames.
+- **1. tower** - Tòa nhà cao hẹp với đỉnh nhỏ = **tháp** (tower).
+- **2. symbol** - Vật thể đại diện cho một địa điểm = **biểu tượng** (symbol).
+- **3. capital** - Thành phố quan trọng nhất của một quốc gia = **thủ đô** (capital).
+- **4. boat ride** - Chuyến tham quan trên sông = **đi thuyền** (boat ride).
 </explanation>
 
 <!-- chunk: pronunciation_theory -->
@@ -156,7 +163,7 @@ Nhớ quy tắc: <eng>Yes/No question</eng> → giọng LÊN ↗. <eng>Wh- quest
 ### Bài 4 trang 42 - Pronunciation Practice
 
 <teacher_script pause="0">
-Bài 4 <eng>Listen and mark the intonation</eng>. Nghe và đánh dấu ngữ điệu của từng câu hỏi nha.
+Bài 4 <eng>Listen and repeat, paying attention to the intonation</eng>. Nghe và lặp lại, chú ý ngữ điệu nha.
 </teacher_script>
 
 <audio src="https://img.loigiaihay.com/picture/2022/0817/083.mp3">
@@ -164,17 +171,16 @@ Bài 4 <eng>Listen and mark the intonation</eng>. Nghe và đánh dấu ngữ đ
 </audio>
 
 <task>
-**Đề:** Listen and mark the intonation (↗ or ↘) for each question.
-**Dịch đề:** Nghe và đánh dấu ngữ điệu (↗ hoặc ↘) cho mỗi câu hỏi.
+**Đề:** Listen and repeat, paying attention to the intonation of the following questions.
+**Dịch đề:** Nghe và lặp lại, chú ý ngữ điệu của những câu hỏi sau.
 </task>
 
 <questions type="ordering">
-**1.** Is Canada a big country?
-**2.** Where is New Zealand?
-**3.** Do Australians love the outdoors?
-**4.** What is the capital of the UK?
-**5.** Can you speak English?
-**6.** Why is Scotland famous?
+**1.** Can you speak English? ↗ *(Bạn có thể nói tiếng Anh không?)*
+**2.** Is Australia an island? ↗ *(Úc có phải là một hòn đảo không?)*
+**3.** Will you visit Washington next year? ↗ *(Bạn sẽ đến thăm Washington vào năm tới chứ?)*
+**4.** What is the capital of Scotland? ↘ *(Thủ đô của Scotland là gì?)*
+**5.** How big is Canada? ↘ *(Canada rộng lớn như thế nào?)*
 </questions>
 
 <teacher_script pause="0">
@@ -183,36 +189,39 @@ Bài 4 <eng>Listen and mark the intonation</eng>. Nghe và đánh dấu ngữ đ
 
 <answer>
 **Đáp án:**
-1. Is Canada a big country? ↗ *(Yes/No question)*
-2. Where is New Zealand? ↘ *(Wh- question)*
-3. Do Australians love the outdoors? ↗ *(Yes/No question)*
-4. What is the capital of the UK? ↘ *(Wh- question)*
-5. Can you speak English? ↗ *(Yes/No question)*
-6. Why is Scotland famous? ↘ *(Wh- question)*
+1. Can you speak English? ↗ *(Yes/No question)*
+2. Is Australia an island? ↗ *(Yes/No question)*
+3. Will you visit Washington next year? ↗ *(Yes/No question)*
+4. What is the capital of Scotland? ↘ *(Wh- question)*
+5. How big is Canada? ↘ *(Wh- question)*
 </answer>
 
 <explanation>
-- **Câu 1, 3, 5** → ↗ vì bắt đầu bằng **Is/Do/Can** → Yes/No questions → giọng LÊN.
-- **Câu 2, 4, 6** → ↘ vì bắt đầu bằng **Where/What/Why** → Wh- questions → giọng XUỐNG.
+- **Câu 1, 2, 3** → ↗ vì bắt đầu bằng **Can/Is/Will** → Yes/No questions → giọng LÊN.
+- **Câu 4, 5** → ↘ vì bắt đầu bằng **What/How** → Wh- questions → giọng XUỐNG.
 </explanation>
 
 <teacher_script pause="0">
-Bài 5 luyện đọc to nha. Đọc câu hỏi với ngữ điệu đúng.
+Bài 5 <eng>Circle the correct intonation. Then listen and repeat</eng>. Khoanh tròn đúng ngữ điệu, nghe và lặp lại nha.
 </teacher_script>
 
-### Bài 5 - Read Aloud
+<audio src="https://img.loigiaihay.com/picture/2022/0817/084.mp3">
+**Audio:** A Closer Look 1 - Bài 5
+</audio>
+
+### Bài 5 - Circle the Correct Intonation
 
 <task>
-**Đề:** Read the questions aloud with the correct intonation.
-**Dịch đề:** Đọc to các câu hỏi với ngữ điệu đúng.
+**Đề:** Circle the correct intonation. Then listen and repeat.
+**Dịch đề:** Khoanh tròn đúng ngữ điệu. Sau đó nghe và lặp lại.
 </task>
 
 <questions type="speaking">
-**1.** Is New Zealand an island country? ↗
-**2.** What language do Australians speak? ↘
-**3.** Are there kangaroos in Australia? ↗
-**4.** Where is Scotland? ↘
-**5.** Does Canada have a long coastline? ↗
+**1.** Where is Canada? ↘ *(Canada ở đâu?)*
+**2.** Could you show me Singapore on this map? ↗ *(Bạn có thể chỉ cho tôi Singapore trên bản đồ này được không?)*
+**3.** How many states are there in the USA? ↘ *(Có bao nhiêu tiểu bang ở Hoa Kỳ?)*
+**4.** Is English an official language in Malaysia? ↗ *(Tiếng Anh có phải là ngôn ngữ chính thức ở Malaysia không?)*
+**5.** Do you know much about New Zealand? ↗ *(Bạn có biết nhiều về New Zealand không?)*
 </questions>
 
 <teacher_script action="record">

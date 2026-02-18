@@ -83,42 +83,23 @@ Phần cuối: khi **KHÔNG** dùng mạo từ nha.
 </grammar>
 
 <!-- chunk: exercise_1 -->
-### Bài 1 trang 43 - Choose A, AN, or THE
+### Bài 1 trang 43 - Complete with a/an or the
 
 <teacher_script pause="60">
-Bài 1 <eng>Choose the correct article</eng>. Chọn mạo từ đúng nha. 1 phút.
+Bài 1 <eng>Complete the sentences with a/an or the</eng>. Điền mạo từ đúng nha. 1 phút.
 </teacher_script>
 
 <task>
-**Đề:** Choose a, an, or the to complete each sentence.
-**Dịch đề:** Chọn a, an hoặc the để hoàn thành mỗi câu.
+**Đề:** Complete the sentences with a/an or the.
+**Dịch đề:** Hoàn thành các câu với a/an hoặc the.
 </task>
 
-<questions type="multiple_choice">
-**1.** Australia is _______ island continent.
-- A. a
-- B. an
-- C. the
-
-**2.** _______ Pacific Ocean is the largest ocean in the world.
-- A. A
-- B. An
-- C. The
-
-**3.** London is _______ capital of the United Kingdom.
-- A. a
-- B. an
-- C. the
-
-**4.** New Zealand is _______ island country near Australia.
-- A. a
-- B. an
-- C. the
-
-**5.** Big Ben is _______ most famous clock tower in the world.
-- A. a
-- B. an
-- C. the
+<questions type="fill_blanks">
+**1.** Is Washington DC _______ capital of the USA? *(Washington DC có phải là _______ thủ đô của Hoa Kỳ không?)*
+**2.** Can you give me _______ example of an English-speaking country? *(Bạn có thể cho tôi _______ ví dụ về một quốc gia nói tiếng Anh không?)*
+**3.** The London Eye is _______ great attraction in London. *(London Eye là _______ điểm tham quan tuyệt vời ở London.)*
+**4.** Canada is _______ very cold country. *(Canada là _______ quốc gia rất lạnh.)*
+**5.** I love _______ New Zealand's countryside. *(Tôi yêu _______ vùng nông thôn của New Zealand.)*
 </questions>
 
 <teacher_script pause="0">
@@ -126,35 +107,35 @@ Ok đáp án nè. Giải thích từng câu luôn.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.B | 2.C | 3.C | 4.B | 5.C
+**Đáp án:** 1. the | 2. an | 3. a | 4. a | 5. the
 </answer>
 
 <explanation>
-- **Câu 1 - B. an:** "island" bắt đầu bằng nguyên âm /aɪ/ → dùng **an**. Australia là một lục địa hòn đảo.
-- **Câu 2 - C. The:** Đại dương (Ocean) → luôn dùng **the**. "The Pacific Ocean" = Thái Bình Dương.
-- **Câu 3 - C. The:** Thủ đô là duy nhất (chỉ có một thủ đô) → dùng **the**. "The capital" = thủ đô (đã xác định).
-- **Câu 4 - B. an:** "island" bắt đầu bằng nguyên âm → dùng **an**. New Zealand là một quốc đảo, nhắc lần đầu.
-- **Câu 5 - C. The:** Dùng với so sánh nhất "the most famous" → **the**. Big Ben là tháp đồng hồ nổi tiếng nhất thế giới.
+- **Câu 1 - the:** "Capital" (thủ đô) là danh từ mang tính **duy nhất** → dùng **the**. *"Is Washington DC **the** capital of the USA?"*
+- **Câu 2 - an:** "Example" bắt đầu bằng nguyên âm /ɪ/, nhắc đến lần đầu → dùng **an**. *"Can you give me **an** example?"*
+- **Câu 3 - a:** "Great" bắt đầu bằng phụ âm, nhắc đến lần đầu → dùng **a**. *"The London Eye is **a** great attraction."*
+- **Câu 4 - a:** "Very" bắt đầu bằng phụ âm, nhắc đến lần đầu → dùng **a**. *"Canada is **a** very cold country."*
+- **Câu 5 - the:** "Countryside" (vùng nông thôn) thường được xác định đối lập với thành thị → dùng **the**. *"I love **the** New Zealand's countryside."*
 </explanation>
 
 <!-- chunk: exercise_2 -->
-### Bài 2 trang 43 - Fill in the Blanks
+### Bài 2 trang 43 - Put in THE
 
 <teacher_script pause="60">
-Bài 2 <eng>Fill in the blanks with a, an or the</eng>. Điền <eng>a, an</eng> hoặc <eng>the</eng> vào chỗ trống nha. 1 phút.
+Bài 2 <eng>Put in the where necessary</eng>. Điền <eng>the</eng> vào chỗ cần thiết nha. Chỗ nào không cần thì bỏ trống. 1 phút.
 </teacher_script>
 
 <task>
-**Đề:** Complete the sentences with a, an or the.
-**Dịch đề:** Hoàn thành câu với a, an hoặc the.
+**Đề:** Put in the where necessary.
+**Dịch đề:** Điền the vào chỗ trống cần thiết.
 </task>
 
 <questions type="fill_blanks">
-**1.** Auckland is _______ biggest city on _______ North Island of New Zealand.
-**2.** _______ castle is _______ strong building with thick and high walls.
-**3.** Surrounding _______ UK is _______ Atlantic Ocean.
-**4.** Hawaii is _______ state of _______ USA.
-**5.** _______ attraction is _______ interesting place for visitors.
+**1.** _______ Statue of Liberty is in _______ New York. *(_______ Tượng Nữ thần Tự do ở _______ New York.)*
+**2.** _______ Scotland is a part of _______ UK. *(_______ Scotland là một phần của _______ Vương quốc Anh.)*
+**3.** New Zealand consists of _______ North Island and _______ South Island. *(New Zealand bao gồm _______ Đảo Bắc và _______ Đảo Nam.)*
+**4.** Disneyland in _______ California is one of _______ biggest entertainment centres in the world. *(Disneyland ở _______ California là một trong những trung tâm giải trí lớn nhất thế giới.)*
+**5.** Bangkok is _______ most popular city for tourists in _______ Kingdom of Thailand. *(Bangkok là thành phố _______ nổi tiếng nhất đối với khách du lịch ở _______ Vương quốc Thái Lan.)*
 </questions>
 
 <teacher_script pause="0">
@@ -163,39 +144,114 @@ Ok đáp án nè. Giải thích kỹ từng câu luôn.
 
 <answer>
 **Đáp án:**
-1. **the** biggest city on **the** North Island
-2. **A** castle is **a** strong building
-3. Surrounding **the** UK is **the** Atlantic Ocean
-4. Hawaii is **a** state of **the** USA
-5. **An** attraction is **an** interesting place
+1. **The** Statue of Liberty is in **Ø** New York.
+2. **Ø** Scotland is a part of **the** UK.
+3. New Zealand consists of **the** North Island and **the** South Island.
+4. Disneyland in **Ø** California is one of **the** biggest entertainment centres in the world.
+5. Bangkok is **the** most popular city for tourists in **the** Kingdom of Thailand.
 </answer>
 
 <explanation>
-- **Câu 1:** Dùng **the** trước so sánh nhất *(the biggest)* và trước tên địa danh cụ thể *(the North Island - đảo Bắc của New Zealand)*.
-- **Câu 2:** Dùng **a** vì "castle" và "strong building" là danh từ số ít bắt đầu bằng phụ âm, được nhắc đến lần đầu - chưa xác định cái nào cụ thể.
-- **Câu 3:** Dùng **the** trước tên nước có "Kingdom" *(the UK)* và trước tên đại dương *(the Atlantic Ocean)*.
-- **Câu 4:** Dùng **a** vì "state" là danh từ số ít nhắc đến lần đầu. Dùng **the** trước tên nước gồm nhiều tiểu bang *(the USA = The United States of America)*.
-- **Câu 5:** Dùng **an** vì "attraction" và "interesting" đều bắt đầu bằng nguyên âm /ə/ và /ɪ/, nhắc đến lần đầu.
+- **Câu 1:** Dùng **the** trước địa danh cụ thể, duy nhất *(The Statue of Liberty)*. **Không dùng** the trước tên thành phố *(New York)*.
+- **Câu 2:** **Không dùng** the trước tên nước thông thường *(Scotland)*. Dùng **the** trước tên nước có chữ "Kingdom" *(the UK)*.
+- **Câu 3:** Dùng **the** trước tên địa danh cụ thể, duy nhất *(the North Island, the South Island)*.
+- **Câu 4:** **Không dùng** the trước tên tiểu bang *(California)*. Dùng **the** trước cấu trúc so sánh nhất *(the biggest)*.
+- **Câu 5:** Dùng **the** trước cấu trúc so sánh nhất *(the most popular)* và trước tên nước có chữ "Kingdom" *(the Kingdom of Thailand)*.
 </explanation>
 
 <!-- chunk: exercise_3 -->
-### Bài 3 trang 43 - Correct the Mistakes
+### Bài 3 trang 43 - Articles with Nationalities
 
 <teacher_script pause="60">
-Bài 3 <eng>Find and correct the article mistakes</eng>. Tìm và sửa lỗi mạo từ nha. 1 phút.
+Bài 3 <eng>Put in a/an or the</eng>. Điền mạo từ đúng cho tên quốc tịch nha. 1 phút.
 </teacher_script>
 
 <task>
-**Đề:** Underline and correct the article mistakes in the sentences below.
-**Dịch đề:** Gạch chân và sửa lỗi mạo từ trong các câu dưới đây.
+**Đề:** Put in a/an or the.
+**Dịch đề:** Điền a/an hoặc the.
 </task>
 
 <questions type="fill_blanks">
-**1.** Ottawa is **a** capital of Canada.
-**2.** He's **the** Englishman. He lives in Oxford.
-**3.** When people travel, they use **an** map to find their way.
-**4.** Can you see **a** Big Ben from where you are standing?
-**5.** Canadians love ice hockey, **the** winter sport.
+| Country *(Quốc gia)* | People - singular *(số ít)* | People - plural *(số nhiều)* |
+|---|---|---|
+| Canada | (1) _______ Canadian | Canadians |
+| The USA | (2) _______ American | Americans |
+| England | (3) _______ Englishman | (4) _______ English |
+| New Zealand | (5) _______ New Zealander | New Zealanders |
+</questions>
+
+<teacher_script pause="0">
+Ok đáp án nè. Giải thích từng câu luôn.
+</teacher_script>
+
+<answer>
+**Đáp án:** 1. **a** Canadian | 2. **an** American | 3. **an** Englishman | 4. **The** English | 5. **a** New Zealander
+</answer>
+
+<explanation>
+- **(1) a Canadian:** "Canadian" bắt đầu bằng phụ âm /k/, số ít → dùng **a**.
+- **(2) an American:** "American" bắt đầu bằng nguyên âm /ə/, số ít → dùng **an**.
+- **(3) an Englishman:** "Englishman" bắt đầu bằng nguyên âm /ɪ/, số ít → dùng **an**.
+- **(4) The English:** Khi nói về **cả dân tộc** (người Anh nói chung) → dùng **The**. *"The English"* = tất cả người Anh.
+- **(5) a New Zealander:** "New" bắt đầu bằng phụ âm /n/, số ít → dùng **a**.
+</explanation>
+
+<!-- chunk: exercise_4 -->
+### Bài 4 trang 43 - Complete the Sentences
+
+<teacher_script pause="60">
+Bài 4 <eng>Complete the sentences with a/an or the</eng>. Điền mạo từ đúng vào câu nha. 1 phút.
+</teacher_script>
+
+<task>
+**Đề:** Complete the sentences with a/an or the.
+**Dịch đề:** Hoàn thành các câu với a/an hoặc the.
+</task>
+
+<questions type="fill_blanks">
+**1.** The man sitting next to her is _______ Englishman. *(Người đàn ông ngồi cạnh cô là _______ người Anh.)*
+**2.** _______ River Thames runs through London. *(_______ Sông Thames chảy qua London.)*
+**3.** Here is _______ map of the city of Edinburgh. *(Đây là _______ bản đồ của thành phố Edinburgh.)*
+**4.** What is _______ most popular sport in Canada? *(Môn thể thao _______ phổ biến nhất ở Canada là gì?)*
+**5.** We want to visit _______ attraction in Sydney. *(Chúng tôi muốn tham quan _______ điểm du lịch ở Sydney.)*
+**6.** _______ Statue of Liberty was a present from France. *(_______ Tượng Nữ thần Tự do là một món quà từ Pháp.)*
+</questions>
+
+<teacher_script pause="0">
+Đáp án nè. Giải thích từng câu luôn.
+</teacher_script>
+
+<answer>
+**Đáp án:** 1. an | 2. The | 3. the | 4. the | 5. an | 6. The
+</answer>
+
+<explanation>
+- **Câu 1 - an:** "Englishman" bắt đầu bằng nguyên âm /ɪ/ → dùng **an**. *"The man sitting next to her is **an** Englishman."*
+- **Câu 2 - The:** Tên sông → luôn dùng **the**. *"**The** River Thames runs through London."*
+- **Câu 3 - the:** Dùng **the** vì bản đồ này được xác định cụ thể (the map of the city of Edinburgh). *"Here is **the** map of the city of Edinburgh."*
+- **Câu 4 - the:** Dùng **the** trước cấu trúc so sánh nhất. *"What is **the** most popular sport in Canada?"*
+- **Câu 5 - an:** "Attraction" bắt đầu bằng nguyên âm /ə/, nhắc đến lần đầu → dùng **an**. *"We want to visit **an** attraction in Sydney."*
+- **Câu 6 - The:** "Statue of Liberty" là địa danh cụ thể, nổi tiếng → dùng **The**. *"**The** Statue of Liberty was a present from France."*
+</explanation>
+
+<!-- chunk: exercise_5 -->
+### Bài 5 trang 43 - Tick Correct Articles
+
+<teacher_script pause="60">
+Bài 5 <eng>Tick if the underlined articles are correct</eng>. Đánh dấu ✓ nếu mạo từ đúng, sai thì sửa lại nha. 1 phút.
+</teacher_script>
+
+<task>
+**Đề:** Tick (✓) if the underlined articles are correct. If they aren't, write the correct ones in the space provided.
+**Dịch đề:** Đánh dấu (✓) nếu các mạo từ được gạch chân là đúng. Nếu không, hãy viết đúng vào chỗ trống cho sẵn.
+</task>
+
+<questions type="fill_blanks">
+**1.** "What do you call a person from England?" - "**The** Englishman."
+**2.** Edinburgh is **a** capital city of Scotland.
+**3.** Queenstown is **a** amazingly beautiful town.
+**4.** Are ancient castles **an** attraction of Scotland?
+**5.** Where can you see **a** red telephone box?
 </questions>
 
 <teacher_script pause="0">
@@ -204,55 +260,19 @@ Ok đáp án nè. Giải thích kỹ luôn nha.
 
 <answer>
 **Đáp án:**
-1. a → **the** : Ottawa is **the** capital of Canada.
-2. the → **an** : He's **an** Englishman.
-3. an → **a** : They use **a** map.
-4. a → **the** : Can you see **the** Big Ben?
-5. the → **a** : Ice hockey, **a** winter sport.
+1. The → **An** : "**An** Englishman."
+2. a → **the** : Edinburgh is **the** capital city of Scotland.
+3. a → **an** : Queenstown is **an** amazingly beautiful town.
+4. ✓ : Are ancient castles **an** attraction of Scotland?
+5. ✓ : Where can you see **a** red telephone box?
 </answer>
 
 <explanation>
-- **Câu 1 - a → the:** "Capital" (thủ đô) là **duy nhất** - mỗi nước chỉ có một thủ đô → dùng **the**. *"Ottawa is **the** capital of Canada."*
-- **Câu 2 - the → an:** "Englishman" bắt đầu bằng nguyên âm /ɪ/, nhắc đến lần đầu → dùng **an**. *"He's **an** Englishman."*
-- **Câu 3 - an → a:** "Map" bắt đầu bằng phụ âm /m/ → dùng **a**, không phải **an**. *"They use **a** map."*
-- **Câu 4 - a → the:** "Big Ben" là địa danh cụ thể, nổi tiếng → dùng **the**. *"Can you see **the** Big Ben?"*
-- **Câu 5 - the → a:** "Winter sport" là danh từ số ít bắt đầu bằng phụ âm, nhắc đến lần đầu → dùng **a**. *"Ice hockey, **a** winter sport."*
-</explanation>
-
-<!-- chunk: exercise_4 -->
-### Bài 4 trang 43 - Complete the Passage
-
-<teacher_script pause="60">
-Bài 4 <eng>Fill in the blanks with a, an, or the</eng>. Đọc đoạn văn về nước Anh và điền mạo từ đúng nha. 1 phút.
-</teacher_script>
-
-<task>
-**Đề:** Fill in the blanks with a, an, or the.
-**Dịch đề:** Điền vào chỗ trống với a, an hoặc the.
-</task>
-
-<questions type="fill_blanks">
-*(1) _______ United Kingdom is (2) _______ island country in (3) _______ northwest of Europe. It has four countries: England, Scotland, Wales and Northern Ireland. London is (4) _______ capital city. It has many famous landmarks like (5) _______ Buckingham Palace and (6) _______ Big Ben. (7) _______ River Thames flows through London. (8) _______ UK is also famous for its royal family.*
-</questions>
-
-<teacher_script pause="0">
-Đáp án nè. Giải thích từng chỗ luôn.
-</teacher_script>
-
-<answer>
-**Đáp án:**
-1. **The** | 2. **an** | 3. **the** | 4. **the** | 5. **the** | 6. **the** | 7. **The** | 8. **The**
-</answer>
-
-<explanation>
-- **(1) The:** "United Kingdom" có chữ "Kingdom" → dùng **The**.
-- **(2) an:** "island" bắt đầu bằng nguyên âm /aɪ/, nhắc lần đầu → **an**.
-- **(3) the:** "northwest of Europe" - hướng địa lý dùng làm tên vùng cụ thể → **the**.
-- **(4) the:** "capital city" là duy nhất → **the**.
-- **(5) the:** "Buckingham Palace" là địa danh nổi tiếng cụ thể → **the**.
-- **(6) the:** "Big Ben" là địa danh nổi tiếng cụ thể → **the**.
-- **(7) The:** "River Thames" - tên sông → **The**. *(Luôn dùng the với sông.)*
-- **(8) The:** Nhắc lại "the UK" đã đề cập → **The**.
+- **Câu 1 - The → An:** "Englishman" bắt đầu bằng nguyên âm /ɪ/, nhắc đến lần đầu → dùng **an**, không phải the. *"**An** Englishman."*
+- **Câu 2 - a → the:** "Capital city" (thủ đô) là **duy nhất** → dùng **the**. *"Edinburgh is **the** capital city of Scotland."*
+- **Câu 3 - a → an:** "Amazingly" bắt đầu bằng nguyên âm /ə/ → dùng **an**. *"Queenstown is **an** amazingly beautiful town."*
+- **Câu 4 - ✓:** "Attraction" bắt đầu bằng nguyên âm /ə/, nhắc đến lần đầu → dùng **an** là đúng.
+- **Câu 5 - ✓:** "Red" bắt đầu bằng phụ âm /r/, nhắc đến lần đầu → dùng **a** là đúng.
 </explanation>
 
 <!-- chunk: end -->
