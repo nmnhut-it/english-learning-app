@@ -58,17 +58,42 @@ Bài 1 trang 29. Nối câu với hình. Em đọc câu tiếng Anh, tìm tính 
 Bài 2 trang 29. Điền tính từ sở hữu. Nhớ nhìn chủ ngữ trong câu để biết điền từ nào. 1 phút.
 </teacher_script>
 
-Điền my/your/his/her/its/our/their
+<task>
+**Đề:** Complete the sentences with the correct possessive adjectives.
+**Dịch đề:** Hoàn thành câu với tính từ sở hữu đúng.
+</task>
 
-1. my
-2. your
-3. its
-4. her
-5. our
+<questions type="fill_blanks">
+1. I love cartoons. _______ favourite cartoon is Dragon Balls.
+   *(Tôi thích phim hoạt hình. Phim hoạt hình yêu thích _______ là Dragon Balls.)*
 
-<teacher_script pause="0">
-Đáp án. Câu 1: <eng>I</eng> → <eng>my</eng>. Câu 2: <eng>you</eng> → <eng>your</eng>. Câu 3: <eng>it</eng> (con vật) → <eng>its</eng>. Câu 4: <eng>she</eng> → <eng>her</eng>. Câu 5: <eng>we</eng> → <eng>our</eng>.
+2. This book has your name on it. Is it _______ book?
+   *(Cuốn sách này có tên bạn trên đó. Nó có phải sách _______ không?)*
+
+3. The lion has three cubs. _______ cubs are playing under a big tree.
+   *(Con sư tử có ba con. Các con _______ đang chơi dưới gốc cây lớn.)*
+
+4. Do you know my friend Anna? _______ house is close to the park.
+   *(Bạn có biết bạn Anna của tôi không? Nhà _______ gần công viên.)*
+
+5. We are from Switzerland. _______ country is famous for chocolate.
+   *(Chúng tôi đến từ Thụy Sĩ. Đất nước _______ nổi tiếng về sô-cô-la.)*
+</questions>
+
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
+Ok đáp án nè.
 </teacher_script>
+
+<answer>
+**Đáp án:** 1. My | 2. your | 3. Its | 4. Her | 5. Our
+
+**Giải thích:**
+- Câu 1: **My** - chủ ngữ <eng>I</eng> → tính từ sở hữu <eng>my</eng>
+- Câu 2: **your** - nói với "bạn" → <eng>your</eng>
+- Câu 3: **Its** - con sư tử (<eng>it</eng>) → <eng>its</eng>
+- Câu 4: **Her** - Anna là nữ (<eng>she</eng>) → <eng>her</eng>
+- Câu 5: **Our** - chủ ngữ <eng>we</eng> → <eng>our</eng>
+</answer>
 
 <!-- chunk: possessive_pronouns -->
 <teacher_script pause="0">
@@ -101,15 +126,42 @@ Mẹo phân biệt nè: Tính từ sở hữu + danh từ (<eng>my book</eng>). 
 Bài 3 trang 29. Điền đại từ sở hữu. Nhớ: đại từ sở hữu đứng một mình, không có danh từ đi sau. 1 phút.
 </teacher_script>
 
-1. mine
-2. theirs
-3. yours
-4. his
-5. ours
+<task>
+**Đề:** Complete the sentences with the correct possessive pronouns.
+**Dịch đề:** Hoàn thành câu với đại từ sở hữu đúng.
+</task>
 
-<teacher_script pause="0">
-Đáp án. Tất cả các chỗ trống đều đứng một mình hoặc đứng cuối câu, không có danh từ đi sau → dùng đại từ sở hữu.
+<questions type="fill_blanks">
+1. I have a new bike. The bike is _______.
+   *(Tôi có một chiếc xe đạp mới. Chiếc xe đạp là _______.)*
+
+2. These are Mai's and Lan's maps. These maps are _______.
+   *(Đây là bản đồ của Mai và Lan. Những bản đồ này là _______.)*
+
+3. This is a present for you. It's _______.
+   *(Đây là quà cho bạn. Nó là _______.)*
+
+4. My father has new shoes. They're _______.
+   *(Bố tôi có đôi giày mới. Chúng là _______.)*
+
+5. This is our new house. The house is _______.
+   *(Đây là nhà mới của chúng tôi. Ngôi nhà là _______.)*
+</questions>
+
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
+Ok đáp án nè.
 </teacher_script>
+
+<answer>
+**Đáp án:** 1. mine | 2. theirs | 3. yours | 4. his | 5. ours
+
+**Giải thích:**
+- Câu 1: **mine** - <eng>I</eng> → đại từ sở hữu <eng>mine</eng>, đứng một mình
+- Câu 2: **theirs** - Mai và Lan (<eng>they</eng>) → <eng>theirs</eng>
+- Câu 3: **yours** - quà cho "bạn" (<eng>you</eng>) → <eng>yours</eng>
+- Câu 4: **his** - bố (<eng>he</eng>) → <eng>his</eng>
+- Câu 5: **ours** - chúng tôi (<eng>we</eng>) → <eng>ours</eng>
+</answer>
 
 <!-- chunk: exercise_4 -->
 ### Bài 4 trang 30 - Fill in the blanks
@@ -118,15 +170,42 @@ Bài 3 trang 29. Điền đại từ sở hữu. Nhớ: đại từ sở hữu �
 Bài 4 trang 30. Bài này khó hơn vì em phải phân biệt khi nào dùng tính từ sở hữu, khi nào dùng đại từ sở hữu. Nhìn xem có danh từ đi sau không. 90 giây.
 </teacher_script>
 
-1. **Úc là một đất nước lạ. Tất cả những thành phố lớn của nó thì dọc theo bờ biển.** → its (đứng trước danh từ "cities")
-2. **Thành phố của chúng tôi thì rất đông đúc. Còn (thành phố) của bạn thì sao?** → yours (đứng một mình, thay cho "your city")
-3. Tôi thích câu lạc bộ bóng đá của tôi. Phong có thích (câu lạc bộ) của cậu ấy không? → his (đứng một mình)
-4. Đường của chúng ta thì ngắn và hẹp. → our (đứng trước danh từ "street")
-5. Họ không thể tìm được bản đồ thành phố của họ. → their (đứng trước danh từ "city map")
+<task>
+**Đề:** Underline the correct word in brackets to complete each sentence.
+**Dịch đề:** Gạch chân từ đúng trong ngoặc để hoàn thành mỗi câu.
+</task>
 
-<teacher_script pause="0">
-Giải thích nha. Câu 1 và 4 và 5 dùng tính từ sở hữu vì có danh từ đi sau. Câu 2 và 3 dùng đại từ sở hữu vì đứng một mình, thay cho cụm danh từ đã nói trước đó.
+<questions type="multiple_choice">
+1. Australia is a strange country. All of (its / it's) big cities are along the coast.
+   *(Úc là một đất nước lạ. Tất cả những thành phố lớn _______ thì dọc theo bờ biển.)*
+
+2. Our city is very crowded. How about (your / yours)?
+   *(Thành phố của chúng tôi rất đông đúc. Còn _______ thì sao?)*
+
+3. I love my football club. Does Phong like (her / his)?
+   *(Tôi thích câu lạc bộ bóng đá của tôi. Phong có thích _______ không?)*
+
+4. (Our / Ours) street is short and narrow.
+   *(_______ đường thì ngắn và hẹp.)*
+
+5. It's not easy to find (your / yours) way in a strange city.
+   *(Không dễ để tìm đường _______ trong một thành phố lạ.)*
+</questions>
+
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
+Ok đáp án nè.
 </teacher_script>
+
+<answer>
+**Đáp án:** 1. its | 2. yours | 3. his | 4. Our | 5. your
+
+**Giải thích:**
+- Câu 1: **its** - tính từ sở hữu, đứng trước danh từ <eng>cities</eng>. Chú ý: <eng>its</eng> ≠ <eng>it's</eng> (it is)!
+- Câu 2: **yours** - đại từ sở hữu, đứng một mình thay cho <eng>your city</eng>
+- Câu 3: **his** - đại từ sở hữu, Phong là nam → <eng>his</eng>, đứng một mình
+- Câu 4: **Our** - tính từ sở hữu, đứng trước danh từ <eng>street</eng>
+- Câu 5: **your** - tính từ sở hữu, đứng trước danh từ <eng>way</eng>
+</answer>
 
 <!-- chunk: exercise_5 -->
 ### Bài 5 trang 30 - Multiple choice
@@ -135,11 +214,52 @@ Giải thích nha. Câu 1 và 4 và 5 dùng tính từ sở hữu vì có danh t
 Bài 5 trang 30. Chọn đáp án đúng A hoặc B. 1 phút.
 </teacher_script>
 
-1. B
-2. A
-3. B
-4. B
-5. B
+<task>
+**Đề:** Choose the correct word to complete the sentences.
+**Dịch đề:** Chọn từ đúng để hoàn thành câu.
+</task>
+
+<questions type="multiple_choice">
+**1.** The book is _______, but you are welcome to read it.
+- A. my
+- B. mine
+*(Cuốn sách là _______, nhưng bạn cứ đọc thoải mái.)*
+
+**2.** _______ bike is dirty, and I can't tell what colour it is.
+- A. Your
+- B. Yours
+*(_______ xe đạp bẩn quá, tôi không biết nó màu gì.)*
+
+**3.** Your country is much bigger than _______.
+- A. our
+- B. ours
+*(Đất nước của bạn lớn hơn _______ nhiều.)*
+
+**4.** _______ dog is so friendly. It never barks.
+- A. They
+- B. Their
+*(_______ con chó thân thiện lắm. Nó không bao giờ sủa.)*
+
+**5.** _______ not easy to find your way in a strange city.
+- A. Its
+- B. It's
+*(_______ không dễ để tìm đường trong một thành phố lạ.)*
+</questions>
+
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
+Ok đáp án nè.
+</teacher_script>
+
+<answer>
+**Đáp án:** 1.B | 2.A | 3.B | 4.B | 5.B
+
+**Giải thích:**
+- Câu 1: **B. mine** - đại từ sở hữu, đứng một mình sau <eng>is</eng>
+- Câu 2: **A. Your** - tính từ sở hữu, đứng trước danh từ <eng>bike</eng>
+- Câu 3: **B. ours** - đại từ sở hữu, đứng một mình sau <eng>than</eng>
+- Câu 4: **B. Their** - tính từ sở hữu, đứng trước danh từ <eng>dog</eng>
+- Câu 5: **B. It's** - viết tắt của <eng>It is</eng>, không phải tính từ sở hữu <eng>its</eng>
+</answer>
 
 <!-- chunk: end -->
 <teacher_script pause="0">

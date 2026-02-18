@@ -91,20 +91,20 @@ Bài 2 trang 28. Điền tính từ vào chỗ trống. Nhớ quy tắc: mô t�
 **Dịch đề:** Hoàn thành các câu với các tính từ trong khung.
 </task>
 
-**Word bank:** *friendly | delicious | old | exciting | tasty*
+**Word bank:** *friendly | delicious | old | exciting | sunny*
 
 <questions type="fill_blanks">
-1. The people in my town are very _______. They always say hello and help each other.
-   *(Người dân trong thị trấn của tôi rất _______. Họ luôn chào hỏi và giúp đỡ nhau.)*
+1. What's the weather like in Sydney in summer? It's _______ and dry.
+   *(Thời tiết ở Sydney mùa hè thế nào? Trời _______ và khô.)*
 
-2. This building is very _______. It was built 500 years ago.
-   *(Tòa nhà này rất _______. Nó được xây dựng 500 năm trước.)*
+2. I love the _______ buildings in Edinburgh. I feel that they can tell stories.
+   *(Tôi thích những tòa nhà _______ ở Edinburgh. Tôi cảm thấy chúng có thể kể chuyện.)*
 
 3. There are so many things to do in New York. It's very _______.
    *(Có rất nhiều thứ để làm ở New York. Nó rất _______.)*
 
-4. The _______ at the floating market are amazing!
-   *(_______ ở chợ nổi rất tuyệt vời!)*
+4. The people in my city are _______ and helpful.
+   *(Người dân thành phố tôi rất _______ và hay giúp đỡ.)*
 
 5. Ha Noi is famous for its _______ street food.
    *(Hà Nội nổi tiếng với đồ ăn đường phố _______.)*
@@ -112,15 +112,15 @@ Bài 2 trang 28. Điền tính từ vào chỗ trống. Nhớ quy tắc: mô t�
 
 <answer>
 **Đáp án:**
-1. **friendly** - vì mô tả người dân thân thiện
-2. **old** - vì tòa nhà được xây 500 năm trước
+1. **sunny** - vì mô tả thời tiết nắng ở Sydney mùa hè
+2. **old** - vì những tòa nhà cổ có thể "kể chuyện"
 3. **exciting** - vì New York có nhiều thứ thú vị
-4. **tasty** / **delicious** - vì mô tả đồ ăn ngon
-5. **delicious** / **tasty** - vì mô tả street food ngon
+4. **friendly** - vì mô tả người dân thân thiện
+5. **delicious** - vì mô tả street food ngon
 </answer>
 
 <teacher_script pause="0">
-Đáp án nè. Câu 1 điền <eng>friendly</eng> vì nói về người dân hay chào hỏi và giúp đỡ. Câu 2 điền <eng>old</eng> vì tòa nhà 500 tuổi - rất cổ. Câu 3 điền <eng>exciting</eng> vì New York có rất nhiều thứ để làm - thành phố sôi động thú vị. Câu 5 điền <eng>delicious</eng> hoặc <eng>tasty</eng> vì nói về <eng>street food</eng> - đồ ăn đường phố của Hà Nội nổi tiếng là ngon.
+Đáp án nè. Câu 1 điền <eng>sunny</eng> vì nói về thời tiết mùa hè ở Sydney - nắng và khô. Câu 2 điền <eng>old</eng> vì những tòa nhà cổ ở Edinburgh có thể "kể chuyện" - tức là rất lâu đời. Câu 3 điền <eng>exciting</eng> vì New York có rất nhiều thứ để làm. Câu 4 điền <eng>friendly</eng> vì nói về người dân thân thiện và hay giúp đỡ. Câu 5 điền <eng>delicious</eng> vì nói về <eng>street food</eng> - đồ ăn đường phố của Hà Nội nổi tiếng là ngon.
 </teacher_script>
 
 <!-- chunk: exercise_3 -->
@@ -202,14 +202,83 @@ Chuyển qua phần <eng>Pronunciation</eng> - Phát âm nha. Mình sẽ luyện
 Dễ nhớ nè: /əʊ/ miệng bắt đầu HẸP - như nói "ô" rồi "u". Còn /aʊ/ miệng bắt đầu RỘNG - như nói "a" rồi "u". Em đặt tay lên má, nói <eng>go</eng> rồi nói <eng>how</eng> - thấy miệng mở khác nhau không?
 </teacher_script>
 
-<!-- chunk: pronunciation_practice -->
-<teacher_script pause="0">
-Nghe bài nghe và để ý cách phát âm nha. Đọc theo luôn.
+<!-- chunk: exercise_4 -->
+### Bài 4 trang 29 - Listen and write the words
+
+<teacher_script pause="60">
+Bài 4 trang 29. Nghe và viết các từ vào đúng cột /əʊ/ hoặc /aʊ/. Nhớ: /əʊ/ miệng hẹp như <eng>go, snow</eng>. /aʊ/ miệng rộng như <eng>how, town</eng>. 1 phút.
 </teacher_script>
 
 <audio src="https://img.loigiaihay.com/picture/2021/1104/gs-u9-a-closer-look-1-ex4.mp3">
-**Audio:** A Closer Look 1
+**Audio:** A Closer Look 1 - Bài 4
 </audio>
+
+<task>
+**Đề:** Listen and write the words in the correct column. Then listen and repeat.
+**Dịch đề:** Nghe và viết các từ vào đúng cột. Sau đó nghe và nhắc lại.
+</task>
+
+**Word bank:** *boat | house | town | tower | postcard | crowded | coast | pagoda*
+
+<questions type="fill_blanks">
+| /əʊ/ | /aʊ/ |
+|------|------|
+| _______ | _______ |
+| _______ | _______ |
+| _______ | _______ |
+| _______ | _______ |
+</questions>
+
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
+Ok đáp án nè.
+</teacher_script>
+
+<answer>
+**Đáp án:**
+
+| /əʊ/ | /aʊ/ |
+|------|------|
+| snow | town |
+| cold | crowded |
+| boat | around |
+| Tokyo | house |
+
+**Giải thích:**
+- /əʊ/: **snow** (tuyết), **cold** (lạnh), **boat** (thuyền), **Tokyo** - miệng hẹp, âm "ô-u"
+- /aʊ/: **town** (thị trấn), **crowded** (đông đúc), **around** (xung quanh), **house** (nhà) - miệng rộng, âm "ao"
+</answer>
+
+---
+
+<!-- chunk: exercise_5 -->
+### Bài 5 trang 29 - Listen and repeat
+
+<teacher_script pause="0">
+Bài 5 trang 29. Nghe và nhắc lại các câu. Chú ý các từ gạch chân có âm /əʊ/ hoặc /aʊ/.
+</teacher_script>
+
+<task>
+**Đề:** Listen and repeat. Pay attention to the underlined words.
+**Dịch đề:** Nghe và nhắc lại. Chú ý các từ được gạch chân.
+</task>
+
+<questions type="fill_blanks">
+1. The **town** is **crowded** at the weekend.
+   *(Thị trấn đông đúc vào cuối tuần.)*
+
+2. There's lots of **snow** in **Tokyo** in winter.
+   *(Có nhiều tuyết ở Tokyo vào mùa đông.)*
+
+3. It's very **cold** on the **boat**.
+   *(Trời rất lạnh trên thuyền.)*
+
+4. He's running **around** the **house**.
+   *(Anh ấy đang chạy quanh nhà.)*
+</questions>
+
+<teacher_script pause="0">
+Em thấy không: câu 1 có <eng>town</eng> và <eng>crowded</eng> - cả hai đều là âm /aʊ/. Câu 2 có <eng>snow</eng> và <eng>Tokyo</eng> - âm /əʊ/. Câu 3 có <eng>cold</eng> và <eng>boat</eng> - âm /əʊ/. Câu 4 có <eng>around</eng> và <eng>house</eng> - âm /aʊ/. Đọc lại vài lần cho quen nha!
+</teacher_script>
 
 <!-- chunk: end -->
 <teacher_script pause="0">
