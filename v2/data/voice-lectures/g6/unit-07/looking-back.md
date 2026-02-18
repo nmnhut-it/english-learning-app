@@ -344,10 +344,10 @@ Chúng ta cùng làm Bài 4 <eng>Complete with conjunctions</eng>. Các em hãy 
 
 *Tôi rất thích The Seven Kitties, _______ tôi xem nó mỗi ngày.*
 
-**3.** BBC One is a British channel. VTV6 is a Vietnamese channel. (Nối thành 1 câu)
-→ BBC One is a British channel, _______ VTV6 is a Vietnamese channel.
+**3.** BBC One is a British channel. VTV1 is a Vietnamese channel. (Nối thành 1 câu)
+→ BBC One is a British channel, _______ VTV1 is a Vietnamese channel.
 
-*BBC One là kênh Anh, _______ VTV6 là kênh Việt Nam.*
+*BBC One là kênh Anh, _______ VTV1 là kênh Việt Nam.*
 
 **4.** Along the Coast is a famous series. I don't like it. (Nối thành 1 câu)
 → Along the Coast is a famous series, _______ I don't like it.
@@ -384,7 +384,7 @@ Câu 2: <eng>SO</eng> - Thích nên xem mỗi ngày. <eng>I like The Seven Kitti
 </teacher_script>
 
 <teacher_script pause="0" href="audio/tts_61a7acd8.mp3">
-Câu 3: <eng>BUT</eng> - British đối lập Vietnamese. <eng>BBC One is a British channel, but VTV6 is a Vietnamese channel</eng>. Hai ý đối lập.
+Câu 3: <eng>BUT</eng> - British đối lập Vietnamese. <eng>BBC One is a British channel, but VTV1 is a Vietnamese channel</eng>. Hai ý đối lập.
 </teacher_script>
 
 <teacher_script pause="0" href="audio/tts_f94740ba.mp3">

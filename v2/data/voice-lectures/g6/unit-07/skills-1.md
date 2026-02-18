@@ -90,11 +90,11 @@ Chúng ta cùng làm Bài 1 <eng>Read the TV guide</eng>. Các em hãy đọc b�
 <content_table>
 | Time | Programme | Description |
 |------|-----------|-------------|
-| **8:00** | **Wildlife:** Cuc Phuong Forest | See the colourful world of plants, flowers and animals in their real life. |
-| **9:00** | **Comedy:** The Fox Teacher | Lots of funny things happen to the fox teacher and his students on the first day at school. |
-| **10:30** | **Sports:** The Pig Race | Watch cute pigs compete in the most exciting races. Which will win? |
-| **11:00** | **Game show:** Children are Always Right | Join the show today and try to answer the interesting questions about pets. |
-| **12:15** | **Science:** The Dolphins | Watch interesting clips about intelligent dolphins in their natural life. |
+| **8:00** | **Wildlife:** Cuc Phuong Forest | Watch the colourful world of plants, flowers, and animals in their real life. |
+| **9:00** | **Comedy:** The Fox Teacher | Have a lot of fun with a fox teacher and his students on their first day at school. |
+| **10:30** | **Sports:** The Pig Race | Watch the cute pigs compete in the most exciting races. Who wins? |
+| **11:00** | **Game show:** Children are Always Right | Join this game show today and try to answer interesting questions about pets. |
+| **12:15** | **Science:** The Dolphins | Watch funny and interesting clips of intelligent dolphins in their natural life the sea. |
 </content_table>
 
 <teacher_script pause="0" href="audio/tts_a320062c.mp3">

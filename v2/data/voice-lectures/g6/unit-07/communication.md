@@ -367,10 +367,10 @@ Các em hãy đọc đoạn 1 về chương trình <eng>Let's Learn</eng>.
 |---------|------------|
 | **Let's Learn** is an educational TV programme. | **Let's Learn** là một chương trình truyền hình giáo dục. |
 | It makes learning fun. | Nó làm cho việc học trở nên thú vị. |
-| Children love this programme. | Trẻ em thích chương trình này. |
-| It has cute characters and fun songs. | Nó có nhiều nhân vật đáng yêu và bài hát thú vị. |
-| People in 80 countries watch it every day. | Người dân ở 80 quốc gia xem nó mỗi ngày. |
-| Both children and parents like this programme. | Cả trẻ em và các bố mẹ đều thích chương trình này. |
+| Children love it. | Trẻ em thích nó. |
+| It has cute characters and fun songs. | Nó có những nhân vật dễ thương và các bài hát vui nhộn. |
+| People in 80 countries watch it today. | Ngày nay, mọi người ở 80 quốc gia xem nó. |
+| Both children and their parents like it. | Cả trẻ em và phụ huynh đều thích nó. |
 </reading>
 
 <teacher_script pause="0" href="audio/tts_647951c9.mp3">
@@ -391,11 +391,11 @@ Các em hãy đọc đoạn 2 về chương trình <eng>Hello Fatty</eng>.
 <reading>
 | English | Vietnamese |
 |---------|------------|
-| **Hello Fatty** is a popular cartoon. | **Hello Fatty** là một phim hoạt hình phổ biến. |
-| It's about a clever fox named Fatty and his friends. | Nó nói về một con cáo thông minh tên là Fatty và bạn của nó. |
-| They go to many places together. | Chúng đi đến nhiều nơi cùng nhau. |
-| Children around the world love this programme. | Trẻ em trên khắp thế giới thích chương trình này. |
-| It's funny and educational. | Nó thú vị và có tính giáo dục. |
+| **Hello Fatty** is a popular TV cartoon. | **Hello Fatty** là một bộ phim hoạt hình truyền hình nổi tiếng. |
+| It's about a clever fox called Fatty and his friend. | Phim kể về một con cáo thông minh tên là Fatty và bạn của nó. |
+| Together they go to different places. | Họ cùng nhau đi đến những nơi khác nhau. |
+| Children around the world enjoy this programme. | Trẻ em trên khắp thế giới thích thú với chương trình này. |
+| It's funny and educational. | Nó hài hước và mang tính giáo dục. |
 </reading>
 
 <teacher_script pause="0" href="audio/tts_9d2b4212.mp3">
@@ -420,17 +420,17 @@ Bây giờ các em hãy đánh dấu vào bảng. Có thể chọn cả 2 nếu 
 <questions type="true_false">
 | | Let's Learn | Hello Fatty |
 |---|:-----------:|:-----------:|
-| 1. Children love the programme. | ☐ | ☐ |
-| 2. It has cute characters and fun songs. | ☐ | ☐ |
-| 3. It's about a clever fox. | ☐ | ☐ |
-| 4. It makes learning fun. | ☐ | ☐ |
-| 5. It's funny and educational. | ☐ | ☐ |
+| 1. It's educational. | ☐ | ☐ |
+| 2. It has viewers from 80 countries. | ☐ | ☐ |
+| 3. Its main character is a clever fox. | ☐ | ☐ |
+| 4. Both parents and children enjoy it. | ☐ | ☐ |
+| 5. It's a cartoon. | ☐ | ☐ |
 
-*1. Trẻ em thích chương trình.*
-*2. Có nhân vật đáng yêu và bài hát thú vị.*
-*3. Nói về một con cáo thông minh.*
-*4. Làm cho việc học trở nên thú vị.*
-*5. Thú vị và có tính giáo dục.*
+*1. Nó mang tính giáo dục.*
+*2. Nó có người xem từ 80 quốc gia.*
+*3. Nhân vật chính của nó là một con cáo thông minh.*
+*4. Cả cha mẹ và con cái đều thích thú.*
+*5. Đó là một phim hoạt hình.*
 </questions>
 
 ---
@@ -444,11 +444,11 @@ Bây giờ các em hãy đánh dấu vào bảng. Có thể chọn cả 2 nếu 
 **Đáp án:**
 | | Let's Learn | Hello Fatty |
 |---|:-----------:|:-----------:|
-| 1. Children love the programme. | ✓ | ✓ |
-| 2. It has cute characters and fun songs. | ✓ | |
-| 3. It's about a clever fox. | | ✓ |
-| 4. It makes learning fun. | ✓ | |
-| 5. It's funny and educational. | | ✓ |
+| 1. It's educational. | ✓ | ✓ |
+| 2. It has viewers from 80 countries. | ✓ | |
+| 3. Its main character is a clever fox. | | ✓ |
+| 4. Both parents and children enjoy it. | ✓ | |
+| 5. It's a cartoon. | | ✓ |
 </answer>
 
 <teacher_script pause="0" href="audio/tts_e70b2510.mp3">
@@ -456,23 +456,23 @@ Thầy sẽ giải thích từng câu.
 </teacher_script>
 
 <teacher_script pause="0" href="audio/tts_b58e5ea7.mp3">
-Câu 1: Trẻ em thích chương trình. Cả 2 đều đúng. <eng>Let's Learn</eng> nói <eng>Children love this programme</eng>. <eng>Hello Fatty</eng> nói <eng>Children around the world love this programme</eng>.
+Câu 1: Nó mang tính giáo dục. Cả 2 đều đúng. <eng>Let's Learn</eng> là <eng>educational TV programme</eng>. <eng>Hello Fatty</eng> nói <eng>It's funny and educational</eng>.
 </teacher_script>
 
 <teacher_script pause="0" href="audio/tts_2999ba6c.mp3">
-Câu 2: Có nhân vật đáng yêu và bài hát thú vị. Chỉ <eng>Let's Learn</eng>. Đoạn văn nói <eng>It has cute characters and fun songs.</eng>
+Câu 2: Có người xem từ 80 quốc gia. Chỉ <eng>Let's Learn</eng>. Đoạn văn nói <eng>People in 80 countries watch it today.</eng>
 </teacher_script>
 
 <teacher_script pause="0" href="audio/tts_f098faec.mp3">
-Câu 3: Nói về một con cáo thông minh. Chỉ <eng>Hello Fatty</eng>. Đoạn văn nói <eng>a clever fox named Fatty</eng>.
+Câu 3: Nhân vật chính là một con cáo thông minh. Chỉ <eng>Hello Fatty</eng>. Đoạn văn nói <eng>a clever fox called Fatty</eng>.
 </teacher_script>
 
 <teacher_script pause="0" href="audio/tts_408ee3f1.mp3">
-Câu 4: Làm cho việc học thú vị. Chỉ <eng>Let's Learn</eng>. Đoạn văn nói <eng>It makes learning fun.</eng>
+Câu 4: Cả cha mẹ và con cái đều thích. Chỉ <eng>Let's Learn</eng>. Đoạn văn nói <eng>Both children and their parents like it.</eng>
 </teacher_script>
 
 <teacher_script pause="0" href="audio/tts_ece2bace.mp3">
-Câu 5: Thú vị và có tính giáo dục. Chỉ <eng>Hello Fatty</eng>. Đoạn văn nói <eng>It's funny and educational.</eng>
+Câu 5: Đó là phim hoạt hình. Chỉ <eng>Hello Fatty</eng>. Đoạn văn nói <eng>Hello Fatty is a popular TV cartoon.</eng>
 </teacher_script>
 
 <explanation>
@@ -480,11 +480,11 @@ Câu 5: Thú vị và có tính giáo dục. Chỉ <eng>Hello Fatty</eng>. Đo�
 
 | Câu | Let's Learn | Hello Fatty | Lý do |
 |-----|:-----------:|:-----------:|-------|
-| 1 | ✓ | ✓ | Cả 2 đều nói "Children love..." |
-| 2 | ✓ | | Chỉ Let's Learn có "cute characters and fun songs" |
-| 3 | | ✓ | Chỉ Hello Fatty nói về "clever fox" |
-| 4 | ✓ | | Chỉ Let's Learn có "makes learning fun" |
-| 5 | | ✓ | Chỉ Hello Fatty nói "funny and educational" |
+| 1 | ✓ | ✓ | Cả 2 đều mang tính giáo dục (educational) |
+| 2 | ✓ | | Chỉ Let's Learn có "People in 80 countries watch it" |
+| 3 | | ✓ | Chỉ Hello Fatty nói về "a clever fox" |
+| 4 | ✓ | | Chỉ Let's Learn có "Both children and their parents like it" |
+| 5 | | ✓ | Chỉ Hello Fatty là "TV cartoon" |
 </explanation>
 
 <teacher_script pause="30" href="audio/tts_75ebc937.mp3">

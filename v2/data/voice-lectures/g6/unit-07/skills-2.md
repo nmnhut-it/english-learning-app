@@ -68,7 +68,7 @@ Chúng ta cùng đến với phần <eng>Listening</eng>. Có 2 bài tập.
 | It starts at eight o'clock. | Nó bắt đầu lúc 8 giờ. |
 | My Childhood is on channel 2. | Tuổi Thơ Tôi chiếu trên kênh 2. |
 | It's the story of a country boy and his dog Billy. | Đó là câu chuyện về một cậu bé nông thôn và chú chó Billy của cậu ấy. |
-| On channel 3, you will catch Harry Potter at 8.30. | Trên kênh 3, bạn có thể xem Harry Potter lúc 8:30. |
+| On channel 3, you will watch Harry Potter at 8.30. | Trên kênh 3, bạn sẽ xem Harry Potter lúc 8:30. |
 | Children all over the world love this film. | Trẻ em trên toàn thế giới đều yêu thích bộ phim này. |
 | If you like to learn English, you can go to English and Fun on channel 1. | Nếu bạn muốn học tiếng Anh, bạn có thể xem English and Fun trên kênh 1. |
 | It's at nine o'clock. | Nó chiếu lúc 9 giờ. |
@@ -247,40 +247,40 @@ Chúng ta cùng làm Bài 3 <eng>Answer the questions</eng>. Các em hãy trả 
 </task>
 
 <questions type="multiple_choice">
-**1.** How many hours a day do you watch TV?
-- A. About half an hour
-- B. About two hours or more
-- C. About one hour
+**1.** How much do you like watching TV?
+- A. A lot.
+- B. So so.
+- C. Not much.
+
+*Bạn thích xem TV đến mức nào?*
+
+**2.** How many hours a day do you watch TV?
+- A. 1 hour.
+- B. 2-3 hours.
+- C. Less than one hour.
 
 *Bạn xem TV bao nhiêu giờ một ngày?*
 
-**2.** When do you watch TV?
-- A. In the morning
-- B. In the afternoon
-- C. In the evening
+**3.** When do you watch TV the most?
+- A. In the morning.
+- B. In the afternoon.
+- C. In the evening.
 
-*Bạn xem TV khi nào?*
+*Bạn xem TV nhiều nhất khi nào?*
 
-**3.** Do you watch more TV on Saturday and Sunday?
-- A. No, I don't
-- B. About the same
-- C. Yes, I do
+**4.** Do you watch TV when you are eating?
+- A. Always.
+- B. Sometimes.
+- C. Never.
 
-*Bạn có xem TV nhiều hơn vào thứ Bảy và Chủ Nhật không?*
+*Bạn có xem TV khi đang ăn không?*
 
-**4.** Do you watch TV at other times?
-- A. When I'm studying
-- B. When I'm eating
-- C. Never
+**5.** What TV programme do you watch the most?
+- A. Cartoons.
+- B. Sports.
+- C. Science.
 
-*Bạn có xem TV vào lúc khác không?*
-
-**5.** What programme do you watch the most?
-- A. Science programme
-- B. Music programme
-- C. Sports programme
-
-*Bạn xem chương trình gì nhiều nhất?*
+*Chương trình TV nào bạn xem nhiều nhất?*
 </questions>
 
 <teacher_script pause="60" href="audio/tts_12543d88.mp3">
@@ -300,11 +300,11 @@ Các em hãy đọc câu hỏi và chọn đáp án phù hợp với mình. Các
 
 <explanation>
 **Giải thích mẫu:**
-1. **C** - About one hour: Xem khoảng 1 giờ/ngày
-2. **C** - In the evening: Xem buổi tối (sau khi học xong)
-3. **C** - Yes, I do: Cuối tuần xem nhiều hơn
-4. **B** - When I'm eating: Xem khi đang ăn
-5. **A** - Science programme: Thích xem chương trình khoa học
+1. **C** - Not much: Không thích xem TV lắm
+2. **C** - Less than one hour: Xem ít hơn 1 giờ/ngày
+3. **C** - In the evening: Xem buổi tối nhiều nhất
+4. **B** - Sometimes: Đôi khi xem khi đang ăn
+5. **A** - Cartoons: Xem phim hoạt hình nhiều nhất
 </explanation>
 
 <teacher_script pause="0" href="audio/tts_d47f7a2a.mp3">

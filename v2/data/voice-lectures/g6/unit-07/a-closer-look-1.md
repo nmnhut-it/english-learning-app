@@ -480,9 +480,9 @@ Bây giờ chúng ta sẽ luyện tập với các câu xoắn lưỡi. Các em 
 | wea**th**er | /ð/ |
 | **th**ere | /ð/ |
 
-**2.** The new theatre opened on Thursday the third.
+**2.** The new theatre opens on Thursday the third.
 
-*Nhà hát mới mở cửa vào ngày mùng 3 thứ Năm.*
+*Nhà hát mới mở cửa vào thứ Năm ngày mùng 3.*
 
 | Từ | Âm |
 |----|----|

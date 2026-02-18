@@ -44,15 +44,15 @@ Bây giờ các em sẽ nghe một đoạn băng. Hãy chú ý lắng nghe để
 **Phong:** What are you watching, Hung?
 **Hung:** The Voice Kids.
 **Phong:** That music talent show is very interesting.
-**Hung:** Yes, it is. What programmes do you often watch, Phong?
-**Phong:** Films! I like animated films like The Lion King.
+**Hung:** It is. What programme do you often watch, Phong?
+**Phong:** Films. I like animated films like The Lion King.
 **Hung:** I love them, too. They're wonderful.
 **Phong:** I often watch them with my little brother, but he prefers cartoons.
-**Hung:** Like Tom and Jerry?
-**Phong:** Ha ha... Yes. He finds Jerry the mouse very funny.
-**Hung:** Jerry is a clever character. Do you know any English programmes for children?
+**Hung:** Tom and Jerry?
+**Phong:** Ha... ha... Yes, he loves Jerry the mouse.
+**Hung:** Jerry's a clever character. Do you know any English programmes for children?
 **Phong:** Yes. I watch English in a Minute on VTV7. This channel has many educational programmes.
-**Hung:** Sounds good. I'll watch it, too.
+**Hung:** Great. I'll watch it, too.
 </dialogue>
 
 
@@ -64,18 +64,18 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 </teacher_script>
 
 <translation>
-**Phong:** Bạn đang xem cái gì, Hùng?
-**Hùng:** Giọng Hát Việt Nhí.
-**Phong:** Chương trình tài năng âm nhạc đó rất thú vị.
-**Hùng:** Đúng vậy. Bạn thường xem chương trình gì, Phong?
-**Phong:** Phim! Tôi thích phim hoạt hình như Vua Sư Tử.
-**Hùng:** Tôi cũng thích. Chúng thật tuyệt vời.
-**Phong:** Tôi thường xem với em trai, nhưng em ấy thích hoạt hình ngắn hơn.
-**Hùng:** Như Tom và Jerry?
-**Phong:** Haha, đúng vậy. Em tớ thấy chuột Jerry rất buồn cười.
-**Hùng:** Jerry là một nhân vật thông minh. Bạn có biết chương trình tiếng Anh nào cho trẻ em không?
-**Phong:** Có. Tôi xem English in a Minute trên VTV7. Kênh này có nhiều chương trình giáo dục.
-**Hùng:** Nghe hay đấy. Tôi cũng sẽ xem.
+**Phong:** Bạn đang xem gì vậy Hùng?
+**Hùng:** The Voice Kids (Giọng hát nhí).
+**Phong:** Các tiết mục biểu diễn tài năng âm nhạc đó rất thú vị.
+**Hùng:** Đúng vậy. Bạn thường xem chương trình gì vậy Phong?
+**Phong:** Phim. Mình thích những bộ phim hoạt hình như Vua sư tử.
+**Hùng:** Mình cũng thích chúng nữa. Chúng thật tuyệt vời.
+**Phong:** Mình thường xem chúng với em trai, nhưng em ấy thích phim hoạt hình hơn.
+**Hùng:** Tom và Jerry à?
+**Phong:** Ha ... ha ... Đúng vậy, nó rất thích chuột Jerry.
+**Hùng:** Jerry là một nhân vật thông minh. Bạn có biết chương trình tiếng Anh cho trẻ em nào không?
+**Phong:** Có. Mình xem English in a Minute trên VTV7. Kênh này có nhiều chương trình giáo dục.
+**Hùng:** Tuyệt vời. Mình cũng sẽ xem nó.
 </translation>
 
 <teacher_script pause="0" href="audio/tts_d5b1d729.mp3">

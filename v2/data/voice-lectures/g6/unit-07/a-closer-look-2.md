@@ -340,21 +340,21 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 </task>
 
 <dialogue>
-**Teacher:** Hi, Phong. **What** are you doing tomorrow?
-**Phong:** I'm going to the book fair.
-**Teacher:** **Where** is it?
-**Phong:** It's on Van Ho Street.
-**Teacher:** **How long** is it on?
-**Phong:** From January 4th to 7th.
+**Girl:** Hi, Phong. **What** are you doing tomorrow?
+**Phong:** I'm going to a book exhibition.
+**Girl:** **Where** is it?
+**Phong:** It's in Van Ho street.
+**Girl:** **How long** is it on?
+**Phong:** From the 4th to the 7th January.
 </dialogue>
 
 <translation>
-**Cô giáo:** Chào Phong. Ngày mai em sẽ làm gì?
-**Phong:** Em sẽ đi đến hội chợ sách ạ.
-**Cô giáo:** Ở đâu vậy?
-**Phong:** Dạ ở đường Văn Hồ ạ.
-**Cô giáo:** Hội chợ kéo dài bao lâu?
-**Phong:** Dạ từ mùng 4 đến mùng 7 tháng Một ạ.
+**Bạn gái:** Chào Phong. Ngày mai bạn định làm gì?
+**Phong:** Tôi định đi xem triển lãm sách.
+**Bạn gái:** Nó ở đâu?
+**Phong:** Nó ở đường Vân Hồ.
+**Bạn gái:** Nó diễn ra trong bao lâu?
+**Phong:** Từ mùng 4 đến mùng 7 tháng Giêng.
 </translation>
 
 ---
