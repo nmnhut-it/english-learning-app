@@ -67,8 +67,8 @@ Bài 2 — điền từ vào chỗ trống. Chọn từ hoặc cụm từ trong 
 </teacher_script>
 
 <task>
-**Đề:** Fill in each gap with a word or phrase from the box.
-**Dịch đề:** Điền vào mỗi chỗ trống một từ hoặc cụm từ trong ô.
+**Đề:** Fill in each gap with a word or phrase from the box. You may have to change the form of the word or phrase.
+**Dịch đề:** Điền vào mỗi khoảng trống với một từ hoặc cụm từ trong hộp. Bạn có thể phải thay đổi hình thức của từ hoặc cụm từ.
 
 **Word box:** *eye-tracking / application / check attendance / robot teacher / face recognition*
 </task>
@@ -125,8 +125,8 @@ Bài 3 — tìm lỗi sai và sửa lại. Mỗi câu có một phần gạch ch
 </teacher_script>
 
 <task>
-**Đề:** Which underlined part is incorrect? Find and correct.
-**Dịch đề:** Phần gạch chân nào sai? Tìm và sửa.
+**Đề:** Which of the underlined parts in each question is incorrect? Find and correct it.
+**Dịch đề:** Phần nào được gạch chân trong mỗi câu là không chính xác? Tìm và sửa nó.
 </task>
 
 <questions type="complete_sentences">
@@ -181,8 +181,8 @@ Bài 4 — bài cuối — viết lại câu dùng từ in đậm cho sẵn. M�
 </teacher_script>
 
 <task>
-**Đề:** Rewrite the sentences using the BOLD words.
-**Dịch đề:** Viết lại các câu dùng từ in đậm.
+**Đề:** Rewrite the following sentences, using the words in BOLD.
+**Dịch đề:** Viết lại các câu sau, sử dụng các từ in đậm.
 </task>
 
 <questions type="complete_sentences">
@@ -212,7 +212,7 @@ Làm bài 4 vô vở — 1 phút. Xác định cần đổi gì: lùi thì, đ�
 
 <answer>
 **Đáp án:**
-1. Tom said that they couldn't connect to the Internet to work online **there**.
+1. Tom said that we couldn't connect to the Internet to work online **there**.
 2. Mr Thompson said that science was becoming a more important subject in schools **then**.
 3. The headmaster said that the school **would** use a machine to check students' attendance the following year.
 4. The monitor said to the class that they were having a science competition **that** week.
@@ -220,7 +220,7 @@ Làm bài 4 vô vở — 1 phút. Xác định cần đổi gì: lùi thì, đ�
 </answer>
 
 <explanation>
-**Câu 1 — THERE:** "here" → "there" trong câu tường thuật. "can't" → "couldn't". "We" → "they". Tom said that they couldn't connect to the Internet to work online **there**. Từ gợi ý THERE nhắc mình đổi "here" → "there" nha.
+**Câu 1 — THERE:** "here" → "there" trong câu tường thuật. "can't" → "couldn't". "We" giữ nguyên vì Tom cũng nằm trong nhóm đó. Tom said that we couldn't connect to the Internet to work online **there**. Từ gợi ý THERE nhắc mình đổi "here" → "there" nha.
 
 **Câu 2 — THEN:** "now" → "then" trong câu tường thuật. "is becoming" → "was becoming". Mr Thompson said that science was becoming a more important subject in schools **then**. Từ gợi ý THEN nhắc đổi "now" → "then".
 

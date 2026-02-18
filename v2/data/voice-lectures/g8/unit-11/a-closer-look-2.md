@@ -64,8 +64,8 @@ Bài 1 trang 54 — nối câu trực tiếp với câu tường thuật. Hai c�
 </teacher_script>
 
 <task>
-**Đề:** Match direct speech (1-2) with reported speech (A-B).
-**Dịch đề:** Nối câu trực tiếp (1-2) với câu tường thuật (A-B).
+**Đề:** Look at part of the conversation in Getting Started again. Then match Minh's uncle's direct speech with his reported speech.
+**Dịch đề:** Nhìn lại một phần hội thoại trong bài Getting Started. Sau đó nối câu trực tiếp của chú Minh với câu tường thuật của cậu ấy.
 </task>
 
 <questions type="matching">
@@ -108,8 +108,8 @@ Bài 2 trang 54 — hoàn thành câu thứ hai dùng đúng dạng thì của �
 </teacher_script>
 
 <task>
-**Đề:** Complete each second sentence using the correct form of the verb.
-**Dịch đề:** Hoàn thành câu thứ hai sử dụng đúng dạng thì của động từ.
+**Đề:** Complete the second sentences using the correct verb forms.
+**Dịch đề:** Hoàn thành các câu thứ hai sử dụng đúng dạng thì của động từ.
 </task>
 
 <questions type="fill_blanks">
@@ -164,8 +164,10 @@ Bài 3 trang 55 — hoàn thành câu thứ hai bằng các từ cho sẵn trong
 </teacher_script>
 
 <task>
-**Đề:** Complete each second sentence with the correct word(s) from the box: there, that year, that day, then, the next day.
-**Dịch đề:** Hoàn thành câu thứ hai bằng từ đúng trong khung: there, that year, that day, then, the next day.
+**Đề:** Complete the second sentences with the words and phrases from the box.
+**Dịch đề:** Hoàn thành các câu thứ hai bằng các từ và cụm từ trong khung.
+
+**Word box:** *there, that year, that day, then, the next day*
 </task>
 
 <questions type="fill_blanks">
@@ -220,8 +222,8 @@ Bài 4 trang 55 — hoàn thành câu thứ hai sao cho nghĩa giống câu th�
 </teacher_script>
 
 <task>
-**Đề:** Complete the second sentence so that it means the same as the first.
-**Dịch đề:** Hoàn thành câu thứ hai sao cho cùng nghĩa với câu thứ nhất.
+**Đề:** Complete the second sentence in each pair so that it means the same as the first one.
+**Dịch đề:** Hoàn thành câu thứ hai trong mỗi cặp sao cho cùng nghĩa với câu thứ nhất.
 </task>
 
 <questions type="complete_sentences">
@@ -276,8 +278,8 @@ Bài 5 trang 55 — <eng>GAME</eng>. Trò chơi <eng>He/She said that...</eng> L
 </teacher_script>
 
 <task>
-**Đề:** GAME. He/She said that... Work in pairs. One student says a sentence and the other changes it to reported speech.
-**Dịch đề:** TRÒ CHƠI. Anh ấy/Cô ấy nói rằng... Làm việc theo cặp. Một học sinh nói một câu và bạn kia đổi sang câu tường thuật.
+**Đề:** GAME. He / She said that... Work in pairs. One student says a sentence and the other changes that sentence into reported speech. Then swap roles.
+**Dịch đề:** TRÒ CHƠI. Anh ấy / Cô ấy nói rằng... Làm việc theo cặp. Một học sinh nói một câu và bạn kia đổi câu đó sang câu tường thuật. Sau đó đổi vai.
 </task>
 
 <questions type="speaking">

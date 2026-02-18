@@ -46,8 +46,8 @@ Bài 1 — <eng>Work in pairs. Name the technological applications in the pictur
 </teacher_script>
 
 <task>
-**Đề:** Work in pairs. Name the technological applications in the pictures.
-**Dịch đề:** Làm theo cặp. Gọi tên các ứng dụng công nghệ trong hình.
+**Đề:** Work in pairs. Name the technological applications in the pictures. Can they be used in schools?
+**Dịch đề:** Làm việc theo cặp. Kể tên các ứng dụng công nghệ trong tranh. Chúng có thể được sử dụng trong trường học không?
 </task>
 
 <questions type="fill_blanks">
@@ -145,8 +145,8 @@ Bây giờ làm bài 2 — đọc lại hai bài và đánh dấu <eng>B</eng> c
 </teacher_script>
 
 <task>
-**Đề:** Read the two texts and tick B (Biometrics) or N (Nanolearning).
-**Dịch đề:** Đọc hai bài và đánh dấu B (Sinh trắc học) hoặc N (Học vi mô).
+**Đề:** Read the texts and tick (✓) B (Biometrics) or N (Nanolearning).
+**Dịch đề:** Đọc văn bản và đánh dấu (✓) B (Sinh trắc học) hoặc N (Nanolearning).
 </task>
 
 <questions type="matching">
@@ -203,33 +203,33 @@ Bài 3 — chọn đáp án đúng A, B hoặc C nha. Đọc kỹ câu hỏi và
 </teacher_script>
 
 <task>
-**Đề:** Choose the correct answer A, B, or C.
-**Dịch đề:** Chọn đáp án đúng A, B hoặc C.
+**Đề:** Read the texts again and choose the correct answer A, B, or C.
+**Dịch đề:** Đọc các văn bản một lần nữa và chọn câu trả lời đúng A, B, hoặc C.
 </task>
 
 <questions type="multiple_choice">
 **1.** What does checking students' attendance mean?
 - A. Checking their presence.
-- B. Checking their homework.
-- C. Checking their grades.
+- B. Scanning their faces.
+- C. Checking their fingerprints.
 *Kiểm tra sự có mặt của học sinh có nghĩa là gì?*
 
 **2.** With Nanolearning students can ___.
-- A. sit in front of a computer all day
+- A. access large amounts of information
 - B. improve their learning quality
-- C. forget large amounts of information
+- C. concentrate longer
 *Với Nanolearning, học sinh có thể ___.*
 
 **3.** What DOESN'T Nanolearning do?
-- A. Provide small amounts of information.
-- B. Report study results.
+- A. Provide a platform.
+- B. Report students' results.
 - C. Entertain students.
 *Nanolearning KHÔNG làm gì?*
 
 **4.** The texts are from ___.
-- A. textbooks
+- A. science books
 - B. advertisements
-- C. newspapers
+- C. manuals
 *Các bài đọc lấy từ ___.*
 </questions>
 
@@ -246,17 +246,17 @@ Chọn đáp án bài 3 đi — 1 phút. Đọc kỹ từng lựa chọn nha, c�
 1. **A** — Checking their presence.
 2. **B** — improve their learning quality
 3. **C** — Entertain students.
-4. **B** — advertisements
+4. **B** — advertisements (quảng cáo)
 </answer>
 
 <explanation>
-**Câu 1 — A:** "Checking students' attendance" nghĩa là điểm danh — tức là kiểm tra sự có mặt (<eng>checking their presence</eng>). Không phải kiểm tra bài tập hay điểm số nha.
+**Câu 1 — A:** "Checking students' attendance" nghĩa là điểm danh — tức là kiểm tra sự có mặt (<eng>checking their presence</eng>). B là quét mặt — đó chỉ là phương tiện, không phải nghĩa. C là kiểm tra vân tay — cũng chỉ là phương tiện thôi nha.
 
-**Câu 2 — B:** Bài Nanolearning nói "you will increase your learning attention and ability" — tức là cải thiện chất lượng học tập (<eng>improve their learning quality</eng>). Đáp án A và C là vấn đề mà Nanolearning giải quyết, không phải lợi ích nha — đọc kỹ bẫy đó!
+**Câu 2 — B:** Bài Nanolearning nói "you will increase your learning attention and ability" — tức là cải thiện chất lượng học tập (<eng>improve their learning quality</eng>). A sai vì Nanolearning cung cấp lượng nhỏ thông tin, không phải lượng lớn. C sai vì bài nói học sinh KHÔNG THỂ tập trung lâu, Nanolearning giải quyết bằng cách chia nhỏ, không phải giúp tập trung lâu hơn.
 
-**Câu 3 — C:** Nanolearning cung cấp thông tin nhỏ (A — có làm) và báo cáo kết quả (B — có làm). Nhưng giải trí học sinh (<eng>entertain students</eng>) thì KHÔNG — không có trong bài. Đây là câu hỏi DOESN'T nha, chọn cái mà nó KHÔNG làm.
+**Câu 3 — C:** Nanolearning cung cấp nền tảng (<eng>platform</eng>) (A — có làm) và báo cáo kết quả học sinh (B — có làm). Nhưng giải trí học sinh (<eng>entertain students</eng>) thì KHÔNG — không có trong bài. Đây là câu hỏi DOESN'T nha, chọn cái mà nó KHÔNG làm.
 
-**Câu 4 — B:** Cả hai bài đều có dạng quảng cáo — có website liên hệ ("For more information, visit..." và "Contact us at..."). Đây là dấu hiệu rõ ràng của quảng cáo (<eng>advertisements</eng>), không phải sách giáo khoa hay báo.
+**Câu 4 — B:** Cả hai bài đều có dạng quảng cáo — có website liên hệ ("For more information, visit..." và "Contact us at..."). Đây là dấu hiệu rõ ràng của quảng cáo (<eng>advertisements</eng>), không phải sách khoa học (<eng>science books</eng>) hay cẩm nang (<eng>manuals</eng>).
 </explanation>
 
 <!-- chunk: exercise_4 -->
@@ -267,16 +267,16 @@ Bài 4 — nối câu hỏi ở cột A với câu trả lời ở cột B, rồ
 </teacher_script>
 
 <task>
-**Đề:** Match questions in A with answers in B. Then make a conversation about an invention.
-**Dịch đề:** Nối câu hỏi ở cột A với câu trả lời ở cột B. Sau đó tạo hội thoại về một phát minh.
+**Đề:** Work in pairs. Discuss and match the questions in A with the answers in B, and then make a conversation about an invention.
+**Dịch đề:** Làm việc theo cặp. Thảo luận và nối các câu hỏi trong phần A với các câu trả lời trong phần B, sau đó trò chuyện về một phát minh.
 </task>
 
 <questions type="matching">
 **Cột A (Câu hỏi):**
-1. What invention do you like?
+1. What invention?
 2. Who invented it?
-3. When was it invented?
-4. What are the benefits?
+3. When invented?
+4. What benefit?
 
 **Cột B (Câu trả lời):**
 a. Alphonse Bertillon
