@@ -16,9 +16,6 @@ Các em mở sách ra, Unit 3, bài <eng>Listening</eng>, ghi tựa bài. Sau đ
 2. **privacy** : (n) sự riêng tư /ˈpraɪvəsi/
 3. **sense of community** : (n phr) ý thức cộng đồng /sens əv kəˈmjuːnəti/
 4. **neighbourhood** : (n) khu phố /ˈneɪbərhʊd/
-5. **household chores** : (n phr) việc nhà /ˈhaʊshoʊld tʃɔːrz/
-6. **cybercrime** : (n) tội phạm mạng /ˈsaɪbərkraɪm/
-7. **smart devices** : (n phr) thiết bị thông minh /smɑːrt dɪˈvaɪsɪz/
 </vocabulary>
 
 <!-- chunk: exercise_1 -->

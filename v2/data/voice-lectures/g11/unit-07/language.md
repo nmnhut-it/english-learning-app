@@ -304,9 +304,33 @@ Câu 4: <eng>After I answered</eng> → <eng>Having answered</eng>. Trả lời 
 </teacher_script>
 
 <!-- chunk: grammar_exercise_3 -->
-<teacher_script pause="0" action="record">
-Bài 3, làm việc theo cặp, đặt câu dùng <eng>perfect gerunds</eng> và <eng>perfect participle clauses</eng>. Ghi âm nha.
+<teacher_script pause="0">
+Bài 3, làm việc theo cặp, đặt câu dùng <eng>perfect gerunds</eng> và <eng>perfect participle clauses</eng>.
 </teacher_script>
+
+<task>
+**Đề:** Work in pairs. Make sentences about things you have done using perfect gerunds and perfect participle clauses.
+**Dịch đề:** Làm việc theo cặp. Đặt câu về những việc bạn đã làm, sử dụng danh động từ hoàn thành và mệnh đề phân từ hoàn thành.
+</task>
+
+<reading>
+**Example:**
+- *Having completed* the project gave us a feeling of satisfaction.
+- *Having finished* school, I can apply to university.
+</reading>
+
+<teacher_script pause="0" action="record">
+Đặt câu tương tự nha. Đây là câu mẫu tham khảo. Ghi âm nha.
+</teacher_script>
+
+<answer>
+**Câu mẫu tham khảo:**
+1. Having learned how to cook, he enjoys making new dishes for his friends.
+2. Having visited New York before, I am not planning to go there on this trip.
+3. Having finished the book, she decided to write a review of it.
+4. Having missed the last bus, they had to walk home in the rain.
+5. Having studied abroad for a year, she returned home with a new perspective on life.
+</answer>
 
 <!-- chunk: end -->
 <teacher_script pause="0">

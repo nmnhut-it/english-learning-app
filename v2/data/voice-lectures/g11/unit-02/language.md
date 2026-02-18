@@ -238,6 +238,18 @@ Bài 2. Nói về các quy tắc trong gia đình em. Dùng <eng>must, have to, 
 **Dịch đề:** Có quy tắc gì trong gia đình em? Chia sẻ với bạn. Dùng must, have to, should.
 </task>
 
+<reading>
+**Example:**
+**A:** I have to be back home by 9 p.m.
+**B:** Really? I don't have to. But my parents think I shouldn't stay out after 10 p.m.
+</reading>
+
+<answer>
+**Câu mẫu tham khảo:**
+**A:** I must not have a tattoo.
+**B:** Really? I don't have to. But my parents think I shouldn't have tattoos.
+</answer>
+
 <!-- chunk: end -->
 <teacher_script pause="0">
 Bài <eng>Language</eng> Unit 2 kết thúc rồi. Nhớ phân biệt <eng>must</eng> (chủ quan), <eng>have to</eng> (khách quan), <eng>should</eng> (lời khuyên) hen!

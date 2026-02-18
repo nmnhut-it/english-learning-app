@@ -243,6 +243,14 @@ Bài 2 ngữ pháp. Nói về việc em làm gì để giữ sức khỏe. Dùng
 **Dịch đề:** Nói về việc bạn làm để giữ dáng và khỏe mạnh. Sử dụng thì quá khứ đơn và hiện tại hoàn thành.
 </task>
 
+<reading>
+**Example:**
+**A:** I have exercised regularly for a year. I went swimming last weekend.
+**B:** That's great. I started doing yoga last week. My mom has done yoga for five years. And, my sister's healthy habit is cooking a healthy meal, she has done for 3 years.
+**A:** Wow! I think that healthy habits are good for us, so let's keep doing that.
+**B:** Yes, I totally agree with you.
+</reading>
+
 <!-- chunk: end -->
 <teacher_script pause="0">
 Bài <eng>Language</eng> Unit 1 kết thúc rồi. Nhớ phân biệt dạng mạnh và yếu của trợ động từ, và cách dùng thì quá khứ đơn với hiện tại hoàn thành hen!

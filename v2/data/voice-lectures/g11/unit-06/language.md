@@ -260,6 +260,12 @@ Bài 2 <eng>Work in pairs</eng>. Hỏi đáp về các di sản dùng cấu trú
 
 **A:** Why do people visit the Old Quarter in Hanoi?
 **B:** To experience the traditional Vietnamese lifestyle and to taste the local food.
+
+**A:** What can visitors do at the Hue Imperial City in central Vietnam?
+**B:** Visitors can explore the imperial palace and tombs to learn about the history of the Nguyen Dynasty.
+
+**A:** What is the purpose of the My Son Sanctuary in Quang Nam province?
+**B:** To serve as a center for Hindu worship and to honor the Cham dynasty.
 </dialogue>
 
 <teacher_script pause="0" action="record">

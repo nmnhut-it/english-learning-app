@@ -249,6 +249,25 @@ Bài 2. Nói câu về bạn mình dùng danh động từ nha. Ví dụ: "You e
 **Dịch đề:** Thay phiên đặt câu về bạn của mình, dùng danh động từ. Bạn ấy cho biết câu đó đúng hay không.
 </task>
 
+<reading>
+**Example:**
+**A:** You enjoy travelling around the region.
+**B:** Sorry, that's not true. Your dream job is working for the AYVP.
+**A:** You're right! Now, it's my turn again...
+</reading>
+
+<answer>
+**Câu mẫu tham khảo:**
+**A:** You are good at cooking delicious food.
+**B:** Yes, that's true. I love experimenting with new recipes.
+
+**B:** You enjoy reading books in your free time.
+**A:** Yes, that's true. I find reading very relaxing, and it helps me to expand my knowledge.
+
+**A:** You are passionate about learning new languages.
+**B:** Absolutely! I love learning new languages and exploring different cultures.
+</answer>
+
 <!-- chunk: end -->
 <teacher_script pause="0">
 Bài <eng>Language</eng> Unit 4 kết thúc rồi. Nhớ lược bỏ nguyên âm khi nói, từ vựng về ASEAN, và danh động từ V-ing làm chủ ngữ/tân ngữ hen!

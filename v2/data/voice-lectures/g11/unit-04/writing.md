@@ -101,6 +101,64 @@ Ok đáp án nè.
 - We really hope you will consider this proposal as...
 </grammar>
 
+<!-- chunk: exercise_2 -->
+### Bài 2 trang 49 - Group discussion
+
+<teacher_script pause="0">
+Bài 2, làm việc nhóm. Đề xuất sự kiện làm áp phích ASEAN. Thảo luận và bổ sung thêm ý tưởng vào bảng nha.
+</teacher_script>
+
+<task>
+**Đề:** Work in groups. You want to propose an ASEAN poster making event to welcome a group of ASEAN students. Discuss and add more ideas to the following notes.
+**Dịch đề:** Làm việc nhóm. Bạn muốn đề xuất một sự kiện làm áp phích ASEAN để chào đón một nhóm sinh viên ASEAN. Thảo luận và bổ sung thêm ý kiến vào phần ghi chép sau.
+</task>
+
+<reading>
+| | Notes |
+|---|---|
+| **Title** | ASEAN POSTER MAKING EVENT |
+| **Place** | … |
+| **Date** | … |
+| **Duration** | One day |
+| **Participants** | … |
+| **Activities** | - training workshops on poster design |
+| | - presentations on current issues in ASEAN |
+| | - … |
+| **Goals** | - to help young people from ASEAN countries meet and build a community |
+| | - … |
+| **Benefits** | - developing the ability to work with people from other countries |
+| | - creating shared values |
+</reading>
+
+<teacher_script pause="120">
+Thảo luận trong nhóm và bổ sung thêm ý tưởng. 2 phút nha.
+</teacher_script>
+
+<teacher_script pause="0">
+Ok đáp án gợi ý nè.
+</teacher_script>
+
+<answer>
+**Đáp án gợi ý:**
+
+| | Notes |
+|---|---|
+| **Title** | ASEAN POSTER MAKING EVENT |
+| **Place** | University campus |
+| **Date** | August 8th |
+| **Duration** | One day |
+| **Participants** | Young people from different ASEAN countries |
+| **Activities** | - training workshops on poster design |
+| | - presentations on current issues in ASEAN |
+| | - cultural performances, food stalls, and a gallery exhibition of the posters |
+| **Goals** | - to help young people from ASEAN countries meet and build a community |
+| | - to promote ASEAN awareness and foster a sense of community among the youth |
+| | - to showcase the creativity and talent of ASEAN youth in poster design |
+| **Benefits** | - developing the ability to work with people from other countries |
+| | - creating shared values |
+| | - opportunities for participants to learn from each other, build cross-cultural relationships, and develop skills in teamwork, communication, and leadership |
+</answer>
+
 <!-- chunk: exercise_3 -->
 ### Bài 3 trang 50 - Write a proposal
 

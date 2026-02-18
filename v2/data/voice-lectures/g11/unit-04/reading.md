@@ -109,7 +109,7 @@ Bài 3. Nối từ được tô đậm với nghĩa nha. <eng>Match the highligh
 
 a. shown over the Internet
 b. to act officially for another person or organisation
-c. the way in which people or groups behave towards each other
+c. the way in which people or groups of people behave towards each other
 d. surprising because you learn something new
 </questions>
 

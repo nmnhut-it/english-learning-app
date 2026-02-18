@@ -17,8 +17,6 @@ Học từ vựng trước nha.
 3. **urban centre** : (n phr) trung tâm đô thị /ˈɜːrbən ˈsentər/
 4. **roof garden** : (n phr) vườn trên mái /ruːf ˈɡɑːrdən/
 5. **skyscraper** : (n) tòa nhà chọc trời /ˈskaɪskreɪpər/
-6. **stative verb** : (n phr) động từ trạng thái /ˈsteɪtɪv vɜːrb/
-7. **linking verb** : (n phr) động từ nối /ˈlɪŋkɪŋ vɜːrb/
 </vocabulary>
 
 <!-- chunk: pronunciation_1 -->
@@ -276,6 +274,36 @@ Bài 3. Nói về sự phát triển trong tương lai ở khu phố của em. D
 **Đề:** Work in pairs. Talk about future developments in your neighbourhood. Use stative verbs in continuous form and linking verbs.
 **Dịch đề:** Nói về sự phát triển trong tương lai ở khu phố. Dùng động từ trạng thái ở dạng tiếp diễn và động từ nối.
 </task>
+
+<reading>
+**Example:**
+**A:** The government is thinking of building a new skyscraper here.
+**B:** Fantastic! Our city will look more modern.
+</reading>
+
+<teacher_script pause="0" action="record">
+Đặt câu tương tự nha. Đây là câu mẫu tham khảo. Ghi âm nha.
+</teacher_script>
+
+<answer>
+**Câu mẫu tham khảo:**
+
+**1.**
+**A:** The city council is planning to renovate the old buildings in our neighborhood.
+**B:** That's great news! The area will be more vibrant, and it will attract more tourists.
+
+**2.**
+**A:** The construction company is developing a new housing project near our neighborhood.
+**B:** That's interesting. The population in our area will increase, and the demand for services and infrastructure will grow.
+
+**3.**
+**A:** The local authorities are discussing improving public transportation in our neighborhood.
+**B:** That's important! With better transportation, more people will be able to move around easily, and it will reduce traffic congestion.
+
+**4.**
+**A:** The city government is investing in the development of green spaces in our neighborhood.
+**B:** That's amazing! With more parks and gardens, the air quality will improve, and it will enhance the quality of life for everyone.
+</answer>
 
 <!-- chunk: end -->
 <teacher_script pause="0">
