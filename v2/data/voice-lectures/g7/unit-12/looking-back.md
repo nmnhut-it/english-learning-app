@@ -31,7 +31,7 @@ Ok đáp án nè. Giải thích từng câu luôn.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. island | 2. ancient castle | 3. boat ride | 4. tattoos | 5. coastlines
+**Đáp án:** 1. island | 2. ancient castle | 3. boat ride | 4. tattoos | 5. coastline
 </answer>
 
 <explanation>
@@ -39,7 +39,7 @@ Ok đáp án nè. Giải thích từng câu luôn.
 - **Câu 2:** Điểm thu hút lớn của Scotland là **ancient castle** (lâu đài cổ kính) - Scotland nổi tiếng với lâu đài.
 - **Câu 3:** Mọi người có thể tham quan bằng cách đi **boat ride** (du thuyền).
 - **Câu 4:** Hầu hết đàn ông Maori đều có **tattoos** (hình xăm) trên cánh tay - đặc trưng văn hóa Maori.
-- **Câu 5:** California nổi tiếng với những đường **coastlines** (bờ biển) dài đầy nắng.
+- **Câu 5:** California nổi tiếng với đường **coastline** (bờ biển) dài đầy nắng.
 </explanation>
 
 <!-- chunk: exercise_2 -->
