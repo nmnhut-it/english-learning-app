@@ -206,6 +206,9 @@ Bài 4 — <eng>Work in pairs. Tick the boxes to show what conditions a planet n
 
 **5.** The planet must have enough oxygen in the air.
 *Hành tinh phải có đủ oxy trong không khí.*
+
+Can you add other conditions for a habitable planet?
+*Bạn có thể thêm các điều kiện khác cho một hành tinh có thể ở được không?*
 </questions>
 
 <teacher_script pause="0">
