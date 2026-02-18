@@ -163,11 +163,16 @@ Ok đáp án nè.
 
 ---
 
+<!-- chunk: writing_intro -->
+<teacher_script pause="0">
+Ok xong phần <eng>Listening</eng> rồi. Giờ chuyển qua phần <eng>Writing</eng> nha. Mình sẽ tập viết bưu thiếp về một thành phố em biết.
+</teacher_script>
+
 <!-- chunk: exercise_4 -->
-### Bài 4 trang 33 - Speaking
+### Bài 4 trang 33 - Speaking (pre-writing)
 
 <teacher_script pause="120">
-Bài 4. Nói về một thành phố ở Việt Nam. Trả lời 3 câu hỏi: Thành phố gì? Nó như thế nào? Em có thể xem và làm gì ở đó? 2 phút suy nghĩ nha.
+Bài 4. Trước khi viết, mình nói trước nha. Nói về một thành phố ở Việt Nam. Trả lời 3 câu hỏi: Thành phố gì? Nó như thế nào? Em có thể xem và làm gì ở đó? 2 phút suy nghĩ nha.
 </teacher_script>
 
 <task>
