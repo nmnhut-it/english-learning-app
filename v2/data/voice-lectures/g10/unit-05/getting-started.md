@@ -39,8 +39,8 @@ Giờ nghe và đọc hội thoại nha. Phong và bố đang bàn về việc m
 | **Dad:** Perhaps a laptop is a better choice. Since laptops were invented, they've allowed us to study better and work faster. They've completely changed our lives in the last 20 years. | **Bố:** Có lẽ laptop là lựa chọn tốt hơn. Kể từ khi laptop được phát minh, chúng giúp ta học tốt hơn và làm việc nhanh hơn. Chúng đã thay đổi hoàn toàn cuộc sống trong 20 năm qua. |
 | **Phong:** That's true, Dad. But smartphones have also improved the way we work and study. | **Phong:** Đúng vậy bố. Nhưng smartphone cũng cải thiện cách làm việc và học tập. |
 | **Dad:** Really? I didn't know smartphones were suitable for learning. | **Bố:** Thật à? Bố không biết smartphone phù hợp cho việc học. |
-| **Phong:** Well, it's actually a lot of fun to learn with educational apps. It's also very convenient for learners to use them. The apps allow them to communicate and learn at the same time. | **Phong:** Thật ra rất thú vị khi học với ứng dụng giáo dục. Rất thuận tiện cho người học. Các ứng dụng cho phép giao tiếp và học cùng lúc. |
-| **Dad:** I didn't know that! There have been so many valuable inventions. Hmm... Perhaps you should ask your teacher. | **Bố:** Bố không biết điều đó! Có rất nhiều phát minh giá trị. Hmm... Có lẽ con nên hỏi cô giáo. |
+| **Phong:** Well, it's actually a lot of fun to learn with educational apps. It's also very convenient for learners to use them. Some of my classmates love using them on their smartphones. The apps allow them to communicate and learn at the same time. | **Phong:** Thật ra rất thú vị khi học với ứng dụng giáo dục. Rất thuận tiện cho người học. Một số bạn học của con thích dùng chúng trên điện thoại. Các ứng dụng cho phép giao tiếp và học cùng lúc. |
+| **Dad:** I didn't know that! There have been so many valuable inventions. Hmm... Perhaps you should ask your teacher. She may be able to help you decide. | **Bố:** Bố không biết điều đó! Có rất nhiều phát minh giá trị. Hmm... Có lẽ con nên hỏi cô giáo. Cô ấy có thể giúp con quyết định. |
 </dialogue>
 
 <teacher_script pause="180">

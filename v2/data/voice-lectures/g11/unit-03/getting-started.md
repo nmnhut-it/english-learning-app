@@ -34,15 +34,19 @@ Học từ vựng trước nha. Bấm nút "Bắt đầu" bên dưới để h�
 <dialogue>
 | English | Vietnamese |
 |---------|------------|
-| **Ms Smith:** Good morning. Welcome to our exhibition: Future Cities. Here you can see models of our cities of the future. | **Cô Smith:** Chào buổi sáng. Chào mừng đến triển lãm Thành phố Tương lai. Ở đây các em có thể xem các mô hình thành phố tương lai. |
+| **Ms Smith:** Good morning. Welcome to our exhibition: Future Cities. Here you can see models of our cities of the future. Please take a look around and feel free to ask me any questions. | **Cô Smith:** Chào buổi sáng. Chào mừng đến triển lãm Thành phố Tương lai. Ở đây các em có thể xem các mô hình thành phố tương lai. Xin hãy nhìn xung quanh và cứ thoải mái hỏi cô bất kỳ câu hỏi nào. |
 | **Nam:** This model looks very interesting. Can you tell me more about it, Ms Smith? | **Nam:** Mô hình này trông rất thú vị. Cô có thể cho em biết thêm không ạ? |
-| **Ms Smith:** Yes. This is a 'green city' designed to reduce its negative impact on the environment. More than fifty per cent of it is made up of green areas. | **Cô Smith:** Được. Đây là "thành phố xanh" được thiết kế để giảm tác động tiêu cực đến môi trường. Hơn 50% là mảng xanh. |
+| **Ms Smith:** Yes. This is a 'green city' designed to reduce its negative impact on the environment. As you can see, more than fifty per cent of it is made up of green areas. | **Cô Smith:** Được. Đây là "thành phố xanh" được thiết kế để giảm tác động tiêu cực đến môi trường. Như các em thấy, hơn 50% là mảng xanh. |
 | **Nam:** I don't see any private vehicles on the roads. | **Nam:** Em không thấy phương tiện cá nhân nào trên đường. |
 | **Ms Smith:** Most people will use public transport such as trams and electric buses. There will be fewer traffic jams and less pollution. | **Cô Smith:** Hầu hết mọi người sẽ dùng phương tiện công cộng như xe điện và xe buýt điện. Sẽ ít tắc đường và ít ô nhiễm hơn. |
-| **Mai:** I can see robots and lots of cameras in the streets. What's special about this city? | **Mai:** Em thấy robot và nhiều camera trên đường. Thành phố này có gì đặc biệt? |
+| **Nam:** So city dwellers will stop using their cars in urban areas. | **Nam:** Vậy cư dân thành phố sẽ ngừng sử dụng ô tô trong khu vực đô thị. |
+| **Ms Smith:** That's the idea. | **Cô Smith:** Đó là ý tưởng. |
+| **Nam:** I like it. It seems a good solution to many environmental problems. | **Nam:** Em thích nó. Nó dường như là một giải pháp tốt cho nhiều vấn đề môi trường. |
+| **Mai:** Let's look at the city over there. I can see robots and lots of cameras in the streets. What's special about this city? | **Mai:** Hãy nhìn vào thành phố đằng kia. Em thấy robot và nhiều camera trên đường. Thành phố này có gì đặc biệt? |
 | **Ms Smith:** It's called a 'smart city'. AI technologies, such as cameras and smart sensors, will be installed to help the city operate more efficiently. | **Cô Smith:** Nó được gọi là "thành phố thông minh". Công nghệ AI như camera và cảm biến thông minh sẽ được lắp đặt để giúp thành phố vận hành hiệu quả hơn. |
-| **Mai:** The modern infrastructure of the city looks beautiful. I'm really impressed with the high-rise buildings. | **Mai:** Cơ sở hạ tầng hiện đại trông thật đẹp. Em thực sự ấn tượng với các tòa nhà cao tầng. |
-| **Ms Smith:** Tall buildings can actually limit the carbon footprint and help solve housing problems in big cities. | **Cô Smith:** Nhà cao tầng thực sự có thể hạn chế khí thải carbon và giải quyết vấn đề nhà ở ở thành phố lớn. |
+| **Mai:** The modern infrastructure of the city looks beautiful. I'm really impressed with the high-rise buildings. | **Mai:** Cơ sở hạ tầng hiện đại của thành phố trông thật đẹp. Em thực sự ấn tượng với các tòa nhà cao tầng. |
+| **Ms Smith:** Tall buildings can actually limit the carbon footprint of the built environment and help solve housing problems in big cities. | **Cô Smith:** Nhà cao tầng thực sự có thể hạn chế lượng khí thải carbon của môi trường xây dựng và giải quyết vấn đề nhà ở ở thành phố lớn. |
+| **Mai:** Mmm, I'm thinking of living in a smart city in the future. | **Mai:** Mmm, em đang nghĩ đến việc sống trong một thành phố thông minh trong tương lai. |
 </dialogue>
 
 <teacher_script pause="180">
