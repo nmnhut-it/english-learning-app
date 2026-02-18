@@ -30,6 +30,9 @@ Chúng ta cùng học từ vựng mới. Các em hãy nghe và lặp lại theo 
 9. **My Childhood** : Tuổi Thơ Của Tôi /maɪ ˈtʃaɪldhʊd/
 10. **Harry Potter** : Harry Potter /ˈhæri ˈpɒtə/
 11. **English and Fun** : Tiếng Anh Vui /ˈɪŋɡlɪʃ ænd fʌn/
+12. **story** : (n) câu chuyện /ˈstɔːri/
+13. **country boy** : (n) cậu bé ở quê /ˈkʌntri bɔɪ/
+14. **TV-viewing habits** : (n.p) thói quen xem TV /ˌtiːˈviː ˈvjuːɪŋ ˈhæbɪts/
 </vocabulary>
 
 

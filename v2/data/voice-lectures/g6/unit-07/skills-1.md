@@ -47,6 +47,10 @@ Chúng ta cùng học từ vựng mới. Các em hãy nghe và lặp lại theo 
 19. **pet** : (n) thú cưng /pet/
 20. **intelligent** : (adj) thông minh /ɪnˈtelɪdʒənt/
 21. **dolphin** : (n) cá heo /ˈdɒlfɪn/
+22. **fox** : (n) con cáo /fɒks/
+23. **race** : (n) cuộc đua /reɪs/
+24. **pig** : (n) con lợn /pɪɡ/
+25. **natural life** : (n.p) đời sống tự nhiên /ˈnætʃrəl laɪf/
 </vocabulary>
 
 <teacher_script pause="0" href="audio/tts_9454b546.mp3">

@@ -42,6 +42,12 @@ Chúng ta cùng ôn lại từ vựng. Các em hãy nghe và đọc theo. Sau đ
 16. **viewer** : (n) người xem /ˈvjuːə/
 17. **channel** : (n) kênh truyền hình /ˈtʃænl/
 18. **character** : (n) nhân vật /ˈkærəktə/
+19. **informative** : (adj) nhiều thông tin /ɪnˈfɔːmətɪv/
+20. **news** : (n) tin tức /njuːz/
+21. **talk show** : (n) chương trình trò chuyện /tɔːk ʃəʊ/
+22. **attract** : (v) thu hút /əˈtrækt/
+23. **tiger** : (n) con hổ /ˈtaɪɡə/
+24. **giraffe** : (n) hươu cao cổ /dʒɪˈrɑːf/
 </vocabulary>
 
 <teacher_script pause="60" href="audio/tts_3c77989e.mp3">

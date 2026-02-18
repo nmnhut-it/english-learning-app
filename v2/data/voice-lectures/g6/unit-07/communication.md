@@ -9,6 +9,30 @@ Chào các em. Chào mừng các em đến với bài học hôm nay. Mời các
 
 ---
 
+<!-- chunk: vocabulary -->
+<teacher_script pause="0">
+Các em mở sách ra, Unit 7, bài <eng>Communication</eng>, ghi tựa bài. Sau đó bấm nút "Bắt đầu" bên dưới để học từ vựng. Máy sẽ đọc và các em đọc theo. Sau đó các em làm bài trắc nghiệm từ vựng rồi ghi từ vựng vô tập.
+</teacher_script>
+
+<vocabulary>
+1. **favourite** : (adj) yêu thích /ˈfeɪvərɪt/
+2. **programme** : (n) chương trình /ˈprəʊɡræm/
+3. **animal programme** : (n.p) chương trình động vật /ˈænɪml ˈprəʊɡræm/
+4. **real life** : (n.p) cuộc sống thực /rɪəl laɪf/
+5. **cartoon** : (n) phim hoạt hình /kɑːˈtuːn/
+6. **fact** : (n) sự thật /fækt/
+7. **international** : (adj) quốc tế /ˌɪntəˈnæʃnəl/
+8. **educational** : (adj) mang tính giáo dục /ˌedʒuˈkeɪʃənl/
+9. **clever** : (adj) thông minh /ˈklevə/
+10. **fox** : (n) con cáo /fɒks/
+11. **character** : (n) nhân vật /ˈkærəktə/
+12. **cute** : (adj) dễ thương /kjuːt/
+13. **viewer** : (n) người xem, khán giả /ˈvjuːə/
+14. **prefer** : (v) thích hơn /prɪˈfɜː/
+</vocabulary>
+
+---
+
 <!-- chunk: topic_intro -->
 <teacher_script pause="0" href="audio/tts_348db499.mp3">
 Hôm nay chúng ta sẽ học về chủ đề: Hỏi và cung cấp thông tin về chương trình TV. <eng>Asking for and giving information about TV programmes.</eng>

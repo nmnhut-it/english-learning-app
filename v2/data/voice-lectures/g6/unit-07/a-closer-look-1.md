@@ -16,23 +16,27 @@ Chúng ta cùng học từ vựng mới. Các em hãy nghe và lặp lại theo 
 
 <vocabulary>
 1. **talent show** : (n) chương trình tài năng /ˈtælənt ʃəʊ/
-2. **viewer** : (n) người xem /ˈvjuːə/
+2. **viewer** : (n) người xem, khán giả /ˈvjuːə/
 3. **comedy** : (n) phim hài, hài kịch /ˈkɒmədi/
 4. **character** : (n) nhân vật /ˈkærəktə/
-5. **educational programme** : (n) chương trình giáo dục /ˌedʒuˈkeɪʃənl ˈprəʊɡræm/
+5. **educational programme** : (n.p) chương trình giáo dục /ˌedʒuˈkeɪʃənl ˈprəʊɡræm/
 6. **competition** : (n) cuộc thi, sự cạnh tranh /ˌkɒmpəˈtɪʃn/
 7. **make people laugh** : làm cho mọi người cười /meɪk ˈpiːpl lɑːf/
 8. **the best performer** : người biểu diễn xuất sắc nhất /ðə best pəˈfɔːmə/
 9. **person** : (n) người /ˈpɜːsn/
 10. **channel** : (n) kênh truyền hình /ˈtʃænl/
-11. **animated film** : (n) phim hoạt hình /ˈænɪmeɪtɪd fɪlm/
+11. **animated film** : (n.p) phim hoạt hình /ˈænɪmeɪtɪd fɪlm/
 12. **game show** : (n) trò chơi truyền hình /ɡeɪm ʃəʊ/
 13. **popular** : (adj) phổ biến /ˈpɒpjələ/
 14. **boring** : (adj) nhàm chán /ˈbɔːrɪŋ/
 15. **cute** : (adj) dễ thương /kjuːt/
 16. **live** : (adj) trực tiếp /laɪv/
 17. **funny** : (adj) hài hước /ˈfʌni/
-18. **happen - happened - happened** : (v) xảy ra, diễn ra /ˈhæpən/
+18. **happen** : (v) xảy ra, diễn ra /ˈhæpən/
+19. **theatre** : (n) nhà hát /ˈθɪətə/
+20. **weather** : (n) thời tiết /ˈweðə/
+21. **earth** : (n) trái đất /ɜːθ/
+22. **through** : (prep) qua, xuyên qua /θruː/
 </vocabulary>
 
 

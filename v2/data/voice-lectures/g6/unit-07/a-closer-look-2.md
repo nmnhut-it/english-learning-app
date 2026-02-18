@@ -9,6 +9,26 @@ Chào các em. Chào mừng các em đến với bài học hôm nay. Mời các
 
 ---
 
+<!-- chunk: vocabulary -->
+<teacher_script pause="0" href="audio/tts_c0841176.mp3">
+Chúng ta cùng học từ vựng mới. Các em hãy nghe và lặp lại theo mẫu nhé.
+</teacher_script>
+
+<vocabulary>
+1. **book exhibition** : (n) triển lãm sách /bʊk ˌeksɪˈbɪʃn/
+2. **stadium** : (n) sân vận động /ˈsteɪdiəm/
+3. **train** : (v) tập luyện /treɪn/
+4. **instruction** : (n) sự hướng dẫn /ɪnˈstrʌkʃn/
+5. **follow** : (v) làm theo /ˈfɒləʊ/
+6. **outdoor activities** : (n.p) hoạt động ngoài trời /ˈaʊtdɔː ækˈtɪvɪtiz/
+7. **spend time** : dành thời gian /spend taɪm/
+8. **get up early** : dậy sớm /ɡet ʌp ˈɜːli/
+9. **on time** : đúng giờ /ɒn taɪm/
+10. **colour** : (v) tô màu /ˈkʌlə/
+</vocabulary>
+
+---
+
 <!-- chunk: grammar_overview -->
 <teacher_script pause="0" href="audio/tts_f6b56820.mp3">
 Hôm nay chúng ta sẽ học về Wh-questions và Conjunctions.

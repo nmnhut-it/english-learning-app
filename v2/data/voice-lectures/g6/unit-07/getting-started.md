@@ -17,18 +17,21 @@ Chúng ta cùng học từ vựng mới. Các em hãy nghe và lặp lại theo 
 <vocabulary>
 1. **The Voice Kids** : Giọng hát Việt nhí
 2. **talent show** : (n) chương trình tài năng /ˈtælənt ʃəʊ/
-3. **programme** : (n) chương trình /ˈprəʊɡræm/
-4. **film** : (n) phim /fɪlm/
-5. **animated film** : (n) phim hoạt hình dài (như Vua Sư Tử) /ˈænɪmeɪtɪd fɪlm/
-6. **The Lion King** : Vua Sư Tử /ðə ˈlaɪən kɪŋ/
-7. **wonderful** : (adj) tuyệt vời /ˈwʌndəfl/
-8. **prefer A to B** : thích A hơn B /prɪˈfɜː/
-9. **cartoon** : (n) phim hoạt hình ngắn (như Tom & Jerry) /kɑːˈtuːn/
-10. **clever** : (adj) thông minh, khéo léo /ˈklevə/
-11. **character** : (n) nhân vật /ˈkærəktə/
-12. **channel** : (n) kênh truyền hình /ˈtʃænl/
-13. **educational** : (adj) mang tính giáo dục /ˌedʒuˈkeɪʃənl/
-14. **interesting** : (adj) thú vị /ˈɪntrəstɪŋ/
+3. **music talent show** : (n.p) chương trình tài năng âm nhạc /ˈmjuːzɪk ˈtælənt ʃəʊ/
+4. **programme** : (n) chương trình /ˈprəʊɡræm/
+5. **film** : (n) phim /fɪlm/
+6. **animated film** : (n.p) phim hoạt hình dài (như Vua Sư Tử) /ˈænɪmeɪtɪd fɪlm/
+7. **The Lion King** : Vua Sư Tử /ðə ˈlaɪən kɪŋ/
+8. **wonderful** : (adj) tuyệt vời /ˈwʌndəfl/
+9. **prefer A to B** : thích A hơn B /prɪˈfɜː/
+10. **cartoon** : (n) phim hoạt hình ngắn (như Tom & Jerry) /kɑːˈtuːn/
+11. **clever** : (adj) thông minh, khéo léo /ˈklevə/
+12. **character** : (n) nhân vật /ˈkærəktə/
+13. **channel** : (n) kênh truyền hình /ˈtʃænl/
+14. **educational** : (adj) mang tính giáo dục /ˌedʒuˈkeɪʃənl/
+15. **interesting** : (adj) thú vị /ˈɪntrəstɪŋ/
+16. **watch** : (v) xem /wɒtʃ/
+17. **little brother** : em trai /ˈlɪtl ˈbrʌðə/
 </vocabulary>
 
 ---
