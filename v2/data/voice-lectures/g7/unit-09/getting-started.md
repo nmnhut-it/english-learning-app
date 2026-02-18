@@ -38,32 +38,23 @@ Giờ nghe hội thoại nha. Cô Hoa, Trang và Mark đang nói về Lễ hội
 
 <!-- chunk: dialogue -->
 <teacher_script pause="0">
-Đây là nội dung hội thoại và bản dịch tiếng Việt.
+Đây là nội dung hội thoại. Em đọc theo nha.
 </teacher_script>
 
-**UNIT 9: FESTIVAL AROUND THE WORLD**
-
-**GETTING STARTED**
-
-Trang: Chào buổi chiều, cô Hoa.
-
-Cô Hoa: Ồ, chào. Mời vào.
-
-Trang: Wow! Đây là một phòng học đẹp, cô Hoa. Con thích những bức ảnh trên tường. Con có thể thấy cô trong những bông hoa tulip đó. Cô chụp ảnh ở đâu vậy?
-
-Cô Hoa: Cô chụp chúng tại Lễ hội Tulip ở Úc vào tháng Chín năm ngoái.
-
-Mark: Thật sao? Con đã đến một lễ hội tulip hai năm trước nhưng là ở Hà Lan. Đó là Lễ hội Tulip Hà Lan.
-
-Trang: Cô đã làm gì ở lễ hội vậy, cô Hoa?
-
-Cô Hoa: Cô đã xem múa dân gian Hà Lan. Các vũ công mặc trang phục truyền thống. Cô cũng có cơ hội thử một số món ăn và đồ uống Hà Lan ngon tuyệt. Còn con thì sao, Mark?
-
-Mark: Con cũng xem múa dân gian, nhưng không có đồ ăn và đồ uống nào cả. Con cũng được xem những chiếc xe hoa tulip đẹp trong buổi diễu hành.
-
-Trang: Họ có tổ chức lễ hội hàng năm ở Úc không?
-
-Cô Hoa: Có, họ có tổ chức.
+<dialogue>
+| English | Vietnamese |
+|---------|------------|
+| **Mark and Trang:** Good afternoon, Ms Hoa. | **Mark và Trang:** Chào buổi chiều, cô Hoa. |
+| **Ms Hoa:** Oh, hi. Come in. | **Cô Hoa:** Ồ, chào. Mời vào. |
+| **Trang:** Wow! This is a nice cozy room, Ms Hoa. I like the photos on the wall. I can see you among all those tulips. Where did you take the photos? | **Trang:** Wow! Đây là một căn phòng ấm cúng đẹp quá, cô Hoa. Con thích những bức ảnh trên tường. Con có thể thấy cô giữa những bông hoa tulip đó. Cô chụp ảnh ở đâu vậy ạ? |
+| **Ms Hoa:** I took them at the Tulip Festival in Australia last September. | **Cô Hoa:** Cô chụp chúng tại Lễ hội Tulip ở Úc vào tháng Chín năm ngoái. |
+| **Mark:** Really? I went to a tulip festival two years ago but it was in the Netherlands. It was the Dutch Tulip Festival. | **Mark:** Thật sao ạ? Con đã đến một lễ hội tulip hai năm trước nhưng là ở Hà Lan. Đó là Lễ hội Tulip Hà Lan. |
+| **Trang:** What did you do at the festival, Ms Hoa? | **Trang:** Cô đã làm gì ở lễ hội vậy, cô Hoa? |
+| **Ms Hoa:** I watched Dutch folk dances. The dancers wore traditional costumes. I also got a chance to try some delicious Dutch food and drinks. What about you, Mark? | **Cô Hoa:** Cô đã xem múa dân gian Hà Lan. Các vũ công mặc trang phục truyền thống. Cô cũng có cơ hội thử một số món ăn và đồ uống Hà Lan ngon tuyệt. Còn con thì sao, Mark? |
+| **Mark:** I watched folk dances too, but there wasn't any food or drinks. I also saw beautiful tulip floats at a parade. | **Mark:** Con cũng xem múa dân gian, nhưng không có đồ ăn và đồ uống nào cả. Con cũng được xem những chiếc xe hoa tulip đẹp trong buổi diễu hành. |
+| **Trang:** Do they hold the festival every year in Australia? | **Trang:** Họ có tổ chức lễ hội hàng năm ở Úc không ạ? |
+| **Ms Hoa:** Yes, they do. | **Cô Hoa:** Có chứ. |
+</dialogue>
 
 <!-- chunk: exercise_2 -->
 <teacher_script pause="60">
@@ -126,8 +117,8 @@ Bài 4 trang 93. Điền từ vựng vào câu. Dùng các từ vừa học: <en
 
 **Bài 4 trang 93**
 
-1. The dancers performed **folk dance** at the Tulip Festival.
-   (Các vũ công biểu diễn điệu múa dân gian tại Lễ hội hoa Tulip.)
+1. The dancers performed **folk dances** at the Tulip Festival.
+   (Các vũ công biểu diễn các điệu múa dân gian tại Lễ hội hoa Tulip.)
 
 2. On New Year's Eve, we went to Hoan Kiem Lake to watch the **fireworks display**.
    (Đêm giao thừa, chúng mình ra hồ Hoàn Kiếm xem bắn pháo hoa.)
@@ -142,7 +133,7 @@ Bài 4 trang 93. Điền từ vựng vào câu. Dùng các từ vừa học: <en
    (Xe hoa chở các vũ công trong trang phục lễ hội.)
 
 <teacher_script pause="0">
-Giải thích nha. Câu 1 điền <eng>folk dance</eng> vì nói về vũ công biểu diễn múa. Câu 2 điền <eng>fireworks display</eng> vì giao thừa ở hồ Hoàn Kiếm hay bắn pháo hoa. Câu 3 điền <eng>feast</eng> vì Tết mình chuẩn bị bữa tiệc lớn. Câu 4 điền <eng>parades</eng> vì nói về diễu hành hoa. Câu 5 có hai chỗ trống nè, điền <eng>floats</eng> và <eng>costumes</eng> vì xe hoa chở vũ công mặc trang phục lễ hội.
+Giải thích nha. Câu 1 điền <eng>folk dances</eng> vì nói về vũ công biểu diễn các điệu múa - số nhiều nha. Câu 2 điền <eng>fireworks display</eng> vì giao thừa ở hồ Hoàn Kiếm hay bắn pháo hoa. Câu 3 điền <eng>feast</eng> vì Tết mình chuẩn bị bữa tiệc lớn. Câu 4 điền <eng>parades</eng> vì nói về diễu hành hoa. Câu 5 có hai chỗ trống nè, điền <eng>floats</eng> và <eng>costumes</eng> vì xe hoa chở vũ công mặc trang phục lễ hội.
 </teacher_script>
 
 <!-- chunk: exercise_5 -->
@@ -192,97 +183,7 @@ e. Mid-Autumn Festival
 Hay hen! Mỗi nước có lễ hội riêng với những đặc trưng khác nhau. <eng>La Tomatina</eng> ở Tây Ban Nha thì ném cà chua. <eng>Cheese Rolling</eng> ở Anh thì đuổi theo pho mát lăn xuống đồi. Vui lắm!
 </teacher_script>
 
-<!-- chunk: closer_look_1 -->
-<teacher_script pause="0">
-Tiếp tục với phần <eng>A Closer Look 1</eng> - học thêm về các lễ hội nổi tiếng trên thế giới nha.
-</teacher_script>
-
-**A CLOSER LOOK 1**
-
-**Vocabulary**
-
-1. **Cannes Film Festival** : Liên hoan phim Cannes /kæn fɪlm ˈfestɪvəl/
-2. **Christmas** : (n) Lễ Giáng sinh /ˈkrɪsməs/
-3. **Mid-Autumn Festival** : Tết Trung thu /mɪd ˈɔːtəm ˈfestɪvəl/
-4. **Easter** : (n) Lễ Phục sinh /ˈiːstə/
-5. **Thanksgiving** : (n) Lễ Tạ ơn /ˌθæŋksˈɡɪvɪŋ/
-6. **Halloween** : (n) Lễ hội Halloween /ˌhæləʊˈiːn/
-7. **have a feast** : tổ chức tiệc /hæv ə fiːst/
-8. **chocolate eggs** : trứng sô cô la /ˈtʃɒklət eɡz/
-9. **turkey** : (n) gà tây /ˈtɜːki/
-10. **carving pumpkins** : khắc bí ngô /ˈkɑːvɪŋ ˈpʌmpkɪnz/
-11. **moon cakes** : bánh trung thu /muːn keɪks/
-12. **painting eggs** : tô màu trứng /ˈpeɪntɪŋ eɡz/
-13. **candy apples** : táo tẩm đường /ˈkændi ˈæplz/
-14. **performing a lion dance** : múa lân /pəˈfɔːmɪŋ ə ˈlaɪən dɑːns/
-15. **activity** : (n) hoạt động /ækˈtɪvəti/
-
-<teacher_script pause="0">
-Em để ý mỗi lễ hội có đồ ăn và hoạt động đặc trưng riêng. Halloween có <eng>carving pumpkins</eng> - khắc bí ngô. Christmas có <eng>turkey</eng> - gà tây. Easter có <eng>chocolate eggs</eng> - trứng sô cô la. Tết Trung thu của mình có <eng>moon cakes</eng> và <eng>lion dance</eng>.
-</teacher_script>
-
-<!-- chunk: exercise_acl1 -->
-<teacher_script pause="60">
-Bài 1 trang 94. Nhìn hình và viết tên lễ hội. 1 phút.
-</teacher_script>
-
-**Bài 1 trang 94**
-
-1. Halloween - có bí ngô, ma quỷ
-2. Christmas - có cây thông, ông già Noel
-3. Mid-Autumn Festival - có bánh trung thu, múa lân
-4. Cannes Film Festival - có thảm đỏ, ngôi sao điện ảnh
-5. Easter - có trứng tô màu, thỏ
-6. Thanksgiving - có gà tây, bữa tiệc gia đình
-
-**Bài 2 trang 94**
-
-![][image5]
-
-<!-- chunk: exercise_acl1_3 -->
-<teacher_script pause="60">
-Bài 3 trang 94. Điền từ về lễ hội vào câu. 1 phút.
-</teacher_script>
-
-**Bài 3 trang 94**
-
-1. At Christmas, people give **gifts** to each other.
-   (Vào lễ Giáng sinh, mọi người tặng quà cho nhau.)
-
-2. My children love **painting eggs** at Easter.
-   (Các con của tôi thích vẽ những quả trứng vào lễ Phục sinh.)
-
-3. How many **candy apples** do you need for the Halloween party?
-   (Bạn cần bao nhiêu chiếc kẹo táo cho bữa tiệc Halloween?)
-
-4. At the Cannes Film Festival, there are many interesting **films**.
-   (Tại Liên hoan phim Cannes, có rất nhiều bộ phim hấp dẫn.)
-
-5. Performing **lion dances** is one of the activities at the Mid-Autumn Festival.
-   (Biểu diễn múa lân là một trong những hoạt động vào dịp Tết Trung Thu.)
-
-6. Bill's mum is cooking a **turkey** for Thanksgiving.
-   (Mẹ của Bill đang nấu một con gà tây cho Lễ Tạ ơn.)
-
-<teacher_script pause="0">
-Mẹo nhớ nè: Mỗi lễ hội có đồ ăn riêng. Thanksgiving = turkey (gà tây). Halloween = candy apples (táo kẹo). Easter = chocolate eggs (trứng sô cô la). Mid-Autumn = moon cakes (bánh trung thu). Nhớ vậy là không sợ nhầm đâu.
-</teacher_script>
-
-<!-- chunk: pronunciation -->
-<teacher_script pause="0">
-Phần <eng>Pronunciation</eng> - quy tắc nhấn âm trong từ 2 âm tiết nha.
-</teacher_script>
-
-**Pronunciation**
-Trong từ có 2 âm tiết:
-- Nếu là **danh từ/tính từ** → dấu nhấn thường rơi vào **âm tiết 1**
-- Nếu là **động từ** → dấu nhấn thường rơi vào **âm tiết 2**
-
-<teacher_script pause="0">
-Ví dụ: <eng>PREsent</eng> (danh từ = quà) nhấn âm 1. <eng>preSENT</eng> (động từ = tặng) nhấn âm 2. <eng>REcord</eng> (danh từ = bản ghi) nhấn âm 1. <eng>reCORD</eng> (động từ = ghi âm) nhấn âm 2.
-</teacher_script>
-
 <!-- chunk: end -->
 <teacher_script pause="0">
-Ok hết bài <eng>Getting Started</eng> và <eng>A Closer Look 1</eng>. Hôm nay em học được nhiều từ về lễ hội: <eng>parade</eng> = diễu hành, <eng>float</eng> = xe hoa, <eng>feast</eng> = bữa tiệc, <eng>firework display</eng> = bắn pháo hoa. Nhớ mỗi lễ hội có đặc điểm riêng nha. Bài sau học ngữ pháp về câu hỏi Yes/No. Bye!
+Ok hết bài <eng>Getting Started</eng> Unit 9 rồi nha. Hôm nay em học được nhiều từ về lễ hội: <eng>parade</eng> là diễu hành, <eng>float</eng> là xe hoa, <eng>feast</eng> là bữa tiệc, <eng>fireworks display</eng> là bắn pháo hoa. Em cũng biết về các lễ hội như <eng>La Tomatina</eng>, <eng>Cheese Rolling</eng>, <eng>Mid-Autumn Festival</eng>. Bài sau học thêm từ vựng về lễ hội nha. Bye!
 </teacher_script>
