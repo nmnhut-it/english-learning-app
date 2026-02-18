@@ -51,8 +51,8 @@ Chúng ta cùng làm Bài 1 <eng>Match adjectives with meanings</eng>. Các em h
 1. dull
 2. violent
 3. confusing
-4. enjoyable
-5. shocking
+4. shocking
+5. enjoyable
 
 **Meanings:**
 a. difficult to understand, not clear
@@ -70,7 +70,7 @@ e. very surprising and difficult to believe
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.b | 2.d | 3.a | 4.c | 5.e
+**Đáp án:** 1.b | 2.d | 3.a | 4.e | 5.c
 </answer>
 
 <teacher_script pause="0" href="audio/tts_9ce54622.mp3">
@@ -86,11 +86,11 @@ Câu 3 nối với a. Confusing nghĩa là khó hiểu, gây bối rối, nên n
 </teacher_script>
 
 <teacher_script pause="0" href="audio/tts_247ce0df.mp3">
-Câu 4 nối với c. Enjoyable nghĩa là thú vị, thích thú, nên nối với "giving pleasure" - mang lại niềm vui. Enjoy là thích, enjoyable là có thể thích được, xem vui á.
+Câu 4 nối với e. Shocking nghĩa là gây sốc, sửng sốt, nên nối với "very surprising and difficult to believe" - rất ngạc nhiên và khó tin. Phim shocking thường có twist bất ngờ, xem xong há hốc mồm luôn.
 </teacher_script>
 
 <teacher_script pause="0" href="audio/tts_6ece9cdd.mp3">
-Câu 5 nối với e. Shocking nghĩa là gây sốc, sửng sốt, nên nối với "very surprising and difficult to believe" - rất ngạc nhiên và khó tin. Phim shocking thường có twist bất ngờ, xem xong há hốc mồm luôn.
+Câu 5 nối với c. Enjoyable nghĩa là thú vị, thích thú, nên nối với "giving pleasure" - mang lại niềm vui. Enjoy là thích, enjoyable là có thể thích được, xem vui á.
 </teacher_script>
 
 <explanation>
@@ -98,8 +98,8 @@ Câu 5 nối với e. Shocking nghĩa là gây sốc, sửng sốt, nên nối v
 1. **dull** = b. not interesting or exciting (không thú vị, buồn tẻ)
 2. **violent** = d. containing lots of fighting and killing (chứa nhiều đánh nhau, giết chóc)
 3. **confusing** = a. difficult to understand (khó hiểu)
-4. **enjoyable** = c. giving pleasure (thú vị, mang lại niềm vui)
-5. **shocking** = e. very surprising (rất ngạc nhiên, gây sốc)
+4. **shocking** = e. very surprising (rất ngạc nhiên, gây sốc)
+5. **enjoyable** = c. giving pleasure (thú vị, mang lại niềm vui)
 </explanation>
 
 ---
@@ -242,171 +242,6 @@ Chúng ta cùng làm Bài 5 <eng>Listen and practice sentences</eng>. Các em h�
 
 <teacher_script pause="0" action="record" href="audio/tts_827e15a2.mp3">
 Các em hãy bấm ghi âm và đọc lại 5 câu này gửi cho thầy nhé.
-</teacher_script>
-
----
-
-<!-- chunk: additional_practice -->
-### Bài tập thực hành bổ sung
-
-<teacher_script pause="0" href="audio/tts_18a142c9.mp3">
-Các em làm thêm bài tập thực hành để củng cố kiến thức nha. Bài tập này giúp các em nhớ từ vựng về phim và phát âm tốt hơn đó.
-</teacher_script>
-
----
-
-<!-- chunk: practice_1 -->
-### Bài tập 1 - Choose the correct word
-
-<teacher_script pause="90" href="audio/tts_351f4d47.mp3">
-Bài tập 1, các em hãy chọn từ đúng để hoàn thành các câu về phim. Đọc kỹ từng câu rồi chọn tính từ phù hợp nhất nha. 1 phút 30 giây.
-</teacher_script>
-
-<task>
-**Đề:** Choose the correct adjective to complete each sentence about films.
-**Dịch đề:** Chọn tính từ đúng để hoàn thành mỗi câu về phim.
-</task>
-
-<questions type="multiple_choice">
-**1.** The horror film was so _______ that many people couldn't sleep after watching it.
-- A. shocking
-- B. dull
-- C. enjoyable
-*Phim kinh dị quá _______ đến nỗi nhiều người không thể ngủ sau khi xem.*
-
-**2.** I thought the documentary about history was quite _______ because nothing exciting happened.
-- A. violent
-- B. dull
-- C. confusing
-*Tôi nghĩ phim tài liệu về lịch sử khá _______ vì không có gì thú vị xảy ra.*
-
-**3.** The action movie had many fighting scenes, so it was too _______ for young children.
-- A. enjoyable
-- B. confusing
-- C. violent
-*Phim hành động có nhiều cảnh đánh nhau, nên quá _______ cho trẻ nhỏ.*
-
-**4.** The film's plot had so many twists that I found it really _______.
-- A. confusing
-- B. enjoyable
-- C. dull
-*Cốt truyện phim có quá nhiều tình tiết bất ngờ đến nỗi tôi thấy thực sự _______.*
-
-**5.** We had a great time watching the comedy. It was very _______.
-- A. shocking
-- B. enjoyable
-- C. violent
-*Chúng tôi có khoảng thời gian tuyệt vời xem phim hài. Nó rất _______.*
-
-**6.** The ending of the thriller was _______ - I never expected that twist!
-- A. dull
-- B. shocking
-- C. confusing
-*Cái kết của phim gay cấn rất _______ - Tôi không bao giờ ngờ tình tiết bất ngờ đó!*
-</questions>
-
----
-
-<!-- chunk: answer_practice_1 -->
-<teacher_script pause="0" href="audio/tts_120809e0.mp3">
-Đã hết thời gian. Ok đáp án nè.
-</teacher_script>
-
-<answer>
-**Đáp án:** 1.A | 2.B | 3.C | 4.A | 5.B | 6.B
-</answer>
-
-<teacher_script pause="0" href="audio/tts_daeecfa1.mp3">
-Câu 1 chọn A - shocking. "The horror film was so shocking that many people couldn't sleep" - Phim kinh dị gây sốc đến nỗi nhiều người không ngủ được. Phim horror - kinh dị thường có cảnh shocking - gây sốc, đáng sợ á.
-</teacher_script>
-
-<teacher_script pause="0" href="audio/tts_e8ab6bb5.mp3">
-Câu 2 chọn B - dull. "The documentary was quite dull because nothing exciting happened" - Phim tài liệu khá chán vì không có gì thú vị. Nothing exciting - không thú vị chính là nghĩa của dull - buồn tẻ đó.
-</teacher_script>
-
-<teacher_script pause="0" href="audio/tts_e2f5572f.mp3">
-Câu 3 chọn C - violent. "The action movie was too violent for young children" - Phim hành động quá bạo lực cho trẻ nhỏ. Many fighting scenes - nhiều cảnh đánh nhau là dấu hiệu của violent - bạo lực luôn.
-</teacher_script>
-
-<teacher_script pause="0" href="audio/tts_af307e01.mp3">
-Câu 4 chọn A - confusing. "The film's plot had so many twists that I found it confusing" - Cốt truyện có quá nhiều twist nên khó hiểu. So many twists - quá nhiều tình tiết bất ngờ làm cho phim confusing - khó hiểu, rối rắm nha.
-</teacher_script>
-
-<teacher_script pause="0" href="audio/tts_670c3c3b.mp3">
-Câu 5 chọn B - enjoyable. "We had a great time. It was very enjoyable" - Chúng tôi có thời gian tuyệt vời. Phim rất thú vị. Great time - thời gian tuyệt vời chính là nghĩa của enjoyable - thú vị, vui vẻ á.
-</teacher_script>
-
-<teacher_script pause="0" href="audio/tts_8ee10f02.mp3">
-Câu 6 chọn B - shocking. "The ending was shocking - I never expected that twist!" - Cái kết gây sốc - tôi không ngờ twist đó! Never expected - không ngờ là dấu hiệu của shocking - gây sốc, bất ngờ đó.
-</teacher_script>
-
----
-
-<!-- chunk: correction_3 -->
-<teacher_script pause="30" href="audio/tts_75ebc937.mp3">
-Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
-</teacher_script>
-
----
-
-<!-- chunk: practice_2 -->
-### Bài tập 2 - Pronunciation practice
-
-<teacher_script pause="90" href="audio/tts_27a117fa.mp3">
-Bài tập 2, các em hãy phân loại các từ theo âm /ɪə/ hoặc /eə/. Đọc kỹ từng từ và nghe âm cuối của nó nha. 1 phút 30 giây.
-</teacher_script>
-
-<task>
-**Đề:** Put the following words into the correct column according to their pronunciation.
-**Dịch đề:** Xếp các từ sau vào cột đúng theo cách phát âm.
-</task>
-
-<questions type="ordering">
-**Word bank:** *hear, where, appear, square, year, bear, care, clear, wear, tear (nước mắt), fair, peer*
-
-| /ɪə/ | /eə/ |
-|------|------|
-| ?    | ?    |
-</questions>
-
----
-
-<!-- chunk: answer_practice_2 -->
-<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
-Ok đáp án nè.
-</teacher_script>
-
-<answer>
-| /ɪə/ | /eə/ |
-|------|------|
-| hear | where |
-| appear | square |
-| year | bear |
-| clear | care |
-| tear (nước mắt) | wear |
-| peer | fair |
-</answer>
-
-<teacher_script pause="0" href="audio/tts_eb48eab7.mp3">
-Nhóm âm /ɪə/ gồm: hear - nghe, appear - xuất hiện, year - năm, clear - rõ ràng, tear - nước mắt, peer - nhìn chăm chú. Các từ này thường có chữ "ear", "eer", hoặc "ere" ở cuối nhưng phát âm /ɪə/ nha.
-</teacher_script>
-
-<teacher_script pause="0" href="audio/tts_d93afaad.mp3">
-Nhóm âm /eə/ gồm: where - ở đâu, square - hình vuông, bear - con gấu, care - quan tâm, wear - mặc, fair - công bằng. Các từ này thường có chữ "are", "air", "ear" (nhưng phát âm khác) ở cuối và phát âm /eə/ đó.
-</teacher_script>
-
-<explanation>
-**Quy tắc phát âm:**
-- **/ɪə/**: Thường xuất hiện trong các từ có "ear" (hear, clear, tear), "eer" (peer, cheer), "ere" (here).
-- **/eə/**: Thường xuất hiện trong các từ có "are" (care, square), "air" (fair, chair, hair), "ear" như bear/wear (ngoại lệ).
-
-**Mẹo nhớ:**
-- Âm /ɪə/ nghe giống "i-ơ" (ear = i-ơ).
-- Âm /eə/ nghe giống "e-ơ" (air = e-ơ).
-</explanation>
-
-<teacher_script pause="30" href="audio/tts_28a363cc.mp3">
-Các em hãy luyện đọc lại các từ này và ghi nhớ quy tắc phát âm nha.
 </teacher_script>
 
 ---
