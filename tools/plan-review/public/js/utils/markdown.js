@@ -172,7 +172,16 @@ const MarkdownUtil = {
    * Ported from Parser.ts renderMarkdown
    */
   renderMarkdown(markdown) {
-    let html = this.escapeHtml(markdown);
+    // NOTE: Do NOT escapeHtml here. The production Parser.ts does not escape either.
+    // Escaping would destroy HTML-comment placeholders (<!--TAG_PH_N-->) used by render().
+    // Content-level escaping is handled in renderTag/renderVocabulary for specific fields.
+    let html = markdown;
+
+    // Handle <eng>/<vn> inline tags (appear inside custom tag bodies rendered via renderMarkdown)
+    html = html.replace(/<eng>([\s\S]*?)<\/eng>/g,
+      '<span class="lang-tag lang-en">$1</span>');
+    html = html.replace(/<vn>([\s\S]*?)<\/vn>/g,
+      '<span class="lang-tag lang-vi">$1</span>');
 
     // Headings
     html = html.replace(/^###\s+(.+)$/gm, '<h3>$1</h3>');
