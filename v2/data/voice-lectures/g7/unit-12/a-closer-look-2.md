@@ -222,13 +222,13 @@ Bài 4 <eng>Complete the sentences with a/an or the</eng>. Điền mạo từ đ
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. an | 2. The | 3. the | 4. the | 5. an | 6. The
+**Đáp án:** 1. an | 2. The | 3. a | 4. the | 5. an | 6. The
 </answer>
 
 <explanation>
 - **Câu 1 - an:** "Englishman" bắt đầu bằng nguyên âm /ɪ/ → dùng **an**. *"The man sitting next to her is **an** Englishman."*
 - **Câu 2 - The:** Tên sông → luôn dùng **the**. *"**The** River Thames runs through London."*
-- **Câu 3 - the:** Dùng **the** vì bản đồ này được xác định cụ thể (the map of the city of Edinburgh). *"Here is **the** map of the city of Edinburgh."*
+- **Câu 3 - a:** Dùng **a** vì "map" bắt đầu bằng phụ âm, nhắc đến lần đầu → dùng **a**. *"Here is **a** map of the city of Edinburgh."*
 - **Câu 4 - the:** Dùng **the** trước cấu trúc so sánh nhất. *"What is **the** most popular sport in Canada?"*
 - **Câu 5 - an:** "Attraction" bắt đầu bằng nguyên âm /ə/, nhắc đến lần đầu → dùng **an**. *"We want to visit **an** attraction in Sydney."*
 - **Câu 6 - The:** "Statue of Liberty" là địa danh cụ thể, nổi tiếng → dùng **The**. *"**The** Statue of Liberty was a present from France."*
