@@ -1,103 +1,173 @@
 # UNIT 11: SCIENCE AND TECHNOLOGY
-## SKILLS 1 - Reading: Schools of the Future & Speaking
+## SKILLS 1 - Reading & Speaking
 
 <!-- chunk: vocabulary -->
 <teacher_script pause="0">
-Ok lớp 8, <eng>Skills 1</eng> Unit 11 nha — hôm nay đọc bài về trường học tương lai và nói về lợi ích công nghệ. Nhiều từ vựng học thuật lắm đó, nhớ ghi vô tập nha. Mở sách ra, ghi tựa bài. Bấm "Bắt đầu" học từ vựng — máy đọc, các em đọc theo, xong làm trắc nghiệm rồi ghi từ vô tập.
+Ok lớp 8, <eng>Skills 1</eng> Unit 11 nha — hôm nay đọc hai bài về <eng>Biometrics</eng> và <eng>Nanolearning</eng>, rồi nói về phát minh công nghệ. Từ vựng nhiều nha, ghi vô tập. Mở sách ra, ghi tựa bài. Bấm "Bắt đầu" học từ vựng — máy đọc, các em đọc theo, xong làm trắc nghiệm rồi ghi từ vô tập.
 </teacher_script>
 
 <vocabulary>
 1. **eye-tracking** : (n) theo dõi mắt /aɪ ˈtræk.ɪŋ/
-2. **fingerprint scanner** : (n) máy quét vân tay /ˈfɪŋɡəprɪnt ˈskænər/
+2. **finger scanner** : (n) máy quét vân tay /ˈfɪŋɡər ˈskænər/
 3. **face recognition** : (n) nhận dạng khuôn mặt /feɪs ˌrekəɡˈnɪʃən/
 4. **biometrics** : (n) sinh trắc học /ˌbaɪəʊˈmetrɪks/
 5. **truancy** : (n) trốn học /ˈtruːənsi/
 6. **cheating** : (n) gian lận /ˈtʃiːtɪŋ/
 7. **introduce** : (v) giới thiệu, đưa vào sử dụng /ˌɪntrəˈdjuːs/
-8. **voice recognition** : (n) nhận dạng giọng nói /vɔɪs ˌrekəɡˈnɪʃən/
-9. **check attendance** : (phrase) điểm danh /tʃek əˈtendəns/
-10. **no longer** : (phrase) không còn nữa /nəʊ ˈlɒŋɡər/
-11. **call students' names** : (phrase) gọi tên học sinh /kɔːl ˈstjuːdənts neɪmz/
+8. **fingerprint scanner** : (n) máy quét vân tay /ˈfɪŋɡərprɪnt ˈskænər/
+9. **voice recognition** : (n) nhận dạng giọng nói /vɔɪs ˌrekəɡˈnɪʃən/
+10. **check attendance** : (phrase) điểm danh /tʃek əˈtendəns/
+11. **no longer** : (phrase) không còn nữa /nəʊ ˈlɒŋɡər/
 12. **absent** : (adj) vắng mặt /ˈæbsənt/
 13. **borrow** : (v) mượn /ˈbɒrəʊ/
 14. **equipment** : (n) thiết bị /ɪˈkwɪpmənt/
 15. **motivate** : (v) động viên, thúc đẩy /ˈməʊtɪveɪt/
 16. **understanding** : (n) sự hiểu biết /ˌʌndəˈstændɪŋ/
 17. **nanolearning** : (n) học vi mô (bài ngắn) /ˈnænəʊ ˌlɜːnɪŋ/
-18. **tired of** : (phrase) chán, mệt mỏi với /ˈtaɪərd əv/
-19. **concentrate** : (v) tập trung /ˈkɒnsəntreɪt/
-20. **frequently** : (adv) thường xuyên /ˈfriːkwəntli/
-21. **solution** : (n) giải pháp /səˈluːʃən/
-22. **a short period of time** : (phrase) khoảng thời gian ngắn /ə ʃɔːt ˈpɪəriəd əv taɪm/
-23. **ability** : (n) khả năng /əˈbɪlɪti/
+18. **concentrate** : (v) tập trung /ˈkɒnsəntreɪt/
+19. **frequently** : (adv) thường xuyên /ˈfriːkwəntli/
+20. **solution** : (n) giải pháp /səˈluːʃən/
+21. **effortless** : (adj) không cần nỗ lực, dễ dàng /ˈefətləs/
+22. **ability** : (n) khả năng /əˈbɪlɪti/
+23. **platform** : (n) nền tảng /ˈplætfɔːm/
+24. **invention** : (n) phát minh /ɪnˈvenʃən/
+25. **identity** : (n) danh tính /aɪˈdentɪti/
 </vocabulary>
 
 <teacher_script pause="0">
-Từ vựng nhiều nha — nhưng đều liên quan bài đọc hết. Chú ý <eng>biometrics, truancy, nanolearning</eng> — những từ học thuật này hay xuất hiện trong bài thi đó. Bây giờ đọc bài nha!
+Từ vựng nhiều nha — nhưng đều liên quan hai bài đọc hết. Chú ý <eng>biometrics, truancy, nanolearning, effortless</eng> — những từ học thuật này hay xuất hiện trong bài thi đó. Bây giờ làm bài nha!
 </teacher_script>
 
-<!-- chunk: reading -->
+<!-- chunk: exercise_1 -->
+### Bài 1 trang SGK - Work in pairs
+
 <teacher_script pause="0">
-Bài 1 — <eng>Read and listen</eng> nha. Bài đọc tựa đề "<eng>Schools of the Future</eng>" — trường học của tương lai. Đọc kỹ, dùng từ vựng vừa học để hiểu nghĩa nha.
-</teacher_script>
-
-<reading>
-## Schools of the Future
-
-Scientists and educators believe that future schools will look very different from today. One of the biggest changes will be the use of biometrics — technology that identifies people using their physical features. Face recognition cameras and fingerprint scanners may check students' attendance automatically, without teachers having to call students' names. This will reduce truancy and cheating.
-
-Another exciting development is eye-tracking technology. This system follows where students look on the screen and can tell teachers whether a student is paying attention or is confused. Teachers can then use this information to help students who are struggling.
-
-In addition, nanolearning — short, focused lessons of just 5-10 minutes — may replace traditional long lessons. Research shows that students can concentrate better in short periods of time. The ability to pause, rewind, and replay lessons will help students learn at their own speed.
-
-Some schools are already introducing voice recognition to give students instant feedback on their pronunciation. In the future, technology will not replace teachers, but will help them understand each student better.
-</reading>
-
-<translation>
-## Trường Học Của Tương Lai
-
-Các nhà khoa học và nhà giáo dục tin rằng trường học trong tương lai sẽ trông rất khác so với ngày nay. Một trong những thay đổi lớn nhất sẽ là việc sử dụng sinh trắc học — công nghệ nhận dạng con người bằng các đặc điểm thể chất của họ. Máy quay nhận dạng khuôn mặt và máy quét vân tay có thể tự động điểm danh học sinh, mà không cần giáo viên phải gọi tên từng em. Điều này sẽ giảm thiểu việc trốn học và gian lận.
-
-Một bước phát triển thú vị khác là công nghệ theo dõi mắt. Hệ thống này theo dõi nơi học sinh nhìn trên màn hình và có thể cho giáo viên biết liệu một học sinh có đang chú ý hay đang bị bối rối. Giáo viên sau đó có thể sử dụng thông tin này để giúp đỡ những học sinh đang gặp khó khăn.
-
-Ngoài ra, học vi mô — những bài học ngắn, tập trung chỉ 5-10 phút — có thể thay thế những bài học dài truyền thống. Nghiên cứu cho thấy học sinh có thể tập trung tốt hơn trong những khoảng thời gian ngắn. Khả năng tạm dừng, tua lại và xem lại bài học sẽ giúp học sinh học theo tốc độ của riêng mình.
-
-Một số trường học đã giới thiệu nhận dạng giọng nói để cung cấp phản hồi tức thì cho học sinh về phát âm của họ. Trong tương lai, công nghệ sẽ không thay thế giáo viên, mà sẽ giúp họ hiểu mỗi học sinh tốt hơn.
-</translation>
-
-<teacher_script pause="180">
-Dịch bài đọc vô vở nha. Có thể dùng bản dịch để đối chiếu, nhưng phải tự ghi lại với từ của mình. 3 phút đó!
-</teacher_script>
-
-<!-- chunk: exercise_2 -->
-<teacher_script pause="0">
-Bài 2 — Đúng hay Sai dựa vào bài đọc. Đọc kỹ từng câu và tìm thông tin trong bài nha.
+Bài 1 — <eng>Work in pairs. Name the technological applications in the pictures.</eng> Nhìn hình trong sách và gọi tên các ứng dụng công nghệ nha.
 </teacher_script>
 
 <task>
-**Đề:** Read the passage again. Write T (True) or F (False).
-**Dịch đề:** Đọc lại bài. Viết T (Đúng) hoặc F (Sai).
+**Đề:** Work in pairs. Name the technological applications in the pictures.
+**Dịch đề:** Làm theo cặp. Gọi tên các ứng dụng công nghệ trong hình.
 </task>
 
-<questions type="true_false">
-**1.** Biometrics can check students' attendance automatically.
-*Sinh trắc học có thể điểm danh học sinh tự động.*
+<questions type="fill_blanks">
+**1.** Picture 1: ________
+*Hình 1: ________*
 
-**2.** Eye-tracking technology shows if students are paying attention.
-*Công nghệ theo dõi mắt cho thấy học sinh có đang chú ý không.*
+**2.** Picture 2: ________
+*Hình 2: ________*
 
-**3.** Nanolearning consists of lessons that are 30 minutes long.
-*Học vi mô gồm những bài học dài 30 phút.*
+**3.** Picture 3: ________
+*Hình 3: ________*
+</questions>
 
-**4.** Voice recognition can give students feedback on their pronunciation.
-*Nhận dạng giọng nói có thể cung cấp phản hồi về phát âm cho học sinh.*
+<teacher_script pause="30">
+Nhìn hình và gọi tên — 30 giây nha.
+</teacher_script>
 
-**5.** Technology will completely replace teachers in the future.
-*Công nghệ sẽ hoàn toàn thay thế giáo viên trong tương lai.*
+<teacher_script pause="0">
+Đáp án bài 1!
+</teacher_script>
+
+<answer>
+**Đáp án:**
+1. **eye-tracking** — theo dõi mắt
+2. **finger scanner** — máy quét vân tay
+3. **face recognition** — nhận dạng khuôn mặt
+</answer>
+
+<explanation>
+**Hình 1 — eye-tracking:** Công nghệ theo dõi mắt — dùng camera để theo dõi hướng nhìn của mắt người. Hay dùng trong nghiên cứu và giáo dục nha.
+
+**Hình 2 — finger scanner:** Máy quét vân tay — quét ngón tay để nhận dạng. Điện thoại các em cũng có tính năng này nè!
+
+**Hình 3 — face recognition:** Nhận dạng khuôn mặt — dùng camera để nhận ra khuôn mặt người. Bảo mật điện thoại cũng dùng cái này đó.
+</explanation>
+
+<!-- chunk: reading -->
+<teacher_script pause="0">
+Bài 2 — đọc HAI bài riêng biệt nha. Bài 1 về <eng>Biometrics</eng> — sinh trắc học. Bài 2 về <eng>Nanolearning</eng> — học vi mô. Đọc kỹ cả hai bài rồi làm bài tập nha.
+</teacher_script>
+
+<reading>
+## Text 1 — Biometrics
+
+No more worries about truancy and cheating! Just introduce biometric applications at your school. With fingerprint scanners, or facial or voice recognition technologies, schools will be able to check students' attendance. Teachers will no longer need to call students' names to find out who is absent. This will make more time for activities!
+
+Schools can also use these biometric applications for students who borrow books and equipment. Even more amazing, teachers can even use the eye-tracking applications to check students' understanding of a lesson and to motivate students to learn.
+
+For more information, visit www.biometricappsolution.com
+</reading>
+
+<translation>
+## Bài 1 — Sinh trắc học
+
+Không cần lo lắng về trốn học và gian lận nữa! Chỉ cần đưa các ứng dụng sinh trắc học vào trường của bạn. Với máy quét vân tay, hoặc công nghệ nhận dạng khuôn mặt hay giọng nói, các trường sẽ có thể điểm danh học sinh. Giáo viên sẽ không còn cần gọi tên học sinh để tìm ra ai vắng mặt nữa. Điều này sẽ tạo thêm thời gian cho các hoạt động!
+
+Các trường cũng có thể sử dụng các ứng dụng sinh trắc học này cho học sinh mượn sách và thiết bị. Thậm chí tuyệt vời hơn, giáo viên còn có thể sử dụng ứng dụng theo dõi mắt để kiểm tra sự hiểu bài của học sinh và động viên học sinh học tập.
+
+Để biết thêm thông tin, truy cập www.biometricappsolution.com
+</translation>
+
+<reading>
+## Text 2 — Nanolearning
+
+Tired of sitting in front of a computer all day long? Unable to concentrate for very long in your classes? Or frequently forgetting large amounts of information? The solution to these is Nanolearning created by Junglemap in 2006.
+
+Nanolearning provides you with small amounts of information over a short period of time. Your learning will become effortless.
+
+Believe us! Receive bits of information within two to five minutes via our platform, and you will increase your learning attention and ability. Our app also reports your study activities and results to your teacher.
+
+Contact us at www.nanoleamingsolution.edu.com
+</reading>
+
+<translation>
+## Bài 2 — Học vi mô
+
+Chán ngồi trước máy tính cả ngày? Không thể tập trung lâu trong lớp học? Hay thường xuyên quên lượng lớn thông tin? Giải pháp cho những vấn đề này là Nanolearning — Học vi mô, được tạo ra bởi Junglemap vào năm 2006.
+
+Nanolearning cung cấp cho bạn lượng nhỏ thông tin trong một khoảng thời gian ngắn. Việc học của bạn sẽ trở nên dễ dàng, không cần nỗ lực.
+
+Hãy tin chúng tôi! Nhận các mẩu thông tin trong vòng hai đến năm phút qua nền tảng của chúng tôi, và bạn sẽ tăng khả năng chú ý và năng lực học tập. Ứng dụng của chúng tôi cũng báo cáo hoạt động học tập và kết quả của bạn cho giáo viên.
+
+Liên hệ chúng tôi tại www.nanoleamingsolution.edu.com
+</translation>
+
+<teacher_script pause="180">
+Đọc kỹ hai bài rồi dịch vô vở nha. Bài 1 về sinh trắc học, bài 2 về học vi mô. 3 phút đó!
+</teacher_script>
+
+<!-- chunk: exercise_2 -->
+### Bài 2 trang SGK - Tick B or N
+
+<teacher_script pause="0">
+Bây giờ làm bài 2 — đọc lại hai bài và đánh dấu <eng>B</eng> cho <eng>Biometrics</eng> hoặc <eng>N</eng> cho <eng>Nanolearning</eng>. Mỗi lợi ích thuộc về bài nào thì đánh dấu bài đó nha.
+</teacher_script>
+
+<task>
+**Đề:** Read the two texts and tick B (Biometrics) or N (Nanolearning).
+**Dịch đề:** Đọc hai bài và đánh dấu B (Sinh trắc học) hoặc N (Học vi mô).
+</task>
+
+<questions type="matching">
+**1.** It makes learning effortless.
+*Nó giúp việc học trở nên dễ dàng, không cần nỗ lực.*
+
+**2.** It checks students' understanding of the lessons.
+*Nó kiểm tra sự hiểu bài của học sinh.*
+
+**3.** Students use it when they borrow books and equipment.
+*Học sinh sử dụng nó khi mượn sách và thiết bị.*
+
+**4.** It helps increase students' learning attention.
+*Nó giúp tăng khả năng chú ý học tập của học sinh.*
+
+**5.** It records students' study activities and results.
+*Nó ghi lại hoạt động học tập và kết quả của học sinh.*
 </questions>
 
 <teacher_script pause="60">
-Làm bài 2 đi — 1 phút. Đọc lại bài nếu cần, đừng đoán mò nha!
+Làm bài 2 đi — 1 phút. Đọc lại hai bài nếu cần, tìm thông tin cụ thể trong từng bài nha!
 </teacher_script>
 
 <teacher_script pause="0">
@@ -106,54 +176,65 @@ Làm bài 2 đi — 1 phút. Đọc lại bài nếu cần, đừng đoán mò n
 
 <answer>
 **Đáp án:**
-1. **T** — Đúng
-2. **T** — Đúng
-3. **F** — Sai
-4. **T** — Đúng
-5. **F** — Sai
+1. **N** — Nanolearning
+2. **B** — Biometrics
+3. **B** — Biometrics
+4. **N** — Nanolearning
+5. **N** — Nanolearning
 </answer>
 
 <explanation>
-**Câu 1 — T:** Bài đọc nói "Face recognition cameras and fingerprint scanners may check students' **attendance automatically**" — đúng, tự động điểm danh nha.
+**Câu 1 — N (Nanolearning):** Bài 2 nói "Your learning will become **effortless**" — học dễ dàng, không cần nỗ lực. Từ khóa "effortless" nằm trong bài Nanolearning nha.
 
-**Câu 2 — T:** Bài đọc nói "This system follows where students look... can tell teachers whether a student **is paying attention** or is confused" — đúng, theo dõi sự chú ý của học sinh.
+**Câu 2 — B (Biometrics):** Bài 1 nói "teachers can even use the eye-tracking applications to check students' **understanding of a lesson**" — kiểm tra sự hiểu bài. Đây là ứng dụng sinh trắc học đó.
 
-**Câu 3 — F:** Bài đọc nói nanolearning là "lessons of just **5-10 minutes**" — 5 đến 10 phút thôi, không phải 30 phút. Đây là bẫy — đọc kỹ số liệu nha!
+**Câu 3 — B (Biometrics):** Bài 1 nói "Schools can also use these biometric applications for students who **borrow books and equipment**" — mượn sách và thiết bị. Rõ ràng trong bài Biometrics nha.
 
-**Câu 4 — T:** Bài đọc nói "voice recognition to give students **instant feedback on their pronunciation**" — đúng, phản hồi về phát âm.
+**Câu 4 — N (Nanolearning):** Bài 2 nói "you will increase your **learning attention** and ability" — tăng khả năng chú ý. Nằm trong bài Nanolearning.
 
-**Câu 5 — F:** Câu cuối bài rõ ràng: "technology will **not replace** teachers, but will help them understand each student better" — không thay thế mà chỉ hỗ trợ thôi. Đây là ý chính quan trọng nha.
+**Câu 5 — N (Nanolearning):** Bài 2 nói "Our app also **reports your study activities and results** to your teacher" — ghi lại hoạt động và kết quả. Cũng nằm trong bài Nanolearning nha.
 </explanation>
 
 <!-- chunk: exercise_3 -->
+### Bài 3 trang SGK - Multiple Choice
+
 <teacher_script pause="0">
-Bài 3 — trả lời câu hỏi về bài đọc. Trả lời bằng câu đầy đủ nha, đừng chép nguyên văn mà phải dùng từ của mình.
+Bài 3 — chọn đáp án đúng A, B hoặc C nha. Đọc kỹ câu hỏi và tìm thông tin trong hai bài đọc.
 </teacher_script>
 
 <task>
-**Đề:** Answer the questions about the reading.
-**Dịch đề:** Trả lời các câu hỏi về bài đọc.
+**Đề:** Choose the correct answer A, B, or C.
+**Dịch đề:** Chọn đáp án đúng A, B hoặc C.
 </task>
 
-<questions type="complete_sentences">
-**1.** What two technologies can check students' attendance automatically?
-*Hai công nghệ nào có thể tự động điểm danh học sinh?*
+<questions type="multiple_choice">
+**1.** What does checking students' attendance mean?
+- A. Checking their presence.
+- B. Checking their homework.
+- C. Checking their grades.
+*Kiểm tra sự có mặt của học sinh có nghĩa là gì?*
 
-**2.** What does eye-tracking technology do?
-*Công nghệ theo dõi mắt làm gì?*
+**2.** With Nanolearning students can ___.
+- A. sit in front of a computer all day
+- B. improve their learning quality
+- C. forget large amounts of information
+*Với Nanolearning, học sinh có thể ___.*
 
-**3.** What is nanolearning?
-*Học vi mô là gì?*
+**3.** What DOESN'T Nanolearning do?
+- A. Provide small amounts of information.
+- B. Report study results.
+- C. Entertain students.
+*Nanolearning KHÔNG làm gì?*
 
-**4.** What technology gives students feedback on their pronunciation?
-*Công nghệ nào cung cấp phản hồi về phát âm cho học sinh?*
-
-**5.** What will technology do for teachers in the future?
-*Công nghệ sẽ làm gì cho giáo viên trong tương lai?*
+**4.** The texts are from ___.
+- A. textbooks
+- B. advertisements
+- C. newspapers
+*Các bài đọc lấy từ ___.*
 </questions>
 
 <teacher_script pause="60">
-Trả lời bài 3 vô vở — viết câu đầy đủ nha. 1 phút đó.
+Chọn đáp án bài 3 đi — 1 phút. Đọc kỹ từng lựa chọn nha, có bẫy đó!
 </teacher_script>
 
 <teacher_script pause="0">
@@ -162,53 +243,51 @@ Trả lời bài 3 vô vở — viết câu đầy đủ nha. 1 phút đó.
 
 <answer>
 **Đáp án:**
-1. **Face recognition cameras** and **fingerprint scanners** can check students' attendance automatically.
-2. Eye-tracking technology **follows where students look on the screen** and tells teachers whether a student is paying attention or confused.
-3. Nanolearning is **short, focused lessons of just 5-10 minutes** that may replace traditional long lessons.
-4. **Voice recognition** technology gives students instant feedback on their pronunciation.
-5. Technology will **help teachers understand each student better** — it will not replace them.
+1. **A** — Checking their presence.
+2. **B** — improve their learning quality
+3. **C** — Entertain students.
+4. **B** — advertisements
 </answer>
 
 <explanation>
-**Câu 1:** Tìm trong đoạn 1 — "Face recognition cameras **and** fingerprint scanners" — hai công nghệ đó nha.
+**Câu 1 — A:** "Checking students' attendance" nghĩa là điểm danh — tức là kiểm tra sự có mặt (<eng>checking their presence</eng>). Không phải kiểm tra bài tập hay điểm số nha.
 
-**Câu 2:** Tìm trong đoạn 2 — eye-tracking "follows where students look" và "can tell teachers whether a student is paying attention or is confused".
+**Câu 2 — B:** Bài Nanolearning nói "you will increase your learning attention and ability" — tức là cải thiện chất lượng học tập (<eng>improve their learning quality</eng>). Đáp án A và C là vấn đề mà Nanolearning giải quyết, không phải lợi ích nha — đọc kỹ bẫy đó!
 
-**Câu 3:** Đoạn 3 định nghĩa rõ — "nanolearning — short, focused lessons of just **5-10 minutes**". Nhớ số liệu cụ thể nha!
+**Câu 3 — C:** Nanolearning cung cấp thông tin nhỏ (A — có làm) và báo cáo kết quả (B — có làm). Nhưng giải trí học sinh (<eng>entertain students</eng>) thì KHÔNG — không có trong bài. Đây là câu hỏi DOESN'T nha, chọn cái mà nó KHÔNG làm.
 
-**Câu 4:** Đoạn 4 — "voice recognition to give students **instant feedback on their pronunciation**".
-
-**Câu 5:** Câu cuối bài — "will not replace teachers, but will help them **understand each student better**". Đây là thông điệp chính của cả bài đọc đó.
+**Câu 4 — B:** Cả hai bài đều có dạng quảng cáo — có website liên hệ ("For more information, visit..." và "Contact us at..."). Đây là dấu hiệu rõ ràng của quảng cáo (<eng>advertisements</eng>), không phải sách giáo khoa hay báo.
 </explanation>
 
 <!-- chunk: exercise_4 -->
+### Bài 4 trang SGK - Matching & Conversation
+
 <teacher_script pause="0">
-Bài 4 — nối từ với nghĩa của nó nha. Kiểm tra hiểu từ vựng trong bài đọc.
+Bài 4 — nối câu hỏi ở cột A với câu trả lời ở cột B, rồi tạo hội thoại về một phát minh nha.
 </teacher_script>
 
 <task>
-**Đề:** Match each word (1-5) with its meaning (a-e).
-**Dịch đề:** Nối mỗi từ (1-5) với nghĩa của nó (a-e).
+**Đề:** Match questions in A with answers in B. Then make a conversation about an invention.
+**Dịch đề:** Nối câu hỏi ở cột A với câu trả lời ở cột B. Sau đó tạo hội thoại về một phát minh.
 </task>
 
 <questions type="matching">
-**Từ:**
-1. biometrics
-2. truancy
-3. nanolearning
-4. eye-tracking
-5. concentrate
+**Cột A (Câu hỏi):**
+1. What invention do you like?
+2. Who invented it?
+3. When was it invented?
+4. What are the benefits?
 
-**Nghĩa:**
-a. when students are absent from school without permission
-b. a system that follows where a person looks
-c. technology that identifies people using physical features
-d. focus your attention on something
-e. very short, focused lessons
+**Cột B (Câu trả lời):**
+a. Alphonse Bertillon
+b. Check identities of people at airports or offices
+c. Biometrics
+d. 1800s
+e. Check students' attendance
 </questions>
 
 <teacher_script pause="60">
-Nối bài 4 đi — 1 phút. Nhớ lại bài đọc và từ vựng đã học nha!
+Nối bài 4 đi — 1 phút. Sau đó tập nói hội thoại theo mẫu nha!
 </teacher_script>
 
 <teacher_script pause="0">
@@ -217,60 +296,74 @@ Nối bài 4 đi — 1 phút. Nhớ lại bài đọc và từ vựng đã học
 
 <answer>
 **Đáp án:**
-1 - c | 2 - a | 3 - e | 4 - b | 5 - d
+1 - c | 2 - a | 3 - d | 4 - b/e
 </answer>
 
 <explanation>
-**1. biometrics → c:** Sinh trắc học = "technology that identifies people using **physical features**" — dùng đặc điểm thể chất để nhận dạng.
+**1 → c (Biometrics):** Câu hỏi "What invention do you like?" — Phát minh yêu thích là Biometrics — sinh trắc học.
 
-**2. truancy → a:** Trốn học = "when students are absent **without permission**" — vắng mặt không phép. Đây là từ học thuật hay dùng trong văn bản chính thức đó.
+**2 → a (Alphonse Bertillon):** Câu hỏi "Who invented it?" — Alphonse Bertillon là người phát minh ra sinh trắc học nha.
 
-**3. nanolearning → e:** Học vi mô = "very short, focused lessons" — bài học rất ngắn và tập trung. "Nano" trong tiếng Anh có nghĩa là rất nhỏ nha.
+**3 → d (1800s):** Câu hỏi "When was it invented?" — Sinh trắc học được phát minh vào những năm 1800.
 
-**4. eye-tracking → b:** Theo dõi mắt = "a system that follows where a person **looks**" — theo dõi hướng nhìn.
-
-**5. concentrate → d:** Tập trung = "focus your attention on something". Đây là từ quen thuộc rồi nha — <eng>concentrate on studying = focus on studying</eng>.
+**4 → b/e (Check identities / Check attendance):** Câu hỏi "What are the benefits?" — Lợi ích gồm kiểm tra danh tính ở sân bay, văn phòng (b) VÀ điểm danh học sinh (e). Cả hai đều là lợi ích nha!
 </explanation>
 
-<!-- chunk: speaking -->
 <teacher_script pause="0">
-Phần <eng>Speaking</eng> — thảo luận về công nghệ trong bài đọc nha. Đây là bài tập nói quan trọng — luyện cách trình bày ý kiến bằng tiếng Anh.
+Bây giờ dùng đáp án để tạo hội thoại theo mẫu nha. Đây là ví dụ:
+</teacher_script>
+
+<dialogue>
+| English | Vietnamese |
+|---------|------------|
+| **A:** What invention do you like? | **A:** Bạn thích phát minh nào? |
+| **B:** I like biometrics. | **B:** Mình thích sinh trắc học. |
+| **A:** Who invented it? | **A:** Ai phát minh ra nó? |
+| **B:** Alphonse Bertillon. | **B:** Alphonse Bertillon. |
+| **A:** When was biometrics invented? | **A:** Sinh trắc học được phát minh khi nào? |
+| **B:** Biometrics was invented in 1800s. | **B:** Sinh trắc học được phát minh vào những năm 1800. |
+| **A:** What are the benefits? | **A:** Lợi ích là gì? |
+| **B:** Checking identities of people at airports or offices and checking students' attendance. | **B:** Kiểm tra danh tính ở sân bay hoặc văn phòng và điểm danh học sinh. |
+</dialogue>
+
+<teacher_script pause="60">
+Tập nói hội thoại theo mẫu với bạn cùng bàn — 1 phút nha. Nhớ dùng đúng cấu trúc câu hỏi và trả lời đó!
+</teacher_script>
+
+<!-- chunk: exercise_5 -->
+### Bài 5 trang SGK - Group Work & Report
+
+<teacher_script pause="0">
+Bài 5 — làm theo nhóm nha. Hỏi và trả lời về một công nghệ hoặc phát minh, dùng mẫu ở bài 4. Sau đó báo cáo trước lớp.
 </teacher_script>
 
 <task>
-**Đề:** Discuss with a partner: "Which technology in the reading do you find most useful? Why?"
-**Dịch đề:** Thảo luận cùng bạn: "Công nghệ nào trong bài đọc mà em thấy hữu ích nhất? Tại sao?"
-
-**Useful language:**
-- "I think... is the most useful because..."
-- "In my opinion, ... would help students..."
-- "I believe ... is important because..."
-- "The reason I choose ... is that..."
+**Đề:** Work in groups. Ask and answer questions about a technology or an invention. Use the example in 4 as a cue. Then report your answers to the class.
+**Dịch đề:** Làm theo nhóm. Hỏi và trả lời các câu hỏi về một công nghệ hoặc phát minh. Dùng ví dụ ở bài 4 làm gợi ý. Sau đó báo cáo câu trả lời trước lớp.
 </task>
 
 <questions type="speaking">
-**1.** Which technology from the reading do you find most useful? (biometrics / eye-tracking / nanolearning / voice recognition)
-*Công nghệ nào em thấy hữu ích nhất?*
+**1.** Ask and answer about a technology or invention using the cue in exercise 4.
+*Hỏi và trả lời về một công nghệ hoặc phát minh dùng gợi ý ở bài 4.*
 
-**2.** How would this technology help you personally as a student?
-*Công nghệ đó sẽ giúp ích gì cho bản thân em với tư cách là học sinh?*
-
-**3.** Are there any disadvantages to this technology?
-*Có nhược điểm nào của công nghệ đó không?*
+**2.** Report your group's answers to the class.
+*Báo cáo câu trả lời của nhóm trước lớp.*
 </questions>
 
 <teacher_script pause="60">
-Thảo luận theo cặp — mỗi người nói ít nhất 3 câu. 1 phút, bắt đầu đi nha!
+Thảo luận theo nhóm — hỏi và trả lời. 1 phút nha. Nhớ dùng 4 câu hỏi: What invention? Who invented? When? What benefits?
 </teacher_script>
 
 <answer>
-**Gợi ý trả lời:**
-- "I think nanolearning is the most useful because I often lose concentration during long lessons. Short 5-10 minute lessons would help me focus better."
-- "In my opinion, voice recognition would help me improve my English pronunciation. I can get instant feedback without feeling embarrassed."
-- "I believe eye-tracking is useful because teachers can quickly know which students need help, without waiting for students to raise their hands."
+**Gợi ý báo cáo:**
+"Mi likes biometrics. Alphonse Bertillon invented it in 1800s. It is a very important technology. We use it to check identities of people at airports or offices and to check students' attendance."
 </answer>
+
+<teacher_script action="record" pause="0">
+Bây giờ báo cáo trước lớp nha — nói theo mẫu vừa thảo luận. Bấm nút ghi âm và nói đi!
+</teacher_script>
 
 <!-- chunk: end -->
 <teacher_script pause="0">
-<eng>Skills 1</eng> Unit 11 xong rồi nha! Hôm nay đọc bài về sinh trắc học, theo dõi mắt, học vi mô và nhận dạng giọng nói. Nhớ ý chính quan trọng nhất: công nghệ giúp giáo viên, không thay thế giáo viên. Tiết sau học <eng>Skills 2</eng> — nghe và viết về robot giáo viên đó. Học tốt lớp!
+<eng>Skills 1</eng> Unit 11 xong rồi nha! Hôm nay đọc hai bài — bài 1 về <eng>Biometrics</eng> sinh trắc học dùng trong trường học, bài 2 về <eng>Nanolearning</eng> học vi mô giúp học dễ dàng hơn. Rồi tập nói về phát minh. Nhớ từ vựng quan trọng: <eng>biometrics, truancy, attendance, nanolearning, effortless</eng>. Tiết sau học <eng>Skills 2</eng> nha. Học tốt lớp!
 </teacher_script>
