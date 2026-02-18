@@ -31,12 +31,12 @@ Từ vựng xong rồi nha. Mấy từ này đều liên quan đến bài nghe v
 ### Bài 1 trang SGK - Tick
 
 <teacher_script pause="0">
-Bài 1 — <eng>Tick the things that a robot teacher can do</eng> nha. Đánh dấu những thứ mà giáo viên robot có thể làm. Các em đọc và suy nghĩ trước khi nghe nha.
+Bài 1 — <eng>Tick the things that you think a robot teacher can do</eng> nha. Đánh dấu những thứ mà em nghĩ giáo viên robot có thể làm. Các em đọc và suy nghĩ trước khi nghe nha.
 </teacher_script>
 
 <task>
-**Đề:** Tick (✓) the things that a robot teacher can do.
-**Dịch đề:** Đánh dấu (✓) những điều mà giáo viên robot có thể làm.
+**Đề:** Tick (✓) the things that you think a robot teacher can do.
+**Dịch đề:** Đánh dấu (✓) những điều bạn nghĩ giáo viên robot có thể làm.
 </task>
 
 <questions type="listen_tick">
@@ -119,8 +119,8 @@ Giờ điền từ vào bảng bài 2 nha. Bảng chia 2 cột: robot CAN do và
 </teacher_script>
 
 <task>
-**Đề:** Listen to the conversation and fill in the blanks.
-**Dịch đề:** Nghe hội thoại và điền vào chỗ trống.
+**Đề:** Listen to the conversation and fill in each blank with ONE word.
+**Dịch đề:** Nghe đoạn hội thoại và điền vào mỗi chỗ trống bằng MỘT từ.
 </task>
 
 <questions type="fill_blanks">
@@ -131,7 +131,7 @@ Giờ điền từ vào bảng bài 2 nha. Bảng chia 2 cột: robot CAN do và
 
 **Things a robot teacher CAN'T do:**
 - Teach students how to (4) ________
-- Have emotional connections
+- Have emotional connections with students
 - Solve (5) ________ between students
 </questions>
 
@@ -172,8 +172,8 @@ Bài 3 — Đúng hay Sai nha. Đọc kỹ từng câu rồi so sánh với bài
 </teacher_script>
 
 <task>
-**Đề:** Listen again. Write T (True) or F (False).
-**Dịch đề:** Nghe lại. Viết T (Đúng) hoặc F (Sai).
+**Đề:** Listen again and tick (✓) T (True) or F (False).
+**Dịch đề:** Nghe lại và đánh dấu (✓) T (Đúng) hoặc F (Sai).
 </task>
 
 <questions type="true_false">
@@ -230,8 +230,8 @@ Bài 4 — thảo luận nha. Đề bài hỏi em đồng ý hay không đồng 
 </teacher_script>
 
 <task>
-**Đề:** Do you agree or disagree that robots will soon replace teachers at school? Fill in the table with your reasons.
-**Dịch đề:** Em có đồng ý hay không đồng ý rằng robot sẽ sớm thay thế giáo viên ở trường? Điền vào bảng lý do của em.
+**Đề:** Work in pairs. Discuss if you agree or disagree that robots will soon replace teachers at schools. Write the reasons in the table.
+**Dịch đề:** Làm việc theo cặp. Thảo luận xem bạn đồng ý hay không đồng ý rằng robot sẽ sớm thay thế giáo viên tại trường học. Viết nguyên nhân vào bảng.
 </task>
 
 <questions type="fill_blanks">
@@ -280,12 +280,12 @@ Bài 4 không có đáp án đúng sai — các em tự nghĩ lý do. Mấy gợ
 ### Bài 5 trang SGK - Writing
 
 <teacher_script pause="0">
-Bài 5 — phần viết nha. Viết 1 đoạn văn 80 đến 100 từ, nêu ý kiến của em: đồng ý hay không đồng ý rằng robot sẽ sớm thay thế giáo viên. Dùng lý do từ bảng bài 4 nha.
+Bài 5 — phần viết nha. Viết 1 đoạn văn 80 đến 100 từ, nêu ý kiến của em: đồng ý hay không đồng ý rằng robot sẽ sớm thay thế giáo viên. Dùng lý do từ bảng bài 4 nha. Bắt đầu đoạn văn theo mẫu trong sách đó.
 </teacher_script>
 
 <task>
-**Đề:** Write a paragraph (80-100 words) to express your opinion. You can start your paragraph as follows: "I agree / disagree that robots will soon replace teachers at school. First, they ___."
-**Dịch đề:** Viết một đoạn văn (80-100 từ) để bày tỏ ý kiến. Em có thể bắt đầu đoạn văn như sau: "Em đồng ý / không đồng ý rằng robot sẽ sớm thay thế giáo viên ở trường. Đầu tiên, chúng ___."
+**Đề:** Now write a paragraph (80 - 100 words) to express your opinion. Use the notes in 4. Start your paragraph as shown below: "I agree / disagree that robots will soon replace teachers at school. First, they _________."
+**Dịch đề:** Bây giờ hãy viết một đoạn văn (80 - 100 từ) để bày tỏ ý kiến của mình. Sử dụng các ghi chú trong bài 4. Bắt đầu đoạn văn như dưới đây: "Em đồng ý / không đồng ý rằng robot sẽ sớm thay thế giáo viên ở trường. Đầu tiên, chúng _________."
 </task>
 
 <grammar>
@@ -326,8 +326,8 @@ Xem đoạn mẫu nha — để biết cách viết.
 </translation>
 
 <questions type="writing">
-**Writing prompt:** "I agree / disagree that robots will soon replace teachers at school. First, they ___."
-*"Em đồng ý / không đồng ý rằng robot sẽ sớm thay thế giáo viên ở trường. Đầu tiên, chúng ___."*
+**Writing prompt:** "I agree / disagree that robots will soon replace teachers at school. First, they _________."
+*"Em đồng ý / không đồng ý rằng robot sẽ sớm thay thế giáo viên ở trường. Đầu tiên, chúng _________."*
 </questions>
 
 <teacher_script pause="300" action="photo">
@@ -337,7 +337,7 @@ Viết bài đi nha — 5 phút. Viết vô vở, nhớ dùng cấu trúc đã h
 <answer>
 **Tiêu chí chấm điểm:**
 - Có nêu rõ quan điểm: đồng ý / không đồng ý ✓
-- Bắt đầu đúng: "I agree / disagree that robots will soon replace teachers at school. First, they ___." ✓
+- Bắt đầu đúng: "I agree / disagree that robots will soon replace teachers at school. First, they _________." ✓
 - Có ít nhất 2 lý do ✓
 - Có câu kết luận ✓
 - Dùng từ nối (First, Second, Therefore...) ✓
