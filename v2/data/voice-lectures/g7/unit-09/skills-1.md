@@ -103,10 +103,17 @@ Bài 2 <eng>Match the words with their meanings</eng>. Nối từ trong email v�
 4. performance
 
 **Meanings:**
-a. two children born at the same time to the same mother
-b. included something as an important part
-c. the act of entertaining other people by singing, dancing, and playing music
-d. a meeting of people
+a. two children born to the same mother at the same time
+*(hai đứa trẻ được sinh cùng mẹ vào cùng một thời điểm)*
+
+b. meeting
+*(buổi gặp mặt)*
+
+c. the act of entertaining other people by singing, dancing, and playing music, etc.
+*(hoạt động giải trí cho người khác bằng việc ca hát, nhảy múa và chơi nhạc cụ, v.v.)*
+
+d. showed something as the most important part
+*(một thứ hay một điều gì đó như một phần quan trọng nhất)*
 </questions>
 
 <teacher_script pause="0">
@@ -114,16 +121,22 @@ d. a meeting of people
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.d | 2.b | 3.a | 4.c
-</answer>
+**Đáp án:** 1-b | 2-d | 3-a | 4-c
 
-<explanation>
 **Giải thích:**
-1. **gathering** = d (cuộc tụ họp = cuộc gặp mặt của mọi người) - "It's the largest gathering for twins in the world."
-2. **featured** = b (bao gồm, giới thiệu) - "It featured singing, dancing, comedy, and other things."
-3. **twins** = a (cặp song sinh = hai đứa trẻ sinh cùng lúc) - "Thousands of twins come from different countries."
-4. **performance** = c (buổi biểu diễn = hoạt động giải trí) - "I loved the performance by the twins from Korea the most."
-</explanation>
+
+**1-b.** gathering = meeting
+*(sự tụ tập = buổi gặp mặt)*
+
+**2-d.** featured = showed something as the most important part
+*(đặc sắc = một thứ hay một điều gì đó như một phần quan trọng nhất)*
+
+**3-a.** twins = two children born to the same mother at the same time
+*(sinh đôi = hai đứa trẻ được sinh cùng mẹ vào cùng một thời điểm)*
+
+**4-c.** performance = the act of entertaining other people by singing, dancing, and playing music, etc.
+*(màn trình diễn = hoạt động giải trí cho người khác bằng việc ca hát, nhảy múa và chơi nhạc cụ, v.v.)*
+</answer>
 
 ---
 

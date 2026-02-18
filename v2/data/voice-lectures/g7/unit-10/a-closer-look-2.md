@@ -84,23 +84,14 @@ Bai 1 trang 107 nha. <eng>Work in pairs. Tell your partner what the people in th
 </task>
 
 <questions type="speaking">
-**a.** (Picture of a teacher in front of a blackboard)
-*Hinh mot co giao dang dung truoc bang.*
+*(Nhìn hình trong sách và mô tả những người trong hình đang làm gì)*
 
-**b.** (Picture of people playing football)
-*Hinh nhung nguoi dang choi bong da.*
-
-**c.** (Picture of a girl riding a bike)
-*Hinh mot co gai dang di xe dap.*
-
-**d.** (Picture of a woman cooking)
-*Hinh mot nguoi phu nu dang nau an.*
-
-**e.** (Picture of a woman singing)
-*Hinh mot nguoi phu nu dang hat.*
-
-**f.** (Picture of a man watering flowers)
-*Hinh mot ong dang tuoi hoa.*
+**a.** _______
+**b.** _______
+**c.** _______
+**d.** _______
+**e.** _______
+**f.** _______
 </questions>
 
 <teacher_script pause="60">

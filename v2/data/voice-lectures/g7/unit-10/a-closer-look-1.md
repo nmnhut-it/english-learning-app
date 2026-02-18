@@ -87,12 +87,12 @@ Bài 2 <eng>Write the phrases to label the pictures</eng>. Viết các cụm t�
 </task>
 
 <questions type="fill_blanks">
-*(Nhìn hình và viết tên loại năng lượng tương ứng)*
+*(Nhìn hình trong sách và viết tên loại năng lượng tương ứng)*
 
-1. _______ *(hình nhà máy điện hạt nhân)*
-2. _______ *(hình đập thủy điện)*
-3. _______ *(hình tấm pin mặt trời)*
-4. _______ *(hình tuabin gió)*
+1. _______
+2. _______
+3. _______
+4. _______
 </questions>
 
 <teacher_script pause="45">
@@ -111,12 +111,6 @@ Ok đáp án nè.
 4. wind energy *(năng lượng gió)*
 </answer>
 
-<explanation>
-- Hình 1 là nhà máy điện hạt nhân với ống khói lớn → <eng>nuclear energy</eng>.
-- Hình 2 là đập nước để phát điện → <eng>hydro energy</eng> (thủy điện).
-- Hình 3 là các tấm pin mặt trời trên mái nhà → <eng>solar energy</eng>.
-- Hình 4 là các tuabin gió quay → <eng>wind energy</eng>.
-</explanation>
 
 <!-- chunk: exercise-3 -->
 ### Bài 3 trang 106 - Complete Sentences

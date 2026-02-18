@@ -12,22 +12,31 @@ Các em mở sách ra, Unit 9, bài <eng>A Closer Look 1</eng>, ghi tựa bài. 
 
 <vocabulary>
 **Vocabulary**
-1. **Cannes Film Festival** : (n.phr) Liên hoan phim Cannes /kæn fɪlm ˈfestɪvəl/
+1. **Cannes Film Festival** : (n.phr) Liên hoan phim Cannes /kæn fɪlm ˈfɛstəvəl/
 2. **Christmas** : (n) Lễ Giáng sinh /ˈkrɪsməs/
 3. **Mid-Autumn Festival** : (n.phr) Tết Trung thu /mɪd ˈɔːtəm ˈfestɪvəl/
-4. **Halloween** : (n) Lễ hội Halloween /ˌhæləʊˈiːn/
-5. **Thanksgiving** : (n) Lễ Tạ ơn /ˌθæŋksˈɡɪvɪŋ/
-6. **Easter** : (n) Lễ Phục sinh /ˈiːstə/
-7. **chocolate eggs** : (n.phr) trứng sô cô la /ˈtʃɒklət eɡz/
-8. **turkey** : (n) gà tây /ˈtɜːki/
-9. **candy apples** : (n.phr) kẹo táo /ˈkændi ˈæplz/
+4. **Halloween** : (n) Lễ hội hóa trang /ˌhæləʊˈiːn/
+5. **Thanksgiving** : (n) Lễ Tạ Ơn /ˌθæŋksˈɡɪvɪŋ/
+6. **Easter** : (n) Lễ phục sinh /ˈiːstə(r)/
+7. **chocolate eggs** : (n.phr) Trứng socola /ˈʧɒkəlɪt ɛgz/
+8. **turkey** : (n) Gà tây /ˈtɜːki/
+9. **candy apples** : (n) Kẹo táo /ˈkændi ˈæplz/
 10. **moon cakes** : (n.phr) bánh trung thu /muːn keɪks/
-11. **carving pumpkins** : (v.phr) khắc bí ngô /ˈkɑːvɪŋ ˈpʌmpkɪnz/
+11. **carve pumpkin** : (v.phr) Khắc bí đỏ /kɑːv ˈpʌmpkɪn/
 12. **painting eggs** : (v.phr) vẽ trứng /ˈpeɪntɪŋ eɡz/
-13. **performing a lion dance** : (v.phr) múa lân /pəˈfɔːmɪŋ ə ˈlaɪən dɑːns/
+13. **perform a lion dance** : (v.phr) Múa lân /pəˈfɔːm ə ˈlaɪən dɑːns/
 14. **having a feast** : (v.phr) tổ chức tiệc /ˈhævɪŋ ə fiːst/
 15. **costume** : (n) trang phục biểu diễn /ˈkɒstjuːm/
 16. **fireworks** : (n) pháo hoa /ˈfaɪəwɜːks/
+17. **activity** : (n) hoạt động /ækˈtɪvəti/
+18. **decide** : (v) Quyết định /dɪˈsaɪd/
+19. **discuss** : (v) Thảo luận /dɪˈskʌs/
+20. **prepare** : (v) Chuẩn bị /prɪˈpeə(r)/
+21. **attend** : (v) Tham dự /əˈtend/
+22. **present** : (n) Món quà /ˈprizent/
+23. **happy** : (adj) hạnh phúc /ˈhæpi/
+24. **clever** : (adj) Thông minh, khéo léo /ˈklevə/
+25. **patient** : (adj) Kiên nhẫn /ˈpeɪʃənt/
 </vocabulary>
 
 <teacher_script pause="0">
@@ -53,16 +62,16 @@ Bài 1. Nhìn hình và viết tên lễ hội tương ứng. Em nhận ra lễ 
 </task>
 
 <questions type="matching">
-**Các lễ hội để chọn:**
+**Word bank:**
 | Cannes Film Festival | Christmas | Mid-Autumn Festival | Halloween | Thanksgiving | Easter |
 
-*(Nhìn 6 hình ảnh và viết tên lễ hội)*
-1. _______ (hình người hóa trang ma, bí ngô)
-2. _______ (hình cây thông, quà, ông già Noel)
-3. _______ (hình đèn lồng, múa lân, bánh trung thu)
-4. _______ (hình thảm đỏ, ngôi sao điện ảnh)
-5. _______ (hình trứng nhiều màu, thỏ)
-6. _______ (hình gia đình ăn gà tây)
+*(Nhìn 6 hình trong sách và viết tên lễ hội)*
+1. _______
+2. _______
+3. _______
+4. _______
+5. _______
+6. _______
 </questions>
 
 <teacher_script pause="0" href="audio/tts_29c83a10.mp3">
@@ -71,12 +80,12 @@ Ok đáp án nè.
 
 <answer>
 **Đáp án:**
-1. Halloween *(lễ hội hóa trang - 31/10)*
-2. Christmas *(Giáng sinh - 25/12)*
-3. Mid-Autumn Festival *(Tết Trung thu - 15/8 âm lịch)*
-4. Cannes Film Festival *(Liên hoan phim Cannes - tháng 5)*
-5. Easter *(Lễ Phục sinh - tháng 3-4)*
-6. Thanksgiving *(Lễ Tạ ơn - tháng 11)*
+1. Halloween
+2. Christmas
+3. Mid-Autumn Festival
+4. Cannes Film Festival
+5. Easter
+6. Thanksgiving
 </answer>
 
 ---
@@ -113,18 +122,12 @@ Ok đáp án nè.
 <answer>
 **Đáp án:**
 
-| Festival | Food | Activity |
+| Festival *(Lễ hội)* | Food *(Thức ăn)* | Activity *(Hoạt động)* |
 |----------|------|----------|
-| **Easter** *(Lễ Phục Sinh)* | chocolate eggs *(trứng sô cô la)* | painting eggs *(vẽ trứng)* |
+| **Easter** *(Lễ Phục Sinh)* | chocolate eggs *(trứng làm từ sô cô la)* | painting eggs *(vẽ lên trứng)* |
 | **Halloween** *(Lễ hội Halloween)* | candy apples *(kẹo táo)* | carving pumpkins *(khắc bí ngô)* |
 | **Mid-Autumn Festival** *(Trung thu)* | moon cakes *(bánh trung thu)* | performing a lion dance *(múa lân)* |
 | **Thanksgiving** *(Lễ Tạ ơn)* | turkey *(gà tây)* | having a feast *(tổ chức tiệc)* |
-
-**Giải thích:**
-- <eng>Easter</eng>: Trẻ em được tặng trứng sô cô la và chơi trò vẽ trứng
-- <eng>Halloween</eng>: Ăn kẹo táo và khắc bí ngô thành đèn lồng
-- <eng>Mid-Autumn</eng>: Ăn bánh trung thu và xem múa lân - quen thuộc với em rồi nè!
-- <eng>Thanksgiving</eng>: Gia đình Mỹ ăn gà tây và tổ chức tiệc sum họp
 </answer>
 
 ---
@@ -169,15 +172,25 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. Christmas | 2. painting eggs | 3. candy apples | 4. Cannes Film Festival | 5. Mid-Autumn Festival | 6. turkey
+**Đáp án:**
 
-**Giải thích:**
-1. **Christmas** - Giáng sinh là dịp mọi người tặng quà cho nhau
-2. **painting eggs** - Vẽ trứng là hoạt động truyền thống của Lễ Phục sinh
-3. **candy apples** - Kẹo táo là đồ ăn đặc trưng của Halloween
-4. **Cannes Film Festival** - Liên hoan phim Cannes nổi tiếng với nhiều phim hay
-5. **Mid-Autumn Festival** - Tết Trung thu có múa lân
-6. **turkey** - Gà tây là món chính của Lễ Tạ ơn
+1. At **Christmas**, people give gifts to each other.
+   *(Vào lễ Giáng sinh, mọi người tặng quà cho nhau.)*
+
+2. My children love **painting eggs** at Easter.
+   *(Các con của mình thích vẽ những quả trứng vào lễ Phục sinh.)*
+
+3. How many **candy apples** do you need for the Halloween party?
+   *(Bạn cần bao nhiêu chiếc kẹo táo cho bữa tiệc Halloween?)*
+
+4. At the **Cannes Film Festival**, there are many interesting films.
+   *(Tại Liên hoan phim Cannes, có rất nhiều bộ phim hấp dẫn.)*
+
+5. Performing lion dances is one of the activities at the **Mid-Autumn Festival**.
+   *(Biểu diễn múa lân là một trong những hoạt động vào dịp Tết Trung Thu.)*
+
+6. Bill's mum is cooking a **turkey** for Thanksgiving.
+   *(Mẹ của Bill đang nấu một con gà tây cho Lễ Tạ ơn.)*
 </answer>
 
 ---

@@ -5,6 +5,28 @@
 Ok lớp 7, hôm nay học phần <eng>A Closer Look 2</eng> - ngữ pháp về câu hỏi Yes/No nha. Đây là loại câu hỏi mà người ta chỉ cần trả lời "Có" hoặc "Không". Rất quan trọng vì em dùng hàng ngày luôn. Mở sách trang 95 đi.
 </teacher_script>
 
+<!-- chunk: vocabulary -->
+<teacher_script pause="0">
+Các em mở sách ra, Unit 9, bài <eng>A Closer Look 2</eng>, ghi tựa bài. Sau đó bấm nút "Bắt đầu" bên dưới để học từ vựng. Máy sẽ đọc và các em đọc theo. Sau đó các em làm bài trắc nghiệm từ vựng rồi ghi từ vựng vô tập.
+</teacher_script>
+
+<vocabulary>
+**Vocabulary**
+1. **excited about** : (adj) hào hứng /ɪkˈsaɪtɪd əˈbaʊt/
+2. **come back home** : (v.phr) quay về nhà /kʌm bæk həʊm/
+3. **make a costume** : (v.phr) may trang phục /meɪk ə ˈkɒstjuːm/
+4. **bake a birthday cake** : (v.phr) nướng bánh sinh nhật /beɪk ə ˈbɜːθdeɪ keɪk/
+5. **celebrate** : (v) tổ chức /ˈselɪbreɪt/
+6. **come over** : (phr.v) ghé chơi /kʌm ˈəʊvə/
+7. **autumn fruits** : (n.phr) trái cây mùa thu /ˈɔːtəm fruːts/
+8. **make lanterns** : (v.phr) làm đèn lồng /meɪk ˈlæntənz/
+9. **join** : (v) tham gia /dʒɔɪn/
+10. **dragon dance** : (n.phr) múa rồng /ˈdræɡən dɑːns/
+11. **fireworks display** : (n.phr) màn bắn pháo hoa /ˈfaɪəwɜːks dɪˈspleɪ/
+12. **take a photo** : (v.phr) chụp ảnh /teɪk ə ˈfəʊtəʊ/
+13. **folk dance** : (n.phr) điệu múa dân gian /fəʊk dɑːns/
+</vocabulary>
+
 <!-- chunk: grammar -->
 <teacher_script pause="0">
 Nghe kỹ công thức nha. Câu hỏi Yes/No luôn bắt đầu bằng trợ động từ.
@@ -54,7 +76,7 @@ Bài 1. Điền trợ động từ vào chỗ trống. Nhìn từ khóa thời g
    *(Anh ấy có đến thăm Hội An vào năm ngoái không?)*
 
 3. _______ they performing folk dances?
-   *(Họ có đang biểu diễn các điệu múa truyền thống không?)*
+   *(Họ có biểu diễn các điệu múa truyền thống không?)*
 
 4. A: _______ you make banh chung?
    B: Yes, I can.
@@ -123,19 +145,24 @@ Ok đáp án nè.
 **Đáp án:**
 
 1. **Can your mother make a costume for you?**
-   - Có "can" → đưa **Can** lên đầu, giữ nguyên động từ "make"
+   *(Mẹ của bạn có thể may một bộ trang phục cho bạn không?)*
+   - Trợ từ "can", chủ ngữ "my mother", động từ "make" giữ nguyên → Can your mother....
 
 2. **Will she bake him a birthday cake?**
-   - Có "will" → đưa **Will** lên đầu, giữ nguyên động từ "bake"
+   *(Cô ấy sẽ nướng cho anh ấy một chiếc bánh sinh nhật chứ?)*
+   - Trợ từ "will", thì tương lai đơn, chủ ngữ "she", động từ "bake" giữ nguyên → Will she bake....
 
 3. **Are the dragon dances interesting?**
-   - Có "are" → đưa **Are** lên đầu
+   *(Những điệu múa rồng có thú vị không?)*
+   - Trợ từ "are", thì hiện tại đơn, chủ ngữ "the dragon dances" → Are the dragon dances....
 
 4. **Does the Rio Carnival take place every year in Brazil?**
-   - "takes" là động từ thường, chủ ngữ số ít → thêm **Does**, động từ về nguyên mẫu "take"
+   *(Lễ hội Rio Carnival có diễn ra hàng năm ở Brazil không?)*
+   - "every year" nên dùng thì hiện tại đơn, chủ ngữ số ít → dùng "Does", động từ "takes place" chuyển về nguyên thể "take place"
 
 5. **Did they see a fireworks display on New Year's Eve?**
-   - "saw" là quá khứ → thêm **Did**, động từ về nguyên mẫu "see"
+   *(Họ có xem bắn pháo hoa vào đêm giao thừa không?)*
+   - Động từ "saw" nên dùng thì quá khứ đơn → dùng "Did", động từ "saw" chuyển về nguyên thể "see"
 </answer>
 
 ---
@@ -170,11 +197,21 @@ Ok đáp án nè.
 **Đáp án:** 1 - c | 2 - a | 3 - e | 4 - b | 5 - d
 
 **Giải thích:**
-1. **Will** you help...? → Yes, I **will**. (c)
-2. **Is** he painting...? → Yes, he **is**. (a)
-3. **Do** they eat...? → Yes, they **do**. (e)
-4. **Are** you excited...? → No, I'**m not**. (b)
-5. **Can** she perform...? → No, she **can't**. (d)
+
+**1 - c.** Will you help me take a photo? - Yes, I will.
+*(Bạn sẽ giúp mình chụp một bức ảnh chứ? - Được thôi.)*
+
+**2 - a.** Is he painting Easter eggs? - Yes, he is.
+*(Có phải anh ấy đang vẽ những quả trứng Phục sinh? - Đúng vậy.)*
+
+**3 - e.** Do they eat candy apples on Halloween? - Yes, they do.
+*(Họ có ăn kẹo táo vào ngày Halloween không? - Có.)*
+
+**4 - b.** Are you excited about your holiday? - No, I'm not.
+*(Bạn có hào hứng với kỳ nghỉ của mình không? - Mình không.)*
+
+**5 - d.** Can she perform Dutch folk dances? - No, she can't.
+*(Cô ấy có thể biểu diễn các điệu múa truyền thống của Hà Lan không? - Không, cô ấy không thể.)*
 
 *Mẹo: Hỏi với trợ động từ nào thì trả lời với trợ động từ đó!*
 </answer>

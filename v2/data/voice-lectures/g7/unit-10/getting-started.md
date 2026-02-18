@@ -140,15 +140,11 @@ Ok đáp án nè.
 
 **Giải thích:** Bố Lan giải thích "it's power that we use to provide us with light, heat or electricity" nên đó là định nghĩa của năng lượng.
 
-**3.** It comes from many sources like oil, coal, gas or even the sun and wind or water.
-*(Nó đến từ nhiều nguồn khác nhau như dầu mỏ, than đá, khí đốt hoặc thậm chí là mặt trời, gió hay nước.)*
+**3.** It comes from many different sources like coal, oil, natural gas,…
+*(Nó đến từ nhiều nguồn khác nhau như than đá, dầu mỏ, khí đốt tự nhiên,…)*
 
-**Giải thích:** Năng lượng đến từ nhiều nguồn: nguồn không tái tạo như dầu, than, khí đốt và nguồn tái tạo như mặt trời, gió, nước.
-
-**4.** They are sources that we cannot run out of. We can easily replace them.
-*(Chúng là những nguồn mà chúng ta không thể dùng hết. Chúng ta có thể dễ dàng thay thế chúng.)*
-
-**Giải thích:** Nguồn tái tạo <eng>renewable sources</eng> là nguồn không bao giờ hết và có thể dễ dàng thay thế.
+**4.** They are energy that comes from the sun, wind and water.
+*(Chúng là năng lượng đến từ mặt trời, gió và nước.)*
 </answer>
 
 <!-- chunk: exercise-4 -->
@@ -169,12 +165,6 @@ Bài 4. <eng>Match the words/phrases in the box with the correct pictures.</eng>
 2. wind energy
 3. coal
 4. natural gas
-
-**Hình ảnh:**
-- a. (hình cánh quạt gió)
-- b. (hình than đá)
-- c. (hình bếp ga)
-- d. (hình thùng dầu)
 </questions>
 
 <teacher_script pause="45">
@@ -189,10 +179,10 @@ Ok đáp án nè.
 **Đáp án:** 1 - d | 2 - a | 3 - b | 4 - c
 
 **Giải thích:**
-- **1 - d:** <eng>oil</eng> (dầu) - hình thùng dầu
-- **2 - a:** <eng>wind energy</eng> (năng lượng gió) - hình cánh quạt gió
-- **3 - b:** <eng>coal</eng> (than đá) - hình than đá
-- **4 - c:** <eng>natural gas</eng> (khí đốt tự nhiên) - hình bếp ga
+- **1 - d:** <eng>oil</eng> (dầu)
+- **2 - a:** <eng>wind energy</eng> (năng lượng gió)
+- **3 - b:** <eng>coal</eng> (than đá)
+- **4 - c:** <eng>natural gas</eng> (khí đốt tự nhiên)
 </answer>
 
 <!-- chunk: exercise-5 -->
@@ -233,7 +223,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. power | 2. sun | 3. wind | 4. run | 5. cheap
+**Đáp án:** 1. power | 2. sun | 3. renewable | 4. run | 5. cheap
 
 **Giải thích:**
 
@@ -245,9 +235,9 @@ Ok đáp án nè.
 *(Khi năng lượng đến từ mặt trời, gió và nước, chúng ta gọi nó là năng lượng tái tạo.)*
 → Mặt trời, gió, nước là nguồn năng lượng tái tạo.
 
-**3. wind** - When energy comes from wind, we call it **wind** energy.
-*(Khi năng lượng đến từ gió, chúng ta gọi nó là năng lượng gió.)*
-→ Năng lượng từ gió gọi là <eng>wind energy</eng>.
+**3. renewable** - When energy comes from wind, we call it **renewable** energy.
+*(Khi năng lượng đến từ gió, chúng ta gọi nó là năng lượng tái tạo.)*
+→ Năng lượng từ mặt trời, gió, nước gọi là <eng>renewable energy</eng>.
 
 **4. run** - We cannot **run** out of renewable energy.
 *(Chúng ta không thể dùng hết năng lượng có thể tái tạo.)*
