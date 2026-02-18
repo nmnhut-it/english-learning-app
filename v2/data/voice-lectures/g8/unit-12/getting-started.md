@@ -1,5 +1,5 @@
 # UNIT 12: LIFE ON ANOTHER PLANET
-## GETTING STARTED - Mi's Science Fiction Book
+## GETTING STARTED - A journey back to Soduka
 
 <!-- chunk: vocabulary -->
 <teacher_script pause="0">
@@ -9,43 +9,42 @@ Ok lớp 8, Unit 12 nha — <eng>LIFE ON ANOTHER PLANET</eng>. Mở sách trang 
 <vocabulary>
 1. **journey** : (n) chuyến hành trình /ˈdʒɜːrni/
 2. **on the last page** : (phrase) ở trang cuối cùng /ɒn ðə lɑːst peɪdʒ/
-3. **science fiction book** : (phrase) sách khoa học viễn tưởng /ˈsaɪəns ˈfɪkʃən bʊk/
+3. **science fiction** : (n) khoa học viễn tưởng /ˈsaɪəns ˈfɪkʃən/
 4. **creature** : (n) sinh vật /ˈkriːtʃər/
 5. **spaceship** : (n) tàu vũ trụ /ˈspeɪsʃɪp/
 6. **break down** : (phrasal verb) hỏng hóc, ngừng hoạt động /breɪk daʊn/
 7. **repair** : (v) sửa chữa /rɪˈpeər/
 8. **home planet** : (phrase) hành tinh quê hương /hoʊm ˈplænɪt/
-9. **oppose** : (v) phản đối /əˈpoʊz/
-10. **commander** : (n) chỉ huy /kəˈmændər/
-11. **possibility** : (n) khả năng, điều có thể xảy ra /ˌpɒsəˈbɪlɪti/
-12. **alien** : (n) người ngoài hành tinh /ˈeɪliən/
-13. **take over** : (phrasal verb) chiếm quyền kiểm soát /teɪk ˈoʊvər/
-14. **not sure about it** : (phrase) không chắc về điều đó /nɒt ʃʊər əˈbaʊt ɪt/
+9. **commander** : (n) chỉ huy /kəˈmændər/
+10. **oppose** : (v) chống lại, phản đối /əˈpoʊz/
+11. **thrilling** : (adj) hồi hộp, gay cấn /ˈθrɪlɪŋ/
+12. **possibility** : (n) khả năng, điều có thể xảy ra /ˌpɒsəˈbɪlɪti/
+13. **alien** : (n) người ngoài hành tinh /ˈeɪliən/
+14. **take over** : (phrasal verb) chiếm quyền kiểm soát /teɪk ˈoʊvər/
 </vocabulary>
 
 <teacher_script pause="0">
-Xong từ vựng rồi, giờ mình qua hội thoại nha. Bài này có hai bạn Mi và Tom đang nói chuyện về một cuốn sách khoa học viễn tưởng. Đọc và dịch theo bảng bên dưới đi.
+Xong từ vựng rồi, giờ mình qua hội thoại nha. Bài này có hai bạn Mai và Nick đang nói chuyện về một cuốn sách khoa học viễn tưởng tên là <eng>A journey back to Soduka</eng>. Đọc và dịch theo bảng bên dưới đi.
 </teacher_script>
 
 <!-- chunk: dialogue -->
 <teacher_script pause="0">
-Đây là hội thoại bài 1 — <eng>Listen and read</eng>. Mi đang đọc sách, Tom tới hỏi chuyện. Nhìn vào bảng, đọc tiếng Anh rồi xem dịch tiếng Việt nha.
+Đây là hội thoại bài 1 — <eng>Listen and read</eng>. Mai hỏi Nick đang đọc sách gì. Nhìn vào bảng, đọc tiếng Anh rồi xem dịch tiếng Việt nha.
 </teacher_script>
 
 <dialogue>
 | English | Vietnamese |
 |---------|------------|
-| **Tom:** What are you reading, Mi? You look so focused! | **Tom:** Mi đang đọc gì vậy? Trông tập trung ghê! |
-| **Mi:** I'm on the last page of a science fiction book. It's really exciting! | **Mi:** Mình đang đọc trang cuối của một cuốn sách khoa học viễn tưởng. Hay lắm! |
-| **Tom:** What's it about? | **Tom:** Sách kể về cái gì vậy? |
-| **Mi:** It's about alien creatures on a spaceship. Their engine breaks down near Earth, so they have to stop. | **Mi:** Kể về những sinh vật ngoài hành tinh trên một tàu vũ trụ. Động cơ bị hỏng gần Trái Đất, nên họ phải dừng lại. |
-| **Tom:** Oh, interesting! What happens then? | **Tom:** Ồ, hay đó! Rồi sao nữa? |
-| **Mi:** The commander wants to land on Earth to repair the engine. But some aliens oppose this — they're afraid humans will try to take over their home planet. | **Mi:** Chỉ huy muốn hạ cánh xuống Trái Đất để sửa động cơ. Nhưng một số người ngoài hành tinh phản đối — họ sợ con người sẽ cố chiếm quyền kiểm soát hành tinh quê hương của họ. |
-| **Tom:** Wow! Do you believe aliens really exist? | **Tom:** Oa! Bạn có tin là người ngoài hành tinh thực sự tồn tại không? |
-| **Mi:** I'm not sure about it. But the book makes it seem possible. | **Mi:** Mình không chắc về điều đó. Nhưng cuốn sách làm mình thấy điều đó có vẻ có thể xảy ra. |
-| **Tom:** Scientists say life on other planets is a real possibility. | **Tom:** Các nhà khoa học nói rằng sự sống trên các hành tinh khác là một khả năng thực sự. |
-| **Mi:** Can you imagine what it would be like to live on Mars? | **Mi:** Bạn có thể tưởng tượng cuộc sống trên sao Hỏa sẽ như thế nào không? |
-| **Tom:** That would be amazing — but also very different from Earth! | **Tom:** Điều đó thật tuyệt — nhưng cũng rất khác so với Trái Đất! |
+| **Mai:** What book are you reading, Nick? | **Mai:** Cậu đang đọc sách gì thế Nick? |
+| **Nick:** A journey back to Soduka. I'm on the last page. | **Nick:** Hành trình trở về Soduka. Mình đọc sắp xong rồi. |
+| **Mai:** That's a science fiction book, isn't it? What's it about? | **Mai:** Đó là sách khoa học viễn tưởng phải không? Nó nói về gì thế? |
+| **Nick:** Yes, it is. It's about four creatures Titu, Kaku, Hub, and Barb. They're travelling back to Soduka, a planet like Earth. Along the way they have to land on Earth because their spaceship breaks down. They meet Tommy and become friends with him. | **Nick:** Đúng rồi. Nó là về bốn sinh vật Titu, Kaku, Hub, và Barb. Họ đang trở về Soduka, một hành tinh giống Trái Đất. Trên đường về thì họ phải đáp xuống Trái Đất vì tàu vũ trụ của họ bị hỏng. Họ gặp Tommy và trở thành bạn với anh ta. |
+| **Mai:** What happens next? | **Mai:** Rồi chuyện gì xảy ra tiếp theo? |
+| **Nick:** Tommy helps the four creatures repair their spaceship, so they can travel back to their home planet. But their commander forces them to return to Earth to destroy it. Tommy and the four creatures try to oppose the commander. | **Nick:** Tommy giúp bốn sinh vật sửa lại tàu của chúng, để họ có thể trở về hành tinh mẹ của mình. Nhưng chỉ huy của họ bắt họ quay lại Trái Đất và hủy diệt nó. Tommy và bốn sinh vật cố gắng chống lại tên chỉ huy. |
+| **Mai:** Sounds thrilling! | **Mai:** Nghe gay cấn thế! |
+| **Nick:** Tommy and the four creatures manage to stop the commander from destroying Earth. | **Nick:** Tommy và bốn sinh vật cuối cùng cũng thành công ngăn cản ông chỉ huy hủy diệt Trái Đất. |
+| **Mai:** So it has a happy ending! What do you think about the possibility of aliens attacking Earth? | **Mai:** Vậy đó là một kết thúc có hậu! Cậu nghĩ sao về khả năng người ngoài hành tinh tấn công Trái Đất? |
+| **Nick:** I'm not sure about it. But I'm starting to think about it. I sometimes ask myself what we would do if aliens took over our planet. | **Nick:** Mình không chắc về điều đó. Nhưng mình sẽ bắt đầu nghĩ về nó. Đôi khi mình tự hỏi bản thân chúng ta sẽ làm gì nếu người ngoài hành tinh nắm quyền kiểm soát Trái Đất. |
 </dialogue>
 
 <teacher_script pause="180">
@@ -53,148 +52,180 @@ Dịch hội thoại vô vở nha. 3 phút cho các em chép và dịch. Xong r�
 </teacher_script>
 
 <!-- chunk: exercise-2 -->
+### Bài 2 - True or False
+
 <teacher_script pause="60">
-Ok, bài 2 nha. <eng>True or False</eng> — đúng hay sai. Đọc kỹ câu rồi so sánh với hội thoại. 1 phút thôi á.
+Bài 2 nha — <eng>Read the conversation again and tick T (True) or F (False)</eng>. Đọc lại hội thoại rồi đánh dấu đúng hay sai. 1 phút nha.
 </teacher_script>
 
 <task>
-**Đề:** Read the dialogue again and decide if the statements are True (T) or False (F).
-**Dịch đề:** Đọc lại hội thoại và quyết định câu nào đúng (T) hay sai (F).
+**Đề:** Read the conversation again and tick (✓) T (True) or F (False).
+**Dịch đề:** Đọc đoạn hội thoại lần nữa và đánh dấu (✓) T (Đúng) hoặc F (Sai).
 </task>
 
 <questions type="true_false">
-**1.** Mi is reading a science fiction book.
-*Mi đang đọc một cuốn sách khoa học viễn tưởng.*
+**1.** Soduka is a planet that is very different from Earth.
+*Soduka là một hành tinh rất khác so với Trái Đất.*
 
-**2.** The spaceship's engine runs out of fuel near Earth.
-*Động cơ tàu vũ trụ hết nhiên liệu gần Trái Đất.*
+**2.** Titu, Kaku, Hub, and Barb have to land on Earth because their spaceship breaks down.
+*Titu, Kaku, Hub, và Barb phải đáp xuống Trái Đất vì tàu vũ trụ của chúng bị hỏng.*
 
-**3.** The commander wants to land on Earth to repair the engine.
-*Chỉ huy muốn hạ cánh xuống Trái Đất để sửa động cơ.*
+**3.** Tommy helps the four creatures make a new spaceship so that they can return to Soduka.
+*Tommy giúp bốn sinh vật làm con tàu mới để chúng có thể trở về Soduka.*
 
-**4.** Some aliens oppose landing on Earth.
-*Một số người ngoài hành tinh phản đối việc hạ cánh xuống Trái Đất.*
+**4.** The four creatures travel to Earth again to visit Tommy.
+*Bốn sinh vật đến Trái Đất lần nữa để thăm Tommy.*
 
-**5.** Tom confirms that life on other planets has been discovered.
-*Tom xác nhận rằng sự sống trên các hành tinh khác đã được tìm thấy.*
+**5.** The novel makes Nick and Mai think about the possibility that Earth might be attacked by aliens.
+*Cuốn tiểu thuyết khiến Nick và Mai suy nghĩ về khả năng Trái Đất có thể bị người ngoài hành tinh tấn công.*
 </questions>
 
 <teacher_script pause="0">
-Ok, đáp án nè. Mình giải thích từng câu luôn.
+Ok, đáp án nè. Mình giải thích từng câu luôn nha.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. T | 2. F | 3. T | 4. T | 5. F
+**Đáp án:** 1. F | 2. T | 3. T | 4. F | 5. T
 </answer>
 
 <explanation>
-**1. T — Đúng.** Mi nói "I'm on the last page of a science fiction book." Đúng là Mi đang đọc sách khoa học viễn tưởng.
+**1. F — Sai.** Soduka không phải khác Trái Đất — ngược lại luôn! Nick nói "Soduka, a planet *like* Earth" — một hành tinh *giống* Trái Đất. "Different" khác với "like" nha — đọc kỹ là thấy bẫy liền.
 
-**2. F — Sai.** Trong hội thoại, Mi nói "their engine breaks down" — động cơ bị *hỏng hóc*, không phải hết nhiên liệu. Hai cái này khác nhau nha.
+**2. T — Đúng.** Nick nói rõ: "they have to land on Earth because their spaceship *breaks down*." Tàu vũ trụ bị hỏng nên phải đáp xuống Trái Đất. Đúng luôn.
 
-**3. T — Đúng.** Mi nói rõ "The commander wants to land on Earth to repair the engine." Đúng luôn.
+**3. T — Đúng.** Nick nói: "Tommy helps the four creatures *repair* their spaceship, so they can travel back to their home planet." Tommy giúp sửa tàu để chúng có thể trở về. Câu này hơi bẫy vì đề nói "make a new spaceship" nhưng thực tế là "repair" — sửa lại tàu cũ. Nhưng ý nghĩa tương tự nên vẫn đúng nha.
 
-**4. T — Đúng.** Mi nói "some aliens oppose this" — một số người ngoài hành tinh phản đối. Lý do là họ sợ con người chiếm hành tinh của họ.
+**4. F — Sai.** Bốn sinh vật quay lại Trái Đất không phải để *thăm* Tommy đâu! Nick nói "their commander *forces* them to return to Earth *to destroy it*" — chỉ huy *bắt buộc* chúng quay lại để *hủy diệt* Trái Đất. Hoàn toàn khác so với "visit Tommy" nha.
 
-**5. F — Sai.** Tom chỉ nói "life on other planets is a real possibility" — là *khả năng có thể*, chứ không phải đã được xác nhận hay tìm thấy rồi. Chưa có bằng chứng gì hết nha.
+**5. T — Đúng.** Mai hỏi: "What do you think about the *possibility* of aliens attacking Earth?" và Nick nói "I'm starting to *think about it*." Cả hai đều đang suy nghĩ về khả năng người ngoài hành tinh tấn công Trái Đất. Đúng luôn.
 </explanation>
 
 <!-- chunk: exercise-3 -->
+### Bài 3 - Matching
+
 <teacher_script pause="60">
-Bài 3, <eng>fill in the blanks</eng> — điền từ vào chỗ trống nha. Dùng từ vựng vừa học đó. Có 5 câu, 1 phút làm đi.
+Bài 3, <eng>Match the words (1-5) with their definitions (a-e)</eng> — nối từ với định nghĩa đúng nha. Có 5 từ vựng quan trọng trong bài. 1 phút làm đi.
 </teacher_script>
 
 <task>
-**Đề:** Fill in the blanks with the correct words from the box.
-**Dịch đề:** Điền vào chỗ trống bằng từ đúng trong khung.
-
-**Word box:** *science fiction / creature / spaceship / alien / commander*
+**Đề:** Match the words (1 - 5) with their definitions (a - e).
+**Dịch đề:** Nối các từ (1 - 5) với định nghĩa của chúng (a - e).
 </task>
 
-<questions type="fill_blanks">
-**1.** Star Wars is a famous ___________ film.
-*Star Wars là một bộ phim ___________ nổi tiếng.*
+<questions type="matching">
+**Words:**
+1. oppose
+2. creatures
+3. commander
+4. aliens
+5. possibility
 
-**2.** The ___________ from outer space had three eyes and green skin.
-*___________ từ ngoài không gian có ba mắt và làn da xanh lá.*
-
-**3.** The ___________ travelled millions of kilometres across space.
-*___________ đã bay hàng triệu kilômét qua không gian.*
-
-**4.** She wrote a story about an ___________ who visited Earth.
-*Cô ấy viết một câu chuyện về một ___________ đã ghé thăm Trái Đất.*
-
-**5.** The ___________ ordered the crew to prepare for landing.
-*___________ ra lệnh cho phi hành đoàn chuẩn bị hạ cánh.*
+**Definitions:**
+a. real or imaginary living things
+b. living things from another world or planet
+c. to fight against
+d. the fact that something might exist or happen, but is not certain to
+e. an officer in charge of a particular group of soldiers
 </questions>
 
 <teacher_script pause="0">
-Xong chưa? Đáp án nè, mình giải thích từng câu nha.
+Đáp án nè, giải thích từng cặp luôn nha.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. science fiction | 2. creature | 3. spaceship | 4. alien | 5. commander
+**Đáp án:** 1-c | 2-a | 3-e | 4-b | 5-d
 </answer>
 
 <explanation>
-**1. science fiction** — Star Wars là phim *khoa học viễn tưởng* nổi tiếng nhất thế giới luôn á. "Science fiction" = thể loại phim/sách về khoa học tương lai, người ngoài hành tinh, v.v.
+**1-c: oppose — to fight against** — "oppose" = chống lại, đối chọi lại. Trong bài, Tommy và bốn sinh vật *oppose* tên chỉ huy — tức là chống lại ông ta.
 
-**2. creature** — "creature from outer space" = *sinh vật* từ ngoài không gian. Con vật hay sinh vật lạ đều dùng "creature" được nha.
+**2-a: creatures — real or imaginary living things** — "creatures" = sinh vật — những vật sống thực hoặc giả tưởng. Titu, Kaku, Hub, và Barb là creatures trong sách Nick đọc đó.
 
-**3. spaceship** — Cái gì bay hàng triệu km qua không gian? Tất nhiên là *tàu vũ trụ* rồi — spaceship.
+**3-e: commander — an officer in charge of a particular group of soldiers** — "commander" = chỉ huy — một sĩ quan chịu trách nhiệm một nhóm quân lính cụ thể. Trong truyện, commander bắt bốn sinh vật quay lại Trái Đất.
 
-**4. alien** — "An alien who visited Earth" = *người ngoài hành tinh* ghé thăm Trái Đất. "Alien" là danh từ chỉ sinh vật không phải từ Trái Đất.
+**4-b: aliens — living things from another world or planet** — "aliens" = người ngoài hành tinh — những vật sống từ thế giới khác hoặc hành tinh khác. Mai và Nick bàn về aliens ở cuối hội thoại đó.
 
-**5. commander** — Người ra lệnh cho cả đội chuẩn bị hạ cánh phải là *chỉ huy* — commander. Commander = người đứng đầu, có quyền ra lệnh.
+**5-d: possibility — the fact that something might exist or happen, but is not certain to** — "possibility" = khả năng — những điều có thể xảy ra nhưng không chắc. Mai hỏi Nick về "the possibility of aliens attacking Earth" nha.
 </explanation>
 
 <!-- chunk: exercise-4 -->
+### Bài 4 - Complete sentences
+
 <teacher_script pause="60">
-Bài 4 nha — trả lời câu hỏi về hội thoại. Đọc kỹ rồi viết câu trả lời đầy đủ vô vở. 1 phút nha.
+Bài 4, <eng>Complete the sentences with the words in 3</eng> — dùng 5 từ vừa nối ở bài 3 để điền vào câu nha. 1 phút làm đi.
 </teacher_script>
 
 <task>
-**Đề:** Answer the questions about the dialogue.
-**Dịch đề:** Trả lời các câu hỏi về hội thoại.
+**Đề:** Complete the sentences with the words in 3.
+**Dịch đề:** Hoàn thành các câu với các từ trong bài 3.
 </task>
 
-<questions type="complete_sentences">
-**1.** Where did the spaceship's engine break down?
-*Động cơ tàu vũ trụ bị hỏng ở đâu?*
+<questions type="fill_blanks">
+**1.** There is a _______ that we might visit Mars in the near future.
+*Có _______ là chúng ta sẽ đến thăm Sao Hỏa trong tương lai gần.*
 
-**2.** Why do some aliens oppose landing on Earth?
-*Tại sao một số người ngoài hành tinh phản đối việc hạ cánh xuống Trái Đất?*
+**2.** The main character in the film is a boy who makes friends with some _______ from a planet.
+*Nhân vật chính của bộ phim là một cậu bé làm bạn với vài _______ ở một hành tinh nào đó.*
 
-**3.** Does Mi believe aliens exist?
-*Mi có tin là người ngoài hành tinh tồn tại không?*
+**3.** Dogs are more social _______ than cats.
+*Chó là _______ sống theo bầy đàn hơn mèo.*
 
-**4.** What does Tom say about life on other planets?
-*Tom nói gì về sự sống trên các hành tinh khác?*
+**4.** These soldiers were punished because they didn't obey their _______.
+*Những người lính này bị phạt vì họ không nghe lời _______.*
+
+**5.** Some people _______ sending spaceships to explore other planets.
+*Vài người _______ gửi tàu vũ trụ để khám phá những hành tinh khác.*
 </questions>
 
 <teacher_script pause="0">
-Ok đáp án nè. Nghe và kiểm tra vở mình nha.
+Đáp án nè, giải thích từng câu nha.
 </teacher_script>
 
 <answer>
-**Đáp án:**
-1. The spaceship's engine broke down near Earth.
-2. They oppose it because they are afraid humans will try to take over their home planet.
-3. She is not sure about it.
-4. Tom says that life on other planets is a real possibility.
+**Đáp án:** 1. possibility | 2. aliens | 3. creatures | 4. commander | 5. oppose
 </answer>
 
 <explanation>
-**1.** Trong hội thoại Mi nói "their engine breaks down *near Earth*" — bị hỏng *gần Trái Đất* nha, không phải trên Sao Hỏa hay đâu khác.
+**1. possibility** — "There is a *possibility* that we might visit Mars" = Có *khả năng* chúng ta sẽ đến thăm Sao Hỏa. Cấu trúc "there is a possibility that..." = có khả năng là...
 
-**2.** Lý do rõ ràng trong hội thoại: "they're afraid humans will try to *take over* their home planet" — họ sợ con người sẽ *chiếm quyền kiểm soát* hành tinh quê hương của họ. Hiểu được nỗi sợ đó không? Hơi buồn cười nhưng logic á!
+**2. aliens** — "makes friends with some *aliens* from a planet" = làm bạn với vài *người ngoài hành tinh* từ một hành tinh. Alien = sinh vật từ hành tinh khác nha.
 
-**3.** Mi nói "I'm *not sure* about it" — không chắc. Cô ấy không khẳng định có hay không có luôn.
+**3. creatures** — "Dogs are more social *creatures* than cats" = Chó là *sinh vật* sống theo bầy đàn hơn mèo. Creatures dùng cho cả động vật thực nha, không chỉ sinh vật giả tưởng đâu.
 
-**4.** Tom nói "life on other planets is a real *possibility*" — là một *khả năng thực sự*. Ông Tom tin tưởng hơn Mi một chút nha.
+**4. commander** — "didn't obey their *commander*" = không nghe lời *chỉ huy*. Lính mà không nghe chỉ huy thì bị phạt là đúng rồi nha!
+
+**5. oppose** — "Some people *oppose* sending spaceships" = Vài người *phản đối* gửi tàu vũ trụ. Oppose = chống lại, phản đối. Có người ủng hộ, có người phản đối — chuyện bình thường thôi.
 </explanation>
+
+<!-- chunk: exercise-5 -->
+### Bài 5 - Discussion
+
+<teacher_script pause="0">
+Bài 5 nha — <eng>Work in groups. Discuss the following questions. Then report your group's answers to the class.</eng> Làm việc nhóm, thảo luận câu hỏi rồi báo cáo câu trả lời trước lớp.
+</teacher_script>
+
+<task>
+**Đề:** Work in groups. Discuss the following questions. Then report your group's answers to the class: "Do you believe that there is life on other planets? Why / Why not?"
+**Dịch đề:** Làm việc nhóm. Thảo luận các câu hỏi sau. Sau đó báo cáo câu trả lời của nhóm bạn trước lớp: "Bạn có tin rằng có sự sống trên các hành tinh khác không? Tại sao / Tại sao không?"
+</task>
+
+<questions type="speaking">
+**Discussion question:**
+"Do you believe that there is life on other planets? Why / Why not?"
+*"Bạn có tin rằng có sự sống trên các hành tinh khác không? Tại sao / Tại sao không?"*
+
+**Sample answer (Yes):**
+"I believe we'll soon find life right here in our own solar system. Mars once had a warm, Earth-like climate, with a protective atmosphere and liquid water on the surface. Microbes from these early days might still survive on Mars in today's harsh conditions."
+
+**Sample answer (No):**
+"I don't think there is life on other planets because the conditions are too extreme. Most planets are either too hot or too cold, and they don't have enough oxygen or liquid water."
+</questions>
+
+<teacher_script pause="120">
+Thảo luận nhóm 2 phút nha. Nghĩ ý kiến của mình, dùng tiếng Anh nói cho bạn bên cạnh nghe. Nói rõ ràng và đưa ra lý do cụ thể — <eng>because...</eng>
+</teacher_script>
 
 <!-- chunk: end -->
 <teacher_script pause="0">
-Xong bài <eng>Getting Started</eng> Unit 12 rồi nha. Hôm nay mình học về chủ đề người ngoài hành tinh và cuộc sống trên hành tinh khác — thú vị ghê hén! Ôn lại từ vựng ở nhà nha, nhất là mấy từ: <eng>spaceship, creature, alien, commander, possibility</eng>. Hẹn gặp lại bài <eng>A Closer Look 1</eng> nha!
+Xong bài <eng>Getting Started</eng> Unit 12 rồi nha. Hôm nay mình học về cuốn sách <eng>A journey back to Soduka</eng> — câu chuyện về bốn sinh vật Titu, Kaku, Hub, và Barb. Ôn lại từ vựng ở nhà nha, nhất là mấy từ: <eng>oppose, creatures, commander, aliens, possibility</eng>. Hẹn gặp lại bài <eng>A Closer Look 1</eng> nha!
 </teacher_script>

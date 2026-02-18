@@ -3,7 +3,7 @@
 
 <!-- chunk: vocabulary -->
 <teacher_script pause="0">
-Ok lớp 8, bài <eng>A Closer Look 1</eng> Unit 12 nha. Hôm nay mình học tên các hành tinh trong hệ Mặt Trời bằng tiếng Anh, rồi luyện ngữ điệu khi liệt kê danh sách. Ghi tựa bài xong bấm "Bắt đầu" để học từ vựng nha.
+Ok lớp 8, bài <eng>A Closer Look 1</eng> Unit 12 nha. Hôm nay mình học tên các hành tinh trong hệ Mặt Trời bằng tiếng Anh, từ vựng về vũ trụ, rồi luyện ngữ điệu khi liệt kê danh sách. Ghi tựa bài xong bấm "Bắt đầu" để học từ vựng nha.
 </teacher_script>
 
 <vocabulary>
@@ -16,23 +16,26 @@ Ok lớp 8, bài <eng>A Closer Look 1</eng> Unit 12 nha. Hôm nay mình học t�
 7. **Saturn** : (n) Sao Thổ /ˈsætərn/
 8. **Uranus** : (n) Sao Thiên Vương /ˈjʊərənəs/
 9. **telescope** : (n) kính thiên văn /ˈtelɪskoʊp/
-10. **craters** : (n) miệng núi lửa (trên mặt trăng hoặc hành tinh) /ˈkreɪtərz/
-11. **outer** : (adj) bên ngoài, xa hơn /ˈaʊtər/
-12. **surface** : (n) bề mặt /ˈsɜːrfɪs/
+10. **UFO** : (n) vật thể bay không xác định /ˌjuː.efˈoʊ/
+11. **rocket** : (n) tên lửa /ˈrɒkɪt/
+12. **galaxy** : (n) thiên hà /ˈɡæləksi/
+13. **crater** : (n) miệng núi lửa, hố va chạm /ˈkreɪtər/
 </vocabulary>
 
 <teacher_script pause="0">
-Mẹo nhớ tên hành tinh theo thứ tự từ Mặt Trời nha: <eng>My Very Educated Mother Just Served Us Nachos</eng> — chữ đầu của mỗi từ là: M-V-E-M-J-S-U-N, tức là Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune. Học thuộc câu đó là nhớ thứ tự luôn á!
+Mẹo nhớ tên hành tinh theo thứ tự từ Mặt Trời nha: <eng>My Very Excellent Mother Just Served Us Noodles</eng> — chữ đầu của mỗi từ là: M-V-E-M-J-S-U-N, tức là Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune. Học thuộc câu đó là nhớ thứ tự luôn á!
 </teacher_script>
 
 <!-- chunk: exercise-1 -->
+### Bài 1 - Planet ordering
+
 <teacher_script pause="60">
-Bài 1 nha — sắp xếp các hành tinh theo thứ tự từ Mặt Trời ra ngoài. Nhớ câu <eng>My Very Educated Mother Just Served Us Nachos</eng> là làm được liền. 1 phút nha.
+Bài 1 nha — sắp xếp các hành tinh theo thứ tự từ gần nhất đến xa Mặt Trời nhất. Nhớ câu <eng>My Very Excellent Mother Just Served Us Noodles</eng> là làm được liền. 1 phút nha.
 </teacher_script>
 
 <task>
-**Đề:** Number the planets in order from the Sun (1 = closest to the Sun).
-**Dịch đề:** Đánh số các hành tinh theo thứ tự từ Mặt Trời (1 = gần Mặt Trời nhất).
+**Đề:** The following are the eight planets that go around the sun. Put them in order from the closest to the farthest from the sun. This sentence will help you learn the order of the planets: "My Very Excellent Mother Just Served Us Noodles."
+**Dịch đề:** Sau đây là tám hành tinh quay xung quanh Mặt Trời. Xếp chúng theo thứ tự từ gần nhất đến xa Mặt Trời nhất. Câu dưới đây sẽ giúp bạn học thứ tự các hành tinh: "My Very Excellent Mother Just Served Us Noodles."
 
 *Earth / Jupiter / Mars / Mercury / Neptune / Saturn / Uranus / Venus*
 </task>
@@ -85,29 +88,26 @@ Arrange these planets in order from the Sun:
 </explanation>
 
 <!-- chunk: exercise-2 -->
+### Bài 2 - Match words with pictures
+
 <teacher_script pause="60">
-Bài 2 nha — nối hành tinh với mô tả đúng. Có 5 hành tinh và 5 mô tả, ghép cho đúng cặp. 1 phút đi.
+Bài 2 nha — <eng>Match the words (1-5) with the pictures (a-e)</eng>. Nối từ với hình ảnh đúng. Có 5 từ vựng về vũ trụ: <eng>telescope, UFO, rocket, galaxy, crater</eng>. 1 phút đi.
 </teacher_script>
 
 <task>
-**Đề:** Match each planet with its correct description.
-**Dịch đề:** Nối mỗi hành tinh với mô tả đúng của nó.
+**Đề:** Match the words (1 - 5) with the pictures (a - e).
+**Dịch đề:** Nối các từ (1 - 5) với các bức tranh (a - e).
 </task>
 
 <questions type="matching">
-**Planets:**
-1. Mars
-2. Jupiter
-3. Saturn
-4. Mercury
-5. Earth
+**Words:**
+1. telescope
+2. UFO
+3. rocket
+4. galaxy
+5. crater
 
-**Descriptions:**
-a. The largest planet in the solar system
-b. The planet closest to the Sun
-c. Known as the Red Planet
-d. The only planet known to have liquid water
-e. The planet famous for its beautiful rings
+**Pictures:** a, b, c, d, e (xem sách)
 </questions>
 
 <teacher_script pause="0">
@@ -115,48 +115,50 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1-c | 2-a | 3-e | 4-b | 5-d
+**Đáp án:** 1-e | 2-d | 3-a | 4-b | 5-c
 </answer>
 
 <explanation>
-**1-c: Mars → the Red Planet** — Sao Hỏa có màu đỏ do bề mặt chứa nhiều oxit sắt (gỉ sắt). Nên người ta gọi là "hành tinh đỏ" luôn.
+**1-e: telescope** — kính thiên văn. Dụng cụ dùng để quan sát các hành tinh và ngôi sao ở xa. Nhìn hình có ống dài dài, đặt trên giá đỡ — đó là telescope nha.
 
-**2-a: Jupiter → the largest planet** — Sao Mộc to khổng lồ — lớn hơn Trái Đất khoảng 1.300 lần! Lớn nhất hệ Mặt Trời luôn.
+**2-d: UFO** — vật thể bay không xác định. UFO = Unidentified Flying Object. Thường được vẽ hình đĩa bay tròn tròn — đó là UFO đó nha.
 
-**3-e: Saturn → beautiful rings** — Sao Thổ nổi tiếng nhất với vành đai băng và đá xung quanh. Nhìn qua kính thiên văn đẹp mê luôn á.
+**3-a: rocket** — tên lửa. Hình ống dài, có đuôi lửa phía sau — dùng để đưa người và đồ vào vũ trụ. Tên lửa SpaceX hay NASA đều là rocket nha.
 
-**4-b: Mercury → closest to the Sun** — Sao Thủy đứng số 1, gần Mặt Trời nhất. Nhưng Venus mới là hành tinh *nóng* nhất nha — đừng nhầm!
+**4-b: galaxy** — thiên hà. Hình xoắn ốc nhiều ngôi sao — đó là galaxy. Dải Ngân Hà (Milky Way) là galaxy của chúng ta đó.
 
-**5-d: Earth → has liquid water** — Trái Đất là hành tinh duy nhất *được xác nhận* có nước lỏng trên bề mặt. Đó cũng là lý do có sự sống ở đây nha.
+**5-c: crater** — miệng núi lửa, hố va chạm. Hình tròn lõm xuống trên bề mặt hành tinh hoặc mặt trăng — do thiên thạch đập vào tạo ra.
 </explanation>
 
 <!-- chunk: exercise-3 -->
+### Bài 3 - Fill in the blanks
+
 <teacher_script pause="60">
-Bài 3, điền từ vào chỗ trống nha. Dùng từ vựng vừa học: <eng>surface, craters, telescope, outer, Jupiter</eng>. 1 phút làm đi.
+Bài 3, <eng>Complete the following sentences with the words from the box</eng> — điền từ vào chỗ trống nha. Dùng từ vựng: <eng>Venus, telescope, craters, rocket, galaxy</eng>. 1 phút làm đi.
 </teacher_script>
 
 <task>
-**Đề:** Fill in the blanks with the correct words.
-**Dịch đề:** Điền từ đúng vào chỗ trống.
+**Đề:** Complete the following sentences with the words from the box.
+**Dịch đề:** Hoàn thành các câu sau với các từ trong hộp.
 
-**Word box:** *surface / craters / telescope / outer / Jupiter*
+**Word box:** *Venus / telescope / craters / rocket / galaxy*
 </task>
 
 <questions type="fill_blanks">
-**1.** Mars has a rocky ___________ covered with red dust.
-*Sao Hỏa có ___________ đầy đá phủ bụi đỏ.*
+**1.** There are many _______ on the surface of the moon.
+*Có nhiều _______ trên bề mặt mặt trăng.*
 
-**2.** The Moon is covered with ___________ caused by meteorites.
-*Mặt Trăng được bao phủ bởi ___________ do thiên thạch tạo ra.*
+**2.** We use a _______, which is in the shape of a big tube, for travelling or carrying things into space.
+*Chúng ta sử dụng một _______, có hình dạng của một cái ống lớn, để du hành hay mang đồ vào vũ trụ.*
 
-**3.** Scientists use a ___________ to study planets far away.
-*Các nhà khoa học dùng ___________ để nghiên cứu các hành tinh ở xa.*
+**3.** We need to use a _______ to clearly see the surface of the moon.
+*Chúng ta cần dùng _______ để có thể nhìn rõ bề mặt mặt trăng.*
 
-**4.** Neptune is one of the ___________ planets in our solar system.
-*Sao Hải Vương là một trong những hành tinh ___________ của hệ Mặt Trời.*
+**4.** The planet which is the second closest to the sun is _______.
+*Hành tinh thứ hai gần Mặt Trời nhất là _______.*
 
-**5.** The largest planet in our solar system is ___________.
-*Hành tinh lớn nhất trong hệ Mặt Trời của chúng ta là ___________.*
+**5.** The Milky Way is the _______ that includes our solar system.
+*Dải Ngân Hà là _______ bao gồm cả hệ Mặt Trời của chúng ta.*
 </questions>
 
 <teacher_script pause="0">
@@ -164,19 +166,19 @@ Bài 3, điền từ vào chỗ trống nha. Dùng từ vựng vừa học: <eng
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. surface | 2. craters | 3. telescope | 4. outer | 5. Jupiter
+**Đáp án:** 1. craters | 2. rocket | 3. telescope | 4. Venus | 5. galaxy
 </answer>
 
 <explanation>
-**1. surface** — "rocky surface" = bề mặt đầy đá. Mars có bề mặt khô cằn, đầy đá và bụi đỏ — không có cây cỏ hay nước lỏng trên mặt đất đâu nha.
+**1. craters** — "There are many *craters* on the surface of the moon." Mặt Trăng có rất nhiều hố va chạm do thiên thạch đập vào hàng tỷ năm qua. Nhìn Mặt Trăng qua kính thiên văn thấy rõ lắm á!
 
-**2. craters** — Mặt Trăng có rất nhiều "craters" = miệng hố do thiên thạch đập vào hàng tỷ năm qua. Nhìn Mặt Trăng qua kính thiên văn thấy rõ lắm á!
+**2. rocket** — "We use a *rocket*... for travelling or carrying things into space." Tên lửa có hình ống dài — dùng để đưa đồ và người vào vũ trụ. Đúng mô tả "in the shape of a big tube" nha.
 
-**3. telescope** — Kính thiên văn = telescope. Không có telescope thì không thể nhìn thấy các hành tinh xa được đâu nha — mắt thường không đủ.
+**3. telescope** — "We need to use a *telescope* to clearly see the surface of the moon." Kính thiên văn giúp mình nhìn rõ bề mặt mặt trăng — mắt thường không đủ đâu nha.
 
-**4. outer** — "outer planets" = các hành tinh ở *phía ngoài* hệ Mặt Trời. Neptune, Uranus, Saturn, Jupiter đều là outer planets — đối lập với inner planets gần Mặt Trời hơn.
+**4. Venus** — "The planet which is the second closest to the sun is *Venus*." Sao Kim đứng thứ 2 từ Mặt Trời — nhớ câu "My *Very*..." — Very = Venus nha!
 
-**5. Jupiter** — Sao Mộc là hành tinh lớn nhất. Nhớ luôn nha — Jupiter = số 1 về kích thước!
+**5. galaxy** — "The Milky Way is the *galaxy* that includes our solar system." Dải Ngân Hà là thiên hà mà hệ Mặt Trời của chúng ta nằm trong đó.
 </explanation>
 
 <!-- chunk: pronunciation -->
@@ -186,7 +188,7 @@ Xong bài tập rồi, giờ mình học phần phát âm nha — <eng>Intonatio
 
 <!-- chunk: pronunciation-rule -->
 <teacher_script pause="0">
-Quy tắc ngữ điệu khi liệt kê nha. Khi các em nói một danh sách nhiều thứ, giọng phải *lên* ở mỗi mục — trừ mục *cuối cùng* thì giọng *xuống*. Nghe cô đọc ví dụ này: "Mercury↗, Venus↗, Earth↗, Mars↗, and Jupiter↘." Thấy không — bốn cái đầu lên, cái cuối xuống. Đó là dấu hiệu cho người nghe biết danh sách đã hết nha.
+Quy tắc ngữ điệu khi liệt kê nha. Khi các em nói một danh sách nhiều thứ, giọng phải *lên* ở mỗi mục — trừ mục *cuối cùng* thì giọng *xuống*. Ví dụ: "eggs↗, milk↗, cheese↗, and bread↘." Thấy không — ba cái đầu lên, cái cuối xuống. Đó là dấu hiệu cho người nghe biết danh sách đã hết nha.
 </teacher_script>
 
 <grammar>
@@ -197,41 +199,78 @@ Quy tắc ngữ điệu khi liệt kê nha. Khi các em nói một danh sách nh
 - Giọng **XUỐNG** (↘) ở mục **CUỐI CÙNG**
 - Đây là tín hiệu cho người nghe: "Danh sách đã kết thúc!"
 
-**Ví dụ 1:**
-"Mercury↗, Venus↗, Earth↗, Mars↗, and Jupiter↘."
-
-**Ví dụ 2:**
-"The planet has water↗, oxygen↗, and soil↘."
-
-**Ví dụ 3:**
-"Scientists study the surface↗, atmosphere↗, and temperature↘ of Mars."
+**Ví dụ:**
+"I'd like some eggs↗, some milk↗, some cheese↗, and some bread↘."
 </grammar>
 
-<teacher_script pause="0">
-Nhớ chưa? Lên lên lên... rồi xuống ở từ cuối. Giờ mình luyện thực hành nha.
-</teacher_script>
-
 <!-- chunk: exercise-4 -->
+### Bài 4 - Intonation practice
+
 <teacher_script pause="60">
-Bài 4 — luyện đọc danh sách với ngữ điệu đúng nha. Đọc từng câu, chú ý mũi tên lên xuống. Đọc lớn lên nha, đừng đọc thầm — luyện phát âm mà. 1 phút đi.
+Bài 4 — <eng>Listen and repeat the sentences. Pay attention to the tones of the underlined words in each sentence.</eng> Nghe và lặp lại các câu. Chú ý ngữ điệu của những từ được gạch chân. Đọc lớn lên nha, đừng đọc thầm. 1 phút đi.
 </teacher_script>
 
 <task>
-**Đề:** Read the following sentences aloud with correct list intonation. Remember: rise on each item, fall on the last.
-**Dịch đề:** Đọc to các câu sau với ngữ điệu liệt kê đúng. Nhớ: lên ở mỗi mục, xuống ở mục cuối.
+**Đề:** Listen and repeat the sentences. Pay attention to the tones of the underlined words in each sentence.
+**Dịch đề:** Nghe và lặp lại các câu. Chú ý đến ngữ điệu của những từ được gạch chân trong mỗi câu.
 </task>
 
 <questions type="speaking">
-**a.** "The rocket carried food↗, water↗, medicine↗, and tools↘."
-*Tên lửa mang theo thức ăn, nước uống, thuốc, và dụng cụ.*
+**1.** I'd like some eggs↗, some milk↗, some cheese↗, and some bread↘, please.
+*Tôi muốn một ít trứng, một ít sữa, vài lát phô mai và vài lát bánh mì.*
 
-**b.** "Mars has craters↗, volcanoes↗, and dry riverbeds↘."
-*Sao Hỏa có miệng núi lửa, núi lửa, và lòng sông khô.*
+**2.** My father can speak four languages: English↗, French↗, Russian↗, and Spanish↘.
+*Bố tôi có thể nói được bốn ngôn ngữ: Tiếng Anh, Tiếng Pháp, Tiếng Nga và Tiếng Tây Ban Nha.*
 
-**c.** "Scientists study Mercury↗, Venus↗, Earth↗, and Mars↘."
-*Các nhà khoa học nghiên cứu Sao Thủy, Sao Kim, Trái Đất, và Sao Hỏa.*
+**3.** My favourite sports are football↗, tennis↗, basketball↗, and volleyball↘.
+*Các môn thể thao ưa thích của tôi là bóng đá, quần vợt, bóng rổ và bóng chuyền.*
+
+**4.** My kitten is cute↗, smart↗, playful↗, and noisy↘.
+*Chú mèo con của tôi dễ thương, thông minh, hay đùa và ồn ào.*
+
+**5.** The outer planets, which are made up mostly of gas, include Jupiter↗, Saturn↗, Uranus↗, and Neptune↘.
+*Những hành tinh ở ngoài rìa, được tạo nên hầu hết bằng khí, bao gồm Sao Mộc, Sao Thổ, Sao Thiên Vương và Sao Hải Vương.*
 </questions>
 
 <teacher_script pause="0">
-Tốt lắm! Nhớ quy tắc lên-lên-xuống này nha — khi thi nói, dùng ngữ điệu đúng là ghi điểm cao hơn đó. Hôm nay mình học xong <eng>A Closer Look 1</eng> rồi — 8 hành tinh và ngữ điệu liệt kê. Ôn lại tên hành tinh ở nhà nha, nhất là thứ tự từ Mặt Trời ra ngoài. Gặp lại ở bài <eng>A Closer Look 2</eng> nha!
+Nhớ quy tắc nha: giọng lên ở mỗi mục trừ mục cuối thì xuống. Giờ mình làm bài 5 — luyện thêm với hội thoại nha.
+</teacher_script>
+
+<!-- chunk: exercise-5 -->
+### Bài 5 - Intonation in conversations
+
+<teacher_script pause="60">
+Bài 5 — <eng>Listen to the conversations. Do you think the voice goes up or down on the underlined words in each second sentence?</eng> Nghe hội thoại rồi xác định giọng lên hay xuống ở từ gạch chân. 1 phút nha.
+</teacher_script>
+
+<task>
+**Đề:** Listen to the conversations. Do you think the voice goes up or down on the underlined words in each second sentence? Draw a suitable arrow on each underlined word.
+**Dịch đề:** Lắng nghe các cuộc hội thoại. Bạn có nghĩ rằng giọng nói đi lên hoặc đi xuống trên các từ được gạch chân trong mỗi câu thứ hai? Vẽ một mũi tên thích hợp trên mỗi từ được gạch dưới.
+</task>
+
+<questions type="speaking">
+**1.** A: Good evening! What can I get you, sir?
+B: I'd like some pork↗, some chicken↗, some tofu↗, and some vegetables↘.
+*Tôi muốn một ít thịt heo, một ít thịt gà, vài miếng đậu hũ và một ít rau.*
+
+**2.** A: What did you buy at the clothing store yesterday?
+B: I bought a T-shirt↗, a jumper↗, a tie↗, and a cap↘.
+*Tôi mua một cái áo thun, một cái áo khoác, một cái cà vạt và một cái mũ lưỡi trai.*
+
+**3.** A: What music do you like?
+B: I like pop↗, blues↗, country↗, and jazz↘.
+*Mình thích nhạc pop, nhạc blues, nhạc đồng quê và nhạc jazz.*
+
+**4.** A: What do you think we should bring with us to Mars?
+B: I think we should bring food↗, water↗, clothes↗, and a tent↘.
+*Mình nghĩ chúng ta nên mang đồ ăn, nước uống, quần áo và lều.*
+</questions>
+
+<teacher_script pause="0">
+Thấy quy luật chưa? Mọi từ trong danh sách giọng đều *lên* — trừ từ *cuối cùng* thì giọng *xuống*. Đây là cách người bản ngữ báo hiệu "hết danh sách rồi nha!" Nếu từ cuối mà lên thì người nghe sẽ nghĩ "chắc còn nữa" — nên phải xuống cho rõ ràng.
+</teacher_script>
+
+<!-- chunk: end -->
+<teacher_script pause="0">
+Xong bài <eng>A Closer Look 1</eng> rồi nha! Hôm nay mình học: 8 hành tinh theo thứ tự, 5 từ vựng về vũ trụ (<eng>telescope, UFO, rocket, galaxy, crater</eng>), và ngữ điệu liệt kê — lên lên lên rồi xuống ở từ cuối. Ôn lại tên hành tinh và từ vựng ở nhà nha. Gặp lại ở bài <eng>A Closer Look 2</eng> nha!
 </teacher_script>
