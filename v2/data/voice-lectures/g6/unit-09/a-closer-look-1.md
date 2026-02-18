@@ -161,15 +161,50 @@ Bài 3. Nhìn hình và viết từ. Đây là những địa danh và vật ở
 Đáp án nè. <eng>Palace</eng> là cung điện - như Cung điện Buckingham ở London. <eng>Floating market</eng> là chợ nổi - đặc sản miền Tây Việt Nam mình luôn đó. <eng>Street food</eng> là đồ ăn đường phố - Hà Nội nổi tiếng về cái này. <eng>Stall</eng> là quầy hàng nhỏ bán đồ ăn hay hàng hóa.
 </teacher_script>
 
-<!-- chunk: pronunciation -->
+<!-- chunk: pronunciation_theory -->
 <teacher_script pause="0">
 Chuyển qua phần <eng>Pronunciation</eng> - Phát âm nha. Mình sẽ luyện phát âm hai âm /əʊ/ và /aʊ/. Hai âm này giống nhau ở chỗ đều có /ʊ/ ở cuối, nhưng khác nhau ở âm đầu.
 </teacher_script>
 
-**PRONUNCIATION**
+<pronunciation_theory>
+## Âm /əʊ/ và /aʊ/ - Cách phát âm
+
+### Vị trí miệng và lưỡi
+
+| Âm | Miệng | Lưỡi | Như âm |
+|----|-------|------|--------|
+| **/əʊ/** | Bắt đầu hơi tròn, khép dần | Ở giữa, nâng lên cuối | Như "ô-u" trong tiếng Việt |
+| **/aʊ/** | Bắt đầu mở rộng, khép dần | Thấp, nâng lên cuối | Như "ao" trong tiếng Việt |
+
+### Bước thực hiện:
+
+**Âm /əʊ/:**
+1. Miệng hơi tròn, phát âm /ə/ (âm "ơ" nhẹ)
+2. Trượt sang /ʊ/ (âm "u" ngắn), miệng khép lại
+
+**Âm /aʊ/:**
+1. Miệng mở rộng, phát âm /a/ (âm "a" rõ)
+2. Trượt sang /ʊ/ (âm "u" ngắn), miệng khép lại
+
+### Mẹo phân biệt:
+| Âm | Miệng lúc đầu | Ví dụ | Mẹo |
+|----|---------------|-------|-----|
+| /əʊ/ | Hẹp (ô-u) | **go**, **home**, **old**, **no** | Miệng tròn nhỏ |
+| /aʊ/ | Rộng (ao) | **how**, **now**, **town**, **crowded** | Miệng mở lớn |
+
+### Lỗi thường gặp:
+- ❌ Đọc /əʊ/ thành /ɔː/ dài (go → gaw)
+- ❌ Đọc /aʊ/ thành /ao/ tiếng Việt quá rõ
+- ✅ Nhớ: Cả hai âm đều KẾT THÚC bằng /ʊ/ nhẹ!
+</pronunciation_theory>
 
 <teacher_script pause="0">
-Nghe bài nghe và để ý cách phát âm nha.
+Dễ nhớ nè: /əʊ/ miệng bắt đầu HẸP - như nói "ô" rồi "u". Còn /aʊ/ miệng bắt đầu RỘNG - như nói "a" rồi "u". Em đặt tay lên má, nói <eng>go</eng> rồi nói <eng>how</eng> - thấy miệng mở khác nhau không?
+</teacher_script>
+
+<!-- chunk: pronunciation_practice -->
+<teacher_script pause="0">
+Nghe bài nghe và để ý cách phát âm nha. Đọc theo luôn.
 </teacher_script>
 
 <audio src="https://img.loigiaihay.com/picture/2021/1104/gs-u9-a-closer-look-1-ex4.mp3">

@@ -104,6 +104,11 @@ Bài 2. Đọc bưu thiếp của Mai gửi ông bà từ Stockholm và trả l�
 Đọc bưu thiếp và trả lời 4 câu hỏi trắc nghiệm. Chú ý các chi tiết: khách sạn có gì, họ đi đâu bằng xe đạp, "fika" là gì. 90 giây nha.
 </teacher_script>
 
+<task>
+**Đề:** Read the postcard and choose the correct answers.
+**Dịch đề:** Đọc bưu thiếp và chọn đáp án đúng.
+</task>
+
 <questions type="multiple_choice">
 **1.** This postcard is about _______ in Stockholm.
 - A. the weather *(thời tiết)*
