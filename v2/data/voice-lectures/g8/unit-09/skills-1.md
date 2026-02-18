@@ -3,134 +3,169 @@
 
 <!-- chunk: vocabulary -->
 <teacher_script pause="0">
-Ok bài <eng>Skills 1</eng> nha — hôm nay học đọc hiểu và nói. Bài đọc về vụ núi lửa phun trào ở Nhật Bản — hay lắm đó! Mở sách ra, ghi tựa bài, rồi bấm "Bắt đầu" để học từ vựng trước. Máy đọc, các em đọc theo, làm trắc nghiệm rồi ghi vô tập nha.
+Ok bài <eng>Skills 1</eng> nha — hôm nay học đọc hiểu và nói. Bài đọc về hai sự kiện thiên tai: núi lửa phun trào ở Tonga và rung lắc ở Hà Nội. Mở sách ra, ghi tựa bài, rồi bấm "Bắt đầu" để học từ vựng trước. Máy đọc, các em đọc theo, làm trắc nghiệm rồi ghi vô tập nha.
 </teacher_script>
 
 <vocabulary>
-1. **erupt** : (v) phun trào /ɪˈrʌpt/
-2. **suddenly** : (adv) đột ngột /ˈsʌdənli/
+1. **violently** : (adv) dữ dội, mãnh liệt /ˈvaɪələntli/
+2. **erupt** : (v) phun trào /ɪˈrʌpt/
 3. **island country** : (n) đảo quốc /ˈaɪlənd ˈkʌntri/
 4. **a cloud of ash and gas** : (phrase) đám mây tro và khí /ə klaʊd əv æʃ ænd ɡæs/
 5. **tsunami** : (n) sóng thần /tsuːˈnɑːmi/
 6. **properties** : (n) tài sản, bất động sản /ˈprɒpərtiz/
-7. **besides** : (prep/adv) ngoài ra /bɪˈsaɪdz/
+7. **missing** : (adj) mất tích /ˈmɪsɪŋ/
 8. **victim** : (n) nạn nhân /ˈvɪktɪm/
 9. **resident** : (n) cư dân /ˈrezɪdənt/
 10. **frightened** : (adj) sợ hãi /ˈfraɪtənd/
-11. **tremble** : (v) rung chuyển /ˈtrembl/
-12. **according to** : (phrase) theo như /əˈkɔːrdɪŋ tuː/
-13. **cause** : (v) gây ra /kɔːz/
-14. **fortunately** : (adv) may mắn thay /ˈfɔːrtʃənətli/
-15. **evacuate** : (v) sơ tán /ɪˈvækjueɪt/
+11. **trembling** : (adj) rung lắc nhẹ /ˈtremblɪŋ/
+12. **fear** : (n) nỗi sợ hãi /fɪər/
+13. **according to** : (phrase) theo như /əˈkɔːrdɪŋ tuː/
+14. **slight** : (adj) nhẹ /slaɪt/
+15. **shaking** : (n) sự rung lắc /ˈʃeɪkɪŋ/
 </vocabulary>
 
 <teacher_script pause="0">
-Từ vựng xong rồi nha. Chú ý mấy từ mới quan trọng: <eng>evacuate</eng> = sơ tán (di dời người dân ra khỏi vùng nguy hiểm), <eng>resident</eng> = cư dân (người sống ở đó), <eng>according to</eng> = theo như (trích dẫn nguồn thông tin). Nhớ mấy từ này vì hay gặp trong bài đọc về thiên tai nha.
+Từ vựng xong rồi nha. Chú ý mấy từ mới quan trọng: <eng>violently</eng> = dữ dội (very strongly), <eng>tsunami</eng> = sóng thần (sóng biển khổng lồ), <eng>trembling</eng> = rung lắc nhẹ (slightly shaking), <eng>fear</eng> = nỗi sợ hãi. Nhớ mấy từ này vì cần dùng trong bài đọc nha.
 </teacher_script>
 
-<!-- chunk: reading -->
-<teacher_script pause="0">
-Bây giờ mình đọc bài về vụ núi lửa phun trào ở đảo Kuchinoerabu, Nhật Bản nha. Đọc theo máy, sau đó mình làm bài tập đọc hiểu.
-</teacher_script>
-
-<reading>
-## The Volcanic Eruption on Kuchinoerabu Island
-
-Japan is an island country that often faces natural disasters. On May 29, 2015, a volcano on Kuchinoerabu Island suddenly erupted. A cloud of ash and gas rose about 9,000 metres into the air. Many buildings on the island were badly damaged. Some properties caught fire.
-
-Fortunately, residents had been warned about the possible eruption before it happened, so they could evacuate safely. According to reports, about 137 people were evacuated from the island.
-
-Japan has many active volcanoes — in fact, it has about 110 active volcanoes, more than almost any other country in the world. Besides volcanoes, Japan is also at serious risk of earthquakes and tsunamis because of its location in the Pacific Ocean. The ground often trembles, and residents are always frightened when they feel the earth shake.
-
-The Japanese government has developed many advanced systems to warn people about coming natural disasters. These early warning systems have helped save many lives. Local authorities work closely with rescue workers to protect victims and help communities recover after disasters.
-</reading>
-
-<translation>
-## Vụ Núi Lửa Phun Trào ở Đảo Kuchinoerabu
-
-Nhật Bản là một đảo quốc thường xuyên đối mặt với thiên tai. Ngày 29 tháng 5 năm 2015, một ngọn núi lửa trên đảo Kuchinoerabu đột ngột phun trào. Một đám mây tro và khí bay lên khoảng 9.000 mét trên không trung. Nhiều tòa nhà trên đảo bị hư hại nặng nề. Một số tài sản bị bốc cháy.
-
-May mắn thay, cư dân đã được cảnh báo về khả năng phun trào trước khi nó xảy ra, vì vậy họ có thể sơ tán an toàn. Theo các báo cáo, khoảng 137 người đã được sơ tán khỏi đảo.
-
-Nhật Bản có nhiều núi lửa đang hoạt động — thực tế, có khoảng 110 núi lửa đang hoạt động, nhiều hơn hầu hết bất kỳ quốc gia nào khác trên thế giới. Ngoài núi lửa, Nhật Bản cũng có nguy cơ cao về động đất và sóng thần do vị trí địa lý của nước này ở Thái Bình Dương. Mặt đất thường rung chuyển, và cư dân luôn sợ hãi khi cảm thấy đất rung.
-
-Chính phủ Nhật Bản đã phát triển nhiều hệ thống tiên tiến để cảnh báo người dân về các thiên tai sắp xảy ra. Các hệ thống cảnh báo sớm này đã giúp cứu nhiều sinh mạng. Chính quyền địa phương phối hợp chặt chẽ với các nhân viên cứu hộ để bảo vệ nạn nhân và giúp cộng đồng phục hồi sau thảm họa.
-</translation>
-
-<teacher_script pause="180">
-Đọc và dịch bài vô vở nha. Ghi cả tiếng Anh lẫn nghĩa tiếng Việt. Thầy/cô cho 3 phút á.
-</teacher_script>
-
-<!-- chunk: exercise-2 -->
+<!-- chunk: exercise-1 -->
 <teacher_script pause="60">
-Bài 2, đọc và xác định câu đúng (True) hay sai (False) nha. Dựa vào thông tin trong bài đọc. Làm 1 phút đi.
+Bài 1. <eng>Match the headlines (1–2) with the natural disasters (A–B).</eng> Ghép các tiêu đề báo với loại thiên tai đúng nha. Có 2 tiêu đề và 2 loại thiên tai. Làm 1 phút đi.
 </teacher_script>
 
 <task>
-**Đề:** Read the passage and decide if the statements are True (T) or False (F).
-**Dịch đề:** Đọc đoạn văn và xác định các câu sau là Đúng (T) hay Sai (F).
+**Đề:** Match the headlines (1–2) with the natural disasters (A–B).
+**Dịch đề:** Ghép các tiêu đề (1–2) với các thảm họa thiên nhiên (A–B).
 </task>
 
-<questions type="true_false">
-**1.** The volcanic eruption on Kuchinoerabu Island happened on May 29, 2015.
-*Vụ núi lửa phun trào ở đảo Kuchinoerabu xảy ra vào ngày 29 tháng 5 năm 2015.*
+<questions type="matching">
+**Headlines:**
+1. 30 seconds of a slight shaking in Hanoi
+2. A thick layer of ash covers Tonga
 
-**2.** The cloud of ash and gas rose about 9,000 metres into the air.
-*Đám mây tro và khí bay lên khoảng 9.000 mét trên không trung.*
-
-**3.** All the buildings on the island were completely destroyed.
-*Tất cả các tòa nhà trên đảo đều bị phá hủy hoàn toàn.*
-
-**4.** About 137 people were evacuated from the island.
-*Khoảng 137 người được sơ tán khỏi đảo.*
-
-**5.** Japan has about 20 active volcanoes.
-*Nhật Bản có khoảng 20 núi lửa đang hoạt động.*
+**Natural disasters:**
+A. volcanic eruption
+B. earthquake
 </questions>
 
 <teacher_script pause="0">
-Đáp án bài True/False nè.
+Đáp án bài 1 nè.
 </teacher_script>
 
 <answer>
 **Đáp án:**
-1. T | 2. T | 3. F | 4. T | 5. F
+1 – B (30 seconds of a slight shaking in Hanoi → earthquake)
+2 – A (A thick layer of ash covers Tonga → volcanic eruption)
 </answer>
 
 <explanation>
-**Giải thích từng câu:**
-- **Câu 1 — True:** Bài đọc nói rõ: "On May 29, 2015, a volcano on Kuchinoerabu Island suddenly erupted." Đúng hoàn toàn.
-- **Câu 2 — True:** Bài đọc nói: "A cloud of ash and gas rose about 9,000 metres into the air." Đúng.
-- **Câu 3 — False:** Bài đọc chỉ nói "Many buildings were badly damaged" (nhiều tòa nhà bị hư hại nặng), không phải tất cả bị phá hủy hoàn toàn. Sai nha!
-- **Câu 4 — True:** Bài đọc: "According to reports, about 137 people were evacuated from the island." Đúng.
-- **Câu 5 — False:** Bài đọc nói Nhật Bản có khoảng **110** núi lửa đang hoạt động, không phải 20. Sai nha!
+**Giải thích:**
+- **1 – B (earthquake):** "30 seconds of a slight shaking in Hanoi" — 30 giây rung lắc nhẹ ở Hà Nội → dấu hiệu của <eng>earthquake</eng> (động đất).
+- **2 – A (volcanic eruption):** "A thick layer of ash covers Tonga" — lớp tro dày che phủ Tonga → dấu hiệu của <eng>volcanic eruption</eng> (núi lửa phun trào).
+</explanation>
+
+<!-- chunk: reading -->
+<teacher_script pause="0">
+Bây giờ mình đọc 2 bài báo nha. Bài 1 về núi lửa phun trào ở Tonga, bài 2 về rung lắc ở Hà Nội. Đọc theo máy, chú ý các từ in đậm.
+</teacher_script>
+
+<reading>
+## Article 1: Volcanic Eruption in Tonga
+
+A volcano in the South Pacific erupted **violently** last Saturday. It hit Tonga, an island country in the area. The eruption sent a cloud of ash and gas into the air. People could see this cloud from 20 kilometres away. The eruption also caused a **tsunami** which flooded properties in Tonga's capital. Besides, it destroyed hundreds of homes on some small islands. More than twenty people on these islands are still **missing**. New Zealand sent two big ships to Tonga to help the victims yesterday.
+
+## Article 2: Shaking in Hanoi
+
+Residents in tall buildings in Ha Noi were **frightened** when they felt a slight shaking for about 30 seconds last night. "I was watching TV when my building started **trembling**. Books, lights, and other things also moved." Ms Nguyen Ha, a resident in the Sunshine Building, shared. Many people living in the building ran out of their homes in **fear**. According to scientists, a strong earthquake in China caused this shaking. Luckily, there was no damage.
+</reading>
+
+<translation>
+## Bài 1: Núi lửa phun trào ở Tonga
+
+Một ngọn núi lửa ở phía nam Thái Bình Dương đã phun trào dữ dội vào thứ bảy tuần trước. Nó ập vào Tonga, một đảo quốc trong khu vực. Vụ phun trào đã gửi một đám mây tro và khí vào không khí. Mọi người có thể thấy đám mây này từ cách 20 ki-lô-mét. Vụ phun trào cũng gây ra sóng thần làm ngập lụt tài sản ở thủ đô Tonga. Ngoài ra, nó phá hủy hàng trăm ngôi nhà trên một số đảo nhỏ. Hơn hai mươi người trên những đảo này vẫn đang mất tích. Niu Di-lân đã gửi hai tàu lớn đến Tonga để giúp đỡ các nạn nhân.
+
+## Bài 2: Rung lắc ở Hà Nội
+
+Cư dân trong những tòa nhà cao tầng ở Hà Nội đã hoảng sợ khi họ cảm nhận được sự rung lắc nhẹ trong khoảng 30 giây tối qua. "Tôi đang xem TV khi tòa nhà của tôi bắt đầu rung lắc. Sách, đèn và những thứ khác cũng rung nữa." Chị Nguyễn Hà, một cư dân tại tòa nhà Sunshine, chia sẻ. Nhiều người sống trong tòa nhà đã chạy ra khỏi nhà trong hoảng sợ. Theo các nhà khoa học, một trận động đất mạnh ở Trung Quốc đã gây ra sự rung lắc này. May mắn là không có thiệt hại gì.
+</translation>
+
+<teacher_script pause="180">
+Đọc và dịch 2 bài báo vô vở nha. Ghi cả tiếng Anh lẫn nghĩa tiếng Việt. Thầy/cô cho 3 phút á.
+</teacher_script>
+
+<!-- chunk: exercise-2 -->
+<teacher_script pause="60">
+Bài 2. <eng>Read the two news articles. Match the highlighted words with their meanings.</eng> Đọc 2 bài báo, ghép các từ in đậm với nghĩa của chúng nha. 5 từ cần ghép. Làm 1 phút đi.
+</teacher_script>
+
+<task>
+**Đề:** Read the two news articles. Match the highlighted words with their meanings.
+**Dịch đề:** Đọc hai bài báo. Nối các từ được đánh dấu với ý nghĩa của chúng.
+</task>
+
+<questions type="matching">
+**Words:**
+1. violently
+2. tsunami
+3. missing
+4. trembling
+5. fear
+
+**Meanings:**
+a. not yet found
+b. slightly shaking
+c. the bad feeling you have when you are frightened
+d. very strongly
+e. very large waves in the sea
+</questions>
+
+<teacher_script pause="0">
+Đáp án bài 2 nè.
+</teacher_script>
+
+<answer>
+**Đáp án:**
+1 – d (violently → very strongly)
+2 – e (tsunami → very large waves in the sea)
+3 – a (missing → not yet found)
+4 – b (trembling → slightly shaking)
+5 – c (fear → the bad feeling you have when you are frightened)
+</answer>
+
+<explanation>
+**Giải thích từng từ:**
+- **1 – d (violently = very strongly):** "erupted violently" = phun trào dữ dội → very strongly (rất mạnh).
+- **2 – e (tsunami = very large waves in the sea):** Sóng thần là những con sóng khổng lồ trên biển.
+- **3 – a (missing = not yet found):** "More than twenty people are still missing" → chưa tìm thấy.
+- **4 – b (trembling = slightly shaking):** "My building started trembling" → rung lắc nhẹ.
+- **5 – c (fear = the bad feeling when frightened):** "Ran out in fear" → nỗi sợ hãi.
 </explanation>
 
 <!-- chunk: exercise-3 -->
 <teacher_script pause="60">
-Bài 3, trả lời câu hỏi về bài đọc nha. Viết câu đầy đủ. Làm 1 phút đi.
+Bài 3. <eng>Read the articles again and answer the questions.</eng> Đọc lại 2 bài báo và trả lời 5 câu hỏi nha. Viết câu trả lời đầy đủ. Làm 1 phút đi.
 </teacher_script>
 
 <task>
-**Đề:** Answer the questions about the reading passage.
-**Dịch đề:** Trả lời các câu hỏi về đoạn văn bài đọc.
+**Đề:** Read the articles again and answer the questions.
+**Dịch đề:** Đọc lại bài viết và trả lời câu hỏi.
 </task>
 
 <questions type="fill_blanks">
-**1.** What happened on Kuchinoerabu Island on May 29, 2015?
-*Điều gì đã xảy ra ở đảo Kuchinoerabu vào ngày 29 tháng 5 năm 2015?*
+**1.** Where and when did the eruption happen?
+*Vụ phun trào xảy ra ở đâu và khi nào?*
 
-**2.** How high did the cloud of ash and gas rise?
-*Đám mây tro và khí đã bay cao đến đâu?*
+**2.** What did the eruption cause?
+*Vụ phun trào gây ra điều gì?*
 
-**3.** Why were residents able to evacuate safely?
-*Tại sao cư dân có thể sơ tán an toàn?*
+**3.** What were the other effects of the eruption?
+*Những ảnh hưởng khác của vụ phun trào là gì?*
 
-**4.** How many people were evacuated from the island?
-*Bao nhiêu người được sơ tán khỏi đảo?*
+**4.** How long did the buildings shake?
+*Các tòa nhà rung lắc trong bao lâu?*
 
-**5.** How many active volcanoes does Japan have?
-*Nhật Bản có bao nhiêu núi lửa đang hoạt động?*
+**5.** What caused the shaking?
+*Điều gì gây ra sự rung lắc?*
 </questions>
 
 <teacher_script pause="0">
@@ -139,46 +174,46 @@ Bài 3, trả lời câu hỏi về bài đọc nha. Viết câu đầy đủ. L
 
 <answer>
 **Đáp án:**
-1. A volcano suddenly erupted on Kuchinoerabu Island.
-2. The cloud rose about 9,000 metres into the air.
-3. Because residents had been warned about the possible eruption before it happened.
-4. About 137 people were evacuated.
-5. Japan has about 110 active volcanoes.
+1. A volcano in the South Pacific erupted violently last Saturday.
+2. The eruption also caused a tsunami which flooded properties in Tonga's capital.
+3. It destroyed hundreds of homes on some small islands. More than twenty people on these islands are still missing.
+4. The buildings shook for about 30 seconds.
+5. A strong earthquake in China caused this shaking.
 </answer>
 
 <explanation>
 **Giải thích từng câu:**
-- **Câu 1:** Tìm câu "On May 29, 2015, a volcano on Kuchinoerabu Island suddenly erupted." → trả lời: A volcano erupted.
-- **Câu 2:** "A cloud of ash and gas rose about 9,000 metres into the air." → 9,000 metres.
-- **Câu 3:** "residents had been warned about the possible eruption before it happened" → vì được cảnh báo trước.
-- **Câu 4:** "about 137 people were evacuated from the island" → khoảng 137 người.
-- **Câu 5:** "Japan has about 110 active volcanoes" → khoảng 110 núi lửa.
+- **Câu 1:** Tìm ở bài 1: "A volcano in the South Pacific erupted violently last Saturday." → ở phía nam Thái Bình Dương, thứ bảy tuần trước.
+- **Câu 2:** "The eruption also caused a tsunami which flooded properties in Tonga's capital." → gây ra sóng thần, làm ngập tài sản ở thủ đô Tonga.
+- **Câu 3:** "It destroyed hundreds of homes on some small islands. More than twenty people are still missing." → phá hủy hàng trăm nhà, hơn 20 người mất tích.
+- **Câu 4:** Tìm ở bài 2: "they felt a slight shaking for about 30 seconds" → khoảng 30 giây.
+- **Câu 5:** "According to scientists, a strong earthquake in China caused this shaking." → động đất mạnh ở Trung Quốc.
 </explanation>
 
 <!-- chunk: exercise-4 -->
 <teacher_script pause="60">
-Bài 4, ghép câu hỏi với câu trả lời về trận lũ lụt ở Phú Yên nha. Đọc kỹ từng câu hỏi và câu trả lời, ghép cho đúng. Làm 1 phút đi.
+Bài 4. <eng>Work in pairs. Match the questions with the answers.</eng> Ghép câu hỏi với câu trả lời về trận lũ lụt ở Phú Yên nha. 5 cặp câu hỏi — câu trả lời. Làm 1 phút đi.
 </teacher_script>
 
 <task>
-**Đề:** Match the questions (1–5) with the correct answers (a–e) about a flood in Phu Yen province.
-**Dịch đề:** Ghép câu hỏi (1–5) với câu trả lời đúng (a–e) về trận lũ lụt ở tỉnh Phú Yên.
+**Đề:** Work in pairs. Match the questions with the answers.
+**Dịch đề:** Làm việc theo cặp. Ghép câu hỏi với câu trả lời.
 </task>
 
 <questions type="matching">
 **Questions:**
-1. What natural disaster happened in Phu Yen?
-2. When did it happen?
-3. What was the damage?
-4. Were there any victims?
-5. How did people help?
+1. What kind of natural disaster was it?
+2. When and where did it happen?
+3. What caused it?
+4. What were its effects?
+5. How did people help the victims?
 
 **Answers:**
-a. A severe flood hit Phu Yen province.
-b. In October 2020, during the rainy season.
-c. Many houses were submerged and crops were destroyed.
-d. Sadly, several people were reported missing.
-e. Volunteers brought food, clean water, and medicine to the affected areas.
+a. Five days of heavy rain caused it.
+b. Many houses were flooded, two villagers died, and five others were missing.
+c. It was a serious flood.
+d. Rescue workers looked for the missing people, and volunteers gave food and drinks to the victims.
+e. It happened in a village in Phu Yen last week.
 </questions>
 
 <teacher_script pause="0">
@@ -187,56 +222,46 @@ e. Volunteers brought food, clean water, and medicine to the affected areas.
 
 <answer>
 **Đáp án:**
-1 – a | 2 – b | 3 – c | 4 – d | 5 – e
+1 – c (What kind of natural disaster? → It was a serious flood.)
+2 – e (When and where? → In a village in Phu Yen last week.)
+3 – a (What caused it? → Five days of heavy rain.)
+4 – b (What were its effects? → Houses flooded, two died, five missing.)
+5 – d (How did people help? → Rescue workers looked for missing people, volunteers gave food and drinks.)
 </answer>
 
 <explanation>
 **Giải thích:**
-- **1 – a:** Câu hỏi "What natural disaster?" → trả lời loại thiên tai → (a) "A severe flood hit Phu Yen."
-- **2 – b:** Câu hỏi "When?" → trả lời thời gian → (b) "In October 2020, during the rainy season."
-- **3 – c:** Câu hỏi "What was the damage?" → trả lời thiệt hại → (c) "Houses submerged, crops destroyed."
-- **4 – d:** Câu hỏi "Any victims?" → trả lời về nạn nhân → (d) "Several people were reported missing."
-- **5 – e:** Câu hỏi "How did people help?" → trả lời hoạt động hỗ trợ → (e) "Volunteers brought food, water, medicine."
+- **1 – c:** Câu hỏi "What kind of natural disaster?" → trả lời loại thiên tai → "It was a serious flood." (Đó là một trận lũ nghiêm trọng.)
+- **2 – e:** Câu hỏi "When and where?" → trả lời thời gian và địa điểm → "In a village in Phu Yen last week." (Ở một ngôi làng ở Phú Yên tuần trước.)
+- **3 – a:** Câu hỏi "What caused it?" → trả lời nguyên nhân → "Five days of heavy rain." (Năm ngày mưa to.)
+- **4 – b:** Câu hỏi "What were its effects?" → trả lời hậu quả → "Many houses flooded, two villagers died, five others missing."
+- **5 – d:** Câu hỏi "How did people help?" → trả lời cách giúp đỡ → "Rescue workers looked for missing people, volunteers gave food and drinks."
 </explanation>
 
 <!-- chunk: speaking -->
 <teacher_script pause="0">
-Bây giờ mình học nói nha — <eng>Speaking</eng>. Mình sẽ mô tả một trận lũ lụt theo 3 giai đoạn: Trước (<eng>Before</eng>), Trong lúc (<eng>During</eng>), và Sau (<eng>After</eng>). Nghe mẫu trước, sau đó tự luyện nói nha.
+Bài 5. <eng>Work in groups. Prepare a short piece of news about the natural disaster in 4 or one you know of. Report the news to the class.</eng> Dựa vào thông tin ở bài 4 hoặc một thảm họa thiên nhiên mà em biết, viết một đoạn tin ngắn rồi báo cáo cho cả lớp nha.
 </teacher_script>
 
 <task>
-**Đề:** Describe a flood using the Before / During / After structure. Use the model below.
-**Dịch đề:** Mô tả một trận lũ lụt theo cấu trúc Trước / Trong lúc / Sau. Dùng đoạn mẫu bên dưới.
+**Đề:** Work in groups. Prepare a short piece of news about the natural disaster in 4 or one you know of. Report the news to the class.
+**Dịch đề:** Làm việc nhóm. Soạn một đoạn tin ngắn về thảm họa thiên nhiên ở bài 4 hoặc một tin mà em biết. Báo cáo tin tức cho cả lớp.
 </task>
 
 <reading>
-**Model — Mô tả lũ lụt:**
+**Model — Đoạn tin mẫu:**
 
-**Before the flood:**
-Before the flood, people received warnings from local authorities on the radio and television. They moved their important belongings and furniture to higher places. Families prepared emergency kits with food, clean water, and medicine.
-
-**During the flood:**
-During the flood, the streets and fields were completely filled with water. People had to use boats to travel from place to place. Some families moved to the upper floors of their houses, while others were taken to safety shelters by rescue workers.
-
-**After the flood:**
-After the flood, rescue workers and volunteers helped the victims. They brought food, clean water, and medicine to the affected areas. People worked together to clean up their homes and rebuild their community.
+Five days of heavy rain caused a serious flood in a village in Phu Yen. The flood happened last week. Many houses were flooded, two villagers died, and five others were missing. Local authorities had sent rescue workers to look for missing people. Volunteers from other villages delivered food and drinks to the victims.
 </reading>
 
 <translation>
-**Trước lũ lụt:**
-Trước trận lũ, người dân nhận được cảnh báo từ chính quyền địa phương qua radio và truyền hình. Họ chuyển đồ đạc và đồ dùng quan trọng lên chỗ cao hơn. Các gia đình chuẩn bị bộ dụng cụ khẩn cấp với thức ăn, nước sạch và thuốc men.
-
-**Trong lúc lũ:**
-Trong lúc lũ lụt, đường phố và đồng ruộng bị ngập hoàn toàn. Mọi người phải dùng thuyền để đi lại từ nơi này đến nơi khác. Một số gia đình chuyển lên tầng trên của nhà, trong khi những người khác được nhân viên cứu hộ đưa đến nơi an toàn.
-
-**Sau lũ lụt:**
-Sau lũ lụt, nhân viên cứu hộ và tình nguyện viên đã giúp đỡ các nạn nhân. Họ mang thức ăn, nước sạch và thuốc men đến các khu vực bị ảnh hưởng. Mọi người cùng nhau dọn dẹp nhà cửa và xây dựng lại cộng đồng.
+Năm ngày mưa to đã gây ra một trận lũ nghiêm trọng tại một ngôi làng ở Phú Yên. Trận lũ xảy ra vào tuần trước. Nhiều ngôi nhà bị ngập, hai dân làng thiệt mạng, và năm người khác mất tích. Chính quyền địa phương đã cử đội cứu hộ đi tìm những người mất tích. Tình nguyện viên từ các làng khác đã mang thức ăn và nước uống đến cho nạn nhân.
 </translation>
 
 <teacher_script pause="300" action="record">
-Bây giờ các em tự mô tả một trận thiên tai theo cấu trúc Before/During/After nha. Có thể kể về lũ lụt, bão, hoặc thiên tai khác. Dùng đoạn mẫu làm gợi ý. Thầy/cô cho 5 phút, viết ra rồi đọc lên nha. Bấm nút ghi âm khi sẵn sàng á!
+Bây giờ các em tự viết một đoạn tin ngắn về một thảm họa thiên nhiên nha. Có thể dùng thông tin từ bài 4 hoặc kể về một thiên tai mà em biết. Thầy/cô cho 5 phút, viết xong thì đọc lên nha. Bấm nút ghi âm khi sẵn sàng!
 </teacher_script>
 
 <teacher_script pause="0">
-Xong bài <eng>Skills 1</eng> rồi nha! Hôm nay mình đọc về núi lửa Nhật Bản và luyện nói mô tả thiên tai. Bài sau học nghe và viết — <eng>Skills 2</eng> nha. Chuẩn bị tinh thần nghe radio về chuẩn bị ứng phó bão nha!
+Xong bài <eng>Skills 1</eng> rồi nha! Hôm nay mình đọc về núi lửa ở Tonga, rung lắc ở Hà Nội, và lũ lụt ở Phú Yên. Bài sau học nghe và viết — <eng>Skills 2</eng> nha. Chuẩn bị tinh thần nghe radio về chuẩn bị ứng phó bão nha!
 </teacher_script>

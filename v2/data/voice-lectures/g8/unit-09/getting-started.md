@@ -21,11 +21,12 @@ Ok lớp 8, Unit 9 nha — <eng>Natural Disasters</eng>, thảm họa thiên nhi
 12. **suddenly** : (adv) đột ngột /ˈsʌdənli/
 13. **look out of the window** : (phrase) nhìn ra ngoài cửa sổ /lʊk aʊt əv ðə ˈwɪndoʊ/
 14. **a big funnel of wind** : (phrase) phễu gió lớn /ə bɪɡ ˈfʌnəl əv wɪnd/
-15. **move toward** : (phrase) di chuyển về phía /muːv təˈwɔːrd/
+15. **move towards** : (phrase) di chuyển về phía /muːv təˈwɔːrdz/
 16. **damage** : (v/n) làm hư hại / thiệt hại /ˈdæmɪdʒ/
 17. **pull up trees** : (phrase) nhổ bật cây /pʊl ʌp triːz/
 18. **fortunately** : (adv) may mắn thay /ˈfɔːrtʃənətli/
 19. **hurt** : (v) làm đau, bị thương /hɜːrt/
+20. **second floor** : (n) tầng hai /ˈsekənd flɔːr/
 </vocabulary>
 
 <teacher_script pause="0">
@@ -34,25 +35,23 @@ Ok từ vựng xong rồi nha. Bây giờ mình đọc hội thoại giữa Mi v
 
 <!-- chunk: dialogue -->
 <teacher_script pause="0">
-Đây là hội thoại bài 1 <eng>Getting Started</eng>. Nghe và đọc theo nha. Mi đang trông buồn buồn, Tom hỏi thăm. Mình đọc hội thoại rồi dịch nghĩa từng câu.
+Đây là hội thoại bài 1 <eng>Listen and read</eng>. Nghe và đọc theo nha. Mi đang trông buồn, Tom hỏi thăm rồi hai bạn nói chuyện về thiên tai.
 </teacher_script>
 
 <dialogue>
 | English | Vietnamese |
 |---------|------------|
-| **Tom:** Mi, you look sad. What's the matter? | **Tom:** Mi, bạn trông có vẻ buồn. Có chuyện gì vậy? |
-| **Mi:** My uncle just called. His home town has been affected by a flood. It's the second time this year. | **Mi:** Chú tôi vừa gọi điện. Quê của chú bị ảnh hưởng bởi lũ lụt. Đây là lần thứ hai trong năm nay rồi. |
-| **Tom:** Oh no! Is everyone safe? | **Tom:** Ôi không! Mọi người có an toàn không? |
-| **Mi:** Yes, fortunately. My uncle, his wife and children are safe. They moved all their things to the second floor. | **Mi:** May mắn là có. Chú, vợ và các con đều an toàn. Họ đã chuyển đồ đạc lên tầng hai hết rồi. |
-| **Tom:** That's good to hear. Do you have natural disasters in Viet Nam often? | **Tom:** Nghe vậy mừng quá. Ở Việt Nam có hay xảy ra thiên tai không? |
-| **Mi:** Yes, floods and storms happen every year. Does the US have natural disasters too? | **Mi:** Có, lũ lụt và bão xảy ra mỗi năm. Ở Mỹ cũng có thiên tai không? |
-| **Tom:** Sometimes. We have tornadoes. | **Tom:** Đôi khi có. Ở Mỹ có lốc xoáy. |
-| **Mi:** What is a tornado? | **Mi:** Lốc xoáy là gì vậy? |
-| **Tom:** It's a violent storm that moves in a circle with very strong winds. I remember the tornado last year. | **Tom:** Đó là một cơn bão dữ dội di chuyển theo vòng tròn với gió rất mạnh. Tôi còn nhớ trận lốc xoáy năm ngoái. |
-| **Mi:** What happened? | **Mi:** Chuyện gì xảy ra vậy? |
-| **Tom:** One evening, my family was having dinner. Suddenly, we heard a very loud noise. We looked out of the window and saw a big funnel of wind moving towards us. | **Tom:** Một buổi tối, gia đình tôi đang ăn tối. Đột nhiên, chúng tôi nghe thấy một tiếng động rất lớn. Chúng tôi nhìn ra cửa sổ và thấy một phễu gió lớn đang di chuyển về phía chúng tôi. |
-| **Mi:** That sounds terrifying! Was anyone hurt? | **Mi:** Nghe có vẻ kinh khủng lắm! Có ai bị thương không? |
-| **Tom:** Fortunately, no. But the tornado damaged our roof and pulled up several trees in our garden. | **Tom:** May mắn thay là không. Nhưng lốc xoáy đã làm hư mái nhà và nhổ bật một số cây trong vườn của chúng tôi. |
+| **Tom:** You look pretty sad, Mi. What's the matter? | **Tom:** Trông bạn buồn quá Mi. Có chuyện gì vậy? |
+| **Mi:** My uncle called us this morning. Our hometown has been affected by a flood. It's the second time this year. | **Mi:** Bác tôi gọi cho chúng tôi sáng nay. Quê mình bị ảnh hưởng bởi lũ lụt. Đây là lần thứ hai trong năm nay rồi. |
+| **Tom:** I'm sorry to hear that. How are things there now? | **Tom:** Mình rất tiếc khi nghe điều đó. Mọi thứ bên đó bây giờ thế nào? |
+| **Mi:** My uncle, his wife, and his children are all safe. They moved everything to the second floor of their house last night. Are there natural disasters in your hometown in the US? | **Mi:** Bác tôi, vợ bác và con của bác đều an toàn. Họ chuyển hết đồ lên tầng hai vào tối qua. Ở quê bạn bên Mỹ có thiên tai không? |
+| **Tom:** Yes, we sometimes have tornadoes. | **Tom:** Có chứ, đôi khi có lốc xoáy. |
+| **Mi:** Tornadoes? Sounds strange. What's a tornado? | **Mi:** Lốc xoáy? Nghe lạ quá. Lốc xoáy là gì? |
+| **Tom:** It's a violent storm that moves in a circle with very strong winds. I still remember the tornado we had last year. | **Tom:** Đó là một cơn bão dữ dội di chuyển theo vòng tròn với gió rất mạnh. Mình vẫn nhớ trận lốc xoáy năm ngoái. |
+| **Mi:** What happened? | **Mi:** Chuyện gì đã xảy ra? |
+| **Tom:** One evening my parents and I were having dinner. Suddenly, we heard a very loud noise. When we looked out of the window, we saw a big funnel of wind moving towards us. | **Tom:** Một buổi tối bố mẹ tôi và tôi đang ăn tối. Đột nhiên, chúng tôi nghe thấy tiếng động rất lớn. Khi nhìn ra cửa sổ, chúng tôi thấy một phễu gió lớn đang tiến về phía mình. |
+| **Mi:** Did it cause any damage? | **Mi:** Nó có gây ra thiệt hại gì không? |
+| **Tom:** Yes, a lot. It damaged the roof of our house and pulled up some trees in our yard. Fortunately, no one was hurt. | **Tom:** Có, nhiều lắm. Nó làm hỏng mái nhà và nhổ bật một số cây trong sân. May mắn thay, không ai bị thương. |
 </dialogue>
 
 <teacher_script pause="180">
@@ -61,19 +60,29 @@ Ok dịch hội thoại vô vở nha. Ghi cả tiếng Anh lẫn tiếng Việt.
 
 <!-- chunk: exercise-2 -->
 <teacher_script pause="60">
-Xong rồi mình làm bài 2 nha. Bài này điền bảng — Mi ở nước nào, Tom ở nước nào, mỗi nước có thiên tai gì. Dễ lắm, nhìn lại hội thoại là có ngay á. Làm 1 phút nha.
+Bài 2 nha. <eng>Read the conversation again. Complete each sentence with no more than TWO words from it.</eng> Đọc lại hội thoại, điền mỗi câu với không quá HAI từ từ hội thoại. Làm 1 phút đi.
 </teacher_script>
 
 <task>
-**Đề:** Complete the table with information from the conversation.
-**Dịch đề:** Hoàn thành bảng với thông tin từ hội thoại.
+**Đề:** Read the conversation again. Complete each sentence with no more than TWO words from it.
+**Dịch đề:** Đọc đoạn hội thoại một lần nữa. Hoàn thành mỗi câu với không quá HAI từ từ đoạn hội thoại.
 </task>
 
 <questions type="fill_blanks">
-| Person | Country | Natural Disaster |
-|--------|---------|-----------------|
-| Mi | Viet Nam | ______ (1) |
-| Tom | The USA | ______ (2) |
+**1.** There is a ______ in Mi's home town.
+*Có một ______ ở quê của Mi.*
+
+**2.** Her uncle's family had to move everything to the ______ last night.
+*Gia đình bác cô ấy phải chuyển hết đồ lên ______ vào tối qua.*
+
+**3.** A tornado is an example of a ______.
+*Lốc xoáy là một ví dụ của ______.*
+
+**4.** Tom's family ______ dinner when the tornado came.
+*Gia đình Tom ______ bữa tối khi lốc xoáy đến.*
+
+**5.** The tornado damaged their roof and ______ up some trees in their yard.
+*Lốc xoáy làm hỏng mái nhà và ______ một số cây trong sân.*
 </questions>
 
 <teacher_script pause="0">
@@ -82,33 +91,41 @@ Ok đáp án bài 2 nè.
 
 <answer>
 **Đáp án:**
-1. flood (lũ lụt)
-2. tornado (lốc xoáy)
+1. flood
+2. second floor
+3. violent storm
+4. was having
+5. pulled
 </answer>
 
 <explanation>
-**Giải thích:**
-- **Câu 1 — flood:** Mi nói quê của chú bị ảnh hưởng bởi lũ lụt — "His home town has been affected by a flood." Vậy Việt Nam → lũ lụt (flood).
-- **Câu 2 — tornado:** Tom kể ở Mỹ có lốc xoáy — "We have tornadoes." Vậy Mỹ → lốc xoáy (tornado).
+**Giải thích từng câu:**
+- **Câu 1 — flood:** Mi nói: "Our hometown has been affected by a flood." Vậy quê Mi bị ảnh hưởng bởi lũ lụt → flood.
+- **Câu 2 — second floor:** Mi nói: "They moved everything to the second floor of their house last night." → tầng hai = second floor.
+- **Câu 3 — violent storm:** Tom nói: "It's a violent storm that moves in a circle with very strong winds." → lốc xoáy là một cơn bão dữ dội = violent storm.
+- **Câu 4 — was having:** Tom nói: "One evening my parents and I were having dinner." → gia đình Tom đang ăn tối = was having. Chú ý chỗ này điền 2 từ: "was having".
+- **Câu 5 — pulled:** Tom nói: "It damaged the roof of our house and pulled up some trees in our yard." → nhổ bật = pulled.
 </explanation>
 
 <!-- chunk: exercise-3 -->
 <teacher_script pause="60">
-Bài 3, mình nhìn vô 6 hình ảnh và ghi tên loại thiên tai nha. Các em đã học từ vựng rồi — nhớ lại xem nào. Làm 1 phút đi.
+Bài 3 nha. <eng>Write the natural disasters from the box under the pictures.</eng> Viết tên thảm họa thiên nhiên từ hộp từ bên dưới các hình ảnh. Có 6 từ trong hộp: <eng>volcanic eruption, storm, earthquake, tornado, landslide, flood</eng>. Nhìn hình rồi ghép cho đúng nha. Làm 1 phút đi.
 </teacher_script>
 
 <task>
-**Đề:** Look at the pictures. Write the names of the natural disasters.
-**Dịch đề:** Nhìn vào các hình. Viết tên các loại thảm họa thiên nhiên.
+**Đề:** Write the natural disasters from the box under the pictures. Then listen, check, and repeat.
+**Dịch đề:** Viết các thảm họa thiên nhiên từ hộp dưới hình ảnh. Sau đó nghe, kiểm tra và lặp lại.
+
+**Word box:** *volcanic eruption / storm / earthquake / tornado / landslide / flood*
 </task>
 
 <questions type="matching">
-**1.** Núi lửa phun khói và dung nham → ______
-**2.** Mây đen, gió mạnh, mưa to → ______
-**3.** Mặt đất rung chuyển, nhà sụp đổ → ______
-**4.** Cột gió xoáy hình phễu → ______
-**5.** Đất đá trượt từ sườn núi → ______
-**6.** Nước bao phủ đường và ruộng đồng → ______
+**1.** Hình 1: Nước bao phủ đường sá, ruộng đồng → ______
+**2.** Hình 2: Cột gió xoáy hình phễu → ______
+**3.** Hình 3: Núi lửa phun khói và dung nham → ______
+**4.** Hình 4: Mây đen, gió mạnh, mưa to → ______
+**5.** Hình 5: Đất đá trượt từ sườn núi → ______
+**6.** Hình 6: Mặt đất rung chuyển, nhà sụp đổ → ______
 </questions>
 
 <teacher_script pause="0">
@@ -117,48 +134,59 @@ Bài 3, mình nhìn vô 6 hình ảnh và ghi tên loại thiên tai nha. Các e
 
 <answer>
 **Đáp án:**
-1. volcanic eruption (núi lửa phun trào)
-2. storm (bão)
-3. earthquake (động đất)
-4. tornado (lốc xoáy)
+1. flood (lũ lụt)
+2. tornado (lốc xoáy)
+3. volcanic eruption (núi lửa phun trào)
+4. storm (bão)
 5. landslide (lở đất)
-6. flood (lũ lụt)
+6. earthquake (động đất)
 </answer>
 
 <explanation>
 **Giải thích từng loại thiên tai:**
-- **volcanic eruption (núi lửa phun trào):** Khi núi lửa phun ra lửa, tro và dung nham — đây là <eng>volcanic eruption</eng>.
-- **storm (bão):** Mây đen + gió mạnh + mưa to = <eng>storm</eng> — bão nha.
-- **earthquake (động đất):** Khi mặt đất rung chuyển và nhà sụp đổ — đó là <eng>earthquake</eng>.
-- **tornado (lốc xoáy):** Cột gió xoáy hình phễu — đặc trưng của <eng>tornado</eng> luôn.
-- **landslide (lở đất):** Đất đá trượt từ sườn núi xuống — đó là <eng>landslide</eng>.
-- **flood (lũ lụt):** Nước bao phủ đường sá và ruộng đồng — đó là <eng>flood</eng>.
+- **1 — flood (lũ lụt):** Nước bao phủ mọi thứ, đường sá và ruộng đồng bị ngập — đây là <eng>flood</eng>.
+- **2 — tornado (lốc xoáy):** Cột gió xoáy hình phễu — đặc trưng của <eng>tornado</eng> luôn.
+- **3 — volcanic eruption (núi lửa phun trào):** Khi núi lửa phun ra lửa, tro và dung nham — đây là <eng>volcanic eruption</eng>.
+- **4 — storm (bão):** Mây đen + gió mạnh + mưa to = <eng>storm</eng> — bão nha.
+- **5 — landslide (lở đất):** Đất đá trượt từ sườn núi xuống — đó là <eng>landslide</eng>.
+- **6 — earthquake (động đất):** Khi mặt đất rung chuyển và nhà sụp đổ — đó là <eng>earthquake</eng>.
 </explanation>
 
 <!-- chunk: exercise-4 -->
 <teacher_script pause="60">
-Bài 4, mình ghép mỗi mô tả với loại thiên tai đúng nha. Đọc kỹ từng câu mô tả rồi ghép. Làm 1 phút á.
+Bài 4. <eng>Choose the correct option to complete each sentence.</eng> Mỗi câu có 2 lựa chọn, chọn từ đúng để hoàn thành câu nha. Đọc kỹ câu, hiểu nghĩa rồi chọn. Làm 1 phút đi.
 </teacher_script>
 
 <task>
-**Đề:** Match each description (A–E) with the correct natural disaster (1–5).
-**Dịch đề:** Ghép mỗi mô tả (A–E) với thảm họa thiên nhiên đúng (1–5).
+**Đề:** Choose the correct option to complete each sentence.
+**Dịch đề:** Chọn phương án đúng để hoàn thành mỗi câu.
 </task>
 
-<questions type="matching">
-**Disasters:**
-1. flood
-2. earthquake
-3. landslide
-4. tornado
-5. volcanic eruption
+<questions type="multiple_choice">
+**1.** When there is a(n) ________ eruption, hot gases and liquid rock pour out from a mountain.
+*Khi có một vụ ________, khí nóng và đá nóng chảy trào ra từ một ngọn núi.*
+- A. earthquake
+- B. volcanic
 
-**Descriptions:**
-A. Water covers streets and fields. Nhà dân bị ngập nước.
-B. The ground shakes violently and buildings collapse. Đất rung chuyển và nhà sụp đổ.
-C. Rocks and mud slide down from hills or mountains. Đất đá trượt từ đồi núi xuống.
-D. A funnel-shaped column of wind spins at high speed. Cột gió xoáy hình phễu quay rất nhanh.
-E. A mountain shoots out fire, ash and gas. Núi phun ra lửa, tro và khí.
+**2.** Oh, the house is shaking! I think we're having a(n) ________.
+*Ồ, ngôi nhà đang rung lắc! Tôi nghĩ là đang có một trận ________.*
+- A. earthquake
+- B. flood
+
+**3.** We wanted to travel to Ha Giang, but there was a ________. Some big rocks and mud came down the mountains.
+*Chúng tôi muốn đi Hà Giang, nhưng bị ________. Đá lớn và bùn rơi từ trên núi xuống.*
+- A. tornado
+- B. landslide
+
+**4.** Every year more than ten ________ with strong winds and rain cause damage in our country.
+*Mỗi năm có hơn mười cơn ________ với gió mạnh và mưa gây ra thiệt hại ở đất nước mình.*
+- A. floods
+- B. storms
+
+**5.** A ________ looks like a huge funnel and causes a lot of damage. Its strong winds can reach 480 km per hour.
+*Một trận ________ nhìn giống một cái phễu lớn và gây ra rất nhiều thiệt hại. Gió mạnh của nó có thể đạt đến 480 km một giờ.*
+- A. tornado
+- B. storm
 </questions>
 
 <teacher_script pause="0">
@@ -167,18 +195,60 @@ Ok đáp án bài 4 nè.
 
 <answer>
 **Đáp án:**
-1 – A | 2 – B | 3 – C | 4 – D | 5 – E
+1. B (volcanic eruption)
+2. A (earthquake)
+3. B (landslide)
+4. B (storms)
+5. A (tornado)
 </answer>
 
 <explanation>
-**Giải thích:**
-- **1 – A (flood):** Lũ lụt làm nước bao phủ đường và nhà dân. "Water covers streets and fields."
-- **2 – B (earthquake):** Động đất làm mặt đất rung chuyển và nhà sụp đổ. "The ground shakes."
-- **3 – C (landslide):** Lở đất là khi đất đá trượt từ đồi núi xuống. "Rocks and mud slide down."
-- **4 – D (tornado):** Lốc xoáy có hình dạng phễu gió đặc trưng. "Funnel-shaped column of wind."
-- **5 – E (volcanic eruption):** Núi lửa phun ra lửa, tro và khí gas. "Mountain shoots out fire and ash."
+**Giải thích từng câu:**
+- **Câu 1 — volcanic eruption:** "Hot gases and liquid rock pour out from a mountain" — khí nóng và đá nóng chảy trào ra từ ngọn núi → đây là <eng>volcanic eruption</eng> (núi lửa phun trào), không phải <eng>earthquake</eng>.
+- **Câu 2 — earthquake:** "The house is shaking" — nhà đang rung lắc → đây là dấu hiệu của <eng>earthquake</eng> (động đất), không phải <eng>flood</eng> (lũ lụt).
+- **Câu 3 — landslide:** "Big rocks and mud came down the mountains" — đá lớn và bùn rơi từ trên núi xuống → đặc trưng của <eng>landslide</eng> (lở đất), không phải <eng>tornado</eng>.
+- **Câu 4 — storms:** "Strong winds and rain cause damage" — gió mạnh và mưa gây thiệt hại → đây là <eng>storms</eng> (bão). Lũ lụt (floods) không có gió mạnh.
+- **Câu 5 — tornado:** "Looks like a huge funnel" và "winds can reach 480 km per hour" — hình phễu lớn với gió siêu mạnh → đặc trưng của <eng>tornado</eng> (lốc xoáy).
+</explanation>
+
+<!-- chunk: exercise-5 -->
+<teacher_script pause="60">
+Bài 5, bài cuối của <eng>Getting Started</eng> nha. <eng>Work in groups. Complete the web with all of the words and phrases related to natural disasters you know.</eng> Làm việc nhóm, viết tất cả các từ và cụm từ liên quan đến thảm họa thiên nhiên mà em biết vào sơ đồ mạng. Nghĩ thêm ngoài 6 từ đã học nha — ví dụ <eng>tsunami, drought, wildfire...</eng> Làm 1 phút đi.
+</teacher_script>
+
+<task>
+**Đề:** Work in groups. Complete the web with all of the words and phrases related to natural disasters you know.
+**Dịch đề:** Làm việc nhóm. Hoàn thành sơ đồ mạng với tất cả các từ và cụm từ liên quan đến thảm họa thiên nhiên mà bạn biết.
+</task>
+
+<questions type="writing">
+Viết các từ liên quan đến thiên tai mà em biết — ngoài 6 từ đã học (flood, storm, earthquake, tornado, landslide, volcanic eruption).
+</questions>
+
+<teacher_script pause="0">
+Gợi ý một số từ nè các em.
+</teacher_script>
+
+<answer>
+**Gợi ý:**
+- tsunami (sóng thần)
+- drought (hạn hán)
+- wildfire (cháy rừng)
+- avalanche (lở tuyết)
+- blizzard (bão tuyết)
+- dust storm (bão cát)
+</answer>
+
+<explanation>
+**Giải thích các từ bổ sung:**
+- **tsunami (sóng thần):** Sóng biển khổng lồ thường do động đất dưới đáy biển gây ra.
+- **drought (hạn hán):** Thời kỳ dài không có mưa, mùa màng khô héo.
+- **wildfire (cháy rừng):** Đám cháy lan rộng ngoài tự nhiên, đặc biệt trong mùa khô.
+- **avalanche (lở tuyết):** Khối tuyết lớn trượt nhanh xuống sườn núi — hay xảy ra ở vùng núi tuyết.
+- **blizzard (bão tuyết):** Bão với tuyết rơi dày đặc và gió mạnh.
+- **dust storm (bão cát):** Gió mạnh cuốn cát và bụi ở vùng sa mạc.
 </explanation>
 
 <teacher_script pause="0">
-Xong bài <eng>Getting Started</eng> rồi nha. Bài này mình học được 19 từ về thiên tai và làm quen với lũ lụt ở Việt Nam cùng lốc xoáy ở Mỹ luôn. Bài sau mình học thêm từ vựng và phát âm nha, chuẩn bị tinh thần đi!
+Xong bài <eng>Getting Started</eng> rồi nha. Bài này mình học được 20 từ về thiên tai, đọc hội thoại về lũ lụt ở Việt Nam và lốc xoáy ở Mỹ, rồi làm 5 bài tập luôn. Bài sau mình học thêm từ vựng và phát âm nha, chuẩn bị tinh thần đi!
 </teacher_script>
