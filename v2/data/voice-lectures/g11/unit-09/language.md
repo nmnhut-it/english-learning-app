@@ -194,6 +194,38 @@ Câu 3: rượu ảnh hưởng tâm trí và hành vi, ngoài ra còn gây vấn
 Câu 4: chính phủ hứa giải quyết nhưng chưa đạt được gì. Tương phản → dùng <eng>Nevertheless</eng>.
 </teacher_script>
 
+<!-- chunk: grammar_2 -->
+### Grammar 2 - Practice linking words
+
+<teacher_script pause="0">
+Bài 2, làm việc theo cặp. Thêm câu vào mỗi mục, dùng các từ nối khác nhau nha.
+</teacher_script>
+
+<task>
+**Đề:** Work in pairs. Add more sentences to each item. Use different linking words and / or phrases.
+**Dịch đề:** Làm việc theo cặp. Thêm nhiều câu hơn cho mỗi mục. Sử dụng các từ và/hoặc cụm từ liên kết khác nhau.
+</task>
+
+<reading>
+**Starter sentences:**
+
+1. Some children play too many violent computer games.
+*(Một số trẻ em chơi quá nhiều trò chơi máy tính bạo lực.)*
+
+2. Many people live in poverty.
+*(Nhiều người sống trong cảnh nghèo đói.)*
+
+3. Awareness campaigns help to draw people's attention to social issues.
+*(Các chiến dịch nâng cao nhận thức giúp thu hút sự chú ý của mọi người đến các vấn đề xã hội.)*
+
+**Example:**
+Some children play too many violent computer games. **Additionally**, this can lead to poor academic performance. **Furthermore**, it can negatively impact social skills.
+</reading>
+
+<teacher_script pause="0" action="record">
+Các em thêm câu dùng từ nối nha. Ví dụ câu 1: <eng>Some children play too many violent computer games. Additionally, this can lead to poor academic performance.</eng> Dùng các từ nối như <eng>Additionally, Furthermore, Moreover, As a result, However</eng>. Ghi âm nha.
+</teacher_script>
+
 <!-- chunk: end -->
 <teacher_script pause="0">
 Hết bài <eng>Language</eng> Unit 9 rồi. Nhớ ngữ điệu câu hỏi lựa chọn: lên giọng trước, xuống cuối. Từ vựng: <eng>violent, poverty, alcohol, campaign, bully</eng>. Và từ nối: <eng>However, Therefore, Besides, Although, Because</eng>. Hẹn gặp lại!

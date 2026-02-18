@@ -74,6 +74,27 @@ Câu 3: <eng>I can sympathise</eng> - Tôi có thể thông cảm. Andy cũng t�
 Các cụm từ thể hiện thất vọng và đồng cảm nha: <eng>What a pity!</eng> - Thật tiếc! <eng>I'm sorry to hear that.</eng> - Tôi rất tiếc. <eng>I can sympathise.</eng> - Tôi thông cảm. <eng>That's really disappointing.</eng> - Thật đáng thất vọng. <eng>I know how you feel.</eng> - Tôi hiểu cảm giác của bạn.
 </teacher_script>
 
+<teacher_script pause="0">
+Bài 2, làm việc theo cặp. Dùng mẫu hội thoại ở bài 1 để tạo hội thoại tương tự cho 2 tình huống sau.
+</teacher_script>
+
+<task>
+**Đề:** Work in pairs. Use the model in 1 to make similar conversations for these situations.
+**Dịch đề:** Làm việc theo cặp. Sử dụng mẫu hội thoại ở bài 1 để tạo hội thoại tương tự cho các tình huống sau.
+</task>
+
+<reading>
+**Situation 1:** Student A can't go on a school trip because his/her little brother/sister is ill and he/she has to take care of him/her. Student B expresses disappointment and sympathy.
+*(Học sinh A không thể đi dã ngoại vì em nhỏ bị ốm và phải chăm sóc. Học sinh B bày tỏ sự thất vọng và đồng cảm.)*
+
+**Situation 2:** Student B can't finish a community project on time because he/she is too stressed preparing for his/her exams. Student A expresses disappointment and sympathy.
+*(Học sinh B không thể hoàn thành dự án cộng đồng đúng hạn vì quá căng thẳng chuẩn bị cho kỳ thi. Học sinh A bày tỏ sự thất vọng và đồng cảm.)*
+</reading>
+
+<teacher_script pause="0" action="record">
+Các em dùng các cụm từ đã học nha: <eng>What a pity, That's too bad, I'm sorry to hear that, I can sympathise</eng>. Ghi âm nha.
+</teacher_script>
+
 <!-- chunk: culture_1 -->
 ### Culture / CLIL - Social problems facing teens in the US
 
