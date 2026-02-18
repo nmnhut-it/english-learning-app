@@ -61,76 +61,76 @@ Nhớ nha: <eng>will</eng> là SẼ, <eng>won't</eng> là SẼ KHÔNG. Sau <eng>
 </teacher_script>
 
 <!-- chunk: bai-1 -->
-### Bai 1 trang 41 - Fill in the blanks
+### Bài 1 trang 41 - Fill in the blanks
 
 <teacher_script pause="0">
 Bài 1. <eng>Fill the blanks with will or won't to make the sentences true for you</eng>. Điền vào chỗ trống bằng <eng>will</eng> hoặc <eng>won't</eng> để viết các câu đúng với bạn. Làm 1 phút nha.
 </teacher_script>
 
 <task>
-**De:** Fill the blanks with *will ('ll)* or *won't* to make the sentences true for you.
+**Đề:** Fill the blanks with *will ('ll)* or *won't* to make the sentences true for you.
 
-**Dich de:** Dien vao cho trong bang *will ('ll)* hoac *won't* de viet cac cau dung voi ban.
+**Dịch đề:** Điền vào chỗ trống bằng *will ('ll)* hoặc *won't* để viết các câu đúng với bạn.
 </task>
 
 <questions type="fill_blanks">
 **Example:** I think I'll listen to music in the afternoon.
-*(Toi nghi toi se nghe nhac vao buoi chieu.)*
+*(Tôi nghĩ tôi sẽ nghe nhạc vào buổi chiều.)*
 
 **1.** I think I _______ stay at home tonight.
-*(Toi nghi toi _______ o nha toi nay.)*
+*(Tôi nghĩ tôi _______ ở nhà tối nay.)*
 
 **2.** My friends _______ go to the library this afternoon.
-*(Ban be cua toi _______ den thu vien chieu nay.)*
+*(Bạn bè của tôi _______ đến thư viện chiều nay.)*
 
 **3.** My mum _______ make a cake today.
-*(Me toi _______ lam banh hom nay.)*
+*(Mẹ tôi _______ làm bánh hôm nay.)*
 
 **4.** I _______ have an English test tomorrow.
-*(Toi _______ co mot bai kiem tra tieng Anh vao ngay mai.)*
+*(Tôi _______ có một bài kiểm tra tiếng Anh vào ngày mai.)*
 
 **5.** Our family _______ move to the new house next week.
-*(Gia dinh chung toi _______ chuyen den ngoi nha moi vao tuan toi.)*
+*(Gia đình chúng tôi _______ chuyển đến ngôi nhà mới vào tuần tới.)*
 </questions>
 
 <teacher_script pause="60">
-Ok 1 phut lam bai nha.
+Ok 1 phút làm bài nha.
 </teacher_script>
 
 <teacher_script pause="0">
-Dap an ne. Bai nay tuy theo y kien cua cac em, nhung co the tra loi nhu sau:
+Đáp án nè. Bài này tùy theo ý kiến của các em, nhưng có thể trả lời như sau:
 
-Cau 1: <eng>I think I will stay at home tonight</eng> - Toi nghi toi se o nha toi nay. Dung <eng>will</eng> vi minh du dinh o nha.
+Câu 1: <eng>I think I will stay at home tonight</eng> - Tôi nghĩ tôi sẽ ở nhà tối nay. Dùng <eng>will</eng> vì mình dự định ở nhà.
 
-Cau 2: <eng>My friends won't go to the library this afternoon</eng> - Ban be cua toi se khong den thu vien chieu nay. Dung <eng>won't</eng> vi ho khong di.
+Câu 2: <eng>My friends won't go to the library this afternoon</eng> - Bạn bè của tôi sẽ không đến thư viện chiều nay. Dùng <eng>won't</eng> vì họ không đi.
 
-Cau 3: <eng>My mum won't make a cake today</eng> - Me toi se khong lam banh hom nay. Dung <eng>won't</eng>.
+Câu 3: <eng>My mum won't make a cake today</eng> - Mẹ tôi sẽ không làm bánh hôm nay. Dùng <eng>won't</eng>.
 
-Cau 4: <eng>I will have an English test tomorrow</eng> - Toi se co mot bai kiem tra tieng Anh vao ngay mai. Dung <eng>will</eng> vi co bai kiem tra.
+Câu 4: <eng>I will have an English test tomorrow</eng> - Tôi sẽ có một bài kiểm tra tiếng Anh vào ngày mai. Dùng <eng>will</eng> vì có bài kiểm tra.
 
-Cau 5: <eng>Our family won't move to the new house next week</eng> - Gia dinh chung toi se khong chuyen den ngoi nha moi vao tuan toi. Dung <eng>won't</eng>.
+Câu 5: <eng>Our family won't move to the new house next week</eng> - Gia đình chúng tôi sẽ không chuyển đến ngôi nhà mới vào tuần tới. Dùng <eng>won't</eng>.
 </teacher_script>
 
 <answer>
-**Dap an:**
-1. I think I **will** stay at home tonight. *(Toi nghi toi se o nha toi nay.)*
-2. My friends **won't** go to the library this afternoon. *(Ban be cua toi se khong den thu vien chieu nay.)*
-3. My mum **won't** make a cake today. *(Me toi se khong lam banh hom nay.)*
-4. I **will** have an English test tomorrow. *(Toi se co mot bai kiem tra tieng Anh vao ngay mai.)*
-5. Our family **won't** move to the new house next week. *(Gia dinh chung toi se khong chuyen den ngoi nha moi vao tuan toi.)*
+**Đáp án:**
+1. I think I **will** stay at home tonight. *(Tôi nghĩ tôi sẽ ở nhà tối nay.)*
+2. My friends **won't** go to the library this afternoon. *(Bạn bè của tôi sẽ không đến thư viện chiều nay.)*
+3. My mum **won't** make a cake today. *(Mẹ tôi sẽ không làm bánh hôm nay.)*
+4. I **will** have an English test tomorrow. *(Tôi sẽ có một bài kiểm tra tiếng Anh vào ngày mai.)*
+5. Our family **won't** move to the new house next week. *(Gia đình chúng tôi sẽ không chuyển đến ngôi nhà mới vào tuần tới.)*
 </answer>
 
 <!-- chunk: bai-2 -->
-### Bai 2 trang 41 - Complete the conversation
+### Bài 2 trang 41 - Complete the conversation
 
 <teacher_script pause="0">
-Bai 2. <eng>Complete the conversation with will or won't</eng>. Hoan thanh cuoc hoi thoai voi <eng>will</eng> hoac <eng>won't</eng>. Lam 1 phut nha.
+Bài 2. <eng>Complete the conversation with will or won't</eng>. Hoàn thành cuộc hội thoại với <eng>will</eng> hoặc <eng>won't</eng>. Làm 1 phút nha.
 </teacher_script>
 
 <task>
-**De:** Complete the conversation with *will ('ll)* or *won't*.
+**Đề:** Complete the conversation with *will ('ll)* or *won't*.
 
-**Dich de:** Hoan thanh cuoc tro chuyen voi *will ('ll)* hoac *won't*.
+**Dịch đề:** Hoàn thành cuộc trò chuyện với *will ('ll)* hoặc *won't*.
 </task>
 
 <questions type="fill_blanks">
@@ -148,56 +148,56 @@ Bai 2. <eng>Complete the conversation with will or won't</eng>. Hoan thanh cuoc 
 </questions>
 
 <teacher_script pause="60">
-Ok 1 phut lam bai nha.
+Ok 1 phút làm bài nha.
 </teacher_script>
 
 <teacher_script pause="0">
-Dap an ne.
+Đáp án nè.
 
-Cho trong 1: <eng>will</eng> - <eng>Don't worry, he will come back</eng>. Dung lo, no se quay lai. B dang tran an A nen dung <eng>will</eng> de khang dinh.
+Chỗ trống 1: <eng>will</eng> - <eng>Don't worry, he will come back</eng>. Đừng lo, nó sẽ quay lại. B đang trấn an A nên dùng <eng>will</eng> để khẳng định.
 
-Cho trong 2: <eng>will</eng> - <eng>Are you sure he will?</eng>. Ban co chac no se lam vay khong? Day la cau hoi xac nhan.
+Chỗ trống 2: <eng>will</eng> - <eng>Are you sure he will?</eng>. Bạn có chắc nó sẽ làm vậy không? Đây là câu hỏi xác nhận.
 
-Cho trong 3: <eng>will</eng> - <eng>I'm sure he will come back tomorrow</eng>. Toi chac chan no se quay ve vao ngay mai. B van tin tuong nen dung <eng>will</eng>.
+Chỗ trống 3: <eng>will</eng> - <eng>I'm sure he will come back tomorrow</eng>. Tôi chắc chắn nó sẽ quay về vào ngày mai. B vẫn tin tưởng nên dùng <eng>will</eng>.
 
-Cho trong 4: <eng>won't</eng> - <eng>He won't come back</eng>. No se khong quay lai. A phu nhan, khong tin nen dung <eng>won't</eng>.
+Chỗ trống 4: <eng>won't</eng> - <eng>He won't come back</eng>. Nó sẽ không quay lại. A phủ nhận, không tin nên dùng <eng>won't</eng>.
 
-Cho trong 5: <eng>will</eng> - <eng>We will never see him again</eng>. Chung ta se khong bao gio gap lai no nua. Chu y: <eng>will never</eng> = se khong bao gio, khac voi <eng>won't</eng>.
+Chỗ trống 5: <eng>will</eng> - <eng>We will never see him again</eng>. Chúng ta sẽ không bao giờ gặp lại nó nữa. Chú ý: <eng>will never</eng> = sẽ không bao giờ, khác với <eng>won't</eng>.
 </teacher_script>
 
 <answer>
-**Dap an:** 1. will ('ll) | 2. will ('ll) | 3. will ('ll) | 4. won't | 5. will ('ll)
+**Đáp án:** 1. will ('ll) | 2. will ('ll) | 3. will ('ll) | 4. won't | 5. will ('ll)
 
 **A:** Oh, no. The dog ran away again!
-*(Oi, khong. Con cho lai bo di roi!)*
+*(Ôi, không. Con chó lại bỏ đi rồi!)*
 
 **B:** Don't worry - he (1) **will** come back.
-*(Dung lo lang - no se quay lai.)*
+*(Đừng lo lắng - nó sẽ quay lại.)*
 
 **A:** Are you sure he (2) **will**?
-*(Ban co chac no se lam nhu vay khong?)*
+*(Bạn có chắc nó sẽ làm như vậy không?)*
 
 **B:** OK, he might not come back today. But I'm sure he (3) **will** come back tomorrow.
-*(Duoc roi, hom nay no co the se khong quay ve. Nhung toi chac chan no se quay ve vao ngay mai.)*
+*(Được rồi, hôm nay nó có thể sẽ không quay về. Nhưng tôi chắc chắn nó sẽ quay về vào ngày mai.)*
 
 **A:** I don't believe you! He (4) **won't** come back. We (5) **will** never see him again. I'm sure.
-*(Toi khong tin! No se khong quay lai. Chung ta se khong bao gio gap lai no nua. Toi chac chan.)*
+*(Tôi không tin! Nó sẽ không quay lại. Chúng ta sẽ không bao giờ gặp lại nó nữa. Tôi chắc chắn.)*
 
 **B:** Oh, look ... Here he is!
-*(O, nhin kia ... No day roi!)*
+*(Ồ, nhìn kìa ... Nó đây rồi!)*
 </answer>
 
 <!-- chunk: bai-3 -->
-### Bai 3 trang 41 - Write sentences
+### Bài 3 trang 41 - Write sentences
 
 <teacher_script pause="0">
-Bai 3. <eng>Write sentences, using will or won't and the words given</eng>. Viet cau, su dung <eng>will</eng> hoac <eng>won't</eng> va cac tu cho san. Lam 2 phut nha.
+Bài 3. <eng>Write sentences, using will or won't and the words given</eng>. Viết câu, sử dụng <eng>will</eng> hoặc <eng>won't</eng> và các từ cho sẵn. Làm 2 phút nha.
 </teacher_script>
 
 <task>
-**De:** Write sentences, using *will ('ll)* or *won't* and the words given.
+**Đề:** Write sentences, using *will ('ll)* or *won't* and the words given.
 
-**Dich de:** Viet cau, su dung *will ('ll)* hoac *won't* va cac tu cho san.
+**Dịch đề:** Viết câu, sử dụng *will ('ll)* hoặc *won't* và các từ cho sẵn.
 </task>
 
 <questions type="complete_sentences">
@@ -213,66 +213,66 @@ Bai 3. <eng>Write sentences, using will or won't and the words given</eng>. Viet
 </questions>
 
 <teacher_script pause="120">
-Ok 2 phut viet cau nha.
+Ok 2 phút viết câu nha.
 </teacher_script>
 
 <teacher_script pause="0">
-Dap an ne. Cac em co the dung <eng>will</eng> hoac <eng>won't</eng> tuy theo y kien cua minh, nhung co mot so cau hop ly hon:
+Đáp án nè. Các em có thể dùng <eng>will</eng> hoặc <eng>won't</eng> tùy theo ý kiến của mình, nhưng có một số câu hợp lý hơn:
 
-Cau 1: <eng>A computer will help me to do my housework</eng> hoac <eng>won't</eng>. May tinh se/se khong giup toi lam viec nha. May tinh co the giup mot so viec nha nhu dat hang, dieu khien thiet bi, nen ca hai dap an deu duoc.
+Câu 1: <eng>A computer will help me to do my housework</eng> hoặc <eng>won't</eng>. Máy tính sẽ/sẽ không giúp tôi làm việc nhà. Máy tính có thể giúp một số việc nhà như đặt hàng, điều khiển thiết bị, nên cả hai đáp án đều được.
 
-Cau 2: <eng>A robot will help me to water the flowers</eng>. Mot nguoi may se giup toi tuoi hoa. Robot co the tuoi cay duoc nen dung <eng>will</eng>.
+Câu 2: <eng>A robot will help me to water the flowers</eng>. Một người máy sẽ giúp tôi tưới hoa. Robot có thể tưới cây được nên dùng <eng>will</eng>.
 
-Cau 3: <eng>A smart TV won't help me to cook meals</eng>. Mot chiec TV thong minh se khong giup toi nau cac bua an. TV khong the nau an duoc nen dung <eng>won't</eng>.
+Câu 3: <eng>A smart TV won't help me to cook meals</eng>. Một chiếc TV thông minh sẽ không giúp tôi nấu các bữa ăn. TV không thể nấu ăn được nên dùng <eng>won't</eng>.
 
-Cau 4: <eng>A washing machine will</eng> hoac <eng>won't help me to iron the clothes</eng>. May giat se/se khong giup toi ui quan ao. May giat chi giat, khong ui duoc, nen <eng>won't</eng> hop ly hon.
+Câu 4: <eng>A washing machine will</eng> hoặc <eng>won't help me to iron the clothes</eng>. Máy giặt sẽ/sẽ không giúp tôi ủi quần áo. Máy giặt chỉ giặt, không ủi được, nên <eng>won't</eng> hợp lý hơn.
 
-Cau 5: <eng>A smartphone won't help me to take care of the children</eng>. Mot chiec dien thoai thong minh se khong giup toi cham soc con cai. Dien thoai khong the cham tre duoc nen dung <eng>won't</eng>.
+Câu 5: <eng>A smartphone won't help me to take care of the children</eng>. Một chiếc điện thoại thông minh sẽ không giúp tôi chăm sóc con cái. Điện thoại không thể chăm trẻ được nên dùng <eng>won't</eng>.
 </teacher_script>
 
 <answer>
-**Dap an:**
-1. A computer will/won't help me to do my housework. *(Mot may tinh se/se khong giup toi lam viec nha.)*
-2. A robot will help me to water the flowers. *(Mot nguoi may se giup toi tuoi hoa.)*
-3. A smart TV won't help me to cook meals. *(Mot chiec TV thong minh se khong giup toi nau cac bua an.)*
-4. A washing machine will/won't help me to iron the clothes. *(Mot may giat se/se khong giup toi ui quan ao.)*
-5. A smartphone won't help me to take care of the children. *(Mot chiec dien thoai thong minh se khong giup toi cham soc con cai.)*
+**Đáp án:**
+1. A computer will/won't help me to do my housework. *(Một máy tính sẽ/sẽ không giúp tôi làm việc nhà.)*
+2. A robot will help me to water the flowers. *(Một người máy sẽ giúp tôi tưới hoa.)*
+3. A smart TV won't help me to cook meals. *(Một chiếc TV thông minh sẽ không giúp tôi nấu các bữa ăn.)*
+4. A washing machine will/won't help me to iron the clothes. *(Một máy giặt sẽ/sẽ không giúp tôi ủi quần áo.)*
+5. A smartphone won't help me to take care of the children. *(Một chiếc điện thoại thông minh sẽ không giúp tôi chăm sóc con cái.)*
 </answer>
 
 <!-- chunk: might-theory -->
 <teacher_script pause="0">
-Truoc khi lam Bai 4, hoc them ve <eng>might</eng> nha. <eng>Might</eng> cung la tro dong tu chi tuong lai, nhung no co nghia la CO THE, dien ta kha nang co the xay ra nhung chua chac chan. <eng>Will</eng> thi chac chan hon, con <eng>might</eng> thi chua chac.
+Trước khi làm Bài 4, học thêm về <eng>might</eng> nha. <eng>Might</eng> cũng là trợ động từ chỉ tương lai, nhưng nó có nghĩa là CÓ THỂ, diễn tả khả năng có thể xảy ra nhưng chưa chắc chắn. <eng>Will</eng> thì chắc chắn hơn, còn <eng>might</eng> thì chưa chắc.
 </teacher_script>
 
 <grammar>
-## Might (Co the)
+## Might (Có thể)
 
-**Might** dung de dien ta dieu gi do co the xay ra trong tuong lai nhung chua chac chan.
+**Might** dùng để diễn tả điều gì đó có thể xảy ra trong tương lai nhưng chưa chắc chắn.
 
-**Cong thuc:**
-- Khang dinh: S + might + V (nguyen mau)
-- Phu dinh: S + might not + V (nguyen mau)
+**Công thức:**
+- Khẳng định: S + might + V (nguyên mẫu)
+- Phủ định: S + might not + V (nguyên mẫu)
 
-**Vi du:**
-- We **might** go on holiday to the Moon. *(Chung ta co the di nghi tren Mat trang.)*
-- They **might not** talk to us. *(Ho co the khong noi chuyen voi chung ta.)*
+**Ví dụ:**
+- We **might** go on holiday to the Moon. *(Chúng ta có thể đi nghỉ trên Mặt trăng.)*
+- They **might not** talk to us. *(Họ có thể không nói chuyện với chúng ta.)*
 
-**So sanh:**
-- **will** = se (chac chan hon)
-- **might** = co the (chua chac chan)
+**So sánh:**
+- **will** = sẽ (chắc chắn hơn)
+- **might** = có thể (chưa chắc chắn)
 </grammar>
 
 <!-- chunk: bai-4 -->
-### Bai 4 trang 41 - Read and tick True/False
+### Bài 4 trang 41 - Read and tick True/False
 
 <teacher_script pause="0">
-Bai 4. <eng>Read the two poems. Tick True or False</eng>. Doc hai bai tho va danh dau Dung hoac Sai. Doc ky hai bai tho truoc nha.
+Bài 4. <eng>Read the two poems. Tick True or False</eng>. Đọc hai bài thơ và đánh dấu Đúng hoặc Sai. Đọc kỹ hai bài thơ trước nha.
 </teacher_script>
 
 <task>
-**De:** Read the two poems. Tick (check) T (True) or F (False).
+**Đề:** Read the two poems. Tick (✓) T (True) or F (False).
 
-**Dich de:** Doc hai bai tho. Danh dau T (Dung) hoac F (Sai).
+**Dịch đề:** Đọc hai bài thơ. Đánh dấu T (Đúng) hoặc F (Sai).
 </task>
 
 <reading>
@@ -298,120 +298,114 @@ They might not talk to us.
 </reading>
 
 <translation>
-**Tam dich:**
+**Tạm dịch:**
 
-**Trong tuong lai** *(Henry, 11 tuoi)*
+**Trong tương lai** *(Henry, 11 tuổi)*
 
-Chung ta co the di nghi tren Mat trang.
-Chung ta co the o do trong mot thoi gian dai.
-Chung ta co the co mot thoi gian tuyet voi.
-Chung ta co the ve nha som.
+Chúng ta có thể đi nghỉ trên Mặt trăng.
+Chúng ta có thể ở đó trong một thời gian dài.
+Chúng ta có thể có một thời gian tuyệt vời.
+Chúng ta có thể về nhà sớm.
 
 ---
 
-**Trong tuong lai** *(Jenny, 12 tuoi)*
+**Trong tương lai** *(Jenny, 12 tuổi)*
 
-Chung ta co the song voi robot.
-Chung co the don dep nha cua cua chung ta.
-Chung co the giat quan ao cua chung ta.
-Chung co the khong noi chuyen voi chung ta.
+Chúng ta có thể sống với robot.
+Chúng có thể dọn dẹp nhà cửa của chúng ta.
+Chúng có thể giặt quần áo của chúng ta.
+Chúng có thể không nói chuyện với chúng ta.
 </translation>
 
 <questions type="true_false">
 **1.** Jenny thinks we might live with robots.
-*(Jenny nghi rang chung ta co the song voi robot.)*
+*(Jenny nghĩ rằng chúng ta có thể sống với robot.)*
 
 **2.** Henry thinks we might travel to the Moon.
-*(Henry nghi rang chung ta co the du hanh den Mat trang.)*
+*(Henry nghĩ rằng chúng ta có thể du hành đến Mặt trăng.)*
 
 **3.** Jenny thinks robots might not clean our houses.
-*(Jenny cho rang robot co the khong don dep nha cua cua chung ta.)*
+*(Jenny cho rằng robot có thể không dọn dẹp nhà cửa của chúng ta.)*
 
 **4.** Henry thinks we will stay on the Moon for a short time.
-*(Henry nghi rang chung ta se o tren Mat trang trong mot thoi gian ngan.)*
+*(Henry nghĩ rằng chúng ta sẽ ở trên Mặt trăng trong một thời gian ngắn.)*
 
 **5.** Jenny thinks robots might help us to do the housework.
-*(Jenny nghi rang robot co the giup chung ta lam viec nha.)*
+*(Jenny nghĩ rằng robot có thể giúp chúng ta làm việc nhà.)*
 
 **6.** Henry thinks we might not have a great time on the Moon.
-*(Henry nghi rang chung ta co the khong co khoang thoi gian tuyet voi tren Mat trang.)*
+*(Henry nghĩ rằng chúng ta có thể không có khoảng thời gian tuyệt vời trên Mặt trăng.)*
 </questions>
 
 <teacher_script pause="90">
-Ok doc bai tho va lam bai. 1 phut ruoi nha.
+Ok đọc bài thơ và làm bài. 1 phút rưỡi nha.
 </teacher_script>
 
 <teacher_script pause="0">
-Dap an ne. Giai thich tung cau:
+Đáp án nè. Giải thích từng câu:
 
-Cau 1: TRUE - <eng>Jenny thinks we might live with robots</eng>. Dung, Jenny viet <eng>We might live with robots</eng> trong bai tho cua co ay.
+Câu 1: TRUE - <eng>Jenny thinks we might live with robots</eng>. Đúng, Jenny viết <eng>We might live with robots</eng> trong bài thơ của cô ấy.
 
-Cau 2: TRUE - <eng>Henry thinks we might travel to the Moon</eng>. Dung, Henry viet <eng>We might go on holiday to the Moon</eng>.
+Câu 2: TRUE - <eng>Henry thinks we might travel to the Moon</eng>. Đúng, Henry viết <eng>We might go on holiday to the Moon</eng>.
 
-Cau 3: FALSE - <eng>Jenny thinks robots might not clean our houses</eng>. Sai! Jenny viet <eng>They might clean our houses</eng>, tuc la robot CO THE don dep, khong phai KHONG don dep.
+Câu 3: FALSE - <eng>Jenny thinks robots might not clean our houses</eng>. Sai! Jenny viết <eng>They might clean our houses</eng>, tức là robot CÓ THỂ dọn dẹp, không phải KHÔNG dọn dẹp.
 
-Cau 4: FALSE - <eng>Henry thinks we will stay on the Moon for a short time</eng>. Sai! Henry viet <eng>We might stay there for a long time</eng>, tuc la thoi gian DAI, khong phai ngan.
+Câu 4: FALSE - <eng>Henry thinks we will stay on the Moon for a short time</eng>. Sai! Henry viết <eng>We might stay there for a long time</eng>, tức là thời gian DÀI, không phải ngắn.
 
-Cau 5: TRUE - <eng>Jenny thinks robots might help us to do the housework</eng>. Dung, Jenny viet robot se don dep va giat quan ao, tuc la lam viec nha.
+Câu 5: TRUE - <eng>Jenny thinks robots might help us to do the housework</eng>. Đúng, Jenny viết robot sẽ dọn dẹp và giặt quần áo, tức là làm việc nhà.
 
-Cau 6: FALSE - <eng>Henry thinks we might not have a great time on the Moon</eng>. Sai! Henry viet <eng>We might have a great time</eng>, tuc la CO THE co thoi gian tuyet voi, khong phai KHONG co.
+Câu 6: FALSE - <eng>Henry thinks we might not have a great time on the Moon</eng>. Sai! Henry viết <eng>We might have a great time</eng>, tức là CÓ THỂ có thời gian tuyệt vời, không phải KHÔNG có.
 </teacher_script>
 
 <answer>
-**Dap an:** 1. T | 2. T | 3. F | 4. F | 5. T | 6. F
+**Đáp án:** 1. T | 2. T | 3. F | 4. F | 5. T | 6. F
 
-1. **T** - Jenny nghi chung ta co the song voi robot. (Dung - Jenny viet "We might live with robots")
-2. **T** - Henry nghi chung ta co the du hanh den Mat trang. (Dung - Henry viet "We might go on holiday to the Moon")
-3. **F** - Jenny cho rang robot co the khong don dep nha cua. (Sai - Jenny viet "They might clean our houses" = CO THE don dep)
-4. **F** - Henry nghi se o tren Mat trang trong thoi gian ngan. (Sai - Henry viet "a long time" = thoi gian dai)
-5. **T** - Jenny nghi robot co the giup lam viec nha. (Dung - Jenny viet robot don dep, giat quan ao)
-6. **F** - Henry nghi co the khong co thoi gian tuyet voi. (Sai - Henry viet "We might have a great time")
+1. **T** - Jenny nghĩ chúng ta có thể sống với robot. (Đúng - Jenny viết "We might live with robots")
+2. **T** - Henry nghĩ chúng ta có thể du hành đến Mặt trăng. (Đúng - Henry viết "We might go on holiday to the Moon")
+3. **F** - Jenny cho rằng robot có thể không dọn dẹp nhà cửa. (Sai - Jenny viết "They might clean our houses" = CÓ THỂ dọn dẹp)
+4. **F** - Henry nghĩ sẽ ở trên Mặt trăng trong thời gian ngắn. (Sai - Henry viết "a long time" = thời gian dài)
+5. **T** - Jenny nghĩ robot có thể giúp làm việc nhà. (Đúng - Jenny viết robot dọn dẹp, giặt quần áo)
+6. **F** - Henry nghĩ có thể không có thời gian tuyệt vời. (Sai - Henry viết "We might have a great time")
 </answer>
 
 <!-- chunk: bai-5 -->
-### Bai 5 trang 41 - Speaking
+### Bài 5 trang 41 - Speaking
 
 <teacher_script pause="0">
-Bai 5. <eng>Work in groups. Think about what you might do or have in the future. Share your ideas with your classmates</eng>. Lam viec nhom. Nghi ve nhung gi ban co the lam hoac co trong tuong lai. Chia se y tuong cua ban voi ban hoc.
+Bài 5. <eng>Work in groups. Think about what you might do or have in the future. Share your ideas with your classmates</eng>. Làm việc nhóm. Nghĩ về những gì bạn có thể làm hoặc có trong tương lai. Chia sẻ ý tưởng của bạn với bạn học.
 </teacher_script>
 
 <task>
-**De:** Work in groups. Think about what you might do or have in the future. Share your ideas with your classmates.
+**Đề:** Work in groups. Think about what you might do or have in the future. Share your ideas with your classmates.
 
-**Dich de:** Lam viec nhom. Nghi ve nhung gi ban co the lam hoac co trong tuong lai. Chia se y tuong cua ban voi ban hoc.
+**Dịch đề:** Làm việc nhóm. Nghĩ về những gì bạn có thể làm hoặc có trong tương lai. Chia sẻ ý tưởng của bạn với bạn học.
 
 **Example:** I might have a smartphone to surf the internet.
-*(Toi co the co mot chiec dien thoai thong minh de luot internet.)*
+*(Tôi có thể có một chiếc điện thoại thông minh để lướt internet.)*
 </task>
 
 <teacher_script pause="120">
-Nghi va noi nhung gi em co the lam hoac co trong tuong lai. Dung cau truc <eng>I might have...</eng> hoac <eng>I might do...</eng>. 2 phut nha.
+Nghĩ và nói những gì em có thể làm hoặc có trong tương lai. Dùng cấu trúc <eng>I might have...</eng> hoặc <eng>I might do...</eng>. 2 phút nha.
 </teacher_script>
 
 <teacher_script pause="0">
-Day la mot so mau cau tham khao nha:
+Đây là một số mẫu câu tham khảo nha:
 </teacher_script>
 
 <answer>
-**Goi y tra loi:**
+**Gợi ý trả lời:**
 
 - I might have a helicopter to travel around the world.
-*(Toi co the co mot chiec truc thang de di du lich vong quanh the gioi.)*
+*(Tôi có thể có một chiếc trực thăng để đi du lịch vòng quanh thế giới.)*
 
 - I might have a robot to help me to do homework.
-*(Toi co the co mot robot de giup toi lam bai tap ve nha.)*
+*(Tôi có thể có một robot để giúp tôi làm bài tập về nhà.)*
 
 - I might have a remote control to control all the appliances in my house.
-*(Toi co the co mot dieu khien tu xa de dieu khien tat ca cac thiet bi trong nha cua minh.)*
-
-- I might live in a smart house in the future.
-*(Toi co the song trong mot ngoi nha thong minh trong tuong lai.)*
-
-- I might travel to the Moon one day.
-*(Toi co the du hanh den Mat trang mot ngay nao do.)*
+*(Tôi có thể có một điều khiển từ xa để điều khiển tất cả các thiết bị trong nhà của mình.)*
 </answer>
 
 <!-- chunk: end -->
 <teacher_script pause="0">
-Ok xong bai <eng>A Closer Look 2</eng> roi. Nho nha: <eng>will</eng> la SE, <eng>won't</eng> la SE KHONG, <eng>might</eng> la CO THE. Sau <eng>will</eng>, <eng>won't</eng>, <eng>might</eng> deu dung dong tu nguyen mau. Hen gap lai bai sau nha!
+Ok xong bài <eng>A Closer Look 2</eng> rồi. Nhớ nha: <eng>will</eng> là SẼ, <eng>won't</eng> là SẼ KHÔNG, <eng>might</eng> là CÓ THỂ. Sau <eng>will</eng>, <eng>won't</eng>, <eng>might</eng> đều dùng động từ nguyên mẫu. Hẹn gặp lại bài sau nha!
 </teacher_script>

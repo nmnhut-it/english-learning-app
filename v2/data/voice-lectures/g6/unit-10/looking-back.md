@@ -1,4 +1,5 @@
-# G6 UNIT-10 LOOKING BACK
+# UNIT 10: OUR HOUSES IN THE FUTURE
+## LOOKING BACK
 
 <!-- chunk: intro -->
 <teacher_script pause="0">
@@ -9,10 +10,6 @@ Ok lớp 6, hôm nay mình ôn tập Unit 10 qua bài <eng>Looking Back</eng> nh
 <teacher_script pause="0">
 Phần đầu tiên là ôn từ vựng về các thiết bị trong nhà thông minh nha.
 </teacher_script>
-
-**UNIT 10: OUR HOUSES IN THE FUTURE**
-
-**LOOKING BACK**
 
 **Vocabulary**
 
