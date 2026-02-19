@@ -26,6 +26,36 @@ const fs = require('fs');
 const path = require('path');
 const { distance } = require('fastest-levenshtein');
 
+// Load whitelist for false positives
+const WHITELIST_PATH = path.join(__dirname, 'fabrication-whitelist.json');
+let WHITELIST = { global: { instructions: [] } };
+try {
+  if (fs.existsSync(WHITELIST_PATH)) {
+    WHITELIST = JSON.parse(fs.readFileSync(WHITELIST_PATH, 'utf8'));
+  }
+} catch (e) {
+  console.warn('Warning: Could not load whitelist:', e.message);
+}
+
+/** Check if a normalized sentence is whitelisted */
+function isWhitelisted(sentence, sectionKey) {
+  const normalizedSentence = sentence.toLowerCase().trim();
+  // Check global instructions
+  const globalInstructions = WHITELIST.global?.instructions || [];
+  for (const instr of globalInstructions) {
+    if (normalizedSentence.includes(instr.toLowerCase())) return true;
+  }
+  // Check section-specific whitelist
+  const sectionList = WHITELIST[sectionKey]?.sentences || [];
+  for (const item of sectionList) {
+    if (normalizedSentence.includes(item.toLowerCase())) return true;
+  }
+  return false;
+}
+
+// Current section key for whitelist lookups (set during comparison)
+let currentSectionKey = '';
+
 // Constants
 const THRESHOLDS = {
   EXACT: 98,
@@ -418,10 +448,15 @@ function compareNormalizedSentences(sourceText, voiceText) {
 
   let matched = 0;
   const unmatched = [];
+  let whitelistedCount = 0;
 
   for (const sentence of sourceSentences) {
     if (voiceNormalized.includes(sentence)) {
       matched++;
+    } else if (isWhitelisted(sentence, currentSectionKey)) {
+      // Whitelisted sentences count as matched (false positive)
+      matched++;
+      whitelistedCount++;
     } else {
       unmatched.push(sentence);
     }
@@ -2256,6 +2291,8 @@ async function main() {
       const comparison = compareContent(sourceParsed, voiceParsed);
 
       // Run STRICT normalized comparison (new - favors false positives)
+      // Set section key for whitelist lookups
+      currentSectionKey = `g${grade}-unit-${unitNum}-${sect}`;
       const sourceBlocks = extractSourceBlocks(sourceContent);
       const voiceBlocks = extractVoiceBlocks(voiceContent);
       const strictComparison = runStrictComparison(sourceBlocks, voiceBlocks, voiceContent, sect);
