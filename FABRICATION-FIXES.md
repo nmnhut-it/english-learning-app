@@ -1,6 +1,6 @@
 # Fabrication Issues - Fix Guide
 
-Generated: 2026-02-19
+Generated: 2026-02-20
 
 ## Reference Sources
 
@@ -12,132 +12,126 @@ When fixing fabrication issues, use these sources in order of preference:
 
 ---
 
-## Wrong Answers (Quick Fixes)
+## Missing MP3 (~80 files)
 
-These require verifying against source and updating the `<answer>` block.
+Audio URLs from source files that are not included in voice lectures.
 
-### Grade 7
+**See:** [MISSING-AUDIO-LINKS.md](MISSING-AUDIO-LINKS.md) for complete list with:
+- Full audio URLs
+- Target voice lecture paths
+- Ready-to-insert HTML tags
 
-| File | Issue | How to Fix |
-|------|-------|------------|
-| unit-01/a-closer-look-2 | bai3_q4: "goes" → "go" | Check source for correct verb form |
-
-### Grade 8
-
-| File | Issue | How to Fix |
-|------|-------|------------|
-| unit-01/a-closer-look-1 | bai1_q2: "b" → "c", bai1_q4: "c" → "a" | Verify matching answers against source |
-| unit-01/a-closer-look-2 | bai2_q4: "A" → "B", bai2_q5: "C" → "A" | Check grammar exercise answers |
-| unit-02/a-closer-look-1 | bai2_q1: "b" → "c" | Verify vocabulary matching |
-| unit-02/communication | bai3_q3: "Hollum" → "H", bai3_q5: "Hollum" → "H" | Check reading comprehension answers |
-| unit-03/skills-2 | bai2_q1: "A" → "C" | Verify listening answers |
-| unit-03/looking-back | bai2_q6: "bullying" → "bullies" | Check word form exercise |
-| unit-04/getting-started | bai2_q2: "B" → "C" | Verify dialogue comprehension |
-| unit-05/a-closer-look-2 | bai2_q4: "a" → "C", bai4_q5: "an" → "the" | Check article usage exercise |
-
-### Grade 9
-
-| File | Issue | How to Fix |
-|------|-------|------------|
-| unit-02/a-closer-look-1 | bai2_q1: "B" → "A", bai2_q2: "A" → "C", more | Verify vocabulary matching |
-| unit-03/getting-started | bai2_q3: "T" → "F", bai2_q4: "F" → "T" | Check T/F answers against dialogue |
-| unit-03/looking-back | bai2_q5: "B" → "D" | Verify grammar exercise |
-| unit-04/getting-started | bai4_q3: "e" → "monument" | Check matching exercise format |
-| unit-05/a-closer-look-1 | bai2_q4: "e" → "embarrassing", bai3_q1: wrong | Verify vocabulary/grammar |
-| unit-06/skills-1 | bai2_q3: "C" → "B" | Check reading comprehension |
+**Status:** Use another Claude Code instance to insert audio tags
 
 ---
 
-## Fabricated Content (Require Rewrite)
+## Wrong Answers
 
-These files have fabricated dialogue, reading passages, or exercises that don't match the textbook. They require comparing against source and rewriting the content.
+All wrong answer issues have been fixed except one potential false positive.
 
-### Grade 6
-
-| File | What's Fabricated | Reference |
-|------|-------------------|-----------|
-| unit-10/communication | Fabricated example content | loigiaihay.com/grade6/unit-10/communication.md |
-| unit-11/skills-1 | Fabricated interview "Making Our School Greener" | Check actual textbook reading passage |
-| unit-12/skills-2 | Fabricated dialogue with "Dr Adams" | Check actual listening/reading content |
-
-### Grade 7
-
-| File | What's Fabricated | Reference |
-|------|-------------------|-----------|
-| unit-09/communication | Fabricated content about festival symbols | loigiaihay.com/grade7/unit-09/communication.md |
-| unit-10/communication | Fabricated example content | Check textbook exercises |
-| unit-12/skills-1 | Fabricated content about activities | Check actual reading passage |
-
-### Grade 8
-
-| File | What's Fabricated | Reference |
-|------|-------------------|-----------|
-| unit-02/communication | Fabricated content about Hanoi | loigiaihay.com/grade8/unit-02/communication.md |
-| unit-03/communication | Fabricated content with "Ann" | Check textbook dialogue |
-| unit-05/communication | Fabricated content "Mua Lan and Shishi-mai" | Check actual comparison content |
-| unit-07/communication | Fabricated Earth Day content | loigiaihay.com/grade8/unit-07/communication.md |
-
-### Grade 9
-
-| File | What's Fabricated | Reference |
-|------|-------------------|-----------|
-| unit-01/communication | Fabricated content about city centre | loigiaihay.com/grade9/unit-01/communication.md |
+| Grade | File | Issue | Status |
+|-------|------|-------|--------|
+| G6 | unit-09/looking-back | bai1_q2: "A" → "C" | ⚠️ FALSE POSITIVE (order difference) |
+| G7 | unit-01/a-closer-look-2 | bai3_q4: "goes" → "go" | ✅ FIXED |
+| G8 | unit-01/a-closer-look-1 | bai1_q2, bai1_q4 | ✅ FIXED |
+| G8 | unit-01/a-closer-look-2 | bai2_q4, bai2_q5 | ✅ FIXED |
+| G8 | unit-02/a-closer-look-1 | bai2_q1 | ✅ FIXED |
+| G8 | unit-02/communication | bai3_q3, bai3_q5 | ✅ FIXED |
+| G8 | unit-03/skills-2 | bai2_q1 | ✅ FIXED |
+| G8 | unit-03/looking-back | bai2_q6 | ✅ FIXED |
+| G8 | unit-04/getting-started | bai2_q2 | ✅ FIXED |
+| G8 | unit-05/a-closer-look-2 | bai2_q4, bai4_q5 | ✅ FIXED |
+| G9 | unit-02/a-closer-look-1 | bai2_q1-q3 | ✅ FIXED |
+| G9 | unit-03/getting-started | bai2_q3, bai2_q4 | ✅ FIXED |
+| G9 | unit-03/looking-back | bai2_q5 | ✅ FIXED |
+| G9 | unit-04/getting-started | bai4_q3 | ✅ FIXED |
+| G9 | unit-05/a-closer-look-1 | bai2_q4, bai3_q1 | ✅ FIXED |
+| G9 | unit-06/skills-1 | bai2_q3 | ✅ FIXED |
 
 ---
 
-## How to Fix Fabricated Content
+## Fabricated Content
 
-### Step 1: Read the Source
-```bash
-# Find source files
-ls loigiaihay.com/grade{N}/unit-{NN}/
-ls markdown-files/g{N}/unit-{NN}/
-```
+### Verified FALSE POSITIVES (No fix needed)
 
-### Step 2: Compare Content
-- Check dialogue matches textbook exactly
-- Verify all exercises (Bài 1, 2, 3...) match source
-- Confirm answer keys are correct
+| Grade | File | Reason |
+|-------|------|--------|
+| G6 | unit-10/communication | ✅ Matches source |
+| G6 | unit-12/skills-2 | ✅ Matches source |
+| G7 | unit-10/communication | ✅ Matches source |
+| G7 | unit-12/skills-1 | ✅ Matches source |
 
-### Step 3: Rewrite Voice Lecture
-1. Keep the voice lecture structure (chunks, teacher_script tags)
-2. Replace fabricated dialogue/reading with textbook content
-3. Update questions to match textbook
-4. Update answers to match source answer key
-5. Update explanations to reference correct content
+### REAL Fabrications (Need rewrite)
 
-### Step 4: Verify
-```bash
-node check-fabrication.js --grade {N}
-```
+| Grade | File | What's Fabricated | Reference |
+|-------|------|-------------------|-----------|
+| G6 | unit-11/skills-1 | "Making Our School Greener" interview | Check textbook reading |
+| G7 | unit-09/communication | Festival symbols content | loigiaihay.com/grade7/unit-09/communication.md |
+| G8 | unit-02/communication | Hanoi visitor content | loigiaihay.com/grade8/unit-02/communication.md |
+| G8 | unit-03/getting-started | Track 13 audio reference issue | Check textbook |
+| G8 | unit-03/communication | "Social media popular among teens" | loigiaihay.com/grade8/unit-03/communication.md |
+| G8 | unit-04/getting-started | Track 20 audio reference issue | Check textbook |
+| G8 | unit-04/communication | Track 23 audio reference issue | Check textbook |
+| G8 | unit-05/communication | Shishi-mai/lion dance content | loigiaihay.com/grade8/unit-05/communication.md |
+| G9 | unit-01/communication | "Binh from HCMC" content | loigiaihay.com/grade9/unit-01/communication.md |
+
+---
+
+## STRICT Unmatched (~150 items)
+
+Most are **false positives** from:
+- Different question phrasing (same meaning)
+- Exercise instructions not in source
+- Partial sentence matching issues
+
+**Action:** Review individually - most are NOT fabrications.
 
 ---
 
 ## Files Already Fixed
 
+### Content Rewrites
 - [x] G8 unit-07/skills-1 - Fixed Bài 3 questions 3-5, added option C
 - [x] G9 unit-12/getting-started - Complete rewrite (was fabricated Mi+Advisor dialogue)
 
+### Wrong Answers Fixed (by parallel agent)
+- [x] G7 unit-01/a-closer-look-2
+- [x] G8 unit-01/a-closer-look-1, a-closer-look-2
+- [x] G8 unit-02/a-closer-look-1, communication
+- [x] G8 unit-03/skills-2, looking-back
+- [x] G8 unit-04/getting-started
+- [x] G8 unit-05/a-closer-look-2
+- [x] G9 unit-02/a-closer-look-1
+- [x] G9 unit-03/getting-started, looking-back
+- [x] G9 unit-04/getting-started
+- [x] G9 unit-05/a-closer-look-1
+- [x] G9 unit-06/skills-1
+
 ---
 
-## Priority Order
+## How to Fix
 
-1. **HIGH**: Wrong answers - Students get wrong info
-2. **HIGH**: Fabricated dialogues/readings - Content doesn't match textbook
-3. **MEDIUM**: Fabricated examples - May confuse students
-4. **LOW**: Missing audio references - Infrastructure issue
+### Wrong Answers
+1. Read source file from loigiaihay.com or markdown-files
+2. Compare answer keys
+3. Update `<answer>` block in voice lecture
+4. Run `node check-fabrication.js --grade {N}` to verify
+
+### Fabricated Content
+1. Read source file for correct dialogue/reading
+2. Replace fabricated content with textbook content
+3. Update questions, answers, and explanations
+4. Keep voice lecture structure (chunks, teacher_script tags)
+5. Verify with fabrication check
 
 ---
 
 ## Verification Commands
 
 ```bash
-# Run fabrication check for specific grade
 node check-fabrication.js --grade 6
 node check-fabrication.js --grade 7
 node check-fabrication.js --grade 8
 node check-fabrication.js --grade 9
-
-# Generate updated checklist
 node generate-checklist.js
 ```
