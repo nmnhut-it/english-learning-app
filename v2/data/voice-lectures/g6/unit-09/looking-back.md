@@ -66,7 +66,7 @@ Ok đáp án nè.
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 34 - Vocabulary
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_2cf9a6a9.webm">
 Bài 2 trang 34. Điền từ vựng về địa danh thành phố. Nhớ các từ đã học: <eng>tower</eng> = tháp, <eng>beach</eng> = bãi biển, <eng>palace</eng> = cung điện. 1 phút.
 </teacher_script>
 
@@ -77,12 +77,12 @@ Bài 2 trang 34. Điền từ vựng về địa danh thành phố. Nhớ các t
 5. palace - cung điện
 6. postcard - bưu thiếp
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_db3f84d3.webm">
 Đáp án nè. Những từ này rất hay dùng khi mô tả thành phố. <eng>Tower</eng> là tháp như Big Ben. <eng>Beach</eng> là bãi biển như ở Sydney. <eng>Palace</eng> là cung điện như ở London. <eng>Night market</eng> là chợ đêm - đặc sản của các thành phố châu Á như Hà Nội, Bangkok.
 </teacher_script>
 
 <!-- chunk: grammar_review -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_6e7fc14f.webm">
 Chuyển qua phần ngữ pháp nha. Ôn lại tính từ sở hữu và đại từ sở hữu.
 </teacher_script>
 
@@ -91,7 +91,7 @@ Chuyển qua phần ngữ pháp nha. Ôn lại tính từ sở hữu và đại 
 <!-- chunk: exercise_3 -->
 ### Bài 3 trang 34 - Possessive pronouns
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_c16f2641.webm">
 Bài 3 trang 34. Điền đại từ sở hữu. Nhớ: đại từ sở hữu đứng một mình, không có danh từ đi sau. 1 phút.
 </teacher_script>
 
@@ -135,7 +135,7 @@ Ok đáp án nè.
 <!-- chunk: exercise_4 -->
 ### Bài 4 trang 34 - Correct the underlined words
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_ee61d320.webm">
 Bài 4 trang 34. Đọc câu và sửa từ gạch chân cho đúng. Chú ý phân biệt tính từ sở hữu và đại từ sở hữu. 1 phút.
 </teacher_script>
 
@@ -177,7 +177,7 @@ Ok đáp án nè.
 </answer>
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_6a9b4d3c.webm">
 Ok hết bài ôn tập Unit 9 rồi. Tổng kết nè:
 - Từ vựng: <eng>tower, beach, palace, night market, postcard</eng>
 - Tính từ sở hữu (<eng>my, your, his, her, its, our, their</eng>) + danh từ
